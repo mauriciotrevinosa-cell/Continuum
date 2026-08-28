@@ -1,0 +1,44 @@
+# Continuum — repository hygiene
+#
+# The persistent data roots (/source-vault, /library, /projects, /generated,
+# /jobs, /models, /cache) are configured absolute paths OUTSIDE this repository.
+# They must never be committed. These entries are a defensive backstop only —
+# see docs/ADR/0001-storage-and-source-vault.md.
+/source-vault/
+/library/
+/projects/
+/generated/
+/jobs/
+/models/
+/cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Archives / redistributions of the docs themselves
+*.zip
+
+# Toolchain
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+node_modules/
+.next/
+dist/
+build/
+*.egg-info/
+.coverage
+htmlcov/
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/

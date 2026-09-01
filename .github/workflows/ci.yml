@@ -1,0 +1,143 @@
+name: CI
+
+on:
+  push:
+    branches: [master, "phase-*/**"]
+  pull_request:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  CONTINUUM_DATA_HOME: ${{ github.workspace }}/.ci-data
+  CONTINUUM_SOURCE_VAULT_ROOT: ${{ github.workspace }}/fixtures/demo_vault
+
+jobs:
+  python:
+    name: Python (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        # BOTH platforms, deliberately. FOUNDATION_APPROVAL OQ-6: the
+        # Windows-specific path-security tests must not be silently skipped
+        # and then counted as a full pass, and the symlink tests need a
+        # POSIX runner because Windows denies symlink creation without
+        # Developer Mode. Neither platform alone gives complete coverage.
+        os: [ubuntu-latest, windows-latest]
+
+    services:
+      postgres:
+        image: pgvector/pgvector:pg16
+        env:
+          POSTGRES_USER: continuum
+          POSTGRES_PASSWORD: continuum_local_dev
+          POSTGRES_DB: continuum
+        ports: ["5433:5432"]
+        options: >-
+          --health-cmd "pg_isready -U continuum -d continuum"
+          --health-interval 5s --health-timeout 5s --health-retries 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Sync (Python 3.12 pinned, D-04)
+        run: uv sync --python 3.12 --frozen
+
+      - name: Lint
+        run: uv run ruff check .
+
+      - name: Format check
+        run: uv run ruff format --check .
+
+      - name: Type check (strict)
+        run: uv run mypy packages apps workers
+
+      - name: Import boundaries (ADR-0001 Layer 3)
+        run: uv run lint-imports
+
+      - name: Migrations (clean database)
+        run: uv run alembic upgrade head
+
+      - name: Tests
+        run: uv run pytest -q
+
+      - name: Assert the durable-job suite actually ran
+        # A green run that silently skipped every database test would be
+        # worse than a red one: it would report PASS for the acceptance
+        # items the whole phase exists to prove.
+        shell: bash
+        run: |
+          uv run pytest tests/acceptance/test_110_06_11_durable_jobs.py -q \
+            | tee /tmp/db-suite.txt
+          if grep -qi "PostgreSQL is not reachable" /tmp/db-suite.txt; then
+            echo "::error::The durable-job acceptance suite was skipped. CI must run it."
+            exit 1
+          fi
+
+  offline:
+    name: Offline / no-credential run (110.12)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv sync --python 3.12 --frozen
+      - name: Suite passes with an empty environment and no AI SDK
+        # Deliberately runs WITHOUT the postgres service: everything outside
+        # the durable-job suite must pass with no database, no network
+        # credential and no vendor SDK installed.
+        run: uv run pytest tests/acceptance/test_110_12_providers.py tests/invariants -q
+        env:
+          CONTINUUM_DATA_HOME: ${{ github.workspace }}/.ci-data
+          CONTINUUM_SOURCE_VAULT_ROOT: ${{ github.workspace }}/fixtures/demo_vault
+
+  web:
+    name: Web
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with: { version: 9.15.4 }
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm lint
+      - run: pnpm typecheck
+      - run: pnpm build:web
+
+  contract:
+    name: OpenAPI client drift (D-10)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - uses: pnpm/action-setup@v4
+        with: { version: 9.15.4 }
+      - uses: actions/setup-node@v4
+        with: { node-version: 20, cache: pnpm }
+      - run: uv sync --python 3.12 --frozen
+      - run: pnpm install --frozen-lockfile
+      - name: Regenerate the TypeScript client and fail on any diff
+        shell: bash
+        env:
+          CONTINUUM_DATA_HOME: ${{ github.workspace }}/.ci-data
+          CONTINUUM_SOURCE_VAULT_ROOT: ${{ github.workspace }}/fixtures/demo_vault
+        run: |
+          uv run python -c "
+          import json, pathlib
+          from continuum_api import create_app
+          spec = create_app().openapi()
+          pathlib.Path('openapi.json').write_text(json.dumps(spec, indent=2, sort_keys=True))
+          "
+          pnpm --filter @continuum/web exec openapi-typescript openapi.json \
+            -o apps/web/lib/api/generated/schema.d.ts
+          git diff --exit-code -- apps/web/lib/api/generated/ \
+            || { echo "::error::Generated API client is stale. Run the same command and commit."; exit 1; }

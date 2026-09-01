@@ -54,3 +54,6 @@ uv.lock.bak
 
 # Local overrides
 docker-compose.override.yml
+
+# Generated at CI time from the running app; the TS client IS committed.
+/openapi.json

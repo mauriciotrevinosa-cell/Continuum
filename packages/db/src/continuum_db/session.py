@@ -33,6 +33,10 @@ def build_engine(settings: Settings | None = None, *, echo: bool = False) -> Eng
         pool_size=resolved.db_pool_size,
         pool_pre_ping=True,
         future=True,
+        # A readiness probe that hangs is useless: without an explicit
+        # timeout, connecting to an unreachable host blocks for the OS TCP
+        # default (which on Windows can exceed 20s) and /ready never answers.
+        connect_args={"connect_timeout": 3},
     )
 
     @event.listens_for(_engine, "connect")

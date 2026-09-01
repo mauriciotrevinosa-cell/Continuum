@@ -23,6 +23,10 @@ root_packages =
 [importlinter:contract:filesystem-boundary]
 name = Only continuum_storage may import filesystem modules
 type = forbidden
+# Direct imports only. Without this, importing continuum_storage -- which is
+# the whole point of the abstraction -- would count as indirectly importing
+# pathlib and every consumer would be a violation.
+allow_indirect_imports = True
 source_modules =
     continuum_core
     continuum_config

@@ -42,3 +42,15 @@ Desktop.ini
 .DS_Store
 .idea/
 .vscode/
+
+# Node / Next.js
+.next/
+out/
+next-env.d.ts
+
+# uv / Python env
+.venv/
+uv.lock.bak
+
+# Local overrides
+docker-compose.override.yml

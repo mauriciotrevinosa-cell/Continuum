@@ -1,0 +1,14 @@
+[project]
+name = "continuum-providers"
+version = "0.0.0"
+description = "Provider contracts, registry, policy, deterministic fakes."
+requires-python = ">=3.12,<3.13"
+dependencies = ["continuum-core", "continuum-config"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv.sources]
+continuum-config = { workspace = true }
+continuum-core = { workspace = true }

@@ -1,0 +1,13 @@
+[project]
+name = "continuum-observability"
+version = "0.0.0"
+description = "Structured logging, correlation ids, secret redaction."
+requires-python = ">=3.12,<3.13"
+dependencies = ["continuum-core"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv.sources]
+continuum-core = { workspace = true }

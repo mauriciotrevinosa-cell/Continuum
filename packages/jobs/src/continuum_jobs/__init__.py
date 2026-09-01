@@ -1,1 +1,81 @@
-"""Placeholder - filled in by the next commit."""
+"""Durable job system: state machine, queue, leases, checkpoints, execution."""
+
+from continuum_jobs.execution import (
+    JobContext,
+    JobHandler,
+    StopReason,
+    UnitOutcome,
+    UnitSpec,
+    execute_job,
+    plan_units,
+)
+from continuum_jobs.lease import (
+    hardware_signature,
+    heartbeat,
+    reap_expired_leases,
+    register_worker,
+    renew_lease,
+    request_drain,
+    stop_worker,
+    worker_should_drain,
+)
+from continuum_jobs.queue import (
+    block_job,
+    claim_next_job,
+    compute_dedupe_key,
+    enqueue,
+    fail_job,
+    record_event,
+    request_cancel,
+    request_pause,
+    resume_job,
+    retry_job,
+    transition,
+    unblock_ready_dependents,
+)
+from continuum_jobs.registry import HandlerRegistry, UnknownJobTypeError, registry
+from continuum_jobs.states import (
+    ALLOWED_TRANSITIONS,
+    assert_transition,
+    can_transition,
+    is_terminal,
+    next_backoff_seconds,
+)
+
+__all__ = [
+    "ALLOWED_TRANSITIONS",
+    "HandlerRegistry",
+    "JobContext",
+    "JobHandler",
+    "StopReason",
+    "UnitOutcome",
+    "UnitSpec",
+    "UnknownJobTypeError",
+    "assert_transition",
+    "block_job",
+    "can_transition",
+    "claim_next_job",
+    "compute_dedupe_key",
+    "enqueue",
+    "execute_job",
+    "fail_job",
+    "hardware_signature",
+    "heartbeat",
+    "is_terminal",
+    "next_backoff_seconds",
+    "plan_units",
+    "reap_expired_leases",
+    "record_event",
+    "register_worker",
+    "registry",
+    "renew_lease",
+    "request_cancel",
+    "request_drain",
+    "request_pause",
+    "resume_job",
+    "retry_job",
+    "stop_worker",
+    "transition",
+    "unblock_ready_dependents",
+    "worker_should_drain",
+]

@@ -13,17 +13,20 @@ import datetime as dt
 import uuid
 from typing import Any
 
-from continuum_core import StructuredError, content_hash_bytes, uuid7
+from continuum_core import ContinuumError, ErrorCategory, StructuredError, content_hash_bytes, uuid7
 from continuum_db.enums import BlockedReason, JobEventType, JobStatus
 from continuum_db.models import Job, JobDependency, JobEvent
 from continuum_observability import current_correlation_id, get_logger
-from sqlalchemy import func, select, update
+from sqlalchemy import func, select, text, update
 from sqlalchemy.exc import IntegrityError
 from sqlalchemy.orm import Session
 
 from continuum_jobs.states import assert_transition, is_terminal, next_backoff_seconds
 
 __all__ = [
+    "DependencyCycleError",
+    "add_dependency",
+    "apply_pending_requests",
     "block_job",
     "claim_next_job",
     "compute_dedupe_key",
@@ -39,6 +42,13 @@ __all__ = [
 ]
 
 log = get_logger("continuum.jobs.queue")
+
+
+class DependencyCycleError(ContinuumError):
+    """A proposed dependency edge would close a ring in the job DAG."""
+
+    code = "jobs.dependency_cycle"
+    category = ErrorCategory.PERMANENT_INPUT
 
 
 def compute_dedupe_key(job_type: str, payload: dict[str, Any], recipe_version: str | None) -> str:
@@ -141,7 +151,7 @@ def enqueue(
     record_event(session, job.id, JobEventType.CREATED, to_status=JobStatus.QUEUED)
 
     for parent_id in depends_on or []:
-        session.add(JobDependency(job_id=job.id, depends_on_job_id=parent_id))
+        add_dependency(session, job.id, parent_id)
     if depends_on:
         _apply_status(
             session,
@@ -242,6 +252,11 @@ def claim_next_job(
             Job.status.in_((JobStatus.QUEUED, JobStatus.FAILED_RETRYABLE)),
             Job.run_after <= func.now(),
             Job.resource_class.in_(eligible),
+            # Belt and braces alongside apply_pending_requests(): never start
+            # work the user has already asked to stop, even if the request
+            # landed between the request-applier pass and this claim.
+            Job.cancel_requested.is_(False),
+            Job.pause_requested.is_(False),
         )
         .order_by(Job.priority.desc(), Job.created_at)
         .limit(1)
@@ -289,27 +304,148 @@ def _lease_deadline(session: Session, lease_seconds: int) -> dt.datetime:
 
 
 def request_pause(session: Session, job: Job) -> Job:
-    """Set the pause FLAG. Never writes status directly (F-28)."""
+    """Set the pause FLAG, and only the flag.
+
+    **Callers of this are the API.** It must not write ``status`` — the
+    approved rule (FOUNDATION_APPROVAL invariant 8, ADR-0002 section 4) is
+    that API calls set request flags and worker/reaper paths own every
+    guarded status transition.
+
+    An earlier version transitioned QUEUED -> PAUSED and RUNNING -> PAUSING
+    here, which reintroduced exactly the two-writer race F-28 exists to
+    prevent. :func:`apply_pending_requests` now performs those transitions on
+    the worker side; a RUNNING job is landed cooperatively by its own
+    execution loop.
+    """
     job.pause_requested = True
     record_event(session, job.id, JobEventType.PAUSE_REQUESTED)
-    if job.status is JobStatus.QUEUED:
-        transition(session, job, JobStatus.PAUSED)
-    elif job.status is JobStatus.RUNNING:
-        transition(session, job, JobStatus.PAUSING)
     session.flush()
     return job
 
 
 def request_cancel(session: Session, job: Job) -> Job:
-    """Set the cancel FLAG. Never writes status directly (F-28)."""
+    """Set the cancel FLAG, and only the flag. See :func:`request_pause`."""
     job.cancel_requested = True
     record_event(session, job.id, JobEventType.CANCEL_REQUESTED)
-    if job.status in (JobStatus.QUEUED, JobStatus.PAUSED, JobStatus.BLOCKED):
-        transition(session, job, JobStatus.CANCELLED)
-    elif job.status in (JobStatus.RUNNING, JobStatus.PAUSING):
-        transition(session, job, JobStatus.CANCELLING)
     session.flush()
     return job
+
+
+def apply_pending_requests(session: Session) -> dict[str, int]:
+    """Act on pause/cancel flags. **Worker- and reaper-owned.**
+
+    Handles jobs that are *not* currently executing: a RUNNING job observes
+    its own flags between units and lands itself (``execution._land_stop``).
+    Everything else needs someone to notice, and that someone must be a
+    worker path so there is exactly one writer of ``status``.
+
+    Returns a count per action so the worker can log a meaningful summary.
+    """
+    counts = {"cancelled": 0, "paused": 0}
+
+    cancellable = (
+        session.execute(
+            select(Job).where(
+                Job.cancel_requested.is_(True),
+                Job.status.in_(
+                    (
+                        JobStatus.QUEUED,
+                        JobStatus.PAUSED,
+                        JobStatus.BLOCKED,
+                        JobStatus.FAILED_RETRYABLE,
+                    )
+                ),
+            )
+        )
+        .scalars()
+        .all()
+    )
+    for job in cancellable:
+        transition(session, job, JobStatus.CANCELLED, detail={"reason": "cancel requested"})
+        counts["cancelled"] += 1
+
+    pausable = (
+        session.execute(
+            select(Job).where(
+                Job.pause_requested.is_(True),
+                Job.cancel_requested.is_(False),
+                Job.status == JobStatus.QUEUED,
+            )
+        )
+        .scalars()
+        .all()
+    )
+    for job in pausable:
+        transition(session, job, JobStatus.PAUSED, detail={"reason": "pause requested"})
+        counts["paused"] += 1
+
+    session.flush()
+    return counts
+
+
+def add_dependency(
+    session: Session,
+    job_id: uuid.UUID,
+    depends_on_job_id: uuid.UUID,
+    *,
+    kind: str = "completion",
+) -> JobDependency:
+    """Add a DAG edge, rejecting anything that would create a cycle.
+
+    ADR-0002 section 9 requires a cycle check at insert. The database CHECK
+    constraint only catches the self-edge ``A -> A``; a transitive cycle
+    (``A -> B -> C -> A``) would otherwise be accepted and would deadlock the
+    scheduler permanently, because every job in the ring waits for another
+    member that can never finish.
+
+    The reachability query is a recursive CTE rather than a Python walk so the
+    whole check happens in one round trip and sees the same snapshot as the
+    insert.
+    """
+    if job_id == depends_on_job_id:
+        raise DependencyCycleError(
+            "A job cannot depend on itself.",
+            technical_detail=f"job_id == depends_on_job_id == {job_id}",
+        )
+
+    if _creates_cycle(session, job_id=job_id, depends_on_job_id=depends_on_job_id):
+        raise DependencyCycleError(
+            "That dependency would create a cycle, which could never complete.",
+            technical_detail=(f"{depends_on_job_id} already depends (transitively) on {job_id}"),
+            remediation=(
+                "Remove the opposing dependency first, or restructure the jobs so the "
+                "graph stays acyclic."
+            ),
+        )
+
+    edge = JobDependency(job_id=job_id, depends_on_job_id=depends_on_job_id, kind=kind)
+    session.add(edge)
+    session.flush()
+    return edge
+
+
+def _creates_cycle(session: Session, *, job_id: uuid.UUID, depends_on_job_id: uuid.UUID) -> bool:
+    """True if ``job_id`` is already reachable from ``depends_on_job_id``.
+
+    Adding ``job_id -> depends_on_job_id`` closes a ring exactly when the
+    proposed prerequisite already depends on the dependent.
+    """
+    reachable = text(
+        """
+        WITH RECURSIVE reach(id) AS (
+            SELECT depends_on_job_id FROM job_dependency WHERE job_id = :start
+            UNION
+            SELECT d.depends_on_job_id
+              FROM job_dependency d
+              JOIN reach r ON d.job_id = r.id
+        )
+        SELECT 1 FROM reach WHERE id = :target LIMIT 1
+        """
+    )
+    found = session.execute(
+        reachable, {"start": depends_on_job_id, "target": job_id}
+    ).scalar_one_or_none()
+    return found is not None
 
 
 def resume_job(session: Session, job: Job) -> Job:

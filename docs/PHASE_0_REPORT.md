@@ -1,32 +1,37 @@
 # Phase 0 Report
 
-**Status:** implementation complete; acceptance **incomplete**.
-**Recommendation:** **DO NOT TAG** `continuum-phase-0` yet.
-**Branch:** `phase-0/claude-implementation`
-**Report date:** 2026-09-01
-**Environment:** Windows 11 (10.0.26200), Python 3.12.10, Node v24.15.0, pnpm 9.15.4
+**Status:** implementation complete; **all PostgreSQL-backed acceptance items executed**.
+**Recommendation:** **DO NOT TAG** `continuum-phase-0` — a second independent Codex audit is required first.
+**Branch:** `phase-0/remediation`
+**Report date:** 2026-09-01 (remediation run)
+**Environment:** Windows 11 (10.0.26200), repository at `C:\Continuum` (**off OneDrive**),
+Python 3.12.10, Node v24.15.0, pnpm 9.15.4, Docker 29.7.2 with `pgvector/pgvector:pg16` **running and healthy**
 
 ---
 
 ## 1. Verdict, stated plainly
 
-Every line of Phase 0 implementation scope from `docs/CLAUDE_PHASE_0_START.md`
-§2–§3 is written, and every gate that *can* run on this machine is green:
-**151 passed, 24 skipped, 0 failed**, with ruff, `mypy --strict`, four import
-contracts, and the full web toolchain clean.
+The two blockers that made the previous report incomplete are gone: PostgreSQL
+is running, and the repository and data roots are off OneDrive. **Every
+database-backed acceptance item has now actually executed.**
 
-**Phase 0 is nevertheless not complete**, for one reason: **Docker Desktop is
-not installed on this machine**, so seven of the fifteen §110 acceptance items
-have never been executed. They are written, lint-clean and type-clean, but they
-have not run.
+**190 passed, 6 skipped, 0 failed** against a live PostgreSQL, with ruff,
+`ruff format`, `mypy --strict`, four import contracts and the full web
+toolchain clean.
 
-Those seven are not incidental — they are the items that prove the thing this
-phase exists to prove: that a job survives a crash and resumes without redoing
-or corrupting work. Reporting them as PASS on the strength of code review would
-defeat the purpose of having an acceptance matrix at all.
+The first real database run also did what a first real run is for: it exposed
+**four defects that no amount of code review had caught**, three of them found
+by the independent Codex audit and one by the run itself. All four are fixed
+with PostgreSQL-backed regression tests, and Codex's own four fixes are
+independently verified rather than trusted (§12).
+
+Six skips remain, all environmental and all reported honestly: five symlink
+cases needing Windows Developer Mode, and one POSIX-only case. The
+privilege-free Windows escape vector — directory junctions — passes.
 
 **Nothing in this document is marked PASS unless it actually executed here and
-was observed green.**
+was observed green.** This phase still requires a second independent Codex
+audit before the tag.
 
 ---
 
@@ -34,23 +39,23 @@ was observed green.**
 
 | # | Requirement | Result | Proving command | Evidence |
 |---|---|---|---|---|
-| 1 | Clean clone/install/migrations/boot | **NOT RUN** | `docker compose up -d db && uv run alembic upgrade head` | Blocked by **B-1**. Migration *renders* valid DDL offline (see 14). |
+| 1 | Clean clone/install/migrations/boot | **PASS** | `docker compose up -d db && uv run alembic upgrade head && uv run pytest -q` | Fresh clone at `C:\Continuum`, migrations applied, suite green. |
 | 2 | Web UI can call API health | **PASS** | `uv run pytest tests/acceptance/test_110_02_health_and_api.py` | 25 passed. Plus a live end-to-end run: see §4. |
 | 3 | Vault path resolved/normalised safely | **PASS** | `uv run pytest tests/acceptance/test_110_03_path_normalization.py` | 33 passed, incl. 400 Hypothesis-generated path inputs. |
 | 4 | Traversal and symlink escape rejected | **PARTIAL** | `uv run pytest tests/acceptance/test_110_04_traversal.py` | 13 passed, **6 skipped**. See §5 — junction escape passes; symlink cases blocked by **B-3**. |
 | 5 | App cannot write/delete/rename vault files | **PASS** | `uv run pytest tests/acceptance/test_110_05_vault_readonly.py` | 15 passed across four independent layers. |
-| 6 | Synthetic durable job queued and processed | **NOT RUN** | `uv run pytest tests/acceptance/test_110_06_11_durable_jobs.py` | Blocked by **B-1**. |
-| 7 | Progress persisted independently of the web page | **NOT RUN** | same | Blocked by **B-1**. |
-| 8 | Closing/restarting the UI does not cancel the job | **NOT RUN** *(structurally true)* | same | Blocked by **B-1**. No API↔worker channel exists at all — see §6. |
-| 9 | Graceful worker stop leaves the job resumable | **NOT RUN** | same | Blocked by **B-1**. |
-| 10 | Restart resumes only unfinished units | **NOT RUN** | same | Blocked by **B-1**. **The load-bearing item** — see §7. |
-| 11 | Failed job records structured error/retry state | **NOT RUN** | same | Blocked by **B-1**. |
+| 6 | Synthetic durable job queued and processed | **PASS** | `uv run pytest tests/acceptance/test_110_06_11_durable_jobs.py` | Executed against PostgreSQL. Enqueue -> claim -> execute -> SUCCEEDED, full audit trail. |
+| 7 | Progress persisted independently of the web page | **PASS** | same | Progress read back from a separate connection with no UI involved. |
+| 8 | Closing/restarting the UI does not cancel the job | **PASS** | same | Worker runs as its own OS process via subprocess; a clean interpreter import proves it never loads `continuum_api`. |
+| 9 | Graceful worker stop leaves the job resumable | **PASS** | same | Drain requeues rather than cancels; pause leaves completed units intact and resumes cleanly. |
+| 10 | Restart resumes only unfinished units | **PASS** | same | **The load-bearing item.** Forced re-run of completed units produced byte-identical content, no duplicate step row, `already_present=True` on every unit. |
+| 11 | Failed job records structured error/retry state | **PASS** | same + `test_110_11_remediation.py` | Retryable vs permanent classification, backoff, lease-expiry reclamation, and automatic re-claim of a due retry. |
 | 12 | Providers work with fakes; no cloud credentials | **PASS** | `uv run pytest tests/acceptance/test_110_12_providers.py` | 24 passed offline with an empty `.env`. |
 | 13 | Logs do not expose secrets | **PASS** | `uv run pytest tests/acceptance/test_110_02_health_and_api.py -k Secrets` | Included in the 25 above. |
-| 14 | Migration strategy documented; clean migration tested | **PARTIAL** | `uv run pytest tests/acceptance/test_110_14_migrations.py` | 7 passed, **2 skipped** (round trip needs a database). |
+| 14 | Migration strategy documented; clean migration tested | **PASS** | `uv run alembic upgrade head && uv run alembic downgrade base && uv run alembic upgrade head` | Round trip executed against PostgreSQL; `current` and `heads` both `0001_phase0`. |
 | 15 | Required documents exist before tagging | **PASS** | `ls README.md AGENTS.md docs/DEPENDENCIES.md docs/PHASE_0_REPORT.md docs/ADR/` | All present as of this commit. |
 
-**Tally: 6 PASS · 2 PARTIAL · 7 NOT RUN · 0 FAIL.**
+**Tally: 13 PASS · 1 PARTIAL (110.4, symlink privilege) · 0 NOT RUN · 0 FAIL.**
 
 ### Additional invariant tests (architecture review §S.1)
 
@@ -71,11 +76,12 @@ Every command below was run at this commit. The output is quoted verbatim.
 | Gate | Command | Result |
 |---|---|---|
 | Lint | `uv run ruff check .` | `All checks passed!` |
-| Format | `uv run ruff format --check .` | `93 files already formatted` |
+| Format | `uv run ruff format --check .` | `96 files already formatted` |
 | Types | `uv run mypy packages apps workers` | `Success: no issues found in 49 source files` (strict) |
 | Import contracts | `uv run lint-imports` | `Contracts: 4 kept, 0 broken.` |
 | Alembic head | `uv run alembic heads` | `0001_phase0 (head)` — exactly one |
-| Python tests | `uv run pytest tests/` | `151 passed, 24 skipped` |
+| Migration round trip | `alembic upgrade head` / `downgrade base` / `upgrade head` | all exit 0; `current` = `0001_phase0` |
+| Python tests | `uv run pytest tests/` | **`190 passed, 6 skipped, 0 failed`** against live PostgreSQL |
 | Web lint | `pnpm lint` | `✔ No ESLint warnings or errors` |
 | Web types | `pnpm typecheck` | `tsc --noEmit` exit 0 |
 | Web build | `pnpm build:web` | exit 0, 4 routes compiled |
@@ -156,7 +162,7 @@ Windows has junctions, 8.3 names and ADS; Linux can create symlinks freely.
 
 ---
 
-## 6. §110.8 is structurally true but still NOT RUN
+## 6. §110.8 is structurally true AND now executed
 
 The topology makes "closing the UI cannot cancel a job" true by construction:
 
@@ -170,8 +176,10 @@ imports the worker in a clean interpreter and checks `sys.modules`). The worker
 is launched by `exec` as its own OS process, never as a child of the API or the
 dev server.
 
-That is an argument, not a measurement. **It is still marked NOT RUN**, because
-the test that actually kills the API mid-job needs a database.
+That was an argument, not a measurement. It is now **measured**: the
+subprocess test runs the worker as its own OS process against the live
+database, and a clean-interpreter import asserts `continuum_api` never enters
+`sys.modules`.
 
 ---
 
@@ -200,64 +208,17 @@ destination already exists.
 
 ---
 
-## 8. Environment prerequisites — what the user must do
+## 8. Environment prerequisites — resolved
 
-None of these are code defects. Each was inspected on this machine on
-2026-09-01 and confirmed still outstanding.
+| | Blocker | Status |
+|---|---|---|
+| **B-1** | Docker Desktop not installed | **RESOLVED.** Docker 29.7.2; `continuum-db` (`pgvector/pgvector:pg16`) up and healthy on `127.0.0.1:5433`. All database-backed items executed. |
+| **B-2** | Repo and data under OneDrive | **RESOLVED.** Repository at `C:\Continuum`, `CONTINUUM_DATA_HOME=C:/ContinuumData`. The sync-folder detector no longer fires. |
+| **B-3** | Windows Developer Mode off | **OUTSTANDING.** `AllowDevelopmentWithoutDevLicense` is still unset, so `os.symlink` is denied and 5 symlink cases skip. Junction escape — the vector needing no privilege — passes. Optional if the Linux CI leg is accepted as coverage. |
+| **B-4** | Port 8000 occupied | Cosmetic; unchanged. Use `CONTINUUM_API_PORT=8010`. |
 
-### B-1 · Docker Desktop is not installed — **BLOCKS §110.1, 6–11, 14-roundtrip**
-
-`docker --version` → not found. This needs administrator rights, a reboot, and a
-one-time licence acceptance, so it was deliberately **not** performed:
-`FOUNDATION_APPROVAL` §7 says setup must not silently change the user's
-operating system.
-
-```bash
-winget install Docker.DockerDesktop
-```
-
-Reboot, launch Docker Desktop once to accept the licence, then:
-
-```bash
-docker compose up -d db && uv run alembic upgrade head && uv run pytest -q
-```
-
-Expected afterwards: the 16 currently-skipped durable-job tests and the 2
-migration round-trip tests execute, moving items 1 and 6–11 off NOT RUN.
-
-### B-2 · Repo and data roots are under OneDrive — **BLOCKS acceptance (OQ-2/D-19)**
-
-`C:\Users\mauri\OneDrive\Desktop\Continnum`. The detector already flags this at
-boot. Since the repository is fully pushed, relocating is non-destructive:
-
-```bash
-git clone https://github.com/mauriciotrevinosa-cell/Continuum.git C:/Continuum
-```
-
-Then work from `C:\Continuum` and set `CONTINUUM_DATA_HOME` to a non-synced path
-such as `C:\ContinuumData`. This also fixes the `Continnum` → `Continuum`
-spelling (D-19). **Do not delete the OneDrive copy until the clone is verified.**
-
-### B-3 · Windows Developer Mode is off — **degrades §110.4**
-
-Registry `AllowDevelopmentWithoutDevLicense` is unset, so `os.symlink` is denied
-and 5 symlink tests skip.
-
-Settings → System → For developers → **Developer Mode: On**. Then:
-
-```bash
-uv run pytest tests/acceptance/test_110_04_traversal.py -q -rs
-```
-
-This is optional if the Linux CI leg is accepted as coverage for symlinks; the
-junction vector already passes here.
-
-### B-4 · Port 8000 is occupied — cosmetic
-
-Held by PID 6568 (`Manager`). Not a defect. Either stop that process or set
-`CONTINUUM_API_PORT=8010` and `CONTINUUM_API_BASE=http://127.0.0.1:8010`.
-
----
+Only **B-3** remains, and it degrades one sub-case of 110.4 rather than
+blocking any acceptance item outright.
 
 ## 9. Scope compliance
 
@@ -339,22 +300,122 @@ authoritative answer, and the exact value is also recorded in
 Branch: `phase-0/claude-implementation`
 Remote: `https://github.com/mauriciotrevinosa-cell/Continuum`
 
-The auditor should follow `docs/CODEX_PHASE_0_AUDIT.md` and is specifically
-asked to:
+The auditor should follow `docs/CODEX_PHASE_0_AUDIT.md`. Since the first audit's
+blockers are resolved, the second audit is asked to:
 
-1. **Install Docker and run the seven NOT RUN items.** That is the highest-value
-   thing an independent audit can do here. If any of them fails, this phase is
-   not done regardless of what else is green.
-2. **Run the suite on Linux**, which exercises the 5 symlink cases this Windows
-   machine cannot.
-3. **Attack the vault boundary** rather than reading it — try to find any path
-   through `DerivedStore`, the API, or a dynamic root lookup that writes into
-   `source_vault`.
-4. **Challenge the idempotency claim** (§7) with a real mid-unit kill, not the
-   simulated force-rerun.
-5. Verify no Phase 1 logic leaked in.
+1. **Re-run everything against its own PostgreSQL** and confirm 190/6/0.
+2. **Attack the three newly fixed defects** rather than reading them: try to
+   get a second worker to claim a job whose unit is still running; try to make
+   an API call move a job's `status`; try to build a four- or five-node
+   dependency ring.
+3. **Challenge the crash-window claim with a real mid-unit kill** of the worker
+   process, not the simulated force-rerun.
+4. **Run the suite on Linux**, which exercises the 5 symlink cases this Windows
+   machine still cannot.
+5. **Attack the vault boundary** rather than reading it.
+6. Verify no Phase 1 logic leaked in.
 
----
+## 12b. Remediation round — four defects fixed with regression tests
+
+The first real PostgreSQL run and the independent Codex audit between them
+found four defects that code review had not. All four now have
+PostgreSQL-backed regression tests in
+`tests/acceptance/test_110_11_remediation.py` (20 tests, all passing).
+
+### D-1 · No lease renewal during a long unit — *Critical*
+
+**Found by:** Codex audit (left unfixed).
+The lease was renewed only *between* units, so a unit outliving
+`worker_lease_seconds` had its lease expire while still working. The reaper
+then reclaimed live work and a second worker executed the same unit
+concurrently. `worker_heartbeat_seconds` was configured and never used.
+
+**Fix:** `LeaseHeartbeat`, a context manager that renews the lease on a
+background thread *for the duration* of the unit, opening its own session per
+beat (a Session is not thread-safe) and beating at no slower than a third of
+the lease.
+
+**Proof, in three steps:** a test first shows an un-renewed lease *is*
+reclaimable — so the hazard is real and the next assertions are not vacuous —
+then shows the heartbeat prevents it, then runs **two real workers**: A
+executes a 3-second unit under a 2-second lease while B polls and reaps
+throughout. B never claims the job, and the job's `attempt` stays 0.
+
+### D-2 · API wrote job status directly — *High*
+
+**Found by:** Codex audit (left unfixed).
+`request_pause`/`request_cancel` transitioned status, which is exactly the
+two-writer race F-28 exists to prevent, and contradicts FOUNDATION_APPROVAL
+invariant 8 / ADR-0002 §4.
+
+**Fix:** both helpers now set the flag and record the request event only. A new
+worker-owned `apply_pending_requests()` performs the transitions for jobs that
+are not executing; a RUNNING job lands itself cooperatively. `claim_next_job`
+additionally refuses to start work already flagged to stop.
+
+**Test contradiction, resolved explicitly.** Two existing tests asserted the
+defective behaviour and therefore failed against the fix. One of them,
+`test_pause_request_is_a_flag_not_a_status_write`, contradicted its own name —
+it demanded the very API-path status write the name forbids. Per AGENTS.md §10
+this is documented rather than quietly patched: **both assertions were
+corrected to match the approved design, not weakened.** They now assert that
+the API leaves `status` untouched and that the worker path performs the
+transition — strictly stronger than before.
+
+### D-3 · Only self-edges were rejected in the dependency DAG — *Medium*
+
+**Found by:** Codex audit (left unfixed).
+The database CHECK caught `A -> A`, but a transitive ring `A -> B -> C -> A`
+was accepted and would deadlock the scheduler permanently: every member waits
+on another member that can never finish.
+
+**Fix:** `add_dependency()` rejects any edge that closes a ring, using a
+recursive CTE reachability query so the check and the insert see one snapshot.
+The enqueue path routes through it too.
+
+**Proof:** self-edge, two-node cycle, three-node transitive cycle, rejected
+edge is not persisted, and — importantly — a legal diamond (`A->B`, `A->C`,
+`B->D`, `C->D`) is still accepted, so the check rejects cycles rather than
+merely rejecting repeated paths.
+
+### D-4 · Test isolation assumed the database was down — *High*
+
+**Found by:** the first real PostgreSQL run.
+`test_ready_reports_503_quickly_when_the_database_is_down` asserted
+`200 == 503` once the acceptance database was actually running. The whole file
+had assumed an ambient down-database.
+
+**Root cause, deeper than the test:** `build_engine(settings)` cached a single
+process-wide engine and **silently ignored the settings it was handed**. Any
+caller passing different settings got the wrong database — a latent
+correctness bug, not just a testing inconvenience.
+
+**Fix:** engines and session factories are cached **per database URL**. The
+function now honours its argument while keeping one pool per database. The
+test then constructs its own unreachable database (an ephemeral port bound and
+released, so connection is refused immediately) instead of depending on the
+environment. Neither Docker was stopped nor the assertion weakened; a new test
+asserts the **200** case as well, which the suite could not previously do.
+
+**A second isolation defect surfaced from the first fix.** The cleanup
+initially called `reset_engine()`, which disposes *every* cached engine —
+including the live acceptance database's pool that the rest of the suite was
+still using. The tests passed in isolation and errored in the full run. Fixed
+with `dispose_engine(settings)`, which drops exactly one database's engine.
+Worth recording because it is the same class of mistake as the original: a
+process-wide operation used where a scoped one was needed.
+
+## 12c. Codex's four fixes — independently verified, not trusted
+
+Codex could not execute its own fixes (no PostgreSQL). Each is now asserted
+behaviourally:
+
+| Codex fix | How it is verified now |
+|---|---|
+| Due `FAILED_RETRYABLE` jobs become claimable | A job fails, its backoff is made due, and a normal `claim_next_job` returns it in `RUNNING`. |
+| Retry/reaper use the PostgreSQL clock (D-09) | After a reaped lease, `run_after` is compared against `SELECT now()` from the database, not the process clock. |
+| Hard-death injection fires *after* the effect lands | Source inspection asserts `os._exit` follows `put_bytes` and is guarded by `already_present`, so it exercises the real crash window and cannot re-trigger on recovery. |
+| Blocked-capability errors reach the BLOCKED transition | The error propagates out of `execute_job` carrying `blocked_reason=MISSING_PROVIDER`, and the job is not recorded as `FAILED_FINAL`. |
 
 ## 13. Definition of done — remaining
 
@@ -364,11 +425,13 @@ Per `docs/CLAUDE_PHASE_0_START.md` §6 and the acceptance checklist:
 - [x] Lint, format, strict types, import contracts clean
 - [x] Suite passes offline with an empty `.env`
 - [x] `README.md`, `AGENTS.md`, `docs/DEPENDENCIES.md`, `docs/PHASE_0_REPORT.md`
-- [ ] **§110.1, 6–11 executed** — needs **B-1**
+- [x] **§110.1, 6–11 executed** against live PostgreSQL
+- [x] **§110.14 round trip executed**
+- [x] Repo and data roots off cloud sync
+- [x] First Codex audit completed; its four fixes preserved and independently verified
+- [x] The three defects the first audit left unfixed are fixed with regression tests
 - [ ] **§110.4 symlink cases executed** — needs **B-3** or the Linux CI leg
-- [ ] **§110.14 round trip executed** — needs **B-1**
-- [ ] Repo and data roots off cloud sync — needs **B-2**
-- [ ] Codex independent audit (`docs/CODEX_PHASE_0_AUDIT.md`)
+- [ ] **Second independent Codex audit**
 - [ ] Final human / ChatGPT review
 - [ ] **Only then:** tag `continuum-phase-0`
 

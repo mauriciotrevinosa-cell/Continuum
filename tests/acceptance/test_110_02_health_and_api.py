@@ -1,8 +1,19 @@
 """Acceptance 110.2 (health reachable) and 110.13 (no secrets in logs).
 
-All of these run with the database DOWN, which is deliberate: ``/health``
-must work when the database is broken, or it cannot help diagnose a broken
-database.
+``/health`` must answer even when the database is broken, or it cannot help
+diagnose a broken database. ``/ready`` must report 503 quickly in the same
+situation.
+
+**These tests no longer assume the suite runs without PostgreSQL.** They
+originally did, and the first real database run exposed that as a
+test-isolation defect: once the acceptance database was actually running,
+``test_ready_reports_503_quickly_when_the_database_is_down`` asserted
+``200 == 503``.
+
+The fix is for the test to construct the down-database condition *itself*
+(:func:`unreachable_settings`) rather than depending on the ambient
+environment. That keeps the assertion at full strength while the real
+acceptance database stays up for the rest of the suite.
 """
 
 from __future__ import annotations
@@ -10,13 +21,28 @@ from __future__ import annotations
 import io
 import json
 import logging
+import socket
+import time
 from pathlib import Path
 
 import pytest
 from continuum_api import create_app
 from continuum_config import Settings
+from continuum_db.session import dispose_engine
 from continuum_observability import configure_logging, secret_registry
 from fastapi.testclient import TestClient
+
+
+def _closed_loopback_port() -> int:
+    """Bind an ephemeral port, release it, and return it.
+
+    Nothing is listening there, so a connection attempt gets an immediate
+    ECONNREFUSED rather than hanging until the OS TCP timeout. That is what
+    makes the "fails fast" half of this assertion meaningful.
+    """
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as probe:
+        probe.bind(("127.0.0.1", 0))
+        return int(probe.getsockname()[1])
 
 
 @pytest.fixture
@@ -25,13 +51,44 @@ def client(settings: Settings) -> TestClient:
         yield test_client
 
 
+@pytest.fixture
+def unreachable_settings(data_home: Path, vault_root: Path) -> Settings:
+    """Settings pointing at a database that is guaranteed not to answer.
+
+    Deterministic regardless of whether the real acceptance database is
+    running, because it targets a port this test just proved is free.
+    """
+    port = _closed_loopback_port()
+    return Settings(
+        _env_file=None,
+        data_home=str(data_home),
+        source_vault_root=str(vault_root),
+        database_url=(
+            f"postgresql+psycopg://continuum:continuum_local_dev@127.0.0.1:{port}/continuum"
+        ),
+    )
+
+
+@pytest.fixture
+def unreachable_client(unreachable_settings: Settings) -> TestClient:
+    with TestClient(create_app(unreachable_settings)) as test_client:
+        yield test_client
+    # Drop ONLY the dead engine. reset_engine() would also dispose the live
+    # acceptance database's pool, which the rest of the suite is still using.
+    dispose_engine(unreachable_settings)
+
+
 class TestHealthEndpoint:
     def test_health_is_reachable(self, client: TestClient) -> None:
         assert client.get("/health").status_code == 200
 
-    def test_health_works_with_the_database_down(self, client: TestClient) -> None:
-        """No PostgreSQL is running in this suite. /health must still answer."""
-        body = client.get("/health").json()
+    def test_health_works_with_the_database_down(self, unreachable_client: TestClient) -> None:
+        """/health must answer when the database is unreachable.
+
+        Uses a deliberately dead database rather than assuming the ambient
+        one is down, so this holds whether or not PostgreSQL is running.
+        """
+        body = unreachable_client.get("/health").json()
         assert body["status"] == "ok"
         assert body["phase"] == "0"
 
@@ -59,15 +116,46 @@ class TestHealthEndpoint:
         }
         assert protection["informational_only"] is True
 
-    def test_ready_reports_503_quickly_when_the_database_is_down(self, client: TestClient) -> None:
+    def test_ready_reports_503_quickly_when_the_database_is_down(
+        self, unreachable_client: TestClient
+    ) -> None:
         """A readiness probe that hangs is useless. It must fail fast and say
-        what to do about it."""
-        response = client.get("/ready")
+        what to do about it.
+
+        The down-database condition is constructed by this test, not inherited
+        from the environment, so the assertion keeps full strength while the
+        real acceptance database keeps running for the rest of the suite.
+        """
+        started = time.monotonic()
+        response = unreachable_client.get("/ready")
+        elapsed = time.monotonic() - started
+
         assert response.status_code == 503
         body = response.json()
         assert body["ready"] is False
         assert body["database"]["reachable"] is False
         assert "docker compose" in (body["detail"] or "")
+        # "Quickly" is half the requirement. connect_timeout is 3s and a closed
+        # loopback port refuses immediately, so anything approaching the OS TCP
+        # default means the timeout was lost.
+        assert elapsed < 10.0, f"/ready took {elapsed:.1f}s; the connect timeout is not applied"
+
+    def test_ready_reports_200_when_the_database_is_up(self, client: TestClient) -> None:
+        """The positive half, which the suite could not assert before.
+
+        Requires the real acceptance database, so it skips honestly when there
+        is none rather than silently proving nothing.
+        """
+        response = client.get("/ready")
+        if response.status_code == 503:
+            pytest.skip(
+                "acceptance PostgreSQL is not running; start it with: docker compose up -d db"
+            )
+        assert response.status_code == 200
+        body = response.json()
+        assert body["ready"] is True
+        assert body["database"]["reachable"] is True
+        assert body["storage_healthy"] is True
 
 
 class TestApiSurfaceIsPhaseZeroOnly:

@@ -19,9 +19,11 @@ from __future__ import annotations
 
 import os
 import platform
+import threading
 import uuid
 from typing import Any, cast
 
+from continuum_config import Settings
 from continuum_core import uuid7
 from continuum_db.enums import JobEventType, JobStatus
 from continuum_db.models import Job, Worker
@@ -32,6 +34,7 @@ from sqlalchemy.orm import Session
 from continuum_jobs.queue import record_event, transition
 
 __all__ = [
+    "LeaseHeartbeat",
     "hardware_signature",
     "heartbeat",
     "reap_expired_leases",
@@ -88,6 +91,77 @@ def renew_lease(session: Session, job_id: uuid.UUID, lease_seconds: int) -> None
         .values(lease_expires_at=func.now() + func.make_interval(0, 0, 0, 0, 0, 0, lease_seconds))
     )
     record_event(session, job_id, JobEventType.LEASE_RENEWED)
+
+
+class LeaseHeartbeat:
+    """Renew a job's lease on a background thread while a unit executes.
+
+    **The defect this closes:** renewing only *between* units means a unit
+    that runs longer than ``worker_lease_seconds`` has its lease expire while
+    it is still working. The reaper then reclaims live work, a second worker
+    claims the same job, and both execute the same unit concurrently. Effect
+    idempotency keeps the stored artifact correct, but the duplicated compute
+    is real and, for a multi-hour render, expensive.
+
+    ``worker_heartbeat_seconds`` was configured and never used; this is what
+    uses it.
+
+    The thread opens its **own** session per beat: a SQLAlchemy Session is not
+    thread-safe, so sharing the executing session would be a data race far
+    worse than the problem being fixed.
+    """
+
+    def __init__(
+        self,
+        settings: Settings,
+        *,
+        job_id: uuid.UUID,
+        worker_id: uuid.UUID,
+        lease_seconds: int,
+        interval_seconds: float,
+    ) -> None:
+        self._settings = settings
+        self._job_id = job_id
+        self._worker_id = worker_id
+        self._lease_seconds = lease_seconds
+        # Never beat slower than a third of the lease: two consecutive misses
+        # must still leave time to renew before expiry.
+        self._interval = max(0.1, min(interval_seconds, lease_seconds / 3))
+        self._stop = threading.Event()
+        self._thread: threading.Thread | None = None
+        self.beats = 0
+        self.errors = 0
+
+    def _run(self) -> None:
+        from continuum_db.session import session_scope
+
+        while not self._stop.wait(self._interval):
+            try:
+                with session_scope(self._settings) as session:
+                    renew_lease(session, self._job_id, self._lease_seconds)
+                    heartbeat(session, self._worker_id)
+                self.beats += 1
+            except Exception:
+                self.errors += 1
+                log.warning(
+                    "lease heartbeat failed",
+                    extra={"job_id": str(self._job_id), "worker_id": str(self._worker_id)},
+                )
+
+    def __enter__(self) -> LeaseHeartbeat:
+        self._thread = threading.Thread(
+            target=self._run,
+            name=f"continuum-lease-{self._job_id}",
+            daemon=True,
+        )
+        self._thread.start()
+        return self
+
+    def __exit__(self, *_exc: object) -> None:
+        self._stop.set()
+        if self._thread is not None:
+            # Bounded join: a stuck beat must not hold the worker hostage.
+            self._thread.join(timeout=self._interval + 5.0)
 
 
 def worker_should_drain(session: Session, worker_id: uuid.UUID) -> bool:

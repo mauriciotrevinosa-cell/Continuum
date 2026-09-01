@@ -23,6 +23,7 @@ from continuum_core import BlockedReason, JobStatus, StepStatus
 from continuum_db.models import Job, JobCheckpoint, JobEvent, JobStep
 from continuum_db.session import session_scope
 from continuum_jobs import (
+    apply_pending_requests,
     claim_next_job,
     enqueue,
     execute_job,
@@ -276,14 +277,30 @@ class TestPauseCancelDrain:
     """110.9 - graceful stop leaves the job resumable."""
 
     def test_pause_request_is_a_flag_not_a_status_write(self, clean_jobs) -> None:
-        """F-28: only the worker and reaper write status."""
+        """F-28: only the worker and reaper write status.
+
+        This test previously contradicted its own name: it asserted
+        ``status is PAUSED`` immediately after ``request_pause``, which
+        required exactly the API-path status write the name forbids. The
+        Codex audit identified that write as a defect against
+        FOUNDATION_APPROVAL invariant 8 / ADR-0002 section 4, so the
+        assertion is corrected here to match the approved design rather than
+        the implementation that existed.
+        """
         session = clean_jobs
         job, _ = enqueue(session, "synthetic.counted_work", payload={"units": 3})
         session.commit()
+
         request_pause(session, job)
         session.commit()
         assert job.pause_requested is True
-        assert job.status is JobStatus.PAUSED  # QUEUED pauses immediately
+        assert job.status is JobStatus.QUEUED, "the API path must not write status"
+
+        # The worker-owned path performs the transition.
+        apply_pending_requests(session)
+        session.commit()
+        session.refresh(job)
+        assert job.status is JobStatus.PAUSED
 
         resume_job(session, job)
         session.commit()
@@ -357,9 +374,13 @@ class TestPauseCancelDrain:
             session, worker_id=worker.id, resource_classes=["cpu"], lease_seconds=30
         )
         session.commit()
+
         request_cancel(session, claimed)
         session.commit()
-        assert claimed.status is JobStatus.CANCELLING
+        # The API sets the flag only; the running job is still RUNNING until
+        # its own execution loop observes the flag between units.
+        assert claimed.cancel_requested is True
+        assert claimed.status is JobStatus.RUNNING, "the API path must not write status"
 
         _run(session, claimed, db_settings, storage, worker_id=worker.id)
         session.refresh(claimed)

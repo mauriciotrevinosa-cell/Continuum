@@ -10,6 +10,7 @@ from continuum_jobs.execution import (
     plan_units,
 )
 from continuum_jobs.lease import (
+    LeaseHeartbeat,
     hardware_signature,
     heartbeat,
     reap_expired_leases,
@@ -20,6 +21,9 @@ from continuum_jobs.lease import (
     worker_should_drain,
 )
 from continuum_jobs.queue import (
+    DependencyCycleError,
+    add_dependency,
+    apply_pending_requests,
     block_job,
     claim_next_job,
     compute_dedupe_key,
@@ -44,13 +48,17 @@ from continuum_jobs.states import (
 
 __all__ = [
     "ALLOWED_TRANSITIONS",
+    "DependencyCycleError",
     "HandlerRegistry",
     "JobContext",
     "JobHandler",
+    "LeaseHeartbeat",
     "StopReason",
     "UnitOutcome",
     "UnitSpec",
     "UnknownJobTypeError",
+    "add_dependency",
+    "apply_pending_requests",
     "assert_transition",
     "block_job",
     "can_transition",

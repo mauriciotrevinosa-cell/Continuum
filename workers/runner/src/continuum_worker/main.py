@@ -35,6 +35,7 @@ from continuum_db.models import Job
 from continuum_db.session import session_scope
 from continuum_jobs import (
     UnknownJobTypeError,
+    apply_pending_requests,
     block_job,
     claim_next_job,
     execute_job,
@@ -117,6 +118,8 @@ class Worker:
 
         with session_scope(self.settings) as session:
             heartbeat(session, self.worker_id)
+            # Worker-owned: the API only ever sets flags (ADR-0002 section 4).
+            apply_pending_requests(session)
             job = claim_next_job(
                 session,
                 worker_id=self.worker_id,
@@ -161,6 +164,8 @@ class Worker:
                         lease_seconds=self.settings.worker_lease_seconds,
                         derived=self.storage.derived,
                         providers=self.providers,
+                        settings=self.settings,
+                        heartbeat_seconds=self.settings.worker_heartbeat_seconds,
                     )
                     log.info(
                         "job finished",

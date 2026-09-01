@@ -36,7 +36,7 @@ from continuum_observability import correlation_scope, get_logger
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
-from continuum_jobs.lease import renew_lease, worker_should_drain
+from continuum_jobs.lease import LeaseHeartbeat, renew_lease, worker_should_drain
 from continuum_jobs.queue import fail_job, record_event, transition
 
 __all__ = [
@@ -185,6 +185,8 @@ def execute_job(
     derived: Any = None,
     providers: Any = None,
     force_rerun_completed: bool = False,
+    settings: Any = None,
+    heartbeat_seconds: float = 5.0,
 ) -> StopReason:
     """Run a job's units to completion, or stop cooperatively.
 
@@ -240,7 +242,21 @@ def execute_job(
 
             try:
                 # ---- 1. perform the effect (must be repeat-safe) ----------
-                outcome = handler.execute_unit(ctx, unit)
+                # The lease is renewed on a background thread FOR THE DURATION
+                # of the unit, not just between units. Without this, a unit
+                # outliving its lease is reaped and run concurrently by a
+                # second worker.
+                if worker_id is not None and settings is not None:
+                    with LeaseHeartbeat(
+                        settings,
+                        job_id=job.id,
+                        worker_id=worker_id,
+                        lease_seconds=lease_seconds,
+                        interval_seconds=heartbeat_seconds,
+                    ):
+                        outcome = handler.execute_unit(ctx, unit)
+                else:
+                    outcome = handler.execute_unit(ctx, unit)
             except Exception as exc:
                 # Provider/policy blocks are decisions, not failed attempts.
                 # The standalone worker owns the transition to BLOCKED and

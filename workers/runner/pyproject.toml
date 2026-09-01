@@ -5,6 +5,9 @@ description = "Standalone durable worker process and synthetic handlers."
 requires-python = ">=3.12,<3.13"
 dependencies = ["continuum-core", "continuum-config", "continuum-db", "continuum-jobs", "continuum-storage", "continuum-providers", "continuum-observability"]
 
+[project.scripts]
+continuum-worker = "continuum_worker.main:main"
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"

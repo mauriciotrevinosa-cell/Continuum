@@ -1,0 +1,77 @@
+# ADR-0001 Layer 3 - the import boundary that keeps filesystem access inside
+# packages/storage. Type separation (Layer 1) only helps if nobody bypasses
+# the module; this is the layer that prevents drift over years.
+#
+# Note on `os`: it is NOT banned outright because os.environ and os.name are
+# legitimate everywhere. Filesystem *functions* (os.remove, os.mkdir, bare
+# open(), Path(), ...) are caught by tests/invariants/test_import_boundaries.py,
+# which walks the AST and is more precise than a module-level ban.
+
+[importlinter]
+include_external_packages = True
+root_packages =
+    continuum_core
+    continuum_config
+    continuum_observability
+    continuum_storage
+    continuum_db
+    continuum_jobs
+    continuum_providers
+    continuum_api
+    continuum_worker
+
+[importlinter:contract:filesystem-boundary]
+name = Only continuum_storage may import filesystem modules
+type = forbidden
+source_modules =
+    continuum_core
+    continuum_config
+    continuum_observability
+    continuum_db
+    continuum_jobs
+    continuum_providers
+    continuum_api
+    continuum_worker
+forbidden_modules =
+    pathlib
+    shutil
+    tempfile
+    zipfile
+    tarfile
+    glob
+    fileinput
+    aiofiles
+
+[importlinter:contract:core-is-independent]
+name = continuum_core depends on nothing internal
+type = forbidden
+source_modules =
+    continuum_core
+forbidden_modules =
+    continuum_config
+    continuum_observability
+    continuum_storage
+    continuum_db
+    continuum_jobs
+    continuum_providers
+    continuum_api
+    continuum_worker
+
+[importlinter:contract:layers]
+name = Package layering
+type = layers
+layers =
+    continuum_api | continuum_worker
+    continuum_jobs
+    continuum_db | continuum_storage | continuum_providers
+    continuum_config
+    continuum_observability
+    continuum_core
+
+[importlinter:contract:no-api-worker-coupling]
+name = The worker never imports the API application (ADR-0002 topology)
+type = forbidden
+source_modules =
+    continuum_worker
+forbidden_modules =
+    continuum_api

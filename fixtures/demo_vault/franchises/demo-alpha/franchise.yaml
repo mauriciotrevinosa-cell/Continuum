@@ -1,0 +1,14 @@
+# Read-only user-authored input (D-08 / F-02).
+# Continuum parses this and NEVER writes it back.
+id: demo-alpha
+title: Demo Alpha
+aliases:
+  - Alpha Demo
+language:
+  primary: en
+user_notes: "Synthetic fixture franchise. Not a real work."
+sources:
+  manga: false
+  anime: false
+  light_novel: false
+  notes: true

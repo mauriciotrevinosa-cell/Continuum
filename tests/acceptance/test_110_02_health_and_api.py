@@ -52,13 +52,14 @@ class TestHealthEndpoint:
         honest answer is not_verified."""
         protection = client.get("/health").json()["storage"]["vault_protection"]
         assert protection["status"] in {
-            "verified_readonly", "not_hardened", "not_verified", "absent",
+            "verified_readonly",
+            "not_hardened",
+            "not_verified",
+            "absent",
         }
         assert protection["informational_only"] is True
 
-    def test_ready_reports_503_quickly_when_the_database_is_down(
-        self, client: TestClient
-    ) -> None:
+    def test_ready_reports_503_quickly_when_the_database_is_down(self, client: TestClient) -> None:
         """A readiness probe that hangs is useless. It must fail fast and say
         what to do about it."""
         response = client.get("/ready")

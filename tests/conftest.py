@@ -143,9 +143,62 @@ def snapshot_tree() -> Iterator[object]:
     yield snapshot
 
 
+def database_available() -> tuple[bool, str]:
+    """Whether a live PostgreSQL is reachable for the DB-dependent suite."""
+    from continuum_db.session import database_is_reachable, reset_engine
+
+    reset_engine()
+    return database_is_reachable(Settings(_env_file=None, data_home=str(REPO_ROOT)))
+
+
+@pytest.fixture(scope="session")
+def db_settings(tmp_path_factory: pytest.TempPathFactory) -> Settings:
+    """Settings pointing at the docker-compose database.
+
+    Skips the whole DB suite when PostgreSQL is unreachable, with a message
+    that names the exact command to fix it. Skipping is honest here; what
+    would NOT be honest is reporting these acceptance items as PASS.
+    """
+    reachable, detail = database_available()
+    if not reachable:
+        pytest.skip(
+            f"PostgreSQL is not reachable ({detail}). "
+            "Start it with: docker compose up -d db && uv run alembic upgrade head"
+        )
+    home = tmp_path_factory.mktemp("db-data-home")
+    return Settings(
+        _env_file=None,
+        data_home=str(home),
+        source_vault_root=str(DEMO_VAULT),
+    )
+
+
+@pytest.fixture
+def db_session(db_settings: Settings):
+    """A transactional session against the live database."""
+    from continuum_db.session import session_scope
+
+    with session_scope(db_settings) as session:
+        yield session
+
+
+@pytest.fixture
+def clean_jobs(db_session):
+    """Remove all job rows so each test starts from a known state."""
+    from continuum_db.models import Job, Worker
+    from sqlalchemy import delete
+
+    db_session.execute(delete(Job))
+    db_session.execute(delete(Worker))
+    db_session.commit()
+    return db_session
+
+
 def pytest_report_header(config: pytest.Config) -> list[str]:
     return [
         f"continuum: platform={sys.platform} os.name={os.name}",
         "continuum: Windows-only path tests "
         + ("ENABLED" if os.name == "nt" else "SKIPPED (see OQ-6)"),
+        "continuum: database suite "
+        + ("ENABLED" if database_available()[0] else "SKIPPED (no PostgreSQL reachable)"),
     ]

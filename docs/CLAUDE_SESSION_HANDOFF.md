@@ -1,10 +1,11 @@
 # Claude Session Handoff — Phase 0 implementation
 
-**Written because:** Claude usage reached ~94% of the session limit. Handoff created
-per `docs/CLAUDE_CREDIT_HANDOFF_PROTOCOL.md` **before** being cut off, not after.
+**Updated:** 2026-09-01, second session.
+**Status:** Phase 0 implementation and documentation **complete**; acceptance
+**incomplete**. Ready for the Codex audit, **not** ready for the tag.
 
-**Phase 0 is NOT complete.** Do not tag `continuum-phase-0`. The remaining work is
-documentation plus one environment prerequisite, both listed precisely below.
+The authoritative results live in [`docs/PHASE_0_REPORT.md`](PHASE_0_REPORT.md).
+This file is the short operational summary.
 
 ---
 
@@ -13,216 +14,111 @@ documentation plus one environment prerequisite, both listed precisely below.
 | | |
 |---|---|
 | **Branch** | `phase-0/claude-implementation` |
-| **HEAD** | `dfcad4b307458e9a357155c343b4fd45637275ba` |
-| **HEAD subject** | `ci: add cross-platform workflow, dev scripts and OpenAPI client` |
-| **Working tree** | **clean** — nothing uncommitted, nothing stashed |
-| **Phase 1 started?** | **No.** Confirmed explicitly in §8. |
+| **HEAD** | resolve with `git rev-parse phase-0/claude-implementation` |
+| **Working tree** | clean |
+| **Phase 0 candidate** | **the HEAD of this branch** — the commit that adds the four documents |
+| **Tag created?** | **No.** `continuum-phase-0` must not be created before the Codex audit and final human review. |
+| **Phase 1 started?** | **No** — enforced mechanically, see §5. |
 
-Ten commits landed this session, each independently green:
-
-```text
-dfcad4b  ci: add cross-platform workflow, dev scripts and OpenAPI client
-d169310  feat: add phase 0 web shell and API console entrypoints
-a50d156  test: add durable job acceptance suite (110.6-110.11)
-9ab11e2  feat: add phase 0 API surface, standalone worker and synthetic handlers
-4c74524  refactor: move job domain enums from continuum_db to continuum_core
-b031574  feat: add local provider contracts, policy and deterministic fakes
-121f5a5  feat: add durable job database model and state machine
-163535a  feat: add safe storage foundation
-eb782ec  chore: bootstrap Continuum phase 0 monorepo
-a6386a5  chore: add gitattributes LF policy before implementation code
-```
+This session began by fast-forwarding four documentation commits that had been
+pushed while Claude was paused (`9f4fcce`, `734f7f7`, `cfe2014`, `f818de3`),
+adding `docs/CLAUDE_NEXT_SESSION_CONTINUATION.md` and
+`docs/creative/THE_ARRIVALS_CREATIVE_DIRECTION_v0.1.md`. No code conflicted.
 
 ---
 
-## 2. What was being worked on when the limit hit
+## 2. What this session completed
 
-Writing the four required Phase 0 documents (runbook §5). **None of them exist yet.**
-No code was in flight — the last commit closed cleanly before this handoff.
+The four documents the previous handoff listed as missing:
 
----
+| Document | Lines |
+|---|---|
+| `README.md` | 222 |
+| `AGENTS.md` | 252 |
+| `docs/DEPENDENCIES.md` | 191 |
+| `docs/PHASE_0_REPORT.md` | 367 |
 
-## 3. Fully complete
+That moves **§110.15** (required documents exist) from FAIL to **PASS**.
 
-All implementation scope from `docs/CLAUDE_PHASE_0_START.md` §2–§3.
-
-**Monorepo / tooling** — `uv` workspace pinned to **Python 3.12** (D-04) with nine
-member packages; `pnpm` workspace; `docker-compose.yml` for the **database only**
-(D-03) using a named volume so no PostgreSQL data directory lands under OneDrive;
-`.gitattributes` landed **before** any implementation code (D-20).
-
-**Storage (ADR-0001, all five layers)** — `SourceVaultReader` with no mutating member
-at all; `resolve_within()` validating then realpath-resolving then containing, with
-`same_file_as()` closing the TOCTOU window; import-boundary enforcement (4 contracts +
-an AST walk); content-addressed writes (temp → fsync → atomic rename); and a
-**non-mutating** vault probe per **A-01** — it reports `not_verified` on Windows rather
-than proving hardening by writing.
-
-**Durable jobs (ADR-0002)** — six tables exactly; guarded transition table that raises;
-pause/cancel as request flags; leases + heartbeat + reaper on the **database clock**;
-`job_step` unit idempotency; checkpoints; dependency DAG that **blocks** rather than
-cancels dependents; dedupe via partial unique index; `run_after` + full-jitter backoff;
-append-only `job_event`; `resource_class`; `hardware_signature` as a plain string.
-
-**Providers (ADR-0004)** — required `DataClass` with no default; privacy filtered
-*before* cost; **no code path from `FREE_LOCAL` to PAID/REMOTE**; fakes only, zero AI
-SDKs installed.
-
-**API** — 12 routes, loopback-only enforced by config validation, no filesystem path
-parameter anywhere, CORS restricted, correlation ids propagated.
-
-**Worker** — standalone process, no channel to the API, signal **and** DB drain flag.
-
-**Web** — three screens (status, jobs, job detail), no placeholder navigation.
-
-**CI** — Python matrix on ubuntu **and** windows; a step that **fails the build if the
-durable-job suite skips**; a separate offline/no-credential job; OpenAPI→TS drift check.
+All gates were re-run at this commit and captured verbatim in the report §3.
 
 ---
 
-## 4. Partially complete / not started
+## 3. Results, honestly
 
-| Item | State | Notes |
-|---|---|---|
-| `README.md` | **Not written** | Runbook §5 requires exact commands that have actually been run. Most are captured in §6 below — reuse them verbatim. |
-| `AGENTS.md` | **Not written** | Permanent engineering constraints for future agents. |
-| `docs/DEPENDENCIES.md` | **Not written** | Must include an explicit **empty** Model Assets section (F-55). |
-| `docs/PHASE_0_REPORT.md` | **Not written** | Must carry the §110 matrix with PASS / FAIL / NOT-RUN and the exact proving command. Draft status is in §5. |
-| Database-dependent acceptance items | **Written, never executed** | Blocked on Docker — see §7. |
+**151 passed · 24 skipped · 0 failed.** Ruff clean; 94 files formatted;
+`mypy --strict` clean on 49 source files; 4/4 import contracts; one Alembic
+head; `pnpm lint`/`typecheck`/`build` clean.
+
+**Acceptance tally: 6 PASS · 2 PARTIAL · 7 NOT RUN · 0 FAIL.**
+
+`NOT RUN` means never executed on this machine. Nothing is marked PASS on the
+strength of code inspection. The full per-item matrix is in the report §2.
+
+The seven unexecuted items (§110.1, 6–11) are all blocked by the same thing:
+**no Docker**. They are the items that prove crash-safe resume — the core claim
+of this phase — so the phase cannot be called done until they run.
 
 ---
 
-## 5. Acceptance matrix — honest status
+## 4. What the user must do — nothing else is blocking
 
-`PASS` means executed and green on this machine. `NOT RUN` means never executed here.
-**Nothing below is marked PASS on the strength of code inspection alone.**
+Full detail in report §8. Summary:
 
-| §110 | Requirement | Status | Evidence |
+| | Blocker | Effect | Action |
 |---|---|---|---|
-| 1 | Clean install / migrations / boot | **NOT RUN** | Needs Docker (§7). Migration renders valid DDL offline. |
-| 2 | Web can call API health | **PASS** | End-to-end: page rendered live version, `FREE_LOCAL`, fake provider ids, loopback host, vault status, OneDrive warning. |
-| 3 | Root/path normalisation | **PASS** | `tests/acceptance/test_110_03_path_normalization.py`, incl. 400 Hypothesis cases. |
-| 4 | Traversal / symlink / junction escape | **PARTIAL PASS** | Junction escape (the privilege-free Windows vector) passes. **5 symlink tests SKIPPED** — this machine denies `os.symlink` without Developer Mode. Linux CI covers them. |
-| 5 | Vault cannot be modified | **PASS** | 15 tests across four layers, incl. byte-identical tree snapshot after boot and probe. |
-| 6 | Synthetic job roundtrip | **NOT RUN** | Needs Docker. |
-| 7 | Progress independent of UI | **NOT RUN** | Needs Docker. |
-| 8 | UI restart does not cancel work | **NOT RUN** (structurally true) | No API↔worker channel exists; subprocess test written. |
-| 9 | Graceful drain leaves resumable state | **NOT RUN** | Needs Docker. |
-| 10 | Resume only unfinished units | **NOT RUN** | Needs Docker. **The load-bearing test.** |
-| 11 | Structured error / retry / lease expiry | **NOT RUN** | Needs Docker. |
-| 12 | Providers need no cloud credentials | **PASS** | 24 tests offline; asserts openai/anthropic/torch/etc. are all absent. |
-| 13 | Logs redact secrets | **PASS** | Config dump + exception at DEBUG; pattern **and** exact-value redaction. |
-| 14 | Migrations clean, single head | **PARTIAL PASS** | 6 of 8 pass with no database (single head, 7 CREATE TABLE, pgvector present, no vector column, all 5 critical constraints). Round trip **NOT RUN**. |
-| 15 | Required documents exist | **FAIL** | Four documents missing (§4). |
+| **B-1** | Docker Desktop not installed | Blocks §110.1, 6–11, 14-roundtrip | `winget install Docker.DockerDesktop`, reboot, launch once, then `docker compose up -d db && uv run alembic upgrade head && uv run pytest -q` |
+| **B-2** | Repo + data under OneDrive | Blocks acceptance (OQ-2/D-19) | `git clone https://github.com/mauriciotrevinosa-cell/Continuum.git C:/Continuum`; set `CONTINUUM_DATA_HOME=C:/ContinuumData`. Also fixes the `Continnum` spelling. |
+| **B-3** | Windows Developer Mode off | 5 symlink tests skip | Settings → System → For developers → Developer Mode: On. Optional if the Linux CI leg is accepted. |
+| **B-4** | Port 8000 occupied (PID 6568, `Manager`) | Cosmetic | Use `CONTINUUM_API_PORT=8010`. |
 
-**Local totals:** 151 passed, 24 skipped, 0 failed. ruff clean; 87 files formatted;
-mypy **strict** clean on 49 files; 4/4 import contracts; web typecheck/lint/build clean.
+None is a code defect. **No administrative or destructive change was made** —
+all four were inspected and reported, per `FOUNDATION_APPROVAL` §7.
 
 ---
 
-## 6. Exact commands the next agent should run first
+## 5. Scope confirmations
 
-```bash
-cd C:/Users/mauri/OneDrive/Desktop/Continnum && git log --oneline -1
-```
+- **No Phase 1+ feature exists.** Enforced by `test_no_premature_domain_tables`
+  (24 forbidden names), `test_exactly_six_application_tables`,
+  `test_surface_is_limited_to_health_jobs_workers` (exactly 12 routes) and
+  `TestNoAiSdkIsInstalled` (11 vendor SDKs absent).
+- **`docs/creative/THE_ARRIVALS_CREATIVE_DIRECTION_v0.1.md` was read and
+  implemented nowhere**, exactly as its §14 instructs. No Character Vault, cast
+  review, Source Intelligence, story generation, relationship logic, powers,
+  image generation or animation.
+- **No test was weakened, skipped-by-default, or deleted** to make anything pass.
+- **The `continuum-phase-0` tag was not created.**
 
-```bash
-uv sync --python 3.12 && uv run pytest -q
-```
+---
 
-Expected: `151 passed, 24 skipped`. Then, to reproduce every gate:
+## 6. Next actor: Codex
 
-```bash
-uv run ruff check . && uv run ruff format --check . && uv run mypy packages apps workers && uv run lint-imports
-```
+Follow [`docs/CODEX_PHASE_0_AUDIT.md`](CODEX_PHASE_0_AUDIT.md). The audit's
+highest-value contribution is running what this machine could not:
 
-Web gates (needs `$env:APPDATA\npm` on PATH for pnpm):
+1. **Install Docker and execute the seven NOT RUN items.** If any fails, the
+   phase is not done regardless of what else is green.
+2. **Run the suite on Linux** — it exercises the 5 symlink cases Windows denied.
+3. **Attack the vault boundary** rather than reading it.
+4. **Challenge the idempotency claim** with a real mid-unit kill, not the
+   simulated force-rerun (report §7).
+5. Verify no Phase 1 logic leaked in.
 
-```bash
-pnpm install && pnpm lint && pnpm typecheck && pnpm build:web
-```
+Then write `docs/CODEX_PHASE_0_AUDIT_REPORT.md` and stop. The tag comes only
+after that plus final human/ChatGPT review.
 
-Once Docker exists, the whole point of the phase becomes testable:
+---
+
+## 7. If you are Claude resuming again
+
+Read this file, then `docs/PHASE_0_REPORT.md`. Confirm HEAD and a clean tree
+before changing anything. If Docker now exists, the single most useful command
+is:
 
 ```bash
 docker compose up -d db && uv run alembic upgrade head && uv run pytest -q
 ```
 
----
-
-## 7. Blockers — environment, not code
-
-**B-1 · Docker Desktop is not installed. (BLOCKING §110.1, 6–11, 14-roundtrip.)**
-This is an OS-level install needing admin rights and a reboot, so it was deliberately
-not performed — `FOUNDATION_APPROVAL` §7 says setup must not silently change the user's
-machine. `winget install Docker.DockerDesktop`, reboot, launch once to accept the
-licence, then run the command above. **This is an environment prerequisite, not a code
-defect.**
-
-**B-2 · Repo and data roots are under OneDrive. (BLOCKING acceptance per OQ-2 / D-19.)**
-The sync-folder detector fired correctly during a real API boot, which is the
-detector working, not a bug. Acceptance still requires moving to non-synced local
-storage and correcting the `Continnum` → `Continuum` spelling. Since the repo is fully
-pushed, `git clone` to `C:\Continuum` is non-destructive.
-
-**B-3 · Windows symlink creation denied. (Degrades §110.4.)**
-Enable Developer Mode (Settings → System → For developers) to run the 5 skipped
-symlink tests locally, or rely on the Linux CI leg. Junction escape — the vector that
-needs no privilege — already passes here.
-
-**B-4 · Port 8000 is occupied by another process (PID 6568).**
-Not a defect. The end-to-end run used `CONTINUUM_API_PORT=8010`. Document this in
-README rather than changing the default.
-
----
-
-## 8. Confirmations
-
-- **No Phase 1 work was started.** No reader, scanner, media parsing, SourceAsset /
-  SourceSegment table, locator implementation, embedding, canon extraction, Character
-  Brain, Story Studio, Visual Lab, or real AI provider exists. Enforced by
-  `test_no_premature_domain_tables` (24 forbidden table names) and
-  `test_surface_is_limited_to_health_jobs_workers`.
-- **`continuum-phase-0` tag was NOT created.** Codex audit and human review come first.
-- **No test was weakened or deleted** to make anything pass.
-- **No failing test is being hidden.** Every skip prints its reason and the command
-  that would un-skip it.
-
----
-
-## 9. Deviations from the plan worth reviewing
-
-1. **`packages/config` was added** as a tenth package. Architecture review §Q sketched
-   settings inside `apps/api`, but the worker needs the same settings and must not
-   import the API application — that would couple the two processes ADR-0002 §12
-   separates. Config now sits below both.
-2. **Job enums live in `continuum_core`, not `continuum_db`.** The import-linter
-   layering contract caught `continuum_providers` importing the database package purely
-   to reach `BlockedReason`. They are domain primitives; `continuum_db.enums` remains a
-   thin re-export.
-3. **ESLint pinned to 8.57.1.** `eslint-config-next` 15 patches ESLint internals and
-   breaks on ESLint 9. This is the combination Next actually supports.
-
-None of these change an approved decision; all three are recorded in commit messages.
-
----
-
-## 10. Two defects found and fixed while verifying
-
-- **`/ready` hung** for the OS TCP default when PostgreSQL was unreachable. A readiness
-  probe that hangs is useless — now answers 503 in ~3s with remediation.
-- **The import-linter filesystem contract followed indirect imports**, so every consumer
-  of `continuum_storage` counted as importing `pathlib`. Scoped to direct imports, which
-  is what ADR-0001 Layer 3 actually specifies.
-
----
-
-## 11. Recommended next step
-
-Write the four documents in §4 — the only remaining implementation-side work — then
-resolve **B-1** and re-run the suite so §110.1 and 6–11 move off `NOT RUN`. Only after
-that does the Codex audit (`docs/CODEX_PHASE_0_AUDIT.md`) have a complete candidate to
-audit.
-
-The Phase 0 candidate commit for audit, once the documents land, will be the commit
-that adds them. **As of this handoff the candidate is not yet complete.**
+Then update report §2 with the real results and re-issue the candidate SHA.
+Do not start Phase 1 without an explicit new instruction.

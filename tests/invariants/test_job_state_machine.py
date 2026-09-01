@@ -7,6 +7,8 @@ illegal transition legal.
 
 from __future__ import annotations
 
+import itertools
+
 import pytest
 from continuum_core import IllegalTransitionError
 from continuum_db.enums import TERMINAL_STATUSES, JobStatus
@@ -119,7 +121,7 @@ class TestLegalPaths:
         ],
     )
     def test_realistic_lifecycle_is_permitted(self, path: list[JobStatus]) -> None:
-        for current, target in zip(path, path[1:], strict=False):
+        for current, target in itertools.pairwise(path):
             assert_transition(current, target)
 
 

@@ -12,8 +12,7 @@ docs/DEPENDENCIES.md rather than by auditing code paths.
 
 from __future__ import annotations
 
-from continuum_core import ProviderUnavailableError
-from continuum_db.enums import BlockedReason
+from continuum_core import BlockedReason, ProviderUnavailableError
 
 from continuum_providers.contracts import Capability, DataClass, Provider, ProviderDescriptor
 from continuum_providers.policy import PolicyDecision, ProviderPolicy

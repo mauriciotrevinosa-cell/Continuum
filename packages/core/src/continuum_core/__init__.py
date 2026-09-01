@@ -23,17 +23,29 @@ from continuum_core.hashing import (
     is_sha256_hex,
 )
 from continuum_core.ids import uuid7, uuid7_timestamp_ms
+from continuum_core.jobstates import (
+    TERMINAL_STATUSES,
+    BlockedReason,
+    JobEventType,
+    JobStatus,
+    StepStatus,
+)
 from continuum_core.timeaxes import FuzzyInstant, TimeAxis, TimePrecision, utc_now
 
 __all__ = [
     "CHUNK_BYTES",
+    "TERMINAL_STATUSES",
+    "BlockedReason",
     "ContinuumError",
     "ErrorCategory",
     "FuzzyInstant",
     "IllegalTransitionError",
+    "JobEventType",
+    "JobStatus",
     "PathEscapesRootError",
     "PolicyViolationError",
     "ProviderUnavailableError",
+    "StepStatus",
     "StructuredError",
     "TimeAxis",
     "TimePrecision",

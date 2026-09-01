@@ -15,7 +15,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 
 from continuum_config import ProductionProfile
-from continuum_db.enums import BlockedReason
+from continuum_core import BlockedReason
 
 from continuum_providers.contracts import (
     Capability,

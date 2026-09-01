@@ -7,10 +7,9 @@ database password is ever written into a committed file (ADR-0004 section 9).
 from __future__ import annotations
 
 from alembic import context
-from sqlalchemy import engine_from_config, pool
-
 from continuum_config import get_settings
 from continuum_db.models import Base
+from sqlalchemy import engine_from_config, pool
 
 config = context.config
 target_metadata = Base.metadata

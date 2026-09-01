@@ -87,14 +87,6 @@ class CountedWorkHandler:
         fail_permanently_at = payload.get("fail_permanently_at_unit")
         die_at = payload.get("die_at_unit")
 
-        if die_at is not None and index == int(die_at):
-            # Hard death mid-unit, AFTER the effect would have been started
-            # but BEFORE the completion record commits. This is precisely the
-            # window that checkpointing alone cannot close, and the reason
-            # effects must be repeat-safe.
-            log.warning("synthetic hard death", extra={"unit": unit.unit_key})
-            os._exit(137)
-
         if fail_permanently_at is not None and index == int(fail_permanently_at):
             raise SyntheticPermanentError(
                 f"Injected permanent failure at {unit.unit_key}.",
@@ -125,6 +117,13 @@ class CountedWorkHandler:
             stored = ctx.derived.put_bytes(self.ROOT_KEY, body)
             already_present = stored.already_present
             digest = stored.content_hash
+
+        if die_at is not None and index == int(die_at) and not already_present:
+            # Die after the durable effect lands but before the completion
+            # row/checkpoint transaction. On recovery the same write reports
+            # already_present, proving that this at-least-once window is safe.
+            log.warning("synthetic hard death after effect", extra={"unit": unit.unit_key})
+            os._exit(137)
 
         return UnitOutcome(
             result={

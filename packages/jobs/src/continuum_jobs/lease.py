@@ -17,7 +17,6 @@ Every timestamp here comes from the DATABASE clock (D-09).
 
 from __future__ import annotations
 
-import datetime as dt
 import os
 import platform
 import uuid
@@ -164,7 +163,7 @@ def reap_expired_leases(session: Session, *, grace_seconds: int = 0) -> list[uui
                 detail={"reason": "lease expired and attempts exhausted"},
             )
         else:
-            job.run_after = dt.datetime.now(dt.UTC)
+            job.run_after = session.execute(select(func.now())).scalar_one()
             transition(session, job, JobStatus.QUEUED, detail={"reason": "lease expired"})
             recovered.append(job.id)
 

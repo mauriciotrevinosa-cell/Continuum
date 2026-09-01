@@ -398,6 +398,19 @@ class TestFailureAndRecovery:
         assert claimed.error_history
         assert claimed.run_after is not None
 
+        # Once the database-clock deadline is due, the normal claimant must
+        # promote the retry and run it. Manual retry is not durability.
+        claimed.run_after = session.execute(
+            select(func.now() - func.make_interval(0, 0, 0, 0, 0, 0, 1))
+        ).scalar_one()
+        session.commit()
+        retried = claim_next_job(
+            session, worker_id=worker.id, resource_classes=["cpu"], lease_seconds=30
+        )
+        assert retried is not None
+        assert retried.id == claimed.id
+        assert retried.status is JobStatus.RUNNING
+
     def test_permanent_failure_goes_final_without_retry(
         self, clean_jobs, db_settings, storage
     ) -> None:

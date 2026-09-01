@@ -239,7 +239,7 @@ def claim_next_job(
     row = session.execute(
         select(Job)
         .where(
-            Job.status == JobStatus.QUEUED,
+            Job.status.in_((JobStatus.QUEUED, JobStatus.FAILED_RETRYABLE)),
             Job.run_after <= func.now(),
             Job.resource_class.in_(eligible),
         )
@@ -251,6 +251,8 @@ def claim_next_job(
     if row is None:
         return None
 
+    if row.status is JobStatus.FAILED_RETRYABLE:
+        transition(session, row, JobStatus.QUEUED, detail={"reason": "retry due"})
     transition(session, row, JobStatus.RUNNING, worker_id=worker_id)
     row.lease_owner = worker_id
     row.lease_expires_at = _lease_deadline(session, lease_seconds)
@@ -323,7 +325,7 @@ def retry_job(session: Session, job: Job) -> Job:
     """Return a retryable failure to the queue immediately."""
     if job.status is not JobStatus.FAILED_RETRYABLE:
         assert_transition(job.status, JobStatus.QUEUED, job_id=job.id)
-    job.run_after = dt.datetime.now(dt.UTC)
+    job.run_after = _database_now(session)
     transition(session, job, JobStatus.QUEUED, detail={"reason": "manual retry"})
     session.flush()
     return job
@@ -343,7 +345,7 @@ def fail_job(
     if error.retryable and not exhausted:
         job.attempt += 1
         delay = next_backoff_seconds(job.attempt)
-        job.run_after = dt.datetime.now(dt.UTC) + dt.timedelta(seconds=delay)
+        job.run_after = _database_now(session) + dt.timedelta(seconds=delay)
         transition(
             session,
             job,
@@ -434,3 +436,8 @@ def touch_progress(session: Session, job_id: uuid.UUID, units_done: int) -> None
     session.execute(
         update(Job).where(Job.id == job_id).values(units_done=units_done, updated_at=func.now())
     )
+
+
+def _database_now(session: Session) -> dt.datetime:
+    """Return PostgreSQL's clock for lease and scheduling decisions."""
+    return session.execute(select(func.now())).scalar_one()

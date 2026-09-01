@@ -242,6 +242,11 @@ def execute_job(
                 # ---- 1. perform the effect (must be repeat-safe) ----------
                 outcome = handler.execute_unit(ctx, unit)
             except Exception as exc:
+                # Provider/policy blocks are decisions, not failed attempts.
+                # The standalone worker owns the transition to BLOCKED and
+                # its actionable remediation payload.
+                if isinstance(exc, ContinuumError) and exc.context.get("blocked_reason"):
+                    raise
                 step.status = StepStatus.FAILED
                 error = _structured(exc)
                 step.last_error = error.to_dict()

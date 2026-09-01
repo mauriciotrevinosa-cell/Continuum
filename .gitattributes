@@ -1,0 +1,34 @@
+# Continuum line-ending policy (D-20 / FOUNDATION_APPROVAL §4).
+#
+# Landed before implementation code so that no file is ever committed with
+# CRLF and later "fixed", which would pollute every future diff and break
+# shell scripts checked out on POSIX runners (Codex audit environment).
+
+* text=auto eol=lf
+
+# Windows-only scripts must keep CRLF to run correctly.
+*.ps1   text eol=crlf
+*.cmd   text eol=crlf
+*.bat   text eol=crlf
+
+# Binary / generated — never touch.
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.webp  binary
+*.gif   binary
+*.ico   binary
+*.pdf   binary
+*.zip   binary
+*.cbz   binary
+*.mp4   binary
+*.mkv   binary
+*.mp3   binary
+*.wav   binary
+*.flac  binary
+*.woff  binary
+*.woff2 binary
+
+# Lockfiles: keep diffs but do not let anyone "clean them up".
+pnpm-lock.yaml  -diff linguist-generated
+uv.lock         -diff linguist-generated

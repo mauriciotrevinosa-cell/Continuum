@@ -60,9 +60,7 @@ class TestIllegalTransitionsRaise:
             (JobStatus.BLOCKED, JobStatus.RUNNING),
         ],
     )
-    def test_raises_rather_than_silently_no_op(
-        self, current: JobStatus, target: JobStatus
-    ) -> None:
+    def test_raises_rather_than_silently_no_op(self, current: JobStatus, target: JobStatus) -> None:
         """A silent no-op is how a job ends up in a state nobody can explain."""
         assert not can_transition(current, target)
         with pytest.raises(IllegalTransitionError):
@@ -85,16 +83,39 @@ class TestLegalPaths:
         "path",
         [
             [JobStatus.QUEUED, JobStatus.RUNNING, JobStatus.SUCCEEDED],
-            [JobStatus.QUEUED, JobStatus.RUNNING, JobStatus.PAUSING, JobStatus.PAUSED,
-             JobStatus.QUEUED, JobStatus.RUNNING, JobStatus.SUCCEEDED],
+            [
+                JobStatus.QUEUED,
+                JobStatus.RUNNING,
+                JobStatus.PAUSING,
+                JobStatus.PAUSED,
+                JobStatus.QUEUED,
+                JobStatus.RUNNING,
+                JobStatus.SUCCEEDED,
+            ],
             [JobStatus.QUEUED, JobStatus.RUNNING, JobStatus.CANCELLING, JobStatus.CANCELLED],
-            [JobStatus.QUEUED, JobStatus.RUNNING, JobStatus.FAILED_RETRYABLE,
-             JobStatus.QUEUED, JobStatus.RUNNING, JobStatus.FAILED_FINAL],
-            [JobStatus.QUEUED, JobStatus.BLOCKED, JobStatus.QUEUED, JobStatus.RUNNING,
-             JobStatus.SUCCEEDED],
+            [
+                JobStatus.QUEUED,
+                JobStatus.RUNNING,
+                JobStatus.FAILED_RETRYABLE,
+                JobStatus.QUEUED,
+                JobStatus.RUNNING,
+                JobStatus.FAILED_FINAL,
+            ],
+            [
+                JobStatus.QUEUED,
+                JobStatus.BLOCKED,
+                JobStatus.QUEUED,
+                JobStatus.RUNNING,
+                JobStatus.SUCCEEDED,
+            ],
             # Lease expiry mid-run, then a clean retry.
-            [JobStatus.QUEUED, JobStatus.RUNNING, JobStatus.QUEUED, JobStatus.RUNNING,
-             JobStatus.SUCCEEDED],
+            [
+                JobStatus.QUEUED,
+                JobStatus.RUNNING,
+                JobStatus.QUEUED,
+                JobStatus.RUNNING,
+                JobStatus.SUCCEEDED,
+            ],
         ],
     )
     def test_realistic_lifecycle_is_permitted(self, path: list[JobStatus]) -> None:

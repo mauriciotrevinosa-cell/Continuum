@@ -1,0 +1,5 @@
+# Copy/Paste Start Message for Claude
+
+Use this message after the foundation-approval changes are merged into `master` and Claude is opened in the Continuum repository.
+
+> You are the primary Phase 0 implementer for Project Continuum. The architecture review is complete and the foundation is approved. Read `docs/README_PHASE_0_AGENT_HANDOFF.md`, then read every document required by `docs/CLAUDE_PHASE_0_START.md` in the stated order. Follow `docs/FOUNDATION_APPROVAL.md` as highest authority for its explicit amendments. Implement **Phase 0 only** exactly within the accepted scope. Do not implement Phase 1 or any real media/AI/story feature. Run the required acceptance and invariant tests, write/update `README.md`, `AGENTS.md`, `docs/DEPENDENCIES.md`, and `docs/PHASE_0_REPORT.md`, identify the exact candidate commit SHA for audit, and STOP. Do not create the `continuum-phase-0` tag; Codex and final human/ChatGPT review must happen first. Inspect the machine/repo before asking setup questions, and report any local prerequisite you cannot safely resolve yourself.

@@ -225,9 +225,17 @@ class TestResumeOnlyUnfinishedUnits:
 
         # Force every unit to run again, exactly as a crash-resumed worker
         # would if the completion records had not committed.
+        #
+        # lease_owner is restored alongside status because a worker only ever
+        # reaches RUNNING through claim_next_job, which sets both atomically.
+        # RUNNING with no lease owner is not a reachable committed state, and
+        # the ownership guard added for second-audit C-1 correctly refuses to
+        # execute a job this worker does not own. Setup only -- the assertions
+        # below are unchanged.
         session.refresh(claimed)
         claimed.status = JobStatus.RUNNING
         claimed.completed_at = None
+        claimed.lease_owner = worker.id
         session.commit()
         _run(
             session,
@@ -330,9 +338,12 @@ class TestPauseCancelDrain:
         assert claimed.units_done < 6
 
         # Resume: the remaining units finish and nothing re-runs.
+        # As above, ownership is restored with the status because that is what
+        # a real claim does; a paused job has its lease owner cleared.
         resume_job(session, claimed)
         session.commit()
         claimed.status = JobStatus.RUNNING
+        claimed.lease_owner = worker.id
         session.commit()
         assert (
             _run(session, claimed, db_settings, storage, worker_id=worker.id)

@@ -31,7 +31,7 @@ from continuum_observability import get_logger
 from sqlalchemy import CursorResult, func, select, update
 from sqlalchemy.orm import Session
 
-from continuum_jobs.queue import record_event, transition
+from continuum_jobs.queue import _database_now, record_event, transition
 
 __all__ = [
     "LeaseHeartbeat",
@@ -83,14 +83,39 @@ def heartbeat(session: Session, worker_id: uuid.UUID) -> None:
     )
 
 
-def renew_lease(session: Session, job_id: uuid.UUID, lease_seconds: int) -> None:
-    """Extend the lease on a job still being worked."""
-    session.execute(
+def renew_lease(
+    session: Session,
+    job_id: uuid.UUID,
+    lease_seconds: int,
+    *,
+    worker_id: uuid.UUID | None = None,
+) -> bool:
+    """Extend the lease on a job, **only if this worker still owns it**.
+
+    Returns ``True`` when the lease was extended and ``False`` when it was
+    not — because the job is no longer ``RUNNING``, or is owned by a
+    different worker, or no longer exists.
+
+    Renewing by job id alone (the previous behaviour) let a worker that had
+    already lost the job push the lease forward anyway, papering over the
+    very condition the lease exists to detect. Ownership is therefore part of
+    the ``WHERE`` clause rather than something the caller is trusted to have
+    checked: the guard and the write are then a single atomic statement.
+    """
+    conditions = [Job.id == job_id, Job.status == JobStatus.RUNNING]
+    if worker_id is not None:
+        conditions.append(Job.lease_owner == worker_id)
+
+    result = session.execute(
         update(Job)
-        .where(Job.id == job_id)
+        .where(*conditions)
         .values(lease_expires_at=func.now() + func.make_interval(0, 0, 0, 0, 0, 0, lease_seconds))
     )
-    record_event(session, job_id, JobEventType.LEASE_RENEWED)
+    renewed = bool(cast("CursorResult[Any]", result).rowcount)
+
+    if renewed:
+        record_event(session, job_id, JobEventType.LEASE_RENEWED)
+    return renewed
 
 
 class LeaseHeartbeat:
@@ -128,9 +153,24 @@ class LeaseHeartbeat:
         # must still leave time to renew before expiry.
         self._interval = max(0.1, min(interval_seconds, lease_seconds / 3))
         self._stop = threading.Event()
+        self._ownership_lost = threading.Event()
         self._thread: threading.Thread | None = None
+        # Give up once failures have spanned roughly a whole lease: by then
+        # the lease has expired from every other worker's point of view.
+        self._max_consecutive_errors = max(2, int(lease_seconds / self._interval) + 1)
         self.beats = 0
         self.errors = 0
+        self.consecutive_errors = 0
+
+    @property
+    def ownership_lost(self) -> bool:
+        """True once this worker is known to no longer own the job.
+
+        Set either because a renewal was refused (the job is no longer
+        RUNNING, or is owned by someone else) or because renewal has failed
+        often enough that continuing to assume ownership is not defensible.
+        """
+        return self._ownership_lost.is_set()
 
     def _run(self) -> None:
         from continuum_db.session import session_scope
@@ -138,15 +178,56 @@ class LeaseHeartbeat:
         while not self._stop.wait(self._interval):
             try:
                 with session_scope(self._settings) as session:
-                    renew_lease(session, self._job_id, self._lease_seconds)
+                    renewed = renew_lease(
+                        session,
+                        self._job_id,
+                        self._lease_seconds,
+                        worker_id=self._worker_id,
+                    )
                     heartbeat(session, self._worker_id)
-                self.beats += 1
             except Exception:
                 self.errors += 1
+                self.consecutive_errors += 1
                 log.warning(
                     "lease heartbeat failed",
+                    extra={
+                        "job_id": str(self._job_id),
+                        "worker_id": str(self._worker_id),
+                        "consecutive_errors": self.consecutive_errors,
+                    },
+                )
+                # A transient blip is fine; silence for longer than the lease
+                # is not. Past that point the lease has provably expired as
+                # far as any other worker can tell, so continuing to behave
+                # as the owner is exactly the fiction this class exists to
+                # prevent (second audit C-1).
+                if self.consecutive_errors >= self._max_consecutive_errors:
+                    log.error(
+                        "lease heartbeat failed past the lease window; relinquishing ownership",
+                        extra={
+                            "job_id": str(self._job_id),
+                            "worker_id": str(self._worker_id),
+                            "consecutive_errors": self.consecutive_errors,
+                        },
+                    )
+                    self._ownership_lost.set()
+                    return
+                continue
+
+            self.consecutive_errors = 0
+
+            if not renewed:
+                # Refused, not failed: another worker owns this job now, or it
+                # is no longer RUNNING. Stop beating and say so, rather than
+                # looping forever pretending nothing changed.
+                log.warning(
+                    "lease renewal refused; this worker no longer owns the job",
                     extra={"job_id": str(self._job_id), "worker_id": str(self._worker_id)},
                 )
+                self._ownership_lost.set()
+                return
+
+            self.beats += 1
 
     def __enter__(self) -> LeaseHeartbeat:
         self._thread = threading.Thread(
@@ -200,13 +281,34 @@ def reap_expired_leases(session: Session, *, grace_seconds: int = 0) -> list[uui
     no-op (ADR-0002 section 2).
     """
     cutoff = func.now() - func.make_interval(0, 0, 0, 0, 0, 0, grace_seconds)
+
+    # `FOR UPDATE` is the whole fix (second audit C-1).
+    #
+    # The previous version SELECTed without a lock, decided from that snapshot,
+    # and wrote QUEUED later. A live worker could commit a fresh heartbeat in
+    # between, and the reaper would then overwrite it -- moving genuinely
+    # RUNNING work back to QUEUED so a second worker could claim it. Content
+    # addressing keeps the artifact correct but does nothing about duplicate
+    # compute, and nothing at all about a non-content effect.
+    #
+    # Locking makes the decision and the write one serialized unit per row.
+    # It also engages PostgreSQL's EvalPlanQual: when this SELECT blocks on a
+    # row another transaction is updating, it re-evaluates the WHERE clause
+    # against the *new* row version once that transaction commits. A row whose
+    # lease was just pushed into the future therefore fails
+    # `lease_expires_at < cutoff` and is never returned at all.
+    #
+    # SKIP LOCKED keeps several reapers from serialising behind each other:
+    # a row another reaper is already handling is not this reaper's business.
     stale = (
         session.execute(
-            select(Job).where(
+            select(Job)
+            .where(
                 Job.status == JobStatus.RUNNING,
                 Job.lease_expires_at.is_not(None),
                 Job.lease_expires_at < cutoff,
             )
+            .with_for_update(skip_locked=True)
         )
         .scalars()
         .all()
@@ -214,6 +316,22 @@ def reap_expired_leases(session: Session, *, grace_seconds: int = 0) -> list[uui
 
     recovered: list[uuid.UUID] = []
     for job in stale:
+        # Explicit re-verification under the lock, belt-and-braces alongside
+        # EvalPlanQual. Stated outright rather than relied upon implicitly:
+        # if someone later drops the predicate from the locking SELECT, this
+        # still refuses to reap a job whose lease is now live, and the reason
+        # is visible at the point of decision instead of buried in PostgreSQL
+        # visibility semantics.
+        session.refresh(job)
+        if job.status is not JobStatus.RUNNING:
+            continue
+        if job.lease_expires_at is None or job.lease_expires_at >= _database_now(session):
+            log.info(
+                "skipped reaping a job whose lease was renewed after observation",
+                extra={"job_id": str(job.id), "lease_owner": str(job.lease_owner)},
+            )
+            continue
+
         previous_owner = job.lease_owner
         record_event(
             session,

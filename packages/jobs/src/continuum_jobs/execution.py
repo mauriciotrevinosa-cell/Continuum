@@ -60,6 +60,12 @@ class StopReason(StrEnum):
     CANCELLED = "CANCELLED"
     DRAINED = "DRAINED"
     FAILED = "FAILED"
+    OWNERSHIP_LOST = "OWNERSHIP_LOST"
+    """This worker no longer owns the job and stopped without writing status.
+
+    Someone else owns it now (the reaper reclaimed it, or its lease was
+    renewed elsewhere), so writing status here would be the same two-writer
+    violation the guarded transition table exists to prevent."""
 
 
 @dataclass(frozen=True, slots=True)
@@ -224,6 +230,10 @@ def execute_job(
 
             stop = _stop_requested(session, job, worker_id)
             if stop is not None:
+                if stop is StopReason.OWNERSHIP_LOST:
+                    record_ownership_loss(session, job.id, worker_id)
+                    session.commit()
+                    return stop
                 _land_stop(session, job, stop, worker_id)
                 session.commit()
                 return stop
@@ -232,6 +242,7 @@ def execute_job(
                 select(JobStep).where(JobStep.job_id == job.id, JobStep.unit_key == unit.unit_key)
             ).scalar_one()
 
+            lost_ownership = False
             step.status = StepStatus.RUNNING
             step.started_at = dt.datetime.now(dt.UTC)
             step.attempt += 1
@@ -253,8 +264,9 @@ def execute_job(
                         worker_id=worker_id,
                         lease_seconds=lease_seconds,
                         interval_seconds=heartbeat_seconds,
-                    ):
+                    ) as beat:
                         outcome = handler.execute_unit(ctx, unit)
+                        lost_ownership = beat.ownership_lost
                 else:
                     outcome = handler.execute_unit(ctx, unit)
             except Exception as exc:
@@ -279,6 +291,16 @@ def execute_job(
                 return StopReason.FAILED
 
             # ---- 2. completion record + checkpoint in ONE transaction -----
+            if lost_ownership:
+                # The effect already landed and is content-addressed, so the
+                # rightful owner's re-run is a byte-identical no-op. What must
+                # NOT happen is this worker writing progress or status for a
+                # job it no longer owns.
+                session.rollback()
+                record_ownership_loss(session, job.id, worker_id)
+                session.commit()
+                return StopReason.OWNERSHIP_LOST
+
             step.status = StepStatus.SUCCEEDED
             step.result = outcome.result
             step.completed_at = dt.datetime.now(dt.UTC)
@@ -316,9 +338,30 @@ def execute_job(
         return StopReason.COMPLETED
 
 
+def record_ownership_loss(session: Session, job_id: uuid.UUID, worker_id: uuid.UUID | None) -> None:
+    """Audit that this worker stood down. Deliberately writes no status."""
+    record_event(
+        session,
+        job_id,
+        JobEventType.LEASE_EXPIRED,
+        detail={"reason": "ownership lost; worker stood down without writing status"},
+        worker_id=worker_id,
+    )
+    log.warning(
+        "stood down: this worker no longer owns the job",
+        extra={"job_id": str(job_id), "worker_id": str(worker_id)},
+    )
+
+
 def _stop_requested(session: Session, job: Job, worker_id: uuid.UUID | None) -> StopReason | None:
     """Cooperative stop check, run between units, never mid-unit."""
-    session.refresh(job, attribute_names=["cancel_requested", "pause_requested"])
+    session.refresh(
+        job, attribute_names=["cancel_requested", "pause_requested", "lease_owner", "status"]
+    )
+    if worker_id is not None and (
+        job.lease_owner != worker_id or job.status is not JobStatus.RUNNING
+    ):
+        return StopReason.OWNERSHIP_LOST
     if job.cancel_requested:
         return StopReason.CANCELLED
     if job.pause_requested:

@@ -43,6 +43,12 @@ __all__ = [
 
 log = get_logger("continuum.jobs.queue")
 
+# Dependency reachability and edge insertion must be one serial graph
+# mutation across every API/worker process. PostgreSQL transaction-scoped
+# advisory locks release automatically on commit/rollback and avoid adding a
+# schema object solely to lock an otherwise empty graph.
+_DEPENDENCY_GRAPH_LOCK = 0x434F4E5444455047  # "CONTDEPG"
+
 
 class DependencyCycleError(ContinuumError):
     """A proposed dependency edge would close a ring in the job DAG."""
@@ -407,6 +413,15 @@ def add_dependency(
             "A job cannot depend on itself.",
             technical_detail=f"job_id == depends_on_job_id == {job_id}",
         )
+
+    # A serial reachability check is insufficient: two transactions can each
+    # observe the graph before the other's insert and jointly commit a cycle.
+    # Hold this PostgreSQL-wide transaction lock through both the check and
+    # insert so the next mutator sees every previously committed edge.
+    session.execute(
+        text("SELECT pg_advisory_xact_lock(:lock_key)"),
+        {"lock_key": _DEPENDENCY_GRAPH_LOCK},
+    )
 
     if _creates_cycle(session, job_id=job_id, depends_on_job_id=depends_on_job_id):
         raise DependencyCycleError(

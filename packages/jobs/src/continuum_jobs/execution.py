@@ -220,10 +220,39 @@ def execute_job(
 
     with correlation_scope(job.correlation_id):
         try:
-            units = list(handler.plan(ctx))
-            plan_units(session, job, units)
+            units = _plan_under_lease(
+                session,
+                job,
+                handler,
+                ctx,
+                worker_id=worker_id,
+                lease_seconds=lease_seconds,
+                settings=settings,
+                heartbeat_seconds=heartbeat_seconds,
+            )
+        except OwnershipLostError:
+            # H-5b: losing the lease is a stand-down, never a crash. This
+            # used to escape execute_job() entirely -- nothing in the worker
+            # loop or run_forever() catches it -- so a routine race (a slow
+            # plan whose lease is reaped) killed the worker process instead
+            # of yielding the job to its rightful owner.
+            session.rollback()
+            record_ownership_loss(session, job.id, worker_id)
             session.commit()
+            return StopReason.OWNERSHIP_LOST
         except Exception as exc:
+            # H-5b: ownership dominates the planning failure too. The
+            # handler's error is real, but a worker that no longer owns the
+            # job has no standing to declare it failed, and writing that
+            # failure would corrupt the rightful owner's row. The rollback
+            # first discards anything the failed handler left pending, so
+            # the ownership probe's flush cannot push it.
+            session.rollback()
+            if worker_id is not None and not _still_owns(session, job.id, worker_id):
+                session.rollback()
+                record_ownership_loss(session, job.id, worker_id)
+                session.commit()
+                return StopReason.OWNERSHIP_LOST
             fail_job(session, job, _structured(exc), worker_id=worker_id)
             session.commit()
             return StopReason.FAILED
@@ -245,6 +274,13 @@ def execute_job(
                 session.commit()
                 return stop
 
+            # H-4: _stop_requested() above took the job row lock and did
+            # NOT release it, so the ownership proof and this step-start
+            # write are one serialization unit -- the lock is held right
+            # through to the commit below. Nothing may commit between the
+            # two; doing so would reopen exactly the window in which a stale
+            # worker stamped status, started_at and attempt onto the
+            # rightful owner's step row.
             step = session.execute(
                 select(JobStep).where(JobStep.job_id == job.id, JobStep.unit_key == unit.unit_key)
             ).scalar_one()
@@ -406,6 +442,75 @@ def execute_job(
         return StopReason.COMPLETED
 
 
+def _plan_under_lease(
+    session: Session,
+    job: Job,
+    handler: JobHandler,
+    ctx: JobContext,
+    *,
+    worker_id: uuid.UUID | None,
+    lease_seconds: int,
+    settings: Any,
+    heartbeat_seconds: float,
+) -> list[UnitSpec]:
+    """Plan a job's units without ever letting a stale planner write.
+
+    Planning is unbounded, handler-controlled time that used to run with no
+    lease maintenance and no ownership re-check (re-audit H-5). A slow plan
+    was therefore *expected* to outlive its lease, not merely able to, and
+    the planner would then still create ``JobStep`` rows and set
+    ``units_total`` on a job another worker already owned. That damage
+    outlived the moment, because ``plan_units`` skips unit keys that already
+    exist and only ever grows ``units_total``: the stale plan was silently
+    pinned in place for the rightful owner to execute.
+
+    Two mechanisms, and neither alone is sufficient:
+
+    1. a **heartbeat for the duration of** ``plan()``, so an honest slow
+       planner keeps the lease it legitimately holds instead of being reaped
+       mid-thought; and
+    2. a **fresh ownership proof under the row lock**, taken after ``plan()``
+       returns and released only by the commit that lands the plan.
+
+    The heartbeat narrows the window; only the lock closes it. Ownership can
+    still be lost while planning -- the process may be descheduled, or the
+    database briefly unreachable past the lease window -- and at that moment
+    the heartbeat is precisely what notices and says so.
+
+    The lock is taken **after** the heartbeat thread has stopped, never
+    around it: the heartbeat renews on its own connection, so holding this
+    row lock while it was still beating would make it block on this
+    transaction for no reason.
+    """
+    if worker_id is not None and settings is not None:
+        with LeaseHeartbeat(
+            settings,
+            job_id=job.id,
+            worker_id=worker_id,
+            lease_seconds=lease_seconds,
+            interval_seconds=heartbeat_seconds,
+        ) as beat:
+            units = list(handler.plan(ctx))
+        if beat.ownership_lost:
+            raise OwnershipLostError(
+                "This worker lost the job's lease while planning it.",
+                technical_detail=(
+                    f"job_id={job.id} worker_id={worker_id} beats={beat.beats} errors={beat.errors}"
+                ),
+                remediation=("Another worker owns this job now. Stand down and let it plan."),
+            )
+    else:
+        units = list(handler.plan(ctx))
+
+    # The proof and the write are one serialization unit: assert_owner holds
+    # the row lock until the commit below lands the plan.
+    if worker_id is not None:
+        assert_owner(session, job.id, worker_id, action="commit plan")
+    plan_units(session, job, units)
+    session.commit()
+    return units
+
+
 def _still_owns(session: Session, job_id: uuid.UUID, worker_id: uuid.UUID) -> bool:
     """Durable ownership check for paths where raising is the wrong shape."""
     locked = lock_job_row(session, job_id)
@@ -432,19 +537,43 @@ def record_ownership_loss(session: Session, job_id: uuid.UUID, worker_id: uuid.U
 
 
 def _stop_requested(session: Session, job: Job, worker_id: uuid.UUID | None) -> StopReason | None:
-    """Cooperative stop check, run between units, never mid-unit."""
-    session.refresh(
-        job, attribute_names=["cancel_requested", "pause_requested", "lease_owner", "status"]
-    )
+    """Cooperative stop check, run between units, never mid-unit.
+
+    **Takes the job row lock and deliberately does not release it.** The
+    caller continues under that lock to write the step-start record, which is
+    what makes "prove ownership, then mutate the step" a single serialization
+    unit (re-audit H-4).
+
+    This previously used an unlocked ``session.refresh()``. Re-reading is not
+    the same as holding: the refresh proved ownership at an instant and then
+    let go, leaving three statements of window before the step-start commit
+    in which the lease could be reclaimed. A stale worker would then stamp
+    ``status``, ``started_at`` and ``attempt`` on the rightful owner's step
+    row -- and ``step.attempt`` is read by handlers to decide retries, so the
+    corruption changed the new owner's behaviour rather than merely being
+    untidy.
+
+    Landing a stop (``_land_stop``) also runs under this same lock, since
+    ``transition`` re-locking a row this transaction already holds is a
+    no-op.
+    """
+    locked = lock_job_row(session, job.id)
+    if locked is None:
+        # The row is gone. There is nothing left to own, and nothing this
+        # worker may write.
+        return StopReason.OWNERSHIP_LOST
     if worker_id is not None and (
-        job.lease_owner != worker_id or job.status is not JobStatus.RUNNING
+        locked.lease_owner != worker_id or locked.status is not JobStatus.RUNNING
     ):
         return StopReason.OWNERSHIP_LOST
-    if job.cancel_requested:
+    if locked.cancel_requested:
         return StopReason.CANCELLED
-    if job.pause_requested:
+    if locked.pause_requested:
         return StopReason.PAUSED
     if worker_id is not None and worker_should_drain(session, worker_id):
+        # A plain SELECT on the worker table: it takes no lock, so holding
+        # the job row lock across it cannot invert with the worker loop,
+        # which writes the worker row before locking any job.
         return StopReason.DRAINED
     return None
 

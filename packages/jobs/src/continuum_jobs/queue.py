@@ -25,13 +25,16 @@ from continuum_jobs.states import assert_transition, is_terminal, next_backoff_s
 
 __all__ = [
     "DependencyCycleError",
+    "OwnershipLostError",
     "add_dependency",
     "apply_pending_requests",
+    "assert_owner",
     "block_job",
     "claim_next_job",
     "compute_dedupe_key",
     "enqueue",
     "fail_job",
+    "lock_job_row",
     "record_event",
     "request_cancel",
     "request_pause",
@@ -48,6 +51,17 @@ log = get_logger("continuum.jobs.queue")
 # advisory locks release automatically on commit/rollback and avoid adding a
 # schema object solely to lock an otherwise empty graph.
 _DEPENDENCY_GRAPH_LOCK = 0x434F4E5444455047  # "CONTDEPG"
+
+
+class OwnershipLostError(ContinuumError):
+    """A worker attempted a durable mutation it no longer has the right to make.
+
+    Raised rather than silently ignored so a stale worker's caller is forced
+    to decide, and so the audit trail records that someone tried.
+    """
+
+    code = "jobs.ownership_lost"
+    category = ErrorCategory.PERMANENT_CONFIG
 
 
 class DependencyCycleError(ContinuumError):
@@ -177,17 +191,138 @@ def _terminal_values() -> list[JobStatus]:
     return [JobStatus.SUCCEEDED, JobStatus.FAILED_FINAL, JobStatus.CANCELLED]
 
 
+def lock_job_row(session: Session, job_id: uuid.UUID) -> Job | None:
+    """Take the row lock and refresh the ORM object from durable state.
+
+    The single primitive every ownership-sensitive mutation is built on. It
+    pairs ``SELECT ... FOR UPDATE`` with ``populate_existing`` so the returned
+    object reflects what is *committed right now*, not whatever the caller
+    happened to load earlier. Pending changes are flushed first so an
+    in-flight mutation (the reaper's, for instance) is not silently discarded
+    by the refresh.
+
+    The lock is held until the caller's transaction ends, so a validate-then-
+    write sequence performed on the returned object is atomic with respect to
+    every other worker. Re-locking a row this transaction already holds is a
+    no-op, so privileged callers such as the reaper may nest safely.
+    """
+    session.flush()
+    return session.execute(
+        select(Job)
+        .where(Job.id == job_id)
+        .with_for_update()
+        .execution_options(populate_existing=True)
+    ).scalar_one_or_none()
+
+
+def assert_owner(session: Session, job_id: uuid.UUID, worker_id: uuid.UUID, *, action: str) -> Job:
+    """Lock the row and prove this worker still owns the RUNNING job.
+
+    Raises :class:`OwnershipLostError` otherwise. The lock is deliberately
+    *not* released here: the caller continues under it, which is what makes
+    "check ownership then mutate" a single serialization unit rather than two
+    racing statements.
+    """
+    locked = lock_job_row(session, job_id)
+    if locked is None:
+        raise OwnershipLostError(
+            "The job no longer exists.",
+            technical_detail=f"job_id={job_id} action={action}",
+        )
+    if locked.status is not JobStatus.RUNNING or locked.lease_owner != worker_id:
+        raise OwnershipLostError(
+            "This worker no longer owns the job and must not modify it.",
+            technical_detail=(
+                f"job_id={job_id} action={action} worker_id={worker_id} "
+                f"current_owner={locked.lease_owner} current_status={locked.status.value}"
+            ),
+            remediation=(
+                "Another worker owns this job now, or it was recovered. Stand down "
+                "and let the rightful owner finish it."
+            ),
+        )
+    return locked
+
+
 def transition(
     session: Session,
     job: Job,
     target: JobStatus,
     *,
     worker_id: uuid.UUID | None = None,
+    require_owner: uuid.UUID | None = None,
     detail: dict[str, Any] | None = None,
     blocked_reason: BlockedReason | None = None,
     remediation: dict[str, Any] | None = None,
 ) -> Job:
-    """Move a job to ``target``, refusing any transition not in the table."""
+    """Move a job to ``target``, refusing any transition not in the table.
+
+    **Validation and the write are one locked unit** (final audit H-3). The
+    previous version validated ``job.status`` from whatever the caller had
+    loaded, which could be arbitrarily old: a worker holding a stale RUNNING
+    snapshot could overwrite a newer owner's status and clear their lease.
+    The row is now locked and refreshed first, so the status the state machine
+    validates is the status actually in the database, and nobody can change it
+    between the check and the write.
+
+    Ownership is required **by default rather than by opt-in**: if a caller
+    identifies itself with ``worker_id`` and the freshly-locked row is
+    ``RUNNING``, that worker must be the current ``lease_owner``. Making
+    this the default is the actual root fix -- an opt-in ``require_owner``
+    would leave every present and future call site one forgotten keyword
+    away from reintroducing the defect, which is precisely how H-3 was
+    reachable through finalization, failure, block, pause and drain alike.
+
+    Three cases stay deliberately ownerless:
+
+    * the **reaper**, which is privileged recovery of an abandoned job and
+      passes no ``worker_id``;
+    * the **API request-applier**, which lands ownerless QUEUED/BLOCKED/
+      PAUSED jobs and likewise passes none;
+    * transitions on a job that is **not currently RUNNING** -- claiming
+      (QUEUED -> RUNNING) and the second half of a two-step stop
+      (CANCELLING -> CANCELLED) have no owner to check yet or any more.
+    """
+    locked = lock_job_row(session, job.id)
+    if locked is None:
+        raise OwnershipLostError(
+            "The job no longer exists.",
+            technical_detail=f"job_id={job.id} target={target.value}",
+        )
+    job = locked
+
+    # Default-on ownership. Identifying as a worker while moving a job OUT
+    # of the running state is a claim to own it, and that claim is verified
+    # against durable state under the lock.
+    #
+    # The condition is expressed against the LEASE OWNER rather than the
+    # status, because both halves of a two-phase stop are legitimate:
+    # RUNNING -> PAUSING -> PAUSED and RUNNING -> CANCELLING -> CANCELLED
+    # keep the same owner throughout, and requiring RUNNING would reject
+    # the second half of a stop the worker itself just started.
+    #
+    # Claiming (target RUNNING) is excluded: there is no owner to check
+    # yet, which is the point of claiming.
+    #
+    # A job reaped out from under a worker lands here as owner ``None`` and
+    # so raises OwnershipLostError rather than falling through to the state
+    # machine. That matters: IllegalTransitionError would escape
+    # execute_job() and crash the worker, where what it must do is stand
+    # down quietly and let the rightful owner finish.
+    expected_owner = require_owner
+    if expected_owner is None and worker_id is not None and target is not JobStatus.RUNNING:
+        expected_owner = worker_id
+
+    if expected_owner is not None and job.lease_owner != expected_owner:
+        raise OwnershipLostError(
+            "This worker no longer owns the job and must not transition it.",
+            technical_detail=(
+                f"job_id={job.id} target={target.value} expected_owner={expected_owner} "
+                f"current_owner={job.lease_owner} current_status={job.status.value}"
+            ),
+            remediation="Stand down; the rightful owner or the reaper will finish it.",
+        )
+
     assert_transition(job.status, target, job_id=job.id)
     previous = job.status
     _apply_status(session, job, target, blocked_reason=blocked_reason, remediation=remediation)
@@ -483,9 +618,22 @@ def retry_job(session: Session, job: Job) -> Job:
 
 
 def fail_job(
-    session: Session, job: Job, error: StructuredError, *, worker_id: uuid.UUID | None = None
+    session: Session,
+    job: Job,
+    error: StructuredError,
+    *,
+    worker_id: uuid.UUID | None = None,
+    require_owner: uuid.UUID | None = None,
 ) -> Job:
-    """Record a structured failure and decide retryable vs final (F-25, F-70)."""
+    """Record a structured failure and decide retryable vs final (F-25, F-70).
+
+    ``require_owner`` locks the row and proves ownership BEFORE any of the
+    error history, attempt counter or failure status is touched. Without
+    it a stale worker could attach its own exception to a job another
+    worker is legitimately running (final audit H-2).
+    """
+    if require_owner is not None:
+        job = assert_owner(session, job.id, require_owner, action="fail job")
     payload = error.to_dict()
     job.last_error = payload
     history = list(job.error_history or [])
@@ -528,6 +676,7 @@ def block_job(
     remediation: dict[str, Any],
     *,
     worker_id: uuid.UUID | None = None,
+    require_owner: uuid.UUID | None = None,
 ) -> Job:
     """Park a job with an actionable reason instead of failing it (F-24)."""
     transition(
@@ -535,6 +684,7 @@ def block_job(
         job,
         JobStatus.BLOCKED,
         worker_id=worker_id,
+        require_owner=require_owner,
         blocked_reason=reason,
         remediation=remediation,
         detail={"blocked_reason": reason.value, **remediation},

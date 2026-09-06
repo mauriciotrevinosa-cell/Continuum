@@ -37,7 +37,14 @@ from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
 from continuum_jobs.lease import LeaseHeartbeat, renew_lease, worker_should_drain
-from continuum_jobs.queue import fail_job, record_event, transition
+from continuum_jobs.queue import (
+    OwnershipLostError,
+    assert_owner,
+    fail_job,
+    lock_job_row,
+    record_event,
+    transition,
+)
 
 __all__ = [
     "JobContext",
@@ -251,6 +258,7 @@ def execute_job(
                 session, job.id, JobEventType.STEP_STARTED, detail={"unit_key": unit.unit_key}
             )
 
+            beat: LeaseHeartbeat | None = None
             try:
                 # ---- 1. perform the effect (must be repeat-safe) ----------
                 # The lease is renewed on a background thread FOR THE DURATION
@@ -275,6 +283,26 @@ def execute_job(
                 # its actionable remediation payload.
                 if isinstance(exc, ContinuumError) and exc.context.get("blocked_reason"):
                     raise
+
+                # OWNERSHIP LOSS DOMINATES THE EXCEPTION (final audit H-2).
+                # If the heartbeat already proved this worker no longer owns
+                # the job, the handler's failure is this worker's private
+                # problem. Writing STEP_FAILED, error history, attempts or a
+                # failure status here would corrupt the NEW owner's job with
+                # an error that has nothing to do with their execution.
+                if worker_id is not None and (
+                    (beat is not None and beat.ownership_lost)
+                    or not _still_owns(session, job.id, worker_id)
+                ):
+                    session.rollback()
+                    record_ownership_loss(session, job.id, worker_id)
+                    session.commit()
+                    log.warning(
+                        "handler raised after ownership was lost; failure not recorded",
+                        extra={"job_id": str(job.id), "worker_id": str(worker_id)},
+                    )
+                    return StopReason.OWNERSHIP_LOST
+
                 step.status = StepStatus.FAILED
                 error = _structured(exc)
                 step.last_error = error.to_dict()
@@ -286,7 +314,13 @@ def execute_job(
                     detail={"unit_key": unit.unit_key, "error": error.to_dict()},
                     worker_id=worker_id,
                 )
-                fail_job(session, job, error, worker_id=worker_id)
+                try:
+                    fail_job(session, job, error, worker_id=worker_id, require_owner=worker_id)
+                except OwnershipLostError:
+                    session.rollback()
+                    record_ownership_loss(session, job.id, worker_id)
+                    session.commit()
+                    return StopReason.OWNERSHIP_LOST
                 session.commit()
                 return StopReason.FAILED
 
@@ -300,6 +334,20 @@ def execute_job(
                 record_ownership_loss(session, job.id, worker_id)
                 session.commit()
                 return StopReason.OWNERSHIP_LOST
+
+            # H-1: take the row lock and re-prove ownership BEFORE writing
+            # any of the unit's durable record. The lock is held until the
+            # commit below, so nothing can reclaim the job in between --
+            # the check and the write are one serialization unit rather
+            # than two racing statements.
+            if worker_id is not None:
+                try:
+                    assert_owner(session, job.id, worker_id, action="complete unit")
+                except OwnershipLostError:
+                    session.rollback()
+                    record_ownership_loss(session, job.id, worker_id)
+                    session.commit()
+                    return StopReason.OWNERSHIP_LOST
 
             step.status = StepStatus.SUCCEEDED
             step.result = outcome.result
@@ -330,12 +378,42 @@ def execute_job(
             session.commit()
 
             if worker_id is not None:
-                renew_lease(session, job.id, lease_seconds)
+                # Owner-scoped, and the answer is acted on. Renewing by job
+                # id alone would extend whichever worker now owns the row.
+                if not renew_lease(session, job.id, lease_seconds, worker_id=worker_id):
+                    session.rollback()
+                    record_ownership_loss(session, job.id, worker_id)
+                    session.commit()
+                    return StopReason.OWNERSHIP_LOST
                 session.commit()
 
-        transition(session, job, JobStatus.SUCCEEDED, worker_id=worker_id)
+        # Final status is the last thing a stale worker could corrupt, so
+        # it carries the same ownership requirement as every other write.
+        try:
+            transition(
+                session,
+                job,
+                JobStatus.SUCCEEDED,
+                worker_id=worker_id,
+                require_owner=worker_id,
+            )
+        except OwnershipLostError:
+            session.rollback()
+            record_ownership_loss(session, job.id, worker_id)
+            session.commit()
+            return StopReason.OWNERSHIP_LOST
         session.commit()
         return StopReason.COMPLETED
+
+
+def _still_owns(session: Session, job_id: uuid.UUID, worker_id: uuid.UUID) -> bool:
+    """Durable ownership check for paths where raising is the wrong shape."""
+    locked = lock_job_row(session, job_id)
+    return (
+        locked is not None
+        and locked.status is JobStatus.RUNNING
+        and locked.lease_owner == worker_id
+    )
 
 
 def record_ownership_loss(session: Session, job_id: uuid.UUID, worker_id: uuid.UUID | None) -> None:
@@ -372,16 +450,37 @@ def _stop_requested(session: Session, job: Job, worker_id: uuid.UUID | None) -> 
 
 
 def _land_stop(session: Session, job: Job, reason: StopReason, worker_id: uuid.UUID | None) -> None:
-    """Move a stopped job to its resting state, leaving it resumable."""
+    """Move a stopped job to its resting state, leaving it resumable.
+
+    Every transition here is a worker-owned RUNNING transition, so each
+    carries ``require_owner``. Only the FIRST needs it strictly -- once it
+    succeeds the job has left RUNNING and this worker is the only actor --
+    but the row lock taken inside ``transition`` is held for the whole
+    caller transaction, so the follow-up transitions are already protected
+    and are written without the owner requirement they could no longer
+    satisfy.
+    """
     if reason is StopReason.CANCELLED:
         if job.status is JobStatus.RUNNING:
-            transition(session, job, JobStatus.CANCELLING, worker_id=worker_id)
+            transition(
+                session,
+                job,
+                JobStatus.CANCELLING,
+                worker_id=worker_id,
+                require_owner=worker_id,
+            )
         transition(session, job, JobStatus.CANCELLED, worker_id=worker_id)
         return
 
     # Pause and drain both leave the job resumable from its completed units.
     if job.status is JobStatus.RUNNING:
-        transition(session, job, JobStatus.PAUSING, worker_id=worker_id)
+        transition(
+            session,
+            job,
+            JobStatus.PAUSING,
+            worker_id=worker_id,
+            require_owner=worker_id,
+        )
     if reason is StopReason.PAUSED:
         transition(session, job, JobStatus.PAUSED, worker_id=worker_id)
     else:

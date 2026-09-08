@@ -34,6 +34,7 @@ transfer, never by sleeping on a guess.
 from __future__ import annotations
 
 import threading
+import time
 import uuid
 
 import pytest
@@ -126,6 +127,16 @@ def _steal(settings: Settings, job_id: uuid.UUID, worker_b: uuid.UUID) -> None:
 
     Deliberately not a hand-written UPDATE: the point is that ownership moves
     exactly the way it moves in production.
+
+    Expiry and reap share **one** transaction (cold audit F-A). Splitting them
+    left a gap in which the executing worker's own ``LeaseHeartbeat`` could
+    renew the lease being expired -- ``renew_lease`` carries no expiry
+    predicate, so a lapsed lease is renewable by its still-durable owner --
+    after which the reaper found nothing and the handover silently failed.
+    That produced spurious failures at roughly one run in ten. Holding the row
+    lock from the expiry through the reap closes it: a concurrent beat blocks
+    until this transaction commits, and by then the owner predicate no longer
+    matches.
     """
     with session_scope(settings) as session:
         session.execute(
@@ -137,13 +148,23 @@ def _steal(settings: Settings, job_id: uuid.UUID, worker_b: uuid.UUID) -> None:
                 ).scalar_one()
             )
         )
-    with session_scope(settings) as session:
         assert job_id in reap_expired_leases(session)
-    with session_scope(settings) as session:
-        claimed = claim_next_job(
-            session, worker_id=worker_b, resource_classes=["cpu"], lease_seconds=300
-        )
-        assert claimed is not None and claimed.id == job_id
+    # Claiming uses FOR UPDATE SKIP LOCKED, so a single attempt can legitimately
+    # come back empty while another transaction is touching the row -- a beat
+    # from the outgoing worker's heartbeat, for instance. Production claims in
+    # a poll loop for exactly this reason, so a test that demands the first
+    # attempt win is asserting something the system never promised. The
+    # invariant asserted here is unchanged: B *does* take ownership.
+    deadline = time.monotonic() + 30
+    while True:
+        with session_scope(settings) as s:
+            claimed = claim_next_job(
+                s, worker_id=worker_b, resource_classes=["cpu"], lease_seconds=300
+            )
+            if claimed is not None:
+                assert claimed.id == job_id
+                return
+        assert time.monotonic() < deadline, "worker B never managed to claim the reaped job"
 
 
 def _observe(settings: Settings, job_id: uuid.UUID) -> tuple[JobStatus, uuid.UUID | None]:

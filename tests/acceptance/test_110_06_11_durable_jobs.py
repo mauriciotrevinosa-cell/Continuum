@@ -226,16 +226,21 @@ class TestResumeOnlyUnfinishedUnits:
         # Force every unit to run again, exactly as a crash-resumed worker
         # would if the completion records had not committed.
         #
-        # lease_owner is restored alongside status because a worker only ever
-        # reaches RUNNING through claim_next_job, which sets both atomically.
-        # RUNNING with no lease owner is not a reachable committed state, and
-        # the ownership guard added for second-audit C-1 correctly refuses to
-        # execute a job this worker does not own. Setup only -- the assertions
-        # below are unchanged.
+        # lease_owner AND lease_expires_at are restored alongside status,
+        # because a worker only ever reaches RUNNING through claim_next_job,
+        # which sets all three atomically. RUNNING with no owner, or with a
+        # lease the database considers dead, is not a reachable committed
+        # state -- and the effect-start guard added for cold-audit H-6
+        # correctly refuses to begin a unit on a lapsed lease. The deadline
+        # comes from the database clock, never the worker's (ADR-0002
+        # section 5). Setup only -- the assertions below are unchanged.
         session.refresh(claimed)
         claimed.status = JobStatus.RUNNING
         claimed.completed_at = None
         claimed.lease_owner = worker.id
+        claimed.lease_expires_at = session.execute(
+            select(func.now() + func.make_interval(0, 0, 0, 0, 0, 0, 30))
+        ).scalar_one()
         session.commit()
         _run(
             session,
@@ -344,6 +349,11 @@ class TestPauseCancelDrain:
         session.commit()
         claimed.status = JobStatus.RUNNING
         claimed.lease_owner = worker.id
+        # As with the owner: a claimed job always carries a live lease, so
+        # the deadline is restored too, from the database clock (H-6).
+        claimed.lease_expires_at = session.execute(
+            select(func.now() + func.make_interval(0, 0, 0, 0, 0, 0, 30))
+        ).scalar_one()
         session.commit()
         assert (
             _run(session, claimed, db_settings, storage, worker_id=worker.id)

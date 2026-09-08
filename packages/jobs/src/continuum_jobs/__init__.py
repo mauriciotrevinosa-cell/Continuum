@@ -8,6 +8,7 @@ from continuum_jobs.execution import (
     UnitSpec,
     execute_job,
     plan_units,
+    record_ownership_loss,
 )
 from continuum_jobs.lease import (
     LeaseHeartbeat,
@@ -80,6 +81,7 @@ __all__ = [
     "plan_units",
     "reap_expired_leases",
     "record_event",
+    "record_ownership_loss",
     "register_worker",
     "registry",
     "renew_lease",

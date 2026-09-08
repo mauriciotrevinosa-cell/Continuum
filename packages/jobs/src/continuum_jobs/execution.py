@@ -274,13 +274,28 @@ def execute_job(
                 session.commit()
                 return stop
 
+            # H-6: authorise the effect while the row lock is STILL HELD.
+            # Proving ownership is not enough on its own -- the proof is a
+            # statement about the past the moment the lock is released, and
+            # the first heartbeat beat is a whole interval away. Renewing
+            # here, under the lock, is what makes this worker the executor
+            # for a bounded, known-live window rather than merely its last
+            # recorded owner.
+            if worker_id is not None and not _authorize_effect(
+                session, job.id, worker_id, lease_seconds
+            ):
+                session.rollback()
+                record_ownership_loss(session, job.id, worker_id)
+                session.commit()
+                return StopReason.OWNERSHIP_LOST
+
             # H-4: _stop_requested() above took the job row lock and did
-            # NOT release it, so the ownership proof and this step-start
-            # write are one serialization unit -- the lock is held right
-            # through to the commit below. Nothing may commit between the
-            # two; doing so would reopen exactly the window in which a stale
-            # worker stamped status, started_at and attempt onto the
-            # rightful owner's step row.
+            # NOT release it, so the ownership proof, the lease renewal and
+            # this step-start write are one serialization unit -- the lock
+            # is held right through to the commit below. Nothing may commit
+            # between them; doing so would reopen exactly the window in
+            # which a stale worker stamped status, started_at and attempt
+            # onto the rightful owner's step row.
             step = session.execute(
                 select(JobStep).where(JobStep.job_id == job.id, JobStep.unit_key == unit.unit_key)
             ).scalar_one()
@@ -309,23 +324,46 @@ def execute_job(
                         lease_seconds=lease_seconds,
                         interval_seconds=heartbeat_seconds,
                     ) as beat:
+                        # H-6, last gate: the effect does not begin unless
+                        # this worker is STILL the live owner. The two
+                        # layers above -- refusing a lapsed lease and
+                        # renewing under the row lock -- make this
+                        # unreachable in production, because the job leaves
+                        # that commit with a lease good for the whole
+                        # lease_seconds and a heartbeat now running. What
+                        # this catches is a stall between the authorising
+                        # commit and the effect's first instruction, which
+                        # is the same hazard that produced H-6 one step
+                        # earlier. Defence in depth, not the guarantee.
+                        #
+                        # Deliberately a plain SELECT on its own session:
+                        # see _owns_live_lease for why neither a lock nor
+                        # the executing session may be used here.
+                        if not _owns_live_lease(settings, job.id, worker_id):
+                            session.rollback()
+                            record_ownership_loss(session, job.id, worker_id)
+                            session.commit()
+                            return StopReason.OWNERSHIP_LOST
                         outcome = handler.execute_unit(ctx, unit)
                         lost_ownership = beat.ownership_lost
                 else:
                     outcome = handler.execute_unit(ctx, unit)
             except Exception as exc:
-                # Provider/policy blocks are decisions, not failed attempts.
-                # The standalone worker owns the transition to BLOCKED and
-                # its actionable remediation payload.
-                if isinstance(exc, ContinuumError) and exc.context.get("blocked_reason"):
-                    raise
-
-                # OWNERSHIP LOSS DOMINATES THE EXCEPTION (final audit H-2).
-                # If the heartbeat already proved this worker no longer owns
-                # the job, the handler's failure is this worker's private
-                # problem. Writing STEP_FAILED, error history, attempts or a
-                # failure status here would corrupt the NEW owner's job with
-                # an error that has nothing to do with their execution.
+                # OWNERSHIP LOSS DOMINATES *EVERY* EXCEPTION (final audit
+                # H-2, cold audit H-7). If the heartbeat already proved this
+                # worker no longer owns the job, the handler's failure is
+                # this worker's private problem. Writing STEP_FAILED, error
+                # history, attempts or a failure status here would corrupt
+                # the NEW owner's job with an error that has nothing to do
+                # with their execution.
+                #
+                # This check must come FIRST, ahead of the blocked-reason
+                # re-raise below. When it did not, a stale worker's provider
+                # block propagated into Worker.run_once(), which called
+                # block_job() for a job it no longer owned; that raised
+                # OwnershipLostError, and nothing in run_once() or
+                # run_forever() catches it, so a routine race killed the
+                # worker process.
                 if worker_id is not None and (
                     (beat is not None and beat.ownership_lost)
                     or not _still_owns(session, job.id, worker_id)
@@ -338,6 +376,13 @@ def execute_job(
                         extra={"job_id": str(job.id), "worker_id": str(worker_id)},
                     )
                     return StopReason.OWNERSHIP_LOST
+
+                # Provider/policy blocks are decisions, not failed attempts.
+                # The standalone worker owns the transition to BLOCKED and
+                # its actionable remediation payload -- but only while it
+                # still owns the job, which the check above has now proved.
+                if isinstance(exc, ContinuumError) and exc.context.get("blocked_reason"):
+                    raise
 
                 step.status = StepStatus.FAILED
                 error = _structured(exc)
@@ -511,6 +556,119 @@ def _plan_under_lease(
     return units
 
 
+def _owns_live_lease(settings: Any, job_id: uuid.UUID, worker_id: uuid.UUID) -> bool:
+    """Non-locking probe: is this worker the owner of a still-live lease?
+
+    Point-in-time by design. It exists to catch a stall immediately before
+    the effect, not to serialise anything -- the serialisation happens in
+    ``_authorize_effect``, under the row lock. Taking a lock here would hold
+    it for the entire effect and block every other writer, the API's pause
+    and cancel flags included.
+
+    **It runs on its own short-lived session, exactly as LeaseHeartbeat
+    does**, and that is not a stylistic choice. Using the executing session
+    would leave a transaction open for the whole duration of the effect,
+    which nothing else in the unit loop does -- ``record_event`` only stages
+    the STEP_STARTED row, it does not flush. A transaction held open across
+    a multi-hour render pins ``xmin`` and stops vacuum from reclaiming
+    anything, and the first statement inside it would autoflush that pending
+    event, whose foreign key takes a FOR KEY SHARE lock on the job row.
+    ``reap_expired_leases`` selects FOR UPDATE SKIP LOCKED, so it would
+    silently skip the job -- and a worker that hung with its connection
+    still alive would hold the job hostage from the reaper indefinitely,
+    defeating the recovery this system exists to provide.
+    """
+    from continuum_db.session import session_scope
+
+    with session_scope(settings) as probe:
+        return (
+            probe.execute(
+                select(Job.id).where(
+                    Job.id == job_id,
+                    Job.status == JobStatus.RUNNING,
+                    Job.lease_owner == worker_id,
+                    Job.lease_expires_at > func.now(),
+                )
+            ).scalar_one_or_none()
+            is not None
+        )
+
+
+def _lease_is_alive(session: Session, job_id: uuid.UUID) -> bool:
+    """Whether this job's lease has not yet expired, by the DATABASE clock.
+
+    ``now()`` is evaluated by PostgreSQL, never by the worker. ADR-0002
+    section 5 is explicit that clock skew between machines must not be able
+    to expire a live lease, and the same reasoning applies in reverse: a
+    worker with a fast clock must not be able to talk itself out of a lease
+    it still holds, nor a worker with a slow one into a lease it has lost.
+    """
+    return (
+        session.execute(
+            select(Job.id).where(Job.id == job_id, Job.lease_expires_at > func.now())
+        ).scalar_one_or_none()
+        is not None
+    )
+
+
+def _authorize_effect(
+    session: Session, job_id: uuid.UUID, worker_id: uuid.UUID, lease_seconds: int
+) -> bool:
+    """Renew this worker's lease under the row lock, before any effect runs.
+
+    **The defect this closes (cold audit H-6).** The pre-unit proof used to
+    be the last word before ``handler.execute_unit()``, and the row lock was
+    released by the step-start commit. The ``LeaseHeartbeat`` that keeps the
+    lease alive during the effect is only entered *after* that commit, and
+    its first beat is a whole interval later. Between those two points the
+    worker held no lock and no fresh lease, so the reaper could legitimately
+    reclaim and a second worker could claim -- and the audit proved the first
+    worker then began the effect anyway, with the job durably owned by
+    someone else. The completion write was correctly refused, so nothing was
+    corrupted, but two workers executed the same unit. Effect idempotency
+    (ADR-0002 section 2) makes that survivable; it does not make it correct.
+
+    **Why a renewal rather than another check.** A check answers "did I own
+    this a moment ago". A renewal answers "am I the executor for the next
+    ``lease_seconds``", which is the question the effect actually depends on.
+    Because it runs inside the transaction that still holds the row lock, no
+    reaper can interleave: ``reap_expired_leases`` takes ``FOR UPDATE SKIP
+    LOCKED`` and skips this row entirely while the lock is held.
+
+    **The expired-but-unreaped decision, made explicit.** ``renew_lease``
+    deliberately carries no expiry predicate: a worker that is still the
+    durable owner may renew a lapsed lease, because in this design *reaping*
+    transfers ownership, not the clock. That is preserved exactly, and it is
+    what lets the heartbeat keep a genuinely-running unit alive across a
+    momentary lapse. The stricter rule is applied one level up, in
+    ``_stop_requested``: **starting a new effect** on a lapsed lease is
+    refused, because at that point the worker has no evidence it is still
+    the executor and the reaper is entitled to act at any moment. Keeping a
+    running unit alive and beginning a new one are different questions, and
+    they get different answers.
+
+    Returns ``False`` when the renewal is refused -- the job is no longer
+    ``RUNNING``, or is owned by another worker -- in which case the caller
+    must stand down without executing anything.
+    """
+    if not renew_lease(session, job_id, lease_seconds, worker_id=worker_id):
+        return False
+    # Belt and braces: prove from durable state, under the same lock, that
+    # the row this worker is about to act on is RUNNING, owned by it, and
+    # carries a lease the database agrees is still in the future.
+    return (
+        session.execute(
+            select(Job.id).where(
+                Job.id == job_id,
+                Job.status == JobStatus.RUNNING,
+                Job.lease_owner == worker_id,
+                Job.lease_expires_at > func.now(),
+            )
+        ).scalar_one_or_none()
+        is not None
+    )
+
+
 def _still_owns(session: Session, job_id: uuid.UUID, worker_id: uuid.UUID) -> bool:
     """Durable ownership check for paths where raising is the wrong shape."""
     locked = lock_job_row(session, job_id)
@@ -565,6 +723,19 @@ def _stop_requested(session: Session, job: Job, worker_id: uuid.UUID | None) -> 
     if worker_id is not None and (
         locked.lease_owner != worker_id or locked.status is not JobStatus.RUNNING
     ):
+        return StopReason.OWNERSHIP_LOST
+    if worker_id is not None and not _lease_is_alive(session, job.id):
+        # H-6: being the recorded owner is not the same as holding a live
+        # lease. A worker stalled past ``worker_lease_seconds`` -- a GC
+        # pause, a swapped-out process, a suspended VM -- is still named as
+        # the owner, but every other actor in the system is entitled to
+        # treat that job as abandoned. Starting a NEW unit on that evidence
+        # is not defensible, so this stands down and lets the reaper hand
+        # the job to someone who can actually run it.
+        #
+        # The comparison is made by PostgreSQL against ``now()``, never
+        # against worker local time (ADR-0002 section 5): clock skew between
+        # machines must not be able to decide who owns a job.
         return StopReason.OWNERSHIP_LOST
     if locked.cancel_requested:
         return StopReason.CANCELLED

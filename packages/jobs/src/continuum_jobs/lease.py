@@ -101,6 +101,16 @@ def renew_lease(
     very condition the lease exists to detect. Ownership is therefore part of
     the ``WHERE`` clause rather than something the caller is trusted to have
     checked: the guard and the write are then a single atomic statement.
+
+    **The deadline comes from ``clock_timestamp()``, not ``now()`` (H-8).**
+    ``now()`` is ``transaction_timestamp()``: it is frozen when the
+    transaction begins and does not advance while that transaction waits on
+    a row lock. A renewal issued after a long lock wait would therefore set
+    ``now() + lease_seconds``, a deadline measured from a moment already in
+    the past -- and if the wait exceeded ``lease_seconds``, the "renewed"
+    lease would be born expired. ``clock_timestamp()`` is still the database
+    clock, so ADR-0002 section 5 holds: the worker's local clock is never
+    consulted, and skew between machines still cannot decide who owns a job.
     """
     conditions = [Job.id == job_id, Job.status == JobStatus.RUNNING]
     if worker_id is not None:
@@ -109,7 +119,10 @@ def renew_lease(
     result = session.execute(
         update(Job)
         .where(*conditions)
-        .values(lease_expires_at=func.now() + func.make_interval(0, 0, 0, 0, 0, 0, lease_seconds))
+        .values(
+            lease_expires_at=func.clock_timestamp()
+            + func.make_interval(0, 0, 0, 0, 0, 0, lease_seconds)
+        )
     )
     renewed = bool(cast("CursorResult[Any]", result).rowcount)
 

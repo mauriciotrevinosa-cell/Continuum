@@ -304,10 +304,23 @@ def execute_job(
             step.status = StepStatus.RUNNING
             step.started_at = dt.datetime.now(dt.UTC)
             step.attempt += 1
-            session.commit()
+            # H-9: STEP_STARTED commits WITH the authorised step start, not
+            # after it. Staging it and leaving it pending handed the handler
+            # a session carrying an unflushed coordination write, and the
+            # first query any handler made through ctx.session autoflushed
+            # it. That INSERT's foreign key takes a FOR KEY SHARE lock on
+            # the job row, held for as long as the effect runs -- and
+            # reap_expired_leases selects FOR UPDATE SKIP LOCKED, so it
+            # silently skipped the job. A handler that hung with its
+            # connection still alive made the job unrecoverable for exactly
+            # as long as it hung, defeating the recovery the lease model
+            # exists to promise. Committing it here also makes the audit
+            # record honest: the event lands in the same transaction as the
+            # state it describes.
             record_event(
                 session, job.id, JobEventType.STEP_STARTED, detail={"unit_key": unit.unit_key}
             )
+            session.commit()
 
             beat: LeaseHeartbeat | None = None
             try:
@@ -587,7 +600,7 @@ def _owns_live_lease(settings: Any, job_id: uuid.UUID, worker_id: uuid.UUID) -> 
                     Job.id == job_id,
                     Job.status == JobStatus.RUNNING,
                     Job.lease_owner == worker_id,
-                    Job.lease_expires_at > func.now(),
+                    Job.lease_expires_at > func.clock_timestamp(),
                 )
             ).scalar_one_or_none()
             is not None
@@ -595,17 +608,27 @@ def _owns_live_lease(settings: Any, job_id: uuid.UUID, worker_id: uuid.UUID) -> 
 
 
 def _lease_is_alive(session: Session, job_id: uuid.UUID) -> bool:
-    """Whether this job's lease has not yet expired, by the DATABASE clock.
+    """Whether this job's lease has not yet expired, by a FRESH database clock.
 
-    ``now()`` is evaluated by PostgreSQL, never by the worker. ADR-0002
-    section 5 is explicit that clock skew between machines must not be able
-    to expire a live lease, and the same reasoning applies in reverse: a
-    worker with a fast clock must not be able to talk itself out of a lease
-    it still holds, nor a worker with a slow one into a lease it has lost.
+    The clock is PostgreSQL's, never the worker's. ADR-0002 section 5 is
+    explicit that skew between machines must not be able to expire a live
+    lease, and the same reasoning applies in reverse: a worker with a fast
+    clock must not talk itself out of a lease it still holds, nor a worker
+    with a slow one into a lease it has lost.
+
+    **It must be ``clock_timestamp()`` rather than ``now()`` (H-8).**
+    ``now()`` is ``transaction_timestamp()``, frozen at the moment the
+    transaction began. This check runs immediately after ``lock_job_row``,
+    which *blocks* whenever another transaction holds the row -- the API
+    applying a request flag, the reaper, a heartbeat. However long that wait
+    lasts, ``now()`` still reports the instant before it started, so a lease
+    that expired during the wait was still judged alive. That was H-8: a
+    stale timestamp authorising a step start on a dead lease.
+    ``clock_timestamp()`` advances, so the answer is about now.
     """
     return (
         session.execute(
-            select(Job.id).where(Job.id == job_id, Job.lease_expires_at > func.now())
+            select(Job.id).where(Job.id == job_id, Job.lease_expires_at > func.clock_timestamp())
         ).scalar_one_or_none()
         is not None
     )
@@ -656,13 +679,18 @@ def _authorize_effect(
     # Belt and braces: prove from durable state, under the same lock, that
     # the row this worker is about to act on is RUNNING, owned by it, and
     # carries a lease the database agrees is still in the future.
+    #
+    # ``clock_timestamp()`` again, and here it is not a refinement but the
+    # difference between a check and a tautology: with ``now()`` this
+    # compared a deadline just written as ``now() + lease_seconds`` against
+    # ``now()`` itself, so it was true by construction and proved nothing.
     return (
         session.execute(
             select(Job.id).where(
                 Job.id == job_id,
                 Job.status == JobStatus.RUNNING,
                 Job.lease_owner == worker_id,
-                Job.lease_expires_at > func.now(),
+                Job.lease_expires_at > func.clock_timestamp(),
             )
         ).scalar_one_or_none()
         is not None

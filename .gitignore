@@ -5,6 +5,11 @@
 # They must never be committed. These entries are a defensive backstop only —
 # see docs/ADR/0001-storage-and-source-vault.md.
 /source-vault/
+# The physical Vault is C:\ContinuumVault, outside this repository. These
+# two names are here so that a Vault accidentally created *inside* the
+# working tree still cannot be committed. See docs/SOURCE_VAULT_SCAFFOLD.md.
+/Vault/
+/ContinuumVault/
 /library/
 /projects/
 /generated/

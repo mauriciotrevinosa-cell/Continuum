@@ -153,6 +153,14 @@ export default async function StatusPage() {
           <Link href="/jobs">Open queue →</Link>
         </div>
       </div>
+
+      <h2>Library</h2>
+      <div className="panel">
+        <div className="row">
+          <span>What you own, what is missing, and where it may legally come from.</span>
+          <Link href="/library/acquisition">Open acquisition →</Link>
+        </div>
+      </div>
     </main>
   );
 }

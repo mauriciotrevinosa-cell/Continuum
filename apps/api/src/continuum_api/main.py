@@ -25,12 +25,12 @@ from contextlib import asynccontextmanager
 from continuum_config import Settings, get_settings
 from continuum_observability import configure_logging, correlation_scope, get_logger
 from continuum_providers import build_default_registry
-from continuum_storage import build_storage
+from continuum_storage import AcquisitionStore, build_storage
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from starlette.responses import JSONResponse
 
-from continuum_api.routers import health, jobs, workers
+from continuum_api.routers import acquisition, health, jobs, workers
 
 __all__ = ["create_app"]
 
@@ -47,6 +47,13 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     storage = build_storage(settings, create=True)
     app.state.storage = storage
     app.state.providers = build_default_registry()
+    # Library acquisition documents, written by the acquisition engine. A
+    # missing directory is a valid empty state: a new user has no library.
+    app.state.acquisition = AcquisitionStore(
+        settings.acquisition_dir(),
+        cli_path=settings.acquisition_cli,
+        timeout_seconds=settings.acquisition_cli_timeout_seconds,
+    )
 
     for warning in storage.sync_warnings:
         # Not fatal: the user may knowingly accept it. But the failure mode
@@ -112,4 +119,5 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     app.include_router(health.router)
     app.include_router(jobs.router)
     app.include_router(workers.router)
+    app.include_router(acquisition.router)
     return app

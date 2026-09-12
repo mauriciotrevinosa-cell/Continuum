@@ -5,6 +5,13 @@ may import ``os``, ``pathlib``, ``shutil``, ``tempfile``, ``zipfile`` or call
 bare ``open()`` for filesystem work.
 """
 
+from continuum_storage.acquisition import (
+    ACQUISITION_DOCUMENTS,
+    AcquisitionCliError,
+    AcquisitionDocument,
+    AcquisitionStore,
+    CliResult,
+)
 from continuum_storage.derived import DerivedStore, StoredArtifact
 from continuum_storage.paths import (
     RESERVED_DEVICE_NAMES,
@@ -29,7 +36,12 @@ from continuum_storage.roots import (
 from continuum_storage.vault import SourceVaultReader, VaultEntry
 
 __all__ = [
+    "ACQUISITION_DOCUMENTS",
     "RESERVED_DEVICE_NAMES",
+    "AcquisitionCliError",
+    "AcquisitionDocument",
+    "AcquisitionStore",
+    "CliResult",
     "DerivedStore",
     "ReadOnlyStatus",
     "ResolvedPath",

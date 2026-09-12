@@ -106,6 +106,25 @@ class Settings(BaseSettings):
     # -- providers ---------------------------------------------------------
     production_profile: ProductionProfile = ProductionProfile.FREE_LOCAL
 
+    # -- library acquisition (D-01: data outside the repository) -----------
+    # Acquisition belongs to the LIBRARY, not to any project: what the user
+    # owns and what they are missing is true regardless of which story they
+    # are working on. Empty means "<library root>/acquisition", and a data
+    # directory that does not exist yet is a valid, empty state.
+    acquisition_data_dir: str = Field(
+        default="",
+        description="Directory holding the acquisition documents (coverage, queue, registry).",
+    )
+    acquisition_cli: str = Field(
+        default="",
+        description=(
+            "Absolute path to acquisition_orchestrator.py. Without it the API serves "
+            "acquisition data "
+            "read-only and every action answers with the command to run yourself."
+        ),
+    )
+    acquisition_cli_timeout_seconds: float = Field(default=180.0, gt=0, le=900)
+
     # -- observability -----------------------------------------------------
     log_level: Literal["DEBUG", "INFO", "WARNING", "ERROR"] = "INFO"
 
@@ -165,6 +184,12 @@ class Settings(BaseSettings):
     def all_roots(self) -> dict[str, str]:
         """Every root key mapped to its configured path string."""
         return {key: self.root(key) for key in ROOT_KEYS}
+
+    def acquisition_dir(self) -> str:
+        """Where the acquisition documents live (a string; storage resolves)."""
+        if self.acquisition_data_dir:
+            return str(self.acquisition_data_dir)
+        return os.path.join(self.root("library"), "acquisition")  # noqa: PTH118 - str join only
 
     def safe_dump(self) -> dict[str, Any]:
         """Configuration for /health and logs, with secrets already masked."""

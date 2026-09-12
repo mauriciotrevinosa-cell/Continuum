@@ -172,8 +172,14 @@ class TestApiSurfaceIsPhaseZeroOnly:
                         offenders.append(f"{method.upper()} {path} -> {parameter['name']}")
         assert offenders == [], f"filesystem path parameters found: {offenders}"
 
-    def test_surface_is_limited_to_health_jobs_workers(self, client: TestClient) -> None:
-        """No Library, Reader, Story Studio or Visual Lab routes in Phase 0."""
+    def test_surface_is_limited_to_the_built_features(self, client: TestClient) -> None:
+        """The API surface stays closed: only what has actually been built.
+
+        Phase 0 shipped health, jobs and workers. Library acquisition was
+        commissioned afterwards and is built, so it belongs here too. Reader,
+        Story Studio, Character Brain and Visual Lab are still absent, and a
+        route for any of them must fail this test until that feature exists.
+        """
         paths = set(client.get("/openapi.json").json()["paths"])
         assert paths == {
             "/health",
@@ -188,6 +194,23 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/workers",
             "/workers/reap",
             "/workers/{worker_id}/drain",
+            "/library/acquisition",
+            "/library/acquisition/status",
+            "/library/acquisition/refresh",
+            "/library/acquisition/calendar",
+            "/library/acquisition/families",
+            "/library/acquisition/families/{family_id}",
+            "/library/acquisition/queue",
+            "/library/acquisition/sources",
+            "/library/acquisition/sources/{source_id}/disable",
+            "/library/acquisition/sources/{source_id}/enable",
+            "/library/acquisition/sources/{source_id}/remove",
+            "/library/acquisition/sources/{source_id}/test",
+            "/library/acquisition/intake",
+            "/library/acquisition/intake/refresh",
+            "/library/acquisition/updates",
+            "/library/acquisition/scaffold",
+            "/library/acquisition/scaffold/plan",
         }
 
     def test_cors_is_not_a_wildcard(self, settings: Settings) -> None:

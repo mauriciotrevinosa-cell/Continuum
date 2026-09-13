@@ -384,6 +384,27 @@ If Gojo has arrived by then, another layer opens:
 
 Whether Gojo is present at that point remains open.
 
+A stronger Yuta-specific asymmetry is now also favored:
+
+```text
+Yuta visible body / first impression ~= 17-year-old Yuta
+Yuta lived experience             = decades beyond that body state
+current output                    = initially nerfed / partially locked
+future recovered capability       = potentially far broader than Sukuna remembers
+```
+
+Sukuna may sense or recognize what appears to be essentially the young Yuta he once fought and therefore model his opponent around outdated information.
+
+What Sukuna does **not** know is that this Yuta may carry decades of later combat judgment, adaptation, technique development, emotional maturity, and additional learned abilities inside a younger body.
+
+This creates a second information asymmetry on top of the power-state uncertainty:
+
+> Sukuna may be physically stronger at the moment, but his mental model of Yuta is obsolete.
+
+As Yuta progressively regains access to his system, the story can reveal abilities, refinements, counters, or tactical habits that did not exist in the version Sukuna remembers.
+
+This should not become a free hidden-power reveal. Yuta still has to recover access, adapt those later skills to Continuum's constraints, and survive long enough to use them.
+
 ---
 
 ## 14. Possible season thematic escalation
@@ -420,3 +441,58 @@ routine / fragile stability
 ```
 
 This remains exploratory. Exact episode placement, Group 3 membership, Gojo timing, Sukuna timing, the Bocchi incident, and the final city-founding sequence should be promoted only after later review.
+
+---
+
+## 15. Mau's first constructed spell — flower field direction
+
+A strong exploratory direction is to make Mau's first undeniable supernatural construction **small, beautiful, and personal rather than combat-oriented**.
+
+Before the group trust pact, Mau has only heard his internal companion as a fragmented voice at irregular moments. He has also become fascinated by Frieren's simple flower-field magic.
+
+Frieren cannot properly teach it to him because she detects effectively no usable mana in Mau at the time.
+
+This preserves the previously established rule that understanding a technique is not enough to execute it.
+
+After the broader power-system disclosures begin, Mau's fragmented companion may become briefly clearer and produce something like:
+
+```text
+pattern recognized: flower-field magic
+minimum requirement: 10 mana
+current mana: 1
+```
+
+The exact wording can change later. The important point is that the voice is **not omniscient** and does not simply hand Mau a spell. It has observed enough structure to identify a possible construction path and the resource threshold Mau currently fails to meet.
+
+Possible progression:
+
+```text
+Mau loves Frieren's flower spell
+→ Frieren cannot teach it because he has no meaningful mana
+→ Mau quietly experiments / trains without announcing it
+→ fragmented companion identifies a viable construction requirement
+→ Mau slowly raises usable mana from near-zero toward the minimum threshold
+→ reaches 10 mana
+→ attempts his own construction of the flower-field effect
+→ spell succeeds
+→ the cast cost / strain empties him
+→ Mau collapses
+```
+
+Frieren catches him immediately after seeing the flowers appear and realizes what happened.
+
+The event can remain a private secret between Frieren and Mau for a time.
+
+This deepens their bond because Frieren now knows that something inside Mau is allowing him to observe, understand, and construct mechanisms that should not naturally be available to him — but she also sees the cost and the fact that he was trying in secret.
+
+The spell should feel recognizably inspired by Frieren's magic without being a perfect copy. Small differences in structure, flower distribution, mana signature, or execution can foreshadow that Mau reconstructs principles rather than cloning techniques exactly.
+
+This scene would be an early concrete realization of:
+
+```text
+OBSERVE
+→ UNDERSTAND
+→ CONSTRUCT
+```
+
+and it intentionally begins with creation rather than violence.

@@ -20,21 +20,17 @@ export interface ActionState {
   output?: string;
 }
 
-const SCREENS = [
-  "/library/acquisition",
-  "/library/acquisition/sources",
-  "/library/acquisition/queue",
-  "/library/acquisition/calendar",
-  "/library/acquisition/intake",
-  "/library/acquisition/updates",
-];
 
 async function run(
   work: () => Promise<{ ok: boolean; message: string; command: string; output: string }>,
 ): Promise<ActionState> {
   try {
     const result = await work();
-    for (const screen of SCREENS) revalidatePath(screen);
+    // Every Library screen reads the documents an action may have rewritten,
+    // so all of them are re-rendered - including family pages, which have no
+    // fixed path to list.
+    revalidatePath("/library", "layout");
+    revalidatePath("/settings/diagnostics");
     return {
       ok: result.ok,
       message: result.message,
@@ -71,7 +67,7 @@ export async function addSourceAction(
 ): Promise<ActionState> {
   const url = text(form, "url");
   if (!url) {
-    return { ok: false, message: "Give a website URL or the path of a folder you own." };
+    return { ok: false, message: "Give the address of a website, starting with https://." };
   }
   const adapter = text(form, "adapter");
   return run(() =>
@@ -79,10 +75,8 @@ export async function addSourceAction(
       url,
       name: text(form, "name"),
       source_id: text(form, "source_id"),
-      adapter:
-        adapter === "web" || adapter === "local-folder" || adapter === "bibliographic"
-          ? adapter
-          : null,
+      // A browser registers web sources only; local folders go through the CLI (F-50).
+      adapter: adapter === "web" || adapter === "bibliographic" ? adapter : null,
       search: text(form, "search"),
       note: text(form, "note"),
       access: accessModel(text(form, "access")),
@@ -113,7 +107,6 @@ export async function refreshDataAction(
 ): Promise<ActionState> {
   return run(() => acquisition.refresh());
 }
-
 
 export async function refreshIntakeAction(
   _previous: ActionState | null,

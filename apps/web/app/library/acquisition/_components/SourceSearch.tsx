@@ -64,37 +64,29 @@ export function SourceSearch({
   if (!links.length) return null;
 
   return (
-    <details className="finder">
+    <details className="disclosure" style={{ marginTop: 8 }}>
       <summary>Find on my sources ({links.length})</summary>
-      <p className="row-meta">
-        Opens each source&apos;s own search in your browser. Continuum does not fetch, sign in or
-        download from them.
-        {missing ? ` Look for chapters ${missing}.` : ""}
-      </p>
-      <div className="pills">
-        {links.map(({ source, query, href }) => (
-          <a
-            key={source.id}
-            className="pill accent"
-            href={href}
-            target="_blank"
-            rel="noreferrer noopener"
-            title={`Search ${source.name} for "${query}"`}
-          >
-            {source.name}
-            {source.access.some((model) => COSTS.has(model)) ? " · paid" : ""}
-          </a>
-        ))}
+      <div className="disclosure-body">
+        <p style={{ margin: 0 }}>
+          Opens each source&apos;s own search in your browser. Continuum does not fetch, sign in or
+          download from them.
+          {missing ? ` Look for chapters ${missing}.` : ""}
+        </p>
+        <div className="links">
+          {links.map(({ source, query, href }) => (
+            <a
+              key={source.id}
+              href={href}
+              target="_blank"
+              rel="noreferrer noopener"
+              title={`Search ${source.name} for "${query}"`}
+            >
+              {source.name}
+              {source.access.some((model) => COSTS.has(model)) ? " · paid" : ""}
+            </a>
+          ))}
+        </div>
       </div>
-      <p className="row-meta">
-        Searching for: <code>{english}</code>
-        {japanese ? (
-          <>
-            {" "}
-            · Japanese stores: <code>{japanese}</code>
-          </>
-        ) : null}
-      </p>
     </details>
   );
 }

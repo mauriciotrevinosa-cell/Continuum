@@ -158,6 +158,36 @@ export interface DocumentStatus {
   error: string | null;
 }
 
+/**
+ * How one work stands in the Library.
+ *
+ * PRESENT is "in library" with nothing to compare against. NEEDS_MAPPING is
+ * local material that is not matched to a work - never called missing.
+ * STALE is a "missing" verdict about a folder that changed after the scan.
+ */
+export type LibraryState =
+  | "COMPLETE"
+  | "PARTIAL"
+  | "PRESENT"
+  | "MISSING"
+  | "NEEDS_MAPPING"
+  | "UNVERIFIED"
+  | "STALE";
+
+export type RollupState = LibraryState | "UNCATALOGUED" | "EMPTY";
+
+export interface Freshness {
+  state: "fresh" | "stale" | "unknown" | "empty";
+  library_scanned_at: string | null;
+  catalogue_refreshed_at: string | null;
+  documents_generated_at: string | null;
+  vault_changed: boolean | null;
+  changed_families: string[];
+  changed_folders: string[];
+  unhashed_files: number | null;
+  detail: string;
+}
+
 export interface AcquisitionStatus {
   configured: boolean;
   available: boolean;
@@ -167,6 +197,35 @@ export interface AcquisitionStatus {
   vault_root: string;
   generated_at: string | null;
   documents: DocumentStatus[];
+  freshness: Freshness;
+  library_files: number;
+  library_bytes: number;
+}
+
+export interface MaterialSummary {
+  material_class: string;
+  state: RollupState;
+  story: boolean;
+  works: number;
+  complete: number;
+  partial: number;
+  present: number;
+  missing: number;
+  needs_mapping: number;
+  unverified: number;
+  stale: number;
+  files: number;
+  bytes: number;
+  video_files: number;
+  unmapped_files: number;
+  last_added_at: string | null;
+}
+
+export interface EpisodeRun {
+  season: number | null;
+  episodes: number;
+  episodes_text: string;
+  gaps_text: string;
 }
 
 export interface FamilyProgress {
@@ -188,6 +247,19 @@ export interface FamilyProgress {
   relations: Record<string, number>;
   missing_folders: number;
   aliases: string[];
+  state: RollupState;
+  materials: MaterialSummary[];
+  present: number;
+  needs_mapping: number;
+  story_works: number;
+  story_held: number;
+  supplements: number;
+  supplements_held: number;
+  attention: number;
+  stale: boolean;
+  last_added_at: string | null;
+  origin: string;
+  review_status: string;
 }
 
 export interface WorkRow {
@@ -228,6 +300,13 @@ export interface WorkRow {
   contained_in: string | null;
   aliases: string[];
   search_titles: string[];
+  state: LibraryState;
+  story: boolean;
+  media: "video" | "pages" | null;
+  episodes: EpisodeRun[];
+  other_videos: number;
+  unmapped_local_files: number;
+  last_added_at: string | null;
 }
 
 export interface FamilyDetail {
@@ -239,6 +318,7 @@ export interface FamilyDetail {
 export interface QueueQuery {
   status?: string;
   family?: string;
+  group?: string;
   q?: string;
   offset?: number;
   limit?: number;
@@ -253,6 +333,8 @@ export interface QueuePage {
   needs_you: number;
   downloadable: number;
   items: QueueItem[];
+  groups: QueueGroup[];
+  needs_mapping: number;
 }
 
 export interface QueueItem {
@@ -278,7 +360,20 @@ export interface QueueItem {
   missing_chapters: string;
   chapters_held: number;
   chapters_total: number | null;
+  state: LibraryState;
+  group: string;
+  story: boolean;
 }
+
+export interface QueueGroup {
+  key: string;
+  title: string;
+  description: string;
+  count: number;
+  tone: Tone;
+}
+
+export type Tone = "ok" | "warn" | "err" | "info" | "muted" | "accent";
 
 export interface SourceOut {
   id: string;
@@ -325,6 +420,10 @@ export interface IntakeUnit {
   unit: string;
   path: string;
   files: number;
+  action: string;
+  section: "ready" | "identify" | "incomplete" | "known" | "conflict";
+  family: string | null;
+  work: string | null;
   classified_by: string | null;
   series: string[];
   languages: string[];
@@ -374,12 +473,31 @@ export interface UpdateWatchItem {
   source: string | null;
 }
 
+export interface TimelineEvent {
+  at: string | null;
+  kind:
+    | "new_chapters"
+    | "new_volumes"
+    | "new_release"
+    | "source_changed"
+    | "local_files"
+    | "coverage"
+    | "other";
+  title: string;
+  detail: string;
+  family: string;
+  family_id: string;
+  work: string | null;
+  material_class: string | null;
+}
+
 export interface UpdatesView {
   generated_at: string | null;
   last_check: string | null;
   alerts: UpdateAlert[];
   items: UpdateWatchItem[];
   sources: Record<string, Record<string, unknown>>;
+  timeline: TimelineEvent[];
 }
 
 export interface ScaffoldPlan {
@@ -404,7 +522,46 @@ export interface ReleaseEvent {
   detail: string;
 }
 
+export interface LibraryHero {
+  families: number;
+  bytes: number;
+  files: number;
+  story_works: number;
+  complete: number;
+  partial: number;
+  present: number;
+  missing: number;
+  needs_mapping: number;
+  unverified: number;
+  stale: number;
+  complete_families: number;
+  attention_families: number;
+}
+
+export interface RecentAddition {
+  family_id: string;
+  family: string;
+  material_class: string;
+  files: number;
+  bytes: number;
+  video_files: number;
+  last_added_at: string;
+  state: string;
+}
+
+export interface NextStep {
+  kind: "refresh" | "map" | "finish" | "update" | "acquire" | "intake" | "review";
+  title: string;
+  detail: string;
+  family_id: string;
+  work_id: string;
+  tone: Tone;
+}
+
 export interface AcquisitionOverview {
+  hero: LibraryHero;
+  recently_added: RecentAddition[];
+  next_steps: NextStep[];
   status: AcquisitionStatus;
   totals: Record<string, number>;
   relations: Record<string, number>;
@@ -447,7 +604,7 @@ export interface AddSourceBody {
   url: string;
   name?: string | null;
   source_id?: string | null;
-  adapter?: "web" | "local-folder" | "bibliographic" | null;
+  adapter?: "web" | "bibliographic" | null;
   search?: string | null;
   note?: string | null;
   access?: AccessModel | null;

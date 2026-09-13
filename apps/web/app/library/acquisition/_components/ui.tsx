@@ -1,257 +1,229 @@
 /**
- * Presentational pieces shared by the acquisition screens.
+ * Presentational pieces shared by the Library screens.
  *
- * Server components: they render data, they never fetch it. Every one of
- * them is content-agnostic - nothing here knows what is in anyone's library.
+ * Server components: they render what the API projected and decide nothing.
+ * None of them knows what is in anyone's library.
  */
 import Link from "next/link";
-import type { FamilyProgress, SourceOut, WorkRow } from "@/lib/api";
-import { ChapterTally } from "./ChapterTally";
-import { SourceSearch } from "./SourceSearch";
+import type { FamilyProgress, MaterialSummary } from "@/lib/api";
 import {
-  type Tone,
   classLabel,
-  coverageLabel,
-  coverageTone,
   formatBytes,
   plural,
-  relationLabel,
+  stateHint,
+  stateLabel,
+  stateTone,
 } from "@/lib/acquisition";
 
-export function Pill({ tone = "muted", children }: { tone?: Tone; children: React.ReactNode }) {
-  return <span className={`pill ${tone}`}>{children}</span>;
-}
-
-export function CoveragePill({ status }: { status: string | null }) {
-  return <Pill tone={coverageTone(status)}>{coverageLabel(status)}</Pill>;
-}
-
-/** How a work relates to the rest of its family. Unclassified is a question. */
-export function RelationPill({ relation }: { relation: string | null }) {
-  const tone: Tone =
-    relation === "MAIN_WORK" ? "accent" : !relation || relation === "UNKNOWN" ? "warn" : "muted";
-  return <Pill tone={tone}>{relationLabel(relation)}</Pill>;
-}
-
-export function Stat({
-  label,
-  value,
-  tone,
-}: {
-  label: string;
-  value: string | number;
-  tone?: "ok" | "warn" | "err" | "accent";
-}) {
+export function StateChip({ state, label }: { state: string; label?: string }) {
   return (
-    <div className={`stat ${tone ?? ""}`}>
-      <b>{value}</b>
-      <span>{label}</span>
-    </div>
+    <span className={`chip ${stateTone(state)}`} title={stateHint(state)}>
+      {label ?? stateLabel(state)}
+    </span>
   );
 }
 
-/** Complete / partial / missing / unverified, in one bar. */
-export function Meter({
-  complete,
-  partial,
-  missing,
-  unknown,
-}: {
-  complete: number;
-  partial: number;
-  missing: number;
-  unknown: number;
+export interface Segment {
+  key: string;
+  label: string;
+  value: number;
+  tone: "ok" | "warn" | "accent" | "info" | "err" | "muted";
+}
+
+/** One bar for how much of something is held, in the order of how "done" it is. */
+export function CoverageBar({ segments, slim = false, label }: {
+  segments: Segment[];
+  slim?: boolean;
+  label: string;
 }) {
-  const total = complete + partial + missing + unknown;
-  if (!total) return <div className="meter" aria-hidden />;
-  const pct = (n: number) => `${(n / total) * 100}%`;
+  const total = segments.reduce((n, s) => n + s.value, 0);
+  const described = segments.filter((s) => s.value).map((s) => `${s.value} ${s.label}`).join(", ");
   return (
     <div
-      className="meter"
+      className={`coverage${slim ? " slim" : ""}`}
       role="img"
-      aria-label={`${complete} complete, ${partial} partial, ${missing} missing, ${unknown} unverified`}
+      aria-label={total ? `${label}: ${described}` : `${label}: nothing catalogued`}
     >
-      <i className="ok" style={{ width: pct(complete) }} />
-      <i className="warn" style={{ width: pct(partial) }} />
-      <i className="err" style={{ width: pct(missing) }} />
-      <i className="muted" style={{ width: pct(unknown) }} />
+      {total
+        ? segments
+            .filter((s) => s.value)
+            .map((s) => <i key={s.key} className={s.tone} style={{ width: `${(s.value / total) * 100}%` }} />)
+        : null}
     </div>
   );
 }
 
-export function MeterLegend() {
+export function Legend({ segments }: { segments: Segment[] }) {
   return (
-    <p className="meter-legend">
-      <span>
-        <i className="ok" />
-        complete
-      </span>
-      <span>
-        <i className="warn" />
-        partial
-      </span>
-      <span>
-        <i className="err" />
-        missing
-      </span>
-      <span>
-        <i className="muted" />
-        unverified
-      </span>
+    <p className="legend">
+      {segments
+        .filter((s) => s.value)
+        .map((s) => (
+          <span key={s.key}>
+            <i className={s.tone} aria-hidden />
+            <b>{s.value}</b> {s.label}
+          </span>
+        ))}
     </p>
   );
 }
 
-export function FamilyCard({ family }: { family: FamilyProgress }) {
+export function coverageSegments(counts: {
+  complete: number;
+  partial: number;
+  present: number;
+  needs_mapping: number;
+  missing: number;
+  stale: number;
+  unverified: number;
+}): Segment[] {
+  return [
+    { key: "complete", label: "complete", value: counts.complete, tone: "ok" },
+    { key: "present", label: "in library", value: counts.present, tone: "accent" },
+    { key: "partial", label: "partial", value: counts.partial, tone: "warn" },
+    { key: "mapping", label: "need mapping", value: counts.needs_mapping, tone: "info" },
+    { key: "stale", label: "need a rescan", value: counts.stale, tone: "muted" },
+    { key: "missing", label: "missing", value: counts.missing, tone: "err" },
+    { key: "unverified", label: "unverified", value: counts.unverified, tone: "muted" },
+  ];
+}
+
+/** "Manga · Complete": one kind of material in a family, as a peer of the others. */
+export function MaterialLine({ material }: { material: MaterialSummary }) {
+  const detail =
+    material.video_files > 0
+      ? plural(material.video_files, "episode file")
+      : material.files
+        ? formatBytes(material.bytes)
+        : material.works > 1
+          ? plural(material.works, "work")
+          : "";
   return (
-    <Link className="card" href={`/library/acquisition/families/${encodeURIComponent(family.id)}`}>
-      <div className="card-head">
-        <h3>{family.title}</h3>
-        {family.category ? <Pill>{family.category.toLowerCase()}</Pill> : null}
-      </div>
-      <p className="sub" style={{ fontSize: 12.5, marginBottom: 10 }}>
-        {plural(family.works_total, "work")} · {plural(family.files, "file")} ·{" "}
-        {formatBytes(family.bytes)}
-      </p>
-      <Meter
-        complete={family.complete}
-        partial={family.partial}
-        missing={family.missing}
-        unknown={family.unknown}
-      />
-      <div className="pills" style={{ marginTop: 11 }}>
-        {family.complete ? <Pill tone="ok">{family.complete} complete</Pill> : null}
-        {family.partial ? <Pill tone="warn">{family.partial} partial</Pill> : null}
-        {family.missing ? <Pill tone="err">{family.missing} missing</Pill> : null}
-        {family.review ? <Pill>{family.review} to review</Pill> : null}
-        {family.missing_folders ? <Pill>{family.missing_folders} folders to create</Pill> : null}
-      </div>
-    </Link>
+    <div className="material">
+      <span className="kind">
+        {classLabel(material.material_class)}
+        {detail ? <small>{detail}</small> : null}
+      </span>
+      <StateChip state={material.state} />
+    </div>
   );
 }
 
-export function WorkLine({ work, sources = [] }: { work: WorkRow; sources?: SourceOut[] }) {
-  const detail = [
-    work.chapters && work.chapter_min !== null && work.chapter_max !== null
-      ? `ch ${work.chapter_min}–${work.chapter_max} (${work.chapters})`
-      : work.local_files
-        ? `${work.local_files} files`
-        : null,
-    work.edition && work.edition !== "standard" ? work.edition : null,
-    work.contained_in ? `inside ${work.contained_in}` : null,
-  ]
-    .filter(Boolean)
-    .join(" · ");
+/** A family as a collection: what it is made of, and how much of it is here. */
+export function FamilyCard({ family }: { family: FamilyProgress }) {
+  const story = family.materials.filter((m) => m.story);
+  const supplements = family.materials.filter((m) => !m.story);
+  const shown = story.length ? story.slice(0, 4) : family.materials.slice(0, 3);
+  const heldShare = family.story_works || family.works_total;
   return (
-    <div className="row-item">
-      <div className="row-main">
-        <div className="row-title">
-          <span>{work.title}</span>
-          <RelationPill relation={work.relation} />
-          <Pill>{classLabel(work.material_class)}</Pill>
-          {work.official === null ? <Pill tone="warn">official unverified</Pill> : null}
-          {work.review_required ? <Pill tone="warn">needs review</Pill> : null}
-          {work.legacy_mapping ? <Pill tone="accent">legacy path</Pill> : null}
-        </div>
-        <p className="row-meta">
-          {detail || "nothing local yet"}
-          {work.coverage_reason ? ` — ${work.coverage_reason}` : ""}
-        </p>
-        <ChapterTally
-          held={work.chapters}
-          total={work.source_chapter_count}
-          latest={work.remote_latest_chapter}
-          gaps={work.gaps}
-          missing={work.missing_chapters}
+    <Link className="family" href={`/library/acquisition/families/${encodeURIComponent(family.id)}`}>
+      <div className="family-head">
+        <h3>{family.title}</h3>
+        {family.stale ? (
+          <StateChip state="STALE" />
+        ) : family.review_status !== "ACCEPTED" ? (
+          <span className="chip info plain">New</span>
+        ) : null}
+      </div>
+      <div className="materials">
+        {shown.map((m) => (
+          <MaterialLine key={m.material_class} material={m} />
+        ))}
+        {supplements.length && story.length ? (
+          <div className="material">
+            <span className="kind">
+              Supplements <small>{supplements.reduce((n, m) => n + m.works, 0)} works</small>
+            </span>
+            <span className="muted tabular">
+              {family.supplements_held}/{family.supplements} held
+            </span>
+          </div>
+        ) : null}
+      </div>
+      <div>
+        <CoverageBar
+          slim
+          label={`${family.title} story material`}
+          segments={[
+            { key: "held", label: "held", value: family.story_held, tone: "ok" },
+            {
+              key: "rest",
+              label: "not held",
+              value: Math.max(0, heldShare - family.story_held),
+              tone: "muted",
+            },
+          ]}
         />
-        {work.local_path || work.expected_path ? (
-          <details className="finder">
-            <summary>Where it lives</summary>
-            <p className="row-meta">
-              {work.local_path ? (
-                <code>{work.local_path}</code>
-              ) : (
-                <>
-                  no folder yet — expected at <code>{work.expected_path}</code>
-                </>
-              )}
-            </p>
-          </details>
-        ) : null}
-        {work.coverage_status !== "COMPLETE" ? (
-          <SourceSearch
-            titles={work.search_titles}
-            sources={sources}
-            missing={work.missing_chapters}
-          />
-        ) : null}
       </div>
-      <div className="row-side">
-        <CoveragePill status={work.coverage_status} />
+      <div className="family-foot">
+        <span>
+          {plural(family.works_total, "work")} · {plural(family.materials.length, "kind")}
+        </span>
+        <span className="tabular">{formatBytes(family.bytes)}</span>
       </div>
-    </div>
+    </Link>
   );
 }
 
 export function Empty({
   title,
   children,
+  actions,
 }: {
   title: string;
   children?: React.ReactNode;
+  actions?: React.ReactNode;
 }) {
   return (
     <div className="empty">
       <h3>{title}</h3>
       {children}
-    </div>
-  );
-}
-
-export function ApiDown({ message }: { message: string }) {
-  return (
-    <div className="notice err">
-      <strong>The Continuum API is not answering.</strong>
-      <p style={{ margin: "6px 0 0", fontSize: 13 }}>{message}</p>
+      {actions ? <div className="actions">{actions}</div> : null}
     </div>
   );
 }
 
 /**
- * Where the data came from and how old it is.
- *
- * Never implicit, never in the way: a full Windows path is the answer to a
- * question ("is it reading the right folder?") that is asked rarely, so it
- * folds away instead of sitting under every screen.
+ * The API is not answering. Said calmly, with the fix one click away and the
+ * technical detail folded - this is a local app, and the usual cause is that
+ * its service simply is not running.
  */
-export function Provenance({
-  dataDir,
-  generatedAt,
-  vaultRoot,
+export function ApiDown({ message }: { message: string }) {
+  return (
+    <div className="banner err" role="alert">
+      <p>
+        <strong>Continuum can&apos;t reach its Library service.</strong> Start it, then reload this
+        page.
+      </p>
+      <details className="disclosure" style={{ gridColumn: "auto" }}>
+        <summary>Details</summary>
+        <div className="disclosure-body">
+          <code>{message}</code>
+        </div>
+      </details>
+    </div>
+  );
+}
+
+export function PageHead({
+  eyebrow,
+  title,
+  lead,
+  aside,
 }: {
-  dataDir: string;
-  generatedAt: string | null;
-  vaultRoot?: string;
+  eyebrow: string;
+  title: string;
+  lead?: React.ReactNode;
+  aside?: React.ReactNode;
 }) {
   return (
-    <details className="finder provenance">
-      <summary>
-        {generatedAt ? `Data generated ${generatedAt}` : "No data generated yet"}
-      </summary>
-      <dl className="kv">
-        <dt>Documents</dt>
-        <dd>
-          <code>{dataDir || "(not configured)"}</code>
-        </dd>
-        {vaultRoot ? (
-          <>
-            <dt>Vault</dt>
-            <dd>
-              <code>{vaultRoot}</code> <span className="row-meta">read-only to Continuum</span>
-            </dd>
-          </>
-        ) : null}
-      </dl>
-    </details>
+    <header className="page-head">
+      <div>
+        <p className="eyebrow">{eyebrow}</p>
+        <h1 className="title">{title}</h1>
+        {lead ? <p className="lead">{lead}</p> : null}
+      </div>
+      {aside ? <div>{aside}</div> : null}
+    </header>
   );
 }

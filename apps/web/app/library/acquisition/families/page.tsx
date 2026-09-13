@@ -1,65 +1,72 @@
 import Link from "next/link";
 import { ApiUnreachableError, type FamilyProgress, acquisition } from "@/lib/api";
-import { formatBytes } from "@/lib/acquisition";
-import { ApiDown, Empty, FamilyCard, Stat } from "../_components/ui";
+import { classLabel } from "@/lib/acquisition";
+import { ApiDown, Empty, FamilyCard, PageHead } from "../_components/ui";
 
 export const dynamic = "force-dynamic";
 
-type Sort = "attention" | "title" | "size" | "works";
-type Filter = "" | "incomplete" | "review" | "empty";
-
-const SORTS: { key: Sort; label: string }[] = [
-  { key: "attention", label: "Needs attention" },
-  { key: "title", label: "A–Z" },
-  { key: "size", label: "Largest" },
-  { key: "works", label: "Most works" },
-];
-
-const FILTERS: { key: Filter; label: string }[] = [
+const STATES = [
   { key: "", label: "All" },
-  { key: "incomplete", label: "Incomplete" },
-  { key: "review", label: "To review" },
-  { key: "empty", label: "Nothing held yet" },
-];
+  { key: "complete", label: "Complete" },
+  { key: "partial", label: "Partial" },
+  { key: "missing", label: "Missing" },
+  { key: "review", label: "Needs review" },
+] as const;
+
+const SORTS = [
+  { key: "attention", label: "Needs attention" },
+  { key: "name", label: "Name" },
+  { key: "completion", label: "Completion" },
+  { key: "recent", label: "Recently changed" },
+  { key: "storage", label: "Storage" },
+] as const;
+
+type StateKey = (typeof STATES)[number]["key"];
+type SortKey = (typeof SORTS)[number]["key"];
 
 const PAGE = 24;
 
-/** How far from done a family is, as a fraction: the default ordering. */
-function attention(family: FamilyProgress): number {
-  return (family.missing + family.partial) / Math.max(1, family.works_total);
+function share(f: FamilyProgress): number {
+  const base = f.story_works || f.works_total;
+  return base ? f.story_held / base : 0;
 }
 
-function matches(family: FamilyProgress, filter: Filter): boolean {
-  if (filter === "incomplete") return family.missing + family.partial > 0;
-  if (filter === "review") return family.review > 0 || family.missing_folders > 0;
-  if (filter === "empty") return family.files === 0;
-  return true;
-}
-
-function searchHit(family: FamilyProgress, needle: string): boolean {
-  if (!needle) return true;
-  const hay = [family.title, ...family.aliases].join(" ").toLowerCase();
-  return hay.includes(needle);
+function inState(f: FamilyProgress, state: StateKey): boolean {
+  switch (state) {
+    case "complete":
+      return f.state === "COMPLETE" || f.state === "PRESENT";
+    case "partial":
+      return f.state === "PARTIAL";
+    case "missing":
+      return f.state === "MISSING";
+    case "review":
+      return (
+        f.state === "NEEDS_MAPPING" ||
+        f.state === "UNCATALOGUED" ||
+        f.stale ||
+        f.review > 0 ||
+        f.review_status !== "ACCEPTED"
+      );
+    default:
+      return true;
+  }
 }
 
 /**
- * Every source family, searchable.
- *
- * Filtering happens here rather than in the browser: a library is as large
- * as its owner made it, and shipping five hundred families to the client so
- * it can hide most of them is work nobody asked for. Each control is a link,
- * so the state of this screen is in the URL and the keyboard reaches all of
- * it without a line of client JavaScript.
+ * Every family, findable. Filtering and sorting happen on the server from the
+ * URL, so the state of the screen can be bookmarked and the keyboard reaches
+ * every control without client code.
  */
 export default async function FamiliesPage({
   searchParams,
 }: {
-  searchParams: Promise<{ q?: string; sort?: string; show?: string; page?: string }>;
+  searchParams: Promise<{ q?: string; state?: string; material?: string; sort?: string; page?: string }>;
 }) {
   const params = await searchParams;
   const query = (params.q ?? "").trim();
-  const sort = (SORTS.find((s) => s.key === params.sort)?.key ?? "attention") as Sort;
-  const filter = (FILTERS.find((f) => f.key === params.show)?.key ?? "") as Filter;
+  const state = (STATES.find((s) => s.key === params.state)?.key ?? "") as StateKey;
+  const sort = (SORTS.find((s) => s.key === params.sort)?.key ?? "attention") as SortKey;
+  const material = params.material ?? "";
   const page = Math.max(1, Number.parseInt(params.page ?? "1", 10) || 1);
 
   let families: FamilyProgress[] = [];
@@ -67,159 +74,153 @@ export default async function FamiliesPage({
   try {
     families = await acquisition.families();
   } catch (cause) {
-    error =
-      cause instanceof ApiUnreachableError ? cause.message : `Unexpected error: ${String(cause)}`;
+    error = cause instanceof ApiUnreachableError ? cause.message : String(cause);
   }
 
+  const materials = [...new Set(families.flatMap((f) => f.materials.filter((m) => m.story).map((m) => m.material_class)))].sort();
   const needle = query.toLowerCase();
-  const shown = families.filter((f) => matches(f, filter) && searchHit(f, needle));
+  const shown = families.filter(
+    (f) =>
+      inState(f, state) &&
+      (!material || f.materials.some((m) => m.material_class === material && (m.files > 0 || m.works > 0))) &&
+      (!needle || [f.title, ...f.aliases].some((name) => name.toLowerCase().includes(needle))),
+  );
   shown.sort((a, b) => {
-    if (sort === "title") return a.title.localeCompare(b.title);
-    if (sort === "size") return b.bytes - a.bytes;
-    if (sort === "works") return b.works_total - a.works_total || a.title.localeCompare(b.title);
-    return attention(b) - attention(a) || a.title.localeCompare(b.title);
+    switch (sort) {
+      case "name":
+        return a.title.localeCompare(b.title);
+      case "completion":
+        return share(b) - share(a) || a.title.localeCompare(b.title);
+      case "recent":
+        return (b.last_added_at ?? "").localeCompare(a.last_added_at ?? "");
+      case "storage":
+        return b.bytes - a.bytes;
+      default:
+        return b.attention - a.attention || a.title.localeCompare(b.title);
+    }
   });
 
   const pages = Math.max(1, Math.ceil(shown.length / PAGE));
   const current = Math.min(page, pages);
-  const slice = shown.slice((current - 1) * PAGE, current * PAGE);
   const href = (over: Record<string, string | number | undefined>) => {
-    const next = new URLSearchParams();
-    const merged = { q: query || undefined, sort, show: filter || undefined, page: current, ...over };
+    const merged: Record<string, string | number | undefined> = {
+      q: query || undefined,
+      state: state || undefined,
+      material: material || undefined,
+      sort: sort === "attention" ? undefined : sort,
+      page: current,
+      ...over,
+    };
+    const qs = new URLSearchParams();
     for (const [key, value] of Object.entries(merged)) {
-      if (value !== undefined && value !== "" && !(key === "page" && value === 1)) {
-        next.set(key, String(value));
-      }
+      if (value !== undefined && value !== "" && !(key === "page" && value === 1)) qs.set(key, String(value));
     }
-    const qs = next.toString();
-    return `/library/acquisition/families${qs ? `?${qs}` : ""}`;
+    const s = qs.toString();
+    return `/library/acquisition/families${s ? `?${s}` : ""}`;
   };
 
   return (
-    <main>
-      <p className="eyebrow">Library · Acquisition</p>
-      <h1 className="headline">Families</h1>
-      <p className="lede">
-        A family is everything that belongs to one story: the main work, its continuations, its
-        spin-offs, the adaptations and the books about it. Official is not the same as main canon,
-        so each one is kept as its own kind of material.
-      </p>
+    <>
+      <PageHead
+        eyebrow="Library"
+        title="Families"
+        lead="Everything that belongs to one story: the series, its continuations and spin-offs, its adaptations, and the books about it."
+      />
 
       {error ? <ApiDown message={error} /> : null}
 
-      <div className="stats">
-        <Stat label="families" value={families.length} />
-        <Stat
-          label="incomplete"
-          value={families.filter((f) => f.missing + f.partial > 0).length}
-          tone="warn"
-        />
-        <Stat
-          label="waiting on review"
-          value={families.filter((f) => f.review > 0).length}
-          tone={families.some((f) => f.review > 0) ? "warn" : undefined}
-        />
-        <Stat label="on disk" value={formatBytes(families.reduce((n, f) => n + f.bytes, 0))} />
+      <div className="toolbar">
+        <form className="search" role="search" action="/library/acquisition/families">
+          <label className="sr-only" htmlFor="family-q">
+            Search families by title or alias
+          </label>
+          <input id="family-q" name="q" type="search" defaultValue={query} placeholder="Search by title or alias" autoComplete="off" />
+          {state ? <input type="hidden" name="state" value={state} /> : null}
+          {material ? <input type="hidden" name="material" value={material} /> : null}
+          {sort !== "attention" ? <input type="hidden" name="sort" value={sort} /> : null}
+          <button className="button" type="submit">
+            Search
+          </button>
+        </form>
       </div>
 
-      <form className="finder-bar" role="search" action="/library/acquisition/families">
-        <label className="sr-only" htmlFor="family-q">
-          Search families by title or alias
-        </label>
-        <input
-          id="family-q"
-          name="q"
-          type="search"
-          defaultValue={query}
-          placeholder="Search by title or alias…"
-          autoComplete="off"
-        />
-        {sort !== "attention" ? <input type="hidden" name="sort" value={sort} /> : null}
-        {filter ? <input type="hidden" name="show" value={filter} /> : null}
-        <button className="btn small" type="submit">
-          Search
-        </button>
-        {query ? (
-          <Link className="btn small ghost" href={href({ q: undefined, page: 1 })}>
-            Clear
-          </Link>
-        ) : null}
-      </form>
-
       <div className="toolbar">
-        <div className="chipset" role="group" aria-label="Filter families">
-          {FILTERS.map((f) => (
-            <Link
-              key={f.key || "all"}
-              className="chip"
-              data-active={filter === f.key}
-              href={href({ show: f.key || undefined, page: 1 })}
-            >
-              {f.label}
+        <nav className="segmented" aria-label="Filter by state">
+          {STATES.map((s) => (
+            <Link key={s.key || "all"} href={href({ state: s.key || undefined, page: 1 })} data-active={state === s.key}>
+              {s.label}
+              <b>{families.filter((f) => inState(f, s.key)).length}</b>
             </Link>
           ))}
-        </div>
-        <div className="chipset" role="group" aria-label="Sort families">
+        </nav>
+        {materials.length > 1 ? (
+          <nav className="segmented" aria-label="Filter by material">
+            <Link href={href({ material: undefined, page: 1 })} data-active={!material}>
+              Any material
+            </Link>
+            {materials.map((m) => (
+              <Link key={m} href={href({ material: m, page: 1 })} data-active={material === m}>
+                {classLabel(m)}
+              </Link>
+            ))}
+          </nav>
+        ) : null}
+        <span className="toolbar-label">Sort</span>
+        <nav className="segmented" aria-label="Sort families">
           {SORTS.map((s) => (
-            <Link
-              key={s.key}
-              className="chip"
-              data-active={sort === s.key}
-              href={href({ sort: s.key, page: 1 })}
-            >
+            <Link key={s.key} href={href({ sort: s.key, page: 1 })} data-active={sort === s.key}>
               {s.label}
             </Link>
           ))}
-        </div>
+        </nav>
       </div>
 
-      <div className="section">
-        <h2>{shown.length} shown</h2>
-        <span className="hint">
-          {pages > 1 ? `page ${current} of ${pages}` : "everything that matched"}
-        </span>
-      </div>
-
-      {slice.length ? (
-        <div className="cards">
-          {slice.map((family) => (
-            <FamilyCard key={family.id} family={family} />
-          ))}
-        </div>
-      ) : (
-        <Empty title={families.length ? "Nothing matched" : "No families catalogued yet"}>
+      {shown.length ? (
+        <>
+          <p className="muted" style={{ margin: "0 0 14px" }}>
+            {shown.length === families.length
+              ? `${families.length} families`
+              : `${shown.length} of ${families.length} families`}
+            {pages > 1 ? ` · page ${current} of ${pages}` : ""}
+          </p>
+          <div className="collection">
+            {shown.slice((current - 1) * PAGE, current * PAGE).map((family) => (
+              <FamilyCard key={family.id} family={family} />
+            ))}
+          </div>
+        </>
+      ) : error ? null : (
+        <Empty
+          title={families.length ? "No family matches" : "No families yet"}
+          actions={
+            families.length ? (
+              <Link className="button" href="/library/acquisition/families">
+                Clear filters
+              </Link>
+            ) : null
+          }
+        >
           <p>
             {families.length
-              ? "Try a shorter search, or clear the filter."
-              : "A folder you add to the Vault becomes a family on the next scan. Nothing is invented for you."}
+              ? "Try a shorter search or another filter."
+              : "A folder in your Vault becomes a family the next time the Library is scanned."}
           </p>
-          {families.length ? null : (
-            <code className="cmd">python acquisition_orchestrator.py scan</code>
-          )}
         </Empty>
       )}
 
       {pages > 1 ? (
         <nav className="pager" aria-label="Pages">
-          <Link
-            className="btn small"
-            href={href({ page: Math.max(1, current - 1) })}
-            aria-disabled={current === 1}
-          >
-            ← Previous
+          <Link className="button small" href={href({ page: current - 1 })} aria-disabled={current === 1}>
+            Previous
           </Link>
-          <span className="row-meta">
+          <span className="tabular">
             {current} / {pages}
           </span>
-          <Link
-            className="btn small"
-            href={href({ page: Math.min(pages, current + 1) })}
-            aria-disabled={current === pages}
-          >
-            Next →
+          <Link className="button small" href={href({ page: current + 1 })} aria-disabled={current === pages}>
+            Next
           </Link>
         </nav>
       ) : null}
-    </main>
+    </>
   );
 }

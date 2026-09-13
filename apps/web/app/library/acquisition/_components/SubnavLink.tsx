@@ -3,14 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
-/**
- * A navigation link that knows whether it is the screen you are on.
- *
- * `exact` matters for a section index: /library/acquisition is the parent of
- * every other screen here, so without it the Overview tab would look active
- * on all of them.
- */
-export function NavLink({
+export function SubnavLink({
   href,
   exact = false,
   children,

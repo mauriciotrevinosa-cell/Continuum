@@ -8,7 +8,7 @@
  * a new relation added by the engine still renders sensibly.
  */
 
-export type Tone = "ok" | "warn" | "err" | "muted" | "accent";
+export type Tone = "ok" | "warn" | "err" | "info" | "muted" | "accent";
 
 /** How one work relates to the rest of its family. OFFICIAL != MAIN CANON. */
 export const RELATION_LABELS: Record<string, string> = {
@@ -89,6 +89,97 @@ export const COVERAGE_LABELS: Record<string, string> = {
   UNKNOWN: "Unverified",
   BLOCKED: "Blocked",
 };
+
+/**
+ * The Library's states, in the words a person uses.
+ *
+ * The distinction that matters most: "Missing" is a claim of absence and is
+ * only shown when a fresh scan found nothing that could be the work. Material
+ * that is on disk but not matched is "Needs mapping"; a "missing" verdict from
+ * an out-of-date scan is "Needs rescan".
+ */
+export const STATE_LABELS: Record<string, string> = {
+  COMPLETE: "Complete",
+  PARTIAL: "Partial",
+  PRESENT: "In library",
+  MISSING: "Missing",
+  NEEDS_MAPPING: "Needs mapping",
+  UNVERIFIED: "Unverified",
+  STALE: "Needs rescan",
+  UNCATALOGUED: "Uncatalogued",
+  EMPTY: "Nothing yet",
+};
+
+export const STATE_HINTS: Record<string, string> = {
+  COMPLETE: "Everything known to exist is in your Library.",
+  PARTIAL: "You have part of it.",
+  PRESENT: "In your Library. Nothing is known to compare against, so completeness is not verified.",
+  MISSING: "A fresh scan found nothing local that could be this.",
+  NEEDS_MAPPING: "Local files of this kind exist but are not matched to a work yet.",
+  UNVERIFIED: "Not established yet.",
+  STALE: "The folder changed after the last scan. Refresh to know.",
+  UNCATALOGUED: "Files are here, but the catalogue has no work for them.",
+  EMPTY: "No material and no catalogued works.",
+};
+
+const STATE_TONES: Record<string, Tone> = {
+  COMPLETE: "ok",
+  PARTIAL: "warn",
+  PRESENT: "accent",
+  MISSING: "err",
+  NEEDS_MAPPING: "info",
+  UNVERIFIED: "muted",
+  STALE: "muted",
+  UNCATALOGUED: "info",
+  EMPTY: "muted",
+};
+
+export function stateLabel(value: string | null | undefined): string {
+  return STATE_LABELS[value ?? ""] ?? humanise(value);
+}
+
+export function stateTone(value: string | null | undefined): Tone {
+  return STATE_TONES[value ?? ""] ?? "muted";
+}
+
+export function stateHint(value: string | null | undefined): string {
+  return STATE_HINTS[value ?? ""] ?? "";
+}
+
+/** "3 minutes ago", "yesterday", "12 Sep": how long ago, for humans. */
+export function timeAgo(value: string | null | undefined, now: Date = new Date()): string {
+  if (!value) return "never";
+  const then = new Date(value);
+  if (Number.isNaN(then.getTime())) return value;
+  const seconds = Math.round((now.getTime() - then.getTime()) / 1000);
+  if (seconds < -60) {
+    return then.toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" });
+  }
+  if (seconds < 60) return "just now";
+  const minutes = Math.round(seconds / 60);
+  if (minutes < 60) return `${minutes} min ago`;
+  const hours = Math.round(minutes / 60);
+  if (hours < 24) return `${hours} h ago`;
+  const days = Math.round(hours / 24);
+  if (days === 1) return "yesterday";
+  if (days < 7) return `${days} days ago`;
+  return then.toLocaleDateString(undefined, {
+    day: "numeric",
+    month: "short",
+    year: then.getFullYear() === now.getFullYear() ? undefined : "numeric",
+  });
+}
+
+/** "Season 2 · 1–10", "Specials · 1–2", "Episodes 1–28". */
+export function seasonLabel(season: number | null): string {
+  if (season === null) return "Episodes";
+  if (season === 0) return "Specials";
+  return `Season ${season}`;
+}
+
+export function dash(range: string): string {
+  return range.replaceAll("-", "–");
+}
 
 export const CAPABILITY_LABELS: Record<string, string> = {
   DISCOVERY_ONLY: "Discovery",

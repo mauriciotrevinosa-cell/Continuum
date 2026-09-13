@@ -1,31 +1,50 @@
 import Link from "next/link";
 import { ApiUnreachableError, type ReleaseEvent, acquisition } from "@/lib/api";
 import { classLabel, relationLabel } from "@/lib/acquisition";
-import { ApiDown, Empty, Pill, Stat } from "../_components/ui";
+import { ApiDown, Empty, PageHead } from "../_components/ui";
 
 export const dynamic = "force-dynamic";
 
-const DOW = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
-const MONTHS = [
-  "January", "February", "March", "April", "May", "June",
-  "July", "August", "September", "October", "November", "December",
-];
+const GROUPS = ["Today", "This week", "Later", "Recently", "Earlier"] as const;
+type Group = (typeof GROUPS)[number];
 
-/** "YYYY-MM" for a month offset from another, without timezone drift. */
-function shiftMonth(month: string, by: number): string {
-  const [year, index] = month.split("-").map(Number);
-  const date = new Date(Date.UTC(year, index - 1 + by, 1));
-  return `${date.getUTCFullYear()}-${String(date.getUTCMonth() + 1).padStart(2, "0")}`;
+const RECENT_DAYS = 90;
+const EARLIER_LIMIT = 60;
+
+function dayStart(date: Date): number {
+  return Date.UTC(date.getFullYear(), date.getMonth(), date.getDate());
 }
 
-function isMonth(value: string | undefined): value is string {
-  return typeof value === "string" && /^\d{4}-\d{2}$/.test(value);
+function groupOf(event: ReleaseEvent, today: number): Group {
+  const [y, m, d] = event.date.split("-").map(Number);
+  const at = Date.UTC(y, m - 1, d);
+  const days = Math.round((at - today) / 86_400_000);
+  if (event.precision === "day" && days === 0) return "Today";
+  if (event.precision === "day" && days > 0 && days <= 7) return "This week";
+  if (days > 0) return "Later";
+  if (days >= -RECENT_DAYS) return "Recently";
+  return "Earlier";
 }
 
+function displayDate(event: ReleaseEvent): { main: string; note?: string } {
+  const [y, m, d] = event.date.split("-").map(Number);
+  const date = new Date(Date.UTC(y, m - 1, d));
+  if (event.precision === "year") return { main: String(y), note: "year only" };
+  if (event.precision === "month") {
+    return { main: date.toLocaleDateString(undefined, { month: "short", year: "numeric", timeZone: "UTC" }), note: "month only" };
+  }
+  return { main: date.toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }) };
+}
+
+/**
+ * Release dates, grouped the way people plan: today, this week, later. Dates
+ * are shown with the precision they were recorded at - a record that gives
+ * only a year is never displayed as if it named a day.
+ */
 export default async function CalendarPage({
   searchParams,
 }: {
-  searchParams: Promise<{ month?: string }>;
+  searchParams: Promise<{ material?: string; family?: string }>;
 }) {
   const params = await searchParams;
   let events: ReleaseEvent[] = [];
@@ -33,169 +52,153 @@ export default async function CalendarPage({
   try {
     events = await acquisition.calendar();
   } catch (cause) {
-    error =
-      cause instanceof ApiUnreachableError ? cause.message : `Unexpected error: ${String(cause)}`;
+    error = cause instanceof ApiUnreachableError ? cause.message : String(cause);
   }
 
-  const today = new Date();
-  const currentMonth = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, "0")}`;
-  const latest = events.length ? events[events.length - 1].date.slice(0, 7) : currentMonth;
-  const month = isMonth(params.month) ? params.month : currentMonth;
-
-  const inMonth = events.filter((event) => event.date.startsWith(month));
-  const byDay = new Map<string, ReleaseEvent[]>();
-  for (const event of inMonth) {
-    const list = byDay.get(event.date);
-    if (list) list.push(event);
-    else byDay.set(event.date, [event]);
+  const material = params.material ?? "";
+  const family = params.family ?? "";
+  const materials = [...new Set(events.map((e) => e.material_class).filter(Boolean) as string[])].sort();
+  const families = [...new Map(events.filter((e) => e.family_id).map((e) => [e.family_id, e.family])).entries()].sort(
+    (a, b) => a[1].localeCompare(b[1]),
+  );
+  const shown = events.filter(
+    (e) => (!material || e.material_class === material) && (!family || e.family_id === family),
+  );
+  const today = dayStart(new Date());
+  const grouped = new Map<Group, ReleaseEvent[]>();
+  for (const event of shown) {
+    const g = groupOf(event, today);
+    grouped.set(g, [...(grouped.get(g) ?? []), event]);
   }
-
-  const [year, monthIndex] = month.split("-").map(Number);
-  const firstWeekday = (new Date(Date.UTC(year, monthIndex - 1, 1)).getUTCDay() + 6) % 7;
-  const daysInMonth = new Date(Date.UTC(year, monthIndex, 0)).getUTCDate();
-  const cells: (number | null)[] = [
-    ...Array.from({ length: firstWeekday }, () => null),
-    ...Array.from({ length: daysInMonth }, (_, i) => i + 1),
-  ];
-  while (cells.length % 7 !== 0) cells.push(null);
-
-  const published = events.filter((event) => event.kind === "published").length;
-  const detected = events.length - published;
+  for (const [g, list] of grouped) {
+    list.sort((a, b) => (g === "Later" || g === "This week" ? a.date.localeCompare(b.date) : b.date.localeCompare(a.date)));
+  }
 
   return (
-    <main>
-      <p className="eyebrow">Library · Acquisition</p>
-      <h1 className="headline">Release calendar</h1>
-      <p className="lede">
-        When the material of your library was actually published, and when this machine noticed
-        something change. Future dates stay empty on purpose: no source you have registered
-        publishes a release schedule yet, and an invented date would be worse than none.
-      </p>
+    <>
+      <PageHead
+        eyebrow="Acquisition"
+        title="Calendar"
+        lead="When the material in your Library was published, and what is coming. No registered source publishes a schedule yet, so future dates appear only when a record states one."
+      />
 
       {error ? <ApiDown message={error} /> : null}
 
-      <div className="stats">
-        <Stat label="dated events" value={events.length} />
-        <Stat label="publications" value={published} tone="accent" />
-        <Stat label="changes detected" value={detected} tone="warn" />
-        <Stat label="this month" value={inMonth.length} />
-      </div>
-
-      <div className="section">
-        <h2>
-          {MONTHS[monthIndex - 1]} {year}
-        </h2>
-        <span className="btn-row">
-          <Link className="btn small" href={`/library/acquisition/calendar?month=${shiftMonth(month, -1)}`}>
-            ← Previous
-          </Link>
-          <Link className="btn small" href="/library/acquisition/calendar">
-            Today
-          </Link>
-          {latest !== month ? (
-            <Link className="btn small" href={`/library/acquisition/calendar?month=${latest}`}>
-              Latest activity
+      {events.length ? (
+        <form className="toolbar" action="/library/acquisition/calendar">
+          <label className="sr-only" htmlFor="cal-material">
+            Material
+          </label>
+          <select id="cal-material" name="material" defaultValue={material} className="button">
+            <option value="">All material</option>
+            {materials.map((m) => (
+              <option key={m} value={m}>
+                {classLabel(m)}
+              </option>
+            ))}
+          </select>
+          <label className="sr-only" htmlFor="cal-family">
+            Family
+          </label>
+          <select id="cal-family" name="family" defaultValue={family} className="button" style={{ maxWidth: 360 }}>
+            <option value="">All families</option>
+            {families.map(([id, title]) => (
+              <option key={id} value={id}>
+                {title}
+              </option>
+            ))}
+          </select>
+          <button className="button" type="submit">
+            Show
+          </button>
+          {material || family ? (
+            <Link className="button ghost small" href="/library/acquisition/calendar">
+              Clear
             </Link>
           ) : null}
-          <Link className="btn small" href={`/library/acquisition/calendar?month=${shiftMonth(month, 1)}`}>
-            Next →
-          </Link>
-        </span>
-      </div>
+        </form>
+      ) : null}
 
-      <div className="cal">
-        {DOW.map((day) => (
-          <div className="dow" key={day}>
-            {day}
-          </div>
-        ))}
-        {cells.map((day, index) => {
-          if (day === null) return <div className="day blank" key={`blank-${index}`} />;
-          const iso = `${month}-${String(day).padStart(2, "0")}`;
-          const dayEvents = byDay.get(iso) ?? [];
-          const isToday = iso === today.toISOString().slice(0, 10);
-          return (
-            <div
-              className={`day${dayEvents.length ? " has" : ""}${isToday ? " today" : ""}`}
-              key={iso}
-            >
-              <span className="n">{day}</span>
-              {dayEvents.slice(0, 2).map((event, position) => (
-                <span
-                  className={`ev ${event.kind}`}
-                  key={`${iso}-${position}`}
-                  title={`${event.work} — ${event.detail}`}
-                >
-                  {event.work || event.family}
-                </span>
-              ))}
-              {dayEvents.length > 2 ? (
-                <span className="more">+{dayEvents.length - 2} more</span>
+      {shown.length ? (
+        GROUPS.filter((g) => grouped.get(g)?.length).map((g) => {
+          const list = grouped.get(g) ?? [];
+          const visible = g === "Earlier" ? list.slice(0, EARLIER_LIMIT) : list;
+          const body = (
+            <div className="list dates">
+              {visible.map((event, index) => {
+                const when = displayDate(event);
+                return (
+                  <div className="list-item" key={`${event.date}-${event.work_id}-${index}`}>
+                    <div className="date">
+                      {when.main}
+                      {when.note ? <small>{when.note}</small> : null}
+                    </div>
+                    <div style={{ minWidth: 0 }}>
+                      <h3>{event.work || event.family}</h3>
+                      <p className="sub">
+                        {event.family_id ? (
+                          <Link href={`/library/acquisition/families/${encodeURIComponent(event.family_id)}`}>
+                            {event.family}
+                          </Link>
+                        ) : (
+                          event.family
+                        )}
+                        {event.material_class ? ` · ${classLabel(event.material_class)}` : ""}
+                        {event.relation ? ` · ${relationLabel(event.relation)}` : ""}
+                        {event.detail ? ` · ${event.detail}` : ""}
+                      </p>
+                    </div>
+                    <div className="side">
+                      <span className={`chip ${event.kind === "published" ? "quiet" : "accent"}`}>
+                        {event.kind === "published" ? "Published" : "Detected"}
+                      </span>
+                    </div>
+                  </div>
+                );
+              })}
+              {g === "Earlier" && list.length > visible.length ? (
+                <div className="list-foot muted">
+                  {list.length - visible.length} earlier dates not shown. Filter by family to see
+                  them.
+                </div>
               ) : null}
             </div>
           );
-        })}
-      </div>
-
-      <p className="meter-legend" style={{ marginTop: 12 }}>
-        <span>
-          <i style={{ background: "var(--accent)" }} />
-          published
-        </span>
-        <span>
-          <i style={{ background: "var(--warn)" }} />
-          detected by Continuum
-        </span>
-      </p>
-
-      <div className="section">
-        <h2>What happened this month</h2>
-        <span className="hint">{inMonth.length} event(s)</span>
-      </div>
-
-      {inMonth.length ? (
-        <div className="rows">
-          {inMonth.map((event, index) => (
-            <div className="row-item" key={`${event.date}-${index}`}>
-              <div className="row-main">
-                <div className="row-title">
-                  <span>{event.work || event.family}</span>
-                  <Pill tone={event.kind === "published" ? "accent" : "warn"}>{event.kind}</Pill>
-                  {event.relation ? <Pill>{relationLabel(event.relation)}</Pill> : null}
-                  {event.material_class ? <Pill>{classLabel(event.material_class)}</Pill> : null}
-                  {event.precision !== "day" ? (
-                    <Pill>{event.precision} precision only</Pill>
-                  ) : null}
-                </div>
-                <p className="row-meta">
-                  {event.family_id ? (
-                    <Link href={`/library/acquisition/families/${encodeURIComponent(event.family_id)}`}>
-                      {event.family}
-                    </Link>
-                  ) : (
-                    event.family
-                  )}
-                  {event.detail ? ` — ${event.detail}` : ""}
-                </p>
-              </div>
-              <div className="row-side">
-                <span className="row-meta">{event.date}</span>
-              </div>
-            </div>
-          ))}
-        </div>
-      ) : (
-        <Empty title="Nothing dated in this month">
+          return (
+            <section key={g} className="block" aria-labelledby={`g-${g.replaceAll(" ", "-")}`}>
+              {g === "Earlier" ? (
+                <details className="supplements">
+                  <summary className="block-head">
+                    <h2 id={`g-${g.replaceAll(" ", "-")}`}>
+                      Earlier<small>{list.length} dates</small>
+                    </h2>
+                    <span className="toggle" />
+                  </summary>
+                  {body}
+                </details>
+              ) : (
+                <>
+                  <div className="block-head">
+                    <h2 id={`g-${g.replaceAll(" ", "-")}`}>
+                      {g}
+                      <small>{list.length}</small>
+                    </h2>
+                  </div>
+                  {body}
+                </>
+              )}
+            </section>
+          );
+        })
+      ) : error ? null : (
+        <Empty title={events.length ? "No dates match" : "No dates known yet"}>
           <p>
             {events.length
-              ? "Move to another month, or jump to the latest activity."
-              : "Publication dates arrive with discovery: it reads the Japanese legal-deposit records, which carry the date each volume was registered."}
+              ? "Try another material or family."
+              : "Publication dates arrive with a catalogue refresh, from the records that list when each volume was published."}
           </p>
-          {!events.length ? (
-            <code className="cmd">python acquisition_orchestrator.py discover</code>
-          ) : null}
         </Empty>
       )}
-    </main>
+    </>
   );
 }

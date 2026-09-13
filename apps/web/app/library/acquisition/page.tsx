@@ -1,248 +1,212 @@
 import Link from "next/link";
-import { ApiUnreachableError, type AcquisitionOverview, type ScaffoldPlan, acquisition } from "@/lib/api";
-import { formatBytes, relationLabel } from "@/lib/acquisition";
-import { RefreshButton } from "./_components/RefreshButton";
+import { ApiUnreachableError, type AcquisitionOverview, type NextStep, acquisition } from "@/lib/api";
+import { classLabel, formatBytes, plural, timeAgo } from "@/lib/acquisition";
 import {
   ApiDown,
-  CoveragePill,
+  CoverageBar,
   Empty,
   FamilyCard,
-  Meter,
-  MeterLegend,
-  Pill,
-  Provenance,
-  RelationPill,
-  Stat,
+  Legend,
+  coverageSegments,
 } from "./_components/ui";
-import { refreshScaffoldAction } from "./actions";
+import { RefreshControl } from "./_components/RefreshControl";
 
 export const dynamic = "force-dynamic";
 
-export default async function AcquisitionOverviewPage() {
+function stepHref(step: NextStep): string | null {
+  switch (step.kind) {
+    case "map":
+    case "finish":
+    case "acquire":
+      return step.family_id ? `/library/acquisition/families/${encodeURIComponent(step.family_id)}` : null;
+    case "update":
+      return "/library/acquisition/updates";
+    case "intake":
+    case "review":
+      return "/library/acquisition/intake";
+    default:
+      return null;
+  }
+}
+
+function glyph(materialClass: string): string {
+  const label = classLabel(materialClass);
+  return label.slice(0, 2).toUpperCase();
+}
+
+export default async function OverviewPage() {
   let data: AcquisitionOverview | null = null;
-  let plan: ScaffoldPlan | null = null;
   let error: string | null = null;
   try {
-    [data, plan] = await Promise.all([acquisition.overview(), acquisition.scaffold()]);
+    data = await acquisition.overview();
   } catch (cause) {
-    error =
-      cause instanceof ApiUnreachableError ? cause.message : `Unexpected error: ${String(cause)}`;
+    error = cause instanceof ApiUnreachableError ? cause.message : String(cause);
   }
 
-  if (error) {
-    return (
-      <main>
+  const head = (
+    <header className="page-head">
+      <div>
         <p className="eyebrow">Library</p>
-        <h1 className="headline">Acquisition</h1>
-        <ApiDown message={error} />
-      </main>
+        <h1 className="title xl">Acquisition</h1>
+        <p className="lead">See what your Library contains, what is incomplete, and what changed.</p>
+      </div>
+    </header>
+  );
+
+  if (error || !data) {
+    return (
+      <>
+        {head}
+        <ApiDown message={error ?? "no response"} />
+      </>
     );
   }
-  if (!data) return null;
 
-  const { status, totals, families, relations } = data;
-  // Six, not all of them: this screen is a briefing. Looking through the
-  // whole library is what the Families screen is for, and rendering every
-  // family here would make the first screen cost the most on the largest
-  // libraries - exactly backwards.
-  const needsAttention = [...families]
-    .filter((f) => f.missing + f.partial + f.review > 0)
-    .sort((a, b) => {
-      const rank = (f: typeof a) => (f.missing + f.partial) / Math.max(1, f.works_total);
-      return rank(b) - rank(a) || a.title.localeCompare(b.title);
-    })
+  const { hero, status } = data;
+
+  if (!status.available || status.freshness.state === "empty") {
+    return (
+      <>
+        {head}
+        <Empty
+          title="Your Library is empty so far"
+          actions={status.cli_available ? <RefreshControl variant="primary" /> : null}
+        >
+          <p>
+            Continuum reads what the acquisition engine records about your Vault. Once it has scanned
+            your Vault, your families appear here - nothing is assumed or filled in for you.
+          </p>
+        </Empty>
+      </>
+    );
+  }
+
+  const segments = coverageSegments(hero);
+  const attention = [...data.families]
+    .filter((f) => f.attention > 0 || f.stale)
+    .sort((a, b) => b.attention - a.attention || a.title.localeCompare(b.title))
     .slice(0, 6);
-  const topRelations = Object.entries(relations).sort((a, b) => b[1] - a[1]);
+  const showcase = attention.length
+    ? attention
+    : [...data.families].sort((a, b) => b.bytes - a.bytes).slice(0, 6);
 
   return (
-    <main>
-      <p className="eyebrow">Library</p>
-      <h1 className="headline">Acquisition</h1>
-      <p className="lede">
-        What your library actually holds, what it is missing, and where the missing part may
-        legally come from. Official is not the same as main canon: guidebooks, anthologies and
-        colour editions are tracked as their own kind of material.
-      </p>
+    <>
+      {head}
 
-      {!status.available ? (
-        <Empty title="No acquisition data yet">
-          <p>
-            Continuum reads the documents the acquisition engine writes. Point it at a data
-            directory with <code>CONTINUUM_ACQUISITION_DATA_DIR</code>, then run a scan to produce
-            them.
+      <section className="hero" aria-label="Library summary">
+        <div className="surface hero-main">
+          <p className="eyebrow">Library coverage</p>
+          <div className="hero-figures">
+            <div className="figure">
+              <span className="n">{hero.families}</span>
+              <span className="l">{hero.families === 1 ? "family" : "families"}</span>
+            </div>
+            <div className="figure">
+              <span className="n">{formatBytes(hero.bytes)}</span>
+              <span className="l">{plural(hero.files, "file")}</span>
+            </div>
+            <div className="figure">
+              <span className="n">{hero.complete + hero.present}</span>
+              <span className="l">story works held</span>
+            </div>
+            <div className="figure">
+              <span className="n">{hero.partial}</span>
+              <span className="l">partial</span>
+            </div>
+            <div className={`figure${hero.attention_families ? " attention" : ""}`}>
+              <span className="n">{hero.attention_families}</span>
+              <span className="l">need attention</span>
+            </div>
+          </div>
+          <CoverageBar segments={segments} label="Story works" />
+          <Legend segments={segments} />
+          <p className="hero-note">
+            Counted over {plural(hero.story_works, "story work")}: main series, sequels, spin-offs,
+            adaptations and novels. Guidebooks, art books and other supplements are shown per
+            family.
           </p>
-          <code className="cmd">python acquisition_orchestrator.py scan</code>
-        </Empty>
-      ) : (
-        <>
-          <div className="stats">
-            <Stat label="source families" value={totals.families ?? 0} />
-            <Stat label="official works" value={totals.official_works ?? 0} />
-            <Stat label="complete" value={totals.complete ?? 0} tone="ok" />
-            <Stat label="partial" value={totals.partial ?? 0} tone="warn" />
-            <Stat label="missing" value={totals.missing ?? 0} tone="err" />
-            <Stat label="files held" value={totals.files ?? 0} />
-            <Stat label="on disk" value={formatBytes(totals.bytes ?? 0)} />
-          </div>
-          <div style={{ marginTop: 16 }}>
-            <Meter
-              complete={totals.complete ?? 0}
-              partial={totals.partial ?? 0}
-              missing={totals.missing ?? 0}
-              unknown={totals.unknown ?? 0}
-            />
-            <MeterLegend />
-          </div>
+        </div>
 
-          <div className="section">
-            <h2>What is in the library</h2>
-            <span className="hint">
-              {totals.legacy_paths ?? 0} legacy paths mapped · {totals.duplicate_groups ?? 0}{" "}
-              duplicate groups reported
-            </span>
-          </div>
-          <div className="pills">
-            {topRelations.map(([relation, count]) => (
-              <Pill key={relation} tone={relation === "MAIN_WORK" ? "accent" : "muted"}>
-                {relationLabel(relation)} · {count}
-              </Pill>
-            ))}
-          </div>
-
-          <div className="section">
-            <h2>Furthest from done</h2>
-            <Link href="/library/acquisition/families" className="hint">
-              all {families.length} families →
-            </Link>
-          </div>
-          {needsAttention.length ? (
-            <div className="cards">
-              {needsAttention.map((family) => (
-                <FamilyCard key={family.id} family={family} />
-              ))}
-            </div>
-          ) : families.length ? (
-            <Empty title="Nothing incomplete">
-              <p>Every family holds what the catalogue says it should.</p>
-            </Empty>
+        <aside className="surface recent" aria-labelledby="recently-added">
+          <h2 id="recently-added">Recently added</h2>
+          {data.recently_added.length ? (
+            data.recently_added.map((item) => (
+              <Link
+                key={`${item.family_id}-${item.material_class}`}
+                className="recent-item"
+                href={`/library/acquisition/families/${encodeURIComponent(item.family_id)}`}
+              >
+                <span className={`glyph${item.video_files ? " video" : ""}`} aria-hidden>
+                  {glyph(item.material_class)}
+                </span>
+                <span style={{ minWidth: 0 }}>
+                  <span className="name">{item.family}</span>
+                  <br />
+                  <span className="meta">
+                    {classLabel(item.material_class)} ·{" "}
+                    {item.video_files ? plural(item.video_files, "episode file") : plural(item.files, "file")}{" "}
+                    · {formatBytes(item.bytes)}
+                  </span>
+                </span>
+                <span className="when">{timeAgo(item.last_added_at)}</span>
+              </Link>
+            ))
           ) : (
-            <Empty title="No families catalogued yet">
-              <p>Run a scan and a discovery pass to populate the catalogue.</p>
-            </Empty>
+            <p className="muted" style={{ margin: 0 }}>
+              Nothing new in the last 30 days.
+            </p>
           )}
+        </aside>
+      </section>
 
-          <div className="split" style={{ marginTop: 34 }}>
-            <div>
-              <div className="section" style={{ marginTop: 0 }}>
-                <h2>Next in the queue</h2>
-                <Link href="/library/acquisition/queue" className="hint">
-                  see the whole queue →
-                </Link>
-              </div>
-              {data.queue_preview.length ? (
-                <div className="rows">
-                  {data.queue_preview.map((item) => (
-                    <div className="row-item" key={item.work_id}>
-                      <div className="row-main">
-                        <div className="row-title">
-                          <span>{item.work}</span>
-                          <RelationPill relation={item.relation} />
-                        </div>
-                        <p className="row-meta">
-                          {item.family}
-                          {item.reason ? ` — ${item.reason}` : ""}
-                        </p>
-                      </div>
-                      <div className="row-side">
-                        {item.best_source ? <Pill>{item.best_source}</Pill> : null}
-                        <CoveragePill status={item.coverage_status} />
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              ) : (
-                <Empty title="Nothing pending">
-                  <p>Every catalogued official work is accounted for.</p>
-                </Empty>
-              )}
-            </div>
-
-            <aside>
-              <div className="section" style={{ marginTop: 0 }}>
-                <h2>Attention</h2>
-              </div>
-              <div className="card" style={{ marginBottom: 14 }}>
-                <h3>Folder structure</h3>
-                <p className="sub" style={{ fontSize: 13, margin: "4px 0 12px" }}>
-                  {plan && plan.create.length
-                    ? `${plan.create.length} work folder${plan.create.length === 1 ? "" : "s"} are missing from the vault.`
-                    : "Every accepted work has its folder."}
-                </p>
-                <RefreshButton
-                  action={refreshScaffoldAction}
-                  label="Recompute plan"
-                  busyLabel="Computing…"
-                />
-                {plan && plan.command ? (
-                  <>
-                    <p className="row-meta" style={{ margin: "10px 0 4px" }}>
-                      Creating them is a command you run — the vault is read-only to Continuum:
-                    </p>
-                    <code className="cmd">{plan.command}</code>
-                  </>
-                ) : null}
-              </div>
-              <div className="card" style={{ marginBottom: 14 }}>
-                <h3>Recent updates</h3>
-                {data.alerts.length ? (
-                  <ul style={{ margin: "8px 0 0", paddingLeft: 18, fontSize: 13 }}>
-                    {data.alerts.slice(0, 6).map((alert, index) => (
-                      <li key={`${alert.at}-${index}`} style={{ marginBottom: 4 }}>
-                        <span className="pill accent">{alert.kind.replaceAll("_", " ").toLowerCase()}</span>{" "}
-                        {alert.detail}
-                      </li>
-                    ))}
-                  </ul>
-                ) : (
-                  <p className="sub" style={{ fontSize: 13, margin: "4px 0 0" }}>
-                    No changes seen since the last check.
-                  </p>
-                )}
-                <p style={{ margin: "12px 0 0" }}>
-                  <Link href="/library/acquisition/updates" className="hint">
-                    update watch →
-                  </Link>
-                </p>
-              </div>
-              <div className="card">
-                <h3>Waiting on you</h3>
-                <div className="pills" style={{ marginTop: 8 }}>
-                  <Pill tone={data.review_count ? "warn" : "muted"}>
-                    {data.review_count} to review
-                  </Pill>
-                  <Pill tone={data.intake_pending ? "warn" : "muted"}>
-                    {data.intake_pending} unidentified in intake
-                  </Pill>
-                  <Pill tone="muted">
-                    {data.sources_enabled}/{data.sources_total} sources enabled
-                  </Pill>
-                </div>
-                <p style={{ margin: "12px 0 0" }}>
-                  <Link href="/library/acquisition/intake" className="hint">
-                    intake and conflicts →
-                  </Link>
-                </p>
-              </div>
-            </aside>
+      {data.next_steps.length ? (
+        <section className="block" aria-labelledby="next">
+          <div className="block-head">
+            <h2 id="next">Continue building your Library</h2>
           </div>
-        </>
-      )}
+          <div className="steps">
+            {data.next_steps.map((step, index) => {
+              const href = stepHref(step);
+              const body = (
+                <>
+                  <span className="step-mark" aria-hidden />
+                  <span>
+                    <h3>{step.title}</h3>
+                    {step.detail ? <p>{step.detail}</p> : null}
+                  </span>
+                </>
+              );
+              return href ? (
+                <Link key={index} href={href} className={`step ${step.tone}`}>
+                  {body}
+                </Link>
+              ) : (
+                <div key={index} className={`step ${step.tone}`}>
+                  {body}
+                </div>
+              );
+            })}
+          </div>
+        </section>
+      ) : null}
 
-      <Provenance
-        dataDir={status.data_dir}
-        generatedAt={status.generated_at}
-        vaultRoot={status.vault_root}
-      />
-    </main>
+      <section className="block" aria-labelledby="families">
+        <div className="block-head">
+          <h2 id="families">
+            Families
+            <small>{attention.length ? "needing attention first" : "largest first"}</small>
+          </h2>
+          <Link className="more" href="/library/acquisition/families">
+            All {hero.families} families →
+          </Link>
+        </div>
+        <div className="collection">
+          {showcase.map((family) => (
+            <FamilyCard key={family.id} family={family} />
+          ))}
+        </div>
+      </section>
+    </>
   );
 }

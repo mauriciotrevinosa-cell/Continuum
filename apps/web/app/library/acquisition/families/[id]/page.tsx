@@ -3,67 +3,211 @@ import { notFound } from "next/navigation";
 import {
   ApiUnreachableError,
   type FamilyDetail,
+  type MaterialSummary,
   type SourceOut,
   type WorkRow,
   acquisition,
 } from "@/lib/api";
-import { RELATION_ORDER, classLabel, formatBytes, plural } from "@/lib/acquisition";
 import {
-  ApiDown,
-  Empty,
-  Meter,
-  MeterLegend,
-  Pill,
-  Stat,
-  WorkLine,
-} from "../../_components/ui";
+  RELATION_ORDER,
+  classLabel,
+  dash,
+  formatBytes,
+  plural,
+  relationLabel,
+  seasonLabel,
+  timeAgo,
+} from "@/lib/acquisition";
+import { SourceSearch } from "../../_components/SourceSearch";
+import { ApiDown, StateChip } from "../../_components/ui";
 
 export const dynamic = "force-dynamic";
 
-/** Material class order: story first, then supplements, then fan material. */
-const CLASS_ORDER = [
-  "manga",
-  "manhwa",
-  "manhua",
-  "light-novel",
-  "web-novel",
-  "anime",
-  "guidebook",
-  "fanbook",
-  "art-book",
-  "visual-reference",
-  "colored-edition",
-  "special",
-  "anthology",
-  "official-doujin",
-  "other-official",
-  "fan-art",
-  "fan-work",
-];
-
-function groupByClass(works: WorkRow[]): [string, WorkRow[]][] {
-  const groups = new Map<string, WorkRow[]>();
-  for (const work of works) {
-    const key = work.material_class ?? "other";
-    const list = groups.get(key);
-    if (list) list.push(work);
-    else groups.set(key, [work]);
-  }
-  return [...groups.entries()].sort((a, b) => {
-    const rank = (key: string) => {
-      const index = CLASS_ORDER.indexOf(key);
-      return index === -1 ? CLASS_ORDER.length : index;
-    };
-    return rank(a[0]) - rank(b[0]) || a[0].localeCompare(b[0]);
-  });
-}
+const MAIN = new Set(["MAIN_WORK", "SEQUEL", "PREQUEL"]);
 
 function byRelation(a: WorkRow, b: WorkRow): number {
-  const rank = (work: WorkRow) => {
-    const index = RELATION_ORDER.indexOf(work.relation ?? "UNKNOWN");
-    return index === -1 ? RELATION_ORDER.length : index;
+  const rank = (w: WorkRow) => {
+    const i = RELATION_ORDER.indexOf(w.relation ?? "UNKNOWN");
+    return i === -1 ? RELATION_ORDER.length : i;
   };
   return rank(a) - rank(b) || a.title.localeCompare(b.title);
+}
+
+function chapterFacts(work: WorkRow): React.ReactNode[] {
+  const facts: React.ReactNode[] = [];
+  if (work.chapters && work.chapter_min !== null && work.chapter_max !== null) {
+    const total =
+      work.source_chapter_count ??
+      (work.remote_latest_chapter ? Math.round(work.remote_latest_chapter) : null);
+    facts.push(
+      <span key="ch">
+        {total && work.chapters <= total
+          ? `${work.chapters} of ${total} chapters`
+          : `${work.chapters} chapters`}{" "}
+        · ch{" "}
+        {work.chapter_min}–{work.chapter_max}
+      </span>,
+    );
+  }
+  if (work.missing_chapters) {
+    facts.push(
+      <span key="miss" className="gap">
+        missing ch {dash(work.missing_chapters)}
+      </span>,
+    );
+  } else if (work.gaps && work.coverage_status === "COMPLETE") {
+    facts.push(<span key="skip">numbering skips {dash(work.gaps)}, nothing missing</span>);
+  } else if (work.gaps) {
+    facts.push(
+      <span key="gaps" className="gap">
+        gaps at {dash(work.gaps)}
+      </span>,
+    );
+  }
+  return facts;
+}
+
+function WorkItem({ work, sources }: { work: WorkRow; sources: SourceOut[] }) {
+  const facts: React.ReactNode[] = [];
+  if (work.local_files) {
+    facts.push(
+      <span key="files">
+        {work.media === "video"
+          ? plural(work.local_files, "video file")
+          : plural(work.local_files, "file")}
+        {work.local_bytes ? ` · ${formatBytes(work.local_bytes)}` : ""}
+      </span>,
+    );
+  }
+  facts.push(...chapterFacts(work));
+  if (work.last_added_at && work.local_files) {
+    facts.push(<span key="added">added {timeAgo(work.last_added_at)}</span>);
+  }
+
+  const wantsSource = work.state === "MISSING" || work.state === "PARTIAL";
+  return (
+    <article className="work">
+      <div className="work-title">
+        <h3>{work.title}</h3>
+        <span className={`relation${work.relation && MAIN.has(work.relation) ? " main" : ""}`}>
+          {relationLabel(work.relation)}
+        </span>
+        {work.origin === "vault-adopted" || work.review_required ? (
+          <span className="chip quiet">Needs review</span>
+        ) : null}
+      </div>
+      <div>
+        <StateChip state={work.state} />
+      </div>
+
+      {facts.length ? <div className="work-facts">{facts}</div> : null}
+
+      {work.episodes.length || work.other_videos ? (
+        <div className="seasons" aria-label="Episodes held">
+          {work.episodes.map((run) => (
+            <span key={`${run.season}`} className="season">
+              <b>{seasonLabel(run.season)}</b> {dash(run.episodes_text)}
+              {run.gaps_text ? <span className="gap">· missing {dash(run.gaps_text)}</span> : null}
+            </span>
+          ))}
+          {work.other_videos ? (
+            <span className="season">
+              <b>{plural(work.other_videos, "other video")}</b> no episode number
+            </span>
+          ) : null}
+        </div>
+      ) : null}
+
+      {work.state === "NEEDS_MAPPING" ? (
+        <p className="work-note">
+          {plural(work.unmapped_local_files, "local file")} of this kind{" "}
+          {work.unmapped_local_files === 1 ? "is" : "are"} in the family folder but not matched to a
+          work, so this is not called missing.
+        </p>
+      ) : work.state === "STALE" ? (
+        <p className="work-note">
+          The folder changed after the last scan. Refresh to know whether this is here.
+        </p>
+      ) : work.state === "PRESENT" ? (
+        <p className="work-note">
+          In your Library. Nothing is known to compare against, so completeness is not verified.
+        </p>
+      ) : work.state === "PARTIAL" && !work.missing_chapters && work.coverage_reason ? (
+        <p className="work-note">{work.coverage_reason}</p>
+      ) : null}
+
+      <details className="disclosure">
+        <summary>{wantsSource ? "Details and sources" : "Details"}</summary>
+        <div className="disclosure-body">
+          {work.aliases.length ? (
+            <p style={{ margin: "0 0 6px" }}>Also known as {work.aliases.slice(0, 6).join(" · ")}</p>
+          ) : null}
+          <p style={{ margin: "0 0 6px" }}>
+            {work.official === true
+              ? "Official"
+              : work.official === false
+                ? "Not official"
+                : "Official status not verified"}
+            {work.confidence ? ` · ${work.confidence} confidence` : ""}
+            {work.languages.length ? ` · ${work.languages.join(", ")}` : ""}
+            {work.coverage_reason ? ` · ${work.coverage_reason}` : ""}
+          </p>
+          {work.local_path || work.expected_path ? (
+            <p style={{ margin: 0 }}>
+              <code>{work.local_path ?? work.expected_path}</code>
+              {!work.folder_exists ? <span className="muted"> · no folder yet</span> : null}
+            </p>
+          ) : null}
+          {wantsSource ? (
+            <SourceSearch
+              titles={work.search_titles}
+              sources={sources}
+              missing={work.missing_chapters}
+            />
+          ) : null}
+        </div>
+      </details>
+    </article>
+  );
+}
+
+function MaterialBlock({
+  material,
+  works,
+  sources,
+}: {
+  material: MaterialSummary;
+  works: WorkRow[];
+  sources: SourceOut[];
+}) {
+  return (
+    <section className="material-block" aria-labelledby={`m-${material.material_class}`}>
+      <header>
+        <h2 id={`m-${material.material_class}`}>{classLabel(material.material_class)}</h2>
+        <div className="facts">
+          {material.files ? (
+            <span className="tabular">
+              {material.video_files
+                ? plural(material.video_files, "video file")
+                : plural(material.files, "file")}{" "}
+              · {formatBytes(material.bytes)}
+            </span>
+          ) : null}
+          <StateChip state={material.state} />
+        </div>
+      </header>
+      {[...works].sort(byRelation).map((work) => (
+        <WorkItem key={work.id} work={work} sources={sources} />
+      ))}
+      {material.unmapped_files ? (
+        <p className="mapping-note">
+          {plural(material.unmapped_files, "local file")} in this folder{" "}
+          {material.unmapped_files === 1 ? "is" : "are"} not matched to any work yet.{" "}
+          <Link href="/library/acquisition/intake#mapping">Review uncatalogued material →</Link>
+        </p>
+      ) : null}
+    </section>
+  );
 }
 
 export default async function FamilyPage({ params }: { params: Promise<{ id: string }> }) {
@@ -76,138 +220,120 @@ export default async function FamilyPage({ params }: { params: Promise<{ id: str
     data = detail;
     sources = registry.sources;
   } catch (cause) {
-    if (cause instanceof ApiUnreachableError) {
-      error = cause.message;
-    } else if (String(cause).includes("404")) {
-      notFound();
-    } else {
-      error = `Unexpected error: ${String(cause)}`;
-    }
+    if (cause instanceof ApiUnreachableError) error = cause.message;
+    else if (String(cause).includes("404")) notFound();
+    else error = String(cause);
   }
 
-  if (error) {
+  if (!data) {
     return (
-      <main>
-        <p className="crumb">
-          <Link href="/library/acquisition/families">← Families</Link>
-        </p>
-        <ApiDown message={error} />
-      </main>
+      <>
+        <Link className="crumb" href="/library/acquisition/families">
+          ← Families
+        </Link>
+        <ApiDown message={error ?? "no response"} />
+      </>
     );
   }
-  if (!data) return null;
 
-  const { family, works, findings } = data;
-  const grouped = groupByClass(works);
-  const missingFolders = works.filter((work) => work.layout_status === "MISSING_FOLDER");
+  const { family, works } = data;
+  const byClass = new Map<string, WorkRow[]>();
+  for (const work of works) {
+    const key = (work.material_class ?? "other").toLowerCase();
+    byClass.set(key, [...(byClass.get(key) ?? []), work]);
+  }
+  const story = family.materials.filter((m) => m.story);
+  const supplements = family.materials.filter((m) => !m.story);
+  const supplementsHeld = supplements.some(
+    (m) => m.complete + m.partial + m.present > 0 || m.files > 0,
+  );
 
   return (
-    <main>
-      <p className="crumb">
-        <Link href="/library/acquisition/families">← Families</Link>
-      </p>
-      <p className="eyebrow">Source family</p>
-      <h1 className="headline">{family.title}</h1>
-      <p className="lede">
-        {plural(family.works_total, "catalogued work")} across{" "}
-        {plural(family.classes.length, "kind")} of material. Official
-        is not the same as main canon, so each kind is listed on its own.
-      </p>
+    <>
+      <Link className="crumb" href="/library/acquisition/families">
+        ← Families
+      </Link>
 
-      <div className="stats">
-        <Stat label="complete" value={family.complete} tone="ok" />
-        <Stat label="partial" value={family.partial} tone="warn" />
-        <Stat label="missing" value={family.missing} tone="err" />
-        <Stat label="unverified" value={family.unknown} />
-        <Stat label="files" value={family.files} />
-        <Stat label="on disk" value={formatBytes(family.bytes)} />
-      </div>
-      <div style={{ marginTop: 16 }}>
-        <Meter
-          complete={family.complete}
-          partial={family.partial}
-          missing={family.missing}
-          unknown={family.unknown}
+      <header className="detail-head">
+        <div>
+          <p className="eyebrow">Family</p>
+          <h1 className="title xl">{family.title}</h1>
+          <div className="chips" style={{ marginTop: 16 }}>
+            <StateChip state={family.state} />
+            {family.stale ? <StateChip state="STALE" /> : null}
+            {family.review_status !== "ACCEPTED" ? (
+              <span className="chip quiet">New to the catalogue</span>
+            ) : null}
+          </div>
+        </div>
+        <div className="detail-facts">
+          <div className="figure">
+            <span className="n">{formatBytes(family.bytes)}</span>
+            <span className="l">{plural(family.files, "file")}</span>
+          </div>
+          <div className="figure">
+            <span className="n tabular">
+              {family.story_held}/{family.story_works || family.works_total}
+            </span>
+            <span className="l">story works held</span>
+          </div>
+          <div className="figure">
+            <span className="n" style={{ fontSize: 20, lineHeight: "41px" }}>
+              {timeAgo(family.last_added_at)}
+            </span>
+            <span className="l">last added</span>
+          </div>
+        </div>
+      </header>
+
+      {story.map((material) => (
+        <MaterialBlock
+          key={material.material_class}
+          material={material}
+          works={byClass.get(material.material_class) ?? []}
+          sources={sources}
         />
-        <MeterLegend />
-      </div>
-      <div className="pills" style={{ marginTop: 14 }}>
-        {family.category ? <Pill>{family.category.toLowerCase()}</Pill> : null}
-        {family.medium ? <Pill>{classLabel(family.medium)}</Pill> : null}
-        {family.review ? <Pill tone="warn">{family.review} to review</Pill> : null}
-        {family.folder_exists ? null : <Pill tone="err">folder not present</Pill>}
-      </div>
-      <details className="finder provenance">
-        <summary>Where this family lives</summary>
-        <dl className="kv">
-          <dt>Folder</dt>
-          <dd>
-            <code>{family.path}</code>{" "}
-            <span className="row-meta">read-only to Continuum</span>
-          </dd>
-          {family.aliases.length ? (
-            <>
-              <dt>Also known as</dt>
-              <dd>{family.aliases.join(" · ")}</dd>
-            </>
-          ) : null}
-        </dl>
-      </details>
+      ))}
 
-      {missingFolders.length ? (
-        <div className="notice" style={{ marginTop: 18 }}>
-          <strong>{plural(missingFolders.length, "folder")} missing.</strong>
-          <p style={{ margin: "6px 0 0", fontSize: 13 }}>
-            Continuum never writes to the Vault. The{" "}
-            <Link href="/library/acquisition">overview</Link> shows the exact command that would
-            create them, for you to run.
-          </p>
+      {supplements.length ? (
+        <details className="supplements block" open={supplementsHeld}>
+          <summary className="block-head">
+            <h2>
+              Supplements
+              <small>
+                {family.supplements_held} of {family.supplements} held · official, but not the story
+                itself
+              </small>
+            </h2>
+            <span className="toggle" />
+          </summary>
+          {supplements.map((material) => (
+            <MaterialBlock
+              key={material.material_class}
+              material={material}
+              works={byClass.get(material.material_class) ?? []}
+              sources={sources}
+            />
+          ))}
+        </details>
+      ) : null}
+
+      {!family.materials.length ? (
+        <div className="empty" style={{ marginTop: 30 }}>
+          <h3>Nothing catalogued in this family yet</h3>
+          <p>A catalogue refresh looks up what officially exists for it.</p>
         </div>
       ) : null}
 
-      {grouped.map(([materialClass, list]) => (
-        <section key={materialClass}>
-          <div className="section">
-            <h2>{classLabel(materialClass)}</h2>
-            <span className="hint">{plural(list.length, "work")}</span>
-          </div>
-          <div className="rows">
-            {[...list].sort(byRelation).map((work) => (
-              <WorkLine key={work.id} work={work} sources={sources} />
-            ))}
-          </div>
-        </section>
-      ))}
-
-      {!works.length ? (
-        <Empty title="No works catalogued in this family">
-          <p>Run a discovery pass to find what officially exists.</p>
-        </Empty>
-      ) : null}
-
-      {findings.length ? (
-        <>
-          <div className="section">
-            <h2>Findings</h2>
-            <span className="hint">observations, never actions</span>
-          </div>
-          <div className="rows">
-            {findings.map((finding, index) => (
-              <div className="row-item" key={index}>
-                <div className="row-main">
-                  <div className="row-title">
-                    <Pill tone={String(finding.type) === "INFO" ? "muted" : "warn"}>
-                      {String(finding.type ?? "note").replaceAll("_", " ").toLowerCase()}
-                    </Pill>
-                    <code style={{ fontSize: 12 }}>{String(finding.path ?? "")}</code>
-                  </div>
-                  <p className="row-meta">{String(finding.detail ?? "")}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </>
-      ) : null}
-    </main>
+      <details className="disclosure block">
+        <summary>Where this family lives</summary>
+        <div className="disclosure-body">
+          <code>{family.path}</code> <span className="muted">· read-only to Continuum</span>
+          {family.aliases.length ? (
+            <p style={{ margin: "8px 0 0" }}>Also known as {family.aliases.join(" · ")}</p>
+          ) : null}
+        </div>
+      </details>
+    </>
   );
 }

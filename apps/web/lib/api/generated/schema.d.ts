@@ -497,6 +497,120 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/library/media": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * List Media
+         * @description The openable units of one work, or of a family's unmatched material.
+         *
+         *     ``work`` and ``family`` are catalogue ids; they index documents already in
+         *     memory and never reach the filesystem.
+         */
+        get: operations["list_media_library_media_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/media/status": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Media Status */
+        get: operations["media_status_library_media_status_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/media/{media_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Media Detail */
+        get: operations["media_detail_library_media__media_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/media/{media_id}/content": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Media Content
+         * @description Stream a video or document, honouring a single byte range.
+         *
+         *     Seeking in a player is a Range request; without it a two-gigabyte episode
+         *     would have to be read from the start to watch its last minute.
+         */
+        get: operations["media_content_library_media__media_id__content_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/media/{media_id}/pages": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Media Pages */
+        get: operations["media_pages_library_media__media_id__pages_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/media/{media_id}/pages/{index}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Media Page */
+        get: operations["media_page_library_media__media_id__pages__index__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/ready": {
         parameters: {
             query?: never;
@@ -733,6 +847,32 @@ export interface components {
             /** Url */
             url: string;
         };
+        /** ArchiveListingOut */
+        ArchiveListingOut: {
+            /** Chapters */
+            chapters?: components["schemas"]["ChapterGroup"][];
+            /**
+             * Other Entries
+             * @default 0
+             */
+            other_entries: number;
+            /** Pages */
+            pages?: components["schemas"]["ArchivePageOut"][];
+            /** Videos */
+            videos?: components["schemas"]["ContainedVideo"][];
+        };
+        /** ArchivePageOut */
+        ArchivePageOut: {
+            /**
+             * Chapter
+             * @default
+             */
+            chapter: string;
+            /** Index */
+            index: number;
+            /** Label */
+            label: string;
+        };
         /**
          * BlockedReason
          * @description Why a job is blocked (F-24).
@@ -745,6 +885,32 @@ export interface components {
          * @enum {string}
          */
         BlockedReason: "DEPENDENCY" | "MISSING_PROVIDER" | "MISSING_MODEL" | "MISSING_SOURCE_ASSET" | "AWAITING_APPROVAL" | "RESOURCE_UNAVAILABLE";
+        /** ChapterGroup */
+        ChapterGroup: {
+            /** Count */
+            count: number;
+            /** First */
+            first: number;
+            /** Label */
+            label: string;
+        };
+        /**
+         * ContainedVideo
+         * @description A video inside an archive. Listed, never streamed from the archive.
+         */
+        ContainedVideo: {
+            /** Episode */
+            episode?: number | null;
+            /** Name */
+            name: string;
+            /** Season */
+            season?: number | null;
+            /**
+             * Size Bytes
+             * @default 0
+             */
+            size_bytes: number;
+        };
         /** DocumentStatus */
         DocumentStatus: {
             /** Error */
@@ -1413,6 +1579,120 @@ export interface components {
              */
             works: number;
         };
+        /** MediaDetail */
+        MediaDetail: {
+            /**
+             * Family Id
+             * @default
+             */
+            family_id: string;
+            /**
+             * Family Title
+             * @default
+             */
+            family_title: string;
+            /** Material Class */
+            material_class?: string | null;
+            /** Next Id */
+            next_id?: string | null;
+            /**
+             * Position
+             * @default -1
+             */
+            position: number;
+            /** Previous Id */
+            previous_id?: string | null;
+            /**
+             * Total
+             * @default 0
+             */
+            total: number;
+            unit: components["schemas"]["MediaUnit"];
+            /**
+             * Work Id
+             * @default
+             */
+            work_id: string;
+            /**
+             * Work Title
+             * @default
+             */
+            work_title: string;
+        };
+        /**
+         * MediaStatus
+         * @description Whether held media can be opened on this machine, and why not.
+         */
+        MediaStatus: {
+            /** Available */
+            available: boolean;
+            /**
+             * Reason
+             * @default
+             */
+            reason: string;
+        };
+        /**
+         * MediaUnit
+         * @description One openable file of a work, addressed by an opaque id.
+         */
+        MediaUnit: {
+            /**
+             * Chapter Text
+             * @default
+             */
+            chapter_text: string;
+            /**
+             * Chapters
+             * @default 0
+             */
+            chapters: number;
+            /** Contained */
+            contained?: components["schemas"]["ContainedVideo"][];
+            /**
+             * Contained Videos
+             * @default 0
+             */
+            contained_videos: number;
+            /** Episode */
+            episode?: number | null;
+            /** Id */
+            id: string;
+            /** Kind */
+            kind: string;
+            /**
+             * Label
+             * @default
+             */
+            label: string;
+            /** Name */
+            name: string;
+            /**
+             * Pages
+             * @default 0
+             */
+            pages: number;
+            /**
+             * Plays In Browser
+             * @default no
+             * @enum {string}
+             */
+            plays_in_browser: "yes" | "maybe" | "no";
+            /** Season */
+            season?: number | null;
+            /**
+             * Size Bytes
+             * @default 0
+             */
+            size_bytes: number;
+            /**
+             * View
+             * @enum {string}
+             */
+            view: "pages" | "video" | "document" | "bundle" | "none";
+            /** Volumes */
+            volumes?: number[];
+        };
         /**
          * NextStep
          * @description One useful thing to do next, in plain words.
@@ -1962,6 +2242,61 @@ export interface components {
             /** Error Type */
             type: string;
         };
+        /** WorkMedia */
+        WorkMedia: {
+            /**
+             * Available
+             * @default false
+             */
+            available: boolean;
+            /**
+             * Coverage Reason
+             * @default
+             */
+            coverage_reason: string;
+            /**
+             * Family Id
+             * @default
+             */
+            family_id: string;
+            /**
+             * Family Title
+             * @default
+             */
+            family_title: string;
+            /** Material Class */
+            material_class?: string | null;
+            /**
+             * Reason
+             * @default
+             */
+            reason: string;
+            /** Relation */
+            relation?: string | null;
+            /**
+             * State
+             * @default UNVERIFIED
+             * @enum {string}
+             */
+            state: "COMPLETE" | "PARTIAL" | "PRESENT" | "MISSING" | "NEEDS_MAPPING" | "UNVERIFIED" | "STALE";
+            /**
+             * Title
+             * @default
+             */
+            title: string;
+            /** Units */
+            units?: components["schemas"]["MediaUnit"][];
+            /**
+             * Unmapped
+             * @default false
+             */
+            unmapped: boolean;
+            /**
+             * Work Id
+             * @default
+             */
+            work_id: string;
+        };
         /**
          * WorkRow
          * @description One work, with its classification and its local coverage.
@@ -1969,6 +2304,11 @@ export interface components {
         WorkRow: {
             /** Aliases */
             aliases?: string[];
+            /**
+             * Archives Not Inventoried
+             * @default 0
+             */
+            archives_not_inventoried: number;
             /** Authority */
             authority?: string | null;
             /** Canonical Title */
@@ -1986,6 +2326,11 @@ export interface components {
             confidence?: string | null;
             /** Contained In */
             contained_in?: string | null;
+            /**
+             * Contained Videos
+             * @default 0
+             */
+            contained_videos: number;
             /** Coverage Reason */
             coverage_reason?: string | null;
             /** Coverage Status */
@@ -2092,6 +2437,11 @@ export interface components {
             unmapped_local_files: number;
             /** Unofficial Provenance */
             unofficial_provenance?: string[];
+            /**
+             * Video Archives
+             * @default 0
+             */
+            video_archives: number;
         };
         /** WorkerOut */
         WorkerOut: {
@@ -2858,6 +3208,184 @@ export interface operations {
                 };
                 content: {
                     "application/json": components["schemas"]["UpdatesView"];
+                };
+            };
+        };
+    };
+    list_media_library_media_get: {
+        parameters: {
+            query?: {
+                work?: string | null;
+                family?: string | null;
+                material?: string | null;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["WorkMedia"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    media_status_library_media_status_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["MediaStatus"];
+                };
+            };
+        };
+    };
+    media_detail_library_media__media_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                media_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["MediaDetail"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    media_content_library_media__media_id__content_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                media_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": unknown;
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    media_pages_library_media__media_id__pages_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                media_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ArchiveListingOut"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    media_page_library_media__media_id__pages__index__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                media_id: string;
+                index: number;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": unknown;
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
                 };
             };
         };

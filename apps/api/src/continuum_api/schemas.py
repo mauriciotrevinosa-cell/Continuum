@@ -21,6 +21,10 @@ __all__ = [
     "AcquisitionOverview",
     "AcquisitionStatus",
     "AddSourceRequest",
+    "ArchiveListingOut",
+    "ArchivePageOut",
+    "ChapterGroup",
+    "ContainedVideo",
     "DocumentStatus",
     "EnqueueJobRequest",
     "EpisodeRun",
@@ -36,6 +40,9 @@ __all__ = [
     "JobSummary",
     "LibraryHero",
     "MaterialSummary",
+    "MediaDetail",
+    "MediaStatus",
+    "MediaUnit",
     "NextStep",
     "QueueGroup",
     "QueueItem",
@@ -51,6 +58,7 @@ __all__ = [
     "UpdateAlert",
     "UpdateWatchItem",
     "UpdatesView",
+    "WorkMedia",
     "WorkRow",
     "WorkerOut",
 ]
@@ -359,6 +367,12 @@ class WorkRow(BaseModel):
     media: Literal["video", "pages"] | None = None
     episodes: list[EpisodeRun] = Field(default_factory=list)
     other_videos: int = 0
+    #: Archives are containers. How many of the work's files are archives
+    #: holding video, how many videos they hold, and how many archives have
+    #: not been inventoried - so a file count is never read as episodes.
+    video_archives: int = 0
+    contained_videos: int = 0
+    archives_not_inventoried: int = 0
     unmapped_local_files: int = 0
     last_added_at: str | None = None
     #: Exact titles to search a store or reader with (English first, then
@@ -695,6 +709,92 @@ class NextStep(BaseModel):
     family_id: str = ""
     work_id: str = ""
     tone: Literal["ok", "warn", "err", "info", "muted", "accent"] = "muted"
+
+
+class MediaStatus(BaseModel):
+    """Whether held media can be opened on this machine, and why not."""
+
+    available: bool
+    reason: str = ""
+
+
+class ContainedVideo(BaseModel):
+    """A video inside an archive. Listed, never streamed from the archive."""
+
+    name: str
+    size_bytes: int = 0
+    season: int | None = None
+    episode: int | None = None
+
+
+class MediaUnit(BaseModel):
+    """One openable file of a work, addressed by an opaque id."""
+
+    id: str
+    name: str
+    kind: str
+    #: pages: an image archive; video: a playable file; document: a PDF;
+    #: bundle: an archive of videos; none: held, but not previewable.
+    view: Literal["pages", "video", "document", "bundle", "none"]
+    size_bytes: int = 0
+    label: str = ""
+    season: int | None = None
+    episode: int | None = None
+    chapters: int = 0
+    chapter_text: str = ""
+    volumes: list[int] = Field(default_factory=list)
+    pages: int = 0
+    contained_videos: int = 0
+    contained: list[ContainedVideo] = Field(default_factory=list)
+    #: yes: plays in every modern browser; maybe: depends on the codecs.
+    plays_in_browser: Literal["yes", "maybe", "no"] = "no"
+
+
+class WorkMedia(BaseModel):
+    available: bool = False
+    reason: str = ""
+    work_id: str = ""
+    title: str = ""
+    family_id: str = ""
+    family_title: str = ""
+    material_class: str | None = None
+    relation: str | None = None
+    state: LibraryState = "UNVERIFIED"
+    coverage_reason: str = ""
+    unmapped: bool = False
+    units: list[MediaUnit] = Field(default_factory=list)
+
+
+class MediaDetail(BaseModel):
+    unit: MediaUnit
+    work_id: str = ""
+    work_title: str = ""
+    family_id: str = ""
+    family_title: str = ""
+    material_class: str | None = None
+    position: int = -1
+    total: int = 0
+    previous_id: str | None = None
+    next_id: str | None = None
+
+
+class ArchivePageOut(BaseModel):
+    index: int
+    label: str
+    chapter: str = ""
+
+
+class ChapterGroup(BaseModel):
+    label: str
+    first: int
+    count: int
+
+
+class ArchiveListingOut(BaseModel):
+    pages: list[ArchivePageOut] = Field(default_factory=list)
+    chapters: list[ChapterGroup] = Field(default_factory=list)
+    videos: list[ContainedVideo] = Field(default_factory=list)
+    other_entries: int = 0
 
 
 class AcquisitionOverview(BaseModel):

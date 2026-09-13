@@ -53,6 +53,9 @@ ACQUISITION_DOCUMENTS: tuple[str, ...] = (
     "REVIEW_REQUIRED.json",
     "sources.json",
     "ingest-last.json",
+    # The scan's file listing. Read by the media layer to turn opaque ids back
+    # into Vault-relative paths; never served to a client as a document.
+    "vault-index.json",
 )
 
 #: CLI verbs the API may run, and the sub-verbs allowed for each.

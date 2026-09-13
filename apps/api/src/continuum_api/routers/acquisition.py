@@ -240,6 +240,11 @@ def _work_row(
         media=cov.get("media"),
         episodes=episodes,
         other_videos=other_videos,
+        video_archives=int((cov.get("episodes") or {}).get("archives_with_video") or 0),
+        contained_videos=int((cov.get("episodes") or {}).get("contained_videos") or 0),
+        archives_not_inventoried=int(
+            (cov.get("episodes") or {}).get("archives_not_inventoried") or 0
+        ),
         unmapped_local_files=int(cov.get("unmapped_local_files") or 0),
         last_added_at=cov.get("last_added_at"),
         id=str(row.get("work_id") or ""),

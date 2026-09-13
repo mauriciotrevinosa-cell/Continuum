@@ -175,8 +175,9 @@ class TestApiSurfaceIsPhaseZeroOnly:
     def test_surface_is_limited_to_the_built_features(self, client: TestClient) -> None:
         """The API surface stays closed: only what has actually been built.
 
-        Phase 0 shipped health, jobs and workers. Library acquisition was
-        commissioned afterwards and is built, so it belongs here too. Reader,
+        Phase 0 shipped health, jobs and workers. Library acquisition and the
+        read-only media viewer were commissioned afterwards and are built, so
+        they belong here too. Reader,
         Story Studio, Character Brain and Visual Lab are still absent, and a
         route for any of them must fail this test until that feature exists.
         """
@@ -211,6 +212,13 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/library/acquisition/updates",
             "/library/acquisition/scaffold",
             "/library/acquisition/scaffold/plan",
+            # Held media, by opaque id only (F-50).
+            "/library/media",
+            "/library/media/status",
+            "/library/media/{media_id}",
+            "/library/media/{media_id}/content",
+            "/library/media/{media_id}/pages",
+            "/library/media/{media_id}/pages/{index}",
         }
 
     def test_cors_is_not_a_wildcard(self, settings: Settings) -> None:

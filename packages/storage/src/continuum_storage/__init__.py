@@ -14,6 +14,15 @@ from continuum_storage.acquisition import (
     VaultChanges,
 )
 from continuum_storage.derived import DerivedStore, StoredArtifact
+from continuum_storage.media import (
+    MEDIA_ID_PATTERN,
+    ArchiveListing,
+    ArchivePage,
+    MediaFile,
+    MediaLibrary,
+    MediaUnavailableError,
+    media_id_for,
+)
 from continuum_storage.paths import (
     RESERVED_DEVICE_NAMES,
     ResolvedPath,
@@ -38,12 +47,18 @@ from continuum_storage.vault import SourceVaultReader, VaultEntry
 
 __all__ = [
     "ACQUISITION_DOCUMENTS",
+    "MEDIA_ID_PATTERN",
     "RESERVED_DEVICE_NAMES",
     "AcquisitionCliError",
     "AcquisitionDocument",
     "AcquisitionStore",
+    "ArchiveListing",
+    "ArchivePage",
     "CliResult",
     "DerivedStore",
+    "MediaFile",
+    "MediaLibrary",
+    "MediaUnavailableError",
     "ReadOnlyStatus",
     "ResolvedPath",
     "RootStatus",
@@ -56,6 +71,7 @@ __all__ = [
     "VaultProtectionReport",
     "build_storage",
     "detect_sync_provider",
+    "media_id_for",
     "probe_vault_readonly",
     "resolve_within",
     "same_file_as",

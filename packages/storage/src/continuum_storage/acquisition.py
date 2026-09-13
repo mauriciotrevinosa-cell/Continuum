@@ -57,6 +57,7 @@ ACQUISITION_DOCUMENTS: tuple[str, ...] = (
 #: present only because it is a dry run without ``--apply``.
 ALLOWED_CLI: dict[str, frozenset[str]] = {
     "sources": frozenset({"add", "list", "remove", "test", "enable", "disable", "unofficial"}),
+    "coverage": frozenset(),
     "scaffold": frozenset(),
     "ingest": frozenset(),
     "verify-vault": frozenset(),
@@ -255,6 +256,8 @@ class AcquisitionStore:
                 raise AcquisitionCliError(f"flag {value!r} is not allowed from the API")
         if self._root is None:
             raise AcquisitionCliError("no acquisition data directory configured")
+        if self._cli is None:
+            raise AcquisitionCliError("no acquisition CLI path configured")
         return (self._python, str(self._cli), "--data-dir", str(self._root), *prefix, *rest)
 
     def run(self, verb: str, *args: str) -> CliResult:

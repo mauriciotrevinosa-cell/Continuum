@@ -72,6 +72,9 @@ VIDEO_TYPES: dict[str, str] = {
     ".avi": "video/x-msvideo",
     ".ts": "video/mp2t",
 }
+#: ".ts" is also TypeScript. A contained ".ts" is footage only when it is not a
+#: declaration file and is large enough to be video; source files are kilobytes.
+MIN_TRANSPORT_STREAM_BYTES = 512 * 1024
 IMAGE_TYPES: dict[str, str] = {
     ".jpg": "image/jpeg",
     ".jpeg": "image/jpeg",
@@ -196,20 +199,19 @@ class MediaLibrary:
         return rel, record
 
     def _inside(self, rel: str) -> bool:
-        """Whether an index entry resolves inside the configured Vault.
+        """Whether an index entry resolves to a file inside the configured Vault.
 
-        The index is a document; a document can be wrong or tampered with. An
-        entry that names a traversal, an absolute path, or a link leading out
-        of the Vault is treated as if it did not exist - not described, not
-        opened.
+        The index is a document; a document can be wrong, tampered with, or
+        simply older than the Vault. An entry that names a traversal, an
+        absolute path, a link leading out of the Vault, or a file removed since
+        the scan is treated as if it did not exist - not described, not opened.
         """
         if self._reader is None:
             return False
         try:
-            self._reader.resolve(PurePath(rel))
+            return self._reader.resolve(PurePath(rel)).path.is_file()
         except (PathEscapesRootError, OSError, ValueError):
             return False
-        return True
 
     def describe(self, media_id: str) -> MediaFile:
         rel, record = self._lookup(media_id)
@@ -325,6 +327,17 @@ def _same_location(a: str, b: str) -> bool:
     return normal(a) == normal(b)
 
 
+def is_video_entry(name: str, size: int) -> bool:
+    """Whether an entry inside an archive is footage, judged by name and size."""
+    lowered = name.lower()
+    extension = os.path.splitext(lowered)[1]
+    if extension not in VIDEO_TYPES:
+        return False
+    if extension == ".ts":
+        return not lowered.endswith(".d.ts") and size >= MIN_TRANSPORT_STREAM_BYTES
+    return True
+
+
 def _describe(media_id: str, rel: str, record: dict[str, Any]) -> MediaFile:
     name = rel.replace("\\", "/").rsplit("/", 1)[-1]
     extension = os.path.splitext(name)[1].lower()
@@ -332,7 +345,15 @@ def _describe(media_id: str, rel: str, record: dict[str, Any]) -> MediaFile:
     raw_archive = record.get("archive")
     archive: dict[str, Any] = raw_archive if isinstance(raw_archive, dict) else {}
     images = int(archive.get("images") or 0)
-    videos = int(archive.get("videos") or 0)
+    recorded = [e for e in (archive.get("video_entries") or []) if isinstance(e, dict)]
+    videos_only = [
+        e for e in recorded if is_video_entry(str(e.get("name") or ""), int(e.get("size") or 0))
+    ]
+    # Older scans counted every ".ts" entry; drop the ones that are not footage.
+    videos = max(int(archive.get("videos") or 0) - (len(recorded) - len(videos_only)), 0)
+    if int(archive.get("executables") or 0):
+        # Software is never presented as media, whatever else the archive holds.
+        kind, images, videos, videos_only = "software", 0, 0, []
     if extension in VIDEO_TYPES:
         view, content_type = "video", VIDEO_TYPES[extension]
     elif extension in DOCUMENT_TYPES:
@@ -348,8 +369,7 @@ def _describe(media_id: str, rel: str, record: dict[str, Any]) -> MediaFile:
             "name": str(e.get("name") or "").replace("\\", "/").rsplit("/", 1)[-1],
             "size": int(e.get("size") or 0),
         }
-        for e in (archive.get("video_entries") or [])
-        if isinstance(e, dict)
+        for e in videos_only
     )
     return MediaFile(
         id=media_id,
@@ -397,7 +417,7 @@ def _list_archive(archive: zipfile.ZipFile) -> ArchiveListing:
     videos = tuple(
         {"name": info.filename.replace("\\", "/").rsplit("/", 1)[-1], "size": info.file_size}
         for info in archive.infolist()
-        if not info.is_dir() and os.path.splitext(info.filename)[1].lower() in VIDEO_TYPES
+        if not info.is_dir() and is_video_entry(info.filename, info.file_size)
     )
     other = sum(1 for info in archive.infolist() if not info.is_dir()) - len(images) - len(videos)
     return ArchiveListing(

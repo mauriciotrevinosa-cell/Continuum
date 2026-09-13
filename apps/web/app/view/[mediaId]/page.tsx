@@ -135,6 +135,14 @@ export default async function ViewPage({ params }: { params: Promise<{ mediaId: 
             <h3>No pages could be read from this archive</h3>
             <p>It is in your Library, but its contents couldn&apos;t be listed.</p>
           </section>
+        ) : unit.kind === "software" ? (
+          <section className="empty">
+            <h3>This archive holds software, not media</h3>
+            <p>
+              It&apos;s in your Library ({unit.name}, {formatBytes(unit.size_bytes)}). Continuum never
+              opens or runs programs, so there is nothing to view here.
+            </p>
+          </section>
         ) : (
           <section className="empty">
             <h3>Preview isn&apos;t supported for this file yet</h3>

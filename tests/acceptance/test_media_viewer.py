@@ -79,6 +79,28 @@ def world(tmp_path: Path) -> dict[str, Any]:
     (vault / notes).write_text("hello", encoding="utf-8")
     unmatched = "Demo Orbit/manga/stray-part-09.zip"
     _zip(vault / unmatched, {"001.png": PNG})
+    # An application someone keeps next to their manga: a program, an icon and
+    # TypeScript sources whose ".ts" names an older scan counted as video.
+    software = "Demo Orbit/manga/reader-app-win32.zip"
+    _zip(
+        vault / software,
+        {
+            "app/reader.exe": b"MZ",
+            "app/icon.png": PNG,
+            "app/types/index.d.ts": b"export {};",
+            "app/main.ts": b"let x = 1;",
+        },
+    )
+    # A real transport stream beside player sources in the same archive.
+    streams = "Demo Orbit/anime/stream-bundle.zip"
+    _zip(
+        vault / streams,
+        {
+            "S1/Demo Orbit S1 - 03.ts": b"\0" * (600 * 1024),
+            "S1/player/index.d.ts": b"export {};",
+            "S1/player/main.ts": b"let x = 1;",
+        },
+    )
 
     def record(rel: str, kind: str, **archive: Any) -> dict[str, Any]:
         full = vault / rel
@@ -105,6 +127,32 @@ def world(tmp_path: Path) -> dict[str, Any]:
         ),
         notes: record(notes, "other"),
         unmatched: record(unmatched, "archive", images=1, videos=0),
+        software: record(
+            software,
+            "archive",
+            images=1,
+            videos=2,
+            executables=1,
+            video_entries=[
+                {"name": "app/types/index.d.ts", "size": 10},
+                {"name": "app/main.ts", "size": 10},
+            ],
+        ),
+        streams: record(
+            streams,
+            "archive",
+            images=0,
+            videos=3,
+            video_entries=[
+                {"name": "S1/Demo Orbit S1 - 03.ts", "size": 600 * 1024},
+                {"name": "S1/player/index.d.ts", "size": 10},
+                {"name": "S1/player/main.ts", "size": 10},
+            ],
+        ),
+        # Indexed, then removed from the Vault before the next scan.
+        "Demo Orbit/anime/removed-since-scan.mp4": record(
+            "Demo Orbit/anime/removed-since-scan.mp4", "video"
+        ),
         # A poisoned index: entries no honest scan would produce.
         "../outside/secret.txt": {"size": 9, "kind": "document", "ext": ".pdf"},
         "Demo Orbit/../../outside/secret.pdf": {"size": 9, "kind": "document", "ext": ".pdf"},
@@ -173,9 +221,15 @@ def world(tmp_path: Path) -> dict[str, Any]:
                 "o/tv": {
                     "status": "UNKNOWN",
                     "media": "video",
-                    "media_files": [bundle, episode],
+                    "media_files": [bundle, episode, "Demo Orbit/anime/removed-since-scan.mp4"],
                     "units": [
                         {"file": episode, "kind": "video", "season": 1, "episode": 2},
+                        {
+                            "file": "Demo Orbit/anime/removed-since-scan.mp4",
+                            "kind": "video",
+                            "season": 1,
+                            "episode": 3,
+                        },
                         {
                             "file": bundle,
                             "kind": "archive",
@@ -201,6 +255,8 @@ def world(tmp_path: Path) -> dict[str, Any]:
         "bundle": bundle,
         "notes": notes,
         "unmatched": unmatched,
+        "software": software,
+        "streams": streams,
         "linked": linked,
         "files": files,
     }
@@ -224,7 +280,7 @@ def test_a_work_lists_openable_units_without_paths(data_home: Path, world: dict[
     body = response.json()
     assert body["available"] is True
     units = {u["label"]: u for u in body["units"]}
-    assert set(units) == {"S1 · E2", "season-2-bundle"}
+    assert set(units) == {"S1 · E2", "season-2-bundle"}, "a file gone since the scan is not offered"
     assert units["S1 · E2"]["view"] == "video"
     assert units["S1 · E2"]["plays_in_browser"] == "yes"
     bundle = units["season-2-bundle"]
@@ -294,6 +350,34 @@ def test_unsupported_files_are_described_honestly(data_home: Path, world: dict[s
     assert detail["unit"]["view"] == "none"
     assert stream.status_code == 404
     assert pages.status_code == 404
+
+
+def test_a_file_removed_since_the_scan_is_not_offered(
+    data_home: Path, world: dict[str, Any]
+) -> None:
+    media = media_id_for("Demo Orbit/anime/removed-since-scan.mp4")
+    with _client(data_home, world) as client:
+        detail = client.get(f"/library/media/{media}")
+        stream = client.get(f"/library/media/{media}/content")
+    assert detail.status_code == 404
+    assert stream.status_code == 404
+
+
+def test_typescript_and_software_are_never_media(data_home: Path, world: dict[str, Any]) -> None:
+    software = media_id_for(world["software"])
+    streams = media_id_for(world["streams"])
+    with _client(data_home, world) as client:
+        app = client.get(f"/library/media/{software}").json()
+        app_pages = client.get(f"/library/media/{software}/pages/0")
+        bundle = client.get(f"/library/media/{streams}").json()
+        listing = client.get(f"/library/media/{streams}/pages").json()
+    assert app["unit"]["kind"] == "software"
+    assert app["unit"]["view"] == "none", "a program is not opened, even beside an icon"
+    assert app["unit"]["contained_videos"] == 0
+    assert app_pages.status_code == 404
+    assert bundle["unit"]["view"] == "bundle"
+    assert bundle["unit"]["contained_videos"] == 1, "declaration and source files are not video"
+    assert [v["name"] for v in listing["videos"]] == ["Demo Orbit S1 - 03.ts"]
 
 
 def test_detail_gives_position_within_the_work(data_home: Path, world: dict[str, Any]) -> None:

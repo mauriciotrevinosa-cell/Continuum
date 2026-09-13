@@ -1,6 +1,6 @@
 # Continuum — Phase 1 M1 + M2 Implementation Report
 
-**Status:** READY FOR INDEPENDENT AUDIT — not merged; `master` and the `continuum-phase-0` tag are untouched
+**Status:** READY FOR FINAL AUDIT after the local-media correction pass (§9) — not merged; `master` and the `continuum-phase-0` tag are untouched
 **Date:** 2026-09-13
 **Branch:** `phase-1/integrated-candidate` (from `master` = `continuum-phase-0` = `91025d7`)
 **Plan:** `docs/PHASE_1_IMPLEMENTATION_PLAN_v0.1.md` plus the kickoff expansion (§15–31) and the
@@ -28,7 +28,10 @@ regenerate / approve → continuity reference`
 | `2e17729` | M2 backend: `ROUGH_RENDER` provider contract + deterministic sketch fake, `continuum_production`, `visual.rough_attempt` worker handler, production API |
 | `5b5624e` | M1b + M2 web: reader "Add reference", frame capture, References, Character Vault, Styles & modes, Inbox, Roughs and rough workspace |
 | `062a15e` | two defects found during manual validation (review state refresh, link paste parsing) |
-| this commit | reuse audit, this report, project-hardcoding invariant, dependency record |
+| `3b230a7` | reuse audit, this report, project-hardcoding invariant, dependency record (the build first audited) |
+| `b8c7c04` | audit correction: intake classifies bytes not names; HEIC/HEIF decoding with original + deterministic PNG rendition; installers refused; exact duplicates named; download-name provenance |
+| `cd69542` | audit correction: archives classified by content, new `mixed` view |
+| this commit | §9 results of the correction pass |
 
 ## 2. Decisions taken during implementation
 
@@ -112,12 +115,12 @@ Defects found and fixed during the run (`062a15e`): the rough workspace kept sho
 | Gate | Result |
 |---|---|
 | `ruff check .` / `ruff format --check .` | pass |
-| `mypy packages apps workers` (strict) | pass (77 source files) |
+| `mypy packages apps workers` (strict) | pass (78 source files) |
 | `lint-imports` (filesystem boundary, core independence, layering incl. `continuum_production` above `continuum_library`, worker ≠ API) | 4 kept |
-| `pytest` with PostgreSQL (isolated `continuum_test`) | pass — see the final push's CI run |
-| web: `lint`, `typecheck`, `vitest`, `next build` | pass |
+| `pytest` with PostgreSQL (isolated `continuum_test`) | pass — 519 passed, 1 skipped (Windows run after the correction pass) |
+| web: `lint`, `typecheck`, `vitest` (14 tests), `next build` | pass |
 | OpenAPI client drift | regenerated (`apps/web/lib/api/generated/schema.d.ts`) |
-| GitHub Actions on every pushed commit of this pass | green (M1 `34784320932`, M2 `34785383446`; later runs listed in the handoff) |
+| GitHub Actions on every pushed commit | green — M1 `34784320932`, M2 `34785383446`, handoff `34787632607`, intake correction `34790510114`, archive correction `34790765374` (Linux with PostgreSQL, Windows path semantics, offline/no-credential, OpenAPI drift, web); the report commit's run is in the handoff message |
 
 ## 8. Known limitations (honest)
 
@@ -125,12 +128,58 @@ Defects found and fixed during the run (`062a15e`): the rough workspace kept sho
 - **PDF pages** can be referenced whole, but not cropped, previewed or used as a plate (no rasterizer).
 - **Video is never decoded server-side.** Frames are captured by the browser; whether a container plays (e.g. MKV) is the browser's decision.
 - **Unhashed Vault files** are hashed on first use, read-only; a large file not yet indexed by the engine can take time on its first reference.
+- **Continuum only offers what the acquisition scan indexed.** 19 of the 23 video archives in the Vault were added after the last scan and stay invisible until the Library is rescanned (the classifier already puts all 23 in `bundle` from their directories, §9.2). Videos inside archives still cannot be played.
+- **HEIC depends on an LGPL decoder.** No permissive HEVC decoder exists; `pi-heif` is documented in `docs/DEPENDENCIES.md` and must be revisited, with `psycopg`, before any binary distribution. Without it HEIC is refused with a remediation, never dropped. AVIF is recognised and refused (not in the allowlist).
+- **Renditions are deterministic per decoder version.** The converter (`pi-heif` / libheif version) is recorded with every conversion; a different libheif may produce different PNG bytes for the same original.
+- **Duplicates are exact-byte only.** Re-encoded or resized copies of the same artwork are separate candidates; perceptual matching is not implemented.
+- **Handles from file names are a convention, not verification.** They are applied only when no handle was given, and labelled `creator_handle_source: filename`.
 - **Inbox clips** are served whole (no byte ranges) and uploads are buffered by the web passage; the 256 MB clip cap bounds both.
 - **No UI to remove characters, outfits or visual modes** (the API supports soft removal).
 - **Web flows have no browser end-to-end tests in CI**; they are covered by API tests plus the manual run above.
 - **No authentication** (Phase 0 loopback-only rule still applies).
 - **Source Intelligence** is prepared (ANALYSIS descriptors require an analyzer name; UI labels them ANALYSIS DERIVED) but not implemented; nothing is inferred automatically.
 
-## 9. Not done, by instruction
+## 9. Audit correction pass — local media reality (2026-09-13)
 
-No merge to `master`; no tag change; no ComfyUI, Remotion, model or voice/video work; no whole-chapter generation; nothing downloaded or fetched; nothing written into the Source Vault; no personal catalog data, titles, paths or hashes committed.
+The independent review of `3b230a7` accepted the report, UI and CI and asked three questions about real local media. All checks against real files were read-only; no personal titles or handles are recorded here.
+
+### 9.1 HEIC / HEIF
+
+- **Finding on the real intake:** all 118 `.heic` files in the FanArt intake folder are JPEG bytes with a `.heic` name (signature `FF D8 FF`); none is HEVC-coded. Before the correction they were accepted by content on the server, but the Inbox page filtered uploads by browser MIME type, which Windows browsers leave empty for `.heic` - so they could be dropped client-side.
+- **Root fix (`b8c7c04`):**
+  - `continuum_imaging.formats.sniff` classifies bytes by signature before any decoder; an ISO-BMFF `ftyp` box is split into HEIF / AVIF stills and MP4 / QuickTime video instead of being assumed to be video.
+  - Genuine HEIC/HEIF decodes through **`pi-heif` 1.4.0** (evaluated: BSD-3-Clause Python code; wheels bundle libheif 1.23.0 and libde265 1.1.1 under LGPL-3.0 as shared libraries; decode-only, no x265/GPL encoder). Registered with thumbnails, depth and auxiliary images off; libheif security limits on; Pillow's pixel budget unchanged.
+  - **Originals are immutable.** A HEIF original is stored byte-for-byte under `ContinuumData/library`; the vault works from a deterministic PNG rendition. `original_sha256`, `original_format`, `original_bytes`, `rendition_sha256` and `converted_with` are recorded on the candidate and on accepted or uploaded references. Nothing is renamed or rewritten, in the intake folder or anywhere else.
+  - Every intake image is decoded in full before a byte is written, so a valid header over truncated pixels is refused rather than stored.
+  - Without the decoder, HEIC is refused with `imaging.heif_decoder_missing` and a remediation.
+  - The Inbox page recognises `.heic` / `.heif` by extension and names every skipped, refused or duplicate file.
+- **Tests:** `test_phase1_heif_and_intake.py` (46), using a synthetic HEIC fixture encoded once outside the repository (`fixtures/images/README.md`): decode, determinism (identical PNG bytes twice), pixel sanity, corrupt / truncated / oversized (60000×60000 declared) / AVIF refusals, missing decoder, the original kept byte-identical beside its rendition, JPEG-named-`.heic`, and conversions on both inbox and direct uploads.
+
+### 9.2 Real ZIP media classification
+
+- **Read-only check of the configured Vault** (central directories only; no member read, nothing extracted; every archive's size and mtime compared before and after - 0 changed): 2,313 ZIP/CBZ archives. 2,289 image-only; 23 video-only holding 121 videos; 1 software; 0 mixed; 0 other non-media; 0 unreadable.
+- **Current classifier on that sample:** image-only → `pages` (2,289); indexed video-only → `bundle` (4); software → `none` (1). The other 19 video-only archives are not yet in the acquisition index (added after the last scan). Classified from their directories, all 19 are also `bundle`.
+- **Defect confirmed in the model even though the Vault has no example yet:** an archive holding both images and videos was presented as `pages`, because image presence always won.
+- **Root fix (`cd69542`):** a content-based `mixed` view.
+  - Images do not outrank video.
+  - Mixed archives list their videos, open their images on request ("Read the N images"), and allow page references.
+  - Video-only archives never expose pages as references.
+  - Software stays `none` whatever else it holds.
+  - No title is special-cased.
+- **Tests:** `test_phase1_archive_classification.py` (8) builds image-only, video-only, mixed, software and non-media archives and checks storage, source access and the API, with the synthetic vault byte-identical afterwards.
+
+### 9.3 FanArt intake reality check (bounded sample)
+
+- **Inventory (read-only):** 821 files in one flat folder (no Instagram/TikTok sub-folders) - 454 `.jpg`, 171 `.webp`, 118 `.heic` (all JPEG bytes), 76 `.mp4` (`ftyp isom`), 2 `.exe` installers. 20 groups of exact duplicate bytes (21 extra copies, 20 of them `name (n).ext`). 819 of 821 names follow `<handle>_<unix time>_<post id>_<owner id>.<ext>`; the 2 that do not are the installers.
+- **Bounded run:** 34 files - 10 `.heic`, 8 `.jpg`, 8 `.webp`, 6 `.mp4`, both installers, including 3 duplicate pairs. They were read from the intake folder and sent through the real API application's upload route with the Inbox page's kind hint, into a **throwaway database and data home**. The user's catalog and `ContinuumData` were not touched, and both throwaway stores were removed afterwards.
+  - **Folder structure plays no part.** Only bytes and the file name travel; a name keeps its last segment only.
+  - **Installers are refused safely.** The page's hint skips both before upload. A forced upload of one is refused by the server with HTTP 422 ("a Windows program or installer") and nothing is written.
+  - **Content decides the kind.** All 32 media files were taken in: 24 images and 5 clips, plus 3 duplicates. `.heic` was detected as JPEG (9 of 9 created), `.jpg` as JPEG, `.webp` as WebP, `.mp4` as MP4.
+  - **Duplicates are named, not stored or deleted.** Each of the 3 exact-duplicate copies produced no candidate and an HTTP 200 naming the first copy of the same bytes. 29 candidates, 29 library files.
+  - **Provenance is preserved.** Every created candidate kept its file name verbatim. All 29 pattern names yielded a creator handle labelled `creator_handle_source: filename`, a posting time and a post id.
+  - **Raw intake untouched.** The intake folder had the same 821 entries with identical size, mtime and ctime afterwards, and every sampled file re-hashed to its original SHA-256.
+- The whole folder was **not** bulk-imported.
+
+## 10. Not done, by instruction
+
+No merge to `master`; no tag change; no ComfyUI, Remotion, model or voice/video work; no whole-chapter generation; nothing downloaded or fetched; nothing written into the Source Vault or the intake folder; no bulk import of the FanArt folder; no personal catalog data, titles, handles, paths or hashes committed.

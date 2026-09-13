@@ -18,7 +18,7 @@ import sys
 
 import pytest
 
-from tests.conftest import DEMO_VAULT, REPO_ROOT
+from tests.conftest import DEMO_VAULT, REPO_ROOT, TEST_DATABASE_URL
 
 
 def _alembic(*args: str, data_home: str) -> subprocess.CompletedProcess[str]:
@@ -26,6 +26,8 @@ def _alembic(*args: str, data_home: str) -> subprocess.CompletedProcess[str]:
         **os.environ,
         "CONTINUUM_DATA_HOME": data_home,
         "CONTINUUM_SOURCE_VAULT_ROOT": str(DEMO_VAULT),
+        # The round trip drops every table: only ever the isolated test database.
+        "CONTINUUM_DATABASE_URL": TEST_DATABASE_URL,
     }
     return subprocess.run(
         [sys.executable, "-m", "alembic", *args],

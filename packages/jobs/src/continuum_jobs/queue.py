@@ -17,7 +17,7 @@ from continuum_core import ContinuumError, ErrorCategory, StructuredError, conte
 from continuum_db.enums import BlockedReason, JobEventType, JobStatus
 from continuum_db.models import Job, JobDependency, JobEvent
 from continuum_observability import current_correlation_id, get_logger
-from sqlalchemy import func, select, text, update
+from sqlalchemy import func, inspect, select, text
 from sqlalchemy.exc import IntegrityError
 from sqlalchemy.orm import Session
 
@@ -25,6 +25,8 @@ from continuum_jobs.states import assert_transition, is_terminal, next_backoff_s
 
 __all__ = [
     "DependencyCycleError",
+    "JobOwnershipLostError",
+    "StaleJobStateError",
     "add_dependency",
     "apply_pending_requests",
     "block_job",
@@ -32,6 +34,7 @@ __all__ = [
     "compute_dedupe_key",
     "enqueue",
     "fail_job",
+    "lock_job",
     "record_event",
     "request_cancel",
     "request_pause",
@@ -55,6 +58,33 @@ class DependencyCycleError(ContinuumError):
 
     code = "jobs.dependency_cycle"
     category = ErrorCategory.PERMANENT_INPUT
+
+
+class JobOwnershipLostError(ContinuumError):
+    """The worker asserting ownership of a job no longer holds its lease.
+
+    Raised before anything is written. The worker that sees it must stand
+    down: the job belongs to someone else now (reaped, claimed elsewhere, or
+    finished), so any status, progress or retry bookkeeping it wrote would
+    overwrite the rightful owner's.
+    """
+
+    code = "jobs.ownership_lost"
+    category = ErrorCategory.RETRYABLE_TRANSIENT
+
+
+class StaleJobStateError(ContinuumError):
+    """A transition was attempted from a view of the job the database no
+    longer holds.
+
+    The caller's object says one status or owner; the committed row says
+    another. Applying the transition anyway would overwrite a newer state with
+    a decision made on an older one, so it is refused before anything is
+    written. Reload the job and decide again.
+    """
+
+    code = "jobs.stale_state"
+    category = ErrorCategory.RETRYABLE_TRANSIENT
 
 
 def compute_dedupe_key(job_type: str, payload: dict[str, Any], recipe_version: str | None) -> str:
@@ -177,19 +207,102 @@ def _terminal_values() -> list[JobStatus]:
     return [JobStatus.SUCCEEDED, JobStatus.FAILED_FINAL, JobStatus.CANCELLED]
 
 
+def lock_job(session: Session, job: Job) -> tuple[JobStatus, uuid.UUID | None]:
+    """Lock the job's row until this transaction ends; return its committed
+    status and lease owner.
+
+    ``FOR NO KEY UPDATE``: it excludes every other writer of the row (a
+    worker, the reaper's and the claim's ``FOR UPDATE SKIP LOCKED``, a lease
+    renewal) while still letting unrelated inserts that merely reference the
+    job - audit events, steps - proceed.
+
+    Autoflush is suspended so that nothing the caller has changed in memory
+    reaches the database before the lock has been taken and checked.
+    """
+    with session.no_autoflush:
+        row = session.execute(
+            select(Job.status, Job.lease_owner)
+            .where(Job.id == job.id)
+            .with_for_update(key_share=True)
+        ).one_or_none()
+    if row is None:
+        raise StaleJobStateError(
+            "This job no longer exists.",
+            technical_detail=f"job_id={job.id}",
+            remediation="Reload the job list.",
+        )
+    return row.status, row.lease_owner
+
+
+def _believed(job: Job, attribute: str) -> Any:
+    """The value this session last loaded or flushed for ``attribute``.
+
+    Pending in-memory edits are ignored on purpose: the reaper, for instance,
+    clears ``lease_owner`` before it transitions. What matters is whether the
+    decision was made on the row the database still holds.
+    """
+    history = inspect(job).attrs[attribute].load_history()
+    if history.deleted:
+        return history.deleted[0]
+    if history.unchanged:
+        return history.unchanged[0]
+    return history.added[0] if history.added else None
+
+
 def transition(
     session: Session,
     job: Job,
     target: JobStatus,
     *,
     worker_id: uuid.UUID | None = None,
+    owner: uuid.UUID | None = None,
     detail: dict[str, Any] | None = None,
     blocked_reason: BlockedReason | None = None,
     remediation: dict[str, Any] | None = None,
 ) -> Job:
-    """Move a job to ``target``, refusing any transition not in the table."""
-    assert_transition(job.status, target, job_id=job.id)
-    previous = job.status
+    """Move a job to ``target``: the single, database-guarded status writer.
+
+    Three checks, all against the **locked committed row**, never against the
+    caller's object alone (ADR-0002 section 4, final-audit H-3):
+
+    1. ``owner`` - when given, the caller claims to be the worker executing
+       this job; the row's ``lease_owner`` must still be that worker, or
+       :class:`JobOwnershipLostError` is raised;
+    2. freshness - the status and lease owner this session believes must be
+       the ones the row holds, or :class:`StaleJobStateError` is raised. A
+       decision made on a stale object (``expire_on_commit=False`` keeps
+       objects across commits) must not overwrite what another worker, the
+       reaper or the API has committed since;
+    3. the transition table, applied to the row's actual status.
+
+    The row lock is held until the caller's transaction ends, so the checks
+    and the write cannot be separated by another writer.
+
+    ``worker_id`` only attributes the audit event; it asserts nothing.
+    """
+    current, current_owner = lock_job(session, job)
+    if owner is not None and current_owner != owner:
+        raise JobOwnershipLostError(
+            "This worker no longer owns the job.",
+            technical_detail=(
+                f"job_id={job.id} caller={owner} lease_owner={current_owner} "
+                f"status={current.value} target={target.value}"
+            ),
+            remediation="Stand down; the job's current owner will finish it.",
+        )
+    with session.no_autoflush:
+        believed = (_believed(job, "status"), _believed(job, "lease_owner"))
+    if believed != (current, current_owner):
+        raise StaleJobStateError(
+            "The job changed since it was loaded.",
+            technical_detail=(
+                f"job_id={job.id} believed status={believed[0]} owner={believed[1]}; "
+                f"committed status={current.value} owner={current_owner}; target={target.value}"
+            ),
+            remediation="Reload the job and try again.",
+        )
+    assert_transition(current, target, job_id=job.id)
+    previous = current
     _apply_status(session, job, target, blocked_reason=blocked_reason, remediation=remediation)
     record_event(
         session,
@@ -349,9 +462,14 @@ def apply_pending_requests(session: Session) -> dict[str, int]:
     """
     counts = {"cancelled": 0, "paused": 0}
 
+    # Rows are locked as they are selected, as the claim and the reaper do:
+    # each decision is then made on the row as committed, never on a snapshot
+    # another worker's pass or a claim could supersede before the write.
+    # SKIP LOCKED leaves a row another writer holds to that writer.
     cancellable = (
         session.execute(
-            select(Job).where(
+            select(Job)
+            .where(
                 Job.cancel_requested.is_(True),
                 Job.status.in_(
                     (
@@ -362,6 +480,7 @@ def apply_pending_requests(session: Session) -> dict[str, int]:
                     )
                 ),
             )
+            .with_for_update(skip_locked=True)
         )
         .scalars()
         .all()
@@ -372,11 +491,13 @@ def apply_pending_requests(session: Session) -> dict[str, int]:
 
     pausable = (
         session.execute(
-            select(Job).where(
+            select(Job)
+            .where(
                 Job.pause_requested.is_(True),
                 Job.cancel_requested.is_(False),
                 Job.status == JobStatus.QUEUED,
             )
+            .with_for_update(skip_locked=True)
         )
         .scalars()
         .all()
@@ -483,9 +604,27 @@ def retry_job(session: Session, job: Job) -> Job:
 
 
 def fail_job(
-    session: Session, job: Job, error: StructuredError, *, worker_id: uuid.UUID | None = None
+    session: Session,
+    job: Job,
+    error: StructuredError,
+    *,
+    worker_id: uuid.UUID | None = None,
+    owner: uuid.UUID | None = None,
 ) -> Job:
-    """Record a structured failure and decide retryable vs final (F-25, F-70)."""
+    """Record a structured failure and decide retryable vs final (F-25, F-70).
+
+    ``owner``: the executing worker. Ownership is proven under the row lock
+    *before* any failure bookkeeping is touched, so a worker that has lost
+    the job cannot increment its attempt or overwrite its error history.
+    """
+    if owner is not None:
+        _, current_owner = lock_job(session, job)
+        if current_owner != owner:
+            raise JobOwnershipLostError(
+                "This worker no longer owns the job.",
+                technical_detail=f"job_id={job.id} caller={owner} lease_owner={current_owner}",
+                remediation="Stand down; the job's current owner will finish it.",
+            )
     payload = error.to_dict()
     job.last_error = payload
     history = list(job.error_history or [])
@@ -502,6 +641,7 @@ def fail_job(
             job,
             JobStatus.FAILED_RETRYABLE,
             worker_id=worker_id,
+            owner=owner,
             detail={"error": payload, "retry_in_seconds": round(delay, 2)},
         )
     else:
@@ -511,6 +651,7 @@ def fail_job(
             job,
             JobStatus.FAILED_FINAL,
             worker_id=worker_id,
+            owner=owner,
             detail={
                 "error": payload,
                 "reason": "attempts exhausted" if exhausted else "permanent error",
@@ -528,13 +669,19 @@ def block_job(
     remediation: dict[str, Any],
     *,
     worker_id: uuid.UUID | None = None,
+    owner: uuid.UUID | None = None,
 ) -> Job:
-    """Park a job with an actionable reason instead of failing it (F-24)."""
+    """Park a job with an actionable reason instead of failing it (F-24).
+
+    ``owner``: the executing worker, when a running job is parked; see
+    :func:`transition`.
+    """
     transition(
         session,
         job,
         JobStatus.BLOCKED,
         worker_id=worker_id,
+        owner=owner,
         blocked_reason=reason,
         remediation=remediation,
         detail={"blocked_reason": reason.value, **remediation},
@@ -557,12 +704,20 @@ def unblock_ready_dependents(session: Session) -> int:
     cancelling them: automatic cascade cancellation would silently destroy
     queued work the user may still want (ADR-0002 section 9).
     """
-    blocked = session.execute(
-        select(Job).where(
-            Job.status == JobStatus.BLOCKED,
-            Job.blocked_reason == BlockedReason.DEPENDENCY,
+    # Locked as selected (see apply_pending_requests): a job cancelled by
+    # another worker's pass must not be released from a snapshot.
+    blocked = (
+        session.execute(
+            select(Job)
+            .where(
+                Job.status == JobStatus.BLOCKED,
+                Job.blocked_reason == BlockedReason.DEPENDENCY,
+            )
+            .with_for_update(skip_locked=True)
         )
-    ).scalars()
+        .scalars()
+        .all()
+    )
 
     released = 0
     for job in blocked:
@@ -580,13 +735,6 @@ def unblock_ready_dependents(session: Session) -> int:
             released += 1
     session.flush()
     return released
-
-
-def touch_progress(session: Session, job_id: uuid.UUID, units_done: int) -> None:
-    """Persist progress independently of any UI or API process (110.7)."""
-    session.execute(
-        update(Job).where(Job.id == job_id).values(units_done=units_done, updated_at=func.now())
-    )
 
 
 def _database_now(session: Session) -> dt.datetime:

@@ -34,6 +34,8 @@ from continuum_core import BlockedReason
 from continuum_db.models import Job
 from continuum_db.session import session_scope
 from continuum_jobs import (
+    JobOwnershipLostError,
+    StaleJobStateError,
     UnknownJobTypeError,
     apply_pending_requests,
     block_job,
@@ -41,6 +43,7 @@ from continuum_jobs import (
     execute_job,
     heartbeat,
     reap_expired_leases,
+    record_ownership_loss,
     register_worker,
     registry,
     stop_worker,
@@ -50,6 +53,7 @@ from continuum_jobs import (
 from continuum_observability import configure_logging, correlation_scope, get_logger
 from continuum_providers import build_default_registry
 from continuum_storage import build_storage
+from sqlalchemy.orm import Session
 
 from continuum_worker.handlers.synthetic import (
     BlockedCapabilityHandler,
@@ -143,15 +147,14 @@ class Worker:
                 except UnknownJobTypeError as exc:
                     # A job type with no handler is a configuration problem,
                     # not a failure: the job waits until the handler exists.
-                    block_job(
+                    self._park(
                         session,
-                        job,
+                        job_id,
                         BlockedReason.MISSING_PROVIDER,
                         {
                             "message": exc.user_message,
                             "action": exc.remediation or "Register the handler.",
                         },
-                        worker_id=self.worker_id,
                     )
                     return True
 
@@ -176,20 +179,47 @@ class Worker:
                     # remediation, not a failure: the recipe survives and the
                     # user is told what is missing (F-24, F-34).
                     session.rollback()
-                    job = session.get(Job, job_id)
-                    if job is not None:
-                        block_job(
-                            session,
-                            job,
-                            _blocked_reason_from(exc),
-                            {
-                                "message": exc.user_message,
-                                "action": exc.remediation or "",
-                                **exc.context,
-                            },
-                            worker_id=self.worker_id,
-                        )
+                    self._park(
+                        session,
+                        job_id,
+                        _blocked_reason_from(exc),
+                        {
+                            "message": exc.user_message,
+                            "action": exc.remediation or "",
+                            **exc.context,
+                        },
+                    )
         return True
+
+    def _park(
+        self,
+        session: Session,
+        job_id: uuid.UUID,
+        reason: BlockedReason,
+        remediation: dict[str, object],
+    ) -> None:
+        """Move this worker's running job to BLOCKED - only while it owns it.
+
+        Ownership is proven under the row lock by ``block_job(owner=...)``.
+        If the job was reaped or claimed elsewhere in the meantime, this
+        worker writes nothing but its own stand-down event (final audit H-3).
+        """
+        assert self.worker_id is not None
+        job = session.get(Job, job_id)
+        if job is None:  # pragma: no cover - deleted mid-flight
+            return
+        try:
+            block_job(
+                session,
+                job,
+                reason,
+                remediation,
+                worker_id=self.worker_id,
+                owner=self.worker_id,
+            )
+        except (JobOwnershipLostError, StaleJobStateError):
+            session.rollback()
+            record_ownership_loss(session, job_id, self.worker_id)
 
     def _maybe_reap(self) -> None:
         """Recover jobs whose worker died (F-27). Cheap, so run it regularly."""

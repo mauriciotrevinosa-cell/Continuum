@@ -18,6 +18,19 @@ What actually makes at-least-once execution behave as effectively-once:
    completion record.
 
 A crash anywhere then re-runs a unit whose effect is a no-op.
+
+**The second invariant: no worker-owned write after ownership is lost.**
+A worker can lose its job at any moment - its lease expires while it is
+between statements, the reaper requeues the job, another worker claims it.
+Checking ownership and then writing leaves a window between the two. So
+every transaction that records worker-owned state (plan, step start, unit
+completion with its lease renewal, unit failure, the final status) begins by
+locking the job row and proving, under that lock, that this worker still
+owns a RUNNING job (:func:`_hold`). The lock is held until that transaction
+commits: no reaper or claim can take the job between the proof and the
+writes that depend on it. A worker that cannot prove ownership rolls back
+and stands down, recording only its own stand-down event (final audit
+H-1/H-2). No lock is ever held while a handler runs.
 """
 
 from __future__ import annotations
@@ -37,7 +50,14 @@ from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
 from continuum_jobs.lease import LeaseHeartbeat, renew_lease, worker_should_drain
-from continuum_jobs.queue import fail_job, record_event, transition
+from continuum_jobs.queue import (
+    JobOwnershipLostError,
+    StaleJobStateError,
+    fail_job,
+    lock_job,
+    record_event,
+    transition,
+)
 
 __all__ = [
     "JobContext",
@@ -47,7 +67,11 @@ __all__ = [
     "UnitSpec",
     "execute_job",
     "plan_units",
+    "record_ownership_loss",
 ]
+
+#: Refusals meaning "this worker's view of the job is no longer the database's".
+_LOST = (JobOwnershipLostError, StaleJobStateError)
 
 log = get_logger("continuum.jobs.execution")
 
@@ -196,6 +220,12 @@ def execute_job(
 ) -> StopReason:
     """Run a job's units to completion, or stop cooperatively.
 
+    With ``worker_id`` (always, in production) every worker-owned write is
+    guarded by :func:`_hold`; losing the job at any point ends in
+    ``OWNERSHIP_LOST`` with nothing written for it. Without ``worker_id``
+    (tests and tools that execute a job directly) rows are still locked and
+    transitions still refuse stale state, but there is no lease to prove.
+
     ``force_rerun_completed`` exists only for acceptance test 110.10, which
     must prove that re-executing an already-completed unit is a byte-identical
     no-op producing no duplicate row or effect. Production never sets it.
@@ -214,12 +244,14 @@ def execute_job(
     with correlation_scope(job.correlation_id):
         try:
             units = list(handler.plan(ctx))
+            _hold(session, job, worker_id)
             plan_units(session, job, units)
             session.commit()
+        except _LOST:
+            return _stand_down(session, job.id, worker_id)
         except Exception as exc:
-            fail_job(session, job, _structured(exc), worker_id=worker_id)
-            session.commit()
-            return StopReason.FAILED
+            session.rollback()
+            return _record_failure(session, job, _structured(exc), worker_id)
 
         already_done = set() if force_rerun_completed else _completed_unit_keys(session, job.id)
         started = dt.datetime.now(dt.UTC)
@@ -228,35 +260,37 @@ def execute_job(
             if unit.unit_key in already_done:
                 continue
 
-            stop = _stop_requested(session, job, worker_id)
-            if stop is not None:
-                if stop is StopReason.OWNERSHIP_LOST:
-                    record_ownership_loss(session, job.id, worker_id)
+            # ---- 0. stop check and step start, under the ownership lock --
+            try:
+                _hold(session, job, worker_id)
+                stop = _stop_requested(session, job, worker_id)
+                if stop is not None:
+                    _land_stop(session, job, stop, worker_id)
                     session.commit()
                     return stop
-                _land_stop(session, job, stop, worker_id)
+
+                step = session.execute(
+                    select(JobStep).where(
+                        JobStep.job_id == job.id, JobStep.unit_key == unit.unit_key
+                    )
+                ).scalar_one()
+                step.status = StepStatus.RUNNING
+                step.started_at = dt.datetime.now(dt.UTC)
+                step.attempt += 1
+                record_event(
+                    session, job.id, JobEventType.STEP_STARTED, detail={"unit_key": unit.unit_key}
+                )
                 session.commit()
-                return stop
+            except _LOST:
+                return _stand_down(session, job.id, worker_id)
 
-            step = session.execute(
-                select(JobStep).where(JobStep.job_id == job.id, JobStep.unit_key == unit.unit_key)
-            ).scalar_one()
-
-            lost_ownership = False
-            step.status = StepStatus.RUNNING
-            step.started_at = dt.datetime.now(dt.UTC)
-            step.attempt += 1
-            session.commit()
-            record_event(
-                session, job.id, JobEventType.STEP_STARTED, detail={"unit_key": unit.unit_key}
-            )
-
+            # ---- 1. perform the effect (must be repeat-safe) --------------
+            # No row lock is held here. The lease is renewed on a background
+            # thread FOR THE DURATION of the unit, not just between units.
+            # Without this, a unit outliving its lease is reaped and run
+            # concurrently by a second worker.
+            beat: LeaseHeartbeat | None = None
             try:
-                # ---- 1. perform the effect (must be repeat-safe) ----------
-                # The lease is renewed on a background thread FOR THE DURATION
-                # of the unit, not just between units. Without this, a unit
-                # outliving its lease is reaped and run concurrently by a
-                # second worker.
                 if worker_id is not None and settings is not None:
                     with LeaseHeartbeat(
                         settings,
@@ -266,80 +300,165 @@ def execute_job(
                         interval_seconds=heartbeat_seconds,
                     ) as beat:
                         outcome = handler.execute_unit(ctx, unit)
-                        lost_ownership = beat.ownership_lost
                 else:
                     outcome = handler.execute_unit(ctx, unit)
             except Exception as exc:
                 # Provider/policy blocks are decisions, not failed attempts.
                 # The standalone worker owns the transition to BLOCKED and
-                # its actionable remediation payload.
+                # its actionable remediation payload; it proves ownership
+                # the same way before parking the job.
                 if isinstance(exc, ContinuumError) and exc.context.get("blocked_reason"):
                     raise
-                step.status = StepStatus.FAILED
-                error = _structured(exc)
-                step.last_error = error.to_dict()
-                step.completed_at = dt.datetime.now(dt.UTC)
-                record_event(
-                    session,
-                    job.id,
-                    JobEventType.STEP_FAILED,
-                    detail={"unit_key": unit.unit_key, "error": error.to_dict()},
-                    worker_id=worker_id,
+                if beat is not None and beat.ownership_lost:
+                    return _stand_down(session, job.id, worker_id)
+                return _record_failure(
+                    session, job, _structured(exc), worker_id, step=step, unit_key=unit.unit_key
                 )
-                fail_job(session, job, error, worker_id=worker_id)
-                session.commit()
-                return StopReason.FAILED
 
-            # ---- 2. completion record + checkpoint in ONE transaction -----
-            if lost_ownership:
+            if beat is not None and beat.ownership_lost:
                 # The effect already landed and is content-addressed, so the
                 # rightful owner's re-run is a byte-identical no-op. What must
                 # NOT happen is this worker writing progress or status for a
                 # job it no longer owns.
-                session.rollback()
-                record_ownership_loss(session, job.id, worker_id)
-                session.commit()
-                return StopReason.OWNERSHIP_LOST
+                return _stand_down(session, job.id, worker_id)
 
-            step.status = StepStatus.SUCCEEDED
-            step.result = outcome.result
-            step.completed_at = dt.datetime.now(dt.UTC)
-            job.units_done = len(_completed_unit_keys(session, job.id) | {unit.unit_key})
-            job.current_step = index + 1
-            job.elapsed_active_ms = int((dt.datetime.now(dt.UTC) - started).total_seconds() * 1000)
+            # ---- 2. completion record + checkpoint + lease, ONE transaction
+            try:
+                _hold(session, job, worker_id)
+                step.status = StepStatus.SUCCEEDED
+                step.result = outcome.result
+                step.completed_at = dt.datetime.now(dt.UTC)
+                job.units_done = len(_completed_unit_keys(session, job.id) | {unit.unit_key})
+                job.current_step = index + 1
+                job.elapsed_active_ms = int(
+                    (dt.datetime.now(dt.UTC) - started).total_seconds() * 1000
+                )
 
-            if outcome.checkpoint is not None:
-                session.add(
-                    JobCheckpoint(
-                        job_id=job.id,
-                        seq=_next_checkpoint_seq(session, job.id),
-                        payload=outcome.checkpoint,
+                if outcome.checkpoint is not None:
+                    session.add(
+                        JobCheckpoint(
+                            job_id=job.id,
+                            seq=_next_checkpoint_seq(session, job.id),
+                            payload=outcome.checkpoint,
+                        )
                     )
-                )
+                    record_event(
+                        session,
+                        job.id,
+                        JobEventType.CHECKPOINT,
+                        detail={"unit_key": unit.unit_key},
+                    )
+
                 record_event(
-                    session, job.id, JobEventType.CHECKPOINT, detail={"unit_key": unit.unit_key}
+                    session,
+                    job.id,
+                    JobEventType.STEP_COMPLETED,
+                    detail={"unit_key": unit.unit_key, "units_done": job.units_done},
+                    worker_id=worker_id,
                 )
-
-            record_event(
-                session,
-                job.id,
-                JobEventType.STEP_COMPLETED,
-                detail={"unit_key": unit.unit_key, "units_done": job.units_done},
-                worker_id=worker_id,
-            )
-            session.commit()
-
-            if worker_id is not None:
-                renew_lease(session, job.id, lease_seconds)
+                if worker_id is not None and not renew_lease(
+                    session, job.id, lease_seconds, worker_id=worker_id
+                ):  # pragma: no cover - impossible while _hold's lock is held
+                    raise JobOwnershipLostError(
+                        "This worker no longer owns the job.",
+                        technical_detail=f"job_id={job.id} lease renewal refused under lock",
+                    )
                 session.commit()
+            except _LOST:
+                return _stand_down(session, job.id, worker_id)
 
-        transition(session, job, JobStatus.SUCCEEDED, worker_id=worker_id)
-        session.commit()
+        # ---- 3. final status, proven under the same lock ------------------
+        try:
+            _hold(session, job, worker_id)
+            transition(session, job, JobStatus.SUCCEEDED, worker_id=worker_id, owner=worker_id)
+            session.commit()
+        except _LOST:
+            return _stand_down(session, job.id, worker_id)
         return StopReason.COMPLETED
 
 
+def _hold(session: Session, job: Job, worker_id: uuid.UUID | None) -> None:
+    """Lock the job row for this transaction and prove this worker owns it.
+
+    Called at the start of every transaction that records worker-owned state,
+    before anything is written. The row stays locked until that transaction
+    commits or rolls back, so the proof and the writes it permits are
+    atomic: a reaper or another worker cannot take the job in between.
+
+    Raises :class:`JobOwnershipLostError` unless the committed row is RUNNING
+    with this worker as ``lease_owner``. Without ``worker_id`` the row is
+    locked but there is no lease to prove.
+    """
+    status, owner = lock_job(session, job)
+    if worker_id is not None and (owner != worker_id or status is not JobStatus.RUNNING):
+        raise JobOwnershipLostError(
+            "This worker no longer owns the job.",
+            technical_detail=(
+                f"job_id={job.id} worker={worker_id} lease_owner={owner} status={status.value}"
+            ),
+            remediation="Stand down; the job's current owner will finish it.",
+        )
+
+
+def _stand_down(session: Session, job_id: uuid.UUID, worker_id: uuid.UUID | None) -> StopReason:
+    """Discard everything this transaction held and record only the stand-down.
+
+    A worker without a lease has no ownership to lose; a refusal then means
+    the caller's view is stale, which is reported rather than hidden.
+    """
+    session.rollback()
+    if worker_id is None:
+        raise StaleJobStateError(
+            "The job changed underneath its execution.",
+            technical_detail=f"job_id={job_id}",
+            remediation="Reload the job and run it again.",
+        )
+    record_ownership_loss(session, job_id, worker_id)
+    session.commit()
+    return StopReason.OWNERSHIP_LOST
+
+
+def _record_failure(
+    session: Session,
+    job: Job,
+    error: StructuredError,
+    worker_id: uuid.UUID | None,
+    *,
+    step: JobStep | None = None,
+    unit_key: str | None = None,
+) -> StopReason:
+    """Record a failed plan or unit - only if this worker still owns the job.
+
+    Ownership is proven under the row lock before the step, the attempt
+    counter, the error history or the status are touched (final audit H-2).
+    """
+    try:
+        _hold(session, job, worker_id)
+        if step is not None:
+            step.status = StepStatus.FAILED
+            step.last_error = error.to_dict()
+            step.completed_at = dt.datetime.now(dt.UTC)
+            record_event(
+                session,
+                job.id,
+                JobEventType.STEP_FAILED,
+                detail={"unit_key": unit_key, "error": error.to_dict()},
+                worker_id=worker_id,
+            )
+        fail_job(session, job, error, worker_id=worker_id, owner=worker_id)
+        session.commit()
+    except _LOST:
+        return _stand_down(session, job.id, worker_id)
+    return StopReason.FAILED
+
+
 def record_ownership_loss(session: Session, job_id: uuid.UUID, worker_id: uuid.UUID | None) -> None:
-    """Audit that this worker stood down. Deliberately writes no status."""
+    """Audit that this worker stood down. Deliberately writes no status.
+
+    Appending an event is safe even though the job belongs to someone else:
+    it changes nothing the owner reads or writes, and it does not lock the
+    job row against them.
+    """
     record_event(
         session,
         job_id,
@@ -354,14 +473,12 @@ def record_ownership_loss(session: Session, job_id: uuid.UUID, worker_id: uuid.U
 
 
 def _stop_requested(session: Session, job: Job, worker_id: uuid.UUID | None) -> StopReason | None:
-    """Cooperative stop check, run between units, never mid-unit."""
-    session.refresh(
-        job, attribute_names=["cancel_requested", "pause_requested", "lease_owner", "status"]
-    )
-    if worker_id is not None and (
-        job.lease_owner != worker_id or job.status is not JobStatus.RUNNING
-    ):
-        return StopReason.OWNERSHIP_LOST
+    """Cooperative stop check, run between units, never mid-unit.
+
+    Called with the row already locked by :func:`_hold`, so the flags read
+    here cannot change before the stop they cause has landed.
+    """
+    session.refresh(job, attribute_names=["cancel_requested", "pause_requested"])
     if job.cancel_requested:
         return StopReason.CANCELLED
     if job.pause_requested:
@@ -375,22 +492,33 @@ def _land_stop(session: Session, job: Job, reason: StopReason, worker_id: uuid.U
     """Move a stopped job to its resting state, leaving it resumable."""
     if reason is StopReason.CANCELLED:
         if job.status is JobStatus.RUNNING:
-            transition(session, job, JobStatus.CANCELLING, worker_id=worker_id)
-        transition(session, job, JobStatus.CANCELLED, worker_id=worker_id)
+            transition(session, job, JobStatus.CANCELLING, worker_id=worker_id, owner=worker_id)
+        transition(session, job, JobStatus.CANCELLED, worker_id=worker_id, owner=worker_id)
         return
 
     # Pause and drain both leave the job resumable from its completed units.
     if job.status is JobStatus.RUNNING:
-        transition(session, job, JobStatus.PAUSING, worker_id=worker_id)
+        transition(session, job, JobStatus.PAUSING, worker_id=worker_id, owner=worker_id)
     if reason is StopReason.PAUSED:
-        transition(session, job, JobStatus.PAUSED, worker_id=worker_id)
+        transition(session, job, JobStatus.PAUSED, worker_id=worker_id, owner=worker_id)
     else:
         # Drain: the worker is going away, not the job. Return it to the
         # queue so another worker (or this one after restart) picks it up.
         transition(
-            session, job, JobStatus.PAUSED, worker_id=worker_id, detail={"reason": "worker drain"}
+            session,
+            job,
+            JobStatus.PAUSED,
+            worker_id=worker_id,
+            owner=worker_id,
+            detail={"reason": "worker drain"},
         )
-        transition(session, job, JobStatus.QUEUED, detail={"reason": "requeued after drain"})
+        transition(
+            session,
+            job,
+            JobStatus.QUEUED,
+            owner=worker_id,
+            detail={"reason": "requeued after drain"},
+        )
     job.lease_owner = None
     job.lease_expires_at = None
     session.flush()

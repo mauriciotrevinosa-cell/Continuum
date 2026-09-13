@@ -88,7 +88,7 @@ def renew_lease(
     job_id: uuid.UUID,
     lease_seconds: int,
     *,
-    worker_id: uuid.UUID | None = None,
+    worker_id: uuid.UUID,
 ) -> bool:
     """Extend the lease on a job, **only if this worker still owns it**.
 
@@ -96,19 +96,20 @@ def renew_lease(
     not — because the job is no longer ``RUNNING``, or is owned by a
     different worker, or no longer exists.
 
-    Renewing by job id alone (the previous behaviour) let a worker that had
-    already lost the job push the lease forward anyway, papering over the
-    very condition the lease exists to detect. Ownership is therefore part of
-    the ``WHERE`` clause rather than something the caller is trusted to have
-    checked: the guard and the write are then a single atomic statement.
+    ``worker_id`` is mandatory. Renewing by job id alone let a worker that
+    had already lost the job push the new owner's lease forward (final audit
+    H-1), papering over the very condition the lease exists to detect.
+    Ownership is part of the ``WHERE`` clause rather than something the
+    caller is trusted to have checked: the guard and the write are a single
+    atomic statement. There is no unowned form.
     """
-    conditions = [Job.id == job_id, Job.status == JobStatus.RUNNING]
-    if worker_id is not None:
-        conditions.append(Job.lease_owner == worker_id)
-
     result = session.execute(
         update(Job)
-        .where(*conditions)
+        .where(
+            Job.id == job_id,
+            Job.status == JobStatus.RUNNING,
+            Job.lease_owner == worker_id,
+        )
         .values(lease_expires_at=func.now() + func.make_interval(0, 0, 0, 0, 0, 0, lease_seconds))
     )
     renewed = bool(cast("CursorResult[Any]", result).rowcount)

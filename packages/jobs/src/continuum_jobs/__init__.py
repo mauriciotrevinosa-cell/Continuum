@@ -8,6 +8,7 @@ from continuum_jobs.execution import (
     UnitSpec,
     execute_job,
     plan_units,
+    record_ownership_loss,
 )
 from continuum_jobs.lease import (
     LeaseHeartbeat,
@@ -22,6 +23,8 @@ from continuum_jobs.lease import (
 )
 from continuum_jobs.queue import (
     DependencyCycleError,
+    JobOwnershipLostError,
+    StaleJobStateError,
     add_dependency,
     apply_pending_requests,
     block_job,
@@ -29,6 +32,7 @@ from continuum_jobs.queue import (
     compute_dedupe_key,
     enqueue,
     fail_job,
+    lock_job,
     record_event,
     request_cancel,
     request_pause,
@@ -52,7 +56,9 @@ __all__ = [
     "HandlerRegistry",
     "JobContext",
     "JobHandler",
+    "JobOwnershipLostError",
     "LeaseHeartbeat",
+    "StaleJobStateError",
     "StopReason",
     "UnitOutcome",
     "UnitSpec",
@@ -70,10 +76,12 @@ __all__ = [
     "hardware_signature",
     "heartbeat",
     "is_terminal",
+    "lock_job",
     "next_backoff_seconds",
     "plan_units",
     "reap_expired_leases",
     "record_event",
+    "record_ownership_loss",
     "register_worker",
     "registry",
     "renew_lease",

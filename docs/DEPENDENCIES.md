@@ -15,6 +15,12 @@ version, wrap it behind an adapter, add a smoke/contract test, record it here.
 Google, Cohere, Mistral, torch, transformers, faster-whisper, ctranslate2,
 llama-cpp or ollama. Not one.
 
+Phase 1 keeps that true. Its rough renderer is `fake.deterministic-sketch`, a
+Pillow drawing of the recipe registered under `Capability.ROUGH_RENDER`; no
+ComfyUI, no Remotion, no model weights. Phase 1 adds no third-party package
+other than Pillow (below); `continuum_library` and `continuum_production` are
+workspace packages.
+
 That is deliberate (D-12), and it is what makes acceptance test **§110.12**
 ("providers work with a no-op/local fake; no paid/cloud credentials are
 required") verifiable *from this file* rather than by auditing code paths.

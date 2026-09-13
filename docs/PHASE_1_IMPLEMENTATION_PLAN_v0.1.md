@@ -1,6 +1,6 @@
 # Continuum — Phase 1 Implementation Plan v0.1
 
-**Status:** PROPOSED — awaiting review before the large implementation pass
+**Status:** PROPOSED — M1 and M2 were implemented on this branch; the decisions taken on the open questions below are recorded in `docs/PHASE_1_M1_M2_IMPLEMENTATION_REPORT.md` §2
 **Date:** 2026-09-13
 **Baseline:** `master` = `continuum-phase-0` = `91025d7a7600ade2959422bf7f0a6d4499a8beb8`
 **Branch:** `phase-1/integrated-candidate`

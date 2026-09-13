@@ -1,10 +1,10 @@
 # The Arrivals — S1E1 `Not This Time` — Draft 1 v0.1
 
-**Status:** DRAFT / REVIEW — not approved canon yet  
+**Status:** APPROVED STORY — approved after human Story Room review; no story-content revisions  
 **Date:** 2026-09-13  
 **Project:** `The Arrivals`  
 **Source:** built directly from the approved / locked S1E1 scene cards in `THE_ARRIVALS_S1E1_NOT_THIS_TIME_v0.1.md`  
-**Next gate:** Story Room review -> revised Draft 1 / approval -> Manga Panel Script
+**Next gate:** Manga Panel Script
 
 This is the first continuous episode draft. It intentionally does **not** assign manga pages, panel counts, shot counts, runtime, or animation tiers yet.
 

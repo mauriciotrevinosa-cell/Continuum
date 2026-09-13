@@ -1,0 +1,39 @@
+# Continuum Phase 0 - DATABASE ONLY (D-03 / FOUNDATION_APPROVAL OQ-1).
+#
+# The API, worker and web app run natively via `uv` and `pnpm`. Only
+# PostgreSQL is containerised, because pgvector is unpleasant to build
+# natively on Windows while the Python and Node sides are pleasant to run
+# and debug directly.
+#
+# The data directory is a NAMED VOLUME, never a bind mount into this
+# repository: a PostgreSQL data directory must not live under OneDrive or
+# any other sync folder (OQ-2).
+
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: continuum-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: continuum
+      POSTGRES_PASSWORD: continuum_local_dev
+      POSTGRES_DB: continuum
+      # Deterministic collation so index ordering does not drift between
+      # a developer machine and the audit environment.
+      POSTGRES_INITDB_ARGS: "--locale=C --encoding=UTF8"
+    ports:
+      # Bound to loopback explicitly. 5433 avoids colliding with a native
+      # PostgreSQL on the default 5432.
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - continuum_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U continuum -d continuum"]
+      interval: 3s
+      timeout: 5s
+      retries: 20
+      start_period: 10s
+
+volumes:
+  continuum_pgdata:
+    name: continuum_pgdata

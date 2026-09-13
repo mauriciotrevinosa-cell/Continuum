@@ -1,0 +1,14 @@
+[project]
+name = "continuum-config"
+version = "0.0.0"
+description = "Typed settings, secret registration, and boot validation."
+requires-python = ">=3.12,<3.13"
+dependencies = ["continuum-core", "continuum-observability", "pydantic>=2.9", "pydantic-settings>=2.6"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv.sources]
+continuum-core = { workspace = true }
+continuum-observability = { workspace = true }

@@ -1,0 +1,15 @@
+[project]
+name = "continuum-storage"
+version = "0.0.0"
+description = "The only module permitted filesystem access."
+requires-python = ">=3.12,<3.13"
+dependencies = ["continuum-core", "continuum-config", "continuum-observability"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv.sources]
+continuum-config = { workspace = true }
+continuum-core = { workspace = true }
+continuum-observability = { workspace = true }

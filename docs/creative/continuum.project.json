@@ -1,0 +1,149 @@
+{
+  "schema": "continuum.project/1",
+  "id": "the-arrivals",
+  "title": "The Arrivals",
+  "kind": "crossover",
+  "status": "active",
+  "logline": "Continuum no importa franquicias. Importa personas.",
+  "description": "The flagship personal project developed inside Continuum. It is developed manga-first: approved story structure becomes a draft, a panel script, rough and final manga, and only then an anime adaptation.",
+  "_note": "This manifest is the explicit registry of the project's documents. Lifecycle values transcribe the standing each document's author recorded in its own Status line; changing a lifecycle here is how a document is approved, locked or superseded. A Markdown file matched by 'discover' but not listed below appears as unfiled and is never treated as approved.",
+  "discover": ["THE_ARRIVALS_*.md"],
+  "documents": [
+    {
+      "id": "s1e1-not-this-time",
+      "path": "THE_ARRIVALS_S1E1_NOT_THIS_TIME_v0.1.md",
+      "title": "S1E1 — Not This Time · Story structure",
+      "category": "structure",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "version": "0.1",
+      "lineage": "s1e1-structure",
+      "episode": "S1E1",
+      "summary": "The approved scene-card structure for the opening episode: sixteen scenes in their accepted dramatic sequence. Page count, runtime, panel and shot counts and final lines are not locked."
+    },
+    {
+      "id": "s1e1-draft-1",
+      "path": "THE_ARRIVALS_S1E1_DRAFT_1_v0.1.md",
+      "title": "S1E1 — Not This Time · Draft 1",
+      "category": "draft",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "version": "0.1",
+      "lineage": "s1e1-draft",
+      "episode": "S1E1",
+      "derived_from": "s1e1-not-this-time",
+      "summary": "Draft 1, derived from the approved scene-card structure, was approved after human Story Room review with no content revisions. It is now the approved story draft feeding the Manga Panel Script."
+    },
+    {
+      "id": "opening-groups",
+      "path": "THE_ARRIVALS_OPENING_GROUPS_v0.1.md",
+      "title": "Opening Groups",
+      "category": "arc",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "version": "0.1",
+      "lineage": "opening-groups",
+      "summary": "Opening-season arrival structure, Group 1 and arrival-state rules."
+    },
+    {
+      "id": "opening-group-2",
+      "path": "THE_ARRIVALS_OPENING_GROUP2_v0.1.md",
+      "title": "Opening Group 2",
+      "category": "arc",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "version": "0.1",
+      "lineage": "opening-group-2",
+      "summary": "Group 2 composition, the opening hook and cross-world language behaviour."
+    },
+    {
+      "id": "group-3-direction",
+      "path": "THE_ARRIVALS_GROUP3_DIRECTION_v0.1.md",
+      "title": "Group 3 Direction",
+      "category": "arc",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "version": "0.1",
+      "lineage": "group-3",
+      "summary": "Group 3 composition, late-season introduction and convergence. Scene-level execution remains open."
+    },
+    {
+      "id": "main-story-spine",
+      "path": "THE_ARRIVALS_MAIN_STORY_SPINE_v0.1.md",
+      "title": "Main Story Spine",
+      "category": "spine",
+      "section": "story",
+      "lifecycle": "REVIEW",
+      "version": "0.1",
+      "lineage": "main-story-spine",
+      "summary": "Broad Season 1–3 narrative spine and escalation logic. High-confidence direction; expandable, not scene-locked."
+    },
+    {
+      "id": "creative-direction-v0-3",
+      "path": "THE_ARRIVALS_CREATIVE_DIRECTION_v0.3.md",
+      "title": "Creative Direction",
+      "category": "direction",
+      "section": "story",
+      "lifecycle": "REVIEW",
+      "version": "0.3",
+      "lineage": "creative-direction",
+      "supersedes": "creative-direction-v0-2",
+      "summary": "Consolidated creative direction. Concept-level canon only where explicitly marked inside."
+    },
+    {
+      "id": "creative-direction-v0-2",
+      "path": "THE_ARRIVALS_CREATIVE_DIRECTION_v0.2.md",
+      "title": "Creative Direction",
+      "category": "direction",
+      "section": "story",
+      "lifecycle": "SUPERSEDED",
+      "version": "0.2",
+      "lineage": "creative-direction",
+      "supersedes": "creative-direction-v0-1"
+    },
+    {
+      "id": "creative-direction-v0-1",
+      "path": "THE_ARRIVALS_CREATIVE_DIRECTION_v0.1.md",
+      "title": "Creative Direction",
+      "category": "direction",
+      "section": "story",
+      "lifecycle": "SUPERSEDED",
+      "version": "0.1",
+      "lineage": "creative-direction"
+    },
+    {
+      "id": "season-arc-notes",
+      "path": "THE_ARRIVALS_SEASON_ARC_NOTES_v0.1.md",
+      "title": "Season Arc Notes",
+      "category": "notes",
+      "section": "extra",
+      "lifecycle": "IDEA",
+      "version": "0.1",
+      "lineage": "season-arc-notes",
+      "summary": "Exploratory, preserved brainstorm. Not canon unless a later document promotes it."
+    },
+    {
+      "id": "manga-first-workflow",
+      "path": "THE_ARRIVALS_MANGA_FIRST_WORKFLOW_v0.1.md",
+      "title": "Manga-First Production Workflow",
+      "category": "workflow",
+      "section": "production",
+      "lifecycle": "REVIEW",
+      "version": "0.1",
+      "lineage": "manga-first-workflow",
+      "summary": "How approved story structure becomes manga, then anime, without skipping validation gates."
+    }
+  ],
+  "pipeline": [
+    { "id": "structure", "title": "Story structure", "track": "story", "description": "The approved dramatic structure of an episode." },
+    { "id": "draft", "title": "Draft", "track": "story", "description": "The written episode, versioned; a redo is a new version, never an overwrite." },
+    { "id": "panel-script", "title": "Panel script", "track": "manga", "description": "Pages and panels planned from the draft." },
+    { "id": "rough-manga", "title": "Rough manga", "track": "manga", "description": "Rough pages for review and corrections." },
+    { "id": "final-manga", "title": "Final manga", "track": "manga", "description": "Finished pages." },
+    { "id": "chapter-approval", "title": "Chapter approval", "track": "manga", "description": "The chapter is approved and locked." },
+    { "id": "adaptation-draft", "title": "Anime adaptation draft", "track": "anime", "description": "The approved chapter adapted for animation." },
+    { "id": "animatic", "title": "Animatic and shot plan", "track": "anime", "description": "Timing, shots and their S/A/B/C/D tiers." },
+    { "id": "production", "title": "Animation production", "track": "anime", "description": "Shots produced as durable, inspectable jobs." },
+    { "id": "episode-review", "title": "Episode review", "track": "anime", "description": "The assembled episode, reviewed against its shots and approvals." }
+  ]
+}

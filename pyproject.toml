@@ -1,0 +1,106 @@
+[project]
+name = "continuum"
+version = "0.0.0"
+description = "Project Continuum - local-first Source Vault and multiverse story studio (Phase 0 foundation)"
+requires-python = ">=3.12,<3.13"
+license = { text = "UNLICENSED" }
+
+# The workspace root depends on every member so `uv sync` produces one
+# environment with all packages installed editable.
+dependencies = [
+    "continuum-core",
+    "continuum-observability",
+    "continuum-config",
+    "continuum-storage",
+    "continuum-db",
+    "continuum-jobs",
+    "continuum-providers",
+    "continuum-api",
+    "continuum-worker",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+    "pytest-timeout>=2.3",
+    "hypothesis>=6.112",
+    "httpx>=0.27",
+    "ruff>=0.8",
+    "mypy>=1.13",
+    "import-linter>=2.1",
+    "types-psycopg2>=2.9",
+]
+
+[tool.uv.workspace]
+members = ["packages/*", "apps/api", "workers/runner"]
+
+[tool.uv.sources]
+continuum-core = { workspace = true }
+continuum-observability = { workspace = true }
+continuum-config = { workspace = true }
+continuum-storage = { workspace = true }
+continuum-db = { workspace = true }
+continuum-jobs = { workspace = true }
+continuum-providers = { workspace = true }
+continuum-api = { workspace = true }
+continuum-worker = { workspace = true }
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+bypass-selection = true
+
+# ---------------------------------------------------------------------------
+# Lint / format
+# ---------------------------------------------------------------------------
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+extend-exclude = ["packages/db/src/continuum_db/migrations/versions"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "A", "C4", "PTH", "RUF", "S", "T20"]
+ignore = [
+    "S101",   # assert is fine in tests and internal invariants
+    "RUF012", # mutable class attrs without ClassVar: noisy with SQLAlchemy
+]
+
+[tool.ruff.lint.per-file-ignores]
+# The storage package is the ONLY module permitted raw filesystem access
+# (ADR-0001 Layer 3). PTH/S bans that exist to push callers toward the
+# storage abstraction do not apply to the abstraction itself.
+"packages/storage/src/continuum_storage/*" = ["PTH", "S108"]
+"tests/*" = ["S", "PTH", "T20"]
+"scripts/*" = ["T20", "PTH", "S"]
+
+# ---------------------------------------------------------------------------
+# Types
+# ---------------------------------------------------------------------------
+[tool.mypy]
+python_version = "3.12"
+strict = true
+warn_unreachable = true
+plugins = []
+exclude = ["packages/db/src/continuum_db/migrations/versions/.*"]
+
+[[tool.mypy.overrides]]
+module = ["tests.*"]
+strict = false
+disallow_untyped_defs = false
+
+# ---------------------------------------------------------------------------
+# Tests
+# ---------------------------------------------------------------------------
+[tool.pytest.ini_options]
+testpaths = ["tests", "packages"]
+pythonpath = ["."]
+addopts = "-q --strict-markers"
+timeout = 300
+markers = [
+    "requires_db: needs a live PostgreSQL from docker compose",
+    "windows_only: exercises Windows-specific path semantics",
+    "posix_only: exercises POSIX-specific path semantics",
+    "slow: takes more than a few seconds",
+]

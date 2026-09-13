@@ -1,0 +1,1 @@
+A second synthetic note, used to prove multi-file iteration.

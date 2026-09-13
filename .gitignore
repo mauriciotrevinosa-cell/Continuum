@@ -42,3 +42,21 @@ Desktop.ini
 .DS_Store
 .idea/
 .vscode/
+
+# Node / Next.js
+.next/
+out/
+next-env.d.ts
+
+# uv / Python env
+.venv/
+uv.lock.bak
+
+# Local overrides
+docker-compose.override.yml
+
+# Generated at CI time from the running app; the TS client IS committed.
+/openapi.json
+# Build artifact, regenerated on every build.
+apps/web/tsconfig.tsbuildinfo
+apps/web/.openapi.json

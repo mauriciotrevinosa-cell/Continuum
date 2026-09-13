@@ -27,12 +27,12 @@
       "title": "S1E1 — Not This Time · Draft 1",
       "category": "draft",
       "section": "story",
-      "lifecycle": "DRAFT",
+      "lifecycle": "APPROVED",
       "version": "0.1",
       "lineage": "s1e1-draft",
       "episode": "S1E1",
       "derived_from": "s1e1-not-this-time",
-      "summary": "Draft 1 derived from the approved scene-card structure. Currently under human review; not approved canon."
+      "summary": "Draft 1, derived from the approved scene-card structure, was approved after human Story Room review with no content revisions. It is now the approved story draft feeding the Manga Panel Script."
     },
     {
       "id": "opening-groups",

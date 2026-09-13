@@ -15,18 +15,14 @@ env:
 
 jobs:
   python:
-    name: Python (${{ matrix.os }})
-    runs-on: ${{ matrix.os }}
-    strategy:
-      fail-fast: false
-      matrix:
-        # BOTH platforms, deliberately. FOUNDATION_APPROVAL OQ-6: the
-        # Windows-specific path-security tests must not be silently skipped
-        # and then counted as a full pass, and the symlink tests need a
-        # POSIX runner because Windows denies symlink creation without
-        # Developer Mode. Neither platform alone gives complete coverage.
-        os: [ubuntu-latest, windows-latest]
+    name: Python (ubuntu-latest, PostgreSQL)
+    runs-on: ubuntu-latest
 
+    # The database-backed suite runs here. GitHub Actions starts service
+    # containers on Linux runners only ("Container operations are only
+    # supported on Linux runners"), and the migrations need the pgvector
+    # image, so PostgreSQL is proven on this job. Windows path semantics are
+    # proven by the python-windows job below.
     services:
       postgres:
         image: pgvector/pgvector:pg16
@@ -81,6 +77,45 @@ jobs:
             exit 1
           fi
 
+  python-windows:
+    name: Python (windows-latest, path semantics)
+    runs-on: windows-latest
+
+    # FOUNDATION_APPROVAL OQ-6: Windows path-security tests (junctions,
+    # alternate data streams, 8.3 short names, device names, UNC and
+    # extended-length prefixes) must run on Windows and must not be silently
+    # skipped and counted as a pass. No service container: GitHub cannot run
+    # one on a Windows runner, and the database suite is proven on Linux.
+    # Tests that need PostgreSQL skip here by design; the assertion step
+    # below makes sure the Windows-specific ones did not.
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Sync (Python 3.12 pinned, D-04)
+        run: uv sync --python 3.12 --frozen
+
+      - name: Tests (no database)
+        run: uv run pytest -q
+
+      - name: Assert the Windows path-security suite actually ran
+        shell: bash
+        run: |
+          uv run pytest tests/acceptance/test_110_03_path_normalization.py \
+            tests/acceptance/test_110_04_traversal.py -q -rs | tee windows-paths.txt
+          if grep -q "must be run on the Windows machine" windows-paths.txt; then
+            echo "::error::Windows-specific path tests were skipped on the Windows runner."
+            exit 1
+          fi
+          if grep -qi "mklink /J unavailable" windows-paths.txt; then
+            echo "::error::The junction escape test could not create a junction."
+            exit 1
+          fi
+
   offline:
     name: Offline / no-credential run (110.12)
     runs-on: ubuntu-latest
@@ -126,18 +161,18 @@ jobs:
       - run: uv sync --python 3.12 --frozen
       - run: pnpm install --frozen-lockfile
       - name: Regenerate the TypeScript client and fail on any diff
+        # The same two commands a developer runs (`pnpm api:client`). The
+        # export writes apps/web/.openapi.json because pnpm --filter runs the
+        # generator from inside apps/web; both sides agree on that path.
         shell: bash
         env:
           CONTINUUM_DATA_HOME: ${{ github.workspace }}/.ci-data
           CONTINUUM_SOURCE_VAULT_ROOT: ${{ github.workspace }}/fixtures/demo_vault
         run: |
-          uv run python -c "
-          import json, pathlib
-          from continuum_api import create_app
-          spec = create_app().openapi()
-          pathlib.Path('openapi.json').write_text(json.dumps(spec, indent=2, sort_keys=True))
-          "
-          pnpm --filter @continuum/web exec openapi-typescript openapi.json \
-            -o apps/web/lib/api/generated/schema.d.ts
-          git diff --exit-code -- apps/web/lib/api/generated/ \
-            || { echo "::error::Generated API client is stale. Run the same command and commit."; exit 1; }
+          uv run python scripts/export_openapi.py
+          pnpm --filter @continuum/web api:client
+          if ! git diff --exit-code -- apps/web/lib/api/generated/ \
+             || [ -n "$(git status --porcelain --untracked-files=all -- apps/web/lib/api/generated/)" ]; then
+            echo "::error::Generated API client is stale. Run 'pnpm api:client' and commit."
+            exit 1
+          fi

@@ -110,6 +110,19 @@ class TestCandidateValidation:
         with pytest.raises(PathEscapesRootError):
             validate_relative_candidate(candidate)
 
+    def test_verdicts_do_not_depend_on_the_host_platform(self) -> None:
+        r"""A backslash is a separator on every platform, never a character.
+
+        On POSIX a native parser read "\\server\share" and "\windows" as
+        plain relative names; the same strings name a UNC share and a drive
+        root on Windows. CI runs this on both.
+        """
+        assert validate_relative_candidate(r"a\b\c.txt").parts == ("a", "b", "c.txt")
+        assert validate_relative_candidate(r"a/b\c.txt").parts == ("a", "b", "c.txt")
+        for candidate in (r"\windows\system32", r"\\server\share\file", r"a\..\..\x"):
+            with pytest.raises(PathEscapesRootError):
+                validate_relative_candidate(candidate)
+
     def test_every_reserved_device_name_is_rejected(self) -> None:
         for name in RESERVED_DEVICE_NAMES:
             with pytest.raises(PathEscapesRootError):

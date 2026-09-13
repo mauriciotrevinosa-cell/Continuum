@@ -9,7 +9,7 @@
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
-    "api:client": "openapi-typescript http://127.0.0.1:8000/openapi.json -o lib/api/generated/schema.d.ts"
+    "api:client": "openapi-typescript .openapi.json -o lib/api/generated/schema.d.ts"
   },
   "dependencies": {
     "next": "15.1.6",

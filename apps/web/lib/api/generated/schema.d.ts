@@ -160,6 +160,343 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/library/acquisition": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Overview
+         * @description Everything the Library Acquisition landing screen needs in one call.
+         */
+        get: operations["overview_library_acquisition_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/calendar": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Calendar
+         * @description Dated events for the library: what was published, and what was seen.
+         *
+         *     Upcoming dates are absent on purpose: no registered source publishes a
+         *     release schedule yet, and an empty future is honest where a guessed one
+         *     would not be.
+         */
+        get: operations["calendar_library_acquisition_calendar_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/families": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Families */
+        get: operations["list_families_library_acquisition_families_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/families/{family_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Family Detail */
+        get: operations["family_detail_library_acquisition_families__family_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/intake": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Intake */
+        get: operations["intake_library_acquisition_intake_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/intake/refresh": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Refresh Intake
+         * @description Re-read the intake. A dry run: it can only report, never import.
+         */
+        post: operations["refresh_intake_library_acquisition_intake_refresh_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/queue": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Queue
+         * @description One page of the queue, grouped by the reason to acquire each work.
+         *
+         *     Paged rather than whole: a queue is as long as the library is incomplete,
+         *     and a screen that renders every row scales its cost with someone else's
+         *     backlog. The counts describe the whole filtered set, so the page below
+         *     them is never mistaken for all of it.
+         */
+        get: operations["queue_library_acquisition_queue_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/refresh": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Refresh
+         * @description Re-read the Vault and rebuild every document.
+         *
+         *     Read-only over the library: it walks the Vault, recomputes coverage and
+         *     rewrites the reports. Nothing in the Vault is modified. Content hashing is
+         *     skipped: it serves duplicate detection, not coverage, and after a large
+         *     download it would turn a refresh of seconds into one of many minutes.
+         */
+        post: operations["refresh_library_acquisition_refresh_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/scaffold": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Scaffold Plan
+         * @description Folders the library is missing, from the last recorded layout.
+         */
+        get: operations["scaffold_plan_library_acquisition_scaffold_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/scaffold/plan": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Refresh Scaffold Plan
+         * @description Recompute the plan. A dry run: creating folders stays a CLI action,
+         *     because the Source Vault is read-only to Continuum (ADR-0001).
+         */
+        post: operations["refresh_scaffold_plan_library_acquisition_scaffold_plan_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/sources": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Sources */
+        get: operations["list_sources_library_acquisition_sources_get"];
+        put?: never;
+        /**
+         * Add Source
+         * @description Register a source. The engine decides whether it is acceptable.
+         */
+        post: operations["add_source_library_acquisition_sources_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/sources/{source_id}/disable": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Disable Source */
+        post: operations["disable_source_library_acquisition_sources__source_id__disable_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/sources/{source_id}/enable": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Enable Source */
+        post: operations["enable_source_library_acquisition_sources__source_id__enable_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/sources/{source_id}/remove": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Remove Source
+         * @description POST rather than DELETE: the API allows only GET and POST (CORS, A-03).
+         */
+        post: operations["remove_source_library_acquisition_sources__source_id__remove_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/sources/{source_id}/test": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Test Source */
+        post: operations["test_source_library_acquisition_sources__source_id__test_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/status": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Status Only
+         * @description How things stand, how old the data is, and whether the Vault moved since.
+         *
+         *     Every screen shows this, so it must not pay for the whole overview.
+         */
+        get: operations["status_only_library_acquisition_status_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/acquisition/updates": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Updates */
+        get: operations["updates_library_acquisition_updates_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/ready": {
         parameters: {
             query?: never;
@@ -252,6 +589,151 @@ export type webhooks = Record<string, never>;
 export interface components {
     schemas: {
         /**
+         * AcquisitionActionResult
+         * @description What an action did, plus the command so it can be repeated by hand.
+         */
+        AcquisitionActionResult: {
+            /**
+             * Command
+             * @default
+             */
+            command: string;
+            /**
+             * Exit Code
+             * @default 0
+             */
+            exit_code: number;
+            /** Message */
+            message: string;
+            /** Ok */
+            ok: boolean;
+            /**
+             * Output
+             * @default
+             */
+            output: string;
+        };
+        /** AcquisitionOverview */
+        AcquisitionOverview: {
+            /** Alerts */
+            alerts?: components["schemas"]["UpdateAlert"][];
+            /** Families */
+            families?: components["schemas"]["FamilyProgress"][];
+            hero?: components["schemas"]["LibraryHero"];
+            /**
+             * Intake Pending
+             * @default 0
+             */
+            intake_pending: number;
+            /** Next Steps */
+            next_steps?: components["schemas"]["NextStep"][];
+            /** Queue Preview */
+            queue_preview?: components["schemas"]["QueueItem"][];
+            /** Recently Added */
+            recently_added?: components["schemas"]["RecentAddition"][];
+            /** Relations */
+            relations?: {
+                [key: string]: number;
+            };
+            /**
+             * Review Count
+             * @default 0
+             */
+            review_count: number;
+            /**
+             * Sources Enabled
+             * @default 0
+             */
+            sources_enabled: number;
+            /**
+             * Sources Total
+             * @default 0
+             */
+            sources_total: number;
+            status: components["schemas"]["AcquisitionStatus"];
+            /** Totals */
+            totals?: {
+                [key: string]: number;
+            };
+        };
+        /**
+         * AcquisitionStatus
+         * @description Whether acquisition is set up at all, and how fresh its data is.
+         */
+        AcquisitionStatus: {
+            /** Available */
+            available: boolean;
+            /** Cli Available */
+            cli_available: boolean;
+            /**
+             * Cli Path
+             * @default
+             */
+            cli_path: string;
+            /** Configured */
+            configured: boolean;
+            /** Data Dir */
+            data_dir: string;
+            /** Documents */
+            documents?: components["schemas"]["DocumentStatus"][];
+            freshness?: components["schemas"]["Freshness"];
+            /** Generated At */
+            generated_at?: string | null;
+            /**
+             * Library Bytes
+             * @default 0
+             */
+            library_bytes: number;
+            /**
+             * Library Files
+             * @default 0
+             */
+            library_files: number;
+            /**
+             * Vault Root
+             * @default
+             */
+            vault_root: string;
+        };
+        /**
+         * AddSourceRequest
+         * @description A web source the user points Continuum at.
+         *
+         *     Web only, deliberately. A local folder is a raw filesystem path, and the
+         *     Phase 0 API takes none from a client (F-50) - naming the field `url` would
+         *     not change what it carries. Local-folder sources stay supported in the
+         *     model and are registered by the local tooling, which writes the same
+         *     registry; the browser then reads and shows them like any other source.
+         */
+        AddSourceRequest: {
+            /** Access */
+            access?: ("FREE_OFFICIAL_WEB" | "SUBSCRIPTION_WEB" | "PAID_WEB" | "DRM_EBOOK" | "DRM_FREE_PURCHASE" | "DIRECT_DOWNLOAD_AUTHORIZED" | "LIBRARY_LENDING" | "STREAMING" | "PHYSICAL_ONLY") | null;
+            /** Adapter */
+            adapter?: ("web" | "bibliographic") | null;
+            /**
+             * Download Permitted
+             * @default false
+             */
+            download_permitted: boolean;
+            /** Name */
+            name?: string | null;
+            /** Note */
+            note?: string | null;
+            /** Roles */
+            roles?: ("store-search-en" | "store-search-ja" | "anime-streaming")[];
+            /** Search */
+            search?: string | null;
+            /** Source Id */
+            source_id?: string | null;
+            /**
+             * Test
+             * @default true
+             */
+            test: boolean;
+            /** Url */
+            url: string;
+        };
+        /**
          * BlockedReason
          * @description Why a job is blocked (F-24).
          *
@@ -263,6 +745,22 @@ export interface components {
          * @enum {string}
          */
         BlockedReason: "DEPENDENCY" | "MISSING_PROVIDER" | "MISSING_MODEL" | "MISSING_SOURCE_ASSET" | "AWAITING_APPROVAL" | "RESOURCE_UNAVAILABLE";
+        /** DocumentStatus */
+        DocumentStatus: {
+            /** Error */
+            error?: string | null;
+            /** Generated At */
+            generated_at?: string | null;
+            /** Name */
+            name: string;
+            /** Present */
+            present: boolean;
+            /**
+             * Size Bytes
+             * @default 0
+             */
+            size_bytes: number;
+        };
         /**
          * EnqueueJobRequest
          * @description Enqueue a job.
@@ -293,6 +791,206 @@ export interface components {
              * @default cpu
              */
             resource_class: string;
+        };
+        /**
+         * EpisodeRun
+         * @description Episodes of one season, as the file names state them.
+         */
+        EpisodeRun: {
+            /**
+             * Episodes
+             * @default 0
+             */
+            episodes: number;
+            /**
+             * Episodes Text
+             * @default
+             */
+            episodes_text: string;
+            /**
+             * Gaps Text
+             * @default
+             */
+            gaps_text: string;
+            /** Season */
+            season?: number | null;
+        };
+        /** FamilyDetail */
+        FamilyDetail: {
+            family: components["schemas"]["FamilyProgress"];
+            /** Findings */
+            findings?: {
+                [key: string]: unknown;
+            }[];
+            /** Works */
+            works?: components["schemas"]["WorkRow"][];
+        };
+        /**
+         * FamilyProgress
+         * @description One source family: how much of it is actually in the library.
+         */
+        FamilyProgress: {
+            /** Aliases */
+            aliases?: string[];
+            /**
+             * Attention
+             * @default 0
+             */
+            attention: number;
+            /**
+             * Bytes
+             * @default 0
+             */
+            bytes: number;
+            /** Category */
+            category?: string | null;
+            /** Classes */
+            classes?: string[];
+            /**
+             * Complete
+             * @default 0
+             */
+            complete: number;
+            /**
+             * Files
+             * @default 0
+             */
+            files: number;
+            /**
+             * Folder Exists
+             * @default false
+             */
+            folder_exists: boolean;
+            /** Id */
+            id: string;
+            /** Last Added At */
+            last_added_at?: string | null;
+            /** Materials */
+            materials?: components["schemas"]["MaterialSummary"][];
+            /** Medium */
+            medium?: string | null;
+            /**
+             * Missing
+             * @default 0
+             */
+            missing: number;
+            /**
+             * Missing Folders
+             * @default 0
+             */
+            missing_folders: number;
+            /**
+             * Needs Mapping
+             * @default 0
+             */
+            needs_mapping: number;
+            /**
+             * Origin
+             * @default curated
+             */
+            origin: string;
+            /**
+             * Partial
+             * @default 0
+             */
+            partial: number;
+            /**
+             * Path
+             * @default
+             */
+            path: string;
+            /**
+             * Present
+             * @default 0
+             */
+            present: number;
+            /** Relations */
+            relations?: {
+                [key: string]: number;
+            };
+            /**
+             * Review
+             * @default 0
+             */
+            review: number;
+            /**
+             * Review Status
+             * @default ACCEPTED
+             */
+            review_status: string;
+            /**
+             * Stale
+             * @default false
+             */
+            stale: boolean;
+            /**
+             * State
+             * @default EMPTY
+             */
+            state: ("COMPLETE" | "PARTIAL" | "PRESENT" | "MISSING" | "NEEDS_MAPPING" | "UNVERIFIED" | "STALE") | ("UNCATALOGUED" | "EMPTY");
+            /**
+             * Story Held
+             * @default 0
+             */
+            story_held: number;
+            /**
+             * Story Works
+             * @default 0
+             */
+            story_works: number;
+            /**
+             * Supplements
+             * @default 0
+             */
+            supplements: number;
+            /**
+             * Supplements Held
+             * @default 0
+             */
+            supplements_held: number;
+            /** Title */
+            title: string;
+            /**
+             * Unknown
+             * @default 0
+             */
+            unknown: number;
+            /**
+             * Works Total
+             * @default 0
+             */
+            works_total: number;
+        };
+        /**
+         * Freshness
+         * @description How current the documents are, stated in three independent clocks.
+         */
+        Freshness: {
+            /** Catalogue Refreshed At */
+            catalogue_refreshed_at?: string | null;
+            /** Changed Families */
+            changed_families?: string[];
+            /** Changed Folders */
+            changed_folders?: string[];
+            /**
+             * Detail
+             * @default
+             */
+            detail: string;
+            /** Documents Generated At */
+            documents_generated_at?: string | null;
+            /** Library Scanned At */
+            library_scanned_at?: string | null;
+            /**
+             * State
+             * @default empty
+             * @enum {string}
+             */
+            state: "fresh" | "stale" | "unknown" | "empty";
+            /** Unhashed Files */
+            unhashed_files?: number | null;
+            /** Vault Changed */
+            vault_changed?: boolean | null;
         };
         /** HTTPValidationError */
         HTTPValidationError: {
@@ -332,6 +1030,74 @@ export interface components {
             };
             /** Version */
             version: string;
+        };
+        /** IntakeUnit */
+        IntakeUnit: {
+            /**
+             * Action
+             * @default
+             */
+            action: string;
+            /** Classified By */
+            classified_by?: string | null;
+            /**
+             * Colored
+             * @default false
+             */
+            colored: boolean;
+            /** Family */
+            family?: string | null;
+            /**
+             * Files
+             * @default 0
+             */
+            files: number;
+            /** Languages */
+            languages?: string[];
+            /** Path */
+            path: string;
+            /**
+             * Section
+             * @default identify
+             */
+            section: string;
+            /** Series */
+            series?: string[];
+            /** Source */
+            source: string;
+            /** Unit */
+            unit: string;
+            /** Unofficial Provenance */
+            unofficial_provenance?: string[];
+            /** Work */
+            work?: string | null;
+        };
+        /** IntakeView */
+        IntakeView: {
+            /** Conflicts */
+            conflicts?: {
+                [key: string]: unknown;
+            }[];
+            /** Counts */
+            counts?: {
+                [key: string]: number;
+            };
+            /** Duplicates */
+            duplicates?: {
+                [key: string]: unknown;
+            }[];
+            /** Intake Dirs */
+            intake_dirs?: string[];
+            /** Mode */
+            mode?: string | null;
+            /** Proposed Moves */
+            proposed_moves?: {
+                [key: string]: unknown;
+            }[];
+            /** Review */
+            review?: components["schemas"]["ReviewItem"][];
+            /** Units */
+            units?: components["schemas"]["IntakeUnit"][];
         };
         /**
          * JobDetail
@@ -500,6 +1266,341 @@ export interface components {
             updated_at: string;
         };
         /**
+         * LibraryHero
+         * @description The first thing the Library says about itself.
+         */
+        LibraryHero: {
+            /**
+             * Attention Families
+             * @default 0
+             */
+            attention_families: number;
+            /**
+             * Bytes
+             * @default 0
+             */
+            bytes: number;
+            /**
+             * Complete
+             * @default 0
+             */
+            complete: number;
+            /**
+             * Complete Families
+             * @default 0
+             */
+            complete_families: number;
+            /**
+             * Families
+             * @default 0
+             */
+            families: number;
+            /**
+             * Files
+             * @default 0
+             */
+            files: number;
+            /**
+             * Missing
+             * @default 0
+             */
+            missing: number;
+            /**
+             * Needs Mapping
+             * @default 0
+             */
+            needs_mapping: number;
+            /**
+             * Partial
+             * @default 0
+             */
+            partial: number;
+            /**
+             * Present
+             * @default 0
+             */
+            present: number;
+            /**
+             * Stale
+             * @default 0
+             */
+            stale: number;
+            /**
+             * Story Works
+             * @default 0
+             */
+            story_works: number;
+            /**
+             * Unverified
+             * @default 0
+             */
+            unverified: number;
+        };
+        /**
+         * MaterialSummary
+         * @description One kind of material within a family: what is held and what is not.
+         */
+        MaterialSummary: {
+            /**
+             * Bytes
+             * @default 0
+             */
+            bytes: number;
+            /**
+             * Complete
+             * @default 0
+             */
+            complete: number;
+            /**
+             * Files
+             * @default 0
+             */
+            files: number;
+            /** Last Added At */
+            last_added_at?: string | null;
+            /** Material Class */
+            material_class: string;
+            /**
+             * Missing
+             * @default 0
+             */
+            missing: number;
+            /**
+             * Needs Mapping
+             * @default 0
+             */
+            needs_mapping: number;
+            /**
+             * Partial
+             * @default 0
+             */
+            partial: number;
+            /**
+             * Present
+             * @default 0
+             */
+            present: number;
+            /**
+             * Stale
+             * @default 0
+             */
+            stale: number;
+            /** State */
+            state: ("COMPLETE" | "PARTIAL" | "PRESENT" | "MISSING" | "NEEDS_MAPPING" | "UNVERIFIED" | "STALE") | ("UNCATALOGUED" | "EMPTY");
+            /**
+             * Story
+             * @default false
+             */
+            story: boolean;
+            /**
+             * Unmapped Files
+             * @default 0
+             */
+            unmapped_files: number;
+            /**
+             * Unverified
+             * @default 0
+             */
+            unverified: number;
+            /**
+             * Video Files
+             * @default 0
+             */
+            video_files: number;
+            /**
+             * Works
+             * @default 0
+             */
+            works: number;
+        };
+        /**
+         * NextStep
+         * @description One useful thing to do next, in plain words.
+         */
+        NextStep: {
+            /**
+             * Detail
+             * @default
+             */
+            detail: string;
+            /**
+             * Family Id
+             * @default
+             */
+            family_id: string;
+            /**
+             * Kind
+             * @enum {string}
+             */
+            kind: "refresh" | "map" | "finish" | "update" | "acquire" | "intake" | "review";
+            /** Title */
+            title: string;
+            /**
+             * Tone
+             * @default muted
+             * @enum {string}
+             */
+            tone: "ok" | "warn" | "err" | "info" | "muted" | "accent";
+            /**
+             * Work Id
+             * @default
+             */
+            work_id: string;
+        };
+        /**
+         * QueueGroup
+         * @description A reason to acquire something, with how many works share it.
+         */
+        QueueGroup: {
+            /**
+             * Count
+             * @default 0
+             */
+            count: number;
+            /**
+             * Description
+             * @default
+             */
+            description: string;
+            /** Key */
+            key: string;
+            /** Title */
+            title: string;
+            /**
+             * Tone
+             * @default muted
+             * @enum {string}
+             */
+            tone: "ok" | "warn" | "err" | "info" | "muted" | "accent";
+        };
+        /** QueueItem */
+        QueueItem: {
+            /** Availability */
+            availability?: string | null;
+            /** Best Source */
+            best_source?: string | null;
+            /**
+             * Chapters Held
+             * @default 0
+             */
+            chapters_held: number;
+            /** Chapters Total */
+            chapters_total?: number | null;
+            /** Coverage Status */
+            coverage_status?: string | null;
+            /**
+             * Downloadable
+             * @default false
+             */
+            downloadable: boolean;
+            /** Family */
+            family: string;
+            /**
+             * Family Id
+             * @default
+             */
+            family_id: string;
+            /**
+             * Group
+             * @default
+             */
+            group: string;
+            /** Material Class */
+            material_class?: string | null;
+            /**
+             * Missing Chapters
+             * @default
+             */
+            missing_chapters: string;
+            /** Notes */
+            notes?: string | null;
+            /**
+             * Priority
+             * @default 8
+             */
+            priority: number;
+            /** Reason */
+            reason?: string | null;
+            /** Relation */
+            relation?: string | null;
+            /** Requires Purchase */
+            requires_purchase?: string | null;
+            /**
+             * Requires User Action
+             * @default false
+             */
+            requires_user_action: boolean;
+            /** Search Title */
+            search_title?: string | null;
+            /** Search Titles */
+            search_titles?: string[];
+            /** Source Hits */
+            source_hits?: {
+                [key: string]: unknown;
+            }[];
+            /**
+             * State
+             * @default MISSING
+             * @enum {string}
+             */
+            state: "COMPLETE" | "PARTIAL" | "PRESENT" | "MISSING" | "NEEDS_MAPPING" | "UNVERIFIED" | "STALE";
+            /**
+             * Story
+             * @default false
+             */
+            story: boolean;
+            /** Url */
+            url?: string | null;
+            /** Work */
+            work: string;
+            /** Work Id */
+            work_id: string;
+        };
+        /**
+         * QueuePage
+         * @description A window onto the queue, plus what the whole filtered set looks like.
+         */
+        QueuePage: {
+            /** By Status */
+            by_status?: {
+                [key: string]: number;
+            };
+            /**
+             * Downloadable
+             * @default 0
+             */
+            downloadable: number;
+            /** Groups */
+            groups?: components["schemas"]["QueueGroup"][];
+            /** Items */
+            items?: components["schemas"]["QueueItem"][];
+            /**
+             * Limit
+             * @default 50
+             */
+            limit: number;
+            /**
+             * Needs Mapping
+             * @default 0
+             */
+            needs_mapping: number;
+            /**
+             * Needs You
+             * @default 0
+             */
+            needs_you: number;
+            /**
+             * Offset
+             * @default 0
+             */
+            offset: number;
+            /**
+             * Total
+             * @default 0
+             */
+            total: number;
+        };
+        /**
          * ReadyResponse
          * @description Readiness: whether dependencies this process needs are actually up.
          */
@@ -517,6 +1618,337 @@ export interface components {
             /** Storage Healthy */
             storage_healthy: boolean;
         };
+        /**
+         * RecentAddition
+         * @description A kind of material in a family that received files recently.
+         */
+        RecentAddition: {
+            /**
+             * Bytes
+             * @default 0
+             */
+            bytes: number;
+            /** Family */
+            family: string;
+            /** Family Id */
+            family_id: string;
+            /**
+             * Files
+             * @default 0
+             */
+            files: number;
+            /** Last Added At */
+            last_added_at: string;
+            /** Material Class */
+            material_class: string;
+            /**
+             * State
+             * @default
+             */
+            state: string;
+            /**
+             * Video Files
+             * @default 0
+             */
+            video_files: number;
+        };
+        /**
+         * ReleaseEvent
+         * @description One dated thing that happened (or was seen) for a work.
+         *
+         *     Two kinds, never mixed up: `published` is a real publication date from a
+         *     bibliographic record, `detected` is when this machine noticed a change.
+         *     Precision is carried explicitly because a legal-deposit record often
+         *     gives only a year, and a calendar that invents a day is lying quietly.
+         */
+        ReleaseEvent: {
+            /** Date */
+            date: string;
+            /**
+             * Detail
+             * @default
+             */
+            detail: string;
+            /**
+             * Family
+             * @default
+             */
+            family: string;
+            /**
+             * Family Id
+             * @default
+             */
+            family_id: string;
+            /**
+             * Kind
+             * @default published
+             * @enum {string}
+             */
+            kind: "published" | "detected";
+            /** Material Class */
+            material_class?: string | null;
+            /**
+             * Precision
+             * @default day
+             * @enum {string}
+             */
+            precision: "day" | "month" | "year";
+            /** Relation */
+            relation?: string | null;
+            /**
+             * Work
+             * @default
+             */
+            work: string;
+            /**
+             * Work Id
+             * @default
+             */
+            work_id: string;
+        };
+        /** ReviewItem */
+        ReviewItem: {
+            /**
+             * Action
+             * @default
+             */
+            action: string;
+            /**
+             * Detail
+             * @default
+             */
+            detail: string;
+            /**
+             * Family
+             * @default
+             */
+            family: string;
+            /**
+             * Item
+             * @default
+             */
+            item: string;
+            /** Kind */
+            kind: string;
+        };
+        /**
+         * ScaffoldPlan
+         * @description Folders the library is missing. Creating them stays a CLI action.
+         */
+        ScaffoldPlan: {
+            /**
+             * Command
+             * @default
+             */
+            command: string;
+            /** Counts */
+            counts?: {
+                [key: string]: number;
+            };
+            /** Create */
+            create?: {
+                [key: string]: unknown;
+            }[];
+            /**
+             * Output
+             * @default
+             */
+            output: string;
+            /**
+             * Ran
+             * @default false
+             */
+            ran: boolean;
+            /** Review */
+            review?: {
+                [key: string]: unknown;
+            }[];
+        };
+        /** SourceOut */
+        SourceOut: {
+            /** Access */
+            access?: string[];
+            /**
+             * Adapter
+             * @default web
+             */
+            adapter: string;
+            /** Added At */
+            added_at?: string | null;
+            /** Capabilities */
+            capabilities?: string[];
+            /**
+             * Download Permitted
+             * @default false
+             */
+            download_permitted: boolean;
+            /**
+             * Enabled
+             * @default true
+             */
+            enabled: boolean;
+            /** Id */
+            id: string;
+            /** Languages */
+            languages?: string[];
+            /** Name */
+            name: string;
+            /**
+             * Notes
+             * @default
+             */
+            notes: string;
+            /** Operations */
+            operations?: string[];
+            /** Origin */
+            origin?: string | null;
+            /** Roles */
+            roles?: string[];
+            /** Search */
+            search?: string | null;
+            /** Test Checks */
+            test_checks?: {
+                [key: string]: unknown;
+            }[];
+            /** Test Error */
+            test_error?: string | null;
+            /** Test Ok */
+            test_ok?: boolean | null;
+            /** Tested At */
+            tested_at?: string | null;
+            /**
+             * Url
+             * @default
+             */
+            url: string;
+        };
+        /** SourcesView */
+        SourcesView: {
+            /** Adapters */
+            adapters?: string[];
+            /** Browser Adapters */
+            browser_adapters?: string[];
+            /** Capabilities */
+            capabilities?: string[];
+            /**
+             * Cli Available
+             * @default false
+             */
+            cli_available: boolean;
+            /** Sources */
+            sources?: components["schemas"]["SourceOut"][];
+            /** Unofficial Hosts */
+            unofficial_hosts?: string[];
+        };
+        /**
+         * TimelineEvent
+         * @description One thing that changed, in the order it happened.
+         */
+        TimelineEvent: {
+            /** At */
+            at?: string | null;
+            /**
+             * Detail
+             * @default
+             */
+            detail: string;
+            /**
+             * Family
+             * @default
+             */
+            family: string;
+            /**
+             * Family Id
+             * @default
+             */
+            family_id: string;
+            /**
+             * Kind
+             * @default other
+             * @enum {string}
+             */
+            kind: "new_chapters" | "new_volumes" | "new_release" | "source_changed" | "local_files" | "coverage" | "other";
+            /** Material Class */
+            material_class?: string | null;
+            /**
+             * Title
+             * @default
+             */
+            title: string;
+            /** Work */
+            work?: string | null;
+        };
+        /** UpdateAlert */
+        UpdateAlert: {
+            /** At */
+            at?: string | null;
+            /**
+             * Detail
+             * @default
+             */
+            detail: string;
+            /**
+             * Family
+             * @default
+             */
+            family: string;
+            /**
+             * Kind
+             * @default
+             */
+            kind: string;
+            /** Source */
+            source?: string | null;
+            /** Work */
+            work?: string | null;
+        };
+        /** UpdateWatchItem */
+        UpdateWatchItem: {
+            /** Family */
+            family: string;
+            /** Last Checked */
+            last_checked?: string | null;
+            /** Latest Local */
+            latest_local?: number | null;
+            /** Latest Remote */
+            latest_remote?: number | null;
+            /** Relation */
+            relation?: string | null;
+            /** Remote Volumes */
+            remote_volumes?: number | null;
+            /** Source */
+            source?: string | null;
+            /** Status */
+            status?: string | null;
+            /** Update Available */
+            update_available?: boolean | null;
+            /** Work */
+            work: string;
+            /**
+             * Work Id
+             * @default
+             */
+            work_id: string;
+        };
+        /** UpdatesView */
+        UpdatesView: {
+            /** Alerts */
+            alerts?: components["schemas"]["UpdateAlert"][];
+            /** Generated At */
+            generated_at?: string | null;
+            /** Items */
+            items?: components["schemas"]["UpdateWatchItem"][];
+            /** Last Check */
+            last_check?: string | null;
+            /** Sources */
+            sources?: {
+                [key: string]: {
+                    [key: string]: unknown;
+                };
+            };
+            /** Timeline */
+            timeline?: components["schemas"]["TimelineEvent"][];
+        };
         /** ValidationError */
         ValidationError: {
             /** Context */
@@ -529,6 +1961,137 @@ export interface components {
             msg: string;
             /** Error Type */
             type: string;
+        };
+        /**
+         * WorkRow
+         * @description One work, with its classification and its local coverage.
+         */
+        WorkRow: {
+            /** Aliases */
+            aliases?: string[];
+            /** Authority */
+            authority?: string | null;
+            /** Canonical Title */
+            canonical_title?: string | null;
+            /** Chapter Max */
+            chapter_max?: number | null;
+            /** Chapter Min */
+            chapter_min?: number | null;
+            /**
+             * Chapters
+             * @default 0
+             */
+            chapters: number;
+            /** Confidence */
+            confidence?: string | null;
+            /** Contained In */
+            contained_in?: string | null;
+            /** Coverage Reason */
+            coverage_reason?: string | null;
+            /** Coverage Status */
+            coverage_status?: string | null;
+            /** Edition */
+            edition?: string | null;
+            /** Episodes */
+            episodes?: components["schemas"]["EpisodeRun"][];
+            /** Expected Path */
+            expected_path?: string | null;
+            /** Family Id */
+            family_id: string;
+            /** Family Title */
+            family_title: string;
+            /**
+             * Folder Exists
+             * @default false
+             */
+            folder_exists: boolean;
+            /**
+             * Gaps
+             * @default
+             */
+            gaps: string;
+            /** Id */
+            id: string;
+            /** Languages */
+            languages?: string[];
+            /** Last Added At */
+            last_added_at?: string | null;
+            /** Layout Status */
+            layout_status?: string | null;
+            /** Legacy Kind */
+            legacy_kind?: string | null;
+            /**
+             * Legacy Mapping
+             * @default false
+             */
+            legacy_mapping: boolean;
+            /**
+             * Local Bytes
+             * @default 0
+             */
+            local_bytes: number;
+            /**
+             * Local Files
+             * @default 0
+             */
+            local_files: number;
+            /** Local Path */
+            local_path?: string | null;
+            /** Material Class */
+            material_class?: string | null;
+            /** Media */
+            media?: ("video" | "pages") | null;
+            /** Medium */
+            medium?: string | null;
+            /**
+             * Missing Chapters
+             * @default
+             */
+            missing_chapters: string;
+            /** Official */
+            official?: boolean | null;
+            /** Origin */
+            origin?: string | null;
+            /**
+             * Other Videos
+             * @default 0
+             */
+            other_videos: number;
+            /** Relation */
+            relation?: string | null;
+            /** Remote Latest Chapter */
+            remote_latest_chapter?: number | null;
+            /** Remote Volumes */
+            remote_volumes?: number | null;
+            /**
+             * Review Required
+             * @default false
+             */
+            review_required: boolean;
+            /** Search Titles */
+            search_titles?: string[];
+            /** Source Chapter Count */
+            source_chapter_count?: number | null;
+            /**
+             * State
+             * @default UNVERIFIED
+             * @enum {string}
+             */
+            state: "COMPLETE" | "PARTIAL" | "PRESENT" | "MISSING" | "NEEDS_MAPPING" | "UNVERIFIED" | "STALE";
+            /**
+             * Story
+             * @default false
+             */
+            story: boolean;
+            /** Title */
+            title: string;
+            /**
+             * Unmapped Local Files
+             * @default 0
+             */
+            unmapped_local_files: number;
+            /** Unofficial Provenance */
+            unofficial_provenance?: string[];
         };
         /** WorkerOut */
         WorkerOut: {
@@ -840,6 +2403,461 @@ export interface operations {
                 };
                 content: {
                     "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    overview_library_acquisition_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AcquisitionOverview"];
+                };
+            };
+        };
+    };
+    calendar_library_acquisition_calendar_get: {
+        parameters: {
+            query?: {
+                limit?: number;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ReleaseEvent"][];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    list_families_library_acquisition_families_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["FamilyProgress"][];
+                };
+            };
+        };
+    };
+    family_detail_library_acquisition_families__family_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                family_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["FamilyDetail"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    intake_library_acquisition_intake_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["IntakeView"];
+                };
+            };
+        };
+    };
+    refresh_intake_library_acquisition_intake_refresh_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AcquisitionActionResult"];
+                };
+            };
+        };
+    };
+    queue_library_acquisition_queue_get: {
+        parameters: {
+            query?: {
+                status?: string | null;
+                family?: string | null;
+                group?: string | null;
+                q?: string | null;
+                offset?: number;
+                limit?: number;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["QueuePage"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    refresh_library_acquisition_refresh_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AcquisitionActionResult"];
+                };
+            };
+        };
+    };
+    scaffold_plan_library_acquisition_scaffold_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ScaffoldPlan"];
+                };
+            };
+        };
+    };
+    refresh_scaffold_plan_library_acquisition_scaffold_plan_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ScaffoldPlan"];
+                };
+            };
+        };
+    };
+    list_sources_library_acquisition_sources_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["SourcesView"];
+                };
+            };
+        };
+    };
+    add_source_library_acquisition_sources_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["AddSourceRequest"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AcquisitionActionResult"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    disable_source_library_acquisition_sources__source_id__disable_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                source_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AcquisitionActionResult"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    enable_source_library_acquisition_sources__source_id__enable_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                source_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AcquisitionActionResult"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    remove_source_library_acquisition_sources__source_id__remove_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                source_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AcquisitionActionResult"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    test_source_library_acquisition_sources__source_id__test_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                source_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AcquisitionActionResult"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    status_only_library_acquisition_status_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["AcquisitionStatus"];
+                };
+            };
+        };
+    };
+    updates_library_acquisition_updates_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["UpdatesView"];
                 };
             };
         };

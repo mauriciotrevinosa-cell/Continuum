@@ -23,7 +23,7 @@ import os
 import stat
 import sys
 from dataclasses import dataclass
-from pathlib import Path, PurePath
+from pathlib import Path, PurePath, PurePosixPath, PureWindowsPath
 
 from continuum_core import PathEscapesRootError
 
@@ -95,21 +95,29 @@ def validate_relative_candidate(candidate: str | PurePath) -> PurePath:
             technical_detail=f"control character in {raw!r}",
         )
 
-    # PurePath of the *native* flavour: on Windows this understands drive
-    # letters, UNC shares and the \\?\ prefix; on POSIX it understands /.
-    pure = PurePath(raw)
+    # Parsed with BOTH flavours, never only the native one. A POSIX parser
+    # treats a backslash as an ordinary character, so "\\\\server\\share" and
+    # "\\windows" passed as harmless relative names on Linux while naming a
+    # UNC share and a drive root on Windows. The same string must get the same
+    # verdict on every platform: Windows syntax is rejected everywhere, and a
+    # backslash is a separator everywhere.
+    windows = PureWindowsPath(raw)
+    posix = PurePosixPath(raw)
 
     # Rejects absolute ("C:\\x", "/etc"), drive-relative ("C:x"),
     # root-relative ("\\x", "/x"), UNC ("\\\\server\\share") and
     # extended-length ("\\\\?\\C:\\x") in one check.
-    if pure.drive or pure.root:
+    if windows.drive or windows.root or posix.root:
         raise PathEscapesRootError(
             "Only paths relative to a configured root are accepted.",
-            technical_detail=f"candidate is not relative: drive={pure.drive!r} root={pure.root!r}",
+            technical_detail=(
+                f"candidate is not relative: drive={windows.drive!r} "
+                f"root={windows.root or posix.root!r}"
+            ),
             remediation="Address files by their path relative to the root, never by absolute path.",
         )
 
-    for part in pure.parts:
+    for part in windows.parts:
         if part == "..":
             # Caught again by the containment check, but rejecting here gives
             # a precise error instead of a confusing "escapes root".
@@ -141,7 +149,9 @@ def validate_relative_candidate(candidate: str | PurePath) -> PurePath:
                 technical_detail=f"reserved device name in {raw!r}",
             )
 
-    return pure
+    # Rebuilt from the separator-agnostic parts, so "a\\b" addresses a/b on
+    # every platform rather than a file literally named "a\\b" on POSIX.
+    return PurePath(*windows.parts)
 
 
 def resolve_within(root: Path, candidate: str | PurePath, *, root_key: str) -> ResolvedPath:

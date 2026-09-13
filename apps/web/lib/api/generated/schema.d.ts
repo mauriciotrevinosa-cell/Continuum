@@ -611,6 +611,57 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/projects": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Projects */
+        get: operations["list_projects_projects_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Project Detail */
+        get: operations["project_detail_projects__project_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}/documents/{document_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Project Document */
+        get: operations["project_document_projects__project_id__documents__document_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/ready": {
         parameters: {
             query?: never;
@@ -1726,6 +1777,151 @@ export interface components {
              * @default
              */
             work_id: string;
+        };
+        /** PipelineStage */
+        PipelineStage: {
+            /**
+             * Artifacts
+             * @default 0
+             */
+            artifacts: number;
+            /**
+             * Description
+             * @default
+             */
+            description: string;
+            /** Id */
+            id: string;
+            /** Title */
+            title: string;
+            /**
+             * Track
+             * @default story
+             */
+            track: string;
+        };
+        /** ProjectDetail */
+        ProjectDetail: {
+            /** Counts */
+            counts?: {
+                [key: string]: number;
+            };
+            /**
+             * Description
+             * @default
+             */
+            description: string;
+            /** Documents */
+            documents?: components["schemas"]["ProjectDocumentOut"][];
+            /** Pipeline */
+            pipeline?: components["schemas"]["PipelineStage"][];
+            project: components["schemas"]["ProjectSummary"];
+        };
+        /** ProjectDocumentBody */
+        ProjectDocumentBody: {
+            document: components["schemas"]["ProjectDocumentOut"];
+            /** Markdown */
+            markdown: string;
+            project: components["schemas"]["ProjectSummary"];
+            /** Versions */
+            versions?: components["schemas"]["ProjectDocumentOut"][];
+        };
+        /** ProjectDocumentOut */
+        ProjectDocumentOut: {
+            /** Author Status */
+            author_status?: string | null;
+            /** Category */
+            category: string;
+            /** Constraints */
+            constraints?: string[];
+            /** Dated */
+            dated?: string | null;
+            /** Derived From */
+            derived_from?: string | null;
+            /** Episode */
+            episode?: string | null;
+            /**
+             * Filed
+             * @default true
+             */
+            filed: boolean;
+            /** Id */
+            id: string;
+            /**
+             * Lifecycle
+             * @enum {string}
+             */
+            lifecycle: "IDEA" | "DRAFT" | "REVIEW" | "APPROVED" | "LOCKED" | "SUPERSEDED" | "ARCHIVED" | "UNFILED";
+            /** Lineage */
+            lineage?: string | null;
+            /** Modified At */
+            modified_at?: string | null;
+            /**
+             * Section
+             * @enum {string}
+             */
+            section: "story" | "production" | "reference" | "extra";
+            /**
+             * Size Bytes
+             * @default 0
+             */
+            size_bytes: number;
+            /**
+             * Summary
+             * @default
+             */
+            summary: string;
+            /** Superseded By */
+            superseded_by?: string | null;
+            /** Supersedes */
+            supersedes?: string | null;
+            /** Title */
+            title: string;
+            /** Version */
+            version?: string | null;
+        };
+        /** ProjectSummary */
+        ProjectSummary: {
+            /**
+             * Approved
+             * @default 0
+             */
+            approved: number;
+            /**
+             * Documents
+             * @default 0
+             */
+            documents: number;
+            /**
+             * Extras
+             * @default 0
+             */
+            extras: number;
+            /** Id */
+            id: string;
+            /**
+             * In Progress
+             * @default 0
+             */
+            in_progress: number;
+            /** Kind */
+            kind: string;
+            /**
+             * Logline
+             * @default
+             */
+            logline: string;
+            /**
+             * Status
+             * @default active
+             */
+            status: string;
+            /** Title */
+            title: string;
+            /** Updated At */
+            updated_at?: string | null;
+            /** Warnings */
+            warnings?: string[];
         };
         /**
          * QueueGroup
@@ -3377,6 +3573,89 @@ export interface operations {
                 };
                 content: {
                     "application/json": unknown;
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    list_projects_projects_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ProjectSummary"][];
+                };
+            };
+        };
+    };
+    project_detail_projects__project_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ProjectDetail"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    project_document_projects__project_id__documents__document_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+                document_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ProjectDocumentBody"];
                 };
             };
             /** @description Validation Error */

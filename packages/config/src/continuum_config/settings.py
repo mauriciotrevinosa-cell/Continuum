@@ -125,6 +125,15 @@ class Settings(BaseSettings):
     )
     acquisition_cli_timeout_seconds: float = Field(default=180.0, gt=0, le=900)
 
+    # -- projects ----------------------------------------------------------
+    # Directories where project manifests (continuum.project.json) are
+    # discovered, separated by ";". Empty means the projects root alone. A
+    # clean installation has no projects; nothing is assumed.
+    project_sources: str = Field(
+        default="",
+        description="Directories scanned for project manifests, separated by ';'.",
+    )
+
     # -- observability -----------------------------------------------------
     log_level: Literal["DEBUG", "INFO", "WARNING", "ERROR"] = "INFO"
 
@@ -190,6 +199,16 @@ class Settings(BaseSettings):
         if self.acquisition_data_dir:
             return str(self.acquisition_data_dir)
         return os.path.join(self.root("library"), "acquisition")  # noqa: PTH118 - str join only
+
+    def project_source_dirs(self) -> list[str]:
+        """Where projects are discovered (strings; storage resolves them)."""
+        configured = [part.strip() for part in self.project_sources.split(";") if part.strip()]
+        if configured:
+            return configured
+        try:
+            return [self.root("projects")]
+        except ValueError:
+            return []
 
     def safe_dump(self) -> dict[str, Any]:
         """Configuration for /health and logs, with secrets already masked."""

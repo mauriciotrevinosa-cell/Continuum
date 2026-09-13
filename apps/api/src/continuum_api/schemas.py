@@ -44,6 +44,11 @@ __all__ = [
     "MediaStatus",
     "MediaUnit",
     "NextStep",
+    "PipelineStage",
+    "ProjectDetail",
+    "ProjectDocumentBody",
+    "ProjectDocumentOut",
+    "ProjectSummary",
     "QueueGroup",
     "QueueItem",
     "QueuePage",
@@ -795,6 +800,77 @@ class ArchiveListingOut(BaseModel):
     chapters: list[ChapterGroup] = Field(default_factory=list)
     videos: list[ContainedVideo] = Field(default_factory=list)
     other_entries: int = 0
+
+
+#: Where a project document stands. APPROVED and LOCKED are continuity; the
+#: states before them are work in progress; SUPERSEDED and ARCHIVED are
+#: history. UNFILED is a document the project's manifest does not register.
+DocumentLifecycle = Literal[
+    "IDEA", "DRAFT", "REVIEW", "APPROVED", "LOCKED", "SUPERSEDED", "ARCHIVED", "UNFILED"
+]
+
+
+class ProjectDocumentOut(BaseModel):
+    id: str
+    title: str
+    category: str
+    section: Literal["story", "production", "reference", "extra"]
+    lifecycle: DocumentLifecycle
+    version: str | None = None
+    lineage: str | None = None
+    supersedes: str | None = None
+    superseded_by: str | None = None
+    derived_from: str | None = None
+    episode: str | None = None
+    summary: str = ""
+    #: The author's own words about the document's standing. Informational;
+    #: never the source of ``lifecycle``.
+    author_status: str | None = None
+    dated: str | None = None
+    modified_at: str | None = None
+    size_bytes: int = 0
+    filed: bool = True
+    constraints: list[str] = Field(default_factory=list)
+
+
+class PipelineStage(BaseModel):
+    id: str
+    title: str
+    track: str = "story"
+    description: str = ""
+    #: Artifacts produced for this stage so far. Documents count where their
+    #: category names the stage; generated artifacts arrive in later phases.
+    artifacts: int = 0
+
+
+class ProjectSummary(BaseModel):
+    id: str
+    title: str
+    kind: str
+    logline: str = ""
+    status: str = "active"
+    documents: int = 0
+    approved: int = 0
+    # Unapproved work on the story or its production; notes and references are extras.
+    in_progress: int = 0
+    extras: int = 0
+    updated_at: str | None = None
+    warnings: list[str] = Field(default_factory=list)
+
+
+class ProjectDetail(BaseModel):
+    project: ProjectSummary
+    description: str = ""
+    documents: list[ProjectDocumentOut] = Field(default_factory=list)
+    pipeline: list[PipelineStage] = Field(default_factory=list)
+    counts: dict[str, int] = Field(default_factory=dict)
+
+
+class ProjectDocumentBody(BaseModel):
+    project: ProjectSummary
+    document: ProjectDocumentOut
+    markdown: str
+    versions: list[ProjectDocumentOut] = Field(default_factory=list)
 
 
 class AcquisitionOverview(BaseModel):

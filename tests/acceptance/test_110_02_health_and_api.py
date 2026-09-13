@@ -219,6 +219,10 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/library/media/{media_id}/content",
             "/library/media/{media_id}/pages",
             "/library/media/{media_id}/pages/{index}",
+            # Projects and their documents, by id only.
+            "/projects",
+            "/projects/{project_id}",
+            "/projects/{project_id}/documents/{document_id}",
         }
 
     def test_cors_is_not_a_wildcard(self, settings: Settings) -> None:

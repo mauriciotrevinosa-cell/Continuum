@@ -37,6 +37,14 @@ from continuum_storage.probe import (
     detect_sync_provider,
     probe_vault_readonly,
 )
+from continuum_storage.projects import (
+    LIFECYCLE,
+    MANIFEST_NAME,
+    PROJECT_ID_PATTERN,
+    Project,
+    ProjectDocument,
+    ProjectLibrary,
+)
 from continuum_storage.roots import (
     RootStatus,
     StorageEnvironment,
@@ -47,7 +55,10 @@ from continuum_storage.vault import SourceVaultReader, VaultEntry
 
 __all__ = [
     "ACQUISITION_DOCUMENTS",
+    "LIFECYCLE",
+    "MANIFEST_NAME",
     "MEDIA_ID_PATTERN",
+    "PROJECT_ID_PATTERN",
     "RESERVED_DEVICE_NAMES",
     "AcquisitionCliError",
     "AcquisitionDocument",
@@ -59,6 +70,9 @@ __all__ = [
     "MediaFile",
     "MediaLibrary",
     "MediaUnavailableError",
+    "Project",
+    "ProjectDocument",
+    "ProjectLibrary",
     "ReadOnlyStatus",
     "ResolvedPath",
     "RootStatus",

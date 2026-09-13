@@ -59,15 +59,27 @@ def test_character_identity_outfit_and_visual_mode_are_separate() -> None:
     assert {fk.column.table.name for fk in outfit_character.foreign_keys} == {"character_profile"}
 
 
-def test_nothing_links_a_character_to_a_visual_mode() -> None:
+def test_no_character_is_globally_tied_to_a_visual_mode() -> None:
+    """Style is contextual. The only table allowed to mention both a character
+    and a visual mode is a project-scoped assignment, which always carries a
+    project and a scope: a mode applies to a panel, scene, sequence, episode
+    or event - never to a character as such."""
     for table in Base.metadata.tables.values():
         targets = {fk.column.table.name for fk in table.foreign_keys}
-        assert not {"character_profile", "visual_mode"} <= targets, (
-            f"{table.name} links characters to visual modes; style is contextual, "
-            "never implied by who is in the frame"
+        if not {"character_profile", "visual_mode"} <= targets:
+            continue
+        assert TABLE_REGISTRY[table.name][1] is Tier.C_PROJECT, (
+            f"{table.name} links characters to visual modes outside project continuity"
         )
+        for required in ("project_key", "scope"):
+            assert required in table.columns, f"{table.name} lacks {required}"
+            assert not table.columns[required].nullable, f"{table.name}.{required} is optional"
     technique = Base.metadata.tables["reference_technique"]
     assert "character_id" not in technique.columns
+    modes = Base.metadata.tables["visual_mode"]
+    assert not {c.name for c in modes.columns} & {"character_id", "subject_id"}
+    characters = Base.metadata.tables["character_profile"]
+    assert not {c.name for c in characters.columns} & {"visual_mode_id", "style", "mode"}
 
 
 def test_source_vault_paths_are_observations_not_identity() -> None:

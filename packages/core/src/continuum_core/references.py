@@ -22,20 +22,27 @@ __all__ = [
     "AssetOrigin",
     "AttemptState",
     "BundleRole",
+    "CandidateStatus",
     "CharacterAspect",
     "DerivativeKind",
     "DescriptorFacet",
     "DescriptorOrigin",
     "EditOperationKind",
+    "IntakeKind",
+    "ModeScope",
+    "ModeTrigger",
     "OutfitKind",
     "PanelSourceRole",
     "ProjectStanding",
     "ReferenceClass",
     "ReferenceOrigin",
+    "ReferenceUse",
     "ReviewDecision",
     "RoughArtifactKind",
     "RoughMode",
+    "SubjectKind",
     "TechniqueFacet",
+    "VisualModeCategory",
 ]
 
 
@@ -182,6 +189,8 @@ class DescriptorFacet(StrEnum):
     PANEL_GEOMETRY = "PANEL_GEOMETRY"
     CHARACTER_COUNT = "CHARACTER_COUNT"
     LOCATION = "LOCATION"
+    TAG = "TAG"
+    """A free user tag."""
 
 
 class DescriptorOrigin(StrEnum):
@@ -212,6 +221,7 @@ class BundleRole(StrEnum):
     """A reference's role in a rough attempt's bundle (never an undifferentiated pile)."""
 
     CANON = "CANON"
+    STYLE = "STYLE"
     TECHNIQUE = "TECHNIQUE"
     MOOD = "MOOD"
     SOURCE_PLATE = "SOURCE_PLATE"
@@ -275,3 +285,84 @@ class DerivativeKind(StrEnum):
     OUTPUT = "OUTPUT"
     MASK = "MASK"
     SOURCE_CROP = "SOURCE_CROP"
+
+
+class SubjectKind(StrEnum):
+    """What a character profile describes. Monsters and creatures are subjects too."""
+
+    CHARACTER = "CHARACTER"
+    MONSTER = "MONSTER"
+    CREATURE = "CREATURE"
+
+
+class ReferenceUse(StrEnum):
+    """What a reference is intended to be used for. One reference may serve several."""
+
+    IDENTITY = "IDENTITY"
+    OUTFIT = "OUTFIT"
+    EXPRESSION = "EXPRESSION"
+    POSE = "POSE"
+    ACCESSORY = "ACCESSORY"
+    STYLE = "STYLE"
+    TECHNIQUE = "TECHNIQUE"
+    MOOD = "MOOD"
+    MONSTER_DESIGN = "MONSTER_DESIGN"
+    SCENE_SOURCE = "SCENE_SOURCE"
+    SOURCE_PLATE = "SOURCE_PLATE"
+    CONTINUITY = "CONTINUITY"
+
+
+class IntakeKind(StrEnum):
+    """How a reference candidate arrived in the inbox."""
+
+    URL = "URL"
+    """A link only. Nothing is fetched; bytes are attached by the user."""
+    IMAGE = "IMAGE"
+    VIDEO = "VIDEO"
+    SCREENSHOT = "SCREENSHOT"
+    """A captured frame or screen, with where it was captured from."""
+
+
+class CandidateStatus(StrEnum):
+    INBOX = "INBOX"
+    ACCEPTED = "ACCEPTED"
+    DISMISSED = "DISMISSED"
+
+
+class VisualModeCategory(StrEnum):
+    """The family a visual mode belongs to. None of them is a character."""
+
+    BASE = "BASE"
+    INTIMATE = "INTIMATE"
+    EXPRESSIVE_COMEDY = "EXPRESSIVE_COMEDY"
+    COMEDIC_DEFORMATION = "COMEDIC_DEFORMATION"
+    """Chibi / super-deformed: a rendering decision, never an identity rewrite."""
+    HORROR_THREAT = "HORROR_THREAT"
+    MEMORY_DREAM = "MEMORY_DREAM"
+    HEIGHTENED_PERCEPTION = "HEIGHTENED_PERCEPTION"
+    ACTION = "ACTION"
+    ATMOSPHERE = "ATMOSPHERE"
+    MONSTER = "MONSTER"
+    EXPERIMENTAL = "EXPERIMENTAL"
+
+
+class ModeScope(StrEnum):
+    """Where a project applies a visual mode."""
+
+    PANEL = "PANEL"
+    SCENE = "SCENE"
+    SEQUENCE = "SEQUENCE"
+    EPISODE = "EPISODE"
+    EVENT = "EVENT"
+    """A special event, emotional state or monster moment, named by the project."""
+
+
+class ModeTrigger(StrEnum):
+    """Why a visual mode is in effect for its scope."""
+
+    DIRECTORIAL = "DIRECTORIAL"
+    """Chosen for the panel/scene/episode by the story."""
+    SCENE_TONE = "SCENE_TONE"
+    """Involuntary: the tone of the moment compresses or shifts the rendering."""
+    CHARACTER_CONTROLLED = "CHARACTER_CONTROLLED"
+    """A form a specific character can take at will, within this scope."""

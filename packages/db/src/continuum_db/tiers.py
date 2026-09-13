@@ -46,8 +46,12 @@ TABLE_REGISTRY: dict[str, tuple[int, Tier]] = {
     "reference_character": (1, Tier.B_INTERPRETATION),
     "reference_technique": (1, Tier.B_INTERPRETATION),
     "reference_descriptor": (1, Tier.B_INTERPRETATION),
+    "reference_use": (1, Tier.B_INTERPRETATION),
+    "intake_batch": (1, Tier.B_INTERPRETATION),
+    "reference_candidate": (1, Tier.B_INTERPRETATION),
     "project_reference_standing": (1, Tier.C_PROJECT),
     "project_panel_source": (1, Tier.C_PROJECT),
+    "project_visual_mode_assignment": (1, Tier.C_PROJECT),
     # Phase 1 - rough manga production (pull-forward slice, generated tier)
     "rough_artifact": (1, Tier.D_GENERATED),
     "generation_recipe": (1, Tier.D_GENERATED),

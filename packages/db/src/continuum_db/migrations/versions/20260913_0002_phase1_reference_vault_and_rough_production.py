@@ -10,6 +10,8 @@ No Phase 0 table, column or constraint is altered here.
 
 No column stores source bytes, and no column stores a Source Vault path as
 identity: bytes are addressed by content hash and locations are observations.
+Reference candidates keep links as links: nothing in this schema implies a
+download.
 """
 
 from __future__ import annotations
@@ -30,6 +32,7 @@ def upgrade() -> None:
     op.create_table('character_profile',
     sa.Column('id', sa.Uuid(), nullable=False),
     sa.Column('display_name', sa.String(length=200), nullable=False),
+    sa.Column('subject_kind', sa.Enum('CHARACTER', 'MONSTER', 'CREATURE', name='subject_kind', native_enum=False, create_constraint=True, length=32), nullable=False),
     sa.Column('source_label', sa.String(length=200), nullable=False),
     sa.Column('summary', sa.Text(), nullable=False),
     sa.Column('scale_notes', sa.Text(), nullable=False),
@@ -57,6 +60,14 @@ def upgrade() -> None:
     sa.PrimaryKeyConstraint('id', name=op.f('pk_generation_recipe'))
     )
     op.create_index('ix_generation_recipe_intent_hash', 'generation_recipe', ['intent_hash'], unique=False)
+    op.create_table('intake_batch',
+    sa.Column('id', sa.Uuid(), nullable=False),
+    sa.Column('kind', sa.Enum('URL', 'IMAGE', 'VIDEO', 'SCREENSHOT', name='intake_kind', native_enum=False, create_constraint=True, length=32), nullable=False),
+    sa.Column('label', sa.String(length=200), nullable=False),
+    sa.Column('notes', sa.Text(), nullable=False),
+    sa.Column('created_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=False),
+    sa.PrimaryKeyConstraint('id', name=op.f('pk_intake_batch'))
+    )
     op.create_table('library_asset',
     sa.Column('id', sa.Uuid(), nullable=False),
     sa.Column('content_hash', sa.String(length=64), nullable=False),
@@ -92,6 +103,7 @@ def upgrade() -> None:
     op.create_table('visual_mode',
     sa.Column('id', sa.Uuid(), nullable=False),
     sa.Column('name', sa.String(length=200), nullable=False),
+    sa.Column('category', sa.Enum('BASE', 'INTIMATE', 'EXPRESSIVE_COMEDY', 'COMEDIC_DEFORMATION', 'HORROR_THREAT', 'MEMORY_DREAM', 'HEIGHTENED_PERCEPTION', 'ACTION', 'ATMOSPHERE', 'MONSTER', 'EXPERIMENTAL', name='visual_mode_category', native_enum=False, create_constraint=True, length=32), nullable=False),
     sa.Column('description', sa.Text(), nullable=False),
     sa.Column('notes', sa.Text(), nullable=False),
     sa.Column('row_version', sa.Integer(), nullable=False),
@@ -134,6 +146,29 @@ def upgrade() -> None:
     sa.UniqueConstraint('root_key', 'relative_path', 'byte_size', 'mtime_ns', name=op.f('uq_library_asset_location_root_key_relative_path_byte_size_mtime_ns'))
     )
     op.create_index('ix_library_asset_location_asset_id', 'library_asset_location', ['asset_id'], unique=False)
+    op.create_table('project_visual_mode_assignment',
+    sa.Column('id', sa.Uuid(), nullable=False),
+    sa.Column('project_key', sa.String(length=80), nullable=False),
+    sa.Column('visual_mode_id', sa.Uuid(), nullable=False),
+    sa.Column('scope', sa.Enum('PANEL', 'SCENE', 'SEQUENCE', 'EPISODE', 'EVENT', name='mode_scope', native_enum=False, create_constraint=True, length=32), nullable=False),
+    sa.Column('episode', sa.String(length=40), nullable=True),
+    sa.Column('scene', sa.Integer(), nullable=True),
+    sa.Column('page_from', sa.Integer(), nullable=True),
+    sa.Column('page_to', sa.Integer(), nullable=True),
+    sa.Column('panel', sa.Integer(), nullable=True),
+    sa.Column('event_label', sa.String(length=200), nullable=True),
+    sa.Column('trigger', sa.Enum('DIRECTORIAL', 'SCENE_TONE', 'CHARACTER_CONTROLLED', name='mode_trigger', native_enum=False, create_constraint=True, length=32), nullable=False),
+    sa.Column('character_id', sa.Uuid(), nullable=True),
+    sa.Column('notes', sa.Text(), nullable=False),
+    sa.Column('created_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=False),
+    sa.CheckConstraint("(scope = 'EPISODE' AND episode IS NOT NULL) OR (scope = 'SCENE' AND episode IS NOT NULL AND scene IS NOT NULL) OR (scope = 'SEQUENCE' AND episode IS NOT NULL AND page_from IS NOT NULL AND page_to IS NOT NULL AND page_to >= page_from) OR (scope = 'PANEL' AND episode IS NOT NULL AND page_from IS NOT NULL AND panel IS NOT NULL) OR (scope = 'EVENT' AND event_label IS NOT NULL)", name=op.f('ck_project_visual_mode_assignment_scope_has_its_target')),
+    sa.CheckConstraint("trigger <> 'CHARACTER_CONTROLLED' OR character_id IS NOT NULL", name=op.f('ck_project_visual_mode_assignment_controlled_has_character')),
+    sa.CheckConstraint('(scene IS NULL OR scene >= 1) AND (page_from IS NULL OR page_from >= 1) AND (panel IS NULL OR panel >= 1)', name=op.f('ck_project_visual_mode_assignment_positions_positive')),
+    sa.ForeignKeyConstraint(['character_id'], ['character_profile.id'], name=op.f('fk_project_visual_mode_assignment_character_id_character_profile'), ondelete='RESTRICT'),
+    sa.ForeignKeyConstraint(['visual_mode_id'], ['visual_mode.id'], name=op.f('fk_project_visual_mode_assignment_visual_mode_id_visual_mode'), ondelete='RESTRICT'),
+    sa.PrimaryKeyConstraint('id', name=op.f('pk_project_visual_mode_assignment'))
+    )
+    op.create_index('ix_project_visual_mode_assignment_project_key', 'project_visual_mode_assignment', ['project_key'], unique=False)
     op.create_table('reference_item',
     sa.Column('id', sa.Uuid(), nullable=False),
     sa.Column('asset_id', sa.Uuid(), nullable=False),
@@ -147,12 +182,15 @@ def upgrade() -> None:
     sa.Column('origin', sa.Enum('SOURCE', 'OFFICIAL_ART', 'FAN_ART', 'USER_CREATED', 'GENERATED', 'PROJECT_APPROVED', name='reference_origin', native_enum=False, create_constraint=True, length=32), nullable=False),
     sa.Column('label', sa.String(length=300), nullable=False),
     sa.Column('notes', sa.Text(), nullable=False),
+    sa.Column('source_url', sa.Text(), nullable=True),
+    sa.Column('creator_handle', sa.String(length=200), nullable=True),
     sa.Column('favorite', sa.Boolean(), nullable=False),
     sa.Column('provenance', postgresql.JSONB(astext_type=sa.Text()), nullable=False),
     sa.Column('row_version', sa.Integer(), nullable=False),
     sa.Column('created_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=False),
     sa.Column('updated_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=False),
     sa.Column('removed_at', sa.DateTime(timezone=True), nullable=True),
+    sa.CheckConstraint("source_url IS NULL OR source_url ~ '^https?://'", name=op.f('ck_reference_item_source_url_is_web')),
     sa.CheckConstraint('(region_x IS NULL AND region_y IS NULL AND region_width IS NULL AND region_height IS NULL) OR (region_x >= 0 AND region_y >= 0 AND region_width > 0 AND region_height > 0 AND region_x + region_width <= 1.000001 AND region_y + region_height <= 1.000001)', name=op.f('ck_reference_item_region_all_or_none_and_inside')),
     sa.CheckConstraint('unit_index IS NULL OR unit_index >= 0', name=op.f('ck_reference_item_unit_index_non_negative')),
     sa.ForeignKeyConstraint(['asset_id'], ['library_asset.id'], name=op.f('fk_reference_item_asset_id_library_asset'), ondelete='RESTRICT'),
@@ -192,6 +230,36 @@ def upgrade() -> None:
     sa.UniqueConstraint('project_key', 'reference_id', 'character_id', 'standing', name=op.f('uq_project_reference_standing_project_key_reference_id_character_id_standing'), postgresql_nulls_not_distinct=True)
     )
     op.create_index('ix_project_reference_standing_project_key', 'project_reference_standing', ['project_key'], unique=False)
+    op.create_table('reference_candidate',
+    sa.Column('id', sa.Uuid(), nullable=False),
+    sa.Column('batch_id', sa.Uuid(), nullable=True),
+    sa.Column('intake_kind', sa.Enum('URL', 'IMAGE', 'VIDEO', 'SCREENSHOT', name='intake_kind', native_enum=False, create_constraint=True, length=32), nullable=False),
+    sa.Column('status', sa.Enum('INBOX', 'ACCEPTED', 'DISMISSED', name='candidate_status', native_enum=False, create_constraint=True, length=32), nullable=False),
+    sa.Column('source_url', sa.Text(), nullable=True),
+    sa.Column('creator_handle', sa.String(length=200), nullable=True),
+    sa.Column('display_name', sa.String(length=300), nullable=False),
+    sa.Column('asset_id', sa.Uuid(), nullable=True),
+    sa.Column('capture', postgresql.JSONB(astext_type=sa.Text()), nullable=False),
+    sa.Column('origin', sa.Enum('SOURCE', 'OFFICIAL_ART', 'FAN_ART', 'USER_CREATED', 'GENERATED', 'PROJECT_APPROVED', name='reference_origin', native_enum=False, create_constraint=True, length=32), nullable=False),
+    sa.Column('suggested_class', sa.Enum('CANON', 'TECHNIQUE', 'CONTINUITY', 'MOOD', name='reference_class', native_enum=False, create_constraint=True, length=32), nullable=True),
+    sa.Column('intended_uses', postgresql.JSONB(astext_type=sa.Text()), nullable=False),
+    sa.Column('tags', postgresql.JSONB(astext_type=sa.Text()), nullable=False),
+    sa.Column('notes', sa.Text(), nullable=False),
+    sa.Column('reference_id', sa.Uuid(), nullable=True),
+    sa.Column('row_version', sa.Integer(), nullable=False),
+    sa.Column('created_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=False),
+    sa.Column('updated_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=False),
+    sa.CheckConstraint("intake_kind <> 'URL' OR source_url IS NOT NULL", name=op.f('ck_reference_candidate_url_intake_has_url')),
+    sa.CheckConstraint("intake_kind NOT IN ('IMAGE', 'VIDEO', 'SCREENSHOT') OR asset_id IS NOT NULL", name=op.f('ck_reference_candidate_file_intake_has_bytes')),
+    sa.CheckConstraint("source_url IS NULL OR source_url ~ '^https?://'", name=op.f('ck_reference_candidate_source_url_is_web')),
+    sa.CheckConstraint("status <> 'ACCEPTED' OR reference_id IS NOT NULL", name=op.f('ck_reference_candidate_accepted_has_reference')),
+    sa.ForeignKeyConstraint(['asset_id'], ['library_asset.id'], name=op.f('fk_reference_candidate_asset_id_library_asset'), ondelete='RESTRICT'),
+    sa.ForeignKeyConstraint(['batch_id'], ['intake_batch.id'], name=op.f('fk_reference_candidate_batch_id_intake_batch'), ondelete='SET NULL'),
+    sa.ForeignKeyConstraint(['reference_id'], ['reference_item.id'], name=op.f('fk_reference_candidate_reference_id_reference_item'), ondelete='SET NULL'),
+    sa.PrimaryKeyConstraint('id', name=op.f('pk_reference_candidate'))
+    )
+    op.create_index('ix_reference_candidate_batch_id', 'reference_candidate', ['batch_id'], unique=False)
+    op.create_index('ix_reference_candidate_status', 'reference_candidate', ['status'], unique=False)
     op.create_table('reference_character',
     sa.Column('id', sa.Uuid(), nullable=False),
     sa.Column('reference_id', sa.Uuid(), nullable=False),
@@ -211,7 +279,7 @@ def upgrade() -> None:
     op.create_table('reference_descriptor',
     sa.Column('id', sa.Uuid(), nullable=False),
     sa.Column('reference_id', sa.Uuid(), nullable=False),
-    sa.Column('facet', sa.Enum('ERA', 'SEASON_WEATHER', 'CONDITION', 'EXPRESSION', 'POSE', 'SHOT_TYPE', 'CAMERA_ANGLE', 'SCENE_TYPE', 'ACTION_INTENSITY', 'DIALOGUE_DENSITY', 'BACKGROUND_COMPLEXITY', 'COMPOSITION', 'PAGE_TURN_FUNCTION', 'MOOD', 'PANEL_GEOMETRY', 'CHARACTER_COUNT', 'LOCATION', name='descriptor_facet', native_enum=False, create_constraint=True, length=32), nullable=False),
+    sa.Column('facet', sa.Enum('ERA', 'SEASON_WEATHER', 'CONDITION', 'EXPRESSION', 'POSE', 'SHOT_TYPE', 'CAMERA_ANGLE', 'SCENE_TYPE', 'ACTION_INTENSITY', 'DIALOGUE_DENSITY', 'BACKGROUND_COMPLEXITY', 'COMPOSITION', 'PAGE_TURN_FUNCTION', 'MOOD', 'PANEL_GEOMETRY', 'CHARACTER_COUNT', 'LOCATION', 'TAG', name='descriptor_facet', native_enum=False, create_constraint=True, length=32), nullable=False),
     sa.Column('value', sa.String(length=200), nullable=False),
     sa.Column('origin', sa.Enum('USER', 'ANALYSIS', name='descriptor_origin', native_enum=False, create_constraint=True, length=32), nullable=False),
     sa.Column('confidence', sa.Float(), nullable=True),
@@ -235,6 +303,16 @@ def upgrade() -> None:
     sa.UniqueConstraint('reference_id', 'visual_mode_id', 'facet', name=op.f('uq_reference_technique_reference_id_visual_mode_id_facet'), postgresql_nulls_not_distinct=True)
     )
     op.create_index('ix_reference_technique_visual_mode_id', 'reference_technique', ['visual_mode_id'], unique=False)
+    op.create_table('reference_use',
+    sa.Column('id', sa.Uuid(), nullable=False),
+    sa.Column('reference_id', sa.Uuid(), nullable=False),
+    sa.Column('use', sa.Enum('IDENTITY', 'OUTFIT', 'EXPRESSION', 'POSE', 'ACCESSORY', 'STYLE', 'TECHNIQUE', 'MOOD', 'MONSTER_DESIGN', 'SCENE_SOURCE', 'SOURCE_PLATE', 'CONTINUITY', name='reference_use_kind', native_enum=False, create_constraint=True, length=32), nullable=False),
+    sa.Column('notes', sa.Text(), nullable=False),
+    sa.Column('created_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=False),
+    sa.ForeignKeyConstraint(['reference_id'], ['reference_item.id'], name=op.f('fk_reference_use_reference_id_reference_item'), ondelete='CASCADE'),
+    sa.PrimaryKeyConstraint('id', name=op.f('pk_reference_use')),
+    sa.UniqueConstraint('reference_id', 'use', name=op.f('uq_reference_use_reference_id_use'))
+    )
     op.create_table('rough_attempt',
     sa.Column('id', sa.Uuid(), nullable=False),
     sa.Column('artifact_id', sa.Uuid(), nullable=False),
@@ -278,7 +356,7 @@ def upgrade() -> None:
     sa.Column('id', sa.Uuid(), nullable=False),
     sa.Column('attempt_id', sa.Uuid(), nullable=False),
     sa.Column('position', sa.Integer(), nullable=False),
-    sa.Column('role', sa.Enum('CANON', 'TECHNIQUE', 'MOOD', 'SOURCE_PLATE', 'CONTINUITY', name='bundle_role', native_enum=False, create_constraint=True, length=32), nullable=False),
+    sa.Column('role', sa.Enum('CANON', 'STYLE', 'TECHNIQUE', 'MOOD', 'SOURCE_PLATE', 'CONTINUITY', name='bundle_role', native_enum=False, create_constraint=True, length=32), nullable=False),
     sa.Column('reference_id', sa.Uuid(), nullable=True),
     sa.Column('locator', sa.Text(), nullable=False),
     sa.Column('unit_index', sa.Integer(), nullable=True),
@@ -321,11 +399,15 @@ def downgrade() -> None:
     op.drop_table('attempt_derivative')
     op.drop_index('ix_rough_attempt_job_id', table_name='rough_attempt')
     op.drop_table('rough_attempt')
+    op.drop_table('reference_use')
     op.drop_index('ix_reference_technique_visual_mode_id', table_name='reference_technique')
     op.drop_table('reference_technique')
     op.drop_table('reference_descriptor')
     op.drop_index('ix_reference_character_character_id', table_name='reference_character')
     op.drop_table('reference_character')
+    op.drop_index('ix_reference_candidate_status', table_name='reference_candidate')
+    op.drop_index('ix_reference_candidate_batch_id', table_name='reference_candidate')
+    op.drop_table('reference_candidate')
     op.drop_index('ix_project_reference_standing_project_key', table_name='project_reference_standing')
     op.drop_table('project_reference_standing')
     op.drop_index('ix_project_panel_source_target', table_name='project_panel_source')
@@ -333,6 +415,8 @@ def downgrade() -> None:
     op.drop_index('ix_reference_item_locator', table_name='reference_item')
     op.drop_index('ix_reference_item_asset_id', table_name='reference_item')
     op.drop_table('reference_item')
+    op.drop_index('ix_project_visual_mode_assignment_project_key', table_name='project_visual_mode_assignment')
+    op.drop_table('project_visual_mode_assignment')
     op.drop_index('ix_library_asset_location_asset_id', table_name='library_asset_location')
     op.drop_table('library_asset_location')
     op.drop_index('ix_character_outfit_character_id', table_name='character_outfit')
@@ -341,6 +425,7 @@ def downgrade() -> None:
     op.drop_index('ix_rough_artifact_project_key', table_name='rough_artifact')
     op.drop_table('rough_artifact')
     op.drop_table('library_asset')
+    op.drop_table('intake_batch')
     op.drop_index('ix_generation_recipe_intent_hash', table_name='generation_recipe')
     op.drop_table('generation_recipe')
     op.drop_table('character_profile')

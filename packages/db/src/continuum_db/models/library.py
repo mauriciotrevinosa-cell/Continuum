@@ -25,15 +25,22 @@ from continuum_core import uuid7
 from continuum_core.references import (
     AssetMedium,
     AssetOrigin,
+    CandidateStatus,
     CharacterAspect,
     DescriptorFacet,
     DescriptorOrigin,
+    IntakeKind,
+    ModeScope,
+    ModeTrigger,
     OutfitKind,
     PanelSourceRole,
     ProjectStanding,
     ReferenceClass,
     ReferenceOrigin,
+    ReferenceUse,
+    SubjectKind,
     TechniqueFacet,
+    VisualModeCategory,
 )
 from sqlalchemy import (
     BigInteger,
@@ -56,14 +63,18 @@ from continuum_db.models.base import Base, TimestampTz, UuidV7, enum_type
 __all__ = [
     "CharacterOutfit",
     "CharacterProfile",
+    "IntakeBatch",
     "LibraryAsset",
     "LibraryAssetLocation",
     "ProjectPanelSource",
     "ProjectReferenceStanding",
+    "ProjectVisualModeAssignment",
+    "ReferenceCandidate",
     "ReferenceCharacter",
     "ReferenceDescriptor",
     "ReferenceItem",
     "ReferenceTechnique",
+    "ReferenceUseLink",
     "VisualMode",
 ]
 
@@ -159,6 +170,9 @@ class CharacterProfile(Base):
 
     id: Mapped[uuid.UUID] = mapped_column(UuidV7(), primary_key=True, default=uuid7)
     display_name: Mapped[str] = mapped_column(String(200), nullable=False)
+    subject_kind: Mapped[SubjectKind] = mapped_column(
+        enum_type(SubjectKind, "subject_kind"), nullable=False, default=SubjectKind.CHARACTER
+    )
     source_label: Mapped[str] = mapped_column(String(200), nullable=False, default="")
     summary: Mapped[str] = mapped_column(Text, nullable=False, default="")
     scale_notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
@@ -211,6 +225,9 @@ class VisualMode(Base):
 
     id: Mapped[uuid.UUID] = mapped_column(UuidV7(), primary_key=True, default=uuid7)
     name: Mapped[str] = mapped_column(String(200), nullable=False)
+    category: Mapped[VisualModeCategory] = mapped_column(
+        enum_type(VisualModeCategory, "visual_mode_category"), nullable=False
+    )
     description: Mapped[str] = mapped_column(Text, nullable=False, default="")
     notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
     row_version: Mapped[int] = mapped_column(Integer, nullable=False)
@@ -250,6 +267,9 @@ class ReferenceItem(Base):
     )
     label: Mapped[str] = mapped_column(String(300), nullable=False, default="")
     notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    #: Where a user-added reference was found (a post, a gallery). Never fetched.
+    source_url: Mapped[str | None] = mapped_column(Text, nullable=True)
+    creator_handle: Mapped[str | None] = mapped_column(String(200), nullable=True)
     favorite: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
     #: Typed provenance union (ADR-0003 section 10), e.g. {"kind": "source", ...}.
     provenance: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False)
@@ -262,6 +282,9 @@ class ReferenceItem(Base):
     __table_args__ = (
         CheckConstraint(_REGION_CHECK, name="region_all_or_none_and_inside"),
         CheckConstraint("unit_index IS NULL OR unit_index >= 0", name="unit_index_non_negative"),
+        CheckConstraint(
+            "source_url IS NULL OR source_url ~ '^https?://'", name="source_url_is_web"
+        ),
         Index("ix_reference_item_asset_id", "asset_id"),
         Index("ix_reference_item_locator", "locator"),
     )
@@ -358,6 +381,101 @@ class ReferenceDescriptor(Base):
     )
 
 
+class ReferenceUseLink(Base):
+    """What a reference is intended for. The same page may serve several uses."""
+
+    __tablename__ = "reference_use"
+
+    id: Mapped[uuid.UUID] = mapped_column(UuidV7(), primary_key=True, default=uuid7)
+    reference_id: Mapped[uuid.UUID] = mapped_column(
+        UuidV7(), ForeignKey("reference_item.id", ondelete="CASCADE"), nullable=False
+    )
+    use: Mapped[ReferenceUse] = mapped_column(
+        enum_type(ReferenceUse, "reference_use_kind"), nullable=False
+    )
+    notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    created_at: Mapped[dt.datetime] = _created()
+
+    __table_args__ = (UniqueConstraint("reference_id", "use"),)
+
+
+class IntakeBatch(Base):
+    """One intake session in the inbox: a paste of links, a folder of images."""
+
+    __tablename__ = "intake_batch"
+
+    id: Mapped[uuid.UUID] = mapped_column(UuidV7(), primary_key=True, default=uuid7)
+    kind: Mapped[IntakeKind] = mapped_column(enum_type(IntakeKind, "intake_kind"), nullable=False)
+    label: Mapped[str] = mapped_column(String(200), nullable=False, default="")
+    notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    created_at: Mapped[dt.datetime] = _created()
+
+
+class ReferenceCandidate(Base):
+    """A reference waiting to be triaged. Accepting it creates a reference item.
+
+    A URL candidate is a link and nothing more: Continuum never downloads it.
+    It becomes acceptable once the user attaches bytes (an image or a
+    screenshot), which is when it gains a content-derived locator.
+    """
+
+    __tablename__ = "reference_candidate"
+
+    id: Mapped[uuid.UUID] = mapped_column(UuidV7(), primary_key=True, default=uuid7)
+    batch_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("intake_batch.id", ondelete="SET NULL"), nullable=True
+    )
+    intake_kind: Mapped[IntakeKind] = mapped_column(
+        enum_type(IntakeKind, "intake_kind"), nullable=False
+    )
+    status: Mapped[CandidateStatus] = mapped_column(
+        enum_type(CandidateStatus, "candidate_status"), nullable=False
+    )
+    source_url: Mapped[str | None] = mapped_column(Text, nullable=True)
+    creator_handle: Mapped[str | None] = mapped_column(String(200), nullable=True)
+    #: A display name from the upload, sanitised; never used to find bytes.
+    display_name: Mapped[str] = mapped_column(String(300), nullable=False, default="")
+    asset_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("library_asset.id", ondelete="RESTRICT"), nullable=True
+    )
+    #: Where a screenshot was captured from, e.g. a held video's locator and instant.
+    capture: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False, default=dict)
+    origin: Mapped[ReferenceOrigin] = mapped_column(
+        enum_type(ReferenceOrigin, "reference_origin"), nullable=False
+    )
+    suggested_class: Mapped[ReferenceClass | None] = mapped_column(
+        enum_type(ReferenceClass, "reference_class"), nullable=True
+    )
+    intended_uses: Mapped[list[str]] = mapped_column(JSONB, nullable=False, default=list)
+    tags: Mapped[list[str]] = mapped_column(JSONB, nullable=False, default=list)
+    notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    reference_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("reference_item.id", ondelete="SET NULL"), nullable=True
+    )
+    row_version: Mapped[int] = mapped_column(Integer, nullable=False)
+    created_at: Mapped[dt.datetime] = _created()
+    updated_at: Mapped[dt.datetime] = _updated()
+
+    __mapper_args__ = {"version_id_col": row_version}
+    __table_args__ = (
+        CheckConstraint(
+            "source_url IS NULL OR source_url ~ '^https?://'", name="source_url_is_web"
+        ),
+        CheckConstraint(
+            "intake_kind <> 'URL' OR source_url IS NOT NULL", name="url_intake_has_url"
+        ),
+        CheckConstraint(
+            "intake_kind NOT IN ('IMAGE', 'VIDEO', 'SCREENSHOT') OR asset_id IS NOT NULL",
+            name="file_intake_has_bytes",
+        ),
+        CheckConstraint(
+            "status <> 'ACCEPTED' OR reference_id IS NOT NULL", name="accepted_has_reference"
+        ),
+        Index("ix_reference_candidate_status", "status"),
+        Index("ix_reference_candidate_batch_id", "batch_id"),
+    )
+
+
 # ---------------------------------------------------------------------------
 # Tier C - project continuity
 # ---------------------------------------------------------------------------
@@ -426,4 +544,60 @@ class ProjectPanelSource(Base):
             postgresql_nulls_not_distinct=True,
         ),
         Index("ix_project_panel_source_target", "project_key", "episode", "page"),
+    )
+
+
+class ProjectVisualModeAssignment(Base):
+    """A project applies a visual mode to a scope - never globally to a character.
+
+    ``character_id`` names who the mode acts on within the scope: the character
+    whose controllable deformed form this is, or who compresses in a comedic
+    beat. The character's identity is untouched: the mode is how the moment is
+    drawn, not who the character is.
+    """
+
+    __tablename__ = "project_visual_mode_assignment"
+
+    id: Mapped[uuid.UUID] = mapped_column(UuidV7(), primary_key=True, default=uuid7)
+    project_key: Mapped[str] = mapped_column(String(80), nullable=False)
+    visual_mode_id: Mapped[uuid.UUID] = mapped_column(
+        UuidV7(), ForeignKey("visual_mode.id", ondelete="RESTRICT"), nullable=False
+    )
+    scope: Mapped[ModeScope] = mapped_column(enum_type(ModeScope, "mode_scope"), nullable=False)
+    episode: Mapped[str | None] = mapped_column(String(40), nullable=True)
+    scene: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    page_from: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    page_to: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    panel: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    event_label: Mapped[str | None] = mapped_column(String(200), nullable=True)
+    trigger: Mapped[ModeTrigger] = mapped_column(
+        enum_type(ModeTrigger, "mode_trigger"), nullable=False
+    )
+    character_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("character_profile.id", ondelete="RESTRICT"), nullable=True
+    )
+    notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    created_at: Mapped[dt.datetime] = _created()
+
+    __table_args__ = (
+        CheckConstraint(
+            "(scope = 'EPISODE' AND episode IS NOT NULL)"
+            " OR (scope = 'SCENE' AND episode IS NOT NULL AND scene IS NOT NULL)"
+            " OR (scope = 'SEQUENCE' AND episode IS NOT NULL AND page_from IS NOT NULL"
+            " AND page_to IS NOT NULL AND page_to >= page_from)"
+            " OR (scope = 'PANEL' AND episode IS NOT NULL AND page_from IS NOT NULL"
+            " AND panel IS NOT NULL)"
+            " OR (scope = 'EVENT' AND event_label IS NOT NULL)",
+            name="scope_has_its_target",
+        ),
+        CheckConstraint(
+            "trigger <> 'CHARACTER_CONTROLLED' OR character_id IS NOT NULL",
+            name="controlled_has_character",
+        ),
+        CheckConstraint(
+            "(scene IS NULL OR scene >= 1) AND (page_from IS NULL OR page_from >= 1)"
+            " AND (panel IS NULL OR panel >= 1)",
+            name="positions_positive",
+        ),
+        Index("ix_project_visual_mode_assignment_project_key", "project_key"),
     )

@@ -12,21 +12,12 @@ import {
   vaultFetch,
   words,
 } from "@/lib/vault";
+import { parseLinks } from "@/lib/links";
 import { OriginChip } from "../_vault/parts";
 import { Select, Toggles } from "../_vault/SpecForm";
 import { Feedback, useAction } from "../_vault/useAction";
 
 const content = (id: string) => `/vault-api/library/inbox/candidates/${id}/content`;
-
-/** "https://x.example/p/1 @artist #winter #coat" -> one link entry. */
-export function parseLinkLine(line: string): { url: string; creator_handle: string | null; tags: string[] } | null {
-  const parts = line.trim().split(/\s+/).filter(Boolean);
-  const url = parts.find((p) => /^https?:\/\//i.test(p));
-  if (!url) return null;
-  const handle = parts.find((p) => p.startsWith("@")) ?? null;
-  const tags = parts.filter((p) => p.startsWith("#") && p.length > 1).map((p) => p.slice(1));
-  return { url, creator_handle: handle, tags };
-}
 
 function Defaults({
   origin,
@@ -296,11 +287,10 @@ export function InboxBoard({ view, status }: { view: InboxView; status: string }
 
   const addLinks = () =>
     intake.run(async () => {
-      const entries = links
-        .split(/\r?\n/)
-        .map(parseLinkLine)
-        .filter((e): e is NonNullable<typeof e> => e !== null)
-        .map((e) => ({ ...e, creator_handle: e.creator_handle ?? (handle || null) }));
+      const entries = parseLinks(links).map((e) => ({
+        ...e,
+        creator_handle: e.creator_handle ?? (handle || null),
+      }));
       if (!entries.length) throw new VaultActionError("Paste at least one http(s) link.", 422);
       const result = await vaultFetch<{ created: unknown[]; skipped: { input: string; reason: string }[] }>(
         "library/inbox/urls",

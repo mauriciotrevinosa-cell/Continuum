@@ -1,4 +1,5 @@
 import { describe, expect, it } from "vitest";
+import { parseLinks } from "./links";
 import { overlaps, regionFromPoints } from "./regions";
 import { allowedVaultPath } from "./vault-paths";
 
@@ -61,5 +62,21 @@ describe("regionFromPoints", () => {
     const a = { x: 0, y: 0, width: 0.5, height: 0.5 };
     expect(overlaps(a, { x: 0.25, y: 0.25, width: 0.5, height: 0.5 })).toBe(true);
     expect(overlaps(a, { x: 0.5, y: 0, width: 0.5, height: 0.5 })).toBe(false);
+  });
+});
+
+describe("parseLinks", () => {
+  it("splits links, handles and tags even without line breaks", () => {
+    expect(
+      parseLinks("https://a.example/w/1 @artist #winter #outfithttps://b.example/w/2 #monster\nhttps://c.example/v/3"),
+    ).toEqual([
+      { url: "https://a.example/w/1", creator_handle: "@artist", tags: ["winter", "outfit"] },
+      { url: "https://b.example/w/2", creator_handle: null, tags: ["monster"] },
+      { url: "https://c.example/v/3", creator_handle: null, tags: [] },
+    ]);
+  });
+
+  it("ignores text that is not a link", () => {
+    expect(parseLinks("just some notes #tag @someone")).toEqual([]);
   });
 });

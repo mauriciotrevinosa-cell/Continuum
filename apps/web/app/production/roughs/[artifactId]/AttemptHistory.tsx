@@ -20,20 +20,30 @@ const image = (id: string, kind = "OUTPUT") =>
 
 const PENDING = new Set(["QUEUED", "RENDERING"]);
 
-function Review({ detail, characters }: { detail: AttemptDetail; characters: CharacterSummary[] }) {
+function Review({
+  detail,
+  characters,
+  onChanged,
+}: {
+  detail: AttemptDetail;
+  characters: CharacterSummary[];
+  onChanged: () => void;
+}) {
   const { busy, error, done, run } = useAction();
   const [notes, setNotes] = useState("");
   const [seed, setSeed] = useState("");
   const [label, setLabel] = useState("");
   const [characterId, setCharacterId] = useState("");
-  const decide = (decision: string) =>
-    run(
+  const decide = async (decision: string) => {
+    const result = await run(
       () =>
         vaultFetch(`production/attempts/${detail.id}/review`, {
           json: { decision, notes, seed: decision === "REGENERATE" && seed ? Number(seed) : null },
         }),
       decision === "REGENERATE" ? "A new attempt is queued." : `${words(decision)}d.`,
     );
+    if (result) onChanged();
+  };
   if (PENDING.has(detail.display_state) || detail.display_state === "BLOCKED" || detail.display_state === "FAILED") {
     return null;
   }
@@ -111,6 +121,7 @@ function Review({ detail, characters }: { detail: AttemptDetail; characters: Cha
 function Detail({ id, characters }: { id: string; characters: CharacterSummary[] }) {
   const [detail, setDetail] = useState<AttemptDetail | null>(null);
   const [kind, setKind] = useState("OUTPUT");
+  const [version, setVersion] = useState(0);
   const retry = useAction();
 
   useEffect(() => {
@@ -127,7 +138,7 @@ function Detail({ id, characters }: { id: string; characters: CharacterSummary[]
       live = false;
       clearInterval(timer);
     };
-  }, [id, detail?.display_state]); // eslint-disable-line react-hooks/exhaustive-deps
+  }, [id, version, detail?.display_state]); // eslint-disable-line react-hooks/exhaustive-deps
 
   if (!detail) return <p className="hint">Loading attempt…</p>;
   const intent = detail.recipe.intent;
@@ -157,7 +168,13 @@ function Detail({ id, characters }: { id: string; characters: CharacterSummary[]
                 className="button small"
                 type="button"
                 disabled={retry.busy}
-                onClick={() => retry.run(() => vaultFetch(`jobs/${detail.job!.id}/retry`, { json: {} }), "Queued again.")}
+                onClick={async () => {
+                  const queued = await retry.run(
+                    () => vaultFetch(`jobs/${detail.job!.id}/retry`, { json: {} }),
+                    "Queued again.",
+                  );
+                  if (queued) setVersion((v) => v + 1);
+                }}
               >
                 Retry
               </button>
@@ -185,7 +202,7 @@ function Detail({ id, characters }: { id: string; characters: CharacterSummary[]
             <p>The worker renders attempts in the background; closing this page does not stop it.</p>
           </div>
         )}
-        <Review detail={detail} characters={characters} />
+        <Review detail={detail} characters={characters} onChanged={() => setVersion((v) => v + 1)} />
       </div>
 
       <div className="stack">

@@ -6,12 +6,33 @@ import {
   MEDIA_ID,
   type MediaDetail,
   media,
+  projects as projectsApi,
 } from "@/lib/api";
+import { type CharacterSummary, type VisualMode, vault } from "@/lib/vault";
 import { classLabel, formatBytes, plural, seasonLabel } from "@/lib/acquisition";
+import { ImageView } from "../ImageView";
 import { Player } from "../Player";
 import { Reader } from "../Reader";
 
 export const dynamic = "force-dynamic";
+
+/** Who and what a new reference can be linked to. Empty when the vault is down. */
+async function vaultChoices(): Promise<{
+  characters: CharacterSummary[];
+  modes: VisualMode[];
+  projects: { id: string; title: string }[];
+}> {
+  const [characters, styles, projects] = await Promise.all([
+    vault.characters().catch(() => []),
+    vault.styles().catch(() => null),
+    projectsApi.list().catch(() => []),
+  ]);
+  return {
+    characters,
+    modes: styles?.modes ?? [],
+    projects: projects.map((p) => ({ id: p.id, title: p.title })),
+  };
+}
 
 /**
  * Opens one held file by its opaque id.
@@ -63,8 +84,12 @@ export default async function ViewPage({ params }: { params: Promise<{ mediaId: 
   const nextHref = detail.next_id ? `/view/${detail.next_id}` : null;
 
   if (unit.view === "pages" && listing && listing.pages.length) {
+    const choices = await vaultChoices();
     return (
       <Reader
+        characters={choices.characters}
+        modes={choices.modes}
+        projects={choices.projects}
         mediaId={unit.id}
         total={listing.pages.length}
         chapters={listing.chapters}
@@ -103,6 +128,8 @@ export default async function ViewPage({ params }: { params: Promise<{ mediaId: 
 
         {unit.view === "video" ? (
           <Player mediaId={unit.id} maybe={unit.plays_in_browser === "maybe"} />
+        ) : unit.view === "image" ? (
+          <ImageView mediaId={unit.id} name={unit.name} {...await vaultChoices()} />
         ) : unit.view === "document" ? (
           <iframe className="document-frame" src={`/media/${unit.id}/content`} title={unit.name} />
         ) : unit.view === "bundle" ? (

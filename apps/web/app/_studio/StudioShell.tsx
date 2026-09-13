@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { SideLink } from "./SideLink";
 import "./studio.css";
+import "./vault.css";
 
 /**
  * The Continuum studio frame.
@@ -32,6 +33,14 @@ export function StudioShell({ children }: { children: React.ReactNode }) {
             </SideLink>
             <SideLink href="/library/acquisition/intake">Intake</SideLink>
             <SideLink href="/library/acquisition/updates">Updates</SideLink>
+          </nav>
+
+          <nav className="side-group" aria-label="Reference vault">
+            <h2>Reference vault</h2>
+            <SideLink href="/library/references">References</SideLink>
+            <SideLink href="/library/characters">Characters</SideLink>
+            <SideLink href="/library/styles">Styles &amp; modes</SideLink>
+            <SideLink href="/library/inbox">Inbox</SideLink>
           </nav>
 
           <nav className="side-group" aria-label="Projects">

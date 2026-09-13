@@ -249,3 +249,30 @@ def test_projects_default_to_the_projects_root(data_home: Path, vault_root: Path
     with _client(data_home, vault_root, "") as client:
         listed = client.get("/projects").json()
     assert [p["id"] for p in listed] == ["demo-root-project"]
+
+
+REPOSITORY = Path(__file__).resolve().parents[2]
+
+
+def test_repository_project_manifests_are_consistent(data_home: Path, vault_root: Path) -> None:
+    """Every manifest committed to this repository loads cleanly.
+
+    Registered files exist, lifecycles are known, and every ``supersedes`` or
+    ``derived_from`` names a document of the same project. Nothing here knows
+    which projects exist; a repository with none passes.
+    """
+    folders = sorted(
+        {m.parent.parent for m in (REPOSITORY / "docs").rglob("continuum.project.json")}
+    )
+    for folder in folders:
+        with _client(data_home, vault_root, str(folder)) as client:
+            for summary in client.get("/projects").json():
+                detail = client.get(f"/projects/{summary['id']}").json()
+                assert summary["warnings"] == [], summary["warnings"]
+                documents = detail["documents"]
+                ids = {d["id"] for d in documents}
+                for d in documents:
+                    for field in ("supersedes", "derived_from"):
+                        assert d[field] in ids | {None}, f"{d['id']}.{field} -> {d[field]}"
+                    if d["filed"]:
+                        assert d["lifecycle"] != "UNFILED", f"{d['id']} has an unknown lifecycle"

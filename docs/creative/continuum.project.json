@@ -19,7 +19,20 @@
       "version": "0.1",
       "lineage": "s1e1-structure",
       "episode": "S1E1",
-      "summary": "The approved Story Room structure for the opening episode. Dialogue, paneling, page count and runtime are not locked."
+      "summary": "The approved scene-card structure for the opening episode: sixteen scenes in their accepted dramatic sequence. Page count, runtime, panel and shot counts and final lines are not locked."
+    },
+    {
+      "id": "s1e1-draft-1",
+      "path": "THE_ARRIVALS_S1E1_DRAFT_1_v0.1.md",
+      "title": "S1E1 — Not This Time · Draft 1",
+      "category": "draft",
+      "section": "story",
+      "lifecycle": "DRAFT",
+      "version": "0.1",
+      "lineage": "s1e1-draft",
+      "episode": "S1E1",
+      "derived_from": "s1e1-not-this-time",
+      "summary": "Draft 1 derived from the approved scene-card structure. Currently under human review; not approved canon."
     },
     {
       "id": "opening-groups",

@@ -1,7 +1,7 @@
 # Phase 0 Report
 
-**Status:** implementation, integrated verification and the final concurrency closure audit (H-1/H-2/H-3) complete; PR #7 review pending.  
-**Recommendation:** **DO NOT TAG** `continuum-phase-0` until PR #7 is reviewed, approved and merged, CI is green on merged `master`, a final local smoke test passes and closure is explicitly decided.  
+**Status:** implementation, integrated verification and the final concurrency closure audit (H-1/H-2/H-3) complete. PR #7 was independently reviewed by ChatGPT: the H-1/H-2/H-3 root fix, CI run `34774576484` and the 110.4 cross-platform coverage are accepted, and finalization gate #7 is accepted as an explicit scope exception (§6, §8).  
+**Recommendation:** **DO NOT TAG** `continuum-phase-0` until PR #7 is merged, CI is green on merged `master`, the final local smoke test passes and closure is explicitly decided.  
 **Branch:** `phase-0/integrated-candidate`  
 **Integrated production-code merge:** `5e99d42fa1bc202005c80d2beeb84081ffdc9821`  
 **Latest production-code commit:** `81aa80d4520b88dfb58418e8311a487cc1ce9369` (ownership guard, final audit H-1/H-2/H-3)  
@@ -183,7 +183,14 @@ No Phase 1+ production feature was added by either concurrency remediation, thei
 - a generic Project workspace for Markdown story documents;
 - the Story Room creative documents from `master`.
 
-That work touches no job-system code and adds no database table. The Source Vault stays read-only. Finalization gate item 7 below ("no Phase 1 work has entered the candidate") therefore needs an explicit decision by the reviewers, not an assumption.
+That work touches no job-system code and adds no database table. The Source Vault stays read-only.
+
+**Reviewer decision (ChatGPT review of PR #7, 2026-09-13): finalization gate #7 is ACCEPTED AS AN EXPLICIT SCOPE EXCEPTION.**
+
+- PR #7 intentionally contains these previously integrated surfaces: Library Acquisition, the read-only media viewer, the generic Project workspace and the Story Room documents. They do not need to be removed from the candidate.
+- They are deliberately pre-integrated product surfaces, carried through the Phase 0 closure.
+- The decision **does not** mean Phase 1 is complete, and it waives no later Phase 1 requirement. These surfaces will be held to Phase 1's own requirements when that phase reaches them.
+- Phase 1 still begins as its own engineering phase, after Phase 0 closure.
 
 The list below describes the Phase 0 foundation as originally scoped:
 
@@ -224,17 +231,17 @@ Before creating `continuum-phase-0`, all of the following must be true:
 7. no Phase 1 work has entered the candidate;
 8. only then may the immutable `continuum-phase-0` tag be created.
 
-Status on 2026-09-13 (candidate branch, before PR #7 review):
+Status on 2026-09-13, after ChatGPT's review of PR #7:
 
 | # | Condition | Status |
 |---|---|---|
-| 1 | exact candidate SHA audited | production code `81aa80d`; the audit document names it and is a documentation-only descendant |
+| 1 | exact candidate SHA audited | reviewed PR head `ddeb18c`; production code `81aa80d` |
 | 2 | C-1 and C-2 scenarios pass on PostgreSQL | yes (lease-concurrency and dependency-concurrency suites green locally and in CI) |
-| 3 | ownership review point (§7) cleared or fixed | **fixed** (H-1/H-2/H-3) |
-| 4 | full tests and quality gates green | yes, locally with PostgreSQL and in GitHub Actions |
-| 5 | 110.4 POSIX-only coverage | skipped on Windows by marker; intended to run on the Ubuntu CI job |
+| 3 | ownership review point (§7) cleared or fixed | **fixed** (H-1/H-2/H-3); root fix accepted by the reviewer |
+| 4 | full tests and quality gates green | yes, locally with PostgreSQL and in GitHub Actions; CI run `34774576484` accepted |
+| 5 | 110.4 POSIX-only coverage | **accepted** by the reviewer as cross-platform coverage |
 | 6 | no unresolved Critical/High defect | none known |
-| 7 | no Phase 1 work in the candidate | **needs a reviewer decision**: see the scope note in §6 |
+| 7 | no Phase 1 work in the candidate | **accepted as an explicit scope exception** (§6): the pre-integrated Library Acquisition, media viewer, Project workspace and Story Room documents stay; Phase 1 is not complete and none of its requirements are waived |
 | 8 | tag | not created |
 
-After review: PR #7 approval and merge, green CI on merged `master`, final local smoke test, explicit closure decision. Until those conditions are met: **DO NOT TAG, DO NOT START PHASE 1.**
+Remaining before the tag: merge PR #7, green CI on merged `master`, the final local smoke test on merged `master`, and the explicit closure decision. Until then: **DO NOT TAG, DO NOT START PHASE 1.**

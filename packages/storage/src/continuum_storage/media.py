@@ -119,8 +119,9 @@ class MediaFile:
     kind: str
     size_bytes: int
     content_type: str | None
-    #: "pages" (image archive), "video", "document", "image" (standalone
-    #: image), "bundle" (archive of videos), or "none".
+    #: "pages" (archive of images only), "bundle" (archive of videos only),
+    #: "mixed" (archive holding both - neither kind wins), "video", "document",
+    #: "image" (standalone image), or "none" (software, other archives, other files).
     view: str
     archive_images: int = 0
     archive_videos: int = 0
@@ -273,7 +274,7 @@ class MediaLibrary:
 
     def archive_listing(self, media_id: str) -> ArchiveListing:
         media = self.describe(media_id)
-        if media.view not in ("pages", "bundle"):
+        if media.view not in ("pages", "bundle", "mixed"):
             raise MediaUnavailableError(media_id)
         rel, record = self._lookup(media_id)
         key = (media_id, int(record.get("size") or 0), int(record.get("mtime_ns") or 0))
@@ -360,6 +361,9 @@ def _describe(media_id: str, rel: str, record: dict[str, Any]) -> MediaFile:
         view, content_type = "document", DOCUMENT_TYPES[extension]
     elif extension in IMAGE_TYPES:
         view, content_type = "image", IMAGE_TYPES[extension]
+    elif extension in ARCHIVE_EXTENSIONS and images and videos:
+        # A ZIP is not "manga": what it holds decides. Images do not outrank video.
+        view, content_type = "mixed", None
     elif extension in ARCHIVE_EXTENSIONS and images:
         view, content_type = "pages", None
     elif extension in ARCHIVE_EXTENSIONS and videos:

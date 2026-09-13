@@ -141,7 +141,7 @@ class SourceAccess:
         digest = cached if cached and is_sha256_hex(cached) else self._hash(rel, size, mtime)
         extension = described.extension
 
-        if extension in ARCHIVE_EXTENSIONS and described.view == "pages":
+        if extension in ARCHIVE_EXTENSIONS and described.view in ("pages", "mixed"):
             if page_index is None or pdf_page is not None:
                 raise SourceUnavailableError("Choose a page of the archive.")
             listing = self._media.archive_listing(media_id)

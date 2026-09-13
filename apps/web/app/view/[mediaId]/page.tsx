@@ -41,8 +41,15 @@ async function vaultChoices(): Promise<{
  * PDFs open inline, and an archive of videos shows what it contains - it is
  * never treated as an episode. Anything else is described honestly.
  */
-export default async function ViewPage({ params }: { params: Promise<{ mediaId: string }> }) {
+export default async function ViewPage({
+  params,
+  searchParams,
+}: {
+  params: Promise<{ mediaId: string }>;
+  searchParams: Promise<{ read?: string }>;
+}) {
   const { mediaId } = await params;
+  const { read } = await searchParams;
   if (!MEDIA_ID.test(mediaId)) notFound();
 
   let detail: MediaDetail | null = null;
@@ -50,7 +57,7 @@ export default async function ViewPage({ params }: { params: Promise<{ mediaId: 
   let offline: string | null = null;
   try {
     detail = await media.detail(mediaId);
-    if (detail.unit.view === "pages" || detail.unit.view === "bundle") {
+    if (["pages", "bundle", "mixed"].includes(detail.unit.view)) {
       listing = await media.pages(mediaId);
     }
   } catch (cause) {
@@ -83,7 +90,8 @@ export default async function ViewPage({ params }: { params: Promise<{ mediaId: 
   const previousHref = detail.previous_id ? `/view/${detail.previous_id}` : null;
   const nextHref = detail.next_id ? `/view/${detail.next_id}` : null;
 
-  if (unit.view === "pages" && listing && listing.pages.length) {
+  const readingImages = unit.view === "mixed" && read === "images";
+  if ((unit.view === "pages" || readingImages) && listing && listing.pages.length) {
     const choices = await vaultChoices();
     return (
       <Reader
@@ -94,7 +102,7 @@ export default async function ViewPage({ params }: { params: Promise<{ mediaId: 
         total={listing.pages.length}
         chapters={listing.chapters}
         title={title}
-        backHref={workHref}
+        backHref={readingImages ? `/view/${unit.id}` : workHref}
         previousHref={previousHref}
         nextHref={nextHref}
       />
@@ -132,14 +140,30 @@ export default async function ViewPage({ params }: { params: Promise<{ mediaId: 
           <ImageView mediaId={unit.id} name={unit.name} {...await vaultChoices()} />
         ) : unit.view === "document" ? (
           <iframe className="document-frame" src={`/media/${unit.id}/content`} title={unit.name} />
-        ) : unit.view === "bundle" ? (
+        ) : unit.view === "bundle" || unit.view === "mixed" ? (
           <section className="surface" style={{ padding: "22px 24px" }}>
-            <p style={{ marginTop: 0 }}>
-              <strong>An archive, not an episode.</strong> It holds{" "}
-              {plural(contained.length || unit.contained_videos, "video")}. Continuum doesn&apos;t
-              extract anything into your Vault, and a compressed archive can&apos;t be played from
-              inside, so these can&apos;t be watched here yet.
-            </p>
+            {unit.view === "mixed" ? (
+              <p style={{ marginTop: 0 }}>
+                <strong>A mixed archive.</strong> It holds{" "}
+                {plural(listing?.pages.length ?? unit.pages, "image")} and{" "}
+                {plural(contained.length || unit.contained_videos, "video")} - it is neither a
+                manga volume nor an episode. The images can be read here; the videos can&apos;t be
+                played from inside a compressed archive, and Continuum doesn&apos;t extract anything
+                into your Vault.
+              </p>
+            ) : (
+              <p style={{ marginTop: 0 }}>
+                <strong>An archive, not an episode.</strong> It holds{" "}
+                {plural(contained.length || unit.contained_videos, "video")}. Continuum doesn&apos;t
+                extract anything into your Vault, and a compressed archive can&apos;t be played from
+                inside, so these can&apos;t be watched here yet.
+              </p>
+            )}
+            {unit.view === "mixed" && listing?.pages.length ? (
+              <Link className="button small primary" href={`/view/${unit.id}?read=images`}>
+                Read the {plural(listing.pages.length, "image")}
+              </Link>
+            ) : null}
             <div className="list" style={{ marginTop: 14 }}>
               {contained.map((video, index) => (
                 <div className="list-item" key={`${video.name}-${index}`}>

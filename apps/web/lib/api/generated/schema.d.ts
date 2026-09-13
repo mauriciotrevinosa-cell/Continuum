@@ -3018,7 +3018,7 @@ export interface components {
              * View
              * @enum {string}
              */
-            view: "pages" | "video" | "document" | "image" | "bundle" | "none";
+            view: "pages" | "video" | "document" | "image" | "bundle" | "mixed" | "none";
             /** Volumes */
             volumes?: number[];
         };

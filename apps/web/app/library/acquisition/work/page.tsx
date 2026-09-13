@@ -24,6 +24,11 @@ function unitMeta(unit: MediaUnit): string {
   if (unit.view === "bundle") {
     parts.push(`archive · ${plural(unit.contained_videos, "video")} inside`);
   }
+  if (unit.view === "mixed") {
+    parts.push(
+      `archive · ${plural(unit.pages, "image")} and ${plural(unit.contained_videos, "video")} inside`,
+    );
+  }
   if (unit.view === "video" && unit.plays_in_browser === "maybe") parts.push("plays if the browser supports its codecs");
   if (unit.view === "none") parts.push("preview not supported yet");
   parts.push(formatBytes(unit.size_bytes));
@@ -39,6 +44,7 @@ function action(unit: MediaUnit): string {
     case "document":
       return "Open";
     case "bundle":
+    case "mixed":
       return "See inside";
     default:
       return "Details";
@@ -158,7 +164,7 @@ export default async function WorkPage({
               <div style={{ minWidth: 0 }}>
                 <h3>{unit.label}</h3>
                 <p className="sub">{unitMeta(unit)}</p>
-                {unit.view === "bundle" && unit.contained.length ? (
+                {(unit.view === "bundle" || unit.view === "mixed") && unit.contained.length ? (
                   <p className="sub">{bundleSummary(unit) || plural(unit.contained.length, "video")}</p>
                 ) : null}
               </div>

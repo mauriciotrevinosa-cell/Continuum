@@ -739,9 +739,9 @@ class MediaUnit(BaseModel):
     name: str
     kind: str
     #: pages: an image archive; video: a playable file; document: a PDF;
-    #: image: a standalone picture; bundle: an archive of videos;
-    #: none: held, but not previewable.
-    view: Literal["pages", "video", "document", "image", "bundle", "none"]
+    #: image: a standalone picture; bundle: an archive of videos only;
+    #: mixed: an archive holding images and videos; none: held, not previewable.
+    view: Literal["pages", "video", "document", "image", "bundle", "mixed", "none"]
     size_bytes: int = 0
     label: str = ""
     season: int | None = None

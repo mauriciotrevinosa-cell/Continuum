@@ -5,6 +5,8 @@
 **Production-code integration merge:** `5e99d42fa1bc202005c80d2beeb84081ffdc9821`  
 **Important:** the branch may contain documentation-only descendants of that merge. Before auditing, fetch and record the exact current branch HEAD; audit that immutable SHA.
 
+> **Update 2026-09-13.** The explicit ownership question below, and hypotheses H-1/H-2/H-3 of `PHASE_0_CHATGPT_PRE_AUDIT_REVIEW.md`, have been answered: **DEFECT**, reproduced deterministically and fixed in production commit `81aa80d4520b88dfb58418e8311a487cc1ce9369`. That commit is the new production-code baseline to audit. See `docs/PHASE_0_FINAL_CONCURRENCY_AUDIT.md` for the reproductions, root fix, regression tests and gate results. The remaining guidance in this handoff still applies to any further independent audit.
+
 ## Auditor role
 
 Act as an auditor, not an implementer.
@@ -74,6 +76,8 @@ Attempt at minimum:
 The implementation uses a PostgreSQL transaction-scoped advisory lock. Verify the locking scope actually covers the reachability decision and insert through commit/rollback semantics.
 
 ## Explicit ownership question that must be answered
+
+**Answered 2026-09-13: DEFECT (Critical), fixed in `81aa80d`.** A worker that lost its job between unit completion and the unguarded renewal extended the new owner's lease, reproduced by `test_a_stale_worker_cannot_extend_the_new_owners_lease`. Adjacent unguarded writes let it also record progress and mark the job SUCCEEDED. The original question is kept below for the record.
 
 `packages/jobs/src/continuum_jobs/execution.py` contains a post-unit call equivalent to:
 

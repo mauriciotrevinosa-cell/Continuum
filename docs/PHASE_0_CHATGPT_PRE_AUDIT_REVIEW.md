@@ -66,3 +66,22 @@ The final audit should still attempt:
 ## Pre-audit disposition
 
 No production change is made by this review. C-1 and C-2 remediations remain integrated and all currently shipped gates are green, but Phase 0 should **not** be tagged until H-1/H-2/H-3 are either cleared with reasoning + adversarial evidence or fixed and re-audited.
+
+## Resolution — 2026-09-13
+
+All three hypotheses were **confirmed as defects** by deterministic PostgreSQL reproductions against `bc7836f`, and **fixed** in `81aa80d4520b88dfb58418e8311a487cc1ce9369`:
+
+| Hypothesis | Deterministic reproduction on `bc7836f` | Severity |
+|---|---|---|
+| H-1 | the stale worker recorded progress and a checkpoint, extended the new owner's lease and marked the new owner's job SUCCEEDED | Critical |
+| H-2 | a handler exception after the loss (heartbeat aware or not) moved the new owner's job to FAILED_RETRYABLE with retry bookkeeping | High |
+| H-3 | stale-object transitions overwrote a newer owner; a stale API resume reopened a CANCELLED job; the worker's BLOCKED path parked another worker's job | High |
+
+Root fix:
+- every worker-owned write proves ownership under a `FOR NO KEY UPDATE` row lock held until its own commit;
+- `transition()` itself refuses a non-owner or a caller whose loaded status/owner differs from the committed row;
+- `renew_lease()` requires `worker_id`.
+
+Regression tests (`tests/acceptance/test_110_06_11_ownership_finalization.py`, `tests/invariants/test_worker_ownership_contract.py`) fail on the original code and pass on the fix.
+
+The C-2 items listed above were not extended in this pass; the existing C-2 suite remains green. Full record, call-site audit and gate outputs: `docs/PHASE_0_FINAL_CONCURRENCY_AUDIT.md`.

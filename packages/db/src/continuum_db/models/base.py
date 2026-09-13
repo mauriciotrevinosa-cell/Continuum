@@ -17,11 +17,20 @@ from typing import Any
 
 from continuum_core import uuid7
 from sqlalchemy import DateTime, MetaData, func
+from sqlalchemy import Enum as SaEnum
 from sqlalchemy.dialects.postgresql import JSONB
 from sqlalchemy.orm import DeclarativeBase, mapped_column
 from sqlalchemy.types import TypeDecorator, Uuid
 
-__all__ = ["Base", "JsonDict", "TimestampTz", "db_now", "pk_column", "timestamp_column"]
+__all__ = [
+    "Base",
+    "JsonDict",
+    "TimestampTz",
+    "db_now",
+    "enum_type",
+    "pk_column",
+    "timestamp_column",
+]
 
 #: Explicit naming so Alembic autogenerate produces stable, reviewable names
 #: instead of database-assigned ones that differ between environments.
@@ -72,3 +81,15 @@ def timestamp_column(*, server_default: bool = False, nullable: bool = True) -> 
 def db_now() -> Any:
     """SQL ``now()`` -- the only clock used for leases and scheduling."""
     return func.now()
+
+
+def enum_type(python_enum: type, name: str) -> SaEnum:
+    """VARCHAR + CHECK rather than a native PostgreSQL ENUM (see enums.py)."""
+    return SaEnum(
+        python_enum,
+        name=name,
+        native_enum=False,
+        length=32,
+        validate_strings=True,
+        create_constraint=True,
+    )

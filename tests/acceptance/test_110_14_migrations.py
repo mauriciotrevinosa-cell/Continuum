@@ -56,9 +56,11 @@ class TestMigrationsWithoutADatabase:
         result = _alembic("upgrade", "head", "--sql", data_home=str(tmp_path))
         assert result.returncode == 0, result.stderr
         sql = result.stdout
-        # Six application tables plus alembic_version.
-        assert sql.count("CREATE TABLE") == 7, sql.count("CREATE TABLE")
-        for table in ("job", "job_step", "job_checkpoint", "job_dependency", "job_event", "worker"):
+        from continuum_db.tiers import TABLE_REGISTRY
+
+        # Every declared table plus alembic_version, and nothing else.
+        assert sql.count("CREATE TABLE") == len(TABLE_REGISTRY) + 1, sql.count("CREATE TABLE")
+        for table in TABLE_REGISTRY:
             assert f"CREATE TABLE {table} " in sql, f"{table} missing from migration"
 
     def test_pgvector_extension_is_created(self, tmp_path) -> None:
@@ -86,13 +88,24 @@ class TestMigrationsWithoutADatabase:
         assert "ck_job_dependency_no_self_dependency" in sql
 
 
-class TestSchemaIsPhaseZeroOnly:
-    """ADR-0006 section 3 -- exactly six application tables, nothing else."""
+class TestSchemaMatchesTheDeclaredPhases:
+    """Every table is declared with its phase and tier (``continuum_db.tiers``).
 
-    def test_exactly_six_application_tables(self) -> None:
+    Phase 0 was exactly the six job tables (ADR-0006 section 3); Phase 1 adds
+    the reference vault and rough-manga production tables. A table that is
+    not declared is a leak, not a feature.
+    """
+
+    def test_tables_are_exactly_the_declared_ones(self) -> None:
         from continuum_db.models import Base
+        from continuum_db.tiers import TABLE_REGISTRY
 
-        assert set(Base.metadata.tables) == {
+        assert set(Base.metadata.tables) == set(TABLE_REGISTRY)
+
+    def test_phase_zero_tables_are_unchanged(self) -> None:
+        from continuum_db.tiers import TABLE_REGISTRY
+
+        assert {t for t, (phase, _) in TABLE_REGISTRY.items() if phase == 0} == {
             "job",
             "job_step",
             "job_checkpoint",
@@ -102,13 +115,13 @@ class TestSchemaIsPhaseZeroOnly:
         }
 
     def test_no_premature_domain_tables(self) -> None:
-        """No franchise, asset, character, canon, project, branch, artifact,
-        visual or provider table may exist in Phase 0."""
+        """Canon, story, world, branch, embedding and provider tables belong to
+        later phases. Phase 1's character profiles are reference-vault records,
+        not the Phase 5 canon ``character`` entity."""
         from continuum_db.models import Base
 
         forbidden = {
             "franchise",
-            "source_asset",
             "source_segment",
             "character",
             "character_version",
@@ -123,9 +136,6 @@ class TestSchemaIsPhaseZeroOnly:
             "project",
             "branch",
             "story_bible",
-            "artifact",
-            "artifact_version",
-            "generation_recipe",
             "visual_design",
             "moodboard",
             "provider",
@@ -134,8 +144,8 @@ class TestSchemaIsPhaseZeroOnly:
         }
         leaked = set(Base.metadata.tables) & forbidden
         assert leaked == set(), (
-            f"Phase 1+ tables leaked into Phase 0: {sorted(leaked)}. "
-            "See docs/PHASE_0_SCOPE_LOCK.md."
+            f"Later-phase tables leaked in: {sorted(leaked)}. See docs/PHASE_0_SCOPE_LOCK.md "
+            "and docs/PHASE_1_IMPLEMENTATION_PLAN_v0.1.md."
         )
 
 
@@ -155,4 +165,59 @@ class TestMigrationRoundTrip:
         home = str(db_settings.data_home)
         _alembic("upgrade", "head", data_home=home)
         current = _alembic("current", data_home=home)
-        assert "0001_phase0" in current.stdout
+        assert "0002_phase1 (head)" in current.stdout
+
+
+@pytest.mark.requires_db
+class TestPhaseOneSchemaMatchesTheModels:
+    """The migrated database and the ORM agree on every Phase 1 table.
+
+    Enum CHECK constraints are excluded: Alembic cannot reflect the checks an
+    ``Enum(create_constraint=True)`` column generates, so it reports them as
+    removals even though they exist exactly as intended. Phase 0 tables carry
+    pre-existing constraint-naming differences and are left untouched.
+    """
+
+    def test_no_phase_one_drift(self, db_settings) -> None:
+        from alembic.autogenerate import compare_metadata
+        from alembic.migration import MigrationContext
+        from continuum_db.models import Base
+        from continuum_db.tiers import TABLE_REGISTRY
+        from sqlalchemy import Enum, create_engine
+
+        assert _alembic("upgrade", "head", data_home=str(db_settings.data_home)).returncode == 0
+        phase1 = {t for t, (phase, _) in TABLE_REGISTRY.items() if phase == 1}
+        enum_checks = {
+            f"ck_{table.name}_{column.type.name}"
+            for table in Base.metadata.tables.values()
+            for column in table.columns
+            if isinstance(column.type, Enum)
+        }
+        engine = create_engine(db_settings.database_url.get_secret_value())
+        try:
+            with engine.connect() as connection:
+                context = MigrationContext.configure(connection, opts={"compare_type": True})
+                diffs = compare_metadata(context, Base.metadata)
+        finally:
+            engine.dispose()
+
+        def table_of(diff) -> str | None:
+            item = diff[1] if isinstance(diff, tuple) else diff[0]
+            table = getattr(item, "table", None)
+            if table is not None:
+                return table.name
+            if isinstance(diff, list):
+                return diff[0][2]
+            return getattr(item, "name", None)
+
+        drift = [
+            diff
+            for diff in diffs
+            if table_of(diff) in phase1
+            and not (
+                isinstance(diff, tuple)
+                and diff[0] == "remove_constraint"
+                and getattr(diff[1], "name", None) in enum_checks
+            )
+        ]
+        assert drift == [], drift

@@ -271,6 +271,16 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/library/inbox/candidates/{candidate_id}/dismiss",
             "/library/inbox/candidates/{candidate_id}/restore",
             "/library/inbox/candidates/{candidate_id}/accept",
+            # Phase 1 rough production: artifacts, attempts, review, provenance.
+            "/production/readiness",
+            "/projects/{project_id}/rough-artifacts",
+            "/production/rough-artifacts/{artifact_id}",
+            "/production/rough-artifacts/{artifact_id}/attempts",
+            "/production/attempts/{attempt_id}",
+            "/production/attempts/{attempt_id}/provenance",
+            "/production/attempts/{attempt_id}/image",
+            "/production/attempts/{attempt_id}/review",
+            "/production/attempts/{attempt_id}/continuity",
         }
 
     def test_cors_is_not_a_wildcard(self, settings: Settings) -> None:

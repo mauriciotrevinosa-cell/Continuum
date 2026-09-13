@@ -36,7 +36,16 @@ from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from starlette.responses import JSONResponse
 
-from continuum_api.routers import acquisition, health, jobs, library, media, projects, workers
+from continuum_api.routers import (
+    acquisition,
+    health,
+    jobs,
+    library,
+    media,
+    production,
+    projects,
+    workers,
+)
 
 __all__ = ["create_app"]
 
@@ -138,4 +147,5 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     app.include_router(media.router)
     app.include_router(projects.router)
     app.include_router(library.router)
+    app.include_router(production.router)
     return app

@@ -1,12 +1,9 @@
 [project]
-name = "continuum-worker"
+name = "continuum-production"
 version = "0.0.0"
-description = "Standalone durable worker process and synthetic handlers."
+description = "Phase 1 rough manga production: recipes, reference bundles, append-only attempts, review."
 requires-python = ">=3.12,<3.13"
-dependencies = ["continuum-core", "continuum-config", "continuum-db", "continuum-jobs", "continuum-library", "continuum-production", "continuum-imaging", "continuum-storage", "continuum-providers", "continuum-observability"]
-
-[project.scripts]
-continuum-worker = "continuum_worker.main:main"
+dependencies = ["continuum-core", "continuum-config", "continuum-db", "continuum-storage", "continuum-imaging", "continuum-jobs", "continuum-library", "continuum-observability", "continuum-providers"]
 
 [build-system]
 requires = ["hatchling"]
@@ -19,7 +16,6 @@ continuum-db = { workspace = true }
 continuum-imaging = { workspace = true }
 continuum-jobs = { workspace = true }
 continuum-library = { workspace = true }
-continuum-production = { workspace = true }
 continuum-observability = { workspace = true }
 continuum-providers = { workspace = true }
 continuum-storage = { workspace = true }

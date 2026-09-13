@@ -24,11 +24,14 @@ from continuum_providers.contracts import (
     Locality,
     PrivacyClass,
     ProviderDescriptor,
+    RoughRenderRequest,
+    RoughRenderResult,
 )
 
 __all__ = [
     "UNSATISFIABLE_CAPABILITY",
     "DeterministicEmbeddingProvider",
+    "DeterministicSketchProvider",
     "EchoTextProvider",
     "NullImageProvider",
 ]
@@ -123,4 +126,68 @@ class NullImageProvider:
                 "Visual Lab and image generation arrive in Phase 10 "
                 "(Master Plan section 109). Phase 0 ships contracts only."
             ),
+        )
+
+
+class DeterministicSketchProvider:
+    """Renders a rough as a labelled grayscale sketch of its recipe.
+
+    No model, no network, no randomness beyond the recorded seed: the same
+    request yields the same pixels, and a different seed yields a visibly
+    different attempt. It exists so the rough-manga pipeline (bundle, source
+    plate, edit intent, attempts, review) runs end to end before any real
+    image model is installed - and it says so in every image it draws.
+    """
+
+    WORKFLOW = "sketch.v1"
+
+    descriptor = ProviderDescriptor(
+        id="fake.deterministic-sketch",
+        capabilities=frozenset({Capability.ROUGH_RENDER}),
+        locality=Locality.LOCAL,
+        cost_class=CostClass.FREE,
+        privacy_class=PrivacyClass.ON_DEVICE,
+        model_ref=None,
+        version="1",
+        license_note="Fake provider. Draws recipe diagrams with Pillow; no model weights.",
+    )
+
+    def render_rough(self, request: RoughRenderRequest) -> RoughRenderResult:
+        from continuum_imaging.sketch import (
+            SketchOperation,
+            SketchPlacement,
+            SketchReference,
+            SketchRequest,
+            render_sketch,
+        )
+
+        rendered = render_sketch(
+            SketchRequest(
+                width=request.width,
+                height=request.height,
+                mode=request.mode,
+                seed=request.seed,
+                title=request.title,
+                lines=(*request.lines, "deterministic sketch - no model"),
+                plate=request.plate,
+                plate_region=request.plate_region,
+                operations=tuple(
+                    SketchOperation(op.kind, op.region, op.label) for op in request.operations
+                ),
+                placements=tuple(SketchPlacement(p.region, p.label) for p in request.placements),
+                references=tuple(
+                    SketchReference(r.role, r.label, r.data, r.region) for r in request.references
+                ),
+            )
+        )
+        return RoughRenderResult(
+            provider_id=self.descriptor.id,
+            model_ref=self.descriptor.model_ref,
+            version=self.descriptor.version,
+            workflow=self.WORKFLOW,
+            image=rendered.data,
+            mime=rendered.mime,
+            width=rendered.width,
+            height=rendered.height,
+            usage={"data_class": request.data_class.value},
         )

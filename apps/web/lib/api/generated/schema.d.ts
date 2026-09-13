@@ -1353,6 +1353,145 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/production/attempts/{attempt_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Attempt */
+        get: operations["get_attempt_production_attempts__attempt_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/attempts/{attempt_id}/continuity": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Promote To Continuity */
+        post: operations["promote_to_continuity_production_attempts__attempt_id__continuity_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/attempts/{attempt_id}/image": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Attempt Image */
+        get: operations["attempt_image_production_attempts__attempt_id__image_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/attempts/{attempt_id}/provenance": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Provenance */
+        get: operations["get_provenance_production_attempts__attempt_id__provenance_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/attempts/{attempt_id}/review": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Review Attempt */
+        post: operations["review_attempt_production_attempts__attempt_id__review_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/readiness": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Readiness
+         * @description Whether a rough renderer is permitted, and which - without running it.
+         */
+        get: operations["readiness_production_readiness_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/rough-artifacts/{artifact_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Artifact */
+        get: operations["get_artifact_production_rough_artifacts__artifact_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/rough-artifacts/{artifact_id}/attempts": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Request Attempt */
+        post: operations["request_attempt_production_rough_artifacts__artifact_id__attempts_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/projects": {
         parameters: {
             query?: never;
@@ -1415,6 +1554,24 @@ export interface paths {
         get: operations["list_panel_sources_projects__project_id__panel_sources_get"];
         put?: never;
         post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}/rough-artifacts": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Artifacts */
+        get: operations["list_artifacts_projects__project_id__rough_artifacts_get"];
+        put?: never;
+        /** Create Artifact */
+        post: operations["create_artifact_projects__project_id__rough_artifacts_post"];
         delete?: never;
         options?: never;
         head?: never;
@@ -1732,6 +1889,29 @@ export interface components {
             /** Label */
             label: string;
         };
+        /** ArtifactIn */
+        ArtifactIn: {
+            /**
+             * Brief
+             * @default
+             */
+            brief: string;
+            /** Chapter */
+            chapter?: number | null;
+            /** Episode */
+            episode: string;
+            /** Page */
+            page: number;
+            /** Panel */
+            panel?: number | null;
+            /** Panel Script Document */
+            panel_script_document?: string | null;
+            /**
+             * Title
+             * @default
+             */
+            title: string;
+        };
         /** AssignmentIn */
         AssignmentIn: {
             /** Character Id */
@@ -1761,6 +1941,33 @@ export interface components {
              * Format: uuid
              */
             visual_mode_id: string;
+        };
+        /** AttemptIn */
+        AttemptIn: {
+            /**
+             * Brief
+             * @default
+             */
+            brief: string;
+            /** Bundle */
+            bundle?: components["schemas"]["BundleEntryIn"][];
+            /** Characters */
+            characters?: components["schemas"]["DirectionIn"][];
+            execution?: components["schemas"]["ExecutionIn"];
+            /** Height */
+            height?: number | null;
+            mode: components["schemas"]["RoughMode"];
+            /** Operations */
+            operations?: components["schemas"]["OperationIn"][];
+            /** Placements */
+            placements?: components["schemas"]["PlacementIn"][];
+            plate_region?: components["schemas"]["RegionIn"] | null;
+            /** Seed */
+            seed?: number | null;
+            /** Visual Mode Ids */
+            visual_mode_ids?: string[];
+            /** Width */
+            width?: number | null;
         };
         /**
          * BlockedReason
@@ -1793,6 +2000,32 @@ export interface components {
             /** Ids */
             ids: string[];
         };
+        /** BundleEntryIn */
+        BundleEntryIn: {
+            aspect?: components["schemas"]["CharacterAspect"] | null;
+            /** Character Id */
+            character_id?: string | null;
+            /**
+             * Label
+             * @default
+             */
+            label: string;
+            /** Outfit Id */
+            outfit_id?: string | null;
+            /**
+             * Reference Id
+             * Format: uuid
+             */
+            reference_id: string;
+            region?: components["schemas"]["RegionIn"] | null;
+            role: components["schemas"]["BundleRole"];
+        };
+        /**
+         * BundleRole
+         * @description A reference's role in a rough attempt's bundle (never an undifferentiated pile).
+         * @enum {string}
+         */
+        BundleRole: "CANON" | "STYLE" | "TECHNIQUE" | "MOOD" | "SOURCE_PLATE" | "CONTINUITY";
         /**
          * CandidateStatus
          * @enum {string}
@@ -1897,6 +2130,21 @@ export interface components {
              */
             size_bytes: number;
         };
+        /** ContinuityIn */
+        ContinuityIn: {
+            /** Characters */
+            characters?: components["schemas"]["CharacterLinkIn"][];
+            /**
+             * Label
+             * @default
+             */
+            label: string;
+            /**
+             * Notes
+             * @default
+             */
+            notes: string;
+        };
         /** DefaultsIn */
         DefaultsIn: {
             /** Intended Uses */
@@ -1913,6 +2161,12 @@ export interface components {
             tags?: string[];
         };
         /**
+         * DerivativeKind
+         * @description Bytes an attempt produced, all content-addressed under generated/.
+         * @enum {string}
+         */
+        DerivativeKind: "OUTPUT" | "MASK" | "SOURCE_CROP";
+        /**
          * DescriptorFacet
          * @description Searchable descriptions of a reference, manual now, enrichable later.
          * @enum {string}
@@ -1923,6 +2177,23 @@ export interface components {
             facet: components["schemas"]["DescriptorFacet"];
             /** Value */
             value: string;
+        };
+        /** DirectionIn */
+        DirectionIn: {
+            /**
+             * Acting Direction
+             * @default
+             */
+            acting_direction: string;
+            /**
+             * Character Id
+             * Format: uuid
+             */
+            character_id: string;
+            /** Outfit Id */
+            outfit_id?: string | null;
+            /** Visual Mode Id */
+            visual_mode_id?: string | null;
         };
         /** DocumentStatus */
         DocumentStatus: {
@@ -1940,6 +2211,12 @@ export interface components {
              */
             size_bytes: number;
         };
+        /**
+         * EditOperationKind
+         * @description What a source-derived edit intends to do to a region of the plate.
+         * @enum {string}
+         */
+        EditOperationKind: "PRESERVE" | "REMOVE" | "REPLACE" | "INSERT" | "CHANGE_EXPRESSION" | "CHANGE_OUTFIT" | "REMOVE_TEXT" | "REPLACE_TEXT" | "EXTEND_BACKGROUND" | "REDRAW" | "RESTYLE_LINES" | "REFRAME" | "ADAPT_PROPORTIONS";
         /**
          * EnqueueJobRequest
          * @description Enqueue a job.
@@ -1993,6 +2270,25 @@ export interface components {
             gaps_text: string;
             /** Season */
             season?: number | null;
+        };
+        /** ExecutionIn */
+        ExecutionIn: {
+            /** Compositing */
+            compositing?: {
+                [key: string]: unknown;
+            };
+            /** Control Inputs */
+            control_inputs?: {
+                [key: string]: unknown;
+            }[];
+            /** Inpaint */
+            inpaint?: {
+                [key: string]: unknown;
+            };
+            /** Post Processing */
+            post_processing?: string[];
+            /** Strength */
+            strength?: number | null;
         };
         /** FamilyDetail */
         FamilyDetail: {
@@ -2768,6 +3064,32 @@ export interface components {
              */
             work_id: string;
         };
+        /** OperationIn */
+        OperationIn: {
+            /** Character Id */
+            character_id?: string | null;
+            kind: components["schemas"]["EditOperationKind"];
+            /**
+             * Label
+             * @default
+             */
+            label: string;
+            /**
+             * Notes
+             * @default
+             */
+            notes: string;
+            /** Outfit Id */
+            outfit_id?: string | null;
+            /** Reference Position */
+            reference_position?: number | null;
+            region: components["schemas"]["RegionIn"];
+            /**
+             * Text
+             * @default
+             */
+            text: string;
+        };
         /** OutfitIn */
         OutfitIn: {
             /**
@@ -2848,6 +3170,17 @@ export interface components {
              * @default story
              */
             track: string;
+        };
+        /** PlacementIn */
+        PlacementIn: {
+            /** Character Id */
+            character_id?: string | null;
+            /**
+             * Label
+             * @default
+             */
+            label: string;
+            region: components["schemas"]["RegionIn"];
         };
         /** PreferredIn */
         PreferredIn: {
@@ -3308,6 +3641,22 @@ export interface components {
              */
             work_id: string;
         };
+        /**
+         * ReviewDecision
+         * @enum {string}
+         */
+        ReviewDecision: "APPROVE" | "REJECT" | "REGENERATE";
+        /** ReviewIn */
+        ReviewIn: {
+            decision: components["schemas"]["ReviewDecision"];
+            /**
+             * Notes
+             * @default
+             */
+            notes: string;
+            /** Seed */
+            seed?: number | null;
+        };
         /** ReviewItem */
         ReviewItem: {
             /**
@@ -3333,6 +3682,11 @@ export interface components {
             /** Kind */
             kind: string;
         };
+        /**
+         * RoughMode
+         * @enum {string}
+         */
+        RoughMode: "NEW_GENERATION" | "SOURCE_DERIVED_EDIT" | "COMPOSITE" | "LAYOUT_ONLY";
         /**
          * ScaffoldPlan
          * @description Folders the library is missing. Creating them stays a CLI action.
@@ -6406,6 +6760,271 @@ export interface operations {
             };
         };
     };
+    get_attempt_production_attempts__attempt_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                attempt_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    promote_to_continuity_production_attempts__attempt_id__continuity_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                attempt_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["ContinuityIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    attempt_image_production_attempts__attempt_id__image_get: {
+        parameters: {
+            query?: {
+                kind?: components["schemas"]["DerivativeKind"];
+            };
+            header?: never;
+            path: {
+                attempt_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": unknown;
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_provenance_production_attempts__attempt_id__provenance_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                attempt_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    review_attempt_production_attempts__attempt_id__review_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                attempt_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["ReviewIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    readiness_production_readiness_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+        };
+    };
+    get_artifact_production_rough_artifacts__artifact_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                artifact_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    request_attempt_production_rough_artifacts__artifact_id__attempts_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                artifact_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["AttemptIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            202: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     list_projects_projects_get: {
         parameters: {
             query?: never;
@@ -6512,6 +7131,78 @@ export interface operations {
                     "application/json": {
                         [key: string]: unknown;
                     }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    list_artifacts_projects__project_id__rough_artifacts_get: {
+        parameters: {
+            query?: {
+                episode?: string | null;
+            };
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    create_artifact_projects__project_id__rough_artifacts_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["ArtifactIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
                 };
             };
             /** @description Validation Error */

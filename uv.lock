@@ -13,6 +13,7 @@ members = [
     "continuum-jobs",
     "continuum-library",
     "continuum-observability",
+    "continuum-production",
     "continuum-providers",
     "continuum-storage",
     "continuum-worker",
@@ -147,6 +148,7 @@ dependencies = [
     { name = "continuum-jobs" },
     { name = "continuum-library" },
     { name = "continuum-observability" },
+    { name = "continuum-production" },
     { name = "continuum-providers" },
     { name = "continuum-storage" },
     { name = "continuum-worker" },
@@ -174,6 +176,7 @@ requires-dist = [
     { name = "continuum-jobs", editable = "packages/jobs" },
     { name = "continuum-library", editable = "packages/library" },
     { name = "continuum-observability", editable = "packages/observability" },
+    { name = "continuum-production", editable = "packages/production" },
     { name = "continuum-providers", editable = "packages/providers" },
     { name = "continuum-storage", editable = "packages/storage" },
     { name = "continuum-worker", editable = "workers/runner" },
@@ -199,8 +202,11 @@ dependencies = [
     { name = "continuum-config" },
     { name = "continuum-core" },
     { name = "continuum-db" },
+    { name = "continuum-imaging" },
     { name = "continuum-jobs" },
+    { name = "continuum-library" },
     { name = "continuum-observability" },
+    { name = "continuum-production" },
     { name = "continuum-providers" },
     { name = "continuum-storage" },
     { name = "fastapi" },
@@ -214,8 +220,11 @@ requires-dist = [
     { name = "continuum-config", editable = "packages/config" },
     { name = "continuum-core", editable = "packages/core" },
     { name = "continuum-db", editable = "packages/db" },
+    { name = "continuum-imaging", editable = "packages/imaging" },
     { name = "continuum-jobs", editable = "packages/jobs" },
+    { name = "continuum-library", editable = "packages/library" },
     { name = "continuum-observability", editable = "packages/observability" },
+    { name = "continuum-production", editable = "packages/production" },
     { name = "continuum-providers", editable = "packages/providers" },
     { name = "continuum-storage", editable = "packages/storage" },
     { name = "fastapi", specifier = ">=0.115" },
@@ -338,18 +347,49 @@ dependencies = [
 requires-dist = [{ name = "continuum-core", editable = "packages/core" }]
 
 [[package]]
-name = "continuum-providers"
+name = "continuum-production"
 version = "0.0.0"
-source = { editable = "packages/providers" }
+source = { editable = "packages/production" }
 dependencies = [
     { name = "continuum-config" },
     { name = "continuum-core" },
+    { name = "continuum-db" },
+    { name = "continuum-imaging" },
+    { name = "continuum-jobs" },
+    { name = "continuum-library" },
+    { name = "continuum-observability" },
+    { name = "continuum-providers" },
+    { name = "continuum-storage" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "continuum-config", editable = "packages/config" },
     { name = "continuum-core", editable = "packages/core" },
+    { name = "continuum-db", editable = "packages/db" },
+    { name = "continuum-imaging", editable = "packages/imaging" },
+    { name = "continuum-jobs", editable = "packages/jobs" },
+    { name = "continuum-library", editable = "packages/library" },
+    { name = "continuum-observability", editable = "packages/observability" },
+    { name = "continuum-providers", editable = "packages/providers" },
+    { name = "continuum-storage", editable = "packages/storage" },
+]
+
+[[package]]
+name = "continuum-providers"
+version = "0.0.0"
+source = { editable = "packages/providers" }
+dependencies = [
+    { name = "continuum-config" },
+    { name = "continuum-core" },
+    { name = "continuum-imaging" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "continuum-config", editable = "packages/config" },
+    { name = "continuum-core", editable = "packages/core" },
+    { name = "continuum-imaging", editable = "packages/imaging" },
 ]
 
 [[package]]
@@ -377,8 +417,11 @@ dependencies = [
     { name = "continuum-config" },
     { name = "continuum-core" },
     { name = "continuum-db" },
+    { name = "continuum-imaging" },
     { name = "continuum-jobs" },
+    { name = "continuum-library" },
     { name = "continuum-observability" },
+    { name = "continuum-production" },
     { name = "continuum-providers" },
     { name = "continuum-storage" },
 ]
@@ -388,8 +431,11 @@ requires-dist = [
     { name = "continuum-config", editable = "packages/config" },
     { name = "continuum-core", editable = "packages/core" },
     { name = "continuum-db", editable = "packages/db" },
+    { name = "continuum-imaging", editable = "packages/imaging" },
     { name = "continuum-jobs", editable = "packages/jobs" },
+    { name = "continuum-library", editable = "packages/library" },
     { name = "continuum-observability", editable = "packages/observability" },
+    { name = "continuum-production", editable = "packages/production" },
     { name = "continuum-providers", editable = "packages/providers" },
     { name = "continuum-storage", editable = "packages/storage" },
 ]

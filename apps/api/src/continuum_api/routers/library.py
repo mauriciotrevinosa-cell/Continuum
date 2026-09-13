@@ -77,7 +77,7 @@ ProjectId = Annotated[str, PathParam(pattern=r"^[a-z0-9][a-z0-9-]{0,79}$")]
 # Plumbing
 # ---------------------------------------------------------------------------
 @contextmanager
-def _catalog(request: Request) -> Iterator[ReferenceCatalog]:
+def catalog_scope(request: Request) -> Iterator[ReferenceCatalog]:
     state = request.app.state
     with session_scope(state.settings) as session:
         try:
@@ -128,13 +128,13 @@ def _csv(value: str | None) -> list[str]:
 # ---------------------------------------------------------------------------
 # Request bodies
 # ---------------------------------------------------------------------------
-class _In(BaseModel):
+class StrictBody(BaseModel):
     """Request bodies name exactly their fields; anything else is refused."""
 
     model_config = ConfigDict(extra="forbid")
 
 
-class RegionIn(_In):
+class RegionIn(StrictBody):
     x: float
     y: float
     width: float
@@ -144,7 +144,7 @@ class RegionIn(_In):
         return NormalizedRegion(self.x, self.y, self.width, self.height)
 
 
-class CharacterLinkIn(_In):
+class CharacterLinkIn(StrictBody):
     character_id: uuid.UUID
     aspect: CharacterAspect
     outfit_id: uuid.UUID | None = None
@@ -152,25 +152,25 @@ class CharacterLinkIn(_In):
     notes: str = ""
 
 
-class TechniqueLinkIn(_In):
+class TechniqueLinkIn(StrictBody):
     facet: TechniqueFacet
     visual_mode_id: uuid.UUID | None = None
     notes: str = ""
 
 
-class DescriptorIn(_In):
+class DescriptorIn(StrictBody):
     facet: DescriptorFacet
     value: str
 
 
-class StandingIn(_In):
+class StandingIn(StrictBody):
     project_key: str
     standing: ProjectStanding
     character_id: uuid.UUID | None = None
     notes: str = ""
 
 
-class PanelSourceIn(_In):
+class PanelSourceIn(StrictBody):
     project_key: str
     episode: str
     page: int
@@ -180,7 +180,7 @@ class PanelSourceIn(_In):
     notes: str = ""
 
 
-class ReferenceSpecIn(_In):
+class ReferenceSpecIn(StrictBody):
     reference_class: ReferenceClass
     origin: ReferenceOrigin = ReferenceOrigin.SOURCE
     label: str = ""
@@ -215,14 +215,14 @@ class ReferenceSpecIn(_In):
         )
 
 
-class FromSourceIn(_In):
+class FromSourceIn(StrictBody):
     media_id: str = Field(pattern=r"^m1_[0-9a-f]{32}$")
     page_index: int | None = Field(default=None, ge=0, le=100_000)
     pdf_page: int | None = Field(default=None, ge=1, le=100_000)
     spec: ReferenceSpecIn
 
 
-class VersionIn(_In):
+class VersionIn(StrictBody):
     row_version: int = Field(ge=1)
 
 
@@ -230,7 +230,7 @@ class ChangesIn(VersionIn):
     changes: dict[str, Any]
 
 
-class CharacterIn(_In):
+class CharacterIn(StrictBody):
     display_name: str
     subject_kind: SubjectKind = SubjectKind.CHARACTER
     source_label: str = ""
@@ -241,7 +241,7 @@ class CharacterIn(_In):
     notes: str = ""
 
 
-class OutfitIn(_In):
+class OutfitIn(StrictBody):
     name: str
     kind: OutfitKind = OutfitKind.SOURCE_DEFAULT
     project_key: str | None = None
@@ -251,14 +251,14 @@ class OutfitIn(_In):
     notes: str = ""
 
 
-class VisualModeIn(_In):
+class VisualModeIn(StrictBody):
     name: str
     category: VisualModeCategory
     description: str = ""
     notes: str = ""
 
 
-class AssignmentIn(_In):
+class AssignmentIn(StrictBody):
     visual_mode_id: uuid.UUID
     scope: ModeScope
     trigger: ModeTrigger = ModeTrigger.DIRECTORIAL
@@ -272,22 +272,22 @@ class AssignmentIn(_In):
     notes: str = ""
 
 
-class UsesIn(_In):
+class UsesIn(StrictBody):
     uses: list[ReferenceUse]
 
 
-class PreferredIn(_In):
+class PreferredIn(StrictBody):
     preferred: bool
 
 
-class UrlEntryIn(_In):
+class UrlEntryIn(StrictBody):
     url: str
     creator_handle: str | None = None
     notes: str = ""
     tags: list[str] = Field(default_factory=list)
 
 
-class DefaultsIn(_In):
+class DefaultsIn(StrictBody):
     origin: ReferenceOrigin = ReferenceOrigin.FAN_ART
     suggested_class: ReferenceClass | None = None
     intended_uses: list[ReferenceUse] = Field(default_factory=list)
@@ -304,7 +304,7 @@ class DefaultsIn(_In):
         )
 
 
-class UrlBatchIn(_In):
+class UrlBatchIn(StrictBody):
     label: str = ""
     entries: list[UrlEntryIn] = Field(max_length=500)
     defaults: DefaultsIn = Field(default_factory=DefaultsIn)
@@ -317,7 +317,7 @@ class UrlBatchIn(_In):
         return value
 
 
-class BulkUpdateIn(_In):
+class BulkUpdateIn(StrictBody):
     ids: list[uuid.UUID] = Field(min_length=1, max_length=500)
     changes: dict[str, Any]
 
@@ -341,7 +341,7 @@ class AcceptIn(VersionIn):
         )
 
 
-class BulkAcceptIn(_In):
+class BulkAcceptIn(StrictBody):
     ids: list[uuid.UUID] = Field(min_length=1, max_length=500)
     reference_class: ReferenceClass | None = None
     origin: ReferenceOrigin | None = None
@@ -356,25 +356,25 @@ class BulkAcceptIn(_In):
 def list_characters(
     request: Request, subject_kind: SubjectKind | None = None
 ) -> list[dict[str, Any]]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return [character_summary(c) for c in catalog.list_characters(subject_kind)]
 
 
 @router.post("/library/characters", status_code=201)
 def create_character(request: Request, body: CharacterIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return character_summary(catalog.create_character(**body.model_dump()))
 
 
 @router.get("/library/characters/{character_id}")
 def get_character_vault(request: Request, character_id: uuid.UUID) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return character_vault(catalog, character_id)
 
 
 @router.post("/library/characters/{character_id}/update")
 def update_character(request: Request, character_id: uuid.UUID, body: ChangesIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return character_summary(
             catalog.update_character(character_id, body.row_version, **body.changes)
         )
@@ -382,28 +382,28 @@ def update_character(request: Request, character_id: uuid.UUID, body: ChangesIn)
 
 @router.post("/library/characters/{character_id}/remove")
 def remove_character(request: Request, character_id: uuid.UUID, body: VersionIn) -> dict[str, str]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         catalog.remove_character(character_id, body.row_version)
         return {"removed": str(character_id)}
 
 
 @router.post("/library/characters/{character_id}/outfits", status_code=201)
 def create_outfit(request: Request, character_id: uuid.UUID, body: OutfitIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         outfit = catalog.create_outfit(character_id, **body.model_dump())
         return {"id": str(outfit.id), "row_version": outfit.row_version, "name": outfit.name}
 
 
 @router.post("/library/outfits/{outfit_id}/update")
 def update_outfit(request: Request, outfit_id: uuid.UUID, body: ChangesIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         outfit = catalog.update_outfit(outfit_id, body.row_version, **body.changes)
         return {"id": str(outfit.id), "row_version": outfit.row_version, "name": outfit.name}
 
 
 @router.post("/library/outfits/{outfit_id}/remove")
 def remove_outfit(request: Request, outfit_id: uuid.UUID, body: VersionIn) -> dict[str, str]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         catalog.remove_outfit(outfit_id, body.row_version)
         return {"removed": str(outfit_id)}
 
@@ -413,13 +413,13 @@ def remove_outfit(request: Request, outfit_id: uuid.UUID, body: VersionIn) -> di
 # ---------------------------------------------------------------------------
 @router.get("/library/visual-modes")
 def get_style_vault(request: Request) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return style_vault(catalog)
 
 
 @router.post("/library/visual-modes", status_code=201)
 def create_visual_mode(request: Request, body: VisualModeIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return visual_mode_view(catalog.create_visual_mode(**body.model_dump()))
 
 
@@ -427,7 +427,7 @@ def create_visual_mode(request: Request, body: VisualModeIn) -> dict[str, Any]:
 def update_visual_mode(
     request: Request, visual_mode_id: uuid.UUID, body: ChangesIn
 ) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return visual_mode_view(
             catalog.update_visual_mode(visual_mode_id, body.row_version, **body.changes)
         )
@@ -437,7 +437,7 @@ def update_visual_mode(
 def remove_visual_mode(
     request: Request, visual_mode_id: uuid.UUID, body: VersionIn
 ) -> dict[str, str]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         catalog.remove_visual_mode(visual_mode_id, body.row_version)
         return {"removed": str(visual_mode_id)}
 
@@ -464,7 +464,7 @@ def _assignment(a: Any) -> dict[str, Any]:
 def list_assignments(
     request: Request, project_id: ProjectId, episode: str | None = None
 ) -> list[dict[str, Any]]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return [_assignment(a) for a in catalog.assignments(project_id, episode=episode)]
 
 
@@ -472,7 +472,7 @@ def list_assignments(
 def assign_visual_mode(
     request: Request, project_id: ProjectId, body: AssignmentIn
 ) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return _assignment(catalog.assign_visual_mode(project_id, **body.model_dump()))
 
 
@@ -480,7 +480,7 @@ def assign_visual_mode(
 def remove_assignment(
     request: Request, project_id: ProjectId, assignment_id: uuid.UUID
 ) -> dict[str, str]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         catalog.remove_assignment(assignment_id)
         return {"removed": str(assignment_id)}
 
@@ -492,7 +492,7 @@ def list_panel_sources(
     episode: str | None = None,
     page: Annotated[int | None, Query(ge=1)] = None,
 ) -> list[dict[str, Any]]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         rows = catalog.panel_sources(project_id, episode=episode, page=page)
         return [
             {
@@ -531,7 +531,7 @@ def list_references(
     limit: Annotated[int, Query(ge=1, le=500)] = 100,
     offset: Annotated[int, Query(ge=0)] = 0,
 ) -> list[dict[str, Any]]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         items = catalog.list_references(
             character_id=character_id,
             aspect=aspect,
@@ -552,7 +552,7 @@ def list_references(
 
 @router.post("/library/references/from-source", status_code=201)
 def add_reference_from_source(request: Request, body: FromSourceIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         item = catalog.add_from_source(
             body.media_id, body.spec.spec(), page_index=body.page_index, pdf_page=body.pdf_page
         )
@@ -561,13 +561,13 @@ def add_reference_from_source(request: Request, body: FromSourceIn) -> dict[str,
 
 @router.get("/library/references/{reference_id}")
 def get_reference(request: Request, reference_id: uuid.UUID) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return reference_view(catalog, catalog.reference(reference_id, include_removed=True))
 
 
 @router.get("/library/references/{reference_id}/image")
 def reference_image(request: Request, reference_id: uuid.UUID, crop: bool = True) -> Response:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         image = catalog.reference_image(reference_id, crop=crop)
     return Response(
         content=image.data,
@@ -578,21 +578,21 @@ def reference_image(request: Request, reference_id: uuid.UUID, crop: bool = True
 
 @router.post("/library/references/{reference_id}/update")
 def update_reference(request: Request, reference_id: uuid.UUID, body: ChangesIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         item = catalog.update_reference(reference_id, body.row_version, **body.changes)
         return reference_view(catalog, item, with_source=False)
 
 
 @router.post("/library/references/{reference_id}/remove")
 def remove_reference(request: Request, reference_id: uuid.UUID, body: VersionIn) -> dict[str, str]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         catalog.remove_reference(reference_id, body.row_version)
         return {"removed": str(reference_id)}
 
 
 @router.post("/library/references/{reference_id}/uses")
 def set_uses(request: Request, reference_id: uuid.UUID, body: UsesIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return {"uses": [u.use.value for u in catalog.set_uses(reference_id, body.uses)]}
 
 
@@ -600,21 +600,21 @@ def set_uses(request: Request, reference_id: uuid.UUID, body: UsesIn) -> dict[st
 def link_character(
     request: Request, reference_id: uuid.UUID, body: CharacterLinkIn
 ) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         link = catalog.link_character(reference_id, CharacterLink(**body.model_dump()))
         return {"link_id": str(link.id), "preferred": link.preferred}
 
 
 @router.post("/library/reference-characters/{link_id}/preferred")
 def set_preferred(request: Request, link_id: uuid.UUID, body: PreferredIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         link = catalog.set_preferred(link_id, body.preferred)
         return {"link_id": str(link.id), "preferred": link.preferred}
 
 
 @router.post("/library/reference-characters/{link_id}/remove")
 def unlink_character(request: Request, link_id: uuid.UUID) -> dict[str, str]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         catalog.unlink_character(link_id)
         return {"removed": str(link_id)}
 
@@ -623,14 +623,14 @@ def unlink_character(request: Request, link_id: uuid.UUID) -> dict[str, str]:
 def link_technique(
     request: Request, reference_id: uuid.UUID, body: TechniqueLinkIn
 ) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         link = catalog.link_technique(reference_id, TechniqueLink(**body.model_dump()))
         return {"link_id": str(link.id)}
 
 
 @router.post("/library/reference-techniques/{link_id}/remove")
 def unlink_technique(request: Request, link_id: uuid.UUID) -> dict[str, str]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         catalog.unlink_technique(link_id)
         return {"removed": str(link_id)}
 
@@ -638,28 +638,28 @@ def unlink_technique(request: Request, link_id: uuid.UUID) -> dict[str, str]:
 @router.post("/library/references/{reference_id}/descriptors", status_code=201)
 def add_descriptor(request: Request, reference_id: uuid.UUID, body: DescriptorIn) -> dict[str, Any]:
     """User tags only. Analysis descriptors are written by analyzers, not this route."""
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         row = catalog.add_descriptor(reference_id, DescriptorSpec(**body.model_dump()))
         return {"id": str(row.id), "origin": row.origin.value}
 
 
 @router.post("/library/reference-descriptors/{descriptor_id}/remove")
 def remove_descriptor(request: Request, descriptor_id: uuid.UUID) -> dict[str, str]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         catalog.remove_descriptor(descriptor_id)
         return {"removed": str(descriptor_id)}
 
 
 @router.post("/library/references/{reference_id}/standings", status_code=201)
 def set_standing(request: Request, reference_id: uuid.UUID, body: StandingIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         row = catalog.set_standing(reference_id, StandingSpec(**body.model_dump()))
         return {"id": str(row.id), "standing": row.standing.value}
 
 
 @router.post("/library/reference-standings/{standing_id}/remove")
 def remove_standing(request: Request, standing_id: uuid.UUID) -> dict[str, str]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         catalog.remove_standing(standing_id)
         return {"removed": str(standing_id)}
 
@@ -668,14 +668,14 @@ def remove_standing(request: Request, standing_id: uuid.UUID) -> dict[str, str]:
 def add_panel_source(
     request: Request, reference_id: uuid.UUID, body: PanelSourceIn
 ) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         row = catalog.add_panel_source(reference_id, PanelSourceSpec(**body.model_dump()))
         return {"id": str(row.id), "role": row.role.value}
 
 
 @router.post("/library/panel-sources/{panel_source_id}/remove")
 def remove_panel_source(request: Request, panel_source_id: uuid.UUID) -> dict[str, str]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         catalog.remove_panel_source(panel_source_id)
         return {"removed": str(panel_source_id)}
 
@@ -708,7 +708,7 @@ def get_inbox(
     limit: Annotated[int, Query(ge=1, le=500)] = 200,
     offset: Annotated[int, Query(ge=0)] = 0,
 ) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         inbox = ReferenceInbox(catalog)
         return {
             "candidates": [
@@ -732,7 +732,7 @@ def get_inbox(
 
 @router.post("/library/inbox/urls", status_code=201)
 def add_urls(request: Request, body: UrlBatchIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         result = ReferenceInbox(catalog).add_urls(
             [UrlEntry(e.url, e.creator_handle, e.notes, tuple(e.tags)) for e in body.entries],
             label=body.label,
@@ -747,7 +747,7 @@ def add_urls(request: Request, body: UrlBatchIn) -> dict[str, Any]:
 
 @router.post("/library/inbox/batches", status_code=201)
 def create_batch(request: Request, kind: IntakeKind, label: str = "") -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         batch = ReferenceInbox(catalog).create_batch(kind, label=label)
         return {"id": str(batch.id), "kind": batch.kind.value, "label": batch.label}
 
@@ -770,7 +770,7 @@ async def add_file(
     data = await _body(request, limit)
 
     def work() -> dict[str, Any]:
-        with _catalog(request) as catalog:
+        with catalog_scope(request) as catalog:
             candidate = ReferenceInbox(catalog).add_file(
                 data,
                 kind,
@@ -801,7 +801,7 @@ async def add_held_frame(
     data = await _body(request, MAX_UPLOAD_IMAGE_BYTES)
 
     def work() -> dict[str, Any]:
-        with _catalog(request) as catalog:
+        with catalog_scope(request) as catalog:
             candidate = ReferenceInbox(catalog).add_held_frame(
                 media_id,
                 time_ms,
@@ -816,14 +816,14 @@ async def add_held_frame(
 
 @router.get("/library/inbox/candidates/{candidate_id}")
 def get_candidate(request: Request, candidate_id: uuid.UUID) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return candidate_view(ReferenceInbox(catalog).candidate(candidate_id))
 
 
 @router.get("/library/inbox/candidates/{candidate_id}/content")
 def candidate_content(request: Request, candidate_id: uuid.UUID) -> Response:
     """An image candidate as a bounded preview; a clip as its own bytes."""
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         inbox = ReferenceInbox(catalog)
         data, medium = inbox.candidate_bytes(inbox.candidate(candidate_id))
     headers = {"Cache-Control": "private, max-age=600", "X-Content-Type-Options": "nosniff"}
@@ -841,7 +841,7 @@ async def add_clip_frame(
     data = await _body(request, MAX_UPLOAD_IMAGE_BYTES)
 
     def work() -> dict[str, Any]:
-        with _catalog(request) as catalog:
+        with catalog_scope(request) as catalog:
             return candidate_view(
                 ReferenceInbox(catalog).add_clip_frame(candidate_id, time_ms, data)
             )
@@ -856,7 +856,7 @@ async def attach_image(
     data = await _body(request, MAX_UPLOAD_IMAGE_BYTES)
 
     def work() -> dict[str, Any]:
-        with _catalog(request) as catalog:
+        with catalog_scope(request) as catalog:
             return candidate_view(
                 ReferenceInbox(catalog).attach_image(candidate_id, row_version, data)
             )
@@ -866,7 +866,7 @@ async def attach_image(
 
 @router.post("/library/inbox/candidates/{candidate_id}/update")
 def update_candidate(request: Request, candidate_id: uuid.UUID, body: ChangesIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return candidate_view(
             ReferenceInbox(catalog).update(candidate_id, body.row_version, **body.changes)
         )
@@ -874,32 +874,32 @@ def update_candidate(request: Request, candidate_id: uuid.UUID, body: ChangesIn)
 
 @router.post("/library/inbox/bulk-update")
 def bulk_update(request: Request, body: BulkUpdateIn) -> dict[str, int]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return {"updated": ReferenceInbox(catalog).bulk_update(body.ids, **body.changes)}
 
 
 @router.post("/library/inbox/candidates/{candidate_id}/dismiss")
 def dismiss_candidate(request: Request, candidate_id: uuid.UUID, body: VersionIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return candidate_view(ReferenceInbox(catalog).dismiss(candidate_id, body.row_version))
 
 
 @router.post("/library/inbox/candidates/{candidate_id}/restore")
 def restore_candidate(request: Request, candidate_id: uuid.UUID, body: VersionIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         return candidate_view(ReferenceInbox(catalog).restore(candidate_id, body.row_version))
 
 
 @router.post("/library/inbox/candidates/{candidate_id}/accept", status_code=201)
 def accept_candidate(request: Request, candidate_id: uuid.UUID, body: AcceptIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         item = ReferenceInbox(catalog).accept(candidate_id, body.row_version, body.accept_spec())
         return reference_view(catalog, item)
 
 
 @router.post("/library/inbox/bulk-accept")
 def bulk_accept(request: Request, body: BulkAcceptIn) -> dict[str, Any]:
-    with _catalog(request) as catalog:
+    with catalog_scope(request) as catalog:
         accepted, skipped = ReferenceInbox(catalog).bulk_accept(
             body.ids,
             AcceptSpec(

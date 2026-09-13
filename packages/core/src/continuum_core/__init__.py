@@ -17,6 +17,8 @@ from continuum_core.errors import (
 )
 from continuum_core.hashing import (
     CHUNK_BYTES,
+    canonical_json,
+    canonical_json_hash,
     content_hash_bytes,
     content_hash_stream,
     fanout_segments,
@@ -61,6 +63,8 @@ __all__ = [
     "TimeAxis",
     "TimePrecision",
     "VaultWriteAttemptedError",
+    "canonical_json",
+    "canonical_json_hash",
     "content_hash_bytes",
     "content_hash_stream",
     "fanout_segments",

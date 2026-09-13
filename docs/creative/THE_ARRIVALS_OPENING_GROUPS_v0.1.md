@@ -19,7 +19,7 @@ High-confidence structure:
 ```text
 Group 1 arrives
 → establishes a temporary base / early settlement
-→ time passes
+→ roughly one week of survival, observation, bonding, and first routines
 → another group is followed separately
 → audience learns that arrivals are not isolated incidents
 → groups converge
@@ -27,11 +27,40 @@ Group 1 arrives
 → the mystery of arrival ordering deepens
 ```
 
+The one-week interval is a strong current working direction, not a universal rule for all later groups. Different groups may spend very different amounts of time isolated before contact.
+
 The first half of Season 1 may follow roughly 2–4 groups rather than one large cast dump.
 
 Season 2 may expand to groups that appeared farther away and spent longer isolated, eventually hearing rumors of a city / settlement associated with Otherworlders.
 
 Groups do **not** need to obey the same composition rule. A group may be mostly civilians, mostly dangerous people, mostly villains, mixed-power, family-like, accidental, or otherwise structurally different from another group.
+
+### Flexible episode runtime
+
+`The Arrivals` is not creatively bound to a standard ~22-minute television episode runtime.
+
+Story unit comes first.
+
+Especially in Season 1, the premiere and major mini-arcs may use extended runtimes when that gives the material room to breathe. A premiere may reasonably run around 45–60 minutes, or function as the equivalent of two or three conventional episodes, if that better establishes the world, Group 1, its emotional state, and the scale of the Arrival problem.
+
+Likewise, later installments may be shorter or longer depending on dramatic need.
+
+The production rule is:
+
+```text
+dramatic unit / mini-arc need
+→ determine scene and episode scope
+→ then determine runtime
+```
+
+not:
+
+```text
+fixed broadcast slot
+→ force story to fit
+```
+
+Extended runtime must still justify itself through character, atmosphere, discovery, conflict, or world change; it should not become permission for padding.
 
 ---
 

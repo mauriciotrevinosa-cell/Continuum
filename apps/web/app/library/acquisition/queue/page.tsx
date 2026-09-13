@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ApiUnreachableError, type QueueItem, type SourceOut, acquisition } from "@/lib/api";
+import { ApiUnreachableError, type QueuePage, type SourceOut, acquisition } from "@/lib/api";
 import { classLabel } from "@/lib/acquisition";
 import { ChapterTally } from "../_components/ChapterTally";
 import { SourceSearch } from "../_components/SourceSearch";
@@ -14,64 +14,116 @@ const FILTERS = [
   { key: "BLOCKED", label: "Blocked" },
 ];
 
-export default async function QueuePage({
+/**
+ * What is missing, in the order it is worth chasing.
+ *
+ * The queue is as long as the library is incomplete, so this screen asks the
+ * API for one page and says how many there are in total. Nothing here starts
+ * a download: every row ends in a search you choose to follow.
+ */
+export default async function QueueScreen({
   searchParams,
 }: {
-  searchParams: Promise<{ status?: string }>;
+  searchParams: Promise<{ status?: string; q?: string; page?: string }>;
 }) {
-  const { status } = await searchParams;
-  let items: QueueItem[] = [];
+  const params = await searchParams;
+  const status = params.status ?? "";
+  const query = (params.q ?? "").trim();
+  const page = Math.max(1, Number.parseInt(params.page ?? "1", 10) || 1);
+  const limit = 25;
+
+  let data: QueuePage | null = null;
   let sources: SourceOut[] = [];
   let error: string | null = null;
   try {
-    const [queued, registry] = await Promise.all([acquisition.queue(status), acquisition.sources()]);
-    items = queued;
+    const [queued, registry] = await Promise.all([
+      acquisition.queue({ status, q: query, offset: (page - 1) * limit, limit }),
+      acquisition.sources(),
+    ]);
+    data = queued;
     sources = registry.sources;
   } catch (cause) {
     error =
       cause instanceof ApiUnreachableError ? cause.message : `Unexpected error: ${String(cause)}`;
   }
 
-  const automatic = items.filter((item) => item.downloadable).length;
+  const items = data?.items ?? [];
+  const total = data?.total ?? 0;
+  const pages = Math.max(1, Math.ceil(total / limit));
+  const href = (over: Record<string, string | number | undefined>) => {
+    const next = new URLSearchParams();
+    const merged = { status: status || undefined, q: query || undefined, page, ...over };
+    for (const [key, value] of Object.entries(merged)) {
+      if (value !== undefined && value !== "" && !(key === "page" && value === 1)) {
+        next.set(key, String(value));
+      }
+    }
+    const qs = next.toString();
+    return `/library/acquisition/queue${qs ? `?${qs}` : ""}`;
+  };
 
   return (
-    <main style={{ padding: 0, maxWidth: "none" }}>
+    <main>
       <p className="eyebrow">Library · Acquisition</p>
       <h1 className="headline">Queue</h1>
       <p className="lede">
-        Everything official that is missing or incomplete, in the order it is worth chasing: main
-        work first, then continuations, spin-offs, adaptations, and supplements last. Nothing here
-        is downloaded on its own.
+        Everything official that is missing or incomplete, main work first, then continuations,
+        spin-offs, adaptations, and supplements last. Nothing here is downloaded on its own.
       </p>
 
       {error ? <ApiDown message={error} /> : null}
 
       <div className="stats">
-        <Stat label="in the queue" value={items.length} />
-        <Stat label="need you" value={items.filter((i) => i.requires_user_action).length} tone="warn" />
-        <Stat label="a source can hand over" value={automatic} tone="ok" />
+        <Stat label="match this view" value={total} />
+        <Stat label="need a decision from you" value={data?.needs_you ?? 0} tone="warn" />
+        <Stat label="a source can hand over" value={data?.downloadable ?? 0} tone="ok" />
       </div>
 
-      <div className="btn-row" style={{ marginTop: 18 }}>
-        {FILTERS.map((filter) => (
-          <Link
-            key={filter.key || "all"}
-            className="btn small"
-            href={filter.key ? `/library/acquisition/queue?status=${filter.key}` : "/library/acquisition/queue"}
-            style={
-              (status ?? "") === filter.key
-                ? { borderColor: "var(--accent)", color: "var(--accent)" }
-                : undefined
-            }
-          >
-            {filter.label}
+      <form className="finder-bar" role="search" action="/library/acquisition/queue">
+        <label className="sr-only" htmlFor="queue-q">
+          Search the queue by work, family or alias
+        </label>
+        <input
+          id="queue-q"
+          name="q"
+          type="search"
+          defaultValue={query}
+          placeholder="Search by work, family or alias…"
+          autoComplete="off"
+        />
+        {status ? <input type="hidden" name="status" value={status} /> : null}
+        <button className="btn small" type="submit">
+          Search
+        </button>
+        {query ? (
+          <Link className="btn small ghost" href={href({ q: undefined, page: 1 })}>
+            Clear
           </Link>
-        ))}
+        ) : null}
+      </form>
+
+      <div className="toolbar">
+        <div className="chipset" role="group" aria-label="Filter the queue">
+          {FILTERS.map((filter) => {
+            const count = filter.key ? data?.by_status[filter.key] : undefined;
+            return (
+              <Link
+                key={filter.key || "all"}
+                className="chip"
+                data-active={status === filter.key}
+                href={href({ status: filter.key || undefined, page: 1 })}
+              >
+                {filter.label}
+                {count !== undefined ? <b>{count}</b> : null}
+              </Link>
+            );
+          })}
+        </div>
       </div>
 
       <div className="section">
-        <h2>{status ? `${status.toLowerCase()} works` : "Pending works"}</h2>
-        <span className="hint">{items.length} shown</span>
+        <h2>{items.length ? `Showing ${items.length} of ${total}` : "Nothing to show"}</h2>
+        <span className="hint">{pages > 1 ? `page ${page} of ${pages}` : "highest priority first"}</span>
       </div>
 
       {items.length ? (
@@ -126,14 +178,34 @@ export default async function QueuePage({
           })}
         </div>
       ) : (
-        <Empty title={error ? "Queue unavailable" : "Nothing pending"}>
+        <Empty title={error ? "Queue unavailable" : query || status ? "Nothing matched" : "Nothing pending"}>
           <p>
             {error
               ? "Start the API to see the queue."
-              : "Every catalogued official work is either complete or deliberately blocked."}
+              : query || status
+                ? "Try a shorter search, or a different filter."
+                : "Every catalogued official work is either complete or deliberately blocked."}
           </p>
         </Empty>
       )}
+
+      {pages > 1 ? (
+        <nav className="pager" aria-label="Pages">
+          <Link className="btn small" href={href({ page: Math.max(1, page - 1) })} aria-disabled={page === 1}>
+            ← Previous
+          </Link>
+          <span className="row-meta">
+            {page} / {pages}
+          </span>
+          <Link
+            className="btn small"
+            href={href({ page: Math.min(pages, page + 1) })}
+            aria-disabled={page === pages}
+          >
+            Next →
+          </Link>
+        </nav>
+      ) : null}
     </main>
   );
 }

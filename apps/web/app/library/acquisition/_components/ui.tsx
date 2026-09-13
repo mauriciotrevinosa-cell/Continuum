@@ -14,6 +14,7 @@ import {
   coverageLabel,
   coverageTone,
   formatBytes,
+  plural,
   relationLabel,
 } from "@/lib/acquisition";
 
@@ -25,8 +26,11 @@ export function CoveragePill({ status }: { status: string | null }) {
   return <Pill tone={coverageTone(status)}>{coverageLabel(status)}</Pill>;
 }
 
+/** How a work relates to the rest of its family. Unclassified is a question. */
 export function RelationPill({ relation }: { relation: string | null }) {
-  return <Pill tone={relation === "MAIN_WORK" ? "accent" : "muted"}>{relationLabel(relation)}</Pill>;
+  const tone: Tone =
+    relation === "MAIN_WORK" ? "accent" : !relation || relation === "UNKNOWN" ? "warn" : "muted";
+  return <Pill tone={tone}>{relationLabel(relation)}</Pill>;
 }
 
 export function Stat({
@@ -106,7 +110,8 @@ export function FamilyCard({ family }: { family: FamilyProgress }) {
         {family.category ? <Pill>{family.category.toLowerCase()}</Pill> : null}
       </div>
       <p className="sub" style={{ fontSize: 12.5, marginBottom: 10 }}>
-        {family.works_total} works · {family.files} files · {formatBytes(family.bytes)}
+        {plural(family.works_total, "work")} · {plural(family.files, "file")} ·{" "}
+        {formatBytes(family.bytes)}
       </p>
       <Meter
         complete={family.complete}
@@ -159,7 +164,20 @@ export function WorkLine({ work, sources = [] }: { work: WorkRow; sources?: Sour
           gaps={work.gaps}
           missing={work.missing_chapters}
         />
-        {work.local_path ? <p className="row-meta"><code>{work.local_path}</code></p> : null}
+        {work.local_path || work.expected_path ? (
+          <details className="finder">
+            <summary>Where it lives</summary>
+            <p className="row-meta">
+              {work.local_path ? (
+                <code>{work.local_path}</code>
+              ) : (
+                <>
+                  no folder yet — expected at <code>{work.expected_path}</code>
+                </>
+              )}
+            </p>
+          </details>
+        ) : null}
         {work.coverage_status !== "COMPLETE" ? (
           <SourceSearch
             titles={work.search_titles}
@@ -199,7 +217,13 @@ export function ApiDown({ message }: { message: string }) {
   );
 }
 
-/** Where the data came from and how old it is: never leave that implicit. */
+/**
+ * Where the data came from and how old it is.
+ *
+ * Never implicit, never in the way: a full Windows path is the answer to a
+ * question ("is it reading the right folder?") that is asked rarely, so it
+ * folds away instead of sitting under every screen.
+ */
 export function Provenance({
   dataDir,
   generatedAt,
@@ -210,15 +234,24 @@ export function Provenance({
   vaultRoot?: string;
 }) {
   return (
-    <p className="row-meta" style={{ marginTop: 18 }}>
-      Reading <code>{dataDir || "(not configured)"}</code>
-      {vaultRoot ? (
-        <>
-          {" "}
-          · vault <code>{vaultRoot}</code>
-        </>
-      ) : null}
-      {generatedAt ? ` · data generated ${generatedAt}` : " · no data yet"}
-    </p>
+    <details className="finder provenance">
+      <summary>
+        {generatedAt ? `Data generated ${generatedAt}` : "No data generated yet"}
+      </summary>
+      <dl className="kv">
+        <dt>Documents</dt>
+        <dd>
+          <code>{dataDir || "(not configured)"}</code>
+        </dd>
+        {vaultRoot ? (
+          <>
+            <dt>Vault</dt>
+            <dd>
+              <code>{vaultRoot}</code> <span className="row-meta">read-only to Continuum</span>
+            </dd>
+          </>
+        ) : null}
+      </dl>
+    </details>
   );
 }

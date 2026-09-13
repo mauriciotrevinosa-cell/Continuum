@@ -272,8 +272,10 @@ def test_empty_library_is_a_valid_state(empty_client: TestClient) -> None:
     assert body["families"] == []
     assert body["totals"]["works"] == 0
     assert body["sources_total"] == 0
-    for path in ("/library/acquisition/families", "/library/acquisition/queue"):
-        assert empty_client.get(path).json() == []
+    assert empty_client.get("/library/acquisition/families").json() == []
+    empty_queue = empty_client.get("/library/acquisition/queue").json()
+    assert empty_queue["items"] == []
+    assert empty_queue["total"] == 0
     assert empty_client.get("/library/acquisition/sources").json()["sources"] == []
     assert empty_client.get("/library/acquisition/updates").json()["items"] == []
 
@@ -316,11 +318,36 @@ def test_unknown_family_is_404(client: TestClient) -> None:
 
 
 def test_queue_filters_and_keeps_source_hits(client: TestClient) -> None:
-    items = client.get("/library/acquisition/queue").json()
+    body = client.get("/library/acquisition/queue").json()
+    items = body["items"]
     assert [i["work"] for i in items] == ["Demo Alpha Guide"]
     assert items[0]["source_hits"][0]["source"] == "demo-store"
     assert items[0]["requires_user_action"] is True
-    assert client.get("/library/acquisition/queue?status=PARTIAL").json() == []
+    assert body["total"] == 1
+    assert body["needs_you"] == 1
+    assert client.get("/library/acquisition/queue?status=PARTIAL").json()["items"] == []
+
+
+def test_the_queue_is_paged_and_searchable(client: TestClient) -> None:
+    """A page of the queue, with the size of the whole thing stated."""
+    first = client.get("/library/acquisition/queue?limit=1").json()
+    assert len(first["items"]) <= 1
+    assert first["limit"] == 1
+    # by_status describes the UNFILTERED queue, so a filter chip can be
+    # labelled before anyone clicks it.
+    assert sum(first["by_status"].values()) == first["total"]
+
+    hit = client.get("/library/acquisition/queue?q=guide").json()
+    assert [i["work"] for i in hit["items"]] == ["Demo Alpha Guide"]
+    assert client.get("/library/acquisition/queue?q=nothinglikethis").json()["total"] == 0
+
+    scoped = client.get(f"/library/acquisition/queue?family={FAMILY_ID}").json()
+    assert scoped["total"] == 1
+    assert client.get("/library/acquisition/queue?family=no-such-family").json()["total"] == 0
+
+    past_the_end = client.get("/library/acquisition/queue?offset=500").json()
+    assert past_the_end["items"] == []
+    assert past_the_end["total"] == 1, "the count is of the whole set, not of the page"
 
 
 def test_sources_view_lists_capabilities_and_unofficial_hosts(client: TestClient) -> None:
@@ -331,6 +358,11 @@ def test_sources_view_lists_capabilities_and_unofficial_hosts(client: TestClient
     assert body["sources"][1]["enabled"] is False
     assert body["unofficial_hosts"] == ["bad.invalid"]
     assert "AUTOMATIC_ACQUISITION" in body["capabilities"]
+    # A local folder is a real kind of source and stays visible, but it is
+    # not on the list a browser may register (F-50).
+    assert "local-folder" in body["adapters"]
+    assert "local-folder" not in body["browser_adapters"]
+    assert body["browser_adapters"] == ["web", "bibliographic"]
 
 
 def test_intake_and_updates_views(client: TestClient) -> None:
@@ -397,6 +429,78 @@ def test_add_source_rejects_a_malformed_id(client: TestClient) -> None:
         json={"url": "https://example.invalid", "source_id": "../escape"},
     )
     assert response.status_code == 422
+
+
+# ---------------------------------------------------------------------------
+# F-50: no raw filesystem path reaches the API from a client. The acquisition
+# CLI still registers local folders; the browser is the boundary that cannot.
+FILESYSTEM_LOCATIONS = [
+    r"C:\ContinuumVault",
+    r"D:\My Purchases\Manga",
+    "c:/ContinuumVault",
+    r"\\server\share\manga",
+    "file:///C:/ContinuumVault",
+    "file://server/share",
+    "/mnt/vault",
+    "../../../etc/passwd",
+    r"\\?\C:\ContinuumVault",
+]
+
+
+@pytest.mark.parametrize("location", FILESYSTEM_LOCATIONS)
+def test_a_filesystem_path_cannot_be_registered_through_the_api(
+    data_home: Path, vault_root: Path, acquisition_dir: Path, fake_cli: Path, location: str
+) -> None:
+    """Refused by schema, so it never reaches the CLI even when one exists."""
+    settings = _settings(
+        data_home, vault_root,
+        acquisition_data_dir=str(acquisition_dir),
+        acquisition_cli=str(fake_cli),
+    )
+    with TestClient(create_app(settings)) as client:
+        response = client.post("/library/acquisition/sources", json={"url": location})
+        assert response.status_code == 422, location
+        detail = json.dumps(response.json())
+        assert "http" in detail
+
+
+@pytest.mark.parametrize(
+    "scheme_url",
+    ["ftp://host/share", "smb://server/share", "javascript:alert(1)", "data:text/html,x",
+     "mailto:a@b.c"],
+)
+def test_only_http_schemes_are_accepted(client: TestClient, scheme_url: str) -> None:
+    response = client.post("/library/acquisition/sources", json={"url": scheme_url})
+    assert response.status_code == 422, scheme_url
+
+
+@pytest.mark.parametrize("url", ["https://example.invalid", "http://127.0.0.1:8080/catalogue"])
+def test_web_addresses_are_still_accepted(client: TestClient, url: str) -> None:
+    response = client.post("/library/acquisition/sources", json={"url": url})
+    assert response.status_code == 200, url
+
+
+def test_local_folder_sources_stay_readable_in_the_ui(
+    data_home: Path, vault_root: Path, acquisition_dir: Path
+) -> None:
+    """Registered by the CLI, shown by the API: reading one is not writing one."""
+    registry = json.loads((acquisition_dir / "sources.json").read_text(encoding="utf-8"))
+    registry["sources"]["my-shelf"] = {
+        "id": "my-shelf",
+        "name": "Files I already own",
+        "url": "D:/My Purchases",
+        "adapter": "local-folder",
+        "enabled": True,
+        "capabilities": ["MANUAL_ACQUISITION"],
+        "download_permitted": True,
+    }
+    (acquisition_dir / "sources.json").write_text(json.dumps(registry), encoding="utf-8")
+    settings = _settings(data_home, vault_root, acquisition_data_dir=str(acquisition_dir))
+    with TestClient(create_app(settings)) as client:
+        body = client.get("/library/acquisition/sources").json()
+    shelf = next(s for s in body["sources"] if s["id"] == "my-shelf")
+    assert shelf["adapter"] == "local-folder"
+    assert shelf["download_permitted"] is True
 
 
 # ---------------------------------------------------------------------------

@@ -31,7 +31,7 @@ export default async function AcquisitionOverviewPage() {
 
   if (error) {
     return (
-      <main style={{ padding: 0, maxWidth: "none" }}>
+      <main>
         <p className="eyebrow">Library</p>
         <h1 className="headline">Acquisition</h1>
         <ApiDown message={error} />
@@ -41,14 +41,21 @@ export default async function AcquisitionOverviewPage() {
   if (!data) return null;
 
   const { status, totals, families, relations } = data;
-  const ordered = [...families].sort((a, b) => {
-    const rank = (f: typeof a) => (f.missing + f.partial) / Math.max(1, f.works_total);
-    return rank(b) - rank(a) || a.title.localeCompare(b.title);
-  });
+  // Six, not all of them: this screen is a briefing. Looking through the
+  // whole library is what the Families screen is for, and rendering every
+  // family here would make the first screen cost the most on the largest
+  // libraries - exactly backwards.
+  const needsAttention = [...families]
+    .filter((f) => f.missing + f.partial + f.review > 0)
+    .sort((a, b) => {
+      const rank = (f: typeof a) => (f.missing + f.partial) / Math.max(1, f.works_total);
+      return rank(b) - rank(a) || a.title.localeCompare(b.title);
+    })
+    .slice(0, 6);
   const topRelations = Object.entries(relations).sort((a, b) => b[1] - a[1]);
 
   return (
-    <main style={{ padding: 0, maxWidth: "none" }}>
+    <main>
       <p className="eyebrow">Library</p>
       <h1 className="headline">Acquisition</h1>
       <p className="lede">
@@ -103,15 +110,21 @@ export default async function AcquisitionOverviewPage() {
           </div>
 
           <div className="section">
-            <h2>Source families</h2>
-            <span className="hint">least complete first</span>
+            <h2>Furthest from done</h2>
+            <Link href="/library/acquisition/families" className="hint">
+              all {families.length} families →
+            </Link>
           </div>
-          {ordered.length ? (
+          {needsAttention.length ? (
             <div className="cards">
-              {ordered.map((family) => (
+              {needsAttention.map((family) => (
                 <FamilyCard key={family.id} family={family} />
               ))}
             </div>
+          ) : families.length ? (
+            <Empty title="Nothing incomplete">
+              <p>Every family holds what the catalogue says it should.</p>
+            </Empty>
           ) : (
             <Empty title="No families catalogued yet">
               <p>Run a scan and a discovery pass to populate the catalogue.</p>

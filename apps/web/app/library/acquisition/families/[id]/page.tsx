@@ -7,7 +7,7 @@ import {
   type WorkRow,
   acquisition,
 } from "@/lib/api";
-import { RELATION_ORDER, classLabel, formatBytes } from "@/lib/acquisition";
+import { RELATION_ORDER, classLabel, formatBytes, plural } from "@/lib/acquisition";
 import {
   ApiDown,
   Empty,
@@ -87,9 +87,9 @@ export default async function FamilyPage({ params }: { params: Promise<{ id: str
 
   if (error) {
     return (
-      <main style={{ padding: 0, maxWidth: "none" }}>
+      <main>
         <p className="crumb">
-          <Link href="/library/acquisition">← Acquisition</Link>
+          <Link href="/library/acquisition/families">← Families</Link>
         </p>
         <ApiDown message={error} />
       </main>
@@ -102,16 +102,16 @@ export default async function FamilyPage({ params }: { params: Promise<{ id: str
   const missingFolders = works.filter((work) => work.layout_status === "MISSING_FOLDER");
 
   return (
-    <main style={{ padding: 0, maxWidth: "none" }}>
+    <main>
       <p className="crumb">
-        <Link href="/library/acquisition">← Acquisition</Link>
+        <Link href="/library/acquisition/families">← Families</Link>
       </p>
       <p className="eyebrow">Source family</p>
       <h1 className="headline">{family.title}</h1>
       <p className="lede">
-        {family.works_total} catalogued work{family.works_total === 1 ? "" : "s"} across{" "}
-        {family.classes.length} kind{family.classes.length === 1 ? "" : "s"} of material.{" "}
-        {family.aliases.length ? `Also known as: ${family.aliases.join(", ")}.` : ""}
+        {plural(family.works_total, "catalogued work")} across{" "}
+        {plural(family.classes.length, "kind")} of material. Official
+        is not the same as main canon, so each kind is listed on its own.
       </p>
 
       <div className="stats">
@@ -131,20 +131,36 @@ export default async function FamilyPage({ params }: { params: Promise<{ id: str
         />
         <MeterLegend />
       </div>
-      <p className="row-meta" style={{ marginTop: 12 }}>
-        <code>{family.path}</code>
-        {family.folder_exists ? "" : " — folder not present"}
-        {family.category ? ` · ${family.category.toLowerCase()}` : ""}
-      </p>
+      <div className="pills" style={{ marginTop: 14 }}>
+        {family.category ? <Pill>{family.category.toLowerCase()}</Pill> : null}
+        {family.medium ? <Pill>{classLabel(family.medium)}</Pill> : null}
+        {family.review ? <Pill tone="warn">{family.review} to review</Pill> : null}
+        {family.folder_exists ? null : <Pill tone="err">folder not present</Pill>}
+      </div>
+      <details className="finder provenance">
+        <summary>Where this family lives</summary>
+        <dl className="kv">
+          <dt>Folder</dt>
+          <dd>
+            <code>{family.path}</code>{" "}
+            <span className="row-meta">read-only to Continuum</span>
+          </dd>
+          {family.aliases.length ? (
+            <>
+              <dt>Also known as</dt>
+              <dd>{family.aliases.join(" · ")}</dd>
+            </>
+          ) : null}
+        </dl>
+      </details>
 
       {missingFolders.length ? (
         <div className="notice" style={{ marginTop: 18 }}>
-          <strong>
-            {missingFolders.length} folder{missingFolders.length === 1 ? "" : "s"} missing.
-          </strong>
+          <strong>{plural(missingFolders.length, "folder")} missing.</strong>
           <p style={{ margin: "6px 0 0", fontSize: 13 }}>
-            Continuum never writes to the vault. Create them from the{" "}
-            <Link href="/library/acquisition">overview</Link>, which shows the exact command.
+            Continuum never writes to the Vault. The{" "}
+            <Link href="/library/acquisition">overview</Link> shows the exact command that would
+            create them, for you to run.
           </p>
         </div>
       ) : null}
@@ -153,9 +169,7 @@ export default async function FamilyPage({ params }: { params: Promise<{ id: str
         <section key={materialClass}>
           <div className="section">
             <h2>{classLabel(materialClass)}</h2>
-            <span className="hint">
-              {list.length} work{list.length === 1 ? "" : "s"}
-            </span>
+            <span className="hint">{plural(list.length, "work")}</span>
           </div>
           <div className="rows">
             {[...list].sort(byRelation).map((work) => (

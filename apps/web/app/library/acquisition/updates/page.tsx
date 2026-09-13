@@ -1,5 +1,5 @@
 import { ApiUnreachableError, type UpdatesView, acquisition } from "@/lib/api";
-import { formatWhen } from "@/lib/acquisition";
+import { formatWhen, plural } from "@/lib/acquisition";
 import { ApiDown, Empty, Pill, Stat } from "../_components/ui";
 
 export const dynamic = "force-dynamic";
@@ -19,7 +19,7 @@ export default async function UpdatesPage() {
   const sources = Object.entries(data?.sources ?? {});
 
   return (
-    <main style={{ padding: 0, maxWidth: "none" }}>
+    <main>
       <p className="eyebrow">Library · Acquisition</p>
       <h1 className="headline">Update watch</h1>
       <p className="lede">
@@ -80,7 +80,7 @@ export default async function UpdatesPage() {
             <>
               <div className="section">
                 <h2>Ahead of your copy</h2>
-                <span className="hint">{available.length} works</span>
+                <span className="hint">{plural(available.length, "work")}</span>
               </div>
               <div className="rows">
                 {available.map((item) => (

@@ -175,11 +175,17 @@ def test_import_linter_contracts_hold() -> None:
     if not script.is_file():
         pytest.skip(f"lint-imports console script not found at {script}")
 
+    # Decode as UTF-8 explicitly: import-linter prints box glyphs, and on
+    # Windows `text=True` alone would decode them with the console codepage
+    # and raise, failing this invariant for a reason that has nothing to do
+    # with the contracts.
     result = subprocess.run(
         [str(script)],
         cwd=REPO_ROOT,
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
         check=False,
     )
     assert result.returncode == 0, (

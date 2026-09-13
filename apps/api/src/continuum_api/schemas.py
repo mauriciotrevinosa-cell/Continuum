@@ -11,9 +11,10 @@ from __future__ import annotations
 import datetime as dt
 import uuid
 from typing import Any, Literal
+from urllib.parse import urlsplit
 
 from continuum_core import BlockedReason, JobStatus
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 __all__ = [
     "AcquisitionActionResult",
@@ -32,6 +33,7 @@ __all__ = [
     "JobStepOut",
     "JobSummary",
     "QueueItem",
+    "QueuePage",
     "ReadyResponse",
     "ReleaseEvent",
     "ReviewItem",
@@ -297,6 +299,20 @@ class QueueItem(BaseModel):
     chapters_total: int | None = None
 
 
+class QueuePage(BaseModel):
+    """A window onto the queue, plus what the whole filtered set looks like."""
+
+    total: int = 0
+    offset: int = 0
+    limit: int = 50
+    #: Counts across the UNFILTERED queue, so the filter buttons can say how
+    #: much each one would show before it is clicked.
+    by_status: dict[str, int] = Field(default_factory=dict)
+    needs_you: int = 0
+    downloadable: int = 0
+    items: list[QueueItem] = Field(default_factory=list)
+
+
 class SourceOut(BaseModel):
     id: str
     name: str
@@ -324,22 +340,52 @@ class SourcesView(BaseModel):
     unofficial_hosts: list[str] = Field(default_factory=list)
     cli_available: bool = False
     capabilities: list[str] = Field(default_factory=list)
+    #: Every adapter the model knows, for rendering what is registered.
     adapters: list[str] = Field(default_factory=list)
+    #: The subset a browser may register. Local folders are absent by
+    #: design (F-50) and arrive through the local tooling instead.
+    browser_adapters: list[str] = Field(default_factory=list)
 
 
 class AddSourceRequest(BaseModel):
-    """A source is a URL or a local folder the user points Continuum at."""
+    """A web source the user points Continuum at.
+
+    Web only, deliberately. A local folder is a raw filesystem path, and the
+    Phase 0 API takes none from a client (F-50) - naming the field `url` would
+    not change what it carries. Local-folder sources stay supported in the
+    model and are registered by the local tooling, which writes the same
+    registry; the browser then reads and shows them like any other source.
+    """
 
     url: str = Field(min_length=1, max_length=2048)
     name: str | None = Field(default=None, max_length=200)
     source_id: str | None = Field(default=None, max_length=64, pattern=r"^[a-z0-9][a-z0-9_-]*$")
-    adapter: Literal["web", "local-folder", "bibliographic"] | None = None
+    adapter: Literal["web", "bibliographic"] | None = None
     search: str | None = Field(default=None, max_length=2048)
     note: str | None = Field(default=None, max_length=500)
     download_permitted: bool = False
     test: bool = True
     #: How the source hands material over. Shown in the UI so the cost of a
     #: click is visible before the click.
+    @field_validator("url")
+    @classmethod
+    def _must_be_a_web_url(cls, value: str) -> str:
+        """Accept http(s) only: no filesystem path enters through a browser.
+
+        Rejecting by scheme alone is not enough - a Windows path, a UNC share
+        and a bare absolute path carry no scheme at all, and `file:` is a
+        filesystem path wearing a URL costume.
+        """
+        candidate = value.strip()
+        parsed = urlsplit(candidate)
+        if parsed.scheme.lower() in ("http", "https") and parsed.netloc:
+            return candidate
+        raise ValueError(
+            "a source registered from the browser must be an http:// or https:// address. "
+            "Local folders are registered with the acquisition CLI "
+            "(sources add <folder>), which writes the same registry."
+        )
+
     access: Literal[
         "FREE_OFFICIAL_WEB",
         "SUBSCRIPTION_WEB",

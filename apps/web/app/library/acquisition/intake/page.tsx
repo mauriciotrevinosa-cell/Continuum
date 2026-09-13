@@ -1,4 +1,10 @@
-import { ApiUnreachableError, type IntakeView, acquisition } from "@/lib/api";
+import {
+  ApiUnreachableError,
+  type AcquisitionStatus,
+  type IntakeView,
+  acquisition,
+} from "@/lib/api";
+import { basename, inVault, plural } from "@/lib/acquisition";
 import { RefreshButton } from "../_components/RefreshButton";
 import { ApiDown, Empty, Pill, Stat } from "../_components/ui";
 import { refreshIntakeAction } from "../actions";
@@ -11,9 +17,10 @@ function pending(action: string | undefined): boolean {
 
 export default async function IntakePage() {
   let data: IntakeView | null = null;
+  let status: AcquisitionStatus | null = null;
   let error: string | null = null;
   try {
-    data = await acquisition.intake();
+    [data, status] = await Promise.all([acquisition.intake(), acquisition.status()]);
   } catch (cause) {
     error =
       cause instanceof ApiUnreachableError ? cause.message : `Unexpected error: ${String(cause)}`;
@@ -21,9 +28,10 @@ export default async function IntakePage() {
 
   const units = data?.units ?? [];
   const waiting = units.filter((unit) => pending((unit as { action?: string }).action));
+  const vaultRoot = status?.vault_root ?? "";
 
   return (
-    <main style={{ padding: 0, maxWidth: "none" }}>
+    <main>
       <p className="eyebrow">Library · Acquisition</p>
       <h1 className="headline">Intake</h1>
       <p className="lede">
@@ -96,13 +104,13 @@ export default async function IntakePage() {
                         ) : null}
                       </div>
                       <p className="row-meta">
-                        {unit.files} file{unit.files === 1 ? "" : "s"}
+                        {plural(unit.files, "file")}
                         {unit.classified_by ? ` · identified by ${unit.classified_by}` : ""}
                         {unit.series.length ? ` · series: ${unit.series.join(", ")}` : ""}
                         {unit.languages.length ? ` · ${unit.languages.join(", ")}` : ""}
                       </p>
                       <p className="row-meta">
-                        <code>{unit.path}</code>
+                        <code>{basename(unit.path)}</code>
                       </p>
                     </div>
                     <div className="row-side">
@@ -150,19 +158,27 @@ export default async function IntakePage() {
                 <span className="hint">never applied automatically</span>
               </div>
               <div className="rows">
-                {data.proposed_moves.slice(0, 40).map((move, index) => (
-                  <div className="row-item" key={index}>
-                    <div className="row-main">
-                      <p className="row-meta">
-                        <code>{String(move.source ?? "")}</code>
-                      </p>
-                      <p className="row-meta">
-                        → <code>{String(move.target ?? "")}</code>
-                      </p>
-                      <p className="row-meta">{String(move.reason ?? "")}</p>
+                {data.proposed_moves.slice(0, 40).map((move, index) => {
+                  const from = String(move.source ?? "");
+                  const to = String(move.target ?? "");
+                  return (
+                    <div className="row-item" key={index}>
+                      <div className="row-main">
+                        <div className="row-title">
+                          <span>{basename(from)}</span>
+                          <Pill tone="warn">proposed</Pill>
+                        </div>
+                        <p className="row-meta">
+                          <code>{inVault(from, vaultRoot)}</code>
+                        </p>
+                        <p className="row-meta">
+                          → <code>{inVault(to, vaultRoot)}</code>
+                        </p>
+                        <p className="row-meta">{String(move.reason ?? "")}</p>
+                      </div>
                     </div>
-                  </div>
-                ))}
+                  );
+                })}
               </div>
             </>
           ) : null}
@@ -171,7 +187,7 @@ export default async function IntakePage() {
             <>
               <div className="section">
                 <h2>Needs your decision</h2>
-                <span className="hint">{data.review.length} items</span>
+                <span className="hint">{plural(data.review.length, "item")}</span>
               </div>
               <div className="rows">
                 {data.review.slice(0, 60).map((item, index) => (

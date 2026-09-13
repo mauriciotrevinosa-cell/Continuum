@@ -24,7 +24,7 @@ export default async function SourcesPage() {
   }
 
   return (
-    <main style={{ padding: 0, maxWidth: "none" }}>
+    <main>
       <p className="eyebrow">Library · Acquisition</p>
       <h1 className="headline">Sources</h1>
       <p className="lede">
@@ -67,11 +67,25 @@ export default async function SourcesPage() {
 
           <div className="section">
             <h2>Add a source</h2>
-            <span className="hint">a website, a catalogue, or a folder you own</span>
+            <span className="hint">a website or a catalogue</span>
           </div>
           <div className="card">
-            <AddSourceForm adapters={data.adapters} />
+            <AddSourceForm adapters={data.browser_adapters} />
           </div>
+
+          <details className="finder">
+            <summary>Folders you own</summary>
+            <p className="row-meta" style={{ marginTop: 8 }}>
+              A folder of files you already bought can be a source too, but a browser cannot hand
+              one over: this app takes no filesystem paths from a page, so a tab could never be
+              talked into reaching somewhere on your disk. Register it yourself and it shows up in
+              the list above like any other source.
+            </p>
+            <code className="cmd">
+              python acquisition_orchestrator.py sources add &quot;D:\My Purchases&quot; --name
+              &quot;My purchases&quot;
+            </code>
+          </details>
 
           <div className="section">
             <h2>Registered</h2>

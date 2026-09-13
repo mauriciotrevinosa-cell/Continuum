@@ -46,6 +46,7 @@ from continuum_api.schemas import (
     IntakeUnit,
     IntakeView,
     QueueItem,
+    QueuePage,
     ReleaseEvent,
     ReviewItem,
     ScaffoldPlan,
@@ -69,6 +70,9 @@ SourceId = Annotated[
 CAPABILITIES = ("DISCOVERY_ONLY", "METADATA", "UPDATE_TRACKING", "MANUAL_ACQUISITION",
                 "AUTOMATIC_ACQUISITION")
 ADAPTERS = ("web", "local-folder", "bibliographic")
+#: What a browser may register. A local folder is a filesystem path, so it
+#: is registered by the local tooling instead (F-50).
+BROWSER_ADAPTERS = ("web", "bibliographic")
 
 
 def _store(request: Request) -> AcquisitionStore:
@@ -384,12 +388,22 @@ def family_detail(request: Request, family_id: FamilyId) -> FamilyDetail:
     raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="family not found")
 
 
-@router.get("/queue", response_model=list[QueueItem])
+@router.get("/queue", response_model=QueuePage)
 def queue(
     request: Request,
     coverage_status: Annotated[str | None, Query(alias="status", max_length=32)] = None,
-    limit: Annotated[int, Query(ge=1, le=2000)] = 500,
-) -> list[QueueItem]:
+    family_id: Annotated[str | None, Query(alias="family", max_length=200)] = None,
+    text: Annotated[str | None, Query(alias="q", max_length=200)] = None,
+    offset: Annotated[int, Query(ge=0, le=100_000)] = 0,
+    limit: Annotated[int, Query(ge=1, le=2000)] = 50,
+) -> QueuePage:
+    """One page of the queue.
+
+    Paged rather than whole: a queue is as long as the library is incomplete,
+    and a screen that renders every row scales its cost with someone else's
+    backlog. The counts describe the whole filtered set, so the page below
+    them is never mistaken for all of it.
+    """
     layout = _doc(request, "vault-layout.json")
     items = _queue_items(
         _doc(request, "acquisition-queue.json"),
@@ -397,10 +411,29 @@ def queue(
         _doc(request, "vault-coverage.json"),
         _search_titles(_doc(request, "works-catalog.json")),
     )
+    by_status = Counter(i.coverage_status or "UNKNOWN" for i in items)
     if coverage_status:
         wanted = coverage_status.upper()
         items = [i for i in items if (i.coverage_status or "") == wanted]
-    return items[:limit]
+    if family_id:
+        items = [i for i in items if i.family_id == family_id]
+    if text:
+        needle = text.strip().lower()
+        items = [
+            i for i in items
+            if needle in i.work.lower()
+            or needle in i.family.lower()
+            or any(needle in title.lower() for title in i.search_titles)
+        ]
+    return QueuePage(
+        total=len(items),
+        offset=offset,
+        limit=limit,
+        by_status=dict(by_status),
+        needs_you=sum(1 for i in items if i.requires_user_action),
+        downloadable=sum(1 for i in items if i.downloadable),
+        items=items[offset : offset + limit],
+    )
 
 
 @router.get("/sources", response_model=SourcesView)
@@ -414,6 +447,7 @@ def list_sources(request: Request) -> SourcesView:
         cli_available=_store(request).cli_available,
         capabilities=list(CAPABILITIES),
         adapters=list(ADAPTERS),
+        browser_adapters=list(BROWSER_ADAPTERS),
     )
 
 

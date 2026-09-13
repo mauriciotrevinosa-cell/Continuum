@@ -5,9 +5,13 @@ import { type ActionState, addSourceAction, sourceAction } from "../actions";
 import { ActionResult } from "./ActionResult";
 
 /**
- * Add a source. The form stays deliberately small: a location is enough,
+ * Add a source. The form stays deliberately small: an address is enough,
  * and everything else is optional. What the source can actually do is
  * discovered by testing it, not declared here.
+ *
+ * Web addresses only. A folder on your own machine is registered with the
+ * acquisition CLI, which writes the same registry this page reads, so the
+ * browser never hands the API a filesystem path (F-50).
  */
 export function AddSourceForm({ adapters }: { adapters: string[] }) {
   const [state, formAction, pending] = useActionState<ActionState | null, FormData>(
@@ -18,18 +22,22 @@ export function AddSourceForm({ adapters }: { adapters: string[] }) {
     <form className="form" action={formAction}>
       <div className="form-grid">
         <div className="field" style={{ gridColumn: "1 / -1" }}>
-          <label htmlFor="source-url">Website URL or folder you own</label>
+          <label htmlFor="source-url">Website address</label>
           <input
             id="source-url"
             name="url"
-            type="text"
+            type="url"
             required
-            placeholder="https://publisher.example  —  or  D:\\My Purchases"
+            inputMode="url"
+            pattern="https?://.+"
+            placeholder="https://publisher.example"
             autoComplete="off"
+            aria-describedby="source-url-help"
           />
-          <span className="help">
-            A store, an official reader, a catalogue, or a folder of files you already own. A host
-            on your unofficial list is refused.
+          <span className="help" id="source-url-help">
+            A store, an official reader or a catalogue, starting with <code>https://</code>. A
+            host on your unofficial list is refused. A folder of files you already own is
+            registered with the command shown under the list below.
           </span>
         </div>
         <div className="field">

@@ -63,7 +63,7 @@ export default async function CalendarPage({
   const detected = events.length - published;
 
   return (
-    <main style={{ padding: 0, maxWidth: "none" }}>
+    <main>
       <p className="eyebrow">Library · Acquisition</p>
       <h1 className="headline">Release calendar</h1>
       <p className="lede">

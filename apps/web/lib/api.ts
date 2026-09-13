@@ -236,6 +236,25 @@ export interface FamilyDetail {
   findings: Record<string, unknown>[];
 }
 
+export interface QueueQuery {
+  status?: string;
+  family?: string;
+  q?: string;
+  offset?: number;
+  limit?: number;
+}
+
+/** One page of the queue, plus what the whole filtered set looks like. */
+export interface QueuePage {
+  total: number;
+  offset: number;
+  limit: number;
+  by_status: Record<string, number>;
+  needs_you: number;
+  downloadable: number;
+  items: QueueItem[];
+}
+
 export interface QueueItem {
   family: string;
   family_id: string;
@@ -289,6 +308,8 @@ export interface SourcesView {
   cli_available: boolean;
   capabilities: string[];
   adapters: string[];
+  /** The subset a browser may register: web sources, never a local folder. */
+  browser_adapters: string[];
 }
 
 export interface AcquisitionActionResult {
@@ -441,8 +462,14 @@ export const acquisition = {
   overview: () => request<AcquisitionOverview>(ACQ),
   families: () => request<FamilyProgress[]>(`${ACQ}/families`),
   family: (id: string) => request<FamilyDetail>(`${ACQ}/families/${encodeURIComponent(id)}`),
-  queue: (status?: string) =>
-    request<QueueItem[]>(`${ACQ}/queue${status ? `?status=${encodeURIComponent(status)}` : ""}`),
+  queue: (params: QueueQuery = {}) => {
+    const search = new URLSearchParams();
+    for (const [key, value] of Object.entries(params)) {
+      if (value !== undefined && value !== "") search.set(key, String(value));
+    }
+    const qs = search.toString();
+    return request<QueuePage>(`${ACQ}/queue${qs ? `?${qs}` : ""}`);
+  },
   sources: () => request<SourcesView>(`${ACQ}/sources`),
   intake: () => request<IntakeView>(`${ACQ}/intake`),
   updates: () => request<UpdatesView>(`${ACQ}/updates`),

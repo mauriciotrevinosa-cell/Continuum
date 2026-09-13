@@ -33,7 +33,7 @@ export async function DataBar() {
 
   return (
     <div className="databar">
-      <AutoRefresh seconds={60} />
+      <AutoRefresh />
       <span className="row-meta">
         {status.available ? (
           <>

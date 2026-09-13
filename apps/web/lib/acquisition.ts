@@ -221,3 +221,32 @@ export function coverageDetail(work: {
   else if (work.remote_latest_chapter) parts.push(`latest known ${work.remote_latest_chapter}`);
   return parts.join(" · ");
 }
+
+/** The last segment of a path, whichever separator it uses. */
+export function basename(path: string): string {
+  const parts = path.split(/[\\/]/).filter(Boolean);
+  return parts[parts.length - 1] ?? path;
+}
+
+/**
+ * A Vault path as the user thinks of it: relative to their Vault root.
+ *
+ * The absolute path is true but not informative - every row would start with
+ * the same forty characters. The root itself is stated once per screen,
+ * under "where this lives".
+ */
+export function inVault(path: string, vaultRoot: string): string {
+  if (!vaultRoot) return path;
+  const normal = (s: string) => s.replaceAll("\\", "/").replace(/\/+$/, "");
+  const root = normal(vaultRoot);
+  const value = normal(path);
+  if (value.toLowerCase().startsWith(`${root.toLowerCase()}/`)) {
+    return value.slice(root.length + 1);
+  }
+  return path;
+}
+
+/** "1 work", "3 works": a count the user reads, not a count plus an "s". */
+export function plural(count: number, noun: string, plural?: string): string {
+  return `${count} ${count === 1 ? noun : (plural ?? `${noun}s`)}`;
+}

@@ -45,6 +45,7 @@ releases by 6–18 months, so 3.13/3.14 would force a downgrade later).
 | `mako` | 1.4.1 | MIT | Alembic's template engine (transitive) |
 | `psycopg[binary]` | 3.3.5 | LGPL-3.0 | PostgreSQL driver |
 | `greenlet` | 3.5.5 | MIT | SQLAlchemy async support (transitive) |
+| `pillow` | 12.3.0 | MIT-CMU (HPND) | Phase 1, `continuum_imaging` only: decodes reference images and pages from bytes (format allowlist, 120 MP limit), crops regions, masks, previews and the deterministic rough sketch. Never given a path; no network, no model |
 
 ### A note on `psycopg` and the LGPL
 

@@ -1,0 +1,13 @@
+[project]
+name = "continuum-imaging"
+version = "0.0.0"
+description = "Image decoding, crops, masks and deterministic sketches. Bytes in, bytes out; no filesystem."
+requires-python = ">=3.12,<3.13"
+dependencies = ["continuum-core", "pillow>=12.3,<13"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv.sources]
+continuum-core = { workspace = true }

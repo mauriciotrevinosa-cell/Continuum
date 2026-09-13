@@ -9,6 +9,7 @@ license = { text = "UNLICENSED" }
 # environment with all packages installed editable.
 dependencies = [
     "continuum-core",
+    "continuum-imaging",
     "continuum-observability",
     "continuum-config",
     "continuum-storage",
@@ -36,6 +37,7 @@ members = ["packages/*", "apps/api", "workers/runner"]
 
 [tool.uv.sources]
 continuum-core = { workspace = true }
+continuum-imaging = { workspace = true }
 continuum-observability = { workspace = true }
 continuum-config = { workspace = true }
 continuum-storage = { workspace = true }

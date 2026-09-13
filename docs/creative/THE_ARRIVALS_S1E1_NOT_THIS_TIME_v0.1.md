@@ -1,11 +1,13 @@
 # The Arrivals — S1E1 `Not This Time` v0.1
 
-**Status:** approved story structure; dialogue and paneling not yet locked  
+**Status:** approved / locked scene-card structure; final Draft 1 prose, exact manga paneling, and final line polish remain next  
 **Date:** 2026-09-13  
 **Project:** `The Arrivals`  
-**Scope:** Season 1 Episode 1 dramatic structure, visual motifs, dialogue direction, and immediate E2/E3 continuity  
+**Scope:** Season 1 Episode 1 dramatic structure, scene-card blocking, visual motifs, dialogue direction, and immediate E2/E3 continuity  
 
-This document records the approved Story Room structure for the opening episode. It supplements the broader opening-group and season-spine documents. It does **not** yet lock exact source dialogue, page count, runtime, shot count, or final manga paneling.
+This document records the approved Story Room structure for the opening episode after the full scene-card pass. The sixteen scenes below are now the accepted dramatic sequence and should not be casually reopened. Changes should require a real continuity, source-canon, pacing, or production reason rather than preference churn.
+
+The document still does **not** lock exact page count, runtime, final manga panel count, exact shot count, or every final English line. Those belong to the next layers.
 
 The production principle remains:
 
@@ -31,7 +33,7 @@ Working / approved title direction:
 
 Episode 1 belongs primarily to **Frieren and Mau**.
 
-It should not rush to assemble Group 1. Bocchi is moved to the **end of Episode 2**. Group 1 may complete around E4–E5 as a current pacing direction, but this is not a quota; the cast should enter only when each arrival has enough dramatic space.
+It should not rush to assemble Group 1. Bocchi is moved to the **end of Episode 2**. Group 1 may complete around E4–E6 as a current pacing direction, but this is not a quota; the cast should enter only when each arrival has enough dramatic space.
 
 The emotional shape of E1 is:
 
@@ -77,26 +79,34 @@ source manga / source material
 -> new English dialogue
 ```
 
+A useful E1 writing rule established by the scene-card pass is:
+
+> If the image already communicates the emotion or information, do not make the character explain it again.
+
 ---
 
-## 3. Approved scene structure
+## 3. Approved / locked scene-card structure
 
 ### Scene 1 — Frieren & Fern
 
-Current placement direction: after the Macht arc.
+Current placement direction remains after the Macht arc, but exact source chronology should still be verified before a hard source-canon lock.
 
-Frieren and Fern are already in a dangerous encounter. The scene should feel like another day of travel rather than a telegraphed farewell.
+Frieren and Fern are already in a dangerous encounter. The scene should feel like another difficult day of travel rather than a telegraphed farewell.
 
-Their coordination is shown quickly and naturally. Fern sees an opening and takes it. She opens herself slightly too far — a believable combat mistake, not sudden incompetence.
+Their coordination is shown quickly and naturally. Fern sees a real opening and commits to a reasonable attack. The mistake is small and fast: by taking the opening, Fern exposes herself in a way the enemy can exploit.
 
-A minimal dialogue direction is:
+Frieren sees what Fern is trying to do, understands the opening, and almost simultaneously recognizes the danger in it. She tries to stop Fern, but the whole exchange happens within seconds and the warning comes a fraction too late.
 
-> **Fern:** "I see an opening."  
-> **Frieren:** "Don't overextend."
+Current minimal dialogue direction:
 
-The enemy exploits Fern's exposure. Frieren has no time for an elegant solution and fires to save her.
+> **Fern:** "I see it."  
+> **Frieren:** "Fern, wait—"
 
-**Approved.**
+Fern is already committed. The enemy reacts. Frieren has no time for an elegant solution and fires immediately to save her.
+
+The scene ends on the shot / flash rather than resolving the outcome.
+
+**LOCKED / APPROVED.**
 
 ### Scene 2 — The Shot
 
@@ -106,11 +116,13 @@ When Frieren can see again, the enemy is dead. Her shot worked.
 
 Fern is gone.
 
-Where Fern stood is a small crater. Frieren searches for movement and mana. She finds the **hair ornament Frieren gave Fern** among what remains.
+Where Fern stood is a small crater. Frieren first searches visually, then through mana and physical evidence. There is no body and no definitive explanation.
+
+She finds the **hair ornament Frieren gave Fern** among what remains.
 
 The object becomes the central visual continuity token of the opening.
 
-Frieren's response should remain restrained enough to feel like Frieren while still showing a rare break in composure:
+Frieren's response remains restrained enough to feel like Frieren while still showing a rare break in composure:
 
 > "Fern?"  
 > "Fern."  
@@ -118,86 +130,169 @@ Frieren's response should remain restrained enough to feel like Frieren while st
 > "No..."  
 > "No. No, no..."
 
-She begins moving debris less and less methodically.
+She begins moving debris less and less methodically. The point is not that she already knows Fern is dead. She genuinely does **not** know what happened, and the lack of an answer gives her something to keep searching for.
 
-**Approved.**
+**LOCKED / APPROVED.**
 
 ### Scene 3 — Day One
 
-Frieren treats Fern's disappearance as a solvable problem:
+Frieren still treats Fern's disappearance as a solvable problem. She is functional rather than openly broken.
 
-- she may have been thrown clear;
-- there may be residual teleportation magic;
+She reconstructs the geometry of the fight and explores possibilities:
+
+- Fern may have been thrown clear;
+- there may be residual teleportation or displacement magic;
 - there may be a weak trace;
-- there may be some survival explanation not yet found.
+- there may be some survival explanation they have not found yet.
 
-Stark searches with her. He does not challenge her yet because he also wants the hopeful explanation to be true.
+Stark searches with her. He does not challenge her because he also wants the hopeful explanation to be true.
 
-**Approved.**
+A useful exchange is:
+
+> **Stark:** "Where are you going?"  
+> **Frieren:** "If the blast threw her clear, she would've landed this way."
+
+Later, while inspecting residue:
+
+> **Stark:** "Teleportation?"  
+> **Frieren:** "Maybe."
+
+Nothing is confirmed.
+
+The scene closes after night has begun to fall. Stark expects the search to stop. Frieren simply keeps walking, so Stark follows her.
+
+**APPROVED.**
 
 ### Scene 4 — The Search
 
-Several days pass.
+Several days pass without relying on generic day-number cards. Repetition should carry the passage of time, with each repetition becoming more worn and less rational.
 
-Frieren searches increasingly repetitive ground. Stark begins to recognize the shift from rational search to refusal.
+Possible repeated images / beats include:
 
-He brings food. Frieren neglects it.
+- Frieren and Stark leaving the inn at dawn;
+- the same route with progressively more exhaustion;
+- Stark carrying food for both of them;
+- Frieren revisiting terrain they have already searched;
+- maps or search zones becoming heavily marked.
 
-Direction:
+At one point Frieren examines a mark and Stark quietly notes:
+
+> **Stark:** "That's from yesterday."
+
+Frieren realizes they have already been there. She says little and keeps moving.
+
+Food beat:
 
 > **Stark:** "Eat."  
 > **Frieren:** "Later."  
 > **Stark:** "You said that yesterday."
 
-Stark is not played for comedy here. He is also grieving and is forcing himself into practical action because someone has to keep Frieren functioning.
+Stark is not comic relief here. He is also grieving and is forcing himself into practical action because someone has to keep Frieren functioning. When she finally eats, he may look away so she does not see how badly he is doing too.
 
-**Approved.**
+By the end, the search area itself shows that they have checked almost everything around them. Stark begins to understand something Frieren still cannot accept.
+
+**APPROVED.**
 
 ### Scene 5 — Stark Says It
 
-Around Day 6, Stark finally says what neither of them wants to say.
+Around Day 6, Frieren prepares to search a place they have already covered.
 
-Direction:
+Stark recognizes where she is going.
+
+Current approved dialogue direction:
 
 > **Stark:** "We already searched there."  
-> **Frieren:** "I'll search again."  
-> **Stark:** "It's been six days."  
-> ...  
-> **Stark:** "She's probably dead."  
+> **Frieren:** "I know."  
+> **Stark:** "Then why—"  
+> **Frieren:** "I might've missed something."
+
+Stark sees how exhausted she is.
+
+> **Stark:** "Frieren..."  
+> **Stark:** "It's been six days."
+
+He tries to approach the conclusion carefully:
+
+> **Stark:** "If Fern was hurt..."  
+> "...she would've answered us."
+
+Frieren still has rational alternatives available to her:
+
+> **Frieren:** "Not necessarily."
+
+Stark:
+
+> **Stark:** "We searched everywhere."
+
+Frieren:
+
+> **Frieren:** "Then we search again."
+
+Stark finally crosses the line neither of them wants crossed:
+
+> **Stark:** "She's probably dead."
+
+Silence.
+
 > **Frieren:** "No."  
 > **Stark:** "Frieren—"  
 > **Frieren:** "Fern isn't dead."
 
-Frieren leaves to continue searching.
+She leaves.
 
-Only after she is gone does Stark finally allow himself to cry. Until then he had been holding himself together partly for her.
+The approved closing uses both of their reactions rather than choosing only one. Stark remains behind and finally cries after holding himself together for days, while Frieren is shown walking alone outside, becoming smaller against the landscape as she continues the search.
 
-**Approved.**
+The two images show different responses to the same loss:
+
+```text
+Stark begins to accept.
+Frieren refuses.
+```
+
+**APPROVED.**
 
 ### Scene 6 — The Last Search
 
-Around Day 7, Frieren returns alone to the crater.
+Around Day 7, Frieren returns alone to the original crater.
 
-The search no longer looks like investigation. It has become ritual.
+Her movement is slower. The search has stopped looking like investigation and become ritual.
 
-She examines the place again, holds Fern's hair ornament, finds nothing, and finally stops — not because she has fully accepted Fern's death, but because she is physically and emotionally exhausted.
+She repeats the same checks:
 
-**Approved.**
+- magical residue;
+- terrain;
+- mana;
+- surrounding ground;
+- the exact place where Fern vanished.
+
+She discovers **no new proof**. There is still no body, no confirmed teleportation trace, no mana, no answer, and no explanation.
+
+Frieren returns to the place where she found the ornament, kneels, and holds it.
+
+The scene needs only one spoken word:
+
+> **Frieren:** "Fern?"
+
+Very quiet. Unlike Scene 2, she now knows there will probably be no answer.
+
+Eventually she stands and, for the first time in the entire week, leaves without continuing the search. This is not a logical conclusion that Fern is dead. Frieren has simply reached the point where her body and mind cannot continue.
+
+**Closing image:** a wide view of the empty crater as Frieren walks away from it for the first time.
+
+**APPROVED.**
 
 ### Scene 7 — `I'm Sorry`
 
-**Approved with the Story Room amendment that explicitly locates Stark.**
-
 Frieren returns to the inn.
 
-Two silent panels / beats establish Stark:
+Two silent Stark beats are locked:
 
-1. Frieren enters. Stark is still awake in the common area and looks up.
-2. Stark seems ready to speak, sees how exhausted Frieren is, and chooses to remain silent as she walks toward her room.
+1. Frieren enters. Stark is still awake in the common area and immediately looks up.
+2. Stark sees her exhaustion, seems ready to speak, decides not to, and watches her go toward her room.
 
 This is a small Stark character beat: this time helping means letting her sleep.
 
-Frieren reaches her room, lies down, holds Fern's hair ornament to her chest and finally says:
+Frieren reaches her room. She has almost no energy left for a normal routine. She lies down and holds Fern's hair ornament to her chest.
 
 > **Frieren:** "I'm sorry, Fern."
 
@@ -205,186 +300,371 @@ Long pause.
 
 > **Frieren:** "I'm sorry, Heiter."
 
-No explanatory monologue is needed. Heiter entrusted Fern to Frieren; the emotional implication should be allowed to stand on its own.
+No explanatory monologue is needed. Heiter entrusted Fern to Frieren; the implication stands on its own.
 
-Frieren falls asleep from exhaustion.
+Frieren falls asleep from exhaustion with her hand still around the ornament.
+
+There is no portal, flash, or transfer explanation.
+
+**APPROVED.**
 
 ### Scene 8 — Another Sky
 
 Black / quiet transition.
 
-There is no visible portal and no explanation of the transfer mechanism.
+Wind, leaves, and unfamiliar natural sounds arrive before explanation.
 
-Frieren wakes in approximately the same body position under a different sky with unfamiliar sounds and environment.
+Frieren wakes in approximately the same body position, but she is now on grass / earth under another sky. The environment need not be fantastically alien; the unease can come from details that are subtly unfamiliar: light, plants, ambient mana, temperature, and sound.
 
-She still has Fern's hair ornament.
+She sits up and studies the environment as a mage would. She cannot identify a normal teleport spell, known residue, or a clean explanation. She genuinely does not know where she is or what happened.
 
-Frieren looks at it and **puts it into her own hair**. From this point the ornament visually travels with her as the piece of Fern she believes she has left.
+Fern's ornament is still with her.
 
-Only after this does she notice a young man lying nearby.
+Frieren looks at it, pauses, and **puts it into her own hair**. From this point the ornament visually travels with her as the piece of Fern she believes she has left.
 
-Mau.
+She continues checking her immediate surroundings and only then visually discovers something she did not magically detect:
 
-**Approved.**
+**Mau is lying roughly one meter away from her.**
+
+Because he carries effectively no meaningful detectable mana, he did not announce himself to Frieren's usual magical perception. She looks at him, then at the tiny distance between them, with a small expression of genuine curiosity / confusion: how was a living person this close without her noticing?
+
+She checks that he is alive.
+
+Around this same beat, Frieren also notices another anomaly in her own state: she is not wearing the sleep clothes she went to bed in. She has arrived in her normal travel clothing, with her staff nearby and potentially her travel case / luggage as appropriate to the final source-reference design.
+
+The scene does not explain why the transfer selected or reconstructed these belongings. Frieren simply registers that the situation is stranger than ordinary relocation.
+
+**Closing beat:** Frieren beside the unconscious Mau, studying this living stranger she could not sense.
+
+**APPROVED.**
 
 ### Scene 9 — Mau
 
-Frieren confirms he is alive and detects effectively no meaningful mana from him.
+The scene begins from **Mau's POV**.
 
-Mau wakes confused.
+At first the world is unfocused: sky, light, and the silhouette of someone leaning over him. As his vision clears, Frieren comes into focus looking down at him with quiet curiosity rather than fear.
 
-He can retrieve one fact:
+When the image is fully clear, sound becomes clear too:
 
-> **Mau:** "Mau."
+> **Frieren:** "Can you hear me?"
 
-But questions about origin, arrival, home, and family return nothing.
+Mau does not immediately answer with dialogue. He needs a small beat just to understand that someone is speaking to him. A slight reaction or nod is enough.
 
-The scene should allow Mau to realize that he is not merely geographically lost. His personal past is missing.
+Frieren then asks:
 
-**Approved.**
+> **Frieren:** "What's your name?"
+
+Mau is about to answer, but for roughly half a second even this simple fact is not immediately available. His eyes show the tiny internal search:
+
+```text
+...what was my name?
+```
+
+Then it comes back:
+
+> **Mau:** "...Mau."
+
+This is important: even the one fact he possesses has to be retrieved.
+
+Frieren continues carefully:
+
+> **Frieren:** "Where are you from?"
+
+This time nothing appears.
+
+> **Mau:** "...I don't know."
+
+Then:
+
+> **Frieren:** "Do you remember how you got here?"  
+> **Mau:** "No."
+
+Frieren tries increasingly personal anchors rather than conducting a long clinical interview:
+
+> **Frieren:** "Your home?"
+
+Nothing.
+
+> **Frieren:** "Family?"
+
+Mau searches for a face, voice, or place and finds none.
+
+> **Mau:** "...No."
+
+Frieren stops questioning him when she sees that each question is only teaching him how much of himself is missing.
+
+She also quietly notices that even while awake he still presents effectively no meaningful detectable mana. She does **not** announce `you have zero mana` here.
+
+Mau is not visually a child. Current character intent is that he appears roughly **early / mid twenties** and stands about **176 cm**. His vulnerability comes from amnesia and complete situational dependence, not from looking underage. To Frieren's lifespan, however, someone around twenty is still extraordinarily young.
+
+The scene closes on the contrast:
+
+```text
+Frieren has an enormous past and has just lost someone inside it.
+Mau has almost no accessible past at all.
+```
+
+**APPROVED.**
 
 ### Scene 10 — The Noise
 
-Mau becomes distressed and hears the first faint internal anomaly.
+Mau is still processing the realization that almost nothing is behind him when a tiny interruption scratches across his thoughts.
 
-It is **not** a clean assistant introduction and **not** a power reveal.
+There is no aura, system window, ability reveal, or clear assistant introduction.
 
-A possible fragment is simply:
+The anomaly may appear as a broken fragment such as:
 
-> `...unknown...`
+> `...unk...`  
+> `...known...`
 
-Mau is frightened because he cannot identify whether the sound was external, internal, real, or imagined.
+or an equivalently incomplete visual/audio representation. It should not yet provide reliable information.
 
-Direction:
+Mau reacts physically: a blink, slight wince, or hand toward his head. Frieren notices because his behavior changes.
+
+Approved dialogue direction:
 
 > **Frieren:** "What's wrong?"  
 > **Mau:** "I... heard something."  
 > **Frieren:** "What?"  
-> **Mau:** "I don't know."
+> **Mau:** "Didn't you hear it?"
 
-**Approved.**
+Frieren quietly indicates no.
+
+Mau looks around, tries to locate the sound again, and hears nothing.
+
+> **Mau:** "...I don't know."
+
+The emotional read is confusion and fear, not `chosen one` excitement.
+
+Rule:
+
+> Enough to disturb him. Not enough to explain anything.
+
+**APPROVED.**
 
 ### Scene 11 — Flowers
 
-Frieren cannot explain Mau's condition. Instead, she gives him something calming and concrete.
+Frieren cannot explain Mau's condition. She also cannot detect an external threat that accounts for what he heard.
 
-She casts her flower-field magic.
+She gives him one honest answer:
 
-Mau's attention shifts from the frightening unknown inside himself to the flowers around him.
+> **Frieren:** "I didn't hear anything."
 
-Direction:
+Mau understands that the problem may have come from somewhere inside him, which unsettles him further.
+
+Frieren chooses not to diagnose what she cannot understand. Instead, she does something unnecessary for pure survival: she creates something beautiful and calming.
+
+She uses her flower-field magic.
+
+The change can begin small — one flower, then another — until the ordinary grass around them becomes a field / patch of flowers.
+
+This is also Mau's first meaningful experience of magic. Because he does not remember a previous baseline, he does not need to shout `Magic?!`; he simply watches, touches the flowers, and looks back at Frieren.
+
+Frieren:
 
 > **Frieren:** "I don't know what's happening to you."  
 > ...  
 > **Frieren:** "But I'll help."
 
-This becomes one of Mau's first emotionally meaningful memories in the new world.
+Mau does not need to answer `thank you`. His body relaxing and his attention returning to the flowers is enough.
 
-This moment also seeds Mau's later first major constructed spell. Much later, after power systems have been shared and Mau has built enough mana capacity, his attempt to reconstruct the flower magic matters because it was **the first beautiful thing someone did for him when he was terrified**.
+This becomes one of Mau's first emotionally meaningful memories in the new world and seeds his later first major constructed spell. Much later, after power systems have been shared and Mau has built enough mana capacity, reconstructing the flower magic matters because it was **the first beautiful thing someone did for him when he was terrified**.
 
 His first important constructed success should remain creation rather than destruction.
 
-**Approved.**
+**Locked closing image:** a **back shot** of Frieren and Mau together among the flowers. Fern's ornament is clearly visible in Frieren's hair. There is no dialogue. The composition quietly joins grief, continuity, safety, and the beginning of a new bond.
+
+**APPROVED.**
 
 ### Scene 12 — The Bucket
 
-Frieren starts organizing a minimal camp.
+Later, Frieren starts organizing the basics of survival.
 
-She gives Mau a bucket.
+Mau is still close to her and does not yet know what to do independently, so Frieren gives him a concrete job rather than a speech.
+
+She hands him a bucket:
 
 > **Frieren:** "We need water."  
 > "Help me."
 
-Mau returns with the bucket and a plant he found instead of the requested water.
+Mau takes the task seriously and leaves.
 
-He appears pleased to have found something useful.
+When he returns, he has the bucket **and a plant** he found. The plant should be visually distinct from the flower-field magic so the images do not blur together.
 
-Frieren looks at the plant, the bucket, and Mau.
+Mau is pleased with himself:
 
-For the first time since Fern disappeared, Frieren gives a small genuine smile.
+> **Mau:** "I found this."
+
+Frieren looks at the plant, the bucket, and Mau. She does not understand why he brought it.
+
+For the first time since Fern disappeared, Frieren gives a very small, genuine smile.
+
+Mau notices:
 
 > **Mau:** "What?"  
 > **Frieren:** "Nothing."
 
-She takes him to get water properly.
+Frieren takes the bucket and indicates that he should follow:
 
-**The bucket / plant beat is approved and retained.**
+> **Frieren:** "Come on."
+
+**Locked closing image:** Frieren walking with the bucket and Mau walking beside / behind her still carrying the plant, with a river or lake visible ahead of them. The humor is dry and gentle rather than making Mau look stupid.
+
+**APPROVED.**
 
 ### Scene 13 — Learning
 
-Short, quiet sequence of Mau helping during the rest of the day:
+The rest of the first day becomes a short, quiet learning sequence.
 
-- gathering wood;
-- being corrected;
-- trying again;
-- watching Frieren very closely;
-- remembering demonstrated actions.
+The rule is that Mau is not presented as useless. He is **new**. His instinctive way of orienting himself is to watch first and then try.
 
-Do not name his future progression system yet. The audience can already begin seeing the seed of:
+Useful beats include:
+
+- Frieren demonstrating how she handles the water;
+- Mau observing closely;
+- gathering wood / camp materials;
+- Frieren correcting a small mistake;
+- Mau watching the correction and repeating it properly;
+- simple survival setup without a lecture.
+
+#### Small behavioral mirroring seed
+
+An animal passes somewhere nearby.
+
+Frieren and Mau both notice it at the same moment and unconsciously make nearly the same tiny gesture — for example, following it with their eyes and tilting their heads in almost the same way.
+
+Neither notices the synchronization. It is not explained. This is a very early seed for the behavior Bocchi may notice in E3.
+
+#### Food beat — the secret stash
+
+Frieren opens her travel case / bag with complete seriousness:
+
+> **Frieren:** "This is my secret stash."
+
+Inside is the rock-hard travel bread.
+
+The joke is not that Frieren eats it effortlessly while Mau suffers. **Both of them suffer.** Frieren already knows exactly what this bread is like and still treats it as a prized stash.
+
+Use small reaction images: Frieren chewing with her own restrained pained / resigned expression and Mau trying to eat it with a similarly miserable face. No explanatory joke line is required.
+
+The sequence continues to seed, without naming it:
 
 ```text
-OBSERVE -> UNDERSTAND -> CONSTRUCT
+OBSERVE -> absorb -> imitate -> understand -> eventually construct
 ```
 
-without the story explaining it.
+Do not formalize a progression system here.
 
-**Approved.**
+**Locked closing image:** a small wider view of the first camp while Frieren and Mau finish making the fire. The river / lake can still be glimpsed through the trees. The sun is setting, but the composition deliberately reveals only a little of the larger world. The fire and camp carry us directly into Scene 14.
+
+**APPROVED.**
 
 ### Scene 14 — By the Fire
 
-The episode's quiet conversation.
+The episode slows down substantially.
 
-Mau asks whether Frieren remembers where she came from. She does.
+Frieren and Mau sit near the fire without staging the scene like an interview. They can both face the flames with silence between questions.
 
-He asks whether she has anyone there.
+Mau is the one who eventually breaks the silence:
 
-Frieren unconsciously touches Fern's ornament.
+> **Mau:** "Do you remember where you came from?"  
+> **Frieren:** "Yes."
 
-Direction:
+The ease of Frieren's answer contrasts with Mau's inability to answer the same thing about himself.
 
-> **Mau:** "Do you have anyone there?"  
-> **Frieren:** "I did."  
-> **Mau:** "Did they die?"  
-> **Frieren:** "...Yes."  
+Mau continues:
+
+> **Mau:** "Do you remember your family?"
+
+Frieren remains looking at the fire.
+
+> **Frieren:** "I did."
+
+The past tense makes Mau look at her.
+
+> **Mau:** "Did they die?"
+
+Frieren pauses. The word `family` can pull multiple losses into the moment; after the previous week, Fern is inevitably part of what the question means emotionally even if the category is imperfect.
+
+> **Frieren:** "...Yes."
+
+The audience knows something Frieren does not: Fern is not actually dead. Frieren is not lying; she is answering from what she currently believes.
+
 > **Mau:** "I'm sorry."  
 > **Frieren:** "Me too."
 
-This may be the first time Frieren says Fern's presumed death aloud.
+No grief monologue follows.
 
-Then:
+After another stretch of quiet:
 
 > **Mau:** "What are you going to do?"  
-> **Frieren:** "Figure out where we are."  
-> ...  
+> **Frieren:** "Figure out where we are."
+
+Pause.
+
+Frieren looks slightly toward him:
+
 > **Frieren:** "And what happened to you."
 
-That final `you` quietly makes Mau part of Frieren's next objective.
+That final `you` quietly makes Mau part of Frieren's next objective. Mau does not need to thank her; a small change in posture is enough.
 
-**Approved.**
+Fern's ornament may catch a little firelight without becoming an explanatory insert.
+
+**Closing image:** an intimate camp image with the fire between them. They no longer read as two strangers who happened to wake near each other. They read as two people camping together.
+
+**APPROVED.**
 
 ### Scene 15 — The Blanket
 
-The temperature drops. They have only a small blanket and shelter against a tree.
+Night settles and the temperature drops.
 
-Mau initially tries to sleep slightly apart.
+They have only one blanket useful enough for the cold. Mau initially tries to sleep slightly apart from Frieren, perhaps against the tree or another part of the improvised shelter.
 
-Direction:
+Frieren notices him trying to endure it:
 
 > **Frieren:** "You'll be cold over there."  
 > **Mau:** "I'm okay."  
 > **Frieren:** "You're shivering."
 
-Mau moves closer. They share the blanket for warmth.
+Mau has no real rebuttal.
 
-The moment is survival and human closeness, not deliberate romance or sexualization.
+Frieren simply makes space / lifts the blanket enough for him to move closer. There is no deliberate romance beat, no sexualization, and no need for exaggerated embarrassment. It is survival and human proximity.
 
-Mau relaxes and falls asleep **before Frieren**.
+Mau may initially leave a respectful amount of space between them. He is a visibly adult man — roughly early / mid twenties in appearance and about 176 cm — so the composition should not read like Frieren tucking in a small child. The emotional asymmetry comes from experience and lifespan: to Frieren, someone around twenty is still extraordinarily young, while Mau is also completely vulnerable because he has no past or support network he can access.
 
-**Approved.**
+They settle.
+
+Mau remains awake briefly, looking at the fire, sky, or Frieren in small glances. Frieren is still awake when Mau closes his eyes.
+
+Mau falls asleep **first**.
+
+This matters because his body makes the decision before he can rationally justify it: he feels safe enough beside Frieren to become completely defenseless.
+
+Frieren notices. Her first reaction can be the smallest hint of surprise — almost `already?` — before she understands the meaning.
+
+Mau has known her for only hours. He does not know where they are, who she really is, or whether she is safe. He has no memories teaching him whom to trust.
+
+He trusted her anyway.
+
+If the blanket shifts away from him as he sleeps, Frieren quietly adjusts it to cover him better.
+
+**Locked closing image:** Mau asleep beside Frieren under the blanket, his face calm in the low firelight, while Frieren remains awake looking at him and understanding the trust he has placed in her.
+
+**LOCKED / APPROVED. Do not casually rewrite this scene.**
 
 ### Scene 16 — `Not This Time`
 
-Frieren remains awake and watches Mau.
+The scene continues directly from Scene 15 rather than breaking the quiet.
+
+Frieren remains awake beside Mau.
+
+She adjusts the blanket one last time and then lightly touches Fern's ornament in her hair.
+
+This may trigger one extremely brief visual memory / impression of **Fern as the young girl Frieren first met**. It should not become a full flashback or explanatory recap. A single warm image is enough: the beginning of Frieren's relationship with Fern placed beside the beginning of this new relationship with Mau.
+
+The memory does **not** imply that Mau replaces Fern.
+
+Frieren looks back at sleeping Mau.
 
 He knows almost nothing:
 
@@ -395,21 +675,23 @@ He knows almost nothing:
 
 Yet he has fallen asleep beside her.
 
-Frieren recognizes the trust.
-
-She adjusts the blanket, touches Fern's hair ornament, and may receive one extremely brief visual impression of Fern — not a full explanatory flashback.
-
-Then she looks at Mau and thinks:
+Frieren recognizes the trust and thinks only:
 
 > **Frieren:** "Not this time."
 
 No further explanation.
 
-Frieren closes her eyes.
+The line carries guilt, grief, decision, and a promise without spelling any of them out.
 
-Wide final image: Frieren and Mau asleep beneath the tree, a small fire burning, surrounded by a world neither understands.
+It does not mean `Mau is Fern 2.0`. It means Frieren believes she failed someone she loved and will not stand by and repeat that failure with someone now depending on her.
+
+Frieren eventually closes her eyes.
+
+**Locked final image:** a wide view of Frieren and Mau under the tree / at the tiny camp, sharing the blanket, with the small fire still alive and the enormous unfamiliar world around them mostly hidden by night. The image should feel temporarily peaceful rather than triumphant.
 
 **END — EPISODE 1**
+
+**APPROVED.**
 
 ---
 
@@ -421,7 +703,7 @@ The ornament is left at the disappearance site, carried through Frieren's final 
 
 It is not generic costume decoration. It is grief / responsibility / continuity made visible.
 
-Before final script lock, the exact source depiction and terminology of the ornament should be checked against the source material so the project does not accidentally misdescribe it.
+Before final script / manga lock, the exact source depiction and terminology of the ornament should be checked against the source material so the project does not accidentally misdescribe it.
 
 ### Flower-field magic
 
@@ -435,15 +717,48 @@ Later, Mau reconstructing the spell becomes emotionally meaningful because the v
 
 E1 plants his tendency to learn by watching without presenting it as a formal superpower.
 
-No major constructed ability is unlocked here.
+The animal-mirroring beat and simple survival corrections establish behavior before mechanics. No major constructed ability is unlocked here.
+
+### The rock-hard bread
+
+The secret-stash beat establishes that ordinary life and quiet comedy can coexist with grief. Frieren and Mau both suffer through the bread; the humor comes from the fact that Frieren still treats it as a prized stash.
 
 ### Silence
 
 The episode should be allowed to use silence aggressively. Frieren, Fern, Stark, and early Mau do not require constant dialogue to carry the episode.
 
+Several of the strongest approved moments are intentionally almost or completely silent:
+
+- the blast aftermath;
+- the final crater search aside from `Fern?`;
+- Stark seeing Frieren return to the inn;
+- Frieren arriving under another sky;
+- the flower closing image;
+- Mau falling asleep first;
+- the final `Not this time` beat.
+
 ---
 
-## 5. Immediate E2 direction
+## 5. Mau visual / age intent established by E1
+
+Mau should not visually read as a child.
+
+Current intent:
+
+```text
+apparent age: early / mid twenties
+height: ~176 cm
+```
+
+His early dependence comes from total autobiographical amnesia, lack of context, and being dropped into an unknown world — not from childishness.
+
+The contrast with Frieren comes from her lifespan and experience. A human in his twenties can still register to her as extraordinarily young without turning their interaction into literal parent/child blocking.
+
+This distinction should inform manga proportions, body language, staging, and later relationship development.
+
+---
+
+## 6. Immediate E2 direction
 
 Bocchi no longer appears in E1.
 
@@ -467,9 +782,11 @@ This remains expandable; exact day count and scene order are not yet locked.
 
 ---
 
-## 6. E3 behavior seed — Mau / Frieren mirroring
+## 7. E3 behavior seed — Mau / Frieren mirroring
 
-By E3, Mau may have unconsciously absorbed small mannerisms from Frieren:
+The mirroring now begins subtly in E1 with the animal beat rather than first appearing from nowhere in E3.
+
+By E3, Mau may have unconsciously absorbed additional mannerisms from Frieren:
 
 - a head tilt;
 - a way of waiting;
@@ -494,7 +811,7 @@ Do not explain this theme in dialogue if behavior can show it.
 
 ---
 
-## 7. Character visual continuity / outfits
+## 8. Character visual continuity / outfits
 
 Character identity must **not** be collapsed into one immutable outfit.
 
@@ -518,15 +835,24 @@ Source Intelligence should therefore learn **multiple looks and contexts**, not 
 
 Continuity still matters: if clothing is damaged, wet, dirty, changed, or repaired in one scene, the next scene must inherit that state unless the story provides a change.
 
+E1 adds a specific transfer-state continuity question for Frieren: she went to sleep in sleepwear but wakes in her normal travel clothing with her staff and potentially her travel case. This should remain a deliberate unexplained arrival anomaly rather than an accidental costume inconsistency.
+
 ---
 
-## 8. Next creative step
+## 9. Next production layer
 
-With the 16-scene structure approved, the next creative artifact is:
+With this scene-card pass approved, the next creative artifact is:
 
 ```text
-S1E1 Draft 1
-= scene action + visual rhythm + silence + original English dialogue
+S1E1 approved scene cards
+-> Draft 1
+-> Manga Panel Script
+-> Rough Manga
+-> review / corrections
+-> Final Manga
+-> chapter approval / lock
 ```
 
-Draft 1 should then become a manga-oriented panel script rather than jumping directly from this outline to finished images.
+Draft 1 should preserve the approved scene order, visual beats, silence, emotional turns, and sparse-dialogue philosophy while converting the cards into a continuous episode draft.
+
+Do not jump directly to final paneling before Draft 1 has proven the episode reads as one coherent work.

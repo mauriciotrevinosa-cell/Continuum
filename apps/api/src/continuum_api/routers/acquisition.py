@@ -68,8 +68,13 @@ SourceId = Annotated[
     str, PathParam(min_length=1, max_length=64, pattern=r"^[A-Za-z0-9][A-Za-z0-9_.-]*$")
 ]
 
-CAPABILITIES = ("DISCOVERY_ONLY", "METADATA", "UPDATE_TRACKING", "MANUAL_ACQUISITION",
-                "AUTOMATIC_ACQUISITION")
+CAPABILITIES = (
+    "DISCOVERY_ONLY",
+    "METADATA",
+    "UPDATE_TRACKING",
+    "MANUAL_ACQUISITION",
+    "AUTOMATIC_ACQUISITION",
+)
 ADAPTERS = ("web", "local-folder", "bibliographic")
 #: What a browser may register. A local folder is a filesystem path, so it
 #: is registered by the local tooling instead (F-50).
@@ -104,8 +109,12 @@ class Library:
             vault_root, scanned, scan_seconds=float(header.get("library_scan_seconds") or 0.0)
         )
         self.freshness = lp.freshness(
-            self.coverage, self.layout, checked=changes.checked, changed=changes.changed,
-            folders=changes.folders, detail=changes.detail,
+            self.coverage,
+            self.layout,
+            checked=changes.checked,
+            changed=changes.changed,
+            folders=changes.folders,
+            detail=changes.detail,
         )
         stale = set(self.freshness.changed_families)
         self.families = _families(self.layout)
@@ -176,8 +185,10 @@ def _family_progress(family: dict[str, Any], library: Library | None = None) -> 
     if library is not None:
         roll = library.rollups.get(family_id) or {}
     else:
-        states = {str(w.get("work_id")): lp.work_state(w.get("coverage_status"), stale_family=False)
-                  for w in works}
+        states = {
+            str(w.get("work_id")): lp.work_state(w.get("coverage_status"), stale_family=False)
+            for w in works
+        }
         roll = lp.family_roll_up(family, states)
     counts: Counter[str] = roll.get("counts") or Counter()
     return FamilyProgress(
@@ -215,8 +226,12 @@ def _family_progress(family: dict[str, Any], library: Library | None = None) -> 
     )
 
 
-def _work_row(row: dict[str, Any], coverage: dict[str, Any],
-              titles: dict[str, list[str]] | None = None, state: str | None = None) -> WorkRow:
+def _work_row(
+    row: dict[str, Any],
+    coverage: dict[str, Any],
+    titles: dict[str, list[str]] | None = None,
+    state: str | None = None,
+) -> WorkRow:
     cov = (coverage.get("works") or {}).get(str(row.get("work_id"))) or {}
     episodes, other_videos = lp.work_episodes(cov)
     return WorkRow(
@@ -267,15 +282,19 @@ def _work_row(row: dict[str, Any], coverage: dict[str, Any],
     )
 
 
-def _queue_items(queue: dict[str, Any], families: list[dict[str, Any]],
-                 coverage: dict[str, Any] | None = None,
-                 titles: dict[str, list[str]] | None = None,
-                 library: Library | None = None,
-                 updates: set[str] | None = None) -> list[QueueItem]:
+def _queue_items(
+    queue: dict[str, Any],
+    families: list[dict[str, Any]],
+    coverage: dict[str, Any] | None = None,
+    titles: dict[str, list[str]] | None = None,
+    library: Library | None = None,
+    updates: set[str] | None = None,
+) -> list[QueueItem]:
     ids = {str(f.get("family_title")): str(f.get("family_id") or "") for f in families}
     story_by_work = {
         str(w.get("work_id")): bool(w.get("story_material"))
-        for f in families for w in (f.get("works") or [])
+        for f in families
+        for w in (f.get("works") or [])
     }
     per_work = (coverage or {}).get("works") or {}
     out: list[QueueItem] = []
@@ -296,8 +315,12 @@ def _queue_items(queue: dict[str, Any], families: list[dict[str, Any]],
             QueueItem(
                 state=state,  # type: ignore[arg-type]
                 story=story,
-                group=lp.queue_group(state, story=story, relation=row.get("relation"),
-                                     update=wid in (updates or set())),
+                group=lp.queue_group(
+                    state,
+                    story=story,
+                    relation=row.get("relation"),
+                    update=wid in (updates or set()),
+                ),
                 family=str(row.get("family") or ""),
                 family_id=family_id,
                 work=str(row.get("work") or ""),
@@ -452,8 +475,9 @@ def overview(request: Request) -> AcquisitionOverview:
         totals=totals,
         relations=dict(relations),
         families=progress,
-        queue_preview=_queue_items(queue, families, coverage, _search_titles(catalog),
-                                   library)[:12],
+        queue_preview=_queue_items(queue, families, coverage, _search_titles(catalog), library)[
+            :12
+        ],
         alerts=alerts,
         review_count=review_count,
         intake_pending=intake_pending,
@@ -462,8 +486,9 @@ def overview(request: Request) -> AcquisitionOverview:
     )
 
 
-def _updates_available(watch: dict[str, Any],
-                       families: list[dict[str, Any]]) -> list[dict[str, Any]]:
+def _updates_available(
+    watch: dict[str, Any], families: list[dict[str, Any]]
+) -> list[dict[str, Any]]:
     """Works the update watch says are ahead of the local copy."""
     ids = {str(f.get("family_title")): str(f.get("family_id") or "") for f in families}
     out = []
@@ -491,8 +516,12 @@ def refresh(request: Request) -> AcquisitionActionResult:
     skipped: it serves duplicate detection, not coverage, and after a large
     download it would turn a refresh of seconds into one of many minutes.
     """
-    return _run(_store(request), "coverage", "--no-hash",
-                success="re-read the Vault and rebuilt the reports")
+    return _run(
+        _store(request),
+        "coverage",
+        "--no-hash",
+        success="re-read the Vault and rebuilt the reports",
+    )
 
 
 @router.get("/families", response_model=list[FamilyProgress])
@@ -513,8 +542,9 @@ def family_detail(request: Request, family_id: FamilyId) -> FamilyDetail:
             ]
             works.sort(key=lambda w: (w.material_class or "", w.title.lower()))
             findings = [f for f in (family.get("findings") or []) if isinstance(f, dict)]
-            return FamilyDetail(family=_family_progress(family, library), works=works,
-                                findings=findings)
+            return FamilyDetail(
+                family=_family_progress(family, library), works=works, findings=findings
+            )
     raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="family not found")
 
 
@@ -558,7 +588,8 @@ def queue(
     if text:
         needle = text.strip().lower()
         items = [
-            i for i in items
+            i
+            for i in items
             if needle in i.work.lower()
             or needle in i.family.lower()
             or any(needle in title.lower() for title in i.search_titles)
@@ -693,9 +724,9 @@ def intake(request: Request) -> IntakeView:
         ],
         duplicates=duplicates[:200],
         conflicts=conflicts[:200],
-        proposed_moves=[
-            m for m in (layout.get("proposed_moves") or []) if isinstance(m, dict)
-        ][:200],
+        proposed_moves=[m for m in (layout.get("proposed_moves") or []) if isinstance(m, dict)][
+            :200
+        ],
     )
 
 
@@ -732,8 +763,9 @@ def updates(request: Request) -> UpdatesView:
     }
     raw_alerts = [a for a in (watch.get("alerts") or []) if isinstance(a, dict)]
     return UpdatesView(
-        timeline=lp.timeline(raw_alerts, lp.recently_added(library.families, library.rollups,
-                                                            limit=40), family_ids),
+        timeline=lp.timeline(
+            raw_alerts, lp.recently_added(library.families, library.rollups, limit=40), family_ids
+        ),
         generated_at=watch.get("generated_at"),
         last_check=watch.get("last_check"),
         alerts=[
@@ -753,8 +785,9 @@ def updates(request: Request) -> UpdatesView:
     )
 
 
-def _scaffold_plan(store: AcquisitionStore, layout: dict[str, Any], *, ran: bool = False,
-                   output: str = "") -> ScaffoldPlan:
+def _scaffold_plan(
+    store: AcquisitionStore, layout: dict[str, Any], *, ran: bool = False, output: str = ""
+) -> ScaffoldPlan:
     create: list[dict[str, Any]] = []
     review: list[dict[str, Any]] = []
     counts: Counter[str] = Counter()

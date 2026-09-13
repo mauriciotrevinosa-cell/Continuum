@@ -61,6 +61,10 @@ _HELD = ("COMPLETE", "PARTIAL", "PRESENT")
 _CLASS_ORDER = ("manga", "manhwa", "manhua", "anime", "light-novel", "web-novel")
 
 
+def plural(count: int, noun: str) -> str:
+    return f"{count} {noun}{'' if count == 1 else 's'}"
+
+
 def iso_ns(value: Any) -> str | None:
     """A nanosecond epoch as UTC ISO-8601, or None."""
     if not isinstance(value, int | float) or value <= 0:
@@ -75,9 +79,15 @@ def folder_name(path: str) -> str:
 
 
 # -- freshness ---------------------------------------------------------------
-def freshness(coverage: dict[str, Any], layout: dict[str, Any], *,
-              checked: bool, changed: bool, folders: Iterable[str],
-              detail: str = "") -> Freshness:
+def freshness(
+    coverage: dict[str, Any],
+    layout: dict[str, Any],
+    *,
+    checked: bool,
+    changed: bool,
+    folders: Iterable[str],
+    detail: str = "",
+) -> Freshness:
     """The documents' three clocks, and whether the Vault moved since."""
     header = coverage.get("freshness") or layout.get("freshness") or {}
     scanned = header.get("library_scanned_at") or layout.get("generated_at")
@@ -198,8 +208,9 @@ def family_roll_up(family: dict[str, Any], states: dict[str, str]) -> dict[str, 
         counts = Counter(states.get(str(w.get("work_id")), "UNVERIFIED") for w in rows)
         unmapped = int(info.get("unattributed_files") or 0)
         media_files = int(info.get("media_files") or 0)
-        story = (bool(info.get("story")) if info
-                 else any(_is_story_row(w, story_classes) for w in rows))
+        story = (
+            bool(info.get("story")) if info else any(_is_story_row(w, story_classes) for w in rows)
+        )
         materials.append(
             MaterialSummary(
                 material_class=name,
@@ -224,23 +235,24 @@ def family_roll_up(family: dict[str, Any], states: dict[str, str]) -> dict[str, 
         )
     # Story material first, in the order people think of a family in; then
     # supplements, the ones with something on disk before the ones without.
-    materials.sort(key=lambda m: (
-        not m.story,
-        _CLASS_ORDER.index(m.material_class) if m.material_class in _CLASS_ORDER else 99,
-        not m.files,
-        -m.works,
-        m.material_class,
-    ))
+    materials.sort(
+        key=lambda m: (
+            not m.story,
+            _CLASS_ORDER.index(m.material_class) if m.material_class in _CLASS_ORDER else 99,
+            not m.files,
+            -m.works,
+            m.material_class,
+        )
+    )
 
     all_counts = Counter(states.get(str(w.get("work_id")), "UNVERIFIED") for w in official)
     story_rows = [w for w in official if _is_story_row(w, story_classes)]
     story_counts = Counter(states.get(str(w.get("work_id")), "UNVERIFIED") for w in story_rows)
     supplement_rows = [w for w in official if not _is_story_row(w, story_classes)]
-    supplement_held = sum(
-        1 for w in supplement_rows if states.get(str(w.get("work_id"))) in _HELD
-    )
+    supplement_held = sum(1 for w in supplement_rows if states.get(str(w.get("work_id"))) in _HELD)
     story_missing_core = sum(
-        1 for w in story_rows
+        1
+        for w in story_rows
         if states.get(str(w.get("work_id"))) in ("MISSING", "STALE")
         and w.get("relationship_type") in _STORY_RELATIONS
     )
@@ -249,7 +261,9 @@ def family_roll_up(family: dict[str, Any], states: dict[str, str]) -> dict[str, 
     # suggestions awaiting review are counted separately ("review"), because
     # a family with twenty unconfirmed guidebooks does not need attention.
     attention = (
-        all_counts["PARTIAL"] + all_counts["NEEDS_MAPPING"] + all_counts["STALE"]
+        all_counts["PARTIAL"]
+        + all_counts["NEEDS_MAPPING"]
+        + all_counts["STALE"]
         + story_missing_core
         + (1 if unmapped_total and not all_counts["NEEDS_MAPPING"] else 0)
     )
@@ -273,8 +287,12 @@ def family_roll_up(family: dict[str, Any], states: dict[str, str]) -> dict[str, 
 
 
 # -- overview ----------------------------------------------------------------
-def hero(families: list[dict[str, Any]], rollups: dict[str, dict[str, Any]],
-         states: dict[str, str], layout: dict[str, Any]) -> LibraryHero:
+def hero(
+    families: list[dict[str, Any]],
+    rollups: dict[str, dict[str, Any]],
+    states: dict[str, str],
+    layout: dict[str, Any],
+) -> LibraryHero:
     story_states: Counter[str] = Counter()
     for family in families:
         story_classes = _story_classes(_mapping(family.get("classes")))
@@ -301,8 +319,13 @@ def hero(families: list[dict[str, Any]], rollups: dict[str, dict[str, Any]],
     )
 
 
-def recently_added(families: list[dict[str, Any]], rollups: dict[str, dict[str, Any]],
-                   *, now: dt.datetime | None = None, limit: int = 8) -> list[RecentAddition]:
+def recently_added(
+    families: list[dict[str, Any]],
+    rollups: dict[str, dict[str, Any]],
+    *,
+    now: dt.datetime | None = None,
+    limit: int = 8,
+) -> list[RecentAddition]:
     """Material that arrived on disk in the last RECENT_DAYS days, newest first.
 
     Arrival is the file's creation time on the Vault's disk, recorded by the
@@ -334,19 +357,29 @@ def recently_added(families: list[dict[str, Any]], rollups: dict[str, dict[str, 
     return out[:limit]
 
 
-def next_steps(*, fresh: Freshness, families: list[dict[str, Any]],
-               rollups: dict[str, dict[str, Any]], states: dict[str, str],
-               updates_available: list[dict[str, Any]], intake_pending: int,
-               review_count: int, limit: int = 6) -> list[NextStep]:
+def next_steps(
+    *,
+    fresh: Freshness,
+    families: list[dict[str, Any]],
+    rollups: dict[str, dict[str, Any]],
+    states: dict[str, str],
+    updates_available: list[dict[str, Any]],
+    intake_pending: int,
+    review_count: int,
+    limit: int = 6,
+) -> list[NextStep]:
     """At most a handful of useful things to do, most useful first."""
     steps: list[NextStep] = []
     if fresh.state == "stale":
         count = len(fresh.changed_families) + len(fresh.changed_folders)
-        steps.append(NextStep(
-            kind="refresh", tone="info",
-            title="Refresh your Library",
-            detail=f"{count} folder{'s' if count != 1 else ''} changed since the last scan.",
-        ))
+        steps.append(
+            NextStep(
+                kind="refresh",
+                tone="info",
+                title="Refresh your Library",
+                detail=f"{count} folder{'s' if count != 1 else ''} changed since the last scan.",
+            )
+        )
 
     for family in families:
         family_id = str(family.get("family_id") or "")
@@ -354,20 +387,30 @@ def next_steps(*, fresh: Freshness, families: list[dict[str, Any]],
         unmapped = sum(m.unmapped_files for m in roll.get("materials", []))
         if unmapped:
             kinds = ", ".join(m.material_class for m in roll["materials"] if m.unmapped_files)
-            steps.append(NextStep(
-                kind="map", tone="info", family_id=family_id,
-                title=f"Identify local files in {family.get('family_title')}",
-                detail=f"{unmapped} file{'s' if unmapped != 1 else ''} in {kinds} "
-                       "not matched to a work yet.",
-            ))
+            steps.append(
+                NextStep(
+                    kind="map",
+                    tone="info",
+                    family_id=family_id,
+                    title=f"Identify local files in {family.get('family_title')}",
+                    detail=f"{unmapped} file{'s' if unmapped != 1 else ''} in {kinds} "
+                    "not matched to a work yet.",
+                )
+            )
 
     for item in updates_available[:3]:
-        steps.append(NextStep(
-            kind="update", tone="accent", family_id=str(item.get("family_id") or ""),
-            work_id=str(item.get("work_id") or ""),
-            title=f"New {item.get('unit') or 'chapters'} for {item.get('work')}",
-            detail=f"You have {item.get('latest_local')}; {item.get('latest_remote')} is known.",
-        ))
+        steps.append(
+            NextStep(
+                kind="update",
+                tone="accent",
+                family_id=str(item.get("family_id") or ""),
+                work_id=str(item.get("work_id") or ""),
+                title=f"New {item.get('unit') or 'chapters'} for {item.get('work')}",
+                detail=(
+                    f"You have {item.get('latest_local')}; {item.get('latest_remote')} is known."
+                ),
+            )
+        )
 
     updating = {str(item.get("work_id") or "") for item in updates_available[:3]}
     partial: list[NextStep] = []
@@ -379,32 +422,52 @@ def next_steps(*, fresh: Freshness, families: list[dict[str, Any]],
             if w.get("official_status") is False:
                 continue
             if state == "PARTIAL" and w.get("story_material", True) and wid not in updating:
-                partial.append(NextStep(
-                    kind="finish", tone="warn", family_id=str(family.get("family_id") or ""),
-                    work_id=wid, title=f"Finish {w.get('work')}",
-                    detail=str(w.get("coverage_reason") or ""),
-                ))
-            elif (state == "MISSING" and w.get("story_material")
-                  and w.get("relationship_type") in _STORY_RELATIONS):
-                missing_core.append(NextStep(
-                    kind="acquire", tone="err", family_id=str(family.get("family_id") or ""),
-                    work_id=wid, title=f"Get {w.get('work')}",
-                    detail=f"{str(w.get('relationship_type')).replace('_', ' ').lower()} of "
-                           f"{family.get('family_title')}, not in your Library.",
-                ))
+                partial.append(
+                    NextStep(
+                        kind="finish",
+                        tone="warn",
+                        family_id=str(family.get("family_id") or ""),
+                        work_id=wid,
+                        title=f"Finish {w.get('work')}",
+                        detail=str(w.get("coverage_reason") or ""),
+                    )
+                )
+            elif (
+                state == "MISSING"
+                and w.get("story_material")
+                and w.get("relationship_type") in _STORY_RELATIONS
+            ):
+                missing_core.append(
+                    NextStep(
+                        kind="acquire",
+                        tone="err",
+                        family_id=str(family.get("family_id") or ""),
+                        work_id=wid,
+                        title=f"Get {w.get('work')}",
+                        detail=f"{str(w.get('relationship_type')).replace('_', ' ').lower()} of "
+                        f"{family.get('family_title')}, not in your Library.",
+                    )
+                )
     steps += partial[:2]
     if intake_pending:
-        steps.append(NextStep(
-            kind="intake", tone="info",
-            title="Identify what arrived in Intake",
-            detail=f"{intake_pending} item{'s' if intake_pending != 1 else ''} waiting.",
-        ))
+        steps.append(
+            NextStep(
+                kind="intake",
+                tone="info",
+                title="Identify what arrived in Intake",
+                detail=f"{intake_pending} item{'s' if intake_pending != 1 else ''} waiting.",
+            )
+        )
     steps += missing_core[:2]
     if review_count and len(steps) < limit:
-        steps.append(NextStep(
-            kind="review", tone="muted", title="Review catalogue suggestions",
-            detail=f"{review_count} item{'s' if review_count != 1 else ''} wait for a decision.",
-        ))
+        steps.append(
+            NextStep(
+                kind="review",
+                tone="muted",
+                title="Review catalogue suggestions",
+                detail=f"{plural(review_count, 'item')} wait for a decision.",
+            )
+        )
     return steps[:limit]
 
 
@@ -415,9 +478,12 @@ _GROUPS: tuple[tuple[str, str, str, str], ...] = (
     ("finish", "Finish partial works", "You hold part of these.", "warn"),
     ("main", "Missing main works", "The story itself: main series, sequels and prequels.", "err"),
     ("side", "Spin-offs and adaptations", "Official story material beyond the main line.", "muted"),
-    ("supplements", "Optional supplements",
-     "Guidebooks, fanbooks, art books, anthologies and editions. Official is not main canon.",
-     "muted"),
+    (
+        "supplements",
+        "Optional supplements",
+        "Guidebooks, fanbooks, art books, anthologies and editions. Official is not main canon.",
+        "muted",
+    ),
     ("unconfirmed", "Unconfirmed", "Existence or availability is not established.", "muted"),
 )
 
@@ -440,8 +506,7 @@ def queue_group(state: str, *, story: bool, relation: str | None, update: bool) 
 
 def queue_groups(counts: Counter[str]) -> list[QueueGroup]:
     return [
-        QueueGroup(key=key, title=title, description=description, count=counts[key],
-                   tone=tone)  # type: ignore[arg-type]
+        QueueGroup(key=key, title=title, description=description, count=counts[key], tone=tone)  # type: ignore[arg-type]
         for key, title, description, tone in _GROUPS
         if counts[key]
     ]
@@ -472,31 +537,39 @@ _ALERT_KINDS = {
 }
 
 
-def timeline(alerts: list[dict[str, Any]], additions: list[RecentAddition],
-             family_ids: dict[str, str], limit: int = 120) -> list[TimelineEvent]:
+def timeline(
+    alerts: list[dict[str, Any]],
+    additions: list[RecentAddition],
+    family_ids: dict[str, str],
+    limit: int = 120,
+) -> list[TimelineEvent]:
     events: list[TimelineEvent] = []
     for alert in alerts:
         kind = _ALERT_KINDS.get(str(alert.get("kind") or "").upper(), "other")
         family = str(alert.get("family") or "")
-        events.append(TimelineEvent(
-            at=alert.get("at"),
-            kind=kind,  # type: ignore[arg-type]
-            title=str(alert.get("kind") or "").replace("_", " ").capitalize(),
-            detail=str(alert.get("detail") or ""),
-            family=family,
-            family_id=family_ids.get(family, ""),
-            work=alert.get("work") or alert.get("source"),
-        ))
+        events.append(
+            TimelineEvent(
+                at=alert.get("at"),
+                kind=kind,  # type: ignore[arg-type]
+                title=str(alert.get("kind") or "").replace("_", " ").capitalize(),
+                detail=str(alert.get("detail") or ""),
+                family=family,
+                family_id=family_ids.get(family, ""),
+                work=alert.get("work") or alert.get("source"),
+            )
+        )
     for addition in additions:
         what = "episode files" if addition.video_files else "files"
-        events.append(TimelineEvent(
-            at=addition.last_added_at,
-            kind="local_files",
-            title="New local files",
-            detail=f"{addition.files} {what} in {addition.material_class}",
-            family=addition.family,
-            family_id=addition.family_id,
-            material_class=addition.material_class,
-        ))
+        events.append(
+            TimelineEvent(
+                at=addition.last_added_at,
+                kind="local_files",
+                title="New local files",
+                detail=f"{addition.files} {what} in {addition.material_class}",
+                family=addition.family,
+                family_id=addition.family_id,
+                material_class=addition.material_class,
+            )
+        )
     events.sort(key=lambda e: e.at or "", reverse=True)
     return events[:limit]

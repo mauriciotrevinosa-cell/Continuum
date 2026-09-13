@@ -480,6 +480,7 @@ class AddSourceRequest(BaseModel):
     note: str | None = Field(default=None, max_length=500)
     download_permitted: bool = False
     test: bool = True
+
     #: How the source hands material over. Shown in the UI so the cost of a
     #: click is visible before the click.
     @field_validator("url")
@@ -501,17 +502,20 @@ class AddSourceRequest(BaseModel):
             "(sources add <folder>), which writes the same registry."
         )
 
-    access: Literal[
-        "FREE_OFFICIAL_WEB",
-        "SUBSCRIPTION_WEB",
-        "PAID_WEB",
-        "DRM_EBOOK",
-        "DRM_FREE_PURCHASE",
-        "DIRECT_DOWNLOAD_AUTHORIZED",
-        "LIBRARY_LENDING",
-        "STREAMING",
-        "PHYSICAL_ONLY",
-    ] | None = None
+    access: (
+        Literal[
+            "FREE_OFFICIAL_WEB",
+            "SUBSCRIPTION_WEB",
+            "PAID_WEB",
+            "DRM_EBOOK",
+            "DRM_FREE_PURCHASE",
+            "DIRECT_DOWNLOAD_AUTHORIZED",
+            "LIBRARY_LENDING",
+            "STREAMING",
+            "PHYSICAL_ONLY",
+        ]
+        | None
+    ) = None
     #: What this source is good for generally, so the engine can offer it as
     #: a fallback without naming it in code.
     roles: list[Literal["store-search-en", "store-search-ja", "anime-streaming"]] = Field(
@@ -593,8 +597,15 @@ class TimelineEvent(BaseModel):
     """One thing that changed, in the order it happened."""
 
     at: str | None = None
-    kind: Literal["new_chapters", "new_volumes", "new_release", "source_changed",
-                  "local_files", "coverage", "other"] = "other"
+    kind: Literal[
+        "new_chapters",
+        "new_volumes",
+        "new_release",
+        "source_changed",
+        "local_files",
+        "coverage",
+        "other",
+    ] = "other"
     title: str = ""
     detail: str = ""
     family: str = ""

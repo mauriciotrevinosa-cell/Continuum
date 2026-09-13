@@ -69,15 +69,33 @@ ALLOWED_CLI: dict[str, frozenset[str]] = {
 
 #: Flags the API may pass through. An unknown flag is refused rather than
 #: forwarded, so a new destructive flag cannot arrive by surprise.
-ALLOWED_FLAGS: frozenset[str] = frozenset({
-    "--id", "--name", "--adapter", "--search", "--watch-url", "--access", "--language", "--role",
-    "--download-permitted", "--note", "--no-test", "--replace", "--json", "--all", "--offline",
-    "--no-rescan", "--details", "--limit", "--no-anilist",
-    # Read-only and cheaper: a library refresh does not need content hashes,
-    # which exist for duplicate detection and can take minutes after a large
-    # download. Coverage is decided by what is where, not by bytes.
-    "--no-hash",
-})
+ALLOWED_FLAGS: frozenset[str] = frozenset(
+    {
+        "--id",
+        "--name",
+        "--adapter",
+        "--search",
+        "--watch-url",
+        "--access",
+        "--language",
+        "--role",
+        "--download-permitted",
+        "--note",
+        "--no-test",
+        "--replace",
+        "--json",
+        "--all",
+        "--offline",
+        "--no-rescan",
+        "--details",
+        "--limit",
+        "--no-anilist",
+        # Read-only and cheaper: a library refresh does not need content hashes,
+        # which exist for duplicate detection and can take minutes after a large
+        # download. Coverage is decided by what is where, not by bytes.
+        "--no-hash",
+    }
+)
 
 #: How long a Vault change check is trusted before it is repeated. Every
 #: screen asks; walking the directory tree on each request would make page
@@ -269,8 +287,9 @@ class AcquisitionStore:
         }
 
     # -- freshness ------------------------------------------------------------
-    def vault_changes(self, vault_root: str, since: str | None, *,
-                      scan_seconds: float = 0.0) -> VaultChanges:
+    def vault_changes(
+        self, vault_root: str, since: str | None, *, scan_seconds: float = 0.0
+    ) -> VaultChanges:
         """Directories under ``vault_root`` modified after ``since``.
 
         ``vault_root`` and ``since`` come from the engine's own documents in
@@ -291,8 +310,9 @@ class AcquisitionStore:
         return result
 
     @staticmethod
-    def _walk_for_changes(vault_root: str, since: str, scan_seconds: float,
-                          now: float) -> VaultChanges:
+    def _walk_for_changes(
+        vault_root: str, since: str, scan_seconds: float, now: float
+    ) -> VaultChanges:
         def unknown(detail: str) -> VaultChanges:
             return VaultChanges(checked=False, detail=detail, checked_at=now)
 
@@ -318,8 +338,9 @@ class AcquisitionStore:
                     if os.stat(path).st_mtime > cutoff:
                         changed.add(top_name)
                     with os.scandir(path) as entries:
-                        stack.extend((e.path, top_name) for e in entries
-                                     if e.is_dir(follow_symlinks=False))
+                        stack.extend(
+                            (e.path, top_name) for e in entries if e.is_dir(follow_symlinks=False)
+                        )
                 except OSError:
                     continue
         except OSError as exc:
@@ -349,9 +370,7 @@ class AcquisitionStore:
         prefix: tuple[str, ...]
         if sub_allowed:
             if not rest or rest[0] not in sub_allowed:
-                raise AcquisitionCliError(
-                    f"{verb} needs one of: {', '.join(sorted(sub_allowed))}"
-                )
+                raise AcquisitionCliError(f"{verb} needs one of: {', '.join(sorted(sub_allowed))}")
             rest = rest[1:]
             prefix = (verb, args[0])
         else:

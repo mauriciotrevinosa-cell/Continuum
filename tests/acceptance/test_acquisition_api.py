@@ -81,8 +81,11 @@ LAYOUT = {
                 },
             ],
             "findings": [
-                {"type": "POSSIBLE_DUPLICATE", "path": "manga/a.zip",
-                 "detail": "two identical files"}
+                {
+                    "type": "POSSIBLE_DUPLICATE",
+                    "path": "manga/a.zip",
+                    "detail": "two identical files",
+                }
             ],
         }
     ],
@@ -151,8 +154,12 @@ REGISTRY = {
             "access": ["DRM_EBOOK"],
             "roles": ["store-search-en"],
             "download_permitted": False,
-            "last_test": {"at": "2026-09-12T00:00:00-04:00", "ok": True, "checks": [],
-                          "operations": ["search"]},
+            "last_test": {
+                "at": "2026-09-12T00:00:00-04:00",
+                "ok": True,
+                "checks": [],
+                "operations": ["search"],
+            },
         },
         "demo-off": {
             "id": "demo-off",
@@ -181,29 +188,58 @@ WATCH = {
         }
     ],
     "alerts": [
-        {"at": "2026-09-12T00:10:00-04:00", "kind": "NEW_CHAPTERS", "family": "Demo Alpha",
-         "work": "Demo Alpha", "detail": "latest chapter 12 -> 14"}
+        {
+            "at": "2026-09-12T00:10:00-04:00",
+            "kind": "NEW_CHAPTERS",
+            "family": "Demo Alpha",
+            "work": "Demo Alpha",
+            "detail": "latest chapter 12 -> 14",
+        }
     ],
     "sources": {"demo-store": {"fingerprint": "abc", "last_checked": "2026-09-12T00:10:00-04:00"}},
 }
 
-REVIEW = {"items": [{"kind": "WORK_REVIEW", "family": "Demo Alpha", "item": "Demo Alpha Extra",
-                     "detail": "needs confirmation", "action": "confirm or correct"}]}
+REVIEW = {
+    "items": [
+        {
+            "kind": "WORK_REVIEW",
+            "family": "Demo Alpha",
+            "item": "Demo Alpha Extra",
+            "detail": "needs confirmation",
+            "action": "confirm or correct",
+        }
+    ]
+}
 
 INGEST = {
     "mode": "DRY RUN",
     "intake_dirs": ["C:/DemoIntake/Manual"],
     "counts": {"imported (dry-run)": 2, "left-in-intake: unclassified": 1},
     "units": [
-        {"source": "Manual", "unit": "Demo Alpha v03",
-         "path": "C:/DemoIntake/Manual/Demo Alpha v03",
-         "files": 1, "classified_by": "alias", "series": {"Demo Alpha": 1}, "languages": {"en": 1},
-         "unofficial_provenance": [], "colored": False, "action": "imported (dry-run)"},
-        {"source": "Manual", "unit": "Mystery Folder",
-         "path": "C:/DemoIntake/Manual/Mystery Folder",
-         "files": 1, "classified_by": "unclassified", "series": {}, "languages": {},
-         "unofficial_provenance": ["bad.invalid"], "colored": False,
-         "action": "left-in-intake: unclassified"},
+        {
+            "source": "Manual",
+            "unit": "Demo Alpha v03",
+            "path": "C:/DemoIntake/Manual/Demo Alpha v03",
+            "files": 1,
+            "classified_by": "alias",
+            "series": {"Demo Alpha": 1},
+            "languages": {"en": 1},
+            "unofficial_provenance": [],
+            "colored": False,
+            "action": "imported (dry-run)",
+        },
+        {
+            "source": "Manual",
+            "unit": "Mystery Folder",
+            "path": "C:/DemoIntake/Manual/Mystery Folder",
+            "files": 1,
+            "classified_by": "unclassified",
+            "series": {},
+            "languages": {},
+            "unofficial_provenance": ["bad.invalid"],
+            "colored": False,
+            "action": "left-in-intake: unclassified",
+        },
     ],
 }
 
@@ -285,9 +321,21 @@ def test_overview_projects_the_documents(client: TestClient) -> None:
     assert body["status"]["available"] is True
     assert body["status"]["vault_root"] == "C:/DemoVault"
     assert body["totals"] == {
-        "families": 1, "works": 2, "official_works": 2, "complete": 0, "partial": 1, "missing": 1,
-        "unknown": 0, "files": 12, "bytes": 1024, "missing_folders": 1, "legacy_paths": 1,
-        "duplicate_groups": 1, "present": 0, "needs_mapping": 0, "stale": 0,
+        "families": 1,
+        "works": 2,
+        "official_works": 2,
+        "complete": 0,
+        "partial": 1,
+        "missing": 1,
+        "unknown": 0,
+        "files": 12,
+        "bytes": 1024,
+        "missing_folders": 1,
+        "legacy_paths": 1,
+        "duplicate_groups": 1,
+        "present": 0,
+        "needs_mapping": 0,
+        "stale": 0,
     }
     assert body["relations"] == {"MAIN_WORK": 1, "GUIDEBOOK": 1}
     assert body["families"][0]["title"] == "Demo Alpha"
@@ -400,7 +448,8 @@ def test_actions_run_the_allowlisted_cli(
     data_home: Path, vault_root: Path, acquisition_dir: Path, fake_cli: Path
 ) -> None:
     settings = _settings(
-        data_home, vault_root,
+        data_home,
+        vault_root,
         acquisition_data_dir=str(acquisition_dir),
         acquisition_cli=str(fake_cli),
     )
@@ -453,7 +502,8 @@ def test_a_filesystem_path_cannot_be_registered_through_the_api(
 ) -> None:
     """Refused by schema, so it never reaches the CLI even when one exists."""
     settings = _settings(
-        data_home, vault_root,
+        data_home,
+        vault_root,
         acquisition_data_dir=str(acquisition_dir),
         acquisition_cli=str(fake_cli),
     )
@@ -466,8 +516,13 @@ def test_a_filesystem_path_cannot_be_registered_through_the_api(
 
 @pytest.mark.parametrize(
     "scheme_url",
-    ["ftp://host/share", "smb://server/share", "javascript:alert(1)", "data:text/html,x",
-     "mailto:a@b.c"],
+    [
+        "ftp://host/share",
+        "smb://server/share",
+        "javascript:alert(1)",
+        "data:text/html,x",
+        "mailto:a@b.c",
+    ],
 )
 def test_only_http_schemes_are_accepted(client: TestClient, scheme_url: str) -> None:
     response = client.post("/library/acquisition/sources", json={"url": scheme_url})

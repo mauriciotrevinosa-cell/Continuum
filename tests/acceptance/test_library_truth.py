@@ -30,30 +30,69 @@ ORBIT = "demo-orbit"
 HARBOR = "demo-harbor"
 
 
-def _row(work_id: str, title: str, cls: str, relation: str, coverage: str, *,
-         story: bool, files: int = 0, family: str = ORBIT) -> dict[str, Any]:
+def _row(
+    work_id: str,
+    title: str,
+    cls: str,
+    relation: str,
+    coverage: str,
+    *,
+    story: bool,
+    files: int = 0,
+    family: str = ORBIT,
+) -> dict[str, Any]:
     return {
-        "work_id": work_id, "work": title, "family_id": family, "family_title": family,
-        "relationship_type": relation, "material_class": cls, "story_material": story,
-        "official_status": True, "coverage_status": coverage, "layout_status": "FOUND",
-        "local_files": files, "local_bytes": files * 1000,
+        "work_id": work_id,
+        "work": title,
+        "family_id": family,
+        "family_title": family,
+        "relationship_type": relation,
+        "material_class": cls,
+        "story_material": story,
+        "official_status": True,
+        "coverage_status": coverage,
+        "layout_status": "FOUND",
+        "local_files": files,
+        "local_bytes": files * 1000,
     }
 
 
 def _documents(vault: Path, scanned_at: str) -> dict[str, dict[str, Any]]:
     orbit_classes = {
-        "manga": {"exists": True, "story": True, "media_files": 20, "video_files": 0,
-                  "bytes": 20_000, "attributed_files": 20, "unattributed_files": 0,
-                  "last_added_ns": time.time_ns()},
-        "anime": {"exists": True, "story": True, "media_files": 13, "video_files": 13,
-                  "bytes": 13_000_000, "attributed_files": 13, "unattributed_files": 0,
-                  "last_added_ns": time.time_ns()},
+        "manga": {
+            "exists": True,
+            "story": True,
+            "media_files": 20,
+            "video_files": 0,
+            "bytes": 20_000,
+            "attributed_files": 20,
+            "unattributed_files": 0,
+            "last_added_ns": time.time_ns(),
+        },
+        "anime": {
+            "exists": True,
+            "story": True,
+            "media_files": 13,
+            "video_files": 13,
+            "bytes": 13_000_000,
+            "attributed_files": 13,
+            "unattributed_files": 0,
+            "last_added_ns": time.time_ns(),
+        },
         "light-novel": {"exists": False, "story": True, "media_files": 0},
         "guidebook": {"exists": False, "story": False, "media_files": 0},
     }
     harbor_classes = {
-        "manga": {"exists": True, "story": True, "media_files": 9, "video_files": 0, "bytes": 9000,
-                  "attributed_files": 0, "unattributed_files": 9, "last_added_ns": 1},
+        "manga": {
+            "exists": True,
+            "story": True,
+            "media_files": 9,
+            "video_files": 0,
+            "bytes": 9000,
+            "attributed_files": 0,
+            "unattributed_files": 9,
+            "last_added_ns": 1,
+        },
     }
     layout = {
         "generated_at": scanned_at,
@@ -61,31 +100,79 @@ def _documents(vault: Path, scanned_at: str) -> dict[str, dict[str, Any]]:
         "summary": {"files": 42, "bytes": 13_029_000},
         "families": [
             {
-                "family_id": ORBIT, "family_title": "Demo Orbit",
-                "family_path": str(vault / "Demo Orbit"), "folder_exists": True,
-                "files": 33, "bytes": 13_020_000, "classes": orbit_classes,
+                "family_id": ORBIT,
+                "family_title": "Demo Orbit",
+                "family_path": str(vault / "Demo Orbit"),
+                "folder_exists": True,
+                "files": 33,
+                "bytes": 13_020_000,
+                "classes": orbit_classes,
                 "last_added_ns": time.time_ns(),
                 "works": [
-                    _row("o/main", "Demo Orbit", "manga", "MAIN_WORK", "COMPLETE",
-                         story=True, files=20),
-                    _row("o/tv", "Demo Orbit TV", "anime", "PARALLEL_ADAPTATION", "UNKNOWN",
-                         story=True, files=13),
-                    _row("o/novel", "Demo Orbit Novel", "light-novel", "OFFICIAL_SPINOFF",
-                         "MISSING", story=True),
-                    _row("o/guide", "Demo Orbit Guide", "guidebook", "GUIDEBOOK", "MISSING",
-                         story=False),
+                    _row(
+                        "o/main",
+                        "Demo Orbit",
+                        "manga",
+                        "MAIN_WORK",
+                        "COMPLETE",
+                        story=True,
+                        files=20,
+                    ),
+                    _row(
+                        "o/tv",
+                        "Demo Orbit TV",
+                        "anime",
+                        "PARALLEL_ADAPTATION",
+                        "UNKNOWN",
+                        story=True,
+                        files=13,
+                    ),
+                    _row(
+                        "o/novel",
+                        "Demo Orbit Novel",
+                        "light-novel",
+                        "OFFICIAL_SPINOFF",
+                        "MISSING",
+                        story=True,
+                    ),
+                    _row(
+                        "o/guide",
+                        "Demo Orbit Guide",
+                        "guidebook",
+                        "GUIDEBOOK",
+                        "MISSING",
+                        story=False,
+                    ),
                 ],
                 "findings": [],
             },
             {
-                "family_id": HARBOR, "family_title": "Demo Harbor",
-                "family_path": str(vault / "Demo Harbor"), "folder_exists": True,
-                "files": 9, "bytes": 9000, "classes": harbor_classes,
+                "family_id": HARBOR,
+                "family_title": "Demo Harbor",
+                "family_path": str(vault / "Demo Harbor"),
+                "folder_exists": True,
+                "files": 9,
+                "bytes": 9000,
+                "classes": harbor_classes,
                 "works": [
-                    _row("h/main", "Demo Harbor", "manga", "MAIN_WORK", "NEEDS_MAPPING",
-                         story=True, family=HARBOR),
-                    _row("h/side", "Demo Harbor Side", "manga", "OFFICIAL_SPINOFF",
-                         "NEEDS_MAPPING", story=True, family=HARBOR),
+                    _row(
+                        "h/main",
+                        "Demo Harbor",
+                        "manga",
+                        "MAIN_WORK",
+                        "NEEDS_MAPPING",
+                        story=True,
+                        family=HARBOR,
+                    ),
+                    _row(
+                        "h/side",
+                        "Demo Harbor Side",
+                        "manga",
+                        "OFFICIAL_SPINOFF",
+                        "NEEDS_MAPPING",
+                        story=True,
+                        family=HARBOR,
+                    ),
                 ],
                 "findings": [],
             },
@@ -105,42 +192,95 @@ def _documents(vault: Path, scanned_at: str) -> dict[str, dict[str, Any]]:
         "generated_at": scanned_at,
         "freshness": fresh,
         "works": {
-            "o/main": {"status": "COMPLETE", "reason": "local reaches chapter 20",
-                       "local_files": 20, "media": "pages"},
-            "o/tv": {"status": "UNKNOWN", "reason": "13 episode file(s) present", "local_files": 13,
-                     "media": "video",
-                     "episodes": {"videos": 13, "other_videos": 1, "seasons": [
-                         {"season": 1, "episodes": 12, "episodes_text": "1-12", "gaps_text": ""},
-                     ]}},
+            "o/main": {
+                "status": "COMPLETE",
+                "reason": "local reaches chapter 20",
+                "local_files": 20,
+                "media": "pages",
+            },
+            "o/tv": {
+                "status": "UNKNOWN",
+                "reason": "13 episode file(s) present",
+                "local_files": 13,
+                "media": "video",
+                "episodes": {
+                    "videos": 13,
+                    "other_videos": 1,
+                    "seasons": [
+                        {"season": 1, "episodes": 12, "episodes_text": "1-12", "gaps_text": ""},
+                    ],
+                },
+            },
             "o/novel": {"status": "MISSING", "reason": "no local media"},
             "o/guide": {"status": "MISSING", "reason": "no local media"},
-            "h/main": {"status": "NEEDS_MAPPING", "unmapped_local_files": 9,
-                       "reason": "9 local file(s) of this kind are not mapped"},
-            "h/side": {"status": "NEEDS_MAPPING", "unmapped_local_files": 9,
-                       "reason": "9 local file(s) of this kind are not mapped"},
+            "h/main": {
+                "status": "NEEDS_MAPPING",
+                "unmapped_local_files": 9,
+                "reason": "9 local file(s) of this kind are not mapped",
+            },
+            "h/side": {
+                "status": "NEEDS_MAPPING",
+                "unmapped_local_files": 9,
+                "reason": "9 local file(s) of this kind are not mapped",
+            },
         },
     }
     queue = {
         "works": [
-            {"family": "Demo Orbit", "work": "Demo Orbit Novel", "work_id": "o/novel",
-             "relation": "OFFICIAL_SPINOFF", "material_class": "light-novel", "official": True,
-             "coverage_status": "MISSING", "priority": 3},
-            {"family": "Demo Orbit", "work": "Demo Orbit Guide", "work_id": "o/guide",
-             "relation": "GUIDEBOOK", "material_class": "guidebook", "official": True,
-             "coverage_status": "MISSING", "priority": 6},
+            {
+                "family": "Demo Orbit",
+                "work": "Demo Orbit Novel",
+                "work_id": "o/novel",
+                "relation": "OFFICIAL_SPINOFF",
+                "material_class": "light-novel",
+                "official": True,
+                "coverage_status": "MISSING",
+                "priority": 3,
+            },
+            {
+                "family": "Demo Orbit",
+                "work": "Demo Orbit Guide",
+                "work_id": "o/guide",
+                "relation": "GUIDEBOOK",
+                "material_class": "guidebook",
+                "official": True,
+                "coverage_status": "MISSING",
+                "priority": 6,
+            },
         ]
     }
     ingest = {
         "mode": "DRY RUN",
         "units": [
-            {"source": "Manual", "unit": "Demo Orbit v02", "path": "x", "files": 1,
-             "action": "imported (dry-run)", "family": "Demo Orbit"},
-            {"source": "Manual", "unit": "Unknown bundle", "path": "y", "files": 3,
-             "action": "left-in-intake: unclassified"},
-            {"source": "Manual", "unit": "Copy of v01", "path": "z", "files": 1,
-             "action": "identical-already-in-vault"},
-            {"source": "Manual", "unit": "half", "path": "w", "files": 1,
-             "action": "left-in-intake: incomplete download"},
+            {
+                "source": "Manual",
+                "unit": "Demo Orbit v02",
+                "path": "x",
+                "files": 1,
+                "action": "imported (dry-run)",
+                "family": "Demo Orbit",
+            },
+            {
+                "source": "Manual",
+                "unit": "Unknown bundle",
+                "path": "y",
+                "files": 3,
+                "action": "left-in-intake: unclassified",
+            },
+            {
+                "source": "Manual",
+                "unit": "Copy of v01",
+                "path": "z",
+                "files": 1,
+                "action": "identical-already-in-vault",
+            },
+            {
+                "source": "Manual",
+                "unit": "half",
+                "path": "w",
+                "files": 1,
+                "action": "left-in-intake: incomplete download",
+            },
         ],
     }
     return {
@@ -148,10 +288,17 @@ def _documents(vault: Path, scanned_at: str) -> dict[str, dict[str, Any]]:
         "vault-coverage.json": coverage,
         "acquisition-queue.json": queue,
         "ingest-last.json": ingest,
-        "sources.json": {"sources": {
-            "demo-shop": {"id": "demo-shop", "name": "Demo Shop", "url": "https://shop.invalid",
-                          "enabled": False, "capabilities": ["DISCOVERY_ONLY"]},
-        }},
+        "sources.json": {
+            "sources": {
+                "demo-shop": {
+                    "id": "demo-shop",
+                    "name": "Demo Shop",
+                    "url": "https://shop.invalid",
+                    "enabled": False,
+                    "capabilities": ["DISCOVERY_ONLY"],
+                },
+            }
+        },
     }
 
 
@@ -172,8 +319,14 @@ def library(tmp_path: Path) -> tuple[Path, Path]:
     vault = tmp_path / "vault"
     for folder in ("Demo Orbit/manga", "Demo Orbit/anime", "Demo Harbor/manga"):
         (vault / folder).mkdir(parents=True)
-    for folder in ("Demo Orbit/manga", "Demo Orbit/anime", "Demo Harbor/manga",
-                   "Demo Orbit", "Demo Harbor", ""):
+    for folder in (
+        "Demo Orbit/manga",
+        "Demo Orbit/anime",
+        "Demo Harbor/manga",
+        "Demo Orbit",
+        "Demo Harbor",
+        "",
+    ):
         _age(vault / folder, 3600)
     scanned = dt.datetime.now(tz=dt.UTC).isoformat(timespec="seconds")
     data = tmp_path / "acquisition"
@@ -182,8 +335,12 @@ def library(tmp_path: Path) -> tuple[Path, Path]:
 
 
 def _client(data_home: Path, vault_root: Path, data: Path) -> TestClient:
-    settings = Settings(_env_file=None, data_home=str(data_home),
-                        source_vault_root=str(vault_root), acquisition_data_dir=str(data))
+    settings = Settings(
+        _env_file=None,
+        data_home=str(data_home),
+        source_vault_root=str(vault_root),
+        acquisition_data_dir=str(data),
+    )
     return TestClient(create_app(settings))
 
 
@@ -353,16 +510,23 @@ def test_partial_documents_degrade_to_honest_states(
             work.pop("coverage_status")
     _write(data, {"vault-layout.json": layout})
     with _client(data_home, vault_root, data) as client:
-        for path in ("", "/status", "/families", f"/families/{ORBIT}", "/queue", "/intake",
-                     "/updates", "/calendar", "/sources"):
+        for path in (
+            "",
+            "/status",
+            "/families",
+            f"/families/{ORBIT}",
+            "/queue",
+            "/intake",
+            "/updates",
+            "/calendar",
+            "/sources",
+        ):
             assert client.get(f"/library/acquisition{path}").status_code == 200, path
         body = client.get(f"/library/acquisition/families/{ORBIT}").json()
     assert {w["state"] for w in body["works"]} == {"UNVERIFIED"}
 
 
-def test_a_large_library_stays_quick(
-    data_home: Path, vault_root: Path, tmp_path: Path
-) -> None:
+def test_a_large_library_stays_quick(data_home: Path, vault_root: Path, tmp_path: Path) -> None:
     """Hundreds of families: the list answers well within an interactive budget."""
     vault = tmp_path / "vault"
     vault.mkdir()
@@ -409,8 +573,13 @@ def test_refresh_rescans_without_hashing(
     _vault, data = library
     cli = tmp_path / "fake_cli.py"
     cli.write_text('import sys\nprint(" ".join(sys.argv[1:]))\n', encoding="utf-8")
-    settings = Settings(_env_file=None, data_home=str(data_home), source_vault_root=str(vault_root),
-                        acquisition_data_dir=str(data), acquisition_cli=str(cli))
+    settings = Settings(
+        _env_file=None,
+        data_home=str(data_home),
+        source_vault_root=str(vault_root),
+        acquisition_data_dir=str(data),
+        acquisition_cli=str(cli),
+    )
     with TestClient(create_app(settings)) as client:
         body = client.post("/library/acquisition/refresh").json()
     assert body["ok"] is True

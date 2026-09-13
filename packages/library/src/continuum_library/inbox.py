@@ -16,15 +16,27 @@ Boundaries:
 * **Video is kept, not decoded.** A clip cannot become a reference directly;
   the viewer captures a frame, and the frame keeps the clip's locator and
   instant as provenance.
+* **Content decides, not names.** Whether a file is an image, a clip or
+  something to refuse (an installer, a document) is read from its bytes; a
+  JPEG named ``.heic`` is a JPEG. Nothing depends on folder structure.
+* **Exact duplicates are recognised, never deleted.** Bytes already in the
+  inbox or the library produce no second candidate; the answer points at the
+  existing one. The raw intake folder is only ever read by the client.
+* **Names carry what they know.** A download name of the form
+  ``<handle>_<unix time>_<post id>_<owner id>.<ext>`` yields the creator handle
+  and posting time, labelled as coming from the file name.
 """
 
 from __future__ import annotations
 
+import datetime as dt
+import re
 import uuid
 from collections.abc import Sequence
 from dataclasses import dataclass, field, replace
 from typing import Any
 
+from continuum_core import content_hash_bytes
 from continuum_core.references import (
     AssetMedium,
     AssetOrigin,
@@ -36,9 +48,9 @@ from continuum_core.references import (
     ReferenceUse,
 )
 from continuum_db.models import IntakeBatch, LibraryAsset, ReferenceCandidate, ReferenceItem
-from continuum_imaging import probe
+from continuum_imaging import sniff
 from continuum_storage import SourceUnavailableError
-from sqlalchemy import func, select
+from sqlalchemy import func, or_, select
 
 from continuum_library.catalog import (
     LIBRARY_ROOT,
@@ -46,6 +58,7 @@ from continuum_library.catalog import (
     DescriptorSpec,
     ReferenceCatalog,
     ReferenceSpec,
+    StoredImage,
 )
 from continuum_library.validation import (
     CatalogConflictError,
@@ -62,9 +75,11 @@ __all__ = [
     "MAX_UPLOAD_VIDEO_BYTES",
     "AcceptSpec",
     "CandidateDefaults",
+    "FileIntake",
     "IntakeResult",
     "ReferenceInbox",
     "UrlEntry",
+    "download_name_facts",
 ]
 
 MAX_UPLOAD_VIDEO_BYTES = 256 * 1024 * 1024
@@ -114,9 +129,44 @@ class IntakeResult:
     skipped: list[dict[str, str]] = field(default_factory=list)
 
 
-def _video_signature_ok(data: bytes) -> bool:
-    """MP4/MOV/M4V ('ftyp' box) or Matroska/WebM (EBML header)."""
-    return data[4:8] == b"ftyp" or data[:4] == b"\x1a\x45\xdf\xa3"
+@dataclass
+class FileIntake:
+    """What happened to one file: a new candidate, or a duplicate of something kept."""
+
+    candidate: ReferenceCandidate | None = None
+    duplicate_of: ReferenceCandidate | None = None
+    duplicate_reference_id: uuid.UUID | None = None
+
+    @property
+    def duplicate(self) -> bool:
+        return self.candidate is None
+
+
+#: ``<handle>_<unix seconds>_<post id>_<owner id>[ (n)].<ext>`` - a common name
+#: for downloaded social posts. Handles: letters, digits, dots, underscores.
+_DOWNLOAD_NAME = re.compile(
+    r"^(?P<handle>[A-Za-z0-9._]{1,30}?)_(?P<posted>\d{10})_(?P<post>\d{15,20})_(?P<owner>\d{3,20})"
+    r"(?: \(\d{1,3}\))?\.[A-Za-z0-9]{2,5}$"
+)
+_POSTED_RANGE = (1_262_304_000, 4_102_444_800)  # 2010-01-01 .. 2100-01-01
+
+
+def download_name_facts(name: str) -> dict[str, str]:
+    """Creator handle, posting time and post id encoded in a download file name."""
+    match = _DOWNLOAD_NAME.match(name)
+    if match is None:
+        return {}
+    posted = int(match["posted"])
+    if not _POSTED_RANGE[0] <= posted < _POSTED_RANGE[1]:
+        return {}
+    handle = match["handle"].strip(".")
+    if not handle:
+        return {}
+    return {
+        "creator_handle": f"@{handle}",
+        "posted_at": dt.datetime.fromtimestamp(posted, dt.UTC).isoformat(timespec="seconds"),
+        "source_post_id": match["post"],
+    }
 
 
 class ReferenceInbox:
@@ -211,32 +261,62 @@ class ReferenceInbox:
         creator_handle: str | None = None,
         capture: dict[str, Any] | None = None,
         defaults: CandidateDefaults | None = None,
-    ) -> ReferenceCandidate:
-        """One uploaded image, clip or screenshot, kept under the library root."""
+    ) -> FileIntake:
+        """One uploaded image, clip or screenshot, kept under the library root.
+
+        ``kind`` is the client's hint; the bytes decide. Refused files write
+        nothing. Exact duplicates create nothing and name what already exists.
+        """
         defaults = self._check_defaults(defaults or CandidateDefaults())
         if kind is IntakeKind.URL:
             raise CatalogInputError("Links are added with add_urls.")
         if batch_id is not None:
             self.batch(batch_id)
-        asset = self._store(data, kind)
+        sniffed = sniff(data)
+        if sniffed.kind == "video":
+            kind = IntakeKind.VIDEO
+        elif sniffed.kind == "image":
+            kind = IntakeKind.SCREENSHOT if kind is IntakeKind.SCREENSHOT else IntakeKind.IMAGE
+        else:
+            raise CatalogInputError(
+                f"Not taken in: this is {sniffed.description}, not an image or a video clip.",
+                technical_detail=f"sniffed={sniffed.format}",
+            )
+        duplicate = self._duplicate(content_hash_bytes(data))
+        if duplicate.duplicate_of is not None or duplicate.duplicate_reference_id is not None:
+            return duplicate
+        stored = self._store(data, kind)
+        name = clean_display_name(display_name)
+        facts = download_name_facts(name)
+        handle = clean_handle(creator_handle)
+        details: dict[str, Any] = {**(capture or {}), "detected_format": sniffed.format}
+        if facts:
+            details["posted_at"] = facts["posted_at"]
+            details["source_post_id"] = facts["source_post_id"]
+            if handle is None:
+                handle = clean_handle(facts["creator_handle"])
+                details["creator_handle_source"] = "filename"
+        if handle is not None and "creator_handle_source" not in details:
+            details["creator_handle_source"] = "user"
+        details.update(stored.conversion)
         candidate = ReferenceCandidate(
             batch_id=batch_id,
             intake_kind=kind,
             status=CandidateStatus.INBOX,
             source_url=clean_url(source_url),
-            creator_handle=clean_handle(creator_handle),
-            display_name=clean_display_name(display_name),
-            asset_id=asset.id,
+            creator_handle=handle,
+            display_name=name,
+            asset_id=stored.asset.id,
             origin=defaults.origin,
             suggested_class=defaults.suggested_class,
             intended_uses=[u.value for u in defaults.intended_uses],
             tags=clean_tags(defaults.tags),
             notes=clean_text(defaults.notes, 4000, field="Notes"),
-            capture=_clean_capture(capture or {}),
+            capture=_clean_capture(details),
         )
         self.session.add(candidate)
         self.session.flush()
-        return candidate
+        return FileIntake(candidate=candidate)
 
     def add_held_frame(
         self,
@@ -246,7 +326,7 @@ class ReferenceInbox:
         *,
         batch_id: uuid.UUID | None = None,
         defaults: CandidateDefaults | None = None,
-    ) -> ReferenceCandidate:
+    ) -> FileIntake:
         """A frame captured in the viewer from held video (anime and other clips)."""
         sources = self.catalog.sources
         if sources is None:
@@ -276,9 +356,7 @@ class ReferenceInbox:
             ),
         )
 
-    def add_clip_frame(
-        self, candidate_id: uuid.UUID, time_ms: int, image: bytes
-    ) -> ReferenceCandidate:
+    def add_clip_frame(self, candidate_id: uuid.UUID, time_ms: int, image: bytes) -> FileIntake:
         """A frame captured from an uploaded clip in the inbox."""
         clip = self.candidate(candidate_id)
         if clip.intake_kind is not IntakeKind.VIDEO or clip.asset_id is None:
@@ -313,8 +391,12 @@ class ReferenceInbox:
         candidate = self._editable(candidate_id, row_version)
         if candidate.intake_kind is not IntakeKind.URL:
             raise CatalogInputError("Only a link candidate takes an attached image.")
-        asset = self._store(image, IntakeKind.IMAGE)
-        candidate.asset_id = asset.id
+        if sniff(image).kind != "image":
+            raise CatalogInputError("Attach an image or a screenshot to a link.")
+        stored = self._store(image, IntakeKind.IMAGE)
+        candidate.asset_id = stored.asset.id
+        if stored.conversion:
+            candidate.capture = _clean_capture({**candidate.capture, **stored.conversion})
         self.catalog._flush()
         return candidate
 
@@ -453,6 +535,19 @@ class ReferenceInbox:
         }
         if candidate.capture:
             provenance["capture"] = candidate.capture
+            if candidate.capture.get("original_sha256"):
+                provenance["conversion"] = {
+                    key: candidate.capture[key]
+                    for key in (
+                        "original_sha256",
+                        "original_format",
+                        "original_bytes",
+                        "rendition",
+                        "rendition_sha256",
+                        "converted_with",
+                    )
+                    if key in candidate.capture
+                }
             if candidate.capture.get("kind") == "held_video_frame":
                 provenance = {
                     **provenance,
@@ -517,17 +612,51 @@ class ReferenceInbox:
         clean_tags(defaults.tags)
         return defaults
 
-    def _store(self, data: bytes, kind: IntakeKind) -> LibraryAsset:
+    def _store(self, data: bytes, kind: IntakeKind) -> StoredImage:
         if kind is IntakeKind.VIDEO:
             if len(data) > MAX_UPLOAD_VIDEO_BYTES:
                 raise CatalogInputError("That clip is too large (256 MB at most).")
-            if not _video_signature_ok(data):
+            if sniff(data).kind != "video":
                 raise CatalogInputError("That file is not an MP4, MOV, WebM or MKV clip.")
-            return self.catalog.store_bytes(
-                data, root_key=LIBRARY_ROOT, medium=AssetMedium.VIDEO, origin=AssetOrigin.USER_ADDED
+            return StoredImage(
+                self.catalog.store_bytes(
+                    data,
+                    root_key=LIBRARY_ROOT,
+                    medium=AssetMedium.VIDEO,
+                    origin=AssetOrigin.USER_ADDED,
+                )
             )
-        probe(data)
         return self.catalog._store_image(data)
+
+    def _duplicate(self, digest: str) -> FileIntake:
+        """What already holds exactly these bytes: a candidate, else a reference."""
+        asset_id = self.session.execute(
+            select(LibraryAsset.id).where(LibraryAsset.content_hash == digest)
+        ).scalar_one_or_none()
+        conditions = [ReferenceCandidate.capture["original_sha256"].astext == digest]
+        if asset_id is not None:
+            conditions.append(ReferenceCandidate.asset_id == asset_id)
+        existing = (
+            self.session.execute(
+                select(ReferenceCandidate)
+                .where(or_(*conditions))
+                .order_by(ReferenceCandidate.created_at, ReferenceCandidate.id)
+                .limit(1)
+            )
+            .scalars()
+            .first()
+        )
+        if existing is not None:
+            return FileIntake(duplicate_of=existing, duplicate_reference_id=existing.reference_id)
+        references = [ReferenceItem.provenance["conversion"]["original_sha256"].astext == digest]
+        if asset_id is not None:
+            references.append(ReferenceItem.asset_id == asset_id)
+        reference_id = self.session.execute(
+            select(ReferenceItem.id)
+            .where(ReferenceItem.removed_at.is_(None), or_(*references))
+            .limit(1)
+        ).scalar_one_or_none()
+        return FileIntake(duplicate_reference_id=reference_id)
 
     def _url_known(self, url: str) -> bool:
         in_inbox = self.session.execute(
@@ -557,7 +686,24 @@ def _clock(time_ms: int) -> str:
 
 def _clean_capture(capture: dict[str, Any]) -> dict[str, Any]:
     """Keep only simple, bounded capture facts; never a path."""
-    allowed = {"kind", "video_locator", "held_name", "from_candidate", "note", "captured_at"}
+    allowed = {
+        "kind",
+        "video_locator",
+        "held_name",
+        "from_candidate",
+        "note",
+        "captured_at",
+        "detected_format",
+        "creator_handle_source",
+        "posted_at",
+        "source_post_id",
+        "original_sha256",
+        "original_format",
+        "original_bytes",
+        "rendition",
+        "rendition_sha256",
+        "converted_with",
+    }
     cleaned: dict[str, Any] = {}
     for key, value in capture.items():
         if key in allowed and isinstance(value, str | int | float) and len(str(value)) <= 500:

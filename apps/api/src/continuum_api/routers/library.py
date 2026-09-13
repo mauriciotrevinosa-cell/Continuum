@@ -47,6 +47,7 @@ from continuum_library import (
     CatalogNotFoundError,
     CharacterLink,
     DescriptorSpec,
+    FileIntake,
     PanelSourceSpec,
     ReferenceCatalog,
     ReferenceInbox,
@@ -752,9 +753,23 @@ def create_batch(request: Request, kind: IntakeKind, label: str = "") -> dict[st
         return {"id": str(batch.id), "kind": batch.kind.value, "label": batch.label}
 
 
+def _intake_view(result: FileIntake, response: Response) -> dict[str, Any]:
+    """201 with the new candidate, or 200 naming what already holds these bytes."""
+    response.status_code = 200 if result.duplicate else 201
+    return {
+        "candidate": candidate_view(result.candidate) if result.candidate else None,
+        "duplicate": result.duplicate,
+        "duplicate_of": candidate_view(result.duplicate_of) if result.duplicate_of else None,
+        "duplicate_reference_id": (
+            str(result.duplicate_reference_id) if result.duplicate_reference_id else None
+        ),
+    }
+
+
 @router.post("/library/inbox/files", status_code=201)
 async def add_file(
     request: Request,
+    response: Response,
     kind: IntakeKind,
     batch_id: uuid.UUID | None = None,
     label: Annotated[str, Query(max_length=300)] = "",
@@ -766,12 +781,14 @@ async def add_file(
     tags: str | None = None,
     notes: str = "",
 ) -> dict[str, Any]:
-    limit = MAX_UPLOAD_VIDEO_BYTES if kind is IntakeKind.VIDEO else MAX_UPLOAD_IMAGE_BYTES
-    data = await _body(request, limit)
+    """One image, clip or screenshot. ``kind`` is a hint: the bytes decide what it
+    is, installers and documents are refused, exact duplicates are named."""
+    # The largest allowance; the library applies the per-kind limit by content.
+    data = await _body(request, MAX_UPLOAD_VIDEO_BYTES)
 
     def work() -> dict[str, Any]:
         with catalog_scope(request) as catalog:
-            candidate = ReferenceInbox(catalog).add_file(
+            result = ReferenceInbox(catalog).add_file(
                 data,
                 kind,
                 batch_id=batch_id,
@@ -780,7 +797,7 @@ async def add_file(
                 creator_handle=creator_handle,
                 defaults=_defaults_from_query(origin, suggested_class, uses, tags, notes),
             )
-            return candidate_view(candidate)
+            return _intake_view(result, response)
 
     return await _in_thread(work)
 
@@ -788,6 +805,7 @@ async def add_file(
 @router.post("/library/inbox/frames", status_code=201)
 async def add_held_frame(
     request: Request,
+    response: Response,
     media_id: Annotated[str, Query(pattern=r"^m1_[0-9a-f]{32}$")],
     time_ms: Annotated[int, Query(ge=0, le=86_400_000)],
     batch_id: uuid.UUID | None = None,
@@ -802,14 +820,14 @@ async def add_held_frame(
 
     def work() -> dict[str, Any]:
         with catalog_scope(request) as catalog:
-            candidate = ReferenceInbox(catalog).add_held_frame(
+            result = ReferenceInbox(catalog).add_held_frame(
                 media_id,
                 time_ms,
                 data,
                 batch_id=batch_id,
                 defaults=_defaults_from_query(origin, suggested_class, uses, tags, notes),
             )
-            return candidate_view(candidate)
+            return _intake_view(result, response)
 
     return await _in_thread(work)
 
@@ -836,15 +854,17 @@ def candidate_content(request: Request, candidate_id: uuid.UUID) -> Response:
 
 @router.post("/library/inbox/candidates/{candidate_id}/clip-frame", status_code=201)
 async def add_clip_frame(
-    request: Request, candidate_id: uuid.UUID, time_ms: Annotated[int, Query(ge=0, le=86_400_000)]
+    request: Request,
+    response: Response,
+    candidate_id: uuid.UUID,
+    time_ms: Annotated[int, Query(ge=0, le=86_400_000)],
 ) -> dict[str, Any]:
     data = await _body(request, MAX_UPLOAD_IMAGE_BYTES)
 
     def work() -> dict[str, Any]:
         with catalog_scope(request) as catalog:
-            return candidate_view(
-                ReferenceInbox(catalog).add_clip_frame(candidate_id, time_ms, data)
-            )
+            result = ReferenceInbox(catalog).add_clip_frame(candidate_id, time_ms, data)
+            return _intake_view(result, response)
 
     return await _in_thread(work)
 

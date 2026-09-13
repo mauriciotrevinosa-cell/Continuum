@@ -3,7 +3,7 @@ name = "continuum-imaging"
 version = "0.0.0"
 description = "Image decoding, crops, masks and deterministic sketches. Bytes in, bytes out; no filesystem."
 requires-python = ">=3.12,<3.13"
-dependencies = ["continuum-core", "pillow>=12.3,<13"]
+dependencies = ["continuum-core", "pillow>=12.3,<13", "pi-heif>=1.4,<1.5"]
 
 [build-system]
 requires = ["hatchling"]

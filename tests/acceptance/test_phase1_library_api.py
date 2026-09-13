@@ -307,9 +307,17 @@ class TestInboxOverHttp:
                     content=picture(seed),
                 ),
                 201,
-            )
+            )["candidate"]
             for seed in (31, 32)
         ]
+        duplicate = client.post(
+            "/library/inbox/files",
+            params={"kind": "IMAGE", "label": "ref-31 (1).png"},
+            content=picture(31),
+        )
+        assert duplicate.status_code == 200
+        assert duplicate.json()["duplicate"] is True and duplicate.json()["candidate"] is None
+        assert duplicate.json()["duplicate_of"]["id"] == files[0]["id"]
         assert files[0]["tags"] == ["winter", "coat"]
         content = client.get(f"/library/inbox/candidates/{files[0]['id']}/content")
         assert content.headers["content-type"] == "image/webp"
@@ -321,7 +329,7 @@ class TestInboxOverHttp:
                 content=mp4_bytes(9),
             ),
             201,
-        )
+        )["candidate"]
         refused = client.post(
             f"/library/inbox/candidates/{clip['id']}/accept",
             json={"row_version": clip["row_version"], "reference_class": "TECHNIQUE"},
@@ -334,7 +342,7 @@ class TestInboxOverHttp:
                 content=picture(33),
             ),
             201,
-        )
+        )["candidate"]
         held = ok(
             client.post(
                 "/library/inbox/frames",
@@ -346,7 +354,7 @@ class TestInboxOverHttp:
                 content=picture(34),
             ),
             201,
-        )
+        )["candidate"]
         no_paths(world, str(held))
 
         accepted = ok(
@@ -385,6 +393,14 @@ class TestInboxOverHttp:
             ).status_code
             == 422
         )
+        installer = client.post(
+            "/library/inbox/files",
+            params={"kind": "IMAGE", "label": "Some Installer.exe"},
+            content=b"MZ\x90\x00\x03" + b"\x00" * 8192,
+        )
+        assert installer.status_code == 422
+        assert "installer" in installer.json()["detail"]["message"]
+        assert ok(client.get("/library/inbox"))["candidates"] == []
         assert (
             client.post(
                 "/library/inbox/files",

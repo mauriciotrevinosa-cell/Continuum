@@ -57,7 +57,7 @@ from continuum_db.models import (
     ReferenceUseLink,
     VisualMode,
 )
-from continuum_imaging import EncodedImage, preview, probe
+from continuum_imaging import EncodedImage, open_image, preview, working_rendition
 from continuum_storage import (
     DerivedStore,
     SourceAccess,
@@ -88,6 +88,7 @@ __all__ = [
     "ReferenceCatalog",
     "ReferenceSpec",
     "StandingSpec",
+    "StoredImage",
     "TechniqueLink",
 ]
 
@@ -145,6 +146,21 @@ class PanelSourceSpec:
     chapter: int | None = None
     panel: int | None = None
     notes: str = ""
+
+
+@dataclass(frozen=True, slots=True)
+class StoredImage:
+    """Image bytes landed under the library root.
+
+    ``asset`` is what references and previews use. For a format kept only as an
+    original (HEIC/HEIF), ``original`` is the untouched uploaded bytes and
+    ``conversion`` records their hash, format and the decoder that produced the
+    deterministic PNG in ``asset``.
+    """
+
+    asset: LibraryAsset
+    original: LibraryAsset | None = None
+    conversion: dict[str, Any] = field(default_factory=dict)
 
 
 @dataclass(frozen=True, slots=True)
@@ -680,21 +696,33 @@ class ReferenceCatalog:
         )
         self.observe(video, "source_vault", instant.relative, instant.byte_size, instant.mtime_ns)
         frame = self._store_image(image)
-        extra = {
+        extra: dict[str, Any] = {
             "kind": "source_frame",
             "video_locator": instant.locator.render(),
             "held_name": instant.name,
             **spec.extra_provenance,
         }
+        if frame.conversion:
+            extra["conversion"] = frame.conversion
         self._check_user_origin(spec.origin)
-        return self._create_reference(frame, self._image_locator(frame), None, spec, extra)
+        return self._create_reference(
+            frame.asset, self._image_locator(frame.asset), None, spec, extra
+        )
 
     def add_upload(self, image: bytes, spec: ReferenceSpec) -> ReferenceItem:
         """A user-added image: official art, fan art, a screenshot, a sketch."""
         self._check_user_origin(spec.origin)
-        asset = self._store_image(image)
-        provenance = {"kind": "user_assertion", "intake": "upload", **spec.extra_provenance}
-        return self._create_reference(asset, self._image_locator(asset), None, spec, provenance)
+        stored = self._store_image(image)
+        provenance: dict[str, Any] = {
+            "kind": "user_assertion",
+            "intake": "upload",
+            **spec.extra_provenance,
+        }
+        if stored.conversion:
+            provenance["conversion"] = stored.conversion
+        return self._create_reference(
+            stored.asset, self._image_locator(stored.asset), None, spec, provenance
+        )
 
     def add_existing_image(
         self, asset: LibraryAsset, spec: ReferenceSpec, provenance: dict[str, Any]
@@ -1225,12 +1253,48 @@ class ReferenceCatalog:
             self.add_panel_source(item.id, panel_source)
         return item
 
-    def _store_image(self, data: bytes) -> LibraryAsset:
+    def _store_image(self, data: bytes) -> StoredImage:
+        """Land an allowed image; HEIC/HEIF as original plus deterministic PNG.
+
+        Everything is validated (format by content, pixel budget) before a
+        single byte is written. The original is stored exactly as received.
+        """
         if len(data) > MAX_UPLOAD_IMAGE_BYTES:
             raise CatalogInputError("That image is too large (64 MB at most).")
-        probe(data)  # raises UnsupportedImageError for anything not an allowed image
-        return self.store_bytes(
+        # Probes first: raises UnsupportedImageError for anything not allowed.
+        rendition = working_rendition(data)
+        if rendition is None:
+            # Decode once in full, so truncated or corrupt bytes behind a valid
+            # header are refused now rather than stored and failing later.
+            open_image(data)
+            return StoredImage(
+                self.store_bytes(
+                    data,
+                    root_key=LIBRARY_ROOT,
+                    medium=AssetMedium.IMAGE,
+                    origin=AssetOrigin.USER_ADDED,
+                )
+            )
+        original = self.store_bytes(
             data, root_key=LIBRARY_ROOT, medium=AssetMedium.IMAGE, origin=AssetOrigin.USER_ADDED
+        )
+        working = self.store_bytes(
+            rendition.image.data,
+            root_key=LIBRARY_ROOT,
+            medium=AssetMedium.IMAGE,
+            origin=AssetOrigin.USER_ADDED,
+        )
+        return StoredImage(
+            asset=working,
+            original=original,
+            conversion={
+                "original_sha256": original.content_hash,
+                "original_format": rendition.original_format,
+                "original_bytes": len(data),
+                "rendition": "png",
+                "rendition_sha256": working.content_hash,
+                "converted_with": rendition.converter,
+            },
         )
 
     @staticmethod

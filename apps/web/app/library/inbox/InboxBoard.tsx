@@ -12,6 +12,7 @@ import {
   vaultFetch,
   words,
 } from "@/lib/vault";
+import { describeTally, type IntakeTally, intakeHint } from "@/lib/intake";
 import { parseLinks } from "@/lib/links";
 import { OriginChip } from "../_vault/parts";
 import { Select, Toggles } from "../_vault/SpecForm";
@@ -136,7 +137,17 @@ function CandidateCard({
         {candidate.suggested_class ? <span className="chip quiet tiny">{words(candidate.suggested_class)}</span> : null}
       </span>
       {candidate.source_url ? <span className="candidate-link">{candidate.source_url}</span> : null}
-      {candidate.creator_handle ? <span className="hint">{candidate.creator_handle}</span> : null}
+      {candidate.creator_handle ? (
+        <span className="hint">
+          {candidate.creator_handle}
+          {candidate.capture?.creator_handle_source === "filename" ? " · from the file name" : ""}
+        </span>
+      ) : null}
+      {candidate.capture?.original_format ? (
+        <span className="hint">
+          {String(candidate.capture.original_format)} original kept · working copy PNG
+        </span>
+      ) : null}
       {candidate.intended_uses.length || candidate.tags.length ? (
         <span className="hint">
           {[...candidate.intended_uses.map(words), ...candidate.tags.map((t) => `#${t}`)].join(" · ")}
@@ -153,7 +164,7 @@ function CandidateCard({
               <input
                 ref={attach}
                 type="file"
-                accept="image/*"
+                accept="image/*,.heic,.heif"
                 hidden
                 onChange={(e) => {
                   const file = e.target.files?.[0];
@@ -254,20 +265,24 @@ export function InboxBoard({ view, status }: { view: InboxView; status: string }
 
   const upload = (files: File[]) =>
     intake.run(async () => {
-      const usable = files.filter((f) => f.type.startsWith("image/") || f.type.startsWith("video/"));
-      if (!usable.length) throw new VaultActionError("Only images and video clips can be taken in.", 422);
+      const tally: IntakeTally = { taken: 0, duplicates: [], refused: [], skipped: [] };
+      const usable = files.filter((f) => {
+        const hint = intakeHint(f.name, f.type, screenshots);
+        if (!hint) tally.skipped.push(f.name);
+        return hint !== null;
+      });
+      if (!usable.length) throw new VaultActionError(describeTally(tally), 422);
       const batch = await vaultFetch<{ id: string }>("library/inbox/batches", {
         method: "POST",
         query: { kind: screenshots ? "SCREENSHOT" : "IMAGE", label: `${usable.length} files` },
       });
-      const failures: string[] = [];
       for (const [index, file] of usable.entries()) {
         setProgress(`Taking in ${index + 1} of ${usable.length}…`);
         try {
-          await vaultFetch("library/inbox/files", {
+          const result = await vaultFetch<{ duplicate: boolean }>("library/inbox/files", {
             body: file,
             query: {
-              kind: file.type.startsWith("video/") ? "VIDEO" : screenshots ? "SCREENSHOT" : "IMAGE",
+              kind: intakeHint(file.name, file.type, screenshots) ?? "IMAGE",
               batch_id: batch.id,
               label: file.name,
               origin,
@@ -277,13 +292,17 @@ export function InboxBoard({ view, status }: { view: InboxView; status: string }
               creator_handle: handle || undefined,
             },
           });
+          if (result.duplicate) tally.duplicates.push(file.name);
+          else tally.taken += 1;
         } catch (cause) {
-          failures.push(`${file.name}: ${cause instanceof Error ? cause.message : String(cause)}`);
+          tally.refused.push(`${file.name}: ${cause instanceof Error ? cause.message : String(cause)}`);
         }
       }
       setProgress(null);
-      if (failures.length) throw new VaultActionError(`Not taken in - ${failures.join("; ")}`, 422);
-    }, `Taken in.`);
+      if (tally.refused.length || tally.skipped.length || tally.duplicates.length) {
+        throw new VaultActionError(describeTally(tally), 200);
+      }
+    }, "Taken in.");
 
   const addLinks = () =>
     intake.run(async () => {
@@ -356,7 +375,7 @@ export function InboxBoard({ view, status }: { view: InboxView; status: string }
                 <input
                   type="file"
                   multiple
-                  accept="image/*,video/mp4,video/webm,video/quicktime,video/x-matroska"
+                  accept="image/*,.heic,.heif,video/mp4,video/webm,video/quicktime,video/x-matroska"
                   onChange={(e) => upload(Array.from(e.target.files ?? []))}
                 />
               </label>

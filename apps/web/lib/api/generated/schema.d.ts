@@ -799,7 +799,11 @@ export interface paths {
         };
         get?: never;
         put?: never;
-        /** Add File */
+        /**
+         * Add File
+         * @description One image, clip or screenshot. ``kind`` is a hint: the bytes decide what it
+         *     is, installers and documents are refused, exact duplicates are named.
+         */
         post: operations["add_file_library_inbox_files_post"];
         delete?: never;
         options?: never;

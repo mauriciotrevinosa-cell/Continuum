@@ -33,12 +33,16 @@ export function Player({ mediaId, maybe }: { mediaId: string; maybe: boolean }) 
       canvas.getContext("2d")?.drawImage(element, 0, 0);
       const blob = await new Promise<Blob | null>((resolve) => canvas.toBlob(resolve, "image/png"));
       if (!blob) throw new Error("The frame could not be captured.");
-      const candidate = await vaultFetch<Candidate>("library/inbox/frames", {
-        body: blob,
-        query: { media_id: mediaId, time_ms: Math.round(element.currentTime * 1000) },
-      });
-      setCaptured((previous) => [candidate, ...previous].slice(0, 6));
-      return candidate;
+      const result = await vaultFetch<{ candidate: Candidate | null; duplicate_of: Candidate | null }>(
+        "library/inbox/frames",
+        {
+          body: blob,
+          query: { media_id: mediaId, time_ms: Math.round(element.currentTime * 1000) },
+        },
+      );
+      const candidate = result.candidate ?? result.duplicate_of;
+      if (candidate) setCaptured((previous) => [candidate, ...previous].slice(0, 6));
+      return result;
     });
 
   if (failed) {

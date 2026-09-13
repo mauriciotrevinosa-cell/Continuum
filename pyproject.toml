@@ -96,6 +96,12 @@ module = ["tests.*"]
 strict = false
 disallow_untyped_defs = false
 
+# pi-heif ships no type information; it is only registered as a Pillow opener
+# inside continuum_imaging.
+[[tool.mypy.overrides]]
+module = ["pi_heif"]
+ignore_missing_imports = true
+
 # ---------------------------------------------------------------------------
 # Tests
 # ---------------------------------------------------------------------------

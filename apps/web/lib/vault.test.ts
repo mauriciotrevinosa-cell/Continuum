@@ -1,4 +1,5 @@
 import { describe, expect, it } from "vitest";
+import { describeTally, intakeHint } from "./intake";
 import { parseLinks } from "./links";
 import { overlaps, regionFromPoints } from "./regions";
 import { allowedVaultPath } from "./vault-paths";
@@ -78,5 +79,24 @@ describe("parseLinks", () => {
 
   it("ignores text that is not a link", () => {
     expect(parseLinks("just some notes #tag @someone")).toEqual([]);
+  });
+});
+
+describe("intakeHint", () => {
+  it("counts extensions when the browser gives no type, and never guesses installers", () => {
+    expect(intakeHint("artist_1_2_3.heic", "", false)).toBe("IMAGE");
+    expect(intakeHint("PHOTO.HEIF", "", true)).toBe("SCREENSHOT");
+    expect(intakeHint("reel.mp4", "", false)).toBe("VIDEO");
+    expect(intakeHint("clip", "video/webm", false)).toBe("VIDEO");
+    expect(intakeHint("Some Installer (1).exe", "application/x-msdownload", false)).toBeNull();
+    expect(intakeHint("notes.txt", "text/plain", false)).toBeNull();
+  });
+
+  it("names every file that was not taken in", () => {
+    expect(
+      describeTally({ taken: 2, duplicates: ["a (1).jpg"], refused: [], skipped: ["setup.exe"] }),
+    ).toBe(
+      "2 taken in. 1 already in the inbox or library (a (1).jpg). 1 not images or clips, not sent (setup.exe).",
+    );
   });
 });

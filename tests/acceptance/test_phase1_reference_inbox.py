@@ -21,6 +21,7 @@ from __future__ import annotations
 import socket
 from collections.abc import Iterator
 from pathlib import Path
+from typing import Any
 
 import pytest
 from continuum_config import Settings
@@ -40,6 +41,7 @@ from continuum_library import (
     CatalogConflictError,
     CatalogInputError,
     CharacterLink,
+    FileIntake,
     ReferenceCatalog,
     ReferenceInbox,
     ReferenceSpec,
@@ -155,8 +157,14 @@ class TestLinkIntake:
         link = inbox.add_urls([UrlEntry("https://art.example.org/p/3")]).created[0]
         with pytest.raises(CatalogInputError):
             inbox.update(link.id, link.row_version, source_url="")
-        with pytest.raises(UnsupportedImageError):
+        with pytest.raises(CatalogInputError):
             inbox.attach_image(link.id, link.row_version, b"not an image")
+
+
+def new(result: FileIntake) -> Any:
+    """The candidate a file intake created (it must not be a duplicate)."""
+    assert not result.duplicate, "expected a new candidate, got a duplicate"
+    return result.candidate
 
 
 class TestFileIntake:
@@ -166,13 +174,15 @@ class TestFileIntake:
         vault_before = snapshot(world.vault)
         batch = inbox.create_batch(IntakeKind.IMAGE, label="folder drop")
         candidates = [
-            inbox.add_file(
-                picture(seed),
-                IntakeKind.IMAGE,
-                batch_id=batch.id,
-                display_name=f"C:\\Users\\someone\\Pictures\\ref-{seed}.png",
-                creator_handle="@inkfox",
-                defaults=CandidateDefaults(tags=("wardrobe",)),
+            new(
+                inbox.add_file(
+                    picture(seed),
+                    IntakeKind.IMAGE,
+                    batch_id=batch.id,
+                    display_name=f"C:\\Users\\someone\\Pictures\\ref-{seed}.png",
+                    creator_handle="@inkfox",
+                    defaults=CandidateDefaults(tags=("wardrobe",)),
+                )
             )
             for seed in range(1, 6)
         ]
@@ -204,7 +214,7 @@ class TestFileIntake:
         assert skipped == [{"id": str(candidates[0].id), "reason": "not in the inbox"}]
 
     def test_accepting_needs_a_class(self, inbox: ReferenceInbox) -> None:
-        unsure = inbox.add_file(picture(12), IntakeKind.SCREENSHOT)
+        unsure = new(inbox.add_file(picture(12), IntakeKind.SCREENSHOT))
         accepted, skipped = inbox.bulk_accept([unsure.id])
         assert accepted == [] and "canon, technique" in skipped[0]["reason"]
         assert inbox.candidate(unsure.id).status is CandidateStatus.INBOX
@@ -213,7 +223,9 @@ class TestFileIntake:
         self, inbox: ReferenceInbox, catalog: ReferenceCatalog
     ) -> None:
         hero = catalog.create_character("Aster Vale")
-        shot = inbox.add_file(picture(13), IntakeKind.SCREENSHOT, source_url="https://x.example/1")
+        shot = new(
+            inbox.add_file(picture(13), IntakeKind.SCREENSHOT, source_url="https://x.example/1")
+        )
         item = inbox.accept(
             shot.id,
             shot.row_version,
@@ -233,20 +245,22 @@ class TestFileIntake:
     def test_clips_are_kept_and_frames_become_references(
         self, inbox: ReferenceInbox, catalog: ReferenceCatalog, world: World
     ) -> None:
-        clip = inbox.add_file(
-            mp4_bytes(7),
-            IntakeKind.VIDEO,
-            display_name="fight-reel.mp4",
-            source_url="https://video.example.org/v/42",
-            creator_handle="@animator",
-            defaults=CandidateDefaults(
-                suggested_class=ReferenceClass.TECHNIQUE, intended_uses=(ReferenceUse.POSE,)
-            ),
+        clip = new(
+            inbox.add_file(
+                mp4_bytes(7),
+                IntakeKind.VIDEO,
+                display_name="fight-reel.mp4",
+                source_url="https://video.example.org/v/42",
+                creator_handle="@animator",
+                defaults=CandidateDefaults(
+                    suggested_class=ReferenceClass.TECHNIQUE, intended_uses=(ReferenceUse.POSE,)
+                ),
+            )
         )
         with pytest.raises(CatalogInputError, match="Capture a frame"):
             inbox.accept(clip.id, clip.row_version)
 
-        frame = inbox.add_clip_frame(clip.id, 61_500, picture(14, (320, 180)))
+        frame = new(inbox.add_clip_frame(clip.id, 61_500, picture(14, (320, 180))))
         assert frame.intake_kind is IntakeKind.SCREENSHOT
         assert frame.capture["kind"] == "clip_frame"
         assert frame.capture["video_locator"].endswith("#t=00:01:01.500")
@@ -263,13 +277,15 @@ class TestFileIntake:
         self, inbox: ReferenceInbox, catalog: ReferenceCatalog, world: World
     ) -> None:
         vault_before = snapshot(world.vault)
-        shot = inbox.add_held_frame(
-            world.id_of(EPISODE),
-            5_000,
-            picture(15, (320, 180)),
-            defaults=CandidateDefaults(
-                origin=ReferenceOrigin.SOURCE, suggested_class=ReferenceClass.CONTINUITY
-            ),
+        shot = new(
+            inbox.add_held_frame(
+                world.id_of(EPISODE),
+                5_000,
+                picture(15, (320, 180)),
+                defaults=CandidateDefaults(
+                    origin=ReferenceOrigin.SOURCE, suggested_class=ReferenceClass.CONTINUITY
+                ),
+            )
         )
         assert shot.capture["kind"] == "held_video_frame"
         assert shot.display_name.endswith("@ 00:00:05.000")
@@ -280,42 +296,49 @@ class TestFileIntake:
         assert snapshot(world.vault) == vault_before
 
         with pytest.raises(CatalogInputError):
-            inbox.add_held_frame(world.id_of(MANGA), 0, picture(16))
+            new(inbox.add_held_frame(world.id_of(MANGA), 0, picture(16)))
 
     @pytest.mark.parametrize(
         ("data", "kind", "error"),
         [
             (b"\x00\x00\x00\x18nope" + b"\0" * 64, IntakeKind.VIDEO, CatalogInputError),
-            (b"<html></html>", IntakeKind.IMAGE, UnsupportedImageError),
-            (b"MZ\x90\x00", IntakeKind.SCREENSHOT, UnsupportedImageError),
-            (b"%PDF-1.4", IntakeKind.IMAGE, UnsupportedImageError),
+            (b"<html></html>", IntakeKind.IMAGE, CatalogInputError),
+            (b"MZ\x90\x00", IntakeKind.SCREENSHOT, CatalogInputError),
+            (b"%PDF-1.4", IntakeKind.IMAGE, CatalogInputError),
+            # Claims to be a JPEG, is not decodable.
+            (b"\xff\xd8\xff\xe0" + b"\0" * 64, IntakeKind.IMAGE, UnsupportedImageError),
         ],
     )
     def test_only_images_and_clips_are_taken_in(
         self, inbox: ReferenceInbox, data: bytes, kind: IntakeKind, error: type[Exception]
     ) -> None:
         with pytest.raises(error):
-            inbox.add_file(data, kind)
+            new(inbox.add_file(data, kind))
+        assert inbox.candidates() == []
 
     def test_capture_metadata_is_bounded_and_pathless(self, inbox: ReferenceInbox) -> None:
-        shot = inbox.add_file(
-            picture(17),
-            IntakeKind.SCREENSHOT,
-            capture={
-                "kind": "screen",
-                "path": "C:\\ContinuumVault\\x.png",
-                "note": "x" * 900,
-                "nested": {"a": 1},
-            },
+        shot = new(
+            inbox.add_file(
+                picture(17),
+                IntakeKind.SCREENSHOT,
+                capture={
+                    "kind": "screen",
+                    "path": "C:\\ContinuumVault\\x.png",
+                    "note": "x" * 900,
+                    "nested": {"a": 1},
+                },
+            )
         )
-        assert shot.capture == {"kind": "screen"}
+        assert shot.capture == {"kind": "screen", "detected_format": "PNG"}
 
     def test_production_origins_cannot_be_declared(self, inbox: ReferenceInbox) -> None:
         with pytest.raises(CatalogInputError):
-            inbox.add_file(
-                picture(18),
-                IntakeKind.IMAGE,
-                defaults=CandidateDefaults(origin=ReferenceOrigin.GENERATED),
+            new(
+                inbox.add_file(
+                    picture(18),
+                    IntakeKind.IMAGE,
+                    defaults=CandidateDefaults(origin=ReferenceOrigin.GENERATED),
+                )
             )
 
 
@@ -323,8 +346,8 @@ class TestTriage:
     def test_update_dismiss_restore_and_conflicts(
         self, inbox: ReferenceInbox, session: Session
     ) -> None:
-        a = inbox.add_file(picture(20), IntakeKind.IMAGE)
-        b = inbox.add_file(picture(21), IntakeKind.IMAGE)
+        a = new(inbox.add_file(picture(20), IntakeKind.IMAGE))
+        b = new(inbox.add_file(picture(21), IntakeKind.IMAGE))
         session.commit()
 
         stale = a.row_version

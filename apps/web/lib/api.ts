@@ -305,6 +305,9 @@ export interface WorkRow {
   media: "video" | "pages" | null;
   episodes: EpisodeRun[];
   other_videos: number;
+  video_archives: number;
+  contained_videos: number;
+  archives_not_inventoried: number;
   unmapped_local_files: number;
   last_added_at: string | null;
 }
@@ -573,6 +576,90 @@ export interface AcquisitionOverview {
   sources_enabled: number;
   sources_total: number;
 }
+
+/* ---------------------------------------------------------------------------
+ * Held media: opened by opaque id, never by path (F-50)
+ * ------------------------------------------------------------------------- */
+
+export interface MediaStatus {
+  available: boolean;
+  reason: string;
+}
+
+export interface ContainedVideo {
+  name: string;
+  size_bytes: number;
+  season: number | null;
+  episode: number | null;
+}
+
+export interface MediaUnit {
+  id: string;
+  name: string;
+  kind: string;
+  view: "pages" | "video" | "document" | "bundle" | "none";
+  size_bytes: number;
+  label: string;
+  season: number | null;
+  episode: number | null;
+  chapters: number;
+  chapter_text: string;
+  volumes: number[];
+  pages: number;
+  contained_videos: number;
+  contained: ContainedVideo[];
+  plays_in_browser: "yes" | "maybe" | "no";
+}
+
+export interface WorkMedia {
+  available: boolean;
+  reason: string;
+  work_id: string;
+  title: string;
+  family_id: string;
+  family_title: string;
+  material_class: string | null;
+  relation: string | null;
+  state: LibraryState;
+  coverage_reason: string;
+  unmapped: boolean;
+  units: MediaUnit[];
+}
+
+export interface MediaDetail {
+  unit: MediaUnit;
+  work_id: string;
+  work_title: string;
+  family_id: string;
+  family_title: string;
+  material_class: string | null;
+  position: number;
+  total: number;
+  previous_id: string | null;
+  next_id: string | null;
+}
+
+export interface ArchiveListing {
+  pages: { index: number; label: string; chapter: string }[];
+  chapters: { label: string; first: number; count: number }[];
+  videos: ContainedVideo[];
+  other_entries: number;
+}
+
+/** What an opaque media id looks like; anything else never leaves the browser. */
+export const MEDIA_ID = /^m1_[0-9a-f]{32}$/;
+
+export const media = {
+  status: () => request<MediaStatus>("/library/media/status"),
+  forWork: (workId: string) =>
+    request<WorkMedia>(`/library/media?work=${encodeURIComponent(workId)}`),
+  unmatched: (familyId: string, material: string) =>
+    request<WorkMedia>(
+      `/library/media?family=${encodeURIComponent(familyId)}&material=${encodeURIComponent(material)}`,
+    ),
+  detail: (id: string) => request<MediaDetail>(`/library/media/${encodeURIComponent(id)}`),
+  pages: (id: string) => request<ArchiveListing>(`/library/media/${encodeURIComponent(id)}/pages`),
+};
 
 /** How a source hands material over. Mirrors the engine's access models. */
 export type AccessModel =

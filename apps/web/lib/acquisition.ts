@@ -177,6 +177,24 @@ export function seasonLabel(season: number | null): string {
   return `Season ${season}`;
 }
 
+/** [1, 2, 3, 5, 8, 9] -> "1–3, 5, 8–9": what is held, without implying the gaps. */
+export function numberRanges(values: number[]): string {
+  const sorted = [...new Set(values)].sort((x, y) => x - y);
+  const parts: string[] = [];
+  let start = sorted[0];
+  let previous = sorted[0];
+  for (const value of sorted.slice(1)) {
+    if (value === previous + 1) {
+      previous = value;
+      continue;
+    }
+    parts.push(start === previous ? String(start) : `${start}–${previous}`);
+    start = previous = value;
+  }
+  if (sorted.length) parts.push(start === previous ? String(start) : `${start}–${previous}`);
+  return parts.join(", ");
+}
+
 export function dash(range: string): string {
   return range.replaceAll("-", "–");
 }

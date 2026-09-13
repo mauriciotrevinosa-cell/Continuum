@@ -145,7 +145,7 @@ export default async function OverviewPage() {
                   <br />
                   <span className="meta">
                     {classLabel(item.material_class)} ·{" "}
-                    {item.video_files ? plural(item.video_files, "episode file") : plural(item.files, "file")}{" "}
+                    {item.video_files ? plural(item.video_files, "video file") : plural(item.files, "file")}{" "}
                     · {formatBytes(item.bytes)}
                   </span>
                 </span>

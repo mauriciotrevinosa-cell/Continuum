@@ -92,7 +92,7 @@ export function coverageSegments(counts: {
 export function MaterialLine({ material }: { material: MaterialSummary }) {
   const detail =
     material.video_files > 0
-      ? plural(material.video_files, "episode file")
+      ? plural(material.video_files, "video file")
       : material.files
         ? formatBytes(material.bytes)
         : material.works > 1

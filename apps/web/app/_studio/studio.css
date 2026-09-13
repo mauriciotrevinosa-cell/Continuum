@@ -1355,3 +1355,128 @@ a.list-item:hover {
 .studio [id] {
   scroll-margin-top: 84px;
 }
+
+/* -- viewer ------------------------------------------------------------------ */
+.viewer-shell {
+  min-height: 100vh;
+  background: #0b0c0e;
+}
+.viewer-bar {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 12px 24px;
+  background: color-mix(in srgb, #0b0c0e 88%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--hairline);
+}
+.viewer-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.reader {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.page-stage {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: auto;
+  padding: 12px 72px;
+}
+.page-stage img {
+  display: block;
+  cursor: pointer;
+  user-select: none;
+  box-shadow: 0 30px 80px -40px rgba(0, 0, 0, 0.9);
+}
+.page-stage.fit-height img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
+.page-stage.fit-width {
+  align-items: flex-start;
+}
+.page-stage.fit-width img {
+  width: min(100%, 1100px);
+  height: auto;
+}
+.page-turn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 88px;
+  border-radius: 12px;
+  border: 1px solid var(--hairline);
+  background: rgba(20, 22, 26, 0.6);
+  color: var(--text-2);
+  font-size: 28px;
+  cursor: pointer;
+}
+.page-turn:hover:not(:disabled) {
+  color: var(--text);
+  background: var(--surface-2);
+}
+.page-turn:disabled {
+  opacity: 0.2;
+  cursor: default;
+}
+.page-turn.prev {
+  left: 14px;
+}
+.page-turn.next {
+  right: 14px;
+}
+.viewer-foot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 24px;
+  border-top: 1px solid var(--hairline);
+  font-size: 12.5px;
+}
+.viewer-page {
+  min-height: 100vh;
+}
+.viewer-body {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 28px 24px 60px;
+}
+.viewer-body .viewer-foot {
+  border-top: 0;
+  padding: 18px 0 0;
+}
+.player video {
+  display: block;
+  width: 100%;
+  max-height: 72vh;
+  border-radius: var(--radius);
+  background: #000;
+}
+.document-frame {
+  width: 100%;
+  height: 78vh;
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius);
+  background: #fff;
+}
+.viewer-message {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  padding: 24px;
+}

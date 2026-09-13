@@ -70,11 +70,24 @@ function chapterFacts(work: WorkRow): React.ReactNode[] {
 function WorkItem({ work, sources }: { work: WorkRow; sources: SourceOut[] }) {
   const facts: React.ReactNode[] = [];
   if (work.local_files) {
+    const loose = work.local_files - work.video_archives - work.archives_not_inventoried;
+    const describe =
+      work.media !== "video"
+        ? plural(work.local_files, "file")
+        : [
+            loose > 0 ? plural(loose, "video file") : null,
+            work.video_archives
+              ? `${plural(work.video_archives, "archive")} holding ${plural(work.contained_videos, "video")}`
+              : null,
+            work.archives_not_inventoried
+              ? `${plural(work.archives_not_inventoried, "archive")}, contents not indexed yet`
+              : null,
+          ]
+            .filter(Boolean)
+            .join(" · ");
     facts.push(
       <span key="files">
-        {work.media === "video"
-          ? plural(work.local_files, "video file")
-          : plural(work.local_files, "file")}
+        {describe}
         {work.local_bytes ? ` · ${formatBytes(work.local_bytes)}` : ""}
       </span>,
     );
@@ -96,8 +109,16 @@ function WorkItem({ work, sources }: { work: WorkRow; sources: SourceOut[] }) {
           <span className="chip quiet">Needs review</span>
         ) : null}
       </div>
-      <div>
+      <div className="chips" style={{ justifyContent: "flex-end" }}>
         <StateChip state={work.state} />
+        {work.local_files ? (
+          <Link
+            className="button small"
+            href={`/library/acquisition/work?id=${encodeURIComponent(work.id)}`}
+          >
+            Open
+          </Link>
+        ) : null}
       </div>
 
       {facts.length ? <div className="work-facts">{facts}</div> : null}
@@ -172,10 +193,12 @@ function WorkItem({ work, sources }: { work: WorkRow; sources: SourceOut[] }) {
 }
 
 function MaterialBlock({
+  familyId,
   material,
   works,
   sources,
 }: {
+  familyId: string;
   material: MaterialSummary;
   works: WorkRow[];
   sources: SourceOut[];
@@ -203,7 +226,12 @@ function MaterialBlock({
         <p className="mapping-note">
           {plural(material.unmapped_files, "local file")} in this folder{" "}
           {material.unmapped_files === 1 ? "is" : "are"} not matched to any work yet.{" "}
-          <Link href="/library/acquisition/intake#mapping">Review uncatalogued material →</Link>
+          <Link
+            href={`/library/acquisition/work?family=${encodeURIComponent(familyId)}&material=${encodeURIComponent(material.material_class)}`}
+          >
+            Open them
+          </Link>{" "}
+          · <Link href="/library/acquisition/intake#mapping">Review mapping →</Link>
         </p>
       ) : null}
     </section>
@@ -289,6 +317,7 @@ export default async function FamilyPage({ params }: { params: Promise<{ id: str
       {story.map((material) => (
         <MaterialBlock
           key={material.material_class}
+          familyId={family.id}
           material={material}
           works={byClass.get(material.material_class) ?? []}
           sources={sources}
@@ -310,6 +339,7 @@ export default async function FamilyPage({ params }: { params: Promise<{ id: str
           {supplements.map((material) => (
             <MaterialBlock
               key={material.material_class}
+              familyId={family.id}
               material={material}
               works={byClass.get(material.material_class) ?? []}
               sources={sources}

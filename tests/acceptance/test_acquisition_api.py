@@ -287,7 +287,7 @@ def test_overview_projects_the_documents(client: TestClient) -> None:
     assert body["totals"] == {
         "families": 1, "works": 2, "official_works": 2, "complete": 0, "partial": 1, "missing": 1,
         "unknown": 0, "files": 12, "bytes": 1024, "missing_folders": 1, "legacy_paths": 1,
-        "duplicate_groups": 1,
+        "duplicate_groups": 1, "present": 0, "needs_mapping": 0, "stale": 0,
     }
     assert body["relations"] == {"MAIN_WORK": 1, "GUIDEBOOK": 1}
     assert body["families"][0]["title"] == "Demo Alpha"

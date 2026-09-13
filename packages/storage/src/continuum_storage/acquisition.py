@@ -22,11 +22,13 @@ library yet, and every reader returns ``None`` rather than raising.
 
 from __future__ import annotations
 
+import datetime as dt
 import json
+import os
 import subprocess
 import sys
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
@@ -36,6 +38,7 @@ __all__ = [
     "AcquisitionDocument",
     "AcquisitionStore",
     "CliResult",
+    "VaultChanges",
 ]
 
 #: Every document the acquisition engine publishes. A name outside this
@@ -70,7 +73,19 @@ ALLOWED_FLAGS: frozenset[str] = frozenset({
     "--id", "--name", "--adapter", "--search", "--watch-url", "--access", "--language", "--role",
     "--download-permitted", "--note", "--no-test", "--replace", "--json", "--all", "--offline",
     "--no-rescan", "--details", "--limit", "--no-anilist",
+    # Read-only and cheaper: a library refresh does not need content hashes,
+    # which exist for duplicate detection and can take minutes after a large
+    # download. Coverage is decided by what is where, not by bytes.
+    "--no-hash",
 })
+
+#: How long a Vault change check is trusted before it is repeated. Every
+#: screen asks; walking the directory tree on each request would make page
+#: cost scale with library size.
+VAULT_CHECK_TTL_SECONDS = 15.0
+#: A bound on the directories one check will look at, so a pathological tree
+#: degrades to "unknown" instead of a slow page.
+VAULT_CHECK_MAX_DIRS = 50_000
 
 
 class AcquisitionCliError(RuntimeError):
@@ -86,6 +101,27 @@ class AcquisitionDocument:
     generated_at: str | None
     size_bytes: int
     error: str | None = None
+
+
+@dataclass(frozen=True, slots=True)
+class VaultChanges:
+    """Whether the Vault changed after the documents describing it were made.
+
+    Decided from directory modification times only - no file is opened, and
+    nothing is written. Adding, removing or renaming an entry updates its
+    parent directory's time, which is exactly the event that makes a coverage
+    report stale.
+    """
+
+    checked: bool
+    changed: bool = False
+    #: Top-level folder names whose subtree changed (a family, usually).
+    folders: tuple[str, ...] = ()
+    #: Top-level folders that did not exist when the scan ran is not knowable
+    #: from times alone; a changed Vault root is reported here instead.
+    root_changed: bool = False
+    detail: str = ""
+    checked_at: float = field(default=0.0)
 
 
 @dataclass(frozen=True, slots=True)
@@ -118,6 +154,7 @@ class AcquisitionStore:
         self._timeout = timeout_seconds
         self._cache: dict[str, tuple[int, dict[str, Any] | None]] = {}
         self._errors: dict[str, str] = {}
+        self._vault_check: tuple[tuple[str, str], VaultChanges] | None = None
 
     # -- location -----------------------------------------------------------
     @property
@@ -231,6 +268,74 @@ class AcquisitionStore:
             ],
         }
 
+    # -- freshness ------------------------------------------------------------
+    def vault_changes(self, vault_root: str, since: str | None, *,
+                      scan_seconds: float = 0.0) -> VaultChanges:
+        """Directories under ``vault_root`` modified after ``since``.
+
+        ``vault_root`` and ``since`` come from the engine's own documents in
+        the configured data directory, never from a request (F-50). The scan's
+        duration is subtracted from ``since``: an entry added while the scan
+        was walking elsewhere must count as a change.
+        """
+        if not vault_root or not since:
+            return VaultChanges(checked=False, detail="no scan time in the documents")
+        key = (vault_root, since)
+        now = time.monotonic()
+        cached = self._vault_check
+        if cached is not None and cached[0] == key:
+            if now - cached[1].checked_at < VAULT_CHECK_TTL_SECONDS:
+                return cached[1]
+        result = self._walk_for_changes(vault_root, since, scan_seconds, now)
+        self._vault_check = (key, result)
+        return result
+
+    @staticmethod
+    def _walk_for_changes(vault_root: str, since: str, scan_seconds: float,
+                          now: float) -> VaultChanges:
+        def unknown(detail: str) -> VaultChanges:
+            return VaultChanges(checked=False, detail=detail, checked_at=now)
+
+        try:
+            cutoff = dt.datetime.fromisoformat(since).timestamp() - max(scan_seconds, 0.0)
+        except ValueError:
+            return unknown(f"unreadable scan time {since!r}")
+        root = Path(vault_root)
+        if not root.is_dir():
+            return unknown("the Vault folder is not reachable")
+        changed: set[str] = set()
+        seen = 0
+        try:
+            root_changed = root.stat().st_mtime > cutoff
+            with os.scandir(root) as top:
+                stack = [(e.path, e.name) for e in top if e.is_dir(follow_symlinks=False)]
+            while stack:
+                path, top_name = stack.pop()
+                seen += 1
+                if seen > VAULT_CHECK_MAX_DIRS:
+                    return unknown("the Vault is too large to check quickly")
+                try:
+                    if os.stat(path).st_mtime > cutoff:
+                        changed.add(top_name)
+                    with os.scandir(path) as entries:
+                        stack.extend((e.path, top_name) for e in entries
+                                     if e.is_dir(follow_symlinks=False))
+                except OSError:
+                    continue
+        except OSError as exc:
+            return unknown(f"{type(exc).__name__}: {exc}")
+        return VaultChanges(
+            checked=True,
+            changed=bool(changed) or root_changed,
+            folders=tuple(sorted(changed)),
+            root_changed=root_changed,
+            checked_at=now,
+        )
+
+    def forget_vault_check(self) -> None:
+        """Drop the cached change check, e.g. after a refresh rewrote the documents."""
+        self._vault_check = None
+
     # -- actions ------------------------------------------------------------
     def build_command(self, verb: str, *args: str) -> tuple[str, ...]:
         """Validate an action and return the exact argv that would run."""
@@ -273,6 +378,7 @@ class AcquisitionStore:
                 "of acquisition_orchestrator.py, or run the command yourself."
             )
         command = self.build_command(verb, *args)
+        self.forget_vault_check()
         started = time.monotonic()
         try:
             completed = subprocess.run(  # noqa: S603 - fixed argv, no shell, allowlisted verbs

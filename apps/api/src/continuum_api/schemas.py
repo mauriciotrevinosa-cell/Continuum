@@ -23,8 +23,10 @@ __all__ = [
     "AddSourceRequest",
     "DocumentStatus",
     "EnqueueJobRequest",
+    "EpisodeRun",
     "FamilyDetail",
     "FamilyProgress",
+    "Freshness",
     "HealthResponse",
     "IntakeUnit",
     "IntakeView",
@@ -32,14 +34,20 @@ __all__ = [
     "JobEventOut",
     "JobStepOut",
     "JobSummary",
+    "LibraryHero",
+    "MaterialSummary",
+    "NextStep",
+    "QueueGroup",
     "QueueItem",
     "QueuePage",
     "ReadyResponse",
+    "RecentAddition",
     "ReleaseEvent",
     "ReviewItem",
     "ScaffoldPlan",
     "SourceOut",
     "SourcesView",
+    "TimelineEvent",
     "UpdateAlert",
     "UpdateWatchItem",
     "UpdatesView",
@@ -185,6 +193,39 @@ class DocumentStatus(BaseModel):
     error: str | None = None
 
 
+#: How one work stands in the library, in the words the screens use.
+#:
+#: COMPLETE / PARTIAL come from the engine's comparison with what exists.
+#: PRESENT is held with nothing to compare against ("in library").
+#: NEEDS_MAPPING is local material the engine could not attribute - it may
+#: well be this work, so it is never called missing.
+#: UNVERIFIED is a work whose existence or coverage is not established.
+#: STALE is a MISSING verdict about a family whose folder changed after the
+#: scan: a claim of absence from an out-of-date report is not repeated.
+LibraryState = Literal[
+    "COMPLETE", "PARTIAL", "PRESENT", "MISSING", "NEEDS_MAPPING", "UNVERIFIED", "STALE"
+]
+
+
+class Freshness(BaseModel):
+    """How current the documents are, stated in three independent clocks."""
+
+    #: fresh: the Vault is unchanged since the scan. stale: it changed.
+    #: unknown: it could not be checked. empty: there is no scan at all.
+    state: Literal["fresh", "stale", "unknown", "empty"] = "empty"
+    library_scanned_at: str | None = None
+    catalogue_refreshed_at: str | None = None
+    documents_generated_at: str | None = None
+    vault_changed: bool | None = None
+    #: Families whose folder changed after the scan (ids).
+    changed_families: list[str] = Field(default_factory=list)
+    #: Top-level folders that changed and belong to no family yet.
+    changed_folders: list[str] = Field(default_factory=list)
+    #: Files the last scan did not hash, so duplicate detection trails them.
+    unhashed_files: int | None = None
+    detail: str = ""
+
+
 class AcquisitionStatus(BaseModel):
     """Whether acquisition is set up at all, and how fresh its data is."""
 
@@ -196,6 +237,41 @@ class AcquisitionStatus(BaseModel):
     vault_root: str = ""
     generated_at: str | None = None
     documents: list[DocumentStatus] = Field(default_factory=list)
+    freshness: Freshness = Field(default_factory=Freshness)
+    library_files: int = 0
+    library_bytes: int = 0
+
+
+class MaterialSummary(BaseModel):
+    """One kind of material within a family: what is held and what is not."""
+
+    material_class: str
+    #: The class rolled up. UNCATALOGUED: local media with no work to own it.
+    state: LibraryState | Literal["UNCATALOGUED", "EMPTY"]
+    story: bool = False
+    works: int = 0
+    complete: int = 0
+    partial: int = 0
+    present: int = 0
+    missing: int = 0
+    needs_mapping: int = 0
+    unverified: int = 0
+    stale: int = 0
+    files: int = 0
+    bytes: int = 0
+    video_files: int = 0
+    #: Media in this class folder that no work owns.
+    unmapped_files: int = 0
+    last_added_at: str | None = None
+
+
+class EpisodeRun(BaseModel):
+    """Episodes of one season, as the file names state them."""
+
+    season: int | None = None
+    episodes: int = 0
+    episodes_text: str = ""
+    gaps_text: str = ""
 
 
 class FamilyProgress(BaseModel):
@@ -219,6 +295,21 @@ class FamilyProgress(BaseModel):
     relations: dict[str, int] = Field(default_factory=dict)
     missing_folders: int = 0
     aliases: list[str] = Field(default_factory=list)
+    state: LibraryState | Literal["UNCATALOGUED", "EMPTY"] = "EMPTY"
+    materials: list[MaterialSummary] = Field(default_factory=list)
+    present: int = 0
+    needs_mapping: int = 0
+    story_works: int = 0
+    story_held: int = 0
+    supplements: int = 0
+    supplements_held: int = 0
+    #: Things to act on: partial or unmapped works, stale verdicts, missing
+    #: main-line story works. Catalogue suggestions are counted in `review`.
+    attention: int = 0
+    stale: bool = False
+    last_added_at: str | None = None
+    origin: str = "curated"
+    review_status: str = "ACCEPTED"
 
 
 class WorkRow(BaseModel):
@@ -263,6 +354,13 @@ class WorkRow(BaseModel):
     review_required: bool = False
     contained_in: str | None = None
     aliases: list[str] = Field(default_factory=list)
+    state: LibraryState = "UNVERIFIED"
+    story: bool = False
+    media: Literal["video", "pages"] | None = None
+    episodes: list[EpisodeRun] = Field(default_factory=list)
+    other_videos: int = 0
+    unmapped_local_files: int = 0
+    last_added_at: str | None = None
     #: Exact titles to search a store or reader with (English first, then
     #: Japanese). The UI turns these into links; nothing is ever fetched.
     search_titles: list[str] = Field(default_factory=list)
@@ -297,6 +395,19 @@ class QueueItem(BaseModel):
     missing_chapters: str = ""
     chapters_held: int = 0
     chapters_total: int | None = None
+    state: LibraryState = "MISSING"
+    group: str = ""
+    story: bool = False
+
+
+class QueueGroup(BaseModel):
+    """A reason to acquire something, with how many works share it."""
+
+    key: str
+    title: str
+    description: str = ""
+    count: int = 0
+    tone: Literal["ok", "warn", "err", "info", "muted", "accent"] = "muted"
 
 
 class QueuePage(BaseModel):
@@ -311,6 +422,10 @@ class QueuePage(BaseModel):
     needs_you: int = 0
     downloadable: int = 0
     items: list[QueueItem] = Field(default_factory=list)
+    groups: list[QueueGroup] = Field(default_factory=list)
+    #: Works that may already be in the library under another folder: mapping
+    #: them is the step before buying anything.
+    needs_mapping: int = 0
 
 
 class SourceOut(BaseModel):
@@ -419,6 +534,12 @@ class IntakeUnit(BaseModel):
     unit: str
     path: str
     files: int = 0
+    #: What the importer decided (or would decide, in a dry run).
+    action: str = ""
+    #: ready | identify | incomplete | known | conflict
+    section: str = "identify"
+    family: str | None = None
+    work: str | None = None
     classified_by: str | None = None
     series: list[str] = Field(default_factory=list)
     languages: list[str] = Field(default_factory=list)
@@ -468,12 +589,27 @@ class UpdateWatchItem(BaseModel):
     source: str | None = None
 
 
+class TimelineEvent(BaseModel):
+    """One thing that changed, in the order it happened."""
+
+    at: str | None = None
+    kind: Literal["new_chapters", "new_volumes", "new_release", "source_changed",
+                  "local_files", "coverage", "other"] = "other"
+    title: str = ""
+    detail: str = ""
+    family: str = ""
+    family_id: str = ""
+    work: str | None = None
+    material_class: str | None = None
+
+
 class UpdatesView(BaseModel):
     generated_at: str | None = None
     last_check: str | None = None
     alerts: list[UpdateAlert] = Field(default_factory=list)
     items: list[UpdateWatchItem] = Field(default_factory=list)
     sources: dict[str, dict[str, Any]] = Field(default_factory=dict)
+    timeline: list[TimelineEvent] = Field(default_factory=list)
 
 
 class ScaffoldPlan(BaseModel):
@@ -508,7 +644,52 @@ class ReleaseEvent(BaseModel):
     detail: str = ""
 
 
+class LibraryHero(BaseModel):
+    """The first thing the Library says about itself."""
+
+    families: int = 0
+    bytes: int = 0
+    files: int = 0
+    story_works: int = 0
+    complete: int = 0
+    partial: int = 0
+    present: int = 0
+    missing: int = 0
+    needs_mapping: int = 0
+    unverified: int = 0
+    stale: int = 0
+    complete_families: int = 0
+    attention_families: int = 0
+
+
+class RecentAddition(BaseModel):
+    """A kind of material in a family that received files recently."""
+
+    family_id: str
+    family: str
+    material_class: str
+    files: int = 0
+    bytes: int = 0
+    video_files: int = 0
+    last_added_at: str
+    state: str = ""
+
+
+class NextStep(BaseModel):
+    """One useful thing to do next, in plain words."""
+
+    kind: Literal["refresh", "map", "finish", "update", "acquire", "intake", "review"]
+    title: str
+    detail: str = ""
+    family_id: str = ""
+    work_id: str = ""
+    tone: Literal["ok", "warn", "err", "info", "muted", "accent"] = "muted"
+
+
 class AcquisitionOverview(BaseModel):
+    hero: LibraryHero = Field(default_factory=LibraryHero)
+    recently_added: list[RecentAddition] = Field(default_factory=list)
+    next_steps: list[NextStep] = Field(default_factory=list)
     status: AcquisitionStatus
     totals: dict[str, int] = Field(default_factory=dict)
     relations: dict[str, int] = Field(default_factory=dict)

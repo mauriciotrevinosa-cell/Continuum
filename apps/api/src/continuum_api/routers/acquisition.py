@@ -35,6 +35,7 @@ from continuum_storage import AcquisitionCliError, AcquisitionStore
 from fastapi import APIRouter, HTTPException, Query, Request, status
 from fastapi import Path as PathParam
 
+from continuum_api import library_projection as lp
 from continuum_api.schemas import (
     AcquisitionActionResult,
     AcquisitionOverview,
@@ -84,18 +85,65 @@ def _doc(request: Request, name: str) -> dict[str, Any]:
     return _store(request).read(name) or {}
 
 
-def _status(store: AcquisitionStore, layout: dict[str, Any]) -> AcquisitionStatus:
-    summary = store.summary()
-    return AcquisitionStatus(
-        configured=bool(summary["configured"]),
-        available=bool(summary["available"]),
-        data_dir=str(summary["data_dir"]),
-        cli_available=bool(summary["cli_available"]),
-        cli_path=str(summary["cli_path"]),
-        vault_root=str(layout.get("vault_root") or ""),
-        generated_at=layout.get("generated_at"),
-        documents=[DocumentStatus(**d) for d in summary["documents"]],
-    )
+class Library:
+    """The documents of one request, with states already projected.
+
+    Built once per request and shared by the helpers below, so every screen
+    applies staleness the same way and nothing is computed twice.
+    """
+
+    def __init__(self, request: Request) -> None:
+        self.store = _store(request)
+        self.layout = _doc(request, "vault-layout.json")
+        self.coverage = _doc(request, "vault-coverage.json")
+        self._request = request
+        header = self.coverage.get("freshness") or self.layout.get("freshness") or {}
+        vault_root = str(header.get("vault_root") or self.layout.get("vault_root") or "")
+        scanned = header.get("library_scanned_at") or self.layout.get("generated_at")
+        changes = self.store.vault_changes(
+            vault_root, scanned, scan_seconds=float(header.get("library_scan_seconds") or 0.0)
+        )
+        self.freshness = lp.freshness(
+            self.coverage, self.layout, checked=changes.checked, changed=changes.changed,
+            folders=changes.folders, detail=changes.detail,
+        )
+        stale = set(self.freshness.changed_families)
+        self.families = _families(self.layout)
+        per_work = self.coverage.get("works") or {}
+        self.states: dict[str, str] = {}
+        for family in self.families:
+            family_stale = str(family.get("family_id") or "") in stale
+            for row in family.get("works") or []:
+                wid = str(row.get("work_id") or "")
+                verdict = row.get("coverage_status") or (per_work.get(wid) or {}).get("status")
+                self.states[wid] = lp.work_state(verdict, stale_family=family_stale)
+        self.rollups = {
+            str(f.get("family_id") or ""): lp.family_roll_up(f, self.states) for f in self.families
+        }
+
+    def doc(self, name: str) -> dict[str, Any]:
+        return _doc(self._request, name)
+
+    def status(self) -> AcquisitionStatus:
+        summary = self.store.summary()
+        header = self.coverage.get("freshness") or {}
+        layout_summary = self.layout.get("summary") or {}
+        return AcquisitionStatus(
+            configured=bool(summary["configured"]),
+            available=bool(summary["available"]),
+            data_dir=str(summary["data_dir"]),
+            cli_available=bool(summary["cli_available"]),
+            cli_path=str(summary["cli_path"]),
+            vault_root=str(self.layout.get("vault_root") or header.get("vault_root") or ""),
+            generated_at=self.layout.get("generated_at"),
+            documents=[DocumentStatus(**d) for d in summary["documents"]],
+            freshness=self.freshness,
+            library_files=int(header.get("library_files") or layout_summary.get("files") or 0),
+            library_bytes=int(header.get("library_bytes") or layout_summary.get("bytes") or 0),
+        )
+
+    def family_stale(self, family_id: str) -> bool:
+        return family_id in set(self.freshness.changed_families)
 
 
 def _search_titles(catalog: dict[str, Any]) -> dict[str, list[str]]:
@@ -119,13 +167,21 @@ def _families(layout: dict[str, Any]) -> list[dict[str, Any]]:
     return families if isinstance(families, list) else []
 
 
-def _family_progress(family: dict[str, Any]) -> FamilyProgress:
+def _family_progress(family: dict[str, Any], library: Library | None = None) -> FamilyProgress:
     works = family.get("works") or []
     official = [w for w in works if w.get("official_status") is not False]
     coverage = Counter((w.get("coverage_status") or "UNKNOWN") for w in official)
     relations = Counter((w.get("relationship_type") or "UNKNOWN") for w in works)
+    family_id = str(family.get("family_id") or "")
+    if library is not None:
+        roll = library.rollups.get(family_id) or {}
+    else:
+        states = {str(w.get("work_id")): lp.work_state(w.get("coverage_status"), stale_family=False)
+                  for w in works}
+        roll = lp.family_roll_up(family, states)
+    counts: Counter[str] = roll.get("counts") or Counter()
     return FamilyProgress(
-        id=str(family.get("family_id") or ""),
+        id=family_id,
         title=str(family.get("family_title") or ""),
         category=family.get("category"),
         medium=family.get("primary_medium"),
@@ -134,7 +190,7 @@ def _family_progress(family: dict[str, Any]) -> FamilyProgress:
         works_total=len(works),
         complete=coverage.get("COMPLETE", 0),
         partial=coverage.get("PARTIAL", 0),
-        missing=coverage.get("MISSING", 0),
+        missing=counts.get("MISSING", 0) if library is not None else coverage.get("MISSING", 0),
         unknown=coverage.get("UNKNOWN", 0) + coverage.get("BLOCKED", 0),
         review=sum(1 for w in works if w.get("review_required")),
         files=int(family.get("files") or 0),
@@ -143,13 +199,34 @@ def _family_progress(family: dict[str, Any]) -> FamilyProgress:
         relations=dict(relations),
         missing_folders=sum(1 for w in works if w.get("layout_status") == "MISSING_FOLDER"),
         aliases=[str(a) for a in (family.get("family_aliases") or [])][:8],
+        state=roll.get("state", "EMPTY"),
+        materials=roll.get("materials", []),
+        present=counts.get("PRESENT", 0),
+        needs_mapping=counts.get("NEEDS_MAPPING", 0),
+        story_works=int(roll.get("story_works") or 0),
+        story_held=int(roll.get("story_held") or 0),
+        supplements=int(roll.get("supplements") or 0),
+        supplements_held=int(roll.get("supplements_held") or 0),
+        attention=int(roll.get("attention") or 0),
+        stale=library.family_stale(family_id) if library is not None else False,
+        last_added_at=roll.get("last_added_at"),
+        origin=str(family.get("origin") or "curated"),
+        review_status=str(family.get("review_status") or "ACCEPTED"),
     )
 
 
 def _work_row(row: dict[str, Any], coverage: dict[str, Any],
-              titles: dict[str, list[str]] | None = None) -> WorkRow:
+              titles: dict[str, list[str]] | None = None, state: str | None = None) -> WorkRow:
     cov = (coverage.get("works") or {}).get(str(row.get("work_id"))) or {}
+    episodes, other_videos = lp.work_episodes(cov)
     return WorkRow(
+        state=state or lp.work_state(row.get("coverage_status"), stale_family=False),  # type: ignore[arg-type]
+        story=bool(row.get("story_material")),
+        media=cov.get("media"),
+        episodes=episodes,
+        other_videos=other_videos,
+        unmapped_local_files=int(cov.get("unmapped_local_files") or 0),
+        last_added_at=cov.get("last_added_at"),
         id=str(row.get("work_id") or ""),
         title=str(row.get("work") or ""),
         canonical_title=row.get("canonical_title"),
@@ -192,8 +269,14 @@ def _work_row(row: dict[str, Any], coverage: dict[str, Any],
 
 def _queue_items(queue: dict[str, Any], families: list[dict[str, Any]],
                  coverage: dict[str, Any] | None = None,
-                 titles: dict[str, list[str]] | None = None) -> list[QueueItem]:
+                 titles: dict[str, list[str]] | None = None,
+                 library: Library | None = None,
+                 updates: set[str] | None = None) -> list[QueueItem]:
     ids = {str(f.get("family_title")): str(f.get("family_id") or "") for f in families}
+    story_by_work = {
+        str(w.get("work_id")): bool(w.get("story_material"))
+        for f in families for w in (f.get("works") or [])
+    }
     per_work = (coverage or {}).get("works") or {}
     out: list[QueueItem] = []
     for row in queue.get("works") or []:
@@ -201,12 +284,24 @@ def _queue_items(queue: dict[str, Any], families: list[dict[str, Any]],
             continue
         if row.get("official") is False:
             continue
+        wid = str(row.get("work_id") or "")
+        family_id = ids.get(str(row.get("family") or ""), "")
+        verdict = str(row.get("coverage_status"))
+        if library is not None and wid in library.states:
+            state = library.states[wid]
+        else:
+            state = lp.work_state(verdict, stale_family=False)
+        story = story_by_work.get(wid, False)
         out.append(
             QueueItem(
+                state=state,  # type: ignore[arg-type]
+                story=story,
+                group=lp.queue_group(state, story=story, relation=row.get("relation"),
+                                     update=wid in (updates or set())),
                 family=str(row.get("family") or ""),
-                family_id=ids.get(str(row.get("family") or ""), ""),
+                family_id=family_id,
                 work=str(row.get("work") or ""),
-                work_id=str(row.get("work_id") or ""),
+                work_id=wid,
                 relation=row.get("relation"),
                 material_class=row.get("material_class"),
                 coverage_status=row.get("coverage_status"),
@@ -286,24 +381,25 @@ def _run(store: AcquisitionStore, verb: str, *args: str, success: str) -> Acquis
 @router.get("", response_model=AcquisitionOverview)
 def overview(request: Request) -> AcquisitionOverview:
     """Everything the Library Acquisition landing screen needs in one call."""
-    store = _store(request)
-    layout = _doc(request, "vault-layout.json")
-    queue = _doc(request, "acquisition-queue.json")
-    registry = _doc(request, "sources.json")
-    review = _doc(request, "REVIEW_REQUIRED.json")
-    watch = _doc(request, "update-watch.json")
-    ingest = _doc(request, "ingest-last.json")
-    coverage = _doc(request, "vault-coverage.json")
-    catalog = _doc(request, "works-catalog.json")
+    library = Library(request)
+    layout = library.layout
+    queue = library.doc("acquisition-queue.json")
+    registry = library.doc("sources.json")
+    review = library.doc("REVIEW_REQUIRED.json")
+    watch = library.doc("update-watch.json")
+    ingest = library.doc("ingest-last.json")
+    coverage = library.coverage
+    catalog = library.doc("works-catalog.json")
 
-    families = _families(layout)
-    progress = [_family_progress(f) for f in families]
+    families = library.families
+    progress = [_family_progress(f, library) for f in families]
     works = [w for f in families for w in (f.get("works") or [])]
     official = [w for w in works if w.get("official_status") is not False]
     coverage_counts = Counter((w.get("coverage_status") or "UNKNOWN") for w in official)
     relations = Counter((w.get("relationship_type") or "UNKNOWN") for w in works)
     sources = list((registry.get("sources") or {}).values())
     units = [u for u in (ingest.get("units") or []) if isinstance(u, dict)]
+    state_counts = Counter(library.states.get(str(w.get("work_id")), "") for w in official)
 
     totals = {
         "families": len(families),
@@ -311,8 +407,11 @@ def overview(request: Request) -> AcquisitionOverview:
         "official_works": len(official),
         "complete": coverage_counts.get("COMPLETE", 0),
         "partial": coverage_counts.get("PARTIAL", 0),
-        "missing": coverage_counts.get("MISSING", 0),
+        "missing": state_counts.get("MISSING", 0),
         "unknown": coverage_counts.get("UNKNOWN", 0) + coverage_counts.get("BLOCKED", 0),
+        "present": state_counts.get("PRESENT", 0),
+        "needs_mapping": state_counts.get("NEEDS_MAPPING", 0),
+        "stale": state_counts.get("STALE", 0),
         "files": int((layout.get("summary") or {}).get("files") or 0),
         "bytes": int((layout.get("summary") or {}).get("bytes") or 0),
         "missing_folders": int((layout.get("summary") or {}).get("missing_folder") or 0),
@@ -333,58 +432,89 @@ def overview(request: Request) -> AcquisitionOverview:
         for a in (watch.get("alerts") or [])[-12:][::-1]
         if isinstance(a, dict)
     ]
+    intake_pending = sum(
+        1 for u in units if lp.intake_section(str(u.get("action") or "")) == "identify"
+    )
+    review_count = len(review.get("items") or [])
     return AcquisitionOverview(
-        status=_status(store, layout),
+        hero=lp.hero(families, library.rollups, library.states, layout),
+        recently_added=lp.recently_added(families, library.rollups),
+        next_steps=lp.next_steps(
+            fresh=library.freshness,
+            families=families,
+            rollups=library.rollups,
+            states=library.states,
+            updates_available=_updates_available(watch, families),
+            intake_pending=intake_pending,
+            review_count=review_count,
+        ),
+        status=library.status(),
         totals=totals,
         relations=dict(relations),
         families=progress,
-        queue_preview=_queue_items(queue, families, coverage, _search_titles(catalog))[:12],
+        queue_preview=_queue_items(queue, families, coverage, _search_titles(catalog),
+                                   library)[:12],
         alerts=alerts,
-        review_count=len(review.get("items") or []),
-        intake_pending=sum(
-            1 for u in units if str(u.get("action", "")).startswith("left-in-intake")
-        ),
+        review_count=review_count,
+        intake_pending=intake_pending,
         sources_enabled=sum(1 for s in sources if s.get("enabled", True)),
         sources_total=len(sources),
     )
 
 
+def _updates_available(watch: dict[str, Any],
+                       families: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Works the update watch says are ahead of the local copy."""
+    ids = {str(f.get("family_title")): str(f.get("family_id") or "") for f in families}
+    out = []
+    for item in watch.get("works") or []:
+        if isinstance(item, dict) and item.get("update_available"):
+            out.append(dict(item, family_id=ids.get(str(item.get("family") or ""), "")))
+    return out
+
+
 @router.get("/status", response_model=AcquisitionStatus)
 def status_only(request: Request) -> AcquisitionStatus:
-    """Just how things stand and how old the data is.
+    """How things stand, how old the data is, and whether the Vault moved since.
 
     Every screen shows this, so it must not pay for the whole overview.
     """
-    return _status(_store(request), _doc(request, "vault-layout.json"))
+    return Library(request).status()
 
 
 @router.post("/refresh", response_model=AcquisitionActionResult)
 def refresh(request: Request) -> AcquisitionActionResult:
     """Re-read the Vault and rebuild every document.
 
-    Read-only over the library: it hashes what changed, recomputes coverage
-    and rewrites the reports. Nothing in the Vault is modified.
+    Read-only over the library: it walks the Vault, recomputes coverage and
+    rewrites the reports. Nothing in the Vault is modified. Content hashing is
+    skipped: it serves duplicate detection, not coverage, and after a large
+    download it would turn a refresh of seconds into one of many minutes.
     """
-    return _run(_store(request), "coverage",
+    return _run(_store(request), "coverage", "--no-hash",
                 success="re-read the Vault and rebuilt the reports")
 
 
 @router.get("/families", response_model=list[FamilyProgress])
 def list_families(request: Request) -> list[FamilyProgress]:
-    return [_family_progress(f) for f in _families(_doc(request, "vault-layout.json"))]
+    library = Library(request)
+    return [_family_progress(f, library) for f in library.families]
 
 
 @router.get("/families/{family_id}", response_model=FamilyDetail)
 def family_detail(request: Request, family_id: FamilyId) -> FamilyDetail:
-    layout = _doc(request, "vault-layout.json")
-    coverage = _doc(request, "vault-coverage.json")
-    for family in _families(layout):
+    library = Library(request)
+    for family in library.families:
         if str(family.get("family_id")) == family_id:
-            titles = _search_titles(_doc(request, "works-catalog.json"))
-            works = [_work_row(w, coverage, titles) for w in (family.get("works") or [])]
+            titles = _search_titles(library.doc("works-catalog.json"))
+            works = [
+                _work_row(w, library.coverage, titles, library.states.get(str(w.get("work_id"))))
+                for w in (family.get("works") or [])
+            ]
             works.sort(key=lambda w: (w.material_class or "", w.title.lower()))
             findings = [f for f in (family.get("findings") or []) if isinstance(f, dict)]
-            return FamilyDetail(family=_family_progress(family), works=works, findings=findings)
+            return FamilyDetail(family=_family_progress(family, library), works=works,
+                                findings=findings)
     raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="family not found")
 
 
@@ -393,28 +523,36 @@ def queue(
     request: Request,
     coverage_status: Annotated[str | None, Query(alias="status", max_length=32)] = None,
     family_id: Annotated[str | None, Query(alias="family", max_length=200)] = None,
+    group: Annotated[str | None, Query(max_length=32)] = None,
     text: Annotated[str | None, Query(alias="q", max_length=200)] = None,
     offset: Annotated[int, Query(ge=0, le=100_000)] = 0,
     limit: Annotated[int, Query(ge=1, le=2000)] = 50,
 ) -> QueuePage:
-    """One page of the queue.
+    """One page of the queue, grouped by the reason to acquire each work.
 
     Paged rather than whole: a queue is as long as the library is incomplete,
     and a screen that renders every row scales its cost with someone else's
     backlog. The counts describe the whole filtered set, so the page below
     them is never mistaken for all of it.
     """
-    layout = _doc(request, "vault-layout.json")
+    library = Library(request)
+    watch = library.doc("update-watch.json")
+    updates = {str(w.get("work_id")) for w in _updates_available(watch, library.families)}
     items = _queue_items(
-        _doc(request, "acquisition-queue.json"),
-        _families(layout),
-        _doc(request, "vault-coverage.json"),
-        _search_titles(_doc(request, "works-catalog.json")),
+        library.doc("acquisition-queue.json"),
+        library.families,
+        library.coverage,
+        _search_titles(library.doc("works-catalog.json")),
+        library,
+        updates,
     )
     by_status = Counter(i.coverage_status or "UNKNOWN" for i in items)
+    groups = Counter(i.group for i in items)
     if coverage_status:
         wanted = coverage_status.upper()
         items = [i for i in items if (i.coverage_status or "") == wanted]
+    if group:
+        items = [i for i in items if i.group == group]
     if family_id:
         items = [i for i in items if i.family_id == family_id]
     if text:
@@ -433,6 +571,8 @@ def queue(
         needs_you=sum(1 for i in items if i.requires_user_action),
         downloadable=sum(1 for i in items if i.downloadable),
         items=items[offset : offset + limit],
+        groups=lp.queue_groups(groups),
+        needs_mapping=sum(1 for s in library.states.values() if s == "NEEDS_MAPPING"),
     )
 
 
@@ -508,6 +648,10 @@ def intake(request: Request) -> IntakeView:
             unit=str(u.get("unit") or ""),
             path=str(u.get("path") or ""),
             files=int(u.get("files") or 0),
+            action=str(u.get("action") or ""),
+            section=lp.intake_section(str(u.get("action") or "")),
+            family=u.get("family"),
+            work=u.get("work"),
             classified_by=u.get("classified_by"),
             series=[str(s) for s in (u.get("series") or {})],
             languages=[str(x) for x in (u.get("languages") or {})],
@@ -582,7 +726,14 @@ def updates(request: Request) -> UpdatesView:
         if isinstance(w, dict)
     ]
     items.sort(key=lambda i: (not bool(i.update_available), i.family, i.work))
+    library = Library(request)
+    family_ids = {
+        str(f.get("family_title")): str(f.get("family_id") or "") for f in library.families
+    }
+    raw_alerts = [a for a in (watch.get("alerts") or []) if isinstance(a, dict)]
     return UpdatesView(
+        timeline=lp.timeline(raw_alerts, lp.recently_added(library.families, library.rollups,
+                                                            limit=40), family_ids),
         generated_at=watch.get("generated_at"),
         last_check=watch.get("last_check"),
         alerts=[

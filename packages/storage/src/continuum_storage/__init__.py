@@ -11,6 +11,7 @@ from continuum_storage.acquisition import (
     AcquisitionDocument,
     AcquisitionStore,
     CliResult,
+    VaultChanges,
 )
 from continuum_storage.derived import DerivedStore, StoredArtifact
 from continuum_storage.paths import (
@@ -50,6 +51,7 @@ __all__ = [
     "StorageEnvironment",
     "StoredArtifact",
     "SyncFolderWarning",
+    "VaultChanges",
     "VaultEntry",
     "VaultProtectionReport",
     "build_storage",

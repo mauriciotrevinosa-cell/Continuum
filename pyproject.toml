@@ -15,6 +15,7 @@ dependencies = [
     "continuum-storage",
     "continuum-db",
     "continuum-jobs",
+    "continuum-library",
     "continuum-providers",
     "continuum-api",
     "continuum-worker",
@@ -43,6 +44,7 @@ continuum-config = { workspace = true }
 continuum-storage = { workspace = true }
 continuum-db = { workspace = true }
 continuum-jobs = { workspace = true }
+continuum-library = { workspace = true }
 continuum-providers = { workspace = true }
 continuum-api = { workspace = true }
 continuum-worker = { workspace = true }

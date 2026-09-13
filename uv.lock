@@ -11,6 +11,7 @@ members = [
     "continuum-db",
     "continuum-imaging",
     "continuum-jobs",
+    "continuum-library",
     "continuum-observability",
     "continuum-providers",
     "continuum-storage",
@@ -144,6 +145,7 @@ dependencies = [
     { name = "continuum-db" },
     { name = "continuum-imaging" },
     { name = "continuum-jobs" },
+    { name = "continuum-library" },
     { name = "continuum-observability" },
     { name = "continuum-providers" },
     { name = "continuum-storage" },
@@ -170,6 +172,7 @@ requires-dist = [
     { name = "continuum-db", editable = "packages/db" },
     { name = "continuum-imaging", editable = "packages/imaging" },
     { name = "continuum-jobs", editable = "packages/jobs" },
+    { name = "continuum-library", editable = "packages/library" },
     { name = "continuum-observability", editable = "packages/observability" },
     { name = "continuum-providers", editable = "packages/providers" },
     { name = "continuum-storage", editable = "packages/storage" },
@@ -298,6 +301,29 @@ requires-dist = [
     { name = "continuum-core", editable = "packages/core" },
     { name = "continuum-db", editable = "packages/db" },
     { name = "continuum-observability", editable = "packages/observability" },
+]
+
+[[package]]
+name = "continuum-library"
+version = "0.0.0"
+source = { editable = "packages/library" }
+dependencies = [
+    { name = "continuum-config" },
+    { name = "continuum-core" },
+    { name = "continuum-db" },
+    { name = "continuum-imaging" },
+    { name = "continuum-observability" },
+    { name = "continuum-storage" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "continuum-config", editable = "packages/config" },
+    { name = "continuum-core", editable = "packages/core" },
+    { name = "continuum-db", editable = "packages/db" },
+    { name = "continuum-imaging", editable = "packages/imaging" },
+    { name = "continuum-observability", editable = "packages/observability" },
+    { name = "continuum-storage", editable = "packages/storage" },
 ]
 
 [[package]]

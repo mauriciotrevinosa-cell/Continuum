@@ -17,6 +17,7 @@ root_packages =
     continuum_storage
     continuum_db
     continuum_jobs
+    continuum_library
     continuum_providers
     continuum_api
     continuum_worker
@@ -35,6 +36,7 @@ source_modules =
     continuum_observability
     continuum_db
     continuum_jobs
+    continuum_library
     continuum_providers
     continuum_api
     continuum_worker
@@ -60,6 +62,7 @@ forbidden_modules =
     continuum_storage
     continuum_db
     continuum_jobs
+    continuum_library
     continuum_providers
     continuum_api
     continuum_worker
@@ -69,6 +72,7 @@ name = Package layering
 type = layers
 layers =
     continuum_api | continuum_worker
+    continuum_library
     continuum_jobs
     continuum_db | continuum_storage | continuum_providers
     continuum_config | continuum_imaging

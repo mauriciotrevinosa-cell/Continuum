@@ -119,8 +119,8 @@ class MediaFile:
     kind: str
     size_bytes: int
     content_type: str | None
-    #: "pages" (image archive), "video", "document", "bundle" (archive of
-    #: videos), or "none".
+    #: "pages" (image archive), "video", "document", "image" (standalone
+    #: image), "bundle" (archive of videos), or "none".
     view: str
     archive_images: int = 0
     archive_videos: int = 0
@@ -242,7 +242,7 @@ class MediaLibrary:
         that owns and closes the file handle.
         """
         media = self.describe(media_id)
-        if media.view not in ("video", "document"):
+        if media.view not in ("video", "document", "image"):
             raise MediaUnavailableError(media_id)
         rel, _record = self._lookup(media_id)
         handle = self._open(rel)
@@ -358,6 +358,8 @@ def _describe(media_id: str, rel: str, record: dict[str, Any]) -> MediaFile:
         view, content_type = "video", VIDEO_TYPES[extension]
     elif extension in DOCUMENT_TYPES:
         view, content_type = "document", DOCUMENT_TYPES[extension]
+    elif extension in IMAGE_TYPES:
+        view, content_type = "image", IMAGE_TYPES[extension]
     elif extension in ARCHIVE_EXTENSIONS and images:
         view, content_type = "pages", None
     elif extension in ARCHIVE_EXTENSIONS and videos:

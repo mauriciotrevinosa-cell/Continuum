@@ -36,6 +36,7 @@ GUARDED_SOURCE_ROOTS: tuple[Path, ...] = (
     REPO_ROOT / "packages" / "observability",
     REPO_ROOT / "packages" / "db",
     REPO_ROOT / "packages" / "jobs",
+    REPO_ROOT / "packages" / "library",
     REPO_ROOT / "packages" / "providers",
     REPO_ROOT / "apps" / "api",
     REPO_ROOT / "workers",

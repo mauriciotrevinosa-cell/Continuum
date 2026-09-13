@@ -661,6 +661,87 @@ export const media = {
   pages: (id: string) => request<ArchiveListing>(`/library/media/${encodeURIComponent(id)}/pages`),
 };
 
+/* ---------------------------------------------------------------------------
+ * Projects: creative work made inside Continuum
+ * ------------------------------------------------------------------------- */
+
+export type DocumentLifecycle =
+  | "IDEA"
+  | "DRAFT"
+  | "REVIEW"
+  | "APPROVED"
+  | "LOCKED"
+  | "SUPERSEDED"
+  | "ARCHIVED"
+  | "UNFILED";
+
+export interface ProjectDocument {
+  id: string;
+  title: string;
+  category: string;
+  section: "story" | "production" | "reference" | "extra";
+  lifecycle: DocumentLifecycle;
+  version: string | null;
+  lineage: string | null;
+  supersedes: string | null;
+  superseded_by: string | null;
+  derived_from: string | null;
+  episode: string | null;
+  summary: string;
+  author_status: string | null;
+  dated: string | null;
+  modified_at: string | null;
+  size_bytes: number;
+  filed: boolean;
+  constraints: string[];
+}
+
+export interface PipelineStage {
+  id: string;
+  title: string;
+  track: string;
+  description: string;
+  artifacts: number;
+}
+
+export interface ProjectSummary {
+  id: string;
+  title: string;
+  kind: string;
+  logline: string;
+  status: string;
+  documents: number;
+  approved: number;
+  in_progress: number;
+  extras: number;
+  updated_at: string | null;
+  warnings: string[];
+}
+
+export interface ProjectDetail {
+  project: ProjectSummary;
+  description: string;
+  documents: ProjectDocument[];
+  pipeline: PipelineStage[];
+  counts: Record<string, number>;
+}
+
+export interface ProjectDocumentBody {
+  project: ProjectSummary;
+  document: ProjectDocument;
+  markdown: string;
+  versions: ProjectDocument[];
+}
+
+export const projects = {
+  list: () => request<ProjectSummary[]>("/projects"),
+  detail: (id: string) => request<ProjectDetail>(`/projects/${encodeURIComponent(id)}`),
+  document: (id: string, documentId: string) =>
+    request<ProjectDocumentBody>(
+      `/projects/${encodeURIComponent(id)}/documents/${encodeURIComponent(documentId)}`,
+    ),
+};
+
 /** How a source hands material over. Mirrors the engine's access models. */
 export type AccessModel =
   | "FREE_OFFICIAL_WEB"

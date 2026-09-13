@@ -188,11 +188,11 @@ export function Empty({
  * technical detail folded - this is a local app, and the usual cause is that
  * its service simply is not running.
  */
-export function ApiDown({ message }: { message: string }) {
+export function ApiDown({ message, service = "Library" }: { message: string; service?: string }) {
   return (
     <div className="banner err" role="alert">
       <p>
-        <strong>Continuum can&apos;t reach its Library service.</strong> Start it, then reload this
+        <strong>Continuum can&apos;t reach its {service} service.</strong> Start it, then reload this
         page.
       </p>
       <details className="disclosure" style={{ gridColumn: "auto" }}>

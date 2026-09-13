@@ -5,10 +5,9 @@ import "./studio.css";
 /**
  * The Continuum studio frame.
  *
- * The Library is one part of the application, so it gets one group in the
- * sidebar rather than the whole of it. Parts that do not exist yet are named
- * and visibly inert: hiding them would hide the shape of the app, and linking
- * them to empty screens would claim progress that has not happened (F-67).
+ * The Library and Projects are separate parts of the application: what you
+ * own, and what you make. Neither knows about any particular project; the
+ * Projects group lists whatever projects exist, including none.
  */
 export function StudioShell({ children }: { children: React.ReactNode }) {
   return (
@@ -35,12 +34,10 @@ export function StudioShell({ children }: { children: React.ReactNode }) {
             <SideLink href="/library/acquisition/updates">Updates</SideLink>
           </nav>
 
-          <div className="side-group">
+          <nav className="side-group" aria-label="Projects">
             <h2>Projects</h2>
-            <span className="side-link future" aria-disabled="true">
-              Projects <small>Later</small>
-            </span>
-          </div>
+            <SideLink href="/projects">All projects</SideLink>
+          </nav>
 
           <nav className="side-group" aria-label="Production">
             <h2>Production</h2>

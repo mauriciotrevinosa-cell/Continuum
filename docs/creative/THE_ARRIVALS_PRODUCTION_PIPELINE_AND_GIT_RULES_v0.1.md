@@ -48,7 +48,24 @@ Goal:
 - confirm that dialogue sounds like the actual characters;
 - adjust character voice, emotional cadence, humor, restraint, or relationship dynamics as needed.
 
-At the end of this stage, the human gives either:
+The Voice Check is intentionally **not** a line-by-line copyedit of the eventual full episode.
+
+Default format:
+- divide the episode into its meaningful story sections;
+- for each section, show the important conversational direction and the representative lines / exchanges that establish character voice;
+- include enough dialogue to judge whether the characters sound right;
+- do not require human review of throwaway micro-lines, grunts, filler interjections, incidental `ugh` / `ah` sounds, or every transitional sentence;
+- focus human attention on lines that reveal character, relationship, comedy, conflict, exposition, or emotional movement.
+
+The S1E1 workflow establishes another important rule:
+
+> **Written planning may contain an explicit thought, explanation, or line that should disappear during manga panelization if the image can communicate it better.**
+
+Therefore Voice Check approval locks the **intent, voice, and dramatic information**, not an obligation to print every reviewed sentence as a speech balloon or narration box.
+
+During Stage 4, visual acting, expression, composition, silence, reaction panels, or environmental storytelling may replace text when that improves the manga without changing the approved beat.
+
+At the end of Stage 2, the human gives either:
 
 - `GREEN LIGHT`, or
 - a targeted revision request.
@@ -82,6 +99,8 @@ Goal:
 Page length is not quota-driven.
 
 An episode/chapter may be significantly longer or shorter than another if the story requires it.
+
+**Visual-first adaptation rule:** panelization is allowed and expected to remove redundant prose/dialogue when expressions, staging, action, panel rhythm, or composition already communicate the same information more effectively. Do not preserve text merely because it existed in the detailed draft.
 
 ### Stage 5 — Rough Manga Review
 

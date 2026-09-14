@@ -35,7 +35,24 @@ The intended high-level relationship is that this internal phenomenon is **Rapha
 
 Do **not** reveal or explain this explicitly to the audience in E6. It remains mystery-layer causality rather than exposition.
 
-### 4. Neither Raphael nor Mau consciously initiates the key interaction
+### 4. Raphael cannot detect `The Noise`
+
+This is a hard continuity rule.
+
+Raphael does **not** detect, identify, read, classify, name, or otherwise become aware that Mau has `The Noise` inside him.
+
+From Raphael's perspective, Mau remains an unresolved anomaly / classification failure.
+
+Therefore E6 must **not** imply that Raphael thinks:
+
+- Mau has a second internal system;
+- Mau has a voice comparable to Raphael;
+- another intelligence is responding to her;
+- Raphael can directly observe the hidden cause of the overload.
+
+Any relationship between Raphael and `The Noise` exists only at the hidden story-causality layer for now. Raphael herself does not know that layer exists.
+
+### 5. Neither Raphael nor Mau consciously initiates the key interaction
 
 This is a critical causal rule.
 
@@ -47,20 +64,22 @@ Her analytical behavior is an advanced passive / automatic function. Rimuru does
 
 Likewise, Mau does not consciously command his own internal broken voice / `The Noise`. It reacts or processes independently of his understanding.
 
-Therefore the E6 overload is best understood at the hidden causal layer as an **automatic interaction between two extremely unusual internal systems**, one coherent and advanced (Raphael), one damaged / incomplete / unknown (Mau's internal voice), while neither host actually knows what the systems are doing.
+The E6 overload can therefore have a hidden causal relationship between Raphael's passive analytical function and Mau's broken internal phenomenon, while neither host knows what is occurring and **Raphael never detects `The Noise` itself**.
 
 This avoids turning the scene into:
 - Rimuru intentionally probing Mau;
 - Raphael knowingly forcing an analysis;
+- Raphael identifying Mau's hidden internal voice;
 - Mau consciously using an ability;
 - a deliberate power contest.
 
 None of those are the intent.
 
-### 5. Mau must already be studying Rimuru before direct contact
+### 6. Mau must already be studying Rimuru before direct contact
 
 - Raphael's passive / automatic analysis is already occurring before Rimuru directly approaches Mau.
 - Mau's own internal broken voice may already be reacting at the same time, without Mau understanding it.
+- Raphael still receives no readable indication that `The Noise` exists; she only encounters an unresolved failure around Mau.
 - Frieren is observing Mau and notices that something about his behavior / focus is strange before the collapse.
 - Mau is staring at / studying Rimuru in a way that reads as if he is processing something he cannot explain.
 - Rimuru approaches normally and says something in the direction of:
@@ -72,9 +91,9 @@ None of those are the intent.
 
 The important implication is that Mau does not learn the name because Rimuru says it aloud. The name surfaces from the hidden internal interaction already underway.
 
-Mau himself does not understand why he knows it.
+Mau himself does not understand why he knows it, and Raphael does not understand how Mau knew her name.
 
-### 6. Do not resolve Frieren / Rimuru here
+### 7. Do not resolve Frieren / Rimuru here
 
 Remove the more explicit post-collapse Frieren/Rimuru explanatory exchange from E6.
 
@@ -87,7 +106,7 @@ In E6:
 - Rimuru can understand that she does not trust him;
 - the episode should not resolve that tension.
 
-### 7. Reorder Raphael / Rimuru discussion while Mau is unconscious
+### 8. Reorder Raphael / Rimuru discussion while Mau is unconscious
 
 The private Rimuru/Raphael discussion should happen **while Mau is still asleep**.
 
@@ -96,13 +115,14 @@ Direction:
 - Rimuru privately asks Raphael whether she understands what happened.
 - Raphael does not know.
 - Raphael should not pretend she knowingly initiated a clean, bounded test; the relevant analysis was passive / automatic and the result escaped her understanding.
+- Raphael has no awareness of `The Noise` and cannot cite it as an explanation.
 - Raphael advises against repeating or intentionally provoking anything similar because it may reproduce the harmful event.
 - Raphael also advises Rimuru not to reveal / push the `Raphael` detail yet while causality is unknown.
 - Rimuru accepts this rather than forcing another attempt.
 
 This beat should occur before any later interaction with awakened Mau.
 
-### 8. Mau wake-up comes before any attempt to question him
+### 9. Mau wake-up comes before any attempt to question him
 
 Keep the wake-up scene:
 
@@ -113,7 +133,7 @@ Keep the wake-up scene:
 - Mau is confused by the intensity;
 - he learns he was unconscious for roughly two days.
 
-### 9. Remove the direct interrogation of Mau
+### 10. Remove the direct interrogation of Mau
 
 Do **not** use the earlier version where Rimuru asks Mau:
 - whether he remembers talking to him;
@@ -137,7 +157,8 @@ Rimuru + Raphael arrive
 → Rimuru meets the group
 → Bocchi name gag remains
 → Raphael's automatic/passive analysis is already functioning
-→ Mau's broken internal voice / The Noise reacts without Mau understanding it
+→ Mau's broken internal voice / The Noise may react without Mau understanding it
+→ Raphael does NOT detect The Noise; Mau remains an unresolved classification failure
 → Mau begins staring / studying Rimuru strangely
 → Frieren notices something is off
 → Rimuru approaches Mau normally
@@ -145,7 +166,7 @@ Rimuru + Raphael arrive
 → conceptual overload / collapse
 → Frieren catches Mau and becomes guarded toward Rimuru
 → Mau remains unconscious
-→ Rimuru + Raphael privately discuss what neither of them properly understands
+→ Rimuru + Raphael privately discuss what they do not understand
 → Raphael: do not intentionally provoke/repeat it; do not reveal / push the detail yet
 → Mau wakes roughly two days later
 → later group conversation establishes Mau remembers meeting Rimuru but not the collapse
@@ -161,6 +182,7 @@ E6 should end with:
 - Mau awake and apparently okay;
 - the `Raphael` event unresolved;
 - Mau's E1 internal voice still unexplained;
+- Raphael unable to detect or identify `The Noise`;
 - Frieren's distrust seeded but not processed;
 - Rimuru / Raphael choosing restraint rather than forcing answers;
 - no implication that the collapse was a deliberate analysis experiment or power contest.

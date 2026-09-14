@@ -5,7 +5,7 @@
 **Project:** `The Arrivals`  
 **Branch:** `creative/s1-season-board-v0.1`
 
-This document is the quick source of truth for episode count and production readiness. Episode-specific Draft 1 / Manga Panel Script / Level-4 overview / GREEN LIGHT files take precedence over older rough-roadmap language.
+This document is the quick source of truth for episode count and production readiness. Episode-specific Draft 1 / Manga Panel Script / Level-4 overview / GREEN LIGHT / targeted addendum files take precedence over older rough-roadmap language.
 
 ---
 
@@ -17,11 +17,11 @@ Sukuna's `Malevolent Shrine` reveal is the final sting inside S1E19, not a twent
 
 ## Readiness definition
 
-**Level 4 / manga-ready** = approved story direction + continuous full draft + manga panel script + production/QC pass + editorial page/chapter overview where applicable. Next human gate is rough manga / Stage 5.
+**Level 4 / manga-ready** = approved story direction + continuous full draft + manga panel script + production/QC pass + editorial page/chapter overview. Next human gate is rough manga / Stage 5.
 
 ---
 
-# Level 4 — manga-ready
+# Season 1 — ALL EPISODES LEVEL 4 / MANGA-READY
 
 | Episode | Working title | Provisional pages | Status |
 |---|---|---:|---|
@@ -38,101 +38,96 @@ Sukuna's `Malevolent Shrine` reveal is the final sting inside S1E19, not a twent
 | S1E11 | `There You Are` | 72 | Level 4 |
 | S1E12 | `Rooms for Everyone` | 68 | Level 4 |
 | S1E13 | `Space` | 56 | Level 4 |
+| S1E14 | `The Lake` | 62 | Level 4 |
+| S1E15 | `A Birthday for Someone Who Never Had One` | 60 | Level 4 |
+| S1E16 | `The World Opens` | 72 | Level 4 |
+| S1E17 | `Guild Jobs / Working Days` | 68 | Level 4 |
+| S1E18 | `Day in the Life / Maomao Chocolate` | 64 | Level 4 |
+| S1E19 | `G3 / Road Days / Season Finale` | 104 | Level 4 |
 
-E1 remains the gold-standard production reference.
+**Current provisional Season 1 total:** **1,227 manga pages**.  
+**Observed episode range:** **46–104 pages**.  
+**Observed mean:** approximately **64.6 pages per episode**.
 
-### Current page-count pattern
+These are production observations, **not quotas**. Story need continues to determine length. E19 is intentionally longer because it carries the intercut G3/G1+G2 season-finale braid plus the Sukuna sting.
 
-E1–E13 range from **46 to 79 provisional pages**. This is production data, not a quota. Story need controls length; future episodes may be shorter or longer.
-
-### Episode-specific Level-4 files
-
-For E2–E13, use the episode-specific trio where present:
-- `..._DRAFT_1_v0.1.md`
-- `..._MANGA_PANEL_SCRIPT_v0.1.md`
-- `..._LEVEL4_EDITORIAL_OVERVIEW_v0.1.md`
-
-E13 specifically:
-- `THE_ARRIVALS_S1E13_SPACE_GREEN_LIGHT_v0.1.md`
-- `THE_ARRIVALS_S1E13_SPACE_DRAFT_1_v0.1.md`
-- `THE_ARRIVALS_S1E13_SPACE_MANGA_PANEL_SCRIPT_v0.1.md`
-- `THE_ARRIVALS_S1E13_SPACE_LEVEL4_EDITORIAL_OVERVIEW_v0.1.md`
-
-E3 and E4 titles intentionally remain pending. Do not rename them without explicit creator approval.
+E1 remains the gold-standard production reference for scene detail and panelization philosophy.
 
 ---
 
-# Level 3 — Voice approved / authorized for Stage 3–4
+# Important episode-specific notes
 
-Human Voice Check is complete for **all S1E1–S1E19**. E14–E19 are not waiting for Voice Check; they are awaiting assistant-led Full Episode Construction and manga panelization/QC.
+## E3 / E4 titles
 
-### S1E14 — `The Lake`
-- Voice Check GREEN LIGHT.
-- Next: Stage 3 full draft → Stage 4 panel script/QC.
-- Primary approval file: `THE_ARRIVALS_S1E14_THE_LAKE_GREEN_LIGHT_v0.1.md`
+E3 and E4 titles intentionally remain pending. Do not rename them without explicit creator approval.
 
-### S1E15 — `A Birthday for Someone Who Never Had One`
-- Voice Check GREEN LIGHT.
-- Next: Stage 3 → Stage 4.
-- Primary approval file: `THE_ARRIVALS_S1E15_GREEN_LIGHT_v0.1.md`
+## E14 sunset / brooch callback
 
-### S1E16 — `The World Opens`
-- Voice Check GREEN LIGHT.
-- Otherworlder-origin correction locked.
-- Next: Stage 3 → Stage 4.
-- Primary files:
-  - `THE_ARRIVALS_S1E16_THE_WORLD_OPENS_GREEN_LIGHT_v0.1.md`
-  - `THE_ARRIVALS_S1E16_OTHERWORLDERS_ORIGIN_CORRECTION_v0.1.md`
+E14 has a locked visual-storytelling addendum:
+- `THE_ARRIVALS_S1E14_SUNSET_BROOCH_VISUAL_CALLBACK_ADDENDUM_v0.1.md`
 
-### S1E17 — `Guild Jobs / Working Days`
-- Voice Check GREEN LIGHT.
-- Next: Stage 3 → Stage 4.
-- Primary file: `THE_ARRIVALS_S1E17_GUILD_JOBS_WORKING_DAYS_GREEN_LIGHT_v0.1.md`
+At the late lake payoff, Frieren rests her head against Mau at sunset while the retained Fern-reunion hair ornament/brooch remains visible. Fern notices it before leaving them space. The callback communicates coexistence rather than replacement and adds no romance label.
 
-### S1E18 — `Day in the Life / Maomao Chocolate`
-- Voice Check GREEN LIGHT.
-- Revised final beat `What's a kiss?` is canon.
-- Next: Stage 3 → Stage 4.
-- Primary file: `THE_ARRIVALS_S1E18_DAY_IN_THE_LIFE_MAOMAO_CHOCOLATE_GREEN_LIGHT_v0.1.md`
+## E16 Otherworlder origin
 
-### S1E19 — `G3 / Road Days / Season Finale`
-- Revised Voice Check GREEN LIGHT.
-- One longer intercut finale: G1+G2 / G3 → nighttime home payoff → hard cut midday Sukuna → `So that brat is here.` → `Malevolent Shrine` → world realization → cursed-energy concealment.
-- Okarun knows an important person is missing from memory but cannot identify them; no `Ayase`, `Momo`, face or name before the intended S2 payoff.
-- Next: Stage 3 → Stage 4.
-- Primary files:
-  - `THE_ARRIVALS_S1E19_GREEN_LIGHT_v0.1.md`
-  - `THE_ARRIVALS_S1E19_OKARUN_MEMORY_AND_G3_GROUPS_REVISION_v0.1.md`
-  - `THE_ARRIVALS_S1_LATE_ORDER_AND_FINALE_v0.1.md`
+`Otherworlder` is coined in E16 as a new, mostly neutral descriptive term. There is no established registry/history/known recurring category at this point.
+
+## E18 chocolate guardrail
+
+Maomao's chocolate lowers inhibition but does not create desire, act as a truth serum, or canonize Frieren/Mau romance. No kiss contact occurs. Mau ends E18 sincerely asking:
+
+> `What's a kiss?`
+
+## E19 finale guardrails
+
+- E19 is one intercut episode, never `19A / 19B`.
+- Fixed G3 groupings remain:
+  - Okarun + Umaru + Kita;
+  - Coco + Qifrey + Wakana Gojo + Marin;
+  - Mikasa initially alone.
+- Okarun knows an important person is missing from memory but cannot identify name, face or relationship; no `Ayase` or `Momo` reveal in S1.
+- G3 remains days from G1+G2 and does not reach the inn in S1.
+- Sukuna hard cut is midday after the safe nighttime inn sequence.
+- Sukuna says `So that brat is here.` then uses `Domain Expansion. Malevolent Shrine.` before realizing the world/context is wrong.
+- Exact attack radius/casualty statistics remain unlocked.
+- Sukuna suppresses cursed energy after the catastrophe.
+- No Yuta reaction until S2E1.
+- Never return to the inn after the Sukuna hard cut.
 
 ---
 
 # Current production state
 
 ```text
-S1E1–S1E13
+S1E1–S1E19
 = LEVEL 4 / MANGA-READY
 
-S1E14–S1E19
-= STAGE 2 GREEN LIGHT / STAGE 3–4 PENDING
+HUMAN STORY / VOICE GATES
+= COMPLETE
+
+NEXT HUMAN GATE
+= STAGE 5 / ROUGH MANGA VISUAL REVIEW
 ```
 
-Human review does not resume until rough manga / Stage 5 unless a consequential unresolved canon, continuity or character issue appears.
+Human review does not resume until rough manga unless a consequential unresolved canon, continuity or character issue appears.
 
 ---
 
 # Continuum / M3 intake consequence
 
-**Panel scripts currently exist in Git for S1E1–S1E13.** Continuum may ingest those episodes as Level-4 source material once its project index is resynced.
+**Manga panel scripts now exist in Git for all S1E1–S1E19.**
 
-Recommended rollout remains:
-1. E1 chapter package first;
-2. generation attempts consume resolved reference manifests;
-3. validate generation lineage/review/persistence;
-4. then expose additional Level-4 episodes as production inputs;
-5. add E14–E19 sequentially as they reach Level 4.
+Continuum may ingest the entire Season 1 corpus as Level-4 source material once project indexing is resynced.
 
-M2 deterministic sketches are technical/test artifacts only and do not count as creative manga approval.
+Recommended rollout remains conservative:
+1. build the approved **S1E1 chapter package** first;
+2. make generation attempts consume resolved multi-reference manifests;
+3. validate generation lineage, batch orchestration, review, change propagation and persistence;
+4. run the creator + ChatGPT non-canon visual sample in color and B&W;
+5. after sample PASS, begin real S1E1 production;
+6. later episodes are already story/panel-ready and can enter the production queue without further Voice Check.
+
+M2 deterministic sketches remain technical/test artifacts only and do not count as creative manga approval.
 
 ---
 
@@ -192,9 +187,9 @@ controlled trust / power disclosure
 # Precedence / anti-staleness rule
 
 For production readiness, use this order:
-1. latest episode-specific full draft / manga panel script / Level-4 overview / GREEN LIGHT files on `creative/s1-season-board-v0.1`;
+1. latest episode-specific full draft / manga panel script / Level-4 overview / targeted addendum / GREEN LIGHT files on `creative/s1-season-board-v0.1`;
 2. this status overview;
 3. current production-pipeline rules;
 4. older rough roadmaps only where newer episode-specific files do not supersede them.
 
-Any earlier statement that says `S1E2–S1E19 = ready for Voice Check` is stale.
+Any earlier statement that says S1E2–S1E19 are waiting for Voice Check or Stage 3–4 is stale.

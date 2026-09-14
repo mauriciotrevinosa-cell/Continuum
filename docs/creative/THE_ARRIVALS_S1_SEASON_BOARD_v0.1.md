@@ -24,6 +24,15 @@ required S1 story beats
 
 Episode runtime is flexible. A story unit may be shorter, normal-length, or ~30 minutes if that is what it needs.
 
+Important working distinction:
+
+```text
+G1 arrival arc = characters physically gathered
+G1 family arc = characters have actually earned trust / belonging
+```
+
+The arrival arc may be complete around E6 while the family arc continues much longer.
+
 ---
 
 ## 2. Current S1 spine
@@ -32,8 +41,8 @@ Episode runtime is flexible. A story unit may be shorter, normal-length, or ~30 
 loss
 → survival
 → first home
-→ G1 formation
-→ bonding / systems / identity
+→ G1 arrival formation
+→ G1 family formation / bonding / systems / identity
 → G2 arrival + reunion
 → G3 introduced separately
 → widening world / growing hope
@@ -64,7 +73,7 @@ Fern disappears
 
 ---
 
-## 4. Episode 2 — high-confidence rough
+## 4. Episode 2 — First Home — HIGH-CONFIDENCE ROUGH
 
 Frieren and Mau continue exploring and find a very small abandoned settlement.
 
@@ -84,13 +93,186 @@ Night ending:
 - they hear Bocchi scream;
 - cut to end credits.
 
-Exact wording, timing, and whether Bocchi is found before or after the scream remain open until E2 is scripted.
+---
+
+## 5. Episode 3 — Bocchi — HIGH-CONFIDENCE ROUGH
+
+Open from Bocchi's perspective.
+
+Bocchi wakes disoriented near the abandoned settlement with a bird on top of her and screams. The scream is ordinary / Bocchi-like rather than caused by a major supernatural threat.
+
+Frieren and Mau find her. Bocchi is frightened and struggles to speak because of her social anxiety. Mau helps her up; Frieren carries / gathers her belongings. Frieren quietly notes how strange it is that another person appeared so close to the settlement.
+
+They bring her to the inn and explain simply that they are not from this world either and have only been here a few days. Mau reassures Bocchi that they will help her, shows her a room, and tells her it is hers for now.
+
+### Night beat
+
+Bocchi is cold, sees / notices light from the common area, and approaches. She hears Frieren crying.
+
+Shift perspective to Frieren and Mau. Frieren talks about Fern / failure / grief. Mau's response shows this is not the first night this has happened: he does not panic or over-explain; he holds her and lets her cry until she falls asleep.
+
+Bocchi realizes the two people who seemed stable are also suffering.
+
+After Frieren is asleep near Mau, possibly lightly holding his shirt, Bocchi approaches because she is cold and currently cannot tolerate being alone. Mau gives her a blanket and lets her stay near the fire. Before falling asleep, Bocchi quietly thanks him.
+
+### Closing movement
+
+A small multi-day montage establishes the first routine:
+- Bocchi helps mainly inside the inn because going far still scares her;
+- Mau and Frieren explore nearby, bringing back food / seeds / supplies;
+- basic repairs begin;
+- the building becomes cleaner and more habitable;
+- Bocchi sometimes plays guitar;
+- the three start functioning as a tiny household.
+
+End on the beginning of a real base rather than another arrival cliffhanger.
 
 ---
 
-## 5. Frieren + Mau recurring nighttime thread — rough / high-value
+## 6. Episode 4 — Yuta — HIGH-CONFIDENCE ROUGH
 
-A possible recurring E2–E3+ behavior:
+By this point Bocchi has been with Frieren and Mau for several days. Around the fourth day after Bocchi's arrival, Frieren proposes fishing at a nearby lake.
+
+At the lake Frieren senses an unfamiliar energy signature / cursed energy and Yuta detects Frieren's mana / danger. Both misread the other as a possible threat.
+
+A brief clash is enough:
+- Frieren fires Zoltraak defensively / as a warning;
+- Yuta cuts, deflects, or survives the shot with cursed-energy reinforcement / sword work;
+- Yuta is about to answer;
+- Mau looks at him and says: **"You're not from here either."**
+
+Yuta lowers his weapon. The conflict ends before becoming a real fight.
+
+Back at the inn, Yuta is capable of laughing / apologizing about the misunderstanding.
+
+### Arrival chronology revelation
+
+Yuta explains that according to his own memory, he lived far beyond the young body he currently has and believes he died at old age.
+
+This becomes the first strong proof that:
+
+```text
+source exit state != arrival body state
+source chronology != arrival chronology
+```
+
+Frieren connects this with anomalies she noticed on arrival: important belongings may appear despite not being carried, and the arrival phenomenon may reconstruct / alter the body.
+
+The implication hits her emotionally. She starts to say something like:
+
+> "Then maybe Fern can..."
+
+and stops herself.
+
+She does not want to fall back into the cycle of desperate hope she experienced during the week of searching.
+
+Mau notices the tiny spark of hope in her and notices her deliberately suppressing it. He does not force the subject. This is an intentional small beat showing that Frieren and Mau are already watching out for each other's emotional weak points.
+
+### Closing movement
+
+Yuta joins practical work around the settlement. The inn is still damaged, but the difference is visible: cleaner rooms, more supplies, patched openings / windows, stable food, increasingly functional common space.
+
+---
+
+## 7. Episode 5 — Ordinary Days — HIGH-CONFIDENCE ROUGH
+
+Do **not** introduce another major character immediately.
+
+This is a deliberate breathing episode / short story unit covering roughly two or three ordinary days with the current four-person group.
+
+Possible recurring material:
+- Yuta hunting / securing food and doing perimeter work;
+- Frieren gathering / cultivating / studying plants and checking the surrounding area;
+- Bocchi repairing / cleaning inside the inn and playing guitar;
+- Mau helping each of them, learning simple work, noticing what he enjoys and what he does not;
+- meals;
+- small repairs;
+- windows being patched;
+- Bocchi gradually going farther outside than before;
+- small Yuta–Mau interactions that seed their later deeper relationship;
+- Frieren noticing Mau becoming more independent without making it a conflict yet.
+
+Narrative purpose:
+
+> Before Rimuru arrives, the audience should know what this four-person household looks like when nothing extraordinary happens.
+
+The inn is becoming a home through repetition, not through one dramatic construction sequence.
+
+---
+
+## 8. Episode 6 — Rimuru / Raphael / first Mau overload — HIGH-CONFIDENCE ROUGH
+
+Open away from G1, entirely with Rimuru.
+
+Rimuru is disoriented and questioning Raphael. He asks whether she is really sure she knows nothing about the location / world. Raphael does not know and may react with a lightly offended tone because she has already been analyzing it.
+
+Rimuru remains optimistic and assumes he may eventually find Tempest or familiar people. Raphael detects signs of people / fire nearby.
+
+Rimuru's response is essentially:
+
+> **"People! Finally."**
+
+He approaches happily and discovers only a tiny half-broken settlement.
+
+Yuta is on patrol and detects a slime approaching. Raphael immediately recommends Rimuru take humanoid form before the armed stranger reacts. Rimuru transforms; Yuta is left confused rather than immediately hostile.
+
+### Raphael examining Mau
+
+Raphael passively analyzes the group.
+
+Frieren is strange but legible enough to inspect. Yuta's cursed energy is foreign but still presents analyzable behavior. Bocchi is comparatively ordinary.
+
+Mau does not.
+
+The problem is **not** that Raphael concludes Mau is overwhelmingly powerful. The problem is that repeated attempts fail to classify what he is.
+
+Raphael can attempt a Tensura-like analytical method: construct / copy a known pattern, ability, or conceptual structure and offer / use it as a comparison or tribute in order to force a read. It still does not resolve Mau.
+
+This should feel like a classification / ontology failure, not a power-level alarm.
+
+### Mau says Raphael's name
+
+Rimuru is personally friendly and approaches Mau normally.
+
+He may say something like:
+
+> "So you're Mau?"
+
+Mau studies him and, very quietly — low enough that only Rimuru hears — says:
+
+> **"Raphael."**
+
+Raphael is shocked. Rimuru freezes because Mau should have no way to know that name.
+
+Before Rimuru can ask how he knows, Mau experiences an internal overload: a violent mental noise / conceptual short circuit rather than a physical explosion. He collapses.
+
+Frieren is the first to reach him.
+
+### Recovery
+
+A small time jump of roughly one or two days.
+
+Mau wakes later in his room. Frieren is beside / on the bed reading a grimoire while watching him. Bocchi is also nearby, worried, quietly playing guitar.
+
+Mau's first ordinary question can be:
+
+> "What are you reading?"
+
+Frieren takes a moment to register that he is awake, puts the book down, and hugs him. Mau is confused by the intensity of her reaction.
+
+Later, in the common area, Mau explains that he remembers greeting Rimuru and then waking up; he does **not** remember recognizing Raphael or the overload itself.
+
+Raphael privately advises Rimuru not to push the question yet. She does not understand what happened and forcing another interaction may harm Mau again.
+
+End quietly with all five eating together. Thanks partly to Rimuru's practical expertise, the inn looks noticeably better, but it is still visibly a repaired ruin rather than a finished settlement.
+
+This completes the **G1 arrival arc**, not the G1 family arc.
+
+---
+
+## 9. Frieren + Mau recurring nighttime thread — rough / high-value
+
+A recurring E2–E3+ behavior:
 
 - Mau continues sleeping in Frieren's room rather than taking a separate room.
 - Practical reason: cold / first snow / damaged inn.
@@ -99,14 +281,9 @@ A possible recurring E2–E3+ behavior:
 - Mau comforts her and helps her fall asleep.
 - Frieren's friendlier / more open presentation may partly function as a defense mechanism while grief is still active.
 
-Bocchi can understand that Mau being there at night is not romantic; he is helping Frieren through grief.
+Bocchi comes to understand that Mau being there at night is not romantic; he is helping Frieren through grief.
 
-Possible early Bocchi beat:
-- Bocchi hears / realizes Frieren has fallen asleep;
-- Bocchi is frightened and does not know what to do with being alone in a strange world;
-- she quietly enters the room because she currently cannot handle sleeping alone.
-
-This can become an early found-family image without literal parent/child framing and without forcing romance.
+The E3 night is the first audience-facing proof of this established pattern.
 
 Potential later emotional plot:
 - Frieren sees Mau becoming more capable and starts focusing on other responsibilities because she assumes he no longer needs her as much;
@@ -117,7 +294,7 @@ Not locked yet; preserve for later character-arc placement.
 
 ---
 
-## 6. G1 formation
+## 10. G1 formation
 
 G1 remains:
 
@@ -129,27 +306,49 @@ Yuta Okkotsu
 Rimuru Tempest
 ```
 
-Important correction to earlier shorthand: **G1 does not need to be complete by Episode 6.** The formation arc may take longer if the character work benefits.
+Current high-confidence arrival order:
 
-The goal is not merely to place all five in one location. Each arrival needs enough first conflict, first trust, and first bonding that the group feels earned.
+```text
+Frieren + Mau
+→ Bocchi
+→ Yuta
+→ breathing / ordinary-days unit
+→ Rimuru
+```
 
-### Required / favored G1 bonding beat
+Current rough placement:
 
-At some point after several members have arrived, the group talks about their past lives / worlds / people they remember.
+```text
+E1 Frieren + Mau
+E2 first home
+E3 Bocchi
+E4 Yuta
+E5 ordinary days with four
+E6 Rimuru / G1 physically complete
+```
+
+Each arrival adds a different emotional / structural function:
+- Bocchi = vulnerability / learning to care for another frightened person;
+- Yuta = mature protection / another person who can carry emotionally difficult conversations;
+- Rimuru = organization / long-term rebuilding / future scale.
+
+### Required / favored G1 bonding beat after arrival arc
+
+At some point after G1 is physically complete, the group talks about their past lives / worlds / people they remember.
 
 Mau realizes everyone else has memories and he does not.
 
 He leaves for a while.
 
-Frieren wants to follow him, but Yuta tells her to stay / keep watch over the others and says he will speak with Mau.
+Frieren notices and wants to follow him, but Yuta tells her to stay / watch over the others and says he will speak with Mau.
 
-This gives Yuta and Mau a real relationship beat and lets Mau's amnesia hurt emotionally rather than exist only as lore.
+This gives Yuta and Mau a relationship independent of Frieren and lets Mau's amnesia hurt emotionally rather than exist only as lore.
 
-Placement remains open; likely after Yuta and before or around Rimuru's integration.
+This beat belongs to the **family arc after E6**, not necessarily to the arrival arc.
 
 ---
 
-## 7. First-home / world-expansion progression
+## 11. First-home / world-expansion progression
 
 The abandoned mini-settlement is the first shared base.
 
@@ -167,9 +366,11 @@ Early progression can include:
 
 Rimuru's arrival can accelerate organization and development, but the home must still feel collectively built rather than instantly solved by one character.
 
+The audience should become attached to this imperfect first home so that the later S2 decision to leave it actually hurts.
+
 ---
 
-## 8. G2 — primordial S1 group
+## 12. G2 — primordial S1 group
 
 G2 remains:
 
@@ -192,7 +393,7 @@ Required future work:
 
 ---
 
-## 9. G3 — introduced in S1, not yet connected to the main group
+## 13. G3 — introduced in S1, not yet connected to the main group
 
 G3 remains a parallel-world thread during S1.
 
@@ -222,7 +423,7 @@ Favored current bridge: their real connection to the main group happens later ar
 
 ---
 
-## 10. Mau flower-field payoff
+## 14. Mau flower-field payoff
 
 Frieren's flower magic remains an important early emotional / system benchmark.
 
@@ -232,7 +433,7 @@ Do not place it too early; it should prove development.
 
 ---
 
-## 11. Season 1 ending
+## 15. Season 1 ending
 
 S1 should allow real hope and an increasingly functional shared home before the tonal reversal.
 
@@ -242,7 +443,7 @@ The audience may end S1 knowing the threat before the protagonists do.
 
 ---
 
-## 12. Known Season 2 bridge — preserve during S1 planning
+## 16. Known Season 2 bridge — preserve during S1 planning
 
 Existing S2 rough remains active:
 
@@ -271,11 +472,11 @@ This is a candidate secure-territory direction, not locked geography yet.
 
 ---
 
-## 13. Ten things to define before calculating the minimum S1 episode count
+## 17. Ten things to define before calculating the minimum S1 episode count
 
 Resolve these one at a time:
 
-1. **G1 arrival order and arrival situations** — Bocchi, Yuta, Rimuru.
+1. **G1 arrival order and arrival situations — RESOLVED / HIGH-CONFIDENCE ROUGH.** E1–E6 roadmap above.
 2. **G1 integration requirements** — what each needs before they truly feel part of the family.
 3. **First-home progression** — what changes in the mini-settlement and when.
 4. **Mau early emotional arc** — amnesia, dependence / independence, Frieren distance, Yuta conversation, first major growth.
@@ -310,10 +511,10 @@ No quota is assumed in advance.
 
 ---
 
-## 14. Next Story Room task
+## 18. Next Story Room task
 
-Start with item 1 only:
+Item 1 is now sufficiently stable for minimum-episode planning.
 
-**Define the exact G1 arrival order and arrival situations for Bocchi, Yuta, and Rimuru.**
+Next:
 
-Once item 1 is stable, move to item 2.
+**2. Define what Frieren, Mau, Bocchi, Yuta, and Rimuru each need before G1 genuinely feels like a family rather than five people sharing a base.**

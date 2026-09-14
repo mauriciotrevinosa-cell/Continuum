@@ -264,7 +264,8 @@ def series_detail(session: Session, series_key: str) -> dict[str, Any]:
         if view["kind"] == UnitKind.VIDEO.value:
             label = "Other videos"
         if view["subseries"]:
-            label = view["subseries"] if view["season"] is None else f"{view['subseries']} · {label}"
+            program = view["subseries"]
+            label = program if view["season"] is None else f"{program} · {label}"
         seasons.setdefault(label, []).append(view)
     works: dict[str, list[dict[str, Any]]] = {}
     for view in reading:

@@ -213,10 +213,30 @@ The UI should make it immediately obvious how much of Season 1 is ready for mang
 
 The exact count shown by the UI must be driven by committed project state rather than hard-coded assumptions.
 
-## 7. Near-term workflow
+## 7. Step 0 — E1 parity audit for S1E2–E15
+
+Before the late-S1 ordering work, maintain a simple parity view answering: **what is still missing for each S1E2–E15 episode to reach the same manga-readiness level as S1E1?**
+
+S1E1 is already Level 4 and therefore has no remaining creative/documentation gate before rough manga production. Its remaining blockers are production-infrastructure blockers shared by the project, such as the visual generation stack / Vault readiness; those do not reduce E1's creative readiness level.
+
+For S1E2–E15, the normal remaining path to E1 parity is:
+
+1. **Fast structure confirmation** — verify the existing roadmap still works; do not rebuild Story Room material unnecessarily.
+2. **Voice Check + human GREEN LIGHT** — approve representative dialogue / character behavior.
+3. **Full Episode Construction** — assistant converts the approved roadmap into the detailed continuous episode draft using E1 as the writing standard.
+4. **Manga Panelization + Production QC** — assistant converts the completed episode into a manga panel script and checks continuity / production readiness.
+
+After those four gates, the episode becomes **Level 4 / manga-ready**, equivalent in readiness to S1E1, and the next human checkpoint is Stage 5 after rough manga exists.
+
+This means that for episodes already genuinely at Level 3, the human does not need to repeat E1's full heavy Story Room process. Human work is concentrated in the quick structure confirmation and Voice Check; the assistant completes the two large execution passes after GREEN LIGHT.
+
+The UI should eventually expose this parity gap per episode so it is obvious which exact gate prevents an episode from reaching Level 4.
+
+## 8. Near-term workflow
 
 Current intended sequence:
 
+0. audit S1E2–E15 against S1E1 and track the exact remaining parity gates described above;
 1. review / arrange the final three late-S1 full-length episodes;
 2. give the remaining late-S1 concepts a rapid structural pass;
 3. move qualified episodes into Voice Check;
@@ -228,7 +248,7 @@ Current intended sequence:
 9. once the generation stack is stable, start rendering E1 while later episodes continue through the creative pipeline;
 10. as S1 approaches completion, expand the already-established S2 opening material ahead of production.
 
-## 8. Source-of-truth principle
+## 9. Source-of-truth principle
 
 The project must be recoverable from Git without relying on chat history.
 

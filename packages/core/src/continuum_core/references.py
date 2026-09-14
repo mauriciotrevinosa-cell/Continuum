@@ -234,6 +234,10 @@ class BundleRole(StrEnum):
     MOOD = "MOOD"
     SOURCE_PLATE = "SOURCE_PLATE"
     CONTINUITY = "CONTINUITY"
+    GRAMMAR = "GRAMMAR"
+    """A manga page used for structure: panel rhythm, flow, pacing. Never identity."""
+    ENVIRONMENT = "ENVIRONMENT"
+    """A page used for how a place is drawn. Never overrides the project's own setting canon."""
 
 
 class RoughMode(StrEnum):
@@ -334,6 +338,12 @@ class DerivativeKind(StrEnum):
     OUTPUT = "OUTPUT"
     MASK = "MASK"
     SOURCE_CROP = "SOURCE_CROP"
+    COMPOSITION_MASTER = "COMPOSITION_MASTER"
+    """The page composition both finishes derive from (M3)."""
+    BW_FINISH = "BW_FINISH"
+    """Black-and-white manga finish of the master."""
+    COLOR_FINISH = "COLOR_FINISH"
+    """Color finish of the same master."""
 
 
 class CharacterOrigin(StrEnum):

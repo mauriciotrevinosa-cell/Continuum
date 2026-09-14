@@ -154,8 +154,17 @@ class TestMigrationRoundTrip:
     """Needs a live database."""
 
     def test_clean_upgrade_then_downgrade_then_upgrade(self, db_settings) -> None:
+        from continuum_db.session import reset_engine, session_scope
+
+        from tests.phase1_world import clean_domain_tables
+
         home = str(db_settings.data_home)
         assert _alembic("upgrade", "head", data_home=home).returncode == 0
+        # Later revisions refuse to downgrade over rows they cannot represent;
+        # a clean round trip starts from empty domain tables (test database only).
+        with session_scope(db_settings) as session:
+            clean_domain_tables(session)
+        reset_engine()
         down = _alembic("downgrade", "base", data_home=home)
         assert down.returncode == 0, down.stderr
         up = _alembic("upgrade", "head", data_home=home)
@@ -165,7 +174,7 @@ class TestMigrationRoundTrip:
         home = str(db_settings.data_home)
         _alembic("upgrade", "head", data_home=home)
         current = _alembic("current", data_home=home)
-        assert "0004_m2_closeout (head)" in current.stdout
+        assert "0005_m3_manga (head)" in current.stdout
 
 
 @pytest.mark.requires_db
@@ -186,7 +195,7 @@ class TestPhaseOneSchemaMatchesTheModels:
         from sqlalchemy import Enum, create_engine
 
         assert _alembic("upgrade", "head", data_home=str(db_settings.data_home)).returncode == 0
-        phase1 = {t for t, (phase, _) in TABLE_REGISTRY.items() if phase in (1, 1.5)}
+        phase1 = {t for t, (phase, _) in TABLE_REGISTRY.items() if phase in (1, 1.5, 3)}
         enum_checks = {
             f"ck_{table.name}_{column.type.name}"
             for table in Base.metadata.tables.values()

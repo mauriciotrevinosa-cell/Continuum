@@ -42,6 +42,14 @@ from continuum_db.models.library import (
     ReferenceUseLink,
     VisualMode,
 )
+from continuum_db.models.manga import (
+    ContinuityState,
+    MaterializedChapter,
+    PageDependency,
+    ProductionPage,
+    ProductionProfile,
+    ProductionRun,
+)
 from continuum_db.models.production import (
     AttemptDerivative,
     AttemptInput,
@@ -63,6 +71,7 @@ __all__ = [
     "ChapterPackage",
     "CharacterOutfit",
     "CharacterProfile",
+    "ContinuityState",
     "GenerationRecipe",
     "IntakeBatch",
     "Job",
@@ -72,8 +81,13 @@ __all__ = [
     "JobStep",
     "LibraryAsset",
     "LibraryAssetLocation",
+    "MaterializedChapter",
     "MediaProgress",
     "MusicReference",
+    "PageDependency",
+    "ProductionPage",
+    "ProductionProfile",
+    "ProductionRun",
     "ProjectPanelSource",
     "ProjectReferenceStanding",
     "ProjectVisualModeAssignment",

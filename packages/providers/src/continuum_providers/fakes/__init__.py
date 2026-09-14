@@ -13,6 +13,7 @@ invariant of ADR-0002 section 2.
 from __future__ import annotations
 
 import hashlib
+from typing import Any
 
 from continuum_core import ProviderUnavailableError
 
@@ -31,6 +32,7 @@ from continuum_providers.contracts import (
 __all__ = [
     "UNSATISFIABLE_CAPABILITY",
     "DeterministicEmbeddingProvider",
+    "DeterministicPageProvider",
     "DeterministicSketchProvider",
     "EchoTextProvider",
     "NullImageProvider",
@@ -190,4 +192,96 @@ class DeterministicSketchProvider:
             width=rendered.width,
             height=rendered.height,
             usage={"data_class": request.data_class.value},
+        )
+
+
+class DeterministicPageProvider:
+    """The test backend for page production: a labelled diagram, never artwork.
+
+    It draws a composition master (the page's key, characters, dialogue and
+    directions as a sketch), then derives both finishes from that master - a
+    black-and-white screentone finish and a tinted "color" finish - so the
+    sibling-derivative invariant is exercised without a model.
+    """
+
+    WORKFLOW = "test.page-sketch.v1"
+
+    def __init__(self) -> None:
+        from continuum_core.references import RenderOutput
+
+        from continuum_providers.artwork import ArtworkBackendKind, ArtworkCapabilities
+
+        self.backend = ArtworkBackendKind.TEST
+        self.capabilities = ArtworkCapabilities(
+            output=RenderOutput.TEST_RENDER,
+            max_reference_images=64,
+            sibling_finishes=True,
+            layout_conditioning=True,
+            seeded=True,
+            notes="Deterministic diagrams for workflow tests. Never artwork.",
+        )
+
+    descriptor = ProviderDescriptor(
+        id="fake.deterministic-page",
+        capabilities=frozenset({Capability.PAGE_RENDER}),
+        locality=Locality.LOCAL,
+        cost_class=CostClass.FREE,
+        privacy_class=PrivacyClass.ON_DEVICE,
+        model_ref=None,
+        version="1",
+        license_note="Fake provider. Draws page diagrams with Pillow; no model weights.",
+    )
+
+    def render_page(self, request):  # type: ignore[no-untyped-def]
+        from continuum_core.references import RenderOutput
+        from continuum_imaging.manga import bw_finish, tint_finish
+        from continuum_imaging.sketch import SketchReference, SketchRequest, render_sketch
+
+        from continuum_providers.artwork import PageRenderResult, RenderedImage
+
+        page = request.page
+        lines = [
+            f"{page.get('page_key', request.page_key)} - {', '.join(page.get('characters') or [])}",
+            *[
+                f"{d.get('speaker') or d.get('kind')}: {d.get('text')}"
+                for d in page.get("dialogue") or []
+            ],
+            *list(page.get("directions") or [])[:6],
+            "deterministic page sketch - no model",
+        ]
+        master = render_sketch(
+            SketchRequest(
+                width=request.width,
+                height=request.height,
+                mode="NEW_GENERATION",
+                seed=request.seed,
+                title=request.page_key,
+                lines=tuple(lines),
+                references=tuple(
+                    SketchReference(r.role, r.character or r.role.lower(), r.data, None)
+                    for r in request.references[:8]
+                ),
+            )
+        )
+        bw = bw_finish(master.data)
+        color = tint_finish(master.data, request.seed)
+
+        def image(encoded: Any) -> RenderedImage:
+            return RenderedImage(encoded.data, encoded.mime, encoded.width, encoded.height)
+
+        rendered = image(master)
+        return PageRenderResult(
+            backend=self.backend,
+            provider_id=self.descriptor.id,
+            output=RenderOutput.TEST_RENDER,
+            master=rendered,
+            bw=image(bw),
+            color=image(color),
+            provenance={
+                "backend": self.backend.value,
+                "workflow": {"id": self.WORKFLOW, "version": "1"},
+                "settings": {"width": request.width, "height": request.height},
+                "seed": request.seed,
+                "master_sha256": rendered.sha256,
+            },
         )

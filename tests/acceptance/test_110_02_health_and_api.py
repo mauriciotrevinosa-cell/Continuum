@@ -290,6 +290,17 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/production/attempts/{attempt_id}/image",
             "/production/attempts/{attempt_id}/review",
             "/production/attempts/{attempt_id}/continuity",
+            # M3: page-by-page manga production.
+            "/projects/{project_id}/production-profiles",
+            "/projects/{project_id}/episodes/{episode}/materialize",
+            "/projects/{project_id}/episodes/{episode}/canonical-readiness",
+            "/projects/{project_id}/production-runs",
+            "/production/runs/{run_id}",
+            "/production/runs/{run_id}/refresh",
+            "/production/runs/{run_id}/sample-decision",
+            "/production/pages/{page_id}",
+            "/production/pages/{page_id}/attempts",
+            "/production/page-attempts/{attempt_id}/review",
             # Phase 1.5 full-Vault catalog: roots and series by key, units and
             # archive members by id, media by opaque id - never a path.
             "/catalog/roots",

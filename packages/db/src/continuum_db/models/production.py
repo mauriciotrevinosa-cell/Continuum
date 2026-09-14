@@ -82,6 +82,10 @@ class RoughArtifact(Base):
         server_default=RoughPurpose.PRODUCTION.value,
     )
     title: Mapped[str] = mapped_column(String(300), nullable=False, default="")
+    #: M3: the production run the page belongs to (keeps two sample runs apart).
+    production_run_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("production_run.id", ondelete="RESTRICT"), nullable=True
+    )
     #: The approved panel-script document (project manifest id) and version.
     panel_script_document: Mapped[str | None] = mapped_column(String(80), nullable=True)
     panel_script_version: Mapped[str | None] = mapped_column(String(20), nullable=True)
@@ -97,6 +101,7 @@ class RoughArtifact(Base):
         UniqueConstraint(
             "project_key",
             "purpose",
+            "production_run_id",
             "episode",
             "page",
             "panel",
@@ -160,6 +165,21 @@ class RoughAttempt(Base):
     output_class: Mapped[RenderOutput | None] = mapped_column(
         enum_type(RenderOutput, "render_output"), nullable=True
     )
+    #: M3: the production page, continuity version and profile it was made for.
+    production_page_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("production_page.id", ondelete="RESTRICT"), nullable=True
+    )
+    continuity_state_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("continuity_state.id", ondelete="RESTRICT"), nullable=True
+    )
+    profile_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("production_profile.id", ondelete="RESTRICT"), nullable=True
+    )
+    #: Exact backend, model/checkpoint (name, version, sha256, license, source),
+    #: workflow (id, version, sha256) and settings. Required for artwork.
+    artwork_provenance: Mapped[dict[str, Any]] = mapped_column(
+        JSONB, nullable=False, default=dict, server_default="{}"
+    )
     mime: Mapped[str | None] = mapped_column(String(40), nullable=True)
     width: Mapped[int | None] = mapped_column(Integer, nullable=True)
     height: Mapped[int | None] = mapped_column(Integer, nullable=True)
@@ -179,6 +199,12 @@ class RoughAttempt(Base):
             "state NOT IN ('CREATIVE_APPROVED', 'FINAL_APPROVED')"
             " OR output_class = 'ARTWORK_CANDIDATE'",
             name="creative_approval_needs_artwork",
+        ),
+        CheckConstraint(
+            "output_class IS DISTINCT FROM 'ARTWORK_CANDIDATE' OR (artwork_provenance ? 'model'"
+            " AND artwork_provenance ? 'workflow' AND artwork_provenance ? 'settings'"
+            " AND artwork_provenance ? 'backend')",
+            name="artwork_is_reproducible",
         ),
         CheckConstraint(
             "content_hash IS NULL OR content_hash ~ '^[0-9a-f]{64}$'", name="content_hash_is_sha256"

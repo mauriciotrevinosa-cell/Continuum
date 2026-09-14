@@ -69,4 +69,11 @@ TABLE_REGISTRY: dict[str, tuple[float, Tier]] = {
     "reference_manifest": (1.5, Tier.C_PROJECT),
     "chapter_package": (1.5, Tier.C_PROJECT),
     "music_reference": (1.5, Tier.C_PROJECT),
+    # M3 - page-by-page manga production
+    "materialized_chapter": (3, Tier.C_PROJECT),
+    "production_profile": (3, Tier.C_PROJECT),
+    "production_run": (3, Tier.D_GENERATED),
+    "production_page": (3, Tier.D_GENERATED),
+    "continuity_state": (3, Tier.D_GENERATED),
+    "page_dependency": (3, Tier.D_GENERATED),
 }

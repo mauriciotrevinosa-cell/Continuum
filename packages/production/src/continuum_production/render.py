@@ -30,6 +30,7 @@ from continuum_core import (
     ContinuumError,
     ErrorCategory,
     NormalizedRegion,
+    ProviderUnavailableError,
     parse_locator,
 )
 from continuum_core.references import (
@@ -97,6 +98,8 @@ def render_attempt(
     recipe = session.get(GenerationRecipe, attempt.recipe_id)
     artifact = session.get(RoughArtifact, attempt.artifact_id)
     assert recipe is not None and artifact is not None
+    if attempt.production_page_id is not None:
+        return _render_page(session, attempt, recipe, catalog=catalog, providers=providers)
     intent, execution = recipe.intent, recipe.execution
     inputs = list(
         session.execute(
@@ -243,6 +246,20 @@ def render_attempt(
     attempt.output_class = RenderOutput(
         getattr(descriptor, "rough_output", RenderOutput.TEST_RENDER)
     )
+    # What drew it, as the renderer reports it - required for artwork candidates.
+    attempt.artwork_provenance = {
+        "backend": result.provider_id,
+        "model": {
+            "name": result.model_ref,
+            "version": result.version,
+            "license": getattr(descriptor, "license_note", ""),
+        },
+        "workflow": {"id": result.workflow},
+        "settings": {
+            key: execution.get(key)
+            for key in ("seed", "width", "height", "strength", "inpaint", "control_inputs")
+        },
+    }
     attempt.content_hash = output_hash
     attempt.mime = info.mime
     attempt.width = info.width
@@ -312,3 +329,152 @@ def _lines(intent: dict[str, Any]) -> list[str]:
     if modes:
         lines.append("modes: " + ", ".join(modes))
     return lines[:4]
+
+
+def _store_derivative(
+    session: Session,
+    catalog: ReferenceCatalog,
+    attempt: RoughAttempt,
+    kind: DerivativeKind,
+    data: bytes,
+    detail: dict[str, Any],
+) -> str:
+    image = probe(data)
+    stored = catalog.store_bytes(
+        data, root_key=GENERATED_ROOT, medium=AssetMedium.IMAGE, origin=AssetOrigin.GENERATED
+    )
+    exists = session.execute(
+        select(AttemptDerivative.id).where(
+            AttemptDerivative.attempt_id == attempt.id,
+            AttemptDerivative.kind == kind,
+            AttemptDerivative.content_hash == stored.content_hash,
+        )
+    ).scalar_one_or_none()
+    if exists is None:
+        session.add(
+            AttemptDerivative(
+                attempt_id=attempt.id,
+                kind=kind,
+                content_hash=stored.content_hash,
+                mime=image.mime,
+                width=image.width,
+                height=image.height,
+                detail=detail,
+            )
+        )
+    return stored.content_hash
+
+
+def _render_page(
+    session: Session,
+    attempt: RoughAttempt,
+    recipe: GenerationRecipe,
+    *,
+    catalog: ReferenceCatalog,
+    providers: ProviderRegistry,
+) -> dict[str, Any]:
+    """A production page: one composition master and its two sibling finishes."""
+    from continuum_providers.artwork import (
+        ArtworkReference,
+        PageRenderProvider,
+        PageRenderRequest,
+        capability_gaps,
+        check_result,
+    )
+
+    execution = recipe.execution
+    bundle = recipe.intent["page_bundle"]
+    provider_id = str(execution.get("provider_id") or "fake.deterministic-page")
+    provider = providers.get(provider_id)
+    if not isinstance(provider, PageRenderProvider):
+        raise ProviderUnavailableError(
+            f"{provider_id} cannot render manga pages.",
+            remediation="Choose a PAGE_RENDER backend in the production profile.",
+            blocked_reason=BlockedReason.MISSING_PROVIDER.value,
+        )
+    names = {c["character_id"]: c["name"] for c in bundle.get("characters") or []}
+    inputs = list(
+        session.execute(
+            select(AttemptInput)
+            .where(AttemptInput.attempt_id == attempt.id)
+            .order_by(AttemptInput.position)
+        ).scalars()
+    )
+    references = [
+        ArtworkReference(
+            role=row.role.value,
+            reference_id=str(row.reference_id) if row.reference_id else row.locator,
+            data=_input_bytes(session, catalog, row),
+            character=names.get(str(row.character_id)) if row.character_id else None,
+            provenance=dict(row.provenance or {}),
+        )
+        for row in inputs
+    ]
+    derived = catalog.derived
+    assert derived is not None
+    for approved in (bundle.get("continuity") or {}).get("approved_pages") or []:
+        digest = approved["master_sha256"]
+        if derived.has(GENERATED_ROOT, digest):
+            references.append(
+                ArtworkReference(
+                    role="CONTINUITY",
+                    reference_id=f"page:{approved['sequence']}:{digest}",
+                    data=derived.get_bytes(GENERATED_ROOT, digest),
+                    teaches=("identity", "wardrobe", "setting", "lighting"),
+                    provenance={"attempt_id": approved["attempt_id"]},
+                )
+            )
+    request = PageRenderRequest(
+        page_key=bundle["page"]["page_key"],
+        width=int(execution["width"]),
+        height=int(execution["height"]),
+        seed=int(execution["seed"]),
+        page=bundle["page"],
+        plan=bundle.get("plan") or {},
+        continuity=bundle.get("continuity") or {},
+        references=tuple(references),
+        settings={**(execution.get("backend_settings") or {}), "workflow": execution["workflow"]},
+    )
+    gaps = capability_gaps(provider.capabilities, request)
+    if gaps:
+        raise ProviderUnavailableError(
+            f"{provider_id} cannot render this page: " + "; ".join(gaps),
+            remediation="Use a backend whose capabilities cover the page, or change the profile.",
+            blocked_reason=BlockedReason.MISSING_PROVIDER.value,
+        )
+    result = provider.render_page(request)
+    problems = check_result(result)
+    if problems:
+        raise ProviderUnavailableError(
+            "The backend's result was refused: " + "; ".join(problems),
+            remediation="Fix the backend or its workflow so results are reproducible siblings.",
+            blocked_reason=BlockedReason.MISSING_MODEL.value,
+        )
+    master = _store_derivative(
+        session, catalog, attempt, DerivativeKind.COMPOSITION_MASTER, result.master.data, {}
+    )
+    detail = {"master_sha256": master, "provider_id": result.provider_id}
+    _store_derivative(session, catalog, attempt, DerivativeKind.OUTPUT, result.master.data, detail)
+    _store_derivative(session, catalog, attempt, DerivativeKind.BW_FINISH, result.bw.data, detail)
+    _store_derivative(
+        session, catalog, attempt, DerivativeKind.COLOR_FINISH, result.color.data, detail
+    )
+    attempt.artwork_provenance = {
+        **result.provenance,
+        "backend": result.backend.value,
+        "provider_id": result.provider_id,
+        "master_sha256": master,
+        "references": [
+            {"role": r.role, "reference_id": r.reference_id, "character": r.character}
+            for r in references
+        ],
+    }
+    attempt.output_class = RenderOutput(result.output)
+    attempt.state = AttemptState.GENERATED
+    attempt.content_hash = master
+    attempt.mime = result.master.mime
+    attempt.width = result.master.width
+    attempt.height = result.master.height
+    attempt.generated_at = dt.datetime.now(dt.UTC)
+    session.flush()
+    return {"attempt_id": str(attempt.id), "content_hash": master, "provider_id": provider_id}

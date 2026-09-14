@@ -34,12 +34,14 @@ from continuum_core.references import (
     ProjectStanding,
     ReferenceClass,
     ReferenceOrigin,
+    ReferenceUse,
 )
 from continuum_db.models import (
     CharacterProfile,
     ProjectReferenceStanding,
     ReferenceCharacter,
     ReferenceItem,
+    ReferenceUseLink,
 )
 from continuum_library import CatalogNotFoundError, ReferenceCatalog
 from continuum_storage import ProjectLibrary
@@ -221,6 +223,41 @@ def character_manifest(
             }
         )
 
+    styled = {
+        str(row)
+        for row in session.execute(
+            select(ReferenceUseLink.reference_id).where(
+                ReferenceUseLink.use == ReferenceUse.STYLE,
+                ReferenceUseLink.reference_id.in_(
+                    [uuid.UUID(e["reference_id"]) for f in facets.values() for e in f]
+                    or [uuid.uuid4()]
+                ),
+            )
+        ).scalars()
+    }
+    grounding: dict[str, list[str]] = {}
+    stylization: set[str] = set()
+    for name in REQUIRED_FACETS:
+        chosen: list[str] = []
+        for entry in facets[name]:
+            origin = entry["reference"]["origin"]
+            if original:
+                # Only the creator's own references (photos) ground an original
+                # character; concepts and generated art guide stylization only.
+                photo = (
+                    origin == ReferenceOrigin.USER_CREATED.value
+                    and entry["reference_id"] not in styled
+                )
+                if photo:
+                    chosen.append(entry["reference_id"])
+                else:
+                    stylization.add(entry["reference_id"])
+            elif entry["lane"] in {"canonical_manga", "anime", "official_art"}:
+                chosen.append(entry["reference_id"])
+            else:
+                stylization.add(entry["reference_id"])
+        grounding[name] = list(dict.fromkeys(chosen))
+    ungrounded = [name for name in REQUIRED_FACETS if not grounding[name]]
     missing = [name for name in REQUIRED_FACETS if not facets[name]]
     if original and missing:
         warnings.append(
@@ -249,5 +286,11 @@ def character_manifest(
         ],
         "not_selected": not_selected,
         "usable": not missing,
+        #: Required facets and the references that may ground them in generation.
+        "grounding": grounding,
+        "grounded": not ungrounded,
+        "ungrounded": ungrounded,
+        #: References that may guide style but never define identity or body.
+        "stylization": sorted(stylization),
         "warnings": sorted(set(warnings)),
     }

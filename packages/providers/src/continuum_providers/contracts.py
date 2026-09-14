@@ -57,6 +57,9 @@ class Capability(StrEnum):
     ROUGH_RENDER = "ROUGH_RENDER"
     """A reviewable rough panel or page from a recipe: new, source-derived,
     composite or layout-only. Not final art (Phase 1 rough manga pipeline)."""
+    PAGE_RENDER = "PAGE_RENDER"
+    """A manga page: a composition master and its black-and-white and color
+    finishes, from a materialized page and its reference bundle (M3)."""
 
 
 class Locality(StrEnum):

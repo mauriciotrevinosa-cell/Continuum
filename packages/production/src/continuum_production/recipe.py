@@ -232,10 +232,15 @@ def execution_document(
 ) -> dict[str, Any]:
     """The execution half, with every field a real edit workflow will need."""
     allowed_extra = {"strength", "inpaint", "control_inputs", "compositing", "post_processing"}
-    unknown = set(extra) - allowed_extra
+    # Page production (M3) names its artwork backend and that backend's settings.
+    # Panel recipes never carry these keys, so their hashes are unchanged.
+    page_extra = {"provider_id", "backend_settings"}
+    unknown = set(extra) - allowed_extra - page_extra
     if unknown:
         raise CatalogInputError(f"Unknown execution settings: {', '.join(sorted(unknown))}.")
+    page = {key: extra[key] for key in sorted(page_extra) if key in extra}
     return {
+        **page,
         "schema": RECIPE_SCHEMA_VERSION,
         "capability": "ROUGH_RENDER",
         "workflow": workflow,

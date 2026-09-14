@@ -91,6 +91,7 @@ def build_default_registry(policy: ProviderPolicy | None = None) -> ProviderRegi
     """
     from continuum_providers.fakes import (
         DeterministicEmbeddingProvider,
+        DeterministicPageProvider,
         DeterministicSketchProvider,
         EchoTextProvider,
         NullImageProvider,
@@ -101,4 +102,5 @@ def build_default_registry(policy: ProviderPolicy | None = None) -> ProviderRegi
     registry.register(DeterministicEmbeddingProvider())
     registry.register(NullImageProvider())
     registry.register(DeterministicSketchProvider())
+    registry.register(DeterministicPageProvider())
     return registry

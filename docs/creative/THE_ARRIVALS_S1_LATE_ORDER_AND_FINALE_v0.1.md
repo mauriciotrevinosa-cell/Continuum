@@ -53,11 +53,40 @@ Current approved finale direction:
    - shift to Sukuna in the middle of the day in the major native city / regional city tied to the wider trade world;
    - exact clock continuity with the immediately preceding campfire scene does not need to be implied unless later story/calendar work intentionally locks it; this can be a deliberate perspective/time shift.
 
-4. **Final season beat**
-   - Sukuna recognizes / detects enough to understand that Yuta / another known presence is in this world;
-   - reaction direction remains in the spirit of: `So that brat is here.`
-   - Sukuna uses **Domain Expansion: Malevolent Shrine**;
+4. **Final season beat — Yuta-triggered impulse**
+   - Sukuna senses / recognizes Yuta's cursed-energy presence strongly enough to understand that Yuta is also in this world;
+   - this recognition matters causally: the destruction is **not** framed as Sukuna using Malevolent Shrine for no reason;
+   - sensing Yuta produces an impulsive, aggressive reaction in Sukuna, carrying emotional momentum from their prior conflict / his existing attitude toward Yuta;
+   - Sukuna's reaction remains:
+
+> **“So that brat is here.”**
+
+   - in that impulse, Sukuna uses **Domain Expansion: Malevolent Shrine**;
    - the city catastrophe becomes the final image / sequence of Season 1.
+
+## Sukuna realization after the impulse — S1→S2 bridge
+
+Very shortly after the destructive impulse, Sukuna begins to notice that something is wrong with the situation itself.
+
+The environment does not feel like the place / circumstances of the battle he remembers. The surrounding world, atmosphere, context, and broader situation are different enough that he understands he is **not simply continuing the same fight in the same location**.
+
+This realization should not remove the damage already done. The catastrophe has happened because Sukuna reacted before fully assessing where he was.
+
+Once Sukuna understands that the world is different, he becomes more deliberate and suppresses / conceals his cursed-energy presence rather than continuing to broadcast it openly.
+
+This creates the intended bridge into early S2:
+
+```text
+Sukuna senses Yuta
+→ “So that brat is here.”
+→ impulsive Malevolent Shrine / catastrophe
+→ Sukuna realizes the environment is not the prior battlefield / world context
+→ Sukuna suppresses / hides his cursed energy
+→ Yuta can briefly sense Sukuna and experience genuine terror
+→ the signal disappears before Yuta can simply track him
+```
+
+The disappearance of Sukuna's detectable presence is therefore intentional concealment after situational realization, not Sukuna literally vanishing from the world.
 
 ## Finale principle
 
@@ -69,9 +98,13 @@ The ending should create contrast:
 
 → `midday Sukuna POV`
 
+→ `Yuta recognition / “So that brat is here.”`
+
 → `Malevolent Shrine / catastrophe`
 
 The purpose is to end S1 by showing that all the ordinary life, new relationships, trade routes, homes, and future arrivals now exist under a threat that none of the main groups fully understands yet.
+
+The Sukuna beat is character-driven rather than random: Yuta is the trigger for the immediate violent impulse, while Sukuna's realization that this world is different motivates the concealment that follows.
 
 ## G3 / Road Days status
 

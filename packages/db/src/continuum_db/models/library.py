@@ -22,6 +22,7 @@ import uuid
 from typing import Any
 
 from continuum_core import uuid7
+from continuum_core.catalog import RightsStatus, TrainingEligibility
 from continuum_core.references import (
     AssetMedium,
     AssetOrigin,
@@ -271,6 +272,20 @@ class ReferenceItem(Base):
     source_url: Mapped[str | None] = mapped_column(Text, nullable=True)
     creator_handle: Mapped[str | None] = mapped_column(String(200), nullable=True)
     favorite: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
+    #: The named collection a reference was imported with ('' when none).
+    collection: Mapped[str] = mapped_column(String(120), nullable=False, default="")
+    #: When the material was published where it was found, if known.
+    source_posted_at: Mapped[dt.datetime | None] = mapped_column(TimestampTz, nullable=True)
+    #: Never assumed: unknown until a person records otherwise.
+    rights_status: Mapped[RightsStatus] = mapped_column(
+        enum_type(RightsStatus, "rights_status"), nullable=False, default=RightsStatus.UNKNOWN
+    )
+    #: Never approved by default; model training needs a person's decision.
+    training_eligibility: Mapped[TrainingEligibility] = mapped_column(
+        enum_type(TrainingEligibility, "training_eligibility"),
+        nullable=False,
+        default=TrainingEligibility.MANUAL_REVIEW,
+    )
     #: Typed provenance union (ADR-0003 section 10), e.g. {"kind": "source", ...}.
     provenance: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False)
     row_version: Mapped[int] = mapped_column(Integer, nullable=False)
@@ -433,6 +448,16 @@ class ReferenceCandidate(Base):
     )
     source_url: Mapped[str | None] = mapped_column(Text, nullable=True)
     creator_handle: Mapped[str | None] = mapped_column(String(200), nullable=True)
+    collection: Mapped[str] = mapped_column(String(120), nullable=False, default="")
+    source_posted_at: Mapped[dt.datetime | None] = mapped_column(TimestampTz, nullable=True)
+    rights_status: Mapped[RightsStatus] = mapped_column(
+        enum_type(RightsStatus, "rights_status"), nullable=False, default=RightsStatus.UNKNOWN
+    )
+    training_eligibility: Mapped[TrainingEligibility] = mapped_column(
+        enum_type(TrainingEligibility, "training_eligibility"),
+        nullable=False,
+        default=TrainingEligibility.MANUAL_REVIEW,
+    )
     #: A display name from the upload, sanitised; never used to find bytes.
     display_name: Mapped[str] = mapped_column(String(300), nullable=False, default="")
     asset_id: Mapped[uuid.UUID | None] = mapped_column(

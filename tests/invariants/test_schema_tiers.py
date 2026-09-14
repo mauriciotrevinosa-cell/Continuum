@@ -82,12 +82,31 @@ def test_no_character_is_globally_tied_to_a_visual_mode() -> None:
     assert not {c.name for c in characters.columns} & {"visual_mode_id", "style", "mode"}
 
 
+#: Tables that record *where something was observed*, and nothing else holds a
+#: path: an asset's location, a catalog entry (a file at a place under a
+#: catalog root) and reading progress (which follows its unit back to its
+#: place after a rescan). Assets, references and production are identified by
+#: content hashes and locators, never by these paths.
+PATH_OBSERVATIONS: dict[str, Tier] = {
+    "library_asset_location": Tier.A_OBSERVED,
+    "catalog_entry": Tier.A_OBSERVED,
+    "media_progress": Tier.B_INTERPRETATION,
+}
+
+
 def test_source_vault_paths_are_observations_not_identity() -> None:
-    """No table keys anything on a path; only the location table holds one."""
+    """Only location observations hold a path, always root-relative and checked."""
     for table in Base.metadata.tables.values():
         path_columns = [c for c in table.columns if "path" in c.name]
-        if table.name == "library_asset_location":
+        if table.name in PATH_OBSERVATIONS:
+            assert TABLE_REGISTRY[table.name][1] is PATH_OBSERVATIONS[table.name]
             assert [c.name for c in path_columns] == ["relative_path"]
+            checks = {
+                c.name for c in table.constraints if c.__class__.__name__ == "CheckConstraint"
+            }
+            assert f"ck_{table.name}_relative_path_is_relative" in checks, (
+                f"{table.name} path is unchecked"
+            )
             continue
         assert path_columns == [], f"{table.name} stores a path: {path_columns}"
     unique = [

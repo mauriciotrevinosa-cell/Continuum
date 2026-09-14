@@ -13,6 +13,7 @@ config carries the configured strings and storage resolves them.
 from __future__ import annotations
 
 import os
+import re
 from enum import StrEnum
 from functools import lru_cache
 from typing import Any, Literal
@@ -41,6 +42,8 @@ ROOT_KEYS: tuple[str, ...] = (
 WRITABLE_ROOT_KEYS: tuple[str, ...] = tuple(k for k in ROOT_KEYS if k != "source_vault")
 
 _LOOPBACK_HOSTS = frozenset({"127.0.0.1", "::1", "localhost"})
+#: A collection name: letters, digits, spaces, "_" and "-", starting with a letter or digit.
+_COLLECTION = re.compile(r"^[A-Za-z0-9][A-Za-z0-9 _-]{0,39}$")
 
 
 class ProductionProfile(StrEnum):
@@ -134,6 +137,20 @@ class Settings(BaseSettings):
         description="Directories scanned for project manifests, separated by ';'.",
     )
 
+    # -- catalog (Phase 1.5) -----------------------------------------------
+    # Read-only intake folders the catalog scans besides the Source Vault, as
+    # "Collection=path" pairs separated by ";" (for example a folder of
+    # collected fan art). Continuum never writes, renames or deletes there.
+    intake_roots: str = Field(
+        default="",
+        description="Read-only intake folders as 'Collection=path' pairs, separated by ';'.",
+    )
+    #: Budget for archive members extracted on demand (videos inside
+    #: compressed archives). Least recently used members are evicted first.
+    member_cache_bytes: int = Field(default=20 * 1024**3, ge=0, le=4 * 1024**4)
+    #: Largest single archive member Continuum will extract for playback.
+    member_cache_max_member_bytes: int = Field(default=8 * 1024**3, ge=0, le=64 * 1024**3)
+
     # -- observability -----------------------------------------------------
     log_level: Literal["DEBUG", "INFO", "WARNING", "ERROR"] = "INFO"
 
@@ -209,6 +226,27 @@ class Settings(BaseSettings):
             return [self.root("projects")]
         except ValueError:
             return []
+
+    def intake_root_map(self) -> dict[str, tuple[str, str, str]]:
+        """Configured intake folders: root key -> (collection, material, path string).
+
+        Each pair is ``Collection=path`` or ``Collection:material=path``, e.g.
+        ``FanArt:fan_art=D:/Intake/FanArt``. A malformed pair is ignored rather
+        than guessed at. Keys look like ``intake:fanart`` and never hold a path.
+        """
+        out: dict[str, tuple[str, str, str]] = {}
+        for part in self.intake_roots.split(";"):
+            name, sep, path = part.partition("=")
+            name, path = name.strip(), path.strip()
+            collection, _, material = name.partition(":")
+            collection, material = collection.strip(), material.strip().lower()
+            if not sep or not path or not _COLLECTION.match(collection):
+                continue
+            if material and not re.match(r"^[a-z_]{1,20}$", material):
+                continue
+            key = "intake:" + re.sub(r"[^a-z0-9]+", "-", collection.lower()).strip("-")
+            out.setdefault(key, (collection, material, path))
+        return out
 
     def safe_dump(self) -> dict[str, Any]:
         """Configuration for /health and logs, with secrets already masked."""

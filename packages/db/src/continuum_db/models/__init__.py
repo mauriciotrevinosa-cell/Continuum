@@ -1,11 +1,22 @@
 """ORM models.
 
 Phase 0: the six durable job tables (ADR-0006 section 3). Phase 1: the
-reference vault and rough-manga production tables. ``continuum_db.tiers``
+reference vault and rough-manga production tables. Phase 1.5: the full-Vault
+catalog, reading progress and project production inputs. ``continuum_db.tiers``
 declares every table's phase and tier.
 """
 
 from continuum_db.models.base import Base
+from continuum_db.models.catalog import (
+    CatalogEntry,
+    CatalogMember,
+    CatalogScan,
+    CatalogUnit,
+    ChapterPackage,
+    MediaProgress,
+    MusicReference,
+    ReferenceManifest,
+)
 from continuum_db.models.jobs import (
     Job,
     JobCheckpoint,
@@ -45,6 +56,11 @@ __all__ = [
     "AttemptInput",
     "AttemptReview",
     "Base",
+    "CatalogEntry",
+    "CatalogMember",
+    "CatalogScan",
+    "CatalogUnit",
+    "ChapterPackage",
     "CharacterOutfit",
     "CharacterProfile",
     "GenerationRecipe",
@@ -56,6 +72,8 @@ __all__ = [
     "JobStep",
     "LibraryAsset",
     "LibraryAssetLocation",
+    "MediaProgress",
+    "MusicReference",
     "ProjectPanelSource",
     "ProjectReferenceStanding",
     "ProjectVisualModeAssignment",
@@ -63,6 +81,7 @@ __all__ = [
     "ReferenceCharacter",
     "ReferenceDescriptor",
     "ReferenceItem",
+    "ReferenceManifest",
     "ReferenceTechnique",
     "ReferenceUseLink",
     "RoughArtifact",

@@ -28,7 +28,7 @@ class Tier(IntEnum):
 
 
 #: table name -> (phase introduced, tier)
-TABLE_REGISTRY: dict[str, tuple[int, Tier]] = {
+TABLE_REGISTRY: dict[str, tuple[float, Tier]] = {
     # Phase 0 - durable jobs (ADR-0002, ADR-0006)
     "job": (0, Tier.OPERATIONAL),
     "job_step": (0, Tier.OPERATIONAL),
@@ -59,4 +59,14 @@ TABLE_REGISTRY: dict[str, tuple[int, Tier]] = {
     "attempt_input": (1, Tier.D_GENERATED),
     "attempt_derivative": (1, Tier.D_GENERATED),
     "attempt_review": (1, Tier.D_GENERATED),
+    # Phase 1.5 - full-Vault catalog (observed, then interpreted), progress,
+    # and project production inputs
+    "catalog_scan": (1.5, Tier.A_OBSERVED),
+    "catalog_entry": (1.5, Tier.A_OBSERVED),
+    "catalog_member": (1.5, Tier.A_OBSERVED),
+    "catalog_unit": (1.5, Tier.B_INTERPRETATION),
+    "media_progress": (1.5, Tier.B_INTERPRETATION),
+    "reference_manifest": (1.5, Tier.C_PROJECT),
+    "chapter_package": (1.5, Tier.C_PROJECT),
+    "music_reference": (1.5, Tier.C_PROJECT),
 }

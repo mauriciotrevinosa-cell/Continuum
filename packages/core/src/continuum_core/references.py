@@ -74,6 +74,10 @@ class ReferenceClass(StrEnum):
     """How this project depicted the subject before."""
     MOOD = "MOOD"
     """Lighting, atmosphere, emotional texture, density."""
+    UNSORTED = "UNSORTED"
+    """Not sorted yet: imported material whose purpose no person has decided.
+
+    Never treated as canon; a bundle only uses it once someone sorts it."""
 
 
 class ReferenceOrigin(StrEnum):

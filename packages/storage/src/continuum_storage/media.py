@@ -32,10 +32,10 @@ import os
 import re
 import zipfile
 from collections import OrderedDict
-from collections.abc import Iterator
+from collections.abc import Iterator, Mapping
 from dataclasses import dataclass, field
 from pathlib import PurePath
-from typing import IO, Any
+from typing import IO, Any, Protocol
 
 from continuum_core import PathEscapesRootError
 
@@ -49,6 +49,8 @@ __all__ = [
     "MediaFile",
     "MediaLibrary",
     "MediaUnavailableError",
+    "RecordSupplement",
+    "engine_index_records",
     "media_id_for",
 ]
 
@@ -146,39 +148,89 @@ class ArchiveListing:
     other_entries: int
 
 
-class MediaLibrary:
-    """Opaque-id access to the media the acquisition scan has seen."""
+class RecordSupplement(Protocol):
+    """More Vault files to offer, beyond the acquisition engine's listing.
 
-    def __init__(self, store: AcquisitionStore, vault_root: str) -> None:
+    Continuum's own catalog implements this: files added after the engine's
+    last scan become openable as soon as the catalog has observed them. The
+    records use the engine's shape and name files relative to the Source
+    Vault; the marker changes whenever the records do.
+    """
+
+    def records(self) -> tuple[object, Mapping[str, dict[str, Any]]]: ...
+
+
+class MediaLibrary:
+    """Opaque-id access to the media the acquisition scan and the catalog have seen."""
+
+    def __init__(
+        self,
+        store: AcquisitionStore,
+        vault_root: str,
+        *,
+        supplement: RecordSupplement | None = None,
+    ) -> None:
         self._store = store
         self._vault_root = vault_root
         self._reader = SourceVaultReader(vault_root) if vault_root else None
+        self._supplement = supplement
         self._ids: dict[str, str] = {}
-        self._ids_for: tuple[str, int] | None = None
+        self._ids_for: object = None
         self._listings: OrderedDict[tuple[str, int, int], ArchiveListing] = OrderedDict()
 
     # -- availability -------------------------------------------------------
     def status(self) -> tuple[bool, str]:
         """Whether held media can be opened, and if not, why - in plain words."""
+        if self._reader is None or not self._reader.exists():
+            index = self._store.read("vault-index.json")
+            if not index and not self._supplemented():
+                return False, "The Library has not been scanned yet."
+            return False, "The Source Vault is not configured or not reachable on this machine."
+        if self._engine_matches():
+            return True, ""
+        if self._supplemented():
+            return True, ""
         index = self._store.read("vault-index.json")
         if not index:
             return False, "The Library has not been scanned yet."
-        if self._reader is None or not self._reader.exists():
-            return False, "The Source Vault is not configured or not reachable on this machine."
+        return (
+            False,
+            "The Library was scanned from a different folder than the configured Source Vault.",
+        )
+
+    def _engine_matches(self) -> bool:
+        index = self._store.read("vault-index.json")
+        if not index or self._reader is None:
+            return False
         scanned = str(index.get("vault_root") or "")
-        if not scanned or not _same_location(scanned, str(self._reader.root)):
-            return (
-                False,
-                "The Library was scanned from a different folder than the configured Source Vault.",
-            )
-        return True, ""
+        return bool(scanned) and _same_location(scanned, str(self._reader.root))
+
+    def _supplemented(self) -> bool:
+        if self._supplement is None:
+            return False
+        try:
+            return bool(self._supplement.records()[1])
+        except Exception:
+            return False
 
     # -- lookup -------------------------------------------------------------
-    def _index(self) -> tuple[dict[str, Any], tuple[str, int]]:
+    def _index(self) -> tuple[dict[str, Any], object]:
+        """Engine records (when scanned from this Vault) over the catalog's."""
         index = self._store.read("vault-index.json") or {}
         files = index.get("files")
-        files = files if isinstance(files, dict) else {}
-        return files, (str(index.get("generated_at") or ""), len(files))
+        engine = files if isinstance(files, dict) and self._engine_matches() else {}
+        marker: tuple[object, ...] = (str(index.get("generated_at") or ""), len(engine))
+        if self._supplement is None:
+            return engine, marker
+        try:
+            extra_marker, extra = self._supplement.records()
+        except Exception:
+            return engine, marker
+        if not extra:
+            return engine, marker
+        merged: dict[str, Any] = dict(extra)
+        merged.update(engine)
+        return merged, (*marker, extra_marker)
 
     def _index_files(self) -> dict[str, Any]:
         return self._index()[0]
@@ -328,6 +380,16 @@ def _same_location(a: str, b: str) -> bool:
     return normal(a) == normal(b)
 
 
+def engine_index_records(store: AcquisitionStore, vault_root: str) -> dict[str, Any]:
+    """The acquisition engine's file records, only if it scanned this very Vault."""
+    index = store.read("vault-index.json") or {}
+    files = index.get("files")
+    scanned = str(index.get("vault_root") or "")
+    if not isinstance(files, dict) or not vault_root or not scanned:
+        return {}
+    return files if _same_location(scanned, vault_root) else {}
+
+
 def is_video_entry(name: str, size: int) -> bool:
     """Whether an entry inside an archive is footage, judged by name and size."""
     lowered = name.lower()
@@ -392,6 +454,15 @@ def _describe(media_id: str, rel: str, record: dict[str, Any]) -> MediaFile:
     )
 
 
+def _reading_key(name: str) -> list[list[Any]]:
+    """Natural order compared folder by folder.
+
+    Comparing whole paths put ``Ch71.5/001.png`` before ``Ch0071/001.png``,
+    because ``.`` sorts before ``/``; per segment, chapter 71 precedes 71.5.
+    """
+    return [_natural_key(part) for part in name.replace("\\", "/").split("/")]
+
+
 def _image_entries(archive: zipfile.ZipFile) -> list[zipfile.ZipInfo]:
     """Image entries in reading order: by folder, then by natural file order."""
     infos = [
@@ -401,7 +472,7 @@ def _image_entries(archive: zipfile.ZipFile) -> list[zipfile.ZipInfo]:
         and os.path.splitext(info.filename)[1].lower() in IMAGE_TYPES
         and not info.filename.replace("\\", "/").rsplit("/", 1)[-1].startswith(".")
     ]
-    infos.sort(key=lambda info: _natural_key(info.filename.replace("\\", "/")))
+    infos.sort(key=lambda info: _reading_key(info.filename))
     return infos
 
 

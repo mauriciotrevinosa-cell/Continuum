@@ -55,6 +55,7 @@ from continuum_providers import build_default_registry
 from continuum_storage import build_storage
 from sqlalchemy.orm import Session
 
+from continuum_worker.handlers.catalog import CatalogHashHandler, CatalogScanHandler
 from continuum_worker.handlers.rough import RoughAttemptHandler
 from continuum_worker.handlers.synthetic import (
     BlockedCapabilityHandler,
@@ -76,9 +77,16 @@ def _handle_signal(signum: int, _frame: types.FrameType | None) -> None:
 
 
 def register_default_handlers() -> None:
-    """The synthetic Phase 0 handlers and the Phase 1 rough attempt renderer."""
+    """The synthetic Phase 0 handlers, the Phase 1 rough attempt renderer and the
+    Phase 1.5 catalog jobs."""
     known = set(registry.known_types())
-    for handler in (CountedWorkHandler(), BlockedCapabilityHandler(), RoughAttemptHandler()):
+    for handler in (
+        CountedWorkHandler(),
+        BlockedCapabilityHandler(),
+        RoughAttemptHandler(),
+        CatalogScanHandler(),
+        CatalogHashHandler(),
+    ):
         if handler.job_type not in known:
             registry.register(handler)
 
@@ -194,6 +202,10 @@ class Worker:
                             **exc.context,
                         },
                     )
+        # A job that just finished may be the last prerequisite of another:
+        # release it now rather than at the next recovery pass.
+        with session_scope(self.settings) as session:
+            unblock_ready_dependents(session)
         return True
 
     def _park(

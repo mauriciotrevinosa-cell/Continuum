@@ -23,13 +23,18 @@ HEIF_BRANDS: Final = frozenset(
 _GENERIC_HEIF: Final = frozenset({b"mif1", b"msf1", b"miaf"})
 _AVIF_BRANDS: Final = frozenset({b"avif", b"avis"})
 _MAX_FTYP: Final = 512
+_RAR4: Final = bytes.fromhex("526172211a0700")
+_RAR5: Final = bytes.fromhex("526172211a070100")
+_SEVEN_ZIP: Final = bytes.fromhex("377abcaf271c")
+_TS_PACKET: Final = 188
+_TS_SYNC: Final = 0x47
 
 
 @dataclass(frozen=True, slots=True)
 class Sniffed:
     kind: Literal["image", "video", "other"]
     #: JPEG, PNG, WEBP, GIF, BMP, HEIF, AVIF, TIFF, MP4, QUICKTIME, MATROSKA,
-    #: EXECUTABLE, OLE, ZIP, PDF, EMPTY or UNKNOWN.
+    #: AVI, MPEG_TS, EXECUTABLE, OLE, ZIP, RAR, SEVEN_ZIP, PDF, EMPTY or UNKNOWN.
     format: str
     #: What a person would call it, for refusal messages.
     description: str
@@ -57,6 +62,8 @@ def sniff(data: bytes) -> Sniffed:
         return Sniffed("image", "PNG", "a PNG image")
     if head[:4] == b"RIFF" and head[8:12] == b"WEBP":
         return Sniffed("image", "WEBP", "a WebP image")
+    if head[:4] == b"RIFF" and head[8:12] == b"AVI ":
+        return Sniffed("video", "AVI", "an AVI video")
     if head[:6] in (b"GIF87a", b"GIF89a"):
         return Sniffed("image", "GIF", "a GIF image")
     if head[:2] == b"BM":
@@ -82,4 +89,10 @@ def sniff(data: bytes) -> Sniffed:
         return Sniffed("other", "ZIP", "a ZIP archive")
     if head[:5] == b"%PDF-":
         return Sniffed("other", "PDF", "a PDF document")
+    if head.startswith((_RAR4, _RAR5)):
+        return Sniffed("other", "RAR", "a RAR archive")
+    if head.startswith(_SEVEN_ZIP):
+        return Sniffed("other", "SEVEN_ZIP", "a 7-Zip archive")
+    if len(data) > 2 * _TS_PACKET and all(data[i * _TS_PACKET] == _TS_SYNC for i in range(3)):
+        return Sniffed("video", "MPEG_TS", "an MPEG transport stream")
     return Sniffed("other", "UNKNOWN", "a file that is not an image or a video clip")

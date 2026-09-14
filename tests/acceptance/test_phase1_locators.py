@@ -61,6 +61,8 @@ def test_any_safe_entry_round_trips(name: str) -> None:
     if not segments:
         return
     entry = "/".join(segments)
+    if len(entry) >= 2 and entry[1] == ":" and entry[0].isascii() and entry[0].isalpha():
+        return  # a drive-letter prefix is refused by design, never round-tripped
     locator = SourceLocator.archive_entry(H, entry)
     assert parse_locator(locator.render()) == locator
 

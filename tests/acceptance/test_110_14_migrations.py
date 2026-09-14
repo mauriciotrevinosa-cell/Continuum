@@ -165,7 +165,7 @@ class TestMigrationRoundTrip:
         home = str(db_settings.data_home)
         _alembic("upgrade", "head", data_home=home)
         current = _alembic("current", data_home=home)
-        assert "0002_phase1 (head)" in current.stdout
+        assert "0003_phase15 (head)" in current.stdout
 
 
 @pytest.mark.requires_db
@@ -186,7 +186,7 @@ class TestPhaseOneSchemaMatchesTheModels:
         from sqlalchemy import Enum, create_engine
 
         assert _alembic("upgrade", "head", data_home=str(db_settings.data_home)).returncode == 0
-        phase1 = {t for t, (phase, _) in TABLE_REGISTRY.items() if phase == 1}
+        phase1 = {t for t, (phase, _) in TABLE_REGISTRY.items() if phase in (1, 1.5)}
         enum_checks = {
             f"ck_{table.name}_{column.type.name}"
             for table in Base.metadata.tables.values()

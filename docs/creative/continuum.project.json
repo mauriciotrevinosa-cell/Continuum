@@ -6,9 +6,37 @@
   "status": "active",
   "logline": "Continuum no importa franquicias. Importa personas.",
   "description": "The flagship personal project developed inside Continuum. It is developed manga-first: approved story structure becomes a draft, a panel script, rough and final manga, and only then an anime adaptation.",
-  "_note": "This manifest is the explicit registry of the project's documents. Lifecycle values transcribe the standing each document's author recorded in its own Status line; changing a lifecycle here is how a document is approved, locked or superseded. A Markdown file matched by 'discover' but not listed below appears as unfiled and is never treated as approved.",
-  "discover": ["THE_ARRIVALS_*.md"],
+  "_note": "This manifest registers the project's documents in two ways. Entries under 'documents' are explicit: their lifecycle is written here. Files matching a rule under 'conventions' are registered by name the moment they are committed; their lifecycle transcribes the author's own Status line through 'status_lifecycle' (first match wins), so the committed documents stay the single source of truth. A Markdown file matched only by 'discover' appears as unfiled and is never treated as approved.",
+  "_note_standing": "maturity (ROUGH, DETAILED, PRODUCTION_READY) transcribes how developed the author says a document is; authority (RULE, CORRECTION, INDEX, CONTENT) transcribes an 'authoritative' workflow rule, correction or source-of-truth index; overrides lists only the partial precedence a document states in its own text. Nothing here resolves a conflict the documents do not resolve themselves.",
+  "_note_board": "'episodes' declares the readiness levels of the production pipeline rules and the document categories each level requires (all approved). The episode board is computed from the committed documents on every read; nothing about an episode's readiness is stored here. 'resolves' shows a voice-check iteration still marked in review as resolved once the episode's GREEN LIGHT exists; its own lifecycle is left as its author recorded it.",
+  "discover": [
+    "THE_ARRIVALS_*.md"
+  ],
   "documents": [
+    {
+      "id": "production-pipeline-and-git-rules",
+      "path": "THE_ARRIVALS_PRODUCTION_PIPELINE_AND_GIT_RULES_v0.1.md",
+      "title": "Production Pipeline & Git Rules",
+      "category": "workflow",
+      "section": "production",
+      "lifecycle": "APPROVED",
+      "authority": "RULE",
+      "version": "0.1",
+      "lineage": "production-pipeline-and-git-rules",
+      "summary": "Authoritative workflow / project rule: the five-stage episode pipeline, readiness levels, the E1 parity audit step and the rule that Git, not chat, is the source of truth."
+    },
+    {
+      "id": "s1-s2-episode-status-overview",
+      "path": "THE_ARRIVALS_S1_S2_EPISODE_STATUS_OVERVIEW_v0.1.md",
+      "title": "S1 / S2 Episode Status Overview",
+      "category": "overview",
+      "section": "production",
+      "lifecycle": "APPROVED",
+      "authority": "INDEX",
+      "version": "0.1",
+      "lineage": "s1-s2-episode-status-overview",
+      "summary": "Current working overview and source-of-truth index of episode readiness levels. Not a locked broadcast order."
+    },
     {
       "id": "s1e1-not-this-time",
       "path": "THE_ARRIVALS_S1E1_NOT_THIS_TIME_v0.1.md",
@@ -16,6 +44,7 @@
       "category": "structure",
       "section": "story",
       "lifecycle": "APPROVED",
+      "maturity": "DETAILED",
       "version": "0.1",
       "lineage": "s1e1-structure",
       "episode": "S1E1",
@@ -28,11 +57,202 @@
       "category": "draft",
       "section": "story",
       "lifecycle": "APPROVED",
+      "maturity": "DETAILED",
       "version": "0.1",
       "lineage": "s1e1-draft",
       "episode": "S1E1",
       "derived_from": "s1e1-not-this-time",
       "summary": "Draft 1, derived from the approved scene-card structure, was approved after human Story Room review with no content revisions. It is now the approved story draft feeding the Manga Panel Script."
+    },
+    {
+      "id": "s1e1-manga-panel-script",
+      "path": "THE_ARRIVALS_S1E1_MANGA_PANEL_SCRIPT_v0.1.md",
+      "title": "S1E1 — Not This Time · Manga Panel Script",
+      "category": "panel-script",
+      "section": "production",
+      "lifecycle": "APPROVED",
+      "maturity": "PRODUCTION_READY",
+      "version": "0.1",
+      "lineage": "s1e1-panel-script",
+      "episode": "S1E1",
+      "derived_from": "s1e1-draft-1",
+      "summary": "Approved panel script: 16 approved scenes across 79 provisional pages in three chapter cuts. Page and panel counts stay adjustable only during rough visual review. Next gate: rough manga."
+    },
+    {
+      "id": "s1-season-board",
+      "path": "THE_ARRIVALS_S1_SEASON_BOARD_v0.1.md",
+      "title": "Season 1 Story Board",
+      "category": "board",
+      "section": "story",
+      "lifecycle": "DRAFT",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "s1-season-board",
+      "summary": "Rough planning, not locked canon: a compact season-level board used to find the minimum episode count."
+    },
+    {
+      "id": "s1-story-principles",
+      "path": "THE_ARRIVALS_S1_STORY_PRINCIPLES_v0.1.md",
+      "title": "Season 1 Story Principles",
+      "category": "principles",
+      "section": "story",
+      "lifecycle": "REVIEW",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "s1-story-principles",
+      "summary": "Rough / high-confidence story direction, not locked canon. Companion to the season board."
+    },
+    {
+      "id": "s1-e2-e8-rough-roadmap",
+      "path": "THE_ARRIVALS_S1_E2_E8_ROUGH_ROADMAP_v0.1.md",
+      "title": "S1 E2–E8 Rough Roadmap",
+      "category": "roadmap",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "s1-e2-e8-rough-roadmap",
+      "episode": "S1E2-S1E8",
+      "summary": "Approved rough, high-confidence story direction; not a final script and not locked at S1E1 level."
+    },
+    {
+      "id": "s1-e9-e15-rough-roadmap",
+      "path": "THE_ARRIVALS_S1_E9_E15_ROUGH_ROADMAP_v0.1.md",
+      "title": "S1 E9–E15 Rough Roadmap",
+      "category": "roadmap",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "s1-e9-e15-rough-roadmap",
+      "episode": "S1E9-S1E15",
+      "summary": "Approved rough / high-confidence roadmap; not locked canon at S1E1 level."
+    },
+    {
+      "id": "s1e15-home-symbol-addendum",
+      "path": "THE_ARRIVALS_S1_E15_HOME_SYMBOL_ADDENDUM_v0.1.md",
+      "title": "S1E15 Home / Plant Gift Addendum",
+      "category": "addendum",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "s1e15-home-symbol-addendum",
+      "episode": "S1E15",
+      "summary": "Approved rough / high-confidence addendum; not locked at S1E1 script level."
+    },
+    {
+      "id": "s1-e16-plus-world-g3-rough",
+      "path": "THE_ARRIVALS_S1_E16_PLUS_WORLD_G3_ROUGH_v0.1.md",
+      "title": "S1 E16+ World / G3 Rough Roadmap",
+      "category": "roadmap",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "s1-e16-plus-world-g3-rough",
+      "episode": "S1E16+",
+      "summary": "Approved rough / high-confidence direction; not locked at S1E1 level. Its older G3 timing language is overridden where the S1→S2 G3 handoff disagrees."
+    },
+    {
+      "id": "s1-s2-g3-handoff",
+      "path": "THE_ARRIVALS_S1_S2_G3_HANDOFF_v0.1.md",
+      "title": "S1→S2 G3 Handoff",
+      "category": "addendum",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "s1-s2-g3-handoff",
+      "summary": "Approved rough / high-confidence direction; not locked at S1E1 level. Supersedes the older rough assumption about G3 travel time before S2.",
+      "overrides": [
+        {
+          "document": "s1-e16-plus-world-g3-rough",
+          "scope": "the older G3 timing / travel-time language, where the two documents disagree"
+        }
+      ]
+    },
+    {
+      "id": "s1-late-texture-addendum",
+      "path": "THE_ARRIVALS_S1_LATE_TEXTURE_ADDENDUM_v0.1.md",
+      "title": "S1 Late Texture / Guild Montage Addendum",
+      "category": "addendum",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "s1-late-texture-addendum",
+      "summary": "Approved rough / high-confidence addendum."
+    },
+    {
+      "id": "s1-day-in-the-life-episode",
+      "path": "THE_ARRIVALS_S1_FINAL_DAY_IN_THE_LIFE_EPISODE_v0.1.md",
+      "title": "S1 Day-in-the-Life Episode",
+      "category": "episode-concept",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "s1-day-in-the-life-episode",
+      "summary": "Approved rough / high-confidence episode concept; placement open. Its placement assumption is overridden by the placement correction.",
+      "constraints": [
+        "Placement is governed by the placement correction, not by this document."
+      ]
+    },
+    {
+      "id": "s1-day-in-the-life-placement-correction",
+      "path": "THE_ARRIVALS_S1_DAY_IN_THE_LIFE_PLACEMENT_CORRECTION_v0.1.md",
+      "title": "S1 Day-in-the-Life Placement Correction",
+      "category": "correction",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "maturity": "ROUGH",
+      "authority": "CORRECTION",
+      "version": "0.1",
+      "lineage": "s1-day-in-the-life-placement-correction",
+      "summary": "Authoritative rough correction. Supersedes only the placement assumption in the Day-in-the-Life episode document.",
+      "overrides": [
+        {
+          "document": "s1-day-in-the-life-episode",
+          "scope": "the placement assumption only"
+        }
+      ]
+    },
+    {
+      "id": "g3-road-days-adjacency-rule",
+      "path": "THE_ARRIVALS_G3_ROAD_DAYS_ADJACENCY_RULE_v0.1.md",
+      "title": "G3 / Road Days Adjacency Rule",
+      "category": "ordering",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "maturity": "ROUGH",
+      "authority": "RULE",
+      "version": "0.1",
+      "lineage": "g3-road-days-adjacency-rule",
+      "summary": "Authoritative rough ordering decision: two conceptual episode units kept separate but adjacent during the late-S1 structural review."
+    },
+    {
+      "id": "s1-late-order-and-finale",
+      "path": "THE_ARRIVALS_S1_LATE_ORDER_AND_FINALE_v0.1.md",
+      "title": "S1 Late Order & Finale",
+      "category": "ordering",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "version": "0.1",
+      "lineage": "s1-late-order-and-finale",
+      "summary": "Approved ordering decision and finale direction for late Season 1."
+    },
+    {
+      "id": "s1-final-payoff-audit",
+      "path": "THE_ARRIVALS_S1_FINAL_PAYOFF_AUDIT_v0.1.md",
+      "title": "Season 1 Final Payoff Audit",
+      "category": "audit",
+      "section": "story",
+      "lifecycle": "APPROVED",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "s1-final-payoff-audit",
+      "summary": "Approved rough audit (point 9 resolved)."
     },
     {
       "id": "opening-groups",
@@ -43,7 +263,13 @@
       "lifecycle": "APPROVED",
       "version": "0.1",
       "lineage": "opening-groups",
-      "summary": "Opening-season arrival structure, Group 1 and arrival-state rules."
+      "summary": "Opening-season arrival structure, Group 1 and arrival-state rules.",
+      "overrides": [
+        {
+          "document": "creative-direction-v0-3",
+          "scope": "where it is more specific about the opening groups and the character continuity points it names"
+        }
+      ]
     },
     {
       "id": "opening-group-2",
@@ -54,7 +280,17 @@
       "lifecycle": "APPROVED",
       "version": "0.1",
       "lineage": "opening-group-2",
-      "summary": "Group 2 composition, the opening hook and cross-world language behaviour."
+      "summary": "Group 2 composition, the opening hook and cross-world language behaviour.",
+      "overrides": [
+        {
+          "document": "opening-groups",
+          "scope": "where it is more specific about Group 2, the opening hook and language comprehension"
+        },
+        {
+          "document": "creative-direction-v0-3",
+          "scope": "where it is more specific about Group 2, the opening hook and language comprehension"
+        }
+      ]
     },
     {
       "id": "group-3-direction",
@@ -132,18 +368,266 @@
       "version": "0.1",
       "lineage": "manga-first-workflow",
       "summary": "How approved story structure becomes manga, then anime, without skipping validation gates."
+    },
+    {
+      "id": "origami-girl-reference",
+      "path": "characters/origami-girl/README.md",
+      "title": "Origami Girl · Provisional character reference",
+      "category": "character",
+      "section": "reference",
+      "lifecycle": "REVIEW",
+      "maturity": "ROUGH",
+      "version": "0.1",
+      "lineage": "origami-girl-reference",
+      "summary": "Provisional character reference package; its author's status is candidate character / high-priority visual anchor. A reference.json sits beside it."
     }
   ],
+  "conventions": [
+    {
+      "id": "episode-manga-panel-script",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_(?:[A-Z0-9_]+_)?MANGA_PANEL_SCRIPT_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "document_id": "{episode_lower}-manga-panel-script",
+      "category": "panel-script",
+      "section": "production",
+      "maturity": "PRODUCTION_READY",
+      "lineage": "{episode_lower}-manga-panel-script"
+    },
+    {
+      "id": "episode-level4-editorial-overview",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_(?:[A-Z0-9_]+_)?LEVEL4_EDITORIAL_OVERVIEW_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "document_id": "{episode_lower}-level4-editorial-overview",
+      "category": "editorial-overview",
+      "section": "production",
+      "maturity": "DETAILED",
+      "lineage": "{episode_lower}-level4-editorial-overview"
+    },
+    {
+      "id": "episode-draft",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_(?:[A-Z0-9_]+_)?DRAFT_(?P<draft>\\d+)_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "document_id": "{episode_lower}-draft-{draft}",
+      "category": "draft",
+      "section": "story",
+      "maturity": "DETAILED",
+      "lineage": "{episode_lower}-draft-{draft}"
+    },
+    {
+      "id": "episode-green-light",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_(?:[A-Z0-9_]+_)?(?:GREEN_LIGHT|VOICE_CHECK_APPROVAL)_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "document_id": "{episode_lower}-green-light",
+      "category": "green-light",
+      "section": "story",
+      "lineage": "{episode_lower}-green-light"
+    },
+    {
+      "id": "episode-voice-check-iteration",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_[A-Z0-9_]+_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "voice-check-iteration",
+      "section": "story"
+    },
+    {
+      "id": "production-correction",
+      "match": "^THE_ARRIVALS_M\\d+(?:_M\\d+)?_[A-Z0-9_]+?CORRECTION(?:_[A-Z0-9_]+)?_(?:(?P<date>\\d{4}-\\d{2}-\\d{2})|v(?P<version>\\d+(?:\\.\\d+)*))\\.md$",
+      "category": "production-correction",
+      "section": "production",
+      "authority": "CORRECTION",
+      "lifecycle": "APPROVED"
+    },
+    {
+      "id": "production-findings",
+      "match": "^THE_ARRIVALS_M\\d+_[A-Z0-9_]+?FINDINGS(?:_[A-Z0-9_]+)?_(?:(?P<date>\\d{4}-\\d{2}-\\d{2})|v(?P<version>\\d+(?:\\.\\d+)*))\\.md$",
+      "category": "production-findings",
+      "section": "production",
+      "lifecycle": "APPROVED"
+    },
+    {
+      "id": "production-requirement",
+      "match": "^THE_ARRIVALS_M\\d+_[A-Z0-9_]+_(?:(?P<date>\\d{4}-\\d{2}-\\d{2})|v(?P<version>\\d+(?:\\.\\d+)*))\\.md$",
+      "category": "production-requirement",
+      "section": "production",
+      "authority": "RULE",
+      "lifecycle": "APPROVED"
+    },
+    {
+      "id": "readiness-checkpoint",
+      "match": "^THE_ARRIVALS_[A-Z0-9_]+_CHECKPOINT_(?P<date>\\d{4}-\\d{2}-\\d{2})\\.md$",
+      "category": "checkpoint",
+      "section": "production"
+    },
+    {
+      "id": "character-visual-reference-pack",
+      "match": "^THE_ARRIVALS_(?P<character>[A-Z0-9_]+)_VISUAL_REFERENCE_PACK_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "character-design",
+      "section": "production",
+      "maturity": "DETAILED"
+    },
+    {
+      "id": "workflow-rule",
+      "match": "^THE_ARRIVALS_[A-Z0-9_]+_(?:RULE|SEQUENCE|RULES|WORKFLOW)_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "workflow",
+      "section": "production",
+      "authority": "RULE"
+    },
+    {
+      "id": "season-audit",
+      "match": "^THE_ARRIVALS_S(?P<season>\\d+)_[A-Z0-9_]+_AUDIT_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "audit",
+      "section": "story"
+    },
+    {
+      "id": "season-structural-review",
+      "match": "^THE_ARRIVALS_S(?P<season>\\d+)_[A-Z0-9_]+_REVIEW_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "review",
+      "section": "story",
+      "maturity": "ROUGH"
+    }
+  ],
+  "status_lifecycle": [
+    {
+      "match": "\\bSUPERSEDED\\b",
+      "lifecycle": "SUPERSEDED"
+    },
+    {
+      "match": "\\bAPPROVED TARGETED CORRECTION\\b",
+      "lifecycle": "APPROVED"
+    },
+    {
+      "match": "NOT YET GREEN|\\bPENDING USER\\b|\\bpending final\\b",
+      "lifecycle": "REVIEW"
+    },
+    {
+      "match": "\\bTARGETED\\b",
+      "lifecycle": "REVIEW"
+    },
+    {
+      "match": "GREEN LIGHT|\\bAPPROVED\\b|LEVEL 4|PANEL SCRIPT READY|STAGE [34] COMPLETE|\\bLOCKED\\b|AUTHORITATIVE|READY TO BEGIN",
+      "lifecycle": "APPROVED"
+    }
+  ],
+  "facts": {
+    "pages": [
+      "^\\*\\*(?:Provisional|Approved) total:\\*\\*\\s*(\\d+)"
+    ],
+    "title": [
+      "^\\*\\*Episode:\\*\\*\\s*S\\d+E\\d+\\s*[—–-]\\s*(.+?)\\s*$",
+      "^#\\s.*?S\\d+E\\d+\\s*[—–-]?\\s*[`“\\\"]([^`”\\\"]+)[`”\\\"]",
+      "^#\\s.*?S\\d+E\\d+\\s*[—–-]?\\s*(.+?)\\s*[—–-]\\s*GREEN LIGHT"
+    ]
+  },
+  "episodes": {
+    "match": "^S(?P<season>\\d+)E(?P<number>\\d+)$",
+    "categories": [
+      "structure",
+      "green-light",
+      "voice-check-iteration",
+      "draft",
+      "panel-script",
+      "editorial-overview"
+    ],
+    "title_from": [
+      "panel-script",
+      "draft",
+      "editorial-overview",
+      "green-light",
+      "structure"
+    ],
+    "title_fact": "title",
+    "pages_fact": "pages",
+    "pages_from": "panel-script",
+    "levels": [
+      {
+        "id": "4",
+        "label": "Level 4 · manga-ready",
+        "requires": [
+          "draft",
+          "panel-script"
+        ],
+        "state": "panel_script_ready",
+        "count_pages": true
+      },
+      {
+        "id": "3+",
+        "label": "Stage 3 complete · panelization pending",
+        "requires": [
+          "draft"
+        ],
+        "state": "full_episode_build"
+      },
+      {
+        "id": "3",
+        "label": "Voice Check GREEN LIGHT · Stages 3–4 pending",
+        "requires": [
+          "green-light"
+        ],
+        "state": "green_light"
+      }
+    ],
+    "resolves": {
+      "green-light": [
+        "voice-check-iteration"
+      ]
+    },
+    "unmet_label": "Not yet green-lit"
+  },
   "pipeline": [
-    { "id": "structure", "title": "Story structure", "track": "story", "description": "The approved dramatic structure of an episode." },
-    { "id": "draft", "title": "Draft", "track": "story", "description": "The written episode, versioned; a redo is a new version, never an overwrite." },
-    { "id": "panel-script", "title": "Panel script", "track": "manga", "description": "Pages and panels planned from the draft." },
-    { "id": "rough-manga", "title": "Rough manga", "track": "manga", "description": "Rough pages for review and corrections." },
-    { "id": "final-manga", "title": "Final manga", "track": "manga", "description": "Finished pages." },
-    { "id": "chapter-approval", "title": "Chapter approval", "track": "manga", "description": "The chapter is approved and locked." },
-    { "id": "adaptation-draft", "title": "Anime adaptation draft", "track": "anime", "description": "The approved chapter adapted for animation." },
-    { "id": "animatic", "title": "Animatic and shot plan", "track": "anime", "description": "Timing, shots and their S/A/B/C/D tiers." },
-    { "id": "production", "title": "Animation production", "track": "anime", "description": "Shots produced as durable, inspectable jobs." },
-    { "id": "episode-review", "title": "Episode review", "track": "anime", "description": "The assembled episode, reviewed against its shots and approvals." }
+    {
+      "id": "structure",
+      "title": "Story structure",
+      "track": "story",
+      "description": "The approved dramatic structure of an episode."
+    },
+    {
+      "id": "draft",
+      "title": "Draft",
+      "track": "story",
+      "description": "The written episode, versioned; a redo is a new version, never an overwrite."
+    },
+    {
+      "id": "panel-script",
+      "title": "Panel script",
+      "track": "manga",
+      "description": "Pages and panels planned from the draft."
+    },
+    {
+      "id": "rough-manga",
+      "title": "Rough manga",
+      "track": "manga",
+      "description": "Rough pages for review and corrections."
+    },
+    {
+      "id": "final-manga",
+      "title": "Final manga",
+      "track": "manga",
+      "description": "Finished pages."
+    },
+    {
+      "id": "chapter-approval",
+      "title": "Chapter approval",
+      "track": "manga",
+      "description": "The chapter is approved and locked."
+    },
+    {
+      "id": "adaptation-draft",
+      "title": "Anime adaptation draft",
+      "track": "anime",
+      "description": "The approved chapter adapted for animation."
+    },
+    {
+      "id": "animatic",
+      "title": "Animatic and shot plan",
+      "track": "anime",
+      "description": "Timing, shots and their S/A/B/C/D tiers."
+    },
+    {
+      "id": "production",
+      "title": "Animation production",
+      "track": "anime",
+      "description": "Shots produced as durable, inspectable jobs."
+    },
+    {
+      "id": "episode-review",
+      "title": "Episode review",
+      "track": "anime",
+      "description": "The assembled episode, reviewed against its shots and approvals."
+    }
   ]
 }

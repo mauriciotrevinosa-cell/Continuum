@@ -37,8 +37,10 @@ from continuum_core import PathEscapesRootError
 from continuum_storage.paths import resolve_within
 
 __all__ = [
+    "AUTHORITY",
     "LIFECYCLE",
     "MANIFEST_NAME",
+    "MATURITY",
     "PROJECT_ID_PATTERN",
     "Project",
     "ProjectDocument",
@@ -63,6 +65,13 @@ LIFECYCLE: tuple[str, ...] = (
 #: A Markdown file matched by a manifest's ``discover`` patterns but not
 #: registered: visible, never treated as decided.
 UNFILED = "UNFILED"
+#: How developed a document is, independent of whether it is approved: an
+#: approved rough roadmap is not a production-ready panel script.
+MATURITY: tuple[str, ...] = ("ROUGH", "DETAILED", "PRODUCTION_READY")
+#: What kind of standing a document claims over others. ``RULE`` governs how
+#: the project works, ``CORRECTION`` overrides named parts of other documents,
+#: ``INDEX`` is the author's source-of-truth overview, ``CONTENT`` is the rest.
+AUTHORITY: tuple[str, ...] = ("CONTENT", "RULE", "CORRECTION", "INDEX")
 SECTIONS: tuple[str, ...] = ("story", "production", "reference", "extra")
 
 MAX_DOCUMENT_BYTES = 4 * 1024 * 1024
@@ -98,6 +107,12 @@ class ProjectDocument:
     size_bytes: int
     filed: bool
     constraints: tuple[str, ...] = ()
+    #: ROUGH, DETAILED or PRODUCTION_READY, when the manifest records it.
+    maturity: str | None = None
+    authority: str = "CONTENT"
+    #: Partial precedence the documents state themselves: (document id, scope).
+    #: Whole-document replacement stays ``supersedes``.
+    overrides: tuple[tuple[str, str], ...] = ()
     relative: str = field(default="", repr=False)
 
 
@@ -276,6 +291,18 @@ def _load(manifest: Path) -> Project | None:
             match = _VERSION.search(PurePath(relative).stem)
             version = match.group(1) if match else None
         constraints = entry.get("constraints")
+        maturity = _text(entry.get("maturity"), 20).upper() or None
+        if maturity is not None and maturity not in MATURITY:
+            warnings.append(f"{document_id}: unknown maturity {maturity!r}, ignored")
+            maturity = None
+        authority = _text(entry.get("authority"), 20).upper() or "CONTENT"
+        if authority not in AUTHORITY:
+            warnings.append(f"{document_id}: unknown authority {authority!r}, shown as content")
+            authority = "CONTENT"
+        overrides: list[tuple[str, str]] = []
+        for item in entry.get("overrides") or []:
+            if isinstance(item, dict) and _ID.match(_text(item.get("document"), 80)):
+                overrides.append((_text(item.get("document"), 80), _text(item.get("scope"), 400)))
         documents.append(
             ProjectDocument(
                 id=document_id,
@@ -299,6 +326,9 @@ def _load(manifest: Path) -> Project | None:
                 constraints=tuple(_text(c, 300) for c in constraints if isinstance(c, str))
                 if isinstance(constraints, list)
                 else (),
+                maturity=maturity if filed else None,
+                authority=authority if filed else "CONTENT",
+                overrides=tuple(overrides) if filed else (),
                 relative=str(resolved.relative),
             )
         )

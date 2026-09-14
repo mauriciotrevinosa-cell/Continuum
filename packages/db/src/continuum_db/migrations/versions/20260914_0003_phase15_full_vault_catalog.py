@@ -50,7 +50,7 @@ def upgrade() -> None:
     sa.Column('project_key', sa.String(length=80), nullable=False),
     sa.Column('package_key', sa.String(length=120), nullable=False),
     sa.Column('version', sa.Integer(), nullable=False),
-    sa.Column('schema_version', sa.String(length=20), nullable=False),
+    sa.Column('schema_version', sa.String(length=40), nullable=False),
     sa.Column('approval_state', sa.Enum('DRAFT', 'IN_REVIEW', 'APPROVED', 'SUPERSEDED', name='approval_state', native_enum=False, create_constraint=True, length=32), nullable=False),
     sa.Column('body', postgresql.JSONB(astext_type=sa.Text()), nullable=False),
     sa.Column('body_hash', sa.String(length=64), nullable=False),

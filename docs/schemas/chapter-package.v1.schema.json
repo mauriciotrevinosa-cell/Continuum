@@ -1,0 +1,514 @@
+{
+  "$defs": {
+    "ApprovalState": {
+      "description": "Where a production package stands.",
+      "enum": [
+        "DRAFT",
+        "IN_REVIEW",
+        "APPROVED",
+        "SUPERSEDED"
+      ],
+      "title": "ApprovalState",
+      "type": "string"
+    },
+    "CharacterEntry": {
+      "additionalProperties": false,
+      "properties": {
+        "character_id": {
+          "anyOf": [
+            {
+              "format": "uuid",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Character Id"
+        },
+        "name": {
+          "maxLength": 120,
+          "minLength": 1,
+          "title": "Name",
+          "type": "string"
+        },
+        "notes": {
+          "default": "",
+          "maxLength": 2000,
+          "title": "Notes",
+          "type": "string"
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "title": "CharacterEntry",
+      "type": "object"
+    },
+    "DialogueLine": {
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "default": "speech",
+          "enum": [
+            "speech",
+            "thought",
+            "caption",
+            "narration",
+            "sfx"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "speaker": {
+          "default": "",
+          "maxLength": 120,
+          "title": "Speaker",
+          "type": "string"
+        },
+        "text": {
+          "maxLength": 2000,
+          "title": "Text",
+          "type": "string"
+        }
+      },
+      "required": [
+        "text"
+      ],
+      "title": "DialogueLine",
+      "type": "object"
+    },
+    "GeneratedOutput": {
+      "additionalProperties": false,
+      "properties": {
+        "artifact_id": {
+          "anyOf": [
+            {
+              "format": "uuid",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Artifact Id"
+        },
+        "attempt_id": {
+          "anyOf": [
+            {
+              "format": "uuid",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Attempt Id"
+        },
+        "content_hash": {
+          "anyOf": [
+            {
+              "pattern": "^[0-9a-f]{64}$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Content Hash"
+        },
+        "note": {
+          "default": "",
+          "maxLength": 1000,
+          "title": "Note",
+          "type": "string"
+        }
+      },
+      "title": "GeneratedOutput",
+      "type": "object"
+    },
+    "Page": {
+      "additionalProperties": false,
+      "properties": {
+        "notes": {
+          "default": "",
+          "maxLength": 4000,
+          "title": "Notes",
+          "type": "string"
+        },
+        "page_id": {
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,79}$",
+          "title": "Page Id",
+          "type": "string"
+        },
+        "panels": {
+          "items": {
+            "$ref": "#/$defs/Panel"
+          },
+          "maxItems": 40,
+          "title": "Panels",
+          "type": "array"
+        },
+        "scene_id": {
+          "anyOf": [
+            {
+              "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,79}$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Scene Id"
+        }
+      },
+      "required": [
+        "page_id"
+      ],
+      "title": "Page",
+      "type": "object"
+    },
+    "Panel": {
+      "additionalProperties": false,
+      "properties": {
+        "approval_state": {
+          "$ref": "#/$defs/ApprovalState",
+          "default": "DRAFT"
+        },
+        "characters_present": {
+          "items": {
+            "type": "string"
+          },
+          "maxItems": 40,
+          "title": "Characters Present",
+          "type": "array"
+        },
+        "description": {
+          "default": "",
+          "maxLength": 8000,
+          "title": "Description",
+          "type": "string"
+        },
+        "dialogue": {
+          "items": {
+            "$ref": "#/$defs/DialogueLine"
+          },
+          "maxItems": 60,
+          "title": "Dialogue",
+          "type": "array"
+        },
+        "generated_outputs": {
+          "items": {
+            "$ref": "#/$defs/GeneratedOutput"
+          },
+          "maxItems": 40,
+          "title": "Generated Outputs",
+          "type": "array"
+        },
+        "generation_notes": {
+          "default": "",
+          "maxLength": 8000,
+          "title": "Generation Notes",
+          "type": "string"
+        },
+        "optional_visual_references": {
+          "items": {
+            "$ref": "#/$defs/SourceRef"
+          },
+          "maxItems": 40,
+          "title": "Optional Visual References",
+          "type": "array"
+        },
+        "panel_id": {
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,79}$",
+          "title": "Panel Id",
+          "type": "string"
+        },
+        "required_source_references": {
+          "items": {
+            "$ref": "#/$defs/SourceRef"
+          },
+          "maxItems": 40,
+          "title": "Required Source References",
+          "type": "array"
+        }
+      },
+      "required": [
+        "panel_id"
+      ],
+      "title": "Panel",
+      "type": "object"
+    },
+    "Provenance": {
+      "additionalProperties": false,
+      "properties": {
+        "notes": {
+          "default": "",
+          "maxLength": 4000,
+          "title": "Notes",
+          "type": "string"
+        },
+        "prepared_by": {
+          "default": "",
+          "maxLength": 200,
+          "title": "Prepared By",
+          "type": "string"
+        },
+        "source_documents": {
+          "items": {
+            "$ref": "#/$defs/SourceDocument"
+          },
+          "maxItems": 40,
+          "title": "Source Documents",
+          "type": "array"
+        }
+      },
+      "title": "Provenance",
+      "type": "object"
+    },
+    "Scene": {
+      "additionalProperties": false,
+      "properties": {
+        "characters_present": {
+          "items": {
+            "type": "string"
+          },
+          "maxItems": 40,
+          "title": "Characters Present",
+          "type": "array"
+        },
+        "description": {
+          "default": "",
+          "maxLength": 8000,
+          "title": "Description",
+          "type": "string"
+        },
+        "scene_id": {
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,79}$",
+          "title": "Scene Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "scene_id"
+      ],
+      "title": "Scene",
+      "type": "object"
+    },
+    "SourceDocument": {
+      "additionalProperties": false,
+      "properties": {
+        "document_id": {
+          "pattern": "^[a-z0-9][a-z0-9-]{0,79}$",
+          "title": "Document Id",
+          "type": "string"
+        },
+        "sha256": {
+          "anyOf": [
+            {
+              "pattern": "^[0-9a-f]{64}$",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Sha256"
+        },
+        "version": {
+          "anyOf": [
+            {
+              "maxLength": 20,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Version"
+        }
+      },
+      "required": [
+        "document_id"
+      ],
+      "title": "SourceDocument",
+      "type": "object"
+    },
+    "SourceRef": {
+      "additionalProperties": false,
+      "description": "A reference a panel needs, named by catalog ids or a content locator.",
+      "properties": {
+        "locator": {
+          "anyOf": [
+            {
+              "maxLength": 2048,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Locator"
+        },
+        "note": {
+          "default": "",
+          "maxLength": 1000,
+          "title": "Note",
+          "type": "string"
+        },
+        "page": {
+          "anyOf": [
+            {
+              "minimum": 1,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Page"
+        },
+        "reference_id": {
+          "anyOf": [
+            {
+              "format": "uuid",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Reference Id"
+        },
+        "time_ms": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Time Ms"
+        },
+        "unit_id": {
+          "anyOf": [
+            {
+              "format": "uuid",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Unit Id"
+        }
+      },
+      "title": "SourceRef",
+      "type": "object"
+    }
+  },
+  "$id": "https://continuum.local/schemas/chapter-package.v1.schema.json",
+  "additionalProperties": false,
+  "properties": {
+    "approval_state": {
+      "$ref": "#/$defs/ApprovalState",
+      "default": "DRAFT"
+    },
+    "chapter": {
+      "maxLength": 40,
+      "minLength": 1,
+      "title": "Chapter",
+      "type": "string"
+    },
+    "characters": {
+      "items": {
+        "$ref": "#/$defs/CharacterEntry"
+      },
+      "maxItems": 200,
+      "title": "Characters",
+      "type": "array"
+    },
+    "episode": {
+      "anyOf": [
+        {
+          "maxLength": 40,
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Episode"
+    },
+    "pages": {
+      "items": {
+        "$ref": "#/$defs/Page"
+      },
+      "maxItems": 400,
+      "title": "Pages",
+      "type": "array"
+    },
+    "project": {
+      "pattern": "^[a-z0-9][a-z0-9-]{0,79}$",
+      "title": "Project",
+      "type": "string"
+    },
+    "provenance": {
+      "$ref": "#/$defs/Provenance"
+    },
+    "scenes": {
+      "items": {
+        "$ref": "#/$defs/Scene"
+      },
+      "maxItems": 200,
+      "title": "Scenes",
+      "type": "array"
+    },
+    "schema": {
+      "const": "continuum.chapter-package/1",
+      "default": "continuum.chapter-package/1",
+      "title": "Schema",
+      "type": "string"
+    },
+    "season": {
+      "anyOf": [
+        {
+          "maxLength": 40,
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Season"
+    },
+    "title": {
+      "default": "",
+      "maxLength": 300,
+      "title": "Title",
+      "type": "string"
+    }
+  },
+  "required": [
+    "project",
+    "chapter"
+  ],
+  "title": "Continuum chapter package v1",
+  "type": "object"
+}

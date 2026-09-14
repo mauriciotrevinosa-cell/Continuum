@@ -49,6 +49,7 @@ __all__ = [
     "hash_catalog_file",
     "inspect_archive",
     "probe_file",
+    "read_catalog_file",
     "stat_file",
     "survey_root",
 ]
@@ -426,6 +427,26 @@ def inspect_archive(root: CatalogRoot, relative: str) -> ArchiveInspection:
         video_members=tuple(videos),
         has_comic_info=has_comic_info,
     )
+
+
+# ---------------------------------------------------------------------------
+# reading
+# ---------------------------------------------------------------------------
+def read_catalog_file(
+    root: CatalogRoot, relative: str, *, expected_size: int, expected_mtime_ns: int
+) -> bytes:
+    """A whole catalogued file, only if it is still the file that was observed."""
+    info = _stat(root, relative)
+    if (int(info.st_size), int(info.st_mtime_ns)) != (expected_size, expected_mtime_ns):
+        raise FileChangedError("The file changed since it was catalogued; rescan the folder first.")
+    try:
+        with root.reader.open_read(PurePath(relative)) as handle:
+            data = handle.read(expected_size + 1)
+    except (PathEscapesRootError, OSError, ValueError) as exc:
+        raise SurveyReadError("That file could not be read.", technical_detail=str(exc)) from None
+    if len(data) != expected_size:
+        raise FileChangedError("The file changed while it was read; rescan the folder first.")
+    return data
 
 
 # ---------------------------------------------------------------------------

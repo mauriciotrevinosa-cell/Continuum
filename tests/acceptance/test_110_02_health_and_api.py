@@ -281,6 +281,38 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/production/attempts/{attempt_id}/image",
             "/production/attempts/{attempt_id}/review",
             "/production/attempts/{attempt_id}/continuity",
+            # Phase 1.5 full-Vault catalog: roots and series by key, units and
+            # archive members by id, media by opaque id - never a path.
+            "/catalog/roots",
+            "/catalog/roots/{root_key}/hash",
+            "/catalog/roots/{root_key}/import",
+            "/catalog/scans",
+            "/catalog/coverage",
+            "/catalog/coverage/markdown",
+            "/catalog/entries",
+            "/catalog/series",
+            "/catalog/series/{series_key}",
+            "/catalog/units",
+            "/catalog/units/{unit_id}",
+            "/catalog/search",
+            "/catalog/progress/reading",
+            "/catalog/progress/watching",
+            "/catalog/progress/continue",
+            "/catalog/progress/position",
+            "/catalog/members/{member_id}",
+            "/catalog/members/{member_id}/prepare",
+            "/catalog/members/{member_id}/content",
+            # Phase 1.5 project production inputs.
+            "/projects/{project_id}/reference-manifests",
+            "/production/reference-manifests/{manifest_id}",
+            "/production/chapter-package-schema",
+            "/projects/{project_id}/chapter-packages",
+            "/projects/{project_id}/chapter-packages/validate",
+            "/projects/{project_id}/chapter-packages/{package_key}",
+            "/projects/{project_id}/chapter-packages/{package_key}/approval",
+            "/projects/{project_id}/music",
+            "/projects/{project_id}/music/{music_id}/update",
+            "/projects/{project_id}/music/{music_id}/remove",
         }
 
     def test_cors_is_not_a_wildcard(self, settings: Settings) -> None:

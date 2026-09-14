@@ -811,6 +811,11 @@ DocumentLifecycle = Literal[
 ]
 
 
+class DocumentOverride(BaseModel):
+    document: str
+    scope: str = ""
+
+
 class ProjectDocumentOut(BaseModel):
     id: str
     title: str
@@ -832,6 +837,14 @@ class ProjectDocumentOut(BaseModel):
     size_bytes: int = 0
     filed: bool = True
     constraints: list[str] = Field(default_factory=list)
+    #: How developed the document is: ROUGH, DETAILED or PRODUCTION_READY.
+    maturity: Literal["ROUGH", "DETAILED", "PRODUCTION_READY"] | None = None
+    #: RULE, CORRECTION, INDEX or CONTENT - as the project manifest records it.
+    authority: Literal["CONTENT", "RULE", "CORRECTION", "INDEX"] = "CONTENT"
+    #: Parts of other documents this one overrides, as the documents state it.
+    overrides: list[DocumentOverride] = Field(default_factory=list)
+    #: Documents that override part of this one.
+    overridden_by: list[DocumentOverride] = Field(default_factory=list)
 
 
 class PipelineStage(BaseModel):

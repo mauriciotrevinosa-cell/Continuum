@@ -5,6 +5,7 @@ A locator names *bytes*, never a path and never a database row::
     <medium>:sha256:<asset_content_hash>[#<unit-address>]
 
     zip:sha256:ab12...#entry=Vol%2001/Ch0003/012.webp
+    zip:sha256:ab12...#entry=Season%202/Episode%2003.mkv&t=00:07:41.250
     image:sha256:cd34...
     pdf:sha256:ef56...#page=88
     video:sha256:0a1b...#t=00:12:03.400
@@ -114,6 +115,9 @@ class SourceLocator:
             for name, value in (("entry", self.entry), ("page", self.page), ("t", self.time_ms))
             if value is not None
         ]
+        if self.medium is LocatorMedium.ZIP and given == ["entry", "t"]:
+            # An instant in a video stored inside an archive (Phase 1.5).
+            given = ["entry"]
         if expected is None and given:
             raise _invalid(f"A {self.medium} locator addresses the whole file.", str(given))
         if expected is not None and given != [expected[0]]:
@@ -138,6 +142,11 @@ class SourceLocator:
         return cls(medium=LocatorMedium.ZIP, sha256=sha256, entry=entry)
 
     @classmethod
+    def archive_instant(cls, sha256: str, entry: str, time_ms: int) -> SourceLocator:
+        """An instant in a video that is itself a member of an archive."""
+        return cls(medium=LocatorMedium.ZIP, sha256=sha256, entry=entry, time_ms=time_ms)
+
+    @classmethod
     def pdf_page(cls, sha256: str, page: int) -> SourceLocator:
         return cls(medium=LocatorMedium.PDF, sha256=sha256, page=page)
 
@@ -145,18 +154,34 @@ class SourceLocator:
     def render(self) -> str:
         head = f"{self.medium.value}:sha256:{self.sha256}"
         if self.entry is not None:
-            return f"{head}#entry={quote(self.entry, safe=_ENTRY_SAFE)}"
+            address = f"{head}#entry={quote(self.entry, safe=_ENTRY_SAFE)}"
+            if self.time_ms is not None:
+                # '&' is always escaped inside an entry, so this cannot be ambiguous.
+                address += f"&t={_clock(self.time_ms)}"
+            return address
         if self.page is not None:
             return f"{head}#page={self.page}"
         if self.time_ms is not None:
-            total_seconds, millis = divmod(self.time_ms, 1000)
-            minutes, seconds = divmod(total_seconds, 60)
-            hours, minutes = divmod(minutes, 60)
-            return f"{head}#t={hours:02d}:{minutes:02d}:{seconds:02d}.{millis:03d}"
+            return f"{head}#t={_clock(self.time_ms)}"
         return head
 
     def __str__(self) -> str:
         return self.render()
+
+
+def _clock(time_ms: int) -> str:
+    total_seconds, millis = divmod(time_ms, 1000)
+    minutes, seconds = divmod(total_seconds, 60)
+    hours, minutes = divmod(minutes, 60)
+    return f"{hours:02d}:{minutes:02d}:{seconds:02d}.{millis:03d}"
+
+
+def _instant(value: str) -> int:
+    match = _TIME.match(value)
+    if not match:
+        raise _invalid("A video instant looks like 'hh:mm:ss.mmm'.", value)
+    hours, minutes, seconds, millis = (int(g) for g in match.groups())
+    return ((hours * 60 + minutes) * 60 + seconds) * 1000 + millis
 
 
 def parse_locator(text: str) -> SourceLocator:
@@ -180,6 +205,15 @@ def parse_locator(text: str) -> SourceLocator:
     if not sep or not value:
         raise _invalid("A locator unit looks like 'key=value'.", fragment)
     if key == "entry":
+        time_ms: int | None = None
+        if "&" in value:
+            value, _, extra = value.partition("&")
+            extra_key, extra_sep, extra_value = extra.partition("=")
+            if medium is not LocatorMedium.ZIP or extra_key != "t" or not extra_sep:
+                raise _invalid(
+                    "An archive entry may only be followed by '&t=hh:mm:ss.mmm'.", fragment
+                )
+            time_ms = _instant(extra_value)
         if "%" in value:
             # Only well-formed escapes; a raw '%' would decode ambiguously.
             if re.search(r"%(?![0-9A-Fa-f]{2})", value):
@@ -187,21 +221,13 @@ def parse_locator(text: str) -> SourceLocator:
         entry = unquote(value, errors="strict")
         if quote(entry, safe=_ENTRY_SAFE) != value:
             raise _invalid("An archive entry is not in canonical form.", value)
-        return SourceLocator(medium=medium, sha256=sha256, entry=entry)
+        return SourceLocator(medium=medium, sha256=sha256, entry=entry, time_ms=time_ms)
     if key == "page":
         if not value.isdigit() or value.startswith("0"):
             raise _invalid("A PDF page is a positive integer.", value)
         return SourceLocator(medium=medium, sha256=sha256, page=int(value))
     if key == "t":
-        match = _TIME.match(value)
-        if not match:
-            raise _invalid("A video instant looks like 'hh:mm:ss.mmm'.", value)
-        hours, minutes, seconds, millis = (int(g) for g in match.groups())
-        return SourceLocator(
-            medium=medium,
-            sha256=sha256,
-            time_ms=((hours * 60 + minutes) * 60 + seconds) * 1000 + millis,
-        )
+        return SourceLocator(medium=medium, sha256=sha256, time_ms=_instant(value))
     raise _invalid("Unknown locator unit.", key)
 
 

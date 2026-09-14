@@ -1,0 +1,81 @@
+{
+  "schema": "continuum.chapter-package/1",
+  "project": "your-project-id",
+  "season": "S1",
+  "episode": "S1E1",
+  "chapter": "1",
+  "title": "Working title of the chapter",
+  "characters": [
+    {
+      "name": "Character A",
+      "character_id": null,
+      "notes": "Link a Character Vault id when the character has one."
+    },
+    {
+      "name": "Character B",
+      "character_id": null,
+      "notes": ""
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene-01",
+      "description": "Describe what happens in this scene, from the approved story documents.",
+      "characters_present": ["Character A", "Character B"]
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "p001",
+      "scene_id": "scene-01",
+      "notes": "",
+      "panels": [
+        {
+          "panel_id": "p001-1",
+          "description": "Describe the panel: framing, staging, acting.",
+          "characters_present": ["Character A"],
+          "dialogue": [
+            {
+              "speaker": "Character A",
+              "kind": "speech",
+              "text": "A line from the approved script."
+            },
+            {
+              "speaker": "",
+              "kind": "sfx",
+              "text": "A sound effect, if any."
+            }
+          ],
+          "required_source_references": [
+            {
+              "unit_id": "00000000-0000-0000-0000-000000000000",
+              "page": 1,
+              "note": "Replace with a catalog unit id and page, or remove."
+            }
+          ],
+          "optional_visual_references": [
+            {
+              "reference_id": "00000000-0000-0000-0000-000000000000",
+              "note": "Replace with a reference id, or remove."
+            }
+          ],
+          "generation_notes": "Notes for rough generation.",
+          "generated_outputs": [],
+          "approval_state": "DRAFT"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "source_documents": [
+      {
+        "document_id": "your-panel-script-document-id",
+        "version": "0.1",
+        "sha256": null
+      }
+    ],
+    "prepared_by": "",
+    "notes": "Every field above is a placeholder. Fill it from approved project documents; nothing in this template is story content."
+  },
+  "approval_state": "DRAFT"
+}

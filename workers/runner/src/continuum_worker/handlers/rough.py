@@ -14,8 +14,10 @@ from collections.abc import Sequence
 from typing import Any, ClassVar
 
 from continuum_core import ContinuumError, ErrorCategory
+from continuum_db.session import session_scope
 from continuum_jobs import JobContext, UnitOutcome, UnitSpec
 from continuum_library import ReferenceCatalog
+from continuum_library.catalog_records import CatalogRecordSupplement
 from continuum_production import ROUGH_JOB_TYPE, render_attempt
 from continuum_storage import AcquisitionStore, MediaLibrary, SourceAccess
 
@@ -64,6 +66,10 @@ class RoughAttemptHandler:
         documents = settings.acquisition_dir()
         key = (str(vault), str(documents))
         if key not in self._sources:
-            media = MediaLibrary(AcquisitionStore(documents), vault)
+            media = MediaLibrary(
+                AcquisitionStore(documents),
+                vault,
+                supplement=CatalogRecordSupplement(lambda: session_scope(settings)),
+            )
             self._sources[key] = SourceAccess(media, vault)
         return self._sources[key]

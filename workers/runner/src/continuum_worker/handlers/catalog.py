@@ -17,20 +17,41 @@ read-only survey layer.
 
 from __future__ import annotations
 
+import datetime as dt
 import hashlib
+import json
 import uuid
 from collections.abc import Sequence
 from typing import Any, ClassVar
 
 from continuum_core import ContinuumError, ErrorCategory
 from continuum_jobs import JobContext, UnitOutcome, UnitSpec
+from continuum_library import ReferenceCatalog
+from continuum_library.collection_import import (
+    CollectionImport,
+    import_report,
+    render_import_markdown,
+)
 from continuum_library.coverage import write_coverage_report
+from continuum_library.members import extract_member
 from continuum_library.vault_catalog import VaultCatalog, works_aliases
-from continuum_library.vault_jobs import CATALOG_HASH_JOB, CATALOG_SCAN_JOB
-from continuum_storage import AcquisitionStore, DerivedStore, engine_index_records
+from continuum_library.vault_jobs import (
+    CATALOG_HASH_JOB,
+    CATALOG_SCAN_JOB,
+    INTAKE_IMPORT_JOB,
+    MEMBER_EXTRACT_JOB,
+)
+from continuum_storage import AcquisitionStore, DerivedStore, engine_index_records, write_report
+from continuum_storage.member_cache import MemberCache
 from continuum_storage.survey import CatalogRoot, SurveyedFile, catalog_roots, survey_root
 
-__all__ = ["SCAN_BATCH_FILES", "CatalogHashHandler", "CatalogScanHandler"]
+__all__ = [
+    "SCAN_BATCH_FILES",
+    "CatalogHashHandler",
+    "CatalogScanHandler",
+    "CollectionImportHandler",
+    "MemberExtractHandler",
+]
 
 #: Files observed per unit. Small enough that a resumed scan repeats little,
 #: large enough that a 2,500-file Vault is about a hundred units, not thousands.
@@ -147,3 +168,96 @@ class CatalogHashHandler:
             return UnitOutcome(result={"relinked": catalog.mark_duplicates()})
         digest = catalog.hash_entry(uuid.UUID(str(unit.payload["entry_id"])))
         return UnitOutcome(result={"hashed": digest is not None})
+
+
+#: Intake entries settled per unit: small, because each may store an image.
+IMPORT_BATCH_ENTRIES = 10
+
+
+def _derived(ctx: JobContext) -> DerivedStore:
+    if not isinstance(ctx.derived, DerivedStore):
+        raise CatalogPayloadError("This job needs writable storage, and the worker has none.")
+    return ctx.derived
+
+
+class CollectionImportHandler:
+    job_type: ClassVar[str] = INTAKE_IMPORT_JOB
+
+    def _importer(self, ctx: JobContext) -> CollectionImport:
+        root = _root(ctx)
+        return CollectionImport(
+            ctx.session, ReferenceCatalog(ctx.session, derived=_derived(ctx)), root
+        )
+
+    def plan(self, ctx: JobContext) -> Sequence[UnitSpec]:
+        importer = self._importer(ctx)
+        batch = importer.batch(f"{importer.root.collection} collection import")
+        ids = importer.entry_ids()
+        units = [
+            UnitSpec(
+                unit_key="settle:"
+                + hashlib.sha256(
+                    "|".join(str(i) for i in ids[start : start + IMPORT_BATCH_ENTRIES]).encode()
+                ).hexdigest()[:32],
+                ordinal=start // IMPORT_BATCH_ENTRIES,
+                payload={
+                    "entries": [str(i) for i in ids[start : start + IMPORT_BATCH_ENTRIES]],
+                    "batch_id": str(batch.id),
+                },
+            )
+            for start in range(0, len(ids), IMPORT_BATCH_ENTRIES)
+        ]
+        units.append(UnitSpec(unit_key="report", ordinal=len(units)))
+        return units
+
+    def execute_unit(self, ctx: JobContext, unit: UnitSpec) -> UnitOutcome:
+        importer = self._importer(ctx)
+        if unit.unit_key == "report":
+            report = import_report(ctx.session, importer.root)
+            slug = importer.root.key.split(":", 1)[-1]
+            derived = _derived(ctx)
+            body = json.dumps(report, indent=2, ensure_ascii=False).encode("utf-8")
+            write_report(derived, "imports", f"{slug}-latest.json", body)
+            write_report(
+                derived,
+                "imports",
+                f"{slug}-latest.md",
+                render_import_markdown(report).encode("utf-8"),
+            )
+            stamp = dt.datetime.now(dt.UTC).strftime("%Y%m%dt%H%M%Sz")
+            write_report(derived, "imports", f"{slug}-{stamp}.json", body)
+            return UnitOutcome(result={"totals": report["totals"]})
+        states: dict[str, int] = {}
+        batch_id = uuid.UUID(str(unit.payload["batch_id"]))
+        for raw in unit.payload.get("entries", []):
+            outcome = importer.settle(uuid.UUID(str(raw)), batch_id=batch_id)
+            states[outcome["state"]] = states.get(outcome["state"], 0) + 1
+        return UnitOutcome(result=states)
+
+
+class MemberExtractHandler:
+    job_type: ClassVar[str] = MEMBER_EXTRACT_JOB
+
+    def plan(self, ctx: JobContext) -> Sequence[UnitSpec]:
+        try:
+            uuid.UUID(str(ctx.payload.get("member_id")))
+        except ValueError:
+            raise CatalogPayloadError("The extraction job does not name a member.") from None
+        return [UnitSpec(unit_key="extract", ordinal=0)]
+
+    def execute_unit(self, ctx: JobContext, unit: UnitSpec) -> UnitOutcome:
+        settings: Any = ctx.settings
+        if settings is None:
+            raise CatalogPayloadError("The extraction job has no settings.")
+        vault = next((r for r in catalog_roots(settings) if r.is_vault), None)
+        if vault is None:
+            raise CatalogPayloadError("The Source Vault is not configured.")
+        cache = MemberCache(
+            _derived(ctx),
+            budget_bytes=settings.member_cache_bytes,
+            max_member_bytes=settings.member_cache_max_member_bytes,
+        )
+        result = extract_member(
+            ctx.session, uuid.UUID(str(ctx.payload["member_id"])), root=vault, cache=cache
+        )
+        return UnitOutcome(result=result)

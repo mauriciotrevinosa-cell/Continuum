@@ -25,6 +25,7 @@ from fastapi import APIRouter, HTTPException, Request, status
 from fastapi import Path as PathParam
 
 from continuum_api.schemas import (
+    DocumentOverride,
     PipelineStage,
     ProjectDetail,
     ProjectDocumentBody,
@@ -103,6 +104,15 @@ def _document(document: ProjectDocument, project: Project) -> ProjectDocumentOut
         size_bytes=document.size_bytes,
         filed=document.filed,
         constraints=list(document.constraints),
+        maturity=document.maturity,  # type: ignore[arg-type]
+        authority=document.authority,  # type: ignore[arg-type]
+        overrides=[DocumentOverride(document=d, scope=scope) for d, scope in document.overrides],
+        overridden_by=[
+            DocumentOverride(document=other.id, scope=scope)
+            for other in project.documents
+            for target, scope in other.overrides
+            if target == document.id
+        ],
     )
 
 

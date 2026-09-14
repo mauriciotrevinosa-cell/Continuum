@@ -23,6 +23,8 @@ from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
 
 from continuum_config import Settings, get_settings
+from continuum_db.session import session_scope
+from continuum_library.catalog_records import CatalogRecordSupplement
 from continuum_observability import configure_logging, correlation_scope, get_logger
 from continuum_providers import build_default_registry
 from continuum_storage import (
@@ -38,11 +40,13 @@ from starlette.responses import JSONResponse
 
 from continuum_api.routers import (
     acquisition,
+    catalog,
     health,
     jobs,
     library,
     media,
     production,
+    project_inputs,
     projects,
     workers,
 )
@@ -71,7 +75,14 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     )
     # Held media, opened by opaque id against the configured Source Vault.
     # Read-only by construction: it reads through SourceVaultReader.
-    app.state.media = MediaLibrary(app.state.acquisition, settings.root("source_vault"))
+    # The catalog supplements the engine's listing: files observed by a catalog
+    # scan open even before the acquisition engine scans again.
+    app.state.catalog_records = CatalogRecordSupplement(lambda: session_scope(settings))
+    app.state.media = MediaLibrary(
+        app.state.acquisition,
+        settings.root("source_vault"),
+        supplement=app.state.catalog_records,
+    )
     # Held media as content-addressed reference units (pages, images, PDF
     # pages, video instants). Read-only, over the same reader.
     app.state.sources = SourceAccess(app.state.media, settings.root("source_vault"))
@@ -148,4 +159,6 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     app.include_router(projects.router)
     app.include_router(library.router)
     app.include_router(production.router)
+    app.include_router(catalog.router)
+    app.include_router(project_inputs.router)
     return app

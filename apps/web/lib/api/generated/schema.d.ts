@@ -4,6 +4,348 @@
  */
 
 export interface paths {
+    "/catalog/coverage": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Coverage
+         * @description The coverage audit, computed from the catalog now.
+         */
+        get: operations["coverage_catalog_coverage_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/coverage/markdown": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Coverage Markdown */
+        get: operations["coverage_markdown_catalog_coverage_markdown_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/entries": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Entries */
+        get: operations["list_entries_catalog_entries_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/members/{member_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Member */
+        get: operations["get_member_catalog_members__member_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/members/{member_id}/content": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Member Content
+         * @description Stream a prepared archive member, honouring a single byte range.
+         */
+        get: operations["member_content_catalog_members__member_id__content_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/members/{member_id}/prepare": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Prepare
+         * @description Queue the extraction of one archived video into the managed cache.
+         */
+        post: operations["prepare_catalog_members__member_id__prepare_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/progress/continue": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Progress Continue */
+        get: operations["progress_continue_catalog_progress_continue_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/progress/position": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Progress Position */
+        get: operations["progress_position_catalog_progress_position_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/progress/reading": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Progress Reading */
+        post: operations["progress_reading_catalog_progress_reading_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/progress/watching": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Progress Watching */
+        post: operations["progress_watching_catalog_progress_watching_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/roots": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Roots
+         * @description The folders the catalog covers, whether they are reachable, and their last scan.
+         */
+        get: operations["roots_catalog_roots_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/roots/{root_key}/hash": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Start Hash */
+        post: operations["start_hash_catalog_roots__root_key__hash_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/roots/{root_key}/import": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Import Status */
+        get: operations["import_status_catalog_roots__root_key__import_get"];
+        put?: never;
+        /**
+         * Start Import
+         * @description Rescan an intake collection, hash it, and import it as references.
+         */
+        post: operations["start_import_catalog_roots__root_key__import_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/scans": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Start Scan
+         * @description Queue a scan (and a hash pass after it) of the named roots, or of all of them.
+         */
+        post: operations["start_scan_catalog_scans_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/search": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Search */
+        get: operations["search_catalog_search_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/series": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Series */
+        get: operations["list_series_catalog_series_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/series/{series_key}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Series */
+        get: operations["get_series_catalog_series__series_key__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/units": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Search Units */
+        get: operations["search_units_catalog_units_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/units/{unit_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Unit */
+        get: operations["get_unit_catalog_units__unit_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/health": {
         parameters: {
             query?: never;
@@ -1442,6 +1784,23 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/production/chapter-package-schema": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Chapter Package Schema */
+        get: operations["chapter_package_schema_production_chapter_package_schema_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/production/readiness": {
         parameters: {
             query?: never;
@@ -1454,6 +1813,23 @@ export interface paths {
          * @description Whether a rough renderer is permitted, and which - without running it.
          */
         get: operations["readiness_production_readiness_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/reference-manifests/{manifest_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Manifest */
+        get: operations["get_manifest_production_reference_manifests__manifest_id__get"];
         put?: never;
         post?: never;
         delete?: never;
@@ -1530,6 +1906,75 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/projects/{project_id}/chapter-packages": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Packages */
+        get: operations["list_packages_projects__project_id__chapter_packages_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}/chapter-packages/validate": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Validate Package */
+        post: operations["validate_package_projects__project_id__chapter_packages_validate_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}/chapter-packages/{package_key}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Package Versions */
+        get: operations["package_versions_projects__project_id__chapter_packages__package_key__get"];
+        put?: never;
+        /** Save Package */
+        post: operations["save_package_projects__project_id__chapter_packages__package_key__post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}/chapter-packages/{package_key}/approval": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Package Approval */
+        post: operations["package_approval_projects__project_id__chapter_packages__package_key__approval_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/projects/{project_id}/documents/{document_id}": {
         parameters: {
             query?: never;
@@ -1547,6 +1992,58 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/projects/{project_id}/music": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Music */
+        get: operations["list_music_projects__project_id__music_get"];
+        put?: never;
+        /** Add Music */
+        post: operations["add_music_projects__project_id__music_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}/music/{music_id}/remove": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Remove Music */
+        post: operations["remove_music_projects__project_id__music__music_id__remove_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}/music/{music_id}/update": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Update Music */
+        post: operations["update_music_projects__project_id__music__music_id__update_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/projects/{project_id}/panel-sources": {
         parameters: {
             query?: never;
@@ -1558,6 +2055,27 @@ export interface paths {
         get: operations["list_panel_sources_projects__project_id__panel_sources_get"];
         put?: never;
         post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}/reference-manifests": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Manifests */
+        get: operations["list_manifests_projects__project_id__reference_manifests_get"];
+        put?: never;
+        /**
+         * Build Manifest
+         * @description Resolve a deterministic production input manifest from the real Vault.
+         */
+        post: operations["build_manifest_projects__project_id__reference_manifests_post"];
         delete?: never;
         options?: never;
         head?: never;
@@ -1867,6 +2385,20 @@ export interface components {
             /** Url */
             url: string;
         };
+        /** ApprovalIn */
+        ApprovalIn: {
+            approval_state: components["schemas"]["ApprovalState"];
+            /** Row Version */
+            row_version: number;
+            /** Version */
+            version: number;
+        };
+        /**
+         * ApprovalState
+         * @description Where a production package stands.
+         * @enum {string}
+         */
+        ApprovalState: "DRAFT" | "IN_REVIEW" | "APPROVED" | "SUPERSEDED";
         /** ArchiveListingOut */
         ArchiveListingOut: {
             /** Chapters */
@@ -2053,6 +2585,13 @@ export interface components {
             /** Label */
             label: string;
         };
+        /** ChapterPackageRefIn */
+        ChapterPackageRefIn: {
+            /** Package Key */
+            package_key: string;
+            /** Version */
+            version: number;
+        };
         /**
          * CharacterAspect
          * @description What part of a character a reference shows.
@@ -2117,6 +2656,12 @@ export interface components {
              */
             preferred: boolean;
         };
+        /**
+         * Confidence
+         * @description How sure an identification is. LOW is always shown as uncertain.
+         * @enum {string}
+         */
+        Confidence: "HIGH" | "MEDIUM" | "LOW";
         /**
          * ContainedVideo
          * @description A video inside an archive. Listed, never streamed from the archive.
@@ -2199,6 +2744,16 @@ export interface components {
             /** Visual Mode Id */
             visual_mode_id?: string | null;
         };
+        /** DocumentOverride */
+        DocumentOverride: {
+            /** Document */
+            document: string;
+            /**
+             * Scope
+             * @default
+             */
+            scope: string;
+        };
         /** DocumentStatus */
         DocumentStatus: {
             /** Error */
@@ -2252,6 +2807,12 @@ export interface components {
              */
             resource_class: string;
         };
+        /**
+         * EntryStatus
+         * @description Where one file stands in the catalog.
+         * @enum {string}
+         */
+        EntryStatus: "CATALOGUED" | "UNSUPPORTED" | "FAILED" | "MISSING";
         /**
          * EpisodeRun
          * @description Episodes of one season, as the file names state them.
@@ -2831,6 +3392,47 @@ export interface components {
              */
             unverified: number;
         };
+        /** ManifestIn */
+        ManifestIn: {
+            chapter_package?: components["schemas"]["ChapterPackageRefIn"] | null;
+            /** Character Ids */
+            character_ids?: string[];
+            /** Document Ids */
+            document_ids?: string[];
+            /** Generation Settings */
+            generation_settings?: {
+                [key: string]: unknown;
+            };
+            /**
+             * Include Project References
+             * @default false
+             */
+            include_project_references: boolean;
+            /**
+             * Label
+             * @default
+             */
+            label: string;
+            /** Music Ids */
+            music_ids?: string[];
+            /**
+             * Purpose
+             * @default
+             */
+            purpose: string;
+            /** Reference Ids */
+            reference_ids?: string[];
+            /** Source Moments */
+            source_moments?: components["schemas"]["SourceMomentIn"][];
+            /** Source Pages */
+            source_pages?: components["schemas"]["SourcePageIn"][];
+        };
+        /**
+         * MaterialClass
+         * @description What the material is for a person: manga, anime, fan art...
+         * @enum {string}
+         */
+        MaterialClass: "MANGA" | "MANHWA" | "MANHUA" | "COMIC" | "ANIME" | "FAN_ART" | "REFERENCE" | "DOCUMENT" | "SOFTWARE" | "UNKNOWN";
         /**
          * MaterialSummary
          * @description One kind of material within a family: what is held and what is not.
@@ -3034,6 +3636,67 @@ export interface components {
          * @enum {string}
          */
         ModeTrigger: "DIRECTORIAL" | "SCENE_TONE" | "CHARACTER_CONTROLLED";
+        /** MusicIn */
+        MusicIn: {
+            /**
+             * Artist
+             * @default
+             */
+            artist: string;
+            /**
+             * Episode
+             * @default
+             */
+            episode: string;
+            /**
+             * Intended Use
+             * @default
+             */
+            intended_use: string;
+            /**
+             * Mood
+             * @default
+             */
+            mood: string;
+            /**
+             * Notes
+             * @default
+             */
+            notes: string;
+            /**
+             * Reference
+             * @default
+             */
+            reference: string;
+            /**
+             * Scene
+             * @default
+             */
+            scene: string;
+            /** Track */
+            track: string;
+        };
+        /** MusicUpdateIn */
+        MusicUpdateIn: {
+            /** Artist */
+            artist?: string | null;
+            /** Episode */
+            episode?: string | null;
+            /** Intended Use */
+            intended_use?: string | null;
+            /** Mood */
+            mood?: string | null;
+            /** Notes */
+            notes?: string | null;
+            /** Reference */
+            reference?: string | null;
+            /** Row Version */
+            row_version: number;
+            /** Scene */
+            scene?: string | null;
+            /** Track */
+            track?: string | null;
+        };
         /**
          * NextStep
          * @description One useful thing to do next, in plain words.
@@ -3128,6 +3791,18 @@ export interface components {
          * @enum {string}
          */
         OutfitKind: "SOURCE_DEFAULT" | "SOURCE_ALTERNATE" | "PROJECT" | "OTHER";
+        /** PackageIn */
+        PackageIn: {
+            /** Body */
+            body: {
+                [key: string]: unknown;
+            };
+            /**
+             * Notes
+             * @default
+             */
+            notes: string;
+        };
         /** PanelSourceIn */
         PanelSourceIn: {
             /** Chapter */
@@ -3221,6 +3896,12 @@ export interface components {
         ProjectDocumentOut: {
             /** Author Status */
             author_status?: string | null;
+            /**
+             * Authority
+             * @default CONTENT
+             * @enum {string}
+             */
+            authority: "CONTENT" | "RULE" | "CORRECTION" | "INDEX";
             /** Category */
             category: string;
             /** Constraints */
@@ -3245,8 +3926,14 @@ export interface components {
             lifecycle: "IDEA" | "DRAFT" | "REVIEW" | "APPROVED" | "LOCKED" | "SUPERSEDED" | "ARCHIVED" | "UNFILED";
             /** Lineage */
             lineage?: string | null;
+            /** Maturity */
+            maturity?: ("ROUGH" | "DETAILED" | "PRODUCTION_READY") | null;
             /** Modified At */
             modified_at?: string | null;
+            /** Overridden By */
+            overridden_by?: components["schemas"]["DocumentOverride"][];
+            /** Overrides */
+            overrides?: components["schemas"]["DocumentOverride"][];
             /**
              * Section
              * @enum {string}
@@ -3472,6 +4159,15 @@ export interface components {
              */
             total: number;
         };
+        /** ReadingIn */
+        ReadingIn: {
+            /** Media Id */
+            media_id: string;
+            /** Page Index */
+            page_index: number;
+            /** Project Key */
+            project_key?: string | null;
+        };
         /**
          * ReadyResponse
          * @description Readiness: whether dependencies this process needs are actually up.
@@ -3529,7 +4225,7 @@ export interface components {
          * @description What a reference is *for* in a bundle (Reference Vault direction section 3).
          * @enum {string}
          */
-        ReferenceClass: "CANON" | "TECHNIQUE" | "CONTINUITY" | "MOOD";
+        ReferenceClass: "CANON" | "TECHNIQUE" | "CONTINUITY" | "MOOD" | "UNSORTED";
         /**
          * ReferenceOrigin
          * @description Where a reference came from. Fan art never silently becomes canon.
@@ -3691,6 +4387,11 @@ export interface components {
          * @enum {string}
          */
         RoughMode: "NEW_GENERATION" | "SOURCE_DERIVED_EDIT" | "COMPOSITE" | "LAYOUT_ONLY";
+        /** RowVersionIn */
+        RowVersionIn: {
+            /** Row Version */
+            row_version: number;
+        };
         /**
          * ScaffoldPlan
          * @description Folders the library is missing. Creating them stays a CLI action.
@@ -3723,6 +4424,34 @@ export interface components {
             review?: {
                 [key: string]: unknown;
             }[];
+        };
+        /** ScanRequest */
+        ScanRequest: {
+            /**
+             * Hash
+             * @default true
+             */
+            hash: boolean;
+            /**
+             * Root Keys
+             * @default []
+             */
+            root_keys: string[];
+        };
+        /** SourceMomentIn */
+        SourceMomentIn: {
+            /**
+             * Note
+             * @default
+             */
+            note: string;
+            /** Time Ms */
+            time_ms: number;
+            /**
+             * Unit Id
+             * Format: uuid
+             */
+            unit_id: string;
         };
         /** SourceOut */
         SourceOut: {
@@ -3781,6 +4510,21 @@ export interface components {
              * @default
              */
             url: string;
+        };
+        /** SourcePageIn */
+        SourcePageIn: {
+            /**
+             * Note
+             * @default
+             */
+            note: string;
+            /** Page */
+            page: number;
+            /**
+             * Unit Id
+             * Format: uuid
+             */
+            unit_id: string;
         };
         /** SourcesView */
         SourcesView: {
@@ -3874,6 +4618,12 @@ export interface components {
             /** Work */
             work?: string | null;
         };
+        /**
+         * UnitKind
+         * @description Addressable units of material, as Continuum understands them.
+         * @enum {string}
+         */
+        UnitKind: "MANGA_CHAPTER" | "ARCHIVE_PAGES" | "EPISODE" | "VIDEO" | "IMAGE" | "DOCUMENT";
         /** UpdateAlert */
         UpdateAlert: {
             /** At */
@@ -3975,6 +4725,13 @@ export interface components {
             /** Uses */
             uses: components["schemas"]["ReferenceUse"][];
         };
+        /** ValidateIn */
+        ValidateIn: {
+            /** Body */
+            body: {
+                [key: string]: unknown;
+            };
+        };
         /** ValidationError */
         ValidationError: {
             /** Context */
@@ -4014,6 +4771,24 @@ export interface components {
              * @default
              */
             notes: string;
+        };
+        /** WatchingIn */
+        WatchingIn: {
+            /** Duration Ms */
+            duration_ms?: number | null;
+            /**
+             * Ended
+             * @default false
+             */
+            ended: boolean;
+            /** Media Id */
+            media_id?: string | null;
+            /** Member Id */
+            member_id?: string | null;
+            /** Position Ms */
+            position_ms: number;
+            /** Project Key */
+            project_key?: string | null;
         };
         /** WorkMedia */
         WorkMedia: {
@@ -4255,6 +5030,655 @@ export interface components {
 }
 export type $defs = Record<string, never>;
 export interface operations {
+    coverage_catalog_coverage_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+        };
+    };
+    coverage_markdown_catalog_coverage_markdown_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "text/plain": string;
+                };
+            };
+        };
+    };
+    list_entries_catalog_entries_get: {
+        parameters: {
+            query?: {
+                root?: string | null;
+                status?: components["schemas"]["EntryStatus"] | null;
+                q?: string | null;
+                limit?: number;
+                offset?: number;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_member_catalog_members__member_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                member_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    member_content_catalog_members__member_id__content_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                member_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": unknown;
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    prepare_catalog_members__member_id__prepare_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                member_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            202: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    progress_continue_catalog_progress_continue_get: {
+        parameters: {
+            query?: {
+                project?: string | null;
+                limit?: number;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    progress_position_catalog_progress_position_get: {
+        parameters: {
+            query?: {
+                media_id?: string | null;
+                member_id?: string | null;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    progress_reading_catalog_progress_reading_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["ReadingIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    progress_watching_catalog_progress_watching_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["WatchingIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    roots_catalog_roots_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    }[];
+                };
+            };
+        };
+    };
+    start_hash_catalog_roots__root_key__hash_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                root_key: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            202: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    } | null;
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    import_status_catalog_roots__root_key__import_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                root_key: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    start_import_catalog_roots__root_key__import_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                root_key: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            202: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    start_scan_catalog_scans_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["ScanRequest"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            202: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    search_catalog_search_get: {
+        parameters: {
+            query: {
+                q: string;
+                limit?: number;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    list_series_catalog_series_get: {
+        parameters: {
+            query?: {
+                q?: string | null;
+                material?: components["schemas"]["MaterialClass"] | null;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_series_catalog_series__series_key__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                series_key: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    search_units_catalog_units_get: {
+        parameters: {
+            query?: {
+                q?: string | null;
+                series?: string | null;
+                kind?: components["schemas"]["UnitKind"] | null;
+                material?: components["schemas"]["MaterialClass"] | null;
+                season?: number | null;
+                episode?: number | null;
+                chapter?: string | null;
+                collection?: string | null;
+                creator?: string | null;
+                confidence?: components["schemas"]["Confidence"] | null;
+                root?: string | null;
+                limit?: number;
+                offset?: number;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_unit_catalog_units__unit_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                unit_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     health_health_get: {
         parameters: {
             query?: never;
@@ -6937,6 +8361,28 @@ export interface operations {
             };
         };
     };
+    chapter_package_schema_production_chapter_package_schema_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+        };
+    };
     readiness_production_readiness_get: {
         parameters: {
             query?: never;
@@ -6955,6 +8401,39 @@ export interface operations {
                     "application/json": {
                         [key: string]: unknown;
                     };
+                };
+            };
+        };
+    };
+    get_manifest_production_reference_manifests__manifest_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                manifest_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
                 };
             };
         };
@@ -7080,6 +8559,186 @@ export interface operations {
             };
         };
     };
+    list_packages_projects__project_id__chapter_packages_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    validate_package_projects__project_id__chapter_packages_validate_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["ValidateIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    package_versions_projects__project_id__chapter_packages__package_key__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+                package_key: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    save_package_projects__project_id__chapter_packages__package_key__post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+                package_key: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["PackageIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    package_approval_projects__project_id__chapter_packages__package_key__approval_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+                package_key: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["ApprovalIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     project_document_projects__project_id__documents__document_id__get: {
         parameters: {
             query?: never;
@@ -7099,6 +8758,148 @@ export interface operations {
                 };
                 content: {
                     "application/json": components["schemas"]["ProjectDocumentBody"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    list_music_projects__project_id__music_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    add_music_projects__project_id__music_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["MusicIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    remove_music_projects__project_id__music__music_id__remove_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+                music_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["RowVersionIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            204: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content?: never;
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    update_music_projects__project_id__music__music_id__update_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+                music_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["MusicUpdateIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
                 };
             };
             /** @description Validation Error */
@@ -7135,6 +8936,76 @@ export interface operations {
                     "application/json": {
                         [key: string]: unknown;
                     }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    list_manifests_projects__project_id__reference_manifests_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    build_manifest_projects__project_id__reference_manifests_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["ManifestIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
                 };
             };
             /** @description Validation Error */

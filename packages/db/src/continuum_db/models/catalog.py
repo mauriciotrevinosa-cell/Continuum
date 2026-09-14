@@ -353,7 +353,7 @@ class ChapterPackage(Base):
     project_key: Mapped[str] = mapped_column(String(80), nullable=False)
     package_key: Mapped[str] = mapped_column(String(120), nullable=False)
     version: Mapped[int] = mapped_column(Integer, nullable=False)
-    schema_version: Mapped[str] = mapped_column(String(20), nullable=False)
+    schema_version: Mapped[str] = mapped_column(String(40), nullable=False)
     approval_state: Mapped[ApprovalState] = mapped_column(
         enum_type(ApprovalState, "approval_state"), nullable=False
     )

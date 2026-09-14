@@ -1,24 +1,28 @@
 """Projects: the creative work made inside Continuum, and its documents.
 
-A project is data. Projects are discovered from configured source
-directories, each described by its own manifest; this router has no idea
-which projects exist until it asks, and an installation with none answers
-with an empty list.
+A project is data. Projects are discovered from configured sources - a
+directory, or a Git ref read at its current commit - each described by its
+own manifest; this router has no idea which projects exist until it asks, and
+an installation with none answers with an empty list.
 
-Lifecycle is explicit. A document is approved because its manifest says so -
-never because of its folder, its file name, its author's prose, or because a
-tool generated it. Unregistered documents are shown as UNFILED.
+Lifecycle is explicit. A document is approved because its manifest says so,
+directly or through a rule the manifest declares - never because of its
+folder, or because a tool generated it. Unregistered documents are UNFILED.
+
+The episode board is computed from the documents on every read: which
+readiness level each episode reached is derived from what is committed, not
+stored anywhere Continuum could let it drift.
 
 Addresses are ids (project and document slugs) that only index manifests
 already loaded; no route accepts a path (F-50), and documents are read
-through the storage layer's contained resolver.
+through the storage layer.
 """
 
 from __future__ import annotations
 
 import datetime as dt
 from collections import Counter
-from typing import Annotated
+from typing import Annotated, Any
 
 from continuum_storage import PROJECT_ID_PATTERN, Project, ProjectDocument, ProjectLibrary
 from fastapi import APIRouter, HTTPException, Request, status
@@ -26,10 +30,16 @@ from fastapi import Path as PathParam
 
 from continuum_api.schemas import (
     DocumentOverride,
+    EpisodeBoardSummary,
+    EpisodeDocumentRef,
+    EpisodeLevel,
+    EpisodeStandingOut,
     PipelineStage,
     ProjectDetail,
     ProjectDocumentBody,
     ProjectDocumentOut,
+    ProjectResync,
+    ProjectSource,
     ProjectSummary,
 )
 
@@ -49,7 +59,7 @@ def _library(request: Request) -> ProjectLibrary:
     return library
 
 
-def _iso(ns: int) -> str | None:
+def _iso(ns: int | None) -> str | None:
     if not ns:
         return None
     return dt.datetime.fromtimestamp(ns / 1e9, tz=dt.UTC).isoformat(timespec="seconds")
@@ -57,6 +67,20 @@ def _iso(ns: int) -> str | None:
 
 def _version_key(version: str | None) -> list[int]:
     return [int(part) if part.isdigit() else 0 for part in (version or "0").split(".")]
+
+
+def _source(project: Project) -> ProjectSource:
+    raw: dict[str, Any] = project.source or {}
+    if raw.get("kind") != "git":
+        return ProjectSource(kind="directory")
+    return ProjectSource(
+        kind="git",
+        ref=raw.get("ref"),
+        directory=raw.get("directory"),
+        commit=raw.get("commit"),
+        committed_at=_iso(raw.get("committed_ns")),
+        subject=raw.get("subject"),
+    )
 
 
 def _summary(project: Project) -> ProjectSummary:
@@ -71,7 +95,9 @@ def _summary(project: Project) -> ProjectSummary:
         in_progress=sum(
             1
             for d in project.documents
-            if d.lifecycle in IN_PROGRESS and d.section not in EXTRA_SECTIONS
+            if d.lifecycle in IN_PROGRESS
+            and d.section not in EXTRA_SECTIONS
+            and d.resolved_by is None
         ),
         extras=sum(
             1
@@ -80,6 +106,7 @@ def _summary(project: Project) -> ProjectSummary:
         ),
         updated_at=_iso(project.modified_ns),
         warnings=list(project.warnings),
+        source=_source(project),
     )
 
 
@@ -113,7 +140,52 @@ def _document(document: ProjectDocument, project: Project) -> ProjectDocumentOut
             for target, scope in other.overrides
             if target == document.id
         ],
+        registration=document.registration,  # type: ignore[arg-type]
+        convention=document.convention,
+        facts=dict(document.facts),
+        commit=document.commit,
+        resolved_by=document.resolved_by,
     )
+
+
+def _board(project: Project) -> tuple[list[EpisodeStandingOut], EpisodeBoardSummary]:
+    by_id = {d.id: d for d in project.documents}
+    counting = {level["id"] for level in project.levels if level.get("count_pages")}
+    rows = []
+    for episode in project.episodes:
+        rows.append(
+            EpisodeStandingOut(
+                code=episode.code,
+                season=episode.season,
+                number=episode.number,
+                title=episode.title,
+                level=episode.level,
+                label=episode.label,
+                state=episode.state,
+                pages=episode.pages,
+                documents=[
+                    EpisodeDocumentRef(
+                        category=category,
+                        id=doc_id,
+                        title=by_id[doc_id].title,
+                        lifecycle=by_id[doc_id].lifecycle,  # type: ignore[arg-type]
+                        resolved_by=by_id[doc_id].resolved_by,
+                    )
+                    for category, doc_id in episode.documents
+                    if doc_id in by_id
+                ],
+                missing=list(episode.missing),
+                last_commit=episode.last_commit,
+                last_changed_at=_iso(episode.last_changed_ns),
+            )
+        )
+    summary = EpisodeBoardSummary(
+        episodes=len(rows),
+        by_level=dict(Counter(r.level for r in rows if r.level is not None)),
+        pages=sum(r.pages or 0 for r in rows if r.level in counting),
+        unmet=sum(1 for r in rows if r.level is None),
+    )
+    return rows, summary
 
 
 @router.get("", response_model=list[ProjectSummary])
@@ -127,7 +199,10 @@ def project_detail(request: Request, project_id: ProjectId) -> ProjectDetail:
     project = _library(request).project(project_id)
     if project is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="project not found")
-    by_category = Counter(d.category for d in project.documents)
+    by_category = Counter(
+        d.category for d in project.documents if d.lifecycle not in {"SUPERSEDED", "ARCHIVED"}
+    )
+    episodes, summary = _board(project)
     return ProjectDetail(
         project=_summary(project),
         description=project.description,
@@ -143,6 +218,33 @@ def project_detail(request: Request, project_id: ProjectId) -> ProjectDetail:
             for stage in project.pipeline
         ],
         counts=dict(Counter(d.lifecycle for d in project.documents)),
+        levels=[EpisodeLevel(**level) for level in project.levels],
+        episodes=episodes,
+        episode_summary=summary,
+    )
+
+
+@router.post("/{project_id}/resync", response_model=ProjectResync)
+def resync_project(request: Request, project_id: ProjectId) -> ProjectResync:
+    """Bring the project up to date with its source.
+
+    For a project read from a remote-tracking Git ref this fetches that ref
+    (nothing else in the repository changes); the project is then re-read at
+    the commit the ref now points to. A failed fetch is reported, not raised.
+    """
+    library = _library(request)
+    result = library.resync(project_id)
+    if result is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="project not found")
+    project = library.project(project_id)
+    return ProjectResync(
+        project_id=project_id,
+        fetched=result.fetched,
+        previous_commit=result.previous_commit,
+        commit=result.commit,
+        changed=result.previous_commit != result.commit,
+        detail=result.detail,
+        source=_source(project) if project is not None else ProjectSource(),
     )
 
 

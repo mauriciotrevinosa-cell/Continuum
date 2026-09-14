@@ -38,6 +38,7 @@ from continuum_core.references import (
     AttemptState,
     BundleRole,
     DerivativeKind,
+    RenderOutput,
 )
 from continuum_db.models import (
     AttemptDerivative,
@@ -236,6 +237,12 @@ def render_attempt(
             output_hash = stored.content_hash
 
     attempt.state = AttemptState.GENERATED
+    # What the image is evidence of comes from the renderer that drew it: a
+    # test renderer's diagram can never be approved as art.
+    descriptor = getattr(provider, "descriptor", None)
+    attempt.output_class = RenderOutput(
+        getattr(descriptor, "rough_output", RenderOutput.TEST_RENDER)
+    )
     attempt.content_hash = output_hash
     attempt.mime = info.mime
     attempt.width = info.width

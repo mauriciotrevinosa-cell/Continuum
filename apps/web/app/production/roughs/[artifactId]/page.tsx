@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { ApiUnreachableError } from "@/lib/api";
 import { type Readiness, type RoughArtifact, VaultNotFound, vault, words } from "@/lib/vault";
 import { ApiDown } from "../../../library/acquisition/_components/ui";
-import { ReadinessBanner } from "../../_parts/status";
+import { PURPOSE_LABELS, ReadinessBanner, TestOnlyChip } from "../../_parts/status";
 import { AttemptBuilder } from "./AttemptBuilder";
 import { AttemptHistory } from "./AttemptHistory";
 
@@ -39,13 +39,16 @@ export default async function RoughWorkspacePage({ params }: { params: Promise<{
       <header className="page-head">
         <div>
           <p className="eyebrow">
-            {artifact.project_key} · {artifact.episode}
-            {artifact.chapter ? ` · chapter ${artifact.chapter}` : ""}
+            Advanced / override workspace · {artifact.project_key} · {artifact.episode}
+            {artifact.chapter ? ` · chapter ${artifact.chapter}` : ""} · {PURPOSE_LABELS[artifact.purpose] ?? artifact.purpose}
           </p>
           <h1 className="title">
             Page {artifact.page}
             {artifact.panel ? `, panel ${artifact.panel}` : ""}
           </h1>
+          <p className="row" style={{ gap: 8, margin: "4px 0" }}>
+            <TestOnlyChip purpose={artifact.purpose} />
+          </p>
           <p className="lead">
             {artifact.title || words(artifact.kind)}
             {artifact.panel_script.document

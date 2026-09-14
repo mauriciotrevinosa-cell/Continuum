@@ -223,6 +223,9 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/projects",
             "/projects/{project_id}",
             "/projects/{project_id}/documents/{document_id}",
+            # M2 closeout: re-read a project at its source's current commit (a Git
+            # source fetches its remote-tracking ref and nothing else).
+            "/projects/{project_id}/resync",
             # Phase 1 reference vault: characters, visual modes, references and
             # the inbox, by record id and opaque media id only.
             "/library/characters",
@@ -274,6 +277,10 @@ class TestApiSurfaceIsPhaseZeroOnly:
             # Phase 1 rough production: artifacts, attempts, review, provenance.
             "/production/readiness",
             "/projects/{project_id}/rough-artifacts",
+            # M2 closeout: completion counts production work only; character
+            # manifests resolve complementary references by facet and lane.
+            "/projects/{project_id}/rough-completion",
+            "/projects/{project_id}/characters/{character_id}/manifest",
             "/production/rough-artifacts/{artifact_id}",
             "/production/rough-artifacts/{artifact_id}/attempts",
             "/production/attempts/{attempt_id}",

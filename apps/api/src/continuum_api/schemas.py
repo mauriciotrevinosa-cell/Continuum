@@ -845,6 +845,15 @@ class ProjectDocumentOut(BaseModel):
     overrides: list[DocumentOverride] = Field(default_factory=list)
     #: Documents that override part of this one.
     overridden_by: list[DocumentOverride] = Field(default_factory=list)
+    #: ``explicit`` (a manifest entry), ``convention`` (a manifest rule) or ``unfiled``.
+    registration: Literal["explicit", "convention", "unfiled"] = "explicit"
+    convention: str | None = None
+    #: Small values the manifest reads from the document's head (pages, title).
+    facts: dict[str, str] = Field(default_factory=dict)
+    #: The commit that last changed the document, for projects read from Git.
+    commit: str | None = None
+    #: The approved milestone this in-review document has since been resolved by.
+    resolved_by: str | None = None
 
 
 class PipelineStage(BaseModel):
@@ -855,6 +864,69 @@ class PipelineStage(BaseModel):
     #: Artifacts produced for this stage so far. Documents count where their
     #: category names the stage; generated artifacts arrive in later phases.
     artifacts: int = 0
+
+
+class ProjectSource(BaseModel):
+    """Where a project was read from. A Git source names the ref and commit, never a path."""
+
+    kind: Literal["directory", "git"] = "directory"
+    ref: str | None = None
+    directory: str | None = None
+    commit: str | None = None
+    committed_at: str | None = None
+    subject: str | None = None
+
+
+class EpisodeLevel(BaseModel):
+    id: str
+    label: str
+    requires: list[str] = Field(default_factory=list)
+    state: str | None = None
+    count_pages: bool = False
+
+
+class EpisodeDocumentRef(BaseModel):
+    category: str
+    id: str
+    title: str
+    lifecycle: DocumentLifecycle
+    resolved_by: str | None = None
+
+
+class EpisodeStandingOut(BaseModel):
+    """One episode's readiness, computed from its committed documents on every read."""
+
+    code: str
+    season: int | None = None
+    number: int | None = None
+    title: str | None = None
+    level: str | None = None
+    label: str
+    state: str | None = None
+    pages: int | None = None
+    documents: list[EpisodeDocumentRef] = Field(default_factory=list)
+    #: Document categories the next level up still needs.
+    missing: list[str] = Field(default_factory=list)
+    last_commit: str | None = None
+    last_changed_at: str | None = None
+
+
+class EpisodeBoardSummary(BaseModel):
+    episodes: int = 0
+    by_level: dict[str, int] = Field(default_factory=dict)
+    #: Pages across episodes at levels that count pages.
+    pages: int = 0
+    unmet: int = 0
+
+
+class ProjectResync(BaseModel):
+    project_id: str
+    fetched: bool
+    previous_commit: str | None = None
+    commit: str | None = None
+    changed: bool = False
+    detail: str = ""
+    source: ProjectSource
 
 
 class ProjectSummary(BaseModel):
@@ -870,6 +942,7 @@ class ProjectSummary(BaseModel):
     extras: int = 0
     updated_at: str | None = None
     warnings: list[str] = Field(default_factory=list)
+    source: ProjectSource = Field(default_factory=ProjectSource)
 
 
 class ProjectDetail(BaseModel):
@@ -878,6 +951,9 @@ class ProjectDetail(BaseModel):
     documents: list[ProjectDocumentOut] = Field(default_factory=list)
     pipeline: list[PipelineStage] = Field(default_factory=list)
     counts: dict[str, int] = Field(default_factory=dict)
+    levels: list[EpisodeLevel] = Field(default_factory=list)
+    episodes: list[EpisodeStandingOut] = Field(default_factory=list)
+    episode_summary: EpisodeBoardSummary = Field(default_factory=EpisodeBoardSummary)
 
 
 class ProjectDocumentBody(BaseModel):

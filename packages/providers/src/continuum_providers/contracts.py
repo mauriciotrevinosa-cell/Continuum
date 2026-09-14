@@ -18,6 +18,7 @@ from enum import StrEnum
 from typing import Any, Protocol, runtime_checkable
 
 from continuum_core import NormalizedRegion
+from continuum_core.references import RenderOutput
 
 __all__ = [
     "Capability",
@@ -125,6 +126,9 @@ class ProviderDescriptor:
     version: str = "0"
     license_note: str = ""
     requirements: dict[str, Any] = field(default_factory=dict)
+    #: What a ROUGH_RENDER image from this provider is evidence of. Defaults to
+    #: a test render: a real generation provider must say it draws artwork.
+    rough_output: RenderOutput = RenderOutput.TEST_RENDER
 
     def supports(self, capability: Capability) -> bool:
         return capability in self.capabilities

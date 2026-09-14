@@ -364,7 +364,16 @@ export interface AttemptSummary {
   created_at: string | null;
   generated_at: string | null;
   job: JobState | null;
+  /** TEST_RENDER (a diagram of the recipe) or ARTWORK_CANDIDATE (a real model's image). */
+  output_class: "TEST_RENDER" | "ARTWORK_CANDIDATE" | null;
+  /** Never manga, whatever its review says. */
+  test_only: boolean;
+  /** Review decisions the API will accept for this attempt now. */
+  allowed_decisions: ReviewDecision[];
 }
+
+export type ReviewDecision = "TECHNICAL_PASS" | "CREATIVE_APPROVE" | "FINAL_APPROVE" | "REJECT" | "REGENERATE";
+export type RoughPurpose = "PRODUCTION" | "WORKFLOW_TEST" | "NON_CANON_SAMPLE";
 
 export interface BundleMember {
   position: number;
@@ -377,6 +386,8 @@ export interface BundleMember {
   outfit_id: string | null;
   aspect: string | null;
   label: string;
+  /** The reference's provenance as it stood when this attempt was requested. */
+  provenance: Record<string, unknown>;
   reference_available: boolean;
   reference_origin?: string;
   source: SourcePosition;
@@ -399,7 +410,8 @@ export interface AttemptDetail extends AttemptSummary {
   };
   bundle: Record<string, BundleMember[]>;
   derivatives: { kind: string; content_hash: string; mime: string; width: number; height: number; detail: Record<string, unknown> }[];
-  reviews: { decision: string; notes: string; decided_at: string | null }[];
+  reviews: { decision: string; notes: string; decided_at: string | null; reclassified_from: string | null }[];
+  purpose: RoughPurpose;
 }
 
 export interface RoughArtifact {
@@ -410,14 +422,26 @@ export interface RoughArtifact {
   page: number;
   panel: number | null;
   kind: string;
+  purpose: RoughPurpose;
+  /** A workflow test or non-canon sample: never manga, never counted. */
+  test_only: boolean;
   title: string;
   brief: string;
   panel_script: { document: string | null; version: string | null };
   created_at: string | null;
-  approved_attempt_id: string | null;
+  creative_approved_attempt_id: string | null;
+  final_approved_attempt_id: string | null;
+  technical_pass_attempt_id: string | null;
+  counts_toward_completion: boolean;
   attempts: AttemptSummary[];
   scene_sources?: { id: string; panel: number | null; role: string; notes: string; reference: ReferenceView }[];
   modes_in_effect?: { assignment_id: string; visual_mode_id: string; name: string; scope: string; trigger: string; character_id: string | null }[];
+}
+
+export interface RoughCompletion {
+  production: { artifacts: number; creative_approved: number; final_approved: number };
+  workflow_tests: { artifacts: number; technical_pass: number };
+  non_canon_samples: { artifacts: number; technical_pass: number };
 }
 
 export interface Readiness {
@@ -473,6 +497,8 @@ export const vault = {
     read<RoughArtifact>(`/production/rough-artifacts/${encodeURIComponent(id)}`),
   attempt: (id: string) => read<AttemptDetail>(`/production/attempts/${encodeURIComponent(id)}`),
   readiness: () => read<Readiness>("/production/readiness"),
+  roughCompletion: (project: string) =>
+    read<RoughCompletion>(`/projects/${encodeURIComponent(project)}/rough-completion`),
 };
 
 /* -- client-side actions --------------------------------------------------- */

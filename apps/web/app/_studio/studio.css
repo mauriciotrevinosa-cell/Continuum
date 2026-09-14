@@ -1899,3 +1899,68 @@ pre.source {
 .single-version h3 {
   margin: 0;
 }
+
+/* -- episode board --------------------------------------------------------- */
+.project-source {
+  justify-content: space-between;
+  padding-top: 6px;
+  font-size: 13px;
+}
+.project-source code {
+  font-size: 12px;
+}
+.board-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 14px;
+}
+.board-row {
+  grid-template-columns: 96px minmax(0, 1fr);
+}
+.board-code {
+  display: grid;
+  gap: 4px;
+}
+.board-head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px 16px;
+}
+.board-head h3 {
+  margin: 0;
+  font-size: 16px;
+}
+.board-docs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  margin: 10px 0 4px;
+}
+.board-doc {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 13px;
+}
+.board-doc:hover .board-doc-kind {
+  color: var(--accent);
+}
+.board-iterations {
+  flex-basis: 100%;
+  font-size: 13px;
+}
+.board-iterations summary {
+  cursor: pointer;
+  color: var(--text-2, inherit);
+}
+.board-iterations .board-doc {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 0;
+}
+.board-meta {
+  margin: 4px 0 0;
+}

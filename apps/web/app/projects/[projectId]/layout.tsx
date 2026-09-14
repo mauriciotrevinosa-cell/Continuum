@@ -3,6 +3,8 @@ import { notFound } from "next/navigation";
 import { ApiUnreachableError, type ProjectDetail } from "@/lib/api";
 import { ApiDown } from "../../library/acquisition/_components/ui";
 import { SubnavLink } from "../../library/acquisition/_components/SubnavLink";
+import { SourceLine } from "../_components/EpisodeBoard";
+import { ResyncButton } from "../_components/ResyncButton";
 import { KIND_LABELS, loadProject } from "../_components/project";
 
 /**
@@ -60,6 +62,10 @@ export default async function ProjectLayout({
             <span className="muted">{KIND_LABELS[detail.project.kind] ?? detail.project.kind}</span>
             <b>{detail.project.title}</b>
           </div>
+        </div>
+        <div className="section-bar-row project-source">
+          <SourceLine source={detail.project.source} />
+          <ResyncButton projectId={detail.project.id} git={detail.project.source.kind === "git"} />
         </div>
       </div>
       {children}

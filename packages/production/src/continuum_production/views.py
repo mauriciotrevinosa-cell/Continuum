@@ -10,19 +10,30 @@ recorded rows alone:
 Displayed state folds in the render job: a QUEUED attempt whose job is
 BLOCKED shows as BLOCKED with the job's reason and remediation; a failed job
 shows FAILED. The stored attempt state never pretends otherwise.
+
+Every view says what an attempt can mean: the artifact's purpose (production,
+workflow test, non-canon sample), whether its image is artwork or a test
+render, and which review decisions are possible. Only production artifacts
+count toward completion, and only through creative or final approval.
 """
 
 from __future__ import annotations
 
 from typing import Any
 
-from continuum_core.references import AttemptState, BundleRole
+from continuum_core.references import (
+    CREATIVE_STATES,
+    AttemptState,
+    BundleRole,
+    RenderOutput,
+    RoughPurpose,
+)
 from continuum_db.models import Job, RoughArtifact, RoughAttempt
 from continuum_library import CatalogNotFoundError, region_of
 
-from continuum_production.service import RoughProduction
+from continuum_production.service import RoughProduction, allowed_decisions
 
-__all__ = ["artifact_view", "attempt_view", "provenance_view"]
+__all__ = ["artifact_view", "attempt_view", "completion_view", "provenance_view"]
 
 
 def _iso(value: Any) -> str | None:
@@ -57,15 +68,23 @@ def display_state(attempt: RoughAttempt, job: dict[str, Any] | None) -> str:
     return "QUEUED"
 
 
-def attempt_summary(production: RoughProduction, attempt: RoughAttempt) -> dict[str, Any]:
+def attempt_summary(
+    production: RoughProduction, attempt: RoughAttempt, artifact: RoughArtifact | None = None
+) -> dict[str, Any]:
     recipe = production.recipe(attempt.recipe_id)
     job = _job(production, attempt)
+    artifact = artifact or production.artifact(attempt.artifact_id)
     return {
         "id": str(attempt.id),
         "artifact_id": str(attempt.artifact_id),
         "attempt": attempt.attempt,
         "state": attempt.state.value,
         "display_state": display_state(attempt, job),
+        "output_class": attempt.output_class.value if attempt.output_class else None,
+        #: Never manga, whatever its review says: a test render, or a test/sample artifact.
+        "test_only": attempt.output_class is RenderOutput.TEST_RENDER
+        or artifact.purpose is not RoughPurpose.PRODUCTION,
+        "allowed_decisions": [d.value for d in allowed_decisions(artifact, attempt)],
         "mode": recipe.mode.value,
         "seed": recipe.execution.get("seed"),
         "content_hash": attempt.content_hash,
@@ -80,7 +99,10 @@ def attempt_summary(production: RoughProduction, attempt: RoughAttempt) -> dict[
 
 def artifact_view(production: RoughProduction, artifact: RoughArtifact) -> dict[str, Any]:
     attempts = production.attempts(artifact.id)
-    approved = next((a for a in attempts if a.state is AttemptState.APPROVED), None)
+    creative = next((a for a in attempts if a.state in CREATIVE_STATES), None)
+    final = next((a for a in attempts if a.state is AttemptState.FINAL_APPROVED), None)
+    passed = next((a for a in attempts if a.state is AttemptState.TECHNICAL_PASS), None)
+    production_work = artifact.purpose is RoughPurpose.PRODUCTION
     return {
         "id": str(artifact.id),
         "project_key": artifact.project_key,
@@ -89,6 +111,8 @@ def artifact_view(production: RoughProduction, artifact: RoughArtifact) -> dict[
         "page": artifact.page,
         "panel": artifact.panel,
         "kind": artifact.kind.value,
+        "purpose": artifact.purpose.value,
+        "test_only": not production_work,
         "title": artifact.title,
         "brief": artifact.brief,
         "panel_script": {
@@ -96,9 +120,42 @@ def artifact_view(production: RoughProduction, artifact: RoughArtifact) -> dict[
             "version": artifact.panel_script_version,
         },
         "created_at": _iso(artifact.created_at),
-        "approved_attempt_id": str(approved.id) if approved else None,
-        "attempts": [attempt_summary(production, a) for a in attempts],
+        "creative_approved_attempt_id": str(creative.id) if creative else None,
+        "final_approved_attempt_id": str(final.id) if final else None,
+        "technical_pass_attempt_id": str(passed.id) if passed else None,
+        #: Whether this artifact counts toward rough/final manga completion now.
+        "counts_toward_completion": production_work and creative is not None,
+        "attempts": [attempt_summary(production, a, artifact) for a in attempts],
     }
+
+
+def completion_view(production: RoughProduction, project_key: str) -> dict[str, Any]:
+    """How much rough manga exists, counting production work only.
+
+    Workflow tests and non-canon samples are reported beside it, never inside it.
+    """
+    out: dict[str, Any] = {
+        "production": {"artifacts": 0, "creative_approved": 0, "final_approved": 0},
+        "workflow_tests": {"artifacts": 0, "technical_pass": 0},
+        "non_canon_samples": {"artifacts": 0, "technical_pass": 0},
+    }
+    keys = {
+        RoughPurpose.PRODUCTION: "production",
+        RoughPurpose.WORKFLOW_TEST: "workflow_tests",
+        RoughPurpose.NON_CANON_SAMPLE: "non_canon_samples",
+    }
+    for artifact in production.artifacts(project_key):
+        bucket = out[keys[artifact.purpose]]
+        bucket["artifacts"] += 1
+        states = {a.state for a in production.attempts(artifact.id)}
+        if artifact.purpose is RoughPurpose.PRODUCTION:
+            if states & CREATIVE_STATES:
+                bucket["creative_approved"] += 1
+            if AttemptState.FINAL_APPROVED in states:
+                bucket["final_approved"] += 1
+        elif AttemptState.TECHNICAL_PASS in states:
+            bucket["technical_pass"] += 1
+    return out
 
 
 def attempt_view(production: RoughProduction, attempt: RoughAttempt) -> dict[str, Any]:
@@ -118,6 +175,7 @@ def attempt_view(production: RoughProduction, attempt: RoughAttempt) -> dict[str
             "outfit_id": str(row.outfit_id) if row.outfit_id else None,
             "aspect": row.aspect.value if row.aspect else None,
             "label": row.label,
+            "provenance": row.provenance,
             "reference_available": False,
             "source": {"available": False},
         }
@@ -133,6 +191,7 @@ def attempt_view(production: RoughProduction, attempt: RoughAttempt) -> dict[str
         bundle[row.role.value].append(entry)
     return {
         **attempt_summary(production, attempt),
+        "purpose": production.artifact(attempt.artifact_id).purpose.value,
         "recipe": {
             "id": str(recipe.id),
             "mode": recipe.mode.value,
@@ -156,7 +215,12 @@ def attempt_view(production: RoughProduction, attempt: RoughAttempt) -> dict[str
             for d in production.derivatives(attempt.id)
         ],
         "reviews": [
-            {"decision": r.decision.value, "notes": r.notes, "decided_at": _iso(r.decided_at)}
+            {
+                "decision": r.decision.value,
+                "notes": r.notes,
+                "decided_at": _iso(r.decided_at),
+                "reclassified_from": r.reclassified_from,
+            }
             for r in production.reviews(attempt.id)
         ],
     }
@@ -181,6 +245,7 @@ def provenance_view(production: RoughProduction, attempt: RoughAttempt) -> dict[
             "chapter": artifact.chapter,
             "page": artifact.page,
             "panel": artifact.panel,
+            "purpose": artifact.purpose.value,
             "panel_script": view["recipe"]["intent"].get("panel_script"),
         },
         "sources": [
@@ -190,6 +255,7 @@ def provenance_view(production: RoughProduction, attempt: RoughAttempt) -> dict[
                 "region": entry["region"],
                 "reference_id": entry["reference_id"],
                 "source": entry["source"],
+                "provenance": entry["provenance"],
             }
             for entries in view["bundle"].values()
             for entry in entries
@@ -206,6 +272,7 @@ def provenance_view(production: RoughProduction, attempt: RoughAttempt) -> dict[
         "derivatives": view["derivatives"],
         "rendered_with": (output or {}).get("detail", {}).get("rendered_with"),
         "output_hash": attempt.content_hash,
+        "output_class": view["output_class"],
         "reviews": view["reviews"],
         "lineage": lineage,
     }

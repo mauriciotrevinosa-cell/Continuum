@@ -234,3 +234,56 @@
     gap: 2px;
   }
 }
+
+/* -- collapsible series sections ------------------------------------------ */
+.series-section {
+  margin: 0 0 22px;
+}
+.series-section > summary,
+.season-block > summary,
+.unit-range > summary {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  cursor: pointer;
+  list-style: none;
+}
+.series-section > summary::-webkit-details-marker,
+.season-block > summary::-webkit-details-marker,
+.unit-range > summary::-webkit-details-marker {
+  display: none;
+}
+.series-section > summary::before,
+.season-block > summary::before,
+.unit-range > summary::before {
+  content: "▸";
+  color: var(--text-3, #888);
+  transition: transform 0.15s ease;
+}
+.series-section[open] > summary::before,
+.season-block[open] > summary::before,
+.unit-range[open] > summary::before {
+  transform: rotate(90deg);
+}
+.series-section > summary h2 {
+  margin: 0 0 10px;
+}
+.season-block > summary h3 {
+  margin: 10px 0 8px;
+}
+.unit-ranges {
+  display: grid;
+  gap: 6px;
+}
+.unit-range {
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius);
+  padding: 8px 12px;
+}
+.unit-range > summary {
+  justify-content: flex-start;
+  font-size: 14px;
+}
+.unit-range[open] > .unit-list {
+  margin-top: 8px;
+}

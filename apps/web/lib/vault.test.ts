@@ -27,6 +27,7 @@ describe("allowedVaultPath", () => {
       "catalog/collections/fanart/import",
     );
     expect(allowedVaultPath(["catalog", "progress", "reading"])).toBe("catalog/progress/reading");
+    expect(allowedVaultPath(["projects", "demo-saga", "resync"])).toBe("projects/demo-saga/resync");
     expect(allowedVaultPath(["projects", "demo-saga", "chapter-packages", "ch-01", "approval"])).toBe(
       "projects/demo-saga/chapter-packages/ch-01/approval",
     );

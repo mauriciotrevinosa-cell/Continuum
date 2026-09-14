@@ -28,6 +28,7 @@ from continuum_core.references import (
     AssetOrigin,
     CandidateStatus,
     CharacterAspect,
+    CharacterOrigin,
     DescriptorFacet,
     DescriptorOrigin,
     IntakeKind,
@@ -175,6 +176,21 @@ class CharacterProfile(Base):
         enum_type(SubjectKind, "subject_kind"), nullable=False, default=SubjectKind.CHARACTER
     )
     source_label: Mapped[str] = mapped_column(String(200), nullable=False, default="")
+    #: SOURCE_WORK (defined by source pages and frames) or PROJECT_ORIGINAL
+    #: (defined by one project's own design documents and references).
+    origin: Mapped[CharacterOrigin] = mapped_column(
+        enum_type(CharacterOrigin, "character_origin"),
+        nullable=False,
+        default=CharacterOrigin.SOURCE_WORK,
+        server_default=CharacterOrigin.SOURCE_WORK.value,
+    )
+    #: The project an original character belongs to.
+    project_key: Mapped[str | None] = mapped_column(String(80), nullable=True)
+    #: Ids of that project's documents that define the character's look (a
+    #: visual bible). Resolved against the project on every read, never copied.
+    design_documents: Mapped[list[str]] = mapped_column(
+        JSONB, nullable=False, default=list, server_default="[]"
+    )
     summary: Mapped[str] = mapped_column(Text, nullable=False, default="")
     scale_notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
     distinguishing_marks: Mapped[str] = mapped_column(Text, nullable=False, default="")
@@ -185,6 +201,12 @@ class CharacterProfile(Base):
     updated_at: Mapped[dt.datetime] = _updated()
     removed_at: Mapped[dt.datetime | None] = mapped_column(TimestampTz, nullable=True)
 
+    __table_args__ = (
+        CheckConstraint(
+            "origin <> 'PROJECT_ORIGINAL' OR project_key IS NOT NULL",
+            name="original_character_has_project",
+        ),
+    )
     __mapper_args__ = {"version_id_col": row_version}
 
 

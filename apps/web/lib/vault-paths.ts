@@ -35,7 +35,7 @@ const ALLOWED: RegExp[] = [
   new RegExp(`^catalog/collections/${SLUG}/import$`),
   new RegExp(`^catalog/progress/(reading|watching|continue|position)$`),
   new RegExp(`^catalog/members/${UUID}(/prepare)?$`),
-  new RegExp(`^projects/${PROJECT}/(reference-manifests|music|chapter-packages)$`),
+  new RegExp(`^projects/${PROJECT}/(reference-manifests|music|chapter-packages|resync)$`),
   new RegExp(`^projects/${PROJECT}/music/${UUID}/(update|remove)$`),
   new RegExp(`^projects/${PROJECT}/chapter-packages/(validate|[a-z0-9][a-z0-9-]{0,119}(/approval)?)$`),
   new RegExp(`^production/(reference-manifests/${UUID}|chapter-package-schema)$`),

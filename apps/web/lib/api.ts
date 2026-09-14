@@ -701,6 +701,65 @@ export interface ProjectDocument {
   /** Parts of other documents this one overrides, as the documents state it. */
   overrides: { document: string; scope: string }[];
   overridden_by: { document: string; scope: string }[];
+  /** Registered by an explicit manifest entry, by a manifest convention, or not at all. */
+  registration: "explicit" | "convention" | "unfiled";
+  convention: string | null;
+  /** Small values the manifest reads from the document's head (pages, title). */
+  facts: Record<string, string>;
+  /** The commit that last changed the document, for projects read from Git. */
+  commit: string | null;
+  /** The approved milestone this in-review document has since been resolved by. */
+  resolved_by: string | null;
+}
+
+/** Where a project was read from. A Git source names its ref and commit, never a path. */
+export interface ProjectSource {
+  kind: "directory" | "git";
+  ref: string | null;
+  directory: string | null;
+  commit: string | null;
+  committed_at: string | null;
+  subject: string | null;
+}
+
+export interface EpisodeLevel {
+  id: string;
+  label: string;
+  requires: string[];
+  state: string | null;
+  count_pages: boolean;
+}
+
+export interface EpisodeStanding {
+  code: string;
+  season: number | null;
+  number: number | null;
+  title: string | null;
+  level: string | null;
+  label: string;
+  state: string | null;
+  pages: number | null;
+  documents: { category: string; id: string; title: string; lifecycle: DocumentLifecycle; resolved_by: string | null }[];
+  missing: string[];
+  last_commit: string | null;
+  last_changed_at: string | null;
+}
+
+export interface EpisodeBoardSummary {
+  episodes: number;
+  by_level: Record<string, number>;
+  pages: number;
+  unmet: number;
+}
+
+export interface ProjectResync {
+  project_id: string;
+  fetched: boolean;
+  previous_commit: string | null;
+  commit: string | null;
+  changed: boolean;
+  detail: string;
+  source: ProjectSource;
 }
 
 export interface PipelineStage {
@@ -723,6 +782,7 @@ export interface ProjectSummary {
   extras: number;
   updated_at: string | null;
   warnings: string[];
+  source: ProjectSource;
 }
 
 export interface ProjectDetail {
@@ -731,6 +791,9 @@ export interface ProjectDetail {
   documents: ProjectDocument[];
   pipeline: PipelineStage[];
   counts: Record<string, number>;
+  levels: EpisodeLevel[];
+  episodes: EpisodeStanding[];
+  episode_summary: EpisodeBoardSummary;
 }
 
 export interface ProjectDocumentBody {

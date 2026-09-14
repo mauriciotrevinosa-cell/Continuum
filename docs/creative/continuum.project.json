@@ -6,9 +6,12 @@
   "status": "active",
   "logline": "Continuum no importa franquicias. Importa personas.",
   "description": "The flagship personal project developed inside Continuum. It is developed manga-first: approved story structure becomes a draft, a panel script, rough and final manga, and only then an anime adaptation.",
-  "_note": "This manifest is the explicit registry of the project's documents. Lifecycle values transcribe the standing each document's author recorded in its own Status line; changing a lifecycle here is how a document is approved, locked or superseded. A Markdown file matched by 'discover' but not listed below appears as unfiled and is never treated as approved.",
+  "_note": "This manifest registers the project's documents in two ways. Entries under 'documents' are explicit: their lifecycle is written here. Files matching a rule under 'conventions' are registered by name the moment they are committed; their lifecycle transcribes the author's own Status line through 'status_lifecycle' (first match wins), so the committed documents stay the single source of truth. A Markdown file matched only by 'discover' appears as unfiled and is never treated as approved.",
   "_note_standing": "maturity (ROUGH, DETAILED, PRODUCTION_READY) transcribes how developed the author says a document is; authority (RULE, CORRECTION, INDEX, CONTENT) transcribes an 'authoritative' workflow rule, correction or source-of-truth index; overrides lists only the partial precedence a document states in its own text. Nothing here resolves a conflict the documents do not resolve themselves.",
-  "discover": ["THE_ARRIVALS_*.md"],
+  "_note_board": "'episodes' declares the readiness levels of the production pipeline rules and the document categories each level requires (all approved). The episode board is computed from the committed documents on every read; nothing about an episode's readiness is stored here. 'resolves' shows a voice-check iteration still marked in review as resolved once the episode's GREEN LIGHT exists; its own lifecycle is left as its author recorded it.",
+  "discover": [
+    "THE_ARRIVALS_*.md"
+  ],
   "documents": [
     {
       "id": "production-pipeline-and-git-rules",
@@ -192,7 +195,9 @@
       "version": "0.1",
       "lineage": "s1-day-in-the-life-episode",
       "summary": "Approved rough / high-confidence episode concept; placement open. Its placement assumption is overridden by the placement correction.",
-      "constraints": ["Placement is governed by the placement correction, not by this document."]
+      "constraints": [
+        "Placement is governed by the placement correction, not by this document."
+      ]
     },
     {
       "id": "s1-day-in-the-life-placement-correction",
@@ -377,16 +382,252 @@
       "summary": "Provisional character reference package; its author's status is candidate character / high-priority visual anchor. A reference.json sits beside it."
     }
   ],
+  "conventions": [
+    {
+      "id": "episode-manga-panel-script",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_(?:[A-Z0-9_]+_)?MANGA_PANEL_SCRIPT_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "document_id": "{episode_lower}-manga-panel-script",
+      "category": "panel-script",
+      "section": "production",
+      "maturity": "PRODUCTION_READY",
+      "lineage": "{episode_lower}-manga-panel-script"
+    },
+    {
+      "id": "episode-level4-editorial-overview",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_(?:[A-Z0-9_]+_)?LEVEL4_EDITORIAL_OVERVIEW_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "document_id": "{episode_lower}-level4-editorial-overview",
+      "category": "editorial-overview",
+      "section": "production",
+      "maturity": "DETAILED",
+      "lineage": "{episode_lower}-level4-editorial-overview"
+    },
+    {
+      "id": "episode-draft",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_(?:[A-Z0-9_]+_)?DRAFT_(?P<draft>\\d+)_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "document_id": "{episode_lower}-draft-{draft}",
+      "category": "draft",
+      "section": "story",
+      "maturity": "DETAILED",
+      "lineage": "{episode_lower}-draft-{draft}"
+    },
+    {
+      "id": "episode-green-light",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_(?:[A-Z0-9_]+_)?(?:GREEN_LIGHT|VOICE_CHECK_APPROVAL)_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "document_id": "{episode_lower}-green-light",
+      "category": "green-light",
+      "section": "story",
+      "lineage": "{episode_lower}-green-light"
+    },
+    {
+      "id": "episode-voice-check-iteration",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_[A-Z0-9_]+_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "voice-check-iteration",
+      "section": "story"
+    },
+    {
+      "id": "production-correction",
+      "match": "^THE_ARRIVALS_M\\d+(?:_M\\d+)?_[A-Z0-9_]+?CORRECTION(?:_[A-Z0-9_]+)?_(?:(?P<date>\\d{4}-\\d{2}-\\d{2})|v(?P<version>\\d+(?:\\.\\d+)*))\\.md$",
+      "category": "production-correction",
+      "section": "production",
+      "authority": "CORRECTION",
+      "lifecycle": "APPROVED"
+    },
+    {
+      "id": "production-findings",
+      "match": "^THE_ARRIVALS_M\\d+_[A-Z0-9_]+?FINDINGS(?:_[A-Z0-9_]+)?_(?:(?P<date>\\d{4}-\\d{2}-\\d{2})|v(?P<version>\\d+(?:\\.\\d+)*))\\.md$",
+      "category": "production-findings",
+      "section": "production",
+      "lifecycle": "APPROVED"
+    },
+    {
+      "id": "production-requirement",
+      "match": "^THE_ARRIVALS_M\\d+_[A-Z0-9_]+_(?:(?P<date>\\d{4}-\\d{2}-\\d{2})|v(?P<version>\\d+(?:\\.\\d+)*))\\.md$",
+      "category": "production-requirement",
+      "section": "production",
+      "authority": "RULE",
+      "lifecycle": "APPROVED"
+    },
+    {
+      "id": "readiness-checkpoint",
+      "match": "^THE_ARRIVALS_[A-Z0-9_]+_CHECKPOINT_(?P<date>\\d{4}-\\d{2}-\\d{2})\\.md$",
+      "category": "checkpoint",
+      "section": "production"
+    },
+    {
+      "id": "character-visual-reference-pack",
+      "match": "^THE_ARRIVALS_(?P<character>[A-Z0-9_]+)_VISUAL_REFERENCE_PACK_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "character-design",
+      "section": "production",
+      "maturity": "DETAILED"
+    },
+    {
+      "id": "workflow-rule",
+      "match": "^THE_ARRIVALS_[A-Z0-9_]+_(?:RULE|SEQUENCE|RULES|WORKFLOW)_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "workflow",
+      "section": "production",
+      "authority": "RULE"
+    },
+    {
+      "id": "season-audit",
+      "match": "^THE_ARRIVALS_S(?P<season>\\d+)_[A-Z0-9_]+_AUDIT_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "audit",
+      "section": "story"
+    },
+    {
+      "id": "season-structural-review",
+      "match": "^THE_ARRIVALS_S(?P<season>\\d+)_[A-Z0-9_]+_REVIEW_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "review",
+      "section": "story",
+      "maturity": "ROUGH"
+    }
+  ],
+  "status_lifecycle": [
+    {
+      "match": "\\bSUPERSEDED\\b",
+      "lifecycle": "SUPERSEDED"
+    },
+    {
+      "match": "\\bAPPROVED TARGETED CORRECTION\\b",
+      "lifecycle": "APPROVED"
+    },
+    {
+      "match": "NOT YET GREEN|\\bPENDING USER\\b|\\bpending final\\b",
+      "lifecycle": "REVIEW"
+    },
+    {
+      "match": "\\bTARGETED\\b",
+      "lifecycle": "REVIEW"
+    },
+    {
+      "match": "GREEN LIGHT|\\bAPPROVED\\b|LEVEL 4|PANEL SCRIPT READY|STAGE [34] COMPLETE|\\bLOCKED\\b|AUTHORITATIVE|READY TO BEGIN",
+      "lifecycle": "APPROVED"
+    }
+  ],
+  "facts": {
+    "pages": [
+      "^\\*\\*(?:Provisional|Approved) total:\\*\\*\\s*(\\d+)"
+    ],
+    "title": [
+      "^\\*\\*Episode:\\*\\*\\s*S\\d+E\\d+\\s*[—–-]\\s*(.+?)\\s*$",
+      "^#\\s.*?S\\d+E\\d+\\s*[—–-]?\\s*[`“\\\"]([^`”\\\"]+)[`”\\\"]",
+      "^#\\s.*?S\\d+E\\d+\\s*[—–-]?\\s*(.+?)\\s*[—–-]\\s*GREEN LIGHT"
+    ]
+  },
+  "episodes": {
+    "match": "^S(?P<season>\\d+)E(?P<number>\\d+)$",
+    "categories": [
+      "structure",
+      "green-light",
+      "voice-check-iteration",
+      "draft",
+      "panel-script",
+      "editorial-overview"
+    ],
+    "title_from": [
+      "panel-script",
+      "draft",
+      "editorial-overview",
+      "green-light",
+      "structure"
+    ],
+    "title_fact": "title",
+    "pages_fact": "pages",
+    "pages_from": "panel-script",
+    "levels": [
+      {
+        "id": "4",
+        "label": "Level 4 · manga-ready",
+        "requires": [
+          "draft",
+          "panel-script"
+        ],
+        "state": "panel_script_ready",
+        "count_pages": true
+      },
+      {
+        "id": "3+",
+        "label": "Stage 3 complete · panelization pending",
+        "requires": [
+          "draft"
+        ],
+        "state": "full_episode_build"
+      },
+      {
+        "id": "3",
+        "label": "Voice Check GREEN LIGHT · Stages 3–4 pending",
+        "requires": [
+          "green-light"
+        ],
+        "state": "green_light"
+      }
+    ],
+    "resolves": {
+      "green-light": [
+        "voice-check-iteration"
+      ]
+    },
+    "unmet_label": "Not yet green-lit"
+  },
   "pipeline": [
-    { "id": "structure", "title": "Story structure", "track": "story", "description": "The approved dramatic structure of an episode." },
-    { "id": "draft", "title": "Draft", "track": "story", "description": "The written episode, versioned; a redo is a new version, never an overwrite." },
-    { "id": "panel-script", "title": "Panel script", "track": "manga", "description": "Pages and panels planned from the draft." },
-    { "id": "rough-manga", "title": "Rough manga", "track": "manga", "description": "Rough pages for review and corrections." },
-    { "id": "final-manga", "title": "Final manga", "track": "manga", "description": "Finished pages." },
-    { "id": "chapter-approval", "title": "Chapter approval", "track": "manga", "description": "The chapter is approved and locked." },
-    { "id": "adaptation-draft", "title": "Anime adaptation draft", "track": "anime", "description": "The approved chapter adapted for animation." },
-    { "id": "animatic", "title": "Animatic and shot plan", "track": "anime", "description": "Timing, shots and their S/A/B/C/D tiers." },
-    { "id": "production", "title": "Animation production", "track": "anime", "description": "Shots produced as durable, inspectable jobs." },
-    { "id": "episode-review", "title": "Episode review", "track": "anime", "description": "The assembled episode, reviewed against its shots and approvals." }
+    {
+      "id": "structure",
+      "title": "Story structure",
+      "track": "story",
+      "description": "The approved dramatic structure of an episode."
+    },
+    {
+      "id": "draft",
+      "title": "Draft",
+      "track": "story",
+      "description": "The written episode, versioned; a redo is a new version, never an overwrite."
+    },
+    {
+      "id": "panel-script",
+      "title": "Panel script",
+      "track": "manga",
+      "description": "Pages and panels planned from the draft."
+    },
+    {
+      "id": "rough-manga",
+      "title": "Rough manga",
+      "track": "manga",
+      "description": "Rough pages for review and corrections."
+    },
+    {
+      "id": "final-manga",
+      "title": "Final manga",
+      "track": "manga",
+      "description": "Finished pages."
+    },
+    {
+      "id": "chapter-approval",
+      "title": "Chapter approval",
+      "track": "manga",
+      "description": "The chapter is approved and locked."
+    },
+    {
+      "id": "adaptation-draft",
+      "title": "Anime adaptation draft",
+      "track": "anime",
+      "description": "The approved chapter adapted for animation."
+    },
+    {
+      "id": "animatic",
+      "title": "Animatic and shot plan",
+      "track": "anime",
+      "description": "Timing, shots and their S/A/B/C/D tiers."
+    },
+    {
+      "id": "production",
+      "title": "Animation production",
+      "track": "anime",
+      "description": "Shots produced as durable, inspectable jobs."
+    },
+    {
+      "id": "episode-review",
+      "title": "Episode review",
+      "track": "anime",
+      "description": "The assembled episode, reviewed against its shots and approvals."
+    }
   ]
 }

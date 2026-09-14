@@ -14,6 +14,7 @@ from continuum_production.chapter_package import (
     package_json_schema,
     package_view,
 )
+from continuum_production.character_manifest import character_manifest
 from continuum_production.manifest import (
     MANIFEST_SCHEMA,
     ManifestRequest,
@@ -34,7 +35,12 @@ from continuum_production.recipe import (
 )
 from continuum_production.render import SourceAssetMissingError, render_attempt
 from continuum_production.service import DEFAULT_WORKFLOW, ROUGH_JOB_TYPE, RoughProduction
-from continuum_production.views import artifact_view, attempt_view, provenance_view
+from continuum_production.views import (
+    artifact_view,
+    attempt_view,
+    completion_view,
+    provenance_view,
+)
 
 __all__ = [
     "DEFAULT_WORKFLOW",
@@ -59,6 +65,8 @@ __all__ = [
     "SourcePage",
     "artifact_view",
     "attempt_view",
+    "character_manifest",
+    "completion_view",
     "manifest_view",
     "music_view",
     "package_json_schema",

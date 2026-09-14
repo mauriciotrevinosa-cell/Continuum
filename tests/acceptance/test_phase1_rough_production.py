@@ -83,6 +83,7 @@ from tests.phase1_world import (
     picture,
     snapshot,
 )
+from tests.renderers import artwork_registry
 
 pytestmark = pytest.mark.requires_db
 
@@ -323,8 +324,22 @@ class TestFourModes:
         assert intent["characters"][0]["visual_mode_name"] == "Comic squash"
         assert production.inputs(layout.id) == []
 
-        # Approve the new generation and use it as continuity in a composite.
-        production.review(new.id, ReviewDecision.APPROVE, notes="good read")
+        # A test render passes technically; it is never creative approval.
+        with pytest.raises(CatalogInputError, match="test renderer"):
+            production.review(new.id, ReviewDecision.CREATIVE_APPROVE)
+        with pytest.raises(CatalogInputError, match="creatively approved"):
+            production.promote_to_continuity(new.id)
+        session.rollback()
+
+        # Drawn by a renderer whose images are artwork candidates, it can be
+        # creatively approved and used as continuity in a composite.
+        worker.providers = artwork_registry()
+        art = production.regenerate(new.id, notes="now with a model")
+        session.commit()
+        assert drain(worker) == 1
+        session.expire_all()
+        new = production.attempt(art.id)
+        production.review(new.id, ReviewDecision.CREATIVE_APPROVE, notes="good read")
         continuity = production.promote_to_continuity(
             new.id, characters=(CharacterLink(hero.id, CharacterAspect.FULL_BODY),)
         )
@@ -372,6 +387,7 @@ class TestAppendOnlyHistory:
         worker: Worker,
     ) -> None:
         refs = cast(catalog, world)
+        worker.providers = artwork_registry()
         artifact = production.create_artifact(PROJECT, "S1E1", 35, panel=2)
         first = production.request_attempt(artifact.id, edit_spec(refs))
         session.commit()
@@ -380,7 +396,8 @@ class TestAppendOnlyHistory:
 
         with pytest.raises(CatalogConflictError):
             production.review(
-                production.request_attempt(artifact.id, edit_spec(refs)).id, ReviewDecision.APPROVE
+                production.request_attempt(artifact.id, edit_spec(refs)).id,
+                ReviewDecision.CREATIVE_APPROVE,
             )
         session.rollback()
 
@@ -403,18 +420,25 @@ class TestAppendOnlyHistory:
         out2, _ = production.derivative_bytes(second.id, DerivativeKind.OUTPUT)
         assert pixel_digest(out1) != pixel_digest(out2)
 
-        production.review(second.id, ReviewDecision.APPROVE)
-        production.review(first.id, ReviewDecision.APPROVE, notes="the first take was better")
+        production.review(second.id, ReviewDecision.CREATIVE_APPROVE)
+        production.review(
+            first.id, ReviewDecision.CREATIVE_APPROVE, notes="the first take was better"
+        )
         session.commit()
-        assert production.attempt(first.id).state is AttemptState.APPROVED
+        assert production.attempt(first.id).state is AttemptState.CREATIVE_APPROVED
         assert production.attempt(second.id).state is AttemptState.SUPERSEDED
         with pytest.raises(CatalogConflictError):
-            production.review(first.id, ReviewDecision.APPROVE)
+            production.review(first.id, ReviewDecision.CREATIVE_APPROVE)
+        production.review(first.id, ReviewDecision.FINAL_APPROVE, notes="finished")
+        session.commit()
+        assert production.attempt(first.id).state is AttemptState.FINAL_APPROVED
         # Every attempt's bytes remain, and history is newest first.
         assert production.derivative_bytes(second.id, DerivativeKind.OUTPUT)[0] == out2
         view = artifact_view(production, artifact)
         assert [a["attempt"] for a in view["attempts"]] == [2, 1]
-        assert view["approved_attempt_id"] == str(first.id)
+        assert view["creative_approved_attempt_id"] == str(first.id)
+        assert view["final_approved_attempt_id"] == str(first.id)
+        assert view["counts_toward_completion"] is True
 
     def test_same_recipe_and_seed_reproduce_the_same_pixels(
         self,

@@ -14,6 +14,7 @@ from continuum_storage.acquisition import (
     VaultChanges,
 )
 from continuum_storage.derived import DerivedStore, StoredArtifact
+from continuum_storage.git_tree import GitSourceError, GitSpec
 from continuum_storage.media import (
     MEDIA_ID_PATTERN,
     ArchiveListing,
@@ -43,9 +44,11 @@ from continuum_storage.projects import (
     LIFECYCLE,
     MANIFEST_NAME,
     PROJECT_ID_PATTERN,
+    EpisodeStanding,
     Project,
     ProjectDocument,
     ProjectLibrary,
+    ResyncResult,
 )
 from continuum_storage.reports import StoredReport, read_report, write_report
 from continuum_storage.roots import (
@@ -100,8 +103,11 @@ __all__ = [
     "CatalogRoot",
     "CliResult",
     "DerivedStore",
+    "EpisodeStanding",
     "FileChangedError",
     "FileProbe",
+    "GitSourceError",
+    "GitSpec",
     "HeldUnit",
     "MediaFile",
     "MediaLibrary",
@@ -112,6 +118,7 @@ __all__ = [
     "ReadOnlyStatus",
     "RecordSupplement",
     "ResolvedPath",
+    "ResyncResult",
     "RootStatus",
     "SourceAccess",
     "SourceChangedError",

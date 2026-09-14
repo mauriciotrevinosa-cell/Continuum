@@ -42,6 +42,7 @@ from tests.phase1_world import (
     clean_domain_tables,
     snapshot,
 )
+from tests.renderers import artwork_registry
 
 pytestmark = pytest.mark.requires_db
 
@@ -235,10 +236,41 @@ def test_request_render_review_regenerate_and_promote(
     second = regenerated["regenerated"]
     assert second["attempt"] == 2 and second["seed"] == 77
     assert worker.run_once() is True
-    approved = ok(
-        client.post(f"/production/attempts/{second['id']}/review", json={"decision": "APPROVE"})
+    # The sketch renderer draws test renders: creative approval is refused, with the reason.
+    assert second["output_class"] is None and second["allowed_decisions"] == []
+    drawn = ok(client.get(f"/production/attempts/{second['id']}"))
+    assert drawn["output_class"] == "TEST_RENDER" and drawn["test_only"] is True
+    assert "CREATIVE_APPROVE" not in drawn["allowed_decisions"]
+    refused = client.post(
+        f"/production/attempts/{second['id']}/review", json={"decision": "CREATIVE_APPROVE"}
     )
-    assert approved["attempt"]["state"] == "APPROVED"
+    assert refused.status_code == 422 and "test renderer" in refused.text
+    passed = ok(
+        client.post(
+            f"/production/attempts/{second['id']}/review", json={"decision": "TECHNICAL_PASS"}
+        )
+    )
+    assert passed["attempt"]["state"] == "TECHNICAL_PASS"
+    assert (
+        client.post(f"/production/attempts/{second['id']}/continuity", json={}).status_code == 422
+    )
+
+    # Drawn by a renderer whose images are artwork candidates, it can be approved as rough manga.
+    worker.providers = artwork_registry()
+    third = ok(
+        client.post(
+            f"/production/attempts/{second['id']}/review",
+            json={"decision": "REGENERATE", "notes": "with a model"},
+        )
+    )["regenerated"]
+    assert worker.run_once() is True
+    approved = ok(
+        client.post(
+            f"/production/attempts/{third['id']}/review", json={"decision": "CREATIVE_APPROVE"}
+        )
+    )
+    assert approved["attempt"]["state"] == "CREATIVE_APPROVED"
+    second = third
     continuity = ok(
         client.post(
             f"/production/attempts/{second['id']}/continuity",
@@ -253,7 +285,9 @@ def test_request_render_review_regenerate_and_promote(
         continuity["origin"] == "PROJECT_APPROVED" and continuity["reference_class"] == "CONTINUITY"
     )
     history = ok(client.get(f"/projects/{PROJECT}/rough-artifacts"))
-    assert [a["attempt"] for a in history[0]["attempts"]] == [2, 1]
+    assert [a["attempt"] for a in history[0]["attempts"]] == [3, 2, 1]
+    completion = ok(client.get(f"/projects/{PROJECT}/rough-completion"))
+    assert completion["production"] == {"artifacts": 1, "creative_approved": 1, "final_approved": 0}
     assert snapshot(world.vault) == before
 
 

@@ -13,7 +13,7 @@ import {
 } from "@/lib/vault";
 import { Select } from "../../../library/_vault/SpecForm";
 import { Feedback, useAction } from "../../../library/_vault/useAction";
-import { STATE_TONE } from "../../_parts/status";
+import { DECISION_LABELS, STATE_TONE, TestOnlyChip, stateLabel } from "../../_parts/status";
 
 const image = (id: string, kind = "OUTPUT") =>
   `/vault-api/production/attempts/${id}/image${kind === "OUTPUT" ? "" : `?kind=${kind}`}`;
@@ -40,7 +40,7 @@ function Review({
         vaultFetch(`production/attempts/${detail.id}/review`, {
           json: { decision, notes, seed: decision === "REGENERATE" && seed ? Number(seed) : null },
         }),
-      decision === "REGENERATE" ? "A new attempt is queued." : `${words(decision)}d.`,
+      decision === "REGENERATE" ? "A new attempt is queued." : `${DECISION_LABELS[decision] ?? words(decision)} recorded.`,
     );
     if (result) onChanged();
   };
@@ -55,28 +55,39 @@ function Review({
           <textarea value={notes} onChange={(e) => setNotes(e.target.value)} style={{ width: "100%", minHeight: 60 }} />
         </label>
       </div>
+      {detail.test_only ? (
+        <p className="hint">
+          This attempt is test-only: it can pass technically (workflow verified) but can never be creatively
+          approved or count as manga.
+        </p>
+      ) : null}
       <div className="row">
-        {detail.state !== "APPROVED" ? (
-          <button className="button small primary" type="button" disabled={busy} onClick={() => decide("APPROVE")}>
-            Approve
+        {detail.allowed_decisions
+          .filter((d) => d !== "REGENERATE")
+          .map((decision) => (
+            <button
+              key={decision}
+              className={`button small${decision === "CREATIVE_APPROVE" || decision === "FINAL_APPROVE" ? " primary" : ""}`}
+              type="button"
+              disabled={busy}
+              onClick={() => decide(decision)}
+            >
+              {DECISION_LABELS[decision] ?? decision}
+            </button>
+          ))}
+        {detail.allowed_decisions.includes("REGENERATE") ? (
+          <button className="button small" type="button" disabled={busy} onClick={() => decide("REGENERATE")}>
+            Regenerate
           </button>
         ) : null}
-        {detail.state !== "REJECTED" ? (
-          <button className="button small" type="button" disabled={busy} onClick={() => decide("REJECT")}>
-            Reject
-          </button>
-        ) : null}
-        <button className="button small" type="button" disabled={busy} onClick={() => decide("REGENERATE")}>
-          Regenerate
-        </button>
         <div className="field compact" style={{ width: 130 }}>
           <input type="number" min={0} value={seed} onChange={(e) => setSeed(e.target.value)} placeholder="new seed" aria-label="Seed for regeneration" />
         </div>
       </div>
-      {detail.state === "APPROVED" ? (
+      {(detail.state === "CREATIVE_APPROVED" || detail.state === "FINAL_APPROVED") && !detail.test_only ? (
         <div className="stack surface panel" style={{ background: "var(--surface-0)" }}>
           <strong>Keep as continuity</strong>
-          <p className="hint">Makes this approved attempt a CONTINUITY reference for later pages.</p>
+          <p className="hint">Makes this creatively approved attempt a CONTINUITY reference for later pages.</p>
           <div className="form-row" style={{ gridTemplateColumns: "1fr 1fr auto", alignItems: "end" }}>
             <div className="field compact">
               <label>
@@ -154,7 +165,10 @@ function Detail({ id, characters }: { id: string; characters: CharacterSummary[]
           <h3 style={{ margin: 0 }}>
             Attempt {detail.attempt} <span className="muted">· {words(detail.mode)}</span>
           </h3>
-          <span className={`chip ${STATE_TONE[detail.display_state] ?? "muted"}`}>{words(detail.display_state)}</span>
+          <span className="row" style={{ gap: 6 }}>
+            <TestOnlyChip purpose={detail.purpose} output={detail.output_class} />
+            <span className={`chip ${STATE_TONE[detail.display_state] ?? "muted"}`}>{stateLabel(detail.display_state)}</span>
+          </span>
         </div>
         {detail.display_state === "BLOCKED" || detail.display_state === "FAILED" ? (
           <div className="banner err">
@@ -311,7 +325,10 @@ function Detail({ id, characters }: { id: string; characters: CharacterSummary[]
             <ol className="chain">
               {detail.reviews.map((r, index) => (
                 <li key={index}>
-                  <b>{words(r.decision)}</b>
+                  <b>{DECISION_LABELS[r.decision] ?? words(r.decision)}</b>
+                  {r.reclassified_from ? (
+                    <span className="muted"> (recorded as {words(r.reclassified_from)} before M2 closeout: a test render was never creative approval)</span>
+                  ) : null}
                   {r.notes ? ` - ${r.notes}` : ""}{" "}
                   <span className="muted">{r.decided_at ? new Date(r.decided_at).toLocaleString() : ""}</span>
                 </li>
@@ -383,7 +400,7 @@ export function AttemptHistory({
             <span className="row" style={{ justifyContent: "space-between" }}>
               <b className="tabular">#{attempt.attempt}</b>
               <span className={`chip tiny ${STATE_TONE[attempt.display_state] ?? "muted"}`}>
-                {words(attempt.display_state)}
+                {stateLabel(attempt.display_state)}
               </span>
             </span>
           </button>

@@ -21,6 +21,7 @@ from continuum_core.references import (
     AssetMedium,
     CandidateStatus,
     CharacterAspect,
+    CharacterOrigin,
     DescriptorFacet,
     IntakeKind,
     ModeScope,
@@ -234,6 +235,10 @@ class ChangesIn(VersionIn):
 class CharacterIn(StrictBody):
     display_name: str
     subject_kind: SubjectKind = SubjectKind.CHARACTER
+    #: SOURCE_WORK, or PROJECT_ORIGINAL with the project and its design documents.
+    origin: CharacterOrigin = CharacterOrigin.SOURCE_WORK
+    project_key: str | None = Field(default=None, pattern=r"^[a-z0-9][a-z0-9-]{0,79}$")
+    design_documents: list[str] = Field(default_factory=list, max_length=20)
     source_label: str = ""
     summary: str = ""
     scale_notes: str = ""

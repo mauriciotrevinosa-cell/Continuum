@@ -1978,6 +1978,26 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/projects/{project_id}/characters/{character_id}/manifest": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Get Character Manifest
+         * @description Every reference that can ground this character in this project, by facet and lane.
+         */
+        get: operations["get_character_manifest_projects__project_id__characters__character_id__manifest_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/projects/{project_id}/documents/{document_id}": {
         parameters: {
             query?: never;
@@ -2085,6 +2105,30 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/projects/{project_id}/resync": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Resync Project
+         * @description Bring the project up to date with its source.
+         *
+         *     For a project read from a remote-tracking Git ref this fetches that ref
+         *     (nothing else in the repository changes); the project is then re-read at
+         *     the commit the ref now points to. A failed fetch is reported, not raised.
+         */
+        post: operations["resync_project_projects__project_id__resync_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/projects/{project_id}/rough-artifacts": {
         parameters: {
             query?: never;
@@ -2097,6 +2141,26 @@ export interface paths {
         put?: never;
         /** Create Artifact */
         post: operations["create_artifact_projects__project_id__rough_artifacts_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}/rough-completion": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Rough Completion
+         * @description Rough manga completion, counting production work only; tests are listed apart.
+         */
+        get: operations["rough_completion_projects__project_id__rough_completion_get"];
+        put?: never;
+        post?: never;
         delete?: never;
         options?: never;
         head?: never;
@@ -2445,6 +2509,8 @@ export interface components {
             panel?: number | null;
             /** Panel Script Document */
             panel_script_document?: string | null;
+            /** @default PRODUCTION */
+            purpose: components["schemas"]["RoughPurpose"];
             /**
              * Title
              * @default
@@ -2603,6 +2669,8 @@ export interface components {
         CharacterAspect: "FACE" | "HAIR" | "FULL_BODY" | "PROPORTIONS" | "SCALE" | "DISTINGUISHING_MARK" | "POSTURE" | "OUTFIT" | "ACCESSORY" | "EXPRESSION" | "POSE" | "GESTURE" | "ACTION_POSE" | "QUIET_ACTING" | "COMEDIC_EXPRESSION";
         /** CharacterIn */
         CharacterIn: {
+            /** Design Documents */
+            design_documents?: string[];
             /** Display Name */
             display_name: string;
             /**
@@ -2615,11 +2683,15 @@ export interface components {
              * @default
              */
             notes: string;
+            /** @default SOURCE_WORK */
+            origin: components["schemas"]["CharacterOrigin"];
             /**
              * Posture Notes
              * @default
              */
             posture_notes: string;
+            /** Project Key */
+            project_key?: string | null;
             /**
              * Scale Notes
              * @default
@@ -2659,6 +2731,12 @@ export interface components {
              */
             preferred: boolean;
         };
+        /**
+         * CharacterOrigin
+         * @description Whose design a character is.
+         * @enum {string}
+         */
+        CharacterOrigin: "SOURCE_WORK" | "PROJECT_ORIGINAL";
         /**
          * Confidence
          * @description How sure an identification is. LOW is always shown as uncertain.
@@ -2816,6 +2894,60 @@ export interface components {
          * @enum {string}
          */
         EntryStatus: "CATALOGUED" | "UNSUPPORTED" | "FAILED" | "MISSING";
+        /** EpisodeBoardSummary */
+        EpisodeBoardSummary: {
+            /** By Level */
+            by_level?: {
+                [key: string]: number;
+            };
+            /**
+             * Episodes
+             * @default 0
+             */
+            episodes: number;
+            /**
+             * Pages
+             * @default 0
+             */
+            pages: number;
+            /**
+             * Unmet
+             * @default 0
+             */
+            unmet: number;
+        };
+        /** EpisodeDocumentRef */
+        EpisodeDocumentRef: {
+            /** Category */
+            category: string;
+            /** Id */
+            id: string;
+            /**
+             * Lifecycle
+             * @enum {string}
+             */
+            lifecycle: "IDEA" | "DRAFT" | "REVIEW" | "APPROVED" | "LOCKED" | "SUPERSEDED" | "ARCHIVED" | "UNFILED";
+            /** Resolved By */
+            resolved_by?: string | null;
+            /** Title */
+            title: string;
+        };
+        /** EpisodeLevel */
+        EpisodeLevel: {
+            /**
+             * Count Pages
+             * @default false
+             */
+            count_pages: boolean;
+            /** Id */
+            id: string;
+            /** Label */
+            label: string;
+            /** Requires */
+            requires?: string[];
+            /** State */
+            state?: string | null;
+        };
         /**
          * EpisodeRun
          * @description Episodes of one season, as the file names state them.
@@ -2838,6 +2970,36 @@ export interface components {
             gaps_text: string;
             /** Season */
             season?: number | null;
+        };
+        /**
+         * EpisodeStandingOut
+         * @description One episode's readiness, computed from its committed documents on every read.
+         */
+        EpisodeStandingOut: {
+            /** Code */
+            code: string;
+            /** Documents */
+            documents?: components["schemas"]["EpisodeDocumentRef"][];
+            /** Label */
+            label: string;
+            /** Last Changed At */
+            last_changed_at?: string | null;
+            /** Last Commit */
+            last_commit?: string | null;
+            /** Level */
+            level?: string | null;
+            /** Missing */
+            missing?: string[];
+            /** Number */
+            number?: number | null;
+            /** Pages */
+            pages?: number | null;
+            /** Season */
+            season?: number | null;
+            /** State */
+            state?: string | null;
+            /** Title */
+            title?: string | null;
         };
         /** ExecutionIn */
         ExecutionIn: {
@@ -3887,6 +4049,11 @@ export interface components {
             description: string;
             /** Documents */
             documents?: components["schemas"]["ProjectDocumentOut"][];
+            episode_summary?: components["schemas"]["EpisodeBoardSummary"];
+            /** Episodes */
+            episodes?: components["schemas"]["EpisodeStandingOut"][];
+            /** Levels */
+            levels?: components["schemas"]["EpisodeLevel"][];
             /** Pipeline */
             pipeline?: components["schemas"]["PipelineStage"][];
             project: components["schemas"]["ProjectSummary"];
@@ -3912,14 +4079,22 @@ export interface components {
             authority: "CONTENT" | "RULE" | "CORRECTION" | "INDEX";
             /** Category */
             category: string;
+            /** Commit */
+            commit?: string | null;
             /** Constraints */
             constraints?: string[];
+            /** Convention */
+            convention?: string | null;
             /** Dated */
             dated?: string | null;
             /** Derived From */
             derived_from?: string | null;
             /** Episode */
             episode?: string | null;
+            /** Facts */
+            facts?: {
+                [key: string]: string;
+            };
             /**
              * Filed
              * @default true
@@ -3943,6 +4118,14 @@ export interface components {
             /** Overrides */
             overrides?: components["schemas"]["DocumentOverride"][];
             /**
+             * Registration
+             * @default explicit
+             * @enum {string}
+             */
+            registration: "explicit" | "convention" | "unfiled";
+            /** Resolved By */
+            resolved_by?: string | null;
+            /**
              * Section
              * @enum {string}
              */
@@ -3965,6 +4148,50 @@ export interface components {
             title: string;
             /** Version */
             version?: string | null;
+        };
+        /** ProjectResync */
+        ProjectResync: {
+            /**
+             * Changed
+             * @default false
+             */
+            changed: boolean;
+            /** Commit */
+            commit?: string | null;
+            /**
+             * Detail
+             * @default
+             */
+            detail: string;
+            /** Fetched */
+            fetched: boolean;
+            /** Previous Commit */
+            previous_commit?: string | null;
+            /** Project Id */
+            project_id: string;
+            source: components["schemas"]["ProjectSource"];
+        };
+        /**
+         * ProjectSource
+         * @description Where a project was read from. A Git source names the ref and commit, never a path.
+         */
+        ProjectSource: {
+            /** Commit */
+            commit?: string | null;
+            /** Committed At */
+            committed_at?: string | null;
+            /** Directory */
+            directory?: string | null;
+            /**
+             * Kind
+             * @default directory
+             * @enum {string}
+             */
+            kind: "directory" | "git";
+            /** Ref */
+            ref?: string | null;
+            /** Subject */
+            subject?: string | null;
         };
         /**
          * ProjectStanding
@@ -4002,6 +4229,7 @@ export interface components {
              * @default
              */
             logline: string;
+            source?: components["schemas"]["ProjectSource"];
             /**
              * Status
              * @default active
@@ -4353,7 +4581,7 @@ export interface components {
          * ReviewDecision
          * @enum {string}
          */
-        ReviewDecision: "APPROVE" | "REJECT" | "REGENERATE";
+        ReviewDecision: "TECHNICAL_PASS" | "CREATIVE_APPROVE" | "FINAL_APPROVE" | "REJECT" | "REGENERATE";
         /** ReviewIn */
         ReviewIn: {
             decision: components["schemas"]["ReviewDecision"];
@@ -4395,6 +4623,12 @@ export interface components {
          * @enum {string}
          */
         RoughMode: "NEW_GENERATION" | "SOURCE_DERIVED_EDIT" | "COMPOSITE" | "LAYOUT_ONLY";
+        /**
+         * RoughPurpose
+         * @description Why a rough artifact exists. Only PRODUCTION work can ever count as manga.
+         * @enum {string}
+         */
+        RoughPurpose: "PRODUCTION" | "WORKFLOW_TEST" | "NON_CANON_SAMPLE";
         /** RowVersionIn */
         RowVersionIn: {
             /** Row Version */
@@ -8752,6 +8986,40 @@ export interface operations {
             };
         };
     };
+    get_character_manifest_projects__project_id__characters__character_id__manifest_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+                character_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     project_document_projects__project_id__documents__document_id__get: {
         parameters: {
             query?: never;
@@ -9032,10 +9300,42 @@ export interface operations {
             };
         };
     };
+    resync_project_projects__project_id__resync_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["ProjectResync"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     list_artifacts_projects__project_id__rough_artifacts_get: {
         parameters: {
             query?: {
                 episode?: string | null;
+                purpose?: components["schemas"]["RoughPurpose"] | null;
             };
             header?: never;
             path: {
@@ -9084,6 +9384,39 @@ export interface operations {
         responses: {
             /** @description Successful Response */
             201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    rough_completion_projects__project_id__rough_completion_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
                 headers: {
                     [name: string]: unknown;
                 };

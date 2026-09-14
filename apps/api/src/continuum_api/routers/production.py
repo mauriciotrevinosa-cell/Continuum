@@ -20,6 +20,7 @@ from continuum_core.references import (
     EditOperationKind,
     ReviewDecision,
     RoughMode,
+    RoughPurpose,
 )
 from continuum_library import CharacterLink, ReferenceCatalog, reference_view
 from continuum_production import (
@@ -31,6 +32,8 @@ from continuum_production import (
     RoughProduction,
     artifact_view,
     attempt_view,
+    character_manifest,
+    completion_view,
     provenance_view,
 )
 from continuum_providers import Capability, DataClass, ProviderRegistry
@@ -70,6 +73,9 @@ class ArtifactIn(StrictBody):
     title: str = ""
     brief: str = ""
     panel_script_document: str | None = Field(default=None, pattern=r"^[a-z0-9][a-z0-9-]{0,79}$")
+    #: PRODUCTION (a real page), WORKFLOW_TEST or NON_CANON_SAMPLE. Tests and
+    #: samples never count as manga and can never be creatively approved.
+    purpose: RoughPurpose = RoughPurpose.PRODUCTION
 
 
 class BundleEntryIn(StrictBody):
@@ -205,12 +211,40 @@ def readiness(request: Request) -> dict[str, Any]:
 
 @router.get("/projects/{project_id}/rough-artifacts")
 def list_artifacts(
-    request: Request, project_id: ProjectId, episode: str | None = None
+    request: Request,
+    project_id: ProjectId,
+    episode: str | None = None,
+    purpose: RoughPurpose | None = None,
 ) -> list[dict[str, Any]]:
     with production_scope(request) as production:
         return [
-            artifact_view(production, a) for a in production.artifacts(project_id, episode=episode)
+            artifact_view(production, a)
+            for a in production.artifacts(project_id, episode=episode, purpose=purpose)
         ]
+
+
+@router.get("/projects/{project_id}/characters/{character_id}/manifest")
+def get_character_manifest(
+    request: Request, project_id: ProjectId, character_id: uuid.UUID
+) -> dict[str, Any]:
+    """Every reference that can ground this character in this project, by facet and lane."""
+    if _projects(request).project(project_id) is None:
+        raise HTTPException(status_code=404, detail={"message": "project not found"})
+    with catalog_scope(request) as catalog:
+        return character_manifest(
+            catalog.session,
+            catalog,
+            character_id,
+            project_key=project_id,
+            projects=_projects(request),
+        )
+
+
+@router.get("/projects/{project_id}/rough-completion")
+def rough_completion(request: Request, project_id: ProjectId) -> dict[str, Any]:
+    """Rough manga completion, counting production work only; tests are listed apart."""
+    with production_scope(request) as production:
+        return completion_view(production, project_id)
 
 
 @router.post("/projects/{project_id}/rough-artifacts", status_code=201)
@@ -235,6 +269,7 @@ def create_artifact(request: Request, project_id: ProjectId, body: ArtifactIn) -
             brief=body.brief,
             panel_script_document=body.panel_script_document,
             panel_script_version=version,
+            purpose=body.purpose,
         )
         return artifact_view(production, artifact)
 

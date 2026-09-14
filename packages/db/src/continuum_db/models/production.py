@@ -27,9 +27,11 @@ from continuum_core.references import (
     BundleRole,
     CharacterAspect,
     DerivativeKind,
+    RenderOutput,
     ReviewDecision,
     RoughArtifactKind,
     RoughMode,
+    RoughPurpose,
 )
 from sqlalchemy import (
     CheckConstraint,
@@ -71,6 +73,14 @@ class RoughArtifact(Base):
     kind: Mapped[RoughArtifactKind] = mapped_column(
         enum_type(RoughArtifactKind, "rough_artifact_kind"), nullable=False
     )
+    #: PRODUCTION work, a WORKFLOW_TEST or a NON_CANON_SAMPLE. Tests and samples
+    #: live beside production pages without ever colliding with or counting as them.
+    purpose: Mapped[RoughPurpose] = mapped_column(
+        enum_type(RoughPurpose, "rough_purpose"),
+        nullable=False,
+        default=RoughPurpose.PRODUCTION,
+        server_default=RoughPurpose.PRODUCTION.value,
+    )
     title: Mapped[str] = mapped_column(String(300), nullable=False, default="")
     #: The approved panel-script document (project manifest id) and version.
     panel_script_document: Mapped[str | None] = mapped_column(String(80), nullable=True)
@@ -85,7 +95,13 @@ class RoughArtifact(Base):
         CheckConstraint("(kind = 'PANEL') = (panel IS NOT NULL)", name="panel_kind_has_panel"),
         CheckConstraint("chapter IS NULL OR chapter >= 1", name="chapter_positive"),
         UniqueConstraint(
-            "project_key", "episode", "page", "panel", "kind", postgresql_nulls_not_distinct=True
+            "project_key",
+            "purpose",
+            "episode",
+            "page",
+            "panel",
+            "kind",
+            postgresql_nulls_not_distinct=True,
         ),
         Index("ix_rough_artifact_project_key", "project_key"),
     )
@@ -140,6 +156,10 @@ class RoughAttempt(Base):
         enum_type(AttemptState, "attempt_state"), nullable=False
     )
     content_hash: Mapped[str | None] = mapped_column(String(64), nullable=True)
+    #: What the image is evidence of, set by the renderer that drew it.
+    output_class: Mapped[RenderOutput | None] = mapped_column(
+        enum_type(RenderOutput, "render_output"), nullable=True
+    )
     mime: Mapped[str | None] = mapped_column(String(40), nullable=True)
     width: Mapped[int | None] = mapped_column(Integer, nullable=True)
     height: Mapped[int | None] = mapped_column(Integer, nullable=True)
@@ -152,6 +172,14 @@ class RoughAttempt(Base):
         UniqueConstraint("artifact_id", "attempt"),
         CheckConstraint("attempt >= 1", name="attempt_positive"),
         CheckConstraint("(state = 'QUEUED') = (content_hash IS NULL)", name="output_iff_rendered"),
+        CheckConstraint(
+            "(state = 'QUEUED') = (output_class IS NULL)", name="output_class_iff_rendered"
+        ),
+        CheckConstraint(
+            "state NOT IN ('CREATIVE_APPROVED', 'FINAL_APPROVED')"
+            " OR output_class = 'ARTWORK_CANDIDATE'",
+            name="creative_approval_needs_artwork",
+        ),
         CheckConstraint(
             "content_hash IS NULL OR content_hash ~ '^[0-9a-f]{64}$'", name="content_hash_is_sha256"
         ),
@@ -190,6 +218,13 @@ class AttemptInput(Base):
         enum_type(CharacterAspect, "character_aspect"), nullable=True
     )
     label: Mapped[str] = mapped_column(String(300), nullable=False, default="")
+    #: The reference's provenance at the moment it was chosen: origin, class,
+    #: collection, creator, rights, training eligibility, asset hash and the
+    #: catalog's own provenance record. Later edits to the catalog never change
+    #: what this attempt was given.
+    provenance: Mapped[dict[str, Any]] = mapped_column(
+        JSONB, nullable=False, default=dict, server_default="{}"
+    )
 
     __table_args__ = (
         UniqueConstraint("attempt_id", "position"),
@@ -243,6 +278,9 @@ class AttemptReview(Base):
         enum_type(ReviewDecision, "review_decision"), nullable=False
     )
     notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    #: When an upgrade changed what a recorded decision means, the decision as
+    #: it was originally recorded (e.g. an M2 test-render ``APPROVE``).
+    reclassified_from: Mapped[str | None] = mapped_column(String(32), nullable=True)
     decided_at: Mapped[dt.datetime] = mapped_column(
         TimestampTz, nullable=False, server_default=func.now()
     )

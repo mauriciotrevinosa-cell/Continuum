@@ -18,6 +18,7 @@ Rules this service enforces - in code, below the API, so every caller gets them:
 from __future__ import annotations
 
 import datetime as dt
+import re
 import uuid
 from collections.abc import Iterable
 from dataclasses import dataclass, field
@@ -28,6 +29,7 @@ from continuum_core.references import (
     AssetMedium,
     AssetOrigin,
     CharacterAspect,
+    CharacterOrigin,
     DescriptorFacet,
     DescriptorOrigin,
     ModeScope,
@@ -311,13 +313,20 @@ class ReferenceCatalog:
         distinguishing_marks: str = "",
         posture_notes: str = "",
         notes: str = "",
+        origin: CharacterOrigin = CharacterOrigin.SOURCE_WORK,
+        project_key: str | None = None,
+        design_documents: tuple[str, ...] | list[str] = (),
     ) -> CharacterProfile:
         name = clean_text(display_name, 200, field="Name")
         if not name:
             raise CatalogInputError("A character needs a name.")
+        origin, project_key, documents = _character_origin(origin, project_key, design_documents)
         character = CharacterProfile(
             display_name=name,
             subject_kind=subject_kind,
+            origin=origin,
+            project_key=project_key,
+            design_documents=documents,
             source_label=clean_text(source_label, 200, field="Source"),
             summary=clean_text(summary, 4000, field="Summary"),
             scale_notes=clean_text(scale_notes, 4000, field="Scale notes"),
@@ -361,6 +370,15 @@ class ReferenceCatalog:
             "posture_notes": 4000,
             "notes": 8000,
         }
+        if {"origin", "project_key", "design_documents"} & set(changes):
+            origin, project_key, documents = _character_origin(
+                changes.pop("origin", character.origin),
+                changes.pop("project_key", character.project_key),
+                changes.pop("design_documents", character.design_documents),
+            )
+            character.origin = origin
+            character.project_key = project_key
+            character.design_documents = documents
         for key, value in changes.items():
             if key == "subject_kind":
                 character.subject_kind = SubjectKind(value)
@@ -1372,3 +1390,32 @@ def _region_of(item: ReferenceItem | Any) -> NormalizedRegion | None:
 def region_of(item: ReferenceItem | Any) -> NormalizedRegion | None:
     """The normalized region stored on a reference or attempt input, if any."""
     return _region_of(item)
+
+
+_DOCUMENT_ID = re.compile(r"^[a-z0-9][a-z0-9-]{0,79}$")
+
+
+def _character_origin(
+    origin: Any, project_key: str | None, design_documents: Any
+) -> tuple[CharacterOrigin, str | None, list[str]]:
+    """Validate who designed a character, and where their design lives."""
+    try:
+        chosen = CharacterOrigin(origin)
+    except ValueError:
+        raise CatalogInputError(
+            "A character is either from a source work or original to a project."
+        ) from None
+    documents = [str(d) for d in (design_documents or [])]
+    if len(documents) > 20 or not all(_DOCUMENT_ID.match(d) for d in documents):
+        raise CatalogInputError("Design documents are named by project document id.")
+    if chosen is CharacterOrigin.PROJECT_ORIGINAL:
+        if not project_key:
+            raise CatalogInputError("An original character belongs to a project.")
+        require_project_key(project_key)
+        return chosen, project_key, documents
+    if documents:
+        raise CatalogInputError(
+            "Design documents define an original character; a source-work character is "
+            "defined by its source."
+        )
+    return chosen, None, []

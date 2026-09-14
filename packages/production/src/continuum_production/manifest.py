@@ -4,7 +4,10 @@ A manifest is the deterministic answer to "which inputs does this production
 step use?" - resolved from the real Vault and the project, never from a
 hard-coded episode or series:
 
-* **characters** and the references a person marked preferred for them;
+* **characters** and their complementary reference sets - identity, body,
+  wardrobe, expression, pose and accessories from every lane - where
+  "preferred" only ranks a reference inside its facet and never hides the
+  rest (see :mod:`continuum_production.character_manifest`);
 * **references** chosen by id, optionally with every reference the project
   marked canonical or preferred for its current look;
 * **canonical source pages** - a chapter unit and a page number, resolved to
@@ -39,7 +42,6 @@ from continuum_db.models import (
     CharacterProfile,
     MusicReference,
     ProjectReferenceStanding,
-    ReferenceCharacter,
     ReferenceItem,
     ReferenceManifest,
 )
@@ -58,7 +60,7 @@ __all__ = [
     "manifest_view",
 ]
 
-MANIFEST_SCHEMA = "continuum.reference-manifest/1"
+MANIFEST_SCHEMA = "continuum.reference-manifest/2"
 MAX_ITEMS = 500
 
 
@@ -180,33 +182,55 @@ class ReferenceManifests:
             character = self.session.get(CharacterProfile, character_id)
             if character is None or character.removed_at is not None:
                 raise CatalogNotFoundError("A character in the request does not exist.")
-            preferred = self.session.execute(
-                select(ReferenceCharacter)
-                .where(
-                    ReferenceCharacter.character_id == character_id,
-                    ReferenceCharacter.preferred.is_(True),
-                )
-                .order_by(ReferenceCharacter.reference_id, ReferenceCharacter.aspect)
-            ).scalars()
-            links = []
-            for link in preferred:
-                item = self.session.get(ReferenceItem, link.reference_id)
-                if item is None or item.removed_at is not None:
-                    continue
-                references.setdefault(
-                    str(item.id), self._reference(item, request.project_key, warnings)
-                )
-                references[str(item.id)]["roles"].append(
-                    f"character:{character_id}:{link.aspect.value}"
-                )
-                links.append({"reference_id": str(item.id), "aspect": link.aspect.value})
+            from continuum_production.character_manifest import character_manifest
+
+            resolved = character_manifest(
+                self.session,
+                self.catalog,
+                character_id,
+                project_key=request.project_key,
+                projects=self.projects,
+            )
+            warnings.extend(resolved["warnings"])
+            facets: dict[str, list[dict[str, Any]]] = {}
+            for facet, entries in resolved["facets"].items():
+                facets[facet] = []
+                for entry in entries:
+                    item_id = entry["reference_id"]
+                    references.setdefault(item_id, dict(entry["reference"], roles=[]))
+                    references[item_id]["roles"].append(
+                        f"character:{character_id}:{facet}:{entry['aspect']}"
+                    )
+                    facets[facet].append(
+                        {
+                            key: entry[key]
+                            for key in (
+                                "reference_id",
+                                "aspect",
+                                "lane",
+                                "preferred",
+                                "project_standing",
+                                "outfit_id",
+                            )
+                        }
+                    )
             characters.append(
                 {
                     "id": str(character.id),
                     "display_name": character.display_name,
                     "subject_kind": character.subject_kind.value,
+                    "origin": character.origin.value,
                     "source_label": character.source_label,
-                    "preferred_references": links,
+                    "facets": facets,
+                    "lanes": resolved["lanes"],
+                    "design_documents": resolved["design_documents"],
+                    "missing": resolved["missing"],
+                    "preferred_references": [
+                        {"reference_id": e["reference_id"], "aspect": e["aspect"]}
+                        for entries in facets.values()
+                        for e in entries
+                        if e["preferred"]
+                    ],
                 }
             )
 

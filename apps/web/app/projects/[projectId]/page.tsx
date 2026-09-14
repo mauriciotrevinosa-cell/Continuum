@@ -1,15 +1,7 @@
 import Link from "next/link";
-import type { PipelineStage, ProjectDocument } from "@/lib/api";
-import {
-  DocumentRow,
-  HISTORY,
-  KIND_LABELS,
-  LifecycleChip,
-  isContinuity,
-  isDraft,
-  isExtra,
-  loadProject,
-} from "../_components/project";
+import type { PipelineStage } from "@/lib/api";
+import { EpisodeBoard } from "../_components/EpisodeBoard";
+import { DocumentRow, KIND_LABELS, isContinuity, isDraft, isExtra, loadProject } from "../_components/project";
 
 export const dynamic = "force-dynamic";
 
@@ -18,15 +10,6 @@ const TRACKS: { key: string; label: string }[] = [
   { key: "manga", label: "Manga" },
   { key: "anime", label: "Anime" },
 ];
-
-function episodes(documents: ProjectDocument[]): [string, ProjectDocument[]][] {
-  const map = new Map<string, ProjectDocument[]>();
-  for (const d of documents) {
-    if (!d.episode || HISTORY.includes(d.lifecycle)) continue;
-    map.set(d.episode, [...(map.get(d.episode) ?? []), d]);
-  }
-  return [...map.entries()].sort((a, b) => a[0].localeCompare(b[0], undefined, { numeric: true }));
-}
 
 function Track({ stages, label, projectHref }: { stages: PipelineStage[]; label: string; projectHref: string }) {
   if (!stages.length) return null;
@@ -58,7 +41,6 @@ export default async function ProjectHome({ params }: { params: Promise<{ projec
   const progress = documents.filter(isDraft);
   const extras = documents.filter(isExtra);
   const unfiled = documents.filter((d) => !d.filed);
-  const eps = episodes(documents);
 
   return (
     <>
@@ -124,40 +106,15 @@ export default async function ProjectHome({ params }: { params: Promise<{ projec
           ) : null}
           {unfiled.length ? (
             <p className="muted" style={{ margin: "6px 0 0", fontSize: 13 }}>
-              {unfiled.length} document{unfiled.length === 1 ? " is" : "s are"} in the project folder
-              but not registered in its manifest, so {unfiled.length === 1 ? "it has" : "they have"} no
+              {unfiled.length} document{unfiled.length === 1 ? " is" : "s are"} in the project but
+              covered by no manifest entry or convention, so {unfiled.length === 1 ? "it has" : "they have"} no
               standing yet.
             </p>
           ) : null}
         </section>
       </div>
 
-      {eps.length ? (
-        <section className="block" aria-labelledby="episodes">
-          <div className="block-head">
-            <h2 id="episodes">Episodes</h2>
-          </div>
-          <div className="episodes">
-            {eps.map(([episode, docs]) => (
-              <div className="episode" key={episode}>
-                <span className="episode-code">{episode}</span>
-                <div className="episode-docs">
-                  {docs.map((d) => (
-                    <Link
-                      key={d.id}
-                      href={`${href}/documents/${encodeURIComponent(d.id)}`}
-                      className="episode-doc"
-                    >
-                      <span>{d.title}</span>
-                      <LifecycleChip lifecycle={d.lifecycle} />
-                    </Link>
-                  ))}
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
-      ) : null}
+      <EpisodeBoard detail={detail} />
 
       {pipeline.length ? (
         <section className="block" aria-labelledby="production">

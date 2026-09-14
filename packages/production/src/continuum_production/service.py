@@ -4,10 +4,16 @@ Rules enforced here, below every surface:
 
 * **Attempts are append-only.** Requesting or regenerating creates the next
   numbered attempt with its own recipe; nothing is overwritten. Review only
-  moves an attempt between GENERATED / APPROVED / REJECTED / SUPERSEDED, and
-  every decision is appended to the review history.
-* **One approval per artifact.** Approving an attempt supersedes the previous
-  approval; its bytes stay.
+  moves an attempt between its review states, and every decision is appended
+  to the review history.
+* **A technical pass is not a creative approval.** ``TECHNICAL_PASS`` says the
+  workflow did its job. ``CREATIVE_APPROVE`` is a person accepting an image as
+  the project's rough manga, and is only possible for a PRODUCTION artifact
+  whose attempt a real model drew (an ARTWORK_CANDIDATE); ``FINAL_APPROVE``
+  follows creative approval. A workflow test, a non-canon sample and a test
+  render can pass technically and can never be approved as art.
+* **One creative approval per artifact.** Approving an attempt supersedes the
+  previous approval; its bytes stay.
 * **The bundle is snapshotted.** Locator, region, role, character, outfit and
   aspect are copied into ``attempt_input``, so a removed catalog record never
   breaks the chain back to the source page - and regeneration still works.
@@ -22,6 +28,7 @@ from typing import Any
 
 from continuum_core import NormalizedRegion, content_hash_bytes
 from continuum_core.references import (
+    CREATIVE_STATES,
     AttemptState,
     BundleRole,
     DerivativeKind,
@@ -29,14 +36,17 @@ from continuum_core.references import (
     ReferenceClass,
     ReferenceOrigin,
     ReferenceUse,
+    RenderOutput,
     ReviewDecision,
     RoughArtifactKind,
+    RoughPurpose,
 )
 from continuum_db.models import (
     AttemptDerivative,
     AttemptInput,
     AttemptReview,
     GenerationRecipe,
+    LibraryAsset,
     RoughArtifact,
     RoughAttempt,
 )
@@ -67,7 +77,14 @@ from continuum_production.recipe import (
     recipe_hashes,
 )
 
-__all__ = ["DEFAULT_WORKFLOW", "ROUGH_JOB_TYPE", "RoughProduction"]
+__all__ = [
+    "DEFAULT_WORKFLOW",
+    "ROUGH_JOB_TYPE",
+    "RoughProduction",
+    "allowed_decisions",
+    "reference_provenance",
+    "refusal",
+]
 
 ROUGH_JOB_TYPE = "visual.rough_attempt"
 DEFAULT_WORKFLOW = "sketch.v1"
@@ -76,6 +93,67 @@ GENERATED_ROOT = "generated"
 
 def _derived_seed(intent_hash: str, attempt_number: int) -> int:
     return int(content_hash_bytes(f"{intent_hash}:{attempt_number}".encode())[:8], 16) & 0x7FFFFFFF
+
+
+def refusal(artifact: RoughArtifact, attempt: RoughAttempt, decision: ReviewDecision) -> str | None:
+    """Why ``decision`` cannot be recorded for this attempt, or None if it can."""
+    if attempt.state is AttemptState.QUEUED:
+        return "That attempt has not been rendered yet."
+    if decision in (ReviewDecision.CREATIVE_APPROVE, ReviewDecision.FINAL_APPROVE):
+        if artifact.purpose is RoughPurpose.WORKFLOW_TEST:
+            return (
+                "This artifact is a workflow test: non-canon, never manga. Record a technical pass "
+                "if the workflow did its job."
+            )
+        if artifact.purpose is RoughPurpose.NON_CANON_SAMPLE:
+            return (
+                "This artifact is a non-canon sample: it is judged for quality, never approved as "
+                "project artwork. Record a technical pass or reject it."
+            )
+        if attempt.output_class is not RenderOutput.ARTWORK_CANDIDATE:
+            return (
+                f"Attempt {attempt.attempt} was drawn by a test renderer - a labelled diagram of "
+                "its recipe, not artwork. Record a technical pass; creative approval needs an "
+                "image from a real generation model."
+            )
+    if decision is ReviewDecision.TECHNICAL_PASS and attempt.state in (
+        AttemptState.TECHNICAL_PASS,
+        *CREATIVE_STATES,
+    ):
+        return "That attempt already passed technically."
+    if decision is ReviewDecision.CREATIVE_APPROVE and attempt.state in CREATIVE_STATES:
+        return "That attempt is already creatively approved."
+    if decision is ReviewDecision.FINAL_APPROVE:
+        if attempt.state is AttemptState.FINAL_APPROVED:
+            return "That attempt is already final."
+        if attempt.state is not AttemptState.CREATIVE_APPROVED:
+            return "Only a creatively approved attempt can be approved as final."
+    if decision is ReviewDecision.REJECT and attempt.state is AttemptState.REJECTED:
+        return "That attempt is already rejected."
+    return None
+
+
+def allowed_decisions(artifact: RoughArtifact, attempt: RoughAttempt) -> list[ReviewDecision]:
+    """The decisions a reviewer may record for this attempt now, in display order."""
+    return [d for d in ReviewDecision if refusal(artifact, attempt, d) is None]
+
+
+def reference_provenance(item: Any, asset: Any = None) -> dict[str, Any]:
+    """A reference's provenance as it stood when it was chosen, for the bundle snapshot."""
+    provenance = dict(item.provenance or {})
+    return {
+        "reference_id": str(item.id),
+        "origin": item.origin.value,
+        "reference_class": item.reference_class.value,
+        "collection": item.collection,
+        "creator_handle": item.creator_handle,
+        "source_url": item.source_url,
+        "rights_status": item.rights_status.value,
+        "training_eligibility": item.training_eligibility.value,
+        "asset_content_hash": getattr(asset, "content_hash", None),
+        "locator": item.locator,
+        "catalog": provenance,
+    }
 
 
 def _region_dict(item: Any) -> dict[str, float] | None:
@@ -112,14 +190,15 @@ class RoughProduction:
         panel_script_document: str | None = None,
         panel_script_version: str | None = None,
         brief: str = "",
+        purpose: RoughPurpose = RoughPurpose.PRODUCTION,
     ) -> RoughArtifact:
-        """The artifact for a page or panel - created once, then found again."""
+        """The artifact for a page or panel - created once per purpose, then found again."""
         require_project_key(project_key)
         require_episode(episode)
         if page < 1 or (panel is not None and panel < 1) or (chapter is not None and chapter < 1):
             raise CatalogInputError("Chapters, pages and panels are numbered from 1.")
         kind = RoughArtifactKind.PANEL if panel is not None else RoughArtifactKind.PAGE
-        existing = self._find_artifact(project_key, episode, page, panel, kind)
+        existing = self._find_artifact(project_key, episode, page, panel, kind, purpose)
         if existing is not None:
             return existing
         artifact = RoughArtifact(
@@ -129,6 +208,7 @@ class RoughProduction:
             page=page,
             panel=panel,
             kind=kind,
+            purpose=purpose,
             title=clean_text(title, 300, field="Title"),
             panel_script_document=panel_script_document,
             panel_script_version=panel_script_version,
@@ -139,17 +219,24 @@ class RoughProduction:
                 self.session.add(artifact)
                 self.session.flush()
         except IntegrityError:
-            found = self._find_artifact(project_key, episode, page, panel, kind)
+            found = self._find_artifact(project_key, episode, page, panel, kind, purpose)
             assert found is not None
             return found
         return artifact
 
     def _find_artifact(
-        self, project_key: str, episode: str, page: int, panel: int | None, kind: RoughArtifactKind
+        self,
+        project_key: str,
+        episode: str,
+        page: int,
+        panel: int | None,
+        kind: RoughArtifactKind,
+        purpose: RoughPurpose,
     ) -> RoughArtifact | None:
         return self.session.execute(
             select(RoughArtifact).where(
                 RoughArtifact.project_key == project_key,
+                RoughArtifact.purpose == purpose,
                 RoughArtifact.episode == episode,
                 RoughArtifact.page == page,
                 RoughArtifact.panel.is_(None) if panel is None else RoughArtifact.panel == panel,
@@ -163,14 +250,23 @@ class RoughProduction:
             raise CatalogNotFoundError("That rough artifact does not exist.")
         return found
 
-    def artifacts(self, project_key: str, *, episode: str | None = None) -> list[RoughArtifact]:
+    def artifacts(
+        self,
+        project_key: str,
+        *,
+        episode: str | None = None,
+        purpose: RoughPurpose | None = None,
+    ) -> list[RoughArtifact]:
         require_project_key(project_key)
         query = select(RoughArtifact).where(RoughArtifact.project_key == project_key)
         if episode is not None:
             query = query.where(RoughArtifact.episode == episode)
+        if purpose is not None:
+            query = query.where(RoughArtifact.purpose == purpose)
         return list(
             self.session.execute(
                 query.order_by(
+                    RoughArtifact.purpose,
                     RoughArtifact.episode,
                     RoughArtifact.page,
                     RoughArtifact.panel.nulls_first(),
@@ -238,6 +334,7 @@ class RoughProduction:
                 "outfit_id": row.outfit_id,
                 "aspect": row.aspect,
                 "label": row.label,
+                "provenance": row.provenance,
             }
             for row in self.inputs(previous.id)
         ]
@@ -272,28 +369,38 @@ class RoughProduction:
         notes: str = "",
         seed: int | None = None,
     ) -> tuple[AttemptReview | None, RoughAttempt | None]:
-        """Approve, reject or regenerate. Returns (review, new attempt if regenerated)."""
+        """Record a review decision. Returns (review, new attempt if regenerated)."""
         if decision is ReviewDecision.REGENERATE:
             return None, self.regenerate(attempt_id, seed=seed, notes=notes)
         attempt = self.attempt(attempt_id)
-        self._lock_artifact(attempt.artifact_id)
-        if attempt.state is AttemptState.QUEUED:
-            raise CatalogConflictError("That attempt has not been rendered yet.")
-        if decision is ReviewDecision.APPROVE:
-            if attempt.state is AttemptState.APPROVED:
-                raise CatalogConflictError("That attempt is already approved.")
+        artifact = self._lock_artifact(attempt.artifact_id)
+        reason = refusal(artifact, attempt, decision)
+        if reason is not None:
+            if attempt.state is AttemptState.QUEUED or "already" in reason:
+                raise CatalogConflictError(reason)
+            raise CatalogInputError(reason)
+        if decision in (ReviewDecision.CREATIVE_APPROVE, ReviewDecision.FINAL_APPROVE):
+            replaced = (
+                CREATIVE_STATES
+                if decision is ReviewDecision.CREATIVE_APPROVE
+                else frozenset({AttemptState.FINAL_APPROVED})
+            )
             for other in self.session.execute(
                 select(RoughAttempt).where(
                     RoughAttempt.artifact_id == attempt.artifact_id,
-                    RoughAttempt.state == AttemptState.APPROVED,
+                    RoughAttempt.state.in_(replaced),
                     RoughAttempt.id != attempt.id,
                 )
             ).scalars():
                 other.state = AttemptState.SUPERSEDED
-            attempt.state = AttemptState.APPROVED
+            attempt.state = (
+                AttemptState.CREATIVE_APPROVED
+                if decision is ReviewDecision.CREATIVE_APPROVE
+                else AttemptState.FINAL_APPROVED
+            )
+        elif decision is ReviewDecision.TECHNICAL_PASS:
+            attempt.state = AttemptState.TECHNICAL_PASS
         else:  # REJECT
-            if attempt.state is AttemptState.REJECTED:
-                raise CatalogConflictError("That attempt is already rejected.")
             attempt.state = AttemptState.REJECTED
         review = AttemptReview(
             attempt_id=attempt.id, decision=decision, notes=clean_text(notes, 4000, field="Notes")
@@ -373,9 +480,16 @@ class RoughProduction:
     ) -> Any:
         """An approved attempt becomes a CONTINUITY reference for later attempts."""
         attempt = self.attempt(attempt_id)
-        if attempt.state is not AttemptState.APPROVED or attempt.content_hash is None:
-            raise CatalogInputError("Only an approved attempt becomes a continuity reference.")
         artifact = self.artifact(attempt.artifact_id)
+        if (
+            attempt.state not in CREATIVE_STATES
+            or attempt.content_hash is None
+            or artifact.purpose is not RoughPurpose.PRODUCTION
+        ):
+            raise CatalogInputError(
+                "Only a creatively approved production attempt becomes a continuity reference; "
+                "a technical pass or a test render never does."
+            )
         recipe = self.recipe(attempt.recipe_id)
         where = f"{artifact.episode} p{artifact.page}" + (
             f" panel {artifact.panel}" if artifact.panel else ""
@@ -426,6 +540,7 @@ class RoughProduction:
                 if outfit.character_id != entry.character_id:
                     raise CatalogInputError("That outfit belongs to a different character.")
             region = entry.region.as_dict() if entry.region else _region_dict(item)
+            asset = self.session.get(LibraryAsset, item.asset_id)
             rows.append(
                 {
                     "position": position,
@@ -438,6 +553,7 @@ class RoughProduction:
                     "outfit_id": entry.outfit_id,
                     "aspect": entry.aspect,
                     "label": clean_text(entry.label or item.label, 300, field="Label"),
+                    "provenance": reference_provenance(item, asset),
                 }
             )
         return rows
@@ -661,6 +777,7 @@ class RoughProduction:
                     outfit_id=row["outfit_id"],
                     aspect=row["aspect"],
                     label=row["label"],
+                    provenance=row.get("provenance") or {},
                 )
             )
         job, _created = enqueue(

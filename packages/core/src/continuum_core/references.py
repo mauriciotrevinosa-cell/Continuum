@@ -17,6 +17,7 @@ from enum import StrEnum
 
 __all__ = [
     "ASPECT_GROUPS",
+    "CREATIVE_STATES",
     "AspectGroup",
     "AssetMedium",
     "AssetOrigin",
@@ -24,6 +25,7 @@ __all__ = [
     "BundleRole",
     "CandidateStatus",
     "CharacterAspect",
+    "CharacterOrigin",
     "DerivativeKind",
     "DescriptorFacet",
     "DescriptorOrigin",
@@ -37,9 +39,11 @@ __all__ = [
     "ReferenceClass",
     "ReferenceOrigin",
     "ReferenceUse",
+    "RenderOutput",
     "ReviewDecision",
     "RoughArtifactKind",
     "RoughMode",
+    "RoughPurpose",
     "SubjectKind",
     "TechniqueFacet",
     "VisualModeCategory",
@@ -266,19 +270,60 @@ class RoughArtifactKind(StrEnum):
     PAGE = "PAGE"
 
 
+class RoughPurpose(StrEnum):
+    """Why a rough artifact exists. Only PRODUCTION work can ever count as manga."""
+
+    PRODUCTION = "PRODUCTION"
+    """A real page or panel of the project, headed for the manga."""
+    WORKFLOW_TEST = "WORKFLOW_TEST"
+    """Proves the pipeline works (recipe, bundle, attempts, review, persistence).
+    Non-canon; never creative approval; never counted toward completion."""
+    NON_CANON_SAMPLE = "NON_CANON_SAMPLE"
+    """A quality-validation sample (real images, invented scene). Non-canon;
+    judged for quality, never approved as project artwork."""
+
+
+class RenderOutput(StrEnum):
+    """What a renderer's image is evidence of."""
+
+    TEST_RENDER = "TEST_RENDER"
+    """A labelled diagram of the recipe from a test renderer: proves the
+    workflow ran, and is never artwork, whatever the review says."""
+    ARTWORK_CANDIDATE = "ARTWORK_CANDIDATE"
+    """An image from a real generation model, which a person can judge as art."""
+
+
 class AttemptState(StrEnum):
-    """Stored attempt state. FAILED/BLOCKED are read from the attempt's job."""
+    """Stored attempt state. FAILED/BLOCKED are read from the attempt's job.
+
+    Technical and creative verdicts are different states, not one "approved":
+    a technical pass says the workflow did its job; creative approval says a
+    person accepted the image as the project's rough manga; final approval
+    says it is finished art.
+    """
 
     QUEUED = "QUEUED"
     GENERATED = "GENERATED"
-    APPROVED = "APPROVED"
+    """Rendered and waiting for review."""
+    TECHNICAL_PASS = "TECHNICAL_PASS"  # noqa: S105 - a review verdict, not a secret
+    """Workflow verified. Not creative approval of anything."""
+    CREATIVE_APPROVED = "CREATIVE_APPROVED"
+    """Accepted by a person as rough manga for a production page or panel."""
+    FINAL_APPROVED = "FINAL_APPROVED"
+    """Accepted as final art. Only a creatively approved attempt gets here."""
     REJECTED = "REJECTED"
     SUPERSEDED = "SUPERSEDED"
     """A previously approved attempt replaced by a newer approval. Bytes kept."""
 
 
+#: States that are a person's creative acceptance of an image as project art.
+CREATIVE_STATES = frozenset({AttemptState.CREATIVE_APPROVED, AttemptState.FINAL_APPROVED})
+
+
 class ReviewDecision(StrEnum):
-    APPROVE = "APPROVE"
+    TECHNICAL_PASS = "TECHNICAL_PASS"  # noqa: S105 - a review verdict, not a secret
+    CREATIVE_APPROVE = "CREATIVE_APPROVE"
+    FINAL_APPROVE = "FINAL_APPROVE"
     REJECT = "REJECT"
     REGENERATE = "REGENERATE"
 
@@ -289,6 +334,16 @@ class DerivativeKind(StrEnum):
     OUTPUT = "OUTPUT"
     MASK = "MASK"
     SOURCE_CROP = "SOURCE_CROP"
+
+
+class CharacterOrigin(StrEnum):
+    """Whose design a character is."""
+
+    SOURCE_WORK = "SOURCE_WORK"
+    """A character from existing works: source pages and frames define them."""
+    PROJECT_ORIGINAL = "PROJECT_ORIGINAL"
+    """Created for a project. Their look comes from the project's own design
+    documents and approved project references - never from franchise material."""
 
 
 class SubjectKind(StrEnum):

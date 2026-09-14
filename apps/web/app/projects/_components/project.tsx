@@ -47,7 +47,7 @@ export const isContinuity = (d: ProjectDocument) => CONTINUITY.includes(d.lifecy
 
 /** Unapproved work on the story or its production - not extras, not history. */
 export const isDraft = (d: ProjectDocument) =>
-  IN_PROGRESS.includes(d.lifecycle) && !EXTRA_SECTIONS.includes(d.section);
+  IN_PROGRESS.includes(d.lifecycle) && !EXTRA_SECTIONS.includes(d.section) && !d.resolved_by;
 
 /** Kept material that is not canon: notes, references, experiments. */
 export const isExtra = (d: ProjectDocument) =>

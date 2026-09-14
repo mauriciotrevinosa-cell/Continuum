@@ -138,6 +138,9 @@ class EpisodeIdentity:
     confidence: Confidence
     evidence: tuple[str, ...] = ()
     flags: tuple[str, ...] = ()
+    #: A program the name adds to the series title ("... Diary", "... Visions of
+    #: X"): kept apart from the series' own seasons, never merged into them.
+    subseries: str | None = None
 
 
 _SXXEYY = re.compile(r"(?<![a-z0-9])s(\d{1,2})\s*e(\d{1,4})(?![0-9])", re.I)
@@ -273,13 +276,16 @@ def identify_episode(
     names = [n for n in (series_title, *aliases) if n]
     matched = _match(program, names)
     named = matched is not None
+    subseries: str | None = None
     if matched is not None:
         name_matched, extra = matched
+        # A film's own title is expected after the series name; it is not a program run.
+        subseries = program if extra and kind is not EpisodeKind.MOVIE else None
         if name_matched == series_title:
             evidence.append("the name matches the series folder")
         else:
             evidence.append(f"the name matches a known title of the series ('{name_matched}')")
-        if extra:
+        if extra and kind is not EpisodeKind.MOVIE:
             flags.append(f"a separate program within the series? ('{extra}')")
     elif program and names:
         flags.append(f"the name '{program}' does not match the series folder or its known titles")
@@ -288,7 +294,11 @@ def identify_episode(
 
     if episode is None and kind not in (EpisodeKind.MOVIE, EpisodeKind.OVA):
         confidence = Confidence.LOW
-    elif named and (season is not None or kind in (EpisodeKind.OVA, EpisodeKind.MOVIE)):
+    elif (
+        named
+        and subseries is None
+        and (season is not None or kind in (EpisodeKind.OVA, EpisodeKind.MOVIE))
+    ):
         confidence = Confidence.HIGH
     elif named or (season is not None and program):
         confidence = Confidence.MEDIUM
@@ -303,6 +313,7 @@ def identify_episode(
         kind=kind,
         label=label,
         confidence=confidence,
+        subseries=subseries,
         evidence=tuple(evidence),
         flags=tuple(dict.fromkeys(flags)),
     )

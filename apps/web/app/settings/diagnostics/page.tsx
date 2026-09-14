@@ -164,7 +164,7 @@ export default async function DiagnosticsPage() {
       ) : null}
 
       <p className="muted block" style={{ fontSize: 12.5 }}>
-        System status for the rest of Continuum is on the <Link href="/">foundation status page</Link>.
+        System status for the rest of Continuum is on the <Link href="/status">foundation status page</Link>.
       </p>
     </>
   );

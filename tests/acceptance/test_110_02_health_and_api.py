@@ -284,8 +284,8 @@ class TestApiSurfaceIsPhaseZeroOnly:
             # Phase 1.5 full-Vault catalog: roots and series by key, units and
             # archive members by id, media by opaque id - never a path.
             "/catalog/roots",
-            "/catalog/roots/{root_key}/hash",
-            "/catalog/roots/{root_key}/import",
+            "/catalog/hash",
+            "/catalog/collections/{slug}/import",
             "/catalog/scans",
             "/catalog/coverage",
             "/catalog/coverage/markdown",

@@ -25,7 +25,7 @@ export function SideLink({
 }) {
   const pathname = usePathname();
   const under = (base: string) => pathname === base || pathname.startsWith(`${base}/`);
-  const active = exact ? pathname === href : under(href) || also.some(under);
+  const active = (exact ? pathname === href : under(href)) || also.some(under);
   return (
     <Link href={href} className={className} data-active={active} aria-current={active ? "page" : undefined}>
       {children}

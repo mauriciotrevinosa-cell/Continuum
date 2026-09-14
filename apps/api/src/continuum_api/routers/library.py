@@ -806,8 +806,9 @@ async def add_file(
 async def add_held_frame(
     request: Request,
     response: Response,
-    media_id: Annotated[str, Query(pattern=r"^m1_[0-9a-f]{32}$")],
     time_ms: Annotated[int, Query(ge=0, le=86_400_000)],
+    media_id: Annotated[str | None, Query(pattern=r"^m1_[0-9a-f]{32}$")] = None,
+    member_id: uuid.UUID | None = None,
     batch_id: uuid.UUID | None = None,
     origin: ReferenceOrigin = ReferenceOrigin.SOURCE,
     suggested_class: ReferenceClass | None = None,
@@ -815,18 +816,25 @@ async def add_held_frame(
     tags: str | None = None,
     notes: str = "",
 ) -> dict[str, Any]:
-    """A frame the viewer captured from held video; the video is not copied."""
+    """A frame the viewer captured from held video, or from a video inside an archive."""
+    if (media_id is None) == (member_id is None):
+        raise HTTPException(
+            status_code=422, detail={"message": "Name a video or an archived video."}
+        )
     data = await _body(request, MAX_UPLOAD_IMAGE_BYTES)
 
     def work() -> dict[str, Any]:
         with catalog_scope(request) as catalog:
-            result = ReferenceInbox(catalog).add_held_frame(
-                media_id,
-                time_ms,
-                data,
-                batch_id=batch_id,
-                defaults=_defaults_from_query(origin, suggested_class, uses, tags, notes),
-            )
+            defaults = _defaults_from_query(origin, suggested_class, uses, tags, notes)
+            inbox = ReferenceInbox(catalog)
+            if member_id is not None:
+                result = inbox.add_member_frame(
+                    member_id, time_ms, data, batch_id=batch_id, defaults=defaults
+                )
+            else:
+                result = inbox.add_held_frame(
+                    str(media_id), time_ms, data, batch_id=batch_id, defaults=defaults
+                )
             return _intake_view(result, response)
 
     return await _in_thread(work)

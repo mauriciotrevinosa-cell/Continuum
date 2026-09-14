@@ -23,12 +23,24 @@ export async function proxyMedia(
   suffix: string,
 ): Promise<Response> {
   if (!MEDIA_ID.test(id)) return new Response("Not found", { status: 404 });
+  return proxyStream(request, `/library/media/${id}/${suffix}`);
+}
+
+const MEMBER_ID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/;
+
+/** A video inside an archive, once the worker has prepared it - by member id only. */
+export async function proxyMember(request: Request, id: string): Promise<Response> {
+  if (!MEMBER_ID.test(id)) return new Response("Not found", { status: 404 });
+  return proxyStream(request, `/catalog/members/${id}/content`);
+}
+
+async function proxyStream(request: Request, upstreamPath: string): Promise<Response> {
   const headers: Record<string, string> = {};
   const range = request.headers.get("range");
   if (range) headers.range = range;
   let upstream: Response;
   try {
-    upstream = await fetch(`${API_BASE}/library/media/${id}/${suffix}`, {
+    upstream = await fetch(`${API_BASE}${upstreamPath}`, {
       headers,
       cache: "no-store",
       signal: request.signal,

@@ -221,6 +221,7 @@ def upgrade() -> None:
     sa.Column('series_key', sa.String(length=120), nullable=True),
     sa.Column('series_title', sa.Text(), nullable=True),
     sa.Column('program_title', sa.Text(), nullable=True),
+    sa.Column('subseries', sa.Text(), nullable=True),
     sa.Column('season', sa.Integer(), nullable=True),
     sa.Column('episode', sa.Integer(), nullable=True),
     sa.Column('episode_kind', sa.Enum('REGULAR', 'SPECIAL', 'OVA', 'MOVIE', 'RECAP', 'UNKNOWN', name='episode_kind', native_enum=False, create_constraint=True, length=32), nullable=True),

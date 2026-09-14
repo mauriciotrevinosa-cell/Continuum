@@ -2,6 +2,7 @@ import Link from "next/link";
 import { SideLink } from "./SideLink";
 import "./studio.css";
 import "./vault.css";
+import "./catalog.css";
 
 /**
  * The Continuum studio frame.
@@ -15,9 +16,24 @@ export function StudioShell({ children }: { children: React.ReactNode }) {
     <div className="studio">
       <div className="studio-shell">
         <aside className="sidebar">
-          <Link href="/library/acquisition" className="wordmark" aria-label="Continuum Library">
+          <Link href="/" className="wordmark" aria-label="Continuum Studio">
             CONTINUUM
           </Link>
+
+          <nav className="side-group" aria-label="Studio">
+            <SideLink href="/" exact>
+              Studio
+            </SideLink>
+          </nav>
+
+          <nav className="side-group" aria-label="Vault">
+            <h2>Vault</h2>
+            <SideLink href="/library/vault" exact also={["/library/vault/series"]}>
+              Series
+            </SideLink>
+            <SideLink href="/library/vault/search">Search</SideLink>
+            <SideLink href="/library/vault/coverage">Coverage</SideLink>
+          </nav>
 
           <nav className="side-group" aria-label="Library">
             <h2>Library</h2>
@@ -56,6 +72,7 @@ export function StudioShell({ children }: { children: React.ReactNode }) {
           <nav className="side-group" aria-label="Settings">
             <h2>Settings</h2>
             <SideLink href="/settings/diagnostics">Diagnostics</SideLink>
+            <SideLink href="/status">System status</SideLink>
           </nav>
 
           <p className="side-foot">Local. Your Vault is read-only here.</p>

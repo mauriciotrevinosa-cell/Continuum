@@ -36,7 +36,7 @@ export default async function JobsPage() {
     <main>
       <div className="row">
         <h1>Jobs</h1>
-        <Link href="/">← Status</Link>
+        <Link href="/status">← Status</Link>
       </div>
       <p className="sub">
         Work continues while this page is closed. Progress is stored in the

@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { Region } from "@/lib/regions";
-import type { CharacterSummary, VisualMode } from "@/lib/vault";
+import { type CharacterSummary, type VisualMode, vaultFetch } from "@/lib/vault";
 import { AddReference, type ProjectChoice } from "../library/_vault/AddReference";
 import { RegionSelector } from "../library/_vault/RegionSelector";
 
@@ -59,8 +59,33 @@ export function Reader({
 
   useEffect(() => {
     const hash = Number.parseInt(window.location.hash.replace("#p", ""), 10);
-    if (Number.isFinite(hash) && hash >= 1 && hash <= total) setPage(hash - 1);
-  }, [total]);
+    if (Number.isFinite(hash) && hash >= 1 && hash <= total) {
+      setPage(hash - 1);
+      return;
+    }
+    // No page in the link: pick up where this archive was left.
+    void vaultFetch<{ position: { page_index: number | null } | null }>("catalog/progress/position", {
+      query: { media_id: mediaId },
+    })
+      .then(({ position }) => {
+        const saved = position?.page_index;
+        if (saved !== null && saved !== undefined && saved > 0 && saved < total) {
+          setPage(saved);
+          window.history.replaceState(null, "", `#p${saved + 1}`);
+        }
+      })
+      .catch(() => undefined);
+  }, [mediaId, total]);
+
+  // Remember the page a moment after it settles (reading, not flicking through).
+  useEffect(() => {
+    const timer = window.setTimeout(() => {
+      void vaultFetch("catalog/progress/reading", { json: { media_id: mediaId, page_index: page } }).catch(
+        () => undefined,
+      );
+    }, 1200);
+    return () => window.clearTimeout(timer);
+  }, [mediaId, page]);
 
   const go = useCallback(
     (to: number) => {

@@ -50,6 +50,7 @@ __all__ = [
     "inspect_archive",
     "probe_file",
     "read_catalog_file",
+    "root_fingerprint",
     "stat_file",
     "survey_root",
 ]
@@ -150,6 +151,17 @@ class VaultSurvey:
     files: tuple[SurveyedFile, ...]
     skipped: tuple[SurveySkip, ...]
     directories: int
+    #: Which folder was surveyed, as a digest - so a catalog made of one folder
+    #: is never offered for another folder configured under the same key.
+    root_fingerprint: str = ""
+
+
+def root_fingerprint(path: str) -> str:
+    """A stable digest of a folder's resolved location. Never the path itself."""
+    if not path:
+        return ""
+    normal = os.path.normcase(os.path.realpath(path)).rstrip("\\/")
+    return hashlib.sha256(f"continuum-root/1\x00{normal}".encode()).hexdigest()
 
 
 def survey_root(root: CatalogRoot) -> VaultSurvey:
@@ -160,7 +172,7 @@ def survey_root(root: CatalogRoot) -> VaultSurvey:
     """
     base = root.reader.root
     if not root.reader.exists():
-        return VaultSurvey(root.key, False, (), (), 0)
+        return VaultSurvey(root.key, False, (), (), 0, root_fingerprint(str(base)))
     files: list[SurveyedFile] = []
     skipped: list[SurveySkip] = []
     directories = 0
@@ -216,7 +228,9 @@ def survey_root(root: CatalogRoot) -> VaultSurvey:
             files.append(SurveyedFile(relative, int(info.st_size), int(info.st_mtime_ns)))
     files.sort(key=lambda f: f.relative)
     skipped.sort(key=lambda s: s.relative)
-    return VaultSurvey(root.key, True, tuple(files), tuple(skipped), directories)
+    return VaultSurvey(
+        root.key, True, tuple(files), tuple(skipped), directories, root_fingerprint(str(base))
+    )
 
 
 def _relative(base: Path, path: Path) -> str:

@@ -1,166 +1,143 @@
 import Link from "next/link";
-import { ApiUnreachableError, api, type HealthResponse } from "@/lib/api";
+import { ApiUnreachableError, projects as projectsApi } from "@/lib/api";
+import { type ContinueItem, type RootStatus, type SeriesSummary, catalog, rootLabel } from "@/lib/catalog";
+import { plural } from "@/lib/acquisition";
+import { StudioShell } from "./_studio/StudioShell";
+import { ApiDown, Empty, PageHead } from "./library/acquisition/_components/ui";
+import { ContinueCard, SearchBox, SeriesCard } from "./library/vault/_parts";
 
 export const dynamic = "force-dynamic";
 
-function statusBadge(ok: boolean, label: string) {
-  return <span className={`badge ${ok ? "ok" : "warn"}`}>{label}</span>;
+function scanState(root: RootStatus): string {
+  const running = root.active_jobs.find((job) => job.status === "RUNNING");
+  if (running) {
+    const done = running.units_total ? ` ${running.units_done}/${running.units_total}` : "";
+    return running.job_type.endsWith("hash") ? `Hashing${done}` : running.job_type.endsWith("import") ? `Importing${done}` : `Scanning${done}`;
+  }
+  if (root.active_jobs.length) return "Queued";
+  if (!root.last_scan) return "Never scanned";
+  if (root.last_scan.status !== "COMPLETED") return "Scan interrupted";
+  return `${plural(root.last_scan.files ?? 0, "file")} · scanned ${new Date(root.last_scan.finished_at ?? root.last_scan.started_at).toLocaleDateString()}`;
 }
 
 /**
- * System status. The only other screen in Phase 0 is the jobs list.
+ * The studio: pick up where you left off, search everything, open a series.
  *
- * This page is also the acceptance-test surface for 110.2 (web can call the
- * API health endpoint), so it renders the real response rather than a mock.
+ * Everything shown is read from the catalog of the configured Vault and intake
+ * folders; nothing here is specific to any project or any series.
  */
-export default async function StatusPage() {
-  let health: HealthResponse | null = null;
+export default async function StudioHome() {
+  let items: ContinueItem[] = [];
+  let series: SeriesSummary[] = [];
+  let roots: RootStatus[] = [];
+  let projects: { id: string; title: string; documents: number }[] = [];
   let error: string | null = null;
-
   try {
-    health = await api.health();
+    [items, series, roots] = await Promise.all([catalog.continueItems(), catalog.series(), catalog.roots()]);
+    projects = (await projectsApi.list().catch(() => [])).map((p) => ({ id: p.id, title: p.title, documents: p.documents }));
   } catch (cause) {
-    error =
-      cause instanceof ApiUnreachableError
-        ? cause.message
-        : `Unexpected error: ${String(cause)}`;
+    error = cause instanceof ApiUnreachableError ? cause.message : String(cause);
   }
+  const inProgress = series.filter((s) => s.last_opened_at);
 
   return (
-    <main>
-      <h1>Continuum</h1>
-      <p className="sub">
-        Phase 0 foundation — durable jobs, safe storage, local providers. No
-        library, reader or story engine yet.
-      </p>
+    <StudioShell>
+      <PageHead
+        eyebrow="Continuum Studio"
+        title="Studio"
+        lead="Your Vault, references and projects in one place. The Vault is read-only here: Continuum catalogs it, never changes it."
+        aside={
+          <Link className="button" href="/library/vault/coverage">
+            Coverage
+          </Link>
+        }
+      />
+      {error ? <ApiDown service="studio" message={error} /> : null}
+      <SearchBox />
 
-      {error && (
-        <div className="notice err">
-          <strong>API unreachable.</strong>
-          <p style={{ margin: "6px 0 0" }}>{error}</p>
-        </div>
-      )}
-
-      {health && (
+      {items.length ? (
         <>
-          <div className="panel">
-            <dl>
-              <dt>Version</dt>
-              <dd>
-                <code>{health.version}</code>
-              </dd>
-              <dt>Bind address</dt>
-              <dd>
-                <code>{health.api_host}</code>{" "}
-                {statusBadge(health.api_host === "127.0.0.1", "loopback only")}
-              </dd>
-              <dt>Production profile</dt>
-              <dd>
-                {health.production_profile}{" "}
-                {statusBadge(
-                  health.production_profile === "FREE_LOCAL",
-                  "no paid providers",
-                )}
-              </dd>
-            </dl>
+          <div className="section-title">
+            <h2>Continue</h2>
           </div>
-
-          <h2>Source Vault</h2>
-          <div className="panel">
-            <p style={{ margin: "0 0 8px" }}>
-              {statusBadge(true, health.storage.vault_protection.status)}
-            </p>
-            <p className="sub" style={{ margin: 0 }}>
-              {health.storage.vault_protection.detail}
-            </p>
-          </div>
-
-          {health.storage.sync_warnings.length > 0 && (
-            <>
-              <h2>Warnings</h2>
-              {health.storage.sync_warnings.map((warning) => (
-                <div className="notice" key={warning}>
-                  {warning}
-                </div>
-              ))}
-            </>
-          )}
-
-          <h2>Storage roots</h2>
-          <div className="panel">
-            <table>
-              <thead>
-                <tr>
-                  <th>Root</th>
-                  <th>Access</th>
-                  <th>Present</th>
-                </tr>
-              </thead>
-              <tbody>
-                {health.storage.roots.map((root) => (
-                  <tr key={root.key}>
-                    <td>
-                      <code>{root.key}</code>
-                    </td>
-                    <td>
-                      {root.writable ? (
-                        "read/write"
-                      ) : (
-                        <span className="badge ok">read-only</span>
-                      )}
-                    </td>
-                    <td>{root.exists ? "yes" : "not attached"}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-
-          <h2>Providers</h2>
-          <div className="panel">
-            <table>
-              <thead>
-                <tr>
-                  <th>Provider</th>
-                  <th>Locality</th>
-                  <th>Cost</th>
-                  <th>Capabilities</th>
-                </tr>
-              </thead>
-              <tbody>
-                {health.providers.map((provider) => (
-                  <tr key={provider.id}>
-                    <td>
-                      <code>{provider.id}</code>
-                    </td>
-                    <td>{provider.locality}</td>
-                    <td>{provider.cost_class}</td>
-                    <td className="sub" style={{ margin: 0 }}>
-                      {provider.capabilities.join(", ")}
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
+          <div className="continue-row">
+            {items.slice(0, 8).map((item) => (
+              <ContinueCard key={`${item.progress.unit_key}-${item.state}`} item={item} />
+            ))}
           </div>
         </>
+      ) : null}
+
+      <div className="section-title">
+        <h2>Folders</h2>
+        <Link href="/library/vault/coverage">Scan and coverage →</Link>
+      </div>
+      <div className="stat-grid">
+        {roots.map((root) => (
+          <div key={root.root_key} className={`stat${root.available ? "" : " attention"}`}>
+            <span className="n" style={{ fontSize: 16 }}>
+              {rootLabel(root.root_key, root.collection)}
+            </span>
+            <span className="l">{root.available ? scanState(root) : "Not reachable on this machine"}</span>
+            {root.root_key.startsWith("intake:") ? (
+              <span className="l">
+                {" · "}
+                <Link href={`/library/vault/collections/${root.root_key.slice(7)}`}>Collection</Link>
+              </span>
+            ) : null}
+          </div>
+        ))}
+        <div className="stat">
+          <span className="n" style={{ fontSize: 16 }}>
+            References
+          </span>
+          <span className="l">
+            <Link href="/library/references">Browse</Link> · <Link href="/library/inbox">Inbox</Link>
+          </span>
+        </div>
+        {projects.map((project) => (
+          <div key={project.id} className="stat">
+            <span className="n" style={{ fontSize: 16 }}>
+              {project.title}
+            </span>
+            <span className="l">
+              <Link href={`/projects/${project.id}`}>{plural(project.documents, "document")}</Link>
+            </span>
+          </div>
+        ))}
+      </div>
+
+      {inProgress.length ? (
+        <>
+          <div className="section-title">
+            <h2>In progress</h2>
+          </div>
+          <div className="series-grid">
+            {inProgress.map((s) => (
+              <SeriesCard key={s.series_key} series={s} />
+            ))}
+          </div>
+        </>
+      ) : null}
+
+      <div className="section-title">
+        <h2>Series in the Vault</h2>
+        <Link href="/library/vault">Browse all →</Link>
+      </div>
+      {series.length ? (
+        <div className="series-grid">
+          {series.slice(0, 24).map((s) => (
+            <SeriesCard key={s.series_key} series={s} />
+          ))}
+        </div>
+      ) : error ? null : (
+        <Empty title="The catalog is empty">
+          <p>
+            Scan the Source Vault from <Link href="/library/vault/coverage">Coverage</Link>. The scan
+            runs in the worker; it reads your files and never changes them.
+          </p>
+        </Empty>
       )}
-
-      <h2>Jobs</h2>
-      <div className="panel">
-        <div className="row">
-          <span>Durable background work, independent of this page.</span>
-          <Link href="/jobs">Open queue →</Link>
-        </div>
-      </div>
-
-      <h2>Library</h2>
-      <div className="panel">
-        <div className="row">
-          <span>What you own, what is missing, and where it may legally come from.</span>
-          <Link href="/library/acquisition">Open acquisition →</Link>
-        </div>
-      </div>
-    </main>
+    </StudioShell>
   );
 }

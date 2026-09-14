@@ -121,3 +121,18 @@ def test_region_bounds() -> None:
 def test_tiny_selection_still_maps_to_at_least_one_pixel() -> None:
     left, top, right, bottom = NormalizedRegion(0.99, 0.99, 0.01, 0.01).to_pixels(10, 10)
     assert right > left and bottom > top
+
+
+def test_an_instant_inside_an_archived_video_round_trips_and_is_zip_only() -> None:
+    """Phase 1.5 (ADR-0005 amendment): zip:...#entry=<member>&t=hh:mm:ss.mmm."""
+    locator = SourceLocator.archive_instant(H, "Season 2/Ep & 03.mkv", 461_250)
+    rendered = locator.render()
+    assert rendered == f"zip:sha256:{H}#entry=Season%202/Ep%20%26%2003.mkv&t=00:07:41.250"
+    assert parse_locator(rendered) == locator
+    for text in (
+        f"pdf:sha256:{H}#entry=x.mkv&t=00:00:01.000",
+        f"zip:sha256:{H}#entry=x.mkv&page=3",
+        f"zip:sha256:{H}#entry=x.mkv&t=1s",
+    ):
+        with pytest.raises(InvalidLocatorError):
+            parse_locator(text)

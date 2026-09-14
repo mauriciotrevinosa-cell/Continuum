@@ -24,6 +24,7 @@ from __future__ import annotations
 
 import datetime as dt
 import hashlib
+import re
 import uuid
 from collections.abc import Iterable, Mapping, Sequence
 from dataclasses import dataclass
@@ -62,6 +63,7 @@ from sqlalchemy.orm import Session
 
 from continuum_library.identify import (
     Placement,
+    comparable_title,
     identify_chapter,
     identify_episode,
     place,
@@ -74,12 +76,15 @@ __all__ = [
     "ObserveOutcome",
     "VaultCatalog",
     "unit_key_for",
+    "work_map",
     "works_aliases",
 ]
 
 #: Skipped entries listed individually on a scan; the rest are counted by reason.
 MAX_RECORDED_SKIPS = 2000
 _REFERENCE_IMAGE_FORMATS = frozenset({"JPEG", "PNG", "WEBP", "GIF", "HEIF"})
+#: A season folder is part of the series, not a separate work.
+_SEASON_FOLDER = re.compile(r"^(season|s)\s*\d+", re.IGNORECASE)
 _ARCHIVE_EXTENSIONS = frozenset({".zip", ".cbz"})
 _TEXT_EXTENSIONS = frozenset(
     {".txt", ".md", ".nfo", ".xml", ".json", ".srt", ".ass", ".ssa", ".url"}
@@ -137,6 +142,36 @@ def works_aliases(works_catalog: Mapping[str, Any] | None) -> dict[str, tuple[st
     return out
 
 
+def work_map(
+    coverage: Mapping[str, Any] | None, layout: Mapping[str, Any] | None
+) -> dict[str, tuple[str, str]]:
+    """Vault-relative file -> (work title, relationship) from the acquisition engine.
+
+    The engine already decides which files belong to which work of a family
+    (the main work, an official spin-off, an if-story). The catalog uses that as
+    evidence to keep works apart inside one series folder; it never moves a file.
+    """
+    rows: dict[str, tuple[str, str]] = {}
+    for family in (layout or {}).get("families") or []:
+        if not isinstance(family, dict):
+            continue
+        for row in family.get("works") or []:
+            if isinstance(row, dict) and row.get("work_id") and row.get("work"):
+                rows[str(row["work_id"])] = (
+                    str(row["work"]),
+                    str(row.get("relationship_type") or ""),
+                )
+    out: dict[str, tuple[str, str]] = {}
+    works = (coverage or {}).get("works") or {}
+    for work_id, info in works.items() if isinstance(works, dict) else []:
+        if not isinstance(info, dict) or str(work_id) not in rows:
+            continue
+        for relative in info.get("media_files") or []:
+            if isinstance(relative, str):
+                out.setdefault(relative, rows[str(work_id)])
+    return out
+
+
 @dataclass(frozen=True, slots=True)
 class ObserveOutcome:
     relative: str
@@ -159,11 +194,13 @@ class VaultCatalog:
         *,
         engine_records: Mapping[str, Any] | None = None,
         aliases: Mapping[str, tuple[str, ...]] | None = None,
+        works: Mapping[str, tuple[str, str]] | None = None,
     ) -> None:
         self.session = session
         self.roots = {root.key: root for root in roots}
         self._engine = engine_records or {}
         self._aliases = aliases or {}
+        self._works = works or {}
 
     # =====================================================================
     # roots and scans
@@ -202,6 +239,7 @@ class VaultCatalog:
             reasons[skip.reason] = reasons.get(skip.reason, 0) + 1
         scan.survey = {
             "available": survey.available,
+            "root_fingerprint": survey.root_fingerprint,
             "files": len(survey.files),
             "bytes": sum(f.size for f in survey.files),
             "directories": survey.directories,
@@ -303,6 +341,12 @@ class VaultCatalog:
         inspection: ArchiveInspection | None,
     ) -> None:
         relative = entry.relative_path
+        previous_facts = dict(entry.facts or {})
+        same_bytes = (entry.byte_size, entry.mtime_ns, entry.quick_fingerprint) == (
+            probe.size,
+            probe.mtime_ns,
+            probe.quick_fingerprint,
+        )
         entry.byte_size, entry.mtime_ns = probe.size, probe.mtime_ns
         entry.extension = probe.extension
         entry.detected_format = probe.sniffed_format
@@ -339,6 +383,10 @@ class VaultCatalog:
             facts["placement_flags"].append(
                 f"material read as {material.value.lower()} from the content"
             )
+        # What an import did with this file survives re-examination of the same bytes;
+        # if the bytes changed, the old record is kept apart rather than trusted.
+        if "import" in previous_facts:
+            facts["import" if same_bytes else "import_before_change"] = previous_facts["import"]
         entry.facts = facts
         if inspection is not None:
             entry.archive_view = inspection.view
@@ -523,6 +571,7 @@ class VaultCatalog:
             "series_key": entry.series_key,
             "series_title": entry.series_title,
         }
+        work, work_evidence = self._work_for(entry, placement)
 
         if inspection is not None:
             for position, group in enumerate(inspection.groups):
@@ -549,17 +598,23 @@ class VaultCatalog:
                         ),
                         member_id=member.id,
                         kind=kind,
+                        subseries=work,
                         chapter_number=chapter.number,
                         volume=chapter.volume,
                         label=label,
-                        sort_key=_chapter_sort(entry, chapter.number, group.first_index),
+                        sort_key=_chapter_sort(entry, work, chapter.number, group.first_index),
                         first_page_index=group.first_index,
                         page_count=group.count,
                         confidence=chapter.confidence,
-                        evidence=list(chapter.evidence),
+                        evidence=list(chapter.evidence) + work_evidence,
                         flags=list(chapter.flags) + list(placement.flags),
                         search_text=_search_text(
-                            entry.series_title, *aliases[:6], label, entry.file_name, group.folder
+                            entry.series_title,
+                            *aliases[:6],
+                            work,
+                            label,
+                            entry.file_name,
+                            group.folder,
                         ),
                     )
                 )
@@ -603,6 +658,8 @@ class VaultCatalog:
                     entry.file_name,
                     placement.subfolders,
                     aliases,
+                    work=work,
+                    work_evidence=work_evidence,
                 )
             )
         elif entry.detected_kind in (DetectedKind.IMAGE, DetectedKind.DOCUMENT):
@@ -646,12 +703,16 @@ class VaultCatalog:
         aliases: tuple[str, ...],
         *,
         member_id: uuid.UUID | None = None,
+        work: str | None = None,
+        work_evidence: list[str] | None = None,
     ) -> CatalogUnit:
         identity = identify_episode(
             name, series_title=entry.series_title, aliases=aliases, folders=tuple(folders)
         )
+        subseries = identity.subseries or work
         is_episode = entry.material_class is MaterialClass.ANIME
-        flags = list(identity.flags)
+        # Episode rules only speak about episodes: a clip in a collection has no season.
+        flags = list(identity.flags) if is_episode else []
         if "extension_mismatch" in entry.facts and member_id is None:
             flags.append(str(entry.facts["extension_mismatch"]))
         creator = entry.facts.get("creator_handle")
@@ -661,13 +722,16 @@ class VaultCatalog:
             member_id=member_id,
             kind=UnitKind.EPISODE if is_episode else UnitKind.VIDEO,
             program_title=identity.program_title,
+            subseries=subseries if is_episode else None,
             season=identity.season,
             episode=identity.episode,
             episode_kind=identity.kind if is_episode else None,
             label=identity.label if is_episode else name.rsplit("/", 1)[-1],
-            sort_key=_episode_sort(entry, identity.season, identity.kind, identity.episode, name),
+            sort_key=_episode_sort(
+                entry, subseries, identity.season, identity.kind, identity.episode, name
+            ),
             confidence=identity.confidence if is_episode else Confidence.HIGH,
-            evidence=list(identity.evidence),
+            evidence=(list(identity.evidence) if is_episode else []) + list(work_evidence or []),
             flags=flags,
             search_text=_search_text(
                 entry.series_title,
@@ -680,6 +744,29 @@ class VaultCatalog:
                 creator,
             ),
         )
+
+    def _work_for(self, entry: CatalogEntry, placement: Placement) -> tuple[str | None, list[str]]:
+        """The work a file belongs to inside its series folder, when it is not the main one."""
+        known = self._works.get(entry.relative_path) if entry.root_key == "source_vault" else None
+        if known is not None:
+            title, relationship = known
+            if relationship == "MAIN_WORK" or comparable_title(title) == comparable_title(
+                entry.series_title or ""
+            ):
+                return None, [f"main work of the series (acquisition catalog: {title})"]
+            kind = relationship.replace("_", " ").lower() or "work"
+            return title, [f"work '{title}' ({kind}, acquisition catalog)"]
+        folder = placement.subfolders[0] if placement.subfolders else None
+        if (
+            folder
+            and entry.series_title
+            and comparable_title(folder) != comparable_title(entry.series_title)
+            and not _SEASON_FOLDER.match(folder)
+            and entry.detected_kind is DetectedKind.ARCHIVE
+            and entry.archive_view in ("pages", "mixed")
+        ):
+            return folder, [f"work folder '{folder}'"]
+        return None, []
 
     # =====================================================================
     # completion
@@ -896,17 +983,21 @@ def _search_text(*parts: str | None) -> str:
     return " ".join(words.lower().replace("_", " ").split())[:4000]
 
 
-def _chapter_sort(entry: CatalogEntry, number: Decimal | None, first_index: int) -> str:
+def _chapter_sort(
+    entry: CatalogEntry, work: str | None, number: Decimal | None, first_index: int
+) -> str:
     numeric = f"{float(number):012.3f}" if number is not None else "999999999.999"
+    # The main work first, then each other work in the folder - never interleaved.
+    program = f"1{work.lower()[:80]}" if work else "0"
     return (
-        f"{entry.material_class.value}|{numeric}|{entry.relative_path.lower()}|{first_index:06d}"[
-            :400
-        ]
-    )
+        f"{entry.material_class.value}|{program}|{numeric}|"
+        f"{entry.relative_path.lower()}|{first_index:06d}"
+    )[:400]
 
 
 def _episode_sort(
     entry: CatalogEntry,
+    subseries: str | None,
     season: int | None,
     kind: EpisodeKind,
     episode: int | None,
@@ -916,4 +1007,6 @@ def _episode_sort(
     episode_part = f"{episode:06d}" if episode is not None else "999999"
     order = _KIND_ORDER.get(kind, 4)
     material = entry.material_class.value
-    return f"{material}|{season_part}|{order}|{episode_part}|{name.lower()}"[:400]
+    # The series' own episodes first, then each distinct program inside its folder.
+    program = f"1{subseries.lower()[:80]}" if subseries else "0"
+    return f"{material}|{program}|{season_part}|{order}|{episode_part}|{name.lower()}"[:400]

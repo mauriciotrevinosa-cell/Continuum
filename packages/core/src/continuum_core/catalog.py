@@ -36,7 +36,7 @@ __all__ = [
 
 #: Bumped whenever observation or identification rules change, so an
 #: unchanged file observed by older rules is re-examined once - and only once.
-SCANNER_VERSION = 1
+SCANNER_VERSION = 3
 
 
 class EntryStatus(StrEnum):

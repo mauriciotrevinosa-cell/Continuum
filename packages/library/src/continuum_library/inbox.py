@@ -356,6 +356,66 @@ class ReferenceInbox:
             ),
         )
 
+    def add_member_frame(
+        self,
+        member_id: uuid.UUID,
+        time_ms: int,
+        image: bytes,
+        *,
+        batch_id: uuid.UUID | None = None,
+        defaults: CandidateDefaults | None = None,
+    ) -> FileIntake:
+        """A frame captured from a video that lives inside an archive.
+
+        The provenance names the archive's bytes, the member and the instant
+        (``zip:sha256:<archive>#entry=<member>&t=...``), so the reference leads
+        back to the episode even though the video was only ever extracted into
+        Continuum's cache.
+        """
+        from continuum_core import SourceLocator
+        from continuum_core.catalog import EntryStatus, MemberKind
+        from continuum_db.models import CatalogEntry, CatalogMember
+
+        found = self.session.execute(
+            select(CatalogMember, CatalogEntry)
+            .join(CatalogEntry, CatalogEntry.id == CatalogMember.entry_id)
+            .where(CatalogMember.id == member_id, CatalogMember.kind == MemberKind.VIDEO)
+        ).first()
+        if found is None or found[1].status is not EntryStatus.CATALOGUED:
+            raise CatalogInputError("That video is not in the catalog.")
+        member, entry = found
+        if (
+            not entry.content_hash
+            or entry.hashed_size != entry.byte_size
+            or entry.hashed_mtime_ns != entry.mtime_ns
+        ):
+            raise CatalogInputError(
+                "The archive holding this video has not been hashed yet.",
+                remediation="Let the catalog hash pass finish, then capture the frame again.",
+            )
+        archive = self.catalog.asset(
+            entry.content_hash, AssetMedium.ARCHIVE, AssetOrigin.SOURCE_VAULT, entry.byte_size
+        )
+        self.catalog.observe(
+            archive, entry.root_key, entry.relative_path, entry.byte_size, entry.mtime_ns
+        )
+        locator = SourceLocator.archive_instant(entry.content_hash, member.name, time_ms)
+        name = member.name.rsplit("/", 1)[-1]
+        return self.add_file(
+            image,
+            IntakeKind.SCREENSHOT,
+            batch_id=batch_id,
+            display_name=f"{name} @ {_clock(time_ms)}",
+            capture={
+                "kind": "archived_video_frame",
+                "video_locator": locator.render(),
+                "held_name": name,
+                "archive_name": entry.file_name,
+                "member_id": str(member.id),
+            },
+            defaults=defaults,
+        )
+
     def add_clip_frame(self, candidate_id: uuid.UUID, time_ms: int, image: bytes) -> FileIntake:
         """A frame captured from an uploaded clip in the inbox."""
         clip = self.candidate(candidate_id)
@@ -548,7 +608,7 @@ class ReferenceInbox:
                     )
                     if key in candidate.capture
                 }
-            if candidate.capture.get("kind") == "held_video_frame":
+            if candidate.capture.get("kind") in ("held_video_frame", "archived_video_frame"):
                 provenance = {
                     **provenance,
                     "kind": "source_frame",

@@ -2,15 +2,13 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Continuum — Phase 0",
-  description: "Local-first Source Vault and multiverse story studio (foundation).",
+  title: "Continuum Studio",
+  description: "Local-first studio over your read-only Source Vault: library, references and production.",
 };
 
 /**
- * Deliberately no navigation to Library, Reader, Story Studio, Character
- * Brain or Visual Lab (F-67). A placeholder screen for an unbuilt feature
- * creates the impression of progress that does not exist and invites
- * premature backend stubs. Screens appear in the phase that builds them.
+ * The root frame. Screens appear in the phase that builds them (F-67): no
+ * placeholder navigation to features that do not exist yet.
  */
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (

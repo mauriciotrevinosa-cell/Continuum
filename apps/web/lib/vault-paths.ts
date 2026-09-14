@@ -8,6 +8,8 @@
 
 const UUID = "[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}";
 const PROJECT = "[a-z0-9][a-z0-9-]{0,79}";
+const SERIES = "[a-z0-9][a-z0-9-]{0,119}";
+const SLUG = "[a-z0-9][a-z0-9-]{0,39}";
 
 const ALLOWED: RegExp[] = [
   new RegExp(`^library/characters(/${UUID}(/(update|remove|outfits))?)?$`),
@@ -26,6 +28,17 @@ const ALLOWED: RegExp[] = [
     `^production/(readiness|rough-artifacts/${UUID}(/attempts)?|attempts/${UUID}(/(provenance|image|review|continuity))?)$`,
   ),
   new RegExp(`^jobs/${UUID}/retry$`),
+  // Phase 1.5 catalog: roots, series and collections by key; units and members by id.
+  new RegExp(`^catalog/(roots|scans|hash|coverage|entries|search|units|series)$`),
+  new RegExp(`^catalog/series/${SERIES}$`),
+  new RegExp(`^catalog/units/${UUID}$`),
+  new RegExp(`^catalog/collections/${SLUG}/import$`),
+  new RegExp(`^catalog/progress/(reading|watching|continue|position)$`),
+  new RegExp(`^catalog/members/${UUID}(/prepare)?$`),
+  new RegExp(`^projects/${PROJECT}/(reference-manifests|music|chapter-packages)$`),
+  new RegExp(`^projects/${PROJECT}/music/${UUID}/(update|remove)$`),
+  new RegExp(`^projects/${PROJECT}/chapter-packages/(validate|[a-z0-9][a-z0-9-]{0,119}(/approval)?)$`),
+  new RegExp(`^production/(reference-manifests/${UUID}|chapter-package-schema)$`),
 ];
 
 /** The API path for these route segments, or null when it is not allowed. */

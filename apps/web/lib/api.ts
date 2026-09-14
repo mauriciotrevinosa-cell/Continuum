@@ -694,6 +694,13 @@ export interface ProjectDocument {
   size_bytes: number;
   filed: boolean;
   constraints: string[];
+  /** How developed the document is, as the manifest records it. */
+  maturity: "ROUGH" | "DETAILED" | "PRODUCTION_READY" | null;
+  /** RULE, CORRECTION, INDEX or CONTENT, as the manifest records it. */
+  authority: "CONTENT" | "RULE" | "CORRECTION" | "INDEX";
+  /** Parts of other documents this one overrides, as the documents state it. */
+  overrides: { document: string; scope: string }[];
+  overridden_by: { document: string; scope: string }[];
 }
 
 export interface PipelineStage {

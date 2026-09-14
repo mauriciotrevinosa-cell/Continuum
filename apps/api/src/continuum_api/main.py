@@ -77,7 +77,9 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     # Read-only by construction: it reads through SourceVaultReader.
     # The catalog supplements the engine's listing: files observed by a catalog
     # scan open even before the acquisition engine scans again.
-    app.state.catalog_records = CatalogRecordSupplement(lambda: session_scope(settings))
+    app.state.catalog_records = CatalogRecordSupplement(
+        lambda: session_scope(settings), settings.root("source_vault")
+    )
     app.state.media = MediaLibrary(
         app.state.acquisition,
         settings.root("source_vault"),

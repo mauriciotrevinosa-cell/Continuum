@@ -244,12 +244,19 @@ def test_archives_become_chapters_and_episodes_with_honest_identification(
     )
     assert [m.name.rsplit(" - ", 1)[1] for m in members] == ["S02E01.mkv", "S02E02.mkv"]
     assert all(m.compress_type == zipfile.ZIP_DEFLATED and m.crc32 is not None for m in members)
-    episodes = units_of(session, SEASON_PART_1) + units_of(session, SEASON_PART_2)
+    everything = units_of(session, SEASON_PART_1) + units_of(session, SEASON_PART_2)
+    episodes = [u for u in everything if u.subseries is None]
     assert [(u.season, u.episode, u.episode_kind) for u in episodes] == [
         (2, 1, EpisodeKind.REGULAR),
         (2, 2, EpisodeKind.REGULAR),
         (2, 3, EpisodeKind.RECAP),
     ]
+    # A differently named program in the same folder is kept apart, never merged into S1.
+    diary = next(u for u in everything if u.subseries)
+    assert diary.subseries == f"{ALIAS} Diary" and (diary.season, diary.episode) == (1, 1)
+    assert diary.confidence is Confidence.MEDIUM
+    assert any("separate program" in f for f in diary.flags)
+    assert diary.sort_key > episodes[-1].sort_key
     # The file names use another title; the works catalog knows it as the series.
     assert all(u.confidence is Confidence.HIGH for u in episodes)
     assert any(ALIAS in e for e in episodes[0].evidence)
@@ -269,6 +276,24 @@ def test_archives_become_chapters_and_episodes_with_honest_identification(
     loose = entry(session, LOOSE)
     assert loose.material_class is MaterialClass.UNKNOWN or loose.series_key is None
     assert any("no series folder" in f for f in loose.facts["placement_flags"])
+
+
+def test_works_inside_a_series_folder_are_kept_apart(
+    world: Phase15World, settings: Settings, worker: Worker, session: Session
+) -> None:
+    from tests.phase15_world import SPINOFF, SPINOFF_FOLDER_ONLY
+
+    scan(settings, worker, VAULT, hash_after=False)
+    main = units_of(session, VOLUME)
+    side = units_of(session, SPINOFF)
+    recipes = units_of(session, SPINOFF_FOLDER_ONLY)
+    assert all(u.subseries is None for u in main)
+    assert {u.subseries for u in side} == {"Orbit Side Stories"}
+    assert any("official spinoff, acquisition catalog" in e for e in side[0].evidence)
+    assert {u.subseries for u in recipes} == {"Orbit Recipes"}
+    assert any("work folder" in e for e in recipes[0].evidence)
+    # Reading order never interleaves works: the main work's chapters come first.
+    assert max(u.sort_key for u in main) < min(u.sort_key for u in side + recipes)
 
 
 def test_engine_hashes_are_reused_and_the_hash_pass_runs_once(
@@ -427,12 +452,14 @@ def test_an_interrupted_scan_resumes_without_repeating_finished_batches(
         s.commit()
 
     calls: list[str] = []
+    paused: list[bool] = []
     original = handlers.CatalogScanHandler.execute_unit
 
     def pausing(self, ctx, unit):  # type: ignore[no-untyped-def]
         calls.append(unit.unit_key)
         outcome = original(self, ctx, unit)
-        if len(calls) == 2:
+        if len(calls) == 2 and not paused:
+            paused.append(True)
             with session_scope(settings) as other:
                 request_pause(other, other.get(Job, job_id))
                 other.commit()
@@ -473,7 +500,7 @@ def test_catalogued_files_the_engine_never_listed_open_in_the_library(
     with pytest.raises(MediaUnavailableError):
         plain.describe(media_id_for(SEASON_PART_1))
 
-    supplement = CatalogRecordSupplement(lambda: session_scope(settings))
+    supplement = CatalogRecordSupplement(lambda: session_scope(settings), str(world.vault))
     media = MediaLibrary(
         AcquisitionStore(str(world.acquisition)), str(world.vault), supplement=supplement
     )
@@ -485,6 +512,15 @@ def test_catalogued_files_the_engine_never_listed_open_in_the_library(
     ]
     assert media.describe(media_id_for(MIXED)).view == "mixed"
     assert media.describe(media_id_for(SOFTWARE)).kind == "software"
+    # A catalog made of this Vault is never offered for another folder.
+    elsewhere = world.root / "another-vault"
+    elsewhere.mkdir()
+    other = MediaLibrary(
+        AcquisitionStore(str(world.acquisition)),
+        str(elsewhere),
+        supplement=CatalogRecordSupplement(lambda: session_scope(settings), str(elsewhere)),
+    )
+    assert other.status()[0] is False
     # The engine's own records still win for files it listed.
     assert media.describe(media_id_for(VOLUME)).view == "pages"
     # Nothing escapes: a hostile relative path in the catalog is never opened.
@@ -528,7 +564,7 @@ def test_the_coverage_report_accounts_for_every_file_and_names_every_exclusion(
     assert set(reasons) == {SOFTWARE, NOTES, RAR, EMPTY}
     assert all(reasons.values())
     assert [row["relative"] for row in vault["failed"]] == [DAMAGED]
-    assert vault["archives"]["by_view"] == {"pages": 2, "bundle": 2, "mixed": 1, "none": 1}
+    assert vault["archives"]["by_view"] == {"pages": 4, "bundle": 2, "mixed": 1, "none": 1}
     assert vault["units"]["episodes_by_series"][SERIES] >= 5
     assert vault["duplicates"]["extra_copies"] == 1
     assert any(row["relative"] == EPISODE_POOR for row in vault["units"]["low_confidence"])

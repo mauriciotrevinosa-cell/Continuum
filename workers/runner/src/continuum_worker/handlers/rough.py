@@ -69,7 +69,7 @@ class RoughAttemptHandler:
             media = MediaLibrary(
                 AcquisitionStore(documents),
                 vault,
-                supplement=CatalogRecordSupplement(lambda: session_scope(settings)),
+                supplement=CatalogRecordSupplement(lambda: session_scope(settings), vault),
             )
             self._sources[key] = SourceAccess(media, vault)
         return self._sources[key]

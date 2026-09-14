@@ -128,6 +128,7 @@ def unit_view(
         "series_key": unit.series_key,
         "series_title": unit.series_title,
         "program_title": unit.program_title,
+        "subseries": unit.subseries,
         "season": unit.season,
         "episode": unit.episode,
         "episode_kind": unit.episode_kind.value if unit.episode_kind else None,
@@ -259,12 +260,21 @@ def series_detail(session: Session, series_key: str) -> dict[str, Any]:
     for view in watching:
         label = "Season ?" if view["season"] is None else f"Season {view['season']}"
         if view["episode_kind"] in ("MOVIE", "OVA", "SPECIAL") and view["season"] is None:
-            label = view["episode_kind"].title()
+            label = {"MOVIE": "Films", "OVA": "OVA", "SPECIAL": "Specials"}[view["episode_kind"]]
+        if view["kind"] == UnitKind.VIDEO.value:
+            label = "Other videos"
+        if view["subseries"]:
+            label = f"{view['subseries']} · {label}"
         seasons.setdefault(label, []).append(view)
+    works: dict[str, list[dict[str, Any]]] = {}
+    for view in reading:
+        works.setdefault(view["subseries"] or "", []).append(view)
     return {
         "series_key": series_key,
         "title": rows[0][0].series_title,
         "reading": reading,
+        # The series' own work first (""), then each other work in its folder.
+        "reading_groups": [{"label": label, "units": units} for label, units in works.items()],
         "watching": [{"label": label, "units": units} for label, units in seasons.items()],
         "other": other,
         "progress": series_progress(session, series_key),
@@ -323,6 +333,7 @@ def unit_search(
     creator: str | None = None,
     confidence: Confidence | None = None,
     root_key: str | None = None,
+    vault_relative: str | None = None,
     include_duplicates: bool = False,
     limit: int = 100,
     offset: int = 0,
@@ -354,6 +365,11 @@ def unit_search(
         query = query.where(CatalogUnit.confidence == confidence)
     if root_key:
         query = query.where(CatalogEntry.root_key == root_key)
+    if vault_relative is not None:
+        # One held file's units; the relative path comes from the media id, never a client.
+        query = query.where(
+            CatalogEntry.root_key == VAULT_ROOT_KEY, CatalogEntry.relative_path == vault_relative
+        )
     total = session.execute(select(func.count()).select_from(query.subquery())).scalar_one()
     rows = session.execute(
         query.order_by(CatalogUnit.series_key, CatalogUnit.sort_key, CatalogUnit.id)

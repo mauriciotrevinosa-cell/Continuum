@@ -20,6 +20,27 @@ describe("allowedVaultPath", () => {
     );
   });
 
+  it("allows the catalog by key and id, and nothing shaped like a path", () => {
+    expect(allowedVaultPath(["catalog", "members", ID, "prepare"])).toBe(`catalog/members/${ID}/prepare`);
+    expect(allowedVaultPath(["catalog", "series", "demo-orbit"])).toBe("catalog/series/demo-orbit");
+    expect(allowedVaultPath(["catalog", "collections", "fanart", "import"])).toBe(
+      "catalog/collections/fanart/import",
+    );
+    expect(allowedVaultPath(["catalog", "progress", "reading"])).toBe("catalog/progress/reading");
+    expect(allowedVaultPath(["projects", "demo-saga", "chapter-packages", "ch-01", "approval"])).toBe(
+      "projects/demo-saga/chapter-packages/ch-01/approval",
+    );
+    for (const segments of [
+      ["catalog", "collections", "intake:fanart", "import"],
+      ["catalog", "series", "Demo Orbit"],
+      ["catalog", "members", ID, "content"],
+      ["catalog", "roots", "source_vault", "files"],
+      ["catalog", "series", "C:", "Vault"],
+    ]) {
+      expect(allowedVaultPath(segments)).toBeNull();
+    }
+  });
+
   it("refuses anything that could name a file or reach another route", () => {
     for (const segments of [
       [],

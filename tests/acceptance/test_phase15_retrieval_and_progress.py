@@ -266,6 +266,49 @@ def test_a_video_inside_a_compressed_archive_is_prepared_streamed_and_evicted(
     assert snapshot(world.vault) == before
 
 
+def test_a_frame_from_an_archived_episode_keeps_its_provenance(
+    world: Phase15World, settings: Settings, worker: Worker, client: TestClient
+) -> None:
+    from continuum_core import parse_locator
+
+    from tests.phase1_world import picture
+
+    scanned(settings, worker, VAULT)
+    detail = client.get("/catalog/series/demo-orbit").json()
+    episode = next(g for g in detail["watching"] if g["label"] == "Season 2")["units"][0]
+    member_id = episode["open"]["member_id"]
+    captured = client.post(
+        "/library/inbox/frames",
+        params={"member_id": member_id, "time_ms": 7_250},
+        content=picture(90),
+    )
+    assert captured.status_code == 201, captured.text
+    candidate = captured.json()["candidate"]
+    locator = parse_locator(candidate["capture"]["video_locator"])
+    assert locator.medium.value == "zip" and locator.time_ms == 7_250
+    assert locator.entry.endswith("S02E01.mkv")
+    assert locator.sha256 == world.sha256(SEASON_PART_1)
+
+    accepted = client.post(
+        f"/library/inbox/candidates/{candidate['id']}/accept",
+        json={"row_version": candidate["row_version"], "reference_class": "CANON"},
+    )
+    assert accepted.status_code == 201, accepted.text
+    reference = client.get(f"/library/references/{accepted.json()['id']}").json()
+    assert reference["provenance"]["kind"] == "source_frame"
+    assert reference["source"]["member_id"] == member_id
+    assert reference["source"]["time_ms"] == 7_250
+
+    # Naming both a video and an archived video, or neither, is refused.
+    assert (
+        client.post("/library/inbox/frames", params={"time_ms": 1}, content=picture(91)).status_code
+        == 422
+    )
+    # The unit list of one held archive, by its opaque media id only.
+    listed = client.get("/catalog/units", params={"media_id": media_id_for(SEASON_PART_1)}).json()
+    assert {u["source"]["member_id"] for u in listed["units"]} >= {member_id}
+
+
 def test_a_changed_archive_is_never_served_as_the_catalogued_member(
     world: Phase15World, settings: Settings, worker: Worker, client: TestClient
 ) -> None:
@@ -297,10 +340,10 @@ def test_the_collection_imports_as_unsorted_fan_art_with_honest_metadata(
     world: Phase15World, settings: Settings, worker: Worker, client: TestClient
 ) -> None:
     before = snapshot(world.intake)
-    started = client.post(f"/catalog/roots/{INTAKE}/import").json()
+    started = client.post("/catalog/collections/sketchbook/import").json()
     assert started["import"]["job_type"] == "library.intake_import"
     drain(worker)
-    report = client.get(f"/catalog/roots/{INTAKE}/import").json()
+    report = client.get("/catalog/collections/sketchbook/import").json()
     totals = report["totals"]
     assert totals["discovered"] == 8
     assert totals["imported_images_as_references"] == 4
@@ -338,9 +381,17 @@ def test_the_collection_imports_as_unsorted_fan_art_with_honest_metadata(
     assert len(found["references"]) >= 1
     assert client.get("/library/references").status_code == 200
 
-    # A second import settles nothing new.
-    client.post(f"/catalog/roots/{INTAKE}/import")
+    # A second import - after a rescan that re-examines every file with new
+    # rules - settles nothing new and reports the same outcome.
+    with session_scope(settings) as s:
+        from sqlalchemy import update
+
+        s.execute(update(CatalogEntry).values(scanner_version=0))
+        s.commit()
+    client.post("/catalog/collections/sketchbook/import")
     drain(worker)
+    again = client.get("/catalog/collections/sketchbook/import").json()
+    assert again["totals"] == totals
     with session_scope(settings) as s:
         assert len(list(s.execute(select(ReferenceItem)).scalars())) == 4
         assert len(list(s.execute(select(ReferenceCandidate)).scalars())) == 1
@@ -349,4 +400,4 @@ def test_the_collection_imports_as_unsorted_fan_art_with_honest_metadata(
     ).is_file()
     assert snapshot(world.intake) == before
     assert SERIES  # the Vault was not imported: collections come only from intake folders
-    assert client.post(f"/catalog/roots/{VAULT}/import").status_code == 404
+    assert client.post("/catalog/collections/source-vault/import").status_code == 404

@@ -4,7 +4,7 @@ import { ApiUnreachableError, type ProjectDocumentBody, projects } from "@/lib/a
 import { formatWhen } from "@/lib/acquisition";
 import { ApiDown } from "../../../../library/acquisition/_components/ui";
 import { InlineText, Markdown, documentFields, parseMarkdown, plainText } from "../../../_components/Markdown";
-import { CONTINUITY, LIFECYCLE_LABELS, LifecycleChip } from "../../../_components/project";
+import { CONTINUITY, LIFECYCLE_LABELS, LifecycleChip, StandingChips } from "../../../_components/project";
 
 export const dynamic = "force-dynamic";
 
@@ -50,6 +50,7 @@ export default async function ProjectDocumentPage({
           <h1 className="title">{document.title}</h1>
           <div className="chips" style={{ marginTop: 14 }}>
             <LifecycleChip lifecycle={document.lifecycle} />
+            <StandingChips document={document} />
             {document.superseded_by ? (
               <Link className="chip quiet" href={`${base}/documents/${encodeURIComponent(document.superseded_by)}`}>
                 Superseded — read the newer version
@@ -62,6 +63,18 @@ export default async function ProjectDocumentPage({
               {LIFECYCLE_LABELS[document.lifecycle]}: this is not approved continuity.
             </p>
           ) : null}
+          {document.overridden_by.map((o) => (
+            <p key={o.document} className="doc-note">
+              Overridden in part by{" "}
+              <Link href={`${base}/documents/${encodeURIComponent(o.document)}`}>{o.document}</Link>: {o.scope}
+            </p>
+          ))}
+          {document.overrides.map((o) => (
+            <p key={o.document} className="doc-note">
+              This document overrides part of{" "}
+              <Link href={`${base}/documents/${encodeURIComponent(o.document)}`}>{o.document}</Link>: {o.scope}
+            </p>
+          ))}
           {fields.length ? (
             <dl className="doc-fields" aria-label="The author's notes">
               {fields.map(([key, value]) => (

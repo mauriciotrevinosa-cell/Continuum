@@ -16,7 +16,7 @@ import uuid
 from typing import Any
 
 from continuum_core.catalog import EntryStatus, MemberKind
-from continuum_db.models import CatalogEntry, CatalogMember, Job
+from continuum_db.models import CatalogEntry, CatalogMember, CatalogUnit, Job
 from continuum_jobs import is_terminal
 from continuum_storage.member_cache import MemberCache
 from continuum_storage.survey import CatalogRoot
@@ -78,7 +78,22 @@ def member_state(
         detail = str(error.get("user_message") or error.get("message") or "")
     if entry.status is not EntryStatus.CATALOGUED:
         state, detail = "unavailable", "The archive is not in the Vault as catalogued."
+    unit = session.execute(
+        select(CatalogUnit).where(CatalogUnit.member_id == member.id).limit(1)
+    ).scalar_one_or_none()
     return {
+        "unit": {
+            "id": str(unit.id),
+            "label": unit.label,
+            "series_key": unit.series_key,
+            "series_title": unit.series_title,
+            "season": unit.season,
+            "episode": unit.episode,
+            "confidence": unit.confidence.value,
+            "flags": list(unit.flags or []),
+        }
+        if unit is not None
+        else None,
         "member_id": str(member.id),
         "name": member.name.rsplit("/", 1)[-1],
         "archive": entry.file_name,

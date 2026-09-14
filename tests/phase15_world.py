@@ -48,8 +48,15 @@ SEASON_MEMBERS = {
         f"Season 2/[Group] {ALIAS} - S02E02.mkv",
         f"Season 2/[Group] {ALIAS} - S02E01.mkv",
     ),
-    SEASON_PART_2: (f"Season 2/[Group] {ALIAS} - S02E03 Recap.mkv",),
+    SEASON_PART_2: (
+        f"Season 2/[Group] {ALIAS} - S02E03 Recap.mkv",
+        f"Extras/[Group] {ALIAS} Diary - S01E01.mkv",
+    ),
 }
+#: A second work inside the same series folder, known to the acquisition engine.
+SPINOFF = f"{SERIES}/manga/Orbit Side Stories/orbit-side-stories-part-01.cbz"
+#: A work the engine does not know, told apart only by its folder.
+SPINOFF_FOLDER_ONLY = f"{SERIES}/manga/Orbit Recipes/orbit-recipes-part-01.cbz"
 EPISODE_GOOD = f"{SERIES}/anime/{SERIES} - S01E01.mp4"
 EPISODE_POOR = f"{SERIES}/anime/dmorbt-07.mp4"
 MOVIE = f"{SERIES}/anime/{SERIES} The Movie (2031) [BD].mkv"
@@ -126,6 +133,8 @@ def build_phase15_world(tmp: Path) -> Phase15World:
         for name, seed in VOLUME_PAGES.items()
     }
     _zip(vault / VOLUME, dict(reversed(list(pages.items()))))
+    _zip(vault / SPINOFF, {"Ch0001/001.png": picture(50), "Ch0002/001.png": picture(51)})
+    _zip(vault / SPINOFF_FOLDER_ONLY, {"Ch0001/001.png": picture(52)})
     (vault / VOLUME_COPY).parent.mkdir(parents=True, exist_ok=True)
     (vault / VOLUME_COPY).write_bytes((vault / VOLUME).read_bytes())
     for part, names in SEASON_MEMBERS.items():
@@ -190,6 +199,41 @@ def build_phase15_world(tmp: Path) -> Phase15World:
     now = dt.datetime.now(tz=dt.UTC).isoformat(timespec="seconds")
     (acquisition / "vault-index.json").write_text(
         json.dumps({"vault_root": str(vault), "generated_at": now, "files": files}),
+        encoding="utf-8",
+    )
+    (acquisition / "vault-layout.json").write_text(
+        json.dumps(
+            {
+                "families": [
+                    {
+                        "family_title": SERIES,
+                        "works": [
+                            {
+                                "work_id": "demo/main",
+                                "work": SERIES,
+                                "relationship_type": "MAIN_WORK",
+                            },
+                            {
+                                "work_id": "demo/side",
+                                "work": "Orbit Side Stories",
+                                "relationship_type": "OFFICIAL_SPINOFF",
+                            },
+                        ],
+                    }
+                ]
+            }
+        ),
+        encoding="utf-8",
+    )
+    (acquisition / "vault-coverage.json").write_text(
+        json.dumps(
+            {
+                "works": {
+                    "demo/main": {"media_files": [VOLUME]},
+                    "demo/side": {"media_files": [SPINOFF]},
+                }
+            }
+        ),
         encoding="utf-8",
     )
     (acquisition / "works-catalog.json").write_text(

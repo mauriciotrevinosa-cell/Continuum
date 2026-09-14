@@ -40,7 +40,13 @@ from continuum_library.vault_views import (
     unit_detail,
     unit_search,
 )
-from continuum_storage import MEDIA_ID_PATTERN, MediaLibrary, ProjectLibrary, catalog_roots
+from continuum_storage import (
+    MEDIA_ID_PATTERN,
+    MediaLibrary,
+    MediaUnavailableError,
+    ProjectLibrary,
+    catalog_roots,
+)
 from continuum_storage.member_cache import MemberCache
 from fastapi import APIRouter, HTTPException, Query, Request
 from fastapi import Path as PathParam
@@ -51,7 +57,8 @@ from starlette.responses import PlainTextResponse, Response, StreamingResponse
 
 router = APIRouter(prefix="/catalog", tags=["catalog"])
 
-RootKey = Annotated[str, PathParam(pattern=r"^(source_vault|intake:[a-z0-9][a-z0-9-]{0,39})$")]
+#: An intake collection, by the slug of its root key (``intake:<slug>``).
+CollectionSlug = Annotated[str, PathParam(pattern=r"^[a-z0-9][a-z0-9-]{0,39}$")]
 SeriesKey = Annotated[str, PathParam(pattern=r"^[a-z0-9][a-z0-9-]{0,119}$")]
 _RANGE = re.compile(r"^bytes=(\d*)-(\d*)$")
 
@@ -207,12 +214,17 @@ def start_scan(request: Request, body: ScanRequest) -> list[dict[str, Any]]:
         ]
 
 
-@router.post("/roots/{root_key}/hash", status_code=202)
-def start_hash(request: Request, root_key: RootKey) -> dict[str, Any] | None:
-    if root_key not in _root_keys(request):
+class HashRequest(StrictBody):
+    root_key: Annotated[str, Field(pattern=r"^(source_vault|intake:[a-z0-9][a-z0-9-]{0,39})$")]
+
+
+@router.post("/hash", status_code=202)
+def start_hash(request: Request, body: HashRequest) -> dict[str, Any] | None:
+    """Queue a hash pass over files that have no hash for their current size and mtime."""
+    if body.root_key not in _root_keys(request):
         raise HTTPException(status_code=404, detail={"message": "That folder is not configured."})
     with scope(request) as session:
-        return _job(request_hash(session, root_key))
+        return _job(request_hash(session, body.root_key))
 
 
 @router.get("/coverage")
@@ -232,26 +244,27 @@ def coverage_markdown(request: Request) -> PlainTextResponse:
 
 
 # -- collections ---------------------------------------------------------------------
-@router.post("/roots/{root_key}/import", status_code=202)
-def start_import(request: Request, root_key: RootKey) -> dict[str, Any]:
+def _collection(request: Request, slug: str) -> Any:
+    root = next((r for r in _roots(request) if r.key == f"intake:{slug}"), None)
+    if root is None:
+        raise HTTPException(
+            status_code=404, detail={"message": "That intake folder is not configured."}
+        )
+    return root
+
+
+@router.post("/collections/{slug}/import", status_code=202)
+def start_import(request: Request, slug: CollectionSlug) -> dict[str, Any]:
     """Rescan an intake collection, hash it, and import it as references."""
-    root = next((r for r in _roots(request) if r.key == root_key), None)
-    if root is None or root.is_vault:
-        raise HTTPException(
-            status_code=404, detail={"message": "That intake folder is not configured."}
-        )
+    root = _collection(request, slug)
     with scope(request) as session:
-        requested = request_import(session, root_key)
-        return {"root_key": root_key, "scan": _job(requested.scan), "import": _job(requested.hash)}
+        requested = request_import(session, root.key)
+        return {"root_key": root.key, "scan": _job(requested.scan), "import": _job(requested.hash)}
 
 
-@router.get("/roots/{root_key}/import")
-def import_status(request: Request, root_key: RootKey) -> dict[str, Any]:
-    root = next((r for r in _roots(request) if r.key == root_key), None)
-    if root is None or root.is_vault:
-        raise HTTPException(
-            status_code=404, detail={"message": "That intake folder is not configured."}
-        )
+@router.get("/collections/{slug}/import")
+def import_status(request: Request, slug: CollectionSlug) -> dict[str, Any]:
+    root = _collection(request, slug)
     with scope(request) as session:
         return import_report(session, root)
 
@@ -289,9 +302,17 @@ def search_units(
     root: Annotated[
         str | None, Query(pattern=r"^(source_vault|intake:[a-z0-9][a-z0-9-]{0,39})$")
     ] = None,
+    media_id: Annotated[str | None, Query(pattern=MEDIA_ID_PATTERN)] = None,
+    include_duplicates: bool = False,
     limit: Annotated[int, Query(ge=1, le=500)] = 100,
     offset: Annotated[int, Query(ge=0, le=1_000_000)] = 0,
 ) -> dict[str, Any]:
+    relative: str | None = None
+    if media_id is not None:
+        try:
+            relative = _media(request).describe(media_id).relative
+        except MediaUnavailableError:
+            raise HTTPException(status_code=404, detail={"message": "media not found"}) from None
     try:
         chapter_number = Decimal(chapter) if chapter is not None else None
     except InvalidOperation:
@@ -310,6 +331,8 @@ def search_units(
             creator=creator,
             confidence=confidence,
             root_key=root,
+            vault_relative=relative,
+            include_duplicates=include_duplicates or media_id is not None,
             limit=limit,
             offset=offset,
         )

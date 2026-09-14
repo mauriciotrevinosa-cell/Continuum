@@ -249,6 +249,9 @@ class CatalogUnit(Base):
     series_key: Mapped[str | None] = mapped_column(String(120), nullable=True)
     series_title: Mapped[str | None] = mapped_column(Text, nullable=True)
     program_title: Mapped[str | None] = mapped_column(Text, nullable=True)
+    #: A distinct program inside the series folder (a spin-off, a special run),
+    #: when the file names suggest one; its episodes are grouped apart.
+    subseries: Mapped[str | None] = mapped_column(Text, nullable=True)
     season: Mapped[int | None] = mapped_column(Integer, nullable=True)
     episode: Mapped[int | None] = mapped_column(Integer, nullable=True)
     episode_kind: Mapped[EpisodeKind | None] = mapped_column(

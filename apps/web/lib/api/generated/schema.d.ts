@@ -4,6 +4,27 @@
  */
 
 export interface paths {
+    "/catalog/collections/{slug}/import": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Import Status */
+        get: operations["import_status_catalog_collections__slug__import_get"];
+        put?: never;
+        /**
+         * Start Import
+         * @description Rescan an intake collection, hash it, and import it as references.
+         */
+        post: operations["start_import_catalog_collections__slug__import_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/catalog/coverage": {
         parameters: {
             query?: never;
@@ -52,6 +73,26 @@ export interface paths {
         get: operations["list_entries_catalog_entries_get"];
         put?: never;
         post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/catalog/hash": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Start Hash
+         * @description Queue a hash pass over files that have no hash for their current size and mtime.
+         */
+        post: operations["start_hash_catalog_hash_post"];
         delete?: never;
         options?: never;
         head?: never;
@@ -197,44 +238,6 @@ export interface paths {
         get: operations["roots_catalog_roots_get"];
         put?: never;
         post?: never;
-        delete?: never;
-        options?: never;
-        head?: never;
-        patch?: never;
-        trace?: never;
-    };
-    "/catalog/roots/{root_key}/hash": {
-        parameters: {
-            query?: never;
-            header?: never;
-            path?: never;
-            cookie?: never;
-        };
-        get?: never;
-        put?: never;
-        /** Start Hash */
-        post: operations["start_hash_catalog_roots__root_key__hash_post"];
-        delete?: never;
-        options?: never;
-        head?: never;
-        patch?: never;
-        trace?: never;
-    };
-    "/catalog/roots/{root_key}/import": {
-        parameters: {
-            query?: never;
-            header?: never;
-            path?: never;
-            cookie?: never;
-        };
-        /** Import Status */
-        get: operations["import_status_catalog_roots__root_key__import_get"];
-        put?: never;
-        /**
-         * Start Import
-         * @description Rescan an intake collection, hash it, and import it as references.
-         */
-        post: operations["start_import_catalog_roots__root_key__import_post"];
         delete?: never;
         options?: never;
         head?: never;
@@ -1164,7 +1167,7 @@ export interface paths {
         put?: never;
         /**
          * Add Held Frame
-         * @description A frame the viewer captured from held video; the video is not copied.
+         * @description A frame the viewer captured from held video, or from a video inside an archive.
          */
         post: operations["add_held_frame_library_inbox_frames_post"];
         delete?: never;
@@ -3046,6 +3049,11 @@ export interface components {
         HTTPValidationError: {
             /** Detail */
             detail?: components["schemas"]["ValidationError"][];
+        };
+        /** HashRequest */
+        HashRequest: {
+            /** Root Key */
+            root_key: string;
         };
         /**
          * HealthResponse
@@ -5030,6 +5038,72 @@ export interface components {
 }
 export type $defs = Record<string, never>;
 export interface operations {
+    import_status_catalog_collections__slug__import_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                slug: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    start_import_catalog_collections__slug__import_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                slug: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            202: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     coverage_catalog_coverage_get: {
         parameters: {
             query?: never;
@@ -5096,6 +5170,41 @@ export interface operations {
                     "application/json": {
                         [key: string]: unknown;
                     };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    start_hash_catalog_hash_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["HashRequest"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            202: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    } | null;
                 };
             };
             /** @description Validation Error */
@@ -5366,105 +5475,6 @@ export interface operations {
             };
         };
     };
-    start_hash_catalog_roots__root_key__hash_post: {
-        parameters: {
-            query?: never;
-            header?: never;
-            path: {
-                root_key: string;
-            };
-            cookie?: never;
-        };
-        requestBody?: never;
-        responses: {
-            /** @description Successful Response */
-            202: {
-                headers: {
-                    [name: string]: unknown;
-                };
-                content: {
-                    "application/json": {
-                        [key: string]: unknown;
-                    } | null;
-                };
-            };
-            /** @description Validation Error */
-            422: {
-                headers: {
-                    [name: string]: unknown;
-                };
-                content: {
-                    "application/json": components["schemas"]["HTTPValidationError"];
-                };
-            };
-        };
-    };
-    import_status_catalog_roots__root_key__import_get: {
-        parameters: {
-            query?: never;
-            header?: never;
-            path: {
-                root_key: string;
-            };
-            cookie?: never;
-        };
-        requestBody?: never;
-        responses: {
-            /** @description Successful Response */
-            200: {
-                headers: {
-                    [name: string]: unknown;
-                };
-                content: {
-                    "application/json": {
-                        [key: string]: unknown;
-                    };
-                };
-            };
-            /** @description Validation Error */
-            422: {
-                headers: {
-                    [name: string]: unknown;
-                };
-                content: {
-                    "application/json": components["schemas"]["HTTPValidationError"];
-                };
-            };
-        };
-    };
-    start_import_catalog_roots__root_key__import_post: {
-        parameters: {
-            query?: never;
-            header?: never;
-            path: {
-                root_key: string;
-            };
-            cookie?: never;
-        };
-        requestBody?: never;
-        responses: {
-            /** @description Successful Response */
-            202: {
-                headers: {
-                    [name: string]: unknown;
-                };
-                content: {
-                    "application/json": {
-                        [key: string]: unknown;
-                    };
-                };
-            };
-            /** @description Validation Error */
-            422: {
-                headers: {
-                    [name: string]: unknown;
-                };
-                content: {
-                    "application/json": components["schemas"]["HTTPValidationError"];
-                };
-            };
-        };
-    };
     start_scan_catalog_scans_post: {
         parameters: {
             query?: never;
@@ -5615,6 +5625,8 @@ export interface operations {
                 creator?: string | null;
                 confidence?: components["schemas"]["Confidence"] | null;
                 root?: string | null;
+                media_id?: string | null;
+                include_duplicates?: boolean;
                 limit?: number;
                 offset?: number;
             };
@@ -7089,8 +7101,9 @@ export interface operations {
     add_held_frame_library_inbox_frames_post: {
         parameters: {
             query: {
-                media_id: string;
                 time_ms: number;
+                media_id?: string | null;
+                member_id?: string | null;
                 batch_id?: string | null;
                 origin?: components["schemas"]["ReferenceOrigin"];
                 suggested_class?: components["schemas"]["ReferenceClass"] | null;

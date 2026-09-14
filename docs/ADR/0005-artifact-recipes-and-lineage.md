@@ -52,6 +52,14 @@ Required properties:
 
 Locator generation is owned by one module per medium, with round-trip tests (`parse(render(x)) == x`) and stability tests (re-ingest the same fixture, assert identical locators).
 
+**Phase 1.5 amendment — an instant in a video stored inside an archive.** Anime is often held as ZIP parts whose members are DEFLATE-compressed videos. A frame's provenance names the *archive's* bytes, the member and the instant:
+
+```
+zip:sha256:<archive>#entry=Season%202/Episode%2003.mkv&t=00:07:41.250
+```
+
+The entry keeps its canonical percent-encoding (so `&` inside a name is always `%26` and the separator is unambiguous); `&t=` may follow `entry=` only for `zip`. The locator stays database-independent: the archive's hash and the entry name resolve the member without any catalog row. The member cache that makes the video playable (`cache/archive-members/<sha256>`) is an implementation detail of viewing and never appears in a locator. Round-trip and refusal cases are covered in `tests/acceptance/test_phase15_*`.
+
 **Open sub-decision, deferred to the Phase 2 EPUB spike:** whether EPUB uses `#cfi=` (EPUB CFI, standard, epub.js-native, brittle across reflow implementations) or `#para=` (our own deterministic paragraph index, stable but non-standard). The spike decides; the *shape* above accommodates either.
 
 ### 2. Provenance is a typed union, not a locator field

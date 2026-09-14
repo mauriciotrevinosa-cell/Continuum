@@ -1186,6 +1186,8 @@ class ReferenceCatalog:
         ).scalar_one_or_none()
         if asset is None or asset.origin is not AssetOrigin.SOURCE_VAULT or self.sources is None:
             return {"available": False, "reason": "not held media"}
+        if locator.medium.value == "zip" and locator.time_ms is not None:
+            return self._member_position(locator.sha256, str(locator.entry), locator.time_ms)
         for location in self.locations(asset.id):
             if location.root_key != "source_vault":
                 continue
@@ -1207,6 +1209,33 @@ class ReferenceCatalog:
                 "held_name": provenance.get("held_name"),
             }
         return {"available": False, "reason": "the source is not in the Library right now"}
+
+    def _member_position(self, archive_hash: str, entry: str, time_ms: int) -> dict[str, Any]:
+        """Where to watch an instant of a video stored inside an archive."""
+        from continuum_core.catalog import EntryStatus, MemberKind
+        from continuum_db.models import CatalogEntry, CatalogMember
+
+        found = self.session.execute(
+            select(CatalogMember.id, CatalogMember.name)
+            .join(CatalogEntry, CatalogEntry.id == CatalogMember.entry_id)
+            .where(
+                CatalogEntry.content_hash == archive_hash,
+                CatalogEntry.status == EntryStatus.CATALOGUED,
+                CatalogMember.kind == MemberKind.VIDEO,
+                CatalogMember.name == entry,
+            )
+            .limit(1)
+        ).first()
+        if found is None:
+            return {"available": False, "reason": "the archive is not in the Library right now"}
+        return {
+            "available": True,
+            "media_id": None,
+            "member_id": str(found[0]),
+            "page_index": None,
+            "time_ms": time_ms,
+            "held_name": found[1].rsplit("/", 1)[-1],
+        }
 
     # =====================================================================
     # Internals

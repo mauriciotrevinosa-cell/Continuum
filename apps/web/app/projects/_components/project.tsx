@@ -120,6 +120,38 @@ export function LifecycleChip({ lifecycle }: { lifecycle: DocumentLifecycle }) {
   return <span className={`chip ${LIFECYCLE_TONES[lifecycle]}`}>{LIFECYCLE_LABELS[lifecycle]}</span>;
 }
 
+const MATURITY_LABELS: Record<string, string> = {
+  ROUGH: "Rough",
+  DETAILED: "Detailed",
+  PRODUCTION_READY: "Production-ready",
+};
+const AUTHORITY_LABELS: Record<string, string> = {
+  RULE: "Authoritative rule",
+  CORRECTION: "Authoritative correction",
+  INDEX: "Source-of-truth index",
+};
+
+/** Maturity and authority beside the lifecycle: an approved rough roadmap is not a panel script. */
+export function StandingChips({ document }: { document: ProjectDocument }) {
+  return (
+    <>
+      {document.maturity ? (
+        <span className={`chip plain ${document.maturity === "PRODUCTION_READY" ? "ok" : "muted"}`}>
+          {MATURITY_LABELS[document.maturity]}
+        </span>
+      ) : null}
+      {AUTHORITY_LABELS[document.authority] ? (
+        <span className="chip plain accent">{AUTHORITY_LABELS[document.authority]}</span>
+      ) : null}
+      {document.overridden_by.length ? (
+        <span className="chip plain warn" title={document.overridden_by.map((o) => `${o.document}: ${o.scope}`).join("; ")}>
+          Partly overridden
+        </span>
+      ) : null}
+    </>
+  );
+}
+
 export function DocumentRow({ projectId, document }: { projectId: string; document: ProjectDocument }) {
   const meta = [
     document.episode,
@@ -137,7 +169,8 @@ export function DocumentRow({ projectId, document }: { projectId: string; docume
         {document.summary ? <p className="sub">{document.summary}</p> : null}
         <p className="sub doc-meta">{meta.join(" · ")}</p>
       </div>
-      <div className="side">
+      <div className="side chips">
+        <StandingChips document={document} />
         <LifecycleChip lifecycle={document.lifecycle} />
       </div>
     </Link>

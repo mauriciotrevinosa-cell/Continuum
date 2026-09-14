@@ -10,6 +10,8 @@ import {
 } from "@/lib/api";
 import { type CharacterSummary, type VisualMode, vault } from "@/lib/vault";
 import { classLabel, formatBytes, plural, seasonLabel } from "@/lib/acquisition";
+import { type UnitView, catalog } from "@/lib/catalog";
+import { UnitRow } from "../../library/vault/_parts";
 import { ImageView } from "../ImageView";
 import { Player } from "../Player";
 import { Reader } from "../Reader";
@@ -109,6 +111,13 @@ export default async function ViewPage({
     );
   }
 
+  // Videos inside an archive open through the catalog, which prepares them on demand.
+  let archived: UnitView[] = [];
+  if (unit.view === "bundle" || unit.view === "mixed") {
+    archived = (await catalog.units({ media_id: unit.id, limit: 500 }).catch(() => null))?.units.filter(
+      (u) => u.source.member_id,
+    ) ?? [];
+  }
   const contained = [...(unit.contained.length ? unit.contained : (listing?.videos ?? []))].sort(
     (a, b) =>
       (a.season ?? 999) - (b.season ?? 999) ||
@@ -135,7 +144,7 @@ export default async function ViewPage({
         </h1>
 
         {unit.view === "video" ? (
-          <Player mediaId={unit.id} maybe={unit.plays_in_browser === "maybe"} />
+          <Player source={{ kind: "media", mediaId: unit.id }} maybe={unit.plays_in_browser === "maybe"} />
         ) : unit.view === "image" ? (
           <ImageView mediaId={unit.id} name={unit.name} {...await vaultChoices()} />
         ) : unit.view === "document" ? (
@@ -148,15 +157,15 @@ export default async function ViewPage({
                 {plural(listing?.pages.length ?? unit.pages, "image")} and{" "}
                 {plural(contained.length || unit.contained_videos, "video")} - it is neither a
                 manga volume nor an episode. The images can be read here; the videos can&apos;t be
-                played from inside a compressed archive, and Continuum doesn&apos;t extract anything
-                into your Vault.
+                played from inside a compressed archive: Continuum prepares one at a time in its own
+                cache and never extracts anything into your Vault.
               </p>
             ) : (
               <p style={{ marginTop: 0 }}>
                 <strong>An archive, not an episode.</strong> It holds{" "}
-                {plural(contained.length || unit.contained_videos, "video")}. Continuum doesn&apos;t
-                extract anything into your Vault, and a compressed archive can&apos;t be played from
-                inside, so these can&apos;t be watched here yet.
+                {plural(contained.length || unit.contained_videos, "video")}. A compressed archive
+                can&apos;t be played from inside, so each episode is prepared on demand in
+                Continuum&apos;s own cache - nothing is extracted into your Vault.
               </p>
             )}
             {unit.view === "mixed" && listing?.pages.length ? (
@@ -164,6 +173,13 @@ export default async function ViewPage({
                 Read the {plural(listing.pages.length, "image")}
               </Link>
             ) : null}
+            {archived.length ? (
+              <div className="unit-list" style={{ marginTop: 14 }}>
+                {archived.map((episode) => (
+                  <UnitRow key={episode.id} unit={episode} />
+                ))}
+              </div>
+            ) : (
             <div className="list" style={{ marginTop: 14 }}>
               {contained.map((video, index) => (
                 <div className="list-item" key={`${video.name}-${index}`}>
@@ -180,6 +196,12 @@ export default async function ViewPage({
                 </div>
               ))}
             </div>
+            )}
+            {!archived.length ? (
+              <p className="muted" style={{ marginTop: 12 }}>
+                Scan the Vault from <Link href="/library/vault/coverage">Coverage</Link> to watch these here.
+              </p>
+            ) : null}
           </section>
         ) : unit.view === "pages" ? (
           <section className="empty">

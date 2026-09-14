@@ -34,7 +34,7 @@ from continuum_library.collection_import import (
 )
 from continuum_library.coverage import write_coverage_report
 from continuum_library.members import extract_member
-from continuum_library.vault_catalog import VaultCatalog, works_aliases
+from continuum_library.vault_catalog import VaultCatalog, work_map, works_aliases
 from continuum_library.vault_jobs import (
     CATALOG_HASH_JOB,
     CATALOG_SCAN_JOB,
@@ -87,12 +87,14 @@ def _catalog(ctx: JobContext, root: CatalogRoot) -> VaultCatalog:
     settings: Any = ctx.settings
     engine: dict[str, Any] = {}
     aliases: dict[str, tuple[str, ...]] = {}
+    works: dict[str, tuple[str, str]] = {}
     if root.is_vault:
         directory = str(settings.acquisition_dir())
         store = _STORES.setdefault(directory, AcquisitionStore(directory))
         engine = engine_index_records(store, settings.root("source_vault"))
         aliases = works_aliases(store.read("works-catalog.json"))
-    return VaultCatalog(ctx.session, [root], engine_records=engine, aliases=aliases)
+        works = work_map(store.read("vault-coverage.json"), store.read("vault-layout.json"))
+    return VaultCatalog(ctx.session, [root], engine_records=engine, aliases=aliases, works=works)
 
 
 class CatalogScanHandler:

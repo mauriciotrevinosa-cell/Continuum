@@ -17,8 +17,9 @@ from collections.abc import Callable
 from contextlib import AbstractContextManager
 from typing import Any
 
-from continuum_core.catalog import DetectedKind, EntryStatus, MemberKind
-from continuum_db.models import CatalogEntry, CatalogMember
+from continuum_core.catalog import DetectedKind, EntryStatus, MemberKind, ScanStatus
+from continuum_db.models import CatalogEntry, CatalogMember, CatalogScan
+from continuum_storage.survey import root_fingerprint
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
@@ -87,14 +88,30 @@ class CatalogRecordSupplement:
     update), so a request costs one small aggregate query.
     """
 
-    def __init__(self, sessions: Callable[[], AbstractContextManager[Session]]) -> None:
+    def __init__(
+        self, sessions: Callable[[], AbstractContextManager[Session]], vault_root: str = ""
+    ) -> None:
         self._sessions = sessions
+        self._fingerprint = root_fingerprint(vault_root) if vault_root else ""
         self._lock = threading.Lock()
         self._marker: object = None
         self._records: dict[str, dict[str, Any]] = {}
 
     def records(self) -> tuple[object, dict[str, dict[str, Any]]]:
         with self._sessions() as session:
+            if self._fingerprint:
+                scanned = session.execute(
+                    select(CatalogScan.survey)
+                    .where(
+                        CatalogScan.root_key == VAULT_ROOT_KEY,
+                        CatalogScan.status == ScanStatus.COMPLETED,
+                    )
+                    .order_by(CatalogScan.finished_at.desc(), CatalogScan.id.desc())
+                    .limit(1)
+                ).scalar_one_or_none()
+                if (scanned or {}).get("root_fingerprint") != self._fingerprint:
+                    # The catalog describes another folder (or none yet): offer nothing.
+                    return ("other-folder",), {}
             marker = tuple(
                 session.execute(
                     select(func.count(), func.max(CatalogEntry.updated_at)).where(

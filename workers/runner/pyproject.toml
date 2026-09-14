@@ -3,7 +3,7 @@ name = "continuum-worker"
 version = "0.0.0"
 description = "Standalone durable worker process and synthetic handlers."
 requires-python = ">=3.12,<3.13"
-dependencies = ["continuum-core", "continuum-config", "continuum-db", "continuum-jobs", "continuum-storage", "continuum-providers", "continuum-observability"]
+dependencies = ["continuum-core", "continuum-config", "continuum-db", "continuum-jobs", "continuum-library", "continuum-production", "continuum-imaging", "continuum-storage", "continuum-providers", "continuum-observability"]
 
 [project.scripts]
 continuum-worker = "continuum_worker.main:main"
@@ -16,7 +16,10 @@ build-backend = "hatchling.build"
 continuum-config = { workspace = true }
 continuum-core = { workspace = true }
 continuum-db = { workspace = true }
+continuum-imaging = { workspace = true }
 continuum-jobs = { workspace = true }
+continuum-library = { workspace = true }
+continuum-production = { workspace = true }
 continuum-observability = { workspace = true }
 continuum-providers = { workspace = true }
 continuum-storage = { workspace = true }

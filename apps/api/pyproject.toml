@@ -3,7 +3,7 @@ name = "continuum-api"
 version = "0.0.0"
 description = "FastAPI application: health, jobs, workers."
 requires-python = ">=3.12,<3.13"
-dependencies = ["continuum-core", "continuum-config", "continuum-db", "continuum-jobs", "continuum-storage", "continuum-providers", "continuum-observability", "fastapi>=0.115", "uvicorn[standard]>=0.32", "pydantic>=2.9", "pydantic-settings>=2.6"]
+dependencies = ["continuum-core", "continuum-config", "continuum-db", "continuum-jobs", "continuum-library", "continuum-production", "continuum-imaging", "continuum-storage", "continuum-providers", "continuum-observability", "fastapi>=0.115", "uvicorn[standard]>=0.32", "pydantic>=2.9", "pydantic-settings>=2.6"]
 
 [project.scripts]
 continuum-api = "continuum_api.cli:main"
@@ -16,7 +16,10 @@ build-backend = "hatchling.build"
 continuum-config = { workspace = true }
 continuum-core = { workspace = true }
 continuum-db = { workspace = true }
+continuum-imaging = { workspace = true }
 continuum-jobs = { workspace = true }
+continuum-library = { workspace = true }
+continuum-production = { workspace = true }
 continuum-observability = { workspace = true }
 continuum-providers = { workspace = true }
 continuum-storage = { workspace = true }

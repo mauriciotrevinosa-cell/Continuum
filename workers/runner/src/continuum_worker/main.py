@@ -30,7 +30,7 @@ import types
 import uuid
 
 from continuum_config import Settings, get_settings
-from continuum_core import BlockedReason
+from continuum_core import BlockedReason, ContinuumError
 from continuum_db.models import Job
 from continuum_db.session import session_scope
 from continuum_jobs import (
@@ -55,10 +55,10 @@ from continuum_providers import build_default_registry
 from continuum_storage import build_storage
 from sqlalchemy.orm import Session
 
+from continuum_worker.handlers.rough import RoughAttemptHandler
 from continuum_worker.handlers.synthetic import (
     BlockedCapabilityHandler,
     CountedWorkHandler,
-    SyntheticBlockedError,
 )
 
 __all__ = ["Worker", "main", "register_default_handlers"]
@@ -76,10 +76,11 @@ def _handle_signal(signum: int, _frame: types.FrameType | None) -> None:
 
 
 def register_default_handlers() -> None:
-    """Phase 0 registers only the two synthetic handlers."""
-    if not registry.known_types():
-        registry.register(CountedWorkHandler())
-        registry.register(BlockedCapabilityHandler())
+    """The synthetic Phase 0 handlers and the Phase 1 rough attempt renderer."""
+    known = set(registry.known_types())
+    for handler in (CountedWorkHandler(), BlockedCapabilityHandler(), RoughAttemptHandler()):
+        if handler.job_type not in known:
+            registry.register(handler)
 
 
 class Worker:
@@ -174,10 +175,14 @@ class Worker:
                         "job finished",
                         extra={"job_id": str(job.id), "outcome": reason.value},
                     )
-                except SyntheticBlockedError as exc:
-                    # A capability nothing can serve is a BLOCKED state with
-                    # remediation, not a failure: the recipe survives and the
-                    # user is told what is missing (F-24, F-34).
+                except ContinuumError as exc:
+                    # A capability nothing can serve, or a source that is not
+                    # reachable, is a BLOCKED state with remediation, not a
+                    # failure: the recipe survives and the user is told what is
+                    # missing (F-24, F-34). execute_job re-raises only errors
+                    # that carry a blocked_reason; anything else is a bug here.
+                    if not exc.context.get("blocked_reason"):
+                        raise
                     session.rollback()
                     self._park(
                         session,
@@ -258,7 +263,7 @@ class Worker:
         return 0
 
 
-def _blocked_reason_from(exc: SyntheticBlockedError) -> BlockedReason:
+def _blocked_reason_from(exc: ContinuumError) -> BlockedReason:
     """Map the provider policy's reason onto the durable enum."""
     raw = exc.context.get("blocked_reason")
     if not isinstance(raw, str):

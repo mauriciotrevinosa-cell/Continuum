@@ -51,6 +51,14 @@ from continuum_storage.roots import (
     build_storage,
     validate_roots,
 )
+from continuum_storage.sources import (
+    HeldUnit,
+    SourceAccess,
+    SourceChangedError,
+    SourceUnavailableError,
+    UnitBytes,
+    normalized_entry,
+)
 from continuum_storage.vault import SourceVaultReader, VaultEntry
 
 __all__ = [
@@ -67,6 +75,7 @@ __all__ = [
     "ArchivePage",
     "CliResult",
     "DerivedStore",
+    "HeldUnit",
     "MediaFile",
     "MediaLibrary",
     "MediaUnavailableError",
@@ -76,16 +85,21 @@ __all__ = [
     "ReadOnlyStatus",
     "ResolvedPath",
     "RootStatus",
+    "SourceAccess",
+    "SourceChangedError",
+    "SourceUnavailableError",
     "SourceVaultReader",
     "StorageEnvironment",
     "StoredArtifact",
     "SyncFolderWarning",
+    "UnitBytes",
     "VaultChanges",
     "VaultEntry",
     "VaultProtectionReport",
     "build_storage",
     "detect_sync_provider",
     "media_id_for",
+    "normalized_entry",
     "probe_vault_readonly",
     "resolve_within",
     "same_file_as",

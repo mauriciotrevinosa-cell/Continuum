@@ -35,6 +35,19 @@
       "summary": "Draft 1, derived from the approved scene-card structure, was approved after human Story Room review with no content revisions. It is now the approved story draft feeding the Manga Panel Script."
     },
     {
+      "id": "s1e1-manga-panel-script",
+      "path": "THE_ARRIVALS_S1E1_MANGA_PANEL_SCRIPT_v0.1.md",
+      "title": "S1E1 — Not This Time · Manga Panel Script",
+      "category": "panel-script",
+      "section": "production",
+      "lifecycle": "APPROVED",
+      "version": "0.1",
+      "lineage": "s1e1-panel-script",
+      "episode": "S1E1",
+      "derived_from": "s1e1-draft-1",
+      "summary": "Approved panel script: 16 approved scenes across 79 provisional pages in three chapter cuts. Page and panel counts stay adjustable only during rough visual review. Next gate: rough manga."
+    },
+    {
       "id": "opening-groups",
       "path": "THE_ARRIVALS_OPENING_GROUPS_v0.1.md",
       "title": "Opening Groups",

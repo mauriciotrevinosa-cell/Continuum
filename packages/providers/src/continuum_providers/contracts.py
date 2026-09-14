@@ -17,6 +17,8 @@ from dataclasses import dataclass, field
 from enum import StrEnum
 from typing import Any, Protocol, runtime_checkable
 
+from continuum_core import NormalizedRegion
+
 __all__ = [
     "Capability",
     "CostClass",
@@ -29,6 +31,12 @@ __all__ = [
     "PrivacyClass",
     "Provider",
     "ProviderDescriptor",
+    "RoughEditOperation",
+    "RoughPlacement",
+    "RoughReference",
+    "RoughRenderProvider",
+    "RoughRenderRequest",
+    "RoughRenderResult",
     "TextProvider",
 ]
 
@@ -45,6 +53,9 @@ class Capability(StrEnum):
     IMAGE_EDIT = "IMAGE_EDIT"
     SPEECH_SYNTHESIZE = "SPEECH_SYNTHESIZE"
     VIDEO_GENERATE = "VIDEO_GENERATE"
+    ROUGH_RENDER = "ROUGH_RENDER"
+    """A reviewable rough panel or page from a recipe: new, source-derived,
+    composite or layout-only. Not final art (Phase 1 rough manga pipeline)."""
 
 
 class Locality(StrEnum):
@@ -172,3 +183,78 @@ class EmbeddingProvider(Provider, Protocol):
 @runtime_checkable
 class ImageProvider(Provider, Protocol):
     def generate_image(self, request: GenerationRequest) -> GenerationResult: ...
+
+
+# ---------------------------------------------------------------------------
+# Rough rendering (Phase 1, ADR-0005 recipes)
+# ---------------------------------------------------------------------------
+@dataclass(frozen=True, slots=True)
+class RoughReference:
+    """One bundle member handed to a renderer, with its role."""
+
+    role: str
+    label: str
+    data: bytes
+    region: NormalizedRegion | None = None
+
+
+@dataclass(frozen=True, slots=True)
+class RoughEditOperation:
+    """An intended change to a region of the source plate (as cropped)."""
+
+    kind: str
+    region: NormalizedRegion
+    label: str = ""
+
+
+@dataclass(frozen=True, slots=True)
+class RoughPlacement:
+    """Where a character or element goes in a new or layout-only frame."""
+
+    region: NormalizedRegion
+    label: str = ""
+
+
+@dataclass(frozen=True, slots=True)
+class RoughRenderRequest:
+    """Everything a renderer needs; bytes are handed in, never paths.
+
+    ``plate`` is the source plate's unit bytes and ``plate_region`` its crop;
+    ``mask`` marks the regions an edit may change (white) and must preserve
+    (black), in plate-crop coordinates. A renderer returns a *new* image and
+    never modifies what it was given.
+    """
+
+    data_class: DataClass
+    mode: str
+    width: int
+    height: int
+    seed: int
+    title: str
+    workflow: str
+    lines: tuple[str, ...] = ()
+    plate: bytes | None = None
+    plate_region: NormalizedRegion | None = None
+    mask: bytes | None = None
+    operations: tuple[RoughEditOperation, ...] = ()
+    placements: tuple[RoughPlacement, ...] = ()
+    references: tuple[RoughReference, ...] = ()
+    options: dict[str, Any] = field(default_factory=dict)
+
+
+@dataclass(frozen=True, slots=True)
+class RoughRenderResult:
+    provider_id: str
+    model_ref: str | None
+    version: str
+    workflow: str
+    image: bytes
+    mime: str
+    width: int
+    height: int
+    usage: dict[str, Any] = field(default_factory=dict)
+
+
+@runtime_checkable
+class RoughRenderProvider(Provider, Protocol):
+    def render_rough(self, request: RoughRenderRequest) -> RoughRenderResult: ...

@@ -540,6 +540,7 @@ class TestWorkerProcessIndependence:
         session_env = {
             "CONTINUUM_DATA_HOME": str(db_settings.data_home),
             "CONTINUUM_SOURCE_VAULT_ROOT": str(db_settings.source_vault_root),
+            "CONTINUUM_DATABASE_URL": db_settings.database_url.get_secret_value(),
         }
         import os
 

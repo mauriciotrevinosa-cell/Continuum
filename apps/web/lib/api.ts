@@ -597,7 +597,7 @@ export interface MediaUnit {
   id: string;
   name: string;
   kind: string;
-  view: "pages" | "video" | "document" | "bundle" | "none";
+  view: "pages" | "video" | "document" | "image" | "bundle" | "mixed" | "none";
   size_bytes: number;
   label: string;
   season: number | null;

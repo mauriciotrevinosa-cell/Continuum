@@ -84,9 +84,14 @@ class ProviderRegistry:
 
 
 def build_default_registry(policy: ProviderPolicy | None = None) -> ProviderRegistry:
-    """The Phase 0 registry: deterministic fakes, nothing else."""
+    """The default registry: deterministic fakes, nothing else.
+
+    Phase 1 adds the deterministic sketch renderer for rough attempts. No real
+    image model is registered or downloaded.
+    """
     from continuum_providers.fakes import (
         DeterministicEmbeddingProvider,
+        DeterministicSketchProvider,
         EchoTextProvider,
         NullImageProvider,
     )
@@ -95,4 +100,5 @@ def build_default_registry(policy: ProviderPolicy | None = None) -> ProviderRegi
     registry.register(EchoTextProvider())
     registry.register(DeterministicEmbeddingProvider())
     registry.register(NullImageProvider())
+    registry.register(DeterministicSketchProvider())
     return registry

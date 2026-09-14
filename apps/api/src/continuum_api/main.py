@@ -25,12 +25,27 @@ from contextlib import asynccontextmanager
 from continuum_config import Settings, get_settings
 from continuum_observability import configure_logging, correlation_scope, get_logger
 from continuum_providers import build_default_registry
-from continuum_storage import AcquisitionStore, MediaLibrary, ProjectLibrary, build_storage
+from continuum_storage import (
+    AcquisitionStore,
+    MediaLibrary,
+    ProjectLibrary,
+    SourceAccess,
+    build_storage,
+)
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from starlette.responses import JSONResponse
 
-from continuum_api.routers import acquisition, health, jobs, media, projects, workers
+from continuum_api.routers import (
+    acquisition,
+    health,
+    jobs,
+    library,
+    media,
+    production,
+    projects,
+    workers,
+)
 
 __all__ = ["create_app"]
 
@@ -57,6 +72,9 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     # Held media, opened by opaque id against the configured Source Vault.
     # Read-only by construction: it reads through SourceVaultReader.
     app.state.media = MediaLibrary(app.state.acquisition, settings.root("source_vault"))
+    # Held media as content-addressed reference units (pages, images, PDF
+    # pages, video instants). Read-only, over the same reader.
+    app.state.sources = SourceAccess(app.state.media, settings.root("source_vault"))
     # Projects, discovered from configured sources. None configured and none
     # found is a valid state: Continuum works with zero projects.
     app.state.projects = ProjectLibrary(settings.project_source_dirs())
@@ -128,4 +146,6 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     app.include_router(acquisition.router)
     app.include_router(media.router)
     app.include_router(projects.router)
+    app.include_router(library.router)
+    app.include_router(production.router)
     return app

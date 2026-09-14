@@ -1,0 +1,18 @@
+[project]
+name = "continuum-library"
+version = "0.0.0"
+description = "Phase 1 reference vault: catalog, inbox, character and style vaults over read-only sources."
+requires-python = ">=3.12,<3.13"
+dependencies = ["continuum-core", "continuum-config", "continuum-db", "continuum-storage", "continuum-imaging", "continuum-observability"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv.sources]
+continuum-config = { workspace = true }
+continuum-core = { workspace = true }
+continuum-db = { workspace = true }
+continuum-imaging = { workspace = true }
+continuum-observability = { workspace = true }
+continuum-storage = { workspace = true }

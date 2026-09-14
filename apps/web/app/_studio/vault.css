@@ -1,0 +1,360 @@
+/* ===========================================================================
+   Reference vault, inbox and rough production.
+   Built on the studio tokens: references are images first, their metadata
+   second; origin is always visible; regions are drawn over the real page.
+   ========================================================================= */
+
+.studio .row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+}
+.studio .stack {
+  display: grid;
+  gap: 12px;
+}
+.studio .spread {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.studio .field textarea,
+.studio .field input[type="number"],
+.studio .field input[type="search"],
+.studio .field input:not([type]) {
+  padding: 8px 12px;
+  border-radius: 9px;
+  border: 1px solid var(--hairline-2);
+  background: var(--surface-0);
+  color: var(--text);
+  font: inherit;
+}
+.studio .field input[type="number"] {
+  height: 38px;
+}
+.studio .field textarea {
+  min-height: 84px;
+  resize: vertical;
+}
+.studio .field.compact select,
+.studio .field.compact input {
+  height: 32px;
+}
+.studio .hint {
+  margin: 0;
+  font-size: 12.5px;
+  color: var(--text-3);
+}
+.studio .error-text {
+  margin: 0;
+  font-size: 13px;
+  color: var(--err);
+}
+.studio .ok-text {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ok);
+}
+.studio .panel {
+  padding: 18px 20px;
+}
+.studio .panel h3 {
+  margin: 0 0 10px;
+  font-size: 15px;
+  font-weight: 600;
+}
+.studio .two-col {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(300px, 1fr);
+  gap: 24px;
+  align-items: start;
+}
+@media (max-width: 1000px) {
+  .studio .two-col {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+.studio .toggles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.studio .toggle {
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--hairline-2);
+  background: transparent;
+  color: var(--text-3);
+  font: 12.5px/1.4 var(--display);
+  cursor: pointer;
+}
+.studio .toggle[aria-pressed="true"] {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--text);
+}
+.studio .tabs {
+  display: flex;
+  gap: 2px;
+  padding: 3px;
+  border-radius: 11px;
+  background: var(--surface-0);
+  border: 1px solid var(--hairline);
+  width: fit-content;
+}
+.studio .tabs button {
+  padding: 6px 12px;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text-3);
+  font: 13px var(--display);
+  cursor: pointer;
+}
+.studio .tabs button[aria-selected="true"] {
+  background: var(--surface-3);
+  color: var(--text);
+}
+
+/* -- reference cards ------------------------------------------------------ */
+.studio .ref-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(168px, 1fr));
+  gap: 14px;
+}
+.studio .ref-grid.small {
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 10px;
+}
+.studio .ref-card {
+  display: grid;
+  gap: 8px;
+  padding: 8px;
+  border-radius: var(--radius);
+  background: var(--surface-1);
+  border: 1px solid var(--hairline);
+  position: relative;
+}
+.studio .ref-card:hover {
+  border-color: var(--hairline-2);
+}
+.studio .ref-card[data-selected="true"] {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent-soft);
+}
+.studio .ref-thumb {
+  aspect-ratio: 3 / 4;
+  border-radius: 9px;
+  background: var(--surface-0);
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+}
+.studio .ref-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.studio .ref-thumb .muted {
+  font-size: 12px;
+  padding: 8px;
+  text-align: center;
+}
+.studio .ref-card .ref-label {
+  font-size: 12.5px;
+  line-height: 1.35;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.studio .ref-card .ref-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+.studio .star {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  font-size: 13px;
+  color: var(--warn);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
+}
+.studio .chip.tiny {
+  padding: 1px 7px;
+  font-size: 10.5px;
+}
+
+/* -- regions over a page --------------------------------------------------- */
+.studio .region-stage {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  line-height: 0;
+  user-select: none;
+  touch-action: none;
+}
+.studio .region-stage img {
+  max-width: 100%;
+  max-height: 78vh;
+  display: block;
+}
+.studio .region-stage.selecting {
+  cursor: crosshair;
+}
+.studio .region-box {
+  position: absolute;
+  border: 2px solid var(--accent);
+  background: rgba(182, 166, 255, 0.14);
+  pointer-events: none;
+}
+.studio .region-box.draft {
+  border-style: dashed;
+}
+.studio .region-box[data-kind="PRESERVE"] {
+  border-color: var(--ok);
+  background: rgba(134, 203, 164, 0.1);
+}
+.studio .region-box[data-kind="REMOVE"],
+.studio .region-box[data-kind="REMOVE_TEXT"] {
+  border-color: var(--err);
+  background: rgba(233, 138, 127, 0.16);
+}
+.studio .region-box[data-kind="PLACEMENT"] {
+  border-color: var(--info);
+  background: rgba(130, 184, 234, 0.12);
+}
+.studio .region-box b {
+  position: absolute;
+  left: 0;
+  top: -20px;
+  padding: 1px 6px;
+  border-radius: 5px;
+  background: var(--surface-3);
+  color: var(--text);
+  font: 600 10.5px/1.5 var(--display);
+  white-space: nowrap;
+}
+
+/* -- reader: add a reference ------------------------------------------------ */
+.studio .reader-picker {
+  position: fixed;
+  top: 64px;
+  right: 16px;
+  bottom: 16px;
+  width: min(380px, calc(100vw - 32px));
+  overflow: auto;
+  z-index: 40;
+  padding: 18px;
+  display: grid;
+  align-content: start;
+  gap: 14px;
+}
+.studio .picker-stage {
+  display: grid;
+  place-items: center;
+  padding: 16px;
+}
+.studio .toast {
+  position: fixed;
+  left: 50%;
+  bottom: 22px;
+  transform: translateX(-50%);
+  z-index: 60;
+  padding: 10px 16px;
+  border-radius: 12px;
+  background: var(--surface-3);
+  border: 1px solid var(--hairline-2);
+  box-shadow: var(--shadow);
+  font-size: 13.5px;
+}
+
+/* -- inbox ------------------------------------------------------------------ */
+.studio .dropzone {
+  display: grid;
+  place-items: center;
+  gap: 6px;
+  padding: 26px;
+  border-radius: var(--radius-l);
+  border: 1.5px dashed var(--hairline-2);
+  color: var(--text-2);
+  text-align: center;
+}
+.studio .dropzone[data-over="true"] {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+.studio .candidate-link {
+  font: 12px/1.35 var(--mono);
+  color: var(--text-2);
+  overflow-wrap: anywhere;
+}
+
+/* -- rough production -------------------------------------------------------- */
+.studio .attempt-strip {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 132px;
+  gap: 10px;
+  overflow-x: auto;
+  padding-bottom: 6px;
+}
+.studio .attempt-card {
+  display: grid;
+  gap: 6px;
+  padding: 6px;
+  border-radius: 12px;
+  border: 1px solid var(--hairline);
+  background: var(--surface-1);
+  text-align: left;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+.studio .attempt-card[data-selected="true"] {
+  border-color: var(--accent);
+}
+.studio .attempt-card .ref-thumb {
+  aspect-ratio: 4 / 3;
+}
+.studio .output-view img {
+  width: 100%;
+  border-radius: 12px;
+  background: #fff;
+}
+.studio .bundle-role {
+  display: grid;
+  gap: 8px;
+  padding: 12px 0;
+  border-top: 1px solid var(--hairline);
+}
+.studio .bundle-role:first-child {
+  border-top: 0;
+}
+.studio .chain {
+  margin: 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 8px;
+  font-size: 13px;
+}
+.studio .chain code {
+  overflow-wrap: anywhere;
+}
+.studio .op-list {
+  display: grid;
+  gap: 6px;
+}
+.studio .op-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px;
+  align-items: center;
+  padding: 8px 10px;
+  border-radius: 10px;
+  background: var(--surface-0);
+  border: 1px solid var(--hairline);
+  font-size: 13px;
+}

@@ -166,6 +166,17 @@ class DerivedStore:
     def read_bytes(self, root_key: str, content_hash: str) -> bytes:
         return self.path_for_hash(root_key, content_hash).path.read_bytes()
 
+    def get_bytes(self, root_key: str, content_hash: str) -> bytes:
+        """The stored bytes for a digest, verified against it on the way out.
+
+        The counterpart of :meth:`put_bytes` for callers above storage: a
+        corrupted or substituted artifact is refused rather than served.
+        """
+        data = self.path_for_hash(root_key, content_hash).path.read_bytes()
+        if content_hash_bytes(data) != content_hash:
+            raise ValueError(f"stored artifact does not match its address: {content_hash}")
+        return data
+
     def verify(self, root_key: str, content_hash: str) -> bool:
         """Re-hash stored content and confirm it still matches its address.
 

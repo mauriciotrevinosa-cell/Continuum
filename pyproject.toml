@@ -9,11 +9,14 @@ license = { text = "UNLICENSED" }
 # environment with all packages installed editable.
 dependencies = [
     "continuum-core",
+    "continuum-imaging",
     "continuum-observability",
     "continuum-config",
     "continuum-storage",
     "continuum-db",
     "continuum-jobs",
+    "continuum-library",
+    "continuum-production",
     "continuum-providers",
     "continuum-api",
     "continuum-worker",
@@ -36,11 +39,14 @@ members = ["packages/*", "apps/api", "workers/runner"]
 
 [tool.uv.sources]
 continuum-core = { workspace = true }
+continuum-imaging = { workspace = true }
 continuum-observability = { workspace = true }
 continuum-config = { workspace = true }
 continuum-storage = { workspace = true }
 continuum-db = { workspace = true }
 continuum-jobs = { workspace = true }
+continuum-library = { workspace = true }
+continuum-production = { workspace = true }
 continuum-providers = { workspace = true }
 continuum-api = { workspace = true }
 continuum-worker = { workspace = true }
@@ -89,6 +95,12 @@ exclude = ["packages/db/src/continuum_db/migrations/versions/.*"]
 module = ["tests.*"]
 strict = false
 disallow_untyped_defs = false
+
+# pi-heif ships no type information; it is only registered as a Pillow opener
+# inside continuum_imaging.
+[[tool.mypy.overrides]]
+module = ["pi_heif"]
+ignore_missing_imports = true
 
 # ---------------------------------------------------------------------------
 # Tests

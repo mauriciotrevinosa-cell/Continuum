@@ -1,0 +1,307 @@
+"""Rendering one rough attempt - the worker side of the pipeline.
+
+Called by the ``visual.rough_attempt`` job handler inside the job's session.
+Every effect is repeat-safe (ADR-0002 section 2):
+
+* bytes land content-addressed under ``generated/``, so a re-run after a crash
+  rewrites nothing;
+* the attempt's rows (derivatives, output hash, GENERATED state) are written
+  into the job's session and committed only with the step completion, under
+  the worker's ownership lock - a worker that lost the job commits none of it;
+* an attempt that is no longer QUEUED is returned as-is.
+
+What blocks instead of failing, with remediation:
+
+* no permitted ROUGH_RENDER provider (policy decides; never a paid fallback);
+* a source plate or reference whose bytes are not reachable or have changed.
+
+The source is read, never written: plates are read through the catalog's
+read-only source access, and the crop, mask and output are new artifacts.
+"""
+
+from __future__ import annotations
+
+import datetime as dt
+import uuid
+from typing import Any
+
+from continuum_core import (
+    BlockedReason,
+    ContinuumError,
+    ErrorCategory,
+    NormalizedRegion,
+    parse_locator,
+)
+from continuum_core.references import (
+    AssetMedium,
+    AssetOrigin,
+    AttemptState,
+    BundleRole,
+    DerivativeKind,
+)
+from continuum_db.models import (
+    AttemptDerivative,
+    AttemptInput,
+    GenerationRecipe,
+    LibraryAsset,
+    RoughArtifact,
+    RoughAttempt,
+)
+from continuum_imaging import crop_region, mask_from_regions, probe
+from continuum_library import CatalogNotFoundError, ReferenceCatalog, region_of
+from continuum_providers import (
+    Capability,
+    DataClass,
+    ProviderRegistry,
+    RoughEditOperation,
+    RoughPlacement,
+    RoughReference,
+    RoughRenderRequest,
+)
+from continuum_storage import SourceChangedError, SourceUnavailableError
+from sqlalchemy import select
+from sqlalchemy.orm import Session
+
+from continuum_production.recipe import CHANGING
+
+__all__ = ["SourceAssetMissingError", "render_attempt"]
+
+GENERATED_ROOT = "generated"
+
+
+class SourceAssetMissingError(ContinuumError):
+    """A bundle member's bytes cannot be read; the attempt waits, it does not fail."""
+
+    code = "production.source_missing"
+    category = ErrorCategory.PERMANENT_CONFIG
+
+
+def render_attempt(
+    session: Session,
+    attempt_id: uuid.UUID,
+    *,
+    catalog: ReferenceCatalog,
+    providers: ProviderRegistry,
+) -> dict[str, Any]:
+    attempt = session.execute(
+        select(RoughAttempt).where(RoughAttempt.id == attempt_id)
+    ).scalar_one_or_none()
+    if attempt is None:
+        raise CatalogNotFoundError("That attempt does not exist.")
+    if attempt.state is not AttemptState.QUEUED:
+        return {"attempt_id": str(attempt.id), "content_hash": attempt.content_hash, "rerun": True}
+    if catalog.derived is None:
+        raise SourceAssetMissingError("Writable storage is not configured for rendering.")
+
+    recipe = session.get(GenerationRecipe, attempt.recipe_id)
+    artifact = session.get(RoughArtifact, attempt.artifact_id)
+    assert recipe is not None and artifact is not None
+    intent, execution = recipe.intent, recipe.execution
+    inputs = list(
+        session.execute(
+            select(AttemptInput)
+            .where(AttemptInput.attempt_id == attempt.id)
+            .order_by(AttemptInput.position)
+        ).scalars()
+    )
+
+    data_class = DataClass.SOURCE_EXCERPT if inputs else DataClass.PROJECT_TEXT
+    # Raises ProviderUnavailableError carrying blocked_reason: the job parks.
+    provider = providers.resolve(Capability.ROUGH_RENDER, data_class)
+
+    loaded = {row.position: _input_bytes(session, catalog, row) for row in inputs}
+    plate_row = next((row for row in inputs if row.role is BundleRole.SOURCE_PLATE), None)
+    raw_crop = intent.get("plate_region")
+    plate_region = NormalizedRegion(**raw_crop) if raw_crop else None
+    if plate_row is not None and plate_region is None:
+        plate_region = region_of(plate_row)
+
+    operations = tuple(
+        RoughEditOperation(
+            kind=op["kind"],
+            region=NormalizedRegion(**op["region"]),
+            label=_operation_label(op, intent),
+        )
+        for op in intent.get("operations") or []
+    )
+    placements = tuple(
+        RoughPlacement(region=NormalizedRegion(**p["region"]), label=_placement_label(p, intent))
+        for p in intent.get("placements") or []
+    )
+
+    derivatives: list[tuple[DerivativeKind, bytes, dict[str, Any]]] = []
+    plate_bytes: bytes | None = None
+    mask_bytes: bytes | None = None
+    if plate_row is not None:
+        plate_bytes = loaded[plate_row.position]
+        crop = crop_region(plate_bytes, plate_region)
+        derivatives.append(
+            (
+                DerivativeKind.SOURCE_CROP,
+                crop.data,
+                {"input_position": plate_row.position, "locator": plate_row.locator},
+            )
+        )
+        changing = [op.region for op in operations if op.kind in {k.value for k in CHANGING}]
+        if changing:
+            mask = mask_from_regions(crop.width, crop.height, changing)
+            mask_bytes = mask.data
+            derivatives.append(
+                (
+                    DerivativeKind.MASK,
+                    mask.data,
+                    {"operations": [op.kind for op in operations], "coordinates": "plate_crop"},
+                )
+            )
+
+    target = intent["target"]
+    where = f"{target['episode']} p{target['page']}" + (
+        f" panel {target['panel']}" if target.get("panel") else ""
+    )
+    result = provider.render_rough(  # type: ignore[attr-defined]
+        RoughRenderRequest(
+            data_class=data_class,
+            mode=intent["mode"],
+            width=int(execution["width"]),
+            height=int(execution["height"]),
+            seed=int(execution["seed"]),
+            # From the recipe only: the same recipe and seed give the same pixels.
+            title=f"{target['project_key']} {where}",
+            workflow=str(execution["workflow"]),
+            lines=tuple(_lines(intent)),
+            plate=plate_bytes,
+            plate_region=plate_region,
+            mask=mask_bytes,
+            operations=operations,
+            placements=placements,
+            references=tuple(
+                RoughReference(
+                    role=row.role.value,
+                    label=row.label or row.role.value.lower(),
+                    data=loaded[row.position],
+                    region=region_of(row),
+                )
+                for row in inputs
+                if row.role is not BundleRole.SOURCE_PLATE
+            ),
+            options={
+                key: execution.get(key)
+                for key in ("strength", "inpaint", "control_inputs", "compositing")
+            },
+        )
+    )
+    info = probe(result.image)
+    derivatives.append(
+        (
+            DerivativeKind.OUTPUT,
+            result.image,
+            {
+                "rendered_with": {
+                    "provider_id": result.provider_id,
+                    "model_ref": result.model_ref,
+                    "version": result.version,
+                    "workflow": result.workflow,
+                },
+                "requested_provider": execution.get("requested_provider"),
+            },
+        )
+    )
+
+    output_hash = ""
+    for kind, data, detail in derivatives:
+        image = probe(data)
+        stored = catalog.store_bytes(
+            data, root_key=GENERATED_ROOT, medium=AssetMedium.IMAGE, origin=AssetOrigin.GENERATED
+        )
+        exists = session.execute(
+            select(AttemptDerivative.id).where(
+                AttemptDerivative.attempt_id == attempt.id,
+                AttemptDerivative.kind == kind,
+                AttemptDerivative.content_hash == stored.content_hash,
+            )
+        ).scalar_one_or_none()
+        if exists is None:
+            session.add(
+                AttemptDerivative(
+                    attempt_id=attempt.id,
+                    kind=kind,
+                    content_hash=stored.content_hash,
+                    mime=image.mime,
+                    width=image.width,
+                    height=image.height,
+                    detail=detail,
+                )
+            )
+        if kind is DerivativeKind.OUTPUT:
+            output_hash = stored.content_hash
+
+    attempt.state = AttemptState.GENERATED
+    attempt.content_hash = output_hash
+    attempt.mime = info.mime
+    attempt.width = info.width
+    attempt.height = info.height
+    attempt.generated_at = dt.datetime.now(dt.UTC)
+    session.flush()
+    return {
+        "attempt_id": str(attempt.id),
+        "content_hash": output_hash,
+        "provider_id": result.provider_id,
+        "rerun": False,
+    }
+
+
+def _input_bytes(session: Session, catalog: ReferenceCatalog, row: AttemptInput) -> bytes:
+    """A bundle member's unit bytes, from its snapshotted locator."""
+    locator = row.locator
+    digest = locator.split(":sha256:", 1)[1][:64] if ":sha256:" in locator else ""
+    if not locator.startswith("gen:"):
+        parse_locator(locator)
+    asset = session.execute(
+        select(LibraryAsset).where(LibraryAsset.content_hash == digest)
+    ).scalar_one_or_none()
+    try:
+        if asset is None:
+            raise CatalogNotFoundError("The reference's bytes are not recorded.")
+        return catalog.asset_bytes(asset, locator)
+    except (CatalogNotFoundError, SourceChangedError, SourceUnavailableError) as exc:
+        raise SourceAssetMissingError(
+            f"A {row.role.value.lower().replace('_', ' ')} reference is not reachable.",
+            technical_detail=f"position={row.position} locator={locator} ({exc.code})",
+            remediation=(
+                "Connect the Source Vault and rescan the Library, or replace the reference "
+                "and regenerate. The attempt keeps waiting; nothing was lost."
+            ),
+            blocked_reason=BlockedReason.MISSING_SOURCE_ASSET.value,
+            input_position=row.position,
+        ) from None
+
+
+def _operation_label(op: dict[str, Any], intent: dict[str, Any]) -> str:
+    parts = [op.get("label") or ""]
+    names = {c["character_id"]: c["name"] for c in intent.get("characters") or []}
+    if op.get("character_id") in names:
+        parts.append(names[op["character_id"]])
+    if op.get("text"):
+        parts.append(f'"{op["text"]}"')
+    return " ".join(p for p in parts if p).strip()
+
+
+def _placement_label(placement: dict[str, Any], intent: dict[str, Any]) -> str:
+    names = {c["character_id"]: c["name"] for c in intent.get("characters") or []}
+    name = names.get(placement.get("character_id") or "", "")
+    return " ".join(p for p in (placement.get("label") or "", name) if p).strip()
+
+
+def _lines(intent: dict[str, Any]) -> list[str]:
+    lines = []
+    for character in intent.get("characters") or []:
+        text = character["name"]
+        if character.get("outfit_name"):
+            text += f" in {character['outfit_name']}"
+        if character.get("visual_mode_name"):
+            text += f" [{character['visual_mode_name']}]"
+        lines.append(text)
+    modes = sorted({m["name"] for m in intent.get("visual_modes") or []})
+    if modes:
+        lines.append("modes: " + ", ".join(modes))
+    return lines[:4]

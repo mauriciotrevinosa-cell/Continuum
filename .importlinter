@@ -11,11 +11,14 @@
 include_external_packages = True
 root_packages =
     continuum_core
+    continuum_imaging
     continuum_config
     continuum_observability
     continuum_storage
     continuum_db
     continuum_jobs
+    continuum_library
+    continuum_production
     continuum_providers
     continuum_api
     continuum_worker
@@ -29,10 +32,13 @@ type = forbidden
 allow_indirect_imports = True
 source_modules =
     continuum_core
+    continuum_imaging
     continuum_config
     continuum_observability
     continuum_db
     continuum_jobs
+    continuum_library
+    continuum_production
     continuum_providers
     continuum_api
     continuum_worker
@@ -52,11 +58,14 @@ type = forbidden
 source_modules =
     continuum_core
 forbidden_modules =
+    continuum_imaging
     continuum_config
     continuum_observability
     continuum_storage
     continuum_db
     continuum_jobs
+    continuum_library
+    continuum_production
     continuum_providers
     continuum_api
     continuum_worker
@@ -66,9 +75,11 @@ name = Package layering
 type = layers
 layers =
     continuum_api | continuum_worker
+    continuum_production
+    continuum_library
     continuum_jobs
     continuum_db | continuum_storage | continuum_providers
-    continuum_config
+    continuum_config | continuum_imaging
     continuum_observability
     continuum_core
 

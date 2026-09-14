@@ -15,6 +15,13 @@ version, wrap it behind an adapter, add a smoke/contract test, record it here.
 Google, Cohere, Mistral, torch, transformers, faster-whisper, ctranslate2,
 llama-cpp or ollama. Not one.
 
+Phase 1 keeps that true. Its rough renderer is `fake.deterministic-sketch`, a
+Pillow drawing of the recipe registered under `Capability.ROUGH_RENDER`; no
+ComfyUI, no Remotion, no model weights. Phase 1 adds no third-party package
+other than Pillow and the decode-only HEIF reader `pi-heif` (below);
+`continuum_library` and `continuum_production` are
+workspace packages.
+
 That is deliberate (D-12), and it is what makes acceptance test **§110.12**
 ("providers work with a no-op/local fake; no paid/cloud credentials are
 required") verifiable *from this file* rather than by auditing code paths.
@@ -45,6 +52,21 @@ releases by 6–18 months, so 3.13/3.14 would force a downgrade later).
 | `mako` | 1.4.1 | MIT | Alembic's template engine (transitive) |
 | `psycopg[binary]` | 3.3.5 | LGPL-3.0 | PostgreSQL driver |
 | `greenlet` | 3.5.5 | MIT | SQLAlchemy async support (transitive) |
+| `pillow` | 12.3.0 | MIT-CMU (HPND) | Phase 1, `continuum_imaging` only: decodes reference images and pages from bytes (format allowlist, 120 MP limit), crops regions, masks, previews and the deterministic rough sketch. Never given a path; no network, no model |
+| `pi-heif` | 1.4.0 (bundles libheif 1.23.0, libde265 1.1.1) | BSD-3-Clause (Python code); **LGPL-3.0** (binary wheels, because of libheif and libde265) | Phase 1 audit correction, `continuum_imaging` only: decodes HEIC/HEIF stills so they can enter the Reference Inbox. Decode-only build of `pillow-heif` - it carries **no x265 (GPL) encoder**. Registered with thumbnails, depth and auxiliary images disabled; libheif's security limits stay on. A HEIF original is kept exactly as received and the vault works from a deterministic PNG rendition, so nothing downstream depends on the decoder |
+
+### A note on `pi-heif`, HEVC and the LGPL
+
+No permissively licensed HEVC decoder exists for Python; every HEIC decoder in
+practice is libheif + libde265 (LGPL-3.0). `pi-heif` ships them as separate
+shared libraries loaded at run time, so the LGPL analysis below for `psycopg`
+applies unchanged: a user can replace them, and no obligation attaches to
+Continuum's own code. HEVC is also patent-encumbered; decoding personal images
+locally is the only use here, and the dependency must be revisited - with
+`psycopg` - before any binary distribution. If the decoder is absent, HEIC is
+still recognised by signature and refused with a remediation, never dropped.
+The committed test fixture was encoded once with `pillow-heif` in a throwaway
+environment (`fixtures/images/README.md`); the GPL encoder is not a dependency.
 
 ### A note on `psycopg` and the LGPL
 

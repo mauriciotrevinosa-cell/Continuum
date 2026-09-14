@@ -12,11 +12,15 @@ owns filesystem access (ADR-0001 Layer 3) and feeds chunks in.
 from __future__ import annotations
 
 import hashlib
+import json
 from collections.abc import Iterable
+from typing import Any
 
 __all__ = [
     "CHUNK_BYTES",
     "FANOUT",
+    "canonical_json",
+    "canonical_json_hash",
     "content_hash_bytes",
     "content_hash_stream",
     "fanout_segments",
@@ -69,3 +73,19 @@ def fanout_segments(content_hash: str) -> tuple[str, str]:
     if not is_sha256_hex(content_hash):
         raise ValueError(f"not a lowercase hex sha256 digest: {content_hash!r}")
     return content_hash[:FANOUT], content_hash
+
+
+def canonical_json(value: Any) -> bytes:
+    """A stable byte encoding of JSON-compatible data (sorted keys, no spacing).
+
+    Used for recipe intent and execution hashes (ADR-0005 section 3): equal
+    recipes hash equally regardless of key order or the process that built them.
+    """
+    return json.dumps(
+        value, sort_keys=True, separators=(",", ":"), ensure_ascii=False, allow_nan=False
+    ).encode("utf-8")
+
+
+def canonical_json_hash(value: Any) -> str:
+    """SHA-256 of :func:`canonical_json`."""
+    return content_hash_bytes(canonical_json(value))

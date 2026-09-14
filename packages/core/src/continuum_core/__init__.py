@@ -17,6 +17,8 @@ from continuum_core.errors import (
 )
 from continuum_core.hashing import (
     CHUNK_BYTES,
+    canonical_json,
+    canonical_json_hash,
     content_hash_bytes,
     content_hash_stream,
     fanout_segments,
@@ -30,6 +32,13 @@ from continuum_core.jobstates import (
     JobStatus,
     StepStatus,
 )
+from continuum_core.locators import (
+    InvalidLocatorError,
+    LocatorMedium,
+    NormalizedRegion,
+    SourceLocator,
+    parse_locator,
+)
 from continuum_core.timeaxes import FuzzyInstant, TimeAxis, TimePrecision, utc_now
 
 __all__ = [
@@ -40,20 +49,27 @@ __all__ = [
     "ErrorCategory",
     "FuzzyInstant",
     "IllegalTransitionError",
+    "InvalidLocatorError",
     "JobEventType",
     "JobStatus",
+    "LocatorMedium",
+    "NormalizedRegion",
     "PathEscapesRootError",
     "PolicyViolationError",
     "ProviderUnavailableError",
+    "SourceLocator",
     "StepStatus",
     "StructuredError",
     "TimeAxis",
     "TimePrecision",
     "VaultWriteAttemptedError",
+    "canonical_json",
+    "canonical_json_hash",
     "content_hash_bytes",
     "content_hash_stream",
     "fanout_segments",
     "is_sha256_hex",
+    "parse_locator",
     "utc_now",
     "uuid7",
     "uuid7_timestamp_ms",

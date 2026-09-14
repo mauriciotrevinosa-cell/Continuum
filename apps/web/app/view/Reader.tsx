@@ -2,6 +2,10 @@
 
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useState } from "react";
+import type { Region } from "@/lib/regions";
+import type { CharacterSummary, VisualMode } from "@/lib/vault";
+import { AddReference, type ProjectChoice } from "../library/_vault/AddReference";
+import { RegionSelector } from "../library/_vault/RegionSelector";
 
 /** "Ch0003" -> "Chapter 3"; any other folder name is shown as it is. */
 function chapterName(label: string): string {
@@ -32,6 +36,9 @@ export function Reader({
   backHref,
   previousHref,
   nextHref,
+  characters = [],
+  modes = [],
+  projects = [],
 }: {
   mediaId: string;
   total: number;
@@ -40,8 +47,13 @@ export function Reader({
   backHref: string;
   previousHref: string | null;
   nextHref: string | null;
+  characters?: CharacterSummary[];
+  modes?: VisualMode[];
+  projects?: ProjectChoice[];
 }) {
   const [page, setPage] = useState(0);
+  const [picking, setPicking] = useState(false);
+  const [region, setRegion] = useState<Region | null>(null);
   const [fit, setFit] = useState<"height" | "width">("height");
   const [failed, setFailed] = useState(false);
 
@@ -55,6 +67,7 @@ export function Reader({
       const next = Math.max(0, Math.min(total - 1, to));
       setPage(next);
       setFailed(false);
+      setRegion(null);
       window.history.replaceState(null, "", `#p${next + 1}`);
     },
     [total],
@@ -62,7 +75,14 @@ export function Reader({
 
   useEffect(() => {
     const onKey = (event: KeyboardEvent) => {
-      if (event.target instanceof HTMLSelectElement) return;
+      const target = event.target;
+      if (
+        target instanceof HTMLSelectElement ||
+        target instanceof HTMLInputElement ||
+        target instanceof HTMLTextAreaElement
+      ) {
+        return;
+      }
       if (event.key === "ArrowRight" || event.key === "PageDown" || event.key === " ") {
         event.preventDefault();
         go(page + 1);
@@ -115,6 +135,17 @@ export function Reader({
               </select>
             </>
           ) : null}
+          <button
+            className={`button small${picking ? " primary" : " ghost"}`}
+            type="button"
+            aria-pressed={picking}
+            onClick={() => {
+              setPicking(!picking);
+              setRegion(null);
+            }}
+          >
+            {picking ? "Done adding" : "Add reference"}
+          </button>
           <button className="button small ghost" type="button" onClick={() => setFit(fit === "height" ? "width" : "height")}>
             Fit {fit === "height" ? "width" : "height"}
           </button>
@@ -124,7 +155,7 @@ export function Reader({
         </div>
       </header>
 
-      <div className={`page-stage fit-${fit}`}>
+      <div className={`page-stage fit-${fit}`} style={picking ? { paddingRight: 420 } : undefined}>
         <button className="page-turn prev" type="button" onClick={() => go(page - 1)} disabled={page === 0} aria-label="Previous page">
           ‹
         </button>
@@ -133,6 +164,16 @@ export function Reader({
             <h3>This page couldn&apos;t be shown</h3>
             <p>The image may be damaged or in a format the browser can&apos;t display.</p>
           </div>
+        ) : picking ? (
+          <RegionSelector
+            key={page}
+            src={`/media/${mediaId}/page/${page}`}
+            alt={`Page ${page + 1} of ${total}`}
+            selecting
+            draft={region}
+            onSelect={setRegion}
+            onError={() => setFailed(true)}
+          />
         ) : (
           // eslint-disable-next-line @next/next/no-img-element -- pages are private local bytes, not optimisable assets
           <img
@@ -147,6 +188,18 @@ export function Reader({
           ›
         </button>
       </div>
+
+      {picking ? (
+        <AddReference
+          mediaId={mediaId}
+          page={page}
+          region={region}
+          onClearRegion={() => setRegion(null)}
+          characters={characters}
+          modes={modes}
+          projects={projects}
+        />
+      ) : null}
 
       <footer className="viewer-foot">
         {previousHref ? (

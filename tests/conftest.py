@@ -6,6 +6,7 @@ them): building a hostile directory tree is exactly what these tests are for.
 
 from __future__ import annotations
 
+import functools
 import os
 import shutil
 import sys
@@ -143,12 +144,53 @@ def snapshot_tree() -> Iterator[object]:
     yield snapshot
 
 
+#: The database the suite runs against. **Never the application's database**:
+#: from Phase 1 on PostgreSQL holds the user's curated reference catalog, and
+#: the suite deletes job rows and drops every table in the migration round
+#: trip. The name must end in ``_test`` or the suite refuses to use it.
+TEST_DATABASE_URL = os.environ.get(
+    "CONTINUUM_TEST_DATABASE_URL",
+    "postgresql+psycopg://continuum:continuum_local_dev@127.0.0.1:5433/continuum_test",
+)
+
+
+@functools.lru_cache(maxsize=1)
 def database_available() -> tuple[bool, str]:
-    """Whether a live PostgreSQL is reachable for the DB-dependent suite."""
-    from continuum_db.session import database_is_reachable, reset_engine
+    """Whether the isolated test database is reachable, created and migrated."""
+    import subprocess
+
+    from continuum_db.session import reset_engine
+    from sqlalchemy import create_engine, text
+    from sqlalchemy.engine import make_url
 
     reset_engine()
-    return database_is_reachable(Settings(_env_file=None, data_home=str(REPO_ROOT)))
+    url = make_url(TEST_DATABASE_URL)
+    name = url.database or ""
+    if not name.endswith("_test") or not name.replace("_", "").isalnum():
+        return False, f"refusing to run the suite against database {name!r} (must end in _test)"
+    try:
+        admin = create_engine(url.set(database="postgres"), isolation_level="AUTOCOMMIT")
+        with admin.connect() as connection:
+            exists = connection.execute(
+                text("SELECT 1 FROM pg_database WHERE datname = :name"), {"name": name}
+            ).scalar()
+            if not exists:
+                connection.execute(text(f'CREATE DATABASE "{name}"'))
+        admin.dispose()
+    except Exception as exc:
+        return False, type(exc).__name__
+    migrated = subprocess.run(
+        [sys.executable, "-m", "alembic", "upgrade", "head"],
+        cwd=REPO_ROOT,
+        env={**os.environ, "CONTINUUM_DATABASE_URL": TEST_DATABASE_URL},
+        capture_output=True,
+        text=True,
+        check=False,
+        timeout=300,
+    )
+    if migrated.returncode != 0:
+        return False, f"migrating the test database failed: {migrated.stderr[-400:]}"
+    return True, "ok"
 
 
 @pytest.fixture(scope="session")
@@ -170,6 +212,7 @@ def db_settings(tmp_path_factory: pytest.TempPathFactory) -> Settings:
         _env_file=None,
         data_home=str(home),
         source_vault_root=str(DEMO_VAULT),
+        database_url=TEST_DATABASE_URL,
     )
 
 

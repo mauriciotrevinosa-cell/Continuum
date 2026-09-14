@@ -10,6 +10,12 @@ from continuum_providers.contracts import (
     PrivacyClass,
     Provider,
     ProviderDescriptor,
+    RoughEditOperation,
+    RoughPlacement,
+    RoughReference,
+    RoughRenderProvider,
+    RoughRenderRequest,
+    RoughRenderResult,
 )
 from continuum_providers.policy import PolicyDecision, ProviderPolicy, profile_allows
 from continuum_providers.registry import ProviderRegistry, build_default_registry
@@ -27,6 +33,12 @@ __all__ = [
     "ProviderDescriptor",
     "ProviderPolicy",
     "ProviderRegistry",
+    "RoughEditOperation",
+    "RoughPlacement",
+    "RoughReference",
+    "RoughRenderProvider",
+    "RoughRenderRequest",
+    "RoughRenderResult",
     "build_default_registry",
     "profile_allows",
 ]

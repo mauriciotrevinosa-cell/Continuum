@@ -1,4 +1,5 @@
 import "../_studio/studio.css";
+import "../_studio/vault.css";
 
 /**
  * The viewer is immersive: no sidebar, no section bar - the work fills the

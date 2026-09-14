@@ -128,6 +128,8 @@ class JobContext:
     #: and provider modules; only durable *coordination* is PostgreSQL-only.
     derived: Any = None
     providers: Any = None
+    #: The worker's settings, for handlers that open read-only sources.
+    settings: Any = None
 
     def latest_checkpoint(self) -> dict[str, Any] | None:
         row = self.session.execute(
@@ -239,6 +241,7 @@ def execute_job(
         correlation_id=job.correlation_id,
         derived=derived,
         providers=providers,
+        settings=settings,
     )
 
     with correlation_scope(job.correlation_id):

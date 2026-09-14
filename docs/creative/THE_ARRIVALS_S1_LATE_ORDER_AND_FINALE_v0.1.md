@@ -1,80 +1,142 @@
 # The Arrivals — S1 Late Order & Finale v0.1
 
-**Status:** APPROVED ORDERING DECISION / FINALE DIRECTION
-**Date:** 2026-09-14
-**Project:** `The Arrivals`
+**Status:** APPROVED ORDERING DECISION / FINALE DIRECTION  
+**Date:** 2026-09-14  
+**Project:** `The Arrivals`  
 **Branch:** `creative/s1-season-board-v0.1`
 
 ## Approved late-S1 order
 
-After S1E16 `The World Opens`, the current approved order is:
+After S1E16 `The World Opens`, the approved order is now:
 
 - **S1E17 — Guild Jobs / Working Days**
 - **S1E18 — Day in the Life / Maomao Chocolate**
-- **S1E19 — G3 / First Days / Three Roads**
-- **S1E20 — Road Days / Campfire + Season Finale Sting**
+- **S1E19 — G3 / Road Days / Season Finale**
 
-This establishes a current working Season 1 count of **20 full episodes**, with Sukuna's `Malevolent Shrine` sequence functioning as the final season beat inside / after E20 rather than as a standalone Episode 21.
+This establishes the current working Season 1 count as **19 full episodes**.
 
-## Why this order works
+The previously separate `G3 / First Days / Three Roads` and `Road Days / Campfire` episode units are now merged into one longer S1E19. Sukuna's `Malevolent Shrine` sequence is the final sting inside E19 rather than a separate E20.
 
-### E17 — Guild Jobs / Working Days
+## Terminology
 
-Direct continuation of E16. The group has just discovered the mercantile town, guild, money, and native economy, so this episode proves those systems are now part of daily life rather than exposition only.
+- `G1` = Group 1.
+- `G2` = Group 2.
+- `G3` = Group 3 only.
+- `G1+G2` = the first two groups together after they form the shared household.
 
-### E18 — Day in the Life / Maomao Chocolate
+## E17 — Guild Jobs / Working Days
 
-A domestic / OVA-like episode after the world has opened and the group has an established routine, access to trade, and a functioning home. It acts as a final large dose of ordinary household life before the season shifts attention toward G3 and the S2 bridge.
+Direct continuation of E16. The group has just discovered the mercantile town, guild, money, and native economy, so E17 proves those systems are now part of daily life rather than exposition only.
 
-### E19 — G3 / First Days / Three Roads
+Approved emphasis:
 
-Introduces G3 in their separate routes / groupings and gives each thread enough room to establish personality and circumstance before the season finale.
+- multi-day guild work;
+- many different character pairings, including combinations that have had little shared screen time;
+- familiar pairings still appear where appropriate;
+- not everyone goes on every mission;
+- Maomao can stay behind making medicines / processing materials;
+- Momo, while still without her powers, can contribute through cooking / practical household work;
+- Rimuru sometimes goes out but often remains behind coordinating the inn, repairs, supplies, infrastructure, and budget;
+- Frieren/Fern overprotection heals visibly in stages;
+- at night, everyone eventually gathers to eat together despite spending the day apart;
+- money and home upgrades feel earned.
 
-### E20 — Road Days / Campfire + Season Finale Sting
+Full approved structure: `THE_ARRIVALS_S1_E17_E19_RAPID_STRUCTURAL_REVIEW_v0.1.md`.
 
-E20 is intentionally allowed to be longer than a normal episode if the story needs it.
+## E18 — Day in the Life / Maomao Chocolate
 
-It should function as a true season finale rather than merely a travel episode.
+A domestic / OVA-like episode after the world has opened and the household has an established routine.
 
-Current approved finale direction:
+Approved emphasis:
 
-1. **G1+G2 closing movement**
-   - conclude their current late-S1 ordinary-life / work section;
-   - they return to the inn / home;
-   - give the audience a grounded sense that the first household is stable, active, and living normally.
+- use underexplored pairings and ordinary household combinations;
+- examples include Momo asking Mau for help and Maomao spending time with Bocchi;
+- preserve Yuta/Anko, Fern/Frieren, Rimuru household-accounting, Mau helping different people, and other character-specific interactions;
+- retain the approved Maomao chocolate / lowered-inhibition Frieren comedy spine;
+- the effect does not create feelings from nothing and does not force a romance label;
+- end on Frieren's embarrassed `That never happened` gag.
 
-2. **G3 road-night movement**
-   - continue the Road Days / Campfire material;
-   - show G3 groups settling for the night, sleeping at campfires / roadside camps, and moving through the medieval trade network;
-   - preserve the feeling that they are getting closer to the mercantile region without merging with G1+G2 in S1.
+Full approved structure: `THE_ARRIVALS_S1_E17_E19_RAPID_STRUCTURAL_REVIEW_v0.1.md`.
 
-3. **Sukuna POV shift**
-   - hard tonal / spatial cut away from both protagonist groups;
-   - shift to Sukuna in the middle of the day in the major native city / regional city tied to the wider trade world;
-   - exact clock continuity with the immediately preceding campfire scene does not need to be implied unless later story/calendar work intentionally locks it; this can be a deliberate perspective/time shift.
+## E19 — G3 / Road Days / Season Finale
 
-4. **Final season beat — Yuta-triggered impulse**
-   - Sukuna senses / recognizes Yuta's cursed-energy presence strongly enough to understand that Yuta is also in this world;
-   - this recognition matters causally: the destruction is **not** framed as Sukuna using Malevolent Shrine for no reason;
-   - sensing Yuta produces an impulsive, aggressive reaction in Sukuna, carrying emotional momentum from their prior conflict / his existing attitude toward Yuta;
-   - Sukuna's reaction remains:
+E19 is intentionally longer if required by the story.
 
-> **“So that brat is here.”**
+### Intercut structure — important
 
-   - in that impulse, Sukuna uses **Domain Expansion: Malevolent Shrine**;
-   - the city catastrophe becomes the final image / sequence of Season 1.
+E19 is **not** structured as `G3 Part A` followed by `Road Days Part B`.
 
-## Sukuna realization after the impulse — S1→S2 bridge
+Instead, intercut meaningful blocks between:
 
-Very shortly after the destructive impulse, Sukuna begins to notice that something is wrong with the situation itself.
+- G1+G2 ordinary late-season life;
+- G3 arrival / road threads;
+- G3 travel / campfire material;
+- final G1+G2 home-night routine;
+- Sukuna finale.
 
-The environment does not feel like the place / circumstances of the battle he remembers. The surrounding world, atmosphere, context, and broader situation are different enough that he understands he is **not simply continuing the same fight in the same location**.
+A rough rhythm may be short G1+G2 material followed by longer G3 material and then back again, but exact minutes are not locked.
 
-This realization should not remove the damage already done. The catastrophe has happened because Sukuna reacted before fully assessing where he was.
+### G3
 
-Once Sukuna understands that the world is different, he becomes more deliberate and suppresses / conceals his cursed-energy presence rather than continuing to broadcast it openly.
+Current G3 roster:
 
-This creates the intended bridge into early S2:
+- Mikasa;
+- Okarun;
+- Umaru;
+- Kita;
+- Marin;
+- Wakana Gojo;
+- Qifrey;
+- Coco.
+
+Favored groups remain:
+
+- Okarun + Umaru + Kita;
+- Coco + Qifrey + Wakana + Marin;
+- Mikasa initially alone.
+
+Late resting images may show:
+
+- Mikasa resting alone in a tree / elevated protected position;
+- Qifrey/Coco/Wakana/Marin around a campfire / traveler camp;
+- Okarun/Umaru/Kita already resting with or near the merchant / caravan.
+
+Frieren is not part of these G3 camp scenes; she belongs to G1+G2.
+
+### Final G1+G2 peace movement
+
+After the G3 camp/rest images, cut back to G1+G2 arriving at / settling into the inn for the night.
+
+The emotional feeling is ordinary peace rather than explicit foreshadowing.
+
+Show nighttime routine and natural relationship groupings, for example:
+
+- Fern talking quietly with Bocchi;
+- Mau + Frieren in their established nighttime orbit;
+- Momo + Maomao may share a room / sleeping space if the detailed pass supports it;
+- Yuta alone;
+- Anko alone;
+- lamps going out / supplies being put away / quiet routines.
+
+This is the last peaceful image of the main household before Sukuna.
+
+## Sukuna final season beat — Yuta-triggered impulse
+
+Hard cut from the quiet nighttime household to Sukuna in the middle of the day in the major regional city. Exact clock continuity is not required; this is a deliberate POV/time shift.
+
+Sequence:
+
+1. Sukuna senses Yuta's cursed-energy presence.
+2. Recognition hits.
+3. **“So that brat is here.”**
+4. Sensing Yuta triggers an impulsive aggressive response carrying emotional momentum from their prior conflict / Sukuna's existing attitude toward him.
+5. Sukuna uses **Domain Expansion: Malevolent Shrine**.
+6. Catastrophe.
+7. Very shortly afterward Sukuna begins to notice that the architecture, people, atmosphere, and world context are wrong for the battle / place he remembers.
+8. He realizes he is not simply continuing the same fight in the same location.
+9. Sukuna becomes more deliberate and suppresses / conceals his cursed-energy presence.
+
+This produces the intended S1→S2 bridge:
 
 ```text
 Sukuna senses Yuta
@@ -82,41 +144,28 @@ Sukuna senses Yuta
 → impulsive Malevolent Shrine / catastrophe
 → Sukuna realizes the environment is not the prior battlefield / world context
 → Sukuna suppresses / hides his cursed energy
-→ Yuta can briefly sense Sukuna and experience genuine terror
+→ Yuta briefly senses Sukuna and experiences genuine terror
 → the signal disappears before Yuta can simply track him
 ```
 
-The disappearance of Sukuna's detectable presence is therefore intentional concealment after situational realization, not Sukuna literally vanishing from the world.
+The disappearance is intentional concealment, not Sukuna vanishing from the world.
 
-## Finale principle
+## Finale contrast
 
-The ending should create contrast:
+```text
+G3 temporary roadside safety
+→ G1+G2 home / routine / finally peace
+→ hard cut to midday Sukuna
+→ Yuta recognition / “So that brat is here.”
+→ Malevolent Shrine / catastrophe
+```
 
-`home / routine / safety`
+The point is not random destruction. Yuta is the trigger for the immediate impulse, while Sukuna's realization that the world is different explains why he becomes hidden immediately afterward.
 
-→ `G3 sleeping under campfires, still unaware and moving closer`
+## Stage 1 status
 
-→ `midday Sukuna POV`
+E17, E18, and E19 have passed the rapid structural review and are **Stage 1 APPROVED / READY FOR VOICE CHECK**.
 
-→ `Yuta recognition / “So that brat is here.”`
+Further dialogue / voice approvals still happen at Stage 2.
 
-→ `Malevolent Shrine / catastrophe`
-
-The purpose is to end S1 by showing that all the ordinary life, new relationships, trade routes, homes, and future arrivals now exist under a threat that none of the main groups fully understands yet.
-
-The Sukuna beat is character-driven rather than random: Yuta is the trigger for the immediate violent impulse, while Sukuna's realization that this world is different motivates the concealment that follows.
-
-## G3 / Road Days status
-
-G3 / First Days and Road Days / Campfire remain separate episode units for now:
-
-- E19 = introduction / route establishment;
-- E20 = lived travel / campfire / season-finale function.
-
-Do not merge them automatically. Their final internal structure can still be adjusted during the rapid structural review and Voice Check preparation, but the current approved ordering keeps them adjacent and treats E20 as the longer finale.
-
-## Next creative step
-
-With the late-S1 order now provisionally resolved, proceed to the rapid structural review of the late-S1 episodes before Voice Check.
-
-All further ordering/status changes must be committed to Git.
+All future status changes remain subject to the Git persistence rule.

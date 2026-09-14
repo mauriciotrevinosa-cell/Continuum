@@ -48,7 +48,12 @@ export default async function RoughsPage({ params }: { params: Promise<{ project
     .sort((a, b) => (a.episode ?? "").localeCompare(b.episode ?? "", undefined, { numeric: true }))
     .map((d) => {
       const episode = d.episode ? titles.get(d.episode) : undefined;
-      const pages = d.facts.pages ? ` · ${d.facts.pages} pp.` : "";
+      const base = episode?.page_counts.find((c) => c.id !== episode.current_count);
+      const pages = episode?.pages
+        ? ` · ${episode.pages} pp.${base && base.pages !== episode.pages ? ` (base script ${base.pages})` : ""}`
+        : d.facts.pages
+          ? ` · ${d.facts.pages} pp.`
+          : "";
       return {
         id: d.id,
         episode: d.episode ?? "",

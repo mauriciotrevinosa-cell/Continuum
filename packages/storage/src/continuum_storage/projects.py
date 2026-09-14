@@ -28,8 +28,12 @@ name appears anywhere in this module):
   lifecycle for convention-registered documents, first match wins;
 * ``facts`` - small values read from each document's head (page totals,
   titles);
+* ``supersedes_header`` - honour a document's own ``**Supersedes:**`` line:
+  the named file is shown as superseded by it;
 * ``episodes`` - the readiness levels an episode can reach and which
-  document categories each level requires; the board is computed from the
+  document categories each level requires, named page counts (a panel
+  script's own total, a later overlay's table), and the ordered production
+  sources a chapter package is built from; the board is computed from the
   documents, never stored.
 
 Boundaries:
@@ -162,6 +166,8 @@ class ProjectDocument:
     #: A work-in-progress document the episode has since moved past (for
     #: example a voice-check revision once the episode's GREEN LIGHT exists).
     resolved_by: str | None = None
+    #: What a document applies to beyond one episode: ``season:<n>`` or ``project``.
+    applies_to: str | None = None
     relative: str = field(default="", repr=False)
 
     def fact(self, name: str) -> str | None:
@@ -188,6 +194,14 @@ class EpisodeStanding:
     missing: tuple[str, ...]
     last_commit: str | None
     last_changed_ns: int
+    #: Named page counts: (count id, label, pages, document id). ``pages`` above
+    #: is the one the manifest declares current, when the episode has it.
+    page_counts: tuple[tuple[str, str, int, str], ...] = ()
+    current_count: str | None = None
+    #: Ordered production sources: (role, document id, required, when).
+    sources: tuple[tuple[str, str, bool, str], ...] = ()
+    #: Required source roles no approved document fills.
+    missing_sources: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True, slots=True)
@@ -208,6 +222,10 @@ class Project:
     episodes: tuple[EpisodeStanding, ...] = ()
     #: The manifest's declared levels, highest first: id, label, requires, state.
     levels: tuple[dict[str, Any], ...] = ()
+    #: One row per declared page count: id, label, pages, episodes, current.
+    page_totals: tuple[dict[str, Any], ...] = ()
+    #: The declared production source roles, in order.
+    source_roles: tuple[dict[str, Any], ...] = ()
 
 
 @dataclass(frozen=True, slots=True)
@@ -661,6 +679,7 @@ def _load(root: _Root, notes: list[str]) -> Project | None:
     seen_ids: set[str] = set()
     seen_paths: set[str] = set()
     newest = manifest_ns
+    declared_supersedes: dict[str, str] = {}
 
     def add(entry: dict[str, Any], *, registration: str, convention: str | None = None) -> None:
         nonlocal newest
@@ -762,9 +781,12 @@ def _load(root: _Root, notes: list[str]) -> Project | None:
                 convention=convention,
                 facts=tuple(facts),
                 commit=commit,
+                applies_to=_optional(entry.get("applies_to"), 40),
                 relative=relative.replace("\\", "/"),
             )
         )
+        if registration == "convention" and peek.get("supersedes"):
+            declared_supersedes[document_id] = peek["supersedes"]
         seen_ids.add(document_id)
         seen_paths.add(key)
         newest = max(newest, modified_ns)
@@ -808,11 +830,42 @@ def _load(root: _Root, notes: list[str]) -> Project | None:
         for name in root.glob(pattern):
             add({"path": name}, registration="unfiled")
 
+    if data.get("supersedes_header") is True and declared_supersedes:
+        documents = _header_supersession(documents, declared_supersedes)
+
     board = data.get("episodes") if isinstance(data.get("episodes"), dict) else None
     levels = _levels(board, warnings) if board else []
+    counts = _page_counts(board, warnings) if board else []
+    roles = _source_roles(board, warnings) if board else []
     if board:
         documents = _resolve_iterations(documents, board)
-    episodes = _episodes(documents, board, levels, warnings) if board else []
+    tables = _page_tables(root, documents, counts, warnings)
+    episodes = (
+        _episodes(documents, board, levels, warnings, counts=counts, tables=tables, roles=roles)
+        if board
+        else []
+    )
+    counting = {level["id"] for level in levels if level.get("count_pages")}
+    page_totals = tuple(
+        {
+            "id": count["id"],
+            "label": count["label"],
+            "pages": sum(
+                pages
+                for e in episodes
+                if e.level in counting
+                for cid, _label, pages, _doc in e.page_counts
+                if cid == count["id"]
+            ),
+            "episodes": sum(
+                1
+                for e in episodes
+                if e.level in counting and any(cid == count["id"] for cid, *_ in e.page_counts)
+            ),
+            "current": bool(count.get("current")),
+        }
+        for count in counts
+    )
 
     pipeline = tuple(
         {
@@ -839,6 +892,8 @@ def _load(root: _Root, notes: list[str]) -> Project | None:
         source=root.origin(),
         episodes=tuple(episodes),
         levels=tuple(levels),
+        page_totals=page_totals,
+        source_roles=tuple(roles),
     )
 
 
@@ -865,6 +920,124 @@ def _levels(board: dict[str, Any], warnings: list[str]) -> list[dict[str, Any]]:
             }
         )
     return levels
+
+
+_FILE_NAME = re.compile(r"[A-Za-z0-9][A-Za-z0-9_.-]*\.(?:md|markdown)", re.I)
+
+
+def _header_supersession(
+    documents: list[ProjectDocument], declared: dict[str, str]
+) -> list[ProjectDocument]:
+    """A document that says ``**Supersedes:** `OLD.md``` supersedes that file.
+
+    Only files registered by convention change lifecycle; an explicit entry keeps
+    the standing its manifest entry gives it. The newer document records which
+    one it supersedes either way.
+    """
+    by_name = {PurePosixPath(d.relative).name.lower(): d for d in documents}
+    retired: dict[str, str] = {}
+    out = []
+    for d in documents:
+        text = declared.get(d.id)
+        target = None
+        if text:
+            names = _FILE_NAME.findall(text)
+            target = next((by_name[n.lower()] for n in names if n.lower() in by_name), None)
+        if target is not None and target.id != d.id:
+            if target.registration != "explicit":
+                retired[target.id] = d.id
+            out.append(replace(d, supersedes=d.supersedes or target.id))
+        else:
+            out.append(d)
+    return [replace(d, lifecycle="SUPERSEDED") if d.id in retired else d for d in out]
+
+
+def _page_counts(board: dict[str, Any], warnings: list[str]) -> list[dict[str, Any]]:
+    """Declared page counts; a board without any keeps its single panel-script total."""
+    raw_counts = board.get("page_counts")
+    if not isinstance(raw_counts, list):
+        return [
+            {
+                "id": "base",
+                "label": "Pages",
+                "from": "fact",
+                "category": _text(board.get("pages_from"), 40).lower(),
+                "fact": _text(board.get("pages_fact"), 40) or "pages",
+                "current": True,
+            }
+        ]
+    counts = []
+    for raw in raw_counts[:10]:
+        if not isinstance(raw, dict) or not _text(raw.get("id"), 40):
+            continue
+        count: dict[str, Any] = {
+            "id": _text(raw.get("id"), 40),
+            "label": _text(raw.get("label"), 80) or _text(raw.get("id"), 40),
+            "from": _text(raw.get("from"), 10).lower() or "fact",
+            "category": _text(raw.get("category"), 40).lower(),
+            "fact": _text(raw.get("fact"), 40) or "pages",
+            "current": bool(raw.get("current")),
+        }
+        if count["from"] == "table":
+            count["row"] = _compile(raw.get("row"), re.M, warnings, f"page count {count['id']}")
+            if count["row"] is None:
+                continue
+        counts.append(count)
+    return counts
+
+
+def _source_roles(board: dict[str, Any], warnings: list[str]) -> list[dict[str, Any]]:
+    roles = []
+    for raw in (board.get("production_sources") or [])[:30]:
+        if not isinstance(raw, dict) or not _text(raw.get("role"), 40):
+            continue
+        scope = _text(raw.get("scope"), 10).lower() or "episode"
+        if scope not in {"episode", "season", "project"}:
+            warnings.append(f"production source {raw.get('role')}: unknown scope {scope!r}")
+            continue
+        roles.append(
+            {
+                "role": _text(raw.get("role"), 40),
+                "label": _text(raw.get("label"), 80) or _text(raw.get("role"), 40),
+                "categories": [
+                    _text(c, 40).lower() for c in raw.get("categories") or [] if _text(c, 40)
+                ],
+                "scope": scope,
+                "required": bool(raw.get("required")),
+                "when": _text(raw.get("when"), 120),
+            }
+        )
+    return roles
+
+
+def _page_tables(
+    root: _Root,
+    documents: list[ProjectDocument],
+    counts: list[dict[str, Any]],
+    warnings: list[str],
+) -> dict[str, dict[str, tuple[int, str]]]:
+    """For table counts: episode code -> (pages, document id), newest approved document wins."""
+    tables: dict[str, dict[str, tuple[int, str]]] = {}
+    for count in counts:
+        if count["from"] != "table":
+            continue
+        rows: dict[str, tuple[int, str]] = {}
+        sources = sorted(
+            (d for d in documents if d.category == count["category"] and d.lifecycle in CONTINUITY),
+            key=lambda d: d.modified_ns,
+        )
+        for d in sources:
+            raw = root.read(d.relative, MAX_DOCUMENT_BYTES)
+            if raw is None:
+                warnings.append(f"page count {count['id']}: {d.id} could not be read")
+                continue
+            text = raw[:MAX_DOCUMENT_BYTES].decode("utf-8", errors="replace")
+            for hit in count["row"].finditer(text):
+                groups = hit.groupdict()
+                if groups.get("episode") and (groups.get("pages") or "").isdigit():
+                    rows[groups["episode"]] = (int(groups["pages"]), d.id)
+        tables[count["id"]] = rows
+    return tables
 
 
 def _episode_code(board: dict[str, Any]) -> re.Pattern[str]:
@@ -912,13 +1085,19 @@ def _episodes(
     board: dict[str, Any],
     levels: list[dict[str, Any]],
     warnings: list[str],
+    *,
+    counts: list[dict[str, Any]] | None = None,
+    tables: dict[str, dict[str, tuple[int, str]]] | None = None,
+    roles: list[dict[str, Any]] | None = None,
 ) -> list[EpisodeStanding]:
     code = _episode_code(board)
     order = [_text(c, 40).lower() for c in board.get("categories") or [] if _text(c, 40)]
     title_from = [_text(c, 40).lower() for c in board.get("title_from") or [] if _text(c, 40)]
     title_fact = _text(board.get("title_fact"), 40) or "title"
-    pages_fact = _text(board.get("pages_fact"), 40) or "pages"
-    pages_from = _text(board.get("pages_from"), 40).lower()
+    counts = counts or []
+    tables = tables or {}
+    roles = roles or []
+    live = [d for d in documents if d.lifecycle in CONTINUITY and d.resolved_by is None]
     by_episode: dict[str, list[ProjectDocument]] = {}
     for d in documents:
         if d.episode and code.match(d.episode) and d.lifecycle not in {"SUPERSEDED", "ARCHIVED"}:
@@ -951,23 +1130,56 @@ def _episodes(
             if doc is not None:
                 title = doc.fact(title_fact)
                 break
-        pages = None
-        page_doc = next(
-            (
-                d
-                for d in docs
-                if (not pages_from or d.category == pages_from)
-                and d.lifecycle in CONTINUITY
-                and d.fact(pages_fact)
-            ),
+        page_counts: list[tuple[str, str, int, str]] = []
+        for count in counts:
+            if count["from"] == "table":
+                found = tables.get(count["id"], {}).get(episode)
+                if found is not None:
+                    page_counts.append((count["id"], count["label"], found[0], found[1]))
+                continue
+            page_doc = next(
+                (
+                    d
+                    for d in docs
+                    if (not count["category"] or d.category == count["category"])
+                    and d.lifecycle in CONTINUITY
+                    and d.fact(count["fact"])
+                ),
+                None,
+            )
+            if page_doc is not None:
+                digits = re.sub(r"\D", "", page_doc.fact(count["fact"]) or "")
+                if digits:
+                    page_counts.append((count["id"], count["label"], int(digits), page_doc.id))
+        current = next(
+            (c for c in counts if c.get("current") and any(p[0] == c["id"] for p in page_counts)),
             None,
         )
-        if page_doc is not None:
-            digits = re.sub(r"\D", "", page_doc.fact(pages_fact) or "")
-            pages = int(digits) if digits else None
-        newest = max(docs, key=lambda d: d.modified_ns)
+        chosen = next(
+            (p for p in page_counts if current is not None and p[0] == current["id"]),
+            page_counts[0] if page_counts else None,
+        )
+        pages = chosen[2] if chosen else None
         season = groups.get("season")
         number = groups.get("number")
+        sources: list[tuple[str, str, bool, str]] = []
+        missing_sources: list[str] = []
+        for role in roles:
+            if role["scope"] == "episode":
+                pool = [d for d in live if d.episode == episode]
+            elif role["scope"] == "season":
+                pool = [d for d in live if d.applies_to == f"season:{int(season or 0)}"]
+            else:
+                pool = [d for d in live if not d.episode and d.applies_to in (None, "project")]
+            chosen_docs = sorted(
+                (d for d in pool if d.category in role["categories"]),
+                key=lambda d: (d.category, d.id),
+            )
+            for d in chosen_docs:
+                sources.append((role["role"], d.id, role["required"], role["when"]))
+            if role["required"] and not chosen_docs:
+                missing_sources.append(role["role"])
+        newest = max(docs, key=lambda d: d.modified_ns)
         rows.append(
             EpisodeStanding(
                 code=episode,
@@ -986,6 +1198,10 @@ def _episodes(
                 missing=missing,
                 last_commit=newest.commit,
                 last_changed_ns=newest.modified_ns,
+                page_counts=tuple(page_counts),
+                current_count=chosen[0] if chosen else None,
+                sources=tuple(sources),
+                missing_sources=tuple(missing_sources),
             )
         )
     rows.sort(key=lambda r: (r.season or 0, r.number or 0, r.code))

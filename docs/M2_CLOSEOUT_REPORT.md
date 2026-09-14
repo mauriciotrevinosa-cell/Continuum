@@ -45,6 +45,42 @@ manifest change: **S1E1-S1E19 at Level 4, 1,227 provisional pages**, per
 episode identical to the status overview. The project has 122 documents and
 none are unfiled.
 
+### Freshness check (integrated revision layer)
+
+Later, the creative branch added an integrated cinematic revision overlay,
+its approved beat documents, a village and inn spatial bible (v0.1 and v0.2),
+a clothing-callback addendum, an episode addendum and a final additions
+checklist. A resync at that head showed eight documents unfiled, the episode
+addendum misclassified, and only the base page total. The manifest, still
+metadata only, now also declares:
+
+* conventions for season overlays, beat documents, checklists, spatial
+  bibles, creative addenda and episode addenda;
+* `supersedes_header`: a document's own `Supersedes:` line retires the
+  file it names;
+* two named page counts. **Base panelization** is the panel scripts' own
+  totals. **Integrated provisional** is read from the approved overlay's
+  table and declared current. The UI labels both and marks the current one;
+* `production_sources`: the ordered documents a chapter package is built from
+  for each episode, resolved by category and scope.
+  * Episode scope: base panel script, draft, editorial overview, episode
+    addenda.
+  * Season scope: overlay.
+  * Project scope: spatial bible, creative addenda, character visual packs,
+    each with its stated condition.
+  * Exposed at `GET /projects/{id}/episodes/{episode}/production-sources`.
+
+Result at the freshness head:
+
+* 130 documents, 0 unfiled, 0 warnings;
+* S1E1-S1E19 at Level 4, with no required source missing;
+* Base panelization 1,227 pages; Integrated provisional 1,304 pages (current),
+  matching the overlay table episode by episode.
+
+A test commits an overlay, a superseding bible and an addendum after the rules
+are declared, with no manifest change. All of them are indexed, counted and
+listed as sources.
+
 ## 2. Review semantics: a technical pass is not a creative approval
 
 | State | Meaning | Counts as manga |

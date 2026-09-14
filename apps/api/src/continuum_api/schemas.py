@@ -854,6 +854,8 @@ class ProjectDocumentOut(BaseModel):
     commit: str | None = None
     #: The approved milestone this in-review document has since been resolved by.
     resolved_by: str | None = None
+    #: What the document applies to beyond one episode: ``season:<n>`` or ``project``.
+    applies_to: str | None = None
 
 
 class PipelineStage(BaseModel):
@@ -893,6 +895,36 @@ class EpisodeDocumentRef(BaseModel):
     resolved_by: str | None = None
 
 
+class EpisodePageCount(BaseModel):
+    id: str
+    label: str
+    pages: int
+    document_id: str
+
+
+class EpisodeSource(BaseModel):
+    """One document a chapter package for the episode is built from, in order."""
+
+    role: str
+    label: str = ""
+    document_id: str
+    title: str = ""
+    lifecycle: DocumentLifecycle = "APPROVED"
+    commit: str | None = None
+    required: bool = False
+    #: When the source applies, as the manifest states it (empty = always).
+    when: str = ""
+
+
+class PageTotal(BaseModel):
+    id: str
+    label: str
+    pages: int = 0
+    episodes: int = 0
+    #: The count the project declares current.
+    current: bool = False
+
+
 class EpisodeStandingOut(BaseModel):
     """One episode's readiness, computed from its committed documents on every read."""
 
@@ -909,14 +941,22 @@ class EpisodeStandingOut(BaseModel):
     missing: list[str] = Field(default_factory=list)
     last_commit: str | None = None
     last_changed_at: str | None = None
+    #: Every named page count the episode has (base panelization, integrated...).
+    page_counts: list[EpisodePageCount] = Field(default_factory=list)
+    #: Which count ``pages`` is.
+    current_count: str | None = None
+    sources: list[EpisodeSource] = Field(default_factory=list)
+    missing_sources: list[str] = Field(default_factory=list)
 
 
 class EpisodeBoardSummary(BaseModel):
     episodes: int = 0
     by_level: dict[str, int] = Field(default_factory=dict)
-    #: Pages across episodes at levels that count pages.
+    #: Current pages across episodes at levels that count pages.
     pages: int = 0
     unmet: int = 0
+    #: Every declared page count, labelled; exactly the current one is marked.
+    page_totals: list[PageTotal] = Field(default_factory=list)
 
 
 class ProjectResync(BaseModel):

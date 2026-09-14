@@ -9,6 +9,8 @@
   "_note": "This manifest registers the project's documents in two ways. Entries under 'documents' are explicit: their lifecycle is written here. Files matching a rule under 'conventions' are registered by name the moment they are committed; their lifecycle transcribes the author's own Status line through 'status_lifecycle' (first match wins), so the committed documents stay the single source of truth. A Markdown file matched only by 'discover' appears as unfiled and is never treated as approved.",
   "_note_standing": "maturity (ROUGH, DETAILED, PRODUCTION_READY) transcribes how developed the author says a document is; authority (RULE, CORRECTION, INDEX, CONTENT) transcribes an 'authoritative' workflow rule, correction or source-of-truth index; overrides lists only the partial precedence a document states in its own text. Nothing here resolves a conflict the documents do not resolve themselves.",
   "_note_board": "'episodes' declares the readiness levels of the production pipeline rules and the document categories each level requires (all approved). The episode board is computed from the committed documents on every read; nothing about an episode's readiness is stored here. 'resolves' shows a voice-check iteration still marked in review as resolved once the episode's GREEN LIGHT exists; its own lifecycle is left as its author recorded it.",
+  "_note_sources": "'page_counts' names each page total: the base panel scripts' own totals and the integrated provisional totals read from the approved production overlay's table (declared current). 'production_sources' lists, in order, the documents a chapter package is built from for an episode: episode documents, season overlays and project-wide bibles and addenda, each resolved from committed approved documents by category and scope. 'supersedes_header' honours a document's own Supersedes line.",
+  "supersedes_header": true,
   "discover": [
     "THE_ARRIVALS_*.md"
   ],
@@ -419,10 +421,56 @@
       "lineage": "{episode_lower}-green-light"
     },
     {
+      "id": "episode-addendum",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_[A-Z0-9_]+_ADDENDUM_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "episode-addendum",
+      "section": "production"
+    },
+    {
       "id": "episode-voice-check-iteration",
       "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_[A-Z0-9_]+_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
       "category": "voice-check-iteration",
       "section": "story"
+    },
+    {
+      "id": "season-production-overlay",
+      "match": "^THE_ARRIVALS_S(?P<season>\\d+)_[A-Z0-9_]+_OVERLAY_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "production-overlay",
+      "section": "production",
+      "authority": "CORRECTION",
+      "maturity": "PRODUCTION_READY",
+      "applies_to": "season:{season}",
+      "lineage": "s{season}-production-overlay"
+    },
+    {
+      "id": "season-revision-beats",
+      "match": "^THE_ARRIVALS_S(?P<season>\\d+)_[A-Z0-9_]+_BEATS(?:_[A-Z0-9_]+)?_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "revision-beats",
+      "section": "production",
+      "applies_to": "season:{season}"
+    },
+    {
+      "id": "season-review-checklist",
+      "match": "^THE_ARRIVALS_S(?P<season>\\d+)_[A-Z0-9_]+_CHECKLIST_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "review-checklist",
+      "section": "production",
+      "applies_to": "season:{season}"
+    },
+    {
+      "id": "setting-spatial-bible",
+      "match": "^THE_ARRIVALS_(?P<setting>[A-Z0-9_]+)_SPATIAL_BIBLE_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "setting-bible",
+      "section": "production",
+      "maturity": "DETAILED",
+      "applies_to": "project",
+      "lineage": "{setting_lower}-spatial-bible"
+    },
+    {
+      "id": "creative-addendum",
+      "match": "^THE_ARRIVALS_(?!S\\d+_)(?!S\\d+E\\d+_)(?P<name>[A-Z0-9_]+)_(?:CALLBACKS|ADDENDUM)(?:_[A-Z0-9_]+)?_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
+      "category": "creative-addendum",
+      "section": "production",
+      "applies_to": "project"
     },
     {
       "id": "production-correction",
@@ -533,6 +581,94 @@
     "title_fact": "title",
     "pages_fact": "pages",
     "pages_from": "panel-script",
+    "page_counts": [
+      {
+        "id": "base",
+        "label": "Base panelization",
+        "from": "fact",
+        "category": "panel-script",
+        "fact": "pages"
+      },
+      {
+        "id": "integrated",
+        "label": "Integrated provisional",
+        "from": "table",
+        "category": "production-overlay",
+        "row": "^\\|\\s*(?P<episode>S\\d+E\\d+)\\s*\\|\\s*\\d+\\s*\\|\\s*\\**(?P<pages>\\d+)\\**\\s*\\|",
+        "current": true
+      }
+    ],
+    "production_sources": [
+      {
+        "role": "base-panel-script",
+        "label": "Base manga panel script",
+        "categories": [
+          "panel-script"
+        ],
+        "scope": "episode",
+        "required": true
+      },
+      {
+        "role": "draft",
+        "label": "Approved draft",
+        "categories": [
+          "draft"
+        ],
+        "scope": "episode",
+        "required": true
+      },
+      {
+        "role": "editorial-overview",
+        "label": "Level 4 editorial overview",
+        "categories": [
+          "editorial-overview"
+        ],
+        "scope": "episode"
+      },
+      {
+        "role": "production-overlay",
+        "label": "Integrated production overlay",
+        "categories": [
+          "production-overlay"
+        ],
+        "scope": "season"
+      },
+      {
+        "role": "episode-addendum",
+        "label": "Episode addendum",
+        "categories": [
+          "episode-addendum"
+        ],
+        "scope": "episode"
+      },
+      {
+        "role": "setting-bible",
+        "label": "Setting / spatial bible",
+        "categories": [
+          "setting-bible"
+        ],
+        "scope": "project",
+        "when": "when its setting appears"
+      },
+      {
+        "role": "creative-addendum",
+        "label": "Creative addendum",
+        "categories": [
+          "creative-addendum"
+        ],
+        "scope": "project",
+        "when": "for the episodes and beats it names"
+      },
+      {
+        "role": "character-design",
+        "label": "Character visual pack",
+        "categories": [
+          "character-design"
+        ],
+        "scope": "project",
+        "when": "when the character appears"
+      }
+    ],
     "levels": [
       {
         "id": "4",

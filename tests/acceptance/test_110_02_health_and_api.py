@@ -226,6 +226,8 @@ class TestApiSurfaceIsPhaseZeroOnly:
             # M2 closeout: re-read a project at its source's current commit (a Git
             # source fetches its remote-tracking ref and nothing else).
             "/projects/{project_id}/resync",
+            # The ordered documents a chapter package is built from (M2 freshness).
+            "/projects/{project_id}/episodes/{episode}/production-sources",
             # Phase 1 reference vault: characters, visual modes, references and
             # the inbox, by record id and opaque media id only.
             "/library/characters",

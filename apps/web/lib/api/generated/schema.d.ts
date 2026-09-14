@@ -2015,6 +2015,30 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/projects/{project_id}/episodes/{episode}/production-sources": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Episode Production Sources
+         * @description The documents a chapter package for this episode is built from, in order.
+         *
+         *     Resolved from the committed documents by the roles the project manifest
+         *     declares (the episode's own scripts, season overlays, project bibles and
+         *     addenda); nothing is registered per episode.
+         */
+        get: operations["episode_production_sources_projects__project_id__episodes__episode__production_sources_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/projects/{project_id}/music": {
         parameters: {
             query?: never;
@@ -2905,6 +2929,8 @@ export interface components {
              * @default 0
              */
             episodes: number;
+            /** Page Totals */
+            page_totals?: components["schemas"]["PageTotal"][];
             /**
              * Pages
              * @default 0
@@ -2948,6 +2974,17 @@ export interface components {
             /** State */
             state?: string | null;
         };
+        /** EpisodePageCount */
+        EpisodePageCount: {
+            /** Document Id */
+            document_id: string;
+            /** Id */
+            id: string;
+            /** Label */
+            label: string;
+            /** Pages */
+            pages: number;
+        };
         /**
          * EpisodeRun
          * @description Episodes of one season, as the file names state them.
@@ -2972,12 +3009,52 @@ export interface components {
             season?: number | null;
         };
         /**
+         * EpisodeSource
+         * @description One document a chapter package for the episode is built from, in order.
+         */
+        EpisodeSource: {
+            /** Commit */
+            commit?: string | null;
+            /** Document Id */
+            document_id: string;
+            /**
+             * Label
+             * @default
+             */
+            label: string;
+            /**
+             * Lifecycle
+             * @default APPROVED
+             * @enum {string}
+             */
+            lifecycle: "IDEA" | "DRAFT" | "REVIEW" | "APPROVED" | "LOCKED" | "SUPERSEDED" | "ARCHIVED" | "UNFILED";
+            /**
+             * Required
+             * @default false
+             */
+            required: boolean;
+            /** Role */
+            role: string;
+            /**
+             * Title
+             * @default
+             */
+            title: string;
+            /**
+             * When
+             * @default
+             */
+            when: string;
+        };
+        /**
          * EpisodeStandingOut
          * @description One episode's readiness, computed from its committed documents on every read.
          */
         EpisodeStandingOut: {
             /** Code */
             code: string;
+            /** Current Count */
+            current_count?: string | null;
             /** Documents */
             documents?: components["schemas"]["EpisodeDocumentRef"][];
             /** Label */
@@ -2990,12 +3067,18 @@ export interface components {
             level?: string | null;
             /** Missing */
             missing?: string[];
+            /** Missing Sources */
+            missing_sources?: string[];
             /** Number */
             number?: number | null;
+            /** Page Counts */
+            page_counts?: components["schemas"]["EpisodePageCount"][];
             /** Pages */
             pages?: number | null;
             /** Season */
             season?: number | null;
+            /** Sources */
+            sources?: components["schemas"]["EpisodeSource"][];
             /** State */
             state?: string | null;
             /** Title */
@@ -3973,6 +4056,28 @@ export interface components {
              */
             notes: string;
         };
+        /** PageTotal */
+        PageTotal: {
+            /**
+             * Current
+             * @default false
+             */
+            current: boolean;
+            /**
+             * Episodes
+             * @default 0
+             */
+            episodes: number;
+            /** Id */
+            id: string;
+            /** Label */
+            label: string;
+            /**
+             * Pages
+             * @default 0
+             */
+            pages: number;
+        };
         /** PanelSourceIn */
         PanelSourceIn: {
             /** Chapter */
@@ -4069,6 +4174,8 @@ export interface components {
         };
         /** ProjectDocumentOut */
         ProjectDocumentOut: {
+            /** Applies To */
+            applies_to?: string | null;
             /** Author Status */
             author_status?: string | null;
             /**
@@ -9039,6 +9146,38 @@ export interface operations {
                 };
                 content: {
                     "application/json": components["schemas"]["ProjectDocumentBody"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    episode_production_sources_projects__project_id__episodes__episode__production_sources_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+                episode: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["EpisodeSource"][];
                 };
             };
             /** @description Validation Error */

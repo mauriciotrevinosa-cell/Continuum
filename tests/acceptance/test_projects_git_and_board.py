@@ -219,6 +219,9 @@ def test_conventions_register_documents_and_the_board_is_computed(
         "by_level": {"4": 1, "3+": 1, "3": 1},
         "pages": 41,
         "unmet": 0,
+        "page_totals": [
+            {"id": "base", "label": "Pages", "pages": 41, "episodes": 1, "current": True}
+        ],
     }
     assert detail["project"]["in_progress"] == 0, "a resolved iteration is not open work"
 
@@ -306,3 +309,133 @@ def test_git_sources_are_validated_and_contained(tmp_path: Path, repo: Path) -> 
 
     missing_ref = ProjectLibrary([f"git:{repo}@no-such-branch:stories/harbor"])
     assert missing_ref.projects() == []
+
+
+# ---------------------------------------------------------------------------
+LAYERED: dict[str, Any] = json.loads(json.dumps(MANIFEST))
+LAYERED["supersedes_header"] = True
+LAYERED["conventions"][:0] = [
+    {
+        "id": "overlay",
+        "match": r"^HARBOR_S(?P<season>\d+)_[A-Z0-9_]+_OVERLAY_v(?P<version>[\d.]+)\.md$",
+        "category": "production-overlay",
+        "section": "production",
+        "applies_to": "season:{season}",
+    },
+    {
+        "id": "bible",
+        "match": r"^HARBOR_(?P<setting>[A-Z0-9_]+)_BIBLE_v(?P<version>[\d.]+)\.md$",
+        "category": "setting-bible",
+        "section": "production",
+        "applies_to": "project",
+    },
+    {
+        "id": "episode-addendum",
+        "match": r"^HARBOR_(?P<episode>S\d+E\d+)_[A-Z0-9_]+_ADDENDUM_v(?P<version>[\d.]+)\.md$",
+        "category": "episode-addendum",
+        "section": "production",
+    },
+]
+LAYERED["episodes"]["page_counts"] = [
+    {"id": "base", "label": "Base panelization", "from": "fact", "category": "panel-script"},
+    {
+        "id": "integrated",
+        "label": "Integrated provisional",
+        "from": "table",
+        "category": "production-overlay",
+        "row": r"^\|\s*(?P<episode>S\d+E\d+)\s*\|\s*\d+\s*\|\s*\**(?P<pages>\d+)\**\s*\|",
+        "current": True,
+    },
+]
+LAYERED["episodes"]["production_sources"] = [
+    {"role": "base", "categories": ["panel-script"], "scope": "episode", "required": True},
+    {"role": "draft", "categories": ["draft"], "scope": "episode", "required": True},
+    {"role": "overlay", "categories": ["production-overlay"], "scope": "season"},
+    {"role": "addendum", "categories": ["episode-addendum"], "scope": "episode"},
+    {
+        "role": "setting",
+        "categories": ["setting-bible"],
+        "scope": "project",
+        "when": "when the harbor appears",
+    },
+]
+
+
+def test_later_overlays_bibles_and_addenda_need_no_registration(
+    data_home: Path, vault_root: Path, repo: Path
+) -> None:
+    """Revisions committed after the rules are declared are indexed, counted and sourced."""
+    folder = repo / "stories" / "harbor"
+    (folder / "continuum.project.json").write_text(json.dumps(LAYERED), encoding="utf-8")
+    _git(repo, "add", "-A")
+    _git(repo, "commit", "-q", "-m", "declare layers once")
+    library = ProjectLibrary([f"git:{repo}@board:stories/harbor"])
+    project = library.project("moon-harbor")
+    assert project is not None
+    first = {e.code: e for e in project.episodes}["S1E1"]
+    assert first.pages == 41 and first.current_count == "base", "no overlay yet: base is current"
+
+    # The author commits an overlay, a bible and its replacement, and an addendum.
+    # The manifest is not touched.
+    files = {
+        "HARBOR_S1_TIDE_REVISION_OVERLAY_v0.2.md": _doc(
+            "Harbor Season 1 overlay",
+            "APPROVED / AUTHORITATIVE PRODUCTION OVERLAY",
+            "\n| Episode | Base pages | Integrated | Delta |\n|---|---:|---:|---:|\n"
+            "| S1E1 | 41 | **44** | +3 |\n| S1E2 | 30 | **33** | +3 |\n",
+        ),
+        "HARBOR_PIER_BIBLE_v0.1.md": _doc("Pier bible v0.1", "APPROVED SPATIAL BASE"),
+        "HARBOR_PIER_BIBLE_v0.2.md": _doc(
+            "Pier bible v0.2",
+            "APPROVED SPATIAL BASE",
+            "**Supersedes:** `HARBOR_PIER_BIBLE_v0.1.md`\n",
+        ),
+        "HARBOR_S1E1_LANTERN_ADDENDUM_v0.1.md": _doc(
+            "Lantern addendum", "APPROVED VISUAL ADDENDUM"
+        ),
+    }
+    manifest_before = (folder / "continuum.project.json").read_bytes()
+    for name, text in files.items():
+        (folder / name).write_text(text, encoding="utf-8")
+    _git(repo, "add", "-A")
+    _git(repo, "commit", "-q", "-m", "revisions land")
+    head = _git(repo, "rev-parse", "HEAD")
+    assert (folder / "continuum.project.json").read_bytes() == manifest_before
+    assert _git(repo, "show", "--name-only", "--format=", "HEAD").count("continuum.project") == 0
+    library.forget()
+    project = library.project("moon-harbor")
+    assert project is not None and project.source["commit"] == head
+    assert [d.relative for d in project.documents if d.registration == "unfiled"] == [
+        "LOOSE_NOTES.md"
+    ]
+    docs = {d.id: d for d in project.documents}
+    assert docs["harbor-pier-bible-v0-1"].lifecycle == "SUPERSEDED", "its successor says so"
+    assert docs["harbor-pier-bible-v0-2"].supersedes == "harbor-pier-bible-v0-1"
+    assert docs["harbor-s1-tide-revision-overlay-v0-2"].applies_to == "season:1"
+
+    board = {e.code: e for e in project.episodes}
+    one = board["S1E1"]
+    assert one.pages == 44 and one.current_count == "integrated"
+    assert {(c[0], c[2]) for c in one.page_counts} == {("base", 41), ("integrated", 44)}
+    assert [(role, doc) for role, doc, _required, _when in one.sources] == [
+        ("base", "s1e1-panel-script"),
+        ("draft", "s1e1-draft-1"),
+        ("overlay", "harbor-s1-tide-revision-overlay-v0-2"),
+        ("addendum", "harbor-s1e1-lantern-addendum-v0-1"),
+        ("setting", "harbor-pier-bible-v0-2"),
+    ], "the superseded bible is not a source"
+    assert one.missing_sources == ()
+    assert board["S1E2"].missing_sources == ("base",), "a required source is reported missing"
+    totals = {t["id"]: t for t in project.page_totals}
+    assert totals["base"]["pages"] == 41 and totals["integrated"]["pages"] == 44
+    assert totals["integrated"]["current"] is True and totals["base"]["current"] is False
+
+    with _client(data_home, vault_root, f"git:{repo}@board:stories/harbor") as client:
+        detail = client.get("/projects/moon-harbor").json()
+        assert detail["episode_summary"]["pages"] == 44
+        sources = client.get("/projects/moon-harbor/episodes/S1E1/production-sources").json()
+        assert [s["role"] for s in sources] == ["base", "draft", "overlay", "addendum", "setting"]
+        assert sources[-1]["when"] == "when the harbor appears"
+        assert all(s["commit"] == head[:7] for s in sources[2:])
+        missing = client.get("/projects/moon-harbor/episodes/S9E9/production-sources")
+        assert missing.status_code == 404

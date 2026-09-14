@@ -15,8 +15,11 @@ const CATEGORY_LABELS: Record<string, string> = {
   draft: "Draft",
   "panel-script": "Manga panel script",
   "editorial-overview": "Editorial overview",
+  "episode-addendum": "Episode addendum",
   addendum: "Addendum",
 };
+
+const number = (n: number) => n.toLocaleString("en-US");
 
 export function categoryLabel(category: string): string {
   return CATEGORY_LABELS[category] ?? category.replace(/-/g, " ");
@@ -58,7 +61,15 @@ function EpisodeRow({
     <div className="episode board-row">
       <div className="board-code">
         <span className="episode-code">{episode.code}</span>
-        {episode.pages ? <span className="muted tabular">{episode.pages} pp.</span> : null}
+        {episode.page_counts.map((count) => (
+          <span
+            key={count.id}
+            className={`tabular ${count.id === episode.current_count ? "" : "muted"}`}
+            title={`${count.label} - from ${count.document_id}`}
+          >
+            {count.pages} pp.{episode.page_counts.length > 1 ? ` ${count.label.split(" ")[0].toLowerCase()}` : ""}
+          </span>
+        ))}
       </div>
       <div className="board-body">
         <div className="board-head">
@@ -90,6 +101,23 @@ function EpisodeRow({
             </details>
           ) : null}
         </div>
+        {episode.sources.length ? (
+          <details className="board-iterations">
+            <summary>
+              Production sources: {episode.sources.length} document{episode.sources.length === 1 ? "" : "s"}
+              {episode.missing_sources.length ? ` · missing ${episode.missing_sources.join(", ")}` : ""}
+            </summary>
+            {episode.sources.map((source) => (
+              <Link key={`${source.role}-${source.document_id}`} href={href(source.document_id)} className="board-doc">
+                <span className="board-doc-kind">
+                  {source.label}: {source.title}
+                  {source.when ? <span className="muted"> · {source.when}</span> : null}
+                </span>
+                <span className="muted tabular">{source.commit ?? ""}</span>
+              </Link>
+            ))}
+          </details>
+        ) : null}
         <p className="sub board-meta">
           {episode.missing.length
             ? `Next level needs: ${episode.missing.map(categoryLabel).join(", ")}`
@@ -106,6 +134,7 @@ export function EpisodeBoard({ detail }: { detail: ProjectDetail }) {
   const { episodes, levels, episode_summary: summary, project } = detail;
   if (!episodes.length) return null;
   const top = levels[0];
+  const totals = [...summary.page_totals].sort((a, b) => Number(b.current) - Number(a.current));
   return (
     <section className="block" aria-labelledby="episode-board">
       <div className="block-head">
@@ -113,10 +142,22 @@ export function EpisodeBoard({ detail }: { detail: ProjectDetail }) {
           Episodes
           <small>
             {top ? `${summary.by_level[top.id] ?? 0} of ${summary.episodes} at ${top.label}` : `${summary.episodes}`}
-            {summary.pages ? ` · ${summary.pages} provisional pages` : ""}
           </small>
         </h2>
       </div>
+      {totals.length ? (
+        <div className="board-legend">
+          {totals.map((total) => (
+            <span
+              key={total.id}
+              className={`chip ${total.current ? "accent" : "plain muted"}`}
+              title={`${total.episodes} episode${total.episodes === 1 ? "" : "s"} counted`}
+            >
+              {total.label}: {number(total.pages)} pages{total.current ? " (current)" : ""}
+            </span>
+          ))}
+        </div>
+      ) : null}
       <div className="board-legend">
         {levels.map((level) => (
           <span key={level.id} className={`chip plain ${levelTone(level.id, levels)}`}>

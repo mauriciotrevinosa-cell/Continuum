@@ -710,6 +710,8 @@ export interface ProjectDocument {
   commit: string | null;
   /** The approved milestone this in-review document has since been resolved by. */
   resolved_by: string | null;
+  /** What the document applies to beyond one episode: season:<n> or project. */
+  applies_to: string | null;
 }
 
 /** Where a project was read from. A Git source names its ref and commit, never a path. */
@@ -743,13 +745,33 @@ export interface EpisodeStanding {
   missing: string[];
   last_commit: string | null;
   last_changed_at: string | null;
+  /** Every named page count (base panelization, integrated provisional...). */
+  page_counts: { id: string; label: string; pages: number; document_id: string }[];
+  /** Which count `pages` is. */
+  current_count: string | null;
+  /** The ordered documents a chapter package for this episode is built from. */
+  sources: EpisodeSource[];
+  missing_sources: string[];
+}
+
+export interface EpisodeSource {
+  role: string;
+  label: string;
+  document_id: string;
+  title: string;
+  lifecycle: DocumentLifecycle;
+  commit: string | null;
+  required: boolean;
+  when: string;
 }
 
 export interface EpisodeBoardSummary {
   episodes: number;
   by_level: Record<string, number>;
+  /** Current pages. */
   pages: number;
   unmet: number;
+  page_totals: { id: string; label: string; pages: number; episodes: number; current: boolean }[];
 }
 
 export interface ProjectResync {

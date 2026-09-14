@@ -24,7 +24,13 @@ import datetime as dt
 from collections import Counter
 from typing import Annotated, Any
 
-from continuum_storage import PROJECT_ID_PATTERN, Project, ProjectDocument, ProjectLibrary
+from continuum_storage import (
+    PROJECT_ID_PATTERN,
+    EpisodeStanding,
+    Project,
+    ProjectDocument,
+    ProjectLibrary,
+)
 from fastapi import APIRouter, HTTPException, Request, status
 from fastapi import Path as PathParam
 
@@ -33,7 +39,10 @@ from continuum_api.schemas import (
     EpisodeBoardSummary,
     EpisodeDocumentRef,
     EpisodeLevel,
+    EpisodePageCount,
+    EpisodeSource,
     EpisodeStandingOut,
+    PageTotal,
     PipelineStage,
     ProjectDetail,
     ProjectDocumentBody,
@@ -145,7 +154,27 @@ def _document(document: ProjectDocument, project: Project) -> ProjectDocumentOut
         facts=dict(document.facts),
         commit=document.commit,
         resolved_by=document.resolved_by,
+        applies_to=document.applies_to,
     )
+
+
+def _sources(project: Project, episode: EpisodeStanding) -> list[EpisodeSource]:
+    by_id = {d.id: d for d in project.documents}
+    labels = {role["role"]: role["label"] for role in project.source_roles}
+    return [
+        EpisodeSource(
+            role=role,
+            label=labels.get(role, role),
+            document_id=doc_id,
+            title=by_id[doc_id].title,
+            lifecycle=by_id[doc_id].lifecycle,  # type: ignore[arg-type]
+            commit=by_id[doc_id].commit,
+            required=required,
+            when=when,
+        )
+        for role, doc_id, required, when in episode.sources
+        if doc_id in by_id
+    ]
 
 
 def _board(project: Project) -> tuple[list[EpisodeStandingOut], EpisodeBoardSummary]:
@@ -177,6 +206,13 @@ def _board(project: Project) -> tuple[list[EpisodeStandingOut], EpisodeBoardSumm
                 missing=list(episode.missing),
                 last_commit=episode.last_commit,
                 last_changed_at=_iso(episode.last_changed_ns),
+                page_counts=[
+                    EpisodePageCount(id=cid, label=label, pages=pages, document_id=doc)
+                    for cid, label, pages, doc in episode.page_counts
+                ],
+                current_count=episode.current_count,
+                sources=_sources(project, episode),
+                missing_sources=list(episode.missing_sources),
             )
         )
     summary = EpisodeBoardSummary(
@@ -184,6 +220,7 @@ def _board(project: Project) -> tuple[list[EpisodeStandingOut], EpisodeBoardSumm
         by_level=dict(Counter(r.level for r in rows if r.level is not None)),
         pages=sum(r.pages or 0 for r in rows if r.level in counting),
         unmet=sum(1 for r in rows if r.level is None),
+        page_totals=[PageTotal(**total) for total in project.page_totals],
     )
     return rows, summary
 
@@ -246,6 +283,27 @@ def resync_project(request: Request, project_id: ProjectId) -> ProjectResync:
         detail=result.detail,
         source=_source(project) if project is not None else ProjectSource(),
     )
+
+
+@router.get(
+    "/{project_id}/episodes/{episode}/production-sources", response_model=list[EpisodeSource]
+)
+def episode_production_sources(
+    request: Request,
+    project_id: ProjectId,
+    episode: Annotated[str, PathParam(pattern=r"^[A-Za-z0-9][A-Za-z0-9._-]{0,39}$")],
+) -> list[EpisodeSource]:
+    """The documents a chapter package for this episode is built from, in order.
+
+    Resolved from the committed documents by the roles the project manifest
+    declares (the episode's own scripts, season overlays, project bibles and
+    addenda); nothing is registered per episode.
+    """
+    project = _library(request).project(project_id)
+    found = next((e for e in project.episodes if e.code == episode), None) if project else None
+    if project is None or found is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="episode not found")
+    return _sources(project, found)
 
 
 @router.get("/{project_id}/documents/{document_id}", response_model=ProjectDocumentBody)

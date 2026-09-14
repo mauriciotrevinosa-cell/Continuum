@@ -5,291 +5,288 @@
 **Project:** `The Arrivals`  
 **Branch:** `creative/s1-season-board-v0.1`
 
-This document answers a production-readiness question rather than locking a final broadcast order.
+This document is the quick source of truth for current episode count and production readiness.
 
-## Season 1 — current amount of episode-sized material
+---
+
+# Season 1 — current locked working structure
 
 Current working count:
 
-> **approximately 19 episode-sized concepts already discussed / approved at some level**
+> **19 full episodes**
 
-This is **not yet a final locked episode count**. The early and middle season is much more ordered than the late season. Some late-S1 concepts may move, combine, or separate during the final episode-order pass.
+Sukuna's `Malevolent Shrine` reveal is the final sting inside S1E19, not a standalone twentieth episode.
 
-Sukuna's `Malevolent Shrine` reveal is treated as the final **season beat / sting**, not automatically as its own full episode.
+The former separate `G3 / First Days` and `Road Days / Campfire` concepts are now merged into one longer S1E19 finale and intercut with G1+G2 material rather than presented as two consecutive halves.
 
-### Readiness levels
+## Terminology
 
-#### Level 4 — Manga-ready
+- `G1` = Group 1.
+- `G2` = Group 2.
+- `G3` = Group 3 only.
+- `G1+G2` = the first two groups together after formation of the shared household.
 
-**S1E1 — `Not This Time`**
+---
+
+# Readiness levels
+
+## Level 4 — Manga-ready
+
+### S1E1 — `Not This Time`
 
 Status:
+
 - approved detailed story;
 - approved continuous Draft 1;
 - approved manga panel script;
-- 79 provisional manga pages;
-- next gate: **ROUGH MANGA GENERATION / VISUAL PRODUCTION**.
+- ~79 provisional manga pages;
+- next creative gate: rough manga / visual production.
 
 Primary files:
+
 - `THE_ARRIVALS_S1E1_NOT_THIS_TIME_v0.1.md`
 - `THE_ARRIVALS_S1E1_DRAFT_1_v0.1.md`
 - `THE_ARRIVALS_S1E1_MANGA_PANEL_SCRIPT_v0.1.md`
 
-#### Level 3 — Story-ready for detailed episode pass
+E1 is the gold-standard production reference.
 
-**S1E2–E8**
+## Level 3 — Structure approved / Ready for Voice Check
 
-Status:
-- approved rough / high-confidence episode roadmaps;
-- episode purpose, major beats, emotional movement, arrivals, and endings are known;
-- ready to be expanded into the same type of detailed continuous story / scene pass used before E1 panelization;
-- after that: panel script → rough manga.
-
-Primary file:
-- `THE_ARRIVALS_S1_E2_E8_ROUGH_ROADMAP_v0.1.md`
-
-**S1E9–E15**
+### S1E2–E15
 
 Status:
-- approved rough / high-confidence episode roadmaps;
-- major scene logic, callbacks, relationship arcs, and endings are known;
-- E14 / E15 are especially developed at rough level;
-- ready for detailed story / dialogue passes before panelization.
+
+- approved rough / high-confidence roadmaps;
+- major purpose, beats, emotional movement, arrivals, callbacks, and endings are known;
+- heavy Story Room work does not need to be repeated;
+- next human gate = representative Voice Check + episode-by-episode GREEN LIGHT;
+- after GREEN LIGHT, assistant owns detailed episode construction + manga panelization / QC.
 
 Primary files:
+
+- `THE_ARRIVALS_S1_E2_E8_ROUGH_ROADMAP_v0.1.md`
 - `THE_ARRIVALS_S1_E9_E15_ROUGH_ROADMAP_v0.1.md`
 - `THE_ARRIVALS_S1_E15_HOME_SYMBOL_ADDENDUM_v0.1.md`
 
-#### Level 2 — Strong episode concept, needs final organization
-
-**World Opens / Mercantile Town episode**
-
-Current rough placement begins after E15; earlier working label: **E16**.
-
-Known content:
-- Yuta / scouting discovers functioning civilization;
-- mercantile town;
-- medieval trade / roads / guild;
-- party registration;
-- neutral introduction of `Otherworlder`;
-- coast + island-chain foreshadowing;
-- earned money / refined goods begin upgrading the home.
-
-Needs:
-- final scene order;
-- dialogue pass;
-- exact ending;
-- final episode number.
-
-Primary file:
-- `THE_ARRIVALS_S1_E16_PLUS_WORLD_G3_ROUGH_v0.1.md`
-
-**Guild Jobs / Working Days episode-sized concept**
-
-Known content:
-- several days of real guild work shown through a comedy-adventure / party montage rhythm;
-- multiple jobs and changing team combinations;
-- money is actually earned;
-- Rimuru budgets food, repairs, reserves, tools, and comfort upgrades;
-- Frieren / Fern overprotection visibly heals in stages:
-  - Frieren refuses to let Fern go;
-  - later accompanies her;
-  - later lets her go with Yuta / Rimuru;
-  - finally allows Fern to take a normal task alone.
-
-Needs:
-- decide whether it is one full episode or partially integrated with adjacent world-opening material;
-- final scene structure and placement.
-
-Primary file:
-- `THE_ARRIVALS_S1_LATE_TEXTURE_ADDENDUM_v0.1.md`
-
-**G3 Part 1 / First Days episode-sized concept**
-
-Current G3 roster:
-- Mikasa;
-- Okarun;
-- Umaru;
-- Kita;
-- Marin;
-- Wakana Gojo;
-- Qifrey;
-- Coco.
-
-Current rough grouping direction remains flexible:
-- Okarun + Umaru + Kita;
-- Coco + Qifrey + Wakana + Marin;
-- Mikasa initially alone.
-
-Known content:
-- G3 starts arriving only in the late-S1 world-time stretch;
-- more vulnerable arrivals are found / gathered through a decent merchant / caravan route;
-- outdoor-capable characters can remain separate longer;
-- seed Okarun's Momo-specific memory hole before S2;
-- G3 does not merge with the main household in S1.
-
-Needs:
-- exact scene structure;
-- exact arrival order / road handoffs;
-- final placement in late S1.
-
-Primary files:
-- `THE_ARRIVALS_GROUP3_DIRECTION_v0.1.md`
-- `THE_ARRIVALS_S1_S2_G3_HANDOFF_v0.1.md`
-- `THE_ARRIVALS_S1_LATE_TEXTURE_ADDENDUM_v0.1.md`
-
-**Day in the Life / Maomao Chocolate episode-sized concept**
-
-Known content:
-- OVA-like domestic episode, not empty fan service;
-- multiple underused character pairings / ordinary household routines;
-- Maomao makes experimental chocolate with mild aphrodisiac-style / lowered-inhibition effect;
-- Frieren accidentally eats one and becomes unusually cuddly / affectionate with Mau;
-- Fern becomes jealous / protective and stops an attempted kiss because Mau does not understand what is happening;
-- Maomao returns and gets scolded;
-- closing gag: Mau asks if Frieren is normal again and Frieren insists `That never happened.`
-
-Important placement correction:
-- this episode is **NOT locked as the final full-length S1 episode**;
-- final placement remains open;
-- Sukuna remains the final season beat regardless.
-
-Primary files:
-- `THE_ARRIVALS_S1_FINAL_DAY_IN_THE_LIFE_EPISODE_v0.1.md` for content;
-- `THE_ARRIVALS_S1_DAY_IN_THE_LIFE_PLACEMENT_CORRECTION_v0.1.md` for current placement authority.
-
-#### Level 1 — Final season sting
-
-**Sukuna / Malevolent Shrine**
+### S1E16 — `The World Opens`
 
 Status:
-- conceptually resolved;
-- not treated as an independent full episode by default;
-- final placement = last S1 beat.
 
-Current direction:
-- Sukuna appears in the nearest major regional city connected to the mercantile network;
-- detects / recognizes Yuta's cursed energy presence;
-- local `Otherworlder` framing is understood;
-- reaction in the spirit of `So that brat is here.`;
-- `Domain Expansion: Malevolent Shrine.`;
-- cut / end Season 1.
+- late-S1 world-opening position accepted;
+- mercantile town / guild / economy / coast-island foreshadowing / neutral `Otherworlder` framing established;
+- serves as the anchor immediately before the final three episodes;
+- next human gate = Voice Check.
+
+Primary file:
+
+- `THE_ARRIVALS_S1_E16_PLUS_WORLD_G3_ROUGH_v0.1.md`
+
+### S1E17 — `Guild Jobs / Working Days`
+
+Status:
+
+- rapid structural review APPROVED;
+- multi-day jobs with changing pairings;
+- deliberately mixes underused character combinations with established combinations;
+- not everyone goes into the field;
+- Maomao / Momo / Rimuru and others can contribute through home, medicine, cooking, repairs, planning, and infrastructure;
+- Frieren/Fern overprotection heals in stages;
+- recurring evening payoff: everyone returns and eats together;
+- exact mission matrix intentionally left open for detailed execution.
 
 Primary files:
+
+- `THE_ARRIVALS_S1_LATE_TEXTURE_ADDENDUM_v0.1.md`
+- `THE_ARRIVALS_S1_E17_E19_RAPID_STRUCTURAL_REVIEW_v0.1.md`
+
+### S1E18 — `Day in the Life / Maomao Chocolate`
+
+Status:
+
+- rapid structural review APPROVED;
+- domestic ensemble episode with deliberate underused pairings;
+- Maomao chocolate / lowered-inhibition Frieren comedy spine retained;
+- no forced romance canon;
+- closing `That never happened` gag retained;
+- exact secondary combinations intentionally left open so completed execution can still surprise the human author.
+
+Primary files:
+
+- `THE_ARRIVALS_S1_FINAL_DAY_IN_THE_LIFE_EPISODE_v0.1.md`
+- `THE_ARRIVALS_S1_E17_E19_RAPID_STRUCTURAL_REVIEW_v0.1.md`
+
+### S1E19 — `G3 / Road Days / Season Finale`
+
+Status:
+
+- rapid structural review APPROVED;
+- former G3-first-days and Road-Days units are merged into one intentionally longer finale;
+- episode intercuts G1+G2 and G3 rather than presenting two sequential halves;
+- G3 remains Mikasa, Okarun, Umaru, Kita, Marin, Wakana Gojo, Qifrey, Coco;
+- favored G3 grouping direction remains Okarun/Umaru/Kita, Coco/Qifrey/Wakana/Marin, Mikasa initially alone;
+- Okarun's Momo-specific memory gap is seeded but not revealed;
+- late G3 image shows the three threads resting in their own ways;
+- then G1+G2 return / settle into the inn for a peaceful nighttime routine;
+- final hard cut to midday Sukuna;
+- Sukuna senses Yuta, says `So that brat is here.`, reacts impulsively with `Malevolent Shrine`, then realizes the environment/world context is wrong and later suppresses his cursed energy;
+- this directly sets up S2E1 Yuta briefly sensing Sukuna and then losing him.
+
+Primary files:
+
+- `THE_ARRIVALS_GROUP3_DIRECTION_v0.1.md`
 - `THE_ARRIVALS_S1_S2_G3_HANDOFF_v0.1.md`
-- `THE_ARRIVALS_S1_FINAL_PAYOFF_AUDIT_v0.1.md`
+- `THE_ARRIVALS_S1_LATE_ORDER_AND_FINALE_v0.1.md`
+- `THE_ARRIVALS_S1_E17_E19_RAPID_STRUCTURAL_REVIEW_v0.1.md`
 
-## Current S1 count arithmetic
+---
 
-The current ~19 episode-sized concepts come from:
+# Current S1 production path
 
 ```text
-E1                                  = 1
-E2–E15                              = 14
-World Opens                         = 1
-Guild Jobs / Working Days           = 1
-G3 Part 1 / First Days              = 1
-Day in the Life / Chocolate         = 1
----------------------------------------
-Current episode-sized material      ≈ 19
+S1E1
+= LEVEL 4 / MANGA-READY
+
+S1E2–E19
+= LEVEL 3 / READY FOR VOICE CHECK
 ```
 
-The Sukuna sting is **not added as a twentieth full episode** unless later pacing work deliberately promotes it into one.
+For S1E2–E19 the next path is:
 
-Because late-S1 placement is still open, do not infer that all concepts above already have final sequential episode numbers.
+```text
+representative Voice Check
+→ human GREEN LIGHT per episode
+→ assistant Full Episode Construction
+→ assistant Manga Panelization + QC
+→ LEVEL 4 / manga-ready
+→ rough manga
+→ human Stage 5 visual review
+```
 
-## Season 2 — currently built opening block
+Voice Check is not intended to expose every line. Review only dialogue / interactions needed to calibrate voice and consequential character behavior. Reaction sounds, incidental banter, many transitions, and low-risk micro-dialogue can remain unseen until the completed artifact.
 
-Current status:
+Visual storytelling has priority where an image communicates the point better than written explanation.
 
-> **approximately 6 S2 episodes already have a real rough skeleton / idea structure.**
+---
 
-They are not detailed-script ready at the same level as S1E2–E15, but the causal chain is already substantial.
+# Current Season 1 sequence
 
-### S2E1 — Yuta Knows
+```text
+E1   Not This Time
+E2   First Home
+E3   Bocchi
+E4   Yuta
+E5   Ordinary Days
+E6   Rimuru / Raphael / Mau Overload
+E7   Stories / The Lake
+E8   Trust / Building a Home
+E9   Making It Ours
+E10  Four Strangers / G2 Arrival
+E11  There You Are
+E12  Rooms for Everyone
+E13  Space
+E14  The Lake
+E15  A Birthday for Someone Who Never Had One
+E16  The World Opens
+E17  Guild Jobs / Working Days
+E18  Day in the Life / Maomao Chocolate
+E19  G3 / Road Days / Season Finale
+```
+
+Working titles can still receive later title-polish without reopening approved episode structure.
+
+---
+
+# Season 2 — currently built opening block
+
+Approximately six S2 episodes already have a real rough skeleton.
+
+## S2E1 — Yuta Knows
+
 - Yuta briefly senses Sukuna;
 - genuine terror;
-- Sukuna suppresses / hides CE;
-- Yuta knows Sukuna is here but not where he is or what he intends;
-- G3 continues traveling / being gathered.
+- Sukuna suppresses / hides cursed energy;
+- Yuta knows Sukuna is here but not where he is;
+- G3 continues its travel / gathering process.
 
-### S2E2 — Normal Life Under Hidden Threat
-- G1+G2 continue home / guild / errands while audience knows Sukuna exists;
+## S2E2 — Normal Life Under Hidden Threat
+
+- G1+G2 continue ordinary life while the audience knows Sukuna exists;
 - G3 continues road / caravan travel.
 
-### S2E3 — Rumors
-- first contradictory reports of destroyed major city arrive through medieval information routes;
-- `Otherworlder` begins changing from neutral descriptor into a feared category.
+## S2E3 — Rumors
 
-### S2E4 — Fear / Social Deterioration
-- mercantile town increasingly connects the catastrophe to known Otherworlders;
-- coexistence deteriorates;
-- Frieren / Rimuru responses differ in emphasis but group has not yet abandoned the relationship.
+- contradictory reports of the destroyed major city reach the mercantile network;
+- `Otherworlder` begins changing from neutral descriptor into feared category.
 
-### S2E5 — Bocchi Incident
-- Mau + Bocchi make an ordinary supply / ingredient trip;
+## S2E4 — Fear / Social Deterioration
+
+- mercantile town increasingly connects the catastrophe with known Otherworlders;
+- coexistence worsens.
+
+## S2E5 — Bocchi Incident
+
+- Mau + Bocchi make an ordinary town trip;
 - social confrontation escalates;
 - Bocchi receives a medically minor but visibly bloody forehead cut;
-- Mau panics and brings her home;
-- household realizes vulnerable members cannot rely on a strong person always being physically present;
-- relocation becomes a real necessity.
+- the household realizes vulnerable members cannot depend on a strong protector always being physically present;
+- relocation becomes necessary.
 
-### S2E6 — G3 Arrives
-- merchant / caravan avoids bringing G3 through the now-hostile mercantile town;
-- directs them to the abandoned settlement where other Otherworlders live;
-- Kita first recognizes Bocchi from behind, then Bocchi turns and Kita notices the bandage;
-- early G3 / household interactions begin;
-- Momo comes downstairs, sees Okarun, and remembers him;
-- Momo: `Okarun!`
-- Okarun: `Who are you?`
+## S2E6 — G3 Arrives
+
+- merchant / caravan avoids the increasingly hostile mercantile town and directs G3 toward the abandoned settlement;
+- Kita recognizes Bocchi first, then sees her injury;
+- G3 / household interactions begin;
+- Momo sees Okarun and says `Okarun!`;
+- Okarun answers `Who are you?`;
 - cut.
 
 Primary file:
+
 - `THE_ARRIVALS_S1_S2_G3_HANDOFF_v0.1.md`
 
-## S2 after the first six — direction known, episodes not yet built
+---
 
-Known later spine includes:
+# S2 after the first six
+
+Known later spine:
 
 ```text
 controlled trust / power disclosure
 → exploration / cartography
-→ search for defensible territory
+→ defensible territory search
 → island candidate
 → painful departure from first home
-→ secure settlement / city-building from necessity
+→ secure settlement / city building from necessity
 → later Mau flower reconstruction payoff
 → longer Sukuna / social / world consequences
 ```
 
-These are arc directions, **not yet counted as finished episode concepts**.
+These remain arc directions rather than finished episode structures.
 
-## Production-readiness summary
+---
 
-```text
-S1E1
-= READY TO GENERATE ROUGH MANGA
+# Creator-surprise principle
 
-S1E2–E15
-= READY TO START DETAILED STORY / DIALOGUE PASSES
+The human author intentionally wants to preserve some mystery in completed episodes rather than pre-reviewing every line and every small interaction.
 
-Late-S1 episode concepts
-= STRONG ROUGH IDEAS; NEED FINAL ORGANIZATION + PLACEMENT
+After the S1 Voice Check corpus becomes sufficiently rich, later seasons may reduce mandatory Voice Checks. The assistant should be able to handle routine dialogue independently and escalate only when:
 
-S2 first ~6
-= REAL ROUGH SKELETON EXISTS; NOT YET DETAILED SCRIPT ROADMAP
-```
+- character voice is genuinely uncertain;
+- a major emotional conversation has multiple materially different valid directions;
+- canon / continuity conflicts with an approved direction;
+- the conversation itself changes a relationship or arc.
 
-## Precedence / stale-number warning
+This preserves creator excitement while retaining quality control.
 
-Some earlier late-S1 files used provisional labels such as `E17` / `E18` while the roadmap was still evolving. Those numbers are **not authoritative final numbering**.
+---
 
-For current late-S1 / S2 timing, precedence is:
+# Precedence
 
-1. `THE_ARRIVALS_S1_S2_G3_HANDOFF_v0.1.md`
-2. `THE_ARRIVALS_S1_FINAL_PAYOFF_AUDIT_v0.1.md`
-3. `THE_ARRIVALS_S1_LATE_TEXTURE_ADDENDUM_v0.1.md`
-4. `THE_ARRIVALS_S1_DAY_IN_THE_LIFE_PLACEMENT_CORRECTION_v0.1.md`
-5. older `E16+` numbering only where it does not conflict with newer decisions.
+For current late-S1 numbering / structure, precedence is:
 
-This overview is intended to be the quick answer to: **how much story exists, how ready is each block, and what is actually ready for manga production right now?**
+1. `THE_ARRIVALS_S1_E17_E19_RAPID_STRUCTURAL_REVIEW_v0.1.md`
+2. `THE_ARRIVALS_S1_LATE_ORDER_AND_FINALE_v0.1.md`
+3. this status overview;
+4. earlier late-S1 addenda where they do not conflict with the approved 19-episode structure.
+
+Older files that refer to a separate E20 are stale on numbering but may still contain valid scene material now absorbed into E19.

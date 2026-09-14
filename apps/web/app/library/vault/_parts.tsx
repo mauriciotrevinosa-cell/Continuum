@@ -52,7 +52,10 @@ export function SearchBox({ q = "", placeholder }: { q?: string; placeholder?: s
 function progressWidth(item: ContinueItem): number {
   const p = item.progress;
   if (p.completed_at) return 100;
-  if (p.medium === "READING" && p.page_count) return Math.round(((p.page_index ?? 0) + 1) / p.page_count * 100);
+  if (p.medium === "READING" && p.page_count) {
+    const first = item.unit?.first_page_index ?? 0;
+    return Math.round((((p.page_index ?? first) - first + 1) / p.page_count) * 100);
+  }
   if (p.position_ms && p.duration_ms) return Math.round((p.position_ms / p.duration_ms) * 100);
   return 4;
 }
@@ -72,7 +75,7 @@ export function ContinueCard({ item }: { item: ContinueItem }) {
       <span className="series">{target?.series_title ?? target?.source.file_name ?? "Unavailable"}</span>
       <span className="unit">
         {target ? target.label : "This file is not in the catalog right now."}
-        {item.state === "resume" ? ` · ${progressLabel(item.progress) ?? ""}` : ""}
+        {item.state === "resume" ? ` · ${progressLabel(item.progress, target?.first_page_index ?? 0) ?? ""}` : ""}
       </span>
       <span className="progress-line" aria-hidden>
         <i style={{ width: `${progressWidth(item)}%` }} />
@@ -116,7 +119,7 @@ export function SeriesCard({ series }: { series: SeriesSummary }) {
 
 export function UnitRow({ unit, showSeries = false }: { unit: UnitView; showSeries?: boolean }) {
   const href = unitHref(unit);
-  const progress = progressLabel(unit.progress);
+  const progress = progressLabel(unit.progress, unit.first_page_index ?? 0);
   const title = showSeries && unit.series_title ? `${unit.series_title} · ${unit.label}` : unit.label;
   const file = unit.source.member_name
     ? `${unit.source.member_name} — in ${unit.source.file_name}`

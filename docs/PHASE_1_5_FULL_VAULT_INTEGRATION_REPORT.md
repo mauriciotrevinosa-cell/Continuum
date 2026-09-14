@@ -102,7 +102,8 @@ Partial overrides recorded because the documents state them: the placement corre
 | `ruff check`, `ruff format --check` | pass |
 | `mypy packages apps workers` (strict) | pass (97 source files) |
 | `lint-imports` | 4 contracts kept |
-| `pytest` with PostgreSQL (isolated `continuum_test`) | 541 passed, 1 skipped (Windows, local); CI on the pushed commit |
+| `pytest` with PostgreSQL (isolated `continuum_test`) | 541 passed, 1 skipped (Windows, local) |
+| GitHub Actions | green on every Phase 1.5 push after the client regeneration (Linux + PostgreSQL, Windows paths, offline, OpenAPI drift, web), e.g. run `34823717979` |
 | web: `lint`, `typecheck`, `vitest`, `next build` | pass (15 vitest tests) |
 | OpenAPI client regenerated | committed |
 

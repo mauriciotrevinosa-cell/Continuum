@@ -333,11 +333,13 @@ export function confidenceTone(confidence: Confidence): "ok" | "warn" | "err" {
   return confidence === "HIGH" ? "ok" : confidence === "MEDIUM" ? "warn" : "err";
 }
 
-export function progressLabel(progress: ProgressView | null): string | null {
+export function progressLabel(progress: ProgressView | null, firstPage = 0): string | null {
   if (!progress) return null;
   if (progress.completed_at) return progress.medium === "READING" ? "Read" : "Watched";
   if (progress.medium === "READING" && progress.page_index !== null) {
-    return `Page ${progress.page_index + 1}`;
+    // Pages are counted within the chapter, as a reader would say it.
+    const page = progress.page_index - firstPage + 1;
+    return progress.page_count ? `Page ${page} of ${progress.page_count}` : `Page ${page}`;
   }
   if (progress.position_ms !== null) {
     const total = Math.floor(progress.position_ms / 1000);

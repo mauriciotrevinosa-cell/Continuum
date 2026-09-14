@@ -56,7 +56,7 @@ export default async function SeriesPage({ params }: { params: Promise<{ seriesK
               <Link key={ref.unit_key} className="continue-card" href={unitHref(ref.unit, ref.progress) ?? "#"}>
                 <span className="what">{ref.progress?.medium === "READING" ? "Continue reading" : "Continue watching"}</span>
                 <span className="series">{ref.unit.label}</span>
-                <span className="unit">{progressLabel(ref.progress)}</span>
+                <span className="unit">{progressLabel(ref.progress, ref.unit.first_page_index ?? 0)}</span>
               </Link>
             ) : null,
           )}

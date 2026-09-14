@@ -1,9 +1,12 @@
 # The Arrivals — Season 1 Pacing Expansion Audit v0.1
 
-**Status:** PRODUCTION PACING REVIEW / SOFT TARGETS  
+**Status:** SUPERSEDED DIAGNOSTIC / HISTORICAL  
 **Date:** 2026-09-14  
 **Project:** `The Arrivals`  
-**Branch:** `creative/s1-season-board-v0.1`
+**Branch:** `creative/s1-season-board-v0.1`  
+**Superseded by:** `THE_ARRIVALS_S1_INTEGRATED_CINEMATIC_REVISION_OVERLAY_v0.2.md`
+
+> Historical note: this was the first pacing audit, produced before the creator-approved 40 cinematic beats, clothing motif, Spatial Bible v0.2 and final spatial review were fully integrated. Its `~1,261` estimate is no longer the current production expectation. The current integrated provisional Season-1 total is **1,304 pages**.
 
 ## Purpose
 
@@ -11,22 +14,22 @@ Review the completed Level-4 S1E1–S1E19 manga corpus for places where visual s
 
 This pass does **not** add plot, reopen GREEN LIGHT decisions, or impose chapter/page quotas. It identifies modest visual expansions for silence, establishing shots, reactions, transitions, page turns, emotional holds, and other manga-native pacing needs.
 
-The current Level-4 panel scripts remain valid production baselines. These expansion numbers are **soft rough-stage targets** to be incorporated when building chapter packages / rough manga if the actual compositions benefit from them.
+The current Level-4 panel scripts remain valid production baselines. These expansion numbers were **soft rough-stage targets** later superseded by the integrated revision overlay.
 
-## Season-level result
+## Season-level result — HISTORICAL
 
-Current provisional total: **1,227 pages**.  
-Recommended soft pacing target after this audit: **~1,261 pages**.  
-Net change: **+34 pages (~2.8%)**.  
-Current chapter-count structure remains unchanged.
+Original provisional total: **1,227 pages**.  
+First soft pacing estimate: **~1,261 pages**.  
+First estimated net change: **+34 pages (~2.8%)**.  
+Chapter-count structure remained unchanged.
 
-The point is not to make the manga longer for its own sake. The extra pages are reserved for scenes whose emotional or spatial meaning is stronger when the reader is allowed to stay in the image.
+The point was not to make the manga longer for its own sake. The extra pages were reserved for scenes whose emotional or spatial meaning is stronger when the reader is allowed to stay in the image.
 
 ---
 
-# Episode review
+# Episode review — HISTORICAL FIRST PASS
 
-| Episode | Current | Soft target | Change | Recommendation |
+| Episode | Current at time of audit | First soft target | Change | Recommendation |
 |---|---:|---:|---:|---|
 | E1 | 79 | 79 | 0 | Keep. Gold-standard pacing reference. |
 | E2 | 46 | 50 | +4 | Expand travel quiet, abandoned-inn discovery, first-night settling, and pre-Bocchi calm. |
@@ -50,9 +53,9 @@ The point is not to make the manga longer for its own sake. The extra pages are 
 
 ---
 
-# Detailed pacing directives
+# Detailed pacing directives from first pass
 
-## E2 — First Home (+4)
+## E2 — First Home (+4 first-pass estimate)
 Use added space for:
 - walking/travel panels that establish Frieren and Mau as a two-person rhythm;
 - exterior/interior reveal of the abandoned settlement and inn;
@@ -96,7 +99,7 @@ Use extra pages for:
 No romantic-rival framing.
 
 ## E14 — The Lake (+6)
-This is the highest-priority breathing expansion.
+This was the highest-priority breathing expansion in the first audit.
 
 Reserve added pages for:
 - larger water/shore compositions during the misunderstanding reveal;
@@ -110,7 +113,7 @@ Reserve added pages for:
 
 The added pages must not turn the scene into a romance confession.
 
-## E15 — Birthday (+4)
+## E15 — Birthday (+4 first-pass estimate)
 Use extra pages for:
 - ordinary companionship during Frieren's distraction trip;
 - a quiet hold after the birthday definition;
@@ -118,7 +121,7 @@ Use extra pages for:
 - Mau processing cake/gifts individually rather than compressing all reactions;
 - final shared-room stillness with gifts + E9 flower.
 
-## E18 — Maomao Chocolate (+4)
+## E18 — Maomao Chocolate (+4 first-pass estimate)
 Use extra pages before the attempted kiss, not after it.
 
 Give visual progression to:
@@ -135,33 +138,19 @@ The extra room should make the near-kiss feel like the end of an escalation, not
 
 # Chapter structure consequence
 
-**No chapter-count change is recommended in this audit.**
+No chapter-count change was recommended, and that conclusion remains valid after the integrated revision.
 
-The existing natural cuts remain good. The likely expansions should occur **inside existing chapters**, moving page numbers while preserving the dramatic page-turn/cut logic.
-
-The rough-stage rule is:
+The rule remains:
 
 > Preserve the dramatic cut; allow the exact page number to move.
 
-Therefore a chapter currently ending on p.20 may end on p.22 after visual expansion if the same dramatic beat remains the chapter endpoint.
-
 ---
 
-# M3 / Continuum consequence
+# Current production direction
 
-When M3 builds chapter packages, it should not treat the Level-4 provisional page count as a hard immutable count.
+For M3 and all current manga work, do **not** use this file's old `~1,261` number as the active expectation.
 
-For episodes flagged in this audit, chapter-package generation should allow controlled visual expansion where:
-- a panel is better promoted to a half/full page;
-- silent reaction pages improve readability;
-- establishing geography needs more space;
-- a page turn becomes stronger with one extra setup page;
-- a montage is too dense to remain legible.
-
-Any expansion must preserve approved story meaning and dialogue unless the creator explicitly changes it.
-
-## Current recommendation
-
-Use **~1,261 Season-1 pages as a soft pacing expectation**, while keeping **1,227 as the current exact scripted baseline** until rough-page composition confirms the expansions.
-
-Do not bulk-renumber/rewrite every panel script solely to hit the soft target. Apply the extra room intentionally during chapter-package / rough construction and then lock exact page counts after visual review.
+Use instead:
+- `THE_ARRIVALS_S1_INTEGRATED_CINEMATIC_REVISION_OVERLAY_v0.2.md`;
+- current integrated provisional total: **1,304 pages**;
+- base panel scripts plus the overlay as one production source package.

@@ -1,0 +1,92 @@
+{
+  "schema_version": "0.1",
+  "package_id": "the-arrivals-origami-girl-reference",
+  "working_name": "Origami Girl",
+  "project": "The Arrivals",
+  "status": "CANDIDATE_CHARACTER",
+  "priority": "HIGH",
+  "canon_state": "NOT_LOCKED",
+  "project_role": {
+    "mau_arc": true,
+    "relationship_importance": "POTENTIALLY_MAJOR",
+    "relationship_note": "Important girl tied to Mau's future emotional arc; exact relationship remains open.",
+    "romance": "POSSIBLE_NOT_DECIDED"
+  },
+  "source": {
+    "source_type": "FAN_ART",
+    "source_subtype": "AI_GENERATED_USER_REPORTED",
+    "platform": "INSTAGRAM",
+    "creator_handle": "origami_girl.jp",
+    "source_url": null,
+    "original_filename": "origami_girl.jp_1789290302_3985065051853794922_63855870779.jpg",
+    "filename_tokens": [
+      "1789290302",
+      "3985065051853794922",
+      "63855870779"
+    ],
+    "filename_tokens_semantics": "UNVERIFIED_OPAQUE",
+    "sha256": "2232a0241316c9317d9886c38d39b364ccb0425202d06d6ad0fdb1501c64be90",
+    "media_type": "image/jpeg",
+    "width": 1080,
+    "height": 1339,
+    "raw_asset_in_git": false,
+    "raw_asset_policy": "LOCAL_ONLY_EXTERNAL_REFERENCE_MEDIA",
+    "expected_intake_path": "C:\\ContinuumIntake\\Fan Art\\Instagram\\origami_girl.jp_1789290302_3985065051853794922_63855870779.jpg"
+  },
+  "reference_roles": [
+    "IDENTITY",
+    "OUTFIT",
+    "EXPRESSION",
+    "MOOD",
+    "STYLE"
+  ],
+  "character_vault_facets": {
+    "identity": [
+      "face",
+      "hair",
+      "silhouette"
+    ],
+    "wardrobe": [
+      "oversized black hoodie/top",
+      "very light sleeves"
+    ],
+    "acting": [
+      "soft curious expression",
+      "quiet intimate presence"
+    ]
+  },
+  "design_anchor": {
+    "hair": "short peach / soft pink",
+    "expression": "soft, curious, slightly distant",
+    "outfit": "oversized black hoodie/top with very light sleeves",
+    "vibe": [
+      "intimate",
+      "modern",
+      "gentle"
+    ],
+    "silhouette": "clean and memorable"
+  },
+  "open_questions": [
+    "final in-story name",
+    "origin / source-world status",
+    "personality",
+    "first appearance",
+    "exact relationship with Mau",
+    "abilities / powers",
+    "arrival status",
+    "canonical outfit"
+  ],
+  "tags": [
+    "soft",
+    "intimate",
+    "hoodie",
+    "peach_hair",
+    "modern",
+    "romantic_potential",
+    "mau_arc",
+    "candidate_character",
+    "fan_art",
+    "ai_generated_user_reported"
+  ],
+  "lineage_policy": "The source remains a third-party reference. Any approved Continuum character design derived from it must be a separate project artifact with explicit lineage and must not silently promote this source to canon."
+}

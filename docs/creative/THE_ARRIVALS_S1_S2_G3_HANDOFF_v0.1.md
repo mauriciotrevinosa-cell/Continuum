@@ -138,7 +138,26 @@ G3 therefore can reach the main cast without first entering the hostile mercanti
 
 The arrival occurs roughly a day after the Bocchi incident, once Bocchi is already medically okay but visibly bandaged.
 
-Kita sees Bocchi with the bandage before the full group has time to settle into introductions and immediately realizes something happened.
+### Kita / Bocchi reunion beat
+
+Kita does **not** identify Bocchi because of the bandage.
+
+Kita first sees Bocchi from behind and recognizes her silhouette / hair / presence. She freezes and calls to her before seeing Bocchi's face clearly.
+
+Bocchi turns around.
+
+Only then does Kita notice the bandage on her forehead.
+
+The emotional sequence should therefore be:
+
+```text
+recognition / relief
+→ Bocchi turns
+→ Kita sees the injury
+→ relief immediately becomes concern
+```
+
+This allows Kita to recognize Bocchi because she is Bocchi, while the injury becomes the second piece of information that tells Kita something has already gone wrong in this new world.
 
 Other early interactions can begin around this moment:
 

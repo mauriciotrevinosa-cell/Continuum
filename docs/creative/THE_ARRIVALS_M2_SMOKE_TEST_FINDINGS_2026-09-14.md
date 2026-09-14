@@ -81,19 +81,41 @@ Current M2 entry point is therefore `Roughs -> Open rough workspace`, which vali
 
 M3 should add an unambiguous production entry point from an approved panel script/chapter package, e.g. a `Generate rough` / `Start chapter package` action, rather than requiring the user to infer that Roughs is the generation surface.
 
+## STATUS-MODEL ISSUE — M2 technical validation must not equal creative approval
+
+The inspected S1E1 page-35 / Scene-7 test shows that M2 successfully preserved a bundle, source plate, recipe, seed, workflow, hashes and multiple attempts. This is useful evidence that the workflow machinery works.
+
+However, the existing attempt is visually a deterministic test diagram/source-derived mockup, not approved manga artwork. The current UI shows one attempt as `Approved`, which risks conflating two different meanings:
+
+- **technical acceptance:** the workflow executed correctly and the test output is sufficient to prove persistence/reproducibility;
+- **creative approval:** the image/page is accepted as actual manga art for the project.
+
+These must be separate states before M3.
+
+Recommended model:
+- M2/test artifacts should be tagged `TEST ONLY`, `NON-CANON` and/or `WORKFLOW VERIFIED` / `TECHNICAL PASS`.
+- `Approved` in production should be reserved for human creative approval of an actual rough/final manga artifact.
+- Attempt-level acceptance should not automatically make a page/chapter/project creatively approved.
+- Test attempts must not count toward `rough manga`, `final manga`, or `chapter approval` completion metrics.
+- Historical M2 attempt(s) may remain for auditability, but should be explicitly excluded from production-ready counts.
+
+The inspected test also reinforces the manifest issue: its bundle visibly contains a canon Frieren reference plus a source plate, but not yet the richer multi-reference character/style manifest expected for M3.
+
 ## Recommended M3 order
 
 1. Fix/resync The Arrivals project ingestion so current Git Level 4 artifacts appear individually (E1–E12 at present).
-2. Resolve character/reference manifests and make generation attempts consume those manifests.
-3. Build the S1E1 chapter package directly from the approved S1E1 manga panel script and approved chapter cuts.
-4. Add/verify clear production entry point for real rough generation.
-5. Connect local image model.
-6. Run non-canon visual sample first (color + B&W manga) using real reference bundles.
-7. Verify persistence by closing/reopening Continuum and confirming job, recipe, exact refs, settings, attempts, approvals and outputs survive.
-8. PASS -> begin real S1E1 manga production.
+2. Separate technical/test acceptance from creative `Approved` status and mark M2 artifacts as test-only/non-canon.
+3. Resolve character/reference manifests and make generation attempts consume those manifests.
+4. Build the S1E1 chapter package directly from the approved S1E1 manga panel script and approved chapter cuts.
+5. Add/verify clear production entry point for real rough generation.
+6. Connect local image model.
+7. Run non-canon visual sample first (color + B&W manga) using real reference bundles.
+8. Verify persistence by closing/reopening Continuum and confirming job, recipe, exact refs, settings, attempts, approvals and outputs survive.
+9. PASS -> begin real S1E1 manga production.
 
 ## Current decision
 
 M2 workflow foundation: **PASS with actionable findings**.  
-Ready for M3 implementation: **YES, after project-index resync and reference-manifest consumption are treated as first-order requirements.**  
+M2 existing `Approved` test output: **technical proof only, not creative manga approval**.  
+Ready for M3 implementation: **YES, after project-index resync, status separation and reference-manifest consumption are treated as first-order requirements.**  
 Ready for real manga quality evaluation today: **NO — no real image model is connected yet.**

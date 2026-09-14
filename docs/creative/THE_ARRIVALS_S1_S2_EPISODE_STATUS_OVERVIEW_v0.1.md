@@ -5,7 +5,7 @@
 **Project:** `The Arrivals`  
 **Branch:** `creative/s1-season-board-v0.1`
 
-This document is the quick source of truth for episode count and production readiness. Episode-specific Draft 1 / Manga Panel Script / Level-4 overview / GREEN LIGHT / targeted addendum files take precedence over older rough-roadmap language.
+This document is the quick source of truth for episode count and production readiness. Episode-specific Draft 1 / Manga Panel Script / Level-4 overview / GREEN LIGHT / targeted addendum files plus the integrated cinematic revision overlay take precedence over older rough-roadmap language.
 
 ---
 
@@ -17,41 +17,69 @@ Sukuna's `Malevolent Shrine` reveal is the final sting inside S1E19, not a twent
 
 ## Readiness definition
 
-**Level 4 / manga-ready** = approved story direction + continuous full draft + manga panel script + production/QC pass + editorial page/chapter overview. Next human gate is rough manga / Stage 5.
+**Level 4 / manga-ready** = approved story direction + continuous full draft + manga panel script + production/QC pass + editorial page/chapter overview, including any later approved production overlays/addenda. Next human gate is rough manga / Stage 5.
 
 ---
 
 # Season 1 — ALL EPISODES LEVEL 4 / MANGA-READY
 
-| Episode | Working title | Provisional pages | Status |
+The first Level-4 panelization totaled 1,227 provisional pages. After creator-approved cinematic-breathing, spatial-continuity and clothing-callback integration, the **current production expectation is 1,304 provisional pages**.
+
+| Episode | Working title | Integrated provisional pages | Status |
 |---|---|---:|---|
-| S1E1 | `Not This Time` | 79 | Level 4 |
-| S1E2 | `First Home` | 46 | Level 4 |
-| S1E3 | title pending | 58 | Level 4 |
-| S1E4 | title pending | 52 | Level 4 |
-| S1E5 | `Ordinary Days` | 48 | Level 4 |
-| S1E6 | `Rimuru / Raphael / Mau Overload` | 64 | Level 4 |
-| S1E7 | `Stories / The Lake` | 66 | Level 4 |
-| S1E8 | `Trust / Building a Home` | 70 | Level 4 |
-| S1E9 | `Making It Ours` | 50 | Level 4 |
-| S1E10 | `Four Strangers / G2 Arrival` | 68 | Level 4 |
-| S1E11 | `There You Are` | 72 | Level 4 |
-| S1E12 | `Rooms for Everyone` | 68 | Level 4 |
-| S1E13 | `Space` | 56 | Level 4 |
-| S1E14 | `The Lake` | 62 | Level 4 |
-| S1E15 | `A Birthday for Someone Who Never Had One` | 60 | Level 4 |
-| S1E16 | `The World Opens` | 72 | Level 4 |
-| S1E17 | `Guild Jobs / Working Days` | 68 | Level 4 |
-| S1E18 | `Day in the Life / Maomao Chocolate` | 64 | Level 4 |
-| S1E19 | `G3 / Road Days / Season Finale` | 104 | Level 4 |
+| S1E1 | `Not This Time` | 81 | Level 4 |
+| S1E2 | `First Home` | 52 | Level 4 |
+| S1E3 | title pending | 60 | Level 4 |
+| S1E4 | title pending | 56 | Level 4 |
+| S1E5 | `Ordinary Days` | 51 | Level 4 |
+| S1E6 | `Rimuru / Raphael / Mau Overload` | 69 | Level 4 |
+| S1E7 | `Stories / The Lake` | 68 | Level 4 |
+| S1E8 | `Trust / Building a Home` | 75 | Level 4 |
+| S1E9 | `Making It Ours` | 54 | Level 4 |
+| S1E10 | `Four Strangers / G2 Arrival` | 70 | Level 4 |
+| S1E11 | `There You Are` | 78 | Level 4 |
+| S1E12 | `Rooms for Everyone` | 71 | Level 4 |
+| S1E13 | `Space` | 62 | Level 4 |
+| S1E14 | `The Lake` | 69 | Level 4 |
+| S1E15 | `A Birthday for Someone Who Never Had One` | 63 | Level 4 |
+| S1E16 | `The World Opens` | 77 | Level 4 |
+| S1E17 | `Guild Jobs / Working Days` | 72 | Level 4 |
+| S1E18 | `Day in the Life / Maomao Chocolate` | 70 | Level 4 |
+| S1E19 | `G3 / Road Days / Season Finale` | 106 | Level 4 |
 
-**Current provisional Season 1 total:** **1,227 manga pages**.  
-**Observed episode range:** **46–104 pages**.  
-**Observed mean:** approximately **64.6 pages per episode**.
+**Current integrated provisional Season 1 total:** **1,304 manga pages**.  
+**Net growth over first Level-4 baseline:** **+77 pages**.  
+**Observed integrated range:** **51–106 pages**.  
+**Observed integrated mean:** approximately **68.6 pages per episode**.  
+**Natural chapter count remains:** **56 chapters**.
 
-These are production observations, **not quotas**. Story need continues to determine length. E19 is intentionally longer because it carries the intercut G3/G1+G2 season-finale braid plus the Sukuna sting.
+These are production observations, **not quotas**. Story need and actual rough composition still control final length.
 
 E1 remains the gold-standard production reference for scene detail and panelization philosophy.
+
+---
+
+# Authoritative integrated revision
+
+The current post-Level-4 production overlay is:
+- `THE_ARRIVALS_S1_INTEGRATED_CINEMATIC_REVISION_OVERLAY_v0.2.md`
+
+Commit introducing the overlay:
+- `9029f049a1f647e887d21bc4752098116eb9f4a1`
+
+For production purposes:
+
+> **base episode panel script + integrated overlay = current authoritative manga script**
+
+The overlay consolidates:
+- approved cinematic breathing beats 1–40;
+- five final spatially grounded beats 41–45;
+- Mau/Frieren clothing callbacks and E18 wardrobe beat;
+- Spatial Bible v0.2;
+- E14 sunset/brooch visual callback;
+- revised per-episode provisional page expectations.
+
+The earlier `THE_ARRIVALS_S1_PACING_EXPANSION_AUDIT_v0.1.md` is historical/diagnostic; its `~1,261` soft estimate is superseded by the integrated 1,304-page production expectation.
 
 ---
 
@@ -61,12 +89,44 @@ E1 remains the gold-standard production reference for scene detail and panelizat
 
 E3 and E4 titles intentionally remain pending. Do not rename them without explicit creator approval.
 
+## Village / inn spatial base
+
+Current spatial source:
+- `THE_ARRIVALS_ABANDONED_VILLAGE_AND_INN_SPATIAL_BIBLE_v0.2.md`
+
+Key locked logic includes:
+- small forest-surrounded abandoned settlement;
+- inn central/largest;
+- five nearby salvage houses;
+- cultivation plot + well + hill/tree;
+- almost-erased route toward the mercantile town;
+- lake path + hut/dock + future waterway toward island region;
+- double-entry inn threshold;
+- underground cellar;
+- Frieren's room largest;
+- Mau has a nominal room but lives primarily in Frieren's room;
+- Bocchi + Fern share after Fern initially stays with Frieren;
+- separate rooms for Yuta, Rimuru, Momo, Maomao and Anko.
+
+## Mau / Frieren clothing motif
+
+Approved source:
+- `THE_ARRIVALS_MAU_FRIEREN_CLOTHING_CALLBACKS_AND_E18_WARDROBE_BEAT_v0.1.md`
+
+Visual arc:
+- pre-separation casual borrowing;
+- missing cap / empty-space callback during separation;
+- post-E14 hoodie restoration beat (`Nice hoodie.` while Mau fails to notice it is his);
+- E18 lowered-inhibition escalation into Mau hoodie + Mau cap + Frieren's own comfortable short bottoms.
+
+This motif is domestic attachment language, not formal romance confirmation.
+
 ## E14 sunset / brooch callback
 
-E14 has a locked visual-storytelling addendum:
+Locked visual-storytelling addendum:
 - `THE_ARRIVALS_S1E14_SUNSET_BROOCH_VISUAL_CALLBACK_ADDENDUM_v0.1.md`
 
-At the late lake payoff, Frieren rests her head against Mau at sunset while the retained Fern-reunion hair ornament/brooch remains visible. Fern notices it before leaving them space. The callback communicates coexistence rather than replacement and adds no romance label.
+At the late lake payoff, Frieren rests her head against Mau at sunset while the retained Fern-reunion hair ornament/brooch remains visible. Fern notices it before leaving them space. The callback communicates coexistence rather than replacement.
 
 ## E16 Otherworlder origin
 
@@ -87,7 +147,7 @@ Maomao's chocolate lowers inhibition but does not create desire, act as a truth 
   - Mikasa initially alone.
 - Okarun knows an important person is missing from memory but cannot identify name, face or relationship; no `Ayase` or `Momo` reveal in S1.
 - G3 remains days from G1+G2 and does not reach the inn in S1.
-- Sukuna hard cut is midday after the safe nighttime inn sequence.
+- Sukuna hard cut is midday after the expanded safe-night inn sequence.
 - Sukuna says `So that brat is here.` then uses `Domain Expansion. Malevolent Shrine.` before realizing the world/context is wrong.
 - Exact attack radius/casualty statistics remain unlocked.
 - Sukuna suppresses cursed energy after the catastrophe.
@@ -101,6 +161,7 @@ Maomao's chocolate lowers inhibition but does not create desire, act as a truth 
 ```text
 S1E1–S1E19
 = LEVEL 4 / MANGA-READY
+= BASE PANEL SCRIPTS + AUTHORITATIVE CINEMATIC REVISION OVERLAY
 
 HUMAN STORY / VOICE GATES
 = COMPLETE
@@ -115,17 +176,16 @@ Human review does not resume until rough manga unless a consequential unresolved
 
 # Continuum / M3 intake consequence
 
-**Manga panel scripts now exist in Git for all S1E1–S1E19.**
+Manga panel scripts exist in Git for all S1E1–S1E19, but **M3 must not ingest those base scripts without the integrated overlay**.
 
-Continuum may ingest the entire Season 1 corpus as Level-4 source material once project indexing is resynced.
-
-Recommended rollout remains conservative:
-1. build the approved **S1E1 chapter package** first;
+Recommended rollout:
+1. build the approved **S1E1 chapter package** from base panel script + E1 overlay additions;
 2. make generation attempts consume resolved multi-reference manifests;
-3. validate generation lineage, batch orchestration, review, change propagation and persistence;
-4. run the creator + ChatGPT non-canon visual sample in color and B&W;
-5. after sample PASS, begin real S1E1 production;
-6. later episodes are already story/panel-ready and can enter the production queue without further Voice Check.
+3. include Spatial Bible / visual addenda where applicable;
+4. validate generation lineage, batch orchestration, review, change propagation and persistence;
+5. run the creator + ChatGPT non-canon visual sample in color and B&W;
+6. after sample PASS, begin real S1E1 production;
+7. later episodes are already story/panel-ready and can enter the queue without further Voice Check.
 
 M2 deterministic sketches remain technical/test artifacts only and do not count as creative manga approval.
 
@@ -186,10 +246,11 @@ controlled trust / power disclosure
 
 # Precedence / anti-staleness rule
 
-For production readiness, use this order:
-1. latest episode-specific full draft / manga panel script / Level-4 overview / targeted addendum / GREEN LIGHT files on `creative/s1-season-board-v0.1`;
-2. this status overview;
-3. current production-pipeline rules;
-4. older rough roadmaps only where newer episode-specific files do not supersede them.
+For production readiness and manga construction, use this order:
+1. `THE_ARRIVALS_S1_INTEGRATED_CINEMATIC_REVISION_OVERLAY_v0.2.md` + applicable latest targeted addenda / Spatial Bible;
+2. latest episode-specific full draft / manga panel script / Level-4 overview / GREEN LIGHT files on `creative/s1-season-board-v0.1`;
+3. this status overview;
+4. current production-pipeline rules;
+5. older rough roadmaps / old pacing estimates only where newer material does not supersede them.
 
-Any earlier statement that says S1E2–S1E19 are waiting for Voice Check or Stage 3–4 is stale.
+Any earlier statement that says S1E2–S1E19 are waiting for Voice Check or Stage 3–4, or that 1,227/1,261 is the current integrated Season-1 production expectation, is stale.

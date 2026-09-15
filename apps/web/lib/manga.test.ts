@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { type PageSummary, approvalDecision, pageBlocker, vaultImage } from "./manga";
+import { type PageAttempt, type PageSummary, approvalDecision, attemptPhase, pageBlocker, vaultImage } from "./manga";
 
 const page = (sequence: number, state: PageSummary["state"], reasons: PageSummary["reasons"] = []): PageSummary => ({
   id: `p${sequence}`,
@@ -32,11 +32,24 @@ describe("page production helpers", () => {
   it("approves a sample page with a technical pass and canon with creative approval", () => {
     expect(approvalDecision("NON_CANON_SAMPLE")).toBe("TECHNICAL_PASS");
     expect(approvalDecision("PRODUCTION")).toBe("CREATIVE_APPROVE");
+    expect(approvalDecision("WORKFLOW_TEST")).toBeNull();
   });
 
   it("routes API image paths through the same-origin passage", () => {
     expect(vaultImage("/production/attempts/x/image?kind=BW_FINISH")).toBe(
       "/vault-api/production/attempts/x/image?kind=BW_FINISH",
     );
+  });
+});
+
+describe("attempt phase", () => {
+  const attempt = (state: string, display: string, job: string | null): PageAttempt =>
+    ({ id: "a", attempt: 1, state, display_state: display, job: job ? { status: job } : null }) as unknown as PageAttempt;
+  it("says queued, rendering, complete and failed plainly", () => {
+    expect(attemptPhase(attempt("QUEUED", "QUEUED", "QUEUED"))).toMatchObject({ active: true, failed: false });
+    expect(attemptPhase(attempt("QUEUED", "QUEUED", "RUNNING")).phase).toContain("Rendering");
+    expect(attemptPhase(attempt("GENERATED", "GENERATED", "SUCCEEDED"))).toEqual({ phase: "Complete", active: false, failed: false });
+    expect(attemptPhase(attempt("QUEUED", "FAILED", "FAILED"))).toMatchObject({ phase: "Failed", failed: true });
+    expect(attemptPhase(null).active).toBe(false);
   });
 });

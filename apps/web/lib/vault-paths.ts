@@ -44,11 +44,11 @@ const ALLOWED: RegExp[] = [
   new RegExp(`^projects/${PROJECT}/(production-runs|production-profiles)$`),
   new RegExp(`^projects/${PROJECT}/episodes/${EPISODE}/(materialize|canonical-readiness|sample-runs)$`),
   new RegExp(
-    `^production/(backends|runs/${UUID}(/(refresh|sample-decision))?|pages/${UUID}(/attempts)?|page-attempts/${UUID}/review)$`,
+    `^production/(backends|runs/${UUID}(/(refresh|sample-decision|preview|preview-render|chapter))?|pages/${UUID}(/(attempts|cast))?|page-attempts/${UUID}/review|source-pages/[0-9a-f]{16,64}/[0-9]{1,6}/image)$`,
   ),
   // M3: the character reference corpus.
   new RegExp(`^library/characters/${UUID}/(overview|observations|corpus/refresh)$`),
-  new RegExp(`^library/character-observations/${UUID}/(review|environment|image)$`),
+  new RegExp(`^library/character-observations/${UUID}/(review|environment|image|visual-origin)$`),
 ];
 
 /** The API path for these route segments, or null when it is not allowed. */

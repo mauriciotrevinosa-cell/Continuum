@@ -65,6 +65,12 @@ export default async function RunPage({ params }: { params: Promise<{ runId: str
         </div>
       </header>
 
+      <div className="row" style={{ marginBottom: 8 }}>
+        <Link className="button small primary" href={`${base}/chapter`}>
+          Chapter review - all {run.pages.length} pages
+        </Link>
+      </div>
+
       <section className="block" aria-label="Current page">
         <div className="block-head">
           <h2>Current page</h2>

@@ -64,7 +64,7 @@ export interface RunView {
   project_key: string;
   episode: string;
   chapter: number | null;
-  purpose: "NON_CANON_SAMPLE" | "PRODUCTION";
+  purpose: "NON_CANON_SAMPLE" | "PRODUCTION" | "WORKFLOW_TEST";
   status: "OPEN" | "SAMPLE_PASSED" | "SAMPLE_FAILED" | "CLOSED";
   decision_notes: string;
   profile: Profile;
@@ -106,7 +106,44 @@ export interface Lineage {
   [key: string]: unknown;
 }
 
+export interface PagePlan {
+  characters_present: string[];
+  primary_character: string | null;
+  supporting_characters: string[];
+  speakers: string[];
+  unmapped_speakers: string[];
+  cast_source: { script: string[]; dialogue: string[]; override: { add: string[]; remove: string[]; primary: string | null } | null };
+  uncertain: string[];
+  scene: string | null;
+  intents: string[];
+  primary_intent: string | null;
+  environment_tags: string[];
+  dialogue_lines: number;
+  silent: boolean;
+  constraints: string[];
+}
+
+/** A complete source manga page in a bundle, by role - never identity evidence. */
+export interface PageRef {
+  role: "GRAMMAR" | "TECHNIQUE" | "ENVIRONMENT";
+  locator: string;
+  series_key: string | null;
+  label: string;
+  unit_key: string | null;
+  page_offset: number | null;
+  image: string | null;
+  source: string;
+  authority: string;
+  status: string;
+  identity_evidence: false;
+  why: string[];
+  teaches: string[];
+  structure: { panel_count: number; largest_panel_share: number; negative_space: number; ink_density: number };
+  score?: number;
+}
+
 export interface PageBody {
+  plan: PagePlan;
   page_key: string;
   label: string | null;
   scene: string | null;
@@ -198,10 +235,13 @@ export interface EnvironmentRef {
 
 export interface PageBundle {
   page: PageBody;
+  plan: PagePlan;
+  technique: PageRef[];
+  environment_pages: PageRef[];
   profile: { id: string; name: string; version: number; hash: string };
   continuity: { id: string; version: number; approved_pages: ApprovedPage[]; character_rules: Record<string, unknown> };
   characters: BundleCharacter[];
-  grammar: GrammarRef[];
+  grammar: PageRef[];
   environment: EnvironmentRef[];
   gaps: string[];
 }
@@ -221,9 +261,13 @@ export interface PageAttempt {
   job: {
     status: string;
     blocked_reason: string | null;
-    remediation: string | null;
+    remediation: unknown;
     error: string | null;
     error_remediation: string | null;
+    created_at?: string | null;
+    started_at?: string | null;
+    updated_at?: string | null;
+    completed_at?: string | null;
   } | null;
   artwork_provenance: Record<string, unknown>;
   continuity_state_id: string | null;
@@ -287,6 +331,83 @@ export interface ObservationList {
   counts?: CharacterOverview["counts"];
 }
 
+export interface QaWarning {
+  kind: string;
+  detail: string;
+  severity: "info" | "warn" | "error";
+}
+
+export interface ChapterPage {
+  id: string;
+  sequence: number;
+  page_key: string;
+  integrated_page: number | null;
+  base_page: number | null;
+  origin: "base" | "overlay";
+  scene: string | null;
+  state: PageState;
+  reasons: Reason[];
+  lineage: { document_id: string | null; version: string | null; overlay: string | null; insertion: string | null };
+  plan: PagePlan;
+  dialogue: Dialogue[];
+  directions: string[];
+  characters: {
+    name: string;
+    character_id: string;
+    grounded: boolean;
+    need: BundleCharacter["need"];
+    observations: Observation[];
+    stylization: Observation[];
+    readiness: Record<string, string>;
+  }[];
+  grammar: PageRef[];
+  technique: PageRef[];
+  environment: EnvironmentRef[];
+  environment_pages: PageRef[];
+  gaps: string[];
+  continuity_pages: number;
+  render: {
+    attempt_id: string | null;
+    latest_attempt_id: string | null;
+    state: string | null;
+    output_class: string | null;
+    content_hash: string | null;
+    created_at: string | null;
+    job: { status: string; blocked_reason: string | null; updated_at: string | null; error: string | null } | null;
+  };
+  warnings: QaWarning[];
+}
+
+export interface ChapterView {
+  run: { id: string; project_key: string; episode: string; chapter: number | null; purpose: string; status: string; profile: { name: string; version: number } | null };
+  pages: ChapterPage[];
+  qa: {
+    pages: number;
+    rendered: number;
+    pages_with_warnings: number;
+    pages_with_cast_warnings: number;
+    pages_with_character_warnings: number;
+    pages_with_environment_gaps: number;
+    pages_with_grammar: number;
+    counts: Record<string, number>;
+    overused_references: { reference: string; pages: number }[];
+  };
+}
+
+/** What an attempt is doing right now, in words, from its state and job. */
+export function attemptPhase(attempt: PageAttempt | null): { phase: string; active: boolean; failed: boolean } {
+  if (!attempt) return { phase: "No attempt yet", active: false, failed: false };
+  const job = attempt.job?.status;
+  if (attempt.display_state === "BLOCKED" || job === "BLOCKED") return { phase: "Blocked", active: false, failed: true };
+  if (attempt.display_state === "FAILED" || job === "FAILED" || job === "CANCELLED") return { phase: "Failed", active: false, failed: true };
+  if (attempt.state === "QUEUED") {
+    return job === "RUNNING"
+      ? { phase: "Rendering - master, then B&W and color, then saving", active: true, failed: false }
+      : { phase: "Queued - waiting for the worker", active: true, failed: false };
+  }
+  return { phase: "Complete", active: false, failed: false };
+}
+
 /* -- vocabulary ---------------------------------------------------------------- */
 export const PAGE_STATE_TONE: Record<PageState, string> = {
   WAITING: "muted",
@@ -318,7 +439,8 @@ export const ANGLES = ["FRONT", "THREE_QUARTER_LEFT", "THREE_QUARTER_RIGHT", "PR
 export const READINESS_TONE: Record<string, string> = { READY: "ok", PARTIAL: "warn", MISSING: "err" };
 
 /** The decision that approves a page in this kind of run. */
-export function approvalDecision(purpose: RunView["purpose"]): "TECHNICAL_PASS" | "CREATIVE_APPROVE" {
+export function approvalDecision(purpose: RunView["purpose"]): "TECHNICAL_PASS" | "CREATIVE_APPROVE" | null {
+  if (purpose === "WORKFLOW_TEST") return null;
   return purpose === "PRODUCTION" ? "CREATIVE_APPROVE" : "TECHNICAL_PASS";
 }
 
@@ -373,6 +495,7 @@ export const manga = {
   profiles: (project: string) => read<Profile[]>(`/projects/${enc(project)}/production-profiles`),
   run: (id: string) => read<RunView>(`/production/runs/${enc(id)}`),
   page: (id: string) => read<PageDetail>(`/production/pages/${enc(id)}`),
+  chapter: (runId: string) => read<ChapterView>(`/production/runs/${enc(runId)}/chapter`),
   overview: (characterId: string) => read<CharacterOverview>(`/library/characters/${enc(characterId)}/overview`),
   observations: (characterId: string, query: Record<string, string | undefined>) => {
     const search = new URLSearchParams();

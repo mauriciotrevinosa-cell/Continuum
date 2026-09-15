@@ -240,8 +240,16 @@ class DeterministicPageProvider:
         from continuum_providers.artwork import PageRenderResult, RenderedImage
 
         page = request.page
+        plan = page.get("plan") or {}
         lines = [
-            f"{page.get('page_key', request.page_key)} - {', '.join(page.get('characters') or [])}",
+            "WORKFLOW TEST - NOT ARTWORK",
+            f"{page.get('page_key', request.page_key)} - p.{page.get('integrated_page', '?')}"
+            f" - {page.get('origin', '')} - {page.get('scene') or ''}",
+            f"cast: {plan.get('primary_character') or '-'}"
+            f" + {', '.join(plan.get('supporting_characters') or []) or '-'}"
+            f" | intent: {plan.get('primary_intent') or '-'}"
+            " | "
+            + ("silent" if plan.get("silent") else f"{plan.get('dialogue_lines', 0)} line(s)"),
             *[
                 f"{d.get('speaker') or d.get('kind')}: {d.get('text')}"
                 for d in page.get("dialogue") or []

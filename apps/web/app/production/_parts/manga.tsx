@@ -20,6 +20,13 @@ export function PageStateChip({ state }: { state: PageState }) {
 
 /** NON-CANON SAMPLE is never mistaken for canon; canonical production says so too. */
 export function PurposeBadge({ purpose }: { purpose: string }) {
+  if (purpose === "WORKFLOW_TEST") {
+    return (
+      <span className="sample-badge" title="Test renders only. Never approved, never continuity, never canon.">
+        Chapter technical preview · test only
+      </span>
+    );
+  }
   return purpose === "PRODUCTION" ? (
     <span className="sample-badge canon-badge">Canonical production</span>
   ) : (

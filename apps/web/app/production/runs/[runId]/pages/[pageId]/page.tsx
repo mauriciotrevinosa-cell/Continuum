@@ -2,7 +2,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ApiUnreachableError } from "@/lib/api";
 import {
-  PENDING_ATTEMPT,
   type PageAttempt,
   type PageDetail,
   type RunView,
@@ -13,7 +12,8 @@ import {
 import { VaultNotFound, words } from "@/lib/vault";
 import { ApiDown } from "../../../../../library/acquisition/_components/ui";
 import { ByAuthority, ObservationCard, PageStateChip, PurposeBadge, Reasons } from "../../../../_parts/manga";
-import { AutoRefresh, FinishViewer, PageActions } from "./PageActions";
+import { PageRefGrid } from "../../../../_parts/refs";
+import { CastEditor, FinishViewer, JobStatus, PageActions } from "./PageActions";
 
 export const dynamic = "force-dynamic";
 
@@ -85,7 +85,10 @@ export default async function ProductionPageView({ params }: { params: Promise<{
   const blocker = pageBlocker(page, run.pages);
   const previous = run.pages.find((p) => p.sequence === page.sequence - 1);
   const following = run.pages.find((p) => p.sequence === page.sequence + 1);
-  const pending = latest !== null && PENDING_ATTEMPT.has(latest.display_state);
+  const testBackend =
+    run.purpose === "WORKFLOW_TEST" ||
+    (latest?.output_class ?? "TEST_RENDER") === "TEST_RENDER" ||
+    String((run.profile.body.backend as Record<string, unknown> | undefined)?.provider_id ?? "").startsWith("fake.");
   const base = `/production/runs/${run.id}`;
 
   return (
@@ -151,7 +154,7 @@ export default async function ProductionPageView({ params }: { params: Promise<{
 
       <div className="page-work">
         <section className="stack" aria-label="Art">
-          <AutoRefresh active={pending} />
+          <JobStatus attempt={latest} testBackend={testBackend} />
           {shown ? (
             <>
               <FinishViewer attempt={shown} />
@@ -167,17 +170,6 @@ export default async function ProductionPageView({ params }: { params: Promise<{
               </p>
             </div>
           )}
-          {latest && (latest.job?.blocked_reason || ["BLOCKED", "FAILED"].includes(latest.display_state)) ? (
-            <div className="banner err">
-              <p>
-                <strong>
-                  Attempt {latest.attempt} is {latest.display_state.toLowerCase()}.
-                </strong>{" "}
-                {latest.job?.error ?? latest.job?.remediation ?? latest.job?.blocked_reason ?? ""}
-                {latest.job?.error_remediation ? ` ${latest.job.error_remediation}` : ""}
-              </p>
-            </div>
-          ) : null}
           {page.state !== "WAITING" && page.state !== "BLOCKED" ? (
             <PageActions pageId={page.id} state={page.state} purpose={run.purpose} latest={latest} />
           ) : null}
@@ -213,6 +205,44 @@ export default async function ProductionPageView({ params }: { params: Promise<{
         </section>
 
         <section className="stack" aria-label="Script and references">
+          <div className="surface panel stack">
+            <strong>Cast - derived from the script</strong>
+            <dl className="kv-inline">
+              <dt>Present</dt>
+              <dd>{body.plan.characters_present.join(", ") || "nobody named"}</dd>
+              <dt>Primary</dt>
+              <dd>{body.plan.primary_character ?? "-"}</dd>
+              <dt>Supporting</dt>
+              <dd>{body.plan.supporting_characters.join(", ") || "-"}</dd>
+              <dt>Speakers</dt>
+              <dd>{body.plan.speakers.join(", ") || "silent page"}</dd>
+              <dt>From</dt>
+              <dd>
+                script: {body.plan.cast_source.script.join(", ") || "-"} · dialogue:{" "}
+                {body.plan.cast_source.dialogue.join(", ") || "-"}
+                {body.plan.cast_source.override ? " · corrected by a person" : ""}
+              </dd>
+              <dt>Primary intent</dt>
+              <dd>{body.plan.primary_intent ? words(body.plan.primary_intent) : "-"}</dd>
+              <dt>Setting tags</dt>
+              <dd>{body.plan.environment_tags.join(", ") || "none named"}</dd>
+            </dl>
+            {body.plan.uncertain.length ? (
+              <ul className="warn-list">
+                {body.plan.uncertain.map((u) => (
+                  <li key={u} className="warn">
+                    {u}
+                  </li>
+                ))}
+              </ul>
+            ) : null}
+            <CastEditor
+              pageId={page.id}
+              plan={body.plan}
+              known={[...new Set([...bundle.characters.map((c) => c.name), ...body.plan.characters_present])]}
+            />
+          </div>
+
           <div className="surface panel script-block">
             <strong>Script</strong>
             {body.scene ? <span className="muted">{body.scene}</span> : null}
@@ -357,20 +387,19 @@ export default async function ProductionPageView({ params }: { params: Promise<{
           </div>
 
           <div className="surface panel stack">
-            <strong>Manga grammar - structure only, never identity</strong>
-            {bundle.grammar.length ? (
-              <ul style={{ margin: 0, paddingLeft: 18 }}>
-                {bundle.grammar.map((g) => (
-                  <li key={g.locator}>
-                    {g.label} · {g.structure.panel_count} panels · largest {Math.round(g.structure.largest_panel_share * 100)}% ·
-                    negative space {Math.round(g.structure.negative_space * 100)}%{" "}
-                    <span className="muted">· teaches {g.teaches.map(words).join(", ")}</span>
-                  </li>
-                ))}
-              </ul>
-            ) : (
-              <p className="hint">No grammar references for this page.</p>
-            )}
+            <strong>Full source pages - page craft, never identity</strong>
+            <span className="hint">
+              Complete manga pages selected to teach structure and technique by abstraction - never a composition to
+              copy, and never evidence of what a character looks like.
+            </span>
+            <span className="eyebrow" style={{ margin: 0 }}>
+              Grammar
+            </span>
+            <PageRefGrid refs={bundle.grammar} empty="No grammar pages for this page." />
+            <span className="eyebrow" style={{ margin: 0 }}>
+              Technique
+            </span>
+            <PageRefGrid refs={bundle.technique ?? []} empty="No technique pages for this page's intents." />
           </div>
 
           <div className="surface panel stack">
@@ -385,8 +414,16 @@ export default async function ProductionPageView({ params }: { params: Promise<{
                 ))}
               </ul>
             ) : (
-              <p className="hint">No environment references match this page.</p>
+              <p className="hint">No tagged environment references match this page.</p>
             )}
+            {bundle.environment_pages?.length ? (
+              <>
+                <span className="eyebrow" style={{ margin: 0 }}>
+                  Unverified wide pages from the cast&apos;s source world
+                </span>
+                <PageRefGrid refs={bundle.environment_pages} empty="" />
+              </>
+            ) : null}
             {bundle.gaps.length ? (
               <ul className="hint" style={{ margin: 0, paddingLeft: 18 }}>
                 {bundle.gaps.map((g) => (

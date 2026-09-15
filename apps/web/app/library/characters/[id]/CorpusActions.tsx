@@ -129,6 +129,28 @@ export function ObservationReview({ observation }: { observation: Observation })
           </button>
         ) : null}
       </div>
+      {observation.reference_id ? (
+        <select
+          aria-label="Visual origin"
+          defaultValue={String(observation.evidence?.visual_origin ?? "")}
+          onChange={(e) =>
+            run(
+              () =>
+                vaultFetch(`library/character-observations/${observation.id}/visual-origin`, {
+                  json: { visual_origin: e.target.value || null },
+                }),
+              "Visual origin recorded; where it was acquired is kept.",
+            )
+          }
+        >
+          <option value="">Visual origin: as acquired</option>
+          {["PRIMARY_MANGA", "OFFICIAL_ANIME", "OFFICIAL_ART", "PROJECT_CREATED", "FAN_ART", "UNKNOWN"].map((v) => (
+            <option key={v} value={v}>
+              Visual origin: {words(v)}
+            </option>
+          ))}
+        </select>
+      ) : null}
       <div className="form-row" style={{ gridTemplateColumns: "1fr auto", gap: 6 }}>
         <input aria-label="Setting tags" placeholder="environment tags: forest, inn…" value={tags} onChange={(e) => setTags(e.target.value)} />
         <button

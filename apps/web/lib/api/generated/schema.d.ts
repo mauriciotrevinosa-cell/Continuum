@@ -842,6 +842,60 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/library/character-observations/{observation_id}/environment": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Use As Environment
+         * @description Use the observed page as an environment reference with setting tags.
+         */
+        post: operations["use_as_environment_library_character_observations__observation_id__environment_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/character-observations/{observation_id}/image": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Observation Image */
+        get: operations["observation_image_library_character_observations__observation_id__image_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/character-observations/{observation_id}/review": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Review Observation */
+        post: operations["review_observation_library_character_observations__observation_id__review_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/library/characters": {
         parameters: {
             query?: never;
@@ -877,6 +931,46 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/library/characters/{character_id}/corpus/refresh": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Refresh Corpus
+         * @description Sync curated references and sweep the catalogued source for candidates.
+         */
+        post: operations["refresh_corpus_library_characters__character_id__corpus_refresh_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/characters/{character_id}/observations": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * List Observations
+         * @description Browse the corpus, or rank it for a need (``ranked=true``).
+         */
+        get: operations["list_observations_library_characters__character_id__observations_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/library/characters/{character_id}/outfits": {
         parameters: {
             query?: never;
@@ -888,6 +982,26 @@ export interface paths {
         put?: never;
         /** Create Outfit */
         post: operations["create_outfit_library_characters__character_id__outfits_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/characters/{character_id}/overview": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Character Overview
+         * @description Who the character is, what they should look like, how well grounded, and on what.
+         */
+        get: operations["character_overview_library_characters__character_id__overview_get"];
+        put?: never;
+        post?: never;
         delete?: never;
         options?: never;
         head?: never;
@@ -1787,6 +1901,26 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/production/backends": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Backends
+         * @description Every artwork backend and its truthful state: configured, reachable, ready.
+         */
+        get: operations["backends_production_backends_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/production/chapter-package-schema": {
         parameters: {
             query?: never;
@@ -2184,6 +2318,26 @@ export interface paths {
         get: operations["episode_production_sources_projects__project_id__episodes__episode__production_sources_get"];
         put?: never;
         post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/projects/{project_id}/episodes/{episode}/sample-runs": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Start Sample
+         * @description START NON-CANON SAMPLE for one chapter, with a draft profile. Never canon.
+         */
+        post: operations["start_sample_projects__project_id__episodes__episode__sample_runs_post"];
         delete?: never;
         options?: never;
         head?: never;
@@ -3129,6 +3283,11 @@ export interface components {
          * @enum {string}
          */
         EntryStatus: "CATALOGUED" | "UNSUPPORTED" | "FAILED" | "MISSING";
+        /** EnvironmentIn */
+        EnvironmentIn: {
+            /** Tags */
+            tags: string[];
+        };
         /** EpisodeBoardSummary */
         EpisodeBoardSummary: {
             /** By Level */
@@ -3460,6 +3619,11 @@ export interface components {
              */
             works_total: number;
         };
+        /**
+         * Framing
+         * @enum {string}
+         */
+        Framing: "CLOSE_UP" | "UPPER_BODY" | "FULL_BODY" | "WIDE";
         /**
          * Freshness
          * @description How current the documents are, stated in three independent clocks.
@@ -4202,6 +4366,31 @@ export interface components {
              */
             work_id: string;
         };
+        /**
+         * ObservationAuthority
+         * @enum {string}
+         */
+        ObservationAuthority: "PRIMARY_SOURCE" | "CREATOR_PRIMARY" | "OFFICIAL" | "PROJECT_CREATED" | "SUPPLEMENTAL" | "UNSORTED";
+        /**
+         * ObservationFacet
+         * @enum {string}
+         */
+        ObservationFacet: "FACE" | "HAIR" | "BODY" | "WARDROBE" | "EXPRESSION" | "POSE" | "ACCESSORY" | "SCALE";
+        /**
+         * ObservationRole
+         * @enum {string}
+         */
+        ObservationRole: "GROUNDING" | "STYLIZATION" | "EVIDENCE";
+        /**
+         * ObservationSource
+         * @enum {string}
+         */
+        ObservationSource: "CURATED" | "SOURCE_PAGE" | "FAN_ART" | "APPROVED_OUTPUT";
+        /**
+         * ObservationStatus
+         * @enum {string}
+         */
+        ObservationStatus: "CANDIDATE" | "CONFIRMED" | "REJECTED";
         /** OperationIn */
         OperationIn: {
             /** Character Id */
@@ -4879,6 +5068,24 @@ export interface components {
          * @enum {string}
          */
         ReferenceUse: "IDENTITY" | "OUTFIT" | "EXPRESSION" | "POSE" | "ACCESSORY" | "STYLE" | "TECHNIQUE" | "MOOD" | "MONSTER_DESIGN" | "SCENE_SOURCE" | "SOURCE_PLATE" | "CONTINUITY";
+        /** RefreshIn */
+        RefreshIn: {
+            /**
+             * Analyze Limit
+             * @default 0
+             */
+            analyze_limit: number;
+            /**
+             * Max Source Pages
+             * @default 600
+             */
+            max_source_pages: number;
+            /**
+             * Per Chapter
+             * @default 2
+             */
+            per_chapter: number;
+        };
         /** RegionIn */
         RegionIn: {
             /** Height */
@@ -4949,17 +5156,6 @@ export interface components {
          * @enum {string}
          */
         ReviewDecision: "TECHNICAL_PASS" | "CREATIVE_APPROVE" | "FINAL_APPROVE" | "REJECT" | "REGENERATE";
-        /** ReviewIn */
-        ReviewIn: {
-            decision: components["schemas"]["ReviewDecision"];
-            /**
-             * Notes
-             * @default
-             */
-            notes: string;
-            /** Seed */
-            seed?: number | null;
-        };
         /** ReviewItem */
         ReviewItem: {
             /**
@@ -5025,6 +5221,18 @@ export interface components {
             notes: string;
             /** Passed */
             passed: boolean;
+        };
+        /** SampleIn */
+        SampleIn: {
+            /** Chapter */
+            chapter: number;
+            /** Decisions */
+            decisions?: components["schemas"]["DecisionIn"][];
+            /**
+             * Provider Id
+             * @default fake.deterministic-page
+             */
+            provider_id: string;
         };
         /**
          * ScaffoldPlan
@@ -5385,6 +5593,11 @@ export interface components {
             row_version: number;
         };
         /**
+         * ViewAngle
+         * @enum {string}
+         */
+        ViewAngle: "FRONT" | "THREE_QUARTER_LEFT" | "THREE_QUARTER_RIGHT" | "PROFILE" | "BACK" | "LOOKING_UP" | "LOOKING_DOWN";
+        /**
          * VisualModeCategory
          * @description The family a visual mode belongs to. None of them is a character.
          * @enum {string}
@@ -5654,6 +5867,47 @@ export interface components {
             started_at: string;
             /** Stopped At */
             stopped_at: string | null;
+        };
+        /** ReviewIn */
+        continuum_api__routers__corpus__ReviewIn: {
+            /** Anchor */
+            anchor?: boolean | null;
+            angle?: components["schemas"]["ViewAngle"] | null;
+            /** Atypical */
+            atypical?: boolean | null;
+            authority?: components["schemas"]["ObservationAuthority"] | null;
+            /**
+             * Clear Angle
+             * @default false
+             */
+            clear_angle: boolean;
+            /**
+             * Clear Framing
+             * @default false
+             */
+            clear_framing: boolean;
+            /** Expression */
+            expression?: string | null;
+            /** Facets */
+            facets?: components["schemas"]["ObservationFacet"][] | null;
+            framing?: components["schemas"]["Framing"] | null;
+            /** Notes */
+            notes?: string | null;
+            /** Pose */
+            pose?: string | null;
+            role?: components["schemas"]["ObservationRole"] | null;
+            status?: components["schemas"]["ObservationStatus"] | null;
+        };
+        /** ReviewIn */
+        continuum_api__routers__production__ReviewIn: {
+            decision: components["schemas"]["ReviewDecision"];
+            /**
+             * Notes
+             * @default
+             */
+            notes: string;
+            /** Seed */
+            seed?: number | null;
         };
     };
     responses: never;
@@ -7047,6 +7301,111 @@ export interface operations {
             };
         };
     };
+    use_as_environment_library_character_observations__observation_id__environment_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                observation_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["EnvironmentIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    observation_image_library_character_observations__observation_id__image_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                observation_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": unknown;
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    review_observation_library_character_observations__observation_id__review_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                observation_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["continuum_api__routers__corpus__ReviewIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     list_characters_library_characters_get: {
         parameters: {
             query?: {
@@ -7148,6 +7507,88 @@ export interface operations {
             };
         };
     };
+    refresh_corpus_library_characters__character_id__corpus_refresh_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                character_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["RefreshIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    list_observations_library_characters__character_id__observations_get: {
+        parameters: {
+            query?: {
+                status?: components["schemas"]["ObservationStatus"] | null;
+                authority?: components["schemas"]["ObservationAuthority"] | null;
+                source_kind?: components["schemas"]["ObservationSource"] | null;
+                facet?: components["schemas"]["ObservationFacet"] | null;
+                angle?: components["schemas"]["ViewAngle"] | null;
+                expression?: string | null;
+                pose?: string | null;
+                with_character?: string | null;
+                ranked?: boolean;
+                limit?: number;
+                offset?: number;
+            };
+            header?: never;
+            path: {
+                character_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     create_outfit_library_characters__character_id__outfits_post: {
         parameters: {
             query?: never;
@@ -7165,6 +7606,39 @@ export interface operations {
         responses: {
             /** @description Successful Response */
             201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    character_overview_library_characters__character_id__overview_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                character_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
                 headers: {
                     [name: string]: unknown;
                 };
@@ -8974,7 +9448,7 @@ export interface operations {
         };
         requestBody: {
             content: {
-                "application/json": components["schemas"]["ReviewIn"];
+                "application/json": components["schemas"]["continuum_api__routers__production__ReviewIn"];
             };
         };
         responses: {
@@ -8996,6 +9470,28 @@ export interface operations {
                 };
                 content: {
                     "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    backends_production_backends_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
                 };
             };
         };
@@ -9749,6 +10245,44 @@ export interface operations {
                 };
                 content: {
                     "application/json": components["schemas"]["EpisodeSource"][];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    start_sample_projects__project_id__episodes__episode__sample_runs_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                project_id: string;
+                episode: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["SampleIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
                 };
             };
             /** @description Validation Error */

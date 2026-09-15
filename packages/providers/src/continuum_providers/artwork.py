@@ -74,6 +74,9 @@ class ArtworkCapabilities:
     """What a backend can really do - declared, inspectable, never assumed."""
 
     output: RenderOutput
+    #: False when the backend is configured but cannot serve now (unreachable,
+    #: missing nodes or checkpoint); ``notes`` says why.
+    available: bool = True
     max_reference_images: int = 0
     #: Conditions identity on character reference images (e.g. an IP-adapter).
     identity_conditioning: bool = False
@@ -155,6 +158,8 @@ class PageRenderProvider(Protocol):
 
 def capability_gaps(caps: ArtworkCapabilities, request: PageRenderRequest) -> list[str]:
     """Every way the backend falls short of the request."""
+    if not caps.available:
+        return [caps.notes or "the backend is not available"]
     gaps = []
     needs_identity = any(r.role == "CANON" and r.character for r in request.references)
     if (

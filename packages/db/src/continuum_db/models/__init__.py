@@ -17,6 +17,7 @@ from continuum_db.models.catalog import (
     MusicReference,
     ReferenceManifest,
 )
+from continuum_db.models.corpus import CharacterObservation
 from continuum_db.models.jobs import (
     Job,
     JobCheckpoint,
@@ -69,6 +70,7 @@ __all__ = [
     "CatalogScan",
     "CatalogUnit",
     "ChapterPackage",
+    "CharacterObservation",
     "CharacterOutfit",
     "CharacterProfile",
     "ContinuityState",

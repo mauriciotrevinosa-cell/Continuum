@@ -140,7 +140,21 @@ function Production({
           <h1 className="title">{info.title}</h1>
           <p className="lead">{info.lead}</p>
         </div>
+        {section === "manga" ? (
+          <Link className="button primary" href={`/projects/${encodeURIComponent(projectId)}/manga/production`}>
+            Open manga production
+          </Link>
+        ) : null}
       </header>
+      {section === "manga" ? (
+        <div className="banner">
+          <p>
+            <strong>Manga production is page by page.</strong> Start a non-canon chapter sample, review each page with
+            its master, black-and-white and color finishes, and approve before the next page opens.{" "}
+            <Link href={`/projects/${encodeURIComponent(projectId)}/manga/production`}>Go to manga production</Link>
+          </p>
+        </div>
+      ) : null}
       {stages.length ? (
         <section aria-labelledby="stages">
           <div className="block-head">

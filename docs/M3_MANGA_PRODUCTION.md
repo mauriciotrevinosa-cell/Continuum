@@ -1,7 +1,7 @@
 # M3 — Page-by-page manga production (critical path)
 
-Status: **core loop implemented and tested; no artwork backend connected.**
-Branch: `m3/critical-path` (on top of `m2/closeout`). Migration `0005_m3_manga`.
+Status: **web production loop, character corpus and ComfyUI backend implemented and tested; no GPU artwork endpoint connected yet.**
+Branch: `m3/critical-path` (on top of `m2/closeout`). Migrations `0005_m3_manga`, `0006_m3_corpus`.
 
 The goal of M3 is a non-canon test chapter drawn page by page, reviewed by the
 creator, iterated, and — when it passes — a frozen production profile that
@@ -41,9 +41,12 @@ profile (DRAFT) ──► run (NON_CANON_SAMPLE) ──► page 1 READY, pages 2
 | Artwork backend boundary | `packages/providers/src/continuum_providers/artwork.py` |
 | B&W finish, test color tint, layout analysis | `packages/imaging/src/continuum_imaging/manga.py` |
 | Tables | `packages/db/src/continuum_db/models/manga.py`, migration `20260914_0005_m3_manga_production.py` |
-| HTTP routes | `apps/api/src/continuum_api/routers/manga.py` |
+| Character reference corpus | `packages/production/src/continuum_production/corpus.py`, `packages/db/src/continuum_db/models/corpus.py`, migration `20260915_0006_m3_character_corpus.py` |
+| ComfyUI backend | `packages/providers/src/continuum_providers/comfy.py` |
+| HTTP routes | `apps/api/src/continuum_api/routers/manga.py`, `apps/api/src/continuum_api/routers/corpus.py` |
+| Web | `apps/web/app/projects/[projectId]/manga/production`, `apps/web/app/production/runs`, `apps/web/app/library/characters/[id]` |
 | Character pack import (dry-run by default) | `scripts/import_character_pack.py` |
-| Acceptance tests | `tests/acceptance/test_m3_page_production.py` |
+| Acceptance tests | `tests/acceptance/test_m3_page_production.py`, `test_m3_character_corpus.py`, `test_m3_comfy_backend.py` |
 
 ## 3. Materialized chapter
 
@@ -112,8 +115,8 @@ size) blocks the attempt with the exact gap. No paid service is reachable; a
 paid backend needs explicit creator approval.
 
 **This machine:** no discrete GPU (15 W mobile CPU, integrated graphics, 15 GB
-RAM). Final-quality generation locally is not realistic. No ComfyUI adapter is
-implemented yet (see the Codex handoff).
+RAM). Final-quality generation locally is not realistic. The ComfyUI adapter
+is implemented (§10) but no GPU endpoint is configured.
 
 ## 6. HTTP routes (M3)
 
@@ -129,6 +132,14 @@ implemented yet (see the Codex handoff).
 | GET | `/production/pages/{page}` | page script, bundle, dependencies, attempts |
 | POST | `/production/pages/{page}/attempts` | queue an attempt |
 | POST | `/production/page-attempts/{attempt}/review` | review an attempt |
+| GET | `/production/backends` | artwork backends and their truthful state |
+| POST | `/projects/{id}/episodes/{ep}/sample-runs` | START NON-CANON SAMPLE with a draft profile |
+| GET | `/library/characters/{id}/overview` | character overview and readiness |
+| GET | `/library/characters/{id}/observations` | browse or rank the corpus |
+| POST | `/library/characters/{id}/corpus/refresh` | sync curated references, sweep the catalog |
+| POST | `/library/character-observations/{id}/review` | confirm, reject, describe an observation |
+| POST | `/library/character-observations/{id}/environment` | use an observed page as an environment reference |
+| GET | `/library/character-observations/{id}/image` | observation preview |
 
 Finishes are served by the existing `/production/attempts/{id}/image?kind=`
 `COMPOSITION_MASTER | BW_FINISH | COLOR_FINISH`.
@@ -148,11 +159,80 @@ Finishes are served by the existing `/production/attempts/{id}/image?kind=`
 Profiles live in the database (they name library series); they are never
 committed.
 
-## 8. Not done in this pass
+## 8. Web production loop
 
-* ComfyUI adapter and remote bundle runner — delegated (handoff §T1–T2).
-* Web review UX for pages — delegated (§T3). The API is complete for it.
-* Environment references: none are tagged yet, so bundles report a gap (§T4).
+| Route | What it is |
+|---|---|
+| `/projects/{id}/manga/production` | Artwork backends, runs per episode, START NON-CANON SAMPLE (chapter preview, proposed insertion placements, backend), canonical start gated by readiness |
+| `/production/runs/{run}` | NON-CANON SAMPLE badge, profile, continuity version, current and next page, contact sheet, refresh sources, SAMPLE PASS / FAIL |
+| `/production/runs/{run}/pages/{page}` | Script, dialogue, constraints, lineage, master / B&W / color, attempts with seed and provenance, references by role and authority, grammar, environment, gaps, Generate / Regenerate / Reject / Approve |
+| `/library/characters/{id}` | Character overview first: origin, readiness per facet, invariants, forbidden traits, anchors, stylization |
+| `/library/characters/{id}/corpus` | Browse or rank observations; confirm, reject, mark atypical, anchor, tag as environment |
+| `/settings/diagnostics` | Artwork backends: configured, reachable, checkpoint, identity conditioning, workflow |
+
+The Roughs workspace remains, labelled ADVANCED / OVERRIDE.
+
+## 9. Character reference corpus
+
+A character profile says what a character should look like; the **corpus**
+(`character_observation`, Tier B) is the evidence. One observation per
+character and locator (`ref:<reference>` or `unit:<catalog unit key>:<page>`),
+each with facets (face, hair, body, wardrobe, expression, pose, accessory,
+scale), angle, framing, expression, pose, **authority** and **status**:
+
+| Authority | Examples | Grounds production |
+|---|---|---|
+| PRIMARY_SOURCE | the original manga | yes, once confirmed |
+| CREATOR_PRIMARY | the creator's photos of an original character | yes |
+| OFFICIAL | anime, official sheets and art | yes, once confirmed |
+| PROJECT_CREATED | approved project pages, directional concepts | evidence / stylization only |
+| SUPPLEMENTAL | fan art, exploratory derivative work | evidence only, when allowed |
+| UNSORTED | not sorted | never |
+
+* **Sources.** Curated references are mirrored as confirmed observations. The
+  catalogued source manga is swept for candidate pages (from the chapter of the
+  character's first curated appearance). Fan art whose labels name the character
+  becomes a supplemental candidate. Creatively approved canonical pages become
+  project-created observations; samples, technical passes and rejected attempts
+  never do.
+* **Candidates never count.** Readiness per facet counts only confirmed,
+  high-authority, non-atypical observations: READY needs 3 observations from 2
+  independent sources; PARTIAL at least one. An atypical drawing stays evidence.
+* **Stylization is not identity.** A reference used as STYLE is project-created
+  stylization; it is never an anchor and never grounds identity or body. An
+  original character is never grounded in franchise material.
+* **Retrieval.** Each page builds a need per character from its script (framing
+  and facets from intents, angle/expression/pose words from directions, other
+  characters present) and retrieves a small ranked subset (default 6) by
+  authority, status, anchor, facet/angle/expression match and co-occurrence,
+  preferring diverse sources. Samples may use candidates, flagged as such;
+  canonical production does not unless the profile allows it.
+* **Invariants.** Declared statements (distinguishing marks, scale, posture)
+  shown with their independent support; forbidden traits come from the
+  character's notes and become negative prompts.
+* **Reviews survive refreshes.** Nothing a person set is overwritten.
+
+No pixels are read to recognise a character; layout hints are labelled hints.
+
+## 10. ComfyUI backend
+
+`comfy.local` / `comfy.remote` are registered only when
+`CONTINUUM_COMFY_LOCAL_URL` / `CONTINUUM_COMFY_REMOTE_URL` are set, with the
+checkpoint record `CONTINUUM_COMFY_CHECKPOINT`, `_VERSION`, `_SHA256`,
+`_LICENSE`, `_SOURCE`. The adapter probes `/object_info` (core nodes, the
+checkpoint, IP-Adapter nodes for identity conditioning), uploads only the page's
+identity and continuity references, draws the master, draws the color finish
+image-to-image over the master at the same size, derives the black-and-white
+finish from the master, and records model, workflow and settings. A remote
+server refuses source manga excerpts unless
+`CONTINUUM_COMFY_REMOTE_ALLOW_SOURCE_EXCERPTS=true`. Proven against a fake
+ComfyUI server; no real GPU endpoint has been connected.
+
+## 11. Not done in this pass
+
+* Remote bundle export/import for offline GPU sessions (handoff §T2).
 * Grammar layout analysis is cached per API process, not persisted (§T5,
-  Priority B).
+  Priority B); the first page view after a restart is slow.
 * Episode package / music / opening-ending skeleton (§T6, Priority C).
+* Environment references: the tagging surface exists; nothing is tagged yet.
+* Corpus candidates need a person to confirm them (§T7 for later hints).

@@ -75,7 +75,7 @@ from continuum_storage import ProjectLibrary, SourceChangedError, SourceUnavaila
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
-from continuum_production.character_manifest import character_manifest
+from continuum_production.corpus import CharacterCorpus, page_needs, setting_tags
 from continuum_production.materialize import (
     MATERIALIZER_VERSION,
     MaterializationInput,
@@ -191,12 +191,15 @@ class MangaProduction:
         projects: ProjectLibrary,
         *,
         grammar_candidates: Callable[[Sequence[str], int], list[GrammarCandidate]] | None = None,
+        page_reader: Callable[[CatalogUnit, CatalogEntry, int], tuple[str, bytes] | None]
+        | None = None,
     ) -> None:
         self.rough = rough
         self.session: Session = rough.session
         self.catalog = rough.catalog
         self.projects = projects
         self.grammar_candidates = grammar_candidates
+        self.corpus = CharacterCorpus(self.session, self.catalog, page_reader=page_reader)
 
     # =====================================================================
     # Materialization
@@ -312,6 +315,73 @@ class MangaProduction:
         self.session.add(row)
         self.session.flush()
         return row
+
+    def sample_profile(self, project_key: str, provider_id: str) -> ProductionProfile:
+        """The draft profile a non-canon sample runs with, reused while unchanged.
+
+        Grammar draws on every catalogued manga series with enough chapters;
+        character rules come from what each character's notes forbid.
+        """
+        series = sorted(
+            key
+            for key, count in self.session.execute(
+                select(CatalogUnit.series_key, func.count())
+                .where(
+                    CatalogUnit.kind == UnitKind.MANGA_CHAPTER,
+                    CatalogUnit.series_key.is_not(None),
+                )
+                .group_by(CatalogUnit.series_key)
+            ).all()
+            if key and count >= 5
+        )
+        rules: dict[str, Any] = {}
+        for character in self.session.execute(
+            select(CharacterProfile).where(CharacterProfile.removed_at.is_(None))
+        ).scalars():
+            forbidden = self.corpus.forbidden(character)
+            if forbidden:
+                accessories = self.corpus.forbidden_accessories(forbidden)
+                rules[character.display_name] = {
+                    "forbidden": forbidden,
+                    "forbidden_accessories": accessories,
+                }
+        body = {
+            "backend": {"provider_id": provider_id, "width": 1024, "height": 1456},
+            "reference_policy": {"per_character": 6, "use_candidates": True, "stylization": 1},
+            "character_rules": rules,
+            "grammar": {"series": series, "pool": min(40, len(series)), "limit": 6},
+            "setting": {"environment_tags": []},
+        }
+        name = f"{project_key}-manga-sample"[:120]
+        latest = self.session.execute(
+            select(ProductionProfile)
+            .where(ProductionProfile.project_key == project_key, ProductionProfile.name == name)
+            .order_by(ProductionProfile.version.desc())
+            .limit(1)
+        ).scalar_one_or_none()
+        if latest is not None and latest.body_hash == canonical_json_hash(body):
+            return latest
+        return self.create_profile(project_key, name, body)
+
+    def start_sample(
+        self,
+        project_key: str,
+        episode: str,
+        chapter: int,
+        *,
+        decisions: Sequence[PlacementDecision] = (),
+        provider_id: str = "fake.deterministic-page",
+    ) -> ProductionRun:
+        """START NON-CANON SAMPLE: one chapter, a draft profile, never canon."""
+        profile = self.sample_profile(project_key, provider_id)
+        return self.start_run(
+            project_key,
+            episode,
+            purpose=RoughPurpose.NON_CANON_SAMPLE,
+            profile_id=profile.id,
+            chapters=[chapter],
+            decisions=decisions,
+        )
 
     # =====================================================================
     # Runs
@@ -476,20 +546,19 @@ class MangaProduction:
         return next((p for p in self.pages(run_id) if p.state != "APPROVED"), None)
 
     def _grounding(self, run: ProductionRun, name: str) -> dict[str, Any] | None:
-        character = self.session.execute(
-            select(CharacterProfile).where(
-                CharacterProfile.display_name == name, CharacterProfile.removed_at.is_(None)
-            )
-        ).scalar_one_or_none()
+        """Grounding from the character corpus: confirmed, high-authority observations."""
+        character = self.corpus.by_name(name)
         if character is None:
             return None
-        return character_manifest(
-            self.session,
-            self.catalog,
-            character.id,
-            project_key=run.project_key,
-            projects=self.projects,
-        )
+        self.corpus.sync_curated(character.id)
+        readiness = self.corpus.readiness(character.id)
+        return {
+            "character": {"id": str(character.id), "name": name},
+            "grounded": readiness["grounded"],
+            "ungrounded": readiness["ungrounded"],
+            "readiness": readiness,
+            **self.corpus.grounding(character.id),
+        }
 
     def _check_grounding(self, page: ProductionPage, body: dict[str, Any]) -> None:
         run = self.session.get(ProductionRun, page.run_id)
@@ -525,19 +594,11 @@ class MangaProduction:
         ).scalar_one_or_none()
 
     def _character_fingerprint(self, run: ProductionRun, name: str) -> str:
-        manifest = self._grounding(run, name)
-        if manifest is None:
+        character = self.corpus.by_name(name)
+        if character is None:
             return _sha("missing")
-        return canonical_json_hash(
-            {
-                "grounding": manifest["grounding"],
-                "references": sorted(
-                    (e["reference_id"], e["aspect"], e["preferred"])
-                    for entries in manifest["facets"].values()
-                    for e in entries
-                ),
-            }
-        )
+        self.corpus.sync_curated(character.id)
+        return canonical_json_hash({"confirmed": self.corpus.fingerprint_rows(character.id)})
 
     def _record_dependencies(
         self, page: ProductionPage, body: dict[str, Any], profile: ProductionProfile
@@ -617,26 +678,66 @@ class MangaProduction:
         continuity = self.current_continuity(run.id)
         characters = []
         inputs: list[dict[str, Any]] = []
+        policy = profile.body.get("reference_policy") or {}
+        per_character = int(policy.get("per_character", 6))
+        candidates_allowed = bool(
+            policy.get("use_candidates", run.purpose is RoughPurpose.NON_CANON_SAMPLE)
+        )
         for name in body["characters"]:
-            manifest = self._grounding(run, name)
-            if manifest is None or not manifest["grounded"]:
+            grounding = self._grounding(run, name)
+            if grounding is None or not grounding["grounded"]:
                 continue
+            character_id = uuid.UUID(grounding["character"]["id"])
+            need = page_needs(body, name)
+            found = self.corpus.retrieve(
+                character_id,
+                need,
+                limit=per_character,
+                include_candidates=candidates_allowed,
+                include_supplemental=bool(policy.get("use_supplemental", False)),
+            )
             rule = (profile.body.get("character_rules") or {}).get(name, {})
             characters.append(
                 {
                     "name": name,
-                    "character_id": manifest["character"]["id"],
-                    "grounding": manifest["grounding"],
-                    "stylization": manifest["stylization"][:4],
+                    "character_id": str(character_id),
+                    "grounding": grounding["grounding"],
+                    "stylization": grounding["stylization"],
+                    "readiness": grounding["readiness"],
+                    "need": need,
+                    "observations": found["observations"],
+                    "stylization_observations": found["stylization"],
+                    "available_observations": found["available"],
+                    "forbidden": self.corpus.forbidden(self.corpus.character(character_id)),
                     "rules": rule,
                 }
             )
-            per_facet = int((profile.body.get("reference_policy") or {}).get("per_facet", 2))
-            for facet in ("identity", "body"):
-                for reference_id in manifest["grounding"][facet][:per_facet]:
-                    inputs.append(
-                        {"role": BundleRole.CANON, "reference_id": reference_id, "character": name}
-                    )
+            for entry in found["observations"]:
+                inputs.append(
+                    {
+                        "role": BundleRole.CANON,
+                        "observation_id": entry["id"],
+                        "reference_id": entry["reference_id"],
+                        "character": name,
+                        "authority": entry["authority"],
+                        "status": entry["status"],
+                        "facets": entry["facets"],
+                        "why": entry["why"],
+                    }
+                )
+            for entry in found["stylization"][: int(policy.get("stylization", 1))]:
+                inputs.append(
+                    {
+                        "role": BundleRole.STYLE,
+                        "observation_id": entry["id"],
+                        "reference_id": entry["reference_id"],
+                        "character": name,
+                        "authority": entry["authority"],
+                        "status": entry["status"],
+                        "facets": entry["facets"],
+                        "why": ["stylization - never identity"],
+                    }
+                )
         grammar_policy = profile.body.get("grammar") or {}
         grammar = []
         if self.grammar_candidates is not None and grammar_policy.get("limit", 0) > 0:
@@ -646,6 +747,7 @@ class MangaProduction:
             grammar = rank_grammar(body["intents"], candidates, int(grammar_policy["limit"]))
         environment_tags = sorted(
             set((profile.body.get("setting") or {}).get("environment_tags", []))
+            | set(setting_tags(" ".join(body["directions"]) + " " + str(body.get("scene") or "")))
         )
         environment = self._environment_references(environment_tags, limit=4)
         gaps = []
@@ -742,30 +844,39 @@ class MangaProduction:
                     f"Page {page.sequence} is missing required references: "
                     + "; ".join(r["detail"] for r in page.reasons)
                 )
+        # What this attempt is built from is what the page now depends on.
+        self._record_dependencies(page, self.page_body(page), profile)
         bundle = self.assemble(page)
         artifact = self.rough._lock_artifact(page.artifact_id)
-        inputs = []
-        for position, entry in enumerate(bundle["canon_inputs"]):
-            item = self.catalog.reference(uuid.UUID(entry["reference_id"]))
+        inputs: list[dict[str, Any]] = []
+        character_ids = {c["name"]: uuid.UUID(c["character_id"]) for c in bundle["characters"]}
+        for entry in bundle["canon_inputs"]:
+            observation = self.corpus.observation(uuid.UUID(entry["observation_id"]))
+            resolved = self.corpus.resolve(observation)
+            if resolved is None:
+                continue
+            locator, reference_id = resolved
+            item = self.catalog.reference(reference_id) if reference_id else None
             inputs.append(
                 {
-                    "position": position,
-                    "role": BundleRole.CANON,
-                    "reference_id": item.id,
-                    "locator": item.locator,
-                    "unit_index": item.unit_index,
+                    "position": len(inputs),
+                    "role": BundleRole(entry["role"]),
+                    "reference_id": reference_id,
+                    "locator": locator,
+                    "unit_index": item.unit_index if item else None,
                     "region": None,
-                    "character_id": uuid.UUID(
-                        next(
-                            c["character_id"]
-                            for c in bundle["characters"]
-                            if c["name"] == entry["character"]
-                        )
-                    ),
+                    "character_id": character_ids[entry["character"]],
                     "outfit_id": None,
                     "aspect": None,
-                    "label": f"{entry['character']} grounding",
-                    "provenance": {"reference_id": str(item.id), "origin": item.origin.value},
+                    "label": f"{entry['character']} - {entry['authority'].lower()}"[:300],
+                    "provenance": {
+                        "observation_id": entry["observation_id"],
+                        "authority": entry["authority"],
+                        "status": entry["status"],
+                        "facets": entry["facets"],
+                        "why": entry["why"],
+                        **({"origin": item.origin.value} if item else {"kind": "source_page"}),
+                    },
                 }
             )
         for offset, grammar in enumerate(bundle["grammar"], start=len(inputs)):
@@ -932,6 +1043,8 @@ class MangaProduction:
             self._continuity(
                 run, profile, reason=f"page {page.sequence} approved", approved=approved
             )
+            if run.purpose is RoughPurpose.PRODUCTION:
+                self._learn_from_approved(page, attempt)
             following = self.session.execute(
                 select(ProductionPage).where(
                     ProductionPage.run_id == run.id, ProductionPage.sequence == page.sequence + 1
@@ -948,6 +1061,32 @@ class MangaProduction:
         self.rough.review(attempt_id, decision, notes=notes)
         self.session.flush()
         return None
+
+    def _learn_from_approved(self, page: ProductionPage, attempt: RoughAttempt) -> None:
+        """A creatively approved canonical page becomes project-created character evidence.
+
+        Only approved production pages: a sample, a technical pass, a rejected or a
+        superseded attempt never enters the reference pool.
+        """
+        body = self.page_body(page)
+        item = self.rough.promote_to_continuity(
+            attempt.id, label=f"{page.page_key} - approved page", notes="approved project page"
+        )
+        for name in body["characters"]:
+            character = self.corpus.by_name(name)
+            if character is None:
+                continue
+            self.corpus.record_approved_output(
+                character.id,
+                item.id,
+                facets=page_needs(body, name)["facets"],
+                evidence={
+                    "attempt_id": str(attempt.id),
+                    "run_id": str(page.run_id),
+                    "page_key": page.page_key,
+                    "label": f"{page.page_key} approved",
+                },
+            )
 
     def _derivative(self, attempt_id: uuid.UUID, kind: str) -> AttemptDerivative | None:
         return next((d for d in self.rough.derivatives(attempt_id) if d.kind.value == kind), None)
@@ -1142,7 +1281,14 @@ class MangaProduction:
         if profile is None or profile.status != "PROMOTED":
             reasons.append({"kind": "PROFILE_NOT_PROMOTED", "detail": "pass a sample first"})
         materialized = [self.materialize(project_key, episode, c, decisions) for c in chapters]
-        return reasons + self.creative_readiness(project_key, episode, materialized)
+        seen: set[tuple[str, str]] = set()
+        unique = []
+        for reason in reasons + self.creative_readiness(project_key, episode, materialized):
+            key = (str(reason.get("kind")), str(reason.get("key", "")))
+            if key not in seen:
+                seen.add(key)
+                unique.append(reason)
+        return unique
 
 
 def catalog_grammar_candidates(
@@ -1156,7 +1302,7 @@ def catalog_grammar_candidates(
     Deterministic: for each series, chapters are taken in reading order at an
     even stride and one interior page of each is analysed. ``read_page`` returns
     (locator, bytes) through the read-only storage layer; ``analyze`` measures
-    layout. Results are cached by locator.
+    layout. Results are cached by catalog unit and page, so a page is read once.
     """
     memo = cache if cache is not None else {}
 
@@ -1181,13 +1327,17 @@ def catalog_grammar_candidates(
             stride = max(1, len(rows) // per_series)
             for unit, entry in rows[::stride][:per_series]:
                 offset = max(1, (unit.page_count or 2) // 2)
+                key = f"{unit.unit_key}:{offset}"
+                if key in memo:
+                    out.append(memo[key])
+                    continue
                 found = read_page(unit, entry, offset)
                 if found is None:
                     continue
                 locator, data = found
-                if locator not in memo:
+                if key not in memo:
                     layout = analyze(data)
-                    memo[locator] = GrammarCandidate(
+                    memo[key] = GrammarCandidate(
                         locator=locator,
                         series_key=series_key,
                         label=f"{unit.label} p{offset + 1}",
@@ -1196,7 +1346,7 @@ def catalog_grammar_candidates(
                         negative_space=layout.negative_space,
                         ink_density=layout.ink_density,
                     )
-                out.append(memo[locator])
+                out.append(memo[key])
         return out
 
     return candidates

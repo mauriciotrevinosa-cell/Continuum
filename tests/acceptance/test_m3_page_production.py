@@ -481,6 +481,38 @@ def test_sample_chapter_page_by_page_through_restart_invalidation_and_pass(
         fresh.commit()
         assert canonical.purpose is RoughPurpose.PRODUCTION
         assert manga.pages(canonical.id)[0].state == "READY"
+        canonical_id = canonical.id
+        first_page_id = manga.pages(canonical.id)[0].id
+        drawn = manga.request_page_attempt(first_page_id)
+        fresh.commit()
+        drawn_id = drawn.id
+
+    # A creatively approved canonical page becomes project-created character evidence;
+    # a rejected one never does.
+    assert drain(worker) == 1
+    with session_scope(settings) as fresh:
+        manga = _manga(fresh, world, ready_projects)
+        manga.review_page(drawn_id, ReviewDecision.TECHNICAL_PASS)
+        fresh.commit()
+        assert manga.pages(canonical_id)[0].state == "IN_REVIEW", "a technical pass is not approval"
+        assert not any(
+            o.source_kind == "APPROVED_OUTPUT"
+            for o in manga.corpus.observations(manga.corpus.by_name("Rowan").id)  # type: ignore[union-attr]
+        )
+        manga.review_page(drawn_id, ReviewDecision.CREATIVE_APPROVE, notes="canon")
+        fresh.commit()
+        learned = [
+            o
+            for name in ("Aster Vale", "Rowan")
+            for o in manga.corpus.observations(manga.corpus.by_name(name).id)  # type: ignore[union-attr]
+            if o.source_kind == "APPROVED_OUTPUT"
+        ]
+        assert len(learned) == 2
+        assert {(o.authority, o.status, o.role) for o in learned} == {
+            ("PROJECT_CREATED", "CONFIRMED", "EVIDENCE")
+        }
+        assert learned[0].evidence["attempt_id"] == str(drawn_id)
+        assert manga.pages(canonical_id)[1].state == "READY"
 
 
 def test_a_sample_of_test_renders_cannot_pass(
@@ -621,29 +653,31 @@ def test_the_page_loop_over_http(
     api = create_app(settings.model_copy(update={"project_sources": str(tmp_path / "projects")}))
     decision = {"item_key": "s1e1-overlay-1", "chapter": 2, "after_base_page": 4}
     with TestClient(api) as client:
+        api.state.providers = artwork_page_registry()
         materialized = client.post(
             f"/projects/{PROJECT}/episodes/S1E1/materialize",
             json={"chapter": 2, "decisions": [decision]},
         )
         assert materialized.status_code == 200, materialized.text
         assert materialized.json()["body"]["page_count"] == 4
-        profile = client.post(
-            f"/projects/{PROJECT}/production-profiles",
-            json={"name": "harbor-manga", "body": _profile_body()},
-        ).json()
-        assert profile["status"] == "DRAFT"
+        backends = {b["kind"]: b for b in client.get("/production/backends").json()["backends"]}
+        assert backends["TEST"]["ready"] and not backends["COMFY_LOCAL"]["configured"]
+        assert not backends["COMFY_REMOTE"]["configured"]
+        unknown = client.post(
+            f"/projects/{PROJECT}/episodes/S1E1/sample-runs",
+            json={"chapter": 2, "provider_id": "comfy.local"},
+        )
+        assert unknown.status_code == 422, "an unconfigured backend cannot be chosen"
         started = client.post(
-            f"/projects/{PROJECT}/production-runs",
-            json={
-                "episode": "S1E1",
-                "purpose": "NON_CANON_SAMPLE",
-                "profile_id": profile["id"],
-                "chapters": [2],
-                "decisions": [decision],
-            },
+            f"/projects/{PROJECT}/episodes/S1E1/sample-runs",
+            json={"chapter": 2, "decisions": [decision], "provider_id": "fake.artwork-page-double"},
         )
         assert started.status_code == 201, started.text
         run = started.json()
+        assert run["purpose"] == "NON_CANON_SAMPLE" and run["profile"]["status"] == "DRAFT"
+        profile = run["profile"]
+        listed = client.get(f"/projects/{PROJECT}/production-runs").json()
+        assert listed[0]["id"] == run["id"] and listed[0]["pages"] == 4
         assert [p["state"] for p in run["pages"]] == ["READY", "WAITING", "WAITING", "WAITING"]
         first = run["pages"][0]
         waiting = client.post(f"/production/pages/{run['pages'][1]['id']}/attempts", json={})
@@ -658,6 +692,33 @@ def test_the_page_loop_over_http(
             "CHARACTER_REFERENCES",
         }
         assert {c["name"] for c in page["bundle"]["characters"]} == {"Aster Vale", "Rowan"}
+        rowan_bundle = next(c for c in page["bundle"]["characters"] if c["name"] == "Rowan")
+        assert rowan_bundle["observations"] and all(
+            o["authority"] == "CREATOR_PRIMARY" for o in rowan_bundle["observations"]
+        )
+        assert [o["reference_id"] for o in rowan_bundle["stylization_observations"]] == [
+            str(cast["concept"].id)
+        ]
+
+        overview = client.get(f"/library/characters/{cast['rowan'].id}/overview").json()
+        assert overview["readiness"]["grounded"] is True
+        assert [s["reference_id"] for s in overview["stylization"]] == [str(cast["concept"].id)]
+        observations = client.get(
+            f"/library/characters/{cast['aster'].id}/observations", params={"facet": "BODY"}
+        ).json()
+        assert observations["total"] == 1
+        body_obs = observations["observations"][0]
+        image = client.get(body_obs["image"])
+        assert image.status_code == 200 and image.headers["content-type"] == "image/webp"
+        reviewed_obs = client.post(
+            f"/library/character-observations/{body_obs['id']}/review",
+            json={"angle": "FRONT", "expression": "neutral"},
+        )
+        assert reviewed_obs.status_code == 200 and reviewed_obs.json()["angle"] == "FRONT"
+        bad = client.post(
+            f"/library/character-observations/{body_obs['id']}/review", json={"angle": "SIDEWAYS"}
+        )
+        assert bad.status_code == 422
 
         queued = client.post(f"/production/pages/{first['id']}/attempts", json={"seed": 11})
         assert queued.status_code == 202, queued.text
@@ -669,7 +730,7 @@ def test_the_page_loop_over_http(
         bw = client.get(attempt["images"]["BW_FINISH"])
         color = client.get(attempt["images"]["COLOR_FINISH"])
         assert bw.status_code == 200 and color.status_code == 200
-        assert probe(bw.content).width == probe(color.content).width == 360
+        assert probe(bw.content).width == probe(color.content).width == 1024
 
         reviewed = client.post(
             f"/production/page-attempts/{attempt['id']}/review",

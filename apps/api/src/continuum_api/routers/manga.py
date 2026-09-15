@@ -25,9 +25,9 @@ from continuum_production.manga import (
 )
 from continuum_production.materialize import PlacementDecision
 from continuum_production.views import attempt_summary
-from continuum_providers import ProviderRegistry
+from continuum_providers import ProviderRegistry, artwork_backends
 from continuum_storage import ProjectLibrary
-from fastapi import APIRouter, Request
+from fastapi import APIRouter, HTTPException, Request
 from fastapi import Path as PathParam
 from pydantic import Field
 from sqlalchemy import select
@@ -52,7 +52,9 @@ def manga_scope(request: Request) -> Iterator[MangaProduction]:
         grammar = catalog_grammar_candidates(
             catalog.session, source_page_reader(catalog), analyze_layout, cache
         )
-        yield MangaProduction(rough, projects, grammar_candidates=grammar)
+        yield MangaProduction(
+            rough, projects, grammar_candidates=grammar, page_reader=source_page_reader(catalog)
+        )
 
 
 # ---------------------------------------------------------------------------
@@ -85,6 +87,14 @@ class RunIn(StrictBody):
     profile_id: uuid.UUID
     chapters: list[int] = Field(min_length=1, max_length=20)
     decisions: list[DecisionIn] = Field(default_factory=list, max_length=50)
+
+
+class SampleIn(StrictBody):
+    chapter: int = Field(ge=1, le=1000)
+    decisions: list[DecisionIn] = Field(default_factory=list, max_length=50)
+    provider_id: str = Field(
+        default="fake.deterministic-page", pattern=r"^[a-z0-9][a-z0-9.-]{0,79}$"
+    )
 
 
 class ReadinessIn(StrictBody):
@@ -236,6 +246,34 @@ def canonical_readiness(
         return {"ready": not reasons, "reasons": reasons}
 
 
+@router.get("/production/backends")
+def backends(request: Request) -> dict[str, Any]:
+    """Every artwork backend and its truthful state: configured, reachable, ready."""
+    return {"backends": artwork_backends(request.app.state.providers, request.app.state.settings)}
+
+
+@router.post("/projects/{project_id}/episodes/{episode}/sample-runs", status_code=201)
+def start_sample(
+    request: Request, project_id: ProjectId, episode: Episode, body: SampleIn
+) -> dict[str, Any]:
+    """START NON-CANON SAMPLE for one chapter, with a draft profile. Never canon."""
+    providers: ProviderRegistry = request.app.state.providers
+    if body.provider_id not in {d.id for d in providers.descriptors()}:
+        raise HTTPException(
+            status_code=422,
+            detail={"message": f"{body.provider_id} is not a registered page backend."},
+        )
+    with manga_scope(request) as manga:
+        run = manga.start_sample(
+            project_id,
+            episode,
+            body.chapter,
+            decisions=[d.decision() for d in body.decisions],
+            provider_id=body.provider_id,
+        )
+        return _run_view(manga, run)
+
+
 @router.get("/projects/{project_id}/production-runs")
 def list_runs(request: Request, project_id: ProjectId) -> list[dict[str, Any]]:
     with manga_scope(request) as manga:
@@ -244,16 +282,28 @@ def list_runs(request: Request, project_id: ProjectId) -> list[dict[str, Any]]:
             .where(ProductionRun.project_key == project_id)
             .order_by(ProductionRun.created_at.desc())
         ).scalars()
-        return [
-            {
-                "id": str(run.id),
-                "episode": run.episode,
-                "chapter": run.chapter,
-                "purpose": run.purpose.value,
-                "status": run.status,
-            }
-            for run in rows
-        ]
+        out = []
+        for run in rows:
+            pages = manga.pages(run.id)
+            profile = manga.session.get(ProductionProfile, run.profile_id)
+            out.append(
+                {
+                    "id": str(run.id),
+                    "episode": run.episode,
+                    "chapter": run.chapter,
+                    "purpose": run.purpose.value,
+                    "status": run.status,
+                    "created_at": run.created_at.isoformat(),
+                    "profile": {"name": profile.name, "version": profile.version}
+                    if profile
+                    else None,
+                    "pages": len(pages),
+                    "states": {
+                        s: sum(1 for p in pages if p.state == s) for s in {p.state for p in pages}
+                    },
+                }
+            )
+        return out
 
 
 @router.post("/projects/{project_id}/production-runs", status_code=201)

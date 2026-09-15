@@ -301,6 +301,15 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/production/pages/{page_id}",
             "/production/pages/{page_id}/attempts",
             "/production/page-attempts/{attempt_id}/review",
+            "/production/backends",
+            "/projects/{project_id}/episodes/{episode}/sample-runs",
+            # M3: the character reference corpus.
+            "/library/characters/{character_id}/overview",
+            "/library/characters/{character_id}/observations",
+            "/library/characters/{character_id}/corpus/refresh",
+            "/library/character-observations/{observation_id}/review",
+            "/library/character-observations/{observation_id}/environment",
+            "/library/character-observations/{observation_id}/image",
             # Phase 1.5 full-Vault catalog: roots and series by key, units and
             # archive members by id, media by opaque id - never a path.
             "/catalog/roots",

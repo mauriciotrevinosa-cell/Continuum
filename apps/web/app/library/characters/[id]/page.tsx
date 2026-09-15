@@ -4,7 +4,9 @@ import { ApiUnreachableError, projects as projectsApi } from "@/lib/api";
 import { type CharacterVault, type VaultCard, VaultNotFound, vault, words } from "@/lib/vault";
 import { ApiDown, Empty } from "../../acquisition/_components/ui";
 import { OriginChip, RefCard } from "../../_vault/parts";
+import { type CharacterOverview, manga } from "@/lib/manga";
 import { AddOutfit, EditCharacter } from "../CharacterForms";
+import { Overview } from "./Overview";
 
 export const dynamic = "force-dynamic";
 
@@ -66,6 +68,7 @@ export default async function CharacterVaultPage({ params }: { params: Promise<{
   }
   if (!data) return <ApiDown service="reference vault" message={error ?? "no response"} />;
   const projects = (await projectsApi.list().catch(() => [])).map((p) => ({ id: p.id, title: p.title }));
+  const overview: CharacterOverview | null = await manga.overview(id).catch(() => null);
   const { character } = data;
 
   return (
@@ -92,10 +95,14 @@ export default async function CharacterVaultPage({ params }: { params: Promise<{
         </div>
       </header>
 
+      {overview ? <Overview overview={overview} /> : null}
+
       {data.preferred.length ? (
         <section aria-label="Preferred">
           <div className="block-head">
-            <h2>Preferred</h2>
+            <h2>
+              Curated references marked preferred <small>see the overview for grounding and stylization</small>
+            </h2>
           </div>
           <Cards cards={data.preferred} />
         </section>

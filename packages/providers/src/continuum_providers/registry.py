@@ -12,12 +12,14 @@ docs/DEPENDENCIES.md rather than by auditing code paths.
 
 from __future__ import annotations
 
+from typing import Any
+
 from continuum_core import BlockedReason, ProviderUnavailableError
 
 from continuum_providers.contracts import Capability, DataClass, Provider, ProviderDescriptor
 from continuum_providers.policy import PolicyDecision, ProviderPolicy
 
-__all__ = ["ProviderRegistry", "build_default_registry"]
+__all__ = ["ProviderRegistry", "artwork_backends", "build_default_registry"]
 
 
 class ProviderRegistry:
@@ -83,11 +85,14 @@ class ProviderRegistry:
         ]
 
 
-def build_default_registry(policy: ProviderPolicy | None = None) -> ProviderRegistry:
-    """The default registry: deterministic fakes, nothing else.
+def build_default_registry(
+    policy: ProviderPolicy | None = None, settings: Any | None = None
+) -> ProviderRegistry:
+    """The default registry: deterministic fakes, plus configured ComfyUI backends.
 
-    Phase 1 adds the deterministic sketch renderer for rough attempts. No real
-    image model is registered or downloaded.
+    Phase 1 adds the deterministic sketch renderer for rough attempts. M3 adds
+    ComfyUI page backends, registered only when their URL is configured. No
+    model is downloaded and no paid service is reachable.
     """
     from continuum_providers.fakes import (
         DeterministicEmbeddingProvider,
@@ -103,4 +108,52 @@ def build_default_registry(policy: ProviderPolicy | None = None) -> ProviderRegi
     registry.register(NullImageProvider())
     registry.register(DeterministicSketchProvider())
     registry.register(DeterministicPageProvider())
+    if settings is not None:
+        from continuum_providers.comfy import configured_providers
+
+        for provider in configured_providers(settings):
+            registry.register(provider)
     return registry
+
+
+def artwork_backends(
+    registry: ProviderRegistry, settings: Any | None = None
+) -> list[dict[str, Any]]:
+    """Every artwork backend kind and its truthful state, configured or not."""
+    from continuum_providers.artwork import ArtworkBackendKind
+    from continuum_providers.comfy import ComfyPageProvider
+
+    out: list[dict[str, Any]] = [
+        {
+            "kind": ArtworkBackendKind.TEST.value,
+            "provider_id": "fake.deterministic-page",
+            "configured": True,
+            "reachable": True,
+            "ready": True,
+            "output": "TEST_RENDER",
+            "reason": "deterministic diagrams for workflow tests - never artwork",
+        }
+    ]
+    registered = {
+        d.id: registry.get(d.id) for d in registry.descriptors() if d.id.startswith("comfy.")
+    }
+    for kind, provider_id, url_field in (
+        (ArtworkBackendKind.COMFY_LOCAL, "comfy.local", "comfy_local_url"),
+        (ArtworkBackendKind.COMFY_REMOTE, "comfy.remote", "comfy_remote_url"),
+    ):
+        provider = registered.get(provider_id)
+        if isinstance(provider, ComfyPageProvider):
+            out.append({**provider.status(refresh=True).as_dict(), "output": "ARTWORK_CANDIDATE"})
+        else:
+            out.append(
+                {
+                    "kind": kind.value,
+                    "provider_id": provider_id,
+                    "configured": False,
+                    "reachable": False,
+                    "ready": False,
+                    "output": "ARTWORK_CANDIDATE",
+                    "reason": f"{kind.value} is not configured (set CONTINUUM_{url_field.upper()})",
+                }
+            )
+    return out

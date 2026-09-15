@@ -18,7 +18,11 @@ from continuum_providers.contracts import (
     RoughRenderResult,
 )
 from continuum_providers.policy import PolicyDecision, ProviderPolicy, profile_allows
-from continuum_providers.registry import ProviderRegistry, build_default_registry
+from continuum_providers.registry import (
+    ProviderRegistry,
+    artwork_backends,
+    build_default_registry,
+)
 
 __all__ = [
     "Capability",
@@ -39,6 +43,7 @@ __all__ = [
     "RoughRenderProvider",
     "RoughRenderRequest",
     "RoughRenderResult",
+    "artwork_backends",
     "build_default_registry",
     "profile_allows",
 ]

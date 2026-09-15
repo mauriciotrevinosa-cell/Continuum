@@ -1,7 +1,9 @@
 import Link from "next/link";
 import { API_BASE, ApiUnreachableError, type AcquisitionStatus, acquisition } from "@/lib/api";
 import { formatBytes, formatWhen, plural, timeAgo } from "@/lib/acquisition";
+import { type Backend, manga } from "@/lib/manga";
 import { RefreshControl } from "../../library/acquisition/_components/RefreshControl";
+import { BackendList } from "../../production/_parts/manga";
 
 export const dynamic = "force-dynamic";
 
@@ -21,6 +23,7 @@ export default async function DiagnosticsPage() {
     error = cause instanceof ApiUnreachableError ? cause.message : String(cause);
   }
   const latency = Date.now() - started;
+  const backends: Backend[] | null = await manga.backends().catch(() => null);
   const fresh = status?.freshness;
 
   return (
@@ -33,6 +36,21 @@ export default async function DiagnosticsPage() {
         </div>
         {status?.cli_available ? <RefreshControl variant="primary" /> : null}
       </header>
+
+      <section aria-labelledby="artwork" style={{ marginBottom: 28 }}>
+        <div className="block-head">
+          <h2 id="artwork">Artwork backends</h2>
+        </div>
+        {backends ? (
+          <BackendList backends={backends} />
+        ) : (
+          <p className="hint">The API did not report artwork backends.</p>
+        )}
+        <p className="hint">
+          ComfyUI backends are registered only when configured (CONTINUUM_COMFY_LOCAL_URL, CONTINUUM_COMFY_REMOTE_URL and
+          the checkpoint record). No paid service is ever enabled.
+        </p>
+      </section>
 
       <section aria-labelledby="service">
         <div className="block-head">

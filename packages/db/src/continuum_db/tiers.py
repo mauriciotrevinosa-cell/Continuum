@@ -76,4 +76,5 @@ TABLE_REGISTRY: dict[str, tuple[float, Tier]] = {
     "production_page": (3, Tier.D_GENERATED),
     "continuity_state": (3, Tier.D_GENERATED),
     "page_dependency": (3, Tier.D_GENERATED),
+    "character_observation": (3, Tier.B_INTERPRETATION),
 }

@@ -20,6 +20,28 @@ describe("allowedVaultPath", () => {
     );
   });
 
+  it("allows page-by-page production and the character corpus by id", () => {
+    expect(allowedVaultPath(["projects", "demo-saga", "episodes", "S1E1", "sample-runs"])).toBe(
+      "projects/demo-saga/episodes/S1E1/sample-runs",
+    );
+    expect(allowedVaultPath(["production", "runs", ID, "sample-decision"])).toBe(
+      `production/runs/${ID}/sample-decision`,
+    );
+    expect(allowedVaultPath(["production", "pages", ID, "attempts"])).toBe(`production/pages/${ID}/attempts`);
+    expect(allowedVaultPath(["production", "page-attempts", ID, "review"])).toBe(
+      `production/page-attempts/${ID}/review`,
+    );
+    expect(allowedVaultPath(["production", "backends"])).toBe("production/backends");
+    expect(allowedVaultPath(["library", "characters", ID, "corpus", "refresh"])).toBe(
+      `library/characters/${ID}/corpus/refresh`,
+    );
+    expect(allowedVaultPath(["library", "character-observations", ID, "image"])).toBe(
+      `library/character-observations/${ID}/image`,
+    );
+    expect(allowedVaultPath(["projects", "demo-saga", "episodes", "..", "sample-runs"])).toBeNull();
+    expect(allowedVaultPath(["production", "pages", "not-an-id", "attempts"])).toBeNull();
+  });
+
   it("allows the catalog by key and id, and nothing shaped like a path", () => {
     expect(allowedVaultPath(["catalog", "members", ID, "prepare"])).toBe(`catalog/members/${ID}/prepare`);
     expect(allowedVaultPath(["catalog", "series", "demo-orbit"])).toBe("catalog/series/demo-orbit");

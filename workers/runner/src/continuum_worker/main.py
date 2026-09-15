@@ -111,7 +111,7 @@ class Worker:
             "gpu": self.settings.max_concurrency_gpu,
         }
         self.storage = build_storage(self.settings, create=True)
-        self.providers = build_default_registry()
+        self.providers = build_default_registry(settings=self.settings)
         self.worker_id: uuid.UUID | None = None
         self._last_reap = 0.0
 

@@ -3,6 +3,7 @@ import { SideLink } from "./SideLink";
 import "./studio.css";
 import "./vault.css";
 import "./catalog.css";
+import "./manga.css";
 
 /**
  * The Continuum studio frame.

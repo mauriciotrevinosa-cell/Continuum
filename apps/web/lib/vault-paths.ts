@@ -10,6 +10,7 @@ const UUID = "[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}";
 const PROJECT = "[a-z0-9][a-z0-9-]{0,79}";
 const SERIES = "[a-z0-9][a-z0-9-]{0,119}";
 const SLUG = "[a-z0-9][a-z0-9-]{0,39}";
+const EPISODE = "[A-Za-z0-9][A-Za-z0-9._-]{0,39}";
 
 const ALLOWED: RegExp[] = [
   new RegExp(`^library/characters(/${UUID}(/(update|remove|outfits))?)?$`),
@@ -39,6 +40,15 @@ const ALLOWED: RegExp[] = [
   new RegExp(`^projects/${PROJECT}/music/${UUID}/(update|remove)$`),
   new RegExp(`^projects/${PROJECT}/chapter-packages/(validate|[a-z0-9][a-z0-9-]{0,119}(/approval)?)$`),
   new RegExp(`^production/(reference-manifests/${UUID}|chapter-package-schema)$`),
+  // M3: page-by-page manga production.
+  new RegExp(`^projects/${PROJECT}/(production-runs|production-profiles)$`),
+  new RegExp(`^projects/${PROJECT}/episodes/${EPISODE}/(materialize|canonical-readiness|sample-runs)$`),
+  new RegExp(
+    `^production/(backends|runs/${UUID}(/(refresh|sample-decision))?|pages/${UUID}(/attempts)?|page-attempts/${UUID}/review)$`,
+  ),
+  // M3: the character reference corpus.
+  new RegExp(`^library/characters/${UUID}/(overview|observations|corpus/refresh)$`),
+  new RegExp(`^library/character-observations/${UUID}/(review|environment|image)$`),
 ];
 
 /** The API path for these route segments, or null when it is not allowed. */

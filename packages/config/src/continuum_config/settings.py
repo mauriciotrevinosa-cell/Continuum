@@ -109,6 +109,24 @@ class Settings(BaseSettings):
     # -- providers ---------------------------------------------------------
     production_profile: ProductionProfile = ProductionProfile.FREE_LOCAL
 
+    # -- artwork backends (M3). ComfyUI is free software; compute is separate.
+    # A backend is registered only when its URL is set. COMFY_REMOTE is an
+    # opportunistic GPU session the creator opens; it receives only page bundles.
+    comfy_local_url: str = Field(default="", description="e.g. http://127.0.0.1:8188")
+    comfy_remote_url: str = Field(
+        default="", description="A ComfyUI server the creator runs elsewhere."
+    )
+    comfy_checkpoint: str = Field(
+        default="", description="Checkpoint file name as ComfyUI lists it."
+    )
+    comfy_checkpoint_version: str = ""
+    comfy_checkpoint_sha256: str = ""
+    comfy_checkpoint_license: str = ""
+    comfy_checkpoint_source: str = ""
+    comfy_timeout_seconds: float = Field(default=900.0, gt=0, le=7200)
+    #: Pages of commercial source manga never go to a remote server unless allowed here.
+    comfy_remote_allow_source_excerpts: bool = False
+
     # -- library acquisition (D-01: data outside the repository) -----------
     # Acquisition belongs to the LIBRARY, not to any project: what the user
     # owns and what they are missing is true regardless of which story they

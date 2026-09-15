@@ -41,6 +41,7 @@ from starlette.responses import JSONResponse
 from continuum_api.routers import (
     acquisition,
     catalog,
+    corpus,
     health,
     jobs,
     library,
@@ -66,7 +67,7 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
 
     storage = build_storage(settings, create=True)
     app.state.storage = storage
-    app.state.providers = build_default_registry()
+    app.state.providers = build_default_registry(settings=settings)
     # Library acquisition documents, written by the acquisition engine. A
     # missing directory is a valid empty state: a new user has no library.
     app.state.acquisition = AcquisitionStore(
@@ -163,6 +164,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     app.include_router(library.router)
     app.include_router(production.router)
     app.include_router(manga.router)
+    app.include_router(corpus.router)
     app.include_router(catalog.router)
     app.include_router(project_inputs.router)
     return app

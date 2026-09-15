@@ -301,6 +301,47 @@ def test_materialization_is_traced_and_placement_is_a_decision(
     assert placed.body["warnings"] == []
 
 
+def test_fresh_non_canon_sample_starts_without_inherited_continuity(
+    session: Session, world: World, tmp_path: Path
+) -> None:
+    """A fresh NON_CANON_SAMPLE from Page 1 begins with empty art continuity.
+
+    Continuity is scoped to a run, so TEST-approved pages of an older sample or
+    workflow-test run can never feed a new run's real-art continuity. This is
+    the W7 invariant: no inherited TEST artwork.
+    """
+    projects = _write_project(tmp_path)
+    manga = _manga(session, world, projects)
+    profile = manga.create_profile(PROJECT, "harbor-manga", _profile_body())
+    decision = PlacementDecision("s1e1-overlay-1", 2, 4, "PROPOSED", "planner")
+
+    first = manga.start_run(
+        PROJECT,
+        "S1E1",
+        purpose=RoughPurpose.NON_CANON_SAMPLE,
+        profile_id=profile.id,
+        chapters=[2],
+        decisions=[decision],
+    )
+    second = manga.start_run(
+        PROJECT,
+        "S1E1",
+        purpose=RoughPurpose.NON_CANON_SAMPLE,
+        profile_id=profile.id,
+        chapters=[2],
+        decisions=[decision],
+    )
+    session.commit()
+
+    first_continuity = manga.current_continuity(first.id)
+    second_continuity = manga.current_continuity(second.id)
+    assert first_continuity.id != second_continuity.id
+    assert first_continuity.body["approved_pages"] == []
+    assert second_continuity.body["approved_pages"] == []
+    # Page 1 of a fresh run is READY, not waiting on any prior run's approval.
+    assert manga.pages(second.id)[0].state == "READY"
+
+
 def test_sample_chapter_page_by_page_through_restart_invalidation_and_pass(
     session: Session,
     catalog: ReferenceCatalog,

@@ -1,5 +1,31 @@
 # M3 work handoff
 
+## W7 checkpoint — Fresh real-art NON_CANON_SAMPLE from Page 1 — 2026-09-15
+
+W7 verified that the existing production architecture already supports a
+completely fresh `NON_CANON_SAMPLE` from Page 1 with no inherited TEST artwork
+continuity. No redundant code was added.
+
+The invariant is structural, not incidental: `ContinuityState` is scoped to a
+run (`run_id`), and `start_run` initializes every new run with
+`approved_pages = []`. A TEST render can never be creatively approved, so the
+old sample's pages 1–2 (TEST technical passes) and the workflow-test preview
+can never enter a new run's art continuity.
+
+A focused regression test was added to pin this:
+`test_fresh_non_canon_sample_starts_without_inherited_continuity` asserts two
+fresh sample runs get distinct continuity states, both with empty
+`approved_pages`, and that Page 1 of a fresh run is READY (not waiting on any
+prior run).
+
+Exact creator action (no code needed): on the production screen, choose
+"START NON-CANON SAMPLE" for the desired chapter with a real artwork backend.
+The new run begins at Page 1 with empty continuity. Do not approve pages or
+mark SAMPLE PASS on the creator's behalf.
+
+Validation: the new regression test passes; the full
+`test_m3_page_production.py` file remains green.
+
 ## W6 checkpoint — Timeline-aware wardrobe v1 — 2026-09-15
 
 W6 implements the minimum timeline-aware project wardrobe from

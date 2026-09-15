@@ -20,6 +20,7 @@ from continuum_core.corpus import (
     ObservationSource,
     ObservationStatus,
     ViewAngle,
+    VisualOrigin,
 )
 from continuum_imaging.manga import analyze_layout
 from continuum_production.corpus import CharacterCorpus, observation_view
@@ -77,6 +78,10 @@ class ReviewIn(StrictBody):
         if self.clear_framing:
             out["framing"] = None
         return out
+
+
+class VisualOriginIn(StrictBody):
+    visual_origin: VisualOrigin | None
 
 
 class EnvironmentIn(StrictBody):
@@ -164,6 +169,16 @@ def review_observation(
 ) -> dict[str, Any]:
     with corpus_scope(request) as corpus:
         return observation_view(corpus.review(observation_id, body.changes()))
+
+
+@router.post("/library/character-observations/{observation_id}/visual-origin")
+def set_visual_origin(
+    request: Request, observation_id: uuid.UUID, body: VisualOriginIn
+) -> dict[str, Any]:
+    """Who made the image - kept apart from where it was acquired."""
+    with corpus_scope(request) as corpus:
+        value = body.visual_origin.value if body.visual_origin else None
+        return observation_view(corpus.set_visual_origin(observation_id, value))
 
 
 @router.post("/library/character-observations/{observation_id}/environment", status_code=201)

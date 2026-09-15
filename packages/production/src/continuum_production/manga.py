@@ -52,6 +52,7 @@ from continuum_db.models import (
     AttemptDerivative,
     CatalogEntry,
     CatalogUnit,
+    CharacterObservation,
     CharacterProfile,
     ContinuityState,
     MaterializedChapter,
@@ -83,6 +84,7 @@ from continuum_production.materialize import (
     SourceText,
     materialize_chapter,
 )
+from continuum_production.plan import page_plan, page_references
 from continuum_production.service import RoughProduction
 
 __all__ = [
@@ -90,6 +92,7 @@ __all__ = [
     "GrammarCandidate",
     "MangaProduction",
     "catalog_grammar_candidates",
+    "chapter_qa",
     "rank_grammar",
     "source_page_reader",
 ]
@@ -125,6 +128,8 @@ class GrammarCandidate:
     largest_panel_share: float
     negative_space: float
     ink_density: float
+    unit_key: str | None = None
+    page_offset: int | None = None
 
 
 def _grammar_score(intents: Sequence[str], c: GrammarCandidate) -> float:
@@ -446,8 +451,11 @@ class MangaProduction:
         chapters: Sequence[int],
         decisions: Sequence[PlacementDecision] = (),
     ) -> ProductionRun:
-        if purpose not in APPROVAL_FOR:
-            raise CatalogInputError("A production run is a NON_CANON_SAMPLE or PRODUCTION.")
+        if purpose not in APPROVAL_FOR and purpose is not RoughPurpose.WORKFLOW_TEST:
+            raise CatalogInputError(
+                "A production run is a NON_CANON_SAMPLE, PRODUCTION or chapter preview."
+            )
+        preview = purpose is RoughPurpose.WORKFLOW_TEST
         profile = self.session.get(ProductionProfile, profile_id)
         if profile is None or profile.project_key != project_key:
             raise CatalogNotFoundError("That production profile does not exist for the project.")
@@ -505,13 +513,15 @@ class MangaProduction:
                     page_key=page["page_key"],
                     page_hash=page["page_hash"],
                     artifact_id=artifact.id,
-                    state="READY" if sequence == 1 else "WAITING",
+                    # A chapter preview renders every page for QA; nothing waits.
+                    state="READY" if sequence == 1 or preview else "WAITING",
                     reasons=[],
                 )
                 self.session.add(row)
                 self.session.flush()
-                self._record_dependencies(row, page, profile)
-                self._check_grounding(row, page)
+                planned = self._with_plan(row, page)
+                self._record_dependencies(row, planned, profile)
+                self._check_grounding(row, planned)
         self.session.flush()
         return run
 
@@ -530,7 +540,47 @@ class MangaProduction:
     def page_body(self, page: ProductionPage) -> dict[str, Any]:
         chapter = self.session.get(MaterializedChapter, page.materialized_chapter_id)
         assert chapter is not None
-        return next(p for p in chapter.body["pages"] if p["page_key"] == page.page_key)
+        raw = next(p for p in chapter.body["pages"] if p["page_key"] == page.page_key)
+        return self._with_plan(page, raw)
+
+    def _known_characters(self) -> list[str]:
+        return sorted(
+            self.session.execute(
+                select(CharacterProfile.display_name).where(CharacterProfile.removed_at.is_(None))
+            ).scalars()
+        )
+
+    def _with_plan(self, page: ProductionPage, raw: dict[str, Any]) -> dict[str, Any]:
+        """The page with its derived plan; the plan's cast drives everything downstream."""
+        plan = page_plan(raw, self._known_characters(), page.cast_override or None)
+        return {**raw, "characters": plan["characters_present"], "plan": plan}
+
+    def set_cast_override(
+        self,
+        page_id: uuid.UUID,
+        *,
+        add: Sequence[str] = (),
+        remove: Sequence[str] = (),
+        primary: str | None = None,
+        note: str = "",
+    ) -> ProductionPage:
+        """A person corrects who appears on a page. Recorded, never guessed."""
+        page = self.session.get(ProductionPage, page_id)
+        if page is None:
+            raise CatalogNotFoundError("That production page does not exist.")
+        known = set(self._known_characters())
+        unknown = [n for n in [*add, *remove, *([primary] if primary else [])] if n not in known]
+        if unknown:
+            raise CatalogInputError(f"Unknown characters: {', '.join(unknown)}.")
+        page.cast_override = (
+            {"add": list(add), "remove": list(remove), "primary": primary, "note": note[:500]}
+            if add or remove or primary
+            else {}
+        )
+        body = self.page_body(page)
+        self._check_grounding(page, body)
+        self.session.flush()
+        return page
 
     def current_continuity(self, run_id: uuid.UUID) -> ContinuityState:
         state = self.session.execute(
@@ -580,6 +630,8 @@ class MangaProduction:
                 )
         page.reasons = reasons
         blocked = any(r["kind"] == "MISSING_REQUIRED_REFERENCE" for r in reasons)
+        if run.purpose is RoughPurpose.WORKFLOW_TEST:
+            return  # a preview reports missing references as QA warnings instead
         if blocked and page.state in {"READY", "WAITING", "BLOCKED"}:
             page.state = "BLOCKED"
         elif not blocked and page.state == "BLOCKED":
@@ -739,12 +791,31 @@ class MangaProduction:
                     }
                 )
         grammar_policy = profile.body.get("grammar") or {}
-        grammar = []
+        references: dict[str, list[dict[str, Any]]] = {
+            "grammar": [],
+            "technique": [],
+            "environment_pages": [],
+        }
         if self.grammar_candidates is not None and grammar_policy.get("limit", 0) > 0:
             candidates = self.grammar_candidates(
                 grammar_policy.get("series", []), int(grammar_policy.get("pool", 40))
             )
-            grammar = rank_grammar(body["intents"], candidates, int(grammar_policy["limit"]))
+            ranked = rank_grammar(body["intents"], candidates, int(grammar_policy["limit"]))
+            world = self._cast_series([c["character_id"] for c in characters])
+            world_candidates = self.grammar_candidates(sorted(world), 12) if world else []
+            intents = set(body["intents"])
+            references = page_references(
+                body["intents"],
+                ranked,
+                candidates,
+                world_candidates,
+                world_series=world,
+                environment_wanted=bool(
+                    body["plan"]["environment_tags"]
+                    or intents & {"nature_exterior", "large_composition", "back_shot"}
+                ),
+            )
+        grammar = references["grammar"]
         environment_tags = sorted(
             set((profile.body.get("setting") or {}).get("environment_tags", []))
             | set(setting_tags(" ".join(body["directions"]) + " " + str(body.get("scene") or "")))
@@ -775,11 +846,31 @@ class MangaProduction:
                 "character_rules": continuity.body["character_rules"],
                 "setting": continuity.body["setting"],
             },
+            "plan": body["plan"],
             "characters": characters,
             "canon_inputs": [{**i, "role": i["role"].value} for i in inputs],
             "grammar": grammar,
+            "technique": references["technique"],
             "environment": environment,
+            "environment_pages": references["environment_pages"],
             "gaps": gaps,
+        }
+
+    def _cast_series(self, character_ids: Sequence[str]) -> set[str]:
+        """The source series the cast's corpus comes from (their source world)."""
+        if not character_ids:
+            return set()
+        return {
+            key
+            for key in self.session.execute(
+                select(CharacterObservation.series_key)
+                .where(
+                    CharacterObservation.character_id.in_([uuid.UUID(c) for c in character_ids]),
+                    CharacterObservation.series_key.is_not(None),
+                )
+                .distinct()
+            ).scalars()
+            if key
         }
 
     def _environment_references(self, tags: Sequence[str], limit: int) -> list[dict[str, Any]]:
@@ -828,6 +919,8 @@ class MangaProduction:
             raise CatalogConflictError("That run is closed.")
         if page.state == "STALE":
             chapter, body = self._current_pages(run).get(page.page_key, (None, None))
+            if body is not None:
+                body = self._with_plan(page, body)
             if chapter is None or body is None:
                 raise CatalogConflictError(
                     f"Page {page.sequence} no longer exists in the committed sources."
@@ -893,8 +986,30 @@ class MangaProduction:
                     "aspect": None,
                     "label": f"grammar: {grammar['label']}"[:300],
                     "provenance": {
-                        k: grammar[k] for k in ("series_key", "score", "teaches", "structure")
-                    },
+                        k: grammar.get(k)
+                        for k in ("series_key", "score", "teaches", "structure", "why", "status")
+                    }
+                    | {"identity_evidence": False},
+                }
+            )
+        for page_ref in [*bundle.get("technique", []), *bundle.get("environment_pages", [])]:
+            inputs.append(
+                {
+                    "position": len(inputs),
+                    "role": BundleRole(page_ref["role"]),
+                    "reference_id": None,
+                    "locator": page_ref["locator"],
+                    "unit_index": None,
+                    "region": None,
+                    "character_id": None,
+                    "outfit_id": None,
+                    "aspect": None,
+                    "label": f"{page_ref['role'].lower()}: {page_ref['label']}"[:300],
+                    "provenance": {
+                        k: page_ref.get(k)
+                        for k in ("series_key", "teaches", "structure", "why", "status")
+                    }
+                    | {"identity_evidence": False},
                 }
             )
         for offset, env in enumerate(bundle["environment"], start=len(inputs)):
@@ -956,7 +1071,11 @@ class MangaProduction:
             height=height,
             workflow=str(backend.get("workflow", PAGE_WORKFLOW)),
             extra_execution={
-                "provider_id": backend.get("provider_id", "fake.deterministic-page"),
+                "provider_id": (
+                    "fake.deterministic-page"
+                    if run.purpose is RoughPurpose.WORKFLOW_TEST
+                    else backend.get("provider_id", "fake.deterministic-page")
+                ),
                 "backend_settings": backend.get("settings", {}),
             },
             parent=previous,
@@ -1008,7 +1127,15 @@ class MangaProduction:
         if decision is ReviewDecision.REGENERATE:
             self.rough.review(attempt_id, ReviewDecision.REJECT, notes=notes or "regenerate")
             return self.request_page_attempt(page.id, seed=seed, notes="")
-        if decision is APPROVAL_FOR[run.purpose]:
+        if run.purpose is RoughPurpose.WORKFLOW_TEST and decision in (
+            ReviewDecision.TECHNICAL_PASS,
+            ReviewDecision.CREATIVE_APPROVE,
+            ReviewDecision.FINAL_APPROVE,
+        ):
+            raise CatalogInputError(
+                "A chapter technical preview is never approved; review the sample run instead."
+            )
+        if decision is APPROVAL_FOR.get(run.purpose):
             self.rough.review(attempt_id, decision, notes=notes)
             master = self._derivative(attempt.id, "COMPOSITION_MASTER")
             if master is None:
@@ -1158,6 +1285,8 @@ class MangaProduction:
         changes = []
         for page in self.pages(run_id):
             chapter, body = current_pages.get(page.page_key, (None, None))
+            if body is not None:
+                body = self._with_plan(page, body)
             worked = self._has_work(page)
             if not worked and chapter is not None and body is not None:
                 page.materialized_chapter_id = chapter.id
@@ -1207,6 +1336,156 @@ class MangaProduction:
                 )
         self.session.flush()
         return changes
+
+    # -- chapter technical preview -----------------------------------------------------
+    def start_preview(self, run_id: uuid.UUID) -> ProductionRun:
+        """A CHAPTER TECHNICAL PREVIEW of a run's chapter: every page planned and test-rendered.
+
+        Separate from the run it previews: its pages are never approved, never
+        join continuity, never count, and it renders only with the test backend.
+        """
+        source = self.session.get(ProductionRun, run_id)
+        if source is None:
+            raise CatalogNotFoundError("That run does not exist.")
+        pages = self.pages(run_id)
+        chapters = {
+            c.chapter: c
+            for c in self.session.execute(
+                select(MaterializedChapter).where(
+                    MaterializedChapter.id.in_([p.materialized_chapter_id for p in pages])
+                )
+            ).scalars()
+        }
+        keys = ("item_key", "chapter", "after_base_page", "status", "author", "note")
+        decisions = [
+            PlacementDecision(**{k: d[k] for k in keys})
+            for chapter in chapters.values()
+            for d in chapter.body["decisions"]
+        ]
+        preview = self.start_run(
+            source.project_key,
+            source.episode,
+            purpose=RoughPurpose.WORKFLOW_TEST,
+            profile_id=source.profile_id,
+            chapters=sorted(chapters),
+            decisions=decisions,
+        )
+        for page in self.pages(preview.id):
+            if page.state == "BLOCKED":
+                page.state = "READY"
+        self.session.flush()
+        return preview
+
+    def render_preview(self, run_id: uuid.UUID) -> int:
+        """Queue a test render for every preview page that has none pending or drawn."""
+        run = self.session.get(ProductionRun, run_id)
+        if run is None or run.purpose is not RoughPurpose.WORKFLOW_TEST:
+            raise CatalogConflictError("Only a chapter technical preview renders every page.")
+        queued = 0
+        for page in self.pages(run_id):
+            attempts = self.rough.attempts(page.artifact_id)
+            if attempts and attempts[0].state in (AttemptState.QUEUED, AttemptState.GENERATED):
+                continue
+            if page.state == "BLOCKED":
+                page.state = "READY"
+            self.request_page_attempt(page.id)
+            queued += 1
+        self.session.flush()
+        return queued
+
+    def chapter_view(self, run_id: uuid.UUID) -> dict[str, Any]:
+        """Every page of a run as a sequence: plan, bundle summary, test render, QA."""
+        run = self.session.get(ProductionRun, run_id)
+        if run is None:
+            raise CatalogNotFoundError("That run does not exist.")
+        entries: list[dict[str, Any]] = []
+        for page in self.pages(run_id):
+            bundle = self.assemble(page)
+            body, plan = bundle["page"], bundle["plan"]
+            attempts = self.rough.attempts(page.artifact_id)
+            latest = attempts[0] if attempts else None
+            drawn = next((a for a in attempts if a.state is not AttemptState.QUEUED), None)
+            job = None
+            if latest is not None and latest.job_id is not None:
+                from continuum_db.models import Job
+
+                row = self.session.get(Job, latest.job_id)
+                if row is not None:
+                    job = {
+                        "status": row.status.value,
+                        "blocked_reason": row.blocked_reason.value if row.blocked_reason else None,
+                        "updated_at": row.updated_at.isoformat() if row.updated_at else None,
+                        "error": (row.last_error or {}).get("user_message"),
+                    }
+            lineage = body.get("lineage") or {}
+            entries.append(
+                {
+                    "id": str(page.id),
+                    "sequence": page.sequence,
+                    "page_key": page.page_key,
+                    "integrated_page": body.get("integrated_page"),
+                    "base_page": body.get("base_page"),
+                    "origin": body.get("origin"),
+                    "scene": body.get("scene"),
+                    "state": page.state,
+                    "reasons": page.reasons,
+                    "lineage": {
+                        "document_id": lineage.get("document_id"),
+                        "version": lineage.get("version"),
+                        "overlay": (lineage.get("overlay") or {}).get("document_id"),
+                        "insertion": (body.get("insertion") or {}).get("item_key"),
+                    },
+                    "plan": plan,
+                    "dialogue": body.get("dialogue") or [],
+                    "directions": body.get("directions") or [],
+                    "characters": [
+                        {
+                            "name": c["name"],
+                            "character_id": c["character_id"],
+                            "grounded": c["readiness"]["grounded"],
+                            "need": c["need"],
+                            "observations": c["observations"],
+                            "stylization": c["stylization_observations"],
+                            "readiness": {
+                                k: v["state"] for k, v in c["readiness"]["groups"].items()
+                            },
+                        }
+                        for c in bundle["characters"]
+                    ],
+                    "grammar": bundle["grammar"],
+                    "technique": bundle["technique"],
+                    "environment": bundle["environment"],
+                    "environment_pages": bundle["environment_pages"],
+                    "gaps": bundle["gaps"],
+                    "continuity_pages": len(bundle["continuity"]["approved_pages"]),
+                    "render": {
+                        "attempt_id": str(drawn.id) if drawn else None,
+                        "latest_attempt_id": str(latest.id) if latest else None,
+                        "state": latest.state.value if latest else None,
+                        "output_class": drawn.output_class.value
+                        if drawn and drawn.output_class
+                        else None,
+                        "content_hash": drawn.content_hash if drawn else None,
+                        "created_at": latest.created_at.isoformat() if latest else None,
+                        "job": job,
+                    },
+                }
+            )
+        qa = chapter_qa(entries)
+        profile = self.session.get(ProductionProfile, run.profile_id)
+        return {
+            "run": {
+                "id": str(run.id),
+                "project_key": run.project_key,
+                "episode": run.episode,
+                "chapter": run.chapter,
+                "purpose": run.purpose.value,
+                "status": run.status,
+                "profile": {"name": profile.name, "version": profile.version} if profile else None,
+            },
+            "pages": entries,
+            "qa": qa,
+        }
 
     # -- sample decision and profile promotion -------------------------------------
     def decide_sample(
@@ -1291,6 +1570,190 @@ class MangaProduction:
         return unique
 
 
+def chapter_qa(pages: list[dict[str, Any]]) -> dict[str, Any]:
+    """Lightweight checks across a chapter. They flag; they never fix or rewrite."""
+    import datetime as _dt
+    from collections import Counter
+
+    def warn(entry: dict[str, Any], kind: str, detail: str, severity: str = "warn") -> None:
+        entry.setdefault("warnings", []).append(
+            {"kind": kind, "detail": detail, "severity": severity}
+        )
+
+    usage: Counter[str] = Counter()
+    hashes: Counter[str] = Counter()
+    for entry in pages:
+        refs = {o["id"] for c in entry["characters"] for o in c["observations"]}
+        refs |= {g["locator"] for g in entry["grammar"]}
+        refs |= {t["locator"] for t in entry["technique"]}
+        usage.update(refs)
+        if entry["render"]["content_hash"]:
+            hashes[entry["render"]["content_hash"]] += 1
+    labels: dict[str, str] = {}
+    for entry in pages:
+        for c in entry["characters"]:
+            for o in c["observations"]:
+                labels[o["id"]] = f"{c['name']}: {o['source_label']}"
+        for g in [*entry["grammar"], *entry["technique"]]:
+            labels[g["locator"]] = f"{g['role'].lower()}: {g['label']}"
+    now = _dt.datetime.now(_dt.UTC)
+    previous: dict[str, Any] | None = None
+    for entry in pages:
+        entry["warnings"] = []
+        plan = entry["plan"]
+        for item in plan["uncertain"]:
+            warn(entry, "CAST_UNCERTAIN", item)
+        bundled = {c["name"]: c for c in entry["characters"]}
+        for name in plan["characters_present"]:
+            c = bundled.get(name)
+            if c is None:
+                warn(
+                    entry,
+                    "CHARACTER_NO_REFERENCES",
+                    f"{name} is in the cast but has no grounded references",
+                    "error",
+                )
+                continue
+            identity = [o for o in c["observations"] if set(o["facets"]) & {"FACE", "HAIR"}]
+            confirmed = [o for o in c["observations"] if o["status"] == "CONFIRMED"]
+            if not confirmed:
+                warn(
+                    entry,
+                    "IDENTITY_ONLY_CANDIDATES",
+                    f"{name}: no confirmed reference - only candidates",
+                    "error",
+                )
+            elif not identity:
+                warn(
+                    entry,
+                    "NO_IDENTITY_REFERENCE",
+                    f"{name}: no face or hair reference retrieved for this page",
+                )
+            candidates = [o for o in c["observations"] if o["status"] == "CANDIDATE"]
+            if candidates:
+                warn(
+                    entry,
+                    "CANDIDATES_IN_BUNDLE",
+                    f"{name}: {len(candidates)} unconfirmed candidate(s) included"
+                    " - never identity proof",
+                    "info",
+                )
+            for group in ("body", "wardrobe"):
+                wanted = group.upper() in set(c["need"]["facets"])
+                if wanted and c["readiness"].get(group) == "MISSING":
+                    warn(
+                        entry,
+                        f"{group.upper()}_MISSING",
+                        f"{name}: the page needs {group} and none is confirmed",
+                    )
+            for o in c["observations"]:
+                if o["authority"] in {"SUPPLEMENTAL", "UNSORTED"} and o["role"] == "GROUNDING":
+                    warn(
+                        entry,
+                        "ROLE_MISUSE",
+                        f"{name}: {o['source_label']} is supplemental but used as grounding",
+                        "error",
+                    )
+        if not entry["grammar"]:
+            warn(entry, "NO_GRAMMAR", "no grammar page retrieved")
+        environment_needed = bool(plan["environment_tags"]) or bool(
+            set(plan["intents"]) & {"nature_exterior", "large_composition", "back_shot"}
+        )
+        if environment_needed and not entry["environment"]:
+            detail = "no tagged environment reference"
+            detail += " - only unverified wide pages" if entry["environment_pages"] else ""
+            warn(
+                entry,
+                "ENVIRONMENT_GAP",
+                detail
+                + (f" ({', '.join(plan['environment_tags'])})" if plan["environment_tags"] else ""),
+            )
+        if previous is not None:
+            same_grammar = {g["locator"] for g in entry["grammar"]} == {
+                g["locator"] for g in previous["grammar"]
+            } and bool(entry["grammar"])
+            if same_grammar:
+                warn(
+                    entry, "REPEATED_GRAMMAR", f"same grammar pages as page {previous['sequence']}"
+                )
+            if (
+                plan["primary_intent"] == previous["plan"]["primary_intent"]
+                and plan["characters_present"] == previous["plan"]["characters_present"]
+                and same_grammar
+            ):
+                warn(
+                    entry,
+                    "POSSIBLE_REPEATED_COMPOSITION",
+                    f"same intent, cast and grammar as page {previous['sequence']}",
+                )
+        render = entry["render"]
+        job = render.get("job") or {}
+        if render["state"] in ("FAILED",) or job.get("status") in ("FAILED", "BLOCKED"):
+            warn(
+                entry,
+                "RENDER_FAILED",
+                job.get("error") or job.get("blocked_reason") or "render failed",
+                "error",
+            )
+        elif render["state"] == "QUEUED" and render["created_at"]:
+            age = (now - _dt.datetime.fromisoformat(render["created_at"])).total_seconds()
+            if age > 300:
+                warn(
+                    entry,
+                    "RENDER_STUCK",
+                    f"queued for {int(age // 60)} minutes - is the worker running?",
+                    "error",
+                )
+        if render["content_hash"] and hashes[render["content_hash"]] > 1:
+            warn(
+                entry,
+                "DUPLICATE_RENDER",
+                "this test render is identical to another page's",
+                "error",
+            )
+        if not render["attempt_id"] and render["state"] != "QUEUED":
+            warn(entry, "NOT_RENDERED", "no test render yet", "info")
+        previous = entry
+    overused = []
+    threshold = max(4, int(len(pages) * 0.6))
+    for key, count in usage.items():
+        if count >= threshold and len(pages) >= 4:
+            overused.append({"reference": labels.get(key, key), "pages": count})
+    counts: Counter[str] = Counter(w["kind"] for e in pages for w in e["warnings"])
+    return {
+        "pages": len(pages),
+        "rendered": sum(1 for e in pages if e["render"]["attempt_id"]),
+        "pages_with_warnings": sum(
+            1 for e in pages if any(w["severity"] != "info" for w in e["warnings"])
+        ),
+        "pages_with_cast_warnings": sum(
+            1 for e in pages if any(w["kind"] == "CAST_UNCERTAIN" for w in e["warnings"])
+        ),
+        "pages_with_character_warnings": sum(
+            1
+            for e in pages
+            if any(
+                w["kind"]
+                in {
+                    "CHARACTER_NO_REFERENCES",
+                    "IDENTITY_ONLY_CANDIDATES",
+                    "NO_IDENTITY_REFERENCE",
+                    "BODY_MISSING",
+                    "WARDROBE_MISSING",
+                    "ROLE_MISUSE",
+                }
+                for w in e["warnings"]
+            )
+        ),
+        "pages_with_environment_gaps": sum(
+            1 for e in pages if any(w["kind"] == "ENVIRONMENT_GAP" for w in e["warnings"])
+        ),
+        "pages_with_grammar": sum(1 for e in pages if e["grammar"]),
+        "counts": dict(counts),
+        "overused_references": overused,
+    }
+
+
 def catalog_grammar_candidates(
     session: Session,
     read_page: Callable[[CatalogUnit, CatalogEntry, int], tuple[str, bytes] | None],
@@ -1345,6 +1808,8 @@ def catalog_grammar_candidates(
                         largest_panel_share=round(layout.largest_panel_share, 4),
                         negative_space=layout.negative_space,
                         ink_density=layout.ink_density,
+                        unit_key=unit.unit_key,
+                        page_offset=offset,
                     )
                 out.append(memo[key])
         return out

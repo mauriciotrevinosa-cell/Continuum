@@ -55,6 +55,10 @@ def _job(production: RoughProduction, attempt: RoughAttempt) -> dict[str, Any] |
         "error": last_error.get("user_message"),
         "error_remediation": last_error.get("remediation"),
         "attempts": job.attempt,
+        "created_at": _iso(job.created_at),
+        "started_at": _iso(job.started_at),
+        "updated_at": _iso(job.updated_at),
+        "completed_at": _iso(job.completed_at),
     }
 
 

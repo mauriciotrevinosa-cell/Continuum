@@ -126,7 +126,9 @@ class ProductionRun(Base):
     created_at: Mapped[dt.datetime] = _created()
 
     __table_args__ = (
-        CheckConstraint("purpose IN ('PRODUCTION', 'NON_CANON_SAMPLE')", name="run_purpose"),
+        CheckConstraint(
+            "purpose IN ('PRODUCTION', 'NON_CANON_SAMPLE', 'WORKFLOW_TEST')", name="run_purpose"
+        ),
         CheckConstraint(
             "status IN ('OPEN', 'SAMPLE_PASSED', 'SAMPLE_FAILED', 'CLOSED')", name="run_status"
         ),
@@ -163,6 +165,11 @@ class ProductionPage(Base):
         UuidV7(), ForeignKey("rough_attempt.id", ondelete="RESTRICT"), nullable=True
     )
     approved_at: Mapped[dt.datetime | None] = mapped_column(TimestampTz, nullable=True)
+    #: A person's correction of the derived cast: {"add": [...], "remove": [...],
+    #: "primary": name | null, "note": ...}.
+    cast_override: Mapped[dict[str, Any]] = mapped_column(
+        JSONB, nullable=False, default=dict, server_default="{}"
+    )
 
     __table_args__ = (
         UniqueConstraint("run_id", "sequence"),

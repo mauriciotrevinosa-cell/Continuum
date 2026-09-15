@@ -31,6 +31,7 @@ from fastapi import APIRouter, HTTPException, Request
 from fastapi import Path as PathParam
 from pydantic import Field
 from sqlalchemy import select
+from starlette.responses import Response
 
 from continuum_api.routers.library import StrictBody, catalog_scope
 
@@ -112,6 +113,13 @@ class PageReviewIn(StrictBody):
     decision: ReviewDecision
     notes: str = Field(default="", max_length=8000)
     seed: int | None = Field(default=None, ge=0, le=2**31 - 1)
+
+
+class CastIn(StrictBody):
+    add: list[str] = Field(default_factory=list, max_length=20)
+    remove: list[str] = Field(default_factory=list, max_length=20)
+    primary: str | None = Field(default=None, max_length=200)
+    note: str = Field(default="", max_length=500)
 
 
 class SampleDecisionIn(StrictBody):
@@ -344,6 +352,65 @@ def sample_decision(request: Request, run_id: uuid.UUID, body: SampleDecisionIn)
             "run": _run_view(manga, _run(manga, run_id)),
             "promoted_profile": _profile_view(promoted) if promoted else None,
         }
+
+
+@router.post("/production/runs/{run_id}/preview", status_code=201)
+def start_preview(request: Request, run_id: uuid.UUID) -> dict[str, Any]:
+    """A CHAPTER TECHNICAL PREVIEW of the run's chapter: test renders only, never approved."""
+    with manga_scope(request) as manga:
+        return _run_view(manga, manga.start_preview(run_id))
+
+
+@router.post("/production/runs/{run_id}/preview-render")
+def render_preview(request: Request, run_id: uuid.UUID) -> dict[str, Any]:
+    """Queue a test render for every page of a chapter preview."""
+    with manga_scope(request) as manga:
+        return {"queued": manga.render_preview(run_id)}
+
+
+@router.get("/production/runs/{run_id}/chapter")
+def chapter_view(request: Request, run_id: uuid.UUID) -> dict[str, Any]:
+    """Every page of a run as a sequence, with plans, references, renders and QA."""
+    with manga_scope(request) as manga:
+        return manga.chapter_view(run_id)
+
+
+@router.post("/production/pages/{page_id}/cast")
+def set_cast(request: Request, page_id: uuid.UUID, body: CastIn) -> dict[str, Any]:
+    """Correct the cast derived from the script for one page."""
+    with manga_scope(request) as manga:
+        page = manga.set_cast_override(
+            page_id, add=body.add, remove=body.remove, primary=body.primary, note=body.note
+        )
+        return {**_page_summary(manga, page), "plan": manga.page_body(page)["plan"]}
+
+
+@router.get("/production/source-pages/{unit_key}/{offset}/image")
+def source_page_image(
+    request: Request,
+    unit_key: Annotated[str, PathParam(pattern=r"^[0-9a-f]{16,64}$")],
+    offset: Annotated[int, PathParam(ge=0, le=100_000)],
+) -> Response:
+    """A catalogued source manga page, by catalog unit and page - read-only."""
+    from continuum_db.models import CatalogEntry, CatalogUnit
+    from continuum_imaging import preview
+    from continuum_library import CatalogNotFoundError
+
+    with catalog_scope(request) as catalog:
+        found = catalog.session.execute(
+            select(CatalogUnit, CatalogEntry)
+            .join(CatalogEntry, CatalogEntry.id == CatalogUnit.entry_id)
+            .where(CatalogUnit.unit_key == unit_key)
+        ).first()
+        read = source_page_reader(catalog)(found[0], found[1], offset) if found else None
+        if read is None:
+            raise CatalogNotFoundError("That source page is not available.")
+        image = preview(read[1], None)
+    return Response(
+        content=image.data,
+        media_type=image.mime,
+        headers={"Cache-Control": "private, max-age=3600", "X-Content-Type-Options": "nosniff"},
+    )
 
 
 @router.get("/production/pages/{page_id}")

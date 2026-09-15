@@ -896,6 +896,26 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/library/character-observations/{observation_id}/visual-origin": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Set Visual Origin
+         * @description Who made the image - kept apart from where it was acquired.
+         */
+        post: operations["set_visual_origin_library_character_observations__observation_id__visual_origin_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/library/characters": {
         parameters: {
             query?: never;
@@ -1992,6 +2012,26 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/production/pages/{page_id}/cast": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Set Cast
+         * @description Correct the cast derived from the script for one page.
+         */
+        post: operations["set_cast_production_pages__page_id__cast_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/production/readiness": {
         parameters: {
             query?: never;
@@ -2083,6 +2123,66 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/production/runs/{run_id}/chapter": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Chapter View
+         * @description Every page of a run as a sequence, with plans, references, renders and QA.
+         */
+        get: operations["chapter_view_production_runs__run_id__chapter_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/runs/{run_id}/preview": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Start Preview
+         * @description A CHAPTER TECHNICAL PREVIEW of the run's chapter: test renders only, never approved.
+         */
+        post: operations["start_preview_production_runs__run_id__preview_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/runs/{run_id}/preview-render": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Render Preview
+         * @description Queue a test render for every page of a chapter preview.
+         */
+        post: operations["render_preview_production_runs__run_id__preview_render_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/production/runs/{run_id}/refresh": {
         parameters: {
             query?: never;
@@ -2117,6 +2217,26 @@ export interface paths {
          * @description SAMPLE PASS promotes the profile (never the images); FAIL closes the sample.
          */
         post: operations["sample_decision_production_runs__run_id__sample_decision_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/production/source-pages/{unit_key}/{offset}/image": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Source Page Image
+         * @description A catalogued source manga page, by catalog unit and page - read-only.
+         */
+        get: operations["source_page_image_production_source_pages__unit_key___offset__image_get"];
+        put?: never;
+        post?: never;
         delete?: never;
         options?: never;
         head?: never;
@@ -3001,6 +3121,20 @@ export interface components {
          * @enum {string}
          */
         CandidateStatus: "INBOX" | "ACCEPTED" | "DISMISSED";
+        /** CastIn */
+        CastIn: {
+            /** Add */
+            add?: string[];
+            /**
+             * Note
+             * @default
+             */
+            note: string;
+            /** Primary */
+            primary?: string | null;
+            /** Remove */
+            remove?: string[];
+        };
         /** ChangesIn */
         ChangesIn: {
             /** Changes */
@@ -5619,6 +5753,19 @@ export interface components {
              */
             notes: string;
         };
+        /**
+         * VisualOrigin
+         * @description Who made the image, as a person judged it - independent of where it was acquired.
+         *
+         *     A frame of the official anime reposted by a fan account was *acquired* as
+         *     fan art but its *visual origin* is the official anime.
+         * @enum {string}
+         */
+        VisualOrigin: "PRIMARY_MANGA" | "OFFICIAL_ANIME" | "OFFICIAL_ART" | "PROJECT_CREATED" | "FAN_ART" | "UNKNOWN";
+        /** VisualOriginIn */
+        VisualOriginIn: {
+            visual_origin: components["schemas"]["VisualOrigin"] | null;
+        };
         /** WatchingIn */
         WatchingIn: {
             /** Duration Ms */
@@ -7381,6 +7528,43 @@ export interface operations {
         requestBody: {
             content: {
                 "application/json": components["schemas"]["continuum_api__routers__corpus__ReviewIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    set_visual_origin_library_character_observations__observation_id__visual_origin_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                observation_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["VisualOriginIn"];
             };
         };
         responses: {
@@ -9625,6 +9809,43 @@ export interface operations {
             };
         };
     };
+    set_cast_production_pages__page_id__cast_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                page_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["CastIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     readiness_production_readiness_get: {
         parameters: {
             query?: never;
@@ -9783,6 +10004,105 @@ export interface operations {
             };
         };
     };
+    chapter_view_production_runs__run_id__chapter_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                run_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    start_preview_production_runs__run_id__preview_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                run_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    render_preview_production_runs__run_id__preview_render_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                run_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     refresh_run_production_runs__run_id__refresh_post: {
         parameters: {
             query?: never;
@@ -9840,6 +10160,38 @@ export interface operations {
                     "application/json": {
                         [key: string]: unknown;
                     };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    source_page_image_production_source_pages__unit_key___offset__image_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                unit_key: string;
+                offset: number;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": unknown;
                 };
             };
             /** @description Validation Error */

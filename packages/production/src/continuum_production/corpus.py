@@ -413,10 +413,20 @@ class CharacterCorpus:
     @staticmethod
     def _authority_of(item: ReferenceItem, original: bool, styled: bool) -> tuple[str, str]:
         authority, role = ObservationAuthority, ObservationRole
-        if item.reference_class is ReferenceClass.UNSORTED:
-            return authority.UNSORTED.value, role.EVIDENCE.value
         if styled:
             return authority.PROJECT_CREATED.value, role.STYLIZATION.value
+        # Who made the image (judged by a person) outranks where it was acquired.
+        visual = item.visual_origin
+        if visual and not original:
+            if visual == "PRIMARY_MANGA":
+                return authority.PRIMARY_SOURCE.value, role.GROUNDING.value
+            if visual in ("OFFICIAL_ANIME", "OFFICIAL_ART"):
+                return authority.OFFICIAL.value, role.GROUNDING.value
+            if visual == "PROJECT_CREATED":
+                return authority.PROJECT_CREATED.value, role.EVIDENCE.value
+            return authority.SUPPLEMENTAL.value, role.EVIDENCE.value
+        if item.reference_class is ReferenceClass.UNSORTED:
+            return authority.UNSORTED.value, role.EVIDENCE.value
         origin = item.origin
         project_made = origin in (ReferenceOrigin.GENERATED, ReferenceOrigin.PROJECT_APPROVED)
         if origin is ReferenceOrigin.FAN_ART:
@@ -719,11 +729,19 @@ class CharacterCorpus:
             raise CatalogInputError("Only a confirmed observation can be a production anchor.")
         if row.anchor and row.role == ObservationRole.STYLIZATION.value:
             raise CatalogInputError("A stylization reference is never an identity anchor.")
-        if row.source_kind == ObservationSource.FAN_ART.value and row.authority in {
-            a.value for a in HIGH_AUTHORITY
-        }:
+        visual = (
+            self.catalog.reference(row.reference_id, include_removed=True).visual_origin
+            if row.reference_id
+            else None
+        )
+        if (
+            row.source_kind == ObservationSource.FAN_ART.value
+            and row.authority in {a.value for a in HIGH_AUTHORITY}
+            and visual not in ("PRIMARY_MANGA", "OFFICIAL_ANIME", "OFFICIAL_ART")
+        ):
             raise CatalogInputError(
-                "Fan art is supplemental; it cannot become primary or official."
+                "Fan art is supplemental; record its visual origin first if it is really "
+                "official anime or art."
             )
         character = self.character(row.character_id)
         if character.origin is CharacterOrigin.PROJECT_ORIGINAL and row.authority in {
@@ -1067,6 +1085,39 @@ class CharacterCorpus:
         }
 
     # -- environment ------------------------------------------------------------
+    def set_visual_origin(
+        self, observation_id: uuid.UUID, visual_origin: str | None
+    ) -> CharacterObservation:
+        """Record who made an observed image, keeping where it was acquired.
+
+        An official anime frame reposted by a fan account keeps its acquisition
+        provenance and becomes OFFICIAL evidence - still a candidate until a person
+        confirms it shows the character.
+        """
+        row = self.observation(observation_id)
+        if row.reference_id is None:
+            raise CatalogInputError("A source page's origin is the source manga itself.")
+        item = self.catalog.reference(row.reference_id)
+        self.catalog.update_reference(item.id, item.row_version, visual_origin=visual_origin)
+        character = self.character(row.character_id)
+        authority, role = self._authority_of(
+            item, character.origin is CharacterOrigin.PROJECT_ORIGINAL, False
+        )
+        if row.role != ObservationRole.STYLIZATION.value:
+            row.authority, row.role = authority, role
+        row.evidence = {
+            **(row.evidence or {}),
+            "acquired_from": {
+                "origin": item.origin.value,
+                "collection": item.collection,
+                "creator_handle_recorded": bool(item.creator_handle),
+            },
+            "visual_origin": item.visual_origin,
+        }
+        row.reviewed_at = _now()
+        self.session.flush()
+        return row
+
     def tag_environment(self, observation_id: uuid.UUID, tags: Sequence[str]) -> ReferenceItem:
         """Use an observed page as an environment reference, with setting tags.
 

@@ -30,7 +30,23 @@ __all__ = [
     "ObservationSource",
     "ObservationStatus",
     "ViewAngle",
+    "VisualOrigin",
 ]
+
+
+class VisualOrigin(StrEnum):
+    """Who made the image, as a person judged it - independent of where it was acquired.
+
+    A frame of the official anime reposted by a fan account was *acquired* as
+    fan art but its *visual origin* is the official anime.
+    """
+
+    PRIMARY_MANGA = "PRIMARY_MANGA"
+    OFFICIAL_ANIME = "OFFICIAL_ANIME"
+    OFFICIAL_ART = "OFFICIAL_ART"
+    PROJECT_CREATED = "PROJECT_CREATED"
+    FAN_ART = "FAN_ART"
+    UNKNOWN = "UNKNOWN"
 
 
 class ObservationSource(StrEnum):

@@ -795,6 +795,10 @@ class ReferenceCatalog:
                 item.source_url = clean_url(value)
             elif key == "creator_handle":
                 item.creator_handle = clean_handle(value)
+            elif key == "visual_origin":
+                from continuum_core.corpus import VisualOrigin
+
+                item.visual_origin = VisualOrigin(value).value if value else None
             else:
                 raise CatalogInputError(
                     f"'{key}' cannot be changed; select a new reference instead."

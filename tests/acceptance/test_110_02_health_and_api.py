@@ -310,6 +310,12 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/library/character-observations/{observation_id}/review",
             "/library/character-observations/{observation_id}/environment",
             "/library/character-observations/{observation_id}/image",
+            "/library/character-observations/{observation_id}/visual-origin",
+            "/production/runs/{run_id}/preview",
+            "/production/runs/{run_id}/preview-render",
+            "/production/runs/{run_id}/chapter",
+            "/production/pages/{page_id}/cast",
+            "/production/source-pages/{unit_key}/{offset}/image",
             # Phase 1.5 full-Vault catalog: roots and series by key, units and
             # archive members by id, media by opaque id - never a path.
             "/catalog/roots",

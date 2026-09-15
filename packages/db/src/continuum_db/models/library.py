@@ -310,6 +310,10 @@ class ReferenceItem(Base):
     )
     #: Typed provenance union (ADR-0003 section 10), e.g. {"kind": "source", ...}.
     provenance: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False)
+    #: Who made the image, as a person judged it (PRIMARY_MANGA, OFFICIAL_ANIME,
+    #: OFFICIAL_ART, PROJECT_CREATED, FAN_ART, UNKNOWN). ``origin`` and
+    #: ``provenance`` keep where it was acquired; this never overwrites them.
+    visual_origin: Mapped[str | None] = mapped_column(String(20), nullable=True)
     row_version: Mapped[int] = mapped_column(Integer, nullable=False)
     created_at: Mapped[dt.datetime] = _created()
     updated_at: Mapped[dt.datetime] = _updated()
@@ -321,6 +325,11 @@ class ReferenceItem(Base):
         CheckConstraint("unit_index IS NULL OR unit_index >= 0", name="unit_index_non_negative"),
         CheckConstraint(
             "source_url IS NULL OR source_url ~ '^https?://'", name="source_url_is_web"
+        ),
+        CheckConstraint(
+            "visual_origin IS NULL OR visual_origin IN ('PRIMARY_MANGA', 'OFFICIAL_ANIME',"
+            " 'OFFICIAL_ART', 'PROJECT_CREATED', 'FAN_ART', 'UNKNOWN')",
+            name="visual_origin_known",
         ),
         Index("ix_reference_item_asset_id", "asset_id"),
         Index("ix_reference_item_locator", "locator"),

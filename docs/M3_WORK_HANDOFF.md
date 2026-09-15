@@ -1,5 +1,44 @@
 # M3 work handoff
 
+## W4 checkpoint — Character Model Builder — 2026-09-15
+
+W4 is implemented at commit `cc79391` on `m3/critical-path`. Continuum now has
+a provider-neutral `CHARACTER_MODEL_RENDER` job for reference-grounded HEAD
+(front, three-quarter, profile, back hair) and FULL BODY (front,
+three-quarter, side, back) candidates. Requests are accepted only from a
+Production Model in REVIEW or APPROVED state and snapshot its confirmed typed
+evidence, identity rules, restrictions and active outfit before the durable GPU
+job is queued.
+
+Generated sheets are stored content-addressed as `GENERATED` references with
+`visual_origin=PROJECT_CREATED`. Each attempt records provider/backend, model
+identity and hash, workflow identity and hash, exact settings, seed, source
+evidence and parent attempt. A human can inspect, reject or regenerate a
+candidate. Approving a sheet records the reviewer and creates a new DRAFT
+Production Model version; it does not approve that model or claim creator
+approval. Approved sheets of the same type supersede, and the new version also
+keeps the latest approved sheet of the other type.
+
+The character page exposes the builder, attempt/job state, candidate image,
+provenance summary and review actions. The shipped registry currently has no
+real `CHARACTER_MODEL_RENDER` provider, so the UI reports the exact missing
+backend action and no job or placeholder artwork is created. AIComicBuilder
+remains pinned and untouched at `e01e7dd501131922fb5051ec36926271d394b4d3`.
+
+Database: app DB is at `0009_m3_model_builder`. Required pre-migration backup:
+`C:/ContinuumData/backups/continuum-pre-0009-20260915-053915.dump` (3,221,923
+bytes). Validation after the final changes: full Python suite passed with the
+single expected POSIX-only skip on Windows; W4 plus schema-drift tests passed;
+ruff, mypy (115 source files), all four import contracts, web lint/typecheck,
+21 web tests and the Next.js production build passed. Source Vault bytes were
+verified unchanged by the W4 acceptance flow.
+
+UI route: `/library/characters/{character_id}`. W5–W8 are not started in this
+checkpoint. W5 creator work remains Mau, Frieren, Fern and Stark in that order;
+Mau and Frieren first. Frieren still needs the explicit reference decisions in
+`M3_FRIEREN_REFERENCE_REVIEW.md`; Mau must retain creator-primary identity,
+V2 stylization-only status, rejected V2 clothing and the E1 no-glasses rule.
+
 ## W3 checkpoint — Human-steered evidence loop — 2026-09-15
 
 W3 is implemented at commit `b61fc8c`. The existing held-material search,
@@ -89,9 +128,9 @@ checks passed at the last commit. The app database is migrated.
 
 ## Database
 
-- App DB `continuum` is at **`0008_m3_models`**. Backups taken before each
+- App DB `continuum` is at **`0009_m3_model_builder`**. Backups taken before each
   migration: `C:/ContinuumData/backups/continuum-pre-0005-*.dump`, `-0006-*`,
-  `-0007-*`, `-0008-*`.
+  `-0007-*`, `-0008-*`, `-0009-*`.
 - No further migration is pending. Before any new migration: take a
   `pg_dump -Fc` backup first (see `docs/M3_MANGA_PRODUCTION.md`), then
   `uv run --no-sync python -m alembic upgrade head`.

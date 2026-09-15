@@ -33,7 +33,8 @@ from __future__ import annotations
 import datetime as dt
 import hashlib
 import uuid
-from collections.abc import Callable, Sequence
+from collections import Counter
+from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass
 from typing import Any
 
@@ -151,12 +152,19 @@ def _grammar_score(intents: Sequence[str], c: GrammarCandidate) -> float:
 
 
 def rank_grammar(
-    intents: Sequence[str], candidates: Sequence[GrammarCandidate], limit: int
+    intents: Sequence[str],
+    candidates: Sequence[GrammarCandidate],
+    limit: int,
+    *,
+    recent_usage: Mapping[str, int] | None = None,
 ) -> list[dict[str, Any]]:
     """The most structurally relevant pages, one per series first (a school, not a blend)."""
     scored = sorted(
         ((c, _grammar_score(intents, c)) for c in candidates),
-        key=lambda pair: (-pair[1], pair[0].locator),
+        key=lambda pair: (
+            -pair[1] + 0.35 * (recent_usage or {}).get(pair[0].locator, 0),
+            pair[0].locator,
+        ),
     )
     chosen: list[tuple[GrammarCandidate, float]] = []
     seen_series: set[str | None] = set()
@@ -174,6 +182,7 @@ def rank_grammar(
             "series_key": c.series_key,
             "label": c.label,
             "score": score,
+            "recent_uses": (recent_usage or {}).get(c.locator, 0),
             "teaches": teaches,
             "structure": {
                 "panel_count": c.panel_count,
@@ -800,7 +809,13 @@ class MangaProduction:
             candidates = self.grammar_candidates(
                 grammar_policy.get("series", []), int(grammar_policy.get("pool", 40))
             )
-            ranked = rank_grammar(body["intents"], candidates, int(grammar_policy["limit"]))
+            recent_usage = self._recent_craft_usage(page, candidates, int(grammar_policy["limit"]))
+            ranked = rank_grammar(
+                body["intents"],
+                candidates,
+                int(grammar_policy["limit"]),
+                recent_usage=recent_usage,
+            )
             world = self._cast_series([c["character_id"] for c in characters])
             world_candidates = self.grammar_candidates(sorted(world), 12) if world else []
             intents = set(body["intents"])
@@ -810,6 +825,7 @@ class MangaProduction:
                 candidates,
                 world_candidates,
                 world_series=world,
+                recent_usage=recent_usage,
                 environment_wanted=bool(
                     body["plan"]["environment_tags"]
                     or intents & {"nature_exterior", "large_composition", "back_shot"}
@@ -855,6 +871,36 @@ class MangaProduction:
             "environment_pages": references["environment_pages"],
             "gaps": gaps,
         }
+
+    def _recent_craft_usage(
+        self, page: ProductionPage, candidates: Sequence[GrammarCandidate], limit: int
+    ) -> Counter[str]:
+        """Replay current chapter plans so direct page views and chapter views agree.
+
+        Only the previous two pages influence ranking. No recursive assembly,
+        render history mutation, randomness, or cache dependent on browsing order.
+        A much better layout can still win despite recent use.
+        """
+        history: list[set[str]] = []
+        for previous in self.pages(page.run_id):
+            if previous.sequence >= page.sequence:
+                break
+            if previous.materialized_chapter_id != page.materialized_chapter_id:
+                continue
+            usage = Counter(locator for locators in history[-2:] for locator in locators)
+            intents = self.page_body(previous)["intents"]
+            ranked = rank_grammar(intents, candidates, limit, recent_usage=usage)
+            refs = page_references(
+                intents,
+                ranked,
+                candidates,
+                [],
+                world_series=set(),
+                environment_wanted=False,
+                recent_usage=usage,
+            )
+            history.append({r["locator"] for role in ("grammar", "technique") for r in refs[role]})
+        return Counter(locator for locators in history[-2:] for locator in locators)
 
     def _cast_series(self, character_ids: Sequence[str]) -> set[str]:
         """The source series the cast's corpus comes from (their source world)."""

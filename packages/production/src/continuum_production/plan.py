@@ -26,7 +26,7 @@ Pure functions over a materialized page:
 from __future__ import annotations
 
 import re
-from collections.abc import Sequence
+from collections.abc import Mapping, Sequence
 from typing import Any
 
 from continuum_production.corpus import setting_tags
@@ -239,6 +239,7 @@ def page_references(
     environment_wanted: bool,
     technique_limit: int = 3,
     environment_limit: int = 2,
+    recent_usage: Mapping[str, int] | None = None,
 ) -> dict[str, list[dict[str, Any]]]:
     """Technique and environment pages to go with the page's grammar pages."""
     used = {g["locator"] for g in grammar}
@@ -271,7 +272,11 @@ def page_references(
             continue
         ranked = sorted(
             (c for c in candidates if c.locator not in used),
-            key=lambda c: (-_technique_score(need, c), c.series_key in seen_series, c.locator),
+            key=lambda c: (
+                -_technique_score(need, c) + 0.18 * (recent_usage or {}).get(c.locator, 0),
+                c.series_key in seen_series,
+                c.locator,
+            ),
         )
         if not ranked:
             continue

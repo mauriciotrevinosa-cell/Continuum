@@ -1,5 +1,24 @@
 # M3 work handoff
 
+## Codex continuation — 2026-09-15
+
+See `docs/M3_CODEX_VISUAL_QA.md` for the 16-page visual audit, evidence shortlist,
+Page 3 review pack and stop condition B. Recent-page craft diversity is now
+implemented and active on API port 8002: repeated grammar sets 4 -> 1, possible
+repeated compositions 2 -> 1. Full suite: 569 passed, one explicitly POSIX-only
+skip on Windows; Python checks and web lint/typecheck passed.
+
+Critical visual finding: the inherited confirmed Frieren full-body reference
+is a contents page, not usable body evidence. Ch91 p14 and Ch123 p13 are not
+verified Frieren appearances. Creator must review the supplied replacement
+shortlist; confirmation state has not been impersonated. Two source forest
+pages were tagged for environment, but seven automatic environment gaps remain.
+Mau clothing is still unapproved. Sample Page 3 stays READY, zero attempts,
+continuity v3. No GPU, SAMPLE PASS, canonical run or new art pipeline.
+
+The original handoff below records the starting checkpoint; its diversity
+follow-up is superseded by the continuation above.
+
 Branch: `m3/critical-path` (unmerged). Head: see `git log -1` (the commit that adds
 this file). Previous checkpoints: `aa06785` (web loop, corpus, ComfyUI),
 `d97cf64` (plans, full-page references, preview, QA, visual origin backend),

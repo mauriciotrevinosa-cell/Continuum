@@ -30,6 +30,7 @@ from continuum_core.references import (
 )
 from continuum_library import CatalogInputError, ReferenceCatalog, ReferenceSpec
 from continuum_production.corpus import CharacterCorpus
+from continuum_production.manga import GrammarCandidate, rank_grammar
 from continuum_production.plan import page_plan, page_references
 from continuum_worker.main import Worker
 from sqlalchemy.orm import Session
@@ -131,6 +132,51 @@ def test_full_page_references_carry_role_reason_and_no_identity() -> None:
     assert len({r["locator"] for r in every}) == len(every), "no page is used twice"
 
 
+def test_page_craft_recent_use_prefers_relevant_alternatives_not_random_variety() -> None:
+    candidates = [
+        GrammarCandidate(f"zip:{i}", "demo", f"Page {i}", 5, 0.3, 0.5, 0.2) for i in range(8)
+    ]
+    first = rank_grammar(["quiet_acting"], candidates, 2)
+    usage = {r["locator"]: 2 for r in first}
+    second = rank_grammar(["quiet_acting"], candidates, 2, recent_usage=usage)
+    assert not {r["locator"] for r in first} & {r["locator"] for r in second}
+    assert second == rank_grammar(
+        ["quiet_acting"], list(reversed(candidates)), 2, recent_usage=usage
+    )
+    strong = GrammarCandidate("zip:strong", "demo", "Impact", 1, 1.0, 0.1, 0.2)
+    assert (
+        rank_grammar(
+            ["large_composition"], [strong, *candidates], 1, recent_usage={strong.locator: 2}
+        )[0]["locator"]
+        == strong.locator
+    )
+    assert rank_grammar([], candidates, 2, recent_usage=usage) == []
+    initial = page_references(
+        ["quiet_acting"], [], candidates, [], world_series=set(), environment_wanted=False
+    )
+    selected = initial["technique"][0]["locator"]
+    varied = page_references(
+        ["quiet_acting"],
+        [],
+        candidates,
+        [],
+        world_series=set(),
+        environment_wanted=False,
+        recent_usage={selected: 2},
+    )
+    assert varied["technique"][0]["locator"] != selected
+    only = page_references(
+        ["quiet_acting"],
+        [],
+        candidates[:1],
+        [],
+        world_series=set(),
+        environment_wanted=False,
+        recent_usage={candidates[0].locator: 2},
+    )
+    assert only["technique"][0]["locator"] == candidates[0].locator
+
+
 def test_chapter_preview_renders_every_page_and_is_never_approved(
     session: Session, catalog: ReferenceCatalog, world: World, worker: Worker, tmp_path: Path
 ) -> None:
@@ -198,6 +244,20 @@ def test_chapter_preview_renders_every_page_and_is_never_approved(
     session.rollback()
     assert manga.current_continuity(preview.id).version == 1
     assert [p.state for p in manga.pages(sample.id)] == sample_states, "the sample run is untouched"
+
+    profile.body = {**profile.body, "grammar": {"limit": 2, "pool": 12}}
+    layouts = [
+        GrammarCandidate(f"zip:{i}", "demo", f"Page {i}", 4, 0.45, 0.5, 0.2) for i in range(12)
+    ]
+    manga.grammar_candidates = lambda _series, _limit: layouts
+    session.flush()
+    direct = manga.assemble(pages[2])["grammar"]
+    chapter = manga.chapter_view(preview.id)
+    assert chapter["pages"][2]["grammar"] == direct
+    selected = [tuple(g["locator"] for g in p["grammar"]) for p in chapter["pages"]]
+    assert len(set(selected)) > 1, "chapter assembly must actually apply the recent-use penalty"
+    assert manga.assemble(pages[2])["grammar"] == direct, "view order cannot affect selection"
+    assert manga._recent_craft_usage(pages[0], layouts, 2) == {}, "no cross-run history"
 
 
 def test_visual_origin_is_kept_apart_from_acquisition(

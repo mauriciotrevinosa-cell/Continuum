@@ -27,11 +27,12 @@ remains pinned and untouched at `e01e7dd501131922fb5051ec36926271d394b4d3`.
 
 Database: app DB is at `0009_m3_model_builder`. Required pre-migration backup:
 `C:/ContinuumData/backups/continuum-pre-0009-20260915-053915.dump` (3,221,923
-bytes). Validation after the final changes: full Python suite passed with the
-single expected POSIX-only skip on Windows; W4 plus schema-drift tests passed;
-ruff, mypy (115 source files), all four import contracts, web lint/typecheck,
-21 web tests and the Next.js production build passed. Source Vault bytes were
-verified unchanged by the W4 acceptance flow.
+bytes). Validation: the full Python suite passed after the W4 integration
+fixes, with the single expected POSIX-only skip on Windows. The final human
+review constraint then passed the W4 and schema-drift tests. Ruff, mypy (115
+source files), all four import contracts, web lint/typecheck, 21 web tests and
+the Next.js production build passed. Source Vault bytes were verified unchanged
+by the W4 acceptance flow.
 
 UI route: `/library/characters/{character_id}`. W5–W8 are not started in this
 checkpoint. W5 creator work remains Mau, Frieren, Fern and Stark in that order;

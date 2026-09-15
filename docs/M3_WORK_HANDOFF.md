@@ -1,5 +1,22 @@
 # M3 work handoff
 
+## W2 checkpoint — Roster-driven character intake — 2026-09-15
+
+W2 is implemented at commit `fc4d52f`. The character creation screen now uses
+a searchable, scrollable family/series input sourced from catalogued holdings
+and existing character profiles. It shows held media counts, exposes maintained
+catalog aliases, scopes character autocomplete to the selected family, and
+opens an existing matching profile rather than creating a duplicate. Manual
+families and an Original / Custom path remain available.
+
+An optional project/story snapshot creates a draft Production Model version and
+records the small structured snapshot in `created_from`; it does not approve the
+model or turn the profile into a lore database. The roster is data-driven and
+requires no per-character UI source changes. Validation: focused HTTP acceptance
+test, franchise-neutrality invariant, ruff, mypy, TypeScript and Next.js
+production build pass. No migration was needed. Next checkpoint: W3, the
+human-steered evidence discovery and review loop.
+
 ## W1 checkpoint — Character Production Model — 2026-09-15
 
 W1 is implemented at commit `d436108` on `m3/critical-path`. Continuum now has

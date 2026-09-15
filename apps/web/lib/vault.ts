@@ -269,6 +269,9 @@ export interface Outfit {
   season_weather: string;
   condition: string;
   notes: string;
+  review_status: string | null;
+  reviewed_by: string | null;
+  model_sheet_reference_id: string | null;
   row_version: number;
   references: VaultCard[];
 }

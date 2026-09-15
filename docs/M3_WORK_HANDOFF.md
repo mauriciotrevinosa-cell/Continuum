@@ -1,5 +1,49 @@
 # M3 work handoff
 
+## W6 checkpoint — Timeline-aware wardrobe v1 — 2026-09-15
+
+W6 implements the minimum timeline-aware project wardrobe from
+`docs/M3_WARDROBE_AND_LORA_STRATEGY.md` plus the creator-approved Wardrobe v1
+direction on `origin/creative/s1-season-board-v0.1` (commit
+`3dbfc1a6723b8eeaee9febb3d338bd1699be81a9`), consumed read-only via `git show`.
+
+New behaviour:
+
+- **Project-created outfits have a human review state** (`DRAFT / REVIEW /
+  APPROVED / REJECTED`) and never self-approve. Source outfits are not
+  reviewed (their state is source-faithful). A DB check enforces that an
+  APPROVED outfit always names a reviewer.
+- **Owner vs wearer are separable.** `character_outfit.character_id` is the
+  garment's owner. A new `outfit_wear` table records who wears a garment in a
+  specific project/story stage (e.g. `E14`, `EARLY_ARRIVAL`). Borrowing is
+  append-only and keyed by (outfit, project, stage): a later assignment never
+  rewrites an earlier one, and a conflicting wearer for the same stage is
+  refused rather than silently rewritten.
+- **Wardrobe resolution** (`GET /library/characters/{id}/wardrobe-resolve`)
+  returns the outfit a character wears at a stage, always naming owner and
+  wearer separately and flagging `borrowed`.
+
+This is exactly the shape needed for the approved Mau/Frieren callback: the
+orange/black McLaren hoodie (M-H1) is owned by Mau, and Frieren wears that
+SAME garment in E14 and E18 without it becoming her default E1–E13 outfit or
+cloning Mau's identity.
+
+Schema: migration `0010_m3_wardrobe` (adds `character_outfit.review_status`,
+`reviewed_by`, `reviewed_at`, `model_sheet_reference_id`; new `outfit_wear`
+table). Required pre-migration backup:
+`C:/ContinuumData/backups/continuum-pre-0010-20260915-182801.dump` (6,510,012
+bytes). The `approved_outfit_has_human` check was corrected to one-way
+(APPROVED requires a human) after the first acceptance run caught it being
+too strict.
+
+Validation: new `tests/acceptance/test_m3_wardrobe.py` (3 tests) passes;
+`test_phase1_library_api.py`, `test_m3_character_production_models.py`,
+`test_schema_tiers.py`, `test_import_boundaries.py` all pass; ruff and mypy
+(116 files) clean; web typecheck, lint and 21 tests pass.
+
+UI route: `/library/characters/{character_id}` now shows project-outfit review
+controls and a "record who wears a garment" form (owner vs wearer).
+
 ## W5 checkpoint — Exercise first character batch — 2026-09-15
 
 W5 exercised the generic Production Model / evidence workflow against the real

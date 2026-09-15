@@ -34,6 +34,7 @@ __all__ = [
     "ModeScope",
     "ModeTrigger",
     "OutfitKind",
+    "OutfitReviewStatus",
     "PanelSourceRole",
     "ProjectStanding",
     "ReferenceClass",
@@ -150,6 +151,15 @@ class OutfitKind(StrEnum):
     SOURCE_ALTERNATE = "SOURCE_ALTERNATE"
     PROJECT = "PROJECT"
     OTHER = "OTHER"
+
+
+class OutfitReviewStatus(StrEnum):
+    """Human review state for a project-created outfit. Never self-approves."""
+
+    DRAFT = "DRAFT"
+    REVIEW = "REVIEW"
+    APPROVED = "APPROVED"
+    REJECTED = "REJECTED"
 
 
 class TechniqueFacet(StrEnum):

@@ -68,6 +68,7 @@ __all__ = [
     "IntakeBatch",
     "LibraryAsset",
     "LibraryAssetLocation",
+    "OutfitWear",
     "ProjectPanelSource",
     "ProjectReferenceStanding",
     "ProjectVisualModeAssignment",
@@ -211,7 +212,12 @@ class CharacterProfile(Base):
 
 
 class CharacterOutfit(Base):
-    """A wardrobe variant. Belongs to a character; is never its identity."""
+    """A wardrobe variant. Belongs to a character; is never its identity.
+
+    ``character_id`` is the garment's *owner*. A different character may wear
+    it in a specific project/story state via ``OutfitWear``; borrowing never
+    clones the outfit or transfers identity.
+    """
 
     __tablename__ = "character_outfit"
 
@@ -227,6 +233,15 @@ class CharacterOutfit(Base):
     season_weather: Mapped[str] = mapped_column(String(120), nullable=False, default="")
     condition: Mapped[str] = mapped_column(String(120), nullable=False, default="")
     notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    #: Human review state for a project-created outfit. Source outfits are not
+    #: reviewed (their state is source-faithful, not project-created).
+    review_status: Mapped[str | None] = mapped_column(String(12), nullable=True)
+    reviewed_by: Mapped[str | None] = mapped_column(String(200), nullable=True)
+    reviewed_at: Mapped[dt.datetime | None] = mapped_column(TimestampTz, nullable=True)
+    #: An optional outfit model sheet / turnaround reference.
+    model_sheet_reference_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("reference_item.id", ondelete="RESTRICT"), nullable=True
+    )
     row_version: Mapped[int] = mapped_column(Integer, nullable=False)
     created_at: Mapped[dt.datetime] = _created()
     updated_at: Mapped[dt.datetime] = _updated()
@@ -237,7 +252,52 @@ class CharacterOutfit(Base):
         CheckConstraint(
             "(kind = 'PROJECT') = (project_key IS NOT NULL)", name="project_outfit_names_project"
         ),
+        CheckConstraint(
+            "(kind = 'PROJECT') OR (review_status IS NULL)",
+            name="only_project_outfits_are_reviewed",
+        ),
+        CheckConstraint(
+            "review_status IS NULL OR review_status IN ('DRAFT', 'REVIEW', 'APPROVED', 'REJECTED')",
+            name="outfit_review_status",
+        ),
+        CheckConstraint(
+            "review_status <> 'APPROVED' OR (reviewed_at IS NOT NULL AND reviewed_by IS NOT NULL)",
+            name="approved_outfit_has_human",
+        ),
         Index("ix_character_outfit_character_id", "character_id"),
+    )
+
+
+class OutfitWear(Base):
+    """A garment worn by a character in one project/story state.
+
+    Append-only: a later assignment never rewrites an earlier one, so a
+    borrowed garment (e.g. Frieren wearing Mau's hoodie in E14/E18) never
+    becomes the owner's or the wearer's default historical outfit. The owner
+    is ``outfit.character_id``; ``wearer_character_id`` may differ.
+    """
+
+    __tablename__ = "outfit_wear"
+
+    id: Mapped[uuid.UUID] = mapped_column(UuidV7(), primary_key=True, default=uuid7)
+    outfit_id: Mapped[uuid.UUID] = mapped_column(
+        UuidV7(), ForeignKey("character_outfit.id", ondelete="RESTRICT"), nullable=False
+    )
+    wearer_character_id: Mapped[uuid.UUID] = mapped_column(
+        UuidV7(), ForeignKey("character_profile.id", ondelete="RESTRICT"), nullable=False
+    )
+    project_key: Mapped[str] = mapped_column(String(80), nullable=False)
+    #: A semantic stage or episode code: EARLY_ARRIVAL, E14, CASUAL, etc.
+    stage: Mapped[str] = mapped_column(String(40), nullable=False)
+    #: Why this wearer is wearing it here (e.g. "borrowed after reconciliation").
+    context: Mapped[str] = mapped_column(String(200), nullable=False, default="")
+    notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    created_at: Mapped[dt.datetime] = _created()
+
+    __table_args__ = (
+        UniqueConstraint("outfit_id", "project_key", "stage"),
+        CheckConstraint("stage <> ''", name="outfit_wear_stage_non_empty"),
+        Index("ix_outfit_wear_wearer_stage", "wearer_character_id", "project_key", "stage"),
     )
 
 

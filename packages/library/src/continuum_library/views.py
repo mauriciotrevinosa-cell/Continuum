@@ -85,6 +85,11 @@ def _outfit(outfit: CharacterOutfit) -> dict[str, Any]:
         "season_weather": outfit.season_weather,
         "condition": outfit.condition,
         "notes": outfit.notes,
+        "review_status": outfit.review_status,
+        "reviewed_by": outfit.reviewed_by,
+        "model_sheet_reference_id": str(outfit.model_sheet_reference_id)
+        if outfit.model_sheet_reference_id
+        else None,
         "row_version": outfit.row_version,
     }
 

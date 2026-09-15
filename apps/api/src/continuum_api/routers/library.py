@@ -65,6 +65,7 @@ from continuum_library import (
     visual_mode_view,
 )
 from continuum_production.character_models import CharacterModels
+from continuum_production.wardrobe import Wardrobe, outfit_view, wear_view
 from continuum_storage import SourceChangedError, SourceUnavailableError
 from fastapi import APIRouter, HTTPException, Query, Request
 from fastapi import Path as PathParam
@@ -517,6 +518,59 @@ def remove_outfit(request: Request, outfit_id: uuid.UUID, body: VersionIn) -> di
     with catalog_scope(request) as catalog:
         catalog.remove_outfit(outfit_id, body.row_version)
         return {"removed": str(outfit_id)}
+
+
+class OutfitReviewIn(StrictBody):
+    decision: str = Field(pattern="^(DRAFT|REVIEW|APPROVED|REJECTED)$")
+    reviewer: str = Field(min_length=1, max_length=200)
+    notes: str = Field(default="", max_length=4000)
+
+
+class OutfitWearIn(StrictBody):
+    wearer_character_id: uuid.UUID
+    project_key: str = Field(min_length=1, max_length=80)
+    stage: str = Field(min_length=1, max_length=40)
+    context: str = Field(default="", max_length=200)
+    notes: str = Field(default="", max_length=4000)
+
+
+@router.post("/library/outfits/{outfit_id}/review")
+def review_outfit(request: Request, outfit_id: uuid.UUID, body: OutfitReviewIn) -> dict[str, Any]:
+    """A person reviews a project-created outfit. Source outfits are not reviewed."""
+    with catalog_scope(request) as catalog:
+        return outfit_view(
+            Wardrobe(catalog.session).review(outfit_id, body.decision, body.reviewer, body.notes)
+        )
+
+
+@router.post("/library/outfits/{outfit_id}/wear", status_code=201)
+def assign_outfit_wear(
+    request: Request, outfit_id: uuid.UUID, body: OutfitWearIn
+) -> dict[str, Any]:
+    """Record who wears a garment in one project/story stage (owner vs wearer)."""
+    with catalog_scope(request) as catalog:
+        row = Wardrobe(catalog.session).assign_wear(
+            outfit_id,
+            body.wearer_character_id,
+            body.project_key,
+            body.stage,
+            context=body.context,
+            notes=body.notes,
+        )
+        return wear_view(row)
+
+
+@router.get("/library/characters/{character_id}/wardrobe-resolve")
+def resolve_wardrobe(
+    request: Request,
+    character_id: uuid.UUID,
+    project_key: Annotated[str, Query(min_length=1, max_length=80)],
+    stage: Annotated[str, Query(min_length=1, max_length=40)],
+) -> dict[str, Any]:
+    """The outfit a character wears at a story stage, owner and wearer kept apart."""
+    with catalog_scope(request) as catalog:
+        resolved = Wardrobe(catalog.session).resolve(project_key, character_id, stage)
+        return {"outfit": resolved}
 
 
 # ---------------------------------------------------------------------------

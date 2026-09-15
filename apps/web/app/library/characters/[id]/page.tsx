@@ -9,6 +9,7 @@ import { AddOutfit, EditCharacter } from "../CharacterForms";
 import { Overview } from "./Overview";
 import { ModelBuilder } from "./ModelBuilder";
 import { ProductionModelPanel } from "./ProductionModelPanel";
+import { WardrobePanel } from "./WardrobePanel";
 
 export const dynamic = "force-dynamic";
 
@@ -70,6 +71,7 @@ export default async function CharacterVaultPage({ params }: { params: Promise<{
   }
   if (!data) return <ApiDown service="reference vault" message={error ?? "no response"} />;
   const projects = (await projectsApi.list().catch(() => [])).map((p) => ({ id: p.id, title: p.title }));
+  const roster = await vault.characters().catch(() => []);
   const overview: CharacterOverview | null = await manga.overview(id).catch(() => null);
   const { character } = data;
   const productionModels = overview?.production_models ?? [];
@@ -185,6 +187,10 @@ export default async function CharacterVaultPage({ params }: { params: Promise<{
               <Cards cards={data.wardrobe.unassigned} />
             </div>
           ) : null}
+          <WardrobePanel
+            outfits={data.wardrobe.outfits}
+            characters={roster.map((c) => ({ id: c.id, name: c.display_name }))}
+          />
           <AddOutfit characterId={character.id} projects={projects} />
         </div>
       </section>

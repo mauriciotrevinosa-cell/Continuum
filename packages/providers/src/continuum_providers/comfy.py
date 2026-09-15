@@ -490,7 +490,16 @@ class ComfyPageProvider:
                 remediation="Start ComfyUI (or the remote GPU session) and check the checkpoint.",
                 blocked_reason=BlockedReason.MISSING_PROVIDER.value,
             )
-        identity = [r for r in request.references if r.role in {"CANON", "CONTINUITY"}]
+        # Identity is conditioned only on confirmed evidence: an unverified candidate may
+        # show someone else, so it never shapes who the character is.
+        candidates = [
+            r for r in request.references if (r.provenance or {}).get("status") == "CANDIDATE"
+        ]
+        identity = [
+            r
+            for r in request.references
+            if r.role in {"CANON", "CONTINUITY"} and r not in candidates
+        ]
         if (
             self.config.backend is ArtworkBackendKind.COMFY_REMOTE
             and not self.config.allow_source_excerpts
@@ -597,6 +606,7 @@ class ComfyPageProvider:
                 "seed": request.seed,
                 "master_sha256": master_image.sha256,
                 "identity_references_sent": [r.reference_id for r in sent],
+                "candidates_not_used_for_identity": [r.reference_id for r in candidates],
                 "references_not_used_by_this_workflow": [
                     r.reference_id for r in request.references if r not in sent
                 ],

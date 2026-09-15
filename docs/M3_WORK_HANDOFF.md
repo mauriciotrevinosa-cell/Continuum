@@ -1,0 +1,155 @@
+# M3 work handoff
+
+Branch: `m3/critical-path` (unmerged). Head: see `git log -1` (the commit that adds
+this file). Previous checkpoints: `aa06785` (web loop, corpus, ComfyUI),
+`d97cf64` (plans, full-page references, preview, QA, visual origin backend),
+`69a7c5b` (web: cast, references, job status, chapter review).
+
+Safe to continue: **yes**. All tests, ruff, mypy, import-linter and the web
+checks passed at the last commit. The app database is migrated.
+
+## Database
+
+- App DB `continuum` is at **`0007_m3_preview`**. Backups taken before each
+  migration: `C:/ContinuumData/backups/continuum-pre-0005-*.dump`, `-0006-*`,
+  `-0007-*`.
+- No further migration is pending. Before any new migration: take a
+  `pg_dump -Fc` backup first (see `docs/M3_MANGA_PRODUCTION.md`), then
+  `uv run --no-sync python -m alembic upgrade head`.
+- Never run DB test files while a full suite runs: they share `continuum_test`.
+
+## Current real data state (S1E1 Chapter 2)
+
+| Run | Id | Purpose | State |
+|---|---|---|---|
+| Sample | `01a0a2c4-87f6-7727-b793-986c0165eabb` | NON_CANON_SAMPLE | 16 pages; pages 1-2 approved as a sample technical pass (TEST renders); page 3 READY; continuity v3; no sample decision |
+| Chapter technical preview | `01a0a36c-ee44-7440-940d-204807948f2a` | WORKFLOW_TEST | 16 pages, all test-rendered, never approved |
+
+No SAMPLE PASS. No canonical run. The sample run's TEST-render approvals can never pass a sample.
+
+Latest chapter QA on the preview: 16/16 rendered, 16 with grammar pages, 0 cast
+warnings, 0 character-reference warnings, 7 environment gaps, 4 repeated grammar
+sets, 2 possible repeated compositions, 14 pages carrying unverified Frieren
+candidates. The same two candidate pages (Chapter 91 p14, Chapter 123 p13) appear
+on 14 pages, and several grammar pages repeat on 9-16 pages.
+
+## Routes to test
+
+- `http://127.0.0.1:3001/projects/the-arrivals/manga/production`
+- Sample run: `/production/runs/01a0a2c4-87f6-7727-b793-986c0165eabb`
+- Sample chapter review: `/production/runs/01a0a2c4-87f6-7727-b793-986c0165eabb/chapter`
+- Preview chapter review: `/production/runs/01a0a36c-ee44-7440-940d-204807948f2a/chapter`
+- A page: `/production/runs/{run}/pages/{page}` (cast, full-page refs, job status)
+- Characters: `/library/characters/{id}` and `/library/characters/{id}/corpus`
+- Diagnostics: `/settings/diagnostics`
+- Roughs (`/production/roughs/...`) is the separate ADVANCED / OVERRIDE tool.
+
+## Commands
+
+```
+# stack (from the Claude app: .claude/launch.json configs continuum-api, continuum-worker, continuum-web)
+uv run --directory C:\Continuum --no-sync continuum-api
+uv run --directory C:\Continuum --no-sync continuum-worker
+cd apps/web && pnpm build && next start -p 3001
+# checks
+uv run ruff check . && uv run ruff format --check . && uv run mypy packages apps workers && uv run lint-imports
+uv run pytest tests/acceptance/test_m3_page_production.py tests/acceptance/test_m3_chapter_preview.py tests/acceptance/test_m3_character_corpus.py tests/acceptance/test_m3_comfy_backend.py
+uv run pytest
+cd apps/web && pnpm lint && pnpm typecheck && pnpm test && pnpm build
+```
+
+The first manga page or chapter view after an API restart takes 15-25 s while
+grammar layouts are measured and cached in memory; later requests take about 1-2 s.
+
+## DONE
+
+- **Automatic page cast.** `continuum_production/plan.py::page_plan` derives
+  `characters_present`, `primary_character`, `supporting_characters`, speakers,
+  unmapped speakers, uncertainty, `primary_intent` and `environment_tags` from
+  script names and dialogue speakers.
+  - A recorded override is stored in `production_page.cast_override`
+    (`POST /production/pages/{id}/cast`, "Correct the cast" UI).
+  - The plan's cast drives grounding checks, dependencies, corpus retrieval and bundles.
+- **Full-page references by role.** `plan.py::page_references`, in the bundle
+  as `grammar`, `technique` and `environment_pages`.
+  - Each carries `role`, `why`, `teaches`, `status` (LAYOUT_MATCH or CANDIDATE),
+    `identity_evidence: false` and an image served from
+    `GET /production/source-pages/{unit_key}/{offset}/image`.
+  - They are sent to backends as GRAMMAR / TECHNIQUE / ENVIRONMENT inputs,
+    never as CANON.
+- **Visible job status.** The page view shows queued / rendering / complete /
+  failed, with a spinner, requested, started, last-update and finished times,
+  the failure reason, and polling. A "WORKFLOW TEST - NOT ARTWORK" banner
+  appears for the test backend.
+- **Chapter technical preview.** A `WORKFLOW_TEST` run
+  (`POST /production/runs/{id}/preview`, then `POST .../preview-render`).
+  - Every page is READY, rendered only by the test backend, never approved,
+    and never feeds continuity.
+- **Chapter review.** `/production/runs/{id}/chapter`, backed by
+  `GET /production/runs/{id}/chapter`.
+  - It lists every page with plan, character refs, grammar and technique
+    thumbnails, environment status, test render and warnings.
+  - `manga.py::chapter_qa` flags problems and fixes nothing.
+- **Visual origin.** `reference_item.visual_origin` is kept apart from
+  `origin`/provenance.
+  - Set it via `POST /library/character-observations/{id}/visual-origin` or the
+    corpus explorer select.
+  - Official anime or art moves an observation to OFFICIAL authority; it stays
+    a candidate until confirmed. Refreshes keep the judgement.
+- **Candidate safety.** The ComfyUI adapter never uses CANDIDATE observations
+  for identity conditioning (`candidates_not_used_for_identity` in provenance).
+  QA flags bundles with only candidates or with candidates present.
+- **Test renderer caption.** It shows WORKFLOW TEST, integrated page, origin,
+  scene, cast, intent and dialogue count.
+
+## PARTIAL
+
+- **Technique and environment pages are chosen from measured layout** (panel
+  count, largest panel, negative space, ink). Their content is not verified;
+  each says so.
+  - Environment has no tagged references yet: gap on 7 pages.
+  - Tagging exists: "Use as environment" on corpus observations.
+- **Grammar/technique selection lacks per-chapter diversity.** The same pages
+  recur across the chapter; QA flags it.
+- **Candidate observations still enter sample bundles** (flagged), and the same
+  two Frieren candidates recur. Real identity grounding needs the creator to
+  confirm corpus pages.
+- **Chapter review has no cast warnings** because the real script names
+  everyone. Speaker mapping uses first names only.
+
+## NOT STARTED
+
+- Grammar layout index persisted in the database (handoff T5): the cache is
+  per API process.
+- Remote bundle export/import (T2), episode package (T6), corpus hints (T7).
+- Any real GPU run.
+
+## Known bugs / rough edges
+
+- **Grammar cache is lost on restart:** the first chapter view is slow.
+- **Chapter view cost:** it calls `assemble` for every page on each load (16
+  pages is about 2-5 s warm).
+- **`distinct_sources` counts** curated references by reference, not by source
+  volume.
+- **`PAGE_STATE`** of a preview page shows IN_REVIEW after rendering; that is
+  expected and it can never be approved.
+
+## Next highest-value task
+
+1. Connect a real GPU ComfyUI endpoint: `CONTINUUM_COMFY_LOCAL_URL` or
+   `CONTINUUM_COMFY_REMOTE_URL`, plus `CONTINUUM_COMFY_CHECKPOINT`, `_VERSION`,
+   `_SHA256`, `_LICENSE`, `_SOURCE`, and IP-Adapter nodes installed.
+   - For a remote server, decide `CONTINUUM_COMFY_REMOTE_ALLOW_SOURCE_EXCERPTS`.
+   - Render only sample page 3 (READY) and stop for creator review.
+2. Before that, the creator confirms a handful of Frieren corpus pages (face,
+   body, wardrobe, angles) in `/library/characters/{frieren}/corpus`. Frieren
+   then stops relying on candidates and has more than 4 confirmed references.
+3. Add chapter-level diversity to grammar/technique selection (penalise
+   locators already used on the previous 2 pages). Small change in
+   `plan.py`/`rank_grammar`, with a QA test.
+
+## ComfyUI status
+
+The adapter is implemented and tested against a fake server. **No real GPU
+endpoint is configured**: both COMFY_LOCAL and COMFY_REMOTE report "not
+configured". No artwork has been generated.

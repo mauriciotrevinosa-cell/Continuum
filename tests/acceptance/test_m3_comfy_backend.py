@@ -253,6 +253,7 @@ def test_render_returns_reproducible_sibling_finishes(comfy: FakeComfy) -> None:
         _ref("CANON", "ref-face", authority="CREATOR_PRIMARY"),
         _ref("CONTINUITY", "page-1"),
         _ref("GRAMMAR", "grammar-1"),
+        _ref("CANON", "unverified-page", authority="PRIMARY_SOURCE", status="CANDIDATE"),
     )
     request = _request(references)
     assert capability_gaps(provider.capabilities, request) == []
@@ -268,7 +269,8 @@ def test_render_returns_reproducible_sibling_finishes(comfy: FakeComfy) -> None:
     provenance = result.provenance
     assert provenance["model"]["sha256"] == "a" * 64 and provenance["workflow"]["id"]
     assert provenance["identity_references_sent"] == ["ref-face", "page-1"]
-    assert provenance["references_not_used_by_this_workflow"] == ["grammar-1"]
+    assert provenance["candidates_not_used_for_identity"] == ["unverified-page"]
+    assert provenance["references_not_used_by_this_workflow"] == ["grammar-1", "unverified-page"]
     assert (
         "glasses" in provenance["settings"]["negative"]
         and "HUD" in provenance["settings"]["negative"]

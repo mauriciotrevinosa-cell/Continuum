@@ -1583,7 +1583,14 @@ def chapter_qa(pages: list[dict[str, Any]]) -> dict[str, Any]:
     usage: Counter[str] = Counter()
     hashes: Counter[str] = Counter()
     for entry in pages:
-        refs = {o["id"] for c in entry["characters"] for o in c["observations"]}
+        # Confirmed character anchors are meant to recur; unverified candidates and
+        # page-craft references repeated across a chapter are worth a look.
+        refs = {
+            o["id"]
+            for c in entry["characters"]
+            for o in c["observations"]
+            if o["status"] == "CANDIDATE"
+        }
         refs |= {g["locator"] for g in entry["grammar"]}
         refs |= {t["locator"] for t in entry["technique"]}
         usage.update(refs)

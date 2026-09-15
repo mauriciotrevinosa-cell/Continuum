@@ -344,7 +344,11 @@ class CharacterCorpus:
         for reference_id, (item, links) in grouped.items():
             if item.removed_at is not None and f"ref:{reference_id}" not in existing:
                 continue  # a reference removed before it was ever observed adds nothing
-            authority, role = self._authority_of(item, original, reference_id in styled)
+            non_identity = reference_id in styled or item.reference_class in {
+                ReferenceClass.TECHNIQUE,
+                ReferenceClass.MOOD,
+            }
+            authority, role = self._authority_of(item, original, non_identity)
             facets = sorted({f.value for link in links for f in ASPECT_FACETS[link.aspect]})
             framing = expression = None
             for descriptor in descriptors.get(reference_id, []):
@@ -729,6 +733,18 @@ class CharacterCorpus:
             raise CatalogInputError("Only a confirmed observation can be a production anchor.")
         if row.anchor and row.role == ObservationRole.STYLIZATION.value:
             raise CatalogInputError("A stylization reference is never an identity anchor.")
+        if row.reference_id and row.role == ObservationRole.GROUNDING.value:
+            item = self.catalog.reference(row.reference_id, include_removed=True)
+            style_use = self.session.execute(
+                select(ReferenceUseLink.id).where(
+                    ReferenceUseLink.reference_id == row.reference_id,
+                    ReferenceUseLink.use == ReferenceUse.STYLE,
+                )
+            ).first()
+            if style_use or item.reference_class in {ReferenceClass.TECHNIQUE, ReferenceClass.MOOD}:
+                raise CatalogInputError(
+                    "Style, mood and technique references cannot ground identity."
+                )
         visual = (
             self.catalog.reference(row.reference_id, include_removed=True).visual_origin
             if row.reference_id

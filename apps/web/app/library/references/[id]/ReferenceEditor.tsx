@@ -64,6 +64,7 @@ export function ReferenceEditor({
   const [characterId, setCharacterId] = useState("");
   const [aspect, setAspect] = useState("FACE");
   const [outfitId, setOutfitId] = useState("");
+  const [preferred, setPreferred] = useState(false);
   const [facet, setFacet] = useState("PAGE_COMPOSITION");
   const [modeId, setModeId] = useState("");
   const [descriptorFacet, setDescriptorFacet] = useState("TAG");
@@ -170,7 +171,8 @@ export function ReferenceEditor({
       </section>
 
       <section className="surface panel stack" aria-labelledby="characters">
-        <h3 id="characters">Characters</h3>
+        <h3 id="characters">Add to character</h3>
+        <p className="hint">Choose what this reference teaches. Outfit and identity remain separate; removing an association never deletes the reference.</p>
         {reference.characters.map((link) => (
           <div className="op-item" key={link.link_id}>
             <span>
@@ -219,6 +221,7 @@ export function ReferenceEditor({
             options={outfits.map((o) => ({ value: o.id, label: o.name }))}
             empty="None"
           />
+          <label className="check"><input type="checkbox" checked={preferred} onChange={(event) => setPreferred(event.target.checked)} /> Preferred seed</label>
           <button
             className="button small"
             type="button"
@@ -226,12 +229,12 @@ export function ReferenceEditor({
             onClick={() =>
               links.run(() =>
                 vaultFetch(`${base}/characters`, {
-                  json: { character_id: characterId, aspect, outfit_id: outfitId || null },
+                  json: { character_id: characterId, aspect, outfit_id: outfitId || null, preferred },
                 }),
               )
             }
           >
-            Link
+            Add to character
           </button>
         </div>
       </section>

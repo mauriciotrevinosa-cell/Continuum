@@ -121,6 +121,15 @@ def test_franchise_character_corpus(
         page_index=0,
     )
     catalog.add_upload(
+        picture(6),
+        ReferenceSpec(
+            reference_class=ReferenceClass.TECHNIQUE,
+            origin=ReferenceOrigin.OFFICIAL_ART,
+            label="inking study",
+            characters=(CharacterLink(aster.id, CharacterAspect.FACE),),
+        ),
+    )
+    catalog.add_upload(
         picture(5),
         ReferenceSpec(
             reference_class=ReferenceClass.UNSORTED,
@@ -146,6 +155,11 @@ def test_franchise_character_corpus(
         True,
     )
     assert anchor.facets == ["FACE"]
+    technique = rows["inking study"]
+    assert technique.role == "STYLIZATION"
+    with pytest.raises(CatalogInputError, match="cannot ground identity"):
+        corpus.review(technique.id, {"role": "GROUNDING"})
+    session.rollback()
     candidate = rows["Chapter 2 p2"]
     assert (candidate.status, candidate.authority, candidate.facets) == (
         "CANDIDATE",

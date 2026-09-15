@@ -1,5 +1,23 @@
 # M3 work handoff
 
+## W3 checkpoint — Human-steered evidence loop — 2026-09-15
+
+W3 is implemented at commit `b61fc8c`. The existing held-material search,
+candidate filters and observation review controls were retained and completed:
+reference detail now presents a clear Add to character action with character,
+typed aspect/use, optional outfit and optional preferred-seed status. Removing
+an association continues to leave the underlying reference and source intact.
+
+Corpus review already exposes confirm/reject-association, atypical, anchor,
+facet, angle, framing-derived hints, expression, pose and independent visual
+origin. The new backend guard also prevents STYLE, MOOD and TECHNIQUE references
+from being changed into grounding identity evidence, including through a later
+manual review. Candidate uncertainty remains visible and candidate observations
+remain excluded from production identity. Validation: full M3 character-corpus
+acceptance file, ruff, mypy and Next.js production build pass. No migration was
+needed. Next checkpoint: W4, provider-neutral reference-grounded HEAD/FULL BODY
+model-sheet candidates with truthful backend gaps and human review.
+
 ## W2 checkpoint — Roster-driven character intake — 2026-09-15
 
 W2 is implemented at commit `fc4d52f`. The character creation screen now uses

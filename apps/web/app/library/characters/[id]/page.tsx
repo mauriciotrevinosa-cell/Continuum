@@ -8,6 +8,7 @@ import { type CharacterOverview, manga } from "@/lib/manga";
 import { AddOutfit, EditCharacter } from "../CharacterForms";
 import { Overview } from "./Overview";
 import { ModelBuilder } from "./ModelBuilder";
+import { ProductionModelPanel } from "./ProductionModelPanel";
 
 export const dynamic = "force-dynamic";
 
@@ -129,6 +130,13 @@ export default async function CharacterVaultPage({ params }: { params: Promise<{
       </section>
 
       {buildModel && builder ? <ModelBuilder model={buildModel} initial={builder} /> : null}
+
+      <ProductionModelPanel
+        characterId={character.id}
+        projects={projects}
+        outfits={data.wardrobe.outfits.map((o) => ({ id: o.id, name: o.name }))}
+        models={productionModels}
+      />
 
       {overview ? <Overview overview={overview} /> : null}
 

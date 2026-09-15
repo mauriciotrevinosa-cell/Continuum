@@ -1,5 +1,48 @@
 # M3 work handoff
 
+## W5 checkpoint — Exercise first character batch — 2026-09-15
+
+W5 exercised the generic Production Model / evidence workflow against the real
+early cast and closed the one genuine gap: the Production Model API existed but
+the creator had no UI to create, review or approve a model, so the flow could
+not actually be driven end to end. A new `ProductionModelPanel` on the
+character page now lets the creator create a DRAFT model for a project, attach
+confirmed observations by role (identity/body/wardrobe/expression/pose/
+accessory/scale), submit for review, and approve with a reviewer name. Approval
+still supersedes the previous approved version and never self-approves.
+
+Real data state (verified against the app DB, not manufactured):
+
+- **Mau** (`01a0a1ac-3b87-73ec-82e3-2ca783d4cf38`, PROJECT_ORIGINAL): 11
+  confirmed observations (10 CREATOR_PRIMARY grounding + 1 PROJECT_CREATED
+  stylization "Mau - Anime V2 aceptado / ropa pendiente"). Identity/body/
+  expression/pose READY; wardrobe and accessory PARTIAL. No production model
+  yet. E1 outfit exists as a PROJECT outfit ("E1 — ropa funcional / concepto
+  exploratorio"). Forbidden rules correctly surface "E1 SIN LENTES" and the
+  later-glasses progression. V2 clothing remains stylization-only, not
+  identity/body/wardrobe.
+- **Frieren** (`01a09cdd-4391-72dd-8b3e-b7aa0ad6b962`, SOURCE_WORK): 4
+  confirmed + 361 candidates. The invalid body anchor
+  `01a0a2c1-916a-7427-80f1-c548b1fdea00` ("Frieren full figure, opening
+  chapter" = contents/index page) is still CONFIRMED and must be rejected by
+  the creator. Ch91 p14 (`01a0a2c1-91c7-72b9-9561-dc7647139aaa`) and Ch123 p13
+  (`01a0a2c1-91c7-72f9-8980-85537c1ba025`) remain CANDIDATE and must be
+  rejected. The recommended replacement pack (Ch1 p14, Ch2 p13, Ch3 p24,
+  Ch5 p14, Ch6 p7) is present as CANDIDATE and awaits creator confirmation.
+- **Fern** (`01a09cdd-d675-71c9-9ceb-fa37936c62fa`, SOURCE_WORK): 1 confirmed
+  (FACE only) + 294 candidates. Body/wardrobe/expression/pose all MISSING; not
+  grounded. No outfit yet.
+- **Stark**: no `CharacterProfile` exists yet. The roster-driven intake flow
+  (W2) is the correct path to create him; no code change is required.
+
+No creator approvals were impersonated. No production model was created or
+approved on the creator's behalf. The exact creator actions remain in
+`docs/M3_FRIEREN_REFERENCE_REVIEW.md` §7.
+
+Validation: web `pnpm typecheck`, `pnpm lint` (no warnings), and 21 web tests
+all pass. No migration was needed. UI route:
+`/library/characters/{character_id}` (new Production model panel).
+
 ## W4 checkpoint — Character Model Builder — 2026-09-15
 
 W4 is implemented at commit `cc79391` on `m3/critical-path`. Continuum now has

@@ -1,5 +1,30 @@
 # M3 work handoff
 
+## W1 checkpoint — Character Production Model — 2026-09-15
+
+W1 is implemented at commit `d436108` on `m3/critical-path`. Continuum now has
+project-scoped, versioned character production models with typed evidence,
+separate active wardrobe and identity-sheet fields, explicit DRAFT -> REVIEW ->
+APPROVED workflow, human reviewer attribution and automatic supersession. A
+partial unique index prevents two approved versions for one character/project.
+
+Approved model evidence is placed before general confirmed corpus evidence in
+page bundles and is deduplicated there. Candidate or rejected observations
+cannot be attached; stylization/project-created evidence cannot define identity,
+body or wardrobe. Existing projects with no production model retain the prior
+corpus-based behavior. The character page now shows a prominent Production
+model panel with project, status, version, evidence count, active outfit, sheets,
+identity rules, restrictions and reviewer.
+
+Database: app DB is at `0008_m3_models`. Required pre-migration backup:
+`C:/ContinuumData/backups/continuum-pre-0008-20260915-050529.dump` (3,209,185
+bytes). Validation: new W1 acceptance tests pass; the existing full page-loop
+test passes with approved-model priority asserted; DB invariants, ruff and mypy
+pass; the Next.js production build passes. No Source Vault files, real project
+creative approvals, generated artwork, SAMPLE PASS or canonical run were made.
+
+Next checkpoint: W2, workflow templates and deterministic input bindings.
+
 ## Codex continuation — 2026-09-15
 
 See `docs/M3_CODEX_VISUAL_QA.md` for the 16-page visual audit, evidence shortlist,
@@ -29,9 +54,9 @@ checks passed at the last commit. The app database is migrated.
 
 ## Database
 
-- App DB `continuum` is at **`0007_m3_preview`**. Backups taken before each
+- App DB `continuum` is at **`0008_m3_models`**. Backups taken before each
   migration: `C:/ContinuumData/backups/continuum-pre-0005-*.dump`, `-0006-*`,
-  `-0007-*`.
+  `-0007-*`, `-0008-*`.
 - No further migration is pending. Before any new migration: take a
   `pg_dump -Fc` backup first (see `docs/M3_MANGA_PRODUCTION.md`), then
   `uv run --no-sync python -m alembic upgrade head`.

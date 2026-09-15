@@ -24,6 +24,8 @@ __all__ = [
     "AUTHORITY_RANK",
     "HIGH_AUTHORITY",
     "Framing",
+    "ModelSheetKind",
+    "ModelSheetStatus",
     "ObservationAuthority",
     "ObservationFacet",
     "ObservationRole",
@@ -34,6 +36,19 @@ __all__ = [
     "ViewAngle",
     "VisualOrigin",
 ]
+
+
+class ModelSheetKind(StrEnum):
+    HEAD = "HEAD"
+    FULL_BODY = "FULL_BODY"
+
+
+class ModelSheetStatus(StrEnum):
+    QUEUED = "QUEUED"
+    GENERATED = "GENERATED"
+    APPROVED = "APPROVED"
+    REJECTED = "REJECTED"
+    SUPERSEDED = "SUPERSEDED"
 
 
 class ProductionModelStatus(StrEnum):

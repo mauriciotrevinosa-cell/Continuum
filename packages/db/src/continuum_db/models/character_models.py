@@ -7,7 +7,12 @@ import uuid
 from typing import Any
 
 from continuum_core import uuid7
-from continuum_core.corpus import ProductionEvidenceRole, ProductionModelStatus
+from continuum_core.corpus import (
+    ModelSheetKind,
+    ModelSheetStatus,
+    ProductionEvidenceRole,
+    ProductionModelStatus,
+)
 from sqlalchemy import (
     Boolean,
     CheckConstraint,
@@ -25,7 +30,11 @@ from sqlalchemy.orm import Mapped, mapped_column
 
 from continuum_db.models.base import Base, TimestampTz, UuidV7
 
-__all__ = ["CharacterProductionEvidence", "CharacterProductionModel"]
+__all__ = [
+    "CharacterModelSheetAttempt",
+    "CharacterProductionEvidence",
+    "CharacterProductionModel",
+]
 
 
 def _values(enum: type[Any]) -> str:
@@ -114,6 +123,75 @@ class CharacterProductionEvidence(Base):
         CheckConstraint(
             f"role IN ({_values(ProductionEvidenceRole)})", name="production_evidence_role"
         ),
-        CheckConstraint("position >= 0", name="production_evidence_position_non_negative"),
+        CheckConstraint("position >= 0", name="evidence_position_non_negative"),
         Index("ix_character_production_evidence_model", "model_id", "position"),
+    )
+
+
+class CharacterModelSheetAttempt(Base):
+    """A provider-backed standardized sheet candidate and its human review state."""
+
+    __tablename__ = "character_model_sheet_attempt"
+    id: Mapped[uuid.UUID] = mapped_column(UuidV7(), primary_key=True, default=uuid7)
+    model_id: Mapped[uuid.UUID] = mapped_column(
+        UuidV7(), ForeignKey("character_production_model.id", ondelete="RESTRICT"), nullable=False
+    )
+    character_id: Mapped[uuid.UUID] = mapped_column(
+        UuidV7(), ForeignKey("character_profile.id", ondelete="RESTRICT"), nullable=False
+    )
+    project_key: Mapped[str] = mapped_column(String(80), nullable=False)
+    sheet_kind: Mapped[str] = mapped_column(String(16), nullable=False)
+    attempt: Mapped[int] = mapped_column(Integer, nullable=False)
+    parent_attempt_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("character_model_sheet_attempt.id", ondelete="RESTRICT")
+    )
+    job_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("job.id", ondelete="SET NULL")
+    )
+    status: Mapped[str] = mapped_column(String(16), nullable=False)
+    seed: Mapped[int] = mapped_column(Integer, nullable=False)
+    views: Mapped[list[str]] = mapped_column(JSONB, nullable=False)
+    reference_pack: Mapped[list[dict[str, Any]]] = mapped_column(JSONB, nullable=False)
+    rules: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False)
+    reference_id: Mapped[uuid.UUID | None] = mapped_column(
+        UuidV7(), ForeignKey("reference_item.id", ondelete="RESTRICT")
+    )
+    content_hash: Mapped[str | None] = mapped_column(String(64))
+    mime: Mapped[str | None] = mapped_column(String(40))
+    width: Mapped[int | None] = mapped_column(Integer)
+    height: Mapped[int | None] = mapped_column(Integer)
+    provenance: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False, default=dict)
+    review_notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    reviewed_by: Mapped[str | None] = mapped_column(String(200))
+    reviewed_at: Mapped[dt.datetime | None] = mapped_column(TimestampTz)
+    created_at: Mapped[dt.datetime] = mapped_column(
+        TimestampTz, nullable=False, server_default=func.now()
+    )
+    generated_at: Mapped[dt.datetime | None] = mapped_column(TimestampTz)
+
+    __table_args__ = (
+        UniqueConstraint("model_id", "sheet_kind", "attempt"),
+        CheckConstraint(f"sheet_kind IN ({_values(ModelSheetKind)})", name="model_sheet_kind"),
+        CheckConstraint(f"status IN ({_values(ModelSheetStatus)})", name="model_sheet_status"),
+        CheckConstraint("attempt > 0", name="model_sheet_attempt_positive"),
+        CheckConstraint(
+            "content_hash IS NULL OR content_hash ~ '^[0-9a-f]{64}$'", name="model_sheet_hash"
+        ),
+        CheckConstraint(
+            "(status = 'QUEUED') = (content_hash IS NULL)", name="sheet_output_iff_rendered"
+        ),
+        CheckConstraint(
+            "(status IN ('APPROVED', 'REJECTED', 'SUPERSEDED')) = "
+            "(reviewed_at IS NOT NULL AND reviewed_by IS NOT NULL)",
+            name="sheet_terminal_has_human",
+        ),
+        Index("ix_character_model_sheet_model", "model_id", "sheet_kind", "attempt"),
+        Index(
+            "uq_character_model_sheet_approved",
+            "project_key",
+            "character_id",
+            "sheet_kind",
+            unique=True,
+            postgresql_where=text("status = 'APPROVED'"),
+        ),
     )

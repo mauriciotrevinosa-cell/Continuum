@@ -49,6 +49,9 @@ const ALLOWED: RegExp[] = [
   // M3: the character reference corpus.
   new RegExp(`^library/characters/${UUID}/(overview|observations|corpus/refresh)$`),
   new RegExp(`^library/character-observations/${UUID}/(review|environment|image|visual-origin)$`),
+  new RegExp(`^library/characters/${UUID}/model-builder$`),
+  new RegExp(`^library/character-model-sheet-attempts$`),
+  new RegExp(`^library/character-model-sheet-attempts/${UUID}/(review|image)$`),
 ];
 
 /** The API path for these route segments, or null when it is not allowed. */

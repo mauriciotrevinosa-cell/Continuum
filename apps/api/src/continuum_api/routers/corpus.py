@@ -14,6 +14,7 @@ from typing import Annotated, Any
 
 from continuum_core.corpus import (
     Framing,
+    ModelSheetKind,
     ObservationAuthority,
     ObservationFacet,
     ObservationRole,
@@ -23,10 +24,13 @@ from continuum_core.corpus import (
     ViewAngle,
     VisualOrigin,
 )
+from continuum_db.models import CharacterModelSheetAttempt, Job
 from continuum_imaging.manga import analyze_layout
+from continuum_library import CatalogNotFoundError
 from continuum_production.character_models import CharacterModels
 from continuum_production.corpus import CharacterCorpus, observation_view
 from continuum_production.manga import source_page_reader
+from continuum_production.model_builder import CharacterModelBuilder, attempt_view
 from fastapi import APIRouter, Query, Request
 from pydantic import Field
 from starlette.responses import Response
@@ -115,6 +119,18 @@ class ApprovalIn(StrictBody):
     reviewer: str = Field(min_length=1, max_length=200)
 
 
+class ModelSheetBuildIn(StrictBody):
+    model_id: uuid.UUID
+    sheet_kind: ModelSheetKind
+    seed: int = Field(default=1, ge=0, le=2_147_483_647)
+
+
+class ModelSheetReviewIn(StrictBody):
+    decision: str = Field(pattern="^(APPROVE|REJECT|REGENERATE)$")
+    reviewer: str = Field(min_length=1, max_length=200)
+    notes: str = Field(default="", max_length=4000)
+
+
 @router.get("/library/characters/{character_id}/overview")
 def character_overview(request: Request, character_id: uuid.UUID) -> dict[str, Any]:
     """Who the character is, what they should look like, how well grounded, and on what."""
@@ -171,6 +187,65 @@ def approve_production_model(
     with corpus_scope(request) as corpus:
         models = CharacterModels(corpus.session)
         return models.view(models.approve(model_id, body.reviewer))
+
+
+def _builder(request: Request, corpus: CharacterCorpus) -> CharacterModelBuilder:
+    return CharacterModelBuilder(
+        corpus.session, corpus.catalog, request.app.state.providers, corpus
+    )
+
+
+@router.get("/library/characters/{character_id}/model-builder")
+def model_builder_status(
+    request: Request, character_id: uuid.UUID, project_key: str
+) -> dict[str, Any]:
+    with corpus_scope(request) as corpus:
+        builder = _builder(request, corpus)
+        return {
+            "readiness": builder.readiness(),
+            "attempts": builder.attempts(project_key, character_id),
+        }
+
+
+@router.post("/library/character-model-sheet-attempts", status_code=202)
+def build_model_sheet(request: Request, body: ModelSheetBuildIn) -> dict[str, Any]:
+    with corpus_scope(request) as corpus:
+        builder = _builder(request, corpus)
+        row = builder.request(body.model_id, body.sheet_kind, seed=body.seed)
+        return attempt_view(row, corpus.session.get(Job, row.job_id) if row.job_id else None)
+
+
+@router.post("/library/character-model-sheet-attempts/{attempt_id}/review")
+def review_model_sheet(
+    request: Request, attempt_id: uuid.UUID, body: ModelSheetReviewIn
+) -> dict[str, Any]:
+    with corpus_scope(request) as corpus:
+        builder = _builder(request, corpus)
+        row, model, regenerated = builder.review(
+            attempt_id, body.decision, body.reviewer, body.notes
+        )
+        return {
+            "attempt": attempt_view(
+                row, corpus.session.get(Job, row.job_id) if row.job_id else None
+            ),
+            "new_production_model": CharacterModels(corpus.session).view(model) if model else None,
+            "regenerated": attempt_view(
+                regenerated,
+                corpus.session.get(Job, regenerated.job_id) if regenerated.job_id else None,
+            )
+            if regenerated
+            else None,
+        }
+
+
+@router.get("/library/character-model-sheet-attempts/{attempt_id}/image")
+def model_sheet_image(request: Request, attempt_id: uuid.UUID) -> Response:
+    with corpus_scope(request) as corpus:
+        row = corpus.session.get(CharacterModelSheetAttempt, attempt_id)
+        if row is None or row.reference_id is None:
+            raise CatalogNotFoundError("That model-sheet image does not exist.")
+        image = corpus.catalog.reference_image(row.reference_id)
+    return Response(content=image.data, media_type=image.mime)
 
 
 @router.get("/library/characters/{character_id}/observations")

@@ -7,6 +7,7 @@ import { OriginChip, RefCard } from "../../_vault/parts";
 import { type CharacterOverview, manga } from "@/lib/manga";
 import { AddOutfit, EditCharacter } from "../CharacterForms";
 import { Overview } from "./Overview";
+import { ModelBuilder } from "./ModelBuilder";
 
 export const dynamic = "force-dynamic";
 
@@ -72,6 +73,8 @@ export default async function CharacterVaultPage({ params }: { params: Promise<{
   const { character } = data;
   const productionModels = overview?.production_models ?? [];
   const activeModel = productionModels.find((model) => model.status === "APPROVED");
+  const buildModel = activeModel ?? productionModels.find((model) => model.status === "REVIEW");
+  const builder = buildModel ? await manga.modelBuilder(id, buildModel.project_key).catch(() => null) : null;
 
   return (
     <>
@@ -124,6 +127,8 @@ export default async function CharacterVaultPage({ params }: { params: Promise<{
           <p className="hint">No project production model yet. Corpus references remain the backward-compatible production source.</p>
         )}
       </section>
+
+      {buildModel && builder ? <ModelBuilder model={buildModel} initial={builder} /> : null}
 
       {overview ? <Overview overview={overview} /> : null}
 

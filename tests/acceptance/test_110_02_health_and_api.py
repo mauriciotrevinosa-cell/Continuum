@@ -304,7 +304,18 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/production/backends",
             "/projects/{project_id}/episodes/{episode}/sample-runs",
             # M3: the character reference corpus.
+            "/library/characters/resolve",
+            "/library/character-roster",
             "/library/characters/{character_id}/overview",
+            "/library/characters/{character_id}/production-models",
+            "/library/character-production-models/{model_id}/evidence",
+            "/library/character-production-models/{model_id}/submit",
+            "/library/character-production-models/{model_id}/approve",
+            # M3 W4: reference-grounded HEAD and FULL BODY model-sheet jobs.
+            "/library/characters/{character_id}/model-builder",
+            "/library/character-model-sheet-attempts",
+            "/library/character-model-sheet-attempts/{attempt_id}/review",
+            "/library/character-model-sheet-attempts/{attempt_id}/image",
             "/library/characters/{character_id}/observations",
             "/library/characters/{character_id}/corpus/refresh",
             "/library/character-observations/{observation_id}/review",

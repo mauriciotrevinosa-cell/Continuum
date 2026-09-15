@@ -46,6 +46,9 @@ __all__ = [
     "ArtworkCapabilities",
     "ArtworkCapabilityGapError",
     "ArtworkReference",
+    "CharacterSheetProvider",
+    "CharacterSheetRequest",
+    "CharacterSheetResult",
     "PageRenderProvider",
     "PageRenderRequest",
     "PageRenderResult",
@@ -103,6 +106,35 @@ class ArtworkReference:
     #: What this reference may teach: identity, layout, perspective, pacing...
     teaches: tuple[str, ...] = ()
     provenance: dict[str, Any] = field(default_factory=dict)
+
+
+@dataclass(frozen=True, slots=True)
+class CharacterSheetRequest:
+    sheet_kind: str
+    views: tuple[str, ...]
+    width: int
+    height: int
+    seed: int
+    references: tuple[ArtworkReference, ...]
+    identity_rules: tuple[str, ...]
+    restrictions: tuple[str, ...]
+    outfit_id: str | None
+    settings: dict[str, Any]
+
+
+@dataclass(frozen=True, slots=True)
+class CharacterSheetResult:
+    provider_id: str
+    output: RenderOutput
+    image: RenderedImage
+    provenance: dict[str, Any]
+
+
+@runtime_checkable
+class CharacterSheetProvider(Protocol):
+    descriptor: Any
+
+    def render_character_sheet(self, request: CharacterSheetRequest) -> CharacterSheetResult: ...
 
 
 @dataclass(frozen=True, slots=True)

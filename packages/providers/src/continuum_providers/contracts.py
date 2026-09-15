@@ -60,6 +60,8 @@ class Capability(StrEnum):
     PAGE_RENDER = "PAGE_RENDER"
     """A manga page: a composition master and its black-and-white and color
     finishes, from a materialized page and its reference bundle (M3)."""
+    CHARACTER_MODEL_RENDER = "CHARACTER_MODEL_RENDER"
+    """A standardized reference-grounded character model sheet candidate."""
 
 
 class Locality(StrEnum):

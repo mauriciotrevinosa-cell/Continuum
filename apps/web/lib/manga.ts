@@ -342,6 +342,27 @@ export interface ProductionModel {
   evidence: { id: string; observation_id: string; role: string; preferred: boolean; required: boolean; position: number; notes: string }[];
 }
 
+export interface ModelBuilderState {
+  readiness: {
+    ready: boolean;
+    provider_id: string | null;
+    blocked_reason: string | null;
+    remediation: { message?: string; action?: string };
+  };
+  attempts: {
+    id: string;
+    model_id: string;
+    sheet_kind: "HEAD" | "FULL_BODY";
+    attempt: number;
+    status: string;
+    views: string[];
+    reference_count: number;
+    image: string | null;
+    provenance: Record<string, unknown>;
+    job: { status: string; blocked_reason: string | null; remediation: Record<string, unknown> | null } | null;
+  }[];
+}
+
 export interface ObservationList {
   total: number;
   observations: Observation[];
@@ -514,6 +535,8 @@ export const manga = {
   page: (id: string) => read<PageDetail>(`/production/pages/${enc(id)}`),
   chapter: (runId: string) => read<ChapterView>(`/production/runs/${enc(runId)}/chapter`),
   overview: (characterId: string) => read<CharacterOverview>(`/library/characters/${enc(characterId)}/overview`),
+  modelBuilder: (characterId: string, project: string) =>
+    read<ModelBuilderState>(`/library/characters/${enc(characterId)}/model-builder?project_key=${enc(project)}`),
   observations: (characterId: string, query: Record<string, string | undefined>) => {
     const search = new URLSearchParams();
     for (const [key, value] of Object.entries(query)) if (value) search.set(key, value);

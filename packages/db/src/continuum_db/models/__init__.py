@@ -18,6 +18,7 @@ from continuum_db.models.catalog import (
     ReferenceManifest,
 )
 from continuum_db.models.character_models import (
+    CharacterModelSheetAttempt,
     CharacterProductionEvidence,
     CharacterProductionModel,
 )
@@ -74,6 +75,7 @@ __all__ = [
     "CatalogScan",
     "CatalogUnit",
     "ChapterPackage",
+    "CharacterModelSheetAttempt",
     "CharacterObservation",
     "CharacterOutfit",
     "CharacterProductionEvidence",

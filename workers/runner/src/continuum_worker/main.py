@@ -61,6 +61,7 @@ from continuum_worker.handlers.catalog import (
     CollectionImportHandler,
     MemberExtractHandler,
 )
+from continuum_worker.handlers.model_sheet import CharacterModelSheetHandler
 from continuum_worker.handlers.rough import RoughAttemptHandler
 from continuum_worker.handlers.synthetic import (
     BlockedCapabilityHandler,
@@ -89,6 +90,7 @@ def register_default_handlers() -> None:
         CountedWorkHandler(),
         BlockedCapabilityHandler(),
         RoughAttemptHandler(),
+        CharacterModelSheetHandler(),
         CatalogScanHandler(),
         CatalogHashHandler(),
         CollectionImportHandler(),

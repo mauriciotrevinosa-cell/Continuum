@@ -323,6 +323,23 @@ export interface CharacterOverview {
   invariants: { facet: string; statement: string; supported_by: number; distinct_sources: number; state: string }[];
   forbidden: string[];
   grounding_rule: string;
+  production_models: ProductionModel[];
+}
+
+export interface ProductionModel {
+  id: string;
+  project_key: string;
+  version: number;
+  status: "DRAFT" | "REVIEW" | "APPROVED" | "SUPERSEDED";
+  name: string;
+  summary: string;
+  identity_rules: string[];
+  restrictions: string[];
+  active_outfit_id: string | null;
+  head_sheet_reference_id: string | null;
+  body_sheet_reference_id: string | null;
+  approved_by: string | null;
+  evidence: { id: string; observation_id: string; role: string; preferred: boolean; required: boolean; position: number; notes: string }[];
 }
 
 export interface ObservationList {

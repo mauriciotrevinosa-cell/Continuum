@@ -70,6 +70,8 @@ export default async function CharacterVaultPage({ params }: { params: Promise<{
   const projects = (await projectsApi.list().catch(() => [])).map((p) => ({ id: p.id, title: p.title }));
   const overview: CharacterOverview | null = await manga.overview(id).catch(() => null);
   const { character } = data;
+  const productionModels = overview?.production_models ?? [];
+  const activeModel = productionModels.find((model) => model.status === "APPROVED");
 
   return (
     <>
@@ -94,6 +96,34 @@ export default async function CharacterVaultPage({ params }: { params: Promise<{
           </div>
         </div>
       </header>
+
+      <section className="block" aria-label="Production model">
+        <div className="block-head">
+          <h2>Production model <small>project identity lock</small></h2>
+        </div>
+        {activeModel ? (
+          <div className="surface panel stack">
+            <div className="spread">
+              <div><p className="eyebrow">{activeModel.project_key}</p><h3 style={{ margin: 0 }}>{activeModel.name}</h3></div>
+              <span className="row"><span className="chip accent plain tiny">Approved</span><span className="chip quiet tiny">v{activeModel.version}</span></span>
+            </div>
+            {activeModel.summary ? <p className="hint">{activeModel.summary}</p> : null}
+            <div className="row">
+              <span className="chip quiet tiny">{activeModel.evidence.length} evidence links</span>
+              {activeModel.active_outfit_id ? <span className="chip quiet tiny">Active outfit locked</span> : null}
+              {activeModel.head_sheet_reference_id ? <span className="chip quiet tiny">Head sheet</span> : null}
+              {activeModel.body_sheet_reference_id ? <span className="chip quiet tiny">Body sheet</span> : null}
+            </div>
+            {activeModel.identity_rules.length ? <p className="sub"><strong>Identity:</strong> {activeModel.identity_rules.join(" · ")}</p> : null}
+            {activeModel.restrictions.length ? <p className="sub"><strong>Never:</strong> {activeModel.restrictions.join(" · ")}</p> : null}
+            <p className="muted">Approved by {activeModel.approved_by}</p>
+          </div>
+        ) : productionModels.length ? (
+          <div className="surface panel"><p className="hint">Latest model: v{productionModels[0].version} · {words(productionModels[0].status)}. It will not guide rendering until a person approves it.</p></div>
+        ) : (
+          <p className="hint">No project production model yet. Corpus references remain the backward-compatible production source.</p>
+        )}
+      </section>
 
       {overview ? <Overview overview={overview} /> : null}
 

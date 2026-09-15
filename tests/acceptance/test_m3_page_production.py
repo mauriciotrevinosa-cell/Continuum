@@ -30,6 +30,7 @@ from pathlib import Path
 from typing import Any
 
 import pytest
+from continuum_core.corpus import ProductionEvidenceRole
 from continuum_core.references import (
     AttemptState,
     CharacterAspect,
@@ -52,6 +53,7 @@ from continuum_library import (
     ReferenceSpec,
 )
 from continuum_production import RoughProduction
+from continuum_production.character_models import CharacterModels
 from continuum_production.manga import GrammarCandidate, MangaProduction, rank_grammar
 from continuum_production.materialize import PlacementDecision
 from continuum_providers.artwork import (
@@ -335,6 +337,19 @@ def test_sample_chapter_page_by_page_through_restart_invalidation_and_pass(
     cast["source"](cast["aster"], [CharacterAspect.FULL_BODY], 1)
     cast["photo"](91, [CharacterAspect.FACE])
     cast["photo"](92, [CharacterAspect.FULL_BODY])
+    manga.corpus.sync_curated(cast["aster"].id)
+    aster_evidence = [
+        row
+        for row in manga.corpus.observations(cast["aster"].id)
+        if row.status == "CONFIRMED" and row.role == "GROUNDING"
+    ]
+    model_service = CharacterModels(session)
+    model = model_service.create(PROJECT, cast["aster"].id, name="Aster production lock")
+    model_service.add_evidence(
+        model.id, aster_evidence[0].id, ProductionEvidenceRole.IDENTITY, required=True
+    )
+    model_service.submit(model.id)
+    model_service.approve(model.id, "test art director")
     session.commit()
     manga.refresh_staleness(run.id)
     session.commit()
@@ -345,6 +360,8 @@ def test_sample_chapter_page_by_page_through_restart_invalidation_and_pass(
     session.rollback()
 
     bundle = manga.assemble(pages[0])
+    assert bundle["canon_inputs"][0]["production_model_id"] == str(model.id)
+    assert bundle["characters"][0]["production_model"]["status"] == "APPROVED"
     rowan_grounding = next(c for c in bundle["characters"] if c["name"] == "Rowan")
     assert str(cast["concept"].id) not in rowan_grounding["grounding"]["identity"]
     assert str(cast["concept"].id) in rowan_grounding["stylization"]

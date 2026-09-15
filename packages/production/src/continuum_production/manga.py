@@ -77,6 +77,7 @@ from continuum_storage import ProjectLibrary, SourceChangedError, SourceUnavaila
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
+from continuum_production.character_models import CharacterModels
 from continuum_production.corpus import CharacterCorpus, page_needs, setting_tags
 from continuum_production.materialize import (
     MATERIALIZER_VERSION,
@@ -739,6 +740,7 @@ class MangaProduction:
         continuity = self.current_continuity(run.id)
         characters = []
         inputs: list[dict[str, Any]] = []
+        production_models = CharacterModels(self.session)
         policy = profile.body.get("reference_policy") or {}
         per_character = int(policy.get("per_character", 6))
         candidates_allowed = bool(
@@ -758,6 +760,10 @@ class MangaProduction:
                 include_supplemental=bool(policy.get("use_supplemental", False)),
             )
             rule = (profile.body.get("character_rules") or {}).get(name, {})
+            production_model = production_models.bundle(run.project_key, character_id)
+            model_observation_ids = {
+                entry["observation_id"] for entry in (production_model or {}).get("evidence", [])
+            }
             characters.append(
                 {
                     "name": name,
@@ -771,9 +777,34 @@ class MangaProduction:
                     "available_observations": found["available"],
                     "forbidden": self.corpus.forbidden(self.corpus.character(character_id)),
                     "rules": rule,
+                    "production_model": production_model,
                 }
             )
+            if production_model is not None:
+                for entry in production_model["evidence"]:
+                    inputs.append(
+                        {
+                            "role": BundleRole.CANON,
+                            "observation_id": entry["observation_id"],
+                            "reference_id": entry["reference_id"],
+                            "character": name,
+                            "authority": entry["authority"],
+                            "status": entry["status"],
+                            "facets": entry["facets"],
+                            "why": [
+                                "approved production model "
+                                f"v{production_model['version']}: {entry['role'].lower()}"
+                            ],
+                            "production_model_id": production_model["id"],
+                            "production_evidence_role": entry["role"],
+                            "outfit_id": production_model["active_outfit_id"]
+                            if entry["role"] == "WARDROBE"
+                            else None,
+                        }
+                    )
             for entry in found["observations"]:
+                if entry["id"] in model_observation_ids:
+                    continue
                 inputs.append(
                     {
                         "role": BundleRole.CANON,
@@ -1005,7 +1036,7 @@ class MangaProduction:
                     "unit_index": item.unit_index if item else None,
                     "region": None,
                     "character_id": character_ids[entry["character"]],
-                    "outfit_id": None,
+                    "outfit_id": uuid.UUID(entry["outfit_id"]) if entry.get("outfit_id") else None,
                     "aspect": None,
                     "label": f"{entry['character']} - {entry['authority'].lower()}"[:300],
                     "provenance": {
@@ -1014,6 +1045,14 @@ class MangaProduction:
                         "status": entry["status"],
                         "facets": entry["facets"],
                         "why": entry["why"],
+                        **(
+                            {
+                                "production_model_id": entry["production_model_id"],
+                                "production_evidence_role": entry["production_evidence_role"],
+                            }
+                            if entry.get("production_model_id")
+                            else {}
+                        ),
                         **({"origin": item.origin.value} if item else {"kind": "source_page"}),
                     },
                 }

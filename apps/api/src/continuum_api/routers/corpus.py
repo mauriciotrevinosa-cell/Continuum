@@ -19,10 +19,12 @@ from continuum_core.corpus import (
     ObservationRole,
     ObservationSource,
     ObservationStatus,
+    ProductionEvidenceRole,
     ViewAngle,
     VisualOrigin,
 )
 from continuum_imaging.manga import analyze_layout
+from continuum_production.character_models import CharacterModels
 from continuum_production.corpus import CharacterCorpus, observation_view
 from continuum_production.manga import source_page_reader
 from fastapi import APIRouter, Query, Request
@@ -88,12 +90,87 @@ class EnvironmentIn(StrictBody):
     tags: list[str] = Field(min_length=1, max_length=8)
 
 
+class ProductionModelIn(StrictBody):
+    project_key: str = Field(min_length=1, max_length=80)
+    name: str = Field(min_length=1, max_length=200)
+    summary: str = Field(default="", max_length=4000)
+    identity_rules: list[str] = Field(default_factory=list, max_length=40)
+    restrictions: list[str] = Field(default_factory=list, max_length=40)
+    active_outfit_id: uuid.UUID | None = None
+    head_sheet_reference_id: uuid.UUID | None = None
+    body_sheet_reference_id: uuid.UUID | None = None
+    created_from: dict[str, Any] = Field(default_factory=dict)
+
+
+class ProductionEvidenceIn(StrictBody):
+    observation_id: uuid.UUID
+    role: ProductionEvidenceRole
+    preferred: bool = False
+    required: bool = False
+    position: int = Field(default=0, ge=0)
+    notes: str = Field(default="", max_length=2000)
+
+
+class ApprovalIn(StrictBody):
+    reviewer: str = Field(min_length=1, max_length=200)
+
+
 @router.get("/library/characters/{character_id}/overview")
 def character_overview(request: Request, character_id: uuid.UUID) -> dict[str, Any]:
     """Who the character is, what they should look like, how well grounded, and on what."""
     with corpus_scope(request) as corpus:
         corpus.sync_curated(character_id)
-        return corpus.overview(character_id)
+        result = corpus.overview(character_id)
+        models = CharacterModels(corpus.session)
+        result["production_models"] = models.list(None, character_id)
+        return result
+
+
+@router.get("/library/characters/{character_id}/production-models")
+def list_production_models(
+    request: Request, character_id: uuid.UUID, project_key: str
+) -> dict[str, Any]:
+    with corpus_scope(request) as corpus:
+        models = CharacterModels(corpus.session)
+        rows = models.list(project_key, character_id)
+        active = models.active(project_key, character_id)
+        return {"models": rows, "active_id": str(active.id) if active else None}
+
+
+@router.post("/library/characters/{character_id}/production-models", status_code=201)
+def create_production_model(
+    request: Request, character_id: uuid.UUID, body: ProductionModelIn
+) -> dict[str, Any]:
+    with corpus_scope(request) as corpus:
+        models = CharacterModels(corpus.session)
+        row = models.create(character_id=character_id, **body.model_dump())
+        return models.view(row)
+
+
+@router.post("/library/character-production-models/{model_id}/evidence", status_code=201)
+def add_production_evidence(
+    request: Request, model_id: uuid.UUID, body: ProductionEvidenceIn
+) -> dict[str, Any]:
+    with corpus_scope(request) as corpus:
+        models = CharacterModels(corpus.session)
+        models.add_evidence(model_id, **body.model_dump())
+        return models.view(models._model(model_id))
+
+
+@router.post("/library/character-production-models/{model_id}/submit")
+def submit_production_model(request: Request, model_id: uuid.UUID) -> dict[str, Any]:
+    with corpus_scope(request) as corpus:
+        models = CharacterModels(corpus.session)
+        return models.view(models.submit(model_id))
+
+
+@router.post("/library/character-production-models/{model_id}/approve")
+def approve_production_model(
+    request: Request, model_id: uuid.UUID, body: ApprovalIn
+) -> dict[str, Any]:
+    with corpus_scope(request) as corpus:
+        models = CharacterModels(corpus.session)
+        return models.view(models.approve(model_id, body.reviewer))
 
 
 @router.get("/library/characters/{character_id}/observations")

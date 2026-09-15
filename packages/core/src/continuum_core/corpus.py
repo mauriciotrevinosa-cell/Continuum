@@ -29,9 +29,28 @@ __all__ = [
     "ObservationRole",
     "ObservationSource",
     "ObservationStatus",
+    "ProductionEvidenceRole",
+    "ProductionModelStatus",
     "ViewAngle",
     "VisualOrigin",
 ]
+
+
+class ProductionModelStatus(StrEnum):
+    DRAFT = "DRAFT"
+    REVIEW = "REVIEW"
+    APPROVED = "APPROVED"
+    SUPERSEDED = "SUPERSEDED"
+
+
+class ProductionEvidenceRole(StrEnum):
+    IDENTITY = "IDENTITY"
+    BODY = "BODY"
+    WARDROBE = "WARDROBE"
+    EXPRESSION = "EXPRESSION"
+    POSE = "POSE"
+    ACCESSORY = "ACCESSORY"
+    SCALE = "SCALE"
 
 
 class VisualOrigin(StrEnum):

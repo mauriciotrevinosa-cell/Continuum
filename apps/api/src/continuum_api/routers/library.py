@@ -36,6 +36,7 @@ from continuum_core.references import (
     TechniqueFacet,
     VisualModeCategory,
 )
+from continuum_db.models import CatalogEntry, CatalogUnit, CharacterProfile
 from continuum_db.session import session_scope
 from continuum_imaging import UnsupportedImageError, preview
 from continuum_library import (
@@ -63,11 +64,13 @@ from continuum_library import (
     style_vault,
     visual_mode_view,
 )
+from continuum_production.character_models import CharacterModels
 from continuum_storage import SourceChangedError, SourceUnavailableError
 from fastapi import APIRouter, HTTPException, Query, Request
 from fastapi import Path as PathParam
 from fastapi.concurrency import run_in_threadpool
 from pydantic import BaseModel, ConfigDict, Field, field_validator
+from sqlalchemy import func, select
 from starlette.responses import Response
 
 router = APIRouter(tags=["library"])
@@ -247,6 +250,11 @@ class CharacterIn(StrictBody):
     notes: str = ""
 
 
+class CharacterResolveIn(CharacterIn):
+    snapshot: dict[str, Any] | None = None
+    snapshot_project_key: str | None = Field(default=None, pattern=r"^[a-z0-9][a-z0-9-]{0,79}$")
+
+
 class OutfitIn(StrictBody):
     name: str
     kind: OutfitKind = OutfitKind.SOURCE_DEFAULT
@@ -370,6 +378,103 @@ def list_characters(
 def create_character(request: Request, body: CharacterIn) -> dict[str, Any]:
     with catalog_scope(request) as catalog:
         return character_summary(catalog.create_character(**body.model_dump()))
+
+
+@router.get("/library/character-roster")
+def character_roster(request: Request) -> dict[str, Any]:
+    """Maintained from catalogued holdings and existing character profiles."""
+    with catalog_scope(request) as catalog:
+        held = catalog.session.execute(
+            select(
+                CatalogUnit.series_key,
+                CatalogUnit.series_title,
+                CatalogUnit.material_class,
+                func.count(CatalogUnit.id),
+            )
+            .where(CatalogUnit.series_title.is_not(None))
+            .group_by(CatalogUnit.series_key, CatalogUnit.series_title, CatalogUnit.material_class)
+        ).all()
+        profiles = catalog.list_characters()
+        families: dict[str, dict[str, Any]] = {}
+        for key, title, medium, count in held:
+            family_key = str(title).strip().casefold()
+            family = families.setdefault(
+                family_key,
+                {
+                    "key": str(key or title),
+                    "title": str(title),
+                    "aliases": [],
+                    "availability": {},
+                    "characters": [],
+                },
+            )
+            family["availability"][medium.value] = int(count)
+        catalog_entries = catalog.session.execute(
+            select(CatalogEntry.series_title, CatalogEntry.facts).where(
+                CatalogEntry.series_title.is_not(None)
+            )
+        ).all()
+        for title, facts in catalog_entries:
+            found_family = families.get(str(title).strip().casefold())
+            if found_family is None:
+                continue
+            aliases = (facts or {}).get("aliases") or []
+            found_family["aliases"] = sorted(
+                set(found_family["aliases"])
+                | {str(alias) for alias in aliases if str(alias).strip()}
+            )
+        for character in profiles:
+            label = character.source_label.strip()
+            if not label:
+                continue
+            family_key = label.casefold()
+            family = families.setdefault(
+                family_key,
+                {
+                    "key": label,
+                    "title": label,
+                    "aliases": [],
+                    "availability": {},
+                    "characters": [],
+                },
+            )
+            family["characters"].append(character_summary(character))
+        rows = sorted(families.values(), key=lambda item: item["title"].casefold())
+        return {"families": rows}
+
+
+@router.post("/library/characters/resolve")
+def resolve_character(request: Request, body: CharacterResolveIn) -> dict[str, Any]:
+    """Reuse a matching profile or create one; optionally preserve an intake snapshot."""
+    with catalog_scope(request) as catalog:
+        values = body.model_dump(exclude={"snapshot", "snapshot_project_key"})
+        existing = (
+            catalog.session.execute(
+                select(CharacterProfile)
+                .where(
+                    CharacterProfile.removed_at.is_(None),
+                    func.lower(CharacterProfile.display_name) == body.display_name.strip().lower(),
+                    func.lower(CharacterProfile.source_label) == body.source_label.strip().lower(),
+                )
+                .order_by(CharacterProfile.created_at)
+            )
+            .scalars()
+            .first()
+        )
+        character = existing or catalog.create_character(**values)
+        result = character_summary(character)
+        result["reused"] = existing is not None
+        result["snapshot"] = body.snapshot
+        if body.snapshot and body.snapshot_project_key:
+            models = CharacterModels(catalog.session)
+            model = models.create(
+                body.snapshot_project_key,
+                character.id,
+                name=f"{character.display_name} project snapshot",
+                created_from={"kind": "intake_snapshot", "snapshot": body.snapshot},
+            )
+            result["production_model_id"] = str(model.id)
+        return result
 
 
 @router.get("/library/characters/{character_id}")

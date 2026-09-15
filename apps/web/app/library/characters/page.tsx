@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { ApiUnreachableError } from "@/lib/api";
-import { type CharacterSummary, vault, words } from "@/lib/vault";
+import { ApiUnreachableError, projects as projectsApi } from "@/lib/api";
+import { type CharacterRoster, type CharacterSummary, vault, words } from "@/lib/vault";
 import { ApiDown, Empty, PageHead } from "../acquisition/_components/ui";
 import { CreateCharacter } from "./CharacterForms";
 
@@ -10,11 +10,16 @@ export const dynamic = "force-dynamic";
 export default async function CharactersPage() {
   let characters: CharacterSummary[] = [];
   let error: string | null = null;
+  let roster: CharacterRoster = { families: [] };
   try {
-    characters = await vault.characters();
+    [characters, roster] = await Promise.all([vault.characters(), vault.characterRoster()]);
   } catch (cause) {
     error = cause instanceof ApiUnreachableError ? cause.message : String(cause);
   }
+  const projects = (await projectsApi.list().catch(() => [])).map((project) => ({
+    id: project.id,
+    title: project.title,
+  }));
   return (
     <>
       <PageHead
@@ -46,7 +51,7 @@ export default async function CharactersPage() {
           </Empty>
         </div>
       )}
-      <CreateCharacter />
+      <CreateCharacter roster={roster} projects={projects} />
     </>
   );
 }

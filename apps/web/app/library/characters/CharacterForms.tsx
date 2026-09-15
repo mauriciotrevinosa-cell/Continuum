@@ -4,6 +4,7 @@ import { useRouter } from "next/navigation";
 import { useState } from "react";
 import {
   type CharacterSummary,
+  type CharacterRoster,
   OUTFIT_KINDS,
   SUBJECT_KINDS,
   vaultFetch,
@@ -11,44 +12,83 @@ import {
 import { Select, type ProjectChoice } from "../_vault/SpecForm";
 import { Feedback, useAction } from "../_vault/useAction";
 
-export function CreateCharacter() {
+export function CreateCharacter({ roster, projects }: { roster: CharacterRoster; projects: ProjectChoice[] }) {
   const router = useRouter();
   const { busy, error, run } = useAction();
   const [name, setName] = useState("");
   const [kind, setKind] = useState("CHARACTER");
   const [source, setSource] = useState("");
+  const [custom, setCustom] = useState(false);
+  const [snapshotProject, setSnapshotProject] = useState("");
+  const [snapshot, setSnapshot] = useState("");
+  const family = roster.families.find(
+    (item) => item.title.toLocaleLowerCase() === source.trim().toLocaleLowerCase(),
+  );
+  const existing = family?.characters.find(
+    (item) => item.display_name.toLocaleLowerCase() === name.trim().toLocaleLowerCase(),
+  );
   return (
     <form
       className="surface panel form"
       onSubmit={async (event) => {
         event.preventDefault();
         const created = await run(() =>
-          vaultFetch<CharacterSummary>("library/characters", {
-            json: { display_name: name, subject_kind: kind, source_label: source },
+          vaultFetch<CharacterSummary & { reused: boolean }>("library/characters/resolve", {
+            json: {
+              display_name: name,
+              subject_kind: kind,
+              source_label: source,
+              origin: custom ? "PROJECT_ORIGINAL" : "SOURCE_WORK",
+              project_key: custom ? snapshotProject || null : null,
+              snapshot_project_key: snapshotProject || null,
+              snapshot: snapshot.trim() ? { label: snapshot.trim() } : null,
+            },
           }),
         );
         if (created) router.push(`/library/characters/${created.id}`);
       }}
     >
       <h3 style={{ margin: 0 }}>New character or creature</h3>
+      <label className="row">
+        <input type="checkbox" checked={custom} onChange={(event) => { setCustom(event.target.checked); setSource(event.target.checked ? "Original / Custom" : ""); }} />
+        Custom / original character
+      </label>
       <div className="form-row">
         <div className="field">
           <label>
+            Family / series
+            <input
+              list="character-families"
+              value={source}
+              onChange={(event) => setSource(event.target.value)}
+              placeholder="Search or browse held families"
+              required
+              style={{ width: "100%" }}
+            />
+            <datalist id="character-families">
+              {roster.families.map((item) => <option key={item.key} value={item.title}>{[item.aliases.join(", "), Object.entries(item.availability).map(([medium, count]) => `${medium.toLowerCase()} ${count}`).join(" · ")].filter(Boolean).join(" · ")}</option>)}
+            </datalist>
+          </label>
+        </div>
+        <div className="field">
+          <label>
             Name
-            <input value={name} onChange={(e) => setName(e.target.value)} required style={{ width: "100%" }} />
+            <input list="family-characters" value={name} onChange={(e) => setName(e.target.value)} required style={{ width: "100%" }} />
+            <datalist id="family-characters">
+              {(family?.characters ?? []).map((item) => <option key={item.id} value={item.display_name} />)}
+            </datalist>
           </label>
         </div>
         <Select label="Kind" value={kind} onChange={setKind} options={SUBJECT_KINDS} />
-        <div className="field">
-          <label>
-            From (work or project)
-            <input value={source} onChange={(e) => setSource(e.target.value)} style={{ width: "100%" }} />
-          </label>
-        </div>
+      </div>
+      {existing ? <p className="hint">Existing profile found. Continue will open it instead of creating a duplicate.</p> : null}
+      <div className="form-row" style={{ gridTemplateColumns: "1fr 2fr" }}>
+        <Select label="Project snapshot (optional)" value={snapshotProject} onChange={setSnapshotProject} options={[{ value: "", label: "None" }, ...projects.map((project) => ({ value: project.id, label: project.title }))]} />
+        <div className="field"><label>Story version / era (optional)<input value={snapshot} onChange={(event) => setSnapshot(event.target.value)} placeholder="Arc, era, age, persistent state…" style={{ width: "100%" }} /></label></div>
       </div>
       <div className="row">
-        <button className="button primary" type="submit" disabled={busy || !name.trim()}>
-          Create
+        <button className="button primary" type="submit" disabled={busy || !name.trim() || !source.trim() || (custom && !snapshotProject)}>
+          {existing ? "Open existing" : "Create"}
         </button>
         <Feedback error={error} done={null} />
       </div>

@@ -76,6 +76,28 @@ def no_paths(world: World, text: str) -> None:
 
 
 class TestReferencesOverHttp:
+    def test_roster_resolves_existing_character_and_records_optional_snapshot(
+        self, client: TestClient
+    ) -> None:
+        payload = {
+            "display_name": "Juniper Quill",
+            "source_label": "Invented Almanac",
+            "snapshot_project_key": PROJECT,
+            "snapshot": {"label": "early expedition"},
+        }
+        created = ok(client.post("/library/characters/resolve", json=payload))
+        assert created["reused"] is False and created["production_model_id"]
+        reused = ok(
+            client.post(
+                "/library/characters/resolve",
+                json={"display_name": "juniper quill", "source_label": "invented almanac"},
+            )
+        )
+        assert reused["reused"] is True and reused["id"] == created["id"]
+        roster = ok(client.get("/library/character-roster"))
+        family = next(item for item in roster["families"] if item["title"] == "Invented Almanac")
+        assert [character["id"] for character in family["characters"]] == [created["id"]]
+
     def test_page_region_to_character_vault_roundtrip(
         self, client: TestClient, world: World
     ) -> None:

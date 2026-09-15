@@ -240,6 +240,16 @@ export interface CharacterSummary {
   updated_at: string | null;
 }
 
+export interface CharacterRoster {
+  families: {
+    key: string;
+    title: string;
+    aliases: string[];
+    availability: Record<string, number>;
+    characters: CharacterSummary[];
+  }[];
+}
+
 export interface VaultCard {
   reference: ReferenceView;
   link_id: string;
@@ -485,6 +495,7 @@ export const vault = {
     read<ReferenceView[]>(`/library/references${q({ limit: 200, ...filters })}`),
   reference: (id: string) => read<ReferenceView>(`/library/references/${encodeURIComponent(id)}`),
   characters: () => read<CharacterSummary[]>("/library/characters"),
+  characterRoster: () => read<CharacterRoster>("/library/character-roster"),
   character: (id: string) => read<CharacterVault>(`/library/characters/${encodeURIComponent(id)}`),
   styles: () => read<StyleVault>("/library/visual-modes"),
   assignments: (project: string) =>

@@ -49,9 +49,9 @@ _BULLET = re.compile(r"^\s*-\s+(?P<text>.+?)\s*$")
 _SOURCE_LOCATOR = re.compile(r"E(?P<episode>\d+)\s+Page\s+(?P<page>\d+)", re.I)
 _STRUCTURAL_MOJIBAKE = {
     "ΓÇö": "—",
-    "ΓÇô": "–",
+    "ΓÇô": "\u2013",
     "â€”": "—",
-    "â€“": "–",
+    "â€“": "\u2013",
 }
 
 

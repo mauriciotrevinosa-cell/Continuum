@@ -48,6 +48,7 @@ export default async function ProjectLayout({
               Overview
             </SubnavLink>
             <SubnavLink href={`${base}/story`}>Story</SubnavLink>
+            <SubnavLink href={`${base}/ideas`}>Ideas & future beats</SubnavLink>
             <SubnavLink href={`${base}/documents`}>Documents</SubnavLink>
             <SubnavLink href={`${base}/drafts`}>Drafts</SubnavLink>
             <SubnavLink href={`${base}/approved`}>Approved</SubnavLink>

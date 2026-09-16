@@ -94,7 +94,11 @@ def main(argv: list[str]) -> int:
             session.execute(
                 select(CharacterProfile)
                 .where(CharacterProfile.removed_at.is_(None))
-                .order_by(CharacterProfile.display_name, CharacterProfile.created_at, CharacterProfile.id)
+                .order_by(
+                    CharacterProfile.display_name,
+                    CharacterProfile.created_at,
+                    CharacterProfile.id,
+                )
             ).scalars()
         )
         groups: dict[str, list[CharacterProfile]] = defaultdict(list)
@@ -143,7 +147,10 @@ def main(argv: list[str]) -> int:
 
         if not planned:
             if blocked:
-                print("No linked profile is safe to retire automatically; merge/review it manually.")
+                print(
+                    "No linked profile is safe to retire automatically; "
+                    "merge/review it manually."
+                )
             else:
                 print("Nothing qualifies for safe retirement.")
             return 1
@@ -158,7 +165,10 @@ def main(argv: list[str]) -> int:
         for row in planned:
             catalog.remove_character(row.id, row.row_version)
         session.flush()
-        print(f"\nSoft-retired {len(planned)} unlinked profile(s). Reference/source bytes were not deleted.")
+        print(
+            f"\nSoft-retired {len(planned)} unlinked profile(s). "
+            "Reference/source bytes were not deleted."
+        )
         if blocked:
             print(f"Left {len(blocked)} linked duplicate(s) active for manual merge/review.")
         print("Run this script again with no arguments to see any remaining ambiguity.")

@@ -30,6 +30,34 @@ CLOUDFLARED_URL = (
 )
 TUNNEL_PATTERN = re.compile(r"https://[a-z0-9-]+\.trycloudflare\.com")
 
+# Audited baseline for The Arrivals' first real visual calibration pass. Manual
+# arguments remain supported so this does not make Continuum model-specific.
+CALIBRATION_PRESETS: dict[str, dict[str, str]] = {
+    "animagine-xl-4.0": {
+        "checkpoint_url": (
+            "https://huggingface.co/cagliostrolab/animagine-xl-4.0/resolve/main/"
+            "animagine-xl-4.0.safetensors?download=true"
+        ),
+        "checkpoint_name": "animagine-xl-4.0.safetensors",
+        "checkpoint_sha256": "1d5b43ff75b6ab598502d4c779d2fbfa3dceca51c60c3b609640a60772333916",
+        "version": "4.0",
+        "license": "openrail++",
+        "source": "https://huggingface.co/cagliostrolab/animagine-xl-4.0",
+        "ipadapter_model_url": (
+            "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/"
+            "ip-adapter-plus_sdxl_vit-h.safetensors"
+        ),
+        "ipadapter_model_name": "ip-adapter-plus_sdxl_vit-h.safetensors",
+        "ipadapter_sha256": "3f5062b8400c94b7159665b21ba5c62acdcd7682262743d7f2aefedef00e6581",
+        "clip_vision_url": (
+            "https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/"
+            "model.safetensors"
+        ),
+        "clip_vision_name": "CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors",
+        "clip_vision_sha256": "6ca9667da1ca9e0b0f75e46bb030f7e011f44f86cbfb8d5a36590fcd7507b030",
+    }
+}
+
 
 def run(*args: str, cwd: Path | None = None) -> None:
     print("+", " ".join(args))
@@ -54,6 +82,17 @@ def sha256(path: Path) -> str:
     return digest.hexdigest()
 
 
+def verify_sha256(path: Path, expected: str, label: str) -> str:
+    actual = sha256(path)
+    if expected and actual != expected.lower():
+        raise RuntimeError(
+            f"{label} SHA-256 mismatch: expected {expected.lower()}, received {actual}"
+        )
+    if expected:
+        print(f"verified {label} SHA-256: {actual}")
+    return actual
+
+
 def wait_for_comfy(timeout: float = 180.0) -> None:
     deadline = time.monotonic() + timeout
     url = "http://127.0.0.1:8188/object_info"
@@ -73,13 +112,39 @@ def ps_quote(value: str) -> str:
     return "'" + value.replace("'", "''") + "'"
 
 
+def _resolve_args(args: argparse.Namespace, parser: argparse.ArgumentParser) -> dict[str, str]:
+    preset = CALIBRATION_PRESETS.get(args.preset or "", {})
+    for field in (
+        "checkpoint_url",
+        "checkpoint_name",
+        "version",
+        "license",
+        "source",
+        "ipadapter_model_url",
+        "ipadapter_model_name",
+        "clip_vision_url",
+        "clip_vision_name",
+    ):
+        if not getattr(args, field) and preset.get(field):
+            setattr(args, field, preset[field])
+
+    required = ("checkpoint_url", "checkpoint_name", "version", "license", "source")
+    missing = [field for field in required if not getattr(args, field)]
+    if missing:
+        parser.error(
+            "missing required model arguments: " + ", ".join("--" + f.replace("_", "-") for f in missing)
+        )
+    return preset
+
+
 def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--checkpoint-url", required=True)
-    parser.add_argument("--checkpoint-name", required=True)
-    parser.add_argument("--version", required=True)
-    parser.add_argument("--license", required=True)
-    parser.add_argument("--source", required=True)
+    parser.add_argument("--preset", choices=tuple(CALIBRATION_PRESETS))
+    parser.add_argument("--checkpoint-url")
+    parser.add_argument("--checkpoint-name")
+    parser.add_argument("--version")
+    parser.add_argument("--license")
+    parser.add_argument("--source")
     parser.add_argument("--ipadapter-model-url", default="")
     parser.add_argument("--ipadapter-model-name", default="")
     parser.add_argument("--clip-vision-url", default="")
@@ -87,6 +152,7 @@ def main(argv: list[str]) -> int:
     parser.add_argument("--workdir", type=Path, default=Path("/kaggle/working/continuum-comfy"))
     parser.add_argument("--allow-cpu", action="store_true")
     args = parser.parse_args(argv)
+    preset = _resolve_args(args, parser)
 
     if not args.allow_cpu and shutil.which("nvidia-smi") is None:
         parser.error("no NVIDIA GPU runtime detected; enable a GPU in the notebook first")
@@ -114,18 +180,19 @@ def main(argv: list[str]) -> int:
 
     checkpoint = comfy / "models" / "checkpoints" / args.checkpoint_name
     download(args.checkpoint_url, checkpoint)
-    if args.ipadapter_model_url:
-        download(
-            args.ipadapter_model_url,
-            comfy / "models" / "ipadapter" / args.ipadapter_model_name,
-        )
-    if args.clip_vision_url:
-        download(
-            args.clip_vision_url,
-            comfy / "models" / "clip_vision" / args.clip_vision_name,
-        )
+    checkpoint_sha = verify_sha256(
+        checkpoint, preset.get("checkpoint_sha256", ""), "checkpoint"
+    )
 
-    checkpoint_sha = sha256(checkpoint)
+    if args.ipadapter_model_url:
+        ip_path = comfy / "models" / "ipadapter" / args.ipadapter_model_name
+        download(args.ipadapter_model_url, ip_path)
+        verify_sha256(ip_path, preset.get("ipadapter_sha256", ""), "IP-Adapter")
+    if args.clip_vision_url:
+        clip_path = comfy / "models" / "clip_vision" / args.clip_vision_name
+        download(args.clip_vision_url, clip_path)
+        verify_sha256(clip_path, preset.get("clip_vision_sha256", ""), "CLIP Vision")
+
     cloudflared = root / "cloudflared"
     download(CLOUDFLARED_URL, cloudflared)
     cloudflared.chmod(0o755)

@@ -41,7 +41,7 @@ const ALLOWED: RegExp[] = [
   new RegExp(`^projects/${PROJECT}/chapter-packages/(validate|[a-z0-9][a-z0-9-]{0,119}(/approval)?)$`),
   new RegExp(`^production/(reference-manifests/${UUID}|chapter-package-schema)$`),
   // M3: page-by-page manga production.
-  new RegExp(`^projects/${PROJECT}/(production-runs|production-profiles)$`),
+  new RegExp(`^projects/${PROJECT}/(production-runs|production-profiles|calibration-runs)$`),
   new RegExp(`^projects/${PROJECT}/episodes/${EPISODE}/(materialize|canonical-readiness|sample-runs)$`),
   new RegExp(
     `^production/(backends|runs/${UUID}(/(refresh|sample-decision|preview|preview-render|chapter))?|pages/${UUID}(/(attempts|cast))?|page-attempts/${UUID}/review|source-pages/[0-9a-f]{16,64}/[0-9]{1,6}/image)$`,

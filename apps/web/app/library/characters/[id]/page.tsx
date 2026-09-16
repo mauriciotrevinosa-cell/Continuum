@@ -190,6 +190,7 @@ export default async function CharacterVaultPage({ params }: { params: Promise<{
           <WardrobePanel
             outfits={data.wardrobe.outfits}
             characters={roster.map((c) => ({ id: c.id, name: c.display_name }))}
+            projects={projects}
           />
           <AddOutfit characterId={character.id} projects={projects} />
         </div>

@@ -10,27 +10,37 @@ interface CharacterChoice {
   name: string;
 }
 
+interface ProjectChoice {
+  id: string;
+  title: string;
+}
+
 const REVIEW_DECISIONS = ["DRAFT", "REVIEW", "APPROVED", "REJECTED"] as const;
 
 /**
  * Timeline-aware wardrobe controls: review a project-created outfit, and
  * record who wears a garment in a story stage. The owner is the outfit's
  * character; a borrowed garment keeps its owner and never clones identity.
+ * The project is chosen from existing project data, never hardcoded.
  */
 export function WardrobePanel({
   outfits,
   characters,
+  projects,
 }: {
   outfits: Outfit[];
   characters: CharacterChoice[];
+  projects: ProjectChoice[];
 }) {
   const router = useRouter();
   const action = useAction();
   const [reviewer, setReviewer] = useState("");
+  const [project, setProject] = useState(projects[0]?.id ?? "");
   const [wearOutfit, setWearOutfit] = useState("");
   const [wearer, setWearer] = useState("");
   const [stage, setStage] = useState("");
   const [context, setContext] = useState("");
+  const [condition, setCondition] = useState("");
 
   const review = (id: string, decision: string) =>
     action.run(async () => {
@@ -43,10 +53,11 @@ export function WardrobePanel({
   const assignWear = () =>
     action.run(async () => {
       await vaultFetch(`library/outfits/${wearOutfit}/wear`, {
-        json: { wearer_character_id: wearer, project_key: "the-arrivals", stage, context },
+        json: { wearer_character_id: wearer, project_key: project, stage, context, condition },
       });
       setStage("");
       setContext("");
+      setCondition("");
       router.refresh();
     }, "Wear recorded.");
 
@@ -97,7 +108,19 @@ export function WardrobePanel({
             A garment keeps its owner. Assigning a different wearer for a story stage records
             borrowing without cloning identity or rewriting earlier continuity.
           </p>
-          <div className="form-row" style={{ gridTemplateColumns: "1fr 1fr 1fr 1fr" }}>
+          <div className="form-row" style={{ gridTemplateColumns: "1fr 1fr 1fr 1fr 1fr" }}>
+            <div className="field compact">
+              <label>
+                Project
+                <select value={project} onChange={(e) => setProject(e.target.value)} style={{ width: "100%" }}>
+                  {projects.map((p) => (
+                    <option key={p.id} value={p.id}>
+                      {p.title}
+                    </option>
+                  ))}
+                </select>
+              </label>
+            </div>
             <div className="field compact">
               <label>
                 Garment
@@ -137,8 +160,16 @@ export function WardrobePanel({
               </label>
             </div>
           </div>
+          <div className="form-row" style={{ gridTemplateColumns: "1fr 1fr" }}>
+            <div className="field compact">
+              <label>
+                Condition (this stage)
+                <input value={condition} onChange={(e) => setCondition(e.target.value)} placeholder="clean, dirty, damaged, repaired…" style={{ width: "100%" }} />
+              </label>
+            </div>
+          </div>
           <div className="row">
-            <button className="button small primary" type="button" disabled={action.busy || !wearOutfit || !wearer || !stage.trim()} onClick={assignWear}>
+            <button className="button small primary" type="button" disabled={action.busy || !wearOutfit || !wearer || !stage.trim() || !project} onClick={assignWear}>
               Record wear
             </button>
             <Feedback error={action.error} done={action.done} />

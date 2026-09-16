@@ -26,6 +26,44 @@ mark SAMPLE PASS on the creator's behalf.
 Validation: the new regression test passes; the full
 `test_m3_page_production.py` file remains green.
 
+## W6 follow-up — wardrobe semantics corrected — 2026-09-15
+
+W6's owner/wearer architecture was correct, but five gaps were closed before
+W8 (and before resuming W7):
+
+1. **Multiple garments per stage.** `Wardrobe.resolve` now returns a list of
+   garments (a set), not one arbitrary `.first()`. A character may wear a
+   hoodie, a cap and their own bottoms in the same stage; owner, wearer,
+   borrowed flag and stage/context are preserved per garment. No garments are
+   cloned.
+2. **Timeline-aware garment state.** `outfit_wear.condition` is stage-scoped,
+   so clean -> dirty -> damaged -> repaired/patched is represented on the wear
+   assignment without rewriting the garment's identity or earlier continuity.
+   The same garment identity survives across states.
+3. **Approval gating.** Only an APPROVED project-created outfit resolves into
+   production wardrobe. Source/default outfits remain backward compatible
+   (not gated). An unapproved PROJECT outfit cannot become active production
+   wardrobe.
+4. **Removed the-arrivals hardcode.** `WardrobePanel` now takes the project
+   from existing project data/UI state instead of sending
+   `project_key: "the-arrivals"`.
+5. **Project consistency guard.** `assign_wear` rejects a PROJECT outfit being
+   worn in a different project.
+6. **Model sheet path.** `POST /library/outfits/{id}/model-sheet` attaches or
+   replaces an outfit's model-sheet reference (human-controlled). The field is
+   no longer ambiguous.
+
+Schema: migration `0011_m3_wardrobe_condition` adds `outfit_wear.condition`.
+Required pre-migration backup:
+`C:/ContinuumData/backups/continuum-pre-0011-20260915-232900.dump` (6,527,902
+bytes).
+
+Validation: `tests/acceptance/test_m3_wardrobe.py` (8 tests) passes;
+`test_phase1_library_api.py`, `test_m3_character_production_models.py`,
+`test_schema_tiers.py`, `test_import_boundaries.py`,
+`test_110_14_migrations.py` all pass; ruff (packages/apps/workers/tests) and
+mypy (116 files) clean; web typecheck, lint and 21 tests pass.
+
 ## W6 checkpoint — Timeline-aware wardrobe v1 — 2026-09-15
 
 W6 implements the minimum timeline-aware project wardrobe from
@@ -242,9 +280,9 @@ checks passed at the last commit. The app database is migrated.
 
 ## Database
 
-- App DB `continuum` is at **`0009_m3_model_builder`**. Backups taken before each
-  migration: `C:/ContinuumData/backups/continuum-pre-0005-*.dump`, `-0006-*`,
-  `-0007-*`, `-0008-*`, `-0009-*`.
+- App DB `continuum` is at **`0011_m3_wardrobe_condition`**. Backups taken before
+  each migration: `C:/ContinuumData/backups/continuum-pre-0005-*.dump`, `-0006-*`,
+  `-0007-*`, `-0008-*`, `-0009-*`, `-0010-*`, `-0011-*`.
 - No further migration is pending. Before any new migration: take a
   `pg_dump -Fc` backup first (see `docs/M3_MANGA_PRODUCTION.md`), then
   `uv run --no-sync python -m alembic upgrade head`.

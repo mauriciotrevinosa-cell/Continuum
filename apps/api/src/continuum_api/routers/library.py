@@ -531,7 +531,12 @@ class OutfitWearIn(StrictBody):
     project_key: str = Field(min_length=1, max_length=80)
     stage: str = Field(min_length=1, max_length=40)
     context: str = Field(default="", max_length=200)
+    condition: str = Field(default="", max_length=120)
     notes: str = Field(default="", max_length=4000)
+
+
+class OutfitModelSheetIn(StrictBody):
+    reference_id: uuid.UUID
 
 
 @router.post("/library/outfits/{outfit_id}/review")
@@ -555,9 +560,21 @@ def assign_outfit_wear(
             body.project_key,
             body.stage,
             context=body.context,
+            condition=body.condition,
             notes=body.notes,
         )
         return wear_view(row)
+
+
+@router.post("/library/outfits/{outfit_id}/model-sheet")
+def attach_outfit_model_sheet(
+    request: Request, outfit_id: uuid.UUID, body: OutfitModelSheetIn
+) -> dict[str, Any]:
+    """Attach or replace an outfit's model-sheet / turnaround reference."""
+    with catalog_scope(request) as catalog:
+        return outfit_view(
+            Wardrobe(catalog.session).attach_model_sheet(outfit_id, body.reference_id)
+        )
 
 
 @router.get("/library/characters/{character_id}/wardrobe-resolve")
@@ -567,10 +584,10 @@ def resolve_wardrobe(
     project_key: Annotated[str, Query(min_length=1, max_length=80)],
     stage: Annotated[str, Query(min_length=1, max_length=40)],
 ) -> dict[str, Any]:
-    """The outfit a character wears at a story stage, owner and wearer kept apart."""
+    """The set of garments a character wears at a story stage, owner and wearer kept apart."""
     with catalog_scope(request) as catalog:
         resolved = Wardrobe(catalog.session).resolve(project_key, character_id, stage)
-        return {"outfit": resolved}
+        return {"outfits": resolved}
 
 
 # ---------------------------------------------------------------------------

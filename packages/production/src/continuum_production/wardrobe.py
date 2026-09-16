@@ -1,7 +1,7 @@
 """Timeline-aware project wardrobe (M3 W6).
 
 Clothing is a layer on top of identity, never identity itself. This module
-adds the two behaviours the approved Wardrobe v1 direction requires:
+adds the behaviours the approved Wardrobe v1 direction requires:
 
 * a **project-created outfit** has a human review state and an optional model
   sheet, and never self-approves;
@@ -9,7 +9,15 @@ adds the two behaviours the approved Wardrobe v1 direction requires:
   **worn by a different character** in a specific project/story stage via
   ``outfit_wear``. Borrowing is append-only: a later assignment never rewrites
   an earlier one, so Frieren wearing Mau's hoodie in E14/E18 never makes that
-  hoodie Frieren's default E1-E13 outfit, and never clones Mau's identity.
+  hoodie Frieren's default E1-E13 outfit, and never clones Mau's identity;
+* a character may wear **several garments at once** in a stage (a hoodie, a
+  cap and their own bottoms), so resolution returns a set, not one arbitrary
+  outfit;
+* a garment's **condition is stage-scoped** on the wear assignment, so
+  clean -> dirty -> damaged -> repaired can be represented without rewriting
+  the garment's identity or earlier continuity;
+* only an **APPROVED** project-created outfit resolves into production
+  wardrobe. Source/default outfits are not gated by review.
 """
 
 from __future__ import annotations
@@ -19,7 +27,7 @@ import uuid
 from typing import Any
 
 from continuum_core.references import OutfitKind, OutfitReviewStatus
-from continuum_db.models import CharacterOutfit, CharacterProfile, OutfitWear
+from continuum_db.models import CharacterOutfit, CharacterProfile, OutfitWear, ReferenceItem
 from continuum_library import CatalogConflictError, CatalogInputError, CatalogNotFoundError
 from sqlalchemy import select
 from sqlalchemy.orm import Session
@@ -59,6 +67,7 @@ def wear_view(wear: OutfitWear) -> dict[str, Any]:
         "project_key": wear.project_key,
         "stage": wear.stage,
         "context": wear.context,
+        "condition": wear.condition,
         "notes": wear.notes,
     }
 
@@ -97,6 +106,20 @@ class Wardrobe:
         self.session.flush()
         return row
 
+    def attach_model_sheet(self, outfit_id: uuid.UUID, reference_id: uuid.UUID) -> CharacterOutfit:
+        """Attach or replace an outfit's model-sheet / turnaround reference.
+
+        The reference must exist and not be removed. This is the human-controlled
+        path that populates ``character_outfit.model_sheet_reference_id``.
+        """
+        outfit = self.outfit(outfit_id)
+        reference = self.session.get(ReferenceItem, reference_id)
+        if reference is None or reference.removed_at is not None:
+            raise CatalogNotFoundError("That reference does not exist.")
+        outfit.model_sheet_reference_id = reference_id
+        self.session.flush()
+        return outfit
+
     def assign_wear(
         self,
         outfit_id: uuid.UUID,
@@ -105,6 +128,7 @@ class Wardrobe:
         stage: str,
         *,
         context: str = "",
+        condition: str = "",
         notes: str = "",
     ) -> OutfitWear:
         """Record who wears a garment in one project/story stage.
@@ -112,8 +136,13 @@ class Wardrobe:
         Deterministic upsert keyed by (outfit, project, stage): re-recording
         the same input is a no-op, and a conflicting wearer for the same stage
         is refused rather than silently rewriting earlier continuity.
+
+        A PROJECT outfit may only be worn in its own project; cross-project
+        assignment is refused rather than silently accepted.
         """
-        self.outfit(outfit_id)
+        outfit = self.outfit(outfit_id)
+        if outfit.kind is OutfitKind.PROJECT and outfit.project_key != project_key:
+            raise CatalogConflictError("A project outfit can only be worn in its own project.")
         wearer = self.session.get(CharacterProfile, wearer_character_id)
         if wearer is None or wearer.removed_at is not None:
             raise CatalogNotFoundError("That wearer does not exist.")
@@ -139,6 +168,7 @@ class Wardrobe:
             project_key=project_key,
             stage=stage,
             context=context.strip()[:200],
+            condition=condition.strip()[:120],
             notes=notes.strip(),
         )
         self.session.add(row)
@@ -147,12 +177,16 @@ class Wardrobe:
 
     def resolve(
         self, project_key: str, character_id: uuid.UUID, stage: str
-    ) -> dict[str, Any] | None:
-        """The outfit a character wears at a story stage, owner vs wearer kept apart.
+    ) -> list[dict[str, Any]]:
+        """The set of garments a character wears at a story stage.
 
-        An explicit ``outfit_wear`` assignment wins; otherwise the character's
-        own project outfit is returned. The result always names the owner and
-        the wearer separately, and flags a borrowed garment.
+        Returns a list (possibly empty), because a character may wear several
+        garments at once. Explicit ``outfit_wear`` assignments win; otherwise
+        the character's own project outfit is returned. The result always names
+        the owner and the wearer separately, and flags a borrowed garment.
+
+        A PROJECT outfit that is not APPROVED never resolves into production
+        wardrobe. Source/default outfits are not gated by review.
         """
         found = self.session.execute(
             select(OutfitWear, CharacterOutfit)
@@ -163,22 +197,36 @@ class Wardrobe:
                 OutfitWear.stage == stage,
                 CharacterOutfit.removed_at.is_(None),
             )
-        ).first()
-        if found is not None:
-            wear, outfit = found
-            return self._resolved(outfit, character_id, wear)
-        outfit = self.session.execute(
-            select(CharacterOutfit)
-            .where(
-                CharacterOutfit.character_id == character_id,
-                CharacterOutfit.project_key == project_key,
-                CharacterOutfit.removed_at.is_(None),
+            .order_by(OutfitWear.created_at, OutfitWear.id)
+        ).all()
+        if found:
+            return [
+                self._resolved(outfit, character_id, wear)
+                for wear, outfit in found
+                if self._production_ready(outfit)
+            ]
+        outfit = (
+            self.session.execute(
+                select(CharacterOutfit)
+                .where(
+                    CharacterOutfit.character_id == character_id,
+                    CharacterOutfit.project_key == project_key,
+                    CharacterOutfit.removed_at.is_(None),
+                )
+                .order_by(CharacterOutfit.created_at, CharacterOutfit.id)
             )
-            .order_by(CharacterOutfit.created_at, CharacterOutfit.id)
-        ).scalars().first()
-        if outfit is not None:
-            return self._resolved(outfit, character_id, None)
-        return None
+            .scalars()
+            .first()
+        )
+        if outfit is not None and self._production_ready(outfit):
+            return [self._resolved(outfit, character_id, None)]
+        return []
+
+    def _production_ready(self, outfit: CharacterOutfit) -> bool:
+        """A source/default outfit is always ready; a PROJECT outfit must be APPROVED."""
+        if outfit.kind is not OutfitKind.PROJECT:
+            return True
+        return outfit.review_status == OutfitReviewStatus.APPROVED.value
 
     def _resolved(
         self, outfit: CharacterOutfit, wearer_id: uuid.UUID, wear: OutfitWear | None
@@ -193,7 +241,7 @@ class Wardrobe:
             "project_key": outfit.project_key,
             "era": outfit.era,
             "season_weather": outfit.season_weather,
-            "condition": outfit.condition,
+            "condition": wear.condition if wear else outfit.condition,
             "review_status": outfit.review_status,
             "model_sheet_reference_id": str(outfit.model_sheet_reference_id)
             if outfit.model_sheet_reference_id

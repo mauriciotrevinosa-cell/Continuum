@@ -291,6 +291,10 @@ class OutfitWear(Base):
     stage: Mapped[str] = mapped_column(String(40), nullable=False)
     #: Why this wearer is wearing it here (e.g. "borrowed after reconciliation").
     context: Mapped[str] = mapped_column(String(200), nullable=False, default="")
+    #: The garment's condition in this project/story stage (clean, dirty,
+    #: damaged, repaired...). Stage-scoped so a garment's state can evolve
+    #: without rewriting its identity or earlier continuity.
+    condition: Mapped[str] = mapped_column(String(120), nullable=False, default="")
     notes: Mapped[str] = mapped_column(Text, nullable=False, default="")
     created_at: Mapped[dt.datetime] = _created()
 

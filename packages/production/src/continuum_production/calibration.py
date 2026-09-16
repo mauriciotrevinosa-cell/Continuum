@@ -47,6 +47,12 @@ _CAL_HEADING = re.compile(r"^##\s+(?P<id>CAL-\d+)\s*[\u2014\u2013-]\s*(?P<title>
 _FIELD = re.compile(r"^\*\*(?P<key>[^*:]+):\*\*\s*(?P<value>.*)$")
 _BULLET = re.compile(r"^\s*-\s+(?P<text>.+?)\s*$")
 _SOURCE_LOCATOR = re.compile(r"E(?P<episode>\d+)\s+Page\s+(?P<page>\d+)", re.I)
+_STRUCTURAL_MOJIBAKE = {
+    "ΓÇö": "—",
+    "ΓÇô": "–",
+    "â€”": "—",
+    "â€“": "–",
+}
 
 
 @dataclass(frozen=True, slots=True)
@@ -66,6 +72,20 @@ class CalibrationPage:
 
 def _clean(value: str) -> str:
     return value.strip().strip("`").strip()
+
+
+def _normalize_structure(text: str) -> str:
+    """Repair known mojibake only where it affects markdown structure.
+
+    Some committed creative documents originated as UTF-8 punctuation that was
+    decoded through a legacy code page before being stored as UTF-16. The
+    resulting text contains tokens such as ``ΓÇö`` instead of an em dash.
+    Normalize only those separator tokens; creative prose otherwise stays byte-
+    for-byte meaningful to the parser.
+    """
+    for broken, repaired in _STRUCTURAL_MOJIBAKE.items():
+        text = text.replace(broken, repaired)
+    return text
 
 
 def _episode_stage(source_locator: str) -> str | None:
@@ -113,6 +133,7 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
     Generic: only the ``## CAL-`` structure and the ``**Field:**`` lines are
     interpreted. Unknown fields are preserved in ``extra`` so nothing is lost.
     """
+    text = _normalize_structure(text)
     pages: list[CalibrationPage] = []
     current: dict[str, Any] | None = None
     current_field: str | None = None
@@ -160,7 +181,7 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
             current_field = key
             if key == "source":
                 # "Source:" names the document and the episode/page locator.
-                current["source_document"] = value.split("\u2014")[0].strip().strip("`")
+                current["source_document"] = value.split("—")[0].strip().strip("`")
                 current["source_locator"] = value
                 current["wardrobe_stage"] = _episode_stage(value)
             elif key == "source_content":

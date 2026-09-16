@@ -54,6 +54,7 @@ def _clean_domain_tables(session: Session) -> None:
 
     clean_domain_tables(session)
 
+
 CALIBRATION = """# Demo Calibration Chapter v0.1
 
 **Status:** CREATOR-APPROVED PRODUCTION CALIBRATION PACKAGE / NON_CANON
@@ -120,18 +121,21 @@ def test_parse_calibration_is_generic() -> None:
 def test_calibration_run_is_isolated_and_preserves_lineage(
     session: Session, catalog: ReferenceCatalog, world: World, tmp_path: Path
 ) -> None:
-    from continuum_core.references import CharacterOrigin
+    from continuum_core.references import (
+        CharacterAspect,
+        CharacterOrigin,
+        ReferenceClass,
+        ReferenceOrigin,
+    )
+    from continuum_library import CharacterLink, ReferenceSpec
+
+    from tests.phase1_world import MANGA, picture
 
     aster = catalog.create_character("Aster Vale")
     rowan = catalog.create_character(
         "Rowan", origin=CharacterOrigin.PROJECT_ORIGINAL, project_key=PROJECT
     )
     # Grounding for both characters (identity + body).
-    from continuum_core.references import CharacterAspect, ReferenceClass, ReferenceOrigin
-    from continuum_library import CharacterLink, ReferenceSpec
-
-    from tests.phase1_world import MANGA, picture
-
     catalog.add_from_source(
         world.id_of(MANGA),
         ReferenceSpec(
@@ -229,8 +233,12 @@ def test_calibration_approval_never_joins_story_continuity(
     tmp_path: Path,
 ) -> None:
     """Gap 1: approving a calibration page never adds it to story continuity."""
-    from continuum_core.references import CharacterAspect, CharacterOrigin
-    from continuum_core.references import ReferenceClass, ReferenceOrigin
+    from continuum_core.references import (
+        CharacterAspect,
+        CharacterOrigin,
+        ReferenceClass,
+        ReferenceOrigin,
+    )
     from continuum_library import CharacterLink, ReferenceSpec
 
     from tests.phase1_world import MANGA, picture

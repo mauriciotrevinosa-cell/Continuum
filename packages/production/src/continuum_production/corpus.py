@@ -68,6 +68,7 @@ from continuum_db.models import (
 )
 from continuum_imaging import EncodedImage, preview
 from continuum_library import (
+    CatalogConflictError,
     CatalogInputError,
     CatalogNotFoundError,
     DescriptorSpec,
@@ -287,11 +288,23 @@ class CharacterCorpus:
         return character
 
     def by_name(self, name: str) -> CharacterProfile | None:
-        return self.session.execute(
-            select(CharacterProfile).where(
-                CharacterProfile.display_name == name, CharacterProfile.removed_at.is_(None)
+        matches = list(
+            self.session.execute(
+                select(CharacterProfile)
+                .where(
+                    CharacterProfile.display_name == name,
+                    CharacterProfile.removed_at.is_(None),
+                )
+                .limit(2)
+            ).scalars()
+        )
+        if len(matches) > 1:
+            raise CatalogConflictError(
+                f"More than one active character is named {name!r}.",
+                remediation="Archive or merge duplicate Character Vault entries, then retry.",
+                display_name=name,
             )
-        ).scalar_one_or_none()
+        return matches[0] if matches else None
 
     def observation(self, observation_id: uuid.UUID) -> CharacterObservation:
         row = self.session.get(CharacterObservation, observation_id)

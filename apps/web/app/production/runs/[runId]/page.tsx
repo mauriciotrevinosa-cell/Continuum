@@ -9,10 +9,16 @@ import { RunActions } from "./RunActions";
 
 export const dynamic = "force-dynamic";
 
+function runLabel(purpose: string): string {
+  if (purpose === "PRODUCTION") return "production";
+  if (purpose === "CALIBRATION") return "Chapter Test";
+  return "sample";
+}
+
 /**
- * One production run: what it is (a non-canon sample or canonical production),
- * which profile and continuity version it is on, the current and next page,
- * and a contact sheet of every page with its state.
+ * One production run: what it is (calibration, a non-canon sample or canonical
+ * production), which profile and continuity version it is on, the current and
+ * next page, and a contact sheet of every page with its state.
  */
 export default async function RunPage({ params }: { params: Promise<{ runId: string }> }) {
   const { runId } = await params;
@@ -45,7 +51,7 @@ export default async function RunPage({ params }: { params: Promise<{ runId: str
           </p>
           <h1 className="title">
             {run.episode}
-            {run.chapter ? ` chapter ${run.chapter}` : ""} {run.purpose === "PRODUCTION" ? "production" : "sample"}
+            {run.chapter ? ` chapter ${run.chapter}` : ""} {runLabel(run.purpose)}
           </h1>
           <p className="row" style={{ gap: 8, margin: "6px 0" }}>
             <PurposeBadge purpose={run.purpose} />

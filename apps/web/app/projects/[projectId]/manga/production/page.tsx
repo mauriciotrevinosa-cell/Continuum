@@ -5,7 +5,7 @@ import { type Backend, PAGE_STATE_LABEL, type PageState, type Profile, type RunL
 import { ApiDown, Empty } from "../../../../library/acquisition/_components/ui";
 import { BackendList, PurposeBadge } from "../../../../production/_parts/manga";
 import { loadProject } from "../../../_components/project";
-import { StartCanonical, StartSample } from "./StartSample";
+import { StartCalibration, StartCanonical, StartSample } from "./StartSample";
 
 export const dynamic = "force-dynamic";
 
@@ -55,10 +55,10 @@ function RunRow({ run }: { run: RunListItem }) {
 }
 
 /**
- * Manga production for a project: which artwork backends can draw, the runs
- * already made, and for each episode with an approved panel script the one
- * entry point that matters - START NON-CANON SAMPLE. Canonical production is
- * offered only when a sample has passed and nothing creative blocks it.
+ * Manga production for a project: first prove the broad production grammar in
+ * a committed calibration package, then use per-episode non-canon samples,
+ * and start canonical production only after a sample passes and nothing
+ * creative blocks it.
  */
 export default async function MangaProductionPage({ params }: { params: Promise<{ projectId: string }> }) {
   const { projectId } = await params;
@@ -80,6 +80,24 @@ export default async function MangaProductionPage({ params }: { params: Promise<
   const episodes = detail.episodes.filter((e) =>
     e.documents.some((d) => d.category === "panel-script" && ["APPROVED", "LOCKED"].includes(d.lifecycle)),
   );
+  const episodeCodes = new Set(detail.episodes.map((e) => e.code));
+  const calibrationRuns = runs.filter(
+    (run) => !episodeCodes.has(run.episode) && run.episode.toUpperCase().includes("CAL"),
+  );
+  const calibrationDocuments = detail.documents
+    .filter(
+      (document) =>
+        document.category === "calibration" ||
+        /PRODUCTION CALIBRATION/i.test(document.author_status ?? "") ||
+        /production calibration chapter/i.test(document.title),
+    )
+    .map((document) => ({
+      id: document.id,
+      title: document.title,
+      version: document.version,
+      lifecycle: document.lifecycle,
+      summary: document.summary,
+    }));
   const promoted = profiles.filter((p) => p.status === "PROMOTED").sort((a, b) => b.version - a.version)[0] ?? null;
   const artworkReady = backends.some((b) => b.ready && b.output === "ARTWORK_CANDIDATE");
 
@@ -90,9 +108,8 @@ export default async function MangaProductionPage({ params }: { params: Promise<
           <p className="eyebrow">Manga · production</p>
           <h1 className="title">Manga production</h1>
           <p className="lead">
-            Chapters are drawn page by page from the committed scripts: each page is generated as one composition
-            with black-and-white and color finishes, reviewed, and approved before the next page opens. A non-canon
-            sample proves the production profile first; canonical production starts only after a sample passes.
+            Calibrate the recurring production problems first, then draw chapters page by page from committed scripts.
+            Every real page keeps its source, references, wardrobe, version lineage and review state inspectable.
           </p>
         </div>
         <Link className="button small ghost" href={`/projects/${projectId}/roughs`}>
@@ -108,13 +125,42 @@ export default async function MangaProductionPage({ params }: { params: Promise<
         {!artworkReady ? (
           <div className="banner">
             <p>
-              <strong>No artwork backend is ready.</strong> The test backend proves the workflow with labelled
-              diagrams, which can never pass a sample. Connect ComfyUI (local or a remote GPU session) to draw real
-              pages.
+              <strong>No artwork backend is ready.</strong> The TEST backend can still run the Chapter Test&apos;s
+              production logic and labelled workflow diagrams, but those images are never manga artwork. Connect
+              ComfyUI (local or a remote GPU session) when you are ready to visually calibrate real pages.
             </p>
           </div>
         ) : null}
         <BackendList backends={backends} />
+      </section>
+
+      <section className="block" aria-label="Chapter Test production calibration">
+        <div className="block-head">
+          <h2>Chapter Test · production calibration</h2>
+        </div>
+        <div className="stack">
+          <p className="lead" style={{ margin: 0 }}>
+            Run the committed non-canon calibration package as independent sampler pages. This is where recurring cast,
+            wardrobe stages, environments, quiet acting, ensembles, action and high-intensity effects are checked before
+            official canon rendering.
+          </p>
+          {calibrationRuns.length ? (
+            <div className="list">
+              {calibrationRuns.map((run) => (
+                <RunRow key={run.id} run={run} />
+              ))}
+            </div>
+          ) : (
+            <p className="hint">No Chapter Test run has been started yet.</p>
+          )}
+          <StartCalibration
+            projectId={projectId}
+            episode="S1CAL"
+            documents={calibrationDocuments}
+            backends={backends}
+            profiles={profiles}
+          />
+        </div>
       </section>
 
       {episodes.map((episode) => {

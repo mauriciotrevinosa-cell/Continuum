@@ -40,8 +40,10 @@ pytestmark = pytest.mark.requires_db
 
 PROJECT = rough.PROJECT
 world = rough.world
+settings = rough.settings
 session = rough.session
 catalog = rough.catalog
+worker = rough.worker
 
 
 @pytest.fixture(autouse=True)
@@ -207,7 +209,11 @@ def test_calibration_run_is_isolated_and_preserves_lineage(
 
 
 def test_calibration_approval_never_joins_story_continuity(
-    session: Session, catalog: ReferenceCatalog, world: World, tmp_path: Path
+    session: Session,
+    catalog: ReferenceCatalog,
+    world: World,
+    worker,
+    tmp_path: Path,
 ) -> None:
     """Gap 1: approving a calibration page never adds it to story continuity."""
     from continuum_core.references import CharacterAspect, CharacterOrigin
@@ -276,7 +282,6 @@ def test_calibration_approval_never_joins_story_continuity(
 
     pages = manga.pages(run.id)
     # Render CAL-01 with the artwork page double, then approve it.
-    worker = rough.worker
     worker.providers = artwork_page_registry()
     attempt = manga.request_page_attempt(pages[0].id)
     session.commit()

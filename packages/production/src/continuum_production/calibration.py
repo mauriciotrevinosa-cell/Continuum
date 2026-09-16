@@ -75,6 +75,27 @@ def _episode_stage(source_locator: str) -> str | None:
     return f"E{int(match.group('episode'))}"
 
 
+def _characters(value: str) -> list[str]:
+    """Parse a ``**Characters:**`` value into names.
+
+    A value may be a plain comma list (``Mau, Frieren``) or a labelled list
+    (``current G1 + G2 household: Frieren, Mau, ...``). Only the part after a
+    label colon is a name; a trailing period is dropped. Non-name prose such as
+    ``one ordinary hostile creature`` is left as-is and filtered against known
+    characters later, never fuzzy-inferred.
+    """
+    names: list[str] = []
+    for token in value.split(","):
+        token = token.strip().rstrip(".")
+        if not token:
+            continue
+        if ":" in token:
+            token = token.rsplit(":", 1)[1].strip().rstrip(".")
+        if token:
+            names.append(token)
+    return names
+
+
 def parse_calibration(text: str) -> list[CalibrationPage]:
     """Parse a calibration markdown document into its pages, in document order.
 
@@ -134,9 +155,7 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
             elif key == "source_content":
                 current["source_content"] = value
             elif key == "characters":
-                current["characters"] = [
-                    c.strip().rstrip(".") for c in value.split(",") if c.strip()
-                ]
+                current["characters"] = _characters(value)
             elif key == "wardrobe_stage":
                 current["wardrobe_stage"] = value
             else:
@@ -146,9 +165,7 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
         if bullet and current_field in {"primary_validation", "failure_examples"}:
             current["validation_notes"].append(bullet.group("text").strip().rstrip(";."))
         elif bullet and current_field == "characters":
-            current["characters"].extend(
-                c.strip().rstrip(".") for c in bullet.group("text").split(",") if c.strip()
-            )
+            current["characters"].extend(_characters(bullet.group("text")))
         elif bullet and current_field is not None:
             current["extra"].setdefault(current_field, []).append(bullet.group("text").strip())
     flush()

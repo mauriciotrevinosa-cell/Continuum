@@ -98,6 +98,13 @@ class SampleIn(StrictBody):
     )
 
 
+class CalibrationIn(StrictBody):
+    episode: str = Field(pattern=r"^[A-Za-z0-9][A-Za-z0-9._-]{0,39}$")
+    chapter: int = Field(ge=1, le=1000)
+    document_id: str = Field(pattern=r"^[a-z0-9][a-z0-9-]{0,79}$")
+    profile_id: uuid.UUID
+
+
 class ReadinessIn(StrictBody):
     profile_id: uuid.UUID
     chapters: list[int] = Field(min_length=1, max_length=20)
@@ -324,6 +331,22 @@ def start_run(request: Request, project_id: ProjectId, body: RunIn) -> dict[str,
             profile_id=body.profile_id,
             chapters=body.chapters,
             decisions=[d.decision() for d in body.decisions],
+        )
+        return _run_view(manga, run)
+
+
+@router.post("/projects/{project_id}/calibration-runs", status_code=201)
+def start_calibration(
+    request: Request, project_id: ProjectId, body: CalibrationIn
+) -> dict[str, Any]:
+    """START CALIBRATION from a committed project document (never browser text)."""
+    with manga_scope(request) as manga:
+        run = manga.start_calibration_document(
+            project_id,
+            body.episode,
+            body.chapter,
+            body.document_id,
+            body.profile_id,
         )
         return _run_view(manga, run)
 

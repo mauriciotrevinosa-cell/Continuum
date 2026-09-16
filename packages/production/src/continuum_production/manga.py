@@ -417,6 +417,36 @@ class MangaProduction:
             decisions=decisions,
         )
 
+    def start_calibration_document(
+        self,
+        project_key: str,
+        episode: str,
+        chapter: int,
+        document_id: str,
+        profile_id: uuid.UUID,
+    ) -> ProductionRun:
+        """START CALIBRATION from a committed project document (server-side).
+
+        The calibration document is loaded from the project's committed
+        sources, never from arbitrary browser text.
+        """
+        found = self.projects.document(project_key, document_id)
+        if found is None:
+            raise CatalogNotFoundError(
+                f"The calibration document {document_id} is not available."
+            )
+        _project, document, text = found
+        return self.start_calibration(
+            project_key,
+            episode,
+            chapter,
+            document_id,
+            document.version,
+            _sha(text),
+            text,
+            profile_id,
+        )
+
     def start_calibration(
         self,
         project_key: str,
@@ -598,6 +628,11 @@ class MangaProduction:
         chapters: Sequence[int],
         decisions: Sequence[PlacementDecision] = (),
     ) -> ProductionRun:
+        if purpose is RoughPurpose.CALIBRATION:
+            raise CatalogInputError(
+                "A calibration run starts from its committed calibration document, "
+                "not a panel script."
+            )
         if purpose not in APPROVAL_FOR and purpose is not RoughPurpose.WORKFLOW_TEST:
             raise CatalogInputError(
                 "A production run is a NON_CANON_SAMPLE, PRODUCTION or chapter preview."
@@ -1451,30 +1486,38 @@ class MangaProduction:
             page.reasons = [
                 r for r in page.reasons if r.get("kind") == "MISSING_REQUIRED_REFERENCE"
             ]
-            profile = self.session.get(ProductionProfile, run.profile_id)
-            assert profile is not None
-            approved = [
-                entry
-                for entry in self.current_continuity(run.id).body["approved_pages"]
-                if entry["sequence"] != page.sequence
-            ]
-            approved.append(
-                {
-                    "sequence": page.sequence,
-                    "page_key": page.page_key,
-                    "attempt_id": str(attempt.id),
-                    "master_sha256": master.content_hash,
-                    "bw_sha256": (self._derivative(attempt.id, "BW_FINISH") or master).content_hash,
-                    "color_sha256": (
-                        self._derivative(attempt.id, "COLOR_FINISH") or master
-                    ).content_hash,
-                    "output_class": attempt.output_class.value if attempt.output_class else None,
-                }
-            )
-            approved.sort(key=lambda e: e["sequence"])
-            self._continuity(
-                run, profile, reason=f"page {page.sequence} approved", approved=approved
-            )
+            # A calibration page records its approved attempt and lineage, but
+            # never joins story continuity: calibration is an isolated sampler
+            # and must not bootstrap its own pages into later pages.
+            if run.purpose is not RoughPurpose.CALIBRATION:
+                profile = self.session.get(ProductionProfile, run.profile_id)
+                assert profile is not None
+                approved = [
+                    entry
+                    for entry in self.current_continuity(run.id).body["approved_pages"]
+                    if entry["sequence"] != page.sequence
+                ]
+                approved.append(
+                    {
+                        "sequence": page.sequence,
+                        "page_key": page.page_key,
+                        "attempt_id": str(attempt.id),
+                        "master_sha256": master.content_hash,
+                        "bw_sha256": (
+                            self._derivative(attempt.id, "BW_FINISH") or master
+                        ).content_hash,
+                        "color_sha256": (
+                            self._derivative(attempt.id, "COLOR_FINISH") or master
+                        ).content_hash,
+                        "output_class": attempt.output_class.value
+                        if attempt.output_class
+                        else None,
+                    }
+                )
+                approved.sort(key=lambda e: e["sequence"])
+                self._continuity(
+                    run, profile, reason=f"page {page.sequence} approved", approved=approved
+                )
             if run.purpose is RoughPurpose.PRODUCTION:
                 self._learn_from_approved(page, attempt)
             following = self.session.execute(

@@ -96,6 +96,17 @@ def _characters(value: str) -> list[str]:
     return names
 
 
+def _append_extra_bullet(extra: dict[str, Any], key: str, value: str) -> None:
+    """Preserve unknown fields whether markdown uses inline text, bullets, or both."""
+    existing = extra.get(key)
+    if isinstance(existing, list):
+        existing.append(value)
+    elif existing in (None, ""):
+        extra[key] = [value]
+    else:
+        extra[key] = [existing, value]
+
+
 def parse_calibration(text: str) -> list[CalibrationPage]:
     """Parse a calibration markdown document into its pages, in document order.
 
@@ -170,7 +181,9 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
         elif bullet and current_field == "characters":
             current["characters"].extend(_characters(bullet.group("text")))
         elif bullet and current_field is not None:
-            current["extra"].setdefault(current_field, []).append(bullet.group("text").strip())
+            _append_extra_bullet(
+                current["extra"], current_field, bullet.group("text").strip()
+            )
     flush()
     return pages
 

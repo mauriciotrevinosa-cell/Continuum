@@ -27,7 +27,10 @@ from continuum_library import ReferenceCatalog
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from scripts.audit_character_duplicates import _dependency_counts
+if __package__:
+    from scripts.audit_character_duplicates import _dependency_counts
+else:
+    from audit_character_duplicates import _dependency_counts
 
 _INVENTED_SOURCE_NAMES = frozenset({"frieren", "juniper quill", "kestrel moss"})
 _DEMO_PROJECT_NAMES = frozenset({"mau", "rowan"})

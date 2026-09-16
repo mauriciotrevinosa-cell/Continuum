@@ -157,7 +157,10 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
             elif key == "characters":
                 current["characters"] = _characters(value)
             elif key == "wardrobe_stage":
-                current["wardrobe_stage"] = value
+                # Markdown prose often ends this structured token with sentence
+                # punctuation (for example ``E1.``). Story stages are identifiers,
+                # so punctuation must not become part of the lookup key.
+                current["wardrobe_stage"] = value.rstrip(".,;:").strip() or None
             else:
                 current["extra"][key] = value
             continue

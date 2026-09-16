@@ -14,7 +14,6 @@ from __future__ import annotations
 
 import argparse
 import hashlib
-import os
 import re
 import shutil
 import subprocess
@@ -131,9 +130,8 @@ def _resolve_args(args: argparse.Namespace, parser: argparse.ArgumentParser) -> 
     required = ("checkpoint_url", "checkpoint_name", "version", "license", "source")
     missing = [field for field in required if not getattr(args, field)]
     if missing:
-        parser.error(
-            "missing required model arguments: " + ", ".join("--" + f.replace("_", "-") for f in missing)
-        )
+        flags = ", ".join("--" + field.replace("_", "-") for field in missing)
+        parser.error("missing required model arguments: " + flags)
     return preset
 
 

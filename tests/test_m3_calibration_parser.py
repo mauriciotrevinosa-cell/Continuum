@@ -1,9 +1,10 @@
 """Regression coverage for the committed M3 calibration document parser."""
 
+from __future__ import annotations
+
 from pathlib import Path
 
 from continuum_production.calibration import parse_calibration
-
 
 CALIBRATION_DOC = (
     Path(__file__).resolve().parents[1]
@@ -14,7 +15,9 @@ CALIBRATION_DOC = (
 
 
 def test_real_calibration_document_parses_all_16_pages_and_extra_bullets() -> None:
-    pages = parse_calibration(CALIBRATION_DOC.read_text(encoding="utf-8-sig"))
+    # This committed creative document is UTF-16 LE with a BOM. Match the
+    # encoding on disk instead of silently testing a UTF-8 rewrite of it.
+    pages = parse_calibration(CALIBRATION_DOC.read_text(encoding="utf-16"))
 
     assert [page.cal_id for page in pages] == [f"CAL-{index:02d}" for index in range(1, 17)]
 
@@ -25,7 +28,10 @@ def test_real_calibration_document_parses_all_16_pages_and_extra_bullets() -> No
         "back marking `MAU T`;",
         "number `5`;",
         "readable story-critical personalization;",
-        "use approved/creator-grounded reference treatment rather than inventing sponsor/logo detail.",
+        (
+            "use approved/creator-grounded reference treatment rather than inventing "
+            "sponsor/logo detail."
+        ),
     ]
     assert by_id["CAL-13"].extra["frieren_active_wardrobe_set_for_this_calibration_page"] == [
         "Mau-owned M-H1 orange/black McLaren hoodie;",

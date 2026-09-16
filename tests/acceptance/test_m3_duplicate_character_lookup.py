@@ -28,7 +28,9 @@ def test_by_name_rejects_ambiguous_active_character_names(
     catalog.create_character("Mau", source_label="Invented Almanac")
     session.flush()
 
-    with pytest.raises(CatalogConflictError, match="More than one active character") as exc_info:
+    with pytest.raises(
+        CatalogConflictError, match="More than one active character"
+    ) as exc_info:
         CharacterCorpus(session, catalog).by_name("Mau")
 
     assert exc_info.value.remediation == (

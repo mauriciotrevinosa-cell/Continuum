@@ -18,12 +18,19 @@ export function PageStateChip({ state }: { state: PageState }) {
   return <span className={`chip ${PAGE_STATE_TONE[state] ?? "muted"}`}>{PAGE_STATE_LABEL[state] ?? state}</span>;
 }
 
-/** NON-CANON SAMPLE is never mistaken for canon; canonical production says so too. */
+/** Production purpose is always explicit: calibration and samples never look canonical. */
 export function PurposeBadge({ purpose }: { purpose: string }) {
   if (purpose === "WORKFLOW_TEST") {
     return (
       <span className="sample-badge" title="Test renders only. Never approved, never continuity, never canon.">
         Chapter technical preview · test only
+      </span>
+    );
+  }
+  if (purpose === "CALIBRATION") {
+    return (
+      <span className="sample-badge" title="Production calibration only. Never story continuity or canon.">
+        Chapter Test · calibration
       </span>
     );
   }

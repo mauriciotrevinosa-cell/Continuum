@@ -2,6 +2,10 @@
 
 from __future__ import annotations
 
+import subprocess
+import sys
+from pathlib import Path
+
 import pytest
 from continuum_core.references import CharacterOrigin, OutfitKind
 from continuum_db.models import CharacterOutfit
@@ -20,6 +24,20 @@ pytestmark = pytest.mark.requires_db
 @pytest.fixture(autouse=True)
 def _clean_domain_tables(db_session: Session) -> None:
     clean_domain_tables(db_session)
+
+
+def test_direct_script_entrypoint_imports_successfully() -> None:
+    repo_root = Path(__file__).resolve().parents[2]
+    result = subprocess.run(
+        [sys.executable, "scripts/retire_m3_test_character_pollution.py", "--help"],
+        cwd=repo_root,
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+
+    assert result.returncode == 0, result.stderr
+    assert "Soft-retire known M3 acceptance-test character pollution" in result.stdout
 
 
 def test_fixture_pollution_retires_without_moving_linked_rows(db_session: Session) -> None:

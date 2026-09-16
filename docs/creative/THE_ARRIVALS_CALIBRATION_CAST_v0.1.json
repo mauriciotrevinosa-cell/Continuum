@@ -1,0 +1,148 @@
+{
+  "schema": "continuum.calibration-cast/1",
+  "project_key": "the-arrivals",
+  "version": "0.1",
+  "purpose": "Operational roster for the non-canon 16-page production calibration chapter. This file names who must exist in the Character Vault; it does not approve visual references or create canon.",
+  "groups": {
+    "core9": [
+      {
+        "name": "Frieren",
+        "origin": "SOURCE_WORK",
+        "source_label": "Frieren: Beyond Journey's End",
+        "aliases": ["Frieren: Beyond Journey’s End", "Sousou no Frieren"],
+        "existing_profile_id": "01a09cdd-4391-72dd-8b3e-b7aa0ad6b962",
+        "calibration_pages": ["CAL-04", "CAL-07", "CAL-08", "CAL-09", "CAL-11", "CAL-13"]
+      },
+      {
+        "name": "Fern",
+        "origin": "SOURCE_WORK",
+        "source_label": "Frieren: Beyond Journey's End",
+        "aliases": ["Frieren: Beyond Journey’s End", "Sousou no Frieren"],
+        "existing_profile_id": "01a09cdd-d675-71c9-9ceb-fa37936c62fa",
+        "calibration_pages": ["CAL-05", "CAL-07", "CAL-11"]
+      },
+      {
+        "name": "Mau",
+        "origin": "PROJECT_ORIGINAL",
+        "source_label": "",
+        "project_key": "the-arrivals",
+        "design_documents": [
+          "THE_ARRIVALS_S1_PRODUCTION_CALIBRATION_CHAPTER_v0.1.md",
+          "THE_ARRIVALS_WARDROBE_STORY_INTEGRATION_ADDENDUM_v0.1.md"
+        ],
+        "existing_profile_id": "01a0a1ac-3b87-73ec-82e3-2ca783d4cf38",
+        "calibration_pages": ["CAL-04", "CAL-07", "CAL-08", "CAL-09", "CAL-11", "CAL-12", "CAL-13"]
+      },
+      {
+        "name": "Bocchi",
+        "origin": "SOURCE_WORK",
+        "source_label": "Bocchi the Rock!",
+        "aliases": ["Bocchi the Rock", "Bocchi the Rock!"],
+        "calibration_pages": ["CAL-04", "CAL-06", "CAL-07", "CAL-11"]
+      },
+      {
+        "name": "Yuta",
+        "origin": "SOURCE_WORK",
+        "source_label": "Jujutsu Kaisen",
+        "aliases": ["Jujutsu Kaisen", "Jujutsu Kaisen 0"],
+        "calibration_pages": ["CAL-04", "CAL-07", "CAL-11", "CAL-12"]
+      },
+      {
+        "name": "Rimuru",
+        "origin": "SOURCE_WORK",
+        "source_label": "That Time I Got Reincarnated as a Slime",
+        "aliases": ["That Time I Got Reincarnated as a Slime", "Tensei Shitara Slime Datta Ken"],
+        "calibration_pages": ["CAL-04", "CAL-06", "CAL-07", "CAL-11"]
+      },
+      {
+        "name": "Maomao",
+        "origin": "SOURCE_WORK",
+        "source_label": "The Apothecary Diaries",
+        "aliases": ["The Apothecary Diaries", "Kusuriya no Hitorigoto"],
+        "calibration_pages": ["CAL-05", "CAL-06", "CAL-07", "CAL-11"]
+      },
+      {
+        "name": "Momo",
+        "origin": "SOURCE_WORK",
+        "source_label": "Dandadan",
+        "aliases": ["Dandadan", "DAN DA DAN"],
+        "calibration_pages": ["CAL-05", "CAL-06", "CAL-07", "CAL-11"]
+      },
+      {
+        "name": "Anko",
+        "origin": "SOURCE_WORK",
+        "source_label": "Call of the Night",
+        "aliases": ["Call of the Night", "Yofukashi no Uta"],
+        "calibration_pages": ["CAL-05", "CAL-07", "CAL-11"]
+      }
+    ],
+    "g3": [
+      {
+        "name": "Mikasa",
+        "origin": "SOURCE_WORK",
+        "source_label": "Attack on Titan",
+        "aliases": ["Attack on Titan", "Shingeki no Kyojin"],
+        "calibration_pages": ["CAL-14"]
+      },
+      {
+        "name": "Okarun",
+        "origin": "SOURCE_WORK",
+        "source_label": "Dandadan",
+        "aliases": ["Dandadan", "DAN DA DAN"],
+        "calibration_pages": ["CAL-14"]
+      },
+      {
+        "name": "Umaru",
+        "origin": "SOURCE_WORK",
+        "source_label": "Himouto! Umaru-chan",
+        "aliases": ["Himouto! Umaru-chan", "Himouto Umaru-chan"],
+        "calibration_pages": ["CAL-14"]
+      },
+      {
+        "name": "Kita",
+        "origin": "SOURCE_WORK",
+        "source_label": "Bocchi the Rock!",
+        "aliases": ["Bocchi the Rock", "Bocchi the Rock!"],
+        "calibration_pages": ["CAL-14"]
+      },
+      {
+        "name": "Coco",
+        "origin": "SOURCE_WORK",
+        "source_label": "Witch Hat Atelier",
+        "aliases": ["Witch Hat Atelier", "Tongari Boushi no Atelier"],
+        "calibration_pages": ["CAL-14"]
+      },
+      {
+        "name": "Qifrey",
+        "origin": "SOURCE_WORK",
+        "source_label": "Witch Hat Atelier",
+        "aliases": ["Witch Hat Atelier", "Tongari Boushi no Atelier"],
+        "calibration_pages": ["CAL-14"]
+      },
+      {
+        "name": "Wakana",
+        "origin": "SOURCE_WORK",
+        "source_label": "My Dress-Up Darling",
+        "aliases": ["My Dress-Up Darling", "Sono Bisque Doll wa Koi wo Suru"],
+        "calibration_pages": ["CAL-14"]
+      },
+      {
+        "name": "Marin",
+        "origin": "SOURCE_WORK",
+        "source_label": "My Dress-Up Darling",
+        "aliases": ["My Dress-Up Darling", "Sono Bisque Doll wa Koi wo Suru"],
+        "calibration_pages": ["CAL-14"]
+      }
+    ],
+    "antagonists": [
+      {
+        "name": "Sukuna",
+        "origin": "SOURCE_WORK",
+        "source_label": "Jujutsu Kaisen",
+        "aliases": ["Jujutsu Kaisen"],
+        "notes": "Calibration target is the creator-directed Heian-body design; the roster alone does not approve a specific visual reference.",
+        "calibration_pages": ["CAL-15", "CAL-16"]
+      }
+    ]
+  }
+}

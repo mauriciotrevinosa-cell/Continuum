@@ -43,14 +43,6 @@ world = rough.world
 session = rough.session
 catalog = rough.catalog
 
-
-@pytest.fixture(autouse=True)
-def _clean_domain_tables(session: Session) -> None:
-    """Ensure a clean domain state before each calibration test."""
-    from tests.phase1_world import clean_domain_tables
-
-    clean_domain_tables(session)
-
 CALIBRATION = """# Demo Calibration Chapter v0.1
 
 **Status:** CREATOR-APPROVED PRODUCTION CALIBRATION PACKAGE / NON_CANON

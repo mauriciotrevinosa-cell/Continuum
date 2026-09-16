@@ -53,6 +53,21 @@ export const isDraft = (d: ProjectDocument) =>
 export const isExtra = (d: ProjectDocument) =>
   EXTRA_SECTIONS.includes(d.section) && !HISTORY.includes(d.lifecycle);
 
+/**
+ * Creator ideas that intentionally do not have an episode home yet.
+ *
+ * Explicit IDEA documents are always included. A newly committed provisional
+ * or exploratory document can also appear before the manifest is updated, so
+ * the Ideas view remains useful as a staging area instead of hiding good work
+ * merely because its exact episode placement is still open.
+ */
+export const isIdea = (d: ProjectDocument) => {
+  if (HISTORY.includes(d.lifecycle) || d.episode) return false;
+  if (d.lifecycle === "IDEA") return true;
+  const status = (d.author_status ?? "").toUpperCase();
+  return status.includes("PROVISIONAL") || status.includes("EXPLORATORY") || status.includes("IDEA");
+};
+
 export const KIND_LABELS: Record<string, string> = {
   original: "Original story",
   continuation: "Continuation",
@@ -70,8 +85,8 @@ export interface Section {
 }
 
 /**
- * The workspace's parts. Story, Drafts, Approved and Extras are views over
- * documents; Manga, Anime and Assets hold production artifacts, which
+ * The workspace's parts. Story, Ideas, Drafts, Approved and Extras are views
+ * over documents; Manga, Anime and Assets hold production artifacts, which
  * arrive with the production phases.
  */
 export const SECTIONS: Section[] = [
@@ -80,6 +95,13 @@ export const SECTIONS: Section[] = [
     label: "Story",
     description: "The story itself: spine, arcs and episodes, current versions.",
     select: (d) => d.section === "story" && !HISTORY.includes(d.lifecycle),
+  },
+  {
+    key: "ideas",
+    label: "Ideas & future beats",
+    description:
+      "Creator-directed ideas whose exact episode, chapter or scene placement is still open. Preserved here without pretending they are locked canon.",
+    select: isIdea,
   },
   {
     key: "drafts",

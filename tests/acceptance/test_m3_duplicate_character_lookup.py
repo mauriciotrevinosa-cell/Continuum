@@ -7,18 +7,21 @@ from continuum_library import CatalogConflictError, ReferenceCatalog
 from continuum_production.corpus import CharacterCorpus
 from sqlalchemy.orm import Session
 
-from tests.acceptance import test_phase1_rough_production as rough
 from tests.phase1_world import clean_domain_tables
 
 pytestmark = pytest.mark.requires_db
 
-session = rough.session
-catalog = rough.catalog
+
+@pytest.fixture
+def session(db_session: Session) -> Session:
+    """Use only the isolated ``*_test`` database for destructive fixture cleanup."""
+    clean_domain_tables(db_session)
+    return db_session
 
 
-@pytest.fixture(autouse=True)
-def _clean_domain_tables(session: Session) -> None:
-    clean_domain_tables(session)
+@pytest.fixture
+def catalog(session: Session) -> ReferenceCatalog:
+    return ReferenceCatalog(session)
 
 
 def test_by_name_rejects_ambiguous_active_character_names(

@@ -65,10 +65,24 @@ def _mentions(text: str, name: str) -> int:
 def page_plan(
     page: dict[str, Any], known: Sequence[str], override: dict[str, Any] | None = None
 ) -> dict[str, Any]:
-    """Who appears on the page and what it is about, derived from its script."""
+    """Who appears on the page and what it is about, derived from its script.
+
+    Normal story material is conservative: only names already known to the
+    Character Vault enter the inferred cast. Calibration pages are different:
+    their explicit ``characters`` field is creator-authored test data, so those
+    declared names must survive planning even when their Vault profiles do not
+    exist yet. Grounding validation then reports and blocks the missing profile
+    instead of silently deleting the character from the sampler page.
+    """
     override = override or {}
     by_token = {name.split()[0].lower(): name for name in known}
     by_token.update({name.lower(): name for name in known})
+    declared = [str(name).strip() for name in page.get("characters") or [] if str(name).strip()]
+    calibration = page.get("origin") == "calibration"
+    if calibration:
+        for name in declared:
+            by_token.setdefault(name.split()[0].lower(), name)
+            by_token.setdefault(name.lower(), name)
     directions = " ".join(str(d) for d in page.get("directions") or [])
     speakers = [
         str(line.get("speaker") or "")
@@ -82,7 +96,7 @@ def page_plan(
             speaker.strip().split()[0].lower()
         )
         (mapped if name else unmapped).append(name or speaker)
-    script = [c for c in page.get("characters") or [] if c in known]
+    script = declared if calibration else [c for c in declared if c in known]
     present = list(dict.fromkeys([*script, *mapped]))
     removed = [c for c in override.get("remove") or [] if c in present]
     present = [c for c in present if c not in removed]

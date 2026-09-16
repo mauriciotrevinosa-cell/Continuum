@@ -298,6 +298,10 @@ class RoughPurpose(StrEnum):
     NON_CANON_SAMPLE = "NON_CANON_SAMPLE"
     """A quality-validation sample (real images, invented scene). Non-canon;
     judged for quality, never approved as project artwork."""
+    CALIBRATION = "CALIBRATION"
+    """A production calibration chapter: isolated sampler pages re-materialized
+    from approved source beats. Non-canon; judged for visual quality by the
+    creator. Never story continuity, never canon."""
 
 
 class RenderOutput(StrEnum):

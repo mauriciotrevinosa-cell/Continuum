@@ -20,6 +20,7 @@ from pathlib import Path
 from typing import Any
 
 import pytest
+from continuum_core.corpus import ProductionEvidenceRole
 from continuum_core.references import (
     CharacterAspect,
     CharacterOrigin,
@@ -30,6 +31,7 @@ from continuum_core.references import (
 )
 from continuum_library import CharacterLink, ReferenceCatalog, ReferenceSpec
 from continuum_production import RoughProduction
+from continuum_production.character_models import CharacterModels
 from continuum_production.manga import MangaProduction, _wardrobe_stage
 from continuum_production.wardrobe import Wardrobe
 from continuum_storage import ProjectLibrary
@@ -243,3 +245,110 @@ def test_production_bundle_carries_wardrobe_set_isolated_from_identity(
     assert wardrobe_outfit_ids.isdisjoint(canon_outfit_ids)
     assert all(w["role"] == "WARDROBE" for w in wardrobe_inputs)
     assert all(w["why"] == ["story-stage approved wardrobe set"] for w in wardrobe_inputs)
+
+    # Persisted AttemptInput provenance for wardrobe carries owner/wearer/
+    # borrowed/condition/stage and identity_evidence=False.
+    attempt = manga.request_page_attempt(page.id)
+    session.commit()
+    wardrobe_rows = [row for row in manga.rough.inputs(attempt.id) if row.role.value == "WARDROBE"]
+    assert len(wardrobe_rows) == 3
+    for row in wardrobe_rows:
+        provenance = row.provenance
+        assert "owner_character_id" in provenance
+        assert "wearer_character_id" in provenance
+        assert "borrowed" in provenance
+        assert "condition" in provenance
+        assert "stage" in provenance
+        assert provenance["identity_evidence"] is False
+
+
+def test_pm_wardrobe_and_accessory_evidence_never_enter_canon_identity(
+    session: Session, catalog: ReferenceCatalog, world: World, tmp_path: Path
+) -> None:
+    """Fix A: approved PM WARDROBE/ACCESSORY evidence is never CANON identity input."""
+    projects = _write_project(tmp_path)
+    frieren = catalog.create_character(
+        "Frieren", origin=CharacterOrigin.PROJECT_ORIGINAL, project_key=PROJECT
+    )
+
+    # Grounding: creator photos for identity, body, wardrobe and accessory.
+    catalog.add_upload(
+        picture(1),
+        ReferenceSpec(
+            reference_class=ReferenceClass.CANON,
+            origin=ReferenceOrigin.USER_CREATED,
+            characters=(CharacterLink(frieren.id, CharacterAspect.FACE),),
+        ),
+    )
+    catalog.add_upload(
+        picture(2),
+        ReferenceSpec(
+            reference_class=ReferenceClass.CANON,
+            origin=ReferenceOrigin.USER_CREATED,
+            characters=(CharacterLink(frieren.id, CharacterAspect.FULL_BODY),),
+        ),
+    )
+    outfit = catalog.add_upload(
+        picture(3),
+        ReferenceSpec(
+            reference_class=ReferenceClass.CANON,
+            origin=ReferenceOrigin.USER_CREATED,
+            characters=(CharacterLink(frieren.id, CharacterAspect.OUTFIT),),
+        ),
+    )
+    accessory = catalog.add_upload(
+        picture(4),
+        ReferenceSpec(
+            reference_class=ReferenceClass.CANON,
+            origin=ReferenceOrigin.USER_CREATED,
+            characters=(CharacterLink(frieren.id, CharacterAspect.ACCESSORY),),
+        ),
+    )
+
+    manga = _manga(session, world, projects)
+    manga.corpus.sync_curated(frieren.id)
+    observations = {
+        tuple(sorted(row.facets or [])): row
+        for row in manga.corpus.observations(frieren.id)
+        if row.status == "CONFIRMED" and row.role == "GROUNDING"
+    }
+    face_obs = observations[("FACE",)]
+    body_obs = observations[("BODY",)]
+    wardrobe_obs = observations[("WARDROBE",)]
+    accessory_obs = observations[("ACCESSORY",)]
+
+    model_service = CharacterModels(session)
+    model = model_service.create(PROJECT, frieren.id, name="Frieren production lock")
+    model_service.add_evidence(
+        model.id, face_obs.id, ProductionEvidenceRole.IDENTITY, required=True
+    )
+    model_service.add_evidence(model.id, body_obs.id, ProductionEvidenceRole.BODY, required=True)
+    model_service.add_evidence(model.id, wardrobe_obs.id, ProductionEvidenceRole.WARDROBE)
+    model_service.add_evidence(model.id, accessory_obs.id, ProductionEvidenceRole.ACCESSORY)
+    model_service.submit(model.id)
+    model_service.approve(model.id, "test art director")
+
+    profile = manga.create_profile(PROJECT, "harbor-manga", _profile_body())
+    run = manga.start_run(
+        PROJECT,
+        "S1E18",
+        purpose=RoughPurpose.NON_CANON_SAMPLE,
+        profile_id=profile.id,
+        chapters=[1],
+    )
+    session.commit()
+
+    page = manga.pages(run.id)[0]
+    bundle = manga.assemble(page)
+
+    canon_observation_ids = {c["observation_id"] for c in bundle["canon_inputs"]}
+    # Identity and body evidence remain CANON identity inputs.
+    assert str(face_obs.id) in canon_observation_ids
+    assert str(body_obs.id) in canon_observation_ids
+    # Wardrobe and accessory evidence never enter CANON identity conditioning.
+    assert str(wardrobe_obs.id) not in canon_observation_ids
+    assert str(accessory_obs.id) not in canon_observation_ids
+    # The wardrobe/accessory references themselves are not identity inputs either.
+    canon_reference_ids = {c.get("reference_id") for c in bundle["canon_inputs"]}
+    assert str(outfit.id) not in canon_reference_ids
+    assert str(accessory.id) not in canon_reference_ids

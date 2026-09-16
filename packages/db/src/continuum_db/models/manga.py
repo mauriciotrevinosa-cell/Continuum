@@ -127,7 +127,8 @@ class ProductionRun(Base):
 
     __table_args__ = (
         CheckConstraint(
-            "purpose IN ('PRODUCTION', 'NON_CANON_SAMPLE', 'WORKFLOW_TEST')", name="run_purpose"
+            "purpose IN ('PRODUCTION', 'NON_CANON_SAMPLE', 'WORKFLOW_TEST', 'CALIBRATION')",
+            name="run_purpose",
         ),
         CheckConstraint(
             "status IN ('OPEN', 'SAMPLE_PASSED', 'SAMPLE_FAILED', 'CLOSED')", name="run_status"

@@ -1,5 +1,45 @@
 # M3 work handoff
 
+## Calibration integration checkpoint — non-canon production sampler — 2026-09-16
+
+The S1 production calibration chapter is integrated as a distinct, non-canon
+`CALIBRATION` purpose. The calibration document is consumed as data (parsed,
+never hardcoded), and its pages flow through the same bundle/review path while
+remaining isolated from canon and story continuity.
+
+- `RoughPurpose.CALIBRATION` is a new purpose; a calibration run is a sampler,
+  not a chronological sequence: every page is READY from the start.
+- `continuum_production.calibration` parses a calibration markdown document
+  generically (`## CAL-` sections, source locator, source content, characters,
+  validation notes, wardrobe stage) and produces a materialized-chapter-shaped
+  body. Each page preserves its CAL id, source episode/page locator, source
+  document/version/hash, characters, validation notes and wardrobe stage.
+- Wardrobe resolution is **page-specific** for calibration: each page uses its
+  own source episode's stage (e.g. E2, E14, E18), falling back to the run
+  episode only when no page-specific stage exists. A calibration page never
+  inherits another page's wardrobe stage.
+- A calibration page never authorizes an absent character: only characters
+  named on the page enter its cast.
+
+Two W8 semantic gaps were also closed:
+
+- **Fix A** — approved Production Model WARDROBE/ACCESSORY evidence is never
+  appended as `CANON` identity input. Identity/body/scale evidence remains
+  CANON; wardrobe is resolved per story stage (authoritative) and accessory is
+  a garment detail, never identity.
+- **Fix B** — wardrobe stage is page-specific for calibration (see above).
+
+Schema: migration `0013_m3_calibration_purpose` adds `CALIBRATION` to the
+`rough_purpose` enum checks. Required pre-migration backup:
+`C:/ContinuumData/backups/continuum-pre-0013-20260916-044200.dump` (6,528,110
+bytes).
+
+Validation: `test_m3_calibration.py` (3 tests), `test_m3_wardrobe_bundle.py`
+(3 tests, including Fix A and persisted AttemptInput provenance),
+`test_m3_wardrobe.py` (8), `test_m3_page_production.py` (6),
+`test_110_14_migrations.py`, `test_schema_tiers.py`,
+`test_import_boundaries.py` all pass; ruff and mypy (117 files) clean.
+
 ## W8 checkpoint — Production bundle carries the story-stage wardrobe set — 2026-09-16
 
 W8 closes the PM -> production-render bundle path. The production bundle now
@@ -307,9 +347,9 @@ checks passed at the last commit. The app database is migrated.
 
 ## Database
 
-- App DB `continuum` is at **`0012_m3_wardrobe_bundle_role`**. Backups taken before
+- App DB `continuum` is at **`0013_m3_calibration_purpose`**. Backups taken before
   each migration: `C:/ContinuumData/backups/continuum-pre-0005-*.dump`, `-0006-*`,
-  `-0007-*`, `-0008-*`, `-0009-*`, `-0010-*`, `-0011-*`, `-0012-*`.
+  `-0007-*`, `-0008-*`, `-0009-*`, `-0010-*`, `-0011-*`, `-0012-*`, `-0013-*`.
 - No further migration is pending. Before any new migration: take a
   `pg_dump -Fc` backup first (see `docs/M3_MANGA_PRODUCTION.md`), then
   `uv run --no-sync python -m alembic upgrade head`.

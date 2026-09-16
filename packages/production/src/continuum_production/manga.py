@@ -80,6 +80,7 @@ from continuum_storage import ProjectLibrary, SourceChangedError, SourceUnavaila
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
+from continuum_production.calibration import CALIBRATION_SCHEMA, calibration_body, parse_calibration
 from continuum_production.character_models import CharacterModels
 from continuum_production.corpus import CharacterCorpus, page_needs, setting_tags
 from continuum_production.materialize import (
@@ -107,10 +108,12 @@ PAGE_WORKFLOW = "page.v1"
 APPROVAL_FOR = {
     RoughPurpose.NON_CANON_SAMPLE: ReviewDecision.TECHNICAL_PASS,
     RoughPurpose.PRODUCTION: ReviewDecision.CREATIVE_APPROVE,
+    RoughPurpose.CALIBRATION: ReviewDecision.CREATIVE_APPROVE,
 }
 APPROVED_STATES = {
     RoughPurpose.NON_CANON_SAMPLE: {AttemptState.TECHNICAL_PASS},
     RoughPurpose.PRODUCTION: {AttemptState.CREATIVE_APPROVED, AttemptState.FINAL_APPROVED},
+    RoughPurpose.CALIBRATION: {AttemptState.CREATIVE_APPROVED, AttemptState.FINAL_APPROVED},
 }
 
 
@@ -414,6 +417,124 @@ class MangaProduction:
             decisions=decisions,
         )
 
+    def start_calibration(
+        self,
+        project_key: str,
+        episode: str,
+        chapter: int,
+        document_id: str,
+        document_version: str | None,
+        document_hash: str,
+        text: str,
+        profile_id: uuid.UUID,
+    ) -> ProductionRun:
+        """START CALIBRATION: a non-canon production sampler chapter.
+
+        The calibration document is consumed as data (parsed, never hardcoded).
+        Its pages are isolated sampler pages, never story continuity and never
+        canon. Every page is READY from the start: the chapter is a sampler,
+        not a chronological sequence.
+        """
+        require_project_key(project_key)
+        profile = self.session.get(ProductionProfile, profile_id)
+        if profile is None or profile.project_key != project_key:
+            raise CatalogNotFoundError("That production profile does not exist for the project.")
+        names = tuple(
+            sorted(
+                self.session.execute(
+                    select(CharacterProfile.display_name).where(
+                        CharacterProfile.removed_at.is_(None)
+                    )
+                ).scalars()
+            )
+        )
+        pages = parse_calibration(text)
+        if not pages:
+            raise CatalogInputError("The calibration document has no CAL pages.")
+        body = calibration_body(
+            project_key,
+            episode,
+            chapter,
+            document_id,
+            document_version,
+            document_hash,
+            pages,
+            names,
+        )
+        chapter_row = self._store_calibration_chapter(project_key, episode, chapter, body)
+        run = ProductionRun(
+            project_key=project_key,
+            episode=episode,
+            chapter=chapter,
+            purpose=RoughPurpose.CALIBRATION,
+            profile_id=profile.id,
+            status="OPEN",
+        )
+        self.session.add(run)
+        self.session.flush()
+        self._continuity(run, profile, reason="calibration run started", approved=[])
+        sequence = 0
+        for page in chapter_row.body["pages"]:
+            sequence += 1
+            artifact = RoughArtifact(
+                project_key=project_key,
+                episode=episode,
+                chapter=chapter,
+                page=sequence,
+                panel=None,
+                kind=RoughArtifactKind.PAGE,
+                purpose=RoughPurpose.CALIBRATION,
+                production_run_id=run.id,
+                title=f"{page['page_key']} ({page.get('calibration', {}).get('cal_id', '')})",
+                panel_script_document=document_id,
+                panel_script_version=document_version,
+                brief=" ".join(page["directions"])[:8000],
+            )
+            self.session.add(artifact)
+            self.session.flush()
+            row = ProductionPage(
+                run_id=run.id,
+                sequence=sequence,
+                materialized_chapter_id=chapter_row.id,
+                page_key=page["page_key"],
+                page_hash=page["page_hash"],
+                artifact_id=artifact.id,
+                state="READY",
+                reasons=[],
+            )
+            self.session.add(row)
+            self.session.flush()
+            planned = self._with_plan(row, page)
+            self._record_dependencies(row, planned, profile)
+            self._check_grounding(row, planned)
+        self.session.flush()
+        return run
+
+    def _store_calibration_chapter(
+        self, project_key: str, episode: str, chapter: int, body: dict[str, Any]
+    ) -> MaterializedChapter:
+        existing = self.session.execute(
+            select(MaterializedChapter).where(
+                MaterializedChapter.project_key == project_key,
+                MaterializedChapter.episode == episode,
+                MaterializedChapter.chapter == chapter,
+                MaterializedChapter.body_hash == body["hash"],
+            )
+        ).scalar_one_or_none()
+        if existing is not None:
+            return existing
+        row = MaterializedChapter(
+            project_key=project_key,
+            episode=episode,
+            chapter=chapter,
+            materializer_version=CALIBRATION_SCHEMA,
+            body=body,
+            body_hash=body["hash"],
+        )
+        self.session.add(row)
+        self.session.flush()
+        return row
+
     # =====================================================================
     # Runs
     # =====================================================================
@@ -540,7 +661,12 @@ class MangaProduction:
                     page_hash=page["page_hash"],
                     artifact_id=artifact.id,
                     # A chapter preview renders every page for QA; nothing waits.
-                    state="READY" if sequence == 1 or preview else "WAITING",
+                    # A calibration chapter is a sampler: every page is READY.
+                    state=(
+                        "READY"
+                        if sequence == 1 or preview or purpose is RoughPurpose.CALIBRATION
+                        else "WAITING"
+                    ),
                     reasons=[],
                 )
                 self.session.add(row)
@@ -661,8 +787,13 @@ class MangaProduction:
         if blocked and page.state in {"READY", "WAITING", "BLOCKED"}:
             page.state = "BLOCKED"
         elif not blocked and page.state == "BLOCKED":
-            previous = self._previous(page)
-            page.state = "READY" if previous is None or previous.state == "APPROVED" else "WAITING"
+            if run.purpose is RoughPurpose.CALIBRATION:
+                page.state = "READY"
+            else:
+                previous = self._previous(page)
+                page.state = (
+                    "READY" if previous is None or previous.state == "APPROVED" else "WAITING"
+                )
 
     def _previous(self, page: ProductionPage) -> ProductionPage | None:
         return self.session.execute(
@@ -758,7 +889,7 @@ class MangaProduction:
         inputs: list[dict[str, Any]] = []
         production_models = CharacterModels(self.session)
         wardrobe = Wardrobe(self.session)
-        stage = _wardrobe_stage(run.episode)
+        stage = body.get("calibration", {}).get("wardrobe_stage") or _wardrobe_stage(run.episode)
         wardrobe_inputs: list[dict[str, Any]] = []
         policy = profile.body.get("reference_policy") or {}
         per_character = int(policy.get("per_character", 6))
@@ -803,6 +934,12 @@ class MangaProduction:
             )
             if production_model is not None:
                 for entry in production_model["evidence"]:
+                    # Wardrobe and accessory are never identity. Wardrobe is
+                    # resolved per story stage below (authoritative); accessory
+                    # is a garment detail, not a face/body/scale fact. Neither
+                    # may enter CANON identity conditioning.
+                    if entry["role"] in ("WARDROBE", "ACCESSORY"):
+                        continue
                     inputs.append(
                         {
                             "role": BundleRole.CANON,
@@ -818,9 +955,6 @@ class MangaProduction:
                             ],
                             "production_model_id": production_model["id"],
                             "production_evidence_role": entry["role"],
-                            "outfit_id": production_model["active_outfit_id"]
-                            if entry["role"] == "WARDROBE"
-                            else None,
                         }
                     )
             for entry in found["observations"]:
@@ -1404,8 +1538,15 @@ class MangaProduction:
                 )
             ).scalars()
         }
-        keys = ("item_key", "chapter", "after_base_page", "status", "author", "note")
         current: dict[str, tuple[MaterializedChapter, dict[str, Any]]] = {}
+        if run.purpose is RoughPurpose.CALIBRATION:
+            # A calibration chapter is stored once; its pages are not re-derived
+            # from a panel script.
+            for chapter in chapters.values():
+                for body in chapter.body["pages"]:
+                    current[body["page_key"]] = (chapter, body)
+            return current
+        keys = ("item_key", "chapter", "after_base_page", "status", "author", "note")
         for number, chapter in chapters.items():
             decisions = tuple(
                 PlacementDecision(**{k: d[k] for k in keys}) for d in chapter.body["decisions"]

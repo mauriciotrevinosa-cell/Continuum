@@ -1,5 +1,32 @@
 # M3 work handoff
 
+## W8 checkpoint — Production bundle carries the story-stage wardrobe set — 2026-09-16
+
+W8 closes the PM -> production-render bundle path. The production bundle now
+resolves the **story-stage APPROVED wardrobe set** for each character on a page
+and carries it as a distinct `WARDROBE` role, isolated from identity.
+
+- `Wardrobe.resolve` returns the set of garments a character wears at the
+  page's episode stage (`S1E18` -> `E18`). A wearer may combine borrowed
+  APPROVED PROJECT garments with their own SOURCE/default garments in one set.
+- Each wardrobe input records owner, wearer, `borrowed`, `condition` and stage,
+  and marks `identity_evidence: False`. Wardrobe is never identity: it is a
+  separate role from `CANON`, and a borrowed garment never transfers the
+  owner's identity to the wearer.
+- The bundle stays minimal: only the resolved garments' appearance references
+  (model sheet, else the first reference linked to the outfit) are included,
+  never the whole Vault.
+
+Schema: migration `0012_m3_wardrobe_bundle_role` adds `WARDROBE` to the
+`attempt_input.bundle_role` CHECK constraint. Required pre-migration backup:
+`C:/ContinuumData/backups/continuum-pre-0012-20260916-021100.dump` (6,528,046
+bytes).
+
+Validation: new `tests/acceptance/test_m3_wardrobe_bundle.py` (2 tests) passes;
+`test_m3_wardrobe.py` (8) and `test_m3_page_production.py` (6) pass;
+`test_110_14_migrations.py`, `test_schema_tiers.py`,
+`test_import_boundaries.py` pass; ruff and mypy (116 files) clean.
+
 ## W7 checkpoint — Fresh real-art NON_CANON_SAMPLE from Page 1 — 2026-09-15
 
 W7 verified that the existing production architecture already supports a
@@ -280,9 +307,9 @@ checks passed at the last commit. The app database is migrated.
 
 ## Database
 
-- App DB `continuum` is at **`0011_m3_wardrobe_condition`**. Backups taken before
+- App DB `continuum` is at **`0012_m3_wardrobe_bundle_role`**. Backups taken before
   each migration: `C:/ContinuumData/backups/continuum-pre-0005-*.dump`, `-0006-*`,
-  `-0007-*`, `-0008-*`, `-0009-*`, `-0010-*`, `-0011-*`.
+  `-0007-*`, `-0008-*`, `-0009-*`, `-0010-*`, `-0011-*`, `-0012-*`.
 - No further migration is pending. Before any new migration: take a
   `pg_dump -Fc` backup first (see `docs/M3_MANGA_PRODUCTION.md`), then
   `uv run --no-sync python -m alembic upgrade head`.

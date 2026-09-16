@@ -174,7 +174,7 @@ class TestMigrationRoundTrip:
         home = str(db_settings.data_home)
         _alembic("upgrade", "head", data_home=home)
         current = _alembic("current", data_home=home)
-        assert "0011_m3_wardrobe_condition (head)" in current.stdout
+        assert "0012_m3_wardrobe_bundle_role (head)" in current.stdout
 
 
 @pytest.mark.requires_db

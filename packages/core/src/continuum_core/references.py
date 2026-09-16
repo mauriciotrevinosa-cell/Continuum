@@ -248,6 +248,9 @@ class BundleRole(StrEnum):
     """A manga page used for structure: panel rhythm, flow, pacing. Never identity."""
     ENVIRONMENT = "ENVIRONMENT"
     """A page used for how a place is drawn. Never overrides the project's own setting canon."""
+    WARDROBE = "WARDROBE"
+    """A garment a character wears at a story stage. Never identity: a borrowed
+    garment keeps its owner and never transfers the owner's identity to the wearer."""
 
 
 class RoughMode(StrEnum):

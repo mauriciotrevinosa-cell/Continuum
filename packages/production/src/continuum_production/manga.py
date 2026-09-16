@@ -32,6 +32,7 @@ from __future__ import annotations
 
 import datetime as dt
 import hashlib
+import re
 import uuid
 from collections import Counter
 from collections.abc import Callable, Mapping, Sequence
@@ -54,6 +55,7 @@ from continuum_db.models import (
     CatalogEntry,
     CatalogUnit,
     CharacterObservation,
+    CharacterOutfit,
     CharacterProfile,
     ContinuityState,
     MaterializedChapter,
@@ -61,6 +63,7 @@ from continuum_db.models import (
     ProductionPage,
     ProductionProfile,
     ProductionRun,
+    ReferenceCharacter,
     ReferenceDescriptor,
     ReferenceItem,
     RoughArtifact,
@@ -88,6 +91,7 @@ from continuum_production.materialize import (
 )
 from continuum_production.plan import page_plan, page_references
 from continuum_production.service import RoughProduction
+from continuum_production.wardrobe import Wardrobe
 
 __all__ = [
     "PAGE_WORKFLOW",
@@ -116,6 +120,18 @@ def _now() -> dt.datetime:
 
 def _sha(text: str) -> str:
     return hashlib.sha256(text.encode("utf-8")).hexdigest()
+
+
+def _wardrobe_stage(episode: str) -> str:
+    """The wardrobe stage a page resolves at: the episode's E-code.
+
+    Wardrobe wear assignments are keyed by a free-form story stage. For
+    production, the page's episode is the stage (``S1E18`` -> ``E18``). A page
+    that needs a finer semantic stage can be given one explicitly later; the
+    bundle never guesses one.
+    """
+    match = re.search(r"E(\d+)$", episode)
+    return f"E{int(match.group(1))}" if match else episode
 
 
 # ---------------------------------------------------------------------------
@@ -741,6 +757,9 @@ class MangaProduction:
         characters = []
         inputs: list[dict[str, Any]] = []
         production_models = CharacterModels(self.session)
+        wardrobe = Wardrobe(self.session)
+        stage = _wardrobe_stage(run.episode)
+        wardrobe_inputs: list[dict[str, Any]] = []
         policy = profile.body.get("reference_policy") or {}
         per_character = int(policy.get("per_character", 6))
         candidates_allowed = bool(
@@ -764,6 +783,7 @@ class MangaProduction:
             model_observation_ids = {
                 entry["observation_id"] for entry in (production_model or {}).get("evidence", [])
             }
+            resolved_wardrobe = wardrobe.resolve(run.project_key, character_id, stage)
             characters.append(
                 {
                     "name": name,
@@ -778,6 +798,7 @@ class MangaProduction:
                     "forbidden": self.corpus.forbidden(self.corpus.character(character_id)),
                     "rules": rule,
                     "production_model": production_model,
+                    "wardrobe": resolved_wardrobe,
                 }
             )
             if production_model is not None:
@@ -828,6 +849,25 @@ class MangaProduction:
                         "status": entry["status"],
                         "facets": entry["facets"],
                         "why": ["stylization - never identity"],
+                    }
+                )
+            for garment in resolved_wardrobe:
+                appearance = self._outfit_appearance_reference(uuid.UUID(garment["outfit_id"]))
+                if appearance is None:
+                    continue
+                wardrobe_inputs.append(
+                    {
+                        "role": BundleRole.WARDROBE,
+                        "outfit_id": garment["outfit_id"],
+                        "name": garment["name"],
+                        "reference_id": str(appearance),
+                        "character": name,
+                        "owner_character_id": garment["owner_character_id"],
+                        "wearer_character_id": garment["wearer_character_id"],
+                        "borrowed": garment["borrowed"],
+                        "condition": garment["condition"],
+                        "stage": garment["stage"],
+                        "why": ["story-stage approved wardrobe set"],
                     }
                 )
         grammar_policy = profile.body.get("grammar") or {}
@@ -896,6 +936,7 @@ class MangaProduction:
             "plan": body["plan"],
             "characters": characters,
             "canon_inputs": [{**i, "role": i["role"].value} for i in inputs],
+            "wardrobe_inputs": [{**i, "role": i["role"].value} for i in wardrobe_inputs],
             "grammar": grammar,
             "technique": references["technique"],
             "environment": environment,
@@ -949,6 +990,25 @@ class MangaProduction:
             ).scalars()
             if key
         }
+
+    def _outfit_appearance_reference(self, outfit_id: uuid.UUID) -> uuid.UUID | None:
+        """The reference that shows a garment's appearance: its model sheet, else
+        the first reference linked to the outfit. Wardrobe is never identity."""
+        outfit = self.session.get(CharacterOutfit, outfit_id)
+        if outfit is None or outfit.removed_at is not None:
+            return None
+        if outfit.model_sheet_reference_id is not None:
+            return outfit.model_sheet_reference_id
+        return self.session.execute(
+            select(ReferenceCharacter.reference_id)
+            .join(ReferenceItem, ReferenceItem.id == ReferenceCharacter.reference_id)
+            .where(
+                ReferenceCharacter.outfit_id == outfit_id,
+                ReferenceItem.removed_at.is_(None),
+            )
+            .order_by(ReferenceCharacter.created_at, ReferenceCharacter.id)
+            .limit(1)
+        ).scalar_one_or_none()
 
     def _environment_references(self, tags: Sequence[str], limit: int) -> list[dict[str, Any]]:
         if not tags:
@@ -1054,6 +1114,32 @@ class MangaProduction:
                             else {}
                         ),
                         **({"origin": item.origin.value} if item else {"kind": "source_page"}),
+                    },
+                }
+            )
+        for entry in bundle.get("wardrobe_inputs", []):
+            reference_id = uuid.UUID(entry["reference_id"])
+            item = self.catalog.reference(reference_id)
+            inputs.append(
+                {
+                    "position": len(inputs),
+                    "role": BundleRole.WARDROBE,
+                    "reference_id": reference_id,
+                    "locator": item.locator,
+                    "unit_index": item.unit_index,
+                    "region": None,
+                    "character_id": uuid.UUID(entry["wearer_character_id"]),
+                    "outfit_id": uuid.UUID(entry["outfit_id"]),
+                    "aspect": None,
+                    "label": f"{entry['character']} wears {entry['name']}"[:300],
+                    "provenance": {
+                        "owner_character_id": entry["owner_character_id"],
+                        "wearer_character_id": entry["wearer_character_id"],
+                        "borrowed": entry["borrowed"],
+                        "condition": entry["condition"],
+                        "stage": entry["stage"],
+                        "why": entry["why"],
+                        "identity_evidence": False,
                     },
                 }
             )

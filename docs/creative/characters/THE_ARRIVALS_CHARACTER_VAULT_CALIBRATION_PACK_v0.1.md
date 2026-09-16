@@ -1,54 +1,137 @@
 # The Arrivals — Character Vault Calibration Pack v0.1
 
 Status: CALIBRATION / NON_CANON
-Purpose: quick Vault grounding package before production tests.
+Purpose: minimum viable Character Vault package required to begin Chapter Test production validation.
 
-This pack is a lightweight character checklist. It does not replace approved Character Production Models or confirmed Vault evidence.
+This is not the final Character Production Model. It exists so the generator can test identity consistency, wardrobe separation, acting range, and reference grounding before Claude/Work refinement.
 
-## Core G1
+## Core G1 — Chapter Test minimum
 
-- Frieren
-  - identity: confirmed character profile required
-  - focus: face, hair, expression range, calm acting, magic posture
+### Frieren
+- role: emotional anchor / long-lived mage
+- identity anchors:
+  - elf appearance
+  - silver hair
+  - calm, restrained expression language
+  - composed magical posture
+- wardrobe:
+  - mage clothing silhouette
+  - avoid replacing identity with generic fantasy mage designs
+- acting priority:
+  - subtle emotions
+  - quiet concern
+  - protective reactions toward Mau
 
-- Mau
-  - identity: creator/project priority
-  - focus: face, proportions, jersey/hoodie wardrobe separation, quiet acting
+### Mau
+- role: protagonist / unknown power anomaly
+- identity anchors:
+  - human teenager/young adult silhouette
+  - recognizable face and hair consistency
+  - normal clothing baseline before power reveals
+- wardrobe:
+  - jersey/hoodie casual identity
+  - separate combat/power-state clothing
+- acting priority:
+  - vulnerability
+  - determination
+  - fear hidden behind calm
+- special:
+  - Hollow Purple event references remain restricted until story approval
 
-- Bocchi
-  - focus: silhouette, hair, instrument interaction, anxious expressions
+### Bocchi
+- role: emotional/comedy group member
+- identity anchors:
+  - pink hair
+  - guitar association
+  - anxious body language
+- acting priority:
+  - nervous expressions
+  - awkward movement
 
-- Yuta
-  - focus: athletic body language, action poses, training/combat readability
+### Yuta
+- role: combat support / trusted observer
+- identity anchors:
+  - young swordsman silhouette
+  - controlled combat posture
+- acting priority:
+  - protective behavior
+  - serious reactions during danger
 
-- Rimuru
-  - focus: non-human identity handling, scale, expressions, transformation-safe references
+### Rimuru
+- role: non-human perspective / companion
+- identity anchors:
+  - slime form
+  - humanoid form distinction
+- production rule:
+  - do not force human anatomy onto slime scenes
+- acting priority:
+  - curiosity
+  - empathy
 
-## Core G2
+## Core G2 — Required supporting calibration
 
-- Fern
-  - focus: face consistency, robe silhouette, composed expressions
+### Fern
+- identity anchors:
+  - purple hair
+  - mage robe silhouette
+  - disciplined expression
+- priority:
+  - calm reactions
+  - magic scenes
 
-- Anko
-  - focus: unique silhouette, expression contrast, group readability
+### Anko
+- identity anchors:
+  - unique silhouette required before production lock
+- priority:
+  - group readability
+  - relationship scenes
 
-- Maomao
-  - focus: facial acting, work props, clinic/workroom grounding
+### Maomao
+- identity anchors:
+  - analytical expression style
+  - medicine/work props
+- priority:
+  - investigation scenes
+  - detailed reactions
 
-- Momo
-  - focus: food/work interactions, domestic acting, ensemble placement
+### Momo
+- identity anchors:
+  - domestic/group interaction role
+- priority:
+  - ensemble scenes
+  - everyday acting
 
 ## Late calibration targets
 
-- G3 group
-  - Okarun / Umaru / Kita
-  - Coco / Qifrey / Wakana / Marin
-  - Mikasa
+### G3
+Initial target list:
+- Okarun
+- Umaru
+- Kita
+- Coco
+- Qifrey
+- Wakana
+- Marin
+- Mikasa
 
-- Sukuna
-  - high-intensity supernatural calibration only
-  - must remain isolated from unrelated canon scenes
+Purpose:
+- test larger ensemble scenes
+- validate group continuity
+- prepare future arcs
 
-## Production rule
+### Sukuna
+Priority: separate high-risk calibration.
 
-Character Vault references inform identity grounding. Wardrobe, style references, and borrowed clothing must not overwrite character identity.
+Rules:
+- supernatural intensity only
+- do not place into normal scenes accidentally
+- preserve threat/aura consistency
+- scenes involving Mau's death event remain story-controlled, not generator assumptions
+
+## Shared production rules
+
+1. Character identity is independent from wardrobe.
+2. Borrowed clothing does not change character identity.
+3. Style references guide rendering, not canon replacement.
+4. Missing references should produce BLOCKED/needs review, not invented certainty.
+5. This pack feeds Chapter Test validation only; final Vault quality pass happens later.

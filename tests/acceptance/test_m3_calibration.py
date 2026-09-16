@@ -6,7 +6,8 @@ Pinned with invented characters and an invented calibration document:
   source content, characters, validation notes, wardrobe stage);
 * a calibration run is a distinct CALIBRATION purpose, never canon and never
   story continuity;
-* every calibration page is READY from the start (a sampler, not a sequence);
+* calibration pages are independent (never WAITING on a prior sampler page),
+  while missing grounding blocks only the affected page;
 * each page preserves its CAL id, source locator, source document and version;
 * a calibration page never authorizes an absent character: only characters
   named on the page enter its cast;
@@ -187,8 +188,9 @@ def test_calibration_run_is_isolated_and_preserves_lineage(
     assert run.purpose is RoughPurpose.CALIBRATION
     pages = manga.pages(run.id)
     assert len(pages) == 3
-    # A sampler, not a sequence: every page is READY.
-    assert [p.state for p in pages] == ["READY", "READY", "READY"]
+    # A sampler has no sequential WAITING state. Missing cast grounding blocks
+    # only that sampler page instead of silently removing the declared cast.
+    assert [p.state for p in pages] == ["READY", "READY", "BLOCKED"]
 
     body = manga.page_body(pages[0])
     assert body["origin"] == "calibration"
@@ -201,6 +203,17 @@ def test_calibration_run_is_isolated_and_preserves_lineage(
     # CAL-01 names no characters, so its cast is empty; CAL-02 names both.
     assert manga.page_body(pages[0])["characters"] == []
     assert set(manga.page_body(pages[1])["characters"]) == {"Aster Vale", "Rowan"}
+
+    # Missing profiles remain visible and block their page; they are never
+    # silently filtered out of the calibration package.
+    cal03 = manga.page_body(pages[2])
+    assert set(cal03["characters"]) == {"Mau", "Frieren"}
+    assert set(cal03["calibration"]["missing_character_profiles"]) == {"Mau", "Frieren"}
+    assert {
+        reason["key"]
+        for reason in pages[2].reasons
+        if reason["kind"] == "MISSING_REQUIRED_REFERENCE"
+    } == {"Mau", "Frieren"}
 
     # A calibration page never authorizes an absent character: CAL-01 has no
     # cast, so it cannot introduce Rowan or Aster.

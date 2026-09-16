@@ -76,13 +76,13 @@ def _episode_stage(source_locator: str) -> str | None:
 
 
 def _characters(value: str) -> list[str]:
-    """Parse a ``**Characters:**`` value into names.
+    """Parse a ``**Characters:**`` value into proper-name tokens.
 
     A value may be a plain comma list (``Mau, Frieren``) or a labelled list
     (``current G1 + G2 household: Frieren, Mau, ...``). Only the part after a
-    label colon is a name; a trailing period is dropped. Non-name prose such as
-    ``one ordinary hostile creature`` is left as-is and filtered against known
-    characters later, never fuzzy-inferred.
+    label colon is a name; a trailing period is dropped. Lower-case prose such
+    as ``one ordinary hostile creature`` describes scene content, not a stable
+    character identity, so it is intentionally excluded from the cast field.
     """
     names: list[str] = []
     for token in value.split(","):
@@ -91,7 +91,7 @@ def _characters(value: str) -> list[str]:
             continue
         if ":" in token:
             token = token.rsplit(":", 1)[1].strip().rstrip(".")
-        if token:
+        if token and not token[0].islower():
             names.append(token)
     return names
 
@@ -191,12 +191,17 @@ def calibration_body(
     (``page_key``, ``directions``, ``characters``, ``intents``, ``lineage``),
     so calibration pages flow through the same bundle and review path while
     remaining a distinct, non-canon purpose.
+
+    Declared character names are never silently removed because a Vault profile
+    is missing. They remain on the page so production grounding can mark that
+    page BLOCKED with ``MISSING_REQUIRED_REFERENCE`` until the profile exists.
     """
     known = set(character_names)
     sequence: list[dict[str, Any]] = []
     for index, page in enumerate(pages, start=1):
         directions = [page.source_content] if page.source_content else []
-        present = [c for c in page.characters if c in known]
+        declared = list(page.characters)
+        missing_profiles = [name for name in declared if name not in known]
         everything = " ".join([page.title, page.source_content, *page.validation_notes])
         body = {
             "base_page": None,
@@ -205,8 +210,8 @@ def calibration_body(
             "directions": directions,
             "dialogue": [],
             "constraints": [],
-            "characters": present,
-            "intents": page_intents(everything, 0, present),
+            "characters": declared,
+            "intents": page_intents(everything, 0, declared),
             "chapter_end": False,
             "origin": "calibration",
             "integrated_page": index,
@@ -216,6 +221,7 @@ def calibration_body(
                 "source_locator": page.source_locator,
                 "wardrobe_stage": page.wardrobe_stage or _episode_stage(page.source_locator),
                 "validation_notes": list(page.validation_notes),
+                "missing_character_profiles": missing_profiles,
                 "extra": page.extra,
             },
             "lineage": {

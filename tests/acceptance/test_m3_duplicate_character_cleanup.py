@@ -7,18 +7,21 @@ from continuum_library import ReferenceCatalog
 from sqlalchemy.orm import Session
 
 from scripts.audit_character_duplicates import _retirement_plan
-from tests.acceptance import test_phase1_rough_production as rough
 from tests.phase1_world import clean_domain_tables
 
 pytestmark = pytest.mark.requires_db
 
-session = rough.session
-catalog = rough.catalog
+
+@pytest.fixture
+def session(db_session: Session) -> Session:
+    """Use only the isolated ``*_test`` database for destructive fixture cleanup."""
+    clean_domain_tables(db_session)
+    return db_session
 
 
-@pytest.fixture(autouse=True)
-def _clean_domain_tables(session: Session) -> None:
-    clean_domain_tables(session)
+@pytest.fixture
+def catalog(session: Session) -> ReferenceCatalog:
+    return ReferenceCatalog(session)
 
 
 def test_retirement_plan_skips_polluted_profile_with_linked_data(

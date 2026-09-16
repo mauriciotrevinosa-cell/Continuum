@@ -37,7 +37,8 @@ def _dependency_counts(session: Session, character_id: uuid.UUID) -> dict[str, i
     protects that profile from automatic retirement.
     """
     counts: dict[str, int] = {}
-    for table in CharacterProfile.metadata.sorted_tables:
+    tables = sorted(CharacterProfile.metadata.tables.values(), key=lambda table: table.name)
+    for table in tables:
         if table is CharacterProfile.__table__:
             continue
         for column in table.c:

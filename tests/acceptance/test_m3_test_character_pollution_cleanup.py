@@ -72,8 +72,9 @@ def test_fixture_pollution_retires_without_moving_linked_rows(db_session: Sessio
     assert robe is not None and robe.character_id == polluted_frieren.id
     assert hoodie is not None and hoodie.character_id == polluted_mau.id
 
-    assert catalog.by_name("Frieren").id == canonical_frieren.id
-    assert catalog.by_name("Mau").id == canonical_mau.id
+    active_by_name = {row.display_name: row for row in catalog.list_characters()}
+    assert active_by_name["Frieren"].id == canonical_frieren.id
+    assert active_by_name["Mau"].id == canonical_mau.id
 
 
 def test_unknown_duplicate_group_blocks_cleanup(db_session: Session) -> None:

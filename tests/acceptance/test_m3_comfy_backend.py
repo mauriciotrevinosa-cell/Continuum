@@ -177,10 +177,11 @@ def _request(references: tuple[ArtworkReference, ...] = ()) -> PageRenderRequest
 
 
 def _ref(role: str, name: str, **provenance: Any) -> ArtworkReference:
+    shade = 120 + sum(name.encode("utf-8")) % 100
     return ArtworkReference(
         role=role,
         reference_id=name,
-        data=_png(64, 64, 200),
+        data=_png(64, 64, shade),
         character="Aster Vale",
         provenance=provenance,
     )
@@ -275,14 +276,15 @@ def test_render_returns_reproducible_sibling_finishes(comfy: FakeComfy) -> None:
         "glasses" in provenance["settings"]["negative"]
         and "HUD" in provenance["settings"]["negative"]
     )
-    # Two identity images and the master were uploaded - nothing else.
-    assert len(comfy.uploads) == 3 and comfy.uploads[-1].startswith("continuum-master-")
-    master_graph, color_graph = comfy.prompts
+    # The panel-first workflow uploads only the two identity images. It does
+    # not upload/re-diffuse the assembled master for a second whole-page pass.
+    assert len(comfy.uploads) == 2
+    assert all(not name.startswith("continuum-master-") for name in comfy.uploads)
+    assert len(comfy.prompts) == 1
+    master_graph = comfy.prompts[0]
     assert {n["class_type"] for n in master_graph.values()} >= {"IPAdapterAdvanced", "KSampler"}
-    assert any(
-        n["class_type"] == "LoadImage" and n["inputs"]["image"] == comfy.uploads[-1]
-        for n in color_graph.values()
-    )
+    assert result.color.data == result.master.data
+    assert provenance["settings"]["panel_first"] is True
 
 
 def test_remote_refuses_source_excerpts_unless_allowed(comfy: FakeComfy) -> None:

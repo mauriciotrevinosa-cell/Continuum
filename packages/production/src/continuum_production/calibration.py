@@ -197,7 +197,6 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
             value = _clean(field.group("value"))
             current_field = key
             if key == "source":
-                # "Source:" names the document and the episode/page locator.
                 current["source_document"] = value.split("—")[0].strip().strip("`")
                 current["source_locator"] = value
                 current["wardrobe_stage"] = _episode_stage(value)
@@ -206,12 +205,8 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
             elif key == "characters":
                 current["characters"] = _characters(value)
             elif key == "wardrobe_stage":
-                # Markdown prose often ends this structured token with sentence
-                # punctuation (for example ``E1.``). Story stages are identifiers,
-                # so punctuation must not become part of the lookup key.
                 current["wardrobe_stage"] = value.rstrip(".,;:").strip() or None
             elif key in {"primary_validation", "failure_examples"}:
-                # Most pages use bullets, but inline failure examples also occur.
                 _append_note(current, key, value)
             else:
                 current["extra"][key] = value
@@ -239,8 +234,9 @@ def _production_directions(page: CalibrationPage) -> list[str]:
     # Structured calibration fields that describe page construction, wardrobe
     # or required visual truth are not metadata-only: they must reach the image
     # model. Preserve their markdown labels so the instruction remains legible.
+    routed_keys = ("page_construction", "required", "wardrobe", "override")
     for key, value in page.extra.items():
-        if not any(token in key for token in ("page_construction", "required", "wardrobe", "override")):
+        if not any(token in key for token in routed_keys):
             continue
         label = key.replace("_", " ").upper()
         values = value if isinstance(value, list) else [value]
@@ -261,17 +257,7 @@ def calibration_body(
     pages: list[CalibrationPage],
     character_names: tuple[str, ...],
 ) -> dict[str, Any]:
-    """A materialized-chapter-shaped body for a calibration chapter.
-
-    The body reuses the page structure the production loop already consumes
-    (``page_key``, ``directions``, ``characters``, ``intents``, ``lineage``),
-    so calibration pages flow through the same bundle and review path while
-    remaining a distinct, non-canon purpose.
-
-    Declared character names are never silently removed because a Vault profile
-    is missing. They remain on the page so production grounding can mark that
-    page BLOCKED with ``MISSING_REQUIRED_REFERENCE`` until the profile exists.
-    """
+    """A materialized-chapter-shaped body for a calibration chapter."""
     known = set(character_names)
     sequence: list[dict[str, Any]] = []
     for index, page in enumerate(pages, start=1):

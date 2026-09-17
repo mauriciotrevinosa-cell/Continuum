@@ -42,7 +42,7 @@ def _git_rev(path: Path) -> str | None:
 
 def _file_record(path: Path, root: Path) -> dict[str, Any]:
     return {
-        "path": str(path.relative_to(root)),
+        "path": path.relative_to(root).as_posix(),
         "bytes": path.stat().st_size,
         "sha256": _sha256(path),
     }

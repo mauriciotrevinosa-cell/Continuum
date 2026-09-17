@@ -19,7 +19,12 @@ from continuum_core import BlockedReason, ProviderUnavailableError
 from continuum_providers.contracts import Capability, DataClass, Provider, ProviderDescriptor
 from continuum_providers.policy import PolicyDecision, ProviderPolicy
 
-__all__ = ["ProviderRegistry", "artwork_backends", "build_default_registry"]
+__all__ = [
+    "ProviderRegistry",
+    "artwork_backends",
+    "artwork_production_gaps",
+    "build_default_registry",
+]
 
 
 class ProviderRegistry:
@@ -116,7 +121,7 @@ def build_default_registry(
     return registry
 
 
-def _production_gaps(state: dict[str, Any]) -> list[str]:
+def artwork_production_gaps(state: dict[str, Any]) -> list[str]:
     """What still prevents a real, identity-grounded manga render.
 
     ``ready`` intentionally remains the provider-level health check: Comfy can
@@ -173,7 +178,7 @@ def artwork_backends(
         provider = registered.get(provider_id)
         if isinstance(provider, ComfyPageProvider):
             state = {**provider.status(refresh=True).as_dict(), "output": "ARTWORK_CANDIDATE"}
-            gaps = _production_gaps(state)
+            gaps = artwork_production_gaps(state)
             state["production_ready"] = not gaps
             state["production_gaps"] = gaps
             out.append(state)

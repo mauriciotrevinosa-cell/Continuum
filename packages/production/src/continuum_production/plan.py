@@ -121,7 +121,10 @@ def _render_panels(
         # denser review direction, so without explicit construction it remains
         # one bounded render rather than inventing a panel breakdown.
         if page.get("origin") != "calibration" and 1 <= len(authored) <= 8:
-            beats = [(number, direction, None) for number, direction in enumerate(authored, start=1)]
+            beats = [
+                (number, direction, None)
+                for number, direction in enumerate(authored, start=1)
+            ]
         else:
             source = authored[0] if authored else str(page.get("label") or "page composition")
             beats = [(1, source, None)]

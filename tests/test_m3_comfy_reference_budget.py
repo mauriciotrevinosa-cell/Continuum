@@ -119,6 +119,12 @@ def test_real_calibration_validation_becomes_render_direction_and_failure_constr
     assert any(item.startswith("MUST SHOW:") for item in cal01["directions"])
     assert any("dense roofscape" in item for item in cal01["constraints"])
 
+    cal12 = body["pages"][11]
+    cal12_plan = page_plan(cal12, ["Mau", "Yuta"])
+    assert len(cal12_plan["render_panels"]) == 4
+    assert cal12_plan["render_panels"][1]["characters"] == ["Yuta"]
+    assert cal12_plan["render_panels"][3]["characters"] == ["Mau"]
+
     cal17 = body["pages"][16]
     assert any("PAGE CONSTRUCTION: Panel 1" in item for item in cal17["directions"])
     assert any("Yuta or Okarun carries the wrong person" in item for item in cal17["constraints"])

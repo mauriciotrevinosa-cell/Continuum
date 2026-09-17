@@ -114,6 +114,9 @@ Each page below points to an existing approved source beat wherever possible. Do
 **Source:** `THE_ARRIVALS_S1E2_FIRST_HOME_MANGA_PANEL_SCRIPT_v0.1.md` — E2 Page 11.  
 **Source content:** Wide rural establishing shot from the entering lane. This is a tiny abandoned settlement enclosed by forest, not a town: roughly five small damaged houses with partially or fully collapsed roofs surround the largest surviving building, the inn. Keep open ground between structures. The cultivation plot and well belong beside the inn on its service side; a low hill with one prominent shade tree rises behind it. A narrow lake path leaves the settlement, while the former mercantile route is so overgrown it does not initially read as a usable road. No smoke and no people.
 
+**Page construction:**
+- Panel 1: full-page wide establishing view from the entering lane. Environment only; no people. Keep the tiny settlement readable as discrete structures with the inn dominant in the midground.
+
 **Primary validation:**
 - the inn is the largest surviving building and the visual household center, clearly readable in the midground rather than buried inside a dense roofscape;
 - roughly five small abandoned houses surround it with partial/full roof collapse and believable finite salvage, not dozens of tightly packed buildings;
@@ -132,6 +135,9 @@ Each page below points to an existing approved source beat wherever possible. Do
 **Source:** `THE_ARRIVALS_S1E2_FIRST_HOME_MANGA_PANEL_SCRIPT_v0.1.md` — E2 Page 18.  
 **Source content:** First common-room reveal inside the same inn from CAL-01. Establish a reusable ground-floor composition: the entry transitions from covered porch to a small muddy-boots/shoe-removal zone and one raised step into the common-room floor. The room contains the large shared-table zone, hearth/chimney, clear circulation, an open or semi-open kitchen/service side, visible main-stair access, and the rear/service direction toward the well/cultivation side. At this early state show broken glass, water damage, damaged surfaces and scattered debris; the room is salvageable but still a ruin.
 
+**Page construction:**
+- Panel 1: full-page wide interior reveal from the entry threshold. Environment only; no people. Camera must clearly establish the shared-table zone, hearth/chimney, kitchen/service side, stairs and rear/service direction in one reusable composition.
+
 **Primary validation:**
 - establish fixed repeatable geometry for entry threshold, shared-table zone, hearth/chimney, kitchen/service side, stairs and rear/service direction;
 - the hearth/chimney is an architectural anchor, not a movable decorative fireplace;
@@ -148,6 +154,9 @@ Each page below points to an existing approved source beat wherever possible. Do
 
 **Source:** `THE_ARRIVALS_S1E2_FIRST_HOME_MANGA_PANEL_SCRIPT_v0.1.md` — E2 Page 31.  
 **Source content:** Revisit the exact CAL-02 common-room shell after the first practical repairs. Keep the same entry threshold, table zone, hearth/chimney, open/semi-open kitchen side, main stairs and rear/service orientation. The fire now works; debris has been consolidated; one damaged window is boarded; travel things are organized; two bedroll areas begin to exist. The room remains visibly damaged and unfinished.
+
+**Page construction:**
+- Panel 1: full-page wide interior revisit from the same camera family as CAL-02. Environment only; no people. Preserve every architectural anchor while showing only the first practical repairs.
 
 **Primary validation:**
 - same room, same architecture and same anchor positions as CAL-02; improvement comes from repair state, not a new design;
@@ -167,6 +176,12 @@ Each page below points to an existing approved source beat wherever possible. Do
 **Source content:** Late-morning ordinary-life baseline at the established inn/base. Preserve the same small forest settlement and the same inn geography: the inn dominates the surviving cluster; the service side relates to the well/cultivation plot and the low hill/tree remains behind. Frieren and Mau eat together; Bocchi's guitar activity belongs to the home; Rimuru works; Yuta trains at a readable distance. This is calm domestic life, not a hero lineup.
 
 **Characters:** Frieren, Mau, Bocchi, Rimuru, Yuta.
+
+**Page construction:**
+- Panel 1: wide exterior/home establishing panel. Frieren and Mau share a late-morning meal in relaxed body language; the established inn and service-side geography remain readable.
+- Panel 2: medium domestic panel on Bocchi using/playing her guitar as an ordinary part of home life; no hero pose.
+- Panel 3: medium practical-work panel on Rimuru occupied with a repair or household task tied to the same inn.
+- Panel 4: wide distance panel on Yuta training farther from camera in the same base geography. Perspective must make his smaller scale obviously distance, not body-size drift.
 
 **Primary validation:**
 - all five G1 identities remain distinct and on-model in one ordinary wide/medium environment rather than five portrait cutouts;
@@ -189,6 +204,11 @@ This is not an action page. If the characters only look correct in hero close-up
 
 **Characters:** Fern, Anko, Maomao, Momo.
 
+**Page construction:**
+- Panel 1: wide group reaction establishing panel with Fern, Anko, Maomao and Momo all turning toward the same distant beam; preserve four distinct silhouettes.
+- Panel 2: medium reaction two-shot on Fern and Anko sharing the same eyeline but different expressions.
+- Panel 3: medium reaction two-shot on Maomao and Momo sharing the same eyeline but different expressions.
+
 **Primary validation:**
 - all four G2 designs together with distinct faces, silhouettes, body scale and hair/clothing shapes;
 - shared eyeline and environmental reaction make the direction of the distant beam obvious;
@@ -209,6 +229,12 @@ CAL-04 + CAL-05 together cover the full nine-character G1/G2 core.
 
 **Characters:** Maomao, Momo, Rimuru, Bocchi.
 
+**Page construction:**
+- Panel 1: Maomao alone in the inn's clinic/workroom doing a specific medical or preparation task with readable tools.
+- Panel 2: Momo alone in the open/semi-open kitchen preparing a staggered meal with salvaged cookware and food-prep surfaces.
+- Panel 3: Rimuru alone in a practical common-room/service context handling repairs or accounting with physical papers/tools.
+- Panel 4: Bocchi alone doing a repetitive household task while using her E16 music item; keep the same inn material language.
+
 **Primary validation:**
 - montage panels are distinct tasks/locations but belong to one coherent inn rather than four unrelated buildings;
 - Momo's cooking space shares the common-room social logic: salvaged/repaired shelves, work surfaces, cookware, jars and food prep, not a modern restaurant kitchen;
@@ -227,6 +253,9 @@ CAL-04 + CAL-05 together cover the full nine-character G1/G2 core.
 **Source content:** Wide full household table in the mature lived-in common room, everyone settling in. Use the established large shared table, hearth/chimney, generous circulation, open/semi-open kitchen relationship and visible/common stair logic. Warm late-day/evening light belongs naturally to this common area.
 
 **Characters:** current G1 + G2 household: Frieren, Mau, Bocchi, Yuta, Rimuru, Fern, Anko, Maomao, Momo.
+
+**Page construction:**
+- Panel 1: large wide household-table panel containing exactly Frieren, Mau, Bocchi, Yuta, Rimuru, Fern, Anko, Maomao and Momo in one coherent room perspective. No extra people.
 
 **Primary validation:**
 - exactly these nine household members are present and individually recognizable; no duplicate and no missing member;
@@ -260,6 +289,12 @@ Do not add G3 or Sukuna to this page.
 - readable story-critical personalization;
 - use approved/creator-grounded reference treatment rather than inventing sponsor/logo detail.
 
+**Page construction:**
+- Panel 1: medium panel on Mau unfolding the white long-sleeve jersey; hands and cloth interaction are the focus.
+- Panel 2: close reaction panel on Frieren seeing the personalized garment.
+- Panel 3: over-shoulder two-shot with Mau holding the jersey open while Frieren reads it; preserve both identities.
+- Panel 4: garment-detail inset only. Show the jersey back as a clean readable surface reserved for exact post-generation marking; do not invent pseudo-text or sponsor logos.
+
 **Primary validation:**
 - Mau close-up identity remains stable while looking down/handling fabric;
 - Frieren close-up identity remains stable in reaction;
@@ -278,6 +313,12 @@ Do not add G3 or Sukuna to this page.
 **Source content:** At the recurring lake on the settlement's sunset side, Mau sits first; Frieren stands, then sits with a small deliberate gap; water reflection holds between them. The lake is reached by the narrow path from the inn/base. Its established environment includes a small weathered hut and short dock with no usable boat initially; those anchors may sit in the wider geography without distracting from the two-character acting.
 
 **Characters:** Mau, Frieren.
+
+**Page construction:**
+- Panel 1: wide quiet lake establishing panel with Mau already seated; keep the small weathered hut/short dock subordinate in the geography.
+- Panel 2: medium panel as Frieren stands near Mau before sitting, preserving a deliberate small gap and restrained body language.
+- Panel 3: quiet two-shot after Frieren sits beside Mau with the gap still visible; no embrace and no theatrical pose.
+- Panel 4: reflective water/negative-space detail that visually holds the distance between them without adding new characters.
 
 **Primary validation:**
 - recurring lake identity is quiet, natural and geographically connected to the base rather than a random ocean/beach;
@@ -298,6 +339,9 @@ The page should work even before dialogue explains anything.
 **Source:** `THE_ARRIVALS_S1E16_THE_WORLD_OPENS_MANGA_PANEL_SCRIPT_v0.1.md` — E16 Page 14.  
 **Source content:** Timber/stone gate street, carts, animals, awnings and guild signs; ordinary traffic continues and nobody stops for the group. This settlement is deliberately much denser and more active than the abandoned home base.
 
+**Page construction:**
+- Panel 1: full-page wide mercantile-town establishing panel through the timber/stone gate street. Environment and ordinary crowd traffic are primary; no hero posing.
+
 **Primary validation:**
 - major recurring external settlement with a clear gate/street hierarchy and commercial density;
 - timber/stone medieval-fantasy material culture, hand-built awnings/signs and practical street surfaces;
@@ -316,6 +360,12 @@ The page should work even before dialogue explains anything.
 
 **Characters:** Frieren, Mau, Bocchi, Yuta, Rimuru, Fern, Anko, Maomao, Momo.
 
+**Page construction:**
+- Panel 1: wide guild-interior establishing panel with posting boards, desks/counters, clerks and ordinary traffic; establish navigation before focusing on the household.
+- Panel 2: wide group-entry panel with the nine G1+G2 members moving through the room together while background people continue their own tasks.
+- Panel 3: medium environment/activity panel on clerks writing, hunters reporting and merchants seeking escorts; no core character close-up needed.
+- Panel 4: wide follow-through panel with the household integrated into the crowd and only incidental glances toward them.
+
 **Primary validation:**
 - dense interior perspective remains readable with boards, desks/counters, papers, gear and circulation zones;
 - background crowd varies in age/body/clothing/activity without stealing focus;
@@ -333,6 +383,12 @@ The page should work even before dialogue explains anything.
 **Source content:** One ordinary hostile creature bursts in from the right. Yuta reacts first and deletes it cleanly; Mau turns too late. The page is about readable timing difference, not a boss fight.
 
 **Characters:** Mau, Yuta, one ordinary hostile creature.
+
+**Page construction:**
+- Panel 1: wide setup. One ordinary hostile creature bursts into frame from screen/page right; Mau and Yuta are positioned so the attack direction is unambiguous.
+- Panel 2: medium action panel on Yuta reacting first and striking decisively. Mau has not completed his turn yet.
+- Panel 3: impact panel showing the ordinary creature already defeated by Yuta; effects stay compact enough to preserve anatomy and direction.
+- Panel 4: reaction panel on Mau turning too late after the decisive action is already over; make the timing difference unmistakable.
 
 **Primary validation:**
 - establish the creature entering from screen/page right and preserve that geography through the action;
@@ -360,6 +416,12 @@ The page should work even before dialogue explains anything.
 - Mau-owned M-A2 white McLaren cap;
 - Frieren-owned comfortable short bottoms.
 
+**Page construction:**
+- Panel 1: medium wardrobe-establishing panel on Frieren wearing Mau's orange/black hoodie and white cap with her own short bottoms; preserve Frieren's identity.
+- Panel 2: medium reaction panel on Mau noticing Frieren and stiffening slightly from confusion; no exaggerated panic.
+- Panel 3: intimate two-shot as Frieren leans lightly against Mau while looking at something; contact is casual and chosen, not a posed embrace.
+- Panel 4: close acting panel focused on shoulders, hands and expressions that sells Frieren's normalcy versus Mau's restrained stiffness.
+
 **Primary validation:**
 - multiple simultaneous garments resolve correctly on Frieren without altering her face/body identity;
 - orange/black McLaren hoodie and white McLaren cap read as Mau-owned borrowed pieces worn by Frieren;
@@ -380,6 +442,11 @@ This page is the production stress test for the W6/W8 owner-vs-wearer wardrobe m
 **Source content:** Resting-thread montage: Mikasa in elevated/tree rest; Okarun/Umaru/Kita caravan thread; Coco/Qifrey/Wakana/Marin fire thread. A shared distant mountain motif visually links the three threads before transition toward home, but they are not physically together.
 
 **Characters:** Mikasa, Okarun, Umaru, Kita, Coco, Qifrey, Wakana, Marin.
+
+**Page construction:**
+- Panel 1: Mikasa alone in elevated/tree rest with the distant mountain motif visible.
+- Panel 2: Okarun, Umaru and Kita together in the caravan thread; no other G3 members enter this panel.
+- Panel 3: Coco, Qifrey, Wakana and Marin together around the fire thread with the same distant mountain motif; keep this location distinct from Panel 2.
 
 **Primary validation:**
 - all late-S1 G3 designs receive a readable visual-production pass without identity blending;
@@ -403,6 +470,9 @@ Do not collapse the three threads into one gathering. G3 does not reach G1/G2 in
 
 **Latest creator-direction override:** Sukuna appears in his **Heian-era body**, not as Megumi's vessel. Current future-direction material also preserves Ten Shadows access, but this page does not need to expose or explain it.
 
+**Page construction:**
+- Panel 1: large ordinary-city market composition with Heian-era Sukuna standing calmly among unaware civilians. Keep his four-arm silhouette readable without supernatural effect spam.
+
 **Primary validation:**
 - Sukuna uses the definitive Heian-era project design;
 - four-arm silhouette and anatomy remain immediately readable without limbs merging;
@@ -422,6 +492,9 @@ This calibration page does **not** license Sukuna to appear anywhere except stor
 **Source content:** One large ominous composition: `Malevolent Shrine.` Sukuna remains the focal anchor while the environment/domain treatment supplies the overwhelming scale.
 
 **Characters:** Sukuna.
+
+**Page construction:**
+- Panel 1: full-page impact composition for Malevolent Shrine. Sukuna is the focal anchor and the domain/environment creates overwhelming scale; no HUD, typography or generic energy-blast framing.
 
 **Primary validation:**
 - extreme-value/high-contrast manga composition remains readable in black and white;

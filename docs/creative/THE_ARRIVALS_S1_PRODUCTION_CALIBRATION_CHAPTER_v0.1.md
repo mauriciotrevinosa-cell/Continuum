@@ -385,10 +385,10 @@ The page should work even before dialogue explains anything.
 **Characters:** Mau, Yuta, one ordinary hostile creature.
 
 **Page construction:**
-- Panel 1: wide setup. One ordinary hostile creature bursts into frame from screen/page right; Mau and Yuta are positioned so the attack direction is unambiguous.
-- Panel 2: medium action panel on Yuta reacting first and striking decisively. Mau has not completed his turn yet.
-- Panel 3: impact panel showing the ordinary creature already defeated by Yuta; effects stay compact enough to preserve anatomy and direction.
-- Panel 4: reaction panel on Mau turning too late after the decisive action is already over; make the timing difference unmistakable.
+- Panel 1 [CAST: Mau, Yuta]: wide setup. One ordinary hostile creature bursts into frame from screen/page right; Mau and Yuta are positioned so the attack direction is unambiguous.
+- Panel 2 [CAST: Yuta]: medium action panel on Yuta reacting first and striking decisively. Mau has not completed his turn yet.
+- Panel 3 [CAST: Yuta]: impact panel showing the ordinary creature already defeated by Yuta; effects stay compact enough to preserve anatomy and direction.
+- Panel 4 [CAST: Mau]: reaction panel on Mau turning too late after the decisive action is already over; make the timing difference unmistakable.
 
 **Primary validation:**
 - establish the creature entering from screen/page right and preserve that geography through the action;

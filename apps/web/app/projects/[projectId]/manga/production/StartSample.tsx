@@ -33,6 +33,24 @@ export interface CalibrationDocument {
   summary: string;
 }
 
+type ProductionBackend = Backend & {
+  production_ready?: boolean;
+  production_gaps?: string[];
+};
+
+function backendUsable(backend: Backend): boolean {
+  if (backend.output === "TEST_RENDER") return backend.ready;
+  return backend.ready && (backend as ProductionBackend).production_ready === true;
+}
+
+function backendSuffix(backend: Backend): string {
+  if (!backend.ready) return " (not ready)";
+  if (backend.output === "TEST_RENDER") return " (workflow diagrams only)";
+  const production = backend as ProductionBackend;
+  if (!production.production_ready) return " (production preflight blocked)";
+  return "";
+}
+
 function profileProvider(profile: Profile): string | null {
   const backend = profile.body.backend;
   if (!backend || typeof backend !== "object" || Array.isArray(backend)) return null;
@@ -64,7 +82,7 @@ export function StartCalibration({
 }) {
   const router = useRouter();
   const { busy, error, done, run } = useAction();
-  const usable = backends.filter((b) => b.ready);
+  const usable = backends.filter(backendUsable);
   const [documentId, setDocumentId] = useState(documents[0]?.id ?? "");
   const [provider, setProvider] = useState(usable[0]?.provider_id ?? "");
   const selectedBackend = backends.find((b) => b.provider_id === provider) ?? null;
@@ -142,9 +160,8 @@ export function StartCalibration({
             Page backend
             <select value={provider} onChange={(e) => setProvider(e.target.value)}>
               {backends.map((b) => (
-                <option key={b.provider_id} value={b.provider_id} disabled={!b.ready}>
-                  {b.kind.replace("_", " ")} - {b.provider_id}
-                  {b.ready ? (b.output === "TEST_RENDER" ? " (workflow diagrams only)" : "") : " (not ready)"}
+                <option key={b.provider_id} value={b.provider_id} disabled={!backendUsable(b)}>
+                  {b.kind.replace("_", " ")} - {b.provider_id}{backendSuffix(b)}
                 </option>
               ))}
             </select>
@@ -199,7 +216,7 @@ export function StartSample({
   const [placements, setPlacements] = useState<Record<string, string>>({});
   const [preview, setPreview] = useState<Materialized | null>(null);
   const [previewError, setPreviewError] = useState<string | null>(null);
-  const usable = backends.filter((b) => b.ready);
+  const usable = backends.filter(backendUsable);
   const [provider, setProvider] = useState(usable[0]?.provider_id ?? "fake.deterministic-page");
 
   const decisions = useCallback(
@@ -284,9 +301,8 @@ export function StartSample({
             Page backend
             <select value={provider} onChange={(e) => setProvider(e.target.value)}>
               {backends.map((b) => (
-                <option key={b.provider_id} value={b.provider_id} disabled={!b.ready}>
-                  {b.kind.replace("_", " ")} - {b.provider_id}
-                  {b.ready ? (b.output === "TEST_RENDER" ? " (test renders, never artwork)" : "") : " (not ready)"}
+                <option key={b.provider_id} value={b.provider_id} disabled={!backendUsable(b)}>
+                  {b.kind.replace("_", " ")} - {b.provider_id}{backendSuffix(b)}
                 </option>
               ))}
             </select>

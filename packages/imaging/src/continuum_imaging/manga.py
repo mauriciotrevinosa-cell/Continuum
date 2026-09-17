@@ -21,7 +21,14 @@ from PIL import Image, ImageDraw, ImageFilter, ImageOps
 
 from continuum_imaging import EncodedImage, encode_png, open_image
 
-__all__ = ["PageLayout", "analyze_layout", "bw_finish", "compose_manga_page", "panel_boxes", "tint_finish"]
+__all__ = [
+    "PageLayout",
+    "analyze_layout",
+    "bw_finish",
+    "compose_manga_page",
+    "panel_boxes",
+    "tint_finish",
+]
 
 _BAYER = (
     (0, 8, 2, 10),

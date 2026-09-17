@@ -198,8 +198,8 @@ export function SpecForm({
     const source = sourceTitle?.trim().toLocaleLowerCase();
     if (!source) return characters;
     const score = (character: CharacterSummary) => {
-      const label = character.source_label.trim().toLocaleLowerCase();
-      return label && (source.includes(label) || label.includes(source)) ? 0 : 1;
+      const sourceLabel = character.source_label.trim().toLocaleLowerCase();
+      return sourceLabel && (source.includes(sourceLabel) || sourceLabel.includes(source)) ? 0 : 1;
     };
     return [...characters].sort(
       (a, b) => score(a) - score(b) || a.display_name.localeCompare(b.display_name),
@@ -241,13 +241,21 @@ export function SpecForm({
       .filter(Boolean)
       .map((value) => ({ facet: "TAG", value }));
     if (shot.trim()) descriptors.push({ facet: "SHOT_TYPE", value: shot.trim() });
+
+    const lockedFanart = tab === "character" && characterPreset === "fanart-variant";
+    const lockedGrounding = tab === "character" && characterPreset === "lite-grounding";
+    const effectiveOrigin = lockedFanart
+      ? "FAN_ART"
+      : lockedGrounding && !["SOURCE", "OFFICIAL_ART"].includes(origin)
+        ? "SOURCE"
+        : origin;
     const spec: SpecBody = {
-      reference_class: referenceClass,
-      origin,
+      reference_class: lockedFanart ? "MOOD" : lockedGrounding ? "CANON" : referenceClass,
+      origin: effectiveOrigin,
       label,
       notes,
       favorite,
-      uses,
+      uses: lockedFanart ? ["STYLE"] : lockedGrounding ? ["IDENTITY"] : uses,
       characters: [],
       techniques: [],
       descriptors,
@@ -339,9 +347,17 @@ export function SpecForm({
             </p>
           ) : null}
           {characterPreset === "lite-grounding" ? (
-            <p className="hint">
-              Links this image as Face + Hair + Full body in one save. Production readiness still requires 3 confirmed high-authority references across at least 2 sources; this preset does not lower that threshold.
-            </p>
+            <>
+              <p className="hint">
+                Links this image as Face + Hair + Full body in one save. Production readiness still requires 3 confirmed high-authority references across at least 2 sources; this preset does not lower that threshold.
+              </p>
+              <Select
+                label="Grounding origin"
+                value={["SOURCE", "OFFICIAL_ART"].includes(origin) ? origin : "SOURCE"}
+                onChange={setOrigin}
+                options={["SOURCE", "OFFICIAL_ART"]}
+              />
+            </>
           ) : (
             <Select
               label="Aspect"
@@ -356,7 +372,7 @@ export function SpecForm({
           )}
           {characterPreset === "fanart-variant" ? (
             <p className="hint">
-              Saved as Fan art + Style. It remains supplemental/stylization evidence and does not count as identity/body grounding.
+              Locked as Fan art + Mood + Style. It remains supplemental/stylization evidence and does not count as identity/body grounding.
             </p>
           ) : null}
           {characterId && characterPreset !== "lite-grounding" ? (
@@ -429,14 +445,18 @@ export function SpecForm({
         </div>
       )}
 
-      <div className="form-row" style={{ gridTemplateColumns: "1fr 1fr" }}>
-        <Select label="Class" value={referenceClass} onChange={setReferenceClass} options={REFERENCE_CLASSES} />
-        <Select label="Origin" value={origin} onChange={setOrigin} options={USER_ORIGINS} />
-      </div>
-      <div className="field">
-        <span className="label">Intended uses</span>
-        <Toggles values={REFERENCE_USES} selected={uses} onChange={setUses} label="Intended uses" />
-      </div>
+      {tab === "character" && characterPreset !== "single" ? null : (
+        <>
+          <div className="form-row" style={{ gridTemplateColumns: "1fr 1fr" }}>
+            <Select label="Class" value={referenceClass} onChange={setReferenceClass} options={REFERENCE_CLASSES} />
+            <Select label="Origin" value={origin} onChange={setOrigin} options={USER_ORIGINS} />
+          </div>
+          <div className="field">
+            <span className="label">Intended uses</span>
+            <Toggles values={REFERENCE_USES} selected={uses} onChange={setUses} label="Intended uses" />
+          </div>
+        </>
+      )}
       <div className="field compact">
         <label>
           Label

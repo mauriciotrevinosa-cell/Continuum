@@ -527,8 +527,10 @@ class ComfyPageProvider:
         if not relevant_locks:
             relevant_locks = locks[:2]
 
+        support_style = self.config.style_prompt.replace("manga page", "manga panel")
         positive_parts = [
             "single Japanese manga panel illustration",
+            support_style,
             "clean intentional ink contours",
             "manga-ready anatomy and facial construction",
             "restrained cel shading, controlled values, readable silhouette",

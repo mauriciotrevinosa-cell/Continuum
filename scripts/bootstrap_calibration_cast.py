@@ -1,7 +1,8 @@
 """Ensure a project calibration roster has one usable Character Vault profile per name.
 
-This is intentionally conservative: it creates missing profile shells but does
-not auto-approve images, candidates, outfits or Production Models. The user's
+This is intentionally conservative: it creates missing profile shells and can
+correct an existing shell's subject kind from roster metadata, but does not
+auto-approve images, candidates, outfits or Production Models. The user's
 Source Vault is local and is not stored in Git, so visual grounding still has
 to come from the local catalog and creator review.
 
@@ -22,7 +23,7 @@ from pathlib import Path
 from typing import Any
 
 from continuum_config import get_settings
-from continuum_core.references import CharacterOrigin
+from continuum_core.references import CharacterOrigin, SubjectKind
 from continuum_db.models import CatalogUnit, CharacterProfile
 from continuum_db.session import session_scope
 from continuum_library import ReferenceCatalog
@@ -69,7 +70,7 @@ def main(argv: list[str]) -> int:
         raise SystemExit(f"No characters found for group {args.group!r}")
 
     settings = get_settings()
-    created = conflicts = 0
+    created = conflicts = kind_fixes = kind_pending = 0
     with session_scope(settings) as session:
         catalog = ReferenceCatalog(session)
         held = _held_counts(session)
@@ -77,6 +78,7 @@ def main(argv: list[str]) -> int:
         for spec in wanted:
             name = str(spec["name"]).strip()
             source_label = str(spec.get("source_label") or "").strip()
+            desired_kind = SubjectKind(str(spec.get("subject_kind") or SubjectKind.CHARACTER.value))
             expected_id = spec.get("existing_profile_id")
             profile: CharacterProfile | None = None
 
@@ -108,14 +110,34 @@ def main(argv: list[str]) -> int:
 
             held_units = _held_for(spec, held)
             if profile is not None:
+                current_kind = SubjectKind(profile.subject_kind)
+                if current_kind is not desired_kind:
+                    if args.apply:
+                        profile = catalog.update_character(
+                            profile.id,
+                            profile.row_version,
+                            subject_kind=desired_kind.value,
+                        )
+                        kind_fixes += 1
+                        print(
+                            f"UPDATED   {name:12} subject_kind "
+                            f"{current_kind.value} -> {desired_kind.value}"
+                        )
+                    else:
+                        kind_pending += 1
+                        print(
+                            f"KIND      {name:12} {current_kind.value} -> {desired_kind.value}  "
+                            "(pending --apply)"
+                        )
                 print(
-                    f"OK        {name:12} {profile.id}  source={profile.source_label!r}  "
-                    f"held_units={held_units}"
+                    f"OK        {name:12} {profile.id}  kind={SubjectKind(profile.subject_kind).value}  "
+                    f"source={profile.source_label!r}  held_units={held_units}"
                 )
                 continue
 
             print(
-                f"MISSING   {name:12} source={source_label!r}  held_units={held_units}"
+                f"MISSING   {name:12} kind={desired_kind.value}  source={source_label!r}  "
+                f"held_units={held_units}"
                 + ("  -> create" if args.apply else "")
             )
             if not args.apply:
@@ -124,6 +146,7 @@ def main(argv: list[str]) -> int:
             origin = CharacterOrigin(str(spec.get("origin") or "SOURCE_WORK"))
             profile = catalog.create_character(
                 name,
+                subject_kind=desired_kind,
                 origin=origin,
                 source_label=source_label,
                 project_key=spec.get("project_key"),
@@ -132,16 +155,18 @@ def main(argv: list[str]) -> int:
                 notes=str(spec.get("notes") or ""),
             )
             created += 1
-            print(f"CREATED   {name:12} {profile.id}")
+            print(f"CREATED   {name:12} {profile.id}  kind={desired_kind.value}")
 
         session.flush()
 
     print(
         f"\nRoster {args.group}: {len(wanted)} target(s), {created} created, "
-        f"{conflicts} unresolved ambiguity group(s)."
+        f"{kind_fixes} subject-kind fix(es), {conflicts} unresolved ambiguity group(s)."
     )
     if not args.apply:
         print("Dry run only; pass --apply to create missing profile shells.")
+        if kind_pending:
+            print(f"{kind_pending} subject-kind correction(s) also require --apply.")
     print("No visual reference was auto-approved by this command.")
     return 1 if conflicts else 0
 

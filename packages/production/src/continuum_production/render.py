@@ -115,7 +115,10 @@ def render_attempt(
         for op in intent.get("operations") or []
     )
     placements = tuple(
-        RoughPlacement(region=NormalizedRegion(**placement["region"]), label=_placement_label(placement, intent))
+        RoughPlacement(
+            region=NormalizedRegion(**placement["region"]),
+            label=_placement_label(placement, intent),
+        )
         for placement in intent.get("placements") or []
     )
 
@@ -284,7 +287,10 @@ def _input_bytes(session: Session, catalog: ReferenceCatalog, row: AttemptInput)
 
 def _operation_label(op: dict[str, Any], intent: dict[str, Any]) -> str:
     parts = [op.get("label") or ""]
-    names = {character["character_id"]: character["name"] for character in intent.get("characters") or []}
+    names = {
+        character["character_id"]: character["name"]
+        for character in intent.get("characters") or []
+    }
     if op.get("character_id") in names:
         parts.append(names[op["character_id"]])
     if op.get("text"):
@@ -293,7 +299,10 @@ def _operation_label(op: dict[str, Any], intent: dict[str, Any]) -> str:
 
 
 def _placement_label(placement: dict[str, Any], intent: dict[str, Any]) -> str:
-    names = {character["character_id"]: character["name"] for character in intent.get("characters") or []}
+    names = {
+        character["character_id"]: character["name"]
+        for character in intent.get("characters") or []
+    }
     name = names.get(placement.get("character_id") or "", "")
     return " ".join(part for part in (placement.get("label") or "", name) if part).strip()
 
@@ -374,7 +383,10 @@ def _render_page(
             remediation="Choose a PAGE_RENDER backend in the production profile.",
             blocked_reason=BlockedReason.MISSING_PROVIDER.value,
         )
-    names = {character["character_id"]: character["name"] for character in bundle.get("characters") or []}
+    names = {
+        character["character_id"]: character["name"]
+        for character in bundle.get("characters") or []
+    }
     inputs = list(
         session.execute(
             select(AttemptInput)
@@ -451,7 +463,11 @@ def _render_page(
         "provider_id": result.provider_id,
         "master_sha256": master,
         "references": [
-            {"role": reference.role, "reference_id": reference.reference_id, "character": reference.character}
+            {
+                "role": reference.role,
+                "reference_id": reference.reference_id,
+                "character": reference.character,
+            }
             for reference in references
         ],
     }

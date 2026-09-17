@@ -552,7 +552,9 @@ class ComfyPageProvider:
         return positive, ", ".join(item for item in negatives if item)[:3600]
 
     @staticmethod
-    def _panel_size(request: PageRenderRequest, box: tuple[float, float, float, float]) -> tuple[int, int]:
+    def _panel_size(
+        request: PageRenderRequest, box: tuple[float, float, float, float]
+    ) -> tuple[int, int]:
         """A T4-friendly latent size matching the panel aspect ratio."""
         _x, _y, width_share, height_share = box
         target_w = max(1, int(request.width * width_share))
@@ -673,7 +675,9 @@ class ComfyPageProvider:
             panels = [
                 {
                     "number": 1,
-                    "direction": " ".join(str(item) for item in request.page.get("directions") or []),
+                    "direction": " ".join(
+                        str(item) for item in request.page.get("directions") or []
+                    ),
                     "characters": list(request.page.get("characters") or []),
                     "shot": "STANDARD",
                     "emphasis": "NORMAL",

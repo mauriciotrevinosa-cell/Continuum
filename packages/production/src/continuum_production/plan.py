@@ -130,6 +130,7 @@ def _render_panels(
         )
     return out
 
+
 def _mentions(text: str, name: str) -> int:
     first = re.escape(name.split()[0])
     return len(re.findall(rf"\b{first}\b", text, re.I))

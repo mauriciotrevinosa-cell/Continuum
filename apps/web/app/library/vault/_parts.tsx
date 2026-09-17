@@ -15,6 +15,7 @@ import {
   unitHref,
 } from "@/lib/catalog";
 import { formatBytes, plural } from "@/lib/acquisition";
+import { ContinueCardClient } from "./ContinueCard";
 
 export function ConfidenceChip({ unit }: { unit: UnitView }) {
   if (unit.confidence === "HIGH") return null;
@@ -49,46 +50,8 @@ export function SearchBox({ q = "", placeholder }: { q?: string; placeholder?: s
   );
 }
 
-function progressWidth(item: ContinueItem): number {
-  const p = item.progress;
-  if (p.completed_at) return 100;
-  if (p.medium === "READING" && p.page_count) {
-    const first = item.unit?.first_page_index ?? 0;
-    return Math.round((((p.page_index ?? first) - first + 1) / p.page_count) * 100);
-  }
-  if (p.position_ms && p.duration_ms) return Math.round((p.position_ms / p.duration_ms) * 100);
-  return 4;
-}
-
 export function ContinueCard({ item }: { item: ContinueItem }) {
-  const target = item.state === "next" && item.next ? item.next : item.unit;
-  const href = target ? unitHref(target, item.state === "next" ? null : item.progress) : null;
-  const what =
-    item.state === "next"
-      ? item.progress.medium === "READING" ? "Next chapter" : "Next episode"
-      : item.state === "finished"
-        ? "Finished"
-        : item.progress.medium === "READING" ? "Continue reading" : "Continue watching";
-  const body = (
-    <>
-      <span className="what">{what}</span>
-      <span className="series">{target?.series_title ?? target?.source.file_name ?? "Unavailable"}</span>
-      <span className="unit">
-        {target ? target.label : "This file is not in the catalog right now."}
-        {item.state === "resume" ? ` · ${progressLabel(item.progress, target?.first_page_index ?? 0) ?? ""}` : ""}
-      </span>
-      <span className="progress-line" aria-hidden>
-        <i style={{ width: `${progressWidth(item)}%` }} />
-      </span>
-    </>
-  );
-  return href ? (
-    <Link className="continue-card" href={href}>
-      {body}
-    </Link>
-  ) : (
-    <div className="continue-card">{body}</div>
-  );
+  return <ContinueCardClient item={item} />;
 }
 
 export function SeriesCard({ series }: { series: SeriesSummary }) {

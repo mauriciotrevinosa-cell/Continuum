@@ -136,8 +136,10 @@ def test_explicit_panel_construction_isolated_by_character() -> None:
         "characters": ["Mau", "Yuta"],
         "directions": [
             "Creature enters from the right.",
-            "PAGE CONSTRUCTION: Panel 1: Yuta reacts first and strikes.",
-            "PAGE CONSTRUCTION: Panel 2: Mau turns too late after the impact.",
+            "PAGE CONSTRUCTION: Panel 1 [CAST: Yuta]: "
+            "Yuta reacts first while Mau has not completed his turn.",
+            "PAGE CONSTRUCTION: Panel 2 [CAST: Mau]: "
+            "Mau turns too late after the impact.",
             "MUST SHOW: readable timing difference.",
         ],
         "dialogue": [],

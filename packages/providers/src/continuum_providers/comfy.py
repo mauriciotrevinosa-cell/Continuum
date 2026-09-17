@@ -1,33 +1,10 @@
 """ComfyUI page backend: ``COMFY_LOCAL`` and ``COMFY_REMOTE``.
 
-ComfyUI is free software; compute is a separate question. ``COMFY_LOCAL`` is a
-ComfyUI server on this machine (development and fallback - it may be far too
-slow here). ``COMFY_REMOTE`` is a ComfyUI server the creator opens elsewhere,
-typically an opportunistic free GPU session; it is never a guaranteed
-production dependency. Both speak the same HTTP API and implement the generic
-:class:`~continuum_providers.artwork.PageRenderProvider` contract, so
-production semantics never depend on which one answers.
-
-What a render sends: only the page request - the page script, the continuity
-context and the reference images of that one page's bundle. Never the Vault,
-never catalog data, never file paths. A remote server additionally refuses
-third-party source excerpts (pages of commercial manga) unless the creator has
-explicitly allowed them in settings.
-
-Honesty:
-
-* the server is probed (``/object_info``): the nodes the workflow needs and
-  the configured checkpoint must exist, otherwise the backend reports exactly
-  what is missing and attempts block;
-* identity conditioning is claimed only when IP-Adapter nodes are installed;
-* every result records backend, model (name, version, sha256, license,
-  source), workflow (id, version, sha256) and the settings actually sent.
-  Missing model metadata makes :func:`~continuum_providers.artwork.check_result`
-  refuse the result as not reproducible.
-
-The master is drawn first; the color finish is conditioned on the master
-(image-to-image at the same size) and the black-and-white finish is derived
-from the master locally, so both finishes are siblings of one composition.
+Only the materialized request for one page is sent to ComfyUI. Remote sessions
+never receive the Vault itself or local file paths. Identity conditioning uses
+confirmed references only, records exactly which references were sent, and
+applies a deterministic per-character budget so one character cannot consume
+all IP-Adapter slots on ensemble pages.
 """
 
 from __future__ import annotations
@@ -39,7 +16,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import uuid
-from collections.abc import Callable
+from collections.abc import Callable, Sequence
 from dataclasses import dataclass, field, replace
 from typing import Any
 
@@ -91,15 +68,12 @@ CORE_NODES = (
     "SaveImage",
     "LoadImage",
 )
-#: ComfyUI_IPAdapter_plus. Without these a backend cannot condition identity.
 IDENTITY_NODES = ("IPAdapterUnifiedLoader", "IPAdapterAdvanced", "ImageBatch")
-#: The noise rule: never a HUD, videogame UI, stat window or computer overlay.
 NOISE_NEGATIVE = "HUD, videogame UI, status window, stat screen, computer overlay, interface panel"
 BASE_NEGATIVE = (
     "text, letters, watermark, signature, logo, lowres, blurry, deformed hands, extra fingers"
 )
 
-#: (method, url, body, headers) -> (status, body)
 Transport = Callable[[str, str, bytes | None, dict[str, str]], tuple[int, bytes]]
 
 
@@ -150,8 +124,6 @@ class ComfyConfig:
     max_edge: int = 2048
     timeout_seconds: float = 900.0
     poll_seconds: float = 1.0
-    #: A remote server may receive pages of commercial source manga only if the
-    #: creator allowed it explicitly.
     allow_source_excerpts: bool = False
 
     @property
@@ -211,7 +183,6 @@ class ComfyStatus:
 
 
 def _master_graph() -> dict[str, Any]:
-    """Text-to-image master; identity nodes are spliced in when references exist."""
     return {
         "4": {"class_type": "CheckpointLoaderSimple", "inputs": {"ckpt_name": "$checkpoint"}},
         "6": {"class_type": "CLIPTextEncode", "inputs": {"text": "$positive", "clip": ["4", 1]}},
@@ -244,7 +215,6 @@ def _master_graph() -> dict[str, Any]:
 
 
 def _color_graph() -> dict[str, Any]:
-    """Image-to-image color finish over the master, same size."""
     return {
         "4": {"class_type": "CheckpointLoaderSimple", "inputs": {"ckpt_name": "$checkpoint"}},
         "10": {"class_type": "LoadImage", "inputs": {"image": "$master"}},
@@ -275,7 +245,6 @@ def _color_graph() -> dict[str, Any]:
 
 
 def workflow_manifest() -> dict[str, str]:
-    """The workflow's identity: its templates, hashed."""
     templates = {
         "master": _master_graph(),
         "color": _color_graph(),
@@ -297,6 +266,59 @@ def _fill(graph: dict[str, Any], values: dict[str, Any]) -> dict[str, Any]:
 
     filled: dict[str, Any] = walk(graph)
     return filled
+
+
+def _select_identity_references(
+    references: Sequence[ArtworkReference], limit: int
+) -> list[ArtworkReference]:
+    """Spend a finite IP-Adapter budget fairly across named characters.
+
+    Preserve source order within each character. First give every named
+    character one slot, then include unassigned continuity anchors, then spend
+    remaining slots round-robin. This makes ensemble pages deterministic and
+    prevents the first character's six observations from starving everyone
+    later in the cast list.
+    """
+    if limit <= 0:
+        return []
+
+    by_character: dict[str, list[ArtworkReference]] = {}
+    unassigned: list[ArtworkReference] = []
+    for reference in references:
+        if reference.character:
+            by_character.setdefault(reference.character, []).append(reference)
+        else:
+            unassigned.append(reference)
+
+    selected: list[ArtworkReference] = []
+    offsets = {name: 0 for name in by_character}
+
+    for name, group in by_character.items():
+        if len(selected) >= limit:
+            return selected
+        if group:
+            selected.append(group[0])
+            offsets[name] = 1
+
+    for reference in unassigned:
+        if len(selected) >= limit:
+            return selected
+        selected.append(reference)
+
+    while len(selected) < limit:
+        advanced = False
+        for name, group in by_character.items():
+            offset = offsets[name]
+            if offset >= len(group):
+                continue
+            selected.append(group[offset])
+            offsets[name] = offset + 1
+            advanced = True
+            if len(selected) >= limit:
+                break
+        if not advanced:
+            break
+    return selected
 
 
 class ComfyPageProvider:
@@ -323,14 +345,12 @@ class ComfyPageProvider:
             rough_output=RenderOutput.ARTWORK_CANDIDATE,
         )
 
-    # -- probing ------------------------------------------------------------------
     def _url(self, path: str, query: dict[str, str] | None = None) -> str:
         base = self.config.base_url.rstrip("/")
         return f"{base}{path}" + (f"?{urllib.parse.urlencode(query)}" if query else "")
 
     def _endpoint(self) -> str:
         parsed = urllib.parse.urlparse(self.config.base_url)
-        # A tunnel URL can carry a secret in its path or query: show the host only.
         return f"{parsed.scheme}://{parsed.netloc}" if parsed.netloc else self.config.base_url
 
     def _json(self, method: str, path: str, payload: Any | None = None) -> Any:
@@ -353,9 +373,8 @@ class ComfyPageProvider:
             and now - self._status_at < self.STATUS_TTL_SECONDS
         ):
             return self._status
-        kind = self.config.backend.value
         status = ComfyStatus(
-            kind=kind,
+            kind=self.config.backend.value,
             provider_id=self.config.provider_id,
             configured=bool(self.config.base_url),
             endpoint=self._endpoint(),
@@ -374,8 +393,8 @@ class ComfyPageProvider:
                 info = self._json("GET", "/object_info")
                 status.reachable = True
                 nodes = set(info or {})
-                status.missing_nodes = [n for n in CORE_NODES if n not in nodes]
-                status.identity_conditioning = all(n in nodes for n in IDENTITY_NODES)
+                status.missing_nodes = [node for node in CORE_NODES if node not in nodes]
+                status.identity_conditioning = all(node in nodes for node in IDENTITY_NODES)
                 listed = (
                     ((info.get("CheckpointLoaderSimple") or {}).get("input") or {}).get("required")
                     or {}
@@ -397,9 +416,9 @@ class ComfyPageProvider:
         return ArtworkCapabilities(
             output=RenderOutput.ARTWORK_CANDIDATE,
             available=status.ready,
-            max_reference_images=self.config.max_reference_images
-            if status.identity_conditioning
-            else 0,
+            max_reference_images=(
+                self.config.max_reference_images if status.identity_conditioning else 0
+            ),
             identity_conditioning=status.identity_conditioning,
             layout_conditioning=False,
             sibling_finishes=True,
@@ -409,7 +428,6 @@ class ComfyPageProvider:
             notes=status.reason(),
         )
 
-    # -- rendering ------------------------------------------------------------------
     def _upload(self, name: str, data: bytes) -> str:
         boundary = uuid.uuid4().hex
         parts = [
@@ -475,12 +493,18 @@ class ComfyPageProvider:
     def _prompts(self, request: PageRenderRequest) -> tuple[str, str]:
         page = request.page
         names = ", ".join(page.get("characters") or [])
-        directions = " ".join(str(d) for d in page.get("directions") or [])
-        positive = f"{self.config.style_prompt}. {names}. {directions}"[:1800]
+        directions = " ".join(str(item) for item in page.get("directions") or [])
+        brief = str(request.settings.get("brief") or "").strip()
+        positive_parts = [self.config.style_prompt, names, directions]
+        if brief and brief not in directions:
+            positive_parts.append(f"CREATOR DIRECTION: {brief}")
+        positive = ". ".join(part for part in positive_parts if part)[:3600]
+
         negatives = [BASE_NEGATIVE, NOISE_NEGATIVE]
+        negatives.extend(str(item) for item in page.get("constraints") or [])
         for rule in (request.continuity.get("character_rules") or {}).values():
-            negatives += [str(a) for a in rule.get("forbidden_accessories") or []]
-        return positive, ", ".join(negatives)
+            negatives.extend(str(item) for item in rule.get("forbidden_accessories") or [])
+        return positive, ", ".join(item for item in negatives if item)[:3600]
 
     def render_page(self, request: PageRenderRequest) -> PageRenderResult:
         status = self.status(refresh=True)
@@ -490,21 +514,22 @@ class ComfyPageProvider:
                 remediation="Start ComfyUI (or the remote GPU session) and check the checkpoint.",
                 blocked_reason=BlockedReason.MISSING_PROVIDER.value,
             )
-        # Identity is conditioned only on confirmed evidence: an unverified candidate may
-        # show someone else, so it never shapes who the character is.
+
         candidates = [
-            r for r in request.references if (r.provenance or {}).get("status") == "CANDIDATE"
+            reference
+            for reference in request.references
+            if (reference.provenance or {}).get("status") == "CANDIDATE"
         ]
         identity = [
-            r
-            for r in request.references
-            if r.role in {"CANON", "CONTINUITY"} and r not in candidates
+            reference
+            for reference in request.references
+            if reference.role in {"CANON", "CONTINUITY"} and reference not in candidates
         ]
         if (
             self.config.backend is ArtworkBackendKind.COMFY_REMOTE
             and not self.config.allow_source_excerpts
         ):
-            excerpts = [r for r in identity if _is_source_excerpt(r)]
+            excerpts = [reference for reference in identity if _is_source_excerpt(reference)]
             if excerpts:
                 raise ProviderUnavailableError(
                     f"The page bundle holds {len(excerpts)} source manga excerpt(s); the remote "
@@ -513,7 +538,12 @@ class ComfyPageProvider:
                     "explicitly allow source excerpts for the remote backend in settings.",
                     blocked_reason=BlockedReason.MISSING_PROVIDER.value,
                 )
-        sent = identity[: self.config.max_reference_images] if status.identity_conditioning else []
+
+        sent = (
+            _select_identity_references(identity, self.config.max_reference_images)
+            if status.identity_conditioning
+            else []
+        )
         positive, negative = self._prompts(request)
         values = {
             "checkpoint": self.config.model.name,
@@ -530,7 +560,10 @@ class ComfyPageProvider:
         }
         graph = _fill(_master_graph(), values)
         if sent:
-            uploaded = [self._upload(f"continuum-{_sha(r.data)[:24]}.png", r.data) for r in sent]
+            uploaded = [
+                self._upload(f"continuum-{_sha(reference.data)[:24]}.png", reference.data)
+                for reference in sent
+            ]
             graph["20"] = {
                 "class_type": "IPAdapterUnifiedLoader",
                 "inputs": {"model": ["4", 0], "preset": self.config.ipadapter_preset},
@@ -559,6 +592,7 @@ class ComfyPageProvider:
                 },
             }
             graph["3"]["inputs"]["model"] = ["21", 0]
+
         master = self._run(graph)
         master_info = probe(master)
         master_name = self._upload(f"continuum-master-{_sha(master)[:24]}.png", master)
@@ -583,7 +617,11 @@ class ComfyPageProvider:
             ),
             "positive": positive,
             "negative": negative,
-            **{k: v for k, v in request.settings.items() if k not in {"positive", "negative"}},
+            **{
+                key: value
+                for key, value in request.settings.items()
+                if key not in {"positive", "negative"}
+            },
         }
         return PageRenderResult(
             backend=self.config.backend,
@@ -605,10 +643,14 @@ class ComfyPageProvider:
                 "settings": settings,
                 "seed": request.seed,
                 "master_sha256": master_image.sha256,
-                "identity_references_sent": [r.reference_id for r in sent],
-                "candidates_not_used_for_identity": [r.reference_id for r in candidates],
+                "identity_references_sent": [reference.reference_id for reference in sent],
+                "candidates_not_used_for_identity": [
+                    reference.reference_id for reference in candidates
+                ],
                 "references_not_used_by_this_workflow": [
-                    r.reference_id for r in request.references if r not in sent
+                    reference.reference_id
+                    for reference in request.references
+                    if reference not in sent
                 ],
                 "bw_finish": "continuum_imaging.manga.bw_finish over the master",
             },
@@ -643,7 +685,7 @@ def configured_providers(settings: Any) -> list[ComfyPageProvider]:
         model=model,
         timeout_seconds=float(getattr(settings, "comfy_timeout_seconds", 900.0)),
     )
-    out = []
+    out: list[ComfyPageProvider] = []
     local = str(getattr(settings, "comfy_local_url", "") or "")
     remote = str(getattr(settings, "comfy_remote_url", "") or "")
     if local:

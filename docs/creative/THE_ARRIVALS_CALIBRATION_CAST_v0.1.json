@@ -145,6 +145,7 @@
       },
       {
         "name": "Mahoraga",
+        "subject_kind": "MONSTER",
         "origin": "SOURCE_WORK",
         "source_label": "Jujutsu Kaisen",
         "aliases": ["Jujutsu Kaisen"],

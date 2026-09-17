@@ -316,15 +316,15 @@ def main(argv: list[str]) -> int:
             time.sleep(5)
         exit_code = 1
     except KeyboardInterrupt:
-        print("\nGraceful stop requested; checkpointing session before shutdown...")
+        print("\nGraceful stop requested; stopping workloads before checkpointing...")
         exit_code = 0
     finally:
-        with contextlib.suppress(Exception):
-            log_stream.flush()
-        _write_recovery_bundle(root, tunnel_url, session_log)
         _terminate(tunnel)
         _terminate(comfy_process)
+        with contextlib.suppress(Exception):
+            log_stream.flush()
         log_stream.close()
+        _write_recovery_bundle(root, tunnel_url, session_log)
     return exit_code
 
 

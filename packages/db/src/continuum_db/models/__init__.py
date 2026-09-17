@@ -22,6 +22,7 @@ from continuum_db.models.character_models import (
     CharacterProductionEvidence,
     CharacterProductionModel,
 )
+from continuum_db.models.continue_controls import MediaProgressDismissal
 from continuum_db.models.corpus import CharacterObservation
 from continuum_db.models.jobs import (
     Job,
@@ -94,6 +95,7 @@ __all__ = [
     "LibraryAssetLocation",
     "MaterializedChapter",
     "MediaProgress",
+    "MediaProgressDismissal",
     "MusicReference",
     "OutfitWear",
     "PageDependency",

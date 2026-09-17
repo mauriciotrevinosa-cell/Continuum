@@ -90,17 +90,23 @@ def _render_panels(
 
     beats = explicit
     if not beats:
-        source = next(
-            (
-                direction
-                for direction in directions
-                if direction
-                and not direction.startswith("MUST SHOW:")
-                and not direction.startswith("DO NOT:")
-            ),
-            "",
-        )
-        beats = [(1, source or str(page.get("label") or "page composition"))]
+        authored = [
+            direction
+            for direction in directions
+            if direction
+            and not direction.startswith("MUST SHOW:")
+            and not direction.startswith("DO NOT:")
+            and not direction.startswith("PAGE CONSTRUCTION:")
+        ]
+        # Approved panel scripts already express one visual beat per direction
+        # bullet. Preserve those beats for story pages. Calibration prose is
+        # denser review direction, so without explicit construction it remains
+        # one bounded render rather than inventing a panel breakdown.
+        if page.get("origin") != "calibration" and 1 <= len(authored) <= 8:
+            beats = list(enumerate(authored, start=1))
+        else:
+            source = authored[0] if authored else str(page.get("label") or "page composition")
+            beats = [(1, source)]
 
     out: list[dict[str, Any]] = []
     for number, direction in beats:
@@ -113,7 +119,9 @@ def _render_panels(
             for token in ("everyone", "all ", "household", "group", "ensemble", "cast")
         ):
             named = list(present)
-        elif not named and primary and len(beats) == 1:
+        elif len(beats) == 1 and present:
+            # One-panel pages must not drop an off-camera/dialogue partner just
+            # because only the primary is named in the visual direction.
             named = list(present)
         out.append(
             {
@@ -128,6 +136,15 @@ def _render_panels(
                 ),
             }
         )
+
+    spoken = {
+        str(line.get("speaker") or "").strip().lower()
+        for line in page.get("dialogue") or []
+        if str(line.get("speaker") or "").strip()
+    }
+    for name in present:
+        if name.lower() in spoken and not any(name in panel["characters"] for panel in out):
+            out[-1]["characters"].append(name)
     return out
 
 

@@ -15,9 +15,8 @@ CALIBRATION_DOC = (
 
 
 def test_real_calibration_document_parses_all_16_pages_and_extra_bullets() -> None:
-    # This committed creative document is UTF-16 LE with a BOM. Match the
-    # encoding on disk instead of silently testing a UTF-8 rewrite of it.
-    pages = parse_calibration(CALIBRATION_DOC.read_text(encoding="utf-16"))
+    # The committed creative document is UTF-8; utf-8-sig also tolerates a BOM.
+    pages = parse_calibration(CALIBRATION_DOC.read_text(encoding="utf-8-sig"))
 
     assert [page.cal_id for page in pages] == [f"CAL-{index:02d}" for index in range(1, 17)]
 

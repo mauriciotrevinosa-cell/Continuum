@@ -104,6 +104,7 @@ export default async function ViewPage({
         total={listing.pages.length}
         chapters={listing.chapters}
         title={title}
+        sourceTitle={detail.work_title || undefined}
         backHref={readingImages ? `/view/${unit.id}` : workHref}
         previousHref={previousHref}
         nextHref={nextHref}

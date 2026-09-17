@@ -1,8 +1,9 @@
-# The Arrivals ΓÇö S1 Production Calibration Chapter v0.1
+# The Arrivals — S1 Production Calibration Chapter v0.1
 
 **Status:** CREATOR-APPROVED PRODUCTION CALIBRATION PACKAGE / NON_CANON  
 **Project:** `The Arrivals`  
 **Branch:** `creative/s1-season-board-v0.1`  
+**Spatial authority:** `THE_ARRIVALS_ABANDONED_VILLAGE_AND_INN_SPATIAL_BIBLE_v0.2.md`  
 **Purpose:** create one compact but broad visual-production chapter that exercises the recurring Season 1 cast, environments, wardrobe, acting, crowd work, action and high-intensity effects before official canon rendering begins.
 
 This is a **production calibration chapter**, not an extra canon episode and not a replacement for any approved S1 panel script.
@@ -69,6 +70,8 @@ Production authority order:
 
 Unconfirmed candidates must never become identity conditioning.
 
+For CAL-01 through CAL-07 and every later return to the base, the approved spatial bible is authoritative. The renderer must reuse the same settlement and inn geography instead of inventing a new village or a new floor plan on each page.
+
 The calibration chapter itself should become a useful benchmark only **after creator review**. It must not bootstrap its own mistakes into later pages.
 
 ---
@@ -100,130 +103,148 @@ G3 fixed groupings remain unchanged:
 
 ---
 
-# 5. Calibration chapter ΓÇö 16 pages
+# 5. Calibration chapter — 18 pages
 
 The reader should present these as one 18-page calibration chapter. The ordering is intentionally a production sampler rather than canon chronology.
 
-Each page below points to an existing approved source beat wherever possible. Do not invent new canon dialogue to connect the pages.
+Each page below points to an existing approved source beat wherever possible. Do not invent new canon dialogue to connect the pages. `Primary validation` is a render lock: those bullets are requirements, not optional review commentary. `Failure examples` are negative constraints.
 
-## CAL-01 ΓÇö Abandoned settlement establishing
+## CAL-01 — Abandoned settlement establishing
 
-**Source:** `THE_ARRIVALS_S1E2_FIRST_HOME_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E2 Page 11.  
-**Source content:** lane, damaged houses, shed, stone-bordered field, larger inn farther in; no smoke or people. Tiny abandoned settlement, not a town.
+**Source:** `THE_ARRIVALS_S1E2_FIRST_HOME_MANGA_PANEL_SCRIPT_v0.1.md` — E2 Page 11.  
+**Source content:** Wide rural establishing shot from the entering lane. This is a tiny abandoned settlement enclosed by forest, not a town: roughly five small damaged houses with partially or fully collapsed roofs surround the largest surviving building, the inn. Keep open ground between structures. The cultivation plot and well belong beside the inn on its service side; a low hill with one prominent shade tree rises behind it. A narrow lake path leaves the settlement, while the former mercantile route is so overgrown it does not initially read as a usable road. No smoke and no people.
 
 **Primary validation:**
-- settlement scale;
-- reusable spatial identity;
-- timber/stone rural-fantasy architecture;
-- vegetation / abandonment language;
-- clear route toward the inn.
+- the inn is the largest surviving building and the visual household center, clearly readable in the midground rather than buried inside a dense roofscape;
+- roughly five small abandoned houses surround it with partial/full roof collapse and believable finite salvage, not dozens of tightly packed buildings;
+- forest enclosure is visible around the settlement and there is breathing room/open ground between structures;
+- the cultivation plot and well sit together on the inn's service side, while the low hill and prominent shade tree read behind the inn;
+- an entering lane gives a clear route toward the inn; the lake path is narrow and the old mercantile path is heavily reclaimed by vegetation;
+- timber/stone rural-fantasy construction remains practical, weathered and repairable;
+- preserve this geography as a reusable anchor for later base pages.
 
-**Failure examples:** settlement becomes a large city, architecture turns modern, layout becomes unreadable, or the inn cannot later be recognized from the same geography.
+**Failure examples:** settlement becomes a dense roofscape, large town or city; dozens of houses fill the frame; the inn is not the largest/central surviving building; the forest enclosure disappears; the well, cultivation plot, hill/tree and access paths are placed randomly; architecture turns modern; smoke or people appear; later pages could not plausibly reuse the same geography.
 
 ---
 
-## CAL-02 ΓÇö Inn common room: ruined state
+## CAL-02 — Inn common room: ruined state
 
-**Source:** `THE_ARRIVALS_S1E2_FIRST_HOME_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E2 Page 18.  
-**Source content:** first common-room reveal: counter, tables, fireplace, broken glass, water damage. The canonical script explicitly wants this composition to support later visual echoes.
+**Source:** `THE_ARRIVALS_S1E2_FIRST_HOME_MANGA_PANEL_SCRIPT_v0.1.md` — E2 Page 18.  
+**Source content:** First common-room reveal inside the same inn from CAL-01. Establish a reusable ground-floor composition: the entry transitions from covered porch to a small muddy-boots/shoe-removal zone and one raised step into the common-room floor. The room contains the large shared-table zone, hearth/chimney, clear circulation, an open or semi-open kitchen/service side, visible main-stair access, and the rear/service direction toward the well/cultivation side. At this early state show broken glass, water damage, damaged surfaces and scattered debris; the room is salvageable but still a ruin.
 
 **Primary validation:**
-- repeatable common-room geometry;
-- clear fireplace / table / counter relationships;
-- damaged but usable, not picturesque pristine fantasy inn;
-- environment can later age forward without changing buildings.
+- establish fixed repeatable geometry for entry threshold, shared-table zone, hearth/chimney, kitchen/service side, stairs and rear/service direction;
+- the hearth/chimney is an architectural anchor, not a movable decorative fireplace;
+- the common room has generous ensemble circulation instead of being a cramped tavern packed with furniture;
+- kitchen remains open/semi-open to the social room and reads as a repairable working area with shelves/work surfaces/pots/jars rather than a modern kitchen;
+- damage is specific and physical: broken glass, water staining/damage, damaged boards/plaster/stone and loose debris;
+- this exact spatial shell must support CAL-03 and later household-table/work scenes without redesign.
+
+**Failure examples:** generic tavern layout; fireplace, stairs and table change sides between attempts; pristine fantasy inn; modern kitchen fixtures; excessive decorative clutter hides circulation; room becomes cathedral-sized or tiny; damage reads as stylized cracks pasted over unrelated architecture.
 
 ---
 
-## CAL-03 ΓÇö Inn common room: first usable state
+## CAL-03 — Inn common room: first usable state
 
-**Source:** `THE_ARRIVALS_S1E2_FIRST_HOME_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E2 Page 31.  
-**Source content:** fire functioning, debris consolidated, one window boarded, travel things organized, two bedroll areas beginning to exist; still clearly a ruin.
+**Source:** `THE_ARRIVALS_S1E2_FIRST_HOME_MANGA_PANEL_SCRIPT_v0.1.md` — E2 Page 31.  
+**Source content:** Revisit the exact CAL-02 common-room shell after the first practical repairs. Keep the same entry threshold, table zone, hearth/chimney, open/semi-open kitchen side, main stairs and rear/service orientation. The fire now works; debris has been consolidated; one damaged window is boarded; travel things are organized; two bedroll areas begin to exist. The room remains visibly damaged and unfinished.
 
 **Primary validation:**
-- same location as CAL-02;
-- state continuity instead of environment redesign;
-- modest practical improvement;
-- recurring props / damage remain spatially believable.
+- same room, same architecture and same anchor positions as CAL-02; improvement comes from repair state, not a new design;
+- functioning hearth adds warmth while surviving water damage, broken/repaired surfaces and one boarded window remain visible;
+- debris is sorted/consolidated rather than magically gone;
+- two temporary sleeping/bedroll areas and organized travel gear make the room usable without making it fully domestic yet;
+- kitchen/service surfaces show modest salvage and organization only;
+- visual comparison with CAL-02 must make the progression immediately legible.
 
-CAL-02 and CAL-03 should be directly comparable. The viewer should believe they are the same room at two points in time.
+**Failure examples:** room geometry changes; all damage disappears; bedrolls become permanent modern beds; repair jumps straight to a finished luxury inn; fireplace/table/stairs move; a totally different camera-independent floor plan is invented.
 
 ---
 
-## CAL-04 ΓÇö G1 calm-home baseline
+## CAL-04 — G1 calm-home baseline
 
-**Source:** `THE_ARRIVALS_S1E10_FOUR_STRANGERS_G2_ARRIVAL_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E10 Page 1.  
-**Source content:** late-morning inn exterior/home baseline; Frieren and Mau eating, Bocchi guitar audible, Rimuru working, Yuta training at distance.
+**Source:** `THE_ARRIVALS_S1E10_FOUR_STRANGERS_G2_ARRIVAL_MANGA_PANEL_SCRIPT_v0.1.md` — E10 Page 1.  
+**Source content:** Late-morning ordinary-life baseline at the established inn/base. Preserve the same small forest settlement and the same inn geography: the inn dominates the surviving cluster; the service side relates to the well/cultivation plot and the low hill/tree remains behind. Frieren and Mau eat together; Bocchi's guitar activity belongs to the home; Rimuru works; Yuta trains at a readable distance. This is calm domestic life, not a hero lineup.
 
 **Characters:** Frieren, Mau, Bocchi, Rimuru, Yuta.
 
 **Primary validation:**
-- all five G1 designs in one ordinary visual context;
-- relative height / body scale;
-- house-style everyday acting;
-- lived-in base state;
-- distance/background character consistency.
+- all five G1 identities remain distinct and on-model in one ordinary wide/medium environment rather than five portrait cutouts;
+- maintain believable relative height, body scale and distance perspective across foreground, middle distance and background;
+- Frieren and Mau read as naturally sharing a meal; body language is relaxed and unperformed;
+- Bocchi's music activity belongs spatially to the inn/home, Rimuru is occupied with practical work, and Yuta trains farther away without becoming the focal hero;
+- the repaired/lived-in base still visibly descends from the CAL-01 settlement and CAL-02/CAL-03 inn rather than becoming a new house;
+- late-morning light should not contradict the spatial bible: bedrooms favor stronger morning light while common/base exterior remains natural, with the lake/sunset orientation reserved for later-day staging.
+
+**Failure examples:** posed team lineup; all five characters stand at the same depth and scale; hero-action lighting; dense city background; inn/village geography changes; random extra residents dominate; Yuta is rendered as a giant foreground figure despite being at distance.
 
 This is not an action page. If the characters only look correct in hero close-ups, this page has failed its purpose.
 
 ---
 
-## CAL-05 ΓÇö G2 four-person reaction
+## CAL-05 — G2 four-person reaction
 
-**Source:** `THE_ARRIVALS_S1E10_FOUR_STRANGERS_G2_ARRIVAL_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E10 Page 18.  
-**Source content:** the distant beam becomes visible; Fern, Anko, Maomao and Momo all turn toward it.
+**Source:** `THE_ARRIVALS_S1E10_FOUR_STRANGERS_G2_ARRIVAL_MANGA_PANEL_SCRIPT_v0.1.md` — E10 Page 18.  
+**Source content:** The distant beam becomes visible; Fern, Anko, Maomao and Momo all turn toward the same distant event. Stage the four as one group reaction with a shared eyeline and clear depth, not four unrelated portraits.
 
 **Characters:** Fern, Anko, Maomao, Momo.
 
 **Primary validation:**
-- all four G2 designs together;
-- readable silhouettes and differences at group scale;
-- shared eyeline / environmental reaction;
-- no identity blending between characters;
-- source-faithful default/cold-weather wardrobe as appropriate to the page.
+- all four G2 designs together with distinct faces, silhouettes, body scale and hair/clothing shapes;
+- shared eyeline and environmental reaction make the direction of the distant beam obvious;
+- no identity blending between characters even when heads turn in similar directions;
+- source-faithful default/cold-weather wardrobe as appropriate to the page;
+- expressions vary naturally while all understand the same event.
+
+**Failure examples:** four duplicate faces; characters look into different directions without reason; beam becomes a giant foreground explosion; identities or wardrobes mix; reaction becomes a posed team poster.
 
 CAL-04 + CAL-05 together cover the full nine-character G1/G2 core.
 
 ---
 
-## CAL-06 ΓÇö Household work montage
+## CAL-06 — Household work montage
 
-**Source:** `THE_ARRIVALS_S1E17_GUILD_JOBS_WORKING_DAYS_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E17 Page 14.  
-**Source content:** Maomao workroom/clinic, Momo preparing staggered meals, Rimuru repairs/accounting, Bocchi using her E16 music item during a repetitive task.
+**Source:** `THE_ARRIVALS_S1E17_GUILD_JOBS_WORKING_DAYS_MANGA_PANEL_SCRIPT_v0.1.md` — E17 Page 14.  
+**Source content:** Multi-panel domestic-work montage inside the established inn: Maomao in a dedicated workroom/clinic-like workspace; Momo preparing staggered meals in the open/semi-open kitchen; Rimuru handling repairs/accounting in a practical common-room/service context; Bocchi using her E16 music item during a repetitive task. The inn's recurring sub-spaces must remain architecturally compatible with CAL-02/CAL-03.
 
 **Characters:** Maomao, Momo, Rimuru, Bocchi.
 
 **Primary validation:**
-- multi-location montage grammar;
-- small props / tools / food / medical workspace;
-- characters remaining on-model in task-oriented panels;
-- domestic worldbuilding without exposition;
-- consistent inn sub-spaces.
+- montage panels are distinct tasks/locations but belong to one coherent inn rather than four unrelated buildings;
+- Momo's cooking space shares the common-room social logic: salvaged/repaired shelves, work surfaces, cookware, jars and food prep, not a modern restaurant kitchen;
+- Rimuru's repair/accounting activity uses believable household tools, papers, inventory and shared-table/service logic;
+- Maomao's work area can be specialized but must remain plausible inside/attached to the evolving inn, with shelves and practical supplies rather than a modern laboratory;
+- Bocchi remains on-model while performing a repetitive household task with her music item;
+- small props are readable enough to tell tasks apart without drowning the page in detail.
+
+**Failure examples:** modern laboratory or commercial kitchen; four unrelated architectural styles; props float or change scale; characters become tiny generic workers; inn geometry contradicts the established common room/service side.
 
 ---
 
-## CAL-07 ΓÇö Nine-person household table
+## CAL-07 — Nine-person household table
 
-**Source:** `THE_ARRIVALS_S1E19_G3_ROAD_DAYS_SEASON_FINALE_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E19 Page 81.  
-**Source content:** wide full table, everyone settling in.
+**Source:** `THE_ARRIVALS_S1E19_G3_ROAD_DAYS_SEASON_FINALE_MANGA_PANEL_SCRIPT_v0.1.md` — E19 Page 81.  
+**Source content:** Wide full household table in the mature lived-in common room, everyone settling in. Use the established large shared table, hearth/chimney, generous circulation, open/semi-open kitchen relationship and visible/common stair logic. Warm late-day/evening light belongs naturally to this common area.
 
 **Characters:** current G1 + G2 household: Frieren, Mau, Bocchi, Yuta, Rimuru, Fern, Anko, Maomao, Momo.
 
 **Primary validation:**
-- all nine in one readable ensemble composition;
-- no duplicate/missing character;
-- stable relative scale;
-- table / room perspective;
-- crowding that still reads naturally;
-- characters should feel like a household, not nine independent portrait stickers.
+- exactly these nine household members are present and individually recognizable; no duplicate and no missing member;
+- one coherent table perspective with believable seating/standing depth and stable relative scale;
+- large shared table remains the recurring common-room anchor from the spatial bible;
+- hearth/chimney and room circulation remain compatible with CAL-02/CAL-03 rather than inventing a banquet hall;
+- warm late-day/evening common-room light supports a lived-in home atmosphere;
+- characters interact as a household through eyelines, overlaps, reaching, settling and shared space instead of appearing as nine portrait stickers.
+
+**Failure examples:** duplicate/missing household member; G3 or Sukuna added; everyone faces camera; table perspective breaks; common room becomes a castle banquet hall; established hearth/kitchen/stair geography changes.
 
 Do not add G3 or Sukuna to this page.
 
 ---
 
-## CAL-08 ΓÇö Mau name / jersey close-detail page
+## CAL-08 — Mau name / jersey close-detail page
 
-**Source:** `THE_ARRIVALS_S1E1_MAU_NAME_DISCOVERY_ADDENDUM_v0.1.md` ΓÇö INSERT B after base Page 43.  
+**Source:** `THE_ARRIVALS_S1E1_MAU_NAME_DISCOVERY_ADDENDUM_v0.1.md` — INSERT B after base Page 43.  
 **Source content:** Mau unfolds the top clothing item; personalized white long-sleeve jersey reveal; Frieren sees it; `Maybe your name is Mau.` / `I like it.`
 
 **Characters:** Mau, Frieren.
@@ -240,86 +261,95 @@ Do not add G3 or Sukuna to this page.
 - use approved/creator-grounded reference treatment rather than inventing sponsor/logo detail.
 
 **Primary validation:**
-- Mau close-up identity;
-- Frieren close-up identity;
-- hands / fabric handling;
-- readable text on a garment;
-- modern object inside fantasy visual grammar;
-- story-significant wardrobe detail does not distort body/identity.
+- Mau close-up identity remains stable while looking down/handling fabric;
+- Frieren close-up identity remains stable in reaction;
+- hands actually grip/unfold the garment with believable cloth folds;
+- the back marking `MAU T` and number `5` are the story-critical readable elements;
+- modern jersey exists inside fantasy visual grammar without inventing extra sponsor/logo text;
+- garment shape does not distort Mau's body or transfer identity traits.
+
+**Failure examples:** wrong name or number; unreadable/random pseudo-text replaces the required marking; invented sponsor logos dominate; jersey changes into a short-sleeve shirt; hand/fabric anatomy breaks; Mau or Frieren identity drifts.
 
 ---
 
-## CAL-09 ΓÇö Lake quiet acting
+## CAL-09 — Lake quiet acting
 
-**Source:** `THE_ARRIVALS_S1E14_THE_LAKE_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E14 Page 13.  
-**Source content:** Mau sits first; Frieren stands, then sits with a small gap; water reflection holds between them.
+**Source:** `THE_ARRIVALS_S1E14_THE_LAKE_MANGA_PANEL_SCRIPT_v0.1.md` — E14 Page 13.  
+**Source content:** At the recurring lake on the settlement's sunset side, Mau sits first; Frieren stands, then sits with a small deliberate gap; water reflection holds between them. The lake is reached by the narrow path from the inn/base. Its established environment includes a small weathered hut and short dock with no usable boat initially; those anchors may sit in the wider geography without distracting from the two-character acting.
 
 **Characters:** Mau, Frieren.
 
 **Primary validation:**
-- recurring lake identity;
-- restrained emotional acting;
-- body language / negative space;
-- reflections / water;
-- quiet page rhythm without over-rendered melodrama.
+- recurring lake identity is quiet, natural and geographically connected to the base rather than a random ocean/beach;
+- the waterline, short weathered dock and small hut read as modest settlement remnants, not a marina;
+- Mau sits first; Frieren's standing-to-sitting transition and the maintained small gap are the emotional staging;
+- body language, hands, shoulders and eyelines remain restrained; no theatrical embrace or melodramatic pose;
+- negative space and reflection between them carry tension/connection before dialogue explains it;
+- if late-day light is used, the lake side is the sunset side consistent with the spatial bible.
+
+**Failure examples:** romantic pin-up pose; characters immediately touch/embrace; giant fantasy lake city or beach resort; usable boat appears without story reason; dock becomes a large harbor; reflection geometry ignores the characters; emotional acting is replaced by exaggerated effects.
 
 The page should work even before dialogue explains anything.
 
 ---
 
-## CAL-10 ΓÇö Mercantile town establishing
+## CAL-10 — Mercantile town establishing
 
-**Source:** `THE_ARRIVALS_S1E16_THE_WORLD_OPENS_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E16 Page 14.  
-**Source content:** timber/stone gate street, carts, animals, awnings, guild signs; nobody stops for the group.
+**Source:** `THE_ARRIVALS_S1E16_THE_WORLD_OPENS_MANGA_PANEL_SCRIPT_v0.1.md` — E16 Page 14.  
+**Source content:** Timber/stone gate street, carts, animals, awnings and guild signs; ordinary traffic continues and nobody stops for the group. This settlement is deliberately much denser and more active than the abandoned home base.
 
 **Primary validation:**
-- major recurring external settlement;
-- medieval/fantasy material culture;
-- readable commercial density;
-- background people and transport;
-- visual contrast with the abandoned base.
+- major recurring external settlement with a clear gate/street hierarchy and commercial density;
+- timber/stone medieval-fantasy material culture, hand-built awnings/signs and practical street surfaces;
+- carts, animals, workers/travelers and shop frontage create ordinary traffic without turning into a parade;
+- density contrasts clearly with CAL-01's tiny five-house abandoned settlement;
+- route logic can plausibly connect back toward the overgrown former path to home.
 
-No modern city architecture.
+**Failure examples:** modern city architecture, asphalt, cars, neon/electronic signs, empty abandoned streets, or a tiny settlement visually indistinguishable from the home base.
 
 ---
 
-## CAL-11 ΓÇö Busy guild / dense social interior
+## CAL-11 — Busy guild / dense social interior
 
-**Source:** `THE_ARRIVALS_S1E16_THE_WORLD_OPENS_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E16 Page 27.  
-**Source content:** posting boards, hunters reporting, merchants seeking escorts, clerks writing, group entering and attracting glances but not becoming a spectacle.
+**Source:** `THE_ARRIVALS_S1E16_THE_WORLD_OPENS_MANGA_PANEL_SCRIPT_v0.1.md` — E16 Page 27.  
+**Source content:** Posting boards, hunters reporting, merchants seeking escorts, clerks writing; G1+G2 enter and attract some glances but do not become a spectacle. The room is a functioning fantasy guild with multiple simultaneous tasks.
 
 **Characters:** Frieren, Mau, Bocchi, Yuta, Rimuru, Fern, Anko, Maomao, Momo.
 
 **Primary validation:**
-- dense interior perspective;
-- background-crowd variation without stealing focus;
-- signs / boards / desks / equipment;
-- G1+G2 characters remaining recognizable inside a busy scene;
-- no accidental modern office language.
+- dense interior perspective remains readable with boards, desks/counters, papers, gear and circulation zones;
+- background crowd varies in age/body/clothing/activity without stealing focus;
+- exactly the nine G1+G2 members remain recognizable within the crowd and share plausible group movement/depth;
+- clerks write by hand and guild information lives on physical boards/papers rather than digital screens;
+- glances toward the group are incidental, not a crowd forming around celebrities.
+
+**Failure examples:** modern office/call center; computer monitors; crowd clones; household members duplicated or lost; everyone in the guild stares at the group; signs become unreadable visual noise that destroys staging.
 
 ---
 
-## CAL-12 ΓÇö Simple action: Mau / Yuta
+## CAL-12 — Simple action: Mau / Yuta
 
-**Source:** `THE_ARRIVALS_S1E17_GUILD_JOBS_WORKING_DAYS_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E17 Page 6.  
-**Source content:** creature bursts from the right; Yuta deletes it; Mau turns too late.
+**Source:** `THE_ARRIVALS_S1E17_GUILD_JOBS_WORKING_DAYS_MANGA_PANEL_SCRIPT_v0.1.md` — E17 Page 6.  
+**Source content:** One ordinary hostile creature bursts in from the right. Yuta reacts first and deletes it cleanly; Mau turns too late. The page is about readable timing difference, not a boss fight.
 
 **Characters:** Mau, Yuta, one ordinary hostile creature.
 
 **Primary validation:**
-- action readability;
-- motion / impact;
-- Yuta can look capable without turning the page into a final-boss spectacle;
-- Mau remains comparatively inexperienced/limited;
-- anatomy survives dynamic posing;
-- creature does not become a recurring named monster unless separately specified.
+- establish the creature entering from screen/page right and preserve that geography through the action;
+- Yuta's action is fast, competent and decisive while Mau is visibly a beat late;
+- the reader can understand setup, Yuta's response and Mau's delayed turn without effects obscuring sequence;
+- anatomy, weapon/hand relationships and body orientation survive dynamic posing;
+- creature remains an ordinary one-off hostile presence rather than becoming a named recurring monster;
+- scale and effects stay below final-boss spectacle.
+
+**Failure examples:** Mau attacks first; Yuta looks slow or confused; creature becomes colossal; action direction flips randomly; effects hide both characters; page becomes a single explosion with no readable timing.
 
 ---
 
-## CAL-13 ΓÇö Borrowed layered wardrobe / subtle intimacy
+## CAL-13 — Borrowed layered wardrobe / subtle intimacy
 
-**Source:** `THE_ARRIVALS_S1E18_DAY_IN_THE_LIFE_MAOMAO_CHOCOLATE_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E18 Page 27.  
-**Source content:** Frieren leans lightly against Mau while looking at something; Mau stiffens from confusion; Frieren acts as though normal.
+**Source:** `THE_ARRIVALS_S1E18_DAY_IN_THE_LIFE_MAOMAO_CHOCOLATE_MANGA_PANEL_SCRIPT_v0.1.md` — E18 Page 27.  
+**Source content:** Frieren leans lightly against Mau while looking at something; Mau stiffens from confusion; Frieren acts as though this is normal. Keep the interaction casual and close rather than overtly posed.
 
 **Characters:** Mau, Frieren.
 
@@ -331,72 +361,78 @@ No modern city architecture.
 - Frieren-owned comfortable short bottoms.
 
 **Primary validation:**
-- multiple simultaneous garments resolve correctly;
-- hoodie/cap remain visually Mau's garments while wearer is Frieren;
-- borrowed wardrobe does not transfer Mau identity traits;
-- Frieren's own bottoms remain part of the same resolved set;
-- subtle close body language;
-- chocolate lowers inhibition but does not create desire or change identity.
+- multiple simultaneous garments resolve correctly on Frieren without altering her face/body identity;
+- orange/black McLaren hoodie and white McLaren cap read as Mau-owned borrowed pieces worn by Frieren;
+- Frieren's own comfortable short bottoms remain part of the same resolved outfit;
+- Frieren leans lightly; Mau's stiffness/confusion is readable through shoulders/posture rather than exaggerated panic;
+- close body language remains ordinary/intimate and story-driven;
+- chocolate lowers inhibition but does not create desire, alter personality or change identity.
+
+**Failure examples:** Mau wears the borrowed set instead of Frieren; Frieren acquires Mau facial/body traits; hoodie/cap colors or ownership cues are lost; bottoms are replaced by unrelated garments; pose turns into fan-service or a dramatic embrace.
 
 This page is the production stress test for the W6/W8 owner-vs-wearer wardrobe model.
 
 ---
 
-## CAL-14 ΓÇö G3 fixed-group visual sampler
+## CAL-14 — G3 fixed-group visual sampler
 
-**Source:** `THE_ARRIVALS_S1E19_G3_ROAD_DAYS_SEASON_FINALE_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E19 Page 78.  
-**Source content:** resting-thread montage: Mikasa in elevated/tree rest, Okarun/Umaru/Kita caravan thread, Coco/Qifrey/Wakana/Marin fire thread; shared distant mountain motif; then transition toward home.
+**Source:** `THE_ARRIVALS_S1E19_G3_ROAD_DAYS_SEASON_FINALE_MANGA_PANEL_SCRIPT_v0.1.md` — E19 Page 78.  
+**Source content:** Resting-thread montage: Mikasa in elevated/tree rest; Okarun/Umaru/Kita caravan thread; Coco/Qifrey/Wakana/Marin fire thread. A shared distant mountain motif visually links the three threads before transition toward home, but they are not physically together.
 
 **Characters:** Mikasa, Okarun, Umaru, Kita, Coco, Qifrey, Wakana, Marin.
 
 **Primary validation:**
-- all late-S1 G3 designs receive at least one visual-production pass;
-- fixed groupings remain distinct;
-- three environments can share a visual motif without looking like one physical campsite;
-- G3 remains secondary to the G1/G2 house style but visually compatible with it.
+- all late-S1 G3 designs receive a readable visual-production pass without identity blending;
+- preserve fixed groupings exactly: Mikasa alone; Okarun/Umaru/Kita together; Coco/Qifrey/Wakana/Marin together;
+- three environments remain clearly separate physical locations despite sharing the distant mountain motif;
+- montage composition leads the eye through three threads rather than collapsing into one campsite;
+- G3 remains compatible with the overall house style while each thread keeps appropriate character energy.
+
+**Failure examples:** all eight gather at one fire; Mikasa joins a group; people swap between fixed groupings; repeated background makes all three panels the same campsite; identities blend at small scale.
 
 Do not collapse the three threads into one gathering. G3 does not reach G1/G2 in S1.
 
 ---
 
-## CAL-15 ΓÇö Sukuna design / ordinary-world contrast
+## CAL-15 — Sukuna design / ordinary-world contrast
 
-**Source:** `THE_ARRIVALS_S1E19_G3_ROAD_DAYS_SEASON_FINALE_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E19 Page 88.  
-**Source content:** ordinary major-city market traffic, children, guards, carts/workers, Sukuna standing among them.
+**Source:** `THE_ARRIVALS_S1E19_G3_ROAD_DAYS_SEASON_FINALE_MANGA_PANEL_SCRIPT_v0.1.md` — E19 Page 88.  
+**Source content:** Ordinary major-city market traffic, children, guards, carts/workers, with Sukuna standing among them. The menace comes from his presence inside normal life rather than from effects spam.
 
 **Characters:** Sukuna.
 
 **Latest creator-direction override:** Sukuna appears in his **Heian-era body**, not as Megumi's vessel. Current future-direction material also preserves Ten Shadows access, but this page does not need to expose or explain it.
 
 **Primary validation:**
-- Sukuna's definitive project design;
-- Heian body silhouette / four-arm readability;
-- visual menace created by contrast rather than effects spam;
-- civilians remain ordinary and unaware;
-- large-city background remains compatible with the same native world.
+- Sukuna uses the definitive Heian-era project design;
+- four-arm silhouette and anatomy remain immediately readable without limbs merging;
+- visual menace comes from calm contrast with ordinary unaware civilians;
+- children, guards, workers and carts continue normal activity rather than forming a reaction crowd;
+- major-city environment stays compatible with the same native fantasy world.
+
+**Failure examples:** Megumi-vessel appearance; only two arms; extra/missing limbs; aura/explosion effects consume the scene; civilians all flee or worship him without source support; modern-city background.
 
 This calibration page does **not** license Sukuna to appear anywhere except story pages that actually call for him.
 
 ---
 
-## CAL-16 ΓÇö High-intensity supernatural composition
+## CAL-16 — High-intensity supernatural composition
 
-**Source:** `THE_ARRIVALS_S1E19_G3_ROAD_DAYS_SEASON_FINALE_MANGA_PANEL_SCRIPT_v0.1.md` ΓÇö E19 Page 94.  
-**Source content:** one large ominous composition: `Malevolent Shrine.`
+**Source:** `THE_ARRIVALS_S1E19_G3_ROAD_DAYS_SEASON_FINALE_MANGA_PANEL_SCRIPT_v0.1.md` — E19 Page 94.  
+**Source content:** One large ominous composition: `Malevolent Shrine.` Sukuna remains the focal anchor while the environment/domain treatment supplies the overwhelming scale.
 
 **Characters:** Sukuna.
 
 **Primary validation:**
-- extreme-value / high-contrast manga composition;
-- domain/environment effects;
-- readable focal hierarchy;
-- ability to depart from quiet house-style rendering when story intensity requires it;
-- special visual mode can be stronger without turning the entire season into that style.
+- extreme-value/high-contrast manga composition remains readable in black and white;
+- domain/environment effects create scale without losing Sukuna as focal anchor;
+- focal hierarchy leads first to Sukuna/central threat, then to surrounding supernatural structure;
+- this page may deliberately depart from quiet house-style rendering because the source intensity requires it;
+- special visual mode is scoped to this stress page rather than contaminating ordinary-page style.
+
+**Failure examples:** generic energy blast with no environmental/domain presence; effects hide Sukuna entirely; no readable focal hierarchy; videogame HUD/stat window; ordinary pages' clean house style is replaced by permanent maximalist effects.
 
 This page is specifically a **style-stress test**, not the baseline style target for ordinary pages.
-
----
-
 
 ---
 
@@ -527,7 +563,7 @@ Therefore:
 
 ## `UPGRADE QUALITY`
 
-Use when the creator likes the semantic page ΓÇö staging, cast, outfits, expressions, layout and story meaning are correct ΓÇö but wants higher fidelity / cleanup / detail / resolution.
+Use when the creator likes the semantic page — staging, cast, outfits, expressions, layout and story meaning are correct — but wants higher fidelity / cleanup / detail / resolution.
 
 An upgrade should preserve the page's semantic intent and lineage.
 
@@ -594,11 +630,13 @@ Required behavior:
 
 - materialize/start this as a dedicated NON_CANON calibration chapter/run;
 - preserve each CAL page's source locator and notes;
+- convert each page's `Primary validation` into actual render directions, not review-only metadata;
+- convert `Failure examples` into negative/avoid constraints;
 - keep calibration continuity isolated from official canon continuity;
 - use the normal W8 minimal/reference-safe bundle builder;
 - allow creator review, quality upgrade, semantic regeneration and later supersession without deleting earlier approved artifacts;
 - do not mark any page approved on the creator's behalf during setup/tests;
 - if a real GPU/provider is not configured, expose truthful READY/BLOCKED state rather than fabricating output;
-- once a real backend is available, creator can start CAL-01 locally and proceed through CAL-16 in the reader.
+- once a real backend is available, creator can start CAL-01 locally and proceed through CAL-18 in the reader.
 
 After this chapter is visually calibrated, official S1 production can begin from the actual approved S1 episode/page scripts rather than from this sampler.

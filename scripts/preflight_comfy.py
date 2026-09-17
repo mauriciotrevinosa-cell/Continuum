@@ -149,12 +149,18 @@ def main(argv: list[str] | None = None) -> int:
             if not state.get("production_ready"):
                 smoke_results[provider_id] = {
                     "ok": False,
-                    "error": "structural production preflight failed; smoke render was not attempted",
+                    "error": (
+                        "structural production preflight failed; "
+                        "smoke render was not attempted"
+                    ),
                 }
                 continue
             provider = registry.get(provider_id)
             if not isinstance(provider, ComfyPageProvider):
-                smoke_results[provider_id] = {"ok": False, "error": "not a ComfyUI page provider"}
+                smoke_results[provider_id] = {
+                    "ok": False,
+                    "error": "not a ComfyUI page provider",
+                }
                 continue
             try:
                 smoke_results[provider_id] = {"ok": True, **_smoke(provider)}
@@ -178,10 +184,15 @@ def main(argv: list[str] | None = None) -> int:
                 result = smoke_results.get(str(state.get("provider_id") or ""), {})
                 print(f"  smoke render: {'PASS' if result.get('ok') else 'FAIL'}")
                 if result.get("ok"):
-                    print(f"    master: {result.get('master_size')} · {result.get('master_sha256')}")
+                    master_size = result.get("master_size")
+                    master_sha = result.get("master_sha256")
+                    print(f"    master: {master_size} · {master_sha}")
                     print(
                         "    identity refs sent: "
-                        + ", ".join(str(v) for v in result.get("identity_references_sent") or [])
+                        + ", ".join(
+                            str(v)
+                            for v in result.get("identity_references_sent") or []
+                        )
                     )
                 elif result.get("error"):
                     print(f"    error: {result['error']}")

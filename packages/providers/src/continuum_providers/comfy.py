@@ -23,7 +23,6 @@ from typing import Any
 from continuum_core import ProviderUnavailableError
 from continuum_core.jobstates import BlockedReason
 from continuum_core.references import RenderOutput
-from continuum_imaging import probe
 from continuum_imaging.manga import bw_finish, compose_manga_page, panel_boxes
 
 from continuum_providers.artwork import (

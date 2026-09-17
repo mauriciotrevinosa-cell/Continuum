@@ -1385,6 +1385,7 @@ class MangaProduction:
                 "version": artifact.panel_script_version,
             },
             "brief": clean_text(notes or artifact.brief, 8000, field="Brief"),
+            "creator_notes": clean_text(notes, 8000, field="Creator notes") if notes else "",
             "characters": [],
             "visual_modes": [],
             "bundle": [],

@@ -22,6 +22,7 @@ export function AddReference({
   characters,
   modes,
   projects,
+  sourceTitle,
 }: {
   mediaId: string;
   page: number;
@@ -30,6 +31,7 @@ export function AddReference({
   characters: CharacterSummary[];
   modes: VisualMode[];
   projects: ProjectChoice[];
+  sourceTitle?: string;
 }) {
   const { busy, error, run } = useAction();
   const [added, setAdded] = useState<ReferenceView[]>([]);
@@ -57,6 +59,7 @@ export function AddReference({
         projects={projects}
         busy={busy}
         page={page}
+        sourceTitle={sourceTitle}
         submitLabel={region ? "Add this region" : "Add this page"}
         onSubmit={(spec) =>
           run(async () => {
@@ -80,7 +83,9 @@ export function AddReference({
             <Link key={reference.id} className="list-item" href={`/library/references/${reference.id}`} target="_blank">
               <span>
                 {reference.characters[0]
-                  ? `${reference.characters[0].character_name} · ${reference.characters[0].aspect.toLowerCase().replace(/_/g, " ")}`
+                  ? `${reference.characters[0].character_name} · ${reference.characters
+                      .map((link) => link.aspect.toLowerCase().replace(/_/g, " "))
+                      .join(" + ")}`
                   : reference.techniques[0]
                     ? reference.techniques[0].facet.toLowerCase().replace(/_/g, " ")
                     : reference.panel_sources[0]

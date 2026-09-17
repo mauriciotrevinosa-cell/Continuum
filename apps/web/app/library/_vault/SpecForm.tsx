@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   ASPECTS,
   type CharacterSummary,
@@ -44,11 +44,18 @@ export interface SpecBody {
 }
 
 type Tab = "character" | "style" | "scene";
+type CharacterPreset = "single" | "lite-grounding" | "fanart-variant";
 
 const TAB_DEFAULTS: Record<Tab, { reference_class: string; uses: string[] }> = {
   character: { reference_class: "CANON", uses: ["IDENTITY"] },
   style: { reference_class: "TECHNIQUE", uses: ["STYLE"] },
   scene: { reference_class: "CANON", uses: ["SCENE_SOURCE"] },
+};
+
+const CHARACTER_PRESET_LABELS: Record<CharacterPreset, string> = {
+  single: "Single aspect",
+  "lite-grounding": "Lite grounding",
+  "fanart-variant": "Fanart / variant",
 };
 
 export function Toggles({
@@ -150,6 +157,7 @@ export function SpecForm({
   onSubmit,
   defaultOrigin = "SOURCE",
   page,
+  sourceTitle,
 }: {
   characters: CharacterSummary[];
   modes: VisualMode[];
@@ -159,8 +167,10 @@ export function SpecForm({
   onSubmit: (spec: SpecBody) => void;
   defaultOrigin?: string;
   page?: number | null;
+  sourceTitle?: string;
 }) {
   const [tab, setTab] = useState<Tab>("character");
+  const [characterPreset, setCharacterPreset] = useState<CharacterPreset>("single");
   const [referenceClass, setReferenceClass] = useState("CANON");
   const [origin, setOrigin] = useState(defaultOrigin);
   const [label, setLabel] = useState("");
@@ -184,8 +194,42 @@ export function SpecForm({
   const [role, setRole] = useState("SOURCE_PLATE");
   const outfits = useOutfits(characterId);
 
+  const orderedCharacters = useMemo(() => {
+    const source = sourceTitle?.trim().toLocaleLowerCase();
+    if (!source) return characters;
+    const score = (character: CharacterSummary) => {
+      const label = character.source_label.trim().toLocaleLowerCase();
+      return label && (source.includes(label) || label.includes(source)) ? 0 : 1;
+    };
+    return [...characters].sort(
+      (a, b) => score(a) - score(b) || a.display_name.localeCompare(b.display_name),
+    );
+  }, [characters, sourceTitle]);
+
+  const applyCharacterPreset = (next: CharacterPreset) => {
+    setCharacterPreset(next);
+    if (next === "fanart-variant") {
+      setReferenceClass("MOOD");
+      setOrigin("FAN_ART");
+      setUses(["STYLE"]);
+      setPreferred(false);
+      return;
+    }
+    setReferenceClass("CANON");
+    setOrigin(defaultOrigin);
+    setUses(["IDENTITY"]);
+    if (next === "lite-grounding") {
+      setAspect("FACE");
+      setOutfitId("");
+    }
+  };
+
   const choose = (next: Tab) => {
     setTab(next);
+    if (next === "character") {
+      applyCharacterPreset(characterPreset);
+      return;
+    }
     setReferenceClass(TAB_DEFAULTS[next].reference_class);
     setUses(TAB_DEFAULTS[next].uses);
   };
@@ -211,12 +255,15 @@ export function SpecForm({
       panel_sources: [],
     };
     if (tab === "character" && characterId) {
-      spec.characters.push({
-        character_id: characterId,
-        aspect,
-        outfit_id: outfitId || null,
-        preferred,
-      });
+      const aspects = characterPreset === "lite-grounding" ? ["FACE", "HAIR", "FULL_BODY"] : [aspect];
+      spec.characters.push(
+        ...aspects.map((linkAspect, index) => ({
+          character_id: characterId,
+          aspect: linkAspect,
+          outfit_id: characterPreset === "lite-grounding" ? null : outfitId || null,
+          preferred: characterPreset === "fanart-variant" ? false : preferred && index === 0,
+        })),
+      );
     }
     if (tab === "style") spec.techniques.push({ facet, visual_mode_id: modeId || null });
     if (projectKey && standing) {
@@ -257,6 +304,22 @@ export function SpecForm({
 
       {tab === "character" ? (
         <div className="stack">
+          <div className="field">
+            <span className="label">Reference intent</span>
+            <div className="tabs" role="tablist" aria-label="Character reference intent">
+              {(["single", "lite-grounding", "fanart-variant"] as CharacterPreset[]).map((preset) => (
+                <button
+                  key={preset}
+                  type="button"
+                  role="tab"
+                  aria-selected={characterPreset === preset}
+                  onClick={() => applyCharacterPreset(preset)}
+                >
+                  {CHARACTER_PRESET_LABELS[preset]}
+                </button>
+              ))}
+            </div>
+          </div>
           <Select
             label="Character"
             value={characterId}
@@ -264,20 +327,39 @@ export function SpecForm({
               setCharacterId(v);
               setOutfitId("");
             }}
-            options={characters.map((c) => ({ value: c.id, label: `${c.display_name}${c.subject_kind !== "CHARACTER" ? ` (${words(c.subject_kind)})` : ""}` }))}
+            options={orderedCharacters.map((c) => ({
+              value: c.id,
+              label: `${c.display_name}${c.subject_kind !== "CHARACTER" ? ` (${words(c.subject_kind)})` : ""}`,
+            }))}
             empty={characters.length ? "Choose…" : "Create a character first"}
           />
-          <Select
-            label="Aspect"
-            value={aspect}
-            onChange={setAspect}
-            options={[
-              ...ASPECTS.IDENTITY.map((a) => ({ value: a, label: `Identity · ${words(a)}` })),
-              ...ASPECTS.WARDROBE.map((a) => ({ value: a, label: `Wardrobe · ${words(a)}` })),
-              ...ASPECTS.ACTING.map((a) => ({ value: a, label: `Acting · ${words(a)}` })),
-            ]}
-          />
-          {characterId ? (
+          {sourceTitle ? (
+            <p className="hint" style={{ marginTop: -6 }}>
+              Characters whose source matches {sourceTitle} are shown first.
+            </p>
+          ) : null}
+          {characterPreset === "lite-grounding" ? (
+            <p className="hint">
+              Links this image as Face + Hair + Full body in one save. Production readiness still requires 3 confirmed high-authority references across at least 2 sources; this preset does not lower that threshold.
+            </p>
+          ) : (
+            <Select
+              label="Aspect"
+              value={aspect}
+              onChange={setAspect}
+              options={[
+                ...ASPECTS.IDENTITY.map((a) => ({ value: a, label: `Identity · ${words(a)}` })),
+                ...ASPECTS.WARDROBE.map((a) => ({ value: a, label: `Wardrobe · ${words(a)}` })),
+                ...ASPECTS.ACTING.map((a) => ({ value: a, label: `Acting · ${words(a)}` })),
+              ]}
+            />
+          )}
+          {characterPreset === "fanart-variant" ? (
+            <p className="hint">
+              Saved as Fan art + Style. It remains supplemental/stylization evidence and does not count as identity/body grounding.
+            </p>
+          ) : null}
+          {characterId && characterPreset !== "lite-grounding" ? (
             <Select
               label="Outfit"
               value={outfitId}
@@ -286,10 +368,12 @@ export function SpecForm({
               empty="No particular outfit"
             />
           ) : null}
-          <label className="check">
-            <input type="checkbox" checked={preferred} onChange={(e) => setPreferred(e.target.checked)} />
-            Preferred for this aspect
-          </label>
+          {characterPreset !== "fanart-variant" ? (
+            <label className="check">
+              <input type="checkbox" checked={preferred} onChange={(e) => setPreferred(e.target.checked)} />
+              {characterPreset === "lite-grounding" ? "Preferred grounding reference" : "Preferred for this aspect"}
+            </label>
+          ) : null}
         </div>
       ) : tab === "style" ? (
         <div className="stack">

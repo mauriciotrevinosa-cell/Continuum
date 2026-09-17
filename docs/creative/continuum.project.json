@@ -16,6 +16,18 @@
   ],
   "documents": [
     {
+      "id": "the-arrivals-s1-production-calibration-chapter-v0-1",
+      "path": "THE_ARRIVALS_S1_PRODUCTION_CALIBRATION_CHAPTER_v0.1.md",
+      "title": "The Arrivals \u2014 S1 Production Calibration Chapter",
+      "category": "calibration",
+      "section": "production",
+      "lifecycle": "APPROVED",
+      "maturity": "PRODUCTION_READY",
+      "version": "0.1",
+      "lineage": "s1-production-calibration-chapter",
+      "summary": "Creator-approved non-canon 16-page production calibration package for recurring cast, environments, wardrobe, acting, ensemble composition, action and high-intensity effects."
+    },
+    {
       "id": "production-pipeline-and-git-rules",
       "path": "THE_ARRIVALS_PRODUCTION_PIPELINE_AND_GIT_RULES_v0.1.md",
       "title": "Production Pipeline & Git Rules",

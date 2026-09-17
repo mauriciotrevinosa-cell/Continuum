@@ -1,31 +1,43 @@
-"""Import a character reference pack (a ZIP of photos plus a pack spec) into the Reference Vault.
+"""Import a character reference pack (a ZIP of images plus a pack spec) into the Reference Vault.
 
-    uv run python scripts/import_character_pack.py
+    uv run python scripts/import_character_pack.py \
         --pack path/to/pack.zip --spec spec.json [--apply]
 
 Dry-run by default: prints what would be imported. ``--apply`` writes.
 
 The spec is local data, never committed. It names the character and says what
-each folder (or file) of the pack grounds::
+each folder (or file) of the pack grounds. Rules may override class, origin and
+uses so a small pack can mix authoritative grounding with supplemental fanart
+without fanart silently becoming identity canon::
 
     {
-      "character": {"display_name": "...", "origin": "PROJECT_ORIGINAL",
-                    "project_key": "...", "design_documents": ["..."],
-                    "summary": "...", "notes": "..."},
-      "reference_origin": "USER_CREATED",
+      "character": {"display_name": "...", "origin": "SOURCE_WORK",
+                    "source_label": "...", "subject_kind": "CHARACTER"},
+      "reference_class": "CANON",
+      "reference_origin": "SOURCE",
       "rights_status": "OWNED",
       "folders": {
-        "photos/identity_priority/": {"aspects": ["FACE", "HAIR"], "preferred": true,
-                                       "standing": "CANONICAL_FOR_PROJECT", "notes": "..."},
-        "photos/secondary_group_context/": {"aspects": ["EXPRESSION"],
-                                             "rights_status": "UNKNOWN",
-                                             "training_eligibility": "EXCLUDED",
-                                             "notes": "contains other people ..."}
+        "lite_grounding/": {
+          "aspects": ["FACE", "HAIR", "FULL_BODY"],
+          "uses": ["IDENTITY"],
+          "preferred": true,
+          "notes": "One of the small authoritative grounding set."
+        },
+        "fanart_variants/": {
+          "aspects": ["FULL_BODY", "POSE"],
+          "reference_class": "MOOD",
+          "reference_origin": "FAN_ART",
+          "uses": ["STYLE"],
+          "training_eligibility": "EXCLUDED",
+          "notes": "Supplemental angle/look inspiration only; never identity grounding."
+        }
       },
-      "files": {"photos/identity_priority/a.jpeg": {"aspects": ["FACE", "HAIR", "EXPRESSION"]}}
+      "files": {
+        "lite_grounding/a.jpeg": {"aspects": ["FACE", "HAIR", "FULL_BODY"]}
+      }
     }
 
-Re-running is safe: a photo already linked to the character (same bytes) is skipped.
+Re-running is safe: an image already linked to the character (same bytes) is skipped.
 Every reference records the pack's SHA-256 and the member path it came from.
 """
 
@@ -47,6 +59,8 @@ from continuum_core.references import (
     ProjectStanding,
     ReferenceClass,
     ReferenceOrigin,
+    ReferenceUse,
+    SubjectKind,
 )
 from continuum_db.models import CharacterProfile, LibraryAsset, ReferenceCharacter, ReferenceItem
 from continuum_db.session import session_scope
@@ -68,6 +82,11 @@ def _rule(spec: dict[str, Any], member: str) -> dict[str, Any] | None:
     return rule
 
 
+def _setting(rule: dict[str, Any], spec: dict[str, Any], key: str, default: Any) -> Any:
+    """A per-file/folder choice overrides the pack-level default."""
+    return rule[key] if key in rule else spec.get(key, default)
+
+
 def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--pack", required=True)
@@ -86,8 +105,15 @@ def main(argv: list[str]) -> int:
         ]
         plan = [(info, _rule(spec, info.filename)) for info in members]
         for info, rule in plan:
-            aspects = (rule or {}).get("aspects") or []
-            print(f"{'SKIP (no rule)' if not rule else ','.join(aspects):40} {info.filename}")
+            if not rule:
+                summary = "SKIP (no rule)"
+            else:
+                aspects = ",".join(rule.get("aspects") or []) or "no aspects"
+                origin = _setting(rule, spec, "reference_origin", "USER_CREATED")
+                reference_class = _setting(rule, spec, "reference_class", "CANON")
+                uses = ",".join(_setting(rule, spec, "uses", [])) or "no uses"
+                summary = f"{reference_class}/{origin} {aspects} [{uses}]"
+            print(f"{summary:64} {info.filename}")
         if not args.apply:
             print(f"\n{len(plan)} image(s); dry run - pass --apply to import.")
             return 0
@@ -106,7 +132,9 @@ def main(argv: list[str]) -> int:
             if character is None:
                 character = catalog.create_character(
                     wanted["display_name"],
+                    subject_kind=SubjectKind(wanted.get("subject_kind", "CHARACTER")),
                     origin=CharacterOrigin(wanted.get("origin", "SOURCE_WORK")),
+                    source_label=wanted.get("source_label", ""),
                     project_key=wanted.get("project_key"),
                     design_documents=wanted.get("design_documents", []),
                     summary=wanted.get("summary", ""),
@@ -133,14 +161,25 @@ def main(argv: list[str]) -> int:
                     skipped += 1
                     continue
                 standing = rule.get("standing")
+                origin = ReferenceOrigin(
+                    _setting(rule, spec, "reference_origin", "USER_CREATED")
+                )
+                reference_class = ReferenceClass(
+                    _setting(rule, spec, "reference_class", "CANON")
+                )
+                uses = tuple(
+                    ReferenceUse(use) for use in _setting(rule, spec, "uses", [])
+                )
                 item = catalog.add_upload(
                     data,
                     ReferenceSpec(
-                        reference_class=ReferenceClass.CANON,
-                        origin=ReferenceOrigin(spec.get("reference_origin", "USER_CREATED")),
+                        reference_class=reference_class,
+                        origin=origin,
                         label=rule.get("label")
                         or f"{wanted['display_name']} - {Path(info.filename).name}",
                         notes=rule.get("notes", ""),
+                        favorite=bool(_setting(rule, spec, "favorite", False)),
+                        uses=uses,
                         characters=tuple(
                             CharacterLink(
                                 character.id,

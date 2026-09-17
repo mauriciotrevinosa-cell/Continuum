@@ -13,13 +13,15 @@
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass
+import math
 
-from PIL import Image, ImageOps
+from PIL import Image, ImageDraw, ImageFilter, ImageOps
 
 from continuum_imaging import EncodedImage, encode_png, open_image
 
-__all__ = ["PageLayout", "analyze_layout", "bw_finish", "tint_finish"]
+__all__ = ["PageLayout", "analyze_layout", "bw_finish", "compose_manga_page", "panel_boxes", "tint_finish"]
 
 _BAYER = (
     (0, 8, 2, 10),
@@ -29,25 +31,39 @@ _BAYER = (
 )
 
 
-def bw_finish(master: bytes, *, ink: int = 70, paper: int = 200) -> EncodedImage:
-    """A black-and-white manga finish with the master's exact dimensions."""
-    image = ImageOps.autocontrast(open_image(master).convert("L"))
-    width, height = image.size
-    source = image.load()
+def bw_finish(master: bytes, *, ink: int = 68, paper: int = 224) -> EncodedImage:
+    """Line-preserving black-and-white manga finish at the master's geometry.
+
+    The previous finish treated every midtone as a Bayer-dithered photo. That
+    destroyed facial linework and produced a photocopy/comic texture. This
+    version first sharpens structure, forces detected line edges to ink, keeps
+    highlights clean, and only screentones the remaining midtones.
+    """
+    gray = ImageOps.autocontrast(open_image(master).convert("L"), cutoff=1)
+    gray = gray.filter(ImageFilter.UnsharpMask(radius=1.0, percent=170, threshold=3))
+    edges = ImageOps.autocontrast(gray.filter(ImageFilter.FIND_EDGES))
+    width, height = gray.size
+    source = gray.load()
+    edge_map = edges.load()
     out = Image.new("L", (width, height), 255)
     target = out.load()
-    assert source is not None and target is not None
+    assert source is not None and edge_map is not None and target is not None
+
     for y in range(height):
         row = _BAYER[y % 4]
         for x in range(width):
             value = int(source[x, y])  # type: ignore[arg-type]
-            if value <= ink:
+            edge = int(edge_map[x, y])  # type: ignore[arg-type]
+            if value <= ink or (edge >= 92 and value < 242):
                 target[x, y] = 0
             elif value >= paper:
                 target[x, y] = 255
             else:
+                # Ordered screentone only in genuine middle values. The bias
+                # keeps skin/light fabric mostly paper-white instead of noisy.
                 level = (value - ink) * 16 // max(1, paper - ink)
-                target[x, y] = 255 if level > row[x % 4] else 0
+                threshold = row[x % 4]
+                target[x, y] = 255 if level + 2 > threshold else 0
     return encode_png(out)
 
 
@@ -57,6 +73,107 @@ def tint_finish(master: bytes, seed: int) -> EncodedImage:
     dark = ((seed * 37) % 90, (seed * 53) % 90, (seed * 71) % 90 + 40)
     light = (255, 246, 228)
     return encode_png(ImageOps.colorize(gray, black=dark, white=light))
+
+
+def panel_boxes(count: int) -> tuple[tuple[float, float, float, float], ...]:
+    """Deterministic manga-like panel geometry in reading order.
+
+    Geometry belongs to Continuum, not to the diffusion model. Templates keep
+    gutters and hierarchy stable; a five-panel page deliberately reserves a
+    large lower panel for climax/reaction beats such as CAL-17/CAL-18.
+    """
+    if count <= 0:
+        return ()
+    templates: dict[int, tuple[tuple[float, float, float, float], ...]] = {
+        1: ((0.0, 0.0, 1.0, 1.0),),
+        2: ((0.0, 0.0, 1.0, 0.47), (0.0, 0.53, 1.0, 0.47)),
+        3: (
+            (0.0, 0.0, 1.0, 0.42),
+            (0.0, 0.48, 0.48, 0.52),
+            (0.52, 0.48, 0.48, 0.52),
+        ),
+        4: (
+            (0.0, 0.0, 1.0, 0.25),
+            (0.0, 0.31, 0.48, 0.34),
+            (0.52, 0.31, 0.48, 0.34),
+            (0.0, 0.71, 1.0, 0.29),
+        ),
+        5: (
+            (0.0, 0.0, 1.0, 0.16),
+            (0.0, 0.22, 0.48, 0.20),
+            (0.52, 0.22, 0.48, 0.20),
+            (0.0, 0.48, 1.0, 0.16),
+            (0.0, 0.70, 1.0, 0.30),
+        ),
+        6: (
+            (0.0, 0.0, 0.48, 0.27),
+            (0.52, 0.0, 0.48, 0.27),
+            (0.0, 0.33, 1.0, 0.24),
+            (0.0, 0.63, 0.48, 0.17),
+            (0.52, 0.63, 0.48, 0.17),
+            (0.0, 0.86, 1.0, 0.14),
+        ),
+    }
+    if count in templates:
+        return templates[count]
+
+    columns = 2 if count <= 8 else 3
+    rows = math.ceil(count / columns)
+    gap = 0.04
+    cell_w = (1.0 - gap * (columns - 1)) / columns
+    cell_h = (1.0 - gap * (rows - 1)) / rows
+    boxes = []
+    for index in range(count):
+        row, column = divmod(index, columns)
+        boxes.append(
+            (
+                column * (cell_w + gap),
+                row * (cell_h + gap),
+                cell_w,
+                cell_h,
+            )
+        )
+    return tuple(boxes)
+
+
+def compose_manga_page(
+    panels: Sequence[bytes],
+    width: int,
+    height: int,
+    *,
+    margin: int = 28,
+    gutter: int = 12,
+    border: int = 3,
+) -> EncodedImage:
+    """Assemble already-rendered panels on deterministic white manga paper."""
+    if not panels:
+        raise ValueError("at least one panel is required")
+    canvas = Image.new("RGB", (width, height), (255, 255, 255))
+    draw = ImageDraw.Draw(canvas)
+    inner_w = max(1, width - 2 * margin)
+    inner_h = max(1, height - 2 * margin)
+    boxes = panel_boxes(len(panels))
+
+    for data, (nx, ny, nw, nh) in zip(panels, boxes, strict=True):
+        x0 = margin + round(nx * inner_w)
+        y0 = margin + round(ny * inner_h)
+        x1 = margin + round((nx + nw) * inner_w)
+        y1 = margin + round((ny + nh) * inner_h)
+        # Pull the image inward slightly so neighbouring borders never touch.
+        x0 += gutter // 2
+        y0 += gutter // 2
+        x1 -= gutter // 2
+        y1 -= gutter // 2
+        panel = open_image(data)
+        panel = ImageOps.fit(
+            panel,
+            (max(1, x1 - x0), max(1, y1 - y0)),
+            method=Image.Resampling.LANCZOS,
+            centering=(0.5, 0.5),
+        )
+        canvas.paste(panel, (x0, y0))
+        draw.rectangle((x0, y0, x1 - 1, y1 - 1), outline=0, width=border)
+    return encode_png(canvas)
 
 
 @dataclass(frozen=True, slots=True)

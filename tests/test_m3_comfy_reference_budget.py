@@ -4,12 +4,15 @@ from __future__ import annotations
 
 from pathlib import Path
 
+from PIL import Image
+
 from continuum_core.references import RenderOutput
 from continuum_imaging import encode_png, probe
 from continuum_imaging.manga import bw_finish, compose_manga_page, panel_boxes
 from continuum_production.calibration import calibration_body, parse_calibration
 from continuum_production.plan import page_plan
 from continuum_providers.artwork import (
+    ArtworkBackendKind,
     ArtworkCapabilities,
     ArtworkReference,
     PageRenderRequest,
@@ -21,8 +24,6 @@ from continuum_providers.comfy import (
     ComfyPageProvider,
     _select_identity_references,
 )
-from continuum_providers.artwork import ArtworkBackendKind
-from PIL import Image
 
 CALIBRATION_DOC = (
     Path(__file__).resolve().parents[1]

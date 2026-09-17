@@ -85,7 +85,8 @@ def tint_finish(master: bytes, seed: int) -> EncodedImage:
 def panel_boxes(count: int) -> tuple[tuple[float, float, float, float], ...]:
     """Deterministic manga-like panel geometry in reading order.
 
-    Geometry belongs to Continuum, not to the diffusion model. Templates keep
+    Geometry belongs to Continuum, not to the diffusion model. Rows read right-to-left.
+    Templates keep
     gutters and hierarchy stable; a five-panel page deliberately reserves a
     large lower panel for climax/reaction beats such as CAL-17/CAL-18.
     """
@@ -96,28 +97,28 @@ def panel_boxes(count: int) -> tuple[tuple[float, float, float, float], ...]:
         2: ((0.0, 0.0, 1.0, 0.47), (0.0, 0.53, 1.0, 0.47)),
         3: (
             (0.0, 0.0, 1.0, 0.42),
-            (0.0, 0.48, 0.48, 0.52),
             (0.52, 0.48, 0.48, 0.52),
+            (0.0, 0.48, 0.48, 0.52),
         ),
         4: (
             (0.0, 0.0, 1.0, 0.25),
-            (0.0, 0.31, 0.48, 0.34),
             (0.52, 0.31, 0.48, 0.34),
+            (0.0, 0.31, 0.48, 0.34),
             (0.0, 0.71, 1.0, 0.29),
         ),
         5: (
             (0.0, 0.0, 1.0, 0.16),
-            (0.0, 0.22, 0.48, 0.20),
             (0.52, 0.22, 0.48, 0.20),
+            (0.0, 0.22, 0.48, 0.20),
             (0.0, 0.48, 1.0, 0.16),
             (0.0, 0.70, 1.0, 0.30),
         ),
         6: (
-            (0.0, 0.0, 0.48, 0.27),
             (0.52, 0.0, 0.48, 0.27),
+            (0.0, 0.0, 0.48, 0.27),
             (0.0, 0.33, 1.0, 0.24),
-            (0.0, 0.63, 0.48, 0.17),
             (0.52, 0.63, 0.48, 0.17),
+            (0.0, 0.63, 0.48, 0.17),
             (0.0, 0.86, 1.0, 0.14),
         ),
     }
@@ -131,7 +132,8 @@ def panel_boxes(count: int) -> tuple[tuple[float, float, float, float], ...]:
     cell_h = (1.0 - gap * (rows - 1)) / rows
     boxes = []
     for index in range(count):
-        row, column = divmod(index, columns)
+        row, logical_column = divmod(index, columns)
+        column = columns - 1 - logical_column
         boxes.append(
             (
                 column * (cell_w + gap),

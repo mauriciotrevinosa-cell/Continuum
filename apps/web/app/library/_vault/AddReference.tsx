@@ -5,9 +5,15 @@ import { useState } from "react";
 import type { Region } from "@/lib/regions";
 import { type CharacterSummary, type ReferenceView, type VisualMode, vaultFetch } from "@/lib/vault";
 import { Feedback, useAction } from "./useAction";
-import { type ProjectChoice, SpecForm } from "./SpecForm";
+import { type ProjectChoice, type SpecBody, SpecForm } from "./SpecForm";
 
 export type { ProjectChoice };
+
+function validateReaderReference(spec: SpecBody): void {
+  if (!spec.characters.length && !spec.techniques.length && !spec.panel_sources.length) {
+    throw new Error("Choose a character, style technique, or scene target before adding this reference.");
+  }
+}
 
 /**
  * Add the page on screen - or a region drawn on it - to the Character Vault,
@@ -63,6 +69,7 @@ export function AddReference({
         submitLabel={region ? "Add this region" : "Add this page"}
         onSubmit={(spec) =>
           run(async () => {
+            validateReaderReference(spec);
             const reference = await vaultFetch<ReferenceView>("library/references/from-source", {
               json: { media_id: mediaId, page_index: page, spec: { ...spec, region } },
             });

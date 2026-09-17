@@ -146,38 +146,52 @@ export function ReadinessGrid({ readiness }: { readiness: CorpusReadiness }) {
   );
 }
 
+type ProductionBackend = Backend & {
+  production_ready?: boolean;
+  production_gaps?: string[];
+};
+
 export function BackendList({ backends }: { backends: Backend[] }) {
   return (
     <div className="backend-list">
-      {backends.map((b) => (
-        <div key={b.kind} className="backend-row">
-          <div className="stack" style={{ gap: 2 }}>
-            <strong>{b.kind.replace("_", " ")}</strong>
-            <span className="muted mono">{b.provider_id}</span>
-          </div>
-          <div className="stack" style={{ gap: 2 }}>
-            <span>{b.reason}</span>
-            {b.configured && b.kind !== "TEST" ? (
-              <span className="muted">
-                {b.endpoint ? `${b.endpoint} · ` : ""}
-                checkpoint {b.checkpoint_available ? "available" : "not listed"} · identity conditioning{" "}
-                {b.identity_conditioning ? "yes" : "no"}
-                {b.model_metadata_missing?.length ? ` · model record missing: ${b.model_metadata_missing.join(", ")}` : ""}
-                {b.workflow ? ` · workflow ${b.workflow.id} v${b.workflow.version}` : ""}
+      {backends.map((b) => {
+        const production = b as ProductionBackend;
+        const productionReady = b.output !== "TEST_RENDER" && production.production_ready === true;
+        return (
+          <div key={b.kind} className="backend-row">
+            <div className="stack" style={{ gap: 2 }}>
+              <strong>{b.kind.replace("_", " ")}</strong>
+              <span className="muted mono">{b.provider_id}</span>
+            </div>
+            <div className="stack" style={{ gap: 2 }}>
+              <span>{b.reason}</span>
+              {b.configured && b.kind !== "TEST" ? (
+                <>
+                  <span className="muted">
+                    {b.endpoint ? `${b.endpoint} · ` : ""}
+                    checkpoint {b.checkpoint_available ? "available" : "not listed"} · identity conditioning{" "}
+                    {b.identity_conditioning ? "yes" : "no"}
+                    {b.model_metadata_missing?.length ? ` · model record missing: ${b.model_metadata_missing.join(", ")}` : ""}
+                    {b.workflow ? ` · workflow ${b.workflow.id} v${b.workflow.version}` : ""}
+                  </span>
+                  {production.production_gaps?.length ? (
+                    <span className="constraint">Production preflight: {production.production_gaps.join(" · ")}</span>
+                  ) : null}
+                </>
+              ) : null}
+            </div>
+            <span className="chips">
+              <span className={`chip ${b.configured ? "info" : "muted"}`}>{b.configured ? "Configured" : "Not configured"}</span>
+              {b.configured ? (
+                <span className={`chip ${b.reachable ? "ok" : "err"}`}>{b.reachable ? "Reachable" : "Unreachable"}</span>
+              ) : null}
+              <span className={`chip ${b.output === "TEST_RENDER" ? "warn" : productionReady ? "ok" : "muted"}`}>
+                {b.output === "TEST_RENDER" ? "Test renders only" : productionReady ? "Production ready" : "Preflight blocked"}
               </span>
-            ) : null}
-          </div>
-          <span className="chips">
-            <span className={`chip ${b.configured ? "info" : "muted"}`}>{b.configured ? "Configured" : "Not configured"}</span>
-            {b.configured ? (
-              <span className={`chip ${b.reachable ? "ok" : "err"}`}>{b.reachable ? "Reachable" : "Unreachable"}</span>
-            ) : null}
-            <span className={`chip ${b.output === "TEST_RENDER" ? "warn" : b.ready ? "ok" : "muted"}`}>
-              {b.output === "TEST_RENDER" ? "Test renders only" : b.ready ? "Artwork ready" : "No artwork"}
             </span>
-          </span>
-        </div>
-      ))}
+          </div>
+        );
+      })}
     </div>
   );
 }

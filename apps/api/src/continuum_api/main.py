@@ -41,6 +41,7 @@ from starlette.responses import JSONResponse
 from continuum_api.routers import (
     acquisition,
     catalog,
+    continue_controls,
     corpus,
     health,
     jobs,
@@ -166,5 +167,6 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     app.include_router(manga.router)
     app.include_router(corpus.router)
     app.include_router(catalog.router)
+    app.include_router(continue_controls.router)
     app.include_router(project_inputs.router)
     return app

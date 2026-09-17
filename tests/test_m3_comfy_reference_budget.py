@@ -190,7 +190,7 @@ def test_panel_prompt_forbids_model_lettering_and_scopes_identity() -> None:
         plan={},
         continuity={"character_rules": {}},
         references=(),
-        settings={"brief": "Keep the timing crystal clear."},
+        settings={"creator_notes": "Keep the timing crystal clear."},
     )
     positive, negative = provider._panel_prompts(
         request,
@@ -204,5 +204,6 @@ def test_panel_prompt_forbids_model_lettering_and_scopes_identity() -> None:
     assert "characters: Yuta" in positive
     assert "characters: Mau" not in positive
     assert "no lettering" in positive
+    assert "creator correction: Keep the timing crystal clear." in positive
     assert "speech bubble" in negative
     assert "Mau attacks first" in negative

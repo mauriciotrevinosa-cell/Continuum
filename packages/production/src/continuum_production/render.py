@@ -431,6 +431,7 @@ def _render_page(
             **(execution.get("backend_settings") or {}),
             "workflow": execution["workflow"],
             "brief": str(recipe.intent.get("brief") or ""),
+            "creator_notes": str(recipe.intent.get("creator_notes") or ""),
         },
     )
     gaps = capability_gaps(provider.capabilities, request)

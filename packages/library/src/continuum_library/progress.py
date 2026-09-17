@@ -10,6 +10,12 @@ the file the viewer opened.
 Recorded per unit: the page (manga) or the playback position (video), when it
 was last opened, and when it was completed. Series-level "last opened" and
 "last completed" are read from those rows; nothing is denormalised.
+
+The Studio's Continue shelf has one separate piece of presentation state:
+a group may be hidden without changing progress. Fresh activity clears that
+hide automatically. "Haven't read/watched" is intentionally different: it
+removes the matching series+medium progress rows so opening the work again
+starts from the beginning.
 """
 
 from __future__ import annotations
@@ -20,9 +26,15 @@ from typing import Any
 
 from continuum_core import uuid7
 from continuum_core.catalog import EntryStatus, MemberKind, ProgressMedium, UnitKind
-from continuum_db.models import CatalogEntry, CatalogMember, CatalogUnit, MediaProgress
+from continuum_db.models import (
+    CatalogEntry,
+    CatalogMember,
+    CatalogUnit,
+    MediaProgress,
+    MediaProgressDismissal,
+)
 from continuum_storage import MediaLibrary, MediaUnavailableError
-from sqlalchemy import select
+from sqlalchemy import delete, select
 from sqlalchemy.dialects.postgresql import insert
 from sqlalchemy.orm import Session
 
@@ -38,9 +50,11 @@ from continuum_library.vault_views import PROFILE, unit_view
 __all__ = [
     "COMPLETION_RATIO",
     "continue_items",
+    "hide_continue_group",
     "position_for",
     "record_reading",
     "record_watching",
+    "reset_continue_group",
 ]
 
 VAULT_ROOT_KEY = "source_vault"
@@ -68,6 +82,10 @@ def _series_of(session: Session, unit_key: str, relative: str) -> str | None:
     if found:
         return found
     return place(relative, is_vault=True).series_key
+
+
+def _group_key(series_key: str | None, unit_key: str) -> str:
+    return series_key or unit_key
 
 
 def _upsert(session: Session, values: dict[str, Any], *, completed: bool) -> MediaProgress:
@@ -106,6 +124,18 @@ def _upsert(session: Session, values: dict[str, Any], *, completed: bool) -> Med
         },
     )
     session.execute(statement)
+
+    # Hiding is a shelf preference, not a durable decision to ignore later
+    # activity. Opening the title again makes it eligible for Continue at once.
+    session.execute(
+        delete(MediaProgressDismissal).where(
+            MediaProgressDismissal.profile_key == PROFILE,
+            MediaProgressDismissal.project_key == values["project_key"],
+            MediaProgressDismissal.group_key
+            == _group_key(values.get("series_key"), values["unit_key"]),
+            MediaProgressDismissal.medium == values["medium"].value,
+        )
+    )
     session.flush()
     session.expire_all()
     return session.execute(
@@ -276,26 +306,114 @@ def position_for(
     return _view(row) if row is not None else None
 
 
+def _progress_for_action(
+    session: Session, *, unit_key: str, project_key: str | None = None
+) -> MediaProgress:
+    row = session.execute(
+        select(MediaProgress).where(
+            MediaProgress.profile_key == PROFILE,
+            MediaProgress.project_key == _project(project_key),
+            MediaProgress.unit_key == unit_key,
+        )
+    ).scalar_one_or_none()
+    if row is None:
+        raise CatalogNotFoundError("That Continue item no longer has saved progress.")
+    return row
+
+
+def hide_continue_group(
+    session: Session, *, unit_key: str, project_key: str | None = None
+) -> dict[str, Any]:
+    """Hide a Continue group without changing its reading/watching history."""
+    row = _progress_for_action(session, unit_key=unit_key, project_key=project_key)
+    group_key = _group_key(row.series_key, row.unit_key)
+    now = _now()
+    statement = insert(MediaProgressDismissal).values(
+        id=uuid7(),
+        profile_key=PROFILE,
+        project_key=_project(project_key),
+        group_key=group_key,
+        medium=row.medium.value,
+        hidden_at=now,
+    )
+    statement = statement.on_conflict_do_update(
+        index_elements=["profile_key", "project_key", "group_key", "medium"],
+        set_={"hidden_at": now},
+    )
+    session.execute(statement)
+    session.flush()
+    return {
+        "hidden": True,
+        "group_key": group_key,
+        "medium": row.medium.value,
+        "progress_preserved": True,
+    }
+
+
+def reset_continue_group(
+    session: Session, *, unit_key: str, project_key: str | None = None
+) -> dict[str, Any]:
+    """Forget progress for one series+medium so it starts from the beginning."""
+    project = _project(project_key)
+    row = _progress_for_action(session, unit_key=unit_key, project_key=project)
+    group_key = _group_key(row.series_key, row.unit_key)
+    where = [
+        MediaProgress.profile_key == PROFILE,
+        MediaProgress.project_key == project,
+        MediaProgress.medium == row.medium,
+    ]
+    if row.series_key:
+        where.append(MediaProgress.series_key == row.series_key)
+    else:
+        where.append(MediaProgress.unit_key == row.unit_key)
+    deleted = session.execute(delete(MediaProgress).where(*where))
+    session.execute(
+        delete(MediaProgressDismissal).where(
+            MediaProgressDismissal.profile_key == PROFILE,
+            MediaProgressDismissal.project_key == project,
+            MediaProgressDismissal.group_key == group_key,
+            MediaProgressDismissal.medium == row.medium.value,
+        )
+    )
+    session.flush()
+    return {
+        "reset": True,
+        "group_key": group_key,
+        "medium": row.medium.value,
+        "rows_removed": int(deleted.rowcount or 0),
+    }
+
+
 def continue_items(
     session: Session, *, project_key: str | None = None, limit: int = 12
 ) -> list[dict[str, Any]]:
-    """What to pick up again: the latest unit per series, or the next one after it."""
+    """What to pick up again: the latest visible unit per series, or the next one after it."""
+    project = _project(project_key)
     rows = list(
         session.execute(
             select(MediaProgress)
             .where(
                 MediaProgress.profile_key == PROFILE,
-                MediaProgress.project_key == _project(project_key),
+                MediaProgress.project_key == project,
             )
             .order_by(MediaProgress.opened_at.desc())
             .limit(500)
         ).scalars()
     )
+    hidden = {
+        (group_key, medium)
+        for group_key, medium in session.execute(
+            select(MediaProgressDismissal.group_key, MediaProgressDismissal.medium).where(
+                MediaProgressDismissal.profile_key == PROFILE,
+                MediaProgressDismissal.project_key == project,
+            )
+        ).all()
+    }
     seen: set[tuple[str, str]] = set()
     items: list[dict[str, Any]] = []
     for row in rows:
-        group = (row.series_key or row.unit_key, row.medium.value)
-        if group in seen:
+        group = (_group_key(row.series_key, row.unit_key), row.medium.value)
+        if group in hidden or group in seen:
             continue
         seen.add(group)
         found = session.execute(

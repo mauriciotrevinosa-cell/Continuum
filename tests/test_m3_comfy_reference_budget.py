@@ -207,3 +207,44 @@ def test_panel_prompt_forbids_model_lettering_and_scopes_identity() -> None:
     assert "creator correction: Keep the timing crystal clear." in positive
     assert "speech bubble" in negative
     assert "Mau attacks first" in negative
+
+
+
+def test_story_page_directions_become_authored_panel_beats() -> None:
+    page = {
+        "origin": "base",
+        "characters": ["Frieren", "Fern"],
+        "directions": [
+            "Frieren intercepts the counter from another angle.",
+            "Fern attacks.",
+            "Enemy evades and counters.",
+        ],
+        "dialogue": [],
+        "constraints": [],
+        "intents": ["silent"],
+    }
+    plan = page_plan(page, ["Frieren", "Fern"])
+    panels = plan["render_panels"]
+    assert len(panels) == 3
+    assert panels[0]["characters"] == ["Frieren"]
+    assert panels[1]["characters"] == ["Fern"]
+    assert panels[2]["characters"] == []
+
+
+def test_dialogue_speaker_is_not_dropped_from_story_panel_plan() -> None:
+    page = {
+        "origin": "base",
+        "characters": ["Frieren", "Fern"],
+        "directions": ["Frieren raises her staff toward the enemy."],
+        "dialogue": [{"speaker": "Fern", "kind": "speech", "text": "Frieren!"}],
+        "constraints": [],
+        "intents": ["low_dialogue"],
+    }
+    plan = page_plan(page, ["Frieren", "Fern"])
+    assert len(plan["render_panels"]) == 1
+    assert set(plan["render_panels"][0]["characters"]) == {"Frieren", "Fern"}
+
+
+def test_manga_panel_geometry_reads_right_to_left_within_rows() -> None:
+    boxes = panel_boxes(4)
+    assert boxes[1][0] > boxes[2][0]

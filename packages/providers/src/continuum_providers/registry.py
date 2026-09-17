@@ -116,6 +116,33 @@ def build_default_registry(
     return registry
 
 
+def _production_gaps(state: dict[str, Any]) -> list[str]:
+    """What still prevents a real, identity-grounded manga render.
+
+    ``ready`` intentionally remains the provider-level health check: Comfy can
+    render a generic image when the core nodes and checkpoint are present.
+    Manga production is stricter. It must also be able to condition character
+    identity and record enough checkpoint/workflow metadata to reproduce the
+    result later.
+    """
+    gaps: list[str] = []
+    if not state.get("ready"):
+        gaps.append(str(state.get("reason") or "backend is not ready"))
+        return gaps
+    if not state.get("identity_conditioning"):
+        gaps.append("IP-Adapter identity conditioning nodes are not available")
+    missing = [str(value) for value in state.get("model_metadata_missing") or []]
+    if missing:
+        gaps.append(f"checkpoint metadata is incomplete: {', '.join(missing)}")
+    workflow = state.get("workflow")
+    if not isinstance(workflow, dict) or not all(
+        isinstance(workflow.get(key), str) and workflow.get(key)
+        for key in ("id", "version", "sha256")
+    ):
+        gaps.append("workflow provenance metadata is incomplete")
+    return gaps
+
+
 def artwork_backends(
     registry: ProviderRegistry, settings: Any | None = None
 ) -> list[dict[str, Any]]:
@@ -130,6 +157,8 @@ def artwork_backends(
             "configured": True,
             "reachable": True,
             "ready": True,
+            "production_ready": False,
+            "production_gaps": ["TEST renders are workflow diagrams, never manga artwork"],
             "output": "TEST_RENDER",
             "reason": "deterministic diagrams for workflow tests - never artwork",
         }
@@ -143,8 +172,13 @@ def artwork_backends(
     ):
         provider = registered.get(provider_id)
         if isinstance(provider, ComfyPageProvider):
-            out.append({**provider.status(refresh=True).as_dict(), "output": "ARTWORK_CANDIDATE"})
+            state = {**provider.status(refresh=True).as_dict(), "output": "ARTWORK_CANDIDATE"}
+            gaps = _production_gaps(state)
+            state["production_ready"] = not gaps
+            state["production_gaps"] = gaps
+            out.append(state)
         else:
+            reason = f"{kind.value} is not configured (set CONTINUUM_{url_field.upper()})"
             out.append(
                 {
                     "kind": kind.value,
@@ -152,8 +186,10 @@ def artwork_backends(
                     "configured": False,
                     "reachable": False,
                     "ready": False,
+                    "production_ready": False,
+                    "production_gaps": [reason],
                     "output": "ARTWORK_CANDIDATE",
-                    "reason": f"{kind.value} is not configured (set CONTINUUM_{url_field.upper()})",
+                    "reason": reason,
                 }
             )
     return out

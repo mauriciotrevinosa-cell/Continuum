@@ -16,6 +16,19 @@
   ],
   "documents": [
     {
+      "id": "manga-renderer-architecture-v0-1",
+      "path": "THE_ARRIVALS_MANGA_RENDERER_ARCHITECTURE_v0.1.md",
+      "title": "The Arrivals — Manga Renderer Architecture",
+      "category": "workflow",
+      "section": "production",
+      "lifecycle": "APPROVED",
+      "maturity": "PRODUCTION_READY",
+      "authority": "RULE",
+      "version": "0.1",
+      "lineage": "manga-renderer-architecture",
+      "summary": "Panel-first rendering rule: Continuum owns sequencing, right-to-left page geometry, identity scope, lettering, manga B&W and provenance; Animagine remains a replaceable panel-support backend rather than the page author."
+    },
+    {
       "id": "the-arrivals-s1-production-calibration-chapter-v0-1",
       "path": "THE_ARRIVALS_S1_PRODUCTION_CALIBRATION_CHAPTER_v0.1.md",
       "title": "The Arrivals \u2014 S1 Production Calibration Chapter",

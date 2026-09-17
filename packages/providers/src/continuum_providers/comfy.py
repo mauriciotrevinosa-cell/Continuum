@@ -502,7 +502,7 @@ class ComfyPageProvider:
         names = ", ".join(characters)
         direction = str(panel.get("direction") or "").strip()
         shot = str(panel.get("shot") or "STANDARD").lower()
-        brief = str(request.settings.get("brief") or "").strip()
+        creator_notes = str(request.settings.get("creator_notes") or "").strip()
 
         context = next(
             (
@@ -539,8 +539,12 @@ class ComfyPageProvider:
             f"scene context: {context}" if context and context != direction else "",
             "required: " + "; ".join(relevant_locks[:3]) if relevant_locks else "",
         ]
-        if brief and brief not in direction and brief not in context:
-            positive_parts.append(f"creator correction: {brief}")
+        if (
+            creator_notes
+            and creator_notes not in direction
+            and creator_notes not in context
+        ):
+            positive_parts.append(f"creator correction: {creator_notes}")
         positive = ". ".join(part for part in positive_parts if part)[:3600]
 
         negatives = [BASE_NEGATIVE, NOISE_NEGATIVE]

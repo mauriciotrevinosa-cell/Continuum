@@ -17,7 +17,8 @@ from fastapi import APIRouter, HTTPException, Request
 from pydantic import BaseModel, ConfigDict, Field
 
 router = APIRouter(prefix="/catalog/progress", tags=["catalog"])
-_UNIT_KEY = r"^[0-9a-f]{64}$"
+# unit_key_for() deliberately stores a truncated SHA-256: 40 lowercase hex chars.
+_UNIT_KEY = r"^[0-9a-f]{40}$"
 _PROJECT_KEY = r"^[a-z0-9][a-z0-9-]{0,79}$"
 
 

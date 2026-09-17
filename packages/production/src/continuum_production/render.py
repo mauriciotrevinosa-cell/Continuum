@@ -1,22 +1,9 @@
 """Rendering one rough attempt - the worker side of the pipeline.
 
 Called by the ``visual.rough_attempt`` job handler inside the job's session.
-Every effect is repeat-safe (ADR-0002 section 2):
-
-* bytes land content-addressed under ``generated/``, so a re-run after a crash
-  rewrites nothing;
-* the attempt's rows (derivatives, output hash, GENERATED state) are written
-  into the job's session and committed only with the step completion, under
-  the worker's ownership lock - a worker that lost the job commits none of it;
-* an attempt that is no longer QUEUED is returned as-is.
-
-What blocks instead of failing, with remediation:
-
-* no permitted ROUGH_RENDER provider (policy decides; never a paid fallback);
-* a source plate or reference whose bytes are not reachable or have changed.
-
-The source is read, never written: plates are read through the catalog's
-read-only source access, and the crop, mask and output are new artifacts.
+Every effect - derived bytes under ``generated/`` - is content-addressed and
+attempt state is committed with the durable job step. Production pages use the
+PAGE_RENDER boundary while legacy rough attempts continue through ROUGH_RENDER.
 """
 
 from __future__ import annotations
@@ -110,7 +97,6 @@ def render_attempt(
     )
 
     data_class = DataClass.SOURCE_EXCERPT if inputs else DataClass.PROJECT_TEXT
-    # Raises ProviderUnavailableError carrying blocked_reason: the job parks.
     provider = providers.resolve(Capability.ROUGH_RENDER, data_class)
 
     loaded = {row.position: _input_bytes(session, catalog, row) for row in inputs}
@@ -129,8 +115,8 @@ def render_attempt(
         for op in intent.get("operations") or []
     )
     placements = tuple(
-        RoughPlacement(region=NormalizedRegion(**p["region"]), label=_placement_label(p, intent))
-        for p in intent.get("placements") or []
+        RoughPlacement(region=NormalizedRegion(**placement["region"]), label=_placement_label(placement, intent))
+        for placement in intent.get("placements") or []
     )
 
     derivatives: list[tuple[DerivativeKind, bytes, dict[str, Any]]] = []
@@ -146,7 +132,7 @@ def render_attempt(
                 {"input_position": plate_row.position, "locator": plate_row.locator},
             )
         )
-        changing = [op.region for op in operations if op.kind in {k.value for k in CHANGING}]
+        changing = [op.region for op in operations if op.kind in {kind.value for kind in CHANGING}]
         if changing:
             mask = mask_from_regions(crop.width, crop.height, changing)
             mask_bytes = mask.data
@@ -169,7 +155,6 @@ def render_attempt(
             width=int(execution["width"]),
             height=int(execution["height"]),
             seed=int(execution["seed"]),
-            # From the recipe only: the same recipe and seed give the same pixels.
             title=f"{target['project_key']} {where}",
             workflow=str(execution["workflow"]),
             lines=tuple(_lines(intent)),
@@ -240,13 +225,10 @@ def render_attempt(
             output_hash = stored.content_hash
 
     attempt.state = AttemptState.GENERATED
-    # What the image is evidence of comes from the renderer that drew it: a
-    # test renderer's diagram can never be approved as art.
     descriptor = getattr(provider, "descriptor", None)
     attempt.output_class = RenderOutput(
         getattr(descriptor, "rough_output", RenderOutput.TEST_RENDER)
     )
-    # What drew it, as the renderer reports it - required for artwork candidates.
     attempt.artwork_provenance = {
         "backend": result.provider_id,
         "model": {
@@ -302,18 +284,18 @@ def _input_bytes(session: Session, catalog: ReferenceCatalog, row: AttemptInput)
 
 def _operation_label(op: dict[str, Any], intent: dict[str, Any]) -> str:
     parts = [op.get("label") or ""]
-    names = {c["character_id"]: c["name"] for c in intent.get("characters") or []}
+    names = {character["character_id"]: character["name"] for character in intent.get("characters") or []}
     if op.get("character_id") in names:
         parts.append(names[op["character_id"]])
     if op.get("text"):
         parts.append(f'"{op["text"]}"')
-    return " ".join(p for p in parts if p).strip()
+    return " ".join(part for part in parts if part).strip()
 
 
 def _placement_label(placement: dict[str, Any], intent: dict[str, Any]) -> str:
-    names = {c["character_id"]: c["name"] for c in intent.get("characters") or []}
+    names = {character["character_id"]: character["name"] for character in intent.get("characters") or []}
     name = names.get(placement.get("character_id") or "", "")
-    return " ".join(p for p in (placement.get("label") or "", name) if p).strip()
+    return " ".join(part for part in (placement.get("label") or "", name) if part).strip()
 
 
 def _lines(intent: dict[str, Any]) -> list[str]:
@@ -325,7 +307,7 @@ def _lines(intent: dict[str, Any]) -> list[str]:
         if character.get("visual_mode_name"):
             text += f" [{character['visual_mode_name']}]"
         lines.append(text)
-    modes = sorted({m["name"] for m in intent.get("visual_modes") or []})
+    modes = sorted({mode["name"] for mode in intent.get("visual_modes") or []})
     if modes:
         lines.append("modes: " + ", ".join(modes))
     return lines[:4]
@@ -392,7 +374,7 @@ def _render_page(
             remediation="Choose a PAGE_RENDER backend in the production profile.",
             blocked_reason=BlockedReason.MISSING_PROVIDER.value,
         )
-    names = {c["character_id"]: c["name"] for c in bundle.get("characters") or []}
+    names = {character["character_id"]: character["name"] for character in bundle.get("characters") or []}
     inputs = list(
         session.execute(
             select(AttemptInput)
@@ -433,7 +415,11 @@ def _render_page(
         plan=bundle.get("plan") or {},
         continuity=bundle.get("continuity") or {},
         references=tuple(references),
-        settings={**(execution.get("backend_settings") or {}), "workflow": execution["workflow"]},
+        settings={
+            **(execution.get("backend_settings") or {}),
+            "workflow": execution["workflow"],
+            "brief": str(recipe.intent.get("brief") or ""),
+        },
     )
     gaps = capability_gaps(provider.capabilities, request)
     if gaps:
@@ -465,8 +451,8 @@ def _render_page(
         "provider_id": result.provider_id,
         "master_sha256": master,
         "references": [
-            {"role": r.role, "reference_id": r.reference_id, "character": r.character}
-            for r in references
+            {"role": reference.role, "reference_id": reference.reference_id, "character": reference.character}
+            for reference in references
         ],
     }
     attempt.output_class = RenderOutput(result.output)

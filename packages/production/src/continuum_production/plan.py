@@ -58,7 +58,8 @@ PRIMARY_INTENT_ORDER = (
 
 
 _PANEL_DIRECTION = re.compile(
-    r"^(?:PAGE CONSTRUCTION:\s*)?Panel\s+(?P<number>\d+)\s*:\s*(?P<direction>.+)$",
+    r"^(?:PAGE CONSTRUCTION:\s*)?Panel\s+(?P<number>\d+)"
+    r"(?:\s+\[CAST:\s*(?P<cast>[^\]]*)\])?\s*:\s*(?P<direction>.+)$",
     re.I,
 )
 
@@ -81,11 +82,28 @@ def _render_panels(
 ) -> list[dict[str, Any]]:
     """Return creator-authored render beats without inventing page structure."""
     directions = [str(value).strip() for value in page.get("directions") or []]
-    explicit: list[tuple[int, str]] = []
+    explicit: list[tuple[int, str, list[str] | None]] = []
     for direction in directions:
         match = _PANEL_DIRECTION.match(direction)
-        if match:
-            explicit.append((int(match.group("number")), match.group("direction").strip()))
+        if not match:
+            continue
+        cast_text = match.group("cast")
+        explicit_cast: list[str] | None = None
+        if cast_text is not None:
+            wanted = {
+                token.strip().lower()
+                for token in cast_text.split(",")
+                if token.strip()
+                and token.strip().lower() not in {"none", "environment", "no people"}
+            }
+            explicit_cast = [name for name in present if name.lower() in wanted]
+        explicit.append(
+            (
+                int(match.group("number")),
+                match.group("direction").strip(),
+                explicit_cast,
+            )
+        )
     explicit.sort(key=lambda item: item[0])
 
     beats = explicit
@@ -103,16 +121,22 @@ def _render_panels(
         # denser review direction, so without explicit construction it remains
         # one bounded render rather than inventing a panel breakdown.
         if page.get("origin") != "calibration" and 1 <= len(authored) <= 8:
-            beats = list(enumerate(authored, start=1))
+            beats = [(number, direction, None) for number, direction in enumerate(authored, start=1)]
         else:
             source = authored[0] if authored else str(page.get("label") or "page composition")
-            beats = [(1, source)]
+            beats = [(1, source, None)]
 
     out: list[dict[str, Any]] = []
-    for number, direction in beats:
-        named = [name for name in present if _mentions(direction, name)]
+    for number, direction, explicit_cast in beats:
+        named = (
+            list(explicit_cast)
+            if explicit_cast is not None
+            else [name for name in present if _mentions(direction, name)]
+        )
         lowered = direction.lower()
-        if not named and len(present) == 1:
+        if explicit_cast is not None:
+            pass
+        elif not named and len(present) == 1:
             named = list(present)
         elif not named and any(
             token in lowered

@@ -24,7 +24,7 @@ from continuum_core import ProviderUnavailableError
 from continuum_core.jobstates import BlockedReason
 from continuum_core.references import RenderOutput
 from continuum_imaging import probe
-from continuum_imaging.manga import bw_finish
+from continuum_imaging.manga import bw_finish, compose_manga_page, panel_boxes
 
 from continuum_providers.artwork import (
     ArtworkBackendKind,
@@ -57,7 +57,7 @@ __all__ = [
 ]
 
 WORKFLOW_ID = "continuum.comfy.page"
-WORKFLOW_VERSION = "1"
+WORKFLOW_VERSION = "2"
 CORE_NODES = (
     "CheckpointLoaderSimple",
     "CLIPTextEncode",
@@ -71,7 +71,9 @@ CORE_NODES = (
 IDENTITY_NODES = ("IPAdapterUnifiedLoader", "IPAdapterAdvanced", "ImageBatch")
 NOISE_NEGATIVE = "HUD, videogame UI, status window, stat screen, computer overlay, interface panel"
 BASE_NEGATIVE = (
-    "text, letters, watermark, signature, logo, lowres, blurry, deformed hands, extra fingers"
+    "text, letters, typography, Japanese characters, speech bubble, dialogue balloon, caption, "
+    "sound effect text, watermark, signature, logo, panel border, comic page, collage, contact "
+    "sheet, duplicate person, extra people, lowres, blurry, deformed hands, extra fingers"
 )
 
 Transport = Callable[[str, str, bytes | None, dict[str, str]], tuple[int, bytes]]
@@ -249,6 +251,7 @@ def workflow_manifest() -> dict[str, str]:
         "master": _master_graph(),
         "color": _color_graph(),
         "identity": list(IDENTITY_NODES),
+        "composition": "deterministic-panel-first-v1",
     }
     digest = hashlib.sha256(json.dumps(templates, sort_keys=True).encode()).hexdigest()
     return {"id": WORKFLOW_ID, "version": WORKFLOW_VERSION, "sha256": digest}
@@ -490,21 +493,147 @@ class ComfyPageProvider:
                 )
             time.sleep(self.config.poll_seconds)
 
-    def _prompts(self, request: PageRenderRequest) -> tuple[str, str]:
+    def _panel_prompts(
+        self, request: PageRenderRequest, panel: dict[str, Any]
+    ) -> tuple[str, str]:
+        """Prompt one panel only; Continuum owns page layout and lettering."""
         page = request.page
-        names = ", ".join(page.get("characters") or [])
-        directions = " ".join(str(item) for item in page.get("directions") or [])
+        characters = [str(name) for name in panel.get("characters") or []]
+        names = ", ".join(characters)
+        direction = str(panel.get("direction") or "").strip()
+        shot = str(panel.get("shot") or "STANDARD").lower()
         brief = str(request.settings.get("brief") or "").strip()
-        positive_parts = [self.config.style_prompt, names, directions]
-        if brief and brief not in directions:
-            positive_parts.append(f"CREATOR DIRECTION: {brief}")
+
+        context = next(
+            (
+                str(item).strip()
+                for item in page.get("directions") or []
+                if str(item).strip()
+                and not str(item).startswith("PAGE CONSTRUCTION:")
+                and not str(item).startswith("MUST SHOW:")
+            ),
+            "",
+        )
+        locks = [
+            str(item).removeprefix("MUST SHOW:").strip()
+            for item in page.get("directions") or []
+            if str(item).startswith("MUST SHOW:")
+        ]
+        relevant_locks = [
+            lock
+            for lock in locks
+            if not characters or any(name.lower() in lock.lower() for name in characters)
+        ]
+        if not relevant_locks:
+            relevant_locks = locks[:2]
+
+        positive_parts = [
+            "single Japanese manga panel illustration",
+            "clean intentional ink contours",
+            "manga-ready anatomy and facial construction",
+            "restrained cel shading, controlled values, readable silhouette",
+            "no lettering; leave clean negative space for later typography",
+            f"{shot} shot",
+            f"characters: {names}" if names else "environment only; no people",
+            f"panel action: {direction}",
+            f"scene context: {context}" if context and context != direction else "",
+            "required: " + "; ".join(relevant_locks[:3]) if relevant_locks else "",
+        ]
+        if brief and brief not in direction and brief not in context:
+            positive_parts.append(f"creator correction: {brief}")
         positive = ". ".join(part for part in positive_parts if part)[:3600]
 
         negatives = [BASE_NEGATIVE, NOISE_NEGATIVE]
         negatives.extend(str(item) for item in page.get("constraints") or [])
-        for rule in (request.continuity.get("character_rules") or {}).values():
+        rules = request.continuity.get("character_rules") or {}
+        for name in characters:
+            rule = rules.get(name) or {}
             negatives.extend(str(item) for item in rule.get("forbidden_accessories") or [])
         return positive, ", ".join(item for item in negatives if item)[:3600]
+
+    @staticmethod
+    def _panel_size(request: PageRenderRequest, box: tuple[float, float, float, float]) -> tuple[int, int]:
+        """A T4-friendly latent size matching the panel aspect ratio."""
+        _x, _y, width_share, height_share = box
+        target_w = max(1, int(request.width * width_share))
+        target_h = max(1, int(request.height * height_share))
+        scale = min(1.0, 1024 / max(target_w, target_h))
+        width = max(512, int(target_w * scale))
+        height = max(512, int(target_h * scale))
+        width = max(512, round(width / 64) * 64)
+        height = max(512, round(height / 64) * 64)
+        return min(width, 1024), min(height, 1024)
+
+    def _add_identity_chain(
+        self,
+        graph: dict[str, Any],
+        references: Sequence[ArtworkReference],
+        uploaded_cache: dict[str, str],
+    ) -> None:
+        """Apply each character's refs through its own adapter stage.
+
+        A single ImageBatch containing several people tells IP-Adapter to blend
+        identities. Chaining one adapter per named character keeps evidence
+        grouped even when two characters share a panel.
+        """
+        groups: dict[str, list[ArtworkReference]] = {}
+        for reference in references:
+            if reference.character:
+                groups.setdefault(reference.character, []).append(reference)
+        if not groups:
+            return
+
+        graph["20"] = {
+            "class_type": "IPAdapterUnifiedLoader",
+            "inputs": {"model": ["4", 0], "preset": self.config.ipadapter_preset},
+        }
+        model: list[Any] = ["20", 0]
+        load_node = 100
+        batch_node = 300
+        adapter_node = 500
+        weight = self.config.ipadapter_weight / max(1.0, len(groups) ** 0.25)
+
+        for _character, group in groups.items():
+            image_nodes: list[list[Any]] = []
+            for reference in group:
+                digest = _sha(reference.data)
+                uploaded = uploaded_cache.get(digest)
+                if uploaded is None:
+                    uploaded = self._upload(f"continuum-{digest[:24]}.png", reference.data)
+                    uploaded_cache[digest] = uploaded
+                node = str(load_node)
+                load_node += 1
+                graph[node] = {"class_type": "LoadImage", "inputs": {"image": uploaded}}
+                image_nodes.append([node, 0])
+
+            batch = image_nodes[0]
+            for image_node in image_nodes[1:]:
+                node = str(batch_node)
+                batch_node += 1
+                graph[node] = {
+                    "class_type": "ImageBatch",
+                    "inputs": {"image1": batch, "image2": image_node},
+                }
+                batch = [node, 0]
+
+            node = str(adapter_node)
+            adapter_node += 1
+            graph[node] = {
+                "class_type": "IPAdapterAdvanced",
+                "inputs": {
+                    "model": model,
+                    "ipadapter": ["20", 1],
+                    "image": batch,
+                    "weight": weight,
+                    "weight_type": "linear",
+                    "combine_embeds": "concat",
+                    "start_at": 0.0,
+                    "end_at": 1.0,
+                    "embeds_scaling": "V only",
+                },
+            }
+            model = [node, 0]
+        graph["3"]["inputs"]["model"] = model
 
     def render_page(self, request: PageRenderRequest) -> PageRenderResult:
         status = self.status(refresh=True)
@@ -539,84 +668,101 @@ class ComfyPageProvider:
                     blocked_reason=BlockedReason.MISSING_PROVIDER.value,
                 )
 
-        sent = (
-            _select_identity_references(identity, self.config.max_reference_images)
-            if status.identity_conditioning
-            else []
-        )
-        positive, negative = self._prompts(request)
-        values = {
-            "checkpoint": self.config.model.name,
-            "positive": positive,
-            "negative": negative,
-            "width": request.width,
-            "height": request.height,
-            "seed": request.seed,
-            "steps": self.config.steps,
-            "cfg": self.config.cfg,
-            "sampler": self.config.sampler,
-            "scheduler": self.config.scheduler,
-            "denoise": self.config.color_denoise,
-        }
-        graph = _fill(_master_graph(), values)
-        if sent:
-            uploaded = [
-                self._upload(f"continuum-{_sha(reference.data)[:24]}.png", reference.data)
-                for reference in sent
-            ]
-            graph["20"] = {
-                "class_type": "IPAdapterUnifiedLoader",
-                "inputs": {"model": ["4", 0], "preset": self.config.ipadapter_preset},
-            }
-            for index, name in enumerate(uploaded):
-                graph[f"3{index}"] = {"class_type": "LoadImage", "inputs": {"image": name}}
-            batch = ["30", 0]
-            for index in range(1, len(uploaded)):
-                graph[f"4{index}"] = {
-                    "class_type": "ImageBatch",
-                    "inputs": {"image1": batch, "image2": [f"3{index}", 0]},
+        panels = list(request.plan.get("render_panels") or [])
+        if not panels:
+            panels = [
+                {
+                    "number": 1,
+                    "direction": " ".join(str(item) for item in request.page.get("directions") or []),
+                    "characters": list(request.page.get("characters") or []),
+                    "shot": "STANDARD",
+                    "emphasis": "NORMAL",
                 }
-                batch = [f"4{index}", 0]
-            graph["21"] = {
-                "class_type": "IPAdapterAdvanced",
-                "inputs": {
-                    "model": ["20", 0],
-                    "ipadapter": ["20", 1],
-                    "image": batch,
-                    "weight": self.config.ipadapter_weight,
-                    "weight_type": "linear",
-                    "combine_embeds": "concat",
-                    "start_at": 0.0,
-                    "end_at": 1.0,
-                    "embeds_scaling": "V only",
-                },
-            }
-            graph["3"]["inputs"]["model"] = ["21", 0]
+            ]
+        boxes = panel_boxes(len(panels))
+        uploaded_cache: dict[str, str] = {}
+        panel_masters: list[bytes] = []
+        panel_records: list[dict[str, Any]] = []
+        used_reference_ids: list[str] = []
+        first_positive = ""
+        first_negative = ""
 
-        master = self._run(graph)
-        master_info = probe(master)
-        master_name = self._upload(f"continuum-master-{_sha(master)[:24]}.png", master)
-        color = self._run(_fill(_color_graph(), {**values, "master": master_name}))
-        color_info = probe(color)
-        bw = bw_finish(master)
+        for index, (panel, box) in enumerate(zip(panels, boxes, strict=True)):
+            character_names = {str(name) for name in panel.get("characters") or []}
+            scoped = [
+                reference
+                for reference in identity
+                if reference.character is not None and reference.character in character_names
+            ]
+            sent = (
+                _select_identity_references(scoped, self.config.max_reference_images)
+                if status.identity_conditioning
+                else []
+            )
+            positive, negative = self._panel_prompts(request, panel)
+            if index == 0:
+                first_positive, first_negative = positive, negative
+            width, height = self._panel_size(request, box)
+            panel_seed = request.seed + index * 1009
+            values = {
+                "checkpoint": self.config.model.name,
+                "positive": positive,
+                "negative": negative,
+                "width": width,
+                "height": height,
+                "seed": panel_seed,
+                "steps": self.config.steps,
+                "cfg": self.config.cfg,
+                "sampler": self.config.sampler,
+                "scheduler": self.config.scheduler,
+                "denoise": self.config.color_denoise,
+            }
+            graph = _fill(_master_graph(), values)
+            if sent:
+                self._add_identity_chain(graph, sent, uploaded_cache)
+            rendered = self._run(graph)
+            panel_masters.append(rendered)
+            used_reference_ids.extend(reference.reference_id for reference in sent)
+            panel_records.append(
+                {
+                    "number": panel.get("number", index + 1),
+                    "direction": panel.get("direction", ""),
+                    "characters": sorted(character_names),
+                    "shot": panel.get("shot", "STANDARD"),
+                    "seed": panel_seed,
+                    "render_size": [width, height],
+                    "identity_references": [reference.reference_id for reference in sent],
+                }
+            )
+
+        composite = compose_manga_page(panel_masters, request.width, request.height)
         master_image = RenderedImage(
-            master, master_info.mime, master_info.width, master_info.height
+            composite.data, composite.mime, composite.width, composite.height
         )
+        bw = bw_finish(composite.data)
+        # Color is deliberately the panel composite, not a whole-page img2img pass:
+        # re-diffusing the complete page was mutating faces, layouts and text.
+        color_image = RenderedImage(
+            composite.data, composite.mime, composite.width, composite.height
+        )
+        used = set(used_reference_ids)
         settings = {
             "steps": self.config.steps,
             "cfg": self.config.cfg,
             "sampler": self.config.sampler,
             "scheduler": self.config.scheduler,
-            "color_denoise": self.config.color_denoise,
             "width": request.width,
             "height": request.height,
-            "ipadapter": (
-                {"preset": self.config.ipadapter_preset, "weight": self.config.ipadapter_weight}
-                if sent
-                else None
-            ),
-            "positive": positive,
-            "negative": negative,
+            "panel_first": True,
+            "panel_count": len(panels),
+            "lettering": "disabled; Continuum owns text after artwork",
+            "ipadapter": {
+                "preset": self.config.ipadapter_preset,
+                "weight": self.config.ipadapter_weight,
+                "mode": "separate adapter chain per character per panel",
+            },
+            "positive_example": first_positive,
+            "negative": first_negative,
             **{
                 key: value
                 for key, value in request.settings.items()
@@ -629,7 +775,7 @@ class ComfyPageProvider:
             output=RenderOutput.ARTWORK_CANDIDATE,
             master=master_image,
             bw=RenderedImage(bw.data, bw.mime, bw.width, bw.height),
-            color=RenderedImage(color, color_info.mime, color_info.width, color_info.height),
+            color=color_image,
             provenance={
                 "backend": self.config.backend.value,
                 "model": {
@@ -638,21 +784,24 @@ class ComfyPageProvider:
                     "sha256": self.config.model.sha256,
                     "license": self.config.model.license,
                     "source": self.config.model.source,
+                    "role": "panel image support; Continuum owns sequencing and composition",
                 },
                 "workflow": workflow_manifest(),
                 "settings": settings,
                 "seed": request.seed,
                 "master_sha256": master_image.sha256,
-                "identity_references_sent": [reference.reference_id for reference in sent],
+                "panel_renders": panel_records,
+                "identity_references_sent": list(dict.fromkeys(used_reference_ids)),
                 "candidates_not_used_for_identity": [
                     reference.reference_id for reference in candidates
                 ],
                 "references_not_used_by_this_workflow": [
                     reference.reference_id
                     for reference in request.references
-                    if reference not in sent
+                    if reference.reference_id not in used
                 ],
-                "bw_finish": "continuum_imaging.manga.bw_finish over the master",
+                "bw_finish": "line-preserving continuum_imaging.manga.bw_finish",
+                "color_finish": "deterministic panel composite; no whole-page re-diffusion",
             },
         )
 

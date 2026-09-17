@@ -34,7 +34,7 @@ const ALLOWED: RegExp[] = [
   new RegExp(`^catalog/series/${SERIES}$`),
   new RegExp(`^catalog/units/${UUID}$`),
   new RegExp(`^catalog/collections/${SLUG}/import$`),
-  new RegExp(`^catalog/progress/(reading|watching|continue|position)$`),
+  new RegExp(`^catalog/progress/(reading|watching|continue|position|hide|reset)$`),
   new RegExp(`^catalog/members/${UUID}(/prepare)?$`),
   new RegExp(`^projects/${PROJECT}/(reference-manifests|music|chapter-packages|resync)$`),
   new RegExp(`^projects/${PROJECT}/music/${UUID}/(update|remove)$`),

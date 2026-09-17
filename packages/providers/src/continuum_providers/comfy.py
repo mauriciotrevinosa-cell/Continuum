@@ -291,7 +291,7 @@ def _select_identity_references(
             unassigned.append(reference)
 
     selected: list[ArtworkReference] = []
-    offsets = {name: 0 for name in by_character}
+    offsets = dict.fromkeys(by_character, 0)
 
     for name, group in by_character.items():
         if len(selected) >= limit:

@@ -66,6 +66,7 @@ TABLE_REGISTRY: dict[str, tuple[float, Tier]] = {
     "catalog_member": (1.5, Tier.A_OBSERVED),
     "catalog_unit": (1.5, Tier.B_INTERPRETATION),
     "media_progress": (1.5, Tier.B_INTERPRETATION),
+    "media_progress_dismissal": (1.5, Tier.B_INTERPRETATION),
     "reference_manifest": (1.5, Tier.C_PROJECT),
     "chapter_package": (1.5, Tier.C_PROJECT),
     "music_reference": (1.5, Tier.C_PROJECT),

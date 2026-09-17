@@ -249,7 +249,7 @@ def _color_graph() -> dict[str, Any]:
 def workflow_manifest() -> dict[str, str]:
     templates = {
         "master": _master_graph(),
-        "color": _color_graph(),
+        "color": "panel-composite-passthrough-v1",
         "identity": list(IDENTITY_NODES),
         "composition": "deterministic-panel-first-v1",
     }

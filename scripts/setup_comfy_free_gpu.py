@@ -8,11 +8,17 @@ an ephemeral Cloudflare Quick Tunnel for Continuum's COMFY_REMOTE backend.
 
 The tunnel is public and temporary. Use it only while actively calibrating,
 never expose the Source Vault, and stop the notebook when finished.
+
+Shutdown is graceful: Ctrl+C writes a lightweight recovery bundle under
+``/kaggle/working`` with logs, model hashes/revisions and generated Comfy output
+before terminating ComfyUI and the tunnel. The bundle still needs to be
+preserved/downloaded before ending the notebook accelerator session.
 """
 
 from __future__ import annotations
 
 import argparse
+import contextlib
 import hashlib
 import re
 import shutil
@@ -135,6 +141,52 @@ def _resolve_args(args: argparse.Namespace, parser: argparse.ArgumentParser) -> 
     return preset
 
 
+def _write_recovery_bundle(root: Path, endpoint: str, session_log: Path) -> None:
+    """Best-effort checkpoint before an ephemeral notebook is stopped."""
+    try:
+        from scripts.kaggle_session_checkpoint import create_bundle
+    except ModuleNotFoundError:
+        # The setup script is often uploaded by itself into Kaggle. Import the
+        # sibling helper when present, otherwise do not make shutdown fragile.
+        helper = Path(__file__).resolve().with_name("kaggle_session_checkpoint.py")
+        if not helper.exists():
+            print("Recovery helper not present; no recovery bundle was written.")
+            return
+        import importlib.util
+
+        spec = importlib.util.spec_from_file_location("kaggle_session_checkpoint", helper)
+        if spec is None or spec.loader is None:
+            print("Recovery helper could not be loaded; no recovery bundle was written.")
+            return
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        create_bundle = module.create_bundle
+
+    try:
+        archive = create_bundle(
+            root,
+            Path("/kaggle/working"),
+            session_log=session_log,
+            endpoint=endpoint,
+        )
+    except Exception as exc:  # shutdown must continue even if checkpointing fails
+        print(f"Recovery bundle failed: {type(exc).__name__}: {exc}")
+        return
+    print(f"Recovery bundle ready: {archive}")
+    print("Download/preserve it before stopping the Kaggle accelerator session.")
+
+
+def _terminate(process: subprocess.Popen[str] | subprocess.Popen[bytes] | None) -> None:
+    if process is None or process.poll() is not None:
+        return
+    process.terminate()
+    try:
+        process.wait(timeout=10)
+    except subprocess.TimeoutExpired:
+        process.kill()
+        process.wait(timeout=5)
+
+
 def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--preset", choices=tuple(CALIBRATION_PRESETS))
@@ -161,6 +213,7 @@ def main(argv: list[str]) -> int:
 
     root = args.workdir.resolve()
     comfy = root / "ComfyUI"
+    session_log = root / "session.log"
     if not (comfy / ".git").exists():
         root.mkdir(parents=True, exist_ok=True)
         run("git", "clone", "--depth", "1", COMFY_REPO, str(comfy))
@@ -195,19 +248,27 @@ def main(argv: list[str]) -> int:
     download(CLOUDFLARED_URL, cloudflared)
     cloudflared.chmod(0o755)
 
-    comfy_process = subprocess.Popen(
-        [
-            sys.executable,
-            "main.py",
-            "--listen",
-            "127.0.0.1",
-            "--port",
-            "8188",
-            "--disable-api-nodes",
-        ],
-        cwd=comfy,
-    )
+    log_stream = session_log.open("a", encoding="utf-8", buffering=1)
+    comfy_process: subprocess.Popen[str] | None = None
+    tunnel: subprocess.Popen[str] | None = None
+    tunnel_url = ""
+    exit_code = 1
     try:
+        comfy_process = subprocess.Popen(
+            [
+                sys.executable,
+                "main.py",
+                "--listen",
+                "127.0.0.1",
+                "--port",
+                "8188",
+                "--disable-api-nodes",
+            ],
+            cwd=comfy,
+            stdout=log_stream,
+            stderr=subprocess.STDOUT,
+            text=True,
+        )
         wait_for_comfy()
         tunnel = subprocess.Popen(
             [str(cloudflared), "tunnel", "--url", "http://127.0.0.1:8188"],
@@ -216,13 +277,13 @@ def main(argv: list[str]) -> int:
             text=True,
             bufsize=1,
         )
-        tunnel_url = ""
         assert tunnel.stdout is not None
         deadline = time.monotonic() + 90
         while time.monotonic() < deadline:
             line = tunnel.stdout.readline()
             if line:
                 print(line.rstrip())
+                log_stream.write("[cloudflared] " + line)
                 match = TUNNEL_PATTERN.search(line)
                 if match:
                     tunnel_url = match.group(0)
@@ -230,7 +291,6 @@ def main(argv: list[str]) -> int:
             elif tunnel.poll() is not None:
                 break
         if not tunnel_url:
-            tunnel.terminate()
             raise RuntimeError("Cloudflare Quick Tunnel did not return an endpoint")
 
         print("\n=== CONTINUUM REMOTE COMFY READY ===")
@@ -249,19 +309,23 @@ def main(argv: list[str]) -> int:
         ]
         print(" `\n    ".join(command))
         print("\nThen restart continuum-api and continuum-worker.")
-        print("Keep this cell/session running while Continuum renders. Ctrl+C stops it.")
+        print("Keep this cell/session running while Continuum renders.")
+        print("Ctrl+C performs a graceful stop and writes a recovery bundle first.")
 
         while comfy_process.poll() is None and tunnel.poll() is None:
             time.sleep(5)
-        return 1
+        exit_code = 1
     except KeyboardInterrupt:
-        print("\nstopping ephemeral ComfyUI session")
-        return 0
+        print("\nGraceful stop requested; checkpointing session before shutdown...")
+        exit_code = 0
     finally:
-        if "tunnel" in locals() and tunnel.poll() is None:
-            tunnel.terminate()
-        if comfy_process.poll() is None:
-            comfy_process.terminate()
+        with contextlib.suppress(Exception):
+            log_stream.flush()
+        _write_recovery_bundle(root, tunnel_url, session_log)
+        _terminate(tunnel)
+        _terminate(comfy_process)
+        log_stream.close()
+    return exit_code
 
 
 if __name__ == "__main__":

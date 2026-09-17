@@ -189,11 +189,23 @@ class PageRenderProvider(Protocol):
 
 
 def capability_gaps(caps: ArtworkCapabilities, request: PageRenderRequest) -> list[str]:
-    """Every way the backend falls short of the request."""
+    """Every way the backend falls short of the request.
+
+    ``max_reference_images`` is the backend's conditioning budget, not a ban on
+    assembling a richer page bundle. A page may carry grammar, environment,
+    wardrobe and several observations per character; the backend is responsible
+    for choosing the subset it can actually condition on. The only hard budget
+    failure is when there are more distinct grounded characters than available
+    identity slots, because then at least one named character would receive no
+    identity evidence at all.
+    """
     if not caps.available:
         return [caps.notes or "the backend is not available"]
     gaps = []
-    needs_identity = any(r.role == "CANON" and r.character for r in request.references)
+    identity_characters = {
+        r.character for r in request.references if r.role == "CANON" and r.character
+    }
+    needs_identity = bool(identity_characters)
     if (
         needs_identity
         and caps.output is RenderOutput.ARTWORK_CANDIDATE
@@ -204,12 +216,13 @@ def capability_gaps(caps: ArtworkCapabilities, request: PageRenderRequest) -> li
             "this backend cannot condition identity"
         )
     if (
-        len(request.references) > caps.max_reference_images
-        and caps.output is RenderOutput.ARTWORK_CANDIDATE
+        caps.output is RenderOutput.ARTWORK_CANDIDATE
+        and caps.identity_conditioning
+        and len(identity_characters) > caps.max_reference_images
     ):
         gaps.append(
-            f"the page needs {len(request.references)} reference images; "
-            f"this backend accepts {caps.max_reference_images}"
+            f"the page needs identity coverage for {len(identity_characters)} characters; "
+            f"this backend can condition at most {caps.max_reference_images} reference images"
         )
     if not caps.sibling_finishes:
         gaps.append("black-and-white and color must derive from one master; this backend cannot")

@@ -14,11 +14,11 @@ CALIBRATION_DOC = (
 )
 
 
-def test_real_calibration_document_parses_all_16_pages_and_extra_bullets() -> None:
+def test_real_calibration_document_parses_all_18_pages_and_extra_bullets() -> None:
     # The committed creative document is UTF-8; utf-8-sig also tolerates a BOM.
     pages = parse_calibration(CALIBRATION_DOC.read_text(encoding="utf-8-sig"))
 
-    assert [page.cal_id for page in pages] == [f"CAL-{index:02d}" for index in range(1, 17)]
+    assert [page.cal_id for page in pages] == [f"CAL-{index:02d}" for index in range(1, 19)]
 
     by_id = {page.cal_id: page for page in pages}
     assert by_id["CAL-08"].wardrobe_stage == "E1"
@@ -37,3 +37,16 @@ def test_real_calibration_document_parses_all_16_pages_and_extra_bullets() -> No
         "Mau-owned M-A2 white McLaren cap;",
         "Frieren-owned comfortable short bottoms.",
     ]
+
+    assert by_id["CAL-17"].characters == (
+        "Mau",
+        "Sukuna",
+        "Mahoraga",
+        "Yuta",
+        "Frieren",
+        "Okarun",
+        "Rimuru",
+    )
+    assert len(by_id["CAL-17"].extra["page_construction"]) == 5
+    assert by_id["CAL-18"].characters == ("Mau", "Frieren")
+    assert len(by_id["CAL-18"].extra["page_construction"]) == 5

@@ -102,7 +102,7 @@ G3 fixed groupings remain unchanged:
 
 # 5. Calibration chapter ΓÇö 16 pages
 
-The reader should present these as one 16-page calibration chapter. The ordering is intentionally a production sampler rather than canon chronology.
+The reader should present these as one 18-page calibration chapter. The ordering is intentionally a production sampler rather than canon chronology.
 
 Each page below points to an existing approved source beat wherever possible. Do not invent new canon dialogue to connect the pages.
 
@@ -397,6 +397,80 @@ This page is specifically a **style-stress test**, not the baseline style target
 
 ---
 
+
+---
+
+## CAL-17 — Hollow Purple / late Mahoraga interception
+
+**Source:** Creator direction — calibration-only NON_CANON action stress page.  
+**Source content:** Mau performs Hollow Purple while Sukuna's hand is visibly in Mau's possession. Sukuna has summoned Mahoraga too late; Mahoraga attempts to force the red and blue components apart before they combine. A barrier encloses Mau, Sukuna and Mahoraga. Outside the barrier, Yuta carries Frieren away from the danger zone while Okarun carries Rimuru away.
+
+**Characters:** Mau, Sukuna, Mahoraga, Yuta, Frieren, Okarun, Rimuru.
+
+**Page construction:**
+- Panel 1: narrow establishing panel. Clearly establish the barrier and geography: Mau, Sukuna and Mahoraga are inside; Yuta/Frieren and Okarun/Rimuru are already moving away outside it.
+- Panel 2: medium-close action panel on Mau. Sukuna's hand remains visibly in Mau's possession while red and blue form as two distinct components; their separation must remain readable even in black-and-white treatment.
+- Panel 3: dynamic diagonal panel. Mahoraga reaches into the relationship between red and blue and attempts to split them apart. The visual timing must communicate that Sukuna's summon came too late.
+- Panel 4: exterior escape panel. Yuta carries Frieren and Okarun carries Rimuru. The two pairs must remain immediately distinguishable and their movement must read away from the barrier.
+- Panel 5: large lower impact panel. Red and blue complete their convergence into Hollow Purple with Mau as the visual anchor; Mahoraga fails to separate them in time while Sukuna remains trapped in the same enclosed combat space.
+
+**Primary validation:**
+- sequential manga action reads clearly from setup to interception attempt to failed prevention;
+- Hollow Purple is constructed through readable red/blue separation before convergence rather than appearing as a generic unexplained blast;
+- black-and-white manga treatment preserves the distinction between the two precursor energies through tone, texture, shape or other graphic language;
+- the barrier makes inside/outside geography unmistakable;
+- Mau, Sukuna and Mahoraga remain inside the barrier;
+- Yuta carries Frieren and Okarun carries Rimuru outside the barrier, with no pair swapping;
+- Sukuna's hand remains consistently in Mau's possession through the relevant action panels;
+- Mahoraga is visibly attempting an interception but is too late;
+- complex hands, extra limbs, carrying poses and overlapping action preserve anatomy and identity;
+- the page remains readable as manga sequencing rather than collapsing every event into one overloaded illustration.
+
+**Failure examples:**
+- all events are compressed into one unreadable splash;
+- Mahoraga successfully prevents Hollow Purple;
+- Sukuna appears to have summoned Mahoraga early enough to control the situation;
+- Yuta or Okarun carries the wrong person;
+- the barrier contains the wrong characters or its boundary is unclear;
+- Sukuna's hand disappears, changes owner or becomes visually ambiguous;
+- red and blue cannot be distinguished before convergence;
+- effects obscure the cast so heavily that identities or action order are lost.
+
+---
+
+## CAL-18 — Mau / Frieren confession and kiss
+
+**Source:** Creator direction — calibration-only NON_CANON relationship / acting stress page.  
+**Source content:** Mau confesses his feelings to Frieren and the emotional exchange culminates in a mutual kiss. The calibration page establishes acting, pacing, intimacy and visual clarity only; it must not invent canon confession wording that has not been separately authored.
+
+**Characters:** Mau, Frieren.
+
+**Page construction:**
+- Panel 1: quiet medium two-shot with a small but noticeable amount of space between Mau and Frieren. Establish the emotional pause before the confession without melodramatic posing.
+- Panel 2: closer panel on Mau during the confession. The important signal is vulnerability and sincerity in face, shoulders, hands and eye-line; exact dialogue is reserved for creator-approved story text.
+- Panel 3: small reaction panel on Frieren. Allow silence and micro-expression to carry the beat; recognition should be readable without exaggerated surprise.
+- Panel 4: intimate two-shot as the distance closes. Mutual eye-line and body language must make the movement toward the kiss feel chosen by both characters rather than mechanically posed.
+- Panel 5: large lower panel on the kiss. Keep it tender and emotionally grounded, with clean silhouettes, believable hands and posture, preserved facial identity and enough environmental context that it still feels like a manga story beat rather than a detached romance illustration.
+
+**Primary validation:**
+- restrained emotional acting survives close-up rendering;
+- Mau and Frieren remain unmistakably themselves at intimate distance;
+- page rhythm uses panel size and silence to build toward the final panel;
+- confession reads as sincere without relying on exaggerated effects;
+- mutual body language and eye-line make the kiss emotionally legible;
+- hands, faces and close-contact anatomy remain believable;
+- intimate composition remains story-driven rather than fan-service posing;
+- quiet emotional material can receive as much visual precision as action and supernatural effects.
+
+**Failure examples:**
+- blank or generic expressions make the confession emotionally unreadable;
+- the kiss appears abrupt because the intermediate acting beat is missing;
+- one character appears passive, unaware or disconnected from the mutual moment;
+- identity drifts at close range;
+- hands or facial anatomy break the scene;
+- the page becomes a single pin-up image instead of sequential manga storytelling;
+- unapproved confession dialogue is invented by the calibration package.
+
 # 6. Coverage matrix
 
 | Production target | Calibration pages |
@@ -416,6 +490,8 @@ This page is specifically a **style-stress test**, not the baseline style target
 | G3 | CAL-14 |
 | Sukuna | CAL-15 |
 | High-intensity special visual mode | CAL-16 |
+| Complex multi-character action / Hollow Purple / barrier geography | CAL-17 |
+| Confession / kiss / intimate acting | CAL-18 |
 
 This is sufficient to establish a majority S1 production baseline without pretending every future environment, costume state or special visual mode is already solved.
 
@@ -487,7 +563,7 @@ Approved calibration output may later be referenced selectively:
 - composition/grammar;
 - technique/style.
 
-Do not automatically include all 16 calibration pages in every official render bundle. W8's minimal-bundle principle still applies.
+Do not automatically include all 18 calibration pages in every official render bundle. W8's minimal-bundle principle still applies.
 
 ---
 

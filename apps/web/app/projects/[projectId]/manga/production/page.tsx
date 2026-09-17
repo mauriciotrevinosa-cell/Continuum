@@ -99,7 +99,11 @@ export default async function MangaProductionPage({ params }: { params: Promise<
       summary: document.summary,
     }));
   const promoted = profiles.filter((p) => p.status === "PROMOTED").sort((a, b) => b.version - a.version)[0] ?? null;
-  const artworkReady = backends.some((b) => b.ready && b.output === "ARTWORK_CANDIDATE");
+  const artworkReady = backends.some(
+    (b) =>
+      b.output === "ARTWORK_CANDIDATE" &&
+      (b as Backend & { production_ready?: boolean }).production_ready === true,
+  );
 
   return (
     <>
@@ -125,9 +129,10 @@ export default async function MangaProductionPage({ params }: { params: Promise<
         {!artworkReady ? (
           <div className="banner">
             <p>
-              <strong>No artwork backend is ready.</strong> The TEST backend can still run the Chapter Test&apos;s
-              production logic and labelled workflow diagrams, but those images are never manga artwork. Connect
-              ComfyUI (local or a remote GPU session) when you are ready to visually calibrate real pages.
+              <strong>No production-ready artwork backend is connected.</strong> The TEST backend can still run the
+              Chapter Test&apos;s production logic and labelled workflow diagrams, but those images are never manga
+              artwork. A real ComfyUI backend must pass checkpoint, identity-conditioning and reproducibility preflight
+              before Continuum will offer it for visual calibration.
             </p>
           </div>
         ) : null}

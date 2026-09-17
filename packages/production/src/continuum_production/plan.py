@@ -57,6 +57,79 @@ PRIMARY_INTENT_ORDER = (
 )
 
 
+_PANEL_DIRECTION = re.compile(
+    r"^(?:PAGE CONSTRUCTION:\s*)?Panel\s+(?P<number>\d+)\s*:\s*(?P<direction>.+)$",
+    re.I,
+)
+
+
+def _panel_shot(direction: str) -> str:
+    lowered = direction.lower()
+    if "close" in lowered:
+        return "CLOSE"
+    if any(token in lowered for token in ("wide", "establish", "full table", "exterior")):
+        return "WIDE"
+    if any(token in lowered for token in ("large", "impact", "splash")):
+        return "IMPACT"
+    if any(token in lowered for token in ("medium", "two-shot", "two shot")):
+        return "MEDIUM"
+    return "STANDARD"
+
+
+def _render_panels(
+    page: dict[str, Any], present: Sequence[str], primary: str | None
+) -> list[dict[str, Any]]:
+    """Return creator-authored render beats without inventing page structure."""
+    directions = [str(value).strip() for value in page.get("directions") or []]
+    explicit: list[tuple[int, str]] = []
+    for direction in directions:
+        match = _PANEL_DIRECTION.match(direction)
+        if match:
+            explicit.append((int(match.group("number")), match.group("direction").strip()))
+    explicit.sort(key=lambda item: item[0])
+
+    beats = explicit
+    if not beats:
+        source = next(
+            (
+                direction
+                for direction in directions
+                if direction
+                and not direction.startswith("MUST SHOW:")
+                and not direction.startswith("DO NOT:")
+            ),
+            "",
+        )
+        beats = [(1, source or str(page.get("label") or "page composition"))]
+
+    out: list[dict[str, Any]] = []
+    for number, direction in beats:
+        named = [name for name in present if _mentions(direction, name)]
+        lowered = direction.lower()
+        if not named and len(present) == 1:
+            named = list(present)
+        elif not named and any(
+            token in lowered
+            for token in ("everyone", "all ", "household", "group", "ensemble", "cast")
+        ):
+            named = list(present)
+        elif not named and primary and len(beats) == 1:
+            named = list(present)
+        out.append(
+            {
+                "number": number,
+                "direction": direction,
+                "characters": named,
+                "shot": _panel_shot(direction),
+                "emphasis": (
+                    "HIGH"
+                    if any(token in lowered for token in ("large", "impact", "splash", "final"))
+                    else "NORMAL"
+                ),
+            }
+        )
+    return out
+
 def _mentions(text: str, name: str) -> int:
     first = re.escape(name.split()[0])
     return len(re.findall(rf"\b{first}\b", text, re.I))
@@ -142,6 +215,7 @@ def page_plan(
             line.get("kind") != "internal_noise" for line in page.get("dialogue") or []
         ),
         "constraints": list(page.get("constraints") or []),
+        "render_panels": _render_panels(page, present, primary),
     }
 
 

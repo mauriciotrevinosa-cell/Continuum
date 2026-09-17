@@ -33,6 +33,7 @@ export function Reader({
   total,
   chapters,
   title,
+  sourceTitle,
   backHref,
   previousHref,
   nextHref,
@@ -44,6 +45,7 @@ export function Reader({
   total: number;
   chapters: Chapter[];
   title: string;
+  sourceTitle?: string;
   backHref: string;
   previousHref: string | null;
   nextHref: string | null;
@@ -223,6 +225,7 @@ export function Reader({
           characters={characters}
           modes={modes}
           projects={projects}
+          sourceTitle={sourceTitle}
         />
       ) : null}
 

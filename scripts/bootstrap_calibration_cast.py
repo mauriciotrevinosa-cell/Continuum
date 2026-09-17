@@ -129,8 +129,9 @@ def main(argv: list[str]) -> int:
                             f"KIND      {name:12} {current_kind.value} -> {desired_kind.value}  "
                             "(pending --apply)"
                         )
+                subject_kind = SubjectKind(profile.subject_kind).value
                 print(
-                    f"OK        {name:12} {profile.id}  kind={SubjectKind(profile.subject_kind).value}  "
+                    f"OK        {name:12} {profile.id}  kind={subject_kind}  "
                     f"source={profile.source_label!r}  held_units={held_units}"
                 )
                 continue
@@ -144,6 +145,10 @@ def main(argv: list[str]) -> int:
                 continue
 
             origin = CharacterOrigin(str(spec.get("origin") or "SOURCE_WORK"))
+            summary = (
+                "Calibration roster profile; visual grounding still requires "
+                "reviewed Vault evidence."
+            )
             profile = catalog.create_character(
                 name,
                 subject_kind=desired_kind,
@@ -151,7 +156,7 @@ def main(argv: list[str]) -> int:
                 source_label=source_label,
                 project_key=spec.get("project_key"),
                 design_documents=spec.get("design_documents") or [],
-                summary="Calibration roster profile; visual grounding still requires reviewed Vault evidence.",
+                summary=summary,
                 notes=str(spec.get("notes") or ""),
             )
             created += 1

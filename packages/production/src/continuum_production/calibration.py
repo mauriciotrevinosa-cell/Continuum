@@ -7,15 +7,15 @@ continuity and never canon.
 The calibration document is consumed as data, not hardcoded: this module
 parses a markdown document whose pages are ``## CAL-`` sections, each naming
 its source document, source episode/page locator, source content, characters,
-validation notes and (optionally) a wardrobe stage. Nothing here knows a
-franchise, a project name or a character name.
+production locks, failure examples and (optionally) a wardrobe stage. Nothing
+here knows a franchise, a project name or a character name.
 
 Each page preserves, in its lineage and body:
 
 * the CAL page identifier;
 * the source episode/page locator;
 * the source creative document and version;
-* the page semantics (source content, validation notes);
+* the page semantics (source content, production locks and failure examples);
 * the characters present;
 * the environment tags;
 * the wardrobe stage (derived from the source locator's episode);
@@ -65,7 +65,12 @@ class CalibrationPage:
     source_locator: str
     source_content: str
     characters: tuple[str, ...] = ()
+    #: Backward-compatible union of positive validation and failure notes.
     validation_notes: tuple[str, ...] = ()
+    #: Positive visual requirements. These become render directions.
+    primary_validation: tuple[str, ...] = ()
+    #: Things the renderer must avoid. These become page constraints.
+    failure_examples: tuple[str, ...] = ()
     wardrobe_stage: str | None = None
     extra: dict[str, Any] = field(default_factory=dict)
 
@@ -127,6 +132,14 @@ def _append_extra_bullet(extra: dict[str, Any], key: str, value: str) -> None:
         extra[key] = [existing, value]
 
 
+def _append_note(current: dict[str, Any], key: str, value: str) -> None:
+    text = value.strip().rstrip(";.")
+    if not text:
+        return
+    current[key].append(text)
+    current["validation_notes"].append(text)
+
+
 def parse_calibration(text: str) -> list[CalibrationPage]:
     """Parse a calibration markdown document into its pages, in document order.
 
@@ -151,6 +164,8 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
                 source_content=current.get("source_content", ""),
                 characters=tuple(current.get("characters", ())),
                 validation_notes=tuple(current.get("validation_notes", ())),
+                primary_validation=tuple(current.get("primary_validation", ())),
+                failure_examples=tuple(current.get("failure_examples", ())),
                 wardrobe_stage=current.get("wardrobe_stage"),
                 extra=dict(current.get("extra", {})),
             )
@@ -166,6 +181,8 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
                 "title": heading.group("title").strip(),
                 "characters": [],
                 "validation_notes": [],
+                "primary_validation": [],
+                "failure_examples": [],
                 "extra": {},
             }
             current_field = None
@@ -193,12 +210,15 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
                 # punctuation (for example ``E1.``). Story stages are identifiers,
                 # so punctuation must not become part of the lookup key.
                 current["wardrobe_stage"] = value.rstrip(".,;:").strip() or None
+            elif key in {"primary_validation", "failure_examples"}:
+                # Most pages use bullets, but inline failure examples also occur.
+                _append_note(current, key, value)
             else:
                 current["extra"][key] = value
             continue
         bullet = _BULLET.match(line)
         if bullet and current_field in {"primary_validation", "failure_examples"}:
-            current["validation_notes"].append(bullet.group("text").strip().rstrip(";."))
+            _append_note(current, current_field, bullet.group("text"))
         elif bullet and current_field == "characters":
             current["characters"].extend(_characters(bullet.group("text")))
         elif bullet and current_field is not None:
@@ -207,6 +227,28 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
             )
     flush()
     return pages
+
+
+def _production_directions(page: CalibrationPage) -> list[str]:
+    """Materialize every creator-authored positive lock that should guide pixels."""
+    directions: list[str] = []
+    if page.source_content:
+        directions.append(page.source_content)
+    directions.extend(f"MUST SHOW: {note}." for note in page.primary_validation)
+
+    # Structured calibration fields that describe page construction, wardrobe
+    # or required visual truth are not metadata-only: they must reach the image
+    # model. Preserve their markdown labels so the instruction remains legible.
+    for key, value in page.extra.items():
+        if not any(token in key for token in ("page_construction", "required", "wardrobe", "override")):
+            continue
+        label = key.replace("_", " ").upper()
+        values = value if isinstance(value, list) else [value]
+        for item in values:
+            text = str(item).strip()
+            if text:
+                directions.append(f"{label}: {text}")
+    return directions
 
 
 def calibration_body(
@@ -233,17 +275,18 @@ def calibration_body(
     known = set(character_names)
     sequence: list[dict[str, Any]] = []
     for index, page in enumerate(pages, start=1):
-        directions = [page.source_content] if page.source_content else []
+        directions = _production_directions(page)
+        constraints = [f"DO NOT: {note}." for note in page.failure_examples]
         declared = list(page.characters)
         missing_profiles = [name for name in declared if name not in known]
-        everything = " ".join([page.title, page.source_content, *page.validation_notes])
+        everything = " ".join([page.title, *directions, *constraints])
         body = {
             "base_page": None,
             "label": page.title,
             "scene": "",
             "directions": directions,
             "dialogue": [],
-            "constraints": [],
+            "constraints": constraints,
             "characters": declared,
             "intents": page_intents(everything, 0, declared),
             "chapter_end": False,
@@ -255,6 +298,8 @@ def calibration_body(
                 "source_locator": page.source_locator,
                 "wardrobe_stage": page.wardrobe_stage or _episode_stage(page.source_locator),
                 "validation_notes": list(page.validation_notes),
+                "primary_validation": list(page.primary_validation),
+                "failure_examples": list(page.failure_examples),
                 "missing_character_profiles": missing_profiles,
                 "extra": page.extra,
             },

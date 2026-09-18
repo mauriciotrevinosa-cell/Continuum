@@ -517,11 +517,11 @@ This page is specifically a **style-stress test**, not the baseline style target
 **Characters:** Mau, Sukuna, Mahoraga, Yuta, Frieren, Okarun, Rimuru.
 
 **Page construction:**
-- Panel 1: narrow establishing panel. Clearly establish the barrier and geography: Mau, Sukuna and Mahoraga are inside; Yuta/Frieren and Okarun/Rimuru are already moving away outside it.
-- Panel 2: medium-close action panel on Mau. Sukuna's hand remains visibly in Mau's possession while red and blue form as two distinct components; their separation must remain readable even in black-and-white treatment.
-- Panel 3: dynamic diagonal panel. Mahoraga reaches into the relationship between red and blue and attempts to split them apart. The visual timing must communicate that Sukuna's summon came too late.
-- Panel 4: exterior escape panel. Yuta carries Frieren and Okarun carries Rimuru. The two pairs must remain immediately distinguishable and their movement must read away from the barrier.
-- Panel 5: large lower impact panel. Red and blue complete their convergence into Hollow Purple with Mau as the visual anchor; Mahoraga fails to separate them in time while Sukuna remains trapped in the same enclosed combat space.
+- Panel 1 [CAST: Mau, Sukuna, Mahoraga, Yuta, Frieren, Okarun, Rimuru]: narrow establishing panel. Clearly establish the barrier and geography: Mau, Sukuna and Mahoraga are inside; Yuta/Frieren and Okarun/Rimuru are already moving away outside it.
+- Panel 2 [CAST: Mau]: medium-close action panel on Mau. Sukuna's hand remains visibly in Mau's possession while red and blue form as two distinct components; their separation must remain readable even in black-and-white treatment.
+- Panel 3 [CAST: Mahoraga]: dynamic diagonal panel. Mahoraga reaches into the relationship between red and blue and attempts to split them apart. The visual timing must communicate that Sukuna's summon came too late.
+- Panel 4 [CAST: Yuta, Frieren, Okarun, Rimuru]: exterior escape panel. Yuta carries Frieren and Okarun carries Rimuru. The two pairs must remain immediately distinguishable and their movement must read away from the barrier.
+- Panel 5 [CAST: Mau, Mahoraga, Sukuna]: large lower impact panel. Red and blue complete their convergence into Hollow Purple with Mau as the visual anchor; Mahoraga fails to separate them in time while Sukuna remains trapped in the same enclosed combat space.
 
 **Primary validation:**
 - sequential manga action reads clearly from setup to interception attempt to failed prevention;

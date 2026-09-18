@@ -432,6 +432,13 @@ def _render_page(
             "workflow": execution["workflow"],
             "brief": str(recipe.intent.get("brief") or ""),
             "creator_notes": str(recipe.intent.get("creator_notes") or ""),
+            "character_context": {
+                character["name"]: {
+                    "source_label": str(character.get("source_label") or ""),
+                    "origin": str(character.get("origin") or ""),
+                }
+                for character in bundle.get("characters") or []
+            },
         },
     )
     gaps = capability_gaps(provider.capabilities, request)

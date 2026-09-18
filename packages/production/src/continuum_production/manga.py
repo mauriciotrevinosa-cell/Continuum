@@ -950,10 +950,13 @@ class MangaProduction:
                 entry["observation_id"] for entry in (production_model or {}).get("evidence", [])
             }
             resolved_wardrobe = wardrobe.resolve(run.project_key, character_id, stage)
+            character_profile = self.corpus.character(character_id)
             characters.append(
                 {
                     "name": name,
                     "character_id": str(character_id),
+                    "source_label": character_profile.source_label,
+                    "origin": character_profile.origin.value,
                     "grounding": grounding["grounding"],
                     "stylization": grounding["stylization"],
                     "readiness": grounding["readiness"],
@@ -961,7 +964,7 @@ class MangaProduction:
                     "observations": found["observations"],
                     "stylization_observations": found["stylization"],
                     "available_observations": found["available"],
-                    "forbidden": self.corpus.forbidden(self.corpus.character(character_id)),
+                    "forbidden": self.corpus.forbidden(character_profile),
                     "rules": rule,
                     "production_model": production_model,
                     "wardrobe": resolved_wardrobe,

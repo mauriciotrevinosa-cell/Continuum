@@ -547,31 +547,36 @@ This page is specifically a **style-stress test**, not the baseline style target
 
 ---
 
-## CAL-18 — Mau / Frieren confession and kiss
+## CAL-18 — Frieren / Mau confession and kiss
 
 **Source:** Creator direction — calibration-only NON_CANON relationship / acting stress page.  
-**Source content:** Mau confesses his feelings to Frieren and the emotional exchange culminates in a mutual kiss. The calibration page establishes acting, pacing, intimacy and visual clarity only; it must not invent canon confession wording that has not been separately authored.
+**Source content:** Frieren confesses her feelings to Mau and the emotional exchange culminates in a mutual kiss. The calibration page establishes acting, pacing, intimacy and visual clarity only; it must not invent canon confession wording that has not been separately authored.
 
-**Characters:** Mau, Frieren.
+**Direction lock:** Frieren is the confessor. Mau listens, reacts and reciprocates. Do not invert these roles.
+
+**Characters:** Frieren, Mau.
 
 **Page construction:**
-- Panel 1: quiet medium two-shot with a small but noticeable amount of space between Mau and Frieren. Establish the emotional pause before the confession without melodramatic posing.
-- Panel 2: closer panel on Mau during the confession. The important signal is vulnerability and sincerity in face, shoulders, hands and eye-line; exact dialogue is reserved for creator-approved story text.
-- Panel 3: small reaction panel on Frieren. Allow silence and micro-expression to carry the beat; recognition should be readable without exaggerated surprise.
+- Panel 1: quiet medium two-shot with a small but noticeable amount of space between Frieren and Mau. Establish the emotional pause before the confession without melodramatic posing.
+- Panel 2: closer panel on Frieren during the confession. The important signal is vulnerability and sincerity in face, shoulders, hands and eye-line; exact dialogue is reserved for creator-approved story text.
+- Panel 3: small reaction panel on Mau. Allow silence and micro-expression to carry the beat; recognition and emotional impact should be readable without exaggerated surprise.
 - Panel 4: intimate two-shot as the distance closes. Mutual eye-line and body language must make the movement toward the kiss feel chosen by both characters rather than mechanically posed.
-- Panel 5: large lower panel on the kiss. Keep it tender and emotionally grounded, with clean silhouettes, believable hands and posture, preserved facial identity and enough environmental context that it still feels like a manga story beat rather than a detached romance illustration.
+- Panel 5: large lower panel on the mutual kiss. Keep it tender and emotionally grounded, with clean silhouettes, believable hands and posture, preserved facial identity and enough environmental context that it still feels like a manga story beat rather than a detached romance illustration.
 
 **Primary validation:**
 - restrained emotional acting survives close-up rendering;
-- Mau and Frieren remain unmistakably themselves at intimate distance;
+- Frieren and Mau remain unmistakably themselves at intimate distance;
 - page rhythm uses panel size and silence to build toward the final panel;
-- confession reads as sincere without relying on exaggerated effects;
+- Frieren's confession reads as sincere without relying on exaggerated effects;
+- Mau's reaction reads as attentive, emotionally affected and reciprocal rather than as the initiating confession;
 - mutual body language and eye-line make the kiss emotionally legible;
 - hands, faces and close-contact anatomy remain believable;
 - intimate composition remains story-driven rather than fan-service posing;
 - quiet emotional material can receive as much visual precision as action and supernatural effects.
 
 **Failure examples:**
+- Mau is shown confessing first or otherwise driving the confession;
+- Frieren appears passive during the confession beat;
 - blank or generic expressions make the confession emotionally unreadable;
 - the kiss appears abrupt because the intermediate acting beat is missing;
 - one character appears passive, unaware or disconnected from the mutual moment;

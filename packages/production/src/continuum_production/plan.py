@@ -228,7 +228,14 @@ def page_plan(
     if primary is None and present:
         primary = max(present, key=lambda n: (weight[n], -present.index(n)))
     uncertain = [f"speaker {s!r} is not a known character" for s in dict.fromkeys(unmapped)]
-    if not present and (speakers or directions):
+    environment_only = (
+        not declared
+        and any(
+            token in directions.lower()
+            for token in ("environment only", "no people", "no humans", "empty scene")
+        )
+    )
+    if not present and (speakers or directions) and not environment_only:
         uncertain.append("no known character is named on this page")
     mapped_not_in_script = [n for n in dict.fromkeys(mapped) if n not in script]
     uncertain += [f"{n} speaks but is not named in the directions" for n in mapped_not_in_script]

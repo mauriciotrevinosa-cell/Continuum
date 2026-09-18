@@ -563,11 +563,11 @@ Important principle:
 
 She can begin by experiencing emotions before she has names for them. She may know that something hurts, pulls, warms, frightens or attracts her before she understands the social or emotional category.
 
-### Frieren is not reduced to a rival
+### Frieren is not reduced to a rival — she has her own side of the arc
 
-The girl should **like and admire Frieren**.
+Ori should **like and admire Frieren**.
 
-That matters because the emotional triangle is more interesting if the girl is not written as a hostile romantic obstacle.
+That matters because the emotional triangle is more interesting if Ori is not written as a hostile romantic obstacle.
 
 Possible truth:
 
@@ -575,6 +575,27 @@ Possible truth:
 - she can genuinely enjoy Frieren's company;
 - she may learn from Frieren;
 - she can still feel jealousy or romantic desire without turning Frieren into an enemy.
+
+Just as importantly, Frieren must remain an active emotional participant rather than becoming the person Mau and Ori talk *about* offscreen.
+
+Frieren can initially struggle to name what she is feeling too.
+
+She may notice Ori taking more of Mau's time and react before she fully understands why:
+
+- Ori asks Mau to go somewhere with her and he agrees;
+- Ori creates excuses for one-on-one time;
+- Ori becomes physically comfortable around him;
+- Mau treats these moments as normal because he still does not understand the romantic subtext;
+- Frieren feels hurt, irritated or unsettled without immediately knowing what she is entitled to ask for because she and Mau never formally defined the relationship.
+
+A useful small beat is Frieren asking Fern something vague about relationships / jealousy, receiving an answer that does not actually solve her problem, then saying something like "forget it" and walking away. Fern can begin noticing that something is wrong even if she does not yet understand the whole situation.
+
+Frieren may even become briefly angry with Mau, not because he has intentionally betrayed her, but because from her perspective he is participating in something emotionally intimate while acting as though nothing unusual is happening.
+
+The dramatic point is that **both Mau and Frieren are suffering from the same missing language in different ways**:
+
+- Mau does not yet understand what romantic love is well enough to recognize the boundary;
+- Frieren knows she is being hurt but does not know what claim she can make when neither of them has named what they are.
 
 This preserves the possibility of affection, awkwardness, humor and pain existing at the same time.
 
@@ -637,6 +658,114 @@ Her romantic thread remains **open**:
 - the story does not need to reveal immediately whether that love becomes permanent, changes form or becomes something else;
 - her feelings should be allowed to become real even if Mau's central romantic realization ultimately points toward Frieren.
 
+### Ori actively experiments with romance
+
+Ori should not only ask Mau questions. Once she realizes that Mau and Frieren are emotionally close but formally undefined, she begins **trying things** she associates with romance.
+
+The exact sequence can stay flexible, but favored examples include:
+
+- inviting Mau on deliberate one-on-one outings;
+- finding reasons to sit beside him or remain with him after everyone else leaves;
+- asking him to accompany her somewhere that does not actually require him;
+- asking to sleep near / with him one night because she is "scared";
+- testing what kinds of closeness make Mau comfortable, confused or protective.
+
+The "I'm scared" beat should preserve Ori's complexity. She may genuinely feel some fear or instability, while also realizing that fear gives her an excuse to ask for closeness. It does not need to make her malicious; it can be one of the first times she discovers that desire can influence how a person frames a request.
+
+Mau may agree because his mental model is still:
+
+> Ori is important to me and she needs comfort.
+
+He does not automatically understand:
+
+> Ori is deliberately creating a situation she experiences as romantic.
+
+That gap creates consequences.
+
+Frieren sees some of these moments and is hurt by them. The story should spend enough time with **Frieren's perspective** that the audience does not experience the arc as Mau/Ori with Frieren waiting in the background.
+
+### Frieren overhears Ori learning what "romantic" means
+
+A favored turning beat is for Frieren to overhear Ori talking with someone else about an idea she has for Mau.
+
+Ori describes an outing, gesture or situation she wants to create.
+
+The other person reacts casually:
+
+> "That sounds really romantic."
+
+Ori's eyes light up.
+
+The word gives her a category for something she was already trying to feel out.
+
+Frieren hears this without Ori realizing she is there.
+
+This can be the point where Frieren's discomfort becomes unmistakably painful. She no longer has to wonder whether Ori's behavior is innocent closeness; Ori herself has begun understanding it as romantic.
+
+Frieren may later admit, perhaps only partially:
+
+> Loving someone who may not love you the same way... I don't know what I'm supposed to do with that.
+
+The exact wording is open, but the emotional function is important: **Frieren also has to confront the possibility that Mau may not choose her**.
+
+That gives Frieren her own vulnerability instead of making her merely the eventual answer to Mau's question.
+
+### Mau's mistake, Ori's heartbreak, and the relationship turning point
+
+The arc should not resolve the moment Mau learns the definition of romantic love.
+
+A stronger progression is that Mau gradually realizes Ori's feelings are real before he has fully understood his own.
+
+At some point Mau tries to be clear and kind with Ori and says, in substance:
+
+> "I love you, but as a friend."
+
+The exact line can change.
+
+For Mau this is an attempt at honesty.
+
+For Ori it is the first time she fully experiences romantic rejection.
+
+She leaves crying.
+
+Nothing villainous needs to happen. Ori's pain is valid even though Mau has not done anything wrong by not returning the feeling romantically.
+
+This creates room for a quieter aftermath where **Mau and Frieren both help comfort Ori**. That matters because it prevents the resolution from becoming "Frieren wins, Ori loses." The three relationships survive the romantic disappointment.
+
+Ori's heartbreak also gives her something the goddess could never have learned by observation alone:
+
+> Love can remain real even when it is not returned in the form you wanted.
+
+### Mau finally chooses language instead of merely discovering it
+
+Only after living through the consequences does Mau arrive at the point where he can distinguish:
+
+- family love;
+- friendship;
+- protectiveness;
+- attachment;
+- attraction;
+- romantic love;
+- and the desire to deliberately build a life with one specific person.
+
+His realization should not be:
+
+> "Maki told me this is what love means."
+
+It should be closer to:
+
+> "Now I understand why what I feel for Frieren is not the same as what I feel for everyone else."
+
+The arc can culminate with Mau **officially asking Frieren to define the relationship with him** — not because a label magically creates the love, but because he has finally learned enough to choose the label consciously.
+
+Frieren can realize something important at the same time:
+
+> Mau already loved her before he understood the concept well enough to name it.
+
+That retroactively gives meaning to many of his earlier actions without pretending he secretly understood romance all along.
+
+The exact label they choose — girlfriend/boyfriend, partners, something culturally specific, or their own wording — can remain open until the scene is written.
+
 ### Reciprocal purpose of the arc
 
 Mau helps Ori understand love because he treats her as a person rather than as a divine experiment.
@@ -649,7 +778,7 @@ Maki or another friend may give Mau useful language. Ori gives him pressure, cou
 
 Possible emotional progression:
 
-goddess creates Ori to understand love → Ori experiences attachment before she understands the word → gossip circle exposes that Mau/Frieren are emotionally obvious but formally unlabeled → Mau realizes he cannot confidently define his own love → Ori glitches when she recognizes a possible opening → Ori comes to love Mau while questioning him about Frieren → Mau has to examine his own reactions instead of borrowing someone else's definition → Mau eventually recognizes what is uniquely romantic about his love for Frieren → Ori's individuality grows beyond the goddess's original purpose
+goddess creates Ori to understand love → Ori experiences attachment before she understands the word → gossip circle exposes that Mau/Frieren are emotionally obvious but formally unlabeled → Mau realizes he cannot confidently define his own love → Ori glitches when she recognizes a possible opening → Ori begins actively experimenting with dates / intimacy / closeness → Frieren is hurt and forced to question what Mau means to her → Ori learns to call her own plans romantic → Mau starts recognizing that Ori's feelings are not the same as friendship → Mau rejects Ori romantically while still loving her as a friend → Ori experiences heartbreak without becoming an antagonist → Mau and Frieren remain present for her → Mau finally recognizes what is uniquely romantic about his love for Frieren → Mau consciously asks Frieren to define their relationship → Ori's individuality grows beyond the goddess's original purpose
 
 Ori therefore is not only a romance complication. She is one of the mechanisms through which Mau becomes capable of naming his own emotional life — but the realization remains Mau's, not something another character explains into him.
 
@@ -658,9 +787,10 @@ Ori therefore is not only a romance complication. She is one of the mechanisms t
 The favored thematic shape is:
 
 > The goddess creates the girl to understand love.  
-> Ori becomes capable of loving Mau.  
-> Mau, while trying to understand Ori and answer her questions, is forced to examine whether and how he loves Frieren romantically.  
-> The answer is not given to him by Maki, Ori or anyone else; he has to recognize it himself.  
+> Ori becomes capable of loving Mau, pursuing him, and eventually surviving the pain of not being loved back in the same way.  
+> Frieren is forced to confront jealousy, uncertainty and the possibility of losing Mau before either of them has named what they are.  
+> Mau, while living through both relationships, is forced to examine whether and how he loves Frieren romantically.  
+> The answer is not given to him by Maki, Ori or anyone else; he has to recognize it himself and then choose to act on it.  
 > In doing so, Ori becomes less like an extension of the goddess and more fully herself.
 
 A deeper theme underneath the arc is that **love requires accepting loss of control**.

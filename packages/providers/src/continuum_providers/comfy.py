@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import time
 import urllib.error
 import urllib.parse
@@ -56,7 +57,7 @@ __all__ = [
 ]
 
 WORKFLOW_ID = "continuum.comfy.page"
-WORKFLOW_VERSION = "2"
+WORKFLOW_VERSION = "3"
 CORE_NODES = (
     "CheckpointLoaderSimple",
     "CLIPTextEncode",
@@ -70,9 +71,11 @@ CORE_NODES = (
 IDENTITY_NODES = ("IPAdapterUnifiedLoader", "IPAdapterAdvanced", "ImageBatch")
 NOISE_NEGATIVE = "HUD, videogame UI, status window, stat screen, computer overlay, interface panel"
 BASE_NEGATIVE = (
-    "text, letters, typography, Japanese characters, speech bubble, dialogue balloon, caption, "
-    "sound effect text, watermark, signature, logo, panel border, comic page, collage, contact "
-    "sheet, duplicate person, extra people, lowres, blurry, deformed hands, extra fingers"
+    "lowres, bad anatomy, bad hands, text, letters, typography, Japanese characters, error, "
+    "missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, "
+    "bad score, average score, signature, watermark, username, blurry, speech bubble, dialogue "
+    "balloon, caption, sound effect text, logo, panel border, comic page, manga page, comic panel, "
+    "multiple panels, split screen, collage, contact sheet, duplicate person, extra people"
 )
 
 Transport = Callable[[str, str, bytes | None, dict[str, str]], tuple[int, bytes]]
@@ -118,7 +121,7 @@ class ComfyConfig:
     sampler: str = "euler_ancestral"
     scheduler: str = "normal"
     color_denoise: float = 0.45
-    style_prompt: str = "manga page, clean ink linework, expressive faces"
+    style_prompt: str = "anime screencap, clean lineart, expressive face, detailed background"
     ipadapter_preset: str = "PLUS (high strength)"
     ipadapter_weight: float = 0.8
     max_reference_images: int = 12
@@ -270,6 +273,67 @@ def _fill(graph: dict[str, Any], values: dict[str, Any]) -> dict[str, Any]:
     return filled
 
 
+
+_ANIMAGINE_TAG_RULES: tuple[tuple[tuple[str, ...], str], ...] = (
+    (("wide", "establish"), "wide shot"),
+    (("close-up", "close up", "medium-close", "medium close"), "close-up"),
+    (("medium",), "medium shot"),
+    (("reaction", "reacting", "reacts"), "reaction"),
+    (("strike", "striking", "attack", "attacks"), "attacking"),
+    (("impact",), "impact"),
+    (("turns", "turning", "looks back"), "looking back"),
+    (("carry", "carries", "carrying"), "carrying"),
+    (("run", "running", "moving away"), "running"),
+    (("barrier",), "energy barrier"),
+    (("red",), "red energy"),
+    (("blue",), "blue energy"),
+    (("forest",), "forest"),
+    (("village", "settlement"), "village"),
+    (("inn",), "inn"),
+    (("house", "houses"), "houses"),
+    (("lake",), "lake"),
+    (("path", "lane", "road"), "path"),
+    (("hill",), "hill"),
+    (("tree",), "tree"),
+    (("guitar",), "guitar"),
+    (("kitchen",), "kitchen"),
+    (("table",), "table"),
+    (("fire", "hearth"), "fire"),
+    (("night",), "night"),
+    (("sunset",), "sunset"),
+    (("day", "morning"), "day"),
+)
+
+
+def _animagine_tags(text: str) -> list[str]:
+    """Compile creator prose into the tag vocabulary Animagine was trained on."""
+    lowered = text.lower()
+    tags: list[str] = []
+    for needles, tag in _ANIMAGINE_TAG_RULES:
+        if any(needle in lowered for needle in needles):
+            tags.append(tag)
+    if any(token in lowered for token in ("no people", "environment only", "empty scene")):
+        tags.extend(("scenery", "no humans"))
+    if any(token in lowered for token in ("dynamic", "action", "impact", "strike", "attack")):
+        tags.append("dynamic pose")
+    if any(token in lowered for token in ("ordinary", "calm", "quiet", "domestic")):
+        tags.append("natural pose")
+    return list(dict.fromkeys(tags))
+
+
+def _identity_reference_rank(reference: ArtworkReference) -> tuple[int, str]:
+    provenance = reference.provenance or {}
+    facets = {str(value).upper() for value in provenance.get("facets") or []}
+    evidence_role = str(provenance.get("production_evidence_role") or "").upper()
+    if evidence_role in {"IDENTITY", "FACE", "HAIR"} or facets & {"FACE", "HAIR", "IDENTITY"}:
+        return (0, reference.reference_id)
+    if evidence_role == "BODY" or "BODY" in facets:
+        return (1, reference.reference_id)
+    if facets & {"EXPRESSION", "POSE"}:
+        return (2, reference.reference_id)
+    return (3, reference.reference_id)
+
+
 def _select_identity_references(
     references: Sequence[ArtworkReference], limit: int
 ) -> list[ArtworkReference]:
@@ -291,6 +355,8 @@ def _select_identity_references(
             by_character.setdefault(reference.character, []).append(reference)
         else:
             unassigned.append(reference)
+    for group in by_character.values():
+        group.sort(key=_identity_reference_rank)
 
     selected: list[ArtworkReference] = []
     offsets = dict.fromkeys(by_character, 0)
@@ -495,24 +561,14 @@ class ComfyPageProvider:
     def _panel_prompts(
         self, request: PageRenderRequest, panel: dict[str, Any]
     ) -> tuple[str, str]:
-        """Prompt one panel only; Continuum owns page layout and lettering."""
+        """Prompt one bounded illustration using Animagine's tag-first vocabulary."""
         page = request.page
         characters = [str(name) for name in panel.get("characters") or []]
-        names = ", ".join(characters)
         direction = str(panel.get("direction") or "").strip()
         shot = str(panel.get("shot") or "STANDARD").lower()
         creator_notes = str(request.settings.get("creator_notes") or "").strip()
+        character_context = request.settings.get("character_context") or {}
 
-        context = next(
-            (
-                str(item).strip()
-                for item in page.get("directions") or []
-                if str(item).strip()
-                and not str(item).startswith("PAGE CONSTRUCTION:")
-                and not str(item).startswith("MUST SHOW:")
-            ),
-            "",
-        )
         locks = [
             str(item).removeprefix("MUST SHOW:").strip()
             for item in page.get("directions") or []
@@ -526,27 +582,41 @@ class ComfyPageProvider:
         if not relevant_locks:
             relevant_locks = locks[:2]
 
-        support_style = self.config.style_prompt.replace("manga page", "manga panel")
-        positive_parts = [
-            "single Japanese manga panel illustration",
-            support_style,
-            "clean intentional ink contours",
-            "manga-ready anatomy and facial construction",
-            "restrained cel shading, controlled values, readable silhouette",
-            "no lettering; leave clean negative space for later typography",
-            f"{shot} shot",
-            f"characters: {names}" if names else "environment only; no people",
-            f"panel action: {direction}",
-            f"scene context: {context}" if context and context != direction else "",
-            "required: " + "; ".join(relevant_locks[:3]) if relevant_locks else "",
-        ]
-        if (
-            creator_notes
-            and creator_notes not in direction
-            and creator_notes not in context
-        ):
-            positive_parts.append(f"creator correction: {creator_notes}")
-        positive = ". ".join(part for part in positive_parts if part)[:3600]
+        tags: list[str] = ["safe"]
+        if len(characters) == 1:
+            tags.append("solo")
+        elif len(characters) > 1:
+            tags.append("multiple people")
+        else:
+            tags.extend(("scenery", "no humans"))
+
+        for name in characters:
+            tags.append(name.lower())
+            context = character_context.get(name) or {}
+            source_label = str(context.get("source_label") or "").strip().lower()
+            if source_label:
+                tags.append(source_label)
+
+        shot_tags = {
+            "wide": "wide shot",
+            "close": "close-up",
+            "medium": "medium shot",
+            "impact": "dynamic angle",
+        }
+        if shot in shot_tags:
+            tags.append(shot_tags[shot])
+
+        semantic_text = " ".join(
+            [direction, *relevant_locks[:3], creator_notes]
+        ).strip()
+        tags.extend(_animagine_tags(semantic_text))
+        tags.extend(
+            tag.strip()
+            for tag in self.config.style_prompt.split(",")
+            if tag.strip()
+        )
+        tags.extend(("masterpiece", "high score", "great score", "absurdres"))
+        positive = ", ".join(dict.fromkeys(tag for tag in tags if tag))[:2400]
 
         negatives = [BASE_NEGATIVE, NOISE_NEGATIVE]
         negatives.extend(str(item) for item in page.get("constraints") or [])
@@ -633,9 +703,9 @@ class ComfyPageProvider:
                     "image": batch,
                     "weight": weight,
                     "weight_type": "linear",
-                    "combine_embeds": "concat",
+                    "combine_embeds": "average",
                     "start_at": 0.0,
-                    "end_at": 1.0,
+                    "end_at": 0.85,
                     "embeds_scaling": "V only",
                 },
             }
@@ -703,8 +773,12 @@ class ComfyPageProvider:
                 for reference in identity
                 if reference.character is not None and reference.character in character_names
             ]
+            panel_reference_limit = min(
+                self.config.max_reference_images,
+                max(0, len(character_names) * 3),
+            )
             sent = (
-                _select_identity_references(scoped, self.config.max_reference_images)
+                _select_identity_references(scoped, panel_reference_limit)
                 if status.identity_conditioning
                 else []
             )
@@ -768,7 +842,7 @@ class ComfyPageProvider:
             "ipadapter": {
                 "preset": self.config.ipadapter_preset,
                 "weight": self.config.ipadapter_weight,
-                "mode": "separate adapter chain per character per panel",
+                "mode": "separate adapter chain per character; averaged refs; max three refs per cast member",
             },
             "positive_example": first_positive,
             "negative": first_negative,

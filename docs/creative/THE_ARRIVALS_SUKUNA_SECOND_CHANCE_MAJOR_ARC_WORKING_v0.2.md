@@ -172,16 +172,29 @@ The reveal is:
 - the physical connection is close and unmistakable, not an abstract "severed hand in Mau's possession";
 - Mau is fading in and out but understands that Frieren is alive.
 
-Possible system fragment:
+At the moment Sukuna's arm / hand is through Mau, Mau's internal system produces a fragment approximately like:
 
-> merger process beginning
+> merging began
+
+Exact wording remains provisional, but the event itself matters.
+
+The "merging" event causes an immediate abnormal reaction in Sukuna:
+- Sukuna partially blacks out / loses consciousness for a short moment;
+- this creates the tiny window Mau needs to remain physically connected to Sukuna, say his goodbye, and begin the final construction;
+- Mau does not fully understand what "merging" means while it is happening.
+
+When Sukuna recovers enough awareness:
+- he tries to pull away / escape from Mau;
+- he discovers that he cannot simply detach himself from Mau;
+- the exact metaphysical/mechanical reason for that forced connection remains intentionally open;
+- this inability to break free is what pushes the situation into the Mahoraga intervention rather than Sukuna simply stepping away from the technique.
 
 Possible emotional content from Mau remains provisional:
 - reassurance that it will be okay;
 - Frieren is the most precious thing in his world;
 - he could not let her get hurt.
 
-Exact wording remains open.
+Exact dialogue remains open.
 
 ---
 
@@ -211,46 +224,52 @@ Current creator instinct is that the canon battle may need considerably more bre
 
 Possible beat order:
 
-1. Mau's final exchange with Frieren lands.
-2. Mau gives Himmel the "take care of her" request.
-3. Yuta and Okarun immediately launch the extraction plan.
-4. Yuta takes / carries Frieren away.
-5. Okarun takes / carries Rimuru away.
-6. Frieren is initially petrified / emotionally frozen by what just happened rather than instantly behaving normally.
-7. Mau begins forming **Blue first**.
-8. Blue should look visibly imperfect and dangerous — unstable, collapsing, ejecting structure like solar plasma / a solar prominence rather than a perfect clean orb.
-9. The Blue phenomenon should feel attached to and consuming / engulfing one of Mau's hands rather than floating harmlessly at a distance.
-10. The barrier finishes forming around Mau / Sukuna and the intended enclosed combat space.
-11. On Mau's other side / other hand, **Red begins forming from particles** rather than simply popping into existence.
-12. Red should also feel physically tied to / consuming Mau's hand and body position.
-13. Sukuna has now recovered enough awareness to understand what Mau is attempting.
-14. Sukuna invokes Mahoraga.
-15. Mahoraga launches toward the relationship between Red and Blue and physically attempts to force the two phenomena apart.
-16. Mahoraga arrives too late: Red and Blue have already begun the irreversible convergence.
-17. Mahoraga is annihilated in the failed interception.
-18. Mahoraga's wheel falls / remains as the visual aftermath marker. This image is favored but not yet mechanics-locked.
-19. A very short Mau memory flash may show Frieren smiling.
-20. Possible Mau internal thought, placeholder wording only:
+1. Sukuna's arm / hand goes through Mau while Mau protects Frieren.
+2. Mau's internal system produces a fragment approximately like `merging began`.
+3. Sukuna partially blacks out / loses consciousness for a short moment as the abnormal merging event starts.
+4. That brief window is what allows Mau's final exchange with Frieren to land instead of Sukuna immediately continuing the attack.
+5. Mau gives Himmel the "take care of her" request.
+6. Yuta and Okarun immediately launch the extraction plan.
+7. Yuta takes / carries Frieren away.
+8. Okarun takes / carries Rimuru away.
+9. Frieren is initially petrified / emotionally frozen by what just happened rather than instantly behaving normally.
+10. Mau uses the same window to begin the final construction.
+11. Mau begins forming **Blue first**.
+12. Blue should look visibly imperfect and dangerous — unstable, collapsing, ejecting structure like solar plasma / a solar prominence rather than a perfect clean orb.
+13. The Blue phenomenon should feel attached to and consuming / engulfing one of Mau's hands rather than floating harmlessly at a distance.
+14. The barrier finishes forming around Mau / Sukuna and the intended enclosed combat space.
+15. On Mau's other side / other hand, **Red begins forming from particles** rather than simply popping into existence.
+16. Red should also feel physically tied to / consuming Mau's hand and body position.
+17. Sukuna recovers enough awareness to understand that Mau is constructing something catastrophic.
+18. Sukuna tries to pull away / escape and realizes he cannot simply detach himself from Mau.
+19. Sukuna's inability to get free from Mau becomes a visible part of the tension; exact mechanics remain open.
+20. Sukuna invokes Mahoraga because direct escape is failing and the Red / Blue convergence is becoming imminent.
+21. Mahoraga launches toward the relationship between Red and Blue and physically attempts to force the two phenomena apart.
+22. Mahoraga arrives too late: Red and Blue have already begun the irreversible convergence.
+23. Mahoraga is annihilated in the failed interception.
+24. Mahoraga's wheel falls / remains as the visual aftermath marker. This image is favored but not yet mechanics-locked.
+25. A very short **flashback** from Mau may show Frieren smiling.
+26. Possible Mau internal thought, placeholder wording only:
 
 > At least she is safe.
 
-21. Sukuna continues trying to escape but cannot immediately break the barrier / geometry.
-22. The resulting Hollow Purple should look **extremely unstable**, not like Gojo casually firing a clean mastered technique.
-23. It should visibly feel as if the construction itself is struggling to hold together.
-24. Then the detonation / release lands.
-25. After the blast, Yuta and Okarun stop their outward movement.
-26. The others can continue moving farther from danger while Frieren breaks away / runs back toward the blast area.
-27. Sukuna is revealed alive but extremely close to death.
-28. Yuta is in position to pursue / finish him.
-29. Sukuna uses a binding vow / equivalent escape mechanism.
-30. The exact thing Sukuna sacrifices remains OPEN and must carry a serious permanent or long-term cost.
-31. A previously discussed example is loss of Ten Shadows access, but that is NOT locked.
-32. Sukuna exploits Yuta's hesitation by pointing out that if Sukuna survived the blast, Mau may also still have a chance.
-33. Yuta chooses the chance to save Mau rather than spend that moment pursuing Sukuna.
-34. Sukuna escapes through that small window.
-35. Frieren reaches Mau / sees his body and breaks down.
-36. Other witnesses can remain in shock rather than immediately producing clean exposition.
-37. Yuta begins RCT / emergency treatment.
+27. Sukuna continues trying to escape while still unable to fully free himself from Mau and while the barrier / geometry prevents an easy exit.
+28. The resulting Hollow Purple should look **extremely unstable**, not like Gojo casually firing a clean mastered technique.
+29. It should visibly feel as if the construction itself is struggling to hold together.
+30. Then the detonation / release lands.
+31. After the blast, Yuta and Okarun stop their outward movement.
+32. The others can continue moving farther from danger while Frieren breaks away / runs back toward the blast area.
+33. Sukuna is revealed alive but extremely close to death.
+34. Yuta is in position to pursue / finish him.
+35. Sukuna uses a binding vow / equivalent escape mechanism.
+36. The exact thing Sukuna sacrifices remains OPEN and must carry a serious permanent or long-term cost.
+37. A previously discussed example is loss of Ten Shadows access, but that is NOT locked.
+38. Sukuna exploits Yuta's hesitation by pointing out that if Sukuna survived the blast, Mau may also still have a chance.
+39. Yuta chooses the chance to save Mau rather than spend that moment pursuing Sukuna.
+40. Sukuna escapes through that small window.
+41. Frieren reaches Mau / sees his body and breaks down.
+42. Other witnesses can remain in shock rather than immediately producing clean exposition.
+43. Yuta begins RCT / emergency treatment.
 
 This entire sequence should be allowed enough pages to make cause-and-effect legible:
 - farewell;
@@ -294,7 +313,8 @@ Exact power mechanics remain open until later source/mechanics audit.
 
 - Sukuna still uses Heian-era body.
 - Current direction allows Ten Shadows despite Megumi not being the vessel; exact metaphysical explanation remains open.
-- Mahoraga is withheld until Sukuna recognizes the Hollow Purple danger.
+- Mahoraga is withheld until Sukuna recovers from the brief merging-induced near-blackout, recognizes the Hollow Purple danger, and realizes he cannot simply pull himself free from Mau.
+- Mahoraga therefore enters as Sukuna's emergency answer to a situation he cannot escape normally.
 - Mahoraga's job in this beat is to attempt to separate Red and Blue before convergence.
 - The drama depends on Mahoraga arriving too late.
 - It should not successfully cancel Hollow Purple.

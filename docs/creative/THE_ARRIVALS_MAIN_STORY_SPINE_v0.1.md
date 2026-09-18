@@ -88,11 +88,13 @@ The season should end with the audience understanding the danger before the main
 
 ---
 
-## 3. Season 2 — from fragile coexistence to founding a city
+## 3. Season 2 — from fragile coexistence to choosing a safer home
 
 Season 2 should begin with apparent stability rather than immediate catastrophe.
 
 The combined groups may be living in or restoring a small abandoned / partially abandoned settlement near a functioning mercantile city.
+
+Current favored timing: Season 2 should carry the **decision, fortification, search and first move** toward a safer long-term home, while most of the actual settlement / city construction continues into Season 3. This avoids overloading Season 2 with a complete city-building arc on top of Sukuna, Otherworlder fear, internal politics and relationship development.
 
 This creates room for:
 
@@ -159,7 +161,20 @@ into:
 
 The future city should not begin because Rimuru, Mau, or anyone else suddenly wants a kingdom.
 
-It should emerge from pressure:
+It should emerge from pressure, but its **timing should be earned**. The Bocchi incident can trigger agreement that a safer home is necessary without forcing the cast to abandon the current base overnight.
+
+The late Season 2 progression can therefore be:
+
+temporary base
+→ social rupture / Bocchi incident
+→ agreement to find a safer long-term home
+→ fortify the current base while it is still needed
+→ reconnaissance and comparison of candidate sites
+→ choose the new location
+→ first departure / first camp / first construction near the end of S2
+→ major settlement and city-building continues through S3
+
+The long-term city still emerges from pressure:
 
 - lack of safe housing;
 - unstable trade access;
@@ -309,10 +324,12 @@ The emotional motive matters as much as the military one:
 
 Season 3 should continue Season 2's growth rather than begin a disconnected new storyline.
 
-By then:
+Season 3 should begin close enough to the Season 2 move that the audience can experience the build rather than skip over it.
 
-- the settlement / city has real infrastructure;
-- exploration routes exist;
+By then or progressively during the opening stretch:
+
+- the chosen site is becoming a real settlement rather than already being a completed city;
+- exploration routes exist or are being formalized;
 - trade rumors travel farther;
 - dangerous monster regions are increasingly mapped;
 - stories about an Otherworlder-founded city spread across the world.
@@ -380,8 +397,8 @@ Exact timing remains expandable.
 ### High-confidence main-story direction
 
 - S1 = loss, survival, convergence, reunion, hope, then dangerous-arrival cliffhanger.
-- S2 = routine shattered by Sukuna consequences, Otherworlder fear, internal debate, relocation, city-building under pressure.
-- S3 = direct continuation of S2 through city growth, exploration, migration, and broader civilization progress.
+- S2 = routine shattered by Sukuna consequences, Otherworlder fear, internal debate, Bocchi as a social breaking point, fortification of the current base, search for safer territory, and the first move toward it near the end of the season.
+- S3 = direct continuation of that move through settlement construction, city growth, exploration, migration, and broader civilization progress.
 - The city emerges from necessity, not imperial ambition.
 - Exploration / reconnaissance becomes essential because of monsters and isolated Arrivals.
 - Sukuna should function as both combat threat and political/social catalyst.

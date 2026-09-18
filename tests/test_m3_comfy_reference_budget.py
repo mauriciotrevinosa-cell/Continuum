@@ -191,7 +191,12 @@ def test_panel_prompt_forbids_model_lettering_and_scopes_identity() -> None:
         plan={},
         continuity={"character_rules": {}},
         references=(),
-        settings={"creator_notes": "Keep the timing crystal clear."},
+        settings={
+            "creator_notes": "Keep the timing crystal clear.",
+            "character_context": {
+                "Yuta": {"source_label": "Jujutsu Kaisen", "origin": "SOURCE_WORK"}
+            },
+        },
     )
     positive, negative = provider._panel_prompts(
         request,
@@ -202,11 +207,16 @@ def test_panel_prompt_forbids_model_lettering_and_scopes_identity() -> None:
             "shot": "MEDIUM",
         },
     )
-    assert "characters: Yuta" in positive
-    assert "characters: Mau" not in positive
-    assert "no lettering" in positive
-    assert "creator correction: Keep the timing crystal clear." in positive
+    assert "solo" in positive
+    assert "yuta" in positive
+    assert "jujutsu kaisen" in positive
+    assert "medium shot" in positive
+    assert "attacking" in positive
+    assert "masterpiece" in positive
+    assert "manga panel" not in positive
+    assert "mau" not in positive
     assert "speech bubble" in negative
+    assert "multiple panels" in negative
     assert "Mau attacks first" in negative
 
 
@@ -244,6 +254,22 @@ def test_dialogue_speaker_is_not_dropped_from_story_panel_plan() -> None:
     plan = page_plan(page, ["Frieren", "Fern"])
     assert len(plan["render_panels"]) == 1
     assert set(plan["render_panels"][0]["characters"]) == {"Frieren", "Fern"}
+
+
+def test_environment_only_page_has_no_spurious_cast_warning() -> None:
+    page = {
+        "origin": "calibration",
+        "characters": [],
+        "directions": [
+            "Environment only; no people. Wide establishing view of the abandoned village."
+        ],
+        "dialogue": [],
+        "constraints": [],
+        "intents": ["nature_exterior"],
+    }
+    plan = page_plan(page, [])
+    assert plan["characters_present"] == []
+    assert "no known character is named on this page" not in plan["uncertain"]
 
 
 def test_manga_panel_geometry_reads_right_to_left_within_rows() -> None:

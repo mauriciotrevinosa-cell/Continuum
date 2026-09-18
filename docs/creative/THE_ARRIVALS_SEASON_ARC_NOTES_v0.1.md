@@ -261,7 +261,7 @@ The disagreement should be genuine. No side needs to be stupid for the plot to m
 
 ---
 
-## 9. Bocchi as the final catalyst for relocation
+## 9. Bocchi as the final catalyst for the relocation decision
 
 A favored emotional trigger is that the group does **not** leave solely because of abstract politics or Sukuna.
 
@@ -273,7 +273,21 @@ The group can tolerate suspicion directed at themselves longer than they can tol
 
 This may become the emotional tipping point:
 
-> "I think it's time we move."
+> "We need a place that is ours, where we can actually keep people safe."
+
+The Bocchi incident should trigger the **decision and search**, not an instant relocation. The current base remains useful and emotionally important, so the group can fortify it while scouting and debating possible new territory.
+
+This gives the late Season 2 structure room to breathe:
+
+current base becomes less socially safe
+→ Bocchi is hurt
+→ group agrees that a safer long-term home is necessary
+→ temporary base is fortified rather than abandoned overnight
+→ reconnaissance / site search intensifies
+→ practical arguments over water, food, trade, defense, distance and growth
+→ preferred site is chosen
+→ first move / first construction may begin near the end of Season 2
+→ Season 3 continues the actual settlement / city build
 
 The decision should still have costs and disagreement, but the Bocchi incident makes it clear that the status quo is no longer sustainable.
 
@@ -295,25 +309,34 @@ Pressures may include:
 - the need to investigate or eventually confront Sukuna;
 - concern that a temporary abandoned town cannot scale.
 
+The current favored timing is to **delay most actual city construction until the Season 2 → Season 3 transition** instead of asking Season 2 to carry another full-scale arc on top of Sukuna, Otherworlder fear, internal politics and the relationship material already in motion.
+
 A possible progression:
 
 ```text
 abandoned town / temporary base
 → debate over staying vs leaving
 → Bocchi incident / social breaking point
-→ relocation decision
-→ secure territory
+→ agreement that a safer long-term home is necessary
+→ fortify the current base as an interim measure
+→ reconnaissance and site search
+→ practical comparison of candidate locations
+→ choose the future site
+→ late-S2 departure / first camp / first construction
+→ S3 secure territory
 → perimeter
 → watch posts
 → routes and logistics
 → permanent settlement
-→ walls / layered defenses where justified
-→ city
+→ town
+→ later city
 ```
+
+Season 2 can therefore end on movement and commitment rather than on a magically completed city. A strong final image could be the household leaving the old base for the chosen site, or arriving there to find that the first practical work has already begun. Season 3 then inherits momentum instead of starting from a finished result.
 
 Mikasa can be one of the people who naturally pushes for fortification and reconnaissance based on what she lived through. Rimuru can translate that military instinct into a broader city-systems discussion: walls alone do not create survivability; water, food, sanitation, mobility, logistics, governance, and population matter too.
 
-This lets the city become a collective creation rather than one character's project.
+This lets the city become a collective creation rather than one character's project and gives the build enough screen time to feel earned.
 
 ---
 
@@ -435,9 +458,11 @@ routine / fragile stability
 → internal political disagreement
 → trust pact and strategic preparation
 → social breaking point
-→ relocation
-→ city-building under pressure
+→ agreement to find a safer long-term home
+→ fortify the current base while searching
+→ late-season site choice / first move
 → eventual decision about how to confront Sukuna
+→ major city-building continues into S3
 ```
 
 This remains exploratory. Exact episode placement, Group 3 membership, Gojo timing, Sukuna timing, the Bocchi incident, and the final city-founding sequence should be promoted only after later review.
@@ -499,7 +524,7 @@ and it intentionally begins with creation rather than violence.
 
 ---
 
-## 18. Goddess-created girl / love-learning arc — preserved working canon
+## 18. Ori / goddess-created girl / love-learning arc — preserved working canon
 
 **Status inside this brainstorm file:** locked working canon unless the creator deliberately revises it later.
 
@@ -510,7 +535,7 @@ This concept is distinct from the separate possibility that Mau / the MC may him
 - A goddess / divine being becomes fascinated by Mau as an anomaly.
 - She knows that Mau is unusual, but she does **not** know what he truly is or where he ultimately comes from.
 - After observing Mau and Frieren, the goddess becomes fascinated by **love** as something she cannot fully understand from outside it.
-- She creates a girl in an attempt to understand that phenomenon through a living extension of herself.
+- She creates a girl named **Ori** in an attempt to understand that phenomenon through a living extension of herself.
 - The girl can be understood as an emanation / extension / child of the goddess: she shares divine essence with her creator, but she is a **distinct individual** rather than a puppet or simple avatar.
 - She is newly born and remembers nothing before her creation.
 - Mau is the first person she sees / recognizes in a meaningful way, making him her first stable emotional reference point.
@@ -553,15 +578,58 @@ Possible truth:
 
 This preserves the possibility of affection, awkwardness, humor and pain existing at the same time.
 
-### Discovering the unlabeled Mau / Frieren relationship
+### The gossip-circle trigger / discovering the unlabeled Mau–Frieren relationship
 
-At some point the girl discovers that Mau and Frieren never formally defined their relationship in ordinary dating language.
+A favored trigger is a small, organic **gossip circle** rather than Ori discovering the relationship status through exposition.
 
-Because she is emotionally new and takes social structures more literally than everyone else, she may interpret this with innocent logic:
+Maki asks Mau something ordinary such as how he asked Frieren to be his girlfriend.
 
-> If they never formally said what they are, then maybe I still have a chance to win Mau.
+Mau is genuinely confused because, despite how close he and Frieren have become, he never formally asked her out and neither of them clearly defined the relationship in ordinary dating language.
 
-The beat should be funny because of her sincerity, not because her feelings are fake.
+That answer naturally attracts attention. A few people begin asking follow-up questions. The scene can be funny and intimate without becoming a courtroom interrogation.
+
+The important turn is that someone asks a deeper question:
+
+> "Okay, but do you actually love Frieren romantically?"
+
+Mau already knows that he loves Frieren **in some profound sense**. What he does not yet know is whether he understands the word *romantically* well enough to say that with certainty.
+
+Maki can explain what loving someone romantically means **to her** — attraction, wanting a shared future, choosing someone differently from family, wanting intimacy, jealousy, vulnerability, or whatever feels truthful to Maki's own voice.
+
+That explanation does **not** solve Mau.
+
+Mau may understand the definition intellectually and still leave the conversation thinking:
+
+> "Do I love Frieren like that? What exactly is different about what I feel for her?"
+
+This preserves the distinction between being told what love is and actually recognizing one's own emotional state.
+
+Ori hears this conversation.
+
+The revelation creates a small involuntary glitch / color instability in Ori. She has just learned two destabilizing things at once:
+
+1. Mau and Frieren never formally labeled their relationship.
+2. Mau himself is not certain how to classify his love for Frieren.
+
+Because Ori is emotionally new and takes social structures more literally than everyone else, she may interpret the opening with sincere, almost dangerous optimism:
+
+> If they never formally said what they are — and Mau is not even sure yet — then maybe I really do have a chance.
+
+This becomes the real beginning of Ori's romantic pursuit and of Mau's deeper self-questioning.
+
+Ori does not need to manipulate Mau maliciously. Her power in the arc is that she asks questions other people would avoid.
+
+She may begin putting ideas in Mau's head simply by asking direct things:
+
+- "Would you want Frieren to choose someone else?"
+- "Why do you sleep better when she is nearby?"
+- "Is the way you miss Frieren the same as the way you miss family?"
+- "If you already love her, why are you afraid to call it romantic?"
+- "If you do not know, how can you tell me that what I feel for you is different?"
+
+Some of Ori's questions can be innocent, some jealous, some self-serving, and some unexpectedly perceptive.
+
+The effect is not that Ori teaches Mau the answer. The effect is that she makes it increasingly impossible for him to avoid the question.
 
 Her romantic thread remains **open**:
 
@@ -571,26 +639,29 @@ Her romantic thread remains **open**:
 
 ### Reciprocal purpose of the arc
 
-Mau helps the girl understand love because he treats her as a person rather than as a divine experiment.
+Mau helps Ori understand love because he treats her as a person rather than as a divine experiment.
 
-The girl, in return, helps Mau understand the difference between kinds of love.
+Ori, in return, helps Mau **interrogate** the difference between kinds of love.
 
-This is particularly valuable because Mau already knows family / found-family attachment and deep care, but he still needs to understand what makes his love for Frieren specifically **romantic**.
+This is particularly valuable because Mau already knows family / found-family attachment and deep care, but he still needs to discover whether what he feels for Frieren is specifically **romantic** and, if so, what makes it different.
+
+Maki or another friend may give Mau useful language. Ori gives him pressure, counterexamples and emotionally inconvenient questions. Neither person can hand him the answer.
 
 Possible emotional progression:
 
-goddess creates girl to understand love → girl experiences attachment before she understands the word → girl comes to love Mau → Mau has to explain / examine love instead of only feeling it → Mau recognizes what is different about Frieren → the girl's individuality grows beyond the goddess's original purpose
+goddess creates Ori to understand love → Ori experiences attachment before she understands the word → gossip circle exposes that Mau/Frieren are emotionally obvious but formally unlabeled → Mau realizes he cannot confidently define his own love → Ori glitches when she recognizes a possible opening → Ori comes to love Mau while questioning him about Frieren → Mau has to examine his own reactions instead of borrowing someone else's definition → Mau eventually recognizes what is uniquely romantic about his love for Frieren → Ori's individuality grows beyond the goddess's original purpose
 
-The girl therefore is not only a romance complication. She is one of the mechanisms through which Mau becomes capable of naming his own emotional life.
+Ori therefore is not only a romance complication. She is one of the mechanisms through which Mau becomes capable of naming his own emotional life — but the realization remains Mau's, not something another character explains into him.
 
 ### Thematic core
 
 The favored thematic shape is:
 
 > The goddess creates the girl to understand love.  
-> The girl becomes capable of loving Mau.  
-> Mau, while helping her understand love, finally understands his own romantic love for Frieren.  
-> In doing so, the girl becomes less like an extension of the goddess and more fully herself.
+> Ori becomes capable of loving Mau.  
+> Mau, while trying to understand Ori and answer her questions, is forced to examine whether and how he loves Frieren romantically.  
+> The answer is not given to him by Maki, Ori or anyone else; he has to recognize it himself.  
+> In doing so, Ori becomes less like an extension of the goddess and more fully herself.
 
 A deeper theme underneath the arc is that **love requires accepting loss of control**.
 
@@ -602,7 +673,6 @@ That loss of control is not a flaw in the experiment. It may be the first thing 
 
 The following remain open rather than locked:
 
-- the girl's final name;
 - exact visual design beyond the identity-instability / color-shift concept;
 - exact season / episode of physical arrival;
 - whether the goddess can directly speak through her or only influence / sense her indirectly;

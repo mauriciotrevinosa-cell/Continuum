@@ -463,12 +463,15 @@ This beat is from Frieren's perspective.
 - She cries and smiles.
 - She embraces him.
 - Frieren initiates the kiss.
-- Frieren is the one who consciously confesses / says that she loves him.
-- Mau reciprocates honestly.
+- Frieren is the one who consciously confesses / says `I love you`.
+- Mau does **not** verbally mirror `I love you` in this awakening beat.
+- Mau embraces her and answers with reassurance in the spirit of `I told you everything would be okay`.
+- Frieren cries while staying close to him.
+- Their mutual behavior makes the romantic change clear, but they still have **not formally chosen a relationship label** at this point.
 
-This is the point where their relationship becomes explicitly romantic between them.
+This is the point where Frieren consciously names her romantic love and Mau openly receives/returns the intimacy without yet solving the later question of how they label the relationship.
 
-This must remain Frieren's conscious choice.
+This must remain Frieren's conscious choice and should stay compatible with the later Ori arc, where the absence of an explicit girlfriend/boyfriend/partner label becomes part of the emotional problem.
 
 ---
 
@@ -565,7 +568,7 @@ Hollow Purple is NOT automatically part of the permanent toolkit.
 - Second Chance re-anchors Mau's soul / stabilizes the body enough for Yuta's RCT to work.
 - Mau does not remember the divine conversation.
 - Mau remains unconscious for roughly three days in the current working version.
-- Frieren wakes beside Mau after his return, initiates the kiss and consciously confesses.
+- Frieren wakes beside Mau after his return, initiates the kiss and says `I love you`; Mau does not repeat the phrase in that beat, instead embracing/reassuring her, and no formal relationship label is chosen yet.
 - A later compact Frieren/Mau disagreement establishes that unilateral self-sacrifice and major secrets are not acceptable.
 - Hollow Purple is consumed / unavailable after the one-use construction.
 - Most actual city construction is now deferred toward the S2 -> S3 continuation.

@@ -842,7 +842,10 @@ class ComfyPageProvider:
             "ipadapter": {
                 "preset": self.config.ipadapter_preset,
                 "weight": self.config.ipadapter_weight,
-                "mode": "separate adapter chain per character; averaged refs; max three refs per cast member",
+                "mode": (
+                    "separate adapter chain per character; averaged refs; "
+                    "max three refs per cast member"
+                ),
             },
             "positive_example": first_positive,
             "negative": first_negative,

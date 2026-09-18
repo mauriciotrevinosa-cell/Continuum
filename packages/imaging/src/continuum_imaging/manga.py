@@ -17,7 +17,7 @@ import math
 from collections.abc import Sequence
 from dataclasses import dataclass
 
-from PIL import Image, ImageDraw, ImageFilter, ImageOps
+from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageOps
 
 from continuum_imaging import EncodedImage, encode_png, open_image
 
@@ -30,48 +30,18 @@ __all__ = [
     "tint_finish",
 ]
 
-_BAYER = (
-    (0, 8, 2, 10),
-    (12, 4, 14, 6),
-    (3, 11, 1, 9),
-    (15, 7, 13, 5),
-)
+def bw_finish(master: bytes) -> EncodedImage:
+    """Preserve drawing structure as clean monochrome without global dot dithering.
 
-
-def bw_finish(master: bytes, *, ink: int = 68, paper: int = 224) -> EncodedImage:
-    """Line-preserving black-and-white manga finish at the master's geometry.
-
-    The previous finish treated every midtone as a Bayer-dithered photo. That
-    destroyed facial linework and produced a photocopy/comic texture. This
-    version first sharpens structure, forces detected line edges to ink, keeps
-    highlights clean, and only screentones the remaining midtones.
+    A production manga finish may later add authored screentones selectively.
+    This derivative deliberately keeps grayscale values, sharpened contours and
+    clean highlights so faces and environments are not destroyed by a page-wide
+    Bayer pattern.
     """
     gray = ImageOps.autocontrast(open_image(master).convert("L"), cutoff=1)
-    gray = gray.filter(ImageFilter.UnsharpMask(radius=1.0, percent=170, threshold=3))
-    edges = ImageOps.autocontrast(gray.filter(ImageFilter.FIND_EDGES))
-    width, height = gray.size
-    source = gray.load()
-    edge_map = edges.load()
-    out = Image.new("L", (width, height), 255)
-    target = out.load()
-    assert source is not None and edge_map is not None and target is not None
-
-    for y in range(height):
-        row = _BAYER[y % 4]
-        for x in range(width):
-            value = int(source[x, y])  # type: ignore[arg-type]
-            edge = int(edge_map[x, y])  # type: ignore[arg-type]
-            if value <= ink or (edge >= 92 and value < 242):
-                target[x, y] = 0
-            elif value >= paper:
-                target[x, y] = 255
-            else:
-                # Ordered screentone only in genuine middle values. The bias
-                # keeps skin/light fabric mostly paper-white instead of noisy.
-                level = (value - ink) * 16 // max(1, paper - ink)
-                threshold = row[x % 4]
-                target[x, y] = 255 if level + 2 > threshold else 0
-    return encode_png(out)
+    gray = gray.filter(ImageFilter.UnsharpMask(radius=1.0, percent=150, threshold=3))
+    gray = ImageEnhance.Contrast(gray).enhance(1.18)
+    return encode_png(gray)
 
 
 def tint_finish(master: bytes, seed: int) -> EncodedImage:

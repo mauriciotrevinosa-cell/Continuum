@@ -320,17 +320,18 @@ def _animagine_tags(text: str) -> list[str]:
     return list(dict.fromkeys(tags))
 
 
-def _identity_reference_rank(reference: ArtworkReference) -> tuple[int, str]:
+def _identity_reference_rank(reference: ArtworkReference) -> int:
+    """Prioritize identity evidence while preserving source order within a tier."""
     provenance = reference.provenance or {}
     facets = {str(value).upper() for value in provenance.get("facets") or []}
     evidence_role = str(provenance.get("production_evidence_role") or "").upper()
     if evidence_role in {"IDENTITY", "FACE", "HAIR"} or facets & {"FACE", "HAIR", "IDENTITY"}:
-        return (0, reference.reference_id)
+        return 0
     if evidence_role == "BODY" or "BODY" in facets:
-        return (1, reference.reference_id)
+        return 1
     if facets & {"EXPRESSION", "POSE"}:
-        return (2, reference.reference_id)
-    return (3, reference.reference_id)
+        return 2
+    return 3
 
 
 def _select_identity_references(

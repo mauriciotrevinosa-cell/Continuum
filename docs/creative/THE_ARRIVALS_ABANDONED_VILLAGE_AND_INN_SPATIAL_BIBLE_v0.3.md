@@ -200,24 +200,145 @@ Buildings must not form a decorative circle or evenly spaced ring. Partial visua
 
 ---
 
-## 7. Original five houses
+## 7. Original five houses — creator-approved worker quarters
 
-The five houses are finite structures, not generic background copies.
+The five small structures around the inn are primarily former **staff quarters / worker cottages** tied to the inn and its service economy, not five full family houses.
 
-Current spatial state:
-- House 1: damaged, at least partly repairable.
-- House 2: damaged, useful salvage potential.
-- House 3: roof substantially / partly collapsed.
-- House 4: heavily damaged.
-- House 5: partially collapsed.
+This explains why the inn is comparatively large despite the settlement's tiny scale: the site functioned as a small stopping point on an older mercantile route, with workers living nearby while much of their cooking, bathing, storage, and social life centered on the inn.
 
-Their exact construction histories and later reuse are intentionally left open for the next pass.
+The cottages should read as simple rural studio-like dwellings using the same local timber/stone construction language as the inn.
 
-At least some houses should visibly shrink/disappear as usable materials are reclaimed for the inn and later additions.
+### House 1 — better-preserved staff studio
+- approximate area: **28–32 m²**;
+- likely suited to one worker, a couple, or a supervisor;
+- one main living/sleeping room with simple table, bed, small stove/hearth, storage;
+- damaged but meaningfully repairable.
+
+### House 2 — austere two-worker quarter
+- approximate area: **24–28 m²**;
+- simple sleeping/living arrangement, potentially two beds;
+- little or no substantial kitchen because residents could eat/work at the inn;
+- useful salvage but structurally more intact than the worst cottages.
+
+### House 3 — service-worker studio
+- approximate area: **20–24 m²**;
+- likely tied to maintenance, hauling, stable/logistics, or another practical inn function;
+- roof partly/substantially collapsed;
+- mixed repair/salvage value.
+
+### House 4 — salvage-dominant ruin
+- approximate area: **18–22 m²**;
+- heavily damaged;
+- primarily useful for boards, stone, hardware, frames, doors, and other salvage;
+- may visibly shrink/disappear during S1 as the inn is repaired.
+
+### House 5 — recoverable cottage / future-quarter candidate
+- approximate area: **25–30 m²**;
+- partially damaged but recoverable;
+- strongest candidate among the original cottages to become an early independent private quarter outside the inn.
+
+The later S2 residential-quarter idea should evolve naturally from this inherited spatial language rather than introducing modern apartment blocks. The cast does not invent the concept of small residences around the inn from nothing; they restore and extend an arrangement that already existed on the site.
+
+At least some cottages should visibly shrink/disappear as usable materials are reclaimed for the inn and later additions.
 
 ---
 
-## 8. Cultivation and well
+## 8. Inn exterior identity — creator-approved
+
+The inn must have a repeatable silhouette recognizable across camera angles and repair states.
+
+### 8.1 Primary silhouette
+
+- long rectangular two-storey body, **22 m × 13 m**;
+- long axis runs approximately north–south;
+- primary facade faces east / southeast toward the entering lane;
+- simple steep gable roof, approximately **42°**, ridge running along the long axis;
+- second floor projects approximately **0.7–0.8 m** over part of the main facade;
+- long covered porch beneath that projection;
+- one substantial off-center stone chimney acts as a permanent landmark;
+- avoid towers, decorative fantasy-hotel massing, or excessive roof complexity.
+
+The silhouette should still be recognizable as:
+
+> long body + slightly projecting upper floor + steep roof + heavy off-center chimney + long porch.
+
+### 8.2 Main east facade
+
+- covered porch: **~11 × 2.4 m**;
+- main door: approximately **1.4 m wide**, heavy timber with visible hardware;
+- roughly 2–3 ground-floor windows;
+- roughly 5 upper-floor windows;
+- openings follow interior room logic and are **not** perfectly symmetrical;
+- substantial solid wall sections remain between openings.
+
+### 8.3 Chimney / hearth anchor
+
+- chimney belongs to the northwestern quadrant of the inn and connects to the common-room hearth;
+- approximate base: **1.3 × 1.0 m**;
+- rises through the building and terminates roughly **1.2–1.5 m above the local roofline**;
+- it must not migrate between walls or roof positions from render to render;
+- CAL-01 abandoned state has **no smoke**.
+
+### 8.4 West / service facade
+
+- rear/service door: approximately **1.0–1.1 m wide**;
+- direct relation to kitchen/service circulation, well, cultivation, salvage area, and lake-path side;
+- roughly 2 useful kitchen windows plus a smaller service/wash opening;
+- visually more utilitarian than the front facade;
+- later-lived states may accumulate firewood, buckets, barrels, tools, temporary work surfaces, and repaired materials here.
+
+### 8.5 Frieren terrace
+
+- approximate size: **5 × 1.8 m**;
+- simple timber construction and railing, not ornate;
+- attached to / directly serving Frieren's large upper room;
+- positioned toward the morning-light side, with an oblique view across part of the settlement;
+- the lake remains a separate destination and should not appear immediately below the terrace.
+
+### 8.6 Window continuity
+
+Typical window size:
+- approximately **0.85–1.0 m wide × 1.2–1.4 m high**.
+
+Facade opening patterns are stable production anchors:
+
+| Facade | Base opening logic |
+|---|---|
+| East / main | main entrance + 2–3 ground-floor windows + ~5 upper windows |
+| West / service | service door + ~3 ground-floor openings + ~4–5 upper windows |
+| North gable | 1–2 useful windows; chimney nearby |
+| South gable | ~2 ground-floor + 1–2 upper/terrace-related openings |
+
+Windows may progress visually from broken → boarded → salvaged/repaired glazing → curtains/personalization, but they do not randomly appear or disappear.
+
+### 8.7 Initial E2 structural damage
+
+The abandoned inn is damaged but plausibly repairable.
+
+Required damage language:
+- missing shingles on part of the west roof slope;
+- one visibly sagging/damaged porch section;
+- 2–3 fully broken windows;
+- water staining beneath an eave;
+- localized missing plaster/infill exposing timber framing;
+- damaged porch/floor board;
+- fallen or missing gutter/drainage section;
+- vegetation pressing against foundation and lower walls;
+- at least one damaged service/interior door.
+
+The principal load-bearing structure remains straight and credible. The building should never read as a near-collapse dungeon ruin.
+
+### 8.8 Persistent repair scar
+
+The south end of the roof carries one recognizable old damage / repair scar: a slight irregularity in the eave/roof line that is later structurally repaired but never made visually identical to untouched original construction.
+
+This scar becomes a continuity landmark across the life of the first home.
+
+The building should be able to become warmer, safer, and more personalized without ever losing the physical evidence that the household rebuilt it.
+
+---
+
+## 9. Cultivation and well
 
 ### Well
 - ~15 m from inn center on service side.
@@ -232,7 +353,7 @@ At least some houses should visibly shrink/disappear as usable materials are rec
 
 ---
 
-## 9. Lake route
+## 10. Lake route
 
 The lake should not sit directly beside the inn.
 
@@ -254,7 +375,7 @@ At the lake edge:
 
 ---
 
-## 10. Former mercantile route
+## 11. Former mercantile route
 
 Historical road width:
 - approximately **3.5–4 m**, compatible with carts.
@@ -268,7 +389,7 @@ Its gradual recovery is part of the settlement's visual progression.
 
 ---
 
-## 11. S1 growth phases
+## 12. S1 growth phases
 
 ### E2 — RUIN
 - inn damaged;
@@ -300,7 +421,7 @@ Its gradual recovery is part of the settlement's visual progression.
 
 ---
 
-## 12. S2 / G3 growth direction
+## 13. S2 / G3 growth direction
 
 The inn remains the common social heart rather than expanding indefinitely into one giant building.
 
@@ -333,7 +454,7 @@ The inn continues to host:
 
 ---
 
-## 13. Fortified late-S2 home
+## 14. Fortified late-S2 home
 
 Possible fortified footprint around the matured first settlement:
 
@@ -350,7 +471,7 @@ The later city may occupy tens or hundreds of hectares and should feel like a ge
 
 ---
 
-## 14. Emotional progression of place
+## 15. Emotional progression of place
 
 The first settlement should physically track the story:
 
@@ -382,7 +503,7 @@ The more functional and personal the settlement becomes, the more emotionally ex
 
 ---
 
-## 15. CAL-01 production implications
+## 16. CAL-01 production implications
 
 CAL-01 must now treat the settlement as a measurable place.
 
@@ -402,15 +523,15 @@ A visually attractive image that changes these anchors is not a successful spati
 
 ---
 
-## 16. Next spatial pass
+## 17. Next spatial pass
 
 Next creator pass should define:
-1. which original houses are structurally recoverable versus salvage-only;
-2. which, if any, becomes the first private quarter outside the inn;
-3. exact ground-floor measured plan;
-4. exact upper-floor door/window ordering;
-5. exact bathhouse and terrace footprints;
-6. later G3 residential cluster locations;
-7. path widths and courtyard/service surfaces;
+1. immediate ground surfaces and circulation in the first 10–20 m around the inn;
+2. exact path widths, hard/soft surfaces, mud/stone/grass transitions, wood/supply areas, and daily walking routes;
+3. clean measured production map for CAL-01;
+4. exact ground-floor measured plan;
+5. exact upper-floor door/window ordering;
+6. exact later bathhouse and outdoor-eating terrace footprints;
+7. later G3 residential cluster locations;
 8. eventual late-S2 fortified perimeter gates and watch positions.
 

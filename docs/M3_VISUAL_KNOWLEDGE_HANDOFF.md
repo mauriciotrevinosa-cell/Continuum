@@ -37,7 +37,24 @@
   leftover `demo-project` production runs/artifacts remain (harmless, other project key) — ask the
   creator before any cleanup.
 
-## Not done / next tasks (in order)
+## W01 / CAL-01 findings (2026-09-19) and fixes
+
+Run `01a0bb60-ee83-758f-915c-e7ac9d251254`, page `01a0bb60-ee9d-75a8-88df-83e85476545c`, attempt
+`01a0bb61-3c76-7588-afb7-5d1a8eea0344` (seed 17012026). No GPU pixels were generated.
+
+* The job is BLOCKED because the configured `comfy.remote` tunnel no longer resolves.
+* Coarse remote policy (fixed `5675e80`, `14c318e`): one source page in the pack refused the whole
+  remote stage. The rule is now per reference (`policy.transmission_refusal`): source excerpts are
+  withheld (bytes never read or uploaded), recorded with a reason, and the safe references are used.
+* Environment references did not condition (fixed `5675e80`): stages now have a scene lane
+  (`stages.scene_references`, Comfy IP-Adapter weight type composition / style and composition /
+  style transfer) apart from the per-character identity lanes.
+* Applied to the recorded W01 inputs, the new policy gives: send the approved inn image
+  `01a0bb5f-8de8-77b6-a7c3-6b21aab59eda` (scene lane, COMPOSITION, weight 0.8); withhold the three
+  SOURCE pages.
+* To rerun: point `CONTINUUM_COMFY_REMOTE_URL` at a live GPU session, restart API and worker, then
+  press Retry on the blocked stage. That re-queues the same attempt.
+
 
 1. **Comfy stage provider - built, GPU-unvalidated.** `ComfyPageProvider.render_stage`: COMPOSITION
    is the bounded text-to-image panel graph; later stages start from the frozen upstream as the

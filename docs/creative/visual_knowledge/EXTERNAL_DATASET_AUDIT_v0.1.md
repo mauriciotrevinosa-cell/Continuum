@@ -94,18 +94,22 @@ Why it matters:
 - specifically targets customized B&W manga generation;
 - supports character-conditioned manga panels;
 - includes masked/region-aware control ideas;
-- paper reports 43,264 manga pages / 427,147 annotated panels in the full training corpus;
-- released MangaZero annotations currently expose tens of thousands of rows;
-- DiffSensei code/model and MangaZero annotation card are marked MIT.
+- released MangaZero annotations expose tens of thousands of structured rows;
+- the repository includes reference training code for text-to-image, condition training and MLLM training.
+
+License correction from web verification:
+- the **MangaZero annotation card** is marked MIT;
+- the DiffSensei GitHub repository currently has an open issue explicitly asking for a LICENSE file because the repository license is otherwise unclear;
+- therefore do **not** describe DiffSensei code/model as MIT unless a specific released artifact carries that license.
 
 Critical rights caveat:
 - the authors explicitly do **not** redistribute manga images because of license issues;
-- annotations contain MangaDex URLs and the download script fetches images from there;
-- MIT on annotation/code does not automatically grant training rights to every linked manga image.
+- annotations contain MangaDex URLs and the downloader fetches images from there;
+- the MIT license on the annotation package does **not** grant rights to the linked manga images.
 
 Recommended:
 - inspect architecture and annotation format immediately;
-- consider DiffSensei as a renderer/provider experiment later;
+- consider DiffSensei as a renderer/provider experiment only after artifact-specific license review;
 - use annotations as structural research where permitted;
 - do **not** mark downloaded MangaDex images training-approved automatically.
 
@@ -131,6 +135,22 @@ Recommended:
 - do not block our panel-first architecture waiting for its code.
 
 ## Priority B — preprocessing / control / validators
+
+### MangaSegmentation / MangaSeg
+
+Official:
+- https://huggingface.co/datasets/MS92/MangaSegmentation
+
+Why it matters:
+- instance-segmentation annotations for manga elements;
+- current dataset card states academic **and commercial** usage is permitted provided the required image credit is included in publications/reproductions/redistributions/derivatives;
+- useful for panel/character/speech-bubble masks and layered edit protection.
+
+Recommended:
+- strong candidate for mask-oriented tooling;
+- keep the required credit and source terms attached to every derived model/benchmark that uses it;
+- evaluate alongside Manga109-s object-detection annotations rather than assuming one replaces the other.
+
 
 ### MAGI / The Manga Whisperer
 
@@ -310,3 +330,24 @@ Before any external dataset is materialized:
 7. remote-provider exposure is separately controlled.
 
 This avoids spending hours ingesting a dataset we later discover cannot be used for the intended production path.
+
+
+## Web verification note — 2026-09-19
+
+This audit was re-checked against current official/project pages before handoff.
+
+Verified:
+- Manga109-s v2026 is gated, 3.3 GB on Hugging Face, contains 87 books, explicitly allows ML/image-processing experiments and commercial use of experiment results under its listed conditions; redistribution of the dataset is forbidden.
+- Manga109 public annotation subsets list CC BY 4.0 licenses.
+- Manga109 panel-order-estimator is an MIT-licensed code baseline and requires panel boxes from another detector.
+- MangaZero annotation card is MIT, but DiffSensei's repository-level license is currently unclear; linked MangaDex image rights are separate.
+- MAGI states its provided models/datasets are for academic research only.
+- Anime2Sketch repository is MIT.
+- Human-Art is available for non-commercial use.
+- COCO-WholeBody is research/non-commercial unless commercial permission is obtained.
+- FreiHAND prohibits commercial use.
+- eBDtheque is scientific/non-commercial unless separately approved.
+- AMP-D lists LGPL-3.0 on Kaggle.
+- MangaSegmentation currently states academic and commercial use is allowed with its required image credit.
+
+The registry remains conservative: a permissive model/code license never upgrades unrelated source-image rights.

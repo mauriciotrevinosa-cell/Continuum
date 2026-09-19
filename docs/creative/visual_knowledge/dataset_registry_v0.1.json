@@ -65,7 +65,7 @@
       "id": "diffsensei",
       "priority": "A",
       "kind": "model_and_code",
-      "status": "research_candidate",
+      "status": "research_candidate_license_review",
       "urls": [
         "https://github.com/jianzongwu/DiffSensei",
         "https://jianzongwu.github.io/projects/diffsensei/",
@@ -78,7 +78,7 @@
         "panel_renderer_candidate"
       ],
       "access": "public",
-      "license_summary": "Repository/model card marked MIT; third-party checkpoints/dependencies retain own terms.",
+      "license_summary": "Repository-level license is currently unclear; an open GitHub issue requests a LICENSE file. Review each released artifact/dependency separately before adoption.",
       "bytes_in_git": false,
       "training_default": "not_dataset"
     },
@@ -343,6 +343,26 @@
       "license_summary": "Model card requires review of MangaSeg, Manga109-s and Ultralytics terms; not yet production-approved.",
       "bytes_in_git": false,
       "training_default": "not_training_data"
+    },
+    {
+      "id": "mangasegmentation",
+      "priority": "B",
+      "kind": "segmentation_dataset",
+      "status": "evaluate_for_masks",
+      "urls": [
+        "https://huggingface.co/datasets/MS92/MangaSegmentation"
+      ],
+      "scope": [
+        "character_masks",
+        "panel_masks",
+        "speech_bubble_masks",
+        "layer_protection",
+        "validators"
+      ],
+      "access": "public_dataset_card",
+      "license_summary": "Dataset card states academic and commercial usage is permitted with required image credit; retain citation/credit and review exact redistribution obligations before shipping artifacts.",
+      "bytes_in_git": false,
+      "training_default": "candidate_with_attribution_review"
     }
   ]
 }

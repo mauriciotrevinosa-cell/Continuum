@@ -66,11 +66,10 @@ def _fixture_reason(session: Session, row: CharacterProfile) -> str | None:
     if row.source_label == "Invented Almanac" and name in _INVENTED_SOURCE_NAMES:
         return "acceptance source label 'Invented Almanac'"
 
-    if (
-        name in _DEMO_PROJECT_NAMES
-        and row.project_key == "demo-project"
-        and origin == "PROJECT_ORIGINAL"
+    if row.project_key == "demo-project" and (
+        name in _DEMO_PROJECT_NAMES or origin == "PROJECT_ORIGINAL"
     ):
+        # demo-project is the acceptance world's project key; no real project uses it.
         return "acceptance project 'demo-project'"
 
     if (

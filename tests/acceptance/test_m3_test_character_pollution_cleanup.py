@@ -65,6 +65,10 @@ def test_fixture_pollution_retires_without_moving_linked_rows(db_session: Sessio
         kind=OutfitKind.PROJECT,
         project_key="the-arrivals",
     )
+    # Any project-original profile in the acceptance world's project is a fixture.
+    demo_frieren = catalog.create_character(
+        "Frieren", origin=CharacterOrigin.PROJECT_ORIGINAL, project_key="demo-project"
+    )
     db_session.flush()
 
     candidates, unresolved = _pollution_plan(db_session)
@@ -73,6 +77,7 @@ def test_fixture_pollution_retires_without_moving_linked_rows(db_session: Sessio
     assert {candidate.profile.id for candidate in candidates} == {
         polluted_frieren.id,
         polluted_mau.id,
+        demo_frieren.id,
     }
 
     _apply_retirement(db_session, candidates)

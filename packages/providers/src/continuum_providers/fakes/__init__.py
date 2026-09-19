@@ -293,3 +293,76 @@ class DeterministicPageProvider:
                 "master_sha256": rendered.sha256,
             },
         )
+
+
+class DeterministicStageProvider:
+    """The test backend for layered construction: stage diagrams, never artwork.
+
+    The first stage draws a blocking diagram of the panel contract; every later
+    stage is a geometry-preserving transform of the frozen upstream it was given,
+    so freezing, building on and invalidating stages is exercised without a model.
+    """
+
+    WORKFLOW = "test.panel-stage.v1"
+
+    def __init__(self) -> None:
+        from continuum_core.knowledge import STAGE_ORDER
+        from continuum_core.references import RenderOutput
+
+        from continuum_providers.artwork import ArtworkBackendKind
+        from continuum_providers.stages import StageCapabilities
+
+        self.backend = ArtworkBackendKind.TEST
+        self.stage_capabilities = StageCapabilities(
+            output=RenderOutput.TEST_RENDER,
+            stages=frozenset(stage.value for stage in STAGE_ORDER),
+            preserves_upstream=True,
+            seeded=True,
+            max_edge=2400,
+            notes="Deterministic stage diagrams for workflow tests. Never artwork.",
+        )
+
+    descriptor = ProviderDescriptor(
+        id="fake.deterministic-stage",
+        capabilities=frozenset({Capability.PANEL_STAGE_RENDER}),
+        locality=Locality.LOCAL,
+        cost_class=CostClass.FREE,
+        privacy_class=PrivacyClass.ON_DEVICE,
+        model_ref=None,
+        version="1",
+        license_note="Fake provider. Draws stage diagrams with Pillow; no model weights.",
+    )
+
+    def render_stage(self, request):  # type: ignore[no-untyped-def]
+        from continuum_core.references import RenderOutput
+        from continuum_imaging.stages import stage_diagram
+
+        from continuum_providers.artwork import RenderedImage
+        from continuum_providers.stages import PanelStageResult
+
+        contract = request.contract
+        lines = [
+            *[str(item) for item in contract.get("required") or []],
+            str(contract.get("beat") or ""),
+        ]
+        image = stage_diagram(
+            request.stage,
+            width=request.width,
+            height=request.height,
+            seed=request.seed,
+            upstream=request.upstream,
+            lines=[line[:40] for line in lines if line],
+        )
+        return PanelStageResult(
+            backend=self.backend,
+            provider_id=self.descriptor.id,
+            output=RenderOutput.TEST_RENDER,
+            image=RenderedImage(image.data, image.mime, image.width, image.height),
+            provenance={
+                "backend": self.backend.value,
+                "workflow": {"id": self.WORKFLOW, "version": "1"},
+                "settings": {"stage": request.stage, "seed": request.seed},
+                "seed": request.seed,
+                "references_seen": [r.reference_id for r in request.references],
+            },
+        )

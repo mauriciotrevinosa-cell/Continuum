@@ -103,6 +103,7 @@ def build_default_registry(
         DeterministicEmbeddingProvider,
         DeterministicPageProvider,
         DeterministicSketchProvider,
+        DeterministicStageProvider,
         EchoTextProvider,
         NullImageProvider,
     )
@@ -113,6 +114,7 @@ def build_default_registry(
     registry.register(NullImageProvider())
     registry.register(DeterministicSketchProvider())
     registry.register(DeterministicPageProvider())
+    registry.register(DeterministicStageProvider())
     if settings is not None:
         from continuum_providers.comfy import configured_providers
 

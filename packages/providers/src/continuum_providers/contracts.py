@@ -62,6 +62,9 @@ class Capability(StrEnum):
     finishes, from a materialized page and its reference bundle (M3)."""
     CHARACTER_MODEL_RENDER = "CHARACTER_MODEL_RENDER"
     """A standardized reference-grounded character model sheet candidate."""
+    PANEL_STAGE_RENDER = "PANEL_STAGE_RENDER"
+    """One construction stage of one panel, built on the frozen previous stage
+    (layered construction, M3)."""
 
 
 class Locality(StrEnum):

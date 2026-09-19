@@ -231,9 +231,7 @@ def main(argv: list[str]) -> int:
 
     checkpoint = comfy / "models" / "checkpoints" / args.checkpoint_name
     download(args.checkpoint_url, checkpoint)
-    checkpoint_sha = verify_sha256(
-        checkpoint, preset.get("checkpoint_sha256", ""), "checkpoint"
-    )
+    checkpoint_sha = verify_sha256(checkpoint, preset.get("checkpoint_sha256", ""), "checkpoint")
 
     if args.ipadapter_model_url:
         ip_path = comfy / "models" / "ipadapter" / args.ipadapter_model_name

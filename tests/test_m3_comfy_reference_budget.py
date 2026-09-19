@@ -103,15 +103,7 @@ def test_real_calibration_validation_becomes_render_direction_and_failure_constr
         "0.1",
         "a" * 64,
         pages,
-        tuple(
-            sorted(
-                {
-                    character
-                    for page in pages
-                    for character in page.characters
-                }
-            )
-        ),
+        tuple(sorted({character for page in pages for character in page.characters})),
     )
     cal01 = body["pages"][0]
     assert any("roughly five small abandoned houses" in item for item in cal01["directions"])
@@ -129,7 +121,6 @@ def test_real_calibration_validation_becomes_render_direction_and_failure_constr
     assert any("Yuta or Okarun carries the wrong person" in item for item in cal17["constraints"])
 
 
-
 def test_explicit_panel_construction_isolated_by_character() -> None:
     page = {
         "origin": "calibration",
@@ -138,8 +129,7 @@ def test_explicit_panel_construction_isolated_by_character() -> None:
             "Creature enters from the right.",
             "PAGE CONSTRUCTION: Panel 1 [CAST: Yuta]: "
             "Yuta reacts first while Mau has not completed his turn.",
-            "PAGE CONSTRUCTION: Panel 2 [CAST: Mau]: "
-            "Mau turns too late after the impact.",
+            "PAGE CONSTRUCTION: Panel 2 [CAST: Mau]: Mau turns too late after the impact.",
             "MUST SHOW: readable timing difference.",
         ],
         "dialogue": [],
@@ -218,7 +208,6 @@ def test_panel_prompt_forbids_model_lettering_and_scopes_identity() -> None:
     assert "speech bubble" in negative
     assert "multiple panels" in negative
     assert "Mau attacks first" in negative
-
 
 
 def test_story_page_directions_become_authored_panel_beats() -> None:

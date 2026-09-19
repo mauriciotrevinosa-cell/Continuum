@@ -82,7 +82,15 @@ def main(argv: list[str]) -> int:
         print(f"created {env} from .env.example")
 
     changes: dict[str, str] = {}
-    for field in ("local_url", "remote_url", "checkpoint", "version", "sha256", "license", "source"):
+    for field in (
+        "local_url",
+        "remote_url",
+        "checkpoint",
+        "version",
+        "sha256",
+        "license",
+        "source",
+    ):
         value = getattr(args, field)
         if value is not None:
             changes[KEYS[field]] = value.strip()

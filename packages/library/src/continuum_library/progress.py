@@ -22,7 +22,7 @@ from __future__ import annotations
 
 import datetime as dt
 import uuid
-from typing import Any
+from typing import Any, cast
 
 from continuum_core import uuid7
 from continuum_core.catalog import EntryStatus, MemberKind, ProgressMedium, UnitKind
@@ -34,7 +34,7 @@ from continuum_db.models import (
     MediaProgressDismissal,
 )
 from continuum_storage import MediaLibrary, MediaUnavailableError
-from sqlalchemy import delete, select
+from sqlalchemy import CursorResult, delete, select
 from sqlalchemy.dialects.postgresql import insert
 from sqlalchemy.orm import Session
 
@@ -366,7 +366,7 @@ def reset_continue_group(
         where.append(MediaProgress.series_key == row.series_key)
     else:
         where.append(MediaProgress.unit_key == row.unit_key)
-    deleted = session.execute(delete(MediaProgress).where(*where))
+    deleted = cast("CursorResult[Any]", session.execute(delete(MediaProgress).where(*where)))
     session.execute(
         delete(MediaProgressDismissal).where(
             MediaProgressDismissal.profile_key == PROFILE,

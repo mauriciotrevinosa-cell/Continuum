@@ -161,15 +161,9 @@ def main(argv: list[str]) -> int:
                     skipped += 1
                     continue
                 standing = rule.get("standing")
-                origin = ReferenceOrigin(
-                    _setting(rule, spec, "reference_origin", "USER_CREATED")
-                )
-                reference_class = ReferenceClass(
-                    _setting(rule, spec, "reference_class", "CANON")
-                )
-                uses = tuple(
-                    ReferenceUse(use) for use in _setting(rule, spec, "uses", [])
-                )
+                origin = ReferenceOrigin(_setting(rule, spec, "reference_origin", "USER_CREATED"))
+                reference_class = ReferenceClass(_setting(rule, spec, "reference_class", "CANON"))
+                uses = tuple(ReferenceUse(use) for use in _setting(rule, spec, "uses", []))
                 item = catalog.add_upload(
                     data,
                     ReferenceSpec(

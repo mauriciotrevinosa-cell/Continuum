@@ -64,7 +64,11 @@ bypass-selection = true
 [tool.ruff]
 line-length = 100
 target-version = "py312"
-extend-exclude = ["packages/db/src/continuum_db/migrations/versions"]
+extend-exclude = [
+    "packages/db/src/continuum_db/migrations/versions",
+    # Vendored upstream code (a git submodule): never linted or reformatted here.
+    "tools/AIComicBuilder-upstream",
+]
 
 [tool.ruff.lint]
 select = ["E", "F", "W", "I", "N", "UP", "B", "A", "C4", "PTH", "RUF", "S", "T20"]

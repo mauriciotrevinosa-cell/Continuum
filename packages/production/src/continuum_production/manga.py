@@ -432,9 +432,7 @@ class MangaProduction:
         """
         found = self.projects.document(project_key, document_id)
         if found is None:
-            raise CatalogNotFoundError(
-                f"The calibration document {document_id} is not available."
-            )
+            raise CatalogNotFoundError(f"The calibration document {document_id} is not available.")
         _project, document, text = found
         return self.start_calibration(
             project_key,
@@ -696,12 +694,8 @@ class MangaProduction:
                     page_hash=page["page_hash"],
                     artifact_id=artifact.id,
                     # A chapter preview renders every page for QA; nothing waits.
-                    # A calibration chapter is a sampler: every page is READY.
-                    state=(
-                        "READY"
-                        if sequence == 1 or preview or purpose is RoughPurpose.CALIBRATION
-                        else "WAITING"
-                    ),
+                    # (Calibration chapters start in start_calibration, all READY.)
+                    state="READY" if sequence == 1 or preview else "WAITING",
                     reasons=[],
                 )
                 self.session.add(row)

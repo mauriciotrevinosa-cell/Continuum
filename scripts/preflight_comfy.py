@@ -150,8 +150,7 @@ def main(argv: list[str] | None = None) -> int:
                 smoke_results[provider_id] = {
                     "ok": False,
                     "error": (
-                        "structural production preflight failed; "
-                        "smoke render was not attempted"
+                        "structural production preflight failed; smoke render was not attempted"
                     ),
                 }
                 continue
@@ -189,10 +188,7 @@ def main(argv: list[str] | None = None) -> int:
                     print(f"    master: {master_size} · {master_sha}")
                     print(
                         "    identity refs sent: "
-                        + ", ".join(
-                            str(v)
-                            for v in result.get("identity_references_sent") or []
-                        )
+                        + ", ".join(str(v) for v in result.get("identity_references_sent") or [])
                     )
                 elif result.get("error"):
                     print(f"    error: {result['error']}")

@@ -82,9 +82,7 @@ def test_hide_preserves_progress_and_new_activity_unhides(
     item = _reading_item(client)
     assert item is not None
 
-    hidden = client.post(
-        "/catalog/progress/hide", json={"unit_key": progress["unit_key"]}
-    )
+    hidden = client.post("/catalog/progress/hide", json={"unit_key": progress["unit_key"]})
     assert hidden.status_code == 200
     assert hidden.json()["progress_preserved"] is True
     assert _reading_item(client) is None
@@ -108,9 +106,7 @@ def test_havent_read_forgets_series_reading_progress_only(
     ).json()
     assert _reading_item(client) is not None
 
-    reset = client.post(
-        "/catalog/progress/reset", json={"unit_key": progress["unit_key"]}
-    )
+    reset = client.post("/catalog/progress/reset", json={"unit_key": progress["unit_key"]})
     assert reset.status_code == 200
     assert reset.json()["reset"] is True
     assert reset.json()["rows_removed"] >= 1

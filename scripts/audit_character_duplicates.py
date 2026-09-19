@@ -138,9 +138,7 @@ def main(argv: list[str]) -> int:
             for row in group:
                 links = blocked.get(row.id)
                 if links:
-                    summary = ", ".join(
-                        f"{key}={value}" for key, value in sorted(links.items())
-                    )
+                    summary = ", ".join(f"{key}={value}" for key, value in sorted(links.items()))
                     print(
                         f"  BLOCK  {row.display_name}: {row.id} ({row.source_label}) "
                         f"has linked data: {summary}"
@@ -149,8 +147,7 @@ def main(argv: list[str]) -> int:
         if not planned:
             if blocked:
                 print(
-                    "No linked profile is safe to retire automatically; "
-                    "merge/review it manually."
+                    "No linked profile is safe to retire automatically; merge/review it manually."
                 )
             else:
                 print("Nothing qualifies for safe retirement.")

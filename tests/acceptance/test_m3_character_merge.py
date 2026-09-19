@@ -33,9 +33,7 @@ def test_merge_moves_links_then_soft_retires_source(db_session: Session) -> None
     checked_target, sources = _validate_profiles(db_session, target.id, [source.id])
     moves = _merge_plan(db_session, checked_target.id, [source.id])
 
-    assert [(move.key, move.count) for move in moves] == [
-        ("character_outfit.character_id", 1)
-    ]
+    assert [(move.key, move.count) for move in moves] == [("character_outfit.character_id", 1)]
     assert _constraint_probe(db_session, target.id, moves) is None
 
     _apply_merge(db_session, target.id, sources, moves)

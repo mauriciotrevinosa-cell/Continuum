@@ -30,6 +30,7 @@ __all__ = [
     "tint_finish",
 ]
 
+
 def bw_finish(master: bytes) -> EncodedImage:
     """Preserve drawing structure as clean monochrome without global dot dithering.
 

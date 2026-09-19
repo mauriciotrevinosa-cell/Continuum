@@ -217,9 +217,7 @@ def parse_calibration(text: str) -> list[CalibrationPage]:
         elif bullet and current_field == "characters":
             current["characters"].extend(_characters(bullet.group("text")))
         elif bullet and current_field is not None:
-            _append_extra_bullet(
-                current["extra"], current_field, bullet.group("text").strip()
-            )
+            _append_extra_bullet(current["extra"], current_field, bullet.group("text").strip())
     flush()
     return pages
 

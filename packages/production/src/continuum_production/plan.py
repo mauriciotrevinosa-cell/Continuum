@@ -122,8 +122,7 @@ def _render_panels(
         # one bounded render rather than inventing a panel breakdown.
         if page.get("origin") != "calibration" and 1 <= len(authored) <= 8:
             beats = [
-                (number, direction, None)
-                for number, direction in enumerate(authored, start=1)
+                (number, direction, None) for number, direction in enumerate(authored, start=1)
             ]
         else:
             source = authored[0] if authored else str(page.get("label") or "page composition")
@@ -210,10 +209,10 @@ def page_plan(
     mapped: list[str] = []
     unmapped: list[str] = []
     for speaker in speakers:
-        name = by_token.get(speaker.strip().lower()) or by_token.get(
+        match = by_token.get(speaker.strip().lower()) or by_token.get(
             speaker.strip().split()[0].lower()
         )
-        (mapped if name else unmapped).append(name or speaker)
+        (mapped if match else unmapped).append(match or speaker)
     script = declared if calibration else [c for c in declared if c in known]
     present = list(dict.fromkeys([*script, *mapped]))
     removed = [c for c in override.get("remove") or [] if c in present]
@@ -228,12 +227,9 @@ def page_plan(
     if primary is None and present:
         primary = max(present, key=lambda n: (weight[n], -present.index(n)))
     uncertain = [f"speaker {s!r} is not a known character" for s in dict.fromkeys(unmapped)]
-    environment_only = (
-        not declared
-        and any(
-            token in directions.lower()
-            for token in ("environment only", "no people", "no humans", "empty scene")
-        )
+    environment_only = not declared and any(
+        token in directions.lower()
+        for token in ("environment only", "no people", "no humans", "empty scene")
     )
     if not present and (speakers or directions) and not environment_only:
         uncertain.append("no known character is named on this page")

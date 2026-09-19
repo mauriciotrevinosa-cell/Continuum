@@ -138,8 +138,7 @@ def main(argv: list[str]) -> int:
 
             print(
                 f"MISSING   {name:12} kind={desired_kind.value}  source={source_label!r}  "
-                f"held_units={held_units}"
-                + ("  -> create" if args.apply else "")
+                f"held_units={held_units}" + ("  -> create" if args.apply else "")
             )
             if not args.apply:
                 continue

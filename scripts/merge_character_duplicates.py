@@ -83,9 +83,7 @@ def _validate_profiles(
     return target, sources
 
 
-def _merge_plan(
-    session: Session, target_id: uuid.UUID, source_ids: list[uuid.UUID]
-) -> list[Move]:
+def _merge_plan(session: Session, target_id: uuid.UUID, source_ids: list[uuid.UUID]) -> list[Move]:
     """Count every FK row that would move from each source to the target."""
     moves: list[Move] = []
     for table, column in _character_fk_columns():
@@ -225,9 +223,7 @@ def main(argv: list[str]) -> int:
             return 2
 
         _apply_merge(session, target.id, sources, moves)
-        print(
-            f"Applied merge into {target.id}; soft-retired {len(sources)} source profile(s)."
-        )
+        print(f"Applied merge into {target.id}; soft-retired {len(sources)} source profile(s).")
         return 0
 
 

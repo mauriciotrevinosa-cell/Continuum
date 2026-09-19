@@ -26,9 +26,7 @@ def test_manga_preflight_requires_identity_conditioning() -> None:
 def test_manga_preflight_requires_checkpoint_metadata() -> None:
     state = _healthy_state()
     state["model_metadata_missing"] = ["sha256", "license"]
-    assert artwork_production_gaps(state) == [
-        "checkpoint metadata is incomplete: sha256, license"
-    ]
+    assert artwork_production_gaps(state) == ["checkpoint metadata is incomplete: sha256, license"]
 
 
 def test_manga_preflight_reports_core_backend_failure_first() -> None:

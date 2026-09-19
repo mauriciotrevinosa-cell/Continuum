@@ -272,7 +272,6 @@ def _fill(graph: dict[str, Any], values: dict[str, Any]) -> dict[str, Any]:
     return filled
 
 
-
 _ANIMAGINE_TAG_RULES: tuple[tuple[tuple[str, ...], str], ...] = (
     (("wide", "establish"), "wide shot"),
     (("close-up", "close up", "medium-close", "medium close"), "close-up"),
@@ -558,9 +557,7 @@ class ComfyPageProvider:
                 )
             time.sleep(self.config.poll_seconds)
 
-    def _panel_prompts(
-        self, request: PageRenderRequest, panel: dict[str, Any]
-    ) -> tuple[str, str]:
+    def _panel_prompts(self, request: PageRenderRequest, panel: dict[str, Any]) -> tuple[str, str]:
         """Prompt one bounded illustration using Animagine's tag-first vocabulary."""
         page = request.page
         characters = [str(name) for name in panel.get("characters") or []]
@@ -606,15 +603,9 @@ class ComfyPageProvider:
         if shot in shot_tags:
             tags.append(shot_tags[shot])
 
-        semantic_text = " ".join(
-            [direction, *relevant_locks[:3], creator_notes]
-        ).strip()
+        semantic_text = " ".join([direction, *relevant_locks[:3], creator_notes]).strip()
         tags.extend(_animagine_tags(semantic_text))
-        tags.extend(
-            tag.strip()
-            for tag in self.config.style_prompt.split(",")
-            if tag.strip()
-        )
+        tags.extend(tag.strip() for tag in self.config.style_prompt.split(",") if tag.strip())
         tags.extend(("masterpiece", "high score", "great score", "absurdres"))
         positive = ", ".join(dict.fromkeys(tag for tag in tags if tag))[:2400]
 

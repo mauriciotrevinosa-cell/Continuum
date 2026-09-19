@@ -22,7 +22,7 @@ from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageFo
 from continuum_imaging import EncodedImage, encode_png, open_image
 from continuum_imaging.manga import bw_finish
 
-__all__ = ["stage_diagram", "structure_drift"]
+__all__ = ["resize_exact", "stage_diagram", "structure_drift"]
 
 _DRIFT_EDGE = 96
 
@@ -147,3 +147,11 @@ def structure_drift(upstream: bytes, output: bytes) -> float:
     if not total:
         return 0.0
     return round(1.0 - kept.histogram()[255] / total, 4)
+
+
+def resize_exact(data: bytes, width: int, height: int) -> EncodedImage:
+    """The image at exactly ``width`` x ``height`` (a backend's /8 rounding undone)."""
+    image = open_image(data).convert("RGB")
+    if image.size != (width, height):
+        image = image.resize((width, height), Image.Resampling.LANCZOS)
+    return encode_png(image)

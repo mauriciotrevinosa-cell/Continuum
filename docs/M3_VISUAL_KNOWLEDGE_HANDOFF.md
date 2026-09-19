@@ -16,6 +16,7 @@
 | Render paths | `render._render_stage`, `render._compose_page` (same durable job) | Structure drift recorded (advisory). |
 | Routes | `GET /production/pages/{id}/construction`, `POST …/construction/{panel}/{stage}/attempts`, `POST /production/stage-attempts/{id}/review` (FREEZE/REJECT/REGENERATE), `POST /production/pages/{id}/compose` | |
 | UI | `/production/runs/{run}/pages/{page}/construction` (link "Layered construction" on every page screen) | |
+| Comfy stage backend | `ComfyPageProvider.render_stage`, `stage_workflow_manifest` | Init-latent preservation, per-stage denoise; GPU-unvalidated. |
 | Analyzer boundary | `continuum_providers.analysis` (`MangaPageAnalyzer`, `local.gutter-layout`), `rtl_reading_order` | |
 | Persisted page analysis | table `page_analysis` (0018), `continuum_library.analysis.PageAnalyses` | Grammar candidates read stored analyses: API restart page view 1.6 s (was 12–25 s). |
 
@@ -35,12 +36,13 @@
 
 ## Not done / next tasks (in order)
 
-1. **Comfy stage provider** (`ComfyPageProvider.render_stage`): COMPOSITION = the existing bounded
-   panel graph; later stages = img2img from the frozen upstream at a low per-stage denoise, plus a
-   Canny/lineart ControlNet when a control model is configured. Declare `preserves_upstream` honestly
-   (control net vs init-latent only) and keep `check_stage_result` + drift. Needs a GPU session to
-   validate; test first with the fake Comfy transport used in `tests/acceptance/test_m3_comfy_backend.py`.
-   Profile key: `backend.stage_provider_id`.
+1. **Comfy stage provider - built, GPU-unvalidated.** `ComfyPageProvider.render_stage`: COMPOSITION
+   is the bounded text-to-image panel graph; later stages start from the frozen upstream as the
+   initial latent at a per-stage denoise (`STAGE_DENOISE`, 0.22-0.42), forbidden content goes to the
+   negative prompt, candidates never condition identity, remote refuses source excerpts, a VAE /8
+   rounding is restored and anything larger is refused. Proven only against the fake ComfyUI server.
+   Enable per profile with `backend.stage_provider_id = "comfy.remote"` (or `comfy.local`). Next:
+   an optional Canny/lineart ControlNet so structure is held by control, not only the init latent.
 2. **W01 / CAL-01 on a GPU**: build all six stages with the Comfy stage provider, compose in a
    *separate* run or after the creator has reviewed the whole-page artwork; creator verdict per
    benchmark B01 (`MANGA_RENDERER_BENCHMARK_PLAN_v0.1.md`).

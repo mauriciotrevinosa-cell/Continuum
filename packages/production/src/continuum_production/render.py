@@ -31,6 +31,7 @@ from continuum_core.references import (
 from continuum_db.models import (
     AttemptDerivative,
     AttemptInput,
+    CharacterProfile,
     GenerationRecipe,
     LibraryAsset,
     RoughArtifact,
@@ -530,12 +531,20 @@ def _render_stage(
     upstream_row = next((r for r in inputs if r.role is BundleRole.UPSTREAM_STAGE), None)
     upstream = _input_bytes(session, catalog, upstream_row) if upstream_row else None
     upstream_prov = dict(upstream_row.provenance or {}) if upstream_row else {}
+    # A cast member's identity inputs name their character, so a backend conditions
+    # each character on its own evidence (never one blended batch).
+    names: dict[uuid.UUID, str] = {}
+    for row in inputs:
+        if row.character_id is not None and row.character_id not in names:
+            profile = session.get(CharacterProfile, row.character_id)
+            if profile is not None:
+                names[row.character_id] = profile.display_name
     references = tuple(
         ArtworkReference(
             role=row.role.value,
             reference_id=str(row.reference_id) if row.reference_id else row.locator,
             data=_input_bytes(session, catalog, row),
-            character=None,
+            character=names.get(row.character_id) if row.character_id else None,
             teaches=tuple((row.provenance or {}).get("matched_facets") or ()),
             provenance=dict(row.provenance or {}),
         )

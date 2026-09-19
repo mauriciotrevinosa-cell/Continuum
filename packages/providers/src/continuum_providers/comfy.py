@@ -23,7 +23,9 @@ from typing import Any
 from continuum_core import ProviderUnavailableError
 from continuum_core.jobstates import BlockedReason
 from continuum_core.references import RenderOutput
+from continuum_imaging import probe
 from continuum_imaging.manga import bw_finish, compose_manga_page, panel_boxes
+from continuum_imaging.stages import resize_exact
 
 from continuum_providers.artwork import (
     ArtworkBackendKind,
@@ -40,10 +42,13 @@ from continuum_providers.contracts import (
     PrivacyClass,
     ProviderDescriptor,
 )
+from continuum_providers.stages import PanelStageRequest, PanelStageResult, StageCapabilities
 
 __all__ = [
     "CORE_NODES",
     "IDENTITY_NODES",
+    "STAGE_DENOISE",
+    "STAGE_WORKFLOW_ID",
     "WORKFLOW_ID",
     "WORKFLOW_VERSION",
     "ComfyConfig",
@@ -51,6 +56,7 @@ __all__ = [
     "ComfyPageProvider",
     "ComfyStatus",
     "Transport",
+    "stage_workflow_manifest",
     "urllib_transport",
     "workflow_manifest",
 ]
@@ -245,6 +251,45 @@ def _color_graph() -> dict[str, Any]:
             "inputs": {"filename_prefix": "continuum_color", "images": ["8", 0]},
         },
     }
+
+
+#: Layered construction on ComfyUI: every stage after the first starts from the
+#: frozen upstream image as its initial latent, at a low denoise, so the stage adds
+#: its layer without redrawing the structure it was given. No control net yet: the
+#: upstream is held by the init latent only, and drift is measured on every result.
+STAGE_WORKFLOW_ID = "continuum.comfy.panel-stage"
+STAGE_WORKFLOW_VERSION = "1"
+STAGE_DENOISE: dict[str, float] = {
+    "DRAWING": 0.42,
+    "LINE": 0.3,
+    "VALUE_MATERIAL": 0.3,
+    "LIGHT_SHADOW": 0.32,
+    "FX": 0.38,
+    "ENVIRONMENT_INTEGRATION": 0.3,
+    "FINISH": 0.22,
+}
+STAGE_TAGS: dict[str, tuple[str, ...]] = {
+    "COMPOSITION": ("clear composition", "readable silhouettes"),
+    "DRAWING": ("detailed", "clean construction"),
+    "LINE": ("clean lineart", "crisp contours"),
+    "VALUE_MATERIAL": ("clear value masses", "material texture"),
+    "LIGHT_SHADOW": ("dramatic lighting", "cast shadows"),
+    "FX": ("visual effects",),
+    "ENVIRONMENT_INTEGRATION": ("detailed background", "contact shadows"),
+    "FINISH": ("high quality", "clean finish"),
+}
+
+
+def stage_workflow_manifest() -> dict[str, str]:
+    templates = {
+        "first_stage": _master_graph(),
+        "later_stages": _color_graph(),
+        "denoise": STAGE_DENOISE,
+        "tags": {key: list(value) for key, value in STAGE_TAGS.items()},
+        "identity": list(IDENTITY_NODES),
+    }
+    digest = hashlib.sha256(json.dumps(templates, sort_keys=True).encode()).hexdigest()
+    return {"id": STAGE_WORKFLOW_ID, "version": STAGE_WORKFLOW_VERSION, "sha256": digest}
 
 
 def workflow_manifest() -> dict[str, str]:
@@ -879,6 +924,171 @@ class ComfyPageProvider:
                 ],
                 "bw_finish": "line-preserving continuum_imaging.manga.bw_finish",
                 "color_finish": "deterministic panel composite; no whole-page re-diffusion",
+            },
+        )
+
+    # -- layered construction -------------------------------------------------
+    @property
+    def stage_capabilities(self) -> StageCapabilities:
+        status = self.status()
+        return StageCapabilities(
+            output=RenderOutput.ARTWORK_CANDIDATE,
+            stages=frozenset({"COMPOSITION", *STAGE_DENOISE}),
+            preserves_upstream=True,
+            identity_conditioning=status.identity_conditioning,
+            seeded=True,
+            max_edge=self.config.max_edge,
+            available=status.ready,
+            notes=(
+                status.reason()
+                if not status.ready
+                else "later stages start from the frozen upstream as the initial latent "
+                "(denoise <= 0.42); no control net"
+            ),
+        )
+
+    def _stage_prompts(self, request: PanelStageRequest) -> tuple[str, str]:
+        contract = request.contract
+        cast = [str(name) for name in contract.get("cast") or []]
+        tags: list[str] = ["safe"]
+        if len(cast) == 1:
+            tags.append("solo")
+        elif cast:
+            tags.append("multiple people")
+        else:
+            tags.extend(("scenery", "no humans"))
+        tags.extend(name.lower() for name in cast)
+        shot = str(contract.get("shot") or "").lower()
+        tags.extend(
+            {"wide": ["wide shot"], "close": ["close-up"], "medium": ["medium shot"]}.get(shot, [])
+        )
+        semantic = " ".join(
+            [
+                str(contract.get("beat") or ""),
+                *[str(item) for item in (contract.get("required") or [])[:3]],
+                str(request.settings.get("creator_notes") or ""),
+            ]
+        )
+        tags.extend(_animagine_tags(semantic))
+        tags.extend(STAGE_TAGS.get(request.stage, ()))
+        tags.extend(t.strip() for t in self.config.style_prompt.split(",") if t.strip())
+        tags.extend(("masterpiece", "high score", "great score", "absurdres"))
+        positive = ", ".join(dict.fromkeys(tag for tag in tags if tag))[:2400]
+        negatives = [BASE_NEGATIVE, NOISE_NEGATIVE]
+        negatives.extend(str(item) for item in contract.get("forbidden") or [])
+        return positive, ", ".join(item for item in negatives if item)[:3600]
+
+    def render_stage(self, request: PanelStageRequest) -> PanelStageResult:
+        """One construction stage of one panel, on the frozen upstream it was given."""
+        status = self.status(refresh=True)
+        if not status.ready:
+            raise ProviderUnavailableError(
+                status.reason(),
+                remediation="Start ComfyUI (or the remote GPU session) and check the checkpoint.",
+                blocked_reason=BlockedReason.MISSING_PROVIDER.value,
+            )
+        candidates = [
+            r for r in request.references if (r.provenance or {}).get("status") == "CANDIDATE"
+        ]
+        identity = [
+            r
+            for r in request.references
+            if r.role == "CANON" and r.character and r not in candidates
+        ]
+        if (
+            self.config.backend is ArtworkBackendKind.COMFY_REMOTE
+            and not self.config.allow_source_excerpts
+        ):
+            excerpts = [
+                r
+                for r in request.references
+                if r.role != "UPSTREAM_STAGE" and _is_source_excerpt(r)
+            ]
+            if excerpts:
+                raise ProviderUnavailableError(
+                    f"The stage pack holds {len(excerpts)} source excerpt(s); the remote "
+                    "backend may not receive them.",
+                    remediation="Render locally, or explicitly allow source excerpts remotely.",
+                    blocked_reason=BlockedReason.MISSING_PROVIDER.value,
+                )
+        cast = {str(name) for name in request.contract.get("cast") or []}
+        sent = (
+            _select_identity_references(
+                [r for r in identity if r.character in cast],
+                min(self.config.max_reference_images, len(cast) * 3),
+            )
+            if status.identity_conditioning and cast
+            else []
+        )
+        positive, negative = self._stage_prompts(request)
+        denoise = STAGE_DENOISE.get(request.stage, 0.3)
+        values: dict[str, Any] = {
+            "checkpoint": self.config.model.name,
+            "positive": positive,
+            "negative": negative,
+            "width": request.width,
+            "height": request.height,
+            "seed": request.seed,
+            "steps": self.config.steps,
+            "cfg": self.config.cfg,
+            "sampler": self.config.sampler,
+            "scheduler": self.config.scheduler,
+            "denoise": denoise,
+        }
+        uploaded: dict[str, str] = {}
+        if request.upstream is None:
+            graph = _fill(_master_graph(), values)
+            denoise_used = 1.0
+        else:
+            digest = _sha(request.upstream)
+            values["master"] = self._upload(f"continuum-stage-{digest[:24]}.png", request.upstream)
+            graph = _fill(_color_graph(), values)
+            denoise_used = denoise
+        if sent:
+            self._add_identity_chain(graph, sent, uploaded)
+        data = self._run(graph)
+        produced = probe(data)
+        width, height = produced.width, produced.height
+        if request.upstream is not None:
+            # A VAE round trip may snap edges to multiples of 8; restore the exact frozen
+            # size. A larger difference is a moved geometry and is refused by the caller.
+            upstream = probe(request.upstream)
+            dx, dy = abs(width - upstream.width), abs(height - upstream.height)
+            if dx <= 8 and dy <= 8:
+                width, height = upstream.width, upstream.height
+        encoded = resize_exact(data, width, height)
+        return PanelStageResult(
+            backend=self.config.backend,
+            provider_id=self.config.provider_id,
+            output=RenderOutput.ARTWORK_CANDIDATE,
+            image=RenderedImage(encoded.data, encoded.mime, encoded.width, encoded.height),
+            provenance={
+                "backend": self.config.backend.value,
+                "model": {
+                    "name": self.config.model.name,
+                    "version": self.config.model.version,
+                    "sha256": self.config.model.sha256,
+                    "license": self.config.model.license,
+                    "source": self.config.model.source,
+                },
+                "workflow": stage_workflow_manifest(),
+                "settings": {
+                    "stage": request.stage,
+                    "steps": self.config.steps,
+                    "cfg": self.config.cfg,
+                    "sampler": self.config.sampler,
+                    "scheduler": self.config.scheduler,
+                    "denoise": denoise_used,
+                    "width": request.width,
+                    "height": request.height,
+                    "upstream_held_by": "init latent" if request.upstream is not None else None,
+                    "positive": positive,
+                    "negative": negative,
+                    "lettering": "disabled; Continuum owns text after artwork",
+                },
+                "seed": request.seed,
+                "identity_references_sent": [r.reference_id for r in sent],
+                "candidates_not_used_for_identity": [r.reference_id for r in candidates],
             },
         )
 

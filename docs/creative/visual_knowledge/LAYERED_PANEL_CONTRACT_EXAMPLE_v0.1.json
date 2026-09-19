@@ -1,0 +1,161 @@
+{
+  "schema": "continuum.layered-panel-contract/0.1-example",
+  "note": "Conceptual example for integration audit; not yet a runtime schema.",
+  "panel": {
+    "project_key": "the-arrivals",
+    "purpose": "CALIBRATION",
+    "calibration_id": "CAL-01",
+    "beat": "Abandoned settlement establishing. Environment only.",
+    "reading_order": "RTL",
+    "cast": [],
+    "forbidden": [
+      "people",
+      "smoke",
+      "text",
+      "speech balloons",
+      "extra buildings beyond canonical settlement scale"
+    ]
+  },
+  "canon_constraints": {
+    "environment_authority": "THE_ARRIVALS_ABANDONED_VILLAGE_AND_INN_SPATIAL_BIBLE_v0.2.md",
+    "required": [
+      "inn is largest surviving building",
+      "roughly five damaged houses",
+      "forest enclosure",
+      "well and cultivation plot on service side",
+      "low hill and prominent tree behind inn",
+      "narrow lake path",
+      "old mercantile route heavily reclaimed"
+    ]
+  },
+  "retrieval_request": {
+    "roles": {
+      "ENVIRONMENT": [
+        "abandoned rural settlement",
+        "forest enclosure",
+        "weathered timber and stone"
+      ],
+      "COMPOSITION": [
+        "wide establishing shot",
+        "clear route toward focal inn"
+      ],
+      "TECHNIQUE": [
+        "environmental detail",
+        "aged paths",
+        "material weathering"
+      ],
+      "MOOD": [
+        "abandoned but not horror"
+      ],
+      "HOUSE_STYLE": [
+        "the-arrivals-house-style-current"
+      ]
+    },
+    "max_refs_per_role": 3
+  },
+  "stages": [
+    {
+      "id": "composition",
+      "kind": "COMPOSITION",
+      "editable": [
+        "camera",
+        "major silhouettes",
+        "building placement",
+        "depth"
+      ],
+      "protected_after_approval": [
+        "panel geometry",
+        "major spatial anchors"
+      ]
+    },
+    {
+      "id": "drawing",
+      "kind": "DRAWING",
+      "depends_on": [
+        "composition"
+      ],
+      "editable": [
+        "building construction detail",
+        "vegetation",
+        "path edges"
+      ],
+      "protected_after_approval": [
+        "canonical spatial anchors"
+      ]
+    },
+    {
+      "id": "line",
+      "kind": "LINE",
+      "depends_on": [
+        "drawing"
+      ],
+      "editable": [
+        "contours",
+        "surface detail",
+        "weathering"
+      ],
+      "protected_after_approval": [
+        "building geometry"
+      ]
+    },
+    {
+      "id": "value_material",
+      "kind": "VALUE_MATERIAL",
+      "depends_on": [
+        "line"
+      ],
+      "editable": [
+        "value masses",
+        "wood",
+        "stone",
+        "moss",
+        "ground separation"
+      ],
+      "protected_after_approval": [
+        "line geometry"
+      ]
+    },
+    {
+      "id": "light_shadow",
+      "kind": "LIGHT_SHADOW",
+      "depends_on": [
+        "value_material"
+      ],
+      "editable": [
+        "lighting",
+        "cast shadows",
+        "atmospheric depth"
+      ],
+      "protected_after_approval": [
+        "structure",
+        "materials"
+      ]
+    },
+    {
+      "id": "finish",
+      "kind": "FINISH",
+      "depends_on": [
+        "light_shadow"
+      ],
+      "editable": [
+        "ink finish",
+        "screentone",
+        "cleanup"
+      ],
+      "protected_after_approval": [
+        "all upstream geometry"
+      ]
+    }
+  ],
+  "lineage_required": [
+    "reference_manifest_hash",
+    "house_style_version",
+    "scene_treatment_id_or_null",
+    "provider_id",
+    "model_ref",
+    "workflow",
+    "seed",
+    "stage_parent_artifact",
+    "output_hash"
+  ]
+}

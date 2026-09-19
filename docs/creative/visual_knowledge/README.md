@@ -11,6 +11,8 @@ The goal is not to teach one model "everything about manga." Continuum should se
 
 ## Index
 
+- [Navigation index](./INDEX.md)
+
 - [Architecture](./VISUAL_KNOWLEDGE_LAYERED_RENDERER_ARCHITECTURE_v0.1.md)
 - [The Arrivals House Style working direction](./THE_ARRIVALS_HOUSE_STYLE_WORKING_v0.1.md)
 - [Visual Knowledge item schema](./VISUAL_KNOWLEDGE_ITEM_SCHEMA_v0.1.json)

@@ -62,6 +62,27 @@ function StageCard({ pageId, panel, stage }: { pageId: string; panel: number; st
                 ? `${words(shown.upstream.stage)} attempt ${shown.upstream.attempt} · ${shortHash(shown.upstream.sha256)}`
                 : "the panel contract"}
             </dd>
+            {shown.conditioning ? (
+              <>
+                <dt>Conditioned on</dt>
+                <dd>
+                  {shown.conditioning.scene
+                    ? `${words(shown.conditioning.scene.purpose)} (${shown.conditioning.scene.references.length} scene ref)`
+                    : "no scene reference"}
+                  {Object.keys(shown.conditioning.identity).length
+                    ? ` · identity: ${Object.keys(shown.conditioning.identity).join(", ")}`
+                    : ""}
+                </dd>
+              </>
+            ) : null}
+            {shown.withheld.length ? (
+              <>
+                <dt>Withheld</dt>
+                <dd title={shown.withheld.map((w) => `${w.role}: ${w.reason}`).join("; ")}>
+                  {shown.withheld.length} reference(s) never sent - {shown.withheld[0].reason}
+                </dd>
+              </>
+            ) : null}
             {shown.structure_drift !== null ? (
               <>
                 <dt>Structure drift</dt>

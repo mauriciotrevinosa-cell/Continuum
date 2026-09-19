@@ -505,6 +505,8 @@ def _render_stage(
     """One construction stage of one panel, built on the frozen upstream it names."""
     from continuum_imaging.stages import structure_drift
     from continuum_providers.artwork import ArtworkReference
+    from continuum_providers.contracts import Locality
+    from continuum_providers.policy import transmission_refusal
     from continuum_providers.stages import (
         PanelStageProvider,
         PanelStageRequest,
@@ -539,6 +541,30 @@ def _render_stage(
             profile = session.get(CharacterProfile, row.character_id)
             if profile is not None:
                 names[row.character_id] = profile.display_name
+    # What retrieval selected stays in the lineage whatever happens next. What this
+    # backend may not receive (a source excerpt on a remote GPU) is withheld per
+    # reference - its bytes are never even read - instead of blocking the stage.
+    caps = provider.stage_capabilities
+    locality = getattr(getattr(provider, "descriptor", None), "locality", Locality.LOCAL)
+    selected: list[dict[str, Any]] = []
+    withheld: list[dict[str, Any]] = []
+    given: list[AttemptInput] = []
+    for row in inputs:
+        if row.role is BundleRole.UPSTREAM_STAGE:
+            continue
+        entry = {
+            "reference_id": str(row.reference_id) if row.reference_id else row.locator,
+            "role": row.role.value,
+            "character": names.get(row.character_id) if row.character_id else None,
+        }
+        selected.append(entry)
+        reason = transmission_refusal(
+            row.provenance or {}, locality, source_excerpts_allowed=caps.source_excerpts
+        )
+        if reason is None:
+            given.append(row)
+        else:
+            withheld.append({**entry, "reason": reason})
     references = tuple(
         ArtworkReference(
             role=row.role.value,
@@ -548,8 +574,7 @@ def _render_stage(
             teaches=tuple((row.provenance or {}).get("matched_facets") or ()),
             provenance=dict(row.provenance or {}),
         )
-        for row in inputs
-        if row.role is not BundleRole.UPSTREAM_STAGE
+        for row in given
     )
     stage = str(intent["stage"]["stage"])
     request = PanelStageRequest(
@@ -568,7 +593,25 @@ def _render_stage(
             "creator_notes": str(intent.get("creator_notes") or ""),
         },
     )
-    gaps = stage_gaps(provider.stage_capabilities, request)
+    gaps = stage_gaps(caps, request)
+    lost_identity = sorted(
+        {str(w["character"]) for w in withheld if w["role"] == "CANON" and w["character"]}
+        - {r.character for r in references if r.role == "CANON" and r.character}
+    )
+    if lost_identity:
+        # Identity never silently degrades: a cast member whose only evidence is
+        # remote-forbidden is a stop with a way out, not a generic character.
+        raise ProviderUnavailableError(
+            f"{provider_id} may not receive the identity evidence of "
+            f"{', '.join(lost_identity)}: every identity reference is a source excerpt.",
+            remediation=(
+                "Confirm project-created references for the character (creator photos, approved "
+                "project art), or render this stage on a local backend. Source excerpts are "
+                "never sent to a remote GPU."
+            ),
+            blocked_reason=BlockedReason.MISSING_SOURCE_ASSET.value,
+            missing_safe_identity=lost_identity,
+        )
     if (
         upstream_prov.get("output_class") == RenderOutput.TEST_RENDER.value
         and provider.stage_capabilities.output is RenderOutput.ARTWORK_CANDIDATE
@@ -600,6 +643,18 @@ def _render_stage(
     )
     attempt.artwork_provenance = {
         **result.provenance,
+        "references_selected": selected,
+        "references_given": [
+            str(row.reference_id) if row.reference_id else row.locator for row in given
+        ],
+        "references_withheld": [
+            *withheld,
+            *[
+                w
+                for w in result.provenance.get("references_withheld") or []
+                if w.get("reference_id") not in {x["reference_id"] for x in withheld}
+            ],
+        ],
         "backend": result.backend.value,
         "provider_id": result.provider_id,
         "stage": stage,

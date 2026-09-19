@@ -1281,6 +1281,8 @@ class MangaProduction:
                         "stage": entry["stage"],
                         "why": entry["why"],
                         "identity_evidence": False,
+                        # Where the garment image came from decides where it may be sent.
+                        "origin": item.origin.value,
                     },
                 }
             )

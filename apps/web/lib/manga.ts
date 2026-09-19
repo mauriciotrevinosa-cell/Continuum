@@ -577,6 +577,12 @@ export type StageAttempt = {
   upstream: { attempt_id: string; attempt: number; stage: PanelStage; sha256: string } | null;
   structure_drift: number | null;
   provider_id: string | null;
+  conditioning: {
+    identity: Record<string, string[]>;
+    scene: { purpose: string; mechanism: string; weight: number; references: string[] } | null;
+  } | null;
+  transmitted: string[];
+  withheld: { reference_id: string; role: string; reason: string }[];
   job: { status: string; error: string | null; remediation: string | null } | null;
 };
 

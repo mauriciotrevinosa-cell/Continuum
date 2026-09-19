@@ -466,6 +466,11 @@ class PanelConstruction:
             "upstream": upstream,
             "structure_drift": provenance.get("structure_drift"),
             "provider_id": provenance.get("provider_id"),
+            # What reached the backend and how it conditioned the image; what was
+            # withheld from it (never transmitted) and why.
+            "conditioning": provenance.get("conditioning"),
+            "transmitted": list(provenance.get("references_transmitted") or []),
+            "withheld": list(provenance.get("references_withheld") or []),
             "job": _job(self.rough, attempt),
         }
 

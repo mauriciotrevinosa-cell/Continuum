@@ -16,6 +16,7 @@
 - [Renderer benchmark plan](./MANGA_RENDERER_BENCHMARK_PLAN_v0.1.md)
 
 ## Implementation
+- [Pre-Claude ready status](./PRE_CLAUDE_READY_STATUS_v0.1.md)
 - [Preliminary integration map](./PRELIMINARY_INTEGRATION_MAP_v0.1.md)
 - [Implementation backlog](./IMPLEMENTATION_BACKLOG_v0.1.md)
 - [Claude return handoff](./CLAUDE_RETURN_HANDOFF_v0.1.md)

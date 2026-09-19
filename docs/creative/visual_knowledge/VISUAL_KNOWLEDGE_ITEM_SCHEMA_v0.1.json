@@ -1,0 +1,290 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "continuum.visual-knowledge-item/0.1",
+  "title": "Continuum Visual Knowledge Item v0.1",
+  "type": "object",
+  "required": [
+    "id",
+    "source",
+    "provenance",
+    "functions",
+    "allowed_uses",
+    "review"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "kind",
+        "locator"
+      ],
+      "properties": {
+        "kind": {
+          "enum": [
+            "manga_page",
+            "panel",
+            "illustration",
+            "fan_art",
+            "photo",
+            "video",
+            "process_stage",
+            "generated",
+            "dataset_sample"
+          ]
+        },
+        "locator": {
+          "type": "string"
+        },
+        "work": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "creator": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "page": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "timestamp_ms": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "parent_item_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "provenance": {
+      "type": "object",
+      "required": [
+        "origin",
+        "rights_status",
+        "license",
+        "content_hash"
+      ],
+      "properties": {
+        "origin": {
+          "enum": [
+            "SOURCE_VAULT",
+            "READ_ONLY_INTAKE",
+            "EXTERNAL_DATASET",
+            "USER_CREATED",
+            "PROJECT_GENERATED"
+          ]
+        },
+        "rights_status": {
+          "enum": [
+            "KNOWN_ALLOWED",
+            "KNOWN_RESTRICTED",
+            "UNKNOWN"
+          ]
+        },
+        "license": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "license_url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "content_hash": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "dataset_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "functions": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "CHARACTER_CONSTRUCTION",
+          "ANATOMY",
+          "HANDS",
+          "FACE",
+          "HAIR",
+          "CLOTHING",
+          "POSE",
+          "GESTURE",
+          "CAMERA",
+          "PERSPECTIVE",
+          "COMPOSITION",
+          "ACTION",
+          "IMPACT",
+          "MOTION",
+          "EMOTION",
+          "QUIET_ACTING",
+          "ENVIRONMENT",
+          "ARCHITECTURE",
+          "MATERIALS",
+          "LIGHTING",
+          "ATMOSPHERE",
+          "MAGIC",
+          "FX",
+          "LINEART",
+          "SCREENTONE",
+          "COLOR",
+          "MANGA_GRAMMAR",
+          "PANEL_LAYOUT",
+          "PAGE_TURN",
+          "PROCESS"
+        ]
+      }
+    },
+    "descriptors": {
+      "type": "object",
+      "properties": {
+        "character_count": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "shot_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "camera_angle": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "action_intensity": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "environment": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "emotion": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "style_traits": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "allowed_uses": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "reference_only",
+          "retrieval",
+          "validator",
+          "training_candidate",
+          "training_approved"
+        ]
+      }
+    },
+    "process": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "sequence_id": {
+          "type": "string"
+        },
+        "stage": {
+          "enum": [
+            "construction",
+            "sketch",
+            "drawing",
+            "line",
+            "value",
+            "color",
+            "shadow",
+            "light",
+            "fx",
+            "final"
+          ]
+        },
+        "ordinal": {
+          "type": "integer",
+          "minimum": 0
+        }
+      },
+      "required": [
+        "sequence_id",
+        "stage",
+        "ordinal"
+      ],
+      "additionalProperties": false
+    },
+    "review": {
+      "type": "object",
+      "required": [
+        "status"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "UNREVIEWED",
+            "USEFUL",
+            "PREFERRED",
+            "REJECTED"
+          ]
+        },
+        "note": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

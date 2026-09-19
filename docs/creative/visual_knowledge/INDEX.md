@@ -6,6 +6,7 @@
 - [Storage / intake routes](./VISUAL_KNOWLEDGE_STORAGE_ROUTES_v0.1.md)
 
 ## Data
+- [Ready-made manga analyzer audit](./READY_MADE_MANGA_ANALYZERS_v0.1.md)
 - [Visual Knowledge item schema](./VISUAL_KNOWLEDGE_ITEM_SCHEMA_v0.1.json)
 - [External dataset audit](./EXTERNAL_DATASET_AUDIT_v0.1.md)
 - [Dataset registry](./dataset_registry_v0.1.json)

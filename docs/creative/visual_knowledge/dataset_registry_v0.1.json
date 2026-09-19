@@ -286,6 +286,63 @@
       "license_summary": "Google suggestion was too ambiguous; no canonical package matching the claim verified.",
       "bytes_in_git": false,
       "training_default": "blocked"
+    },
+    {
+      "id": "manga-panel-detector-yolo26n",
+      "priority": "A+",
+      "kind": "pretrained_analyzer",
+      "status": "prototype_first",
+      "urls": [
+        "https://huggingface.co/leoxs22/manga-panel-detector-yolo26n"
+      ],
+      "scope": [
+        "panel_detection",
+        "text_detection",
+        "manga_preprocessing"
+      ],
+      "access": "public",
+      "license_summary": "Apache-2.0 model; trained on Manga109-s, whose dataset-use/citation terms still apply.",
+      "bytes_in_git": false,
+      "training_default": "not_training_data"
+    },
+    {
+      "id": "rtdetrv4-x-manga109s-v2",
+      "priority": "A",
+      "kind": "pretrained_analyzer",
+      "status": "compare_in_prototype",
+      "urls": [
+        "https://huggingface.co/tori29umai/rtdetrv4-x-manga109s_v2"
+      ],
+      "scope": [
+        "frame_detection",
+        "body_detection",
+        "face_detection",
+        "text_detection",
+        "visual_knowledge_enrichment"
+      ],
+      "access": "public_model",
+      "license_summary": "Model card must be reviewed locally together with Manga109-s/base model terms before production adoption.",
+      "bytes_in_git": false,
+      "training_default": "not_training_data"
+    },
+    {
+      "id": "manga-page-element-segmentation",
+      "priority": "B",
+      "kind": "pretrained_analyzer",
+      "status": "masking_candidate_license_review",
+      "urls": [
+        "https://huggingface.co/anonimkaq4/manga-page-element-segmentation"
+      ],
+      "scope": [
+        "character_masks",
+        "panel_masks",
+        "speech_bubble_masks",
+        "layer_protection"
+      ],
+      "access": "public_model",
+      "license_summary": "Model card requires review of MangaSeg, Manga109-s and Ultralytics terms; not yet production-approved.",
+      "bytes_in_git": false,
+      "training_default": "not_training_data"
     }
   ]
 }

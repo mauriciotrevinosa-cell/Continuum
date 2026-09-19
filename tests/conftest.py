@@ -56,10 +56,14 @@ def vault_root(tmp_path: Path) -> Path:
 
 @pytest.fixture
 def settings(data_home: Path, vault_root: Path) -> Settings:
+    # The database is always the isolated test database. A Settings built
+    # without one falls back to the application's default URL - the user's real
+    # catalog - and any DB test resolving this fixture would write into it.
     return Settings(
         _env_file=None,
         data_home=str(data_home),
         source_vault_root=str(vault_root),
+        database_url=TEST_DATABASE_URL,
     )
 
 
@@ -152,6 +156,53 @@ TEST_DATABASE_URL = os.environ.get(
     "CONTINUUM_TEST_DATABASE_URL",
     "postgresql+psycopg://continuum:continuum_local_dev@127.0.0.1:5433/continuum_test",
 )
+
+
+def _application_databases() -> set[tuple[str | None, int | None, str | None]]:
+    """(host, port, database) of every application database this checkout knows:
+    the built-in default and whatever the local ``.env`` configures."""
+    from sqlalchemy.engine import make_url
+
+    urls = [Settings(_env_file=None).database_url.get_secret_value()]
+    env_file = REPO_ROOT / ".env"
+    if env_file.is_file():
+        for line in env_file.read_text(encoding="utf-8", errors="replace").splitlines():
+            key, sep, value = line.partition("=")
+            if sep and key.strip() == "CONTINUUM_DATABASE_URL" and value.strip():
+                urls.append(value.strip().strip('"').strip("'"))
+    targets = set()
+    for raw in urls:
+        url = make_url(raw)
+        targets.add((url.host, url.port, url.database))
+    return targets
+
+
+def _refuse_application_databases() -> None:
+    """No test may ever open a connection to the application's database.
+
+    It holds the user's real catalog and production history. A fixture that
+    forgets the test URL must fail loudly here instead of writing test rows into
+    it (which is exactly what happened before this guard existed).
+    """
+    from continuum_db import session as db_session
+    from sqlalchemy.engine import make_url
+
+    protected = _application_databases()
+    original = db_session.create_engine
+
+    def guarded(url: object, *args: object, **kwargs: object) -> object:
+        target = make_url(str(url) if not hasattr(url, "database") else url)  # type: ignore[arg-type]
+        if (target.host, target.port, target.database) in protected:
+            raise RuntimeError(
+                f"a test tried to open the application database {target.database!r}; "
+                "tests use TEST_DATABASE_URL only"
+            )
+        return original(url, *args, **kwargs)  # type: ignore[arg-type]
+
+    db_session.create_engine = guarded  # type: ignore[assignment]
+
+
+_refuse_application_databases()
 
 
 @functools.lru_cache(maxsize=1)

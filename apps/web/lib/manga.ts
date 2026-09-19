@@ -509,6 +509,96 @@ export function shortHash(hash: string | null | undefined): string {
   return hash ? hash.slice(0, 10) : "";
 }
 
+/* -- layered panel construction -------------------------------------------------- */
+export const PANEL_STAGES = [
+  "COMPOSITION",
+  "DRAWING",
+  "LINE",
+  "VALUE_MATERIAL",
+  "LIGHT_SHADOW",
+  "FX",
+  "ENVIRONMENT_INTEGRATION",
+  "FINISH",
+] as const;
+export type PanelStage = (typeof PANEL_STAGES)[number];
+export type StageState = "READY" | "WAITING" | "QUEUED" | "IN_REVIEW" | "FROZEN" | "STALE" | "FAILED" | "BLOCKED";
+
+export type PanelContract = {
+  schema: string;
+  page_key: string;
+  panel: number;
+  panel_count: number;
+  beat: string;
+  shot: string;
+  cast: string[];
+  required: string[];
+  forbidden: string[];
+  environment_tags: string[];
+  intents: string[];
+  stages: PanelStage[];
+  calibration: { cal_id: string | null; source_document: string | null; source_locator: string | null } | null;
+  hash: string;
+};
+
+export type StageContract = {
+  stage: PanelStage;
+  editable: string[];
+  protects: string[];
+  frozen_before: string[];
+  upstream: PanelStage | null;
+  order: number;
+  of: number;
+};
+
+export type PackReference = {
+  role: string;
+  reference_id: string;
+  label: string;
+  reference_class: string;
+  origin: string;
+  matched_facets: string[];
+  matched_descriptors: string[];
+  standing: string | null;
+  why: string[];
+  warnings: string[];
+};
+
+export type StageAttempt = {
+  id: string;
+  attempt: number;
+  state: string;
+  output_class: string | null;
+  content_hash: string | null;
+  width: number | null;
+  height: number | null;
+  created_at: string | null;
+  generated_at: string | null;
+  image: string | null;
+  upstream: { attempt_id: string; attempt: number; stage: PanelStage; sha256: string } | null;
+  structure_drift: number | null;
+  provider_id: string | null;
+  job: { status: string; error: string | null; remediation: string | null } | null;
+};
+
+export type StageView = {
+  stage: PanelStage;
+  contract: StageContract;
+  state: StageState;
+  reason: string;
+  can_render: boolean;
+  frozen_attempt_id: string | null;
+  frozen_valid: boolean;
+  attempts: StageAttempt[];
+  pack: PackReference[];
+};
+
+export type ConstructionView = {
+  page_id: string;
+  run: { id: string; purpose: RunView["purpose"]; status: string };
+  panels: { contract: PanelContract; stages: StageView[] }[];
+  compose: { ready: boolean; blocked: string[] };
+};
+
 /* -- server-side reads ------------------------------------------------------------ */
 async function read<T>(path: string): Promise<T> {
   let response: Response;
@@ -534,6 +624,7 @@ export const manga = {
   run: (id: string) => read<RunView>(`/production/runs/${enc(id)}`),
   page: (id: string) => read<PageDetail>(`/production/pages/${enc(id)}`),
   chapter: (runId: string) => read<ChapterView>(`/production/runs/${enc(runId)}/chapter`),
+  construction: (pageId: string) => read<ConstructionView>(`/production/pages/${enc(pageId)}/construction`),
   overview: (characterId: string) => read<CharacterOverview>(`/library/characters/${enc(characterId)}/overview`),
   modelBuilder: (characterId: string, project: string) =>
     read<ModelBuilderState>(`/library/characters/${enc(characterId)}/model-builder?project_key=${enc(project)}`),

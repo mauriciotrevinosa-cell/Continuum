@@ -117,6 +117,9 @@ export default async function ProductionPageView({ params }: { params: Promise<{
           </p>
         </div>
         <span className="row">
+          <Link className="button small" href={`${base}/pages/${page.id}/construction`}>
+            Layered construction
+          </Link>
           {previous ? (
             <Link className="button small ghost" href={`${base}/pages/${previous.id}`}>
               ← Page {previous.sequence}

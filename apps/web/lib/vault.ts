@@ -493,7 +493,42 @@ const q = (params: Record<string, string | number | undefined | null>) => {
   return text ? `?${text}` : "";
 };
 
+/* -- external resources (Visual Knowledge registry) ------------------------------- */
+export type ExternalResource = {
+  key: string;
+  kind: string;
+  title: string;
+  urls: string[];
+  license_summary: string;
+  access_state: string;
+  license_accepted_at: string | null;
+  license_acceptance_note: string;
+  proposed_uses: string[];
+  allowed_uses: string[];
+  intake_root_key: string | null;
+  items: number;
+  registry: {
+    kind: string | null;
+    status: string | null;
+    priority: string | null;
+    scope: string[];
+    training_default: string | null;
+    hash: string;
+  };
+  notes: string;
+  row_version: number;
+  updated_at: string | null;
+};
+
+export type ExternalResourceListing = {
+  resources: ExternalResource[];
+  intake_roots: { key: string; collection: string }[];
+  uses: string[];
+  access_states: string[];
+};
+
 export const vault = {
+  externalResources: () => read<ExternalResourceListing>("/library/external-resources"),
   references: (filters: Record<string, string | undefined>) =>
     read<ReferenceView[]>(`/library/references${q({ limit: 200, ...filters })}`),
   reference: (id: string) => read<ReferenceView>(`/library/references/${encodeURIComponent(id)}`),

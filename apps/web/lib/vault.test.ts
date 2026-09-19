@@ -32,6 +32,22 @@ describe("allowedVaultPath", () => {
       `production/page-attempts/${ID}/review`,
     );
     expect(allowedVaultPath(["production", "backends"])).toBe("production/backends");
+    expect(allowedVaultPath(["production", "pages", ID, "construction"])).toBe(
+      `production/pages/${ID}/construction`,
+    );
+    expect(allowedVaultPath(["production", "pages", ID, "construction", "1", "COMPOSITION", "attempts"])).toBe(
+      `production/pages/${ID}/construction/1/COMPOSITION/attempts`,
+    );
+    expect(allowedVaultPath(["production", "pages", ID, "construction", "1", "LETTERING", "attempts"])).toBeNull();
+    expect(allowedVaultPath(["production", "stage-attempts", ID, "review"])).toBe(
+      `production/stage-attempts/${ID}/review`,
+    );
+    expect(allowedVaultPath(["production", "pages", ID, "compose"])).toBe(`production/pages/${ID}/compose`);
+    expect(allowedVaultPath(["library", "external-resources"])).toBe("library/external-resources");
+    expect(allowedVaultPath(["library", "external-resources", "panel-corpus-v1", "decision"])).toBe(
+      "library/external-resources/panel-corpus-v1/decision",
+    );
+    expect(allowedVaultPath(["library", "external-resources", "C:", "decision"])).toBeNull();
     expect(allowedVaultPath(["library", "characters", ID, "corpus", "refresh"])).toBe(
       `library/characters/${ID}/corpus/refresh`,
     );

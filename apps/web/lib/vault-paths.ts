@@ -44,12 +44,13 @@ const ALLOWED: RegExp[] = [
   new RegExp(`^projects/${PROJECT}/(production-runs|production-profiles|calibration-runs)$`),
   new RegExp(`^projects/${PROJECT}/episodes/${EPISODE}/(materialize|canonical-readiness|sample-runs)$`),
   new RegExp(
-    `^production/(backends|runs/${UUID}(/(refresh|sample-decision|preview|preview-render|chapter))?|pages/${UUID}(/(attempts|cast))?|page-attempts/${UUID}/review|source-pages/[0-9a-f]{16,64}/[0-9]{1,6}/image)$`,
+    `^production/(backends|runs/${UUID}(/(refresh|sample-decision|preview|preview-render|chapter))?|pages/${UUID}(/(attempts|cast|construction|compose))?|pages/${UUID}/construction/[0-9]{1,2}/(COMPOSITION|DRAWING|LINE|VALUE_MATERIAL|LIGHT_SHADOW|FX|ENVIRONMENT_INTEGRATION|FINISH)/attempts|stage-attempts/${UUID}/review|page-attempts/${UUID}/review|source-pages/[0-9a-f]{16,64}/[0-9]{1,6}/image)$`,
   ),
   // M3: the character reference corpus.
   new RegExp(`^library/characters/${UUID}/(overview|observations|corpus/refresh)$`),
   new RegExp(`^library/character-observations/${UUID}/(review|environment|image|visual-origin)$`),
   new RegExp(`^library/characters/${UUID}/model-builder$`),
+  new RegExp(`^library/external-resources(/import|/[a-z0-9][a-z0-9._-]{1,79}/decision)?$`),
   new RegExp(`^library/character-model-sheet-attempts$`),
   new RegExp(`^library/character-model-sheet-attempts/${UUID}/(review|image)$`),
 ];

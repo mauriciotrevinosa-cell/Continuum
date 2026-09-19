@@ -422,3 +422,57 @@
 .studio .warn-list .info {
   color: var(--text-3);
 }
+
+/* Layered construction: one card per stage, in build order. */
+.studio .stage-ladder {
+  list-style: none;
+  margin: 12px 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 12px;
+}
+.studio .stage-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 10px;
+  border-radius: 14px;
+  background: var(--surface-1);
+  border: 1px solid var(--hairline);
+  min-width: 0;
+}
+.studio .stage-card[data-state="STALE"] {
+  border-color: var(--warn);
+}
+.studio .stage-card[data-state="FROZEN"] {
+  border-color: var(--ok);
+}
+.studio .stage-thumb {
+  aspect-ratio: 3 / 4;
+  border-radius: 8px;
+  background: var(--surface-0);
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  color: var(--text-3);
+  font-size: 11.5px;
+}
+.studio .stage-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.studio .kv-inline.small {
+  font-size: 12px;
+}
+.studio .warn-text {
+  color: var(--warn);
+}
+.studio .pack-list {
+  margin: 6px 0 0;
+  padding-left: 16px;
+  font-size: 12px;
+  display: grid;
+  gap: 4px;
+}

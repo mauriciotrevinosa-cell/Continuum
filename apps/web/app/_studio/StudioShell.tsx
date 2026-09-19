@@ -57,6 +57,7 @@ export function StudioShell({ children }: { children: React.ReactNode }) {
             <SideLink href="/library/references">References</SideLink>
             <SideLink href="/library/characters">Characters</SideLink>
             <SideLink href="/library/styles">Styles &amp; modes</SideLink>
+            <SideLink href="/library/datasets">Datasets &amp; tools</SideLink>
             <SideLink href="/library/inbox">Inbox</SideLink>
           </nav>
 

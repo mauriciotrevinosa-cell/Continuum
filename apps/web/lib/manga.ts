@@ -583,7 +583,7 @@ export type StageAttempt = {
   } | null;
   transmitted: string[];
   withheld: { reference_id: string; role: string; reason: string }[];
-  job: { status: string; error: string | null; remediation: string | null } | null;
+  job: { id: string; status: string; error: string | null; remediation: string | null } | null;
 };
 
 export type StageView = {

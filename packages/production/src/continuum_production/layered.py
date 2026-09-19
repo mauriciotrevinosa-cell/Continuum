@@ -340,9 +340,10 @@ class PanelConstruction:
                 status = (job or {}).get("status")
                 state = status if status in ("BLOCKED", "FAILED") else "QUEUED"
                 if state != "QUEUED":
+                    remediation = (job or {}).get("remediation")
                     reason = str(
                         (job or {}).get("error")
-                        or (job or {}).get("remediation")
+                        or (remediation.get("message") if isinstance(remediation, dict) else "")
                         or (job or {}).get("blocked_reason")
                         or "the render did not complete"
                     )

@@ -34,6 +34,12 @@ export function StageActions({ pageId, panel, stage }: { pageId: string; panel: 
   const reviewable = latest !== null && latest.state === "GENERATED" && stage.state === "IN_REVIEW";
   const body = () => ({ seed: seed ? Number(seed) : null, notes });
 
+  const stuck = (stage.state === "BLOCKED" || stage.state === "FAILED") && latest?.job ? latest : null;
+  const retry = () =>
+    run(
+      () => vaultFetch(`jobs/${stuck!.job!.id}/retry`, { method: "POST" }),
+      "Queued again: the same attempt, recipe and references, on the backend as it is now.",
+    );
   const render = () =>
     run(
       () =>
@@ -70,6 +76,11 @@ export function StageActions({ pageId, panel, stage }: { pageId: string; panel: 
               Reject
             </button>
           </>
+        ) : null}
+        {stuck ? (
+          <button className="button small" type="button" disabled={busy} onClick={retry}>
+            {busy ? "Queuing…" : "Retry"}
+          </button>
         ) : null}
         {stage.can_render && !reviewable ? (
           <button className="button small" type="button" disabled={busy} onClick={render}>

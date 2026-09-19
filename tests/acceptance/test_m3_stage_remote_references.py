@@ -244,3 +244,8 @@ def test_a_cast_whose_identity_is_only_source_excerpts_stops_with_a_reason(
     assert "identity evidence of Aster Vale" in message
     assert "Source excerpts are never sent to a remote GPU" in message
     assert comfy.prompts == [] and comfy.uploads == []
+    # The construction screen shows the stop and its reason, with the job to retry.
+    stage = construction.view(pages[1].id)["panels"][0]["stages"][0]
+    assert stage["state"] == "BLOCKED"
+    assert "identity evidence of Aster Vale" in stage["reason"]
+    assert stage["attempts"][-1]["job"]["id"] == str(job.id)

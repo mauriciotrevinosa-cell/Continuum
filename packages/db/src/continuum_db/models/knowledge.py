@@ -18,13 +18,13 @@ import uuid
 from typing import Any
 
 from continuum_core import uuid7
-from sqlalchemy import CheckConstraint, Integer, String, Text, func
+from sqlalchemy import CheckConstraint, Integer, String, Text, UniqueConstraint, func
 from sqlalchemy.dialects.postgresql import JSONB
 from sqlalchemy.orm import Mapped, mapped_column
 
 from continuum_db.models.base import Base, TimestampTz, UuidV7
 
-__all__ = ["ExternalResource"]
+__all__ = ["ExternalResource", "PageAnalysis"]
 
 _KINDS = ("DATASET", "ANNOTATIONS", "MODEL", "TOOL", "RESEARCH", "UNVERIFIED")
 _ACCESS = ("OPEN", "NOT_REQUESTED", "REQUESTED", "GRANTED", "DENIED", "UNKNOWN")
@@ -88,4 +88,42 @@ class ExternalResource(Base):
             name="training_needs_accepted_license",
         ),
         CheckConstraint("registry_hash ~ '^[0-9a-f]{64}$'", name="registry_hash_is_sha256"),
+    )
+
+
+class PageAnalysis(Base):
+    """What one analyzer version found on one manga page: regions, reading order, measures.
+
+    Keyed by the page (``unit:<unit_key>:<offset>`` for a catalogued chapter
+    page, or ``sha256:<hex>`` for loose bytes) and the analyzer id and version,
+    so an analysis is computed once and two analyzers never overwrite each
+    other. Derived and rebuildable; it holds no pixels.
+    """
+
+    __tablename__ = "page_analysis"
+
+    id: Mapped[uuid.UUID] = mapped_column(UuidV7(), primary_key=True, default=uuid7)
+    subject: Mapped[str] = mapped_column(String(200), nullable=False)
+    #: The locator the page bytes were read from (for later inputs and images).
+    locator: Mapped[str] = mapped_column(Text, nullable=False)
+    content_sha256: Mapped[str | None] = mapped_column(String(64), nullable=True)
+    analyzer_id: Mapped[str] = mapped_column(String(80), nullable=False)
+    analyzer_version: Mapped[str] = mapped_column(String(40), nullable=False)
+    model_sha256: Mapped[str | None] = mapped_column(String(64), nullable=True)
+    #: The analysis as the analyzer reported it (regions, reading order, measures).
+    result: Mapped[dict[str, Any]] = mapped_column(JSONB, nullable=False)
+    created_at: Mapped[dt.datetime] = mapped_column(
+        TimestampTz, nullable=False, server_default=func.now()
+    )
+
+    __table_args__ = (
+        UniqueConstraint("subject", "analyzer_id", "analyzer_version"),
+        CheckConstraint(
+            "subject ~ '^(unit:[0-9a-f]{16,64}:[0-9]{1,6}|sha256:[0-9a-f]{64})$'",
+            name="subject_format",
+        ),
+        CheckConstraint(
+            "content_sha256 IS NULL OR content_sha256 ~ '^[0-9a-f]{64}$'",
+            name="content_sha256_format",
+        ),
     )

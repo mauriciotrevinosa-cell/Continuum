@@ -27,6 +27,7 @@ __all__ = [
     "bw_finish",
     "compose_manga_page",
     "panel_boxes",
+    "rtl_reading_order",
     "tint_finish",
 ]
 
@@ -249,4 +250,32 @@ def analyze_layout(data: bytes, *, max_side: int = 400, depth: int = 4) -> PageL
         panels=panels,
         negative_space=round(negative, 4),
         ink_density=round(ink, 4),
+    )
+
+
+def rtl_reading_order(boxes: Sequence[tuple[float, float, float, float]]) -> tuple[int, ...]:
+    """Japanese reading order of panel boxes: rows top to bottom, each row right to left.
+
+    A deterministic baseline: boxes that overlap vertically by at least half the
+    shorter one's height share a row. A learned order estimator can replace it
+    behind the analyzer boundary without changing any caller.
+    """
+    rows: list[list[int]] = []
+    spans: list[tuple[float, float]] = []
+    for index in sorted(range(len(boxes)), key=lambda i: (boxes[i][1], -boxes[i][0])):
+        _x, y, _w, h = boxes[index]
+        for row, (top, bottom) in enumerate(spans):
+            overlap = min(bottom, y + h) - max(top, y)
+            if overlap >= 0.5 * min(h, bottom - top):
+                rows[row].append(index)
+                spans[row] = (min(top, y), max(bottom, y + h))
+                break
+        else:
+            rows.append([index])
+            spans.append((y, y + h))
+    ordered = sorted(zip(spans, rows, strict=True), key=lambda pair: pair[0][0])
+    return tuple(
+        index
+        for _span, row in ordered
+        for index in sorted(row, key=lambda i: -(boxes[i][0] + boxes[i][2]))
     )

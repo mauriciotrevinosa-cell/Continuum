@@ -15,7 +15,6 @@ from typing import Annotated, Any
 
 from continuum_core.references import ReviewDecision, RoughPurpose
 from continuum_db.models import PageDependency, ProductionPage, ProductionProfile, ProductionRun
-from continuum_imaging.manga import analyze_layout
 from continuum_production import RoughProduction, attempt_view
 from continuum_production.layered import PanelConstruction
 from continuum_production.manga import (
@@ -27,6 +26,7 @@ from continuum_production.manga import (
 from continuum_production.materialize import PlacementDecision
 from continuum_production.views import attempt_summary
 from continuum_providers import ProviderRegistry, artwork_backends
+from continuum_providers.analysis import GutterLayoutAnalyzer
 from continuum_storage import ProjectLibrary
 from fastapi import APIRouter, HTTPException, Request
 from fastapi import Path as PathParam
@@ -52,7 +52,7 @@ def manga_scope(request: Request) -> Iterator[MangaProduction]:
     with catalog_scope(request) as catalog:
         rough = RoughProduction(catalog.session, catalog, providers=providers)
         grammar = catalog_grammar_candidates(
-            catalog.session, source_page_reader(catalog), analyze_layout, cache
+            catalog.session, source_page_reader(catalog), GutterLayoutAnalyzer(), cache
         )
         yield MangaProduction(
             rough, projects, grammar_candidates=grammar, page_reader=source_page_reader(catalog)

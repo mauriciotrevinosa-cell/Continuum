@@ -32,7 +32,7 @@ from continuum_db.models.jobs import (
     JobStep,
     Worker,
 )
-from continuum_db.models.knowledge import ExternalResource
+from continuum_db.models.knowledge import ExternalResource, PageAnalysis
 from continuum_db.models.library import (
     CharacterOutfit,
     CharacterProfile,
@@ -100,6 +100,7 @@ __all__ = [
     "MediaProgressDismissal",
     "MusicReference",
     "OutfitWear",
+    "PageAnalysis",
     "PageDependency",
     "ProductionPage",
     "ProductionProfile",

@@ -75,7 +75,9 @@ from continuum_library import (
     CatalogNotFoundError,
     ReferenceCatalog,
 )
+from continuum_library.analysis import PageAnalyses, unit_subject
 from continuum_library.validation import clean_text, require_project_key
+from continuum_providers.analysis import MangaPageAnalyzer
 from continuum_storage import ProjectLibrary, SourceChangedError, SourceUnavailableError
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
@@ -2133,17 +2135,44 @@ def chapter_qa(pages: list[dict[str, Any]]) -> dict[str, Any]:
 def catalog_grammar_candidates(
     session: Session,
     read_page: Callable[[CatalogUnit, CatalogEntry, int], tuple[str, bytes] | None],
-    analyze: Callable[[bytes], Any],
+    analyzer: MangaPageAnalyzer,
     cache: dict[str, GrammarCandidate] | None = None,
 ) -> Callable[[Sequence[str], int], list[GrammarCandidate]]:
     """Candidate manga pages from catalogued chapters of the named series.
 
     Deterministic: for each series, chapters are taken in reading order at an
     even stride and one interior page of each is analysed. ``read_page`` returns
-    (locator, bytes) through the read-only storage layer; ``analyze`` measures
-    layout. Results are cached by catalog unit and page, so a page is read once.
+    (locator, bytes) through the read-only storage layer; ``analyzer`` measures
+    layout behind the analyzer boundary. Analyses are persisted per page and
+    analyzer version, so a page is read and measured once - not once per API
+    process - and the in-process ``cache`` only saves the database round trip.
     """
     memo = cache if cache is not None else {}
+    analyses = PageAnalyses(session)
+
+    def measure(
+        unit: CatalogUnit, entry: CatalogEntry, offset: int
+    ) -> tuple[str, dict[str, Any]] | None:
+        subject = unit_subject(unit.unit_key, offset)
+        persist = _PERSISTABLE_UNIT.match(unit.unit_key) is not None
+        if persist:
+            stored = analyses.get(subject, analyzer.info)
+            if stored is not None:
+                return stored.locator, stored.result
+        found = read_page(unit, entry, offset)
+        if found is None:
+            return None
+        locator, data = found
+        result = analyzer.analyze_page(data).as_dict()
+        if persist:
+            analyses.record(
+                subject,
+                locator=locator,
+                analyzer=analyzer.info,
+                result=result,
+                content_sha256=hashlib.sha256(data).hexdigest(),
+            )
+        return locator, result
 
     def candidates(series: Sequence[str], pool: int) -> list[GrammarCandidate]:
         out: list[GrammarCandidate] = []
@@ -2167,23 +2196,20 @@ def catalog_grammar_candidates(
             for unit, entry in rows[::stride][:per_series]:
                 offset = max(1, (unit.page_count or 2) // 2)
                 key = f"{unit.unit_key}:{offset}"
-                if key in memo:
-                    out.append(memo[key])
-                    continue
-                found = read_page(unit, entry, offset)
-                if found is None:
-                    continue
-                locator, data = found
                 if key not in memo:
-                    layout = analyze(data)
+                    measured = measure(unit, entry, offset)
+                    if measured is None:
+                        continue
+                    locator, result = measured
+                    measures = result.get("measures") or {}
                     memo[key] = GrammarCandidate(
                         locator=locator,
                         series_key=series_key,
                         label=f"{unit.label} p{offset + 1}",
-                        panel_count=layout.panel_count,
-                        largest_panel_share=round(layout.largest_panel_share, 4),
-                        negative_space=layout.negative_space,
-                        ink_density=layout.ink_density,
+                        panel_count=int(measures.get("panel_count", 0)),
+                        largest_panel_share=round(float(measures.get("largest_panel_share", 0)), 4),
+                        negative_space=float(measures.get("negative_space", 0)),
+                        ink_density=float(measures.get("ink_density", 0)),
                         unit_key=unit.unit_key,
                         page_offset=offset,
                     )
@@ -2191,6 +2217,10 @@ def catalog_grammar_candidates(
         return out
 
     return candidates
+
+
+#: Unit keys the analysis store can key on (content-derived hex digests).
+_PERSISTABLE_UNIT = re.compile(r"^[0-9a-f]{16,64}$")
 
 
 def source_page_reader(

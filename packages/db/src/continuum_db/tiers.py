@@ -83,4 +83,5 @@ TABLE_REGISTRY: dict[str, tuple[float, Tier]] = {
     "character_production_evidence": (3, Tier.C_PROJECT),
     "character_model_sheet_attempt": (3, Tier.D_GENERATED),
     "external_resource": (3, Tier.B_INTERPRETATION),
+    "page_analysis": (3, Tier.B_INTERPRETATION),
 }

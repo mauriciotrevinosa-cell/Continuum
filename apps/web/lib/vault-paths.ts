@@ -51,6 +51,7 @@ const ALLOWED: RegExp[] = [
   new RegExp(`^library/character-observations/${UUID}/(review|environment|image|visual-origin)$`),
   new RegExp(`^library/characters/${UUID}/model-builder$`),
   new RegExp(`^library/external-resources(/import|/[a-z0-9][a-z0-9._-]{1,79}/decision)?$`),
+  new RegExp(`^library/page-analysis(/jobs)?$`),
   new RegExp(`^library/character-model-sheet-attempts$`),
   new RegExp(`^library/character-model-sheet-attempts/${UUID}/(review|image)$`),
 ];

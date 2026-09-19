@@ -244,6 +244,8 @@ class TestApiSurfaceIsPhaseZeroOnly:
             "/library/external-resources",
             "/library/external-resources/import",
             "/library/external-resources/{key}/decision",
+            "/library/page-analysis",
+            "/library/page-analysis/jobs",
             "/production/pages/{page_id}/construction",
             "/production/pages/{page_id}/construction/{panel}/{stage}/attempts",
             "/production/stage-attempts/{attempt_id}/review",

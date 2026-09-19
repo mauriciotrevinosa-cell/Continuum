@@ -543,6 +543,12 @@ export type ExternalResource = {
   updated_at: string | null;
 };
 
+export type PageAnalysisSummary = {
+  analyses: { analyzer_id: string; analyzer_version: string; pages: number }[];
+  analyzers: string[];
+  series: string[];
+};
+
 export type ExternalResourceListing = {
   resources: ExternalResource[];
   intake_roots: { key: string; collection: string }[];
@@ -552,6 +558,7 @@ export type ExternalResourceListing = {
 
 export const vault = {
   externalResources: () => read<ExternalResourceListing>("/library/external-resources"),
+  pageAnalysis: () => read<PageAnalysisSummary>("/library/page-analysis"),
   references: (filters: Record<string, string | undefined>) =>
     read<ReferenceView[]>(`/library/references${q({ limit: 200, ...filters })}`),
   reference: (id: string) => read<ReferenceView>(`/library/references/${encodeURIComponent(id)}`),

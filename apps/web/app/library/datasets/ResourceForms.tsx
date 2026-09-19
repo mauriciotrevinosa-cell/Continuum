@@ -157,3 +157,24 @@ export function ResourceDecision({
     </details>
   );
 }
+
+/** Queue a durable analysis of the grammar sample with the local analyzer. */
+export function AnalysePages({ series }: { series: number }) {
+  const { busy, error, done, run } = useAction();
+  const analyse = () =>
+    run(
+      () =>
+        vaultFetch<{ job_id: string; created: boolean }>("library/page-analysis/jobs", {
+          json: { series_keys: [], per_series: 12, analyzer_id: "local.gutter-layout" },
+        }),
+      "Analysis queued. Follow it under Jobs; pages already analysed are skipped.",
+    );
+  return (
+    <div className="stack" style={{ gap: 6 }}>
+      <button className="button small" type="button" disabled={busy || !series} onClick={analyse}>
+        {busy ? "Queuing…" : `Analyse grammar pages (${series} series)`}
+      </button>
+      <Feedback error={error} done={done} />
+    </div>
+  );
+}

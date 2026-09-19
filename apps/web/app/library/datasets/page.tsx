@@ -1,7 +1,7 @@
 import { ApiUnreachableError } from "@/lib/api";
-import { type ExternalResourceListing, vault, words } from "@/lib/vault";
+import { type ExternalResourceListing, type PageAnalysisSummary, vault, words } from "@/lib/vault";
 import { ApiDown, Empty, PageHead } from "../acquisition/_components/ui";
-import { ImportRegistry, ResourceDecision } from "./ResourceForms";
+import { AnalysePages, ImportRegistry, ResourceDecision } from "./ResourceForms";
 
 export const dynamic = "force-dynamic";
 
@@ -22,9 +22,10 @@ const ACCESS_TONE: Record<string, string> = {
  */
 export default async function DatasetsPage() {
   let listing: ExternalResourceListing | null = null;
+  let analysis: PageAnalysisSummary | null = null;
   let error: string | null = null;
   try {
-    listing = await vault.externalResources();
+    [listing, analysis] = await Promise.all([vault.externalResources(), vault.pageAnalysis()]);
   } catch (cause) {
     error = cause instanceof ApiUnreachableError ? cause.message : String(cause);
   }
@@ -39,6 +40,23 @@ export default async function DatasetsPage() {
         lead="What each resource is, its license, whether access was requested or granted, and what material from it may be used for. Retrieval, validation and training are separate decisions; an import never grants training."
         aside={<ImportRegistry />}
       />
+      {analysis ? (
+        <section className="surface panel stack" aria-label="Page analysis" style={{ marginBottom: 14 }}>
+          <div className="spread">
+            <strong>Page analysis</strong>
+            <AnalysePages series={analysis.series.length} />
+          </div>
+          <p className="hint" style={{ margin: 0 }}>
+            Panels and reading order measured per page and analyzer version, stored once - never
+            pixels. Analyzers: {analysis.analyzers.join(", ")}.
+          </p>
+          <p style={{ margin: 0 }}>
+            {analysis.analyses.length
+              ? analysis.analyses.map((a) => `${a.analyzer_id} v${a.analyzer_version}: ${a.pages} pages`).join(" · ")
+              : "No pages analysed yet."}
+          </p>
+        </section>
+      ) : null}
       {resources.length ? (
         <div className="stack" style={{ gap: 12 }}>
           {resources.map((r) => (

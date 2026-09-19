@@ -55,6 +55,7 @@ from continuum_providers import build_default_registry
 from continuum_storage import build_storage
 from sqlalchemy.orm import Session
 
+from continuum_worker.handlers.analysis import PageAnalysisHandler
 from continuum_worker.handlers.catalog import (
     CatalogHashHandler,
     CatalogScanHandler,
@@ -95,6 +96,7 @@ def register_default_handlers() -> None:
         CatalogHashHandler(),
         CollectionImportHandler(),
         MemberExtractHandler(),
+        PageAnalysisHandler(),
     ):
         if handler.job_type not in known:
             registry.register(handler)

@@ -75,13 +75,13 @@ from continuum_library import (
     CatalogNotFoundError,
     ReferenceCatalog,
 )
-from continuum_library.analysis import PageAnalyses, unit_subject
 from continuum_library.validation import clean_text, require_project_key
 from continuum_providers.analysis import MangaPageAnalyzer
 from continuum_storage import ProjectLibrary, SourceChangedError, SourceUnavailableError
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
+from continuum_production.analysis_jobs import grammar_sample, measure_page
 from continuum_production.calibration import CALIBRATION_SCHEMA, calibration_body, parse_calibration
 from continuum_production.character_models import CharacterModels
 from continuum_production.corpus import CharacterCorpus, page_needs, setting_tags
@@ -2148,79 +2148,32 @@ def catalog_grammar_candidates(
     process - and the in-process ``cache`` only saves the database round trip.
     """
     memo = cache if cache is not None else {}
-    analyses = PageAnalyses(session)
-
-    def measure(
-        unit: CatalogUnit, entry: CatalogEntry, offset: int
-    ) -> tuple[str, dict[str, Any]] | None:
-        subject = unit_subject(unit.unit_key, offset)
-        persist = _PERSISTABLE_UNIT.match(unit.unit_key) is not None
-        if persist:
-            stored = analyses.get(subject, analyzer.info)
-            if stored is not None:
-                return stored.locator, stored.result
-        found = read_page(unit, entry, offset)
-        if found is None:
-            return None
-        locator, data = found
-        result = analyzer.analyze_page(data).as_dict()
-        if persist:
-            analyses.record(
-                subject,
-                locator=locator,
-                analyzer=analyzer.info,
-                result=result,
-                content_sha256=hashlib.sha256(data).hexdigest(),
-            )
-        return locator, result
 
     def candidates(series: Sequence[str], pool: int) -> list[GrammarCandidate]:
         out: list[GrammarCandidate] = []
-        if not series:
-            return out
-        per_series = max(1, pool // len(series))
-        for series_key in series:
-            rows = session.execute(
-                select(CatalogUnit, CatalogEntry)
-                .join(CatalogEntry, CatalogEntry.id == CatalogUnit.entry_id)
-                .where(
-                    CatalogUnit.series_key == series_key,
-                    CatalogUnit.kind == UnitKind.MANGA_CHAPTER,
-                    CatalogEntry.duplicate_of_id.is_(None),
+        for series_key, unit, entry, offset in grammar_sample(session, series, pool):
+            key = f"{unit.unit_key}:{offset}"
+            if key not in memo:
+                measured = measure_page(session, read_page, analyzer, unit, entry, offset)
+                if measured is None:
+                    continue
+                locator, result, _fresh = measured
+                measures = result.get("measures") or {}
+                memo[key] = GrammarCandidate(
+                    locator=locator,
+                    series_key=series_key,
+                    label=f"{unit.label} p{offset + 1}",
+                    panel_count=int(measures.get("panel_count", 0)),
+                    largest_panel_share=round(float(measures.get("largest_panel_share", 0)), 4),
+                    negative_space=float(measures.get("negative_space", 0)),
+                    ink_density=float(measures.get("ink_density", 0)),
+                    unit_key=unit.unit_key,
+                    page_offset=offset,
                 )
-                .order_by(CatalogUnit.sort_key)
-            ).all()
-            if not rows:
-                continue
-            stride = max(1, len(rows) // per_series)
-            for unit, entry in rows[::stride][:per_series]:
-                offset = max(1, (unit.page_count or 2) // 2)
-                key = f"{unit.unit_key}:{offset}"
-                if key not in memo:
-                    measured = measure(unit, entry, offset)
-                    if measured is None:
-                        continue
-                    locator, result = measured
-                    measures = result.get("measures") or {}
-                    memo[key] = GrammarCandidate(
-                        locator=locator,
-                        series_key=series_key,
-                        label=f"{unit.label} p{offset + 1}",
-                        panel_count=int(measures.get("panel_count", 0)),
-                        largest_panel_share=round(float(measures.get("largest_panel_share", 0)), 4),
-                        negative_space=float(measures.get("negative_space", 0)),
-                        ink_density=float(measures.get("ink_density", 0)),
-                        unit_key=unit.unit_key,
-                        page_offset=offset,
-                    )
-                out.append(memo[key])
+            out.append(memo[key])
         return out
 
     return candidates
-
-
-#: Unit keys the analysis store can key on (content-derived hex digests).
-_PERSISTABLE_UNIT = re.compile(r"^[0-9a-f]{16,64}$")
 
 
 def source_page_reader(

@@ -11,10 +11,17 @@ from __future__ import annotations
 from typing import Annotated, Any
 
 from continuum_core.knowledge import AccessState, KnowledgeUse
+from continuum_db.models import PageAnalysis
 from continuum_library.resources import ExternalResources, resource_view
+from continuum_production.analysis_jobs import (
+    ANALYZERS,
+    grammar_series,
+    request_page_analysis,
+)
 from fastapi import APIRouter, Request
 from fastapi import Path as PathParam
 from pydantic import BaseModel, ConfigDict, Field
+from sqlalchemy import func, select
 
 from continuum_api.routers.library import StrictBody, catalog_scope
 
@@ -112,3 +119,48 @@ def decide_resource(request: Request, key: ResourceKey, body: DecisionIn) -> dic
         catalog.session.flush()
         counts = resources.item_counts()
         return resource_view(row, counts.get(row.intake_root_key or "", 0))
+
+
+# ---------------------------------------------------------------------------
+# Page analysis (analyzer boundary)
+# ---------------------------------------------------------------------------
+class AnalysisJobIn(StrictBody):
+    #: Catalogued series keys; empty = every series with enough chapters.
+    series_keys: list[str] = Field(default_factory=list, max_length=40)
+    per_series: int = Field(default=12, ge=1, le=200)
+    analyzer_id: str = Field(default="local.gutter-layout", max_length=80)
+
+
+@router.get("/library/page-analysis")
+def page_analysis_summary(request: Request) -> dict[str, Any]:
+    """How many pages each analyzer version has analysed, and what can be analysed."""
+    with catalog_scope(request) as catalog:
+        rows = catalog.session.execute(
+            select(PageAnalysis.analyzer_id, PageAnalysis.analyzer_version, func.count())
+            .group_by(PageAnalysis.analyzer_id, PageAnalysis.analyzer_version)
+            .order_by(PageAnalysis.analyzer_id, PageAnalysis.analyzer_version)
+        ).all()
+        return {
+            "analyses": [
+                {"analyzer_id": a, "analyzer_version": v, "pages": int(n)} for a, v, n in rows
+            ],
+            "analyzers": sorted(ANALYZERS),
+            "series": grammar_series(catalog.session),
+        }
+
+
+@router.post("/library/page-analysis/jobs", status_code=202)
+def request_analysis(request: Request, body: AnalysisJobIn) -> dict[str, Any]:
+    """Queue a durable analysis of the grammar sample (one page per unit, resumable)."""
+    with catalog_scope(request) as catalog:
+        job, created = request_page_analysis(
+            catalog.session,
+            series_keys=body.series_keys,
+            per_series=body.per_series,
+            analyzer_id=body.analyzer_id,
+        )
+        return {
+            "job_id": str(job.id),
+            "created": created,
+            "series": list(job.payload.get("series_keys") or []),
+        }

@@ -191,3 +191,45 @@ def test_the_store_is_idempotent_and_refuses_paths(world: Phase15World) -> None:
         with pytest.raises(CatalogInputError):
             store.record("C:/pages/1.png", locator="x", analyzer=analyzer, result=result())
         session.rollback()
+
+
+def test_the_analysis_job_resumes_without_rereading(world: Phase15World) -> None:
+    from continuum_db.models import Job
+    from continuum_production.analysis_jobs import request_page_analysis
+    from continuum_worker import register_default_handlers
+    from continuum_worker.main import Worker
+
+    settings = world.settings()
+    register_default_handlers()
+    with session_scope(settings) as session:
+        chapters = _chapters(session, "demo-series", 3)
+        # Two pages were analysed before (an earlier job, or grammar retrieval).
+        store = PageAnalyses(session)
+        info = GutterLayoutAnalyzer.info
+        body = GutterLayoutAnalyzer().analyze_page(THREE_PANELS).as_dict()
+        for unit, _entry in chapters[:2]:
+            store.record(
+                unit_subject(unit.unit_key, 4),
+                locator=f"unit:{unit.unit_key}:4",
+                analyzer=info,
+                result=body,
+            )
+        job, created = request_page_analysis(session, series_keys=["demo-series"], per_series=3)
+        again, created_again = request_page_analysis(
+            session, series_keys=["demo-series"], per_series=3
+        )
+        session.commit()
+        job_id = job.id
+    assert created and not created_again and again.id == job_id
+
+    worker = Worker(settings)
+    worker.register()
+    ran = 0
+    while ran < 5 and worker.run_once():
+        ran += 1
+    with session_scope(settings) as session:
+        finished = session.get(Job, job_id)
+        assert finished is not None and finished.status.value == "SUCCEEDED"
+        stored = session.execute(select(func.count()).select_from(PageAnalysis)).scalar_one()
+        # The third chapter has no bytes in this synthetic catalog: reported, not fatal.
+        assert stored == 2

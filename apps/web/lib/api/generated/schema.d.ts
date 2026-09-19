@@ -1826,6 +1826,46 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/library/page-analysis": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Page Analysis Summary
+         * @description How many pages each analyzer version has analysed, and what can be analysed.
+         */
+        get: operations["page_analysis_summary_library_page_analysis_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/library/page-analysis/jobs": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Request Analysis
+         * @description Queue a durable analysis of the grammar sample (one page per unit, resumable).
+         */
+        post: operations["request_analysis_library_page_analysis_jobs_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/library/panel-sources/{panel_source_id}/remove": {
         parameters: {
             query?: never;
@@ -3393,6 +3433,21 @@ export interface components {
             test: boolean;
             /** Url */
             url: string;
+        };
+        /** AnalysisJobIn */
+        AnalysisJobIn: {
+            /**
+             * Analyzer Id
+             * @default local.gutter-layout
+             */
+            analyzer_id: string;
+            /**
+             * Per Series
+             * @default 12
+             */
+            per_series: number;
+            /** Series Keys */
+            series_keys?: string[];
         };
         /**
          * ApprovalState
@@ -10118,6 +10173,63 @@ export interface operations {
         responses: {
             /** @description Successful Response */
             201: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    page_analysis_summary_library_page_analysis_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+        };
+    };
+    request_analysis_library_page_analysis_jobs_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["AnalysisJobIn"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            202: {
                 headers: {
                     [name: string]: unknown;
                 };

@@ -7,6 +7,7 @@
  * through this app's allowlisted /vault-api passage.
  */
 
+import type { components } from "./api/generated/schema";
 import { API_BASE, ApiUnreachableError } from "./api";
 import type { Region } from "./regions";
 
@@ -53,7 +54,28 @@ export const TECHNIQUE_FACETS = [
   "NIGHT_RENDERING",
   "CINEMATOGRAPHY",
   "MOTION_LANGUAGE",
+  // Visual Knowledge functions: how a drawing problem is solved.
+  "ANATOMY",
+  "HANDS",
+  "CLOTHING",
+  "POSE",
+  "PERSPECTIVE",
+  "COMPOSITION",
+  "QUIET_ACTING",
+  "ARCHITECTURE",
+  "MATERIALS",
+  "MAGIC",
+  "FX",
+  "LINEART",
+  "COLOR",
+  "MANGA_GRAMMAR",
+  "PROCESS",
 ] as const;
+// The list above must name exactly the API's technique facets: typecheck fails otherwise.
+type ApiTechniqueFacet = components["schemas"]["TechniqueFacet"];
+type Missing = Exclude<ApiTechniqueFacet, (typeof TECHNIQUE_FACETS)[number]>;
+type Unknown = Exclude<(typeof TECHNIQUE_FACETS)[number], ApiTechniqueFacet>;
+export const TECHNIQUE_FACETS_MATCH_API: [Missing, Unknown] extends [never, never] ? true : never = true;
 export const DESCRIPTOR_FACETS = [
   "ERA",
   "SEASON_WEATHER",

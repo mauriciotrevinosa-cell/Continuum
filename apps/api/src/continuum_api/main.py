@@ -45,6 +45,7 @@ from continuum_api.routers import (
     corpus,
     health,
     jobs,
+    knowledge,
     library,
     manga,
     media,
@@ -166,6 +167,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     app.include_router(production.router)
     app.include_router(manga.router)
     app.include_router(corpus.router)
+    app.include_router(knowledge.router)
     app.include_router(catalog.router)
     app.include_router(continue_controls.router)
     app.include_router(project_inputs.router)

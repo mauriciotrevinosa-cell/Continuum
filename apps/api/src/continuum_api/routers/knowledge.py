@@ -126,7 +126,7 @@ def decide_resource(request: Request, key: ResourceKey, body: DecisionIn) -> dic
 # ---------------------------------------------------------------------------
 class AnalysisJobIn(StrictBody):
     #: Catalogued series keys; empty = every series with enough chapters.
-    series_keys: list[str] = Field(default_factory=list, max_length=40)
+    series_keys: list[str] = Field(default_factory=list, max_length=200)
     per_series: int = Field(default=12, ge=1, le=200)
     analyzer_id: str = Field(default="local.gutter-layout", max_length=80)
 

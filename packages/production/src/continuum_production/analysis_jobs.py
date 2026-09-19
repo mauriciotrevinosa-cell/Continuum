@@ -43,7 +43,7 @@ ANALYZE_PAGES_JOB = "visual.analyze_pages"
 ANALYZERS: dict[str, Callable[[], MangaPageAnalyzer]] = {
     GutterLayoutAnalyzer.info.id: GutterLayoutAnalyzer,
 }
-MAX_SERIES = 40
+MAX_SERIES = 200
 MAX_PER_SERIES = 200
 #: Unit keys the analysis store can key on (content-derived hex digests).
 _PERSISTABLE_UNIT = re.compile(r"^[0-9a-f]{16,64}$")

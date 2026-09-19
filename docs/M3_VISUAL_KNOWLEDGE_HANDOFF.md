@@ -19,6 +19,7 @@
 | Comfy stage backend | `ComfyPageProvider.render_stage`, `stage_workflow_manifest` | Init-latent preservation, per-stage denoise; GPU-unvalidated. |
 | Analyzer boundary | `continuum_providers.analysis` (`MangaPageAnalyzer`, `local.gutter-layout`), `rtl_reading_order` | |
 | Persisted page analysis | table `page_analysis` (0018), `continuum_library.analysis.PageAnalyses` | Grammar candidates read stored analyses: API restart page view 1.6 s (was 12–25 s). |
+| Page-analysis job | `visual.analyze_pages` (`continuum_production.analysis_jobs`, worker `handlers/analysis.py`), `GET /library/page-analysis`, `POST /library/page-analysis/jobs`, button on `/library/datasets` | One page per unit, idempotent, resumable. Run on this machine: 594 units, 593 pages over 50 series. |
 
 ## Local state (this machine)
 
@@ -29,6 +30,8 @@
 * CAL-01 of calibration run `01a0b218-29f9-76b7-aff4-24e17d358af3`: COMPOSITION frozen (test render),
   DRAWING attempt 1 in review. The page was **not** composed there on purpose: composing adds a page
   attempt, which would displace the Comfy artwork as the page's newest attempt before creator review.
+* `rough-completion` no longer 500s on calibration (`7c8f7c9`); construction stages are never listed or
+  counted as rough panels.
 * Test isolation bug fixed (`ff9691c`): the suite used to write into the app DB. 13 fixture profiles
   created by a test run were soft-retired (`scripts/retire_m3_test_character_pollution.py --apply`);
   leftover `demo-project` production runs/artifacts remain (harmless, other project key) — ask the
@@ -49,8 +52,8 @@
 3. **Tag Visual Knowledge**: the real catalog has almost no technique tags (4 TECHNIQUE refs). Stage
    packs are only as good as the tags - tag architecture/materials/lighting/lineart exemplars; mark
    house-style exemplars as "preferred for current look".
-4. **Analyzer indexing job** (`visual.analyze_pages`): pre-analyse a series or intake root with any
-   analyzer, record `ANALYSIS` descriptors (PANEL_GEOMETRY, CHARACTER_COUNT) on references.
+4. **Analyzer descriptors on references** - the page-analysis job exists; next, record `ANALYSIS`
+   descriptors (PANEL_GEOMETRY, CHARACTER_COUNT) on sorted references so retrieval can use them.
 5. **Pretrained analyzers** behind `MangaPageAnalyzer`: `manga-panel-detector-yolo26n` (Apache-2.0,
    Manga109-s terms apply) first, then compare RT-DETR; record `resource_key` so the registry's
    allowed uses gate them (VALIDATOR).

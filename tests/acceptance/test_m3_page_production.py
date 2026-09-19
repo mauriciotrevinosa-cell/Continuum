@@ -648,8 +648,35 @@ def test_backend_honesty_and_grammar_ranking() -> None:
     )
     gaps = capability_gaps(caps, request)
     assert any("condition identity" in g for g in gaps)
-    assert any("accepts 2" in g for g in gaps)
     assert any("one master" in g for g in gaps)
+    # The reference budget is what the backend conditions on, not a cap on the
+    # bundle: three references of one character fit a two-image budget...
+    assert not any("identity coverage" in g for g in gaps)
+    # ...but three distinct characters cannot all get identity evidence.
+    ensemble = PageRenderRequest(
+        page_key="p",
+        width=100,
+        height=140,
+        seed=1,
+        page={},
+        plan={},
+        continuity={},
+        references=tuple(
+            ArtworkReference(role="CANON", reference_id=name, data=b"", character=name)
+            for name in ("Rowan", "Ilse", "Tamsin")
+        ),
+        settings={},
+    )
+    conditioned = ArtworkCapabilities(
+        output=RenderOutput.ARTWORK_CANDIDATE,
+        max_reference_images=2,
+        identity_conditioning=True,
+        sibling_finishes=True,
+    )
+    assert capability_gaps(conditioned, ensemble) == [
+        "the page needs identity coverage for 3 characters; "
+        "this backend can condition at most 2 reference images"
+    ]
 
     # A four-panel page and a splash page, measured and ranked by page intent.
     four = Image.new("L", (400, 600), 255)

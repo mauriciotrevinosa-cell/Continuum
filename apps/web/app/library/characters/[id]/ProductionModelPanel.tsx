@@ -111,7 +111,7 @@ export function ProductionModelPanel({
             <div className="field compact">
               <label>
                 Name
-                <input value={name} onChange={(e) => setName(e.target.value)} placeholder="The Arrivals Production Model v1" style={{ width: "100%" }} />
+                <input value={name} onChange={(e) => setName(e.target.value)} placeholder="Production Model v1" style={{ width: "100%" }} />
               </label>
             </div>
           </div>

@@ -48,5 +48,5 @@ def test_real_calibration_document_parses_all_18_pages_and_extra_bullets() -> No
         "Rimuru",
     )
     assert len(by_id["CAL-17"].extra["page_construction"]) == 5
-    assert by_id["CAL-18"].characters == ("Mau", "Frieren")
+    assert by_id["CAL-18"].characters == ("Frieren", "Mau")
     assert len(by_id["CAL-18"].extra["page_construction"]) == 5

@@ -194,7 +194,7 @@ def test_panel_prompt_forbids_model_lettering_and_scopes_identity() -> None:
         settings={
             "creator_notes": "Keep the timing crystal clear.",
             "character_context": {
-                "Yuta": {"source_label": "Jujutsu Kaisen", "origin": "SOURCE_WORK"}
+                "Yuta": {"source_label": "Invented Chronicle", "origin": "SOURCE_WORK"}
             },
         },
     )
@@ -209,7 +209,7 @@ def test_panel_prompt_forbids_model_lettering_and_scopes_identity() -> None:
     )
     assert "solo" in positive
     assert "yuta" in positive
-    assert "jujutsu kaisen" in positive
+    assert "invented chronicle" in positive
     assert "medium shot" in positive
     assert "attacking" in positive
     assert "masterpiece" in positive

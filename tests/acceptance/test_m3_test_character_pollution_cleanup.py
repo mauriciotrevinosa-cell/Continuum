@@ -43,7 +43,7 @@ def test_direct_script_entrypoint_imports_successfully() -> None:
 def test_fixture_pollution_retires_without_moving_linked_rows(db_session: Session) -> None:
     catalog = ReferenceCatalog(db_session)
     canonical_frieren = catalog.create_character(
-        "Frieren", source_label="Frieren: Beyond Journey's End"
+        "Frieren", source_label="Canonical Source Work"
     )
     polluted_frieren = catalog.create_character("Frieren", source_label="Invented Almanac")
     polluted_robe = catalog.create_outfit(

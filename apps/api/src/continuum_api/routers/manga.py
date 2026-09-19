@@ -17,6 +17,7 @@ from continuum_core.references import ReviewDecision, RoughPurpose
 from continuum_db.models import PageDependency, ProductionPage, ProductionProfile, ProductionRun
 from continuum_imaging.manga import analyze_layout
 from continuum_production import RoughProduction, attempt_view
+from continuum_production.layered import PanelConstruction
 from continuum_production.manga import (
     GrammarCandidate,
     MangaProduction,
@@ -120,6 +121,26 @@ class PageReviewIn(StrictBody):
     decision: ReviewDecision
     notes: str = Field(default="", max_length=8000)
     seed: int | None = Field(default=None, ge=0, le=2**31 - 1)
+
+
+class StageReviewIn(StrictBody):
+    #: FREEZE approves the stage as the base of the next one.
+    decision: str = Field(pattern=r"^(FREEZE|REJECT|REGENERATE)$")
+    notes: str = Field(default="", max_length=4000)
+    seed: int | None = Field(default=None, ge=0, le=2**31 - 1)
+
+
+class ComposeIn(StrictBody):
+    notes: str = Field(default="", max_length=8000)
+
+
+Stage = Annotated[
+    str,
+    PathParam(
+        pattern=r"^(COMPOSITION|DRAWING|LINE|VALUE_MATERIAL|LIGHT_SHADOW|FX"
+        r"|ENVIRONMENT_INTEGRATION|FINISH)$"
+    ),
+]
 
 
 class CastIn(StrictBody):
@@ -490,3 +511,57 @@ def review_page_attempt(
             "page": _page_summary(manga, page),
             "regenerated": attempt_view(manga.rough, new) if new is not None else None,
         }
+
+
+# ---------------------------------------------------------------------------
+# Layered panel construction
+# ---------------------------------------------------------------------------
+@router.get("/production/pages/{page_id}/construction")
+def page_construction(request: Request, page_id: uuid.UUID) -> dict[str, Any]:
+    """Every panel's contract and construction stages: state, attempts, reference pack."""
+    with manga_scope(request) as manga:
+        return PanelConstruction(manga).view(page_id)
+
+
+@router.post("/production/pages/{page_id}/construction/{panel}/{stage}/attempts", status_code=202)
+def request_stage_attempt(
+    request: Request,
+    page_id: uuid.UUID,
+    panel: Annotated[int, PathParam(ge=1, le=64)],
+    stage: Stage,
+    body: PageAttemptIn,
+) -> dict[str, Any]:
+    """Render one stage on the frozen stage before it."""
+    with manga_scope(request) as manga:
+        construction = PanelConstruction(manga)
+        attempt = construction.request_stage(
+            page_id, panel, stage, seed=body.seed, notes=body.notes
+        )
+        return {"attempt_id": str(attempt.id), **construction.view(page_id)}
+
+
+@router.post("/production/stage-attempts/{attempt_id}/review")
+def review_stage_attempt(
+    request: Request, attempt_id: uuid.UUID, body: StageReviewIn
+) -> dict[str, Any]:
+    """FREEZE, REJECT or REGENERATE a stage attempt."""
+    with manga_scope(request) as manga:
+        construction = PanelConstruction(manga)
+        attempt, created = construction.review_stage(
+            attempt_id, body.decision, notes=body.notes, seed=body.seed
+        )
+        recipe = manga.rough.recipe(attempt.recipe_id)
+        page_id = uuid.UUID(recipe.intent["page_id"])
+        return {
+            "attempt_id": str(attempt.id),
+            "new_attempt_id": str(created.id) if created else None,
+            **construction.view(page_id),
+        }
+
+
+@router.post("/production/pages/{page_id}/compose", status_code=202)
+def compose_page(request: Request, page_id: uuid.UUID, body: ComposeIn) -> dict[str, Any]:
+    """Compose the page from every panel's frozen last stage (deterministic, no diffusion)."""
+    with manga_scope(request) as manga:
+        attempt = PanelConstruction(manga).compose(page_id, notes=body.notes)
+        return attempt_view(manga.rough, attempt)

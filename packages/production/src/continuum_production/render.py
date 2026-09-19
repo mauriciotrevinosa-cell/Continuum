@@ -51,6 +51,7 @@ from continuum_storage import SourceChangedError, SourceUnavailableError
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
+from continuum_production.layered import COMPOSE_SCHEMA, STAGE_SCHEMA
 from continuum_production.recipe import CHANGING
 
 __all__ = ["SourceAssetMissingError", "render_attempt"]
@@ -85,6 +86,11 @@ def render_attempt(
     recipe = session.get(GenerationRecipe, attempt.recipe_id)
     artifact = session.get(RoughArtifact, attempt.artifact_id)
     assert recipe is not None and artifact is not None
+    schema = (recipe.intent or {}).get("schema")
+    if schema == STAGE_SCHEMA:
+        return _render_stage(session, attempt, recipe, catalog=catalog, providers=providers)
+    if schema == COMPOSE_SCHEMA:
+        return _compose_page(session, attempt, recipe, catalog=catalog)
     if attempt.production_page_id is not None:
         return _render_page(session, attempt, recipe, catalog=catalog, providers=providers)
     intent, execution = recipe.intent, recipe.execution
@@ -485,3 +491,188 @@ def _render_page(
     attempt.generated_at = dt.datetime.now(dt.UTC)
     session.flush()
     return {"attempt_id": str(attempt.id), "content_hash": master, "provider_id": provider_id}
+
+
+def _render_stage(
+    session: Session,
+    attempt: RoughAttempt,
+    recipe: GenerationRecipe,
+    *,
+    catalog: ReferenceCatalog,
+    providers: ProviderRegistry,
+) -> dict[str, Any]:
+    """One construction stage of one panel, built on the frozen upstream it names."""
+    from continuum_imaging.stages import structure_drift
+    from continuum_providers.artwork import ArtworkReference
+    from continuum_providers.stages import (
+        PanelStageProvider,
+        PanelStageRequest,
+        check_stage_result,
+        stage_gaps,
+    )
+
+    intent, execution = recipe.intent, recipe.execution
+    provider_id = str(execution.get("provider_id") or "fake.deterministic-stage")
+    provider = providers.get(provider_id)
+    if not isinstance(provider, PanelStageProvider):
+        raise ProviderUnavailableError(
+            f"{provider_id} cannot draw construction stages.",
+            remediation="Name a stage backend (backend.stage_provider_id) in the profile.",
+            blocked_reason=BlockedReason.MISSING_PROVIDER.value,
+        )
+    inputs = list(
+        session.execute(
+            select(AttemptInput)
+            .where(AttemptInput.attempt_id == attempt.id)
+            .order_by(AttemptInput.position)
+        ).scalars()
+    )
+    upstream_row = next((r for r in inputs if r.role is BundleRole.UPSTREAM_STAGE), None)
+    upstream = _input_bytes(session, catalog, upstream_row) if upstream_row else None
+    upstream_prov = dict(upstream_row.provenance or {}) if upstream_row else {}
+    references = tuple(
+        ArtworkReference(
+            role=row.role.value,
+            reference_id=str(row.reference_id) if row.reference_id else row.locator,
+            data=_input_bytes(session, catalog, row),
+            character=None,
+            teaches=tuple((row.provenance or {}).get("matched_facets") or ()),
+            provenance=dict(row.provenance or {}),
+        )
+        for row in inputs
+        if row.role is not BundleRole.UPSTREAM_STAGE
+    )
+    stage = str(intent["stage"]["stage"])
+    request = PanelStageRequest(
+        stage=stage,
+        contract=intent["contract"],
+        stage_contract=intent["stage"],
+        width=int(execution["width"]),
+        height=int(execution["height"]),
+        seed=int(execution["seed"]),
+        upstream=upstream,
+        upstream_stage=(intent.get("upstream") or {}).get("stage"),
+        references=references,
+        settings={
+            **(execution.get("backend_settings") or {}),
+            "control_inputs": execution.get("control_inputs") or [],
+            "creator_notes": str(intent.get("creator_notes") or ""),
+        },
+    )
+    gaps = stage_gaps(provider.stage_capabilities, request)
+    if (
+        upstream_prov.get("output_class") == RenderOutput.TEST_RENDER.value
+        and provider.stage_capabilities.output is RenderOutput.ARTWORK_CANDIDATE
+    ):
+        gaps.append("an artwork stage cannot build on a test diagram; freeze an artwork upstream")
+    if gaps:
+        raise ProviderUnavailableError(
+            f"{provider_id} cannot draw {stage}: " + "; ".join(gaps),
+            remediation="Use a stage backend that covers this stage, or change the profile.",
+            blocked_reason=BlockedReason.MISSING_PROVIDER.value,
+        )
+    result = provider.render_stage(request)
+    problems = check_stage_result(request, result)
+    if problems:
+        raise ProviderUnavailableError(
+            "The stage result was refused: " + "; ".join(problems),
+            remediation="Fix the backend so a stage keeps the frozen geometry it was given.",
+            blocked_reason=BlockedReason.MISSING_MODEL.value,
+        )
+    drift = structure_drift(upstream, result.image.data) if upstream is not None else None
+    upstream_sha = upstream_prov.get("sha256")
+    output = _store_derivative(
+        session,
+        catalog,
+        attempt,
+        DerivativeKind.OUTPUT,
+        result.image.data,
+        {"stage": stage, "upstream_sha256": upstream_sha, "structure_drift": drift},
+    )
+    attempt.artwork_provenance = {
+        **result.provenance,
+        "backend": result.backend.value,
+        "provider_id": result.provider_id,
+        "stage": stage,
+        "upstream_sha256": upstream_sha,
+        "structure_drift": drift,
+        "references": [{"role": r.role, "reference_id": r.reference_id} for r in references],
+    }
+    attempt.output_class = RenderOutput(result.output)
+    attempt.state = AttemptState.GENERATED
+    attempt.content_hash = output
+    attempt.mime = result.image.mime
+    attempt.width = result.image.width
+    attempt.height = result.image.height
+    attempt.generated_at = dt.datetime.now(dt.UTC)
+    session.flush()
+    return {"attempt_id": str(attempt.id), "content_hash": output, "stage": stage}
+
+
+def _compose_page(
+    session: Session,
+    attempt: RoughAttempt,
+    recipe: GenerationRecipe,
+    *,
+    catalog: ReferenceCatalog,
+) -> dict[str, Any]:
+    """A page composed from frozen panel finishes: deterministic, no diffusion."""
+    from continuum_imaging.manga import bw_finish, compose_manga_page
+
+    intent, execution = recipe.intent, recipe.execution
+    rows = list(
+        session.execute(
+            select(AttemptInput)
+            .where(
+                AttemptInput.attempt_id == attempt.id,
+                AttemptInput.role == BundleRole.UPSTREAM_STAGE,
+            )
+            .order_by(AttemptInput.position)
+        ).scalars()
+    )
+    panels = [_input_bytes(session, catalog, row) for row in rows]
+    width, height = int(execution["width"]), int(execution["height"])
+    master = compose_manga_page(panels, width, height)
+    bw = bw_finish(master.data)
+    detail: dict[str, Any] = {
+        "panels": [p["attempt_id"] for p in intent["panels"]],
+        "reading_order": "RTL",
+    }
+    master_hash = _store_derivative(
+        session, catalog, attempt, DerivativeKind.COMPOSITION_MASTER, master.data, detail
+    )
+    detail = {**detail, "master_sha256": master_hash}
+    _store_derivative(session, catalog, attempt, DerivativeKind.OUTPUT, master.data, detail)
+    _store_derivative(session, catalog, attempt, DerivativeKind.BW_FINISH, bw.data, detail)
+    # Color is the panel composite itself: no whole-page re-diffusion.
+    _store_derivative(session, catalog, attempt, DerivativeKind.COLOR_FINISH, master.data, detail)
+    artwork = all(
+        p.get("output_class") == RenderOutput.ARTWORK_CANDIDATE.value for p in intent["panels"]
+    )
+    panel_provenance = {}
+    for p in intent["panels"]:
+        source = session.get(RoughAttempt, uuid.UUID(p["attempt_id"]))
+        prov = (source.artwork_provenance or {}) if source is not None else {}
+        panel_provenance[str(p["panel"])] = {
+            key: prov.get(key) for key in ("backend", "provider_id", "model", "workflow", "seed")
+        }
+    attempt.artwork_provenance = {
+        "backend": "CONTINUUM_COMPOSE",
+        "provider_id": "continuum.compose",
+        "model": {"name": "deterministic page composition", "panels": panel_provenance},
+        "workflow": {"id": "continuum.page-compose", "version": "1"},
+        "settings": {"width": width, "height": height, "reading_order": "RTL"},
+        "master_sha256": master_hash,
+        "panels": intent["panels"],
+        "bw_finish": "line-preserving continuum_imaging.manga.bw_finish",
+        "color_finish": "deterministic panel composite; no whole-page re-diffusion",
+    }
+    attempt.output_class = RenderOutput.ARTWORK_CANDIDATE if artwork else RenderOutput.TEST_RENDER
+    attempt.state = AttemptState.GENERATED
+    attempt.content_hash = master_hash
+    attempt.mime = master.mime
+    attempt.width = master.width
+    attempt.height = master.height
+    attempt.generated_at = dt.datetime.now(dt.UTC)
+    session.flush()
+    return {"attempt_id": str(attempt.id), "content_hash": master_hash, "composed": True}

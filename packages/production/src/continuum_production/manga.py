@@ -35,7 +35,7 @@ import hashlib
 import re
 import uuid
 from collections import Counter
-from collections.abc import Callable, Mapping, Sequence
+from collections.abc import Callable, Collection, Mapping, Sequence
 from dataclasses import dataclass
 from typing import Any
 
@@ -1204,6 +1204,86 @@ class MangaProduction:
             entry["matched"].append(value)
         return list(found.values())[:limit]
 
+    def character_inputs(
+        self, bundle: dict[str, Any], characters: Collection[str] | None = None
+    ) -> list[dict[str, Any]]:
+        """The bundle's identity and wardrobe inputs resolved to locators.
+
+        For every character, or only the named ones (a panel's cast). Rows are
+        numbered from 0; a caller adding more inputs continues from ``len()``.
+        """
+        wanted = set(characters) if characters is not None else None
+        inputs: list[dict[str, Any]] = []
+        character_ids = {c["name"]: uuid.UUID(c["character_id"]) for c in bundle["characters"]}
+        for entry in bundle["canon_inputs"]:
+            if wanted is not None and entry["character"] not in wanted:
+                continue
+            observation = self.corpus.observation(uuid.UUID(entry["observation_id"]))
+            resolved = self.corpus.resolve(observation)
+            if resolved is None:
+                continue
+            locator, reference_id = resolved
+            item = self.catalog.reference(reference_id) if reference_id else None
+            inputs.append(
+                {
+                    "position": len(inputs),
+                    "role": BundleRole(entry["role"]),
+                    "reference_id": reference_id,
+                    "locator": locator,
+                    "unit_index": item.unit_index if item else None,
+                    "region": None,
+                    "character_id": character_ids[entry["character"]],
+                    "outfit_id": uuid.UUID(entry["outfit_id"]) if entry.get("outfit_id") else None,
+                    "aspect": None,
+                    "label": f"{entry['character']} - {entry['authority'].lower()}"[:300],
+                    "provenance": {
+                        "observation_id": entry["observation_id"],
+                        "authority": entry["authority"],
+                        "status": entry["status"],
+                        "facets": entry["facets"],
+                        "why": entry["why"],
+                        **(
+                            {
+                                "production_model_id": entry["production_model_id"],
+                                "production_evidence_role": entry["production_evidence_role"],
+                            }
+                            if entry.get("production_model_id")
+                            else {}
+                        ),
+                        **({"origin": item.origin.value} if item else {"kind": "source_page"}),
+                    },
+                }
+            )
+        for entry in bundle.get("wardrobe_inputs", []):
+            if wanted is not None and entry["character"] not in wanted:
+                continue
+            reference_id = uuid.UUID(entry["reference_id"])
+            item = self.catalog.reference(reference_id)
+            inputs.append(
+                {
+                    "position": len(inputs),
+                    "role": BundleRole.WARDROBE,
+                    "reference_id": reference_id,
+                    "locator": item.locator,
+                    "unit_index": item.unit_index,
+                    "region": None,
+                    "character_id": uuid.UUID(entry["wearer_character_id"]),
+                    "outfit_id": uuid.UUID(entry["outfit_id"]),
+                    "aspect": None,
+                    "label": f"{entry['character']} wears {entry['name']}"[:300],
+                    "provenance": {
+                        "owner_character_id": entry["owner_character_id"],
+                        "wearer_character_id": entry["wearer_character_id"],
+                        "borrowed": entry["borrowed"],
+                        "condition": entry["condition"],
+                        "stage": entry["stage"],
+                        "why": entry["why"],
+                        "identity_evidence": False,
+                    },
+                }
+            )
+        return inputs
+
     def request_page_attempt(
         self, page_id: uuid.UUID, *, seed: int | None = None, notes: str = ""
     ) -> RoughAttempt:
@@ -1244,71 +1324,7 @@ class MangaProduction:
         self._record_dependencies(page, self.page_body(page), profile)
         bundle = self.assemble(page)
         artifact = self.rough._lock_artifact(page.artifact_id)
-        inputs: list[dict[str, Any]] = []
-        character_ids = {c["name"]: uuid.UUID(c["character_id"]) for c in bundle["characters"]}
-        for entry in bundle["canon_inputs"]:
-            observation = self.corpus.observation(uuid.UUID(entry["observation_id"]))
-            resolved = self.corpus.resolve(observation)
-            if resolved is None:
-                continue
-            locator, reference_id = resolved
-            item = self.catalog.reference(reference_id) if reference_id else None
-            inputs.append(
-                {
-                    "position": len(inputs),
-                    "role": BundleRole(entry["role"]),
-                    "reference_id": reference_id,
-                    "locator": locator,
-                    "unit_index": item.unit_index if item else None,
-                    "region": None,
-                    "character_id": character_ids[entry["character"]],
-                    "outfit_id": uuid.UUID(entry["outfit_id"]) if entry.get("outfit_id") else None,
-                    "aspect": None,
-                    "label": f"{entry['character']} - {entry['authority'].lower()}"[:300],
-                    "provenance": {
-                        "observation_id": entry["observation_id"],
-                        "authority": entry["authority"],
-                        "status": entry["status"],
-                        "facets": entry["facets"],
-                        "why": entry["why"],
-                        **(
-                            {
-                                "production_model_id": entry["production_model_id"],
-                                "production_evidence_role": entry["production_evidence_role"],
-                            }
-                            if entry.get("production_model_id")
-                            else {}
-                        ),
-                        **({"origin": item.origin.value} if item else {"kind": "source_page"}),
-                    },
-                }
-            )
-        for entry in bundle.get("wardrobe_inputs", []):
-            reference_id = uuid.UUID(entry["reference_id"])
-            item = self.catalog.reference(reference_id)
-            inputs.append(
-                {
-                    "position": len(inputs),
-                    "role": BundleRole.WARDROBE,
-                    "reference_id": reference_id,
-                    "locator": item.locator,
-                    "unit_index": item.unit_index,
-                    "region": None,
-                    "character_id": uuid.UUID(entry["wearer_character_id"]),
-                    "outfit_id": uuid.UUID(entry["outfit_id"]),
-                    "aspect": None,
-                    "label": f"{entry['character']} wears {entry['name']}"[:300],
-                    "provenance": {
-                        "owner_character_id": entry["owner_character_id"],
-                        "wearer_character_id": entry["wearer_character_id"],
-                        "borrowed": entry["borrowed"],
-                        "condition": entry["condition"],
-                        "stage": entry["stage"],
-                        "why": entry["why"],
-                        "identity_evidence": False,
-                    },
-                }
-            )
+        inputs = self.character_inputs(bundle)
         for offset, grammar in enumerate(bundle["grammar"], start=len(inputs)):
             inputs.append(
                 {

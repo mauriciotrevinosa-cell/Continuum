@@ -110,6 +110,10 @@ class DataClass(StrEnum):
     USER_NOTE = "USER_NOTE"
     """The user's own annotations."""
 
+    PROJECT_MEDIA = "PROJECT_MEDIA"
+    """Images the user or the project made: creator references, approved project
+    art, images the user created or commissioned, Continuum's own stage outputs."""
+
     SYNTHETIC = "SYNTHETIC"
     """Fixtures and tests. Unrestricted."""
 

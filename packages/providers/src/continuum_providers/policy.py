@@ -12,7 +12,9 @@ escalation options *gated by the active profile*, not a default pipeline.
 
 from __future__ import annotations
 
+from collections.abc import Mapping
 from dataclasses import dataclass
+from typing import Any
 
 from continuum_config import ProductionProfile
 from continuum_core import BlockedReason
@@ -25,7 +27,13 @@ from continuum_providers.contracts import (
     ProviderDescriptor,
 )
 
-__all__ = ["PolicyDecision", "ProviderPolicy", "profile_allows"]
+__all__ = [
+    "PolicyDecision",
+    "ProviderPolicy",
+    "profile_allows",
+    "reference_data_class",
+    "transmission_refusal",
+]
 
 
 #: What each production profile permits. FREE_LOCAL is the shipped default
@@ -157,3 +165,57 @@ class ProviderPolicy:
             )
         )
         return PolicyDecision(provider_id=permitted[0].id, permitted=True)
+
+
+#: Reference origins whose images are someone else's published work.
+_THIRD_PARTY_ORIGINS = frozenset({"SOURCE", "OFFICIAL_ART", "FAN_ART"})
+#: Corpus authorities that mean "the source work or its official art".
+_THIRD_PARTY_AUTHORITIES = frozenset({"PRIMARY_SOURCE", "OFFICIAL"})
+#: Origins the user or the project produced.
+_PROJECT_ORIGINS = frozenset({"USER_CREATED", "GENERATED", "PROJECT_APPROVED"})
+
+
+def reference_data_class(provenance: Mapping[str, Any]) -> DataClass:
+    """What a reference image is, judged from the provenance snapshotted with it.
+
+    Fails closed: an image whose provenance does not say it is the project's own
+    is treated as a verbatim source excerpt.
+    """
+    origin = str(provenance.get("origin") or "")
+    authority = str(provenance.get("authority") or "")
+    if (
+        origin in _THIRD_PARTY_ORIGINS
+        or authority in _THIRD_PARTY_AUTHORITIES
+        or provenance.get("kind") == "source_page"
+    ):
+        return DataClass.SOURCE_EXCERPT
+    if origin in _PROJECT_ORIGINS or authority in {"PROJECT_CREATED", "CREATOR_PRIMARY"}:
+        return DataClass.PROJECT_MEDIA
+    if provenance.get("attempt_id") and provenance.get("sha256"):
+        # A Continuum stage or page output (an upstream stage, a frozen finish).
+        return DataClass.PROJECT_MEDIA
+    return DataClass.SOURCE_EXCERPT
+
+
+def transmission_refusal(
+    provenance: Mapping[str, Any],
+    locality: Locality,
+    *,
+    source_excerpts_allowed: bool = False,
+) -> str | None:
+    """Why one reference may not be sent to a provider at this locality, or None.
+
+    The per-reference form of the rule that ``SOURCE_EXCERPT`` never leaves the
+    machine: a remote request keeps every reference it may receive, and each one
+    it may not is withheld (and recorded) instead of blocking the whole request.
+    """
+    if locality is Locality.LOCAL:
+        return None
+    data_class = reference_data_class(provenance)
+    if data_class in _NEVER_REMOTE and not source_excerpts_allowed:
+        if not provenance.get("origin") and not provenance.get("authority"):
+            return (
+                "its provenance does not show it is the project's own; treated as a source excerpt"
+            )
+        return "a source excerpt (third-party published work) never leaves this machine"
+    return None

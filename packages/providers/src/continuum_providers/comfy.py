@@ -38,11 +38,18 @@ from continuum_providers.artwork import (
 from continuum_providers.contracts import (
     Capability,
     CostClass,
+    DataClass,
     Locality,
     PrivacyClass,
     ProviderDescriptor,
 )
-from continuum_providers.stages import PanelStageRequest, PanelStageResult, StageCapabilities
+from continuum_providers.policy import reference_data_class, transmission_refusal
+from continuum_providers.stages import (
+    PanelStageRequest,
+    PanelStageResult,
+    StageCapabilities,
+    scene_references,
+)
 
 __all__ = [
     "CORE_NODES",
@@ -258,7 +265,7 @@ def _color_graph() -> dict[str, Any]:
 #: its layer without redrawing the structure it was given. No control net yet: the
 #: upstream is held by the init latent only, and drift is measured on every result.
 STAGE_WORKFLOW_ID = "continuum.comfy.panel-stage"
-STAGE_WORKFLOW_VERSION = "1"
+STAGE_WORKFLOW_VERSION = "2"
 STAGE_DENOISE: dict[str, float] = {
     "DRAWING": 0.42,
     "LINE": 0.3,
@@ -267,6 +274,14 @@ STAGE_DENOISE: dict[str, float] = {
     "FX": 0.38,
     "ENVIRONMENT_INTEGRATION": 0.3,
     "FINISH": 0.22,
+}
+#: How the scene lane is applied per purpose: IP-Adapter weight type and weight.
+#: A separate adapter node from every identity lane, so setting and style are
+#: never averaged into a character's identity.
+SCENE_CONDITIONING: dict[str, tuple[str, float]] = {
+    "COMPOSITION": ("composition", 0.8),
+    "STYLE_AND_COMPOSITION": ("style and composition", 0.6),
+    "STYLE": ("style transfer", 0.5),
 }
 STAGE_TAGS: dict[str, tuple[str, ...]] = {
     "COMPOSITION": ("clear composition", "readable silhouettes"),
@@ -285,6 +300,7 @@ def stage_workflow_manifest() -> dict[str, str]:
         "first_stage": _master_graph(),
         "later_stages": _color_graph(),
         "denoise": STAGE_DENOISE,
+        "scene_conditioning": {key: list(value) for key, value in SCENE_CONDITIONING.items()},
         "tags": {key: list(value) for key, value in STAGE_TAGS.items()},
         "identity": list(IDENTITY_NODES),
     }
@@ -936,6 +952,11 @@ class ComfyPageProvider:
             stages=frozenset({"COMPOSITION", *STAGE_DENOISE}),
             preserves_upstream=True,
             identity_conditioning=status.identity_conditioning,
+            reference_conditioning=status.identity_conditioning,
+            source_excerpts=(
+                self.config.backend is not ArtworkBackendKind.COMFY_REMOTE
+                or self.config.allow_source_excerpts
+            ),
             seeded=True,
             max_edge=self.config.max_edge,
             available=status.ready,
@@ -987,6 +1008,27 @@ class ComfyPageProvider:
                 remediation="Start ComfyUI (or the remote GPU session) and check the checkpoint.",
                 blocked_reason=BlockedReason.MISSING_PROVIDER.value,
             )
+        # Defense in depth: Continuum already withholds what this backend may not
+        # receive; anything that still arrives is withheld here, never uploaded.
+        withheld: list[dict[str, Any]] = []
+        usable: list[ArtworkReference] = []
+        for reference in request.references:
+            reason = transmission_refusal(
+                reference.provenance or {},
+                self.descriptor.locality,
+                source_excerpts_allowed=self.config.allow_source_excerpts,
+            )
+            if reason is None:
+                usable.append(reference)
+            else:
+                withheld.append(
+                    {
+                        "reference_id": reference.reference_id,
+                        "role": reference.role,
+                        "reason": reason,
+                    }
+                )
+        request = replace(request, references=tuple(usable))
         candidates = [
             r for r in request.references if (r.provenance or {}).get("status") == "CANDIDATE"
         ]
@@ -995,23 +1037,16 @@ class ComfyPageProvider:
             for r in request.references
             if r.role == "CANON" and r.character and r not in candidates
         ]
-        if (
-            self.config.backend is ArtworkBackendKind.COMFY_REMOTE
-            and not self.config.allow_source_excerpts
-        ):
-            excerpts = [
-                r
-                for r in request.references
-                if r.role != "UPSTREAM_STAGE" and _is_source_excerpt(r)
-            ]
-            if excerpts:
-                raise ProviderUnavailableError(
-                    f"The stage pack holds {len(excerpts)} source excerpt(s); the remote "
-                    "backend may not receive them.",
-                    remediation="Render locally, or explicitly allow source excerpts remotely.",
-                    blocked_reason=BlockedReason.MISSING_PROVIDER.value,
-                )
         cast = {str(name) for name in request.contract.get("cast") or []}
+        ungrounded = sorted(cast - {str(r.character) for r in identity})
+        if ungrounded:
+            # Never draw a cast member from setting, style or technique images alone.
+            raise ProviderUnavailableError(
+                f"No identity evidence this backend may receive for {', '.join(ungrounded)}.",
+                remediation="Confirm project-created references, or render on a local backend.",
+                blocked_reason=BlockedReason.MISSING_SOURCE_ASSET.value,
+                missing_safe_identity=ungrounded,
+            )
         sent = (
             _select_identity_references(
                 [r for r in identity if r.character in cast],
@@ -1020,6 +1055,17 @@ class ComfyPageProvider:
             if status.identity_conditioning and cast
             else []
         )
+        purpose, scene, not_conditioned = scene_references(request)
+        if scene and not status.identity_conditioning:
+            not_conditioned.extend(
+                {
+                    "reference_id": r.reference_id,
+                    "role": r.role,
+                    "reason": "this ComfyUI lacks the IP-Adapter nodes for image conditioning",
+                }
+                for r in scene
+            )
+            scene = []
         positive, negative = self._stage_prompts(request)
         denoise = STAGE_DENOISE.get(request.stage, 0.3)
         values: dict[str, Any] = {
@@ -1044,8 +1090,9 @@ class ComfyPageProvider:
             values["master"] = self._upload(f"continuum-stage-{digest[:24]}.png", request.upstream)
             graph = _fill(_color_graph(), values)
             denoise_used = denoise
-        if sent:
-            self._add_identity_chain(graph, sent, uploaded)
+        scene_type, scene_weight = SCENE_CONDITIONING[purpose.value]
+        if sent or scene:
+            self._add_reference_lanes(graph, sent, scene, scene_type, scene_weight, uploaded)
         data = self._run(graph)
         produced = probe(data)
         width, height = produced.width, produced.height
@@ -1087,10 +1134,104 @@ class ComfyPageProvider:
                     "lettering": "disabled; Continuum owns text after artwork",
                 },
                 "seed": request.seed,
+                "conditioning": {
+                    "identity": {
+                        name: [r.reference_id for r in sent if r.character == name]
+                        for name in sorted({str(r.character) for r in sent})
+                    },
+                    "scene": {
+                        "purpose": purpose.value,
+                        "mechanism": f"IP-Adapter weight_type={scene_type!r}",
+                        "weight": scene_weight,
+                        "references": [r.reference_id for r in scene],
+                    }
+                    if scene
+                    else None,
+                },
+                "references_transmitted": [r.reference_id for r in [*scene, *sent]],
+                "references_not_conditioned": not_conditioned,
+                "references_withheld": withheld,
                 "identity_references_sent": [r.reference_id for r in sent],
                 "candidates_not_used_for_identity": [r.reference_id for r in candidates],
             },
         )
+
+    def _add_reference_lanes(
+        self,
+        graph: dict[str, Any],
+        identity: Sequence[ArtworkReference],
+        scene: Sequence[ArtworkReference],
+        scene_type: str,
+        scene_weight: float,
+        uploaded_cache: dict[str, str],
+    ) -> None:
+        """A scene lane and one identity lane per character, as separate adapters.
+
+        The scene lane (setting, house style) is one IP-Adapter with a composition
+        or style weight type; each named character then gets its own adapter. No
+        image is ever in two lanes, and the scene lane never carries a character.
+        """
+        graph["20"] = {
+            "class_type": "IPAdapterUnifiedLoader",
+            "inputs": {"model": ["4", 0], "preset": self.config.ipadapter_preset},
+        }
+        model: list[Any] = ["20", 0]
+        counters = {"load": 100, "batch": 300, "adapter": 500}
+
+        def next_id(kind: str) -> str:
+            counters[kind] += 1
+            return str(counters[kind] - 1)
+
+        def batch(group: Sequence[ArtworkReference]) -> list[Any]:
+            images: list[list[Any]] = []
+            for reference in group:
+                digest = _sha(reference.data)
+                name = uploaded_cache.get(digest)
+                if name is None:
+                    name = self._upload(f"continuum-{digest[:24]}.png", reference.data)
+                    uploaded_cache[digest] = name
+                node = next_id("load")
+                graph[node] = {"class_type": "LoadImage", "inputs": {"image": name}}
+                images.append([node, 0])
+            joined = images[0]
+            for image in images[1:]:
+                node = next_id("batch")
+                graph[node] = {
+                    "class_type": "ImageBatch",
+                    "inputs": {"image1": joined, "image2": image},
+                }
+                joined = [node, 0]
+            return joined
+
+        def adapter(images: list[Any], weight: float, weight_type: str, end_at: float) -> None:
+            nonlocal model
+            node = next_id("adapter")
+            graph[node] = {
+                "class_type": "IPAdapterAdvanced",
+                "inputs": {
+                    "model": model,
+                    "ipadapter": ["20", 1],
+                    "image": images,
+                    "weight": weight,
+                    "weight_type": weight_type,
+                    "combine_embeds": "average",
+                    "start_at": 0.0,
+                    "end_at": end_at,
+                    "embeds_scaling": "V only",
+                },
+            }
+            model = [node, 0]
+
+        if scene:
+            adapter(batch(scene), scene_weight, scene_type, 1.0)
+        groups: dict[str, list[ArtworkReference]] = {}
+        for reference in identity:
+            if reference.character:
+                groups.setdefault(reference.character, []).append(reference)
+        identity_weight = self.config.ipadapter_weight / max(1.0, len(groups) ** 0.25)
+        for group in groups.values():
+            adapter(batch(group), identity_weight, "linear", 0.85)
+        graph["3"]["inputs"]["model"] = model
 
 
 def _sha(data: bytes) -> str:
@@ -1098,12 +1239,7 @@ def _sha(data: bytes) -> str:
 
 
 def _is_source_excerpt(reference: ArtworkReference) -> bool:
-    provenance = reference.provenance or {}
-    return (
-        provenance.get("authority") in {"PRIMARY_SOURCE", "OFFICIAL"}
-        or provenance.get("origin") in {"SOURCE", "OFFICIAL_ART", "FAN_ART"}
-        or provenance.get("kind") == "source_page"
-    )
+    return reference_data_class(reference.provenance or {}) is DataClass.SOURCE_EXCERPT
 
 
 def configured_providers(settings: Any) -> list[ComfyPageProvider]:

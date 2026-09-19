@@ -174,7 +174,7 @@ class TestMigrationRoundTrip:
         home = str(db_settings.data_home)
         _alembic("upgrade", "head", data_home=home)
         current = _alembic("current", data_home=home)
-        assert "0013_m3_calibration_purpose (head)" in current.stdout
+        assert "0017_layered_panel_stages (head)" in current.stdout
 
 
 @pytest.mark.requires_db

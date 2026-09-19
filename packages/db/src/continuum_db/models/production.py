@@ -27,6 +27,7 @@ from continuum_core.references import (
     BundleRole,
     CharacterAspect,
     DerivativeKind,
+    PanelStage,
     RenderOutput,
     ReviewDecision,
     RoughArtifactKind,
@@ -90,6 +91,12 @@ class RoughArtifact(Base):
     panel_script_document: Mapped[str | None] = mapped_column(String(80), nullable=True)
     panel_script_version: Mapped[str | None] = mapped_column(String(20), nullable=True)
     brief: Mapped[str] = mapped_column(Text, nullable=False, default="")
+    #: M3 layered construction: the construction stage of a panel this artifact
+    #: holds (COMPOSITION ... FINISH). Each stage keeps its own attempts, reviews
+    #: and approvals. NULL for a whole page or a single-pass panel.
+    stage: Mapped[PanelStage | None] = mapped_column(
+        enum_type(PanelStage, "panel_stage"), nullable=True
+    )
     created_at: Mapped[dt.datetime] = mapped_column(
         TimestampTz, nullable=False, server_default=func.now()
     )
@@ -98,6 +105,7 @@ class RoughArtifact(Base):
         CheckConstraint("page >= 1 AND (panel IS NULL OR panel >= 1)", name="page_panel_positive"),
         CheckConstraint("(kind = 'PANEL') = (panel IS NOT NULL)", name="panel_kind_has_panel"),
         CheckConstraint("chapter IS NULL OR chapter >= 1", name="chapter_positive"),
+        CheckConstraint("stage IS NULL OR kind = 'PANEL'", name="stage_is_a_panel_stage"),
         UniqueConstraint(
             "project_key",
             "purpose",
@@ -106,6 +114,7 @@ class RoughArtifact(Base):
             "page",
             "panel",
             "kind",
+            "stage",
             postgresql_nulls_not_distinct=True,
         ),
         Index("ix_rough_artifact_project_key", "project_key"),

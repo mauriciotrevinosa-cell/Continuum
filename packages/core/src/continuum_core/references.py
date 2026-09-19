@@ -36,6 +36,7 @@ __all__ = [
     "OutfitKind",
     "OutfitReviewStatus",
     "PanelSourceRole",
+    "PanelStage",
     "ProjectStanding",
     "ReferenceClass",
     "ReferenceOrigin",
@@ -185,6 +186,31 @@ class TechniqueFacet(StrEnum):
     NIGHT_RENDERING = "NIGHT_RENDERING"
     CINEMATOGRAPHY = "CINEMATOGRAPHY"
     MOTION_LANGUAGE = "MOTION_LANGUAGE"
+    # Visual Knowledge functions (M3): how a drawing problem is solved. A
+    # technique reference for HANDS teaches how hands are drawn; it never says
+    # what any character's hands look like (that is a character aspect).
+    ANATOMY = "ANATOMY"
+    """Figure, face and hair construction."""
+    HANDS = "HANDS"
+    CLOTHING = "CLOTHING"
+    """Garment construction and folds - technique, never a character's wardrobe."""
+    POSE = "POSE"
+    """Pose and gesture construction."""
+    PERSPECTIVE = "PERSPECTIVE"
+    COMPOSITION = "COMPOSITION"
+    """Composition inside one panel (PAGE_COMPOSITION is the whole page)."""
+    QUIET_ACTING = "QUIET_ACTING"
+    ARCHITECTURE = "ARCHITECTURE"
+    MATERIALS = "MATERIALS"
+    MAGIC = "MAGIC"
+    FX = "FX"
+    """Particles, smoke, rain, speed and impact effects."""
+    LINEART = "LINEART"
+    COLOR = "COLOR"
+    MANGA_GRAMMAR = "MANGA_GRAMMAR"
+    """Panel rhythm, flow and pacing across a page."""
+    PROCESS = "PROCESS"
+    """How an image is built stage by stage (construction to finish)."""
 
 
 class DescriptorFacet(StrEnum):
@@ -251,6 +277,10 @@ class BundleRole(StrEnum):
     WARDROBE = "WARDROBE"
     """A garment a character wears at a story stage. Never identity: a borrowed
     garment keeps its owner and never transfers the owner's identity to the wearer."""
+    UPSTREAM_STAGE = "UPSTREAM_STAGE"
+    """The frozen output of the previous construction stage of the same panel.
+    A later stage builds on it and may change only what its stage contract lists
+    as editable; everything the upstream stage protects stays as approved."""
 
 
 class RoughMode(StrEnum):
@@ -285,6 +315,33 @@ class EditOperationKind(StrEnum):
 class RoughArtifactKind(StrEnum):
     PANEL = "PANEL"
     PAGE = "PAGE"
+
+
+class PanelStage(StrEnum):
+    """A logical stage of layered panel construction, in build order.
+
+    Each stage is its own artifact with its own attempts and approvals. An
+    approved (frozen) stage is the input of the next one; changing a stage makes
+    every stage after it stale and leaves every stage before it valid. Lettering
+    is not a stage: Continuum letters pages after artwork, never a renderer.
+    """
+
+    COMPOSITION = "COMPOSITION"
+    """Camera, subject placement, silhouettes, depth, perspective, basic pose."""
+    DRAWING = "DRAWING"
+    """Anatomy, faces, hands, hair, clothing geometry, props, construction."""
+    LINE = "LINE"
+    """Clean contours, interior detail, folds, material boundaries."""
+    VALUE_MATERIAL = "VALUE_MATERIAL"
+    """Major value masses and material separation."""
+    LIGHT_SHADOW = "LIGHT_SHADOW"
+    """Illumination, cast shadows, depth separation, atmosphere."""
+    FX = "FX"
+    """Magic, particles, motion and impact effects."""
+    ENVIRONMENT_INTEGRATION = "ENVIRONMENT_INTEGRATION"
+    """Background completion, contact shadows, environmental interaction."""
+    FINISH = "FINISH"
+    """Ink/screentone or approved color finish; cleanup that redraws nothing."""
 
 
 class RoughPurpose(StrEnum):

@@ -1,0 +1,291 @@
+{
+  "schema": "continuum.external-dataset-registry/0.1",
+  "updated_at": "2026-09-19",
+  "entries": [
+    {
+      "id": "manga109-s-v2026",
+      "priority": "A",
+      "kind": "dataset",
+      "status": "evaluate_first",
+      "urls": [
+        "https://manga109.github.io/manga109-project-website/en/",
+        "https://huggingface.co/datasets/hal-utokyo/Manga109-s"
+      ],
+      "scope": [
+        "manga_fundamentals",
+        "panel_layout",
+        "body_face_text_regions",
+        "retrieval",
+        "validators",
+        "training_candidate"
+      ],
+      "access": "gated",
+      "license_summary": "Manga109-s terms; ML/image-processing experiments allowed; commercial use of experiment results permitted under conditions; redistribution of dataset forbidden.",
+      "bytes_in_git": false,
+      "training_default": "candidate_requires_local_license_acceptance"
+    },
+    {
+      "id": "manga109-public-annotations",
+      "priority": "A",
+      "kind": "annotations",
+      "status": "evaluate_first",
+      "urls": [
+        "https://github.com/manga109/public-annotations"
+      ],
+      "scope": [
+        "speaker_text",
+        "onomatopoeia",
+        "character_count",
+        "background_labels",
+        "validators"
+      ],
+      "access": "public",
+      "license_summary": "Annotation subsets include CC BY 4.0; image-dependent uses still inherit Manga109 image terms.",
+      "bytes_in_git": "metadata_code_only",
+      "training_default": "annotations_only_review"
+    },
+    {
+      "id": "manga109-panel-order-estimator",
+      "priority": "A",
+      "kind": "tool",
+      "status": "evaluate_first",
+      "urls": [
+        "https://github.com/manga109/panel-order-estimator"
+      ],
+      "scope": [
+        "rtl_reading_order",
+        "layout_baseline"
+      ],
+      "access": "public",
+      "license_summary": "MIT code; requires panel bounding boxes.",
+      "bytes_in_git": "dependency_or_vendor_decision_later",
+      "training_default": "not_training_data"
+    },
+    {
+      "id": "diffsensei",
+      "priority": "A",
+      "kind": "model_and_code",
+      "status": "research_candidate",
+      "urls": [
+        "https://github.com/jianzongwu/DiffSensei",
+        "https://jianzongwu.github.io/projects/diffsensei/",
+        "https://huggingface.co/jianzongwu/DiffSensei"
+      ],
+      "scope": [
+        "customized_manga_generation",
+        "identity_conditioning",
+        "masked_cross_attention",
+        "panel_renderer_candidate"
+      ],
+      "access": "public",
+      "license_summary": "Repository/model card marked MIT; third-party checkpoints/dependencies retain own terms.",
+      "bytes_in_git": false,
+      "training_default": "not_dataset"
+    },
+    {
+      "id": "mangazero",
+      "priority": "A",
+      "kind": "annotations_with_external_image_urls",
+      "status": "research_candidate_rights_review",
+      "urls": [
+        "https://huggingface.co/datasets/jianzongwu/MangaZero",
+        "https://github.com/jianzongwu/DiffSensei"
+      ],
+      "scope": [
+        "manga_panel_annotations",
+        "character_interactions",
+        "generation_research"
+      ],
+      "access": "public_annotations",
+      "license_summary": "HF annotation card marked MIT, but source manga images are not redistributed and are fetched from MangaDex; image rights are not granted by annotation license.",
+      "bytes_in_git": false,
+      "training_default": "blocked_until_image_rights_review"
+    },
+    {
+      "id": "mangadiffusion-manga109story",
+      "priority": "A",
+      "kind": "research_dataset_method",
+      "status": "architecture_reference",
+      "urls": [
+        "https://siyuch-fdu.github.io/MangaDiffusion/",
+        "https://github.com/siyuch-fdu/MangaDiffusion",
+        "https://arxiv.org/abs/2412.19303"
+      ],
+      "scope": [
+        "story_to_panels",
+        "panel_captioning",
+        "layout_generation",
+        "inter_panel_coherence"
+      ],
+      "access": "research_project",
+      "license_summary": "Built from Manga109 ecosystem; production use must obey underlying Manga109 terms. Public repo currently minimal.",
+      "bytes_in_git": false,
+      "training_default": "not_approved"
+    },
+    {
+      "id": "magi",
+      "priority": "B",
+      "kind": "model_and_tool",
+      "status": "development_analyzer_candidate",
+      "urls": [
+        "https://github.com/ragavsachdeva/magi"
+      ],
+      "scope": [
+        "panel_detection",
+        "reading_order",
+        "text_detection",
+        "character_detection",
+        "ocr",
+        "speaker_matching"
+      ],
+      "access": "public",
+      "license_summary": "Repository states provided models/datasets are for academic research only.",
+      "bytes_in_git": false,
+      "training_default": "research_only"
+    },
+    {
+      "id": "anime2sketch",
+      "priority": "B",
+      "kind": "tool",
+      "status": "preprocessing_candidate",
+      "urls": [
+        "https://github.com/Mukosame/Anime2Sketch"
+      ],
+      "scope": [
+        "lineart_derivative",
+        "sketch_extraction"
+      ],
+      "access": "public",
+      "license_summary": "Repository released under MIT.",
+      "bytes_in_git": false,
+      "training_default": "not_training_data"
+    },
+    {
+      "id": "human-art",
+      "priority": "B",
+      "kind": "dataset",
+      "status": "research_only_candidate",
+      "urls": [
+        "https://github.com/IDEA-Research/HumanArt"
+      ],
+      "scope": [
+        "artistic_pose",
+        "human_detection",
+        "pose_validation"
+      ],
+      "access": "authorization_form",
+      "license_summary": "Available for non-commercial use under stated CC terms/application.",
+      "bytes_in_git": false,
+      "training_default": "research_only"
+    },
+    {
+      "id": "coco-wholebody",
+      "priority": "B",
+      "kind": "dataset_annotations",
+      "status": "research_only_candidate",
+      "urls": [
+        "https://github.com/jin-s13/COCO-WholeBody"
+      ],
+      "scope": [
+        "body_pose",
+        "hands",
+        "face",
+        "feet",
+        "validators"
+      ],
+      "access": "public_annotations",
+      "license_summary": "Annotations described as research/non-commercial; image copyright/terms are separate.",
+      "bytes_in_git": false,
+      "training_default": "research_only"
+    },
+    {
+      "id": "freihand",
+      "priority": "B",
+      "kind": "dataset",
+      "status": "research_only_candidate",
+      "urls": [
+        "https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html"
+      ],
+      "scope": [
+        "hand_pose",
+        "hand_shape",
+        "validator"
+      ],
+      "access": "public_download",
+      "license_summary": "Research purposes only; commercial use prohibited.",
+      "bytes_in_git": false,
+      "training_default": "research_only"
+    },
+    {
+      "id": "informative-drawings",
+      "priority": "B",
+      "kind": "tool_method",
+      "status": "preprocessing_reference",
+      "urls": [
+        "https://github.com/carolineec/informative-drawings"
+      ],
+      "scope": [
+        "line_drawing",
+        "geometry_aware_edges",
+        "semantic_lineart"
+      ],
+      "access": "public",
+      "license_summary": "Use repository license/dependency terms; method is primarily a line-drawing extractor/training approach.",
+      "bytes_in_git": false,
+      "training_default": "not_training_data"
+    },
+    {
+      "id": "ebdtheque",
+      "priority": "C",
+      "kind": "dataset",
+      "status": "restricted_benchmark_candidate",
+      "urls": [
+        "https://ebdtheque.univ-lr.fr/"
+      ],
+      "scope": [
+        "panels",
+        "balloons",
+        "characters",
+        "text_lines",
+        "reading_order"
+      ],
+      "access": "registration",
+      "license_summary": "Scientific/non-commercial computer-science use only unless separately approved.",
+      "bytes_in_git": false,
+      "training_default": "research_only"
+    },
+    {
+      "id": "amp-d",
+      "priority": "C",
+      "kind": "synthetic_dataset",
+      "status": "test_fixture_candidate",
+      "urls": [
+        "https://github.com/aasimsani/artificial_manga_panel_dataset",
+        "https://www.kaggle.com/datasets/aasimsani/ampd-base"
+      ],
+      "scope": [
+        "synthetic_layout",
+        "speech_balloons",
+        "parser_tests"
+      ],
+      "access": "public",
+      "license_summary": "Kaggle dataset lists LGPL-3.0; verify component/source terms before reuse.",
+      "bytes_in_git": false,
+      "training_default": "synthetic_test_only"
+    },
+    {
+      "id": "opensketch-unresolved",
+      "priority": "HOLD",
+      "kind": "unverified_reference",
+      "status": "do_not_adopt",
+      "urls": [],
+      "scope": [
+        "line_drawing"
+      ],
+      "access": "unknown",
+      "license_summary": "Google suggestion was too ambiguous; no canonical package matching the claim verified.",
+      "bytes_in_git": false,
+      "training_default": "blocked"
+    }
+  ]
+}

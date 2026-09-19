@@ -22,6 +22,10 @@
 - [Claude return handoff](./CLAUDE_RETURN_HANDOFF_v0.1.md)
 - [Work test plan](./WORK_TEST_PLAN_v0.1.md)
 
+## Implementation status (2026-09-19)
+- [Integration audit](../../M3_VISUAL_KNOWLEDGE_INTEGRATION_AUDIT.md) - what existing Continuum already solves, what was added.
+- [Handoff](../../M3_VISUAL_KNOWLEDGE_HANDOFF.md) - registry, VK facets and retrieval, layered construction (CAL-01 slice on the test backend), analyzer boundary, persisted analysis; next tasks.
+
 ## Current priority
 1. audit code after fresh pull;
 2. evaluate Manga109-s access/license locally;

@@ -331,6 +331,7 @@ def test_tests_and_production_are_separate_and_counted_apart(
         "production": {"artifacts": 1, "creative_approved": 1, "final_approved": 0},
         "workflow_tests": {"artifacts": 1, "technical_pass": 1},
         "non_canon_samples": {"artifacts": 1, "technical_pass": 1},
+        "calibration": {"artifacts": 0, "creative_approved": 0},
     }
 
 

@@ -477,6 +477,7 @@ export interface RoughCompletion {
   production: { artifacts: number; creative_approved: number; final_approved: number };
   workflow_tests: { artifacts: number; technical_pass: number };
   non_canon_samples: { artifacts: number; technical_pass: number };
+  calibration: { artifacts: number; creative_approved: number };
 }
 
 export interface Readiness {

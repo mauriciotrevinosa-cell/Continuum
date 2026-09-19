@@ -41,6 +41,7 @@ from continuum_library.catalog import TechniqueLink
 from continuum_production import RoughProduction
 from continuum_production.layered import PanelConstruction, panel_contracts
 from continuum_production.manga import MangaProduction
+from continuum_production.views import completion_view
 from continuum_providers.artwork import ArtworkBackendKind, RenderedImage
 from continuum_providers.stages import (
     PanelStageRequest,
@@ -267,6 +268,14 @@ def test_cal01_builds_freezes_invalidates_and_composes(
     view = construction.view(page.id)
     assert [s["state"] for s in view["panels"][0]["stages"]] == ["FROZEN"] * 6
     assert view["compose"]["ready"] is True
+
+    # Stages are parts of one panel: never listed or counted as rough panels.
+    listed = manga.rough.artifacts(PROJECT)
+    assert all(a.stage is None for a in listed)
+    assert len(manga.rough.artifacts(PROJECT, include_stages=True)) == len(listed) + 6
+    completion = completion_view(manga.rough, PROJECT)
+    assert completion["calibration"]["artifacts"] == len(listed)
+    assert completion["production"]["artifacts"] == 0
 
     # Changing LIGHT_SHADOW stales only what follows it.
     relit = construction.request_stage(page.id, 1, "LIGHT_SHADOW", seed=4242)

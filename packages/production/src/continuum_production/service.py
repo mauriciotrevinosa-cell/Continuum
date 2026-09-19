@@ -256,9 +256,17 @@ class RoughProduction:
         *,
         episode: str | None = None,
         purpose: RoughPurpose | None = None,
+        include_stages: bool = False,
     ) -> list[RoughArtifact]:
+        """A project's rough pages and panels.
+
+        Construction stages of a panel (layered construction) are parts of one
+        panel, not panels of their own: they are left out unless asked for.
+        """
         require_project_key(project_key)
         query = select(RoughArtifact).where(RoughArtifact.project_key == project_key)
+        if not include_stages:
+            query = query.where(RoughArtifact.stage.is_(None))
         if episode is not None:
             query = query.where(RoughArtifact.episode == episode)
         if purpose is not None:

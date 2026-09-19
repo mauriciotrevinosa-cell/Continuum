@@ -112,8 +112,10 @@ export default async function RoughsPage({ params }: { params: Promise<{ project
             <span className="muted">
               Not counted: {completion.workflow_tests.artifacts} workflow test
               {completion.workflow_tests.artifacts === 1 ? "" : "s"} ({completion.workflow_tests.technical_pass} with a
-              technical pass) and {completion.non_canon_samples.artifacts} non-canon sample
-              {completion.non_canon_samples.artifacts === 1 ? "" : "s"}.
+              technical pass), {completion.non_canon_samples.artifacts} non-canon sample
+              {completion.non_canon_samples.artifacts === 1 ? "" : "s"} and{" "}
+              {completion.calibration.artifacts} calibration page
+              {completion.calibration.artifacts === 1 ? "" : "s"}.
             </span>
           </p>
         </div>

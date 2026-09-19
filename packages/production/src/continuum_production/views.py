@@ -136,23 +136,30 @@ def artifact_view(production: RoughProduction, artifact: RoughArtifact) -> dict[
 def completion_view(production: RoughProduction, project_key: str) -> dict[str, Any]:
     """How much rough manga exists, counting production work only.
 
-    Workflow tests and non-canon samples are reported beside it, never inside it.
+    Workflow tests, non-canon samples and calibration chapters are reported
+    beside it, never inside it. Every purpose has a bucket, so a new purpose
+    fails loudly in review rather than crashing the report.
     """
     out: dict[str, Any] = {
         "production": {"artifacts": 0, "creative_approved": 0, "final_approved": 0},
         "workflow_tests": {"artifacts": 0, "technical_pass": 0},
         "non_canon_samples": {"artifacts": 0, "technical_pass": 0},
+        "calibration": {"artifacts": 0, "creative_approved": 0},
     }
     keys = {
         RoughPurpose.PRODUCTION: "production",
         RoughPurpose.WORKFLOW_TEST: "workflow_tests",
         RoughPurpose.NON_CANON_SAMPLE: "non_canon_samples",
+        RoughPurpose.CALIBRATION: "calibration",
     }
     for artifact in production.artifacts(project_key):
         bucket = out[keys[artifact.purpose]]
         bucket["artifacts"] += 1
         states = {a.state for a in production.attempts(artifact.id)}
-        if artifact.purpose is RoughPurpose.PRODUCTION:
+        if artifact.purpose is RoughPurpose.CALIBRATION:
+            if states & CREATIVE_STATES:
+                bucket["creative_approved"] += 1
+        elif artifact.purpose is RoughPurpose.PRODUCTION:
             if states & CREATIVE_STATES:
                 bucket["creative_approved"] += 1
             if AttemptState.FINAL_APPROVED in states:

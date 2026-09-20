@@ -556,6 +556,19 @@ This page is specifically a **style-stress test**, not the baseline style target
 
 **Story-blocking note:** CAL-18 is intentionally an abstracted NON_CANON acting/sequencing stress test. Its five-panel order is **not** the authoritative blocking of the eventual canon confession/recovery scene. Current working story authority for that later beat lives in `THE_ARRIVALS_SUKUNA_SECOND_CHANCE_MAJOR_ARC_WORKING_v0.2.md`: Fern + Maomao finally get Frieren to sleep during Mau's recovery; Frieren wakes beside Mau, initially fails to process that he is alive while he gently touches/pets her head, then realizes it, initiates the kiss, consciously says `I love you`, and Mau embraces/reassures her without verbally mirroring `I love you` in that beat. The final audit may still refine exact dialogue and pacing.
 
+**Creator review status (2026-09-20):** **ACCEPTED FOR NOW / PASS WITH ASTERISK.**  
+The current CAL-18 result is good enough to retain as the active intimacy/acting calibration reference. It is not considered visually perfect. Known caveats:
+- Mau still does not fully inherit the project's native manga rendering language and can read slightly more like a grayscale/anime-rendered character than a manga-native drawing;
+- Fern's ornament is recognizable in intent but not yet ideal in exact form;
+- the page remains a stress-test abstraction, not final canon blocking.
+
+Do **not** keep spending Work iterations on CAL-18 now. Preserve this candidate and move on.
+
+Future cross-check path:
+- first compare against the improved Ani/Comfy/LoRA pipeline when that stack is ready;
+- if that stack does not solve the remaining rendering/identity issues, run a later Nano/Google image-provider cross-check using the same locked character/environment references;
+- only replace this CAL-18 if the later candidate is clearly better while preserving the successful acting and intimacy.
+
 **Characters:** Frieren, Mau.
 
 **Page construction:**

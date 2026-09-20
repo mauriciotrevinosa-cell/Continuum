@@ -228,6 +228,37 @@ It also makes Bocchi's realization stronger: the two people helping her are them
 
 ---
 
+
+## 5A. Early-help callback chain recovered from prior review
+
+**Status:** HIGH-VALUE WORKING CALLBACK — exact wording remains final-script reviewable
+
+A previously discussed early-season callback chain should remain visible during the final audit:
+
+1. **Frieren -> Mau (E1 foundation)**
+   > "I don't know what's happening to you. But I'll help."
+
+2. **Mau -> Bocchi (early Bocchi arrival)**
+   > "I don't know. But I'll help you."
+
+3. **Bocchi -> Mau (later lake / family beat)**
+   > "When I got here... you said you'd help me... We're here to help you too."
+
+4. Mau's restrained response can remain:
+   > "...Okay."
+
+The important lock is the **direction of care becoming reciprocal**:
+
+```text
+Frieren helps Mau
+→ Mau learns that language of care
+→ Mau gives it to Bocchi
+→ Bocchi later gives it back to Mau
+```
+
+This callback should be checked against any E2/E3 expansion so the new Frieren/Mau material strengthens it rather than accidentally displacing it.
+
+
 ## 6. Long-range callback candidate — reserve "Everything will be alright"
 
 The early line should be planted with the possibility of a much later payoff during the Sukuna conflict.

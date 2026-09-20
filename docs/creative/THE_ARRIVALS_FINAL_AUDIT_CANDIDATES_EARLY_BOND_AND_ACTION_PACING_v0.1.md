@@ -288,6 +288,46 @@ Exact season / chapter placement remains OPEN pending final audit.
 
 ---
 
+
+## 6A. Frieren / Mau confession scene — exact working sequence to preserve for final audit
+
+**Status:** PROVISIONAL CREATOR DIRECTION — NOT YET FULL CANON
+
+The current CAL-18 calibration page is only an intimacy / acting stress test. Its five-panel calibration order must **not** be mistaken for the intended story blocking.
+
+The exact working story sequence to preserve for the final audit is:
+
+1. After the preceding crisis, Fern and Maomao give Frieren something that makes her sleep because she is physically / emotionally exhausted and will not rest normally.
+2. Frieren later wakes.
+3. Mau is there, alive, gently stroking / caressing her.
+4. Frieren initially does not fully process what she is seeing.
+5. The realization hits: **Mau is alive.**
+6. Frieren acts before she can intellectualize the moment and **kisses Mau**.
+7. Only **after the kiss**, Frieren tells Mau that she loves him.
+8. Mau embraces Frieren.
+9. Mau reassures her with the working line:
+   > **"Everything will be alright."**
+
+Important emotional rule:
+- the realization that Mau survived drives the kiss;
+- the confession follows the kiss rather than causing it;
+- Frieren is the one who crosses the emotional threshold;
+- Mau receives, reciprocates, embraces, and reassures;
+- the scene should preserve shock, relief, delayed processing and emotional release rather than behaving like a conventional planned confession scene.
+
+This sequence remains subject to the full continuity / pacing audit. If surrounding canon needs adjustment to support it, the audit may revise nearby material, but this intended emotional order should not be silently replaced by the generic CAL-18 stress-test sequence.
+
+### Long-range callback relationship
+
+The later Sukuna callback candidate remains distinct:
+
+- early inn: `Everything will be alright. I'm here to help you.`
+- confession/recovery scene: Mau reassures Frieren with `Everything will be alright.`
+- later Sukuna crisis: Mau says only `Everything will be alright.` before Frieren can answer; Yuta is already moving to remove her; Mau's gaze ultimately ends on Himmel and he says `Take care of her for me.`
+
+Exact wording remains creator-reviewable until final script lock.
+
+
 ## 7. Final-audit pacing rule — do not let CAL page counts dictate manga rhythm
 
 Current CALs exist to validate:

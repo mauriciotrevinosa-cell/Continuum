@@ -79,6 +79,15 @@ Run `01a0bb60-ee83-758f-915c-e7ac9d251254`, page `01a0bb60-ee9d-75a8-88df-83e854
 7. **Process sequences** (linked stages of one artwork) - only when process material is imported.
 8. Training manifests / LoRA - after benchmarks B01-B05 exist.
 
+## Creator rendering-language locks (2026-09-19)
+
+Production rendering now has two explicit creator-approved interpretation documents:
+
+- `docs/creative/THE_ARRIVALS_VISUAL_RENDERING_LANGUAGE_LOCK_v0.1.md`: B&W always means native manga; color always means colored manga; approved manga/anime references are used only by declared visual function.
+- `docs/creative/THE_ARRIVALS_INN_GROUND_FLOOR_SPATIAL_CORRECTION_v0.1.md`: for CAL-02/CAL-03, the fireplace/chimney is directly adjacent to the stair assembly from the entry/common-room view, with no intervening window or full wall bay.
+
+These locks are evaluation requirements. Spatial authority remains the latest measured Spatial Bible/plan, and restricted source excerpts remain subject to the existing transmission policy.
+
 ## Invariants kept
 
 Source Vault untouched · no bytes of any dataset or library in Git · no paid service · no training

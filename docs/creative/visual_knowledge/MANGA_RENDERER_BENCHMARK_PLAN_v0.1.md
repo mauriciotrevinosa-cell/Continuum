@@ -4,6 +4,21 @@
 
 The first suite should stay small enough to rerun frequently.
 
+
+## Creator-locked rendering semantics
+
+All benchmarks follow
+[`THE_ARRIVALS_VISUAL_RENDERING_LANGUAGE_LOCK_v0.1.md`](../THE_ARRIVALS_VISUAL_RENDERING_LANGUAGE_LOCK_v0.1.md).
+
+- `B&W` means native manga construction: ink hierarchy, spot blacks, clean whites, screentone and selective hatching. A grayscale, desaturated, photographic, charcoal or engraving result is a **style failure**.
+- `Color` means colored manga: preserve the authoritative ink drawing and apply restrained flat/cel-shaded color beneath it. A painterly replacement of the line-art hierarchy is a **style failure**.
+- Approved manga/anime references are selected by visual function. They never supply character identity, wardrobe, canon geometry or invented content.
+- Spatial locks outrank style references and generated candidates.
+
+For CAL-02 / CAL-03, also apply
+[`THE_ARRIVALS_INN_GROUND_FLOOR_SPATIAL_CORRECTION_v0.1.md`](../THE_ARRIVALS_INN_GROUND_FLOOR_SPATIAL_CORRECTION_v0.1.md):
+the fireplace/chimney and stair read as a directly adjacent cluster, with no window or full wall bay between them.
+
 ## B01 — Environment / CAL-01
 
 Target:

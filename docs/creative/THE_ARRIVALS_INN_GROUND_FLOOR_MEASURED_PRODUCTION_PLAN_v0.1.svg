@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="900" viewBox="0 0 1000 900">
+<rect width="1000" height="900" fill="#f7f3ea"/>
+<style>.wall{fill:none;stroke:#252525;stroke-width:10}.room{stroke:#3b3b3b;stroke-width:2}.label{font:700 15px Arial;fill:#202020}.small{font:12px Arial;fill:#333}.dim{font:13px Arial;fill:#202020}.door{stroke:#c55b22;stroke-width:8}.window{stroke:#2c7da0;stroke-width:7}.route{fill:none;stroke:#7a6f5d;stroke-width:3;stroke-dasharray:8 7}.deferred{fill:#ddd4c3;stroke:#6d6252;stroke-width:2;stroke-dasharray:6 5}</style>
+<text x="500" y="30" text-anchor="middle" class="label">NORTH ↑ · measured ground-floor production lock · 13.00 × 22.00 m</text>
+<g transform="translate(270 55)">
+  <rect x="0" y="0" width="442" height="748" class="wall"/>
+  <rect x="12" y="12" width="272" height="323" fill="#ead9b8" class="room"/><text x="148" y="125" text-anchor="middle" class="label">GF-01 COMMON ROOM</text><text x="148" y="147" text-anchor="middle" class="small">8.0 × 9.5 m · 76.0 m²</text>
+  <rect x="170" y="48" width="44" height="34" fill="#8b7355" class="room"/><text x="220" y="62" class="small">CHIMNEY</text>
+  <rect x="116" y="125" width="41" height="122" fill="#bd9b6a" class="room"/><text x="137" y="190" text-anchor="middle" class="small" transform="rotate(-90 137 190)">TABLE 3.6 × 1.2</text>
+  <rect x="294" y="39" width="43" height="177" fill="#d8c3a5" class="room"/><text x="316" y="130" text-anchor="middle" class="small" transform="rotate(-90 316 130)">GF-05 STAIR · rises south ↓</text>
+  <rect x="294" y="221" width="136" height="102" fill="#e2d6c2" class="room"/><text x="362" y="263" text-anchor="middle" class="label">GF-04 ENTRY</text><text x="362" y="283" text-anchor="middle" class="small">4 × 3 m</text>
+  <rect x="12" y="340" width="170" height="204" fill="#d9c4a0" class="room"/><text x="97" y="430" text-anchor="middle" class="label">GF-02 KITCHEN</text><text x="97" y="452" text-anchor="middle" class="small">5 × 6 m · 30 m²</text>
+  <rect x="188" y="335" width="102" height="170" fill="#efe1bc" class="room"/><text x="239" y="412" text-anchor="middle" class="label">GF-06</text><text x="239" y="432" text-anchor="middle" class="small">PANTRY · 15 m²</text>
+  <rect x="297" y="335" width="122" height="170" fill="#d9dfc2" class="room"/><text x="358" y="412" text-anchor="middle" class="label">GF-07</text><text x="358" y="432" text-anchor="middle" class="small">WORK/STORAGE · 18 m²</text>
+  <rect x="12" y="551" width="153" height="136" fill="#c8d8d5" class="room"/><text x="88" y="615" text-anchor="middle" class="label">GF-03 WASH</text><text x="88" y="636" text-anchor="middle" class="small">4.5 × 4 m · 18 m²</text>
+  <rect x="165" y="551" width="204" height="136" fill="#d0c9ba" class="room"/><text x="267" y="615" text-anchor="middle" class="label">GF-08 GENERAL STORAGE</text><text x="267" y="636" text-anchor="middle" class="small">6 × 4 m · 24 m²</text>
+  <path d="M12 694 H430 V736 H12 Z M369 551 H430 V694 H369 Z" fill="#c9a67b" class="room"/><text x="221" y="720" text-anchor="middle" class="label">GF-09 REPAIR / SALVAGE + DRY FIREWOOD · ~25 m²</text>
+  <path d="M285 330 C250 350 230 365 195 395 M292 323 C320 315 350 310 380 300 M180 540 C205 520 235 510 275 505" class="route"/>
+  <line x1="442" y1="249" x2="442" y2="297" class="door"/><text x="455" y="278" class="small">D-01 1.40</text>
+  <line x1="0" y1="365" x2="0" y2="401" class="door"/><text x="-8" y="388" text-anchor="end" class="small">D-03 1.05</text>
+  <line x1="0" y1="435" x2="0" y2="468" class="window"/><line x1="0" y1="482" x2="0" y2="515" class="window"/><line x1="0" y1="624" x2="0" y2="646" class="window"/>
+  <line x1="442" y1="139" x2="442" y2="171" class="window"/><line x1="442" y1="410" x2="442" y2="442" class="window"/><line x1="442" y1="572" x2="442" y2="604" class="window"/>
+  <line x1="143" y1="0" x2="175" y2="0" class="window"/><line x1="367" y1="0" x2="396" y2="0" class="window"/><line x1="102" y1="748" x2="134" y2="748" class="window"/><line x1="306" y1="748" x2="338" y2="748" class="window"/>
+  <text x="221" y="774" text-anchor="middle" class="dim">SOUTH · exterior width 13.00 m</text>
+  <text x="-35" y="374" text-anchor="middle" class="dim" transform="rotate(-90 -35 374)">WEST / SERVICE · 22.00 m</text>
+  <text x="477" y="374" text-anchor="middle" class="dim" transform="rotate(90 477 374)">EAST / MAIN + PORCH</text>
+</g>
+<g transform="translate(30 115)"><rect width="205" height="210" rx="8" fill="#fffaf1" stroke="#8c806d"/><text x="15" y="28" class="label">LOCKED CONNECTIONS</text><text x="15" y="55" class="small">• common ↔ kitchen: 3.20 m</text><text x="15" y="78" class="small">• service routes: ≥1.20 m</text><text x="15" y="101" class="small">• main door: 1.40 m</text><text x="15" y="124" class="small">• service door: 1.05 m</text><text x="15" y="147" class="small">• full second floor</text><text x="15" y="170" class="small">• no mezzanine</text><text x="15" y="193" class="small">• fixed NW chimney/hearth</text></g>
+<g transform="translate(745 115)"><rect width="225" height="230" rx="8" fill="#fffaf1" stroke="#8c806d"/><text x="15" y="28" class="label">CAL-02 / CAL-03 CAMERA</text><text x="15" y="55" class="small">SE entry/common threshold</text><text x="15" y="78" class="small">X 10.8, Y 13.7</text><text x="15" y="101" class="small">eye ≈1.55 m · 28–32 mm</text><text x="15" y="124" class="small">aim NW to table + hearth</text><text x="15" y="158" class="small">Same shell, openings, table,</text><text x="15" y="181" class="small">hearth, stair and lens family</text><text x="15" y="204" class="small">for both conditions.</text></g>
+<text x="500" y="870" text-anchor="middle" class="small">Spatial Bible v0.4 supersedes older prose and rejected generated interiors for production geometry.</text>
+</svg>

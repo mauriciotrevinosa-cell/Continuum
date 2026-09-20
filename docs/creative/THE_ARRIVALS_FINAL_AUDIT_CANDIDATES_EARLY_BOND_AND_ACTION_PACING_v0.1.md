@@ -30,6 +30,44 @@ A CAL can validate a composition in one page while the actual manga scene later 
 
 ---
 
+## 0A. Final-audit scope — whole project, not only E2
+
+The final audit referenced in this document is a **full-story audit of all material developed so far**, not an E2-only review.
+
+Its purpose is to review the complete working continuity across:
+- episode roadmaps;
+- character relationships;
+- emotional progression;
+- arrival chronology;
+- home evolution;
+- seasonal / episode placement;
+- callbacks and payoffs;
+- action pacing;
+- manga page rhythm;
+- calibration-derived ideas;
+- later-season consequences.
+
+The audit must compare **existing canon + approved rough material + newer creator direction** together.
+
+Important rule:
+
+> New creator ideas are allowed to create tension with older rough material. That is not automatically a rejection.
+
+Instead:
+1. identify the contradiction;
+2. determine which version better serves the story;
+3. move / rewrite / compress / expand surrounding material as needed;
+4. verify downstream consequences;
+5. only then promote the reconciled version.
+
+The goal is **continuity without creative paralysis**.
+
+"Do not contradict canon" means the final promoted version must be internally consistent with the authoritative story after reconciliation. It does **not** mean every new idea must fit untouched into every older provisional roadmap.
+
+Older rough material may be revised during the final audit when newer direction improves the story and the resulting continuity is repaired deliberately.
+
+---
+
 ## 1. E2 pacing candidate — give Frieren + Mau more time alone before Bocchi
 
 Current E2 rough has Frieren and Mau find the inn and hear Bocchi's scream the same night.

@@ -200,11 +200,25 @@ Exact dialogue remains open.
 
 # 7. Mau's goodbye / Himmel beat
 
-Believing he is about to die, Mau says goodbye to Frieren emotionally and then looks to Himmel.
+## Latest 2026-09-20 creator-direction override
 
-Approximate creator-directed meaning:
+The newer favored version is **more restrained** than the older wording below and should be tested first during the final audit:
 
-> Take care of her for me.
+- Mau looks at Frieren and says only:
+  > **Everything will be alright.**
+- Frieren does **not** answer; she is in shock and has only recently consciously understood that she loves Mau.
+- Before she can respond, Yuta is already moving to extract / carry her away from the danger zone.
+- Mau does **not** give Frieren a conventional farewell speech.
+- Mau looks across the others present.
+- His gaze ultimately settles on Himmel.
+- Then:
+  > **Take care of her for me.**
+
+The intended power of the beat comes from saying less. The lack of a clean farewell is part of Frieren's later wound.
+
+This newer direction supersedes the older idea of Mau giving Frieren a longer emotional goodbye, unless the final continuity/pacing audit deliberately chooses otherwise.
+
+### Preserved thematic meaning
 
 This is not ownership transfer.
 

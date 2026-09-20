@@ -554,6 +554,8 @@ This page is specifically a **style-stress test**, not the baseline style target
 
 **Direction lock:** Frieren is the confessor. Mau listens, reacts and reciprocates. Do not invert these roles.
 
+**Story-blocking note:** CAL-18 is intentionally an abstracted NON_CANON acting/sequencing stress test. Its five-panel order is **not** the authoritative blocking of the eventual canon confession/recovery scene. Current working story authority for that later beat lives in `THE_ARRIVALS_SUKUNA_SECOND_CHANCE_MAJOR_ARC_WORKING_v0.2.md`: Fern + Maomao finally get Frieren to sleep during Mau's recovery; Frieren wakes beside Mau, initially fails to process that he is alive while he gently touches/pets her head, then realizes it, initiates the kiss, consciously says `I love you`, and Mau embraces/reassures her without verbally mirroring `I love you` in that beat. The final audit may still refine exact dialogue and pacing.
+
 **Characters:** Frieren, Mau.
 
 **Page construction:**

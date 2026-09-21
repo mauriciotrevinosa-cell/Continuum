@@ -92,9 +92,7 @@ _NEVER_SCENE = {
 }
 
 
-def _scene_reason(
-    reference: ArtworkReference, lane: ConditioningPurpose
-) -> tuple[str | None, int]:
+def _scene_reason(reference: ArtworkReference, lane: ConditioningPurpose) -> tuple[str | None, int]:
     """Why this reference may not enter the scene lane, and its priority if it may.
 
     A reference Continuum routed carries the purpose it was chosen for, and the

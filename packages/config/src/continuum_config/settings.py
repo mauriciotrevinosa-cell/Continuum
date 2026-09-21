@@ -22,7 +22,17 @@ from continuum_observability import secret_registry
 from pydantic import Field, SecretStr, field_validator, model_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
-__all__ = ["ROOT_KEYS", "WRITABLE_ROOT_KEYS", "ProductionProfile", "Settings", "get_settings"]
+__all__ = [
+    "PROFILE_POLICIES",
+    "ROOT_KEYS",
+    "WRITABLE_ROOT_KEYS",
+    "LocalityPolicy",
+    "ProductionProfile",
+    "Settings",
+    "SpendPolicy",
+    "get_settings",
+    "policies",
+]
 
 #: The eight roots of ADR-0001 / Master Plan section 108.
 ROOT_KEYS: tuple[str, ...] = (
@@ -47,12 +57,52 @@ _COLLECTION = re.compile(r"^[A-Za-z0-9][A-Za-z0-9 _-]{0,39}$")
 
 
 class ProductionProfile(StrEnum):
-    """Provider selection policy (Master Plan section 101.2)."""
+    """Provider selection policy (Master Plan section 101.2).
+
+    A profile is a named pair of the two policies below, kept for continuity.
+    Either policy may be set on its own, because *where* a job runs and *what
+    it costs* are different questions: a free GPU in a notebook someone opened
+    is remote and costs nothing, while a cheap API is local to nobody and costs
+    money on every call.
+    """
 
     FREE_LOCAL = "FREE_LOCAL"
     BALANCED_LOCAL = "BALANCED_LOCAL"
     HYBRID_OPTIONAL = "HYBRID_OPTIONAL"
     SHOWCASE_OPTIONAL = "SHOWCASE_OPTIONAL"
+
+
+class LocalityPolicy(StrEnum):
+    """Where work may run."""
+
+    LOCAL_ONLY = "LOCAL_ONLY"
+    REMOTE_ALLOWED = "REMOTE_ALLOWED"
+    """Work may leave this machine. It says nothing about money."""
+
+
+class SpendPolicy(StrEnum):
+    """What work may cost."""
+
+    FREE_ONLY = "FREE_ONLY"
+    METERED_ALLOWED = "METERED_ALLOWED"
+    """Metered local compute is fine; nothing bills a card."""
+    PAID_ALLOWED_WITH_CAP = "PAID_ALLOWED_WITH_CAP"
+    """Paid providers may be used, never past the configured cap."""
+
+
+#: The pair each profile stands for. Setting a policy explicitly overrides it.
+PROFILE_POLICIES: dict[ProductionProfile, tuple[LocalityPolicy, SpendPolicy]] = {
+    ProductionProfile.FREE_LOCAL: (LocalityPolicy.LOCAL_ONLY, SpendPolicy.FREE_ONLY),
+    ProductionProfile.BALANCED_LOCAL: (LocalityPolicy.LOCAL_ONLY, SpendPolicy.METERED_ALLOWED),
+    ProductionProfile.HYBRID_OPTIONAL: (
+        LocalityPolicy.REMOTE_ALLOWED,
+        SpendPolicy.PAID_ALLOWED_WITH_CAP,
+    ),
+    ProductionProfile.SHOWCASE_OPTIONAL: (
+        LocalityPolicy.REMOTE_ALLOWED,
+        SpendPolicy.PAID_ALLOWED_WITH_CAP,
+    ),
+}
 
 
 class Settings(BaseSettings):
@@ -108,6 +158,24 @@ class Settings(BaseSettings):
 
     # -- providers ---------------------------------------------------------
     production_profile: ProductionProfile = ProductionProfile.FREE_LOCAL
+    #: Set either policy to override the profile's pair. Remote is not paid and
+    #: paid is not remote: a free GPU session the creator opened is REMOTE and
+    #: FREE, and allowing it must not also allow a card to be billed.
+    locality_policy: LocalityPolicy | None = None
+    spend_policy: SpendPolicy | None = None
+
+    # -- paid generation budget (hard cap, enforced in the ledger) ---------
+    #: The most Continuum may ever spend on paid generation for this scope.
+    #: A request whose estimate does not fit under what is left is refused;
+    #: there is no overdraft and no "just this once".
+    spend_cap_usd: float = Field(default=10.0, ge=0, le=100000)
+    spend_scope: str = Field(
+        default="default", description="Which budget paid requests are charged to."
+    )
+    #: Image prices as a JSON array of rows: provider_id, model_ref,
+    #: per_image_micros, optional up_to_pixels and batch_per_image_micros.
+    #: Empty means nothing is priced, and an unpriced request cannot be paid for.
+    image_price_list: str = ""
 
     # -- artwork backends (M3). ComfyUI is free software; compute is separate.
     # A backend is registered only when its URL is set. COMFY_REMOTE is an
@@ -126,6 +194,23 @@ class Settings(BaseSettings):
     comfy_timeout_seconds: float = Field(default=900.0, gt=0, le=7200)
     #: Pages of commercial source manga never go to a remote server unless allowed here.
     comfy_remote_allow_source_excerpts: bool = False
+
+    # -- paid image provider (M3). Off unless every part is configured. ----
+    # Enabling it registers the provider; the spend policy and the budget
+    # ledger still decide, separately, whether any single request may run.
+    google_images_enabled: bool = False
+    google_api_key: SecretStr = SecretStr("")
+    google_image_endpoint: str = Field(
+        default="", description="Base URL of the image endpoint, without a model."
+    )
+    #: Model identifiers exactly as the vendor names them. Two tiers: a cheap
+    #: one for exploration and comparison, a better one for the few artifacts
+    #: everything else is built from. Names change; this is configuration.
+    google_image_model_cheap: str = ""
+    google_image_model_high: str = ""
+    google_image_license: str = ""
+    google_image_source: str = ""
+    google_image_timeout_seconds: float = Field(default=120.0, gt=0, le=1800)
 
     # -- library acquisition (D-01: data outside the repository) -----------
     # Acquisition belongs to the LIBRARY, not to any project: what the user
@@ -195,6 +280,7 @@ class Settings(BaseSettings):
     def _register_secrets(self) -> Settings:
         """Feed concrete secret values to the redaction registry (F-53)."""
         secret_registry.register(self.database_url.get_secret_value())
+        secret_registry.register(self.google_api_key.get_secret_value() or None)
         try:
             from urllib.parse import urlsplit
 
@@ -277,3 +363,9 @@ class Settings(BaseSettings):
 def get_settings() -> Settings:
     """Process-wide settings singleton."""
     return Settings()
+
+
+def policies(settings: Settings) -> tuple[LocalityPolicy, SpendPolicy]:
+    """The two policies in force: the profile's pair, with any explicit override."""
+    locality, spend = PROFILE_POLICIES[settings.production_profile]
+    return (settings.locality_policy or locality, settings.spend_policy or spend)

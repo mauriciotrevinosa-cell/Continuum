@@ -1033,9 +1033,7 @@ class ComfyPageProvider:
         candidates = [
             r for r in request.references if (r.provenance or {}).get("status") == "CANDIDATE"
         ]
-        identity = [
-            r for r in request.references if identity_evidence(r) and r not in candidates
-        ]
+        identity = [r for r in request.references if identity_evidence(r) and r not in candidates]
         cast = {str(name) for name in request.contract.get("cast") or []}
         ungrounded = sorted(cast - {str(r.character) for r in identity})
         if ungrounded:

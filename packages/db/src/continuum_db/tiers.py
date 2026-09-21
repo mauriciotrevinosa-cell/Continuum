@@ -84,4 +84,15 @@ TABLE_REGISTRY: dict[str, tuple[float, Tier]] = {
     "character_model_sheet_attempt": (3, Tier.D_GENERATED),
     "external_resource": (3, Tier.B_INTERPRETATION),
     "page_analysis": (3, Tier.B_INTERPRETATION),
+    # M3 - recurring props and their scale locks
+    "project_prop": (3, Tier.C_PROJECT),
+    "project_prop_reference": (3, Tier.C_PROJECT),
+    # M3 - curated training manifests (project) and the runs over them
+    "training_dataset": (3, Tier.C_PROJECT),
+    "training_dataset_item": (3, Tier.C_PROJECT),
+    "training_run": (3, Tier.D_GENERATED),
+    # M3 - the paid-generation budget. Operational, like jobs: it is about
+    # running Continuum, not about the work Continuum is making.
+    "spend_budget": (3, Tier.OPERATIONAL),
+    "spend_entry": (3, Tier.OPERATIONAL),
 }

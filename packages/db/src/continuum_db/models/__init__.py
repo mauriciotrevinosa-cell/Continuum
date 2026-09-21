@@ -67,6 +67,9 @@ from continuum_db.models.production import (
     RoughArtifact,
     RoughAttempt,
 )
+from continuum_db.models.props import ProjectProp, ProjectPropReference
+from continuum_db.models.spend import SpendBudget, SpendEntry
+from continuum_db.models.training import TrainingDataset, TrainingDatasetItem, TrainingRun
 
 __all__ = [
     "AttemptDerivative",
@@ -106,6 +109,8 @@ __all__ = [
     "ProductionProfile",
     "ProductionRun",
     "ProjectPanelSource",
+    "ProjectProp",
+    "ProjectPropReference",
     "ProjectReferenceStanding",
     "ProjectVisualModeAssignment",
     "ReferenceCandidate",
@@ -117,6 +122,11 @@ __all__ = [
     "ReferenceUseLink",
     "RoughArtifact",
     "RoughAttempt",
+    "SpendBudget",
+    "SpendEntry",
+    "TrainingDataset",
+    "TrainingDatasetItem",
+    "TrainingRun",
     "VisualMode",
     "Worker",
 ]

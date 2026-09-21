@@ -2,12 +2,24 @@
 
 **The single most damaging possible bug in a $0-default product would be
 silently escalating to a paid provider.** There is deliberately no code path
-from a ``FREE_LOCAL`` profile to a ``PAID`` or ``REMOTE`` provider. When no
-permitted provider can satisfy a capability, resolution returns a blocked
-decision naming the reason -- it never falls back and never fails silently.
+from a free profile to a ``PAID`` provider. When no permitted provider can
+satisfy a capability, resolution returns a blocked decision naming the reason
+-- it never falls back, never retries elsewhere and never fails silently.
 
-Master Plan section 50's cost tiers are reinterpreted accordingly: they are
-escalation options *gated by the active profile*, not a default pipeline.
+Selection turns on two **independent** axes, because conflating them is how a
+$0 product accidentally spends money:
+
+* **locality** - may the work leave this machine? A GPU session the creator
+  opened in a notebook is remote and costs nothing;
+* **spend** - may the work cost money? A cheap API is nobody's local machine
+  and bills on every call.
+
+A production profile is just a named pair of the two. Either may be set on its
+own, so "use the free remote GPU, never pay for anything" is expressible, and
+allowing one never widens the other.
+
+Master Plan section 50's cost tiers are escalation options *gated by these
+policies*, not a default pipeline.
 """
 
 from __future__ import annotations
@@ -16,7 +28,14 @@ from collections.abc import Mapping
 from dataclasses import dataclass
 from typing import Any
 
-from continuum_config import ProductionProfile
+from continuum_config import (
+    PROFILE_POLICIES,
+    LocalityPolicy,
+    ProductionProfile,
+    Settings,
+    SpendPolicy,
+    policies,
+)
 from continuum_core import BlockedReason
 
 from continuum_providers.contracts import (
@@ -30,30 +49,27 @@ from continuum_providers.contracts import (
 __all__ = [
     "PolicyDecision",
     "ProviderPolicy",
+    "policy_allows",
     "profile_allows",
     "reference_data_class",
     "transmission_refusal",
 ]
 
 
-#: What each production profile permits. FREE_LOCAL is the shipped default
-#: (Master Plan section 90) and admits nothing remote and nothing paid.
-_PROFILE_RULES: dict[ProductionProfile, tuple[frozenset[Locality], frozenset[CostClass]]] = {
-    ProductionProfile.FREE_LOCAL: (
-        frozenset({Locality.LOCAL}),
-        frozenset({CostClass.FREE}),
-    ),
-    ProductionProfile.BALANCED_LOCAL: (
-        frozenset({Locality.LOCAL}),
-        frozenset({CostClass.FREE, CostClass.METERED}),
-    ),
-    ProductionProfile.HYBRID_OPTIONAL: (
-        frozenset({Locality.LOCAL, Locality.REMOTE}),
-        frozenset({CostClass.FREE, CostClass.METERED, CostClass.PAID}),
-    ),
-    ProductionProfile.SHOWCASE_OPTIONAL: (
-        frozenset({Locality.LOCAL, Locality.REMOTE}),
-        frozenset({CostClass.FREE, CostClass.METERED, CostClass.PAID}),
+#: Where each locality policy lets work run. LOCAL_ONLY is the shipped default
+#: (Master Plan section 90).
+_LOCALITIES: dict[LocalityPolicy, frozenset[Locality]] = {
+    LocalityPolicy.LOCAL_ONLY: frozenset({Locality.LOCAL}),
+    LocalityPolicy.REMOTE_ALLOWED: frozenset({Locality.LOCAL, Locality.REMOTE}),
+}
+#: What each spend policy lets work cost. Remote compute the creator opened is
+#: FREE, so REMOTE_ALLOWED + FREE_ONLY is a real, useful combination: a free GPU
+#: session may be used while nothing can bill a card.
+_COSTS: dict[SpendPolicy, frozenset[CostClass]] = {
+    SpendPolicy.FREE_ONLY: frozenset({CostClass.FREE}),
+    SpendPolicy.METERED_ALLOWED: frozenset({CostClass.FREE, CostClass.METERED}),
+    SpendPolicy.PAID_ALLOWED_WITH_CAP: frozenset(
+        {CostClass.FREE, CostClass.METERED, CostClass.PAID}
     ),
 }
 
@@ -77,17 +93,45 @@ class PolicyDecision:
         return not self.permitted
 
 
+def policy_allows(
+    locality: LocalityPolicy, spend: SpendPolicy, descriptor: ProviderDescriptor
+) -> bool:
+    """Whether the two policies together permit this provider at all."""
+    return descriptor.locality in _LOCALITIES[locality] and descriptor.cost_class in _COSTS[spend]
+
+
 def profile_allows(profile: ProductionProfile, descriptor: ProviderDescriptor) -> bool:
-    """Whether a profile permits this provider at all."""
-    localities, costs = _PROFILE_RULES[profile]
-    return descriptor.locality in localities and descriptor.cost_class in costs
+    """Whether a profile's default pair of policies permits this provider."""
+    locality, spend = PROFILE_POLICIES[profile]
+    return policy_allows(locality, spend, descriptor)
 
 
 class ProviderPolicy:
-    """Resolves (capability, data class, profile) to a permitted provider."""
+    """Resolves (capability, data class, policies) to a permitted provider.
 
-    def __init__(self, profile: ProductionProfile = ProductionProfile.FREE_LOCAL) -> None:
+    Locality and spend are separate axes. A profile names a pair of them; either
+    can be overridden on its own, and nothing in resolution can widen them.
+    """
+
+    def __init__(
+        self,
+        profile: ProductionProfile = ProductionProfile.FREE_LOCAL,
+        *,
+        locality: LocalityPolicy | None = None,
+        spend: SpendPolicy | None = None,
+    ) -> None:
         self.profile = profile
+        default_locality, default_spend = PROFILE_POLICIES[profile]
+        self.locality = locality or default_locality
+        self.spend = spend or default_spend
+
+    @classmethod
+    def from_settings(cls, settings: Settings) -> ProviderPolicy:
+        locality, spend = policies(settings)
+        return cls(settings.production_profile, locality=locality, spend=spend)
+
+    def allows(self, descriptor: ProviderDescriptor) -> bool:
+        return policy_allows(self.locality, self.spend, descriptor)
 
     def evaluate(
         self,
@@ -131,25 +175,29 @@ class ProviderPolicy:
                     },
                 )
 
-        permitted = [d for d in capable if profile_allows(self.profile, d)]
+        permitted = [d for d in capable if self.allows(d)]
         if not permitted:
             offered = sorted({f"{d.locality.value}/{d.cost_class.value}" for d in capable})
             return PolicyDecision(
                 provider_id=None,
                 permitted=False,
                 # Approval, not a missing provider: something CAN do this, but
-                # the active profile forbids it. The user decides, explicitly.
+                # the active policies forbid it. The user decides, explicitly.
                 blocked_reason=BlockedReason.AWAITING_APPROVAL,
                 remediation={
                     "message": (
-                        f"The {self.profile.value} profile does not permit any provider that "
-                        f"offers {capability.value}."
+                        f"No provider offering {capability.value} is permitted by the current "
+                        f"{self.locality.value} / {self.spend.value} policies."
                     ),
                     "capability": capability.value,
                     "available_but_not_permitted": offered,
+                    "locality_policy": self.locality.value,
+                    "spend_policy": self.spend.value,
+                    "blocked_by": _blocking_axes(self.locality, self.spend, capable),
                     "action": (
-                        "Approve a different production profile explicitly. Continuum will "
-                        "not switch to a paid or remote provider on its own "
+                        "Change the policy that blocks this explicitly - allowing remote "
+                        "compute and allowing money to be spent are separate decisions. "
+                        "Continuum never widens either on its own "
                         "(Master Plan section 103)."
                     ),
                 },
@@ -219,3 +267,15 @@ def transmission_refusal(
             )
         return "a source excerpt (third-party published work) never leaves this machine"
     return None
+
+
+def _blocking_axes(
+    locality: LocalityPolicy, spend: SpendPolicy, capable: list[ProviderDescriptor]
+) -> list[str]:
+    """Which axis is actually in the way, so the message names the real gate."""
+    axes = []
+    if any(policy_allows(LocalityPolicy.REMOTE_ALLOWED, spend, d) for d in capable):
+        axes.append("locality")
+    if any(policy_allows(locality, SpendPolicy.PAID_ALLOWED_WITH_CAP, d) for d in capable):
+        axes.append("spend")
+    return axes

@@ -96,8 +96,10 @@ def build_default_registry(
     """The default registry: deterministic fakes, plus configured ComfyUI backends.
 
     Phase 1 adds the deterministic sketch renderer for rough attempts. M3 adds
-    ComfyUI page backends, registered only when their URL is configured. No
-    model is downloaded and no paid service is reachable.
+    ComfyUI page backends, registered only when their URL is configured, and a
+    paid image provider registered only when the creator has configured both a
+    key and a model. Registering a paid provider does not permit it: the spend
+    policy decides that, separately from where work may run.
     """
     from continuum_providers.fakes import (
         DeterministicEmbeddingProvider,
@@ -108,6 +110,10 @@ def build_default_registry(
         NullImageProvider,
     )
 
+    if policy is None and settings is not None:
+        # Locality and spend come from the settings, so a free remote GPU can be
+        # allowed without also allowing a paid API (and the reverse).
+        policy = ProviderPolicy.from_settings(settings)
     registry = ProviderRegistry(policy)
     registry.register(EchoTextProvider())
     registry.register(DeterministicEmbeddingProvider())
@@ -120,6 +126,12 @@ def build_default_registry(
 
         for provider in configured_providers(settings):
             registry.register(provider)
+
+        from continuum_providers.google_images import configured_google_provider
+
+        paid = configured_google_provider(settings)
+        if paid is not None:
+            registry.register(paid)
     return registry
 
 

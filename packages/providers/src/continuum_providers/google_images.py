@@ -440,6 +440,7 @@ def _stage_prompt(request: PanelStageRequest) -> str:
         f"Keep exactly as given: {frozen}." if frozen else "",
         *(f"Must show: {item}" for item in (contract.get("required") or [])[:4]),
         *(f"Never: {item}" for item in (contract.get("forbidden") or [])[:6]),
+        *(f"Size lock: {lock}" for lock in (request.settings.get("scale_locks") or [])[:3]),
         str(request.settings.get("creator_notes") or ""),
     ]
     return "\n".join(line for line in lines if line)[:4000]

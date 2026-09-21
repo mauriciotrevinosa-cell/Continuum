@@ -736,9 +736,9 @@ class ComfyPageProvider:
                     if family is ComfyModelFamily.FLUX
                     else ("CheckpointLoaderSimple", "ckpt_name")
                 )
-                listed = (
-                    ((info.get(loader) or {}).get("input") or {}).get("required") or {}
-                ).get(field) or [[]]
+                listed = (((info.get(loader) or {}).get("input") or {}).get("required") or {}).get(
+                    field
+                ) or [[]]
                 names = listed[0] if listed and isinstance(listed[0], list) else []
                 status.checkpoints_listed = len(names)
                 status.checkpoint_available = (
@@ -1238,6 +1238,8 @@ class ComfyPageProvider:
             ]
         )
         tags.extend(_animagine_tags(semantic))
+        # Approved object measurements: a size the model can act on, not a label.
+        tags.extend(str(lock) for lock in (request.settings.get("scale_locks") or [])[:3] if lock)
         tags.extend(STAGE_TAGS.get(request.stage, ()))
         tags.extend(t.strip() for t in self.config.style_prompt.split(",") if t.strip())
         tags.extend(("masterpiece", "high score", "great score", "absurdres"))
@@ -1336,9 +1338,7 @@ class ComfyPageProvider:
         base = _add_loras(graph, self.config.family, self.config.loras)
         scene_type, scene_weight = SCENE_CONDITIONING[purpose.value]
         if sent or scene:
-            self._add_reference_lanes(
-                graph, sent, scene, scene_type, scene_weight, uploaded, base
-            )
+            self._add_reference_lanes(graph, sent, scene, scene_type, scene_weight, uploaded, base)
         data = self._run(graph)
         produced = probe(data)
         width, height = produced.width, produced.height
@@ -1371,6 +1371,7 @@ class ComfyPageProvider:
                     "upstream_held_by": "init latent" if request.upstream is not None else None,
                     "positive": positive,
                     "negative": negative,
+                    "scale_locks": list(request.settings.get("scale_locks") or []),
                     "lettering": "disabled; Continuum owns text after artwork",
                 },
                 "seed": request.seed,

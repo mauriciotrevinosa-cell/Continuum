@@ -46,7 +46,36 @@ MODEL_SHEET_RECIPE = "continuum.character-sheet/1"
 SHEET_VIEWS = {
     ModelSheetKind.HEAD: ("FRONT", "THREE_QUARTER", "PROFILE", "BACK_HAIR"),
     ModelSheetKind.FULL_BODY: ("FRONT", "THREE_QUARTER", "SIDE", "BACK"),
+    # The same character in the project's own black-and-white language. Drawn,
+    # not desaturated: that is exactly the drift this sheet exists to catch.
+    ModelSheetKind.MANGA_TRANSLATION: ("FRONT", "THREE_QUARTER", "PROFILE", "FULL_BODY"),
+    ModelSheetKind.OUTFIT: ("FRONT", "THREE_QUARTER", "BACK", "DETAIL"),
+    ModelSheetKind.ACCESSORY_SCALE: ("FRONT", "PROFILE", "DETAIL", "IN_CONTEXT"),
 }
+#: What each kind needs before it can be asked for. Identity evidence grounds
+#: who the person is; a body sheet also needs their proportions; an outfit or a
+#: prop needs the thing itself, never only the person wearing it.
+SHEET_EVIDENCE: dict[ModelSheetKind, tuple[frozenset[str], str]] = {
+    ModelSheetKind.HEAD: (frozenset({"IDENTITY"}), "IDENTITY"),
+    ModelSheetKind.FULL_BODY: (
+        frozenset({"IDENTITY", "BODY", "WARDROBE"}),
+        "BODY",
+    ),
+    ModelSheetKind.MANGA_TRANSLATION: (
+        frozenset({"IDENTITY", "BODY"}),
+        "IDENTITY",
+    ),
+    ModelSheetKind.OUTFIT: (
+        frozenset({"IDENTITY", "WARDROBE"}),
+        "WARDROBE",
+    ),
+    ModelSheetKind.ACCESSORY_SCALE: (
+        frozenset({"IDENTITY", "ACCESSORY", "SCALE"}),
+        "ACCESSORY",
+    ),
+}
+#: Kinds a character may have more than one of; those need a variant to name it.
+VARIANT_KINDS = frozenset({ModelSheetKind.OUTFIT, ModelSheetKind.ACCESSORY_SCALE})
 
 
 def attempt_view(row: CharacterModelSheetAttempt, job: Job | None = None) -> dict[str, Any]:
@@ -56,6 +85,7 @@ def attempt_view(row: CharacterModelSheetAttempt, job: Job | None = None) -> dic
         "project_key": row.project_key,
         "character_id": str(row.character_id),
         "sheet_kind": row.sheet_kind,
+        "variant_key": row.variant_key,
         "attempt": row.attempt,
         "status": row.status,
         "seed": row.seed,
@@ -138,6 +168,7 @@ class CharacterModelBuilder:
         sheet_kind: ModelSheetKind,
         *,
         seed: int = 1,
+        variant_key: str = "",
         parent: CharacterModelSheetAttempt | None = None,
     ) -> CharacterModelSheetAttempt:
         model = self.session.get(CharacterProductionModel, model_id)
@@ -154,9 +185,15 @@ class CharacterModelBuilder:
             raise CatalogInputError(
                 "The selected provider does not implement the character-sheet contract."
             )
-        wanted = {ProductionEvidenceRole.IDENTITY.value}
-        if sheet_kind is ModelSheetKind.FULL_BODY:
-            wanted |= {ProductionEvidenceRole.BODY.value, ProductionEvidenceRole.WARDROBE.value}
+        variant_key = variant_key.strip()[:80]
+        if sheet_kind in VARIANT_KINDS and not variant_key:
+            raise CatalogInputError(
+                f"A {sheet_kind.value} sheet is about one particular thing; name it "
+                "with a variant (the outfit or the prop)."
+            )
+        if sheet_kind not in VARIANT_KINDS and variant_key:
+            raise CatalogInputError(f"A {sheet_kind.value} sheet has no variants.")
+        wanted, required = SHEET_EVIDENCE[sheet_kind]
         links = [
             link for link in CharacterModels(self.session).evidence(model.id) if link.role in wanted
         ]
@@ -190,7 +227,6 @@ class CharacterModelBuilder:
                         "facets": observation.facets,
                     }
                 )
-        required = "IDENTITY" if sheet_kind is ModelSheetKind.HEAD else "BODY"
         if not any(item["role"] == required for item in pack):
             raise CatalogInputError(
                 f"A {sheet_kind.value} sheet needs confirmed {required.lower()} evidence."
@@ -200,6 +236,7 @@ class CharacterModelBuilder:
                 select(func.max(CharacterModelSheetAttempt.attempt)).where(
                     CharacterModelSheetAttempt.model_id == model.id,
                     CharacterModelSheetAttempt.sheet_kind == sheet_kind.value,
+                    CharacterModelSheetAttempt.variant_key == variant_key,
                 )
             ).scalar_one()
             or 0
@@ -209,6 +246,7 @@ class CharacterModelBuilder:
             character_id=model.character_id,
             project_key=model.project_key,
             sheet_kind=sheet_kind.value,
+            variant_key=variant_key,
             attempt=number,
             parent_attempt_id=parent.id if parent else None,
             status=ModelSheetStatus.QUEUED.value,
@@ -264,7 +302,11 @@ class CharacterModelBuilder:
         if decision == "REGENERATE":
             row.status = ModelSheetStatus.REJECTED.value
             regenerated = self.request(
-                row.model_id, ModelSheetKind(row.sheet_kind), seed=row.seed + 1, parent=row
+                row.model_id,
+                ModelSheetKind(row.sheet_kind),
+                seed=row.seed + 1,
+                variant_key=row.variant_key,
+                parent=row,
             )
             return row, None, regenerated
         row.status = ModelSheetStatus.APPROVED.value
@@ -273,6 +315,7 @@ class CharacterModelBuilder:
                 CharacterModelSheetAttempt.project_key == row.project_key,
                 CharacterModelSheetAttempt.character_id == row.character_id,
                 CharacterModelSheetAttempt.sheet_kind == row.sheet_kind,
+                CharacterModelSheetAttempt.variant_key == row.variant_key,
                 CharacterModelSheetAttempt.status == ModelSheetStatus.APPROVED.value,
                 CharacterModelSheetAttempt.id != row.id,
             )
@@ -286,6 +329,8 @@ class CharacterModelBuilder:
             if row.sheet_kind == ModelSheetKind.HEAD.value
             else ModelSheetKind.HEAD.value
         )
+        # Only the head and body sheets are pointed at by the production model;
+        # a manga translation, an outfit or a prop scale is its own record.
         counterpart = self.session.execute(
             select(CharacterModelSheetAttempt)
             .where(
@@ -377,7 +422,11 @@ def render_model_sheet(
             identity_rules=tuple(row.rules["identity"]),
             restrictions=tuple(row.rules["restrictions"]),
             outfit_id=row.rules.get("active_outfit_id"),
-            settings={"recipe": MODEL_SHEET_RECIPE},
+            settings={
+                "recipe": MODEL_SHEET_RECIPE,
+                "variant_key": row.variant_key,
+                **({"tier": row.rules["tier"]} if row.rules.get("tier") else {}),
+            },
         )
     )
     if result.output is not RenderOutput.ARTWORK_CANDIDATE:

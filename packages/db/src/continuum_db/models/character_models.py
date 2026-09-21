@@ -140,7 +140,11 @@ class CharacterModelSheetAttempt(Base):
         UuidV7(), ForeignKey("character_profile.id", ondelete="RESTRICT"), nullable=False
     )
     project_key: Mapped[str] = mapped_column(String(80), nullable=False)
-    sheet_kind: Mapped[str] = mapped_column(String(16), nullable=False)
+    sheet_kind: Mapped[str] = mapped_column(String(20), nullable=False)
+    #: Which one of this kind: the outfit, the prop, the look. Empty for kinds
+    #: a character only has one of, so the approved-uniqueness rule is the same
+    #: expression for every kind.
+    variant_key: Mapped[str] = mapped_column(String(80), nullable=False, default="")
     attempt: Mapped[int] = mapped_column(Integer, nullable=False)
     parent_attempt_id: Mapped[uuid.UUID | None] = mapped_column(
         UuidV7(), ForeignKey("character_model_sheet_attempt.id", ondelete="RESTRICT")
@@ -170,7 +174,14 @@ class CharacterModelSheetAttempt(Base):
     generated_at: Mapped[dt.datetime | None] = mapped_column(TimestampTz)
 
     __table_args__ = (
-        UniqueConstraint("model_id", "sheet_kind", "attempt"),
+        UniqueConstraint(
+            "model_id",
+            "sheet_kind",
+            "variant_key",
+            "attempt",
+            # Named explicitly: the convention name would not fit in 63 characters.
+            name="uq_character_model_sheet_attempt_variant_attempt",
+        ),
         CheckConstraint(f"sheet_kind IN ({_values(ModelSheetKind)})", name="model_sheet_kind"),
         CheckConstraint(f"status IN ({_values(ModelSheetStatus)})", name="model_sheet_status"),
         CheckConstraint("attempt > 0", name="model_sheet_attempt_positive"),
@@ -191,6 +202,7 @@ class CharacterModelSheetAttempt(Base):
             "project_key",
             "character_id",
             "sheet_kind",
+            "variant_key",
             unique=True,
             postgresql_where=text("status = 'APPROVED'"),
         ),

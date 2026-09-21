@@ -68,6 +68,7 @@ from continuum_library.knowledge import VisualKnowledge
 from continuum_library.validation import clean_text
 from sqlalchemy import select
 
+from continuum_production.props import Props
 from continuum_production.service import refusal
 from continuum_production.views import _job
 
@@ -249,6 +250,7 @@ class PanelConstruction:
         self.session = manga.session
         self.rough = manga.rough
         self.knowledge = VisualKnowledge(manga.session)
+        self.props = Props(manga.session)
         self._bundles: dict[uuid.UUID, dict[str, Any]] = {}
 
     # -- lookups --------------------------------------------------------------
@@ -490,6 +492,41 @@ class PanelConstruction:
                         why=tuple(provenance.get("why") or ()),
                     )
                 )
+        locks: list[str] = []
+        if cast:
+            bundle = self._bundle(page)
+            ids = {
+                c["name"]: uuid.UUID(c["character_id"])
+                for c in bundle["characters"]
+                if c["name"] in cast
+            }
+            names = {value: key for key, value in ids.items()}
+            for order, prop in enumerate(
+                self.props.for_characters(run.project_key, ids.values()), start=2000
+            ):
+                lock = str(prop["scale_lock"])
+                if lock:
+                    locks.append(lock)
+                owner = names.get(uuid.UUID(str(prop["character_id"])), "")
+                for offset, link in enumerate(prop["references"]):
+                    reference_id = str(link["reference_id"])
+                    sources[reference_id] = {
+                        "reference_id": reference_id,
+                        "label": f"{prop['name']} ({str(link['view']).lower()})",
+                        "prop_id": prop["id"],
+                        "scale_lock": lock,
+                    }
+                    candidates.append(
+                        Candidate(
+                            reference_id=reference_id,
+                            role=BundleRole.WARDROBE.value,
+                            character=owner,
+                            prop_id=str(prop["id"]),
+                            order=order + offset,
+                            declared=frozenset({ReferencePurpose.ACCESSORY_SCALE.value}),
+                            why=(f"approved scale lock - {lock}",),
+                        )
+                    )
         packet = route(
             STAGE_NEEDS[stage_enum],
             candidates,
@@ -497,7 +534,7 @@ class PanelConstruction:
             current_outfits=outfits,
             relevant_series=sorted(self._series(page, cast)),
         )
-        return {"packet": packet, "sources": sources}
+        return {"packet": packet, "sources": sources, "scale_locks": locks}
 
     def _series(self, page: ProductionPage, cast: Sequence[str]) -> set[str]:
         """The source worlds this panel is allowed to draw craft from."""
@@ -780,6 +817,10 @@ class PanelConstruction:
             # What routing decided and what it refused, kept with the recipe so
             # a later reader can see why this packet and not another one.
             "routing": record(stage, packet),
+            # Approved measurements of the recurring objects in this panel. A
+            # renderer is told them; they are not part of the hashed contract,
+            # so locking a prop does not stale work already approved.
+            "scale_locks": list(routed["scale_locks"]),
         }
         attempts = entry["attempts"]
         attempt = self.rough._create_attempt(
@@ -792,7 +833,10 @@ class PanelConstruction:
             workflow=STAGE_WORKFLOW,
             extra_execution={
                 "provider_id": provider_id,
-                "backend_settings": backend.get("stage_settings", {}),
+                "backend_settings": {
+                    **backend.get("stage_settings", {}),
+                    "scale_locks": list(routed["scale_locks"]),
+                },
                 "control_inputs": control,
             },
             parent=attempts[-1] if attempts else None,

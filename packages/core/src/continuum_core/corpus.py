@@ -39,8 +39,23 @@ __all__ = [
 
 
 class ModelSheetKind(StrEnum):
+    """What a production sheet establishes. One approved sheet per variant.
+
+    Identity and body are what a character *is*; the manga translation is that
+    same character in the project's own black-and-white language, which is a
+    different question and drifts separately. An outfit sheet and a prop scale
+    sheet belong to one garment or one object, named by the sheet's variant.
+    """
+
     HEAD = "HEAD"
     FULL_BODY = "FULL_BODY"
+    MANGA_TRANSLATION = "MANGA_TRANSLATION"
+    """The character drawn in the project's manga language - not a desaturated
+    colour render and not a grey anime frame."""
+    OUTFIT = "OUTFIT"
+    """One garment set the character actually wears, as persistent story state."""
+    ACCESSORY_SCALE = "ACCESSORY_SCALE"
+    """One recurring object beside its wearer, so its size stops drifting."""
 
 
 class ModelSheetStatus(StrEnum):

@@ -21,6 +21,7 @@ from dataclasses import dataclass, field, replace
 from enum import StrEnum
 from typing import Any
 
+from continuum_config import comfy_model_family
 from continuum_core import ProviderUnavailableError
 from continuum_core.jobstates import BlockedReason
 from continuum_core.references import RenderOutput
@@ -89,20 +90,25 @@ CORE_NODES = (
 class ComfyModelFamily(StrEnum):
     """Which graph shape a checkpoint needs.
 
-    Not a preference and not a ranking: an SDXL-family checkpoint and a FLUX
-    model are loaded, prompted and sampled by different nodes, so the backend
-    builds a different graph for each. Both are configured the same way and
-    both record the same provenance.
+    Named after the shape rather than after any vendor's family, because the
+    shape is what the backend actually selects: one node that loads weights,
+    text encoder and VAE together, or three that load them separately with
+    their own guidance and latent nodes. Neither is a preference or a ranking.
+    The friendly names people type (and which vendor family they mean) are
+    configuration; see ``continuum_config.comfy_model_family``.
     """
 
-    SDXL = "SDXL"
-    FLUX = "FLUX"
+    UNIFIED_CHECKPOINT = "UNIFIED_CHECKPOINT"
+    """One checkpoint node loads the weights, the text encoder and the VAE."""
+    SEPARATE_ENCODERS = "SEPARATE_ENCODERS"
+    """Weights, two text encoders and the VAE load separately, with their own
+    guidance and latent nodes."""
 
 
 #: The extra nodes each family's graph uses, checked against the live server.
 FAMILY_NODES: dict[ComfyModelFamily, tuple[str, ...]] = {
-    ComfyModelFamily.SDXL: ("CheckpointLoaderSimple", "EmptyLatentImage"),
-    ComfyModelFamily.FLUX: (
+    ComfyModelFamily.UNIFIED_CHECKPOINT: ("CheckpointLoaderSimple", "EmptyLatentImage"),
+    ComfyModelFamily.SEPARATE_ENCODERS: (
         "UNETLoader",
         "DualCLIPLoader",
         "VAELoader",
@@ -189,8 +195,8 @@ class ComfyConfig:
     backend: ArtworkBackendKind
     base_url: str
     model: ComfyModel
-    family: ComfyModelFamily = ComfyModelFamily.SDXL
-    #: FLUX loads its text encoders and VAE separately from the weights.
+    family: ComfyModelFamily = ComfyModelFamily.UNIFIED_CHECKPOINT
+    #: A split-encoder family loads its text encoders and VAE separately.
     clip_names: tuple[str, ...] = ()
     vae_name: str = ""
     guidance: float = 3.5
@@ -278,18 +284,18 @@ class GraphPorts:
     sampler: str
 
 
-#: The SDXL graph loads weights, text encoder and VAE from one checkpoint node.
-SDXL_PORTS = GraphPorts(model=["4", 0], clip=["4", 1], sampler="3")
-#: FLUX loads each separately, so the ports point at three different nodes.
-FLUX_PORTS = GraphPorts(model=["4", 0], clip=["41", 0], sampler="3")
+#: One checkpoint node carries the weights, the text encoder and the VAE.
+UNIFIED_PORTS = GraphPorts(model=["4", 0], clip=["4", 1], sampler="3")
+#: Loaded separately: the ports point at different nodes.
+SPLIT_PORTS = GraphPorts(model=["4", 0], clip=["41", 0], sampler="3")
 
 
 def ports(family: ComfyModelFamily) -> GraphPorts:
-    return FLUX_PORTS if family is ComfyModelFamily.FLUX else SDXL_PORTS
+    return SPLIT_PORTS if family is ComfyModelFamily.SEPARATE_ENCODERS else UNIFIED_PORTS
 
 
-def _flux_master_graph() -> dict[str, Any]:
-    """FLUX: separate weights, dual text encoders, its own guidance and latent."""
+def _split_master_graph() -> dict[str, Any]:
+    """Split encoders: separate weights, two text encoders, its own guidance."""
     return {
         "4": {
             "class_type": "UNETLoader",
@@ -333,9 +339,9 @@ def _flux_master_graph() -> dict[str, Any]:
     }
 
 
-def _flux_color_graph() -> dict[str, Any]:
-    """FLUX continuing from an image: the same graph with an encoded latent."""
-    graph = _flux_master_graph()
+def _split_color_graph() -> dict[str, Any]:
+    """The split-encoder graph continuing from an image, as an encoded latent."""
+    graph = _split_master_graph()
     graph["10"] = {"class_type": "LoadImage", "inputs": {"image": "$master"}}
     graph["11"] = {
         "class_type": "VAEEncode",
@@ -446,7 +452,7 @@ STAGE_TAGS: dict[str, tuple[str, ...]] = {
 
 
 def stage_workflow_manifest(
-    family: ComfyModelFamily = ComfyModelFamily.SDXL,
+    family: ComfyModelFamily = ComfyModelFamily.UNIFIED_CHECKPOINT,
     loras: Sequence[ComfyLora] = (),
 ) -> dict[str, str]:
     templates = {
@@ -464,7 +470,7 @@ def stage_workflow_manifest(
 
 
 def workflow_manifest(
-    family: ComfyModelFamily = ComfyModelFamily.SDXL,
+    family: ComfyModelFamily = ComfyModelFamily.UNIFIED_CHECKPOINT,
     loras: Sequence[ComfyLora] = (),
 ) -> dict[str, str]:
     templates = {
@@ -481,12 +487,14 @@ def workflow_manifest(
 
 def master_graph(family: ComfyModelFamily) -> dict[str, Any]:
     """A first-stage (or page-master) graph for this family."""
-    return _flux_master_graph() if family is ComfyModelFamily.FLUX else _master_graph()
+    split = family is ComfyModelFamily.SEPARATE_ENCODERS
+    return _split_master_graph() if split else _master_graph()
 
 
 def continue_graph(family: ComfyModelFamily) -> dict[str, Any]:
     """A graph that continues from an image this family already produced."""
-    return _flux_color_graph() if family is ComfyModelFamily.FLUX else _color_graph()
+    split = family is ComfyModelFamily.SEPARATE_ENCODERS
+    return _split_color_graph() if split else _color_graph()
 
 
 def _add_loras(
@@ -725,15 +733,17 @@ class ComfyPageProvider:
                 family = self.config.family
                 wanted = (*CORE_NODES, *FAMILY_NODES[family])
                 status.missing_nodes = [node for node in wanted if node not in nodes]
-                # Identity and scene conditioning ride the SDXL IP-Adapter nodes.
-                # A FLUX graph has no equivalent here, and says so rather than
-                # pretending a reference shaped the image.
-                status.identity_conditioning = family is ComfyModelFamily.SDXL and all(
-                    node in nodes for node in IDENTITY_NODES
+                # Identity and scene conditioning ride the IP-Adapter nodes of
+                # the unified-checkpoint graph. The split-encoder graph has no
+                # equivalent here, and says so rather than pretending a
+                # reference shaped the image.
+                status.identity_conditioning = (
+                    family is ComfyModelFamily.UNIFIED_CHECKPOINT
+                    and all(node in nodes for node in IDENTITY_NODES)
                 )
                 loader, field = (
                     ("UNETLoader", "unet_name")
-                    if family is ComfyModelFamily.FLUX
+                    if family is ComfyModelFamily.SEPARATE_ENCODERS
                     else ("CheckpointLoaderSimple", "ckpt_name")
                 )
                 listed = (((info.get(loader) or {}).get("input") or {}).get("required") or {}).get(
@@ -1199,7 +1209,7 @@ class ComfyPageProvider:
             preserves_upstream=True,
             identity_conditioning=status.identity_conditioning,
             reference_conditioning=status.identity_conditioning,
-            #: FLUX here draws from the prompt and the upstream image only.
+            #: A split-encoder graph draws from the prompt and the upstream only.
             source_excerpts=(
                 self.config.backend is not ArtworkBackendKind.COMFY_REMOTE
                 or self.config.allow_source_excerpts
@@ -1528,7 +1538,7 @@ def configured_providers(settings: Any) -> list[ComfyPageProvider]:
         backend=ArtworkBackendKind.COMFY_LOCAL,
         base_url="",
         model=model,
-        family=ComfyModelFamily(str(getattr(settings, "comfy_model_family", "SDXL") or "SDXL")),
+        family=ComfyModelFamily(comfy_model_family(settings)),
         clip_names=clips,
         vae_name=str(getattr(settings, "comfy_vae_name", "") or ""),
         guidance=float(getattr(settings, "comfy_flux_guidance", 3.5)),

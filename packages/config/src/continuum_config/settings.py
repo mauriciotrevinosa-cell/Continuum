@@ -30,6 +30,7 @@ __all__ = [
     "ProductionProfile",
     "Settings",
     "SpendPolicy",
+    "comfy_model_family",
     "get_settings",
     "policies",
 ]
@@ -191,9 +192,11 @@ class Settings(BaseSettings):
     comfy_checkpoint_sha256: str = ""
     comfy_checkpoint_license: str = ""
     comfy_checkpoint_source: str = ""
-    #: Which graph shape the checkpoint needs: "SDXL" or "FLUX". The two load,
-    #: prompt and sample differently; neither is the better one.
-    comfy_model_family: str = "SDXL"
+    #: Which graph shape the checkpoint needs. Accepts the shape itself
+    #: ("UNIFIED_CHECKPOINT", "SEPARATE_ENCODERS") or the vendor family name
+    #: people actually type; see COMFY_FAMILY_ALIASES. The two load, prompt
+    #: and sample differently; neither is the better one.
+    comfy_model_family: str = "UNIFIED_CHECKPOINT"
     #: FLUX loads its text encoders and VAE separately, as ComfyUI lists them.
     comfy_clip_names: str = Field(default="", description="Two names separated by ';'.")
     comfy_vae_name: str = ""
@@ -380,3 +383,31 @@ def policies(settings: Settings) -> tuple[LocalityPolicy, SpendPolicy]:
     """The two policies in force: the profile's pair, with any explicit override."""
     locality, spend = PROFILE_POLICIES[settings.production_profile]
     return (settings.locality_policy or locality, settings.spend_policy or spend)
+
+
+#: What people type, and the graph shape it means. Vendor family names belong
+#: here rather than in the engine (ADR-0004 section 4): a family can be renamed
+#: or a new one added by editing this table and nothing else.
+COMFY_FAMILY_ALIASES: dict[str, str] = {
+    "UNIFIED_CHECKPOINT": "UNIFIED_CHECKPOINT",
+    "SEPARATE_ENCODERS": "SEPARATE_ENCODERS",
+    "SD15": "UNIFIED_CHECKPOINT",
+    "SDXL": "UNIFIED_CHECKPOINT",
+    "PONY": "UNIFIED_CHECKPOINT",
+    "ILLUSTRIOUS": "UNIFIED_CHECKPOINT",
+    "ANIMAGINE": "UNIFIED_CHECKPOINT",
+    "FLUX": "SEPARATE_ENCODERS",
+    "SD3": "SEPARATE_ENCODERS",
+}
+
+
+def comfy_model_family(settings: Settings) -> str:
+    """The graph shape the configured checkpoint needs, from name or alias."""
+    raw = str(settings.comfy_model_family or "UNIFIED_CHECKPOINT").strip().upper()
+    try:
+        return COMFY_FAMILY_ALIASES[raw]
+    except KeyError:
+        raise ValueError(
+            f"CONTINUUM_COMFY_MODEL_FAMILY={raw!r} is not a known model family. "
+            "Known: " + ", ".join(sorted(COMFY_FAMILY_ALIASES)) + "."
+        ) from None

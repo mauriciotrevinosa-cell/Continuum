@@ -134,8 +134,8 @@ it costs.
 | Provider | Locality | Cost | Draws | Conditions references |
 | --- | --- | --- | --- | --- |
 | `fake.deterministic-*` | local | free | diagrams (never artwork) | no |
-| `comfy.local` | local | free | pages, panel stages | yes (SDXL family) |
-| `comfy.remote` | remote | free | pages, panel stages | yes (SDXL family) |
+| `comfy.local` | local | free | pages, panel stages | yes (unified graph) |
+| `comfy.remote` | remote | free | pages, panel stages | yes (unified graph) |
 | `google.image` | remote | **paid** | images, sheets, panel stages | yes (attached) |
 
 The paid provider is registered only when `CONTINUUM_GOOGLE_IMAGES_ENABLED` is
@@ -154,16 +154,18 @@ Model identifiers live only in the provider registry and configuration
 `comfy.*` builds a different graph per family, selected by configuration:
 
 ```bash
-CONTINUUM_COMFY_MODEL_FAMILY=SDXL      # checkpoint -> encode -> sample
-CONTINUUM_COMFY_MODEL_FAMILY=FLUX      # unet + dual text encoders + vae + guidance
+# The shape, or the vendor family name that means it (COMFY_FAMILY_ALIASES).
+CONTINUUM_COMFY_MODEL_FAMILY=UNIFIED_CHECKPOINT   # one node: weights, encoder, VAE
+CONTINUUM_COMFY_MODEL_FAMILY=SEPARATE_ENCODERS    # weights + two encoders + VAE
 CONTINUUM_COMFY_CLIP_NAMES='clip_l.safetensors;t5xxl_fp8_e4m3fn.safetensors'
 CONTINUUM_COMFY_VAE_NAME=ae.safetensors
 ```
 
 Neither family is "the good one". They are routed by what a task needs, and
 the backend is honest about the difference: the IP-Adapter identity and scene
-lanes are an SDXL-family path, so a FLUX backend reports **no** reference
-conditioning and refuses a panel with a cast rather than drawing a stranger.
+lanes belong to the unified-checkpoint graph, so a split-encoder backend
+reports **no** reference conditioning and refuses a panel with a cast rather
+than drawing a stranger.
 Environment-only stages are exactly where the two are worth comparing today.
 
 Adapters are configuration too:
@@ -286,8 +288,8 @@ Nothing trains here. Running a job is a separate, deliberate act.
 * colour production. Black-and-white first; colour is derived later from
   approved drawings and approved palettes. `COLOR_REFERENCE` is carried as a
   recorded fact today, not conditioned.
-* reference conditioning for the FLUX family (no IP-Adapter path here yet);
-  declared as unavailable rather than faked.
+* reference conditioning for the split-encoder family (no IP-Adapter path
+  here yet); declared as unavailable rather than faked.
 * running a training job, and any adapter trained from these manifests.
 * automatic settlement of paid spend from provider invoices: costs are settled
   explicitly, with the estimate as the default.

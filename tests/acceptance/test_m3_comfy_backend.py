@@ -68,7 +68,7 @@ class FakeComfy:
         *,
         identity: bool = True,
         checkpoint: str = CHECKPOINT,
-        family: ComfyModelFamily = ComfyModelFamily.SDXL,
+        family: ComfyModelFamily = ComfyModelFamily.UNIFIED_CHECKPOINT,
     ) -> None:
         self.identity = identity
         self.checkpoint = checkpoint
@@ -105,7 +105,7 @@ class FakeComfy:
                         nodes.update({name: {} for name in IDENTITY_NODES})
                     loader, field = (
                         ("UNETLoader", "unet_name")
-                        if fake.family is ComfyModelFamily.FLUX
+                        if fake.family is ComfyModelFamily.SEPARATE_ENCODERS
                         else ("CheckpointLoaderSimple", "ckpt_name")
                     )
                     nodes[loader] = {

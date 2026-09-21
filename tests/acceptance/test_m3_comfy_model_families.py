@@ -50,7 +50,7 @@ def _flux(url: str, loras: tuple[ComfyLora, ...] = ()) -> ComfyPageProvider:
             backend=ArtworkBackendKind.COMFY_LOCAL,
             base_url=url,
             model=MODEL,
-            family=ComfyModelFamily.FLUX,
+            family=ComfyModelFamily.SEPARATE_ENCODERS,
             clip_names=("clip-a.safetensors", "clip-b.safetensors"),
             vae_name="vae.safetensors",
             loras=loras,
@@ -69,7 +69,7 @@ def _nodes(graph: dict[str, Any]) -> set[str]:
 
 
 def test_a_flux_checkpoint_gets_its_own_graph_not_a_renamed_one() -> None:
-    with FakeComfy(family=ComfyModelFamily.FLUX) as comfy:
+    with FakeComfy(family=ComfyModelFamily.SEPARATE_ENCODERS) as comfy:
         provider = _flux(comfy.url)
         assert provider.status(refresh=True).ready
         provider.render_stage(_request("COMPOSITION", None))
@@ -92,7 +92,7 @@ def test_the_other_family_keeps_working_exactly_as_before() -> None:
 
 
 def test_a_flux_stage_continues_from_the_frozen_upstream() -> None:
-    with FakeComfy(family=ComfyModelFamily.FLUX) as comfy:
+    with FakeComfy(family=ComfyModelFamily.SEPARATE_ENCODERS) as comfy:
         _flux(comfy.url).render_stage(_request("LINE", _png(300, 420)))
         graph = comfy.prompts[-1]
         assert "VAEEncode" in _nodes(graph)
@@ -102,7 +102,7 @@ def test_a_flux_stage_continues_from_the_frozen_upstream() -> None:
 
 def test_flux_does_not_claim_reference_conditioning_it_does_not_have() -> None:
     """Honesty, not capability: the IP-Adapter lanes are an SDXL-family path."""
-    with FakeComfy(family=ComfyModelFamily.FLUX) as comfy:
+    with FakeComfy(family=ComfyModelFamily.SEPARATE_ENCODERS) as comfy:
         provider = _flux(comfy.url)
         caps = provider.stage_capabilities
         assert caps.identity_conditioning is False
@@ -125,7 +125,7 @@ def test_an_adapter_is_applied_once_and_recorded_with_the_image() -> None:
         sampler = next(n for n in graph.values() if n["class_type"] == "KSampler")
         assert graph[sampler["inputs"]["model"][0]]["class_type"] == "LoraLoader"
         recorded = result.provenance["model"]
-        assert recorded["family"] == "SDXL"
+        assert recorded["family"] == "UNIFIED_CHECKPOINT"
         assert recorded["loras"][0]["sha256"] == "d" * 64
         assert recorded["loras"][0]["license"] == "a permissive licence"
 

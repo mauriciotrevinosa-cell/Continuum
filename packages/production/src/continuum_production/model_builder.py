@@ -38,6 +38,7 @@ from continuum_providers.artwork import (
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
+from continuum_production.budget import SpendLedger, paid_call
 from continuum_production.character_models import CharacterModels
 from continuum_production.corpus import CharacterCorpus
 
@@ -384,6 +385,7 @@ def render_model_sheet(
     catalog: ReferenceCatalog,
     providers: ProviderRegistry,
     corpus: CharacterCorpus,
+    ledger: SpendLedger | None = None,
 ) -> dict[str, Any]:
     row = session.get(CharacterModelSheetAttempt, attempt_id)
     if row is None:
@@ -411,24 +413,36 @@ def render_model_sheet(
                 },
             )
         )
-    result = provider.render_character_sheet(
-        CharacterSheetRequest(
-            sheet_kind=row.sheet_kind,
-            views=tuple(row.views),
-            width=1600,
-            height=1000,
-            seed=row.seed,
-            references=tuple(refs),
-            identity_rules=tuple(row.rules["identity"]),
-            restrictions=tuple(row.rules["restrictions"]),
-            outfit_id=row.rules.get("active_outfit_id"),
-            settings={
-                "recipe": MODEL_SHEET_RECIPE,
-                "variant_key": row.variant_key,
-                **({"tier": row.rules["tier"]} if row.rules.get("tier") else {}),
-            },
+    # A paid backend holds its estimated cost before it is called and settles
+    # it after; a free one is called with nothing held. A paid backend reached
+    # without a ledger is refused rather than quietly billed.
+    with paid_call(
+        ledger,
+        provider.descriptor,
+        purpose="CHARACTER_SHEET",
+        width=1600,
+        height=1000,
+        subject=f"sheet:{row.id}",
+        detail={"sheet_kind": row.sheet_kind, "variant_key": row.variant_key},
+    ):
+        result = provider.render_character_sheet(
+            CharacterSheetRequest(
+                sheet_kind=row.sheet_kind,
+                views=tuple(row.views),
+                width=1600,
+                height=1000,
+                seed=row.seed,
+                references=tuple(refs),
+                identity_rules=tuple(row.rules["identity"]),
+                restrictions=tuple(row.rules["restrictions"]),
+                outfit_id=row.rules.get("active_outfit_id"),
+                settings={
+                    "recipe": MODEL_SHEET_RECIPE,
+                    "variant_key": row.variant_key,
+                    **({"tier": row.rules["tier"]} if row.rules.get("tier") else {}),
+                },
+            )
         )
-    )
     if result.output is not RenderOutput.ARTWORK_CANDIDATE:
         raise CatalogInputError("A test render cannot become a model-sheet candidate.")
     provenance = result.provenance or {}

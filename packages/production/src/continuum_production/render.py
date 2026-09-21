@@ -52,6 +52,7 @@ from continuum_storage import SourceChangedError, SourceUnavailableError
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
+from continuum_production.budget import SpendLedger, paid_call
 from continuum_production.layered import COMPOSE_SCHEMA, STAGE_SCHEMA
 from continuum_production.recipe import CHANGING
 
@@ -73,6 +74,7 @@ def render_attempt(
     *,
     catalog: ReferenceCatalog,
     providers: ProviderRegistry,
+    ledger: SpendLedger | None = None,
 ) -> dict[str, Any]:
     attempt = session.execute(
         select(RoughAttempt).where(RoughAttempt.id == attempt_id)
@@ -89,7 +91,9 @@ def render_attempt(
     assert recipe is not None and artifact is not None
     schema = (recipe.intent or {}).get("schema")
     if schema == STAGE_SCHEMA:
-        return _render_stage(session, attempt, recipe, catalog=catalog, providers=providers)
+        return _render_stage(
+            session, attempt, recipe, catalog=catalog, providers=providers, ledger=ledger
+        )
     if schema == COMPOSE_SCHEMA:
         return _compose_page(session, attempt, recipe, catalog=catalog)
     if attempt.production_page_id is not None:
@@ -501,6 +505,7 @@ def _render_stage(
     *,
     catalog: ReferenceCatalog,
     providers: ProviderRegistry,
+    ledger: SpendLedger | None = None,
 ) -> dict[str, Any]:
     """One construction stage of one panel, built on the frozen upstream it names."""
     from continuum_core.routing import ReferencePurpose
@@ -633,7 +638,18 @@ def _render_stage(
             remediation="Use a stage backend that covers this stage, or change the profile.",
             blocked_reason=BlockedReason.MISSING_PROVIDER.value,
         )
-    result = provider.render_stage(request)
+    # The cost gate sits immediately around the call that spends the money.
+    with paid_call(
+        ledger,
+        provider.descriptor,
+        purpose="PANEL_STAGE",
+        width=request.width,
+        height=request.height,
+        subject=f"stage:{attempt.id}",
+        job_id=attempt.job_id,
+        detail={"stage": stage, "provider_id": provider_id},
+    ):
+        result = provider.render_stage(request)
     problems = check_stage_result(request, result)
     if problems:
         raise ProviderUnavailableError(

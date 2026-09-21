@@ -11,6 +11,7 @@ from continuum_db.session import session_scope
 from continuum_jobs import JobContext, UnitOutcome, UnitSpec
 from continuum_library import ReferenceCatalog
 from continuum_library.catalog_records import CatalogRecordSupplement
+from continuum_production.budget import SpendLedger
 from continuum_production.corpus import CharacterCorpus
 from continuum_production.manga import source_page_reader
 from continuum_production.model_builder import MODEL_SHEET_JOB_TYPE, render_model_sheet
@@ -44,6 +45,7 @@ class CharacterModelSheetHandler:
                 catalog=catalog,
                 providers=ctx.providers,
                 corpus=corpus,
+                ledger=_ledger(ctx),
             )
         )
 
@@ -70,3 +72,13 @@ class CharacterModelSheetHandler:
             )
             self._sources[key] = SourceAccess(media, vault)
         return self._sources[key]
+
+
+def _ledger(ctx: JobContext) -> SpendLedger | None:
+    """The budget this job spends against, when the settings configure one.
+
+    Without settings there is no cap to enforce, so a paid backend is refused
+    rather than billed: :func:`continuum_production.budget.paid_call` fails
+    closed on a missing ledger.
+    """
+    return None if ctx.settings is None else SpendLedger.from_settings(ctx.session, ctx.settings)

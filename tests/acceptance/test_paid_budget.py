@@ -16,7 +16,19 @@ import pytest
 from continuum_config import Settings
 from continuum_db.models import SpendBudget, SpendEntry
 from continuum_db.session import session_scope
-from continuum_production.budget import BudgetExceededError, SpendLedger, budget_view
+from continuum_production.budget import (
+    BudgetExceededError,
+    SpendLedger,
+    budget_view,
+    paid_call,
+)
+from continuum_providers.contracts import (
+    Capability,
+    CostClass,
+    Locality,
+    PrivacyClass,
+    ProviderDescriptor,
+)
 from continuum_providers.pricing import PriceList, micros_to_usd, usd_to_micros
 from sqlalchemy import delete
 from sqlalchemy.orm import Session
@@ -177,3 +189,53 @@ def test_money_is_counted_in_whole_micro_dollars() -> None:
     assert usd_to_micros(0.03) == 30_000
     assert micros_to_usd(30_000) == "0.03"
     assert micros_to_usd(10_000_000) == "10"
+
+
+# -- the gate that sits around the call that spends the money ---------------
+PAID_DESCRIPTOR = ProviderDescriptor(
+    id="test.paid",
+    capabilities=frozenset({Capability.IMAGE_GENERATE}),
+    locality=Locality.REMOTE,
+    cost_class=CostClass.PAID,
+    privacy_class=PrivacyClass.THIRD_PARTY,
+    model_ref="test-model",
+)
+
+
+def test_a_paid_call_holds_the_money_around_it_and_settles_on_success(
+    session: Session,
+) -> None:
+    ledger = _ledger(session)
+    with paid_call(ledger, PAID_DESCRIPTOR, purpose="SMOKE_TEST", width=1024, height=1024) as entry:
+        assert entry is not None
+        # Inside the call the money is already held, so a second request
+        # racing alongside it sees a smaller budget.
+        assert ledger.state()["reserved_micros"] == usd_to_micros(1)
+    state = ledger.state()
+    assert state["settled_micros"] == usd_to_micros(1)
+    assert state["reserved_micros"] == 0
+    assert state["remaining_micros"] == usd_to_micros(9)
+
+
+def test_a_failed_paid_call_keeps_none_of_the_budget(session: Session) -> None:
+    ledger = _ledger(session)
+    with pytest.raises(RuntimeError, match="the endpoint refused"):
+        with paid_call(ledger, PAID_DESCRIPTOR, purpose="SMOKE_TEST", width=1024, height=1024):
+            raise RuntimeError("the endpoint refused")
+    state = ledger.state()
+    assert state["reserved_micros"] == 0 and state["settled_micros"] == 0
+    assert state["remaining_micros"] == usd_to_micros(10)
+    (released,) = ledger.entries()
+    assert released["state"] == "RELEASED"
+
+
+def test_a_paid_call_that_would_not_fit_never_reaches_the_provider(
+    session: Session,
+) -> None:
+    ledger = _ledger(session, cap=0.5)
+    reached = False
+    with pytest.raises(BudgetExceededError, match=r"only \$0.5"):
+        with paid_call(ledger, PAID_DESCRIPTOR, purpose="SMOKE_TEST", width=1024, height=1024):
+            reached = True
+    assert reached is False
+    assert ledger.state()["reserved_micros"] == 0

@@ -1,0 +1,89 @@
+{
+  "_comment": [
+    "The shape of a first foundation batch. Copy it somewhere outside the",
+    "repository, replace every <placeholder> with your own cast, outfits and",
+    "props, and price it with scripts/foundation_batch.py before reserving.",
+    "Schema: docs/schemas/foundation-batch.v1.schema.json.",
+    "",
+    "Only the authority tier draws production sheets and multi-reference",
+    "calibration; the cheap tier is for exploration and comparison batches.",
+    "Set the model per item, or once in defaults."
+  ],
+  "schema": "continuum.foundation-batch/1",
+  "project_key": "<your-project-key>",
+  "label": "season 1 visual anchors, first pass",
+  "defaults": {
+    "provider_id": "google.image",
+    "model_ref": "<CONTINUUM_GOOGLE_IMAGE_MODEL_HIGH>",
+    "width": 1024,
+    "height": 1024
+  },
+  "items": [
+    {
+      "id": "sheet-01-head",
+      "kind": "CHARACTER_SHEET",
+      "character": "<character 1>",
+      "sheet_kind": "HEAD",
+      "count": 1
+    },
+    {
+      "id": "sheet-01-body",
+      "kind": "CHARACTER_SHEET",
+      "character": "<character 1>",
+      "sheet_kind": "FULL_BODY",
+      "count": 1
+    },
+    {
+      "id": "sheet-01-manga",
+      "kind": "CHARACTER_SHEET",
+      "character": "<character 1>",
+      "sheet_kind": "MANGA_TRANSLATION",
+      "count": 1,
+      "note": "the same person in the project's own black-and-white language"
+    },
+    {
+      "id": "outfit-01-default",
+      "kind": "OUTFIT_SHEET",
+      "character": "<character 1>",
+      "variant": "<outfit key>",
+      "count": 1,
+      "note": "only outfits that are persistent story state"
+    },
+    {
+      "id": "prop-01-scale",
+      "kind": "PROP_SCALE_SHEET",
+      "character": "<character 1>",
+      "variant": "<prop key>",
+      "count": 1,
+      "note": "the object beside its wearer, so its size stops drifting"
+    },
+    {
+      "id": "cal-01-rerun",
+      "kind": "CALIBRATION_RERUN",
+      "cal_id": "<CAL id>",
+      "count": 1,
+      "note": "evidence beside the approved master; it never replaces it"
+    },
+    {
+      "id": "interaction-01",
+      "kind": "INTERACTION",
+      "subject": "<two characters, one controlled beat>",
+      "count": 1
+    },
+    {
+      "id": "ensemble-01",
+      "kind": "ENSEMBLE",
+      "subject": "<the full main cast in one frame>",
+      "count": 1,
+      "note": "the consistency stress test; expect to reroll this one"
+    },
+    {
+      "id": "language-01",
+      "kind": "LANGUAGE_STRESS_TEST",
+      "subject": "<spot blacks, screentone, action energy>",
+      "count": 1,
+      "model_ref": "<CONTINUUM_GOOGLE_IMAGE_MODEL_CHEAP>",
+      "note": "exploration, so the cheap tier is the right one here"
+    }
+  ]
+}

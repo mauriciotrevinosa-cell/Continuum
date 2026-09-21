@@ -142,6 +142,20 @@ class PriceList:
                 )
             except (KeyError, TypeError, ValueError) as exc:
                 raise ValueError(f"price row {index} is not usable: {exc}") from exc
+        for index, price in enumerate(rows):
+            # A paid provider priced at zero would reserve nothing and then
+            # bill for real. A model that truly costs nothing needs no row:
+            # the cost gate only applies to providers that declare PAID.
+            if price.per_image_micros <= 0:
+                raise ValueError(
+                    f"price row {index} ({price.provider_id} / {price.model_ref}) costs "
+                    "nothing per image. Give it the real price, or remove the row."
+                )
+            if price.batch_per_image_micros is not None and price.batch_per_image_micros <= 0:
+                raise ValueError(
+                    f"price row {index} ({price.provider_id} / {price.model_ref}) has a "
+                    "batch price of zero. Give it the real price, or drop the batch price."
+                )
         return cls(rows)
 
     def estimate(

@@ -28,7 +28,7 @@ import base64
 import hashlib
 import json
 from collections.abc import Callable, Sequence
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Any
 
 from continuum_core import ProviderUnavailableError
@@ -68,6 +68,7 @@ __all__ = [
     "GoogleImageProvider",
     "ImageTier",
     "configured_google_provider",
+    "google_image_config",
 ]
 
 Transport = Callable[[str, str, bytes | None, dict[str, str]], tuple[int, bytes]]
@@ -92,6 +93,11 @@ class GoogleImageConfig:
     api_key: str
     #: tier -> model identifier, exactly as the vendor names it. Configured.
     models: dict[str, str]
+    #: The method appended to the model in the URL, e.g. ``<base>/<model>:<action>``.
+    #: Configurable so a REST rename does not need a code change.
+    action: str = "generateContent"
+    #: Merged over the request's own generation config, last word to the creator.
+    generation_config: dict[str, Any] = field(default_factory=dict)
     license_note: str = ""
     model_source: str = ""
     timeout_seconds: float = 120.0
@@ -103,7 +109,19 @@ class GoogleImageConfig:
 
     @property
     def configured(self) -> bool:
+        """Everything but the key has a default, so the key is what is missing."""
         return bool(self.endpoint and self.api_key and any(self.models.values()))
+
+    def missing(self) -> list[str]:
+        """What the creator still has to supply, named as environment variables."""
+        gaps = []
+        if not self.api_key:
+            gaps.append("CONTINUUM_GOOGLE_API_KEY")
+        if not self.endpoint:
+            gaps.append("CONTINUUM_GOOGLE_IMAGE_ENDPOINT")
+        if not any(self.models.values()):
+            gaps.append("CONTINUUM_GOOGLE_IMAGE_MODEL_HIGH")
+        return gaps
 
 
 def _urllib_transport(timeout: float) -> Transport:
@@ -188,7 +206,7 @@ class GoogleImageProvider:
 
     # -- transport ------------------------------------------------------------
     def _post(self, model: str, payload: dict[str, Any]) -> dict[str, Any]:
-        url = f"{self.config.endpoint.rstrip('/')}/{model}:generate"
+        url = f"{self.config.endpoint.rstrip('/')}/{model}:{self.config.action}"
         status, body = self.transport(
             "POST",
             url,
@@ -209,6 +227,19 @@ class GoogleImageProvider:
         if not isinstance(parsed, dict):
             raise ProviderUnavailableError("The paid image provider returned no object.")
         return parsed
+
+    def _request(self, parts: list[dict[str, Any]], seed: int) -> dict[str, Any]:
+        """One request body, in the shape the REST API takes.
+
+        ``responseModalities`` is what makes an image model return pixels rather
+        than prose; the creator can override or extend any of it through
+        ``CONTINUUM_GOOGLE_IMAGE_GENERATION_CONFIG`` without touching code.
+        """
+        generation: dict[str, Any] = {"responseModalities": ["IMAGE"]}
+        if seed:
+            generation["seed"] = int(seed)
+        generation.update(self.config.generation_config)
+        return {"contents": [{"role": "user", "parts": parts}], "generationConfig": generation}
 
     @staticmethod
     def _image(payload: dict[str, Any]) -> bytes:
@@ -279,11 +310,7 @@ class GoogleImageProvider:
     def generate_image(self, request: GenerationRequest) -> GenerationResult:
         tier = str(request.options.get("tier") or ImageTier.CHEAP)
         model = self.config.model_for(tier)
-        payload = {
-            "contents": [{"role": "user", "parts": [{"text": request.prompt}]}],
-            "generation_config": {"seed": request.seed or 0},
-        }
-        response = self._post(model, payload)
+        response = self._post(model, self._request([{"text": request.prompt}], request.seed or 0))
         data = self._image(response)
         return GenerationResult(
             provider_id=GOOGLE_PROVIDER_ID,
@@ -306,14 +333,9 @@ class GoogleImageProvider:
             "height": request.height,
             "prompt": prompt,
             "reference_images": len(parts) - 1,
+            "action": self.config.action,
         }
-        response = self._post(
-            model,
-            {
-                "contents": [{"role": "user", "parts": parts}],
-                "generation_config": {"seed": request.seed},
-            },
-        )
+        response = self._post(model, self._request(parts, request.seed))
         data = self._image(response)
         image = probe(data)
         return CharacterSheetResult(
@@ -349,13 +371,7 @@ class GoogleImageProvider:
             "upstream_held_by": "attached image" if request.upstream is not None else None,
             "lettering": "disabled; Continuum owns text after artwork",
         }
-        response = self._post(
-            model,
-            {
-                "contents": [{"role": "user", "parts": parts}],
-                "generation_config": {"seed": request.seed},
-            },
-        )
+        response = self._post(model, self._request(parts, request.seed))
         data = self._image(response)
         image = probe(data)
         provenance = self._provenance(model, tier, settings, request.seed)
@@ -446,21 +462,45 @@ def _stage_prompt(request: PanelStageRequest) -> str:
     return "\n".join(line for line in lines if line)[:4000]
 
 
-def configured_google_provider(settings: Any) -> GoogleImageProvider | None:
-    """The paid image provider, or None when the creator has not configured one."""
-    if not bool(getattr(settings, "google_images_enabled", False)):
-        return None
+def google_image_config(settings: Any) -> GoogleImageConfig:
+    """The configured paid provider, whether or not it is usable yet.
+
+    Endpoint, method, model tiers and licence all have defaults, so the only
+    thing the creator supplies is the key. ``missing()`` names what is absent.
+    """
     key: Any = getattr(settings, "google_api_key", None)
     secret = key.get_secret_value() if hasattr(key, "get_secret_value") else str(key or "")
-    config = GoogleImageConfig(
+    raw = str(getattr(settings, "google_image_generation_config", "") or "").strip()
+    generation = json.loads(raw) if raw else {}
+    if not isinstance(generation, dict):
+        raise ValueError(
+            "CONTINUUM_GOOGLE_IMAGE_GENERATION_CONFIG must be a JSON object, or empty."
+        )
+    return GoogleImageConfig(
         endpoint=str(getattr(settings, "google_image_endpoint", "") or ""),
         api_key=secret,
         models={
             ImageTier.CHEAP: str(getattr(settings, "google_image_model_cheap", "") or ""),
             ImageTier.HIGH: str(getattr(settings, "google_image_model_high", "") or ""),
         },
+        action=str(getattr(settings, "google_image_action", "generateContent") or ""),
+        generation_config=generation,
         license_note=str(getattr(settings, "google_image_license", "") or ""),
         model_source=str(getattr(settings, "google_image_source", "") or ""),
         timeout_seconds=float(getattr(settings, "google_image_timeout_seconds", 120.0)),
     )
+
+
+def configured_google_provider(settings: Any) -> GoogleImageProvider | None:
+    """The paid image provider, or None when the creator has not configured one.
+
+    The enable flag is a three-state override: unset means "on when a key is
+    present", and an explicit false means never. Registering the provider does
+    not permit spending - the spend policy and the budget ledger decide that,
+    separately and afterwards.
+    """
+    enabled = getattr(settings, "google_images_enabled", None)
+    if enabled is False:
+        return None
+    config = google_image_config(settings)
     return GoogleImageProvider(config) if config.configured else None

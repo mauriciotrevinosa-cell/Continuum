@@ -21,15 +21,18 @@ from __future__ import annotations
 
 import datetime as dt
 import uuid
+from collections.abc import Iterator
+from contextlib import contextmanager
 from typing import Any
 
 from continuum_core import PolicyViolationError
 from continuum_db.models import SpendBudget, SpendEntry
+from continuum_providers.contracts import CostClass
 from continuum_providers.pricing import Estimate, PriceList, micros_to_usd, usd_to_micros
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
-__all__ = ["BudgetExceededError", "SpendLedger", "budget_view"]
+__all__ = ["BudgetExceededError", "SpendLedger", "budget_view", "paid_call"]
 
 
 class BudgetExceededError(PolicyViolationError):
@@ -274,3 +277,61 @@ class SpendLedger:
             }
             for row in rows
         ]
+
+
+@contextmanager
+def paid_call(
+    ledger: SpendLedger | None,
+    descriptor: Any,
+    *,
+    purpose: str,
+    images: int = 1,
+    width: int = 0,
+    height: int = 0,
+    subject: str = "",
+    job_id: uuid.UUID | None = None,
+    detail: dict[str, Any] | None = None,
+) -> Iterator[SpendEntry | None]:
+    """Hold the cost around a provider call, or do nothing when it is free.
+
+    Every path that can reach a paid provider goes through here, so the cap is
+    enforced where the money is actually spent rather than only where somebody
+    remembered to check. Three behaviours, in order:
+
+    * a provider that does not cost money is called with nothing held;
+    * a paid provider with **no ledger** is refused. Failing closed is the
+      point: a caller that forgot the budget must not be the caller that
+      discovers the budget did not apply;
+    * otherwise the estimate is reserved first, settled when the call returns,
+      and released when it raises. A request that never produced an image
+      never keeps its money.
+    """
+    if getattr(descriptor, "cost_class", None) is not CostClass.PAID:
+        yield None
+        return
+    if ledger is None:
+        raise BudgetExceededError(
+            f"{getattr(descriptor, 'id', 'this provider')} costs money and this request "
+            "was assembled without a budget.",
+            remediation=(
+                "Run it through a path that holds the spend (the paid smoke test, or a "
+                "foundation batch), or use a free provider."
+            ),
+        )
+    entry = ledger.reserve(
+        str(descriptor.id),
+        str(getattr(descriptor, "model_ref", "") or ""),
+        purpose=purpose,
+        images=images,
+        width=width,
+        height=height,
+        subject=subject,
+        job_id=job_id,
+        detail=detail,
+    )
+    try:
+        yield entry
+    except Exception:
+        ledger.release(entry.id, "the paid request did not produce an image")
+        raise
+    ledger.settle(entry.id)

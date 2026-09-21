@@ -209,21 +209,35 @@ class Settings(BaseSettings):
     #: Pages of commercial source manga never go to a remote server unless allowed here.
     comfy_remote_allow_source_excerpts: bool = False
 
-    # -- paid image provider (M3). Off unless every part is configured. ----
-    # Enabling it registers the provider; the spend policy and the budget
-    # ledger still decide, separately, whether any single request may run.
-    google_images_enabled: bool = False
+    # -- paid image provider (M3) ------------------------------------------
+    # Everything but the key has a working default, so the creator supplies one
+    # secret and nothing else. Having the provider *registered* is not
+    # permission to spend: the spend policy decides whether it may ever be
+    # selected, and the budget ledger decides whether one request fits.
+    #
+    # Leave the flag unset for "on when a key is present". Set it to false to
+    # hard-disable the provider whatever else is configured.
+    google_images_enabled: bool | None = None
     google_api_key: SecretStr = SecretStr("")
     google_image_endpoint: str = Field(
-        default="", description="Base URL of the image endpoint, without a model."
+        default="https://generativelanguage.googleapis.com/v1beta/models",
+        description="Base URL of the image endpoint, without a model or method.",
     )
+    #: The method appended as ``<base>/<model>:<action>``.
+    google_image_action: str = "generateContent"
     #: Model identifiers exactly as the vendor names them. Two tiers: a cheap
-    #: one for exploration and comparison, a better one for the few artifacts
-    #: everything else is built from. Names change; this is configuration.
-    google_image_model_cheap: str = ""
-    google_image_model_high: str = ""
-    google_image_license: str = ""
-    google_image_source: str = ""
+    #: one for exploration and comparison, a better one for the artifacts
+    #: everything else is built from - production character sheets and
+    #: multi-reference calibration belong to the authority tier, never the
+    #: cheap one. Names change; this is configuration, which is why it lives
+    #: here and nowhere else (ADR-0004 section 4).
+    google_image_model_high: str = "gemini-3-pro-image"
+    google_image_model_cheap: str = "gemini-3.1-flash-image"
+    #: Merged over each request's generation config, so a schema change can be
+    #: absorbed from .env instead of from a release.
+    google_image_generation_config: str = ""
+    google_image_license: str = "Google Gemini API terms; hosted model, weights not distributed"
+    google_image_source: str = "https://ai.google.dev/gemini-api/docs"
     google_image_timeout_seconds: float = Field(default=120.0, gt=0, le=1800)
 
     # -- library acquisition (D-01: data outside the repository) -----------

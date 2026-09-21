@@ -60,3 +60,7 @@ docker-compose.override.yml
 # Build artifact, regenerated on every build.
 apps/web/tsconfig.tsbuildinfo
 apps/web/.openapi.json
+
+# Database backups taken before a migration. Never committed: they contain
+# the creator's real catalogue.
+/backups/

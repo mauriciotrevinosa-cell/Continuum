@@ -19,6 +19,7 @@ from continuum_jobs import JobContext, UnitOutcome, UnitSpec
 from continuum_library import ReferenceCatalog
 from continuum_library.catalog_records import CatalogRecordSupplement
 from continuum_production import ROUGH_JOB_TYPE, render_attempt
+from continuum_production.budget import SpendLedger
 from continuum_storage import AcquisitionStore, MediaLibrary, SourceAccess
 
 __all__ = ["RoughAttemptHandler"]
@@ -43,8 +44,15 @@ class RoughAttemptHandler:
         catalog = ReferenceCatalog(
             ctx.session, sources=self._source_access(ctx), derived=ctx.derived
         )
+        ledger = (
+            None if ctx.settings is None else SpendLedger.from_settings(ctx.session, ctx.settings)
+        )
         result = render_attempt(
-            ctx.session, self._attempt_id(ctx), catalog=catalog, providers=ctx.providers
+            ctx.session,
+            self._attempt_id(ctx),
+            catalog=catalog,
+            providers=ctx.providers,
+            ledger=ledger,
         )
         return UnitOutcome(result=result)
 

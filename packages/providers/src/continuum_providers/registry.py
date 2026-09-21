@@ -74,6 +74,42 @@ class ProviderRegistry:
             )
         return self.get(decision.provider_id)
 
+    def resolve_named(
+        self, provider_id: str, capability: Capability, data_class: DataClass
+    ) -> Provider:
+        """A provider the caller chose by name, still checked against the policy.
+
+        Automatic resolution prefers local and free, which is right for
+        ordinary work and wrong when a person has deliberately chosen a
+        specific backend - a paid tier for one authority render, a particular
+        GPU for a comparison. Naming it skips the *preference*, never the
+        rules: an unregistered id, a capability it does not offer, a data
+        class it may not receive or a policy that forbids it all refuse here
+        exactly as they would in :meth:`resolve`.
+        """
+        provider = self.get(provider_id)
+        descriptor = provider.descriptor
+        if not descriptor.supports(capability):
+            raise ProviderUnavailableError(
+                f"{provider_id} does not offer {capability.value}.",
+                technical_detail=f"offers: {sorted(c.value for c in descriptor.capabilities)}",
+                remediation="Name a provider that does, or use automatic resolution.",
+                blocked_reason=BlockedReason.MISSING_PROVIDER.value,
+            )
+        decision = self.policy.evaluate(capability, data_class, [descriptor])
+        if not decision.permitted:
+            remediation = dict(decision.remediation or {})
+            message = str(remediation.pop("message", f"{provider_id} is not permitted."))
+            action = str(remediation.pop("action", ""))
+            raise ProviderUnavailableError(
+                message,
+                technical_detail=f"provider={provider_id} data_class={data_class.value}",
+                remediation=action,
+                blocked_reason=(decision.blocked_reason or BlockedReason.MISSING_PROVIDER).value,
+                **remediation,
+            )
+        return provider
+
     def summary(self) -> list[dict[str, object]]:
         """Non-secret provider inventory for /health."""
         return [

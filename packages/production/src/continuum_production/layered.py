@@ -407,6 +407,7 @@ class PanelConstruction:
                 "state": state,
                 "reason": reason,
                 "can_render": not pending and upstream_ready,
+                "upstream_ready": upstream_ready,
                 "valid": valid,
             }
         return chain
@@ -655,6 +656,8 @@ class PanelConstruction:
         *,
         seed: int | None = None,
         notes: str = "",
+        provider_id: str | None = None,
+        allow_parallel: bool = False,
     ) -> RoughAttempt:
         page = self._page(page_id)
         if page.state in {"WAITING", "BLOCKED"}:
@@ -672,7 +675,10 @@ class PanelConstruction:
             )
         chain = self._chain(page, contract)
         entry = chain[stage]
-        if not entry["can_render"]:
+        # A comparison deliberately wants several candidates of the same stage
+        # at once; ordinary requests keep the guard against double-clicking.
+        ready = entry["upstream_ready"] if allow_parallel else entry["can_render"]
+        if not ready:
             raise CatalogConflictError(
                 entry["reason"]
                 or f"Stage {stage} is already rendering; review it when it finishes."
@@ -780,10 +786,12 @@ class PanelConstruction:
         for position, row in enumerate(inputs):
             row["position"] = position
 
-        provider_id = (
+        # A comparison names the backend for this attempt; otherwise the
+        # profile decides. A workflow test always draws diagrams.
+        stage_provider = (
             DEFAULT_STAGE_PROVIDER
             if run.purpose is RoughPurpose.WORKFLOW_TEST
-            else str(backend.get("stage_provider_id") or DEFAULT_STAGE_PROVIDER)
+            else (provider_id or str(backend.get("stage_provider_id") or DEFAULT_STAGE_PROVIDER))
         )
         intent: dict[str, Any] = {
             "schema": STAGE_SCHEMA,
@@ -832,7 +840,7 @@ class PanelConstruction:
             height=height,
             workflow=STAGE_WORKFLOW,
             extra_execution={
-                "provider_id": provider_id,
+                "provider_id": stage_provider,
                 "backend_settings": {
                     **backend.get("stage_settings", {}),
                     "scale_locks": list(routed["scale_locks"]),

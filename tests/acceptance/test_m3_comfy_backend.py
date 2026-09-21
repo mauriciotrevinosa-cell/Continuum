@@ -99,8 +99,7 @@ class FakeComfy:
             def do_GET(self) -> None:
                 if self.path == "/object_info":
                     nodes: dict[str, Any] = {
-                        name: {}
-                        for name in (*CORE_NODES, *FAMILY_NODES[fake.family], "LoraLoader")
+                        name: {} for name in (*CORE_NODES, *FAMILY_NODES[fake.family], "LoraLoader")
                     }
                     if fake.identity:
                         nodes.update({name: {} for name in IDENTITY_NODES})

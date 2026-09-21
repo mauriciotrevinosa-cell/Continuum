@@ -27,6 +27,7 @@ import sys
 import time
 import urllib.request
 from pathlib import Path
+from typing import Any
 
 COMFY_REPO = "https://github.com/Comfy-Org/ComfyUI.git"
 IPADAPTER_REPO = "https://github.com/cubiq/ComfyUI_IPAdapter_plus.git"
@@ -37,7 +38,7 @@ TUNNEL_PATTERN = re.compile(r"https://[a-z0-9-]+\.trycloudflare\.com")
 
 # Audited baseline for The Arrivals' first real visual calibration pass. Manual
 # arguments remain supported so this does not make Continuum model-specific.
-CALIBRATION_PRESETS: dict[str, dict[str, str]] = {
+CALIBRATION_PRESETS: dict[str, dict[str, Any]] = {
     "animagine-xl-4.0": {
         "checkpoint_url": (
             "https://huggingface.co/cagliostrolab/animagine-xl-4.0/resolve/main/"
@@ -60,7 +61,49 @@ CALIBRATION_PRESETS: dict[str, dict[str, str]] = {
         ),
         "clip_vision_name": "CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors",
         "clip_vision_sha256": "6ca9667da1ca9e0b0f75e46bb030f7e011f44f86cbfb8d5a36590fcd7507b030",
-    }
+        "family": "SDXL",
+    },
+    # A second family for side-by-side comparison. It loads its text encoders
+    # and VAE separately, and has no IP-Adapter here, so Continuum will not
+    # claim reference conditioning for it.
+    "flux-1-schnell": {
+        "checkpoint_url": (
+            "https://huggingface.co/black-forest-labs/FLUX.1-schnell/resolve/main/"
+            "flux1-schnell.safetensors?download=true"
+        ),
+        "checkpoint_name": "flux1-schnell.safetensors",
+        "checkpoint_dir": "unet",
+        "version": "1-schnell",
+        "license": "apache-2.0",
+        "source": "https://huggingface.co/black-forest-labs/FLUX.1-schnell",
+        "family": "FLUX",
+        "extra_files": [
+            {
+                "url": (
+                    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/"
+                    "clip_l.safetensors?download=true"
+                ),
+                "dir": "clip",
+                "name": "clip_l.safetensors",
+            },
+            {
+                "url": (
+                    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/"
+                    "t5xxl_fp8_e4m3fn.safetensors?download=true"
+                ),
+                "dir": "clip",
+                "name": "t5xxl_fp8_e4m3fn.safetensors",
+            },
+            {
+                "url": (
+                    "https://huggingface.co/black-forest-labs/FLUX.1-schnell/resolve/main/"
+                    "ae.safetensors?download=true"
+                ),
+                "dir": "vae",
+                "name": "ae.safetensors",
+            },
+        ],
+    },
 }
 
 
@@ -229,9 +272,16 @@ def main(argv: list[str]) -> int:
     if ip_requirements.exists():
         run(sys.executable, "-m", "pip", "install", "-r", str(ip_requirements))
 
-    checkpoint = comfy / "models" / "checkpoints" / args.checkpoint_name
+    checkpoint_dir = str(preset.get("checkpoint_dir") or "checkpoints")
+    checkpoint = comfy / "models" / checkpoint_dir / args.checkpoint_name
     download(args.checkpoint_url, checkpoint)
     checkpoint_sha = verify_sha256(checkpoint, preset.get("checkpoint_sha256", ""), "checkpoint")
+
+    # Families that load their text encoders and VAE separately.
+    for extra in preset.get("extra_files") or []:
+        path = comfy / "models" / str(extra["dir"]) / str(extra["name"])
+        download(str(extra["url"]), path)
+        verify_sha256(path, str(extra.get("sha256", "")), str(extra["name"]))
 
     if args.ipadapter_model_url:
         ip_path = comfy / "models" / "ipadapter" / args.ipadapter_model_name

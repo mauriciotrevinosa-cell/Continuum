@@ -37,9 +37,11 @@ from continuum_providers.artwork import (
 )
 from continuum_providers.comfy import (
     CORE_NODES,
+    FAMILY_NODES,
     IDENTITY_NODES,
     ComfyConfig,
     ComfyModel,
+    ComfyModelFamily,
     ComfyPageProvider,
 )
 from PIL import Image
@@ -61,9 +63,16 @@ def _png(width: int, height: int, shade: int) -> bytes:
 
 
 class FakeComfy:
-    def __init__(self, *, identity: bool = True, checkpoint: str = CHECKPOINT) -> None:
+    def __init__(
+        self,
+        *,
+        identity: bool = True,
+        checkpoint: str = CHECKPOINT,
+        family: ComfyModelFamily = ComfyModelFamily.SDXL,
+    ) -> None:
         self.identity = identity
         self.checkpoint = checkpoint
+        self.family = family
         self.uploads: list[str] = []
         self.prompts: list[dict[str, Any]] = []
         self.server = ThreadingHTTPServer(("127.0.0.1", 0), self._handler())
@@ -89,11 +98,19 @@ class FakeComfy:
 
             def do_GET(self) -> None:
                 if self.path == "/object_info":
-                    nodes: dict[str, Any] = {name: {} for name in CORE_NODES}
+                    nodes: dict[str, Any] = {
+                        name: {}
+                        for name in (*CORE_NODES, *FAMILY_NODES[fake.family], "LoraLoader")
+                    }
                     if fake.identity:
                         nodes.update({name: {} for name in IDENTITY_NODES})
-                    nodes["CheckpointLoaderSimple"] = {
-                        "input": {"required": {"ckpt_name": [[fake.checkpoint, "other.ckpt"]]}}
+                    loader, field = (
+                        ("UNETLoader", "unet_name")
+                        if fake.family is ComfyModelFamily.FLUX
+                        else ("CheckpointLoaderSimple", "ckpt_name")
+                    )
+                    nodes[loader] = {
+                        "input": {"required": {field: [[fake.checkpoint, "other.ckpt"]]}}
                     }
                     self._send(200, json.dumps(nodes).encode())
                 elif self.path.startswith("/history/"):
@@ -125,7 +142,8 @@ class FakeComfy:
                     latent = next(
                         n
                         for n in graph.values()
-                        if n["class_type"] in {"EmptyLatentImage", "LoadImage"}
+                        if n["class_type"]
+                        in {"EmptyLatentImage", "EmptySD3LatentImage", "LoadImage"}
                     )
                     size = (latent["inputs"].get("width", 300), latent["inputs"].get("height", 420))
                     self._send(200, _png(*size, 90 + 40 * len(fake.prompts)), "image/png")

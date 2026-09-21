@@ -18,6 +18,7 @@ import urllib.request
 import uuid
 from collections.abc import Callable, Sequence
 from dataclasses import dataclass, field, replace
+from enum import StrEnum
 from typing import Any
 
 from continuum_core import ProviderUnavailableError
@@ -54,13 +55,16 @@ from continuum_providers.stages import (
 
 __all__ = [
     "CORE_NODES",
+    "FAMILY_NODES",
     "IDENTITY_NODES",
     "STAGE_DENOISE",
     "STAGE_WORKFLOW_ID",
     "WORKFLOW_ID",
     "WORKFLOW_VERSION",
     "ComfyConfig",
+    "ComfyLora",
     "ComfyModel",
+    "ComfyModelFamily",
     "ComfyPageProvider",
     "ComfyStatus",
     "Transport",
@@ -71,17 +75,44 @@ __all__ = [
 
 WORKFLOW_ID = "continuum.comfy.page"
 WORKFLOW_VERSION = "3"
+#: Nodes every family needs, whatever loads the weights.
 CORE_NODES = (
-    "CheckpointLoaderSimple",
     "CLIPTextEncode",
-    "EmptyLatentImage",
     "KSampler",
     "VAEDecode",
     "VAEEncode",
     "SaveImage",
     "LoadImage",
 )
+
+
+class ComfyModelFamily(StrEnum):
+    """Which graph shape a checkpoint needs.
+
+    Not a preference and not a ranking: an SDXL-family checkpoint and a FLUX
+    model are loaded, prompted and sampled by different nodes, so the backend
+    builds a different graph for each. Both are configured the same way and
+    both record the same provenance.
+    """
+
+    SDXL = "SDXL"
+    FLUX = "FLUX"
+
+
+#: The extra nodes each family's graph uses, checked against the live server.
+FAMILY_NODES: dict[ComfyModelFamily, tuple[str, ...]] = {
+    ComfyModelFamily.SDXL: ("CheckpointLoaderSimple", "EmptyLatentImage"),
+    ComfyModelFamily.FLUX: (
+        "UNETLoader",
+        "DualCLIPLoader",
+        "VAELoader",
+        "FluxGuidance",
+        "EmptySD3LatentImage",
+        "ConditioningZeroOut",
+    ),
+}
 IDENTITY_NODES = ("IPAdapterUnifiedLoader", "IPAdapterAdvanced", "ImageBatch")
+LORA_NODE = "LoraLoader"
 NOISE_NEGATIVE = "HUD, videogame UI, status window, stat screen, computer overlay, interface panel"
 BASE_NEGATIVE = (
     "lowres, bad anatomy, bad hands, text, letters, typography, Japanese characters, error, "
@@ -125,10 +156,45 @@ class ComfyModel:
 
 
 @dataclass(frozen=True, slots=True)
+class ComfyLora:
+    """An adapter loaded on top of the base model, recorded with every render.
+
+    A render made with an adapter is not the same render without it, so the
+    adapter's name, version, hash and licence belong in the provenance exactly
+    like the checkpoint's.
+    """
+
+    name: str
+    strength_model: float = 1.0
+    strength_clip: float = 1.0
+    version: str = ""
+    sha256: str = ""
+    license: str = ""
+    source: str = ""
+
+    def as_dict(self) -> dict[str, Any]:
+        return {
+            "name": self.name,
+            "strength_model": self.strength_model,
+            "strength_clip": self.strength_clip,
+            "version": self.version,
+            "sha256": self.sha256,
+            "license": self.license,
+            "source": self.source,
+        }
+
+
+@dataclass(frozen=True, slots=True)
 class ComfyConfig:
     backend: ArtworkBackendKind
     base_url: str
     model: ComfyModel
+    family: ComfyModelFamily = ComfyModelFamily.SDXL
+    #: FLUX loads its text encoders and VAE separately from the weights.
+    clip_names: tuple[str, ...] = ()
+    vae_name: str = ""
+    guidance: float = 3.5
+    loras: tuple[ComfyLora, ...] = ()
     steps: int = 28
     cfg: float = 6.0
     sampler: str = "euler_ancestral"
@@ -197,6 +263,89 @@ class ComfyStatus:
             "model_metadata_missing": self.model_metadata_missing,
             "workflow": self.workflow,
         }
+
+
+@dataclass(frozen=True, slots=True)
+class GraphPorts:
+    """Where the conditioning lanes attach, whatever family built the graph.
+
+    The identity and scene lanes rewire one thing: what the sampler takes as
+    its model. Naming the ports here keeps that rewiring family-agnostic.
+    """
+
+    model: list[Any]
+    clip: list[Any]
+    sampler: str
+
+
+#: The SDXL graph loads weights, text encoder and VAE from one checkpoint node.
+SDXL_PORTS = GraphPorts(model=["4", 0], clip=["4", 1], sampler="3")
+#: FLUX loads each separately, so the ports point at three different nodes.
+FLUX_PORTS = GraphPorts(model=["4", 0], clip=["41", 0], sampler="3")
+
+
+def ports(family: ComfyModelFamily) -> GraphPorts:
+    return FLUX_PORTS if family is ComfyModelFamily.FLUX else SDXL_PORTS
+
+
+def _flux_master_graph() -> dict[str, Any]:
+    """FLUX: separate weights, dual text encoders, its own guidance and latent."""
+    return {
+        "4": {
+            "class_type": "UNETLoader",
+            "inputs": {"unet_name": "$checkpoint", "weight_dtype": "default"},
+        },
+        "41": {
+            "class_type": "DualCLIPLoader",
+            "inputs": {"clip_name1": "$clip1", "clip_name2": "$clip2", "type": "flux"},
+        },
+        "42": {"class_type": "VAELoader", "inputs": {"vae_name": "$vae"}},
+        "6": {"class_type": "CLIPTextEncode", "inputs": {"text": "$positive", "clip": ["41", 0]}},
+        "43": {
+            "class_type": "FluxGuidance",
+            "inputs": {"conditioning": ["6", 0], "guidance": "$guidance"},
+        },
+        "7": {"class_type": "ConditioningZeroOut", "inputs": {"conditioning": ["6", 0]}},
+        "5": {
+            "class_type": "EmptySD3LatentImage",
+            "inputs": {"width": "$width", "height": "$height", "batch_size": 1},
+        },
+        "3": {
+            "class_type": "KSampler",
+            "inputs": {
+                "seed": "$seed",
+                "steps": "$steps",
+                "cfg": 1.0,
+                "sampler_name": "$sampler",
+                "scheduler": "$scheduler",
+                "denoise": 1.0,
+                "model": ["4", 0],
+                "positive": ["43", 0],
+                "negative": ["7", 0],
+                "latent_image": ["5", 0],
+            },
+        },
+        "8": {"class_type": "VAEDecode", "inputs": {"samples": ["3", 0], "vae": ["42", 0]}},
+        "9": {
+            "class_type": "SaveImage",
+            "inputs": {"filename_prefix": "continuum_master", "images": ["8", 0]},
+        },
+    }
+
+
+def _flux_color_graph() -> dict[str, Any]:
+    """FLUX continuing from an image: the same graph with an encoded latent."""
+    graph = _flux_master_graph()
+    graph["10"] = {"class_type": "LoadImage", "inputs": {"image": "$master"}}
+    graph["11"] = {
+        "class_type": "VAEEncode",
+        "inputs": {"pixels": ["10", 0], "vae": ["42", 0]},
+    }
+    graph.pop("5")
+    graph["3"]["inputs"]["latent_image"] = ["11", 0]
+    graph["3"]["inputs"]["denoise"] = "$denoise"
+    graph["9"]["inputs"]["filename_prefix"] = "continuum_color"
+    return graph
 
 
 def _master_graph() -> dict[str, Any]:
@@ -296,10 +445,15 @@ STAGE_TAGS: dict[str, tuple[str, ...]] = {
 }
 
 
-def stage_workflow_manifest() -> dict[str, str]:
+def stage_workflow_manifest(
+    family: ComfyModelFamily = ComfyModelFamily.SDXL,
+    loras: Sequence[ComfyLora] = (),
+) -> dict[str, str]:
     templates = {
-        "first_stage": _master_graph(),
-        "later_stages": _color_graph(),
+        "family": family.value,
+        "loras": [lora.as_dict() for lora in loras],
+        "first_stage": master_graph(family),
+        "later_stages": continue_graph(family),
         "denoise": STAGE_DENOISE,
         "scene_conditioning": {key: list(value) for key, value in SCENE_CONDITIONING.items()},
         "tags": {key: list(value) for key, value in STAGE_TAGS.items()},
@@ -309,15 +463,61 @@ def stage_workflow_manifest() -> dict[str, str]:
     return {"id": STAGE_WORKFLOW_ID, "version": STAGE_WORKFLOW_VERSION, "sha256": digest}
 
 
-def workflow_manifest() -> dict[str, str]:
+def workflow_manifest(
+    family: ComfyModelFamily = ComfyModelFamily.SDXL,
+    loras: Sequence[ComfyLora] = (),
+) -> dict[str, str]:
     templates = {
-        "master": _master_graph(),
+        "family": family.value,
+        "loras": [lora.as_dict() for lora in loras],
+        "master": master_graph(family),
         "color": "panel-composite-passthrough-v1",
         "identity": list(IDENTITY_NODES),
         "composition": "deterministic-panel-first-v1",
     }
     digest = hashlib.sha256(json.dumps(templates, sort_keys=True).encode()).hexdigest()
     return {"id": WORKFLOW_ID, "version": WORKFLOW_VERSION, "sha256": digest}
+
+
+def master_graph(family: ComfyModelFamily) -> dict[str, Any]:
+    """A first-stage (or page-master) graph for this family."""
+    return _flux_master_graph() if family is ComfyModelFamily.FLUX else _master_graph()
+
+
+def continue_graph(family: ComfyModelFamily) -> dict[str, Any]:
+    """A graph that continues from an image this family already produced."""
+    return _flux_color_graph() if family is ComfyModelFamily.FLUX else _color_graph()
+
+
+def _add_loras(
+    graph: dict[str, Any], family: ComfyModelFamily, loras: Sequence[ComfyLora]
+) -> GraphPorts:
+    """Chain the configured adapters onto the base model, and say where they end.
+
+    Every later lane (identity, scene) and the sampler read the returned ports,
+    so an adapter is applied exactly once and never bypassed.
+    """
+    port = ports(family)
+    model, clip = list(port.model), list(port.clip)
+    for index, lora in enumerate(loras):
+        node = str(70 + index)
+        graph[node] = {
+            "class_type": LORA_NODE,
+            "inputs": {
+                "lora_name": lora.name,
+                "strength_model": lora.strength_model,
+                "strength_clip": lora.strength_clip,
+                "model": model,
+                "clip": clip,
+            },
+        }
+        model, clip = [node, 0], [node, 1]
+    if loras:
+        graph[port.sampler]["inputs"]["model"] = model
+        for node in graph.values():
+            if node["class_type"] == "CLIPTextEncode":
+                node["inputs"]["clip"] = clip
+    return GraphPorts(model=model, clip=clip, sampler=port.sampler)
 
 
 def _fill(graph: dict[str, Any], values: dict[str, Any]) -> dict[str, Any]:
@@ -515,24 +715,44 @@ class ComfyPageProvider:
                 "source": self.config.model.source,
             },
             model_metadata_missing=self.config.model.missing(),
-            workflow=workflow_manifest(),
+            workflow=workflow_manifest(self.config.family, self.config.loras),
         )
         if status.configured:
             try:
                 info = self._json("GET", "/object_info")
                 status.reachable = True
                 nodes = set(info or {})
-                status.missing_nodes = [node for node in CORE_NODES if node not in nodes]
-                status.identity_conditioning = all(node in nodes for node in IDENTITY_NODES)
+                family = self.config.family
+                wanted = (*CORE_NODES, *FAMILY_NODES[family])
+                status.missing_nodes = [node for node in wanted if node not in nodes]
+                # Identity and scene conditioning ride the SDXL IP-Adapter nodes.
+                # A FLUX graph has no equivalent here, and says so rather than
+                # pretending a reference shaped the image.
+                status.identity_conditioning = family is ComfyModelFamily.SDXL and all(
+                    node in nodes for node in IDENTITY_NODES
+                )
+                loader, field = (
+                    ("UNETLoader", "unet_name")
+                    if family is ComfyModelFamily.FLUX
+                    else ("CheckpointLoaderSimple", "ckpt_name")
+                )
                 listed = (
-                    ((info.get("CheckpointLoaderSimple") or {}).get("input") or {}).get("required")
-                    or {}
-                ).get("ckpt_name") or [[]]
+                    ((info.get(loader) or {}).get("input") or {}).get("required") or {}
+                ).get(field) or [[]]
                 names = listed[0] if listed and isinstance(listed[0], list) else []
                 status.checkpoints_listed = len(names)
                 status.checkpoint_available = (
                     bool(self.config.model.name) and self.config.model.name in names
                 )
+                status.model = {**status.model, "family": family.value}
+                if self.config.loras:
+                    missing_loras = [
+                        lora.name
+                        for lora in self.config.loras
+                        if LORA_NODE not in nodes or not lora.name
+                    ]
+                    if missing_loras:
+                        status.missing_nodes.append(LORA_NODE)
             except (OSError, ValueError, ProviderUnavailableError) as exc:
                 status.reachable = False
                 status.error = type(exc).__name__ + (f": {exc}" if str(exc) else "")
@@ -556,6 +776,29 @@ class ComfyPageProvider:
             max_edge=self.config.max_edge,
             notes=status.reason(),
         )
+
+    def _model_block(self) -> dict[str, Any]:
+        """What produced the image: the base model, its family, and any adapter."""
+        return {
+            "name": self.config.model.name,
+            "version": self.config.model.version,
+            "sha256": self.config.model.sha256,
+            "license": self.config.model.license,
+            "source": self.config.model.source,
+            "family": self.config.family.value,
+            "loras": [lora.as_dict() for lora in self.config.loras],
+        }
+
+    def _values(self, values: dict[str, Any]) -> dict[str, Any]:
+        """Add the placeholders only some families use, so one filler serves all."""
+        clips = [*self.config.clip_names, "", ""]
+        return {
+            **values,
+            "clip1": clips[0],
+            "clip2": clips[1],
+            "vae": self.config.vae_name,
+            "guidance": self.config.guidance,
+        }
 
     def _upload(self, name: str, data: bytes) -> str:
         boundary = uuid.uuid4().hex
@@ -713,9 +956,10 @@ class ComfyPageProvider:
         if not groups:
             return
 
+        page_port = ports(self.config.family)
         graph["20"] = {
             "class_type": "IPAdapterUnifiedLoader",
-            "inputs": {"model": ["4", 0], "preset": self.config.ipadapter_preset},
+            "inputs": {"model": page_port.model, "preset": self.config.ipadapter_preset},
         }
         model: list[Any] = ["20", 0]
         load_node = 100
@@ -853,7 +1097,8 @@ class ComfyPageProvider:
                 "scheduler": self.config.scheduler,
                 "denoise": self.config.color_denoise,
             }
-            graph = _fill(_master_graph(), values)
+            graph = _fill(master_graph(self.config.family), self._values(values))
+            _add_loras(graph, self.config.family, self.config.loras)
             if sent:
                 self._add_identity_chain(graph, sent, uploaded_cache)
             rendered = self._run(graph)
@@ -954,6 +1199,7 @@ class ComfyPageProvider:
             preserves_upstream=True,
             identity_conditioning=status.identity_conditioning,
             reference_conditioning=status.identity_conditioning,
+            #: FLUX here draws from the prompt and the upstream image only.
             source_excerpts=(
                 self.config.backend is not ArtworkBackendKind.COMFY_REMOTE
                 or self.config.allow_source_excerpts
@@ -1080,16 +1326,19 @@ class ComfyPageProvider:
         }
         uploaded: dict[str, str] = {}
         if request.upstream is None:
-            graph = _fill(_master_graph(), values)
+            graph = _fill(master_graph(self.config.family), self._values(values))
             denoise_used = 1.0
         else:
             digest = _sha(request.upstream)
             values["master"] = self._upload(f"continuum-stage-{digest[:24]}.png", request.upstream)
-            graph = _fill(_color_graph(), values)
+            graph = _fill(continue_graph(self.config.family), self._values(values))
             denoise_used = denoise
+        base = _add_loras(graph, self.config.family, self.config.loras)
         scene_type, scene_weight = SCENE_CONDITIONING[purpose.value]
         if sent or scene:
-            self._add_reference_lanes(graph, sent, scene, scene_type, scene_weight, uploaded)
+            self._add_reference_lanes(
+                graph, sent, scene, scene_type, scene_weight, uploaded, base
+            )
         data = self._run(graph)
         produced = probe(data)
         width, height = produced.width, produced.height
@@ -1108,14 +1357,8 @@ class ComfyPageProvider:
             image=RenderedImage(encoded.data, encoded.mime, encoded.width, encoded.height),
             provenance={
                 "backend": self.config.backend.value,
-                "model": {
-                    "name": self.config.model.name,
-                    "version": self.config.model.version,
-                    "sha256": self.config.model.sha256,
-                    "license": self.config.model.license,
-                    "source": self.config.model.source,
-                },
-                "workflow": stage_workflow_manifest(),
+                "model": self._model_block(),
+                "workflow": stage_workflow_manifest(self.config.family, self.config.loras),
                 "settings": {
                     "stage": request.stage,
                     "steps": self.config.steps,
@@ -1161,6 +1404,7 @@ class ComfyPageProvider:
         scene_type: str,
         scene_weight: float,
         uploaded_cache: dict[str, str],
+        base: GraphPorts | None = None,
     ) -> None:
         """A scene lane and one identity lane per character, as separate adapters.
 
@@ -1168,9 +1412,10 @@ class ComfyPageProvider:
         or style weight type; each named character then gets its own adapter. No
         image is ever in two lanes, and the scene lane never carries a character.
         """
+        port = base or ports(self.config.family)
         graph["20"] = {
             "class_type": "IPAdapterUnifiedLoader",
-            "inputs": {"model": ["4", 0], "preset": self.config.ipadapter_preset},
+            "inputs": {"model": port.model, "preset": self.config.ipadapter_preset},
         }
         model: list[Any] = ["20", 0]
         counters = {"load": 100, "batch": 300, "adapter": 500}
@@ -1228,7 +1473,7 @@ class ComfyPageProvider:
         identity_weight = self.config.ipadapter_weight / max(1.0, len(groups) ** 0.25)
         for group in groups.values():
             adapter(batch(group), identity_weight, "linear", 0.85)
-        graph["3"]["inputs"]["model"] = model
+        graph[port.sampler]["inputs"]["model"] = model
 
 
 def _sha(data: bytes) -> str:
@@ -1237,6 +1482,31 @@ def _sha(data: bytes) -> str:
 
 def _is_source_excerpt(reference: ArtworkReference) -> bool:
     return reference_data_class(reference.provenance or {}) is DataClass.SOURCE_EXCERPT
+
+
+def configured_loras(raw: str) -> tuple[ComfyLora, ...]:
+    """Adapters from configuration, as a JSON array. Malformed means none, loudly."""
+    if not raw.strip():
+        return ()
+    payload = json.loads(raw)
+    if not isinstance(payload, list):
+        raise ValueError("CONTINUUM_COMFY_LORAS must be a JSON array of adapter rows")
+    out = []
+    for index, item in enumerate(payload):
+        if not isinstance(item, dict) or not item.get("name"):
+            raise ValueError(f"adapter row {index} needs at least a name")
+        out.append(
+            ComfyLora(
+                name=str(item["name"]),
+                strength_model=float(item.get("strength_model", 1.0)),
+                strength_clip=float(item.get("strength_clip", 1.0)),
+                version=str(item.get("version", "")),
+                sha256=str(item.get("sha256", "")),
+                license=str(item.get("license", "")),
+                source=str(item.get("source", "")),
+            )
+        )
+    return tuple(out)
 
 
 def configured_providers(settings: Any) -> list[ComfyPageProvider]:
@@ -1248,10 +1518,20 @@ def configured_providers(settings: Any) -> list[ComfyPageProvider]:
         license=str(getattr(settings, "comfy_checkpoint_license", "") or ""),
         source=str(getattr(settings, "comfy_checkpoint_source", "") or ""),
     )
+    clips = tuple(
+        part.strip()
+        for part in str(getattr(settings, "comfy_clip_names", "") or "").split(";")
+        if part.strip()
+    )
     base = ComfyConfig(
         backend=ArtworkBackendKind.COMFY_LOCAL,
         base_url="",
         model=model,
+        family=ComfyModelFamily(str(getattr(settings, "comfy_model_family", "SDXL") or "SDXL")),
+        clip_names=clips,
+        vae_name=str(getattr(settings, "comfy_vae_name", "") or ""),
+        guidance=float(getattr(settings, "comfy_flux_guidance", 3.5)),
+        loras=configured_loras(str(getattr(settings, "comfy_loras", "") or "")),
         timeout_seconds=float(getattr(settings, "comfy_timeout_seconds", 900.0)),
     )
     out: list[ComfyPageProvider] = []

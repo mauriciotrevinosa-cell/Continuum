@@ -191,6 +191,17 @@ class Settings(BaseSettings):
     comfy_checkpoint_sha256: str = ""
     comfy_checkpoint_license: str = ""
     comfy_checkpoint_source: str = ""
+    #: Which graph shape the checkpoint needs: "SDXL" or "FLUX". The two load,
+    #: prompt and sample differently; neither is the better one.
+    comfy_model_family: str = "SDXL"
+    #: FLUX loads its text encoders and VAE separately, as ComfyUI lists them.
+    comfy_clip_names: str = Field(default="", description="Two names separated by ';'.")
+    comfy_vae_name: str = ""
+    comfy_flux_guidance: float = Field(default=3.5, ge=0, le=30)
+    #: Adapters (LoRA) as a JSON array: name, strengths, version, sha256,
+    #: license, source. Every one of them is recorded with each render, because
+    #: an image made with an adapter is not the image made without it.
+    comfy_loras: str = ""
     comfy_timeout_seconds: float = Field(default=900.0, gt=0, le=7200)
     #: Pages of commercial source manga never go to a remote server unless allowed here.
     comfy_remote_allow_source_excerpts: bool = False

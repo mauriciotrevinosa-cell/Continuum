@@ -94,3 +94,18 @@ Source Vault untouched · no bytes of any dataset or library in Git · no paid s
 approval without an accepted license · character identity never from style/technique references ·
 diffusion never owns panel count, cast, lettering or page composition · every stage and page has
 reproducible lineage (recipe hashes, inputs by role, upstream attempt, provider, seed).
+
+## Image-production infrastructure pass (2026-09-21)
+
+Reference routing, provider policy, cost and comparison moved on. Start here:
+
+* `docs/M3_IMAGE_PRODUCTION_INFRASTRUCTURE_REUSE_AUDIT.md` — what already
+  existed and what each new piece was built on;
+* `docs/M3_IMAGE_PRODUCTION_PIPELINE.md` — the pipeline end to end, purpose
+  routing, the two policy axes, the spend cap, providers and model families,
+  sheets, props, batches, benchmarks, training manifests;
+* `docs/M3_IMAGE_PRODUCTION_INFRASTRUCTURE_REPORT.md` — commits, migrations,
+  tests and results, readiness, blockers and the next commands.
+
+Two migrations (0019, 0020) are tested but **not yet applied to the
+application database**.

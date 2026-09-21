@@ -207,3 +207,82 @@ CONTINUUM_SPEND_CAP_USD=10.0
 
 and then an explicit `FoundationBatch.reserve(manifest, approved_by="...")`.
 **The foundation batch was not started, and nothing in Continuum starts it.**
+
+
+---
+
+# Addendum: the paid image path (2026-09-21, later)
+
+Finished the paid integration up to, but not including, the first request.
+**No request was made, no money was spent, and the foundation batch was not
+started.**
+
+## What changed
+
+* **One secret.** Endpoint (`.../v1beta/models`), method (`generateContent`),
+  both model tiers and the licence note now have defaults in
+  `continuum_config`, which is where model identifiers are allowed to live.
+  `CONTINUUM_GOOGLE_API_KEY` is the only thing the creator supplies;
+  `google_image_config(settings).missing()` names anything absent.
+* **Three-state enable.** Unset means "on when a key is present"; an explicit
+  `false` hard-disables. Registering is still not permission to spend.
+* **The request body** is the REST shape: `contents` parts plus
+  `generationConfig` with `responseModalities: ["IMAGE"]` and the seed, and
+  `CONTINUUM_GOOGLE_IMAGE_GENERATION_CONFIG` is merged over it so a schema
+  change is absorbed from `.env` rather than from a release.
+* **A real hole closed.** `render_model_sheet` resolved a provider and called
+  it with no budget anywhere in the path; with paid work enabled that would
+  have billed with nothing reserved. `budget.paid_call` now wraps every call
+  that can reach a paid provider (character sheets, panel stages, the smoke
+  test): free is called with nothing held, **paid with no ledger is refused**,
+  otherwise reserve - call - settle, releasing on failure. The worker builds
+  the ledger from settings, so the ordinary UI path is held too.
+* **`ProviderRegistry.resolve_named`.** Automatic resolution prefers local and
+  free, so it could never pick the paid tier. Naming a provider skips the
+  preference and keeps every rule.
+* **A zero price is refused** by the price list: it would reserve nothing and
+  bill for real.
+
+## New commands (all dry-run by default)
+
+| Command | Does |
+| --- | --- |
+| `scripts/migrate_application_db.py` | dry run, then `--apply`: backup, migrate, verify |
+| `scripts/configure_image_prices.py` | turns two confirmed prices into the env line |
+| `scripts/paid_image_smoke_test.py` | one paid image; `--execute --approved-by` to spend |
+| `scripts/foundation_batch.py` | prices a manifest; `--reserve --approved-by` to hold |
+
+`docs/M3_PAID_IMAGE_RUNBOOK.md` is the order to run them in.
+`docs/foundation-batch.example.json` is the manifest shape (placeholders only;
+keep the real one outside the repository).
+
+## Tests
+
+`tests/test_paid_image_provider.py` - 15 cases, no network and no database: a
+fake transport records what would have been sent. The key travels in a header
+and appears in neither the URL nor the body; the URL is built from
+configuration; a sheet defaults to the authority tier; a source excerpt is
+refused before transmission; naming the paid provider still goes through the
+policy; automatic resolution still prefers free; a paid call with no ledger is
+refused; a zero price is refused.
+
+Three cases added to `tests/acceptance/test_paid_budget.py` for reserve /
+settle / release around `paid_call`.
+
+**Test-run status, honestly:** `457 passed, 286 skipped, 0 failed`. The 286
+skips are every `requires_db` test - PostgreSQL was not running on this
+machine for this pass (Docker Desktop was down), so the database suite could
+not be exercised. Earlier today, with the database up, the same suite was
+`724 passed, 1 skipped, 0 failed`. The three new budget cases are among the
+skipped and have not yet been run.
+
+## Blockers
+
+1. **PostgreSQL was down**, so migrations 0019 and 0020 could *not* be applied
+   to the application database this pass. The script is written, dry-run
+   tested against an unreachable database (it refuses cleanly), and refuses to
+   migrate without a backup. Run `docker compose up -d db` then
+   `scripts/migrate_application_db.py --apply`.
+2. **Prices are not configured**, deliberately. Continuum will not invent a
+   number it cannot verify, and refuses to spend on an unpriced request.
+3. **Billing on the vendor account** is outside Continuum entirely.

@@ -103,6 +103,10 @@ class ArtworkReference:
     data: bytes
     character: str | None = None
     facet: str | None = None
+    #: The :class:`~continuum_core.routing.ReferencePurpose` Continuum routed it
+    #: to. ``None`` means an unrouted caller; the backend then falls back to the
+    #: role. A backend never *widens* a purpose - it may only honour or refuse it.
+    purpose: str | None = None
     #: What this reference may teach: identity, layout, perspective, pacing...
     teaches: tuple[str, ...] = ()
     provenance: dict[str, Any] = field(default_factory=dict)

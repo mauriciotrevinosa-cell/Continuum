@@ -29,11 +29,17 @@ Conditioning has two lanes, kept apart in code and in provenance:
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from enum import StrEnum
 from typing import Any, Protocol, runtime_checkable
 
 from continuum_core.knowledge import STAGE_FACETS
 from continuum_core.references import PanelStage, RenderOutput
+from continuum_core.routing import (
+    PURPOSE_RULES,
+    STAGE_SCENE_LANE,
+    ConditioningPurpose,
+    Influence,
+    ReferencePurpose,
+)
 from continuum_imaging import probe
 
 from continuum_providers.artwork import (
@@ -51,33 +57,21 @@ __all__ = [
     "PanelStageResult",
     "StageCapabilities",
     "check_stage_result",
+    "identity_evidence",
     "scene_references",
     "stage_gaps",
 ]
 
 
-class ConditioningPurpose(StrEnum):
-    """What an image-conditioned reference is allowed to shape."""
-
-    IDENTITY = "IDENTITY"
-    """A named cast member's look. Only that character's CANON references."""
-    COMPOSITION = "COMPOSITION"
-    """Layout, massing and perspective of the setting."""
-    STYLE_AND_COMPOSITION = "STYLE_AND_COMPOSITION"
-    STYLE = "STYLE"
-    """Line, value, light and finish treatment - never layout, never identity."""
-
-
 #: The scene-lane purpose of each construction stage.
 STAGE_SCENE_PURPOSE: dict[str, ConditioningPurpose] = {
-    PanelStage.COMPOSITION.value: ConditioningPurpose.COMPOSITION,
-    PanelStage.DRAWING.value: ConditioningPurpose.STYLE_AND_COMPOSITION,
-    PanelStage.ENVIRONMENT_INTEGRATION.value: ConditioningPurpose.STYLE_AND_COMPOSITION,
-    PanelStage.LINE.value: ConditioningPurpose.STYLE,
-    PanelStage.VALUE_MATERIAL.value: ConditioningPurpose.STYLE,
-    PanelStage.LIGHT_SHADOW.value: ConditioningPurpose.STYLE,
-    PanelStage.FX.value: ConditioningPurpose.STYLE,
-    PanelStage.FINISH.value: ConditioningPurpose.STYLE,
+    stage.value: lane for stage, lane in STAGE_SCENE_LANE.items()
+}
+#: What a lane is allowed to take from a routed purpose.
+_LANE_INFLUENCE: dict[ConditioningPurpose, frozenset[Influence]] = {
+    ConditioningPurpose.COMPOSITION: frozenset({Influence.LAYOUT}),
+    ConditioningPurpose.STYLE_AND_COMPOSITION: frozenset({Influence.LAYOUT, Influence.TREATMENT}),
+    ConditioningPurpose.STYLE: frozenset({Influence.TREATMENT}),
 }
 #: At most this many scene references condition one stage: evidence, not a pile.
 SCENE_BUDGET = 2
@@ -98,39 +92,96 @@ _NEVER_SCENE = {
 }
 
 
+def _scene_reason(
+    reference: ArtworkReference, lane: ConditioningPurpose
+) -> tuple[str | None, int]:
+    """Why this reference may not enter the scene lane, and its priority if it may.
+
+    A reference Continuum routed carries the purpose it was chosen for, and the
+    purpose decides: a purpose that bears identity belongs to the identity lane,
+    one that is not image-conditioned at all (a measurement, a palette note) is
+    never uploaded, and one whose influence the lane does not take is refused by
+    name. An unrouted reference falls back to its bundle role.
+    """
+    provenance = reference.provenance or {}
+    if reference.purpose:
+        try:
+            rule = PURPOSE_RULES[ReferencePurpose(reference.purpose)]
+        except (KeyError, ValueError):
+            return f"unknown reference purpose {reference.purpose!r}", 0
+        if rule.identity_bearing:
+            return "identity evidence of a cast member; identity lane only", 0
+        if not rule.image_conditioned:
+            return (
+                f"{rule.purpose.value.lower().replace('_', ' ')} is carried as a "
+                "recorded fact, never as an image to copy"
+            ), 0
+        if not rule.influences & _LANE_INFLUENCE[lane]:
+            return (
+                f"a {rule.purpose.value.lower().replace('_', ' ')} reference does not "
+                f"shape {lane.value.lower().replace('_', ' ')}"
+            ), 0
+        if provenance.get("status") == "CANDIDATE":
+            return "an unconfirmed candidate", 0
+        return None, 0 if Influence.LAYOUT in rule.influences else 1
+    if reference.character:
+        return "identity evidence of a cast member; identity lane only", 0
+    if reference.role in _NEVER_SCENE:
+        return _NEVER_SCENE[reference.role], 0
+    roles = _SCENE_ROLES[lane]
+    if reference.role not in roles:
+        return f"a {reference.role.lower()} reference does not shape {lane.value.lower()}", 0
+    if provenance.get("status") == "CANDIDATE":
+        return "an unconfirmed candidate", 0
+    return None, roles.index(reference.role)
+
+
+def identity_evidence(reference: ArtworkReference) -> bool:
+    """Whether this reference may ground who a named cast member is.
+
+    A routed reference is identity only when its purpose says so. An unrouted
+    one falls back to the old rule (a CANON reference naming a character), so a
+    caller that has not been through the router is not silently ungrounded.
+    """
+    if not reference.character:
+        return False
+    if reference.purpose:
+        try:
+            return PURPOSE_RULES[ReferencePurpose(reference.purpose)].identity_bearing
+        except (KeyError, ValueError):
+            return False
+    return reference.role == "CANON"
+
+
 def scene_references(
     request: PanelStageRequest, budget: int = SCENE_BUDGET
 ) -> tuple[ConditioningPurpose, list[ArtworkReference], list[dict[str, Any]]]:
     """The non-identity references that may image-condition this stage, best first.
 
-    Returns (purpose, selected, not selected with the reason). Deterministic: role
-    priority for the stage's purpose, then relevance to the stage's techniques,
+    Returns (lane, selected, not selected with the reason). Deterministic: the
+    routed purpose's fit for the lane, then relevance to the stage's techniques,
     then the project's preferred look, then the order Continuum retrieved them in.
     """
     purpose = STAGE_SCENE_PURPOSE.get(request.stage, ConditioningPurpose.STYLE)
-    roles = _SCENE_ROLES[purpose]
     stage_facets = {facet.value for facet in STAGE_FACETS.get(PanelStage(request.stage), ())}
     eligible: list[tuple[tuple[int, int, int, int], ArtworkReference]] = []
     skipped: list[dict[str, Any]] = []
     for order, reference in enumerate(request.references):
         provenance = reference.provenance or {}
-        reason = None
-        if reference.character:
-            reason = "identity evidence of a cast member; identity lane only"
-        elif reference.role in _NEVER_SCENE:
-            reason = _NEVER_SCENE[reference.role]
-        elif reference.role not in roles:
-            reason = f"a {reference.role.lower()} reference does not shape {purpose.value.lower()}"
-        elif provenance.get("status") == "CANDIDATE":
-            reason = "an unconfirmed candidate"
+        reason, priority = _scene_reason(reference, purpose)
         if reason is not None:
             skipped.append(
-                {"reference_id": reference.reference_id, "role": reference.role, "reason": reason}
+                {
+                    "reference_id": reference.reference_id,
+                    "role": reference.role,
+                    "purpose": reference.purpose,
+                    "reason": reason,
+                }
             )
             continue
         facets = {str(f).upper() for f in provenance.get("matched_facets") or []}
         rank = (
-            roles.index(reference.role),
+            priority,
             0 if facets & stage_facets else 1,
             0 if provenance.get("standing") == "PREFERRED_FOR_CURRENT_LOOK" else 1,
             order,
@@ -142,6 +193,7 @@ def scene_references(
         {
             "reference_id": reference.reference_id,
             "role": reference.role,
+            "purpose": reference.purpose,
             "reason": f"over the scene budget ({budget})",
         }
         for _rank, reference in eligible[budget:]
@@ -220,7 +272,7 @@ def stage_gaps(caps: StageCapabilities, request: PanelStageRequest) -> list[str]
             "this backend cannot hold an upstream image"
         )
     cast = [str(name) for name in request.contract.get("cast") or []]
-    grounded = {r.character for r in request.references if r.role == "CANON" and r.character}
+    grounded = {r.character for r in request.references if identity_evidence(r)}
     if cast and caps.output is RenderOutput.ARTWORK_CANDIDATE:
         if not caps.identity_conditioning:
             gaps.append("the panel's cast must be grounded in references; this backend cannot")

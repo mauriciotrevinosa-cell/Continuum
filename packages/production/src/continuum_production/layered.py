@@ -30,6 +30,7 @@ from __future__ import annotations
 
 import re
 import uuid
+from collections.abc import Sequence
 from typing import TYPE_CHECKING, Any
 
 from continuum_core import canonical_json_hash
@@ -43,6 +44,14 @@ from continuum_core.references import (
     RoughArtifactKind,
     RoughPurpose,
     TechniqueFacet,
+)
+from continuum_core.routing import (
+    STAGE_NEEDS,
+    Candidate,
+    ReferencePurpose,
+    RoutedPacket,
+    record,
+    route,
 )
 from continuum_db.models import (
     AttemptInput,
@@ -200,6 +209,28 @@ def _panel_size(width: int, height: int, count: int, index: int) -> tuple[int, i
     )
 
 
+#: What a character-corpus observation's facets mean the reference was kept for.
+#: An observation of a face is identity evidence; one of a full body is body
+#: evidence. Nothing here can turn a garment into a face.
+_IDENTITY_FACETS = frozenset({"FACE", "HAIR", "DISTINGUISHING_MARK", "EXPRESSION"})
+_BODY_FACETS = frozenset({"BODY", "FULL_BODY", "PROPORTIONS", "SCALE", "POSTURE"})
+
+
+def _declared(role: str, provenance: dict[str, Any]) -> frozenset[str]:
+    """The purposes a character-corpus reference was already retrieved to serve."""
+    if role == BundleRole.WARDROBE.value:
+        return frozenset({ReferencePurpose.WARDROBE.value})
+    if role != BundleRole.CANON.value:
+        return frozenset()
+    facets = {str(f).upper() for f in provenance.get("facets") or ()}
+    declared = set()
+    if facets & _IDENTITY_FACETS or not facets:
+        declared.add(ReferencePurpose.IDENTITY.value)
+    if facets & _BODY_FACETS:
+        declared.add(ReferencePurpose.BODY.value)
+    return frozenset(declared)
+
+
 def _role(entry: dict[str, Any]) -> BundleRole:
     if entry["reference_class"] == "MOOD":
         return BundleRole.MOOD
@@ -218,6 +249,7 @@ class PanelConstruction:
         self.session = manga.session
         self.rough = manga.rough
         self.knowledge = VisualKnowledge(manga.session)
+        self._bundles: dict[uuid.UUID, dict[str, Any]] = {}
 
     # -- lookups --------------------------------------------------------------
     def _page(self, page_id: uuid.UUID) -> ProductionPage:
@@ -378,10 +410,10 @@ class PanelConstruction:
         return chain
 
     # -- retrieval --------------------------------------------------------------
-    def pack(
+    def offered(
         self, run: ProductionRun, contract: dict[str, Any], stage: str
     ) -> list[dict[str, Any]]:
-        """The stage's reference pack by role. Never identity from style material."""
+        """Everything retrieval can offer this stage, before any purpose is assigned."""
         terms = [
             *contract["environment_tags"],
             contract["shot"].lower(),
@@ -389,21 +421,123 @@ class PanelConstruction:
         ]
         stage_enum = PanelStage(stage)
         found = self.knowledge.retrieve(
-            run.project_key, facets=STAGE_FACETS[stage_enum], terms=terms, limit=4
+            run.project_key, facets=STAGE_FACETS[stage_enum], terms=terms, limit=6
         )
-        pack = [{**entry, "role": _role(entry).value} for entry in found]
+        offered = [{**entry, "role": _role(entry).value} for entry in found]
         if stage_enum in HOUSE_STYLE_STAGES:
-            seen = {entry["reference_id"] for entry in pack}
+            seen = {entry["reference_id"] for entry in offered}
             for entry in self.knowledge.house_style(run.project_key, limit=2):
                 if entry["reference_id"] not in seen:
-                    pack.append(
+                    offered.append(
                         {
                             **entry,
                             "role": BundleRole.STYLE.value,
                             "why": [*entry["why"], "house style exemplar - never identity"],
                         }
                     )
-        return pack
+        return offered
+
+    def routing(self, page: ProductionPage, contract: dict[str, Any], stage: str) -> dict[str, Any]:
+        """What this stage's packet is, purpose by purpose, and what it refused.
+
+        Retrieval offers; routing decides. Every reference that enters the packet
+        carries the purpose it was chosen for and what that purpose is allowed to
+        influence, so a style exemplar can never arrive as somebody's face and an
+        unrelated page can never arrive at all.
+        """
+        run, _profile = self._run(page)
+        stage_enum = PanelStage(stage)
+        cast: list[str] = list(contract["cast"])
+        candidates: list[Candidate] = []
+        sources: dict[str, dict[str, Any]] = {}
+        for order, entry in enumerate(self.offered(run, contract, stage)):
+            sources[entry["reference_id"]] = entry
+            candidates.append(
+                Candidate(
+                    reference_id=entry["reference_id"],
+                    role=entry["role"],
+                    facets=frozenset(entry.get("matched_facets") or ()),
+                    descriptors=tuple(entry.get("matched_descriptors") or ()),
+                    standing=entry.get("standing"),
+                    origin=entry.get("origin"),
+                    quality=min(1.0, float(entry.get("score") or 0.0) / 10.0),
+                    order=order,
+                    why=tuple(entry.get("why") or ()),
+                )
+            )
+        outfits: dict[str, str] = {}
+        if cast:
+            bundle = self._bundle(page)
+            names = {c["character_id"]: c["name"] for c in bundle["characters"]}
+            for character in bundle["characters"]:
+                for garment in character["wardrobe"]:
+                    outfits[character["name"]] = garment["outfit_id"]
+            for order, entry in enumerate(self.manga.character_inputs(bundle, cast), start=1000):
+                provenance = entry["provenance"]
+                name = names.get(str(entry["character_id"]), "")
+                sources[str(entry["reference_id"])] = {**entry, "character": name}
+                candidates.append(
+                    Candidate(
+                        reference_id=str(entry["reference_id"]),
+                        role=entry["role"].value,
+                        character=name,
+                        outfit_id=str(entry["outfit_id"]) if entry["outfit_id"] else None,
+                        authority=provenance.get("authority"),
+                        status=provenance.get("status"),
+                        origin=provenance.get("origin"),
+                        order=order,
+                        declared=_declared(entry["role"].value, provenance),
+                        why=tuple(provenance.get("why") or ()),
+                    )
+                )
+        packet = route(
+            STAGE_NEEDS[stage_enum],
+            candidates,
+            cast=cast,
+            current_outfits=outfits,
+            relevant_series=sorted(self._series(page, cast)),
+        )
+        return {"packet": packet, "sources": sources}
+
+    def _series(self, page: ProductionPage, cast: Sequence[str]) -> set[str]:
+        """The source worlds this panel is allowed to draw craft from."""
+        if not cast:
+            return set()
+        bundle = self._bundle(page)
+        return self.manga._cast_series([c["character_id"] for c in bundle["characters"]])
+
+    def _bundle(self, page: ProductionPage) -> dict[str, Any]:
+        """The page bundle, assembled once per page per request."""
+        cached = self._bundles.get(page.id)
+        if cached is None:
+            cached = self.manga.assemble(page)
+            self._bundles[page.id] = cached
+        return cached
+
+    def pack(
+        self, page: ProductionPage, contract: dict[str, Any], stage: str
+    ) -> list[dict[str, Any]]:
+        """The stage's routed reference pack: one entry per reference, with its purpose."""
+        routed = self.routing(page, contract, stage)
+        packet: RoutedPacket = routed["packet"]
+        out = []
+        for entry in packet.selected:
+            source = routed["sources"].get(entry.reference_id, {})
+            out.append(
+                {
+                    **{k: v for k, v in source.items() if k not in {"role", "why", "provenance"}},
+                    "reference_id": entry.reference_id,
+                    "role": entry.role,
+                    "purpose": entry.purpose.value,
+                    "character": entry.character,
+                    "influences": list(entry.influences),
+                    "image_conditioned": entry.image_conditioned,
+                    "label": str(source.get("label") or ""),
+                    "warnings": list(source.get("warnings") or []),
+                    "why": list(entry.why),
+                }
+            )
+        return out
 
     # -- views ----------------------------------------------------------------
     def view(self, page_id: uuid.UUID) -> dict[str, Any]:
@@ -426,7 +560,7 @@ class PanelConstruction:
                         "frozen_attempt_id": str(entry["frozen"].id) if entry["frozen"] else None,
                         "frozen_valid": entry["frozen_valid"],
                         "attempts": [self._attempt_view(a) for a in entry["attempts"]],
-                        "pack": self.pack(run, contract, stage),
+                        "pack": self.pack(page, contract, stage),
                     }
                 )
             final = chain[contract["stages"][-1]]
@@ -558,12 +692,27 @@ class PanelConstruction:
                 contract["panel"] - 1,
             )
 
-        pack = self.pack(run, contract, stage)
-        for ref in pack:
-            item = self.manga.catalog.reference(uuid.UUID(ref["reference_id"]))
+        routed = self.routing(page, contract, stage)
+        packet: RoutedPacket = routed["packet"]
+        pack = self.pack(page, contract, stage)
+        for chosen in packet.selected:
+            source = routed["sources"][chosen.reference_id]
+            rule = {
+                "purpose": chosen.purpose.value,
+                "influences": list(chosen.influences),
+                "image_conditioned": chosen.image_conditioned,
+                "identity_evidence": ReferencePurpose(chosen.purpose).value
+                in {ReferencePurpose.IDENTITY.value, ReferencePurpose.BODY.value},
+                "why": list(chosen.why),
+            }
+            if "locator" in source and "provenance" in source:
+                # A character-corpus input: keep its resolved row, add the purpose.
+                inputs.append({**source, "provenance": {**source["provenance"], **rule}})
+                continue
+            item = self.manga.catalog.reference(uuid.UUID(chosen.reference_id))
             inputs.append(
                 {
-                    "role": BundleRole(ref["role"]),
+                    "role": BundleRole(chosen.role),
                     "reference_id": item.id,
                     "locator": item.locator,
                     "unit_index": item.unit_index,
@@ -571,11 +720,13 @@ class PanelConstruction:
                     "character_id": None,
                     "outfit_id": None,
                     "aspect": None,
-                    "label": f"{ref['role'].lower()}: {ref['label'] or ref['reference_id']}"[:300],
+                    "label": (
+                        f"{chosen.purpose.value.lower()}: "
+                        f"{source.get('label') or chosen.reference_id}"
+                    )[:300],
                     "provenance": {
-                        key: ref[key]
+                        key: source.get(key)
                         for key in (
-                            "why",
                             "matched_facets",
                             "matched_descriptors",
                             "standing",
@@ -586,12 +737,9 @@ class PanelConstruction:
                             "reference_class",
                         )
                     }
-                    | {"identity_evidence": False},
+                    | rule,
                 }
             )
-        if contract["cast"]:
-            bundle = self.manga.assemble(page)
-            inputs.extend(self.manga.character_inputs(bundle, contract["cast"]))
         for position, row in enumerate(inputs):
             row["position"] = position
 
@@ -621,9 +769,17 @@ class PanelConstruction:
             "upstream": upstream,
             "creator_notes": clean_text(notes, 8000, field="Notes") if notes else "",
             "pack": [
-                {"role": ref["role"], "reference_id": ref["reference_id"], "why": ref["why"]}
+                {
+                    "role": ref["role"],
+                    "purpose": ref["purpose"],
+                    "reference_id": ref["reference_id"],
+                    "why": ref["why"],
+                }
                 for ref in pack
             ],
+            # What routing decided and what it refused, kept with the recipe so
+            # a later reader can see why this packet and not another one.
+            "routing": record(stage, packet),
         }
         attempts = entry["attempts"]
         attempt = self.rough._create_attempt(

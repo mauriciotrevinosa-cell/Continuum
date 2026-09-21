@@ -552,6 +552,11 @@ export type StageContract = {
 
 export type PackReference = {
   role: string;
+  /** What this reference was routed to teach, and what that lets it change. */
+  purpose: string;
+  character: string | null;
+  influences: string[];
+  image_conditioned: boolean;
   reference_id: string;
   label: string;
   reference_class: string;

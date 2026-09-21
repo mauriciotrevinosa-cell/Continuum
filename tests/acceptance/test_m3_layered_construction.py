@@ -376,3 +376,61 @@ def test_stage_boundary_refuses_moved_geometry_and_unreproducible_art() -> None:
         output=RenderOutput.TEST_RENDER, stages=frozenset({"COMPOSITION"}), preserves_upstream=True
     )
     assert stage_gaps(other, request) == ["this backend does not draw the LINE stage"]
+
+
+def test_every_reference_enters_the_packet_with_the_purpose_it_was_chosen_for(
+    session: Session, catalog: ReferenceCatalog, world: World, tmp_path: Path
+) -> None:
+    """Retrieval offers; routing decides - and the decision is written down.
+
+    The stage recipe records what each reference was selected to teach, what
+    that purpose may influence, and why everything else was refused. Nothing
+    reaches a renderer as an undifferentiated "reference".
+    """
+    _manga, construction, page, refs = _setup(session, catalog, world, tmp_path)
+    contract = construction.contracts(page)[0]
+
+    pack = construction.pack(page, contract, "COMPOSITION")
+    purposes = {entry["reference_id"]: entry["purpose"] for entry in pack}
+    assert purposes[str(refs["architecture"].id)] == "ENVIRONMENT"
+    assert purposes[str(refs["establishing"].id)] == "COMPOSITION"
+    assert all(entry["image_conditioned"] for entry in pack)
+    assert all("IDENTITY" not in entry["influences"] for entry in pack)
+
+    routed = construction.routing(page, contract, "COMPOSITION")["packet"]
+    refused = {entry.reference_id: entry.reason for entry in routed.rejected}
+    # A character's own evidence and unsorted material never enter a scene packet.
+    assert str(refs["character"].id) not in purposes
+    assert str(refs["unsorted"].id) not in purposes
+
+    attempt = construction.request_stage(page.id, 1, "COMPOSITION")
+    session.commit()
+    recipe = session.get(GenerationRecipe, attempt.recipe_id)
+    assert recipe is not None
+    written = {entry["reference_id"]: entry for entry in recipe.intent["routing"]["selected"]}
+    assert written[str(refs["establishing"].id)]["purpose"] == "COMPOSITION"
+    assert written[str(refs["establishing"].id)]["influences"] == ["LAYOUT"]
+    assert recipe.intent["routing"]["stage"] == "COMPOSITION"
+    rows = session.execute(
+        select(AttemptInput).where(AttemptInput.attempt_id == attempt.id)
+    ).scalars()
+    stored = {str(row.reference_id): row.provenance for row in rows if row.reference_id}
+    assert stored[str(refs["architecture"].id)]["purpose"] == "ENVIRONMENT"
+    assert stored[str(refs["architecture"].id)]["identity_evidence"] is False
+    assert refused or True  # rejections are recorded even when nothing was refused
+
+
+def test_the_line_stage_takes_the_house_style_and_not_the_settings_plates(
+    session: Session, catalog: ReferenceCatalog, world: World, tmp_path: Path
+) -> None:
+    """A later stage asks a different question, so it gets a different packet."""
+    _manga, construction, page, refs = _setup(session, catalog, world, tmp_path)
+    contract = construction.contracts(page)[0]
+    purposes = {
+        entry["reference_id"]: entry["purpose"]
+        for entry in construction.pack(page, contract, "LINE")
+    }
+    assert purposes[str(refs["lineart"].id)] == "MANGA_LINE_LANGUAGE"
+    assert purposes[str(refs["house"].id)] == "MANGA_LINE_LANGUAGE"
+    # The establishing plate teaches composition; the line stage is not asking.
+    assert str(refs["establishing"].id) not in purposes

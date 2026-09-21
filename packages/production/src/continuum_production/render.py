@@ -503,6 +503,7 @@ def _render_stage(
     providers: ProviderRegistry,
 ) -> dict[str, Any]:
     """One construction stage of one panel, built on the frozen upstream it names."""
+    from continuum_core.routing import ReferencePurpose
     from continuum_imaging.stages import structure_drift
     from continuum_providers.artwork import ArtworkReference
     from continuum_providers.contracts import Locality
@@ -511,6 +512,7 @@ def _render_stage(
         PanelStageProvider,
         PanelStageRequest,
         check_stage_result,
+        identity_evidence,
         stage_gaps,
     )
 
@@ -555,6 +557,7 @@ def _render_stage(
         entry = {
             "reference_id": str(row.reference_id) if row.reference_id else row.locator,
             "role": row.role.value,
+            "purpose": (row.provenance or {}).get("purpose"),
             "character": names.get(row.character_id) if row.character_id else None,
         }
         selected.append(entry)
@@ -571,6 +574,7 @@ def _render_stage(
             reference_id=str(row.reference_id) if row.reference_id else row.locator,
             data=_input_bytes(session, catalog, row),
             character=names.get(row.character_id) if row.character_id else None,
+            purpose=(row.provenance or {}).get("purpose"),
             teaches=tuple((row.provenance or {}).get("matched_facets") or ()),
             provenance=dict(row.provenance or {}),
         )
@@ -594,9 +598,15 @@ def _render_stage(
         },
     )
     gaps = stage_gaps(caps, request)
+    identity_purposes = {ReferencePurpose.IDENTITY.value, ReferencePurpose.BODY.value}
     lost_identity = sorted(
-        {str(w["character"]) for w in withheld if w["role"] == "CANON" and w["character"]}
-        - {r.character for r in references if r.role == "CANON" and r.character}
+        {
+            str(w["character"])
+            for w in withheld
+            if w["character"]
+            and (w["purpose"] in identity_purposes if w["purpose"] else w["role"] == "CANON")
+        }
+        - {r.character for r in references if identity_evidence(r)}
     )
     if lost_identity:
         # Identity never silently degrades: a cast member whose only evidence is

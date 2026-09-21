@@ -110,9 +110,14 @@ function StageCard({ pageId, panel, stage }: { pageId: string; panel: number; st
         {stage.pack.length ? (
           <ul className="pack-list">
             {stage.pack.map((ref) => (
-              <li key={`${ref.role}-${ref.reference_id}`}>
-                <span className="chip tiny quiet">{words(ref.role)}</span> {ref.label || shortHash(ref.reference_id)}
+              <li key={`${ref.purpose}-${ref.reference_id}`}>
+                <span className="chip tiny quiet" title={`may shape: ${ref.influences.join(", ").toLowerCase()}`}>
+                  {words(ref.purpose)}
+                </span>{" "}
+                {ref.label || shortHash(ref.reference_id)}
+                {ref.character ? <span className="hint"> · {ref.character}</span> : null}
                 <span className="hint"> - {ref.why.join("; ")}</span>
+                {ref.image_conditioned ? null : <span className="hint"> (recorded, not sent as an image)</span>}
                 {ref.warnings.length ? <span className="hint warn-text"> ({ref.warnings.join(", ")})</span> : null}
               </li>
             ))}

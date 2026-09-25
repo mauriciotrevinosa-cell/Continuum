@@ -71,6 +71,11 @@ Important examples:
 
 See [FLOATING_IDEAS.md](./FLOATING_IDEAS.md).
 
+Recent long-range development packets preserved as **provisional / not full canon**:
+
+- [Future cast, relationships & franchise adaptation seeds](./sources/THE_ARRIVALS_FUTURE_CAST_RELATIONSHIP_AND_ADAPTATION_SEEDS_v0.1.md)
+- [Future macro-arcs: trust, Foundation, memory fracture & reconstruction](./sources/THE_ARRIVALS_FUTURE_MACRO_ARCS_FOUNDATION_MEMORY_CRISIS_v0.1.md)
+
 ## 6. Truly open questions
 
 See [OPEN_QUESTIONS.md](./OPEN_QUESTIONS.md).

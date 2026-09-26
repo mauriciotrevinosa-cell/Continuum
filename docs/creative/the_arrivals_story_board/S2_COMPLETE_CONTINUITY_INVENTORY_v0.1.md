@@ -872,8 +872,16 @@ Maki has enough pre-Sukuna runway for:
 Current preferred Sukuna placement:
 - **Maki does not follow Frieren into the main battle**;
 - when Frieren detects Mau/the fight and decides to leave, Maki remains at the inn / settlement;
-- someone strong still needs to protect the people who were deliberately left outside the secret plan;
-- this keeps Maki emotionally crucial without adding another frontline piece to a fight already built around specialized roles.
+- **Stark, Coco and Agott also remain at the inn**;
+- Stark stays because he was never part of the secret preparation and does not know the real situation;
+- Coco and Agott remain with the household rather than being pulled into Qifrey's battlefield role;
+- together with the rest of the people left behind, they give the inn meaningful protection while the specialized interception team is away;
+- this keeps the battle focused on the people whose roles were specifically prepared.
+
+Himmel is the deliberate exception:
+- he also was **not supposed to know**;
+- unlike Stark/Coco/Agott, he happens to overhear the danger at the last moment;
+- he independently chooses to go anyway.
 
 There is also a character payoff:
 - Maki helped Frieren reach emotional clarity;
@@ -1061,24 +1069,38 @@ Exact dialogue and number of conversations remain open.
 
 ## 16.3 Himmel's emotional role vs Mau's romantic role
 
-An archived creator-directed clarification already preserved in Git states:
+Current creator direction is now clearer:
 
-> Himmel taught Frieren how to love. Mau is the first person Frieren knows she is in love with.
+> **Frieren loves Himmel profoundly, but not romantically. Mau is the first person Frieren consciously recognizes and chooses romantically.**
 
-Current creator refinement may go even further, but is **not yet fully wording-locked**:
-- Frieren may not have loved Himmel in the same consciously romantic sense at all;
-- she can love Himmel profoundly as someone central to her life while only later recognizing that Himmel loved her romantically;
-- the tragedy of her original story is not simply "she was romantically in love and lost him";
-- it is that Frieren once treated human time as almost negligible, left after the adventure as though fifty years were nothing, and only after Himmel's death understood that there was someone she genuinely wanted to know better and no longer had the chance;
-- retracing those places and memories lets her gradually understand Himmel's love and what attachment means.
+This does **not** diminish Himmel.
 
-This interpretation should preserve the source-story emotional core:
-- Himmel is not discarded;
-- Frieren's regret matters;
-- his love teaches her what human attachment costs;
-- that lesson can become part of why she is finally able to recognize and protect a consciously romantic future with Mau.
+Himmel remains:
+- one of the most important people in Frieren's entire life;
+- someone she loves deeply;
+- someone whose death permanently changes how she understands time, attachment and loss;
+- the person whose love helps teach Frieren what love can mean, even though she does not return that love in the same romantic form.
 
-Do **not** reduce this to "Himmel was merely practice for Mau." The stronger idea is that Himmel permanently changed Frieren's capacity to understand love.
+The tragedy of Frieren's original relationship with Himmel is therefore not:
+> `She was secretly romantically in love with him all along and realized too late.`
+
+The stronger current reading is:
+- Frieren once treated human time as almost negligible;
+- after the hero journey she could leave thinking fifty years was a manageable interval;
+- Himmel's death forces her to understand that there was someone she deeply cared for and still wanted to understand, but the time to do so was gone;
+- retracing their journey teaches her how deeply Himmel loved her and how costly human attachment/time can be.
+
+That experience permanently expands Frieren's capacity to understand love.
+
+It is part of why, when Mau enters her life, she is eventually capable of recognizing a different feeling:
+
+> **not only deep love/care, but a consciously romantic desire to choose a future with him.**
+
+Guardrail:
+
+> Do **not** reduce Himmel to practice for Mau.
+
+Himmel matters independently and permanently. The distinction is between **deep non-romantic love for Himmel** and **consciously romantic love for Mau**, not between "real love" and "fake love."
 
 ## 16.4 Maki helps Frieren
 
@@ -1846,7 +1868,7 @@ Sukuna chooses Yuta as the known dangerous variable
 → she re-enables/tests her mana detection
 → immediately detects Mau in a major fight
 → Frieren rushes to the battlefield
-→ Maki stays behind to protect the household
+→ Maki, Stark, Coco and Agott remain behind with the household; Himmel is the last-minute exception who was never supposed to know
 ```
 
 This is macro-resolved.
@@ -1886,7 +1908,8 @@ Later work still needs:
 - pre-set control;
 - traps / symbols already embedded into the chosen interception field;
 - spends finite Witch Hat resources knowing the future seed is being preserved for relocation;
-- one small mechanism may become decisive by buying a fraction of a second.
+- one small mechanism may become decisive by buying a fraction of a second;
+- **Coco and Agott do not accompany him into the main fight**; they remain at the inn.
 
 ## Himmel
 - stable frontline/protection;

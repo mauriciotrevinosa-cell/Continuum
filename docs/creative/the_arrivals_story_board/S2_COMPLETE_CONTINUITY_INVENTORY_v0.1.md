@@ -31,20 +31,20 @@ Current planning categories:
 - **REAL GAP** — a connector or substantive story decision genuinely still needs invention.
 - **LIFE / SLICE-OF-LIFE REQUIRED** — not a plot gap, but the story needs lived time, routines, lateral relationships and ordinary activity.
 
-## 0.1 Working shorthand: `Observe`
+## 0.1 Working shorthand: `Construction`
 
-For conversation/planning convenience, use **Observe** as the short working label for Mau's underlying process:
+For conversation/planning convenience, use **Construction** as the short working label for Mau's underlying process:
 
 ```text
 OBSERVE → ANALYZE → UNDERSTAND → CONSTRUCT / EVOLVE
 ```
 
-`Observe` is shorthand only. It is not currently a diegetic ability name and should not imply passive absorption by proximity.
+`Construction` is shorthand only. It is not currently a diegetic ability name and should not imply passive absorption by proximity.
 
 When we say:
-- `first Observe example`
-- `Observe event`
-- `Observe learned X`
+- `first Construction example`
+- `Construction event`
+- `Construction learned X`
 
 we mean the full process above unless explicitly narrowed.
 
@@ -187,7 +187,7 @@ Bocchi incident
 → G3 reaches the home
 ```
 
-The unexplained Mau/Frieren magic beat is also the **first important visible example of the Observe mechanism** in S2 planning. Exact mechanics remain open; do not reduce it to passive copying.
+The unexplained Mau/Frieren magic beat is also the **first important visible example of the Construction mechanism** in S2 planning. Exact mechanics remain open; do not reduce it to passive copying.
 
 The beat is **not** treated as malicious secrecy.
 
@@ -344,6 +344,14 @@ Over time, Kita sees:
 
 This allows Kita's eventual trust in Mau to be **earned independently**, not transferred through Bocchi.
 
+Small slice-of-life/comedy beat worth preserving:
+- one night, while Kita is still trying to understand the household's relationship geometry, she accidentally sees Mau and Frieren settling down to sleep together / clearly sharing that domestic space;
+- Kita has a quiet internal `...oh` moment;
+- the beat should be funny and observational, not sexualized or treated like scandal;
+- it helps her realize that Mau's closeness with Bocchi is not romantic competition and that Mau already has an intimate domestic bond with Frieren.
+
+Exact staging belongs to later scene/episode work.
+
 ### Bocchi / Kita romance — PRE-SUKUNA STRONG DIRECTION
 
 Before Sukuna, Bocchi and Kita should eventually become a couple.
@@ -396,6 +404,33 @@ The relationship also reinforces the core ensemble rule:
 - survivor/fighter perspective;
 - potential bridge for faction/defense discussions;
 - remains her own person rather than becoming “Mau's soldier.”
+
+---
+
+## 5.3 Hueco 1 macro status — RESOLVED
+
+At macro-story level, the first major S2 connector is now considered structurally solved:
+
+```text
+Bocchi incident
+→ G1/G2 choose to stay together temporarily
+→ controlled power disclosure
+→ first Construction manifestation with Mau/Frieren
+→ fortify + search for safer home
+→ G3 arrival
+→ trust mirror: G1/G2 evaluating G3 / Kita evaluating Mau+household
+→ inn expansion + shared work + G3 integration
+→ Bocchi/Kita relationship grows toward pre-Sukuna couple status
+→ deeper trust is earned gradually
+```
+
+Remaining work is **not macro-gap work**. It belongs to later layers:
+- exact scenes;
+- dialogue;
+- exact pacing;
+- exact episode boundaries;
+- specific construction/fortification jobs;
+- exact mechanics of the first Construction event.
 
 ---
 

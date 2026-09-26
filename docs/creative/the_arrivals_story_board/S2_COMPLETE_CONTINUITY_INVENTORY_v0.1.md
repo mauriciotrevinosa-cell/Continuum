@@ -1637,32 +1637,47 @@ Sukuna chooses Yuta
 
 Exact method by which Sukuna tracks Yuta remains open.
 
-## 20.9 Himmel partially discovers the plan — STRONG DIRECTION
+## 20.9 Himmel joins at the last moment — STRONG DIRECTION
 
-Himmel should not need to be formally recruited through a tactical briefing.
+Himmel is **not part of the original preparation plan**.
 
-A more natural route:
-- Himmel wants to speak privately with Mau, initially for personal reasons;
-- he overhears or catches enough of the preparation discussion to realize someone dangerous is coming toward the inn / household;
-- he does **not** immediately moralize or demand that they cancel everything;
-- he asks a practical question instead:
+Current preferred shape:
+- Mau/Yuta/Rimuru/Qifrey/Okarun are essentially ready to leave for the interception;
+- Himmel happens to overhear just enough at the last moment to understand one fact:
+  - someone extremely dangerous is coming toward Yuta / the inn / the people living there;
+- he does **not** receive a full tactical briefing;
+- he does **not** know the dreams, Mau's expected death, Hollow Purple, or the Rimuru Contract;
+- he simply decides to go with them.
 
-> **`Someone is going to attack the inn? How can I help?`**
+His response is practical rather than dramatic:
+
+> **`Someone is coming for the inn? How can I help?`**
 
 Exact wording remains open.
 
-This is valuable because it shows Himmel's character:
-- he understands there is more he has not been told;
-- he recognizes that Mau/Yuta/Rimuru are under extreme time pressure;
-- his first instinct is to protect people.
+This works better if Himmel feels like an **extra variable**, not a planned chess piece.
 
-He can then be assigned a frontline/protection role without knowing every detail of:
-- the dreams;
-- Mau's expected death;
-- Hollow Purple;
-- the Rimuru Contract.
+His choice matters enormously to Mau because Mau already knows:
+- Himmel loves Frieren deeply;
+- Himmel has nothing to gain by joining this fight;
+- Himmel does not even know the full stakes;
+- yet the moment he hears the household may be in danger, he willingly walks toward that danger.
 
-Over the short preparation window, this also gives Mau and Himmel enough direct contact for trust to deepen before the later `Take care of her for me` moment.
+For Mau, that action becomes direct evidence:
+
+> **Himmel is someone who will show up when it matters.**
+
+That makes Mau's later trust much simpler and more immediate.
+
+He does not need days of joint training to decide whether Himmel is reliable.
+
+Himmel's decision to join, combined with Mau already knowing how deeply Himmel cares for Frieren, is enough to make this thought emotionally plausible:
+
+> **If I do not come back, Frieren will still have someone who will not abandon her.**
+
+Himmel can then contribute as an additional frontline/protection presence rather than as a member around whom the original plan was designed.
+
+This preserves the later `Take care of her for me` beat as trust earned through action, not through a formal handoff or long tactical partnership.
 
 ## 20.10 Everyone else is largely in the dark
 
@@ -1699,7 +1714,7 @@ fatal dreams become credible
 → Okarun trains one all-out rescue burst
 → Qifrey/Rimuru create the future seed, preserve it for relocation
 → Qifrey spends finite resources preparing the interception field and the specific dream-location timing trigger
-→ Himmel partially overhears the threat and volunteers for frontline/protection without receiving the full secret
+→ as the team is about to leave, Himmel overhears enough to understand the inn is threatened and joins as an unplanned extra without receiving the full secret
 → Sukuna independently begins moving toward Yuta
 → Mau knows the timing window
 → protagonists intercept Sukuna away from the inn
@@ -1900,9 +1915,10 @@ Believing he is going to die, Mau says approximately:
 > **Take care of her for me.**
 
 Meaning:
-- Mau trusts Himmel;
-- Mau knows Himmel loves Frieren;
-- Mau believes Frieren will not be alone if he dies.
+- Mau already knows Himmel loves Frieren deeply;
+- immediately before the battle, Himmel chose to enter danger with almost no information simply because the household was threatened;
+- that action convinces Mau that Himmel is reliable when it matters;
+- Mau therefore trusts that Frieren will not be abandoned if he dies.
 
 Not:
 - ownership;

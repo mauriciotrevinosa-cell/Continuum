@@ -1133,6 +1133,120 @@ This material also deepens Yuta/Maki rather than using them only as exposition d
 
 ---
 
+# 17.5 Hueco 3 — lived-in G4 life before Sukuna — MACRO RESOLVED
+
+The G4→dreams stretch should **not** feel like separate relationship modules.
+
+The household is living several developments at once.
+
+Current texture:
+- dates / not-yet-dates;
+- girls' outings;
+- small group trips;
+- household work;
+- scouting;
+- inn expansion;
+- Bocchi/Kita moving toward becoming a couple;
+- Frieren increasingly seeking/ending up around Maki;
+- Yuta/Maki naturally demonstrating what long-term attachment looks like;
+- Marin overhearing/entering conversations rather than everyone receiving isolated counseling scenes;
+- Momo getting involved in romantic/social planning;
+- Mau/Frieren gaining small additional intimacy without their major post-Sukuna payoff happening early.
+
+The rule is:
+
+> **Relationship development should leak across ordinary life instead of arriving in labeled character sections.**
+
+Example:
+- Kita may initially ask Mau for help with Bocchi;
+- Momo gets pulled in;
+- Marin overhears and inserts herself;
+- advice becomes chaotic;
+- Mau learns by watching everyone else interpret love differently.
+
+This can later become an episode or mini-story, but at macro level its function is already known.
+
+## Mau learns love before he can name it
+
+Before Sukuna, Mau is learning what love **does**, not yet confidently identifying his own feeling as `love`.
+
+He sees:
+- Yuta/Maki's enduring bond;
+- Bocchi/Kita choosing one another;
+- Marin/Wakana;
+- Frieren's attachments;
+- the household caring for each other.
+
+He understands increasingly that loving someone can mean:
+- wanting their happiness even when it does not center you;
+- trusting other people to care for them;
+- allowing them independent relationships;
+- protecting without possessing.
+
+But:
+
+> **Mau does not fully recognize/name his own feeling as romantic love yet.**
+
+The later Ori arc remains the stronger point at which Mau finally understands the distinction clearly enough to identify what he feels for Frieren as love.
+
+This does not erase:
+- his pre-Sukuna devotion;
+- the goddess scene;
+- his post-revival physical/emotional reciprocation;
+- the fact that he and Frieren can begin functioning as a couple.
+
+It means his emotional understanding lags behind his behavior.
+
+## Why the growing network makes Mau's sacrifice easier — and worse
+
+Mau increasingly sees that the people he loves have relationships that continue without him:
+
+- Bocchi has Kita;
+- Fern has Frieren, Stark, Bocchi and the wider household;
+- Yuta has Maki;
+- Coco has Qifrey/Agott;
+- Marin has Wakana;
+- others have each other;
+- Frieren has Fern, Stark and eventually Himmel as people who will not abandon her.
+
+Mau's mistaken internal conclusion is **not**:
+
+> `I was never part of them.`
+
+It is closer to:
+
+> `They will hurt, but they can survive without me.`
+
+And at an even darker level:
+
+> `If someone has to be removed from this equation, I am the least catastrophic loss.`
+
+This is a flawed self-ranking, not a belief that nobody loves him.
+
+That distinction is crucial for the grief aftermath.
+
+## Dreams progress underneath this happiness
+
+The dream progression remains:
+
+```text
+small / ordinary
+→ strangely specific
+→ verifiably real
+→ sometimes connected to distant/current events
+→ increasingly threatening
+→ Sukuna-related
+→ the two recurring fatal branches
+```
+
+The important pacing principle is:
+
+> the happier and more interconnected the house becomes, the more disturbing Mau's private certainty becomes.
+
+Sukuna should not swallow this life phase immediately.
+
+---
+
 # 18. The dreams / premonitions — CRITICAL PRE-SUKUNA BLOCK
 
 This is one of the most important corrections/additions to the older Git seed.
@@ -1654,6 +1768,71 @@ This should breathe. Do not rush from battlefield to awakening.
 
 ---
 
+## 31.1 Grief reveals how differently people understood Mau
+
+The apparent death/recovery period should not require every character to have been equally close to Mau.
+
+That is a strength.
+
+Different reactions can coexist.
+
+Possible interpretations voiced by grieving characters:
+- some fear:
+  - `Did we fail to make him feel like he was really one of us?`
+  - `Did he think he mattered less?`
+- someone else can reject that interpretation:
+  - not because Mau felt nothing,
+  - but because **he loved the group enough that he could not accept losing one of them if he believed he could take the cost himself**.
+
+This should remain an argument born from grief, not an omniscient diagnosis.
+
+The truth is more painful:
+- Mau did feel part of them;
+- he did know he was loved in many ways;
+- he still underestimated the damage his absence would cause because he ranked everyone else's continued lives above his own.
+
+### Yuta
+Yuta should remain physically/medically committed to Mau **until he collapses**.
+
+He does not casually hand the problem off after the battle.
+
+His exhaustion is part of the cost:
+- RCT;
+- refusal to stop;
+- guilt/anger because he knew Mau's plan;
+- determination to find the third option even after the battle appears over.
+
+### Maki
+Maki does not need to interfere constantly.
+
+A strong response is simply:
+- staying near Yuta;
+- understanding why he cannot stop;
+- being present when he finally reaches his limit.
+
+That gives their reunion immediate weight without stealing the medical focus.
+
+### Frieren
+Frieren's response remains the emotional extreme:
+- does not leave Mau;
+- barely sleeps;
+- clings to his reassurance;
+- later must be forced to rest.
+
+### The wider household
+Reactions should reflect actual relationship depth rather than universal identical grief.
+
+Examples:
+- Qifrey/Coco can be visibly devastated;
+- Agott may still be cautious / only beginning her own relationship with Mau;
+- Agott's grief may therefore come partly through watching **Qifrey and Coco suffer** and realizing how important Mau had already become to them;
+- others may mourn the person they were still in the process of knowing;
+- some characters may grieve the hole Mau leaves in the household more than a long personal history with him.
+
+This makes the community feel real rather than requiring everyone to have the same bond.
+
+---
+
 # 32. Awakening — CURRENT LOCKED EMOTIONAL DIRECTION
 
 Frieren wakes beside Mau.
@@ -1676,6 +1855,13 @@ Important supersession:
 > Mau does **not** verbally mirror `I love you` in this awakening beat.
 
 He reciprocates physically/emotionally and reassures her.
+
+Important emotional-understanding distinction:
+- Mau does **not** need to be able to internally label his own feeling as `love` yet;
+- he knows Frieren is uniquely precious to him;
+- he wants to remain with her;
+- he accepts/reciprocates the relationship;
+- his later Ori arc can still be the point where he finally understands and names what he has been feeling as love.
 
 Older material where Mau answers with the same phrase is superseded **only at that node**; compatible surrounding recovery material remains.
 
@@ -1933,6 +2119,8 @@ S1 Sukuna catastrophe
 → Himmel deliberately follows rumors that point him toward Frieren
 → Agott actively finds Qifrey/Coco
 → G4 becomes daily-life cast over time
+→ dates / girls' outings / ordinary group stories overlap instead of becoming isolated character modules
+→ Bocchi/Kita becomes explicit; Mau helps indirectly alongside Momo/Marin/others
 → relationship/life arcs deepen
    - Himmel reunites with Frieren and asks to talk
    - Frieren/Himmel/Mau emotional clarification
@@ -1941,6 +2129,7 @@ S1 Sukuna catastrophe
    - Stark/Frieren/Fern/Himmel
    - Witch Hat family
    - 100 Girlfriends mini-group
+→ Mau learns what love does without yet naming his own feeling
 → Frieren's sensing/danger-reading instability is seeded
 → Mau's ordinary predictive dreams accumulate evidence
 → two fatal Sukuna branches become recurring

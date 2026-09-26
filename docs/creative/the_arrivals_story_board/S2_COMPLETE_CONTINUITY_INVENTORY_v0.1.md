@@ -2628,6 +2628,16 @@ Ori arrives / becomes attached to Mau
 
 Exact episode structure and the mechanism of Ori's arrival remain open.
 
+Already-established later payoff that proves why this S2 arc matters:
+- during the later Mau memory/perception crisis, Ori can become one of the **most reliable constants** available to him;
+- on the second major disappearance/flight, Ori may be the person who goes with Mau;
+- she does **not** hide this from Frieren to steal Mau or reopen romantic competition;
+- the logic is that if Ori refuses / immediately alerts Frieren, Mau may simply run alone;
+- Ori's privileged access in that crisis exists because her relationship has already transformed into trusted family;
+- her eventual role is to help Mau **find his way back toward Frieren**, not replace Frieren.
+
+This future function means Ori's S2 destination is already well defined.
+
 This means S2 needs **substantial post-Sukuna runway** rather than immediately ending after Mau wakes.
 
 # 37. Later arcs seeded in S2, not necessarily completed there
@@ -2907,33 +2917,45 @@ Not every combat detail needs solving now, but several mechanics affect the actu
 
 Exact move-by-move choreography, resource percentages and dialogue belong later.
 
-## 42.4 Post-Sukuna Ori arc — LARGEST REMAINING CHARACTER MACRO GAP
+## 42.4 Post-Sukuna Ori arc — SHAPE CLEAR / CONNECTORS OPEN
 
-Ori is definitively S2 and post-Sukuna.
+This was previously overstated as the "largest remaining character macro gap."
 
-The destination is known:
+The arc is already substantially developed.
+
+Established S2 direction:
 
 ```text
-Ori arrives / attaches to Mau
-→ interprets attachment as possible romance
-→ genuinely tries / explores that feeling
-→ Mau cares deeply but does not reciprocate romantically
-→ Ori is hurt
-→ Mau finally understands/names his own love for Frieren more clearly
-→ Ori learns love does not create entitlement
-→ Mau/Ori become chosen family
-→ Ori forms a real independent bond with Frieren
+Ori arrives / becomes attached to Mau
+→ interprets that first strong attachment as possible romance
+→ genuinely explores / tests that interpretation
+→ Mau cares deeply about Ori but does not reciprocate romantically
+→ Ori is genuinely hurt rather than instantly fine
+→ the mismatch helps Mau finally recognize/name that what he feels for Frieren is romantic love
+→ Ori learns that loving someone does not create entitlement to reciprocation
+→ Mau/Ori relationship transforms into chosen family
+→ Ori develops a real relationship with Frieren independent of Mau
 ```
 
-Still needed at macro level:
-- Ori's arrival mechanism;
-- why she initially attaches specifically to Mau;
-- what makes her interpret it romantically;
-- what event/conversation forces the mismatch into the open;
-- how Frieren participates without turning Ori into a rival caricature;
-- what makes the relationship genuinely settle into family rather than unresolved romantic tension.
+Established guardrails:
+- Ori is **not** villainized for developing romantic feelings;
+- Frieren is **not** turned into a jealous rival caricature;
+- Mau does not keep Ori romantically dangling as a backup;
+- the end state is genuine family, not unresolved "maybe someday" romance;
+- current Mau/Frieren romantic endpoint remains intact.
 
-This is likely the next major block to solve.
+Established later payoff:
+- Ori can become one of Mau's most reliable anchors during the later memory/perception crisis;
+- during the second disappearance/flight she may go with Mau because otherwise he may run alone;
+- not immediately telling Frieren in that moment is protective triage, not romantic theft;
+- Ori's function is ultimately to help Mau return toward Frieren.
+
+Therefore the remaining S2 work is narrower:
+- **arrival mechanism / placement**;
+- the first concrete reason Ori attaches specifically to Mau;
+- the scene/event that forces the romantic mismatch into the open.
+
+Those are connector/episode-shaping decisions, not a missing arc from scratch.
 
 ## 42.5 Relocation / future-home decision and S2 endpoint — REAL MACRO GAP
 

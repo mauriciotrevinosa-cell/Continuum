@@ -2603,42 +2603,58 @@ Still favored:
 
 Exact season-ending image remains open because S2 now contains additional post-Sukuna character material.
 
-# 36. Ori is Season 2 — CURRENT CREATOR DIRECTION
+# 36. Ori is Season 2 — MACRO RESOLVED / SCENE DETAILS LATER
 
 Ori is **S2, post-Sukuna**.
 
-This is no longer merely “post-Sukuna, placement open.”
+Her arrival connector is already established:
 
-Reason:
-- the later memory/perception crisis depends on the audience already understanding Ori's relationship with Mau **and** Frieren;
-- Ori's eventual choice to help Mau return to Frieren only pays off if her earlier attachment/romance/family arc has been lived first.
+```text
+Mau begins dreaming about / seeing an unknown girl
+→ the dreams are specific enough that he believes a real person is out there
+→ Mau actively searches for her
+→ he finds Ori
+→ Ori's S2 relationship arc begins
+```
 
-Required broad Ori progression before the later memory crisis:
+The exact dream imagery, search route and discovery scene remain later-layer work.
+
+The Ori relationship arc itself is also substantially defined rather than an open premise:
 
 ```text
 Ori arrives / becomes attached to Mau
-→ interprets attachment as possible romance
-→ experiments / tries to understand what she feels
-→ Mau cares deeply but does not reciprocate romantically
+→ interprets that attachment as possible romance
+→ actively explores / tests that interpretation
+→ Mau cares for her deeply but does not reciprocate romantically
 → Ori is genuinely hurt
-→ she learns love does not create entitlement
-→ relationship transforms into chosen family
-→ Ori also develops a real independent bond with Frieren
+→ the mismatch forces emotional clarity rather than turning Ori into a villain
+→ Mau finally recognizes/names that what he feels for Frieren is romantic love
+→ Ori learns that love does not create entitlement to reciprocation
+→ Mau/Ori settle into genuine chosen family
+→ Ori develops a real bond with Frieren independent of Mau
+→ the arc culminates in the previously developed Mau/Frieren relationship-request / "pedida" beat
 ```
 
-Exact episode structure and the mechanism of Ori's arrival remain open.
+Important:
+- do not rewrite the exact previously developed "pedida" from scratch during macro planning;
+- its precise wording/staging should be restored during the episode/script pass from the earlier creative version if recoverable;
+- the macro function is already established: Ori's arc produces clarity in Mau and leads into Mau consciously acting on what he now understands about Frieren.
 
-Already-established later payoff that proves why this S2 arc matters:
-- during the later Mau memory/perception crisis, Ori can become one of the **most reliable constants** available to him;
+Guardrails:
+- Ori is not villainized for developing romantic feelings;
+- Frieren is not reduced to a jealous rival;
+- Mau does not keep Ori romantically dangling as a backup;
+- the end state is genuine family, not unresolved "maybe someday" romance;
+- Mau/Frieren remains the romantic relationship.
+
+Already-established later payoff:
+- during the later Mau memory/perception crisis, Ori can become one of the most reliable constants available to him;
 - on the second major disappearance/flight, Ori may be the person who goes with Mau;
-- she does **not** hide this from Frieren to steal Mau or reopen romantic competition;
-- the logic is that if Ori refuses / immediately alerts Frieren, Mau may simply run alone;
-- Ori's privileged access in that crisis exists because her relationship has already transformed into trusted family;
-- her eventual role is to help Mau **find his way back toward Frieren**, not replace Frieren.
+- she does not do this to steal Mau or reopen romantic competition;
+- her position works because the S2 arc already transformed the relationship into trusted family;
+- her future function is to help Mau find his way back toward Frieren, not replace Frieren.
 
-This future function means Ori's S2 destination is already well defined.
-
-This means S2 needs **substantial post-Sukuna runway** rather than immediately ending after Mau wakes.
+This means S2 still needs substantial post-Sukuna runway, but **Ori is not a remaining macro gap**.
 
 # 37. Later arcs seeded in S2, not necessarily completed there
 
@@ -2917,45 +2933,37 @@ Not every combat detail needs solving now, but several mechanics affect the actu
 
 Exact move-by-move choreography, resource percentages and dialogue belong later.
 
-## 42.4 Post-Sukuna Ori arc — SHAPE CLEAR / CONNECTORS OPEN
+## 42.4 Post-Sukuna Ori arc — MACRO RESOLVED
 
-This was previously overstated as the "largest remaining character macro gap."
+This is no longer a structural gap.
 
-The arc is already substantially developed.
+Resolved connector:
+- Mau receives recurring/specific dreams of an unknown girl;
+- he believes she exists somewhere in Continuum;
+- he actively searches;
+- he finds Ori.
 
-Established S2 direction:
+Resolved emotional progression:
+- attachment;
+- romantic interpretation;
+- genuine attempts to understand/pursue that interpretation;
+- non-reciprocation from Mau;
+- real hurt;
+- Mau's recognition of his romantic love for Frieren;
+- Ori's acceptance that love is not entitlement;
+- chosen-family resolution;
+- independent Ori/Frieren bond;
+- culmination into the already-developed Mau/Frieren "pedida" / relationship-formalization beat.
 
-```text
-Ori arrives / becomes attached to Mau
-→ interprets that first strong attachment as possible romance
-→ genuinely explores / tests that interpretation
-→ Mau cares deeply about Ori but does not reciprocate romantically
-→ Ori is genuinely hurt rather than instantly fine
-→ the mismatch helps Mau finally recognize/name that what he feels for Frieren is romantic love
-→ Ori learns that loving someone does not create entitlement to reciprocation
-→ Mau/Ori relationship transforms into chosen family
-→ Ori develops a real relationship with Frieren independent of Mau
-```
+What remains belongs to episode/script work:
+- exact dreams;
+- exact search;
+- exact attempts Ori makes;
+- exact conversation wording;
+- exact staging of the resolution;
+- exact wording/staging of Mau's request to Frieren.
 
-Established guardrails:
-- Ori is **not** villainized for developing romantic feelings;
-- Frieren is **not** turned into a jealous rival caricature;
-- Mau does not keep Ori romantically dangling as a backup;
-- the end state is genuine family, not unresolved "maybe someday" romance;
-- current Mau/Frieren romantic endpoint remains intact.
-
-Established later payoff:
-- Ori can become one of Mau's most reliable anchors during the later memory/perception crisis;
-- during the second disappearance/flight she may go with Mau because otherwise he may run alone;
-- not immediately telling Frieren in that moment is protective triage, not romantic theft;
-- Ori's function is ultimately to help Mau return toward Frieren.
-
-Therefore the remaining S2 work is narrower:
-- **arrival mechanism / placement**;
-- the first concrete reason Ori attaches specifically to Mau;
-- the scene/event that forces the romantic mismatch into the open.
-
-Those are connector/episode-shaping decisions, not a missing arc from scratch.
+Do not treat those execution details as missing macro story.
 
 ## 42.5 Relocation / future-home decision and S2 endpoint — REAL MACRO GAP
 

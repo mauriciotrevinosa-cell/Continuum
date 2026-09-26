@@ -144,6 +144,56 @@ Similar values can still produce serious disagreements without destroying their 
 
 ---
 
+## 2.45 Future governance stress test — STRONG DIRECTION
+
+The important future failure mode is **not betrayal**.
+
+The settlement's system works while there is enough time to:
+- discuss;
+- hear specialists;
+- consult the community;
+- return major external commitments for approval.
+
+Eventually a crisis can remove that time.
+
+Mau and/or Rimuru may have to make an immediate decision that protects the community but places the cost, danger or political burden primarily on themselves.
+
+The community's anger should therefore be complicated:
+
+> **the decision may have been understandable or even correct, but the pattern is frightening.**
+
+For Mau in particular, people can recognize the same instinct that appeared in the Sukuna crisis:
+- protect everyone else;
+- take the consequence himself;
+- decide there is no time to burden others with the choice.
+
+Most residents believe Mau survived Sukuna through Yuta/RCT and the later recovery; the audience knows his death was real.
+
+That dramatic irony makes the repetition sharper.
+
+The governance question becomes:
+
+> **How much emergency authority should trusted leaders have when there is literally no time to ask everyone?**
+
+This is a design flaw the settlement had not encountered because the system had not yet failed under time pressure.
+
+The arc should not become:
+- remove Mau/Rimuru;
+- accuse them of treason;
+- suddenly distrust everything they have built.
+
+Instead it can produce:
+- emergency authority rules;
+- after-the-fact review;
+- limits on what one leader can commit alone;
+- delegated specialist authority;
+- clearer succession / backup decision-making;
+- a shared understanding that leadership sometimes requires acting fast, but repeated self-sacrifice is not a sustainable governing model.
+
+This allows Mau's personal character flaw and the city's institutional growth to mirror each other.
+
+---
+
 ## 2.5 Tree / atelier planning scene — STRONG CHARACTER + GOVERNANCE BEAT
 
 One of the first settlement-planning disagreements can center on the preserved Witch Hat seed / future resource tree.
@@ -199,6 +249,75 @@ The atelier can become:
 - a place where trusted residents can learn, help and visit.
 
 Exact Greed role, limits and tree access remain open.
+
+---
+
+## 2.6 Daphne / hunger-to-food-security arc — STRONG CHARACTER DIRECTION, SOURCE LOCK REQUIRED
+
+Greed can be the first witch whose desire Mau redirects into a useful role, but Daphne can become an even clearer example of Mau's unusual way of dealing with the witches.
+
+Instead of telling her that her desire is foolish or dangerous, Mau takes it literally.
+
+If Daphne says, in essence:
+
+> **`I want hunger to stop.`**
+
+Mau's answer can be almost comically practical:
+
+> **Then we make enough food.**
+
+That leads toward:
+- agriculture;
+- irrigation;
+- crop planning;
+- preservation;
+- storage;
+- reserves;
+- distribution;
+- later regional food aid.
+
+### Contract logic
+
+Daphne can see the Greed arrangement and ask what Mau would do with her desire.
+
+The resulting Contract should be:
+- voluntary;
+- understandable;
+- narrow enough not to erase her personality;
+- focused on agreed safety boundaries for actions that can affect the wider community.
+
+The attraction for Daphne is not submission.
+
+She wants to see whether Mau's apparently simple solution can actually reach the impossible goal she cares about.
+
+### Character evolution
+
+A strong thematic direction is that Daphne's relationship with hunger itself gradually changes as the settlement proves that abundance can be created without harming people.
+
+Instead of hunger remaining only an urge to consume, it can become something she increasingly treats as a **problem to eliminate**.
+
+Her satisfaction can become tied to whether the people under her care are actually fed.
+
+That can support a long evolution:
+
+```text
+make sure our settlement has enough food
+→ create reliable reserves
+→ improve production and distribution
+→ help neighboring communities
+→ "I don't only want my people fed. I don't want anyone to go hungry."
+```
+
+If earned, Daphne can eventually become almost comically domestic:
+- deeply invested in fields and harvests;
+- arguing over yields;
+- checking stores;
+- protective of farmers;
+- effectively a full-time agricultural / food-security presence despite how strange that outcome would have sounded at her introduction.
+
+The humor works because Mau's solution is simple, sincere and non-mocking.
+
+Exact Re:Zero characterization, terminology, original motives and any source-specific physical constraints must be verified before final lock.
 
 ---
 

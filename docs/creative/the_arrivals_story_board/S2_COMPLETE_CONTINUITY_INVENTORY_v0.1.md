@@ -2603,59 +2603,177 @@ Still favored:
 
 Exact season-ending image remains open because S2 now contains additional post-Sukuna character material.
 
-# 36. Ori is Season 2 — MACRO RESOLVED / SCENE DETAILS LATER
+# 36. Ori is Season 2 — STRONG SHAPE / FLEXIBLE CLOSURE
 
 Ori is **S2, post-Sukuna**.
 
-Her arrival connector is already established:
+Her arrival connector:
 
 ```text
 Mau begins dreaming about / seeing an unknown girl
 → the dreams are specific enough that he believes a real person is out there
 → Mau actively searches for her
 → he finds Ori
-→ Ori's S2 relationship arc begins
+→ Ori's relationship arc begins
 ```
 
 The exact dream imagery, search route and discovery scene remain later-layer work.
 
-The Ori relationship arc itself is also substantially defined rather than an open premise:
+## 36.1 Mau becomes Ori's first anchor
 
-```text
-Ori arrives / becomes attached to Mau
-→ interprets that attachment as possible romance
-→ actively explores / tests that interpretation
-→ Mau cares for her deeply but does not reciprocate romantically
-→ Ori is genuinely hurt
-→ the mismatch forces emotional clarity rather than turning Ori into a villain
-→ Mau finally recognizes/names that what he feels for Frieren is romantic love
-→ Ori learns that love does not create entitlement to reciprocation
-→ Mau/Ori settle into genuine chosen family
-→ Ori develops a real bond with Frieren independent of Mau
-→ Mau reaches enough emotional clarity to consciously understand that he loves Frieren romantically
-→ **the exact Mau/Frieren "pedida" / relationship-formalization beat remains OPEN and still needs to be designed**
-```
+After Mau finds Ori, their relationship should be allowed to breathe before becoming an explicit romance problem.
 
-Important:
-- there is **no finalized pedida yet**;
-- do not treat earlier loose discussion as a locked scene;
-- Ori's arc resolves Mau's internal clarity, but the next step — what Mau actually asks Frieren, when he asks it, and what relationship milestone it creates — remains a real open story decision.
+Current strong direction:
+- Mau is the person who actively came looking for her;
+- he becomes Ori's first stable point in Continuum;
+- structurally/emotionally, **Mau begins to occupy for Ori a role analogous to the role Frieren originally occupied for Mau**:
+  - first safety;
+  - first person who chose to come for her;
+  - first reliable attachment in an unknown world.
 
-Guardrails:
-- Ori is not villainized for developing romantic feelings;
-- Frieren is not reduced to a jealous rival;
-- Mau does not keep Ori romantically dangling as a backup;
-- the end state is genuine family, not unresolved "maybe someday" romance;
-- Mau/Frieren remains the romantic relationship.
+This does not mean the relationships are identical.
 
-Already-established later payoff:
-- during the later Mau memory/perception crisis, Ori can become one of the most reliable constants available to him;
+It explains why Ori's attachment can become unusually intense unusually quickly without requiring destiny/seduction mechanics.
+
+We should see them simply living together:
+- Ori seeking Mau out;
+- wanting to sit/stay near him;
+- joining whatever he is doing;
+- ordinary conversations;
+- comfort;
+- small domestic dependence gradually becoming genuine closeness.
+
+## 36.2 Frieren jealousy / household noticing
+
+Frieren can experience jealousy as Ori increasingly monopolizes Mau's attention.
+
+Guardrail:
+- Frieren is not reduced to a possessive rival caricature;
+- the jealousy can be quiet, awkward and partly new to Frieren because she is still learning what being in a romantic relationship means.
+
+Other people notice the unusual closeness too.
+
+Bocchi and Umaru in particular can have a sibling-like:
+> `...what is going on here?`
+
+reaction because they already understand Mau's habits and notice Ori staying unusually close to him.
+
+The household should treat Ori as a person, not immediately label her "competition."
+
+## 36.3 Girls conversation exposes the missing relationship-formalization step
+
+A strong pre-confession social beat:
+
+- several of the girls are talking together;
+- they see Mau passing by and pull him into the conversation;
+- curiosity turns toward Ori / how Mau found her / how they became close;
+- Mau tells the socially shareable version of how they met;
+- **he does not disclose the dream mechanism**;
+- the conversation drifts toward Mau/Frieren.
+
+Someone asks approximately:
+
+> `So how did you ask Frieren to be your girlfriend?`
+
+Mau's reaction is genuine confusion:
+
+> `Ask her to be my girlfriend?`
+
+Kita can be especially effective here because Mau previously helped her with Bocchi.
+
+She can point out, in essence:
+
+> `Like what you helped me do with Bocchi.`
+
+And Mau realizes:
+
+> **he never actually did that with Frieren.**
+
+Frieren confessed `I love you` after his revival and they have naturally begun functioning as a couple, but Mau never consciously/formally asked what relationship they were choosing.
+
+Exact dialogue remains later-layer work.
+
+This beat has two functions:
+1. Mau becomes aware of a missing conscious step in his relationship with Frieren.
+2. Ori realizes that, from her perspective, the relationship status may be less formally settled than she assumed.
+
+## 36.4 Ori pushes harder after that discovery
+
+The girls conversation does **not** instantly trigger a confession.
+
+Instead it gives Ori reason to explore the possibility more actively.
+
+She may:
+- seek more one-on-one time with Mau;
+- become more direct about wanting his attention;
+- test romantic-coded interactions;
+- ask questions about Mau/Frieren;
+- gradually stop being able to pretend her attachment is only gratitude or dependence.
+
+This should remain sympathetic.
+
+Ori is not trying to "steal" Mau.
+
+She is a displaced person whose first anchor is Mau, who discovers that she may be in love with him and sees enough ambiguity to wonder whether she has a chance.
+
+## 36.5 Ori eventually confesses
+
+Ori eventually pushes the question far enough that she **confesses to Mau directly**.
+
+The exact confession, location and timing remain open.
+
+Required emotional outcome:
+- Mau does not mock or dismiss her;
+- he cares about Ori deeply;
+- he cannot honestly return the romantic feeling;
+- Ori is genuinely hurt;
+- the scene forces Mau to confront why his feeling for Ori is different from what he feels for Frieren.
+
+This becomes one of the key mechanisms by which Mau finally recognizes/names:
+
+> **he is romantically in love with Frieren.**
+
+The resolution can happen wherever later episode pacing needs it.
+
+Do **not** force the entire Ori arc into one short block simply because it starts post-Sukuna.
+
+## 36.6 Resolution / chosen family
+
+Established destination:
+- Ori learns that love does not create entitlement to reciprocation;
+- Mau/Ori relationship transforms into genuine chosen family rather than unresolved "maybe someday" romance;
+- Ori develops a real bond with Frieren independent of Mau;
+- Frieren does not "win" against Ori; there is no contest to win.
+
+The later memory/perception-crisis payoff remains:
+- Ori can become one of Mau's most reliable constants;
 - on the second major disappearance/flight, Ori may be the person who goes with Mau;
-- she does not do this to steal Mau or reopen romantic competition;
-- her position works because the S2 arc already transformed the relationship into trusted family;
-- her future function is to help Mau find his way back toward Frieren, not replace Frieren.
+- this is not romantic theft;
+- her future function is to help Mau return toward Frieren.
 
-This means S2 still needs substantial post-Sukuna runway, but **Ori is not a remaining macro gap**.
+## 36.7 Mau/Frieren pedida is seeded here, not yet resolved
+
+The girls conversation creates the key realization:
+
+> **Mau and Frieren may already love each other and behave as a couple, but Mau never consciously asked Frieren what they are choosing together.**
+
+Ori's later confession/resolution gives Mau the second realization:
+
+> **he can finally name his own feeling for Frieren as romantic love.**
+
+Together these two realizations naturally create the eventual Mau/Frieren **pedida / relationship-formalization** beat.
+
+However:
+
+> **the pedida itself remains OPEN.**
+
+Still to decide:
+- exactly what Mau asks Frieren;
+- whether the language is "girlfriend/boyfriend," "partners," a promise about their future, or something more specific to them;
+- when it happens relative to Ori's resolution and relocation;
+- how Frieren responds.
+
+Do not lock wording yet.
 
 # 37. Later arcs seeded in S2, not necessarily completed there
 
@@ -2934,40 +3052,46 @@ Not every combat detail needs solving now, but several mechanics affect the actu
 
 Exact move-by-move choreography, resource percentages and dialogue belong later.
 
-## 42.4 Post-Sukuna Ori arc — MACRO MOSTLY RESOLVED / PEDIDA OPEN
+## 42.4 Post-Sukuna Ori arc — MACRO SHAPE RESOLVED / PEDIDA STILL OPEN
 
-This is no longer a structural gap.
+Ori itself is no longer a structural story gap.
 
-Resolved connector:
-- Mau receives recurring/specific dreams of an unknown girl;
-- he believes she exists somewhere in Continuum;
-- he actively searches;
-- he finds Ori.
+Resolved macro chain:
 
-Resolved emotional progression:
-- attachment;
-- romantic interpretation;
-- genuine attempts to understand/pursue that interpretation;
-- non-reciprocation from Mau;
-- real hurt;
-- Mau's recognition of his romantic love for Frieren;
-- Ori's acceptance that love is not entitlement;
-- chosen-family resolution;
-- independent Ori/Frieren bond;
-- Mau reaches conscious clarity about loving Frieren romantically;
-- **the exact Mau/Frieren pedida / relationship-formalization beat remains unresolved.**
+```text
+Mau dreams of unknown girl
+→ searches
+→ finds Ori
+→ Mau becomes Ori's first Continuum anchor
+→ ordinary closeness / Ori increasingly stays near Mau
+→ Frieren experiences quiet jealousy; Bocchi/Umaru notice the closeness
+→ girls pull Mau into conversation
+→ Mau tells how he met Ori without revealing the dreams
+→ girls ask how he formally asked Frieren to be his girlfriend/partner
+→ Mau realizes he never did
+→ Ori realizes the relationship may not have been explicitly formalized
+→ Ori explores her romantic possibility more actively
+→ Ori eventually confesses
+→ Mau cares deeply but cannot reciprocate romantically
+→ real hurt / emotional confrontation
+→ Mau recognizes that the difference is that he is romantically in love with Frieren
+→ Ori/Mau resolve into chosen family
+→ Ori/Frieren develop an independent bond
+```
 
-What remains:
-- exact dreams;
-- exact search;
-- exact attempts Ori makes;
-- exact conversation wording;
-- exact staging of the Ori resolution;
-- **the Mau/Frieren pedida itself: what Mau asks for, what emotional realization drives it, when it happens, and what new relationship status it creates.**
+The arc may close wherever pacing needs it; it does not have to resolve immediately after Ori arrives.
 
-The first five can mostly wait for episode/script work.
+Remaining scene-level work:
+- exact dream/search;
+- exact domestic Ori/Mau beats;
+- exact jealousy beats;
+- exact girls-conversation dialogue;
+- exact confession and recovery.
 
-The pedida is **not** mere execution detail; it is still an open relationship-story beat and should be solved before S2 is called fully macro-complete.
+Remaining **macro relationship decision**:
+- the eventual Mau/Frieren pedida / formalization itself.
+
+That beat is now well seeded but still must be designed.
 
 ## 42.5 Relocation / future-home decision and S2 endpoint — REAL MACRO GAP
 

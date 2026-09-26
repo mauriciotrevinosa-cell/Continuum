@@ -2593,15 +2593,93 @@ S2 post-Sukuna should contain enough genuine life for:
 
 Do not interpret “S3 material” as “forbidden to foreshadow or begin in S2.”
 
-## 35.1 City progression
+## 35.1 Future-home / first settlement progression — STRONG DIRECTION
 
 Still favored:
 - pre-Sukuna: fortify current home + scout future site;
-- after Sukuna: recovery and ordinary life;
-- first move / first construction can begin when earned;
-- most large-scale city growth can continue through S3.
+- after Sukuna: recovery, ordinary life and continued search;
+- late S2: identify/choose a naturally defensible region with room to grow;
+- first terrain preparation / construction can begin before the season closes;
+- most large-scale city growth continues through S3.
 
-Exact season-ending image remains open because S2 now contains additional post-Sukuna character material.
+### Site concept
+
+Current favored geography:
+- substantial fresh water / lake access;
+- mountains or other natural barriers covering a meaningful portion of the perimeter;
+- access toward the sea / an external escape and trade route;
+- enough compact buildable land for a growing settlement without requiring a giant city footprint;
+- defensible fallback / evacuation space for civilians;
+- room for barriers, training, recreation and later expansion.
+
+The site may include islands, peninsulas, terraces or naturally separated chunks, but **literal islands are not required**. The design goal is protected geography plus controllable access, not an island gimmick.
+
+### Rimuru and terrain shaping
+
+Rimuru can become a major practical reason the site is viable:
+- reshape/prepare terrain;
+- create or improve foundations/terraces;
+- help define channels, walls, approaches, bridges or protected routes;
+- accelerate infrastructure that ordinary labor would take far longer to establish.
+
+This should not be confused with Mau's creator/assistant shorthand **Construction** (`observe → analyze → understand → construct/evolve`).
+
+Exact Rimuru source-consistent terrain-modification mechanics require later source-lock verification; the macro story function is that Rimuru helps convert good natural geography into a deliberately defensible home.
+
+### Settlement architecture: one home, multiple roofs
+
+The community does **not** remain literally inside one building, but it also does not fragment into isolated households.
+
+Favored model:
+
+> **one connected home / campus with private residences around a shared civic-family core.**
+
+Central/common core:
+- large kitchen + dining hall;
+- common lounge / gathering space;
+- meeting/coordination area;
+- clinic / emergency support nearby;
+- open plaza/courtyard where ordinary life remains visible.
+
+Specialized buildings near the core:
+- **Witch Hat atelier** for Qifrey/Coco/Agott and magic study/work;
+- **library** as a separate important building, including Greed's living/working presence if that direction remains;
+- workshops / storage / later craft spaces;
+- training/recreation facilities;
+- protected civilian refuge / evacuation infrastructure.
+
+Residences:
+- private homes / apartment-like units form a close ring around the important shared buildings;
+- buildings can be 2–3 levels where useful so the settlement remains compact;
+- couples can have real privacy without being socially separated;
+- Yuta/Maki can have their own unit;
+- Mau/Frieren can have their own home/large unit while still retaining nearby or internal rooms for close-family members such as Fern/Bocchi when appropriate;
+- other units can evolve as relationships and family structures change rather than assigning everyone permanently now.
+
+Do **not** turn Mau/Frieren's home into a palace or central authority residence. Their home should remain one household among the community even if many people naturally spend time there.
+
+### Verticality
+
+A pure “everything communal on floor 1, everyone lives directly above it” megastructure is **not** the preferred macro direction.
+
+Better:
+- some mixed-use buildings can have residences above quieter ground-floor functions;
+- the main dining/common complex can have limited upper rooms;
+- but potentially hazardous/specialized spaces such as the atelier, heavy workshops, defenses, etc. should remain distinct;
+- the overall settlement should read as a walkable connected neighborhood rather than one apartment block.
+
+Emotional principle:
+
+> **They stop living under one literal roof without stopping living together.**
+
+The new settlement is the grown-up version of the inn:
+- more privacy;
+- more safety;
+- more specialization;
+- more room for arrivals;
+- but everyone still converges naturally for meals, work, arguments, celebrations and emergencies.
+
+Exact map/floorplans remain later-layer work.
 
 # 36. Ori is Season 2 — STRONG SHAPE / FLEXIBLE CLOSURE
 
@@ -3093,22 +3171,39 @@ Remaining **macro relationship decision**:
 
 That beat is now well seeded but still must be designed.
 
-## 42.5 Relocation / future-home decision and S2 endpoint — REAL MACRO GAP
+## 42.5 Relocation / future-home decision — MACRO SHAPE RESOLVED / ENDPOINT IMAGE OPEN
 
-The household has already decided:
-- current inn is temporary;
-- fortify it now;
-- search for something safer;
-- preserve the Witch Hat seed for the future site.
+The future-home concept is no longer a structural gap.
 
-Still needed:
-- what broad qualities make the eventual site the choice;
-- whether the site is chosen before or after Sukuna;
-- how much actual moving/first construction occurs during S2;
-- how Ori fits relative to that movement;
-- what emotional image/condition closes S2 and hands naturally into S3.
+Resolved direction:
+- current inn remains temporary;
+- group scouts for a naturally protected region;
+- favored site has fresh water, natural barriers/mountains, an external sea/escape/trade route and controlled approaches;
+- literal islands are optional rather than required;
+- Rimuru helps reshape/prepare the terrain and infrastructure;
+- the Witch Hat seed is preserved for this future site;
+- settlement is designed as a compact connected campus/neighborhood rather than either one giant house or fully separated homes;
+- shared kitchen/dining/common spaces remain the social heart;
+- specialist buildings include an atelier, library and later workshops/medical/training/recreation spaces;
+- private residences around the core give couples/families privacy;
+- moderate vertical construction (2–3 levels in some areas) allows density and future growth;
+- civilian refuge / evacuation and layered defenses are designed into the settlement because monster/Otherworlder threats are expected to recur.
 
-Exact geography, floorplans, agriculture math and construction details can wait unless they directly affect the chosen ending.
+The key emotional answer to "do we still live together?" is:
+
+> **yes as one home/community, no as one literal roof.**
+
+Remaining open macro item:
+- the **exact final image / stopping point of S2**:
+  - discovering the site;
+  - choosing it;
+  - first terrain transformation;
+  - planting/using the preserved seed;
+  - first communal building;
+  - first night/meal in the new home;
+  - or another earned image after the Mau/Frieren relationship beat.
+
+That final image should be chosen only after Sukuna mechanics and the Mau/Frieren pedida are settled, because the strongest ending may combine physical home-building with relationship/family resolution.
 
 ## 42.6 Optional S2→S3 seeds — PLACEMENT WORK, NOT A BLOCKING GAP
 

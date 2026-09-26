@@ -748,14 +748,27 @@ This preserves them as people before turning them into exposition recipients.
 
 Stark's subjective continuity can make his reunion especially moving.
 
-Current shape:
+Current preferred shape:
 - from Stark's perspective, Fern disappears;
-- he has reason to fear/assume she may be dead;
-- later Frieren also disappears;
-- Stark is left with the experience of losing both of them;
-- on an otherwise ordinary day — potentially while eating — he blinks/transitions and appears in a Continuum forest.
+- Frieren then leaves / disappears as well;
+- Stark does **not** necessarily spend days in despair or immediately assume Frieren is dead;
+- a more characterful interpretation is that Stark assumes Frieren probably went looking for Fern again;
+- with both of them gone, Stark decides to distract himself and take advantage of the rare quiet by ordering/preparing an unusually luxurious breakfast;
+- the plate is already in front of him;
+- before eating, Stark closes his eyes for a moment to give thanks / compose himself;
+- he opens them;
+- the breakfast is gone;
+- he is sitting/standing in an unfamiliar Continuum forest.
 
-Exact time gap and transport visual remain open.
+This should play with a mix of:
+- quiet concern for Fern/Frieren;
+- Stark trying to act normal;
+- comedy from the absurdly bad timing;
+- immediate disorientation.
+
+The beat is stronger if Continuum takes him **right before the first bite**, after he has already committed to the nice breakfast.
+
+Exact food, visual transition and time gap remain open.
 
 ### Stark / Frieren / Fern reunion
 

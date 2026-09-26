@@ -1411,50 +1411,70 @@ This constraint is important because it prevents implausible power growth before
 
 ## 19.6 Mau / Rimuru Contract — STRONG, DARK DIRECTION
 
-Mau knows Rimuru's instinct will be to interfere if the fatal dream moment arrives.
+The Contract should come from **Rimuru's moment of emotional weakness and understanding**, not manipulation.
 
-Mau therefore asks/pressures Rimuru into a **Contract** tied to the signal Mau will give if that moment occurs.
+Mau is already fraying under the dreams.
+
+During the conversation he can finally articulate what Frieren means to him even though he still does not yet label it cleanly as romantic love:
+- she is the first person he remembers meeting in this world;
+- she took him in;
+- she became his first anchor;
+- he cannot imagine continuing in a world where she is gone;
+- losing Frieren would not make Mau suicidal, but it could destroy the structure around which his current identity and life were rebuilt.
+
+Mau is close to breaking when he asks Rimuru for the contingency.
+
+Rimuru understands something terrible:
+
+> even if Mau physically survives while Frieren dies, that does not mean the outcome is truly "Mau survives."
+
+Rimuru therefore says yes to the Contract in a moment where compassion overrides his instinct to keep every option open.
+
+This is **not** magical coercion, deception or mind control.
+
+Rimuru knowingly consents because he understands Mau's anchor logic, even though he hates the choice.
 
 Current intended effect:
 
-> when Mau gives the agreed signal, Rimuru must **not attempt to stop Mau's intervention**.
+> if the predicted decisive moment occurs, Rimuru must **not physically interfere with Mau's attempt to reach Frieren**.
 
-Instead Rimuru's required action is:
-- deploy the prepared protective barrier;
-- protect/minimize casualties;
-- enable the extraction plan;
-- do not gamble Frieren's life by physically interrupting Mau.
+Instead Rimuru must:
+- execute the prepared protective barrier / casualty-containment role;
+- trust Yuta with Frieren;
+- preserve everyone else from the coming blast sequence as much as possible.
 
-This should be emotionally ugly.
+The Contract should later hurt Rimuru precisely because:
 
-Mau is effectively removing one of Rimuru's choices because he believes Rimuru might otherwise try to save him at the cost of the branch where Frieren lives.
+> he agreed freely, for compassionate reasons, and still wishes he had found another answer.
 
-Important open point:
-- exact Contract mechanics;
-- exact degree of formal consent;
-- whether Mau makes Rimuru's participation conditional on accepting it vs another mechanism.
+Exact Contract wording/cost/mechanics remain later-layer work.
 
-Do **not** silently turn this into magical mind control without later deciding that explicitly.
+## 19.7 The "signal" is Qifrey's prepared field trigger — STRONG DIRECTION
 
-The emotional truth is locked more strongly than the mechanics:
+There does not need to be a separate password/gesture from Mau.
 
-> Rimuru hates this condition and later has to live with having obeyed it.
+Mau's dream gives him enough spatial information to identify the point where the fatal branch is likely to occur.
 
-## 19.7 The signal
+He therefore has Qifrey prepare **one specific field mechanism at that location**.
 
-Mau gives Rimuru a simple contingency:
+Important:
+- it is **not** a trap intended to immobilize or overpower Sukuna;
+- that would be implausible;
+- its job is only to buy Mau the tiny fraction of time needed to reach the decisive position.
 
-> if the dream moment occurs and Mau gives the signal, execute the plan immediately.
+When Qifrey's prepared mechanism triggers, that event itself becomes the team's signal:
 
-The signal triggers the prepared roles:
-- **Rimuru:** barrier / casualty containment;
-- **Yuta:** go for Frieren immediately;
-- **Okarun:** execute the speed extraction role assigned to him;
-- the rest of the prepared field proceeds as designed.
+- **Mau:** moves immediately toward Frieren / the predicted interception point;
+- **Rimuru:** Contract contingency activates in practical terms — do not stop Mau; deploy barrier/casualty containment;
+- **Yuta:** commits immediately to getting Frieren out;
+- **Okarun:** prepares/executes his all-out extraction role;
+- everyone who knows the contingency understands that the dream moment has arrived.
 
-Exact signal/word/gesture remains open.
+This makes the plan feel physical and earned:
 
-Frieren and the wider household do not know what it means.
+> the "signal" was planted into the battlefield days earlier.
+
+Exact symbol/mechanism remains later-layer work.
 
 ---
 
@@ -1556,9 +1576,17 @@ Exact Witch Hat source mechanics must still be verified before final lock.
 
 Qifrey's job is:
 - study the intended interception terrain;
-- pre-place symbols / delayed mechanisms / traps;
+- pre-place symbols / delayed mechanisms;
+- prepare the **specific dream-location trigger** Mau asks for;
 - create tiny timing advantages;
 - spend finite resources carefully.
+
+The decisive Qifrey mechanism is **not a Sukuna immobilizer**.
+
+It only needs to:
+- react at the correct spatial moment;
+- disrupt timing/footing/positioning enough to buy Mau a fraction of a second;
+- function as the team's practical signal that the fatal dream branch has arrived.
 
 He is not expected to overpower Sukuna.
 
@@ -1566,7 +1594,7 @@ His contribution is measured in:
 
 > fractions of a second.
 
-That can still become decisive.
+That fraction can still become decisive.
 
 ## 20.7 Mau knows enough timing to choose the battlefield
 
@@ -1609,7 +1637,34 @@ Sukuna chooses Yuta
 
 Exact method by which Sukuna tracks Yuta remains open.
 
-## 20.9 Everyone else is largely in the dark
+## 20.9 Himmel partially discovers the plan — STRONG DIRECTION
+
+Himmel should not need to be formally recruited through a tactical briefing.
+
+A more natural route:
+- Himmel wants to speak privately with Mau, initially for personal reasons;
+- he overhears or catches enough of the preparation discussion to realize someone dangerous is coming toward the inn / household;
+- he does **not** immediately moralize or demand that they cancel everything;
+- he asks a practical question instead:
+
+> **`Someone is going to attack the inn? How can I help?`**
+
+Exact wording remains open.
+
+This is valuable because it shows Himmel's character:
+- he understands there is more he has not been told;
+- he recognizes that Mau/Yuta/Rimuru are under extreme time pressure;
+- his first instinct is to protect people.
+
+He can then be assigned a frontline/protection role without knowing every detail of:
+- the dreams;
+- Mau's expected death;
+- Hollow Purple;
+- the Rimuru Contract.
+
+Over the short preparation window, this also gives Mau and Himmel enough direct contact for trust to deepen before the later `Take care of her for me` moment.
+
+## 20.10 Everyone else is largely in the dark
 
 The wider cast should not receive a full war briefing.
 
@@ -1625,7 +1680,7 @@ This preserves the later emotional damage.
 
 They are living ordinary life while, only a short distance away socially and emotionally, a tiny group is preparing for a battle they believe may kill Mau.
 
-## 20.10 Hueco 4 macro status — RESOLVED
+## 20.11 Hueco 4 macro status — RESOLVED
 
 Current chain:
 
@@ -1637,13 +1692,14 @@ fatal dreams become credible
 → Yuta/Rimuru reject Mau's binary
 → preparation window reveals itself as days / ~one week max
 → each participant chooses one narrow job
-→ Mau binds/pressures Rimuru through a non-interference Contract contingency
+→ Mau nearly breaks while explaining Frieren as his first anchor; Rimuru freely accepts the non-interference Contract despite hating it
 → Yuta focuses on RCT as the post-death Hail Mary
 → Rimuru focuses on barrier/casualty containment
 → Mau trains CE with Yuta while secretly finishing Hollow Purple requirements
 → Okarun trains one all-out rescue burst
 → Qifrey/Rimuru create the future seed, preserve it for relocation
-→ Qifrey spends finite resources preparing the interception field
+→ Qifrey spends finite resources preparing the interception field and the specific dream-location timing trigger
+→ Himmel partially overhears the threat and volunteers for frontline/protection without receiving the full secret
 → Sukuna independently begins moving toward Yuta
 → Mau knows the timing window
 → protagonists intercept Sukuna away from the inn
@@ -1862,26 +1918,28 @@ Himmel's earlier emotional arc is what makes this line land.
 
 Current favored order:
 
-1. the fatal dream moment is recognized;
-2. Mau gives the **pre-agreed signal**;
-3. under the Contract contingency, Rimuru does not interfere with Mau and instead deploys the planned protective barrier / casualty containment;
-4. Yuta immediately commits to extracting Frieren;
-5. Okarun executes his prepared all-out extraction/repositioning burst, with Rimuru as the current intended priority once the barrier role is committed.
-6. Mau begins constructing **Blue first**.
-7. Blue is visibly unstable and attached to/consuming one hand.
-8. **Red** forms through/from the other side/hand.
-9. Sukuna recovers enough to understand the danger.
-10. He tries to detach/escape.
-11. He discovers he cannot simply separate from Mau.
-12. Exact reason remains open.
-13. Sukuna invokes Mahoraga.
-14. Mahoraga physically attempts to separate/interfere with Red/Blue.
-15. It is too late.
-16. Mahoraga is annihilated.
-17. the wheel falling remains a favored visual.
-18. very short Mau memory of Frieren smiling / internal acceptance that at least she is safe;
-19. unstable Hollow Purple completes;
-20. detonation.
+1. the fight reaches the exact area/moment Mau recognizes from the dream;
+2. **Qifrey's pre-positioned mechanism triggers** at the dream location, buying only a fraction of a second;
+3. that trigger is the team's practical signal that the fatal branch has arrived;
+4. under the Contract contingency, Rimuru does not interfere with Mau and instead deploys the planned protective barrier / casualty containment;
+5. Yuta immediately commits to extracting Frieren;
+6. Okarun executes his prepared all-out extraction/repositioning burst, with Rimuru as the current intended priority once the barrier role is committed.
+7. Mau uses the fraction bought by Qifrey to reach/intercept Frieren's fatal position.
+8. Mau begins constructing **Blue first**.
+9. Blue is visibly unstable and attached to/consuming one hand.
+10. **Red** forms through/from the other side/hand.
+11. Sukuna recovers enough to understand the danger.
+12. He tries to detach/escape.
+13. He discovers he cannot simply separate from Mau.
+14. Exact reason remains open.
+15. Sukuna invokes Mahoraga.
+16. Mahoraga physically attempts to separate/interfere with Red/Blue.
+17. It is too late.
+18. Mahoraga is annihilated.
+19. the wheel falling remains a favored visual.
+20. very short Mau memory of Frieren smiling / internal acceptance that at least she is safe;
+21. unstable Hollow Purple completes;
+22. detonation.
 
 The barrier is not decorative. It is one of the planned survival layers that makes the team's preparation matter.
 

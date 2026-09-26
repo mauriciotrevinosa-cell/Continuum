@@ -15,7 +15,11 @@ It also should not stretch the arrival phase across a decade.
 
 Current strong target:
 
-> **By roughly in-world Year 4, essentially all major intended Otherworlders should already have arrived and/or become part of the wider city story.**
+> **By roughly in-world Year 2–2.5, most major intended Otherworlders should already have arrived and/or become part of the wider city story.**
+
+A flexible **Year 3 ceiling** remains acceptable if some major convergence needs more room.
+
+The earlier Year 4 target is superseded: once the city/scout/network phase exists, discovery and travel no longer need to remain as slow as S1–S2.
 
 This leaves enough time for:
 - relationships to breathe;
@@ -57,8 +61,9 @@ Mau arrival                         = Month 0
 S1 end                              = ~Month 4
 S2 end / future-home site chosen    = ~Month 13–14
 early S3 settlement phase           = ~Month 14–18
-Year 2–3                            = rapid convergence / institutions / expansion
-by Year 4                           = essentially all major intended Otherworlders present
+next ~6–12 months                   = accelerated convergence + city growth + enemy movement
+~Year 2–2.5                         = most major intended Otherworlders present
+Year 3                              = flexible ceiling, not preferred target
 ```
 
 These are planning ranges, not hard timestamps.
@@ -128,20 +133,81 @@ family expands + threats converge + choose a future home
 S3
 build institutions + G5 + memory crisis + widening world systems
 
-Year 2–3
-rapid city growth + more arrivals + diplomacy + ecology/world adaptation
+late S3 / following arcs
+rapid city growth + accelerated convergence + diplomacy + ecology/world adaptation
 
-by Year 4
+~Year 2–2.5
 major intended cast substantially converged
 
 afterward
 less "collect everyone"
 more "what does this civilization become?"
+
+Year 3 remains a flexible ceiling only if a few major arrivals need additional breathing room.
 ```
 
 This does not mean arrivals stop forever after Year 4.
 
 It means they stop being the dominant structural engine of the story.
+
+---
+
+## 5.5 Accelerated convergence does not mean rushed relationships
+
+Once S3 has:
+- organized scouts;
+- faster travel;
+- known routes;
+- rumors/network effects;
+- a recognizable Otherworlder city;
+- people capable of moving/searching much faster than the original household could;
+
+the story no longer needs to spend months simply locating every new arrival.
+
+A strong cadence is:
+
+```text
+2–3 arrivals / one small convergence wave
+→ immediate practical integration
+→ several chapters/episodes of ordinary life, relationships and city participation
+→ next wave
+```
+
+This can borrow the useful rhythm of ensemble-romance/comedy series that regularly introduce new characters while continuing to develop the existing cast, **without copying a fixed chapter count**.
+
+Important:
+- new arrivals should not monopolize the whole story;
+- existing relationships keep evolving;
+- friendships can be uneven and specific;
+- not every girl automatically becomes equally close with every other girl;
+- for example, Kita and Momo may click particularly well while having different chemistry with others;
+- reunions can still receive major emotional space when warranted;
+- city work, villains, The Noise and existing arcs continue during convergence.
+
+The goal is:
+> **arrival + integration + life**, not arrival after arrival with no consequences.
+
+### Parallel tracks during the convergence window
+
+The accelerated 6–12 month window is not peaceful filler.
+
+While new people arrive:
+- the city keeps physically changing;
+- professions/institutions mature;
+- friendships/romances/family structures cross-pollinate;
+- The Noise continues evolving;
+- villains observe, organize and make plans;
+- source-linked ecologies/anomalies become more common;
+- diplomacy and reputation repair continue;
+- occasional major attacks can still occur.
+
+This means the audience can feel the cast filling out **while the world is simultaneously becoming more dangerous**.
+
+### Example reunion texture
+
+A later Gojo-related return/convergence can be emotionally richer if he no longer arrives alone but returns with other people he has found/traveled with, including the creator-proposed Yuka + brother grouping if retained.
+
+Exact identities, timing and source relationships remain open until that grouping is properly source/project-checked.
 
 ---
 
@@ -174,6 +240,37 @@ Later hostile states/factions can still decide the Otherworlder city is dangerou
 - direct war.
 
 Sukuna may become useful to such enemies because of his own desire for revenge, but **the exact coalition/arc is long-term reservoir, not locked**.
+
+---
+
+## 6.5 City-under-construction threat track — STRONG STRUCTURAL DIRECTION
+
+The growing city should not receive 6–12 uninterrupted months of peace simply because the story is integrating cast.
+
+Villains can develop in parallel:
+- scouting the city;
+- testing defenses;
+- creating alliances;
+- exploiting Otherworlder fear;
+- waiting for leadership to be absent or divided.
+
+A **first serious attack on the new city** during this convergence era is a strong future possibility.
+
+It can demonstrate that:
+- the bunker/evacuation planning mattered;
+- specialist roles matter;
+- the city can function even when Mau/Rimuru are not both physically present;
+- the settlement is becoming important enough for enemies to target intentionally.
+
+Exact attacker and timing remain open.
+
+A particularly strong but still provisional theory:
+- Mau leaves on an exploration/search mission;
+- that mission intersects with Jin-Woo or the Gate mystery;
+- while Mau is returning / absent, a Monarch-level Solo Leveling threat attacks or pressures the city;
+- this cross-cuts Mau discovering something enormous outside with the city proving whether it can survive without depending on him personally.
+
+Do **not** lock the Monarch, attack mechanics or Jin-Woo timing yet.
 
 ---
 
@@ -286,7 +383,7 @@ The uncertainty is useful.
 
 ## 9. Long-term phase change after convergence
 
-Once the major intended cast is substantially present by ~Year 4, the story should be free to accelerate outward.
+Once the major intended cast is substantially present by roughly **Year 2–2.5**, the story should be free to accelerate outward.
 
 The core question changes from:
 
@@ -310,4 +407,4 @@ This opens:
 - Sukuna revenge schemes;
 - long-term Mau/system/origin story.
 
-Year 4 is therefore a **convergence target**, not an ending.
+Year 2–2.5 is therefore the preferred **convergence target**, not an ending. Year 3 is a flexible ceiling if needed.

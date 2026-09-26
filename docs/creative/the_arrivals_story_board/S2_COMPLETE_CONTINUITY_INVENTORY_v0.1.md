@@ -31,6 +31,25 @@ Current planning categories:
 - **REAL GAP** — a connector or substantive story decision genuinely still needs invention.
 - **LIFE / SLICE-OF-LIFE REQUIRED** — not a plot gap, but the story needs lived time, routines, lateral relationships and ordinary activity.
 
+## 0.1 Working shorthand: `Observe`
+
+For conversation/planning convenience, use **Observe** as the short working label for Mau's underlying process:
+
+```text
+OBSERVE → ANALYZE → UNDERSTAND → CONSTRUCT / EVOLVE
+```
+
+`Observe` is shorthand only. It is not currently a diegetic ability name and should not imply passive absorption by proximity.
+
+When we say:
+- `first Observe example`
+- `Observe event`
+- `Observe learned X`
+
+we mean the full process above unless explicitly narrowed.
+
+
+
 ---
 
 # 1. What Season 2 currently is
@@ -168,7 +187,9 @@ Bocchi incident
 → G3 reaches the home
 ```
 
-The unexplained Mau/Frieren magic beat is **not** treated as malicious secrecy.
+The unexplained Mau/Frieren magic beat is also the **first important visible example of the Observe mechanism** in S2 planning. Exact mechanics remain open; do not reduce it to passive copying.
+
+The beat is **not** treated as malicious secrecy.
 
 Their reasoning is:
 
@@ -244,6 +265,22 @@ G3 therefore does **not** trigger the original power disclosure. It triggers the
 
 # 5. G3 integration is an arc, not an instant merge
 
+## 5.0 Fortification + integration happen together — STRONG DIRECTION
+
+G3 arrives while the household is already acting on the post-Bocchi decision to **fortify the inn while searching for a safer long-term home**.
+
+That gives the integration period a physical activity rather than making everyone sit around waiting for the next plot beat.
+
+During this stretch:
+- rooms and common areas may be extended/reorganized to accommodate more people;
+- defenses, storage, routes and basic safety improve;
+- G3 contributes through work, skills and ordinary life;
+- trust grows while people build something together.
+
+This is a useful connector because **the inn physically changing mirrors the family changing**.
+
+The exact construction jobs/scenes are later-level details.
+
 ## 5.1 Transferred trust is not full trust — STRONG DIRECTION
 
 Examples:
@@ -275,6 +312,60 @@ The growing household now has to decide:
 - Bocchi can explain the relationship;
 - Kita observes that Mau respects Bocchi's agency and is genuinely happy Bocchi reunited with her;
 - respect/friendship should grow from behavior, not automatic protagonist charisma.
+
+### Kita / Bocchi / Mau — trust mirror
+
+The first Kita/Bocchi/Mau phase should create a deliberate parallel:
+
+- **G1/G2 are asking:** how much should we trust G3?
+- **Kita is asking:** how much should I trust the people Bocchi now lives with, especially Mau?
+
+Immediate shape:
+- Kita recognizes Bocchi and is overjoyed;
+- sees the forehead bandage and becomes concerned;
+- Bocchi minimizes what happened;
+- Mau tries to introduce himself normally;
+- Bocchi instinctively stays physically close to / clings to Mau;
+- from Kita's perspective, this is confusing because she does not know who Mau is and knows only that her close friend / possible romantic interest is suddenly attached to him.
+
+Do not turn Kita into irrational jealousy.
+
+Her uncertainty should come from:
+- concern for Bocchi;
+- lack of context;
+- displacement into another world;
+- seeing an intimacy she did not witness develop.
+
+Over time, Kita sees:
+- Mau never tries to keep Bocchi away from her;
+- Mau actively wants Bocchi to reconnect with Kita;
+- Bocchi's trust in Mau is voluntary;
+- Mau respects Bocchi's agency.
+
+This allows Kita's eventual trust in Mau to be **earned independently**, not transferred through Bocchi.
+
+### Bocchi / Kita romance — PRE-SUKUNA STRONG DIRECTION
+
+Before Sukuna, Bocchi and Kita should eventually become a couple.
+
+The exact confession/date/episode structure is intentionally open, because this should likely receive its own slice-of-life episode or mini-arc later when episode planning begins.
+
+Strong payoff idea:
+- Kita asks Mau for help preparing something for Bocchi;
+- Mau does not fully understand romance yet;
+- after his conversations with Yuta/Maki he wants to understand love better;
+- more importantly, he knows it will make Bocchi happy;
+- helping Kita becomes another way Mau learns love by watching other people choose each other.
+
+This has direct emotional value for the Sukuna arc:
+
+> when Mau later believes he may die, he can look at Bocchi and know she is not being abandoned alone — she has Kita, Fern, and the larger family.
+
+This does **not** make Mau's sacrifice correct. It helps explain why the false binary becomes psychologically survivable to him.
+
+The relationship also reinforces the core ensemble rule:
+
+> people Mau loves are building lives and relationships that do not depend entirely on Mau.
 
 ### Umaru
 - deep older-brother / younger-sister-like bond with Mau;
@@ -1547,8 +1638,10 @@ S1 Sukuna catastrophe
 → Otherworlder fear / social deterioration
 → Bocchi incident
 → G3 convergence
-→ G3 trust/integration
-→ selective power disclosure / early Contracts
+→ G3 trust/integration + inn expansion/fortification
+→ Bocchi/Kita relationship grows; trust mirror with Mau/Kita
+→ Bocchi/Kita relationship becomes explicit before Sukuna
+→ G3 learns/earns access to deeper trust over time
 → fortify first home
 → reconnaissance / map / search for future home + missing Arrivals
 → G4 members converge over time

@@ -2727,91 +2727,155 @@ This graph is **structural**, not final episode order.
 ---
 
 
-# 42. Real gaps that still need to be solved before S2 can be called structurally complete
+# 42. Remaining work after Huecos 1–5 — UPDATED MACRO AUDIT
 
-## Opening / G3
-- exact amount of time between rumor escalation, Bocchi incident and G3 arrival;
-- exact mechanics/scene count of G3 integration;
-- which G3 relationships get immediate spotlight vs slow burn.
+The previous gap list became stale during the 2026-09-26 connector pass.
 
-## Trust / Contracts
-- exact first Contract;
-- cost/consequence;
-- who proposes it;
-- whether disclosure and Contract happen in one block or adjacent blocks.
+Huecos 1–5 are now **macro-resolved**:
+- Bocchi incident → disclosure → first Construction event → G3 arrival/integration;
+- G3/fortification → differentiated G4 convergence;
+- lived-in G4 life → emotional growth → predictive dreams;
+- Mau/Yuta/Rimuru secret → one-week specialization/preparation;
+- Sukuna approach/interception → Frieren re-enables detection and enters the battle.
 
-## Fortification / relocation
-- final geography;
-- candidate site(s);
-- water/farmland/trade/harbor/ownership/monster considerations;
-- exact point at which site choice becomes final.
-
-## G4
-- exact arrival/convergence order;
-- who is already in Continuum before joining;
-- how long Himmel has before Sukuna;
-- exact Maki arrival relative to Yuta;
-- exact Stark Synchronization state;
-- exact Agott/Qifrey/Coco reunion;
-- how the four 100 Girlfriends members enter.
-
-## Frieren / Himmel / Maki / Mau
-- exact first Himmel/Frieren conversation;
-- whether Frieren's feeling for Himmel is ultimately described as non-romantic deep love vs another formulation;
-- exact Maki wording;
-- how many conversations Frieren/Maki need;
-- exact point Frieren consciously knows she loves Mau;
-- exact progression of Frieren's sensor/danger-reading unreliability;
-- what Himmel sees/understands at each stage;
-- what Mau understands before the battle.
-
-## Dreams
-- exact examples of ordinary predictive dreams;
-- how Mau verifies them;
-- how many are needed before he trusts the phenomenon;
-- whether ordinary predictive dreams and the goddess false binary appear through the same subjective channel;
-- exact point Yuta/Rimuru are told.
-
-## Training/preparation
-- exact number of days inside the ~one-week maximum window;
-- exact memory-sharing/reconstruction mechanism for Shinjuku;
-- exact Contract mechanics between Mau and Rimuru;
+Many items that were previously listed as “gaps” are now **later-layer work**, not missing macro story:
+- exact episode numbers;
+- exact dialogue;
+- exact number of days between most blocks;
+- exact arrival order among some G4 members;
+- exact dream examples;
 - exact training scenes;
-- how the group hides preparation from Frieren/others;
-- which characters suspect something;
-- exact CE requirements Construction derives for the one-use Hollow Purple analogue;
-- exact Okarun burst limit;
-- exact barrier mechanics;
-- exact Qifrey field-resource cost.
+- exact recovery clock;
+- exact Maki/Frieren wording;
+- exact choreography/page count.
 
-## Sukuna battle mechanics
-- exact merging mechanism;
-- why Sukuna cannot detach from Mau;
-- exact binding vow / escape cost;
-- how Heian Sukuna retains Ten Shadows;
-- exact Domain sequence;
-- exact resource states;
-- exact final choreography/dialogue around Mau's goodbye.
+The remaining **true macro/story-logic gaps** are:
 
-## Recovery
-- exact duration;
-- who, if anyone, is the person who suggests “let him rest”;
-- exact wording/intensity of Frieren's refusal;
-- exact healing milestones before awakening.
+## 42.1 Early Contract system seeding — REAL MACRO GAP
 
-## Ori / post-Sukuna S2
-- Ori arrival mechanism and timing;
-- first attachment beats;
-- how Ori interprets attachment as romance;
-- exact conversation where Mau establishes he does not reciprocate romantically;
-- Ori/Frieren independent relationship;
-- when Ori's bond becomes chosen family rather than unresolved romantic pursuit.
+A later Mau/Rimuru Contract is now important to the Sukuna climax.
 
-## Season endpoint / S3 handoff
-- how much first construction happens before S2 closes;
-- which other Otherworlders are shown in parallel before the boundary;
-- whether witches receive direct screen time, indirect signals, or only later setup;
-- exact final image of S2.
+Therefore S2 needs enough earlier Contract establishment that this does not feel like a power invented for the battle.
+
+Still needed at macro level:
+- confirm whether the first post-Bocchi trust pact is an actual supernatural Contract or only a social pact;
+- if not the first, establish where the audience first sees a real Contract;
+- establish the broad rule/cost philosophy;
+- ensure Mau/Rimuru's later non-interference Contract follows already-seen rules.
+
+Exact wording/cost numbers can remain later-layer work.
+
+## 42.2 Predictive dreams vs goddess false binary — REAL LORE GAP
+
+The story currently requires both:
+- genuine predictive dreams that Mau can verify;
+- a later two-branch Sukuna binary that is actually part of a goddess/higher-entity challenge.
+
+The broad coexistence logic still needs to be defined.
+
+Required result:
+- Mau must have rational reason to trust the fatal branches;
+- the goddess challenge must not retroactively make every earlier dream fake;
+- the reveal must not feel like arbitrary divine cheating.
+
+Exact metaphysics can remain partially mysterious, but the internal rule must be coherent.
+
+## 42.3 Sukuna climax mechanics that affect story logic — REAL MACRO GAP
+
+Not every combat detail needs solving now, but several mechanics affect the actual story outcome and therefore cannot be deferred entirely to choreography:
+
+- why/how Heian-body Sukuna has Ten Shadows in Continuum;
+- what the Mau/Sukuna `merging` event actually is;
+- why Sukuna cannot simply detach/escape from Mau during the Red/Blue sequence;
+- the broad cost Sukuna pays to survive/escape after Hollow Purple;
+- enough domain/battle logic that the prepared roles remain plausible.
+
+Exact move-by-move choreography, resource percentages and dialogue belong later.
+
+## 42.4 Post-Sukuna Ori arc — LARGEST REMAINING CHARACTER MACRO GAP
+
+Ori is definitively S2 and post-Sukuna.
+
+The destination is known:
+
+```text
+Ori arrives / attaches to Mau
+→ interprets attachment as possible romance
+→ genuinely tries / explores that feeling
+→ Mau cares deeply but does not reciprocate romantically
+→ Ori is hurt
+→ Mau finally understands/names his own love for Frieren more clearly
+→ Ori learns love does not create entitlement
+→ Mau/Ori become chosen family
+→ Ori forms a real independent bond with Frieren
+```
+
+Still needed at macro level:
+- Ori's arrival mechanism;
+- why she initially attaches specifically to Mau;
+- what makes her interpret it romantically;
+- what event/conversation forces the mismatch into the open;
+- how Frieren participates without turning Ori into a rival caricature;
+- what makes the relationship genuinely settle into family rather than unresolved romantic tension.
+
+This is likely the next major block to solve.
+
+## 42.5 Relocation / future-home decision and S2 endpoint — REAL MACRO GAP
+
+The household has already decided:
+- current inn is temporary;
+- fortify it now;
+- search for something safer;
+- preserve the Witch Hat seed for the future site.
+
+Still needed:
+- what broad qualities make the eventual site the choice;
+- whether the site is chosen before or after Sukuna;
+- how much actual moving/first construction occurs during S2;
+- how Ori fits relative to that movement;
+- what emotional image/condition closes S2 and hands naturally into S3.
+
+Exact geography, floorplans, agriculture math and construction details can wait unless they directly affect the chosen ending.
+
+## 42.6 Optional S2→S3 seeds — PLACEMENT WORK, NOT A BLOCKING GAP
+
+Already-approved possibilities include:
+- Senku hearing the settlement rumor;
+- witches moving into / occupying a forest cabin;
+- other Otherworlders waking or hearing rumors;
+- Eren / Tokyo Ghoul / later groups existing elsewhere;
+- Gojo remaining post-Sukuna minimum.
+
+These do not need full arcs before S2 can be structurally complete.
+
+Once the five gaps above are solved, these can be placed as:
+- interludes;
+- stingers;
+- background panels;
+- LN mini-interludes;
+- or deferred if pacing is better without them.
+
+## 42.7 Recovery is macro-resolved
+
+Recovery no longer counts as a structural gap.
+
+Already established:
+- Sukuna redirects Yuta toward Mau;
+- Yuta begins RCT on the battlefield and continues through the return;
+- Rimuru carries a shattered Frieren;
+- Yuta carries Mau under the blanket;
+- household asks `And Mau?`;
+- exposed-hand reveal;
+- extended uncertain recovery;
+- Yuta works until collapse;
+- Frieren refuses to leave;
+- Fern/Maomao eventually force Frieren to rest;
+- awakening → kiss → Frieren `I love you`;
+- Mau reciprocates without verbally mirroring it;
+- post-revival anger/promise;
+- communal meal / hand-holding.
+
+Remaining recovery decisions are scene/pacing work, not missing macro story.
 
 ---
 

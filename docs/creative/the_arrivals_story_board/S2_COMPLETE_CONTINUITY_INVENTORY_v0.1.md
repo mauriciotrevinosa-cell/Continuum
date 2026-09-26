@@ -593,42 +593,94 @@ These are not filler if they change relationships/world.
 
 ---
 
+
 # 16. Frieren / Himmel / Mau emotional arc before Sukuna — STRONG DIRECTION
 
 ## 16.1 Frieren's starting conflict
 
 Frieren eventually becomes aware that:
-- she has not centered Himmel in her thoughts the way she expects;
 - she is unusually close/affectionate/protective with Mau;
-- she does not yet have clean language for what she feels.
+- Himmel's return forces her to re-examine what Himmel meant to her;
+- she does not yet have clean language for the difference between being deeply loved, deeply loving someone, and consciously wanting a romantic future with someone.
 
-Fern may notice the discrepancy before Frieren fully articulates it.
+Fern may notice parts of the discrepancy before Frieren fully articulates it.
 
-## 16.2 Himmel's arrival
+## 16.2 Himmel reunites with Frieren and asks to talk
 
-Himmel's arrival forces the issue into the open.
+Himmel should not simply arrive and instantly understand/accept the final relationship geometry.
 
 Current direction:
-- he may initially try sincerely with Frieren;
-- Frieren can still love Himmel;
-- loving Himmel does not mean she still wants a romantic future with him;
-- Himmel helped teach her love/value/attachment;
-- those lessons helped make her capable of consciously choosing Mau now.
+- after finding/reuniting with Frieren, Himmel **asks to speak with her**;
+- he sincerely attempts to understand whether there is still a romantic future possible between them;
+- he is allowed to try honestly;
+- he remains generous and dignified rather than possessive;
+- this conversation/reunion is one of the catalysts that makes Frieren's unresolved feelings impossible to keep abstract.
 
-## 16.3 Maki helps Frieren
+Exact dialogue and number of conversations remain open.
 
-Strong creator preference:
-- Frieren begins spending time around / talking with Maki;
-- Maki helps her understand what she is feeling;
-- exact number, wording and setting of conversations remain open;
-- Maki does not need to deliver a magical “you are in love” diagnosis immediately;
-- this can unfold through repeated ordinary conversations.
+## 16.3 Himmel's emotional role vs Mau's romantic role
 
-This should happen while Mau is simultaneously preparing for Sukuna in secret.
+An archived creator-directed clarification already preserved in Git states:
 
-That parallel is valuable:
+> Himmel taught Frieren how to love. Mau is the first person Frieren knows she is in love with.
 
-> Frieren is learning how much she wants a future with Mau while Mau is quietly preparing for the possibility that he will die to preserve hers.
+Current creator refinement may go even further, but is **not yet fully wording-locked**:
+- Frieren may not have loved Himmel in the same consciously romantic sense at all;
+- she can love Himmel profoundly as someone central to her life while only later recognizing that Himmel loved her romantically;
+- the tragedy of her original story is not simply "she was romantically in love and lost him";
+- it is that Frieren once treated human time as almost negligible, left after the adventure as though fifty years were nothing, and only after Himmel's death understood that there was someone she genuinely wanted to know better and no longer had the chance;
+- retracing those places and memories lets her gradually understand Himmel's love and what attachment means.
+
+This interpretation should preserve the source-story emotional core:
+- Himmel is not discarded;
+- Frieren's regret matters;
+- his love teaches her what human attachment costs;
+- that lesson can become part of why she is finally able to recognize and protect a consciously romantic future with Mau.
+
+Do **not** reduce this to "Himmel was merely practice for Mau." The stronger idea is that Himmel permanently changed Frieren's capacity to understand love.
+
+## 16.4 Maki helps Frieren
+
+Strong creator direction:
+- Frieren increasingly spends time around / talks with Maki after Himmel's return destabilizes her;
+- Maki becomes one of the people who helps Frieren separate:
+  - "someone loved me,"
+  - "I loved/cared for that person deeply,"
+  - "I consciously want a romantic future with this person."
+
+A favored Maki idea, exact wording still provisional, is approximately:
+
+> It is okay that someone loved you. That does not automatically mean you loved them in the same romantic way. Maybe someone can enter your life and teach you what love is so that, when the person you truly choose arrives, you do not lose them through the same ignorance.
+
+The **concept** is stronger than the wording. Do not force this sentence verbatim unless it fits Maki's voice.
+
+Maki does not need to diagnose Frieren in one conversation. This can unfold over repeated ordinary interactions.
+
+## 16.5 Parallel irony with Mau
+
+This unfolds while Mau is preparing for Sukuna in secret.
+
+The intended irony is:
+
+> Frieren is learning that she wants Mau in her future while Mau is quietly preparing for the possibility that he will die to preserve hers.
+
+## 16.6 Frieren's detection / danger-reading problem
+
+This was discussed before and must remain visible.
+
+During this emotionally unstable period:
+- Frieren's normally excellent sensing / danger-reading / distance judgment is **not functioning as reliably as usual**;
+- the cause is not that Frieren suddenly becomes incompetent;
+- emotional overload and unresolved feelings disturb a faculty she normally trusts;
+- this should be seeded before the Sukuna climax rather than appearing only when the plot needs it.
+
+During the battle, that pre-existing unreliability combines with:
+- entering a prepared battlefield she was not briefed on;
+- Sukuna's hidden Ten Shadows information;
+- extreme emotional pressure;
+- a tiny timing/spacing window Sukuna reads correctly.
+
+The exact magical/physiological mechanism remains open, but the story function is established.
 
 ---
 
@@ -912,6 +964,7 @@ The battle depends on:
 
 ---
 
+
 # 24. Battle escalation — CURRENT SHAPE
 
 Possible/strong sequence:
@@ -924,14 +977,21 @@ Possible/strong sequence:
 6. Frieren arrives after realizing the others are already fighting;
 7. her arrival changes both tactical and emotional state.
 
-Frieren's later miscalculation should be caused by stacked conditions, not stupidity:
-- emotional overload;
-- incomplete battlefield context;
-- hidden Ten Shadows information;
-- a timing/window Sukuna sees;
-- recent unreliability/misreading of danger information if retained after audit.
+Frieren's later miscalculation is **not** a sudden nerf.
+
+It is the payoff of stacked conditions:
+- her sensing/danger-reading has already been unreliable because of emotional turmoil;
+- she lacks the preparation context the others have;
+- hidden Ten Shadows information distorts the fight;
+- she is emotionally overloaded by discovering Mau and the others hid something enormous;
+- Sukuna sees a spacing/timing window she does not.
+
+The earlier emotional-sensor problem should be shown enough that the audience can later think:
+
+> this was already happening before the fight.
 
 ---
+
 
 # 25. Decisive Frieren moment / Mau sacrifice — STRONG DIRECTION
 
@@ -939,18 +999,30 @@ Near the climax:
 - Frieren sees what she believes is a lethal opening;
 - Sukuna sees the counter-window;
 - Mau/Yuta/Rimuru recognize the situation as matching the dream;
-- Mau looks toward them like a goodbye;
-- Yuta is furious because he understands exactly what Mau is going to do;
+- Mau understands that the moment he feared has arrived;
 - Qifrey's prepared trap buys the necessary fraction of a second;
 - Mau gets between Sukuna and Frieren;
 - Frieren remains physically unharmed;
 - Sukuna's arm/hand goes through Mau's body.
 
+The scene includes a **micro-goodbye** rather than Mau instantly moving from interception to attack.
+
+Current emotional beat:
+- Mau looks at Frieren;
+- tells her approximately:
+  - **`Frieren, everything will be okay.`**
+- he reassures her even though he believes he is dying;
+- approximate deeper truth may remain:
+  - `You are the most precious thing in this world. I couldn't let you get hurt.`
+- exact wording/page count remains open.
+
+This reassurance must later echo through Frieren's refusal to give up during his recovery.
+
 Private/internal wording to Mau only:
 - approximately `merging began` / `merger process beginning`.
 
 Important:
-- Frieren does not hear this;
+- Frieren does not hear the internal system fragment;
 - Rimuru/Raphael do not automatically know The Noise;
 - this remains Mau-private information.
 
@@ -980,13 +1052,14 @@ Himmel's earlier emotional arc is what makes this line land.
 
 ---
 
+
 # 27. Red / Blue / Mahoraga / Hollow Purple climax — STRONG ORDER
 
 Current favored order:
 
 1. Yuta begins extracting Frieren.
-2. Rimuru deploys planned barrier.
-3. Okarun extracts/repositions others as required.
+2. **Rimuru deploys the planned protective barrier** around/for the others and the blast zone.
+3. Okarun executes the planned high-speed extraction/repositioning for anyone still too close.
 4. Mau begins constructing **Blue first**.
 5. Blue is visibly unstable and attached to/consuming one hand.
 6. **Red** forms through/from the other side/hand.
@@ -999,9 +1072,11 @@ Current favored order:
 13. It is too late.
 14. Mahoraga is annihilated.
 15. the wheel falling remains a favored visual.
-16. very short Mau memory of Frieren smiling;
+16. very short Mau memory of Frieren smiling / internal acceptance that at least she is safe;
 17. unstable Hollow Purple completes;
 18. detonation.
+
+The barrier is not decorative. It is one of the planned survival layers that makes the team's preparation matter.
 
 The sequence should have enough pages to breathe.
 
@@ -1047,44 +1122,104 @@ Second Chance exists precisely because he dies.
 
 ---
 
+
 # 30. Goddess / Second Chance — STRONG DIRECTION
 
-While dying/dead:
-- Mau hears approximately `Accepting fate completed`;
-- encounters a clean higher-entity/goddess voice;
-- this is distinct from the fragmented internal system;
-- entity asks essentially why he made the choice;
-- Mau explains Frieren is his first true memory/world and that he accepts the result if she is safe.
+Return briefly to Mau at/after the moment of death.
 
-Second Chance:
-- re-anchors Mau's soul;
-- repairs/stabilizes the body **only enough that recovery becomes possible**;
-- does not fully heal him;
-- Yuta still performs brutal RCT work.
+Mau hears approximately:
 
-Mau does not remember the divine scene afterward.
+> `Accepting fate completed.`
 
-Yuta/Mau initially believe Yuta's RCT is the main explanation.
+Then a **clean new voice** speaks.
+
+Important distinction:
+- this is not the fragmented internal system voice;
+- Mau does not know who/what it is;
+- the goddess/higher entity is not a constant narrator following him around.
+
+The scene should be short and emotionally naked.
+
+Core exchange:
+- entity asks essentially:
+  - `Why did you do that?`
+- Mau is not bargaining;
+- he does not think the answer will save him;
+- he answers honestly.
+
+Core meaning of Mau's answer:
+- Frieren is his first true memory in this world;
+- opening his eyes and seeing her is effectively where his remembered life begins;
+- she became the person/world around which this new life first made sense;
+- he could not accept a future he believed required allowing her to die;
+- if this is the result that guaranteed her safety, he accepts it.
+
+Possible entity response remains approximately:
+- `Interesting.`
+- challenge completion language;
+- **Second Chance granted**.
+
+Exact divine wording remains open.
+
+## Second Chance mechanic
+
+Second Chance remains intentionally limited:
+
+1. Mau truly dies.
+2. The entity re-anchors/returns Mau's soul to the body.
+3. It repairs/stabilizes the body only enough that recovery becomes physically possible.
+4. Yuta still has to do the brutal practical RCT work.
+5. Mau's own system may analyze RCT during that process, creating future growth.
+
+The goddess does **not**:
+- restore Mau instantly to full health;
+- erase the cost;
+- make resurrection normal/repeatable;
+- become a convenient guardian.
+
+Mau does not remember this divine conversation afterward.
+
+Yuta and Mau initially believe Yuta's RCT is the primary explanation for survival.
 
 ---
 
-# 31. Recovery — STRONG DIRECTION
 
-Current working timing:
-- approximately **3 days unconscious**;
-- first **2 days feel hopeless**.
+# 31. Recovery / community refusal to let go — STRONG DIRECTION
+
+The recovery must take **long enough to hurt**.
+
+Earlier material used roughly:
+- ~3 days unconscious;
+- first ~2 days seemingly hopeless.
+
+Those numbers are useful examples, **not a hard clock**. When scripted, choose the duration that lets:
+- Yuta's exhaustion matter;
+- the community move from urgent rescue into frightening uncertainty;
+- people begin wondering whether continuing is helping Mau or only refusing to accept death;
+- Frieren's denial/faith in Mau's promise become emotionally visible.
 
 Frieren:
 - refuses to leave;
-- stops sleeping;
-- Fern + Maomao eventually force/help her rest;
-- Frieren sleeps beside/on Mau holding him.
+- barely sleeps;
+- holds Mau's hand/stays physically near him;
+- Fern + Maomao eventually force/help her rest.
 
 Fern:
 - holds herself together while Frieren cannot;
-- only allows herself to break down/cry after Frieren finally sleeps.
+- only allows herself to collapse/cry after Frieren finally sleeps.
 
-This should breathe.
+A strong candidate beat to preserve:
+- at some point someone, exhausted and grieving rather than cruel, suggests that perhaps they need to **let Mau rest** / stop putting him through more;
+- Frieren finally explodes through tears with the distinction:
+  - **`He is already resting. He will wake up.`**
+- she clings to Mau's pre-sacrifice reassurance:
+  - **`He told me everything would be all right.`**
+
+Exact speaker, timing and wording remain open, but the emotional function is strong:
+- other people are beginning to accept death;
+- Frieren refuses because Mau's last reassurance became the one thing she can still hold onto.
+
+This should breathe. Do not rush from battlefield to awakening.
 
 ---
 
@@ -1139,84 +1274,125 @@ This should permanently affect future Mau behavior and family awareness.
 
 ---
 
+
 # 34. Post-battle return to life — STRONG DIRECTION
 
-There should be an aftermath where ordinary life returns.
+There should be an aftermath where ordinary life visibly returns.
 
-Possible/desired texture:
-- public meal;
-- hand-holding;
-- Yuta/Rimuru notice changes;
-- people recover differently;
-- settlement understands something fundamental changed.
+A strong preserved endpoint beat is a **large communal meal**:
+- people laughing again;
+- some still crying;
+- food and exhausted relief;
+- the household/community visibly alive after believing Mau was gone.
+
+Mau and Frieren sit together **holding hands**.
+
+Their kiss/confession did not need an audience.
+
+Yuta and Rimuru notice the hand-holding:
+- look at each other;
+- laugh/smile because they understand what changed.
+
+The point is not a public romance reveal spectacle. It is a tiny visible sign that life moved forward.
+
+The post-revival promise/argument between Mau and Frieren still matters separately:
+- Frieren is angry about secrecy and unilateral sacrifice, not about being saved.
 
 Sukuna can receive a stinger:
 - he has now lost twice (JJK + Continuum);
 - he does not become good/humble;
 - he “locks in”;
 - starts observing/gathering information;
-- this can seed future antagonist networks without forming a cartoon “evil team.”
+- this can seed future antagonist structures without a cartoon “evil team.”
 
 ---
 
-# 35. City / Season 2 endpoint — CURRENT DIRECTION, EXACT FINAL IMAGE OPEN
 
-Most city-building should **not** consume S2.
+# 35. Post-Sukuna Season 2 is larger than only recovery + moving house
 
-Current shape:
+Earlier planning leaned toward ending S2 soon after recovery / first construction.
+
+Current creator direction is broader:
+
+> **S2 and S3 may deliberately overlap in setup. S2 should plant major later threads rather than pretending a season boundary resets the world.**
+
+S2 post-Sukuna should contain enough genuine life for:
+- Mau/Frieren to exist as a real couple;
+- recovery consequences to settle;
+- settlement/city planning to continue;
+- new Otherworlders to be seen elsewhere;
+- future groups/factions to begin existing before they converge;
+- later witch / anomaly / antagonist material to receive seeds where useful.
+
+Do not interpret “S3 material” as “forbidden to foreshadow or begin in S2.”
+
+## 35.1 City progression
+
+Still favored:
 - pre-Sukuna: fortify current home + scout future site;
-- Sukuna major arc;
-- recovery / life resumes;
-- allow breathing room;
-- roughly a couple weeks later, first serious construction/move toward the future city can begin;
-- most settlement-to-city growth belongs to S3.
+- after Sukuna: recovery and ordinary life;
+- first move / first construction can begin when earned;
+- most large-scale city growth can continue through S3.
 
-Exact S2 final image remains open:
-- departure;
-- arrival at future site;
-- first camp;
-- first construction.
+Exact season-ending image remains open because S2 now contains additional post-Sukuna character material.
 
-Do not lock until whole S2 flow is assembled.
+# 36. Ori is Season 2 — CURRENT CREATOR DIRECTION
 
----
+Ori is **S2, post-Sukuna**.
 
-# 36. Things that are POST-SUKUNA but not automatically S2
+This is no longer merely “post-Sukuna, placement open.”
 
-These should not be accidentally dragged into S2 just because they are developed.
+Reason:
+- the later memory/perception crisis depends on the audience already understanding Ori's relationship with Mau **and** Frieren;
+- Ori's eventual choice to help Mau return to Frieren only pays off if her earlier attachment/romance/family arc has been lived first.
 
-## Ori
-- definitely **post-Sukuna**;
-- exact late-S2 vs S3 placement still technically open;
-- current broader story direction increasingly favors giving substantial happy/recovery/city-building life before her later memory-crisis role.
+Required broad Ori progression before the later memory crisis:
 
-## Gojo
-- post-Sukuna minimum.
+```text
+Ori arrives / becomes attached to Mau
+→ interprets attachment as possible romance
+→ experiments / tries to understand what she feels
+→ Mau cares deeply but does not reciprocate romantically
+→ Ori is genuinely hurt
+→ she learns love does not create entitlement
+→ relationship transforms into chosen family
+→ Ori also develops a real independent bond with Frieren
+```
+
+Exact episode structure and the mechanism of Ori's arrival remain open.
+
+This means S2 needs **substantial post-Sukuna runway** rather than immediately ending after Mau wakes.
+
+# 37. Later arcs seeded in S2, not necessarily completed there
 
 ## Memory / biology crisis
-- much later than Sukuna;
-- should occur only after genuine happiness, relationship stability and settlement progress;
-- currently fits better as S3+ material;
-- do not use it to overcrowd S2.
+- occurs only after real happiness, relationship stability and enough normal life;
+- the full crisis can remain later (likely S3-era), but its prerequisites must exist beforehand;
+- Ori's foundational arc must already be complete enough for her later role to mean something.
 
-## Diablo / witches / G5 mega-haul
-- developed later as S3-ish/future material;
-- not required to close S2;
-- can be seeded only if useful.
+## Gojo
+- post-Sukuna minimum;
+- exact S2-vs-S3 convergence remains open;
+- later he can investigate Mau's anomalous Hollow Purple event.
 
----
+## Otherworlder groups
+S2 can show people elsewhere before main convergence:
+- Senku;
+- Eren;
+- Tokyo Ghoul character(s);
+- other hidden/dispersed Otherworlders.
 
-# 37. Known current G5/future material that should stay OUT of S2 for now
+This seeds migration/scouting/future groups.
 
-Preserve separately:
-- Diablo arrives separated from Rimuru and searches for him;
-- eventually reconnects with Rimuru before meeting physically;
-- later Rimuru asks Diablo to help search;
-- Diablo can generate/bring a large G5 convergence;
-- Shion is liked for G5;
-- Milim can arrive extremely low Synchronization (even ~1%) without being conceptually weak;
-- Synchronization % is reconstruction, not universal power level;
-- witches / memory crisis / Mau biological instability / accidental rescue squad belong later unless future audit deliberately moves them.
+## Witches / Re:Zero / later anomaly material
+- witches do not have to wait for a hard S3 title card to exist;
+- S2 can seed strange presences, world-rule changes, rumors, or parallel movement if useful;
+- their main Mau memory-crisis payoff can still occur later.
+
+## Diablo / G5
+- currently later than the Sukuna core;
+- can be seeded before full convergence;
+- G5 remains a future mega-haul concept rather than a reason to overcrowd pre-Sukuna S2.
 
 ---
 
@@ -1299,6 +1475,7 @@ Macro continuity + micro continuity.
 
 ---
 
+
 # 41. Current macro connectors — NOT EPISODE LOCKS
 
 A current useful S2 flow is:
@@ -1317,13 +1494,15 @@ S1 Sukuna catastrophe
 → reconnaissance / map / search for future home + missing Arrivals
 → G4 members converge over time
 → relationship/life arcs deepen
-   - Himmel/Frieren/Mau
-   - Yuta/Maki/Mau
-   - Frieren/Maki
+   - Himmel reunites with Frieren and asks to talk
+   - Frieren/Himmel/Mau emotional clarification
+   - Frieren increasingly talks with Maki
+   - Yuta/Maki/Mau identity-choice conversation
    - Stark/Frieren/Fern/Himmel
    - Witch Hat family
    - 100 Girlfriends mini-group
-→ Mau's predictive dreams accumulate evidence
+→ Frieren's sensing/danger-reading instability is seeded
+→ Mau's ordinary predictive dreams accumulate evidence
 → two fatal Sukuna branches become recurring
 → Mau tells Yuta/Rimuru
 → they try to reject/avoid the binary
@@ -1336,19 +1515,24 @@ S1 Sukuna catastrophe
    - Himmel
 → ordinary life continues around them
 → Sukuna confrontation
-→ Mau sacrifice / death
-→ Second Chance + Yuta RCT
-→ ~3-day recovery
+→ Mau intercepts Frieren / micro-goodbye: “everything will be okay”
+→ protective barrier / extraction / one-use Hollow Purple
+→ Mau dies
+→ goddess challenge / Second Chance
+→ long enough recovery to make hope genuinely painful
 → Frieren kiss / “I love you”
 → post-revival anger / promise
-→ recovery / ordinary life resumes
-→ first move / first construction toward future settlement
-→ S3 continuation
+→ communal meal; Mau/Frieren hold hands; Yuta/Rimuru notice
+→ substantial post-Sukuna life
+→ Ori arrives and Mau/Frieren/Ori relationship arc develops
+→ first move / construction / wider Otherworlder seeds continue
+→ later arcs already begin casting shadows before S3 fully takes over
 ```
 
 This graph is **structural**, not final episode order.
 
 ---
+
 
 # 42. Real gaps that still need to be solved before S2 can be called structurally complete
 
@@ -1378,11 +1562,13 @@ This graph is **structural**, not final episode order.
 - exact Agott/Qifrey/Coco reunion;
 - how the four 100 Girlfriends members enter.
 
-## Frieren/Maki/Himmel/Mau
-- specific conversations;
+## Frieren / Himmel / Maki / Mau
+- exact first Himmel/Frieren conversation;
+- whether Frieren's feeling for Himmel is ultimately described as non-romantic deep love vs another formulation;
+- exact Maki wording;
 - how many conversations Frieren/Maki need;
-- what Frieren says vs what is shown;
 - exact point Frieren consciously knows she loves Mau;
+- exact progression of Frieren's sensor/danger-reading unreliability;
 - what Himmel sees/understands at each stage;
 - what Mau understands before the battle.
 
@@ -1390,7 +1576,7 @@ This graph is **structural**, not final episode order.
 - exact examples of ordinary predictive dreams;
 - how Mau verifies them;
 - how many are needed before he trusts the phenomenon;
-- whether the ordinary dreams and goddess false binary come from the same visible “channel” to Mau;
+- whether ordinary predictive dreams and the goddess false binary appear through the same subjective channel;
 - exact point Yuta/Rimuru are told.
 
 ## Training/preparation
@@ -1407,15 +1593,29 @@ This graph is **structural**, not final episode order.
 - why Sukuna cannot detach from Mau;
 - exact binding vow / escape cost;
 - how Heian Sukuna retains Ten Shadows;
-- exact domain sequence;
+- exact Domain sequence;
 - exact resource states;
-- exact dialogue;
-- final battle choreography.
+- exact final choreography/dialogue around Mau's goodbye.
 
-## Recovery / ending
-- exact post-revival number of days/weeks before first construction;
-- exact S2 final image;
-- exact degree of Ori/post-Sukuna setup before S3.
+## Recovery
+- exact duration;
+- who, if anyone, is the person who suggests “let him rest”;
+- exact wording/intensity of Frieren's refusal;
+- exact healing milestones before awakening.
+
+## Ori / post-Sukuna S2
+- Ori arrival mechanism and timing;
+- first attachment beats;
+- how Ori interprets attachment as romance;
+- exact conversation where Mau establishes he does not reciprocate romantically;
+- Ori/Frieren independent relationship;
+- when Ori's bond becomes chosen family rather than unresolved romantic pursuit.
+
+## Season endpoint / S3 handoff
+- how much first construction happens before S2 closes;
+- which other Otherworlders are shown in parallel before the boundary;
+- whether witches receive direct screen time, indirect signals, or only later setup;
+- exact final image of S2.
 
 ---
 

@@ -30,15 +30,49 @@ The city should feel collectively made rather than instantly generated.
 
 ---
 
-## 2. Leadership: Rimuru/Tempest-like community feeling without copying Tempest hierarchy
+## 2. Leadership: Mau + Rimuru represent the city without silencing it
 
-The settlement can have clear leaders/coordinators while still making major decisions communally.
+The settlement can have clear leaders while still making major decisions communally.
+
+Current strong direction:
+
+> **Mau and Rimuru gradually become the two primary leaders / public representatives of the settlement.**
+
+Why Rimuru:
+- prior experience organizing a growing community;
+- systems thinking;
+- diplomacy;
+- logistics;
+- ability to translate specialist needs into city-scale decisions.
+
+Why Mau:
+- the household broadly trusts him;
+- people naturally bring problems to him;
+- he has unusually strong relationships across otherwise separate sub-groups;
+- his leadership legitimacy comes primarily from affection, trust and repeated behavior rather than administrative experience.
+
+They complement each other:
+
+```text
+Rimuru = experienced organizer / systems leader
+Mau    = trusted social center / mediator / representative
+```
+
+This does **not** mean they decide everything.
 
 Principle:
 
-> **Leadership coordinates; it does not erase everyone else's voice.**
+> **Leadership coordinates, mediates and represents; it does not erase everyone else's voice.**
 
-The family/community can discuss major questions together:
+Mau/Rimuru can:
+- organize meetings;
+- keep decisions moving;
+- resolve deadlocks;
+- coordinate emergency choices;
+- represent the settlement externally;
+- help translate specialist arguments into decisions the whole community understands.
+
+But major internal questions remain participatory:
 - safety priorities;
 - where important buildings go;
 - resource allocation;
@@ -46,9 +80,11 @@ The family/community can discuss major questions together:
 - external relations;
 - rules that affect everyone.
 
-As population grows, this can gradually evolve into more formal representation/governance, but S3 should still feel close enough that important decisions can visibly involve the people who live there.
+Marin, Wakana, Bocchi, Maki, Qifrey, civilians and everyone else can still disagree, propose alternatives and materially change the outcome.
 
-Roles emerge from contribution rather than arbitrary titles.
+As population grows, this can gradually evolve into more formal representation/governance, but early S3 should still feel like a family/community that has grown large enough to need structure rather than a state bureaucracy appearing overnight.
+
+### Roles emerge from contribution
 
 Examples:
 - **Wakana Gojo:** clothing/textiles/repair/craft; remains present in wider community decisions.
@@ -59,6 +95,68 @@ Examples:
 - other residents similarly develop useful responsibilities without losing political/social agency.
 
 A person's job is not their whole identity.
+
+The long-term feeling can resemble the useful part of Tempest:
+
+> everyone understands who the leaders are, but the city still visibly belongs to the people living in it.
+
+---
+
+## 2.5 Tree / atelier planning scene — STRONG CHARACTER + GOVERNANCE BEAT
+
+One of the first settlement-planning disagreements can center on the preserved Witch Hat seed / future resource tree.
+
+Qifrey's concern is practical:
+- the tree/resource is strategically important;
+- it may eventually support ink/material extraction and magical infrastructure;
+- leaving it fully exposed in a public plaza could advertise a finite critical resource to enemies or outsiders;
+- therefore he argues that it should be planted/protected **inside or directly attached to the atelier complex**, where it can be cared for, monitored and processed safely.
+
+Important:
+
+> protected does **not** mean secret from the settlement.
+
+The people living there can know the tree exists and can visit/see it under normal conditions.
+
+The security distinction is between:
+- community access;
+- and casually displaying a critical magical resource to every stranger/enemy who enters the city.
+
+Exact Witch Hat tree/ink extraction mechanics still require source-lock verification.
+
+### Greed comedy / participation beat
+
+During the planning discussion, Greed sees the unfamiliar seed and immediately becomes fascinated with it.
+
+She does not recognize it and wants it.
+
+This can escalate into a comic childish/greedy tantrum:
+- asks for the seed;
+- is told no;
+- insists;
+- becomes increasingly dramatic because it is rare/unknown and therefore irresistible to her.
+
+Mau is the person who calms her down rather than treating her as a nuisance.
+
+Instead of simply removing Greed from the discussion, Mau finds the productive version of what she wants.
+
+He can argue to Qifrey that Greed may be allowed to **help care for / study / assist with the tree under Qifrey's rules**.
+
+This produces a small governance lesson:
+- Qifrey's safety concern is respected;
+- Greed's interest is not dismissed;
+- Mau mediates;
+- the final arrangement creates a new contribution rather than a winner/loser.
+
+It also helps establish the atelier as more than "Qifrey's private building."
+
+The atelier can become:
+- protected magical infrastructure;
+- a research/craft space;
+- the home of the tree;
+- a place where trusted residents can learn, help and visit.
+
+Exact Greed role, limits and tree access remain open.
 
 ---
 

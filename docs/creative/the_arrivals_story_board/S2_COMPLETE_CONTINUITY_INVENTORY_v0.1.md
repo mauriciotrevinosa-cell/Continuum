@@ -2599,8 +2599,9 @@ Still favored:
 - pre-Sukuna: fortify current home + scout future site;
 - after Sukuna: recovery, ordinary life and continued search;
 - late S2: identify/choose a naturally defensible region with room to grow;
-- first terrain preparation / construction can begin before the season closes;
-- most large-scale city growth continues through S3.
+- **S2 ends before meaningful construction begins**;
+- S3 opens with planning, safety infrastructure and the first deliberate transformation of the chosen site;
+- most settlement/city growth continues through S3.
 
 ### Site concept
 
@@ -2608,6 +2609,7 @@ Current favored geography:
 - substantial fresh water / lake access;
 - mountains or other natural barriers covering a meaningful portion of the perimeter;
 - access toward the sea / an external escape and trade route;
+- a river/lake system, with a **waterfall** as a strong favored feature;
 - enough compact buildable land for a growing settlement without requiring a giant city footprint;
 - defensible fallback / evacuation space for civilians;
 - room for barriers, training, recreation and later expansion.
@@ -2667,6 +2669,94 @@ Better:
 - the main dining/common complex can have limited upper rooms;
 - but potentially hazardous/specialized spaces such as the atelier, heavy workshops, defenses, etc. should remain distinct;
 - the overall settlement should read as a walkable connected neighborhood rather than one apartment block.
+
+### S3 handoff: plan before building
+
+S2 does **not** need to decide exactly where every residence, atelier, library or civic building goes.
+
+The season can end once the group has found and chosen the site.
+
+S3 then begins with the practical question:
+
+> **We found our home. Now how do we make it survive?**
+
+The first build priorities should be deliberately unglamorous / safety-first:
+- protected bunker / civilian refuge;
+- emergency routes and evacuation logic;
+- water and sanitation;
+- food/storage/logistics;
+- barrier/perimeter anchors;
+- access routes and defensible chokepoints.
+
+Only while those essentials are being planned/built do they debate:
+- where the common core goes;
+- where residences go;
+- where the Witch Hat atelier belongs;
+- where the library belongs;
+- how much vertical housing to use;
+- how work, recreation and training areas should connect.
+
+This lets **governance emerge through family-scale deliberation**:
+- the already-established leaders/coordinators still lead;
+- leadership does not mean unilateral city design;
+- specialists argue for what their systems need;
+- residents can object, propose alternatives and influence the plan;
+- decisions become collective enough that the settlement feels owned by the people living there rather than by one ruler.
+
+This can take inspiration from the useful communal/family feeling of Tempest without simply recreating Tempest's hierarchy.
+
+### G5 / Senku becomes materially useful here
+
+This S3 planning phase is a strong landing zone for G5.
+
+Senku does not need full source-level cognition on arrival.
+
+Current older direction already supports:
+- Senku knowing his cognition/capability is below his former level;
+- still being clearly above average;
+- recovering through experimentation and adaptation.
+
+That partial Senku is already valuable.
+
+Example:
+- everyone sees the waterfall as beautiful/protective geography;
+- Senku immediately sees **energy potential**;
+- he can propose using water flow for mechanical power / later electrical generation;
+- he can identify efficiency problems before Rimuru permanently reshapes terrain.
+
+This makes G5 arrival change the settlement plan rather than simply add more residents.
+
+Senku + Maomao is also a strong practical pairing:
+- Maomao contributes medicine, pharmacology, toxins/compounds and empirical observation;
+- Senku contributes experimental process, materials thinking and scalable production;
+- together they can begin turning one-person remedies into more repeatable healthcare systems without instantly industrializing the world.
+
+Other specialists can similarly reshape the plan:
+- Witch Hat group argues for atelier requirements;
+- library/knowledge-focused residents define archives/study space;
+- fighters/scouts define response routes;
+- civilians/noncombatants influence everyday safety and comfort.
+
+### Memory arc interruption
+
+The settlement-building storyline should **not** need to finish before the memory arc begins.
+
+A strong S3 shape is:
+
+```text
+site chosen at end of S2
+→ safety-first planning / bunker / infrastructure
+→ family debates how the settlement should work
+→ G5 arrives and changes/expands the plan
+→ first meaningful construction / systems begin
+→ life starts to stabilize
+→ Mau memory/perception arc interrupts progress
+```
+
+The interruption is useful:
+- the settlement is real enough to matter;
+- unfinished enough that its future still feels vulnerable;
+- Mau's crisis occurs while everyone is literally trying to define what "home" means next.
 
 Emotional principle:
 
@@ -3171,39 +3261,62 @@ Remaining **macro relationship decision**:
 
 That beat is now well seeded but still must be designed.
 
-## 42.5 Relocation / future-home decision — MACRO SHAPE RESOLVED / ENDPOINT IMAGE OPEN
+## 42.5 Relocation / future-home decision and S2 endpoint — MACRO RESOLVED
 
-The future-home concept is no longer a structural gap.
+The future-home decision and season handoff are now structurally resolved.
 
-Resolved direction:
-- current inn remains temporary;
-- group scouts for a naturally protected region;
-- favored site has fresh water, natural barriers/mountains, an external sea/escape/trade route and controlled approaches;
-- literal islands are optional rather than required;
-- Rimuru helps reshape/prepare the terrain and infrastructure;
-- the Witch Hat seed is preserved for this future site;
-- settlement is designed as a compact connected campus/neighborhood rather than either one giant house or fully separated homes;
-- shared kitchen/dining/common spaces remain the social heart;
-- specialist buildings include an atelier, library and later workshops/medical/training/recreation spaces;
-- private residences around the core give couples/families privacy;
-- moderate vertical construction (2–3 levels in some areas) allows density and future growth;
-- civilian refuge / evacuation and layered defenses are designed into the settlement because monster/Otherworlder threats are expected to recur.
+### S2 endpoint
 
-The key emotional answer to "do we still live together?" is:
+S2 does **not** end with a functioning new settlement.
 
-> **yes as one home/community, no as one literal roof.**
+It ends after the group has:
+- searched;
+- compared;
+- and finally **found/chosen the region that can become their long-term home**.
 
-Remaining open macro item:
-- the **exact final image / stopping point of S2**:
-  - discovering the site;
-  - choosing it;
-  - first terrain transformation;
-  - planting/using the preserved seed;
-  - first communal building;
-  - first night/meal in the new home;
-  - or another earned image after the Mau/Frieren relationship beat.
+Favored geography:
+- lake / substantial fresh water;
+- river system;
+- visually meaningful waterfall;
+- surrounding mountains / natural protection;
+- controlled approaches;
+- route/outlet toward the sea;
+- compact buildable zones;
+- enough room for residences, common areas, specialist buildings, recreation/training and later growth;
+- defensible civilian refuge possibilities.
 
-That final image should be chosen only after Sukuna mechanics and the Mau/Frieren pedida are settled, because the strongest ending may combine physical home-building with relationship/family resolution.
+Literal islands remain optional.
+
+The emotional endpoint is:
+
+> **They have finally found where they want their future to be, but they have not built that future yet.**
+
+No requirement to assign every house/building before S2 ends.
+
+### S3 inheritance
+
+S3 begins with:
+- Rimuru/Foundation-style terrain/infrastructure thinking, subject to later source-lock verification;
+- safety-first priorities such as bunker/refuge, evacuation, water, sanitation, storage, access and barriers;
+- collective debate over settlement design;
+- private residences + shared common core;
+- specialist buildings such as Witch Hat atelier and library;
+- G5 arriving while the plan is still flexible.
+
+This is ideal for Senku:
+- partial cognition remains the intended arrival state;
+- waterfall/river geography gives him immediate useful engineering observations;
+- he can influence energy/infrastructure planning before construction becomes fixed;
+- Senku/Maomao can naturally begin a science/medicine collaboration.
+
+Governance grows out of these planning arguments:
+- established leaders coordinate;
+- specialists and residents still meaningfully shape decisions;
+- the settlement remains a family/community project rather than a one-person kingdom.
+
+The S3 city-building thread can then be interrupted by the Mau memory/perception arc after enough progress exists for the new home to matter emotionally.
+
+This supersedes the older specific node that late S2 must include a first camp / first construction.
 
 ## 42.6 Optional S2→S3 seeds — PLACEMENT WORK, NOT A BLOCKING GAP
 

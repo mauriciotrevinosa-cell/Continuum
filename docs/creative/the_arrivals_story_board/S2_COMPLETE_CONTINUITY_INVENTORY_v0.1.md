@@ -299,6 +299,50 @@ The growing household now has to decide:
 - what should remain private;
 - how newcomers earn direct trust.
 
+## 5.1.5 Contracts become visibly real with G3 — MACRO RESOLVED
+
+The earlier post-Bocchi **trust pact / power disclosure** can remain primarily a social agreement among the already-established household.
+
+The audience's first unmistakable proof that **Contracts are supernatural and enforceable** comes when G3 is brought into sensitive household information.
+
+Before the newcomers are allowed to hear material that could endanger the household or expose other people's weaknesses, they enter a limited confidentiality Contract.
+
+Broad validity rule:
+- all participants understand the practical promise they are making;
+- they consent voluntarily;
+- the condition/scope is sufficiently clear;
+- the Contract then enforces the agreed restriction according to its own terms.
+
+Contracts are **contract-specific**, not one universal penalty template.
+
+A Contract may combine:
+- a direct restriction/resistance against the forbidden act;
+- escalating consequences if someone deliberately tries to force past that restriction;
+- other costs or exchange terms depending on what was agreed.
+
+### Okarun demonstrates enforcement
+
+Okarun's curiosity gives the audience the first clean demonstration.
+
+After agreeing to the confidentiality Contract:
+- he wonders whether the restriction is actually real;
+- he first tries to reveal protected information almost as a harmless hypothetical/test;
+- the words simply **will not come out / the Contract stops the disclosure**;
+- curious, he deliberately pushes harder;
+- the Contract retaliates with a sharp, lightning-like pain/shock through him.
+
+The exact visual and severity remain later-layer work.
+
+The important result is that everyone present realizes:
+
+> **this is not ceremonial language. The Contract can actually stop you, and forcing a breach has consequences.**
+
+This establishes the rules long before Mau/Rimuru.
+
+It also prevents the later Sukuna Contract from feeling invented for one dramatic scene.
+
+---
+
 ## 5.2 Important G3 relationship functions
 
 ### Okarun
@@ -1505,7 +1549,24 @@ The Contract should later hurt Rimuru precisely because:
 
 > he agreed freely, for compassionate reasons, and still wishes he had found another answer.
 
-Exact Contract wording/cost/mechanics remain later-layer work.
+The established G3 precedent now governs this Contract.
+
+When the Qifrey trigger marks the predicted fatal moment:
+- the Contract actively resists/prevents Rimuru from directly interfering with Mau's move toward Frieren;
+- Raphael can immediately warn that trying to force a breach will trigger the Contract's penalty;
+- the exact penalty is Contract-specific, but the plausible danger here is severe enough that Rimuru could be incapacitated or otherwise lose the ability to perform the barrier/casualty role at the single worst moment.
+
+Therefore Rimuru does **not** attempt to brute-force the Contract.
+
+This is not because he stops caring about Mau.
+
+It is because breaking it could:
+- fail to save Mau anyway;
+- remove Rimuru from the battlefield;
+- collapse the barrier/casualty plan;
+- put Frieren and everyone else at greater risk.
+
+Exact wording and exact penalty magnitude remain later-layer work, but the enforcement philosophy is now established.
 
 ## 19.7 The "signal" is Qifrey's prepared field trigger — STRONG DIRECTION
 
@@ -2751,19 +2812,34 @@ Many items that were previously listed as “gaps” are now **later-layer work*
 
 The remaining **true macro/story-logic gaps** are:
 
-## 42.1 Early Contract system seeding — REAL MACRO GAP
+## 42.1 Contract system seeding — MACRO RESOLVED
 
-A later Mau/Rimuru Contract is now important to the Sukuna climax.
+This is no longer a structural gap.
 
-Therefore S2 needs enough earlier Contract establishment that this does not feel like a power invented for the battle.
+Established macro rules:
+- Contracts require voluntary consent and practical understanding of the agreed terms;
+- scope/conditions must be sufficiently clear;
+- enforcement is **Contract-specific**;
+- a Contract can directly resist/prevent a prohibited act;
+- deliberately forcing a breach can trigger additional penalties;
+- the penalty is tied to the Contract rather than one universal punishment.
 
-Still needed at macro level:
-- confirm whether the first post-Bocchi trust pact is an actual supernatural Contract or only a social pact;
-- if not the first, establish where the audience first sees a real Contract;
-- establish the broad rule/cost philosophy;
-- ensure Mau/Rimuru's later non-interference Contract follows already-seen rules.
+First supernatural demonstration:
+- G3 enters a limited confidentiality Contract before hearing sensitive protected information;
+- Okarun tests it out of curiosity;
+- his first attempted disclosure is physically blocked;
+- when he deliberately forces harder, he receives a sharp lightning-like punishment;
+- the household learns that Contracts are materially enforceable.
 
-Exact wording/cost numbers can remain later-layer work.
+Later payoff:
+- the Mau/Rimuru Contract uses the same already-established logic;
+- at the decisive Sukuna moment, the Contract prevents direct interference;
+- Raphael warns that forcing a breach may incapacitate Rimuru and endanger the entire barrier/extraction plan;
+- Rimuru obeys because violating it could make the outcome worse, not because his concern for Mau disappears.
+
+The earlier post-Bocchi trust pact does **not** need to be retroactively supernatural; it can remain the social precursor that later motivates formal Contracts with newer arrivals.
+
+Exact legalistic wording, visual effect and penalty magnitude belong to scene/system-detail work.
 
 ## 42.2 Predictive dreams vs goddess false binary — REAL LORE GAP
 

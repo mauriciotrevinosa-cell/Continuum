@@ -1327,194 +1327,336 @@ This supersedes any older implication that Frieren was fully briefed before the 
 ## 19.1 Mau is already emotionally closed when he tells them
 
 By the time Mau goes to Yuta and Rimuru:
-- the ordinary predictive dreams have already given him enough evidence that the phenomenon is real;
-- the two Sukuna branches have repeated enough that he no longer treats them as symbolic possibilities;
-- from Mau's perspective, the situation has collapsed into a binary:
+- ordinary predictive dreams have already proved credible to him;
+- the two Sukuna branches have repeated;
+- he no longer treats them as symbolic possibilities;
+- from Mau's perspective the situation has collapsed into:
   - do not intervene → Frieren dies;
   - intervene → Frieren survives and Mau dies.
 
-Mau is no longer approaching the conversation with:
+Mau's fixed point is:
 
-> `Maybe there is another way.`
+> **Frieren is not dying.**
 
-His position is closer to:
+He does not want to die.
 
-> **`Frieren is not dying. Whatever that costs me is secondary.`**
-
-This does **not** mean Mau wants to die.
-
-It means the dreams have made him psychologically close around one absolute:
-
-> **he will not gamble Frieren's life on the hope that the visions are wrong.**
-
-That rigidity is important.
-
-The crisis is not only Sukuna.
-
-The crisis is that Yuta and Rimuru are now dealing with someone they love who believes he has already been shown the only two outcomes and has already chosen which loss he can accept.
+He simply refuses to gamble Frieren's life on the hope that this is the first dream pattern to be wrong.
 
 ## 19.2 Why he tells Yuta and Rimuru
 
-Mau tells them because:
-- Yuta knows Sukuna;
-- Rimuru/Raphael can analyze impossible systems and survival problems;
-- Mau knows he cannot handle something of this scale entirely alone.
+Mau tells:
+- **Yuta**, because he knows Sukuna and the Shinjuku battle;
+- **Rimuru/Raphael**, because they can analyze systems, coordination and survival options.
 
-But disclosure does **not** equal openness.
+Mau is willing to discuss tactics.
 
-Mau may give them the facts while remaining emotionally shut down about the conclusion.
+He is **not** meaningfully open to debating the fallback:
 
-He is willing to discuss:
-- Sukuna;
-- tactics;
-- timing;
-- what the dreams showed.
+> if the moment shown in the dream happens, he will intervene.
 
-He is much less willing to discuss:
-- whether Frieren's death is an acceptable risk;
-- whether he should stand down if the fatal moment arrives.
+## 19.3 Yuta-memory reconstruction / Shinjuku review — STRONG DIRECTION
 
-On that point, he has effectively already decided.
+A major preparation beat is the trio entering/reconstructing **Yuta's memories of the Shinjuku fight**.
 
-## 19.3 Yuta and Rimuru reject Mau's binary
+Exact mechanism remains open:
+- Rimuru/Raphael mental-link reconstruction;
+- memory sharing;
+- another Continuum-compatible method.
 
-Yuta and Rimuru do **not** accept Mau's conclusion.
+Do not finalize the mechanics yet.
 
-Their first response is to attack the premise:
-- avoid Sukuna;
-- change the conditions;
-- keep Frieren away;
-- move people;
-- intercept earlier;
-- find another variable;
-- prove the dreams are incomplete;
-- create a third outcome.
+Story function:
+- Yuta can show, not merely describe, what Sukuna is capable of;
+- Mau and Rimuru can study the battle from inside Yuta's remembered experience;
+- this gives Mau access to the **functional idea / requirements behind Hollow Purple** without Yuta intentionally teaching Mau the technique.
 
-Mau may cooperate tactically with prevention attempts, but emotionally he remains closed:
+During this memory review:
+- Yuta is focused on Sukuna;
+- Rimuru is focused on survivability, battlefield structure and barriers;
+- Mau quietly hears/sees enough about Red + Blue + Hollow Purple for **Construction** to begin working internally.
 
-> if every plan fails and Frieren is about to die, he will intervene.
+Mau does **not** announce this.
 
-This is where the real conflict among the trio lives.
+This is the seed of his private last-resort weapon.
 
-## 19.4 The key realization
+## 19.4 The third option belongs primarily to Yuta and Rimuru
 
-Yuta and Rimuru eventually understand:
+Yuta and Rimuru reject Mau's binary.
 
-- they may not be able to convince Mau to value his own survival above Frieren's;
-- forbidding him from participating does not guarantee obedience;
-- hiding information from him may make him more dangerous, not less;
-- if the decisive moment arrives, Mau will act regardless of whether they approve.
+Their response is not:
 
-The frightening truth is:
+> `Fine, sacrifice yourself.`
 
-> **Mau is not asking permission.**
+It is:
 
-He has told them because he trusts them enough to know the truth, not because he is undecided about Frieren.
+> **`If you have already decided Frieren survives, then we will force a third result where you survive too.`**
 
-## 19.5 The third option belongs primarily to Yuta and Rimuru
+They first consider preventing the entire event.
 
-This changes the emotional center of the preparation arc.
+But the time available is extremely short.
 
-Mau's internal plan is still fundamentally:
+## 19.5 The clock is DAYS, not months
 
-> `If it comes down to her or me, I choose her.`
+Once the fatal Sukuna dreams become concrete enough to act on, the preparation window is roughly:
 
-Yuta and Rimuru's answer is:
+> **days — approximately a week at most.**
 
-> **`Then our job is to make sure it never actually becomes only her or you.`**
+This should feel like a race against time.
 
-They stay beside Mau not because they endorse his sacrifice, but because abandoning him would only leave him alone with the same decision.
+Therefore there is no broad multi-skill training program.
 
-Their goal becomes:
-- stop the dream scenario before it happens;
-- if it happens, disrupt it;
-- if Mau intervenes anyway, keep him alive;
-- force reality into a third branch Mau himself no longer believes is possible.
+Each person chooses **one job** that could matter and focuses almost entirely on making that one thing viable.
 
-This makes the eventual battle much more painful:
+This constraint is important because it prevents implausible power growth before Sukuna.
 
-> the entire preparation plan is Yuta and Rimuru refusing to accept the ending Mau has already accepted.
+## 19.6 Mau / Rimuru Contract — STRONG, DARK DIRECTION
 
-## 19.6 Disclosure setting
+Mau knows Rimuru's instinct will be to interfere if the fatal dream moment arrives.
 
-Existing seed:
-- Mau may convince Yuta/Rimuru to join an expedition/interception;
-- after they are far enough from the settlement/Frieren, he tells them.
+Mau therefore asks/pressures Rimuru into a **Contract** tied to the signal Mau will give if that moment occurs.
 
-Exact geography/timing remains open.
+Current intended effect:
 
-The essential rule is:
-- Frieren does not know the real Sukuna/sacrifice plan beforehand.
+> when Mau gives the agreed signal, Rimuru must **not attempt to stop Mau's intervention**.
+
+Instead Rimuru's required action is:
+- deploy the prepared protective barrier;
+- protect/minimize casualties;
+- enable the extraction plan;
+- do not gamble Frieren's life by physically interrupting Mau.
+
+This should be emotionally ugly.
+
+Mau is effectively removing one of Rimuru's choices because he believes Rimuru might otherwise try to save him at the cost of the branch where Frieren lives.
+
+Important open point:
+- exact Contract mechanics;
+- exact degree of formal consent;
+- whether Mau makes Rimuru's participation conditional on accepting it vs another mechanism.
+
+Do **not** silently turn this into magical mind control without later deciding that explicitly.
+
+The emotional truth is locked more strongly than the mechanics:
+
+> Rimuru hates this condition and later has to live with having obeyed it.
+
+## 19.7 The signal
+
+Mau gives Rimuru a simple contingency:
+
+> if the dream moment occurs and Mau gives the signal, execute the plan immediately.
+
+The signal triggers the prepared roles:
+- **Rimuru:** barrier / casualty containment;
+- **Yuta:** go for Frieren immediately;
+- **Okarun:** execute the speed extraction role assigned to him;
+- the rest of the prepared field proceeds as designed.
+
+Exact signal/word/gesture remains open.
+
+Frieren and the wider household do not know what it means.
 
 ---
 
-# 20. Secret preparation / training arc — MAJOR S2 BLOCK
+# 20. Race-against-time preparation — MAJOR S2 BLOCK
 
-This should be treated as an actual relationship/training arc, not merely a montage.
+This is **not** a conventional training arc.
 
-The community continues living normally while a smaller group prepares for something monstrous.
+It is a short, desperate specialization block running in parallel with ordinary household life.
 
-This contrast is intentional.
+Most of the household does **not** know what is happening.
 
-## 20.1 Mau / Yuta / Rimuru core
+## 20.1 Yuta — Hail Mary: RCT
 
-### Yuta
-- knows Sukuna best;
-- explains known habits;
-- pushes current limits;
-- regains/expands access to RCT;
-- works on domain/counter-domain possibilities;
-- becomes increasingly aware that Mau will not back away from the sacrifice branch.
+Yuta chooses **RCT** as his primary preparation target.
 
-### Rimuru / Raphael
-- analysis;
-- survival planning;
-- mental-link communication;
-- barrier logic;
-- battlefield coordination;
-- helps search for a third option.
+His logic is personal and concrete:
 
-### Mau
-- is tactically cooperative but emotionally rigid about the binary;
-- studies requirements;
-- trains/constructs;
-- hides the full danger of his one-use Hollow Purple analogue;
-- continues ordinary life with Frieren while internally believing he may already know how his story ends.
+- in his JJK memory, he has precedent for killing Yuji and restoring him immediately with RCT;
+- therefore, if Mau reaches the branch where he is fatally wounded/killed, Yuta believes there may be a narrow path to reproduce that kind of immediate reversal.
 
-The trio should build exceptional trust here, but that trust is strained by one unresolved fact:
+For Yuta, this becomes the practical third option:
 
-> Yuta and Rimuru are trying to save Mau too; Mau is not willing to risk Frieren in order to make that possible.
+> **Mau may be convinced he dies. Yuta prepares to refuse that death after it happens.**
 
-## 20.2 Okarun
-- brought into preparation because speed/repositioning can save people;
-- planned extraction role;
-- not stronger than Sukuna, but can matter in tiny movement windows.
+Source-specific details of the Yuji precedent should be verified during later source-lock work; the macro function is current.
 
-## 20.3 Qifrey
-- prepares traps / delayed field mechanisms;
-- his role is to buy fractions of seconds, not overpower Sukuna.
+Yuta also continues:
+- Sukuna analysis;
+- tactical pattern review;
+- CE combat practice with Mau.
 
-## 20.4 Himmel
-- frontline/protection;
-- must have enough pre-fight relationship time that his presence matters emotionally.
+## 20.2 Mau + Yuta — CE training secretly satisfies Hollow Purple requirements
 
-## 20.5 Frieren during this period
+Mau trains with Yuta ostensibly to:
+- improve cursed-energy control;
+- survive longer against Sukuna;
+- become less tactically useless in a high-level JJK fight.
 
-Frieren lives normal life with Mau and is **not told the truth**.
+Yuta believes he is helping Mau improve fundamentals.
 
-Parallel emotional irony:
-- Frieren is getting closer to understanding/accepting that she loves Mau;
-- Mau is preparing for the possibility that he dies for her.
+Without Yuta realizing it, the training also gives Construction more of the requirements/data Mau needs for the one-use Hollow Purple analogue.
 
-She may notice:
-- fatigue;
-- strange training;
-- disappearances;
-- tension.
+This is important:
 
-But she should not know the real plan.
+> **Yuta is accidentally helping Mau build the weapon that Mau intends to use if the fatal branch arrives.**
 
-Exactly how much she suspects remains open.
+Mau keeps this hidden.
+
+## 20.3 Rimuru — barrier specialization / minimize casualties
+
+Rimuru chooses one priority:
+
+> **make the catastrophic end survivable for everyone around Mau.**
+
+Rimuru/Raphael therefore focus on:
+- acquiring/constructing a viable barrier ability;
+- understanding blast containment;
+- protecting the battlefield perimeter;
+- coordination at the exact signal;
+- minimizing casualties even if Mau refuses to let Rimuru physically save him.
+
+Rimuru does not like Mau's logic.
+
+The barrier is Rimuru's answer to being prevented from interfering directly.
+
+## 20.4 Okarun — one all-out rescue burst
+
+Okarun does not spend the week becoming broadly stronger than Sukuna.
+
+He focuses on one achievable requirement:
+
+> **produce one all-out burst of speed at the moment the plan needs it.**
+
+Current intended rescue focus:
+- extract/reposition **Rimuru** once Rimuru has fulfilled the barrier role / is in danger from the blast sequence;
+- retain flexibility for another emergency extraction if later choreography requires it.
+
+Exact mechanics and limits remain open.
+
+The point is specialization, not a global power-up.
+
+## 20.5 Qifrey / Coco / Rimuru — seed + field preparation
+
+The preparation period intersects naturally with the Witch Hat resource thread.
+
+Current strong sequence:
+1. the group approaches Qifrey because they need field-control options;
+2. Rimuru/Raphael analyze Qifrey's remaining Witch Hat material / tree-derived resource;
+3. this leads to the **creation of the seed** previously discussed;
+4. they decide **not to plant it yet** because the household already expects to relocate;
+5. the seed is preserved for the future settlement;
+6. Qifrey instead commits a meaningful portion of his remaining usable magic resources/ink to preparing the Sukuna interception field.
+
+This prevents the tree/seed subplot from feeling detached from the main S2 story.
+
+Exact Witch Hat source mechanics must still be verified before final lock.
+
+## 20.6 Qifrey — prepared symbols, not raw combat power
+
+Qifrey's job is:
+- study the intended interception terrain;
+- pre-place symbols / delayed mechanisms / traps;
+- create tiny timing advantages;
+- spend finite resources carefully.
+
+He is not expected to overpower Sukuna.
+
+His contribution is measured in:
+
+> fractions of a second.
+
+That can still become decisive.
+
+## 20.7 Mau knows enough timing to choose the battlefield
+
+The fatal dreams give Mau enough confidence about **when Sukuna is coming** that the group can prepare an interception rather than wait for Sukuna to reach the inn.
+
+Exact predictive timing cue remains open.
+
+Macro rule:
+
+> Mau knows the window well enough to prepare the field, not necessarily an exact clock timestamp.
+
+This lets the group move the battle away from the household and civilian cast.
+
+## 20.8 Sukuna begins moving toward Yuta — STRONG CONNECTOR INTO BATTLE
+
+Sukuna's own decision supplies the external causal trigger.
+
+He already sensed Yuta earlier.
+
+As he evaluates the new world, Sukuna concludes that Yuta is the most immediately relevant known threat because:
+- he has fought/observed Yuta before;
+- Yuta knows Sukuna's patterns, techniques and tricks;
+- a knowledgeable enemy is more dangerous than an unknown weak opponent;
+- Sukuna would rather remove that variable proactively.
+
+Therefore Sukuna begins moving toward Yuta / the region where he expects to find him.
+
+Mau's dreams reveal enough of that convergence for the protagonists to act first.
+
+This creates the battle connector:
+
+```text
+Sukuna chooses Yuta
+→ Mau knows the short window
+→ protagonists choose the interception ground
+→ Qifrey prepares it
+→ each specialist finishes one narrow role
+→ they meet Sukuna before he reaches the household
+```
+
+Exact method by which Sukuna tracks Yuta remains open.
+
+## 20.9 Everyone else is largely in the dark
+
+The wider cast should not receive a full war briefing.
+
+Most people see only fragments:
+- Yuta training unusually hard;
+- Mau training CE;
+- Rimuru testing barrier-like behavior;
+- Qifrey doing field work;
+- Okarun pushing speed;
+- odd absences / scouting.
+
+This preserves the later emotional damage.
+
+They are living ordinary life while, only a short distance away socially and emotionally, a tiny group is preparing for a battle they believe may kill Mau.
+
+## 20.10 Hueco 4 macro status — RESOLVED
+
+Current chain:
+
+```text
+fatal dreams become credible
+→ Mau tells Yuta/Rimuru while already closed around “Frieren survives”
+→ trio reviews Yuta's Shinjuku memories
+→ Mau secretly receives Hollow Purple requirements through Construction
+→ Yuta/Rimuru reject Mau's binary
+→ preparation window reveals itself as days / ~one week max
+→ each participant chooses one narrow job
+→ Mau binds/pressures Rimuru through a non-interference Contract contingency
+→ Yuta focuses on RCT as the post-death Hail Mary
+→ Rimuru focuses on barrier/casualty containment
+→ Mau trains CE with Yuta while secretly finishing Hollow Purple requirements
+→ Okarun trains one all-out rescue burst
+→ Qifrey/Rimuru create the future seed, preserve it for relocation
+→ Qifrey spends finite resources preparing the interception field
+→ Sukuna independently begins moving toward Yuta
+→ Mau knows the timing window
+→ protagonists intercept Sukuna away from the inn
+```
+
+Remaining details belong to later layers:
+- exact memory-sharing mechanism;
+- exact Contract mechanics/wording;
+- exact dream timing cue;
+- exact training scenes;
+- exact field geography;
+- exact JJK/Witch Hat source mechanics;
+- exact participant knowledge boundaries.
 
 ---
 
@@ -1524,18 +1666,30 @@ Mau does **not** learn Limitless as a permanent skill.
 
 He does not “copy Gojo.”
 
-Through Yuta's explanation / functional understanding:
-- Mau identifies requirements;
-- his system assembles a **one-use unstable analogue**;
+Current acquisition path:
+1. Mau/Yuta/Rimuru enter/reconstruct Yuta's memories of Shinjuku.
+2. Mau encounters the functional idea of Red + Blue + Hollow Purple inside that memory.
+3. Construction begins analyzing the requirements privately.
+4. Mau's later CE training with Yuta unknowingly supplies additional requirements/control data.
+5. Mau assembles a **one-use unstable analogue** as a hidden last resort.
+
+Yuta does **not** intentionally teach Mau Hollow Purple.
+
+Rimuru does **not** necessarily know Mau has completed this path.
+
+Mau deliberately keeps the weapon's true danger from them.
+
+Guardrails:
 - control is uncertain;
 - it may collapse;
 - it may detonate at point-blank range;
-- Mau keeps the full danger from others.
+- it is not a permanent unlock;
+- Mau does not become a Limitless user;
+- even after using it, Mau does not fully understand every mechanism involved.
 
-Afterward:
-- Hollow Purple is not a permanent Mau ability;
-- Mau himself does not fully understand what happened;
-- he does not suddenly become a Limitless user.
+This secrecy creates a painful asymmetry:
+
+> Yuta is training to bring Mau back from death while unknowingly helping Mau build the attack most likely to ensure that death occurs.
 
 ---
 
@@ -1546,6 +1700,13 @@ Current Sukuna:
 - not possessing Megumi;
 - currently expected to have Ten Shadows despite that;
 - exact Continuum explanation remains open.
+
+Pre-battle causal direction:
+- Sukuna has already sensed Yuta in Continuum;
+- after orienting himself, he decides Yuta is the known variable worth eliminating first;
+- he knows Yuta has prior knowledge of his techniques/tricks and therefore treats that information advantage as dangerous;
+- Sukuna begins moving toward Yuta rather than randomly stumbling onto the settlement;
+- Mau's dreams provide enough timing information for the heroes to intercept him on prepared ground before he reaches the household.
 
 Sukuna should feel like the first enemy who proves some Arrivals cannot simply be integrated into ordinary life.
 
@@ -1567,24 +1728,28 @@ The battle depends on:
 - Sukuna knowledge;
 - pattern recognition;
 - domain/counterplay;
-- RCT emergency path;
+- **RCT Hail Mary specifically prepared to recover Mau**;
+- primary responsibility for getting Frieren out at Mau's signal;
 - recognizes Mahoraga/Ten Shadows implications.
 
 ## Rimuru / Raphael
 - battlefield analysis;
 - mental communication;
-- barrier;
+- **prepared protective barrier / casualty containment**;
+- constrained by the Mau Contract contingency if the signal occurs;
 - detects unusual shadow activity;
 - coordination when normal communication fails.
 
 ## Okarun
 - fastest rescue/repositioning;
 - short-window speed can exceed Sukuna's movement without implying superior overall power;
-- extraction role.
+- has specifically trained for **one all-out rescue burst**;
+- current intended priority is extracting/repositioning Rimuru after the barrier commitment, with exact emergency flexibility left open.
 
 ## Qifrey
 - pre-set control;
-- traps;
+- traps / symbols already embedded into the chosen interception field;
+- spends finite Witch Hat resources knowing the future seed is being preserved for relocation;
 - one small mechanism may become decisive by buying a fraction of a second.
 
 ## Himmel
@@ -1697,24 +1862,26 @@ Himmel's earlier emotional arc is what makes this line land.
 
 Current favored order:
 
-1. Yuta begins extracting Frieren.
-2. **Rimuru deploys the planned protective barrier** around/for the others and the blast zone.
-3. Okarun executes the planned high-speed extraction/repositioning for anyone still too close.
-4. Mau begins constructing **Blue first**.
-5. Blue is visibly unstable and attached to/consuming one hand.
-6. **Red** forms through/from the other side/hand.
-7. Sukuna recovers enough to understand the danger.
-8. He tries to detach/escape.
-9. He discovers he cannot simply separate from Mau.
-10. Exact reason remains open.
-11. Sukuna invokes Mahoraga.
-12. Mahoraga physically attempts to separate/interfere with Red/Blue.
-13. It is too late.
-14. Mahoraga is annihilated.
-15. the wheel falling remains a favored visual.
-16. very short Mau memory of Frieren smiling / internal acceptance that at least she is safe;
-17. unstable Hollow Purple completes;
-18. detonation.
+1. the fatal dream moment is recognized;
+2. Mau gives the **pre-agreed signal**;
+3. under the Contract contingency, Rimuru does not interfere with Mau and instead deploys the planned protective barrier / casualty containment;
+4. Yuta immediately commits to extracting Frieren;
+5. Okarun executes his prepared all-out extraction/repositioning burst, with Rimuru as the current intended priority once the barrier role is committed.
+6. Mau begins constructing **Blue first**.
+7. Blue is visibly unstable and attached to/consuming one hand.
+8. **Red** forms through/from the other side/hand.
+9. Sukuna recovers enough to understand the danger.
+10. He tries to detach/escape.
+11. He discovers he cannot simply separate from Mau.
+12. Exact reason remains open.
+13. Sukuna invokes Mahoraga.
+14. Mahoraga physically attempts to separate/interfere with Red/Blue.
+15. It is too late.
+16. Mahoraga is annihilated.
+17. the wheel falling remains a favored visual.
+18. very short Mau memory of Frieren smiling / internal acceptance that at least she is safe;
+19. unstable Hollow Purple completes;
+20. detonation.
 
 The barrier is not decorative. It is one of the planned survival layers that makes the team's preparation matter.
 
@@ -2304,13 +2471,16 @@ This graph is **structural**, not final episode order.
 - exact point Yuta/Rimuru are told.
 
 ## Training/preparation
-- length;
-- locations;
+- exact number of days inside the ~one-week maximum window;
+- exact memory-sharing/reconstruction mechanism for Shinjuku;
+- exact Contract mechanics between Mau and Rimuru;
 - exact training scenes;
 - how the group hides preparation from Frieren/others;
 - which characters suspect something;
-- what Yuta teaches about Gojo/Hollow Purple;
-- what Mau tests before battle without revealing the final weapon.
+- exact CE requirements Construction derives for the one-use Hollow Purple analogue;
+- exact Okarun burst limit;
+- exact barrier mechanics;
+- exact Qifrey field-resource cost.
 
 ## Sukuna battle mechanics
 - exact merging mechanism;

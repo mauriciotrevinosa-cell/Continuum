@@ -2632,13 +2632,14 @@ Ori arrives / becomes attached to Mau
 → Ori learns that love does not create entitlement to reciprocation
 → Mau/Ori settle into genuine chosen family
 → Ori develops a real bond with Frieren independent of Mau
-→ the arc culminates in the previously developed Mau/Frieren relationship-request / "pedida" beat
+→ Mau reaches enough emotional clarity to consciously understand that he loves Frieren romantically
+→ **the exact Mau/Frieren "pedida" / relationship-formalization beat remains OPEN and still needs to be designed**
 ```
 
 Important:
-- do not rewrite the exact previously developed "pedida" from scratch during macro planning;
-- its precise wording/staging should be restored during the episode/script pass from the earlier creative version if recoverable;
-- the macro function is already established: Ori's arc produces clarity in Mau and leads into Mau consciously acting on what he now understands about Frieren.
+- there is **no finalized pedida yet**;
+- do not treat earlier loose discussion as a locked scene;
+- Ori's arc resolves Mau's internal clarity, but the next step — what Mau actually asks Frieren, when he asks it, and what relationship milestone it creates — remains a real open story decision.
 
 Guardrails:
 - Ori is not villainized for developing romantic feelings;
@@ -2933,7 +2934,7 @@ Not every combat detail needs solving now, but several mechanics affect the actu
 
 Exact move-by-move choreography, resource percentages and dialogue belong later.
 
-## 42.4 Post-Sukuna Ori arc — MACRO RESOLVED
+## 42.4 Post-Sukuna Ori arc — MACRO MOSTLY RESOLVED / PEDIDA OPEN
 
 This is no longer a structural gap.
 
@@ -2953,17 +2954,20 @@ Resolved emotional progression:
 - Ori's acceptance that love is not entitlement;
 - chosen-family resolution;
 - independent Ori/Frieren bond;
-- culmination into the already-developed Mau/Frieren "pedida" / relationship-formalization beat.
+- Mau reaches conscious clarity about loving Frieren romantically;
+- **the exact Mau/Frieren pedida / relationship-formalization beat remains unresolved.**
 
-What remains belongs to episode/script work:
+What remains:
 - exact dreams;
 - exact search;
 - exact attempts Ori makes;
 - exact conversation wording;
-- exact staging of the resolution;
-- exact wording/staging of Mau's request to Frieren.
+- exact staging of the Ori resolution;
+- **the Mau/Frieren pedida itself: what Mau asks for, what emotional realization drives it, when it happens, and what new relationship status it creates.**
 
-Do not treat those execution details as missing macro story.
+The first five can mostly wait for episode/script work.
+
+The pedida is **not** mere execution detail; it is still an open relationship-story beat and should be solved before S2 is called fully macro-complete.
 
 ## 42.5 Relocation / future-home decision and S2 endpoint — REAL MACRO GAP
 

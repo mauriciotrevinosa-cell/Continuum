@@ -1,6 +1,6 @@
 # The Arrivals — Memory Crisis Rescue Trio v0.1
 
-**Status:** STRONG DIRECTION / THIRD RESCUER OPEN  
+**Status:** STRONG DIRECTION / RESCUE TRIO SHAPE RESOLVED  
 **Date:** 2026-09-26
 
 This document addresses the external rescue during Mau's later memory/system crisis. It is not the Sukuna rescue.
@@ -30,11 +30,14 @@ Strong current direction:
 
 1. **Rem**
 2. **Ken Kaneki**
-3. **one additional character selected primarily for tracking/detection/extraction utility**
+3. **Aira Shiratori**
 
 The trio should not feel like three interchangeable fighters.
 
-Each should solve a different part of the problem.
+Each solves a different part of the problem:
+- Rem helps read/locate the unstable supernatural signal;
+- Kaneki recognizes the ghoul-like biological logic and protects Mau from being misread as a monster;
+- Aira provides active containment/mobility/extraction once they know Mau must be recovered rather than fought.
 
 ---
 
@@ -82,35 +85,51 @@ Exact Tokyo Ghoul biology transferred through Construction remains later source/
 
 ---
 
-## 5. Third rescuer — function before identity
+## 5. Aira Shiratori — third rescuer / recurring-character payoff
 
-Do **not** choose the third person solely because they are another fan-favorite.
+Aira is the favored third external rescuer.
 
-The third rescuer should close a capability gap left by Rem + Kaneki.
+Story function:
+- react quickly once Rem/Kaneki establish that Mau is still a person in crisis;
+- use Acrobatic Silky-derived mobility/hair techniques for restraint, reach and extraction;
+- help recover Mau without requiring the rescue to become another brute-force fight.
 
-Preferred functions, in order:
+The important emotional beat is that Kaneki can help shift Aira's interpretation from:
 
-### A. Long-range magical / signature tracking
+> `dangerous monster`
 
-A character who can:
-- detect mana/anomalous energy at range;
-- notice Mau's signature changing rather than disappearing;
-- triangulate where the crisis is happening;
-- guide Rem/Kaneki through a dangerous or distorted area.
+to:
 
-### B. Extraction / mobility
+> **`person whose body is out of control`**
 
-If Rem's final source snapshot already gives enough useful mana sensitivity, the third person may be more valuable as:
-- high-speed extraction;
-- teleportation/spatial movement;
-- flight;
-- barrier/navigation support.
+Aira then redirects her self-appointed "hero/savior" instinct toward getting Mau and Ori home safely.
 
-### C. Stabilization
+### Aira's longer-term role
 
-Another option is someone who cannot solve the crisis but can keep Mau alive / contained long enough to return him to Rimuru/Raphael and the wider household.
+This rescue can be one of Aira's first major flower moments in Continuum without forcing her into permanent core-cast status.
 
-The final choice should avoid duplicating Kaneki's ghoul-specific role.
+Favored long-term visibility:
+- **recurring supporting character**;
+- can become arc-important when her abilities/personality fit;
+- remains active in slice-of-life/social scenes between major arcs;
+- her strong ego and "heroine/savior" self-image can become a recurring comedy engine;
+- she can naturally mix with Momo/Okarun and the broader city rather than existing only for this rescue.
+
+### Momo / Okarun / Aira romance guardrail
+
+Do not rebuild Aira's entire function around pursuing Okarun.
+
+For The Arrivals, favor an arrival/development state where:
+- Aira understands that Okarun loves Momo;
+- she does not try to break them apart as an ongoing romantic objective;
+- the three can retain teasing, rivalry, embarrassment and old-history comedy;
+- Aira is allowed to emotionally move forward.
+
+This is a **project-canon relationship direction**, not a claim that all current Dandadan source material has already erased Aira's feelings.
+
+Aira can eventually receive a different romance if story chemistry earns one.
+
+Jiji or another future character can remain a possibility, but **do not preassign Aira's future partner now**.
 
 ---
 
@@ -126,7 +145,7 @@ Instead:
 Ori       = emotional constant already beside him
 Rem       = mana/miasma/person-intent clue
 Kaneki    = biological/kagune clue
-Third     = tracking/extraction/stabilization gap
+Aira      = containment/mobility/extraction
 → combined evidence lets them find and recover Mau
 ```
 
@@ -150,8 +169,7 @@ Exact version-specific abilities must still be checked against the final source 
 
 ## 8. Still open before memory arc is fully macro-closed
 
-- identity of the third external rescuer;
-- exact reason that trio is in the relevant region;
+- exact reason Rem/Kaneki/Aira are in the relevant region;
 - exact signal each notices first;
 - exact beast/anomaly interaction at the rescue;
 - exact point where Rimuru/Raphael receive Mau afterward;

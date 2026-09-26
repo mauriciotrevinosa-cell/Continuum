@@ -1324,26 +1324,118 @@ Frieren is **deliberately kept in the dark**.
 
 This supersedes any older implication that Frieren was fully briefed before the fight.
 
-Current required sequence:
+## 19.1 Mau is already emotionally closed when he tells them
 
-1. Mau has enough verified dreams/premonitions to believe the phenomenon is real.
-2. The fatal Sukuna scenarios repeat.
-3. Mau reaches the conclusion that if forced to choose, he will choose Frieren.
-4. Mau eventually tells **Yuta and Rimuru** the essential truth.
-5. Yuta and Rimuru do **not** accept the binary.
-6. Their first instinct is to find a way to avoid the event / prevent Mau from having to make that choice / create a third option.
-7. They gradually understand something crucial:
-   - Mau has already made his decision;
-   - if the decisive moment arrives, he **will** intervene whether they approve or not.
-8. At that point, refusing to participate may only leave Mau facing the event alone.
-9. Yuta/Rimuru therefore stay in the plan not because they endorse sacrifice, but because they believe their presence creates the best chance of:
-   - saving Frieren;
-   - keeping Mau alive too;
-   - finding a third option.
+By the time Mau goes to Yuta and Rimuru:
+- the ordinary predictive dreams have already given him enough evidence that the phenomenon is real;
+- the two Sukuna branches have repeated enough that he no longer treats them as symbolic possibilities;
+- from Mau's perspective, the situation has collapsed into a binary:
+  - do not intervene → Frieren dies;
+  - intervene → Frieren survives and Mau dies.
 
-This is a major trust arc among Mau, Yuta and Rimuru.
+Mau is no longer approaching the conversation with:
 
-## 19.1 Disclosure setting
+> `Maybe there is another way.`
+
+His position is closer to:
+
+> **`Frieren is not dying. Whatever that costs me is secondary.`**
+
+This does **not** mean Mau wants to die.
+
+It means the dreams have made him psychologically close around one absolute:
+
+> **he will not gamble Frieren's life on the hope that the visions are wrong.**
+
+That rigidity is important.
+
+The crisis is not only Sukuna.
+
+The crisis is that Yuta and Rimuru are now dealing with someone they love who believes he has already been shown the only two outcomes and has already chosen which loss he can accept.
+
+## 19.2 Why he tells Yuta and Rimuru
+
+Mau tells them because:
+- Yuta knows Sukuna;
+- Rimuru/Raphael can analyze impossible systems and survival problems;
+- Mau knows he cannot handle something of this scale entirely alone.
+
+But disclosure does **not** equal openness.
+
+Mau may give them the facts while remaining emotionally shut down about the conclusion.
+
+He is willing to discuss:
+- Sukuna;
+- tactics;
+- timing;
+- what the dreams showed.
+
+He is much less willing to discuss:
+- whether Frieren's death is an acceptable risk;
+- whether he should stand down if the fatal moment arrives.
+
+On that point, he has effectively already decided.
+
+## 19.3 Yuta and Rimuru reject Mau's binary
+
+Yuta and Rimuru do **not** accept Mau's conclusion.
+
+Their first response is to attack the premise:
+- avoid Sukuna;
+- change the conditions;
+- keep Frieren away;
+- move people;
+- intercept earlier;
+- find another variable;
+- prove the dreams are incomplete;
+- create a third outcome.
+
+Mau may cooperate tactically with prevention attempts, but emotionally he remains closed:
+
+> if every plan fails and Frieren is about to die, he will intervene.
+
+This is where the real conflict among the trio lives.
+
+## 19.4 The key realization
+
+Yuta and Rimuru eventually understand:
+
+- they may not be able to convince Mau to value his own survival above Frieren's;
+- forbidding him from participating does not guarantee obedience;
+- hiding information from him may make him more dangerous, not less;
+- if the decisive moment arrives, Mau will act regardless of whether they approve.
+
+The frightening truth is:
+
+> **Mau is not asking permission.**
+
+He has told them because he trusts them enough to know the truth, not because he is undecided about Frieren.
+
+## 19.5 The third option belongs primarily to Yuta and Rimuru
+
+This changes the emotional center of the preparation arc.
+
+Mau's internal plan is still fundamentally:
+
+> `If it comes down to her or me, I choose her.`
+
+Yuta and Rimuru's answer is:
+
+> **`Then our job is to make sure it never actually becomes only her or you.`**
+
+They stay beside Mau not because they endorse his sacrifice, but because abandoning him would only leave him alone with the same decision.
+
+Their goal becomes:
+- stop the dream scenario before it happens;
+- if it happens, disrupt it;
+- if Mau intervenes anyway, keep him alive;
+- force reality into a third branch Mau himself no longer believes is possible.
+
+This makes the eventual battle much more painful:
+
+> the entire preparation plan is Yuta and Rimuru refusing to accept the ending Mau has already accepted.
+
+## 19.6 Disclosure setting
 
 Existing seed:
 - Mau may convince Yuta/Rimuru to join an expedition/interception;
@@ -1383,12 +1475,15 @@ This contrast is intentional.
 - helps search for a third option.
 
 ### Mau
+- is tactically cooperative but emotionally rigid about the binary;
 - studies requirements;
 - trains/constructs;
 - hides the full danger of his one-use Hollow Purple analogue;
-- continues ordinary life with Frieren while doing this.
+- continues ordinary life with Frieren while internally believing he may already know how his story ends.
 
-The trio should build exceptional trust here.
+The trio should build exceptional trust here, but that trust is strained by one unresolved fact:
+
+> Yuta and Rimuru are trying to save Mau too; Mau is not willing to risk Frieren in order to make that possible.
 
 ## 20.2 Okarun
 - brought into preparation because speed/repositioning can save people;

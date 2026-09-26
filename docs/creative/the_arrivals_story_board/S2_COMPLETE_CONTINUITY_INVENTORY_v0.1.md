@@ -2156,7 +2156,120 @@ Yuta and Mau initially believe Yuta's RCT is the primary explanation for surviva
 ---
 
 
+## 30.5 Return to the inn: the household learns through silence — STRONG PRESERVED BEAT
+
+The battle should **not** cut directly from Mau's death/Second Chance into a clinical recovery room.
+
+First, the combat group has to bring him home.
+
+This return is one of the main emotional bridges into the recovery arc.
+
+### Exterior / first sight
+
+The people who remained at the inn have had an ordinary day relative to the battlefield.
+
+When the combat group finally returns:
+- someone notices them first and alerts the others that they are back;
+- they look filthy, bloodied, exhausted and damaged;
+- at first, the people waiting do **not** understand the scale of what happened.
+
+A mundane line/joke is strongly worth preserving.
+
+Someone may complain approximately:
+
+> `I told you not to get that dirty. Change and give me the clothes.`
+
+Exact speaker/wording stays open.
+
+The point is not comedy for its own sake.
+
+It establishes that the household is still operating on **ordinary-life expectations** for a few more seconds.
+
+### Frieren cannot walk normally
+
+Frieren returns in severe shock:
+- she has not stopped crying;
+- she is barely responsive;
+- she cannot properly walk under her own power;
+- **someone is carrying/supporting her** into the settlement.
+
+The exact carrier remains open at macro level.
+
+An older favored staging used Rimuru carrying Frieren, but do not hard-lock that until the battle exit choreography is final.
+
+Whoever carries her should make one fact visually obvious:
+
+> Frieren is physically alive, but emotionally shattered.
+
+### The missing person is noticed slowly
+
+The household begins accounting for the returning group.
+
+Then someone asks simply:
+
+> **`And Mau?`**
+
+No one answers.
+
+Not because they are being theatrical.
+
+They cannot.
+
+They do not look the others in the eyes.
+
+A second person may repeat more urgently:
+
+> **`And Mau?`**
+
+Still nothing.
+
+That silence is when concern becomes fear.
+
+Do **not** insert an explanatory speech before the visual reveal.
+
+### The blanket reveal
+
+The last returning figure / the person carrying Mau arrives with a body-shaped form wrapped beneath a blanket.
+
+Current favored possibilities:
+- Yuta carrying Mau;
+- another survivor carrying him while Yuta remains immediately beside him.
+
+Exact carrier stays open until the end-of-battle logistics are final.
+
+The household's attention shifts from the returning faces to the blanket.
+
+Then:
+
+> **Mau's hand is visible / slips outside the blanket.**
+
+That is the recognition beat.
+
+The audience and household should understand the implication before anyone explains it.
+
+The image is stronger if:
+- Mau's face remains covered at first;
+- the hand is unmistakably his;
+- nobody immediately says `he's dead`;
+- the silence continues into the transition toward emergency treatment.
+
+### Function
+
+This beat establishes:
+- the brutal collision between the household's ordinary day and the battle group's reality;
+- Frieren's shock before the long bedside vigil;
+- why the wider cast's grief begins before they know any tactical details;
+- that Mau returns **as someone they believe they have lost**, not as a patient everyone confidently expects to recover.
+
+It should breathe.
+
+The return should feel like the household understanding the truth **one visual fact at a time**.
+
+---
+
 # 31. Recovery / community refusal to let go — STRONG DIRECTION
+
+The recovery begins immediately after the silent blanket-return beat above.
 
 The recovery must take **long enough to hurt**.
 
@@ -2575,6 +2688,7 @@ S1 Sukuna catastrophe
 → protective barrier / extraction / one-use Hollow Purple
 → Mau dies
 → goddess challenge / Second Chance
+→ combat group returns to the inn; Frieren is carried in shock; household asks "And Mau?"; blanket + exposed hand reveal
 → long enough recovery to make hope genuinely painful
 → Frieren kiss / “I love you”
 → post-revival anger / promise

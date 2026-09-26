@@ -554,11 +554,12 @@ This should not become purely military.
 
 ---
 
-# 10. Arrival geography — STRONG NEW DIRECTION
+
+# 10. Arrival geography / rumors — STRONG DIRECTION
 
 Otherworlders do **not** need to appear uniformly across the planet.
 
-Current interesting direction:
+Current direction:
 - arrivals may cluster in a region / set of regions;
 - this becomes a future mystery:
   - why here?
@@ -568,39 +569,97 @@ Current interesting direction:
 
 This strengthens the purpose of scouts and mapmaking.
 
-It also allows S2 to show Otherworlders outside the main cast:
-- hiding after harassment;
-- hearing rumors;
-- refusing to join;
-- seeking the group;
-- exploiting the situation;
-- traveling independently.
+## 10.1 The world spreads the settlement rumor naturally
+
+The household does **not** need to invent a formal beacon/sign network in order for future Arrivals to hear about them.
+
+By this stage:
+- Sukuna's catastrophe has made `Otherworlder` a socially charged word;
+- travelers, merchants, survivors and towns already talk about people from other worlds;
+- rumors circulate that there is a remote inn/settlement where **several Otherworlders live together**.
+
+That rumor can carry both:
+- hope — `there may be people like me there`;
+- fear — `there is a concentration of dangerous outsiders there`.
+
+This is enough to cause different future characters to:
+- seek the settlement deliberately;
+- avoid it;
+- investigate it;
+- hear about it and become curious;
+- remain hidden.
+
+The settlement therefore begins acquiring an external identity **before the residents formally define themselves as a city, faction or nation**.
+
+## 10.2 Recon remains useful without becoming an Arrival-collection system
+
+The household still scouts for:
+- safer long-term settlement sites;
+- routes;
+- resources;
+- monsters;
+- isolated people;
+- anomalies.
+
+But G4 should **not** feel like a Pokémon collection route where scouts simply find eight characters in sequence.
+
+Different G4 members converge through different causal paths.
+
+## 10.3 Parallel-world interludes begin expanding S2's horizon
+
+During the G3→G4 stretch, S2 can occasionally cut away from the inn to show that the world is changing beyond the main cast.
+
+Possible current seeds:
+- other Otherworlders waking in unknown locations;
+- people hearing the rumor about the remote Otherworlder settlement;
+- Senku hearing enough to become interested;
+- isolated arrivals choosing whether to seek the rumor;
+- the Re:Zero witches establishing / moving into a cabin in the forest as a future-facing seed;
+- other future groups existing before they ever meet the main cast.
+
+These do **not** all need full introductions.
+
+Medium-specific later execution can differ:
+- manga may use only a few panels / visual snapshots;
+- a Light Novel version may give a short interlude/summary where useful.
+
+The macro purpose is the same:
+
+> Continuum is bigger than the inn, and future arcs are already living elsewhere.
 
 ---
+
 
 # 11. Parallel S2 Otherworlders — STRONG DIRECTION, NOT MAIN-CAST CONVERGENCE YET
 
 ## Senku
 - **not G4**;
 - can already exist elsewhere in S2;
-- may hear rumors about the Otherworlder settlement;
-- can decide to investigate later;
-- best main convergence when there is enough settlement/city infrastructure for his skills to matter at scale.
+- hears rumors about a settlement containing multiple Otherworlders;
+- becomes interested rather than being physically collected by the protagonists;
+- best main convergence remains when settlement/city infrastructure is substantial enough for his skills to matter at scale.
 
 ## Eren
 - can exist separately from Mikasa;
-- does not need to converge with her immediately.
+- does not need to converge with her immediately;
+- can be part of the wider proof that known relationships are scattered across Continuum.
 
 ## Tokyo Ghoul
 - **not G4**;
-- at least one Tokyo Ghoul character can appear elsewhere in S2;
-- can demonstrate that Continuum “translates/adapts” imported biological systems;
+- at least one Tokyo Ghoul character can exist elsewhere in S2;
+- can demonstrate that Continuum translates/adapts imported biological systems;
 - exact ghoul food/RC adaptation needs source-aware design;
-- the character does not need to meet the main cast during S2.
+- later convergence should precede Mau's much-later biology crisis if that character becomes part of his observation window.
 
 Important:
-- Tokyo Ghoul is **not** the catalyst for Mau's much later biological crisis;
-- it is only one system Mau may eventually analyze after later contact.
+- Tokyo Ghoul is **not** the single catalyst for Mau's biological crisis;
+- it becomes one model among several that Construction may eventually understand.
+
+## Re:Zero witches
+- their later major involvement belongs farther ahead;
+- S2 can begin visually establishing that they exist in Continuum;
+- current seed: witches settling/moving into a cabin in a forest;
+- do not yet over-explain why, how long they have been there, or what they know about Mau.
 
 ## Gojo
 - current direction: **minimum post-Sukuna**;
@@ -610,7 +669,8 @@ Important:
 
 ---
 
-# 12. G4 — CURRENT STRONG ROSTER
+
+# 12. G4 — CURRENT STRONG ROSTER AND CONVERGENCE DESIGN
 
 Current G4:
 
@@ -623,84 +683,257 @@ Current G4:
 - Nano Eiai
 - Stark
 
-They do **not** need to arrive on the same day or travel as one physical group.
+They do **not** arrive as one group and should not feel like eight consecutive introduction scenes.
 
-G4 means they converge into the main narrative in a similar pre-Sukuna wave.
+G4's identity remains:
 
-G4's identity:
+> **G3 expands the world; G4 reconnects and deepens existing emotional families before Sukuna.**
 
-> **G3 expands the world; G4 deepens/reconnects existing relationships before Sukuna.**
+Current convergence structure is deliberately split into several paths.
+
+## 12.1 Maki arrives first / separately — STRONG DIRECTION
+
+Maki can arrive alone before the four 100 Girlfriends characters.
+
+This gives her reunion with Yuta space before she becomes part of another rescue/convergence beat.
+
+### Yuta / Maki reunion
+
+This reunion is not simply:
+> “someone from Yuta's world is here.”
+
+The current relationship premise is much larger:
+- this Yuta remembers a full life far beyond the young body he currently occupies;
+- Yuta and Maki lived a life together;
+- they had a child / descendants, including grandchildren;
+- Yuta remembers Maki eventually dying of old age;
+- Maki also remembers the life they shared;
+- both therefore believed their ordinary earthly life together was finished and that they would not meet again in this kind of physical world.
+
+Their reunion should be beautiful and intimate rather than melodramatic:
+
+> two people whose shared life had already reached its natural end unexpectedly find one another again.
+
+This creates a major parallel with Frieren's side of G4:
+- Yuta/Maki reunite after a completed mortal life;
+- Frieren/Fern/Stark/Himmel are confronting relationships interrupted by disappearance, mortality and lost time.
+
+Exact body-age/synchronization implications remain open.
+
+## 12.2 Maki finds/rescues Hakari, Karane, Shizuka and Nano — STRONG DIRECTION
+
+The four do **not** need to survive a long dangerous trek unprotected.
+
+Current preferred shape:
+- after Maki has already reached / begun integrating with the inn, she is about to head out or is near the settlement;
+- Hakari, Karane, Shizuka and Nano appear relatively close to the inn;
+- they are ordinary/non-combat-capable enough that Continuum's wilderness is immediately dangerous;
+- Maki finds and protects/rescues them;
+- the event provides a lower-stakes breather after heavier reunion/worldbuilding material.
+
+Their first night should not become a lore lecture.
+
+They are:
+- exhausted;
+- confused;
+- displaced;
+- not yet able to process the settlement or its rules.
+
+The humane response is simple:
+> feed them, give them somewhere safe to sleep, explain more after they have rested.
+
+This preserves them as people before turning them into exposition recipients.
+
+## 12.3 Stark arrives separately — STRONG DIRECTION
+
+Stark's subjective continuity can make his reunion especially moving.
+
+Current shape:
+- from Stark's perspective, Fern disappears;
+- he has reason to fear/assume she may be dead;
+- later Frieren also disappears;
+- Stark is left with the experience of losing both of them;
+- on an otherwise ordinary day — potentially while eating — he blinks/transitions and appears in a Continuum forest.
+
+Exact time gap and transport visual remain open.
+
+### Stark / Frieren / Fern reunion
+
+This reunion needs breathing room.
+
+Mau can intentionally give them some distance, similar in spirit to how he respected the Fern reunion, but with much less self-generated drama because he has grown.
+
+Frieren can notice Mau stepping away slightly.
+
+A comic/warm beat worth preserving:
+- Frieren and Fern are both proud of Mau / want Stark to know who he is;
+- they effectively “present” Mau to Stark like someone important they are showing off;
+- Mau and Stark look at each other with mutual awkward `...hello?` energy because neither knows what he is supposed to do with this presentation.
+
+This is not a romantic triangle beat.
+
+It shows that Mau has become part of Frieren/Fern's family history even though Stark was absent for that entire chapter.
+
+### Small reunion dinner
+
+A small meal can follow with:
+- Mau;
+- Frieren;
+- Fern;
+- Stark;
+- Himmel only if his arrival has already occurred — he is **not required** to be present.
+
+Hamburg steak is a favored meal/callback for this reunion.
+
+The purpose is not plot advancement. It is letting a broken old party/family configuration feel tangible again.
+
+## 12.4 Himmel follows the rumor rather than being found — STRONG DIRECTION
+
+Himmel does not need to be discovered by scouts.
+
+Current preferred shape:
+- while traveling, Himmel hears rumors about a remote settlement containing several Otherworlders;
+- one rumor describes an elf with an unmistakably severe / deadly gaze or another description that makes him think immediately of Frieren;
+- Himmel chooses to follow the rumor.
+
+A playful/corny Himmel-like internal line such as:
+> `Frieren, I'm coming for you.`
+
+can remain as tone inspiration, **not locked dialogue**.
+
+Himmel may arrive **after Stark**.
+
+This is useful because:
+- Stark's reunion can belong to Frieren/Fern/Stark first;
+- Himmel's later arrival creates a new emotional event rather than stacking every Frieren reunion into one scene;
+- Himmel still has substantial pre-Sukuna runway.
+
+## 12.5 Agott actively finds the settlement — STRONG DIRECTION
+
+Avoid pure coincidence.
+
+Agott should have her own agency:
+- she is actively traveling/searching;
+- she can use flight/magic to cover territory;
+- she notices a somewhat remote inhabited settlement;
+- from a distance she spots someone she recognizes — Qifrey and/or Coco;
+- she approaches because she has actually found her people.
+
+Favored comedy/reunion rhythm:
+- Qifrey is in the middle of talking/working with Coco;
+- Agott appears;
+- Qifrey's brain initially processes her as though she had simply always been there;
+- he casually starts to involve her in the task / asks her to help carry something;
+- Coco and Agott stare at him;
+- Qifrey slowly realizes:
+  - **wait — Agott?**
+- Coco and Agott laugh at him.
+
+Exact wording is later-level work.
+
+The important macro point is:
+
+> Agott does not fall out of the sky into the plot by coincidence; she is searching and recognizes the settlement/people she was looking for.
 
 ---
 
-# 13. G4 individual functions
+# 13. G4 integration functions
 
-## Himmel — REQUIRED PRE-SUKUNA
+## Himmel
+Himmel must have enough time before Sukuna for:
+- reunion with Frieren;
+- asking Frieren to talk;
+- sincerely testing whether a romantic future remains possible;
+- gradually understanding Frieren/Mau;
+- preserving dignity and generosity;
+- eventually becoming someone Mau trusts with `Take care of her for me`.
 
-Himmel must arrive with enough time for his relationships to breathe.
+## Maki
+Maki has enough pre-Sukuna runway for:
+- Yuta/Maki reunion;
+- seeing the household;
+- helping Mau think about identity/choice/love;
+- helping Frieren differentiate being loved from consciously choosing romantic love;
+- becoming someone Frieren can be around while Mau's secret preparation escalates.
 
-Current direction:
-- he still loves Frieren;
-- may sincerely try to reach her romantically at first;
-- keeps dignity/generosity;
-- is not possessive;
-- gradually recognizes how Frieren behaves around Mau;
-- can accept that loving Frieren includes wanting the future she actually chooses;
-- eventually becomes one of the few people Mau trusts to care for Frieren if Mau dies.
-
-This is crucial to Sukuna:
-- Mau seeing Himmel present means Mau knows Frieren would not be alone if he dies;
-- that helps make Mau's false-binary sacrifice psychologically possible;
-- gives `Take care of her for me` real weight.
-
-This is **not** ownership transfer.
-
-## Maki — REQUIRED PRE-SUKUNA EMOTIONALLY
-
-Maki is important for:
-- reunion with Yuta;
-- identity / choice / love discussions;
-- Mau's uncertainty about what he feels;
-- helping Frieren understand that she loves Mau;
-- later being with/near Frieren when the Sukuna fight begins so Frieren does not immediately charge blindly into something she does not understand.
-
-Maki is **not currently intended as a principal Sukuna frontline fighter**.
+Maki remains emotionally crucial rather than a required Sukuna frontline fighter.
 
 ## Stark
-- now G4;
-- should not be rewritten as inherently weak;
-- can arrive at low Synchronization;
-- retains source identity, memories/instinct and partial physical ability;
-- can grow;
-- does not need to participate in the Sukuna battle;
-- adds major Frieren/Himmel/Fern slice-of-life value.
+Stark provides:
+- Frieren/Fern family reunion;
+- ordinary life;
+- a second perspective on what Frieren/Fern's disappearances meant to those left behind;
+- time for Mau to become known to someone from their old party without competing for importance.
+
+He can arrive at low Synchronization without being rewritten as inherently weak.
 
 ## Agott
-- strong G4 choice;
-- deepens Coco/Qifrey/Witch Hat family;
-- can be skeptical about why Coco/Qifrey trust Mau;
-- learns through observation rather than instant trust.
+Agott deepens:
+- Coco;
+- Qifrey;
+- Witch Hat family;
+- settlement magic/material culture.
+
+Her initial skepticism/questions about Continuum and the people Coco/Qifrey trust can develop after the reunion.
 
 ## Hakari / Karane / Shizuka / Nano
-These four can arrive as a pre-existing mini-group.
+The four arrive as an already-connected mini-group and are protected through the dangerous first contact by Maki.
 
-Desired adaptation:
-- Continuum does not automatically redirect soulmate/destiny mechanics toward Mau;
-- preserve prior relationships/history;
-- emphasize present agency.
+Desired adaptation remains:
+- soulmate/destiny mechanics do not auto-redirect toward Mau;
+- agency matters;
+- their existing dynamics survive;
+- they add social/romantic/comedic texture rather than four new combat systems.
 
-Functions:
-- Hakari: socially open / romantic energy;
-- Karane: friction / directness / comedy;
-- Shizuka: tenderness / quiet social bonds;
-- Nano: logic / efficiency.
+Their first period can focus on:
+- safety;
+- confusion;
+- rest;
+- understanding this bizarre household;
+- eventually building independent relationships.
 
-Possible comedy:
-- Karane baffled by Maki and the teleport/arrival situation;
-- Maki tells her to respect elders;
-- Karane points out she looks older than Maki.
+Possible later comedy with Karane/Maki remains available.
 
-Do not turn every new girl into romance with Mau.
+## G3's role in receiving G4
+
+By the time G4 converges, G3 should no longer feel like “the newcomers.”
+
+G3 members now help receive other arrivals:
+- explain routines;
+- provide rooms/food;
+- vouch for the household;
+- show newcomers how trust is earned;
+- repeat the same questions they once faced from the opposite side.
+
+This makes integration cumulative:
+
+> every arrival wave slightly changes who counts as “the people already here.”
+
+## 13.1 Hueco 2 macro status — MOSTLY RESOLVED
+
+Current macro connector:
+
+```text
+G3 integrates while inn expands/fortifies
+→ rumors about a multi-Otherworlder settlement spread naturally through the world
+→ recon continues for land/resources/safety, not as a character-collection mechanic
+→ wider Otherworlder interludes show the world changing
+→ Maki converges alone
+→ Yuta/Maki receive their full-life reunion
+→ Maki rescues Hakari/Karane/Shizuka/Nano near the inn
+→ Stark arrives separately and reunites with Frieren/Fern
+→ Himmel hears a Frieren-like rumor and deliberately follows it
+→ Agott actively searches and recognizes Qifrey/Coco at the settlement
+→ G3 increasingly becomes part of the group that receives newcomers
+→ G4 gradually becomes daily-life cast
+```
+
+What remains open at macro level is relatively small:
+- exact relative order between Agott, Stark, Himmel and the four-girl rescue;
+- exactly how much time separates each convergence;
+- whether any additional external-world interlude belongs between them.
+
+Do **not** resolve these as exact scenes/dialogue yet.
 
 ---
 
@@ -1678,8 +1911,15 @@ S1 Sukuna catastrophe
 → Bocchi/Kita relationship becomes explicit before Sukuna
 → G3 learns/earns access to deeper trust over time
 → fortify first home
-→ reconnaissance / map / search for future home + missing Arrivals
-→ G4 members converge over time
+→ reconnaissance / map / search for future home continues
+→ rumors of the multi-Otherworlder settlement spread naturally
+→ parallel Otherworlder interludes widen the world
+→ Maki converges alone; Yuta/Maki reunion
+→ Maki rescues Hakari/Karane/Shizuka/Nano near the inn
+→ Stark converges and reunites with Frieren/Fern
+→ Himmel deliberately follows rumors that point him toward Frieren
+→ Agott actively finds Qifrey/Coco
+→ G4 becomes daily-life cast over time
 → relationship/life arcs deepen
    - Himmel reunites with Frieren and asks to talk
    - Frieren/Himmel/Mau emotional clarification

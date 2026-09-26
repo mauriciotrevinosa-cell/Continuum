@@ -2073,9 +2073,26 @@ Not locked.
 
 Yuta has a moment where he could pursue Sukuna.
 
-Sukuna points out Mau may still be salvageable.
+Sukuna points out, approximately:
 
-Yuta chooses Mau.
+> **`If I survived that, maybe he did too.`**
+
+Exact wording remains open.
+
+The point is practical:
+- Sukuna understands Yuta's priority;
+- he knows the possibility that Mau is still salvageable is enough to break pursuit.
+
+Yuta chooses Mau immediately.
+
+He goes to Mau, picks him up, and begins **RCT on the battlefield the moment he reaches him**.
+
+He does **not** wait until they return to the inn.
+
+From that point through the return:
+- Yuta keeps trying to heal/stabilize Mau continuously;
+- Mau is transported while Yuta is already performing emergency RCT;
+- this makes Yuta's eventual exhaustion/collapse the continuation of an effort that began seconds after the fight ended.
 
 This is Sukuna exploiting Yuta's priorities, not “winning” an ethical argument.
 
@@ -2185,19 +2202,18 @@ The point is not comedy for its own sake.
 
 It establishes that the household is still operating on **ordinary-life expectations** for a few more seconds.
 
-### Frieren cannot walk normally
+### Rimuru carries Frieren back
 
 Frieren returns in severe shock:
 - she has not stopped crying;
 - she is barely responsive;
-- she cannot properly walk under her own power;
-- **someone is carrying/supporting her** into the settlement.
+- she cannot properly walk under her own power.
 
-The exact carrier remains open at macro level.
+**Rimuru carries/supports Frieren back to the inn.**
 
-An older favored staging used Rimuru carrying Frieren, but do not hard-lock that until the battle exit choreography is final.
+This is now the preferred macro staging.
 
-Whoever carries her should make one fact visually obvious:
+The image should make one fact immediately obvious:
 
 > Frieren is physically alive, but emotionally shattered.
 
@@ -2227,17 +2243,20 @@ That silence is when concern becomes fear.
 
 Do **not** insert an explanatory speech before the visual reveal.
 
-### The blanket reveal
+### Yuta carries Mau under the blanket
 
-The last returning figure / the person carrying Mau arrives with a body-shaped form wrapped beneath a blanket.
+**Yuta is the person carrying Mau back.**
 
-Current favored possibilities:
-- Yuta carrying Mau;
-- another survivor carrying him while Yuta remains immediately beside him.
+He has already been performing RCT since picking Mau up on the battlefield and continues attempting to heal/stabilize him during the return.
 
-Exact carrier stays open until the end-of-battle logistics are final.
+Mau is wrapped beneath a blanket while Yuta carries him.
 
-The household's attention shifts from the returning faces to the blanket.
+The household's attention shifts from:
+- Rimuru carrying a shattered Frieren;
+- the exhausted returning fighters;
+- Yuta's visibly desperate condition;
+
+to the body-shaped form beneath the blanket.
 
 Then:
 
@@ -2269,7 +2288,11 @@ The return should feel like the household understanding the truth **one visual f
 
 # 31. Recovery / community refusal to let go — STRONG DIRECTION
 
-The recovery begins immediately after the silent blanket-return beat above.
+The recovery does **not** begin only after reaching the inn.
+
+Yuta's emergency RCT begins on the battlefield the moment he reaches Mau and continues through the return.
+
+The inn phase is therefore the continuation of an already-desperate rescue attempt.
 
 The recovery must take **long enough to hurt**.
 
@@ -2688,7 +2711,7 @@ S1 Sukuna catastrophe
 → protective barrier / extraction / one-use Hollow Purple
 → Mau dies
 → goddess challenge / Second Chance
-→ combat group returns to the inn; Frieren is carried in shock; household asks "And Mau?"; blanket + exposed hand reveal
+→ Sukuna escapes by redirecting Yuta's priority toward Mau; Yuta begins RCT immediately and carries Mau home under a blanket; Rimuru carries Frieren in shock; household asks "And Mau?"; exposed-hand reveal
 → long enough recovery to make hope genuinely painful
 → Frieren kiss / “I love you”
 → post-revival anger / promise

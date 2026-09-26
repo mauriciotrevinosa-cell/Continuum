@@ -869,7 +869,17 @@ Maki has enough pre-Sukuna runway for:
 - helping Frieren differentiate being loved from consciously choosing romantic love;
 - becoming someone Frieren can be around while Mau's secret preparation escalates.
 
-Maki remains emotionally crucial rather than a required Sukuna frontline fighter.
+Current preferred Sukuna placement:
+- **Maki does not follow Frieren into the main battle**;
+- when Frieren detects Mau/the fight and decides to leave, Maki remains at the inn / settlement;
+- someone strong still needs to protect the people who were deliberately left outside the secret plan;
+- this keeps Maki emotionally crucial without adding another frontline piece to a fight already built around specialized roles.
+
+There is also a character payoff:
+- Maki helped Frieren reach emotional clarity;
+- once Frieren knows what she feels and chooses to go, Maki can trust that this is Frieren's decision rather than trying to make it for her.
+
+Exact exchange/staging remains later-layer work.
 
 ## Stark
 Stark provides:
@@ -1099,19 +1109,45 @@ The intended irony is:
 
 This was discussed before and must remain visible.
 
-During this emotionally unstable period:
-- Frieren's normally excellent sensing / danger-reading / distance judgment is **not functioning as reliably as usual**;
-- the cause is not that Frieren suddenly becomes incompetent;
-- emotional overload and unresolved feelings disturb a faculty she normally trusts;
-- this should be seeded before the Sukuna climax rather than appearing only when the plot needs it.
+During the emotionally unstable Himmel/Mau/Maki period:
+- Frieren's normally excellent mana sensing / danger-reading starts producing **false or noisy signals**;
+- her unresolved feelings make it difficult to distinguish genuine external danger from her own internal instability;
+- this is not a sudden competence loss;
+- it is a temporary reliability problem in a faculty she normally trusts.
 
-During the battle, that pre-existing unreliability combines with:
+Frieren makes a deliberate choice:
+
+> **until she understands what is happening to her, she turns / suppresses that detection mode rather than keep trusting corrupted readings.**
+
+This choice is also relational:
+- she trusts Yuta, Rimuru, Mau and the rest of the household enough that she does not feel she must personally keep constant watch over everything;
+- therefore the secret Sukuna preparation can occur without Frieren simply detecting it immediately.
+
+Later, after her conversations/lived experience finally let her understand:
+
+> **she loves Mau,**
+
+Frieren decides to turn the detection back on / test whether it has stabilized.
+
+That is the exact moment she detects:
+- a serious battle;
+- Mau's presence/signature;
+- enough abnormal activity to know something is terribly wrong.
+
+The irony is intentional:
+
+> the moment Frieren finally gains emotional clarity about Mau is the moment she discovers he has gone somewhere dangerous without telling her.
+
+She leaves immediately for the battlefield.
+
+Exact source-consistent mechanics of "turning off" / suppressing mana detection should be checked during later Frieren source-lock work. The macro story function is current.
+
+During the battle, her later misread still combines:
 - entering a prepared battlefield she was not briefed on;
 - Sukuna's hidden Ten Shadows information;
-- extreme emotional pressure;
+- emotional shock at discovering the secret;
+- the lingering instability of a faculty she has only just begun trusting again;
 - a tiny timing/spacing window Sukuna reads correctly.
-
-The exact magical/physiological mechanism remains open, but the story function is established.
 
 ---
 
@@ -1793,6 +1829,35 @@ The battle depends on:
 
 ---
 
+## 22.1 Hueco 5 connector status — MACRO RESOLVED
+
+The preparation-to-battle connector now has a full macro chain:
+
+```text
+Sukuna chooses Yuta as the known dangerous variable
+→ Mau's dreams reveal a short approach window
+→ Mau/Yuta/Rimuru choose to intercept away from the inn
+→ Qifrey prepares the dream-location timing mechanism
+→ team leaves without fully briefing the household
+→ Himmel overhears at the last moment and joins as an unplanned extra
+→ battle begins on prepared ground
+→ Frieren, who had deliberately suppressed unreliable mana detection, remains unaware
+→ Frieren finally understands that she loves Mau
+→ she re-enables/tests her mana detection
+→ immediately detects Mau in a major fight
+→ Frieren rushes to the battlefield
+→ Maki stays behind to protect the household
+```
+
+This is macro-resolved.
+
+Later work still needs:
+- exact timing between Frieren's realization and detection;
+- exact source-consistent sensing mechanics;
+- exact route/travel time to the battlefield;
+- exact Maki/Frieren exchange;
+- exact moment Frieren enters the fight.
+
 # 23. Battle roles — STRONG DIRECTION
 
 ## Yuta
@@ -1850,8 +1915,11 @@ Possible/strong sequence:
 3. Yuta recognizes Ten Shadows / Mahoraga danger;
 4. exact Domain sequence remains open;
 5. one possible escalation includes Yuta using Domain to limit/counter Sukuna before both sides incur burnout/resource loss;
-6. Frieren arrives after realizing the others are already fighting;
-7. her arrival changes both tactical and emotional state.
+6. back at the inn, Frieren reaches emotional clarity about Mau and decides to test/re-enable her previously suppressed mana detection;
+7. she immediately detects a serious fight and Mau's presence;
+8. Frieren leaves for the battlefield without being briefed on the plan;
+9. Maki remains behind to protect the inn/noncombatants;
+10. Frieren's arrival changes both tactical and emotional state.
 
 Frieren's later miscalculation is **not** a sudden nerf.
 

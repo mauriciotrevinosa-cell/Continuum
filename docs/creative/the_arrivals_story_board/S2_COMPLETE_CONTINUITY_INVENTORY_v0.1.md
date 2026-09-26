@@ -145,6 +145,41 @@ The first home has emotional value and should be fortified while a safer future 
 
 ---
 
+# 3.5 Power-disclosure decision BEFORE G3 — CURRENT ORDER CORRECTION
+
+This corrects an ordering mistake in the previous inventory.
+
+The **controlled power disclosure / first trust pact happens before G3 reaches the home**.
+
+Current macro order:
+
+```text
+Bocchi incident
+→ climax of the existing household debating whether to leave immediately or remain together
+→ decision: stay together for now, fortify the current home, and search for a safer long-term place
+→ because they are choosing to continue together, they decide they must know each other's important strengths, weaknesses and dangerous source-world risks
+→ controlled power disclosure / first trust pact
+→ Mau slips away afterward
+→ Frieren follows him
+→ the previously discussed unexplained magic event occurs
+→ Mau and Frieren agree to keep that phenomenon private for now because they do not understand it well enough to explain it responsibly
+→ household begins acting on the fortify + scout decision
+→ Bocchi is still visibly bandaged
+→ G3 reaches the home
+```
+
+The unexplained Mau/Frieren magic beat is **not** treated as malicious secrecy.
+
+Their reasoning is:
+
+> There is little value in alarming everyone with something they themselves cannot yet identify, reproduce, explain or contextualize.
+
+This should remain a temporary, uncertainty-based choice, not a permanent deception rule.
+
+Exact mechanics of the magic phenomenon should be recovered/defined later; do not invent them during macro planning.
+
+---
+
 # 4. G3 convergence — DEFINED ROSTER, STRONG CONVERGENCE SHAPE
 
 ## 4.1 G3 roster
@@ -168,7 +203,11 @@ Members may have arrived in Continuum at different times or places.
 
 ## 4.2 G3 convergence timing
 
-G3 connects with the main household **after the Bocchi incident**.
+G3 connects with the main household **after the Bocchi incident, after the household's first controlled power disclosure, and after the decision to fortify while searching for a safer home**.
+
+This means G3 is arriving into a group that has just made a meaningful choice:
+
+> We are continuing together, so we need to know enough about each other to survive together.
 
 Favored preserved convergence beat:
 - a merchant / caravan directs G3 away from the increasingly hostile mercantile town and toward the abandoned settlement/inn;
@@ -182,6 +221,24 @@ Favored preserved convergence beat:
   - Okarun: `Who are you?`
 
 Exact episode numbering is **not locked** even though older files used E1–E6 labels.
+
+Immediate emotional consequence:
+- Kita's first reaction is joy at seeing Bocchi's pink hair / recognizing her;
+- she calls out to Bocchi;
+- Bocchi turns;
+- Kita immediately notices the bandage and her excitement flips into concern;
+- Bocchi, characteristically, tries to minimize what happened;
+- this naturally creates Kita's first question about the people Bocchi is now living with and especially about Mau;
+- the Mau/Bocchi/Kita relationship should develop from Kita observing that Mau is not controlling Bocchi, that Bocchi genuinely trusts him, and that Mau is happy for Bocchi to reconnect with Kita.
+
+This becomes part of the **new trust problem** created by G3:
+
+> G1/G2 have already decided to disclose enough to one another to stay safe. Now eight newcomers arrive. How much of that trust extends to them, and how is it earned?
+
+G3 therefore does **not** trigger the original power disclosure. It triggers the next layer:
+
+> how to extend an existing trust culture to newcomers without automatically giving them every secret on day one.
+
 
 ---
 
@@ -252,6 +309,8 @@ The growing household now has to decide:
 ---
 
 # 6. Controlled power disclosure / early Contracts — STRONG DIRECTION
+
+**Chronology note:** the household's first controlled power disclosure occurs **before G3 arrives**. G3 then forces the group to decide how that trust/disclosure culture extends to newcomers.
 
 The Bocchi incident + Sukuna threat creates the logic for selective disclosure.
 

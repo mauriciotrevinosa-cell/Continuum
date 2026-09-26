@@ -256,17 +256,59 @@ The rule is:
 
 > **Every arrival should feel like a person. Not every person needs to become a protagonist.**
 
-### Ensemble network, not one giant friend group
+### Overlapping social web, not isolated cliques
 
-Relationships should stay uneven and specific.
+Relationships should stay uneven and specific **without fragmenting the family/community into sealed groups**.
+
+Core rule:
+
+> **Affinity changes frequency and intimacy, not permission to interact.**
+
+Some people naturally talk more, understand each other faster or share more history, but that should not become:
+- "these three only appear together";
+- girls permanently split into fixed sub-groups;
+- old bonds disappearing because a newer friendship became stronger;
+- work partners replacing family/social relationships.
+
+The social web should remain highly permeable.
 
 Examples:
-- Kita and Momo may naturally become much closer to each other than to some other girls;
-- one resident may mostly interact through work;
-- another may be part of a hobby/festival circle;
-- another may only become important during a specialized crisis.
+- Kita and Momo may click especially well, but both still join larger girls outings and interact broadly;
+- Fern may naturally be more comfortable with people she knew earlier, without becoming closed off to later arrivals;
+- couples know each other more intimately and may peel off together sometimes, but still remain part of communal scenes;
+- Maomao may repeatedly reject invitations because she is absorbed in medicine/research with Senku, only for Marin/Momo or others to drag/"kidnap" her into social time;
+- Umaru and her friends can be absorbed into larger outings rather than forming a permanently separate island;
+- work circles, hobby circles, scout circles, atelier circles and friendship circles should overlap.
 
-This keeps the city socially believable and prevents every new character from being absorbed into one identical relationship web.
+The women's social scenes can often feel like a **moving pack**:
+- sometimes nearly everyone;
+- sometimes whoever is free;
+- sometimes a smaller subset because of work, mood or circumstance;
+- no fixed "girl squad roster" that invalidates everyone else.
+
+The same applies to men's gatherings, family dinners, festivals, work teams and mixed groups.
+
+### Mau's social structure
+
+Mau can have a recognizable **closest-family core** while still maintaining a much wider orbit of meaningful relationships.
+
+That core should reflect already-earned intimacy rather than becoming a wall around him.
+
+People outside the inn-era family can:
+- become close to Mau;
+- ask him for help;
+- tease him;
+- disagree with him;
+- become temporarily central in an arc;
+- enter communal/family spaces naturally.
+
+Likewise, newer arrivals do not replace earlier bonds.
+
+The desired feeling is:
+
+> **a large extended family/community with different closeness levels, not a collection of disconnected cliques.**
+
+This keeps the city socially believable **and** preserves the found-family promise established in S1–S2.
 
 ---
 

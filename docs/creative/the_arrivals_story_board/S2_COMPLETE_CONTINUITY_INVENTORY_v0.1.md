@@ -1410,13 +1410,37 @@ It is a choice made under what Mau believes is verified predictive information.
 
 ## 18.4 Actual truth
 
-The two fatal branches are part of a **goddess / higher-entity challenge**.
+**All of the predictive dreams are part of the goddess / higher-entity challenge.**
 
-Mau does not know this.
+There are not two unrelated systems where:
+- some dreams are "real";
+- then the goddess suddenly inserts a fake binary.
 
-The ordinary predictive dreams are important because they make the false binary credible to him.
+The challenge itself includes the full progression:
 
-Exact mechanics of how the challenge coexists with other predictive dream material remain open and should be made internally consistent during the S2 audit.
+```text
+ordinary predictive dreams
+→ Mau verifies that they correspond to reality
+→ trust in the dream phenomenon grows
+→ increasingly serious/threatening dreams
+→ repeated Sukuna branches
+→ Mau is forced to decide what he will do if the fatal moment arrives
+```
+
+Mau does **not** know he is inside a challenge.
+
+From his perspective:
+- he simply has a strange predictive phenomenon;
+- it has repeatedly proven accurate;
+- therefore ignoring the Sukuna branches would be irrational.
+
+The goddess/higher entity remains hidden until after Mau dies.
+
+This means the earlier dreams are not wasted setup or retroactively fake.
+
+They are part of the challenge's design: Mau is first given enough evidence to trust what he sees, and only then is confronted with the choice the challenge is actually testing.
+
+Exact divine mechanics and the entity's larger motive can remain mysterious.
 
 ---
 
@@ -2209,6 +2233,8 @@ Possible entity response remains approximately:
 - challenge completion language;
 - **Second Chance granted**.
 
+This is also the first point where the audience can understand that the predictive dreams leading up to Sukuna were not an unrelated phenomenon: they were part of the same hidden challenge Mau has just completed.
+
 Exact divine wording remains open.
 
 ## Second Chance mechanic
@@ -2841,20 +2867,33 @@ The earlier post-Bocchi trust pact does **not** need to be retroactively superna
 
 Exact legalistic wording, visual effect and penalty magnitude belong to scene/system-detail work.
 
-## 42.2 Predictive dreams vs goddess false binary — REAL LORE GAP
+## 42.2 Predictive dreams / goddess challenge — MACRO RESOLVED
 
-The story currently requires both:
-- genuine predictive dreams that Mau can verify;
-- a later two-branch Sukuna binary that is actually part of a goddess/higher-entity challenge.
+This is no longer a structural gap.
 
-The broad coexistence logic still needs to be defined.
+Current rule:
 
-Required result:
-- Mau must have rational reason to trust the fatal branches;
-- the goddess challenge must not retroactively make every earlier dream fake;
-- the reveal must not feel like arbitrary divine cheating.
+> **The entire dream progression is part of the goddess / higher-entity challenge. Mau simply does not know that.**
 
-Exact metaphysics can remain partially mysterious, but the internal rule must be coherent.
+The challenge deliberately builds credibility:
+- Mau first receives small/ordinary predictive dreams;
+- he verifies that they correspond to real events;
+- he learns that the phenomenon is trustworthy;
+- the dreams escalate;
+- eventually the repeated Sukuna branches appear.
+
+Therefore Mau has a rational basis for treating the fatal visions seriously.
+
+There is no later reveal that:
+- the early dreams were meaningless;
+- the goddess replaced a separate natural dream system;
+- Mau was foolish for trusting them.
+
+Instead, the credibility-building dreams were always part of the same hidden challenge.
+
+The goddess is only revealed after Mau dies / completes the tested choice.
+
+Exact cosmology and the entity's ultimate motive remain intentionally open and do not block S2 macro structure.
 
 ## 42.3 Sukuna climax mechanics that affect story logic — REAL MACRO GAP
 

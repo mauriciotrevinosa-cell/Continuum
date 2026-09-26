@@ -102,6 +102,48 @@ The long-term feeling can resemble the useful part of Tempest:
 
 ---
 
+## 2.3 External representation — STRONG DIRECTION
+
+Mau and Rimuru remain the two primary civic leaders / public representatives.
+
+Testarossa is a strong candidate for a dedicated envoy / negotiation role:
+- she can represent the settlement in meetings with other cities;
+- Mau and/or Rimuru may accompany her for major talks;
+- Frieren, Fern or other specialists may join when relevant;
+- she does not need to spend all of her time outside the settlement.
+
+Core rule:
+
+> **Representation is not unilateral authority.**
+
+Representatives can carry agreed positions, exchange proposals and form provisional understandings. Major commitments affecting the whole community normally return for internal approval.
+
+This seeds a future governance question:
+
+> **What happens when a representative must make an important decision before the community can be consulted?**
+
+Do not assign that future conflict yet.
+
+## 2.4 Mau / Rimuru leadership parallel — STRONG CHARACTER DIRECTION
+
+Their co-leadership grows from mutual respect.
+
+Rimuru increasingly recognizes similarities between himself and Mau:
+- both naturally become centers people gather around;
+- both try to make themselves useful;
+- both can carry too much responsibility;
+- neither needs status for its own sake.
+
+Their differences keep the partnership useful:
+- Rimuru has prior organizational experience;
+- Mau leads more through personal trust and mediation;
+- Rimuru often sees systems first;
+- Mau often sees the person inside the system first.
+
+Similar values can still produce serious disagreements without destroying their respect.
+
+---
+
 ## 2.5 Tree / atelier planning scene — STRONG CHARACTER + GOVERNANCE BEAT
 
 One of the first settlement-planning disagreements can center on the preserved Witch Hat seed / future resource tree.

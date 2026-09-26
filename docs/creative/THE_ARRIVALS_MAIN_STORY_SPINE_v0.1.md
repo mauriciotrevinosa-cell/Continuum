@@ -170,8 +170,8 @@ temporary base
 → agreement to find a safer long-term home
 → fortify the current base while it is still needed
 → reconnaissance and comparison of candidate sites
-→ choose the new location
-→ first departure / first camp / first construction near the end of S2
+→ choose the new location at the end of S2
+→ S3 begins with safety-first planning / terrain preparation / first construction
 → major settlement and city-building continues through S3
 
 The long-term city still emerges from pressure:
@@ -397,8 +397,8 @@ Exact timing remains expandable.
 ### High-confidence main-story direction
 
 - S1 = loss, survival, convergence, reunion, hope, then dangerous-arrival cliffhanger.
-- S2 = routine shattered by Sukuna consequences, Otherworlder fear, internal debate, Bocchi as a social breaking point, fortification of the current base, search for safer territory, and the first move toward it near the end of the season.
-- S3 = direct continuation of that move through settlement construction, city growth, exploration, migration, and broader civilization progress.
+- S2 = routine shattered by Sukuna consequences, Otherworlder fear, internal debate, Bocchi as a social breaking point, fortification of the current base, search for safer territory, and **selection of the future-home site** near the end of the season.
+- S3 = direct continuation from that choice through planning, safety infrastructure, settlement construction, city growth, exploration, migration, governance and broader civilization progress.
 - The city emerges from necessity, not imperial ambition.
 - Exploration / reconnaissance becomes essential because of monsters and isolated Arrivals.
 - Sukuna should function as both combat threat and political/social catalyst.

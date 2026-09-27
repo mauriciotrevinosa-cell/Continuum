@@ -1634,3 +1634,250 @@ Characters can appear there without receiving a subplot:
 - Maomao refusing to participate while clearly still staying in the room.
 
 This is one of the easiest ways to keep the full ensemble alive without forcing equal dialogue.
+
+
+# 24. Final G3-integration concrete story pass — PROPOSAL / NOT EPISODE LOCK
+
+This is the last concrete lived-space layer before moving into the G3→G4 bridge.
+
+The units below are **story units**, not episode numbers.
+Some may merge into one episode, some may span several, and some may become only sections/interludes.
+
+The desired end-state is:
+> G3 no longer feels like a guest wave. They are simply part of the house.
+
+## Unit A — Too Many People, Not Enough House
+
+Immediate post-arrival life.
+
+Core material:
+- Momo/Okarun emotional shock remains unresolved;
+- room allocation becomes the practical emergency;
+- Mau casually gives up his room;
+- Fern and Frieren hear it and understand more than they say;
+- Bocchi/Fern may also temporarily lend space;
+- improvised shared sleeping begins;
+- Rimuru starts measuring/planning expansion rather than instantly solving it;
+- Wakana becomes unexpectedly important because bedding, clothes and repairs are suddenly real problems;
+- Marin wants the temporary rooms to look less miserable and gets pulled into practical work.
+
+Possible closing image:
+the inn is objectively more chaotic than before, but dinner is larger and louder.
+
+## Unit B — Rules Nobody Knew They Needed
+
+The newcomers begin asking questions.
+
+Pressure comes from several directions at once:
+- Umaru asks Mau about things she has seen;
+- Kita asks Bocchi what happened and how the household works;
+- Momo keeps almost telling Okarun things about himself/their past;
+- Qifrey/Coco ask about unfamiliar magic;
+- Marin asks very normal questions that accidentally touch private information.
+
+The household realizes:
+> trust is not the same thing as permission to disclose someone else's history, weakness or power.
+
+This produces the confidentiality discussion/Contract.
+
+Okarun's later harmless test can happen after enough ordinary life that the rule feels real rather than ceremonial.
+
+## Unit C — Study, Work, and New Siblings
+
+This unit deliberately exercises relationships that could otherwise remain underdeveloped.
+
+### Mau + Qifrey + Coco
+Recurring study/practice time begins.
+
+Tone:
+- Qifrey teaches;
+- Coco asks questions enthusiastically;
+- Mau approaches the same thing from his strange observe/analyze instinct;
+- Mau sometimes understands the wrong part first;
+- Coco sometimes understands the human/simple part faster;
+- Qifrey has to manage both.
+
+The point is not power progression only.
+
+Across these sessions:
+- Coco begins treating Mau like an older brother / trusted peer;
+- Mau naturally checks whether she ate/rested/understood something without becoming parental;
+- Coco can tease him or pull him back into ordinary curiosity when he gets too absorbed.
+
+Give them at least one small beat **without Qifrey** too:
+- carrying materials;
+- snack break;
+- Coco asking Mau something personal/simple;
+- Mau helping with a small failed practice attempt.
+
+### Mau + Fern
+A mundane errand/work task with no Frieren.
+
+### Frieren + Rimuru
+A tiny routine-trust interaction showing how far they have come since S1.
+
+### Yuta + Mikasa
+Patrol/work pairing that later ends with both returning to the same ridiculous household chaos.
+
+This unit may intercut several days rather than follow one plot.
+
+## Unit D — The House Starts Having Its Own Culture
+
+A multi-day domestic unit.
+
+Possible Day 1:
+- cooking disaster caused partly by too many people sharing the kitchen;
+- music night afterward;
+- Bocchi/Kita/Marin overlap naturally;
+- Okarun/Umaru/Coco can be present as peers rather than plot functions.
+
+Possible another day:
+- common-room laziness;
+- Frieren reading while leaning against Mau;
+- Mau talking with Fern and Anko;
+- Frieren occasionally joins without putting the book down;
+- Rimuru in slime form becomes furniture;
+- Momo/Maomao play fake detectives and bother him;
+- Anko joins the joke;
+- Wakana sews/repairs something in the room;
+- Mikasa is cleaning gear but listening;
+- Coco is drawing/practicing nearby;
+- Bocchi still freezes when directly put on the spot.
+
+This is one of the clearest candidates for a full quiet episode later.
+
+## Unit E — First Real Moving-Pack Adventure
+
+The girlies/social web gets its first actual outing/adventure.
+
+Organic setup:
+- Marin's phone frustration;
+- Momo connects with her;
+- Momo/Marin decide Maomao needs to leave the lab/room;
+- Maomao refuses;
+- they "kidnap" her socially;
+- Bocchi, Fern, Kita, Anko, Mikasa, Umaru, Coco can join in a natural shifting combination;
+- not every woman must attend.
+
+The outing should contain an actual small objective/adventure:
+- local ruins;
+- ingredient/material gathering;
+- lake/forest trip;
+- village edge;
+- low-risk mystery;
+- something that lets their personalities bounce.
+
+Important:
+- Mikasa is allowed to have fun and not only guard everyone;
+- Anko is naturally part of the social field, not remembered afterward;
+- Umaru begins enjoying people independently of Mau;
+- Coco gets peer-life outside Qifrey;
+- Bocchi/Kita get ordinary reconnection without forcing romance milestones.
+
+## Unit F — Work Outside the House
+
+At least one low-risk practical mission / scouting / material run should use a mixed team.
+
+Potential combination:
+- Okarun + Mau as the emotional center;
+- Yuta/Mikasa or Fern rotating in;
+- Wakana/Qifrey if materials matter.
+
+Goals:
+- Okarun gets an identity outside Momo;
+- Mau/Okarun friendship starts becoming real;
+- scouting/future-home search remains active;
+- the outside world still exists;
+- anti-Otherworlder tension has consequences without dominating every story.
+
+A failed candidate site can be useful here:
+not dangerous enough to be an arc, simply **not right** for long-term settlement.
+
+That helps future relocation feel researched rather than destined.
+
+## Unit G — Contract Becomes Real
+
+After enough trust and questioning:
+- Okarun tries a harmless disclosure;
+- the Contract blocks him;
+- he pushes harder;
+- sharp lightning-like pain / consequence proves the world is enforcing it.
+
+This should affect how everyone perceives Contracts:
+they are no longer a symbolic promise.
+
+The story afterward should return to normal life rather than becoming a Contract lore seminar.
+
+## Unit H — The Invisible Integration Threshold
+
+No ceremony.
+
+Show several small facts across a story:
+- Kita knows where supplies are and answers someone else without thinking;
+- Wakana is already being asked directly for help;
+- Coco enters Mau/Qifrey study without asking whether she is allowed;
+- Mikasa complains about somebody's household habit;
+- Umaru joins an outing without checking if Mau is going;
+- Okarun is expected at dinner and someone notices when he is late;
+- Marin has changed something in the common room and everyone has accepted it;
+- Anko's notes/ink are simply part of the table clutter;
+- a G3 member explains one routine to another person.
+
+At that point G3 is integrated.
+
+Nobody says:
+> "You're family now."
+
+The audience realizes it because the house behaves as though it is already true.
+
+---
+
+# 25. Bridge condition before G4 — STRONG DIRECTION
+
+Do not begin substantive G4 convergence until the following are true in lived experience:
+
+- G3 has slept, worked, argued, laughed and contributed in the house;
+- the Contract has become materially real;
+- Mau/Coco sibling-like bond has started, including Qifrey/Mau/Coco study time;
+- Okarun has at least one relationship lane outside Momo;
+- Kita has at least one identity lane outside Bocchi;
+- Umaru has begun branching outward from Mau;
+- Mikasa has been seen both useful and ordinary;
+- Wakana has independent usefulness;
+- Anko still feels present;
+- inn expansion/fortification has visibly progressed;
+- scouting/future-home search has produced at least one concrete experience/result.
+
+These are not episode quotas.
+
+They are a **readiness condition**:
+> G4 should arrive into a household that has actually metabolized G3.
+
+---
+
+# 26. Dreams sequencing guardrail
+
+The predictive-dream/goddess-challenge material should **not** begin immediately after G3 integration.
+
+Current preferred order remains:
+
+```text
+G3 fully integrates
+→ G4 convergence begins (Maki/Stark among first)
+→ G4 receives substantial ordinary-life / relationship runway
+→ Frieren/Himmel/Maki/Mau emotional arcs develop
+→ Bocchi/Kita has enough lived progress
+→ household has enough ordinary G4 life
+→ small predictive dreams begin
+→ repeated verification builds rational trust
+→ fatal Sukuna branches emerge later
+```
+
+Reason:
+the dreams become much stronger if they interrupt a **large, functioning, emotionally interconnected household** rather than arriving while G3 still feels new.
+
+Therefore the next major planning block after this pass should be:
+> **G3→G4 bridge and early G4 convergence**
+
+Then, after G4 has enough lived-space, we move into:
+> **dream escalation / pre-Sukuna lived-space**.

@@ -2,7 +2,7 @@
 
 **Status:** STRONG STORY PROPOSAL / CREATOR REVIEW — NOT EPISODE LOCK  
 **Date:** 2026-09-27  
-**Scope:** Mau awake + family aftermath → trust repair / ordinary life → resumed scouting → Mau/Frieren couple-like life → clean separation from predictive dreams → first Ori dreams / decision to search.
+**Scope:** Mau awake + family aftermath → trust repair / ordinary life → resumed scouting → Mau/Frieren couple-like life → short separation from predictive dreams → early Ori dreams disclosed → hyperreal locating dream / Mau+Frieren departure.
 
 This pass begins after the immediate death/revival braid already established.
 

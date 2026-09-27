@@ -2,7 +2,7 @@
 
 **Status:** STRONG STORY PROPOSAL / CREATOR REVIEW — NOT EPISODE LOCK  
 **Date:** 2026-09-27  
-**Scope:** Ori romantic/chosen-family arc resolves → Mau/Frieren formalization → final site discovery/verification → quiet S2 closing image → direct S3 handoff.
+**Scope:** Ori romantic/chosen-family arc resolves → Mau/Frieren formalization → mature site findings / collective site choice → quiet S2 closing image → direct S3 handoff.
 
 The guiding principle is:
 

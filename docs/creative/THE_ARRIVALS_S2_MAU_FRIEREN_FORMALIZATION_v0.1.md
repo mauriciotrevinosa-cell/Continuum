@@ -226,7 +226,7 @@ The day ends with a major communal dinner at the inn.
 
 It is not a wedding-style event. It is a joyful family celebration with good food, teasing, people arguing over who helped most, and Mau/Frieren sitting together.
 
-This can function as a late-S2 ordinary-life payoff before the final future-home search / site choice.
+This can function as a late-S2 ordinary-life payoff before the final future-home **site-choice** payoff; the strong candidate has already been discovered and largely verified during the Ori era.
 
 ---
 

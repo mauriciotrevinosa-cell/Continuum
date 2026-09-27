@@ -18,8 +18,17 @@ fragile routine
 → fortify current home while searching
 → reconnaissance / candidate territory
 → larger relationship and threat arcs
-→ first move / first construction near late S2
-→ most city-building continues into S3
+→ Sukuna / Second Chance confrontation and recovery
+→ short dream-silence / early Ori dreams disclosed to the household
+→ future-home scouts leave while Mau remains partly recovery-restricted
+→ scouts discover a strong site candidate in parallel with Mau/Frieren finding Ori
+→ substantial Ori lived-space / romantic ambiguity / confession / chosen-family transition
+→ Mau identifies romantic love for Frieren
+→ Mau/Frieren explicitly formalize
+→ household makes the compact final site choice
+→ ordinary final night at the inn with an unfinished future-home plan on the table
+→ S2 ends before meaningful construction
+→ S3 begins the build
 
 ## S2 opening six-episode skeleton
 
@@ -96,17 +105,21 @@ Exploration grows from survival function into an institution:
 The emotional motive is as important as the tactical one: someone they care about may be out there waiting to be found.
 
 ### Future settlement / city
-Earlier planning placed a much larger city-building arc inside S2. Current direction delays most actual construction into the S2→S3 continuation.
+Earlier planning placed a much larger city-building arc and even first construction inside S2. The current direction moves **meaningful construction into S3**.
 
 Current late-S2 shape:
 Bocchi incident
 → agreement to seek safer territory
 → interim fortification
 → reconnaissance/site comparison
-→ choose future site
-→ departure / first camp / first construction near the end of S2
+→ post-Sukuna scouts continue operating without Mau while he is partly recovery-restricted
+→ strong site candidate is discovered during the Ori-arrival era
+→ maps / resource checks / terrain and foundation thinking continue in the background throughout Ori's lived-space arc
+→ after Ori's foundational arc and Mau/Frieren formalization, the household collectively chooses the site
+→ final ordinary night at the inn with an unfinished future-home site/foundation/layout plan on the table
+→ END S2 before meaningful construction
 
-S3 then owns most of the real settlement-to-city growth.
+S3 owns surveying, terrain preparation, foundations, infrastructure and settlement-to-city growth.
 
 ### Sukuna / Second Chance major confrontation
 Strongly developed but not episode-locked. See [MAJOR_ARCS.md](./MAJOR_ARCS.md).
@@ -115,7 +128,20 @@ Strongly developed but not episode-locked. See [MAJOR_ARCS.md](./MAJOR_ARCS.md).
 Strong future emotional direction. Himmel remains formative and dignified; Mau is Frieren's first consciously recognized romantic love. Exact arrival/placement of Himmel remains open.
 
 ### Ori arc
-Preserved as a later relationship/identity arc. Exact season/episode is still open; it must remain compatible with Mau/Frieren being emotionally romantic but not yet formally labeled after the revival beat.
+Ori is now a **major late-S2 relationship/identity arc**. Exact episode count and episode placement remain open, but the season placement and causal role are strong direction.
+
+Current shape:
+- several normal nights separate the Sukuna predictive-dream system from Ori;
+- early Ori dreams begin relatively soon and Mau tells Frieren / trusted household;
+- while future-home scouts are away and Mau remains partly recovery-restricted, a hyperreal locating dream gives him certainty;
+- Mau says, in favored meaning, `I know where she is`; Frieren answers `Let's go` and goes with him;
+- Mau remains Ori's first anchor, but Ori receives substantial ordinary-life runway and relationships beyond Mau;
+- Frieren/Ori build an independent bond before/through the romantic tension;
+- a late-night household conversation exposes that Mau/Frieren never formally defined girlfriend/boyfriend;
+- Ori explores the possibility over time, confesses, is genuinely hurt by nonreciprocation, and remains a person rather than a discarded romantic device;
+- Mau realizes he loves Ori deeply but nonromantically, which helps him finally identify his love for Frieren as romantic;
+- Ori's chosen-family transition develops through ordinary life, not one conversation;
+- S2 closes Ori's foundational arc, while the later memory/perception crisis can demonstrate deeper maturity.
 
 ## S2 material still missing before manga production
 

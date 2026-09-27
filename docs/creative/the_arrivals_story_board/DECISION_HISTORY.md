@@ -20,11 +20,13 @@ During voice/story approval, the ending was changed.
 This is resolved and is the Level-4 version.
 
 ## DH-003 — City-building timing
-Earlier S2 planning expected the Otherworlder City to emerge materially in later S2.
+Earlier S2 planning expected the Otherworlder City to emerge materially in later S2 and later retained a first-move / first-construction beat near the season end.
 
-As more S2 arcs accumulated, the story was rebalanced.
+As more S2 arcs accumulated, the story was rebalanced again.
 
-**Current direction:** S2 owns social rupture, interim fortification, search, site choice and first move/first construction; **most actual settlement/city building continues into S3**.
+**Current direction:** S2 owns social rupture, interim fortification, reconnaissance, strong-site discovery/verification, the final collective site choice and preliminary planning. **Meaningful construction begins in S3.**
+
+The final S2 image remains at the inn: ordinary household life around an unfinished future-home site/foundation/layout plan.
 
 This is a placement evolution, not a contradiction.
 
@@ -91,3 +93,35 @@ sense Yuta
 → cursed-energy suppression.
 
 Current S1E19 manga-ready material governs this.
+
+## DH-012 — Ori placement and arrival timing
+Earlier Story Board summaries still treated Ori as an arc whose season placement could remain S2, S3 or later.
+
+The late-S2 development pass resolved that ambiguity at macro level.
+
+**Current direction:** Ori is a major **late-S2** arc. Her first dreams begin relatively soon after the acute Sukuna aftermath, after several normal dreamless nights rather than an arbitrary multi-month gap.
+
+The arrival connector is now:
+early Ori dreams disclosed
+→ household knows about the unknown girl
+→ future-home scouts leave while Mau remains partly recovery-restricted
+→ Mau receives a hyperreal locating dream
+→ `I know where she is`
+→ Frieren: `Let's go`
+→ Mau/Frieren find Ori.
+
+Exact episode number, dream imagery and scene dialogue remain later-layer work.
+
+## DH-013 — Final-site discovery moves into the Ori era
+An earlier late-S2 closure shape placed discovery of the future-home candidate after Ori's entire foundational arc and Mau/Frieren formalization.
+
+That was refined so the world keeps moving while Ori receives the lived-space she needs.
+
+**Current direction:** the scout/mixed team can discover the strong final-site candidate in parallel with Mau/Frieren finding Ori. Verification continues in the background throughout Ori's arc. After Ori's foundational chosen-family transition and Mau/Frieren formalization, only the **collective final site decision** needs to occur quickly before the finale.
+
+This preserves:
+- the scouting-system payoff;
+- Mau learning to trust the household while he is absent/restricted;
+- Ori's arc from feeling like a waiting room for the relocation plot;
+- the compact post-Ori season closure.
+

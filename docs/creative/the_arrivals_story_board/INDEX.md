@@ -62,7 +62,7 @@ See [DECISION_HISTORY.md](./DECISION_HISTORY.md).
 Important examples:
 - S1 20-episode planning concept → later combined into **19 full episodes**. Resolved.
 - S1E18 old joke ending → final Level-4 close is **“What's a kiss?”**. Resolved.
-- completed-city-in-S2 idea → current direction moves most city construction into **late S2 / S3 continuation**. Resolved direction change.
+- completed-city/first-construction-in-S2 idea → current direction ends S2 on **site choice + unfinished planning at the inn** and moves meaningful construction into **S3**. Resolved direction change.
 - recovery window roughly two days → current working seed is **about three days to consciousness**.
 - Mau verbally mirroring “I love you” → current working revival beat has **Frieren say it; Mau reciprocates physically/emotionally without repeating the phrase in that awakening beat**.
 - CAL-17 one-page stress test → canon pacing may expand across multiple pages.

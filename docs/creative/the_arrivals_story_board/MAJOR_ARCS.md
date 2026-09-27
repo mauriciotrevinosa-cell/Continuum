@@ -112,7 +112,7 @@ The human-lifespan problem remains a later slow-burn consequence, potentially S3
 
 # Ori — the goddess-created girl
 
-**Standing:** preserved future arc; not episode-locked.
+**Standing:** major late-S2 strong direction; not episode-locked.
 
 The goddess creates Ori partly out of fascination with Mau/anomaly and partly to understand love. Ori begins as an extension/child-like creation of the goddess but becomes increasingly individual through lived experience.
 
@@ -123,47 +123,63 @@ Core properties:
 - glitches near Mau may behave differently from ordinary instability;
 - Ori likes/admires Frieren rather than becoming a simple hostile rival.
 
-Key relationship engine:
-- Mau/Frieren are emotionally romantic after revival but not formally labeled.
-- A gossip-circle scene exposes that Mau never explicitly asked Frieren to be his girlfriend/partner.
-- Someone asks Mau whether he loves Frieren romantically.
-- Mau knows he loves Frieren deeply but still struggles with the category “romantically.”
-- Ori overhears and sees a possible opening.
+Current late-S2 arrival engine:
+- after Sukuna, several normal dreamless nights establish that the old predictive-binary dream system has ended;
+- Mau begins seeing an unknown girl / forest and tells Frieren / trusted household instead of hiding it;
+- while Mau remains under partial recovery restrictions, a future-home scouting team leaves without him;
+- Mau later receives a qualitatively hyperreal dream that feels like being at Ori's real location;
+- he wakes with location certainty: `I know where she is.`;
+- Frieren chooses to go with him immediately: `Let's go.`;
+- Mau remains Ori's first emotional anchor while Frieren is also one of the people who came to find her.
 
-Ori then experiments with romance:
-- one-on-one outings;
-- sitting close;
-- asking Mau to accompany her;
-- creating reasons for intimacy;
-- possibly asking to sleep near him because she is “scared,” with genuine fear mixed with desire for closeness.
+This is imperfect post-Sukuna growth:
+> Mau can still act quickly without carrying the entire truth alone.
 
-Mau interprets care as care, not necessarily as courtship.
+Ori then needs substantial lived-space as a resident before romance becomes the dominant question:
+- practical adaptation;
+- dependence on Mau as first anchor;
+- relationships that do not pass through Mau;
+- ordinary household participation;
+- an independent bond with Frieren;
+- time for safety, gratitude, dependence and admiration to become distinguishable from romantic desire.
 
-Frieren gets active POV:
-- jealousy;
-- hurt;
-- uncertainty about what claim she can make without a formal label;
-- fear that Mau may not choose her.
+Do not make Frieren instantly jealous on Ori's first days. Early closeness can reasonably read as displaced-person / safe-anchor attachment because the household already knows similar clingy family patterns. Jealousy/romantic uncertainty may emerge later as Ori's own behavior becomes more consciously romantic-coded.
 
-A favored turning beat is Frieren overhearing Ori learn that one of her plans “sounds romantic.”
+A favored late-night household scene then exposes the formal ambiguity:
+- a rotating group of girls talks about how they met / fell for important people;
+- Frieren is elsewhere reading;
+- Mau comes downstairs for something trivial and gets pulled into the conversation;
+- Mau explains that after Sukuna, Frieren kissed him and said she loved him;
+- when asked whether he said it back, a strong candidate meaning is: `I don't know what love is. I didn't want to lie.`;
+- the group then realizes Mau never explicitly asked Frieren to be his girlfriend.
 
-Eventually Mau tells Ori, in substance:
-> I love you, but as a friend.
+The ambiguity is formal, not emotional. Ori nevertheless hears it as the first real possibility that romance with Mau might be possible.
 
-Ori is heartbroken and leaves crying. She is not villainized. Mau and Frieren both help comfort her afterward.
+Ori does not confess immediately. She explores the possibility over ordinary life and eventually confesses.
 
-The arc eventually helps Mau distinguish:
-- family love;
-- friendship;
-- protectiveness;
-- attachment;
-- attraction;
-- romantic love;
-- choosing a future with one specific person.
+The crucial Mau realization is not:
+> I do not love Ori.
 
-Mau ultimately asks Frieren to define their relationship consciously. Exact label remains open.
+It is:
+> I love Ori, but not in the same way I love Frieren.
 
-The deeper theme is that love requires accepting loss of control: the goddess creates Ori to study love, but Ori becomes a person whose value lies in becoming more than the creator's intention.
+That distinction lets Mau finally identify his feeling for Frieren as romantic love while preserving Ori as one of his deepest chosen-family bonds.
+
+Ori's rejection must hurt and breathe:
+confession
+→ grief / awkwardness / some distance
+→ ordinary life continues
+→ Mau's care does not disappear
+→ Frieren does not treat Ori as defeated competition
+→ Ori learns that romantic rejection did not erase her place
+→ chosen-family bond becomes real
+→ Frieren/Ori relationship stabilizes independently.
+
+S2 closes Ori's foundational romantic/chosen-family arc, not her entire maturation. The later memory/perception crisis can demonstrate deeper security by making Ori one of Mau's reliable constants and allowing her to support Mau/Frieren without treating herself as lesser.
+
+After that stabilization, Mau/Frieren consciously formalize what they have already been living as: explicitly chosen romantic partners / girlfriend and boyfriend. Exact final dialogue remains later-layer work.
+
+The deeper theme remains that love requires accepting loss of control: the goddess creates Ori to study love, but Ori becomes a person whose value lies in becoming more than the creator's intention.
 
 # Otherworlder fear / relocation / future city
 
@@ -186,9 +202,14 @@ current base
 → agreement that safer territory is necessary
 → fortify existing home as interim base
 → reconnaissance/cartography/site search
-→ choose future location
-→ late-S2 first move/first construction
-→ S3 major settlement and city growth
+→ strong site candidate discovered by scouts during the Ori-arrival era while Mau is still partly restricted
+→ verification / maps / terrain and foundation thinking continue in the background during Ori's lived-space arc
+→ Ori's foundational arc resolves
+→ Mau/Frieren formalize
+→ household makes the compact collective decision that this is the future-home site
+→ final ordinary night at the inn with an unfinished site/foundation/layout plan on the table
+→ END S2 before meaningful construction
+→ S3 begins surveying, terrain work, foundations, infrastructure and settlement growth
 
 City-building is necessity, not empire-building.
 

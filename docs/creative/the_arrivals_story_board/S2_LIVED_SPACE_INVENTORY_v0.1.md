@@ -798,3 +798,235 @@ These are candidate stories/fragments that can be used, combined, expanded or di
 - one good interaction after several bad ones.
 
 None of these candidates is mandatory merely because it is listed.
+
+
+# 18. Creator refinements after opening-block review — STRONG DIRECTION
+
+These points refine the opening lived-space pass without reopening the closed S2 macro.
+
+## 18.1 Early S2 should actively deepen S1 family relationships
+
+The opening should not only preserve S1 progress; it should immediately show the existing household continuing to become a family.
+
+Strong candidate interactions:
+- **Mau + Fern** spending more casual time together so their relationship exists independently of Frieren;
+- **Frieren + Rimuru** becoming more comfortable with one another after the distrust/outsider phase of S1;
+- **Maomao + Frieren chocolate callback:** Maomao offers Frieren chocolate and Frieren immediately refuses because of the previous incident;
+- **Momo + Mau** getting a small shared task / joke / ordinary interaction;
+- at the table, someone asks Bocchi a simple question and she still visibly locks up / struggles to answer, preserving her actual personality rather than treating S1 growth as "Bocchi is cured";
+- **Anko + Mau/Fern/others** appearing in casual conversation rather than only investigative/lore scenes.
+
+The opening should feel like:
+> these relationships continued existing when the camera was away.
+
+## 18.2 Movie nights can become a small household tradition
+
+Strong candidate:
+- Rimuru uses a source-consistent projection/recreation ability to show a movie he remembers from his old life;
+- exact ability/mechanism requires later Tensura source verification;
+- the story value is not the technique itself but the domestic result: everyone packed into the common room experiencing a piece of another world together.
+
+This can be used during the pre-Bocchi false-calm period.
+
+A later post-disclosure movie/common-room night can deliberately echo it, showing that the house is beginning to recover its normal rhythm before G3 arrives.
+
+Do not turn every movie into a major plot device. The repetition itself can become family texture.
+
+## 18.3 Relocation debate begins BEFORE Bocchi is hurt
+
+Important refinement:
+
+The Bocchi incident should be the **tipping point**, not the first moment anyone has ever considered moving.
+
+As rumors worsen, the household can already be debating:
+- whether remaining near the mercantile town puts locals at risk;
+- whether locals may increasingly see the inn as an enemy concentration;
+- whether unverified reports that monsters/anomalies seem to appear more often near Otherworlders could make the current location socially or physically dangerous;
+- whether the inn/nearby settlement is simply too small if more people continue arriving.
+
+These are concerns, not settled facts.
+
+In particular:
+> reports that monsters are appearing more frequently near Otherworlders remain **rumors/observations under uncertainty**, not a confirmed cosmological rule at this stage.
+
+Some household members can resist relocation because:
+- this is their first home;
+- coexistence with the town had been working;
+- moving in fear may validate hostile assumptions;
+- they do not yet have a clearly better destination.
+
+Therefore the pre-Bocchi state is:
+
+```text
+relocation question exists
+→ household is divided / undecided
+→ false calm encourages hope that they can remain
+→ Bocchi is genuinely hurt
+→ abstract debate becomes a concrete safety problem
+→ fortify-now + search-long-term becomes the compromise
+```
+
+This makes the later decision feel cumulative rather than reactive.
+
+## 18.4 Concrete supply-run setup for Bocchi
+
+Strong candidate connector after an ordinary inn/day-off story:
+
+Mau checks supplies and realizes they are missing several ordinary things.
+
+The shopping list can become a family-comedy beat:
+- Anko wants more ink / writing material;
+- Momo asks for an ingredient / item for something she wants to cook or make;
+- Maomao requests another practical/medical/experimental supply;
+- Frieren tells Mau to bring back "grimoires";
+- Fern and Rimuru both turn to look at her;
+- Frieren concedes that **one** grimoire would be reasonable.
+
+Bocchi overhears how much Mau is about to carry/do.
+
+She wants to help.
+
+Because this is still Bocchi:
+- volunteering is visibly difficult;
+- she stammers / nearly folds under the attention;
+- she still manages to say she will go with him.
+
+Nobody immediately talks her out of it because:
+- this is one of the rare times Hitori chooses to step outside her comfort zone herself;
+- Mau is going too;
+- recent conditions have looked calmer;
+- the trip is supposed to be mundane.
+
+This makes the incident attack a real piece of character growth rather than a plot setup.
+
+## 18.5 Bocchi's injury is a real wound / lasting mark
+
+Supersede the earlier "mostly superficial bloody scratch" framing.
+
+Current direction:
+- the forehead injury is **not life-threatening**;
+- but it is a genuine laceration/impact that requires real treatment;
+- it can leave a visible mark/scar afterward;
+- blood and shock remain frightening;
+- Maomao's treatment matters;
+- the injury should feel serious enough that the household's response is emotionally proportionate.
+
+Do not escalate it into a near-death event.
+
+The desired middle ground is:
+
+> **real harm with a lasting reminder, not catastrophic injury and not cosmetic drama.**
+
+## 18.6 Fern/Bocchi sister payoff after the incident
+
+Strong direction:
+- after treatment, Fern naturally remains near Bocchi / helps her through the night;
+- no large speech is required;
+- the image itself pays S1's sister-like bond.
+
+This reverses early S1:
+- Bocchi once had to seek safety from others;
+- now family members come to her.
+
+## 18.7 Disclosure should expose how broken Mau's own "system" is
+
+Mau should not leave the disclosure conversation as if he is fleeing emotionally.
+
+Better motivation:
+- during the disclosure, Mau observes the others' systems/abilities;
+- his own internal readout remains visibly broken/incomplete;
+- strings can cut off;
+- categories can fail;
+- mana/CE values can display impossible-looking outputs such as `-0` or similarly malformed values;
+- exact UI/text remains open, but the experience should communicate:
+  > Mau's system can identify pieces of other people more cleanly than it can identify Mau himself.
+
+Frieren's system/profile in particular can catch Mau's attention.
+
+Afterward:
+- Mau follows an already-established private routine of trying to understand himself / Construction;
+- seeing the others motivates him to try **one more time**;
+- Frieren notices him go and, this time, chooses to follow;
+- the first important Construction event occurs from that motivation.
+
+This is stronger than framing Mau as leaving because the household conversation overwhelmed him.
+
+## 18.8 The post-incident shift should be small and concerned, not militarized
+
+During the 2–4 days before G3 arrives:
+- the household wants normality back;
+- they add only first-response safety measures;
+- they do **not** transform the inn into a fortress overnight.
+
+Examples:
+- basic perimeter detection;
+- simple alerts;
+- safer route checks;
+- reduced casual exposure;
+- storage/supply adjustments;
+- maps left out for discussion.
+
+A quiet movie/common-room day during this period can show the family deliberately returning to normal.
+
+## 18.9 G3 timeline pressure
+
+Strong timing direction:
+- S1 Sukuna catastrophe → G3 reaches the inn should remain a **short crisis window**, approximately **no more than about one month**;
+- this preserves the feeling that the city destruction, rumor propagation, social fear, Bocchi incident and G3 convergence are part of one unfolding regional crisis rather than events separated by huge stretches of time.
+
+Within that:
+- **Bocchi incident → G3 arrival: roughly 2–4 days** is the favored current range.
+
+Exact day count remains open until episode structure is clearer.
+
+## 18.10 G3 arrival is detected before the doorstep
+
+By this point Rimuru/others have already installed modest detection/alert measures so the household does not need someone physically watching outside 24/7.
+
+When a group approaches:
+- the alert triggers;
+- they determine that multiple humanoid/ordinary people are approaching rather than an obvious monster assault;
+- household members go outside to meet them before they simply appear inside the inn's space.
+
+Preferred visual/emotional staging:
+- Mau is among the people outside;
+- Kita notices **pink hair behind/near Mau**;
+- recognition hits before she understands the bandage/mark;
+- she calls out to Bocchi;
+- Bocchi turns;
+- only then does Kita fully see the injury.
+
+The detection system should be modest and newly installed, consistent with only 2–4 days of response.
+
+## 18.11 Quiet episodes may span multiple ordinary days
+
+Do not assume a domestic episode covers one continuous day.
+
+A strong S2 unit may contain:
+
+**Day 1**
+- cooking disaster;
+- cleanup;
+- Bocchi music night.
+
+**Another day**
+- everyone sprawled around the common room;
+- Frieren leaning against Mau while reading;
+- Mau casually talking with Fern and Anko;
+- Frieren quietly laughs at something in their conversation and inserts one comment without putting down the book;
+- Rimuru in slime form sitting on Frieren or another household member;
+- Momo and Maomao amusing themselves by "investigating" / bothering Rimuru like fake detectives;
+- Anko watches the fake detectives and laughs / comments.
+
+Nothing major has to change.
+
+The episode's purpose can simply be:
+> this is what two ordinary days in this family feel like now.
+
+Other story units may instead:
+- follow one mission for the entire runtime;
+- cover a multi-day outing;
+- focus on one evening;
+- compress a week through fragments.
+
+Time density should follow the material.

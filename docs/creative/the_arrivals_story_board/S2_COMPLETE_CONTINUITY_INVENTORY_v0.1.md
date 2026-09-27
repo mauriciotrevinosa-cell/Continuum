@@ -1,6 +1,6 @@
 # The Arrivals — Season 2 Complete Continuity Inventory v0.1
 
-**Status:** WORKING CONTINUITY INVENTORY — ACCUMULATES CURRENT GIT + LATER CREATOR CHAT DECISIONS  
+**Status:** S2 MACRO STORY CLOSED — EPISODEIZATION / SLICE-OF-LIFE PASS NEXT  
 **Date:** 2026-09-26  
 **Project:** `The Arrivals`  
 **Branch:** `m3/critical-path`
@@ -49,6 +49,10 @@ When we say:
 we mean the full process above unless explicitly narrowed.
 
 
+
+---
+
+> **Final audit status:** Pass A, Pass B and Pass C all passed. The S2 macro story is closed; episode count, slice-of-life placement, calendar details, choreography and dialogue remain intentionally open.
 
 ---
 

@@ -196,24 +196,127 @@ He is not standing still out of plot convenience.
 
 ---
 
-## 9. Mahoraga's final intervention
+## 9. Mahoraga is an active fight-long threat, not a last-second summon
 
-Sukuna responds to the impossible tether with the tool he trusts for impossible phenomena:
+Mahoraga should enter **well before** the final Hollow Purple sequence.
 
-> **Mahoraga.**
+Its purpose is not merely to appear and die.
 
-Mahoraga attempts to:
-- adapt to the Mau/Sukuna tether;
-- break/separate the connection;
-- interfere with Red/Blue before completion.
+It should materially reshape the fight by:
+- taking hits from multiple systems;
+- forcing the team to change successful tactics;
+- demonstrating that repeated solutions become less reliable;
+- creating the exact tactical misunderstanding that exposes Frieren.
 
-It is too late.
+### 9.1 Frieren's fatal opening is caused by adaptation, not incompetence
 
-Mahoraga is annihilated in the resulting Hollow Purple.
+Frieren arrives without the full Ten Shadows briefing.
 
-The falling wheel remains a favored visual.
+During the fight, Mahoraga has already begun adapting to a specific magical interaction / attack pattern / defensive assumption relevant to Frieren.
 
-Agito's exact destruction point can be set during choreography; it does not need to survive the battle.
+Frieren reads the battlefield correctly **according to what she has observed**.
+
+She commits because a response that should stop/control Mahoraga has worked before.
+
+Mahoraga's wheel has progressed far enough that the same solution no longer behaves the same way.
+
+That adaptation creates an unexpected opening.
+
+Sukuna recognizes it instantly and attacks Frieren.
+
+Therefore:
+
+> **Frieren does not make a stupid mistake. Mahoraga changes the rules underneath a reasonable decision.**
+
+Mau recognizes the dream branch and intercepts Sukuna's fatal strike.
+
+### 9.2 Yuta decapitates Mahoraga to buy the rescue window
+
+Immediately after Mau intercepts Sukuna / as the fatal sequence begins, Yuta understands that Mahoraga cannot be allowed to interfere freely.
+
+Before fully committing to Frieren's extraction, Yuta lands a decisive strike that **severs/decapitates Mahoraga**.
+
+Current target:
+
+> **This buys roughly fifteen seconds.**
+
+Those seconds allow the prepared sequence to happen:
+- Qifrey's trigger / fatal-branch confirmation;
+- Rimuru commits the protective barrier / casualty containment;
+- Yuta extracts Frieren;
+- Okarun executes the planned extraction/repositioning role;
+- Mau gets his micro-goodbye / final words;
+- Red and Blue continue forming.
+
+### 9.3 Mahoraga recovers instead of being permanently exorcised by the decapitation
+
+Source canon establishes that Mahoraga can recover severe damage as its adaptation progresses and that it must be destroyed before it can regenerate again.
+
+For The Arrivals, extend that regeneration slightly:
+
+> **Decapitation temporarily incapacitates Mahoraga but does not permanently exorcise it unless the shikigami / wheel is comprehensively destroyed.**
+
+After the recovery window, the wheel turns and Mahoraga's head/body **reattach/reconstitute**.
+
+This is an explicit Project Canon extension; source canon does not need to have shown this exact decapitation recovery.
+
+The visual can be disturbing and immediate: the team believed Yuta bought them enough time, then Mahoraga physically reconstructs itself.
+
+### 9.4 Sukuna changes Mahoraga's instruction
+
+When Mahoraga returns, the battlefield has changed.
+
+Mau is already system-tethered to Sukuna and is constructing:
+- Blue;
+- Red;
+- the unstable convergence that will become Hollow Purple.
+
+Sukuna does **not** simply order Mahoraga to attack Mau.
+
+He understands the greater danger.
+
+New instruction:
+
+> **separate / disrupt Red and Blue before they merge.**
+
+Mahoraga therefore rushes to interfere with the two forming techniques rather than pursuing Frieren or Yuta.
+
+This mirrors the source-fight logic in which Mahoraga was used to prevent Blue and Red from combining, while giving the moment a new Continuum context.
+
+### 9.5 Mahoraga cannot solve Hollow Purple in time
+
+This Mahoraga has adapted to earlier phenomena during the fight.
+
+It has **not** completed an adaptation to:
+- the specific Red + Blue convergence Mau is constructing;
+- the unstable one-use Hollow Purple event;
+- the simultaneous Mau/Sukuna system tether.
+
+Mahoraga begins responding, but there is not enough time for a fresh adaptation cycle.
+
+The attack completes.
+
+Result:
+- Mahoraga is comprehensively destroyed;
+- the wheel is destroyed / falls as the favored visual;
+- Mau dies;
+- Sukuna is catastrophically injured but survives through his separate survival Contract.
+
+This keeps Mahoraga terrifying throughout the battle without allowing adaptation to become a universal answer to every new phenomenon.
+
+### 9.6 Future Ten Shadows users are independent instances
+
+Destroying **Sukuna's reconstructed Mahoraga** does not erase Mahoraga from the Ten Shadows Technique across all future users.
+
+Favored Project Canon rule:
+
+> **Each inherited / reconstructed Ten Shadows user has their own technique-instance and shikigami state.**
+
+Therefore a later Ten Shadows user such as **Yuka** can still possess / eventually invoke her own Mahoraga.
+
+This allows S2 to give Sukuna's Mahoraga a complete dramatic life without spending the concept permanently.
+
+Agito's exact destruction point remains choreography-layer work.
 
 ---
 
@@ -271,13 +374,18 @@ post-Gojo-memory Sukuna / Meguna body
 → Mahoraga + Agito give Sukuna confidence
 → he attacks before 90–100%
 → WCS remains known but inaccessible
-→ Frieren fatal branch
-→ Sukuna pierces Mau
+→ Mahoraga is already active and adapting during the fight
+→ Frieren makes a reasonable read that adaptation has just invalidated
+→ Sukuna exploits the new opening
+→ Mau intercepts / Sukuna pierces Mau
+→ Yuta decapitates Mahoraga and buys ~15 seconds
+→ barrier + extraction + Mau goodbye sequence
 → The Noise detects incarnated/vessel-compatible foreign structure
 → MERGING BEGINS
 → Sukuna becomes system-tethered
-→ Red + Blue complete
-→ Mahoraga attempts adaptation/separation
+→ Mahoraga regenerates/reconstitutes
+→ Sukuna redirects Mahoraga to separate Red + Blue
+→ Mahoraga cannot adapt to the new convergence in time
 → Hollow Purple
 → Mahoraga destroyed
 → Mau dies

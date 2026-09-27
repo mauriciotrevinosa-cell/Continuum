@@ -2733,7 +2733,8 @@ Do not interpret “S3 material” as “forbidden to foreshadow or begin in S2.
 Still favored:
 - pre-Sukuna: fortify current home + scout future site;
 - after Sukuna: recovery, ordinary life and continued search;
-- once Ori's foundational arc resolves and Mau/Frieren formalize, S2 should move toward closure relatively quickly rather than adding a long new tail;
+- Ori's foundational arc is a major late-S2 arc and must receive substantial lived-space runway; **compact after Ori, not compact Ori**;
+- only once Ori has become a real resident with relationships beyond Mau, her confession/hurt has breathed, and her chosen-family/Frieren bond is visibly stabilizing should S2 move toward closure relatively quickly rather than adding a long new tail;
 - late S2: ongoing scouting identifies a naturally defensible region with room to grow;
 - the finder does not need to be Mau; a scout/mixed team can return with notes/maps and let the household evaluate it collectively;
 - **S2 ends before meaningful construction begins**;
@@ -3398,8 +3399,12 @@ S1 Sukuna catastrophe
 → temporary clinginess / departure anxiety across the household
 → post-revival anger / promise continues across multiple scenes
 → substantial post-Sukuna life
-→ Ori arrives and Mau/Frieren/Ori relationship arc develops
-→ Ori confession / hurt / chosen-family transition receives enough runway to resolve honestly
+→ Ori arrives
+→ substantial Ori lived-space / integration as a resident
+→ Mau/Ori closeness grows while Ori also builds relationships beyond Mau
+→ Frieren/Ori bond develops in parallel with jealousy/romantic ambiguity
+→ Ori confession / hurt receives real breathing room
+→ chosen-family transition develops across ordinary life rather than one resolution scene
 → Mau finally names romantic love for Frieren
 → Mau/Frieren formalization / communal celebration
 → routine scouting continues while Mau remains partially restricted from serious field work during recovery

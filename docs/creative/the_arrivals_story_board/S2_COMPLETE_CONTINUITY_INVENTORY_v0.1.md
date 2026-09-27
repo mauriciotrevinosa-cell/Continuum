@@ -3402,7 +3402,7 @@ S1 Sukuna catastrophe
 → Ori confession / hurt / chosen-family transition receives enough runway to resolve honestly
 → Mau finally names romantic love for Frieren
 → Mau/Frieren formalization / communal celebration
-→ routine scouting continues
+→ routine scouting continues while Mau remains partially restricted from serious field work during recovery
 → scout/mixed team finds unusually strong long-term-home candidate and returns with maps/notes
 → household evaluates / compactly verifies site
 → group collectively chooses long-term home region
@@ -3899,3 +3899,41 @@ For each stretch:
 5. only then discover the natural episode boundaries.
 
 The episode count is an output of this process, not an input.
+
+
+# 43. S2 LIVED-SPACE / MACRO STORY CLOSURE — 2026-09-27
+
+**Status:** CLOSED FOR MACRO / LIVED-SPACE PLANNING.
+
+The season now has a continuous story path from:
+- S1 Sukuna catastrophe;
+- social deterioration / relocation pressure;
+- G3 convergence and integration;
+- G4 convergence and relationship runway;
+- predictive dreams;
+- Sukuna preparation / battle / Mau death;
+- recovery / family aftermath;
+- post-Sukuna trust repair;
+- Ori discovery / chosen-family arc;
+- Mau/Frieren formalization;
+- final future-home discovery and collective site choice;
+- quiet closing image at the inn with the unfinished future-home plan on the table.
+
+No additional major S2 story block is required before episodeization.
+
+Remaining work is later-layer:
+- exact episode grouping / splitting;
+- exact calendar dates;
+- exact dialogue;
+- exact scene choreography;
+- exact scouting team that finds the final site;
+- exact dream imagery;
+- exact battle choreography;
+- exact recovery durations;
+- exact visual layout of the chosen region / future settlement.
+
+Current production handoff:
+
+> **S2 macro + lived-space CLOSED → begin fused episodeization + calendar pass.**
+
+Do not reopen closed macro unless episodeization exposes a real contradiction or missing causal bridge.

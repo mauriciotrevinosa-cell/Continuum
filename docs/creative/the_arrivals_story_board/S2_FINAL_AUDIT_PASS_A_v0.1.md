@@ -68,7 +68,7 @@ S1 Sukuna catastrophe
 3. Old open-pedida text was replaced by the resolved Mau/Frieren formalization.
 4. Old climax choreography that introduced Mahoraga only at the end was replaced by the current **fight-long adaptive Mahoraga** structure, including Yuta's temporary decapitation window and Mahoraga's later recovery/redirection.
 5. Yuta now explicitly warns the established household/core immediately after sensing Sukuna; normal life continues because Sukuna becomes unlocatable, not because Yuta irrationally hides the threat.
-6. The post-Sukuna Ori dream/search phenomenon is not automatically treated as a continuation of the completed goddess challenge. Its provenance remains intentionally unknown pending later cosmology.
+6. The post-Sukuna Ori dream/search phenomenon is causally defined: Mau's death and direct goddess encounter create/trigger Ori as an additional reward/consequence of completing the challenge, alongside Second Chance. Mau does not remember the divine conversation, so the later dreams remain mysterious to him even though their source is defined for the story.
 
 ## Items that remain open but are not causal gaps
 
@@ -77,7 +77,7 @@ S1 Sukuna catastrophe
 - exact Shinjuku-memory sharing mechanism;
 - exact Domain/choreography details in the Sukuna battle;
 - exact Contract wording/penalties;
-- exact Ori dream provenance;
+- exact metaphysical mechanism by which the goddess creates/brings Ori;
 - exact future-home candidate sequence;
 - episode boundaries and calendar spacing.
 

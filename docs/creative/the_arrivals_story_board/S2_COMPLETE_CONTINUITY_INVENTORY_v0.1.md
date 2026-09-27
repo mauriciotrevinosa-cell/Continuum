@@ -847,7 +847,11 @@ Exact body-age/synchronization implications remain open.
 The four do **not** need to survive a long dangerous trek unprotected.
 
 Current preferred shape:
-- after Maki has already reached / begun integrating with the inn, she is about to head out or is near the settlement;
+- Maki is now favored as the **first G4 arrival**, with Stark favored as **second**;
+- Maki and Stark may even converge on the **same day at different moments**, allowing Yuta/Maki's quiet full-life reunion to contrast with Frieren/Fern/Stark's warmer family reunion;
+- the household does not force either reunion into immediate full-group introductions; broader social introductions can begin the following day;
+- after Maki has already reached / begun integrating with the inn and has acquired at least one mundane resident routine, she encounters Hakari, Karane, Shizuka and Nano during that routine;
+- the four may have been in Continuum for only a very short time — approximately minutes / ~15 minutes as a current flavor, exact duration open;
 - Hakari, Karane, Shizuka and Nano appear relatively close to the inn;
 - they are ordinary/non-combat-capable enough that Continuum's wilderness is immediately dangerous;
 - Maki finds and protects/rescues them;
@@ -936,11 +940,18 @@ A playful/corny Himmel-like internal line such as:
 
 can remain as tone inspiration, **not locked dialogue**.
 
-Himmel may arrive **after Stark**.
+Himmel should arrive at the inn **after Stark**.
+
+Important timing clarification:
+- Himmel may be **introduced on the road earlier** through interludes;
+- he can already be traveling/helping people/hearing vague Otherworlder rumors while early G4 life unfolds;
+- the preferred emotional order is that Mau receives at least one clearly Sukuna-related dream **before Himmel physically reaches the inn**;
+- Himmel's march can therefore be visible before that dream, with the rumor trail becoming specific enough to identify Frieren only later.
 
 This is useful because:
 - Stark's reunion can belong to Frieren/Fern/Stark first;
 - Himmel's later arrival creates a new emotional event rather than stacking every Frieren reunion into one scene;
+- Himmel retains agency and travel history;
 - Himmel still has substantial pre-Sukuna runway.
 
 ## 12.5 Agott actively finds the settlement — STRONG DIRECTION
@@ -3301,13 +3312,17 @@ S1 Sukuna catastrophe
 → reconnaissance / map / search for future home continues
 → rumors of the multi-Otherworlder settlement spread naturally
 → parallel Otherworlder interludes widen the world
-→ Maki converges alone; Yuta/Maki reunion
-→ Maki rescues Hakari/Karane/Shizuka/Nano near the inn
-→ Stark converges and reunites with Frieren/Fern
+→ Maki converges first; Yuta/Maki reunion
+→ Stark converges second, potentially later the same day; Frieren/Fern/Stark reunion
+→ broader household introductions can wait until the following day
+→ Maki begins ordinary resident routines
+→ during one mundane routine Maki encounters Hakari/Karane/Shizuka/Nano shortly after their own arrival
 → Agott / other G4 convergence continues
+→ Himmel can already appear in road interludes and begin following vague Otherworlder rumors
 → small predictive dreams can begin underneath ordinary life
-→ at least one clearly Sukuna-related dream is preferred before Himmel reaches the inn
-→ Himmel deliberately follows rumors that point him toward Frieren
+→ at least one clearly Sukuna-related dream occurs before Himmel physically reaches the inn
+→ Himmel's rumor trail becomes specific enough to point clearly toward Frieren
+→ Himmel reaches the inn
 → G4 becomes daily-life cast over time
 → dates / girls' outings / ordinary group stories overlap instead of becoming isolated character modules
 → Bocchi/Kita becomes explicit; Mau helps indirectly alongside Momo/Marin/others

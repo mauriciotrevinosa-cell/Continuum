@@ -3071,6 +3071,9 @@ S1 Sukuna catastrophe
 → rumors spread
 → Otherworlder fear / social deterioration
 → Bocchi incident
+→ household decides to stay together temporarily, fortify the inn and search for a safer long-term home
+→ controlled power disclosure / first social trust pact
+→ Mau/Frieren first important Construction event
 → G3 convergence
 → G3 trust/integration + inn expansion/fortification
 → Bocchi/Kita relationship grows; trust mirror with Mau/Kita
@@ -3122,8 +3125,12 @@ S1 Sukuna catastrophe
 → communal meal; Mau/Frieren hold hands; Yuta/Rimuru notice
 → substantial post-Sukuna life
 → Ori arrives and Mau/Frieren/Ori relationship arc develops
-→ first move / construction / wider Otherworlder seeds continue
-→ later arcs already begin casting shadows before S3 fully takes over
+→ Mau/Frieren formalization / communal celebration
+→ continued scouting / comparison of future-home candidates
+→ wider Otherworlder seeds continue
+→ group finds and chooses the long-term home region
+→ S2 ends before meaningful construction begins
+→ later arcs already cast shadows before S3 fully takes over
 ```
 
 This graph is **structural**, not final episode order.

@@ -11,6 +11,49 @@ Exact final English dialogue remains later script work.
 
 ---
 
+## 0. Upstream trigger refinement — Ori-era late-night conversation
+
+Before the formalization plan begins, Mau's missing conscious relationship step is now favored to become visible during a **late-night household conversation** in the Ori arc.
+
+Current strong scene shape:
+- a rotating group of girls is talking in the kitchen/common room about how they met / fell for important people;
+- Kita can talk about Bocchi;
+- Maki can talk about Yuta;
+- Fern can get teased about Stark and react characterfully;
+- Marin can talk about Wakana and the period where she worried she was taking too much of his time (source-specific details to verify later);
+- Ori is present and listening;
+- Frieren is elsewhere/upstairs reading;
+- Mau comes down alone for something trivial such as water and gets dragged into the conversation.
+
+When asked how Mau/Frieren happened, Mau explains:
+- after Sukuna he woke;
+- Frieren kissed him;
+- Frieren told him she loved him.
+
+When asked whether he said it back, Mau can answer in meaning:
+
+> `I don't know what love is. I didn't want to lie.`
+
+This does **not** mean Mau learned nothing about love.
+
+It means he still did not trust himself to label his own feeling as romantic love.
+
+Then the group realizes:
+> Mau never explicitly asked Frieren to be his girlfriend.
+
+That discovery creates:
+- Mau's awareness of the missing formal step;
+- Ori's first serious hope that formal ambiguity might mean romantic possibility.
+
+The formalization itself should still wait until:
+- Ori confesses;
+- Mau realizes he loves Ori deeply but nonromantically;
+- Mau recognizes his love for Frieren as romantic;
+- Ori's immediate hurt has begun settling into chosen-family stability.
+
+---
+
+
 ## 1. Why the moment is communal rather than private
 
 By this point in S2:

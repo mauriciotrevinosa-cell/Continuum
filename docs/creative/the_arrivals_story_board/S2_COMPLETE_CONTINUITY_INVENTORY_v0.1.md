@@ -337,6 +337,14 @@ The growing household now has to decide:
 - what should remain private;
 - how newcomers earn direct trust.
 
+A strong lived-space origin for this problem is now:
+- Umaru begins asking increasingly specific questions because she is trying to understand the household;
+- Bocchi wants to tell Kita things about people she trusts;
+- Momo desperately wants to explain more to Okarun even though he does not remember her;
+- other G3 members naturally ask about the impossible systems they are seeing.
+
+Therefore confidentiality/Contract rules emerge from **relationship pressure and privacy**, not from abstract bureaucracy.
+
 ## 5.1.5 Contracts become visibly real with G3 — MACRO RESOLVED
 
 The earlier post-Bocchi **trust pact / power disclosure** can remain primarily a social agreement among the already-established household.
@@ -493,7 +501,9 @@ The relationship also reinforces the core ensemble rule:
 ### Mikasa
 - survivor/fighter perspective;
 - potential bridge for faction/defense discussions;
-- remains her own person rather than becoming “Mau's soldier.”
+- remains her own person rather than becoming “Mau's soldier” or permanent “security girl”;
+- can naturally rotate into patrol/scouting with Yuta while also eating, resting, joining outings and becoming part of ordinary household life;
+- preserve the imprint of a life shaped by war (light sleep, exits, watches, readiness) without making that her only personality/function.
 
 ---
 

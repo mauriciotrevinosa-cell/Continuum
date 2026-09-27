@@ -564,8 +564,8 @@ Sequence:
 - candidate sites are compared;
 - future location is chosen;
 - S2 ends on that choice;
-- first meaningful move/site construction occurs near late S2;
-- most real settlement-to-city growth belongs to S3.
+- **meaningful move/site construction does not begin until S3**;
+- settlement-to-city growth belongs to S3.
 
 The first home must remain emotionally expensive to leave because S1 established:
 - rooms;
@@ -1913,10 +1913,12 @@ This secrecy creates a painful asymmetry:
 # 22. Sukuna state before battle — STRONG DIRECTION
 
 Current Sukuna:
-- Heian-era body;
-- not possessing Megumi;
-- currently expected to have Ten Shadows despite that;
-- exact Continuum explanation remains open.
+- **Meguna body state**;
+- memory endpoint through victory over Gojo / before the Kashimo fight;
+- Megumi is not a second trapped active soul in Continuum;
+- Ten Shadows access is reconstructed through Continuum Synchronization;
+- Mahoraga and Agito have become viable again before this confrontation;
+- exact Synchronization percentages remain later-layer work.
 
 Pre-battle causal direction:
 - Sukuna has already sensed Yuta in Continuum;
@@ -2019,31 +2021,33 @@ Later work still needs:
 
 # 24. Battle escalation — CURRENT SHAPE
 
-Possible/strong sequence:
+Current macro sequence:
 
-1. core team engages Sukuna using prepared roles;
-2. Rimuru/Raphael detect unusual activity/creatures in Sukuna's shadow;
-3. Yuta recognizes Ten Shadows / Mahoraga danger;
+1. the core team engages Sukuna using prepared roles;
+2. **Mahoraga is already an active fight-long adaptive threat**, with Agito also available to Sukuna as choreography requires;
+3. Yuta recognizes the Ten Shadows / Mahoraga implications and the team begins learning that successful answers may stop remaining successful;
 4. exact Domain sequence remains open;
 5. one possible escalation includes Yuta using Domain to limit/counter Sukuna before both sides incur burnout/resource loss;
-6. back at the inn, Frieren reaches emotional clarity about Mau and decides to test/re-enable her previously suppressed mana detection;
-7. she immediately detects a serious fight and Mau's presence;
-8. Frieren leaves for the battlefield without being briefed on the plan;
-9. Maki remains behind to protect the inn/noncombatants;
-10. Frieren's arrival changes both tactical and emotional state.
+6. Mahoraga accumulates **phenomenon-specific** adaptations during the fight rather than gaining universal immunity to entire power systems;
+7. back at the inn, Frieren reaches emotional clarity about Mau and decides to test/re-enable her previously suppressed mana detection;
+8. she immediately detects a serious fight and Mau's presence;
+9. Frieren leaves for the battlefield without being briefed on the plan;
+10. Maki remains behind to protect the inn/noncombatants;
+11. Frieren arrives and makes a reasonable battlefield read based on something that had worked / appeared reliable earlier;
+12. Mahoraga's accumulated adaptation has changed that interaction;
+13. the changed response creates the tiny opening Sukuna immediately exploits against Frieren.
 
-Frieren's later miscalculation is **not** a sudden nerf.
+Frieren's miscalculation is **not** a sudden nerf.
 
 It is the payoff of stacked conditions:
 - her sensing/danger-reading has already been unreliable because of emotional turmoil;
 - she lacks the preparation context the others have;
-- hidden Ten Shadows information distorts the fight;
-- she is emotionally overloaded by discovering Mau and the others hid something enormous;
-- Sukuna sees a spacing/timing window she does not.
+- she was never briefed on Ten Shadows/Mahoraga's adaptive progression;
+- her read is rational based on what she actually observes;
+- Mahoraga has changed the relevant rule during the fight;
+- Sukuna sees the resulting spacing/timing window faster than she can recover.
 
-The earlier emotional-sensor problem should be shown enough that the audience can later think:
-
-> this was already happening before the fight.
+The earlier emotional-sensor problem and Mahoraga's adaptation progression should both be visible enough that the audience can later understand why the opening occurred.
 
 ---
 
@@ -2111,40 +2115,35 @@ Himmel's earlier emotional arc is what makes this line land.
 
 # 27. Red / Blue / Mahoraga / Hollow Purple climax — STRONG ORDER
 
-Current favored order:
+Current favored causal order:
 
-1. the fight reaches the exact area/moment Mau recognizes from the dream;
-2. **Qifrey's pre-positioned mechanism triggers** at the dream location, buying only a fraction of a second;
-3. that trigger is the team's practical signal that the fatal branch has arrived;
-4. under the Contract contingency, Rimuru does not interfere with Mau and instead deploys the planned protective barrier / casualty containment;
-5. Yuta immediately commits to extracting Frieren;
-6. Okarun executes his prepared all-out extraction/repositioning burst, with Rimuru as the current intended priority once the barrier role is committed.
-7. Mau uses the fraction bought by Qifrey to reach/intercept Frieren's fatal position.
-8. Mau begins constructing **Blue first**.
-9. Blue is visibly unstable and attached to/consuming one hand.
-10. **Red** forms through/from the other side/hand.
-11. Sukuna recovers enough to understand the danger.
-12. He tries to detach/escape.
-13. He discovers he cannot simply separate from Mau.
-14. Exact reason remains open.
-15. Sukuna invokes Mahoraga.
-16. Mahoraga physically attempts to separate/interfere with Red/Blue.
-17. It is too late.
-18. Mahoraga is annihilated.
-19. the wheel falling remains a favored visual.
-20. very short Mau memory of Frieren smiling / internal acceptance that at least she is safe;
-21. unstable Hollow Purple completes;
-22. detonation.
+1. Mahoraga's fight-long adaptation invalidates Frieren's reasonable read and creates the fatal opening;
+2. Sukuna attacks Frieren;
+3. the team recognizes the predicted branch and **Qifrey's pre-positioned mechanism triggers** at the dream location, buying only a fraction of a second;
+4. Mau reaches/intercepts Frieren's fatal position and Sukuna pierces Mau instead;
+5. the foreign soul/CE/incarnation structure crossing Mau's system boundary causes The Noise to begin analyzing/merging with Sukuna's structure, creating the metaphysical/system tether;
+6. **Yuta lands a decisive strike that decapitates/severs Mahoraga**, temporarily incapacitating it and buying the current target window of roughly fifteen seconds;
+7. under the Contract contingency, Rimuru does not interfere with Mau and instead deploys the planned protective barrier / casualty containment;
+8. Yuta commits to extracting Frieren;
+9. Okarun executes his prepared all-out extraction/repositioning burst, with Rimuru as the current intended priority after the barrier commitment;
+10. Mau gets the micro-goodbye with Frieren and the trust handoff to Himmel;
+11. Mau begins constructing **Blue first**;
+12. Blue is visibly unstable and attached to/consuming one hand;
+13. **Red** forms through/from the other side/hand;
+14. Sukuna tries to detach/escape and discovers the new tether prevents a clean separation;
+15. Mahoraga regenerates/reconstitutes from the temporary decapitation window;
+16. Sukuna changes Mahoraga's instruction: **separate/disrupt Red and Blue before they merge**;
+17. Mahoraga begins responding/adapting to this new one-use convergence, but it has not previously adapted to the exact Red+Blue+tether interaction and does not have enough time;
+18. Hollow Purple completes;
+19. Mahoraga is comprehensively destroyed; the wheel falling remains a favored visual;
+20. Mau has a very short memory of Frieren smiling / internal acceptance that at least she is safe;
+21. the unstable Hollow Purple detonation kills Mau and catastrophically injures Sukuna.
 
 The barrier is not decorative. It is one of the planned survival layers that makes the team's preparation matter.
 
-The sequence should have enough pages to breathe.
+The approximately fifteen-second target is a current choreography goal, not an immutable number.
 
-CAL-17's one-page form is only a production stress test, not canon pacing.
-
----
-
-# 28. Sukuna survives / escape cost — MACRO RESOLVED
+---# 28. Sukuna survives / escape cost — MACRO RESOLVED
 
 Sukuna survives near death.
 
@@ -2923,29 +2922,28 @@ The later memory/perception-crisis payoff remains:
 - this is not romantic theft;
 - her future function is to help Mau return toward Frieren.
 
-## 36.7 Mau/Frieren pedida is seeded here, not yet resolved
+## 36.7 Mau/Frieren formalization payoff — MACRO RESOLVED
 
-The girls conversation creates the key realization:
+The girls conversation creates the first realization:
 
-> **Mau and Frieren may already love each other and behave as a couple, but Mau never consciously asked Frieren what they are choosing together.**
+> **Mau and Frieren already love each other and behave as a couple, but Mau never consciously asked Frieren what they are choosing together.**
 
-Ori's later confession/resolution gives Mau the second realization:
+Ori's confession/resolution creates the second:
 
-> **he can finally name his own feeling for Frieren as romantic love.**
+> **Mau can finally name his own feeling for Frieren as romantic love.**
 
-Together these two realizations naturally create the eventual Mau/Frieren **pedida / relationship-formalization** beat.
+Those realizations now have a defined payoff:
+- after Ori's romantic arc resolves, Mau asks the household for help;
+- the family turns the preparation into a communal operation;
+- the actual question happens where Mau first remembers seeing/meeting Frieren;
+- Mau explicitly tells Frieren he loves her and asks her to be his girlfriend;
+- Frieren explicitly chooses him / says yes;
+- the hidden family erupts into celebration;
+- the inn hosts a major communal dinner afterward.
 
-However:
+This is **relationship formalization, not marriage/engagement**.
 
-> **the pedida itself remains OPEN.**
-
-Still to decide:
-- exactly what Mau asks Frieren;
-- whether the language is "girlfriend/boyfriend," "partners," a promise about their future, or something more specific to them;
-- when it happens relative to Ori's resolution and relocation;
-- how Frieren responds.
-
-Do not lock wording yet.
+Exact wording, staging, decorations and episode placement remain later-layer work.
 
 # 37. Later arcs seeded in S2, not necessarily completed there
 

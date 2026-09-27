@@ -96,22 +96,27 @@ No need for a long artificial buffer if the emotional prerequisites have already
 
 The new home should be discovered through the reconnaissance system the household has been building all season.
 
-A particularly strong current shape is that Mau is **not even available to go** because he is still under informal family "house arrest" / recovery restrictions after Sukuna.
+**Timing refinement:** the strong site candidate can be discovered **during the Ori-arrival era**, not after Ori's entire arc.
 
-That creates a useful payoff:
-- scouting continues without him;
-- the household proves it can function independently of Mau's physical presence;
-- Mau has to trust other people's judgment;
-- recovery consequences remain visible even near the end of the season;
-- the future home is found by the **family system**, not by protagonist destiny.
+A particularly strong braid:
+- Mau remains at the inn under informal family "house arrest" / recovery restrictions after Sukuna;
+- an established scout / mixed team goes on a normal future-home route without him;
+- while they are away, Mau receives the hyperreal Ori locating dream and leaves with Frieren;
+- the scouts encounter the unusually strong site candidate and return with notes/maps;
+- Mau/Frieren return with Ori in the same general story period.
 
-A strong current shape:
+That creates a useful parallel:
+> one part of the family finds a possible **place** for their future while another finds a new **person** who may belong in that future.
 
-- an ordinary scouting/exploration route happens after the formalization or during the late post-Ori stretch;
-- Mau remains at the inn because Maomao/Yuta/Fern/Frieren/etc. still do not consider him ready for a serious expedition;
-- the finder does **not** have to be Mau;
-- a scout / small mixed team encounters a region that checks an unusual number of requirements;
-- rather than declaring "we found it" immediately, they take measurements/notes/sketches and return.
+The site is **not chosen immediately**.
+
+During Ori's arc:
+- maps/notes stay active in the background;
+- further verification can happen;
+- Rimuru and others can add terrain/foundation observations;
+- the household can debate practical strengths/weaknesses without stealing the emotional foreground from Ori.
+
+This pays the reconnaissance system while letting Ori breathe.
 
 This preserves the ensemble principle:
 > the future of the family does not have to be found by the protagonist personally.
@@ -146,6 +151,8 @@ That is where Rimuru and the household's planning capacity matter.
 
 # 5. Report-back scene — practical excitement, not prophecy
 
+This report can happen around Ori's arrival / first days rather than waiting until after her arc.
+
 The scout(s) return and spread out:
 - rough notes;
 - measurements;
@@ -172,19 +179,18 @@ The mood should become:
 
 ---
 
-# 6. Verification can be compact
+# 6. Verification can happen quietly in the background, then close quickly
 
 S2 does not need a long new expedition arc after Ori.
 
-A compact verification movement is enough:
+The useful structure is:
 
 ```text
-initial discovery
+site discovered around Ori's arrival
 → report
-→ small group / household representatives inspect it
-→ compare against maps / needs
-→ identify solvable weaknesses
-→ collective decision: this is the place
+→ background verification continues during Ori's lived-space arc
+→ by the time Ori's foundational arc resolves, most practical questions are already answered
+→ compact final household decision: this is the place
 ```
 
 This can occupy:
@@ -348,14 +354,11 @@ Ori discovery
 → Ori gradually chooses family / independent Frieren bond becomes visibly stable
 → only then does late-S2 closure accelerate
 → Mau asks household for help
+→ future-home candidate was already discovered / being verified during Ori's arc
 → Mau/Frieren formalization
 → communal celebration
-→ routine scouting continues while Mau is still partially restricted from serious field work
-→ scout/mixed team finds unusually strong future-home candidate
-→ returns with notes/maps
-→ household evaluates
-→ compact verification
-→ collective site choice
+→ household reviews now-mature site findings
+→ compact collective decision: this is the place
 → final ordinary night at the inn
 → half-finished future-home plan / foundation notes on the table
 → END S2

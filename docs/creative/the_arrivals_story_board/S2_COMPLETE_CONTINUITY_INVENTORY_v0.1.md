@@ -3646,3 +3646,125 @@ The goal is to avoid a future situation where:
 - a scene is written before its prerequisite exists;
 - later story requires retconning a connector that could have been solved now.
 
+
+
+# 45. Episodeization philosophy after macro closure — STRONG DIRECTION
+
+The episode/chapter structure must adapt to the story, **never the reverse**.
+
+Core rule:
+
+> **The story decides how much space it needs. Episode boundaries are containers discovered afterward, not quotas imposed beforehand.**
+
+This means:
+- no fixed target episode count for S2;
+- no fixed "one macro beat = one episode" rule;
+- no fixed minimum number of plot/relationship/world functions an episode must satisfy;
+- no requirement that every episode end with a visible character change;
+- no requirement that every arrival be introduced and resolved inside the same episode;
+- episodes may be short, long, quiet, dense, comedic, domestic, exploratory or dramatic depending on what the material needs.
+
+A quiet episode can be fully justified by ordinary life alone:
+- day off;
+- camping;
+- exploration with no major discovery;
+- fishing / cooking / games;
+- rain day trapped at the inn;
+- casual outing;
+- chores;
+- a small celebration;
+- sleeping outside;
+- simply enjoying one another's company.
+
+These episodes are not "filler" if they make the household feel inhabited and allow time/relationships to accumulate naturally.
+
+## Gradual change, not episode-by-episode transformation
+
+Relationships and habits should often evolve through accumulation.
+
+Avoid the artificial rhythm:
+
+```text
+episode 1: strangers
+episode 2: one conversation
+episode 3: suddenly deeply close
+```
+
+Prefer:
+- repeated incidental contact;
+- small jokes becoming recurring jokes;
+- comfort appearing before anyone names it;
+- people naturally choosing the same seat/table/team;
+- background interactions that later make a larger emotional beat feel obvious in retrospect.
+
+Not every episode needs to announce what changed.
+
+## Arrival stories may begin before convergence
+
+A future arrival can be seeded across multiple episodes.
+
+Example pattern:
+
+```text
+episode X:
+Himmel hears a rumor and decides to follow it
+
+→ return to inn daily life / other plot
+
+episode X+1 or X+2:
+brief Himmel travel progress or obstacle
+
+→ other household stories continue
+
+later:
+Himmel finally reaches the inn
+```
+
+This allows the outside world to feel simultaneous rather than having every arrival appear only when the main cast is ready for their episode.
+
+## G4 ordering priority
+
+Current strong ordering preference:
+- **Maki and Stark should be among the first G4 convergence events.**
+
+Reason:
+- Maki immediately pays off / deepens Yuta material;
+- Stark closes and reopens important Frieren/Fern/family threads carried from earlier material;
+- both bring emotionally mature reunion material before Himmel's more complicated romantic/emotional arrival.
+
+Exact order between Maki and Stark remains open until episodeization, but they should precede Himmel's final convergence unless a later pacing reason clearly improves the structure.
+
+## Episode length is elastic
+
+An episode that naturally needs two large scenes may be short.
+
+An episode that needs:
+- arrival;
+- travel;
+- dinner;
+- comedy;
+- emotional aftermath;
+- quiet closing beat
+
+may be much longer.
+
+Do not split or compress only to make units numerically uniform.
+
+This applies especially now that the project is LN-first:
+- master-story episodes remain useful architecture;
+- later LN chapters/sections do not have to map 1:1 to these episode units;
+- one story episode may become multiple LN chapters;
+- multiple smaller story episodes may sometimes share a larger LN chapter/section if prose pacing prefers it.
+
+## Current workflow
+
+Episodeization and slice-of-life design happen together.
+
+For each stretch:
+1. identify the macro material already required;
+2. identify what ordinary life naturally exists around it;
+3. add quiet/small stories where the world needs breathing room;
+4. allow arrivals/interludes to begin in one episode and pay off later;
+5. only then discover the natural episode boundaries.
+
+The episode count is an output of this process, not an input.

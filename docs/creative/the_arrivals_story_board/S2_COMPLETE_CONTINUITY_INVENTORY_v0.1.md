@@ -93,7 +93,7 @@ The rule remains:
 
 S1 ends with:
 - G3 traveling on the road;
-- Sukuna in Heian body near a major regional city;
+- Sukuna in **Meguna body state** near a major regional city;
 - Sukuna senses Yuta / familiar cursed energy;
 - Sukuna destroys the city with Malevolent Shrine;
 - after recognizing that the world/context is wrong, Sukuna suppresses his cursed energy.
@@ -502,30 +502,31 @@ Important contrast:
 - heroes gain strength by trusting allies with weaknesses;
 - Sukuna gains strength by hiding information and extracting it from others.
 
-## 6.1 Contracts
+## 6.1 Contracts — MACRO RULES RESOLVED
 
-Possible Continuum Contracts can begin here or around this era.
+Continuum Contracts become visibly real in this era through the G3 confidentiality Contract.
 
-Early Contracts should be modest:
+Resolved macro rules:
+- participation is voluntary;
+- the practical promise/condition must be understood clearly enough;
+- the world enforces the agreed restriction;
+- enforcement is **Contract-specific**, not one universal punishment;
+- a Contract may directly resist/prevent a prohibited act;
+- deliberately forcing a breach can trigger additional consequences/costs.
+
+Early use remains modest:
 - confidentiality;
 - bounded promises;
-- small costs;
-- temporary restrictions.
+- temporary restrictions;
+- limited exchanges/costs.
 
-Later they may become much more complex.
+Later Contracts may become more complex.
 
 Guardrail:
 
-> Do not start Contracts as a universal broken power system.
+> Do not treat Contracts as a universal broken power system.
 
-Potential future types:
-- person-to-person;
-- self-contracts;
-- sacrificial;
-- exchange;
-- collective.
-
-The exact contract mechanics are still open.
+Exact wording, visual effect, penalty magnitude and later categories remain later-layer/system-detail work.
 
 ---
 
@@ -537,7 +538,8 @@ A useful S2 worldbuilding thread discussed:
 - Qifrey can reveal that he has a branch/portion of the relevant tree and finite remaining material;
 - Rimuru analyzes the ink + branch;
 - instead of creating infinite material instantly, he may help produce a **seed**;
-- the seed is planted/protected/grown;
+- the seed is **not planted before relocation** and is preserved through the end of S2;
+- planting/protection/growth begins in S3 once the new site is chosen;
 - this gradually becomes magical infrastructure for the settlement/city.
 
 Story value:
@@ -561,7 +563,8 @@ Sequence:
 - reconnaissance expands;
 - candidate sites are compared;
 - future location is chosen;
-- first move / first camp / first construction occurs near late S2;
+- S2 ends on that choice;
+- first meaningful move/site construction occurs near late S2;
 - most real settlement-to-city growth belongs to S3.
 
 The first home must remain emotionally expensive to leave because S1 established:
@@ -3449,8 +3452,9 @@ Current:
 Superseded.
 
 Current:
-- late S2 can begin first move/first construction;
-- most city building belongs to S3.
+- S2 ends after the group **finds and chooses** the future-home region;
+- **meaningful construction does not begin in S2**;
+- site planning, safety infrastructure and first deliberate construction belong to S3.
 
 ### Old “Maki is required as Sukuna frontline”
 Not current.

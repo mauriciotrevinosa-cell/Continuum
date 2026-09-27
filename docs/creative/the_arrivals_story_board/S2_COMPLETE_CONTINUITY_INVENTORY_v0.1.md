@@ -1066,16 +1066,21 @@ Possible later comedy with Karane/Maki remains available.
 
 By the time G4 converges, G3 should no longer feel like “the newcomers.”
 
-G3 members now help receive other arrivals:
+G3 members now **join G1/G2** in receiving other arrivals:
 - explain routines;
 - provide rooms/food;
 - vouch for the household;
 - show newcomers how trust is earned;
-- repeat the same questions they once faced from the opposite side.
+- repeat some of the same questions they once faced from the opposite side.
+
+Important:
+> G3 helping G4 does **not** mean G1/G2 step back.
+
+The entire household participates according to circumstance, competence and relationship chemistry.
 
 This makes integration cumulative:
 
-> every arrival wave slightly changes who counts as “the people already here.”
+> every arrival wave increases the number of people capable of welcoming the next one.
 
 ## 13.1 Hueco 2 macro status — MOSTLY RESOLVED
 

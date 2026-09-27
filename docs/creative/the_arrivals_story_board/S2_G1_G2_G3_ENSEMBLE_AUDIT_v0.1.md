@@ -84,7 +84,7 @@ The G3 integration block is the ideal place to prevent that narrowing before it 
 | **Marin** | Wakana relationship; strong social energy | becoming generic "fun girl" | Momo friendship; phone frustration; girlies organizer; Bocchi/Kita music/culture; room aesthetics/clothing; getting dragged into practical household work |
 | **Wakana** | Marin; craft/clothing | becoming background boyfriend/craftsman | Rimuru logistics/materials; Mau quiet friendship/collaboration; Qifrey craft overlap; bedding/clothing crisis during overcrowding; independent work scenes |
 | **Qifrey** | Coco; magic-system importance | lore-delivery machine | Frieren mutual magical curiosity; Rimuru/Raphael framework comparison; Maomao material/technical curiosity; Mau mentor-ish relationship; household work beyond magic exposition |
-| **Coco** | Qifrey; learning/wonder | permanent attachment to Qifrey | Fern magical-peer contrast; Mau sibling/peer learning; Bocchi/Umaru/girlies social inclusion; helping with ordinary decorations/crafts/food rather than only spell scenes |
+| **Coco** | Qifrey; learning/wonder; intended younger-sister-like bond with Mau | permanent attachment to Qifrey / becoming only "magic student" | **Mau + Qifrey + Coco study/practice time as a recurring trio**; direct Mau/Coco sibling-like moments outside lessons; Fern magical-peer contrast; Bocchi/Umaru/girlies social inclusion; ordinary crafts/food/decorations |
 
 ---
 
@@ -224,18 +224,19 @@ The overcrowding/expansion phase is ideal:
 
 His competence should make people seek him out directly.
 
-## Coco independent of Qifrey
+## Coco + Mau must become an actual sibling-like relationship
 
-Coco should begin forming peer/family bonds before Agott arrives later.
+This is stronger than a generic "Coco should have peers" note.
 
-Strong options:
-- Fern;
-- Mau;
-- Bocchi;
-- Umaru;
-- girlies outings.
+Current intended direction:
+- Coco gradually sees Mau as an older-brother-like / close sibling figure;
+- Mau sees Coco as one of the younger people he naturally helps, learns beside and protects without infantilizing her;
+- Qifrey can study/practice with **Mau and Coco together**, giving the trio recurring shared time;
+- those sessions should include ordinary mistakes, curiosity, breaks, jokes and practical learning rather than existing only for lore;
+- Mau/Coco should also receive small interactions outside Qifrey so their bond is not merely teacher-adjacent;
+- Fern, Bocchi, Umaru and the girlies remain important additional relationships for Coco.
 
-This makes Witch Hat family expansion cumulative instead of Coco simply remaining attached to Qifrey until Agott appears.
+This matters before Agott arrives because Coco should already have a new-world family network rather than waiting for Witch Hat characters to reconstruct her entire social world.
 
 ## Okarun independent of Momo
 

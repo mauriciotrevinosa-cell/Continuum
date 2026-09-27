@@ -411,6 +411,8 @@ Give Mau enough nights where:
 - nothing prophetic happens;
 - he wakes normally.
 
+This does **not** require a long gap. Several normal nights / enough lived time to establish the old predictive system is over can be sufficient.
+
 That silence is meaningful.
 
 It tells the audience:
@@ -501,32 +503,42 @@ Their relationship is already changing before Ori physically appears.
 
 ---
 
-# 16. The family can turn the Ori mystery into a shared search problem
+# 16. The Ori mystery is shared before the final locating dream
 
-Mau should still be the one who becomes Ori's first anchor / actively finds her.
+Mau should still become Ori's first anchor / actively find her.
 
-But that does not require him to secretly run away after a dream.
+The household knows about the recurring unknown girl **before** Mau knows exactly where she is.
 
-A healthier current shape:
+Early phase:
 
 ```text
 Ori dreams begin
 → Mau tells Frieren / trusted household
-→ details are recorded
-→ Anko / Rimuru / scouts / others help compare geography or clues
-→ household debates whether the girl is real
-→ enough evidence accumulates
-→ Mau joins / leads a search
-→ Mau is the first person to reach Ori
+→ details are recorded / discussed
+→ nobody yet has enough location certainty to launch a search
 ```
 
-This protects the established emotional rule:
-> Mau came looking for her.
+Then, while Mau remains at the inn under recovery restrictions and scouts are away:
 
-While also proving:
-> Mau no longer confuses love with solitary responsibility.
+```text
+Mau naps
+→ hyperreal Ori dream
+→ location suddenly feels certain
+→ Mau moves immediately
+→ Frieren follows
+→ "I know where she is" / "Let's go"
+```
 
-This is an especially valuable post-Sukuna behavioral payoff.
+This is intentionally imperfect growth:
+- Mau still reacts impulsively;
+- but he is not hiding the phenomenon;
+- Frieren receives the truth immediately and chooses to go;
+- the household already understands why he moved.
+
+Frieren can quickly leave word / tell someone nearby without turning the moment into a committee meeting.
+
+The emotional rule is:
+> Mau can still act fast without carrying the entire truth alone.
 
 ---
 
@@ -568,12 +580,13 @@ relief meal
 → Rimuru/Mau and Yuta/Mau trust repair continues
 → physical recovery visibly progresses
 → several normal dreamless nights establish that Sukuna predictive dreams are over
-→ weeks of ordinary life / relationship stabilization
-→ first Ori dream
-→ Mau tells Frieren / trusted family rather than hiding it
-→ more dreams / clues
-→ shared analysis
-→ decision to search
+→ early Ori dreams begin relatively soon
+→ Mau tells Frieren / trusted family rather than hiding them
+→ scouting/future-home team leaves while Mau remains restricted at the inn
+→ Mau naps / receives qualitatively hyperreal locating dream
+→ Mau moves; Frieren follows
+→ scouts can discover strong future-home candidate in parallel
+→ Mau/Frieren find Ori
 → next block: Ori discovery / integration
 ```
 
@@ -595,8 +608,9 @@ Do not begin the actual Ori discovery until:
 - Mau/Frieren have had real ordinary couple-like life;
 - the social mesh has resumed;
 - scouting/future-home work is active again;
-- the pre-Sukuna predictive dreams have been silent for a meaningful stretch;
-- Mau has told others about the new dream instead of hiding it.
+- the pre-Sukuna predictive dreams have been silent long enough to establish separation;
+- Mau has told others about the early Ori dreams instead of hiding them;
+- Mau is stable enough to leave with Frieren even if the family still considers him under partial recovery restrictions.
 
 Then Ori can arrive into the story as:
 > a new person entering a family that has already learned something from almost losing one of its own.

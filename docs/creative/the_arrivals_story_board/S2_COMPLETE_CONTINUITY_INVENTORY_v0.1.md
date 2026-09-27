@@ -108,7 +108,10 @@ Early in S2:
 - the signal disappears almost immediately because Sukuna suppresses CE;
 - Yuta knows **Sukuna is here**;
 - Yuta does **not** know where Sukuna is or what he is planning;
-- the larger household does not yet understand the public catastrophe.
+- Yuta **immediately tells the established household/core** that he sensed Sukuna rather than irrationally sitting on the information;
+- because the signal vanished almost at once, they have no actionable location and cannot launch a meaningful pursuit;
+- ordinary life therefore continues under a known but unlocatable threat;
+- the household still does **not** know about the destroyed city or the coming public/social consequences until the rumors arrive.
 
 ## 2.3 Rumors and social deterioration — SHAPE CLEAR
 
@@ -2777,6 +2780,12 @@ Exact map/floorplans remain later-layer work.
 # 36. Ori is Season 2 — STRONG SHAPE / FLEXIBLE CLOSURE
 
 Ori is **S2, post-Sukuna**.
+
+Causal guardrail after the goddess challenge:
+- the **pre-Sukuna predictive-dream progression** is fully contained within the goddess/higher-entity challenge that ends with Mau's death/Second Chance;
+- Ori's later dream/search connector is **not automatically attributed to that same challenge**;
+- its provenance remains intentionally unknown for now rather than silently implying that the goddess simply continued sending the same test-dreams;
+- later cosmology can connect or distinguish the phenomena, but S2 does not need to answer that yet.
 
 Her arrival connector:
 

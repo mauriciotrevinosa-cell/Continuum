@@ -61,9 +61,19 @@ No need for a long artificial buffer if the emotional prerequisites have already
 
 The new home should be discovered through the reconnaissance system the household has been building all season.
 
+A particularly strong current shape is that Mau is **not even available to go** because he is still under informal family "house arrest" / recovery restrictions after Sukuna.
+
+That creates a useful payoff:
+- scouting continues without him;
+- the household proves it can function independently of Mau's physical presence;
+- Mau has to trust other people's judgment;
+- recovery consequences remain visible even near the end of the season;
+- the future home is found by the **family system**, not by protagonist destiny.
+
 A strong current shape:
 
-- an ordinary scouting/exploration route happens after the formalization;
+- an ordinary scouting/exploration route happens after the formalization or during the late post-Ori stretch;
+- Mau remains at the inn because Maomao/Yuta/Fern/Frieren/etc. still do not consider him ready for a serious expedition;
 - the finder does **not** have to be Mau;
 - a scout / small mixed team encounters a region that checks an unusual number of requirements;
 - rather than declaring "we found it" immediately, they take measurements/notes/sketches and return.
@@ -300,7 +310,7 @@ Ori discovery
 → Mau asks household for help
 → Mau/Frieren formalization
 → communal celebration
-→ routine scouting continues
+→ routine scouting continues while Mau is still partially restricted from serious field work
 → scout/mixed team finds unusually strong future-home candidate
 → returns with notes/maps
 → household evaluates

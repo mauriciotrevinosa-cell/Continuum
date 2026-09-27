@@ -3084,6 +3084,99 @@ Hollow Purple:
 
 ---
 
+# 39.5 Pass-C planning clock / calendar continuity — STRONG DIRECTION
+
+The current useful S2 clock remains approximately:
+
+```text
+S1 end / S2 opening                         ~Month 4
+opening fear + Bocchi + G3                  ~Month 4–5
+G3 integration / fortification              ~Month 5–6
+G4 convergence spread across lived time     ~Month 6–8
+G4 ordinary life / relationship runway      ~Month 8–10
+fatal-dream escalation + ~one-week prep      ~Month 10–11
+Sukuna battle + recovery                     ~Month 11-ish
+post-revival life / Ori / formalization      ~Month 11.5–13
+final site-search / long-term home choice    ~Month 13–14
+```
+
+These are **planning ranges, not locked dates**. Episodeization may move individual blocks.
+
+### Calendar must be visible, not narrated as a timeskip
+
+S2 should show elapsed time through:
+- changing weather/daylight;
+- seasonal clothing;
+- food availability / seasonal meals;
+- changes to roads, lake and scouting conditions;
+- the inn physically becoming more crowded/modified;
+- healed injuries and changed routines;
+- birthdays / small celebrations;
+- a local year-turn / New Year analogue;
+- relationships that have clearly existed for weeks/months rather than only between plot scenes.
+
+Calendar events do **not** each require a full episode.
+
+They can live inside:
+- arrivals;
+- work/scouting episodes;
+- relationship episodes;
+- recovery;
+- ordinary-life connectors.
+
+### Strong festival candidate: year-turn at the inn
+
+A strong combined calendar + world-state episode/sequence:
+
+- by the time most/all of G4 are living at the inn, the household learns that the local year-turn / New Year-like festival is approaching;
+- the nearby city/town is still socially unsafe or unwelcoming for a large visible Otherworlder group after Sukuna's city catastrophe;
+- rather than disguise the entire household and pretend the fear is gone, they decide to create a **smaller festival at the inn**;
+- everyone contributes according to personality: food, decorations, games, music, gifts, rituals, jokes, etc.;
+- the event can carry relationship runway (Bocchi/Kita, Mau/Frieren, Himmel integration, G4 ordinary life) while also marking that many months have passed;
+- the emotional undertone is bittersweet: they have built something joyful together because the outside world is not yet ready to receive them openly.
+
+This is a **strong episodeization candidate**, not a locked episode number.
+
+### Birthdays
+
+Birthdays should function as recurring life markers rather than mandatory standalone episodes.
+
+- S1 already contains Mau's first Continuum birthday in E15-era material.
+- Under the current S2-end target of Month ~13–14, Mau's **next birthday may fall just after S2**, depending on the final S1 birthday month.
+- Do **not** force Mau birthday #2 into S2 merely to prove a year passed.
+- If episodeization naturally extends S2 to the relevant date, it can occur in S2; otherwise it becomes a strong early-S3 marker.
+- Frieren's birthday and other meaningful birthdays can appear as scenes, subplots or partial-episode material if/when the final calendar supports them.
+- Not every cast member needs a birthday episode.
+
+### Supply / logistics after the Bocchi incident
+
+Once the mercantile relationship deteriorates, the expanded household cannot keep behaving as though ordinary town errands are unchanged.
+
+Required world-continuity direction:
+- direct vulnerable-person trips into the hostile town decrease sharply;
+- the household diversifies supply through trusted merchants/intermediaries, scouting routes, hunting/fishing/foraging, guild/work income where safely accessible, and other practical sources already available to the setting;
+- Rimuru's budgeting/logistics role becomes more important as the household grows;
+- the inn is **not instantly self-sufficient**;
+- supply pressure is another reason a safer long-term site with water/resources/routes matters.
+
+Exact economy and food quantities belong to episode/worldbuilding detail.
+
+### Otherworlder reputation does not reset after the S2 Sukuna battle
+
+The protagonists stopping/surviving Sukuna does **not** magically erase public fear.
+
+Most outsiders will not possess the audience's full tactical truth.
+
+Therefore through late S2:
+- some individuals/merchants can become sympathetic;
+- rumor about the inn can attract displaced Otherworlders;
+- fear, suspicion and political anxiety can still coexist with those positive contacts;
+- the household can become more visible while remaining socially precarious.
+
+This tension should carry into the decision to establish a safer long-term home.
+
+---
+
 # 40. Micro-continuity requirement
 
 S2 must not become only major beats.

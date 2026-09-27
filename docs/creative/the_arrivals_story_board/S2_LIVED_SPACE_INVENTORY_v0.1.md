@@ -2709,3 +2709,534 @@ The cumulative effect should be:
 - newer arrivals help;
 - relationships cross generations;
 - every wave expands the number of people capable of welcoming the next one.
+
+
+# 38. G3→G4 bridge lived-space pass — PROPOSAL / DETAILS OPEN
+
+This block begins only after G3 has ceased to feel socially new.
+
+The goal is not:
+> introduce G4 as fast as possible.
+
+The goal is:
+> let the now-larger household continue living while several different reunion paths begin converging toward it.
+
+G4 should feel like **the world finding the household**, not the writers opening the next roster page.
+
+---
+
+## 38.1 Starting household state
+
+By this point:
+- G3 participates in chores/work without newcomer framing;
+- the inn has expanded somewhat but is still imperfect/crowded;
+- the Contract has become materially real;
+- scouting/future-home search continues;
+- Bocchi/Kita are reconnecting;
+- Momo/Okarun memory recovery is underway rather than frozen;
+- Mau/Coco sibling-like closeness has begun;
+- Mikasa, Umaru, Wakana, Kita, Okarun and Coco all have at least one relationship lane beyond their easiest source-world attachment;
+- the house has recurring common-room / dinner / entertainment habits.
+
+This matters because G4 should arrive into an already-evolved social organism.
+
+---
+
+# 39. Parallel G4 interludes begin before convergence
+
+Do not wait until an arrival is one day away to show them.
+
+Possible parallel threads:
+
+### Maki
+- alone;
+- competent;
+- understands quickly that this is not her old world;
+- may hear fragmented Otherworlder rumors / learn about routes;
+- does not need rescue;
+- moves with purpose rather than wandering indefinitely.
+
+### Stark
+- Frieren and Fern disappeared from his perspective;
+- he tries to continue normally;
+- favored breakfast setup remains available;
+- Continuum takes him before he gets the first bite;
+- his early thread can mix comedy with real concern.
+
+### Agott
+- actively searching;
+- moving intelligently;
+- using magic/mobility where source-compatible;
+- gradually acquiring clues that Qifrey/Coco may be nearby.
+
+### Hakari / Karane / Shizuka / Nano
+- appear as an already-connected mini-group;
+- comparatively vulnerable to Continuum wilderness;
+- can receive short survival/comedy beats before Maki encounters them.
+
+### Himmel
+- should exist in parallel before his arrival;
+- he has not yet found the household;
+- later rumor fragments increasingly point him toward Frieren;
+- **his convergence is intentionally delayed until after Mau has received at least one clearly Sukuna-related dream, if runway allows.**
+
+The audience therefore knows several lives are moving even while the inn is doing ordinary things.
+
+---
+
+# 40. Early G4 convergence should be staggered by ordinary life
+
+Avoid:
+
+```text
+Maki arrives
+→ next scene Stark
+→ next scene four girls
+→ next scene Agott
+→ next scene Himmel
+```
+
+Preferred rhythm:
+
+```text
+arrival/reunion
+→ household absorbs consequence
+→ ordinary days
+→ work/outings/relationship development
+→ another external interlude
+→ next convergence
+```
+
+Some convergence events can overlap in the same larger story period, but the household needs time to metabolize them.
+
+---
+
+# 41. Maki — favored first major G4 convergence
+
+Maki remains one of the strongest candidates to arrive first or among the first.
+
+## 41.1 The reunion should begin privately before becoming communal
+
+Yuta recognizes Maki.
+
+Their premise is not a young unfinished romance.
+
+They remember:
+- a shared full life;
+- family/descendants;
+- growing old;
+- Maki's eventual death;
+- a relationship they believed had already reached its natural ending.
+
+The reunion should therefore not immediately become:
+- screaming;
+- lore dump;
+- everyone surrounding them.
+
+A stronger first response is disbelief followed by quiet confirmation.
+
+The household can notice that Yuta is different before they fully understand why.
+
+## 41.2 The house gives them space without disappearing
+
+Important social-mesh rule:
+
+Giving Yuta/Maki privacy does not mean everyone else vanishes from the story.
+
+Possible:
+- someone handles food;
+- someone quietly changes sleeping arrangements;
+- Rimuru understands quickly that this is not a normal arrival;
+- Mau sees Yuta's reaction and does not intrude;
+- later Maki is introduced over dinner rather than through a formal council.
+
+The family knows when to make room.
+
+## 41.3 Maki must become a resident before becoming an adviser
+
+After the reunion:
+- she eats with people;
+- learns the house;
+- works/trains;
+- meets Mikasa/Yuta in practical contexts;
+- observes Mau/Frieren;
+- talks to Fern/Bocchi/Momo/Anko/etc.;
+- joins common-room life.
+
+Do not immediately turn her into:
+> relationship therapist for Frieren and Mau.
+
+Her later insight only works if she first becomes **Maki who lives here**.
+
+---
+
+# 42. Ordinary life after Maki
+
+Give the reunion breathing room.
+
+Candidate material:
+- Maki reacting to the size/chaos of the household;
+- Yuta and Maki doing something painfully ordinary together after an impossible reunion;
+- someone younger asking a tactless question about their old life;
+- Maki helping with physical work and discovering that the inn already has its own rhythms;
+- Mikasa/Yuta/Maki sharing training or practical work without becoming a trauma circle;
+- Maki watching Yuta interact with his new family and realizing he genuinely built another life here.
+
+A particularly valuable beat:
+> Yuta and Maki do not need to "restart" their love from zero; they need to learn what it means to receive extra time after a life they thought was complete.
+
+This should remain quiet and strange before it becomes philosophical.
+
+---
+
+# 43. Stark — another early convergence with a different emotional temperature
+
+Stark should arrive separately and should not be swallowed by Maki's reunion.
+
+Preferred source-continuity flavor remains:
+- Fern disappeared;
+- Frieren disappeared afterward;
+- Stark assumes Frieren probably went after Fern;
+- he tries to distract himself / enjoy a rare luxurious breakfast;
+- closes his eyes;
+- Continuum removes the breakfast/world from under him before the first bite.
+
+This thread can be shown before he reaches the inn.
+
+## 43.1 Reunion structure
+
+Frieren/Fern/Stark need their own reunion.
+
+Mau can step slightly back, but he does not emotionally exile himself as he might have in early S1.
+
+Frieren notices.
+
+Fern notices.
+
+They can both be visibly pleased/proud to introduce Mau.
+
+The humor of:
+> Frieren and Fern essentially presenting Mau to Stark
+
+remains strong.
+
+Mau/Stark:
+- mutual awkwardness;
+- no rivalry;
+- no immediate deep bond required.
+
+Then they eat.
+
+Hamburg steak remains a favored callback candidate.
+
+## 43.2 Stark also has to meet the *whole* house
+
+After the emotional reunion:
+- Kita may know Frieren/Fern only through household stories;
+- Coco can be curious;
+- Marin/Momo/Umaru bring very different social energy;
+- Mikasa may recognize another fighter but not automatically bond through combat;
+- Rimuru/Yuta can interact with him normally;
+- Bocchi can be socially terrified by another new person despite having lived through several arrivals.
+
+Stark should realize:
+> Frieren and Fern did not simply find Mau. They joined a whole new family.
+
+---
+
+# 44. Maki / Stark overlap does not need to become a "G4 pair"
+
+Because both are early arrivals, they may naturally share:
+- meals;
+- work;
+- newcomer confusion;
+- watching the bizarre household.
+
+They do not need a special relationship.
+
+This is a useful example of the minimum-contact principle:
+they know each other because they live together, not because the plot assigns them a duo.
+
+---
+
+# 45. The four girlfriends — lower-stakes convergence through Maki
+
+After Maki has had real time at the inn, she can encounter:
+- Hakari Hanazono;
+- Karane Inda;
+- Shizuka Yoshimoto;
+- Nano Eiai.
+
+They should not need a long survival odyssey.
+
+A favored setup:
+- Maki is outside for a practical reason;
+- they are relatively near the settlement / route;
+- wilderness danger makes their situation genuinely bad;
+- Maki intervenes and brings them in.
+
+## 45.1 First response = hospitality, not interrogation
+
+The entire household helps.
+
+G3 does not monopolize reception.
+
+Possible natural help:
+- Rimuru organizes immediate logistics;
+- Maomao checks health;
+- Wakana/Marin help with clothes/bedding;
+- G3 members explain things they recently learned;
+- Fern/Bocchi/Coco/Umaru understand newcomer confusion from different angles;
+- Anko/Momo help socially;
+- Mau/Frieren/Yuta/Maki answer only what is necessary that first night.
+
+Feed them.
+
+Let them sleep.
+
+Explain more tomorrow.
+
+## 45.2 Their social function
+
+The four add:
+- civilian vulnerability;
+- romance/comedy;
+- social texture;
+- another already-existing relationship network entering Continuum.
+
+Do not immediately turn all four into:
+- Mau relationships;
+- combat systems;
+- exposition recipients.
+
+Their preexisting dynamics should survive.
+
+---
+
+# 46. Agott — Witch Hat family expands after Coco has already changed
+
+Agott's arrival becomes stronger if Coco already:
+- trusts Mau;
+- studies in a mixed household environment;
+- has Fern/Bocchi/Umaru/etc. relationships;
+- no longer exists only beside Qifrey.
+
+Agott therefore does not "restore Coco to normal."
+
+She finds:
+> Coco has built more family while still remaining Coco.
+
+Favored approach:
+- Agott actively searches;
+- recognizes Qifrey/Coco from a distance;
+- reaches them during some ordinary work/study moment.
+
+The Qifrey delayed-recognition gag remains available:
+- Qifrey initially treats Agott as if she simply belongs in the task;
+- then realizes;
+- Coco/Agott stare/laugh.
+
+## 46.1 Mau / Agott should not be instant friendship
+
+Good opportunity for nonuniform chemistry.
+
+Agott can initially be:
+- suspicious of Mau;
+- protective of Coco;
+- skeptical of how quickly Coco trusts this strange boy / household;
+- unimpressed by some of his habits.
+
+Mau does not need to win her over in one conversation.
+
+Over time:
+- she sees how he treats Coco;
+- they may develop practical respect;
+- disagreement/teasing can remain.
+
+This is useful because "everyone likes Mau immediately" would flatten the ensemble.
+
+---
+
+# 47. Small predictive dreams begin underneath early G4 life
+
+The dream progression can begin before G4 is complete.
+
+Do not announce:
+> Mau has prophetic dreams now.
+
+Start small.
+
+Candidate early dreams:
+- a weird breakfast arrangement;
+- a line someone says at dinner;
+- a dropped/broken household object;
+- unexpected rain during an outing;
+- someone returning with a specific injury/scratch;
+- a merchant arriving with a particular object;
+- a scene Mau assumes is meaningless.
+
+Then it happens days later.
+
+At first:
+- coincidence;
+- déjà vu;
+- Mau may not tell anyone;
+- he records/mentally tracks it only after repetition.
+
+The dreams should coexist with happiness.
+
+That contrast matters.
+
+---
+
+# 48. The first clearly Sukuna-related dream
+
+Before Himmel reaches the inn, preferred current direction is that Mau receives **at least one dream that unmistakably connects to Sukuna**.
+
+This does not need to be the full fatal binary.
+
+Possible level of information:
+- Sukuna silhouette/body state;
+- cursed-energy sensation remembered through Yuta;
+- a recognizable fragment of the future battlefield;
+- Frieren present but not yet visibly dying;
+- Mau waking with enough detail to know this is not another household coincidence.
+
+Important:
+- Mau does **not** yet know when;
+- may not know where;
+- may not know whether the dream is literal;
+- may not yet tell Yuta/Rimuru;
+- this is the moment the dream phenomenon stops being merely strange and becomes frightening.
+
+The exact dream image should be designed later with the battle choreography in mind.
+
+---
+
+# 49. Frieren before Himmel — feeling exists before definition
+
+By the time Himmel arrives:
+- Frieren's closeness with Mau is already obvious in behavior;
+- she seeks him / rests against him / expects him in routines;
+- she has jealousy/protectiveness/intimacy signals that she does not yet categorize cleanly;
+- she does **not** need Himmel to create these feelings.
+
+Her problem is:
+> what exactly is this, and what does choosing someone romantically mean?
+
+The house may understand more than she does.
+
+Fern especially can recognize that something is different without forcing Frieren to name it.
+
+Meanwhile Mau has already had the first Sukuna-related warning.
+
+This creates intentional asymmetry:
+- Frieren is starting to understand she wants a future with Mau;
+- Mau has begun seeing evidence that the future may contain Sukuna.
+
+---
+
+# 50. Himmel's road thread before arrival
+
+Himmel should receive enough parallel presence that his convergence feels chosen.
+
+Possible progression:
+1. ordinary travel / helping people because he is Himmel;
+2. hears broad Otherworlder rumors;
+3. later hears of the remote settlement;
+4. eventually hears a description that unmistakably suggests Frieren;
+5. chooses to follow it.
+
+His approach can span multiple interludes.
+
+He should not teleport emotionally from:
+> alive somewhere
+
+to:
+> standing outside Frieren's house.
+
+This preserves agency.
+
+---
+
+# 51. Himmel arrives into a household that already has a history without him
+
+This is essential.
+
+When Himmel finally arrives:
+- G3 is family;
+- Maki has had time with Yuta;
+- Stark has ideally already reunited with Frieren/Fern;
+- Coco/Agott may already be reunited depending final order;
+- the four girls may already be settling;
+- the house has grown physically/socially;
+- Mau/Frieren intimacy is ordinary;
+- Mau has already received a Sukuna-related dream.
+
+Himmel therefore encounters:
+> not a frozen continuation of his old party, but Frieren's new life.
+
+That is what gives the reunion emotional weight.
+
+---
+
+# 52. Current preferred G4 braid — OPEN ORDER
+
+A useful current **working** braid is:
+
+```text
+G3 socially integrated
+→ parallel G4 interludes begin
+→ Maki converges
+→ Yuta/Maki reunion + ordinary life
+→ Stark thread/convergence
+→ Frieren/Fern/Stark reunion + ordinary life
+→ Maki finds/rescues four girlfriends (placement flexible)
+→ Agott continues searching / converges (placement flexible)
+→ household absorbs each arrival through ordinary life
+→ small predictive dreams begin and repeat
+→ Mau becomes convinced they are not random
+→ first clearly Sukuna-related dream
+→ Himmel's rumor trail finally points clearly to Frieren
+→ Himmel converges
+→ next block: Himmel/Frieren/Mau + Maki/Frieren + broader G4 ordinary-life integration while dreams continue escalating
+```
+
+Open:
+- four-girl rescue may occur before Stark;
+- Agott may arrive before or after Stark/four girls;
+- small dreams may begin slightly earlier/later;
+- exact amount of time between convergence events.
+
+Strong:
+- Maki and Stark remain among the first G4 convergence events;
+- G4 is not a conveyor belt;
+- at least one Sukuna-related dream before Himmel remains preferred;
+- Himmel still receives substantial pre-battle runway.
+
+---
+
+# 53. G4 reception social-mesh rule
+
+Every G4 arrival should create **several relationships at once**.
+
+Do not write:
+> Maki arrives → Yuta scene only.
+
+Instead:
+- Yuta/Maki is the emotional center;
+- the household adjusts around them;
+- other people form first impressions;
+- practical problems appear;
+- later scenes distribute Maki into the network.
+
+Same for:
+- Stark;
+- Agott;
+- four girlfriends;
+- Himmel.
+
+G1/G2/G3 all remain active.
+
+The point of accumulated family is:
+> every new person enters more relationships than the one that brought them to the story.

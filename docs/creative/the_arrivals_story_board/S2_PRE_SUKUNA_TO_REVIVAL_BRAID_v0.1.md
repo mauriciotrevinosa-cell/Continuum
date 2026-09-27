@@ -1381,11 +1381,89 @@ Not:
 
 This needs to affect Mau going forward.
 
+## 36.1 Rimuru tries to confess his part in the Contract
+
+Rimuru's guilt should not remain abstract.
+
+After Mau is awake and medically stable enough for difficult conversation, Rimuru eventually tries to tell the others that:
+- Mau asked for the non-interference contingency;
+- Rimuru understood what it meant;
+- Rimuru **agreed voluntarily**.
+
+Rimuru is prepared to take responsibility.
+
+Mau interrupts him before the confession turns into:
+> this was Rimuru's fault too.
+
+Mau's position is not that Rimuru did nothing.
+
+It is:
+> I asked him. I pushed for it. I knew what I was asking.
+
+Mau should not erase Rimuru's agency either.
+
+A more truthful emotional shape:
+- Rimuru says he chose to agree;
+- Mau says the choice existed because Mau put him in that impossible position;
+- both are responsible for different parts;
+- neither gets to absorb all blame to protect the other.
+
+This allows the household to be angry at the **decision structure**, not search for one villain.
+
+Rimuru's guilt remains after this conversation.
+Being forgiven immediately would cheapen it.
+
+## 36.2 Anko is furious because she cares
+
+Anko should receive a real reaction.
+
+Not hatred.
+
+Not:
+> I no longer trust you / get out.
+
+More like:
+> What the hell were you thinking?
+
+Her anger can be sharper precisely because she is often observant, dry, teasing and emotionally controlled.
+
+She has watched Mau become part of this family.
+
+From her perspective:
+- he knew people loved him;
+- he still decided they could survive his absence;
+- he denied them the chance to argue with that decision.
+
+This can produce one of the more direct post-revival confrontations.
+
+Anko does not need to cry or become sentimental to prove she cares.
+
+A strong version is that she gets visibly angry first, then later resumes some ordinary behavior with Mau before the anger is fully gone.
+
+That demonstrates:
+> being furious with someone and still loving them can coexist.
+
+## 36.3 Other anger should remain differentiated
+
+Possible:
+- Fern: anger at Mau **and** the people who knew;
+- Bocchi: fear first, anger later;
+- Umaru: more likely clinginess/withdrawal before she can articulate anger;
+- Coco: confusion/hurt about why Mau thought leaving was acceptable;
+- Yuta: anger may emerge only after the medical emergency ends;
+- Maki: anger at the partial truth and at being asked to contain Frieren without knowing the real stakes;
+- Rimuru: anger at Mau mixed with self-blame;
+- Frieren: the emotional center, but not the only person wounded.
+
+Do not force one family confrontation where everyone takes turns scolding Mau.
+
+Let consequences surface over multiple days/scenes.
+
 ---
 
 # 37. First communal return-to-life beat — AFTER REUNIONS / ANGER / BASIC RECOVERY
 
-A large meal remains a powerful endpoint for this giant block, but it should happen **well after the initial awakening**.
+A large meal remains a powerful endpoint for this giant block, but it should happen **well after the initial awakening** — potentially days later depending the final recovery clock.
 
 Between:
 ```text
@@ -1405,6 +1483,17 @@ there should be:
 
 Only then does the communal meal land as:
 > we can finally all sit at the same table again.
+
+This meal does **not** mean:
+- everyone has forgiven Mau;
+- Rimuru's guilt is gone;
+- Frieren's anger is resolved;
+- Fern/Anko/Bocchi/Umaru/Coco have processed everything.
+
+For that evening, the dominant feeling is simply:
+> Mau is here.
+
+The family can deliberately choose joy for one meal while the wounds remain.
 
 A large meal after enough recovery remains a powerful endpoint for this giant block.
 
@@ -1502,9 +1591,11 @@ Maki #1 + Yuta reunion
 → Frieren kiss + "I love you"
 → Yuta wakes/rests and discovers Mau alive while Frieren is already talking with him normally
 → staggered household reunions / Umaru, Fern, Bocchi, Coco, Maomao, Rimuru, others
-→ anger / promise / wider family processing
+→ Rimuru attempts to disclose his voluntary Contract role; Mau stops him from carrying all blame
+→ Anko confronts Mau hard because she cares
+→ Frieren / Fern / wider household anger continues across separate scenes
 → basic physical reintegration
-→ communal meal / hand-holding
+→ communal meal days later if needed: joy without full forgiveness / hand-holding
 → post-Sukuna life
 ```
 

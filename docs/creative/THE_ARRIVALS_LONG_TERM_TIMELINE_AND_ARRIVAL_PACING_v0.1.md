@@ -94,8 +94,10 @@ S1 already contains Mau's first birthday celebration in Continuum.
 
 Strong direction:
 - S2 should contain enough calendar/slice-of-life material that another year passing does not feel invisible;
-- S3 can include Mau's **second birthday after the S1 birthday**, depending on final month accounting;
-- do not force exact birthday numbering until the final chronology pass.
+- because S1's first Mau birthday occurs relatively late in S1 and the current S2 endpoint is ~Month 13–14, Mau's **next birthday is not automatically inside S2**;
+- if final episodeization extends the clock far enough, it can occur in S2; otherwise it becomes a strong early-S3 calendar marker;
+- do not force the date merely to prove that time passed;
+- Frieren's birthday and other meaningful birthdays can be embedded as scenes/subplots when the final calendar supports them rather than each becoming a dedicated episode.
 
 The important rule is that birthdays become recurring continuity markers rather than one-off episodes.
 
@@ -114,6 +116,12 @@ Use some of that space for:
 - household traditions;
 - changes in clothing/weather/food;
 - small annual callbacks.
+
+Strong S2 candidate:
+- after G4 is substantially integrated, the group learns a local year-turn / New Year-like festival is approaching;
+- because public Otherworlder fear remains active, a large trip into town is unsafe/unwelcome;
+- the household creates its own smaller festival at the inn;
+- this simultaneously marks calendar time, provides ensemble life, and shows that the outside world is still not ready to receive them openly.
 
 This helps the audience believe the group has lived together for many months before Sukuna/post-Sukuna/Ori/new-home events conclude.
 

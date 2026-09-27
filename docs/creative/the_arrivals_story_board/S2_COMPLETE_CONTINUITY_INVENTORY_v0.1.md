@@ -576,6 +576,17 @@ Early use remains modest:
 - temporary restrictions;
 - limited exchanges/costs.
 
+The first Okarun enforcement demonstration should establish both **danger and possibility**:
+- forcing a breach can hurt;
+- careless terms could be dangerous;
+- Contracts are powerful enough to deserve caution.
+
+It should also open questions that remain unanswered at first, including whether Contracts can bind:
+- native ↔ native;
+- Otherworlder ↔ native;
+- only Otherworlders;
+and how expiry, dissolution, impossible conditions or exchange-type terms might work.
+
 Later Contracts may become more complex.
 
 Guardrail:
@@ -964,6 +975,16 @@ The important macro point is:
 # 13. G4 integration functions
 
 ## Himmel
+
+**Current placement preference:** at least one **clearly Sukuna-related predictive dream may occur before Himmel reaches the inn**, after earlier small dreams have begun establishing credibility. The full recurring fatal binary does not need to be established yet.
+
+This allows:
+- Frieren's romantic feeling for Mau to pre-exist Himmel's return;
+- Himmel to force understanding/definition rather than create the feeling;
+- Mau to carry a private Sukuna warning underneath the reunion arc.
+
+This preference remains subordinate to Himmel's required pre-battle runway. If calendar/episodeization proves too compressed, spacing may shift while preserving the emotional principle.
+
 Himmel must have enough time before Sukuna for:
 - reunion with Frieren;
 - asking Frieren to talk;
@@ -1087,6 +1108,8 @@ Do **not** resolve these as exact scenes/dialogue yet.
 # 14. Mau has relational gravity, not narrative monopoly — ACTIVE S2 RULE
 
 The cast must become a **network**, not Mau with spokes.
+
+**Network-density refinement:** the network should not itself become a collection of isolated two-person relationships. Household scenes can carry several overlapping relationships at once. Over sufficient lived time, long-term residents should generally acquire at least some recognizable chemistry/contact with one another, even when that chemistry is awkward, practical, distant or initially negative. This is not a requirement that everyone become friends.
 
 Important examples already discussed:
 - Frieren — central romantic partner direction;
@@ -3276,8 +3299,10 @@ S1 Sukuna catastrophe
 → Maki converges alone; Yuta/Maki reunion
 → Maki rescues Hakari/Karane/Shizuka/Nano near the inn
 → Stark converges and reunites with Frieren/Fern
+→ Agott / other G4 convergence continues
+→ small predictive dreams can begin underneath ordinary life
+→ at least one clearly Sukuna-related dream is preferred before Himmel reaches the inn
 → Himmel deliberately follows rumors that point him toward Frieren
-→ Agott actively finds Qifrey/Coco
 → G4 becomes daily-life cast over time
 → dates / girls' outings / ordinary group stories overlap instead of becoming isolated character modules
 → Bocchi/Kita becomes explicit; Mau helps indirectly alongside Momo/Marin/others

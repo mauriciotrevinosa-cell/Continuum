@@ -2781,11 +2781,12 @@ Exact map/floorplans remain later-layer work.
 
 Ori is **S2, post-Sukuna**.
 
-Causal guardrail after the goddess challenge:
+Causal rule after the goddess challenge:
 - the **pre-Sukuna predictive-dream progression** is fully contained within the goddess/higher-entity challenge that ends with Mau's death/Second Chance;
-- Ori's later dream/search connector is **not automatically attributed to that same challenge**;
-- its provenance remains intentionally unknown for now rather than silently implying that the goddess simply continued sending the same test-dreams;
-- later cosmology can connect or distinguish the phenomena, but S2 does not need to answer that yet.
+- Mau's **death + direct conversation with the goddess/higher entity** are what cause / create the later Ori phenomenon;
+- Ori therefore functions as an additional **reward / consequence of completing the challenge**, alongside Mau's revival through Second Chance;
+- Mau does not consciously remember the divine conversation, so when Ori-related dreams begin he does not understand why they are happening;
+- the exact metaphysical mechanism by which the goddess creates/brings Ori remains later-layer cosmology, but the causal source is now defined.
 
 Her arrival connector:
 

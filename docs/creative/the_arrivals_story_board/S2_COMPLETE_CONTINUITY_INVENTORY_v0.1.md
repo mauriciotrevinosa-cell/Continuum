@@ -3152,7 +3152,7 @@ Many items that were previously listed as “gaps” are now **later-layer work*
 
 The remaining **true macro/story-logic gaps** are:
 
-> **Current status:** after the latest Sukuna resolution, only the Mau/Frieren formalization remains a blocking macro decision. The other numbered items below are resolved or non-blocking placement/detail work.
+> **Current status:** the previously blocking Sukuna mechanics and Mau/Frieren formalization are now macro-resolved. Remaining items below are non-blocking placement/detail/life work pending the final S2 audit.
 
 ## 42.1 Contract system seeding — MACRO RESOLVED
 
@@ -3264,47 +3264,44 @@ Remaining details are later-layer work:
 - exact move-by-move choreography;
 - exact wording of The Noise's merge message.
 
-## 42.4 Post-Sukuna Ori arc — MACRO SHAPE RESOLVED / PEDIDA STILL OPEN
+## 42.4 Post-Sukuna Ori arc + Mau/Frieren formalization — MACRO RESOLVED
 
-Ori itself is no longer a structural story gap.
+Ori's arc remains macro-resolved.
 
-Resolved macro chain:
+The previously open Mau/Frieren formalization is now also resolved.
+
+Favored macro:
 
 ```text
-Mau dreams of unknown girl
-→ searches
-→ finds Ori
-→ Mau becomes Ori's first Continuum anchor
-→ ordinary closeness / Ori increasingly stays near Mau
-→ Frieren experiences quiet jealousy; Bocchi/Umaru notice the closeness
-→ girls pull Mau into conversation
-→ Mau tells how he met Ori without revealing the dreams
-→ girls ask how he formally asked Frieren to be his girlfriend/partner
-→ Mau realizes he never did
-→ Ori realizes the relationship may not have been explicitly formalized
-→ Ori explores her romantic possibility more actively
-→ Ori eventually confesses
-→ Mau cares deeply but cannot reciprocate romantically
-→ real hurt / emotional confrontation
-→ Mau recognizes that the difference is that he is romantically in love with Frieren
-→ Ori/Mau resolve into chosen family
-→ Ori/Frieren develop an independent bond
+Rimuru lures Frieren away with a grimoire opportunity
+→ Mau gathers the household and asks for help
+→ "I want to ask Frieren to be my girlfriend"
+→ family reacts with "finally / weren't you already?"
+→ everyone inserts themselves into preparation
+→ Bocchi + Umaru + Coco perform a fake protective-sibling investigation, with Wakana-made detective outfits
+→ Fern helps get Frieren ready / on time
+→ Hakari + Karane + Shizuka + Nano form a chaotic romance-advice panel for Mau
+→ Marin + Momo lead decorations
+→ Mau insists the actual question happen where he and Frieren first met
+→ wider household contributes according to personality
+→ Mau asks everyone for privacy
+→ many hide nearby anyway
+→ Mau explicitly tells Frieren he loves her and asks her to be his girlfriend
+→ Frieren explicitly chooses him / says yes
+→ embrace/kiss as final staging allows
+→ hidden family erupts in celebration
+→ major communal dinner at the inn
 ```
 
-The arc may close wherever pacing needs it; it does not have to resolve immediately after Ori arrives.
+Core emotional purpose:
 
-Remaining scene-level work:
-- exact dream/search;
-- exact domestic Ori/Mau beats;
-- exact jealousy beats;
-- exact girls-conversation dialogue;
-- exact confession and recovery.
+> The place where Mau's remembered life began becomes the place where he consciously chooses his romantic future.
 
-Remaining **macro relationship decision**:
-- the eventual Mau/Frieren pedida / formalization itself.
+This is not a marriage proposal. It formalizes the relationship they were already living and resolves the question created by the Ori arc.
 
-That beat is now well seeded but still must be designed.
+Later engagement/marriage milestones remain future material.
 
+Exact dialogue, detective questions, outfits, decorations, kiss choreography and dinner comedy are later scene-level work.
 ## 42.5 Relocation / future-home decision and S2 endpoint — MACRO RESOLVED
 
 The future-home decision and season handoff are now structurally resolved.

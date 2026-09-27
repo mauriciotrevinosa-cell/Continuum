@@ -90,7 +90,10 @@ The G3 integration block is the ideal place to prevent that narrowing before it 
 
 # 3. Relationship lanes worth deliberately exercising
 
-These are not fixed cliques. They are overlapping lanes that can generate stories.
+These are not fixed cliques and are **not exhaustive**. They are examples of overlapping lanes that can generate stories.
+
+Important refinement:
+> the household should not be designed as isolated pairings/lanes. Group scenes may contain several relationships at once, and over enough lived time almost every established resident should develop at least some recognizable chemistry/contact with the others — positive, awkward, practical, distant or conflicted.
 
 ### Home / family lane
 Frieren, Mau, Fern, Bocchi, Rimuru, Umaru — with others constantly entering/leaving.
@@ -282,6 +285,8 @@ Some relationships can remain:
 - undeveloped until later.
 
 The network becomes believable through **uneven closeness**, not universal intimacy.
+
+However, uneven closeness should not become accidental nonexistence. If two long-term residents have effectively never interacted, check whether that is intentional or whether the social mesh needs a small connective beat.
 
 ---
 

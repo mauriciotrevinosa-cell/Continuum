@@ -2638,3 +2638,74 @@ When this block is eventually divided into episodes, preserve the following **fu
 15. G3 integration ends invisibly through habits, not ceremony.
 
 No fixed episode count follows from this list.
+
+
+# 36. Momo / Okarun memory recovery — STRONG DIRECTION / DETAILS OPEN
+
+The `Who are you?` reunion should hurt and breathe, but it should **not remain unresolved for the entire season**.
+
+Preferred shape:
+- immediate arrival: Okarun does not recognize Momo;
+- early integration: he knows she knows him, but his emotional memory is absent/incomplete;
+- ordinary coexistence creates small familiarity;
+- Rimuru/Raphael or another appropriate household member can investigate whether Continuum/Synchronization is interfering with memory access;
+- exact mechanism remains open and should not become a magical instant-fix;
+- fragments begin returning gradually;
+- speech habits / naming conventions can shift before full emotional recovery;
+- eventually Okarun genuinely remembers Momo during the G3 integration / early post-integration stretch rather than near the end of S2.
+
+A useful behavioral progression may be:
+
+```text
+"Momo" because that is the name he has been told / she uses
+→ a more formal/distanced "Miss Ayase" while he tries to understand who she is
+→ involuntary familiarity / remembered reactions
+→ specific memories return
+→ "Momo" again, now carrying actual recognition
+```
+
+Exact wording is not locked.
+
+The important point is:
+> memory recovery should feel like a relationship returning in pieces, not a switch flipping.
+
+This mini-arc can include:
+- Okarun noticing that he already knows how Momo will react to something;
+- a joke/reference landing before he understands why;
+- physical/behavioral familiarity preceding explicit memory;
+- Momo learning not to force him to become the version she remembers instantly.
+
+By the time G4 is substantially underway, Momo/Okarun should no longer be defined primarily by the memory gap.
+
+---
+
+# 37. G4 reception is whole-household continuity — STRONG DIRECTION
+
+G3 helping receive G4 is a **continuity payoff**, not a handoff of responsibility from G1/G2.
+
+When G4 begins converging:
+- G3 can naturally explain routines because they recently learned them;
+- G1/G2 continue providing food, rooms, comfort, logistics, judgment, medical care, security and emotional support;
+- who helps whom should depend on chemistry, circumstance and competence, not generation labels.
+
+Examples:
+- Fern/Bocchi can help with rooms/comfort;
+- Rimuru with logistics;
+- Maomao with health;
+- Anko/Momo with orientation/social context;
+- Yuta/Mikasa with safety;
+- Qifrey/Coco with magic-specific arrivals;
+- Mau/Frieren with people who naturally gravitate toward them;
+- G3 members may step in because they remember exactly what being newly arrived felt like.
+
+The desired feeling is:
+> **the household receives G4 together.**
+
+Do not stage G4 as:
+> G1/G2 step back so G3 can become the new reception team.
+
+The cumulative effect should be:
+- older arrivals help;
+- newer arrivals help;
+- relationships cross generations;
+- every wave expands the number of people capable of welcoming the next one.

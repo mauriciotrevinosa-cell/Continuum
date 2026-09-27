@@ -142,9 +142,26 @@ Possible consequences already established:
 
 The nearby mercantile relationship deteriorates gradually rather than flipping instantly.
 
+The deterioration should be cumulative:
+- increasingly awkward service;
+- staring / murmuring;
+- pressure to move along if they are not actively buying;
+- inconsistent treatment between different locals;
+- sympathetic people who remain willing to help.
+
+Before the Bocchi incident, the household can already begin debating whether remaining near the mercantile town is sustainable:
+- some fear the inn may increasingly be viewed as an enemy concentration;
+- some worry that their presence could place nearby civilians at risk;
+- rumors may claim that monsters/anomalies are appearing more frequently near Otherworlders, but this is **not yet confirmed as a world rule**;
+- continued arrivals also raise the practical question of whether the current inn/nearby settlement is large enough long-term.
+
+The group does **not** agree to relocate yet.
+
 Frieren initially prefers reducing unnecessary friction.
 
 Rimuru can argue that coexistence should not be abandoned without trying to preserve it.
+
+A short false-calm period can then make remaining feel plausible before the Bocchi incident becomes the decisive personal breaking point.
 
 ---
 
@@ -153,17 +170,21 @@ Rimuru can argue that coexistence should not be abandoned without trying to pres
 The Bocchi incident remains the event that turns abstract Otherworlder hostility into a household safety problem.
 
 Current shape:
-- Mau and Bocchi go on an ordinary supply / ingredient trip;
+- after an ordinary household/day-off stretch, Mau realizes the inn needs several normal supplies/ingredients;
+- the shopping list can include household requests such as Anko's writing ink, Momo/Maomao supplies, and Frieren attempting to request multiple grimoires before being talked down to one;
+- Bocchi **volunteers to accompany Mau**, despite visibly struggling to get the words out, because she wants to help and has genuinely grown more willing to leave the inn;
+- recent calmer interactions make the trip feel reasonable rather than reckless;
 - tension with locals escalates;
-- Bocchi receives a **small but visible forehead cut**;
-- the injury is not supposed to be catastrophic;
-- blood / visible harm is enough to terrify the household;
+- Bocchi receives a **real forehead laceration/impact**, not merely a cosmetic scratch;
+- the wound is not life-threatening but requires genuine treatment and can leave a lasting visible mark/scar;
 - Mau reacts strongly;
-- the group confronts the fact that a vulnerable person cannot always rely on a stronger person being physically next to them.
+- the group confronts the fact that the already-open relocation question is no longer abstract.
 
 Core conclusion:
 
 > The current arrangement is no longer safe enough as a long-term home.
+
+The incident therefore **resolves an existing debate** rather than creating the relocation idea from nothing.
 
 This does **not** mean they abandon the first home the same day.
 
@@ -180,18 +201,21 @@ The **controlled power disclosure / first trust pact happens before G3 reaches t
 Current macro order:
 
 ```text
-Bocchi incident
-→ climax of the existing household debating whether to leave immediately or remain together
+rumors / social deterioration / future-home debate already exists
+→ short false calm
+→ Bocchi incident
+→ existing debate reaches its breaking point
 → decision: stay together for now, fortify the current home, and search for a safer long-term place
 → because they are choosing to continue together, they decide they must know each other's important strengths, weaknesses and dangerous source-world risks
 → controlled power disclosure / first trust pact
-→ Mau slips away afterward
-→ Frieren follows him
+→ Mau sees how malformed/incomplete his own internal system remains compared with the others
+→ seeing Frieren's system/profile helps motivate him to try understanding himself / Construction one more time
+→ Mau follows his normal private experimentation routine rather than fleeing the meeting
+→ Frieren notices and chooses to follow him
 → the previously discussed unexplained magic event occurs
 → Mau and Frieren agree to keep that phenomenon private for now because they do not understand it well enough to explain it responsibly
-→ household begins acting on the fortify + scout decision
-→ Bocchi is still visibly bandaged
-→ G3 reaches the home
+→ household adds modest first-response safety measures and begins practical fortify/scout work
+→ approximately 2–4 days after the Bocchi incident, with Bocchi still visibly bandaged/marked, G3 reaches the home
 ```
 
 The unexplained Mau/Frieren magic beat is also the **first important visible example of the Construction mechanism** in S2 planning. Exact mechanics remain open; do not reduce it to passive copying.
@@ -233,13 +257,20 @@ Members may have arrived in Continuum at different times or places.
 
 G3 connects with the main household **after the Bocchi incident, after the household's first controlled power disclosure, and after the decision to fortify while searching for a safer home**.
 
+Current timing guardrail:
+- **S1 Sukuna catastrophe → G3 reaches the inn remains a short crisis window, roughly no more than about one month**;
+- **Bocchi incident → G3 arrival is currently favored at roughly 2–4 days**;
+- exact dates remain open during episodeization.
+
 This means G3 is arriving into a group that has just made a meaningful choice:
 
 > We are continuing together, so we need to know enough about each other to survive together.
 
 Favored preserved convergence beat:
 - a merchant / caravan directs G3 away from the increasingly hostile mercantile town and toward the abandoned settlement/inn;
-- Kita recognizes Bocchi from behind first;
+- modest new perimeter/detection measures alert the household that a group is approaching, so G3 does not simply appear at the front door unnoticed;
+- the household goes out to meet the approaching group;
+- Kita recognizes Bocchi from behind first, potentially seeing her pink hair behind/near Mau;
 - Bocchi turns;
 - Kita sees the bandage/cut;
 - Momo recognizes Okarun;
@@ -3217,7 +3248,9 @@ S1 Sukuna catastrophe
 → normal life continues under hidden threat
 → rumors spread
 → Otherworlder fear / social deterioration
-→ Bocchi incident
+→ relocation / "are we becoming a danger to the town?" debate begins without resolution
+→ short false calm / ordinary family life continues
+→ Bocchi incident becomes the personal breaking point
 → household decides to stay together temporarily, fortify the inn and search for a safer long-term home
 → controlled power disclosure / first social trust pact
 → Mau/Frieren first important Construction event

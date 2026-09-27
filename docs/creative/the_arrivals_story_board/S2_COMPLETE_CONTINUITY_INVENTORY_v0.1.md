@@ -2733,8 +2733,11 @@ Do not interpret “S3 material” as “forbidden to foreshadow or begin in S2.
 Still favored:
 - pre-Sukuna: fortify current home + scout future site;
 - after Sukuna: recovery, ordinary life and continued search;
-- late S2: identify/choose a naturally defensible region with room to grow;
+- once Ori's foundational arc resolves and Mau/Frieren formalize, S2 should move toward closure relatively quickly rather than adding a long new tail;
+- late S2: ongoing scouting identifies a naturally defensible region with room to grow;
+- the finder does not need to be Mau; a scout/mixed team can return with notes/maps and let the household evaluate it collectively;
 - **S2 ends before meaningful construction begins**;
+- a favored final image is an ordinary night at the inn with the chosen-site map and a half-finished communal layout / foundation-site-preparation sketch on the table;
 - S3 opens with planning, safety infrastructure and the first deliberate transformation of the chosen site;
 - most settlement/city growth continues through S3.
 
@@ -3396,12 +3399,16 @@ S1 Sukuna catastrophe
 → post-revival anger / promise continues across multiple scenes
 → substantial post-Sukuna life
 → Ori arrives and Mau/Frieren/Ori relationship arc develops
+→ Ori confession / hurt / chosen-family transition receives enough runway to resolve honestly
+→ Mau finally names romantic love for Frieren
 → Mau/Frieren formalization / communal celebration
-→ continued scouting / comparison of future-home candidates
-→ wider Otherworlder seeds continue
-→ group finds and chooses the long-term home region
+→ routine scouting continues
+→ scout/mixed team finds unusually strong long-term-home candidate and returns with maps/notes
+→ household evaluates / compactly verifies site
+→ group collectively chooses long-term home region
+→ final ordinary night at the inn with an unfinished site/foundation/layout plan on the table
 → S2 ends before meaningful construction begins
-→ later arcs already cast shadows before S3 fully takes over
+→ S3 begins from "we found it" to "how do we make it survive?"
 ```
 
 This graph is **structural**, not final episode order.

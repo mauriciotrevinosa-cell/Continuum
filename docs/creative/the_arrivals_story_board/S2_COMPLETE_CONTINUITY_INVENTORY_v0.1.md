@@ -2682,7 +2682,11 @@ The point is not a public romance reveal spectacle. It is a tiny visible sign th
 The post-revival promise/argument between Mau and Frieren still matters separately:
 - Frieren is angry about secrecy and unilateral sacrifice, not about being saved;
 - the **wider household also needs some emotional processing** of the secrecy and Mau's willingness to treat his own absence as the acceptable cost;
-- Frieren remains the emotional center of that confrontation, but Bocchi/Umaru/Fern/Yuta/Rimuru and others should not simply reset to normal with no reaction.
+- Frieren remains the emotional center of that confrontation, but Bocchi/Umaru/Fern/Yuta/Rimuru and others should not simply reset to normal with no reaction;
+- Rimuru should eventually try to admit that he voluntarily agreed to the non-interference Contract; Mau interrupts any attempt to make Rimuru carry all blame and states that he was the one who asked for it, while preserving that Rimuru still made a real choice;
+- Anko should receive a direct angry reaction rooted in care rather than rejection;
+- these consequences should unfold across multiple scenes/days rather than one family-scolding sequence;
+- the large communal meal can happen days after Mau wakes if needed and should represent **joy without full forgiveness** — they are happy he is alive even while the wounds remain.
 
 Sukuna can receive a stinger:
 - he has now lost twice (JJK + Continuum);

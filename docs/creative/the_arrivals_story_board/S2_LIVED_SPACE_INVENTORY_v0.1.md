@@ -1030,3 +1030,351 @@ Other story units may instead:
 - compress a week through fragments.
 
 Time density should follow the material.
+
+
+# 19. G3 integration lived-space pass — STRONG DIRECTION / DETAILS OPEN
+
+This block begins immediately after the G3 arrival / Momo-Okarun shock and lasts until G3 no longer feels like "the eight newcomers."
+
+The creative target is not:
+> explain eight new characters quickly.
+
+It is:
+> show what happens when an already-real family suddenly has eight more people to feed, house, trust and live beside.
+
+## 19.1 The first problem is physical space
+
+The inn should not absorb eight newcomers invisibly.
+
+Immediate practical reality:
+- there are not enough fully prepared private spaces;
+- existing residents may temporarily give up rooms;
+- common rooms / spare rooms / floor bedding become necessary;
+- Rimuru begins planning expansion, but expansion takes time rather than appearing instantly.
+
+### Mau gives up his room — STRONG SYMBOLIC BEAT
+
+Mau can casually offer his own room to one or more newcomers.
+
+The moment should **not** be melodramatic.
+
+He simply sees a housing problem and offers the obvious solution from his perspective.
+
+Frieren and Fern overhear.
+
+They do not need to stop him or comment.
+
+The meaning lands because of S1:
+- Mau once needed a room / place in the world;
+- Frieren once gave him safety;
+- the room/home became part of his new identity;
+- now Mau gives that space away without hesitation because he considers the people more important than possession of the room.
+
+For Fern:
+- she sees how naturally Mau now belongs with Frieren;
+- she sees Frieren quietly happy/comfortable with the implication.
+
+For Frieren:
+- accepting Mau back into her sleeping/living space is no longer the frightened early-S1 survival arrangement;
+- it is simply normal.
+
+No speech is required.
+
+## 19.2 Temporary sleeping chaos — STRONG COMEDIC/FAMILY CANDIDATE
+
+While expansion is underway:
+- Bocchi and Fern may also lend their rooms;
+- Mau/Frieren/Fern/Bocchi/Umaru can temporarily end up sleeping in the same larger room / improvised sleeping area;
+- Rimuru can eventually join in slime form because he takes almost no space;
+- Umaru may use slime-Rimuru as a cushion/pillow or settle on him.
+
+The gag has emotional value underneath:
+- Umaru begins treating Mau as an older-brother figure;
+- through Mau she starts trusting the people Mau already treats as family;
+- Frieren/Fern/Bocchi do not become barriers around Mau;
+- the family expands by overlap rather than by replacing old bonds.
+
+Do not sexualize the shared sleeping arrangement. It is overcrowded-family comedy / temporary logistics.
+
+## 19.3 G1/G2 actively receive G3
+
+Existing residents should take different newcomer responsibilities naturally.
+
+Examples:
+- rooms / bedding;
+- food;
+- explaining bath/common-area routines;
+- lending clothes;
+- showing where supplies are;
+- explaining basic guild/town context;
+- answering "what is this world?" questions as best they can;
+- warning about the current anti-Otherworlder tension.
+
+This provides the foundation for a later reversal:
+> G3 will eventually be the people teaching G4 how the household works.
+
+## 19.4 Contract origin becomes personal before it becomes systemic
+
+The confidentiality Contract should grow from ordinary relationship pressure.
+
+Natural triggers:
+- Umaru begins asking Mau increasingly specific questions;
+- Bocchi wants to tell Kita things about the household / what happened / what people can do;
+- Momo desperately wants to explain more to Okarun because **she remembers him and he does not remember her**;
+- Marin/Qifrey/Coco/etc. naturally ask how the impossible things they are seeing work.
+
+The existing household therefore reaches the question:
+
+> What information belongs only to the person whose power/history/weakness it is?
+
+This creates the need for a confidentiality structure.
+
+The Contract is not introduced because Rimuru suddenly wants bureaucracy.
+
+It emerges because **trust is expanding faster than privacy rules**.
+
+This preserves:
+- voluntary consent;
+- clear practical scope;
+- later Okarun enforcement demonstration.
+
+## 19.5 Momo/Okarun should breathe
+
+Do not solve `Who are you?` immediately.
+
+Momo has to live beside someone she remembers intimately who currently does not have access to that relationship.
+
+Possible lived-space effects:
+- she almost tells him something too personal, then stops;
+- she tries normal conversation and finds it painfully unnatural;
+- Okarun is confused by how much she knows about him;
+- other people notice the asymmetry;
+- this becomes one of the strongest practical reasons the household starts asking who has the right to disclose another person's memories/history.
+
+Their arc can progress in background fragments across multiple stories.
+
+## 19.6 Kita/Bocchi begins with observation, not romance plot
+
+Kita has just found Bocchi injured.
+
+Immediate priorities:
+- relief;
+- concern;
+- understanding what happened;
+- understanding this strange family Bocchi now trusts.
+
+She should get time simply living beside Bocchi again.
+
+Small beats:
+- Bocchi still freezes when directly questioned at the table;
+- Kita recognizes old Bocchi behaviors immediately;
+- Kita also sees new behaviors that did not exist before Continuum;
+- Bocchi gravitates toward Mau/Fern/Frieren without thinking;
+- Mau actively gives Bocchi/Kita space rather than monopolizing Bocchi.
+
+The romance grows later from restored friendship + new context.
+
+## 19.7 Mikasa: useful without becoming "security girl"
+
+A strong recurring rhythm:
+
+```text
+Yuta leaves for a patrol/turn
+→ Mikasa volunteers / naturally joins
+→ practical competence becomes visible
+→ later Mikasa is back inside living with everyone else
+```
+
+She can:
+- help with perimeter thinking;
+- train;
+- scout;
+- notice habits others miss.
+
+But preserve that Mikasa comes from a life shaped by constant violence and war.
+
+That can show through:
+- sleeping lightly;
+- automatically noting exits;
+- taking watch more seriously than others;
+- discomfort when everyone else is careless;
+- being surprised by genuinely useless/free time.
+
+Crucially, she should also:
+- eat with everyone;
+- be dragged into outings;
+- laugh occasionally;
+- help with non-combat work;
+- become part of the girls' social web.
+
+The story should not isolate her just because she is serious.
+
+## 19.8 Early "girlies" social web can begin here
+
+This should not start as an official fixed girl squad.
+
+A strong organic chain:
+
+1. Marin has a minor meltdown/frustration because her phone has no signal/service and is effectively useless for normal communication.
+2. several existing girls understand the same "my old-world object doesn't work here" frustration.
+3. Momo approaches first because she has the social energy to do so.
+4. Momo convinces Marin to help **kidnap Maomao** into going outside/socializing because Maomao refuses an invitation.
+5. Bocchi gets pulled along.
+6. Fern joins because she is around the same age / protective / curious.
+7. Mikasa ends up joining rather than remaining home as permanent security.
+8. Umaru wants to go or is encouraged by Mau to go because he does not want her attaching only to him.
+
+This can become a small adventure/outing rather than a "girls talk" episode.
+
+The important long-term result:
+- the women's social network starts as overlapping circumstance;
+- different combinations can form later;
+- Maomao develops the recurring role of refusing social plans and being forcibly recruited by friends;
+- Marin/Momo can become high-energy organizers without owning the entire group.
+
+## 19.9 Umaru's attachment expands outward through Mau
+
+Strong direction:
+- Umaru can begin seeing Mau as an older-brother-like stabilizing figure;
+- Mau should not become her only emotional support.
+
+Instead:
+> because Umaru trusts Mau, she begins testing whether the people Mau calls family are safe too.
+
+This can happen through:
+- shared sleeping chaos;
+- movie/common-room nights;
+- girls outing;
+- chores;
+- food;
+- casual teasing.
+
+Her bond with Mau becomes a **bridge into community**, not a private dependency bubble.
+
+## 19.10 Inn expansion should be a lived process
+
+Expansion begins because the house is genuinely overcrowded.
+
+Show stages:
+- temporary sleeping arrangements;
+- measuring / planning;
+- salvaging materials;
+- people carrying things;
+- someone discovering a wall/roof problem;
+- disagreement about priorities;
+- first new usable room;
+- common space reorganized;
+- storage becoming a serious issue.
+
+Rimuru can accelerate organization/technical planning, but the physical/social process should remain collective.
+
+Potential character contributions:
+- Wakana helps with textile/bedding/clothing needs;
+- Mikasa/Yuta heavy/practical work;
+- Qifrey/Coco magical-material questions;
+- Marin gets interested in making spaces less depressing;
+- older household members teach newcomers where/how things are done.
+
+The inn should visibly change across several stories, not one construction montage.
+
+## 19.11 Movie night can become a household tradition — MECHANISM OPEN
+
+The household can begin establishing a recurring after-dinner tradition:
+- movie/projection night;
+- stories from old worlds;
+- games;
+- music;
+- other communal entertainment.
+
+**Source-check note:** Tensura canon provides precedent for magical projected screens / visual feeds during Tempest's festival/dungeon operations, but direct `Rimuru memory → full movie playback` is not currently verified.
+
+Therefore:
+- **movie night remains a strong story idea**;
+- exact projection/playback mechanism remains OPEN pending source-lock;
+- do not state as canon that Rimuru can perfectly replay any film from memory.
+
+A third movie/common-room night during G3 integration can be especially useful because:
+- G3 experiences an already-existing family tradition;
+- newcomers react differently to the same movie;
+- seating/comfort choices reveal integration without dialogue;
+- it gives the expanding group a recurring shared ritual.
+
+## 19.12 Quiet multi-day family episode candidate
+
+One strong story unit can deliberately contain multiple ordinary days.
+
+### Day A — cooking disaster + music night
+- too many people try to use the kitchen / contribute;
+- something goes wrong;
+- dinner still happens;
+- Bocchi/Kita/Marin can bring music into the evening;
+- newcomers and established cast mix without a plot objective.
+
+### Day B — common-room laziness
+- nearly everyone is exhausted;
+- Frieren reads while leaning against Mau;
+- Mau talks casually with Fern and Anko;
+- Frieren occasionally laughs/comments without really leaving the book;
+- Rimuru is in slime form on someone;
+- Momo and Maomao bother/investigate Rimuru as fake detectives;
+- Anko observes the "detectives" and joins the joke;
+- Bocchi can freeze when someone casually asks her something at the table, proving she is still Bocchi;
+- newcomers occupy the room with different comfort levels.
+
+Nothing needs to resolve.
+
+The episode is valuable if the audience ends it believing:
+> these people have begun sharing a life.
+
+## 19.13 G3 integration endpoint
+
+Do not define integration by one speech or Contract signing.
+
+G3 has crossed the invisible line into household membership when several things have become casually true:
+- someone from G3 knows where things are without asking;
+- an old resident asks a G3 member for help;
+- people complain about each other's habits;
+- temporary room chaos has started becoming normal;
+- G3 participates in work/outings without being "the new people";
+- one of them explains a household routine to someone else;
+- absence from dinner is noticed;
+- jokes/reference points exist that only make sense because they have lived together for a while.
+
+The exact story unit where this becomes obvious does not need to announce it.
+
+---
+
+# 20. G3 integration story reservoir — OPEN
+
+Candidate material:
+- room-allocation chaos;
+- Mau gives up room;
+- improvised shared sleeping;
+- first breakfast with seventeen-ish people;
+- bathing schedule comedy;
+- cooking disaster;
+- music night;
+- movie night;
+- girls outing / Maomao kidnapping;
+- Yuta + Mikasa patrol;
+- Mikasa learning how to have a day off;
+- Momo/Okarun awkward near-conversations;
+- Kita/Bocchi ordinary reconnection;
+- Umaru attaching to Mau then branching outward;
+- Marin phone frustration;
+- Wakana helping repair clothes/bedding;
+- Qifrey/Coco/Frieren/Rimuru magical-framework conversations;
+- low-risk group job;
+- supply/material run;
+- expansion work;
+- first confidentiality/Contract conversation;
+- Okarun tests Contract;
+- rain day;
+- lake day;
+- failed scouting candidate;
+- group game after dinner.
+
+Some may be fragments.
+Some may combine.
+Some may deserve whole story units.
+Nothing here is automatically an episode quota.

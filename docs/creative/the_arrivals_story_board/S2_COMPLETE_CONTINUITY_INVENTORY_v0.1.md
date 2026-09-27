@@ -3208,17 +3208,58 @@ The goddess is only revealed after Mau dies / completes the tested choice.
 
 Exact cosmology and the entity's ultimate motive remain intentionally open and do not block S2 macro structure.
 
-## 42.3 Sukuna climax mechanics that affect story logic — REAL MACRO GAP
+## 42.3 Sukuna climax mechanics that affect story logic — MACRO RESOLVED
 
-Not every combat detail needs solving now, but several mechanics affect the actual story outcome and therefore cannot be deferred entirely to choreography:
+This is no longer a structural gap.
 
-- why/how Heian-body Sukuna has Ten Shadows in Continuum;
-- what the Mau/Sukuna `merging` event actually is;
-- why Sukuna cannot simply detach/escape from Mau during the Red/Blue sequence;
-- the broad cost Sukuna pays to survive/escape after Hollow Purple;
-- enough domain/battle logic that the prepared roles remain plausible.
+Resolved macro logic:
+- Sukuna arrives in **Meguna body state**, with memory through his victory over Gojo / before the Kashimo fight;
+- Megumi is not a second trapped active soul in Continuum;
+- imported abilities reconstruct progressively through Synchronization;
+- Ten Shadows returns around mid-Synchronization;
+- Malevolent Shrine requires much higher Synchronization after Sukuna destabilizes/crashes that pathway by forcing the S1 city-destruction Domain too early;
+- World Cutting Slash is remembered but remains inaccessible until full/near-full reconstruction and therefore is never used in S1/S2;
+- Sukuna attacks before full reconstruction because Mahoraga + Agito returning makes him believe the arsenal that defeated Gojo is already sufficient.
 
-Exact move-by-move choreography, resource percentages and dialogue belong later.
+Mahoraga is an **active fight-long threat**, not a final-second cameo:
+- adapts to earlier phenomena during the battle;
+- its adaptation invalidates a reasonable Frieren battlefield read;
+- that changed rule creates the fatal opening Sukuna exploits;
+- Mau intercepts rather than Frieren simply behaving incompetently.
+
+At the fatal sequence:
+- Yuta decapitates/severs Mahoraga to buy approximately fifteen seconds;
+- Project Canon allows Mahoraga to regenerate/reconstitute from that catastrophic injury so long as it was not comprehensively exorcised/destroyed;
+- the bought window permits the barrier/extraction/Mau-goodbye sequence;
+- Sukuna's penetration of Mau causes The Noise to detect his incarnated/vessel-compatible foreign soul/CE structure;
+- The Noise begins a merge/absorption attempt;
+- Sukuna becomes metaphysically/system-tethered to Mau and cannot simply detach.
+
+When Mahoraga recovers:
+- Sukuna changes its instruction;
+- Mahoraga is ordered to separate/disrupt Red and Blue before they combine;
+- it has not adapted to this new one-use convergence / tether interaction;
+- it cannot complete a new adaptation in time;
+- Hollow Purple completes and comprehensively destroys Mahoraga.
+
+Mau truly dies.
+
+Sukuna survives near death through a catastrophic Contract / binding-vow-equivalent whose price is:
+- permanent loss of the **World Cutting Slash / world-targeting Dismantle configuration** that he remembers and expected to regain at full Synchronization.
+
+Future Ten Shadows inheritance remains possible:
+- destroying Sukuna's reconstructed Mahoraga affects Sukuna's technique-instance;
+- it does not erase Mahoraga from all future Ten Shadows users;
+- a later user such as Yuka can have her own Ten Shadows / Mahoraga trajectory.
+
+Remaining details are later-layer work:
+- exact Synchronization percentages;
+- exact Agito destruction point;
+- exact Contract wording;
+- exact number of seconds if pacing changes from the current ~15-second target;
+- exact CE/resource accounting;
+- exact move-by-move choreography;
+- exact wording of The Noise's merge message.
 
 ## 42.4 Post-Sukuna Ori arc — MACRO SHAPE RESOLVED / PEDIDA STILL OPEN
 

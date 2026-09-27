@@ -1881,3 +1881,289 @@ Therefore the next major planning block after this pass should be:
 
 Then, after G4 has enough lived-space, we move into:
 > **dream escalation / pre-Sukuna lived-space**.
+
+
+# 27. Network-density refinement — GLOBAL S2 STORY RULE
+
+Do not design household relationships only as isolated pairs or labeled lanes.
+
+A scene can naturally contain:
+- Mau + Frieren + Fern + Coco;
+- Yuta and Rimuru nearby;
+- somebody else entering/leaving;
+- several conversations overlapping;
+- one character mostly listening;
+- one character participating only briefly.
+
+This should apply throughout S2, not only G3 integration.
+
+The household is a **social mesh**, not a set of two-person appointments.
+
+Pair relationships still matter, but they should often grow inside group life.
+
+Example:
+> Mau/Coco sibling-like closeness can grow while Frieren and Fern are present, Qifrey is teaching, Rimuru is doing something nearby, or Yuta drops into the same room.
+
+The presence of other people does not weaken a relationship beat. It can make it feel more lived-in.
+
+## 27.1 Minimum social-contact principle
+
+Over enough lived time, established household members should generally have **some recognizable relationship/contact with one another**.
+
+This does **not** mean:
+- everyone becomes friends;
+- everyone gets a dedicated scene;
+- every pair becomes emotionally important;
+- everyone must like one another immediately.
+
+It means the audience should rarely feel:
+> these two people have supposedly lived under the same roof for months and seem never to have acknowledged each other.
+
+Relationships may be:
+- warm;
+- awkward;
+- practical;
+- mildly antagonistic;
+- teasing;
+- respectful;
+- distant;
+- improving;
+- still uncertain.
+
+Uneven closeness is desirable.
+
+The assistant should actively propose missing cross-connections when a section becomes too pair-focused.
+
+## 27.2 Group scenes should preserve individual essence
+
+Integration is not personality homogenization.
+
+A character can belong to the family while still behaving like themselves.
+
+Examples:
+- Umaru remains a shut-in/homebody who often prefers comfort and may skip outings;
+- Bocchi remains socially anxious and can still freeze;
+- Mikasa remains hyper-aware because of a life shaped by war;
+- Frieren remains selective and low-energy rather than becoming generically social.
+
+Growth should expand a character's available choices, not erase the traits that made them recognizable.
+
+---
+
+# 28. G3 arrival micro-integration — STRONG DIRECTION
+
+The first hours after G3 arrives should already begin showing **different kinds of help** rather than one generic welcome scene.
+
+A strong organic example is Umaru.
+
+## Umaru + Mau + hamster cloak/blanket
+
+Umaru arrives road-worn / dirty and is visibly uncomfortable.
+
+Mau notices that she does not know what to do before she has to ask.
+
+Possible flow:
+- someone gets Umaru clean clothes / something temporary to wear;
+- Marin/Wakana can help with clothing/fit/practical needs;
+- Umaru goes to bathe/change;
+- while she is gone, Mau quietly cleans the hamster cloak/blanket/garment that clearly matters to her;
+- he does not make a big deal out of it;
+- when Umaru comes back, it has been taken care of.
+
+This can be one of the first reasons Umaru begins attaching to Mau as an older-brother-like safe person.
+
+The object matters because:
+- it is familiar;
+- it is hers;
+- Mau recognizes that before fully knowing her.
+
+Do not over-sentimentalize the beat.
+
+## Other arrivals are helped differently
+
+The household should not process G3 like a queue.
+
+Possible overlapping response:
+- Marin/Wakana help solve clothing / bedding / practical presentation problems;
+- Momo/Anko/Maomao help orient people in their own different ways;
+- Yuta/Rimuru handle practical risk / space / food;
+- Fern/Bocchi help people understand rooms/common areas;
+- Kita largely bypasses generic orientation because her priority is Bocchi;
+- Qifrey/Coco begin observing magic/world differences almost immediately;
+- Mikasa may need less practical assistance but still has to learn how this household functions.
+
+This allows integration to begin **during arrival itself**.
+
+---
+
+# 29. Refinement of Unit C — overlapping study / family mesh
+
+Unit C should not read as four isolated pair scenes.
+
+The intended texture is more like:
+
+```text
+Qifrey + Mau + Coco study
+→ Frieren is nearby and becomes interested
+→ Fern joins or comments
+→ Rimuru drops in because the system question becomes strange
+→ Yuta may be present for part of it
+→ the room becomes a mixed study / family space
+```
+
+Then, on another day:
+- Mau/Coco have a smaller sibling beat;
+- Mau/Fern handle an errand;
+- Frieren/Rimuru share a routine-trust exchange;
+- Mikasa/Yuta do patrol work.
+
+The point is **cross-pollination**, not rotating through mandatory pair cards.
+
+## 29.1 Everyone eventually acquires their own chemistry
+
+Examples like:
+- Mau/Kita;
+- Mau/Agott later;
+- Fern/Wakana;
+- Yuta/Coco;
+- Rimuru/Mikasa;
+- Anko/Qifrey;
+
+may become:
+- friendship;
+- practical respect;
+- awkwardness;
+- disagreement;
+- humor;
+- simply recognizable familiarity.
+
+Do not predefine all outcomes.
+
+But when characters have lived together long enough, their relationships should exist even if only lightly.
+
+---
+
+# 30. Refinement of Unit F — mixed-team work, not Mau/Okarun showcase
+
+The outside-work/scouting unit should use a **real mixed group**.
+
+Mau/Okarun can remain one useful developing relationship, but the story should also show:
+- Yuta/Mikasa working together in terrain/patrol situations;
+- Mikasa initially finding this kind of work comfortable because it resembles the vigilance/structure she already knows;
+- over repeated missions, Mikasa's relationship to that comfort changes: she can be competent without needing constant danger to justify her place;
+- other rotating members contribute for reasons tied to the mission.
+
+Possible mission logic:
+- route checking;
+- material collection;
+- candidate-site inspection;
+- low-risk monster issue;
+- map correction.
+
+The mission is an ensemble engine.
+
+A bad future-home candidate remains a useful result:
+> they learned something even though they did not find "the place."
+
+---
+
+# 31. Contract demonstration refinement — danger + possibility + open questions
+
+Okarun's test should remain simple.
+
+Desired takeaway:
+- Contracts are materially real;
+- forcing a breach can hurt;
+- badly designed agreements could be dangerous;
+- therefore they require care.
+
+But the scene should also open exciting questions rather than only fear.
+
+Natural questions afterward:
+- can Contracts work with native people?
+- do both parties need to be Otherworlders?
+- can a native and an Otherworlder make one together?
+- can Contracts handle exchange rather than only secrecy?
+- how literal is enforcement?
+- can conditions expire?
+- what happens if terms become impossible?
+- can a Contract be voluntarily dissolved?
+
+Do **not** answer all of these immediately.
+
+The first Contract opens a field of possibilities.
+
+This is useful worldbuilding because it gives the household a powerful system they still only partially understand.
+
+---
+
+# 32. Umaru integration guardrail
+
+Umaru becoming part of the family must not rewrite her into an outgoing adventurer.
+
+Core essence to preserve:
+- homebody / shut-in tendency;
+- comfort-seeking;
+- selective bursts of enthusiasm;
+- preference for familiar safe people/spaces;
+- capacity to be socially functional when she chooses.
+
+Her growth can look like:
+- she joins an outing because Mau encourages her;
+- later she joins another because she specifically wants to see Marin/Momo/etc.;
+- another time she refuses and stays home happily;
+- on movie/game nights she may be one of the most engaged people in the house;
+- during difficult travel she may complain more than everyone else.
+
+The signal of integration is not:
+> Umaru now goes everywhere.
+
+It is:
+> Umaru has more people and places that count as "comfortable enough to be home."
+
+---
+
+# 33. Dream / Himmel ordering refinement — STRONG PREFERENCE, TIMING TO VERIFY
+
+The previous ordering that placed Himmel before the entire dream progression is no longer the strongest preference.
+
+Preferred emotional order:
+
+```text
+G3 integrated
+→ Maki / Stark and other early G4 convergence + ordinary life
+→ small predictive dreams begin and prove increasingly credible
+→ **at least one clearly Sukuna-related dream reaches Mau**
+→ Himmel has not yet reached the inn
+→ Frieren already has the underlying romantic feeling for Mau; the issue is understanding / naming what kind of love it is
+→ Himmel arrives
+→ his return forces Frieren to interrogate something that already exists rather than creating the feeling
+→ Himmel/Frieren/Mau + Maki/Frieren lived arc unfolds
+→ dream progression continues underneath ordinary life
+→ fatal Sukuna binary becomes explicit/recurrent later
+```
+
+This preserves several important effects:
+- Himmel does **not** create Frieren's romantic love for Mau;
+- he becomes the emotional catalyst that forces her to understand a feeling already present;
+- Mau is already carrying a private Sukuna-related warning underneath Himmel's arrival/reunion;
+- the audience can experience romantic/family life while danger is quietly advancing in parallel.
+
+### Timing guardrail
+
+Do not force this ordering if it destroys the required Himmel runway before the battle.
+
+Himmel still needs enough time for:
+- reunion;
+- sincere romantic question;
+- understanding Frieren/Mau;
+- ordinary coexistence with Mau;
+- active romantic pursuit to resolve;
+- enough mutual familiarity for `Take care of her for me` to work.
+
+Therefore:
+- **first Sukuna-related dream before Himmel = preferred**;
+- **fatal binary fully recurring before Himmel = not required**;
+- exact spacing remains open until G4 lived-space/calendar work confirms it.
+
+This is the current best compromise between the emotional idea and the Pass-B runway requirement.

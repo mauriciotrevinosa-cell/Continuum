@@ -2923,17 +2923,23 @@ Causal rule after the goddess challenge:
 
 **Agency guardrail:** calling Ori a `reward` describes her cosmological/story origin, **not ownership or entitlement**. Ori is a full person with her own agency. The goddess does not create a romantic prize who is obligated to love Mau, and Mau receives no claim over her choices. Her later confession/rejection/chosen-family arc depends on that independence.
 
-Her arrival connector:
+Her arrival connector is now more specific:
 
 ```text
-Mau begins dreaming about / seeing an unknown girl
-→ the dreams are specific enough that he believes a real person is out there
-→ Mau actively searches for her
-→ he finds Ori
+short post-Sukuna dream silence
+→ Mau begins dreaming about / seeing an unknown girl
+→ Mau tells Frieren / trusted household rather than hiding it
+→ future-home scouting continues while Mau remains partly restricted at the inn
+→ Mau takes a nap / receives a qualitatively hyperreal Ori dream
+→ wakes with location certainty: "I know where she is"
+→ Frieren follows immediately: "Let's go"
+→ Mau/Frieren find Ori
 → Ori's relationship arc begins
 ```
 
-The exact dream imagery, search route and discovery scene remain later-layer work.
+The final locating dream should feel less like prediction and more like Mau was momentarily **present at Ori's location**.
+
+Exact dream imagery remains later-layer work.
 
 ## 36.1 Mau becomes Ori's first anchor
 
@@ -2961,57 +2967,70 @@ We should see them simply living together:
 
 ## 36.2 Frieren jealousy / household noticing
 
-Frieren can experience jealousy as Ori increasingly monopolizes Mau's attention.
+Frieren should **not** immediately interpret Ori's attachment as romantic.
+
+Because Frieren personally goes with Mau to find Ori, and because the household already contains clingy/sibling-like attachment patterns around Mau, Ori's early behavior can plausibly read as:
+> newly displaced person staying near her first safe anchor.
+
+Early Ori behavior:
+- seeks Mau out;
+- sits/stays close;
+- follows him into ordinary tasks;
+- relaxes more when he is present.
+
+Mau/Frieren may both initially normalize this because Bocchi/Umaru/Coco and earlier Frieren/Fern dynamics have made close attachment familiar.
+
+Only over time can Frieren experience jealousy as Ori's feelings become more self-aware / romantic-coded.
 
 Guardrail:
 - Frieren is not reduced to a possessive rival caricature;
-- the jealousy can be quiet, awkward and partly new to Frieren because she is still learning what being in a romantic relationship means.
+- Ori is not labeled "competition" by the household;
+- jealousy develops **after relationship context exists**, not on Ori's first day.
 
-Other people notice the unusual closeness too.
+## 36.3 Late-night girlies conversation exposes the missing relationship-formalization step
 
-Bocchi and Umaru in particular can have a sibling-like:
-> `...what is going on here?`
+Use a normal late-night social scene after Ori has already integrated enough to belong in it.
 
-reaction because they already understand Mau's habits and notice Ori staying unusually close to him.
+Possible setup:
+- kitchen/common room;
+- rotating group of girls talking about how they met / fell for the people important to them;
+- Kita/Bocchi story;
+- Maki/Yuta story;
+- playful Fern/Stark teasing;
+- Marin/Wakana relationship story, including Marin's fear that she was consuming Wakana's time (source details to verify later);
+- Hakari/Karane/Shizuka/Nano and others contribute according to character.
 
-The household should treat Ori as a person, not immediately label her "competition."
+Frieren is elsewhere/upstairs reading.
 
-## 36.3 Girls conversation exposes the missing relationship-formalization step
+Mau comes down alone for something trivial such as water and gets pulled into the conversation.
 
-A strong pre-confession social beat:
+They ask how Mau/Frieren happened.
 
-- several of the girls are talking together;
-- they see Mau passing by and pull him into the conversation;
-- curiosity turns toward Ori / how Mau found her / how they became close;
-- Mau tells the socially shareable version of how they met;
-- **he does not disclose the dream mechanism**;
-- the conversation drifts toward Mau/Frieren.
+Mau explains:
+- after Sukuna, he woke;
+- Frieren kissed him;
+- Frieren told him she loved him.
 
-Someone asks approximately:
+Someone asks whether Mau said it back.
 
-> `So how did you ask Frieren to be your girlfriend?`
+Strong candidate answer:
 
-Mau's reaction is genuine confusion:
+> `I don't know what love is. I didn't want to lie.`
 
-> `Ask her to be my girlfriend?`
+Interpretation guardrail:
+- Mau has learned what love does and how people choose one another;
+- he still does not trust himself to label **his own** feeling as romantic love.
 
-Kita can be especially effective here because Mau previously helped her with Bocchi.
+Then someone asks:
+> so when did you ask Frieren to be your girlfriend?
 
-She can point out, in essence:
+Mau realizes:
+> he never did.
 
-> `Like what you helped me do with Bocchi.`
+The household understands this as **formal ambiguity**, not proof that Mau/Frieren have no bond.
 
-And Mau realizes:
-
-> **he never actually did that with Frieren.**
-
-Frieren confessed `I love you` after his revival and they have naturally begun functioning as a couple, but Mau never consciously/formally asked what relationship they were choosing.
-
-Exact dialogue remains later-layer work.
-
-This beat has two functions:
-1. Mau becomes aware of a missing conscious step in his relationship with Frieren.
-2. Ori realizes that, from her perspective, the relationship status may be less formally settled than she assumed.
+Ori, however, hears the missing explicit step and for the first time allows herself to think:
+> maybe I have a chance.
 
 ## 36.4 Ori pushes harder after that discovery
 
@@ -3047,22 +3066,29 @@ Required emotional outcome:
 - Mau does not mock or dismiss her;
 - he cares about Ori deeply;
 - he cannot honestly return the romantic feeling;
-- Ori is genuinely hurt;
-- the scene forces Mau to confront why his feeling for Ori is different from what he feels for Frieren.
+- Ori is genuinely hurt.
 
-This becomes one of the key mechanisms by which Mau finally recognizes/names:
+The crucial realization is **not**:
+> I do not love Ori.
+
+It is:
+> I love Ori, but not in the same way I love Frieren.
+
+That distinction finally lets Mau recognize/name:
 
 > **he is romantically in love with Frieren.**
 
-The resolution can happen wherever later episode pacing needs it.
+Ori can remain one of Mau's deepest chosen-family bonds without romantic reciprocity.
 
 Do **not** force the entire Ori arc into one short block simply because it starts post-Sukuna.
 
 ## 36.6 Resolution / chosen family
 
-Established destination:
+Established S2 destination:
 - Ori learns that love does not create entitlement to reciprocation;
 - Mau/Ori relationship transforms into genuine chosen family rather than unresolved "maybe someday" romance;
+- Ori understands that Mau loving Frieren romantically does **not** mean Mau does not love Ori;
+- Mau's love for Ori is real but different;
 - Ori develops a real bond with Frieren independent of Mau;
 - Frieren does not "win" against Ori; there is no contest to win.
 
@@ -3070,14 +3096,23 @@ Established destination:
 - Ori's confession must hurt and be allowed to hurt;
 - the story should not move directly from `Mau rejects Ori` to a giant Mau/Frieren celebration;
 - Ori needs enough subsequent ordinary interaction to show that she is choosing to remain family rather than simply being told that she is family;
-- her independent bond with Frieren should begin becoming visible before the formalization payoff;
-- this buffer protects Ori from reading like a disposable romantic obstacle whose only function was to teach Mau a lesson.
+- her independent bond with Frieren should begin becoming visible before the formalization payoff.
 
-The later memory/perception-crisis payoff remains:
+Critical maturation rule:
+> **S2 closes Ori's foundational romantic/chosen-family arc; it does not finish her emotional maturation forever.**
+
+Ori can accept the different form of love in S2 while still carrying:
+- insecurity;
+- residual hurt;
+- a need to understand her place more deeply.
+
+The later memory/perception-crisis arc becomes the place where that maturity is **demonstrated**, not magically completed by one conversation:
 - Ori can become one of Mau's most reliable constants;
-- on the second major disappearance/flight, Ori may be the person who goes with Mau;
-- this is not romantic theft;
-- her future function is to help Mau return toward Frieren.
+- may go with him during a later disappearance/flight;
+- can support his bond with Frieren without treating herself as lesser;
+- can help Mau return toward Frieren.
+
+This later payoff proves the S2 chosen-family closure was real rather than instantaneous personality replacement.
 
 ## 36.7 Mau/Frieren formalization payoff — MACRO RESOLVED
 
@@ -3398,8 +3433,12 @@ S1 Sukuna catastrophe
 → Mau's tendency to value his own life below everyone else's is confronted directly
 → temporary clinginess / departure anxiety across the household
 → post-revival anger / promise continues across multiple scenes
-→ substantial post-Sukuna life
-→ Ori arrives
+→ substantial post-Sukuna life begins
+→ several normal nights separate the Sukuna dream system
+→ early Ori dreams begin and Mau tells Frieren/household
+→ future-home scouts leave while Mau remains partly restricted at the inn
+→ hyperreal locating dream → Mau/Frieren find Ori
+→ scouts can discover strong future-home candidate in parallel
 → substantial Ori lived-space / integration as a resident
 → Mau/Ori closeness grows while Ori also builds relationships beyond Mau
 → Frieren/Ori bond develops in parallel with jealousy/romantic ambiguity

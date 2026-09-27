@@ -2686,7 +2686,14 @@ The post-revival promise/argument between Mau and Frieren still matters separate
 - Rimuru should eventually try to admit that he voluntarily agreed to the non-interference Contract; Mau interrupts any attempt to make Rimuru carry all blame and states that he was the one who asked for it, while preserving that Rimuru still made a real choice;
 - Anko should receive a direct angry reaction rooted in care rather than rejection;
 - these consequences should unfold across multiple scenes/days rather than one family-scolding sequence;
-- the large communal meal can happen days after Mau wakes if needed and should represent **joy without full forgiveness** — they are happy he is alive even while the wounds remain.
+- the large communal meal should occur once Mau is stable enough to sit with everyone, but **before full emotional resolution** if that pacing works best; it represents joy without forgiveness being complete;
+- after that meal, a more explicit family intervention/confrontation can occur around Mau/Yuta/Rimuru's secrecy and decision-making;
+- the household should distinguish knowledge levels rather than blame every battle participant equally;
+- a central accusation is that Mau implicitly treated his own life as lower-value because everyone else had other support relationships;
+- the family rejects that arithmetic: having Kita/Fern/Qifrey/Agott/Maki/etc. does not make Mau replaceable;
+- post-trauma attachment behaviors should persist for a while: Umaru may cling to Mau physically, Coco/Fern/Frieren/Bocchi may be reluctant to let him disappear alone, and simple errands can become accidental group outings;
+- these behaviors should fade rather than become permanent dependency;
+- the lasting behavioral change is that Mau communicates ordinary departures/plans more clearly because belonging means his absence affects people.
 
 Sukuna can receive a stinger:
 - he has now lost twice (JJK + Continuum);
@@ -3377,9 +3384,12 @@ S1 Sukuna catastrophe
 → Frieren kiss / “I love you”
 → Yuta, after finally sleeping/resting, discovers Mau awake while Frieren is already talking with him about something ordinary
 → staggered household reunions/reactions
-→ post-revival anger / promise
-→ basic physical reintegration before celebration
-→ communal meal; Mau/Frieren hold hands; Yuta/Rimuru notice
+→ basic physical recovery
+→ communal meal while everyone is still emotionally bruised; Mau/Frieren hold hands; Yuta/Rimuru notice
+→ following-day family intervention around Mau/Yuta/Rimuru secrecy and responsibility
+→ Mau's tendency to value his own life below everyone else's is confronted directly
+→ temporary clinginess / departure anxiety across the household
+→ post-revival anger / promise continues across multiple scenes
 → substantial post-Sukuna life
 → Ori arrives and Mau/Frieren/Ori relationship arc develops
 → Mau/Frieren formalization / communal celebration

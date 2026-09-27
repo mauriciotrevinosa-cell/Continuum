@@ -1444,3 +1444,53 @@ Example:
 - if Continuum later enables a way to externalize remembered media, the movie-night idea can still work without rewriting Tensura canon.
 
 Story value can survive even when the mechanism changes.
+
+
+# 22. Ensemble omission backtrace rule — STRONG PROCESS RULE
+
+When an established character appears to have been absent for several story units, do **not** automatically compensate by giving them extra presence in the next unit.
+
+First perform a **backtrace**.
+
+Ask:
+1. Did this character naturally belong in any of the previous scenes/stories?
+2. Was their absence intentional because of work, travel, mood, privacy, injury, specialization or another real reason?
+3. Did the story accidentally narrow its social field and forget they existed?
+
+If the answer is:
+- **yes, they naturally should have been there** → reinsert them into the earlier material where they belong;
+- **no, their absence was organic** → keep the earlier material intact and decide later where their return feels natural.
+
+Do not use later screen time as a patch for an earlier continuity omission.
+
+This applies to:
+- household meals;
+- outings;
+- girlies / moving-pack scenes;
+- work teams;
+- patrols;
+- construction;
+- recovery;
+- celebrations;
+- background/common-room life.
+
+A reinsertion does not require giving the character a subplot.
+
+Sometimes the correct fix is only:
+- they are at the table;
+- they contribute one line;
+- they are helping in the background;
+- someone references what they are doing elsewhere;
+- they leave early / arrive late for a reason.
+
+The goal is continuity of presence, not equal spotlight.
+
+## 22.1 Root-cause principle
+
+This follows the broader project preference:
+
+> fix the omission where it originated rather than masking it later.
+
+If a character disappears because the story genuinely does not need them, that is fine.
+
+If they disappear because the writers forgot them, repair the earlier story architecture.

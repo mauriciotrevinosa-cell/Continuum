@@ -408,7 +408,8 @@ Before Sukuna, Bocchi and Kita should eventually become a couple.
 - Kita first needs to understand Bocchi's new attachment to the household and independently trust Mau;
 - Bocchi needs ordinary time to reconnect with Kita without Mau functioning as translator/mediator for every interaction;
 - at least one meaningful slice-of-life/date/not-yet-date phase should exist before the relationship becomes explicit;
-- Mau helping Kita later should feel like a payoff to an already-growing relationship, not the mechanism that creates the relationship from nothing.
+- Mau helping Kita later should feel like a payoff to an already-growing relationship, not the mechanism that creates the relationship from nothing;
+- once they become explicit, Bocchi/Kita need at least some ordinary couple-life **before the fatal-dream block**, so Mau has actually seen Bocchi building a life that can continue without depending only on him.
 
 The exact confession/date/episode structure is intentionally open, because this should likely receive its own slice-of-life episode or mini-arc later when episode planning begins.
 
@@ -927,7 +928,9 @@ Himmel must have enough time before Sukuna for:
 - eventually becoming someone Mau trusts with `Take care of her for me`.
 
 **Pass-B placement guardrail:**
-Himmel should not arrive immediately before the fatal-dream/preparation block. Even if his last-minute choice to join the battle is the decisive proof of character for Mau, the line `Take care of her for me` works best if Mau and Himmel have already shared enough ordinary household time that they are no longer emotional strangers. Exact episode count remains open.
+Himmel should not arrive immediately before the fatal-dream/preparation block. Even if his last-minute choice to join the battle is the decisive proof of character for Mau, the line `Take care of her for me` works best if Mau and Himmel have already shared enough ordinary household time that they are no longer emotional strangers.
+
+By the time of the battle, Himmel's **active romantic pursuit/question must also be emotionally resolved**. He can still love Frieren profoundly, but he should no longer be treating Mau as an obstacle or waiting for Frieren to choose between them. Otherwise Mau's handoff risks reading like a romantic transfer instead of trust in someone who genuinely cares for her. Exact episode count remains open.
 
 ## Maki
 Maki has enough pre-Sukuna runway for:
@@ -2589,7 +2592,9 @@ Yuta and Rimuru notice the hand-holding:
 The point is not a public romance reveal spectacle. It is a tiny visible sign that life moved forward.
 
 The post-revival promise/argument between Mau and Frieren still matters separately:
-- Frieren is angry about secrecy and unilateral sacrifice, not about being saved.
+- Frieren is angry about secrecy and unilateral sacrifice, not about being saved;
+- the **wider household also needs some emotional processing** of the secrecy and Mau's willingness to treat his own absence as the acceptable cost;
+- Frieren remains the emotional center of that confrontation, but Bocchi/Umaru/Fern/Yuta/Rimuru and others should not simply reset to normal with no reaction.
 
 Sukuna can receive a stinger:
 - he has now lost twice (JJK + Continuum);
@@ -2809,6 +2814,8 @@ Causal rule after the goddess challenge:
 - Mau does not consciously remember the divine conversation, so when Ori-related dreams begin he does not understand why they are happening;
 - the exact metaphysical mechanism by which the goddess creates/brings Ori remains later-layer cosmology, but the causal source is now defined.
 
+**Agency guardrail:** calling Ori a `reward` describes her cosmological/story origin, **not ownership or entitlement**. Ori is a full person with her own agency. The goddess does not create a romantic prize who is obligated to love Mau, and Mau receives no claim over her choices. Her later confession/rejection/chosen-family arc depends on that independence.
+
 Her arrival connector:
 
 ```text
@@ -2916,7 +2923,12 @@ This should remain sympathetic.
 
 Ori is not trying to "steal" Mau.
 
-She is a displaced person whose first anchor is Mau, who discovers that she may be in love with him and sees enough ambiguity to wonder whether she has a chance.
+She is a displaced person whose first anchor is Mau, who discovers that she may be in love with him and sees enough **formal ambiguity** to wonder whether she has a chance.
+
+Important emotional guardrail:
+- Mau is not deliberately leading Ori on;
+- Frieren/Mau's emotional bond is real and visible even before the formal question;
+- Ori's hope comes from the missing explicit relationship step plus her own attachment, not from Mau secretly behaving as though he is romantically available to both women.
 
 ## 36.5 Ori eventually confesses
 
@@ -3379,6 +3391,8 @@ Literal islands remain optional.
 The emotional endpoint is:
 
 > **They have finally found where they want their future to be, but they have not built that future yet.**
+
+**Pass-B emotional guardrail:** choosing the new site must not read as the inn becoming disposable. The inn is the first home where this family formed. The choice should carry both hope for a safer future and the quiet recognition that eventually leaving this place will hurt.
 
 No requirement to assign every house/building before S2 ends.
 

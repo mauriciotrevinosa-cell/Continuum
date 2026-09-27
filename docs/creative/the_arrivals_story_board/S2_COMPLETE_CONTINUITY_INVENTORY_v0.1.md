@@ -3351,7 +3351,11 @@ S1 Sukuna catastrophe
 → they try to reject/avoid the binary
 → realize Mau has already decided he will save Frieren
 → choose to stay and search for a third option
-→ secret training/preparation arc
+→ short preparation window begins
+→ year-turn/festival occurs inside that window as a real household celebration and an unspoken farewell night for Mau/Yuta/Rimuru
+→ Maki confronts Mau/Yuta and receives bounded tactical truth
+→ Mau asks Maki to protect the inn and delay Frieren if possible
+→ secret training/preparation continues
    - Mau/Yuta/Rimuru core
    - Okarun
    - Qifrey
@@ -3364,8 +3368,13 @@ S1 Sukuna catastrophe
 → goddess challenge / Second Chance
 → Sukuna escapes by redirecting Yuta's priority toward Mau; Yuta begins RCT immediately and carries Mau home under a blanket; Rimuru carries Frieren in shock; household asks "And Mau?"; exposed-hand reveal
 → long enough recovery to make hope genuinely painful
+→ the household reaches a point where some begin to discuss whether recovery may no longer be possible
+→ Frieren refuses to accept that conclusion because Mau told her everything would be okay
 → Frieren kiss / “I love you”
+→ Yuta, after finally sleeping/resting, discovers Mau awake while Frieren is already talking with him about something ordinary
+→ staggered household reunions/reactions
 → post-revival anger / promise
+→ basic physical reintegration before celebration
 → communal meal; Mau/Frieren hold hands; Yuta/Rimuru notice
 → substantial post-Sukuna life
 → Ori arrives and Mau/Frieren/Ori relationship arc develops

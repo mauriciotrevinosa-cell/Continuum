@@ -2690,7 +2690,11 @@ The post-revival promise/argument between Mau and Frieren still matters separate
 - after that meal, a more explicit family intervention/confrontation can occur around Mau/Yuta/Rimuru's secrecy and decision-making;
 - the household should distinguish knowledge levels rather than blame every battle participant equally;
 - a central accusation is that Mau implicitly treated his own life as lower-value because everyone else had other support relationships;
+- before Mau explains himself, different residents may hold two competing readings: either Mau did not understand how loved he was, or he loved everyone so much that he chose himself as the cost;
+- Mau's explanation should reveal that **both readings were partly true**: he saw himself as the most expendable person, could not imagine living in a world where Frieren died, and believed he could not forgive himself if he had the ability to save someone he loved and chose not to act;
 - the family rejects that arithmetic: having Kita/Fern/Qifrey/Agott/Maki/etc. does not make Mau replaceable;
+- the family's response is not that Mau should have loved them less; it is that Mau was one of the people his protection logic had to include;
+- named anger beats are examples only; the entire household experienced the apparent death and must be backtraced during episodeization so no resident disappears accidentally from the aftermath;
 - post-trauma attachment behaviors should persist for a while: Umaru may cling to Mau physically, Coco/Fern/Frieren/Bocchi may be reluctant to let him disappear alone, and simple errands can become accidental group outings;
 - these behaviors should fade rather than become permanent dependency;
 - the lasting behavioral change is that Mau communicates ordinary departures/plans more clearly because belonging means his absence affects people.

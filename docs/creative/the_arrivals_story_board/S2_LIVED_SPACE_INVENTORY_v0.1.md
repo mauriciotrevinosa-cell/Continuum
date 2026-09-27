@@ -3240,3 +3240,179 @@ G1/G2/G3 all remain active.
 
 The point of accumulated family is:
 > every new person enters more relationships than the one that brought them to the story.
+
+
+# 54. G4 opening refinements after creator review — STRONG DIRECTION
+
+## 54.1 Maki and Stark are favored as G4 arrivals #1 and #2
+
+Interpret the current creator direction as:
+- **Maki = first G4 convergence**
+- **Stark = second G4 convergence**
+
+They may arrive on the **same day at different moments**.
+
+This is currently favored because the contrast is strong:
+- Maki/Yuta reunion = quiet, intimate, full-life love returning after closure;
+- Stark/Frieren/Fern reunion = warmer, more immediately familial, with comedy and old-party energy.
+
+Do not force the two reunions to overlap emotionally.
+
+The same-day structure can make G4 feel like the world suddenly opened again without turning it into a conveyor belt, because the household responds differently to each reunion.
+
+## 54.2 The household respects old relationships before demanding introductions
+
+When Maki arrives:
+- Yuta/Maki should get immediate private space;
+- the house understands that this is a relationship measured in **years/decades/a completed lifetime**, not a normal newcomer greeting;
+- nobody forces Maki through a full household introduction that first hour/day;
+- food, bathing, room logistics and immediate needs are handled quietly around them.
+
+When Stark arrives later:
+- Frieren/Fern/Stark get their own reunion space;
+- again, the household does not force everyone into the emotional center;
+- Mau stays present enough to belong without intruding;
+- other residents understand that some reunions predate Continuum by years.
+
+The larger social introductions can happen **the following day**.
+
+This creates a useful household norm:
+> people here know when to welcome someone, and when to get out of the way.
+
+## 54.3 Same-day contrast candidate
+
+A favored possible rhythm:
+
+```text
+earlier day:
+Maki arrives
+→ Yuta/Maki reunion
+→ household quietly covers practical needs
+→ Yuta/Maki withdraw / spend the evening-night together
+
+later same day:
+Stark arrives
+→ Frieren/Fern/Stark reunion
+→ Mau is introduced in the old-family space
+→ hamburg steak dinner / callback
+
+next day:
+Maki and Stark both begin being introduced to the broader household
+→ G4 social mesh starts
+```
+
+The exact hour/order is not locked, but the emotional contrast is strong enough to preserve.
+
+### Hamburg steak
+
+Hamburg steak remains the favored reunion dinner for Stark.
+
+If Maki/Yuta are spending that night privately:
+- they do not need to participate in the full dinner;
+- food can be saved/brought to them;
+- the household does not interpret their absence as rude.
+
+This lets both reunions keep their own emotional temperature on the same day.
+
+---
+
+# 55. Maki finds the four girlfriends during a newly-normal routine — STRONG DIRECTION
+
+The four-girl convergence should come **after Maki has begun developing ordinary routines at the inn**.
+
+Preferred setup:
+- Maki is doing something mundane she has recently started doing as a resident;
+- route check;
+- material pickup;
+- short patrol;
+- exercise/run;
+- helping with supply work;
+- another practical routine.
+
+She encounters:
+- Hakari;
+- Karane;
+- Shizuka;
+- Nano.
+
+Key refinement:
+> they have only been in Continuum for a very short time — on the order of **minutes**, roughly ~15 minutes as a working flavor.
+
+Do not lock the exact number yet.
+
+Story effect:
+- the four have not had time to build a survival system;
+- their confusion is fresh;
+- Maki finds them before Continuum wilderness can become a huge ordeal;
+- Maki now occupies the role the household once occupied for her: someone already integrated enough to help the next arrivals.
+
+This is one of the cleanest payoffs of cumulative integration.
+
+The humor can come from Maki realizing:
+> these four are extremely new and have absolutely no idea what is happening.
+
+---
+
+# 56. Himmel timing clarification — road introduction can precede Sukuna dream, inn arrival should follow it
+
+Important distinction:
+
+The preferred rule is about **Himmel reaching the inn**, not about the audience first seeing Himmel.
+
+Himmel can be introduced in parallel **earlier**.
+
+Preferred structure:
+
+```text
+Maki/Stark begin G4
+→ Himmel exists elsewhere / first road interlude can occur
+→ he travels, helps people, hears vague Otherworlder rumors
+→ small predictive dreams begin at the inn
+→ Himmel's march toward the rumored settlement continues in interludes
+→ Mau receives first clearly Sukuna-related dream
+→ Himmel is still on the road
+→ his information finally becomes specific enough to point clearly toward Frieren
+→ Himmel reaches the inn
+```
+
+This is stronger than withholding Himmel entirely until the dream.
+
+Benefits:
+- Himmel has agency and travel history;
+- his arrival does not feel abrupt;
+- the audience can anticipate his convergence;
+- the **emotional ordering still holds**:
+  - first Sukuna-related dream for Mau
+  - then Himmel physically enters Frieren/Mau's household.
+
+This is the current favored distinction.
+
+---
+
+# 57. Frieren/Maki trust should be earned through life, not marital credentials
+
+Do not use:
+> Maki is Yuta's wife, therefore Frieren trusts her.
+
+Preferred development:
+- Frieren sees how Maki behaves;
+- watches how Yuta relaxes around her;
+- works/eats/lives beside her;
+- notices Maki's judgment and restraint;
+- has small ordinary conversations before anything emotionally important.
+
+Only later does Maki become someone Frieren can discuss love/choice with.
+
+The trust sequence should feel like:
+
+```text
+Maki arrives
+→ impossible reunion with Yuta
+→ becomes resident
+→ Frieren observes her
+→ they interact casually
+→ mutual respect forms
+→ emotional conversation becomes possible
+```
+
+Maki's authority comes from lived character and experience, not title/status.

@@ -1742,6 +1742,10 @@ It is a short, desperate specialization block running in parallel with ordinary 
 
 Most of the household does **not** know what is happening.
 
+**Maki exception / bounded knowledge:** because she has lived a lifetime with Yuta and notices the secrecy, Maki eventually confronts Mau directly. Mau tells her only that someone she knows is coming and that the team believes it has an advantage because it knows the approximate where/when/who. He withholds the full predicted outcome. Mau asks Maki to remain at the inn, protect the people left behind, and delay Frieren if she realizes something is happening and tries to follow.
+
+Maki understands that changing variables may break the plan, but she does not surrender her own judgment. If Frieren later makes a fully conscious choice to go, Maki does not physically imprison her.
+
 ## 20.1 Yuta — Hail Mary: RCT
 
 Yuta chooses **RCT** as his primary preparation target.
@@ -3210,6 +3214,8 @@ They can live inside:
 
 ### Strong festival candidate: year-turn at the inn
 
+**Placement refinement:** the festival is now favored after the fatal Sukuna binary has become credible and after Mau has told Yuta/Rimuru, inside the short pre-battle preparation window.
+
 A strong combined calendar + world-state episode/sequence:
 
 - by the time most/all of G4 are living at the inn, the household learns that the local year-turn / New Year-like festival is approaching;
@@ -3217,6 +3223,9 @@ A strong combined calendar + world-state episode/sequence:
 - rather than disguise the entire household and pretend the fear is gone, they decide to create a **smaller festival at the inn**;
 - everyone contributes according to personality: food, decorations, games, music, gifts, rituals, jokes, etc.;
 - the event can carry relationship runway (Bocchi/Kita, Mau/Frieren, Himmel integration, G4 ordinary life) while also marking that many months have passed;
+- Mau/Frieren can have a date-like stretch inside the larger celebration before Coco/Bocchi/Umaru pull Mau into games;
+- Mau/Yuta/Rimuru behave only slightly unusually because they know something ugly may be coming;
+- for the core trio, the night can function as an unspoken farewell without the wider family realizing it;
 - the emotional undertone is bittersweet: they have built something joyful together because the outside world is not yet ready to receive them openly.
 
 This is a **strong episodeization candidate**, not a locked episode number.

@@ -8,12 +8,29 @@ The guiding principle is:
 
 > **Once Ori's foundational arc is genuinely resolved, S2 should close with momentum rather than adding another long tail of episodes.**
 
-This does **not** mean rushing Ori's hurt or chosen-family transition.
+Critical clarification:
 
-It means:
-- give Ori the runway she needs;
-- complete the emotional work;
-- then let the season finish in a comparatively compact final movement.
+> **compact after Ori, not compact Ori.**
+
+Ori is one of the major emotional arcs of late S2 and needs real lived-space runway.
+
+Do **not** compress:
+- her arrival;
+- dependence on Mau as first anchor;
+- early household integration;
+- independent relationships with other residents;
+- Frieren's jealousy/confusion;
+- Ori's own uncertainty about what she feels;
+- the girls-conversation / formal-ambiguity discovery;
+- Ori testing whether romance is possible;
+- confession;
+- rejection/hurt;
+- chosen-family rebuilding;
+- independent Frieren/Ori bond.
+
+The season may spend substantial time here if the material needs it.
+
+Only **after** Ori has been allowed to breathe should the final closure movement become comparatively compact.
 
 ---
 
@@ -21,15 +38,33 @@ It means:
 
 Do not begin the final S2 closure merely because Ori confessed.
 
+Ori needs enough story time that the audience has experienced her as a **resident/person**, not only as a romantic catalyst.
+
 Before moving quickly toward the ending, we need to have seen:
+- Ori's first days and practical adaptation;
+- her dependence on Mau as first anchor;
+- moments where Mau is absent and Ori still functions inside the household;
+- independent relationships beyond Mau;
+- Frieren/Ori interactions before and after romantic tension;
+- Ori participating in ordinary house life;
+- Ori's confusion about gratitude, attachment, safety and romantic feeling;
 - Ori's confession and hurt;
 - Mau clearly but compassionately not reciprocating romantically;
 - Mau recognizing that his feeling for Frieren is romantic love;
+- Ori being allowed to be hurt without immediately becoming cheerful;
 - Ori choosing to remain with the household;
-- at least the beginning of an independent Ori/Frieren bond;
+- a visible independent Ori/Frieren bond beginning to stabilize;
 - Ori functioning as more than "the girl who liked Mau."
 
-Once those conditions are met:
+No fixed episode count follows from this.
+
+The readiness test is:
+
+> **If Ori disappeared immediately after her confession, would the audience feel that a real member of the family was missing?**
+
+If the answer is no, the arc has not breathed enough yet.
+
+Once the answer is yes and the romantic/chosen-family transition has genuinely landed:
 > the season does not need another twenty episodes of runway.
 
 ---
@@ -299,14 +334,19 @@ The final S2 image therefore contains the seed of S3 without performing S3's wor
 
 ```text
 Ori discovery
-→ Ori integrates
-→ Mau/Ori attachment becomes emotionally complicated
+→ substantial Ori integration / ordinary life
+→ Ori develops multiple household relationships beyond Mau
+→ Mau/Ori attachment becomes emotionally complicated over time
+→ Frieren/Ori relationship develops independently as well
 → girls conversation exposes missing Mau/Frieren formalization
-→ Ori pushes / eventually confesses
+→ Ori explores the possibility rather than instantly confessing
+→ more ordinary life / emotional ambiguity
+→ Ori eventually confesses
 → Mau cannot reciprocate romantically
+→ Ori hurt is allowed to breathe across real story time
 → Mau finally names his love for Frieren
-→ Ori hurt is allowed to breathe
-→ Ori begins choosing family / independent Frieren bond becomes visible
+→ Ori gradually chooses family / independent Frieren bond becomes visibly stable
+→ only then does late-S2 closure accelerate
 → Mau asks household for help
 → Mau/Frieren formalization
 → communal celebration

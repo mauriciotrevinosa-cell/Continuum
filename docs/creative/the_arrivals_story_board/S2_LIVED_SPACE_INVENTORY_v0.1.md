@@ -2167,3 +2167,474 @@ Therefore:
 - exact spacing remains open until G4 lived-space/calendar work confirms it.
 
 This is the current best compromise between the emotional idea and the Pass-B runway requirement.
+
+
+# 34. G3 integration braided continuity proposal — STRONG PROPOSAL / NOT EPISODE LOCK
+
+This is the current best **chronological braid** for the G3 integration period.
+
+It is not an episode outline.
+
+The purpose is to understand:
+- what is happening at the inn at the same time;
+- how relationships overlap;
+- how G3 gradually stops feeling new;
+- what material naturally belongs near each other before later episodeization.
+
+Exact duration remains open, but this block should feel like **several lived weeks**, not a weekend and not many months.
+
+---
+
+## Movement 1 — Arrival shock becomes household triage
+
+The emotional arrival beats happen first:
+- Kita recognizes Bocchi and then sees the injury;
+- Momo recognizes Okarun;
+- Okarun does not recognize Momo.
+
+But the household cannot spend the entire evening processing those two shocks because eight exhausted people have physically arrived.
+
+Several things happen at once.
+
+### Kita / Bocchi
+Kita's attention goes almost entirely to Bocchi.
+
+She wants to know:
+- what happened;
+- whether Bocchi is safe;
+- who these people are;
+- why Bocchi looks simultaneously injured and more comfortable around people than Kita may remember.
+
+Bocchi tries to explain and still gets stuck.
+
+Fern can naturally help without speaking for her completely.
+
+Mau does **not** hover.
+
+That matters to Kita.
+
+### Momo / Okarun
+Momo is emotionally destabilized by the recognition mismatch.
+
+Other people quickly realize this is not a problem to solve in the doorway.
+
+Okarun is given space to eat, wash and breathe.
+
+Momo has to sit with the impossible fact that someone she knows intimately is looking at her like a stranger.
+
+### Umaru
+Umaru is visibly miserable from travel / dirt / unfamiliar living conditions.
+
+Mau notices.
+
+Before she knows how to ask:
+- Marin/Wakana or another resident helps find temporary clothes;
+- Umaru goes to bathe;
+- Mau sees the familiar hamster cloak/blanket/garment and quietly cleans it while she is gone.
+
+When Umaru comes back, nobody turns the moment into a speech.
+
+Her important object is simply clean.
+
+That is the first seed of:
+> Mau is safe.
+
+### The rest of G3
+They are helped in different ways rather than processed as a queue:
+- Mikasa needs very little physical help but immediately studies exits / perimeter / household competence;
+- Qifrey/Coco are already noticing unfamiliar magical phenomena;
+- Marin talks more than most because silence is uncomfortable;
+- Wakana starts helping with practical clothing/bedding problems almost immediately;
+- the existing residents split naturally between food, baths, bedding, questions and calming the house.
+
+The night ends with the realization:
+> there are nowhere near enough proper rooms.
+
+---
+
+## Movement 2 — The room problem turns strangers into roommates
+
+The first days are dominated by overcrowding.
+
+Mau hears the room problem and casually offers his room.
+
+Frieren and Fern hear him.
+
+They do not make it a scene.
+
+The symbolic meaning is carried by everything that came before:
+- Mau once needed to be given a place;
+- now he gives it away because the house matters more than ownership of the room;
+- returning to Frieren/Fern's space does not feel like regression;
+- it feels like home has become relational rather than architectural.
+
+Other people also give up / share space.
+
+Temporary sleeping combinations become messy and funny.
+
+A favored possibility:
+- Frieren;
+- Mau;
+- Fern;
+- Bocchi;
+- Umaru;
+- later slime-Rimuru.
+
+The exact arrangement can vary night to night.
+
+Umaru may eventually treat slime-Rimuru as a cushion with almost no shame.
+
+This is also where she begins understanding:
+> Mau's family is not an obstacle between her and Mau; it is part of why Mau feels safe.
+
+Meanwhile:
+- Wakana becomes important because bedding/clothing actually matters;
+- Marin wants temporary spaces to stop looking depressing;
+- Rimuru measures/plans;
+- Fern knows where everything is and starts naturally teaching newcomers;
+- Anko's notes/materials begin appearing in the same clutter as everyone else's things;
+- Coco follows Qifrey but also starts watching how the household functions.
+
+No one announces integration.
+
+It begins because privacy becomes impossible.
+
+---
+
+## Movement 3 — Questions create the Contract problem
+
+As people settle, curiosity starts outrunning boundaries.
+
+Not in a council first.
+
+In daily life.
+
+Examples:
+- Umaru asks Mau what exactly he can do;
+- Kita asks Bocchi about the household and the people protecting her;
+- Marin sees something impossible and asks the obvious question;
+- Qifrey/Coco ask how local/imported magic works;
+- Momo begins explaining something about Okarun, realizes halfway through that she is effectively telling him his own private history, and stops.
+
+That last problem is especially important.
+
+The household discovers a distinction it did not need as sharply before:
+
+> knowing something about a person does not automatically give you the right to disclose it.
+
+Anko can be valuable here without becoming the authority:
+- she notices when Momo is about to cross the line;
+- she may redirect / ask a dry question;
+- she helps articulate that memory itself can be private information.
+
+Rimuru/Yuta/Frieren/Mau/Qifrey can all approach the issue from different angles.
+
+The confidentiality Contract grows from that real social problem.
+
+Not:
+> we need a law.
+
+But:
+> we need a way to trust one another without accidentally weaponizing what we know.
+
+---
+
+## Movement 4 — The house becomes a workshop / classroom / family room
+
+Once immediate triage passes, the inn begins having several activities at once.
+
+This should become a recurring S2 texture.
+
+### Study mesh
+
+Qifrey works with Coco and Mau.
+
+Frieren becomes interested.
+
+Fern is nearby and comments from her own magical assumptions.
+
+Rimuru eventually joins because some interaction becomes systemically strange.
+
+Yuta may be present for only part of it.
+
+The same scene can contain:
+- Qifrey teaching;
+- Coco asking questions;
+- Mau over-analyzing something strange;
+- Frieren disagreeing with one premise;
+- Fern giving a practical correction;
+- Rimuru/Raphael producing a different interpretation;
+- somebody arriving with food and derailing the conversation.
+
+This is where Mau/Coco becomes sibling-like **inside family life**, not inside a sealed pairing.
+
+Later Mau/Coco also get tiny direct beats:
+- snack/material run;
+- Coco showing him something she drew/practiced;
+- Mau helping after a failed attempt;
+- Coco making fun of how seriously he is staring at something simple.
+
+### Practical-work mesh
+
+Elsewhere / another day:
+- Wakana works on bedding/clothing;
+- Marin helps with aesthetics and then gets forced into practical labor;
+- Rimuru solves logistics but cannot personally perform every job;
+- Fern/Mau carry materials;
+- Coco/Qifrey investigate whether a material can be used magically;
+- Maomao becomes interested if a material has medicinal/chemical properties.
+
+The story should frequently allow one activity to attract people from several source worlds.
+
+---
+
+## Movement 5 — The first genuinely useless family days
+
+Before every relationship becomes "development," give them days that are simply lived.
+
+### Cooking disaster / music night
+
+Too many people in the kitchen.
+
+Possible causes:
+- incompatible cooking habits;
+- somebody attempts to scale a recipe badly;
+- Marin/Momo/Umaru each think they know better;
+- Maomao contributes something technically edible but alarming;
+- Frieren is banned from suggesting an impractical ingredient/grimoire detour.
+
+They still eat.
+
+Later Bocchi plays.
+
+Kita naturally joins the music energy.
+
+Marin gets excited.
+
+Okarun/Coco/Umaru are present as peers rather than plot devices.
+
+Mikasa may initially sit at the edge and then stay longer than she meant to.
+
+### Common-room nothing day
+
+Another day:
+- Frieren reading against Mau;
+- Fern and Anko talking with Mau;
+- Coco gradually migrates over and leans/settles near them;
+- Qifrey is working nearby;
+- Yuta/Rimuru are in the room doing their own thing;
+- Rimuru becomes slime furniture;
+- Momo/Maomao conduct fake detective nonsense;
+- Marin/Kita/Umaru provide intermittent noise;
+- Wakana sews;
+- Mikasa cleans gear;
+- Bocchi still short-circuits when directly addressed.
+
+No plot payoff.
+
+The value is:
+> several different relationships are happening in the same room and nobody thinks this is unusual anymore.
+
+---
+
+## Movement 6 — Outside work expands the social network
+
+The household cannot integrate only inside the inn.
+
+A mixed practical mission / candidate-site check can include a rotating group rather than one friendship showcase.
+
+Possible structure:
+- Yuta + Mikasa naturally handle route/perimeter thinking;
+- Mau + Okarun fall into conversation/work beside them;
+- Fern or Qifrey joins because the site/material requires it;
+- Wakana may come if useful resources/materials are involved;
+- somebody else rotates in based on the mission.
+
+### Mikasa arc inside work
+
+At first Mikasa is visibly most comfortable here.
+
+There is:
+- a route;
+- a task;
+- danger assessment;
+- a watch;
+- clear responsibility.
+
+That is familiar.
+
+Yuta may understand that without diagnosing her.
+
+Across several outings:
+- Mikasa remains excellent;
+- but she slowly stops needing work/danger to justify belonging;
+- after one mission she returns and gets pulled directly into stupid common-room chaos;
+- eventually both modes are equally "her life."
+
+### Mau / Okarun
+
+Their friendship grows because Mau treats Okarun as:
+- useful;
+- weird in an understandable way;
+- someone to work beside;
+
+not as Momo's broken memory problem.
+
+Okarun's supernatural curiosity can naturally emerge.
+
+### Candidate site
+
+They inspect somewhere that looks promising and conclude:
+> no.
+
+Possible reason:
+- water access wrong;
+- monster route;
+- defensibility problem;
+- soil/resource issue;
+- too exposed;
+- poor expansion potential.
+
+Nothing attacks them dramatically.
+
+They simply learn.
+
+This is important because the eventual long-term home should feel **chosen**, not cosmically handed to them.
+
+---
+
+## Movement 7 — First moving-pack adventure
+
+The household's women's social network gets its first real shared adventure.
+
+It does not need the complete group.
+
+Organic seed:
+- Marin's phone frustration;
+- Momo recognizes the feeling;
+- Marin/Momo decide Maomao needs to stop hiding inside;
+- Maomao refuses;
+- social kidnapping begins.
+
+The group accretes naturally.
+
+Potential participants:
+- Anko;
+- Fern;
+- Bocchi;
+- Kita;
+- Mikasa;
+- Umaru;
+- Coco;
+- others depending on the objective.
+
+The outing should have a small purpose:
+- ingredients;
+- local ruins;
+- lake/forest;
+- craft materials;
+- harmless mystery;
+- something they can accomplish without becoming a combat arc.
+
+Character value:
+- Anko is there because she belongs in the social field, not because we remembered her afterward;
+- Mikasa is allowed to exist without being the assigned guard;
+- Umaru may complain constantly and still have fun;
+- Coco gets life outside Qifrey;
+- Bocchi/Kita reconnect naturally;
+- Fern exists socially outside Frieren;
+- Momo/Marin discover they can create chaos together;
+- Maomao resents being dragged out but does not actually leave.
+
+On a later outing, Umaru may choose not to go.
+
+That is equally valid.
+
+---
+
+## Movement 8 — The Contract becomes physically real
+
+Only after the confidentiality arrangement has existed long enough to feel mundane does Okarun test it.
+
+He attempts a harmless protected disclosure.
+
+Something stops him.
+
+He becomes curious.
+
+He pushes harder.
+
+The Contract responds with a sharp pain / lightning-like enforcement.
+
+The entire thing can happen quickly.
+
+The important aftermath is not panic.
+
+It is the room realizing:
+> oh. This is real.
+
+Then the questions begin:
+- can natives use this?
+- native with Otherworlder?
+- native with native?
+- can terms expire?
+- can people dissolve one?
+- can Contracts enforce an exchange?
+- what if a condition becomes impossible?
+
+Rimuru/Qifrey/Frieren/Yuta may each become interested for different reasons.
+
+Nobody has the full answer.
+
+The scene opens a new worldbuilding door and then life continues.
+
+---
+
+## Movement 9 — G3 stops being a category
+
+The final integration phase should not be announced.
+
+Instead, across several normal scenes:
+
+- Kita answers a household question before an older resident does;
+- Wakana gets asked directly for help;
+- Marin has permanently changed some common-room detail;
+- Coco enters a Mau/Qifrey/Frieren study session without asking;
+- Umaru refuses an outing because she wants to stay home, and nobody interprets that as social withdrawal/crisis;
+- Mikasa complains about somebody leaving something in a stupid place;
+- Okarun is late for dinner and someone has already saved food for him;
+- Momo argues with someone about a household chore instead of only thinking about Okarun;
+- Anko's writing supplies live permanently on one table;
+- Qifrey gets interrupted mid-serious explanation because someone needs him for something mundane;
+- Bocchi/Kita have ordinary time that is neither injury recovery nor romance milestone;
+- Fern asks a G3 resident for help as naturally as she would ask G1/G2;
+- Rimuru's planning assumes G3 labor/preferences without calling them "the newcomers."
+
+At this point:
+> G3 is over as a social category even if the production documents still use the label.
+
+That is the correct bridge into G4.
+
+---
+
+# 35. What should survive from this pass into later episodeization
+
+When this block is eventually divided into episodes, preserve the following **functions**, not necessarily the exact unit boundaries:
+
+1. arrival help begins immediately and differently for different people;
+2. overcrowding physically changes old residents' routines;
+3. Mau giving up his room remains a quiet symbolic beat;
+4. Umaru/hamster-cloak care remains an early Mau/Umaru trust seed;
+5. Momo/Okarun is allowed to hurt slowly rather than being solved;
+6. Contract/privacy grows from relationships before becoming a system;
+7. Qifrey/Mau/Coco study happens inside a larger social mesh;
+8. Mau/Coco sibling closeness becomes visible;
+9. Mikasa is both war-shaped and increasingly capable of ordinary life;
+10. Wakana, Anko, Coco, Okarun, Kita and Umaru all gain existence beyond their easiest single function;
+11. at least one mixed outside job/site check occurs;
+12. at least one genuinely quiet/domestic story breathes;
+13. at least one moving-pack/girlies story develops naturally;
+14. the Contract's first enforcement opens questions rather than answering the system;
+15. G3 integration ends invisibly through habits, not ceremony.
+
+No fixed episode count follows from this list.

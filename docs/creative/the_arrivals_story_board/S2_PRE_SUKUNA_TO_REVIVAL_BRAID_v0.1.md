@@ -1461,65 +1461,269 @@ Let consequences surface over multiple days/scenes.
 
 ---
 
-# 37. First communal return-to-life beat — AFTER REUNIONS / ANGER / BASIC RECOVERY
+# 37. First communal return-to-life beat — JOY BEFORE FULL RESOLUTION
 
-A large meal remains a powerful endpoint for this giant block, but it should happen **well after the initial awakening** — potentially days later depending the final recovery clock.
+The large communal meal should **not** require the family to finish processing the trauma first.
 
-Between:
+Current stronger placement:
+
 ```text
-kiss / awakening
-→ dinner
+Mau wakes
+→ intimate Frieren/Mau beat
+→ Yuta discovers him awake
+→ staggered reunions / medical confirmation
+→ Mau becomes stable enough to sit with everyone
+→ communal meal
+→ following days: deeper anger, intervention, guilt, clinginess and trust repair
 ```
 
-there should be:
-- Yuta discovering Mau is awake;
-- staggered household reunions/reactions;
-- medical confirmation / Maomao involvement;
-- Rimuru/Mau/Yuta emotional fallout;
-- Frieren's anger and the secrecy argument;
-- wider household anger/questions;
-- Mau beginning to sit up / move / re-enter ordinary space;
-- enough time for disbelief to become relief.
+The meal can happen relatively soon after Mau is physically able to participate — not necessarily the same day, but before every difficult conversation is finished.
 
-Only then does the communal meal land as:
-> we can finally all sit at the same table again.
+That is the point.
+
+For one evening, the household collectively chooses:
+> he is here; we are allowed to be happy about that.
 
 This meal does **not** mean:
 - everyone has forgiven Mau;
 - Rimuru's guilt is gone;
+- Yuta is free of responsibility;
 - Frieren's anger is resolved;
-- Fern/Anko/Bocchi/Umaru/Coco have processed everything.
+- Fern/Anko/Bocchi/Umaru/Coco have processed everything;
+- the secrecy question is closed.
 
-For that evening, the dominant feeling is simply:
-> Mau is here.
-
-The family can deliberately choose joy for one meal while the wounds remain.
-
-A large meal after enough recovery remains a powerful endpoint for this giant block.
+The family can laugh with Mau at dinner and still confront him tomorrow.
 
 The family is still emotionally bruised.
 
-But:
-- food is good;
-- people laugh again;
-- someone cries unexpectedly;
-- arguments have not all vanished;
-- Mau is physically present.
+Possible texture:
+- good food;
+- someone cries unexpectedly while laughing;
+- Mau tires faster than he expects;
+- Maomao tells him to stop pretending he is fine;
+- Frieren stays close;
+- Mau/Frieren hold hands under/at the table;
+- Yuta and Rimuru notice and exchange the small smile/laugh already preserved;
+- somebody keeps touching Mau's shoulder/arm as if checking he is physically there.
 
-Mau/Frieren sit together holding hands.
-
-Yuta and Rimuru notice.
-
-They exchange a small smile/laugh because they understand something changed.
-
-No public relationship announcement required.
-
-This meal can function as:
+This meal functions as:
 > Sukuna did not erase the household.
 
-It is not yet the end of S2.
+It is **not** emotional closure.
 
 ---
+
+# 37.1 The family intervention comes after relief has had room to exist
+
+Within the following days, the household eventually reaches a point where avoidance stops working.
+
+This should not be staged as:
+> everyone lines up to yell at Mau.
+
+A stronger shape is a messy family intervention / confrontation centered on:
+- Mau;
+- Yuta;
+- Rimuru.
+
+Why those three:
+- Mau carried the fatal premise and made the central unilateral choice;
+- Yuta knew the stakes and helped build the third-option plan;
+- Rimuru knew the stakes and voluntarily accepted the Contract.
+
+Other battle participants had different knowledge levels:
+- Qifrey knew a tactical role / predicted trigger;
+- Okarun knew an emergency extraction role;
+- Himmel joined at the last moment with almost no secret information.
+
+The household may initially be angry at **everyone who went**.
+
+Part of the intervention is learning:
+> they did not all know the same thing.
+
+That distinction matters.
+
+## 37.2 The real accusation is not only secrecy
+
+The deepest wound is:
+
+> Mau treated his own life as if it had lower value than everyone else's.
+
+The family should challenge this explicitly.
+
+Mau's logic was:
+- Frieren survives;
+- Bocchi has Kita/Fern/the household;
+- Umaru has the household;
+- Coco has Qifrey/Agott/the household;
+- Yuta has Maki;
+- everyone has somebody;
+- therefore they can survive losing him.
+
+The family hears something very different:
+
+> you looked at all of us, decided we would recover, and used that as permission to disappear.
+
+This is where multiple characters can hit different parts of the same flaw.
+
+Possible emotional angles:
+- Frieren: you did not get to decide what your death would do to me;
+- Fern: you made Frieren cry and expected the rest of us to call the outcome acceptable;
+- Anko: you knew exactly how attached everyone was and still rationalized yourself out of the equation;
+- Bocchi: having Kita/Fern does not mean losing Mau would stop hurting;
+- Coco: having Qifrey/Agott does not replace an older brother;
+- Umaru may barely articulate it because she is still crying/angry;
+- Maki can recognize the flawed arithmetic of treating loved ones as interchangeable support structures;
+- Yuta/Rimuru can admit they let the conversation become too tactical.
+
+This is not:
+> Mau should never sacrifice himself.
+
+It is:
+> Mau cannot assign himself a lower human value because other people have support networks.
+
+That lesson should carry into later seasons.
+
+## 37.3 Yuta and Rimuru are not exempt
+
+The household can also be angry at Yuta/Rimuru:
+
+> Why didn't you tell us?
+
+Yuta's defense is not:
+> because I knew best.
+
+It is:
+- the timing window was tiny;
+- the dreams suggested variables mattered;
+- their only viable strategy depended on controlling information;
+- he was trying to create a third outcome.
+
+Rimuru's position is more emotionally compromised because of the Contract.
+
+He tries to admit:
+- he agreed voluntarily;
+- he understood enough to know what Mau was asking.
+
+Mau still interrupts any attempt for Rimuru to absorb all blame.
+
+But the family is allowed to be angry at **both** of them.
+
+Important:
+- Yuta and Rimuru do not get instantly absolved because Mau was the originator;
+- Mau does not get to protect them from every consequence;
+- responsibility remains distributed.
+
+## 37.4 The intervention should change behavior, not just produce dialogue
+
+The aftermath needs visible behavioral consequences.
+
+For a while, the family becomes physically and socially reluctant to let Mau disappear from sight.
+
+Not as permanent surveillance.
+
+As trauma.
+
+Possible recurring beats:
+
+### Umaru leg-cling callback
+Mau casually says he is going somewhere.
+
+Umaru, still raw from believing he was dead, physically clings to his leg / blocks him in an exaggerated shut-in-sister way.
+
+This can be funny on the surface and painful underneath.
+
+Mau initially does not understand why everyone reacts.
+
+Then he does.
+
+### Coco refuses to let the study end normally
+Mau gets up to leave after studying with Qifrey/Coco.
+
+Coco asks where he is going.
+
+He answers.
+
+She still finds another reason for him to stay five more minutes / walk with her / take her with him.
+
+Do not make her permanently dependent.
+
+It is a temporary post-trauma behavior.
+
+### Frieren is not the only one following him now
+Callback to earlier Frieren/Fern attachment dynamics:
+
+Mau tries to go on a simple errand.
+
+One person volunteers.
+
+Then another.
+
+Then somehow he has:
+- Frieren;
+- Umaru;
+- Coco;
+- maybe Fern/Bocchi depending the day;
+
+walking with him for what was supposed to be a five-minute task.
+
+The comedy works because Mau realizes:
+> nobody is quite ready to trust that "I'll be back" means what it used to mean.
+
+### Fern anger through practical control
+Fern may become especially strict about:
+- rest;
+- telling people where he is going;
+- not overexerting;
+- not hiding symptoms.
+
+Her irritation is partly medical/practical and partly:
+> you made Frieren live through that.
+
+### Anko normalizes before forgiving
+Anko can resume teasing Mau before she has forgiven him.
+
+That is useful.
+
+It shows:
+- relationship continuity;
+- unresolved anger;
+- love without emotional reset.
+
+## 37.5 Do not let clinginess erase character growth
+
+These behaviors should **fade gradually**.
+
+They are not the new permanent status quo.
+
+The point is:
+> Mau's death temporarily reactivates abandonment fear across the household.
+
+As trust repairs:
+- Umaru stops physically clinging every time;
+- Coco stops checking every departure;
+- Frieren becomes less hyper-attentive;
+- Fern relaxes some control;
+- Mau becomes better at saying where he is going / when he expects to return without being asked.
+
+The lasting change should be healthier communication, not permanent anxiety.
+
+## 37.6 Mau has to learn a new form of ordinary responsibility
+
+One of Mau's post-revival lessons can be deceptively small:
+
+Before:
+> I'm going out.
+
+After:
+> I'm going to the east route with Okarun. We should be back before dinner.
+
+Not because he needs permission.
+
+Because people who love him should not have to guess whether he disappeared again.
+
+This is a small, concrete behavioral payoff to the huge emotional lesson:
+> belonging means your absence affects other people.
+
 
 # 38. Where this braid should hand off
 
@@ -1591,11 +1795,16 @@ Maki #1 + Yuta reunion
 → Frieren kiss + "I love you"
 → Yuta wakes/rests and discovers Mau alive while Frieren is already talking with him normally
 → staggered household reunions / Umaru, Fern, Bocchi, Coco, Maomao, Rimuru, others
+→ enough physical recovery for Mau to rejoin the table
+→ communal meal: joy without full forgiveness / hand-holding
+→ following days: family intervention focused on Mau/Yuta/Rimuru
+→ knowledge tiers clarified; anger at secrecy remains
+→ Mau's habit of valuing his own life lower than everyone else's is confronted directly
 → Rimuru attempts to disclose his voluntary Contract role; Mau stops him from carrying all blame
-→ Anko confronts Mau hard because she cares
-→ Frieren / Fern / wider household anger continues across separate scenes
-→ basic physical reintegration
-→ communal meal days later if needed: joy without full forgiveness / hand-holding
+→ Anko/Fern/Frieren/others confront Mau in different ways
+→ temporary post-trauma clinginess / departure anxiety (Umaru leg-cling, Coco/Frieren/Fern/etc.)
+→ Mau begins changing ordinary communication habits
+→ grief/anger/trust repair continues
 → post-Sukuna life
 ```
 

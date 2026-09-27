@@ -444,3 +444,357 @@ Do not deliberately withhold candidate episode stories, connective material, or 
 
 The creator may still choose to review high-level structure first and defer scene-level details, but that is a pacing choice made together rather than a hidden-review workflow.
 
+
+
+# 16. Full opening→G3 lived-space proposal — PROPOSAL / OPEN
+
+This section translates the inventory above into a concrete story-flow proposal without assigning episode numbers.
+
+## Phase I — known hidden threat, ordinary life refuses to stop
+
+### Story lane: the morning after Sukuna is sensed
+
+Yuta has already warned the established household/core.
+
+The opening should resist the temptation to make everyone immediately enter war mode.
+
+Instead:
+- breakfast still happens;
+- somebody still needs water / food / repairs;
+- guild/work plans still exist;
+- Yuta is visibly more alert than usual;
+- Rimuru begins quietly thinking in contingencies;
+- Frieren remains practical because there is no target to pursue;
+- Mau notices the emotional temperature of the room even if he cannot contribute tactically.
+
+A small but valuable continuity beat:
+- Fern leaves on a normal low-risk task;
+- Frieren clearly wants to track / stop her;
+- she chooses not to.
+
+This preserves S1 growth before S2 starts applying pressure.
+
+### Quiet-story candidate: an ordinary work/day-off unit
+
+Before rumors fully poison the atmosphere, the household should get at least one stretch that still feels like late-S1 life.
+
+Possible shape:
+- low-danger guild work, ingredient gathering or fishing;
+- different people split into small groups;
+- Mau gets dragged between several unrelated tasks;
+- Bocchi plays music that evening;
+- dinner feels normal;
+- Yuta's vigilance is the only reminder that something is wrong.
+
+This story does not need a payoff beyond:
+> this is the life Sukuna's existence is threatening.
+
+## Phase II — G3 road story continues in parallel
+
+G3 should remain a living parallel thread rather than disappearing until arrival day.
+
+Possible fragments spread across the opening:
+- caravan breakfast / bad road food;
+- Umaru discovering medieval travel is miserable;
+- Kita and Marin giving the road group social energy;
+- Wakana quietly becoming useful through practical repair/craft;
+- Qifrey/Coco treating travel as an opportunity to observe the world;
+- Okarun experiencing a small near-memory that refuses to resolve;
+- Mikasa assessing routes, watches, terrain and the merchant's reliability.
+
+These fragments can be short and do not need to advance the route every time.
+
+The purpose is to make G3 feel as though they have been living through the same weeks as G1+G2.
+
+## Phase III — rumors reach the region by fragments, not by decree
+
+The deterioration should unfold through repeated ordinary contact.
+
+Possible progression:
+
+1. **First wrong-feeling interaction**
+   - a familiar merchant / guild worker is still civil;
+   - someone nearby watches too long;
+   - a rumor is mentioned indirectly;
+   - nobody knows the full truth.
+
+2. **Contradictory reports**
+   - destroyed city;
+   - demon;
+   - foreign sorcerer;
+   - Otherworlder;
+   - divine punishment;
+   - different survivor accounts disagree.
+
+3. **A practical change**
+   - price increase;
+   - delayed service;
+   - guild caution;
+   - someone asks a pointed question about where they came from.
+
+4. **A sympathetic warning**
+   - a native contact tells them privately that people are frightened and talking.
+
+5. **A calmer day**
+   - one interaction goes normally again;
+   - this matters because the household has reason to hope the worst reaction is passing.
+
+No single beat should announce:
+> society now hates Otherworlders.
+
+## Phase IV — false calm / life at the inn
+
+Before the Bocchi incident, preserve a short stretch where the family allows itself to relax again.
+
+Candidate quiet stories, all optional:
+- rainy day inside the inn;
+- lake/fishing outing;
+- music night;
+- cooking experiment that goes wrong;
+- low-stakes repair project;
+- a small ingredient-gathering trip;
+- everyone being too tired to do much after several work days;
+- board/card/game equivalent or invented local pastime;
+- people using the bathhouse/common spaces built in S1;
+- Mau's birthday plant/flowers appearing incidentally in the room.
+
+A particularly strong option is a **rain-day / housebound story**:
+- nobody can do much outside;
+- the inn feels crowded but comfortable;
+- different rooms/social circles overlap;
+- Bocchi plays;
+- people argue over food / chores / space;
+- nothing major happens.
+
+Its value would be making the inn feel worth protecting immediately before the world makes it less safe.
+
+## Phase V — set up Bocchi's trip through agency
+
+The supply trip should be Bocchi's choice or at least something she willingly agrees to.
+
+Possible connector:
+- after the false-calm stretch, the household needs ingredients/supplies for an ordinary meal/project;
+- Bocchi volunteers to go with Mau or accepts naturally because she has already been going farther from the inn;
+- Mau is not assigned as a bodyguard in an ominous way; he is simply the person going with her;
+- the recent calmer town interactions make the decision reasonable.
+
+This makes the later incident a consequence of social deterioration, not of the household behaving irresponsibly.
+
+## Phase VI — Bocchi incident and human aftermath
+
+The incident itself remains macro-defined.
+
+The immediate return should prioritize people before policy.
+
+Suggested emotional order:
+1. Mau returns with Bocchi.
+2. visible blood causes a much larger emotional reaction than the actual medical severity.
+3. Maomao treats her.
+4. Bocchi tries to minimize what happened.
+5. Mau is shaken and angry, partly at himself.
+6. Fern becomes visibly protective.
+7. Frieren becomes quiet / severe rather than explosive.
+8. Rimuru and Yuta begin understanding that this is now a structural safety problem.
+
+### Strong S1 callback candidate
+
+That night, Fern can stay close to Bocchi.
+
+This pays the sister-like relationship seeded in S1 without turning the moment into a speech.
+
+Bocchi is no longer the frightened newcomer who had to crawl toward Mau/Frieren's room alone.
+
+She now has multiple people who come to her.
+
+## Phase VII — do not solve the policy problem the same hour
+
+The household should sleep on at least part of the decision rather than instantly generate a settlement strategy.
+
+Possible rhythm:
+- immediate emotion;
+- quiet night;
+- next day practical discussion;
+- disagreement over whether to leave now, reduce contact, or hold the inn while searching;
+- eventual consensus:
+  - do not abandon the home in panic;
+  - fortify;
+  - reduce unnecessary exposure;
+  - search for a safer long-term place.
+
+This makes the decision feel like a family choice rather than plot logistics.
+
+## Phase VIII — controlled disclosure becomes a consequence of choosing to stay together
+
+Once they decide:
+> we are staying together for now,
+
+the next practical question becomes:
+> what do we actually need to know about one another if threats from our worlds can appear?
+
+The disclosure can happen over a meal/common-room meeting rather than as a formal briefing.
+
+Keep it human:
+- some people answer easily;
+- some explanations are awkward;
+- someone asks the wrong question;
+- Maomao asks an overly clinical question;
+- Momo tries to map something into her own paranormal vocabulary;
+- Rimuru keeps redirecting toward practical limits/risks;
+- not every ability gets equal screen time.
+
+The emotional point is trust, not lore completeness.
+
+## Phase IX — Mau/Frieren Construction beat gets its own quiet air
+
+After the larger discussion, Mau withdraws.
+
+Frieren follows.
+
+The Construction event should feel like a tonal exhale:
+- fewer people;
+- quieter location;
+- uncertainty rather than exposition;
+- something happens that neither fully understands.
+
+Their temporary decision not to tell everyone yet should be rooted in:
+> we cannot responsibly explain what we do not understand.
+
+Do not immediately turn this into another household meeting.
+
+## Phase X — first practical response / inn starts changing
+
+Before G3 arrives, show that the decision has already changed daily life.
+
+Possible visible signs:
+- damaged/weak approaches being checked;
+- storage reorganized;
+- safer routes marked;
+- supply trips reduced;
+- basic watch/perimeter changes;
+- Rimuru budgeting differently;
+- map/table accumulating candidate routes;
+- rooms/common spaces being reconsidered.
+
+The inn is becoming simultaneously:
+- more defended;
+- more crowded;
+- more precious.
+
+## Phase XI — G3 hears that the direct town route is worsening
+
+On the road:
+- the merchant receives word that the mercantile town is tense around Otherworlders;
+- he decides not to bring G3 through the center of that situation;
+- he can credibly say he already knows the smaller settlement / people there;
+- G3 hears uglier versions of the catastrophe before they ever meet G1+G2.
+
+A useful character question:
+> if people are afraid of Otherworlders, why should we trust a place full of them?
+
+The merchant's prior experience provides the answer:
+> because he has dealt with them before and is willing to stake his judgment on them.
+
+## Phase XII — timing recommendation
+
+Do not retain the old locked-feeling assumption that G3 arrives only ~one day after Bocchi is hurt.
+
+Preferred current range:
+- **a few days after the incident**, exact number open.
+
+Enough time for:
+- Bocchi to still be bandaged;
+- aftermath to breathe;
+- family decision;
+- disclosure;
+- Construction;
+- first fortification response.
+
+Not enough time for:
+- Bocchi to feel fully recovered emotionally;
+- the household to have solved relocation;
+- public hostility to calm down.
+
+## Phase XIII — G3 arrives into motion
+
+When G3 reaches the inn, nobody should be standing in a reception line.
+
+Possible state:
+- someone repairing;
+- someone cooking;
+- maps/materials on a table;
+- Rimuru or Yuta partly occupied;
+- Maomao checking Bocchi;
+- someone away on a short task;
+- rooms not actually ready for eight more people.
+
+Immediate emotional anchors:
+- Kita recognizes Bocchi first, then sees the bandage;
+- joy flips into concern;
+- Kita immediately understands that finding Bocchi did not mean finding a perfectly safe world;
+- later, Momo sees Okarun;
+- Momo's recognition is total;
+- Okarun's is absent;
+- `Who are you?` remains the strongest closing shock.
+
+The rest of G3 can remain only partially introduced.
+
+The next block should deal with:
+- space;
+- trust;
+- confidentiality Contract;
+- direct relationships;
+- work;
+- overcrowding;
+- integration.
+
+Do not solve G3 on arrival day.
+
+---
+
+# 17. Opening-block story reservoir — PROPOSAL / OPEN
+
+These are candidate stories/fragments that can be used, combined, expanded or discarded during episodeization.
+
+### Quiet / domestic
+- rain day trapped inside the inn;
+- fishing/lake day;
+- music night;
+- communal cooking failure;
+- everybody exhausted after work;
+- bathhouse/common-room comedy;
+- repairing or rearranging furniture;
+- Mau getting pulled into several unrelated errands;
+- reading/study night;
+- sleeping outside on a clear night near the lake.
+
+### Work / world
+- low-risk guild job;
+- ingredient gathering;
+- merchant delivery;
+- route check;
+- small escort;
+- supply accounting;
+- testing a safer route after town tension rises.
+
+### G3 road-life
+- miserable breakfast;
+- campsite setup;
+- wagon repair;
+- merchant teaching local road etiquette;
+- Mikasa taking watch;
+- Kita/Marin trying to keep morale up;
+- Qifrey/Coco observing local magic/materials;
+- Wakana fixing clothing/gear;
+- Okarun near-memory;
+- Umaru adapting badly but comedically to travel.
+
+### Social deterioration
+- price shift;
+- silence in a familiar shop;
+- suspicious customer;
+- warning from a friendly native;
+- guild restriction;
+- rumor argument among locals;
+- one good interaction after several bad ones.
+
+None of these candidates is mandatory merely because it is listed.

@@ -1548,6 +1548,41 @@ The deepest wound is:
 
 > Mau treated his own life as if it had lower value than everyone else's.
 
+### The intervention reveals that two apparently contradictory readings were both true
+
+Before Mau explains himself, different family members may have built different theories about what his sacrifice meant.
+
+Some may fear:
+> maybe Mau never understood how loved he was.
+
+Others may believe:
+> Mau loved everyone so much that he chose himself as the cost.
+
+The painful reveal is that **both readings are partly correct**.
+
+When Mau finally explains his thinking, the family learns that he genuinely believed:
+- he was the most expendable person in the equation;
+- everyone else had people who could carry them forward;
+- he could not imagine continuing in a world where Frieren died;
+- if he knowingly had a chance to save Frieren and did nothing, he would not be able to live with himself;
+- therefore, if one person had to be lost, choosing himself felt like the least-worst result.
+
+This hits harder because the family realizes Mau's sacrifice came from **both**:
+- distorted self-worth;
+- profound love/attachment.
+
+He did not sacrifice himself because he did not care.
+
+He sacrificed himself because he cared enormously **and** excluded himself from the group of people whose lives deserved equal protection.
+
+That distinction should be central to the intervention.
+
+The family's answer is not:
+> you should have cared less about us.
+
+It is:
+> you were one of the people you were supposed to protect too.
+
 The family should challenge this explicitly.
 
 Mau's logic was:
@@ -1582,6 +1617,57 @@ It is:
 > Mau cannot assign himself a lower human value because other people have support networks.
 
 That lesson should carry into later seasons.
+
+### Whole-family coverage guardrail
+
+The named reactions above are **examples, not the cast list for the intervention**.
+
+During drafting / episodeization, backtrace the full household and ask:
+- who was physically present for Mau's apparent death/recovery?
+- who knew parts of the plan?
+- who felt betrayed by the secrecy?
+- who is angry?
+- who is scared rather than angry?
+- who cannot articulate either yet?
+- who directs anger toward Mau, Yuta, Rimuru, the fighters, or themselves?
+- who reacts privately rather than in the main confrontation?
+
+Do not accidentally reduce the aftermath to only:
+- Frieren;
+- Fern;
+- Anko;
+- Bocchi;
+- Umaru;
+- Coco.
+
+The broader household must still feel alive:
+- Momo / Okarun;
+- Maomao;
+- Mikasa;
+- Marin / Wakana;
+- Kita;
+- Qifrey;
+- Agott;
+- Maki;
+- Stark;
+- Himmel;
+- Hakari / Karane / Shizuka / Nano;
+- and any other resident present by final episodeization.
+
+Not everyone needs dialogue in the intervention.
+
+Some may process through:
+- silence;
+- work;
+- anger later;
+- practical care;
+- avoiding Mau for a day;
+- sitting near him without speaking;
+- redirecting anger toward Yuta/Rimuru;
+- defending one person while criticizing another.
+
+The rule is:
+> **the whole family lived through Mau's death, even if only some family members dominate the confrontation scene.**
 
 ## 37.3 Yuta and Rimuru are not exempt
 
@@ -1799,6 +1885,7 @@ Maki #1 + Yuta reunion
 → communal meal: joy without full forgiveness / hand-holding
 → following days: family intervention focused on Mau/Yuta/Rimuru
 → knowledge tiers clarified; anger at secrecy remains
+→ family discovers both readings were true: Mau felt himself most expendable **and** loved them enough to choose himself as the cost
 → Mau's habit of valuing his own life lower than everyone else's is confronted directly
 → Rimuru attempts to disclose his voluntary Contract role; Mau stops him from carrying all blame
 → Anko/Fern/Frieren/others confront Mau in different ways

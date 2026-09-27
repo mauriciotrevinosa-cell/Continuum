@@ -489,14 +489,32 @@ He still does not say:
 
 ---
 
-# 16. G4 peak ordinary-life phase / festival candidate
+# 16. G4 peak ordinary-life festival — CONCEPT PRESERVED / PLACEMENT MOVED LATER
 
-A year-turn / New-Year-like household festival remains extremely strong **after G4 is substantially integrated and before the fatal binary takes over**.
+The year-turn / New-Year-like household festival remains one of the strongest ordinary-life events in this stretch.
+
+**Placement refinement:** it should now occur **after the fatal binary has become credible and after Mau has told Yuta and Rimuru**, during the short pre-Sukuna preparation window.
+
+This makes the festival emotionally harsher and more valuable.
+
+The household experiences:
+> a joyful celebration.
+
+Mau, Yuta and Rimuru experience:
+> possibly the last large ordinary night before the event they are preparing for.
+
+They do **not** organize it as a farewell.
+
+It is a real calendar/community celebration that was already going to happen.
+
+The trio simply chooses not to destroy it for everyone else.
 
 Story function:
 - peak family density;
 - outside world remains uneasy/unwelcoming;
-- household creates its own celebration.
+- household creates its own celebration;
+- Mau/Yuta/Rimuru quietly take in people they may be about to lose;
+- the audience can feel farewell behavior without anyone announcing a goodbye.
 
 Possible texture:
 - food;
@@ -511,21 +529,36 @@ Possible texture:
 
 Important relationship texture:
 - Yuta/Maki naturally together;
-- Bocchi/Kita now visibly couple-like;
+- Bocchi/Kita visibly couple-like;
 - Marin/Wakana;
 - Momo/Okarun with memory largely restored;
-- Frieren/Mau behaving intimately without formal title;
-- Himmel integrated enough to participate without being treated as tragic outsider;
+- Frieren/Mau get a date-like stretch inside the larger festival;
+- Himmel is integrated enough to participate without being treated as a tragic outsider;
 - Stark/Fern/Frieren old-family warmth;
 - Coco/Qifrey/Agott family;
-- Umaru thriving precisely because celebration happens at home;
-- Mikasa participating without needing a security function;
-- Anko fully present.
+- Umaru thrives because the celebration happens at home;
+- Mikasa participates without needing a security function;
+- Anko remains fully present.
+
+A favored progression inside the night:
+- Mau/Frieren spend part of the festival almost like a date without formally naming it;
+- later Coco/Bocchi/Umaru steal Mau away to play / do something childish with them;
+- Mau says yes and lets himself be pulled along;
+- Yuta spends time with Maki with unusual attentiveness;
+- Rimuru allows himself to be absorbed into the household fun rather than staying in organizer mode.
+
+The trio may act **slightly** unusual:
+- lingering a little longer;
+- saying yes to small requests;
+- watching people for a beat too long;
+- being unusually present.
+
+Not enough to trigger alarms.
 
 Possible thematic line:
 > the world is not ready to celebrate with them, so they celebrate one another.
 
-This can become the emotional high point before the dreams become unbearable.
+This can become the emotional high point **after Mau already believes the fatal choice may be real**.
 
 ---
 
@@ -650,6 +683,33 @@ Alternate:
 The audience should feel:
 > the world has not stopped because five people know it might end.
 
+## 20.1 The festival belongs inside this week
+
+The year-turn / household festival now belongs **inside this preparation window**, after Mau/Yuta/Rimuru know enough to fear the coming battle.
+
+This is not tactical downtime accidentally inserted into urgency.
+
+It is:
+- a preexisting calendar/community event;
+- one night the household would have celebrated anyway;
+- a deliberate choice by the core trio not to cancel everyone's life because of a threat only they understand.
+
+Emotionally, it functions as a silent farewell without anyone calling it that.
+
+Mau is especially attentive to:
+- Frieren;
+- Fern;
+- Bocchi;
+- Umaru;
+- Coco;
+- the people whose lives he has watched expand beyond him.
+
+Yuta is especially present with Maki.
+
+Rimuru, who often defaults toward management, allows himself to simply belong.
+
+This makes the later departure hurt much more.
+
 ---
 
 # 21. Knowledge should be tiered, not binary
@@ -682,6 +742,18 @@ Needs enough to:
 
 He does not need every secret.
 
+### Maki
+Learns a **bounded tactical truth** after pressing Mau/Yuta for an explanation:
+- someone from their old world whom she knows is coming;
+- the household has an unusual advantage because they believe they know the approximate place/time and which people must be involved;
+- changing variables carelessly could break the plan.
+
+She does **not** receive:
+- Mau's full fatal binary;
+- the expected-death certainty;
+- Hollow Purple;
+- the full Rimuru Contract.
+
 ### Himmel
 Knows nothing until the last-minute overheard danger.
 
@@ -698,29 +770,81 @@ This prevents everyone from behaving unrealistically oblivious without destroyin
 
 ---
 
-# 22. Maki / Yuta during the secret week
+# 22. Maki during the secret week — partial truth, direct conversation with Mau
 
 Maki has lived a lifetime with Yuta.
 
-She should notice he is carrying something.
+She notices quickly that Yuta is carrying something and that Mau/Rimuru are involved.
 
-Do not make Yuta suddenly incapable of lying,
-but do not write Maki as blind.
+Do not make her blind.
 
-A strong middle ground:
-- Yuta tells her he is helping prepare for a serious threat;
-- he cannot responsibly share someone else's private information / full plan yet;
-- Maki dislikes the opacity but trusts Yuta's judgment enough not to force it.
+A stronger current shape is that Maki eventually corners **Mau himself** and asks for the truth.
 
-She does **not** know:
-- Mau's fatal dream binary;
-- the Rimuru Contract;
+Mau gives her a bounded answer, approximately in meaning:
+
+> Someone you know is coming.  
+> We have one advantage: we believe we know where, when, and who needs to be there.
+
+Maki immediately understands the likely scale of the threat.
+
+She also understands from Mau's refusal to elaborate that:
+- this plan may depend on preserving exact variables;
+- giving everyone the full information could alter behavior/timing;
+- Mau is not withholding details casually.
+
+She still has doubts.
+
+She may ask:
+- how certain are you?
+- why these people?
+- why not tell Frieren?
+- what exactly happens if the plan fails?
+
+Mau does not fully answer.
+
+### Mau asks Maki to stay behind
+
+Mau asks Maki for a specific role:
+
+> protect the inn and the people left behind.
+
+And, more painfully:
+
+> if Frieren realizes something is happening and tries to follow, delay her / keep her there if possible.
+
+This request matters because Mau knows Maki is:
+- capable enough to protect the household;
+- trusted by Yuta;
+- increasingly trusted by Frieren;
+- strong enough that he believes she might actually buy time.
+
+Maki does **not** receive:
+- the full fatal dream binary;
+- the exact expected-death outcome;
 - Hollow Purple;
-- the expected death.
+- all Contract details.
 
-This gives later grief real force without making their relationship implausibly disconnected.
+She understands that Mau expects the situation to be worse than he is saying.
 
-Exact disclosure level remains open.
+This makes her later grief/anger stronger.
+
+### Agency guardrail
+
+Maki agreeing to delay Frieren does **not** mean she will imprison or overpower Frieren regardless of circumstances.
+
+When the moment actually comes:
+- Maki can attempt to slow her;
+- tell her Mau explicitly asked that she remain;
+- force Frieren to understand that there was a hidden plan.
+
+But once Frieren makes a fully conscious choice to go,
+Maki does not make Frieren's life decision for her.
+
+This preserves both:
+- Mau's understandable attempt to prevent the dream geometry;
+- Frieren's agency.
+
+Exact wording remains open.
 
 ---
 
@@ -793,6 +917,24 @@ He does **not** receive:
 
 This is one of the strongest pieces of evidence Mau receives about Himmel's character.
 
+### Himmel as a possible good omen
+
+Current favored interpretation:
+- Mau did **not** build the plan around Himmel;
+- Himmel was not one of the people Mau expected to need;
+- his spontaneous decision to join is therefore a new variable.
+
+For Mau, that can feel like a small **good omen**:
+
+> the dreams may describe a fatal geometry, but reality can still produce people/actions the dream did not account for.
+
+This does not make Mau suddenly abandon the fallback in which he saves Frieren at his own cost.
+
+But it helps emotionally justify why he allows Yuta/Rimuru to keep searching for a third option:
+> maybe the future is not as closed as it looks.
+
+If later dream-design work shows Himmel vaguely present in one prediction, this can be revisited, but the **unplanned-good-omen version is currently stronger** because it preserves Himmel's agency and the surprise of his choice.
+
 ---
 
 # 26. The household left behind still has a story
@@ -838,14 +980,35 @@ Immediately:
 - Mau is there;
 - something is very wrong.
 
-She leaves.
+She moves to leave.
 
-Maki can understand from Frieren's face before receiving an explanation.
+Maki understands from Frieren's face before receiving a full explanation.
 
-A strong Maki function here:
-> she does not try to make Frieren's choice for her.
+This is where Mau's earlier request pays off.
+
+Maki tells Frieren, in substance:
+- Mau asked her to keep Frieren here;
+- there is a plan;
+- changing the wrong variable may make things worse.
+
+For at least a moment Maki genuinely tries to **delay** her.
+
+That delay can be what gives Frieren the final piece of information she needs to understand:
+> Mau knew something and deliberately hid it from me.
+
+Frieren still chooses to go.
+
+Maki does not physically imprison her or turn this into Maki-vs-Frieren combat.
+
+A strong Maki function remains:
+> she makes sure Frieren understands that leaving means overriding a deliberate plan, then respects Frieren's conscious choice.
 
 Frieren goes because she chooses to.
+
+Maki stays behind because:
+- Mau explicitly asked her to protect the inn;
+- someone powerful has to remain with the people who cannot join the battle;
+- she now understands enough to know the plan may collapse if everyone chases after the team.
 
 Stark/Fern may want to follow,
 but current macro keeps them at the inn; exact practical reason/staging should be solved later without making them passive idiots.
@@ -1035,6 +1198,32 @@ The emotional goal:
 
 Exact number of days remains open.
 
+## 33.1 The moment someone asks whether they have to let Mau rest
+
+At some point during the painful waiting period, after no obvious improvement, someone should gently raise the possibility that:
+- Yuta may have done everything he can;
+- they may eventually need to accept that Mau is gone;
+- they may need to prepare to lay him to rest.
+
+This should **not** be framed as cruelty or giving up cheaply.
+
+It comes from exhaustion, grief and the practical terror of watching a body remain unresponsive.
+
+Frieren shuts the idea down immediately.
+
+Current strong emotional meaning:
+> No. He is going to wake up. He told me everything would be okay.
+
+Exact dialogue later.
+
+This pays Mau's battlefield reassurance forward in the most painful possible way:
+- Mau meant to comfort her in the final seconds;
+- Frieren uses those words as a promise and refuses to surrender them.
+
+Other characters do not all share her certainty.
+
+That tension makes the eventual awakening more powerful.
+
 ---
 
 # 34. Whole-household grief / anger should preserve character essence
@@ -1112,6 +1301,66 @@ He still does not fully understand/name his own feeling as romantic love.
 
 That remains available for the Ori arc.
 
+## 35.1 Do not jump from the kiss to the communal dinner
+
+The awakening should begin a **staggered return-to-life sequence**, not instantly resolve the household's grief.
+
+A favored first follow-up:
+- Yuta has finally fallen asleep / collapsed from exhaustion after prolonged RCT work;
+- he wakes and immediately goes to check Mau;
+- he expects another medical-status scene;
+- instead he finds Mau awake;
+- Frieren is already beside him talking with him about something almost offensively ordinary — for example, a book/grimoire she had been reading.
+
+The normality is what breaks Yuta.
+
+It confirms:
+> Mau is not merely breathing. Mau is back.
+
+Yuta can laugh, cry, freeze, or need a second before entering.
+
+Exact reaction later.
+
+## 35.2 Household reactions should arrive in waves
+
+Do not put twenty people in the room at once.
+
+Let news spread.
+
+Possible responses:
+- Umaru sees Mau and launches herself at him crying before she can say anything coherent;
+- Bocchi breaks down / struggles to speak, with Kita beside her;
+- Coco reacts like a younger sibling who had prepared for the possibility that her brother would never answer again;
+- Fern's relief can convert quickly into anger;
+- Maomao immediately checks Mau medically because disbelief does not suspend competence;
+- Rimuru may hesitate at the doorway because guilt from the Contract has not vanished;
+- Momo/Okarun react together;
+- Anko may use humor only after confirming he is truly awake;
+- Mikasa may visibly relax in a way she cannot hide;
+- Stark sees Frieren behaving like herself again;
+- Himmel carries the weight of the last battlefield trust;
+- Maki watches Yuta's relief as much as Mau's survival.
+
+Not everyone needs tears.
+Not everyone needs dialogue.
+
+The important thing is that:
+> Mau's return ripples through every relationship that his apparent death had damaged.
+
+## 35.3 Frieren/Mau ordinary conversation before everyone arrives
+
+Let Frieren and Mau have a brief period where the absurd thing they do after surviving death is simply:
+- talk;
+- catch up;
+- discuss a book;
+- complain about something small;
+- exist beside each other.
+
+This prevents the kiss from turning their relationship immediately into spectacle.
+
+It also creates a visual contrast with the waiting period:
+> the room sounded dead for days; now Frieren is arguing about a grimoire again.
+
 ---
 
 # 36. Anger / promise after survival
@@ -1134,7 +1383,28 @@ This needs to affect Mau going forward.
 
 ---
 
-# 37. First communal return-to-life beat
+# 37. First communal return-to-life beat — AFTER REUNIONS / ANGER / BASIC RECOVERY
+
+A large meal remains a powerful endpoint for this giant block, but it should happen **well after the initial awakening**.
+
+Between:
+```text
+kiss / awakening
+→ dinner
+```
+
+there should be:
+- Yuta discovering Mau is awake;
+- staggered household reunions/reactions;
+- medical confirmation / Maomao involvement;
+- Rimuru/Mau/Yuta emotional fallout;
+- Frieren's anger and the secrecy argument;
+- wider household anger/questions;
+- Mau beginning to sit up / move / re-enter ordinary space;
+- enough time for disbelief to become relief.
+
+Only then does the communal meal land as:
+> we can finally all sit at the same table again.
 
 A large meal after enough recovery remains a powerful endpoint for this giant block.
 
@@ -1205,11 +1475,17 @@ Maki #1 + Yuta reunion
 → Maki/Frieren trust + repeated conversations
 → Yuta/Maki/Mau identity-choice discussion
 → Bocchi/Kita becomes explicit + ordinary couple life
-→ G4/family peak ordinary-life phase / festival candidate
+→ G4/family ordinary-life peak
 → dreams escalate
 → fatal binary repeats
 → Mau tells Yuta/Rimuru
-→ ~one-week specialization/preparation braided with ordinary family life
+→ ~one-week specialization/preparation begins
+→ household year-turn/festival occurs inside that week as an unspoken farewell night
+→ Mau/Frieren date-like festival time + Coco/Bocchi/Umaru pull Mau into games
+→ Yuta/Rimuru/Mau quietly take in the family without alarming them
+→ Maki confronts Mau and receives bounded tactical truth
+→ Mau asks Maki to protect the inn and delay Frieren if possible
+→ preparation continues braided with ordinary family life
 → Himmel joins at last moment
 → interception
 → Frieren reaches clarity, re-enables sensing, detects battle, joins
@@ -1220,9 +1496,14 @@ Maki #1 + Yuta reunion
 → Yuta chooses Mau / RCT
 → apparent-death return to inn
 → painful recovery
+→ someone raises the possibility of laying Mau to rest
+→ Frieren refuses: he will wake / he said everything would be okay
 → Mau wakes
 → Frieren kiss + "I love you"
+→ Yuta wakes/rests and discovers Mau alive while Frieren is already talking with him normally
+→ staggered household reunions / Umaru, Fern, Bocchi, Coco, Maomao, Rimuru, others
 → anger / promise / wider family processing
+→ basic physical reintegration
 → communal meal / hand-holding
 → post-Sukuna life
 ```

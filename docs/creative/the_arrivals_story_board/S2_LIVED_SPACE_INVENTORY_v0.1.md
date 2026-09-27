@@ -1378,3 +1378,69 @@ Some may be fragments.
 Some may combine.
 Some may deserve whole story units.
 Nothing here is automatically an episode quota.
+
+
+# 21. Ensemble coverage / creator-idea interpretation rule — STRONG PROCESS RULE
+
+Creator brainstorms are **inputs, not exhaustive cast lists**.
+
+When the creator proposes:
+- a pairing;
+- an outing;
+- a domestic setup;
+- a joke;
+- a relationship beat;
+- a scene with several named characters,
+
+do **not** infer that unnamed established characters should disappear from the surrounding story.
+
+The assistant/writer is responsible for checking:
+- who has had little meaningful presence recently;
+- which S1 relationships have not been exercised in S2 yet;
+- which G1/G2/G3 characters are becoming background by accident;
+- whether a scene naturally offers room for someone underused;
+- whether a different pairing would create fresher chemistry;
+- whether an existing setup should be interrupted, expanded or reassigned because another character fits better.
+
+This is especially important for characters such as Anko, who can be easy to omit unintentionally in a large ensemble despite remaining wanted and important.
+
+The solution is **not quotas**.
+
+Do not force:
+> every character must speak every episode.
+
+Instead use an ensemble-awareness check:
+> has this person still felt alive in the story recently?
+
+A character can remain off-screen for a while if the story supports it.
+
+But absence should be intentional rather than caused by forgetting the character exists.
+
+## 21.1 Assistant permission to interrupt / improve brainstorms
+
+The assistant may:
+- add missing characters to a proposed setup;
+- suggest a stronger pairing;
+- split a creator idea across different days/stories;
+- point out that a character has been neglected;
+- preserve a creator setup but add parallel activity elsewhere;
+- challenge a scene if it accidentally contradicts an established relationship or makes the ensemble feel too narrow.
+
+Do this collaboratively and transparently.
+
+Do **not** silently turn creator examples into locked canon.
+
+## 21.2 Continuum adaptation vs source-canon ability
+
+When a useful story idea depends on a power/function that is not clearly source-canon:
+
+1. check whether the source already supports it;
+2. if not, ask whether Continuum's adaptation/reconstruction rules can plausibly enable an equivalent;
+3. if yes, label it internally as a **Continuum-enabled adaptation**, not as proof the source character always possessed that exact ability.
+
+Example:
+- magical screen/projection technology may be source-compatible for Rimuru;
+- perfect `memory → movie playback` is not currently verified;
+- if Continuum later enables a way to externalize remembered media, the movie-night idea can still work without rewriting Tensura canon.
+
+Story value can survive even when the mechanism changes.

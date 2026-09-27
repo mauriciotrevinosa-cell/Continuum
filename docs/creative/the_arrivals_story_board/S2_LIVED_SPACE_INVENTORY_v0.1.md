@@ -1494,3 +1494,143 @@ This follows the broader project preference:
 If a character disappears because the story genuinely does not need them, that is fine.
 
 If they disappear because the writers forgot them, repair the earlier story architecture.
+
+
+# 23. Ensemble-informed G3 story seeds — OPEN / NON-EXHAUSTIVE
+
+These ideas come from the G1+G2+G3 ensemble audit. They are not episode assignments.
+
+## 23.1 Bedding / fabric crisis
+
+Overcrowding creates a practical problem:
+- not enough bedding;
+- not enough clean linens;
+- clothes from road travel need repair.
+
+This naturally brings together:
+- Wakana;
+- Rimuru;
+- Marin;
+- Fern;
+- Mau;
+- Coco / Qifrey where materials become relevant.
+
+Value:
+- Wakana becomes useful independently of Marin;
+- Rimuru is practical without solving everything alone;
+- the household expansion is physically felt.
+
+This can coexist with Mau giving up his room.
+
+## 23.2 Mau + Fern ordinary errand
+
+Give Mau/Fern a simple task with no Frieren present:
+- inventory;
+- water/material pickup;
+- organizing rooms;
+- helping newcomers find things.
+
+The point is not a heart-to-heart.
+
+The point is proving:
+> Mau and Fern can comfortably function as family without Frieren mediating them.
+
+## 23.3 Frieren + Rimuru routine trust beat
+
+Small scene:
+- Frieren asks Rimuru for something practical;
+- Rimuru complains about how unreasonable part of the request is;
+- Frieren assumes he will still help with the reasonable part;
+- neither treats the exchange as special.
+
+This quietly pays the distance from Rimuru's S1 arrival.
+
+## 23.4 Anko remains socially present
+
+Anko can recur through:
+- writing down changing rumors;
+- needing ink;
+- casual common-room talk with Mau/Fern;
+- dry commentary when Momo/Maomao perform fake detective behavior;
+- going on an ordinary outing/guild task;
+- noticing Momo almost oversharing Okarun's history and redirecting the conversation without turning it into an interrogation.
+
+No dedicated Anko arc is required here.
+
+## 23.5 Okarun + Mau low-stakes job
+
+A simple job/material run can give Okarun life outside Momo.
+
+Possible tone:
+- Okarun is awkward but genuinely curious;
+- Mau asks questions directly without treating him as a damaged mystery;
+- the two encounter something mildly supernatural/strange and Okarun's enthusiasm comes out;
+- they return with an inside joke or shared reference.
+
+This begins the direct male friendship already intended for S2.
+
+## 23.6 Coco + Fern / peer magic contrast
+
+Coco can become curious about how Fern thinks about magic.
+
+The interaction should not become a lecture contest.
+
+Useful contrast:
+- Fern has highly disciplined, internalized magical training;
+- Coco approaches magic through a different learned/constructed framework;
+- both can find the other's assumptions strange.
+
+Frieren/Qifrey may be nearby but do not need to dominate the exchange.
+
+This gives Coco an independent peer relationship before Agott arrives.
+
+## 23.7 Kita / Marin / Bocchi culture overlap
+
+Music, clothing, performance and social energy create a natural overlap.
+
+Possible:
+- Kita wants Bocchi to play;
+- Bocchi resists attention;
+- Marin gets excited about presentation/clothes;
+- Wakana gets pulled into making/fixing something;
+- Momo joins because she likes the energy.
+
+This can be comedy without accelerating Bocchi/Kita romance too quickly.
+
+## 23.8 Mikasa returns from patrol into ordinary nonsense
+
+Useful contrast:
+- Mikasa comes back from a serious patrol/route check with Yuta;
+- inside, everyone is arguing over something completely trivial;
+- instead of standing apart, she gradually gets pulled into the nonsense.
+
+This preserves her war-shaped habits while showing that Continuum may offer her a life where vigilance is not the only available identity.
+
+## 23.9 Umaru branches outward
+
+Possible chain:
+- Mau encourages Umaru to join an outing;
+- she initially goes because Mau suggested it;
+- during the outing she discovers she actually enjoys Marin/Momo/Kita/etc.;
+- later she joins something without checking whether Mau is going.
+
+No speech is needed to mark the transition.
+
+## 23.10 Common-room continuity surface
+
+The crowded common room should become a recurring visual/social anchor.
+
+Characters can appear there without receiving a subplot:
+- Anko writing;
+- Frieren reading;
+- Mau/Fern talking;
+- Rimuru sleeping in slime form;
+- Bocchi practicing quietly;
+- Okarun listening;
+- Mikasa cleaning gear;
+- Wakana sewing;
+- Coco drawing/practicing;
+- Momo/Marin/Umaru making noise;
+- Maomao refusing to participate while clearly still staying in the room.
+
+This is one of the easiest ways to keep the full ensemble alive without forcing equal dialogue.

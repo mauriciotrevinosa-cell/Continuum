@@ -2141,20 +2141,21 @@ CAL-17's one-page form is only a production stress test, not canon pacing.
 
 ---
 
-# 28. Sukuna survives / escape cost — OPEN MECHANIC, DEFINED STORY FUNCTION
+# 28. Sukuna survives / escape cost — MACRO RESOLVED
 
 Sukuna survives near death.
 
-He escapes through a costly binding vow/equivalent.
+He escapes through a catastrophic Contract / binding-vow-equivalent.
 
-Requirements:
-- escape must have serious permanent/long-term cost;
-- no free reset.
+Resolved cost:
+- Sukuna permanently gives up the **World Cutting Slash / world-targeting Dismantle configuration**;
+- he remembers learning it after Mahoraga's adaptation against Gojo;
+- Continuum had not yet reconstructed enough of his source-state power for him to execute it in S1/S2;
+- he therefore sacrifices a future capability he expected to regain at full/near-full Synchronization.
 
-Possible cost previously discussed:
-- sacrificing Ten Shadows.
+This is a permanent loss, not a temporary lock.
 
-Not locked.
+Mahoraga's destruction and the broader damage to Sukuna's Synchronization remain separate consequences of the fight.
 
 Yuta has a moment where he could pursue Sukuna.
 
@@ -3150,6 +3151,8 @@ Many items that were previously listed as “gaps” are now **later-layer work*
 - exact choreography/page count.
 
 The remaining **true macro/story-logic gaps** are:
+
+> **Current status:** after the latest Sukuna resolution, only the Mau/Frieren formalization remains a blocking macro decision. The other numbered items below are resolved or non-blocking placement/detail work.
 
 ## 42.1 Contract system seeding — MACRO RESOLVED
 

@@ -6,21 +6,18 @@
 
 ## Review mode
 
-This phase uses a **creator fragment-review mode**.
+This phase is **full creator-visible planning**.
 
-The assistant may:
-- audit a larger set of options than are shown in chat;
-- develop connective material privately in the working inventory;
-- surface only selected fragments / pressure points / proposals to the creator;
-- use creator reactions to calibrate tone without spoiling every planned beat.
+For episodeization, lived-space design, season structure and story proposals:
+- show the creator the full relevant proposal rather than hiding planned beats;
+- preserve uncertainty/status labels clearly;
+- do not silently promote proposals to canon;
+- expect collaborative discussion, revision and reordering before locking.
 
-A proposal in this file is not canon merely because it exists here.
+The earlier **fragment-only review style applies specifically to Voice Checks**, where showing representative dialogue/behavior fragments avoids forcing the creator to reread entire episodes merely to validate character voice.
 
-The creator does **not** need to approve every small connective beat individually before the larger structure can continue.
+Voice Check review mode should therefore not be generalized to episode/story architecture.
 
-The goal is similar to the earlier Voice Check workflow:
-
-> show enough to verify that the creative direction feels right, while preserving discovery and surprise.
 
 ---
 
@@ -439,14 +436,11 @@ The richest new material is likely to come from **ordinary days under increasing
 
 ---
 
-# 15. Creator-facing fragment review
+# 15. Creator review rule
 
-For chat review, do not dump every candidate scene.
+For this lived-space / episode-planning phase, present the full relevant proposal to the creator.
 
-Surface:
-1. one or two representative quiet-life fragments;
-2. one social-deterioration fragment;
-3. one G3 parallel fragment;
-4. any structural pressure point requiring creator input.
+Do not deliberately withhold candidate episode stories, connective material, or structural alternatives for surprise value.
 
-If those feel correct, continue building the next lived-space block without requiring exhaustive micro-approval.
+The creator may still choose to review high-level structure first and defer scene-level details, but that is a pacing choice made together rather than a hidden-review workflow.
+

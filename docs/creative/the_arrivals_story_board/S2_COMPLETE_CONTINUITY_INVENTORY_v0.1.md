@@ -403,6 +403,13 @@ Exact staging belongs to later scene/episode work.
 
 Before Sukuna, Bocchi and Kita should eventually become a couple.
 
+**Pass-B runway requirement:**
+- this cannot jump directly from reunion/concern into confession;
+- Kita first needs to understand Bocchi's new attachment to the household and independently trust Mau;
+- Bocchi needs ordinary time to reconnect with Kita without Mau functioning as translator/mediator for every interaction;
+- at least one meaningful slice-of-life/date/not-yet-date phase should exist before the relationship becomes explicit;
+- Mau helping Kita later should feel like a payoff to an already-growing relationship, not the mechanism that creates the relationship from nothing.
+
 The exact confession/date/episode structure is intentionally open, because this should likely receive its own slice-of-life episode or mini-arc later when episode planning begins.
 
 Strong payoff idea:
@@ -739,6 +746,14 @@ G4's identity remains:
 
 > **G3 expands the world; G4 reconnects and deepens existing emotional families before Sukuna.**
 
+**Pass-B emotional runway rule:**
+- G4 cannot function as a sequence of arrivals immediately followed by Sukuna;
+- the major reunions must be followed by ordinary shared life before the fatal-dream/preparation phase takes over;
+- Maki must have time to be Yuta's returned partner and a household member before she becomes an emotional sounding board for Frieren/Mau;
+- Himmel must have enough time to move from reunion + sincere romantic question to genuine acceptance of Frieren/Mau and ordinary coexistence with Mau;
+- Stark must get a distinct Frieren/Fern reunion and some ordinary family time rather than being swallowed by Himmel's arrival;
+- the four 100 Girlfriends characters and Agott do not need equal dramatic weight, but they should be visibly integrated enough that the inn feels larger before Sukuna attacks.
+
 Current convergence structure is deliberately split into several paths.
 
 ## 12.1 Maki arrives first / separately — STRONG DIRECTION
@@ -910,6 +925,9 @@ Himmel must have enough time before Sukuna for:
 - gradually understanding Frieren/Mau;
 - preserving dignity and generosity;
 - eventually becoming someone Mau trusts with `Take care of her for me`.
+
+**Pass-B placement guardrail:**
+Himmel should not arrive immediately before the fatal-dream/preparation block. Even if his last-minute choice to join the battle is the decisive proof of character for Mau, the line `Take care of her for me` works best if Mau and Himmel have already shared enough ordinary household time that they are no longer emotional strangers. Exact episode count remains open.
 
 ## Maki
 Maki has enough pre-Sukuna runway for:
@@ -1200,6 +1218,8 @@ Later, after her conversations/lived experience finally let her understand:
 > **she loves Mau,**
 
 Frieren decides to turn the detection back on / test whether it has stabilized.
+
+**Emotional/mechanical guardrail:** recognizing her love does not magically upgrade or heal a power. The point is that the internal emotional noise that had been corrupting her own interpretation is finally understood well enough that she is willing to trust the faculty again.
 
 That is the exact moment she detects:
 - a serious battle;
@@ -2592,6 +2612,7 @@ Current creator direction is broader:
 S2 post-Sukuna should contain enough genuine life for:
 - Mau/Frieren to exist as a real couple;
 - recovery consequences to settle;
+- **a real stretch of ordinary Mau/Frieren couple-life before Ori appears**, so Frieren's later jealousy is reacting to an established relationship rather than a relationship that only exists because the script says so;
 - settlement/city planning to continue;
 - new Otherworlders to be seen elsewhere;
 - future groups/factions to begin existing before they converge;
@@ -2926,6 +2947,13 @@ Established destination:
 - Ori develops a real bond with Frieren independent of Mau;
 - Frieren does not "win" against Ori; there is no contest to win.
 
+**Pass-B runway requirement:**
+- Ori's confession must hurt and be allowed to hurt;
+- the story should not move directly from `Mau rejects Ori` to a giant Mau/Frieren celebration;
+- Ori needs enough subsequent ordinary interaction to show that she is choosing to remain family rather than simply being told that she is family;
+- her independent bond with Frieren should begin becoming visible before the formalization payoff;
+- this buffer protects Ori from reading like a disposable romantic obstacle whose only function was to teach Mau a lesson.
+
 The later memory/perception-crisis payoff remains:
 - Ori can become one of Mau's most reliable constants;
 - on the second major disappearance/flight, Ori may be the person who goes with Mau;
@@ -2952,6 +2980,8 @@ Those realizations now have a defined payoff:
 - the inn hosts a major communal dinner afterward.
 
 This is **relationship formalization, not marriage/engagement**.
+
+**Pass-B placement guardrail:** the formalization should occur only after Ori's immediate romantic hurt has begun resolving into chosen-family stability. It must feel like Mau consciously choosing Frieren after understanding himself, not like a victory lap immediately after rejecting Ori.
 
 Exact wording, staging, decorations and episode placement remain later-layer work.
 

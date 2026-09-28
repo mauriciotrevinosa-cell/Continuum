@@ -2,7 +2,7 @@
 
 **Status:** STRONG STORY PROPOSAL / CREATOR REVIEW — NOT EPISODE LOCK  
 **Date:** 2026-09-27  
-**Scope:** Ori romantic/chosen-family arc resolves → Mau/Frieren formalization → mature site findings / collective site choice → quiet S2 closing image → direct S3 handoff.
+**Scope:** Ori romantic/chosen-family arc resolves → background future-home choice is already mature/complete → Mau/Frieren formalization as final major payoff → one quiet final day at the inn → direct S3 move/build handoff.
 
 The guiding principle is:
 
@@ -83,12 +83,14 @@ The already-defined formalization remains intact:
 
 This is not the final image of S2.
 
-It is the emotional payoff that clears the board for the **future-home payoff**.
+It **is the final major payoff**.
+
+The future-home thread should already have done its discovery, verification and quiet collective-choice work in the background during Ori's era. Do not place another major "future-home payoff episode" after Mau/Frieren formalize.
 
 Important pacing rule:
-> after Ori has genuinely stabilized into chosen-family direction, the formalization can happen relatively soon.
+> after Ori has genuinely stabilized into chosen-family direction, the formalization can happen relatively soon — and after the formalization, S2 only needs one quiet final day.
 
-No need for a long artificial buffer if the emotional prerequisites have already been satisfied.
+No artificial buffer. No extra climax.
 
 ---
 
@@ -189,16 +191,18 @@ The useful structure is:
 site discovered around Ori's arrival
 → report
 → background verification continues during Ori's lived-space arc
-→ by the time Ori's foundational arc resolves, most practical questions are already answered
-→ compact final household decision: this is the place
+→ practical questions become settled while Ori's story remains foreground
+→ household quietly reaches "this is the place" before or by the time the formalization plan begins
 ```
 
-This can occupy:
-- one larger story unit;
-- a partial episode plus finale material;
-- or another compact structure later during episodeization.
+The choice does **not** need its own late-S2 climax.
 
-Do not create artificial obstacles simply to extend S2.
+It can land:
+- inside ordinary household discussion;
+- as the natural conclusion of repeated verification;
+- or in a compact scene before the formalization.
+
+Do not create artificial obstacles or a post-formalization site-choice episode simply to extend S2.
 
 ---
 
@@ -253,33 +257,45 @@ The final S2 movement is about:
 
 ---
 
-# 9. Final-night image — STRONG CLOSING DIRECTION
+# 9. One quiet final day at the inn — STRONG CLOSING DIRECTION
 
-A strong final sequence is not a giant speech.
+After the Mau/Frieren formalization and celebration dinner:
 
-It is another ordinary night at the inn.
+> **S2 gets one more day.**
 
-The household is doing what it always does:
-- people eating;
-- talking;
-- reading;
-- sewing;
-- playing;
-- studying;
-- arguing;
-- somebody half-asleep;
-- somebody cleaning up;
-- couples/friends/siblings crossing the room naturally.
+Not another arc.
 
-Nothing about the scene says:
+Not another climax.
+
+The next day is the household's last full ordinary day at the inn before S3 takes ownership of the move/build era.
+
+The mood can be:
+- everyone a little tired from the celebration;
+- breakfast leftovers / cleanup;
+- people reading, sewing, sleeping late, playing, studying or doing light chores;
+- Mau/Frieren officially together but behaving almost exactly as they already did;
+- teasing that is affectionate rather than turning the whole day into romance spectacle;
+- Ori still a little embarrassed / shy / awkward after everything she recently admitted, while clearly remaining included and loved;
+- casual preparation for the future without dramatizing departure.
+
+Do **not** add:
+- a new threat;
+- a surprise major arrival;
+- a final expedition;
+- a dramatic site-choice council;
+- a departure convoy;
+- arrival at the new site;
+- first construction.
+
+Nothing about the day needs to shout:
 > this is the finale.
 
-Except for one new object on the table.
+The future is visible through one object that has become ordinary household clutter:
 
 ## The table
 
 On the table sits:
-- the new-region map;
+- the chosen-region map;
 - rough measurements;
 - a partially drawn layout;
 - crossed-out ideas;
@@ -296,7 +312,7 @@ Not a perfect city blueprint.
 More like:
 > a family has started imagining what their next home could become.
 
-People may casually add to it during the night.
+People may casually add to it during the day.
 
 Someone moves a cup and reveals another section.
 
@@ -312,11 +328,11 @@ The plan is already communal.
 
 S2 closes on:
 
-> **We found the place.**
+> **We know where we're going. For one last day, we're still home here.**
 
 S3 opens on:
 
-> **Now how do we make it survive?**
+> **Now we actually have to move there and make it survive.**
 
 That creates a direct handoff into:
 - site surveying;
@@ -353,14 +369,16 @@ Ori discovery
 → Mau finally names his love for Frieren
 → Ori gradually chooses family / independent Frieren bond becomes visibly stable
 → only then does late-S2 closure accelerate
+→ future-home candidate discovered earlier reaches quiet collective choice through background verification
 → Mau asks household for help
-→ future-home candidate was already discovered / being verified during Ori's arc
 → Mau/Frieren formalization
-→ communal celebration
-→ household reviews now-mature site findings
-→ compact collective decision: this is the place
-→ final ordinary night at the inn
-→ half-finished future-home plan / foundation notes on the table
+→ communal celebration dinner
+→ sleep
+→ one additional quiet final day at the inn
+→ family rests / lives normally / lightly prepares
+→ Ori is still a little embarrassed but fully inside the family
+→ chosen-site map + half-finished future-home plan / foundation notes on the table
+→ no move / arrival-at-site / construction yet
 → END S2
 ```
 

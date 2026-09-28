@@ -2,6 +2,14 @@
 
 Use this as the navigation page from localhost.
 
+## 0. Creative constitution / authority
+
+[STORY_CONSTITUTION.md](./STORY_CONSTITUTION.md) is the durable cross-season creative rule layer.
+
+Key distinction:
+- **constitution / later explicit creator decision = governing direction**;
+- **status, inventories, audits and decision history = current-state/provenance documents, not immutable law**.
+
 ## 1. Season 1 — manga-ready corpus
 
 Current locked Season 1 structure: **19 full episodes**, all Level 4 / manga-ready. Current integrated expectation: **1,304 provisional manga pages / 56 natural chapters**.
@@ -62,7 +70,7 @@ See [DECISION_HISTORY.md](./DECISION_HISTORY.md).
 Important examples:
 - S1 20-episode planning concept → later combined into **19 full episodes**. Resolved.
 - S1E18 old joke ending → final Level-4 close is **“What's a kiss?”**. Resolved.
-- completed-city/first-construction-in-S2 idea → current direction ends S2 on **site choice + unfinished planning at the inn** and moves meaningful construction into **S3**. Resolved direction change.
+- completed-city/first-construction-in-S2 idea → current direction finishes site choice before the final romantic payoff, then ends S2 **one quiet day after Mau/Frieren formalize**, with the chosen-site map / unfinished planning still at the inn; the actual move/build belongs to **S3**. Resolved direction change.
 - recovery window roughly two days → current working seed is **about three days to consciousness**.
 - Mau verbally mirroring “I love you” → current working revival beat has **Frieren say it; Mau reciprocates physically/emotionally without repeating the phrase in that awakening beat**.
 - CAL-17 one-page stress test → canon pacing may expand across multiple pages.

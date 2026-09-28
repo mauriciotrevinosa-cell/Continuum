@@ -404,41 +404,53 @@ Mau gives the simple version:
 - Frieren kissed him;
 - Frieren told him she loved him.
 
-Someone asks:
+Someone asks some version of:
 > And you told her you loved her too, right?
 
-Mau answers honestly.
+Mau answers honestly that he did not.
 
-Strong candidate line:
+Strong current response shape:
 
-> `I don't know what love is. I didn't want to lie.`
+> `No. I just hugged her and told her, "I told you everything was gonna be okay."`
 
 Exact wording is not locked.
 
 Important interpretation:
-Mau is **not** claiming he learned nothing all season.
+- Mau did not reject Frieren;
+- he reciprocated physically/emotionally;
+- he still did not have language for what his own feeling meant;
+- he chose a promise/reassurance he knew was true rather than repeating words he did not yet understand well enough to claim.
 
-He has learned:
-- what love can do;
-- how people choose each other;
-- how attachment changes behavior.
-
-What he still does not trust is:
-> whether he can truthfully label **his own** feeling as romantic love.
-
-That distinction prevents character regression.
+This is not character regression. It is consistent with Mau learning love through actions before he understands its social categories.
 
 ---
 
 # 15. The missing-formalization realization lands in public
 
-The girlies are stunned.
+The girlies are stunned by Mau's answer.
 
-They ask some version of:
-> Wait. So when did you ask her to be your girlfriend?
+Someone asks some version of:
+> Okay... so how did you ask her?
+
+Mau is genuinely confused:
+> Ask her what?
+
+Someone clarifies:
+> When did she become your girlfriend?
 
 Mau:
-> I didn't.
+> What's a girlfriend?
+
+That is the real reveal.
+
+Mau helped other people understand their relationships, but because he has no ordinary pre-Continuum social memory and has been learning intimacy from lived experience rather than inherited social scripts, he never generalized the **girlfriend/boyfriend formalization category** to himself.
+
+Kita is especially useful here because Mau previously helped her with Bocchi.
+
+She can explain in meaning:
+> Remember what you helped me do with Bocchi? We made our romantic relationship explicit. We didn't just assume it.
+
+Exact wording later.
 
 That creates the realization:
 
@@ -622,7 +634,10 @@ post-Sukuna family functioning again / Mau still partly on house arrest
 → late-night girlies relationship conversation
 → Mau gets dragged in while Frieren is elsewhere reading
 → Mau reveals Frieren kissed/confessed after Sukuna
-→ Mau admits he did not say "I love you" back because he did not want to lie
+→ Mau says he hugged her and answered with the promise he knew was true: "I told you everything was gonna be okay"
+→ someone asks how he "asked" Frieren / when she became his girlfriend
+→ Mau genuinely asks what "girlfriend" means
+→ Kita connects it to Bocchi: making a romantic relationship explicit instead of assuming it
 → group realizes Mau/Frieren never formally defined girlfriend/boyfriend
 → Ori becomes hopeful
 → Ori explores possibility over time

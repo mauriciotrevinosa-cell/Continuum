@@ -29,11 +29,12 @@ These are the items that still appear genuinely unresolved or intentionally open
 - Trade access / harbor / water / farmland / ownership / monsters.
 - Exact scout/mixed team that first discovers the strong final-site candidate.
 - Exact verification beats and who participates.
-- Exact contents/composition of the unfinished final-night plan: which buildings, routes, foundation notes and doodles are visible.
-- Exact S3 construction order after the S2 handoff.
+- Exact contents/composition of the unfinished final-day plan: which buildings, routes, foundation notes and doodles are visible.
+- Exact small activities / character pairings during the last quiet day at the inn.
+- Exact S3 move/construction order after the S2 handoff.
 
 The **macro ending is no longer open**:
-> S2 ends before meaningful construction, on an ordinary night at the inn with the unfinished future-home site/foundation/layout plan on the table.
+> Mau/Frieren formalization is the final major S2 payoff. S2 then gets one quiet final day at the inn, with the chosen-site map / unfinished future-home plan on the table, and ends before the move or meaningful construction.
 
 ## Mau / Frieren
 - Exact final English wording and choreography of the girlfriend/boyfriend/chosen-romantic-partner formalization.

@@ -125,3 +125,30 @@ This preserves:
 - Ori's arc from feeling like a waiting room for the relocation plot;
 - the compact post-Ori season closure.
 
+## DH-014 — Girlies scene: Mau does not know the girlfriend formalization category
+An earlier version had Mau answer the post-Sukuna `I love you` question with a line about not wanting to lie, followed by the group simply discovering that he never asked Frieren to be his girlfriend.
+
+The creator refined the scene so Mau's missing social concept is more explicit and better connected to his memory condition.
+
+**Current direction:**
+- when asked whether he told Frieren he loved her back, Mau says in meaning that he hugged her and told her, `I told you everything was gonna be okay`;
+- when asked how he "asked" Frieren / when she became his girlfriend, Mau genuinely asks what `girlfriend` means;
+- Kita explains the concept through the Bocchi relationship Mau previously helped her with: they made the romantic relationship explicit rather than simply assuming it.
+
+This does not erase Mau's emotional growth. Mau understands care, attachment and commitment through lived experience; he simply lacks an ordinary inherited social script for relationship labels.
+
+## DH-015 — S2 ends one quiet day after Mau/Frieren formalization
+An earlier closure shape still allowed a post-formalization site-choice payoff and a generic final-night sequence.
+
+The creator tightened the ending to avoid unnecessary tail episodes and to preserve S3's build runway.
+
+**Current direction:**
+- future-home discovery, verification and collective choice happen during the Ori-era background thread / before the formalization;
+- Mau/Frieren formalization and celebration are the **last major S2 payoff**;
+- after that, S2 gets only **one additional quiet day at the inn**;
+- the day can show rest, ordinary household life, mild preparation, Ori still a little embarrassed/awkward, and the chosen-site map / unfinished plan on the table;
+- no new threat, expedition, dramatic council, departure-to-site sequence or construction follows in S2;
+- S3 owns the actual move and build.
+
+This is deliberate payoff-tail discipline, not missing story.
+

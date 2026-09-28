@@ -150,8 +150,11 @@ A favored late-night household scene then exposes the formal ambiguity:
 - Frieren is elsewhere reading;
 - Mau comes downstairs for something trivial and gets pulled into the conversation;
 - Mau explains that after Sukuna, Frieren kissed him and said she loved him;
-- when asked whether he said it back, a strong candidate meaning is: `I don't know what love is. I didn't want to lie.`;
-- the group then realizes Mau never explicitly asked Frieren to be his girlfriend.
+- when asked whether he said it back, Mau says in meaning that he hugged her and told her: `I told you everything was gonna be okay.`;
+- someone asks how he asked Frieren / when she became his girlfriend;
+- Mau genuinely asks what `girlfriend` means;
+- Kita connects the concept to Bocchi: making a romantic relationship explicit instead of simply assuming it;
+- the group realizes Mau/Frieren never consciously formalized their relationship.
 
 The ambiguity is formal, not emotional. Ori nevertheless hears it as the first real possibility that romance with Mau might be possible.
 
@@ -204,12 +207,13 @@ current base
 → reconnaissance/cartography/site search
 → strong site candidate discovered by scouts during the Ori-arrival era while Mau is still partly restricted
 → verification / maps / terrain and foundation thinking continue in the background during Ori's lived-space arc
+→ household quietly reaches the collective future-home choice
 → Ori's foundational arc resolves
-→ Mau/Frieren formalize
-→ household makes the compact collective decision that this is the future-home site
-→ final ordinary night at the inn with an unfinished site/foundation/layout plan on the table
-→ END S2 before meaningful construction
-→ S3 begins surveying, terrain work, foundations, infrastructure and settlement growth
+→ Mau/Frieren formalize as the final major S2 payoff
+→ one quiet final day at the inn; Ori can still be mildly embarrassed while fully included
+→ chosen-site map / unfinished site/foundation/layout plan remains on the table
+→ END S2 before departure-to-site spectacle or meaningful construction
+→ S3 begins the move, surveying, terrain work, foundations, infrastructure and settlement growth
 
 City-building is necessity, not empire-building.
 

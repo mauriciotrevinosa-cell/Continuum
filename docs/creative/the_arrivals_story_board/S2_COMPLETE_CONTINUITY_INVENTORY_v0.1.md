@@ -3013,19 +3013,24 @@ Mau explains:
 
 Someone asks whether Mau said it back.
 
-Strong candidate answer:
+Current strong answer shape:
 
-> `I don't know what love is. I didn't want to lie.`
+> `No. I just hugged her and told her, "I told you everything was gonna be okay."`
 
 Interpretation guardrail:
-- Mau has learned what love does and how people choose one another;
-- he still does not trust himself to label **his own** feeling as romantic love.
+- Mau did not reject Frieren;
+- he reciprocated physically/emotionally;
+- he used a promise he knew was true instead of repeating language he did not yet understand well enough.
 
-Then someone asks:
-> so when did you ask Frieren to be your girlfriend?
+Then someone asks how he asked Frieren / when she became his girlfriend.
 
-Mau realizes:
-> he never did.
+Mau is genuinely confused:
+> `What's a girlfriend?`
+
+Kita can connect the missing concept to the Bocchi relationship Mau previously helped her formalize:
+> what we did was make the romantic relationship explicit instead of just assuming it.
+
+Exact wording later.
 
 The household understands this as **formal ambiguity**, not proof that Mau/Frieren have no bond.
 
@@ -3238,8 +3243,8 @@ G4 convergence spread across lived time     ~Month 6–8
 G4 ordinary life / relationship runway      ~Month 8–10
 fatal-dream escalation + ~one-week prep      ~Month 10–11
 Sukuna battle + recovery                     ~Month 11-ish
-post-revival life / Ori / formalization      ~Month 11.5–13
-final site-search / long-term home choice    ~Month 13–14
+post-revival life / Ori / site verification/choice / formalization  ~Month 11.5–13+
+quiet final day at the inn                    immediately after formalization; exact calendar open
 ```
 
 These are **planning ranges, not locked dates**. Episodeization may move individual blocks.
@@ -3445,14 +3450,15 @@ S1 Sukuna catastrophe
 → Ori confession / hurt receives real breathing room
 → chosen-family transition develops across ordinary life rather than one resolution scene
 → Mau finally names romantic love for Frieren
+→ site candidate discovered earlier is already mature enough to choose / has been quietly chosen through the Ori-era background verification
 → Mau/Frieren formalization / communal celebration
-→ routine scouting continues while Mau remains partially restricted from serious field work during recovery
-→ scout/mixed team finds unusually strong long-term-home candidate and returns with maps/notes
-→ household evaluates / compactly verifies site
-→ group collectively chooses long-term home region
-→ final ordinary night at the inn with an unfinished site/foundation/layout plan on the table
-→ S2 ends before meaningful construction begins
-→ S3 begins from "we found it" to "how do we make it survive?"
+→ sleep
+→ one additional quiet final day at the inn
+→ family rests / lives normally / lightly prepares without turning the day into a move episode
+→ Ori can still be a little embarrassed/awkward while clearly remaining family
+→ chosen-site map and unfinished future-home plan remain on the table
+→ S2 ends before departure-to-site spectacle or meaningful construction
+→ S3 begins with the move/build problem intact
 ```
 
 This graph is **structural**, not final episode order.
@@ -3635,6 +3641,16 @@ Later engagement/marriage milestones remain future material.
 
 Exact dialogue, detective questions, outfits, decorations, kiss choreography and dinner comedy are later scene-level work.
 ## 42.5 Relocation / future-home decision and S2 endpoint — MACRO RESOLVED
+
+**POST-FORMALIZATION TAIL RULE — CREATOR-DIRECTED:**
+- the site candidate is discovered and verified during the Ori era;
+- by the time Mau/Frieren formalize, the household has already reached or can reach the site choice without another large story unit;
+- the formalization is the final major payoff;
+- after it, S2 gets only **one quiet final day at the inn**;
+- no new threat, major expedition, relocation spectacle, arrival-at-site sequence or first construction belongs after the formalization in S2;
+- the final day may show rest, leftovers, casual packing/planning, Ori still a little embarrassed, and the chosen-site map / unfinished plan on the table;
+- S3 should receive the actual move/build runway intact.
+
 
 The future-home decision and season handoff are now structurally resolved.
 
@@ -3959,9 +3975,9 @@ The season now has a continuous story path from:
 - recovery / family aftermath;
 - post-Sukuna trust repair;
 - Ori discovery / chosen-family arc;
-- Mau/Frieren formalization;
-- final future-home discovery and collective site choice;
-- quiet closing image at the inn with the unfinished future-home plan on the table.
+- future-home discovery / verification / quiet collective choice during the Ori-era background thread;
+- Mau/Frieren formalization as the final major S2 payoff;
+- one quiet final day at the inn with the chosen-site map / unfinished future-home plan on the table.
 
 No additional major S2 story block is required before episodeization.
 

@@ -23,12 +23,13 @@ fragile routine
 → future-home scouts leave while Mau remains partly recovery-restricted
 → scouts discover a strong site candidate in parallel with Mau/Frieren finding Ori
 → substantial Ori lived-space / romantic ambiguity / confession / chosen-family transition
+→ site verification/choice finishes quietly in the background
 → Mau identifies romantic love for Frieren
-→ Mau/Frieren explicitly formalize
-→ household makes the compact final site choice
-→ ordinary final night at the inn with an unfinished future-home plan on the table
-→ S2 ends before meaningful construction
-→ S3 begins the build
+→ Mau/Frieren explicitly formalize as the final major payoff
+→ one quiet final day at the inn
+→ chosen-site map / unfinished future-home plan on the table
+→ S2 ends before move-to-site spectacle or meaningful construction
+→ S3 begins the move/build
 
 ## S2 opening six-episode skeleton
 
@@ -115,9 +116,10 @@ Bocchi incident
 → post-Sukuna scouts continue operating without Mau while he is partly recovery-restricted
 → strong site candidate is discovered during the Ori-arrival era
 → maps / resource checks / terrain and foundation thinking continue in the background throughout Ori's lived-space arc
-→ after Ori's foundational arc and Mau/Frieren formalization, the household collectively chooses the site
-→ final ordinary night at the inn with an unfinished future-home site/foundation/layout plan on the table
-→ END S2 before meaningful construction
+→ the household quietly reaches the site choice before/by the time the formalization begins
+→ Mau/Frieren formalization becomes the last major payoff
+→ one quiet final day at the inn with the chosen-site map / unfinished future-home site/foundation/layout plan on the table
+→ END S2 before relocation spectacle or meaningful construction
 
 S3 owns surveying, terrain preparation, foundations, infrastructure and settlement-to-city growth.
 

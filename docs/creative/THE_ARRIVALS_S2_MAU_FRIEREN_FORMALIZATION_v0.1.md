@@ -30,16 +30,27 @@ When asked how Mau/Frieren happened, Mau explains:
 - Frieren kissed him;
 - Frieren told him she loved him.
 
-When asked whether he said it back, Mau can answer in meaning:
+When asked whether he said it back, Mau answers in meaning:
 
-> `I don't know what love is. I didn't want to lie.`
+> `No. I just hugged her and told her, "I told you everything was gonna be okay."`
 
-This does **not** mean Mau learned nothing about love.
+That preserves the revival beat exactly:
+- Frieren says `I love you`;
+- Mau reciprocates physically/emotionally;
+- Mau answers with a promise he knows is true rather than mirroring language he still does not understand well enough.
 
-It means he still did not trust himself to label his own feeling as romantic love.
+Then someone asks how Mau "asked" Frieren / when she became his girlfriend.
 
-Then the group realizes:
-> Mau never explicitly asked Frieren to be his girlfriend.
+Mau is genuinely confused:
+> `What's a girlfriend?`
+
+Kita is the strongest person to explain because Mau previously helped her with Bocchi.
+
+Her explanation can be, in meaning:
+> Remember what you helped me do with Bocchi? We made our romantic relationship explicit. We didn't just assume it.
+
+This is the actual discovery:
+> Mau/Frieren never consciously formalized the relationship because Mau never understood that social step as a category he needed to perform.
 
 That discovery creates:
 - Mau's awareness of the missing formal step;
@@ -226,7 +237,11 @@ The day ends with a major communal dinner at the inn.
 
 It is not a wedding-style event. It is a joyful family celebration with good food, teasing, people arguing over who helped most, and Mau/Frieren sitting together.
 
-This can function as a late-S2 ordinary-life payoff before the final future-home **site-choice** payoff; the strong candidate has already been discovered and largely verified during the Ori era.
+This is the **last large emotional payoff of S2**.
+
+The future-home candidate should already be verified and effectively chosen by this point. Do not follow the formalization with another major site-choice episode, expedition, conflict or construction beat.
+
+After the celebration, S2 gets only one additional quiet day at the inn before ending.
 
 ---
 
@@ -239,6 +254,21 @@ The beat resolves both realizations seeded by Ori:
 He acts on both.
 
 > Mau and Frieren become explicitly, mutually, verbally chosen romantic partners before S2 ends.
+
+The formalization is the season's **last major climax/payoff**.
+
+Current ending rule:
+
+```text
+formalization / celebration dinner
+→ sleep
+→ one quiet final day at the inn
+→ ordinary family life, resting and low-key preparation
+→ Ori can still be visibly a little embarrassed/awkward from her recent confession history without being socially exiled or "fixed"
+→ chosen-site map / rough future-home plan remains on the table
+→ no major new problem, expedition, move, arrival-at-site or construction
+→ END S2
+```
 
 Later engagement, marriage and longer-term domestic milestones remain open future material.
 

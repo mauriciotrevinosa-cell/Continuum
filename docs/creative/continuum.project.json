@@ -5,7 +5,7 @@
   "kind": "crossover",
   "status": "active",
   "logline": "Continuum no importa franquicias. Importa personas.",
-  "description": "The flagship personal project developed inside Continuum. It is developed manga-first: approved story structure becomes a draft, a panel script, rough and final manga, and only then an anime adaptation.",
+  "description": "The flagship personal project developed inside Continuum. Shared Story Canon now feeds an active Light Novel reading/prose path and the manga visual-production path in parallel; future animation adapts approved story artifacts.",
   "_note": "This manifest registers the project's documents in two ways. Entries under 'documents' are explicit: their lifecycle is written here. Files matching a rule under 'conventions' are registered by name the moment they are committed; their lifecycle transcribes the author's own Status line through 'status_lifecycle' (first match wins), so the committed documents stay the single source of truth. A Markdown file matched only by 'discover' appears as unfiled and is never treated as approved.",
   "_note_standing": "maturity (ROUGH, DETAILED, PRODUCTION_READY) transcribes how developed the author says a document is; authority (RULE, CORRECTION, INDEX, CONTENT) transcribes an 'authoritative' workflow rule, correction or source-of-truth index; overrides lists only the partial precedence a document states in its own text. Nothing here resolves a conflict the documents do not resolve themselves.",
   "_note_board": "'episodes' declares the readiness levels of the production pipeline rules and the document categories each level requires (all approved). The episode board is computed from the committed documents on every read; nothing about an episode's readiness is stored here. 'resolves' shows a voice-check iteration still marked in review as resolved once the episode's GREEN LIGHT exists; its own lifecycle is left as its author recorded it.",
@@ -31,7 +31,7 @@
     {
       "id": "the-arrivals-s1-production-calibration-chapter-v0-1",
       "path": "THE_ARRIVALS_S1_PRODUCTION_CALIBRATION_CHAPTER_v0.1.md",
-      "title": "The Arrivals \u2014 S1 Production Calibration Chapter",
+      "title": "The Arrivals — S1 Production Calibration Chapter",
       "category": "calibration",
       "section": "production",
       "lifecycle": "APPROVED",
@@ -411,6 +411,24 @@
   ],
   "conventions": [
     {
+      "id": "episode-ln-chapter",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\\\d+E\\\\d+)_LN_CHAPTER_(?P<chapter>\\\\d+)_(?P<title>[A-Z0-9_]+)_v(?P<version>\\\\d+(?:\\\\.\\\\d+)*)\\\\.md$",
+      "document_id": "{episode_lower}-ln-chapter-{chapter}",
+      "category": "ln-chapter",
+      "section": "production",
+      "maturity": "PRODUCTION_READY",
+      "lineage": "{episode_lower}-ln-chapter-{chapter}"
+    },
+    {
+      "id": "ln-volume-index",
+      "match": "^THE_ARRIVALS_LN_VOLUME_(?P<volume>\\\\d+)_INDEX_v(?P<version>\\\\d+(?:\\\\.\\\\d+)*)\\\\.md$",
+      "document_id": "ln-volume-{volume}-index",
+      "category": "ln-volume",
+      "section": "production",
+      "maturity": "DETAILED",
+      "lineage": "ln-volume-{volume}-index"
+    },
+    {
       "id": "episode-manga-panel-script",
       "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_(?:[A-Z0-9_]+_)?MANGA_PANEL_SCRIPT_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
       "document_id": "{episode_lower}-manga-panel-script",
@@ -741,6 +759,24 @@
       "title": "Draft",
       "track": "story",
       "description": "The written episode, versioned; a redo is a new version, never an overwrite."
+    },
+    {
+      "id": "ln-adaptation",
+      "title": "Light Novel adaptation",
+      "track": "ln",
+      "description": "Prose chapters adapted from current Story Canon with source preflight, scene provenance and character-specific voice."
+    },
+    {
+      "id": "ln-review",
+      "title": "LN chapter review",
+      "track": "ln",
+      "description": "Human review of prose, voice, pacing and canon fidelity; revisions create new versions rather than overwriting history."
+    },
+    {
+      "id": "ln-volume",
+      "title": "LN volume assembly",
+      "track": "ln",
+      "description": "Approved chapters assembled into a readable volume without forcing episode-to-chapter parity or uniform chapter length."
     },
     {
       "id": "panel-script",

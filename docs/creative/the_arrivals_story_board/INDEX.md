@@ -40,18 +40,17 @@ Full S1 status and episode breakdown: [S1_STORY_STATUS.md](./S1_STORY_STATUS.md)
 
 Current authoritative revision layer: [integrated overlay](./sources/THE_ARRIVALS_S1_INTEGRATED_CINEMATIC_REVISION_OVERLAY_v0.2.md).
 
-## 2. Season 2 — defined opening, not manga-ready
+## 2. Season 2 — macro/lived-space closed, episodeization next
 
-Current first-six skeleton:
+Season 2 now has a continuous, audited story path from the S1 Sukuna handoff through G3/G4, predictive dreams, Sukuna/Second Chance, recovery, Ori, future-home choice, Mau/Frieren formalization and the final quiet day.
 
-1. Yuta Knows
-2. Normal Life Under Hidden Threat
-3. Rumors
-4. Fear / Social Deterioration
-5. Bocchi Incident
-6. G3 Arrives
+**Current episodeization handoff:** [S2_EPISODEIZATION_MASTER_INPUT_v0.1.md](./S2_EPISODEIZATION_MASTER_INPUT_v0.1.md)
 
-Details: [S2_STORY_STATUS.md#s2-opening-six-episode-skeleton](./S2_STORY_STATUS.md#s2-opening-six-episode-skeleton)
+**Complete continuity inventory:** [S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md](./S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md)
+
+**Lived-space inventory:** [S2_LIVED_SPACE_INVENTORY_v0.1.md](./S2_LIVED_SPACE_INVENTORY_v0.1.md)
+
+The older six-part opening package (Yuta Knows → Hidden Threat → Rumors → Fear → Bocchi → G3) is preserved as historical compressed landmarks only. **Its exact episode boundaries are not current law; episodeization reopens from S2E1.**
 
 Raw handoff source: [S1→S2 G3 / Sukuna / Bocchi handoff](./sources/THE_ARRIVALS_S1_S2_G3_HANDOFF_v0.1.md)
 

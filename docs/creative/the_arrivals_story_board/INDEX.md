@@ -70,6 +70,10 @@ Season 2 now has a continuous, audited story path from the S1 Sukuna handoff thr
 
 **Provisional LN style bible:** [THE_ARRIVALS_LN_STYLE_BIBLE_v0.1.md](./THE_ARRIVALS_LN_STYLE_BIBLE_v0.1.md)
 
+**S1E10 Fern / G2 timing correction:** [S1E10_FERN_G2_TIMING_CORRECTION_v0.1.md](./S1E10_FERN_G2_TIMING_CORRECTION_v0.1.md)
+
+**S1 LN voice calibration workflow:** [S1_LN_VOICE_CALIBRATION_WORKFLOW_v0.1.md](./S1_LN_VOICE_CALIBRATION_WORKFLOW_v0.1.md)
+
 **Complete continuity inventory:** [S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md](./S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md)
 
 **Lived-space inventory:** [S2_LIVED_SPACE_INVENTORY_v0.1.md](./S2_LIVED_SPACE_INVENTORY_v0.1.md)

@@ -9,6 +9,19 @@ const PRODUCTION: Record<
   string,
   { title: string; lead: string; empty: string; holds: string[]; documents: boolean }
 > = {
+  ln: {
+    title: "Light Novel",
+    empty: "No light novel chapters yet",
+    documents: true,
+    lead: "Readable prose adapted from shared Story Canon. Chapters may divide an episode naturally; scene provenance keeps every expansion traceable.",
+    holds: [
+      "Versioned LN chapters",
+      "Scene-level source lineage",
+      "Voice and pacing review",
+      "Volume assembly",
+      "Illustration slots that never block prose",
+    ],
+  },
   manga: {
     title: "Manga",
     empty: "No manga scripts or pages yet",
@@ -131,7 +144,13 @@ function Production({
   projectId: string;
 }) {
   const info = PRODUCTION[section];
-  const related = info.documents ? documents.filter((d) => d.section === "production") : [];
+  const related = info.documents
+    ? documents.filter((d) =>
+        section === "ln"
+          ? d.category === "ln-chapter" || d.category === "ln-volume"
+          : d.section === "production",
+      )
+    : [];
   return (
     <>
       <header className="page-head">

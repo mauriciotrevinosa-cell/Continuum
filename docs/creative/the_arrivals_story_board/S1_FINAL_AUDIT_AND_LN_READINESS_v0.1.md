@@ -77,22 +77,30 @@ There is no separate current `voice_checks/` directory; voice approval is embedd
 
 Therefore:
 
-> **Do not reopen already-approved dialogue globally merely because the target medium changed.**
+> **The existing manga Voice Checks are a strong character-voice baseline, not a complete LN Voice Check.**
 
-Existing dialogue remains the default source.
+Approved dialogue remains valuable source material, but prose may need to:
+- expand a beat that manga conveyed visually;
+- add interiority or sensory evidence;
+- rephrase a line whose manga timing does not read naturally in prose;
+- create new connective dialogue when an expanded scene needs it.
 
-Re-check voice only when:
-1. a new scene is added;
-2. a line must change because manga-only staging no longer works in prose;
-3. internal narration risks saying something the character would not consciously formulate;
-4. a later creator decision supersedes the old line or emotional interpretation.
+The requirement is not "preserve every approved line verbatim."
 
-The main new voice problem is not dialogue.
+The requirement is:
+> **preserve the character while adapting the delivery to prose.**
 
-It is:
-> **the LN narrator.**
+LN-specific Voice Check must cover both:
+1. **spoken voice** — dialogue/cadence still sounds like the character;
+2. **narrative voice around that character** — interiority, observation, humor, restraint and what the prose chooses not to explain.
 
-The narrator must preserve character-specific restraint rather than explaining what manga panels previously carried silently.
+This should be calibrated through short representative scene samples per character rather than forcing the creator to reread full chapters before voice is trusted.
+
+Once a character's LN voice passes those samples, later drafting may proceed quickly unless a materially different emotional register appears.
+
+The narrator/POV is not locked to Mau or Frieren.
+
+Use whichever character, external lens, or scene-level POV best serves the story while preserving clear POV boundaries and knowledge limits.
 
 ---
 
@@ -153,7 +161,7 @@ The integrated overlay was written for manga, but many additions improve story c
 - E6 two-day recovery texture;
 - E7 warm-dinner-before-rupture;
 - E8 well reclamation;
-- E10 G2 road duration;
+- E10 G2's brief shared travel interval;
 - E11–E14 object/room/door causality;
 - E16 town POV;
 - E17 village contraction;
@@ -541,20 +549,36 @@ Let repetition make objects matter.
 
 ## E10 — Four Strangers / G2 Arrival
 
-**Verdict:** KEEP / ROAD TIME IS REQUIRED.
+**Verdict:** KEEP / CORRECT THE TIME SCALE.
 
-Do not compress G2 travel just because prose can summarize it quickly.
+Important creator correction:
 
-Fern/Anko/Maomao/Momo must become a temporary unit before household convergence.
+> For Fern, the time from the E1 fight/separation to seeing Frieren again in E10 is only **a couple of hours**.
+
+Do **not** turn G2 into a road-days mini-family before the reunion.
+
+Fern/Anko/Maomao/Momo may:
+- meet;
+- compare immediate facts;
+- follow the beam/lead;
+- walk together for a short period;
+- develop the first sparks of chemistry and practical coordination.
+
+But when they reach the inn they should still feel like:
+> four people who happened to spend a few strange hours together.
+
+That incompleteness is useful. Their real integration happens after the merge.
 
 Preserve:
 - beam as clue, not proof;
-- camp;
-- changing walking spacing;
-- character habits;
-- Frieren senses Fern only near convergence.
+- short shared travel;
+- first character habits/chemistry;
+- Fern's urgency;
+- Frieren sensing Fern only near convergence.
 
-LN can use rotating scene POVs, but avoid rapid head hopping.
+No overnight camp is required by current authority.
+
+LN can rotate POV where useful, but the short timeline must remain legible.
 
 ## E11 — There You Are
 

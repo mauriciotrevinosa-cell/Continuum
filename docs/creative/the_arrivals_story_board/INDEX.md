@@ -60,6 +60,8 @@ Season 2 now has a continuous, audited story path from the S1 Sukuna handoff thr
 
 **New Routines / baseball strong episode candidate:** [S2_NEW_ROUTINES_BASEBALL_WORKING_EPISODE_v0.1.md](./S2_NEW_ROUTINES_BASEBALL_WORKING_EPISODE_v0.1.md)
 
+**S2 episodeization parking checkpoint before S1 LN adaptation:** [S2_EPISODEIZATION_PARKING_CHECKPOINT_v0.1.md](./S2_EPISODEIZATION_PARKING_CHECKPOINT_v0.1.md)
+
 **Complete continuity inventory:** [S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md](./S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md)
 
 **Lived-space inventory:** [S2_LIVED_SPACE_INVENTORY_v0.1.md](./S2_LIVED_SPACE_INVENTORY_v0.1.md)

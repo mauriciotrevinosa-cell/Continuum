@@ -232,7 +232,35 @@ Consistency over fan-translation flavor.
 
 ---
 
-# 8. Character-specific narration rules
+# 8. Character essence preservation
+
+The LN adaptation must not normalize the cast into one shared prose personality.
+
+For every character, preserve:
+- dialogue cadence;
+- emotional range;
+- humor style;
+- social reflexes;
+- blind spots;
+- what they notice first;
+- what they avoid naming;
+- how they behave when comfortable;
+- how they behave under pressure.
+
+Medium adaptation may expand expression, but it must not replace characterization.
+
+Rule:
+
+> **Expand from the character's essence, not around it.**
+
+A character who is awkward should remain awkward in their own specific way.
+A restrained character should not become eloquent because prose allows more words.
+A direct character should not become literary.
+A comedic character should not become a permanent gag machine.
+
+---
+
+# 9. Character-specific narration rules
 
 ## Frieren POV
 
@@ -340,7 +368,7 @@ Adult awareness, language/social pattern sensitivity, participation in household
 
 ---
 
-# 9. The Noise
+# 10. The Noise
 
 The Noise is not conventional dialogue.
 
@@ -363,7 +391,7 @@ Final ebook typography can later replace code styling with a dedicated text styl
 
 ---
 
-# 10. Raphael / internal entities
+# 11. Raphael / internal entities
 
 Raphael is an intelligible internal voice, unlike The Noise.
 
@@ -378,7 +406,7 @@ If frequent back-and-forth becomes visually confusing, a later manuscript style 
 
 ---
 
-# 11. Comedy
+# 12. Comedy
 
 Comedy should usually end one beat earlier than temptation suggests.
 
@@ -405,7 +433,7 @@ Do not attempt to literally describe every chibi distortion.
 
 ---
 
-# 12. Romance / intimacy
+# 13. Romance / intimacy
 
 The Arrivals relationship writing depends on slow category recognition.
 
@@ -430,7 +458,7 @@ Later S2:
 
 ---
 
-# 13. Grief
+# 14. Grief
 
 Do not make grief eloquent by default.
 
@@ -449,7 +477,7 @@ Mau comforts through presence before he develops sophisticated language for it.
 
 ---
 
-# 14. Action
+# 15. Action
 
 Priority order:
 1. geography;
@@ -478,7 +506,7 @@ E19 Sukuna:
 
 ---
 
-# 15. Worldbuilding
+# 16. Worldbuilding
 
 Worldbuilding should arrive through:
 - work;
@@ -501,7 +529,7 @@ Do not narratively foreshadow its later stigma too loudly in E16.
 
 ---
 
-# 16. Home / spatial writing
+# 17. Home / spatial writing
 
 The inn is a recurring character-space.
 
@@ -533,7 +561,7 @@ Use spatial callbacks in E11–E14:
 
 ---
 
-# 17. Time passage
+# 18. Time passage
 
 Avoid title-card prose like:
 > Two weeks passed.
@@ -556,7 +584,7 @@ The E2 expansion should feel lived, not montage-only.
 
 ---
 
-# 18. Chapter openings and endings
+# 19. Chapter openings and endings
 
 A chapter may open on:
 - action;
@@ -582,7 +610,7 @@ Do not manufacture cliffhangers.
 
 ---
 
-# 19. Scene breaks
+# 20. Scene breaks
 
 Use a clean scene break when changing:
 - POV;
@@ -597,7 +625,7 @@ Do not change POV in the middle of a paragraph/beat.
 
 ---
 
-# 20. Prose density
+# 21. Prose density
 
 Default:
 > clean, readable, sensory, emotionally precise.
@@ -614,7 +642,7 @@ Short fragments are allowed when the character/scene earns them.
 
 ---
 
-# 21. Description hierarchy
+# 22. Description hierarchy
 
 Spend detail where it creates:
 - orientation;
@@ -631,7 +659,7 @@ Repeated home spaces should rely on accumulated reader memory.
 
 ---
 
-# 22. Canon vs narration
+# 23. Canon vs narration
 
 Narration cannot create canon accidentally.
 
@@ -649,7 +677,7 @@ If not, describe evidence instead.
 
 ---
 
-# 23. LN-specific adaptation rule for visual motifs
+# 24. LN-specific adaptation rule for visual motifs
 
 Manga motif:
 > repeat the same panel/composition.
@@ -668,7 +696,7 @@ Do not repeat full paragraphs verbatim unless deliberately stylized.
 
 ---
 
-# 24. Chapter length
+# 25. Chapter length
 
 No chapter-size equality.
 
@@ -686,7 +714,7 @@ to meet a word target.
 
 ---
 
-# 25. Adaptation QC checklist
+# 26. Adaptation QC checklist
 
 Before marking an LN chapter ready:
 
@@ -718,7 +746,7 @@ Before marking an LN chapter ready:
 
 ---
 
-# 26. LN Voice Check / calibration gate
+# 27. LN Voice Check / calibration gate
 
 Do not make the creator reread complete chapters simply to verify character voice.
 

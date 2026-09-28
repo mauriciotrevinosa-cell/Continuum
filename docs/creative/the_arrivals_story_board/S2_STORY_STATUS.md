@@ -15,9 +15,12 @@ fragile routine
 → rumors and Otherworlder fear
 → social deterioration
 → Bocchi incident
+→ decision to stay together temporarily / fortify + search
+→ controlled power disclosure / first social trust pact
+→ Mau/Frieren first important Construction event
+→ modest first-response fortification / scouting begins
 → G3 convergence
-→ trust / controlled power disclosure
-→ fortify current home while searching
+→ G3 trust / Contracts / integration while fortification continues
 → reconnaissance / candidate territory
 → larger relationship and threat arcs
 → Sukuna / Second Chance confrontation and recovery
@@ -89,12 +92,12 @@ G3 is a narrative wave, not a synchronized teleport.
 Deferred from G3:
 - Eren;
 - Stark;
-- Senku (later Group 4 / city-development phase).
+- Senku (later infrastructure/city-development phase; **not current G4**).
 
 ## S2 blocks with strong direction but open episode placement
 
 ### Trust / controlled power disclosure
-Sukuna's existence forces trusted characters to share powers, costs, counters and vulnerabilities selectively. This is one of the moments where the household deliberately becomes a strategic team.
+This first controlled disclosure happens **after the Bocchi incident and before G3 reaches the inn**. Sukuna's existence plus the household's decision to keep living together forces trusted G1/G2 characters to share powers, costs, counters and vulnerabilities selectively. G3 later creates the next question: how much of that trust culture extends to newcomers, leading into the confidentiality Contract layer.
 
 ### Fortify before leaving
 The Bocchi incident triggers agreement that the status quo is not sustainable, but the first home is not abandoned overnight. The group fortifies it while scouting and comparing future sites.

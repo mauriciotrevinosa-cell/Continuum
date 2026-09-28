@@ -73,6 +73,8 @@ Season 2 now has a continuous, audited story path from the S1 Sukuna handoff thr
 
 **S1 LN voice calibration workflow:** [S1_LN_VOICE_CALIBRATION_WORKFLOW_v0.1.md](./S1_LN_VOICE_CALIBRATION_WORKFLOW_v0.1.md)
 
+**S1 LN voice calibration status (Frieren + Mau GREEN):** [S1_LN_VOICE_CALIBRATION_STATUS_v0.1.md](./S1_LN_VOICE_CALIBRATION_STATUS_v0.1.md)
+
 **Complete continuity inventory:** [S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md](./S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md)
 
 **Lived-space inventory:** [S2_LIVED_SPACE_INVENTORY_v0.1.md](./S2_LIVED_SPACE_INVENTORY_v0.1.md)

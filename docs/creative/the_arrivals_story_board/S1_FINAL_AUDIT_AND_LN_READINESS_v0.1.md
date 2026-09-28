@@ -161,7 +161,7 @@ The integrated overlay was written for manga, but many additions improve story c
 - E6 two-day recovery texture;
 - E7 warm-dinner-before-rupture;
 - E8 well reclamation;
-- E10 G2's brief shared travel interval;
+- E10 G2's one-night shared travel interval;
 - E11–E14 object/room/door causality;
 - E16 town POV;
 - E17 village contraction;
@@ -549,36 +549,36 @@ Let repetition make objects matter.
 
 ## E10 — Four Strangers / G2 Arrival
 
-**Verdict:** KEEP / CORRECT THE TIME SCALE.
+**Verdict:** KEEP / ONE-NIGHT TRAVEL IS VALID.
 
-Important creator correction:
+Current intended timing:
+- Fern/Anko/Maomao/Momo meet after their respective arrivals;
+- they follow the beam/lead;
+- they spend **one night** together on the road/camp;
+- they reach the inn the following stretch.
 
-> For Fern, the time from the E1 fight/separation to seeing Frieren again in E10 is only **a couple of hours**.
+That is enough time for:
+- first impressions;
+- early jokes/friction;
+- practical coordination;
+- the beginnings of chemistry.
 
-Do **not** turn G2 into a road-days mini-family before the reunion.
+It is **not** enough time for them to feel like a settled mini-family.
 
-Fern/Anko/Maomao/Momo may:
-- meet;
-- compare immediate facts;
-- follow the beam/lead;
-- walk together for a short period;
-- develop the first sparks of chemistry and practical coordination.
-
-But when they reach the inn they should still feel like:
-> four people who happened to spend a few strange hours together.
-
-That incompleteness is useful. Their real integration happens after the merge.
+Their real integration happens after reaching the inn.
 
 Preserve:
 - beam as clue, not proof;
-- short shared travel;
-- first character habits/chemistry;
+- the overnight camp;
+- first-light / resumed travel;
 - Fern's urgency;
+- first character habits;
 - Frieren sensing Fern only near convergence.
 
-No overnight camp is required by current authority.
+The key guardrail is simply:
+> **one night, not several road days.**
 
-LN can rotate POV where useful, but the short timeline must remain legible.
+LN can rotate POV where useful, but the short timing should remain legible.
 
 ## E11 — There You Are
 

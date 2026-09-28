@@ -119,3 +119,37 @@ LN Voice Calibration adds:
 It does not erase prior approvals.
 
 It extends them into the new medium.
+
+
+---
+
+## Production decision after Frieren/Mau calibration
+
+Frieren + Mau calibration was sufficient to validate the core LN medium.
+
+Do **not** require a standalone two-sample packet for every remaining character before drafting.
+
+New default:
+- begin actual LN production;
+- when a new major character first receives substantial dialogue/interiority, treat that **real canon scene** as the Voice Check;
+- creator only needs to stop/review if the voice feels off;
+- otherwise continue without a separate calibration artifact.
+
+Standalone packets remain available only when:
+- a character is unusually hard to translate into prose;
+- the source voice is drifting;
+- or the creator explicitly wants a focused check.
+
+### External LN technique references
+
+Other light novels, including `That Time I Got Reincarnated as a Slime / Tensura`, may be used as **craft references** for:
+- prose flow;
+- dialogue/action integration;
+- exposition pacing;
+- internal narration;
+- scene transitions;
+- ensemble handling.
+
+Do not imitate or reproduce another LN's prose.
+
+`The Arrivals` must retain its own approved character voices, pacing, emotional restraint and narrative identity.

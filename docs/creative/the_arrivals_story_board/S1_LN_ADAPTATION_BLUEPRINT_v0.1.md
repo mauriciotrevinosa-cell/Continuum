@@ -262,29 +262,33 @@ Can split third decompression chapter if prose needs it.
 2. soundproofing / domestic routines / real flower returns home.
 
 ### E10 — Four Strangers
-**Recommended:** provisionally 2 chapters.
+**Recommended:** provisionally 3 chapters.
 
-Current time authority:
-> Fern experiences only a **couple of hours** between the E1 separation and seeing Frieren again in E10.
+Current timing:
+> G2 shares **one night** on the road before reaching the inn.
 
 #### C1 — four strangers
 - G2 arrivals/meetings;
 - immediate confusion;
 - beam/lead chosen;
-- first practical coordination;
-- very early chemistry only.
+- first practical coordination.
 
-#### C2 — a few hours later
-- short shared travel;
-- Fern remains urgent rather than settled;
-- the four have begun learning one another but are **not yet a real group**;
+#### C2 — one night on the road
+- travel;
+- camp;
+- first jokes/friction;
+- first impressions;
+- enough chemistry that the audience knows them as individuals together;
+- not enough time to make them a settled mini-family.
+
+#### C3 — morning / approach
+- resume travel;
 - G1 side continues;
 - Frieren senses Fern near convergence;
 - end on reunion threshold.
 
-No road-days feeling and no overnight camp are required.
-
-The point is not to make G2 a mini-family before the inn. The point is to give the audience just enough time with them that the merge does not feel like four names appearing at once.
+The guardrail is:
+> **one shared night, not several road days.**
 
 ### E11 — There You Are
 **Recommended:** 3 chapters.
@@ -393,7 +397,7 @@ Never return to home after C5 begins.
 
 # 4. Approximate total
 
-This map currently suggests roughly **46–49 LN chapters**, depending on whether several two-part episodes remain long single chapters or split during drafting.
+This map currently suggests roughly **47–50 LN chapters**, depending on whether several two-part episodes remain long single chapters or split during drafting.
 
 This is not a target.
 

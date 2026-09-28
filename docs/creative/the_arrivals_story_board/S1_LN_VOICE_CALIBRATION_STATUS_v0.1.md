@@ -97,23 +97,42 @@ as needed so the reader never has to stop and reverse-engineer who spoke.
 
 ---
 
-# 5. Bocchi guardrail discovered during Mau calibration
+# 5. Global character-essence guardrail
 
-Bocchi has **not yet received her dedicated LN Voice Check**.
+Bocchi exposed a broader adaptation risk:
 
-However, one guardrail is already confirmed:
+> **No character may become a generic LN version of themselves.**
 
-> Do not flatten Bocchi into generic shyness.
+The move from manga to prose may require:
+- more description;
+- more interiority;
+- more connective dialogue;
+- different timing;
+- different scene emphasis.
 
-Her prose/dialogue should preserve source-like behaviors such as:
+But every expansion must grow from the character's established essence.
+
+Preserve, character by character:
+- speech rhythm;
+- emotional restraint or expressiveness;
+- humor style;
+- blind spots;
+- habits;
+- social instincts;
+- what they notice;
+- what they avoid saying;
+- how they behave under pressure.
+
+Bocchi is only one example:
 - getting stuck mid-sentence;
 - self-correcting;
-- escalating internally;
 - regretting phrasing immediately;
-- awkward partial answers;
-- occasional compressed panic.
+- compressed panic;
+- awkward partial answers.
 
-These beats should remain selective rather than turning every Bocchi line into a gag.
+The same rule applies equally to Frieren, Mau, Yuta, Rimuru, Fern, Momo, Maomao, Anko, G3 and every later character.
+
+Do not "smooth" distinctive characters into the same polished prose personality.
 
 ---
 

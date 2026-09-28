@@ -262,13 +262,29 @@ Can split third decompression chapter if prose needs it.
 2. soundproofing / domestic routines / real flower returns home.
 
 ### E10 — Four Strangers
-**Recommended:** 3 chapters.
+**Recommended:** provisionally 2 chapters.
 
-1. beam / G2 wake / decide direction.
-2. road + camp + G2 becomes a group.
-3. G1 aftermath + approach + Frieren senses Fern.
+Current time authority:
+> Fern experiences only a **couple of hours** between the E1 separation and seeing Frieren again in E10.
 
-End on reunion threshold.
+#### C1 — four strangers
+- G2 arrivals/meetings;
+- immediate confusion;
+- beam/lead chosen;
+- first practical coordination;
+- very early chemistry only.
+
+#### C2 — a few hours later
+- short shared travel;
+- Fern remains urgent rather than settled;
+- the four have begun learning one another but are **not yet a real group**;
+- G1 side continues;
+- Frieren senses Fern near convergence;
+- end on reunion threshold.
+
+No road-days feeling and no overnight camp are required.
+
+The point is not to make G2 a mini-family before the inn. The point is to give the audience just enough time with them that the merge does not feel like four names appearing at once.
 
 ### E11 — There You Are
 **Recommended:** 3 chapters.
@@ -377,7 +393,7 @@ Never return to home after C5 begins.
 
 # 4. Approximate total
 
-This map suggests roughly **47–50 LN chapters**, depending on whether several two-part episodes remain long single chapters or split during drafting.
+This map currently suggests roughly **46–49 LN chapters**, depending on whether several two-part episodes remain long single chapters or split during drafting.
 
 This is not a target.
 
@@ -405,13 +421,22 @@ Use:
 
 Manga panel script is evidence of staging and emphasis, not prose text to translate line-by-line.
 
-## Step B — choose POV owner
-Before drafting, state internally:
-- POV;
+## Step B — choose the scene lens
+Before drafting, decide what best serves the scene:
+- a specific close-third POV character;
+- a brief external/cinematic lens;
+- or a clearly marked switch at a scene break.
+
+Do **not** default mechanically to Mau or Frieren.
+
+The ensemble should gradually earn POV access where it improves the story.
+
+For a close-third scene, track:
 - emotional question;
 - start state;
 - end state;
-- what the POV character does **not** understand yet.
+- what that character notices;
+- what that character does **not** understand yet.
 
 ## Step C — convert visual beats
 For every major panel-only beat ask:
@@ -453,24 +478,39 @@ Do **not** adapt all 19 episodes blindly in one uninterrupted generation pass.
 
 Recommended:
 
-### Calibration
-Draft:
-- V1-C1;
-- V1-C2;
-- V1-C3 / early E2 material.
+### LN Voice Calibration before full-volume drafting
 
-Reason:
-these establish:
-- Frieren narrative voice;
-- Mau narrative voice;
-- grief;
-- silence;
-- action;
-- new-world wonder;
-- domestic comedy;
-- the expanded E2 material.
+Use a compact Voice Check workflow similar to the manga process, but adapted to prose.
 
-After creator review, lock the narrator/style direction.
+For each important POV/voice as it becomes relevant:
+- provide **2 short canon-derived sample scenes**;
+- one should test ordinary/comedic/social voice;
+- one should test emotional/serious/interior voice;
+- samples should be long enough to judge prose, but short enough that creator review is easy.
+
+Creator reads the samples and gives:
+- green light;
+- targeted correction;
+- or replacement direction.
+
+Once green-lit, that character's LN voice becomes the working baseline and does **not** require full-chapter re-review just to reconfirm voice.
+
+Start with:
+1. Frieren;
+2. Mau;
+3. Bocchi;
+4. Yuta;
+5. Rimuru/Raphael;
+
+then calibrate G2 and later ensemble characters as they enter.
+
+This tests:
+- dialogue expansion;
+- interiority;
+- narrator distance;
+- comedy;
+- emotional restraint;
+- POV-specific observation.
 
 ### Then
 Adapt **one volume at a time**, in multi-chapter batches.

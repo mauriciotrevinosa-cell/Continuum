@@ -560,3 +560,73 @@ After approval:
 - update blueprint only if real prose exposes a structural problem.
 
 Do not reopen S1 macro-story by default.
+
+
+---
+
+# 9. Continuum implementation mapping
+
+This blueprint is compatible with the existing Continuum production model without forcing episode = LN chapter.
+
+Recommended mapping:
+
+```text
+Season
+└── Episode = stable canon / story umbrella
+    ├── LN Chapter 1
+    │   ├── Scene A
+    │   └── Scene B
+    ├── LN Chapter 2
+    │   ├── Scene C
+    │   └── Scene D
+    └── ...
+```
+
+Technical interpretation:
+- `episode` remains the stable canonical source/story unit;
+- `chapter` is an LN subdivision and may be 1..N inside one episode;
+- `scene` is the smallest authoring/audit/dependency unit and should receive a stable id + content hash.
+
+The current committed `materialized_chapter` model already stores both `episode` and integer `chapter`, so multiple LN chapters per episode do not require a schema migration.
+
+Production can still lock/review at different levels:
+- scene hashes for precise dependency invalidation;
+- chapter materialization for reading/authoring;
+- episode-level canonical review/assembly where useful.
+
+## Prose source format decision
+
+The manga Draft 1 screenplay syntax is **input source**, not final LN syntax.
+
+Do not preserve final prose as:
+
+```text
+**MOMO**
+Dialogue here.
+```
+
+Finished LN source should use ordinary narrative prose and ordinary dialogue.
+
+Stable scene boundaries may remain in the authoring Markdown for parser/audit purposes, but they are metadata/structure and need not appear as printed scene titles in the eventual book.
+
+## Illustration dependency rule
+
+Illustration slots should attach to stable scenes, not only to a whole episode/chapter hash.
+
+If prose changes inside Scene C:
+- illustration slots depending on Scene C may become stale;
+- unrelated approved illustrations in Scene A/B should remain valid.
+
+This preserves Claude's scene-hash recommendation while keeping the LN chapter map flexible.
+
+## Implementation sequencing
+
+Do not begin/modify LN Phase-A application code while unrelated manga/pipeline work remains uncommitted in the same working tree.
+
+Creative work can continue independently:
+- LN Voice Checks;
+- prose samples;
+- style calibration;
+- chapter mapping.
+
+Once the implementation working tree is clean/committed, the technical LN pipeline can consume the approved prose conventions here rather than guessing them.

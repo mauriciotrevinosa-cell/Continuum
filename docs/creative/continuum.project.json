@@ -574,6 +574,10 @@
   ],
   "status_lifecycle": [
     {
+      "match": "LN PRODUCTION DRAFT|LN DRAFT",
+      "lifecycle": "DRAFT"
+    },
+    {
       "match": "\\bSUPERSEDED\\b",
       "lifecycle": "SUPERSEDED"
     },

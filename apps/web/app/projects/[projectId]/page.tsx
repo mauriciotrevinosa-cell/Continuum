@@ -7,13 +7,15 @@ export const dynamic = "force-dynamic";
 
 const TRACKS: { key: string; label: string }[] = [
   { key: "story", label: "Story" },
+  { key: "ln", label: "Light Novel" },
   { key: "manga", label: "Manga" },
   { key: "anime", label: "Anime" },
 ];
 
 function Track({ stages, label, projectHref }: { stages: PipelineStage[]; label: string; projectHref: string }) {
   if (!stages.length) return null;
-  const target = label === "Manga" ? "manga" : label === "Anime" ? "anime" : "story";
+  const target =
+    label === "Light Novel" ? "ln" : label === "Manga" ? "manga" : label === "Anime" ? "anime" : "story";
   return (
     <div className="track">
       <Link className="track-label" href={`${projectHref}/${target}`}>
@@ -120,7 +122,7 @@ export default async function ProjectHome({ params }: { params: Promise<{ projec
         <section className="block" aria-labelledby="production">
           <div className="block-head">
             <h2 id="production">
-              Production<small>how an episode becomes manga, then animation</small>
+              Production<small>story can become light novel, manga and later animation</small>
             </h2>
           </div>
           <div className="surface tracks">

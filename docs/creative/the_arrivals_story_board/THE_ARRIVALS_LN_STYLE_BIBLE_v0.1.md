@@ -38,20 +38,36 @@ Reason:
 - avoids forcing manga-present-tense captions into prose.
 
 ## Person / POV
-Recommended:
-> **close third person, rotating by scene/chapter**
+Default:
+> **close third person, chosen scene by scene according to what the story needs**
 
-One scene has one primary interior anchor.
+This is **not** a Mau/Frieren-locked novel.
+
+The ensemble should gain POV access organically whenever another character gives the scene the strongest:
+- emotional angle;
+- comedy;
+- mystery;
+- information limit;
+- thematic contrast.
+
+One scene should still have one primary interior anchor.
 
 Allowed:
-- exterior/cinematic opening sentences;
-- brief objective transitions;
+- Frieren POV;
+- Mau POV;
+- Bocchi POV;
+- Yuta POV;
+- Rimuru POV;
+- Fern/Momo/Maomao/Anko/G3 POVs when useful;
+- brief exterior/cinematic passages;
 - scene break → new POV.
 
 Avoid:
 > omniscient head-hopping inside the same beat.
 
-The reader may understand both sides of a misunderstanding because consecutive scenes use different POVs.
+The goal is flexible POV, not chaotic POV.
+
+The reader may understand both sides of a misunderstanding because consecutive scenes use different anchors.
 
 The characters should not gain that knowledge.
 
@@ -130,9 +146,21 @@ Frieren should generally use less explicit self-analysis.
 
 # 5. Dialogue
 
-Existing Voice Check dialogue is authoritative unless a later decision supersedes it.
+Existing manga Voice Checks are the **baseline**, not the final LN voice lock.
 
-Do not rewrite approved lines merely to make prose "more literary."
+Approved lines should be preserved when they still work, but prose adaptation may legitimately:
+- expand;
+- trim;
+- re-time;
+- or rephrase
+
+when the manga version depended on visual acting/panel timing.
+
+Do not rewrite simply to sound "more literary."
+
+Do adapt when prose needs additional language to convey what the manga previously carried visually.
+
+Every change must preserve the speaker's established character voice.
 
 Dialogue rules:
 - contractions where natural;
@@ -673,26 +701,42 @@ Before marking an LN chapter ready:
 
 ---
 
-# 26. Calibration gate
+# 26. LN Voice Check / calibration gate
 
-Before adapting all S1:
+Do not make the creator reread complete chapters simply to verify character voice.
 
-Write the opening LN sample:
-- E1 opening/source-world loss;
-- Mau arrival/new-world section;
-- early E2 first-home section;
-- expanded E2 grief/night material.
+Use short **character calibration pairs**.
 
-This sample deliberately tests:
-- Frieren POV;
-- Mau POV;
-- action;
-- silence;
-- grief;
-- humor;
-- world texture;
-- time passage;
-- dialogue preservation.
+For each major character as they enter the LN:
+- Sample A: ordinary/comedic/social register;
+- Sample B: serious/emotional/interior register.
 
-After creator approval, this Bible can move from PROVISIONAL to APPROVED and the rest of Volume 1 can be adapted at speed.
+Use actual canon scenes or directly adapted slices rather than unrelated test fiction.
+
+Each sample should test:
+- spoken cadence;
+- internality;
+- narrator distance;
+- what the character notices;
+- what the character would never articulate directly;
+- how manga-only acting becomes prose.
+
+Initial order:
+1. Frieren;
+2. Mau;
+3. Bocchi;
+4. Yuta;
+5. Rimuru + Raphael;
+6. G2 characters as E10/E11 approaches;
+7. remaining ensemble/G3 voices when their POV becomes useful.
+
+A creator GREEN LIGHT means:
+> that character's LN voice is trusted as the working baseline.
+
+After green light, continue drafting at speed and reopen voice only when:
+- a new emotional register exposes a problem;
+- the prose drifts;
+- or creator feedback changes the direction.
+
+This Bible remains provisional until the first core voice set is approved.
 

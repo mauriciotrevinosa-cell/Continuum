@@ -52,6 +52,8 @@ Season 2 now has a continuous, audited story path from the S1 Sukuna handoff thr
 
 **Creator review + new battle refinement packet (non-canon working notes):** [S2_ROADMAP_V0.1_CREATOR_REVIEW_AND_BATTLE_REFINEMENT_v0.1.md](./S2_ROADMAP_V0.1_CREATOR_REVIEW_AND_BATTLE_REFINEMENT_v0.1.md)
 
+**Creator review of revised roadmap v0.2 (structural mergers / pacing):** [S2_ROADMAP_V0.2_CREATOR_REVIEW_v0.1.md](./S2_ROADMAP_V0.2_CREATOR_REVIEW_v0.1.md)
+
 **Complete continuity inventory:** [S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md](./S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md)
 
 **Lived-space inventory:** [S2_LIVED_SPACE_INVENTORY_v0.1.md](./S2_LIVED_SPACE_INVENTORY_v0.1.md)

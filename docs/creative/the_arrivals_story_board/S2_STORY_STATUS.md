@@ -2,9 +2,11 @@
 
 ## Overall status
 
-Season 2 is **not manga-ready yet**.
+Season 2 is **not manga-ready yet**, but its **macro story + lived-space architecture are closed**.
 
-The opening has a high-confidence first-six episode skeleton, and several later arcs are strongly developed, but exact total episode count, many placements, and full panel scripts remain open.
+Pass A (causality), Pass B (emotional runway) and Pass C (calendar/world continuity) all passed. The current creative phase is **fused episodeization + slice-of-life/calendar work**.
+
+The old first-six opening package is preserved below only as a **historical compressed set of opening landmarks**. Its exact E1–E6 boundaries are superseded as a lock: episodeization reopens from S2E1 using the current continuity/lived-space material.
 
 Current macro-direction:
 
@@ -31,36 +33,38 @@ fragile routine
 → S2 ends before move-to-site spectacle or meaningful construction
 → S3 begins the move/build
 
-## S2 opening six-episode skeleton
+Current consolidated handoff for episodeization: [S2_EPISODEIZATION_MASTER_INPUT_v0.1.md](./S2_EPISODEIZATION_MASTER_INPUT_v0.1.md).
 
-### S2E1 — Yuta Knows
+## Historical compressed opening landmarks — packaging superseded
+
+### Landmark 1 — Yuta Knows
 Yuta briefly senses Sukuna and reacts with genuine terror. Sukuna suppresses his cursed energy almost immediately, so Yuta knows only that Sukuna is here, not where he is or what he intends. G3 continues moving through the regional road network in parallel.
 
 **Status:** approved rough / high-confidence direction; not Level 4.
 
-### S2E2 — Normal Life Under Hidden Threat
+### Landmark 2 — Normal Life Under Hidden Threat
 G1+G2 continue ordinary work, guild routines and home life while the audience knows Sukuna exists somewhere in the same world. G3 road/caravan material continues.
 
 **Status:** approved rough / high-confidence direction.
 
-### S2E3 — Rumors
+### Landmark 3 — Rumors
 Survivors, merchants and travelers begin carrying inconsistent reports of the destroyed major city. The previously neutral/new word “Otherworlder” starts acquiring fear.
 
 **Status:** approved rough / high-confidence direction.
 
-### S2E4 — Fear / Social Deterioration
+### Landmark 4 — Fear / Social Deterioration
 The mercantile town begins associating the catastrophe with the known group near the lake. Suspicion rises despite lack of evidence. Frieren leans toward reducing friction; Rimuru can argue that coexistence should not be abandoned immediately.
 
 **Status:** approved rough / high-confidence direction.
 
-### S2E5 — Bocchi Incident
+### Landmark 5 — Bocchi Incident
 Mau and Bocchi make an ordinary supply trip after relations seem somewhat stabilized. Social tension escalates. Bocchi receives a small but visible forehead cut; exact severity is open, but the blood frightens the household and exposes the strategic truth that civilians cannot always depend on a stronger person being beside them.
 
 This is the emotional/practical breaking point that makes finding a safer long-term home necessary.
 
 **Status:** approved rough / high-confidence direction.
 
-### S2E6 — G3 Arrives
+### Landmark 6 — G3 Arrives
 A merchant/caravan directs G3 to the abandoned settlement instead of the hostile town. Kita recognizes Bocchi from behind first, then sees the bandage after Bocchi turns.
 
 Momo sees Okarun and remembers him. Okarun does not remember Momo. Favored closing:
@@ -147,7 +151,7 @@ Current shape:
 
 ## S2 material still missing before manga production
 
-- exact total episode/order map after E6;
+- exact episode grouping / splitting / numbering from S2E1 onward;
 - exact placement of Himmel, Maki and other arrivals needed before later major arcs;
 - full continuous episode drafts;
 - voice/story approval at episode level;

@@ -46,7 +46,9 @@ Season 2 now has a continuous, audited story path from the S1 Sukuna handoff thr
 
 **Current episodeization handoff:** [S2_EPISODEIZATION_MASTER_INPUT_v0.1.md](./S2_EPISODEIZATION_MASTER_INPUT_v0.1.md)
 
-**Current revised provisional episode roadmap for creator review:** [S2_PROVISIONAL_EPISODE_ROADMAP_v0.2.md](./S2_PROVISIONAL_EPISODE_ROADMAP_v0.2.md)
+**Current revised provisional episode roadmap for creator review:** [S2_PROVISIONAL_EPISODE_ROADMAP_v0.3.md](./S2_PROVISIONAL_EPISODE_ROADMAP_v0.3.md)
+
+**Previous revised roadmap (historical review source):** [S2_PROVISIONAL_EPISODE_ROADMAP_v0.2.md](./S2_PROVISIONAL_EPISODE_ROADMAP_v0.2.md)
 
 **Previous first-pass roadmap (historical review source):** [S2_PROVISIONAL_EPISODE_ROADMAP_v0.1.md](./S2_PROVISIONAL_EPISODE_ROADMAP_v0.1.md)
 

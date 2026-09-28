@@ -172,6 +172,23 @@ Dialogue rules:
 
 No universal dialogue polish that makes everyone equally witty.
 
+## Final prose dialogue format
+
+The screenplay/source-draft convention:
+
+```text
+**CHARACTER**
+Dialogue
+```
+
+does **not** survive into finished LN prose.
+
+Use standard prose dialogue integrated with action, attribution and interiority.
+
+The manga drafts remain source evidence for wording, cadence and behavior; they are not a formatting template for the novel.
+
+Authoring Markdown may retain stable scene markers/headings for Continuum parsing and hashing, but those markers are production structure, not necessarily printed chapter subheads.
+
 ---
 
 # 6. Speech translation / language barrier

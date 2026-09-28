@@ -9,8 +9,8 @@ import { KIND_LABELS, loadProject } from "../_components/project";
 
 /**
  * Inside a project. The section bar is the project's own: its story, its
- * drafts and approvals, and the production tracks that will hold manga,
- * animation and assets as they are made.
+ * drafts and approvals, and the production tracks that hold light novel,
+ * manga, animation and assets as they are made.
  */
 export default async function ProjectLayout({
   children,
@@ -52,6 +52,7 @@ export default async function ProjectLayout({
             <SubnavLink href={`${base}/documents`}>Documents</SubnavLink>
             <SubnavLink href={`${base}/drafts`}>Drafts</SubnavLink>
             <SubnavLink href={`${base}/approved`}>Approved</SubnavLink>
+            <SubnavLink href={`${base}/ln`}>Light Novel</SubnavLink>
             <SubnavLink href={`${base}/manga`} exact>
               Manga
             </SubnavLink>

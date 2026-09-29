@@ -20,7 +20,7 @@ For the episode/material being adapted, inspect:
 4. integrated cinematic revision overlay;
 5. applicable episode/project addenda;
 6. spatial/environment continuity;
-7. wardrobe continuity for every scene;
+7. wardrobe + domestic texture continuity for every scene;
 8. current S1 audit + LN readiness;
 9. current LN Style Bible;
 10. any approved LN voice baseline already established.
@@ -40,6 +40,32 @@ Allowed without changing canon:
 - scene transitions;
 - selectively expanded ordinary-life material;
 - pacing expansion already promoted by the S1 audit.
+
+## Expansion bias for lived-in material
+
+For `The Arrivals`, compression is not automatically better adaptation.
+
+When authorized source contains or implies a recurring lived-in beat, prefer preserving or expanding it rather than collapsing it into a summary.
+
+This especially applies to:
+- wardrobe and borrowed clothing;
+- room geography;
+- recurring props;
+- meals;
+- repair/washing routines;
+- sleeping habits;
+- work-return states;
+- small ensemble interactions;
+- route familiarity;
+- background character relationships;
+- setup for later callbacks.
+
+A beat does not need to advance macro plot to earn prose space.
+
+If a quiet expansion makes a later absence, joke, reunion or callback land harder, it is doing story work.
+
+The governing wardrobe/domestic continuity source is:
+`sources/THE_ARRIVALS_WARDROBE_AND_DOMESTIC_TEXTURE_CONTINUITY_v0.1.md`.
 
 ## Requires creator/story authority
 

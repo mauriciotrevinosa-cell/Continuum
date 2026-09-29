@@ -72,6 +72,8 @@ The Light Novel path is now **active** beside manga production. Shared Story Can
 
 **Strict S1 LN source gate:** [S1_LN_PRODUCTION_SOURCE_GATE_v0.1.md](./S1_LN_PRODUCTION_SOURCE_GATE_v0.1.md)
 
+**Wardrobe + domestic texture continuity:** [THE_ARRIVALS_WARDROBE_AND_DOMESTIC_TEXTURE_CONTINUITY_v0.1.md](./sources/THE_ARRIVALS_WARDROBE_AND_DOMESTIC_TEXTURE_CONTINUITY_v0.1.md)
+
 **Volume 1 index — S1E1–S1E6 / 17 chapters:** [THE_ARRIVALS_LN_VOLUME_01_INDEX_v0.1.md](../THE_ARRIVALS_LN_VOLUME_01_INDEX_v0.1.md)
 
 **Volume 2 index — S1E7–S1E14 / 23 chapters:** [THE_ARRIVALS_LN_VOLUME_02_INDEX_v0.1.md](../THE_ARRIVALS_LN_VOLUME_02_INDEX_v0.1.md)

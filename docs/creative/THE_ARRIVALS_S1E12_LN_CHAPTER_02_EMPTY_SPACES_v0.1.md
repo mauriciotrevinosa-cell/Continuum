@@ -7,7 +7,7 @@
 **Reading order:** 16  
 **Source episode:** S1E12 — `Rooms for Everyone`  
 **Primary source:** `the_arrivals_story_board/s1/drafts/THE_ARRIVALS_S1E12_ROOMS_FOR_EVERYONE_DRAFT_1_v0.1.md`  
-**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; clothing callback addendum; LN Style Bible  
+**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; clothing callback addendum; LN Style Bible  ; Wardrobe + Domestic Texture Continuity v0.1
 **Adaptation boundary:** considerate distance evolves into replacement insecurity without blame
 
 <!-- scene-id: s1e12-ln02-mau-everywhere -->

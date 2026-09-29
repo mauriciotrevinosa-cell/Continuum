@@ -147,7 +147,7 @@ function Production({
   const related = info.documents
     ? documents.filter((d) =>
         section === "ln"
-          ? d.category === "ln-chapter" || d.category === "ln-volume"
+          ? d.category === "ln-chapter" || d.category === "ln-volume" || d.category === "ln-season"
           : d.section === "production",
       )
     : [];

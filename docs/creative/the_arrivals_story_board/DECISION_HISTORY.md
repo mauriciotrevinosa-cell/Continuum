@@ -152,3 +152,26 @@ The creator tightened the ending to avoid unnecessary tail episodes and to prese
 
 This is deliberate payoff-tail discipline, not missing story.
 
+
+
+## DH-016 — Light Novel production path activated
+
+Earlier planning preserved a Light Novel parallel path but explicitly deferred actual LN drafting while manga/story production remained the active work.
+
+On 2026-09-28 the creator activated the LN path and requested production-level Season 1 prose while preserving the manga path in parallel.
+
+**Current direction:**
+- Light Novel production is active;
+- manga production remains active;
+- both derive from shared Story Canon;
+- LN prose may expand pacing, interiority, sensory detail and connective tissue where prose requires it;
+- LN prose may not silently change story facts, chronology, relationships, powers, wardrobe continuity, arrival timing, established motivations or locked callbacks;
+- every S1 LN chapter must pass the strict source-preflight rule before drafting;
+- the first S1 production pass contains **57 draft LN chapters across 3 provisional volumes**.
+
+This supersedes the older LN-path document **only where it said not to begin LN production yet**. Its compatible adaptation principles remain valid.
+
+See:
+- `../THE_ARRIVALS_LN_PATH_ACTIVATION_2026-09-28.md`
+- `S1_LN_PRODUCTION_SOURCE_GATE_v0.1.md`
+- `../THE_ARRIVALS_S1_LN_PRODUCTION_INDEX_v0.1.md`

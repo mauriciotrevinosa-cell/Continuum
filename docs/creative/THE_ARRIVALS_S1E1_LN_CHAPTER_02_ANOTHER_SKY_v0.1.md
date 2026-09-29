@@ -7,7 +7,7 @@
 **Reading order:** 2  
 **Source episode:** S1E1 — `Not This Time`  
 **Primary source:** `the_arrivals_story_board/s1/drafts/THE_ARRIVALS_S1E1_DRAFT_1_v0.1.md`  
-**Applied:** S1 LN final audit; integrated cinematic overlay v0.2; LN Style Bible; approved Frieren/Mau LN voice baseline  ; Wardrobe + Domestic Texture Continuity v0.1
+**Applied:** S1 LN final audit; integrated cinematic overlay v0.2; LN Style Bible; approved Frieren/Mau LN voice baseline; Wardrobe + Domestic Texture Continuity v0.1
 **Adaptation boundary:** applies later creator-approved Mau arrival wardrobe + name-discovery correction; prose expansion otherwise preserves S1 canon
 
 <!-- scene-id: s1e1-ln02-another-sky -->

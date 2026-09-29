@@ -628,7 +628,25 @@ Do not change POV in the middle of a paragraph/beat.
 # 21. Prose density
 
 Default:
-> clean, readable, sensory, emotionally precise.
+> clean, readable, sensory, emotionally precise — but never compressed merely for efficiency when lived-in detail carries story weight.
+
+For `The Arrivals`, ordinary-life material is often continuity tissue rather than padding.
+
+Prefer expansion when a few extra paragraphs/pages make any of the following legible:
+- a household habit becoming normal;
+- an object acquiring history;
+- wardrobe changing through use, repair or borrowing;
+- a room slowly becoming shared;
+- a character becoming comfortable around someone;
+- a callback gaining setup;
+- grief/relief landing through routine;
+- time passage becoming felt rather than announced;
+- ensemble life continuing outside the current POV.
+
+A quiet chapter is allowed to become materially longer if the added material makes the household feel more alive and remains character-specific.
+
+The target is not maximal word count.
+The target is **retaining weight**.
 
 Avoid:
 - purple prose;
@@ -636,7 +654,8 @@ Avoid:
 - screenplay fragments pretending to be prose;
 - light-novel cliché narration;
 - constant rhetorical questions;
-- overuse of em dashes/ellipses as substitute for rhythm.
+- overuse of em dashes/ellipses as substitute for rhythm;
+- decorative inventory with no character or continuity function.
 
 Short fragments are allowed when the character/scene earns them.
 
@@ -649,13 +668,21 @@ Spend detail where it creates:
 - atmosphere;
 - character;
 - callback;
-- emotional evidence.
+- emotional evidence;
+- lived-in continuity.
 
-Do not describe every outfit/object every time.
+Do not describe every outfit/object every time **by quota**.
 
-First appearance and changed states deserve more detail.
+But do not flatten a known recurring object into generic wording when its identity carries accumulated meaning.
 
-Repeated home spaces should rely on accumulated reader memory.
+Examples:
+- `Mau's black-and-orange McLaren hoodie` may matter more than `his outer layer`;
+- the red Ferrari shirt disappearing from a chair may matter more than `some clothes were gone`;
+- a cup, cap, flower or book changing location can be the scene.
+
+First appearance, changed state, new wearer, repair, disappearance and return deserve more detail.
+
+Repeated home spaces should rely on accumulated reader memory **and reward that memory with specific changes**.
 
 ---
 
@@ -704,13 +731,17 @@ A chapter ends when its dramatic movement is complete.
 
 Short chapters are allowed before/after large ones.
 
-Do not pad:
-- quiet material;
-- comedy;
-- action;
-- emotional aftermath
+There is **no penalty for adding substantial length** when the added pages preserve character life, domestic continuity, emotional breathing room or setup/payoff texture that the manga could previously carry visually.
 
-to meet a word target.
+Do not add material merely to meet a word target.
+
+But when choosing between:
+- compressing a meaningful lived-in beat;
+- or allowing the chapter to become longer;
+
+prefer the longer chapter.
+
+A fifty-page increase across a volume is acceptable if those pages are doing real character/continuity work.
 
 ---
 
@@ -785,3 +816,22 @@ After green light, continue drafting at speed and reopen voice only when:
 
 This Bible remains provisional until the first core voice set is approved.
 
+
+
+# 28. Wardrobe and domestic texture
+
+Wardrobe is part of character continuity.
+
+Apply:
+`sources/THE_ARRIVALS_WARDROBE_AND_DOMESTIC_TEXTURE_CONTINUITY_v0.1.md`
+
+Key rules:
+- clothes have owners, wearers, histories and locations;
+- recurring pieces may be borrowed, repaired, washed, moved and recognized;
+- Mau/Frieren clothing exchange is recurring domestic behavior, not only callback machinery;
+- Frieren has stateful day/travel, winter and sleepwear rather than one permanent default;
+- Rimuru enables gradual household-wide repair/adaptation;
+- Wakana later enables more sophisticated/personalized wardrobe development;
+- wardrobe progression applies to the ensemble, not only Mau/Frieren.
+
+When a garment/object is doing relationship or continuity work, name it specifically enough for the reader to remember it later.

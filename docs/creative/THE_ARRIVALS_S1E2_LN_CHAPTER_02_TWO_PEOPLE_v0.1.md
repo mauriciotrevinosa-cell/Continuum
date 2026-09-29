@@ -7,7 +7,7 @@
 **Reading order:** 5  
 **Source episode:** S1E2 — `First Home`  
 **Primary source:** `the_arrivals_story_board/s1/drafts/THE_ARRIVALS_S1E2_FIRST_HOME_DRAFT_1_v0.1.md`  
-**Applied:** S1 final audit pacing expansion; integrated cinematic overlay v0.2; inn spatial continuity; LN Style Bible; Frieren/Mau GREEN voice baseline  ; Wardrobe + Domestic Texture Continuity v0.1
+**Applied:** S1 final audit pacing expansion; integrated cinematic overlay v0.2; inn spatial continuity; LN Style Bible; Frieren/Mau GREEN voice baseline; Wardrobe + Domestic Texture Continuity v0.1
 **Adaptation boundary:** this chapter contains the approved LN-era E2 expansion of the two-person phase
 
 <!-- scene-id: s1e2-ln02-one-room -->

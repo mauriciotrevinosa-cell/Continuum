@@ -156,7 +156,7 @@ At first Frieren had chosen the room opposite Mau's.
 
 Then she found damp spreading along the ceiling.
 
-She moved her case across the corridor.
+She moved her travel case across the corridor.
 
 "It's warmer," she said.
 
@@ -175,6 +175,14 @@ Neither treated the shared room as important.
 It was dry.
 
 Their things fit.
+
+Frieren's books and travel case took one wall.
+
+Mau's backpack stayed open near the other because packing and unpacking it every day had become pointless. The red Ferrari shirt hung from a chair while it dried. His McLaren cap rested beside a stack of Frieren's books. At night his TAG Heuer watch sat on the small table between their things because there was nowhere else more sensible to put it.
+
+No one had assigned those locations.
+
+They had simply happened.
 
 That was enough.
 

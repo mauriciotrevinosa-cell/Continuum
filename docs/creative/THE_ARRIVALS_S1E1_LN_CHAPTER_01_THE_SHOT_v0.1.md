@@ -308,9 +308,9 @@ He looked up from the common room.
 
 Frieren walked past him.
 
-He did not stop her.
+She looked exhausted beyond speech. The dirt from the search was still on her clothes. She did not clean up or properly change; she removed only what she had to before sleep and sat on the bed.
 
-She closed the door to her room, removed only what she had to, and sat on the bed.
+He did not stop her.
 
 No notes for tomorrow.
 
@@ -318,7 +318,7 @@ No map.
 
 No list.
 
-The ornament lay in her hand.
+Fern's hair ornament lay in her hand.
 
 Frieren curled her fingers around it and brought it against her chest.
 

@@ -94,6 +94,78 @@ That was why it mattered.
 
 * * *
 
+<!-- scene-id: s1e8-ln03-clothes-stop-being-static -->
+
+Fixing the building made smaller problems easier to notice.
+
+One evening Rimuru found a pile of clothing on the table.
+
+Not laundry.
+
+Repairs.
+
+A seam on one of Yuta's everyday layers had opened from work.
+
+The inside of Bocchi's coat had started pulling loose near the cuff.
+
+Frieren's cold-weather clothing had a worn section she had apparently decided did not count as a problem because it still functioned.
+
+Mau's McLaren hoodie had begun to fray where one cuff kept catching on rough timber.
+
+Rimuru looked at the pile.
+
+Then at everyone.
+
+"You know clothes can also be repaired before they fall apart."
+
+Frieren looked up from her book.
+
+"They're not falling apart."
+
+Rimuru held up her worn layer.
+
+"This is the argument you used about the roof."
+
+"The roof leaked."
+
+"This is how we get there."
+
+Mau turned his wrist and inspected the frayed cuff.
+
+"I thought that was supposed to look like that."
+
+"No."
+
+"Oh."
+
+They did not gain a wardrobe overnight.
+
+They gained a repair pile.
+
+Salvaged cloth stopped being only insulation.
+
+Some became patches.
+
+Strong thread became worth saving.
+
+Pieces that did not fit anyone properly could be cut down, lined, reinforced or reused instead of discarded.
+
+Rimuru was better at making those decisions efficiently.
+
+Bocchi cared about whether repairs were visible.
+
+Yuta did not.
+
+Frieren cared only after someone else pointed out the damage.
+
+Mau discovered he liked keeping the original pieces even when the repaired sections made them look slightly different.
+
+The house had already taught them to reuse wood and stone.
+
+Clothing became another version of the same lesson.
+
+* * *
+
 <!-- scene-id: s1e8-ln03-common-space-object -->
 
 During the work, Mau left one of the few personal things that had arrived with him on the common-room table.

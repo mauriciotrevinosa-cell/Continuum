@@ -7,7 +7,7 @@
 **Reading order:** 3  
 **Source episode:** S1E1 — `Not This Time`  
 **Primary source:** `the_arrivals_story_board/s1/drafts/THE_ARRIVALS_S1E1_DRAFT_1_v0.1.md`  
-**Applied:** S1 LN final audit; integrated cinematic overlay v0.2; LN Style Bible; approved Frieren/Mau LN voice baseline  
+**Applied:** S1 LN final audit; integrated cinematic overlay v0.2; LN Style Bible; approved Frieren/Mau LN voice baseline  ; Wardrobe + Domestic Texture Continuity v0.1
 **Adaptation boundary:** prose expansion only; no story-canon change
 
 <!-- scene-id: s1e1-ln03-bucket -->

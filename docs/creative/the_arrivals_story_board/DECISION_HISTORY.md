@@ -175,3 +175,66 @@ See:
 - `../THE_ARRIVALS_LN_PATH_ACTIVATION_2026-09-28.md`
 - `S1_LN_PRODUCTION_SOURCE_GATE_v0.1.md`
 - `../THE_ARRIVALS_S1_LN_PRODUCTION_INDEX_v0.1.md`
+
+
+## DH-017 — LN expansion bias and Mau arrival wardrobe/name restoration
+
+The first complete S1 LN pass preserved macro story correctly but compressed some story-bearing visual/domestic continuity too aggressively.
+
+Creator review established a stronger adaptation rule:
+
+> when a small ordinary-life beat carries relationship, object, wardrobe, spatial or callback weight, prefer expansion over compression.
+
+This does not mean adding decorative inventory. It means preserving the lived-in material that manga panels could previously carry visually.
+
+### Mau arrival / name correction
+Later creator direction supersedes the older S1E1 version where Mau simply recalls the name `Mau`.
+
+Current direction:
+- Mau arrives wearing the black/orange **2021 McLaren Team Hoodie** and a gray/orange **TAG Heuer Formula 1** watch;
+- a backpack arrives with him containing changes/accessories including:
+  - McLaren Triple Crown Edition cap;
+  - navy Massimo Dutti knitted polo;
+  - red 2025 Ferrari team long-sleeve/button shirt;
+  - white T-shirt;
+  - white 2026 Real Madrid long-sleeve jersey marked `MAU T / 5`;
+  - Un Verano Sin Ti Tour bucket hat;
+- the previously explored bomber is removed from continuity;
+- Mau cannot retrieve his own name;
+- the personalized jersey provides the usable clue;
+- Frieren proposes `Maybe your name is Mau.`;
+- Mau answers `I like it.`.
+
+The emotional purpose is not forensic proof of legal identity. The belongings are evidence of a life Mau cannot access, and Frieren helps him turn one piece of that evidence into a usable present identity.
+
+### Domestic wardrobe continuity
+Mau's clothing should continue living through ordinary scenes rather than existing only for callbacks.
+
+Current S1 examples:
+- McLaren hoodie borrowed casually by Frieren;
+- McLaren cap used casually before the separation;
+- Ferrari shirt used by Frieren on an ordinary laundry/dry-clothes day;
+- these same specific objects disappear from the shared room during E11–E13;
+- E14 restores the McLaren hoodie and other belongings to the shared-room rhythm;
+- E18 exaggerates the already-established habit with McLaren hoodie + McLaren cap + Frieren's own comfortable short bottoms.
+
+### Ensemble wardrobe progression
+Wardrobe variety is not exclusive to Mau.
+
+- Frieren already has distinct normal day/travel, winter and sleep/pajama states.
+- Rimuru's arrival begins gradual household-wide repair/adaptation of clothing.
+- Wakana's later arrival can deepen tailoring, fit, repair and personalized wardrobe for the ensemble.
+- New recurring garments must still have traceable acquisition/creation history.
+
+### S2 callback preservation
+The existing post-Sukuna / Second Chance working arc already preserves the McLaren hoodie callback:
+- Frieren may be wearing Mau's orange/black 2021 McLaren Team Hoodie during recovery;
+- after Mau wakes, he may make a small callback in the spirit of `That hoodie suits you.`;
+- exact wording remains open.
+
+A later newcomer noticing Frieren in Mau's clothing and receiving an answer equivalent to `Don't ask. This is normal.` is a **strong direction / wording open**, not a locked line.
+
+See:
+- `sources/THE_ARRIVALS_WARDROBE_AND_DOMESTIC_TEXTURE_CONTINUITY_v0.1.md`
+- `S1_LN_PRODUCTION_SOURCE_GATE_v0.1.md`
+- `THE_ARRIVALS_LN_STYLE_BIBLE_v0.1.md`

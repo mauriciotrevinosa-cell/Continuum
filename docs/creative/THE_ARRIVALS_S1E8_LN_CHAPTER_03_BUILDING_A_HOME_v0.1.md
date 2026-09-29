@@ -7,7 +7,7 @@
 **Reading order:** 6  
 **Source episode:** S1E8 — `Trust / Building a Home`  
 **Primary source:** `the_arrivals_story_board/s1/drafts/THE_ARRIVALS_S1E8_TRUST_BUILDING_A_HOME_DRAFT_1_v0.1.md`  
-**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; LN Style Bible  
+**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; LN Style Bible  ; Wardrobe + Domestic Texture Continuity v0.1
 **Adaptation boundary:** Rimuru coordinates; he does not replace collective labor
 
 <!-- scene-id: s1e8-ln03-chain-of-hands -->

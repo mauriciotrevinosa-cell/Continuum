@@ -130,6 +130,8 @@ Not a good one.
 
 A camp.
 
+Mau's backpack sat beneath the driest part of the shelter with Frieren's travel case. His black-and-orange hoodie had collected a little dirt at the elbows and one sleeve from a day spent learning the ground the hard way.
+
 The bucket sat near the tree. The plant Mau had found rested beside it as if it had always been part of the plan.
 
 Frieren opened her travel case.

@@ -774,7 +774,7 @@
       "description": "The written episode, versioned; a redo is a new version, never an overwrite."
     },
     {
-      "id": "ln-adaptation",
+      "id": "ln-chapter",
       "title": "Light Novel adaptation",
       "track": "ln",
       "description": "Prose chapters adapted from current Story Canon with source preflight, scene provenance and character-specific voice."

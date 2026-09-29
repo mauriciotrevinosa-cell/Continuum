@@ -7,7 +7,7 @@
 **Reading order:** 14  
 **Source episode:** S1E11 — `There You Are`  
 **Primary source:** `the_arrivals_story_board/s1/drafts/THE_ARRIVALS_S1E11_THERE_YOU_ARE_DRAFT_1_v0.1.md`  
-**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; shared-room accidental-hurt correction; LN Style Bible  
+**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; shared-room accidental-hurt correction; LN Style Bible  ; Wardrobe + Domestic Texture Continuity v0.1
 **Adaptation boundary:** no fight; both parties act from consideration and misread the other's preference
 
 <!-- scene-id: s1e11-ln03-mau-explains -->

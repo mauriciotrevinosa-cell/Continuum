@@ -14,9 +14,9 @@
 
 When Frieren came downstairs again, conversation paused.
 
-She wore Mau's hooded outer layer.
+She wore Mau's black-and-orange 2021 McLaren Team Hoodie.
 
-Mau's cap.
+His McLaren Triple Crown Edition cap.
 
 Her own comfortable short bottoms.
 
@@ -36,9 +36,9 @@ Frieren sat.
 
 "What?"
 
-Mau looked at the cap.
+Mau looked at the familiar McLaren cap.
 
-Then the hooded layer.
+Then at his own black-and-orange hoodie.
 
 Then Frieren.
 
@@ -126,9 +126,9 @@ She stepped into the inn.
 
 Stopped.
 
-Mistress Frieren wore Mau's hooded outer layer.
+Mistress Frieren wore Mau's black-and-orange McLaren hoodie.
 
-Mau's cap.
+His McLaren Triple Crown cap.
 
 Sat almost against him.
 

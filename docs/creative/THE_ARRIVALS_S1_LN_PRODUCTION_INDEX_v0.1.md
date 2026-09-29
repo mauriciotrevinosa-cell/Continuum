@@ -106,6 +106,22 @@ This pass does **not** silently alter:
 - no Yuta reaction occurs before S2E1.
 - after the E19 hard cut, the manuscript never returns to the inn.
 
+## Current expansion/hardening state
+
+After the first complete 57-chapter draft, creator review triggered two production passes:
+- visual-continuity hardening;
+- domestic texture + wardrobe restoration.
+
+The current manuscript therefore includes restored lived-in continuity such as Mau's arrival belongings/name-discovery correction, wardrobe migration through the shared-room arc, household clothing repair after Rimuru, and exact McLaren/Ferrari callbacks.
+
+Current governing sources:
+- `the_arrivals_story_board/S1_LN_VISUAL_CONTINUITY_HARDENING_AUDIT_v0.1.md`;
+- `the_arrivals_story_board/S1_LN_DOMESTIC_TEXTURE_AND_WARDROBE_RESTORATION_v0.1.md`;
+- `the_arrivals_story_board/sources/THE_ARRIVALS_WARDROBE_AND_DOMESTIC_TEXTURE_CONTINUITY_v0.1.md`.
+
+The production bias is now explicit:
+> if meaningful lived-in detail would be lost by compression, allow the LN to become longer.
+
 ## Current manuscript status
 
 All 57 chapters are **DRAFT**, not APPROVED or LOCKED.

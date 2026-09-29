@@ -120,9 +120,165 @@ He noticed when she started using the piles.
 
 * * *
 
+<!-- scene-id: s1e2-ln02-what-came-with-him -->
+
+The backpack stopped being mysterious all at once and became mysterious in smaller pieces.
+
+Mau emptied it onto the driest section of floor while his black-and-orange McLaren hoodie hung near the fire to dry.
+
+Frieren sat nearby with a book.
+
+She was reading.
+
+Mostly.
+
+Mau picked up the gray watch he had taken off while washing.
+
+Orange accents crossed the face.
+
+The name came easily.
+
+"TAG Heuer Formula 1."
+
+Frieren looked up.
+
+"You remember that?"
+
+"I know what it is."
+
+"That's different."
+
+Mau looked at the watch.
+
+It was.
+
+He knew it was a watch.
+
+He knew how to set it.
+
+He knew the name printed on it.
+
+He did not know who had bought it.
+
+Did not know when.
+
+Did not know whether he had chosen it himself.
+
+The hands pointed to a time that belonged to a world he could not place.
+
+"What time is it?" Frieren asked.
+
+Mau looked.
+
+Then toward the window.
+
+"I don't know if this time means anything here."
+
+Frieren considered that.
+
+"Probably not."
+
+He set the watch beside him.
+
+The clothes were easier until he looked at them too long.
+
+A navy knitted polo.
+
+"Massimo Dutti."
+
+A red long-sleeved Ferrari team shirt.
+
+A plain white T-shirt.
+
+The white Real Madrid jersey with **MAU T** and **5** on the back.
+
+The McLaren Triple Crown cap.
+
+A bucket hat with **Un Verano Sin Ti Tour** worked into the design.
+
+Mau could name nearly all of it.
+
+That made the absence stranger.
+
+"Ferrari is a racing team," he said.
+
+Frieren turned a page.
+
+"Okay."
+
+"McLaren too."
+
+"Okay."
+
+"Real Madrid plays football."
+
+"What's football?"
+
+Mau opened his mouth.
+
+The answer existed.
+
+Rules.
+
+Field.
+
+Ball.
+
+Goal.
+
+All of it.
+
+A whole sport with no memory attached to learning it.
+
+He laughed once.
+
+Frieren lowered the book.
+
+"What?"
+
+"I know what football is."
+
+"That's good."
+
+"I don't know if I've ever watched it."
+
+Frieren looked at the jersey.
+
+"Maybe you did."
+
+"Maybe."
+
+No revelation came.
+
+Mau folded the shirt again.
+
+The clothes did not return his life.
+
+They did something smaller.
+
+They gave the room evidence that he had once had one.
+
+Over the next days the backpack stopped staying packed.
+
+The navy polo appeared over the back of a chair.
+
+The Ferrari shirt dried near the window after being washed.
+
+The cap ended up beside Frieren's books because Mau had put it down there and forgotten it.
+
+The watch moved from his wrist to the table at night and back again in the morning.
+
+His old life remained inaccessible.
+
+His things began acquiring new locations anyway.
+
+* * *
+
 <!-- scene-id: s1e2-ln02-first-snow -->
 
 Snow came properly one afternoon.
+
+By then Frieren had shifted into her cold-weather clothing rather than treating every day like a continuation of the road. Mau had learned to rotate the few clothes in his backpack instead of wearing the McLaren hoodie until it could stand on its own.
 
 Mau stopped in the lane.
 
@@ -171,6 +327,8 @@ Then returned to the window she had been trying to seal.
 The nights changed too.
 
 The first few, they slept near the common-room fire because the rest of the inn held cold too well.
+
+Once they had one upstairs room dry enough to trust, changing clothes stopped being a luxury. Frieren stopped sleeping in travel clothes and used her simple sleepwear when the cold allowed it. Mau rotated through the shirts from the backpack and learned which pieces dried fastest near the hearth without scorching.
 
 Frieren read.
 

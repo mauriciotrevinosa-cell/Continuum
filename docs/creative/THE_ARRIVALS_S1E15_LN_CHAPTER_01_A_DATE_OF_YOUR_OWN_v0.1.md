@@ -12,7 +12,7 @@
 
 <!-- scene-id: s1e15-ln01-blank -->
 
-Fern found the blank while moving papers.
+Fern found the blank while moving the last loose papers and books between Mau's nominal study room and the shared room he had resumed using with Frieren.
 
 One of Rimuru's household sheets had names, medicine notes, rough ages and practical details written in increasingly crowded lines.
 

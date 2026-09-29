@@ -7,7 +7,7 @@
 **Reading order:** 7  
 **Source episode:** S1E9 — `Making It Ours`  
 **Primary source:** `the_arrivals_story_board/s1/drafts/THE_ARRIVALS_S1E9_MAKING_IT_OURS_DRAFT_1_v0.1.md`  
-**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; Mau/Frieren clothing-callback addendum; S1 final audit; LN Style Bible  
+**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; Mau/Frieren clothing-callback addendum; S1 final audit; LN Style Bible  ; Wardrobe + Domestic Texture Continuity v0.1
 **Adaptation boundary:** flower reconstruction remains private, unsuccessful and non-instructional
 
 <!-- scene-id: s1e9-ln01-shelves -->

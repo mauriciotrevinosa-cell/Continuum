@@ -70,6 +70,27 @@ Every expansion must grow from the character's existing:
 - habits;
 - pressure behavior.
 
+## Visual continuity hardening
+
+A prose adaptation can remain factually correct while still becoming visually under-specified. That is a production risk.
+
+For any scene where a visual state is story-relevant, the LN must make that state explicit at the first useful point in the scene instead of relying only on implication from earlier pages.
+
+Examples include:
+- physical exhaustion, dirt, blood, injury or bandaging;
+- exact story-critical prop identity;
+- retained or borrowed accessories;
+- room occupancy / whose belongings are where;
+- wardrobe stage when it carries continuity or subtext;
+- time-of-day / weather when it changes the visual meaning of the beat;
+- a location state that evolves across the season.
+
+Do not add decorative detail merely to make prose more visual. Only harden details already supported by current Story authority.
+
+If an exact visual design is still unresolved in Story source, name the canonical object/state without inventing its final design. Downstream illustration work must resolve that design from the approved visual reference pack, not from improvised prose.
+
+For story-critical visual beats, an illustrator should not have to infer a contradictory default state from generic wording such as `the ornament`, `dirty`, or `normal clothes` when the source already specifies something more precise.
+
 ## Source ledger inside LN documents
 
 Each production chapter should record in its metadata:

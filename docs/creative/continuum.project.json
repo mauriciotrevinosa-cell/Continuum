@@ -420,6 +420,15 @@
       "lineage": "{episode_lower}-ln-chapter-{chapter}"
     },
     {
+      "id": "ln-season-index",
+      "match": "^THE_ARRIVALS_S(?P<season>\\\\d+)_LN_PRODUCTION_INDEX_v(?P<version>\\\\d+(?:\\\\.\\\\d+)*)\\\\.md$",
+      "document_id": "s{season}-ln-production-index",
+      "category": "ln-season",
+      "section": "production",
+      "maturity": "DETAILED",
+      "lineage": "s{season}-ln-production-index"
+    },
+    {
       "id": "ln-volume-index",
       "match": "^THE_ARRIVALS_LN_VOLUME_(?P<volume>\\\\d+)_INDEX_v(?P<version>\\\\d+(?:\\\\.\\\\d+)*)\\\\.md$",
       "document_id": "ln-volume-{volume}-index",

@@ -84,6 +84,8 @@ The Light Novel path is now **active** beside manga production. Shared Story Can
 
 **S1 LN visual-continuity hardening audit:** [S1_LN_VISUAL_CONTINUITY_HARDENING_AUDIT_v0.1.md](./S1_LN_VISUAL_CONTINUITY_HARDENING_AUDIT_v0.1.md)
 
+**S1 LN domestic texture + wardrobe restoration:** [S1_LN_DOMESTIC_TEXTURE_AND_WARDROBE_RESTORATION_v0.1.md](./S1_LN_DOMESTIC_TEXTURE_AND_WARDROBE_RESTORATION_v0.1.md)
+
 **S1 LN adaptation blueprint:** [S1_LN_ADAPTATION_BLUEPRINT_v0.1.md](./S1_LN_ADAPTATION_BLUEPRINT_v0.1.md)
 
 **Provisional LN style bible:** [THE_ARRIVALS_LN_STYLE_BIBLE_v0.1.md](./THE_ARRIVALS_LN_STYLE_BIBLE_v0.1.md)

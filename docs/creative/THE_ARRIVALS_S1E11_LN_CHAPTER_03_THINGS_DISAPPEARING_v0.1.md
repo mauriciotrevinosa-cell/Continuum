@@ -196,7 +196,11 @@ Practically.
 
 His cup near her books.
 
-His clothes folded beside hers.
+The black-and-orange McLaren hoodie Frieren had borrowed often enough that neither of them reliably returned it to a particular side.
+
+The red Ferrari team shirt over the back of the chair where Frieren had last left it.
+
+His McLaren cap beside a stack of her books.
 
 Grimoires nobody could immediately remember buying for whom.
 
@@ -208,7 +212,11 @@ He started only with the objects unquestionably his.
 
 Cup.
 
-A few clothes.
+McLaren cap.
+
+Ferrari shirt.
+
+Hoodie.
 
 His notes.
 
@@ -258,7 +266,11 @@ She noticed the missing things immediately.
 
 The cup.
 
-Clothes.
+The McLaren cap was no longer beside her books.
+
+The red Ferrari shirt was gone from the chair.
+
+The black-and-orange hoodie was gone too.
 
 Books.
 

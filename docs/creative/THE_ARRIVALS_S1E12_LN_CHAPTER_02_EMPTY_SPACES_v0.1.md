@@ -152,7 +152,9 @@ The spot was empty.
 
 Her fingers stayed in the air for one beat.
 
-Then lowered.
+The chair back was bare too. The red Ferrari shirt that had spent more time in this room than in Mau's nominal one was gone.
+
+Then her hand lowered.
 
 No dialogue.
 

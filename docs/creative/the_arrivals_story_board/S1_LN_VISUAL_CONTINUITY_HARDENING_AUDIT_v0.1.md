@@ -125,3 +125,23 @@ The LN is not a substitute for:
 - creator approval.
 
 For example, the prose may correctly say `Fern's hair ornament` while the exact ornament shape still comes from the approved visual/source reference rather than being invented from text.
+
+
+## Follow-up restoration pass
+
+This audit was followed on 2026-09-29 by a broader **Domestic Texture + Wardrobe Restoration** pass after creator review established that the issue was not limited to three visually under-specified moments.
+
+The later pass also restored:
+- Mau's arrival wardrobe/backpack/watch;
+- corrected name discovery through the `MAU T / 5` jersey;
+- E2 wardrobe/amnesia texture;
+- household-wide Rimuru clothing repair/adaptation;
+- recurring McLaren/Ferrari borrowing;
+- specific E11–E14 wardrobe absences/restoration;
+- exact E18 recurring pieces;
+- S2 hoodie callback continuity.
+
+See:
+`S1_LN_DOMESTIC_TEXTURE_AND_WARDROBE_RESTORATION_v0.1.md`
+
+Where this earlier audit's conclusion appears narrower, the later restoration pass is the current production state.

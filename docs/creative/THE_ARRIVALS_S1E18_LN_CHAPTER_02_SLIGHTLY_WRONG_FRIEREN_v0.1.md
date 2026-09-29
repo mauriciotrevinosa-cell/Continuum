@@ -7,7 +7,7 @@
 **Reading order:** 11  
 **Source episode:** S1E18 — Day in the Life / Maomao Chocolate  
 **Primary source:** the_arrivals_story_board/s1/drafts/THE_ARRIVALS_S1E18_DAY_IN_THE_LIFE_MAOMAO_CHOCOLATE_DRAFT_1_v0.1.md  
-**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; Mau/Frieren clothing callback addendum; LN Style Bible  
+**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; Mau/Frieren clothing callback addendum; LN Style Bible  ; Wardrobe + Domestic Texture Continuity v0.1
 **Hard guardrails:** no kiss contact; no romance confirmation; wardrobe escalation is exaggeration of established habit
 
 <!-- scene-id: s1e18-ln02-wardrobe -->

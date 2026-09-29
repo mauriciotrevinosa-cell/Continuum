@@ -108,7 +108,7 @@ A cup he used more often than she did.
 
 Several of his books stacked near hers.
 
-One of his casual outer layers draped over a chair because Frieren had taken it earlier when the corridor was cold and never returned it.
+His black-and-orange McLaren hoodie draped over a chair because Frieren had taken it earlier when the corridor was cold and never returned it to his side of the room.
 
 Mau had asked once.
 
@@ -122,7 +122,7 @@ Frieren had looked down at herself.
 
 That had been the entire dispute.
 
-Another morning, Frieren came downstairs with his cap.
+Another morning, Frieren came downstairs with his McLaren Triple Crown cap.
 
 Bocchi noticed.
 
@@ -141,6 +141,46 @@ Frieren touched the brim.
 Mau returned to eating.
 
 Nobody explained anything.
+
+A few days later laundry created a different problem.
+
+Frieren's usual day clothes were still damp.
+
+She came downstairs wearing Mau's red Ferrari team shirt instead.
+
+The sleeves were a little long on her. She had rolled them once and apparently decided that was enough.
+
+Mau looked up.
+
+"That's mine."
+
+"I know."
+
+"Do you know what Ferrari is?"
+
+"No."
+
+He considered this.
+
+"Okay."
+
+Bocchi looked down at breakfast before her face could give her away.
+
+Rimuru did not bother.
+
+"You two know other clothes exist, right?"
+
+Frieren sat.
+
+"These were dry."
+
+That ended the discussion as far as she was concerned.
+
+The Ferrari shirt went back upstairs later.
+
+Not to Mau's nominal room.
+
+To the chair beside Frieren's books where shared things had begun accumulating without permission from either of them.
 
 Mau technically had a room of his own down the corridor.
 

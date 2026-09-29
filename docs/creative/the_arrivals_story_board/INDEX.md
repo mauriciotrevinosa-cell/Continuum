@@ -62,14 +62,27 @@ Season 2 now has a continuous, audited story path from the S1 Sukuna handoff thr
 
 **S2 episodeization parking checkpoint before S1 LN adaptation:** [S2_EPISODEIZATION_PARKING_CHECKPOINT_v0.1.md](./S2_EPISODEIZATION_PARKING_CHECKPOINT_v0.1.md)
 
-## Season 1 LN-first adaptation
+## Season 1 — Light Novel production
+
+The Light Novel path is now **active** beside manga production. Shared Story Canon remains the authority; LN prose is a versioned adaptation layer, not a canon fork.
+
+**S1 LN production index — 57 draft chapters / 3 provisional volumes:** [THE_ARRIVALS_S1_LN_PRODUCTION_INDEX_v0.1.md](../THE_ARRIVALS_S1_LN_PRODUCTION_INDEX_v0.1.md)
+
+**LN path activation / supersession note:** [THE_ARRIVALS_LN_PATH_ACTIVATION_2026-09-28.md](../THE_ARRIVALS_LN_PATH_ACTIVATION_2026-09-28.md)
+
+**Strict S1 LN source gate:** [S1_LN_PRODUCTION_SOURCE_GATE_v0.1.md](./S1_LN_PRODUCTION_SOURCE_GATE_v0.1.md)
+
+**Volume 1 index — S1E1–S1E6 / 17 chapters:** [THE_ARRIVALS_LN_VOLUME_01_INDEX_v0.1.md](../THE_ARRIVALS_LN_VOLUME_01_INDEX_v0.1.md)
+
+**Volume 2 index — S1E7–S1E14 / 23 chapters:** [THE_ARRIVALS_LN_VOLUME_02_INDEX_v0.1.md](../THE_ARRIVALS_LN_VOLUME_02_INDEX_v0.1.md)
+
+**Volume 3 index — S1E15–S1E19 / 17 chapters:** [THE_ARRIVALS_LN_VOLUME_03_INDEX_v0.1.md](../THE_ARRIVALS_LN_VOLUME_03_INDEX_v0.1.md)
 
 **S1 final audit + LN readiness:** [S1_FINAL_AUDIT_AND_LN_READINESS_v0.1.md](./S1_FINAL_AUDIT_AND_LN_READINESS_v0.1.md)
 
 **S1 LN adaptation blueprint:** [S1_LN_ADAPTATION_BLUEPRINT_v0.1.md](./S1_LN_ADAPTATION_BLUEPRINT_v0.1.md)
 
 **Provisional LN style bible:** [THE_ARRIVALS_LN_STYLE_BIBLE_v0.1.md](./THE_ARRIVALS_LN_STYLE_BIBLE_v0.1.md)
-
 
 **S1 LN voice calibration workflow:** [S1_LN_VOICE_CALIBRATION_WORKFLOW_v0.1.md](./S1_LN_VOICE_CALIBRATION_WORKFLOW_v0.1.md)
 

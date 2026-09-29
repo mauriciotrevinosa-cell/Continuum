@@ -8,7 +8,7 @@
 **Source episode:** S1E1 — `Not This Time`  
 **Primary source:** `the_arrivals_story_board/s1/drafts/THE_ARRIVALS_S1E1_DRAFT_1_v0.1.md`  
 **Applied:** S1 LN final audit; integrated cinematic overlay v0.2; LN Style Bible; approved Frieren/Mau LN voice baseline  
-**Adaptation boundary:** prose expansion only; no story-canon change
+**Adaptation boundary:** applies later creator-approved Mau arrival wardrobe + name-discovery correction; prose expansion otherwise preserves S1 canon
 
 <!-- scene-id: s1e1-ln02-another-sky -->
 
@@ -82,6 +82,8 @@ She had not sensed him.
 
 He was young—adult, but not much older in appearance than the humans she had spent most of her recent life around. Taller than Frieren by enough to be obvious even lying down. Dark hair. Breathing.
 
+A black-and-orange hooded jacket was bunched beneath one shoulder. A gray watch with orange accents remained fastened at his wrist. A backpack lay in the grass close enough to have arrived with him.
+
 Alive.
 
 Frieren moved closer and crouched beside him.
@@ -132,7 +134,7 @@ He gave a small nod.
 
 The question should have been easy.
 
-Mau opened his mouth.
+He opened his mouth.
 
 Nothing came.
 
@@ -148,9 +150,7 @@ Inside.
 
 For one horrible moment there was only empty space.
 
-Then—
-
-"...Mau."
+"...I don't know."
 
 The stranger noticed the hesitation.
 
@@ -219,6 +219,84 @@ Everything around those facts was missing.
 When he looked up again, the white-haired stranger was still there.
 
 For the moment, she was the only person in the world he could place anywhere at all.
+
+His gaze drifted past her.
+
+The backpack.
+
+"Is that mine?"
+
+The stranger looked at it.
+
+"It was beside you."
+
+That was not the same answer.
+
+He reached for it anyway.
+
+The zipper opened beneath his fingers with an ease that felt more familiar than anything else had.
+
+Inside were folded clothes and a few personal things.
+
+A cap.
+
+Another hat.
+
+Dark blue knit fabric.
+
+A red long-sleeved shirt.
+
+A white T-shirt.
+
+Then a white long-sleeved jersey.
+
+He pulled it free.
+
+There was a number on the back.
+
+**5.**
+
+Above it:
+
+**MAU T**
+
+He stared.
+
+The letters were perfectly understandable.
+
+The connection behind them was not.
+
+The stranger leaned close enough to read them too.
+
+"Maybe your name is Mau."
+
+He looked at the jersey.
+
+Then at her.
+
+"Mau."
+
+The sound did not unlock anything.
+
+No face.
+
+No room.
+
+No memory.
+
+But it fit in his mouth.
+
+"I like it."
+
+The stranger nodded once.
+
+"Then Mau."
+
+Something small had become usable.
+
+Not remembered.
+
+Usable.
 
 * * *
 

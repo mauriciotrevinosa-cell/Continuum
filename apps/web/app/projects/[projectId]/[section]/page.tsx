@@ -196,17 +196,19 @@ function Production({
           </div>
         </section>
       ) : null}
-      <section className="block empty" style={{ textAlign: "left" }}>
-        <h3>{info.empty}</h3>
-        <p style={{ margin: "0 0 10px" }}>
-          This part of the workspace fills as production begins. It will hold:
-        </p>
-        <ul className="holds">
-          {info.holds.map((h) => (
-            <li key={h}>{h}</li>
-          ))}
-        </ul>
-      </section>
+      {!related.length ? (
+        <section className="block empty" style={{ textAlign: "left" }}>
+          <h3>{info.empty}</h3>
+          <p style={{ margin: "0 0 10px" }}>
+            This part of the workspace fills as production begins. It will hold:
+          </p>
+          <ul className="holds">
+            {info.holds.map((h) => (
+              <li key={h}>{h}</li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
       {related.length ? (
         <section className="block" aria-labelledby="related">
           <div className="block-head">

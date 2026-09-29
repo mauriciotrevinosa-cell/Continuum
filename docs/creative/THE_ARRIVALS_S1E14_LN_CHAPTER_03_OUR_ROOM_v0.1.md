@@ -178,7 +178,9 @@ The belongings he had moved during the misunderstanding.
 
 Frieren looked around.
 
-Then picked up one of his familiar everyday things.
+The black-and-orange McLaren hoodie was folded near the foot of the bed.
+
+She picked it up.
 
 "What are you doing?"
 
@@ -218,7 +220,11 @@ Cup.
 
 Books.
 
-One piece of clothing.
+The McLaren cap returned to the place beside Frieren's books.
+
+The red Ferrari shirt went back over the familiar chair.
+
+The McLaren hoodie never made it onto a shelf. Frieren kept it.
 
 Enough.
 
@@ -256,7 +262,7 @@ Across the hall, Fern turned out the light while Bocchi thanked her for the four
 
 <!-- scene-id: s1e14-ln03-next-morning -->
 
-The next morning, Frieren came downstairs wearing one of Mau's hooded outer layers.
+The next morning, Frieren came downstairs wearing Mau's black-and-orange McLaren hoodie.
 
 The household noticed.
 

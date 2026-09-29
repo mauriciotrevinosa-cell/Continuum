@@ -7,7 +7,7 @@
 **Reading order:** 23  
 **Source episode:** S1E14 — The Lake  
 **Primary source:** the_arrivals_story_board/s1/drafts/THE_ARRIVALS_S1E14_THE_LAKE_DRAFT_1_v0.1.md  
-**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; clothing callback addendum; LN Style Bible  
+**Applied:** Level-4 editorial overview; integrated cinematic overlay v0.2; clothing callback addendum; LN Style Bible  ; Wardrobe + Domestic Texture Continuity v0.1
 **Adaptation boundary:** concrete domestic restoration; no romance label
 
 <!-- scene-id: s1e14-ln03-fern-bocchi -->

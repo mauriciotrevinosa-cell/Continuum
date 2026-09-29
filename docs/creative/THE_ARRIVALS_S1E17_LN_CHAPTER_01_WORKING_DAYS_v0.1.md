@@ -166,11 +166,11 @@ The object had already become hers.
 
 The first groups returned dirty in different ways.
 
-Mud on Mau.
+Mud streaked one side of Mau's clothes from a slip he had pretended did not need Yuta's warning.
 
-Monster residue on Yuta.
+Monster residue marked one sleeve of Yuta's clothes.
 
-Leaves in Anko's hair.
+Leaves had caught in Anko's hair.
 
 Frieren looked as clean as when she left.
 

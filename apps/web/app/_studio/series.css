@@ -1,0 +1,354 @@
+/* Clean reading surface for project-authored series. */
+
+.reading-series-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 18px;
+}
+
+.reading-series-card {
+  display: flex;
+  min-height: 220px;
+  flex-direction: column;
+  padding: 30px;
+  border-radius: var(--radius-l);
+  border: 1px solid var(--hairline);
+  background:
+    radial-gradient(110% 90% at 0% 0%, rgba(182, 166, 255, 0.12), transparent 62%),
+    var(--surface-1);
+  transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+}
+
+.reading-series-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--hairline-2);
+  background:
+    radial-gradient(110% 90% at 0% 0%, rgba(182, 166, 255, 0.16), transparent 62%),
+    var(--surface-2);
+}
+
+.reading-series-card h2 {
+  margin: 0;
+  font-size: 32px;
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+  font-weight: 600;
+}
+
+.reading-series-logline {
+  margin: 12px 0 0;
+  max-width: 48ch;
+  color: var(--text-2);
+  font-size: 15px;
+  font-style: italic;
+}
+
+.reading-series-logline.big {
+  margin-top: 16px;
+  font-size: 19px;
+}
+
+.reading-series-meta {
+  display: flex;
+  gap: 16px;
+  margin-top: auto;
+  padding-top: 28px;
+  color: var(--text-3);
+  font-size: 13px;
+}
+
+.reading-hero {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 32px;
+  padding: 16px 0 40px;
+  margin-bottom: 34px;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.reading-summary {
+  margin: 16px 0 0;
+  color: var(--text-3);
+  font-size: 13.5px;
+}
+
+.reading-volumes {
+  display: grid;
+  gap: 34px;
+}
+
+.reading-volume {
+  overflow: hidden;
+  border-radius: var(--radius-l);
+  border: 1px solid var(--hairline);
+  background: var(--surface-1);
+  box-shadow: var(--shadow);
+}
+
+.reading-volume > header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 24px 26px 20px;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.reading-volume > header .eyebrow {
+  margin-bottom: 5px;
+}
+
+.reading-volume > header h2 {
+  margin: 0;
+  font-size: 24px;
+  letter-spacing: -0.015em;
+}
+
+.reading-volume-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px 16px;
+  color: var(--text-3);
+  font-size: 12.5px;
+}
+
+.reading-chapter-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.reading-chapter-list li {
+  border-top: 1px solid var(--hairline);
+}
+
+.reading-chapter-list li:first-child {
+  border-top: 0;
+}
+
+.reading-chapter-list a {
+  display: grid;
+  grid-template-columns: 42px minmax(0, 1fr) auto;
+  gap: 16px;
+  align-items: baseline;
+  padding: 15px 26px;
+  transition: background 0.15s ease;
+}
+
+.reading-chapter-list a:hover {
+  background: var(--surface-2);
+}
+
+.reading-chapter-number {
+  color: var(--text-3);
+  font-size: 12.5px;
+  font-variant-numeric: tabular-nums;
+}
+
+.reading-chapter-title {
+  color: var(--text);
+  font-size: 15.5px;
+  font-weight: 500;
+}
+
+.reading-chapter-episode {
+  color: var(--text-3);
+  font-size: 12px;
+}
+
+.novel-reader {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.novel-reader-top {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  gap: 20px;
+  align-items: center;
+  padding: 20px 0 24px;
+  color: var(--text-3);
+  font-size: 12.5px;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.novel-reader-top > :nth-child(2) {
+  text-align: center;
+}
+
+.novel-reader-top .novel-reader-source {
+  justify-self: end;
+}
+
+.novel-reader-top a:hover {
+  color: var(--text);
+}
+
+.novel-reader-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 64px 0 72px;
+}
+
+.novel-reader-head {
+  margin-bottom: 48px;
+  text-align: center;
+}
+
+.novel-reader-head .eyebrow {
+  margin-bottom: 12px;
+}
+
+.novel-reader-head h1 {
+  margin: 0;
+  font-size: clamp(34px, 5vw, 52px);
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+  font-weight: 600;
+}
+
+.novel-reader-copy .prose {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18.5px;
+  line-height: 1.9;
+  color: #e5e1d8;
+}
+
+.novel-reader-copy .prose p {
+  margin: 0 0 1.15em;
+}
+
+.novel-reader-copy .prose hr {
+  width: 38px;
+  margin: 42px auto;
+  border-color: var(--hairline-2);
+}
+
+.novel-reader-copy .prose h2,
+.novel-reader-copy .prose h3,
+.novel-reader-copy .prose h4 {
+  font-family: var(--display);
+}
+
+.novel-reader-copy .prose blockquote {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.novel-reader-pager {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  padding: 26px 0 70px;
+  border-top: 1px solid var(--hairline);
+}
+
+.novel-reader-nav-card {
+  display: grid;
+  gap: 5px;
+  min-height: 82px;
+  padding: 16px 18px;
+  border-radius: var(--radius);
+  border: 1px solid var(--hairline);
+  background: var(--surface-1);
+}
+
+.novel-reader-nav-card:hover {
+  border-color: var(--hairline-2);
+  background: var(--surface-2);
+}
+
+.novel-reader-nav-card span {
+  color: var(--text-3);
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.novel-reader-nav-card strong {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.novel-reader-nav-card.next {
+  text-align: right;
+}
+
+@media (max-width: 900px) {
+  .reading-hero {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .reading-volume > header {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .reading-volume-meta {
+    justify-content: flex-start;
+  }
+
+  .novel-reader-page {
+    padding-top: 46px;
+  }
+}
+
+@media (max-width: 620px) {
+  .reading-series-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .reading-series-card {
+    min-height: 190px;
+    padding: 24px;
+  }
+
+  .reading-chapter-list a {
+    grid-template-columns: 32px minmax(0, 1fr);
+    gap: 10px;
+    padding: 14px 18px;
+  }
+
+  .reading-chapter-episode {
+    grid-column: 2;
+  }
+
+  .novel-reader-top {
+    grid-template-columns: 1fr auto;
+    gap: 8px 16px;
+  }
+
+  .novel-reader-top > :nth-child(2) {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    text-align: left;
+  }
+
+  .novel-reader-top .novel-reader-source {
+    justify-self: end;
+  }
+
+  .novel-reader-page {
+    padding: 38px 0 52px;
+  }
+
+  .novel-reader-head {
+    margin-bottom: 36px;
+  }
+
+  .novel-reader-copy .prose {
+    font-size: 17.5px;
+    line-height: 1.85;
+  }
+
+  .novel-reader-pager {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .novel-reader-nav-card.next {
+    text-align: left;
+  }
+}

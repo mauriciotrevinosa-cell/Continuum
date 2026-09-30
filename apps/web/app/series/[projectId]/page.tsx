@@ -58,7 +58,7 @@ export default async function SeriesDetailPage({
                   <Link
                     href={`/series/${encodeURIComponent(projectId)}/chapters/${encodeURIComponent(chapter.documentId)}`}
                   >
-                    <span className="reading-chapter-number">{chapter.globalOrder}</span>
+                    <span className="reading-chapter-number">{chapter.orderInVolume}</span>
                     <span className="reading-chapter-title">{chapter.title}</span>
                     <span className="reading-chapter-episode">{chapter.sourceEpisode}</span>
                   </Link>

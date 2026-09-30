@@ -108,7 +108,7 @@ Frieren waited.
 
 <!-- scene-id: s1e1-ln02-mau-wakes -->
 
-Mau woke to white hair.
+The young man woke to white hair.
 
 That was the first thing the world gave him.
 
@@ -122,7 +122,7 @@ A face close enough that he knew the stranger had been watching him wake.
 
 He understood the words.
 
-Mau blinked.
+He blinked.
 
 The trees behind her sharpened.
 
@@ -156,7 +156,7 @@ The stranger noticed the hesitation.
 
 "Where are you from?"
 
-Mau searched again.
+He searched again.
 
 Nothing.
 
@@ -180,7 +180,7 @@ No landscape.
 
 Nothing attached to the idea.
 
-Mau shook his head.
+He shook his head.
 
 The stranger waited.
 
@@ -200,7 +200,7 @@ She stopped asking.
 
 That helped.
 
-Mau looked down at his hands.
+He looked down at his hands.
 
 They were familiar.
 
@@ -210,11 +210,11 @@ He knew how fingers worked. He knew what grass was. He knew the person in front 
 
 He knew language.
 
-He knew his name.
+He knew what a name was.
 
-Maybe.
+He did not know his own.
 
-Everything around those facts was missing.
+Everything around the facts he still had was missing.
 
 When he looked up again, the white-haired stranger was still there.
 

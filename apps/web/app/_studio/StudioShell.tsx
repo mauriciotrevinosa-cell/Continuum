@@ -31,7 +31,7 @@ export function StudioShell({ children }: { children: React.ReactNode }) {
           <nav className="side-group" aria-label="Vault">
             <h2>Vault</h2>
             <SideLink href="/library/vault" exact also={["/library/vault/series"]}>
-              Series
+              Vault series
             </SideLink>
             <SideLink href="/library/vault/search">Search</SideLink>
             <SideLink href="/library/vault/coverage">Coverage</SideLink>

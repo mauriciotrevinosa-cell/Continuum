@@ -412,7 +412,7 @@
   "conventions": [
     {
       "id": "episode-ln-chapter",
-      "match": "^THE_ARRIVALS_(?P<episode>S\\\\d+E\\\\d+)_LN_CHAPTER_(?P<chapter>\\\\d+)_(?P<title>[A-Z0-9_]+)_v(?P<version>\\\\d+(?:\\\\.\\\\d+)*)\\\\.md$",
+      "match": "^THE_ARRIVALS_(?P<episode>S\\d+E\\d+)_LN_CHAPTER_(?P<chapter>\\d+)_(?P<title>[A-Z0-9_]+)_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
       "document_id": "{episode_lower}-ln-chapter-{chapter}",
       "category": "ln-chapter",
       "section": "production",
@@ -421,7 +421,7 @@
     },
     {
       "id": "ln-season-index",
-      "match": "^THE_ARRIVALS_S(?P<season>\\\\d+)_LN_PRODUCTION_INDEX_v(?P<version>\\\\d+(?:\\\\.\\\\d+)*)\\\\.md$",
+      "match": "^THE_ARRIVALS_S(?P<season>\\d+)_LN_PRODUCTION_INDEX_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
       "document_id": "s{season}-ln-production-index",
       "category": "ln-season",
       "section": "production",
@@ -430,7 +430,7 @@
     },
     {
       "id": "ln-volume-index",
-      "match": "^THE_ARRIVALS_LN_VOLUME_(?P<volume>\\\\d+)_INDEX_v(?P<version>\\\\d+(?:\\\\.\\\\d+)*)\\\\.md$",
+      "match": "^THE_ARRIVALS_LN_VOLUME_(?P<volume>\\d+)_INDEX_v(?P<version>\\d+(?:\\.\\d+)*)\\.md$",
       "document_id": "ln-volume-{volume}-index",
       "category": "ln-volume",
       "section": "production",

@@ -21,6 +21,8 @@ export default async function SeriesChapterPage({
   const chapter = series.chapters[index];
   const previous = index > 0 ? series.chapters[index - 1] : null;
   const next = index + 1 < series.chapters.length ? series.chapters[index + 1] : null;
+  const volume = series.volumes.find((item) => item.number === chapter.volume);
+  if (!volume) notFound();
   const body = await projects.document(projectId, documentId).catch(() => null);
   if (!body) notFound();
 
@@ -31,7 +33,7 @@ export default async function SeriesChapterPage({
       <nav className="novel-reader-top" aria-label="Chapter navigation">
         <Link href={`/series/${encodeURIComponent(projectId)}`}>← Contents</Link>
         <span>
-          Volume {chapter.volume} · Chapter {chapter.globalOrder} of {series.chapters.length}
+          Volume {chapter.volume} · Chapter {chapter.orderInVolume} of {volume.chapters.length}
         </span>
         <Link
           className="novel-reader-source"

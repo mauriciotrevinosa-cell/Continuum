@@ -55,6 +55,19 @@ for ($i = 0; $i -lt 30; $i++) {
 Write-Host "==> Applying migrations"
 uv run alembic upgrade head
 
+# A Git worktree never carries ignored dependency folders such as node_modules.
+# Bootstrap the JS workspace automatically when the web app has not been
+# installed in this checkout yet.
+$nextCmd = Join-Path $repo "apps\web\node_modules\.bin\next.cmd"
+if (-not (Test-Path $nextCmd)) {
+    Write-Host "==> Installing web dependencies for this checkout" -ForegroundColor Cyan
+    pnpm install --frozen-lockfile
+    if ($LASTEXITCODE -ne 0) {
+        Write-Host "pnpm install failed; the web app cannot start." -ForegroundColor Red
+        exit 1
+    }
+}
+
 Write-Host "==> Launching API and worker in separate windows" -ForegroundColor Cyan
 Start-Process powershell -ArgumentList "-NoExit", "-Command", "Set-Location '$repo'; uv run continuum-api"
 Start-Process powershell -ArgumentList "-NoExit", "-Command", "Set-Location '$repo'; uv run continuum-worker"

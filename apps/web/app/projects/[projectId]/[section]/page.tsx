@@ -159,12 +159,25 @@ function Production({
           <h1 className="title">{info.title}</h1>
           <p className="lead">{info.lead}</p>
         </div>
-        {section === "manga" ? (
+        {section === "ln" ? (
+          <Link className="button primary" href={`/series/${encodeURIComponent(projectId)}`}>
+            Open reader
+          </Link>
+        ) : section === "manga" ? (
           <Link className="button primary" href={`/projects/${encodeURIComponent(projectId)}/manga/production`}>
             Open manga production
           </Link>
         ) : null}
       </header>
+      {section === "ln" ? (
+        <div className="banner">
+          <p>
+            <strong>This is the production workspace.</strong> The clean reading edition lives under Series, ordered by
+            volume and chapter with voice checks, audits and source documents hidden.{" "}
+            <Link href={`/series/${encodeURIComponent(projectId)}`}>Open the reader</Link>
+          </p>
+        </div>
+      ) : null}
       {section === "manga" ? (
         <div className="banner">
           <p>

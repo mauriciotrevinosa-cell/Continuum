@@ -1,12 +1,12 @@
 import Link from "next/link";
 import { ApiUnreachableError } from "@/lib/api";
-import { listReadableSeries } from "@/lib/series";
+import { type ReadableSeriesSummary, listReadableSeries } from "@/lib/series";
 import { ApiDown, Empty, PageHead } from "../library/acquisition/_components/ui";
 
 export const dynamic = "force-dynamic";
 
 export default async function SeriesPage() {
-  let series = [];
+  let series: ReadableSeriesSummary[] = [];
   let error: string | null = null;
 
   try {

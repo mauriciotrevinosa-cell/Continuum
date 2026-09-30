@@ -4,6 +4,7 @@ import "./studio.css";
 import "./vault.css";
 import "./catalog.css";
 import "./manga.css";
+import "./series.css";
 
 /**
  * The Continuum studio frame.
@@ -59,6 +60,11 @@ export function StudioShell({ children }: { children: React.ReactNode }) {
             <SideLink href="/library/styles">Styles &amp; modes</SideLink>
             <SideLink href="/library/datasets">Datasets &amp; tools</SideLink>
             <SideLink href="/library/inbox">Inbox</SideLink>
+          </nav>
+
+          <nav className="side-group" aria-label="Reading">
+            <h2>Reading</h2>
+            <SideLink href="/series">Series</SideLink>
           </nav>
 
           <nav className="side-group" aria-label="Projects">

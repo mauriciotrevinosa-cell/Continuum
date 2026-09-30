@@ -13,15 +13,41 @@ $repo = Split-Path -Parent $PSScriptRoot
 Set-Location $repo
 
 Write-Host "==> Starting PostgreSQL (database only)" -ForegroundColor Cyan
-docker compose up -d db
+
+# Multiple Continuum checkouts intentionally share the same local development
+# database. The Compose service uses a stable container name (continuum-db), so
+# a second checkout must reuse that container instead of trying to create a
+# duplicate with different Compose project labels.
+docker info *> $null
 if ($LASTEXITCODE -ne 0) {
-    Write-Host "Docker is not available. Install Docker Desktop, then re-run." -ForegroundColor Red
+    Write-Host "Docker is not available. Start/install Docker Desktop, then re-run." -ForegroundColor Red
     exit 1
+}
+
+$existingDb = docker ps -a --filter "name=^/continuum-db$" --format "{{.Names}}"
+if ($existingDb -eq "continuum-db") {
+    $running = docker inspect -f "{{.State.Running}}" continuum-db 2>$null
+    if ($running -ne "true") {
+        Write-Host "==> Reusing existing continuum-db container (starting it)" -ForegroundColor DarkCyan
+        docker start continuum-db *> $null
+        if ($LASTEXITCODE -ne 0) {
+            Write-Host "Could not start the existing continuum-db container." -ForegroundColor Red
+            exit 1
+        }
+    } else {
+        Write-Host "==> Reusing existing continuum-db container" -ForegroundColor DarkCyan
+    }
+} else {
+    docker compose up -d db
+    if ($LASTEXITCODE -ne 0) {
+        Write-Host "Could not start the Continuum database container." -ForegroundColor Red
+        exit 1
+    }
 }
 
 Write-Host "==> Waiting for the database to accept connections"
 for ($i = 0; $i -lt 30; $i++) {
-    docker compose exec -T db pg_isready -U continuum -d continuum *> $null
+    docker exec continuum-db pg_isready -U continuum -d continuum *> $null
     if ($LASTEXITCODE -eq 0) { break }
     Start-Sleep -Seconds 2
 }

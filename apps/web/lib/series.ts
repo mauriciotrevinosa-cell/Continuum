@@ -35,51 +35,11 @@ export interface ReadableSeriesSummary {
 }
 
 function escapeRegExp(value: string): string {
-  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\const FIELD = (name: string) =>
-  new RegExp(
-    `^\\*\\*${name.replace(/[.*+?^$\\{\\}()|[\\]\\\\]/g, "\\$&")}:\\*\\*\\s*(.+?)\\s*$`,
-    "mi",
-  );");
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 const FIELD = (name: string) =>
-  new RegExp(`^\\*\\*${escapeRegExp(name)}:\\*\\*\\s*(.+?)\\s*import { cache } from "react";
-import {
-  type ProjectDetail,
-  type ProjectDocument,
-  type ProjectSummary,
-  projects,
-} from "./api";
-
-export interface ReadingChapter {
-  documentId: string;
-  title: string;
-  sourceEpisode: string;
-  sourceFile: string;
-  volume: number;
-  orderInVolume: number;
-  globalOrder: number;
-}
-
-export interface ReadingVolume {
-  number: number;
-  coverage: string | null;
-  chapters: ReadingChapter[];
-}
-
-export interface ReadableSeries {
-  project: ProjectSummary;
-  volumes: ReadingVolume[];
-  chapters: ReadingChapter[];
-}
-
-export interface ReadableSeriesSummary {
-  project: ProjectSummary;
-  chapters: number;
-  volumes: number;
-}
-
-, "mi");
+  new RegExp("^\\*\\*" + escapeRegExp(name) + ":\\*\\*\\s*(.+?)\\s*$", "mi");
 
 function readField(markdown: string, name: string): string | null {
   return FIELD(name).exec(markdown)?.[1]?.trim() ?? null;

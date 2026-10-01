@@ -175,6 +175,105 @@ This lets later arrivals enter without every new character sleeping in Mau/Frier
 
 ---
 
+# 4A. Post-Memory Arc — **The World Turns Against Us**
+
+### Status
+
+**STRONG NEW CREATOR DIRECTION / exact mastermind, regions and rescue outcomes open.**
+
+### Core purpose
+
+The main settlement should become a refuge because the outside world creates a real need for one.
+
+A long-game hostile intelligence / mastermind can weaponize the existing post-Sukuna fear of Otherworlders and convince multiple towns, officials or regional powers that Mau's growing settlement is not a refuge but the center of an emerging threat.
+
+The lie works because it mixes:
+- real Sukuna destruction;
+- real powerful Otherworlders;
+- distorted reports about the settlement;
+- fear of a population gathering outside normal political control;
+- selected true incidents stripped of context;
+- deliberate misinformation.
+
+Do not make every native community believe it.
+
+The danger is fragmentation:
+- some towns become openly hostile;
+- some impose registration / travel limits;
+- some remain neutral;
+- some quietly help;
+- some officials begin detaining Otherworlders "for public safety";
+- some Otherworlders disappear into improvised prisons / holding sites before the main settlement even knows they exist.
+
+### Story effect
+
+This changes the role of the Searchers.
+
+They are no longer only:
+> explore / map / find arrivals.
+
+They become capable of:
+- tracking missing Otherworlders;
+- confirming detention rumors;
+- extracting people from illegal or abusive confinement;
+- negotiating releases where possible;
+- exposing false reports;
+- escorting vulnerable arrivals to safer territory;
+- deciding when rescue is justified and when intervention would create a war.
+
+### Moral guardrail
+
+Do not turn all native governments into villains.
+
+Some detentions may come from genuine fear after catastrophic Arrival events.
+
+Some officials may believe they are preventing another Sukuna.
+
+Others may exploit that fear deliberately.
+
+The settlement must defend people without adopting:
+> anyone who opposes us is evil.
+
+### Refuge payoff
+
+The city/settlement's reputation evolves:
+
+```text
+rumor: Otherworlders live there
+→ rumor: they protect their own
+→ rumor: people disappear elsewhere but reach safety there
+→ Otherworlders begin traveling toward it deliberately
+→ natives who oppose collective punishment may also help people reach it
+```
+
+This is when "refuge" becomes a world-level identity rather than a household intention.
+
+### Mastermind guardrail
+
+Do not expose the mastermind too early.
+
+The family should initially encounter:
+- inconsistent policies;
+- repeated identical phrases in different regions;
+- forged/distorted stories;
+- officials who cannot explain where their intelligence came from;
+- a pattern that only becomes visible after several unrelated incidents.
+
+The audience may understand there is coordination before the cast can prove it.
+
+### Enemy/defector opportunity
+
+This pressure can create future cases where:
+- someone introduced as an antagonist later seeks refuge;
+- a hostile Otherworlder cooperates for self-preservation;
+- a native official breaks with their own government;
+- a former enemy helps free detainees;
+- someone the household rescues still refuses to join them.
+
+Exact identities/outcomes should remain unrevealed until their arcs are developed.
+
+---
+
 # 4. Post-Memory Arc C — **The Searchers**
 
 ### Core purpose

@@ -175,7 +175,7 @@ This lets later arrivals enter without every new character sleeping in Mau/Frier
 
 ---
 
-# 4A. Post-Memory Arc — **The World Turns Against Us**
+# 3A. Post-Memory Arc — **The World Turns Against Us**
 
 ### Status
 

@@ -23,7 +23,7 @@ export default async function SeriesDetailPage({
 
       <header className="reading-hero">
         <div>
-          <p className="eyebrow">Light Novel · Season 1</p>
+          <p className="eyebrow">Light Novel</p>
           <h1 className="title xl">{series.project.title}</h1>
           {series.project.logline ? <p className="reading-series-logline big">{series.project.logline}</p> : null}
           <p className="reading-summary">
@@ -43,7 +43,7 @@ export default async function SeriesDetailPage({
           <section className="reading-volume" key={volume.number}>
             <header>
               <div>
-                <p className="eyebrow">Volume {volume.number}</p>
+                <p className="eyebrow">{volume.season ? `Season ${volume.season} · ` : ""}Volume {volume.number}</p>
                 <h2>Volume {volume.number}</h2>
               </div>
               <div className="reading-volume-meta">

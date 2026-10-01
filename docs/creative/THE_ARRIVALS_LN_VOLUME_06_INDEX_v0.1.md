@@ -1,0 +1,31 @@
+# The Arrivals — Light Novel — Volume 6 Index v0.1
+
+**Status:** LN PRODUCTION DRAFT  
+**Version:** 0.1  
+**Volume:** 6  
+**Season:** 2  
+**Coverage:** S2E13–S2E18  
+**Chapter count:** 18
+
+## Reading order
+
+| Order | Source episode | LN chapter | File |
+|---:|---|---|---|
+| 1 | S2E13 | The Rumor | `THE_ARRIVALS_S2E13_LN_CHAPTER_01_THE_RUMOR_v0.1.md` |
+| 2 | S2E13 | Found | `THE_ARRIVALS_S2E13_LN_CHAPTER_02_FOUND_v0.1.md` |
+| 3 | S2E13 | Extra Time | `THE_ARRIVALS_S2E13_LN_CHAPTER_03_EXTRA_TIME_v0.1.md` |
+| 4 | S2E14 | Red Hair | `THE_ARRIVALS_S2E14_LN_CHAPTER_01_RED_HAIR_v0.1.md` |
+| 5 | S2E14 | Hamburg Steak | `THE_ARRIVALS_S2E14_LN_CHAPTER_02_HAMBURG_STEAK_v0.1.md` |
+| 6 | S2E14 | Old Family, New House | `THE_ARRIVALS_S2E14_LN_CHAPTER_03_OLD_FAMILY_NEW_HOUSE_v0.1.md` |
+| 7 | S2E15 | The Ball | `THE_ARRIVALS_S2E15_LN_CHAPTER_01_THE_BALL_v0.1.md` |
+| 8 | S2E15 | No Powers | `THE_ARRIVALS_S2E15_LN_CHAPTER_02_NO_POWERS_v0.1.md` |
+| 9 | S2E15 | New Routines | `THE_ARRIVALS_S2E15_LN_CHAPTER_03_NEW_ROUTINES_v0.1.md` |
+| 10 | S2E16 | Inspection Route | `THE_ARRIVALS_S2E16_LN_CHAPTER_01_INSPECTION_ROUTE_v0.1.md` |
+| 11 | S2E16 | Four New Faces | `THE_ARRIVALS_S2E16_LN_CHAPTER_02_FOUR_NEW_FACES_v0.1.md` |
+| 12 | S2E16 | First Days | `THE_ARRIVALS_S2E16_LN_CHAPTER_03_FIRST_DAYS_v0.1.md` |
+| 13 | S2E17 | Settling In | `THE_ARRIVALS_S2E17_LN_CHAPTER_01_SETTLING_IN_v0.1.md` |
+| 14 | S2E17 | Agott | `THE_ARRIVALS_S2E17_LN_CHAPTER_02_AGOTT_v0.1.md` |
+| 15 | S2E17 | Momo | `THE_ARRIVALS_S2E17_LN_CHAPTER_03_MOMO_v0.1.md` |
+| 16 | S2E18 | On the Road | `THE_ARRIVALS_S2E18_LN_CHAPTER_01_ON_THE_ROAD_v0.1.md` |
+| 17 | S2E18 | First Warning | `THE_ARRIVALS_S2E18_LN_CHAPTER_02_FIRST_WARNING_v0.1.md` |
+| 18 | S2E18 | Himmel | `THE_ARRIVALS_S2E18_LN_CHAPTER_03_HIMMEL_v0.1.md` |

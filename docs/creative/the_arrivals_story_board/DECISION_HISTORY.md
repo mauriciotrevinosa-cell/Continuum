@@ -238,3 +238,25 @@ See:
 - `sources/THE_ARRIVALS_WARDROBE_AND_DOMESTIC_TEXTURE_CONTINUITY_v0.1.md`
 - `S1_LN_PRODUCTION_SOURCE_GATE_v0.1.md`
 - `THE_ARRIVALS_LN_STYLE_BIBLE_v0.1.md`
+
+
+## DH-018 — Season 2 Light Novel production completed
+
+On 2026-10-01 the creator authorized full S2 LN production while completing the S1 reader pass.
+
+**Current direction:**
+- the favored `New Routines` insertion is promoted into the S2 LN production architecture;
+- this produces **33 S2 episode umbrellas** rather than the previous 32-episode provisional roadmap;
+- later episode numbering shifts accordingly inside the LN adaptation layer;
+- S2 LN spans **99 production-draft chapters across Volumes 4–9**;
+- combined S1+S2 LN reader corpus is **156 chapters across Volumes 1–9**;
+- S2 is now creator-reader-pass ready;
+- the actual future-home move / first foundations remain S3 material;
+- S2 ends one quiet day after Mau/Frieren formalize, with the chosen-site plan still on the old inn table.
+
+The earlier S2 roadmaps remain provenance/source evidence, but "episodeization next" is no longer the current production status.
+
+See:
+- `../THE_ARRIVALS_S2_LN_PRODUCTION_INDEX_v0.1.md`
+- `S2_LN_ADAPTATION_BLUEPRINT_v0.1.md`
+- `S2_LN_PRODUCTION_QC_v0.1.md`

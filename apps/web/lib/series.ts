@@ -18,6 +18,7 @@ export interface ReadingChapter {
 
 export interface ReadingVolume {
   number: number;
+  season: number | null;
   coverage: string | null;
   chapters: ReadingChapter[];
 }
@@ -71,6 +72,8 @@ function parseVolume(
   const number = Number.parseInt(readField(markdown, "Volume") ?? "", 10);
   if (!Number.isFinite(number)) return null;
 
+  const seasonValue = Number.parseInt(readField(markdown, "Season") ?? "", 10);
+  const season = Number.isFinite(seasonValue) ? seasonValue : null;
   const coverage = readField(markdown, "Coverage");
   const chapters: Omit<ReadingChapter, "globalOrder">[] = [];
   const row =
@@ -94,7 +97,7 @@ function parseVolume(
   }
 
   chapters.sort((a, b) => a.orderInVolume - b.orderInVolume);
-  return { number, coverage, chapters };
+  return { number, season, coverage, chapters };
 }
 
 function documentSortKey(document: ProjectDocument): [number, number, number] {
@@ -127,7 +130,7 @@ function fallbackVolume(detail: ProjectDetail): ReadingVolume[] {
       globalOrder: index + 1,
     }));
 
-  return chapters.length ? [{ number: 1, coverage: null, chapters }] : [];
+  return chapters.length ? [{ number: 1, season: null, coverage: null, chapters }] : [];
 }
 
 export const loadReadableSeries = cache(async (projectId: string): Promise<ReadableSeries> => {
@@ -153,6 +156,7 @@ export const loadReadableSeries = cache(async (projectId: string): Promise<Reada
   for (const volume of usable) {
     volumes.push({
       number: volume.number,
+      season: volume.season,
       coverage: volume.coverage,
       chapters: volume.chapters.map((chapter) => ({ ...chapter, globalOrder: globalOrder++ })),
     });

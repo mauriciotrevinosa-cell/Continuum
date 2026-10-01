@@ -302,6 +302,6 @@ Outside, the settlement remained quiet.
 
 The inn had begun as a place two people could survive.
 
-Now eight people lived there.
+Now nine people lived there.
 
 The world had already shown them that eight was not necessarily the final number.

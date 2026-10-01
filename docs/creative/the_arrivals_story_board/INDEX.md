@@ -40,9 +40,17 @@ Full S1 status and episode breakdown: [S1_STORY_STATUS.md](./S1_STORY_STATUS.md)
 
 Current authoritative revision layer: [integrated overlay](./sources/THE_ARRIVALS_S1_INTEGRATED_CINEMATIC_REVISION_OVERLAY_v0.2.md).
 
-## 2. Season 2 — macro/lived-space closed, episodeization next
+## 2. Season 2 — Light Novel production complete / reader pass ready
 
-Season 2 now has a continuous, audited story path from the S1 Sukuna handoff through G3/G4, predictive dreams, Sukuna/Second Chance, recovery, Ori, future-home choice, Mau/Frieren formalization and the final quiet day.
+Season 2 now has a continuous, audited **99-chapter Light Novel production draft** across Volumes 4–9, covering the S1 Sukuna handoff through G3/G4, predictive dreams, Sukuna/Second Chance, recovery, Ori, future-home choice, Mau/Frieren formalization and the final quiet day.
+
+**S2 LN production index — 99 chapters / Volumes 4–9:** [THE_ARRIVALS_S2_LN_PRODUCTION_INDEX_v0.1.md](../THE_ARRIVALS_S2_LN_PRODUCTION_INDEX_v0.1.md)
+
+**S2 LN production QC — 99/99 / reader-pass ready:** [S2_LN_PRODUCTION_QC_v0.1.md](./S2_LN_PRODUCTION_QC_v0.1.md)
+
+**Strict S2 LN source gate:** [S2_LN_PRODUCTION_SOURCE_GATE_v0.1.md](./S2_LN_PRODUCTION_SOURCE_GATE_v0.1.md)
+
+**S2 LN adaptation blueprint — 33 episode umbrellas / 6 LN volumes:** [S2_LN_ADAPTATION_BLUEPRINT_v0.1.md](./S2_LN_ADAPTATION_BLUEPRINT_v0.1.md)
 
 **Current episodeization handoff:** [S2_EPISODEIZATION_MASTER_INPUT_v0.1.md](./S2_EPISODEIZATION_MASTER_INPUT_v0.1.md)
 

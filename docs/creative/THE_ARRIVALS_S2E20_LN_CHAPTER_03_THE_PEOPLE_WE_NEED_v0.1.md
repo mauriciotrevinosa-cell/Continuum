@@ -32,6 +32,73 @@ Qifrey sighed.
 
 He agreed to help anyway.
 
+<!-- scene-id: s2e20-ln03-seed -->
+Before Qifrey committed ink to the field, Rimuru asked to see what material he still had left.
+
+Coco joined because it was impossible to discuss Qifrey's supplies without her appearing.
+
+The remaining tree-derived material was finite.
+
+That mattered.
+
+Rimuru and Raphael studied what Qifrey could safely explain.
+
+Qifrey studied their questions.
+
+Eventually the work produced something small enough to fit in his palm.
+
+A seed.
+
+Not planted.
+
+Not yet.
+
+Coco stared at it.
+
+"We could use it here."
+
+Qifrey looked around the old inn.
+
+Then at the future-home map on the table.
+
+"We could."
+
+Rimuru shook his head.
+
+"If we're really leaving, we don't spend it on a place we're already outgrowing."
+
+Qifrey closed his fingers around the seed.
+
+Future resource.
+
+Preserved.
+
+Then he looked at the ink he would spend instead.
+
+"This part does not come back."
+
+Mau's stomach tightened.
+
+"You don't have to—"
+
+"I know."
+
+Qifrey chose anyway.
+
+The field mechanism was designed around one location from Mau's dream.
+
+Not to hold Sukuna.
+
+Not to defeat him.
+
+One tiny reaction when the predicted geometry became real.
+
+A fraction of a second.
+
+And a signal.
+
+When that symbol fired, everyone who knew the contingency would know the dream moment had arrived.
+
 Okarun's part was simpler to describe and harder to execute.
 
 "Get someone out," Yuta said.

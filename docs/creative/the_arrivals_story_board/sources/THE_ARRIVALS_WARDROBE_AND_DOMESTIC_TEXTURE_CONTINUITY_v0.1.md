@@ -204,3 +204,28 @@ A lived-in household naturally develops:
 The goal is not fashion catalog detail.
 
 The goal is for the reader to feel that these people wake up, change clothes, wash things, repair them, borrow them, lose them, recognize them and live together between major events.
+
+
+## 12. S2 loss / S3 recovery — McLaren Triple Crown Edition cap
+
+Continuity direction promoted during S3 development:
+
+```text
+Momo places Mau's McLaren Triple Crown Edition cap on Bocchi
+-> Bocchi keeps it for the S2 ordinary supply trip
+-> the Bocchi incident erupts
+-> the cap is lost in the mercantile-town street
+-> on the road home Bocchi notices it is gone
+-> Mau refuses to care about the object while she is injured
+-> the cap remains unrecovered for the rest of S2
+-> sometime afterward it is discarded / washed / carried toward a river
+-> Rem finds the water-worn cap during the S3 Memory Arc search for Mau
+```
+
+Important prop rule:
+
+> Do not silently restore the cap to Mau's wardrobe before this S3 recovery.
+
+The exact route from mercantile street to river is intentionally mundane and may remain only implied.
+
+The recovery works as continuity texture, not as a supernatural object mechanic.

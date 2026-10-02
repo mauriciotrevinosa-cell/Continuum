@@ -332,6 +332,41 @@ Preserve distinct functions:
 - **Aira** contributes direct field courage / containment / extraction;
 - **Ori is already with Mau** and is not replaced by the rescue team.
 
+### McLaren cap recovery callback
+
+During the search / rescue, **Rem can be the one who finds Mau's lost McLaren Triple Crown Edition cap near a river**.
+
+Continuity chain:
+
+```text
+S2 Bocchi incident
+-> Bocchi is wearing Mau's cap
+-> cap is lost in the mercantile-town street during the attack / evacuation
+-> Mau explicitly does not go back for it because Bocchi matters more
+-> sometime afterward the cap is discarded / carried away from town
+-> it eventually reaches a riverbank / downstream area
+-> Rem finds it during the S3 search for Mau
+```
+
+The exact transport mechanism does not need a forensic explanation.
+
+The visual implication can simply be:
+- someone in town picked it up and later threw it away;
+- runoff / weather / river flow carried it farther;
+- by S3 it is dirty, water-worn and visibly not where it belongs.
+
+Rem does **not** need to know the cap's entire history when she finds it.
+
+Its value is that:
+- the audience recognizes it;
+- it becomes a physical search clue;
+- it quietly reconnects the Bocchi incident to the Memory Arc;
+- an object Mau abandoned without hesitation for Bocchi returns to him through someone who is now risking herself to help save Mau.
+
+The cap should not become a magical tracker or impossible proof by itself.
+
+It is a human continuity object and, if useful in scene logic, one clue among several.
+
 They return after a limited period rather than letting the disappearance stretch indefinitely.
 
 ## Stabilization

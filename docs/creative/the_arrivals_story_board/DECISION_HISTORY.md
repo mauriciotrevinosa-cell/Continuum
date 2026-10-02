@@ -260,3 +260,29 @@ See:
 - `../THE_ARRIVALS_S2_LN_PRODUCTION_INDEX_v0.1.md`
 - `S2_LN_ADAPTATION_BLUEPRINT_v0.1.md`
 - `S2_LN_PRODUCTION_QC_v0.1.md`
+
+
+## DH-019 — Season 3 becomes a braided macro-season
+
+On 2026-10-01 creator review expanded the earlier post-Memory S3 proposal into a much larger concurrent architecture.
+
+**Current direction:**
+- S3 opens on an unfinished blank-slate site: survey, markers, provisional shelters and planning, not a functioning town;
+- Memory Arc retains its full multi-stage structure and is not compressed to make room for settlement/world material;
+- external Otherworlder fear, Searchers, Arrival House, Refuge and Two Communities are interdependent concurrent pressures rather than isolated sequential arcs;
+- another Otherworlder community may be largely noncombatant and initially resist consolidation before worsening external conditions force temporary refuge;
+- Senku arrives after plans/work already exist and improves/corrects flawed construction rather than designing civilization from zero;
+- town culture and 'Home Is Bigger Than Us' develop continuously in background life rather than as single episodes;
+- Eren remains a thematic freedom/governance arrival rather than an AoT-city copy, with Mikasa retaining later-Eren memories while Eren may arrive around first-sea memory state;
+- layered detection/defense is favored over literal AoT wall copying;
+- S3 should expand reunions and lateral relationships, including a current favored Milim + Diablo arrival direction and a Richeh/Coco emotional reunion seed;
+- an earlier Milim + Shion seed remains preserved rather than silently erased; exact Shion placement stays open;
+- The Noise remains unresolved after Memory Arc and may later overload again, but a better-prepared family/system network changes the response;
+- a later Goddess Trial may temporarily impose repeated Mau death/revival scenarios inside bounded Trial rules, testing not only sacrifice but whether Mau can accept that others may freely choose him;
+- the goddess may offer Arrivals a real return-vs-stay choice, with limited loved-one recovery/invitation possibilities for those who stay;
+- Mau may attempt a private backdoor deal to send everyone home because he believes nobody asked to be trapped in Continuum, creating a major agency conflict that can end S3 mid-decision and launch S4;
+- staying is not morally superior to returning, and the actual individual choices remain deliberately open.
+
+See:
+- `S3_BRAIDED_SEASON_ARCHITECTURE_v0.2.md`
+- preserved predecessor `S3_POST_MEMORY_ARC_ARCHITECTURE_v0.1.md`

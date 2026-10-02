@@ -87,6 +87,52 @@ Important rule:
 Not:
 > “we chose a site, therefore the town exists.”
 
+## 1A. The settlement should not become a normal city with fantasy decoration
+
+The blank-slate advantage is that the founders are not obligated to reproduce a normal Earth city, a standard fantasy town or Tempest.
+
+Different imported knowledge systems should become **infrastructure**, not only combat tools.
+
+A strong Witch Hat direction is to let Qifrey / Coco / Agott and other Atelier-trained magic users help design magic directly into civic systems.
+
+Examples of the design philosophy:
+- water does not need to rely only on conventional pipes if stable spellwork can redirect / lift / filter flow;
+- drainage can pass through magical purification / separation stages before returning water to the environment;
+- dangerous runoff can be isolated by purpose-built circles / glyph systems rather than dumped downstream;
+- sanitation areas can be designed around repeatable maintenance magic from the beginning;
+- lighting, ventilation, temperature control, warning systems and storage can combine passive magic with ordinary engineering;
+- spellwork can be embedded into architecture as maintained civic infrastructure rather than something a mage must manually cast every hour.
+
+The exact Witch Hat spell designs should be developed from that world's visual / rule grammar instead of inventing limitless generic magic.
+
+This creates a useful design triangle:
+
+```text
+Witch Hat magic
++ Senku engineering / measurement
++ Rimuru / Continuum terrain-system knowledge
+= infrastructure that belongs specifically to this world
+```
+
+Maomao should care about whether the result is actually hygienic.
+
+Senku should care about failure modes, maintainability and measurable output.
+
+Qifrey / Coco / Agott can care about whether the spell geometry remains safe, legible and repairable.
+
+Rimuru can think at settlement scale.
+
+This allows the city eventually to look structurally unfamiliar:
+- waterways may be routed through magic-assisted channels;
+- public spaces can be built around spell-maintenance access;
+- drainage / water treatment can be visible parts of the civic design;
+- roads do not have to follow a conventional rectangular grid;
+- terrain can be preserved or shaped around the systems instead of flattened merely because a normal city would flatten it.
+
+The rule remains:
+
+> imported systems should change how people live, not only how they fight.
+
 ---
 
 # 2. The missing-person / possible-arrival board
@@ -173,6 +219,79 @@ Preserve the established direction:
 
 This should be allowed to breathe as a full encounter, not reduced to:
 > “the witches found him and sent him home.”
+
+## The search itself must have visible cost
+
+The first / second search should make the wider cast notice something socially important:
+
+> people with absurd amounts of power, responsibility and competing obligations are spending real time and resources looking for Mau.
+
+That fact should not be treated as automatic.
+
+Current creator direction is to make **Diablo materially involved in the search**, not merely present afterward.
+
+Milim is now favored to **appear with Diablo during the Memory Arc crisis**, allowing her arrival to collide with an already-running emergency rather than receiving a clean ceremonial introduction.
+
+Their presence does not solve the arc.
+
+Instead it increases the visible scale of the response:
+- Diablo can devote demonic / soul-perception expertise and field effort without becoming an all-knowing diagnostic machine;
+- Milim can contribute raw reach / mobility / threat deterrence while still being constrained by Continuum compatibility and by the fact that the problem is not primarily something she can punch;
+- Rimuru diverts attention and Raphael-analysis capacity away from settlement / external problems;
+- Frieren spends enormous personal and magical effort following any plausible lead;
+- Searchers / fighters lose time they could have used on routes, defense or refugee work;
+- witches, later Rem/Kaneki/Aira, Ori and other networks become part of overlapping search efforts rather than one neat rescue party.
+
+The **opportunity cost** matters because S3 is happening in parallel.
+
+While powerful residents search for Mau:
+- outside pressure does not pause;
+- refugees may still arrive;
+- construction decisions still need to be made;
+- other people may need Searcher help;
+- defenses may be operating with important people absent.
+
+This creates legitimate tension without making anyone cruel.
+
+## Agott's outside-looking-in perspective
+
+A strong creator example is **Agott**.
+
+Agott does not need to dislike Mau.
+
+She also does not need to immediately understand why everyone acts as if finding him is worth mobilizing half the world.
+
+From her perspective, Mau can look unimpressive beside:
+- Frieren;
+- Rimuru;
+- Milim;
+- Diablo;
+- Yuta;
+- other visibly extraordinary people.
+
+So she can genuinely ask, in substance:
+
+> Why are all of you spending this much on him?
+
+The answer should **not** be:
+> everyone loves Mau.
+
+Different people can have different reasons:
+- Frieren loves him;
+- some residents consider him family;
+- some trust Frieren / Rimuru enough to follow their judgment;
+- some owe Mau something;
+- some are searching because a friend they love is breaking apart over his disappearance;
+- some think the anomaly around Mau may endanger everyone if left unexplained;
+- some simply believe a missing resident deserves to be found;
+- some powerful newcomers join because watching so many serious people react this strongly tells them the situation matters before they personally understand Mau.
+
+Agott's question gives the audience permission to ask the same thing.
+
+Then S3 can answer it through accumulated relationships rather than a speech.
+
+This is especially important because:
+> Mau has relational gravity, not universal adoration.
 
 ## First return
 
@@ -313,9 +432,21 @@ The scene matters because Coco has already built a life in Continuum; reunion do
 
 ## Milim / Diablo direction
 
-Current creator direction favors **Milim appearing with Diablo**.
+Current creator direction favors **Milim appearing with Diablo during the Memory Arc crisis**, not waiting until the world is calm enough to give them a clean entrance.
 
 This creates a useful immediate cluster around Rimuru while still allowing both characters to form independent relationships.
+
+Their first experience of the settlement can therefore be:
+- unfinished;
+- stressed;
+- partially emptied because people are searching;
+- emotionally focused on a missing person they do not yet understand equally well.
+
+That is stronger than introducing them to a polished town.
+
+Diablo becomes materially involved in finding Mau.
+
+Milim can initially be confused by the amount of attention / fear around someone who does not visually read as the strongest person present, then learn the relationship network by living inside it.
 
 Important continuity note:
 - an earlier future-cast seed favored Milim + Shion;
@@ -1199,6 +1330,83 @@ Because some **will not** stay.
 The answer is:
 
 > “You do not get to choose for us.”
+
+## The confrontation should go further than that sentence
+
+A favored emotional exchange is now:
+
+Frieren demands, in substance:
+> How could you decide my life without me again?
+
+Mau's defense is not that she does not love him.
+
+He can answer:
+> Because you won't have to live with losing this. You'll think Continuum was a dream.
+
+This should make Frieren **more angry**, not reassure her.
+
+A physical comedy/emotional-release beat is allowed:
+> Frieren gives Mau the biggest slap / smack of his life.
+
+The point is not abuse-as-joke.
+
+The point is the rupture of Mau trying to explain away her agency with:
+> you will not remember enough for it to hurt.
+
+Frieren's counter should be closer in meaning to:
+
+> Maybe we came here against our will. You still owe us the chance to choose whether we leave.
+
+Mau then exposes the deeper wound:
+
+> I don't want any of you to carry the weight of wondering for the rest of your lives whether you chose wrong.
+
+That makes the family angrier because it reveals that Mau is still trying to carry **everyone's future regret** for them.
+
+A strong response from Frieren / others is:
+
+> We already know what that weight is.
+>
+> Letting you decide for us does not remove it.
+>
+> It only means you carried it alone again.
+>
+> Now let us decide.
+
+This is the mature inversion of the Sukuna conflict.
+
+Sukuna-era Mau:
+> I will carry the fatal consequence.
+
+Late-S3 Mau:
+> I will carry the irreversible choice.
+
+The family rejects both for the same reason:
+> love does not give one person ownership of everyone else's agency.
+
+## “Mau jail, part two” is allowed
+
+After the interception, the emotional confrontation does **not** have to end with everyone trusting Mau to walk away alone five minutes later.
+
+A darkly funny / affectionate consequence is valid:
+
+> they temporarily put Mau under absurdly serious family supervision so he cannot sneak off and make another divine contract.
+
+This can echo any earlier house-arrest / recovery restrictions without trivializing the argument.
+
+Possible tone:
+- Frieren is genuinely furious;
+- other people are also angry;
+- Mau is not treated as a villain;
+- the “jail” is mostly family refusing to let him be alone near any goddess / contract / exit;
+- different residents take shifts;
+- Mau complains that this is imprisonment;
+- someone correctly answers that he tried to make an irreversible decision for everyone in secret.
+
+The humor can release tension **after** the emotional wound lands.
+
+It also creates immediate S4 lived-space:
+> the entire community is debating return vs stay while Mau is temporarily forbidden from privately solving the problem for them.
 
 ---
 

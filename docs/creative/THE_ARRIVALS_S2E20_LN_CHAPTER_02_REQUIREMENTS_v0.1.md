@@ -76,6 +76,34 @@ From Yuta.
 
 The fact that he now understood enough to attempt it frightened him.
 
+Construction updated the list.
+
+Not words exactly.
+
+Requirements becoming possible.
+
+Output.
+
+Control.
+
+Opposition.
+
+Convergence.
+
+A final warning-shaped absence where survivability should have been.
+
+Mau understood something Yuta had not meant to teach him:
+
+every minute of cursed-energy control practice could move the list closer to completion.
+
+He did not say that part aloud.
+
+Yuta believed the training was making Mau more likely to survive.
+
+That was true.
+
+It was also helping Mau build the thing most likely to kill him if the predicted moment arrived.
+
 Rimuru said, "Even if you construct it, we do not assume you survive using it."
 
 Mau looked at the table.

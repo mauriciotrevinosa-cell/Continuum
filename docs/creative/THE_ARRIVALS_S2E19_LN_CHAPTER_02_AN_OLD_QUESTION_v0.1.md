@@ -86,9 +86,87 @@ Maki set the blade down.
 
 Frieren stared.
 
+Maki did not stand yet.
+
+"Try smaller questions."
+
+Frieren disliked smaller questions.
+
+Maki asked anyway.
+
+"When Himmel leaves a room, what do you want?"
+
+Frieren thought.
+
+"More time."
+
+"To do what?"
+
+"Talk. Ask things I didn't ask before. Understand things I understood too late."
+
+Maki nodded.
+
+"And Mau?"
+
+Frieren looked toward the window.
+
+Mau was no longer there.
+
+She noticed immediately.
+
+"I want to know where he went."
+
+Maki waited.
+
+Frieren frowned.
+
+"That is not the same question."
+
+"No. It was more useful."
+
+Frieren's expression flattened.
+
+Maki continued before she could object.
+
+"Being loved is not a debt."
+
+"I know."
+
+"Do you?"
+
+Frieren looked at her.
+
+"Someone can love you romantically. You can love them deeply. Those two things don't automatically mean you want the same kind of future."
+
+Frieren was quiet.
+
+"That would make what I felt for Himmel smaller."
+
+"No."
+
+The answer came fast enough to surprise her.
+
+Maki looked directly at Frieren.
+
+"Different is not smaller."
+
+Frieren thought about fifty years.
+
+A funeral.
+
+A journey repeated too late.
+
+Maki said, "And if somebody taught you what love costs, that doesn't mean you owe them the next version of your life."
+
+Frieren looked toward the empty window again.
+
+"Then what do I owe them?"
+
+"Honesty, if they ask."
+
 Maki stood.
 
-"You get to do that part."
+"And yourself the same thing."
 
 Not helpful.
 

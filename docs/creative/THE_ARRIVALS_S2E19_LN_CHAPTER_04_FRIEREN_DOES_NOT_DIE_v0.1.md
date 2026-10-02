@@ -32,6 +32,87 @@ Himmel smiled faintly.
 
 "Also because leaving every time life hurts would make me a terrible hero."
 
+<!-- scene-id: s2e19-ln04-himmel-frieren -->
+Later that morning, Frieren found Himmel repairing part of the roof.
+
+He climbed down when she asked.
+
+"I have an answer."
+
+Himmel's smile changed.
+
+Not gone.
+
+Quieter.
+
+Frieren said, "I love you."
+
+"I know."
+
+"I don't think I love you romantically."
+
+Himmel did not answer for several seconds.
+
+Frieren watched him because looking away would make the sentence easier, and she did not think it should be easy.
+
+"I think I wanted more time with you," she continued. "I wanted to understand you before there was no time left. I still want that."
+
+Himmel looked toward the road.
+
+"That's not the answer I hoped for when I asked."
+
+"No."
+
+"But it is an answer."
+
+Frieren waited.
+
+He smiled again.
+
+It hurt this time.
+
+Still real.
+
+"Thank you for not changing it to protect me."
+
+Frieren looked at him.
+
+"Does it make what happened between us less important?"
+
+"No."
+
+The answer came from Himmel.
+
+Frieren realized she believed him.
+
+He loved her.
+
+She loved him.
+
+The love did not have to become a romantic future to remain true.
+
+Himmel looked toward the inn.
+
+Mau was carrying water with Okarun.
+
+"Is it him?"
+
+Frieren followed his gaze.
+
+"I don't know what to call it yet."
+
+Himmel nodded.
+
+"Then don't let me call it for you."
+
+No transfer.
+
+No permission.
+
+No winner.
+
+Just an old question finally allowed to stop being a debt.
+
 Later, Frieren and Mau walked the lake path.
 
 Frieren talked about Himmel.

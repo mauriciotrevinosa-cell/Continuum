@@ -86,6 +86,55 @@ Mau smiled.
 
 She accepted the answer.
 
+<!-- scene-id: s2e22-ln03-maki -->
+When Frieren went back inside, Maki was collecting abandoned cups.
+
+"You figured anything out?" Maki asked.
+
+Frieren took one cup from the windowsill.
+
+"Some."
+
+Maki waited.
+
+Frieren looked toward the door Mau had just used.
+
+"Himmel is someone I love."
+
+"Yes."
+
+"I wanted more time to understand him."
+
+Maki nodded.
+
+Frieren held the cup.
+
+"With Mau, I keep putting him in things that haven't happened yet."
+
+Maki looked at her.
+
+"Like?"
+
+"Next year."
+
+The answer came immediately.
+
+Frieren noticed.
+
+Maki did too.
+
+"That's information," Maki said.
+
+"Not an answer?"
+
+"You're almost there."
+
+Frieren looked annoyed.
+
+Maki smiled.
+
+"Do your own work."
+
 Later, when everyone finally slept, Mau stayed awake long enough to memorize the sound of the inn.
 
 Then he stopped himself.

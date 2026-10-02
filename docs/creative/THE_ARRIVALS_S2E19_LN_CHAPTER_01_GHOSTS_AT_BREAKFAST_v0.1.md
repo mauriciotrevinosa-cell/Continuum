@@ -54,6 +54,44 @@ Mau nodded.
 
 The answer did not injure him. It made the world clearer. People could love without possession.
 
+The hinge took longer than the conversation.
+
+Himmel held the door while Mau reset the lower screw.
+
+Mau asked what Frieren had been like during the hero journey.
+
+Himmel answered with a story about a mimic.
+
+Mau looked toward the inn.
+
+"That has not changed."
+
+"I was afraid of that."
+
+Then Himmel asked how Mau got his name.
+
+Mau told him about the jersey in the backpack and Frieren deciding that `Mau` was close enough to become real.
+
+Himmel listened without laughing.
+
+"She gave you a name?"
+
+"Sort of."
+
+"That's a very Frieren thing to do."
+
+"You keep saying that."
+
+"You'll understand after a few decades."
+
+Mau stared.
+
+Himmel smiled.
+
+For the first time, Mau understood how irritating the Hero Himmel could probably be.
+
+He liked him anyway.
+
 That night, Mau dreamed of a battlefield.
 
 Frieren was there.

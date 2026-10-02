@@ -8,25 +8,113 @@
 
 Frieren had stopped trusting the feeling on purpose.
 
-That was the part nobody else fully understood.
+That was not the same as losing it.
 
-For days, Himmel had been beside her again.
+For days, the deeper layer of her danger-reading had mixed real mana, fear and attachment until she could not tell which alarm belonged to the world.
 
-Mau had been beside her too.
+So she had stopped reaching for it.
 
-Maki kept asking questions Frieren did not want to answer for someone else.
+Temporarily.
 
-The old love and the new one were not competing.
+Now she sat with a book open and had not turned the page in several minutes.
 
-Frieren was.
+Mau was supposed to be on a low-risk work trip.
 
-Against language.
+Yuta too.
 
-Against the habit of understanding people only after time had made the answer useless.
+Rimuru.
 
-So she stopped listening to the internal signal that had become tangled with fear.
+Qifrey.
 
-Now, sitting at the inn, she chose to listen again.
+Okarun.
+
+The house was still loud.
+
+Momo argued somewhere upstairs.
+
+Stark complained about food.
+
+Himmel was outside.
+
+Maki sat across the room sharpening a blade.
+
+Ordinary.
+
+Frieren looked at the empty place beside her.
+
+Maki's earlier questions returned.
+
+What did she want from Himmel?
+
+More time.
+
+Understanding.
+
+The chance to know the person she had loved before time closed around the question.
+
+What did she want from Mau?
+
+Tomorrow.
+
+The next winter.
+
+Another stupid cup in the wrong place.
+
+His clothes mixed with hers until nobody remembered whose shelf had been whose.
+
+Next year.
+
+The answer hurt because it was simple.
+
+Himmel was someone Frieren loved profoundly.
+
+That love was not romantic.
+
+Knowing that did not reduce him.
+
+It finally allowed him to remain exactly as important as he was without forcing his importance into the wrong shape.
+
+Mau was different.
+
+Not more real.
+
+Not more valuable.
+
+Different.
+
+Frieren wanted a romantic future with him.
+
+She wanted to choose him while time still existed to choose.
+
+There it was.
+
+The thing she had spent too long trying not to name.
+
+She did not say the words aloud.
+
+Not yet.
+
+But she understood them.
+
+Maki looked up.
+
+Frieren closed the book.
+
+"I think I know."
+
+Maki did not ask what.
+
+"Good."
+
+Frieren's hand tightened around her staff.
+
+Understanding did not magically repair a magical faculty.
+
+It did something smaller.
+
+It let her trust her own interpretation again.
+
+She reached for the layer of perception she had deliberately stopped using.
 
 The world opened.
 
@@ -46,7 +134,7 @@ Frieren stood so fast the chair fell.
 
 Maki was already in the doorway.
 
-"Mau asked me to stop you."
+"Mau asked me to delay you."
 
 Frieren's face changed.
 
@@ -66,11 +154,11 @@ Because Mau had trusted her with one job.
 
 Frieren looked at her.
 
-"He lied to me."
+"He hid this from me."
 
 Maki's expression tightened.
 
-"He hid something."
+"Yes."
 
 "He is there."
 
@@ -78,9 +166,13 @@ Maki's expression tightened.
 
 Frieren's staff was already in her hand.
 
-Maki saw the answer.
+Maki saw the difference.
 
-She stepped aside.
+This was not panic choosing for Frieren.
+
+This was Frieren choosing with full knowledge of what she felt.
+
+Maki stepped aside.
 
 "Bring him back."
 

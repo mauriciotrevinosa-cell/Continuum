@@ -159,3 +159,27 @@ Purpose:
 - S4 handoff before first final public choice.
 
 Target: ~28–36 chapters.
+
+
+---
+
+# Completed production counts — v0.2
+
+The rebuild expanded beyond the working targets.
+
+| Volume | Title | Chapters | Production status |
+|---:|---|---:|---|
+| 10 | Bare Ground | 17 | revalidated carryover from v0.1 |
+| 11 | Eight Signatures | 26 | rebuilt v0.2 |
+| 12 | The Second Road | 20 | rebuilt v0.2 |
+| 13 | Bring Him Back | 27 | rebuilt v0.2 |
+| 14 | The Move | 20 | new explicit v0.2 arc |
+| 15 | People Who Heard About Us | 24 | rebuilt v0.2 |
+| 16 | What the Message Changes | 24 | rebuilt v0.2 |
+| 17 | Freedom and Walls | 24 | rebuilt v0.2 |
+| 18 | Last Defense | 27 | rebuilt v0.2 |
+| 19 | What Would You Choose? | 35 | rebuilt v0.2 |
+
+**Reader-order total: 244 chapters.**
+
+The expansion is intentional. Chapter count was allowed to grow whenever elapsed time, population continuity, location continuity, rescue logistics, institutional consequences, or emotional processing required lived scenes.

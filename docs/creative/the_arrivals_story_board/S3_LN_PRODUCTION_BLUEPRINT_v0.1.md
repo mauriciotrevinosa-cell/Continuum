@@ -260,6 +260,12 @@ Initial map:
 - **152 LN chapters**
 - **52 story umbrellas**
 
+Actual completed v0.1 production:
+- **8 volumes**
+- **155 LN chapters**
+- **52 story umbrellas**
+- V12 expanded from 20 to 23 chapters because Rem / Kaneki / Aira required lived-space introduction before their rescue functions.
+
 This count is an output of the current braid design, not a maximum.
 
 If production exposes a rushed connector:

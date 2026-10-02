@@ -110,6 +110,12 @@ The older six-part opening package (Yuta Knows → Hidden Threat → Rumors → 
 
 Raw handoff source: [S1→S2 G3 / Sukuna / Bocchi handoff](./sources/THE_ARRIVALS_S1_S2_G3_HANDOFF_v0.1.md)
 
+## 2A. Active Season 3 development
+
+**S3 braided season architecture — unfinished settlement, Memory Arc, refuge/Searchers, reunions, governance, defense, Goddess Trial and S4 choice handoff:** [S3_BRAIDED_SEASON_ARCHITECTURE_v0.2.md](./S3_BRAIDED_SEASON_ARCHITECTURE_v0.2.md)
+
+The older [S3 post-Memory architecture v0.1](./S3_POST_MEMORY_ARC_ARCHITECTURE_v0.1.md) is preserved as provenance. v0.2 is the active development direction and explicitly treats S3 threads as concurrent/braided rather than sequential isolated arcs.
+
 ## 3. Major arcs
 
 - Sukuna / Hollow Purple / Second Chance: [MAJOR_ARCS.md#sukuna--hollow-purple--second-chance](./MAJOR_ARCS.md#sukuna--hollow-purple--second-chance)

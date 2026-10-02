@@ -42,6 +42,18 @@ It became a battlefield months early.
 
 Mau finished.
 
+The silence afterward lasted long enough that the fire shifted.
+
+Rimuru asked the question neither of them wanted.
+
+"Have you already chosen?"
+
+Mau did not answer.
+
+Yuta stood.
+
+"That means yes."
+
 "If I don't move, Frieren dies."
 
 "No," Yuta said.
@@ -86,6 +98,65 @@ Raphael refined probabilities without pretending certainty.
 
 They talked until sunrise.
 
+When words stopped being enough, Yuta drew parts of Shinjuku from memory.
+
+Angles.
+
+Distances.
+
+The wheel above Mahoraga.
+
+Gojo.
+
+Red.
+
+Blue.
+
+The collision between them.
+
+Rimuru kept asking which details Yuta knew and which he only believed he remembered.
+
+Raphael separated confidence from certainty.
+
+Mau listened.
+
+Construction listened too.
+
+A requirement list began somewhere behind his awareness.
+
+He did not mention it.
+
+Not yet.
+
 No miracle appeared.
 
 But the problem became something three people could work on instead of one person could obey.
+
+<!-- scene-id: s2e20-ln01-anko -->
+Anko woke before breakfast and passed the common room on the way to find ink.
+
+She saw Mau, Yuta and Rimuru through the half-open door.
+
+Notes covered the table.
+
+All three looked exhausted.
+
+This was not unusual enough anymore.
+
+Future-home planning. Supplies. Sukuna research.
+
+Some serious problem that would become everyone's problem if it needed to.
+
+Anko considered asking.
+
+Then Yuta pointed at a drawing and Rimuru started arguing with him.
+
+Ordinary serious conversation.
+
+She kept walking.
+
+By breakfast the papers were gone.
+
+Anko forgot the moment.
+
+Later, she would remember that she had seen the beginning of something terrible and mistaken it for another meeting.

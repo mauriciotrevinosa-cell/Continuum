@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 5
-## Chapter 3 — Who Are You?
+## Chapter 2 — Who Are You?
 
 **Status:** LN PRODUCTION DRAFT  
 **Version:** 0.1  
 **Volume:** 5  
-**Reading order:** 3  
+**Reading order:** 2  
 **Source episode:** S2E7 — `Eight More`  
 **Primary source:** `the_arrivals_story_board/S2_PROVISIONAL_EPISODE_ROADMAP_v0.3.md`  
 **Applied:** Momo/Okarun memory asymmetry; G3 handoff; ensemble audit  
@@ -12,13 +12,15 @@
 
 <!-- scene-id: s2e7-ln03-momo -->
 
-Momo had spent most of the arrival outside.
+Momo had missed most of the doorway chaos.
 
-Not because she had been told to.
+Not because she had been told to stay away.
 
-Because Rimuru had asked her to help the merchant unload two boxes and then Anko needed something and then Marin had started asking questions and then the house had become seventeen people and somehow an hour disappeared.
+Once the wagon stopped, she had gone outside to help the merchant unload the last boxes and blankets while everyone else tried to fit eight new people through one front door.
 
-She came downstairs carrying blankets.
+By the time she came back inside carrying a stack of blankets, Kita had already found Bocchi.
+
+The room was loud.
 
 Okarun was standing near the fireplace.
 

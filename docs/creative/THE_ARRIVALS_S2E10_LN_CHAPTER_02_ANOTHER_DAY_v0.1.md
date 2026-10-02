@@ -70,6 +70,105 @@ Fern sighed.
 
 "You don't want to know."
 
+<!-- scene-id: s2e10-ln02-study -->
+
+At the other end of the room, Qifrey had turned one table into a lesson.
+
+Coco was drawing.
+
+Mau was staring.
+
+These were not the same activity.
+
+"You are doing it again," Coco said.
+
+Mau looked at her.
+
+"What?"
+
+"Trying to understand the whole thing before drawing one line."
+
+Qifrey smiled.
+
+"She is correct."
+
+Mau looked betrayed.
+
+"You taught her."
+
+"I teach both of you."
+
+Frieren lowered her book from the bench.
+
+"He's overthinking the first stroke."
+
+Mau looked at her too.
+
+"You aren't in the lesson."
+
+"I can see it."
+
+Fern passed with folded cloth.
+
+"She's right."
+
+"This has become hostile."
+
+Coco laughed.
+
+Then she pushed a piece of bread toward him.
+
+Mau looked down.
+
+"What's this?"
+
+"You forgot lunch."
+
+"I did not."
+
+Qifrey looked at him.
+
+Mau looked at the bread.
+
+"...I delayed lunch."
+
+Coco pushed it closer.
+
+"Eat and then overthink."
+
+Mau took it.
+
+Rimuru entered carrying a ledger, saw the spell geometry on the table, and stopped.
+
+"Why does that line do that?"
+
+Qifrey answered.
+
+Frieren disagreed with one word.
+
+Fern disagreed with Frieren's correction.
+
+Coco started drawing again.
+
+Within five minutes, the lesson had become six people arguing around one sheet of paper.
+
+Mau ate the bread.
+
+Coco finished her first clean line before he did.
+
+She looked unbearably pleased.
+
+Mau pointed at it.
+
+"Again."
+
+Coco grinned.
+
+The table had stopped being a classroom.
+
+It was just another part of the house.
+
+
 <!-- scene-id: s2e10-ln02-wakana -->
 
 Wakana brought down a finished winter layer for Coco.

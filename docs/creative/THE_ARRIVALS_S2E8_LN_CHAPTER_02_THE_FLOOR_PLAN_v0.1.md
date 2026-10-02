@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 5
-## Chapter 5 — The Floor Plan
+## Chapter 6 — The Floor Plan
 
 **Status:** LN PRODUCTION DRAFT  
 **Version:** 0.1  
 **Volume:** 5  
-**Reading order:** 5  
+**Reading order:** 6  
 **Source episode:** S2E8 — `Too Many People, Not Enough House`  
 **Primary source:** `the_arrivals_story_board/S2_PROVISIONAL_EPISODE_ROADMAP_v0.3.md`  
 **Applied:** lived-space inventory; inn-expansion process; Wakana wardrobe/textile progression  

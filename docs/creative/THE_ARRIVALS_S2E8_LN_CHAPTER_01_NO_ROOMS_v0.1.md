@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 5
-## Chapter 4 — No Rooms
+## Chapter 5 — No Rooms
 
 **Status:** LN PRODUCTION DRAFT  
 **Version:** 0.1  
 **Volume:** 5  
-**Reading order:** 4  
+**Reading order:** 5  
 **Source episode:** S2E8 — `Too Many People, Not Enough House`  
 **Primary source:** `the_arrivals_story_board/S2_PROVISIONAL_EPISODE_ROADMAP_v0.3.md`  
 **Applied:** lived-space inventory; G3 integration; wardrobe/domestic texture continuity  
@@ -117,6 +117,56 @@ Frieren looked at him.
 Qifrey decided not to ask.
 
 The phrase apparently had history.
+
+<!-- scene-id: s2e8-ln01-coco -->
+
+Coco found Mau half-asleep against the wall that afternoon.
+
+Not fully asleep.
+
+The kind where his head dropped once and he woke immediately.
+
+"You should sleep."
+
+Mau looked at her.
+
+"That's good advice."
+
+"Are you going to do it?"
+
+"No."
+
+Coco frowned.
+
+"Then it's bad advice."
+
+Mau considered this.
+
+"That's not how advice works."
+
+"It should be."
+
+She sat beside him.
+
+After a minute, she leaned against his shoulder.
+
+Mau looked down.
+
+Coco was already asleep.
+
+He did not move for forty minutes.
+
+Umaru found them.
+
+Sat on the other side.
+
+Mau looked at her.
+
+"Really?"
+
+"You're already trapped."
+
+That was apparently the beginning of something.
 
 <!-- scene-id: s2e8-ln01-giving-space -->
 

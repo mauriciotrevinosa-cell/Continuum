@@ -206,11 +206,17 @@ Maomao heard.
 
 "That may pass."
 
-<!-- scene-id: s2e7-ln01-food -->
+<!-- scene-id: s2e7-ln01-unloading -->
 
-The merchant stayed long enough to accept food and refuse money twice.
+The merchant stayed long enough to help with the last boxes.
 
-Rimuru made him take money on the third attempt.
+Rimuru tried to pay him.
+
+The merchant refused.
+
+Rimuru tried again.
+
+On the third attempt, Rimuru put the coins directly into his hand.
 
 "You're rerouting because of us."
 
@@ -218,138 +224,34 @@ Rimuru made him take money on the third attempt.
 
 "Same result."
 
-The merchant took the coins.
+The merchant looked at the coins.
 
-At the table, seating stopped making sense.
+Then at the crowded doorway.
 
-There had been nine.
+"Fine."
 
-Now there were seventeen.
+He kept them.
 
-They found stools.
+Momo had gone outside to help unload blankets and smaller bundles.
 
-Boxes.
+Inside, the first wave of introductions kept failing because someone always asked a second question before the first answer finished.
 
-One repaired chair nobody trusted.
+Umaru wanted to know whether the house had snacks.
 
-A section of floor.
+Coco wanted to know what kind of magic Frieren used.
 
-Mau sat on the floor voluntarily and Umaru immediately decided that made him safe enough to sit near.
+Marin had already noticed three different styles of clothing.
 
-Coco sat close to Qifrey.
+Wakana had noticed a torn blanket.
 
-Marin sat where she could talk to everyone.
+Mikasa had noticed every exit.
 
-Wakana sat where Marin had left space.
+Okarun stood near the fireplace trying to stay out of everyone's way.
 
-Mikasa chose the seat with the best view of the front door.
+The house had been full for less than an hour.
 
-Yuta noticed.
+It already felt as if several different days were trying to happen at once.
 
-Did not comment.
+Outside, Momo picked up the last stack of blankets.
 
-Kita remained beside Bocchi.
-
-Fern sat on Bocchi's other side.
-
-For the first several minutes, conversation failed because there were too many conversations trying to happen.
-
-Then Momo asked Marin about her clothes.
-
-Marin answered.
-
-Coco asked Frieren what kind of magic she used.
-
-Qifrey apologized before Frieren could decide whether she minded.
-
-Umaru asked Mau whether the house had snacks.
-
-Mau pointed at Momo.
-
-"She hides them."
-
-Momo gasped.
-
-"Traitor."
-
-Anko said, "He learned from the best."
-
-Somewhere between one question and the next, the room stopped being silent about the fact that eight strangers had arrived.
-
-It became loud.
-
-That was easier.
-
-<!-- scene-id: s2e7-ln01-night-question -->
-
-After dinner, Rimuru stood.
-
-"Sleeping arrangements."
-
-Everyone looked at him.
-
-Rimuru looked at the ceiling.
-
-Then at the seventeen people.
-
-Then back at the ceiling.
-
-"We have a problem."
-
-Momo raised a hand.
-
-"I have a floor."
-
-"Yes."
-
-"Several, actually."
-
-"Thank you."
-
-Mau stood too.
-
-"They can use my room."
-
-Frieren looked at him.
-
-Fern looked at Frieren.
-
-Mau did not notice either look.
-
-"My nominal room," he clarified. "It's mostly books now."
-
-"Where will you sleep?" Marin asked.
-
-Mau pointed upstairs.
-
-"Where I sleep."
-
-Kita followed the gesture.
-
-Then looked at Frieren.
-
-Then at Bocchi.
-
-Bocchi, unfortunately, understood the question on her face.
-
-Her entire face turned red.
-
-Kita whispered, "...Oh."
-
-Bocchi whispered back, "It's not—"
-
-Then stopped because she had no idea what she was trying to deny.
-
-Frieren had already returned to her book.
-
-Mau was discussing floor space with Rimuru.
-
-For everyone who actually lived here, nothing unusual had happened.
-
-Kita looked at Bocchi again.
-
-Bocchi hid under the bucket hat.
-
-The inn had been full for less than an hour.
-
-It already had secrets that were not secrets.
+Then she came back toward the door.

@@ -14,6 +14,57 @@ Qifrey disappeared on short trips and returned with dirt on his clothes.
 
 Okarun trained bursts so violent that the first one ended with him throwing up behind a tree.
 
+<!-- scene-id: s2e21-ln02-rct -->
+Yuta's preparation looked less dramatic.
+
+That made it worse.
+
+He practiced RCT.
+
+Again.
+
+Again.
+
+Again.
+
+Maki found him with both hands shaking.
+
+"What are you trying to do?"
+
+Yuta did not answer at first.
+
+Then:
+
+"I've done something close once."
+
+"Close to what?"
+
+He looked toward Mau.
+
+"Refusing to let death finish."
+
+Maki's expression changed.
+
+Yuta explained only the part he needed to.
+
+A body damaged past what should have been acceptable.
+
+RCT applied immediately.
+
+A tiny window where `dead` and `gone` were not yet the same problem.
+
+"I don't know if it works here," Yuta said.
+
+"But you're preparing as if it has to."
+
+"Yes."
+
+Maki put food into his hands.
+
+"Then prepare alive."
+
+Yuta ate.
+
 Life continued around all of it.
 
 Momo and Marin planned decorations for a household festival that had been discussed for weeks.
@@ -73,3 +124,27 @@ Then she nodded once.
 Not acceptance.
 
 A promise that this conversation was not over.
+
+
+<!-- scene-id: s2e21-ln02-sukuna -->
+Far from the inn, Sukuna stopped treating Continuum as random territory.
+
+He had felt Yuta once.
+
+Briefly.
+
+Enough to know the familiar variable existed.
+
+Of all the people in this world, Yuta was the one whose knowledge was already dangerous.
+
+An enemy who knew what Sukuna could do was worth removing before unknown enemies learned the same lessons.
+
+Sukuna changed direction.
+
+He did not know about the prepared field.
+
+He did not know Mau had dreamed the convergence.
+
+He only knew he was going toward Yuta.
+
+The two decisions began moving toward the same place.

@@ -28,13 +28,55 @@ The dream finally became the present.
 
 Qifrey's trap fired.
 
+The symbol they had buried in the field reacted to the geometry Mau had described days earlier.
+
+Signal.
+
 Terrain folded.
 
-Rimuru's barrier closed.
+Mau moved.
 
-Okarun moved.
+Rimuru moved too.
 
-The contingency Contract activated exactly when it was meant to.
+Not toward the barrier.
+
+Toward Mau.
+
+The Contract caught him first.
+
+Not pain.
+
+Resistance.
+
+A line through his body and magic that refused the action he had voluntarily promised not to take.
+
+Raphael's warning hit the relay.
+
+**Direct physical interference constitutes breach. Contract enforcement escalation probable. Severe functional impairment possible. Barrier continuity at risk.**
+
+Rimuru pushed once anyway.
+
+The resistance sharpened hard enough to make his vision flash.
+
+"Mau!"
+
+Mau did not look back.
+
+Rimuru had one decision left that the Contract did not make for him.
+
+Break against it, possibly lose himself and the barrier, and still fail to reach Mau.
+
+Or do the other job Mau had asked him to do.
+
+Rimuru hated both.
+
+He chose the one that kept everyone else alive.
+
+The barrier closed.
+
+Yuta committed to Frieren.
+
+Okarun moved into extraction position.
 
 And Mau stepped into the line.
 
@@ -76,7 +118,11 @@ Only seconds.
 
 Frieren tried to move.
 
-The Contract and barrier logic held the extraction timing.
+Yuta reached her.
+
+The barrier and extraction timing held.
+
+The Contract held Rimuru to the role he had chosen days earlier.
 
 Rimuru screamed through the relay.
 

@@ -12,9 +12,11 @@ Bocchi.
 
 Kita.
 
-Kaneki.
+Nijika.
 
-Two G5 temporary residents.
+Ryo.
+
+Kaneki.
 
 Wakana's bedframe.
 
@@ -249,7 +251,9 @@ Near.
 
 Relationship without architectural possession.
 
-The two G5 residents chose a shared temporary room because neither had decided whether the settlement was permanent.
+Nijika chose the room nearest the music space without claiming it was permanent.
+
+Ryo chose the room with the best afternoon shade and then insisted this was a financial decision somehow.
 
 No one forced a symbolic bedroom choice onto uncertainty.
 

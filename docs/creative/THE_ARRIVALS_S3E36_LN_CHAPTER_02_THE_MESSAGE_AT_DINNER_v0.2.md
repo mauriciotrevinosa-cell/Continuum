@@ -11,50 +11,150 @@ Not as paper.
 
 As people.
 
-A family arrived from a region that had posted the edited hostile version.
+A family arrived after dark from a region that had posted the edited hostile version.
 
-Why come?
+Father.
 
-The father answered:
+Older daughter.
 
-"Because someone wrote the correction underneath."
+Young son.
 
-Handwritten.
+One bag each.
 
-Anonymous.
+No dramatic injuries.
 
-The corrected line:
+Exhaustion.
 
-Communities may cooperate without becoming one state.
+Arrival House fed them before story.
 
-The family did not know who wrote it.
+Later, Fern asked:
 
-Neither did the settlement.
+"Why here?"
 
-The message had escaped everyone.
+The father looked embarrassed.
 
-Hostile version.
+"Because someone corrected the notice."
 
-Correction.
+Which notice?
 
-Counter-correction.
+Hostile copy.
 
-Private copy.
+Under it, handwritten in smaller ink:
 
-Rumor.
+> Communities may cooperate without becoming one state.
 
-A text no longer belonged only to its authors.
+Then another line:
 
-The second community received a similar arrival.
+> Main settlement does not speak for everyone.
 
-They sent word:
+No signature.
 
-This one is staying with us.
+No official seal.
+
+Just somebody who had seen correction.
+
+The father said:
+
+"I thought if people were arguing about what you said, there was probably somewhere real behind it."
+
+Strange logic.
+
+Worked.
+
+They had not known safe route exactly.
+
+Used merchant directions.
+
+East corridor for last section.
+
+Bridge.
+
+Infrastructure and message intersected.
+
+Mau listened from nearby.
+
+The words had traveled:
+original;
+distorted;
+corrected;
+handwritten;
+remembered;
+acted upon.
+
+No author control.
+
+The family did not ask residence immediately.
+
+They wanted:
+three nights;
+information;
+whether grandmother from source world might be somewhere.
+
+Missing-person board.
+
+No match.
+
+Pain.
+
+Still.
+
+Arrival House worked.
+
+The next morning, message came from second community:
+
+another arrival had reached them because of same correction network.
+
+They wrote:
+
+> This one is staying with us for now.
 
 Good.
 
-Not every consequence flowed toward the main settlement.
+Not every consequence flowed main settlement.
 
-The public declaration had created pathways between multiple places.
+Rimuru pinned note.
 
-That was the unity it actually demonstrated.
+Mau smiled.
+
+The public declaration had created pathways between places rather than one funnel.
+
+That was actual unity.
+
+Later at dinner, Momo read anonymous handwritten version.
+
+"Technically copyright violation."
+
+No one answered.
+
+Bocchi laughed once.
+
+Mau looked at original framed? No.
+
+Original not framed.
+
+Stored in records.
+
+Good.
+
+A statement should not become scripture.
+
+Outside, family child played with local child in plaza.
+
+They did not know which sentence had led them here.
+
+Probably better.
+
+The message had escaped authors.
+
+Hostile version had too.
+
+Correction had too.
+
+What mattered now was whether places built enough reality underneath words that a tired family could arrive and find:
+food;
+bed;
+map;
+no oath.
+
+So far:
+yes.

@@ -61,6 +61,26 @@ Strange logic.
 
 Worked.
 
+Jinshi asked:
+
+"Did the correction make you trust us?"
+
+The father shook his head.
+
+"No."
+
+Everyone paused.
+
+"It made me think somebody was correcting you."
+
+That was better.
+
+Not propaganda succeeding.
+
+Plural voices surviving.
+
+The settlement looked safer because disagreement was visible, not because one message sounded perfect.
+
 They had not known safe route exactly.
 
 Used merchant directions.
@@ -158,3 +178,20 @@ no oath.
 
 So far:
 yes.
+
+The answer could change.
+
+That mattered too.
+
+Unity was not a slogan that permanently solved arrival.
+
+It was a practice:
+leave room;
+share routes;
+correct lies;
+let other communities remain other communities;
+make enough infrastructure that a tired family could choose their next step after sleeping.
+
+Dinner ended.
+
+The message kept traveling without them.

@@ -148,6 +148,24 @@ Mau looked at the sky.
 
 "State the rules."
 
+Ori grabbed his sleeve.
+
+Not to stop him.
+
+To make sure he looked at her first.
+
+Mau did.
+
+"You don't owe it obedience because it made me."
+
+"I know."
+
+"Say it."
+
+"I know."
+
+Ori let go.
+
 The Goddess sounded pleased.
 
 He hated that.

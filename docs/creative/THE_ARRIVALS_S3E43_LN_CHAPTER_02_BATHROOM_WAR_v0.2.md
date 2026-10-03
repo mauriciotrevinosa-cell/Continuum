@@ -88,6 +88,34 @@ Maomao:
 
 They opened auxiliary.
 
+Kusuri donated one of her harmless hour markers.
+
+Maomao rejected it because "harmless" was not the same as necessary.
+
+Kusuri argued that visual time cues reduced conflict.
+
+Senku agreed.
+
+Fern looked at all three.
+
+"We are not putting experimental chemistry in the bathroom."
+
+Kusuri:
+
+"It's colored sand."
+
+Silence.
+
+Fern:
+
+"Why did you call it one of your hour markers?"
+
+"Because that's what it is."
+
+They used an ordinary hourglass.
+
+Civilization survived.
+
 Shortened high-demand use.
 
 Added simple time guidance at peak.
@@ -197,3 +225,7 @@ The city could debate exit rights in afternoon and still need someone to unclog 
 People remained bodies.
 
 Good.
+
+No amount of divine mystery, city politics or cross-world power changed the fact that ten people could still want the same bathroom at once.
+
+That mundanity kept the city honest.

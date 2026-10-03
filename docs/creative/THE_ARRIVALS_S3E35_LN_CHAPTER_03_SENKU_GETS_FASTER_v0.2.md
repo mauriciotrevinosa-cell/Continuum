@@ -173,6 +173,64 @@ Mau did not.
 
 They tested next run.
 
+Suika timed him.
+
+Not Senku timing himself.
+
+That mattered because Senku had developed a suspicious habit of reclassifying pauses as "setup."
+
+Suika did not allow this.
+
+"Start."
+
+Senku worked.
+
+Stopped once.
+
+Checked the written assumption.
+
+Asked for local measurement.
+
+Finished.
+
+Suika looked at the time.
+
+Senku looked at her face.
+
+"How bad?"
+
+She smiled.
+
+"Better."
+
+He took the notebook.
+
+Actually better.
+
+Not source peak.
+
+Not miraculous.
+
+Measured.
+
+He wrote the result himself.
+
+Then added one note:
+
+PROCESS RETAINED EVEN AS THROUGHPUT RECOVERS.
+
+Mau read over his shoulder.
+
+"That sounds like growth."
+
+Senku:
+
+"It sounds like data."
+
+"Same thing sometimes."
+
+"No."
+
 Better.
 
 Still not source peak.

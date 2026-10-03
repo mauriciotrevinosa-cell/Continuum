@@ -49,6 +49,30 @@ Reasonable.
 
 First crossing was not heroic.
 
+Before the cart, Suika crossed on foot with one native carpenter.
+
+Not because she was light enough to be disposable.
+
+Because she had helped map the route from a different height and wanted to verify the railing gaps herself.
+
+Senku started to object.
+
+Stopped.
+
+Good.
+
+Suika reached the other side.
+
+"One gap."
+
+The carpenter checked.
+
+She was right.
+
+They fixed it before the first cart.
+
+Then:
+
 Empty cart.
 
 Slow.
@@ -156,6 +180,18 @@ replaced wood,
 and checked water.
 
 That was one of the most adult victories season had produced.
+
+No one gained a title.
+
+Nobody unlocked a power.
+
+A child could cross more safely because somebody noticed a railing gap.
+
+A merchant could move food because people maintained wood.
+
+A route could close without becoming political betrayal because both sides had agreed on danger criteria.
+
+Those were the systems the season had spent learning to value.
 
 Momo later tied a tiny ribbon under one railing where Fern would not see.
 

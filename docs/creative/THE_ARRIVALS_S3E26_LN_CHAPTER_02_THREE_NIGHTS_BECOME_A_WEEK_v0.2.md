@@ -67,6 +67,12 @@ No one asked planning permission.
 
 By day six, breakfast waves became refugee logistics.
 
+Nijika took one breakfast shift because she was better at making strangers feel like they were not interrupting a family meal.
+
+Jinshi reorganized the sign-in page and then had to be stopped from reorganizing the kitchen.
+
+Kusuri checked whether temporary guests had medication needs without asking what world their bodies "should" be from.
+
 Residents who used to eat second ate first because work shifts had moved.
 
 Children used tables adults wanted for paperwork.
@@ -137,7 +143,32 @@ Keep their own leadership.
 
 Refuge did not require political absorption.
 
-On night seven, the teacher sat outside with Rimuru.
+On night seven, the road finally reopened.
+
+Not perfectly.
+
+One wagon at a time.
+
+Escort advised.
+
+Nobody celebrated by evicting guests.
+
+Fern went down the status list.
+
+"Road open. Do you want to leave tomorrow?"
+
+Some yes.
+
+Some no.
+
+One:
+"Ask me after breakfast."
+
+Accepted.
+
+The difference between refuge and absorption survived the moment people were free to go.
+
+Then the teacher sat outside with Rimuru.
 
 "Your place is louder."
 

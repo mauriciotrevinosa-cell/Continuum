@@ -4,39 +4,93 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 16  
-**Continuity state:** Containment, hours 2–6 | Raphael stabilizes but cannot cure
+**Continuity state:** Containment, hours 2–8 | Raphael stabilizes interactions without curing or adjudicating memory truth
 
-Raphael could not remove The Noise.
+The first thing Raphael could not do was remove The Noise.
 
-First hard limit.
+Mau asked directly.
 
-She could not identify Mau's pre-Continuum origin.
+"Can you shut it off?"
 
-Second.
+No known safe method.
 
-She could not produce a true autobiographical timeline.
+Good.
 
-Third.
+Terrible.
 
-She could do something smaller.
+The second:
 
-Separate active overload channels.
+"Can you tell me where I came from?"
 
-Reduce biological cascade.
+No origin record available.
 
-Quarantine some recently consolidated dream-like material from triggering additional emotional feedback.
+Third:
 
-Not delete.
+"Can you tell which memories are real?"
 
-Isolate.
+Not globally.
 
-Mau felt relief like pressure lowering behind his eyes.
+Mau laughed.
 
-Then panic.
+"So the useful part is coming later."
 
-"If you isolate a memory, how do we know it was false?"
+Raphael did not respond to sarcasm.
 
-Raphael:
+Then she showed him the smaller thing she could do.
+
+Several active processes were reinforcing one another.
+
+Physical stress.
+
+Emotional activation.
+
+Recent dream-like consolidation.
+
+Biological change.
+
+External-system response.
+
+Not one cause.
+
+A loop.
+
+If Raphael reduced interaction among some channels, the overall pressure might fall.
+
+Mau listened.
+
+"Reduce how?"
+
+Separate.
+
+Limit feedback.
+
+Temporarily isolate recently consolidated material from triggering immediate emotional cascades.
+
+The phrase sounded too close to memory editing.
+
+Mau's fear spiked.
+
+Outside, Rimuru flinched.
+
+Frieren stood.
+
+"What?"
+
+"He panicked."
+
+"Why?"
+
+Rimuru listened.
+
+Then explained.
+
+Frieren's face hardened.
+
+"Tell him no one deletes anything."
+
+Inside, Mau was already asking.
+
+"If you isolate a memory, how do we know it's false?"
 
 We do not.
 
@@ -44,66 +98,234 @@ We do not.
 
 No removal proposed.
 
-Good.
+"Don't hide it permanently."
 
-Mau let her continue.
+No permanent suppression proposed.
 
-Outside, Rimuru explained every step he could.
+"Can I still access it?"
 
-Frieren asked too many questions.
+Yes, though active triggering may be reduced.
 
-Good.
+Mau thought.
 
-Yuta asked different ones.
+The distinction mattered.
 
-Qifrey different again.
+Not truth adjudication.
 
-The witches arrived under the agreement and were not permitted into the room until Frieren said yes.
+Not deleting the painful card.
 
-One listened to Rimuru's description.
+More like stopping every card from catching fire when touched.
 
-"You're separating active pressure, not adjudicating truth."
+"Try one."
 
-Rimuru nodded.
+Raphael selected the smallest active loop.
 
-"Exactly."
+Not Frieren.
 
-The witch approved.
+Not Ori.
 
-Nobody enjoyed that.
+Not anything relational if she could avoid it.
+
+A recent dream-image with little autobiographical consequence.
+
+Mau felt pressure around it change.
+
+The image remained.
+
+The panic attached to it dropped.
+
+He opened it mentally.
+
+Still there.
+
+"Again."
+
+They proceeded slowly.
+
+Outside, Rimuru narrated enough that Frieren could object.
+
+She did.
+
+Often.
+
+"That one?"
+
+"No."
+
+"Why?"
+
+"Too close to a memory involving you."
+
+"Good."
+
+Yuta asked about recovery if a separated channel destabilized.
+
+Qifrey asked whether containment was creating the apparent separation rather than revealing one.
+
+Maomao asked whether Mau's improving physical signs might simply be rest.
+
+Rimuru answered:
+
+"Could be part of it."
+
+No single system got to claim success.
 
 Hours passed.
 
-Mau's fever lowered.
+Worksite decisions went unanswered.
 
-The kagune-like expression stopped forming.
+A delivery arrived and Fern handled it.
 
-Head injury remained a head injury.
+G5 ate lunch without Rimuru.
 
-Containment did not heal concussion by narrative convenience.
+Milim tried to enter the room once.
 
-Maomao insisted on that distinction.
+Diablo stopped her.
 
-By evening, Mau slept inside Rimuru without screaming.
+That produced an argument loud enough that Frieren threatened both.
 
-Frieren sat beside Rimuru.
+The witches arrived in the afternoon under the agreement.
 
-Weird.
+They were not allowed near the bed until Frieren and Qifrey were satisfied they understood the current rules.
 
-Necessary.
+One listened to Rimuru's description.
+
+"You're separating pressure."
+
+"Yes."
+
+"Not deciding truth."
+
+"Correct."
+
+"Not removing memories."
+
+"Correct."
+
+The witch looked almost disappointed.
+
+Then:
+
+"Good."
+
+Nobody enjoyed agreement.
+
+Inside, Mau's fever lowered.
+
+Not suddenly.
+
+Hours.
+
+The pressure in his back eased.
+
+The biological manifestation did not surface again during that period.
+
+Raphael noted correlation.
+
+Not cure.
+
+Mau corrected her before she could become too official.
+
+"Could just be lower stress."
+
+Acknowledged.
+
+"Could be containment."
+
+Acknowledged.
+
+"Could be both."
+
+Acknowledged.
+
+Mau sighed.
+
+"I hate science."
+
+Outside, Senku still had not arrived to be offended by that sentence.
+
+By evening, Mau could think about Frieren without three contradictory versions of the same memory arriving at once.
+
+That did not tell him which version was true.
+
+He already knew some were false.
+
+It gave him room to think.
+
+He cried.
+
+Raphael paused observation.
+
+Not because tears were system failure.
+
+Because Mau had asked for slow.
+
+Outside, Rimuru opened his eyes.
+
+Frieren stood.
+
+"Is he worse?"
+
+"No."
+
+"Then?"
+
+"He needs a break."
+
+Frieren looked at the empty bed.
+
+"Can he hear me?"
+
+Rimuru checked.
+
+Mau answered yes.
+
+Frieren sat.
+
+"I'm here."
+
+Inside, Mau closed his eyes.
+
+The sentence did not solve anything.
+
+It did not need to.
+
+Hours later, he slept.
+
+Not screaming.
+
+Not arguing with a memory.
+
+Sleeping.
+
+Frieren stayed beside Rimuru.
 
 At one point she placed a hand on his shoulder.
 
 Rimuru looked at her.
 
-"He's still there."
+"He is still there."
 
 "I know."
 
-"Do you want me to—"
+"Do you want me to bring him out?"
 
-"No."
+Frieren looked at the bed.
 
-She left her hand there.
+Every part of her wanted yes.
 
-Trust had strange shapes.
+She asked instead:
+
+"Is he stable enough?"
+
+Rimuru listened.
+
+"Not yet."
+
+Frieren's hand tightened.
+
+"Then no."
+
+Trust had become stranger than holding someone's hand.
+
+Sometimes it meant agreeing not to bring them back too early.

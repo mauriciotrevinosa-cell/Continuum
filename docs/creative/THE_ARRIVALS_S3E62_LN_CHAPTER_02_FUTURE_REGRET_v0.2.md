@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 27 — Future Regret
+## Chapter 32 — Future Regret
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 27
+**Reading order:** 32
 
 Mau wrote scenarios privately.
 

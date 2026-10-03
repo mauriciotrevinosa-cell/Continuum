@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 25 — Frieren Doesn't Answer
+## Chapter 30 — Frieren Doesn't Answer
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 25
+**Reading order:** 30
 
 At night Mau almost asked.
 

@@ -3,65 +3,149 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 16
+**Reading order:** 16  
 **Continuity state:** Outside pressure causes first reluctant refuge wave
 
-The first group from the second community came because a checkpoint closed behind them.
+The first refuge group from the second community arrived angry.
 
-Not fighters.
+That was healthier than gratitude.
 
-A teacher.
+Checkpoint closed behind them.
 
-Two teenagers.
+Road north restricted.
 
-An older man.
+No immediate way home without passing through a patrol that had started checking Otherworlder origins.
 
-A woman with an injured knee.
+The group contained:
+a teacher;
+two teenagers;
+an older man;
+a woman with an injured knee;
+a parent and child.
 
-A parent with a child.
+No frontline fighter.
 
-They had not changed their political opinion.
+No one who could solve the route by force without making everything worse.
 
-They still did not want to join the main settlement.
+They reached Arrival House near sunset.
 
-They needed somewhere safe for three nights.
+The teacher said immediately:
 
-Arrival House said yes.
+"We are not moving here."
 
-That answer did not require ideological surrender.
+Fern answered:
 
-Beds filled.
+"Okay."
 
-Then overflow.
+The teacher stopped.
 
-The old inn reopened two guest rooms.
+Prepared argument vanished.
 
-Important payoff.
+"We need three nights."
 
-Protected history could still be useful.
+"We have two enclosed rooms and old-inn overflow."
 
-Wakana donated blankets.
+"Three nights."
 
-Milim carried furniture.
+"That's fine."
 
-Diablo carried more after Rimuru asked.
+No ideological surrender.
 
-The visitors watched absurd power being used for beds.
+No:
+see, gathering was correct.
 
-That changed some assumptions.
+Beds.
 
-Not all.
+Food.
 
-One teenager asked:
+Medical check for the knee.
+
+Route review.
+
+The child stared at Milim moving a piece of furniture one-handed.
 
 "Are all of you fighters?"
 
-Umaru answered:
+Umaru happened to hear.
 
 "No."
 
-Correct.
+The child looked at her.
 
-The settlement was safest partly because many people knew how to fight.
+"What do you do?"
 
-It mattered because people who could not fight were allowed to matter anyway.
+"Important things."
+
+Momo shouted:
+
+"Games."
+
+Umaru:
+
+"Shut up."
+
+Correct enough.
+
+The teenager watched Diablo carry a bedframe after Rimuru asked.
+
+The expression was priceless.
+
+"You can do... whatever that thing is."
+
+Diablo:
+
+"Many things."
+
+"And you're carrying beds."
+
+"Rimuru-sama asked."
+
+Rimuru covered his face.
+
+Power used for furniture changed assumptions more effectively than speeches.
+
+Not all.
+
+The teacher still disliked the concentration of fighters.
+
+"The more power you have, the more someone will want to control it."
+
+Rimuru:
+
+"Probably."
+
+No defense.
+
+The old inn reopened two guest rooms.
+
+Payoff.
+
+Protected history could still absorb people.
+
+Mau traveled there with blankets.
+
+The old table had a new scratch.
+
+Good.
+
+A refuge guest slept in the room where Mau and Frieren once had some of their hardest conversations.
+
+History serving present.
+
+Back at the settlement, beds filled.
+
+The main settlement looked safest precisely because it contained fighters.
+
+But safety only mattered if people who could not fight were treated as citizens of the moral problem rather than cargo behind the battle line.
+
+The teacher noticed that nobody asked the teenagers to justify why they could not contribute to defense.
+
+That changed one assumption.
+
+Not all.
+
+Three nights.
+
+That remained the plan.
+
+Reality would change it.

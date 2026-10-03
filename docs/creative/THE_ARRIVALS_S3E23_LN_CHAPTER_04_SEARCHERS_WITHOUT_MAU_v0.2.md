@@ -3,88 +3,288 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 8
-**Continuity state:** Searchers operate independently | Mau remains home
+**Reading order:** 8  
+**Continuity state:** Searchers operate independently | Mau physically capable but deliberately stays home
 
-Mau spent the next mission fixing a shelf.
-
-Not heroically.
+Mau spent the next Searcher mission fixing a shelf.
 
 Badly.
 
-Wakana corrected him twice.
+That was important.
 
-The Searchers were two days away.
+The team had left before sunrise.
 
-Frieren among them.
+Frieren.
 
-Rem too.
+Rem.
 
 Aira.
 
+Okarun.
+
 Native guide.
 
-No Rimuru.
+Mission:
+verify a family rumored to be hiding near a checkpoint after someone reported children traveling with an injured adult.
 
-No Mau.
+Mau had packed before anyone asked.
 
-The mission:
-verify a family rumored to be hiding near a checkpoint.
+Habit.
 
-Mau knew almost nothing after they left.
+Water.
 
-That was the exercise.
+Coat.
 
-He asked for updates twice.
+Knife.
+
+Then Okarun looked at the assignment board.
+
+"We have enough."
+
+Mau stood with one strap over his shoulder.
+
+"Enough what?"
+
+"People."
+
+"That's not what I asked."
+
+"It is."
+
+Frieren tightened her own pack.
+
+Mau looked at her.
+
+"You're going."
+
+"Yes."
+
+"Rem?"
+
+"Yes."
+
+"Aira?"
+
+Aira waved.
+
+"Unfortunately."
+
+Mau wanted to go.
+
+No injury stopped him.
+
+No doctor.
+
+No magical limit.
+
+Only the fact that the system they had built did not require him.
+
+Memory Arc made that sentence hurt.
+
+He looked at the route.
+
+"If there's trouble—"
+
+Aira:
+
+"We run away heroically."
+
+Mikasa, not joining:
+
+"Preferably before heroism."
+
+Mau did not laugh.
+
+Frieren saw.
+
+She stepped closer.
+
+"You can come."
+
+That made it worse.
+
+Choice.
+
+Not exclusion.
+
+Mau closed the bag.
+
+"No."
+
+Frieren waited.
+
+"I trust you."
+
+Not quite true yet.
+
+Aspiration.
+
+Enough to practice.
+
+The team left.
+
+Mau stood at the route marker until they vanished.
+
+Then went to Wakana's workshop because if he returned home immediately he would spend the day staring down the road.
+
+Wakana gave him a shelf.
+
+Mau built it wrong.
+
+"That side is upside down."
+
+"No."
+
+Wakana turned it.
+
+Mau stared.
+
+"Sabotage."
+
+"Wood grain."
+
+They fixed it.
+
+At noon Mau checked the Searcher board.
+
+No update expected.
+
+Checked anyway.
+
+At one, again.
+
+Fern noticed.
 
 Reasonable.
 
-Third time, Fern looked at him.
+At two, third attempt.
 
-Mau stopped.
+Fern looked at him.
 
-He worked.
+Mau stopped mid-step.
 
-At night he went to bed without knowing whether Frieren was safe.
+"I know."
 
-Memory Arc had taught him that access could disappear while someone remained alive.
+"Good."
 
-This was different.
+He did not ask.
 
-Chosen distance.
+That was harder than staying.
 
-Still awful.
+At night Frieren had not returned.
 
-Ori found him awake.
+Planned.
+
+Two-day route.
+
+Mau went to their room.
+
+Looked at her side of the bed.
+
+Memory Arc supplied an old terror:
+access to someone can disappear while they're alive.
+
+Trial had not happened yet, but the lesson already existed in another form.
+
+Mau sat.
+
+Ori found him.
 
 "Do you want me to stay?"
+
+Automatic answer almost became yes.
 
 Mau thought.
 
 "No."
 
-Then:
+Ori nodded.
+
+Then Mau added:
 
 "Can you sit for ten minutes?"
 
-Ori did.
+"Yes."
 
-The Searchers returned the next afternoon.
+Different.
 
-The family had already moved elsewhere.
+No claim that he needed nothing.
 
-No rescue.
+No indefinite watch.
 
-No dramatic payoff.
+They sat.
+
+Ori talked about Richeh's route rumors.
+
+Mau listened.
+
+Ten minutes became twelve.
+
+Ori stood.
+
+"Goodnight."
+
+"Goodnight."
+
+Mau slept badly.
+
+Still slept.
+
+Searchers returned the following afternoon.
+
+No family with them.
+
+Mau saw empty road behind Frieren and felt failure before hearing anything.
+
+Okarun corrected:
+
+"They moved before we arrived."
+
+"Safe?"
+
+"Unknown."
+
+"But we found where they went."
+
+New route.
+
+Native contact.
 
 Useful information.
+
+Not rescue.
+
+Not failure.
 
 Frieren walked into the common room muddy.
 
 Mau hugged her.
 
-Did not say:
+Hard.
 
+She accepted.
+
+Then:
+
+"You smell terrible."
+
+Frieren:
+
+"So do you."
+
+"I bathed."
+
+"You built a shelf."
+
+Mau looked offended.
+
+He did not say:
 You shouldn't have gone.
 
 Progress existed in sentences not spoken.
+
+The Searchers had completed a mission without Mau.
+
+The family had continued.
+
+Mau had remained part of both without controlling either.

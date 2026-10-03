@@ -13,9 +13,9 @@ Relief on his face.
 
 Young context.
 
-Old face.
+Older memory on hers.
 
-Wrong history.
+Wrong history between them.
 
 Mikasa stopped three steps away.
 
@@ -23,15 +23,33 @@ Eren's smile faded.
 
 "What happened?"
 
-How do you answer:
+Everything.
 
-I remember years you haven't lived.
+Nothing he had done yet.
 
-I remember choices you haven't made.
+Mikasa opened mouth.
 
-I remember killing you.
+No answer fit.
 
-She said:
+Eren looked at scarf.
+
+Then her face.
+
+"Are you hurt?"
+
+"No."
+
+"Mikasa."
+
+She looked at him.
+
+Real.
+
+Breathing.
+
+Same eyes.
+
+Not same years.
 
 "We remember different amounts."
 
@@ -51,13 +69,37 @@ No rescue.
 
 Back to Mikasa.
 
+"Did I lose my memory?"
+
+"No."
+
+"Did you gain mine?"
+
+"No."
+
+Mikasa closed eyes for one second.
+
+"I lived longer."
+
+Eren's face changed.
+
+"You mean here?"
+
+"No."
+
+Silence.
+
+Sea.
+
+He understood enough to become afraid.
+
 "Did I die?"
 
-She could not breathe for one second.
+Mikasa could not breathe for one second.
 
 "Eventually."
 
-Eren shrugged.
+Eren shrugged automatically.
 
 "Everyone does."
 
@@ -69,20 +111,151 @@ Then he saw her face.
 
 The future entered without exposition.
 
-Mikasa stepped forward.
+Eren sat on low wall.
 
-Eren did too.
+Mikasa remained standing.
+
+He looked at horizon.
+
+"How far?"
+
+"From where you remember?"
+
+"Yes."
+
+"Years."
+
+Eren rubbed hands.
+
+"Did I become someone else?"
+
+Mikasa's throat tightened.
+
+"You changed."
+
+"That's not an answer."
+
+"It's the only one I can give without making your future feel like a confession."
+
+Eren looked at her.
+
+Sharp.
+
+He had not expected that.
+
+Neither had she.
+
+Anko moved farther away.
+
+Privacy without abandonment.
+
+Eren asked:
+
+"Are you scared of me?"
+
+Mikasa answered too slowly.
+
+He looked away.
+
+Then:
+
+"Sometimes."
+
+Honest.
+
+Painful.
+
+"Now?"
+
+Mikasa looked at body in front of her.
+
+No blood.
+
+No older face.
+
+No final scene.
+
+"Not because of anything you've done here."
+
+Eren's jaw tightened.
+
+"That's careful."
+
+"Yes."
+
+He stood.
+
+Mikasa thought he might leave.
+
+Instead one step closer.
+
+Then stopped.
+
+Choice.
+
+She stepped too.
 
 Neither hugged immediately.
 
-Then Mikasa chose the present body in front of her for one moment and pulled him close.
+Too much history on one side.
+
+Too little on other.
+
+Then Mikasa chose present body in front of her for one moment and pulled him close.
 
 Eren froze.
 
 Then held her.
 
-She cried without explaining which version of him she mourned.
+Mikasa cried.
 
-He did not demand to know yet.
+Not loudly.
+
+Eren did not ask which version of him she mourned.
+
+He only held tighter.
 
 That restraint belonged to him, not future memory.
+
+After a while, Eren said:
+
+"You smell like smoke."
+
+Mikasa laughed through tears.
+
+"City."
+
+"Settlement."
+
+She pulled back.
+
+"You haven't seen it."
+
+"Rumors."
+
+"Most are wrong."
+
+"Some?"
+
+"Some are wrong differently."
+
+Eren almost smiled.
+
+Good.
+
+The reunion did not restore their old relationship.
+
+Which old?
+
+That was the problem.
+
+It created a new present where Mikasa knew too much and Eren knew that she knew.
+
+They would have to decide what to do with that asymmetry without letting it become destiny.
+
+For now:
+sea.
+scarf.
+two people alive at same time again.
+
+Enough.

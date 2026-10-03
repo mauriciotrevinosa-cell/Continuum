@@ -3,39 +3,70 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 40
+**Reading order:** 40  
+**Continuity state:** Evening, Day 3 of ten-day window | Backdoor attempt stopped before Goddess contact | Seven days remain | No final individual choice yet
 
-Morning did not solve home.
+Mau slept most of Day Three.
+
+The world did not pause.
 
 Good.
 
-The offer remained.
+Arrival House appointments continued.
 
 Private terms.
 
-Private choices.
+Private questions.
 
-Arrival House appointments.
+No final-choice board.
 
-Council logistics.
+Fern had banned public tallying before anyone proposed it.
 
-Searchers still left.
+Searchers left.
 
-Water still needed maintenance.
+Water needed maintenance.
 
-The city still had no settled name.
+Second community sent road update.
 
-Mau remained under supervision.
+The old inn received two travelers.
 
-Also good.
+Someone repaired a door.
 
-He sat with Frieren at the new-settlement table.
+Bocchi played badly for twenty minutes and then well for five.
+
+Life.
+
+By evening Mau woke hungry.
+
+That felt almost offensive.
+
+Umaru handed him food.
+
+"Prison meal."
+
+Mau looked at bowl.
+
+"This is normal dinner."
+
+"Exactly."
+
+He ate.
+
+The supervision rules remained.
+
+So did offer.
+
+Seven days.
+
+More than enough time for everything to change.
+
+Not enough time for everyone to feel ready.
+
+Mau sat later with Frieren at settlement table.
 
 Not old inn.
 
-The old mug sat between them.
-
-They had moved it here temporarily for tea.
+The old mug sat between them temporarily.
 
 It would go back.
 
@@ -47,42 +78,106 @@ No labels.
 
 Mau looked at Frieren.
 
-"Do you know what you're going to do?"
+He almost asked:
 
-Frieren thought.
+Do you know?
 
-Mau waited.
+Stopped.
 
-New skill.
+Frieren noticed.
 
-"I know some things."
+"What?"
 
-"Useful."
+Mau thought.
 
-"Very."
+Then:
 
-"Are you going to tell me?"
+"Nothing."
 
-"When I'm ready."
+She raised eyebrow.
 
-Mau nodded.
+Mau corrected.
 
-No argument.
+"I was going to ask what you're going to do."
 
-Across the settlement:
+"And?"
+
+"I'm not."
+
+Frieren waited.
+
+Mau smiled faintly.
+
+"New skill."
+
+"Very advanced."
+
+He deserved that.
+
+Across settlement:
 someone entered Arrival House for private terms.
 
-Someone else left without requesting any.
+Someone else walked past without requesting any.
 
-Ori walked with Coco and Richeh.
+Ori sat with Coco and Richeh.
 
-Rimuru argued with Senku near the water court.
+Rimuru argued with Senku near water court.
 
-Eren and Mikasa disagreed on a road and then waited for each other anyway.
+Eren and Mikasa disagreed on road access and then waited for each other before leaving.
 
-Bocchi's music came from somewhere Mau could not see.
+Rem arrived from old inn carrying a message.
 
-Life around unanswered choices.
+Kaneki ate somewhere less crowded.
+
+Aira complained about supervision policy while helping enforce it.
+
+Milim tried to convince Diablo that "guarding Mau" counted as competition.
+
+It did not.
+
+Mau listened.
+
+No Trial room.
+
+Then someone dropped a metal tray.
+
+Mau flinched hard.
+
+Frieren's hand moved.
+
+Stopped.
+
+Mau breathed.
+
+"Here."
+
+Frieren nodded.
+
+"Here."
+
+Not fixed.
+
+Season did not lie.
+
+Mau looked at blank papers.
+
+Seven days.
+
+His family would choose.
+
+Some might choose him.
+
+Some might not.
+
+Some might choose worlds he could never follow.
+
+Some might stay for reasons that had nothing to do with him.
+
+He would have to live after all of those answers.
+
+That was not punishment.
+
+That was relationship.
 
 Frieren reached across.
 
@@ -92,6 +187,12 @@ Not answer about future.
 
 Present fact.
 
-Mau held on without converting it into promise.
+Mau held it without converting contact into promise.
 
-Season Three ended before the first final individual Return/Stay decision was spoken.
+Season Three ended on Day Three of the ten-day Return/Stay window.
+
+The Goddess's offer remained.
+
+The first final individual choice had not yet been spoken.
+
+Seven days belonged to Season Four.

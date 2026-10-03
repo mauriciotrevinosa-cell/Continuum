@@ -4,136 +4,338 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 2  
-**Continuity state:** Day 13 — morning | Mau: intermittently conscious | Head injury history reconstructed
+**Continuity state:** Day 13 — morning | Mau still unstable | Head injury history reconstructed beside him
 
-Frieren asked Ori at sunrise.
+Morning did not arrive cleanly.
 
-Not why she left.
+It arrived as gray light through wet branches and the realization that nobody had slept enough.
 
-Not yet.
+Mau had gone four hours without another major convulsion.
 
-"What hit him?"
+Maomao called that improvement.
 
-Ori told the whole story.
+Nobody called it recovery.
 
-Third day south.
+He could be roused.
 
-Forest went quiet.
+Barely.
 
-Monster.
+He knew Ori twice.
 
-First strike at Mau's shoulder.
+Did not know her once.
 
-Second strike at his head.
+Asked for Frieren once while Frieren was holding his hand.
 
-He fell.
+That one hurt enough that nobody mentioned it again.
 
-Got back up.
+When the fever dropped slightly, Yuta asked for the story of the monster from the beginning.
 
-Killed it.
+Not at a table.
 
-Frieren's expression changed at the last part.
+Not as a debrief.
 
-"How?"
+Beside Mau.
 
-Ori explained mud.
+Because if his condition changed while Ori spoke, the timing might matter.
 
-Blind side.
+Ori sat with both hands around a cup she had forgotten to drink from.
 
-Knife.
+"Third morning after we left."
 
-Branch.
+Yuta nodded.
 
-Not elegant.
+"Start before the attack."
 
-Not power fantasy.
+"The forest went quiet."
 
-Survival.
+Frieren looked at her.
 
-Yuta listened.
+"Completely?"
 
-The physical evidence at the body matched.
+"Enough that we noticed."
 
-That mattered.
+Mau shifted.
 
-Mau had not invented the fight.
+Everyone looked at him.
 
-His head injury had a cause outside his mind.
-
-Frieren asked:
-
-"Did he lose consciousness then?"
-
-"Briefly. Then later longer."
-
-"Vomiting?"
-
-"Yes."
-
-"Confusion?"
-
-"Yes."
-
-"Did he know you?"
-
-"Most of the time."
-
-Most.
-
-Frieren looked toward the shelter.
+No wake.
 
 Ori continued.
 
-"He remembered Kaneki's name before meeting him."
+"The first hit got his shoulder."
 
-Kaneki, nearby, looked over.
+She showed them where.
 
-Rimuru went still.
+Yuta checked the bruising.
 
-"How?"
+Matches.
 
-Ori showed the copied note.
+"The second?"
 
-Approximate spelling.
+Ori looked at Mau's head.
 
-Time written before Rem/Kaneki/Aira arrived.
+"He fell."
 
-Kaneki stared.
+Frieren's thumb stopped moving over Mau's knuckles.
 
-Mau had never met him.
+"Did he lose consciousness?"
 
-Nobody called it The Noise.
+"Yes. Not long."
 
-Nobody had the right.
+"How long?"
 
-They wrote:
+"I don't know. Less than a minute? Maybe more. I was fighting too."
 
-UNEXPLAINED PRIOR INFORMATION / WRONG-OWNERSHIP POSSIBILITY.
+Good.
 
-Evidence.
+No false precision.
 
-Not answer.
+"He got up."
 
-Frieren looked at Ori.
+Ori swallowed.
 
-"You kept notes."
+"He shouldn't have."
 
-"I tried."
+Aira, nearby, said:
+
+"Sounds familiar."
+
+Nobody laughed.
+
+Ori continued.
+
+Mud.
+
+Blind side.
+
+Damaged eye.
+
+Knife too small.
+
+Branch.
+
+The monster going down on top of him.
+
+Mau waking and not knowing if he had killed it.
+
+Vomiting later.
+
+Confusion growing.
+
+The first time the dark line appeared beneath his back.
+
+Yuta asked:
+
+"Did that happen before the head hit?"
+
+Ori thought.
+
+"No."
+
+Kaneki looked over.
+
+Important.
+
+Not proof of causation.
+
+Sequence.
+
+Rimuru, sitting farther back with a notebook, wrote only the time relation.
+
+He asked no mystical question.
+
+Not yet.
+
+Ori described moving away from the carcass.
+
+The first long unconscious period.
+
+The false memory about Frieren hitting him.
+
+That made Frieren's face go still.
+
+"He thought I hit him?"
+
+"For a second."
+
+"Did he believe it?"
+
+"He knew there were two versions."
+
+Frieren looked at Mau.
+
+One real injury.
+
+One false explanation.
+
+Exactly the kind of overlap the manipulation seemed designed to exploit.
+
+Yuta asked:
+
+"And Kaneki's name?"
+
+Ori showed the copied notebook.
+
+The rough spelling.
+
+Written before Rem, Kaneki and Aira arrived.
+
+Kaneki stared at it.
+
+Mau moved.
+
+His eyes opened.
+
+Yuta stopped asking.
+
+"Mau?"
+
+He looked at the people around him.
+
+Frieren.
+
+No recognition.
+
+Ori.
+
+Recognition.
+
+Rem.
+
+Nothing.
+
+Kaneki.
+
+Fear.
+
+"I know him."
+
+Kaneki answered:
+
+"You met me yesterday."
+
+Mau frowned.
+
+"Yesterday?"
+
+"Yes."
+
+Mau looked at Ori.
+
+She nodded.
+
+He closed his eyes.
+
+"Okay."
+
+Frieren leaned closer.
+
+"Do you know me?"
+
+Yuta looked at her.
+
+Too direct?
+
+Maybe.
+
+Mau opened his eyes again.
+
+He stared at Frieren.
+
+Long enough to hurt.
+
+Then:
+
+"Yes."
+
+Frieren exhaled.
+
+Mau added:
+
+"I think."
+
+Worse.
+
+Better than pretending.
+
+His hand moved toward his head.
+
+Yuta stopped it.
+
+"Don't."
+
+"What happened?"
+
+Ori answered before anyone else.
+
+"The monster hit you."
+
+Mau searched her face.
+
+"That happened?"
+
+"Yes."
+
+Frieren said:
+
+"We found the body."
+
+Yuta:
+
+"The injury matches."
+
+Mau's shoulders lowered.
+
+One fact.
+
+External.
+
+Shared.
+
+He whispered:
 
 "Good."
 
-The word surprised Ori.
+Then the dark line rose beneath his back again.
 
-Frieren stood.
+No convulsion this time.
 
-"Later."
+Just a slow physical response to rising stress.
 
-Again.
+Kaneki saw it.
 
-Ori accepted it.
+"So it doesn't require the seizure."
 
-Mau had protected her from the monster.
+Rimuru looked up.
 
-She had protected his history from becoming another uncertain story.
+Question one.
 
-Both mattered.
+"Stress?"
+
+Kaneki shook his head.
+
+"Maybe."
+
+Question two.
+
+"Recognition failure?"
+
+"No idea."
+
+Question three.
+
+"Temperature?"
+
+Rem checked.
+
+"Rising again."
+
+Rimuru wrote.
+
+Frieren noticed.
+
+Not diagnosis.
+
+Pattern collection.
+
+The first questions had begun before anyone understood what answer they were building toward.

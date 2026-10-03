@@ -3,14 +3,16 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 12
-**Continuity state:** External anti-Otherworlder pressure rises alongside migration
+**Reading order:** 12  
+**Continuity state:** External anti-Otherworlder pressure grows unevenly alongside migration
 
 The western road acquired a registration checkpoint.
 
 Not a prison.
 
 At first.
+
+Searchers brought the notice back.
 
 Names.
 
@@ -20,11 +22,25 @@ Abilities if known.
 
 Destination.
 
-The settlement objected to one question most:
+Anko tapped the last line.
 
-destination.
+"This one."
 
-People traveling toward them became easy to identify.
+Mau looked.
+
+"Destination?"
+
+"Anyone traveling toward us becomes easy to identify."
+
+Mikasa:
+
+"Also anyone traveling toward any sensitive location."
+
+Fair.
+
+Not uniquely anti-settlement.
+
+Still useful for tracking.
 
 One town imposed temporary weapon restrictions on known Otherworlders.
 
@@ -38,44 +54,104 @@ Not all natives hostile.
 
 Not all policy malicious.
 
-One checkpoint captain had survived an Arrival-caused disaster.
+The checkpoint captain had survived an Arrival-caused disaster months earlier.
 
-He genuinely believed registration prevented another.
+Anko met him.
 
-Anko hated the policy and understood the fear.
+He showed a scar.
+
+Then a list of injured residents.
+
+"I don't care where they came from. I care that nobody knew what he could do."
+
+Anko disagreed with the registration regime.
+
+She did not call his fear imaginary.
+
+"Abilities are not stable categories here."
+
+"Neither is ignorance."
 
 Both.
 
-Searchers began collecting notices.
+The conversation ended without agreement.
 
-Wording.
+Useful.
 
-Dates.
-
-Sources.
-
-No mastermind conclusion yet.
-
-Arrival House saw more frightened people.
-
-Some still refused the settlement.
-
-One said:
+Meanwhile, Arrival House received a man who refused the main settlement.
 
 "If I go there, I become part of your problem."
 
-Fair.
+Fern asked:
 
-He chose a native village.
+"What do you need?"
 
-Another said:
+"Directions to a village that doesn't care what I am."
+
+A Searcher gave three possibilities.
+
+He chose one.
+
+No moral correction.
+
+Later, a woman arrived from the same road.
+
+She had been sleeping in fields to avoid checkpoints.
 
 "If I stay alone, I disappear."
 
-Also fair.
+Same world pressure.
 
-She came.
+Opposite conclusion.
 
-The world was becoming plural.
+She entered.
 
-The settlement's identity changed whether residents wanted it or not.
+At dinner, Mau heard both stories.
+
+He wanted a policy that solved them.
+
+Rimuru noticed.
+
+"There isn't one."
+
+"I know."
+
+Mau hated how often that sentence appeared.
+
+Searchers began collecting:
+notices;
+dates;
+wording;
+who issued them;
+what triggered changes;
+which roads became dangerous;
+which villages remained open.
+
+No mastermind conclusion.
+
+Patterns required time.
+
+Diablo suggested several notices shared phrasing too similar to be coincidence.
+
+Anko wrote:
+
+POSSIBLE COORDINATION.
+
+Not:
+MASTERmind confirmed.
+
+Good.
+
+The road became worse.
+
+Not everywhere.
+
+Not all at once.
+
+That unevenness made choices harder.
+
+People could reasonably stay outside.
+
+People could reasonably seek refuge.
+
+The settlement would soon meet others who had built an entire philosophy around the first choice.

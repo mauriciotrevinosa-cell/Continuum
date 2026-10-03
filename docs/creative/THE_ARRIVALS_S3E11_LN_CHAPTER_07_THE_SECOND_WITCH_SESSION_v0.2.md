@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 22 — The Second Witch Session
+## Chapter 30 — The Second Witch Session
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 22  
-**Continuity state:** Day 5 — morning | Mau voluntarily resumes witch questioning | No universal diagnosis
+**Reading order:** 30  
+**Continuity state:** Day 6 — morning | Mau voluntarily resumes witch questioning | No universal diagnosis
 
 The second session was Mau's idea.
 

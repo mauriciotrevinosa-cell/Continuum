@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 31 — Interception
+## Chapter 36 — Interception
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 31
+**Reading order:** 36
 
 Mau stood in the clearing.
 

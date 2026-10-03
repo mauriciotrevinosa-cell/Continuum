@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 19 — Dinner With Strangers
+## Chapter 20 — Dinner With Strangers
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 19  
+**Reading order:** 20  
 **Continuity state:** Day 3 — evening | Mau: first communal meal after return | G5: all still guest-status / physically accounted for
 
 Dinner required two tables.

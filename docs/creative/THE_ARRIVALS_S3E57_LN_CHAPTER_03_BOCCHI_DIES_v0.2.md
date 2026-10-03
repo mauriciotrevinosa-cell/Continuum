@@ -3,25 +3,30 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 11
+**Reading order:** 11  
+**Continuity state:** Early-mid Trial | Family language is turned directly against Mau's sacrifice logic
 
 No battlefield.
 
 Building fire.
 
-Smoke.
+That made it worse.
 
-Mau one side.
-
-Bocchi other.
+Smoke pressed along the ceiling.
 
 One mechanism.
+
+Two corridors.
+
+Mau on one side.
+
+Bocchi on the other.
 
 Open one route.
 
 Seal the other.
 
-Bocchi understood first.
+Bocchi understood before Mau did.
 
 "Open yours."
 
@@ -35,7 +40,7 @@ She started crying.
 
 Not because she wanted to die.
 
-Because she knew him.
+Because she knew exactly what he would do.
 
 "Don't do the thing."
 
@@ -47,25 +52,87 @@ Mau froze.
 
 The construct knew family language.
 
-Bocchi hit the barrier.
+It knew enough history to hurt accurately.
+
+"Bocchi."
+
+"I'm choosing."
+
+"You're panicking."
+
+"Of course I'm panicking!"
+
+She hit the barrier.
+
+Smoke thickened.
+
+"That doesn't mean I don't get to choose!"
+
+Mau's hand hovered over the mechanism.
+
+Open Bocchi.
+
+Mau dies.
+
+Open Mau.
+
+Bocchi dies.
+
+No third route yet.
+
+He searched anyway.
+
+Bocchi saw.
+
+"You're doing it again."
+
+"Doing what?"
+
+"Waiting until there's no time so you have to die."
+
+Mau looked at her.
+
+That accusation landed because part of him recognized the pattern.
+
+If he delayed long enough, choice became necessity.
+
+Necessity felt cleaner.
+
+Bocchi cried harder.
 
 "I'm not letting you call this love."
 
 Time.
 
-Smoke.
+Mau's hand moved toward her route.
 
-Mau's hand hovered.
+Then stopped.
 
-He still could not choose himself.
+Not because he chose himself.
+
+Because he heard her.
+
+One second.
+
+Too late.
 
 Mechanism sealed.
 
-Bocchi vanished into smoke.
+Bocchi's corridor filled.
 
-Again, delayed reset.
+Mau shouted.
 
-Mau screamed at empty air.
+The Trial did not reset immediately.
+
+Again.
+
+Cruelty.
+
+He had to stand alive in the room after Bocchi disappeared.
+
+Ten seconds.
+
+Long enough to know what his indecision had done.
 
 Anchor.
 
@@ -81,6 +148,18 @@ Mau looked sick.
 
 "No."
 
-That answer hurt Bocchi more than the scenario.
+Honest.
 
-Because it was honest.
+Bocchi heard.
+
+That hurt more than watching the constructed death.
+
+Mau looked toward where the barrier had been.
+
+"I don't know how."
+
+The Goddess did not answer.
+
+That was the first time Mau admitted the problem was not willingness.
+
+He genuinely did not know how to allow someone he loved to choose a cost he could pay instead.

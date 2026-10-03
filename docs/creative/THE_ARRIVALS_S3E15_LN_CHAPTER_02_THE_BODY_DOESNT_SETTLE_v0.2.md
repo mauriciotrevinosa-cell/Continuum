@@ -142,6 +142,94 @@ Another assumption removed.
 
 Another question created.
 
+Mau looked over his shoulder as far as the pain allowed.
+
+"Can I try RCT?"
+
+Yuta answered before optimism could.
+
+"Locally."
+
+Maomao:
+
+"Explain."
+
+Mau lifted one scratched hand.
+
+"Repair something small. See if it changes the rest."
+
+Kaneki's eyes narrowed.
+
+"Not the back."
+
+"Agreed."
+
+Mau focused.
+
+The shallow cut across his palm closed.
+
+Slowly.
+
+Not cleanly enough to look magical from across the room.
+
+Cleanly enough that everyone close saw it.
+
+RCT was still real.
+
+That mattered too.
+
+Then the pressure along his back pulsed again.
+
+The dark line beneath the skin remained.
+
+Mau stared.
+
+"Great."
+
+Yuta did not sound surprised.
+
+"You're repairing a wound."
+
+"Apparently."
+
+"That isn't the same as telling your whole body what shape it's supposed to be."
+
+Silence.
+
+Mau looked at him.
+
+Yuta continued carefully.
+
+"RCT needs a target. A stable 'repair toward.' If the larger problem is that your system is trying to use more than one model at once, healing harder may not solve it."
+
+Maomao wrote that down.
+
+Kaneki added:
+
+"And if the wrong model wins?"
+
+Nobody answered.
+
+Good.
+
+Mau flexed the repaired hand.
+
+Local tissue:
+
+possible.
+
+Memory corruption:
+
+not a wound he could reverse-heal.
+
+System-wide body change:
+
+no trustworthy target yet.
+
+RCT had not vanished from the story.
+
+It simply was not a universal answer.
+
 That night Mau forgot Frieren's name again for less than a minute.
 
 He still knew she was the person he wanted beside him.

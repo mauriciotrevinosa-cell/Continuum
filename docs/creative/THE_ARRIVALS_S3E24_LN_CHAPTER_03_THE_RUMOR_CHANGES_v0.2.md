@@ -3,34 +3,36 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 11
-**Continuity state:** Settlement reputation shifts from existence to refuge claim
+**Reading order:** 11  
+**Continuity state:** Settlement reputation changes from location rumor to refuge claim
 
-The rumor changed.
-
-At first:
+The first rumor had been simple.
 
 Otherworlders live there.
+
+Accurate enough.
 
 Then:
 
 They take people in.
 
+Often.
+
 Then:
 
 They protect their own.
 
-That one was dangerous.
+Dangerous.
 
 True enough to attract.
 
 False enough to simplify.
 
-A native trader repeated it at Arrival House.
+A native trader repeated it at Arrival House while waiting for a route note.
 
 "People say if an Otherworlder reaches you, nobody can touch them."
 
-Fern corrected immediately.
+Fern looked up.
 
 "Not true."
 
@@ -40,37 +42,166 @@ The trader blinked.
 
 "We don't promise immunity from consequences."
 
-Different.
+The trader's face showed exactly why the corrected sentence would travel badly.
 
-The distinction did not travel as well as the rumor.
+Long.
 
-Another traveler arrived because someone said Mau personally guaranteed safety.
+Conditional.
 
-Mau had never met the speaker.
+No slogan.
 
-"Can we stop using my name?"
+"What if someone is being hunted?"
 
-No.
+"We ask why."
 
-Not really.
+"What if officials want them?"
 
-They could correct.
+"We ask why."
 
-Not control.
+"What if they did something?"
 
-Arrival House added a public notice:
+"We ask what."
+
+The trader laughed.
+
+"People will tell this as 'they protect them.'"
+
+Fern closed her eyes.
+
+Probably.
+
+Another traveler arrived two days later because somebody said Mau personally guaranteed sanctuary.
+
+Mau had never met the source.
+
+The traveler asked at Arrival House:
+
+"Where do I speak to Mau?"
+
+Fern:
+
+"Why?"
+
+"He gives protection."
+
+Mau happened to be carrying water behind the screen.
+
+Stopped.
+
+Momo saw.
+
+Terrible.
+
+She pointed.
+
+"Mau."
+
+Mau stared at her.
+
+Betrayal.
+
+The traveler turned.
+
+"You're him?"
+
+"Unfortunately."
+
+"Can you guarantee I won't be taken?"
+
+Mau looked at Fern.
+
+Good.
+
+Then at the traveler.
+
+"No."
+
+The answer hurt.
+
+Necessary.
+
+"We can hear what happened."
+
+"That's not what I asked."
+
+"I know."
+
+The traveler left before telling them.
+
+That bothered Mau all night.
+
+Frieren asked:
+
+"Would you have promised if you thought you could keep it?"
+
+Mau took too long.
+
+Memory Arc lesson still alive.
+
+"Probably."
+
+"Bad."
+
+"Yes."
+
+Rumor created moral temptation.
+
+If people believed Mau could make a place safe, saying no felt like betrayal.
+
+But a promise impossible to define could become a trap for everyone.
+
+Arrival House added a public notice.
 
 THIS IS A REFUGE / RESIDENCE / TRANSIT POINT.
+
 NOT A GUARANTEE OF IMPUNITY.
+
 NOT A REQUIREMENT TO STAY.
+
 NOT OWNED BY ONE PERSON.
 
-Momo said the last line made it sound like Mau had tried to own it.
+Momo read the last line.
 
-Mau said:
+"It sounds like Mau tried to own it."
 
-"Thanks."
+Mau:
 
-Rumor kept spreading.
+"Thank you."
 
-The settlement now had to live with versions of itself it did not author.
+"You're welcome."
+
+The notice traveled less effectively than the rumor.
+
+Of course.
+
+Outside the settlement, versions multiplied.
+
+Mau's settlement.
+
+Otherworlder fortress.
+
+Refuge.
+
+Monster town.
+
+Safe road.
+
+Dangerous concentration.
+
+Each label changed what arrived.
+
+People.
+
+Fear.
+
+Attention.
+
+Mau wanted to correct all of them.
+
+Could not.
+
+The settlement now had a public identity it did not control.
+
+Individual people had been learning that lesson all season.
+
+Now the city had to.

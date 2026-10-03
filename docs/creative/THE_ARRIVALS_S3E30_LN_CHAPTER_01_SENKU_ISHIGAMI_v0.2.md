@@ -1,298 +1,295 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 4 — Senku Ishigami
+## Chapter 4 — The Audit Finally Starts
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
 **Reading order:** 4  
-**Continuity state:** Senku arrives after settlement is inhabited, stressed and materially flawed
+**Continuity state:** Senku + Suika already present since G5 | Settlement now inhabited, stressed and materially flawed | Major civic audit begins
 
-The Searchers found Senku writing numbers on bark.
+Senku had been waiting weeks to become unbearable properly.
 
-That was the first sign he was probably fine.
+During G5 he had only been allowed small problems.
 
-The second was that he complained about the bark.
+Cover the material.
 
-"Fiber tears."
+Remeasure the drainage point.
 
-Okarun stared.
+Write down the inconsistency.
 
-"You were stranded."
+Sleep.
 
-"Those statements don't conflict."
+Then the Move happened.
 
-Senku had been alone less than two days by his estimate.
+People occupied the place.
 
-Estimate.
+Beds became real.
 
-That word bothered him.
+Paths ignored plans.
 
-He asked:
-date;
-distance to nearest reliable settlement;
-elevation;
-latitude.
+Children invented shortcuts.
 
-The Searchers could answer three poorly.
+Temporary storage became permanent because nobody moved it.
 
-Latitude:
+Arrival House grew from roof to institution.
 
-silence.
+Refuge pressure added bodies faster than the site had been designed for.
 
-Senku looked personally offended by Continuum.
+Now Senku stood in the center of the settlement with the old G5 notebook in one hand and the current map in the other.
 
-"Compass?"
+He smiled.
 
-"Yes."
+Mau saw the smile.
 
-"Stars consistent?"
+"No."
 
-"Mostly."
+Senku looked at him.
 
-"Mostly is not a measurement."
+"I haven't said anything."
+
+"Your face did."
+
+Suika stood beside Senku with a second notebook.
+
+She had grown tired of people treating her as his assistant.
+
+So she had made her own survey.
+
+Foot traffic.
+
+Blind corners.
+
+Places smaller people had trouble carrying water.
+
+Paths used by children.
+
+Places adults called "fine" because adults were taller.
+
+Senku respected the data.
 
 Good.
 
-They gave paper.
+Rimuru approached.
 
-He immediately wrote a list.
+"Ready?"
 
-Not rescue gratitude.
+Senku:
 
-Variables.
+"I've been ready."
 
-On the walk back, Senku started testing himself.
+Maomao:
 
-Simple arithmetic first.
+"You were not."
 
-Fast.
+Senku looked at her.
 
-Known formulas.
+She pointed at the old G5 notes.
 
-Fine.
+First week:
+fatigue,
+throughput reduction,
+unknown world assumptions,
+barely any occupancy data.
 
-Multi-step mental loads.
+She was right.
 
-Pause.
+He hated that.
 
-He stopped walking.
+"Now I'm ready."
 
-Okarun turned.
+They started with the old inconsistency.
 
-"What?"
+The drainage marker Senku had noticed the night Mau was missing still existed.
 
-"Nothing."
+The road did not.
 
-Lie.
+Occupancy had bent everything around it.
 
-Senku repeated calculation.
+Senku placed the old sheet beside the current one.
 
-Different sequence.
+"Good."
 
-Same result.
+Coco:
 
-Longer than expected.
+"Why good?"
 
-He wrote time.
+"Because now the failure is worth measuring."
 
-Continued.
+"That's a terrible sentence."
 
-At the next hill, he tested memory span using random numbers from Searcher route markers.
+"It means we know what people actually do."
 
-Again.
+Suika pointed.
 
-Fine at small scale.
+"They carry water here."
 
-Slower as conditions stacked.
+The planned route was elsewhere.
 
-He asked a native guide three local facts, held them while calculating, then repeated.
+"Why?" Senku asked.
 
-One error.
+Suika answered before anyone else.
 
-Senku's expression changed.
+"Shade."
 
-Not fear.
+Simple.
 
-Interest sharpened by annoyance.
+The official path was hotter.
 
-"Continuum tax."
+People had voted with feet.
 
-Okarun:
+Senku wrote:
+DESIRE PATH — KEEP OR SUPPORT.
 
-"What?"
+Mau looked surprised.
 
-"Working hypothesis."
+"I thought you were going to erase everything ugly."
 
-At settlement edge, Senku stopped again.
-
-Not because of power.
-
-Infrastructure.
-
-He saw:
-a water line;
-temporary drainage;
-mixed building quality;
-canvas Arrival House beside real structures;
-bridge-repair material blocking a service path;
-children cutting across planned traffic;
-someone dumping wash water somewhere Maomao immediately corrected.
-
-Alive.
-
-Wet.
-
-Functional enough.
-
-Flawed enough.
-
-Senku smiled.
-
-Mau saw smile from across yard.
-
-Instantly suspicious.
-
-"What's wrong?"
-
-Senku looked around.
-
-"How much time do you have?"
-
-Mau hated him immediately.
-
-Probably healthy.
-
-Arrival House still did intake.
-
-Name.
-
-Immediate need.
-
-Anyone following.
-
-Senku looked at form.
-
-"That's it?"
-
-"For today," Fern said.
-
-"World?"
-
-"Later."
-
-"Technical capability?"
-
-"Later."
-
-Senku stared.
-
-"That's inefficient."
-
-Fern:
-
-"You're tired."
-
-"I can still answer."
-
-"Later."
-
-Senku opened mouth.
-
-Closed it.
-
-Someone had successfully defeated him with administration.
-
-Momo watched with delight.
-
-After food, Senku asked for settlement map.
-
-Rimuru gave current version.
-
-Senku looked.
-
-Then at ground.
-
-Then back.
-
-"Which one is true?"
-
-Rimuru:
-
-"Both, unfortunately."
-
-Road had shifted from plan.
-
-Storage repurposed.
-
-Arrival House grown.
-
-Refuge expansion forced another route.
-
-Senku's grin widened.
-
-Not contempt.
-
-Real system.
-
-Plans meeting occupancy.
-
-He walked only one district before Maomao stopped him.
-
-"You need sleep."
-
-"I need a survey."
-
-"You need sleep."
-
-"Survey first."
-
-Maomao looked at his pupils.
-
-"Sleep."
-
-Senku stared.
-
-Then at Mau.
-
-"Is she always like this?"
-
-Mau:
-
-"Worse if correct."
-
-Senku hated him too.
+"Ugly isn't the metric."
 
 Good.
 
-That night he timed another calculation before bed.
+Next:
+food storage.
 
-Wrote result.
+The vent design had been acceptable for the first occupancy.
 
-The number was slower than source self-reference suggested.
+Not current.
 
-Not catastrophic.
+Maomao had complained.
 
-Not imaginary.
+Twice.
 
-He slept.
+She had notes.
 
-Next morning, first thing:
+Senku read them.
 
-ran it again.
+Humidity.
 
-Slightly better.
+Mold risk.
 
-Senku smiled.
+Crowding.
 
-Constraint measurable.
+He nodded.
 
-Therefore usable.
+"She was right."
 
-Continuum had not made him stupid.
+Momo whispered to Mau:
 
-It had changed his available throughput.
+"Terrible day for civilization."
 
-That meant the settlement would not get a perfect Senku.
+Next:
+workshop.
 
-It would get one who had to build systems other people could understand.
+Wakana had chosen road access.
 
-That might be better for a city.
+Reasonable.
+
+Now neighboring structures changed fire spread.
+
+Not Wakana's original mistake.
+
+System changed around him.
+
+Senku measured.
+
+Did not blame.
+
+Important.
+
+Next:
+water.
+
+Magic worked.
+
+Too well to be trusted casually.
+
+Qifrey's lift system had become a single point of expertise.
+
+Senku asked Coco to diagnose a simulated fault.
+
+She could.
+
+Then a second.
+
+Slower.
+
+Agott did better on a different failure.
+
+Good.
+
+Distributed skill existed.
+
+Not enough.
+
+Senku wrote:
+TRAIN.
+
+Qifrey smiled.
+
+He liked that answer more than:
+make stronger magic.
+
+By noon, Senku had said almost no.
+
+That worried everyone.
+
+Mau asked:
+
+"Are we secretly fine?"
+
+Senku looked at him.
+
+"No."
+
+There it was.
+
+But he did not launch the verdict.
+
+Not yet.
+
+He had learned something since arriving as the wrong Mau.
+
+A city was not a puzzle on paper.
+
+People were inside the variables.
+
+If he tore out a pipe, somebody lost water.
+
+If he moved a workshop, Wakana lost weeks.
+
+If he closed a path, children would make another one.
+
+The audit had to understand cost before redesign.
+
+At dusk Senku sat with Suika.
+
+Compared notes.
+
+Her map had things his did not.
+
+Low sight lines.
+
+Small-body carrying strain.
+
+Where people actually paused.
+
+Senku added them.
+
+No embarrassment.
+
+"Good catch."
+
+Suika smiled.
+
+The next morning the real argument would begin.
+
+Senku would say no.
+
+But now it would mean:
+
+I measured what exists.
+
+I know people live here.
+
+And I still think some of it has to change.
+
+That was a much harder no. 

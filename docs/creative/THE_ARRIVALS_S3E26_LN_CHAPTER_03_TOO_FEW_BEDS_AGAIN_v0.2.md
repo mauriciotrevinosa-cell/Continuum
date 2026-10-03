@@ -11,46 +11,160 @@ Now the settlement was too small.
 
 Excellent.
 
+Nano wrote the number.
+
 Fifty-one sleeping spaces.
 
 Fifty-seven bodies.
 
 Then sixty.
 
-Nano stopped updating the chalk count for fifteen minutes out of spite.
+She stopped updating the chalk count for fifteen minutes out of spite.
+
+Fern found her.
+
+"Number?"
+
+Nano glared.
+
+"Sixty."
+
+"Thank you."
+
+"I dislike population."
+
+"Understandable."
 
 The old inn absorbed six.
 
 Workshop floor absorbed three.
 
-Two residents volunteered their rooms.
+Two residents volunteered rooms.
 
-Mau and Frieren gave theirs for one night to a family with a child and an injured grandmother.
+One offer was rejected because the person offering the room had nowhere reasonable to go.
 
-Mau looked at the common-room floor.
+Generosity did not create space from nothing.
 
-"S2?"
-
-Frieren:
-
-"Worse blankets."
-
-They slept there.
+Mau and Frieren gave their room for one night to a family with a child and injured grandmother.
 
 Not symbolic martyrdom.
 
-Simple capacity.
+Their bodies worked on a common-room floor.
+
+The grandmother's did not.
+
+Mau looked at the blanket pile.
+
+"S2?"
+
+Frieren tested one.
+
+"Worse blankets."
+
+"We've regressed."
+
+"Yes."
+
+They slept in the common room.
+
+Around them:
+two Searchers;
+one G5 traveler;
+Aira because she had lost a coin toss;
+Momo because Momo refused to explain.
 
 At 2 a.m. someone stepped on Mau's hand.
 
-He regretted civilization.
+He woke silently furious.
 
-By morning Rimuru had a new construction priority:
+Frieren, half asleep:
 
-beds before beauty.
+"Civilization."
 
-Nobody disagreed.
+"I hate it."
 
-The refuge became necessary before it became aesthetically complete.
+"Sleep."
 
-That stayed true.
+He did.
+
+Morning made shortage political.
+
+Who got enclosed rooms?
+
+Families?
+
+Injured?
+
+People working nights?
+
+People needing privacy for trauma?
+
+Long-term residents?
+
+Temporary protection?
+
+No formula solved it.
+
+Fern established priorities.
+
+Then exceptions.
+
+Then a process for exceptions.
+
+Momo called this bureaucracy.
+
+Fern:
+
+"Yes."
+
+No shame.
+
+Rimuru changed construction priority.
+
+Beds before beauty.
+
+Covered sleeping before decorative finish.
+
+Second sanitation expansion.
+
+Storage rearranged.
+
+Senku still had not arrived to tell them half of it was wrong.
+
+Good.
+
+One second-community guest said:
+
+"This is exactly why we stayed small."
+
+Mau looked around the overcrowded common room.
+
+"Fair."
+
+Then the guest added:
+
+"But if we'd stayed home this week, we'd have slept outside the checkpoint."
+
+Also fair.
+
+No winner.
+
+By evening, three new temporary bunks existed.
+
+Badly.
+
+Functional.
+
+The refuge became necessary before aesthetically complete.
+
+Mud.
+
+Temporary roofs.
+
+Too few beds.
+
+Still the safest place several people could reach.
+
+That was not success in the clean sense.
+
+It was responsibility arriving faster than architecture.

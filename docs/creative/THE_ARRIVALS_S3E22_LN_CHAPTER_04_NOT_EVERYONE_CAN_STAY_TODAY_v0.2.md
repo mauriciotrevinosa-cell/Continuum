@@ -4,39 +4,61 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
 **Reading order:** 4  
-**Continuity state:** Arrival pressure begins | Capacity still limited
+**Continuity state:** Arrival pressure begins | Capacity remains materially limited
 
 The second intentional arrival came two days later.
 
-Then three more.
+Then two siblings.
+
+Then a woman who had been sleeping in a barn outside a native town because nobody had decided whether she counted as guest or threat.
 
 Capacity changed faster than construction.
 
-One man asked for permanent residence immediately.
+Beds became arithmetic.
 
-He had no medical emergency.
+Not abstract beds.
+
+Rooms people occupied.
+
+Guest spaces.
+
+Old inn overflow.
+
+One unfinished room that leaked.
+
+Fern kept count.
+
+Nano kept a better count.
+
+They disagreed about whether a mattress on a workshop floor counted.
+
+Then a man arrived asking for permanent residence immediately.
 
 No active pursuer.
 
+No medical crisis.
+
 No dependent child.
 
-No reason to receive one of the last enclosed rooms before people already waiting.
+No reason he should receive one of the last enclosed rooms before people already waiting.
 
 Fern said:
 
 "We can give you three nights."
 
-He heard:
+The man heard:
 
 No.
 
-Anger followed.
+His face hardened.
 
 "So the safe place isn't safe."
 
-Rimuru started to respond.
+Rimuru began to respond.
 
-Mau stopped himself from doing it first.
+Mau did too.
+
+Then Mau stopped himself.
 
 Good.
 
@@ -46,42 +68,107 @@ Rem spoke.
 
 The man looked at her.
 
-"What happens after three nights?"
+"Then what happens after three nights?"
 
-"We help you find an option."
+Rem did not say:
+we throw you out.
+
+"We find an option with you."
 
 Nearby native town.
 
-Old inn guest bed if available.
+Old inn if guest capacity opened.
 
 Shared temporary shelter.
 
-Travel route.
-
 Waitlist.
 
-He did not like any.
+Travel route.
+
+Someone willing to host.
+
+The man looked at Mau.
+
+"You have all these powerful people and can't build one room?"
+
+Mau felt the accusation land.
+
+Could they?
+
+Maybe.
+
+Fast.
+
+Construction.
+
+Magic.
+
+Force.
+
+But a room built because Mau could produce walls did not equal food, water, sanitation, maintenance and fair allocation.
+
+Mau answered:
+
+"We can build walls faster than we can responsibly promise a life inside them."
+
+Fern looked at him.
+
+Good answer.
+
+The man still hated it.
 
 Valid.
 
 He stayed one night.
 
-Then chose a nearby native settlement where one G5 traveler already lived.
+Second day, a G5 resident who lived in a native town visited.
 
-The main settlement did not absorb him.
+They spoke.
 
-He still received help.
+Work existed there.
 
-A week later he sent a message:
+Room above a workshop.
 
-alive.
+Not perfect.
+
+The man went to see it.
+
+He returned only to collect his bag.
+
+"You said three nights."
+
+Fern:
+
+"You don't have to use all three."
+
+He left.
+
+Not angry anymore.
+
+Not grateful enough to become family.
+
+A week later, message.
+
+Alive.
 
 Working.
 
 Not coming back.
 
-Success.
+Momo read it.
 
-Arrival House learned:
+"So success is someone not staying?"
+
+Fern:
+
+"Sometimes."
+
+Important.
+
+The settlement's growth could not become a scoreboard.
+
+A place that helped everyone by absorbing everyone would eventually fail everyone.
+
+Arrival House learned its first hard rule from a person it did not keep:
 
 helping someone did not require making them ours.

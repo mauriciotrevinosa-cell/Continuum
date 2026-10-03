@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 19 — Questions Without Answers
+## Chapter 26 — Questions Without Answers
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 19  
-**Continuity state:** Day 3 — afternoon | First witch questioning complete | No cure / no The Noise diagnosis
+**Reading order:** 26  
+**Continuity state:** Day 4 — afternoon | First witch questioning complete | No cure / no The Noise diagnosis
 
 The questioning produced six pages of notes and no cure.
 

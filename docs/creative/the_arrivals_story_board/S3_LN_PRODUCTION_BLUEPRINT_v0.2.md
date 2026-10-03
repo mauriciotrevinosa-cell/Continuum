@@ -158,7 +158,7 @@ Purpose:
 - Mau Jail Part Two;
 - S4 handoff before first final public choice.
 
-Target: ~28–36 chapters.
+Target: discovered at 40 chapters after Trial-accumulation / aftermath expansion.
 
 
 ---
@@ -178,8 +178,35 @@ The rebuild expanded beyond the working targets.
 | 16 | What the Message Changes | 24 | rebuilt v0.2 |
 | 17 | Freedom and Walls | 24 | rebuilt v0.2 |
 | 18 | Last Defense | 27 | rebuilt v0.2 |
-| 19 | What Would You Choose? | 35 | rebuilt v0.2 |
+| 19 | What Would You Choose? | 40 | expanded v0.2 |
 
-**Reader-order total: 244 chapters.**
+**Reader-order total: 249 chapters.**
 
 The expansion is intentional. Chapter count was allowed to grow whenever elapsed time, population continuity, location continuity, rescue logistics, institutional consequences, or emotional processing required lived scenes.
+
+
+## V19 production refinement — Trial consequences
+
+V19's expansion from 35 to 40 chapters is intentional.
+
+New required runway:
+```text
+death loops
+-> consequence loops
+-> body learns reset
+-> scale reaches hundreds
+-> people choose Mau
+-> "Because they're my family"
+-> real free-choice question
+-> Return / Stay
+-> visible post-Trial trauma
+-> Mau realizes everyone else gets one life / one decision
+-> community choice process
+-> future-regret planning
+-> backdoor inquiry
+-> interception
+-> agency confrontation
+```
+
+Backdoor motivation:
+Mau is not trying to prove he knows the correct answer. The Trial convinced him the opposite: there may be no painless correct answer. His error is trying to spare everyone the burden of discovering that through their own irreversible choice.

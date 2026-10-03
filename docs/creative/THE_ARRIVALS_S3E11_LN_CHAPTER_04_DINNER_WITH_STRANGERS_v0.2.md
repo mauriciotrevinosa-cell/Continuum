@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 20 — Dinner With Strangers
+## Chapter 27 — Dinner With Strangers
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 20  
-**Continuity state:** Day 3 — evening | Mau: first communal meal after return | G5: all still guest-status / physically accounted for
+**Reading order:** 27  
+**Continuity state:** Day 4 — evening | Mau: first communal meal after return | Named G5 cohort: still guests / temporary / undecided
 
 Dinner required two tables.
 

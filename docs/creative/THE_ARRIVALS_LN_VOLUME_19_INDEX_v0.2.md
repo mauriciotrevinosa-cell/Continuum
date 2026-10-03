@@ -117,6 +117,35 @@ Their answer is, in substance:
 > Your suffering does not give you authority over our one real choice.
 > Let us decide.
 
+## Ten-day clock / S3-S4 handoff lock
+
+The Return/Stay offer opens a **ten-day decision window**.
+
+Active timing:
+
+```text
+Day 0  Mau exits Trial physically intact but conditioned by hundreds of loops
+Night 0  almost no sleep / repeated remembered deaths
+Day 1  real people's questions trigger Trial consequence-patterns
+Night 1  fragmented sleep / wake-reset confusion
+Day 2  Mau functions publicly while accumulating future-regret scenarios
+Night 2  private modeling -> four versions of note
+pre-dawn Day 3  Mau leaves alone to ask for collective-return terms
+Day 3  family catches him on the road BEFORE he reaches any Goddess contact site
+Day 3  confrontation / full Trial disclosure / Mau Jail Part Two
+end S3  seven days remain; no final individual Return/Stay choice has been spoken
+S4  remaining decision window + individual choices + Trial aftermath
+```
+
+The backdoor attempt is stopped **before divine negotiation begins**:
+- Mau never reaches the intended clearing;
+- the Goddess does not appear;
+- no request is made;
+- no collective terms are shown;
+- no binding agreement exists.
+
+The only completed violation is Mau choosing secrecy and attempting to carry the decision alone.
+
 ## Season-end lock
 
 - Goddess Trial authority is demonstrated as bounded domain authority;
@@ -133,10 +162,11 @@ Their answer is, in substance:
 - Mau experiences a visible post-Trial aftermath before the backdoor plan;
 - Mau recognizes that real residents have one life each while he received hundreds of iterations;
 - Mau's evolved flaw is carrying everyone else's irreversible choice/regret;
-- family intercepts before any binding collective agreement;
+- family intercepts Mau on the road before he reaches the intended Goddess contact site or asks any divine question;
 - Frieren identifies the agency violation directly;
 - the confrontation explicitly acknowledges rather than minimizes Mau's Trial trauma;
 - Mau Jail Part Two follows as consequence and immediate safety boundary, not cure;
-- Trial aftereffects continue into S4;
+- a ten-day Return/Stay window is active; S3 ends on Day 3 with seven days remaining;
+- Trial aftereffects continue into S4 and materially shape the remaining choice window;
 - final image is present-tense Mau/Frieren contact while choices remain unanswered;
 - first final individual choice belongs to S4.

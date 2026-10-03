@@ -302,6 +302,8 @@ Not courage.
 
 Avoidance.
 
+Survival now had evidence attached.
+
 The body learned:
 if I die first, I do not have to live in the world after.
 

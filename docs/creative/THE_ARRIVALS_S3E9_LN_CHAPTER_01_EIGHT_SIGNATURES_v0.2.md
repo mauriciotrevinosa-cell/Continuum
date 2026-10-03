@@ -1,153 +1,249 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 7 — Eight Signatures
+## Chapter 9 — Eight Signatures
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 7  
-**Continuity state:** First disappearance, Day 2 — before dawn | G5: old inn guests | Mau: missing | Diablo: field search
+**Reading order:** 9  
+**Continuity state:** First disappearance, Day 3 — pre-dawn | Diablo has produced multiple false positives / G5 | Frieren joins field search | Mau still missing
 
-Diablo found the count shortly before dawn.
+The first three times Diablo said:
 
-Not tracks.
+"I found something."
 
-Not bodies.
+he brought a person home.
 
-Presences.
+Not Mau.
 
-He had moved north alone after settling the last of the haul onto a route toward the inn.
+By the fourth, Frieren had stopped believing the sentence.
 
-Milim joined him an hour later with a map folded incorrectly and no apology.
+That was why the next one scared her.
 
-"You were supposed to wait for a lead."
+They were north of the inn.
 
-"I did."
+Diablo ahead.
 
-"For how long?"
+Frieren behind him.
 
-"Enough."
+Milim had joined because Rimuru had finally decided one absurdly fast person was useful if she agreed not to solve the forest by removing it.
 
-Diablo decided Rimuru could handle that argument later.
+She agreed.
 
-The forest became strange gradually.
+Technically.
 
-Not cursed.
-
-Not demonic.
-
-Not one system.
-
-That irritated him.
-
-He stopped on a ridge.
-
-Milim almost kept going.
-
-Diablo raised one hand.
-
-She stopped.
+Diablo stopped so abruptly Frieren almost passed him.
 
 "What?"
 
-He listened with senses Continuum allowed imperfectly.
+He raised one hand.
+
+No smile.
+
+That mattered.
+
+Milim tilted her head.
+
+"I feel them."
+
+Frieren felt pressure too.
+
+Not one thing.
+
+Several.
+
+Layered.
+
+Wrong.
+
+Diablo changed how he was sensing.
+
+The previous false positives had been isolated.
+
+One strange signature.
+
+One Arrival.
+
+One person whose Continuum adaptation made them feel unstable enough to fit Mau's terrible description.
+
+This was not that.
 
 One.
 
 Two.
 
-A gap.
-
 Three.
 
-Then several signatures overlapped in ways that made counting difficult.
+A gap.
 
-He changed method.
+Four.
+
+Five.
+
+Overlapping.
+
+Six.
+
+Seven.
 
 Eight.
 
-Exactly eight presences strong or strange enough to make his instincts classify the area as dangerous.
+Exactly eight presences strong or strange enough to make even Diablo stop treating his own confidence as evidence.
 
-Not necessarily hostile.
-
-Dangerous.
-
-Milim's expression shifted.
-
-"You feel them too?"
-
-"Not the same way."
-
-"How many?"
-
-"Eight."
-
-Milim grinned.
-
-Diablo looked at her.
-
-"No."
-
-"I didn't say anything."
-
-"You did with your face."
-
-He studied the valley below.
-
-Mau's verified search direction had drifted toward the same zone.
-
-That did not mean the eight had him.
-
-It meant charging in would be stupid.
-
-Diablo had known Rimuru long enough to recognize when returning with information was more valuable than returning with a dramatic corpse.
-
-"We go back."
-
-Milim stared.
-
-"Back?"
-
-"Report."
-
-"But Mau might be there."
-
-"Correct."
-
-"Then we should—"
-
-"Know whether the eight are the reason he is there before we make eight unknown powers react to us."
-
-Milim hated caution.
-
-She also understood it.
-
-Barely.
-
-They turned.
-
-As they moved south, Diablo detected something weaker under the eight.
-
-Not a ninth presence.
-
-A human pattern.
-
-Intermittent.
-
-Faint.
-
-Possibly unconscious.
-
-Possibly dying.
-
-He did not tell Milim until they were already moving faster.
-
-Then:
-
-"There may be someone with them."
-
-Milim's face lost every trace of playfulness.
+Frieren's fingers tightened around staff.
 
 "Mau?"
 
-"Possibly."
+Diablo did not answer immediately.
 
-That word followed them all the way back.
+Good.
+
+He had learned.
+
+Then:
+
+"Something weaker is inside the same area."
+
+Frieren moved.
+
+Diablo appeared in front of her.
+
+She almost attacked him again.
+
+"Move."
+
+"No."
+
+"Diablo."
+
+"We do not know what the eight are."
+
+"I don't care."
+
+"I know."
+
+That answer stopped her for half a second.
+
+Milim looked between them.
+
+"I can go look."
+
+Both:
+
+"No."
+
+Milim crossed arms.
+
+Frieren stepped closer to Diablo.
+
+"If that's him—"
+
+"If it is, charging eight unknown powers gives them one frightened elf, one demon and one angry Milim to react to."
+
+"Angry?"
+
+Milim:
+
+"I'm getting there."
+
+Diablo ignored.
+
+Frieren's eyes were red from no sleep.
+
+Her magic had become too close to skin.
+
+She looked past him.
+
+The weak pattern flickered.
+
+Gone.
+
+Back.
+
+Human enough to hurt.
+
+Frieren whispered:
+
+"Mau."
+
+This time not certainty.
+
+Prayer.
+
+Diablo did not correct her.
+
+He produced a signal for Rimuru.
+
+No universal telepathy.
+
+A prearranged flare and route mark.
+
+Milim carried the actual message because speed now mattered more than subtlety.
+
+"Tell Rimuru eight. Tell him one weak pattern. Tell him we are not entering until he knows."
+
+Milim:
+
+"Why me?"
+
+"Because you can be back before Frieren kills me."
+
+Frieren's eyes moved to him.
+
+Diablo smiled carefully.
+
+"Humor."
+
+"Bad."
+
+"Agreed."
+
+Milim vanished.
+
+Frieren sat on a rock only because Diablo refused to move from directly in front of the path.
+
+She hated him.
+
+Not personally.
+
+Functionally.
+
+Minutes felt worse than hours.
+
+Then the weak signature disappeared again.
+
+Frieren stood.
+
+Diablo did not move.
+
+"Ten seconds."
+
+"You are not Rimuru."
+
+"No."
+
+"Then don't copy him."
+
+"An excellent strategy can survive authorship."
+
+Frieren created a small gravity distortion beside his shoulder.
+
+Not attack.
+
+Threat.
+
+Diablo looked at it.
+
+"Noted."
+
+Milim returned before ten seconds ended.
+
+"Rimuru's coming. Yuta too. Ori. Qifrey stays back. Himmel on extraction."
+
+Frieren was already moving.
+
+Diablo did not stop her now.
+
+The eight signatures were no longer another accidental G5 candidate.
+
+For the first time since he started searching, Diablo had found something that might actually belong to Mau's disappearance.
+
+And for the first time in almost three days, Frieren had a direction strong enough to be afraid of.

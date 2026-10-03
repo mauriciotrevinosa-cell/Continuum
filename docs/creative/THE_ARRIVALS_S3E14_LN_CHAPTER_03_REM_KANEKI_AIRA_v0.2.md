@@ -4,118 +4,240 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 3  
-**Continuity state:** Day 13 — morning | Rescue trio meet wider search group, not yet household residents
+**Continuity state:** Day 13 — morning | Search group and field rescuers combine care | Mau not transport-ready
 
-Introductions happened twelve hours late.
+Introductions happened after the first night because before then nobody had earned enough quiet for names to matter.
 
-Appropriate.
+Frieren knew Rem by the way she changed cooling cloths without disturbing Mau.
 
-Rem bowed.
+She knew Kaneki by the way everyone stopped approaching Mau from behind when he spoke.
 
-Kaneki did not.
+She knew Aira by the fact that every loose object within three meters of the bedding had somehow been moved somewhere safer.
 
-Aira asked where breakfast was.
+That was more useful than names.
 
-Stark, who had arrived with the supply wagon, liked her immediately for that.
+Still, names arrived.
 
-None of the three had agreed to move into anyone's settlement.
+"Rem."
 
-Important.
+She bowed.
 
-They had helped.
+"Kaneki."
 
-That created gratitude, not ownership.
+A nod.
 
-Rimuru explained the old inn.
+"Aira."
 
-The future site.
+Aira was eating while introducing herself.
 
-The fact that the household would offer them a place to recover when they returned.
+Stark, who had arrived with the relief supplies before dawn, approved immediately.
 
-Aira stopped him.
+Rimuru sat with all three several feet from Mau.
 
-"When?"
+Not interrogation.
 
-"When what?"
+Handoff.
 
-"When we return."
+"Tell me what changed after you found him."
 
-Rimuru blinked.
+Rem went first.
 
-"You don't have to."
+Fever rose in waves.
+
+Breathing mostly stable between episodes.
+
+Water only when awake enough.
+
+Long stretches where waking him was difficult.
+
+Kaneki continued.
+
+"The structure appears more often when he is distressed. Sometimes during the larger episodes. Not every time."
+
+"Does touching it make things worse?"
+
+"I don't know. We didn't experiment on him."
 
 Good.
 
-Kaneki noticed.
+Aira:
 
-Rem did too.
+"He tries to walk when he wakes confused."
 
-Rimuru corrected:
+Frieren looked over.
 
-"When Mau can travel, we're going back north. You're welcome to come. Or not."
+Aira saw.
 
-Aira nodded.
+"He wasn't trying to run from us. He thought he was somewhere else."
 
-"Better."
+"Where?"
 
-Mau's entire season kept teaching people the same lesson in different forms.
+"Different places."
 
-Agency before assumptions.
+Ori, from beside Mau:
 
-Rem asked whether someone at the inn knew how to deal with Mau's fever.
+"Once the inn. Once a bridge that wasn't there."
 
-"Maomao."
+Rimuru wrote.
 
-Maomao looked at her.
+"Recognition?"
 
-"I am here."
+Rem looked at Ori.
 
-Rem nodded.
+Ori answered.
 
-"Then someone at the inn who can make everyone else eat."
+"Changes."
 
-Fern was not there.
+"How fast?"
 
-Stark said:
+"Seconds sometimes."
 
-"Fern."
+Frieren's hands tightened.
 
-Correct.
+She had seen it.
 
-Kaneki asked whether there would be food he could tolerate.
+Rimuru did not soften the question.
 
-Rimuru did not know.
+"Who stays most consistent?"
 
-He did not pretend.
+Ori hesitated.
 
-"We'll figure out what this world supports."
+"Me."
 
-Kaneki looked at Mau.
+That hurt Frieren.
 
-Same phrase Mau would once have told him in another version of S3.
+Not because Ori had done anything wrong.
 
-Now Rimuru said it first.
+Because reality had chosen a cruel shape.
 
-Relationships did not need to orbit Mau to exist.
+Rimuru saw the reaction and did not interpret it aloud.
 
-Aira stretched.
+"Anyone else?"
 
-"So we're not residents."
+"Sometimes Kaneki."
 
-"No."
+Kaneki frowned.
 
-"Not a team."
-
-"No."
-
-"Not obligated."
+"Not because he knows me."
 
 "No."
 
-She smiled.
+Ori showed the notebook.
 
-"Great. Let's get him home."
+The earlier name.
 
-Temporary rescue partnership.
+Rimuru stared at it longer than he wanted.
 
-Chosen one step at a time.
+Then closed the page.
+
+Not now.
+
+Aira pointed toward Mau.
+
+"There's another thing."
+
+Everyone looked.
+
+"When too many people start asking him things, he gets worse."
+
+Frieren turned back.
+
+Mau was awake.
+
+Barely.
+
+Yuta was asking whether he knew where he was.
+
+Maomao was checking his eyes.
+
+Ori had shifted closer.
+
+Three voices.
+
+Mau's breathing climbed.
+
+The dark line beneath his back rose.
+
+Aira stood.
+
+"Like that."
+
+Kaneki moved first.
+
+"One person."
+
+Yuta stopped.
+
+Maomao stopped.
+
+Frieren said:
+
+"Mau."
+
+His eyes found her.
+
+No recognition.
+
+Frieren's chest tightened.
+
+Then Ori said nothing.
+
+She did not rescue the answer for him.
+
+Mau looked around.
+
+At Yuta.
+
+At Maomao.
+
+At Frieren.
+
+Then closed his eyes.
+
+"Too many."
+
+There.
+
+Not diagnosis.
+
+Data.
+
+Rimuru stood.
+
+"Everyone out except Frieren and one medical person."
+
+Frieren looked at him.
+
+"Why me?"
+
+"Because he chose your voice just now."
+
+Not always.
+
+Now.
+
+Maomao stayed.
+
+The others moved away.
+
+Mau's breathing slowed.
+
+The line under his back lowered.
+
+Rimuru watched from outside the shelter.
+
+Question after question began forming, but none were about absorption yet.
+
+What reduced stimulus?
+
+What triggered recognition failure?
+
+Did body changes follow stress or create it?
+
+How long could a lucid window last?
+
+Could they move him without making all of it worse?
+
+Rem, Kaneki and Aira did not become unnecessary when stronger people arrived.
+
+They became the only witnesses to the hours everyone else had missed.

@@ -4,13 +4,11 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
 **Reading order:** 34  
-**Continuity state:** Before dawn | No divine agreement exists | Mau seeks a collective-option inquiry alone
+**Continuity state:** Day 3, pre-dawn | Six-plus days remain in offer window | No divine request made | Mau has not reached intended contact site
 
-Mau left before dawn.
+Mau left at 4:23.
 
 Again.
-
-The repetition was not lost on him.
 
 Different bag.
 
@@ -18,16 +16,11 @@ Different reason.
 
 Same quiet door.
 
+The repetition was not lost on him.
+
 That should have stopped him.
 
 It didn't.
-
-He carried:
-- water;
-- coat;
-- blank terms notebook;
-- route map;
-- the fourth note left behind.
 
 No plan to die.
 
@@ -39,7 +32,7 @@ Sukuna had been about dying.
 
 This wasn't.
 
-The Trial answered from memory:
+The Trial answered:
 
 Door.
 
@@ -53,177 +46,200 @@ Someone doesn't.
 
 Mau walked faster.
 
-The settlement slept badly behind him.
+The settlement slept around him.
 
-Not everyone.
+Not entirely.
 
-Night watch remained.
+Night watch.
 
-A person at Arrival House had chosen to stay awake with a friend requesting terms in the morning.
+Arrival House lamp.
 
-Someone else would leave on a Searcher route at sunrise.
+Somebody coughing in temporary housing.
+
+A Searcher team preparing for dawn route.
 
 Life continuing.
 
-Mau passed the water court.
+The ten-day window had opened less than forty-eight hours ago.
 
-Senku had adjusted one marker yesterday.
+That fact should have embarrassed him.
 
-Mau knew because they had argued about it.
+People had barely begun asking terms.
+
+He had barely slept.
+
+Mau knew.
+
+His body supplied another memory.
+
+Years inside a loop after someone chose wrong.
+
+Not wrong universally.
+
+Wrong for that life.
+
+He kept walking.
+
+Past water court.
+
+Past marker Senku had adjusted.
 
 Real memory.
 
 Present.
 
-Good.
-
-Then a cart wheel creaked.
+A cart wheel shifted under weight nearby.
 
 Mau flinched.
 
-Trial body.
+No collapse.
 
-No danger.
+No death.
 
-Keep walking.
+Continue.
 
-The old clearing sat farther than his nervous system wanted.
+He planned to reach the first clearing.
 
-He had deliberately chosen it.
+First remembered place in Continuum.
 
-First remembered place.
+If the Goddess answered symbolism, maybe there.
 
-If the Goddess responded anywhere, maybe there.
+If not, he would try the Trial boundary.
 
-Maybe symbolism was stupid.
+Bad plan.
 
-Maybe higher entities liked it.
+He knew.
 
-Mau hated not knowing.
+Questions repeated in head.
 
-On the road he rehearsed questions.
+Does collective Return exist?
 
-Not:
-Send them home.
+Can people be restored without individual decision?
 
-At least not first.
+Can memory softening be guaranteed?
 
-Does a collective-return option exist?
+Can anyone opt out after collective mechanism starts?
 
-Can people opt out individually?
+Can the burden be carried by one chooser?
 
-Can it preserve chosen relationships?
+That last question was the real one.
 
-Can Return happen without forcing an immediate memory effect?
+Mau hated it.
 
-Can choice be deferred?
+He imagined returning with only terms.
 
-Can everyone be shown consequences without living them?
+Everyone furious.
 
-That last question stopped him.
+Frieren furious.
 
-He already knew the answer he wanted.
-
-No.
-
-He did not want anyone shown what he had been shown.
-
-Not even safely.
-
-A fraction of it had made him unable to sleep.
-
-Hundreds of loops had changed how doors sounded.
-
-What right did he have to ask everyone else to experience even a simulation of future regret?
-
-Mau walked.
-
-He imagined coming back with terms.
-
-Council.
-
-Debate.
-
-Everyone angry that he had gone alone but relieved no deal existed.
+Still no deal.
 
 Possible.
 
 Then another possibility:
 
-The Goddess offers a clean collective Return.
+The Goddess offers a way to send everyone back.
 
-Memory becomes dreamlike.
+No one must decide.
 
-Everyone wakes into source worlds with enough emotional softening that Continuum feels precious but distant.
+No one spends years wondering if love made them choose wrong.
 
-No one must decide whether love is guilt.
+Continuum fades into dream.
 
-No one spends fifty years wondering.
+Mau alone remembers.
 
-Mau knows they never chose.
+He carries anger.
 
-But they don't carry the choice.
+Guilt.
 
-He carries it.
+Loss.
+
+Fine.
+
+He had carried worse.
 
 There.
 
-The thought felt like mercy.
+The thought still felt like mercy.
 
-That was why it was dangerous.
+That was why it remained dangerous.
 
-Mau stopped walking.
+Halfway to the clearing, Mau stopped.
 
-Turned around halfway.
+Turned around.
 
 Actually turned.
 
-Took three steps home.
+Walked ten steps toward home.
 
-Then remembered Frieren falling from the bridge.
+Longer than before.
 
-Bocchi behind smoke.
+He could still go back.
 
-Ori choosing Mau.
+Wake Frieren.
 
-A stranger decades into regret.
+Show notebook.
 
-Constructs.
+Sleep.
+
+Let Day Three be terrible but ordinary.
+
+Then a memory hit so hard he bent slightly.
+
+Bocchi.
+
+Not dying.
+
+Worse.
+
+Older in a Trial life, asking:
+
+"Did I stay because I wanted to or because I was afraid leaving would hurt you?"
+
+Mau closed his eyes.
+
+Construct.
+
+Not Bocchi.
 
 Not prophecy.
 
-Mau knew.
+He understood all of it.
 
-His body did not distinguish epistemology from memory.
+Then remembered another loop:
 
-He turned back toward the clearing.
+Bocchi returned and lived happily.
 
-"This is stupid."
+Another:
 
-He said it aloud.
+Returned and regretted.
+
+Another:
+
+Stayed and never regretted.
 
 No answer.
 
-"I know."
+No answer.
+
+No answer.
+
+Mau turned toward clearing again.
+
+"If there's a way no one has to carry that question..."
+
+He could not finish.
 
 Kept walking.
 
-The betrayal was not that Mau had questions.
+Behind him, Frieren woke.
 
-Everyone had questions.
+Mau had not reached the Goddess.
 
-The betrayal was that Mau chose to ask them in a place where nobody else could interrupt the answer.
+He had not reached the clearing.
 
-By the time he reached the clearing, he had not convinced himself he was right.
+He had not asked a single divine question.
 
-He had convinced himself uncertainty was still better carried by one person than distributed across everyone he loved.
+The only irreversible thing so far was that he had left alone.
 
-That was enough to be dangerous.
-
-The Goddess did not appear immediately.
-
-Mau stood alone.
-
-Waited.
-
-For once, the person most likely to stop him was already on the way.
+That was still enough for the people behind him to run.

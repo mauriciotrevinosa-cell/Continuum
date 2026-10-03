@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 13 Index v0.2
 
-**Status:** ACTIVE REBUILD READER ORDER — PROSE EXPANSION IN PROGRESS  
+**Status:** ACTIVE MERGED READER ORDER — PROSE PASS COMPLETE  
 **Volume:** 13  
 **Season:** 3  
 **Volume title:** **Bring Him Back**  
@@ -37,9 +37,9 @@
 | 26 | The Date We Know Happened |
 | 27 | Looks Fine Is Not Fine |
 
-## Current prose-pass note
+## Final prose-pass note
 
-Chapters 1–14 now use the corrected lived progression:
+The full volume now uses the lived progression rather than compressed handoff beats:
 
 ```text
 larger search group reaches Mau
@@ -53,14 +53,18 @@ larger search group reaches Mau
 -> gradual lucid windows over days
 -> Rimuru begins with questions and pattern observation
 -> containment hypothesis emerges
--> initial refusal / consent problem
--> clear-window consent
--> Frieren's separate trust decision
--> containment
--> Raphael gains new observational access
+-> consent is rejected while Mau's state is too unstable
+-> clear-window consent is checked across time / interruption / re-explanation
+-> Frieren makes a separate trust decision
+-> containment changes observational access
+-> The Noise becomes a working designation, not a solved entity
+-> competing body-template adaptations are isolated
+-> RCT remains real but cannot solve an unstable whole-body repair target
+-> Mau is stabilized toward arrival-state, not declared human/original
+-> elf-like longevity remains future possibility, not promise
+-> reconstruction accepts permanently uncertain memories
+-> present-tense recovery date restores "I'll remind you / as many as it takes"
 ```
-
-Chapters 15–27 still require the same full-prose expansion standard before Volume 13 is considered prose-complete.
 
 ## Handoff continuity lock
 

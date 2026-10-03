@@ -5,7 +5,8 @@
 **Branch:** `m3/critical-path`  
 **Reader-order chapters:** **258**  
 **Volumes:** **10–19**  
-**Final merge date:** 2026-10-03
+**Final merge date:** 2026-10-03  
+**Final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`
 
 ## Source-of-truth rule
 

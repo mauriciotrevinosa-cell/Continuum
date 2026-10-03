@@ -96,6 +96,12 @@ Senku and Suika were sleeping at the site tonight but still counted as temporary
 
 Vamola too.
 
+Kusuri too, with one additional symbol Nano invented for MEDICAL / CHEMICAL STORAGE RESPONSIBILITY.
+
+Kusuri hated the symbol.
+
+Nano refused to change it.
+
 Nijika and Ryo remained at the inn with Bocchi and Kita.
 
 Mai stayed because "undecided" was still an answer.

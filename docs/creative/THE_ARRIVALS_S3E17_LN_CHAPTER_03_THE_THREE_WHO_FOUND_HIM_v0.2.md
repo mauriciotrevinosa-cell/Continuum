@@ -4,98 +4,228 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 25  
-**Continuity state:** Day 24 | Rem/Kaneki/Aira choose next steps explicitly
+**Continuity state:** Day 24 | Rem/Kaneki/Aira choose next steps independently
 
 Nobody offered Rem, Kaneki and Aira permanent rooms.
 
-They offered choices.
+That was deliberate.
 
-Guest longer.
+The household had a bad habit of turning rescue into family before asking whether the rescued person wanted either.
+
+Fern called the conversation in the common room.
+
+Not a ceremony.
+
+Options.
+
+Stay as guest.
 
 Travel.
 
-Join a native town.
+Move to a nearby native town.
 
-Help at the future site.
+Help at the future site temporarily.
 
-Leave with a route map.
+Use the inn as base while searching for someone.
 
-Stay near the inn while deciding.
+Leave with food and route information.
 
-Aira answered first.
+Ask later.
 
-"I'm staying for now."
+Aira looked at the list.
 
-"Resident?" Nano asked.
+"Temporary resident sounds terrible."
 
-"No."
+Nano, who had insisted on writing categories because somebody had to remember where people slept, asked:
 
-"Guest?"
+"What do you prefer?"
 
-"That sounds passive."
+Aira thought.
 
-"Temporary resident?"
+"Person who lives here until she doesn't."
 
-Aira considered.
+Nano stared.
 
-"Fine."
+"Too long."
 
-Kaneki asked about food again.
+"Temporary resident."
 
-Maomao had found one partial solution.
+"Excellent."
+
+Aira chose first.
+
+Not because she had no one elsewhere.
+
+Because she wanted time.
+
+The settlement interested her.
+
+Mikasa's route drills interested her.
+
+Several people annoyed her enough that leaving immediately would feel like losing.
+
+Good enough.
+
+Kaneki took longer.
+
+His first concern was food.
+
+Not romance.
+
+Not belonging.
+
+Biology.
+
+Maomao had found one partial arrangement.
+
+Enough to avoid immediate crisis.
 
 Not comfortable.
 
-Enough to stop immediate crisis.
+Not solved.
 
-He chose temporary residency too because moving while still solving basic biology was stupid.
+Kaneki looked at the route map.
 
-Rem took longest.
+Then at the food notes.
 
-She had people she cared about elsewhere.
+"Traveling while figuring this out sounds stupid."
 
-A history not erased by helping Mau.
+Maomao:
+
+"Correct."
+
+He looked at her.
+
+"That wasn't a request for agreement."
+
+"Still correct."
+
+Temporary resident.
+
+For now.
+
+Rem waited until last.
+
+Mau noticed.
+
+Not because he was watching her specifically.
+
+Because silence grew around her.
+
+Rem had people she cared about.
+
+Names not present.
+
+Possibilities not resolved.
+
+Helping Mau did not erase her source life.
 
 She chose:
 
-temporary guest, active search for known loved ones.
+guest.
+
+Search active.
+
+No residency decision.
 
 Different.
 
-All three remained visible.
+Fern wrote it without disappointment.
 
-Not one rescue trio forever.
+Good.
 
-Aira began training with people near her capabilities.
+Afterward, the three did not become a unit forever.
 
-Kaneki spent time with Maomao and later Mau when biology made conversation useful.
+Aira joined Mikasa on route drills.
 
-Rem helped Arrival-like intake before Arrival House existed, mostly because frightened people responded to her calm.
+Discovered she hated how quietly Mikasa corrected mistakes.
 
-Mau thanked them.
+Kaneki spent time with Maomao because his body made practical conversation necessary.
 
-Once.
+He also sat with Mau sometimes.
 
-Not every chapter.
+At first they spoke about the kagune-like manifestation.
+
+Then less.
+
+Rem helped at the inn.
+
+New arrivals trusted her calm before they knew why.
+
+She became useful to the proto-intake process without being absorbed into it.
+
+One evening, Mau found all three in the common room at once.
+
+Rare.
+
+Aira arguing.
+
+Kaneki listening.
+
+Rem folding cloth.
+
+Mau stood awkwardly.
+
+"Thank you."
+
+Aira looked at him.
+
+"For what?"
+
+Mau almost laughed.
+
+"The forest."
+
+"Very specific."
+
+"Finding us. Staying. Not dying."
+
+Aira accepted that.
+
+Rem smiled.
+
+Kaneki looked at Mau.
+
+"Don't make it debt."
+
+Mau stopped.
+
+There.
+
+The instinct had already begun.
+
+If someone saved him, he owed.
+
+If he owed, he should repay.
+
+If he could repay enough, perhaps he deserved staying.
+
+Kaneki had seen enough self-consuming logic in different forms to recognize the shape.
 
 Rem said:
 
 "You would have helped us."
 
-Mau started to answer.
+Mau opened his mouth.
 
-Kaneki cut in.
+Kaneki raised one finger.
 
-"Don't turn that into debt."
-
-Mau stopped.
-
-Good.
+Mau closed it.
 
 Aira pointed.
 
-"See? Learning."
+"Learning."
 
 Mau flipped her off.
 
-Also learning.
+"Also learning."
+
+They laughed.
+
+The rescue remained important.
+
+It did not become a contract.
+
+Three people had found Mau at one of his worst moments.
+
+Now they got to become whatever came next without that moment owning them.

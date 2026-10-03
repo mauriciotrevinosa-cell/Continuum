@@ -4,21 +4,31 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
 **Reading order:** 8  
-**Continuity state:** Trial loops 2–3 | Agency becomes explicit before Mau understands the real test
+**Continuity state:** Trial loops 2–3 | Another person's explicit agency enters the equation before Mau understands the real test
 
 The second scenario gave Rimuru enough information to argue.
 
 That was worse.
 
-Containment failure.
+Containment room.
+
+Not the real one.
+
+Close enough.
 
 Two control points.
 
-One would fail with whoever held it.
+One on each side of a failing barrier.
 
-Rimuru read the rule.
+Words:
 
-Mau did too.
+ONE CONTROL MUST REMAIN OCCUPIED UNTIL DISCHARGE COMPLETES.
+
+OCCUPANT WILL NOT SURVIVE.
+
+Mau read.
+
+Rimuru read.
 
 Then Rimuru grabbed Mau by the coat.
 
@@ -42,17 +52,23 @@ The words came too fast.
 
 Both heard them.
 
-The field screamed around them.
+Rimuru's grip loosened.
+
+There.
+
+The deeper thing.
+
+Mau heard it too.
+
+Didn't stop.
+
+The containment field screamed.
 
 Thirty seconds.
 
-Rimuru tightened his grip.
+Mau ran to the controls.
 
-"Listen to me."
-
-Mau was already looking for another mechanism.
-
-Link both controls.
+Link both.
 
 Blocked.
 
@@ -60,13 +76,11 @@ Duplicate operator.
 
 Blocked.
 
-Transfer load.
+Transfer load into Construction.
 
-Rule rebalanced.
+The rule redistributed.
 
-Twenty seconds.
-
-Rimuru understood what Mau was doing.
+Rimuru came beside him.
 
 "You're turning my choice into a technical problem."
 
@@ -74,35 +88,106 @@ Rimuru understood what Mau was doing.
 
 "Not the point."
 
-Ten.
+"Then what is?"
 
-Mau looked at him.
+"That I am standing here telling you what I choose."
+
+Twenty seconds.
+
+Mau refused to look at him.
+
+He was building a third route.
+
+Rimuru grabbed his wrist.
+
+"Look at me."
+
+Mau did.
+
+Rimuru was afraid.
+
+That should have helped Mau respect the choice.
+
+Instead it made him more certain Rimuru was choosing badly.
+
+"You're scared."
+
+"Yes."
+
+"So you're not—"
+
+"Don't."
+
+Rimuru's voice became quiet.
+
+"Do not use fear to disqualify me."
+
+Mau went still.
+
+Ten seconds.
 
 Rimuru let go.
 
 "If you do this, don't call it protecting me."
 
-Mau took the failing control anyway.
+Mau's face changed.
+
+"What?"
+
+"You're overriding me."
+
+Five.
+
+Mau looked at the failing control.
+
+Then Rimuru.
+
+Then took the control anyway.
+
+The discharge began.
 
 Pain came slower than the first death.
 
+Heat.
+
+Pressure.
+
+Nerves lighting one by one.
+
 Long enough to hear Rimuru shouting.
 
-Long enough to know he had ignored a direct choice.
+Long enough to know exactly what he had done.
 
-Then nothing.
+Not:
+saved Rimuru.
+
+Ignored him.
+
+The distinction arrived before death.
+
+That made it worse.
 
 Anchor.
 
 Two.
 
-Mau returned angry enough that fear hid underneath.
+Mau came back furious enough that fear hid underneath.
 
-The Goddess asked:
+He hit the floor with one hand.
+
+"Again."
+
+The Goddess:
 
 "Why?"
 
-Mau said nothing.
+Mau looked up.
+
+No answer.
+
+Not because he lacked one.
+
+Because the answer sounded wrong now.
 
 Third scenario.
 
@@ -112,21 +197,75 @@ No name.
 
 No family.
 
-No special attachment.
+No shared world.
 
-The choice was simpler.
+A collapsing walkway above dark water.
 
-Leave.
+The stranger had a clear line to Mau's exit.
 
-They die.
+Mau had a clear line to theirs.
 
-Stay.
+Words:
 
-Mau dies.
+LEAVE:
+MAU SURVIVES.
+STRANGER DIES.
 
-The stranger begged him to leave.
+STAY:
+MAU DIES.
+STRANGER SURVIVES.
 
-Mau stayed.
+The stranger understood.
+
+"Go."
+
+Mau stared.
+
+"What?"
+
+"Go!"
+
+They were crying.
+
+"I don't know you."
+
+"I know!"
+
+Mau almost laughed.
+
+No relationship to make heroic.
+
+No debt.
+
+No future promise.
+
+"Please."
+
+The stranger wanted him to live.
+
+That should have mattered.
+
+Mau moved toward the exit.
+
+One step.
+
+Stopped.
+
+Could not.
+
+The stranger saw.
+
+"No."
+
+Mau turned back.
+
+"Sorry."
+
+"For what?"
+
+Good question.
+
+Mau crossed the hazard line.
 
 Death.
 
@@ -134,16 +273,49 @@ Anchor.
 
 Three.
 
-That confused the easy explanation.
+This time he returned already on his knees.
+
+The Goddess asked:
+
+"Why?"
+
+Mau's hands shook.
+
+He stared at them.
+
+"Because their life doesn't become cheaper because I don't know them."
+
+Outside, Rimuru closed his eyes.
+
+Frieren looked at him.
+
+"You heard yourself."
+
+Mau could not hear her.
+
+But the real Rimuru had.
+
+So had everyone watching.
+
+The Trial was removing the easy explanation.
 
 Mau did not sacrifice himself only because love was exceptional.
 
-Outside, Rimuru watched the constructed version of himself demand agency and watched Mau refuse.
+He had a deeper arithmetic.
 
-He understood before Mau did:
+Other life:
+full value.
 
-the Trial was not asking whether Mau loved enough to die.
+His own:
+available resource.
 
-Everyone already knew that.
+The Goddess had not asked whether Mau would die for family.
 
-It was asking whether he could love enough to let someone else own their risk.
+Everyone already knew that answer.
+
+The Trial was beginning to ask something Mau had spent the season avoiding in smaller forms:
+
+When someone else says,
+my risk,
+my choice,
+can you let their voice remain real even when you could pay the cost instead?

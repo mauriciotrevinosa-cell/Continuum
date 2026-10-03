@@ -4,25 +4,79 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
 **Reading order:** 9  
-**Continuity state:** Early Trial | Mau learns self-sacrifice is not limited to intimacy
+**Continuity state:** Early Trial | Mau's sacrifice rule expands beyond intimacy, innocence and approval
 
 The fourth designated person had no name.
 
+That was deliberate.
+
 No shared history.
 
-No reason Mau could call them family.
+No face Mau recognized.
+
+No reason he could rename self-sacrifice as loyalty.
 
 A stranger stood across a collapsing corridor.
 
-Terrified.
+Dust.
 
-Mau had a clear exit.
+Metal.
+
+One clear exit behind Mau.
+
+The stranger saw it.
 
 "Please go."
 
-They were asking him to leave.
+Mau did not move.
 
-Mau went back.
+"Go!"
+
+The corridor shifted.
+
+Words appeared only long enough to confirm the shape.
+
+Mau could leave.
+
+They would die.
+
+Mau could cross.
+
+He would.
+
+No third route visible.
+
+Mau searched anyway.
+
+Ceiling.
+
+Floor.
+
+Supports.
+
+Construction.
+
+Noise.
+
+No.
+
+The stranger understood what he was doing.
+
+"Stop."
+
+Mau looked at them.
+
+"You don't know me."
+
+"Exactly!"
+
+They almost laughed from panic.
+
+"Why are you doing this?"
+
+Mau had no answer that sounded normal.
+
+He went back.
 
 Death.
 
@@ -30,15 +84,17 @@ Anchor.
 
 Four.
 
-The fifth scenario used someone Mau recognized from the sanctuary conflict.
+The fifth scenario used someone Mau recognized.
 
-A collaborator.
+A sanctuary collaborator.
 
-Not innocent in the clean way stories preferred.
+Not the one from Last Defense.
 
-Someone whose choices had hurt people.
+Another person.
 
-Coercion existed.
+Someone whose choices had contributed to harm.
+
+Coercion existed in their history.
 
 Responsibility too.
 
@@ -46,21 +102,61 @@ The Trial offered no moral essay.
 
 Only a door.
 
-Mau could close it and survive.
+Mau could close it.
+
+Survive.
 
 The collaborator would not.
 
-Mau hesitated.
+For the first time Mau hesitated long enough to feel anger.
 
 Good.
 
-He thought of the resident who had been harmed.
+He remembered:
+injured residents;
+fear;
+betrayal;
+people rebuilding after consequences they did not choose.
 
-Saving did not equal forgiving.
+Maybe he was allowed not to spend himself here.
 
-Protecting life did not erase consequence.
+The collaborator saw the hesitation.
 
-Mau opened the door.
+"Close it."
+
+Mau looked at them.
+
+"What?"
+
+"If this is punishment, fine."
+
+"No."
+
+"You don't know what I did."
+
+"I know enough."
+
+"Then close it."
+
+Mau's hand reached the mechanism.
+
+Could.
+
+One movement.
+
+The harmed resident from Last Defense flashed into memory.
+
+Not forgiveness.
+
+Function.
+
+Saving a life did not erase harm.
+
+Letting someone die did not repair it either.
+
+Mau opened the wrong door for survival.
+
+His.
 
 Death.
 
@@ -68,35 +164,80 @@ Anchor.
 
 Five.
 
+The Goddess:
+
 "Why?"
+
+Mau came back breathing hard.
 
 "Saving them doesn't forgive them."
 
-Next.
+No answer.
+
+Good.
+
+He continued.
+
+"They can still face consequences."
+
+No answer.
+
+"But death isn't mine to assign because I hate what they did."
+
+Outside, the resident who had been harmed by a collaborator heard him.
+
+Her face changed.
+
+Not softened.
+
+Good.
+
+No manufactured reconciliation.
+
+Six.
 
 A hostile fighter from Last Defense.
 
-Someone who had tried to hurt people Mau loved.
+Someone who had actually tried to hurt people Mau loved.
+
+The fighter recognized Mau.
+
+"You."
+
+Mau recognized him too.
 
 Anger came first.
 
-Also good.
+Human.
 
 The fighter was trapped.
 
-Mau had a route out.
+Mau had an exit.
 
 "If you hate me, go."
 
 For one second, Mau imagined doing it.
 
-Not because he believed the person's life was worthless.
+Not with pleasure.
 
-Because maybe he was allowed not to spend himself for everyone.
+With exhaustion.
+
+Maybe this was the line.
+
+Maybe he could finally say:
+I do not owe everyone my body.
 
 The thought almost survived.
 
-Then Mau turned back.
+Then the fighter laughed bitterly.
+
+"See? You don't even know why you're staying."
+
+Mau looked at him.
+
+That hurt because true enough.
+
+Mau turned back.
 
 Death.
 
@@ -104,38 +245,85 @@ Anchor.
 
 Six.
 
-The Goddess asked:
-
 "Why?"
 
 Mau stayed on the floor this time.
 
-The anchor had returned him standing.
+The anchor always returned him standing.
 
-His mind had not followed.
+His mind had stopped honoring the position.
 
 "Because their life doesn't become cheaper because I don't like them."
 
-Outside, a resident harmed by that same faction heard him.
+Seven.
 
-No forgiveness followed.
+A person who insulted him.
 
-Good.
+Death.
 
-No manufactured reconciliation.
+Eight.
 
-The Trial was exposing a rule:
+Someone who wanted to die.
 
-Mau assigned value to other lives even without affection.
+Mau tried to talk them out of it.
 
-His own life did not receive equal protection.
+Scenario clock did not care.
 
-Seven began.
+Death.
 
-Then eight.
+Nine.
 
-By ten, "heroism" was no longer a useful explanation.
+Someone who begged Mau to let them take the loss.
 
-By twelve, Mau knew it too.
+Mau refused.
 
-He still chose himself.
+Death.
+
+Ten.
+
+By ten, heroism was no longer a useful explanation.
+
+By twelve, Mau knew it.
+
+The Trial varied affection.
+
+Guilt.
+
+Innocence.
+
+Responsibility.
+
+Gratitude.
+
+Mau's answer barely changed.
+
+He could imagine moral complexity for everyone except himself.
+
+Others could be:
+afraid and still valuable;
+guilty and still alive;
+angry and still worthy;
+unknown and still worth saving.
+
+Mau remained:
+available.
+
+Outside, Frieren understood the pattern.
+
+She whispered:
+
+"He isn't choosing them."
+
+Rimuru looked at her.
+
+"What?"
+
+"Not really."
+
+Frieren watched Mau die again for someone whose name he did not know.
+
+"He's choosing against himself."
+
+That was different.
+
+And much harder to fix.

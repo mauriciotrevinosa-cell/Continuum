@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
 **Reading order:** 10  
-**Continuity state:** Approx. loop 17 | Trial proves survival can be the punishment
+**Continuity state:** Approx. loop 17 | Trial demonstrates that Mau surviving can itself become punishment
 
 Mau thought it was loop seventeen.
 
@@ -14,7 +14,11 @@ He still believed the number mattered.
 
 Bridge.
 
+River.
+
 Frieren.
+
+The scenario was clean enough to be cruel.
 
 Two routes.
 
@@ -28,9 +32,9 @@ He would die.
 
 Frieren would live.
 
-Mau looked for a third.
+Mau did what he always did.
 
-Of course.
+Looked for three.
 
 Under.
 
@@ -38,13 +42,15 @@ Above.
 
 Construction.
 
-Noise.
+The Noise.
 
-Attack the anchor.
+Anchor.
 
-Break the bridge before the rule did.
+Bridge supports.
 
-Every method preserved the decision topology.
+Destroy the bridge before it could choose.
+
+Every method preserved the topology.
 
 The Trial did not reward cleverness merely because cleverness felt morally cleaner.
 
@@ -64,9 +70,25 @@ Frieren stopped.
 
 That hurt too.
 
+Mau looked at her.
+
+"Sorry."
+
+"Good."
+
+He hated that she still sounded like herself.
+
 Twenty seconds.
 
-Mau tried again.
+Mau tried to bridge both routes.
+
+The structure changed.
+
+Fifteen.
+
+He tried to reach Frieren physically.
+
+Distance stretched.
 
 Ten.
 
@@ -76,25 +98,49 @@ Frieren:
 
 "No."
 
+There.
+
+Again.
+
+She closed her eyes.
+
+Not surrender.
+
+Anger.
+
+"If you die, I live with that."
+
+Mau:
+
+"I come back."
+
+"You don't know what I live with."
+
 Five.
 
-Time expired.
+That sentence should have stopped him.
 
-The section beneath Frieren failed.
-
-She fell.
-
-Mau ran.
+Instead Mau reached for the stabilization point.
 
 Too late.
 
+The bridge section beneath Frieren failed.
+
+"Mau—"
+
+She fell.
+
+He ran.
+
+No boundary stopped him.
+
+That was worse.
+
 He reached the edge.
 
-Saw her.
+Saw her below.
 
-Small.
-
-Water.
+Small against water.
 
 Impact.
 
@@ -110,45 +156,97 @@ Three.
 
 "Reset."
 
-Nothing.
+No answer.
 
 Five.
 
 "Reset."
 
-The Goddess remained silent.
+Nothing.
+
+Mau's body began shaking.
 
 Eight.
 
-Mau understood.
+He understood.
 
-The punishment had changed.
+This was the loss.
 
 He was alive.
 
 Frieren was not.
 
-Ten seconds of a world after her.
+Ten seconds of world after her.
 
-Fifteen.
+The river continued.
 
-Enough.
+Wind.
+
+Bridge creaked.
+
+Nothing cared.
+
+Mau looked down.
+
+"Frieren?"
+
+Absurd.
+
+He knew.
+
+Fifteen seconds.
+
+The future opened.
+
+That was the cruelty.
+
+Not death.
+
+Continuation.
+
+A room without her.
+
+A meal.
+
+A bed.
+
+Years.
 
 Mau screamed at empty air.
 
+"RESET!"
+
+The Goddess remained silent.
+
+Twenty.
+
+Mau's hand went to his chest as if he could force a death.
+
+No.
+
+The Trial did not let him purchase escape.
+
+Thirty seconds.
+
 Anchor.
 
-He returned intact and immediately retched despite having nothing in his stomach.
+He returned whole and immediately retched despite having nothing in his stomach.
 
-Outside, real Frieren watched herself die.
+Outside, real Frieren had watched herself die.
 
 Not graphically.
 
 Worse.
 
-Long enough for Mau to continue living.
+Long enough to watch Mau continue.
 
-Fern touched her only after Frieren reached first.
+Fern stood near her.
+
+Did not touch.
+
+Frieren reached.
+
+Then Fern held her.
 
 The Goddess asked:
 
@@ -162,13 +260,41 @@ Mau stayed on his knees.
 
 Mau looked up.
 
+Anger.
+
+"What?"
+
 "One was hers."
 
-He hated the answer.
+He went still.
 
-The Trial had discovered something worse than killing him:
+The answer entered like another impact.
 
-making him survive a choice someone else could have owned.
+Frieren had asked.
+
+Let me choose.
+
+Mau had refused.
+
+Then the scenario had made him survive her anyway.
+
+Mau whispered:
+
+"That's not fair."
+
+The Goddess did not answer.
+
+Correct.
+
+The Trial was not fair.
+
+It was demonstrating a structure.
+
+Mau died easily because death ended his responsibility.
+
+Survival forced him to remain inside consequences someone else might have chosen.
+
+That terrified him more.
 
 For several loops afterward, Mau chose death faster.
 
@@ -176,6 +302,17 @@ Not courage.
 
 Avoidance.
 
-Survival now had evidence attached.
+The body learned:
+if I die first, I do not have to live in the world after.
 
-Much later, when real people faced Return or Stay, this bridge would still exist inside him.
+Outside, Frieren understood.
+
+When the real Return/Stay choice arrived later, she would remember this bridge.
+
+So would Mau.
+
+His fear of letting others choose would no longer be theoretical.
+
+He had lived the aftermath.
+
+Even if the aftermath had been constructed, his nervous system did not know how to call it unreal.

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
 **Reading order:** 11  
-**Continuity state:** Early-mid Trial | Family language is turned directly against Mau's sacrifice logic
+**Continuity state:** Early-mid Trial | Family language exposes Mau's delay-until-necessity pattern
 
 No battlefield.
 
@@ -13,6 +13,10 @@ Building fire.
 That made it worse.
 
 Smoke pressed along the ceiling.
+
+Emergency lights.
+
+A door.
 
 One mechanism.
 
@@ -30,17 +34,37 @@ Bocchi understood before Mau did.
 
 "Open yours."
 
+Mau's hand stopped.
+
 "No."
 
 "Mau."
 
 "No."
 
-She started crying.
+Bocchi started crying.
 
-Not because she wanted to die.
+Not graceful tears.
 
-Because she knew exactly what he would do.
+Full panic.
+
+Hands shaking.
+
+Breathing too fast.
+
+Mau's instinct shifted.
+
+Calm Bocchi.
+
+Protect Bocchi.
+
+Decide for Bocchi.
+
+All the same direction.
+
+"Hey. Look at me."
+
+She did.
 
 "Don't do the thing."
 
@@ -78,29 +102,65 @@ Open Mau.
 
 Bocchi dies.
 
-No third route yet.
+No third route.
 
 He searched anyway.
 
-Bocchi saw.
+Wiring.
+
+Vent.
+
+Wall.
+
+Construction.
+
+Ceiling.
+
+The mechanism did not care.
+
+Bocchi saw his eyes moving.
 
 "You're doing it again."
 
 "Doing what?"
 
-"Waiting until there's no time so you have to die."
+"Waiting."
 
 Mau looked at her.
 
-That accusation landed because part of him recognized the pattern.
+Bocchi coughed.
 
-If he delayed long enough, choice became necessity.
+"Waiting until there's no time."
 
-Necessity felt cleaner.
+Mau's face changed.
 
-Bocchi cried harder.
+She was crying too hard to make the sentence neat.
 
-"I'm not letting you call this love."
+"So you don't have to choose you."
+
+There.
+
+Mau stared.
+
+"If you wait long enough, then you have to die. And then it's not a choice anymore."
+
+The accusation landed because part of him recognized the pattern.
+
+Not only here.
+
+Roads.
+
+Fights.
+
+Memory Arc.
+
+If he could turn choice into emergency, self-sacrifice became procedure.
+
+Cleaner.
+
+Bocchi hit the barrier again.
+
+"I'm not letting you call that love."
 
 Time.
 
@@ -112,33 +172,45 @@ Not because he chose himself.
 
 Because he heard her.
 
-One second.
+For one second.
 
-Too late.
+Two.
+
+Too long.
 
 Mechanism sealed.
 
 Bocchi's corridor filled.
 
-Mau shouted.
+Mau shouted her name.
 
-The Trial did not reset immediately.
+The barrier became opaque.
 
-Again.
+Silence.
 
-Cruelty.
+The Trial did not reset.
 
-He had to stand alive in the room after Bocchi disappeared.
+Of course not.
 
-Ten seconds.
+Mau stood alive in the room after Bocchi disappeared.
 
-Long enough to know what his indecision had done.
+Five seconds.
+
+Smoke cleared from his side.
+
+Ten.
+
+Long enough to know indecision was also a choice.
 
 Anchor.
 
 Outside, real Bocchi had both hands over her mouth.
 
 Kita held her.
+
+Bocchi could not look at Mau.
+
+Could not look away.
 
 The Goddess asked:
 
@@ -150,16 +222,60 @@ Mau looked sick.
 
 Honest.
 
-Bocchi heard.
+The word hurt everyone.
 
-That hurt more than watching the constructed death.
+Bocchi lowered her hands.
 
-Mau looked toward where the barrier had been.
+Tears.
+
+No anger yet.
+
+Just pain.
+
+Inside, Mau looked toward where the barrier had been.
 
 "I don't know how."
 
-The Goddess did not answer.
+The Goddess:
 
-That was the first time Mau admitted the problem was not willingness.
+"How what?"
 
-He genuinely did not know how to allow someone he loved to choose a cost he could pay instead.
+Mau almost refused to answer.
+
+Then:
+
+"How to let them."
+
+There.
+
+Not willingness.
+
+Skill.
+
+His season had taught him to ask consent when touching.
+
+To share decisions.
+
+To stop answering for Ori.
+
+To let people move rooms, leave homes, keep secrets.
+
+Those were smaller.
+
+This was the same principle under unbearable stakes.
+
+Mau had learned the language.
+
+His body still rejected the conclusion.
+
+The next scenario began.
+
+Bocchi remained outside, alive.
+
+Mau carried a constructed death anyway.
+
+The Trial was building a library of consequences inside him.
+
+Later, when real people had one irreversible choice, Mau would mistake that library for authority.
+
+That mistake began here.

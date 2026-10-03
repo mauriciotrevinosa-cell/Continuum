@@ -7,66 +7,189 @@
 
 They sent the message by boring methods.
 
+That saved it from becoming magic propaganda.
+
 Copies.
 
 Merchants.
 
-Searchers.
+Searcher routes.
 
 Native messengers.
 
-Public boards where allowed.
+Public boards where local authorities permitted posting.
 
-No magical world broadcast.
+One copy carried by a teenager from the second community because she already traveled east weekly.
 
-That mattered.
+No world broadcast.
 
-Messages could be lost.
+No divine projection.
 
-Edited.
+No impossible communication network.
 
-Refused.
-
-Copied wrong.
+Therefore:
+messages could be lost.
+edited.
+refused.
+misread.
+copied wrong.
 
 Human scale.
 
-The statement did not say:
+Fern organized six first routes.
+
+East village.
+
+Western checkpoint towns.
+
+Second community's native village.
+
+Two market hubs.
+
+One regional administrative center.
+
+Mau looked at the map.
+
+"That's it?"
+
+"That's six."
+
+"The world is larger."
+
+Fern:
+
+"Paper is finite."
+
+Good.
+
+One merchant refused.
+
+"I don't want trouble attached to my cart."
+
+Nobody shamed him.
+
+Another agreed because checkpoint delays were hurting trade.
+
+Not ideological ally.
+
+Useful.
+
+Searcher teams carried copies with simple instructions:
+
+do not force posting.
+
+ask.
+
+document refusals.
+
+record exact wording if authorities reply.
+
+The statement itself did not say:
 
 Come join us.
 
-It said:
+Trust all Otherworlders.
 
-People from other worlds are not one army.
+Our settlement speaks for everyone.
 
-Native fear is not automatically malice.
+Instead:
 
-Real crimes still require evidence.
+people from other worlds are not one army.
 
-Sanctuary is not immunity.
+native fear is not automatically malice.
 
-Registration cannot become disappearance.
+real crimes still require evidence.
 
-Travel cannot become guilt.
+sanctuary is not immunity.
 
-Communities may cooperate without becoming one state.
+registration cannot become disappearance.
 
-The last line mattered to the second community.
+travel cannot become guilt.
+
+communities may cooperate without becoming one state.
+
+The last line mattered enough to the second community that their spokesperson checked every copy.
+
+Momo watched.
+
+"Paranoid."
+
+"Experienced."
+
+Momo nodded.
+
+Fair.
 
 Mau's name did not appear as author.
 
-Rimuru's did not either.
+Neither did Rimuru's.
 
-The main settlement had a signature block.
+Main settlement had a block.
 
-So did others.
+Second community had one.
 
-That night the message left in six directions.
+Native partners.
 
-The settlement went to sleep.
+Individuals.
+
+That visual mattered.
+
+People wanted one face.
+
+The paper refused.
+
+At sunset the first messenger left.
+
+Then another.
+
+No dramatic music.
+
+One cart wheel squeaked.
+
+A dog barked.
+
+Mau watched until the road emptied.
+
+"Feels small."
+
+Frieren stood beside him.
+
+"It is."
+
+Not criticism.
+
+Scale.
+
+One message in an enormous world.
+
+Good.
+
+"What if it changes nothing?"
+
+Frieren thought.
+
+"Then it still says what we meant."
+
+Mau looked at her.
+
+Records again.
+
+Memory Arc had changed how much records mattered.
+
+If the world lied later:
+there would be an original.
+
+If the settlement changed:
+there would be evidence of an earlier promise.
+
+Mau nodded.
+
+By night, six directions carried copies.
+
+The settlement slept.
 
 Nothing visibly changed.
 
 That was realistic.
 
-The consequences were already traveling.
+Consequences were already moving at walking speed.

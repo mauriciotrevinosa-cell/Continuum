@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 11 — Not Their Work
+## Chapter 18 — Not Their Work
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 11  
-**Continuity state:** Day 2 — midday | Mau: unconscious / stabilized by witches | External interference suspected, not identified
+**Reading order:** 18  
+**Continuity state:** Earlier — Day 2 midday | Mau: briefly lucid / stabilized by witches | External interference suspected, not identified
 
 Mau woke once before the others arrived.
 

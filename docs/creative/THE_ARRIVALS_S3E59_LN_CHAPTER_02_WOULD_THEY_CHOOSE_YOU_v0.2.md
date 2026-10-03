@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 17 — Would They Choose You?
+## Chapter 20 — Would They Choose You?
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 17
+**Reading order:** 20
 
 The settlement appeared.
 

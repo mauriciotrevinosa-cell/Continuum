@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 22 — Day One Fine
+## Chapter 29 — Day One Fine
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 22  
-**Continuity state:** Day 4 | Lived base: old inn | Mau: improving / supervised | G5: temporary guests | Future site: work resumes
+**Reading order:** 29  
+**Continuity state:** Day 5 | Lived base: old inn | Mau improving / supervised | Named G5 present | Worksite active
 
 The first day Mau looked fine, nobody trusted it.
 

@@ -267,3 +267,30 @@ Season 3 is now considered:
 **continuity-merged, prior-chat-preserving, G5-integrated, full-prose-pass complete, and mechanically audited.**
 
 Future changes should be treated as **new creator revisions**, not as completion of an unfinished compression pass.
+
+
+## 11. Reader filename normalization — 2026-10-03
+
+A post-pull reader audit found a tooling mismatch rather than missing prose.
+
+Thirteen existing S3 chapter files used alphanumeric local filename slots such as:
+- `CHAPTER_02B`;
+- `CHAPTER_02H`;
+- `CHAPTER_01B`;
+- `CHAPTER_01D`.
+
+Their chapter metadata and prose were present, but a numeric-only reader discovery pattern could skip them and falsely report index gaps.
+
+Root fix:
+- all active S3 chapter filenames now use numeric-only local chapter slots;
+- surrounding numeric files in E8, E58 and E60 were renumbered at the filename level where necessary to keep local ordering coherent;
+- **no prose or chapter metadata was removed**;
+- **0 active alphanumeric chapter filenames remain**;
+- numeric reader discovery now sees **258 / 258** active S3 chapter files;
+- Volume 11 resolves to **35 / 35** files;
+- Volume 19 resolves to **40 / 40** files.
+
+Normalization commit:
+`1334430ec89b90f9d37656c67d0a5b1d4c678493`
+
+This was a filename/tooling compatibility issue, not thirteen unwritten chapters.

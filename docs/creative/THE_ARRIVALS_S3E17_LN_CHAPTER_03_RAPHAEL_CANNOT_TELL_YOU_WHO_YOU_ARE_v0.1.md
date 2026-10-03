@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 12
 ## Chapter 20 — Raphael Cannot Tell You Who You Are
 
-**Status:** LN PRODUCTION DRAFT  
+**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 12  
 **Reading order:** 20  

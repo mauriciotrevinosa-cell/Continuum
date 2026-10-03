@@ -326,9 +326,9 @@ Not yet.
 
 When Frieren went downstairs, the grimoire was waiting on the table.
 
-Beside it sat Mau's McLaren cap.
+Beside it sat Mau's bucket hat.
 
-She picked up the cap.
+She picked up the hat.
 
 Fern said, "No."
 

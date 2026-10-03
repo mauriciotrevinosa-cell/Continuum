@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 13
 ## Chapter 8 — Coco Stops Breathing
 
-**Status:** LN PRODUCTION DRAFT  
+**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 13  
 **Reading order:** 8  

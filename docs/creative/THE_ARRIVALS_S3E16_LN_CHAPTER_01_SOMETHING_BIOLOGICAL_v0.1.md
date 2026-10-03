@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 12
 ## Chapter 15 — Something Biological
 
-**Status:** LN PRODUCTION DRAFT  
+**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 12  
 **Reading order:** 15  

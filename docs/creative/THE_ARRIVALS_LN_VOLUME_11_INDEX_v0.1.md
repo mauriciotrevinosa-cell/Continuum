@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 11 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT  
+**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
 **Volume:** 11  
 **Season:** 3  
 **Volume title:** **The Search**  

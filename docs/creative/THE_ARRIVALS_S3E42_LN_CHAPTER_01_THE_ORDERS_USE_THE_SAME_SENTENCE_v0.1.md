@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 16
 ## Chapter 4 — The Orders Use the Same Sentence
 
-**Status:** LN PRODUCTION DRAFT  
+**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 16  
 **Reading order:** 4  

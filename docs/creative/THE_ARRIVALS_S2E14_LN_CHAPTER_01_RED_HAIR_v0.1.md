@@ -95,7 +95,7 @@ Maki believed him.
 
 Later Stark met Mau.
 
-Frieren was wearing Mau's cap. Mau held Frieren's book because she had handed it to him while helping Fern.
+Frieren was wearing Mau's bucket hat. Mau held Frieren's book because she had handed it to him while helping Fern.
 
 Stark pointed.
 

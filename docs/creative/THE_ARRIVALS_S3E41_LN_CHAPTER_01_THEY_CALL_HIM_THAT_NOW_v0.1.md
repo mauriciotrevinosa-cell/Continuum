@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 16
 ## Chapter 1 — They Call Him That Now
 
-**Status:** LN PRODUCTION DRAFT  
+**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 16  
 **Reading order:** 1  

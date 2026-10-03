@@ -14,7 +14,7 @@ She watched Mau and Frieren.
 
 Mau made room for Frieren without looking.
 
-Frieren took his cap.
+Frieren took his bucket hat.
 
 Mau complained.
 

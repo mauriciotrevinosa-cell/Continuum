@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 34 — Mau Jail, Part Two
+## Chapter 39 — Mau Jail, Part Two
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 34
+**Reading order:** 39
 
 Nobody trusted Mau alone near divine contract mechanics for twenty-four hours.
 

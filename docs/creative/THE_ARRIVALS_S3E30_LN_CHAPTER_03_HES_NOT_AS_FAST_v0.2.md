@@ -6,7 +6,7 @@
 **Reading order:** 6  
 **Continuity state:** Senku cognition reduction acknowledged privately and becomes a design constraint
 
-Mau noticed Senku pausing on the third day.
+Mau noticed Senku pausing on the third day of the full audit.
 
 Not often.
 

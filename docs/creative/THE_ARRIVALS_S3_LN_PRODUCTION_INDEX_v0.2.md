@@ -1,134 +1,208 @@
 # The Arrivals — Season 3 Light Novel Production Index v0.2
 
-**Status:** ACTIVE CONTINUITY CANON — FULL-PROSE EXPANSION IN PROGRESS  
+**Status:** ACTIVE SEASON CANON — FULL-PROSE PASS COMPLETE  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
 **Reader-order chapters:** **258**  
-**Volumes:** **10–19**
+**Volumes:** **10–19**  
+**Final merge date:** 2026-10-03
 
-## Important production correction — 2026-10-02
+## Source-of-truth rule
 
-The v0.2 rebuild fixed major **continuity architecture**, but it was incorrectly labeled as a completed light-novel production draft.
+Do **not** infer authority from a filename suffix such as `v0.1` or `v0.2`.
 
-A season-wide density audit showed that many v0.2 chapter files are still written as compressed story beats rather than lived LN scenes.
+The active S3 canon is the **latest merged state on `m3/critical-path`**, preserving the complete post-v0.2 repair history and later final-prose work.
 
-Measured proxy:
-- S3 v0.2 chapter files: 227;
-- S3 v0.2 median file size before the current prose pass: ~1.28 KB;
-- 192 / 227 were below 2.5 KB;
-- 223 / 227 were below 4 KB;
-- S2 LN median for comparison: ~2.31 KB, with many major chapters in the 5–8 KB range.
+The critical pre-finalization baseline is:
 
-File size is not a quality score. It is only a useful warning signal. The actual issue is visible in the prose: too many chapters state that something happened instead of making the reader live through the event.
+`f93e68af4602cb1e5395057ba522be8ade0a0d40`
 
-Therefore:
+That point already contained the large post-v0.2 repair pass from the prior chat. It was **260 commits ahead** of the earlier handoff point `aaceea571d4ea03625ce04b2b2d96a9d7d7e72e0`.
 
-> **v0.2 is continuity-correcting story canon, not yet a fully finished LN prose pass.**
+The finalization pass is additive / merging work on top of that history. It does not roll the season back to the original v0.2 draft.
 
-Do not call S3 "complete" until the scene-density expansion pass finishes.
+V10 is the explicit filename exception:
+- its 17 active files retain legacy `_v0.1.md` names;
+- their contents were expanded and merged in place;
+- no parallel V10 `_v0.2.md` duplicates remain.
 
+## Historical production correction
 
-## No-compression guardrail — 2026-10-03
+The original v0.2 rebuild fixed major continuity architecture but was too compressed to count as a finished light novel.
+
+Before the post-v0.2 prose work:
+- many chapters were effectively story beats rather than lived scenes;
+- the old v0.2 median was roughly 1.28 KB;
+- 192 / 227 v0.2 files were below 2.5 KB.
+
+That label is now historical only.
+
+The final active season has been re-expanded while preserving the post-v0.2 continuity fixes.
+
+## No-compression guardrail
 
 New continuity decisions do **not** get paid for by shrinking already-expanded scenes.
 
-When a new locked character, consequence or scene requires space:
+Priority order:
+
+```text
+continuity
+-> lived scene
+-> downstream consequence
+-> chapter count
+```
+
+If a new locked character or consequence requires space:
 - add the scene or chapter;
 - update reader order and counts;
 - propagate the consequence forward;
-- do not collapse previous lived prose back into summary/montage.
+- never collapse prior lived prose back into summary / montage.
 
-Kusuri Yakuzen is the current explicit test case: her addition raises V11 and season chapter counts rather than replacing or compressing another G5 chapter.
+Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season count instead of replacing another G5 scene.
 
-## Reader order / continuity architecture
+## Reader order
 
-| Volume | Title | Chapters | Active continuity source |
+| Volume | Title | Chapters | Active source |
 |---:|---|---:|---|
-| 10 | Bare Ground | 17 | existing V10 v0.1 chapters, revalidated |
-| 11 | Eight Signatures | 35 | v0.2 |
-| 12 | The Second Road | 20 | v0.2 |
-| 13 | Bring Him Back | 27 | v0.2 |
-| 14 | The Move | 20 | v0.2 |
-| 15 | People Who Heard About Us | 24 | v0.2 |
-| 16 | What the Message Changes | 24 | v0.2 |
-| 17 | Freedom and Walls | 24 | v0.2 |
-| 18 | Last Defense | 27 | v0.2 |
-| 19 | What Would You Choose? | 40 | v0.2 |
+| 10 | Bare Ground | 17 | legacy-path merged V10 files |
+| 11 | Eight Signatures | 35 | latest merged files |
+| 12 | The Second Road | 20 | latest merged files |
+| 13 | Bring Him Back | 27 | latest merged files |
+| 14 | The Move | 20 | latest merged files |
+| 15 | People Who Heard About Us | 24 | latest merged files |
+| 16 | What the Message Changes | 24 | latest merged files |
+| 17 | Freedom and Walls | 24 | latest merged files |
+| 18 | Last Defense | 27 | latest merged files |
+| 19 | What Would You Choose? | 40 | latest merged files |
 
-## Critical version rule
+Total: **258 chapters**.
 
-S3 v0.1 chapters from V11–V17 remain in Git only as provenance / discarded production.
+## Final density audit
 
-They are **not** active reader continuity.
+File size is **not** a quality score; it is only a compression warning.
 
-For any S3 continuity question:
-1. use V10 revalidated carryover only for S3E1–S3E6;
-2. use v0.2 continuity after the first disappearance;
-3. never use a shorter v0.1 scene to overwrite a corrected v0.2 event chain;
-4. when a v0.2 chapter receives a full-prose expansion, the expanded same-path file becomes authoritative.
+After the final pass, every active S3 chapter is above 2.5 KB.
 
-## Current full-prose expansion status
+Approximate active medians:
 
-### Actively expanded / corrected
+| Volume | Median file size |
+|---:|---:|
+| 10 | 3.07 KB |
+| 11 | 3.46 KB |
+| 12 | 4.23 KB |
+| 13 | 3.90 KB |
+| 14 | 3.40 KB |
+| 15 | 2.97 KB |
+| 16 | 3.23 KB |
+| 17 | 3.03 KB |
+| 18 | 4.23 KB |
+| 19 | 3.74 KB |
 
-The second-disappearance rescue runway now explicitly lives through:
-- Rem / Kaneki / Aira finding Mau and Ori;
-- immediate field triage;
-- cap recovery remaining a mundane continuity object;
-- Mau's intermittent recognition;
-- visible body changes;
-- multiple hours / overnight care;
-- larger search group arriving without immediate transport;
-- field stabilization after the family arrives;
-- Mau sometimes recognizing Frieren and sometimes not;
-- transport only after several conditions improve;
-- return to the old inn while cognitive recovery remains incomplete;
-- Rimuru's containment idea emerging from repeated observational questions;
-- a multi-person clarity check before Mau's consent;
-- Frieren's separate trust decision;
-- The Noise becoming observable only after containment changes access conditions.
+The former large compression holes in V18 Last Defense / later Noise and V19 Trial / Return-Stay processing have been expanded.
 
-### Full-prose pass now cleared at critical-path level
+## Final continuity locks
 
-- V11 first-search / named G5 wave / false-stability ending;
-- V12 second-road / monster / collapse / field-rescue runway;
-- V13 field recovery / containment / reconstruction / ordinary recovery at the earlier lock level; newest body-template / lifespan / date-dialogue locks still need integration;
-- V14 The Move in full lived progression;
-- V19 core Goddess Trial accumulation / post-Trial trauma / ten-day Return-Stay clock / Day-3 backdoor attempt / road interception before Goddess contact.
+### V10 — Bare Ground
+- old inn remains lived home;
+- new site remains worksite;
+- Memory fracture grows through ordinary life;
+- false memories can reuse real people / places while altering meaning;
+- Mau leaves before breakfast because a false instruction feels independently verifiable.
 
-### Still requiring full-prose expansion
+### V11 — Eight Signatures
+- first disappearance lasts long enough for household deterioration;
+- Diablo arrives only after that runway;
+- G5 forms through false positives / relationship waves while Mau is absent;
+- active G5 includes Senku + Suika, Mai, Nijika + Ryo, Richeh + Tetia, Nazuna, Vamola + Turbo Granny + Seiko, Jinshi, Milim, and Kusuri;
+- Kusuri receives a lived reunion and chooses continuing residence;
+- eight-signature lead remains separate from the G5 false-positive mechanism;
+- Mau returns without an instant cognitive reset.
 
-- remaining V15 Arrival House / refuge / unity consequences beyond the already-expanded opening institutional cases;
-- V16 hybrid-city development;
-- V17 Eren / freedom / civic-law blocks;
-- V18 Last Defense / later Noise overload;
-- remaining non-core V19 Return/Stay community-processing chapters.
+### V12–V13 — second road / field recovery / containment
+- Mau + Ori leave on the second road without erasing the moral problem of leaving;
+- monster injury and body change remain distinct from memory corruption;
+- Rem / Kaneki / Aira find and care for Mau before the larger group arrives;
+- transport waits for field stabilization;
+- recovery remains intermittent and slow;
+- Rimuru's containment idea grows from observation rather than instant diagnosis;
+- consent is delayed until a sustained clear window;
+- Frieren makes a separate trust decision;
+- The Noise remains a working designation;
+- RCT remains real but limited by unstable repair targets;
+- competing adaptation routes are explicit;
+- arrival-state stabilization does not define Mau's true species;
+- elf-like longevity provides future hope without a promise;
+- the recovery date includes the present-memory promise: "Then I'll remind you." / "As many as it takes."
 
-The continuity order remains active while prose density is upgraded.
+### V14–V17 — Move / institutions / city / freedom
+- The Move remains staged and preserves the old inn as active origin-home;
+- named G5 people keep non-identical statuses and choices;
+- Arrival House grows from real overcrowding and preserves exit / privacy;
+- Searchers become a function rather than a hero roster;
+- Richeh / Tetia and Senku are not duplicated as later first arrivals;
+- Senku's later arc is a delayed civic audit;
+- Kusuri / Maomao / Senku have distinct chemistry-medicine-engineering roles;
+- second community remains independent;
+- Eren / Mikasa memory asymmetry does not erase individual agency;
+- governance / due process / exit rights remain scoped;
+- Mau is not treated as consumable civic infrastructure.
+
+### V18 — Last Defense
+- defense is distributed across combat, refuge, medical, information and infrastructure systems;
+- Aira explicitly breaks the suppression construct;
+- civic systems fail correctly rather than magically never failing;
+- the unknown device is traced through a supply chain without prematurely naming the mastermind;
+- later Noise overload is distinct from the Memory Arc and is handled through learned protocol;
+- Ori is useful without being turned into metaphysical truth / sole anchor;
+- Goddess intrusion preserves Ori's independence and consent.
+
+### V19 — Goddess Trial / Return-Stay
+- Goddess authority is bounded domain authority, not established omnipotence;
+- Mau's repeated Trial deaths are rendered selectively and accumulate psychologically;
+- survival can be worse than dying in some scenarios;
+- other people's agency becomes the real question;
+- exact loop count stays unresolved but scale is explicitly hundreds;
+- Return and Stay remain morally open;
+- individual terms stay private;
+- the ten-day clock remains active;
+- Kusuri's intended personal decision is **STAY** without binding the other 100 Girlfriends-side characters;
+- Mau's backdoor plan grows from Trial trauma plus his old self-sacrifice/control architecture;
+- family intercepts him before Goddess contact;
+- no divine request, collective terms or binding deal occurs;
+- S3 ends on Day 3 with seven days remaining;
+- first final individual Return/Stay choice belongs to S4.
+
+## Intentional unresolved mysteries — not production gaps
+
+These remain open by design:
+- Mau's true origin / baseline species;
+- whether The Noise, memory manipulation and other anomalies share one source;
+- exact Trial loop/death count;
+- mastermind identity behind the anti-Otherworlder manipulation / suppression device;
+- most individual Return/Stay decisions;
+- exact long-term meaning of Mau's adaptive biology.
+
+Do not "fix" these by inventing answers during continuity cleanup.
 
 ## Macro reader flow
 
 ```text
 V10  bare ground / slow Memory fracture / first disappearance
-V11  first search / Diablo -> G5 / eight signatures / witches / bargain / first return / three-day false stability
-V12  Mau+Ori second road / multi-day escape / monster head injury / collapse / Rem-Kaneki-Aira field rescue
-V13  field camp / gradual lucidity / slow return / containment questions and consent / Noise observation / reconstruction / recovery
-V14  explicit staged Move / two homes at once / first nights / old inn protected as origin-home
-V15  intentional migration / Arrival House / Searchers / post-G5 independent choices / second community / refuge / unity message
-V16  message consequences / external partnership / Senku's delayed major civic audit / flawed infrastructure redesign / hybrid Continuum city
-V17  Eren-Mikasa asymmetry / exit rights / due process / domestic convergence / Mau sacrifice expectation
-V18  Last Defense / infrastructure payoff / aftermath / distinct Noise overload / Goddess intrusion
-V19  bounded Trial / hundreds-scale lived consequence / 10-day Return-Stay window / Days 0–3 trauma spiral / road interception before Goddess contact / 7-day S4 handoff
+V11  first search / G5 / eight signatures / witches / first return / false stability
+V12  Mau+Ori second road / monster injury / collapse / Rem-Kaneki-Aira rescue
+V13  field recovery / slow return / containment / Noise observation / reconstruction / ordinary recovery
+V14  staged Move / two homes at once / old inn protected
+V15  intentional migration / Arrival House / Searchers / second community / refuge / unity
+V16  external partnership / delayed Senku audit / hybrid civic systems
+V17  Eren-Mikasa asymmetry / exit rights / due process / Mau sacrifice expectation
+V18  Last Defense / infrastructure payoff / aftermath / Noise overload / Goddess intrusion
+V19  bounded Trial / Return-Stay / trauma spiral / failed backdoor attempt / seven-day S4 handoff
 ```
 
 ## Reader guidance
 
-A reader coming from the broken old S3 should not use v0.1 after V10.
+For S3, read the active reader order in the Volume 10–19 indexes.
 
-However, if the goal is to read the final polished S3 LN rather than follow development, wait until the full-prose expansion status above is cleared.
+Do not restart from the old compressed v0.2 drafts or use file suffixes as a shortcut for deciding canon.
 
-The current continuity repair point remains:
-
-> **Volume 11 v0.2, Chapter 1 — No One Waits**
-
-but later chapters are still being expanded from compressed production beats into full scenes.
+The latest merged branch state is authoritative.

@@ -60,7 +60,7 @@ Coco:
 
 Good.
 
-Maomao supplied worst list.
+Maomao supplied the first worst-case list.
 
 Workshop dyes.
 
@@ -75,6 +75,32 @@ Human waste.
 Medicine residue.
 
 Unknown monster fluids.
+
+Kusuri added a second list.
+
+Solvents.
+
+Reaction waste.
+
+Failed compounds.
+
+Containers that were "probably clean."
+
+Maomao crossed out probably.
+
+Kusuri rewrote:
+
+UNVERIFIED CLEAN.
+
+Better.
+
+The laboratory runoff received its own collection rule instead of being poured into medical or workshop waste.
+
+Kusuri objected exactly once.
+
+Then realized that if Continuum changed a compound unexpectedly, dilution into the entire wastewater system would destroy the evidence and spread the problem at the same time.
+
+She stopped objecting.
 
 Momo looked at list.
 

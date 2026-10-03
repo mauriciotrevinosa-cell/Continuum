@@ -13,62 +13,198 @@ Classification:
 
 LARGE / LIVING / UNKNOWN.
 
+Route watch sounded yellow.
+
 Milim arrived first.
 
-The cow reconsidered life.
+The cow reconsidered its entire life.
 
-Its owner reconsidered the settlement.
+Its owner did too.
 
-Rimuru apologized.
+Rimuru reached field seconds later.
 
-Senku smiled.
+"Milim!"
 
-"This is good."
+"I didn't do anything!"
 
-The farmer stared.
+The cow was inside a bush.
 
-"Your system almost attacked my cow."
+The farmer pointed.
+
+"Your system attacked my cow."
+
+Senku:
 
 "It alerted."
 
 "That girl fell out of the sky."
 
+"Separate problem."
+
 Milim waved.
 
-Different problem.
+The farmer did not wave back.
+
+Good first test.
 
 They recalibrated.
 
 Then a deer registered human-like.
 
-Then a human carrying magical equipment registered anomalous.
+Then human carrying enchanted equipment registered anomaly.
 
-Then Diablo triggered four categories.
+Then Diablo walked through test edge.
+
+Every category lit.
 
 He looked pleased.
 
 Rimuru was not.
 
-Perfect classification became officially rejected.
+"Can you stop being impossible?"
 
-Labels changed:
+"No."
+
+Perfect classification officially died that day.
+
+Senku wrote on board:
+
+SENSOR OUTPUT IS ESTIMATE, NOT VERDICT.
+
+Mikasa approved.
+
+Qifrey added magical systems could confuse signature.
+
+Kaneki pointed out bodies could be atypical without hostile intent.
+
+Important.
+
+Eren watched.
+
+"So if it says monster-like?"
+
+Mikasa:
+
+"Someone checks."
+
+"Not attack?"
+
+"Not automatically."
+
+Good.
+
+Labels changed.
 
 human-like.
-
 animal-like.
-
 large.
-
 fast.
-
 monster-like.
-
 anomaly.
-
 unknown.
 
 Approximation visible.
 
-Response required judgment.
+No red label meaning enemy.
 
-A trustworthy warning system admitted uncertainty instead of painting uncertainty as enemy.
+Response matrix:
+observe.
+contact.
+warn.
+evacuate.
+intercept only with additional evidence.
+
+Aira hated cautious steps.
+
+"By time we ask, it could eat someone."
+
+Mikasa:
+
+"By time we assume, we could attack a person."
+
+Both.
+
+They ran test.
+
+Kaneki approached from dark.
+
+System:
+anomaly / human-like.
+
+Correct enough.
+
+Milim:
+large energy anomaly.
+
+No category for "Milim."
+
+Good.
+
+A child with magical toy:
+human-like / anomalous object.
+
+Fine.
+
+Then one actual monster approached outer route.
+
+System:
+animal-like.
+
+Wrong.
+
+Watch person saw behavior.
+
+Raised alarm anyway.
+
+Human judgment caught classifier failure.
+
+Senku smiled.
+
+Aira:
+
+"Why are you happy?"
+
+"Because system failed while humans compensated."
+
+"That's not comforting."
+
+"It shouldn't be."
+
+They recorded failure.
+
+Changed features.
+
+No claim solved.
+
+Eren looked at sensor post later.
+
+"People trust lights."
+
+Mikasa:
+
+"That's why labels matter."
+
+"People still trust them."
+
+"Then we keep teaching uncertainty."
+
+Harder than building sensor.
+
+The first alarm being a cow became joke.
+
+The farmer never found it funny.
+
+Settlement compensated for damaged fence.
+
+Good.
+
+A trustworthy warning system did not promise certainty.
+
+It admitted:
+something is there.
+
+Then left moral judgment to people who could be wrong too.
+
+That was less satisfying.
+
+Also safer.

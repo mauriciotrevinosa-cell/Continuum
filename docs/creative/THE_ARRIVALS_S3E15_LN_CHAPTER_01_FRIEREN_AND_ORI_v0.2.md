@@ -4,134 +4,332 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 7  
-**Continuity state:** Day 15 | Mau stable enough for guarded recovery | Frieren/Ori conflict finally addressed
+**Continuity state:** Day 15 | Mau sleeping at old inn | Frieren and Ori finally address the second departure
 
-Frieren waited until Mau had slept eight uninterrupted hours.
+Frieren waited until Mau had slept for several uninterrupted hours.
 
-Then knocked on Ori's door.
+Not because the conversation with Ori mattered less.
 
-Ori opened it.
+Because it could wait.
 
-Neither spoke.
+Mau could not.
 
-Frieren entered.
+When Maomao finally told everyone outside the room to stop hovering, Frieren stood.
 
-Ori sat on the bed.
+Ori had gone upstairs earlier.
+
+Different room.
+
+Door closed.
+
+Frieren knocked.
+
+No answer.
+
+She knocked again.
+
+"Come in."
+
+Ori sat on the edge of the bed with her knees pulled up.
+
+The copied notebook was beside her.
+
+Frieren noticed immediately.
+
+Of course it was.
+
+Ori looked exhausted in a different way than the road had made her exhausted.
 
 "I should have told you."
 
-Frieren did not immediately say yes.
+Frieren closed the door.
 
-That was harder.
+"Yes."
+
+Ori flinched.
+
+Frieren hated that.
+
+She sat across from her.
+
+Not beside her yet.
 
 "Why didn't you?"
 
-Ori answered exactly.
+Ori looked at the floor.
 
-"Because he would have gone without me."
+"Because he would've gone without me."
 
 "You don't know that."
 
-"He hesitated when I asked if he'd wait."
+"He hesitated."
 
-Frieren closed her eyes.
+Frieren waited.
 
-Yes.
+Ori continued.
 
-She could see Mau doing it.
+"I asked him if he would wait while I told you."
 
-That made anger worse.
+Frieren already knew the answer from Ori's face.
 
-"You still tell me."
+"He didn't say yes."
+
+"No."
+
+Silence.
+
+Frieren looked toward the wall separating them from the hallway.
+
+Mau was somewhere beyond it.
+
+Home.
+
+Sometimes.
+
+Ori's voice shook.
+
+"If I told you, you would've gone to him."
+
+"Yes."
+
+"You would've stopped him."
+
+"I would've tried."
+
+"He knew that."
+
+Frieren's jaw tightened.
+
+Ori continued.
+
+"He said you'd stop him because you love him."
+
+There.
+
+Not manipulation.
+
+Not misunderstanding.
+
+Mau knew.
+
+Frieren stared at her.
+
+"And you believed going with him was better."
+
+"I believed if I went to get you, he would leave before I came back."
+
+"You could have shouted."
+
+"I thought about it."
+
+"Then why didn't you?"
 
 Ori looked up.
 
-"If I tell you and he runs while I do?"
+Tears already there.
 
-Frieren had no clean answer.
+"Because I was afraid he'd run."
 
-Ori's voice cracked.
+Frieren had no response that made the choice clean.
 
-"I chose the option where he wasn't alone."
+That was the problem.
 
-Not:
+Ori rubbed at her eyes angrily.
 
-I chose Mau over you.
+"I didn't choose him instead of you."
 
-Not:
+Frieren's expression changed.
 
-I thought I knew better.
+"I know."
 
-Damaged options.
+Ori stopped.
 
-Frieren sat beside her.
+The answer came too quickly for doubt.
+
+Frieren repeated:
+
+"I know."
+
+"I love you too."
+
+That hurt both of them.
+
+Ori looked away.
+
+"I knew you'd think I betrayed you."
+
+"I did."
+
+Ori swallowed.
+
+Frieren continued before she could collapse under it.
+
+"For about one minute."
+
+Ori looked back.
+
+"Then I found the letter."
+
+The letter that said where they were going.
+
+That Ori was with him.
+
+That they were not safe.
+
+Not enough information.
+
+Enough not to make the search blind.
+
+"You left a trail."
+
+"He didn't want me to."
+
+"I know."
+
+"I kept making him leave markers when I could."
+
+Frieren's face softened despite herself.
+
+"He hated that."
+
+"Yes."
+
+A tiny shared understanding.
+
+Then gone.
+
+Frieren moved to sit beside Ori.
 
 "I'm angry."
 
-"I know."
+Ori nodded.
 
 "At him."
 
-"I know."
+Another nod.
 
 "At you."
 
-Ori nodded.
+Ori's shoulders folded.
 
-"Okay."
-
-Frieren looked at her.
-
-"I understand why."
-
-Ori's face changed.
+Frieren did not take it back.
 
 Understanding was not absolution.
 
-That was important.
+"I also understand why you did it."
 
-Frieren took Ori's hand.
+Ori covered her face.
 
-"I am not asking you to disappear because I'm angry."
+That broke her more than anger had.
 
-Ori started crying.
+Frieren waited.
 
-Frieren looked annoyed by tears on principle.
+Eventually Ori leaned sideways.
 
-Then hugged her.
+Not quite asking.
+
+Frieren put an arm around her.
 
 Awkward.
 
+Tight.
+
 Real.
 
-Ori whispered:
+Ori cried into her shoulder.
 
-"He said you would stop him because you love him."
+After a while she whispered:
 
-Frieren's arms tightened.
+"He forgot you."
 
-"Yes."
-
-"He knew."
-
-"Yes."
-
-"And still—"
+Frieren's hand stopped on her back.
 
 "I know."
 
-They sat.
+"No. Before you got there."
 
-Frieren's fear had changed.
+Frieren closed her eyes.
 
-Loving Mau did not guarantee access to him.
+Ori continued.
 
-Ori could reach a part of him Frieren sometimes could not.
+"Then he remembered. Then forgot. Then remembered again."
 
-That hurt.
+Frieren's grip tightened.
 
-It also meant Mau had not been alone.
+"It wasn't because he stopped loving you."
 
-Frieren chose gratitude without surrendering anger.
+"I know."
 
-Both stayed.
+"I think that's why it scared him so much."
+
+Frieren opened her eyes.
+
+Ori pulled back enough to see her.
+
+"Sometimes he knew how he felt before he knew who the feeling belonged to."
+
+That matched the field camp.
+
+Important elf.
+
+Frieren almost laughed.
+
+Instead she cried once.
+
+Small.
+
+Angry.
+
+Ori looked frightened.
+
+Frieren wiped her face.
+
+"I'm not asking you to disappear because I'm angry."
+
+Ori stared.
+
+"You can be angry at me."
+
+"I am."
+
+"And still—"
+
+"Yes."
+
+Frieren looked toward the door.
+
+"Loving Mau doesn't mean I can always reach him."
+
+The sentence hurt to say.
+
+"Ori, sometimes you can."
+
+Ori's face changed.
+
+Guilt.
+
+Frieren caught it immediately.
+
+"Do not apologize for that."
+
+"But—"
+
+"If you're the person he can recognize, then be that person."
+
+"What about you?"
+
+Frieren looked at her.
+
+"I'll still be me."
+
+No competition.
+
+No transfer of place.
+
+A larger family learning different people could reach different doors.
+
+Ori leaned against Frieren again.
+
+Neither called the conflict solved.
+
+It was only no longer hidden.

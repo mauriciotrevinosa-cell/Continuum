@@ -4,53 +4,109 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 13  
-**Continuity state:** Day 11 — morning | Rem has not met main household | Independent field route
+**Continuity state:** Day 11 — morning | Rem independent route | Has not met Mau, Ori or main household
 
-Rem had not heard of Mau.
+Rem had heard too many versions of the word Otherworlder.
 
-She had heard of Otherworlders.
+Threat.
 
-Everyone had by then.
+Victim.
 
-Some stories said refuge.
+Weapon.
 
-Some said threat.
+Refugee.
 
-Rem trusted stories less than hunger.
+Monster.
 
-The river gave better information.
+Hero.
 
-Tracks.
+People loved categories when they did not know names.
 
-Broken reeds.
+Rem trusted categories less than hunger.
 
-A place where someone had filled water recently.
+Hunger was clear.
 
-Blood, old enough not to be fresh.
+Water was clearer.
 
-Rem followed because leaving an injured traveler alone was a worse assumption than danger.
+She traveled near the river because settlements changed, roads became political, and water remained useful.
 
-Then she felt something wrong.
+That morning she found disturbed reeds.
 
-Not a named power.
+Not dramatic.
 
-Not a diagnosis.
+Recent.
+
+Then a place someone had knelt to fill a container.
+
+Two different boot sizes.
+
+One track deeper than the other.
+
+Rem stopped.
+
+Looked downstream.
+
+No reason to assume danger.
+
+No reason to assume safety.
+
+She continued.
+
+A dark stain marked one stone.
+
+Old blood.
+
+Not much.
+
+Farther down, another print dragged.
+
+Injury.
+
+Rem's pace changed.
+
+Not running.
+
+Faster.
+
+She had not heard of Mau.
+
+She had heard rumors about a northern inn.
+
+A growing group.
+
+People arriving from impossible worlds.
+
+Some stories said sanctuary.
+
+Some said concentration of dangerous outsiders.
+
+Rem had no reason to choose either version.
+
+She followed the injured trail because someone was hurt.
+
+That was enough.
+
+Near a bend, she felt something strange.
+
+Not mana she recognized.
+
+Not a clear ability.
 
 Pressure.
 
-Like standing near a person having a nightmare without hearing the dream.
+It came and went.
 
-She stopped.
+Like standing near someone trapped in a nightmare without hearing the dream.
 
-The sensation came and went.
+Rem stopped.
 
-Downstream.
+The sensation vanished.
 
-Rem moved carefully.
+Then returned downstream.
 
-A branch held something black and orange.
+She followed.
 
-She pulled it free.
+A branch near the water had caught something black and orange.
 
 Cap.
 
@@ -58,34 +114,150 @@ Dirty.
 
 Water-worn.
 
-No meaning to her.
+Rem pulled it free.
 
-Only evidence that somebody had passed through water or that water had carried something from elsewhere.
+Unfamiliar logo.
+
+Not local manufacture.
+
+Likely Otherworlder.
+
+No magic.
+
+No pulse.
+
+No destiny.
+
+An object.
 
 She turned it over.
 
-A motorsport mark she did not recognize.
+Mud inside the brim.
 
-Not local manufacture, likely.
+Water damage old enough that it might have traveled far.
 
-Otherworlder object.
+Could belong to the injured traveler.
+
+Could belong to someone else months earlier.
 
 Rem tied it to her pack.
 
-One clue.
+Evidence without certainty.
 
-Nothing magical.
+A little farther down, she found cloth fibers caught on bark.
 
-A little farther down, she found a boot print.
+Then another boot print.
 
-Then a second.
+The dragging had worsened.
 
-One dragged.
+She crouched.
 
-Injury.
+One person carrying more weight?
 
-Rem followed.
+Or supporting another?
 
-She did not know she was walking into the center of someone else's family crisis.
+Hard to tell.
 
-She only knew an injured person was ahead.
+Rem continued.
+
+An hour later, she smelled smoke.
+
+Weak.
+
+Then heard voices.
+
+One female.
+
+Young.
+
+Distant.
+
+Not words.
+
+Tone.
+
+Urgent.
+
+Rem left the riverbank.
+
+Before she reached the sound, someone stepped from brush ahead.
+
+Dark hair.
+
+Pale.
+
+Alert.
+
+He stopped at the same time she did.
+
+Neither reached for a weapon immediately.
+
+Good.
+
+Rem looked past him.
+
+He looked at the cap tied to her pack.
+
+"Are you following the injured trail?"
+
+His voice was cautious.
+
+"Yes."
+
+"How long?"
+
+"Since the river bend."
+
+He looked downstream.
+
+"So am I."
+
+Rem studied him.
+
+Not local.
+
+Probably.
+
+Something about him smelled wrong in a way that was biological rather than magical.
+
+She did not comment.
+
+People did not owe strangers explanations for their bodies.
+
+"Name?"
+
+"Kaneki."
+
+"Rem."
+
+No trust.
+
+Names only.
+
+A voice carried from deeper in the trees.
+
+"Stay awake."
+
+Both turned.
+
+Then:
+
+"Mau."
+
+Neither knew the name.
+
+Both knew the tone.
+
+Rem started moving.
+
+Kaneki followed.
+
+The cap hit her pack with each step.
+
+Still meaningless to her.
+
+Ahead, it would become someone's lost object.
+
+Behind it, Rem had already made the decision that mattered.
+
+An injured stranger was enough reason to keep going.

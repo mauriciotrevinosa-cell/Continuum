@@ -34,6 +34,8 @@ Seiko.
 
 Jinshi.
 
+Kusuri.
+
 Milim.
 
 Diablo was gone again.
@@ -266,6 +268,28 @@ Senku and Suika checked the small drainage discrepancy.
 Richeh and Tetia helped Coco and Agott protect one maintainable circle from rain.
 
 Jinshi tracked supply bottlenecks and refused to call that leadership.
+
+Kusuri worked beside Maomao on the medical shelf under rules strict enough to make both of them happy for opposite reasons.
+
+Every bottle from Kusuri's bag received:
+a source purpose;
+a warning that Continuum effects were unverified;
+storage instructions;
+and a large mark meaning DO NOT GIVE THIS TO ANYONE YET.
+
+Senku tried to add a numbering system.
+
+Kusuri improved it.
+
+Maomao removed two unnecessary categories.
+
+They argued until Nano produced a version all three could read.
+
+No drug solved the search.
+
+No experiment replaced consent.
+
+The shelf simply became less dangerous.
 
 Nijika organized food without being asked twice.
 

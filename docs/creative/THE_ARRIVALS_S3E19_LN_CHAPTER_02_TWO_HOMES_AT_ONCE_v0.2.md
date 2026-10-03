@@ -4,13 +4,17 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
 **Reading order:** 8  
-**Continuity state:** Move Day 1 — afternoon | Both locations active
+**Continuity state:** Move Day 1 — afternoon | Inn and settlement both actively inhabited/used
 
-By afternoon, asking:
+By afternoon, the sentence:
 
 "Where is the blanket?"
 
-became a strategic problem.
+had become unanswerable.
+
+Which blanket?
+
+Whose?
 
 Inn?
 
@@ -20,68 +24,193 @@ New storage?
 
 Wrong wagon?
 
-Someone's room?
+Wakana's workshop because someone had used it to wrap fragile tools?
 
-Wakana's workshop?
+Momo proposed a centralized blanket authority.
 
-Nothing had one obvious location anymore.
-
-Two homes at once.
-
-Except one was not home yet.
+Fern, still at the inn, somehow heard about this later and rejected it retroactively.
 
 People shuttled.
 
-Fern stayed at the inn.
-
 Rimuru mostly at the site.
 
-Mau moved twice.
+Fern at the inn.
 
-Frieren once.
+Mau made two trips.
 
-Ori carried her own things personally.
+Frieren one.
 
-Mau offered help.
+Mikasa refused a third trip for anyone without a list.
 
-She said:
+"Efficiency."
+
+Aira:
+
+"Authoritarianism."
+
+"List."
+
+"Fine."
+
+Ori carried her own boxes.
+
+Mau reached for one automatically.
 
 "I've got it."
 
-He accepted.
+He stopped.
+
+"Okay."
+
+Ori looked suspicious.
+
+"That's all?"
+
+"That's all."
+
+She smiled.
 
 Her room placement surprised him.
 
-Not close to Mau/Frieren.
+Not beside Mau and Frieren.
 
-Not far either.
+Not distant.
 
-Near a shared courtyard and Coco's route.
+Near a shared courtyard.
 
-Ori had chosen based on her own life.
+Closer to Coco's likely route.
 
-Good.
+Good light.
 
-G5 statuses mattered.
+Ori had chosen based on herself.
 
-Temporary residents moving with first wave needed space.
+Mau felt proud.
 
-Guests expecting departure stayed at inn.
+Then noticed pride could become another way of making her choice about him.
+
+He kept the thought private.
+
+G5 made the ledger complicated.
+
+Temporary resident moving first wave.
+
+Guest staying at inn.
+
+Traveler leaving in two days.
+
+Another unsure.
+
+One person sleeping at the site tonight but not changing status.
+
+Nano created symbols.
+
+Nobody understood them except Nano.
+
+She refused simplification.
+
+Rem stayed at the inn.
+
+Not indecision.
+
+Commitment to a traveler whose contact would arrive there in the morning.
+
+Kaneki stayed because food storage was not yet moved.
+
+Aira went because she wanted to test exits.
 
 Milim moved because Rimuru did.
 
-Diablo moved because Rimuru did.
+Diablo followed Rimuru and insisted this was not "moving."
 
-One G5 traveler remained at the inn pending a road departure.
+Rimuru:
 
-Rem remained at the inn for now.
+"Where are you sleeping?"
 
-Kaneki planned second wave after food storage moved.
+"Wherever is useful."
 
-Aira chose first wave because she wanted to know where exits were before everyone else arrived.
+"At the new site."
 
-Nobody became Schrödinger's resident.
+"Likely."
 
-Nano's ledger looked absurd.
+"Moving."
 
-That was the price of continuity.
+Diablo accepted defeat with dignity.
+
+By late afternoon, the new site contained beds without owners and owners without beds.
+
+The inn contained people whose clothes were elsewhere.
+
+Mau returned to the inn to get a missing medical box.
+
+Entered his old room.
+
+Half empty.
+
+Frieren's books divided into piles.
+
+His backpack gone.
+
+Bed still there.
+
+The room looked like Memory Arc had removed pieces.
+
+His body reacted before thought.
+
+Mau stopped.
+
+Breathed.
+
+"Real move."
+
+He said it aloud.
+
+Fern, passing the doorway, heard.
+
+"Yes."
+
+"Not memory."
+
+"No."
+
+"Do you remember packing?"
+
+Fern looked at him.
+
+"I watched you argue with Frieren over shirts."
+
+Mau smiled.
+
+"Good."
+
+Another use of shared memory.
+
+Not crisis.
+
+Maintenance.
+
+He took the medical box.
+
+Before leaving, Mau touched the doorframe.
+
+Not goodbye.
+
+He would sleep here again.
+
+Maybe.
+
+That was the strange part.
+
+The move refused narrative neatness.
+
+There was no last look before leaving forever.
+
+Only:
+I'm going to the other place and probably coming back tomorrow because someone forgot salt.
+
+By sunset, both locations had lights.
+
+From the road, a traveler could see the old inn glow behind trees and the new settlement glow farther away.
+
+Two homes at once.
+
+Except one still had to earn the word.

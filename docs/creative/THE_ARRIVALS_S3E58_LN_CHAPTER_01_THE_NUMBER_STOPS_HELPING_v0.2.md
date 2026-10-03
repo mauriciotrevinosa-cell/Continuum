@@ -3,68 +3,195 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 13
+**Reading order:** 13  
+**Continuity state:** Mid-Trial | Mau still counts, then loses the usefulness of counting
 
-Mau counted.
+Mau counted because numbers made repetition measurable.
 
 Twenty-one.
 
 Twenty-two.
 
-Thirty.
+Twenty-three.
 
-Forty.
+At twenty-seven he started saying the number out loud at anchor.
 
-Then the Trial changed duration.
+Not for the Goddess.
 
-Some loops seconds.
+For himself.
 
-Some hours.
+"Twenty-seven."
 
-Some with people he loved.
+Next.
 
-Some strangers.
+"Twenty-eight."
 
-Some enemies.
+Next.
 
-Some choices physical.
+"Twenty-nine."
 
-Some social.
+The scenarios changed length.
 
-Sometimes Mau could survive only by ordering someone else into danger.
+That broke the usefulness of the count first.
 
-Sometimes the other person begged him to let them choose.
+One death came in under ten seconds.
 
-Sometimes they chose before he could stop them.
+Another loop made Mau live through three days before the choice appeared.
 
-The count stopped being useful.
+Another lasted long enough for him to forget he was waiting for one.
 
-Outside, the domain stopped displaying every loop.
+He ate.
 
-Fragments only.
+Slept.
 
-Enough.
+Talked.
 
-Mau dying.
+Started believing maybe the scenario had changed purpose.
 
-Mau surviving.
+Then someone asked him to choose.
 
-Mau arguing.
+Death.
 
-Mau refusing.
+Anchor.
 
-Mau losing track.
+"Thirty—"
 
-Senku tried counting.
+He stopped.
 
-Then stopped.
+Was that thirty-two or thirty-three?
 
-Not because numbers did not matter.
+The Goddess did not correct him.
 
-Because this number no longer improved intervention.
+Cruel.
 
-The Trial wanted accumulation.
+Mau tried another method.
 
-Fatigue.
+Marks.
 
-A habit exposed until it could no longer disguise itself as exceptional heroism.
+No surface carried between loops except him.
+
+He scratched numbers into his arm.
+
+Anchor restored skin.
+
+He wrote on clothing.
+
+Anchor restored clothing.
+
+He held the number mentally.
+
+Long scenarios eroded sequence.
+
+At what he thought was forty, he was no longer certain the previous loop had only happened once.
+
+That frightened him more than dying.
+
+Memory Arc had already taught him what it felt like not to trust autobiography.
+
+Now the Trial was creating genuine repeated experiences faster than his mind could organize them.
+
+Outside, Senku counted visible loops.
+
+Then the domain stopped displaying all of them.
+
+Fragments.
+
+A Mau dying.
+
+A Mau surviving.
+
+A Mau arguing for another route.
+
+A Mau sitting silently at anchor.
+
+No continuous feed.
+
+Senku kept a partial count.
+
+Rimuru asked:
+
+"How many?"
+
+"Minimum or estimate?"
+
+"Minimum."
+
+Senku gave one.
+
+Then stopped giving numbers aloud.
+
+They were no longer helping anyone outside intervene.
+
+Inside, Mau tried to count by pain.
+
+Bad idea.
+
+Different deaths overlapped.
+
+Chest impact.
+
+Fall.
+
+Heat.
+
+Pressure.
+
+No wounds remained.
+
+The remembered sensations did.
+
+He tried counting by people.
+
+Also failed.
+
+Faces repeated.
+
+Conditions changed.
+
+At some point the Goddess asked:
+
+"How many times have you died?"
+
+Mau looked up.
+
+He almost laughed.
+
+"You know."
+
+"Do you?"
+
+That answer was worse than silence.
+
+Mau closed his eyes.
+
+No.
+
+Not exactly.
+
+The number had become a false promise:
+
+If I know how many, I know where I am.
+
+He no longer did.
+
+So he stopped.
+
+Not because quantity stopped mattering.
+
+Because **accumulation had become qualitative**.
+
+He was no longer a person who had died forty-something times.
+
+He was a person whose body expected death as a recurring state.
+
+The next scenario began.
+
+Mau did not ask the number.
+
+He asked:
+
+"Who gets hurt if I survive?"
+
+The Trial had successfully changed the question.
+
+Not yet in the way the Goddess wanted.

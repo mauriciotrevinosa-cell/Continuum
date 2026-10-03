@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 29 — He Went Alone
+## Chapter 34 — He Went Alone
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 29
+**Reading order:** 34
 
 Mau left before dawn.
 

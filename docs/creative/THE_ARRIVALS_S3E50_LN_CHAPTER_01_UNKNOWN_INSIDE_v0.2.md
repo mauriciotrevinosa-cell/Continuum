@@ -3,15 +3,102 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 13
+**Reading order:** 13  
+**Continuity state:** Last Defense active | Unknown signature appears inside settlement | Mau follows learned reporting protocol
 
-The unknown signature returned.
+The unknown signature returned while everyone was looking outward.
 
-Inside the settlement.
+That was the point.
 
-No visible intruder.
+Mau felt it before the relay marked it.
 
-Sensors disagreed.
+Not a voice.
+
+Not even a sensation he could name cleanly.
+
+The Noise changed posture.
+
+Attention.
+
+He was at the inner junction with Aira and two Searchers.
+
+One route north.
+
+One to refuge.
+
+One toward damaged water line.
+
+Mau turned his head.
+
+Aira saw.
+
+"What?"
+
+Old Mau would have said:
+
+nothing.
+
+Then gone to look.
+
+Mau swallowed.
+
+"Something's wrong."
+
+Aira's entire body changed.
+
+Not panic.
+
+Protocol.
+
+"Where?"
+
+"I don't know."
+
+"Noise?"
+
+"Maybe."
+
+Good.
+
+No theory first.
+
+One Searcher activated the local anomaly relay.
+
+Rimuru answered.
+
+"Report."
+
+Mau closed his eyes for one second.
+
+Not to become mystical.
+
+To separate inputs.
+
+"Unknown signature. Inside."
+
+"Range?"
+
+"Moving."
+
+"Person?"
+
+"I don't know."
+
+"Does it feel like Memory Arc?"
+
+"No."
+
+That answer mattered.
+
+Rimuru did not ask Mau to chase.
+
+"Hold."
+
+Mau hated the word.
+
+He held.
+
+The relay board picked up a sensor disagreement near south storage.
 
 Human-like.
 
@@ -21,52 +108,231 @@ Unknown.
 
 Then nothing.
 
-Mau felt The Noise react.
+Diablo redirected from west interior.
 
-Not voice.
+Ori was moved away from the possible route.
 
-Attention.
+Not because she was helpless.
 
-Old instinct:
+Because unknown things had used her before.
 
-go find it.
+She objected once.
 
-New protocol:
+Fern:
 
-report.
+"Temporary."
 
-He reported.
+Ori looked toward Mau.
 
-Did not chase.
+Mau did not overrule.
 
-Diablo redirected.
+Good.
 
-Ori moved away from possible anomaly route.
+Senku locked one infrastructure junction remotely by procedure.
 
-Senku locked one infrastructure junction.
+Not the whole city.
 
-Rimuru marked the zone.
+One gate.
 
-The response happened without Mau becoming response.
+Qifrey shut a civic spell access line.
 
-Thirty seconds later, the signature appeared under central refuge.
+Again:
+one.
 
-Mau looked at the relay.
+No panic lockdown.
+
+Thirty seconds.
+
+The signature appeared near the central refuge.
+
+Mau felt it hard enough to put one hand against the wall.
+
+The Noise offered fragments.
+
+Observe.
+
+Analyze.
+
+Not commands.
+
+Functions.
+
+Still dangerous because Mau wanted to obey his own curiosity.
+
+Aira watched him.
+
+"Don't."
+
+"I know."
+
+"Say it."
+
+Mau looked at her.
+
+"I don't go alone."
+
+"Again."
+
+"I don't go alone."
+
+Good.
+
+Rimuru's voice came through.
+
+"Central refuge sublevel. We need someone who can tell us if the signature changes when approached."
+
+Mau laughed once without humor.
+
+"Me."
+
+"Probably."
 
 "Now?"
 
-Rimuru answered:
+Pause.
 
-"Now."
+Rimuru was asking more people than himself.
 
-Not permission to exist.
+Mikasa: outer line stable enough for one inner transfer.
 
-Shared decision in crisis.
+Fern: refuge movement can hold.
 
-Mau moved.
+Maomao: Mau physically functional.
+
+Frieren: silence.
+
+Then:
+
+"I go too."
+
+Mau closed his eyes.
+
+Of course.
+
+Rimuru:
+
+"Frieren stays top access. Aira with Mau below. Diablo intercept route two."
+
+Shared decision.
+
+Not:
+Mau, save us.
+
+Not:
+Mau, stay home because you're fragile.
+
+Specific role.
+
+Mau looked at Aira.
+
+"You ready?"
+
+"No."
+
+"Same."
+
+They moved.
+
+At the refuge entrance, Jinshi had the doors under controlled flow.
+
+People inside did not need to know an unknown anomaly had appeared beneath them unless the response changed their safety instructions.
+
+Good.
+
+Mau and Aira passed.
+
+Frieren met them at the sublevel door.
+
+Her hand found Mau's wrist.
+
+One second.
+
+Then released.
+
+"Call."
+
+"I will."
+
+"Before."
+
+"Before."
+
+Memory Arc promise converted into behavior.
+
+Aira opened the access panel.
+
+Stairs.
+
+Dark.
+
+The signature strengthened.
+
+Mau felt The Noise lean toward it.
+
+His feet stopped.
+
+Aira turned.
+
+"You still with me?"
+
+"Yes."
+
+"What are you seeing?"
+
+"Nothing."
+
+"What are you thinking?"
+
+"That I want to know."
+
+"That's not the same as needing to."
+
+Mau smiled faintly.
+
+"No."
+
+They went lower.
+
+Halfway down, the sensor above changed classification.
+
+UNKNOWN.
+
+Then OTHERWORLDER.
+
+Then LOCAL.
+
+Then ERROR.
+
+Aira heard the relay repeat.
+
+"What the hell?"
+
+Mau did not answer.
+
+The classification sequence felt familiar in the worst possible way.
+
+Not because he had seen this device.
+
+Because something in the categories could not settle around him.
+
+The signature was below the refuge floor.
+
+Not moving.
+
+Waiting.
+
+Mau reached the final landing.
+
+Aira beside him.
+
+Relay open.
+
+Frieren above.
+
+Rimuru listening.
 
 The central question of S3 had changed.
 
-He was still willing to go toward danger.
+Mau was still willing to walk toward danger.
 
-Now he was learning not to decide alone which danger belonged to him.
+Now everyone—including Mau—was learning that willingness did not make the danger his alone.

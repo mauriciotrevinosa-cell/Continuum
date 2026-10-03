@@ -36,9 +36,15 @@ The old inn did not empty when Fern left.
 
 Rem stayed.
 
-Two guests stayed.
+Mai stayed.
 
-One G5 traveler returning from a nearby town would sleep there that night.
+Richeh stayed.
+
+Nazuna remained mostly allergic to the word "stayed" but still used the outside shelter.
+
+Seiko was due back from a route check before dark.
+
+Turbo Granny would arrive whenever insulting Okarun stopped being interesting elsewhere.
 
 One household member would rotate back each night while the inn still hosted people.
 
@@ -183,6 +189,18 @@ Rem smiled.
 "Unfortunately."
 
 They checked the guest rooms together.
+
+Richeh was reading in one.
+
+Mai had left her door open and would deny that meant anything.
+
+Nazuna's assigned room remained empty because she was on the roof despite the rule.
+
+Fern looked up.
+
+"Get down."
+
+"No."
 
 The inn remained alive.
 

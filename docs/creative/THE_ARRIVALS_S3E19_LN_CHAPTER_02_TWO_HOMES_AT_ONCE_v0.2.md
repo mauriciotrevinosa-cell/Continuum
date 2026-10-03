@@ -92,17 +92,27 @@ He kept the thought private.
 
 G5 made the ledger complicated.
 
-Temporary resident moving first wave.
+Senku and Suika were sleeping at the site tonight but still counted as temporary residents.
 
-Guest staying at inn.
+Vamola too.
 
-Traveler leaving in two days.
+Nijika and Ryo remained at the inn with Bocchi and Kita.
 
-Another unsure.
+Mai stayed because "undecided" was still an answer.
 
-One person sleeping at the site tonight but not changing status.
+Richeh kept guest status.
 
-Nano created symbols.
+Tetia kept temporary-resident status and still chose not to move first.
+
+Nazuna traveled between places without becoming resident anywhere.
+
+Seiko used the inn as a base while mapping nearby reports.
+
+Jinshi was a guest with administrative opinions nobody had requested.
+
+Milim moved because Rimuru did.
+
+Nano created symbols for all of this.
 
 Nobody understood them except Nano.
 

@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 6 — East Window
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 6  
 **Source episode:** S3E2 — `Water Has Opinions`
@@ -110,6 +110,58 @@ Frieren looked at him.
 "Ask Ori."
 
 Mau paused.
+
+Right.
+
+They did.
+
+Later.
+
+Ori listened to the question, then looked at both of them suspiciously.
+
+"Near how?"
+
+Mau:
+
+"Same building?"
+
+Frieren:
+
+"Or next building."
+
+Ori thought longer than Mau expected.
+
+"I want close."
+
+Mau smiled.
+
+Ori held up one finger.
+
+"But not because you put me there."
+
+His smile changed.
+
+"Okay."
+
+"I pick."
+
+"Okay."
+
+She pointed somewhere downhill.
+
+Mau looked.
+
+"That's drainage reserve."
+
+Ori lowered her hand.
+
+"Then not there."
+
+Frieren almost smiled.
+
+The point survived the joke.
+
+Ori would choose again after the site had walls.
 
 Right.
 

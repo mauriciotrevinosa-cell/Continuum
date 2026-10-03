@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 9 — Searchers Without a Name
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 9  
 **Source episode:** S3E3 — `Names on the Wall`
@@ -130,7 +130,39 @@ Not collapsed.
 
 Worse enough to matter.
 
-The team returned with measurements, two alternate crossings, and news that a family farther north had seen strangers sleeping near an abandoned mill.
+The team returned dirty enough that everyone knew the bridge before they heard the report.
+
+Mikasa put measurements on the table.
+
+Anko put witness statements beside them.
+
+Maomao put a list of minor injuries from the route in a third pile because apparently information also needed triage.
+
+Mau reached for the bridge sheet.
+
+Mikasa handed it over.
+
+No ceremony.
+
+He had not gone.
+
+He still got to participate in what came back.
+
+That mattered more than he expected.
+
+The bridge was bad.
+
+Not collapsed.
+
+Worse enough to matter.
+
+Two alternate crossings.
+
+One safe for people.
+
+One maybe safe for light wagons after work.
+
+And news that a family farther north had seen strangers sleeping near an abandoned mill.
 
 No descriptions.
 
@@ -145,6 +177,22 @@ Nobody called the group Searchers.
 Not yet.
 
 They were just the people who had gone to look and come back with something useful.
+
+Rimuru asked:
+
+"Who goes next time?"
+
+Mikasa answered:
+
+"Depends on the problem."
+
+No permanent hero team.
+
+No automatic Mau slot.
+
+No fixed combat roster.
+
+Searchers would become a function before they became an identity.
 
 That was how institutions started in Continuum.
 

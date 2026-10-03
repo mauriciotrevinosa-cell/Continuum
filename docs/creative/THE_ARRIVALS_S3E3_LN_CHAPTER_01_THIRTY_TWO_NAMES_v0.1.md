@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 7 — Thirty-Two Names
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 7  
 **Source episode:** S3E3 — `Names on the Wall`
@@ -134,6 +134,66 @@ Frieren was quiet.
 Mau looked at the board.
 
 "Then we look when there's something to look for."
+
+Fern, who had been sorting blank cards, looked at the wall.
+
+"And when there isn't?"
+
+Mau looked at her.
+
+"We don't invent something."
+
+Coco heard.
+
+The sentence hurt.
+
+That was visible.
+
+Qifrey did not smooth it over.
+
+A name could matter without producing a mission.
+
+A person could be loved without the world supplying a trail.
+
+Rimuru added one more column:
+
+LAST VERIFIED INFORMATION.
+
+Not:
+where we think they might be.
+
+Not:
+where they should be.
+
+Verified.
+
+For some cards the box remained blank.
+
+That blank was not failure.
+
+It was honesty.
+
+Mau took one unused card.
+
+Held it.
+
+No name came.
+
+For a second he considered writing:
+
+ME?
+
+Bad joke.
+
+Worse question.
+
+He put the card back.
+
+Frieren saw.
+
+Did not ask.
+
+That restraint mattered too.
 
 Not a promise to find everyone.
 

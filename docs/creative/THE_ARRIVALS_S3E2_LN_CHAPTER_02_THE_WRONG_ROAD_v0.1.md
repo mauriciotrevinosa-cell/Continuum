@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 5 — The Wrong Road
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 5  
 **Source episode:** S3E2 — `Water Has Opinions`
@@ -136,6 +136,28 @@ Probably.
 The thought passed so quickly he barely noticed.
 
 They moved the road.
+
+Rimuru did not erase the old line from the planning map.
+
+Momo noticed.
+
+"Why keep the bad one?"
+
+"Because we paid to learn it."
+
+Senku did not exist in their city yet to say the same thing more aggressively.
+
+Mikasa added the rain date.
+
+Maomao added:
+
+BASIN HOLDS WATER AFTER MODERATE RAIN.
+
+The failed route became evidence.
+
+That mattered.
+
+A city that hid every abandoned plan would eventually repeat them.
 
 The mud stayed where the first plan had failed.
 

@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 10 — A Drawer Mau Knows
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 10  
 **Source episode:** S3E4 — `Small Wrong Things`
@@ -89,7 +89,67 @@ Impossible to distrust.
 
 "Maybe."
 
-He took the box.
+Umaru did not let him leave yet.
+
+"How sure are you?"
+
+Mau looked at her.
+
+"About the drawer?"
+
+"Yes."
+
+"Very."
+
+"Like guessing?"
+
+"No."
+
+"Like remembering?"
+
+Mau's answer took too long.
+
+"Yes."
+
+That changed the room.
+
+Not much.
+
+Enough.
+
+Umaru opened the third drawer again.
+
+Bandages.
+
+Then the second.
+
+Twine.
+
+Then pointed to the shelf.
+
+Nails.
+
+No hidden second box.
+
+No joke.
+
+Mau took the box.
+
+Before leaving, Umaru wrote the date on a scrap of paper.
+
+Mau noticed.
+
+"What are you doing?"
+
+"Making sure tomorrow has something today can argue with."
+
+He wanted to laugh.
+
+Did not.
+
+"Good idea."
+
+The first record existed before anyone knew they needed a system.
 
 <!-- scene-id: s3e4-ln01-noise -->
 
@@ -118,6 +178,27 @@ Mau frowned.
 They had never run out.
 
 Probably.
+
+He hated the word.
+
+That evening he checked the storage room again.
+
+Third drawer:
+bandages.
+
+Second:
+twine.
+
+Shelf:
+nails.
+
+Same.
+
+He wrote it down himself.
+
+Not because writing could make memory true.
+
+Because tomorrow's certainty might not deserve more authority than today's evidence.
 
 He looked at the box.
 

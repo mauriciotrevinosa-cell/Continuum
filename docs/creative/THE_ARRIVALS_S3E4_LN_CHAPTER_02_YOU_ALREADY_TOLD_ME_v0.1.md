@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 11 — You Already Told Me
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 11  
 **Source episode:** S3E4 — `Small Wrong Things`
@@ -94,6 +94,52 @@ Details.
 What Mau remembered.
 
 What everyone else remembered.
+
+Qifrey asked:
+
+"Do we write what we think caused it?"
+
+Rimuru shook his head.
+
+"No."
+
+Dream.
+
+Prediction.
+
+Memory error.
+
+External interference.
+
+Continuum.
+
+None had earned the page yet.
+
+Nano divided the note.
+
+OBSERVED.
+
+REMEMBERED.
+
+INTERPRETATION.
+
+Mau hated how useful that was.
+
+Under OBSERVED:
+
+Rimuru and Qifrey deny maintenance-route decision.
+
+Coco denies attending described conversation.
+
+Under REMEMBERED:
+
+Mau reports full meeting with setting, participants and specific dialogue.
+
+Under INTERPRETATION:
+
+blank.
+
+The blank frightened him more than a diagnosis would have.
 
 Mau joked that Continuum had finally invented minutes from meetings.
 

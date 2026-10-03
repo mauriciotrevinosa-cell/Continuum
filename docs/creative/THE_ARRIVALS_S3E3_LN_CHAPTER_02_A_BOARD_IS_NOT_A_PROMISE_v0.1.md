@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 8 — A Board Is Not a Promise
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 8  
 **Source episode:** S3E3 — `Names on the Wall`
@@ -61,6 +61,48 @@ Then answered them.
 
 The rumor was weak.
 
+Coco read the report three times anyway.
+
+Silver hair.
+
+Young woman.
+
+North road.
+
+No hat.
+
+No known magic.
+
+No Atelier symbols.
+
+Seen from a wagon at distance.
+
+Agott stood beside her.
+
+"Still want to go?"
+
+"Yes."
+
+"Me too."
+
+Coco looked at her.
+
+Agott continued:
+
+"That doesn't make the report better."
+
+The sentence did what the rules were supposed to do.
+
+It separated desire from evidence without insulting either.
+
+Coco put the card back.
+
+"Verify through the next northern team."
+
+Rimuru marked it.
+
+VERIFY.
+
 They did not go.
 
 <!-- scene-id: s3e3-ln02-notfavorites -->
@@ -114,6 +156,28 @@ Rimuru pointed at the board.
 "Every card."
 
 Momo stopped joking.
+
+The first verification came back that evening.
+
+The silver-haired traveler existed.
+
+Native.
+
+Different person.
+
+No crisis.
+
+Coco thanked the team.
+
+Then went outside for ten minutes alone.
+
+Nobody called the process a success in front of her.
+
+It was a success.
+
+It also hurt.
+
+Those facts could coexist.
 
 The system remained imperfect.
 

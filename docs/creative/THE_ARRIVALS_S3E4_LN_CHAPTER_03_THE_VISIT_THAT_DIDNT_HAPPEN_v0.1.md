@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 12 — The Visit That Didn't Happen
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 12  
 **Source episode:** S3E4 — `Small Wrong Things`
@@ -97,6 +97,45 @@ They did not go to the mill that night.
 
 That mattered.
 
+Mau wanted to leave immediately.
+
+Not tomorrow.
+
+Not with a team.
+
+Now.
+
+Because every minute between memory and verification felt like contamination.
+
+Frieren stood in the doorway.
+
+"Tomorrow."
+
+"What if something changes?"
+
+"Then it changes."
+
+"What if the family leaves?"
+
+"Mau."
+
+He looked at her.
+
+She did not say:
+you're wrong.
+
+She said:
+
+"If you go tonight, you are using danger to answer a memory question."
+
+That stopped him.
+
+Barely.
+
+They did not go to the mill that night.
+
+That mattered.
+
 Mau wanted to.
 
 Rimuru said tomorrow.
@@ -107,7 +146,29 @@ Mau hated them both for twelve seconds.
 
 Then hated that too.
 
-The next day, a small verification team reached the mill.
+The next day, Mau did not join the verification team.
+
+He hated that too.
+
+Anko went.
+
+Okarun went.
+
+Mikasa.
+
+A native guide.
+
+Mau stayed with Frieren and tried not to reconstruct the route from a memory nobody trusted.
+
+Hours later Anko returned.
+
+She placed the report face down.
+
+Mau:
+
+"Just tell me."
+
+Anko turned it.
 
 Broken upper wheel.
 
@@ -115,13 +176,27 @@ Two doors.
 
 Moss on the east wall.
 
+Exactly.
+
+Mau's chest loosened for one dangerous second.
+
+Then:
+
 No blue cloth.
 
 No ledger.
 
 No family.
 
+No bedding.
+
+No fresh fire residue.
+
 No evidence anyone had slept there recently.
+
+The memory had not invented a random building.
+
+It had taken a real place he had never visited and furnished it with a visit that had never happened.
 
 Mau stared at Anko's report.
 

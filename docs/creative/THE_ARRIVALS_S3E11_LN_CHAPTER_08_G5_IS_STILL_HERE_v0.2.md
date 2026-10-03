@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 23 — G5 Is Still Here
+## Chapter 31 — G5 Is Still Here
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 23  
-**Continuity state:** Day 5 — afternoon | G5 population status explicitly updated | Old inn overcrowded
+**Reading order:** 31  
+**Continuity state:** Day 6 — afternoon | Named G5 statuses explicitly diverge | Old inn overcrowded
 
 The old inn had a population problem.
 

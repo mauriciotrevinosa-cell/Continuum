@@ -4,19 +4,63 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
 **Reading order:** 31  
-**Continuity state:** Roughly one week after Trial | Return/Stay terms active | Mau functioning publicly, Trial consequence-patterns still intrude
+**Continuity state:** Days 1–2 of ten-day window | Mau functioning publicly after almost no sleep | Trial consequence-patterns intrude
 
-Mau did not decide anything the first day.
+Mau did not decide anything on day one.
 
 That mattered.
 
-He heard one person say:
+He also did not sleep enough to call the previous night sleep.
+
+That mattered more.
+
+Morning arrived after:
+bridge.
+anchor.
+smoke.
+open eyes.
+ceiling.
+Frieren alive beside him.
+ten minutes.
+another death.
+open eyes.
+ceiling again.
+
+No reset.
+
+His body kept expecting one.
+
+By breakfast Mau looked functional.
+
+That was now one of the family's least trusted appearances.
+
+Frieren asked:
+
+"How much?"
+
+Mau knew what she meant.
+
+"Maybe an hour."
+
+"Total?"
+
+"Probably."
+
+Frieren's face changed.
+
+Mau looked away.
+
+He still went outside.
+
+People had ten days.
+
+The settlement could not become a hospital around him while everyone else's lives were being split open.
+
+At Arrival House, someone said:
 
 "I never asked to come here."
 
 Mau nodded.
-
-Nothing else.
 
 No advice.
 
@@ -30,19 +74,19 @@ Same sentence.
 
 Different face.
 
-A constructed stranger choosing Return.
+Return.
 
-Happy ten years later.
+Happy years later.
 
-Another choosing Return.
+Return.
 
-Broken twenty years later.
+Broken years later.
 
-Another staying.
+Stay.
 
 Happy.
 
-Another staying.
+Stay.
 
 Resentful.
 
@@ -50,45 +94,42 @@ None were this person.
 
 Mau knew that.
 
-His body did not care.
+His body remembered them anyway.
 
-He walked away before the imagined outcomes could become argument.
+He walked away before memory-shaped possibilities became argument.
 
-Day two.
-
-A woman at Arrival House said:
+Later a woman said:
 
 "My mother is there."
 
 Her voice cracked on there.
 
-Mau was only passing with water.
+Mau was carrying water.
 
-He kept moving.
+He nearly dropped it.
 
-Then remembered a Trial loop where someone returned for a parent and arrived too late.
+Trial:
+someone returned for a parent and arrived too late.
 
-Another where they stayed and learned the parent had been safe.
+Another stayed and later learned the parent had survived.
 
-Another where the parent had never existed inside the scenario at all.
+Another returned and was grateful forever.
 
-Constructed possibilities.
+Another stayed and never forgave herself.
 
-Not evidence.
-
-Mau repeated that internally.
-
-Not evidence.
+Constructs.
 
 Not evidence.
 
+Mau repeated it internally.
+
 Not evidence.
 
-The woman started crying.
+Not evidence.
 
-Mau almost turned back.
+Not evidence.
 
-Rem reached her first.
+Rem reached the woman first.
 
 Good.
 
@@ -96,17 +137,91 @@ Mau kept walking.
 
 That should have felt like progress.
 
-Instead he felt relief that someone else had taken responsibility.
+Instead he felt relief someone else had taken responsibility.
 
-Then guilt for the relief.
+Then guilt.
 
-Then remembered dying in a loop because he had decided he was easier to spend.
+Then a memory of dying because he had decided his own life was easier to spend.
 
-The Trial had contaminated even improvement.
+By afternoon Senku found Mau checking the same water gauge again.
 
-Day three.
+"Third time."
 
-Two people argued outside the common room.
+Mau looked at him.
+
+"What?"
+
+"Nothing changed."
+
+"I know."
+
+"Then stop."
+
+Mau did.
+
+For six minutes.
+
+Night one became worse than the first night because exhaustion made the Trial less orderly.
+
+Mau slept.
+
+He knew because he dreamed.
+
+Except the dream was not new.
+
+A door.
+
+Ori on one side.
+
+Frieren on the other.
+
+Choose.
+
+Mau woke before choosing.
+
+Sat up.
+
+Frieren woke.
+
+"Mau."
+
+He looked at her.
+
+Alive.
+
+No door.
+
+His pulse did not care.
+
+"What did you see?"
+
+Mau rubbed his face.
+
+"Old one."
+
+"Which?"
+
+"I don't know."
+
+That answer scared her more.
+
+He could remember the deaths.
+
+Not always their order.
+
+Hundreds had become an archive without index.
+
+Frieren reached.
+
+Stopped.
+
+Mau saw.
+
+Took her hand himself.
+
+They stayed awake until almost dawn.
+
+Day two began with two people arguing outside the common room.
 
 "If you stay because of me, I won't know whether you mean it."
 
@@ -114,19 +229,15 @@ Two people argued outside the common room.
 
 Mau stopped around the corner.
 
-Not listening intentionally.
+Not intentionally listening.
 
-Then couldn't leave.
+Unable to leave.
 
-One voice:
+Then:
 
 "What if we choose wrong?"
 
-There.
-
-The phrase hit harder than any scream inside the Trial.
-
-Mau's hands went cold.
+His hands went cold.
 
 Door.
 
@@ -138,211 +249,77 @@ Years.
 
 Anchor.
 
-A version of Frieren saying:
+A Frieren saying:
 I still wonder.
 
-A version of Bocchi asking whether leaving had made her a coward.
+A Bocchi asking whether leaving had made her selfish.
 
-A version of Rimuru surviving everyone and calling the correct choice meaningless.
+A Rimuru surviving a choice Mau had thought correct.
 
-Mau pressed one hand against the wall.
+Mau pressed one hand to the wall.
 
 Present.
 
 Settlement.
 
-No Goddess.
+Day two.
 
-No countdown.
+Eight days after this one.
 
-The couple kept arguing.
+No Goddess in room.
+
+The couple continued.
 
 Mau did not intervene.
 
 Good.
 
-Later he told Frieren only:
+Later Frieren asked:
 
-"Someone had a rough conversation."
+"Rough day?"
 
-She looked at him.
+Mau almost said yes.
 
-"Did you?"
+Instead:
+
+"People are scared."
+
+"So are you."
 
 Mau smiled.
 
-"Probably."
+"Efficient."
 
-Not lie.
+Frieren did not laugh.
 
-Not enough truth either.
+At Arrival House, another resident said:
 
-Day four.
+"If I knew I wouldn't regret it, I'd Return."
 
-A young Arrival laughed while saying:
+Mau stopped breathing.
 
-"I think I'm staying."
+The speaker did not notice.
 
-Then started crying.
+That sentence followed him all afternoon.
 
-Mau saw a Trial version of that exact emotional contradiction.
+If I knew I wouldn't regret it.
 
-Not the same person.
+The Trial had spent what felt like lifetimes proving that knowledge unavailable.
 
-Still.
-
-He left before anyone noticed.
-
-At the water court, Senku asked why he had checked the same gauge three times.
-
-"Making sure."
-
-"It's unchanged."
-
-"I know."
-
-Senku stared.
-
-Mau stopped checking.
-
-Day five.
-
-A resident said:
-
-"If I knew I wouldn't regret it, I'd return."
-
-Mau stopped breathing for a second.
-
-The speaker did not see.
-
-Conversation continued.
-
-Mau heard only regret.
-
-The Trial had shown him people decades later asking:
-Why did I stay?
-Why did I leave?
-Why did I choose you?
-Why did I let you choose me?
-Why didn't anyone stop me?
-
-Hundreds of variations.
-
-Again:
-
-not evidence.
-
-Mau knew.
-
-That was not the problem.
-
-The problem was that nobody else had those memories.
-
-Nobody else had practiced regret until it became familiar terrain.
-
-Day six.
-
-Frieren did not tell him her terms.
-
-Mau respected it.
-
-He did.
-
-That night he lay beside her imagining outcomes anyway.
-
-Frieren stays.
-
-Happy.
-
-Frieren stays.
-
-Regrets.
-
-Frieren returns.
-
-Continuum becomes dream.
-
-Frieren returns.
-
-Remembers everything.
-
-Mau follows.
-
-Cannot.
-
-Mau stays.
-
-Waits.
-
-Centuries.
-
-Impossible scenarios layered over real uncertainty.
-
-Frieren shifted.
-
-Mau flinched.
-
-She opened her eyes.
-
-"Trial?"
-
-He stared.
-
-Could lie.
-
-Didn't.
-
-"Yeah."
-
-Frieren moved closer.
-
-"Which one?"
-
-"None."
-
-That was worse.
-
-Day seven.
-
-Mau heard:
-
-"What if I stay and spend fifty years wondering?"
-
-Another voice answered:
-
-"What if you leave and spend fifty years wondering?"
-
-Everyone around them treated that as the tragedy of being alive.
-
-Mau had a different response.
-
-His mind built both fifty years instantly.
-
-Not prediction.
-
-Memory-shaped imagination.
-
-He left.
-
-Walked until the settlement noise faded.
-
-Stopped near the unfinished outer path.
-
-The Goddess had asked whether people would choose him.
-
-Mau's mind had changed the problem.
+By evening, Mau understood the problem taking shape inside him.
 
 Not:
-Will they choose me?
+Which option is correct?
 
-Not even:
-Will they choose Continuum?
+He knew there might be no universal correct option.
 
-What if choosing itself is the wound?
+The worse question was:
 
-He knew the thought was dangerous.
+What if choosing itself becomes the wound they carry?
 
-He said it aloud so it could sound as bad as it was.
+He hated the thought.
+
+Said aloud, alone near the unfinished outer path:
 
 "What if I could take the choice away?"
 
@@ -352,18 +329,14 @@ Mau closed his eyes.
 
 "No."
 
-Immediate rejection.
-
-Good.
+Immediate.
 
 He went home.
 
-The next day, the thought returned.
+That should have ended it.
 
-Then the next.
+Instead he slept forty minutes and woke remembering a life where someone had chosen freely and spent decades wondering.
 
-It was not an impulse.
+The thought returned before sunrise.
 
-It became a temptation built from hundreds of remembered consequences.
-
-That was much harder to kill.
+Day three was coming.

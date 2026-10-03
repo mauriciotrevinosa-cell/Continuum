@@ -3,7 +3,8 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 37
+**Reading order:** 37  
+**Continuity state:** Day 3 before sunrise | Mau stopped on road before any Goddess contact
 
 Frieren asked:
 
@@ -19,41 +20,53 @@ Wrong.
 
 He knew immediately.
 
-Frieren:
+Not because the logic was false.
+
+Because he had skipped over her.
+
+Again.
+
+Frieren stared.
 
 "What?"
 
-Mau tried to explain.
+Mau tried to explain before the sentence collapsed.
 
-"The terms said Continuum may become dreamlike. If you returned and—"
-
-"May."
-
-"What?"
+"The Return terms said Continuum may become dreamlike. If you returned and the memories softened enough, then maybe—"
 
 "May."
-
-She stepped closer.
-
-"You do not know."
-
-"I would know before agreeing."
-
-"For me?"
 
 Mau stopped.
 
-Frieren's voice shook.
+"What?"
 
-"You would learn my terms and then decide?"
+"May."
+
+Frieren stepped closer.
+
+Dawn had not reached the road yet.
+
+Mau could see her face anyway.
+
+"You do not know what I will remember."
+
+"I would ask the terms."
+
+"For me?"
+
+Mau's mouth opened.
 
 "No. I mean—"
 
-"You mean you would carry the answer."
+"You mean you would learn enough to decide what pain I should have."
 
-Mau tried again.
+"No."
 
-"If you believed this was a dream, losing it wouldn't hurt the same."
+Too fast.
+
+Mau rubbed both hands over his face.
+
+"I mean if you believed this was a dream, losing it wouldn't hurt the same."
 
 Frieren hit him.
 
@@ -65,11 +78,13 @@ No laughter.
 
 No cheering.
 
-Physical full stop because his logic kept moving past her agency.
+No comedy yet.
+
+Physical full stop because Mau's reasoning had acquired momentum and was moving past the person standing in front of him.
 
 Mau stared.
 
-Frieren's hand shook more than his face hurt.
+Frieren's hand shook more than his cheek hurt.
 
 "Do not tell me what I am allowed to remember."
 
@@ -93,12 +108,66 @@ Mau whispered:
 
 "That is also our choice."
 
-"I don't want you to carry that weight."
+"I don't want you carrying that weight."
 
 Frieren laughed once through tears.
 
+Not amusement.
+
+Pain.
+
+"You think I don't understand regret?"
+
+Mau went still.
+
+Himmel existed in the question.
+
+Centuries existed.
+
+Things said too late.
+
+Things understood later.
+
+A life long enough to revisit choices after everyone else was gone.
+
+Frieren stepped closer.
+
+"I have wondered about things for longer than you've been alive."
+
+Mau looked down.
+
+"I know."
+
+"Then stop trying to save me from being a person."
+
+That hit harder than the slap.
+
+Mau looked at her.
+
+Frieren's voice lowered.
+
 "You don't get to remove regret from my life by removing me from the decision."
 
-No one made the slap funny yet.
+The road stayed ordinary around them.
 
-It needed to hurt first.
+No Goddess.
+
+No divine pressure.
+
+No magical coercion.
+
+Only Frieren refusing to let Mau turn love into permission.
+
+Mau touched his cheek once.
+
+Then dropped his hand.
+
+"I'm sorry."
+
+Frieren did not accept immediately.
+
+Good.
+
+The apology was not the end of the argument.
+
+It was only the first moment Mau stopped trying to outrun it.

@@ -110,7 +110,11 @@ Marks.
 
 Old mug.
 
-G5 bedroll in one corner because someone still needed it.
+Richeh's folded guest blanket in one corner.
+
+Mai's spare cup where she had left it.
+
+One of Nazuna's things on the windowsill despite Fern insisting the roof was not a storage system.
 
 Nothing preserved perfectly.
 

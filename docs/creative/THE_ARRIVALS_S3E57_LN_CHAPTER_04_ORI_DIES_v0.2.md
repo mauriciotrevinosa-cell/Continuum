@@ -3,19 +3,24 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 12
+**Reading order:** 12  
+**Continuity state:** Early-mid Trial | Mau is forced to survive Ori's explicit choice
 
 Ori's scenario had no monster.
 
+No smoke.
+
+No collapsing world.
+
 Two doors.
 
-One for Mau.
+One marked MAU.
 
-One for Ori.
+One marked ORI.
 
-One could open.
+ONE OPENS.
 
-Ori looked at both.
+Ori read both.
 
 Then laughed.
 
@@ -27,46 +32,142 @@ Mau hated the sound.
 
 "No."
 
+"Ori."
+
 "You're predictable."
 
 "So are you."
 
-Ori walked to Mau's door.
+She walked toward Mau's door.
 
-Pressed her hand against it.
+Mau blocked her.
+
+"No."
+
+Ori stopped.
+
+"Move."
+
+"No."
+
+"You taught me something."
+
+Mau's stomach dropped.
+
+"Don't."
+
+Ori kept going.
+
+"Being created by someone doesn't mean they own me."
+
+Mau looked away.
+
+"Different."
+
+"Why?"
+
+"Because this kills you."
+
+"Still my choice."
+
+"No."
+
+Ori's face changed.
+
+Not anger first.
+
+Hurt.
+
+"You really mean that."
+
+Mau looked at her.
+
+"Yes."
+
+Ori nodded slowly.
+
+Then walked toward her own door.
+
+Mau relaxed one fraction.
+
+Wrong.
+
+Ori turned at the last second and hit Mau's door control.
+
+The rule activated.
+
+Mau was thrown backward.
+
+His door opened.
+
+Ori's disappeared.
+
+"No."
+
+Mau lunged.
+
+Boundary.
+
+Ori looked at him through closing light.
 
 "If you choose my door, you're deciding my life for me."
 
-Mau stopped.
+Mau hit the barrier.
 
-The sentence reached beyond the Trial.
-
-Ori smiled.
+"Ori."
 
 "Let me choose."
 
-She opened Mau's door.
-
-Her own vanished.
+The door closed.
 
 Mau survived.
 
-Ori died.
+Ori did not.
 
-Anchor.
+No immediate anchor.
 
-Mau came back furious.
+Mau remained alone.
 
-"That wasn't my choice."
+He slammed both hands against where the door had been.
+
+"That wasn't my choice!"
 
 The Goddess answered:
 
 "Correct."
 
-Silence.
+Mau went still.
 
-For the first time, Mau had been forced to survive because someone else chose him.
+Not:
+you failed.
+
+Not:
+you won.
+
+Correct.
+
+Someone else had chosen him.
 
 He hated it.
 
-The Trial noticed.
+That hatred frightened him.
+
+Anchor.
+
+Outside, real Ori was crying.
+
+Mau returned to white space furious.
+
+"Again."
+
+The Goddess obliged.
+
+Different person.
+
+Same deeper wound.
+
+From then on, the Trial increasingly removed Mau's ability to purchase control with his own death.
+
+He would eventually learn that being chosen was not passive.
+
+It required enduring somebody else's agency.

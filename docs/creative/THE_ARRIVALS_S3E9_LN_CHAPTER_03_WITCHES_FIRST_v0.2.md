@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 9 — Witches First
+## Chapter 10 — Witches First
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 9  
+**Reading order:** 10  
 **Continuity state:** Day 2 — morning | Mau: unconscious from exhaustion | Family has not arrived
 
 The witches found Mau face-down beside a stream.

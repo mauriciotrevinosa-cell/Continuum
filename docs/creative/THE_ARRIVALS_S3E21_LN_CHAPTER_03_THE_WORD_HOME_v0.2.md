@@ -3,86 +3,92 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 20
-**Continuity state:** Move Week 1 ending | New settlement becomes default lived home; inn becomes protected origin-home
+**Reading order:** 20  
+**Continuity state:** End of Move Week 1 | Settlement becomes default lived home; inn remains origin-home
 
-The word changed without a vote.
+The word changed without a meeting.
 
-Aira said:
+Aira did it first.
 
 "I'm going home."
 
 She meant the settlement.
 
-Nobody noticed until later.
+Nobody noticed.
 
-Bocchi said:
+Not even Aira.
+
+Two hours later Bocchi said:
 
 "I left my cable at home."
 
-Kita asked:
+Kita looked at her.
 
 "Which?"
 
 Bocchi froze.
 
-Good question.
+The entire concept collapsed.
 
-"The new one."
+"The... new one."
 
-Two homes.
+Kita smiled.
 
-Different functions.
+Bocchi regretted language.
 
-Mau heard Frieren say:
+Then Frieren did it.
 
 "We'll be home before dark."
 
-She meant the settlement.
+Mau looked at her.
 
-He noticed immediately.
+They were at the old inn.
+
+Home before dark meant the settlement.
+
+Frieren kept walking.
+
+Had not noticed.
+
+Mau did.
 
 Said nothing.
 
-The first time he said it came the next day.
+The word no longer required permission.
 
-Rimuru asked where he was going.
+That night at the settlement, Rem arrived carrying one bag.
 
-"Home."
+One.
 
-Rimuru pointed toward the road fork.
+Not everything.
 
-"Which?"
+Fern saw.
 
-Mau looked left.
+"Staying?"
 
-Old inn.
+"Tonight."
 
-Right.
+"Only tonight?"
 
-Settlement.
+"I don't know."
 
-He smiled.
+Fern nodded.
 
-"New one."
-
-No betrayal.
-
-No erasure.
-
-Language had caught up with logistics.
-
-At the new settlement, Rem had finally moved one bag into a guest room.
+Rem placed the bag in a guest room.
 
 Not permanent.
 
-One bag.
+Still movement.
 
-Kaneki had established food-storage arrangements.
+Kaneki's food routine now worked well enough that asking where he lived had a practical answer.
 
-Aira had stopped calling herself temporary every time someone asked where she lived.
+Aira stopped adding "temporary" every single time someone called the settlement home.
 
-G5 statuses remained mixed.
+Not because status changed formally.
+
+Because repeating uncertainty became exhausting.
+
+G5 statuses diverged.
 
 Some stayed.
 
@@ -90,11 +96,118 @@ Some moved to native towns.
 
 Some traveled.
 
+One returned after three days elsewhere and said:
+
+"I came back."
+
+Not:
+I moved here.
+
+Not yet.
+
 Milim stayed near Rimuru.
 
-Diablo stayed near Rimuru and pretended that was not an entire housing category.
+Diablo stayed near Rimuru and continued pretending that was not an entire housing philosophy.
 
-The old inn remained active.
+At the old inn, guests still slept.
+
+Someone rotated each night.
+
+The protected-site list already had a tea stain.
+
+Good.
+
+Mau's first accidental use came the next day.
+
+He was near the road fork with Rimuru.
+
+Rimuru asked:
+
+"Where are you going?"
+
+"Home."
+
+Rimuru pointed.
+
+Left:
+old inn.
+
+Right:
+settlement.
+
+"Which?"
+
+Mau stopped.
+
+Looked left.
+
+The building where remembered life began.
+
+Frieren.
+
+Bocchi.
+
+Sukuna recovery.
+
+Memory evidence.
+
+Too much.
+
+Looked right.
+
+Room with shelf in the wrong place according to him.
+
+Blue thread by window.
+
+New table.
+
+Bathroom queue.
+
+Bocchi's unfinished music room.
+
+Fern's ledgers.
+
+People.
+
+Mau smiled.
+
+"New one."
+
+The sentence did not betray the inn.
+
+Nothing disappeared.
+
+That was the important part.
+
+They walked right.
+
+At the settlement, someone asked Mau later:
+
+"Where's the old place?"
+
+He answered:
+
+"The inn."
+
+Then corrected:
+
+"Our old home."
+
+Both.
+
+Language could hold layers.
+
+By the end of the week, directions became ordinary.
+
+"Take this home."
+
+"Leave that at the inn."
+
+"Sleeping at the inn tonight."
+
+"Back home tomorrow."
+
+Nobody needed a glossary.
 
 The future site stopped being future.
 
@@ -108,4 +221,6 @@ But inhabited.
 
 Home.
 
-Volume Fourteen ended with Mau walking into the new common room and no narrator needing to explain where he lived anymore.
+Volume Fourteen ended with Mau entering the common room, setting his things down, and not thinking about which building the narrator meant.
+
+The move was over because daily language had finally caught up with logistics.

@@ -3,154 +3,223 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** Day 13 — midday | Mau: delirious wake / biological fluctuation
+**Reading order:** 4  
+**Continuity state:** Day 13 — midday | Mau has short lucid windows mixed with recognition failure
 
-Mau woke convinced he was at the inn.
+The next time Mau woke, he knew exactly where he was.
 
-Not metaphorically.
+That lasted twenty seconds.
 
-He opened his eyes.
-
-Saw canvas.
-
-Said:
-
-"Why did we move the wall?"
+"Field camp."
 
 Frieren leaned closer.
 
-"We're in the field camp."
+"Yes."
 
-Mau stared.
+"South of the inn."
 
-"No."
+"Yes."
 
-Bad start.
+"Ori?"
 
-He tried to sit.
+"Sleeping."
 
-Yuta stopped him.
+Good.
 
-Mau looked at Yuta.
+Mau looked relieved.
 
-Recognition.
+Then he saw Kaneki.
 
-Then at Rimuru.
+"You're not supposed to be here yet."
 
-Recognition.
+Kaneki stopped.
 
-Ori.
+Rimuru looked up.
 
-Recognition.
+"Yet?"
 
-Kaneki.
-
-Recognition without history.
-
-That frightened him.
-
-"I know you."
-
-Kaneki answered:
-
-"You met me yesterday."
-
-Mau looked at Ori.
-
-She nodded.
-
-"After you said his name before meeting him."
-
-Mau closed his eyes.
-
-"Great."
-
-Then the kagune-like structure emerged.
-
-Fast.
-
-Rimuru moved.
-
-Frieren raised a hand.
-
-"Wait."
-
-Kaneki spoke.
-
-"Mau."
-
-The structure paused.
-
-No control.
-
-Response.
-
-"Mau, don't turn around."
-
-"Wasn't planning to."
-
-"Good."
-
-"Is it bad?"
-
-Aira said:
-
-"Visually?"
-
-Kaneki looked at her.
-
-"What? He asked."
-
-Mau laughed despite himself.
-
-That helped.
-
-The structure receded slowly.
-
-Rimuru watched.
-
-Raphael could observe physical effects.
-
-She could not identify the endogenous cause.
-
-Rimuru kept that distinction clear.
-
-Mau looked at him.
-
-"Did she figure it out?"
+Mau shut his eyes.
 
 "No."
 
-"Good."
+"What did you mean?"
 
-Rimuru frowned.
+"I don't know."
 
-"Good?"
+Rimuru did not follow the question.
 
-"I don't want somebody telling me they found my soul's user manual."
+Mau opened his eyes again.
 
-Rimuru almost smiled.
+They found Frieren.
 
-"Fair."
+Recognition.
 
-Mau's eyes drifted shut.
+Immediate.
 
-Before sleep took him:
+His shoulders lowered.
 
-"Don't let me leave."
+"Hi."
 
-Frieren's hand tightened.
+Frieren almost laughed.
 
-"I won't."
+"Hi."
 
-Mau opened one eye.
+"Did you find me?"
 
-"Unless I ask properly."
+"Yes."
+
+"How long?"
+
+"Yesterday."
+
+He frowned.
+
+"Then why aren't we home?"
+
+Frieren answered carefully.
+
+"Because you weren't ready to travel."
+
+Mau stared at her.
+
+"No."
+
+"No what?"
+
+"We went home."
+
+"We didn't."
+
+"I remember the stairs."
+
+Frieren went still.
+
+Mau kept going.
+
+"Fern was in the hallway. Stark moved blankets. I remember the room."
+
+All plausible.
+
+None real.
+
+Frieren shook her head.
+
+"That didn't happen."
+
+Mau looked at her.
+
+He believed her.
+
+He also remembered the stairs.
+
+Both were true inside him at the same time.
+
+"I hate this."
+
+"I know."
+
+"No, you don't."
+
+Frieren accepted that.
+
+A few minutes later his attention drifted.
+
+He looked at her again.
+
+Blank.
+
+Not fear.
+
+Search.
+
+Frieren waited.
+
+Mau frowned.
+
+"Elf."
+
+Her throat closed.
+
+He looked annoyed at himself.
+
+"Important elf."
+
+Someone outside made a sound and immediately pretended not to.
+
+Frieren said:
+
+"Frieren."
+
+Mau repeated it.
+
+"Frieren."
+
+"Yes."
+
+The name settled.
+
+For a moment.
+
+Mau looked at her with sudden certainty.
+
+"I love you."
+
+Frieren's eyes filled.
+
+The sentence did not fix the missing name.
+
+That was why it mattered.
+
+Mau noticed her face.
+
+"What happened?"
+
+"Nothing."
+
+"Did I say something wrong?"
+
+"No."
+
+"What did I say?"
+
+Frieren hesitated.
+
+"You said you love me."
+
+Mau looked relieved.
+
+"Okay."
+
+Rimuru watched from outside the shelter.
+
+He wrote nothing for several seconds.
+
+Autobiographical detail unstable.
+
+Emotional recognition possibly more persistent.
+
+Possibly.
+
+Not conclusion.
+
+Question.
+
+Mau's eyes began to close.
+
+Before sleep took him, he said:
+
+"Don't trust me just because I sound normal for five minutes."
 
 Frieren stared.
 
-Even delirious, agency.
+That sentence was clearer than most things he had said all morning.
 
-"Fine."
+"I won't."
 
-He slept.
+The next part of the rescue became obvious.
+
+They could not wait for one magical moment where Mau suddenly became himself again.
+
+They had to learn what a lucid window actually looked like.
+
+And how long it lasted.

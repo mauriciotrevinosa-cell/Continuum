@@ -4,108 +4,314 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 19  
-**Continuity state:** Day 11–12 | Mau cumulative unconscious period enters 1–2 day range | Rescue trio + Ori together
+**Continuity state:** Day 11–12 | Mau mostly unconscious | Ori + Rem + Kaneki + Aira maintain field care
 
-Mau had been unconscious for most of a day before Rem, Kaneki and Aira arrived.
+Night divided them into jobs.
 
-He remained unconscious through most of the next.
+Rem watched temperature and breathing.
 
-Not continuous perfect sleep.
+Kaneki watched the changes in Mau's back and shoulders.
 
-Worse.
+Aira watched the trees.
 
-Brief wake.
+Ori watched Mau.
 
-Questions.
+Nobody assigned the last job.
 
-Confusion.
+It had already belonged to her for too long.
 
-Collapse.
+At sunset Mau's fever climbed.
 
-At midnight:
+Rem used water sparingly.
 
-"Frieren?"
+Cloth at neck.
 
-Ori answered.
+Wrists.
 
-"Not here yet."
+Not enough to chill him.
 
-Mau cried without fully waking.
+Enough to try.
 
-At dawn:
+"Drink?" Ori asked.
 
-"Monster?"
+"Only if he's awake enough to swallow."
 
-"Dead."
+"He drank before."
 
-"Did I—"
+"Before isn't now."
 
-"You killed it."
+Ori hated Rem for one second.
 
-That information mattered.
+Then loved her for not pretending.
 
-He needed to know the head wound had a cause.
+Mau woke after dark.
 
-At midday:
+His eyes found the fire.
 
-"Kaneki?"
+Then Aira.
 
-Kaneki leaned into view.
+"Who are you?"
 
-"Here."
+"Aira."
 
-Mau laughed once.
-
-"Still weird."
-
-"Yes."
-
-Then out again.
-
-Rem tracked water.
-
-Temperature.
-
-Breathing.
-
-Aira maintained the perimeter.
-
-Kaneki monitored the biological structure when it surfaced.
-
-Ori supplied history.
-
-They did not know enough.
-
-They knew enough to keep him alive.
-
-By the second evening, Mau's fever spiked dangerously.
-
-The kagune-like growth emerged fully enough to damage the ground.
-
-Aira did not run.
-
-Rem moved Ori back when she needed to.
-
-Kaneki kept everyone from interpreting visible horror as moral information.
-
-Then a signal appeared through the trees.
-
-Not goddess.
-
-Not witch.
-
-Search light.
-
-Frieren.
-
-Ori stood so fast she almost fell.
-
-"They found us."
-
-Rem looked at the approaching light.
+He looked at Rem.
 
 "Who?"
 
-Ori laughed and cried at the same time.
+"Rem."
+
+Kaneki leaned into view.
+
+Mau stared.
+
+"Kaneki."
+
+"Yes."
+
+Ori exhaled.
+
+Then Mau looked at her.
+
+Nothing.
+
+Ori stopped breathing.
+
+Mau's brow tightened.
+
+He searched her face.
+
+She did not prompt.
+
+Five seconds.
+
+Ten.
+
+"You're..."
+
+Her hands were shaking.
+
+"Ori."
+
+He said it like finding the last stair in darkness.
+
+Ori closed her eyes.
+
+"Yes."
+
+Mau looked around.
+
+"Where's Frieren?"
+
+Nobody answered fast enough.
+
+He panicked.
+
+"Where is she?"
+
+"Looking for you," Ori said.
+
+"Why?"
+
+That hurt differently.
+
+"Because you left."
+
+Mau stared at her.
+
+"I did?"
+
+Then his expression changed again.
+
+Memory arriving.
+
+Not necessarily correct.
+
+He grabbed Ori's sleeve.
+
+"We need to go. She's at the bridge."
+
+"There is no bridge."
+
+"Yes there is."
+
+"Mau."
+
+"I remember—"
+
+His back arched.
+
+The dark structure surfaced.
+
+Kaneki moved before it fully formed.
+
+"Everybody back."
+
+Mau's fingers tightened around Ori.
+
+She did not pull away until Rem made her.
+
+The structure struck the ground twice.
+
+Not at a person.
+
+Not intentionally, as far as anyone could tell.
+
+Then Mau went limp.
+
+Aira swore.
+
+Rem checked breathing.
+
+Still there.
+
+Kaneki stared at the black limb until it folded in on itself and disappeared beneath skin that should not have been able to contain it.
+
+"What is happening to him?" Aira asked.
+
+Kaneki answered honestly.
+
+"I don't know."
+
+"You're the body expert."
+
+"I'm an expert on one body problem."
+
+Aira looked at Mau.
+
+"Apparently he has several."
+
+Near midnight Mau vomited again.
+
+They turned him.
+
+Cleaned him.
+
+Changed the cloth under his head.
+
+Ori apologized to him while he was unconscious because she had no idea what else to do.
+
+Rem eventually took the cloth out of her hands.
+
+"Sleep."
+
+"No."
+
+"Two hours."
+
+"No."
+
+"Then one."
+
+Ori looked at Mau.
+
+Aira came back from perimeter.
+
+"I'll wake you if he moves."
+
+Ori stared at her.
+
+"You don't know him."
+
+"No."
+
+"Then how do you know when it's bad?"
+
+Aira looked at the ground gouged by the last convulsion.
+
+"I have clues."
+
+Ori slept for forty-three minutes.
+
+Rem did not tell her the exact number.
+
+At dawn Mau woke lucid enough to ask for water.
+
+Rem gave him a little.
+
+He kept it down.
+
+Everyone celebrated internally and showed none of it.
+
+He asked:
+
+"Monster?"
+
+Ori moved closer.
+
+"Dead."
+
+"Did I kill it?"
+
+"Yes."
+
+Mau closed his eyes.
+
+Relief.
+
+Physical event confirmed.
+
+Then:
+
+"Did it hit my head?"
+
+"Yes."
+
+"Good."
+
+Aira stared.
+
+"Good?"
+
+"Cause."
+
+One thing in his body still had a cause everyone else could see.
+
+He slept again.
+
+By midday the fever rose higher.
+
+His hands trembled even unconscious.
+
+The muscles in his arms contracted in small waves.
+
+The dark line beneath his back spread farther than before.
+
+Kaneki marked the shape in the notebook Ori had been using.
+
+Not because the drawing would diagnose him.
+
+Because later someone might need to know what changed first.
+
+At dusk, light appeared between the trees.
+
+Three short flashes.
+
+Pause.
+
+Two.
+
+Ori stood so quickly the world tilted.
+
+Aira caught her.
+
+"Signal?"
+
+Ori was already crying.
+
+"Yes."
+
+Rem looked toward the trees.
+
+"Who?"
+
+Ori laughed through it.
 
 "Everyone."
+
+Mau did not wake.
+
+The four of them stayed around him while footsteps approached.
+
+They had kept him alive long enough for his people to find him.
+
+They were not finished yet.

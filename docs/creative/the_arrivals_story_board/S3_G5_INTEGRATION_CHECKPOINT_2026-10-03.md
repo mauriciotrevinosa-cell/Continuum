@@ -220,3 +220,52 @@ Do **not** perform the final season-wide rewrite until:
 - the production index is reconciled to the actual chapter set.
 
 This checkpoint exists specifically so a future chat cannot accidentally resume from the older v0.2 architecture and erase the post-v0.2 repair work.
+
+
+---
+
+## 8. Completion update — 2026-10-03
+
+The immediate G5 integration pass has now been carried through the active LN continuity.
+
+Completed:
+- V11 expanded from 27 active chapter files to **34** reader-order chapters;
+- first-disappearance runway now includes the two missing search days before Diablo;
+- Frieren/Diablo confrontation remains inside **A Demon at the Door**;
+- Senku + Suika are the first major false-positive arrival;
+- Mai gets a Maki-centered reunion;
+- Nijika + Ryo complete the immediate Kessoku relationship ring;
+- Richeh + Tetia reunite with the Atelier group before the later city arcs;
+- Nazuna reunites with Anko without triggering the later bite/conversion consequence prematurely;
+- Vamola + Turbo Granny + Seiko enter through the Dandadan-side wave;
+- Jinshi reunites with Maomao without inheriting source-world authority;
+- Milim joins by finding Diablo / Rimuru rather than as a true false positive;
+- first shared G5 meal is now named/lived rather than generic montage;
+- post-return Mau dinner is now a named ensemble scene;
+- G5 status divergence is now named instead of anonymous;
+- obsolete **Frieren Hits First** index entry is removed;
+- V11 reader order is reconciled to **34** chapters;
+- Senku's later V16 material has been converted from a duplicate arrival into the delayed major civic audit;
+- Richeh/Tetia's later V15 material now treats them as already present and making independent housing/status choices;
+- latest Memory source locks were also integrated where they directly affected this handoff:
+  - RCT remains real but limited;
+  - competing body-template adaptation is explicit;
+  - arrival-state stabilization does not define Mau's true species;
+  - Frieren receives lifespan hope without a promise;
+  - the post-Memory date now includes the required "I'll remind you / as many as it takes" promise.
+
+Current total reader-order count:
+- **257 chapters** including V10's 17 revalidated v0.1 carryover chapters.
+
+The next safe phase is no longer "finish G5."
+
+It is:
+
+```text
+G5 continuity now established
+-> propagate named G5 presence through later ordinary-life / Move / civic / defense scenes
+-> finish the remaining late-S3 full-prose blocks
+-> run season-wide continuity and density audit
+```
+
+Do not revert to the pre-G5 assumption that Senku or Richeh first arrive later in S3.

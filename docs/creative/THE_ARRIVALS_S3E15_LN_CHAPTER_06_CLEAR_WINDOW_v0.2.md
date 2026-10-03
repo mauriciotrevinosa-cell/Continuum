@@ -4,146 +4,184 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 12  
-**Continuity state:** Day 17 — morning | Brief lucid window | Consent sequence resumes
-
-The clear window lasted nine minutes.
+**Continuity state:** Day 17 — morning | First sufficiently stable consent window
 
 Maomao noticed first.
 
-Temperature dropped slightly.
+Mau's eyes tracked normally.
 
-Mau's eyes tracked correctly.
+His answers stopped changing halfway through the sentence.
 
-Ori asked the anchor sequence.
+She looked at Frieren.
 
-All correct.
+Then Ori.
 
-Yuta asked what day it was.
+Then Rimuru.
 
-Mau missed by one.
+"Now."
 
-Reasonable after unconsciousness.
+Not better.
 
-Frieren asked nothing at first.
+Not recovered.
 
-Mau looked at Rimuru.
+Now.
 
-"Explain it again."
+Ori sat where Mau could see her.
 
-Rimuru did.
+"Name?"
 
-Containment.
+"Mau."
 
-Temporary.
+"Place?"
 
-Unknown duration.
+"The inn."
 
-Raphael monitoring.
+"Why are you here?"
 
-No promise of cure.
+"Because I left with you, got hit by a monster, got worse, and everyone had to come get me."
 
-Potential inability to exit immediately if destabilization continued.
-
-Unknown interaction with Mau's internal anomaly.
-
-Mau listened.
-
-Asked:
-
-"Can Raphael change my memories?"
-
-Rimuru answered:
-
-"Not intentionally through what I'm proposing."
-
-"Could something happen anyway?"
-
-"Yes."
-
-Good.
-
-No false safety.
-
-Mau asked:
-
-"Can she tell what I am?"
-
-"No."
+Ori's eyes filled.
 
 "Good."
 
-Rimuru almost laughed.
+Mau looked at Frieren.
+
+"You're Frieren."
+
+"Yes."
+
+"You're angry."
+
+"Yes."
+
+"Still love me?"
+
+"Yes."
+
+Immediate.
+
+Mau breathed out.
+
+Yuta asked the date.
+
+Mau missed by one day.
+
+Maomao accepted it.
+
+Rimuru waited until the room was quiet again.
+
+"Do you remember what we discussed?"
+
+"Containment."
+
+"Explain it."
+
+Mau did.
+
+Temporary absorption.
+
+Less outside interference.
+
+Raphael observing under different conditions.
+
+Possible stabilization.
+
+No cure promised.
+
+Unknown risks.
+
+Rimuru asked:
+
+"If you ask to come out?"
+
+"If I'm stable, you let me out."
+
+"And if you aren't?"
 
 Mau looked at Frieren.
 
-"You still don't want it."
+"Then that's the part we all hate."
 
-"No."
+Rimuru nodded.
 
-"Do you think I understand the question right now?"
+Mau continued without prompting.
 
-Frieren looked at Ori.
+"Raphael might observe more, but that doesn't mean she suddenly knows what I am."
 
-Ori nodded once.
+"Correct."
+
+"She isn't going to rewrite memories as part of this."
+
+"Correct."
+
+"Could something still change because nobody knows how I react?"
+
+"Yes."
+
+Mau thought.
+
+"Okay."
+
+Rimuru asked:
+
+"Do you understand we may learn nothing?"
+
+"Yes."
+
+"Do you understand this may only stabilize the symptoms?"
+
+"Yes."
+
+"Do you understand there are unknown risks?"
+
+"Yes."
+
+Mau looked toward Ori.
+
+Then Yuta.
+
+Then Maomao.
+
+Not because they were voting.
+
+Because he had asked them earlier to help judge whether he was actually clear.
+
+Ori nodded.
 
 Yuta nodded.
 
 Maomao said:
 
-"For now."
+"Right now, yes."
 
-Mau looked at Frieren again.
+Rimuru turned back to Mau.
 
-"Then yes."
-
-Frieren's face tightened.
-
-Mau continued.
-
-"Not because I want to disappear inside him."
-
-"I know."
-
-"Because this isn't settling."
-
-"I know."
-
-"If I change my mind while clear, I say it."
+"Do you consent?"
 
 "Yes."
 
-"If I panic after because I forget—"
+The word remained.
 
-Frieren's eyes filled.
+Nobody spoke.
 
-Mau swallowed.
-
-"Use what I said while clear."
-
-Terrible.
-
-Necessary.
-
-Rimuru asked:
-
-"Do you consent to temporary containment?"
-
-Mau looked directly at him.
+Mau repeated it.
 
 "Yes."
 
-Then at Frieren.
+Then he looked at Frieren.
 
 Not asking permission.
 
-Asking trust.
+Asking whether she could stand beside a choice he had made while himself.
 
-Frieren still could not say yes.
+Frieren's face tightened.
 
 "Give me five minutes."
 
-Rimuru nodded.
+Rimuru stood.
 
-The clear window had four left.
+"Okay."
 
-Frieren took Mau's hand and closed the door.
+Nobody rushed her.
+
+Frieren closed the door.

@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 26 — The Third Day Breaks
+## Chapter 34 — The Third Day Breaks
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 26  
-**Continuity state:** Day 6 — evening | Apparent stability ends | Mau has not left again yet
+**Reading order:** 34  
+**Continuity state:** Day 7 — evening | Apparent stability ends | Mau has not left again yet
 
 The third day almost became ordinary.
 

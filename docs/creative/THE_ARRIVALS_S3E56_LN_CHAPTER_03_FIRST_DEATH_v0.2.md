@@ -20,7 +20,11 @@ Too detailed.
 
 Mau knew the Goddess had said scenarios were constructed.
 
-He also knew the rules had deliberately refused to make constructed mean emotionally safe.
+He also knew the rules had deliberately refused to tell him whether the person inside a scenario was merely constructed in every relevant sense.
+
+External residents were not physically transferred.
+
+That was not the same as being told every person he saw was only a disposable imitation.
 
 That uncertainty was the weapon.
 

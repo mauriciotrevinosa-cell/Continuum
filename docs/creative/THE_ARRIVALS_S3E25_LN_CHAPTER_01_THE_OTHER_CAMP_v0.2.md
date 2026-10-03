@@ -3,10 +3,12 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 13
+**Reading order:** 13  
 **Continuity state:** Main settlement inhabited | Second Otherworlder community discovered | No forced merger
 
 The other community did not look like competition.
+
+That was the first thing Okarun wrote.
 
 Laundry.
 
@@ -16,53 +18,97 @@ Children.
 
 Old people.
 
-A few weapons.
+A few weapons near doors.
 
-No walls worth naming.
+No wall worth naming.
 
-The Searchers found them while following a missing-person rumor.
+The Searchers had been following a missing-person rumor.
 
-The rumor was wrong.
+Wrong person.
 
-The community was real.
+Right discovery.
 
-They had settled at the edge of a native village and survived partly by staying small.
+They did not enter immediately.
 
-Rimuru visited later.
+Native guide first.
+
+Message.
+
+Permission.
+
+Good.
+
+The settlement sat at the edge of a native village rather than apart from one.
+
+That alone explained half its philosophy.
+
+People shared wells.
+
+Trade.
+
+Work.
+
+Children crossed between households without caring which world their parents came from.
+
+No Arrival House sign.
+
+No obvious central authority.
+
+The Searchers spoke to one resident long enough to confirm:
+
+yes, Otherworlders lived here.
+
+No, the missing person was not among them.
+
+Yes, they knew about the larger settlement.
+
+"Mau's place?"
+
+Okarun winced.
+
+"Not his."
+
+The resident shrugged.
+
+"Road calls it that."
+
+Problem for later.
+
+The Searchers returned with a map and invitation for a small delegation.
+
+Rimuru went.
 
 Mikasa.
 
 Anko.
 
-One native guide.
+Native guide.
 
-Mau did not go.
+Mau did not.
 
 Deliberately.
 
-The meeting was about communities, not about Mau.
+He wanted to.
 
-Their spokesperson knew the main settlement by rumor.
+The phrase Mau's place made him want to personally correct the entire road network.
 
-"Mau's place."
+Fern said:
 
-Rimuru winced.
+"That's exactly why you are not the delegation."
 
-"Not his."
+Painfully fair.
 
-The spokesperson shrugged.
+The second visit happened over tea.
 
-"That's what roads call it."
+No summit aesthetics.
 
-Problem for later.
+A long table under a patched awning.
 
-They exchanged maps.
+Their spokesperson was older than most residents in the main settlement.
 
-No alliance.
+Not obviously powerful.
 
-No invitation to merge.
-
-Then the spokesperson said:
+That mattered too.
 
 "We know why you gather."
 
@@ -70,6 +116,122 @@ Rimuru waited.
 
 "We chose not to."
 
-Good.
+No accusation.
 
-The season needed more than one valid answer.
+Statement.
+
+Mikasa asked:
+
+"Why?"
+
+The spokesperson looked toward the native village.
+
+"Because when people like us gather, somebody eventually decides the gathering is a threat."
+
+Anko wrote nothing for a moment.
+
+The spokesperson continued.
+
+"We had fighters."
+
+"Some left because they thought staying near us increased risk."
+
+"We let them."
+
+"Some stayed."
+
+"We kept numbers low."
+
+"We work here."
+
+"We are not a fortress."
+
+Rimuru thought of Milim.
+
+Diablo.
+
+Frieren.
+
+Himself.
+
+Main settlement.
+
+Visible power.
+
+Symbol.
+
+Target.
+
+"That's worked."
+
+"Yes."
+
+No false humility.
+
+It had.
+
+They exchanged route information.
+
+Warnings.
+
+Missing-person descriptions.
+
+No alliance treaty.
+
+No recruitment pitch.
+
+Then the spokesperson asked:
+
+"Do you require new Arrivals to live with you?"
+
+Rimuru:
+
+"No."
+
+"Do you track those who leave?"
+
+"Only if they ask or if there is an immediate safety reason."
+
+Anko glanced at him.
+
+Good answer.
+
+The spokesperson nodded.
+
+Trust moved one millimeter.
+
+No one said:
+join us.
+
+No one said:
+you should gather.
+
+The season finally had more than one plausible answer to fear.
+
+On the walk back, Mikasa said:
+
+"They're vulnerable."
+
+Anko answered:
+
+"So are we."
+
+Different vulnerabilities.
+
+Rimuru looked at the map between them.
+
+The other camp had less medical capacity.
+
+Less military power.
+
+Fewer Searchers.
+
+It also had less symbolic weight.
+
+Less reason for an army to care.
+
+Neither model invalidated the other.
+
+The most important thing they brought home was not an alliance.
+
+It was proof that Continuum could contain two communities making different survival choices without one needing to absorb the other.

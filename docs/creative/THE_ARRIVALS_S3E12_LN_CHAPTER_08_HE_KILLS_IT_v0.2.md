@@ -6,7 +6,7 @@
 **Reading order:** 8  
 **Continuity state:** Day 9 — monster fight | Mau: acute head injury | Ori: present / endangered
 
-Mau came back to sound in pieces.
+Sound returned in pieces.
 
 Ori.
 
@@ -16,150 +16,478 @@ A wet clicking noise.
 
 His own pulse.
 
-He tried to stand.
+Mau opened his eyes.
 
-The world tilted.
+Nothing aligned.
 
-Blood ran from his scalp into one eye.
+Sky sideways.
 
-Not catastrophic.
+Mud against his cheek.
 
-Bad enough.
+One hand numb because he had landed on it wrong.
 
-The monster had Ori cornered against fallen timber.
+Then pain arrived.
+
+Head.
+
+Shoulder.
+
+Something hot near his ear.
+
+He tried to sit.
+
+The world tilted and kept tilting after he stopped.
+
+Bad.
+
+"Mau!"
+
+Ori.
+
+Real.
+
+Probably.
+
+He found her by voice.
+
+The monster had turned away from him.
+
+Toward her.
+
+Ori stood behind fallen timber with nowhere good to go.
+
+Mau put one knee under himself.
+
+His body rejected the idea.
+
+He went back down.
+
+The creature moved.
+
+Ori threw something.
+
+Stone.
+
+It hit the plated side and did nothing except make the creature more certain about where she was.
+
+Mau's mind began working before the rest of him had caught up.
+
+Observe.
+
+Damaged eye.
+
+Analyze.
+
+Rear limb instability in mud.
+
+Understand.
+
+Soft tissue under the plated neck.
+
+Construct—
+
+No.
+
+The refusal came almost as hard as the thought.
+
+No new system.
+
+No improvised ability he did not understand.
+
+Not while concussed.
+
+Not while Ori was relying on him to remain himself.
+
+Use what exists.
+
+Mau found the knife.
+
+Dropped it.
+
+Picked it up again.
+
+"Oi!"
+
+Ori looked at him.
+
+He almost laughed at the expression.
+
+"What?"
+
+"Stone."
+
+"What?"
+
+"Throw at me."
+
+She stared.
+
+"Why?"
+
+"Just—"
+
+The monster shifted.
+
+"Now."
+
+Ori threw badly.
+
+Mau caught it worse.
+
+Pain shot through his wrist.
+
+Good enough.
+
+He held the stone up where the damaged eye could see movement.
+
+The creature turned.
+
+Not fully blind.
+
+Reduced field.
+
+Mau corrected the model.
+
+The rear limb stepped into softer mud.
+
+Slipped.
+
+Half-second.
 
 Mau moved.
 
-No calculation.
+His head protested immediately.
 
-Then forced himself to calculate.
+He ignored it.
 
-Blind side.
+Low.
 
-Soft joint under plated neck.
+Under plating.
 
-River mud under rear limbs.
+Knife into soft joint.
 
-He threw a stone.
+Too shallow.
 
-Not at the monster.
+The creature screamed.
 
-At Ori.
-
-She caught it badly.
-
-"What—"
-
-"Eye."
-
-She understood.
-
-Distract.
-
-Mau went low.
-
-The monster turned toward Ori's movement.
-
-Its rear limb slipped where the bank had softened.
-
-Mau reached the exposed joint.
-
-Construction offered possibilities he did not trust.
-
-He ignored them.
-
-Used the knife.
-
-Too small.
+Mau pulled back.
 
 Again.
 
-Again.
+The monster twisted.
 
-The creature threw him.
+Mau lost his footing.
 
-His head hit ground.
+A limb caught his ribs and threw him sideways.
+
+This time his head hit ground rather than armor.
 
 White.
 
-Still conscious.
+No black-out.
 
-Barely.
+Maybe.
 
-Ori screamed.
+He could not tell how long the white lasted.
 
-Mau saw the damaged eye.
+Ori screamed again.
 
-Saw the stone in Ori's hand.
+Mau saw the creature turning toward her.
 
-"Again."
+He saw the broken branch near his hand.
 
-She threw.
+Thick.
 
-The monster turned.
+Jagged.
 
-Mau used the opening.
+Not elegant.
 
-This time he took the broken branch beneath its plated neck and drove until the creature collapsed over him.
+Real.
+
+He grabbed it.
+
+"Eye!"
+
+Ori understood.
+
+She had another stone.
+
+Threw.
+
+The monster turned its damaged side toward her.
+
+Mau pushed himself forward.
+
+Not standing.
+
+Half crawling.
+
+The branch went under the plates at the neck where the earlier knife strike had opened space.
+
+He drove.
+
+The creature convulsed.
+
+Mau nearly lost the branch.
+
+Ori ran in and pushed too.
+
+Together.
+
+Ugly.
+
+Desperate.
+
+No heroic pose.
+
+The monster collapsed over Mau's legs.
+
+For several seconds it remained alive.
 
 Heavy.
 
 Hot.
 
-Alive for several seconds.
+Wrong sounds beneath the plates.
 
-Then not.
+Then still.
 
-Mau lay under part of it.
+Mau kept both hands on the branch after movement stopped.
 
-Ori pulled.
+Ori touched his shoulder.
 
-Could not move enough weight.
+"Mau."
 
-Mau pushed with shaking arms.
+He flinched.
 
-Together they got him free.
+"Dead?"
 
-Ori saw the blood.
+"Yes."
 
-Her face changed.
+"Sure?"
 
-"I'm fine."
+Ori looked at the creature.
 
-"No."
+Then at the blood.
 
-Mau stopped.
+"Yes."
+
+Mau let go.
+
+His hands started shaking.
+
+Not fear after the fact.
+
+Body catching up.
+
+Ori tried to pull him free.
+
+The creature's weight pinned one leg.
+
+Mau pushed.
+
+The world tilted.
+
+Ori stopped.
+
+"Don't."
+
+"We need—"
+
+"I'll move it."
+
+"You can't."
+
+"Then help without standing."
+
+They shifted it enough together.
+
+Mau crawled clear.
+
+Then rolled onto his back.
+
+Bad choice.
+
+The sky spun.
+
+He turned sideways and vomited.
+
+Ori froze.
+
+Mau closed his eyes.
+
+"That's bad."
+
+"Yes."
+
+"Head?"
+
+"Yes."
+
+"Did it hit me?"
+
+Ori stared.
+
+"You don't remember?"
+
+Mau searched.
+
+Two memories.
+
+Monster.
+
+Frieren.
+
+Frieren striking him with something during an argument that had never happened.
+
+Mau's stomach turned again.
+
+He opened his eyes.
+
+"Monster."
+
+"What?"
+
+"It was the monster."
+
+"Yes."
+
+"Say it again."
+
+Ori moved closer.
+
+"The monster hit your head."
+
+Mau nodded.
+
+Physical cause.
+
+Shared witness.
+
+One fact anchored outside him.
+
+Ori pressed cloth to the cut near his temple.
+
+Mau hissed.
+
+"Sorry."
+
+"Don't apologize."
+
+"You're bleeding."
+
+"That's generally when people apologize for pressing."
+
+Ori almost laughed.
+
+Then stopped when she saw his pupils.
+
+"Can you see me?"
+
+"Unfortunately."
+
+"Mau."
+
+"Yes."
+
+"Name?"
+
+He looked offended.
 
 Good.
 
-"No. I'm not."
+"Mau."
 
-Better.
+"Me?"
 
-Ori pressed cloth to his head.
+"Ori."
 
-Mau vomited.
+"Where?"
 
-That scared both of them.
+"River."
 
-They did not keep traveling immediately.
+"Day?"
 
-Also progress.
+Mau hesitated.
 
-Ori moved them away from the carcass.
+Too long.
 
-Marked the place.
+"Three."
 
-Kept the broken knife.
+"Since leaving."
 
-The monster was not erased into a sentence later.
+"Yes."
 
-It was there.
+Good enough.
 
-Dead.
+They did not move immediately.
 
-The thing that had struck Mau's head.
+That was new.
 
-When rescue came, Ori would be able to tell them exactly what happened.
+Sukuna-era Mau would have turned danger into permission to keep walking.
 
-If Mau forgot, the body would still exist.
+This Mau lay still because someone he loved said moving was stupid.
+
+For thirty minutes.
+
+Then the forest reminded them a dead monster could attract others.
+
+They could not stay beside the carcass.
+
+Ori marked the tree with cloth.
+
+Obvious.
+
+Two knots.
+
+Then a second marker farther south.
+
+Mau watched.
+
+"You're making us easy to follow."
+
+"Yes."
+
+He did not argue.
+
+Good.
+
+They moved less than a kilometer.
+
+Slow.
+
+Mau leaned on Ori once.
+
+Then twice.
+
+At the new shelter, he tried to remember the fight.
+
+Most of it existed.
+
+Some parts doubled.
+
+One version had Ori pulling him from beneath the monster.
+
+One had Frieren.
+
+Impossible.
+
+Mau looked at Ori.
+
+"If I tell this later, correct me."
+
+Ori's face tightened.
+
+"I will."
+
+He lay down.
+
+The first dark pressure beneath his back appeared before sunset.
+
+Neither of them knew what it meant.
+
+The monster stayed dead behind them.
+
+The injury stayed real.
+
+From that point forward, every false memory had a physical wound to hide inside.

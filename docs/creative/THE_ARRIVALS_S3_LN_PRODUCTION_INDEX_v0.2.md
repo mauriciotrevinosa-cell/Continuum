@@ -1,16 +1,37 @@
 # The Arrivals — Season 3 Light Novel Production Index v0.2
 
-**Status:** ACTIVE READER CANON — REBUILD COMPLETE  
+**Status:** ACTIVE CONTINUITY CANON — FULL-PROSE EXPANSION IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
 **Reader-order chapters:** **244**  
 **Volumes:** **10–19**
 
-## Reader order
+## Important production correction — 2026-10-02
 
-| Volume | Title | Chapters | Active source |
+The v0.2 rebuild fixed major **continuity architecture**, but it was incorrectly labeled as a completed light-novel production draft.
+
+A season-wide density audit showed that many v0.2 chapter files are still written as compressed story beats rather than lived LN scenes.
+
+Measured proxy:
+- S3 v0.2 chapter files: 227;
+- S3 v0.2 median file size before the current prose pass: ~1.28 KB;
+- 192 / 227 were below 2.5 KB;
+- 223 / 227 were below 4 KB;
+- S2 LN median for comparison: ~2.31 KB, with many major chapters in the 5–8 KB range.
+
+File size is not a quality score. It is only a useful warning signal. The actual issue is visible in the prose: too many chapters state that something happened instead of making the reader live through the event.
+
+Therefore:
+
+> **v0.2 is continuity-correcting story canon, not yet a fully finished LN prose pass.**
+
+Do not call S3 "complete" until the scene-density expansion pass finishes.
+
+## Reader order / continuity architecture
+
+| Volume | Title | Chapters | Active continuity source |
 |---:|---|---:|---|
-| 10 | Bare Ground | 17 | existing V10 v0.1 chapters, revalidated by v0.2 index |
+| 10 | Bare Ground | 17 | existing V10 v0.1 chapters, revalidated |
 | 11 | Eight Signatures | 26 | v0.2 |
 | 12 | The Second Road | 20 | v0.2 |
 | 13 | Bring Him Back | 27 | v0.2 |
@@ -29,8 +50,44 @@ They are **not** active reader continuity.
 
 For any S3 continuity question:
 1. use V10 revalidated carryover only for S3E1–S3E6;
-2. use v0.2 chapters for all material after the first disappearance;
-3. do not combine an old v0.1 scene with a v0.2 replacement unless the v0.2 source explicitly reincorporates it.
+2. use v0.2 continuity after the first disappearance;
+3. never use a shorter v0.1 scene to overwrite a corrected v0.2 event chain;
+4. when a v0.2 chapter receives a full-prose expansion, the expanded same-path file becomes authoritative.
+
+## Current full-prose expansion status
+
+### Actively expanded / corrected
+
+The second-disappearance rescue runway now explicitly lives through:
+- Rem / Kaneki / Aira finding Mau and Ori;
+- immediate field triage;
+- cap recovery remaining a mundane continuity object;
+- Mau's intermittent recognition;
+- visible body changes;
+- multiple hours / overnight care;
+- larger search group arriving without immediate transport;
+- field stabilization after the family arrives;
+- Mau sometimes recognizing Frieren and sometimes not;
+- transport only after several conditions improve;
+- return to the old inn while cognitive recovery remains incomplete;
+- Rimuru's containment idea emerging from repeated observational questions;
+- a multi-person clarity check before Mau's consent;
+- Frieren's separate trust decision;
+- The Noise becoming observable only after containment changes access conditions.
+
+### Still requiring full-prose expansion
+
+- parts of V11 first-rescue / false-stability runway;
+- early V12 travel/search chapters before Rem/Kaneki/Aira converge;
+- V13 post-containment reconstruction / recovery chapters;
+- V14 The Move;
+- V15 Arrival House / refuge / unity consequences;
+- V16 hybrid-city development;
+- V17 Eren / freedom / civic-law blocks;
+- V18 Last Defense / later Noise overload;
+- V19 Goddess Trial / Return-Stay / interception.
+
+The continuity order remains active while prose density is upgraded.
 
 ## Macro reader flow
 
@@ -38,7 +95,7 @@ For any S3 continuity question:
 V10  bare ground / slow Memory fracture / first disappearance
 V11  first search / Diablo -> G5 / eight signatures / witches / bargain / first return / three-day false stability
 V12  Mau+Ori second road / multi-day escape / monster head injury / collapse / Rem-Kaneki-Aira field rescue
-V13  field camp / slow return / Frieren-Ori / containment consent / first Noise discovery / reconstruction / recovery
+V13  field camp / gradual lucidity / slow return / containment questions and consent / Noise observation / reconstruction / recovery
 V14  explicit staged Move / two homes at once / first nights / old inn protected as origin-home
 V15  intentional migration / Arrival House / Searchers / Richeh / second community / refuge / unity message
 V16  message consequences / external partnership / Senku / flawed infrastructure redesign / hybrid Continuum city
@@ -47,10 +104,14 @@ V18  Last Defense / infrastructure payoff / aftermath / distinct Noise overload 
 V19  bounded Trial / free-choice question / Return-Stay / long regret runway / interception / agency cliffhanger
 ```
 
-## Restart guidance for readers of S3 v0.1
+## Reader guidance
 
-A reader who reached old V13 should **restart at V11 C1**.
+A reader coming from the broken old S3 should not use v0.1 after V10.
 
-V10 remains usable.
+However, if the goal is to read the final polished S3 LN rather than follow development, wait until the full-prose expansion status above is cleared.
 
-The first-disappearance search is where the rebuilt continuity begins diverging materially.
+The current continuity repair point remains:
+
+> **Volume 11 v0.2, Chapter 1 — No One Waits**
+
+but later chapters are still being expanded from compressed production beats into full scenes.

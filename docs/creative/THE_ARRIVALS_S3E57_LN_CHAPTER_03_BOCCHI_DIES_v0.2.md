@@ -44,6 +44,10 @@ Mau's hand stopped.
 
 Bocchi started crying.
 
+Not because she wanted to die.
+
+Because she knew exactly what Mau would do.
+
 Not graceful tears.
 
 Full panic.

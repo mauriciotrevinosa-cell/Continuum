@@ -12,108 +12,236 @@ Seventeen people answered.
 
 None agreed.
 
-Mikasa:
+"Defensible," Mikasa said.
 
-"Defensible."
+"Washable," Maomao said at the same time.
 
-Maomao:
+"Usable," Wakana added.
 
-"Washable."
-
-Wakana:
-
-"Usable."
-
-Bocchi:
+Bocchi, after being asked twice:
 
 "Quiet enough."
 
-Umaru:
+Umaru lifted one hand.
 
 "Wi—"
 
 Everyone looked at her.
 
+She lowered it.
+
 "Never mind."
 
-Frieren:
+Frieren, staring at the roof:
 
-"Has a roof."
+"It has one."
 
-Mau:
+Mau looked at her.
 
 "That's a low bar."
 
-Frieren looked at the old inn roof.
+Frieren looked toward the direction of the old inn.
 
 "Historically not always."
 
 Fair.
 
-The first cluster had:
-- two enclosed sleeping buildings;
-- one common room;
-- covered food storage;
-- basic latrines;
-- water access;
-- a crude washing area;
-- one workshop shell;
-- one medical/storage room;
-- enough drainage not to become a lake in normal rain.
+They stood in the middle of the first cluster while wind moved through walls that were technically walls and doors that still smelled like fresh wood.
 
-It did not have:
-- finished floors everywhere;
+The place had crossed a line nobody had marked.
+
+Yesterday:
+
+construction site.
+
+Today:
+
+maybe someone could sleep here and not regret it.
+
+That was not the same as finished.
+
+Rimuru opened the list.
+
+"Two enclosed sleeping buildings."
+
+Fern:
+
+"Enclosed enough."
+
+"One common room."
+
+Momo:
+
+"Echoes."
+
+"Covered food storage."
+
+Maomao:
+
+"Not fully rodent-proof."
+
+Momo looked at her.
+
+"That sentence ruined my morning."
+
+"Good."
+
+"Basic latrines."
+
+Maomao nodded.
+
+"Actually acceptable."
+
+Everyone looked at her.
+
+"Don't celebrate."
+
+They did not.
+
+Water access existed.
+
+Crude washing area.
+
+One workshop shell.
+
+One medical/storage room.
+
+Drainage good enough for ordinary rain.
+
+No one used the phrase ordinary rain confidently anymore.
+
+Things still missing:
+- finished floors in several rooms;
 - enough privacy;
-- proper bath facilities;
+- bath facilities;
 - permanent Arrival intake space;
-- enough beds for every person currently at the inn;
-- anything resembling a city center.
+- enough beds;
+- enough lighting;
+- enough storage;
+- enough everything if another group arrived tomorrow.
 
-Rimuru looked at the list.
+Mau looked at the list.
 
-"So not finished."
+"So no."
 
-Fern said:
+Fern shook her head.
+
+"Not finished."
+
+Rimuru sighed.
+
+"That's what I asked."
+
+Fern continued.
 
 "Habitable."
 
-Better word.
+The word changed the room.
 
-That changed the question.
-
-Not:
-
-Can everyone move?
-
-But:
-
-Who can move first without making either location unsafe?
-
-The old inn still housed:
-- core family;
-- temporary G5 residents;
-- Rem as guest;
-- Kaneki and Aira as temporary residents;
-- one newer traveler waiting on route information.
-
-The settlement could not absorb all of them comfortably.
-
-Good.
-
-The move would be staged because reality demanded it.
-
-Mau looked across the worksite.
-
-The place had walls now.
+Bocchi looked around again.
 
 Not home.
 
-Not yet.
+But possible.
 
-Rimuru asked:
+Wakana looked at the workshop shell.
 
-"Who wants first night?"
+Maomao looked at the drainage.
 
-Nobody answered immediately.
+Mikasa looked at exits.
 
-That was when Mau understood the move had finally become real.
+Mau looked at everyone looking.
+
+No single definition.
+
+That was good.
+
+Rimuru erased FINISHED from the top of the board.
+
+Wrote:
+
+FIRST HABITABLE PHASE.
+
+Momo complained that it sounded boring.
+
+"Good," Fern said.
+
+Then came the real question.
+
+Not:
+Can we move?
+
+Who moves first?
+
+And what had to stay behind?
+
+The old inn still held:
+- core household;
+- G5 guests;
+- Rem as guest;
+- Kaneki and Aira as temporary residents;
+- one traveler waiting on route information;
+- boxes no one admitted belonged to them;
+- too many shoes.
+
+The new site could not absorb all of that.
+
+Not without becoming worse than the inn in different ways.
+
+So the move would be staged.
+
+Logistics forced what emotion might not have accepted yet.
+
+Mau walked to the edge of the first sleeping building.
+
+Touched the wall.
+
+"Feels weird."
+
+Frieren stood beside him.
+
+"What?"
+
+"Planning to sleep somewhere I don't remember meeting you."
+
+Frieren looked at him.
+
+Memory Arc had made the sentence heavier.
+
+Mau continued:
+
+"The inn has... layers."
+
+"Yes."
+
+"This doesn't."
+
+"Not yet."
+
+That helped.
+
+No demand that new home feel like old home immediately.
+
+Rimuru called everyone back.
+
+"First-night volunteers?"
+
+Silence.
+
+Milim raised both hands.
+
+Rimuru lowered one for her.
+
+"One vote."
+
+Mau laughed.
+
+Then looked around.
+
+Nobody wanted to be the first person to turn a construction site into somewhere people woke up.
+
+That was when he understood:
+
+The move had started before anyone packed.
+
+The first thing being moved was the meaning of home.

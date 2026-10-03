@@ -3,7 +3,7 @@
 **Status:** ACTIVE CONTINUITY CANON — FULL-PROSE EXPANSION IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **257**  
+**Reader-order chapters:** **258**  
 **Volumes:** **10–19**
 
 ## Important production correction — 2026-10-02
@@ -27,12 +27,25 @@ Therefore:
 
 Do not call S3 "complete" until the scene-density expansion pass finishes.
 
+
+## No-compression guardrail — 2026-10-03
+
+New continuity decisions do **not** get paid for by shrinking already-expanded scenes.
+
+When a new locked character, consequence or scene requires space:
+- add the scene or chapter;
+- update reader order and counts;
+- propagate the consequence forward;
+- do not collapse previous lived prose back into summary/montage.
+
+Kusuri Yakuzen is the current explicit test case: her addition raises V11 and season chapter counts rather than replacing or compressing another G5 chapter.
+
 ## Reader order / continuity architecture
 
 | Volume | Title | Chapters | Active continuity source |
 |---:|---|---:|---|
 | 10 | Bare Ground | 17 | existing V10 v0.1 chapters, revalidated |
-| 11 | Eight Signatures | 34 | v0.2 |
+| 11 | Eight Signatures | 35 | v0.2 |
 | 12 | The Second Road | 20 | v0.2 |
 | 13 | Bring Him Back | 27 | v0.2 |
 | 14 | The Move | 20 | v0.2 |

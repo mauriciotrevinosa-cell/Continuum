@@ -8,23 +8,25 @@
 
 The stranger had not been found.
 
-Not rescued.
+That distinction unsettled everyone who understood it.
+
+He had not been rescued.
 
 Not escorted.
 
-He came because of rumor.
+Not delivered by someone who already knew the settlement.
 
-That had never happened before.
+He chose the road.
 
-He stood at the edge of the settlement carrying one bag.
+One bag.
 
-No weapon visible.
+No visible weapon.
 
-Exhausted.
+Dust along his coat.
 
-Suspicious.
+The posture of someone who had spent too long deciding whether every person ahead was danger.
 
-Mikasa met him first because she happened to be on route watch.
+Mikasa met him because she happened to be on route watch.
 
 Not Mau.
 
@@ -32,74 +34,217 @@ Good.
 
 "What do you need?"
 
-The man looked past her.
+The stranger looked at her.
+
+Then past her.
 
 "Is this the Otherworlder place?"
 
-Mikasa hated the phrase.
+Mikasa disliked the phrase immediately.
 
 "People from other worlds live here."
 
+The man swallowed.
+
 "Can I?"
 
-Pause.
+The question was too large.
 
-Not simple.
+Can I enter?
 
-Mikasa brought him to the common room.
+Can I eat?
+
+Can I sleep?
+
+Can I belong?
+
+Can I become one of you?
+
+Mikasa answered the smallest version.
+
+"You can come inside and talk."
+
+The man nodded.
+
+That nearly made his knees give out.
+
+He had expected a gate decision.
+
+Instead he got a chair.
 
 Fern.
 
 Rimuru.
 
-Rem happened to be there.
+Rem happened to be nearby.
 
 Mau was at the old inn that afternoon.
 
-The settlement received someone without him.
+That mattered.
 
-Critical.
+The settlement received someone without the person rumor had named.
 
-The man had heard:
+They gave the stranger water before questions.
+
+He drank too fast.
+
+Rem quietly refilled the cup only halfway the second time.
+
+The man looked embarrassed.
+
+No one commented.
+
+Fern asked:
+
+"Name?"
+
+He gave it.
+
+"Immediate need?"
+
+"Sleep."
+
+"Anyone following you?"
+
+Pause.
+
+"I don't think so."
+
+Good enough.
+
+The man looked around.
+
+"That's it?"
+
+Fern:
+
+"For the next ten minutes."
+
+He almost laughed.
+
+What had he heard?
+
+Fern asked because rumor itself had become operational information.
+
+The man listed:
 - Otherworlders protected each other here;
 - there was food;
 - powerful people kept officials away;
-- Mau ran the place.
+- a man named Mau ran the place;
+- nobody could force you to leave once accepted.
 
-Three facts.
+Rimuru closed his eyes at the last two.
 
-Two distorted.
+Fern corrected what mattered immediately.
 
-Fern corrected only what mattered.
+"We can feed you."
 
-"We don't promise permanent residence at the door."
+The man's shoulders loosened.
 
-His face closed.
+"We can give you somewhere to sleep tonight."
 
-Rem noticed.
+More.
 
-Fern continued.
+"We do not promise permanent residence at the door."
 
-"You can eat. You can sleep tonight. We can talk about what you want tomorrow."
+Closed again.
 
-The man's shoulders dropped.
+Rem saw.
+
+Fern continued before the word no hardened.
+
+"That means we talk tomorrow when you've slept."
+
+The man's expression changed.
+
+Delay.
 
 Not rejection.
 
-Not automatic adoption.
+He ate in the common room.
 
-He ate.
+Slowly after the first few bites.
 
-Later, Mau returned from the inn.
+Someone nearby argued about laundry.
 
-The newcomer looked at him.
+A child crossed the room.
 
-"You're Mau?"
+Milim shouted somewhere outside.
+
+The man stopped eating.
+
+Rimuru:
+
+"Normal."
+
+"That was a threat?"
+
+"No."
+
+Worse explanation.
+
+Later, Mau returned from the old inn carrying a box of records Fern had forgotten.
+
+He entered mid-conversation.
+
+The newcomer looked up.
+
+Recognition.
+
+"You're Mau."
+
+Mau stopped.
+
+Then looked behind himself.
+
+"No one else?"
+
+The man stared.
 
 Mau sighed.
 
 "Apparently."
 
-The rumor had arrived before he had.
+Fern handed Mau the box he had brought as if to prove legendary leaders did errands.
 
-That would become a problem.
+The man watched him carry it to a shelf.
+
+"Do you decide who stays?"
+
+Mau nearly answered.
+
+Stopped.
+
+Looked at Fern.
+
+Good.
+
+Fern said:
+
+"Not alone."
+
+Mau sat nearby only after being invited.
+
+The newcomer looked disappointed.
+
+Or relieved.
+
+He had traveled toward a myth.
+
+Found a messy institution in the process of being invented.
+
+That was probably safer.
+
+That night he slept in a temporary room.
+
+No oath.
+
+No citizenship.
+
+No permanent promise.
+
+Just a door that closed and people who knew he was there.
+
+The settlement had become somewhere strangers could arrive on purpose.
+
+Nobody yet understood what that would cost.

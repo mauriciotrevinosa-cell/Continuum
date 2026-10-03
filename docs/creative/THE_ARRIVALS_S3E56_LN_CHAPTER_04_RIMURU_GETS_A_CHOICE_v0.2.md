@@ -313,7 +313,11 @@ The Goddess had not asked whether Mau would die for family.
 
 Everyone already knew that answer.
 
-The Trial was beginning to ask something Mau had spent the season avoiding in smaller forms:
+The Trial was beginning to ask something Mau had spent the season avoiding in smaller forms.
+
+Everyone already knew he could love enough to die.
+
+The harder question was whether he could love enough to let someone else own their risk.
 
 When someone else says,
 my risk,

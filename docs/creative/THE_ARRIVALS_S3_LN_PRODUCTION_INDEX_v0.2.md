@@ -81,7 +81,7 @@ The second-disappearance rescue runway now explicitly lives through:
 - V12 second-road / monster / collapse / field-rescue runway;
 - V13 field recovery / containment / reconstruction / ordinary recovery;
 - V14 The Move in full lived progression;
-- V19 core Goddess Trial accumulation / post-Trial trauma / backdoor-deal motivation / interception.
+- V19 core Goddess Trial accumulation / post-Trial trauma / ten-day Return-Stay clock / Day-3 backdoor attempt / road interception before Goddess contact.
 
 ### Still requiring full-prose expansion
 
@@ -105,7 +105,7 @@ V15  intentional migration / Arrival House / Searchers / Richeh / second communi
 V16  message consequences / external partnership / Senku / flawed infrastructure redesign / hybrid Continuum city
 V17  Eren-Mikasa asymmetry / exit rights / due process / domestic convergence / Mau sacrifice expectation
 V18  Last Defense / infrastructure payoff / aftermath / distinct Noise overload / Goddess intrusion
-V19  bounded Trial / free-choice question / Return-Stay / long regret runway / interception / agency cliffhanger
+V19  bounded Trial / hundreds-scale lived consequence / 10-day Return-Stay window / Days 0–3 trauma spiral / road interception before Goddess contact / 7-day S4 handoff
 ```
 
 ## Reader guidance

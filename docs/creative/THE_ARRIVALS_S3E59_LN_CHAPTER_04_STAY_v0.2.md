@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 19 — Stay
+## Chapter 22 — Stay
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 19
+**Reading order:** 22
 
 Second word.
 

@@ -7,7 +7,7 @@
 
 A Searcher team found Eren near salt water.
 
-Not at the main settlement.
+Not at the settlement.
 
 Not moving toward it.
 
@@ -15,7 +15,7 @@ Away.
 
 He had heard rumors.
 
-A protected city.
+Protected city.
 
 Otherworlders gathering.
 
@@ -27,62 +27,206 @@ Road controls.
 
 Walls, according to bad retellings.
 
-Eren heard the word walls and chose another direction.
+Eren heard walls and chose another direction.
 
 The Searchers found him buying food badly.
 
-Anko recognized the name from Mikasa's deferred history.
+He had enough local currency to fail politely.
 
-Did not say everything.
+Anko watched seller explain price three times.
 
-"You're Eren Yeager."
+Eren looked ready to fight mathematics.
 
-Eren's eyes sharpened.
+She intervened only after seller looked desperate.
+
+"You're overpaying."
+
+Eren turned.
+
+Suspicion immediate.
+
+"Who are you?"
+
+"Anko."
+
+No need for full title.
+
+She looked at his face.
+
+Name from Mikasa's deferred history.
+
+Don't dump future.
+
+"Eren Yeager?"
+
+Everything changed.
 
 "How do you know?"
 
 "We know Mikasa."
 
-Everything stopped.
-
-Eren took one step forward.
+He took one step forward.
 
 "She's here?"
 
-"Yes."
+Relief hit before caution.
 
-Relief.
+Then caution caught up.
 
-Then suspicion.
+"Where?"
 
-"At the city?"
+"At the settlement."
 
-"Settlement."
+His face closed.
 
-"Same thing."
+The word mattered.
+
+Not Mikasa.
+
+Settlement.
+
+"City?"
+
+"People call it things."
+
+"Walls?"
 
 "No."
 
-Anko looked toward the road.
+"Guards?"
 
-"She chose to live there."
+"Some."
 
-That mattered.
+"Can people leave?"
 
-Eren asked no more for several seconds.
+"Yes."
 
-Then:
+Eren looked at sea.
+
+Searcher guide waited.
+
+No approach.
+
+Anko continued only what he asked.
 
 "How long has she been here?"
 
-Long enough to remember more than him.
-
-Anko did not answer that way.
-
 "Longer than you."
 
-Eren looked at the sea.
+"How much longer?"
 
-The reunion had become possible.
+That question had two meanings.
 
-He still did not agree to enter the settlement.
+Time in Continuum.
+
+Time in his life.
+
+Anko chose first.
+
+"Months."
+
+Eren absorbed.
+
+Then:
+
+"Does she know where I'm from?"
+
+"Yes."
+
+"Does she remember... everything?"
+
+Anko paused.
+
+Too much answer could be theft.
+
+"She remembers more than you."
+
+Eren looked at her sharply.
+
+"Of my life?"
+
+"Yes."
+
+Sea behind him.
+
+That should have been impossible.
+
+Continuum specialized.
+
+He asked:
+
+"Did she ask you to find me?"
+
+"You're on missing-person board."
+
+"So yes."
+
+"She wanted to know if you appeared."
+
+Eren looked at inland road.
+
+Then city rumor returned.
+
+"She lives there."
+
+"Yes."
+
+"By choice?"
+
+"Yes."
+
+That mattered.
+
+Not:
+held.
+not:
+assigned.
+chose.
+
+Eren sat on low wall by shore.
+
+"I need a minute."
+
+Searchers gave him one.
+
+Then ten.
+
+No one turned recovery into escort.
+
+Finally he asked:
+
+"Can she come here?"
+
+"Yes."
+
+"Then tell her."
+
+Anko nodded.
+
+"We can wait with you or leave."
+
+Eren looked surprised.
+
+"You're not taking me?"
+
+"No."
+
+"I'm on your missing board."
+
+"Finding is not owning."
+
+He stared.
+
+Maybe first thing about settlement rumor that did not sound like walls.
+
+"Wait nearby."
+
+They did.
+
+No extraction.
+
+No arrival scene yet.
+
+The Searchers had found a person who did not want home.
+
+The first task was asking what home meant to him.

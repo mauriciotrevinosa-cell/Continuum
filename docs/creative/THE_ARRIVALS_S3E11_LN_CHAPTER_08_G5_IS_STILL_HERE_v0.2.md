@@ -196,6 +196,42 @@ Useful did not equal entitled to stay forever.
 
 He kept the category.
 
+Kusuri chose TEMPORARY RESIDENT.
+
+Fern looked at the word.
+
+Kusuri looked at it too.
+
+"Can there be a note?"
+
+"What note?"
+
+"I plan to stay."
+
+Hakari looked at her.
+
+Karane did too.
+
+Shizuka's expression softened.
+
+Nano stopped writing.
+
+Fern did not create a PERMANENT category.
+
+That would have made the decision too easy and too early.
+
+Instead she wrote:
+
+INTENDS TO CONTINUE RESIDENCE — REVISIT WHEN CHOICES BECOME REAL.
+
+Kusuri nodded.
+
+"Yep."
+
+Nobody else from her source group was required to copy the answer.
+
+That mattered.
+
 Milim did not fill anything out.
 
 She wrote:
@@ -307,6 +343,22 @@ Jinshi found that food counts and bed counts were maintained by different people
 Maomao told him to fix it if he was so offended.
 
 He did.
+
+Kusuri, Senku and Maomao converted one locked cabinet into the first real chemical / medicine quarantine shelf.
+
+Nothing unlabeled.
+
+Nothing administered without review.
+
+Nothing tested on a person because "it worked back home."
+
+Hakari called the rules oppressive.
+
+Karane called Hakari the reason rules existed.
+
+Kusuri sided with the rules.
+
+That surprised everyone except Nano.
 
 Milim carried blankets outside because Diablo had given his bed to someone who needed a quieter room.
 

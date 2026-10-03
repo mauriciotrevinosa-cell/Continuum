@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 16 Index v0.2
 
-**Status:** ACTIVE REBUILD READER ORDER  
+**Status:** ACTIVE MERGED READER ORDER — PROSE PASS COMPLETE  
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  

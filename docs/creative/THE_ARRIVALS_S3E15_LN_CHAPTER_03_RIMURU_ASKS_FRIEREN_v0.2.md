@@ -1,123 +1,303 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 9 — Rimuru Asks Frieren
+## Chapter 9 — The Questions Rimuru Starts Asking
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 9  
-**Continuity state:** Day 16 | Mau fluctuating | Containment proposed, not performed
+**Continuity state:** Day 16 | Mau's lucid windows lengthening | Rimuru begins building a model from observation
 
-Rimuru asked Frieren outside Mau's room.
+Rimuru did not begin with absorption.
 
-Not because Frieren owned Mau.
+He began with a chair.
 
-Because Mau was drifting in and out and Frieren needed to hear the proposal before anyone discussed it over his body.
+He carried it into Mau's room and sat near the wall.
 
-"I can contain him."
+Not beside the bed.
 
-Frieren stared.
+Not close enough to make the room feel smaller.
 
-"What does that mean?"
+Mau looked at him.
 
-"Absorb him temporarily."
+"Interview?"
 
-Her mana rose.
+"Maybe."
 
-Rimuru kept talking.
+"Terrible bedside manner."
 
-"Not consume him. Not copy him. Containment."
+"You're talking normally."
+
+"Apparently that's no longer evidence."
+
+That stopped Rimuru for half a second.
+
+Mau noticed.
+
+"Sorry."
+
+"No. You're right."
+
+Frieren sat by the window.
+
+Ori was outside with Maomao.
+
+Kaneki had already checked the physical change that morning.
+
+The room was quiet enough that Rimuru could finally ask one question at a time.
+
+"When you forget someone, does it feel like forgetting?"
+
+Mau thought.
 
 "No."
 
-Expected.
+"What's it feel like?"
+
+"Like I've never known the answer."
+
+Rimuru wrote.
+
+"Then when it comes back?"
+
+"Sometimes like remembering. Sometimes like somebody turned the lights on."
+
+"Do you hear anything?"
+
+"No."
+
+"Voice?"
+
+"No."
+
+"Instruction?"
+
+Mau hesitated.
+
+"Not exactly."
+
+Rimuru looked up.
+
+"What does not exactly mean?"
+
+Mau rubbed his forehead.
+
+"I get certainty."
+
+"About what?"
+
+"Places. Events. Sometimes people."
+
+"Like the bridge?"
+
+"Yes."
+
+"The fake return to the inn?"
+
+Mau looked at Frieren.
+
+"Yes."
+
+Rimuru wrote.
+
+"Does the certainty feel different from an ordinary memory?"
+
+"No."
+
+That was the worst answer.
+
+Rimuru continued.
+
+"When the physical change happens, what comes first?"
+
+Mau looked annoyed.
+
+"You've asked Kaneki."
+
+"I want your side."
+
+Mau considered.
+
+"Pressure. Sometimes."
+
+"Where?"
+
+"Back. Head. Not always both."
+
+"Then memory change?"
+
+"Sometimes."
+
+"Sometimes before?"
+
+"Yes."
+
+"Sometimes no memory change at all?"
+
+"Yesterday."
 
 Rimuru nodded.
 
-"Okay."
+The model got worse.
 
-Frieren looked almost angrier.
+Good.
 
-"Okay?"
+A clean model this early would have been suspicious.
 
-"I'm not doing it without consent."
+Frieren spoke.
 
-"Then why ask?"
+"He gets worse when too many people ask at once."
 
-"Because I think we're approaching the point where ordinary stabilization isn't enough."
+Rimuru looked at her.
 
-Frieren said nothing.
+Mau nodded.
 
-Rimuru explained what he actually knew.
+"Feels crowded."
 
-Inside him, Raphael could sometimes isolate dangerous interactions more effectively than outside.
+"Sound?"
 
-Veldora was not an identical case.
+"Not just sound."
 
-Mau was not Veldora.
+"What?"
 
-No guarantee.
+"I don't know."
 
-No claim that absorption would fix memory.
+Rimuru waited.
 
-No claim Raphael could suddenly read the mystery.
+Mau closed his eyes.
 
-Risks.
+"Too many things to place."
 
-Unknown compatibility.
+That was new.
 
-Possible benefit: reduce external stimuli, compartmentalize runaway cross-system interactions, monitor body more continuously.
+Rimuru wrote it exactly.
 
-Frieren's answer stayed no.
+"Too many people?"
 
-Rimuru accepted.
+"People. Mana. Questions. Memories. Maybe."
 
-"For now."
+Mau opened his eyes.
 
-She looked at him.
+"Don't turn maybe into data."
 
-He continued.
+Rimuru crossed something out.
 
-"If his condition worsens, I will ask again."
+"Fair."
 
-Frieren hated that he was being reasonable.
+Frieren watched that.
 
-"Ask him."
+Good.
 
-"I will when he's coherent enough."
+They kept going.
 
-"And if he's not?"
+Does darkness help?
 
-Rimuru looked toward the room.
+Sometimes.
 
-"Then we decide whether waiting for perfect consent is itself a decision to let him deteriorate."
+Does sleep?
 
-Frieren's face closed.
+Not reliably.
 
-Terrible question.
+Does Ori help?
 
-Real.
+Often.
 
-Rimuru added:
+Why?
 
-"I am not asking you to decide his life for him."
+Unknown.
 
-"Then what are you asking?"
+Does Frieren help?
 
-"To help me know when he cannot decide clearly, because you know him better than I do."
+Yes.
 
-Frieren looked away.
+Why?
 
-That was different.
+Mau looked at her.
 
-Still awful.
+"Because she's Frieren."
 
-"No. Not yet."
+Rimuru almost smiled.
 
-"Okay."
+"Scientifically devastating."
 
-Rimuru left.
+"You're welcome."
 
-Frieren went back inside.
+Then the room changed.
 
-Mau was awake.
+Not dramatically.
 
-He had heard enough.
+Mau's face tightened.
+
+He looked toward the wall.
+
+"What?"
+
+Frieren asked.
+
+"Too much."
+
+There were only three people.
+
+Rimuru stopped speaking.
+
+Frieren lowered her mana.
+
+Rimuru did too.
+
+The room became quieter in ways sound did not explain.
+
+Mau breathed out.
+
+"Better."
+
+Rimuru did not write immediately.
+
+He looked at Frieren.
+
+Then at Mau.
+
+Then inward.
+
+Raphael could observe:
+- Mau's temperature;
+- external energy fluctuations;
+- classification instability;
+- response to environmental changes.
+
+She still could not identify a cause.
+
+But Rimuru finally had a different question.
+
+Not:
+
+What is inside Mau?
+
+Instead:
+
+Would reducing the number of interacting systems around Mau change what they could observe?
+
+He did not say absorption.
+
+Not yet.
+
+He asked:
+
+"If we could isolate you from some of the outside input, would you want to test that?"
+
+Mau looked at him.
+
+"How isolated?"
+
+"I don't know yet."
+
+"That's ominous."
+
+"Yes."
+
+Frieren's expression hardened.
+
+Rimuru saw.
+
+He did not push.
+
+The question had been born.
+
+That was enough for one day.

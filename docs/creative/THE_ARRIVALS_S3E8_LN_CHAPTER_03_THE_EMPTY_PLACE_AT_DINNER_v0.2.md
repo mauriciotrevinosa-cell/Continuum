@@ -1,272 +1,354 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 8 — The Empty Place at Dinner
+## Chapter 15 — The Empty Place at Dinner
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 8  
-**Continuity state:** Day 3 — early morning / first meal | G5 exists accidentally | Mau still missing | Worksite remains uninhabited
+**Reading order:** 15  
+**Continuity state:** First disappearance, Day 3 — dawn / first shared meal | Named G5 waves present | Mau still missing | Worksite uninhabited
 
-Breakfast happened at a dinner hour because nobody knew what time counted anymore.
+Breakfast happened at a dinner hour.
 
-Two tables.
+Nobody had slept enough to care what it was called.
 
-Temporary stools.
+Two tables became three.
 
-Bedrolls everywhere.
+Then one door came off its hinges temporarily because Jinshi suggested using it as another surface and Fern stared at him until he put it back.
 
-Diablo absent again.
+The room contained people who had known each other for years and people who had met four hours ago.
 
-Searching.
+Senku and Suika.
 
-That fact mattered.
+Mai.
 
-He had not switched missions to collect Arrivals.
+Nijika and Ryo.
 
-The Arrivals kept happening to his search.
+Richeh and Tetia.
 
-G5 asked the same question in different ways.
+Nazuna.
 
-"Who is Mau?"
+Vamola.
 
-Senku asked it scientifically.
+Turbo Granny.
 
-"What exactly makes his disappearance different from any missing person?"
+Seiko.
 
-A woman from the haul asked emotionally.
+Jinshi.
 
-"Why does the elf look like she's going to kill the weather?"
+Milim.
 
-A third asked politically.
+Diablo was gone again.
 
-"Is Mau in charge?"
+Frieren had gone with him.
 
-Fern:
+That absence changed the meal.
 
-"No."
+Mau's chair stayed empty.
 
-Rimuru:
+Frieren's too.
 
-"No."
+No one sat in either.
 
-Frieren, from the wall:
+Nobody had made a rule.
 
-"No."
+That made it worse.
 
-Strong consensus.
+The first question came from Suika.
 
-Senku pointed at worksite plans.
+"Does Mau like breakfast?"
 
-"Then why is half the labor gone for him?"
+Bocchi blinked.
 
-Agott looked over.
-
-Finally someone else.
-
-Qifrey answered differently than before.
-
-"Different people have different reasons."
-
-They explained enough.
-
-Friend.
-
-Family.
-
-Resident.
-
-Anomaly risk.
-
-Debt.
-
-Trust.
-
-Responsibility.
-
-No universal devotion.
-
-Senku accepted.
-
-"Fine."
+"Yes."
 
 Then:
 
-"Your north drainage measurement is inconsistent."
+"Sometimes."
+
+Momo:
+
+"He burns it."
+
+Stark:
+
+"Often."
+
+The room laughed.
+
+Small.
+
+Then stopped because the laugh had built a person for people who had never met him.
+
+Nijika looked at Bocchi.
+
+"What else?"
+
+Bocchi froze.
+
+Too broad.
+
+Ryo rescued her.
+
+"Does he pay people?"
+
+"No."
+
+"Then I'm out."
+
+Kita hit her shoulder.
+
+Ryo continued eating.
+
+Mai asked Maki:
+
+"Why did you go looking for him?"
+
+Maki answered without performing.
+
+"Because he'd go for me."
+
+Mai:
+
+"That's not enough."
+
+"No."
+
+Good.
+
+Agott looked over.
+
+"Also because if nobody questions the cost, love turns into policy."
+
+Senku pointed at her with a spoon.
+
+"Finally, somebody sane."
 
 Coco:
 
-"Why are you reading that?"
-
-"Because it was beside my food."
-
-"It was not."
-
-"It is now."
-
-He showed.
-
-One number from early survey.
-
-One from later rain.
-
-Different reference point.
-
-Not catastrophic.
-
-Potential future problem.
-
-Senku did not redesign anything.
-
-He marked:
-REMEASURE WHEN PEOPLE STOP DISAPPEARING.
-
-That line survived for months.
-
-At the worksite later, G5 helped in small ways.
-
-Carry stone.
-
-Cover material before rain.
-
-Check a measurement.
-
-Move temporary storage.
-
-No one moved into it.
-
-Old inn remained home.
-
-One newcomer asked:
-
-"Why build a town if you have this inn?"
-
-Stark laughed.
-
-"Sleep here one night."
-
-Answer.
-
-Another looked at empty frames.
-
-"Where does Mau fit into all this?"
-
-Coco:
-
-"Everywhere and nowhere."
+"She is not."
 
 Agott:
 
-"That is a useless answer."
+"I hate all of you."
 
-Coco:
+Richeh smiled.
 
-"You answer."
+The debate became real.
 
-Agott thought.
+How many searchers?
 
-"He helps."
+How far?
 
-"Better?"
+How much food?
+
+What did they stop doing?
+
+Who was covering the worksite?
+
+What happened if Mau was not found today?
+
+Nobody answered:
+we search forever and everything else can collapse.
+
+Fern had rotations.
+
+Native contacts.
+
+Worksite coverage.
+
+Rest requirements nobody obeyed enough.
+
+The community functioned.
+
+Badly.
+
+But functioned.
+
+That distinction mattered.
+
+Jinshi asked:
+
+"Who makes the decision to stop a search route?"
+
+Fern:
+
+"Route lead."
+
+"Who can override?"
+
+"Immediate danger. Otherwise they return at scheduled interval."
+
+"Not Mau's family?"
 
 "No."
 
-Exactly.
+Jinshi nodded.
 
-Mau was not mayor.
+Good.
 
-Not architect.
+Relationship was not command authority.
 
-Not strongest.
+At the third table, Seiko questioned Okarun about a strange roadside report he had ignored two weeks earlier because it did not match anything nearby.
 
-Not owner.
+Turbo Granny called him an idiot.
 
-He was woven through relationships.
+Vamola listened.
 
-Hard to explain to strangers.
+A traveler from the haul had described something north that sounded almost like a spirit and almost like nothing they knew.
 
-At lunch, Milim arrived at worksite carrying too much lumber.
+Seiko did not name it.
 
-"Where?"
+"Write what they saw, not what you think it was."
 
-Everyone pointed.
+Senku looked over.
 
-She dropped it in wrong place.
+"Correct."
 
-Senku stared.
+Seiko:
 
-"Move it."
+"I wasn't talking to you."
 
-Milim looked at him.
+"Still correct."
 
-Coco stopped breathing.
+Milim carried a pot because Rimuru had told her not to search alone.
 
-Senku pointed.
+She hated the restriction.
 
-"Drainage path."
+"Why can Frieren go?"
 
-Milim looked down.
+Rimuru looked tired.
 
-Then moved it.
+"Because Diablo can track her and she knows Mau's habits."
 
-Coco exhaled.
+"I know people too."
 
-Senku:
+"You don't know Mau."
 
-"What?"
+Milim frowned.
 
-"Nothing."
+True.
 
-Milim grinned.
+That was the whole problem.
 
-She liked him.
+She wanted to help someone she did not know because Rimuru cared.
 
-Dangerous.
+That was different from knowing him.
 
-Near sunset Diablo returned without anyone.
+Good.
 
-For the first time.
+Nazuna sat near Anko with enough space to make the choice visible.
 
-Everyone looked anyway.
+Maomao placed a note beside her.
 
-He shook his head.
+Nazuna read.
 
-No false positive.
+SAFE BLOOD SUPPLY — DISCUSS BEFORE NEED.
+
+"You're serious."
+
+Maomao:
+
+"Unfortunately."
+
+Anko did not look at Nazuna.
+
+Future issue.
+
+Not now.
+
+No experiments.
+
+No accidental bite.
+
+At the worksite, assignments formed naturally.
+
+Senku and Suika checked the small drainage discrepancy.
+
+Richeh and Tetia helped Coco and Agott protect one maintainable circle from rain.
+
+Jinshi tracked supply bottlenecks and refused to call that leadership.
+
+Nijika organized food without being asked twice.
+
+Ryo attempted to avoid labor and ended up logging returns.
+
+Mai helped Maki inspect the edge of a search route because both preferred movement to conversation.
+
+Seiko, Okarun, Momo, Aira, Vamola and Turbo Granny compared strange-field reports without pretending they knew what Continuum was doing.
+
+Nazuna slept.
+
+Reasonable.
+
+Milim moved lumber under very specific instructions.
+
+No one built a city overnight.
+
+No one solved the search.
+
+That was the point.
+
+By the time they returned to eat again, each newcomer had heard a different Mau.
+
+Bocchi's Mau noticed when someone wanted to disappear from a room.
+
+Maki's Mau picked fights with impossible things and then apologized badly.
+
+Coco's Mau asked questions until systems became understandable.
+
+Rimuru's Mau trusted people and then tried to carry too much alone.
+
+Agott's Mau made himself useful so constantly that people stopped noticing the labor.
+
+Frieren's Mau was not available for description because Frieren was out looking for him.
+
+Those stories did not perfectly agree.
+
+Good.
+
+A person should not reduce cleanly.
+
+The door opened near the end of the meal.
+
+Every head turned.
+
+Diablo entered.
+
+Frieren behind him.
 
 No Mau.
 
-Frieren stood before anyone could stop her.
+The drop was quieter now.
 
-"I'm going with you."
+Worse.
 
-Rimuru:
+Diablo did not apologize for returning empty.
 
-"Frieren—"
+He looked at Rimuru.
+
+"I found something else."
+
+Senku closed his eyes.
+
+"If it's another person—"
 
 "No."
 
-Different no.
+Diablo's expression had changed.
 
-Not irrational attack.
+"Eight signatures."
 
-Decision.
+The room went still.
 
-Diablo studied her.
+Not G5.
 
-"Can you keep up?"
+Not another false positive.
 
-The room temperature dropped.
+A cluster.
 
-Rimuru:
+Separate.
 
-"Diablo."
+Frieren was already reaching for the map.
 
-"What? A practical question."
+The accidental arrivals had formed around Mau's absence.
 
-Frieren picked up staff.
-
-"I can."
-
-They left.
-
-G5 remained behind.
-
-The people Diablo had mistakenly brought home watched the person he was actually trying to find continue to shape the entire settlement by being absent.
+Now, finally, the search had found a lead that might actually belong to him.

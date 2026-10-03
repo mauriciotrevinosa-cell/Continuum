@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 34 — The Third Day Breaks
+## Chapter 35 — The Third Day Breaks
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 34  
+**Reading order:** 35  
 **Continuity state:** Day 7 — evening | Apparent stability ends | Mau has not left again yet
 
 The third day almost became ordinary.

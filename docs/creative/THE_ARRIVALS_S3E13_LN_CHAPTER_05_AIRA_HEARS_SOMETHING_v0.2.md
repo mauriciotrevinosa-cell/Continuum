@@ -6,45 +6,35 @@
 **Reading order:** 15  
 **Continuity state:** Day 11 — midday | Aira independent route | Rescue trio not yet complete
 
-Aira heard Ori shouting at nobody.
+Aira heard someone shouting before she saw anyone.
 
-That was the first contact.
+Not a scream.
 
-Not the words.
+A command.
 
-Volume.
+"Stay awake."
 
-Someone in the trees yelled:
+Then, louder:
 
-"STAY AWAKE."
+"Mau."
 
-Aira stopped.
+The name meant nothing to her.
 
-Then:
+The desperation did.
 
-"MAU."
+Aira changed direction.
 
-The name meant nothing.
+Branches caught at her sleeves. Wet ground slid under one boot. She nearly went too far east because the river bent harder than it looked through the trees, corrected, and then found two strangers moving toward the same voice.
 
-The urgency did.
+The first was a blue-haired woman carrying a small pack and something black-and-orange tied to it.
 
-She followed.
+The second was a pale young man in dark clothing who moved like he expected the forest to attack him personally.
 
-Wrong direction initially.
-
-Corrected.
-
-Found two strangers following the same sound.
-
-A blue-haired woman.
-
-A hooded man who looked like he had not slept properly in years.
-
-Aira pointed.
+Aira pointed at him.
 
 "You."
 
-Kaneki looked behind him.
+The young man looked behind himself.
 
 "You."
 
@@ -54,25 +44,37 @@ Kaneki looked behind him.
 
 "Suspiciously."
 
-Rem said:
+The blue-haired woman did not slow.
 
 "Someone is hurt."
 
 That ended the introduction.
 
-Three people moved toward Ori's voice.
+They ran together.
 
-Aira ran ahead.
+The voice came again.
 
-Not because she knew what she was doing.
+"Mau. Open your eyes. Come on."
 
-Because someone needed to reach the sound.
+This time Aira heard the fear underneath.
 
-The clearing under the rock appeared.
+They broke through the brush into a shallow clearing beneath a rock overhang.
 
-Ori looked up.
+A girl sat on the ground with one hand pressed against the side of an unconscious man's neck.
 
-Relief happened before suspicion.
+Blood had dried through his hair near the temple. Sweat darkened his shirt. His skin had the wrong color for someone who was merely sleeping.
+
+Something black and organic pressed halfway out from behind him.
+
+Aira stopped.
+
+The dark-haired young man did not.
+
+He moved to the injured man's side and crouched without touching the thing coming from his back.
+
+The blue-haired woman dropped her pack and went immediately to the other side.
+
+The girl looked at all three of them as if she had forgotten strangers could be dangerous.
 
 "Help."
 
@@ -80,48 +82,128 @@ One word.
 
 Enough.
 
-Mau lay beside her.
+"How long has he been like this?" the blue-haired woman asked.
 
-Unconscious.
+"I don't know."
 
-Blood dried in his hair.
+"Hours?"
 
-Skin too warm.
+"Since yesterday. Mostly. He wakes and then—"
 
-A dark organic structure half-formed behind him.
+The injured man's body jerked.
 
-Aira stopped.
+Not waking.
 
-Kaneki did not.
+A hard full-body contraction pulled one shoulder off the ground.
 
-Rem moved to Mau's other side.
+The girl grabbed him.
 
-The trio existed because the emergency demanded roles before names.
+The dark-haired stranger caught her wrist.
 
-Aira recovered.
+"Don't hold him down."
 
-"Tell us what happened."
+"What?"
 
-Ori pointed north.
+"Give him space."
 
-"Monster. Three days ago— no, yesterday? He killed it. It hit his head. He's been unconscious—"
+Another contraction.
 
-Her time sense had degraded too.
+Aira moved the loose knife, notebook and water container away from his legs before he could kick into them.
 
-Rem said:
+The blue-haired woman turned him carefully enough that if he vomited he would not choke.
 
-"Start with breathing."
+Nobody had introduced themselves.
 
-Kaneki said:
+Nobody cared.
 
-"Don't touch the thing behind him yet."
+The dark structure behind him flexed.
 
-Aira looked between them.
+Aira's hand went automatically toward her weapon.
 
-"Great. Excellent. Everyone has jobs."
+"Don't," the young man said.
 
-She crouched near Ori.
+"It moved."
 
-"Mine is apparently making you explain slower."
+"I know."
 
-Accidental rescue team: three.
+"Do you know what it is?"
+
+"No."
+
+That answer made her trust him more than an explanation would have.
+
+The girl was breathing too fast.
+
+Aira crouched in front of her.
+
+"Look at me."
+
+The girl did.
+
+Barely.
+
+"Name."
+
+"Ori."
+
+"His?"
+
+"Mau."
+
+"What happened?"
+
+Ori tried to answer all at once.
+
+They left.
+
+River.
+
+Monster.
+
+Head.
+
+He killed it.
+
+Vomiting.
+
+Fever.
+
+Wouldn't wake.
+
+Something came out of his back.
+
+A name he should not know.
+
+The sentences fell over one another.
+
+Aira held up both hands.
+
+"Slower."
+
+Ori stared at her.
+
+"He's getting worse."
+
+"I know."
+
+"No, you don't."
+
+Aira looked at Mau.
+
+At the blood.
+
+At the movement beneath his back.
+
+At the tremor in his hands even after the contraction ended.
+
+"Then tell us enough that we can."
+
+The blue-haired woman glanced at Mau's breathing.
+
+"Start with the head injury."
+
+Ori swallowed.
+
+The three strangers leaned closer.
+
+For the first time in almost two days, she was no longer the only person responsible for whether Mau survived the next hour.

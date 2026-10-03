@@ -17,8 +17,8 @@
 | 6 | Searchers Get a Name |
 | 7 | The First Holding Site |
 | 8 | Searchers Without Mau |
-| 9 | Richeh |
-| 10 | Richeh Meets a Place |
+| 9 | Richeh Stays a Guest |
+| 10 | Tetia Wants to See Everything |
 | 11 | The Rumor Changes |
 | 12 | The Road Gets Worse |
 | 13 | The Other Camp |
@@ -44,5 +44,5 @@
 - joint message has produced both a safe corridor and hostile distortion;
 - first external partnership exists materially;
 - propaganda now treats cooperation as proof of organized Otherworlder power;
-- Senku has not arrived yet;
-- infrastructure remains flawed enough for his arrival to matter.
+- Senku + Suika have already been present since G5 and have only handled limited small-scale problems;
+- infrastructure is now flawed and inhabited enough for Senku's delayed major civic audit to matter.

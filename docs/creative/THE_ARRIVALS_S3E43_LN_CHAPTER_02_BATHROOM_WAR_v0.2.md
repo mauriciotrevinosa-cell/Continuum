@@ -5,7 +5,7 @@
 **Volume:** 17  
 **Reading order:** 18
 
-Full occupancy broke the bathroom assumptions.
+Full occupancy broke bathroom assumptions.
 
 Again.
 
@@ -17,11 +17,66 @@ Marin another.
 
 A guest child needed one immediately.
 
-Stark had chosen the worst time to bathe.
+Stark had chosen worst possible time to bathe.
 
-Fern stood in a corridor reconsidering civilization.
+Fern stood in corridor reconsidering civilization.
 
-Senku checked the use board.
+"How long?"
+
+No answer from behind one door.
+
+"Umaru."
+
+"Five minutes."
+
+Momo whispered:
+
+"That's a lie."
+
+Everyone knew.
+
+Auxiliary wash point existed.
+
+Weather bad.
+
+Still usable.
+
+Mikasa redirected people.
+
+Milim asked why she couldn't simply make water.
+
+Senku said because bathing was not only water.
+
+Drainage.
+
+Privacy.
+
+Heat.
+
+Capacity.
+
+Milim looked disappointed complexity existed.
+
+Maomao opened door to medical-priority user.
+
+Child first.
+
+No debate.
+
+Then argument:
+should priority board become permanent?
+
+Momo:
+
+"Bathroom constitution."
+
+Fern:
+
+"Stop naming things."
+
+Senku checked use data.
+
+Peak full-house load exceeded assumption.
 
 "Capacity."
 
@@ -29,17 +84,27 @@ Maomao:
 
 "Human."
 
-Both.
+"Both."
 
-They opened the auxiliary wash point.
+They opened auxiliary.
 
 Shortened high-demand use.
 
-Created priority access for medical/children.
+Added simple time guidance at peak.
 
-Momo proposed a bathroom emergency council.
+Not timer policing.
 
-Fern threatened her.
+Expected courtesy.
+
+Marin emerged.
+
+"Beauty requires time."
+
+Aira:
+
+"Then wake earlier."
+
+War.
 
 Eren watched policy emerge from plumbing.
 
@@ -51,4 +116,84 @@ Mau:
 
 Eren almost smiled.
 
-No ideology survives shared bathrooms intact.
+Then:
+
+"That's how bad rules start too."
+
+Mau looked.
+
+Fair.
+
+So they tried without mandatory time slots first.
+
+Signs.
+
+Priority.
+
+Overflow route.
+
+See.
+
+Two days later, worked mostly.
+
+No need for harder rule.
+
+Important.
+
+Governance could stop when problem stopped.
+
+Momo was sad bathroom council never formed.
+
+No one else.
+
+Later, one water-pressure dip hit because baths plus washing court plus kitchen peak overlapped.
+
+Sensor alerted.
+
+No failure.
+
+Maintenance adjusted schedule.
+
+Civic systems talking to domestic habits.
+
+Mau sat in corridor waiting.
+
+Frieren walked past carrying towel.
+
+"You're cutting."
+
+"I have priority."
+
+"For what?"
+
+"Elf."
+
+"That's not a category."
+
+"It should be."
+
+She went anyway.
+
+Mau stared.
+
+Eren saw.
+
+"Your rules seem weak."
+
+Mau:
+
+"Corruption at highest level."
+
+Frieren from inside:
+
+"I heard that."
+
+Shared bathrooms destroyed ideology quickly.
+
+That was healthy.
+
+The city could debate exit rights in afternoon and still need someone to unclog drain at night.
+
+People remained bodies.
+
+Good.

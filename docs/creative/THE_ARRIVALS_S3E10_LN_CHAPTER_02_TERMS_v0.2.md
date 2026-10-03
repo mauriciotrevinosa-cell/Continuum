@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 13 — Terms
+## Chapter 14 — Terms
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 13  
+**Reading order:** 14  
 **Continuity state:** Day 2 — evening | Witch bargain recorded | Old inn remains destination
 
 They wrote the agreement down.

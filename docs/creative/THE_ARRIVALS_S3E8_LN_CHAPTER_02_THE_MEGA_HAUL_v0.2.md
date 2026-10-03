@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 7 — The Mega-Haul
+## Chapter 7 — The First Wrong Person
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
 **Reading order:** 7  
-**Continuity state:** Day 2 night -> Day 3 pre-dawn | Diablo actively searching for Mau | G5 forms accidentally through false positives
+**Continuity state:** First disappearance, Day 2 — night | Diablo actively searching for Mau | First major G5 false positive
 
 Diablo left the inn with a description.
 
@@ -30,332 +30,422 @@ Diablo looked at Rimuru.
 
 "This description is terrible."
 
-Rimuru:
-
 "I know."
 
-"Do you have his energy signature?"
+"Do you have a signature?"
 
-"Not one I trust enough to give you."
+"Not one I trust."
 
-Memory crisis.
+Frieren sat because Fern had told her to sit and Rimuru had repeated it and Seiko did not exist in the room yet to make the order worse.
 
-Noise.
-
-Too many systems.
-
-Diablo smiled.
-
-"I will find him."
-
-Frieren, sitting because three people had effectively ordered her to:
+Her hands still shook from the road.
 
 "Bring Mau."
 
-Diablo bowed slightly.
+Diablo bowed.
 
-"Of course."
+"I will."
 
-He was back forty minutes later.
+He was back forty-three minutes later.
+
+The door opened.
 
 Everyone stood.
 
-Diablo looked pleased.
+That first return was pure hope.
 
-Behind him walked a sharp-eyed teenager with wild hair, dirty clothes and the expression of someone who had been kidnapped by incompetence rather than force.
+No caution yet.
 
-Diablo gestured.
+No learning.
 
-"I found him."
+Diablo entered smiling.
 
-Silence.
+Behind him walked Senku Ishigami.
 
-Rimuru stared.
-
-Frieren stared.
-
-The teenager stared back.
+Beside Senku walked a small girl in a watermelon helmet, clutching a bag and looking exhausted but alert.
 
 Mau was not there.
 
-The teenager looked around the inn.
+Frieren sat down so suddenly the chair hit the wall.
 
-"Okay. Who the hell is Mau?"
+Senku saw it.
 
-Diablo's smile changed by approximately one millimeter.
+His irritation with Diablo changed shape.
+
+Diablo gestured.
+
+"I found—"
+
+"No," Senku said.
+
+Diablo looked at him.
+
+"You do not know what I was going to say."
+
+"You were going to say you found the missing person."
+
+Silence.
+
+Senku pointed at himself.
+
+"Do I look like somebody who doesn't know his own name?"
 
 Rimuru closed his eyes.
 
-"That's Senku Ishigami."
-
-Senku pointed at Diablo.
-
-"This lunatic felt 'anomalous outsider signature' and decided that was identification."
-
 Diablo:
 
-"You fit multiple parameters."
+"You match several parameters."
 
-"Congratulations."
+"Congratulations. Your parameters suck."
 
-Frieren sat back down.
+The girl tugged Senku's sleeve.
 
-Not disappointment gracefully managed.
+"Senku."
 
-A visible drop.
+"I'm calm."
 
-Senku saw.
+"You said 'suck.'"
 
-His irritation disappeared enough to ask:
+"Scientific term."
 
-"Missing?"
+She did not believe him.
 
-Rimuru nodded.
+Fern stepped forward.
 
-"Almost two days."
+Not toward the argument.
 
-"Useful data?"
+Toward the girl.
 
-"Not enough."
+"What's your name?"
 
-Senku looked at maps.
+"Suika."
 
-Then at the damaged road outside.
+"Are you hurt?"
 
-Then at Frieren.
+Suika shook her head.
 
-He chose not to ask about crater.
+Then reconsidered.
 
-"Give me paper."
+"Feet."
 
-That was how Senku entered G5.
+Blisters.
 
-Not as the man who rebuilt the city.
+Simple.
 
-As the wrong Mau.
+Real.
 
-Diablo left again.
+Fern sat her down.
 
-Second return took longer.
+Senku watched.
 
-This time he brought a woman whose magical signature had fractured under Continuum adaptation.
+That was the first thing Continuum did to him that he respected.
 
-He entered with the exact same confidence.
+No one asked what he could build.
 
-"I believe this one—"
+No one asked whether he was useful.
 
-Frieren looked once.
+Water.
 
-"No."
+Feet.
 
-The woman looked offended.
+Food.
 
-"Excuse me?"
+Then questions.
 
-"Not you."
+Senku answered rapidly.
 
-"Oh."
+Name.
 
-She stayed for food.
+Origin unclear in Continuum terms.
 
-Temporary guest.
+Last known memory.
 
-Diablo left again.
+How long alone?
 
-Third return:
+"Less than two days."
 
-two people.
+Estimate.
 
-One refused to enter the inn until Fern explained they could leave whenever they wanted.
+He hated saying it.
 
-The other had been hiding because every powerful presence they met had tried to recruit them.
+Then he looked at the maps.
 
-Diablo had somehow interpreted both as potentially related to Mau's unstable traces.
+"Where are we?"
 
-Neither was Mau.
+Rimuru gave the shortest version.
 
-Rimuru stared at the growing room.
+Another world.
 
-"Diablo."
+Arrivals.
 
-"Yes, Rimuru-sama?"
+No known return path.
 
-"How many people are you planning to find before you find the one person we're looking for?"
+Mau missing.
 
-Diablo considered.
+Memory instability.
 
-"As many as necessary."
+Diablo searching by broad anomaly criteria.
 
-Senku laughed for the first time.
+Senku turned to Diablo.
 
-Frieren did not.
+"So you detected me because I'm weird."
 
-She looked at each return.
+"Crude."
 
-Every time the door opened:
-hope before recognition.
+"Accurate."
 
-Every time:
-not Mau.
+Suika raised her hand.
 
-That repetition began hurting the whole house.
+"And Suika?"
 
-Fern noticed first.
+Diablo paused.
 
-"Next time, don't announce from outside."
+Senku's expression sharpened.
 
-Diablo looked confused.
-
-"Why?"
-
-"Just come in."
-
-He looked at Frieren.
-
-Understood.
-
-"Very well."
-
-The accidental arrivals needed:
-food.
-blankets.
-names.
-medical checks.
-choices.
-
-The inn filled.
-
-Nobody had planned Group Five.
-
-Nano started a page because population required one.
-
-No group name yet.
-
-Just:
-NEW ARRIVALS / SAME SEARCH WINDOW.
-
-Senku read the future-site notes while waiting.
-
-Not because he had volunteered for city design.
-
-Because paper was there and his brain needed a problem that did not involve someone missing.
-
-He found one measurement inconsistency.
-
-Then another.
-
-He looked at Rimuru.
-
-"Who did these?"
-
-"Several people."
-
-"That explains it."
-
-Coco bristled.
-
-Agott:
-
-"He's right about this one."
-
-Senku looked at her.
-
-"Good."
-
-No grand audit.
-
-One small correction.
-
-Then he asked:
-
-"Does working there help the search?"
-
-Fern:
-
-"No."
-
-"Does it help the people stuck here while everyone searches?"
+"You brought her because she was with me."
 
 "Yes."
 
-Senku stood.
+Good.
 
-"Then show me."
+That mattered.
 
-By midnight, one accidental Arrival was helping carry material.
+Suika had not been classified as an anomaly merely for existing beside Senku.
 
-Another sorted supplies.
+Small relief.
 
-Senku rechecked one drainage measurement.
+Then Senku asked:
 
-Not because they loved Mau.
+"Who is Mau?"
 
-Most still did not know him.
+The question hurt the room.
 
-Because they had arrived inside a community missing half its labor.
+Not because it was wrong.
 
-The fourth time Diablo returned, Milim was with him.
+Because nobody knew how to answer briefly.
 
-Not a false positive.
+Rimuru:
 
-She had found Diablo.
+"My friend."
 
-"Rimuru!"
+Bocchi, from the stairs:
 
-She blew through the door.
+"Family."
 
-Then saw Rimuru.
+Frieren looked at the floor.
 
-Relief.
+"My boyfriend."
 
-Then everyone else.
+Senku looked at all three.
 
-Then Frieren.
+Then the route board.
 
-Then crater.
+"How long?"
 
-"What happened?"
+"Almost two days."
 
-Rimuru pointed at Frieren.
+"Known injury?"
 
-Frieren did not react.
+"No."
 
-Milim looked impressed.
+"Known destination?"
 
-"Cool."
+"No."
 
-No one agreed.
+"Reliable trail?"
 
-Milim asked:
+"No."
 
-"Who's missing?"
+"Then you're searching probability, not a route."
 
-Several G5 voices answered at once:
+Agott looked up.
 
-"Mau."
+"Yes."
 
-Milim:
+Finally.
 
-"Who's Mau?"
+Someone said the ugly part without apologizing.
 
-Senku, without looking up from a measurement sheet:
+Senku walked to the table.
 
-"Apparently the most expensive missing person in this world."
+"Show me what you do know."
 
-Agott, passing:
+Frieren's head lifted.
 
-"That is what I said."
+Rimuru hesitated.
 
-For the first time in two days, Frieren almost laughed.
+Not because Senku was unwelcome.
 
-Almost.
+Because this was the exact trap:
 
-Diablo watched.
+new genius arrives,
+genius solves plot.
 
-Then turned north again.
+Senku saw the hesitation.
 
-He had not found Mau.
+"I didn't say I can find him."
 
-He had accidentally built a cohort around the hole Mau left.
+Good.
 
-He remained certain the next search would be different.
+"I said show me the data."
+
+Better.
+
+They did.
+
+Not all of it.
+
+What was safe.
+
+Routes.
+
+Times.
+
+Observed contradictions.
+
+Known places.
+
+Senku read.
+
+Asked three questions.
+
+Then stopped.
+
+His eyes narrowed at the page.
+
+He tried to hold:
+route distance,
+rain timing,
+two conflicting witness statements,
+one magical assumption,
+one unfamiliar unit conversion.
+
+Pause.
+
+Small.
+
+But Senku noticed.
+
+He repeated the calculation.
+
+Slower.
+
+Same result.
+
+He wrote the time.
+
+Rimuru noticed.
+
+"What?"
+
+"Nothing."
+
+Lie.
+
+Senku did it again.
+
+Suika watched his face.
+
+She knew him well enough to know when "nothing" meant new problem.
+
+"Senku?"
+
+He tapped the paper.
+
+"My head is slower."
+
+Nobody spoke.
+
+He hated how dramatic that sounded.
+
+"Not stupid. Slower under unfamiliar load."
+
+Rimuru:
+
+"Continuum effect?"
+
+"Working hypothesis."
+
+He wrote it down.
+
+No denial.
+
+No romantic speech about limitation.
+
+Annoyance.
+
+Measurement.
+
+Later.
+
+For now the search.
+
+They could not improve Mau's route from Senku's first look.
+
+Good.
+
+No cheat code.
+
+Senku stared at the worksite sheet beside the search map.
+
+"What's this?"
+
+"Future site," Coco said.
+
+"Occupied?"
+
+"No."
+
+"Then why are materials exposed to rain?"
+
+Coco stood.
+
+"What?"
+
+Small problem.
+
+Useful.
+
+Something Senku could do while people with better search tools searched.
+
+He and Suika went with Coco to cover storage and remeasure one drainage reference point.
+
+Not city redesign.
+
+A tarp.
+
+A marker.
+
+One inconsistent number.
+
+Suika found where water had already cut a shallow channel beside the stored timber.
+
+Senku crouched.
+
+"Write that."
+
+Coco did.
+
+When they returned, Diablo was preparing to leave again.
+
+Senku looked at him.
+
+"Try not to abduct civilization this time."
+
+Diablo smiled.
+
+"No promises."
+
+The door closed.
+
+Frieren watched it.
+
+Senku saw.
+
+The first wrong person had arrived.
+
+He had already learned the most important thing about Mau without meeting him:
+
+when the door opened, everyone hoped first and recognized second.
+
+That was expensive.

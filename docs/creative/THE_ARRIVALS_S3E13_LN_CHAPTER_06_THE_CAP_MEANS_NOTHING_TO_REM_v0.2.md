@@ -4,96 +4,240 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 16  
-**Continuity state:** Day 11 — midday | Mau found | Cap has not yet reached household context
+**Continuity state:** Day 11 — early afternoon | Mau found | Initial field triage
 
-Rem took the cap off her pack while Ori was explaining.
+The first ten minutes became practical.
 
-"This?"
+Breathing.
 
-Ori stared.
+Pulse.
 
-For one second the crisis changed shape.
+Temperature.
+
+Head wound.
+
+Water.
+
+Shade.
+
+Nothing mystical.
+
+Rem—because that was finally the blue-haired woman's name—asked questions while working.
+
+"When did he last drink?"
+
+"This morning. A little."
+
+"Keep anything down?"
+
+"Some water."
+
+"Food?"
+
+Ori shook her head.
+
+Kaneki—the other stranger—stayed near Mau's back.
+
+The dark structure had withdrawn until only a raised line remained beneath torn fabric.
+
+He did not touch it.
+
+Aira noticed.
+
+"You know what that is."
+
+"I know what it resembles."
+
+"Same thing."
+
+"No."
+
+Kaneki's answer came too fast for argument.
+
+Rem touched Mau's wrist again.
+
+"His pulse is too fast."
+
+Ori laughed once.
+
+Bad sound.
+
+"Everything is too fast."
+
+Rem looked at her.
+
+"How long did you sleep?"
+
+Ori said nothing.
+
+Rem understood.
+
+"Later."
+
+Mau moved.
+
+Not awake.
+
+His head turned toward Ori's voice.
+
+His lips formed something.
+
+Frieren.
+
+Ori froze.
+
+Aira leaned closer.
+
+"What did he say?"
+
+"Someone's name."
+
+"Here?"
+
+"No."
+
+That answer hurt more than Aira expected.
+
+Mau's eyelids opened halfway.
+
+No focus.
+
+Ori moved immediately.
+
+"Mau?"
+
+His eyes crossed her face without finding it.
+
+Then landed.
+
+"Ori."
+
+Relief broke through her so violently she almost laughed.
+
+"Yes."
+
+"Where's—"
+
+His face changed.
+
+The question disappeared.
+
+He looked past Ori toward trees that were not the inn, not the road, not anywhere his expression recognized.
+
+"Why is the wall gone?"
+
+Ori's relief vanished.
+
+"There isn't a wall."
+
+Mau looked at her.
+
+For one moment suspicion.
+
+Then pain.
+
+Then nothing.
+
+His eyes closed again.
+
+Rem did not say concussion.
+
+Not yet.
+
+Head trauma explained some things.
+
+Not all.
+
+She reached for her pack.
+
+The black-and-orange cap tied to the side swung loose.
+
+Ori noticed.
+
+Stopped breathing.
 
 "Where did you get that?"
 
-"River."
+Rem looked down.
 
-Ori took it.
+"This?"
 
-Mud.
+She untied it.
 
-Water damage.
+Dirty.
 
-Orange details.
+Water-worn.
 
-McLaren.
+Orange details faded under mud.
 
-Mau's.
+Ori took it with both hands.
 
-The cap he had lost long before Ori knew him well.
+"Mau's."
 
-She knew the story because Bocchi had told it badly and Momo had corrected it loudly.
-
-During the mercantile-town attack.
-
-Bocchi wearing it.
-
-Mau choosing injured Bocchi over going back for an object.
-
-"That's his."
-
-Rem looked at Mau.
+Aira looked from the cap to the unconscious man.
 
 "Recent?"
 
 "No."
 
-"What?"
+Ori wiped one thumb over the brim.
 
-"It was lost months ago."
+"He lost it months ago."
 
 Rem frowned.
 
-Then:
-
-"So it may have nothing to do with this route."
+"Then it may have nothing to do with him being here."
 
 "Yes."
 
+No magical tracking.
+
+No impossible clue.
+
+Just an object from another bad day that had somehow made it downstream into this one.
+
+Ori set it beside the copied notebook.
+
+Mau's fingers moved.
+
+The hand closest to it closed around air.
+
+Rem noticed and placed the cap farther away so he could not grab and pull himself sideways.
+
+Practical before symbolic.
+
 Good.
 
-They did not turn emotional significance into forensic certainty.
+Then Mau's whole body tightened again.
 
-Ori held the cap.
+This one lasted longer.
 
-Object from Mau's past.
+Aira moved objects.
 
-Recovered during a crisis about whether his past belonged to him.
+Rem protected his head.
 
-Too neat.
+Ori counted breaths because she needed a job.
 
-Reality occasionally had bad taste.
+Kaneki watched the line under Mau's back rise.
 
-She put it beside the copied notebook.
+Higher.
 
-Rem asked:
+Higher.
 
-"Should he have it?"
+Then split the shirt.
 
-"Later."
+A dark limb unfolded into the wet air.
 
-If there was a later.
+Aira had seen things she did not understand before.
 
-Ori hated herself for thinking it.
+Understanding was not required for fear.
 
-Kaneki said:
+She stepped back.
 
-"There will be."
+Kaneki stayed.
 
-No evidence.
+"Nobody get behind him."
 
-Comfort.
+Mau was unconscious.
 
-Different category.
-
-Ori accepted it anyway.
+The limb moved anyway.

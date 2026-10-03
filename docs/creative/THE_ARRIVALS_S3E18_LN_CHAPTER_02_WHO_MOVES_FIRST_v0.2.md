@@ -160,17 +160,51 @@ Aira:
 
 "Even better."
 
-G5 split.
+G5 split in ways that matched the choices they had already made.
 
-Some volunteered.
+Senku volunteered for first night because the worksite had finally become interesting enough to measure under real use.
 
-Some had no reason to.
+Suika volunteered too.
 
-One temporary guest had already decided to leave for a native town after two more days.
+Not as his appendage.
 
-Moving twice would be pointless.
+"I want to see the night paths."
 
-Another wanted to try the new site.
+Mikasa nodded.
+
+Useful reason.
+
+Vamola chose first night because Momo and Okarun were already going to be there and she wanted to understand the new place with people she trusted.
+
+Nijika and Ryo stayed at the inn for the first night with Bocchi and Kita.
+
+No debate.
+
+Kessoku moved together when Bocchi was ready, not when construction was ready.
+
+Mai stayed.
+
+Maki looked at her.
+
+Mai:
+
+"Don't make a face."
+
+"I'm not."
+
+"You are."
+
+Richeh stayed under guest status.
+
+Tetia wanted to go immediately, then chose to wait one night because Richeh's answer did not need to become hers by reaction.
+
+Nazuna called the whole question "day-person logistics" and kept traveling status.
+
+Seiko stayed at the inn because she wanted the old route maps.
+
+Turbo Granny went wherever Seiko and the Dandadan idiots were useful.
+
+Jinshi stayed because Fern had not yet moved the intake records and he refused to create two bad administrative systems at once.
 
 Milim announced:
 

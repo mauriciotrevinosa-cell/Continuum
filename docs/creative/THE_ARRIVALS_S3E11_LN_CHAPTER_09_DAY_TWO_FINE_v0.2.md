@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 24 — Day Two Fine
+## Chapter 32 — Day Two Fine
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 24  
-**Continuity state:** Day 5 | Mau outwardly stable | Old inn still home | G5 present | Worksite active
+**Reading order:** 32  
+**Continuity state:** Day 6 | Mau outwardly stable | Old inn still home | Named G5 present | Worksite active
 
 Day two began badly enough to feel normal.
 

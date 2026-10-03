@@ -7,27 +7,47 @@
 
 The road did not reopen.
 
-Three nights became five.
+Night three became night four without a meeting.
 
-Then seven.
+The teacher went to Arrival House.
 
-No one announced refugee status.
+"One more."
 
-Reality did.
+Fern:
 
-More people arrived.
+"Yes."
 
-Not from the second community only.
+No leverage.
 
-Holding-site releases.
+No shame.
 
-Travelers avoiding registration routes.
+Night five, same.
 
-One native family whose home sat too close to repeated monster movement.
+Then another group arrived.
 
-Arrival House expanded.
+Holding-site release.
 
-Canvas roof.
+Two people.
+
+One needed a bed.
+
+One refused to sleep inside any organized Otherworlder settlement.
+
+Searchers found old-inn space for one night, then a native host.
+
+Another arrival came from a road with new registration.
+
+Then a native family arrived because repeated monster movement had made their farm temporarily unsafe.
+
+Not Otherworlder.
+
+That mattered.
+
+Arrival House had to decide whether the word Arrival described origin or need.
+
+Fern answered by finding beds.
+
+The canvas structure expanded.
 
 Second medical cot.
 
@@ -35,28 +55,104 @@ Privacy dividers.
 
 Dedicated bunks.
 
-The settlement had not planned to become refuge this early.
+Storage moved because blankets had become more important than the boxes occupying that corner.
 
 Mud arrived first.
 
 Then people.
 
-The distinction between resident and temporary protection mattered because some visitors still intended to leave.
+The settlement had not planned to become refuge this early.
 
-One second-community elder repeated:
+No one asked planning permission.
+
+By day six, breakfast waves became refugee logistics.
+
+Residents who used to eat second ate first because work shifts had moved.
+
+Children used tables adults wanted for paperwork.
+
+Good.
+
+The second-community elder repeated:
 
 "We are not moving here."
 
-Fern answered:
+Fern:
 
 "Okay."
 
-No argument.
+He stared.
+
+"You keep saying that."
+
+"You keep saying you're not moving."
+
+Fair.
 
 They still received food.
 
-The main settlement's counterargument to dispersion had become capacity, not moral superiority.
+No one changed status without request.
 
-People could come when needed and leave when possible.
+Temporary protection.
 
-That was a stronger refuge than forced unity.
+Guest.
+
+Resident.
+
+Different.
+
+That distinction became important when one visitor left on day six despite road warnings.
+
+Mikasa disagreed.
+
+Could not stop him.
+
+Exit right.
+
+He made the trip safely.
+
+Sent message.
+
+Good.
+
+Another visitor decided to stay longer even after the road reopened.
+
+Her choice.
+
+No collective decision.
+
+The main settlement's strongest argument against dispersion became capacity.
+
+Not moral superiority.
+
+People could come when roads closed.
+
+Leave when they opened.
+
+Use medical help.
+
+Ask Searchers.
+
+Keep their own leadership.
+
+Refuge did not require political absorption.
+
+On night seven, the teacher sat outside with Rimuru.
+
+"Your place is louder."
+
+"Yes."
+
+"I still don't want to live here."
+
+"Okay."
+
+Pause.
+
+"I'm glad it exists."
+
+Rimuru smiled.
+
+"Same."
+
+That was enough.

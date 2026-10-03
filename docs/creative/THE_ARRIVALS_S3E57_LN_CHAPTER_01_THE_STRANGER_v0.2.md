@@ -3,56 +3,139 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 9
+**Reading order:** 9  
+**Continuity state:** Early Trial | Mau learns self-sacrifice is not limited to intimacy
 
-The designated other was a stranger.
+The fourth designated person had no name.
 
-No name.
+No shared history.
 
-No history.
+No reason Mau could call them family.
+
+A stranger stood across a collapsing corridor.
 
 Terrified.
 
-Mau could survive by leaving them.
+Mau had a clear exit.
 
-He did not.
+"Please go."
+
+They were asking him to leave.
+
+Mau went back.
 
 Death.
 
 Anchor.
 
-Next:
+Four.
 
-the sanctuary collaborator.
+The fifth scenario used someone Mau recognized from the sanctuary conflict.
 
-Mau died.
+A collaborator.
 
-Next:
+Not innocent in the clean way stories preferred.
 
-a hostile militia fighter from Last Defense.
+Someone whose choices had hurt people.
 
-Mau hesitated longer.
+Coercion existed.
 
-Still died.
+Responsibility too.
+
+The Trial offered no moral essay.
+
+Only a door.
+
+Mau could close it and survive.
+
+The collaborator would not.
+
+Mau hesitated.
+
+Good.
+
+He thought of the resident who had been harmed.
+
+Saving did not equal forgiving.
+
+Protecting life did not erase consequence.
+
+Mau opened the door.
+
+Death.
+
+Anchor.
+
+Five.
+
+"Why?"
+
+"Saving them doesn't forgive them."
+
+Next.
+
+A hostile fighter from Last Defense.
+
+Someone who had tried to hurt people Mau loved.
+
+Anger came first.
+
+Also good.
+
+The fighter was trapped.
+
+Mau had a route out.
+
+"If you hate me, go."
+
+For one second, Mau imagined doing it.
+
+Not because he believed the person's life was worthless.
+
+Because maybe he was allowed not to spend himself for everyone.
+
+The thought almost survived.
+
+Then Mau turned back.
+
+Death.
+
+Anchor.
+
+Six.
 
 The Goddess asked:
 
 "Why?"
 
-Mau finally answered:
+Mau stayed on the floor this time.
+
+The anchor had returned him standing.
+
+His mind had not followed.
 
 "Because their life doesn't become cheaper because I don't like them."
 
-Outside, the harmed resident who hated the collaborator heard that.
+Outside, a resident harmed by that same faction heard him.
 
-No reconciliation followed.
+No forgiveness followed.
 
 Good.
 
-The Trial was not manufacturing forgiveness.
+No manufactured reconciliation.
 
-It was exposing Mau's baseline.
+The Trial was exposing a rule:
 
-Self-sacrifice did not require intimacy.
+Mau assigned value to other lives even without affection.
 
-That made it more dangerous, not more noble.
+His own life did not receive equal protection.
+
+Seven began.
+
+Then eight.
+
+By ten, "heroism" was no longer a useful explanation.
+
+By twelve, Mau knew it too.
+
+He still chose himself.

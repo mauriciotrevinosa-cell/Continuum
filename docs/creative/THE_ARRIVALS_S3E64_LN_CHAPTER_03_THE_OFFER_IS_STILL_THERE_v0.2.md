@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 35 — The Offer Is Still There
+## Chapter 40 — The Offer Is Still There
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 35
+**Reading order:** 40
 
 Morning did not solve home.
 

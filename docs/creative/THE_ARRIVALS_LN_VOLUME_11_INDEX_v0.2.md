@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 11 Index v0.2
 
-**Status:** ACTIVE REBUILD READER ORDER — G5 INTEGRATED  
+**Status:** ACTIVE MERGED READER ORDER — PROSE PASS COMPLETE  
 **Volume:** 11  
 **Season:** 3  
 **Volume title:** **Eight Signatures**  

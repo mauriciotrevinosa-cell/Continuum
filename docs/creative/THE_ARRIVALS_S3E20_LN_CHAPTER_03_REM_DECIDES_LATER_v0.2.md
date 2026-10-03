@@ -4,13 +4,13 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
 **Reading order:** 15  
-**Continuity state:** Move Day 3 | Rem still at old inn | Her status remains guest/searching
+**Continuity state:** Move Day 3 | Rem remains old-inn guest/searcher by choice
 
 Rem came to the settlement carrying supplies.
 
 Not luggage.
 
-Fern noticed.
+Fern noticed before anyone else.
 
 "So you're going back tonight."
 
@@ -20,23 +20,25 @@ No disappointment.
 
 Good.
 
-Rem toured the site.
+They unloaded.
 
-Medical room.
+Rem had been to the worksite before.
 
-Kitchen.
+That was not the same as seeing it occupied.
 
-Shared space.
+Clothes drying.
 
-Temporary guest rooms.
+People arguing over water.
 
-She liked some things.
+Bocchi's guitar case inside an unfinished room.
 
-Disliked others.
+Kaneki's things near food storage.
 
-Nobody asked for a verdict.
+Aira's boots outside the wrong door.
 
-Mau saw her near the water point.
+The place had changed category while Rem slept somewhere else.
+
+Mau found her near the water point.
 
 "Need help?"
 
@@ -46,7 +48,7 @@ Rem looked at the container.
 
 Mau nodded.
 
-Then caught himself smiling.
+Then smiled.
 
 Rem noticed.
 
@@ -54,32 +56,171 @@ Rem noticed.
 
 "Nothing."
 
-She did not believe him.
+"That was definitely something."
+
+Mau thought about explaining Wakana's sentence.
+
+Presence without usefulness.
+
+Then decided not every lesson needed narration.
+
+"You're carrying it fine."
+
+Rem narrowed her eyes.
+
+Suspicious.
+
+They walked.
+
+Medical room first.
+
+Rem had helped label storage.
+
+Seeing the labels in use felt satisfying.
+
+Kitchen.
+
+Common room.
+
+Temporary guest spaces.
+
+Bunks not yet installed.
+
+One room empty.
+
+Rimuru said:
+
+"That one could be yours if you move."
+
+Rem looked.
+
+Mau expected a response.
+
+Caught himself expecting.
+
+Rem stepped inside.
+
+Window.
+
+Bed space.
+
+No personal objects.
+
+Potential.
+
+She came back out.
+
+"I don't know if I want it."
+
+Rimuru answered:
+
+"Okay."
+
+No:
+take your time, we'd love you here, this can be home.
+
+Just okay.
+
+Rem relaxed.
+
+Later, she saw the room Kaneki had taken.
+
+He had moved one bag.
+
+No decoration.
+
+Aira's room looked more inhabited despite containing less because Aira had somehow damaged a door latch already.
+
+Different people arrived differently.
+
+Rem did not need to match.
+
+She and Mau sat near the water court frame.
+
+Not finished.
+
+Mau asked:
+
+"Do you remember where you found the cap?"
+
+"Yes."
+
+He looked at her.
+
+"Can you show me someday?"
+
+Rem thought.
+
+"If you want."
+
+"Not now."
+
+"Okay."
+
+The river mattered to Mau.
+
+To Rem it had been one route among many.
+
+The asymmetry was healthy.
+
+She did not need to inherit his symbolism.
+
+Mau thanked her again.
+
+Not for everything.
+
+Specifically:
+
+"For not making the cap into a sign."
+
+Rem looked confused.
+
+"It was a cap."
+
+"Exactly."
 
 Good.
 
-They talked about the river.
+By late afternoon, Fern prepared to return to the inn.
 
-The cap.
+Rem picked up the same supply bag.
 
-The days Mau did not remember cleanly.
+Still no luggage.
 
-Rem never claimed a bond because she had saved him.
+Rimuru stopped nearby.
 
-Mau never tried to make one out of debt.
+"You can move whenever you want."
 
-Before leaving, Rimuru offered again:
-
-"You can move when you want."
-
-Rem said:
+Rem looked at him.
 
 "I don't know if I want."
 
 "Also valid."
 
-She returned to the inn with Fern.
+She nodded.
 
-That night two beds at the settlement remained intentionally empty.
+Mau felt the sentence settle.
 
-A city capable of accepting people had to be capable of not absorbing them.
+A city capable of receiving people had to be capable of hearing:
+
+maybe.
+
+no.
+
+later.
+
+The road back to the inn felt quieter.
+
+Fern and Rem walked together.
+
+At the settlement, two beds remained empty that night.
+
+Not failure.
+
+Space.
+
+At the inn, Rem slept in the room she already knew.
+
+Not because she rejected the future.
+
+Because no one had the right to force her uncertainty to become a milestone.

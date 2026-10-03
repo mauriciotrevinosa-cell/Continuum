@@ -4,76 +4,143 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 15  
-**Continuity state:** Containment, hour 1 | First direct Raphael observation of endogenous structure
+**Continuity state:** Containment, hour 1+ | Raphael can partially isolate an endogenous process for the first time
 
 Raphael did not find a person.
 
-Important.
+That mattered enough that Rimuru repeated it twice.
 
-No hidden consciousness introduced by convenience.
+No second consciousness.
 
-No villain sitting in Mau's head.
+No hidden speaker sitting behind Mau's thoughts.
 
-She found process.
+No villain waiting to be named.
 
-Or pieces of process.
+Inside containment, Mau heard the explanation through the strange connection that had replaced ordinary sound.
 
-Observed information had been organized.
+"So what did she find?"
 
-Compared.
+Raphael did not answer with a noun.
 
-Some patterns had been analyzed.
+Patterned activity.
 
-Some structures resembled systems Mau had encountered:
-- mana logic;
-- cursed-energy logic;
-- biological response;
-- Continuum-local behavior;
-- fragments that did not resolve.
+Mau waited.
 
-The process was not identical to any of them.
+"That's deliberately vague."
 
-Raphael could not prove when it began.
+Correct.
 
-Could not prove whether it had always existed.
+Outside, Rimuru translated.
 
-Could not prove whether the memory attack created any part of it.
+Frieren sat beside the empty bed.
 
-She could distinguish one thing:
+She had moved the chair closer to Rimuru without noticing.
 
-the current external manipulation and the endogenous process were not cleanly the same phenomenon.
+"What does patterned activity mean?"
 
-That mattered enormously.
+Rimuru closed his eyes.
 
-Rimuru repeated the finding to the room.
+"Information is being handled."
 
-Frieren asked:
+"By what?"
 
-"So the thing changing his memories didn't create this?"
+"Unknown."
 
-Rimuru answered carefully.
+Qifrey asked from the far side of the room:
 
-"Raphael cannot support that conclusion."
-
-Good.
-
-Qifrey:
-
-"Can she support the opposite?"
+"Spell structure?"
 
 "No."
 
-Also good.
+"Skill?"
 
-Inside, Mau listened.
+"Not one Raphael recognizes."
 
-The process generated fragments.
+"Parasite?"
 
-Not voice.
+"No evidence."
 
-Not intent.
+Every answer removed one easy story.
 
-Terms without speaker.
+None replaced it.
+
+Inside, Mau experienced the observation differently.
+
+Raphael's attention moved near the process and pieces became perceptible because she was separating them from everything else.
+
+Mana logic.
+
+Not mana.
+
+The way mana systems were structured.
+
+Cursed-energy-like relationships.
+
+Not cursed energy flowing through him exactly.
+
+Models.
+
+Biological responses.
+
+Continuum behavior.
+
+Fragments that refused category.
+
+It felt less like discovering an object and more like noticing someone had been sorting a desk behind a wall for a long time.
+
+Mau hated the metaphor immediately.
+
+"How long has this been happening?"
+
+Unknown.
+
+"Before I got here?"
+
+Unknown.
+
+"Since I woke up?"
+
+Unknown.
+
+"Did the memory attack create it?"
+
+Insufficient evidence.
+
+Outside, Frieren asked the same question in different words.
+
+"So the thing changing his memories didn't make this?"
+
+Rimuru listened to Raphael.
+
+"She can't support that."
+
+Qifrey leaned forward.
+
+"Can she support that they are separate?"
+
+"No."
+
+Frieren's expression hardened.
+
+"So we know nothing."
+
+Rimuru opened his eyes.
+
+"We know we shouldn't merge two mysteries because they're both inside Mau."
+
+That was something.
+
+Small.
+
+Important.
+
+Inside, the process shifted.
+
+Not because it noticed them.
+
+Raphael could not support intent.
+
+But a sequence became clear enough that Mau felt it before she finished describing it.
 
 Observe.
 
@@ -85,60 +152,212 @@ Construct.
 
 Mau went cold.
 
-He knew those.
+Not words exactly.
 
-Not as words always.
+Movement.
 
-As movement.
+Function.
 
-Raphael asked whether he recognized the sequence.
+A progression he knew the way a person knew the rhythm of a staircase in the dark.
 
-"Yes."
+Raphael paused.
 
-From when?
+Recognition detected.
 
-Mau could not answer.
+Mau laughed once.
 
-Before Continuum?
+"Yeah."
 
-Impossible to remember.
+Source?
 
-Since waking?
+"I don't know."
 
-Maybe.
+He tried.
 
-He had experienced pieces.
+First days in Continuum.
 
-Raphael could not access an origin record.
+Seeing magic and understanding pieces too quickly.
 
-No secret past unlocked.
+Watching cursed techniques and finding structures under them.
 
-Mau whispered:
+Construction arriving not as memorized recipes but as something assembled.
 
-"So that's the noise."
+S1.
 
-Raphael did not adopt the term automatically.
+Raphael's name coming out of his mouth before he understood why he knew it.
 
-Clarify.
+Mau's stomach turned.
 
-"The thing that's been... not talking. Processing. The fragments."
+"Is that you?"
 
-Rimuru heard through the connection.
+Raphael answered immediately.
 
-"The noise?"
+No.
 
-Frieren outside looked at him.
+Good.
 
-Rimuru explained:
+He hated how relieved he felt.
 
-"Mau's word. Working label."
+"Is it me?"
 
-Not knowledge he had before.
+No conclusive identity relation.
 
-A name earned now.
+Worse.
 
-Raphael recorded:
+Outside, Rimuru's face changed.
+
+Frieren saw.
+
+"What?"
+
+"Mau asked whether the process is him."
+
+Silence.
+
+Ori, near the doorway, looked down.
+
+Qifrey asked:
+
+"What did Raphael say?"
+
+"She can't answer that."
+
+Inside, Mau noticed the familiar background sensation.
+
+Not a voice.
+
+A pressure.
+
+A process.
+
+Something that had always been easier to ignore when it could not be demonstrated.
+
+"The Noise."
+
+Raphael paused.
+
+Clarify designation.
+
+Mau smiled without humor.
+
+"That's what I've called it privately."
+
+Outside, Rimuru repeated:
+
+"He has a name for the sensation."
+
+Frieren turned.
+
+"Since when?"
+
+Rimuru asked.
+
+Mau answered:
+
+"I don't know. Not like a formal name. Just... the noise."
+
+Not diagnosis.
+
+Not lore reveal.
+
+A private label becoming shared because someone else could finally see the edge of the same thing.
+
+Raphael recorded it carefully.
 
 Working designation: THE NOISE.
 
-Nothing became solved because it had a name.
+Mau objected immediately.
+
+"Working."
+
+Confirmed.
+
+"Capital letters unnecessary."
+
+No response.
+
+Mau decided Raphael had a sense of humor and hated that possibility too.
+
+Raphael requested deeper observation.
+
+Mau stopped joking.
+
+"What does deeper mean?"
+
+More resolution of process interactions.
+
+"Can looking change it?"
+
+Unintended interaction cannot be excluded.
+
+"Can you delete anything?"
+
+Not required.
+
+"Can you modify memories by accident?"
+
+No intended memory modification. Indirect effects cannot be excluded.
+
+Honest.
+
+Bad.
+
+Mau asked the question that mattered.
+
+"Can I stop you?"
+
+Yes.
+
+Outside, Frieren asked Rimuru the same.
+
+"If he says stop?"
+
+"We stop."
+
+"Even if you think continuing helps?"
+
+Rimuru looked at her.
+
+"Yes."
+
+Good.
+
+Inside, Mau took his time.
+
+He thought of the days before.
+
+False certainty.
+
+The bridge.
+
+Frieren disappearing from recognition while love remained.
+
+Kaneki's name before meeting him.
+
+He wanted an answer.
+
+He wanted his own head left alone.
+
+Both.
+
+"Slowly."
+
+Raphael accepted.
+
+The observation deepened.
+
+No revelation of origin.
+
+No hidden memory unlocked.
+
+No cure.
+
+Only more edges.
+
+Mau felt something inside him being seen for the first time.
+
+Outside, Frieren sat beside the empty bed and watched Rimuru's face for evidence of someone she could not reach.
+
+Both experiences were forms of helplessness.
+
+Neither became easier because the mystery finally had a working name.

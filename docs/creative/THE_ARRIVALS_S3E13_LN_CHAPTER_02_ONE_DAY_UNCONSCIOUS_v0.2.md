@@ -4,19 +4,59 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 12  
-**Continuity state:** Day 10–11 | Mau: unconscious ~24h and worsening | Ori maintains field care
+**Continuity state:** Day 10–11 | Mau mostly unconscious | Ori alone maintaining field care
 
 Mau did not wake that afternoon.
 
-Or evening.
+Not properly.
 
-Ori moved him twice.
+He moved.
 
-Once because rain shifted.
+Murmured.
 
-Once because his breathing changed when he lay on one side.
+Opened his eyes once without finding the world.
 
-She cleaned the head wound as well as she could.
+None of that counted.
+
+Ori learned to distinguish movement from waking because she had no choice.
+
+Rain shifted late in the day.
+
+The overhang that had been dry began taking spray from the west.
+
+Ori moved the blankets.
+
+Then moved Mau.
+
+That took too long.
+
+He was heavier unconscious than awake because awake Mau helped even when told not to.
+
+Unconscious Mau was simply weight.
+
+Ori hated herself for thinking that.
+
+Then hated the thought for being useful.
+
+She dragged the bedding farther inward.
+
+Kept his head as steady as she could.
+
+Apologized anyway.
+
+No response.
+
+Good?
+
+Bad?
+
+Everything had become both.
+
+She cleaned the cut again.
+
+No active bleeding.
+
+Swelling remained.
 
 Water.
 
@@ -24,63 +64,151 @@ Cloth.
 
 No miracle.
 
-She tried food once.
+She tried to wake him before offering water.
 
-Stopped immediately.
+Nothing.
 
-She knew enough not to force it.
+So no water.
+
+That terrified her.
+
+He needed it.
+
+He also needed not to choke.
+
+Ori knew just enough to know there were ways to help someone incorrectly.
 
 Night came.
 
-Ori spoke anyway.
+She lit a small fire.
 
-Not because she thought unconscious people always heard.
+Not enough to advertise from far away if she could help it.
 
-Because silence made the world feel like it had already decided.
+Enough to see Mau's breathing.
 
-She told Mau about the future site.
+Enough to see shadows move across his face and keep mistaking them for waking.
 
-How Coco and Agott had argued over a garden marker.
+Ori talked.
 
-How Frieren wanted an east window.
+At first practical.
 
-How Mau kept accidentally treating room placement as if he owned everyone's choices.
+"Your fever is worse."
 
-"You were improving."
+No answer.
+
+"I moved us."
+
+Nothing.
+
+"The river's louder."
+
+Nothing.
+
+Then less practical.
+
+"Coco and Agott are going to fight over the garden."
+
+Mau breathed.
+
+"I think Coco wins by exhausting everyone."
 
 No response.
 
-"Then you did this."
+"Frieren wants an east window."
 
-Still nothing.
+That one hurt.
 
-Ori cried.
+Ori looked at Mau.
 
-Quietly.
+"You keep designing everyone too close to you."
 
-Then got angry at herself for doing it quietly.
+His face did not move.
 
-"You're an idiot."
+"You were getting better about that."
 
-Mau's breathing continued.
+Pause.
+
+"Then you left."
+
+Her voice broke.
+
+Ori stopped.
+
+Silence made everything worse.
+
+So she continued.
+
+"I almost told her."
+
+No response.
+
+"I should have."
+
+Nothing.
+
+"I thought you'd run."
+
+Her hands tightened around the cloth.
+
+"I still think you would have."
+
+The confession sat in the shelter.
+
+No one absolved her.
 
 Good.
 
-At some point before dawn his hand moved.
+Ori rested her head against the wall.
 
-Ori grabbed it.
+"I didn't choose you over her."
 
-His eyes opened.
+Mau's breathing continued.
+
+"You're going to make me say that to her."
+
+Still nothing.
+
+"Idiot."
+
+At some point she cried.
+
+Quietly.
+
+Then became angry at herself for doing it quietly as if there were someone to protect from the sound.
+
+"You're an idiot!"
+
+Louder.
+
+Mau moved.
+
+Ori froze.
+
+His fingers twitched.
+
+Then one hand lifted slightly and dropped.
+
+She crawled closer.
+
+"Mau?"
+
+Eyes opened.
 
 Not focused.
 
 "Frieren?"
 
+Ori swallowed.
+
 "No. Ori."
 
-Recognition took several seconds.
+Recognition took too long.
+
+Then:
 
 "Ori."
+
+Relief nearly made her laugh.
 
 "Yes."
 
@@ -90,21 +218,27 @@ Recognition took several seconds.
 
 "Why?"
 
-Ori laughed once.
-
-Bad sound.
+Ori stared.
 
 "Long story."
 
 Mau looked past her.
 
-The kagune-like structure emerged again.
+The shape beneath his back rose.
 
-Larger.
+Ori moved to his front.
 
-Ori stayed.
+"Mau."
 
-Mau saw it over his shoulder like a shadow he could feel.
+He did not answer.
+
+The dark structure surfaced farther than before.
+
+Not full.
+
+Enough.
+
+Mau's eyes widened.
 
 "What is that?"
 
@@ -112,50 +246,141 @@ Mau saw it over his shoulder like a shadow he could feel.
 
 "Mine?"
 
+Ori forced precision.
+
 "Your body is making it."
 
-Not identity.
+Not:
+
+you are becoming something.
 
 Body.
 
-Important.
+Event.
 
-Mau closed his eyes.
+Mau's face twisted.
+
+Then:
 
 "Kaneki."
 
 Ori froze.
 
-"Who?"
+"What?"
 
-Mau did not answer.
+Mau's eyes closed.
 
-He had never met Kaneki.
+"Kaneki."
 
-The name arrived from nowhere he could explain.
+"Who is Kaneki?"
 
-Then Mau went unconscious again.
+No answer.
 
-Ori stared at him.
+He had never met anyone by that name.
 
-Another wrong-ownership fragment?
+Not in Continuum.
 
-A future contact?
+Not as far as any shared memory proved.
 
-Something the unknown structure had observed?
+The name came with no explanation.
 
-She wrote the name in the copied notebook.
+Ori reached for the copied notebook.
 
-KAN—?
+Wrote:
 
-She did not know spelling.
+KAN—
+
+Then stopped.
+
+Spelling unknown.
+
+She wrote:
+
+SOUNDS LIKE KANEKI?
 
 Evidence.
 
 Not conclusion.
 
-Mau remained unconscious into daylight.
+Could be:
+- wrong ownership;
+- dream;
+- future fragment;
+- manipulation;
+- coincidence.
 
-One day.
+Mau went unconscious again.
+
+The structure receded.
+
+Ori sat beside him.
+
+The night became longer.
+
+At midnight, his temperature rose.
+
+Ori used damp cloth.
+
+At some point she dozed sitting upright.
+
+Woke because Mau coughed.
+
+Panic.
+
+Then breathing steady again.
+
+Near dawn, she realized she had not eaten since midday.
+
+Ate because if she collapsed, nobody remained.
+
+That reasoning felt disgusting.
+
+Useful.
+
+Morning came.
+
+Mau still would not wake properly.
+
+One full day.
 
 Then more.
+
+Ori began leaving small markers near the river.
+
+Not because she knew anyone was close.
+
+Because if the search found the monster, she needed them to keep finding.
+
+Cloth.
+
+Scratches.
+
+A directional mark.
+
+She hated leaving evidence that could lead danger.
+
+Loved leaving evidence that could lead Frieren.
+
+Both.
+
+By midmorning, Mau's hand trembled again.
+
+The dark line returned.
+
+Ori moved anything sharp away.
+
+Then heard something upstream.
+
+Not footsteps.
+
+Water disturbance.
+
+Someone.
+
+Ori stood.
+
+One hand on the nearest weapon.
+
+The search had not arrived yet.
+
+Help had.

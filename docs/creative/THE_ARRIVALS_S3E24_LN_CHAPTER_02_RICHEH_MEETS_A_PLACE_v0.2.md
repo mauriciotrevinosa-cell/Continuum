@@ -1,223 +1,216 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 10 — Richeh Meets a Place
+## Chapter 10 — Tetia Wants to See Everything
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
 **Reading order:** 10  
-**Continuity state:** Richeh = guest | Reunion expands into learning Coco's existing life
+**Continuity state:** Post-G5 | Tetia already present since V11 | Her settlement relationship diverges from Richeh's
 
-Coco tried to introduce everyone at dinner.
+Tetia had the opposite problem.
 
-This failed immediately.
+Richeh wanted time before choosing a place.
 
-"This is Bocchi, that's Kita, Rimuru can be slime, Milim is—"
+Tetia wanted to inspect every place before breakfast.
 
-"What am I?"
+"Where does that road go?"
 
-Milim leaned across the table.
+"Storage."
 
-Coco froze.
+"And that one?"
 
-"Complicated."
+"Nowhere yet."
 
-"HEY."
-
-"Diablo is also complicated—"
-
-Diablo looked pleased.
-
-"—Ori is sort of from here—"
-
-Ori:
-
-"Reasonable."
-
-"—Momo is—"
-
-Momo:
-
-"Perfect."
-
-Several people objected.
-
-Richeh stared.
-
-Qifrey intervened.
-
-"One day at a time."
-
-Richeh squeezed Coco's hand.
-
-"I want to know them."
-
-Coco brightened.
-
-"Not all tonight."
-
-Coco deflated.
-
-Reasonable.
-
-Arrival House gave Richeh guest status.
-
-No ceremony.
-
-No automatic:
-Qifrey knows you, therefore permanent resident.
-
-Fern asked where she wanted to sleep.
-
-Richeh looked at Coco.
-
-Then stopped herself.
-
-"Can I see options?"
-
-Good.
-
-She chose guest room near—but not inside—Coco's space.
-
-That first night Coco sat on the floor there too long.
-
-Richeh:
-
-"Are you sleeping here?"
+"Can I see?"
 
 "No."
 
-"You've been here an hour."
+"Why?"
 
-Coco looked at the door.
+"Because nowhere yet is mud."
 
-Fear of leaving.
+Tetia considered.
 
-Richeh recognized.
+"Can I see the mud?"
 
-"Coco."
+Agott:
 
-"I know."
+"No."
 
-"Go home."
+They saw the mud.
 
-Coco's eyes filled.
+Of course they did.
 
-Richeh softened.
+Tetia treated the settlement like a question with too many answers.
 
-"You're allowed to have a room that's yours."
+Worksite became home became city became something nobody had named.
 
-That was the first time reunion required separation.
+She wanted:
+kitchen,
+water,
+workshop,
+Arrival House,
+old inn,
+bridge,
+north trail,
+native market,
+music room.
 
-Coco left.
+Not because she planned to live in all of them.
 
-Came back five minutes later because she had forgotten to say goodnight.
+Because Continuum had taken every familiar boundary and she wanted the new ones visible.
 
-Then actually left.
+Richeh found her at the washing court talking to Momo.
 
-Over the next week, Richeh met the settlement in pieces.
+"You're supposed to be helping Coco."
 
-Wakana's workshop.
+"I am."
 
-Not because someone gave a tour.
+"How?"
 
-Because Coco needed thread.
+"I'm learning where people actually use water."
 
-Water court.
+Momo nodded solemnly.
 
-Because Richeh asked why everyone kept carrying containers through the same plaza.
+"Research."
 
-Bocchi's music room.
+Richeh looked at the bucket in Tetia's hands.
 
-Because music came through a wall and Richeh followed it.
+"You've been doing laundry."
 
-Old inn.
+"Field research."
 
-That one was deliberate.
+Fair.
 
-Coco took her.
+Later Tetia followed Jinshi through Arrival House intake.
 
-Road.
+He had turned one board into three.
 
-Trees.
+Fern had turned three back into two.
 
-Door that stuck.
+War.
 
-Inside, Coco said:
+Tetia watched a traveler arrive.
 
-"This is where we lived before."
+No known world.
 
-Richeh looked around.
+No familiar name.
 
-"All of you?"
+No dramatic reunion.
 
-"Too many."
+Just:
+tired,
+hungry,
+doesn't want to sleep near magic users,
+needs a map.
 
-The table.
+Tetia went quiet.
 
-The room.
+This was what G5 had looked like from the other side.
 
-Proof Coco had a history in Continuum before Richeh arrived.
+She had arrived into people.
 
-Richeh felt something unpleasant.
+This person arrived into a system.
 
-Jealousy?
+Incomplete.
 
-Grief?
+Human.
 
-Relief?
+Better than luck.
 
-All possible.
+She helped hang another privacy curtain.
 
-She touched one mark on the table.
+At lunch she told Richeh:
 
-"You were here a long time."
+"I think I want to stay."
 
-Coco nodded.
+Richeh looked up.
+
+Tetia added quickly:
+
+"Not because you are."
 
 Richeh smiled.
 
 "Good."
 
-Not:
-I wish you had waited unchanged.
+"Not because Coco is."
 
-That mattered.
+"Good."
 
-Mau met Richeh properly while holding the wrong end of a measuring line.
+"Not forever necessarily."
 
-Coco dragged Richeh over.
+"Also good."
 
-"This is Mau."
+Tetia frowned.
 
-Mau looked at Coco.
+"You're making this less dramatic."
 
-"What did you tell her?"
+"You're welcome."
 
-"Too much."
+Coco arrived halfway through and heard enough to stop.
 
-Richeh nodded.
+Tetia looked at her.
 
-"Way too much."
+"I think I want temporary resident."
 
-Mau sighed.
+Coco opened her mouth.
 
-"Excellent."
-
-No protagonist ceremony.
-
-Richeh's first opinion of Mau was that he was shorter than rumor made him feel.
-
-She did not say that.
-
-Agott did.
-
-Mau looked betrayed.
+Closed it.
 
 Good.
 
-Richeh met a place before deciding whether it would become hers.
+"Okay."
 
-Her reunion with Coco did not answer that for her.
+Agott, beside her:
 
-Love reopened a relationship.
+"That's all?"
 
-It did not preselect a home.
+Coco glared.
+
+"I'm learning."
+
+Tetia laughed.
+
+The board changed again.
+
+TETIA — TEMPORARY RESIDENT.
+
+RICHEH — GUEST / ROOM USE APPROVED.
+
+Two girls from the same world.
+
+Same arrival wave.
+
+Same reunion network.
+
+Different answer.
+
+Exactly as it should be.
+
+That evening Tetia helped Coco test a repairable civic circle.
+
+Not a grand spell.
+
+A public light.
+
+If one segment failed, another person needed to be able to find the fault.
+
+Qifrey watched.
+
+Did not take over.
+
+Richeh suggested a simpler mark.
+
+Agott rejected it.
+
+Then used half of it.
+
+Tetia held the lantern and talked too much.
+
+Normal.
+
+The city grew from that.
+
+Not because G5 supplied more powerful characters.
+
+Because people arrived with relationships, preferences and skills that became ordinary enough to argue over. 

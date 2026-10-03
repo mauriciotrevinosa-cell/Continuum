@@ -9,45 +9,158 @@ The repaired bridge opened without ceremony.
 
 Appropriate.
 
-Native builders.
+The east-village headwoman refused ribbon.
 
-Settlement labor.
+Momo had brought one anyway.
 
-Searchers.
+Fern confiscated it.
 
-Shared maintenance.
+Native builders checked supports before sunrise.
 
-No flag.
+Settlement labor checked deck.
 
-The first wagon crossed slowly.
+Searchers walked route.
 
-Everyone watched anyway.
+Qifrey inspected temporary magic marks that had helped during repair.
 
-The east-village headwoman checked the supports herself.
+Then removed one no longer needed.
 
-Senku approved the reinforcement.
+Important.
 
-Then corrected one measurement.
+Temporary magic should actually become temporary.
 
-A native carpenter corrected Senku's correction.
+Senku arrived with measurements.
+
+Corrected one.
+
+A native carpenter corrected his correction.
 
 Senku grinned.
 
-Good partnership.
+"Good."
 
-The safe corridor now had:
-- a repaired bridge;
-- agreed closure procedure;
-- shared warning markers;
-- no permanent armed gate;
-- route contacts on both sides.
+The carpenter stared.
 
-Arrival House updated maps.
+"You're happy?"
 
-The second community copied them.
+"Wrong number fixed before load."
 
-A merchant used the bridge the same afternoon without knowing half the politics underneath.
+Reasonable.
 
-That was the goal.
+First crossing was not heroic.
 
-External partnership became ordinary enough to disappear into infrastructure.
+Empty cart.
+
+Slow.
+
+Everyone watched.
+
+One wheel hit repaired section.
+
+Nothing happened.
+
+Second wheel.
+
+Nothing.
+
+Cart reached other side.
+
+Driver looked back.
+
+"Done?"
+
+Headwoman:
+
+"Again."
+
+They loaded weight.
+
+Second pass.
+
+Then actual traffic.
+
+Merchant crossed carrying food.
+
+Had no idea how many arguments under bridge.
+
+That was goal.
+
+Safe corridor now had:
+repaired bridge;
+agreed closure procedure;
+shared warning markers;
+no permanent armed gate;
+route contacts on both sides;
+maintenance calendar.
+
+Second community copied route map.
+
+Not because it joined either side.
+
+Because roads worked across identity.
+
+The bridge gained first real test that afternoon.
+
+Heavy rain upstream.
+
+Water rose.
+
+Searchers warned.
+
+Both sides closed route together.
+
+Specific danger.
+
+No political drama.
+
+At dusk water fell.
+
+Inspection.
+
+Reopen.
+
+Procedure worked.
+
+The agreement had moved from paper into habit.
+
+Mau visited next day.
+
+Not as official.
+
+He wanted to see.
+
+Frieren came.
+
+They crossed.
+
+Halfway, Mau stopped.
+
+"Feels normal."
+
+Frieren:
+
+"It's a bridge."
+
+"Exactly."
+
+External partnership had become ordinary enough to disappear into infrastructure.
+
+No grand alliance.
+
+No speeches.
+
+A person could now travel from one community to another with less fear because:
+people argued,
+wrote rules,
+replaced wood,
+and checked water.
+
+That was one of the most adult victories season had produced.
+
+Momo later tied a tiny ribbon under one railing where Fern would not see.
+
+Fern saw.
+
+Left it.
+
+No one mentioned.

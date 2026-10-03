@@ -4,83 +4,242 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
 **Reading order:** 1  
-**Continuity state:** Three weeks after Move | New settlement = default home | Old inn = protected active satellite
+**Continuity state:** Three weeks after Move | Settlement = default home | Old inn = protected active satellite
 
 For three weeks, nothing season-ending happened.
 
-This was important enough to deserve a chapter.
+That deserved more than a sentence.
 
-People learned:
-- which path became mud first;
-- which room held heat too long;
-- where children gathered despite adults preferring somewhere else;
-- which water container everyone forgot to refill;
-- which G5 resident snored;
-- which native merchant arrived earlier than promised;
-- which door still stuck.
+The settlement learned breakfast before it learned governance.
 
-The settlement developed habits before institutions.
+People woke at different times.
 
-Breakfast happened in shifts.
+Some because of work.
 
-Wakana's workshop became useful.
+Some because of children.
 
-Bocchi's music room became less echo and more room.
+Milim because sleep was apparently optional when enthusiasm existed.
 
-Rem moved between settlement and old inn depending on who needed help and whether she needed distance.
+Frieren because mornings were negotiable.
 
-Kaneki found a food routine that worked enough.
+The first week, everyone tried to eat together.
 
-Aira stopped saying "temporary" every time someone called the settlement home.
+The second week, that became impossible.
 
-Not a permanent oath.
+By the third, breakfast happened in waves.
 
-Language.
+No policy.
 
-G5 continued separating into lives.
+Habit.
 
-Some stayed.
+The path near the washing court became mud first.
 
-Some traveled.
+Everyone had predicted a different path.
 
-One left for a native town and returned weekly.
+Children chose the mud anyway.
+
+A cart cut across one planned green area three times until Rimuru gave up and admitted the cart had won the argument.
+
+The route widened.
+
+Architecture changed because reality voted with wheels.
+
+Wakana's workshop became useful enough that people stopped calling it new.
+
+Fabric appeared.
+
+Repairs.
+
+Requests.
+
+A half-finished project on one table became visual evidence that Wakana lived here.
+
+Bocchi's music room changed slower.
+
+More material on one wall.
+
+Better door seal.
+
+Still too much echo.
+
+Then one evening someone outside asked her to play louder.
+
+Bocchi assumed mockery.
+
+It wasn't.
+
+She did.
+
+The room learned her.
+
+Rem moved between settlement and old inn.
+
+Not on a schedule anyone assigned.
+
+Sometimes guests at the inn needed someone calm.
+
+Sometimes Rem needed less noise.
+
+Sometimes she simply preferred one breakfast.
+
+Her bag migrated once.
+
+Then back.
+
+Nobody treated it as referendum.
+
+Kaneki found a food routine that worked enough that meals stopped becoming crisis logistics every day.
+
+Not solved.
+
+Manageable.
+
+Aira stopped introducing herself as temporary resident every time someone asked where she lived.
+
+The first time she simply said:
+
+"Over there."
+
+Then noticed.
+
+"That doesn't mean permanent."
+
+Nobody had asked.
+
+She looked annoyed anyway.
+
+G5 stopped behaving like a cohort.
+
+One moved to a native town.
+
+Returned weekly.
+
+Another stayed and became useful at storage.
+
+One traveler left.
+
+Another came back from a trip and acted offended that someone had used their bed.
+
+Fern pointed out guest beds were not hereditary.
+
+Argument lasted twenty minutes.
 
 Milim remained.
 
 Diablo remained.
 
-The old inn hosted travelers and one rotating household member every night.
+Their reasons were unsurprising and still different.
+
+Rimuru pretended neither had implications for population planning.
+
+Fern did not allow this.
+
+The old inn stayed alive.
+
+Someone slept there every night.
+
+Not necessarily family.
+
+Travelers.
+
+Overflow.
+
+A Searcher passing through.
 
 Mau visited twice a week at first.
 
 Then once.
 
-No guilt ritual.
+The first time he realized seven days had passed without going, guilt appeared.
 
-Frieren went sometimes without him.
+He looked toward the road.
 
-Good.
+Frieren asked:
 
-The Memory table stayed folded unless needed.
+"Do you want to go?"
 
-The Noise produced no major overload.
+Mau thought.
 
-Good.
+"No."
+
+"Then don't."
+
+History did not require pilgrimage.
+
+Frieren went without him the next day.
+
+Also good.
+
+The Memory table stayed boxed unless needed.
+
+No major Noise episode.
+
+A few fragments.
+
+Recorded.
+
+No catastrophe.
+
+Mau sometimes asked:
+
+"Do you remember it that way too?"
+
+Sometimes because he was afraid.
+
+Sometimes as joke.
+
+Sometimes because shared memory had simply become part of intimacy.
+
+Life absorbed the question.
 
 Construction continued.
-
-No miraculous city.
 
 One more roof.
 
 Better drainage.
 
-A second wash point.
+Second wash point.
 
-A path widened because carts kept winning arguments with architecture.
+A covered path because rain kept proving a point.
 
-Then, at the end of the third week, a stranger arrived at the settlement and said:
+One sleeping room became storage after everyone agreed it was badly placed.
+
+No one treated redesign as failure.
+
+At the plaza-that-was-not-yet-a-plaza, children invented a game using route markers.
+
+Mikasa stopped them.
+
+Then redesigned the markers so children could not move them easily.
+
+Culture accidentally improved safety.
+
+Three ordinary weeks created more permanence than any declaration.
+
+Then, at the end of the third week, a stranger appeared at the settlement edge with one bag.
+
+No Searcher.
+
+No escort.
+
+No rescue story.
+
+Mikasa met him on route watch.
+
+The stranger looked past her at the roofs.
+
+At people.
+
+At visible water.
+
+At someone carrying food.
 
 "I heard this was where people like me could go."
 
-That sentence changed the scale of everything.
+Mikasa felt the sentence change the scale of the place.
+
+Until now, people arrived because Continuum threw them into reach.
+
+Now rumor had made the settlement a destination.
+
+Home had become a coordinate in someone else's hope.

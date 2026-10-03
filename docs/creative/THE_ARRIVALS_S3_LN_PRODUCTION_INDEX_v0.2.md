@@ -3,7 +3,7 @@
 **Status:** ACTIVE CONTINUITY CANON — FULL-PROSE EXPANSION IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **249**  
+**Reader-order chapters:** **257**  
 **Volumes:** **10–19**
 
 ## Important production correction — 2026-10-02
@@ -32,7 +32,7 @@ Do not call S3 "complete" until the scene-density expansion pass finishes.
 | Volume | Title | Chapters | Active continuity source |
 |---:|---|---:|---|
 | 10 | Bare Ground | 17 | existing V10 v0.1 chapters, revalidated |
-| 11 | Eight Signatures | 26 | v0.2 |
+| 11 | Eight Signatures | 34 | v0.2 |
 | 12 | The Second Road | 20 | v0.2 |
 | 13 | Bring Him Back | 27 | v0.2 |
 | 14 | The Move | 20 | v0.2 |
@@ -77,9 +77,9 @@ The second-disappearance rescue runway now explicitly lives through:
 
 ### Full-prose pass now cleared at critical-path level
 
-- V11 false-stability ending;
+- V11 first-search / named G5 wave / false-stability ending;
 - V12 second-road / monster / collapse / field-rescue runway;
-- V13 field recovery / containment / reconstruction / ordinary recovery;
+- V13 field recovery / containment / reconstruction / ordinary recovery at the earlier lock level; newest body-template / lifespan / date-dialogue locks still need integration;
 - V14 The Move in full lived progression;
 - V19 core Goddess Trial accumulation / post-Trial trauma / ten-day Return-Stay clock / Day-3 backdoor attempt / road interception before Goddess contact.
 
@@ -101,8 +101,8 @@ V11  first search / Diablo -> G5 / eight signatures / witches / bargain / first 
 V12  Mau+Ori second road / multi-day escape / monster head injury / collapse / Rem-Kaneki-Aira field rescue
 V13  field camp / gradual lucidity / slow return / containment questions and consent / Noise observation / reconstruction / recovery
 V14  explicit staged Move / two homes at once / first nights / old inn protected as origin-home
-V15  intentional migration / Arrival House / Searchers / Richeh / second community / refuge / unity message
-V16  message consequences / external partnership / Senku / flawed infrastructure redesign / hybrid Continuum city
+V15  intentional migration / Arrival House / Searchers / post-G5 independent choices / second community / refuge / unity message
+V16  message consequences / external partnership / Senku's delayed major civic audit / flawed infrastructure redesign / hybrid Continuum city
 V17  Eren-Mikasa asymmetry / exit rights / due process / domestic convergence / Mau sacrifice expectation
 V18  Last Defense / infrastructure payoff / aftermath / distinct Noise overload / Goddess intrusion
 V19  bounded Trial / hundreds-scale lived consequence / 10-day Return-Stay window / Days 0–3 trauma spiral / road interception before Goddess contact / 7-day S4 handoff

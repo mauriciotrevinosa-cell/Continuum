@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 32 — The Biggest Slap of His Life
+## Chapter 37 — The Biggest Slap of His Life
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 32
+**Reading order:** 37
 
 Frieren asked:
 

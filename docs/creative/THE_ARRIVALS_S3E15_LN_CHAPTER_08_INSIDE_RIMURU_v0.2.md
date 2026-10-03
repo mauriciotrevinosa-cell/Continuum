@@ -4,126 +4,232 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 14  
-**Continuity state:** Day 17 — containment begins | Mau conscious enough to experience transition
+**Continuity state:** Day 17 — containment begins | New observation becomes possible only after variables are reduced
 
-Rimuru absorbed Mau slowly.
+Rimuru warned everyone before he started.
 
-Not because the mechanism required drama.
+Not because Mau had not already agreed.
 
-Because everyone did.
+Because understanding a process and seeing it happen were different things.
 
-Frieren kept contact until the last possible instant.
+Frieren kept hold of Mau's hand.
 
-Mau disappeared into Rimuru.
+Ori stood near the wall.
 
-The room became wrong.
+Yuta and Maomao stayed close.
 
-No body in bed.
+Kaneki, Rem and Aira remained farther back.
 
-Blood on bandage.
+Mau looked at Rimuru.
 
-Broken wall.
+"Last chance?"
 
-Empty blankets.
+Rimuru asked.
 
-Frieren looked at Rimuru.
+"Do it."
 
-He understood why that was terrible.
+The room changed first at the edges.
 
-Inside, Mau experienced no stomach.
+Mau felt the bed beneath him.
 
-Good.
+Frieren's hand.
 
-He had worried.
+Then only the feeling of Frieren's hand.
 
-Instead:
+Then not even that.
 
-space without ordinary distance.
+The bed was empty.
 
-Pressure reduced immediately.
+Frieren stared at the blankets.
 
-Not gone.
+Rimuru said quietly:
 
-Separated.
+"I can still sense him."
 
-The biological structure stopped trying to manifest into the room because there was no room in the same sense.
+That did not make the empty bed look better.
 
-Raphael monitored physical information.
+Inside, Mau found no ordinary room.
 
-Mau's head injury.
+No clear floor.
 
-Temperature.
+No walls.
 
-Energy fluctuations.
+Only space organized by rules he could feel without seeing.
 
-Then something she had never been able to observe externally became partially legible.
+The first thing he noticed was that everything was quieter.
 
-Not because she had suddenly become omniscient.
+Not silent.
 
-Because containment changed access conditions.
+Quieter.
 
-A repeating endogenous process.
+The pressure that had made people, memories, mana and questions feel as if they were all occupying the same mental space dropped.
 
-Fragmented.
+Mau waited.
 
-Cross-system.
+"Rimuru?"
 
-Not foreign enough to label invader.
+I'm here.
 
-Not coherent enough to label skill.
+Then another presence.
 
-Raphael reported to Rimuru.
+Ordered.
 
-Rimuru repeated aloud for Frieren:
-
-"There's something she can see now that she couldn't from outside."
-
-Frieren's face hardened.
-
-"What?"
-
-"Unknown."
-
-Correct first word.
-
-Inside, Mau heard a structured voice he recognized only through stories.
+Precise.
 
 Raphael.
 
-She did not greet him like an owner.
+She did not greet him with an answer.
 
-A request formed.
+Good.
 
-Permission to increase observational depth.
+She began with observations she already understood.
 
-Mau laughed weakly.
+Stress lower.
 
-"Everyone asks permission now."
+External interference lower.
 
-Raphael waited.
+Classification instability still present.
 
-He thought of S1.
+Nothing solved.
 
-Of saying her name without knowing it.
+Minutes passed.
 
-Of waking two days later with no memory of doing so.
+With fewer outside variables, Raphael changed how she observed.
 
-"Will observing deeper change it?"
+That was when something became visible enough to separate from the rest.
 
-Unknown.
+Not a person.
 
-"Can you guarantee you won't alter it?"
+Not a voice.
 
-No active alteration required for proposed observation.
+Not a recognized skill.
+
+Patterned activity.
+
+Intermittent.
+
+Internal enough to remain with Mau even after the outside environment changed.
+
+Raphael did not name it.
+
+Mau felt her attention shift.
+
+"What?"
+
+Rimuru answered through the connection.
+
+She can see a pattern she could not isolate outside.
+
+Outside, Frieren heard the same explanation.
+
+"What pattern?"
+
+Rimuru shook his head.
+
+"Unknown."
+
+Qifrey asked:
+
+"Memory manipulation?"
+
+Raphael could not support that conclusion.
+
+Rimuru answered:
+
+"No evidence for that."
+
+"Unrelated?"
+
+"No evidence for that either."
+
+Good.
+
+Inside, Mau noticed fragments at the edge of awareness.
+
+Not sentences.
+
+More like functions.
+
+Observe.
+
+Analyze.
+
+Understand.
+
+Construct.
+
+Mau went still.
+
+Raphael asked whether he recognized the sequence.
+
+"Yes."
+
+From where?
+
+He did not know.
+
+Before Continuum?
+
+No memory.
+
+Since waking?
+
+Maybe.
+
+He remembered moments where understanding had appeared too quickly.
+
+Systems becoming legible before he could explain why.
+
+Background pressure he had never known how to describe.
+
+"The noise."
+
+Raphael paused.
+
+Clarify designation.
+
+Mau almost laughed.
+
+"That's what I've always called it in my head. Not a voice. Just... noise. Processing. Something running."
+
+Rimuru heard.
+
+"The Noise?"
+
+"Working name."
+
+That distinction mattered.
+
+Raphael had not known a hidden diagnosis.
+
+Rimuru had not known one.
+
+Mau supplied a name to a sensation only now becoming partially observable.
+
+Raphael requested permission to increase observational depth.
+
+Mau asked:
+
+"Could looking change it?"
+
+Unintended interaction cannot be ruled out.
 
 "Can I stop you?"
 
 Yes.
 
-Mau breathed.
+Mau thought about it.
 
-"Then look."
+Then:
 
-Permission given.
+"Look."
 
-The observation began.
+Permission accepted.
+
+Outside, Frieren sat beside an empty bed.
+
+Inside, Mau and Raphael looked at something neither understood.
+
+The mystery had become more visible.
+
+It had not become smaller.

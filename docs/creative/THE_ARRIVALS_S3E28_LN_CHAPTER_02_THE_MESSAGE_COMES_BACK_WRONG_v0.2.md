@@ -5,25 +5,33 @@
 **Volume:** 15  
 **Reading order:** 24
 
-A week after sending the statement, a traveler brought back a copied version.
+A week after the statement left, a traveler brought a copied version back.
 
 Edited.
 
-The line:
+Not forged from nothing.
 
-"Communities may cooperate without becoming one state."
+Worse.
 
-had become:
+Altered just enough.
 
-"Otherworlder communities will cooperate as one."
+Original:
 
-One pattern changed the meaning.
+> Communities may cooperate without becoming one state.
 
-Another copy called the main settlement a central authority.
+Returned copy:
+
+> Otherworlder communities will cooperate as one.
+
+One change.
+
+Whole meaning inverted.
+
+Another copy described the main settlement as a central authority.
 
 False.
 
-A third added Mau's name at the bottom.
+A third added Mau's name below the signature blocks in larger handwriting.
 
 He stared.
 
@@ -31,44 +39,150 @@ He stared.
 
 Anko:
 
-"We know."
+"You signed the original."
 
-"Other people won't."
+"Not like that."
 
-There.
+"I know."
 
-The message demonstrated unity.
+Other people would not.
 
-It also created a targetable image of unity.
+Mau felt the immediate urge to write a correction himself.
 
-The second community was furious.
+Stopped.
+
+Looked at Fern.
+
+"Process?"
+
+Fern almost smiled.
+
+Good.
+
+The second community arrived angry.
 
 Correctly.
 
-They had signed a statement preserving independence.
+Their spokesperson put the altered copy on the table.
 
-Now propaganda used it to erase independence.
+"We signed because independence stayed explicit."
 
-The spokesperson came in person.
+Rimuru nodded.
+
+"And now this makes us your branch."
+
+"No."
+
+"Road rumor doesn't care what you say here."
+
+Also true.
+
+Mau expected withdrawal.
+
+Instead:
 
 "We don't withdraw."
 
 Rimuru looked surprised.
 
-They continued.
+The spokesperson continued.
 
-"That doesn't mean we're joining you."
+"Because then whoever changed this gets to decide what the original meant."
 
-"Understood."
+Anko leaned forward.
 
-"We correct it."
+"So correction together."
 
-Together.
+"Together."
 
-Not one city.
+Not merger.
 
-Not one nation.
+Relationship.
 
-A relationship.
+They assembled evidence.
 
-Volume Fifteen ended with Searchers preparing to carry the correction east while new arrivals read both versions and had to decide which community sounded real.
+Original copies.
+
+Witnesses.
+
+Dates.
+
+Which messenger carried which route.
+
+Where the altered wording first appeared if traceable.
+
+No certainty yet.
+
+Possible deliberate propaganda.
+
+Possible careless paraphrase.
+
+Possible both.
+
+Do not overclaim.
+
+The correction became shorter than the original.
+
+NOT ONE STATE.
+
+NOT ONE ARMY.
+
+SECOND COMMUNITY REMAINS INDEPENDENT.
+
+MAIN SETTLEMENT DOES NOT SPEAK FOR ALL OTHERWORLDERS.
+
+ORIGINAL STATEMENT ATTACHED.
+
+Momo read it.
+
+"Now this one is chantable."
+
+Fern:
+
+"Unfortunately."
+
+Mau's name disappeared from the correction except where his individual signature remained in the original.
+
+He approved.
+
+Outside, new arrivals read both versions on the Arrival House board.
+
+One asked:
+
+"Which is real?"
+
+Fern pointed at originals with dates and signers.
+
+"This."
+
+"How do I know?"
+
+Fern stopped.
+
+Good question.
+
+Records could lie too.
+
+Trust required multiple copies.
+
+Independent signers.
+
+Second-community witnesses.
+
+Native witnesses.
+
+No magical truth stamp.
+
+The same epistemic problem had become social.
+
+Mau noticed.
+
+Memory Arc had prepared him badly and well for this.
+
+Volume Fifteen ended with Searchers preparing to carry the correction east.
+
+Not to prove everyone united.
+
+To prove a relationship could survive misrepresentation without collapsing into merger or separation.
+
+Outside, road rumor was already inventing the next version.

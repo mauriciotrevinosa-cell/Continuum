@@ -191,6 +191,36 @@ Mau smiled.
 
 The sentence loosened something.
 
+"What if I forget again?"
+
+Frieren looked at him.
+
+Not at the thread.
+
+Not at the water.
+
+At him.
+
+"Then I'll remind you."
+
+Mau swallowed.
+
+"How many times?"
+
+"As many as it takes."
+
+He looked away because that was harder to receive than a guarantee.
+
+It was not:
+I can prove every memory for you.
+
+It was:
+I will still be here when remembering gets difficult.
+
+Different.
+
+Better.
+
 They walked.
 
 Frieren stopped at a thread seller.

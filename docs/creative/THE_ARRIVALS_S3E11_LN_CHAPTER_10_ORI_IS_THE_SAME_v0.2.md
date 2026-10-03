@@ -12,6 +12,14 @@ That lasted three questions.
 
 Then Ori noticed.
 
+He had disguised the first two as conversation.
+
+Badly.
+
+Ori knew his "casual" voice now.
+
+It sounded like a person trying to hide a clipboard behind his back.
+
 "You're testing me."
 
 Mau looked guilty.
@@ -67,6 +75,30 @@ Mau wrote:
 ORI-RELATED RECALL: HIGHER CONSISTENCY, NOT PERFECT.
 
 Rimuru underlined NOT PERFECT.
+
+Then crossed out Mau's next proposed heading:
+
+ORI ANCHOR.
+
+Mau looked at him.
+
+"What?"
+
+"She's a person."
+
+Mau stared.
+
+Right.
+
+He rewrote:
+
+ORI-RELATED MEMORIES CURRENTLY SHOW HIGHER CONSISTENCY.
+
+Longer.
+
+Less dangerous.
+
+Ori approved.
 
 No one wrote:
 
@@ -132,4 +164,36 @@ Ori smiled.
 
 "Yes."
 
-That question was becoming something other than panic.
+Then:
+
+"And if I remembered it differently?"
+
+Mau's smile disappeared.
+
+Ori waited.
+
+He understood the test.
+
+"I'd want to know."
+
+"Even if mine didn't match yours?"
+
+"Yes."
+
+"You wouldn't decide mine was fake?"
+
+Mau looked at the notebook.
+
+"No."
+
+Good.
+
+Memory consistency was useful.
+
+It was not ownership of truth.
+
+That question—do you remember it too?—was becoming something other than panic.
+
+A request for another person's version.
+
+Not a demand that one of them disappear.

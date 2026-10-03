@@ -72,6 +72,56 @@ The agreement was imperfect.
 
 Real agreements often were.
 
+One witch pointed at the line:
+
+Mau may stop questioning at any time.
+
+"And if he forgets he agreed?"
+
+The room went quiet.
+
+Good question.
+
+Rimuru looked at Yuta.
+
+Yuta looked at Frieren.
+
+Frieren looked at Mau asleep.
+
+Then Maomao answered from the doorway.
+
+"Then the session stops."
+
+The witch tilted her head.
+
+"Even if he sounds lucid?"
+
+"Especially if we cannot establish continuity."
+
+Rimuru added the line.
+
+CONSENT MUST BE RECONFIRMED IF COGNITIVE STATE MATERIALLY CHANGES.
+
+Milim frowned.
+
+"That's a lot of words."
+
+Fern, who had arrived late enough to read the page but early enough to be annoyed:
+
+"It means yes now doesn't mean yes forever."
+
+Milim understood immediately.
+
+"Oh."
+
+That sentence would matter again.
+
+Containment had not been discussed yet.
+
+No one knew how much.
+
+Still, the rule existed before they needed it.
+
 Yuta checked Mau again.
 
 "Can move in an hour if the fever doesn't spike."

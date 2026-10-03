@@ -8,6 +8,14 @@
 
 The questioning produced six pages of notes and no cure.
 
+Mau had asked not to be in the room for the first review.
+
+That was new.
+
+Months ago he would have sat at the center of any discussion about himself until exhaustion made him useless.
+
+Now he slept upstairs while people compared frameworks.
+
 Good.
 
 Nobody said good.
@@ -124,4 +132,30 @@ That annoyed everyone.
 
 Especially Rimuru.
 
-Dinner would provide it.
+Maomao closed the notebook.
+
+"Then don't build a theory before dinner."
+
+Rimuru:
+
+"I wasn't."
+
+Qifrey:
+
+"You were."
+
+Yuta:
+
+"Absolutely."
+
+Rimuru looked betrayed by consensus.
+
+Downstairs, G5 had turned one meal into an argument over seating, blood supply, worksite labor, and whether Ryo had actually volunteered for anything.
+
+Ordinary noise.
+
+The analysis ended before it swallowed the household.
+
+Dinner would provide Diablo's missing observation.
+
+Nobody yet knew that the most useful clue would arrive while Mau was trying to remember a name.

@@ -10,6 +10,14 @@ The second session was Mau's idea.
 
 That surprised everyone.
 
+Not because he had become fearless.
+
+Because the first session had taught him something important:
+
+refusing all questions would not make the wrong memories stop existing.
+
+Choosing the conditions might let him remain a person inside the investigation.
+
 The witch arrived after breakfast.
 
 Only one.
@@ -133,6 +141,36 @@ The witch smiled slightly.
 "What?"
 
 "Proof that consistency does not require perfection."
+
+At minute thirty-seven Mau stopped answering.
+
+Not dramatically.
+
+He held up one hand.
+
+"Break."
+
+The witch stopped immediately.
+
+Frieren looked at the clock.
+
+Ori poured water.
+
+Nobody asked him to justify why.
+
+Three minutes later Mau said:
+
+"I can keep going."
+
+The witch shook her head.
+
+"Next time."
+
+Mau looked surprised.
+
+The consent rule from the road bargain had survived contact with curiosity.
+
+Good.
 
 The session ended after forty minutes.
 

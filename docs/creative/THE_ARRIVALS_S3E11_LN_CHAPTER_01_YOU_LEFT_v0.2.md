@@ -132,6 +132,82 @@ Mau had no answer.
 
 Frieren did not demand one.
 
+Downstairs, somebody laughed.
+
+Kusuri.
+
+Then Maomao shouting something about labels.
+
+Life.
+
+Mau heard it.
+
+"Who is that?"
+
+Frieren looked at him.
+
+"Kusuri."
+
+Mau searched.
+
+Nothing.
+
+"Did I meet her?"
+
+"Not yet."
+
+"Right."
+
+He pressed two fingers to his forehead.
+
+Too many new names.
+
+Frieren did not quiz him.
+
+Instead:
+
+"She arrived while you were gone."
+
+Mau looked toward the floor.
+
+Guilt started.
+
+Frieren saw.
+
+"No."
+
+"What?"
+
+"People arriving is not something you failed to supervise."
+
+Mau laughed weakly.
+
+"That's a weirdly specific correction."
+
+"It was a weirdly specific face."
+
+Fair.
+
+Mau looked at her again.
+
+"If I forget this argument tomorrow?"
+
+Frieren's expression changed.
+
+"Then we have it again."
+
+"All of it?"
+
+"If needed."
+
+He almost smiled.
+
+Not the later date promise yet.
+
+Smaller seed.
+
+Frieren did not demand an answer.
+
 The argument ended because Maomao entered with more food and said:
 
 "If either of you raises his temperature through emotional stupidity, I am removing one of you."

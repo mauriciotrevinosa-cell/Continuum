@@ -38,11 +38,27 @@ Because everyone going there went together anyway.
 
 G5 split for the day.
 
-Two newcomers wanted to see the construction site.
+Senku and Suika were already going to the worksite.
 
-One wanted a native town instead.
+Kusuri went because Maomao had forbidden her from reorganizing another shelf without seeing where future medical storage would live.
 
-Another stayed at the inn to rest.
+Vamola joined Momo and Okarun on the route.
+
+Richeh and Tetia went with Coco and Agott.
+
+Mai stayed at the inn with Maki and claimed that had nothing to do with Maki.
+
+Nijika and Ryo stayed because Bocchi was not ready to spend the whole day away from the old inn.
+
+Jinshi went to the nearby native market with Fern to understand supply routes without pretending he represented the settlement.
+
+Nazuna slept.
+
+Reasonable.
+
+Seiko and Turbo Granny followed a road report.
+
+Milim went wherever Rimuru was until somebody found her actual work.
 
 Nano wrote all of it down.
 
@@ -100,7 +116,61 @@ Only a small irritation.
 
 Mau stayed.
 
-Agott watched him do nothing useful for seven minutes.
+Kusuri passed carrying an empty crate.
+
+"You Mau?"
+
+He looked at her.
+
+"Yes."
+
+"Kusuri."
+
+Mau searched his memory.
+
+Then smiled apologetically.
+
+"First time?"
+
+"First time."
+
+Relief.
+
+He had not forgotten her.
+
+There was simply nothing to remember yet.
+
+Kusuri pointed at him.
+
+"Maomao says I can't test anything on you."
+
+Mau stared.
+
+"Good?"
+
+"Yep."
+
+"Great first conversation."
+
+"Also Senku says you're statistically weird."
+
+"Less good."
+
+Kusuri walked away.
+
+Mau looked at Rimuru.
+
+"Where did all these people come from?"
+
+Rimuru:
+
+"Technically your disappearance."
+
+"That feels unfair."
+
+"Very."
+
+Agott watched Mau do nothing useful for seven minutes.
 
 This improved her opinion of him more than she would admit.
 

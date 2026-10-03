@@ -226,27 +226,56 @@ His arrival is better used to raise S4 stakes.
 
 ---
 
-## 3.3 Provisional / creator still deciding
+## 3.3 Locked additional G5 member — The 100 Girlfriends
 
-### The 100 Girlfriends
 Do **not** expand the group heavily in S3.
 
-Current creator expectation:
-some of these characters may eventually choose Return because they genuinely love people in Continuum **and** understand they are not equipped to survive there indefinitely / still have important lives and people elsewhere.
+**Kusuri Yakuzen is now LOCKED for G5.**
 
-That is not rejection of Continuum.
+She joins the existing 100 Girlfriends-side Continuum group:
+- Hakari;
+- Karane;
+- Shizuka;
+- Nano.
 
-If one additional character enters G5, favored candidate:
-- **Kusuri Yakuzen** (scientist / drug-focused girlfriend)
+Purpose:
+- close another meaningful relationship gap without importing the entire franchise;
+- create genuine chemistry / conflict with **Maomao** and **Senku**;
+- add medicine, chemistry and weird-science capability without making her a second Senku;
+- force the settlement to formalize experimental safety, labeling, consent and storage;
+- give the existing 100 Girlfriends characters a relationship/reunion thread that does not route through Mau.
 
-Why she could work:
-- interesting chemistry with Senku;
-- immediate friction/synergy with Maomao;
-- medicine / chemistry / weird-science contribution;
-- lateral relationships rather than another Mau-centered bond.
+Kusuri must receive a **lived arrival/reunion scene**. Do not add her through a roster sentence or compressed montage.
 
-**Status: PROVISIONAL.**
-Do not force Kusuri into LN until creator is comfortable with 100 Girlfriends S3/S4 direction.
+### Kusuri stay lock
+
+Kusuri does **not** become a temporary cameo.
+
+She chooses to keep living with the Continuum community and, when the later Return/Stay choice becomes explicit, her intended choice is **STAY**.
+
+That choice must remain her own:
+- not because a romance mechanic compels her;
+- not because the other 100 Girlfriends characters must make the same choice;
+- not because the settlement needs a scientist.
+
+Other characters from the same source family may still choose differently.
+
+### Production guardrail
+
+Adding Kusuri does **not** justify compressing existing G5 prose or later chapters to preserve a previous chapter count.
+
+If the story requires another chapter, add another chapter.
+
+The correct priority is:
+
+```text
+continuity
+-> lived scene
+-> downstream consequence
+-> chapter count
+```
+
+Never reverse that order.
 
 ---
 
@@ -277,9 +306,9 @@ Candidates:
 
 This can widen the search signature confusion and begin world-rule adaptation questions.
 
-### Wave D — political / social texture
+### Wave D — political / social / science texture
 - Jinshi;
-- other remaining G5 character(s);
+- **Kusuri Yakuzen**, with her reunion centered first on Hakari/Karane/Shizuka/Nano and then on the Maomao/Senku chemistry;
 - Milim through direct Diablo encounter rather than false positive.
 
 Exact order remains flexible.

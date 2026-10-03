@@ -65,6 +65,41 @@ function chapterDocument(
   );
 }
 
+/** `| 3 | S3E1 | Tomorrow Is Terrain | `<chapter file>.md` |` */
+const ROW_WITH_FILE =
+  /^\|\s*(\d+)\s*\|\s*(S\d+E\d+)\s*\|\s*(.*?)\s*\|\s*`([^`]+)`\s*\|\s*$/gim;
+/** `| 3 | S3E7 | No One Waits |` - the later volumes dropped the File column. */
+const ROW_PLAIN = /^\|\s*(\d+)\s*\|\s*(S\d+E\d+)\s*\|\s*([^|]*?)\s*\|\s*$/gim;
+
+/** The `nth` chapter document of an episode, counting from 1 in chapter order. */
+function nthChapterOf(
+  documents: ProjectDocument[],
+  episode: string,
+  nth: number,
+): ProjectDocument | null {
+  const ofEpisode = documents
+    .filter(
+      (document) =>
+        document.category === "ln-chapter" &&
+        document.episode?.toUpperCase() === episode.toUpperCase(),
+    )
+    .sort((a, b) => {
+      const an = Number.parseInt(/-ln-chapter-(\d+)$/i.exec(a.id)?.[1] ?? "999", 10);
+      const bn = Number.parseInt(/-ln-chapter-(\d+)$/i.exec(b.id)?.[1] ?? "999", 10);
+      return an - bn;
+    });
+  return ofEpisode[nth - 1] ?? null;
+}
+
+/**
+ * This volume's chapters in order, from either shape of index table.
+ *
+ * The File column is a convenience, not the identity: a chapter document is
+ * `<episode>-ln-chapter-NN`, and a volume covers whole episodes, so the rows of
+ * one episode map onto that episode's chapters in order. Volumes 11 and up were
+ * written without the File column and used to vanish from the reader entirely -
+ * the volume parsed, matched no chapter, and was dropped for being empty.
+ */
 function parseVolume(
   markdown: string,
   documents: ProjectDocument[],
@@ -76,23 +111,39 @@ function parseVolume(
   const season = Number.isFinite(seasonValue) ? seasonValue : null;
   const coverage = readField(markdown, "Coverage");
   const chapters: Omit<ReadingChapter, "globalOrder">[] = [];
-  const row =
-    /^\|\s*(\d+)\s*\|\s*(S\d+E\d+)\s*\|\s*(.*?)\s*\|\s*`([^`]+)`\s*\|\s*$/gim;
 
-  for (const match of markdown.matchAll(row)) {
-    const orderInVolume = Number.parseInt(match[1], 10);
-    const sourceEpisode = match[2].toUpperCase();
-    const title = match[3].trim();
-    const sourceFile = match[4].trim();
-    const document = chapterDocument(documents, sourceEpisode, sourceFile);
+  const withFile = [...markdown.matchAll(ROW_WITH_FILE)];
+  const rows = withFile.length
+    ? withFile.map((m) => ({
+        order: Number.parseInt(m[1], 10),
+        episode: m[2].toUpperCase(),
+        title: m[3].trim(),
+        file: m[4].trim(),
+      }))
+    : [...markdown.matchAll(ROW_PLAIN)].map((m) => ({
+        order: Number.parseInt(m[1], 10),
+        episode: m[2].toUpperCase(),
+        title: m[3].trim(),
+        file: "",
+      }));
+
+  // How many rows of each episode have been placed, so the next one takes that
+  // episode's next chapter.
+  const taken = new Map<string, number>();
+
+  for (const row of rows) {
+    const document = row.file
+      ? chapterDocument(documents, row.episode, row.file)
+      : nthChapterOf(documents, row.episode, (taken.get(row.episode) ?? 0) + 1);
+    taken.set(row.episode, (taken.get(row.episode) ?? 0) + 1);
     if (!document) continue;
     chapters.push({
       documentId: document.id,
-      title,
-      sourceEpisode,
-      sourceFile,
+      title: row.title,
+      sourceEpisode: row.episode,
+      sourceFile: row.file,
       volume: number,
-      orderInVolume,
+      orderInVolume: row.order,
     });
   }
 

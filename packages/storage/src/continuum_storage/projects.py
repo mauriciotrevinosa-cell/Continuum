@@ -618,6 +618,48 @@ def _conventions(data: dict[str, Any], warnings: list[str]) -> list[_Convention]
     return out
 
 
+#: Shortest literal run worth treating as a convention's signature in a name.
+_PROBE_MIN = 4
+
+
+def _name_probes(conventions: list[_Convention]) -> list[tuple[_Convention, str]]:
+    """A distinctive literal fragment of each convention's filename pattern.
+
+    A convention that almost matches a file is the dangerous case: the file is
+    registered as unfiled and reads as simply absent, with nothing said. Season 3
+    lost thirteen written chapters that way - their names used ``CHAPTER_02B``
+    where the convention wants digits, so they were never chapters at all as far
+    as the project was concerned, and the volumes they belonged to just came up
+    short.
+
+    Only literal text that appears *after* the pattern's first capture counts.
+    A leading project-wide prefix is shared by half the conventions and would
+    match almost any name; what identifies a series is the fragment in the
+    middle, like ``_LN_CHAPTER_``. A catch-all convention has no such fragment
+    and therefore no probe, which is correct: it claims nothing in particular.
+    Group names are not literal text and never qualify.
+
+    A probe must also carry a separator. A bare word like ``CORRECTION`` is a
+    word people put in titles, and treating it as a signature reports documents
+    that are exactly where they belong.
+    """
+    probes: list[tuple[_Convention, str]] = []
+    for rule in conventions:
+        source = rule.pattern.pattern
+        first = source.find("(")
+        if first < 0:
+            continue
+        names = set(rule.pattern.groupindex)
+        runs = [
+            run
+            for run in re.findall(rf"[A-Za-z0-9_]{{{_PROBE_MIN},}}", source[first:])
+            if run not in names and "_" in run
+        ]
+        if runs:
+            probes.append((rule, max(runs, key=len)))
+    return probes
+
+
 def _status_rules(data: dict[str, Any], warnings: list[str]) -> list[tuple[re.Pattern[str], str]]:
     rules: list[tuple[re.Pattern[str], str]] = []
     for index, raw in enumerate((data.get("status_lifecycle") or [])[:MAX_RULES]):
@@ -673,6 +715,7 @@ def _load(root: _Root, notes: list[str]) -> Project | None:
         return None
 
     conventions = _conventions(data, warnings)
+    probes = _name_probes(conventions)
     status_rules = _status_rules(data, warnings)
     fact_rules = _fact_rules(data, warnings)
     documents: list[ProjectDocument] = []
@@ -704,6 +747,37 @@ def _load(root: _Root, notes: list[str]) -> Project | None:
         if not _ID.match(document_id) or document_id in seen_ids:
             warnings.append(f"skipped {relative}: missing or duplicate id")
             return
+        # A name carrying one convention's signature while something else claimed
+        # it - a catch-all rule, or nothing at all - is a document that silently
+        # left its own series. It still appears, under the wrong category or as
+        # unfiled, so only the series it vanished from ever looks short.
+        name = PurePosixPath(relative).name
+        own = next((probe for rule, probe in probes if rule.id == convention), None)
+        # An explicit entry is somebody's deliberate listing. Its name does not
+        # have to match any convention and is never second-guessed here.
+        if registration != "explicit" and (own is None or own not in name):
+            # A document whose own convention signed its name is where it belongs,
+            # even when another signature appears inside its title.
+            # The longest signature in the name wins: a short one can sit inside
+            # a longer one, and the longer is the more specific claim.
+            signature = max(
+                (pair for pair in probes if pair[1] in name),
+                key=lambda pair: len(pair[1]),
+                default=None,
+            )
+            # A name that does match its convention and still landed elsewhere lost
+            # an id race, not a naming one, and that is reported already.
+            if (
+                signature
+                and signature[0].id != convention
+                and not signature[0].pattern.fullmatch(name)
+            ):
+                landed = f"registered as {convention}" if convention else "unfiled"
+                warnings.append(
+                    f"{relative} carries the {signature[0].id} signature {signature[1]!r} but its "
+                    f"name does not match that pattern, so it is {landed} and that series "
+                    "is short one"
+                )
         peek, head = _peek(root, relative)
         lifecycle = UNFILED
         if registration == "explicit":

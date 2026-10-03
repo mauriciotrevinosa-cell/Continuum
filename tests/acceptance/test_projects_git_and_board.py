@@ -439,3 +439,34 @@ def test_later_overlays_bibles_and_addenda_need_no_registration(
         assert all(s["commit"] == head[:7] for s in sources[2:])
         missing = client.get("/projects/moon-harbor/episodes/S9E9/production-sources")
         assert missing.status_code == 404
+
+
+def test_a_name_that_misses_its_own_convention_is_reported(
+    data_home: Path, vault_root: Path, repo: Path
+) -> None:
+    """A written document that silently leaves its series must say so.
+
+    Thirteen finished chapters were lost this way: their names used a letter in
+    the chapter number, so the chapter convention did not match, a catch-all
+    rule claimed them under another category, and the volumes they belonged to
+    simply came up short with nothing reported.
+    """
+    folder = repo / "stories" / "harbor"
+    (folder / "HARBOR_S1E1_LOW_TIDE_PANEL_SCRIPT_v0.1B.md").write_text(
+        _doc("Harbor S1E1 `Low Tide` Panel Script B", "PANEL SCRIPT READY"), encoding="utf-8"
+    )
+    _git(repo, "add", "-A")
+    _git(repo, "commit", "-m", "a panel script whose version breaks the convention")
+
+    source = f"git:{repo}@board:stories/harbor"
+    with _client(data_home, vault_root, source) as client:
+        detail = client.get("/projects/moon-harbor").json()
+
+    warnings = detail["project"]["warnings"]
+    flagged = [w for w in warnings if "HARBOR_S1E1_LOW_TIDE_PANEL_SCRIPT_v0.1B.md" in w]
+    assert flagged, f"the near-miss was not reported: {warnings}"
+    assert "panel-script" in flagged[0] and "PANEL_SCRIPT_v" in flagged[0]
+
+    # Guard the guard: the documents that do match their convention stay quiet.
+    assert not [w for w in warnings if "HARBOR_S1E1_DRAFT_1_v0.1.md" in w]
+    assert not [w for w in warnings if "LOOSE_NOTES.md" in w]

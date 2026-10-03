@@ -2,7 +2,7 @@
 
 **Status:** ACTIVE AUDIT — CONTINUITY REPAIRED, FULL-PROSE PASS IN PROGRESS  
 **Season:** 3  
-**Reader order:** 244 chapters / Volumes 10–19
+**Reader order:** 249 chapters / Volumes 10–19
 
 # 0. New root finding — continuity was not the only defect
 
@@ -232,3 +232,33 @@ Continuity repair still begins at:
 But the final-polish reader pass is not complete.
 
 Do not tell the creator that S3 is "done" until the scene-density pass clears every major block.
+
+
+# 6. Goddess Trial / backdoor-deal causal lock — 2026-10-02
+
+The late-S3 backdoor plan must **not** be reduced to "Mau is controlling again."
+
+The old flaw remains structurally relevant, but the new causal engine is the Goddess Trial.
+
+Required lived progression:
+- first deaths are individualized and frightening;
+- Mau searches for third options before learning the domain preserves decision topology;
+- other people explicitly demand the right to own their risk;
+- the Trial introduces survival scenarios where Mau must live after someone else's loss;
+- later scenarios contain no death at all and instead force years / decades of regret, uncertainty or separation;
+- identical-looking choices can produce opposite outcomes in different constructed lives;
+- Mau's exact death/loop count remains open, but the scale is explicitly **hundreds**;
+- physical injuries reset; anticipatory fear, remembered pain, sleep disruption and decision conditioning do not;
+- after the Trial, Mau recognizes that real residents receive only one real Return/Stay decision rather than hundreds of iterations;
+- this produces a trauma-driven temptation to remove the burden of choosing itself;
+- Mau knows the Trial is not prophecy and repeatedly tells himself so;
+- the backdoor plan forms anyway because intellectual uncertainty does not erase conditioned fear.
+
+Required moral framing at interception:
+- family believes Mau's suffering;
+- nobody dismisses constructed years as emotionally fake;
+- family does **not** accept those constructions as evidence about their actual futures;
+- the answer is not "you suffered for nothing";
+- the answer is "your suffering does not give you jurisdiction over our one real life."
+
+Post-Trial effects continue into S4. Mau Jail Part Two is an immediate safety / trust consequence, not psychological resolution.

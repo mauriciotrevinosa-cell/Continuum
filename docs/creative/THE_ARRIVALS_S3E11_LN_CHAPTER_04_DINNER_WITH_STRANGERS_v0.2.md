@@ -32,6 +32,8 @@ Seiko.
 
 Jinshi.
 
+Kusuri.
+
 Milim.
 
 Plus everybody who had already lived here before Mau disappeared.
@@ -315,6 +317,52 @@ Suika asked Fern whether children here had chores.
 Milim asked Rimuru how long he planned to stay.
 
 Jinshi asked Maomao why she had three different medicine boxes with the same label.
+
+Kusuri was seated between Hakari and Nano because Karane had declared that putting her beside Senku and Maomao would turn dinner into a laboratory meeting.
+
+It failed.
+
+Kusuri looked at Mau.
+
+"You don't want people turning every maybe into data, right?"
+
+Mau stopped with his cup halfway up.
+
+"Who told you that?"
+
+"Several people."
+
+He looked around the table.
+
+Betrayal everywhere.
+
+Kusuri raised both hands.
+
+"Then I won't."
+
+Mau studied her.
+
+"That's it?"
+
+"That's it."
+
+No question about his body.
+
+No request for a sample.
+
+No offer to test a medicine.
+
+Mau relaxed by one visible degree.
+
+"Okay. Hi."
+
+"Hi."
+
+That was their first real interaction.
+
+Not scientist and anomaly.
+
+Two people establishing what one of them was not allowed to do to the other.
 
 Nazuna asked Anko whether the roof was actually forbidden or Fern had only been angry.
 

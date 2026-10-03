@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 33 — Now Let Us Decide
+## Chapter 38 — Now Let Us Decide
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 33
+**Reading order:** 38
 
 Mau finally said the whole thing.
 

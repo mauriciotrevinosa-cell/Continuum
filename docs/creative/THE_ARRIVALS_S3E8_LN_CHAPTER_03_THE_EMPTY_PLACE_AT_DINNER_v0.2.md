@@ -1,183 +1,272 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 6 — The Empty Place at Dinner
+## Chapter 8 — The Empty Place at Dinner
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 6  
-**Continuity state:** Night 1 | G5 temporary status: guests at old inn + overflow shelter | Mau: missing | New site: uninhabited worksite
+**Reading order:** 8  
+**Continuity state:** Day 3 — early morning / first meal | G5 exists accidentally | Mau still missing | Worksite remains uninhabited
 
-The old inn had never been designed for this many people.
+Breakfast happened at a dinner hour because nobody knew what time counted anymore.
 
-That had stopped mattering months ago.
+Two tables.
 
-Fern met the newcomers at the door.
+Temporary stools.
 
-Diablo was not with them.
+Bedrolls everywhere.
 
-Milim was.
+Diablo absent again.
 
-That created a different problem.
+Searching.
 
-"Rimuru!"
+That fact mattered.
 
-"Not here."
+He had not switched missions to collect Arrivals.
 
-Milim stopped.
+The Arrivals kept happening to his search.
+
+G5 asked the same question in different ways.
+
+"Who is Mau?"
+
+Senku asked it scientifically.
+
+"What exactly makes his disappearance different from any missing person?"
+
+A woman from the haul asked emotionally.
+
+"Why does the elf look like she's going to kill the weather?"
+
+A third asked politically.
+
+"Is Mau in charge?"
+
+Fern:
+
+"No."
+
+Rimuru:
+
+"No."
+
+Frieren, from the wall:
+
+"No."
+
+Strong consensus.
+
+Senku pointed at worksite plans.
+
+"Then why is half the labor gone for him?"
+
+Agott looked over.
+
+Finally someone else.
+
+Qifrey answered differently than before.
+
+"Different people have different reasons."
+
+They explained enough.
+
+Friend.
+
+Family.
+
+Resident.
+
+Anomaly risk.
+
+Debt.
+
+Trust.
+
+Responsibility.
+
+No universal devotion.
+
+Senku accepted.
+
+"Fine."
+
+Then:
+
+"Your north drainage measurement is inconsistent."
+
+Coco:
+
+"Why are you reading that?"
+
+"Because it was beside my food."
+
+"It was not."
+
+"It is now."
+
+He showed.
+
+One number from early survey.
+
+One from later rain.
+
+Different reference point.
+
+Not catastrophic.
+
+Potential future problem.
+
+Senku did not redesign anything.
+
+He marked:
+REMEASURE WHEN PEOPLE STOP DISAPPEARING.
+
+That line survived for months.
+
+At the worksite later, G5 helped in small ways.
+
+Carry stone.
+
+Cover material before rain.
+
+Check a measurement.
+
+Move temporary storage.
+
+No one moved into it.
+
+Old inn remained home.
+
+One newcomer asked:
+
+"Why build a town if you have this inn?"
+
+Stark laughed.
+
+"Sleep here one night."
+
+Answer.
+
+Another looked at empty frames.
+
+"Where does Mau fit into all this?"
+
+Coco:
+
+"Everywhere and nowhere."
+
+Agott:
+
+"That is a useless answer."
+
+Coco:
+
+"You answer."
+
+Agott thought.
+
+"He helps."
+
+"Better?"
+
+"No."
+
+Exactly.
+
+Mau was not mayor.
+
+Not architect.
+
+Not strongest.
+
+Not owner.
+
+He was woven through relationships.
+
+Hard to explain to strangers.
+
+At lunch, Milim arrived at worksite carrying too much lumber.
+
+"Where?"
+
+Everyone pointed.
+
+She dropped it in wrong place.
+
+Senku stared.
+
+"Move it."
+
+Milim looked at him.
+
+Coco stopped breathing.
+
+Senku pointed.
+
+"Drainage path."
+
+Milim looked down.
+
+Then moved it.
+
+Coco exhaled.
+
+Senku:
 
 "What?"
 
-"Searching."
+"Nothing."
 
-"For Mau?"
+Milim grinned.
 
-Milim had learned the name on the road.
+She liked him.
 
-That did not mean she knew the person.
+Dangerous.
 
-"Yes."
+Near sunset Diablo returned without anyone.
 
-The reunion she had been expecting vanished.
+For the first time.
 
-Fern watched disappointment turn into worry.
+Everyone looked anyway.
 
-Good sign.
+He shook his head.
 
-"Inside."
+No false positive.
 
-G5 entered Mau's life through his absence.
+No Mau.
 
-That mattered.
+Frieren stood before anyone could stop her.
 
-They saw:
-- maps on the dining table;
-- cold food nobody had finished;
-- route markers;
-- boots missing from hooks;
-- people leaving and returning;
-- a chair nobody used because it had become psychologically occupied.
+"I'm going with you."
 
-Nobody gave them a cast introduction.
+Rimuru:
 
-Nano wrote names privately.
+"Frieren—"
 
-Temporary status.
+"No."
 
-Guest.
+Different no.
 
-Medical need.
+Not irrational attack.
 
-Food need.
+Decision.
 
-Known danger.
+Diablo studied her.
 
-No one was asked to swear loyalty.
+"Can you keep up?"
 
-No one was told they now lived here forever.
+The room temperature dropped.
 
-The cohort was assigned to the old inn and its overflow shelter for the duration of the emergency unless someone chose otherwise.
+Rimuru:
 
-That sentence would remain true until explicitly changed.
+"Diablo."
 
-Milim refused to sit.
+"What? A practical question."
 
-"Where's Rimuru?"
+Frieren picked up staff.
 
-"North search line."
+"I can."
 
-"Then I'm going."
+They left.
 
-Fern blocked the door.
+G5 remained behind.
 
-Milim looked down at her.
-
-Fern looked up.
-
-"You don't know the routes."
-
-"I can fly."
-
-"You don't know what we're searching for."
-
-"Mau."
-
-"You know his name."
-
-Milim frowned.
-
-Fern continued.
-
-"You also don't know which false signal will pull you away, what areas have been cleared, or which people are already in the forest."
-
-Milim opened her mouth.
-
-Closed it.
-
-Someone from the haul laughed.
-
-Milim glared.
-
-Fern handed her a map.
-
-"Wait for a route lead."
-
-Milim took it.
-
-That was her first contribution to the settlement.
-
-Not power.
-
-Listening.
-
-Dinner happened badly.
-
-The newcomers ate first because they had traveled.
-
-Core residents ate between search shifts.
-
-G5 asked questions.
-
-Who was Mau?
-
-Why was Frieren still outside?
-
-Why did Rimuru leave immediately after finding Diablo?
-
-Why was the construction site empty if this group was building a town?
-
-Stark answered the last one.
-
-"We don't live there yet."
-
-Simple.
-
-Important.
-
-"We work there."
-
-"Then where do you live?"
-
-Stark pointed at the floor.
-
-"Here."
-
-No ambiguity.
-
-Later, Milim sat in Mau's empty chair without knowing it was his.
-
-Umaru looked at her.
-
-Then decided not to say anything.
-
-A chair was a chair.
-
-Mau would probably agree.
-
-Outside, Diablo turned north again.
-
-The new arrivals slept inside a community they had met in crisis.
-
-None had met the person whose absence organized the night.
-
-That was how G5 met Mau first:
-
-as an empty place everyone kept moving around.
+The people Diablo had mistakenly brought home watched the person he was actually trying to find continue to shape the entire settlement by being absent.

@@ -4,91 +4,228 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 22  
-**Continuity state:** Day 21 | Reconstruction reaches uncertainty limit
+**Continuity state:** Day 21 | Reconstruction reaches its epistemic limit
 
-The uncertain pile became larger than the others combined.
+The uncertain pile became larger than every other category combined.
 
-That should have been failure.
+For two hours, Mau treated that as failure.
 
-It wasn't.
+Then the pile got stupid.
 
-Mau remembered:
-- Frieren saying goodnight from a doorway;
-- Yuta sitting beside him after a bad day;
-- Momo stealing fruit and lying while chewing;
-- Rimuru complaining about paperwork;
-- Bocchi falling asleep in the common room with one sock missing.
+A memory of Frieren saying goodnight from a doorway.
 
-All plausible.
+Possible.
 
-None important enough to have produced records.
+A memory of Yuta sitting beside him after a bad day.
 
-Some people remembered versions.
+Possible.
 
-Nobody could prove exact details.
+Momo stealing fruit while denying it with food still in her mouth.
 
-Mau hated the pile.
+Extremely possible.
 
-"If half my life is maybe, what do I do with that?"
+Momo objected to the wording.
 
-Nobody answered quickly.
+Rimuru complaining about paperwork.
 
-Good.
+Almost certainly real in spirit.
 
-Fast philosophy would have been insulting.
+Specific day?
 
-Ori picked up one card.
+Unknown.
 
-"The breakfast salt."
+Bocchi asleep in the common room with one sock missing.
 
-Mau glared.
+Kita remembered two socks.
 
-"You salted it."
+Bocchi remembered none.
 
-"I did not."
+Mau stared at them.
 
-Frieren, reading nearby:
+"How do you not remember how many socks you were wearing?"
 
-"He did."
+Bocchi looked horrified.
 
-Mau pointed at both.
+"I was asleep."
 
-"Conspiracy."
+"Before sleeping."
 
-Ori smiled.
+"I don't inventory myself."
 
-Then set the card down.
+Momo:
 
-"You can remember something wrong without somebody attacking you."
+"Skill issue."
 
-Mau stopped.
+The table laughed.
 
-Normal memory error.
+Mau did too.
+
+That was when the category changed.
+
+Not in meaning.
+
+In weight.
+
+They had been treating uncertainty as contamination.
+
+But ordinary memory was already full of it.
+
+Breakfast became evidence.
+
+Mau remembered salting eggs.
+
+Ori denied it.
+
+Frieren said he did.
+
+Fern remembered him complaining the eggs were too salty but not who salted them.
+
+Mau looked at everyone.
+
+"Attack?"
+
+Ori picked up the salt card.
+
+"Or you are bad at remembering breakfast."
+
+Mau considered.
+
+That possibility felt almost luxurious.
+
+Not every mismatch required an enemy.
 
 Trauma.
 
 Dream.
 
+Attention.
+
+Normal human—or whatever Mau was—memory error.
+
 Manipulation.
 
 All could coexist.
 
-The table could not become a courtroom where every memory needed a verdict.
+The impossible part was wanting one test that separated them.
 
-Frieren said:
+Raphael could not.
 
-"Maybe."
+Witches could not.
 
-Mau hated the word less than last week.
+Frieren could not.
 
-"Maybe."
+The table could not.
 
-He moved several cards out of active review.
+Mau leaned back.
+
+"If half my life is maybe, what do I do with that?"
+
+Nobody answered immediately.
+
+Good.
+
+A fast answer would have been insulting.
+
+Yuta eventually said:
+
+"Live the half that is now."
+
+Mau looked at him.
+
+"That's annoyingly reasonable."
+
+"Sorry."
+
+Frieren looked at the cards.
+
+"You don't need a verdict on every goodnight."
+
+Mau's throat tightened.
+
+That sentence did more work than philosophy.
+
+He picked up the doorway card.
+
+Frieren saying goodnight.
+
+Maybe real.
+
+Maybe altered.
+
+Maybe dream.
+
+No consequence required.
+
+He moved it out of active review.
+
+Not TRUE.
+
+Not FALSE.
+
+ARCHIVE / UNCERTAIN.
+
+Another.
+
+Momo fruit.
+
+Archive.
+
+Bocchi one sock.
+
+Archive.
+
+Rimuru paperwork.
+
+Rimuru protested.
+
+"That one is real."
+
+"Which day?"
+
+Rimuru stopped.
+
+Mau smiled.
+
+"Archive."
+
+By lunch, half the uncertain pile had moved.
 
 Not solved.
 
-Not discarded.
+Allowed to remain unresolved.
 
-Allowed to remain uncertain.
+Mau's shoulders lowered.
 
-That was the first day reconstruction stopped growing faster than Mau could live.
+Ori watched.
+
+"What?"
+
+Mau looked at the smaller active table.
+
+"I thought reconstruction meant getting back to one story."
+
+"And?"
+
+"I don't think there was ever one perfectly recorded story."
+
+Frieren reached across and touched his hand.
+
+"No."
+
+Mau looked at her.
+
+"That's terrifying."
+
+"Yes."
+
+"But normal?"
+
+"Unfortunately."
+
+He laughed.
+
+The first day reconstruction stopped growing faster than Mau could live was the day he accepted that some parts of yesterday might never deserve a courtroom.
+
+The uncertain pile remained.
+
+It simply stopped being a cliff.

@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 25 — Ori Is the Same
+## Chapter 33 — Ori Is the Same
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 25  
-**Continuity state:** Day 6 — morning | Ori consistency pattern becomes explicit | Exact metaphysics open
+**Reading order:** 33  
+**Continuity state:** Day 7 — morning | Ori consistency pattern becomes explicit | Exact metaphysics open
 
 Mau tested Ori without telling her.
 

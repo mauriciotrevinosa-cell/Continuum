@@ -255,7 +255,7 @@ Completed:
   - the post-Memory date now includes the required "I'll remind you / as many as it takes" promise.
 
 Current total reader-order count:
-- **257 chapters** including V10's 17 revalidated v0.1 carryover chapters.
+- **258 chapters** including V10's 17 revalidated v0.1 carryover chapters.
 
 The next safe phase is no longer "finish G5."
 
@@ -269,3 +269,18 @@ G5 continuity now established
 ```
 
 Do not revert to the pre-G5 assumption that Senku or Richeh first arrive later in S3.
+
+
+## 9. Kusuri creator lock — 2026-10-03
+
+Creator decision after the initial G5 completion pass:
+- **Kusuri Yakuzen is now a locked G5 member.**
+- She receives her own lived V11 arrival/reunion chapter rather than a montage insertion.
+- Her first relational anchor is the already-present Hakari / Karane / Shizuka / Nano group, not Mau.
+- Maomao + Senku + Kusuri becomes a recurring science/medicine/chemistry triangle with real disagreement, consent rules and safety infrastructure.
+- Kusuri continues living with the community after G5.
+- In the later Return/Stay decision, Kusuri's intended personal choice is **STAY**.
+- This does not determine the choices of the other 100 Girlfriends-side characters.
+
+Production lock:
+> Never compress existing scenes to make room for Kusuri or any later correction. Increase chapter count and propagate consequences instead.

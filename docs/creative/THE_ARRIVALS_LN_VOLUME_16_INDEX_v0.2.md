@@ -25,7 +25,7 @@
 | 15 | The Bridge Opens |
 | 16 | Arrival House Gets Walls |
 | 17 | Construction Is Not Engineering |
-| 18 | Maomao and Senku Agree Too Much |
+| 18 | Maomao, Senku and Kusuri Agree Too Much |
 | 19 | Teach Someone Else |
 | 20 | The Old Inn Has Guests |
 | 21 | Senku Gets Faster |
@@ -39,6 +39,7 @@
 - first external partnership is material and functioning;
 - Arrival House has a real building;
 - Senku has altered design without becoming a civilization cheat code;
+- Kusuri is embedded in chemical/medical infrastructure without becoming a second Senku or replacing Maomao;
 - cognition reduction remains real but adapting;
 - hybrid Witch Hat / engineering / settlement systems are now lived infrastructure;
 - city remains unnamed and unfinished;

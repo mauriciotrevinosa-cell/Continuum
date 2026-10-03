@@ -4,68 +4,306 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 5  
-**Continuity state:** Day 7 — evening | Search ongoing | Old inn still base | Worksite operating reduced
+**Continuity state:** Day 7 — parallel search | Old inn remains base | Other needs continue
 
 The search found three people.
 
-None were Mau or Ori.
+None were Mau.
 
-A native trader with a broken wheel.
+None were Ori.
 
-An Otherworlder traveling alone who had heard rumors of a safe group north.
+The first was a native trader with a broken wheel.
 
-A child from a nearby farm who had gone too far looking for an animal.
+Mikasa saw the cart from the road and almost kept moving.
 
-Normally these would have been separate stories.
+Not because she did not care.
 
-Today they were obstacles.
+Because south mattered.
 
-That thought made Anko angry.
+Every minute had a face now.
 
-At whom, unclear.
+Mau.
 
-They repaired the wheel enough to move.
+Ori.
 
-Gave the Otherworlder directions to the old inn and a written note for Fern.
+Frieren running another lane.
 
-Returned the child home.
+Then the trader tried to lift the axle alone and nearly dropped it on his foot.
 
-Every stop cost time.
+Mikasa stopped.
 
-Every stop was also what the community claimed to be for.
+Okarun stopped with her.
 
-Mikasa never suggested abandoning them.
+Anko swore under her breath and wrote the time.
 
-Okarun looked south after each delay.
+The repair took twenty-three minutes.
 
-Anko wrote times.
+Anko knew because she timed everything now.
 
-Not to blame anyone later.
+Not for blame.
 
-To remember the search had happened in a world still full of other needs.
+For cost.
 
-At the old inn, Fern received the new arrival.
+The trader had seen two travelers earlier.
 
-Name.
+One man.
 
-Need.
+One girl.
 
-Danger.
+South.
+
+Good.
+
+The stop became useful after they had already chosen to help.
+
+Mikasa disliked how relieved that made her.
+
+She did not want kindness to require payoff.
+
+They moved.
+
+The second person was an Otherworlder.
+
+Young.
+
+Alone.
+
+Walking north with no idea whether north contained anything but rumor.
+
+He had heard:
+
+a group.
+
+an inn.
+
+people who did not ask too many questions.
+
+Safe was too strong.
+
+Possible was enough.
+
+Anko asked:
+
+"Need now?"
+
+"Food."
+
+Okarun gave him some.
+
+"Following anyone?"
+
+"No."
+
+"Anyone following you?"
+
+"I don't think so."
 
 Three questions.
 
 No Arrival House yet.
 
-A corner of the table.
+No intake process.
 
-A bedroll.
+Only things the household had learned because people kept appearing before systems did.
 
-G5 made space.
+They gave him a note for Fern.
+
+Directions.
+
+Did not escort him all the way.
+
+That choice hurt.
+
+Mau might be hours south.
+
+The newcomer might become lost north.
+
+There was no option where every vulnerable person received full attention.
+
+The search forced them to admit that.
+
+The third person was a child.
+
+Not Otherworlder.
+
+Native.
+
+Crying beside a fence line because an animal had run off and he had followed too far.
+
+Okarun saw him first.
+
+Stopped.
+
+Anko closed her eyes.
+
+"Of course."
+
+Mikasa looked south.
+
+Then at the child.
+
+No debate.
+
+They returned him to the nearest farm.
+
+The mother recognized the names Otherworlders before she recognized them as people helping.
+
+Fear crossed her face.
+
+Then relief.
+
+Then embarrassment about the fear.
+
+Complicated.
+
+She had seen two travelers.
 
 Again.
 
-The future settlement gained another person who might someday use it without anyone having planned for them.
+Man walking badly by late afternoon.
 
-The search did not stop.
+Girl supporting him once.
 
-The world did not either.
+Mikasa's body went cold.
+
+"When?"
+
+"Hours ago."
+
+"Direction?"
+
+Southwest.
+
+Different from expected route.
+
+Useful.
+
+The search changed lanes.
+
+Every person they stopped for had cost time.
+
+Every person had also moved them closer.
+
+That did not make morality efficient.
+
+It made the world connected.
+
+At the old inn, Fern received the northbound Otherworlder.
+
+G5 already occupied more space than the household had planned.
+
+Another bedroll meant rearranging the common room.
+
+One guest complained.
+
+Then helped move a chair.
+
+Rem did not exist in their story yet.
+
+Arrival House did not exist.
+
+Fern had a table.
+
+Paper.
+
+Food.
+
+Questions.
+
+Enough.
+
+The newcomer asked:
+
+"Is Mau in charge?"
+
+Fern stopped.
+
+"Why?"
+
+"People said this is his group."
+
+There.
+
+Rumor already attaching leadership to absence.
+
+Fern answered:
+
+"He lives here."
+
+Not ruler.
+
+Not owner.
+
+Lives here.
+
+The newcomer looked confused.
+
+Good.
+
+Let reality be less tidy than rumor.
+
+At the future site, work continued with fewer people.
+
+A drainage trench progressed badly.
+
+One delivery arrived.
+
+G5 covered transport.
+
+Coco argued with Agott about a marker.
+
+Qifrey let them.
+
+People built while core searchers were gone.
+
+Not enough.
+
+Some.
+
+The settlement was paying for Mau's search in lost expertise, delayed decisions and divided attention.
+
+It was also discovering it could continue without every founder present.
+
+Both facts mattered.
+
+Near sunset, Anko's team found a cold campfire.
+
+Two sleeping positions.
+
+One smaller.
+
+One larger.
+
+No blood.
+
+No struggle.
+
+They sent the signal.
+
+Frieren reached them later.
+
+Touched one cold stone.
+
+"They were here."
+
+Yuta looked at the ashes.
+
+"Yesterday."
+
+Closer.
+
+Not found.
+
+Mikasa watched Frieren's face.
+
+No collapse.
+
+No false hope.
+
+Only direction.
+
+The world had given them three other people today.
+
+Now it gave them one more night of searching.
+
+They took both.

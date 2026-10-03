@@ -4,42 +4,114 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
 **Reading order:** 9  
-**Continuity state:** Move Day 1 — night | First wave sleeps at settlement | Old inn still occupied by second group
+**Continuity state:** Move Day 1 — night | First wave sleeps at settlement | Inn remains occupied
 
 The first night was terrible.
 
 Perfect.
 
+Dinner failed first.
+
+Not food.
+
+Location.
+
+Pots in one building.
+
+Utensils in another.
+
+Salt still at the inn despite the list explicitly saying salt.
+
+Then somebody found salt.
+
+Wrong container.
+
+Momo claimed victory anyway.
+
 The common-room chimney drew badly.
 
-One latch refused to close.
+Smoke gathered high enough to annoy, not kill.
 
-Someone had placed bedding in the room that stayed coldest.
+Senku had not arrived yet to be offended.
 
-The latrine path was too dark.
+Rimuru opened windows.
 
-Water worked.
+Aira shouted from outside that one route marker was invisible after sunset.
 
-That saved morale.
+Mikasa shouted back:
 
-Dinner took twice as long because nobody knew where anything was.
+"Write it down."
 
-Milim found the missing kettle.
+"I am currently standing in darkness!"
 
-Nobody asked how.
+"Then remember."
+
+"Excellent system!"
+
+The latrine path needed another lantern.
+
+One door latch refused to close.
+
+Ori's.
+
+Mau offered to fix it.
+
+Ori looked at him.
+
+"No Construction."
+
+"Tools exist."
+
+"Tomorrow."
+
+Mau stared at the door.
+
+Ori:
+
+"It closes enough."
+
+"It's a security issue."
+
+"It's a door."
+
+"Same thing."
+
+Ori pushed it.
+
+It stuck halfway.
+
+Mau looked vindicated.
+
+Ori laughed.
+
+The first-night group learned the coldest room was not where anyone had predicted.
+
+Wakana's bedding had been placed there.
+
+He moved it.
+
+Then discovered his bedframe was still at the inn.
+
+So he slept beside workshop boxes on layered blankets.
+
+Marin called this pathetic.
+
+Wakana agreed.
+
+The water worked.
+
+That fact saved morale.
+
+No one appreciated water until everything else failed.
 
 Mau and Frieren's room contained:
 - bed;
 - two boxes;
 - one chair;
-- too many books already;
-- no curtain.
+- no curtain;
+- too many books already.
 
-Frieren looked around.
-
-"Good."
-
-Mau stared.
+Mau stood in the center.
 
 "No curtain."
 
@@ -53,39 +125,98 @@ Mau stared.
 
 "Floor."
 
-Mau laughed.
+Mau looked at Frieren.
 
-She was right.
+"You planned this."
 
-They were here.
+"No."
 
-For one night.
+"You sound prepared."
 
-Maybe more.
+"I have slept outside."
 
-Across the settlement, Aira shouted that one exterior route marker was invisible in darkness.
+Fair.
 
-Mikasa shouted back that this was why tonight existed.
+They unpacked almost nothing.
 
-Ori's door stuck.
+Frieren put one book on the floor.
 
-Rimuru discovered the common room echoed enough that private conversation became public entertainment.
+Mau hung the recovered cap on a temporary hook.
 
-Wakana slept beside workshop boxes because his bedframe was still at the inn.
+The blue thread went into a dish.
 
-No one called the place finished.
+That was enough to make the room less anonymous.
 
-At midnight Mau woke.
+Outside, Milim discovered the echo in the common room.
 
-For one second he did not know where he was.
+By shouting.
 
-Memory Arc panic rose.
+Rimuru learned private conversation would currently become public entertainment.
 
-Frieren spoke in the dark.
+Diablo considered this irrelevant.
+
+Rimuru considered Diablo part of the problem.
+
+Around midnight, the settlement quieted.
+
+Not fully.
+
+New buildings made new sounds.
+
+Wood settling.
+
+Wind through gaps.
+
+Someone walking because nobody knew where the water cup had gone.
+
+Mau woke.
+
+For one second:
+
+nothing.
+
+No location.
+
+No chronology.
+
+Body panic first.
+
+Memory Arc.
+
+Frieren was awake immediately.
+
+"Mau."
+
+He turned.
+
+Dark room.
+
+Wrong ceiling.
+
+His breathing climbed.
+
+Frieren did not ask:
+Do you know where you are?
+
+She said:
 
 "New site."
 
-He breathed.
+Mau closed his eyes.
+
+The words fit.
+
+They had moved.
+
+First night.
+
+Not old inn.
+
+He remembered boxes.
+
+Wagon.
+
+Bad chimney.
 
 "Do you remember it that way too?"
 
@@ -93,10 +224,62 @@ He breathed.
 
 Present verified.
 
-Then a distant crash.
+Mau breathed.
 
-Someone had knocked over the water bucket.
+Then laughed quietly.
 
-Home sounded awful.
+Frieren looked at him.
 
-Mau smiled.
+"What?"
+
+"I hate that moving gave my brain an entirely new place to be wrong about."
+
+Frieren considered.
+
+"Then we learn it."
+
+Mau looked at her.
+
+The answer was so simple it hurt.
+
+New room.
+
+New memories.
+
+No need to arrive with certainty.
+
+A crash sounded outside.
+
+Both sat up.
+
+Then someone shouted:
+
+"Water bucket!"
+
+Aira:
+
+"WHO PUT IT THERE?"
+
+Mikasa:
+
+"Write it down."
+
+Mau started laughing.
+
+Frieren lay back.
+
+"Home sounds bad."
+
+Mau looked at the ceiling.
+
+Not home.
+
+Maybe.
+
+He smiled anyway.
+
+The first night did not become sentimental.
+
+It became shared inconvenience.
+
+That was better.

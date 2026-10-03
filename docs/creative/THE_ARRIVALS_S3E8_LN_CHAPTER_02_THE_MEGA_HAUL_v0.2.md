@@ -1,161 +1,361 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 5 — The Mega-Haul
+## Chapter 7 — The Mega-Haul
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 5  
-**Continuity state:** First disappearance, night 1 | Lived base: old inn | G5 cohort converging | Named roster intentionally not fully locked
+**Reading order:** 7  
+**Continuity state:** Day 2 night -> Day 3 pre-dawn | Diablo actively searching for Mau | G5 forms accidentally through false positives
 
-The first person Diablo found tried to attack him.
+Diablo left the inn with a description.
 
-Reasonable.
+That was the problem.
 
-The second ran.
+Male.
 
-Also reasonable.
+Human-looking.
 
-By the fourth encounter, Diablo had learned that saying:
+Young adult.
 
-"I was sent by a slime"
+Unknown origin.
 
-did not improve first contact.
+Unusual internal structure.
 
-So he changed methods.
+Possible mixed or unstable signatures.
 
-"My name is Diablo. There is a group of people from other worlds living north of here. One of them is searching for a missing resident. You may come with me, refuse, or follow at distance."
+Memory disturbance.
 
-Better.
+May not answer correctly to his own name.
 
-Still terrifying.
+Diablo looked at Rimuru.
 
-The scattered newcomers had not arrived together.
+"This description is terrible."
 
-Some had been moving for days.
+Rimuru:
 
-Some for less.
+"I know."
 
-One had already learned enough local language to buy food.
+"Do you have his energy signature?"
 
-Another had not.
+"Not one I trust enough to give you."
 
-One wanted nothing to do with a settlement.
+Memory crisis.
 
-Another nearly cried at the word.
+Noise.
 
-Diablo did not solve their lives.
+Too many systems.
 
-He made a route.
+Diablo smiled.
 
-That was the beginning of what later notes would call the G5 mega-haul.
+"I will find him."
 
-Not because every person became Group Five main cast.
+Frieren, sitting because three people had effectively ordered her to:
 
-Because, for once, a large cluster converged in a short enough window that the household experienced arrival as population rather than individual miracle.
+"Bring Mau."
 
-Milim was the least subtle member of the convergence.
+Diablo bowed slightly.
 
-She found Diablo before he found her.
+"Of course."
 
-"YOU."
+He was back forty minutes later.
 
-Diablo stopped.
+Everyone stood.
 
-Milim pointed.
+Diablo looked pleased.
 
-"Where's Rimuru?"
+Behind him walked a sharp-eyed teenager with wild hair, dirty clothes and the expression of someone who had been kidnapped by incompetence rather than force.
 
-Diablo considered lying for exactly zero seconds.
+Diablo gestured.
 
-"North."
+"I found him."
 
-Milim vanished.
+Silence.
 
-Diablo caught her route with perception and reappeared ahead.
+Rimuru stared.
 
-"We are collecting people first."
+Frieren stared.
 
-Milim nearly collided with him.
+The teenager stared back.
+
+Mau was not there.
+
+The teenager looked around the inn.
+
+"Okay. Who the hell is Mau?"
+
+Diablo's smile changed by approximately one millimeter.
+
+Rimuru closed his eyes.
+
+"That's Senku Ishigami."
+
+Senku pointed at Diablo.
+
+"This lunatic felt 'anomalous outsider signature' and decided that was identification."
+
+Diablo:
+
+"You fit multiple parameters."
+
+"Congratulations."
+
+Frieren sat back down.
+
+Not disappointment gracefully managed.
+
+A visible drop.
+
+Senku saw.
+
+His irritation disappeared enough to ask:
+
+"Missing?"
+
+Rimuru nodded.
+
+"Almost two days."
+
+"Useful data?"
+
+"Not enough."
+
+Senku looked at maps.
+
+Then at the damaged road outside.
+
+Then at Frieren.
+
+He chose not to ask about crater.
+
+"Give me paper."
+
+That was how Senku entered G5.
+
+Not as the man who rebuilt the city.
+
+As the wrong Mau.
+
+Diablo left again.
+
+Second return took longer.
+
+This time he brought a woman whose magical signature had fractured under Continuum adaptation.
+
+He entered with the exact same confidence.
+
+"I believe this one—"
+
+Frieren looked once.
+
+"No."
+
+The woman looked offended.
+
+"Excuse me?"
+
+"Not you."
+
+"Oh."
+
+She stayed for food.
+
+Temporary guest.
+
+Diablo left again.
+
+Third return:
+
+two people.
+
+One refused to enter the inn until Fern explained they could leave whenever they wanted.
+
+The other had been hiding because every powerful presence they met had tried to recruit them.
+
+Diablo had somehow interpreted both as potentially related to Mau's unstable traces.
+
+Neither was Mau.
+
+Rimuru stared at the growing room.
+
+"Diablo."
+
+"Yes, Rimuru-sama?"
+
+"How many people are you planning to find before you find the one person we're looking for?"
+
+Diablo considered.
+
+"As many as necessary."
+
+Senku laughed for the first time.
+
+Frieren did not.
+
+She looked at each return.
+
+Every time the door opened:
+hope before recognition.
+
+Every time:
+not Mau.
+
+That repetition began hurting the whole house.
+
+Fern noticed first.
+
+"Next time, don't announce from outside."
+
+Diablo looked confused.
 
 "Why?"
 
-"Rimuru-sama asked for help."
+"Just come in."
 
-That changed everything.
+He looked at Frieren.
 
-"Is he in trouble?"
+Understood.
 
-"Someone important to him is missing."
+"Very well."
 
-Milim's expression became serious.
+The accidental arrivals needed:
+food.
+blankets.
+names.
+medical checks.
+choices.
 
-"Then why are we going this way?"
+The inn filled.
 
-"Because abandoning these people while everyone stronger runs toward one crisis would create another."
+Nobody had planned Group Five.
 
-Milim looked at the scattered newcomers.
+Nano started a page because population required one.
 
-Then north.
+No group name yet.
 
-Then Diablo.
+Just:
+NEW ARRIVALS / SAME SEARCH WINDOW.
 
-"I can carry them."
+Senku read the future-site notes while waiting.
 
-Several people reacted badly.
+Not because he had volunteered for city design.
 
-Diablo sighed.
+Because paper was there and his brain needed a problem that did not involve someone missing.
 
-"Perhaps not literally."
+He found one measurement inconsistency.
 
-By midnight the group moved toward the old inn.
+Then another.
 
-No exact roster was announced to the reader.
+He looked at Rimuru.
 
-That was deliberate.
+"Who did these?"
 
-Their names existed in Nano's future intake pages.
+"Several people."
 
-Their choices would matter later.
+"That explains it."
 
-For now, the continuity fact was simpler:
+Coco bristled.
 
-**the cohort existed.**
+Agott:
 
-They needed beds.
+"He's right about this one."
 
-Food.
+Senku looked at her.
 
-Information.
+"Good."
 
-Somewhere to be while the people already living here searched for a man none of them knew.
+No grand audit.
 
-Milim flew ahead only after Diablo made her repeat the inn location twice.
+One small correction.
 
-She still overshot.
+Then he asked:
 
-Diablo pretended not to notice.
+"Does working there help the search?"
 
-Then, while the group rested near a low ridge, he felt something else.
+Fern:
 
-North.
+"No."
 
-Not one presence.
+"Does it help the people stuck here while everyone searches?"
 
-Many.
+"Yes."
 
-He turned his head.
+Senku stood.
 
-One of the newcomers asked:
+"Then show me."
 
-"What?"
+By midnight, one accidental Arrival was helping carry material.
 
-Diablo did not answer yet.
+Another sorted supplies.
 
-The sensation vanished before he could count cleanly.
+Senku rechecked one drainage measurement.
 
-He would need to get closer.
+Not because they loved Mau.
 
-He hated that curiosity arrived before caution.
+Most still did not know him.
 
-Rimuru had asked him to help.
+Because they had arrived inside a community missing half its labor.
 
-Caution won.
+The fourth time Diablo returned, Milim was with him.
+
+Not a false positive.
+
+She had found Diablo.
+
+"Rimuru!"
+
+She blew through the door.
+
+Then saw Rimuru.
+
+Relief.
+
+Then everyone else.
+
+Then Frieren.
+
+Then crater.
+
+"What happened?"
+
+Rimuru pointed at Frieren.
+
+Frieren did not react.
+
+Milim looked impressed.
+
+"Cool."
+
+No one agreed.
+
+Milim asked:
+
+"Who's missing?"
+
+Several G5 voices answered at once:
+
+"Mau."
+
+Milim:
+
+"Who's Mau?"
+
+Senku, without looking up from a measurement sheet:
+
+"Apparently the most expensive missing person in this world."
+
+Agott, passing:
+
+"That is what I said."
+
+For the first time in two days, Frieren almost laughed.
+
+Almost.
+
+Diablo watched.
+
+Then turned north again.
+
+He had not found Mau.
+
+He had accidentally built a cohort around the hole Mau left.
+
+He remained certain the next search would be different.

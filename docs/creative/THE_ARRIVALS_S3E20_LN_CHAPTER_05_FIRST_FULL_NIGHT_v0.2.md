@@ -28,6 +28,10 @@ Again.
 
 Bocchi playing softly in the unfinished music room.
 
+Nijika listening from the doorway.
+
+Ryo tuning badly on purpose until Bocchi threw a cloth at her.
+
 Wakana working too late.
 
 Fern finding him.
@@ -106,11 +110,13 @@ Frieren did not ask where.
 
 Good.
 
-The common room held Ori and Kaneki.
+The common room held Ori, Kaneki and Suika.
 
 Ori drinking something warm.
 
 Kaneki seated where the remaining food smell bothered him least.
+
+Suika making a small map of which night paths felt safe at her height instead of everyone else's.
 
 Neither asked Mau why he was awake.
 

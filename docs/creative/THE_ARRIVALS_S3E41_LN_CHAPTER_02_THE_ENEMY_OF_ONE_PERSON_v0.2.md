@@ -7,7 +7,23 @@
 
 The injured man reached Arrival House bleeding.
 
-The resident who recognized him stopped in the doorway.
+That simplified first five minutes.
+
+Maomao:
+
+"Table."
+
+Fern:
+
+"Name if you can."
+
+The man gave one.
+
+Then a resident entering from plaza heard it.
+
+Stopped.
+
+Looked through doorway.
 
 "You."
 
@@ -15,52 +31,210 @@ Everything changed.
 
 Same source world.
 
-Not friends.
+Not friend.
 
 Not neutral.
 
-Collaborator.
+The resident's face went white.
 
-The man did not deny it.
+Then red.
+
+"You let him in?"
+
+Fern stood.
+
+"He arrived injured."
 
 "He helped them find people."
+
+The injured man did not deny.
 
 "I carried messages."
 
 "You knew what the messages did."
 
-"Yes."
+Pause.
 
-Real harm.
+"Yes."
 
 No convenient innocence.
 
-He had also arrived in Continuum under pursuit from an armed group likely to kill him without hearing anything.
+Maomao kept working.
 
-Both true.
+"Argue quieter."
 
-He asked for one night.
+The harmed resident stared.
 
-The resident said:
+"He doesn't deserve—"
+
+Maomao looked up.
+
+"Blood doesn't care."
+
+Silence.
+
+Medical stabilization first.
+
+Decision after.
+
+Law could wait fifteen minutes.
+
+Bleeding could not.
+
+That became controversial immediately.
+
+One person said care implied sanctuary.
+
+Maomao:
 
 "No."
 
-Arrival House could no longer solve the problem with hospitality alone.
+Another said treatment aided a dangerous person.
+
+Maomao:
+
+"Yes."
+
+"And?"
+
+"And I am stopping bleeding."
+
+Simple.
+
+The injured man had also arrived under pursuit.
+
+Armed group behind him.
+
+Likely execution without hearing.
+
+Both true.
+
+Mikasa moved watch outward.
+
+Not to defend him personally.
+
+To prevent outside violence entering settlement before facts known.
+
+The harmed resident paced.
+
+Mau stayed out of chair role.
+
+Important.
+
+He spoke to resident privately.
+
+"Do you want to leave room?"
+
+"No."
+
+"Do you want him removed?"
+
+"Yes."
+
+"To them?"
+
+The resident stopped.
+
+Outside pursuers.
+
+Summary death.
+
+"No."
+
+There.
+
+Conflict already more complex.
+
+The injured man woke later.
+
+Anko asked:
+what did you do?
+
+No minimizing.
+
+He carried messages identifying hiding places.
+
+Knew consequences likely.
+
+Not full choice:
+threats against family.
+
+Still chose sometimes.
+
+Later helped two people escape.
+
+Why?
+
+"Too late."
+
+No self-redemption speech.
+
+The harmed resident heard from separate room.
+
+Asked to confront.
+
+Allowed if both agree and medical safe.
+
+They did.
+
+"You knew my sister was there."
+
+The man looked down.
+
+"Yes."
+
+No:
+I had no choice.
+
+"I knew."
+
+The resident hit table with palm.
+
+Did not attack.
+
+Mikasa ready.
+
+Not intervening.
+
+The injured man:
+
+"I'm sorry."
+
+"Don't."
+
+Apology not accepted.
+
+Good.
+
+Arrival House could not solve with hospitality alone.
 
 Enemy of one resident.
 
 Enemy of settlement?
 
-Not automatically.
+Not automatic.
 
-But not irrelevant.
+Harm real.
 
-The injured man received medical stabilization first.
+Pursuit real.
 
-Decision after.
+Need real.
 
-Maomao insisted.
+That night he got medical bed under guard.
 
-Law could wait fifteen minutes.
+Temporary.
 
-Bleeding could not.
+No one called him guest.
+
+Status:
+PROTECTED PENDING REVIEW.
+
+Words mattered.
+
+The resident went home furious.
+
+Protected by same rules from being forced into forgiveness.
+
+The city had built sanctuary.
+
+Now sanctuary had to survive someone nobody wanted to welcome.

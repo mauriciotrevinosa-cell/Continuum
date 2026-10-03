@@ -7,7 +7,9 @@
 
 The old inn filled again for three nights.
 
-A Searcher team brought people from a storm-damaged road.
+Storm damaged road north.
+
+Searcher team found travelers closer to inn than city.
 
 The settlement had beds.
 
@@ -17,15 +19,31 @@ So they used it.
 
 No one treated that as regression.
 
-Mau visited.
+Fern received note.
 
-The guests did not know he had lived there.
+Sent supplies.
 
-One asked:
+Mau volunteered to bring them.
 
-"Is this owned by the settlement?"
+This time nobody asked whether they needed him.
 
-Mau thought.
+It was a normal errand.
+
+Better.
+
+He arrived near evening.
+
+Door stuck.
+
+Still.
+
+Mau pushed.
+
+One guest from storm group looked up from old table.
+
+"Is this owned by the city?"
+
+Mau stopped.
 
 "Protected by us."
 
@@ -33,28 +51,176 @@ Mau thought.
 
 "No."
 
-He explained badly.
+"Then who owns it?"
 
-The old inn belonged partly to memory.
+Mau looked around.
 
-Partly to practical use.
+Good question.
 
-Partly to whoever slept there tonight.
+Legal answer messy.
 
-The guest looked around.
+Emotional answer worse.
 
-"People say this is where you started."
+"People maintain it together."
 
-Mau glanced at the old table.
+Guest waited.
 
-"Where we started."
+Mau added:
+
+"It existed before the settlement. This is where a lot of us first lived."
+
+"Oh."
+
+The guest looked at table.
+
+No reverence.
+
+Good.
+
+"Can I eat here?"
+
+"Yes."
+
+Perfect.
+
+History allowed dinner.
+
+One room held family.
+
+Another two travelers.
+
+Common room had Searcher sleeping on bench.
+
+Mau's old room was empty tonight.
+
+He went upstairs.
+
+Not nostalgia pilgrimage.
+
+Needed blanket.
+
+Still paused.
+
+Room smelled different.
+
+Someone had opened window recently.
+
+Bed moved slightly.
+
+Good.
+
+Not frozen.
+
+He took blanket.
+
+Downstairs, Bocchi arrived later with Kita.
+
+They had planned inn day already.
+
+Bocchi saw guests.
+
+Stopped.
+
+Then smiled.
+
+Tiny.
+
+She played after dinner.
+
+One guest asked:
+
+"Is this where the first group started?"
+
+Bocchi looked at Mau.
+
+Mau looked at her.
+
+Bocchi answered:
+
+"Yeah."
+
+"All of you?"
+
+"No."
+
+"Who?"
+
+Bocchi panicked at scope.
+
+Mau helped only after she looked at him.
+
+Names.
+
+Stories.
+
+Not full lore lecture.
+
+A newer resident listened too.
+
+They had heard S1 secondhand.
+
+Now story traveled thirdhand.
+
+Mau noticed details drift.
+
+One version made old roof collapse once.
+
+It had not.
+
+Mau almost corrected.
+
+Then asked:
+
+"Did it?"
+
+Bocchi:
+
+"No."
+
+Frieren, who had arrived with books:
+
+"No."
+
+Good.
 
 Correction.
 
-Later Bocchi played there.
+Memory culture.
 
-A newer resident heard the story of S1 from someone who had not been there.
+Old inn had become history without becoming dead.
 
-Culture again.
+Morning:
+travelers left.
+One room dirty.
+Table sticky.
+Blanket missing.
 
-The old inn had become history without becoming dead.
+Fern's maintenance list gained:
+replace hinge.
+
+Mau looked at door.
+
+"Finally?"
+
+Fern:
+
+"No. Hinge only."
+
+Door would still stick.
+
+Mau suspected this was deliberate historical preservation.
+
+Fern denied.
+
+The inn remained:
+overflow;
+waystation;
+quiet place;
+history;
+home sometimes.
+
+Not museum.
+
+Not abandoned.
+
+A place future people could enter without needing to ask permission from the past.

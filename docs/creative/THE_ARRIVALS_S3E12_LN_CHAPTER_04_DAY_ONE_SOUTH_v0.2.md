@@ -4,51 +4,197 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 4  
-**Continuity state:** Day 7 — afternoon/night | Mau/Ori traveling | Mau functional but unreliable
+**Continuity state:** Day 7 | Mau/Ori traveling | Mau functional but memory reliability unstable
 
 The first day was almost ordinary.
 
-That made leaving feel defensible.
+That was dangerous because ordinary made leaving feel defensible.
 
 Mau walked.
 
 Ate.
 
-Checked the copied notes.
+Complained about the weight of the water.
 
-Ori complained about pace.
+Lost an argument about pace.
 
-They argued about whether a hill counted as a shortcut.
+Ori made him stop twice because he kept treating "not collapsing" as evidence that he was moving normally.
 
-Mau lost.
+"You walk faster when you're pretending you're fine."
 
-At midday they reached a river branch.
+"That's not measurable."
 
-The pressure in Mau's memory shifted west.
+"It is if I am measuring it."
 
-Ori noticed before he said anything.
+Mau looked at her.
+
+"You've been spending too much time around Maomao."
+
+"Correct."
+
+They followed the south path for the first several hours because it existed on the map and because neither of them wanted the investigation to become:
+
+Mau feels something -> Mau obeys it.
+
+That distinction mattered.
+
+At midday the road drifted east while the pressure in Mau's memory shifted west.
+
+He stopped.
+
+Ori noticed before he spoke.
 
 "Changed?"
 
 "Yes."
 
-"Why?"
+"Direction?"
 
-"I don't know."
+Mau pointed toward the river branch.
 
-"Good."
+Ori unfolded the copied map.
+
+"No road."
+
+"I know."
+
+"Do you remember one?"
+
+"No."
+
+"Then why west?"
+
+Mau closed his eyes.
+
+How did you describe a certainty without making it sound like a command?
+
+"It feels like when you know you've forgotten something in another room."
+
+Ori frowned.
+
+"But you don't know what the thing is."
+
+"No."
+
+"Or whether there is a room."
+
+"No."
+
+"Excellent."
+
+Mau laughed.
+
+That helped.
+
+They did not go west immediately.
+
+Instead they walked to the river where terrain could confirm something independent of memory.
+
+The branch existed.
+
+Water level normal.
+
+Fresh animal tracks.
+
+No people.
+
+The direction did not become less compelling.
+
+Mau hated that.
+
+Ori watched him stare upstream.
+
+"You can say you want to follow it."
+
+"I don't know if I want to."
+
+"Those aren't the same."
+
+Another Continuum sentence.
+
+Mau sighed.
+
+They followed the river because the river was real.
+
+That was the compromise.
+
+For several hours nothing happened.
+
+Mau started talking about the settlement.
+
+Not the memory crisis.
+
+Rooms.
+
+Water.
+
+How far to put storage from sleeping areas.
+
+Ori said her room did not need to be near his.
 
 Mau looked at her.
 
-Ori shrugged.
+"I didn't say it did."
 
-"I prefer when you say you don't know."
+"You were thinking it."
 
-They followed the river instead of the remembered road.
+"I was thinking courtyard."
 
-That decision was deliberately based on terrain, not memory.
+"Same thing."
 
-Progress.
+"No."
+
+Ori smiled.
+
+"You are very bad at making plans that don't quietly place everyone where you can reach them."
+
+Mau stopped walking.
+
+The accusation was too close to truth.
+
+Ori saw his expression.
+
+"I didn't mean—"
+
+"No. It's okay."
+
+Mau looked at the river.
+
+"I keep doing that."
+
+"Doing what?"
+
+"Making protection look like layout."
+
+Ori waited.
+
+Mau continued.
+
+"If everyone is nearby, I can help."
+
+"Yes."
+
+"If everyone is nearby, I can check."
+
+"Also yes."
+
+"If everyone is nearby, I can notice if they leave."
+
+Ori's face softened.
+
+Memory Arc had changed ordinary planning without anyone noticing.
+
+Mau shook his head.
+
+"Put your room wherever you want."
+
+"I was going to."
+
+"Rude."
+
+"Good."
+
+They kept walking.
 
 At camp, Mau built the fire.
 
@@ -58,62 +204,210 @@ Ori rebuilt it.
 
 "That was smoke with ambition."
 
-"Rude."
+"You're becoming meaner."
 
-They ate.
+"Travel improves me."
 
-For twenty minutes they were only two people on a road.
+They ate badly.
 
-Then Mau remembered Frieren sitting beside this same river.
+For twenty minutes the world became simple.
 
-Impossible.
+Two people.
 
-She had never been here.
+Wet boots near fire.
 
-He knew.
+Bread.
 
-The memory included her saying:
+A disagreement over whether the remaining fruit should be saved.
 
-You don't have to come back.
+Then Mau looked across the river.
 
-Mau stared at the water.
+Frieren sat there.
 
-Ori saw his face.
+Not actually.
+
+Memory.
+
+Same water.
+
+Different light.
+
+McLaren hoodie.
+
+Bare feet near the bank.
+
+She said:
+
+"You don't have to come back."
+
+Mau stopped chewing.
+
+Ori noticed immediately.
 
 "Wrong one?"
 
+He swallowed.
+
 "Yes."
 
-"Do you want to tell me?"
+"Want to tell me?"
 
 "No."
 
 "Okay."
 
-No interrogation.
+No demand.
 
-They slept in shifts.
+That helped more than questions would have.
 
-Mau woke once because he heard Frieren call his name from across the river.
+Mau stared at the place where remembered Frieren sat.
 
-Ori heard nothing.
+He knew she had never been here.
 
-He did not follow.
+He could see water darkening fabric at her ankle.
 
-That mattered.
+He could remember thinking she would complain about the cold.
 
-He woke Ori.
+He could remember not wanting to leave.
 
-"Can you stay awake for a minute?"
+None of it happened.
 
-She sat up.
+He said:
+
+"This one feels stupid."
+
+"Why?"
+
+"Because she wouldn't say it like that."
+
+Ori looked across the empty river.
+
+"That's useful."
+
+Mau frowned.
+
+"What?"
+
+"You're checking the memory against her, not only against the map."
+
+Danger.
+
+Also truth.
+
+Mau said:
+
+"I don't want you to become my Frieren detector."
+
+"I'm not."
+
+Ori poked the fire.
+
+"I can just tell you when something sounds stupid."
+
+"That is already your full-time job."
+
+Night came.
+
+They took turns sleeping.
+
+Mau's first watch passed without incident.
+
+Ori's watch lasted twenty minutes before Mau woke because someone called his name across the river.
+
+Frieren.
+
+Clear.
+
+Close.
+
+He sat up.
+
+Ori was immediately awake.
+
+"What?"
+
+Mau listened.
+
+Again.
+
+"Mau."
+
+He looked toward the water.
+
+Ori followed his eyes.
+
+"I don't hear anything."
+
+"I know."
+
+That word meant more now.
+
+Mau stayed sitting.
+
+The voice called again.
+
+He did not stand.
+
+Ori waited.
+
+The fourth time it sounded angry.
+
+The fifth frightened.
+
+The sixth exactly like Frieren after Sukuna.
+
+Mau closed his eyes.
+
+"Can you talk?"
+
+"About what?"
+
+"Anything."
+
+Ori looked offended by the responsibility.
+
+Then:
+
+"Coco thinks the first public garden should have magic-safe sections."
+
+Mau laughed despite himself.
+
+"That's terrible conversation."
+
+"You said anything."
+
+"Continue."
+
+Ori did.
+
+Garden.
+
+Agott hating decorative labels.
+
+Qifrey pretending not to encourage Coco.
+
+Momo trying to name paths before paths existed.
+
+The false voice faded beneath real nonsense.
+
+After several minutes Mau lay down again.
+
+"Can you stay awake until I sleep?"
+
+Ori stared.
+
+Mau heard how childish it sounded.
+
+Did not take it back.
 
 "Yes."
 
-Mau listened until the false voice stopped.
-
-Then slept again.
+He slept.
 
 Day one did not end in collapse.
 
-That mattered too.
+It ended with Mau choosing not to follow a voice he knew was false.
+
+That mattered.
+
+It also made the next morning easier to mistake for progress.

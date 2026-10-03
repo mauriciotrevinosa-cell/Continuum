@@ -176,6 +176,36 @@ Useful reason.
 
 Vamola chose first night because Momo and Okarun were already going to be there and she wanted to understand the new place with people she trusted.
 
+Kusuri chose first night for a less romantic reason.
+
+"The medicine cabinet moves tonight."
+
+Maomao looked at her.
+
+"Half of it."
+
+"The reviewed half."
+
+"Correct."
+
+Kusuri nodded.
+
+She was not following Senku.
+
+She was not being assigned to Maomao.
+
+She wanted the new site to have a safe place for compounds before people started treating random shelves like laboratories.
+
+Hakari asked whether she was sure.
+
+Kusuri answered:
+
+"Yep."
+
+Small word.
+
+Real choice.
+
 Nijika and Ryo stayed at the inn for the first night with Bocchi and Kita.
 
 No debate.

@@ -92,6 +92,40 @@ Not agreed.
 
 Understood.
 
+Mau rubbed his hands together.
+
+"If I stay, I keep asking people I love to tell me which version of me is real."
+
+Ori's expression changed.
+
+"That's not what we're doing."
+
+"I know."
+
+"Do you?"
+
+He looked at her.
+
+Memory Arc language arriving early.
+
+"I understand the sentence."
+
+Ori hated that answer because it was honest.
+
+She sat beside him.
+
+For a minute they listened to the inn.
+
+Ryo complaining downstairs.
+
+Kusuri and Maomao arguing about storage.
+
+A door.
+
+Someone laughing.
+
+The world continuing while Mau tried to turn identity into an investigation.
+
 "If I stay here, every answer comes from someone who loves me."
 
 Mau's voice tightened.
@@ -163,3 +197,55 @@ Ori closed her eyes.
 Answer.
 
 She did not go upstairs.
+
+That choice would hurt later.
+
+It was not romantic complicity.
+
+It was Ori realizing that if she forced the confrontation now, Mau might leave before she could follow.
+
+A bad set of options.
+
+Continuum had become good at those.
+
+Ori said:
+
+"If we go, we leave information."
+
+Mau frowned.
+
+"Enough to follow us?"
+
+"Enough not to make your disappearance a punishment."
+
+He looked toward Frieren's window.
+
+The phrase landed.
+
+First disappearance had already taught everyone what uncertainty cost.
+
+Mau nodded.
+
+"Direction. Supplies. No fake route."
+
+"And I write it."
+
+"Why?"
+
+"Because your version will become an apology."
+
+Mau looked offended.
+
+Then thought.
+
+"Fair."
+
+The decision shifted.
+
+Still wrong in important ways.
+
+Less cruel than vanishing blind.
+
+That was not absolution.
+
+Only harm reduction inside a bad choice.

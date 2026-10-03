@@ -48,7 +48,29 @@ Water.
 
 Basic medicine.
 
+A rope.
+
+A small repair kit.
+
 The evidence notebook.
+
+Mau removed the notebook.
+
+Ori put it back.
+
+Mau removed it again.
+
+Ori stared.
+
+"Do you want evidence or not?"
+
+"I want the evidence to survive."
+
+"Then copy the important parts."
+
+Right.
+
+No carrying the only record into another disappearance.
 
 Mau objected.
 
@@ -124,15 +146,34 @@ Hand raised.
 
 She almost knocked.
 
-If she knocked, Frieren would wake.
+Inside, a floorboard moved.
 
-Mau would run.
+Frieren turning in sleep.
 
-Maybe.
+Ori froze.
 
-Probably.
+One knock.
 
-Ori lowered her hand.
+That was all.
+
+Wake her.
+
+Let the argument happen.
+
+Maybe Mau stays.
+
+Maybe he leaves immediately and alone.
+
+Maybe Ori loses the only leverage she has:
+if you go, I'm coming.
+
+Ori hated every version.
+
+She lowered her hand.
+
+Not because Frieren mattered less.
+
+Because Ori had decided the least dangerous available choice was refusing to let Mau disappear alone.
 
 "I'm sorry," she whispered.
 
@@ -152,6 +193,40 @@ Ori looked at him.
 
 They left together.
 
+At the edge of the yard Mau stopped.
+
+Ori almost asked why.
+
+He looked back.
+
+Old inn.
+
+One upstairs window.
+
+He could still turn around.
+
+That mattered.
+
+He did not.
+
+Ori did not pretend his choice had become correct because she accompanied him.
+
+She adjusted the pack.
+
+"South."
+
+Mau nodded.
+
+"South."
+
 The old inn disappeared behind trees.
 
 Neither called the road freedom.
+
+Behind them, the letter waited to turn fear into a direction.
+
+Ahead, Mau still believed finding one thing without anyone else's testimony might return ownership of himself.
+
+Ori already suspected the opposite.
+
+She went anyway.

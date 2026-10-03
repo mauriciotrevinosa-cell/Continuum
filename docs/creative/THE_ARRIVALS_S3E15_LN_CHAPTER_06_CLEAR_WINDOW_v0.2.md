@@ -8,13 +8,43 @@
 
 Maomao noticed first.
 
-Mau's eyes tracked normally.
+Not because Mau suddenly looked healthy.
 
-His answers stopped changing halfway through the sentence.
+He didn't.
 
-She looked at Frieren.
+Because for forty-three minutes his answers remained attached to the same reality.
 
-Then Ori.
+His eyes tracked normally.
+
+No mid-sentence place shift.
+
+No false route inserted into the room.
+
+No body manifestation.
+
+He drank without forgetting the cup existed.
+
+When Frieren left his field of view and came back, he remembered that she had left.
+
+Small things.
+
+The only honest kind of evidence they had.
+
+Maomao looked at Yuta.
+
+Yuta repeated two questions from twenty minutes earlier in a different order.
+
+Same answers.
+
+Ori asked Mau to explain why everyone had been waiting for a "clear window."
+
+Mau said:
+
+"Because a yes that disappears five minutes later isn't enough."
+
+Ori's eyes filled.
+
+Maomao looked at Frieren.
 
 Then Rimuru.
 
@@ -67,6 +97,22 @@ Yuta asked the date.
 Mau missed by one day.
 
 Maomao accepted it.
+
+"Why is that okay?" Mau asked.
+
+"Because orientation is not trivia."
+
+He frowned.
+
+She continued.
+
+"You know sequence. You know people. You know what happened. You're wrong about a calendar day after fever, head injury and days of disrupted sleep."
+
+Mau looked relieved.
+
+Not because the test was easier.
+
+Because the test finally had a reason.
 
 Rimuru waited until the room was quiet again.
 
@@ -142,17 +188,41 @@ Then Yuta.
 
 Then Maomao.
 
-Not because they were voting.
+Not because they were voting on his body.
 
-Because he had asked them earlier to help judge whether he was actually clear.
+Because he had asked them earlier to help judge whether the version of him answering was persisting.
 
-Ori nodded.
+Ori said:
+
+"You've been you all morning."
+
+Then corrected herself.
+
+"You've been consistent all morning."
+
+Better.
+
+No metaphysical claim.
 
 Yuta nodded.
 
-Maomao said:
+"Your answers survive rephrasing."
 
-"Right now, yes."
+Maomao:
+
+"You understand risk and can tell me why you want it."
+
+Mau asked:
+
+"Is that enough?"
+
+Maomao answered:
+
+"For right now."
+
+Not forever.
+
+Right now.
 
 Rimuru turned back to Mau.
 
@@ -164,9 +234,35 @@ The word remained.
 
 Nobody spoke.
 
-Mau repeated it.
+Five minutes.
+
+Maomao asked a completely unrelated question.
+
+"What did you eat?"
+
+Mau answered.
+
+Yuta asked what containment was again.
+
+Mau answered.
+
+Ori asked whether he wanted to stop the conversation.
+
+"No."
+
+Rimuru asked one last time.
+
+"Do you still consent?"
+
+Mau looked annoyed.
+
+Good.
 
 "Yes."
+
+The answer remained across time, interruption and re-explanation.
+
+That was the point.
 
 Then he looked at Frieren.
 

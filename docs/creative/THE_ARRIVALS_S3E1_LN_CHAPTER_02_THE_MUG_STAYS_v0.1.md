@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 2 — The Mug Stays
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 2  
 **Source episode:** S3E1 — `Tomorrow Is Terrain`
@@ -120,6 +120,40 @@ Rimuru looked back down the road.
 No argument.
 
 "Yeah."
+
+Fern, from the wagon ahead, turned around.
+
+"Keeping it means maintaining it."
+
+Mau looked at her.
+
+"Roof. Road. Water. Somebody still checks the rooms even when nobody sleeps there for a week."
+
+Rimuru nodded.
+
+The promise became less sentimental and more real.
+
+Not:
+we will preserve a memory untouched.
+
+More:
+we will keep one place in the world available to return to.
+
+Ori seemed to understand the difference.
+
+"Then I want a key."
+
+Frieren:
+
+"There is no lock."
+
+Ori frowned.
+
+"Then we should add one."
+
+Mau smiled.
+
+"Reasonable."
 
 Not a civic decision.
 

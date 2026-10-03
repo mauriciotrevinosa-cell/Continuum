@@ -73,6 +73,12 @@ People being idiots around bottles.
 
 They disagreed on almost everything else.
 
+Acceptable taste.
+
+Whether curiosity justified touching an unknown compound.
+
+Whether Senku's optimism counted as a symptom.
+
 Kusuri believed a well-designed experiment could answer half their arguments.
 
 Maomao believed half of Kusuri's proposed experiments created new arguments.
@@ -384,6 +390,8 @@ Senku:
 "You couldn't let me have that?"
 
 "No."
+
+Respectfully antagonistic.
 
 Kusuri held up another.
 

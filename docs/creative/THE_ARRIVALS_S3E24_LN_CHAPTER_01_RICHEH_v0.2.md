@@ -3,8 +3,8 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 9
-**Continuity state:** Intentional/rumor-assisted arrival | Coco reunion belongs to Coco first
+**Reading order:** 9  
+**Continuity state:** Richeh sighting | Reunion belongs to Coco / Atelier group first
 
 The report reached Arrival House at noon.
 
@@ -12,80 +12,240 @@ Young girl.
 
 Witch hat.
 
-Asking for Qifrey.
+Asked for Qifrey.
 
 And Coco.
 
-Coco read the line.
+Coco read the line once.
 
-Stopped breathing.
+Then again.
+
+The paper shook.
+
+Agott noticed first.
+
+"Coco?"
+
+Coco did not answer.
 
 Richeh.
 
-Nobody told her to wait for Searchers.
+Name enough.
 
-Qifrey moved first.
+Qifrey stood.
+
+No announcement.
+
+No strategic meeting.
+
+He simply moved.
 
 Agott behind him.
 
-Coco passed both.
+Coco moved faster than both.
 
-Mau watched three people leave the common area.
+Mau looked up from the other side of the room.
 
-Did not follow.
+Saw Coco run.
+
+He could follow.
+
+He didn't.
 
 Good.
 
-The reunion belonged to someone else.
+Not every important reunion needed him as witness.
 
-Richeh was still on the road when Coco reached her.
+The Searcher who brought the report pointed them toward the east road.
+
+Richeh had refused to approach the settlement until someone she named came.
+
+Reasonable.
+
+Coco ran anyway.
+
+Halfway there she started crying.
+
+This annoyed her.
+
+She kept running.
+
+Richeh appeared near the bend.
+
+One bag.
+
+Hat.
+
+Tired.
+
+Real.
 
 Both stopped.
 
-Then Coco screamed her name and ran.
+For one second, neither moved.
 
-Richeh had time to brace.
+Coco needed visual proof to cross the last distance.
 
-Barely.
+Richeh did too.
 
-Coco hit her hard enough to move both backward.
+Then Coco screamed:
 
-Talked too fast.
+"RICHEH!"
 
-Questions over answers.
+Ran.
 
-Tears inside words.
+Richeh barely braced.
 
-Proof of life.
+Impact moved both backward.
 
-Richeh tried to respond.
+Coco grabbed her.
 
-Failed.
+Shoulders.
 
-Eventually stopped trying and held her.
+Sleeves.
 
-Qifrey arrived.
+Hat nearly fell.
 
-Agott.
+Questions came before breathing.
 
-Quieter reunions.
+"How long—where were you—are you hurt—did you see anyone—do you know where—"
 
-Different weight.
+Richeh:
 
-By the time they walked toward the settlement, Coco had a grip on Richeh's sleeve.
+"Coco."
 
-Not because Continuum literally stole people who let go.
+"Are you okay?"
 
-Because bodies remembered fear even after evidence changed.
+"Coco."
 
-Richeh looked ahead at the buildings.
+"I thought—"
+
+"Coco."
+
+"What?"
+
+Richeh hugged her properly.
+
+Coco stopped speaking.
+
+Then cried harder.
+
+Richeh's hand tightened at her back.
+
+"I'm here."
+
+Simple.
+
+No explanation of Continuum.
+
+No reunion speech.
+
+Body.
+
+Voice.
+
+Here.
+
+Qifrey arrived minutes later.
+
+Stopped before approaching.
+
+Richeh saw him.
+
+Her face changed differently.
+
+Coco's reunion had been collision.
+
+Qifrey's became stillness.
+
+He walked closer.
+
+"Richeh."
+
+She looked like she might make a joke.
+
+Didn't.
+
+Qifrey put one hand on her head.
+
+Then pulled her into him.
+
+Quiet.
+
+Agott stood several steps away.
+
+Richeh saw her over Qifrey's shoulder.
+
+"Agott."
+
+Agott's face did something she would deny later.
+
+Richeh opened one arm.
+
+Agott:
+
+"No."
+
+Richeh waited.
+
+Agott moved in anyway.
+
+Four people in the road.
+
+No audience required.
+
+Eventually practical questions arrived.
+
+Injury?
+
+No major.
+
+Food?
+
+Some.
+
+Anyone following?
+
+Maybe.
+
+Route?
+
+Complicated.
+
+Settlement?
+
+Richeh looked past them.
 
 "You live there?"
 
-Coco laughed.
+Coco laughed through tears.
 
 "Now we do."
 
-Correct.
+The sentence held months of life Richeh had not seen.
 
-The Move made the answer possible.
+That realization reached both.
+
+Reunion did not restore a paused world.
+
+Coco had changed.
+
+Richeh had changed.
+
+They walked toward a place neither had imagined together.
+
+Coco kept hold of Richeh's sleeve.
+
+Not because Continuum literally stole people who let go.
+
+Because bodies remembered fear after evidence changed.
+
+At the settlement edge, Mau saw them from a distance.
+
+He waved.
+
+Coco did not notice.
+
+Good.
+
+The scene belonged to her.

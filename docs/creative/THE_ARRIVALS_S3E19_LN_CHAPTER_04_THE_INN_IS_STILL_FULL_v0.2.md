@@ -20,7 +20,17 @@ Rem.
 
 Kaneki.
 
-Several G5 guests.
+Mai.
+
+Nijika and Ryo.
+
+Richeh.
+
+Nazuna, technically, although she had not used the bed Fern assigned her.
+
+Seiko and Turbo Granny.
+
+Jinshi.
 
 One traveler waiting on a meeting.
 
@@ -113,12 +123,26 @@ Fern nodded.
 
 No disappointment.
 
-A G5 guest announced they were leaving for a native town that afternoon.
+Seiko announced she would leave for a nearby route check that afternoon and return by the following day.
 
-Another asked whether the settlement had room "when I come back."
+Not departure from the group.
+
+Work.
+
+Nazuna asked whether the settlement had somewhere she could sleep "when I feel like being indoors."
+
+Fern answered:
+
+"Guest room."
+
+Nazuna:
+
+"Good."
 
 Not:
-if.
+if I come back.
+
+When.
 
 Interesting.
 

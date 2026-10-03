@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 18 — Return
+## Chapter 21 — Return
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 18
+**Reading order:** 21
 
 One word above plaza.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 20 — No Answer Tonight
+## Chapter 23 — No Answer Tonight
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 20
+**Reading order:** 23
 
 Mau returned to plaza.
 

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 11  
-**Continuity state:** Day 10 — morning | Mau: concussed / febrile | Ori: sole companion | Search behind them
+**Continuity state:** Day 10 — morning | Mau concussed / feverish | Ori sole companion | Search behind them
 
 Mau should not have been walking.
 
@@ -12,17 +12,21 @@ Ori knew.
 
 Mau knew.
 
-The problem was the river.
+The problem was that knowing had stopped being sufficient.
 
-The camp sat too close to a route used by larger creatures.
+The previous shelter sat too close to the dead monster's territory.
 
-The dead monster had proved that.
+That was real.
 
-They needed shelter.
+The river corridor was used by larger animals.
 
-Not distance.
+Also real.
 
-Mau kept turning shelter into distance.
+The danger of staying had evidence.
+
+The danger of moving did too.
+
+Mau kept turning that ambiguity into one sentence:
 
 "One more bend."
 
@@ -34,49 +38,101 @@ Mau took two more steps before realizing she was not beside him.
 
 He turned.
 
-The world kept turning after he stopped.
+The world continued turning after he stopped.
 
-Bad.
+He grabbed a tree.
 
-Ori pointed at a stone overhang visible through trees.
+Ori crossed the distance.
 
-"There."
+"Sit."
 
-"That's not the direction."
+"I can walk."
 
-"Of what?"
+"That wasn't the question."
 
-Mau opened his mouth.
+Mau looked south.
+
+The pressure still existed.
+
+Not strong.
+
+Present.
+
+"We're close."
+
+"To what?"
+
+He opened his mouth.
 
 Nothing.
 
-He had forgotten what direction meant in the sentence.
+The word close had arrived before the object.
 
-Ori walked to him.
+Ori watched him realize it.
 
-"Sit."
+Her face changed.
 
-"I can—"
+Mau sat.
 
-"Sit."
+That scared her more than another argument would have.
 
-He did.
+He put both hands over his eyes.
 
-That scared her more than argument would have.
+"Fuck."
 
-His fever had climbed.
+"Good diagnosis."
 
-Head wound no longer actively bleeding.
+Mau laughed once.
 
-Swelling worse.
+Then winced.
 
-He knew her name.
+Ori crouched.
 
-Knew Frieren.
+"Head?"
 
-Knew old inn.
+"Yes."
 
-Then said:
+"Back?"
+
+"No."
+
+"Memory?"
+
+Mau looked at her.
+
+"What category is forgetting what you just asked?"
+
+Ori closed her eyes.
+
+"Mau."
+
+"Joke."
+
+"Bad."
+
+"Yes."
+
+He remembered the question.
+
+Eventually.
+
+"Memory. Maybe."
+
+They waited.
+
+Mau drank.
+
+Kept it down.
+
+That mattered.
+
+He knew Ori's name.
+
+Frieren's.
+
+Rimuru's.
+
+Then asked:
 
 "We need to get back before breakfast."
 
@@ -84,55 +140,229 @@ Ori stared.
 
 "What breakfast?"
 
-Mau blinked.
+Mau frowned.
 
-The answer did not come.
+He looked at the sun.
 
-He pressed both hands to his face.
+Morning.
 
-"I hate this."
+Road.
 
-Ori crouched.
+Camp.
+
+An image of the old inn table with everyone waiting.
+
+Real table.
+
+Impossible time.
+
+His face collapsed.
+
+"I don't know."
+
+Ori sat beside him.
+
+No correction beyond what was needed.
+
+"We aren't going back before breakfast."
+
+"Right."
+
+"We left days ago."
 
 "I know."
 
-"No. You don't."
+Mau looked at her.
 
-Fair.
+"Do I?"
 
-She did not pretend.
+Ori did not answer for him.
 
-They reached the overhang.
+Good.
 
-Mau lay down.
+They resumed only after Mau could stand without the horizon moving.
 
-The dark line under his back returned.
+Not south.
 
-This time it pushed through.
+Toward a visible stone overhang west of the river.
 
-A partial kagune-like structure unfolded without permission.
+Shelter.
 
-Ori moved backward.
+Specific.
 
-One step.
+Mau hated how far it was from the pressure he had been following.
 
-Mau saw.
+That was exactly why Ori trusted the choice.
 
-His face broke.
+Halfway there, Mau stumbled.
 
-Ori moved forward immediately.
+Ori caught him.
 
-"Surprise. Not fear of you."
+He pulled away immediately.
 
-"Sure."
+Then stopped.
 
-"I'm serious."
+"Sorry."
 
-The structure twitched toward the river.
+"For what?"
+
+"I keep making you prove I can stand."
+
+Ori adjusted the pack.
+
+"Then stop proving."
+
+Mau looked at her.
+
+"I don't know how."
+
+That sentence belonged to more than walking.
+
+They continued.
+
+At the overhang, the ground stayed dry.
+
+Good.
+
+Wind limited.
+
+Good.
+
+No signs of recent large animals.
+
+Good.
+
+Ori put the pack down.
+
+Mau tried to help.
+
+She slapped his hand away.
+
+"Sit."
+
+"I can unpack."
+
+"Sit."
+
+He sat.
+
+Again.
+
+Too easily.
+
+His fever had climbed.
+
+Ori touched his forehead and swore.
+
+Mau smiled faintly.
+
+"Language."
+
+"Die quieter."
+
+"Very nurturing."
+
+Then something moved under the skin of his back.
+
+Mau stopped smiling.
+
+Pressure.
+
+Slow.
+
+Wrong.
+
+He leaned forward.
+
+Ori moved behind him automatically.
+
+The shape shifted toward her.
+
+Mau felt it.
+
+"Front."
+
+Ori circled.
+
+The structure pushed outward.
+
+Dark.
+
+Organic.
+
+Not fully formed.
+
+More than before.
+
+Mau breathed through his teeth.
+
+"Do you see it?"
+
+"Yes."
+
+"Where?"
+
+"Right side. Upper back."
+
+"Moving?"
+
+"Yes."
+
+"Toward me?"
+
+Ori hesitated.
+
+"Toward where I was."
+
+Mau's eyes closed.
+
+"Don't stand behind me."
+
+"Okay."
+
+The structure unfolded another few inches.
+
+Ori forced herself not to move backward.
+
+Not because moving would mean fear.
+
+Because Mau was watching her face and would turn her reaction into identity.
+
+She said:
+
+"Surprise."
+
+Mau opened his eyes.
+
+"What?"
+
+"I'm surprised."
+
+"Not scared?"
+
+"I didn't say that."
+
+Honest.
+
+Mau's mouth tightened.
+
+Ori moved closer from the front.
+
+"I'm scared of something your body is doing."
+
+Mau stared at her.
+
+"Not the same as scared of you."
+
+Kaneki had not arrived yet to give them better language.
+
+Ori found it anyway.
+
+The structure trembled.
+
+Then collapsed inward.
 
 Mau gasped.
-
-Then it collapsed back against him.
 
 No control.
 
@@ -142,22 +372,44 @@ He whispered:
 
 "Don't let me hurt you."
 
-Ori sat close enough that he could see her clearly.
+Ori sat where he could see her.
 
 "Don't make me promise something you don't control."
 
 Mau looked at her.
 
-"Promise you'll move if you need to."
+Correct.
 
-That she could promise.
+"Promise you'll move if you need to."
 
 "Yes."
 
-Mau slept.
+That she could promise.
 
-This time Ori could not wake him after twenty minutes.
+Mau lay down.
 
-Or forty.
+Ori thought he was resting.
 
-At one hour she stopped counting attempts and started counting breaths.
+Twenty minutes later she tried to wake him.
+
+No answer.
+
+Forty minutes.
+
+His breathing remained steady.
+
+She tried again.
+
+Nothing.
+
+One hour.
+
+Ori stopped counting attempts.
+
+Started counting breaths.
+
+The road south ended there.
+
+The investigation ended there too, whether Mau would have agreed or not.
+
+His body had taken the decision away.

@@ -4,104 +4,230 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 21  
-**Continuity state:** Day 20–21 | Mau recovering at old inn | Reconstruction ongoing
+**Continuity state:** Day 20–21 | Reconstruction ongoing | Classification does not erase felt experience
 
 The easiest pile hurt the most.
 
-Provably false.
+PROVABLY FALSE.
 
-Mau remembered Bocchi leaving the inn one morning.
+Mau expected relief from that category.
 
-Not going outside.
+Instead it became the place where memories went to remain vivid after everyone proved they had never happened.
 
-Leaving.
+Bocchi's card was the worst one that morning.
 
-Standing near the door and saying:
+Mau remembered her leaving.
+
+Not stepping outside.
+
+Leaving the household.
+
+Bag over shoulder.
+
+Door open.
+
+Morning light.
+
+Bocchi saying:
 
 "You don't need me anymore."
 
-Then disappearing down the road.
+Then walking down the road.
 
-Bocchi stared at him when he described it.
+The memory included Mau not following.
+
+That was the knife.
+
+Bocchi sat across from him when he described it.
+
+Her face changed before he finished.
 
 "No."
 
-Kita had been there that morning.
+Mau nodded.
+
+"I know."
+
+"No, I mean I remember that morning."
+
+Kita had been there.
 
 Momo too.
 
-A dated supply sheet carried Bocchi's handwriting from an hour later.
+Fern found the supply ledger.
+
+Bocchi's handwriting appeared an hour after the remembered departure.
+
+A list of missing flour.
+
+A badly drawn arrow.
+
+Momo had written something rude in the margin.
+
+Kita remembered Bocchi complaining about it.
+
+No gap.
+
+No plausible hidden departure and return.
 
 Physical evidence.
 
 Multiple witnesses.
 
-No missing day.
-
-False.
-
-Mau knew.
-
-The memory remained.
-
-That was the cruelty.
-
-Classification did not erase experience.
-
-Bocchi looked at the card.
-
-"Can Raphael delete it?"
-
-Rimuru shook his head.
-
-"We don't even know what deleting it would take with the memory structure this mixed."
-
-Mau answered more simply.
-
-"I don't want that."
-
-Everyone looked at him.
-
-He continued.
-
-"If someone starts cutting memories because they're wrong, what happens when we're wrong about the category?"
-
-Good.
-
-No one argued.
-
-The card went under:
-
 PROVABLY FALSE.
 
-Mau could still hear Bocchi saying the sentence.
+Mau moved the card.
 
-Bocchi could see that.
+His hand shook anyway.
 
-She sat beside him.
+Bocchi stared at him.
 
-"I hate that your head has a version of me that did that."
+"You still remember it."
 
-"Me too."
+"Yes."
 
-"Do I need to tell you I wouldn't?"
+"Even now?"
 
-Mau thought.
+"Yes."
+
+Her face folded.
+
+That reaction made Mau want to comfort her.
+
+The memory made another part of him think:
+
+she left.
+
+Both happened at once.
+
+Mau hated it.
+
+Bocchi looked at Rimuru.
+
+"Can Raphael remove it?"
+
+Rimuru answered carefully.
+
+"We don't know how to remove only that memory safely."
+
+Mau spoke before the question became solution.
+
+"I don't want her to."
+
+Everyone looked.
+
+Mau rubbed his thumb over the edge of the card.
+
+"If we start cutting memories because we think they're wrong, what happens when we're wrong about the category?"
+
+Bocchi looked sick.
+
+Mau continued.
+
+"And even if we know this one is false, I experienced it."
+
+He looked at her.
+
+"I don't want to pretend that didn't happen to me just because it didn't happen outside me."
+
+That distinction landed.
+
+False event.
+
+Real injury.
+
+Bocchi stood.
+
+Mau's body reacted before thought.
+
+The false memory showed her standing to leave.
+
+Door.
+
+Bag.
+
+Road.
+
+Mau's breathing changed.
+
+Bocchi saw.
+
+Stopped.
+
+"I'm getting tea."
+
+Mau closed his eyes.
+
+"Okay."
+
+"Do you need me to stay?"
+
+He almost said yes.
+
+Then asked himself why.
+
+Need?
+
+Fear?
+
+Love?
+
+All.
+
+He opened his eyes.
 
 "No."
 
-Bocchi looked unsure.
+Bocchi looked uncertain.
 
 Mau added:
 
-"But you can stay."
+"But you can."
 
-She stared.
+Bocchi froze.
 
-The phrase had returned from the worksite without anyone planning it.
+The phrase from the worksite.
 
-Bocchi stayed.
+Wakana's accidental lesson.
 
-Nothing was fixed.
+Presence without necessity.
 
-Something was held.
+Bocchi sat back down.
+
+"I'll stay."
+
+No proof.
+
+Choice.
+
+Mau's breathing eased.
+
+Later, they added another note beneath PROVABLY FALSE:
+
+CLASSIFICATION DOES NOT REMOVE FELT EFFECT.
+
+Frieren wrote it.
+
+Mau approved.
+
+By afternoon, there were six cards in the pile.
+
+One false argument with Yuta.
+
+One invented night where Rimuru had told Mau to leave.
+
+One memory of Ori calling him dangerous.
+
+Each disproven differently.
+
+Each still emotionally available.
+
+The table did not become a machine for making Mau stop feeling.
+
+It became a place where he could feel something and still say:
+
+This happened in me.
+
+Not between us.
+
+That was enough separation to begin healing.

@@ -3,70 +3,206 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 7
-**Continuity state:** Searchers first formal detention mission
+**Reading order:** 7  
+**Continuity state:** Searchers' first formal detention mission
+
+The rumor sounded simple.
 
 Three Otherworlders.
 
 Converted toll station.
 
-Possible detention.
+Held against their will.
 
-The rumor sounded simple.
+Simple rumors were usually wrong.
 
-Reality:
-- one person had agreed to wait during identity checks;
-- one wanted to leave and had been stopped;
-- one did not understand enough local language to know which situation they were in.
+The first planning meeting lasted longer than Mau expected because everyone kept asking what held meant.
 
-Different.
+Locked?
 
-Mikasa could solve six guards physically.
+Guarded?
 
-Therefore she did not speak first.
+Unable to leave because nobody had translated the process?
 
-Anko did.
+Waiting voluntarily?
 
-Himmel went because local people trusted his manner.
+Arrested?
 
-Okarun went because he knew the route.
+Those were different problems.
 
-A native guide went because everyone else's language confidence was inflated.
+Anko wrote them all.
+
+Mikasa looked at the route.
+
+"Six guards."
+
+Aira:
+
+"Easy."
+
+Himmel:
+
+"Then you aren't speaking first."
+
+Aira stared.
+
+"Rude."
+
+"Correct."
+
+The team became:
+Anko.
+Himmel.
+Okarun.
+Mikasa.
+A native guide.
 
 No Diablo.
 
 No Milim.
 
-Not because they could not help.
+No Mau.
 
-Because maximum force was not maximum success.
+Maximum force was not maximum success.
 
-At the station, Anko asked what law authorized holding.
+At the toll station, the first surprise was that one of the three detainees was outside.
 
-The captain said registration.
+Eating.
 
-Anko pointed at the locked door.
+Unrestrained.
 
-Words mattered.
+He had agreed to wait while local officials checked identity after a fight on the road.
 
-Negotiation lasted hours.
+He was annoyed.
 
-No battle.
+Not imprisoned.
 
-One person stayed voluntarily to finish the process.
+Second person sat behind a locked door.
 
-One left with Searchers.
+Wanted to leave.
 
-One understood enough after translation to choose the nearby native town instead of the main settlement.
+Had been told registration was mandatory.
+
+Third person spoke so little local language that nobody in the room could establish whether he had agreed to anything.
+
+The Searchers did not get one rescue.
+
+They got three legal situations.
+
+Anko spoke to the captain.
+
+"What law lets you lock the second door?"
+
+"Registration order."
+
+"Show me."
+
+He did.
+
+Real document.
+
+Poorly written.
+
+Broad.
+
+New.
+
+Not invented by one cartoon villain.
+
+Himmel spoke to the captain separately.
+
+Why the policy?
+
+Two months earlier an unknown Arrival had injured people after refusing identification.
+
+The captain had been there.
+
+Fear became policy.
+
+Bad policy could still come from real fear.
+
+Mikasa stayed visible and quiet.
+
+Everyone in the station understood she could end the physical problem.
+
+That made not doing so part of the negotiation.
+
+The translator worked with the third person.
+
+Slowly.
+
+He had thought he was being offered a bed for the night.
+
+Officials thought he had consented to registration and waiting.
+
+Both versions plausible.
+
+Nobody had checked.
+
+Hours.
+
+Paper.
+
+Water.
+
+Arguments.
+
+The first person decided to finish registration.
+
+His choice.
+
+Searchers did not pressure him to leave merely to make the mission look successful.
+
+The second person insisted on leaving.
+
+Anko challenged the legal basis.
+
+The captain eventually unlocked the door after agreeing the order did not authorize indefinite detention absent charge.
+
+Not revolution.
+
+Interpretation.
+
+The third person, once he understood options, did not want the main settlement.
+
+He wanted the nearby native town.
+
+The native guide knew someone there.
+
+Arrangement made.
 
 Three people.
 
 Three outcomes.
 
-The Searchers returned with one.
+On the road home, Aira complained.
 
-Arrival House gave one bed.
+"We traveled all day and brought one person back."
 
-No victory speech.
+Anko looked at her.
 
-The institution worked.
+"Was the goal to collect people?"
+
+Aira stopped.
+
+"No."
+
+"Then?"
+
+Aira thought.
+
+"Make sure they had choices."
+
+Himmel smiled.
+
+"Better."
+
+Arrival House gave one bed that night.
+
+One detainee stayed where he had chosen.
+
+One slept in a native town.
+
+The Searchers returned without a victory speech.
+
+The institution worked because it did not require every person to end up inside their settlement.

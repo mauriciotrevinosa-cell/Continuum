@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 26 — Mau Hears Everyone
+## Chapter 31 — Mau Hears Everyone
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 26
+**Reading order:** 31
 
 Mau heard the dangerous sentences over a week.
 

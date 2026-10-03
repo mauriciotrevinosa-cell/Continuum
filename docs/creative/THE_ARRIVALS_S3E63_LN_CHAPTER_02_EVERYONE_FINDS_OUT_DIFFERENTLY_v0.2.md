@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 30 — Everyone Finds Out Differently
+## Chapter 35 — Everyone Finds Out Differently
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 30
+**Reading order:** 35
 
 Frieren found the note.
 

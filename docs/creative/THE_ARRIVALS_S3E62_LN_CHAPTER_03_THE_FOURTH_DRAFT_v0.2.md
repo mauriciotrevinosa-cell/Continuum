@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 28 — The Fourth Draft
+## Chapter 33 — The Fourth Draft
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 28
+**Reading order:** 33
 
 Mau wrote a note.
 

@@ -6,71 +6,91 @@
 **Reading order:** 27  
 **Continuity state:** Day 4 — evening | Mau: first communal meal after return | Named G5 cohort: still guests / temporary / undecided
 
-Dinner required two tables.
+Dinner required three tables.
 
-That was new.
+Mau stopped on the stairs.
 
-Not because the household had suddenly moved.
+He had been told there were new people.
 
-Because Diablo's haul was still here.
+That sentence had not prepared him for this.
 
-Temporary bedrolls filled one overflow room and part of a second.
+Senku and Suika.
 
-A provisional shelter outside held those who preferred space.
+Mai.
 
-Nobody had silently disappeared.
+Nijika and Ryo.
 
-Nano's page listed the entire cohort under:
+Richeh and Tetia.
 
-TEMPORARY GUEST — STATUS NOT YET DECIDED.
+Nazuna.
 
-Milim ignored the concept of assigned seating.
+Vamola.
 
-Diablo sat near Rimuru because of course he did.
+Turbo Granny.
 
-Mau came downstairs slowly.
+Seiko.
 
-Conversation changed.
+Jinshi.
 
-Not stopped.
+Milim.
 
-Changed.
+Plus everybody who had already lived here before Mau disappeared.
 
-G5 looked.
+Too many voices.
 
-Mau noticed.
+Too many chairs.
+
+Too many faces his memory tried to classify before he had actually met them.
+
+Frieren felt him stop.
+
+She was one step below him.
+
+"Too much?"
+
+Mau considered lying.
+
+Did not.
+
+"A little."
+
+Good.
+
+No one dragged him down to prove recovery.
+
+They waited.
+
+The room noticed.
+
+Conversation softened without dying.
+
+Mau took another step.
+
+Then another.
+
+At the bottom, Milim looked directly at him.
+
+"That's Mau?"
+
+Rimuru:
+
+"Yes."
+
+Milim stared.
+
+Mau stared back.
 
 "Hi."
 
 Awful opening.
 
-One person nodded.
+Milim leaned toward Rimuru.
 
-Another said:
-
-"You're the missing guy."
-
-Mau sat.
-
-"Apparently."
-
-Milim leaned across half the table.
-
-"You're Mau?"
-
-"Yes."
-
-She looked at Rimuru.
-
-Then Frieren.
-
-Then Mau.
-
-"You're not very strong."
+"He's not very strong."
 
 The room died.
 
-Momo made a sound into her cup.
+Momo made a choking sound.
 
 Mau considered.
 
@@ -80,79 +100,371 @@ Milim smiled.
 
 Good answer.
 
-Frieren looked almost amused.
+Frieren's mouth moved.
 
-Almost.
+Almost a smile.
 
-The newcomers began asking normal questions.
+Senku looked up from a scrap of paper.
+
+"So you're the statistical nightmare."
+
+Mau sat.
+
+"That sounds rude."
+
+"It is."
+
+Suika kicked Senku lightly under the table.
+
+He ignored it.
+
+Nijika introduced herself normally.
+
+That helped.
+
+Ryo introduced herself by saying:
+
+"I was told you sometimes fix things."
+
+"Sometimes."
+
+"My bass is fine."
+
+"Great."
+
+"Just establishing boundaries."
+
+"Also great."
+
+Bocchi hid behind her cup.
+
+Kita looked delighted.
+
+Mai did not introduce herself at all.
+
+Maki did it for her.
+
+"Mai."
+
+Mai looked at Mau.
+
+"So you're the reason my sister ran through half the region."
+
+Mau's face changed.
+
+Maki saw the guilt arrive.
+
+"No."
+
+Too late.
+
+Mai saw too.
+
+She corrected before the guilt could settle.
+
+"You're the reason she chose to."
+
+Different.
+
+Mau looked at Maki.
+
+Maki shrugged.
+
+"She's annoying but right."
+
+Mai looked offended.
+
+Good.
+
+Richeh and Tetia came with Coco and Agott already arguing about whether Mau needed to know every technical problem in the worksite.
+
+Agott:
+
+"He does not."
+
+Coco:
+
+"I didn't say every—"
+
+Richeh:
+
+"You said three in one breath."
+
+Tetia waved at Mau.
+
+"Hello!"
+
+Mau waved back.
+
+"Hi."
+
+No ceremonial protagonist meeting.
+
+Good.
+
+Nazuna introduced herself from beside Anko.
+
+Mau looked at her.
+
+Then at Anko.
+
+Then back.
+
+Something about their tension was obvious even to damaged memory.
+
+He chose survival.
+
+"Nice to meet you."
+
+Anko:
+
+"Excellent choice."
+
+Nazuna laughed.
+
+Maomao put a note on the table.
+
+Mau read the heading.
+
+BLOOD SUPPLY.
+
+Looked up.
+
+"No."
+
+Maomao:
+
+"Yes."
+
+"Can I recover first?"
+
+"No."
+
+Fair.
+
+At the other end, Seiko studied Mau longer than he liked.
+
+Not magical scan.
+
+Person.
+
+"You look worse than the stories."
+
+Aira:
+
+"He always does."
+
+Mau:
+
+"Thank you."
+
+Vamola said his name carefully.
+
+"Mau."
+
+"Yes."
+
+Turbo Granny:
+
+"Underwhelming."
+
+Momo:
+
+"Can everyone stop reviewing him?"
+
+"No," Senku said.
+
+Rimuru laughed.
+
+Jinshi watched the interactions.
+
+Mau noticed.
+
+"You look like you're taking notes without paper."
+
+Jinshi smiled.
+
+"Occupational problem."
+
+"Don't organize us."
+
+Maomao:
+
+"Please organize them a little."
+
+Mau looked betrayed.
+
+Dinner finally moved.
+
+Questions came.
+
+Not all at Mau.
+
+Important.
+
+Nijika asked Bocchi where music happened here.
+
+Richeh asked Coco which rooms were hers.
+
+Mai asked Maki why Yuta still looked exactly like Yuta.
+
+Seiko asked Okarun about the strange northern reports.
+
+Suika asked Fern whether children here had chores.
+
+Milim asked Rimuru how long he planned to stay.
+
+Jinshi asked Maomao why she had three different medicine boxes with the same label.
+
+Nazuna asked Anko whether the roof was actually forbidden or Fern had only been angry.
+
+The relationship web did not queue for Mau.
+
+Good.
+
+When questions did reach him, he answered what he knew.
 
 How long had he been here?
 
-Did he know why Arrivals happened?
+Long enough that the inn felt like home.
 
-No.
+Why did Arrivals happen?
 
-Was this inn theirs?
-
-Sort of.
+No idea.
 
 Was the new settlement ready?
 
 Absolutely not.
 
-Did they have to move there?
+Did people have to move there?
 
 No.
 
-Could they leave tomorrow?
+Could G5 leave tomorrow?
 
-Yes.
+"Yes."
 
 That answer mattered.
 
-One member of the haul visibly relaxed.
+Several faces changed.
 
 Mau noticed.
 
-Did not ask why.
+Did not demand explanations.
 
-Dinner moved.
+Senku asked:
 
-Umaru complained about portions.
+"What do you do here?"
 
-Stark complained about Umaru.
+Mau opened his mouth.
 
-Coco argued with Agott about a worksite symbol.
+Stopped.
 
-Bocchi sat close enough to Mau that their shoulders touched once.
+That question was harder than who are you.
 
-No dramatic reunion speech.
+"I help."
 
-G5 learned Mau through texture.
+Agott, from another table:
 
-He passed bread.
+"Annoyingly accurate."
 
-Forgot which newcomer had already been asked a question.
+"What kind?"
 
-Apologized.
+Mau looked around.
 
-Listened.
+"Whatever needs doing."
 
-Milim watched him.
+Senku's expression sharpened.
 
-Still confused.
+"That's a terrible system."
 
-This was the person half the community had emptied itself to find?
+Mau laughed.
 
-Then Frieren reached for Mau's water before he did because his hand shook.
+"Yeah."
+
+Absence had revealed that.
+
+People had kept reaching for tasks Mau normally absorbed and discovered there should have been systems instead of one available person.
+
+Jinshi heard the same weakness from another angle.
+
+Rimuru did too.
+
+No one solved it at dinner.
+
+Good.
+
+Halfway through the meal Mau forgot Ryo's name.
+
+He knew he had been told.
+
+The certainty vanished.
+
+His face changed.
+
+Ryo noticed.
+
+"You forgot."
+
+Mau went still.
+
+Frieren moved one hand closer on the table.
+
+Did not touch until asked.
+
+Mau nodded.
+
+"Sorry."
+
+Ryo shrugged.
+
+"Ryo."
+
+No pity.
+
+No test.
+
+"Ryo."
+
+"Correct."
+
+Mau breathed again.
+
+The room learned something about the crisis without a speech.
+
+Later, Vamola told a story too quickly for Mau to track.
+
+Aira translated the important part.
+
+Mau thanked her.
+
+He did not pretend.
+
+Progress.
+
+Milim watched all of it.
+
+This was the person everyone had torn the region apart for?
+
+Not strongest.
+
+Not king.
+
+Not center of every conversation.
+
+A person.
+
+Then Frieren reached for Mau's water because his hand had started shaking.
 
 Mau let her.
 
-Rimuru checked on him without making it obvious.
-
 Bocchi noticed when he stopped eating.
 
-Ori watched his eyes whenever a story from the search was told.
+Ori watched his eyes when anyone mentioned the search.
+
+Maki changed the subject before guilt could swallow the room.
+
+Senku wrote down one question about Mau's memory and did not ask it.
 
 Milim's expression changed.
 
@@ -160,44 +472,40 @@ Not understanding.
 
 Beginning to.
 
-Diablo watched too.
+Diablo had been quiet.
 
-Different reason.
+Too quiet.
 
-When Mau laughed at something Okarun said, the impression around him shifted.
+When Mau laughed at something Turbo Granny said, the trace around him shifted.
+
+Subtle.
 
 Diablo felt it.
 
-Not the memory itself.
+The person at the table was coherent.
 
-Not an entity.
+The trail he had followed had not been.
 
-A mismatch.
-
-The person sitting at the table was coherent.
-
-The traces Diablo had followed through the forest had not been.
-
-He waited until the laughter ended.
-
-Then said:
+He waited until Mau finished laughing.
 
 "Rimuru-sama."
 
 Rimuru looked over.
 
-Diablo's tone changed the table.
+Diablo's tone changed the room.
 
-"I believe there is something we should compare after dinner."
+"I believe there is something we should compare."
 
 Mau looked at him.
 
 "What?"
 
-Diablo chose the least alarming honest version.
-
 "While searching for you, parts of your trail did not match themselves."
 
 Silence returned.
 
-The false calm had lasted one meal.
+Not because dinner had failed.
+
+Because ordinary life had lasted long enough for the next problem to arrive.
+
+That mattered too.

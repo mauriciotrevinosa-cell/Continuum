@@ -3,62 +3,196 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 2
+**Reading order:** 2  
 **Continuity state:** First external partnership becomes material infrastructure problem
 
-The east corridor had one problem.
+The east corridor's political problem became wood.
 
-Bridge.
+Specifically:
 
-Old.
+the bridge was failing.
 
-Narrow.
+Not dramatically.
 
-Monster damage underneath.
+No collapse.
 
-The village headwoman said:
+One support had shifted after repeated monster impact below bank.
 
-"If we're going to keep this route open, it needs repair."
+Rain had opened gap.
 
-There.
+Cart wheels avoided same board.
 
-Partnership became construction.
+Everyone who used route had started compensating differently.
 
-The settlement could provide labor.
+That meant accident waiting for timing.
 
-Searchers could provide route security.
+The east headwoman sent message:
 
-The village had local builders.
+> If we are keeping this route open, repair cannot remain "later."
 
-Neither side wanted the other controlling the road.
+Rimuru read.
 
-So they wrote:
-- shared maintenance;
-- no exclusive checkpoint;
-- emergency closure only for specific danger;
-- both communities notified;
-- closure reviewed after danger passed.
+"Fair."
 
-Governance through a bridge.
+Searchers surveyed.
 
-Mau wanted to go help.
+Village builders surveyed separately.
+
+They disagreed on what needed replacing.
+
+Good.
+
+Independent assessment.
+
+The main settlement offered labor and material.
+
+The village offered local builders and knowledge of river.
+
+Neither wanted other controlling road.
+
+Anko turned that anxiety into maintenance agreement.
+
+Shared repair.
+
+No exclusive checkpoint.
+
+Emergency closure only for specific danger.
+
+Both communities notified.
+
+Closure reviewed after danger passes.
+
+Repair logs accessible.
+
+Momo read.
+
+"We invented government because a board is rotten."
+
+Fern:
+
+"Most government probably started worse."
+
+Mau wanted to go.
+
+Tools already packed.
 
 Fern asked:
 
 "Do they need you?"
 
-He stopped.
+Mau stopped.
 
-Searchers already had enough people.
+Search team:
+native builders.
+Wakana for material.
+Mikasa for route security.
+two labor crews.
+Qifrey only if magical support became useful.
 
-Native builders knew the bridge better.
+Enough.
 
-Mau stayed.
+Mau looked at bag.
 
-Again.
+Memory Arc lesson again.
+
+Not needed.
+
+Still wanted.
+
+He unpacked.
+
+"Fine."
+
+Frieren watched.
+
+"Actually fine?"
+
+"No."
+
+Good.
+
+At bridge, village builder rejected one support material settlement brought.
+
+Wakana frowned.
+
+"Why?"
+
+"Swells wrong here."
+
+Local humidity.
+
+River behavior.
+
+They used native wood instead.
+
+Qifrey proposed temporary magical stabilization while support changed.
+
+Builder asked:
+
+"What happens if your mark washes out?"
+
+Good question.
+
+Qifrey changed placement.
+
+Visible.
+
+Above flood line.
+
+Temporary only.
+
+No magic supremacy.
+
+Repair took two days.
+
+During closure, travelers used old detour.
+
+Arrival House warned everyone.
+
+Second community changed route.
+
+No one pretended infrastructure work was invisible.
+
+On second afternoon, first cart crossed repaired bridge.
+
+Slow.
+
+Everyone watched wheels.
+
+Nothing dramatic.
+
+The cart made it.
+
+Driver did not clap.
+
+Good.
+
+Mau received report at settlement.
+
+"Bridge open."
+
+He smiled.
+
+No pain this time at missing it.
+
+Maybe a little.
+
+Then asked:
+
+"Any problems?"
+
+Wakana's note:
+
+> Your rope knots remain terrible even when you're not there.
+
+Mau stared.
+
+Frieren laughed.
 
 The corridor improved without him.
 
-That no longer hurt as much.
+More importantly, it improved without becoming owned by either side.
 
-Progress.
+A shared road needed shared maintenance before it needed shared identity.
+
+That principle would return everywhere else.

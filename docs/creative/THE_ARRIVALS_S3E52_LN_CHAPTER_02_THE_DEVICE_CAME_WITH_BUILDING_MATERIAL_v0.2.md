@@ -3,69 +3,300 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 20
+**Reading order:** 20  
+**Continuity state:** Post-defense investigation | Physical sabotage traced through supply chain | Common source increasingly likely, not proven
 
-Anko traced the suppression device backward.
+Anko started with stone.
 
-Not to mastermind.
+Not magic.
 
-To a shipment.
+Not the device.
 
 Stone.
 
-Delivered weeks earlier.
+"Where did the wall material come from?"
 
-From a merchant intermediary.
+Everyone looked at Senku.
 
-Merchant had bought from regional depot.
+He looked offended.
 
-Depot paperwork cited a subcontractor.
+"Why me?"
 
-Subcontractor existed.
+"You have records."
 
-Owner did not.
+Jinshi:
 
-Or had vanished.
+"I have better records."
 
-Chain ended in bureaucracy.
+Senku looked more offended.
 
-Diablo called it elegant.
+Good.
+
+The sublevel wall used three material batches.
+
+Two local.
+
+One external.
+
+The external stone had arrived five weeks earlier during a period when construction was outrunning storage discipline.
+
+Fern remembered.
+
+"Rain."
+
+Wakana did too.
+
+"Everything came at once."
+
+Jinshi pulled the delivery ledger.
+
+One wagon.
+
+Eight pallets.
+
+Regional merchant intermediary.
+
+The same pallet code appeared on two harmless wall sections.
+
+So not every piece was compromised.
+
+Good.
+
+No magical cursed shipment assumption.
+
+Anko traced the merchant.
+
+Legitimate.
+
+Annoyed.
+
+Terrified by the implication.
+
+He had bought from a regional depot.
+
+Depot records existed.
+
+Mostly.
+
+One line had been rewritten by hand.
+
+Jinshi noticed.
+
+Not because handwriting was sinister.
+
+Because the original ink showed through.
+
+"Subcontractor substitution."
+
+Anko read the name.
+
+Company existed.
+
+Owner?
+
+Records inconsistent.
+
+Tax registry one person.
+
+Trade registry another.
+
+Warehouse address belonged to an empty lot.
+
+Diablo smiled.
+
+"Elegant."
 
 Everyone glared.
 
 "Technically."
 
-Senku agreed reluctantly.
+Senku leaned over the papers.
 
-The device had been planted before the attack.
+"This is bureaucracy as camouflage."
 
-Maybe attack coordination.
+Jinshi:
 
-Maybe contingency.
+"Yes."
 
-Maybe separate actor.
+"Disgusting."
 
-No proof.
+Jinshi almost laughed.
 
-But the timing joined the pattern board.
+Kusuri worked the physical evidence.
 
-Same map errors.
+Mortar dust.
 
-Same phrases.
+Packing fiber.
 
-Same administrative opacity.
+Trace oils.
+
+Nothing dramatic.
+
+One preservative compound in the fiber did not match local builders' usual supply.
+
+Useful.
+
+Not identity.
+
+Qifrey examined residue from the field mechanism.
+
+Its magical behavior did not map cleanly to one imported system.
+
+Again:
+useful.
+Not answer.
+
+Raphael compared suppression timing to known power interactions.
+
+No known direct match.
+
+Anko built the chain on the board.
+
+DEVICE
+<- embedded in stone cavity
+<- shipment
+<- merchant
+<- regional depot
+<- subcontractor substitution
+<- shell company / false ownership
+<- ?
+
+The question mark stayed.
+
+Mau stood at the back.
+
+He hated how familiar the shape felt.
+
+Not memory.
+
+Pattern.
+
+Someone did not need to be strongest if they could make systems carry intent for them.
+
+Maps.
+
+Forms.
+
+Orders.
+
+Shipments.
+
+Phrases.
+
+Administrative opacity.
+
+The western demand had arrived through the same kind of fog.
+
+Anko added earlier evidence beside the supply chain.
+
+Map errors.
+
+Repeated phrases.
+
+False attribution.
+
+Pressure on Otherworlder registration.
 
 Now physical sabotage.
 
-Coincidence harder.
+Rimuru:
 
-Still not impossible.
+"Same source?"
 
-The story refused premature certainty.
+Anko did not answer yes.
 
-Anko wrote:
+"Common source increasingly likely."
+
+Diablo:
+
+"Probability?"
+
+Senku:
+
+"Don't."
+
+No fake number.
+
+Good.
+
+Could be one actor.
+
+Could be aligned actors.
+
+Could be a bureaucracy someone was exploiting.
+
+Could be separate incidents converging because the settlement had become visible.
+
+The attack timing made coincidence harder.
+
+Not impossible.
+
+That distinction mattered.
+
+Aira entered late.
+
+Looked at the board.
+
+"Do we know who put the thing in the wall?"
+
+"No."
+
+"Do we know who made it?"
+
+"No."
+
+"Do we know who ordered the attack?"
+
+"No."
+
+She stared.
+
+"So we know paperwork."
+
+Anko smiled.
+
+"Yes."
+
+Aira looked betrayed.
+
+"Great."
+
+Mau:
+
+"Paperwork almost killed us."
+
+"That does not improve it."
+
+Fair.
+
+The investigation ended for the day without revelation.
+
+Good.
+
+No masked mastermind name.
+
+No sudden confession.
+
+Only a stronger chain.
+
+Physical object.
+
+Supply route.
+
+Administrative manipulation.
+
+A pattern with more weight than before.
+
+Anko wrote the final line in large letters:
 
 COMMON SOURCE INCREASINGLY LIKELY.
 
-Not:
-we know who.
+Under it:
+
+NOT PROVEN.
+
+Mau looked at the question mark.
+
+The season had spent a long time teaching everyone not to turn uncertainty into story too fast.
+
+Now the mystery itself demanded the same discipline.

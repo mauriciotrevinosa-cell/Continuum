@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 16 — Not the Question
+## Chapter 19 — Not the Question
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 16
+**Reading order:** 19
 
 White space.
 

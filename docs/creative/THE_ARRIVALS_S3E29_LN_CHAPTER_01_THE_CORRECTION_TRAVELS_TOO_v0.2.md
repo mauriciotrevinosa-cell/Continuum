@@ -3,65 +3,194 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 1
+**Reading order:** 1  
 **Continuity state:** Weeks after unity message | Settlement inhabited/refuge | Propaganda and corrections coexist
 
 The correction traveled slower than the lie.
 
 Of course.
 
+Lies were shorter.
+
+Anko discovered that after comparing how long each copy took to reproduce.
+
+False version:
+one page.
+
+Correction:
+original attached;
+signature explanation;
+second-community clarification;
+route note.
+
+Four pages.
+
+Momo called misinformation structurally efficient.
+
+Nobody enjoyed the observation.
+
 Searchers carried clean copies east.
 
 Merchants carried both.
 
-One village replaced the edited version on its notice board.
+One village replaced edited version on notice board.
 
 Another kept both and added:
 
 DISPUTED.
 
-Better than false certainty.
+Anko liked that more than immediate agreement.
 
-A third authority banned the statement entirely.
+At least uncertainty was honest.
 
-That made more people ask to see it.
+A third authority removed every version.
 
-Arrival House noticed a new category of newcomer:
+That made market vendors ask what had been removed.
 
-people who came because they had read the message.
+Paper found another route.
 
-Not because they believed every line.
+No mastermind needed for rumor to mutate.
 
-Because someone had finally written:
+People did enough on their own.
 
-you are allowed to be a person before you become a category.
+Arrival House noticed the first practical effect three days later.
 
-One woman arrived from a native town where she had lived peacefully for months.
+A woman arrived from a native town where she had lived peacefully for months.
 
-She did not want residence.
+One bag.
 
-She wanted the safe corridor map.
+No request for residence.
 
-Got it.
+Fern started standard questions.
+
+The woman interrupted.
+
+"I only need the corridor map."
+
+Everyone paused.
+
+Not refuge.
+
+Not rescue.
+
+Information.
+
+Fern gave it.
+
+The woman studied route markings.
+
+"That village still allows people through?"
+
+"Conditional."
+
+"Good."
+
+She folded the map.
+
+"Thank you."
+
+Mau happened to be near table.
+
+"You're not staying?"
+
+The woman looked at him.
+
+"No."
+
+Mau nodded.
+
+No persuasion.
+
+She left.
+
+That tiny interaction mattered more than another new bed.
+
+The settlement had become useful to people who did not join it.
+
+A second visitor arrived because he had read the hostile version.
+
+He wanted to verify whether main settlement really claimed all Otherworlders.
+
+Fern showed original.
+
+He read.
+
+Then correction.
+
+Then second-community signature.
+
+He did not smile.
+
+"Good."
 
 Left.
 
-The second community sent two corrections under its own name.
+No gratitude scene.
 
-Independence preserved.
+No conversion.
 
-A hostile notice called the corrections:
+A third person sent only a letter asking whether old inn still accepted overnight travelers.
 
-coordinated propaganda.
+Yes.
 
-Anko archived it.
+The correction created questions rather than migration.
 
-Same words would matter later.
+Good.
 
-The message did not end fear.
+Second community sent two copies under its own name.
 
-It created a public record against fear.
+Independence visible.
 
-Different.
+A hostile notice called corrections coordinated propaganda.
 
-Useful.
+Anko archived it beside original.
+
+Mau stared at board.
+
+"Do we answer every lie?"
+
+"No."
+
+"Which ones?"
+
+"The ones that materially change safety, movement or consent."
+
+Mau frowned.
+
+"What about reputation?"
+
+Fern:
+
+"That's infinite."
+
+Right.
+
+Outside, a child from refuge group was trying to copy settlement map.
+
+Wrong scale.
+
+Mau helped.
+
+No politics.
+
+Still part of same system.
+
+Public record mattered because people moved according to stories.
+
+Not because stories could ever be controlled completely.
+
+The unity message had failed to end fear.
+
+The correction failed to end distortion.
+
+What they created instead was slower:
+
+a trail of original words,
+multiple witnesses,
+and places where someone could ask:
+
+Is that actually what you said?
+
+In a world becoming afraid of categories, that was not enough.
+
+It was still worth building.

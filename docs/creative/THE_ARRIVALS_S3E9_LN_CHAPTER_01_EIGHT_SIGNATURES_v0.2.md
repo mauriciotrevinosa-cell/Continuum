@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 9 — Eight Signatures
+## Chapter 16 — Eight Signatures
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 9  
-**Continuity state:** First disappearance, Day 3 — pre-dawn | Diablo has produced multiple false positives / G5 | Frieren joins field search | Mau still missing
+**Reading order:** 16  
+**Continuity state:** First disappearance, Day 3 — pre-dawn | Named G5 waves established | Frieren/Diablo field search | Eight-signature cluster becomes first plausible Mau lead
 
 The first three times Diablo said:
 

@@ -3,57 +3,271 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 23
+**Reading order:** 23  
+**Continuity state:** Noise overload, hour 4 | Familiar biological sign returns | Kaneki contributes narrowly, without identity claims
 
-Back pain.
+The back pain started four hours in.
 
-Mau reported it before visible change.
+Mau said it before anyone saw anything.
 
-Kaneki entered.
+That was progress too.
 
-"Same location?"
+"Same place."
 
-"Yes."
+Maomao looked at Rimuru.
+
+Rimuru opened the door.
+
+"Kaneki."
+
+Kaneki entered with a notebook.
+
+Not dramatic.
+
+That had taken work.
+
+Months ago he would have looked at Mau's back and seen too much of himself.
+
+Now he asked:
 
 "Pressure or tearing?"
 
 "Pressure."
 
+"Deep or surface?"
+
+"Deep."
+
+"One side?"
+
+"Center-left."
+
+"Movement?"
+
+"Not yet."
+
 Good.
 
-Dark line beneath skin.
+Specific.
 
-No full kagune.
+No:
+is it kagune?
 
-Kaneki tracked.
+No:
+are you becoming a ghoul?
 
-Mau smiled weakly.
+Mau looked at him.
+
+"You've practiced."
+
+Kaneki sat.
+
+"So have you."
+
+Frieren shifted enough to give room.
+
+Not leaving.
+
+Not crowding.
+
+Kaneki checked the skin.
+
+A dark line was visible beneath it.
+
+Thin.
+
+Not raised.
+
+He wrote:
+hour;
+pain;
+location;
+Noise term timing;
+food;
+temperature;
+stress.
+
+Mau looked over his shoulder.
 
 "Still me?"
 
-Kaneki looked annoyed.
+Kaneki's pen stopped.
+
+He looked annoyed.
 
 "That's not what I'm checking."
 
-Excellent.
+Mau smiled weakly.
 
-He recorded:
-- pain;
-- location;
-- pulse;
-- Noise term timing;
-- stress relation;
-- food relation.
+"Excellent bedside manner."
 
-No ghoul diagnosis.
+"I'm serious."
 
-No identity claim.
+"I know."
 
-Experience used narrowly.
+Kaneki's voice softened.
 
-The line receded.
+"So am I."
 
-Mau asked:
+That landed.
+
+The line pulsed.
+
+Mau inhaled sharply.
+
+No emergence.
+
+No full structure.
+
+Kaneki put one hand near, not on.
+
+"Tell me before it changes."
+
+"Okay."
+
+"What are you perceiving?"
+
+Mau closed his eyes.
+
+"Your body makes more sense than it should."
+
+Kaneki froze.
+
+Not fear of attack.
+
+Fear of being understood biologically by something neither of them trusted.
+
+Mau opened his eyes.
+
+"Sorry."
+
+"Don't apologize."
+
+Kaneki's voice was too fast.
+
+He slowed.
+
+"What does that mean?"
+
+"I don't know."
+
+Rimuru from the other side:
+
+"Term?"
+
+Mau shook his head.
+
+"No term. Just... pattern."
+
+Kaneki looked at his own hands.
+
+Memory of being reduced to body was not far.
+
+Mau saw.
+
+"You can leave."
+
+Kaneki looked up.
+
+"I know."
+
+He stayed.
+
+Choice.
+
+The line widened half a centimeter.
+
+Then stopped.
+
+Maomao entered only long enough to check vitals.
+
+"Any nausea?"
+
+"No."
+
+"Fever?"
+
+"No."
+
+"Pain?"
+
+"Six."
+
+Kaneki looked at him.
+
+"You said four."
+
+"That was five minutes ago."
+
+"Write six."
+
+He did.
+
+Mau laughed.
+
+"You're bossy."
+
+"Yes."
+
+The Noise offered no ghoul label.
+
+Good.
+
+Raphael found no evidence of full adaptive transition.
+
+Good.
+
+Kaneki refused to infer from resemblance.
+
+Best.
+
+He compared with the older Memory crisis notes.
+
+Location similar.
+
+Timing different.
+
+Stress relation different.
+
+Food relation absent.
+
+Noise activity higher.
+
+Memory stable.
+
+That difference broke the easy narrative.
+
+This was not repeat transformation.
+
+It was another manifestation using a familiar route.
+
+Maybe.
+
+Kaneki underlined maybe.
+
+Mau saw.
+
+"Proud of you."
+
+"Shut up."
+
+Later the line receded.
+
+Not because Kaneki did anything.
+
+Important.
+
+They watched it recede.
+
+Recorded time.
+
+No treatment claimed credit.
+
+No system stole causality.
+
+Kaneki closed the notebook.
+
+Mau looked at him.
 
 "You okay?"
 
@@ -61,10 +275,57 @@ Kaneki stared.
 
 "You're the patient."
 
-"Not answer."
+"Not an answer."
 
-Kaneki laughed.
+Kaneki looked toward the door.
+
+Frieren was pretending not to listen.
+
+Rimuru definitely listening.
+
+"Better than last time."
+
+"Because?"
+
+"I know what not to call it."
+
+Mau went quiet.
+
+That was more honest than "I'm fine."
+
+Kaneki continued.
+
+"When I first saw your back change, I wanted it to mean something I understood."
+
+"Because understood is safer."
+
+"Because then I knew what to do."
+
+Mau nodded.
+
+"And now?"
+
+"Now I know recognizing one piece doesn't mean I know the whole."
+
+Good.
+
+Memory Arc had changed him too.
+
+The line disappeared completely by hour six.
+
+Pain dropped.
+
+Kaneki left the room.
+
+No revelation.
+
+No species answer.
+
+Only narrower knowledge:
+this sign could recur under overload;
+it did not automatically progress;
+Kaneki could recognize details without claiming Mau.
 
 Relationships after rescue.
 
-Exactly why he had not been allowed to vanish from the story.
+Exactly why he had not been allowed to vanish from the story once his expertise stopped being plot-critical.

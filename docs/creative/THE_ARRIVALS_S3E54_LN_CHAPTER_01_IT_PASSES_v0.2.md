@@ -3,25 +3,110 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 25
+**Reading order:** 25  
+**Continuity state:** Noise overload resolves after eleven hours | No containment, disappearance or memory collapse | Protocol updated from lived evidence
 
 Eleven hours.
 
-No disappearance.
+That was the final count.
 
-No field rescue.
+Not because hour eleven had magical significance.
 
-No containment.
+Because at ten hours and forty-eight minutes Mau said:
 
-No new memory attack.
+"The room looks like a room."
 
-The overload passed under protocol.
+At ten fifty-five:
 
-Mau slept.
+"My head still hurts."
 
-Woke.
+At eleven:
 
-Frieren reading.
+"I want food."
+
+Maomao closed the notebook.
+
+"Improvement."
+
+Mau looked offended.
+
+"That sounded clinical."
+
+"It is."
+
+Good.
+
+No celebration until body followed.
+
+He ate half a bowl.
+
+Kept it down.
+
+Temperature stable.
+
+Back line gone.
+
+Spatial distortion absent.
+
+Memory checks remained boring.
+
+Name.
+
+Room.
+
+Date approximate.
+
+Who stayed.
+
+Who left.
+
+Why.
+
+Mau got one answer wrong.
+
+He thought Senku had been inside the room during the first hour.
+
+He had been in the hall.
+
+Mau stopped.
+
+Everyone else stopped too.
+
+Old fear.
+
+Then Mau breathed.
+
+"Wrote it wrong?"
+
+Rimuru checked notes.
+
+"Maybe memory bleed from hearing him outside."
+
+"Or false memory."
+
+"Yes."
+
+Mau waited for catastrophe.
+
+None came.
+
+One wrong detail did not become Memory Arc.
+
+Good.
+
+He laughed softly.
+
+"Okay."
+
+Frieren was reading.
+
+Actually reading.
+
+Not staring at the same line.
+
+That was one of the clearest signs the crisis had changed category.
+
+Mau looked at her.
 
 "Did I leave?"
 
@@ -33,6 +118,8 @@ Frieren reading.
 
 "Become weird?"
 
+Frieren looked over the book.
+
 "More than usual."
 
 Mau laughed.
@@ -41,28 +128,194 @@ Mau laughed.
 
 "Yes."
 
-Protocol updated.
+He relaxed.
 
-One interval changed.
+Not because Frieren was infallible.
 
-One Noise term added.
+Because shared record and present memory agreed enough.
 
-One biological sign added.
+The next morning they did the unromantic part.
 
-One anchor question removed because Mau hated it.
+Protocol review.
+
+Everyone hated protocol review.
+
+That was why Fern scheduled it.
+
+What worked?
+
+Early reporting.
+
+Reducing the room quickly.
+
+No Construction.
+
+No unnecessary memory testing.
+
+Separating biological symptoms from perceptual ones.
+
+Letting Mau choose who stayed.
+
+External measurements without turning them into truth.
+
+What failed?
+
+One anchor question increased stress.
+
+Removed.
+
+A lighting change had been too abrupt.
+
+Change sequence updated.
+
+Rimuru had spoken too much during hour three.
+
+Rimuru objected.
+
+Everyone agreed.
+
+Updated.
+
+Noise terms added:
+INTEGRATION LOAD.
+CROSS-SYSTEM CONTENTION.
+ALIGNMENT FAILURE.
+
+Each marked:
+SELF-REPORTED INTERNAL TERM / MEANING UNVERIFIED.
+
+Good.
+
+Kaneki added recurrent back-line behavior.
+
+Kusuri added:
+no new chemical exposure preceding onset.
+
+Senku added:
+external readings changed inconsistently with subjective severity.
+
+Qifrey added:
+no single magical-system spike.
+
+Maomao added:
+do not assume any one variable is causal.
+
+Mau added:
+
+"Stop asking me the same identity question after I answer it twice."
+
+Maomao:
+
+"Accepted."
+
+He looked surprised.
+
+"You can just do that?"
+
+"Protocol exists for patient."
+
+Right.
+
+Not surveillance.
+
+Care.
+
+That afternoon Mau asked to be alone.
+
+Silence.
+
+Not because request was unreasonable.
+
+Because everyone still carried Memory Arc.
+
+Frieren looked at him.
+
+"How long?"
+
+Mau almost bristled.
+
+Then heard the question as logistics.
+
+"Twenty minutes?"
+
+"Door open or closed?"
+
+"Closed."
+
+"Check-in?"
+
+He thought.
+
+"Knock at twenty. If I don't answer, come in."
+
+Frieren nodded.
+
+No argument.
+
+Mau went to his room.
+
+Closed door.
+
+Everyone else continued existing.
+
+That was the hardest part.
+
+He sat by the window.
+
+No monitor inside.
+
+No Ori.
+
+No Frieren.
+
+No Rimuru.
+
+No proof of self except self.
+
+The Noise was quiet.
+
+Not gone.
+
+Quiet.
+
+At minute twelve Mau noticed he had been waiting for something bad to happen.
+
+Nothing did.
+
+At minute twenty, knock.
+
+"Mau?"
+
+Frieren.
+
+He smiled.
+
+"Yeah."
+
+"Done?"
+
+He considered.
+
+"Five more?"
+
+Pause.
+
+"Okay."
+
+She left.
+
+Care had learned not to become prison.
+
+Five minutes later Mau opened the door himself.
+
+No miracle.
 
 No cure.
 
-No reset.
-
-The family had turned previous suffering into procedure.
+A family had turned previous suffering into a procedure that made the next suffering less lonely and less chaotic.
 
 That was the point.
 
-Mau spent part of the next afternoon alone.
+The Noise remained unsolved.
 
-Actually alone.
-
-Allowed.
-
-Care had learned not to become prison.
+But it no longer owned every room it entered.

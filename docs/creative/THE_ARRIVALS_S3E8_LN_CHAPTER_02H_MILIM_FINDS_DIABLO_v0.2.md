@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 14 — Milim Finds Diablo
+## Chapter 15 — Milim Finds Diablo
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 14  
+**Reading order:** 15  
 **Continuity state:** First disappearance, dawn approaching | Mau still missing | Milim joins G5 window by recognizing Diablo
 
 Milim was the first person Diablo brought back who had not been a mistake.

@@ -96,6 +96,24 @@ One route map pinned at an angle.
 
 A box labeled MEDICAL beside a box labeled KITCHEN because someone had run out of shelf space.
 
+Kusuri had taped a note across both:
+
+NO.
+
+Under it Maomao had written:
+
+SEPARATE THESE.
+
+Under that Senku had added:
+
+OBVIOUSLY.
+
+Fern stared at all three layers of handwriting.
+
+"Why is the box still here?"
+
+No one answered.
+
 Momo was standing on a chair trying to hang something decorative.
 
 Fern inhaled.

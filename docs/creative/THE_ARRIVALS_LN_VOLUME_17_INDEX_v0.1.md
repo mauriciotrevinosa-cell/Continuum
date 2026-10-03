@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 17 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
+**Status:** SUPERSEDED BY S3 REBUILD v0.2  
 **Volume:** 17  
 **Season:** 3  
 **Volume title:** **What Would You Choose?**  

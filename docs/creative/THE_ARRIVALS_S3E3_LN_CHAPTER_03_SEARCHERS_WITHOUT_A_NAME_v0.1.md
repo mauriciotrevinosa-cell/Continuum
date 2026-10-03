@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 9 — Searchers Without a Name
 
-**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
+**Status:** SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 10  
 **Reading order:** 9  

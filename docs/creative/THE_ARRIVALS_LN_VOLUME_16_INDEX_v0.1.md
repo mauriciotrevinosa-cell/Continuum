@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 16 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
+**Status:** SUPERSEDED BY S3 REBUILD v0.2  
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **The Pattern Behind Fear**  

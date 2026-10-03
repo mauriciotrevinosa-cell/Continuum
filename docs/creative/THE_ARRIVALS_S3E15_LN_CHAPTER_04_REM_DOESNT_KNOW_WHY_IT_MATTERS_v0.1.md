@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 12
 ## Chapter 14 — Rem Doesn't Know Why It Matters
 
-**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
+**Status:** SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 12  
 **Reading order:** 14  

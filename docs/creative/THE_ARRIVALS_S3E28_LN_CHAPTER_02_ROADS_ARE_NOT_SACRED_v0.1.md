@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 14
 ## Chapter 5 — Roads Are Not Sacred
 
-**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
+**Status:** SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 14  
 **Reading order:** 5  

@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 17
 ## Chapter 12 — Would They Choose You?
 
-**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
+**Status:** SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 17  
 **Reading order:** 12  

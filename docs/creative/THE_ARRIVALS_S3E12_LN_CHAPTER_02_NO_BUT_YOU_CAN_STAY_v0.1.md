@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 11
 ## Chapter 17 — No. But You Can Stay.
 
-**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
+**Status:** SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 11  
 **Reading order:** 17  

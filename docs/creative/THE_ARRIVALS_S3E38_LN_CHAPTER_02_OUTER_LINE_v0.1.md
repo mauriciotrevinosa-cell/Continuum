@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 15
 ## Chapter 15 — Outer Line
 
-**Status:** LN PRODUCTION DRAFT — SUPERSEDED BY S3 REBUILD v0.2  
+**Status:** SUPERSEDED BY S3 REBUILD v0.2  
 **Version:** 0.1  
 **Volume:** 15  
 **Reading order:** 15  

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 21 — The Community Splits Into Questions
+## Chapter 26 — The Community Splits Into Questions
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 21
+**Reading order:** 26
 
 The settlement did not split into camps.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 16 — You Left
+## Chapter 17 — You Left
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 16  
+**Reading order:** 17  
 **Continuity state:** Day 3 — morning | Mau: awake / weak | G5: temporary guests | Witches: waiting under bargain
 
 Morning made the argument less merciful.

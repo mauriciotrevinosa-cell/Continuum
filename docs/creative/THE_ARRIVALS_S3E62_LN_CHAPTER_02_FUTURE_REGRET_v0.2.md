@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
 **Reading order:** 32  
-**Continuity state:** Week after Trial | Mau has not contacted Goddess | Private modeling begins
+**Continuity state:** Night 2 of ten-day window | Mau has not contacted Goddess | Severe sleep loss + Trial aftermath drive private modeling
 
 Mau wrote scenarios because writing was slower than remembering.
 
@@ -12,17 +12,25 @@ That was the excuse.
 
 It was also true.
 
-Paper forced sequence.
+Paper forced one consequence after another.
 
-Trial memories arrived all at once.
+The Trial delivered twenty at once.
 
-He started with headings.
+He started at 11:43 p.m.
+
+Frieren slept behind him.
+
+Or tried to.
+
+Mau had not asked.
 
 RETURN.
 
 STAY.
 
-Then crossed both out.
+He stared at both headings.
+
+Crossed them out.
 
 Too large.
 
@@ -40,15 +48,43 @@ PEOPLE WHO DON'T KNOW.
 
 PEOPLE WHO THINK THEY KNOW.
 
-He stared.
+His hand stopped.
 
-This was already becoming a system.
+This was becoming a system.
 
-Bad sign.
+Bad.
 
 He closed the notebook.
 
-Opened it again ten minutes later.
+Lay down.
+
+Closed his eyes.
+
+Fire.
+
+Bocchi coughing.
+
+Choice.
+
+Mau taking her place.
+
+Pain.
+
+Anchor—
+
+His eyes opened.
+
+Real ceiling.
+
+Frieren.
+
+No fire.
+
+Twelve minutes had passed.
+
+Mau got up again.
+
+Notebook.
 
 Scenario:
 
@@ -60,45 +96,43 @@ One returns.
 
 Possible consequences.
 
-He wrote:
-grief.
+Grief.
 
-Then:
-relief.
+Relief.
 
-Then:
-resentment.
+Resentment.
 
-Then:
-acceptance.
+Acceptance.
 
-Then:
-new life.
+New life.
 
-Then stopped because every item summoned a Trial variation.
+Regret.
 
-He knew the Trial was not prophecy.
+No regret.
 
-He wrote at the top of the page:
+He stopped.
+
+Each word had a Trial face attached.
+
+Not prophecy.
+
+Mau wrote at top:
 
 NOT PREDICTIONS.
 
 Underlined twice.
 
-Then another page.
+Another page.
 
 If someone stays because they love a person here.
 
 Potential future question:
-Would I have chosen differently without them?
 
-Mau's pen stopped.
+Would I have chosen differently without them?
 
 Frieren.
 
-He closed his eyes.
-
-Trial-Frieren at a table years later:
+Trial-Frieren at a table decades later:
 
 I still wonder.
 
@@ -106,31 +140,27 @@ Not real Frieren.
 
 Construct.
 
-Mau knew.
+Another version:
 
-Then another version:
-
-I don't regret you.
+I never regretted you.
 
 Also construct.
 
 Opposite outcome.
 
-Same emotional credibility.
+Same emotional weight.
 
-The Trial had not given him knowledge.
+The Goddess had not given Mau future knowledge.
 
-It had given him an archive of plausible pain.
+She had given him an archive of plausible pain.
 
-That was almost worse.
+That was worse in a different way.
 
 Mau wrote:
 
 I CANNOT KNOW WHICH FUTURE IS REAL.
 
-Good.
-
-Then underneath, without intending to:
+Then beneath:
 
 THEY CAN'T EITHER.
 
@@ -138,89 +168,135 @@ He stared.
 
 There.
 
-The asymmetry.
+The asymmetry his trauma kept insisting mattered.
 
-Mau had already survived hundreds of wrong answers.
+Mau had died and returned.
 
-Everyone else had one.
+Chosen and returned.
 
-One real choice.
+Watched people choose and then lived long enough inside scenarios to see consequences.
+
+Again.
+
+Again.
+
+Again.
+
+Hundreds of iterations.
+
+Real residents had one life.
+
+One Return.
+
+One Stay.
+
+One version of memory afterward.
 
 No anchor.
 
 No reset.
 
-No chance to say:
-that future hurt, let's test another.
+No:
+that future hurt, try another.
 
-Mau put the pen down.
+Mau put pen down.
 
-His hands were shaking.
+Hands shaking.
 
-He got water.
+He went for water.
 
-Came back.
+A door slammed outside.
 
-Did not write for an hour.
+Mau dropped the cup.
 
-Then:
+Frieren sat upright.
 
-What if the burden can be reduced?
+"Mau."
+
+He stared at shattered cup.
+
+No Trial.
+
+No death.
+
+"I'm okay."
+
+Frieren got out of bed.
+
+Mau almost told her everything.
+
+Notebook open.
+
+Pages visible if she came close.
+
+She stopped before reading.
+
+Agency.
+
+Even now.
+
+"Do you want me to stay awake?"
+
+Mau looked at her.
+
+"No."
+
+Lie?
+
+Not exactly.
+
+He wanted her asleep because if she stayed awake, he might tell her.
+
+Frieren studied him.
+
+Then returned to bed.
+
+Trust.
+
+That made the next page uglier.
+
+What if burden can be reduced?
+
+Mau wrote.
 
 Not removed.
 
 Reduced.
 
-Could Return terms include memory softening by choice?
+Could Return terms include chosen memory softening?
 
-Could people choose before knowing whose decision was whose?
+Could a collective Return preserve relationships?
 
-Bad.
+Could everybody return together?
 
-Crossed out.
+Could memory become dreamlike enough that regret loses sharpness?
 
-Could a collective return preserve relationships?
+Maybe.
 
-Unknown.
+Danger.
 
-Could everyone return together?
+Mau saw it.
 
-Unknown.
-
-Could Continuum become dreamlike enough that regret loses sharpness?
-
-Possible.
-
-Dangerous.
-
-Mau saw the danger.
-
-He wrote it.
+Wrote:
 
 DANGER:
 I AM TRYING TO ENGINEER EMOTIONAL CONSEQUENCES FOR PEOPLE WHO HAVE NOT ASKED ME TO.
 
 Good.
 
-Close notebook.
+Stop.
 
-He did.
+He closed notebook.
 
-The next morning, a resident at Arrival House asked whether staying to avoid hurting a partner counted as free choice.
+1:26 a.m.
 
-Mau heard.
+Lay down.
 
-Notebook reopened that night.
-
-Not because he thought he knew better.
-
-Because he had watched versions of this exact wound for what felt like lifetimes.
+At 1:41 he was back at table.
 
 He wrote:
 
-If they choose and suffer, I will know I saw this coming.
-
-Stopped.
+If they choose and suffer, I will know I saw versions of this coming.
 
 Then:
 
@@ -228,7 +304,7 @@ That is not the same as causing it.
 
 He stared.
 
-Did not believe the sentence enough.
+Could not make himself believe the distinction emotionally.
 
 New page.
 
@@ -238,17 +314,15 @@ He could not finish.
 
 Memory Arc had attacked whether Frieren loved him.
 
-The Trial attacked something more durable:
+The Trial had created a worse terror:
 
-Whether love itself could become a reason someone made the wrong choice.
+love could be genuine and still become part of a decision someone later regretted.
 
-Mau hated that.
-
-He wrote:
+Mau wrote:
 
 I would rather lose her than become the reason she regrets staying.
 
-Then:
+Then, beneath:
 
 Would she rather lose me?
 
@@ -256,32 +330,28 @@ He knew the answer was not his.
 
 That should have ended the page.
 
-It did not.
+It didn't.
 
-The Return clause remained:
+At 2:07 a.m. he wrote:
 
-Continuum may become dreamlike in recollection.
+If somebody must carry the moral weight of removing the choice, let it be me.
 
-May.
+Mau stared at sentence.
 
-If that happened, perhaps pain would soften.
+Old architecture.
 
-Perhaps people would wake back into lives that fit.
+Different currency.
 
-Perhaps choosing could be spared.
+Sukuna:
+I carry fatal consequence.
 
-Compassion.
+Now:
+I carry irreversible choice.
 
-Control.
+The thought did not feel noble.
 
-Both occupied the same sentence.
+It felt exhausted.
 
-Mau knew.
+That frightened him more.
 
-That was why he showed the notebook to no one.
-
-The first real mistake was not thinking the thought.
-
-Trauma produced thoughts.
-
-The first real mistake was beginning to treat private fear like a design problem he might solve alone.
+At 2:19, he began the first note.

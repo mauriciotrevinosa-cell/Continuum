@@ -4,15 +4,15 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
 **Reading order:** 38  
-**Continuity state:** Immediately after Frieren confrontation | Mau finally explains the full motive
+**Continuity state:** Day 3 before sunrise | Road confrontation | Mau finally tells the others the scale and shape of the Trial aftermath
 
 Mau did not defend the slap.
 
 That was not the important part.
 
-He stood in the clearing with one hand against his cheek while Frieren cried in front of him.
+He stood on the road with one cheek red and eyes that looked far older than three days ago.
 
-Then he finally said the sentence underneath everything else.
+Then he finally said the sentence underneath everything.
 
 "I don't want any of you carrying it."
 
@@ -22,7 +22,7 @@ Rimuru asked:
 
 Mau looked at him as if the answer were obvious.
 
-Then remembered it wasn't.
+Then remembered no one else had lived inside his head.
 
 "The after."
 
@@ -30,15 +30,19 @@ Silence.
 
 "The part after the choice."
 
-Mau's voice shook.
+He swallowed.
 
-"Everyone keeps talking about the moment. Return or Stay."
+"Everyone keeps talking about the moment."
+
+"Return."
+
+"Stay."
 
 "That's not the part I'm scared of."
 
 He looked at Bocchi.
 
-Trial smoke.
+Smoke.
 
 Looked away.
 
@@ -48,13 +52,13 @@ Looked away.
 
 "A hundred for some of you."
 
-"If you stay and someone you could have returned to needed you."
+"If you stay and somebody you could've returned to needed you."
 
 "If you return and Continuum stays vivid enough that every good day feels stolen from people here."
 
 "If it becomes dreamlike and you spend the rest of your life trying to remember whether we were real."
 
-"If you follow someone you love and then one day realize you followed instead of chose."
+"If you follow somebody you love and one day realize you followed instead of chose."
 
 Frieren's face changed.
 
@@ -70,11 +74,9 @@ Mau stopped.
 
 "Stop deciding my future regret."
 
-He looked at her.
-
 "I'm not saying you will."
 
-"You are building your decision around the possibility."
+"You built a secret plan around the possibility."
 
 Mau's hands closed.
 
@@ -88,33 +90,49 @@ Mau looked around.
 
 There.
 
-Not abstract.
+Not a number used for drama.
+
+A scale he still could not organize.
 
 "I know they were constructs."
 
 "I know they weren't prophecy."
 
-"I know the Goddess could have selected outcomes to make a point."
+"I know the Goddess may have selected outcomes to make a point."
 
 His voice rose.
 
 "I know."
 
-Memory Arc word.
-
-This time nobody mocked it.
+Nobody mocked the word.
 
 Mau's eyes filled.
 
 "But I remember them."
 
-A pause.
+He tapped his own chest once.
 
-"I remember Frieren asking me thirty years later whether she should have gone home."
+Not head.
 
-Real Frieren closed her eyes.
+Body.
 
-"I remember Bocchi wondering whether staying made her selfish."
+"I remember dying enough times that I stopped being scared of the first second."
+
+Frieren closed her eyes.
+
+"I remember figuring out which way killed me faster."
+
+Yuta's face changed.
+
+"I remember waking up at the anchor and knowing the next room might kill me before I knew who was in it."
+
+Mau's voice shook harder.
+
+"I remember Frieren asking me thirty years later whether she should've gone home."
+
+Real Frieren looked down.
+
+"I remember Bocchi wondering if staying made her selfish."
 
 Bocchi covered her mouth.
 
@@ -124,59 +142,111 @@ Bocchi covered her mouth.
 
 "Ori choosing me."
 
-"I remember people hating me because I chose for them."
+"Ori choosing herself."
 
-"I remember people begging me to choose and hating me because I wouldn't."
+"People hating me because I chose for them."
 
-Mau's voice broke.
+"People begging me to choose and then hating me because I did."
 
-"I remember every kind of answer hurting somebody."
+"People begging me to choose and hating me because I wouldn't."
 
-Not literally every loop.
+His breath broke.
 
-Enough.
+"Sometimes nobody died."
 
-"I don't want that for you."
+That line hurt most.
 
-There.
+"Sometimes everybody lived."
 
-The compassionate core.
+"And twenty years later somebody still wondered."
 
-No villainy.
+Mau wiped his face angrily.
 
-No arrogance required.
+"I remember the same kind of choice ending well."
 
-Only trauma trying to become policy.
+"Ending badly."
 
-Rimuru spoke carefully.
+"Ending with nobody knowing."
 
-"I believe you."
+"There wasn't a rule."
+
+"There wasn't an answer."
+
+Senku said quietly:
+
+"Right."
 
 Mau looked at him.
 
-Rimuru continued:
+"That's the problem."
+
+"No."
+
+Senku held his gaze.
+
+"That's life."
+
+Mau's face twisted.
+
+"For you, maybe."
+
+Then immediately hated sentence.
+
+He corrected.
+
+"No. Sorry."
+
+Senku waited.
+
+Mau looked toward settlement.
+
+"The real difference is they get one."
+
+"One life."
+
+"One Return or Stay."
+
+"One version of what happens after."
+
+"I got hundreds of attempts and I still couldn't find a painless answer."
+
+Rimuru spoke carefully.
+
+"And you thought that meant you should take the burden."
+
+Mau looked at him.
+
+"If somebody had to."
+
+"There."
+
+Rimuru's voice stayed gentle.
+
+"That's the part."
+
+Mau stared.
+
+Rimuru continued.
+
+"I believe you."
+
+No but.
 
 "I believe it was horrible."
 
-No but yet.
-
-"I believe you experienced those years."
-
 Yuta nodded.
 
-"Your body doesn't care that they were constructed."
+"Your body doesn't care that those years were constructed."
 
 Mau looked down.
 
-Someone understood.
-
-That almost made the next sentence worse.
+Someone understanding almost made everything worse.
 
 Rimuru:
 
 "They still weren't our lives."
 
-Mau's face tightened.
+Mau's jaw tightened.
 
 "I know."
 
@@ -190,17 +260,15 @@ Mau looked at her.
 
 Again.
 
-She stepped closer.
+She came closer.
 
 "The Trial gave you hundreds of outcomes."
 
 "Yes."
 
-"It did not give you authority over ours."
+"It didn't give you authority over ours."
 
-Mau's eyes closed.
-
-Ori said:
+Ori spoke.
 
 "We already know choices hurt."
 
@@ -210,7 +278,7 @@ Mau looked at her.
 
 "No."
 
-Ori did not pretend equivalence.
+Ori did not pretend equality.
 
 "Not like that."
 
@@ -218,7 +286,7 @@ Then:
 
 "But letting you choose for us doesn't make the hurt disappear."
 
-Yuta continued:
+Yuta:
 
 "It makes the choice yours."
 
@@ -226,30 +294,32 @@ Rimuru:
 
 "And the consequences still ours."
 
-Mau stared.
+Mau went still.
 
 There.
 
-If he returned everyone and Continuum became dreamlike:
-they still lived the result.
+If everyone Returned and memories softened:
+they would live that.
 
-If they forgot:
-that was still something done to them.
+If memories remained:
+they would live that.
 
-If they remembered:
-also.
+If someone lost a relationship:
+they would live that.
 
-No option transferred consequence completely to Mau.
+Mau could take blame.
+
+He could not absorb consequence.
 
 He had been trying to carry something structurally uncarryable.
 
 Frieren took his hand.
 
-Still furious.
+Still angry.
 
 Still chose contact.
 
-Mau looked at their hands.
+Mau looked down at their hands.
 
 "Every choice makes another choice disappear."
 
@@ -259,33 +329,25 @@ Frieren answered:
 
 No reassurance.
 
-No promise he would never regret.
+No promise that she would never wonder.
 
-Mau's face collapsed.
+Mau whispered:
 
-"I don't want you to have to wonder."
+"I don't want you to have to."
 
 Frieren cried.
 
-"I will wonder."
+"I will."
 
 He looked up.
 
-"About things for the rest of my life."
+"I will wonder about things for the rest of my life."
 
 A small terrible smile.
 
 "I already do."
 
-Himmel existed in that sentence.
-
-Centuries.
-
-Past choices.
-
-Things never said.
-
-Love.
+Himmel lived inside that truth without being reduced by it.
 
 Regret was not proof a life had been chosen wrongly.
 
@@ -309,24 +371,30 @@ People who might leave him.
 
 People who might stay.
 
-People who might not know for months.
+People who might not know by Day Ten.
 
-People whose answers might hurt him.
+People whose decisions might hurt him.
 
-That was the real Trial.
+That was the real continuation of the Trial.
 
 Not accepting death.
 
-Accepting that love could not guarantee correct futures.
+Accepting that love could not guarantee painless futures.
 
 Frieren said:
 
 "Now let us decide."
 
-No Goddess answered.
+The Goddess did not answer.
 
-She did not need to.
+She had never been contacted.
 
-The Trial had found its ending outside the Trial.
+She did not need to be.
 
-It would take much longer for Mau's body to believe it.
+Mau nodded once.
+
+Then his knees almost gave out.
+
+Yuta caught him.
+
+Three days without real sleep had finally collected its debt.

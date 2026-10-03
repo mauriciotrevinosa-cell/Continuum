@@ -1,251 +1,235 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 9 — Richeh
+## Chapter 9 — Richeh Stays a Guest
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
 **Reading order:** 9  
-**Continuity state:** Richeh sighting | Reunion belongs to Coco / Atelier group first
+**Continuity state:** Post-G5 / post-Move | Richeh and Tetia already present since V11 | Arrival House provisional | Independent housing choices remain open
 
-The report reached Arrival House at noon.
+Richeh had been in Continuum long enough to stop being new.
 
-Young girl.
+That did not mean she had chosen a home.
 
-Witch hat.
+Coco kept forgetting the difference.
 
-Asked for Qifrey.
+"There's a room near ours."
 
-And Coco.
+Richeh looked up from the circle she was repairing.
 
-Coco read the line once.
+"Yes."
 
-Then again.
+"You could take it."
 
-The paper shook.
+"Yes."
 
-Agott noticed first.
+Coco waited.
 
-"Coco?"
+Richeh kept working.
 
-Coco did not answer.
+Tetia, beside them, grinned.
 
-Richeh.
+"She's doing it again."
 
-Name enough.
+Coco:
 
-Qifrey stood.
+"Doing what?"
 
-No announcement.
+"Trying to ask without asking."
 
-No strategic meeting.
+"I'm asking."
 
-He simply moved.
+"No, you're describing architecture."
 
-Agott behind him.
+Agott, passing:
 
-Coco moved faster than both.
+"Correct."
 
-Mau looked up from the other side of the room.
+Coco looked betrayed by everybody.
 
-Saw Coco run.
+Richeh finally set the pen down.
 
-He could follow.
+The provisional Arrival House had a roof now.
 
-He didn't.
+Not a building yet.
 
-Good.
+A roof.
 
-Not every important reunion needed him as witness.
+Tables.
 
-The Searcher who brought the report pointed them toward the east road.
+Temporary beds.
 
-Richeh had refused to approach the settlement until someone she named came.
+A board with names.
 
-Reasonable.
+A curtain system Fern hated but admitted worked.
 
-Coco ran anyway.
+It was exactly the kind of place where "guest" stopped sounding like rejection.
 
-Halfway there she started crying.
+Richeh had kept that status since G5.
 
-This annoyed her.
+Guest.
 
-She kept running.
+Not because she wanted to leave.
 
-Richeh appeared near the bend.
+Because arriving beside Coco did not answer every question about the life she wanted.
 
-One bag.
+That was allowed.
 
-Hat.
+Coco knew that intellectually.
 
-Tired.
+Her body did not.
 
-Real.
-
-Both stopped.
-
-For one second, neither moved.
-
-Coco needed visual proof to cross the last distance.
-
-Richeh did too.
-
-Then Coco screamed:
-
-"RICHEH!"
-
-Ran.
-
-Richeh barely braced.
-
-Impact moved both backward.
-
-Coco grabbed her.
-
-Shoulders.
-
-Sleeves.
-
-Hat nearly fell.
-
-Questions came before breathing.
-
-"How long—where were you—are you hurt—did you see anyone—do you know where—"
-
-Richeh:
+Richeh could see it every time rooms came up.
 
 "Coco."
 
-"Are you okay?"
+"I'm not trying to pressure you."
 
-"Coco."
+"I know."
 
-"I thought—"
+"I just—"
 
-"Coco."
+"I know."
 
-"What?"
+Coco stopped.
 
-Richeh hugged her properly.
+Richeh looked toward the half-built settlement.
 
-Coco stopped speaking.
+People moving.
 
-Then cried harder.
+Children using a path nobody had designed.
 
-Richeh's hand tightened at her back.
+Jinshi arguing with Fern about intake flow.
 
-"I'm here."
+Senku nowhere near the current problem for once.
 
-Simple.
+Tetia talking to three people at the same time.
 
-No explanation of Continuum.
+A life.
 
-No reunion speech.
+Richeh liked it.
 
-Body.
+That was part of why the decision felt large.
 
-Voice.
+"I don't want to choose because I'm afraid you'll think leaving later means I changed my mind about you."
 
-Here.
-
-Qifrey arrived minutes later.
-
-Stopped before approaching.
-
-Richeh saw him.
-
-Her face changed differently.
-
-Coco's reunion had been collision.
-
-Qifrey's became stillness.
-
-He walked closer.
+Coco's face fell.
 
 "Richeh."
 
-She looked like she might make a joke.
+"And I don't want to choose because you're scared."
 
-Didn't.
+Coco sat beside her.
 
-Qifrey put one hand on her head.
-
-Then pulled her into him.
-
-Quiet.
-
-Agott stood several steps away.
-
-Richeh saw her over Qifrey's shoulder.
-
-"Agott."
-
-Agott's face did something she would deny later.
-
-Richeh opened one arm.
-
-Agott:
-
-"No."
-
-Richeh waited.
-
-Agott moved in anyway.
-
-Four people in the road.
-
-No audience required.
-
-Eventually practical questions arrived.
-
-Injury?
-
-No major.
-
-Food?
-
-Some.
-
-Anyone following?
-
-Maybe.
-
-Route?
-
-Complicated.
-
-Settlement?
-
-Richeh looked past them.
-
-"You live there?"
-
-Coco laughed through tears.
-
-"Now we do."
-
-The sentence held months of life Richeh had not seen.
-
-That realization reached both.
-
-Reunion did not restore a paused world.
-
-Coco had changed.
-
-Richeh had changed.
-
-They walked toward a place neither had imagined together.
-
-Coco kept hold of Richeh's sleeve.
-
-Not because Continuum literally stole people who let go.
-
-Because bodies remembered fear after evidence changed.
-
-At the settlement edge, Mau saw them from a distance.
-
-He waved.
-
-Coco did not notice.
+Not touching.
 
 Good.
 
-The scene belonged to her.
+"What do you want?"
+
+Richeh looked at the circle again.
+
+"Today?"
+
+"Today."
+
+"Guest."
+
+Coco nodded.
+
+It hurt.
+
+She let it.
+
+"Okay."
+
+Richeh's shoulders lowered.
+
+Then Coco added:
+
+"You can still use my thread."
+
+Richeh smiled.
+
+"Obviously."
+
+That afternoon they went to the old inn.
+
+Not reunion.
+
+They had already had that.
+
+This was history.
+
+Coco showed her the marks under the table.
+
+The stair that complained.
+
+The window Bocchi liked.
+
+The place Mau used to leave tools and pretend he would remember where.
+
+Richeh had seen some of it during G5 chaos.
+
+Now she saw it without crisis.
+
+Different.
+
+"This was home," she said.
+
+Coco looked around.
+
+"Still is."
+
+Not default anymore.
+
+Still.
+
+Richeh understood the settlement better after that.
+
+Home here could be plural.
+
+Maybe status could too.
+
+On the walk back, Richeh asked:
+
+"If I move into a room, can I still be a guest?"
+
+Coco started to answer too quickly.
+
+Agott, behind them:
+
+"Yes."
+
+Both looked.
+
+Agott continued walking.
+
+"Status is not a blood oath."
+
+Richeh laughed.
+
+Coco laughed too.
+
+At dinner, Fern updated the board.
+
+RICHEH — GUEST / ROOM USE APPROVED.
+
+Not permanent resident.
+
+Not departure.
+
+A practical middle state.
+
+Richeh looked at it.
+
+"Ugly."
+
+Fern:
+
+"Accurate."
+
+Good.
+
+The settlement learned another small rule:
+
+Giving someone a bed was not the same as claiming their future.

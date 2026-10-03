@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 15 — Relief First
+## Chapter 16 — Relief First
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 15  
+**Reading order:** 16  
 **Continuity state:** Return night | Mau: wakes late | Frieren relief precedes anger
 
 Mau woke to Frieren holding his hand.

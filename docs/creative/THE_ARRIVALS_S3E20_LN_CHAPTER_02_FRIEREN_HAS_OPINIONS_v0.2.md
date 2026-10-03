@@ -4,17 +4,19 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
 **Reading order:** 14  
-**Continuity state:** Move Day 3 | Mau/Frieren room being settled
+**Continuity state:** Move Day 3 | Mau/Frieren settle their room through ordinary conflict
 
 Frieren had claimed not to care about rooms.
 
-Lie.
+This was a lie.
 
-Mau learned this while moving a shelf.
+Mau discovered it while moving a shelf.
 
 "Not there."
 
 He stopped.
+
+Looked at her.
 
 "You said you didn't care."
 
@@ -24,7 +26,7 @@ He stopped.
 
 "Light."
 
-Mau moved it.
+Mau moved the shelf.
 
 "Here?"
 
@@ -40,25 +42,149 @@ Mau moved it.
 
 Mau stared.
 
-Frieren took one of his shirts from a box.
+Frieren stared back.
+
+Relationship diplomacy failed.
+
+He moved the shelf again.
+
+"Here."
+
+Frieren considered.
+
+"Maybe."
+
+Mau sat on the floor.
+
+"That's worse than no."
+
+Frieren ignored him.
+
+She opened a box.
+
+Pulled out one of Mau's shirts.
 
 Put it on.
 
-"Where?"
+Mau pointed.
 
-She pointed.
+"That's mine."
 
-East wall.
+Frieren continued unpacking.
 
-Mau moved the shelf.
+"We settled this."
 
-Frieren approved.
+"We did not."
 
-Victory.
+"You lost."
 
-Then she moved Mau's books.
+"There was no formal process."
 
-He objected.
+Frieren placed another shirt in her own pile.
+
+Mau laughed.
+
+The room became theirs by accumulation.
+
+Not ceremony.
+
+His backpack under the bed.
+
+Blue thread in a dish near the window.
+
+Recovered cap on a hook.
+
+Frieren's books taking more shelf space than physically reasonable.
+
+Mau's notes stacked badly.
+
+One stone Coco had given them.
+
+A cup neither remembered choosing.
+
+No curtain yet.
+
+That remained offensive.
+
+Mau hung cloth temporarily.
+
+Crooked.
+
+Frieren corrected it.
+
+Mau looked at her.
+
+"You care."
+
+"About not living badly."
+
+"That's caring."
+
+"No."
+
+He moved a small table.
+
+Frieren stopped him.
+
+"Why there?"
+
+"Because I want somewhere to write."
+
+"Light is bad."
+
+"You said that about the shelf."
+
+"Same sun."
+
+Mau looked toward the window.
+
+"I hate that you're correct."
+
+They moved it.
+
+In the old inn, room arrangement had mostly happened accidentally.
+
+Space inherited.
+
+Objects accumulated.
+
+This room required choices.
+
+Where do you sleep?
+
+Where do you put things?
+
+What side is yours?
+
+Do sides exist?
+
+Mau noticed he was waiting for Frieren's approval on every decision.
+
+Memory Arc aftershock.
+
+He stopped.
+
+"Where do you want your things?"
+
+Frieren pointed.
+
+Mau looked.
+
+Then:
+
+"Okay."
+
+He did not optimize around her.
+
+Did not move his things preemptively.
+
+Frieren noticed.
+
+No comment.
+
+Later, Frieren moved one of his books.
+
+Mau objected immediately.
 
 "You don't read those."
 
@@ -72,32 +198,68 @@ He objected.
 
 "My books."
 
+Mau stared at the shelf.
+
+Frieren's books had colonized it.
+
+"This is imperialism."
+
+Frieren put another book down.
+
+"Yes."
+
 Mau laughed.
 
-The room became theirs through argument.
+By evening, the room looked lived in.
 
-No ceremonial declaration.
+Barely.
 
-His backpack went under the bed.
+Bed.
 
-The blue thread stayed in a small dish near the window.
+Books.
 
-The recovered cap sat on a hook.
+Clothes.
 
-Frieren's belongings mixed with his without asking permission from taxonomy.
+Objects.
 
-That was not the same as agency violation.
+Two people disagreeing about a shelf.
 
-It was a relationship routine both had lived into.
-
-Mau looked around.
+Mau stood in the doorway.
 
 "Home?"
 
 Frieren considered.
 
+Long enough to prove she was taking it seriously.
+
 "Room."
+
+Mau nodded.
 
 Fair.
 
-Home could take longer.
+A room could become theirs before the settlement became home.
+
+That distinction felt healthy.
+
+At night, Mau woke once.
+
+No panic this time.
+
+He saw the shelf.
+
+Wrong place according to yesterday.
+
+Correct place according to Frieren.
+
+He knew where he was.
+
+New room.
+
+Frieren sleeping beside him wearing his shirt.
+
+Mau smiled.
+
+Identity through theft.
+
+Reliable.

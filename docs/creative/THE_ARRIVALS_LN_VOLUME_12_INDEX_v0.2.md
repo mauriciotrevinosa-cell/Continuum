@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 12 Index v0.2
 
-**Status:** ACTIVE REBUILD READER ORDER  
+**Status:** ACTIVE MERGED READER ORDER — PROSE PASS COMPLETE  
 **Volume:** 12  
 **Season:** 3  
 **Volume title:** **The Second Road**  

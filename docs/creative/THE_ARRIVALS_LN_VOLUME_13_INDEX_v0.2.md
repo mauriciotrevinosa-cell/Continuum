@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 13 Index v0.2
 
-**Status:** ACTIVE REBUILD READER ORDER  
+**Status:** ACTIVE REBUILD READER ORDER — PROSE EXPANSION IN PROGRESS  
 **Volume:** 13  
 **Season:** 3  
 **Volume title:** **Bring Him Back**  
 **Chapter count:** 27  
-**Supersedes:** Volume 13 v0.1 for S3 v0.2 reader order.
+**Supersedes:** Volume 13 v0.1 for S3 v0.2 continuity.
 
 | # | Chapter |
 |---:|---|
@@ -17,7 +17,7 @@
 | 6 | Home Again |
 | 7 | Frieren and Ori |
 | 8 | The Body Doesn't Settle |
-| 9 | Rimuru Asks Frieren |
+| 9 | The Questions Rimuru Starts Asking |
 | 10 | Not Yet |
 | 11 | Worse |
 | 12 | Clear Window |
@@ -37,14 +37,37 @@
 | 26 | The Date We Know Happened |
 | 27 | Looks Fine Is Not Fine |
 
-## Handoff to The Move
+## Current prose-pass note
 
-- dominant Memory crisis is de-escalated, not cured;
-- The Noise is now only a working label discovered during containment;
-- memory manipulator and The Noise remain distinct unresolved phenomena;
-- Mau still has physical recovery limits;
-- Rem/Kaneki/Aira have explicit post-rescue statuses;
-- G5 remains population with tracked status;
+Chapters 1–14 now use the corrected lived progression:
+
+```text
+larger search group reaches Mau
+-> cannot move him yet
+-> field-night care
+-> Rem/Kaneki/Aira remain essential witnesses
+-> alternating lucidity / recognition failure
+-> conditional transport threshold
+-> slow road home
+-> physical return to inn without cognitive reset
+-> gradual lucid windows over days
+-> Rimuru begins with questions and pattern observation
+-> containment hypothesis emerges
+-> initial refusal / consent problem
+-> clear-window consent
+-> Frieren's separate trust decision
+-> containment
+-> Raphael gains new observational access
+```
+
+Chapters 15–27 still require the same full-prose expansion standard before Volume 13 is considered prose-complete.
+
+## Handoff continuity lock
+
+- dominant Memory crisis de-escalates gradually, not instantly;
+- The Noise remains only a working label first made observable under containment;
+- memory manipulation and The Noise remain unresolved as same/separate phenomena;
+- Mau keeps physical and cognitive recovery limits;
+- Rem/Kaneki/Aira remain characters after rescue;
 - old inn remains current home;
-- future site is only now approaching true habitability;
-- household has decided to plan a staged move.
+- future site remains worksite until V14 The Move.

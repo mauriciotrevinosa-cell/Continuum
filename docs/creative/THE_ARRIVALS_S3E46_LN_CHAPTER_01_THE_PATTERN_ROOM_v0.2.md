@@ -5,7 +5,13 @@
 **Volume:** 18  
 **Reading order:** 1
 
-The evidence moved into its own room.
+The evidence moved into its own room because the common-room wall ran out of space.
+
+That was less dramatic than calling it an investigation chamber.
+
+Anko preferred it.
+
+The room had one locked cabinet.
 
 Not secret.
 
@@ -13,62 +19,237 @@ Protected.
 
 Different.
 
-Anko organized:
-- registration orders;
-- maps;
-- detention notices;
-- message distortions;
-- route closures;
-- witness accounts;
-- copied language;
-- dates.
+Most of the walls were paper.
 
-Diablo added intent observations where he could.
+Registration orders.
 
-Senku labeled them:
+Detention notices.
+
+Maps.
+
+Road closures.
+
+Witness accounts.
+
+Copies of the unity message.
+
+Copies of distorted copies.
+
+Dates.
+
+Seals.
+
+Courier names.
+
+Known routes.
+
+Unknown routes.
+
+A string system Momo kept calling conspiracy yarn.
+
+Anko removed the yarn twice.
+
+It returned.
+
+No one admitted responsibility.
+
+Mau suspected Momo.
+
+Momo accused Diablo.
+
+Diablo looked offended by low craftsmanship.
+
+The first rule of the room was written above the largest board.
+
+PATTERN IS NOT IDENTITY.
+
+The second:
+
+COPYING IS NOT AUTOMATICALLY CENTRAL CONTROL.
+
+The third came from Senku:
+
+DO NOT FALL IN LOVE WITH YOUR THEORY.
+
+Mau hated that one.
+
+"Why are you looking at me?"
+
+Senku:
+
+"Statistics."
+
+There were now six regional documents using:
+
+> uncontrolled concentration of foreign capability
+
+Four used:
+
+> temporary relocation pending capability assessment
+
+Three shared the same wrong river bend.
+
+Two listed a town under an old name no longer used locally.
+
+That last detail came from a native courier.
+
+Important.
+
+Without local knowledge, the error looked meaningless.
+
+Anko marked it.
+
+POSSIBLE SHARED SOURCE PACKET.
+
+Not:
+same mastermind.
+
+Diablo contributed differently.
+
+He had met people delivering some orders.
+
+One captain believed the words.
+
+One clerk feared consequences for refusing.
+
+One official sounded rehearsed.
+
+One messenger did not understand the document at all.
+
+Diablo described intention.
+
+Senku wrote beneath:
 
 NON-MEASURABLE / STILL USEFUL.
 
-Diablo objected.
+Diablo stared at label.
 
-Then accepted.
+"You have reduced my judgment to a note."
 
-Same phrases across regions.
+"Correct."
 
-Same cartographic mistakes.
+"My judgment is exceptional."
 
-False stories preceding restrictions.
+"Still not instrument data."
 
-Restrictions preceding disappearances often enough to matter.
+Rimuru covered a laugh.
 
-Not always.
+Diablo eventually accepted the label.
 
-Good.
+Barely.
 
-If every event fit perfectly, someone would be forcing the evidence.
+The Pattern Room grew because information disagreed.
 
-Mau stared at the board.
+That was healthy.
 
-"Can we prove one source?"
+One region tightened movement before receiving the standardized phrase.
+
+Another received phrase before any local incident.
+
+One detention followed a real violent event.
+
+Another had no documented trigger.
+
+If every event fit perfectly, Anko would trust the board less.
+
+Reality produced noise.
+
+Manipulation, if present, lived inside it.
+
+Mau stood before route disappearances.
+
+Five dots.
+
+"These happened after restrictions."
+
+"Most," Anko said.
+
+"Enough to matter?"
+
+"Yes."
+
+"Enough to prove the restrictions caused them?"
 
 "No."
 
-"Coordination?"
+He exhaled.
 
-"Some."
-
-"Intent?"
-
-"Some."
-
-"Who?"
-
-"No."
+Evidence remained emotionally unsatisfying.
 
 Good.
 
-The season still did not get its mastermind because a board looked dramatic.
+Then Searcher brought a copied map.
 
-They had pattern.
+Same wrong bend.
+
+Different paper.
+
+Different ink.
+
+Courier remembered receiving it from a regional packet distributor.
+
+Name?
+
+Unclear.
+
+Office?
+
+Maybe.
+
+They had first tangible chain.
 
 Not identity.
+
+A route.
+
+Anko pinned.
+
+Everyone leaned closer.
+
+Mau:
+
+"So we follow it."
+
+Searchers:
+
+"Carefully."
+
+No dramatic hunt began.
+
+Instead:
+verify office.
+ask native contacts.
+compare dates.
+find who else received packet.
+
+Slow.
+
+At dinner, Momo asked:
+
+"So is there a mastermind?"
+
+Anko:
+
+"We have coordination in some places."
+
+"That's not my question."
+
+"It's the answer."
+
+Momo groaned.
+
+The room existed partly to protect them from satisfying answers.
+
+Outside, defense markers were being checked.
+
+Inside, fear had become paper.
+
+The city now knew something important:
+
+someone—or several someones—had helped different regions learn the same language for them.
+
+It still did not know who.
+
+That uncertainty would survive the battle.
+
+It needed to.

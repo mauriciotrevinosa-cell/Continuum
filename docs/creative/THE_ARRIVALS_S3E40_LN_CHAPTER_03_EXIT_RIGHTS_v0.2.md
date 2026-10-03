@@ -5,7 +5,7 @@
 **Volume:** 17  
 **Reading order:** 11
 
-The proposal:
+The proposal sounded harmless.
 
 Log everyone leaving after dark.
 
@@ -13,23 +13,45 @@ Reason:
 
 rescue.
 
-Eren asked:
+If someone vanished, Searchers would know where to start.
+
+Fern liked practical value.
+
+Mikasa too.
+
+Eren asked one word.
 
 "Mandatory?"
 
 Silence.
 
-Mikasa understood before anyone else.
+The room changed.
 
-"If someone doesn't return, route logs help."
+Rimuru:
 
-"Yes."
+"Recommended."
 
-"Do I need permission to leave?"
+"Proposal says log everyone."
+
+Good catch.
+
+Anko looked at draft.
+
+It did.
+
+Eren leaned back.
+
+"If I leave at midnight, do I need permission?"
 
 "No."
 
-"Then why mandatory?"
+"Then what happens if I refuse the log?"
+
+Nobody answered fast enough.
+
+There.
+
+A rescue tool could become permission without saying permission.
 
 A refugee resident objected.
 
@@ -37,38 +59,137 @@ A refugee resident objected.
 
 True.
 
-Eren:
+Another:
 
-"If it's mandatory, when does a rescue log become permission without using the word?"
+"If my abusive relative reaches the city, I may not want destination written somewhere."
 
 Also true.
 
-They wrote limits.
+Searchers needed info.
+
+People needed privacy.
+
+They split problem.
 
 No permission required to exit.
 
-Route declaration strongly recommended during elevated alerts.
+Voluntary route declaration standard.
 
-Certain emergency zones may close temporarily for specific threats.
+Anonymous route token possible for privacy:
+someone leaves toward east corridor;
+identity sealed unless search triggered.
 
-Closures require reason.
+Nano proposed.
 
-Review point.
+Eren looked surprised.
 
-Named authority.
+Good.
 
-Logs expire automatically unless attached to active search/incident.
+During elevated alerts, declaration strongly recommended.
 
-Mikasa supported every line.
+Still no approval requirement unless route itself temporarily closed due specific threat.
+
+Closures require:
+reason;
+start time;
+named authority;
+review time;
+public notice;
+end condition.
+
+Logs:
+expire automatically;
+not used for residency discipline;
+not shared outside search/safety without consent or specific harm investigation.
+
+Momo:
+
+"We made leaving paperwork."
+
+Eren:
+
+"Better than making staying prison."
+
+No one argued.
+
+Test came same week.
+
+One resident refused route log.
+
+Left.
+
+Returned next morning.
+
+Nothing happened.
+
+Important.
+
+System survived refusal.
+
+Another resident volunteered route.
+
+Did not return on time.
+
+Searchers used it.
+
+Found cart axle broken.
+
+Rescue tool worked.
+
+Both cases needed to exist.
+
+Mikasa supported every limit.
 
 Eren noticed.
 
-Later:
+Later, at road:
 
 "Why?"
 
-Mikasa looked at the road.
+Mikasa knew question.
 
-"Because safety can become a habit after the danger leaves."
+"Because safety can become habit after danger leaves."
 
-Eren carried that sentence into later arguments.
+Eren stared at route marker.
+
+Walls had been habit too.
+
+Curfew.
+
+Orders.
+
+Restrictions.
+
+All easier to begin than end.
+
+"You think this place could become that."
+
+"Any place can."
+
+Eren looked at her.
+
+Not comforting.
+
+Honest.
+
+He signed voluntary route log that night when leaving to walk alone.
+
+Destination:
+sea-facing ridge.
+
+Return:
+before dawn.
+
+Then looked at clerk.
+
+"I could refuse."
+
+"Yes."
+
+He nodded.
+
+Went.
+
+Freedom was not absence of systems.
+
+Sometimes it was systems proving they could survive being told no.

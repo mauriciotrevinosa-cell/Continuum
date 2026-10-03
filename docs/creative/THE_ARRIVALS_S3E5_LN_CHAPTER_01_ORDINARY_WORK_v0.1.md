@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 13 — Ordinary Work
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 13  
 **Source episode:** S3E5 — `Ordinary Work`
@@ -29,6 +29,28 @@ One needed verification.
 
 Mau spent the morning at the old inn because Maomao had decided lack of sleep qualified as a medical problem even if the patient complained about terminology.
 
+Her instructions were annoyingly specific.
+
+No route work.
+
+No climbing.
+
+No "quick check" at the site.
+
+Food before noon.
+
+Water where she could see the level fall.
+
+"If you are bored," Maomao had said, "be bored."
+
+Mau had stared at her.
+
+"Medically?"
+
+"Preferably."
+
+That was how the person who normally inserted himself into every unfinished problem ended up with a cup, a chair, and absolutely no crisis permission.
+
 Rimuru went to the site.
 
 Qifrey went with him.
@@ -40,6 +62,26 @@ Wakana took measurements for work clothes nobody had asked for and everyone even
 Mikasa led the verification team.
 
 Life continued without waiting for Mau's head to become reliable.
+
+Rimuru sent one note before noon:
+
+FOUND A BETTER STONE SOURCE. NOT YOUR JOB.
+
+Mau turned the paper over.
+
+Blank.
+
+He looked at Frieren.
+
+"He's mocking me."
+
+"Yes."
+
+"Do you want to defend him?"
+
+"No."
+
+That somehow made it worse.
 
 <!-- scene-id: s3e5-ln01-home -->
 
@@ -124,3 +166,33 @@ Then guilty.
 Then comforting again.
 
 Both could be true.
+
+Mikasa gave the route report without asking Mau to approve it.
+
+West road: avoid.
+
+North cut: safe for people, not carts.
+
+Registration patrols farther west: confirmed by two travelers, purpose still unclear.
+
+Mau listened.
+
+"Anything I need to do?"
+
+Mikasa looked at him.
+
+"No."
+
+The answer landed harder than it should have.
+
+Not rejection.
+
+Role boundary.
+
+Mau nodded.
+
+"Okay."
+
+The city moved anyway.
+
+That might have been the healthiest thing anyone could show him.

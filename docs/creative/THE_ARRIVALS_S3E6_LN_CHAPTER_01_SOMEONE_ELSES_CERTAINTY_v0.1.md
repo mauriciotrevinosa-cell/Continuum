@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 16 — Someone Else's Certainty
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 16  
 **Source episode:** S3E6 — `Someone Else's Certainty`
@@ -77,6 +77,18 @@ Himmel looked at Mau.
 
 The false memory was cruel because it had not invented the conversation.
 
+Himmel supplied details Mau had not offered.
+
+The west-side tiles had already been stacked.
+
+Frieren had carried a book she never opened.
+
+Fern had called from inside once.
+
+Mau remembered all three.
+
+Physical scaffolding: real.
+
 It had rewritten one sentence inside a real one.
 
 The setting.
@@ -104,6 +116,18 @@ Something lower.
 If the memory could make him believe Frieren's choice depended on timing—
 
 What else could it make him believe?
+
+That someone resented him?
+
+That a promise had been made?
+
+That a warning existed?
+
+That a place had been designated safe?
+
+A false cup was frightening.
+
+A false instruction could move his body.
 
 Frieren crouched in front of him.
 
@@ -137,6 +161,32 @@ Mau heard himself say:
 
 "I need air."
 
+Himmel moved first.
+
+Then stopped when Mau said:
+
+"Please."
+
+Space.
+
+Frieren loosened her hand.
+
+Mau walked only to the yard.
+
+He stood beside the rain barrel until the dizziness passed.
+
+Frieren remained visible through the doorway.
+
+Six minutes later he came back inside.
+
+Everyone relaxed.
+
+That small return became evidence against the danger they did not yet understand.
+
 Nobody stopped him.
 
-They should have.
+Later they would remember that choice too harshly.
+
+The mistake was not giving Mau air.
+
+The mistake was not yet knowing that certainty itself had become a route something could exploit.

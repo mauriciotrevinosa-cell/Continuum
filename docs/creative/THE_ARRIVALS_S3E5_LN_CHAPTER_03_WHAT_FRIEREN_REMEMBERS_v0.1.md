@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 10
 ## Chapter 15 — What Frieren Remembers
 
-**Status:** LN PRODUCTION DRAFT  
-**Version:** 0.1  
+**Status:** LN PRODUCTION DRAFT — ACTIVE MERGED TEXT  
+**Version:** legacy v0.1 path — post-v0.2 merged text  
 **Volume:** 10  
 **Reading order:** 15  
 **Source episode:** S3E5 — `Ordinary Work`
@@ -71,6 +71,14 @@ Mau continued.
 
 The certainty in her voice frightened him more than anger would have.
 
+Frieren almost never used certainty to win an argument.
+
+She was not saying she remembered better.
+
+She was saying that sentence was not hers.
+
+Mau had to let another person remain authority over her own words even when his memory contained a version of her saying them.
+
 "I remember it."
 
 "I know."
@@ -109,6 +117,14 @@ The real memory and the wrong memory occupied the same evening.
 
 Like someone had used an existing room and changed one piece of furniture.
 
+Worse, the changed piece fit.
+
+Frieren had loved Himmel deeply.
+
+The false memory had selected something Mau could imagine being true and placed it inside a real evening.
+
+That made rejecting it feel less like correcting a mistake and more like amputating part of himself.
+
 <!-- scene-id: s3e5-ln03-firstproof -->
 
 Frieren put her hand over his.
@@ -134,5 +150,21 @@ Mau squeezed Frieren's hand.
 "Do you remember it that way too?"
 
 "No."
+
+Mau looked at their hands.
+
+"What if one day you remember it differently?"
+
+Frieren thought.
+
+"Then we compare again."
+
+Not: I decide reality for you.
+
+Not: you trust yourself alone.
+
+Compare.
+
+Mau could tolerate that word.
 
 The question would survive long after the answer.

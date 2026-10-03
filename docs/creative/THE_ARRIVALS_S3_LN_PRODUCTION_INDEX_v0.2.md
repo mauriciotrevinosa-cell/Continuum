@@ -3,7 +3,7 @@
 **Status:** ACTIVE CONTINUITY CANON — FULL-PROSE EXPANSION IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **244**  
+**Reader-order chapters:** **249**  
 **Volumes:** **10–19**
 
 ## Important production correction — 2026-10-02
@@ -40,7 +40,7 @@ Do not call S3 "complete" until the scene-density expansion pass finishes.
 | 16 | What the Message Changes | 24 | v0.2 |
 | 17 | Freedom and Walls | 24 | v0.2 |
 | 18 | Last Defense | 27 | v0.2 |
-| 19 | What Would You Choose? | 35 | v0.2 |
+| 19 | What Would You Choose? | 40 | v0.2 |
 
 ## Critical version rule
 
@@ -75,17 +75,21 @@ The second-disappearance rescue runway now explicitly lives through:
 - Frieren's separate trust decision;
 - The Noise becoming observable only after containment changes access conditions.
 
+### Full-prose pass now cleared at critical-path level
+
+- V11 false-stability ending;
+- V12 second-road / monster / collapse / field-rescue runway;
+- V13 field recovery / containment / reconstruction / ordinary recovery;
+- V14 The Move in full lived progression;
+- V19 core Goddess Trial accumulation / post-Trial trauma / backdoor-deal motivation / interception.
+
 ### Still requiring full-prose expansion
 
-- parts of V11 first-rescue / false-stability runway;
-- early V12 travel/search chapters before Rem/Kaneki/Aira converge;
-- V13 post-containment reconstruction / recovery chapters;
-- V14 The Move;
-- V15 Arrival House / refuge / unity consequences;
+- remaining V15 Arrival House / refuge / unity consequences beyond the already-expanded opening institutional cases;
 - V16 hybrid-city development;
 - V17 Eren / freedom / civic-law blocks;
 - V18 Last Defense / later Noise overload;
-- V19 Goddess Trial / Return-Stay / interception.
+- remaining non-core V19 Return/Stay community-processing chapters.
 
 The continuity order remains active while prose density is upgraded.
 

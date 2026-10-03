@@ -7,73 +7,232 @@
 
 "Bad equation."
 
-Senku walked to the board.
+Senku wrote:
+
+1 MAU = 300 PEOPLE
+
+Then crossed entire line out.
 
 The resident stared.
 
-"One versus hundreds assumes those are variables."
+"That's what I asked."
 
-Point one:
-no evidence threat only wants Mau.
+"No."
 
-Point two:
-no evidence surrender stops it.
+Senku turned.
 
-Point three:
-unknown effect if Mau removed.
+"That's what fear compressed the question into."
 
-Point four:
-unknown truthfulness of threat.
+Point one.
 
-Point five:
-surrendering residents under pressure changes future threat incentives.
+No evidence any future threat only wants Mau.
 
-Senku pointed at Mau.
+Point two.
 
-"You're treating an unverified hypothetical as closed optimization."
+No evidence surrendering Mau stops attack.
 
-Mau looked at him.
+Point three.
 
-No sentimental speech.
+No evidence threat tells truth.
 
-Good.
+Point four.
 
-The resident asked:
+Unknown effects if Mau is removed.
+
+Noise.
+
+Construction.
+
+Goddess-adjacent weirdness.
+
+Relationships.
+
+Potential escalation.
+
+Point five.
+
+If the settlement demonstrates residents can be surrendered under pressure, future attackers learn that coercion works.
+
+Senku circled last.
+
+"Now your one-versus-hundreds becomes maybe-one-plus-future-hundreds."
+
+The resident looked frustrated.
 
 "So we never consider it?"
 
 "Consider evidence."
 
-Senku lowered his hand.
+Senku put chalk down.
 
 "Not people as consumable infrastructure."
 
 Silence.
 
+Mau looked at him.
+
+No sentimental speech.
+
+That helped.
+
 Frieren's shoulders lowered.
 
-Eren finally spoke.
+Eren leaned forward.
 
-"And if the evidence really becomes one or hundreds?"
+"And if evidence really becomes one or hundreds?"
 
-No easy answer.
+The room tightened again.
 
-Senku looked at him.
+Senku did not dodge.
 
-"Then we solve that problem when it actually exists, with everyone whose life is being used in the equation."
+"Then it's a different problem."
 
-Agency.
+"What's the answer?"
 
-Again.
+"I don't know."
 
-Outside, a Searcher arrived carrying another copied map.
+Eren almost smiled.
+
+Good.
+
+Senku looked at Mau.
+
+"And neither does he get to answer alone because he's the one."
+
+Mau nodded.
+
+The resident:
+
+"Why not? It's his life."
+
+Frieren:
+
+"Because the threat would be using everyone else's lives to pressure his choice."
+
+There.
+
+Coercion contaminated consent.
+
+Mau:
+
+"And if I say yes because I can't stand watching you all risk it, that's not automatically a clean choice."
+
+He knew.
+
+Sukuna.
+
+The resident looked at children through open door.
+
+"So what do we do?"
+
+Rimuru answered:
+
+"Verify."
+
+Mikasa:
+
+"Defend."
+
+Anko:
+
+"Negotiate if useful."
+
+Searchers:
+
+"Find alternatives."
+
+Frieren:
+
+"Do not begin by handing someone over."
+
+Senku:
+
+"And if all alternatives fail, then we face the actual evidence together."
+
+No promise nobody would ever sacrifice.
+
+No fantasy that impossible choices never happened.
+
+Only refusal to manufacture one early because arithmetic felt clean.
+
+Mau looked at crossed equation.
+
+One for hundreds.
+
+He understood why it tempted people.
+
+He also understood something worse:
+
+if enough residents began seeing his death as an ordinary emergency lever, Mau might start seeing it that way too.
+
+That was the real danger.
+
+Not one frightened parent.
+
+A culture.
+
+Frieren knew.
+
+She looked at council.
+
+"We need to stop saying he'll be in front as if that's infrastructure."
+
+Mikasa nodded.
+
+Defense protocols would assign roles by function.
+
+No name permanently attached to last line.
+
+If Mau served there, it would be because that event required him and he agreed.
+
+Not because city assumed.
+
+The resident who asked stood again.
+
+"I didn't mean—"
+
+Mau:
+
+"I know."
+
+This time Frieren did not object.
+
+Because they had examined it.
+
+Embarrassment had done its work.
+
+Outside, a Searcher arrived with a copied regional map.
 
 Same wrong river bend.
 
+Anko took it.
+
+Another document.
+
 Same phrase.
 
-The pattern behind fear was getting harder to dismiss.
+> uncontrolled concentration of foreign capability
 
-Volume Seventeen ended with defense plans on one table and Mau's life accidentally discussed like a resource on another.
+Room shifted from hypothetical sacrifice back to world producing pressure.
 
-A place worth attacking had been built.
+Senku looked at map.
+
+"Someone or something is standardizing the fear."
+
+Anko:
+
+"Still not enough for one actor."
+
+"Enough for pattern."
+
+Yes.
+
+Volume Seventeen ended with two things on the same table:
+
+a defense system designed not to become a cage;
+
+and a crossed-out equation that had tried to turn Mau into a civic resource.
+
+The city had become worth protecting.
+
+Now it had to prove it could protect itself without consuming the person everyone expected to stand in front.

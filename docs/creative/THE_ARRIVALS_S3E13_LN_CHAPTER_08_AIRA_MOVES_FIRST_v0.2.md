@@ -4,118 +4,184 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 18  
-**Continuity state:** Day 11 — afternoon | Field stabilization / relocation from exposed shelter
+**Continuity state:** Day 11 — afternoon | Exposed shelter failing | Field relocation under instability
 
-The overhang was no longer safe.
+The rock overhang started shedding dirt.
 
-Rain had loosened soil above it.
+Rem noticed first.
 
-Rem saw the first small slide.
+A thin line of wet soil slid down the back wall.
 
-Kaneki saw the structure react.
+Then another.
 
-Aira saw all of them looking.
+Aira looked up.
 
-"So we move."
+"No."
 
-Ori looked at Mau.
+Ori followed her eyes.
 
-"He can't walk."
-
-"Then he doesn't."
-
-Simple.
-
-Not easy.
-
-The kagune-like growth reacted when someone approached from behind.
-
-Ori could touch Mau.
-
-Kaneki could get close from one side.
-
-Rem from the other.
-
-Aira had the worst angle.
-
-She took it.
-
-"Talk to him," Kaneki said.
-
-"About what?"
-
-"Anything."
+"Can we stay until he wakes?"
 
 Aira looked at Mau.
 
-His eyes were half-open.
+He had been awake five minutes ago.
 
-"You owe me shoes."
+Now his breathing had dropped into the slow, frightening rhythm of someone too exhausted to wake properly.
 
-Mau frowned.
+"No."
 
-"What?"
+Rem agreed.
 
-"Mud."
+Kaneki did too.
 
-"I didn't—"
+They had no stretcher.
 
-"You're in mud."
+They had blankets.
 
-"That is not causation."
+Branches.
 
-"Good. Keep arguing."
+Cord.
 
-They moved.
+Aira started cutting before anyone formally decided.
 
-Three steps.
+Ori helped.
 
-The biological limb snapped toward Aira.
+Rem packed the few supplies worth carrying.
 
-She ducked.
+Kaneki remained beside Mau because the dark structure appeared whenever people crowded him from the wrong angle.
 
-Not gracefully.
+Aira tied one side of the improvised litter.
 
-It missed.
+"That's going to break."
 
-Aira swore.
+Kaneki looked.
 
-Mau tried to apologize.
+"Yes."
+
+"Helpful."
+
+"Double the knot."
+
+She did.
+
+They rolled Mau just enough to slide fabric beneath him.
+
+He woke halfway through.
+
+Not lucid.
+
+Hands grabbed at Rem's sleeve.
 
 "Don't."
 
-Another step.
+"We're moving you."
 
-"Save your brain."
+"No."
 
-"Medical?"
+"Mau," Ori said.
 
-"No. Personal."
+His head turned toward her.
 
-They got him onto firmer ground.
+"Where?"
 
-Aira's hands began shaking afterward.
+"Safer ground."
 
-Ori noticed.
+"No. Home."
+
+"We can't get home yet."
+
+His eyes widened.
+
+"Why?"
+
+Ori had answered this before.
+
+Too many times.
+
+"Because you're sick."
+
+Mau tried to sit.
+
+Pain and dizziness stopped him.
+
+Then the convulsion hit.
+
+Harder than the others.
+
+His shoulders locked.
+
+Jaw clenched.
+
+The dark structure burst outward.
+
+Aira had exactly enough time to move.
+
+One black limb cut across the litter and split a branch in half.
+
+"Great!"
+
+Nobody answered.
+
+Rem protected Mau's head from the ground.
+
+Ori kept saying his name.
+
+Kaneki moved with the structure rather than against it.
+
+"Don't pin him."
+
+"I'm not!"
+
+"His arm."
+
+Aira moved Mau's forearm away from the broken branch.
+
+The convulsion ended.
+
+Mau did not wake.
+
+For several seconds no one spoke.
+
+Rain ticked against leaves.
+
+Aira's hands shook.
+
+She stared at them.
+
+Ori saw.
 
 "You were scared."
 
-Aira looked offended.
-
 "Obviously."
 
-She sat down.
+Aira sat back on her heels.
 
 "Courage isn't a personality trait. It's scheduling."
 
-Ori laughed for the first time in days.
+Ori laughed.
+
+One small broken sound.
 
 Good.
 
-They built a better shelter.
+They rebuilt the litter.
 
-Not rescue complete.
+This time stronger.
 
-Field stabilized.
+Mau remained unconscious while four people lifted together.
 
-Mau lost consciousness again before sunset.
+The first twenty meters took ten minutes.
+
+The first hundred took almost an hour.
+
+They stopped whenever his breathing changed.
+
+They stopped when Rem said.
+
+They stopped when the dark structure surfaced.
+
+They stopped once because Ori nearly collapsed.
+
+Nobody called it slow.
+
+Slow was the reason he arrived at the second shelter alive.

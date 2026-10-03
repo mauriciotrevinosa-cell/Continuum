@@ -4,97 +4,163 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 17  
-**Continuity state:** Day 11 — afternoon | Mau semi-conscious | Kagune-like expression visible
+**Continuity state:** Day 11 — afternoon | Mau unstable / intermittent lucidity | Biological change visible
 
-Mau woke while Kaneki was looking at his back.
+The thing behind Mau did not move like a separate creature.
 
-Bad timing.
+That was the first useful observation Kaneki made.
+
+It reacted with him.
+
+Pulse accelerated.
+
+It flexed.
+
+Breathing changed.
+
+It pulled tighter.
+
+Aira approached from behind.
+
+It snapped toward her.
+
+Kaneki caught her shoulder and dragged her sideways.
+
+The dark limb struck dirt where her leg had been.
+
+Aira stared at the mark.
+
+"That would have hurt."
+
+"Yes."
+
+"Very informative."
+
+Mau gasped.
 
 His eyes opened.
 
-Focused on a stranger.
+This time they focused.
 
-Then the biological structure moved.
+Not well.
 
-Aira jumped backward.
+Enough.
 
-Rem shifted.
+He saw Ori first.
 
-Kaneki stayed.
+Then Rem.
 
-Mau saw all three reactions.
+Then Aira.
 
-His eyes found Ori.
+Then Kaneki.
 
-"Who?"
+His expression stopped.
 
-"Help."
+"I know you."
 
-Mau laughed weakly.
-
-"Specific."
-
-The kagune-like limb unfolded farther.
-
-Kaneki recognized patterns.
-
-Not identity.
-
-Not species certainty.
-
-Pattern.
-
-"Don't attack it."
-
-Aira looked at him.
-
-"It almost hit me."
-
-"Because you moved behind him."
-
-"That is not comforting."
-
-Mau tried to turn.
-
-Pain stopped him.
-
-Kaneki stepped into view.
-
-"My name is Kaneki."
-
-Mau went still.
-
-Ori did too.
-
-The copied notebook contained the approximate name Mau had spoken while unconscious.
-
-Mau stared.
-
-"I know that."
-
-Kaneki's expression changed.
+Kaneki felt something cold move through his chest.
 
 "We haven't met."
 
+Mau swallowed.
+
 "I know."
 
-"Do you?"
+Ori reached for the notebook.
 
-Mau closed his eyes.
+"Last night. He said something like your name."
+
+Kaneki looked at her.
+
+"What exactly?"
+
+"I wrote it."
+
+She showed him the page.
+
+KAN—
+
+A half-formed spelling beside a time.
+
+Before any of them had arrived.
+
+Mau shut his eyes.
 
 "No."
 
-Good answer.
+Ori leaned closer.
 
-The kagune flexed.
+"What?"
 
-Kaneki looked at it.
+"I don't want that."
+
+The dark limb twitched.
+
+Kaneki moved into Mau's field of vision.
+
+"My name is Kaneki."
+
+Mau opened his eyes again.
+
+Recognition without memory.
+
+Horrible combination.
+
+"I know."
+
+"You know my name."
+
+"I know your face."
+
+Kaneki had not expected that.
+
+"From where?"
+
+Mau's breathing sped up.
+
+"I don't know."
+
+The organic structure unfolded another few inches.
+
+Rem said:
+
+"Stop asking."
+
+Correct.
+
+Kaneki changed direction.
+
+"Look at me."
+
+Mau did.
+
+"My name is Kaneki. We met today."
+
+Mau stared.
+
+"Today."
+
+"Yes."
+
+Ori added softly:
+
+"You said his name before today."
+
+Mau's face tightened.
+
+"Don't."
+
+Ori stopped.
+
+Good.
+
+Kaneki looked at the structure.
 
 Then at Mau.
 
-"This looks like something I understand parts of."
+"This resembles something my body can do."
 
-Mau whispered:
+Mau's eyes shifted.
 
 "Am I becoming you?"
 
@@ -102,38 +168,80 @@ Mau whispered:
 
 Immediate.
 
-"You don't know."
+"You don't know that."
 
-"I know enough to say a body changing doesn't decide who the person is."
+"No. I don't know what is happening to you."
 
-Mau opened his eyes.
+Kaneki kept his voice level.
 
-Kaneki's voice stayed level.
+"But I know a body can become frightening without the person inside it becoming someone else."
 
-"This is a body problem until we know otherwise."
+Mau looked at him for a long time.
 
-Then, to Rem and Aira:
+The limb behind him trembled.
 
-"His name is Mau."
+Aira watched Mau's face instead of the limb.
 
-Simple.
+Rem watched his breathing.
 
-Not magic.
+Ori watched whether he still knew who was speaking.
 
-Not philosophy solved.
+Mau whispered:
 
-A refusal.
+"Frieren?"
 
-Mau's breathing slowed.
+Ori's eyes filled.
 
-Ori started crying.
+"She's looking for you."
 
-Aira pretended not to notice.
+He looked at her.
 
-Rem did not pretend.
+"Who?"
 
-She put a hand on Ori's shoulder.
+Nobody moved.
 
-No one had met the inn.
+Not even Aira.
 
-They were already part of the rescue.
+Mau frowned.
+
+The word had vanished between saying it and understanding it.
+
+Ori tried again.
+
+"Frieren."
+
+His face stayed blank.
+
+Then suddenly broke.
+
+"Oh."
+
+Recognition returned so fast it looked painful.
+
+"Oh, fuck."
+
+He covered his eyes with one hand.
+
+The dark limb collapsed against the ground.
+
+Kaneki understood something then.
+
+The body and the memory changes were not occurring in separate rooms.
+
+Whatever this was, stress moved between them.
+
+He did not know the mechanism.
+
+He did not need to pretend.
+
+"His name is Mau," Kaneki said quietly.
+
+Aira looked at him.
+
+"So?"
+
+"So when that thing moves, his name is still Mau."
+
+Ori cried.
+
+This time nobody pretended not to see.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 11 — Eight, Not One
+## Chapter 12 — Eight, Not One
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 11  
+**Reading order:** 12  
 **Continuity state:** Day 2 — afternoon | Search party reaches witch zone | Eight-signature fact confirmed; identities not fully enumerated
 
 Diablo stopped before the boundary.

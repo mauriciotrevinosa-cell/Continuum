@@ -4,69 +4,165 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
 **Reading order:** 3  
-**Continuity state:** Packing Day 1 | Mau packs at old inn
+**Continuity state:** Packing Day 1 | Mau packs at old inn | Memory Arc recovery still relevant
 
-Mau found the backpack under a bed.
+Mau found the backpack under the bed.
 
-The one he had arrived with.
+Not intentionally.
 
-He stared at it.
+He was looking for a missing sock.
 
-Frieren, wearing his McLaren hoodie, looked over.
+The backpack mattered more.
+
+He sat on the floor.
+
+Frieren, wearing his McLaren hoodie, looked over from the other side of the room.
 
 "That one?"
 
 "Yeah."
 
-Mau opened it.
+Mau pulled it out.
 
-Almost nothing inside belonged to his life now.
+Dust along one seam.
 
-A few original things.
+One strap repaired badly months ago.
 
-Clothing.
+The first container he remembered owning.
+
+Not buying.
+
+Not choosing.
+
+Waking with.
+
+He opened it.
+
+Almost nothing inside belonged to the life around him.
+
+A few original clothes.
 
 Small objects.
 
-No memories attached to most of them beyond:
+Things he had spent a year assigning theories to and then stopped because theories did not create memories.
 
-I woke up with this.
+Mau picked up one old object.
 
-He tried packing current life into it.
+No feeling.
 
-Failed immediately.
+Only knowledge:
 
-Blue thread from the date.
+I arrived with this.
+
+That was its entire biography.
+
+Frieren watched.
+
+"Are you taking it?"
+
+"I think so."
+
+"Why?"
+
+Mau looked at her.
+
+"Feels wrong not to."
+
+Frieren accepted that.
+
+He began packing.
+
+Blue thread from their date.
 
 Notes.
 
 One spare shirt.
 
-A small tool.
+Small tool.
 
-The recovered McLaren cap, cleaned but still water-marked.
+Recovered McLaren cap.
 
-Bocchi had returned it to him after asking whether he wanted it.
+The cap took longer.
 
-He had said yes.
+Bocchi had given it back after Rem returned it.
 
-That mattered.
+Not ceremonial.
 
-The backpack filled.
+"Do you want this?"
 
-Still left behind:
-- books Frieren had accumulated near his side of the room;
-- clothes Frieren considered collectively owned;
-- household objects with no clear owner;
-- gifts;
-- evidence-table notes that belonged in shared records;
-- too much life.
+Mau had said yes.
 
-Mau sat on the floor.
+Now water damage remained along the brim.
+
+River.
+
+Months earlier.
+
+Bocchi.
+
+Second rescue.
+
+Too many meanings in one object that originally had none he could remember.
+
+He put it in the backpack.
+
+The bag filled quickly.
+
+Mau stared.
+
+"That's it?"
+
+Frieren looked inside.
+
+"It's small."
+
+"It used to be enough."
+
+"For what?"
+
+Mau stopped.
+
+He had no answer.
+
+Enough for the person who arrived?
+
+That person had no remembered life before Continuum.
+
+Enough for survival?
+
+Maybe.
+
+Enough for identity?
+
+Never.
+
+He looked around the room.
+
+Books.
+
+Shared notes.
+
+Clothes.
+
+Objects with unclear ownership.
+
+A cup Ori had left and reclaimed four times.
+
+A stone Bocchi had painted badly.
+
+Evidence-table box that belonged to the household, not Mau.
+
+Gifts.
+
+Rimuru's handwriting on a plan.
+
+Frieren's belongings mixed into his area with no respect for borders.
+
+Too much life.
 
 "The bag's too small."
 
-Frieren looked inside.
+Frieren looked at him.
 
 "It was always small."
 
@@ -80,13 +176,15 @@ Good problem.
 
 Terrifying problem.
 
-Frieren picked up one of Mau's shirts.
+Mau sat there longer than packing required.
+
+Frieren eventually picked up one of his shirts.
 
 Folded it.
 
-Put it in her own pile.
+Put it in her pile.
 
-Mau stared.
+Mau looked over.
 
 "That's mine."
 
@@ -96,16 +194,90 @@ Mau stared.
 
 "I wear it."
 
-"That doesn't change—"
+"That's theft."
+
+"It is in our room."
+
+"That isn't property law."
 
 Frieren put another shirt in her pile.
 
-Mau laughed.
+Mau stood.
 
-The location changed.
+"We need governance before moving."
 
-The routine did not.
+"No."
 
-That helped.
+"This is exactly how states collapse."
 
-He packed the backpack last.
+Frieren ignored him.
+
+He laughed.
+
+The room loosened.
+
+Mau picked up a book.
+
+"Yours?"
+
+Frieren:
+
+"Mine."
+
+Another.
+
+"Yours?"
+
+"Mine."
+
+Third.
+
+"Mine?"
+
+Frieren looked.
+
+"Ours."
+
+Mau stared.
+
+"What makes that one ours?"
+
+"You read it."
+
+"I read your books."
+
+"Then maybe more are ours."
+
+"This is getting worse."
+
+Packing became negotiation.
+
+Not only objects.
+
+Boundaries.
+
+Shared life.
+
+What stayed.
+
+What moved.
+
+What belonged to room versus person.
+
+The backpack sat open on the floor while two people who loved each other failed to agree on shirts.
+
+That helped more than symbolism.
+
+At the end, Mau put the backpack beside the door.
+
+Not first.
+
+Last.
+
+Most current life went into boxes.
+
+The original bag became one piece among many.
+
+That mattered.
+
+It no longer had to carry him alone.

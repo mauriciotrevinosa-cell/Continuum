@@ -1,6 +1,6 @@
 # The Arrivals — S3 G5 Integration Checkpoint — 2026-10-03
 
-**Status:** ACTIVE REBUILD CHECKPOINT  
+**Status:** HISTORICAL CHECKPOINT — SUPERSEDED BY FINAL S3 AUDIT  
 **Branch:** `m3/critical-path`  
 **Audited HEAD:** `058d584fc7b102bed662b8d044635b16f70b03b6`  
 **Purpose:** preserve all post-v0.2 corrections and define the exact point from which the G5 integration pass must continue before the rest of S3 is re-expanded.
@@ -229,7 +229,7 @@ This checkpoint exists specifically so a future chat cannot accidentally resume 
 The immediate G5 integration pass has now been carried through the active LN continuity.
 
 Completed:
-- V11 expanded from 27 active chapter files to **34** reader-order chapters;
+- V11 expanded from 27 active chapter files to **35** reader-order chapters after the later Kusuri lock;
 - first-disappearance runway now includes the two missing search days before Diablo;
 - Frieren/Diablo confrontation remains inside **A Demon at the Door**;
 - Senku + Suika are the first major false-positive arrival;
@@ -244,7 +244,7 @@ Completed:
 - post-return Mau dinner is now a named ensemble scene;
 - G5 status divergence is now named instead of anonymous;
 - obsolete **Frieren Hits First** index entry is removed;
-- V11 reader order is reconciled to **34** chapters;
+- V11 reader order is reconciled to **35** chapters;
 - Senku's later V16 material has been converted from a duplicate arrival into the delayed major civic audit;
 - Richeh/Tetia's later V15 material now treats them as already present and making independent housing/status choices;
 - latest Memory source locks were also integrated where they directly affected this handoff:
@@ -284,3 +284,37 @@ Creator decision after the initial G5 completion pass:
 
 Production lock:
 > Never compress existing scenes to make room for Kusuri or any later correction. Increase chapter count and propagate consequences instead.
+
+
+## 10. Final S3 completion supersession — 2026-10-03
+
+Sections 1–7 above preserve the state of the earlier audit and are intentionally historical.
+
+The finalization pass used the later branch state at:
+
+`f93e68af4602cb1e5395057ba522be8ade0a0d40`
+
+as the pre-finalization baseline because that point already contained the prior chat's large post-v0.2 repair history.
+
+Final rules:
+- **do not use the original v0.2 draft as canon by label;**
+- file suffixes are provenance, not authority;
+- preserve the prior chat's post-v0.2 work and merge later prose into it;
+- do not compress already-expanded scenes;
+- V10 keeps legacy `_v0.1.md` filenames but its active text has been expanded in place;
+- V11 contains **35** chapters including Kusuri's lived G5 arrival;
+- total S3 reader order is **258** chapters;
+- no active chapter remains below the 2.5 KB compression-warning threshold;
+- V18 Last Defense / Noise / Goddess material has received the full-prose pass;
+- V19 Trial / Return-Stay community material has received the full-prose pass;
+- latest V13 RCT / competing-template / lifespan-hope / date-promise locks are integrated;
+- Kusuri is locked G5, continues with the community, and her intended later choice is **STAY**;
+- Senku and Richeh/Tetia remain early G5 arrivals and are not reintroduced later.
+
+The authoritative season status is now maintained in:
+
+`docs/creative/THE_ARRIVALS_S3_LN_PRODUCTION_INDEX_v0.2.md`
+
+and the final S3 audit document.
+
+Do not resume future work from the historical "still requiring expansion" lists in this checkpoint.

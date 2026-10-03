@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 23 — Relief First
+## Chapter 24 — Relief First
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 23  
+**Reading order:** 24  
 **Continuity state:** Day 3 — late night | Mau wakes after return | Frieren relief precedes anger
 
 Mau woke to Frieren holding his hand.

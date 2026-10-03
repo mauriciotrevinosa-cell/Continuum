@@ -19,40 +19,208 @@ Trees said no.
 
 One rock said no very convincingly because moving it cost too much.
 
-Marin later declared the rock intentional.
+Marin later declared rock intentional.
 
 Nobody corrected her.
 
-Routes curved around:
-- water systems;
-- shade;
-- workshops;
-- maintenance access;
-- refuge points;
-- existing terrain.
+Senku had drawn first traffic model with lines.
 
-Mikasa cared about evacuation clarity.
+Reality turned them into curves.
 
-Wakana cared about carts and fabric loads.
+One route bent around water-treatment access because burying maintenance under road was stupid.
 
-Arrival House cared about newcomers who did not know shortcuts.
+Another widened near Arrival House because carts kept stopping there.
 
-Children cared about none of this and created a new path anyway.
+A third became narrower after residents realized nobody used it except children.
 
-Senku stared at the footpath.
+Children then used it more.
 
-"People are data."
+Mikasa hated that.
+
+"Evacuation line needs clear route."
 
 Fern:
 
-"People are people."
+"Then mark it."
 
-"Those are not mutually exclusive."
+"People ignore marks."
 
-Dangerous sentence.
+"Then design around behavior."
 
-Useful sentence.
+Senku smiled.
 
-The city became less like any one source world.
+Mikasa did not.
+
+They ran drill.
+
+Asked residents:
+reach safe point without instruction.
+
+Most used expected route.
+
+Some cut through wash court.
+
+One elderly resident chose shaded longer path.
+
+A child went through gap nobody had considered.
+
+Data.
+
+Not disobedience.
+
+They adjusted.
+
+Evacuation signage at eye levels for adults and children.
+
+Route beacons visible around crowd.
+
+Maintenance covers kept clear.
+
+No grid required.
+
+Wakana cared about carts carrying fabric bolts.
+
+He walked route physically.
+
+One curve too tight.
+
+Moved stake.
+
+Maomao cared about waste carts not crossing food unloading.
+
+Moved another.
+
+Arrival House cared newcomers could find common spaces without knowing shortcuts.
+
+Added visible landmark.
+
+Coco proposed magical route markers that subtly brightened under emergency.
+
+Agott asked power/failure.
 
 Good.
+
+Manual markings stayed too.
+
+Then there was the rock.
+
+Large.
+
+Inconvenient.
+
+Could be removed with enough force.
+
+Milim volunteered.
+
+Everyone shouted no.
+
+Why not remove?
+
+Because below:
+water channel line.
+tree root network.
+cost.
+unknown soil response.
+
+Senku:
+
+"Cheapest infrastructure is sometimes not touching things."
+
+Mau liked sentence.
+
+Momo named rock.
+
+Fern refused official recognition.
+
+Name spread anyway.
+
+Culture beat engineering.
+
+A month later people said:
+
+"Meet by Momo's Rock."
+
+Fern lost.
+
+New path appeared behind kitchens.
+
+Not planned.
+
+Workers made it because official route too long for repeated deliveries.
+
+Senku watched foot traffic for two days.
+
+Then:
+
+"Make it real."
+
+Mikasa:
+
+"It cuts an evacuation boundary."
+
+"Then move boundary?"
+
+Argument.
+
+They measured.
+
+Could shift safely.
+
+Path became permanent.
+
+Fern looked at Senku.
+
+"People are people."
+
+Senku:
+
+"And behavior is data."
+
+"Still dangerous sentence."
+
+"Still useful."
+
+The city became less like any source world.
+
+No rectangular grid for its own sake.
+
+No fantasy radial castle logic.
+
+No modern road hierarchy copied blindly.
+
+Routes bent around:
+water;
+shade;
+work;
+repair;
+refuge;
+terrain;
+habit.
+
+Mau and Frieren walked home one evening.
+
+Mau stopped.
+
+"We used to go straight here."
+
+Frieren looked.
+
+Old road removed.
+
+New curve.
+
+"Yes."
+
+"Feels farther."
+
+"Three minutes."
+
+"Exactly."
+
+Frieren stole his cap.
+
+Mau sighed.
+
+The city was changing under residents while they lived in it.
+
+That was better than arriving finished.

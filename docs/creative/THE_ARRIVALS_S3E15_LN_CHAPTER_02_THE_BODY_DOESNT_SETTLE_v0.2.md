@@ -4,114 +4,164 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 8  
-**Continuity state:** Day 15–16 | Head wound improving | Fever/biological fluctuation persists
+**Continuity state:** Day 15–16 | Mau at old inn | Lucidity improves unevenly
 
-The head injury improved.
+For two days, Mau became easier to wake.
 
-The rest did not.
+That was not the same as becoming easier to understand.
 
-That distinction created the next problem.
+In the morning he knew the inn, Ori and Frieren.
 
-Mau's fever dropped.
+He did not remember leaving with Ori.
 
-Rose.
+An hour later he remembered leaving and could not remember why.
 
-Dropped.
+At lunch he remembered why, but placed the argument with Frieren in a room they had never used.
 
-No infection Maomao could confidently identify.
+By evening he could laugh at himself.
 
-The kagune-like expression appeared once while he slept.
+That night he woke and asked Frieren:
 
-Kaneki saw.
+"Did you find him?"
 
-Then vanished.
+Frieren stopped.
 
-Mau's memory mismatches increased whenever the physical fluctuations did.
+"Who?"
 
-Not always.
+"Mau."
 
-Enough.
+She answered slowly.
 
-Rimuru asked Raphael to compare only observable correlations.
+"You're Mau."
 
-She could.
+He looked at his own hands.
 
-Temperature.
+Ori came when Frieren called.
 
-Mana-like readings.
+No crowd.
 
-Cursed-energy-like exposure history.
+No panic.
 
-Physical response.
+"What's your name?" Ori asked.
 
-Classification failures.
+He searched for it.
 
-She could not tell him what internal thing caused them.
+"Mau."
 
-Rimuru did not call it The Noise.
+"And her?"
 
-Good.
+A pause.
 
-Mau became lucid enough to hate the room.
+"Frieren."
+
+Mau lowered his eyes.
+
+"I thought I was someone else."
+
+Nobody tried to explain the feeling away.
+
+The next morning Maomao let him sit by the window.
+
+Five minutes.
+
+Then ten.
+
+"Can I go downstairs?"
+
+"Later."
 
 "Can I walk?"
 
-Maomao said no.
-
-"Can I sit downstairs?"
-
-"One hour."
+"With someone."
 
 "Can I go to the worksite?"
 
 "No."
 
-"Can I argue?"
+"You're ruining all my hobbies."
 
-"You are."
+"Your hobbies are arguing and making bad decisions."
 
-Mau smiled.
+"That's two hobbies."
 
-Then suddenly looked terrified.
+Frieren almost smiled.
 
-Frieren saw.
+Then Mau looked toward the door.
 
-"What?"
+"I remember Rimuru coming in."
 
-"I remember being there yesterday."
-
-"Worksite?"
-
-"Yes."
-
-"You were on the road."
+"He hasn't."
 
 "I know."
 
-Memory false.
+The false memory stayed anyway.
 
-Body real.
+This time Mau did not panic.
 
-No collapse.
+He closed his eyes.
 
-Mau breathed through it.
+Waited.
 
-"Do you remember it that way too?"
+Opened them.
 
-Frieren answered:
+"Still there."
+
+Frieren nodded.
+
+"We write it down."
+
+"That's it?"
+
+"That's enough."
+
+Later, while Mau was fully aware of where he was, the strange physical change along his back appeared again.
+
+Kaneki noticed.
+
+Mau noticed him noticing.
+
+"Still doing that?"
+
+"Yes."
+
+"Am I confused?"
+
+Kaneki looked at him.
 
 "No."
 
-Mau nodded.
+Rimuru stopped at the doorway.
 
-Then the dark line moved beneath his back.
+That mattered.
 
-Frieren saw.
+The body change could happen while Mau was lucid.
 
-This time fear became action.
+So the memory failures and the physical changes were not the same event.
 
-She called Rimuru.
+Another assumption removed.
 
-Not because she thought he had the answer.
+Another question created.
 
-Because the current methods were not enough.
+That night Mau forgot Frieren's name again for less than a minute.
+
+He still knew she was the person he wanted beside him.
+
+The following morning he knew her name and forgot the date.
+
+At noon he remembered the date and misremembered breakfast.
+
+By evening he knew all of it.
+
+For almost an hour.
+
+The windows were getting longer.
+
+The rest of the problem was not improving at the same speed.
+
+That was when Rimuru stopped asking only:
+
+What is Mau remembering?
+
+And started asking:
+
+What changes when the environment around him changes?

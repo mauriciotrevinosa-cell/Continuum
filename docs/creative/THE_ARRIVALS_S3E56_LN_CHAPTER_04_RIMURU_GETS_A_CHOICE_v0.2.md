@@ -3,58 +3,147 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 8
+**Reading order:** 8  
+**Continuity state:** Trial loops 2–3 | Agency becomes explicit before Mau understands the real test
 
-Second scenario.
+The second scenario gave Rimuru enough information to argue.
 
-A containment failure.
+That was worse.
 
-Rimuru could stop it.
+Containment failure.
 
-So could Mau.
+Two control points.
 
-One would die.
+One would fail with whoever held it.
 
-Rimuru grabbed Mau.
+Rimuru read the rule.
+
+Mau did too.
+
+Then Rimuru grabbed Mau by the coat.
 
 "Let me."
 
-The construct knew enough to hurt.
+Mau froze.
 
-Mau hesitated.
+"No."
 
-Important.
+"Mau."
 
-Rimuru saw.
+"No."
 
-"Good."
+Rimuru's face sharpened.
 
-Mau hated that word.
+"I'm choosing."
 
-"You're allowed to let me choose."
+"You're not."
 
-There.
+The words came too fast.
 
-The Trial had moved from sacrifice to agency faster than Mau understood.
+Both heard them.
 
-Failure expanding.
+The field screamed around them.
 
-Time.
+Thirty seconds.
 
-Mau chose himself anyway.
+Rimuru tightened his grip.
 
-Death.
+"Listen to me."
+
+Mau was already looking for another mechanism.
+
+Link both controls.
+
+Blocked.
+
+Duplicate operator.
+
+Blocked.
+
+Transfer load.
+
+Rule rebalanced.
+
+Twenty seconds.
+
+Rimuru understood what Mau was doing.
+
+"You're turning my choice into a technical problem."
+
+"Because the technical problem is stupid."
+
+"Not the point."
+
+Ten.
+
+Mau looked at him.
+
+Rimuru let go.
+
+"If you do this, don't call it protecting me."
+
+Mau took the failing control anyway.
+
+Pain came slower than the first death.
+
+Long enough to hear Rimuru shouting.
+
+Long enough to know he had ignored a direct choice.
+
+Then nothing.
 
 Anchor.
 
-The Goddess:
+Two.
+
+Mau returned angry enough that fear hid underneath.
+
+The Goddess asked:
 
 "Why?"
 
 Mau said nothing.
 
-Third scenario began with someone he barely knew.
+Third scenario.
 
-Mau still chose himself.
+A stranger.
 
-The Trial was removing the excuse that he only died because love was exceptional.
+No name.
+
+No family.
+
+No special attachment.
+
+The choice was simpler.
+
+Leave.
+
+They die.
+
+Stay.
+
+Mau dies.
+
+The stranger begged him to leave.
+
+Mau stayed.
+
+Death.
+
+Anchor.
+
+Three.
+
+That confused the easy explanation.
+
+Mau did not sacrifice himself only because love was exceptional.
+
+Outside, Rimuru watched the constructed version of himself demand agency and watched Mau refuse.
+
+He understood before Mau did:
+
+the Trial was not asking whether Mau loved enough to die.
+
+Everyone already knew that.
+
+It was asking whether he could love enough to let someone else own their risk.

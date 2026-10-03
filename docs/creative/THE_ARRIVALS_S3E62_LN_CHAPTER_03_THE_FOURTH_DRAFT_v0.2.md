@@ -4,13 +4,11 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
 **Reading order:** 33  
-**Continuity state:** End of first Return/Stay week | Mau has not made any divine request | Secret plan crosses from thought into action
+**Continuity state:** Night 2 -> pre-dawn Day 3 of ten-day window | Mau has not contacted Goddess | Secret plan crosses from thought into action
 
-Mau wrote the first note at two in the morning.
+The first note sounded like suicide.
 
-It sounded like suicide.
-
-He destroyed it.
+Mau destroyed it.
 
 That bothered him.
 
@@ -18,300 +16,334 @@ He was not trying to die.
 
 For once, death was not the plan.
 
+2:27 a.m.
+
 Second note.
 
 Too explanatory.
 
 It read like permission.
 
-As if listing reasons turned secrecy into consent.
+As if enough paragraphs could turn secrecy into consent.
 
 Destroyed.
+
+2:43.
 
 Third note.
 
-Frieren.
-
 Too much Frieren.
 
-That scared him more than the first two.
-
-The decision was supposed to be about everyone.
+That scared him more.
 
 If half the note was:
-I can't let Frieren choose me and regret it,
-then he was disguising personal fear as universal mercy.
+
+I can't let Frieren stay for me and regret it later,
+
+then he was disguising personal terror as universal mercy.
 
 Destroyed.
 
-Mau sat at the small table in their room.
+Mau sat at the small table.
+
+The broken cup from earlier had been cleaned.
 
 Frieren slept behind him.
 
 Or appeared to.
 
-He no longer trusted his ability to tell when she was awake.
+He no longer trusted waking as evidence that a scenario had ended.
 
-Trial consequence.
+That was the Trial's most efficient cruelty.
 
-He looked at the notebook.
+Open eyes had once meant reset.
 
-Hundreds of scenarios.
+Now open eyes meant bedroom.
 
-Not written in full.
+Most of the time.
 
-Impossible.
-
-Fragments.
-
-Door.
-
-Smoke.
+Mau looked at notebook.
 
 Bridge.
 
-Someone asking:
+Smoke.
+
+Door.
+
+Years.
+
+People asking:
+
 Are you sure?
 
-Someone years later:
+People years later:
+
 I wasn't.
 
-Someone else:
+Others:
+
 I was.
 
-Contradictions.
+Same choice.
 
-That was the point.
+Opposite aftermath.
 
-Mau had not learned the correct choice.
+No rule.
 
-He had learned there might never be one.
+No painless answer.
 
 Fourth note.
 
-He wrote slowly.
+Mau wrote slowly.
 
-> I'm going to ask whether a collective-return option exists that removes the burden of individual decision.
+> I'm going to ask whether a collective-return option exists that can remove the burden of individual decision.
 
 He stopped.
 
 Read it.
 
-Bad.
+Hated it.
 
-"Removes the burden."
+"Remove the burden."
 
-Clinical phrase for something he could still feel in his bones.
+Clinical phrase for a moment he could still feel hundreds of times.
 
 He added:
 
 > I am not asking because I think I know what everyone wants.
 
-Better.
-
-Then:
-
-> I am asking because I have seen hundreds of ways a choice can keep hurting after the moment it is made.
-
-Mau stared.
-
 True.
 
-Not sufficient.
+> I am asking because I have lived hundreds of versions of what can happen after a choice.
 
-He added:
+True enough.
+
+Then:
 
 > The Trial was not prophecy. I know that.
 
-Also true.
+He stared.
 
-Then:
+Memory Arc word.
 
-> Knowing that has not stopped me from seeing those outcomes every time someone talks about choosing.
+I know.
 
-That one almost made him wake Frieren.
+He added:
 
-Almost.
+> Knowing that has not stopped those outcomes from arriving every time someone here talks about choosing.
 
-He looked at her.
+That sentence almost woke Frieren.
+
+Mau turned.
+
+She was sleeping on her side.
+
+One hand under pillow.
+
+Alive.
+
+Real.
 
 If he woke her, she would listen.
 
-If he showed the notebook, she would tell him exactly where the logic had crossed a line.
+If he showed her notebook, she would tell him exactly where compassion had become control.
 
-That was why he did not.
+Mau knew that.
+
+That was why he did not wake her.
 
 There.
 
-Mau recognized the betrayal before committing it.
+The betrayal became conscious.
 
 Not ignorance.
 
 Avoidance.
 
-He kept writing anyway.
+He continued.
 
-> I will not agree to anything irreversible without hearing the terms.
+> I only want terms.
 
-That sentence made him feel responsible.
+Then stopped.
 
-Reasonable.
+Would terms be enough if Goddess offered exactly what he wanted?
 
-Safe.
+Collective Return.
 
-Then he thought:
+Memories softened.
 
-Would I come back before agreeing?
+No one forced to stand at individual door.
 
-The honest answer took too long.
+Would he really walk home first?
 
 Mau crossed out:
-without hearing the terms.
+
+only.
 
 Wrote:
 
 > I intend to return before agreeing to anything irreversible.
 
-He stared at intend.
+Intend.
 
-Bad word.
+Cowardly word.
 
-Still true.
+Honest.
 
 Then:
 
-> I know this looks like what I promised not to do.
+> I know this looks like what I promised not to do after Sukuna.
 
-Mau's hand stopped.
+His hand stopped.
 
-Sukuna.
+Old:
+secret sacrifice.
 
-Secret.
+New:
+secret decision.
 
-Decision.
+Different harm.
 
-Family learns afterward.
+Same architecture.
 
-But not death.
+Mau wrote:
 
-Different.
-
-He wrote:
-
-> I don't think it is.
+> I don't think it is the same.
 
 Sincere.
 
 That was the problem.
 
-Old flaw:
-I die so you don't have to.
+At 3:18 he folded the note.
 
-New version:
-I decide so you don't have to live with choosing.
+Did not stand.
 
-The Trial had changed the currency.
+At 3:21 he unfolded it.
 
-Not the architecture.
+Added:
 
-Mau understood that enough to hate himself for seeing it.
+> If there is no option that preserves individual consent, I come back.
 
-He folded the note.
+Better.
 
-Did not leave.
+Then he imagined Goddess saying:
 
-One more night passed.
+There is one.
 
-The next day he helped at Arrival House.
+A clean collective Return.
 
-A person requested terms.
+Everyone restored to source continuity.
 
-Came out crying.
+Continuum dreamlike.
 
-Not regret.
+No one remembering enough to spend decades wondering.
 
-Relief.
+Would Mau call that preserving consent?
 
-Mau watched them hug someone.
+No.
 
-Evidence against his fear.
+Would he still be tempted?
 
-Good.
+Yes.
 
-Then another person came out alone.
+He wrote nothing else.
 
-Sat outside for an hour.
+At 3:40 Frieren moved in bed.
 
-Could not speak.
+Mau covered notebook automatically.
 
-Evidence for nothing.
+She opened one eye.
 
-Mau's mind supplied seven futures anyway.
+"What are you doing?"
 
-That night he unfolded the note.
+"Writing."
 
-Almost tore it.
-
-Frieren walked in.
-
-Mau covered it with his hand too quickly.
-
-She noticed.
+True.
 
 "What?"
 
-"Nothing."
+Mau looked at pages.
 
-Lie.
+"Trying to get my head quiet."
 
-Small enough to survive.
+Also true.
 
-Frieren looked at him.
+Frieren watched him.
 
-Memory Arc had taught them both the shape of bad small lies.
+"Working?"
 
-Mau expected her to push.
+"No."
 
-She did not.
+She closed her eyes again.
 
-Agency.
+"Come back to bed."
 
-Trust.
+Mau did.
 
-That made the betrayal worse.
+For sixteen minutes.
 
-After she slept, Mau left the note where she would see it.
+He slept maybe four.
 
-Not hidden.
+Bridge.
 
-Too late to count as openness.
+Fall.
 
-He packed water.
+Anchor.
+
+He woke with Frieren's name in mouth.
+
+She did not wake.
+
+Mau sat.
+
+4:09.
+
+The decision came without grandeur.
+
+Not:
+
+I am right.
+
+Not:
+
+They need me.
+
+Only:
+
+I cannot do another day hearing people ask what if I regret it and doing nothing when I might be able to spare them that.
+
+He got dressed.
+
+Water.
 
 Coat.
 
 Blank notebook for terms.
 
-Route map.
+No extra weapon.
 
-No weapon beyond what he normally carried.
+No plan to fight.
 
 No plan to die.
 
-No dramatic goodbye.
+Fourth note placed where Frieren would see it when she woke.
 
-Before dawn he stood beside the bed.
+Not hidden.
 
-Frieren breathed steadily.
+Still too late to count as honesty.
 
-Mau thought:
+Before leaving, Mau stood beside bed.
 
 If I wake you, this ends here.
 
-He did not wake her.
+He knew.
 
-That was the moment the backdoor deal became real.
+Did not wake her.
 
-Not when he reached the Goddess.
+That was the moment the backdoor plan became real.
 
-When he chose secrecy because he knew love would make other people challenge his mercy.
+Not at the Goddess.
+
+Not at a contract.
+
+At 4:21 in the morning on Day Three, when Mau chose secrecy because he knew the people he loved would challenge what he had started calling mercy.

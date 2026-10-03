@@ -4,49 +4,81 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
 **Reading order:** 36  
-**Continuity state:** Clearing | No Goddess contract made | Mau intercepted before requesting collective terms
+**Continuity state:** Day 3 before sunrise | Road south of settlement | Mau intercepted before reaching intended contact clearing | Goddess never contacted
 
-Mau stood in the clearing.
+Mau heard Frieren before he saw her.
+
+"Mau!"
+
+He stopped.
+
+Not at clearing.
+
+Still on road.
+
+Trees on both sides.
+
+First remembered place another fifteen minutes ahead.
 
 No Goddess.
 
-No visible Contract.
+No divine stillness.
 
-No words in the sky.
+No Contract.
 
-Good.
+No request.
 
-Frieren arrived first.
+Nothing had happened except Mau leaving.
+
+Relief hit so hard his knees almost weakened.
+
+That emotion betrayed him before words did.
+
+Frieren reached him first.
 
 Not because she was strongest.
 
 Because she did not slow down.
 
-"Mau."
+She stopped several steps away.
 
-He turned.
+Breathing hard.
 
-Relief crossed his face.
+Wrong shoes.
 
-Wrong emotion.
+Mau noticed.
 
-Frieren saw it.
+Ridiculous detail.
 
-"You wanted us to find you."
+Real.
 
-Mau looked away.
+"Did you contact her?"
 
-"Part of me."
+"No."
 
-That was worse than denial.
+"Did you reach the clearing?"
 
-Rimuru arrived next.
+"No."
+
+"Did you ask anything?"
+
+"No."
+
+Three truths.
+
+Frieren closed her eyes.
+
+One fraction of fear left.
+
+Anger remained.
+
+Rimuru arrived.
 
 Ori.
 
 Yuta.
 
-Bocchi with Kita.
+Bocchi and Kita.
 
 Senku.
 
@@ -60,51 +92,31 @@ Arrival House still open.
 
 Water still moving.
 
-Searchers still had routes.
+Searchers still leaving.
 
-The community did not collapse because Mau left.
+The community had not collapsed because Mau walked out.
 
 Important.
 
-Frieren crossed the clearing.
+Frieren looked at bag.
 
-Stopped before touching him.
+Blank notebook.
 
-"Did you make a deal?"
+No divine mark.
 
-"No."
+"Why?"
 
-"Ask for one?"
-
-"No."
-
-"Did she speak?"
-
-"No."
-
-Three truths.
-
-Mau held onto them.
-
-Frieren's shoulders lowered one fraction.
-
-Then:
-
-"Why are you here?"
-
-Mau looked at all of them.
-
-He could give the clean answer.
-
-Collective-return option.
+Mau could give clean version.
 
 Terms.
 
 Research.
 
+Collective option.
+
 Instead he saw Bocchi.
 
-Trial smoke.
+Smoke.
 
 Ori.
 
@@ -112,7 +124,7 @@ Door.
 
 Rimuru.
 
-Control point.
+A corridor.
 
 Frieren.
 
@@ -124,10 +136,6 @@ His stomach turned.
 
 Silence.
 
-Different sentence.
-
-Better truth.
-
 Senku's face changed first.
 
 Rimuru understood next.
@@ -136,21 +144,25 @@ Ori whispered:
 
 "Mau."
 
-He continued because if he stopped, everyone would fill the gap with the old version of him.
+He continued before everyone translated this into his old flaw and stopped there.
 
 "I'm not doing this because I think I know where everyone belongs."
 
-Frieren said nothing.
+No one answered.
 
 "I don't."
 
-Mau's voice tightened.
+His voice tightened.
 
 "I know that now more than I ever wanted to."
 
 His hands started shaking.
 
-He closed them.
+Not cold.
+
+Sleep.
+
+Memory.
 
 "In the Trial I tried everything."
 
@@ -166,37 +178,53 @@ Mau looked at him.
 
 Bocchi's face changed.
 
-Mau continued.
-
 "It was hundreds."
 
 No exact number.
 
 He did not have one.
 
-"Hundreds of deaths. Hundreds of choices. Some loops were seconds. Some felt like years."
+"Hundreds of deaths."
 
-Frieren went very still.
+Pause.
 
-Mau had told her pieces.
+"Hundreds of choices."
 
-Not scale like this.
+"Some loops were seconds."
+
+"Some felt like years."
+
+Frieren went completely still.
+
+She knew pieces.
+
+Not this scale.
+
+Mau kept talking because if he stopped the road might turn into another loop.
 
 "Sometimes I picked myself and someone died."
 
-His voice started flattening.
-
 "Sometimes they picked me."
 
-"Sometimes nobody died and twenty years later they regretted the choice anyway."
+"Sometimes I died and came back."
 
-"Sometimes they didn't."
+"Sometimes nobody died."
 
-"Sometimes the exact same choice made somebody happy."
+His voice broke.
 
-Mau laughed once.
+"And twenty years later they regretted what they chose."
 
-Broken.
+Bocchi started crying.
+
+Mau saw smoke that was not there.
+
+Closed his eyes.
+
+"Sometimes they didn't regret it."
+
+"Sometimes exact same choice made somebody happy."
+
+He opened eyes.
 
 "There is no answer."
 
@@ -210,19 +238,15 @@ Mau looked at him.
 
 "No."
 
-Mau's jaw tightened.
-
-Senku continued:
+Senku's voice stayed calm.
 
 "That's the condition."
 
-Mau looked away.
+Mau looked toward trees.
 
 "No. The condition for them is one try."
 
-There.
-
-He pointed toward the settlement direction though nobody could see it through trees.
+He pointed back toward settlement.
 
 "They get one life."
 
@@ -234,17 +258,7 @@ He pointed toward the settlement direction though nobody could see it through tr
 
 "One chance to find out whether love was a reason or a mistake."
 
-Bocchi started crying before he mentioned her.
-
-Mau saw.
-
-Trial smoke.
-
-He shut his eyes.
-
-"I can't watch all of you stand at doors I already watched hundreds of people stand at."
-
-Ori stepped forward.
+Ori stepped closer.
 
 "They weren't us."
 
@@ -252,43 +266,35 @@ Ori stepped forward.
 
 "Do you?"
 
-Mau opened his eyes.
-
 Memory Arc language.
 
-Cruel because accurate.
+Cruel.
+
+Accurate.
+
+Mau looked at her.
 
 "I understand the sentence."
 
 Ori's face broke.
 
-At least he knew the difference.
+At least he knew difference.
 
-Mau continued:
+Mau pressed both hands against his eyes.
 
-"I'm not trying to save you because I think you're incapable."
-
-"I know what choosing can do."
-
-"To me."
-
-Pause.
-
-"To people."
-
-"To the years after."
+"I can't watch all of you stand at doors I already watched hundreds of people stand at."
 
 Rimuru asked:
 
 "So you were going to carry it."
 
-Mau stared.
+Mau lowered hands.
 
 "If there was a way."
 
 "Without telling us."
 
-"If telling you meant making you choose whether to let me remove the choice, then that's still—"
+"If telling you meant making you choose whether to let me remove the choice, then that's still another—"
 
 He stopped.
 
@@ -298,29 +304,15 @@ Choice inside choice.
 
 No escape.
 
-Ori's voice shook.
+Bocchi spoke through tears.
 
-"You taught me that being created by someone doesn't mean they own my choices."
+"If she offered exactly what you wanted..."
 
-Direct hit.
+Mau looked.
 
-Mau looked at her.
+"Would you have come home before saying yes?"
 
-"I know."
-
-"No."
-
-She stepped closer.
-
-"You know the sentence."
-
-Mau closed his eyes.
-
-Bocchi asked:
-
-"If she offered exactly what you want, would you have come back before saying yes?"
-
-Mau's mouth opened.
+His mouth opened.
 
 No answer.
 
@@ -330,10 +322,24 @@ Two.
 
 That was enough.
 
-Bocchi started crying harder.
-
-Kita held her.
-
 Mau looked sick.
 
-The clearing where Mau's remembered life began had become the place where everyone refused to let his suffering become jurisdiction over theirs.
+Frieren's expression changed.
+
+Not because she now thought he was evil.
+
+Because she finally saw exact shape of injury.
+
+He had come out of Trial believing the worst thing he could leave to someone was a decision they might spend a lifetime questioning.
+
+He had been trying to spare them not from death.
+
+From regret.
+
+The road where they caught him was still ordinary.
+
+No Goddess had touched it.
+
+That made the choice entirely theirs.
+
+Now they had to stop Mau from turning indescribable suffering into authority over lives he loved.

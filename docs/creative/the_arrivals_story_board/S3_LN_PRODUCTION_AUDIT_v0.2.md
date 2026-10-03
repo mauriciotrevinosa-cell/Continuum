@@ -262,3 +262,33 @@ Required moral framing at interception:
 - the answer is "your suffering does not give you jurisdiction over our one real life."
 
 Post-Trial effects continue into S4. Mau Jail Part Two is an immediate safety / trust consequence, not psychological resolution.
+
+
+# 7. Ten-day Return/Stay clock / interception lock — 2026-10-02
+
+The offer is no longer an undefined long runway.
+
+Required active timing:
+
+- Goddess opens a **10-day** Return/Stay decision window at the end of the Trial;
+- Day 0 / Night 0: Mau is physically intact but cannot sleep normally and wakes inside remembered deaths;
+- Day 1: other people's real questions automatically evoke contradictory Trial outcomes;
+- Night 1: waking resembles reset; ordering hundreds of loops becomes difficult;
+- Day 2: Mau remains outwardly functional while his mind converts ordinary uncertainty into future-regret scenarios;
+- Night 2: private modeling escalates into four drafts of a note;
+- pre-dawn Day 3: Mau leaves alone intending to ask about a collective-return option;
+- family detects the departure through ordinary settlement/network continuity;
+- **they catch him before he reaches the clearing / intended Goddess contact point**;
+- Goddess never appears during the attempt;
+- no divine question is asked;
+- no collective terms are offered;
+- no agreement exists;
+- Mau explains the hundreds-scale Trial experience during the human confrontation;
+- S3 ends on Day 3 with roughly seven days still available for personal Return/Stay decisions;
+- S4 may carry the remaining decision window as a major or even season-dominant arc.
+
+This makes the S3 ending:
+> Trial trauma -> three-day inability to metabolize ordinary free choice -> secret attempt -> family interception -> agency confrontation.
+
+Not:
+> Trial ends -> Mau acts normal -> generic control relapse.

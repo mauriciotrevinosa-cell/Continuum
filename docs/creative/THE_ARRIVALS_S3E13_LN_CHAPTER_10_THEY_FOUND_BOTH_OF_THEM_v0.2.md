@@ -4,13 +4,13 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 20  
-**Continuity state:** Day 12 — evening | Search networks converge | Mau still unstable | Ori physically present
+**Continuity state:** Day 12 — evening | Search networks converge | Mau remains medically unstable
 
-Frieren reached the shelter first.
+Frieren entered the clearing first.
 
-Yuta half a second behind.
+Yuta was half a step behind.
 
-Rimuru next.
+Rimuru.
 
 Diablo.
 
@@ -18,55 +18,163 @@ Mikasa.
 
 Okarun.
 
-Not everyone.
+Enough people to turn the small shelter into a crowd.
 
-Enough.
+Kaneki stood immediately.
 
-Frieren saw Mau.
-
-Then the blood in his hair.
-
-Then the three strangers.
-
-Then Ori.
-
-Her eyes stopped on Ori.
-
-You knew.
-
-The accusation arrived before words.
-
-Ori's face said yes.
-
-Mau made a sound.
-
-Everything else became later.
-
-Frieren crossed the distance.
-
-The kagune-like structure reacted.
-
-Kaneki lifted one hand.
-
-"Don't come from behind."
+"Not behind him."
 
 Frieren stopped.
 
-Looked at him.
+The warning was the only reason she did.
 
-"Who are you?"
+Her eyes went to Mau.
 
-"Kaneki."
+Blood in his hair.
 
-"Why is that happening?"
+Sweat.
 
-"I know what it resembles. I don't know why his body is doing it."
+Improvised bedding.
 
-Good answer.
+A dark line visible beneath torn cloth.
 
-Yuta was already at Mau's head.
+Then Ori.
 
-He saw the wound.
+Frieren's gaze held there for one terrible second.
+
+You knew.
+
+Ori's face answered:
+
+Yes.
+
+Later.
+
+Mau made a sound.
+
+Everything else disappeared.
+
+Frieren crossed the remaining distance from the side.
+
+"Mau."
+
+His eyes opened.
+
+Not fully.
+
+They moved toward her voice.
+
+Stopped at her face.
+
+No recognition.
+
+Frieren froze.
+
+Mau whispered:
+
+"Who?"
+
+The clearing went silent.
+
+Ori covered her mouth.
+
+Yuta knelt at Mau's head.
+
+Frieren did not move.
+
+"Mau."
+
+His eyes shifted again.
+
+Something inside them changed.
+
+"Frieren?"
+
+Relief and horror arrived together.
+
+Frieren sat beside him.
+
+"Yes."
+
+Mau tried to raise one hand.
+
+Failed.
+
+She took it.
+
+His fingers barely closed.
+
+Then the convulsion hit.
+
+Frieren's staff was in her other hand before thought.
+
+Kaneki spoke sharply.
+
+"Don't attack what's coming out."
+
+The dark structure tore free behind Mau.
+
+Frieren's mana rose.
+
+Rimuru stepped closer.
+
+Yuta said:
+
+"Frieren."
+
+She stopped.
+
+Not because she trusted the thing.
+
+Because Mau was inside the body producing it.
+
+The limb slammed into the ground.
+
+Once.
+
+Twice.
+
+Mau's grip vanished.
+
+"Move Ori back," Rem said.
+
+Ori did not hear.
+
+Aira did.
+
+She pulled Ori two steps away while Rem protected Mau's head and Yuta tried to keep his airway clear.
+
+Kaneki watched the structure.
+
+"It follows the seizure."
+
+"Follows or causes?" Yuta asked.
+
+"I don't know."
+
+Good.
+
+Rimuru listened.
+
+That answer mattered.
+
+The convulsion ended.
+
+The structure remained for six seconds.
+
+Then collapsed.
+
+Mau did not wake.
+
+Frieren put two fingers against his wrist.
+
+Pulse.
+
+Too fast.
+
+Still there.
+
+Only then did Yuta look properly at the head wound.
 
 "Impact?"
 
@@ -76,64 +184,120 @@ Ori answered.
 
 "When?"
 
-"Two days ago. Maybe— no. Yesterday morning? We left three nights ago."
+Her face collapsed with the effort of counting.
+
+"Day before yesterday. Morning. Maybe."
 
 Aira corrected gently.
 
-"His blood at the monster site was older than today. The search team can compare."
+"We found old blood and vomit north of here. He'd already been down most of a day when we reached them."
 
-Frieren looked at Ori.
+Yuta looked at Ori.
 
-Later.
+"Did he lose consciousness at impact?"
 
-Rimuru saw the cap beside the notebook.
+"Briefly. Then later he stopped waking properly."
 
-Recognized it.
+"Vomiting?"
 
-Bocchi's incident.
+"Yes."
 
-Another thread.
+"Convulsions before or after?"
 
-Not now.
+"After the fever got worse."
 
-Rem introduced herself because nobody had.
+Rem added:
 
-"We found them yesterday."
+"They increased today."
 
-Frieren looked at her.
+Kaneki said:
+
+"The biological manifestation increases around the same episodes. I don't know which direction the relationship goes."
+
+Rimuru crouched.
+
+Not asking about mysteries yet.
+
+Collecting chronology.
+
+Frieren kept holding Mau's hand.
+
+She looked at Rem.
+
+"You found them?"
+
+"Yes."
+
+"How long have you been with him?"
+
+"Since yesterday."
+
+Frieren's eyes moved to Aira.
+
+Kaneki.
+
+Then Ori.
 
 "Thank you."
 
-No dramatic oath.
+Nothing dramatic.
 
-Just truth.
+No vow.
 
-Rimuru knelt near Mau.
+Four people had kept Mau alive before his family arrived.
+
+That was enough.
+
+Rimuru asked the question everyone wanted answered.
 
 "Can we move him?"
 
-Yuta looked at the fever.
+Yuta did not answer immediately.
 
-Then the head wound.
+He checked Mau's pupils.
 
-Then the biological structure.
+Breathing.
 
-"Not all the way tonight."
+Temperature.
 
-Correct.
+Head.
 
-Frieren hated it.
+Then looked at the improvised litter.
 
-Accepted it.
+"Not to the inn tonight."
+
+Frieren's jaw tightened.
+
+"Why?"
+
+"Because he just convulsed hard enough to produce that."
+
+Yuta looked at the ground.
+
+"And the road will shake him for hours."
+
+Frieren hated the answer.
+
+It was still correct.
+
+Rimuru nodded.
+
+"Then we make camp here."
+
+Diablo had already started clearing space.
+
+Mikasa went to mark approach routes.
+
+Okarun turned north to carry a message.
+
+No one called the rescue over.
 
 They had found Mau.
 
-Again.
+They had found Ori.
 
-This time they had also found the people who had kept him alive long enough to be found.
+They had not brought either of them back yet.
 
-That difference would change who entered the household next.
+Volume Twelve ended with a larger circle forming around the same injured body Rem, Kaneki, Aira and Ori had been guarding alone.
 
-Volume Twelve did not end with a teleport home.
-
-It ended with a larger rescue camp forming around Mau and Ori under the trees.
+The night belonged to all of them now.

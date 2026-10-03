@@ -5,7 +5,7 @@
 **Season:** 3  
 **Volume title:** **Eight Signatures**  
 **Coverage:** first disappearance -> G5 accidental formation -> first return -> three-day false stability  
-**Chapter count:** 34  
+**Chapter count:** 35  
 **Supersedes:** Volume 11 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
@@ -23,27 +23,28 @@
 | 11 | Night People |
 | 12 | Three Kinds of Weird |
 | 13 | Jinshi Gets the Wrong Welcome |
-| 14 | Milim Finds Diablo |
-| 15 | The Empty Place at Dinner |
-| 16 | Eight Signatures |
-| 17 | Witches First |
-| 18 | Not Their Work |
-| 19 | Eight, Not One |
-| 20 | Not Yours to Take |
-| 21 | Terms |
-| 22 | Carry Him Home |
-| 23 | Relief First |
-| 24 | You Left |
-| 25 | The Deal Comes Due |
-| 26 | Questions Without Answers |
-| 27 | Dinner With Strangers |
-| 28 | It Didn't Match Itself |
-| 29 | Day One Fine |
-| 30 | The Second Witch Session |
-| 31 | G5 Is Still Here |
-| 32 | Day Two Fine |
-| 33 | Ori Is the Same |
-| 34 | The Third Day Breaks |
+| 14 | Kusuri Asks Where the Lab Is |
+| 15 | Milim Finds Diablo |
+| 16 | The Empty Place at Dinner |
+| 17 | Eight Signatures |
+| 18 | Witches First |
+| 19 | Not Their Work |
+| 20 | Eight, Not One |
+| 21 | Not Yours to Take |
+| 22 | Terms |
+| 23 | Carry Him Home |
+| 24 | Relief First |
+| 25 | You Left |
+| 26 | The Deal Comes Due |
+| 27 | Questions Without Answers |
+| 28 | Dinner With Strangers |
+| 29 | It Didn't Match Itself |
+| 30 | Day One Fine |
+| 31 | The Second Witch Session |
+| 32 | G5 Is Still Here |
+| 33 | Day Two Fine |
+| 34 | Ori Is the Same |
+| 35 | The Third Day Breaks |
 
 ## G5 continuity lock
 
@@ -76,6 +77,7 @@ The witch chapters intentionally include a short controlled backtrack:
 - no G5 arrival is automatically promoted to permanent family;
 - Senku + Suika are already present; any later Senku material must be civic-audit progression, not a second arrival;
 - Richeh + Tetia are already present; any later Atelier material must treat them as existing members/guests, not first arrivals;
+- Kusuri is already present, has chosen to continue living with the community, and must persist into later medicine/science/Move/Return-Stay material;
 - Milim remains near Rimuru;
 - Diablo is present and has supplied the mismatch clue;
 - witches retain limited question access under the bargain;

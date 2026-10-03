@@ -4,15 +4,21 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 13  
-**Continuity state:** Day 17 — private Mau/Frieren pre-containment scene
+**Continuity state:** Day 17 — private Mau/Frieren scene after Mau's clear consent
 
-Frieren did not know what speech belonged here.
+Frieren waited until the door closed.
 
-So she refused one.
+Then she did nothing.
+
+Mau watched her.
+
+Five minutes suddenly felt enormous when both knew why they existed.
+
+Frieren sat beside him.
 
 "I love you."
 
-Mau closed his eyes.
+Mau blinked.
 
 "Good start."
 
@@ -20,132 +26,184 @@ Mau closed his eyes.
 
 "Sorry."
 
-Frieren squeezed his hand.
+She held his hand.
 
-"I love you."
+Not to test recognition.
 
-Again.
+Not to anchor him.
 
-Not diagnosis.
+Because she wanted to.
 
-Not evidence test.
+"I love you," she said again.
 
-Statement.
+Mau looked at her without confusion.
 
-"And I don't want you to go somewhere I can't reach."
+That made the sentence easier and harder.
 
-Mau looked at her.
-
-"I know."
-
-"I hate this."
+"I don't want you to go somewhere I can't reach."
 
 "I know."
 
-"I hate that Rimuru might be right."
+"I don't want Rimuru to be right."
 
-Mau almost smiled.
+"About what?"
 
-Frieren continued before he could.
+"That fewer things around you might help."
+
+Mau looked toward the wall.
+
+"I don't want him to be right either."
+
+Frieren's mouth moved slightly.
+
+Almost a smile.
+
+Then gone.
 
 "I trust Rimuru."
 
-Pause.
+Mau looked back.
 
 "I trust Yuta."
 
+Pause.
+
+"Maomao."
+
 Another.
 
-"I trust Maomao."
+"Ori."
 
-Mau's eyes filled.
+That one carried more weight.
 
-"I trust Ori."
+Mau knew it.
 
-That one mattered differently.
+Frieren continued.
 
-Frieren looked toward the closed door.
-
-"I trust Kaneki enough to listen when he says your body is doing something dangerous."
+"I trust Kaneki when he tells us what your body is doing and also tells us what he does not know."
 
 Mau nodded.
 
-"I trust Rem and Aira because they kept you alive before they knew any of us."
+"I trust Rem because she kept doing the boring things when nobody knew whether they mattered."
 
-His throat tightened.
+Another breath.
 
-Frieren returned to him.
+"I trust Aira because she was scared and moved you anyway."
 
-"I do not trust the world."
+Mau's eyes filled.
+
+Frieren looked down at their hands.
+
+"I do not trust whatever is happening to you."
 
 Fair.
 
-"I do not trust whatever is happening inside you."
+"I do not trust this world to explain itself."
 
 Also fair.
 
-"I trust the people trying to save you."
+"I trust the people trying to keep you here."
 
 Mau whispered:
 
 "So do I."
 
-Frieren's face broke.
+That was the answer Frieren had been trying to reach.
 
-That was the answer she needed.
+Not confidence in a technique.
 
-Not:
+Confidence distributed across people.
 
-Rimuru can guarantee this.
-
-Not:
-
-Raphael knows.
-
-Trust distributed across imperfect people.
-
-Frieren leaned down.
+She leaned forward.
 
 Kissed him.
 
-Slow.
+Slowly.
 
-No panic.
+Mau kissed her back.
 
-Present.
+When they separated, he rested his forehead against hers.
 
-Mau touched her cheek.
+"If I come back and don't know you—"
 
-"If I come back confused—"
+Frieren's eyes closed.
 
-"You will."
+Mau continued.
 
-He stared.
+"Don't lie to me and say I do."
 
-Frieren corrected:
+"I won't."
 
-"If you come back confused, we'll be there."
+"If I come back and think something happened that didn't—"
 
-Better.
+"We check it."
 
-Mau breathed.
+"If I panic—"
 
-Frieren opened the door.
+"We stay until you don't."
 
-Rimuru was waiting.
+Mau swallowed.
 
-She looked at him.
+"If I ask to come out before I'm clear?"
 
-"I still hate it."
+Frieren hated the question.
+
+"Then we use the version of you that understood the choice."
+
+Mau nodded.
+
+Terrible.
+
+Necessary.
+
+Then Frieren added:
+
+"But if you are clear and ask to come out, they listen."
+
+"Yes."
+
+"No one turns your earlier consent into ownership."
+
+Mau looked at her.
+
+"Yes."
+
+The promise mattered enough that she wanted it exact.
+
+Frieren stood.
+
+Mau did not let go immediately.
+
+"Five minutes?"
+
+"More."
+
+"Cheating."
+
+"Yes."
+
+He smiled.
+
+Then she opened the door.
+
+Rimuru waited outside.
+
+Frieren looked at him.
+
+"I still hate this."
 
 "Me too."
 
-"Do it."
+"He said yes."
 
-Not ownership.
+"I know."
 
-Permission to proceed after Mau's consent.
+"So did I."
 
 Rimuru nodded.
 
-No victory.
+No triumph.
+
+No relief large enough to insult the risk.
+
+They went back inside together.

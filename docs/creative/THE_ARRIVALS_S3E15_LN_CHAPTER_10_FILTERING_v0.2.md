@@ -170,6 +170,188 @@ Rimuru answered:
 
 No single system got to claim success.
 
+Then Raphael found another loop.
+
+Not memory.
+
+Body.
+
+At first Mau thought it was one transformation trying to complete.
+
+That would have been simpler.
+
+Raphael separated the signals.
+
+They did not converge.
+
+They competed.
+
+One pattern remained closest to the body Mau had arrived with.
+
+Another favored longer-lived magical tissue organization.
+
+Elf-like in function.
+
+Not proof of elf identity.
+
+Another resembled the regenerative logic Kaneki had helped them recognize.
+
+Ghoul-like.
+
+Another borrowed restructuring principles closer to Rimuru's biology.
+
+Slime-like.
+
+Another used cursed-energy and RCT-informed repair behavior.
+
+None was a full species blueprint.
+
+None had won.
+
+The body had observed viable survival models and was attempting to optimize through several at once.
+
+Mau went very still.
+
+"So I'm not turning into one thing."
+
+Correct.
+
+"Several things are trying to become the answer."
+
+Approximation accepted.
+
+Outside, Rimuru opened his eyes.
+
+Frieren saw immediately.
+
+"What?"
+
+He explained.
+
+Not species.
+
+Competing adaptation routes.
+
+The body trying to survive too many ways at once.
+
+Kaneki looked sick.
+
+Yuta looked worse.
+
+Qifrey asked:
+
+"Is that The Noise?"
+
+Raphael could not support that conclusion.
+
+"Is The Noise causing it?"
+
+Unknown.
+
+"Is the body doing this by itself?"
+
+Unknown.
+
+Good.
+
+No mystery swallowed another.
+
+Inside, Mau asked:
+
+"Can you stop the competition?"
+
+Raphael answered:
+
+Possibly reduce active cross-feedback.
+
+"By choosing one?"
+
+No.
+
+Relief.
+
+"Then how?"
+
+Suppress concurrent adaptation attempts enough to restore the most stable known reference state.
+
+Mau understood before Rimuru translated.
+
+"The way I was when I arrived."
+
+Closest available reference.
+
+Not:
+human.
+
+Not:
+original species.
+
+Not:
+true self.
+
+Only:
+the earliest stable Mau they could actually observe.
+
+Mau thought about the alternative.
+
+Pick elf.
+
+Pick ghoul.
+
+Pick slime.
+
+Pick whatever lived longest.
+
+Tempting.
+
+Terrifying.
+
+"Don't choose my species for me."
+
+Rimuru answered through the connection.
+
+We won't.
+
+"Can we go back toward arrival-state without locking everything else forever?"
+
+Raphael:
+
+Yes. Future adaptive capacity cannot be guaranteed or excluded.
+
+Honest.
+
+Mau breathed.
+
+"Do that."
+
+Outside, Frieren heard the decision.
+
+Her face changed when Rimuru translated "arrival-state."
+
+She did not interrupt.
+
+Not yet.
+
+The filtering began slowly.
+
+Not deletion.
+
+Not cure.
+
+Competition reduced.
+
+One active biological route stopped reinforcing another.
+
+The pressure along Mau's back eased by degrees.
+
+A dark line surfaced once.
+
+Then receded.
+
+RCT remained available for local repair.
+
+It was no longer being asked to define the entire body.
+
 Hours passed.
 
 Worksite decisions went unanswered.

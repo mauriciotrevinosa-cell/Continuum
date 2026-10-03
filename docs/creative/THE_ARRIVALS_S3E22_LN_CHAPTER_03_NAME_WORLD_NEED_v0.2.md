@@ -10,65 +10,122 @@ Nano's first intake form had eleven questions.
 
 Fern removed eight.
 
+Nano looked personally injured.
+
+"World of origin matters."
+
+"Not before breakfast."
+
+"Abilities matter."
+
+"Not before sleep."
+
+"Prior affiliations—"
+
+"Absolutely not before food."
+
+Mau, listening nearby:
+
+"I support Fern's authoritarian simplification."
+
+Fern:
+
+"Don't."
+
+The final first-contact form contained three questions.
+
 Name.
 
 What do you need today?
 
 Is anyone following you?
 
-That was enough.
+The intentional arrival stared at it.
 
-World could wait.
-
-Abilities could wait.
-
-Trauma autobiography could absolutely wait.
-
-The first intentional arrival stared at the short form.
-
-"That's it?"
+"That's all?"
 
 "For today."
 
 "What if I'm dangerous?"
 
-Mikasa answered:
+Mikasa answered from the doorway.
 
 "Then what you do will matter."
 
-Not:
+The man frowned.
 
-Tell us your power level.
+"You don't want to know what I can do?"
 
-Good.
+"Eventually, if it affects other people."
 
-His immediate need was sleep.
+No power inventory as admission ticket.
 
-His second need was information about a brother he thought might also have arrived.
+No trauma autobiography to earn food.
 
-The missing-person board gained a new card.
+World could wait.
 
-That connected Arrival House before Arrival House existed.
+History could wait.
 
-Food.
+Immediate need:
+sleep.
 
-Bed.
+Then, after food and sleep:
+his brother.
 
-Search.
+That emerged the next morning.
 
-Orientation.
+The man had not traveled only for himself.
 
-Privacy.
+He had heard another Arrival might have been seen west.
 
-Not citizenship.
+Same description?
 
-The household discovered one person could trigger five systems at once.
+Maybe.
 
-So they created one table near the common-room entrance.
+Family?
 
-Not office.
+Yes.
 
-Table.
+He wanted help.
+
+One person triggered five needs:
+food;
+bed;
+information;
+search;
+status.
+
+The settlement discovered it already had systems.
+
+They were simply scattered across people.
+
+Fern:
+beds.
+
+Okarun:
+routes.
+
+Mikasa:
+security.
+
+Rimuru:
+coordination.
+
+Rem:
+calm.
+
+Mau:
+too many opinions.
+
+The missing-person board gained a card.
+
+First card added by someone who had intentionally arrived seeking help.
+
+That mattered.
+
+The common-room corner became intake by accident.
+
+One table.
 
 One shelf.
 
@@ -78,17 +135,27 @@ Water.
 
 Three forms.
 
-A note explaining Contracts only if relevant.
+A note about Contracts because some people had heard accepting food might bind them magically.
 
-The first version of Arrival House was furniture.
+It did not.
 
-Momo named it before anyone approved.
+They wrote:
+
+NO CONTRACT REQUIRED FOR EMERGENCY FOOD / ONE-NIGHT SHELTER.
+
+Momo saw the table.
 
 "Arrival House."
 
-Fern looked at the table.
+Fern looked around.
 
-"That's not a house."
+At table.
+
+Shelf.
+
+No walls.
+
+"That is not a house."
 
 Momo pointed at the settlement.
 
@@ -96,4 +163,40 @@ Momo pointed at the settlement.
 
 Annoying.
 
-Correct enough.
+Correct.
+
+The man returned to the missing-person board.
+
+"Do you find everyone?"
+
+Okarun answered:
+
+"No."
+
+No false promise.
+
+"We check what we can."
+
+Two possible sightings.
+
+No certainty.
+
+The man asked:
+
+"If you find my brother, does he have to come here?"
+
+Okarun shook his head.
+
+"No."
+
+The man looked surprised.
+
+Good.
+
+Search was not recruitment.
+
+Shelter was not ownership.
+
+The first version of Arrival House became an institution because one tired stranger forced the settlement to answer:
+
+What do we owe someone before we know whether they belong?

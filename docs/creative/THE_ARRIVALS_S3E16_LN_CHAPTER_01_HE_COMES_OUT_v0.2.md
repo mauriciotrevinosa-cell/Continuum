@@ -253,6 +253,22 @@ Fatigue.
 
 Containment had reduced active pressure.
 
+It had also done one narrower physical thing:
+
+Raphael had damped the competing adaptation routes and restored Mau as close as possible to the stable configuration he had arrived with.
+
+Not "human."
+
+Nobody knew that.
+
+Not "original."
+
+Nobody knew that either.
+
+Arrival-state.
+
+The earliest stable reference they actually possessed.
+
 It had not erased the monster's hit.
 
 It had not restored every memory.
@@ -284,6 +300,96 @@ Fair.
 The Noise now existed as a shared working label.
 
 Nothing more.
+
+Frieren looked at Rimuru.
+
+"The body."
+
+Mau heard the change in her voice.
+
+Rimuru did too.
+
+"What about it?"
+
+"You put him back how he arrived."
+
+"As close as Raphael could."
+
+Frieren's fingers tightened around Mau's hand.
+
+"The elf route?"
+
+Silence.
+
+Mau looked at her.
+
+Rimuru answered carefully.
+
+"No."
+
+Frieren went still.
+
+Not anger at Rimuru.
+
+Grief arriving too early.
+
+"If that one could make him live longer—"
+
+"It might," Rimuru said.
+
+"Might?"
+
+"We don't know what it really was. Elf-like longevity is the closest description. Forcing it to become the permanent template while everything was unstable could have put him into shock."
+
+Frieren looked at Mau.
+
+Human-length life had always been a fact she could postpone emotionally.
+
+Now Continuum had shown her a door and then refused to let anyone walk through it blindly.
+
+Cruel.
+
+Useful.
+
+Rimuru continued.
+
+"The route appearing at all matters."
+
+Frieren looked back.
+
+"How?"
+
+"It means his body can model something like it. Maybe, later, when he's stable, controlled adaptation could be possible."
+
+"Maybe."
+
+"Maybe."
+
+No promise.
+
+Mau squeezed Frieren's hand.
+
+Weak.
+
+Present.
+
+Rimuru added:
+
+"And we still don't know what Mau's baseline species actually is. Arrival-state is a reference, not an answer."
+
+Mau exhaled.
+
+"Great. I'm medically 'Mau-shaped.'"
+
+Frieren laughed once despite herself.
+
+It hurt.
+
+It helped.
+
+Hope existed now.
+
+Small enough not to become a guarantee.
 
 Mau asked for the notes.
 

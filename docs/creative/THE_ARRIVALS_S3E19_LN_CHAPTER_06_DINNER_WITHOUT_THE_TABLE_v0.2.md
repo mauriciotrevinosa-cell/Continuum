@@ -74,9 +74,11 @@ No answer.
 
 Kaneki chose the end where food smells reached him less directly.
 
-The two G5 temporary residents sat together at first.
+Nijika and Ryo sat together at first.
 
-Then one moved when Wakana asked a question about a material they knew.
+Then Nijika moved closer to Bocchi when the room got too loud.
+
+Ryo moved when Wakana asked whether anyone understood why one stringed instrument hated the humidity more than the others.
 
 Integration happened through conversation rather than seating plans.
 

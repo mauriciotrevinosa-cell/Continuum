@@ -11,65 +11,222 @@ Then loved it.
 
 Then hated it more accurately.
 
-Mau could sometimes understand mechanisms he had no educational path to understand.
+The first test was a valve.
 
-That violated Senku's preferred relationship with knowledge.
+Settlement needed one with shape local workshops did not yet produce reliably.
 
-"Explain why."
+Mau looked at broken prototype.
 
-Mau stared at the component.
+Something in him aligned.
 
-"I can't."
+Material.
 
-"Then you don't understand it."
+Flow.
 
-"I understand what it does."
+Pressure.
 
-"Different."
+Shape.
+
+He constructed a working version.
+
+Senku stared.
+
+Mau smiled.
+
+"You're welcome."
+
+Senku picked it up.
+
+"Why this thickness?"
+
+Mau stopped.
+
+"Because it needs to be."
+
+"At what pressure does it fail?"
+
+"I don't know."
+
+"What tolerance?"
+
+"I don't know."
+
+"Why this alloy distribution?"
+
+Mau's smile died.
+
+"I know what it does."
+
+Senku:
+
+"Different from understanding why it keeps doing it."
 
 Correct.
 
-Mau could construct a useful shape.
+Mau hated that.
 
-Senku could ask:
-- why;
-- tolerance;
-- repeatability;
-- failure;
-- material behavior;
-- scale;
-- maintenance.
+They tested.
 
-Mau found that annoying.
+Valve worked.
 
-Also necessary.
+Low pressure.
 
-They tested one constructed valve.
+Higher.
 
-It worked.
+Higher.
 
-Senku dismantled it.
+Then Senku dismantled it.
 
 Mau looked betrayed.
 
-"Why?"
+"You just broke the solution."
 
-"Because if nobody can reproduce it without you, it's not infrastructure."
+"I took apart an artifact."
 
-There.
+"Same."
 
-Mau knew the lesson personally.
+"No."
 
-They rebuilt the valve from ordinary materials plus one magical component Qifrey could teach others to maintain.
+Senku laid parts out.
 
-Less elegant.
+"If nobody can reproduce this without you, infrastructure becomes Mau-shaped dependency."
 
-More real.
+That phrase hit.
 
-Mau laughed.
+Hard.
+
+Memory Arc.
+
+Necessary.
+
+Mau sat.
+
+"Okay."
+
+They reverse-engineered what they could.
+
+Material available?
+
+Mostly.
+
+One component:
+not.
+
+Qifrey proposed magical assist instead.
+
+Not to copy mysterious material.
+
+To reduce required mechanical tolerance.
+
+Good.
+
+Native metalworker changed housing.
+
+Senku adjusted dimensions.
+
+Mau rebuilt one ordinary version with tools, not Construction.
+
+Failed.
+
+Second.
+
+Leaked.
+
+Third.
+
+Worked.
+
+Worse performance than constructed version.
+
+Better civic design.
+
+Mau stared.
 
 "My power keeps losing arguments to maintenance."
 
 Senku:
 
 "Good."
+
+Next test:
+pump impeller.
+
+Mau constructed.
+
+This time Senku refused even to use until Mau could explain enough constraints.
+
+Mau snapped.
+
+"So what, I just don't use my ability?"
+
+"No."
+
+"Sounds like it."
+
+Senku looked at him.
+
+"Use it for prototypes. Emergency replacements. Hypothesis generation. Not invisible dependency."
+
+Difference.
+
+Mau breathed.
+
+That felt fair.
+
+They developed rule:
+
+Construction-created part must be labeled if no ordinary reproduction exists.
+
+Critical systems require fallback that does not assume Mau.
+
+If emergency part installed:
+replacement plan starts same day.
+
+No hiding magical debt.
+
+Mau disliked being policy example.
+
+Then understood.
+
+The city could benefit from anomaly without becoming hostage to it.
+
+Weeks later, emergency water gate cracked.
+
+Mau constructed temporary replacement in minutes.
+
+Saved service.
+
+Then team swapped it two days later for reproducible version.
+
+No one called replacement inferior.
+
+No one called Mau unnecessary.
+
+Both systems had roles.
+
+Senku watched ordinary part go in.
+
+"That's infrastructure."
+
+Mau:
+
+"The thing I made kept everyone watered."
+
+"That's emergency engineering."
+
+"Construction."
+
+"Sure."
+
+Mau smiled.
+
+Argument not solved.
+
+Good.
+
+The lesson was not that Mau's power was bad.
+
+It was that a city should know the difference between:
+a miracle that works
+and
+a system that survives its miracle-worker going missing.

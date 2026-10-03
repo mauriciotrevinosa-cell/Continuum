@@ -4,17 +4,23 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 9  
-**Continuity state:** Day 9 — afternoon/night | Mau: concussion signs + memory instability | Travel paused
+**Continuity state:** Day 9 — afternoon/night | Mau: real head injury + existing memory instability | Travel largely paused
 
-Mau slept for twenty minutes.
+Mau slept twenty minutes.
 
 Ori woke him.
 
-He hated her.
+He hated her immediately.
 
 Good sign.
 
 "What day?"
+
+Mau opened one eye.
+
+"You're terrible."
+
+"Answer."
 
 "Third."
 
@@ -26,13 +32,7 @@ Good sign.
 
 "South river."
 
-"Who am I?"
-
-Mau looked offended.
-
-"Seriously?"
-
-"Answer."
+"Who are you?"
 
 "Mau."
 
@@ -42,63 +42,231 @@ Mau looked offended.
 
 "Who hit you?"
 
-Mau stared.
-
-The answer arrived:
+Mau opened his mouth.
 
 Frieren.
 
+The memory arrived cleanly.
+
+Old inn.
+
+Argument.
+
+Her staff.
+
+A flash.
+
 Wrong.
 
-Then monster.
+Then the monster.
+
+Mud.
+
+Impact.
 
 Real.
 
-He closed his eyes.
-
-"Monster."
+Mau shut his mouth.
 
 Ori saw the delay.
 
-"Do you remember it?"
+"Who?"
 
-"Two versions."
+"Monster."
 
-Her stomach dropped.
+"Did you remember something else?"
 
-Physical injury had entered the same territory as memory manipulation.
+Mau looked at her.
 
-Bad combination.
+"Yes."
 
-Mau sat up.
+Ori sat back.
 
-Nearly fell.
+There it was.
 
-"No travel."
+The worst possible overlap.
 
-"We need distance from the body."
+A real injury with a false explanation available.
 
-"Short."
+"Which?"
 
-They moved less than a kilometer.
+"Frieren."
 
-Ori hated every step.
+Ori's face changed.
 
-Mau began shivering despite warm air.
+Mau said quickly:
 
-At camp, something changed under the skin of his back.
+"I know it's wrong."
 
-He grabbed the ground.
+"Do you?"
 
-Ori saw dark structure press outward.
+"Yes."
 
-Not fully emerge.
+He did.
 
-Then disappear.
+He also remembered pain under Frieren's hand.
 
-Mau's breathing became ragged.
+That memory felt exactly as physical as the cut on his head.
 
-"Did you see that?"
+Mau laughed once.
+
+Bad sound.
+
+"This is getting sophisticated."
+
+"Don't compliment it."
+
+"I'm not."
+
+He tried to sit.
+
+The world moved wrong.
+
+Ori put one hand out.
+
+Mau glared.
+
+"Don't."
+
+"You almost fell."
+
+"I know."
+
+"Then stop doing the thing that causes falling."
+
+"Very advanced medicine."
+
+"I learned from watching Maomao threaten you."
+
+They stayed.
+
+Longer than Mau wanted.
+
+After an hour, he could stand without immediately losing the horizon.
+
+That was not enough.
+
+Ori refused to go more than a short distance from the carcass.
+
+They needed cleaner water and a better overhang.
+
+Not "south."
+
+Shelter.
+
+Mau kept trying to turn every practical move into continued investigation.
+
+Ori caught him.
+
+"That path is south."
+
+"So?"
+
+"We said shelter."
+
+"There's probably shelter south."
+
+"Probably based on what?"
+
+Mau stopped.
+
+Nothing.
+
+Pressure.
+
+Memory.
+
+Bad evidence.
+
+He pointed west instead.
+
+"Rock formation."
+
+Visible.
+
+Real.
+
+Ori nodded.
+
+They went west.
+
+Less than a kilometer.
+
+Mau leaned on a branch.
+
+Then Ori.
+
+He hated the second more.
+
+At the overhang, he sat and could not remember the last hundred meters.
+
+Not fully.
+
+He remembered walking.
+
+No sequence.
+
+Ori told him.
+
+He wrote:
+
+GAP AFTER IMPACT.
+
+Then crossed out GAP.
+
+Maybe not gap.
+
+Just poor recall.
+
+No need to dramatize uncertainty into certainty.
+
+By late afternoon, he began shivering despite warm air.
+
+Ori touched his forehead.
+
+Too warm.
+
+"Fever."
+
+"Maybe."
+
+"You're hot."
+
+"I'm attractive."
+
+Ori stared.
+
+Mau sighed.
+
+"Sorry."
+
+"That joke means you still have language."
+
+"Excellent diagnosis."
+
+Then the pressure under his back started.
+
+Not memory.
+
+Physical.
+
+Mau straightened.
+
+"What?"
+
+Ori moved around him.
+
+Something beneath his shirt pushed outward along one side of his back.
+
+Not a muscle.
+
+Wrong shape.
+
+Mau felt it.
+
+His face went white.
+
+"Do you see that?"
 
 "Yes."
 
@@ -106,42 +274,162 @@ Mau's breathing became ragged.
 
 Not good.
 
-But shared observation.
+Shared.
 
-He laughed weakly.
+The shape receded.
 
-Then stared at Ori as if seeing her from far away.
+Mau sat very still.
 
-"I remember this."
+"Again."
 
-"We haven't done this."
+"What?"
+
+"Tell me what happened."
+
+Ori did.
+
+A line under the skin.
+
+Pushed outward.
+
+Then disappeared.
+
+Mau wrote it.
+
+Hands shaking.
+
+"Monster did that?"
+
+"I didn't see it before."
+
+"That isn't an answer."
 
 "I know."
 
-"Then don't follow the memory."
+Mau looked at the notebook.
 
-"I'm trying."
+Head injury.
 
-Night three.
+False memory.
 
-Ori did not sleep.
+Fever.
 
-Mau did, badly.
+Unknown body change.
 
-Once he woke and asked where Frieren was.
+Too many systems.
 
-Then remembered.
+At dusk, the shape returned.
 
-Then cried because remembering hurt.
+Larger.
 
-Ori sat beside him.
+This time Mau felt pressure between his shoulder blades first.
 
-No magic answer.
+He warned Ori.
 
-No goddess voice.
+"Back."
 
-Only presence.
+She moved in front of him instead.
 
-By dawn, Mau could walk again.
+"Why?"
+
+"So you can see me."
+
+The dark structure pressed through enough to distort the shirt.
+
+Not fully emerge.
+
+Then receded.
+
+Mau breathed hard.
+
+Ori did too.
+
+Neither had been touched.
+
+"Don't stay behind me," Mau said.
+
+"Okay."
+
+"If it comes out."
+
+"Okay."
+
+"If I—"
+
+Ori cut him off.
+
+"Don't make me promise not to get hurt."
+
+Mau looked at her.
+
+"Promise you'll move if you need to."
+
+That she could promise.
+
+"Yes."
+
+Night came.
+
+Mau slept badly.
+
+Ori barely slept.
+
+Once he woke and asked:
+
+"Where's Frieren?"
+
+"At the inn. Or searching."
+
+He remembered.
+
+Cried anyway.
+
+Not because he doubted she was searching.
+
+Because knowing she was searching proved he had done this to her again.
+
+Ori did not tell him it was okay.
+
+It wasn't.
+
+She stayed.
+
+Before dawn, Mau woke certain they needed to keep moving.
+
+His fever was worse.
+
+His balance better.
+
+That combination was enough for him to argue.
+
+Not enough for Ori to agree.
+
+They argued for twenty minutes.
+
+Then the riverbank upstream produced a deep animal call.
+
+Not close.
+
+Close enough.
+
+Ori looked at Mau.
+
+Mau looked south.
+
+Then west toward visible stone.
+
+"Shelter."
+
+"Not distance."
+
+Mau nodded.
+
+Progress.
+
+By sunrise they moved.
+
+He could walk.
 
 That did not mean he should.
+
+The distinction would cost them the next day.

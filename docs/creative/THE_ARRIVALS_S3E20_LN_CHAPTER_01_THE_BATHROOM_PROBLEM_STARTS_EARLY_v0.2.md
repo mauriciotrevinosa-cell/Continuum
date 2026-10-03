@@ -4,60 +4,216 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
 **Reading order:** 13  
-**Continuity state:** Move Day 3 — morning | Settlement inhabited but incomplete
+**Continuity state:** Move Day 3 — morning | Resident behavior changes construction priorities
 
-The bathroom problem started before there were enough people to call it a bathroom war.
+The bathroom problem started at 6:12 in the morning.
+
+Mikasa knew the time because Mikasa knew things like that.
 
 One washing room.
 
 Two latrine clusters.
 
-Too many morning routines.
+Too many routines.
 
-Marin took too long.
+Marin got there first.
 
-Milim did not understand queues.
+Then did not leave.
 
-Momo understood queues and rejected them ideologically.
+Aira waited.
 
-Mikasa understood queues and enforced them.
+Then stopped waiting.
 
-Maomao cared only that clean-water containers stayed clean.
+"What is she doing?"
 
-Mau waited.
+Mikasa:
 
-Frieren did not.
+"Getting ready."
 
-"You were first."
+"For war?"
 
-"You were asleep."
+No answer.
 
-"I was resting my eyes."
+Milim arrived.
 
-"That's sleep."
+Saw line.
 
-"No."
+Walked past line.
 
-Domestic law developed rapidly.
+Three people spoke at once.
 
-By 8:20 they had a crude schedule.
+Milim stopped.
 
-By 8:40 everyone hated the schedule.
+"What?"
 
-By 9:00 Wakana proposed adding a second wash station before more people moved.
+"Queue."
 
-Correct.
+Milim looked at the door.
 
-Rimuru changed construction priority.
+Then at people.
 
-That delayed a decorative roof finish.
+"This is inefficient."
+
+Aira:
+
+"Correct. Back."
+
+Momo arrived.
+
+Understood the queue.
+
+Rejected it ideologically.
+
+Umaru arrived later and attempted to establish a reservation system using paper no one had agreed to.
+
+Maomao cared about none of their philosophy.
+
+She opened one clean-water container.
+
+Saw someone had put a used cup inside.
+
+Everyone heard the silence.
+
+"Who."
+
+No one answered.
+
+Mau waited near the end of the line.
+
+Frieren walked past.
+
+He stared.
+
+"You were behind me."
+
+"I was asleep."
+
+"That's not how queues work."
+
+"I was resting my eyes while standing."
+
+"You were in bed."
+
+"Still resting."
+
+Frieren entered the wash room after Marin.
+
+Mau looked at Mikasa.
+
+"Law?"
+
+Mikasa looked tired.
+
+"Not this early."
+
+Domestic governance had limits.
+
+By 7:00, the washing area floor had more water than intended.
+
+By 7:20, someone discovered the hooks were placed badly for wet towels.
+
+By 7:40, two people had carried clean containers through the wrong route.
+
+Maomao declared war.
+
+Rimuru arrived because multiple people had independently decided the problem belonged to him.
+
+Senku had not arrived yet.
+
+Unfortunate.
+
+They tested capacity.
+
+Not abstract.
+
+How many people could wash without destroying water separation?
+
+How long did peak use last?
+
+Could the secondary outdoor wash point take overflow?
+
+Yes.
+
+Weather-dependent.
+
+How many more residents could move before this became impossible?
+
+Fewer than planned.
+
+That changed construction.
+
+Wakana suggested a second covered wash station before decorative finishing.
+
+Momo looked at the unfinished roof trim.
+
+"Beauty delayed by hygiene."
+
+Maomao:
+
+"Correct."
+
+Momo mourned.
+
+Rimuru moved labor.
+
+One team that had planned decorative finish changed to wash-area framing.
 
 Nobody died.
 
-The settlement changed because people lived there.
+No one applauded infrastructure.
 
-Not because an architect predicted them perfectly.
+By 9:00, a crude schedule existed.
 
-At the old inn, Rem used the bathroom without waiting.
+By 9:20 everyone hated it.
 
-She did not know how lucky she was.
+Then Fern arrived from the inn carrying records.
+
+She looked at the board.
+
+MORNING WASH PRIORITY:
+medical need
+children
+work shifts
+everyone else
+
+Fern:
+
+"Reasonable."
+
+Momo:
+
+"Authoritarian."
+
+Fern added:
+
+"People can trade slots."
+
+Momo:
+
+"Participatory authoritarianism."
+
+Fern ignored her.
+
+At the inn, Rem had used the wash room alone that morning.
+
+When she heard the story later, she laughed harder than anyone expected.
+
+The settlement had been designed by plans.
+
+Now it was being redesigned by bodies.
+
+Who woke when.
+
+Who took too long.
+
+Who needed privacy.
+
+Who ignored lines.
+
+Who forgot cups.
+
+The move was no longer carrying people into architecture.
+
+People were pushing back.
+
+Good.

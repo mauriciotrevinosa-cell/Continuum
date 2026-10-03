@@ -34,7 +34,7 @@ The original v0.2 rebuild fixed major continuity architecture but was too compre
 Before the post-v0.2 prose work:
 - many chapters were effectively story beats rather than lived scenes;
 - the old v0.2 median was roughly 1.28 KB;
-- 192 / 227 v0.2 files were below 2.5 KB.
+- 210 / 227 v0.2 files were below 2.5 KB.
 
 That label is now historical only.
 

@@ -4,9 +4,213 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
 **Reading order:** 24  
-**Continuity state:** Day 5 — night | Mau: outwardly stable | Frieren beginning to unclench
+**Continuity state:** Day 5 | Mau outwardly stable | Old inn still home | G5 present | Worksite active
 
-Day two ended with Mau washing dishes.
+Day two began badly enough to feel normal.
+
+Mau burned breakfast.
+
+Not catastrophically.
+
+Enough that Momo held up one piece of bread and asked whether he was testing defensive materials.
+
+"Eat it."
+
+"I value my life."
+
+"You live with Milim."
+
+"Exactly. I need to preserve what remains."
+
+Milim wanted to know why she had been included.
+
+Nobody explained.
+
+Frieren watched Mau laugh.
+
+That was the dangerous part.
+
+The first day of stability had made everyone careful.
+
+The second day made care start to look silly.
+
+Maomao checked him anyway.
+
+No fever.
+
+No obvious balance problem.
+
+No new contradiction in the morning questions.
+
+"Any wrong memories?" Frieren asked after breakfast.
+
+Mau thought before answering.
+
+"One."
+
+The room went quieter.
+
+He pointed at the hoodie Frieren was wearing.
+
+"I remember you stealing that yesterday."
+
+Frieren looked down.
+
+"I stole it this morning."
+
+Mau waited.
+
+The memory remained.
+
+"Do I remember why?"
+
+Frieren asked.
+
+Mau looked at her.
+
+"Cold?"
+
+"No."
+
+He frowned.
+
+"I wanted it."
+
+Mau laughed.
+
+"That does sound more like you."
+
+The mismatch was tiny.
+
+No implanted cruelty.
+
+No impossible location.
+
+No false proof that people hated him.
+
+Just a day placed wrong.
+
+They wrote it down.
+
+Then they kept eating.
+
+That was the new skill.
+
+Not every inconsistency became emergency.
+
+At the worksite, Mau spent most of the morning doing almost nothing useful.
+
+This was harder for him than carrying stone.
+
+The drainage markers had been moved while he was gone.
+
+A temporary storage shelter was half finished.
+
+Two G5 arrivals were helping Wakana sort material because one of them had experience with textiles and the other simply hated standing around.
+
+One G5 traveler had left that morning for a nearby native town.
+
+Another still planned to leave after recovering.
+
+No one had frozen in place waiting for Mau to return.
+
+He knew that was healthy.
+
+His chest still hurt.
+
+Agott saw him staring at a group repairing a frame.
+
+"You could help."
+
+Mau looked at her.
+
+"I was told I shouldn't."
+
+"You were told not to lift heavy things."
+
+"Same emotionally."
+
+Agott rolled her eyes.
+
+Coco, nearby, said:
+
+"You can hold this."
+
+She handed him a length of string.
+
+Mau stared at it.
+
+"What am I doing?"
+
+"Keeping it from moving."
+
+"That's a fake job."
+
+"It keeps moving."
+
+Mau looked down.
+
+It did.
+
+He held the string.
+
+For fifteen minutes, that was his contribution.
+
+No one thanked him dramatically.
+
+No one needed him to become central.
+
+He remained anyway.
+
+By late afternoon, Frieren realized she had gone almost an hour without checking where Mau was.
+
+The realization stopped her.
+
+Then another followed.
+
+He was sitting in plain sight, arguing with Rimuru over whether a path should curve around a tree.
+
+She had not forgotten him.
+
+She had simply stopped expecting disappearance every time she looked away.
+
+That frightened her almost as much as the search had.
+
+Hope required lowering guard.
+
+Lowering guard made the next loss possible.
+
+Frieren hated that mathematics.
+
+Mau noticed her watching.
+
+"What?"
+
+"Nothing."
+
+"That sounded like something."
+
+Frieren walked over.
+
+He shifted to make room on the crate.
+
+She sat.
+
+No crisis.
+
+No confession.
+
+Mau continued arguing with Rimuru.
+
+Frieren listened.
+
+The future settlement still looked like mud, stakes and bad decisions.
+
+Good.
+
+Nothing had secretly finished while they were suffering.
+
+That evening, Mau washed dishes.
 
 Nobody stopped him.
 
@@ -22,84 +226,74 @@ Umaru clapped anyway.
 
 Mau flipped her off.
 
-Frieren saw.
-
-Did not object.
+Fern told both of them to behave.
 
 Normal.
 
-Later they sat outside the inn.
+Later, Mau and Frieren sat outside the inn.
 
-Not far.
+G5 voices carried from the common room.
 
-No route maps.
+Milim was arguing with Diablo about who had technically found Rimuru first.
 
-No evidence table.
+Neither definition made sense.
 
-Frieren wore his hoodie.
+Bocchi played something quietly upstairs.
 
-Mau had stopped describing it as his.
+Ori was inside with Coco.
 
-"Any wrong memories?"
+Mau leaned against Frieren.
 
-Mau thought.
+"Do you think I'm fine?"
 
-"One."
-
-Frieren waited.
-
-"I remember you stealing that yesterday."
-
-Frieren looked down.
-
-"I stole it this morning."
-
-Mau smiled.
-
-"Close."
-
-"Do you remember why?"
-
-"Cold."
+Frieren looked at him.
 
 "No."
 
-He looked at her.
-
-"I wanted it."
-
 Mau laughed.
 
-The memory mismatch was small.
+"Good."
 
-No hidden cruelty.
+"Do you?"
 
-No altered love.
+He thought longer.
 
-They wrote it down anyway.
+"I think today was fine."
 
-Not every inconsistency was a crisis.
+Different answer.
 
-That was another skill.
+Frieren liked it better.
 
-Mau leaned against her.
+Mau looked at the road.
 
-Frieren allowed herself to relax.
+"I keep waiting for something to happen."
 
-Across the yard, G5 talked too loudly.
+"Something is happening."
 
-Milim argued with Diablo about who had found Rimuru first.
+"What?"
 
-Neither definition was sensible.
+Frieren pulled the sleeve of his hoodie farther over her hand.
 
-The worksite was dark.
+"You are sitting here."
 
-No one lived there yet.
+Mau turned toward her.
 
-Tomorrow they would go again.
+"That's extremely elf wisdom."
 
-Mau's head rested on Frieren's shoulder.
+"Yes."
 
-Day two fine.
+He rested his head on her shoulder.
 
-Almost.
+For a while, nothing happened.
+
+No false voice.
+
+No wrong conversation.
+
+No pressure telling him to leave.
+
+No one asked him to prove he was stable.
+
+Day two ended small enough that everyone began believing there might be a day three like it.
+
+That was why day three would hurt.

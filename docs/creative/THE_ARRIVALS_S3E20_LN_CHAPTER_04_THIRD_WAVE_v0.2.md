@@ -3,26 +3,36 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 16
-**Continuity state:** Move Day 4 | Fern transfers primary household administration | Rem remains at inn by choice
+**Reading order:** 16  
+**Continuity state:** Move Day 4 | Fern transfers primary household administration | Rem remains at old inn
 
 Fern moved on day four.
 
-That made the settlement official more effectively than any flag could have.
+That made the settlement official more effectively than any banner could have.
 
-She brought:
-- ledgers;
-- spare keys;
-- route records;
-- tea;
-- three objects nobody knew why she considered essential;
-- Stark.
+She brought ledgers first.
 
-Stark objected to being listed as cargo.
+Then spare keys.
 
-Fern ignored him.
+Route records.
 
-The old inn did not become empty.
+Tea.
+
+Three objects nobody understood.
+
+And Stark.
+
+Stark objected to being listed between tea and objects.
+
+Fern did not care.
+
+"You're carrying the box."
+
+"That doesn't make me cargo."
+
+"Debatable."
+
+The old inn did not empty when Fern left.
 
 Rem stayed.
 
@@ -30,36 +40,156 @@ Two guests stayed.
 
 One G5 traveler returning from a nearby town would sleep there that night.
 
-A rotation was established.
+One household member would rotate back each night while the inn still hosted people.
 
-Someone would check the inn daily.
+Keys duplicated.
 
-At least one person would sleep there while it still hosted guests.
+Water checked.
 
-No abandonment through inattention.
+Food stocked.
 
-Fern entered the new common room.
+No abandonment through sentimentality.
 
-Looked around.
+If they wanted the inn preserved, it needed to function.
 
-Saw the new table.
+Mau watched Fern pack the route ledgers.
 
-The chaos.
+"Those lived on the old shelf."
 
-The storage labels.
+"They will now live on the new shelf."
 
-The improperly stacked dishes.
+He frowned.
 
-Her face changed.
+"Administrative migration."
 
-Everyone began cleaning before she spoke.
+Fern:
 
-Leadership.
+"Please don't name it."
 
-The settlement gained an administrative center accidentally.
+Too late.
 
-Not government yet.
+The road to the settlement looked different under Fern's luggage.
 
-Fern's ledger on a shelf.
+Not emotional.
 
-That was enough.
+Heavy.
+
+Stark complained most of the way.
+
+At arrival, Fern entered the common room.
+
+Stopped.
+
+Everyone else noticed the stop.
+
+Improperly stacked dishes.
+
+Three lists on two different walls.
+
+One route map pinned at an angle.
+
+A box labeled MEDICAL beside a box labeled KITCHEN because someone had run out of shelf space.
+
+Momo was standing on a chair trying to hang something decorative.
+
+Fern inhaled.
+
+The room began cleaning itself.
+
+Mau watched.
+
+"Leadership."
+
+Rimuru:
+
+"Fear."
+
+"Same family."
+
+Fern put the ledgers on one shelf.
+
+That act changed the building more than any decoration.
+
+Until then, important decisions still traveled mentally back to the inn.
+
+Where are the keys?
+
+At Fern.
+
+Where are the route notes?
+
+At the inn.
+
+Where are guest statuses?
+
+Fern.
+
+Now those things had moved.
+
+Primary administration followed.
+
+Not government.
+
+Not city hall.
+
+One shelf.
+
+One table.
+
+One person who knew where everything was.
+
+Dangerous amount of power for furniture.
+
+Fern knew that too.
+
+She made copies.
+
+Assigned access.
+
+Showed Nano where current records lived.
+
+No single point of failure.
+
+Good.
+
+Mau noticed.
+
+Memory Arc made him notice.
+
+By evening, the settlement contained enough of the household's practical memory that calling the inn default base stopped being accurate.
+
+Still home.
+
+No longer operational center.
+
+Fern returned to the inn once more that night.
+
+Not because she had forgotten anything.
+
+To hand off keys to the person sleeping there.
+
+Rem met her at the door.
+
+"How is it?"
+
+Fern thought.
+
+"Loud."
+
+Rem smiled.
+
+"That means people moved."
+
+"Unfortunately."
+
+They checked the guest rooms together.
+
+The inn remained alive.
+
+Then Fern walked back toward the settlement under lantern light.
+
+For the first time, she carried no box.
+
+Only herself.
+
+Third wave complete.

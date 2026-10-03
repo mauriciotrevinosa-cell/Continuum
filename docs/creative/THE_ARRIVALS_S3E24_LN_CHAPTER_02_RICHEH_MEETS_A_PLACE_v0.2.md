@@ -3,30 +3,46 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 10
-**Continuity state:** Richeh guest status | Reunion expands into lived integration
+**Reading order:** 10  
+**Continuity state:** Richeh = guest | Reunion expands into learning Coco's existing life
 
 Coco tried to introduce everyone at dinner.
 
-Failed.
+This failed immediately.
 
 "This is Bocchi, that's Kita, Rimuru can be slime, Milim is—"
 
 "What am I?"
 
+Milim leaned across the table.
+
+Coco froze.
+
 "Complicated."
 
 "HEY."
 
-"Diablo is also complicated, Ori is—"
+"Diablo is also complicated—"
 
-"Sort of from here," Ori offered.
+Diablo looked pleased.
 
-"Thank you."
+"—Ori is sort of from here—"
 
-Richeh looked overwhelmed.
+Ori:
 
-Qifrey interrupted.
+"Reasonable."
+
+"—Momo is—"
+
+Momo:
+
+"Perfect."
+
+Several people objected.
+
+Richeh stared.
+
+Qifrey intervened.
 
 "One day at a time."
 
@@ -42,33 +58,137 @@ Coco deflated.
 
 Reasonable.
 
-Arrival House gave Richeh guest status without ceremony.
+Arrival House gave Richeh guest status.
 
-She was not automatically absorbed into Qifrey's household category.
+No ceremony.
 
-She chose where to sleep.
+No automatic:
+Qifrey knows you, therefore permanent resident.
 
-The next week she met the settlement in pieces.
+Fern asked where she wanted to sleep.
+
+Richeh looked at Coco.
+
+Then stopped herself.
+
+"Can I see options?"
+
+Good.
+
+She chose guest room near—but not inside—Coco's space.
+
+That first night Coco sat on the floor there too long.
+
+Richeh:
+
+"Are you sleeping here?"
+
+"No."
+
+"You've been here an hour."
+
+Coco looked at the door.
+
+Fear of leaving.
+
+Richeh recognized.
+
+"Coco."
+
+"I know."
+
+"Go home."
+
+Coco's eyes filled.
+
+Richeh softened.
+
+"You're allowed to have a room that's yours."
+
+That was the first time reunion required separation.
+
+Coco left.
+
+Came back five minutes later because she had forgotten to say goodnight.
+
+Then actually left.
+
+Over the next week, Richeh met the settlement in pieces.
 
 Wakana's workshop.
 
-Water point.
+Not because someone gave a tour.
+
+Because Coco needed thread.
+
+Water court.
+
+Because Richeh asked why everyone kept carrying containers through the same plaza.
 
 Bocchi's music room.
 
-Old inn on a day trip.
+Because music came through a wall and Richeh followed it.
 
-The old inn mattered because Coco could say:
+Old inn.
+
+That one was deliberate.
+
+Coco took her.
+
+Road.
+
+Trees.
+
+Door that stuck.
+
+Inside, Coco said:
 
 "This is where we lived before."
 
-History now had geography.
+Richeh looked around.
+
+"All of you?"
+
+"Too many."
+
+The table.
+
+The room.
+
+Proof Coco had a history in Continuum before Richeh arrived.
+
+Richeh felt something unpleasant.
+
+Jealousy?
+
+Grief?
+
+Relief?
+
+All possible.
+
+She touched one mark on the table.
+
+"You were here a long time."
+
+Coco nodded.
+
+Richeh smiled.
+
+"Good."
+
+Not:
+I wish you had waited unchanged.
+
+That mattered.
 
 Mau met Richeh properly while holding the wrong end of a measuring line.
 
-"You're Mau?"
+Coco dragged Richeh over.
 
-He looked at Coco.
+"This is Mau."
+
+Mau looked at Coco.
 
 "What did you tell her?"
 
@@ -78,6 +198,26 @@ Richeh nodded.
 
 "Way too much."
 
-Good beginning.
+Mau sighed.
+
+"Excellent."
 
 No protagonist ceremony.
+
+Richeh's first opinion of Mau was that he was shorter than rumor made him feel.
+
+She did not say that.
+
+Agott did.
+
+Mau looked betrayed.
+
+Good.
+
+Richeh met a place before deciding whether it would become hers.
+
+Her reunion with Coco did not answer that for her.
+
+Love reopened a relationship.
+
+It did not preselect a home.

@@ -7,15 +7,39 @@
 
 Dusk.
 
-HUMAN-LIKE / MULTIPLE / WEST.
+The west sensor lit first.
 
-Then:
+HUMAN-LIKE / MULTIPLE.
 
-ANIMAL-LIKE / LARGE / NORTHWEST.
+Not attack.
+
+Approach.
+
+Watch confirmed shapes.
+
+Local insignia.
+
+More than normal patrol.
+
+Then northwest.
+
+ANIMAL-LIKE / LARGE / MULTIPLE.
+
+Moving fast.
+
+Not toward city exactly.
+
+Across it.
 
 Then:
 
 UNKNOWN / FAST.
+
+One marker.
+
+Gone.
+
+Reappeared farther south.
 
 Three directions.
 
@@ -27,31 +51,43 @@ Not yet.
 
 Alarm level two.
 
-Prepare.
+The sound carried better after drill fixes.
 
-Arrival House stopped intake and redirected current guests.
+Washing court heard.
+
+Old inn received relay.
+
+Arrival House switched immediately from intake to shelter guidance.
+
+Fern closed front-table paperwork.
+
+"Current guests first."
+
+No new bureaucracy under alarm.
 
 Children moved inward.
 
-Water valves checked.
+Some laughed at first.
+
+Then saw adults serious.
+
+Bocchi and Kita took calm-space route.
+
+Umaru grabbed blankets without being asked.
+
+Water crews checked valves.
+
+Food stores sealed.
 
 Searchers recalled.
 
-Old inn got warning.
+One team still outside.
 
-The western group carried local insignia and copied notices.
+Marker posted ETA.
 
-The northern movement resolved partly:
+No one waited for permission to begin their assigned role.
 
-animals.
-
-Running.
-
-Not attacking.
-
-From something.
-
-Bad.
+Second drill had worked.
 
 Mau reached for equipment.
 
@@ -65,6 +101,147 @@ He stopped.
 
 "Good."
 
-He hated how relieved she looked.
+He hated relief in her voice.
 
 Understood anyway.
+
+He moved to inner junction.
+
+Not front.
+
+West group came into visual range.
+
+Mixed.
+
+Militia insignia.
+
+Hired fighters by gear mismatch.
+
+Officials.
+
+Civilians behind.
+
+Why civilians?
+
+Unknown.
+
+Could be displaced locals.
+
+Could be witnesses.
+
+Could be pressure.
+
+Anko prepared negotiation team.
+
+Northwest animals kept running.
+
+Actual animals.
+
+Deer.
+
+Livestock.
+
+Small monsters.
+
+All fleeing same direction.
+
+From something.
+
+That changed northern response.
+
+Do not attack fleeing creatures automatically.
+
+Open movement lane away from housing.
+
+Milim hovered.
+
+"Can I scare them farther?"
+
+Mikasa:
+
+"Gently."
+
+Milim looked offended by adverb.
+
+Did it.
+
+Then first monster-like signature appeared behind fleeing animals.
+
+Large.
+
+Then another.
+
+Then several.
+
+Rimuru looked at map.
+
+"Okay."
+
+Not panic.
+
+Recognition.
+
+Two events converging.
+
+Could be orchestrated.
+
+Could be one actor exploiting another.
+
+Could be western militia arriving at worst possible moment.
+
+Pattern did not grant causality.
+
+Anko left west with Himmel and native representative.
+
+No Diablo visible.
+
+Deliberate.
+
+If negotiation failed, power remained behind.
+
+At inner junction, Mau heard distant impact.
+
+Every instinct:
+go.
+
+Card in hand.
+
+Inner mobile.
+
+He stayed.
+
+Aira ran past with message.
+
+"North line says monsters confirmed."
+
+"Need me?"
+
+"Not yet."
+
+She kept running.
+
+Mau exhaled.
+
+Good.
+
+Not yet.
+
+Then west route sent:
+
+DEMAND REPEATED.
+
+No firing.
+
+Still talking.
+
+For three minutes, city existed inside possibility that everything might de-escalate.
+
+Then northwest observation bell changed.
+
+Not warning.
+
+Fallback.
+
+First line had moved.
+
+The real crisis began.

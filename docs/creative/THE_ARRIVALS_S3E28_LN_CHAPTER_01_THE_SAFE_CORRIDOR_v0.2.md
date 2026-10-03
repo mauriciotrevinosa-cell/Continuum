@@ -9,7 +9,31 @@ The east village did not become an ally overnight.
 
 It became useful.
 
-Their headwoman met Searchers at a bridge.
+That was better.
+
+Their headwoman met Searchers at the bridge between routes.
+
+No banners.
+
+Two guards.
+
+One clerk.
+
+Anko.
+
+Himmel.
+
+Mikasa.
+
+A native guide.
+
+Mau stayed home.
+
+Again.
+
+Progress.
+
+The headwoman began:
 
 "We are not endorsing your settlement."
 
@@ -17,40 +41,137 @@ Anko nodded.
 
 "We didn't ask."
 
-"We will not hide criminals."
+"We will not hide people charged with named crimes."
 
 "Neither will we."
 
+"We won't accept groups bypassing our market rules."
+
+"Fine."
+
 "We will allow travelers through if there is no specific charge."
-
-"Good."
-
-"We want monster-route information in exchange."
 
 There.
 
-Partnership through need.
+The bridge changed category.
 
-Searchers had route data.
+Searchers had been using a forest detour after western restrictions intensified.
 
-The village had road access.
+Half a day longer.
+
+More monster exposure.
+
+Harder on injured travelers.
+
+This route could remove it.
+
+The headwoman held up one finger.
+
+"In exchange, monster-route information."
+
+Fair.
+
+Searchers had maps.
+
+Village had road.
 
 Neither needed ideological love.
 
-The corridor reduced one dangerous detour by half a day.
+They spent the next hour defining:
+what counted as a named charge;
+who verified it;
+what happened if papers arrived after a traveler;
+what happened when a traveler refused identification;
+how much advance notice a larger group should provide.
 
-Arrival House updated maps.
+Not perfect.
 
-The second community used the route too.
+Enough.
+
+Himmel noticed village guards were uneasy around powerful arrivals.
+
+He suggested advance notice for groups larger than three.
+
+Mikasa disliked revealing movement.
+
+The headwoman disliked surprises.
+
+Compromise:
+estimated group size, not names, unless a named safety issue existed.
+
+Good.
+
+The first test came before the meeting ended.
+
+A mother and teenage son approached from the west.
+
+Otherworlders.
+
+No specific accusation.
+
+Checkpoint papers incomplete.
+
+The nearest guard looked to the headwoman.
+
+Policy had become real immediately.
+
+The headwoman asked:
+named charge?
+
+None.
+
+Immediate danger?
+
+None known.
+
+Medical emergency?
+
+No.
+
+She waved them through.
+
+The teenager stared.
+
+"That's it?"
+
+The headwoman:
+
+"For today."
+
+Arrival House later received them.
+
+The corridor worked once.
+
+Not proof forever.
+
+Enough.
+
+The second community used the route the next day.
 
 Independent benefit.
 
-The message had produced infrastructure through diplomacy.
+No requirement to pass through the main settlement.
+
+Important.
+
+At the map board, Anko changed the route color.
+
+Not SAFE.
+
+SAFER / CONDITIONAL.
+
+Momo complained.
+
+"Less inspiring."
+
+"More accurate."
+
+The first external partnership produced no grand alliance.
+
+It produced a road people could use without vanishing into uncertainty.
+
+Infrastructure through diplomacy.
 
 Small.
 
 Real.
-
-The first external partnership was not friendship.
-
-It was a road people could use without disappearing.

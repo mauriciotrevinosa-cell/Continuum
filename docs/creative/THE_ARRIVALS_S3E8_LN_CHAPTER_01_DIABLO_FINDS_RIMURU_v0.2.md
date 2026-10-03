@@ -1,199 +1,333 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 4 — Diablo Finds Rimuru
+## Chapter 6 — A Demon at the Door
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 4  
-**Continuity state:** First disappearance, Day 1 — late evening | Rimuru away from inn | Mau: still missing
+**Reading order:** 6  
+**Continuity state:** First disappearance, Day 2 — dusk | Mau missing almost two days | Frieren severely sleep-deprived | Diablo has not searched for Mau yet
 
-Rimuru felt the presence before he saw the man.
+Diablo reached the old inn looking for Rimuru.
 
-Familiar.
+That was all.
 
-Impossible.
+No secret knowledge of Mau.
 
-He stopped on a road south of the search line.
+No search mission.
 
-For one stupid second, Mau disappeared from his mind.
+No G5.
 
-Black hair.
+He had arrived in Continuum, found traces familiar enough to follow, and eventually reached a building carrying Rimuru's presence.
 
-Dark clothes.
+He stepped onto the road.
 
-A posture Rimuru knew well enough to recognize from distance.
+Frieren saw him from the opposite direction.
 
-Diablo.
+She had been out since before dawn.
 
-The name existed before logic.
+Twenty-three minutes of sleep the first night.
 
-"Rimuru-sama."
+Maybe another half hour in fragments.
 
-Diablo's composure broke exactly once.
+No real rest.
 
-Rimuru crossed the distance.
+No Mau.
 
-The reunion should have been longer.
+Then:
 
-Questions should have happened.
+a demon.
 
-Where did you arrive?
+Not a weak one.
 
-How long?
+Not a subtle one.
 
-What do you remember?
+A presence so dense Frieren felt it before she fully saw him.
 
-Who else?
+Walking toward the inn.
 
-Instead Rimuru grabbed him, let himself feel relief for three breaths, and then pulled back.
+Toward Fern.
 
-"I need help."
+Bocchi.
 
-Diablo's expression changed immediately.
+Coco.
 
-Not offended.
+Everyone Mau had left behind.
 
-Focused.
+Frieren's staff was in her hand before thought finished.
 
-"Name."
+Diablo stopped.
 
-"Mau."
+His smile faded.
 
-"Relation?"
+Interesting.
 
-"Friend."
+The elf in front of him did not ask a question.
 
-"Condition?"
+The first Zoltrak came hard enough to erase the road behind him.
 
-"Missing. Memory manipulation or something close to it. We don't know."
+Diablo moved.
 
-"Threat source?"
+"Ah."
 
-"Unknown."
+Second.
 
-"Direction?"
+He blocked.
 
-Rimuru pointed north.
+The spell burned through more of his defense than he expected.
 
-Diablo looked at him.
+Now he was interested.
 
-Rimuru expected a question about why one missing person had half the region moving.
+Bad.
 
-It did not come.
+Frieren saw a demon smile after taking anti-demon magic.
 
-Rimuru had asked.
+Every exhausted conclusion in her mind aligned.
 
-For Diablo, that was sufficient motive.
+Threat.
 
-Then Diablo looked past him.
+She raised her staff.
 
-Farther south.
+The air folded.
 
-His eyes narrowed.
+One black sphere appeared above the road.
 
-"There are others."
+Then another.
 
-Rimuru's stomach dropped.
+Then three more.
 
-"Hostile?"
+Light bent around them.
 
-"Unknown."
+Loose stone lifted.
 
-"How many?"
+Diablo's expression finally changed.
 
-Diablo paused.
+Not fear.
 
-"Enough that leaving them scattered while you commit your strongest people north would be careless."
+Respect sharpened into preparation.
 
-Rimuru hated that sentence.
+"Frieren!"
 
-Because it was correct.
+Rimuru's voice came from the inn.
 
-Mau missing.
+Too late for first collapse.
 
-New arrivals elsewhere.
+The nearest black hole tore earth upward as Diablo shifted out of its center.
 
-Two crises.
+A second opened where he reappeared.
 
-Same night.
+Frieren had predicted movement.
 
-"I can't leave the search."
+Diablo caught the edge.
 
-"I did not ask you to."
+His sleeve vanished.
 
-Diablo smiled.
+Skin beneath split.
 
-The smile was familiar enough that Rimuru almost felt normal.
+He looked at the damage.
 
-Almost.
+"How remarkable."
 
-"What are you going to do?"
+Wrong thing to say.
 
-"Bring them to you."
+Frieren created two more.
 
-"Diablo—"
+The inn windows rattled.
 
-"Safely."
+Fern dragged people away from front room.
+
+Bocchi hit floor.
+
+Coco stared.
+
+Agott grabbed her shoulder.
+
+Rimuru came through the door in human form.
+
+"STOP!"
+
+Frieren did not.
+
+Not yet.
+
+Diablo moved again.
+
+Frieren tracked.
+
+Rimuru put himself between them.
+
+That stopped her.
+
+Not because spell vanished.
+
+Because target changed.
+
+Frieren's hands shook.
+
+"Move."
 
 Rimuru stared.
 
-Diablo added:
+"No."
 
-"If they prefer not to come, I will not drag them by the throat."
+"He's a demon."
 
-"That clarification did not help."
+"I know."
 
-"It seemed necessary."
+That answer broke her rhythm.
 
-It was.
+Frieren blinked.
 
-Rimuru gave him the location of the old inn and the provisional site only as secondary reference.
+Diablo looked from her to Rimuru.
 
-"The inn is home. Take them there."
+"Rimuru-sama."
 
-Diablo noticed the distinction.
+The title hit the road like another spell.
 
-"Not the construction site."
+Frieren's staff lowered one centimeter.
 
-"Not yet."
+Rimuru spread both hands.
+
+"He's with me."
+
+Frieren looked at Diablo.
+
+Then Rimuru.
+
+Then the inn.
+
+Then the damage she had done.
+
+Sleep deprivation finally became visible from outside.
+
+Not rage.
+
+Collapse held upright by habit.
+
+"How do you know?"
+
+Rimuru's expression softened.
+
+"Because Diablo is from my world."
+
+Frieren's eyes narrowed.
+
+"Demons lie."
+
+Diablo smiled.
+
+Rimuru pointed without looking.
+
+"Do not."
+
+Diablo's smile vanished.
 
 Good.
 
-One continuity problem solved by one sentence.
+Rimuru continued.
 
-Diablo turned.
+"His kind doesn't map cleanly to yours."
 
-Rimuru caught his sleeve.
+Frieren looked at the cut her spell had left.
 
-"After?"
+Still harmed.
 
-"I search for Mau."
+Still demon-like.
 
-"Before you come back and make this a reunion."
+Still wrong.
 
-Diablo looked at him.
+Diablo said carefully:
 
-Rimuru swallowed.
+"I can assure you—"
 
-"Please."
+Frieren's staff lifted again.
 
-Diablo's expression softened.
+Rimuru:
 
-"Of course."
+"Diablo."
 
-He disappeared down the road.
+Silence.
 
-Rimuru stood alone.
+Rimuru stepped closer to Frieren.
 
-The reunion had lasted less than five minutes.
+"Look at me."
 
-It was still one of the best things that had happened all day.
+She did.
 
-Then Raphael supplied a route update.
+Barely.
 
-No anomaly diagnosis.
+"He didn't take Mau."
 
-No hidden answer.
+The name changed Diablo's expression.
 
-Only map information Rimuru had already given her.
+"Mau?"
 
-He went north again.
+Frieren looked away.
+
+Rimuru realized Diablo had no idea.
+
+Of course.
+
+He had just arrived.
+
+The entire fight had happened before context.
+
+Frieren's knees almost gave.
+
+She caught herself.
+
+Rimuru reached.
+
+She stepped back.
+
+Not touch.
+
+Okay.
+
+"Almost two days," Rimuru said quietly.
+
+Diablo looked toward damaged road.
+
+Then at Frieren.
+
+Then the inn.
+
+A missing person had caused this.
+
+No.
+
+A missing person plus whatever had happened before had caused this.
+
+Diablo asked:
+
+"Who is Mau?"
+
+From inside, several people looked up.
+
+That question would become the unofficial greeting of Group Five.
+
+For now it only made Frieren look toward the empty road north.
+
+Rimuru answered:
+
+"My friend."
+
+Frieren corrected, voice raw.
+
+"My family."
+
+Then, after one breath:
+
+"My boyfriend."
+
+Diablo understood exactly one thing.
+
+This mattered.
+
+Rimuru looked at him.
+
+"I need help finding him."
+
+Diablo straightened.
+
+The search began there.
+
+Not before.

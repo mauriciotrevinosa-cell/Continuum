@@ -620,7 +620,8 @@
       "^\\*\\*Volume:\\*\\*\\s*(\\d+)"
     ],
     "reading_order": [
-      "^\\*\\*Reading order:\\*\\*\\s*(\\d+)"
+      "^\\*\\*Reading order:\\*\\*\\s*(\\d+)",
+      "^##\\s+Chapter\\s+(\\d+)[\\s\\u2013\\u2014-]"
     ],
     "chapter_title": [
       "^##\\s+Chapter\\s+\\d+\\s*[–—-]\\s*(.+?)\\s*$"

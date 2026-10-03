@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 22 — Private Terms
+## Chapter 27 — Private Terms
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 22
+**Reading order:** 27
 
 Personal terms began appearing only when requested.
 

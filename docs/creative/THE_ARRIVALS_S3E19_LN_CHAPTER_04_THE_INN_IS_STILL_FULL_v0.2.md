@@ -4,11 +4,11 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
 **Reading order:** 10  
-**Continuity state:** Move Day 2 — morning | Old inn still functioning with second-wave residents
+**Continuity state:** Move Day 2 — morning | Old inn remains functioning household / guest base
 
-The old inn did not become empty the morning after first night.
+The old inn did not wake empty.
 
-Important.
+That mattered.
 
 Fern woke there.
 
@@ -22,21 +22,39 @@ Kaneki.
 
 Several G5 guests.
 
-One traveler.
+One traveler waiting on a meeting.
 
-Two people packing.
+Two people whose boxes had moved without them.
 
 Breakfast happened.
 
-Someone asked how the new site was.
+Same table.
 
-Fern had not been.
+Fewer regular faces.
+
+Different noise.
+
+Bocchi sat in Mau's usual chair by accident.
+
+Realized.
+
+Almost moved.
+
+Then stayed.
+
+No chair ownership.
 
 Good.
 
-Different perspectives.
+A messenger arrived from the settlement before anyone finished eating.
 
-A messenger arrived from the settlement with a list:
+Wet hair.
+
+Bad mood.
+
+List.
+
+Fern opened it.
 
 NEED:
 - kettle;
@@ -46,9 +64,10 @@ NEED:
 - one door latch;
 - salt;
 - more salt;
-- someone who remembers where the second shovel went.
+- second shovel;
+- someone who understands why smoke is staying inside.
 
-Bocchi read.
+Bocchi read over her shoulder.
 
 "They survived."
 
@@ -56,7 +75,19 @@ Fern:
 
 "Barely."
 
-Kaneki looked at the list.
+Kita smiled.
+
+Bocchi looked toward the stairs.
+
+Her room here still existed.
+
+Guitar where expected.
+
+Everything familiar.
+
+No pressure to turn familiarity into cowardice.
+
+Kaneki pointed at the list.
 
 "Food storage moved?"
 
@@ -64,20 +95,144 @@ Kaneki looked at the list.
 
 "I'll go with it."
 
-Status transition.
+There.
 
-Rem chose another night at the inn because the traveler she was helping had a meeting nearby.
+Status transition based on practical need.
 
-A G5 guest announced departure for a native town.
+Rem did not.
 
-Nano was not there, so Fern updated the ledger.
+Her traveler had a contact expected near noon.
 
-People's locations changed through explicit decisions.
+If Rem moved her things first, she would still come back.
 
-The inn remained home for some.
+Pointless.
 
-The settlement had become home-like for others.
+"I'll stay another night."
 
-The transition was supposed to be messy.
+Fern nodded.
 
-It was.
+No disappointment.
+
+A G5 guest announced they were leaving for a native town that afternoon.
+
+Another asked whether the settlement had room "when I come back."
+
+Not:
+if.
+
+Interesting.
+
+Nano was at the new site.
+
+So Fern updated the ledger manually.
+
+People existed in both places.
+
+No one evaporated because chapter focus changed.
+
+After breakfast, Bocchi packed one box.
+
+Then stopped.
+
+Kita looked.
+
+"Enough?"
+
+"For now."
+
+They went upstairs.
+
+The room looked less like a place Bocchi was leaving and more like a place being edited.
+
+Some clothes gone.
+
+Guitar staying until second wave.
+
+One small object she had forgotten mattered until deciding whether to pack it.
+
+Kita held it.
+
+"Take?"
+
+Bocchi looked at the new box.
+
+Then room.
+
+"Later."
+
+Move decisions did not need philosophical meaning.
+
+Sometimes:
+later.
+
+At noon, word came from the new site.
+
+Smoke fixed enough.
+
+Water still working.
+
+One latch not.
+
+Mau had slept.
+
+No Memory crisis.
+
+Good.
+
+Fern read that line twice.
+
+Rem noticed.
+
+"You were worried."
+
+Fern looked at her.
+
+"Obviously."
+
+Not all care needed to become emotional speech.
+
+By afternoon, the old inn was busier because people from the new site came back for missing things.
+
+Mau arrived looking annoyed.
+
+"Kettle."
+
+Fern pointed.
+
+"Kitchen."
+
+"I knew that."
+
+"You left it."
+
+Mau picked it up.
+
+Then saw Bocchi.
+
+"Moving today?"
+
+"Tomorrow."
+
+"Okay."
+
+No persuasion.
+
+Bocchi relaxed.
+
+Mau saw.
+
+Good.
+
+He left with kettle, salt, curtains and the wrong shovel.
+
+He returned thirty minutes later for the right one.
+
+The staged move became impossible to romanticize.
+
+That was what made it believable.
+
+Night two would hold more people at the settlement.
+
+The inn would still not be empty.
+
+Two homes remained alive.

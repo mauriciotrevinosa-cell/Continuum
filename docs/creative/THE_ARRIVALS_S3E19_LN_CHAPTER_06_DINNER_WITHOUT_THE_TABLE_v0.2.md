@@ -4,73 +4,139 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
 **Reading order:** 12  
-**Continuity state:** Move Day 2 — evening | Majority at settlement | Old inn still occupied
+**Continuity state:** Move Day 2 — evening | Majority at settlement | Inn still occupied
 
 Dinner felt wrong because the old table was not there.
+
+Nobody said it immediately.
+
+They only sat badly.
 
 The new table was longer.
 
 Cleaner.
 
-More practical.
+Straight.
 
-Everyone hated it for twenty minutes.
+No burn mark where Mau had once ruined something.
 
-Momo complained first.
+No dent from Momo putting down a pan too hard.
+
+No corner Bocchi automatically chose.
+
+Everyone had to decide where to sit.
+
+That alone delayed dinner.
+
+Momo finally said:
 
 "This table has no history."
 
-Rimuru pointed at a burn mark.
+Rimuru pointed at a small burn mark from the previous night.
 
 "It has one day."
 
-"Not enough."
+"That is not enough."
 
-Umaru put her drink down hard enough to create another mark.
+Umaru lifted her cup.
+
+Set it down hard enough to leave a wet ring.
 
 "There."
 
-History.
+Momo considered.
+
+"Beginning."
 
 Mau laughed.
 
 Frieren sat beside him.
 
-Not because seats had been assigned.
+Not assigned.
 
-Because that was where she sat.
+Not discussed.
 
-Bocchi and Kita across.
+That was where she sat.
 
-Ori farther down with Coco.
+Bocchi and Kita took the opposite side.
 
-Milim too close to Rimuru.
+Ori sat farther down with Coco.
+
+Milim sat too close to Rimuru.
 
 Diablo somehow closer.
 
-Kaneki near the end where food smells bothered him less.
+Rimuru looked between them.
 
-G5 temporary residents together but not isolated.
+"How?"
 
-One empty place for Fern.
+No answer.
 
-Another for Rem.
+Kaneki chose the end where food smells reached him less directly.
 
-The absences mattered because they had locations.
+The two G5 temporary residents sat together at first.
 
-Not narrative disappearance.
+Then one moved when Wakana asked a question about a material they knew.
 
-At the inn, Fern and Rem ate with the remaining guests.
+Integration happened through conversation rather than seating plans.
 
-At the settlement, people talked about them.
+Two empty places remained obvious.
 
-Tomorrow.
+Fern.
 
-Maybe day four.
+Rem.
 
-No pressure.
+Mau looked at them.
 
-The first large dinner ended with everyone arguing over washing dishes.
+Not sad exactly.
+
+Awareness.
+
+At the inn, Fern and Rem were also eating.
+
+Different table.
+
+Different people.
+
+Same household network.
+
+The move had produced simultaneous dinners.
+
+Mau found that oddly comforting.
+
+Food arrived late.
+
+Half warm.
+
+No one cared.
+
+Conversation fragmented.
+
+Bocchi describing the music room to Kita even though Kita had seen it.
+
+Aira complaining about route markers.
+
+Wakana asking for his bedframe bolts.
+
+Nobody knew where they were.
+
+Maomao saying:
+
+"Then you sleep on the floor."
+
+Wakana accepted his fate.
+
+Mau looked around.
+
+The first-night group had been small enough that every missing object felt like failure.
+
+Tonight there were enough people that missing things became comedy.
+
+That changed the place.
+
+After eating, everyone looked at the dishes.
+
+Silence.
 
 Mau stood.
 
@@ -78,16 +144,75 @@ Half the table said:
 
 "Sit."
 
-He looked betrayed.
+He froze.
 
-Memory Arc lesson had become household reflex.
+"What the hell?"
+
+Memory Arc lesson had become reflex.
+
+Mau pointed.
+
+"I'm allowed to wash dishes."
+
+Maomao:
+
+"Probably."
+
+"Thank you."
 
 Frieren handed him a towel.
 
 "You can dry."
 
-Compromise.
+Mau stared.
+
+"Compromise?"
+
+"Yes."
+
+He took it.
+
+Others washed.
+
+Mau dried.
+
+No heroism.
 
 The new table gained water stains.
 
-More history.
+Then a scratch because Aira slid something across it.
+
+Then bread crumbs in a seam.
+
+History forming through carelessness.
+
+Halfway through cleanup, a messenger from the inn arrived.
+
+Fern's note:
+
+Rem staying one more night.
+Traveler contact arrived.
+Need one box returned because it contains wrong records.
+Also you took my good knife.
+
+Mau looked at Rimuru.
+
+Rimuru looked at Frieren.
+
+Frieren looked at the knife currently cutting leftover bread.
+
+Momo:
+
+"History."
+
+Fern's knife would go back in the morning.
+
+The table did not need to become the old table.
+
+The settlement did not need to become the inn.
+
+Dinner could feel wrong and still become theirs.
+
+By the time lamps were lowered, Mau knew where he wanted to sit tomorrow.
+
+That was enough.

@@ -4,98 +4,230 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 23  
-**Continuity state:** Day 21–24 | Memory pressure lower | Head injury / exhaustion still recovering
+**Continuity state:** Day 21–24 | Memory pressure lower | Physical recovery lags behind
 
-Mau's memories improved before his body did.
+Mau's mind improved before his body did.
 
-That annoyed him.
+He found this insulting.
 
-He could hold an entire conversation without contradiction.
+He could hold a forty-minute conversation about memory categories and then stand too quickly and nearly fall into a chair.
 
-Then stand too quickly and nearly fall.
+Maomao watched it happen.
 
-Maomao enjoyed being right too much.
-
-"Concussion."
-
-"I know."
-
-"Rest."
-
-"I know."
-
-"Then why are you standing?"
+Said nothing.
 
 Mau sat.
 
-The head wound became less dramatic.
+"Don't."
+
+"I haven't said anything."
+
+"Your face did."
+
+"Rest."
+
+"There."
+
+Maomao enjoyed being right in silence.
+
+The head wound looked less dramatic by day twenty-two.
 
 Bruising changed color.
 
-Headaches remained.
+Swelling dropped.
 
-Reading too long made him nauseous.
+That visual improvement fooled Mau more than anyone else.
 
-Construction attempts were forbidden.
+He tried reading for an hour.
 
-The Noise remained a working label in notes, not a thing everyone casually discussed at breakfast.
+Nausea.
 
-Kaneki checked the biological symptoms every day he stayed.
+Stopped.
 
-No kagune-like emergence for three days.
+Tried standing at the worksite map for too long.
 
-Still not cure.
+Headache.
 
-Rem helped with ordinary chores because doing nothing made her uncomfortable.
+Stopped.
 
-Fern eventually told her:
+Tried Construction once.
+
+Every person in the room said no at different volumes.
+
+Mau looked betrayed.
+
+"Fine."
+
+Frieren:
+
+"That wasn't agreement."
+
+"It was surrender."
+
+"Acceptable."
+
+The biological change did not reappear for three days.
+
+Nobody called that cured.
+
+Kaneki checked in without turning Mau into a specimen.
+
+Sometimes they did not talk about bodies at all.
+
+That surprised both of them.
+
+One afternoon, Kaneki found Mau sitting outside.
+
+"How's your back?"
+
+"Attached."
+
+"Useful."
+
+Mau looked at him.
+
+"How's eating?"
+
+Kaneki stopped.
+
+Fair return.
+
+They talked.
+
+Maomao had found a partial food arrangement that worked enough for now.
+
+Not pleasant.
+
+Not solved.
+
+Mau listened without immediately offering to fix it.
+
+Progress.
+
+Rem helped with ordinary chores because doing nothing made her restless.
+
+Fern told her twice:
 
 "You are a guest."
 
-Rem answered:
+Rem answered the second time:
 
 "So?"
 
-Fern had no reply.
+Fern looked at the pile of folded linens.
 
-Aira recovered faster than everyone and became restless enough to help Mikasa with route drills.
+Had no response.
 
-None of them had decided whether to stay.
+Aira recovered fastest.
 
-Good.
+Meaning she became unbearable first.
 
-Their lives did not become obligations because they saved Mau.
+Mikasa gave her route drills partly to channel energy away from climbing unfinished structures.
 
-One afternoon Mau watched them outside.
+Aira claimed this was oppression.
+
+Mikasa ignored her.
+
+None of the three had decided whether to stay.
+
+That mattered.
+
+Saving Mau did not automatically convert into belonging.
+
+No gratitude contract.
+
+No emotional conscription.
+
+Mau watched them one afternoon from the inn steps.
+
+Rem talking to Fern.
+
+Aira arguing with Momo.
+
+Kaneki sitting separately enough from food smells to be comfortable.
+
+Mau asked Frieren:
 
 "Do we ask?"
-
-Frieren knew what he meant.
 
 "If they want to stay?"
 
 "Yes."
 
+Frieren thought.
+
 "Later."
 
 "Why?"
 
-"They know we want them alive."
+"They already know we want them alive."
 
 Mau looked at her.
 
-Frieren continued.
+"That's not the same."
 
-"Let them figure out whether they want us."
+"Exactly."
 
-Agency.
+She watched Rem laugh at something Fern had said.
 
-Again.
+"Let them find out whether they want us."
 
-Mau smiled.
+Mau leaned back.
 
-"You're getting repetitive."
+Agency again.
 
-"So are you."
+Everywhere.
+
+Annoying.
+
+Necessary.
+
+"You keep repeating the same theme."
+
+Frieren looked at him.
+
+"So do you."
 
 Fair.
+
+On day twenty-three, Maomao allowed Mau a two-hour worksite visit.
+
+No lifting.
+
+No Construction.
+
+No solo wandering.
+
+Mau accepted with enough visible suffering that Momo gave him a walking stick purely for dramatic effect.
+
+He refused it.
+
+Then used it when the path became uneven.
+
+No one commented.
+
+The future site looked different.
+
+Still mud.
+
+Still frames.
+
+Still not home.
+
+But people had kept building while Mau broke.
+
+That hurt.
+
+Then another thought arrived.
+
+They had kept building while Mau broke.
+
+Good.
+
+He stood there long enough to feel both.
+
+No crisis followed.
+
+Recovery became less about returning to the person before Memory Arc.
+
+More about learning what the person after it could do without lying.

@@ -5,7 +5,7 @@
 **Volume:** 17  
 **Reading order:** 8
 
-They discussed Eren's source-memory mismatch.
+They discussed Eren's source-memory mismatch the next afternoon.
 
 Eren attended.
 
@@ -13,50 +13,203 @@ Critical.
 
 No secret council deciding his guilt.
 
-Mikasa described only what was necessary to establish risk context.
+He walked in and saw chairs arranged.
 
-Not every wound.
+"Looks like trial."
 
-Not public spectacle.
+Anko:
 
-Known future capabilities remained uncertain under Continuum compatibility.
+"It isn't."
 
-Known future actions were not current actions.
+"That's what trials say."
 
-The group adopted narrow principles:
+Mau almost laughed.
 
-Current conduct matters.
+Did not.
 
-Current capability evidence matters.
+Mikasa sat where Eren could see her.
 
-Source-memory may justify preparation.
+Not beside authority.
 
-It does not justify punishment for unlived acts.
+Not prosecution.
 
-Eren hated hearing his future reduced to policy language.
+Participant.
 
-Mikasa hated speaking it.
+She described only what was necessary to establish context.
 
-Both preferred that to hidden suspicion.
+Another continuity.
+
+Later version of Eren.
+
+Major destructive capability.
+
+Actions with mass consequence.
+
+No graphic recounting.
+
+No public spectacle of her trauma.
+
+Eren listened jaw tight.
+
+One resident asked:
+
+"How bad?"
+
+Mikasa:
+
+"Bad enough that preparation is reasonable."
+
+Anko:
+
+"Not enough that current punishment is."
+
+Principle emerging.
+
+Known future capabilities uncertain under Continuum compatibility.
+
+Known future actions not current actions.
+
+Senku asked:
+can his present body produce later abilities?
+
+Unknown.
+
+Eren answered what he knew.
+
+Some capabilities current.
+
+Some not.
+
+No testing without consent and safety plan.
+
+Mikasa knew more.
+
+She did not force.
 
 A resident asked:
 
 "What if we know he becomes dangerous?"
 
-Anko:
+Anko corrected:
 
 "We know another continuity's later Eren became dangerous."
 
-Different statement.
+The resident frowned.
 
-Mikasa looked at Eren.
+"Same person."
 
-He heard the difference.
+Mikasa spoke.
 
-No absolution.
+"Yes and no."
 
-No predestination.
+Bad answer.
+
+Real answer.
+
+Eren looked at her.
+
+She continued.
+
+"I won't pretend the person I remember wasn't Eren."
+
+Eren absorbed.
+
+"But he hasn't lived those choices."
+
+There.
+
+No absolution by alternate-timeline trick.
+
+No guilt by inevitability.
+
+Current conduct matters.
+
+Current capability evidence matters.
+
+Source-memory can justify preparation.
+
+It cannot justify punishment for unlived acts.
+
+Eren looked at board.
+
+"Preparation can feel like punishment."
+
+Mikasa:
+
+"Yes."
+
+Anko wrote that too.
+
+What safeguards?
+
+No restrictions based solely on predicted future conduct.
+
+Specific capability testing requires consent unless emergency evidence demands immediate response.
+
+No secret confinement plan.
+
+Any temporary restriction reviewed.
+
+Eren laughed bitterly.
+
+"You wrote all that for me?"
+
+Fern:
+
+"No. For everyone. You're making us notice gaps."
+
+Different.
+
+Mau watched.
+
+Eren asked him:
+
+"If you knew I would destroy this place later, would you lock me up now?"
+
+Room stopped.
+
+Mau answered slower than instinct.
+
+"I'd want to."
+
+Eren's face hardened.
+
+Mau continued.
+
+"And I'd need people around me to stop me from treating fear like proof."
+
+Eren stared.
+
+Unexpected honesty.
+
+Mau:
+
+"We're all dangerous in hypothetical futures."
+
+Milim from outside:
+
+"Some more fun than others!"
+
+Rimuru shouted for her to go away.
+
+Tension broke.
+
+Small.
+
+Eren looked at board again.
+
+No trial for future.
+
+Not trust without caution.
 
 Room to choose.
 
 Terrifying amount of freedom.
+
+He signed guest-status extension for three days.
+
+Not residency.
+
+Nobody asked why not permanent.
+
+Good.

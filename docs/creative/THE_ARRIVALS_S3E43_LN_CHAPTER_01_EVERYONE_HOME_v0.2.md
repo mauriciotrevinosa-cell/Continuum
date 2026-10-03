@@ -21,35 +21,77 @@ Just pause.
 
 Almost everyone was home.
 
-The result:
-
-chaos.
+The result was chaos by breakfast.
 
 Too many cooks.
 
-Milim wanting to train.
+Momo claimed kitchen command.
 
-Mikasa pointing very far away.
+Fern vetoed.
 
-Diablo trying to serve Rimuru.
+Milim wanted to train because "nobody is going anywhere."
 
-Rimuru ordering him to sit.
+Mikasa pointed very far away.
 
-Richeh/Coco materials colonizing one table.
+"If you must."
 
-Bocchi tuning.
+Milim considered distance insulting.
 
-Kita listening.
+Diablo tried to serve Rimuru.
 
-Umaru occupying the best corner.
+Rimuru ordered him to sit.
 
-Aira disputing sovereignty.
+Diablo sat beside Rimuru.
 
-Eren watching all of it like a city had become a house against his expectations.
+Rimuru realized mistake.
 
-Mau did not organize the day.
+Richeh and Coco materials colonized one table.
+
+Agott removed half before glue reached food.
+
+Bocchi tuned in music room.
+
+Kita listened.
+
+Umaru occupied best corner with territorial confidence.
+
+Aira disputed sovereignty.
+
+Eren stood in common room doorway.
+
+He had expected fortified enclave.
+
+Today it looked like a crowded house that had accidentally become municipal.
+
+Mau did not organize day.
 
 Critical.
+
+At first he tried.
+
+"Do we need—"
+
+Fern:
+
+"No."
+
+Later:
+
+"Should I—"
+
+Maomao:
+
+"No."
+
+Third attempt:
+
+Frieren handed him laundry.
+
+Different.
+
+A task, not command.
+
+He accepted.
 
 People cooked.
 
@@ -61,6 +103,137 @@ Played games.
 
 Told source-world stories.
 
-Culture cross-pollinated.
+A native builder taught Wakana one knot.
+
+Wakana taught another stitch.
+
+Milim lost children's game and accused rules.
+
+Rules changed after she complained.
+
+Culture.
+
+Lunch happened in waves because full common room impossible.
+
+Some ate plaza under covered edges despite rain.
+
+Rem came from old inn with travelers' notes.
+
+Stayed.
+
+Kaneki found quieter corner.
+
+Nobody interpreted absence from loud room as social rejection.
+
+Progress.
+
+Eren sat with Mikasa outside.
+
+"What happens if alarm?"
+
+"We move."
+
+"And everyone knows?"
+
+"Mostly."
+
+"Mostly."
+
+Mikasa nodded toward people.
+
+"That's why drills."
+
+Eren watched a child steal food from Mau's plate.
+
+Mau noticed too late.
+
+No one seemed afraid of him.
+
+Rumor had made him city center.
+
+Reality:
+losing bread to child.
+
+Useful contradiction.
+
+Afternoon:
+clothes repair.
+
+Momo told embarrassing source story about Mau.
+
+Mau corrected details.
+
+Bocchi corrected Mau.
+
+Everyone laughed.
+
+Memory became social.
+
+No crisis.
+
+No one needed to prove anything.
+
+Near evening, road remained closed.
+
+People started music.
+
+Bocchi looked toward room.
+
+Kita:
+
+"Do it."
+
+No stage.
+
+No official event.
 
 The refuge mattered because it produced days nobody had to survive heroically.
+
+Mau stood at plaza edge watching.
+
+Frieren joined.
+
+"You look worried."
+
+"Everyone's here."
+
+"Yes."
+
+"Feels dangerous."
+
+Frieren understood.
+
+Too many people loved in one place.
+
+Memory Arc.
+
+Sukuna.
+
+Potential targets.
+
+Frieren took his hand.
+
+"Also nice."
+
+Mau looked.
+
+Both.
+
+He let nice exist.
+
+That day mattered later.
+
+When someone asked whether hundreds should be saved at cost of one person, "hundreds" would not remain a number.
+
+They would be:
+bad breakfast;
+bathroom lines;
+music;
+children cheating Milim;
+Fern yelling;
+Eren confused;
+Bocchi playing.
+
+Lives.
+
+That was why the question would hurt.

@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 15 — Carry Him Home
+## Chapter 22 — Carry Him Home
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 15  
-**Continuity state:** First disappearance, Day 2 — night | Mau: unconscious in transit | Destination: old inn
+**Reading order:** 22  
+**Continuity state:** First disappearance, Day 3 — evening | Mau: unconscious in transit | Destination: old inn
 
 Mau did not walk home.
 

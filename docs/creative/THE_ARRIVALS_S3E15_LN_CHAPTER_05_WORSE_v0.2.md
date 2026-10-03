@@ -4,174 +4,240 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 11  
-**Continuity state:** Day 17 — pre-dawn | Mau worsens | Containment still not authorized
+**Continuity state:** Day 17 — pre-dawn | Mau worsens before a reliable consent window exists
 
-Mau woke screaming.
+The night proved that "not yet" was not the same as "no."
 
-Not from a memory.
+Frieren woke to the sound of wood striking wood.
 
-From his back.
+Not an attack.
 
-The kagune-like structure struck the wall before anyone reached him.
+Mau.
 
-Wood split.
+She was out of the chair before fully awake.
 
-Frieren stopped at the doorway.
+The strange structure from his back had surfaced again and caught the wall.
 
-Correct angle.
+Not destroying the room.
 
-Kaneki had taught them that much.
+Enough to make everyone understand why the room had been cleared around him.
 
-"Mau."
+Mau was awake.
 
-His eyes found her.
+Maybe.
 
-Good.
+His eyes found Frieren.
 
-Then didn't.
+Then slipped past her.
 
-Bad.
-
-He looked past her.
-
-"Where's the river?"
-
-"You're at the inn."
+"River."
 
 "No."
 
-"Mau."
+He tried to sit.
 
-"The monster—"
+Frieren moved closer from the front.
+
+"You're at the inn."
+
+Mau shook his head.
+
+"The monster."
 
 "Dead."
 
-He grabbed his head.
+He looked at her.
 
-The wound itself had not reopened.
+Recognition came.
 
-Something else had.
+"Frieren."
 
-Temperature rose.
+"Yes."
 
-Pulse erratic.
+Then vanished.
 
-The biological structure reacted to voices.
+His face went frightened.
 
-Too many people made it worse.
+"Who are you?"
 
-Fern emptied the hallway.
+Frieren closed her eyes for half a second.
 
-Ori entered only when Frieren called her.
+Opened them.
 
-"Where are you?" Ori asked.
+"Frieren."
+
+Ori appeared in the doorway.
+
+Not rushing in.
+
+Waiting.
+
+Frieren nodded.
+
+Ori entered.
+
+"Where are you?"
 
 Mau looked around.
 
 "Home."
 
-"Which?"
+"Which home?"
 
-Pause.
+He frowned.
 
 "The inn."
 
 Good.
 
+Ori continued.
+
 "Who am I?"
 
 "Ori."
-
-Good.
 
 "Who is she?"
 
 Mau looked at Frieren.
 
-His expression softened.
-
-Then fear.
+Long pause.
 
 "Frieren."
 
 Good.
 
-"Do you remember her saying you should leave?"
+Then:
 
-Mau closed his eyes.
+"Did she tell me to leave?"
+
+Mau shut his eyes.
 
 "Yes."
 
-"Did she?"
+Frieren's stomach dropped.
+
+Ori asked:
+
+"Did she actually?"
 
 "No."
 
-Good.
-
-Then Mau said:
+Then:
 
 "Maybe."
 
-Bad.
+The room went still.
+
+Not because "maybe" meant failure.
+
+Because it showed how quickly clarity could fracture.
 
 Yuta arrived.
 
-Maomao.
+Maomao behind him.
 
-Rimuru.
+Rimuru last.
 
-Nobody used the word Noise.
+Nobody spoke over Mau.
 
-Nobody knew.
+They had learned.
 
-Rimuru watched the physical fluctuation.
-
-Raphael supplied:
-
-Unknown internal interaction intensity increasing.
-
-Not source.
-
-Not label.
-
-Observation.
-
-Rimuru looked at Frieren.
-
-He did not ask again immediately.
-
-Mau's body convulsed.
-
-The kagune-like structure tore another line through the wall.
-
-Kaneki ducked.
-
-Mau gasped:
-
-"Stop me."
-
-Frieren moved closer.
-
-"How?"
+The room stayed as quiet as possible.
 
 Mau looked at Rimuru.
 
-Clear enough for one second.
-
-"Ask."
-
-Rimuru knelt where Mau could see him.
-
 "Containment."
+
+Rimuru did not answer immediately.
+
+"Do you remember what that means?"
+
+"Inside you."
+
+"Why?"
+
+Mau's face tightened.
+
+"Less outside."
+
+Good.
+
+"Risks?"
+
+Mau looked confused.
+
+Then angry at being confused.
+
+"I knew that."
+
+"I know."
+
+"Ask again."
+
+Rimuru did.
+
+Unknown compatibility.
+
+Unknown memory effects.
+
+No promise of cure.
+
+Temporary if possible.
 
 Mau nodded.
 
-Then shook his head.
+Then stopped.
 
-Then nodded again.
+"No."
 
-Not stable enough.
+Then:
 
-The room understood.
+"Yes."
 
-They needed more than one moment.
+Then:
+
+"Wait."
+
+There.
+
+Not a usable answer.
+
+Frieren looked at Rimuru.
+
+"No."
+
+Rimuru nodded.
+
+"No."
+
+Mau heard them.
+
+Frustration broke through the confusion.
+
+"I said ask."
+
+"We did."
+
+"Then why—"
+
+"Because you changed your answer three times."
+
+Mau stared at Frieren.
+
+He looked furious.
+
+Then scared.
+
+Then tired.
+
+"Right."
+
+The physical change along his back receded slowly.
+
+Mau's eyes closed.
+
+Rimuru sat instead of leaving.
+
+No one wanted the next clear window to arrive without witnesses.
+
+They waited for morning.

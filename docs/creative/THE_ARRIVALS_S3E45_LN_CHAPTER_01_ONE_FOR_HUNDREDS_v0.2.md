@@ -9,9 +9,23 @@ The resident who asked was scared.
 
 Not cruel.
 
-"If something comes here for Mau..."
+That mattered.
 
-Pause.
+Council had opened a resident-question period after another hostile notice mentioned Mau by implication without naming him.
+
+The resident stood.
+
+Hands shaking.
+
+Looked at Mau.
+
+Then at floor.
+
+"If something comes here for him..."
+
+Nobody interrupted.
+
+The resident swallowed.
 
 "I have two children."
 
@@ -21,42 +35,210 @@ Mau understood before the sentence finished.
 
 The room froze.
 
-Frieren.
+Not because nobody had thought it.
 
-Ori.
+Because someone had finally said it where Mau could hear.
 
-Bocchi.
+Frieren went still.
 
-Everyone heard arithmetic enter Mau's life.
+Ori's face changed.
 
-The resident looked sick.
+Bocchi looked at Mau first, not the resident.
 
-"I'm sorry."
-
-Mau:
-
-"Don't be."
-
-Frieren turned.
-
-Too late.
+Eren stared at table.
 
 One.
 
 Hundreds.
 
-Mau's body had become public variable.
+Arithmetic entered Mau's life.
 
-Not hatred.
+The resident looked sick.
 
-Fear.
+"I'm sorry."
 
-Worse because rational enough to discuss.
+Mau answered immediately.
 
-Eren watched.
+"Don't be."
 
-He knew something about worlds turned into numbers.
+Frieren turned toward him.
 
-Said nothing yet.
+Too fast.
 
-Senku did.
+Mau saw.
+
+Corrected.
+
+"I mean... don't apologize for being afraid."
+
+Better.
+
+The resident's eyes watered.
+
+"I'm not saying I want you dead."
+
+"I know."
+
+"I just—"
+
+They looked toward doors.
+
+Outside:
+children.
+families.
+people who had nowhere else safe.
+
+"If someone said they would leave all of them alone if you went with them..."
+
+Mau's stomach dropped.
+
+Sukuna logic.
+
+False binary.
+
+Again.
+
+Except now spoken by someone protecting children.
+
+He could not hate them.
+
+That made it worse.
+
+Frieren asked:
+
+"Would you believe the person making that offer?"
+
+The resident stopped.
+
+"I don't know."
+
+Good.
+
+Not certainty.
+
+Mikasa:
+
+"Would we have evidence they can keep it?"
+
+"No."
+
+"Evidence they only want Mau?"
+
+"No."
+
+The fear remained.
+
+But hypothetical started opening.
+
+The resident looked at Mau.
+
+"If it were real?"
+
+There.
+
+No easy escape.
+
+Mau looked around room.
+
+He knew what old him would say.
+
+Immediately.
+
+Yes.
+
+Take me.
+
+Done.
+
+The words rose.
+
+He did not say them.
+
+Frieren noticed.
+
+Mau took time.
+
+"I don't know."
+
+Everyone stared.
+
+That answer cost.
+
+The resident:
+
+"You don't?"
+
+Mau laughed weakly.
+
+"I know what I'd want to do."
+
+Frieren:
+
+"Different."
+
+Mau nodded.
+
+"I'd want to go."
+
+The resident looked relieved and horrified at once.
+
+Mau continued.
+
+"That doesn't mean I get to decide it alone."
+
+There.
+
+Post-Sukuna promise living.
+
+Not:
+never sacrifice.
+
+No unilateral sacrifice.
+
+The resident sat slowly.
+
+"I'm sorry."
+
+Mau:
+
+"Still no."
+
+This time softer.
+
+"I'm glad you said it where I could hear."
+
+Because worse version:
+everyone privately calculating his expendability.
+
+Better:
+public discomfort.
+
+Eren finally spoke.
+
+"In my world people made numbers out of lives."
+
+The room looked.
+
+He did not explain.
+
+Didn't need.
+
+"Sometimes because they were monsters."
+
+Pause.
+
+"Sometimes because there wasn't another way."
+
+He looked at Mau.
+
+"Usually people decided which one it was after they'd already chosen."
+
+Sharp.
+
+Senku stood.
+
+Walked toward board.
+
+"Bad equation."
+
+The next chapter began before fear could harden into policy.

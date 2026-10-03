@@ -4,106 +4,408 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 1  
-**Continuity state:** Day 12 — night | Mau: unstable / mostly unconscious | Rescue camp south of inn
+**Continuity state:** Day 12 — night | Mau unstable / mostly unconscious | Search group has found him but cannot transport him
 
-Nobody tried to move Mau all the way home that night.
+Finding Mau did not make the night easier.
 
-That was the first correct decision.
+It made the fear crowded.
 
-Yuta cleaned the head wound properly.
+Yuta took over the space nearest Mau's head.
 
-Maomao arrived two hours later with enough supplies to make everyone else realize how little they had.
+Rem stayed on his right.
+
+Kaneki stayed where he could see Mau's back.
+
+Ori refused to move until Aira physically put food into her hands.
+
+Frieren sat on the left and learned, minute by minute, how little control love gave her.
+
+Mau did not wake again for almost an hour.
+
+His fever kept climbing.
+
+Yuta checked the head wound.
+
+"Not actively bleeding."
+
+Frieren looked at him.
+
+"That sounded like the good part."
+
+"It is."
+
+"And the bad part?"
+
+Yuta did not answer immediately.
+
+Possible concussion.
+
+Repeated vomiting.
+
+Long unconscious periods.
+
+Convulsions.
+
+Unknown biological manifestation.
+
+Memory instability that predated the head injury.
+
+Too many interacting causes.
+
+He said:
+
+"I don't know which problem is making the others worse."
+
+Frieren hated honesty.
+
+She trusted it.
+
+Rem replaced the damp cloth at Mau's neck.
+
+Frieren noticed the motion.
+
+"How often?"
+
+"When he gets too hot."
+
+"How do you know?"
+
+Rem touched Mau's wrist.
+
+"Sometimes I don't."
+
+That answer again.
+
+No one here had certainty.
+
+Kaneki crouched near the torn back of Mau's shirt.
+
+The dark structure had disappeared beneath skin.
+
+Frieren stared.
+
+"Where did it go?"
+
+Kaneki looked at her.
+
+"Inside."
+
+"That isn't possible."
+
+"I agree."
+
+Frieren did not find that comforting.
+
+Mau's hand twitched.
+
+Everyone close to him stopped.
+
+Not fear exactly.
+
+Readiness.
+
+Frieren saw it.
+
+They had learned his body while she was searching for him.
+
+That hurt.
+
+Then his arm pulled inward.
+
+Shoulder.
+
+Chest.
+
+The convulsion began smaller than the last.
+
+Yuta moved.
+
+"Give him room."
+
+Frieren already knew not to hold him down.
+
+Knowing did not make watching easier.
+
+Mau's jaw tightened.
+
+His breath came in broken sounds.
+
+The dark line appeared beneath his back.
+
+Kaneki leaned closer.
+
+"Same sequence."
+
+Rimuru, standing just outside the immediate circle, looked over.
+
+"What sequence?"
+
+"Muscle contraction first. Then the structure."
+
+"Every time?"
+
+"Since we found him."
+
+Rem corrected:
+
+"Not every time."
+
+Kaneki nodded.
+
+"Most of the larger ones."
+
+Rimuru stored that.
+
+No theory.
+
+Not yet.
+
+The structure emerged.
+
+Frieren's grip tightened around her staff.
+
+Aira, sitting several feet away, saw.
+
+"He doesn't aim it."
+
+Frieren looked at her.
+
+Aira continued:
+
+"At least he hasn't. It reacts when someone approaches from behind or when he's panicking."
+
+"How do you know?"
+
+"Because I got close from behind."
+
+Kaneki:
+
+"Twice."
+
+Aira glared.
+
+"Once on purpose."
+
+Despite everything, Frieren almost smiled.
+
+Then Mau made a sound.
+
+The structure struck the ground.
+
+Frieren's smile vanished.
+
+Yuta counted time.
+
+Rem protected Mau's head.
+
+Ori stood frozen until Aira said:
+
+"Talk."
+
+Ori blinked.
+
+"What?"
+
+"To him."
+
+Ori moved closer but stayed in front of Mau's line of sight.
+
+"Mau."
+
+No response.
+
+"It's Ori."
+
+The structure trembled.
+
+"Mau. We're here."
+
+Frieren added:
+
+"I'm here."
+
+For one second nothing changed.
+
+Then Mau's eyes opened.
+
+Wide.
+
+Unfocused.
+
+They went to Ori.
+
+"Ori."
+
+Ori nearly collapsed with relief.
+
+Then his eyes moved to Frieren.
+
+Nothing.
+
+Frieren stopped breathing.
+
+Mau looked frightened.
+
+"Who are you?"
+
+There it was again.
+
+Not rumor.
+
+Not Ori's exhausted report.
+
+Frieren heard it herself.
+
+She answered because no one else should.
+
+"Frieren."
+
+Mau stared at her.
+
+The name did not land.
+
+His breathing sped up.
+
+The structure rose.
+
+Kaneki said:
+
+"Don't push."
+
+Frieren wanted to say everything.
+
+First memory.
+
+Campfire.
+
+Flowers.
+
+Himmel.
+
+The inn.
+
+Sukuna.
+
+The hoodie she had stolen so many times it barely qualified as theft.
+
+She said only:
+
+"You're safe."
+
+Mau looked at her as if trying to decide whether that sentence belonged to her.
+
+Then his face changed.
+
+Recognition returned.
+
+Not slowly.
+
+Violently.
+
+"Frieren."
+
+She leaned closer.
+
+"Yes."
+
+Tears formed in his eyes.
+
+"I forgot you."
+
+Frieren's face broke.
+
+"No."
+
+"I did."
+
+"You came back."
+
+It was not the same thing.
+
+It was the only thing she could say.
+
+Mau tried to lift his hand.
+
+She caught it.
+
+He whispered:
+
+"I'm sorry."
+
+Then his eyes rolled closed.
+
+The convulsion ended.
+
+The structure receded.
+
+Frieren kept holding his hand.
+
+No one told her not to.
+
+Later, long after dark, Maomao reached the camp with a small relief group and enough medical supplies to make the earlier field kit look insulting.
 
 She examined Mau.
 
-Then examined Ori.
+Then Ori.
 
-Then Rem, Kaneki and Aira because people who had spent a day keeping someone alive tended to forget they also had bodies.
+Then Rem.
+
+Kaneki.
+
+Aira.
 
 Aira objected.
 
 Maomao ignored her.
 
-Frieren stayed near Mau's left side.
+Rimuru asked:
 
-The kagune-like growth had retreated again.
+"Can we move him at first light?"
 
-Kaneki warned that absence did not mean resolution.
+Maomao looked at Mau.
 
-Frieren nodded.
+"No."
 
-She believed him because he did not claim more.
+Frieren turned.
 
-Rimuru asked Rem how she found them.
+"Why?"
 
-River.
+"Because first light is a time, not a condition."
 
-Tracks.
+Maomao listed what she wanted before movement:
 
-The cap.
+fever down enough to tolerate blankets and road air.
 
-Then Kaneki.
+Breathing stable.
 
-Then Aira.
+No major convulsion for several hours.
 
-Independent lines converging.
+Able to wake enough to swallow safely.
 
-Not fate.
+Head symptoms not worsening.
 
-Not one perfect tracker.
+"Then?"
 
-A chain of ordinary attention.
+"Then we try."
 
-Mikasa marked the camp.
+Try.
 
-Diablo marked the route.
+Not go.
 
-Okarun left north with a message for the inn because magical communication had become unreliable around Mau's fluctuations.
+Frieren looked at Mau.
 
-G5 would know by morning that the missing pair had been located.
+The rescue had found him.
 
-Not returned.
+The medical problem did not care.
 
-Located.
+The first night after finding Mau became watches again.
 
-Important distinction.
+Just like Sukuna.
 
-Ori sat outside the medical shelter.
+Different room.
 
-Frieren passed her once.
+Different danger.
 
-Stopped.
+Same terrible lesson:
 
-Ori looked up.
-
-"I'm sorry."
-
-Frieren's face held too many things.
-
-"Later."
-
-Ori nodded.
-
-Not forgiveness.
-
-Not rejection.
-
-A promise the conversation would happen after Mau survived.
-
-Inside, Mau woke enough to say one word.
-
-"Home?"
-
-Frieren took his hand.
-
-"Not yet."
-
-His eyes closed.
-
-"Okay."
-
-That answer hurt because he trusted her.
-
-The field camp settled into watches.
-
-Nobody called the rescue complete.
+being beside someone was not the same as being able to bring them back.

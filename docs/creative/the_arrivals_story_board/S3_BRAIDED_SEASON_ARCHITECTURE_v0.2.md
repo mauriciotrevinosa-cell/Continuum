@@ -1672,3 +1672,81 @@ Still open:
 
 These should remain open until later creator review.
 
+
+
+---
+
+# Late-S3 refinement — Trial trauma -> backdoor deal
+
+The late-S3 agency crisis must be causally rooted in Mau's lived Trial experience.
+
+Do not write the backdoor plan as merely:
+> Mau has always been controlling / sacrificial, so he does it again.
+
+Instead:
+
+```text
+Mau enters with unilateral-sacrifice flaw
+-> dies / loses others / survives others across hundreds of constructed iterations
+-> experiences contradictory long-term consequences from apparently identical choices
+-> learns there is no universally painless answer
+-> leaves physically restored but psychologically conditioned
+-> sees real Return/Stay residents facing one irreversible choice each
+-> cannot stop mapping their uncertainty onto hundreds of remembered aftermaths
+-> begins to see "removing the burden of choosing" as mercy
+-> old flaw gives that trauma a familiar solution: I will carry it alone
+```
+
+The evolved flaw therefore has two layers:
+
+**old architecture**
+> I will absorb the cost so you do not have to.
+
+**post-Trial form**
+> I will absorb the moral responsibility for the irreversible choice so you never have to live with wondering whether you chose wrong.
+
+This is not a power fantasy or proof that Mau knows better.
+
+Mau explicitly understands:
+- Trial scenarios were constructed;
+- they were not prophecy;
+- contradictory outcomes prevent a universal conclusion;
+- other people's real preferences remain unknowable without asking them.
+
+The problem is that understanding those propositions does not remove the memories.
+
+He has subjectively lived hundreds of consequences.
+
+When someone says:
+> What if I regret staying?
+
+Mau does not hear an abstract hypothetical.
+
+His body retrieves lived decades.
+
+This is why the family response must validate the wound while rejecting the authority claim.
+
+Strong confrontation logic:
+
+> "We believe you."
+>
+> "Those years happened to you."
+>
+> "They still weren't our lives."
+>
+> "You don't get to turn what the Goddess did to you into a decision about what we are allowed to risk."
+>
+> "Now let us decide."
+
+The backdoor deal is intercepted before any irreversible agreement.
+
+S4 must preserve post-Trial effects:
+- sleep / reset associations;
+- anticipatory reactions to ordinary triggers;
+- difficulty tolerating other people's high-stakes choices;
+- moments where Mau recognizes he is mapping a Trial outcome onto a real person and has to stop;
+- family supervision gradually shifting from containment to rebuilt trust.
+
+Mau Jail Part Two can be funny only after this weight is established.
+
+It is consequence, not cure.

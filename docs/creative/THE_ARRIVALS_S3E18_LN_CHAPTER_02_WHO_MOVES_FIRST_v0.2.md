@@ -4,34 +4,39 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
 **Reading order:** 2  
-**Continuity state:** Move planning Day 1 | Both locations operational soon
+**Continuity state:** Move planning Day 1 | Two locations must operate at once
 
 The first-night group was chosen by function and consent.
 
-Not seniority.
+That sentence took almost two hours to become true.
 
-Not importance.
-
-Someone needed to test:
-- water;
-- night temperature;
-- latrines;
-- door latches;
-- cooking;
-- alarms;
-- how sound traveled between rooms.
-
-Mikasa volunteered.
+Mikasa volunteered immediately.
 
 Of course.
 
-Wakana because workshop setup mattered.
+"Someone needs to know whether the night routes actually work."
 
-Maomao because sanitation mattered.
+No objection.
 
-Rimuru because every system eventually became his problem even when he tried not to.
+Wakana volunteered because the workshop setup had already started migrating.
 
-Mau volunteered.
+"If tools are there, I should be there."
+
+Marin:
+
+"That is the least romantic reason to move."
+
+Wakana looked alarmed.
+
+"Move?"
+
+Everyone laughed.
+
+Maomao volunteered because if the latrines, wash water or food storage failed overnight, she wanted to know before fifty people found out together.
+
+Rimuru volunteered because every system became his problem eventually.
+
+Mau volunteered because everyone expected him to.
 
 Frieren looked at him.
 
@@ -45,68 +50,207 @@ Frieren looked at him.
 
 Mau waited.
 
-Frieren sighed.
+No joke.
 
-"You can go if you come back if symptoms change."
+Frieren continued:
 
-Agency with condition.
+"You can go if you come back when symptoms change."
 
-Mau nodded.
+"When, not if?"
 
-Bocchi wanted to go.
+"Yes."
 
-Then looked at the unfinished music room.
+Mau smiled faintly.
 
-Then at the inn.
+"Fair."
+
+No unilateral decision.
+
+Condition named.
+
+Mau agreed.
+
+Bocchi raised her hand halfway.
+
+Then lowered it.
+
+Kita saw.
+
+"You want to go?"
+
+Bocchi looked toward the unfinished music room.
+
+Then toward the road back to the inn.
 
 "I don't know."
+
+No one rushed.
+
+At the inn, she knew:
+- where walls creaked;
+- which step made noise;
+- where to sit if the room became too full;
+- how far she could play before people heard.
+
+At the new site, all of that would reset.
 
 Kita said:
 
 "You don't have to be first."
 
-Relief.
+Bocchi's shoulders dropped.
 
-Bocchi stayed another night at the inn.
+"Okay."
 
-Ori chose to go.
+No one interpreted hesitation as fear of commitment.
 
-Mau almost spoke.
+Second wave.
 
-Stopped.
+Maybe.
 
-Her room.
+Ori said:
 
-Her choice.
+"I'm going."
 
-Good.
+Mau looked at her.
 
-Rem stayed at the inn because a traveler expected her help the next morning.
+Question already forming.
 
-Kaneki stayed because Maomao had not finished food arrangements at the site.
+Where room?
 
-Aira went because she wanted to test whether the outer path was actually as safe as Mikasa claimed.
+Near whom?
+
+Safe?
+
+He stopped.
+
+Ori saw.
+
+Smiled.
+
+"My room."
+
+"Yes."
+
+"My decision."
+
+"Yes."
+
+"You're improving."
+
+"Please stop grading me."
+
+Rem stayed at the inn.
+
+A traveler she had been helping expected an answer from a nearby contact in the morning.
+
+Moving that night would turn his uncertainty into someone else's problem.
+
+Kaneki also stayed.
+
+Maomao had not finished food arrangements at the new site.
+
+Aira chose first night because she wanted to test Mikasa's "safe" route after dark.
+
+Mikasa:
+
+"I said safer."
+
+Aira:
+
+"Even better."
 
 G5 split.
 
-Some first-night volunteers.
+Some volunteered.
 
-Some not.
+Some had no reason to.
 
-Milim said:
+One temporary guest had already decided to leave for a native town after two more days.
 
-"I'm going wherever Rimuru goes."
+Moving twice would be pointless.
 
-Status clear.
+Another wanted to try the new site.
 
-Diablo said nothing because everyone already knew.
+Milim announced:
 
-Fern remained at the inn to keep it functioning.
+"Where Rimuru sleeps, I sleep."
 
-That mattered.
+Rimuru looked at Diablo.
 
-The old home was not being emptied in one dramatic wagon.
+"Don't."
 
-Two homes would overlap for days.
+Diablo smiled.
 
-No one knew which one the word home would choose first.
+"I said nothing."
+
+"That's worse."
+
+Fern remained at the inn.
+
+Critical.
+
+Someone needed:
+- guest continuity;
+- keys;
+- food;
+- route arrivals;
+- bed assignment;
+- information for anyone who showed up looking for people who had partially moved.
+
+No symbolic "last person at home."
+
+A functioning second location.
+
+The plan became:
+
+Night one:
+test group at settlement.
+
+Inn:
+still primary household base for everyone else.
+
+Day two:
+review failures.
+
+Then decide second wave.
+
+No dramatic wagon carrying the whole family into sunset.
+
+Two homes would overlap.
+
+For days.
+
+Maybe longer.
+
+Mau stared at the split list.
+
+"This feels less emotionally satisfying than moving in stories."
+
+Fern:
+
+"Good."
+
+"Why?"
+
+"Stories don't inventory blankets."
+
+Momo:
+
+"Bad stories."
+
+Fern ignored her.
+
+At the bottom of the board, Nano wrote:
+
+DO NOT SAY "EVERYONE MOVED" UNTIL EVERYONE ACTUALLY MOVES.
+
+Mau looked at her.
+
+"That's weirdly specific."
+
+Nano looked back.
+
+"You keep living in a continuity problem."
+
+No one knew how true that sentence was.

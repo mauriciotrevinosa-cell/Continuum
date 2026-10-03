@@ -6,98 +6,272 @@
 **Reading order:** 14  
 **Continuity state:** Day 11 — morning | Kaneki independent route | Has not met Mau or household
 
-Kaneki had learned to avoid camps before anyone asked why he did not eat.
-
-Continuum had not fixed that problem.
-
-It had changed the context.
+Kaneki avoided camps before anyone asked why he did not eat.
 
 Different world.
 
-Same body problem.
+Same problem.
 
-He traveled near water because distance between settlements mattered less when water was predictable.
+Continuum had changed ingredients.
+
+Not his body.
+
+That made every shared meal a negotiation he preferred not to have with strangers.
+
+Water was easier.
+
+So he traveled near it.
+
+Distance between settlements mattered less when rivers gave orientation.
 
 That morning he smelled blood.
 
 Human.
 
-Old.
+Old enough not to mean someone was bleeding beside him.
 
-Monster.
+Monster blood farther north.
 
 Older.
 
 Then something else.
 
-Familiar enough to make him stop.
+Kaneki stopped.
 
-Not a ghoul.
+Familiar.
 
-Not exactly.
+Wrong.
 
-A biological signal that should not have existed here in that shape.
+Not ghoul.
 
-He followed.
+Not human in the ordinary sense either.
 
-The trail crossed disturbed mud.
+A biological signal shaped close enough to something he knew that his body reacted before his mind decided what it meant.
 
-One person's stride steady.
+He hated that.
 
-Another increasingly wrong.
+Recognition created assumptions too quickly.
+
+He followed carefully.
+
+Mud showed two travelers.
+
+One step pattern steady.
+
+The other deteriorating.
+
+Shorter stride.
+
+Occasional drag.
+
+A place someone had stopped and sat.
 
 Kaneki crouched.
 
-Head injury maybe.
+Could be injury.
 
-Fever maybe.
+Could be fever.
+
+Could be exhaustion.
 
 He was not a doctor.
 
-He knew bodies in crisis.
+He knew what bodies looked like when they stopped following expected rules.
 
-The strange biological signature appeared again.
+Farther down, the strange biological signal disappeared.
 
-Brief.
+Then returned.
 
-Then vanished.
+Not constant.
 
-Kaneki changed direction toward it.
+That made it worse.
 
-No heroic reason.
+If it were a ghoul, perhaps he could name it.
 
-Curiosity.
+If it were a monster, perhaps he could avoid it.
 
-Concern.
+This looked like a body changing state.
 
-Recognition of something that might be mistaken for monstrosity before anyone understood it.
+Kaneki continued.
 
-Hours later, he would meet Mau.
+He found a place where the second traveler had leaned against a tree.
 
-Before that, he met Rem.
+Dark residue?
 
-They nearly attacked each other.
+No.
 
-Both stopped.
+Sap.
 
-Rem held one hand away from any weapon.
+Good.
 
-"Are you following the injured tracks?"
+He nearly laughed at himself.
 
-Kaneki looked at the cap tied to her pack.
+Fear made every mark meaningful.
+
+That lesson mattered.
+
+Near the river bend, another person emerged.
+
+Blue hair.
+
+Pack.
+
+Cap tied to one side.
+
+Alert.
+
+They both stopped.
+
+Kaneki smelled no immediate threat.
+
+That did not mean none existed.
+
+She looked at him.
+
+"You are following someone."
+
+Not question.
+
+Kaneki answered anyway.
 
 "Yes."
 
-Neither trusted the other.
+"Injured?"
 
-Both looked downstream.
+"Probably."
 
-"Together?"
+She looked downstream.
 
-Rem asked.
+"So am I."
 
-Kaneki hesitated.
+Names.
 
-"For now."
+Rem.
 
-Accidental rescue team: two.
+Kaneki.
+
+Nothing else.
+
+They moved together because separate suspicion was less useful than shared direction.
+
+Neither called it trust.
+
+After fifteen minutes, Rem asked:
+
+"Do you know what we're following?"
+
+Kaneki considered lying.
+
+"No."
+
+She looked at him.
+
+"But?"
+
+He hated perceptive people.
+
+"I recognize part of the biological signal."
+
+"As what?"
+
+"Something adjacent to me."
+
+Rem's eyes moved to him.
+
+Not fear.
+
+Question.
+
+Kaneki continued before she asked.
+
+"That doesn't mean the person is like me."
+
+"Then what does it mean?"
+
+"That I don't want someone else seeing the same thing and deciding monster before person."
+
+Rem looked downstream.
+
+That was enough explanation.
+
+They walked.
+
+The signal flared again.
+
+Kaneki's body reacted.
+
+Not hunger.
+
+Recognition.
+
+A structure trying to exist where it should not.
+
+He sped up.
+
+Rem matched him.
+
+Then a third person appeared on another path.
+
+Pink hair.
+
+Immediate accusation in human form.
+
+"You."
+
+Kaneki stopped.
+
+The newcomer pointed.
+
+"Why are you sneaking?"
+
+"I'm walking."
+
+"Suspiciously."
+
+Rem did not slow.
+
+"Someone is hurt."
+
+The argument ended.
+
+A voice carried ahead.
+
+"Stay awake."
+
+Then a name.
+
+"Mau."
+
+Three strangers ran toward someone none of them knew.
+
+Kaneki understood the situation only seconds before entering the clearing.
+
+A girl.
+
+An unconscious man.
+
+Blood near the head.
+
+And beneath torn fabric at the man's back—
+
+the thing Kaneki had been following.
+
+Not a ghoul.
+
+Not proof of anything.
+
+Only a body doing something frightening.
+
+Kaneki moved closer.
+
+The girl's eyes snapped toward him.
+
+"Help."
+
+He crouched.
+
+Whatever this man became later, the first thing Kaneki knew about him was simpler.
+
+He was hurt.
+
+That was enough to begin.

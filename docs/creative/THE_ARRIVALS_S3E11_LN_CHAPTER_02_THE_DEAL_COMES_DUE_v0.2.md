@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 18 — The Deal Comes Due
+## Chapter 25 — The Deal Comes Due
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 18  
-**Continuity state:** Day 3 — late morning | Mau stable enough for first witch questions
+**Reading order:** 25  
+**Continuity state:** Day 4 — late morning | Mau stable enough for first witch questions
 
 The witches waited until Maomao said Mau could sit at a table for an hour.
 

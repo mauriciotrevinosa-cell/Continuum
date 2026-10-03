@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 24 — Some Don't Want to Say
+## Chapter 29 — Some Don't Want to Say
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 24
+**Reading order:** 29
 
 The first privacy conflict came from love.
 

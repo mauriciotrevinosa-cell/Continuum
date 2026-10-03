@@ -1750,3 +1750,30 @@ S4 must preserve post-Trial effects:
 Mau Jail Part Two can be funny only after this weight is established.
 
 It is consequence, not cure.
+
+
+---
+
+# Active G5 / cast-ring integration note — 2026-10-03
+
+Detailed creator direction now lives in:
+
+`sources/THE_ARRIVALS_S3_G5_CAST_RING_AND_S4_HANDOFF_v0.1.md`
+
+Treat that source as active guidance for:
+- Diablo's false-positive search haul creating G5 accidentally;
+- Senku + Suika as the preferred Dr. Stone pair;
+- Milim joining through recognizing Diablo rather than as a true false positive;
+- Mai / Nijika / Ryo / Richeh / Tetia / Vamola / Turbo Granny / Seiko / Jinshi / Nazuna as current high-confidence G5 candidates;
+- Eren remaining stronger as a separate voluntary arrival;
+- Gojo / Serie / Himouto-side expansion deferred;
+- Kusuri Yakuzen remaining provisional;
+- S3 third-ring arrivals being mostly existing-source secondary cast / refugees / travelers rather than constant new-franchise expansion;
+- uneven regional Continuum adaptation reports;
+- parallel villain growth around Sukuna and a higher-order hostile intelligence;
+- Mau's RCT remaining real but limited by unstable body-template problems;
+- post-Memory Mau/Frieren ordinary date as a deliberate new shared memory;
+- S4 recovery/invitation choices not being morally condemned for choosing family/lost people;
+- S4 reminder: improve the wider world, raise stakes, preserve slice-of-life.
+
+Do not silently convert provisional names into locked production without later creator confirmation where marked.

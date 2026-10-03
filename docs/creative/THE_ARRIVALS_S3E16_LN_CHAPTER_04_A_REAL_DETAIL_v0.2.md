@@ -4,90 +4,260 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
 **Reading order:** 20  
-**Continuity state:** Day 20 | First internal-memory hope beat
+**Continuity state:** Day 20 | First internally supplied mundane detail confirms shared memory
 
-Frieren chose an early memory.
+The first real hope came from bad bread.
+
+Not magic.
+
+Not Raphael.
+
+Bread.
+
+Frieren chose the memory because it was early and because almost nobody else had been there.
 
 First camp.
 
 Fire.
 
-Bad bread.
-
 One blanket.
 
-She told it slowly.
+Food Mau had insisted was edible.
 
-Mau listened.
+Frieren had disagreed.
+
+Mau sat across from her at the table.
+
+No crowd this time.
+
+Ori nearby.
+
+Rimuru writing only if asked.
+
+The reconstruction had already taught them too many witnesses could turn remembering into performance.
+
+Frieren began.
+
+"The fire was too small."
+
+Mau frowned.
+
+"It was efficient."
+
+"It was bad."
+
+"Historical disagreement."
+
+Good.
+
+She continued.
 
 "You asked where I came from."
 
-"Yes."
+Mau nodded.
 
 "You asked about my family."
 
 "Yes."
 
-"I said I remembered them."
+"I told you I remembered them."
 
-Mau nodded.
+Mau looked at her.
+
+Something shifted.
+
+Frieren kept her face neutral.
+
+She deliberately omitted what happened between question and answer.
+
+Mau waited.
+
+Then frowned harder.
+
+"You touched your hair ornament."
 
 Frieren stopped.
 
-Deliberately.
-
-Mau frowned.
-
-"You touched your hair ornament before answering."
-
-Frieren froze.
-
-She had omitted it.
+Ori looked up.
 
 Mau continued.
 
+"Before answering."
+
+Frieren had not said it.
+
+No one had.
+
+He looked at her.
+
+"You did."
+
+Not question.
+
+Then uncertainty returned.
+
+"Didn't you?"
+
+Frieren's eyes filled.
+
+"Yes."
+
+Mau went still.
+
+She touched the ornament now.
+
+Same motion.
+
+Not exact.
+
+Enough.
+
+Mau continued before the feeling disappeared.
+
 "Then you looked at the fire."
 
-Silence.
+"Yes."
 
-He saw her face change.
-
-"Did that happen?"
+"You took too long to answer."
 
 Frieren smiled.
 
-Small.
+"Yes."
+
+"I thought you didn't want to tell me."
+
+"I didn't know how."
+
+Mau remembered.
+
+Or believed he did.
+
+The difference still mattered.
+
+Frieren reached into the old notes.
+
+No record of the gesture.
+
+No sketch.
+
+No one else.
+
+The detail existed only in both of them.
+
+That should have made it weaker evidence.
+
+Emotionally it did the opposite.
+
+Mau laughed.
+
+Then covered his face.
+
+Ori moved.
+
+Stopped herself.
+
+Waited.
+
+Mau cried into his hands.
+
+Not loudly.
+
+Frieren stood.
+
+Came around the table.
+
+"Hey."
+
+Mau lowered his hands.
+
+"That's mine."
+
+Frieren understood.
+
+Not ownership of her gesture.
+
+The memory.
+
+A detail not supplied by committee.
+
+Not recovered from a log.
+
+Not proven by an object.
+
+Something inside Mau had matched something inside Frieren.
 
 "Yes."
 
-Mau looked down.
+Mau laughed again.
 
-Relief arrived so hard it hurt.
+"I know this is statistically terrible."
 
-One detail.
+Rimuru looked at him.
 
-Mundane.
+"Correct."
 
-Not in a record.
+Mau glared.
 
-Not supplied by someone else.
+"Wrong time."
 
-His.
+"Sorry."
 
-At least as far as both remembered.
+Frieren sat beside him.
 
-He laughed.
-
-Then cried.
-
-Frieren moved closer.
-
-Mau asked:
+Mau touched the edge of the table.
 
 "Do you remember it that way too?"
 
+The question had been fear for days.
+
+Do you remember the thing my head says happened?
+
+Please tell me whether reality agrees.
+
+Now it sounded different.
+
+Hope.
+
+Frieren answered:
+
 "Yes."
 
-The question could mean hope now.
+Mau looked at her.
 
-That changed it forever.
+The memory did not suddenly become impossible to manipulate.
+
+That would be too easy.
+
+They could still both misremember.
+
+The attack could have copied from a real event.
+
+Epistemology remained ugly.
+
+None of that removed the emotional fact:
+
+Mau had reached a detail before anyone gave it to him.
+
+Something had survived.
+
+Later, at dinner, he over-salted his food.
+
+Ori noticed.
+
+"You remember doing that before?"
+
+Mau looked at the salt.
+
+"No."
+
+"Good."
+
+"Why good?"
+
+"Because not every bad decision needs history."
+
+Mau smiled.
+
+A real detail did not restore yesterday.
+
+It made tomorrow feel possible.

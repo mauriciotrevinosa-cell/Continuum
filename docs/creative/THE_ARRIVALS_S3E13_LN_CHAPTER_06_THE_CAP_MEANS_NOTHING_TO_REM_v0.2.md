@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 16 — The Cap Means Nothing to Rem
+## Chapter 17 — The Cap Means Nothing to Rem
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 16  
+**Reading order:** 17  
 **Continuity state:** Day 11 — early afternoon | Mau found | Initial field triage
 
 The first ten minutes became practical.

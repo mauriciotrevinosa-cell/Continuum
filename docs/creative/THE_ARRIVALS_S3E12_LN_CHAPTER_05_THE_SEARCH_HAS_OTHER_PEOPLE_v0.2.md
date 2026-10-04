@@ -250,9 +250,9 @@ One delivery arrived.
 
 G5 covered transport.
 
-Coco argued with Agott about a marker.
+Coco argued with Richeh about a marker.
 
-Qifrey let them.
+Tetia let them.
 
 People built while core searchers were gone.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 15 — Aira Hears Something
+## Chapter 16 — Aira Hears Something
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 15  
+**Reading order:** 16  
 **Continuity state:** Day 11 — midday | Aira independent route | Rescue trio not yet complete
 
 Aira heard someone shouting before she saw anyone.

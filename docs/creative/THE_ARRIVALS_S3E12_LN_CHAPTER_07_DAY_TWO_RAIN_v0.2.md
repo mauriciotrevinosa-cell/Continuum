@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 6 — Day Two Rain
+## Chapter 7 — Day Two Rain
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 6  
+**Reading order:** 7  
 **Continuity state:** Day 8 | Mau/Ori second travel day | Head injury has not happened yet
 
 Rain started before breakfast.

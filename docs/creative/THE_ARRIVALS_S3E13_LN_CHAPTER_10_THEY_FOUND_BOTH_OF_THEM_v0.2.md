@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 20 — They Found Both of Them
+## Chapter 21 — They Found Both of Them
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 20  
+**Reading order:** 21  
 **Continuity state:** Day 12 — evening | Search networks converge | Mau remains medically unstable
 
 Frieren entered the clearing first.
@@ -298,6 +298,6 @@ They had found Ori.
 
 They had not brought either of them back yet.
 
-Volume Twelve ended with a larger circle forming around the same injured body Rem, Kaneki, Aira and Ori had been guarding alone.
+The day ended with a larger circle forming around the same injured body Rem, Kaneki, Aira and Ori had been guarding alone.
 
 The night belonged to all of them now.

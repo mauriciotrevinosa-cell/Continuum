@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 7 — The Thing in the Trees
+## Chapter 8 — The Thing in the Trees
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 7  
+**Reading order:** 8  
 **Continuity state:** Day 9 — morning | Third travel day | Monster encounter begins
 
 The forest had become quiet before Mau woke.

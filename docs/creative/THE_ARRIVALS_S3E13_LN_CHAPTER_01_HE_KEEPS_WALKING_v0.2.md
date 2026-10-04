@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 11 — He Keeps Walking
+## Chapter 12 — He Keeps Walking
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 11  
+**Reading order:** 12  
 **Continuity state:** Day 10 — morning | Mau concussed / feverish | Ori sole companion | Search behind them
 
 Mau should not have been walking.

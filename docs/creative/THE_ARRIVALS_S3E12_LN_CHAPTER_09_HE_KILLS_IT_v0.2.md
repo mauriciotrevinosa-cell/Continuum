@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 8 — He Kills It
+## Chapter 9 — He Kills It
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 8  
+**Reading order:** 9  
 **Continuity state:** Day 9 — monster fight | Mau: acute head injury | Ori: present / endangered
 
 Sound returned in pieces.

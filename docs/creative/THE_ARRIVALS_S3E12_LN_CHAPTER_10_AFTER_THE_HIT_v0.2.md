@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 9 — After the Hit
+## Chapter 10 — After the Hit
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 9  
+**Reading order:** 10  
 **Continuity state:** Day 9 — afternoon/night | Mau: real head injury + existing memory instability | Travel largely paused
 
 Mau slept twenty minutes.

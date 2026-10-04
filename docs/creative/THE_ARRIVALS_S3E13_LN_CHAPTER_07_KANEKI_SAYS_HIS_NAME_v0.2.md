@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 17 — Kaneki Says His Name
+## Chapter 18 — Kaneki Says His Name
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 17  
+**Reading order:** 18  
 **Continuity state:** Day 11 — afternoon | Mau unstable / intermittent lucidity | Biological change visible
 
 The thing behind Mau did not move like a separate creature.

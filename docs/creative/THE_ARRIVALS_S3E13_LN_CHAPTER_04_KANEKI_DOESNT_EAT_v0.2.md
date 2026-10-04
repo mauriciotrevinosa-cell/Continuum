@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 14 — Kaneki Doesn't Eat
+## Chapter 15 — Kaneki Doesn't Eat
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 14  
+**Reading order:** 15  
 **Continuity state:** Day 11 — morning | Kaneki independent route | Has not met Mau or household
 
 Kaneki avoided camps before anyone asked why he did not eat.

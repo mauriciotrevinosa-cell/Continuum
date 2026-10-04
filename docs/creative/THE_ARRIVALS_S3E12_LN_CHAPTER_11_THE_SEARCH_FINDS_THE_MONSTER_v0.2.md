@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 10 — The Search Finds the Monster
+## Chapter 11 — The Search Finds the Monster
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 10  
+**Reading order:** 11  
 **Continuity state:** Day 10 — morning | Main search roughly one day behind | Fight evidence becomes medical urgency
 
 Frieren found blood first.

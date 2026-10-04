@@ -4,7 +4,7 @@
 **Volume:** 12  
 **Season:** 3  
 **Volume title:** **The Second Road**  
-**Chapter count:** 20  
+**Chapter count:** 22  
 **Supersedes:** Volume 12 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
@@ -14,21 +14,23 @@
 | 3 | The Letter |
 | 4 | Day One South |
 | 5 | The Search Has Other People |
-| 6 | Day Two Rain |
-| 7 | The Thing in the Trees |
-| 8 | He Kills It |
-| 9 | After the Hit |
-| 10 | The Search Finds the Monster |
-| 11 | He Keeps Walking |
-| 12 | One Day Unconscious |
-| 13 | Rem by the River |
-| 14 | Kaneki Doesn't Eat |
-| 15 | Aira Hears Something |
-| 16 | The Cap Means Nothing to Rem |
-| 17 | Kaneki Says His Name |
-| 18 | Aira Moves First |
-| 19 | Two Days |
-| 20 | They Found Both of Them |
+| 6 | Every Place Set |
+| 7 | Day Two Rain |
+| 8 | The Thing in the Trees |
+| 9 | He Kills It |
+| 10 | After the Hit |
+| 11 | The Search Finds the Monster |
+| 12 | He Keeps Walking |
+| 13 | One Day Unconscious |
+| 14 | Rem by the River |
+| 15 | Kaneki Doesn't Eat |
+| 16 | Aira Hears Something |
+| 17 | The Cap Means Nothing to Rem |
+| 18 | Kaneki Says His Name |
+| 19 | Aira Moves First |
+| 20 | Two Days |
+| 21 | They Found Both of Them |
+| 22 | The Message |
 
 ## Handoff
 

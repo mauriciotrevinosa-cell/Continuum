@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 13 — Rem by the River
+## Chapter 14 — Rem by the River
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 13  
+**Reading order:** 14  
 **Continuity state:** Day 11 — morning | Rem independent route | Has not met Mau, Ori or main household
 
 Rem had heard too many versions of the word Otherworlder.

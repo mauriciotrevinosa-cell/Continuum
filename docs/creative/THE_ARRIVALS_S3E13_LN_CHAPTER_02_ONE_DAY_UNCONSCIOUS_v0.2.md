@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 12 — One Day Unconscious
+## Chapter 13 — One Day Unconscious
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 12  
+**Reading order:** 13  
 **Continuity state:** Day 10–11 | Mau mostly unconscious | Ori alone maintaining field care
 
 Mau did not wake that afternoon.

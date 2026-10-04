@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 18 — Aira Moves First
+## Chapter 19 — Aira Moves First
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 18  
+**Reading order:** 19  
 **Continuity state:** Day 11 — afternoon | Exposed shelter failing | Field relocation under instability
 
 The rock overhang started shedding dirt.

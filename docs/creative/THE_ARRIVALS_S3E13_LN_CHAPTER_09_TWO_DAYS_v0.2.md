@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 19 — Two Days
+## Chapter 20 — Two Days
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
-**Reading order:** 19  
+**Reading order:** 20  
 **Continuity state:** Day 11–12 | Mau mostly unconscious | Ori + Rem + Kaneki + Aira maintain field care
 
 Night divided them into jobs.

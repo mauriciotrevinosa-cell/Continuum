@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 7 — Tear It Out
+## Chapter 8 — Tear It Out
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 7  
+**Reading order:** 8  
 **Continuity state:** Inhabited settlement redesign begins | Existing work has emotional/material cost
 
 The first road they tore out had been used for weeks.

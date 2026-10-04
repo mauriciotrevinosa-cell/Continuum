@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 12 — Roads Are Not Sacred
+## Chapter 13 — Roads Are Not Sacred
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 12
+**Reading order:** 13
 
 The settlement refused a grid without making an ideology of it.
 

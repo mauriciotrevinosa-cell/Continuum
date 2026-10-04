@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 24 — Milim Wants Both Brothers
+## Chapter 26 — Milim Wants Both Brothers
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
-**Reading order:** 24  
+**Reading order:** 26  
 **Continuity state:** Ordinary-life day | Milim's chaotic younger-sister bond expands around Mau and Rimuru
 
 Milim wanted both brothers.

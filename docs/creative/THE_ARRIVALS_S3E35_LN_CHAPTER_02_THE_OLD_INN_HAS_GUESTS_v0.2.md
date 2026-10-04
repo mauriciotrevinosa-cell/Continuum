@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 20 — The Old Inn Has Guests
+## Chapter 22 — The Old Inn Has Guests
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 20
+**Reading order:** 22
 
 The old inn filled again for three nights.
 

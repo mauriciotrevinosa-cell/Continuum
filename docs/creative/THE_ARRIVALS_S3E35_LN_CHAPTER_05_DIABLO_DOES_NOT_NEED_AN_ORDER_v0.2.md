@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 23 — Diablo Does Not Need an Order
+## Chapter 25 — Diablo Does Not Need an Order
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
-**Reading order:** 23  
+**Reading order:** 25  
 **Continuity state:** Ordinary settlement life | Diablo begins serving the household by judgment, not only Rimuru's direct instruction
 
 Diablo moved the lumber before anyone asked.

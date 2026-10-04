@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 9 — Clean Water, Dirty Water
+## Chapter 10 — Clean Water, Dirty Water
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 9
+**Reading order:** 10
 
 Coco wanted wastewater markings to be pretty.
 

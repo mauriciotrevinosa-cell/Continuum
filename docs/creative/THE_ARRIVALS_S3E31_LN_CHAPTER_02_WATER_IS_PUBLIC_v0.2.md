@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 8 — Water Is Public
+## Chapter 9 — Water Is Public
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 8  
+**Reading order:** 9  
 **Continuity state:** Hybrid civic-water redesign begins
 
 The most political object in settlement was a pipe.

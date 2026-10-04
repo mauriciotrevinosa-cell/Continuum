@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 31 — Carry Half
+## Chapter 34 — Carry Half
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
-**Reading order:** 31  
+**Reading order:** 34  
 **Continuity state:** Ordinary work day | Yuta/Mau older-brother bond reappears outside medical crisis
 
 Yuta took half the box.

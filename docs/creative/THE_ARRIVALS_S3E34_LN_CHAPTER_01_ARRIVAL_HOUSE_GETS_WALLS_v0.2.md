@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 16 — Arrival House Gets Walls
+## Chapter 17 — Arrival House Gets Walls
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 16
+**Reading order:** 17
 
 Arrival House got walls because rain won again.
 

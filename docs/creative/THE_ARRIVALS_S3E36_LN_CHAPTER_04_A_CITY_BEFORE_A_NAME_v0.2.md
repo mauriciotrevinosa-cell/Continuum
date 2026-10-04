@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 29 — A City Before a Name
+## Chapter 32 — A City Before a Name
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 29
+**Reading order:** 32
 
 The settlement had first working versions of:
 shared water points;
@@ -213,7 +213,7 @@ Mikasa heard.
 
 "That's the question."
 
-Volume Sixteen ended without a name.
+The settlement went on without a name.
 
 It did not need one.
 

@@ -4,7 +4,7 @@
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  
-**Chapter count:** 31
+**Chapter count:** 34
 
 | # | Chapter |
 |---:|---|
@@ -14,31 +14,34 @@
 | 4 | The Audit Finally Starts |
 | 5 | No |
 | 6 | He's Not as Fast |
-| 7 | Tear It Out |
-| 8 | Water Is Public |
-| 9 | Clean Water, Dirty Water |
-| 10 | A Spell You Can Repair |
-| 11 | Maomao Says No |
-| 12 | Roads Are Not Sacred |
-| 13 | The Washing Court |
-| 14 | Culture Happens While No One Is Looking |
-| 15 | The Bridge Opens |
-| 16 | Arrival House Gets Walls |
-| 17 | Construction Is Not Engineering |
-| 18 | Maomao, Senku and Kusuri Agree Too Much |
-| 19 | Teach Someone Else |
-| 20 | The Old Inn Has Guests |
-| 21 | Not One Reason |
-| 22 | Suika Has Too Many Sisters |
-| 23 | Diablo Does Not Need an Order |
-| 24 | Milim Wants Both Brothers |
-| 25 | Karane Has Given Up on Logic |
-| 26 | Senku Gets Faster |
-| 27 | The First Thing Built for Peace |
-| 28 | The Message at Dinner |
-| 29 | A City Before a Name |
-| 30 | Okarun Comes Looking for Mau |
-| 31 | Carry Half |
+| 7 | Nobody Works Today |
+| 8 | Tear It Out |
+| 9 | Water Is Public |
+| 10 | Clean Water, Dirty Water |
+| 11 | A Spell You Can Repair |
+| 12 | Maomao Says No |
+| 13 | Roads Are Not Sacred |
+| 14 | The Washing Court |
+| 15 | Culture Happens While No One Is Looking |
+| 16 | The Bridge Opens |
+| 17 | Arrival House Gets Walls |
+| 18 | Water on Stone |
+| 19 | Construction Is Not Engineering |
+| 20 | Maomao, Senku and Kusuri Agree Too Much |
+| 21 | Teach Someone Else |
+| 22 | The Old Inn Has Guests |
+| 23 | Not One Reason |
+| 24 | Suika Has Too Many Sisters |
+| 25 | Diablo Does Not Need an Order |
+| 26 | Milim Wants Both Brothers |
+| 27 | Karane Has Given Up on Logic |
+| 28 | Senku Gets Faster |
+| 29 | The First Thing Built for Peace |
+| 30 | One Question |
+| 31 | The Message at Dinner |
+| 32 | A City Before a Name |
+| 33 | Okarun Comes Looking for Mau |
+| 34 | Carry Half |
 
 ## Creator-revision relationship expansion — 2026-10-04
 

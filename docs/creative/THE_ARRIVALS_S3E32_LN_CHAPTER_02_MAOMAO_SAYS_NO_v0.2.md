@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 11 — Maomao Says No
+## Chapter 12 — Maomao Says No
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 11
+**Reading order:** 12
 
 The bath design was beautiful.
 

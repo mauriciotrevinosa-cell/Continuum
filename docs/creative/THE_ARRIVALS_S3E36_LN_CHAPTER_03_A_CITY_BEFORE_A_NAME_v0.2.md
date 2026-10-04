@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 24 — A City Before a Name
+## Chapter 26 — A City Before a Name
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 24
+**Reading order:** 26
 
 The settlement had first working versions of:
 shared water points;

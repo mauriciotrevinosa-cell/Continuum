@@ -2,7 +2,7 @@
 
 **Status:** ACTIVE CREATOR-REVISION CHECKPOINT  
 **Branch:** `m3/critical-path`  
-**Current active S3 chapter count:** **275**  
+**Current active S3 chapter count:** **277**  
 **Relationship authority:** `S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`
 
 ## 1. Creator problem that reopened S3
@@ -96,7 +96,22 @@ Hostile-rumor chapters now explicitly show how visible truths are reframed:
 
 This is seeded without prematurely proving one mastermind.
 
-## 6. V16 architecture correction at this checkpoint
+## 6. V16 relationship + architecture correction at this checkpoint
+
+V16 increased **24 -> 26**.
+
+Added:
+1. **Not One Reason** — G5's old "Who is Mau?" question resolves into different direct relationships rather than one protagonist-worship answer.
+2. **Suika Has Too Many Sisters** — Suika is absorbed into the younger-sister network while keeping Senku central; Senku is pulled toward family indirectly.
+
+This locks the intended Ring Two mechanism:
+- source relationship first;
+- observe what Continuum changed in the person they love;
+- build an independent relationship with Mau / the household;
+- family status may grow at different speeds;
+- no requirement that everyone use the same family label.
+
+### V16 construction ceiling
 
 No chapter-count increase yet.
 
@@ -124,12 +139,12 @@ Current chapter counts:
 - V13 **32**
 - V14 **25**
 - V15 **31**
-- V16 24
+- V16 **26**
 - V17 24
 - V18 27
 - V19 40
 
-Total: **275**.
+Total: **277**.
 
 All active S3 chapter filenames remain numeric-only.
 No active S3 chapter is below 2.5 KB.

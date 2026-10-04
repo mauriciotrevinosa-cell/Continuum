@@ -3,7 +3,7 @@
 **Status:** ACTIVE CREATOR REVISION — POST-MEMORY FAMILY REBUILD IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **275**  
+**Reader-order chapters:** **277**  
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
@@ -87,12 +87,12 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 13 | Bring Him Back | 32 | active creator revision |
 | 14 | The Move | 25 | active creator revision |
 | 15 | People Who Heard About Us | 31 | active creator revision |
-| 16 | What the Message Changes | 24 | latest merged files |
+| 16 | What the Message Changes | 26 | active creator revision |
 | 17 | Freedom and Walls | 24 | latest merged files |
 | 18 | Last Defense | 27 | latest merged files |
 | 19 | What Would You Choose? | 40 | latest merged files |
 
-Total currently: **275 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
+Total currently: **277 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
 
 ## Current density audit — creator revision in progress
 
@@ -120,7 +120,8 @@ The former large compression holes in V18 Last Defense / later Noise and V19 Tri
 The current family-rebuild pass has added **17 lived chapters** so far without shrinking prior prose:
 - +5 to V13 family aftermath;
 - +5 to V14 The Move / household topology;
-- +7 to V15 ordinary weeks / Ring Two integration / Sukuna persistence.
+- +7 to V15 ordinary weeks / Ring Two integration / Sukuna persistence;
+- +2 to V16 direct G5/Ring Two relationship follow-through.
 
 ## Final continuity locks
 
@@ -182,7 +183,9 @@ The current family-rebuild pass has added **17 lived chapters** so far without s
 - governance / due process / exit rights remain scoped;
 - Mau is not treated as consumable civic infrastructure;
 - anti-Otherworlder language increasingly reframes refuge as recruitment, Searchers as collection teams and the family core as command structure without prematurely proving one mastermind;
-- Sukuna remains active in parallel and hears the growing settlement rumor.
+- Sukuna remains active in parallel and hears the growing settlement rumor;
+- G5 no longer shares one answer to "Who is Mau?"; their direct bonds develop for different reasons;
+- Suika expands into the younger-sister network and pulls Senku toward ordinary family life without erasing their original bond.
 
 ### V18 — Last Defense
 - defense is distributed across combat, refuge, medical, information and infrastructure systems;

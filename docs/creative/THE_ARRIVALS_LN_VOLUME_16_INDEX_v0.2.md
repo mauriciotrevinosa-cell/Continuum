@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 16 Index v0.2
 
-**Status:** ACTIVE CREATOR REVISION — CONSTRUCTION CEILING REALIGNED  
+**Status:** ACTIVE CREATOR REVISION — RING TWO / CONSTRUCTION CEILING REALIGNED  
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  
-**Chapter count:** 24
+**Chapter count:** 26
 
 | # | Chapter |
 |---:|---|
@@ -28,10 +28,25 @@
 | 18 | Maomao, Senku and Kusuri Agree Too Much |
 | 19 | Teach Someone Else |
 | 20 | The Old Inn Has Guests |
-| 21 | Senku Gets Faster |
-| 22 | The First Thing Built for Peace |
-| 23 | The Message at Dinner |
-| 24 | A City Before a Name |
+| 21 | Not One Reason |
+| 22 | Suika Has Too Many Sisters |
+| 23 | Senku Gets Faster |
+| 24 | The First Thing Built for Peace |
+| 25 | The Message at Dinner |
+| 26 | A City Before a Name |
+
+## Creator-revision relationship expansion — 2026-10-04
+
+G5 / Ring Two now receives explicit lived follow-through:
+- the old "Who is Mau?" question resolves into many different direct answers rather than universal adoration;
+- Mai can remain slower / less sentimental without being treated as outside;
+- Nijika/Ryo understand Mau partly through what Bocchi has become and then through their own interactions;
+- Jinshi sees Maomao remain herself inside the family;
+- Seiko's grandmother affection becomes visible;
+- Milim names Mau/Rimuru as brothers without forcing a hierarchy;
+- Kusuri explicitly distinguishes belonging from proximity to Mau;
+- Suika expands into the younger-sister network without being severed from Senku;
+- Senku is pulled into family life indirectly through Suika rather than instantly becoming sentimental.
 
 ## Handoff to V17
 

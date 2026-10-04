@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 13 — The First Holding Site
+## Chapter 15 — The First Holding Site
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 13  
+**Reading order:** 15  
 **Continuity state:** Searchers' first formal detention mission
 
 The rumor sounded simple.

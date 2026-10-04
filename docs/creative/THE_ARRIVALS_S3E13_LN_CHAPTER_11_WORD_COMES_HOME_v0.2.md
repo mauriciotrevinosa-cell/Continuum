@@ -1,5 +1,5 @@
 # The Arrivals — Light Novel — Volume 12
-## Chapter 22 — The Message
+## Chapter 22 — Word Comes Home
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  

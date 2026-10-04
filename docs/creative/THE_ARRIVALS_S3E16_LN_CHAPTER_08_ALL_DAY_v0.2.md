@@ -1,5 +1,5 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 24 — The List
+## Chapter 24 — All Day
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  

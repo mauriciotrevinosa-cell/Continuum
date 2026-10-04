@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 24 — Too Few Beds Again
+## Chapter 27 — Too Few Beds Again
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 24
+**Reading order:** 27
 
 They had moved because the inn was too small.
 
@@ -41,7 +41,31 @@ Workshop floor absorbed three.
 
 Two residents volunteered rooms.
 
+Kita moved into Bocchi's.
+
+"Only until the bunks are built," Kita told several people who had not asked.
+
+Bocchi said nothing and stayed pink for two days.
+
+Umaru moved into Coco's and called it a sleepover.
+
+Coco called it a sleepover too, louder.
+
 One offer was rejected because the person offering the room had nowhere reasonable to go.
+
+Stark had offered his.
+
+Fern looked at him.
+
+"Where will you sleep?"
+
+"Somewhere."
+
+"No."
+
+He did not argue.
+
+He looked, Marin said later, like someone who had been rescued and was trying to hide it.
 
 Generosity did not create space from nothing.
 
@@ -71,7 +95,8 @@ Around them:
 two Searchers;
 one G5 traveler;
 Aira because she had lost a coin toss;
-Momo because Momo refused to explain.
+Momo because Momo refused to explain;
+Okarun because Momo was there.
 
 At 2 a.m. someone stepped on Mau's hand.
 

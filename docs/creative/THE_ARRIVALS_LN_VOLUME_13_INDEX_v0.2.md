@@ -32,7 +32,7 @@
 | 21 | Provably False |
 | 22 | Permanently Uncertain |
 | 23 | Visiting Hours |
-| 24 | The List |
+| 24 | All Day |
 | 25 | The Body Heals Slower |
 | 26 | No. But You Can Stay. |
 | 27 | The Three Who Found Him |

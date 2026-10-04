@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 18 — The Road Gets Worse
+## Chapter 20 — The Road Gets Worse
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 18  
+**Reading order:** 20  
 **Continuity state:** External anti-Otherworlder pressure grows unevenly alongside migration
 
 The western road acquired a registration checkpoint.

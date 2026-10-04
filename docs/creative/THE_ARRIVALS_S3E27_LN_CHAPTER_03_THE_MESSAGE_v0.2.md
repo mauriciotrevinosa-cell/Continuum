@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 27 — The Message
+## Chapter 30 — The Message
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 27
+**Reading order:** 30
 
 They sent the message by boring methods.
 

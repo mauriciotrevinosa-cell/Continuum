@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 17 — The Rumor Changes
+## Chapter 19 — The Rumor Changes
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 17  
+**Reading order:** 19  
 **Continuity state:** Settlement reputation changes from location rumor to refuge claim
 
 The first rumor had been simple.

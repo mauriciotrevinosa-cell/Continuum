@@ -30,7 +30,7 @@
 | 19 | Aira Moves First |
 | 20 | Two Days |
 | 21 | They Found Both of Them |
-| 22 | The Message |
+| 22 | Word Comes Home |
 
 ## Handoff
 

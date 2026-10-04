@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 23 — One for Hundreds
+## Chapter 25 — One for Hundreds
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 23
+**Reading order:** 25
 
 The resident who asked was scared.
 

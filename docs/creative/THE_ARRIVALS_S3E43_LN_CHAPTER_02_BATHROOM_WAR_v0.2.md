@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 18 — Bathroom War
+## Chapter 19 — Bathroom War
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 18
+**Reading order:** 19
 
 Full occupancy broke bathroom assumptions.
 

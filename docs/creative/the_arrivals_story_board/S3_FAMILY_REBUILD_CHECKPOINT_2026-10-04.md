@@ -2,7 +2,7 @@
 
 **Status:** ACTIVE CREATOR-REVISION CHECKPOINT  
 **Branch:** `m3/critical-path`  
-**Current active S3 chapter count:** **277**  
+**Current active S3 chapter count:** **279**  
 **Relationship authority:** `S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`
 
 ## 1. Creator problem that reopened S3
@@ -130,7 +130,28 @@ V17 domestic chapters were lightly strengthened to keep:
 - Rem
 visibly present during the "everyone home" / music stretch.
 
-## 7. Mechanical state
+## 7. V17 authority + hostile-frame expansion
+
+V17 increased **24 -> 26**.
+
+Added:
+1. **The Person Everyone Knows** — Mau's relational centrality is admitted instead of treated as a flaw; the safeguard is issue-specific representation, not making Mau emotionally peripheral.
+2. **Give Them One Name** — hostile assessment paperwork forces family/community relationships into a command model and tells assessors to identify a central figure even when no formal leader exists.
+
+This strengthens the later representative debate:
+- Mau can be a natural liaison because he connects many people;
+- that does not make him owner, sovereign or default decision-maker;
+- the family can choose him without surrendering agency.
+
+It also strengthens S4 antagonist escalation:
+- real facts are being reframed as military/command evidence;
+- Arrival House becomes "retention";
+- Searchers become "recruitment";
+- source/family circles become "arms";
+- Mau becomes the supposed control point;
+- the author / mastermind remains unresolved.
+
+## 8. Mechanical state
 
 Current chapter counts:
 - V10 17
@@ -140,11 +161,11 @@ Current chapter counts:
 - V14 **25**
 - V15 **31**
 - V16 **26**
-- V17 24
+- V17 **26**
 - V18 27
 - V19 40
 
-Total: **277**.
+Total: **279**.
 
 All active S3 chapter filenames remain numeric-only.
 No active S3 chapter is below 2.5 KB.

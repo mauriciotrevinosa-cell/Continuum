@@ -2,7 +2,7 @@
 
 **Status:** ACTIVE CREATOR-REVISION CHECKPOINT  
 **Branch:** `m3/critical-path`  
-**Current active S3 chapter count:** **286**  
+**Current active S3 chapter count:** **288**  
 **Relationship authority:** `S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`
 
 ## 1. Creator problem that reopened S3
@@ -100,7 +100,7 @@ This is seeded without prematurely proving one mastermind.
 
 ## 6. V16 relationship + architecture correction at this checkpoint
 
-V16 increased **24 -> 29**.
+V16 increased **24 -> 31**.
 
 Added:
 1. **Not One Reason** — G5's old "Who is Mau?" question resolves into different direct relationships rather than one protagonist-worship answer.
@@ -108,6 +108,8 @@ Added:
 3. **Diablo Does Not Need an Order** — Diablo starts helping the wider household by judgment rather than only Rimuru's explicit command; his overprotective Mau behavior grows from witnessing real suffering.
 4. **Milim Wants Both Brothers** — Mau/Rimuru sibling language becomes explicit and Milim's chaotic younger-sister role becomes lived family.
 5. **Karane Has Given Up on Logic** — Hakari/Karane/Shizuka/Nano/Kusuri remain active ordinary-life family and cross-connect with Momo/Marin/Frieren instead of becoming a source enclave.
+6. **Okarun Comes Looking for Mau** — Okarun/Mau direct friendship exists without requiring Momo as mediator.
+7. **Carry Half** — Yuta/Mau older-brother bond returns outside crisis; being important to someone is explicitly separated from owing them a perfect outcome.
 
 This locks the intended Ring Two mechanism:
 - source relationship first;
@@ -192,12 +194,12 @@ Current chapter counts:
 - V13 **34**
 - V14 **25**
 - V15 **31**
-- V16 **29**
+- V16 **31**
 - V17 **26**
 - V18 **29**
 - V19 40
 
-Total: **286**.
+Total: **288**.
 
 All active S3 chapter filenames remain numeric-only.
 No active S3 chapter is below 2.5 KB.

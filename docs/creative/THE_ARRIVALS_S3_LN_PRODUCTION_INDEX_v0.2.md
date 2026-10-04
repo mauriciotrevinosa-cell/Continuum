@@ -3,7 +3,7 @@
 **Status:** ACTIVE CREATOR REVISION — POST-MEMORY FAMILY REBUILD IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **286**  
+**Reader-order chapters:** **288**  
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
@@ -89,12 +89,12 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 13 | Bring Him Back | 34 | active creator revision |
 | 14 | The Move | 25 | active creator revision |
 | 15 | People Who Heard About Us | 31 | active creator revision |
-| 16 | What the Message Changes | 29 | active creator revision |
+| 16 | What the Message Changes | 31 | active creator revision |
 | 17 | Freedom and Walls | 26 | active creator revision |
 | 18 | Last Defense | 29 | active creator revision |
 | 19 | What Would You Choose? | 40 | latest merged files |
 
-Total currently: **286 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
+Total currently: **288 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
 
 ## Current density audit — creator revision in progress
 
@@ -123,7 +123,7 @@ The current family-rebuild pass has added **17 lived chapters** so far without s
 - +7 to V13 family aftermath / Rem-Kaneki-Aira integration;
 - +5 to V14 The Move / household topology;
 - +7 to V15 ordinary weeks / Ring Two integration / Sukuna persistence;
-- +5 to V16 direct G5/Ring Two / Diablo-Milim / 100 Girlfriends family follow-through;
+- +7 to V16 direct G5/Ring Two / Diablo-Milim / 100 Girlfriends / Okarun-Yuta family follow-through;
 - +2 to V17 representation / hostile-frame escalation;
 - +2 to V18 prewritten-propaganda / Sukuna-persistence aftermath.
 
@@ -197,7 +197,9 @@ The current family-rebuild pass has added **17 lived chapters** so far without s
 - Suika expands into the younger-sister network and pulls Senku toward ordinary family life without erasing their original bond;
 - Diablo begins caring for the household beyond direct Rimuru orders while remaining fully Diablo;
 - Milim develops explicit chaotic younger-sister / sibling-family life with Mau and Rimuru;
-- the 100 Girlfriends-side cast remains active in ordinary household life and explicitly rejects both sameness and forced separation.
+- the 100 Girlfriends-side cast remains active in ordinary household life and explicitly rejects both sameness and forced separation;
+- Okarun/Mau friendship is shown independently of Momo;
+- Yuta/Mau older-brother continuity is restored outside crisis, with "important does not mean indebted" as a direct thematic bridge to the Trial.
 
 ### V18 — Last Defense
 - defense is distributed across combat, refuge, medical, information and infrastructure systems;

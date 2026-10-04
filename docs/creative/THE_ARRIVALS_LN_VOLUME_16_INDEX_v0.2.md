@@ -4,7 +4,7 @@
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  
-**Chapter count:** 29
+**Chapter count:** 31
 
 | # | Chapter |
 |---:|---|
@@ -37,6 +37,8 @@
 | 27 | The First Thing Built for Peace |
 | 28 | The Message at Dinner |
 | 29 | A City Before a Name |
+| 30 | Okarun Comes Looking for Mau |
+| 31 | Carry Half |
 
 ## Creator-revision relationship expansion — 2026-10-04
 
@@ -53,6 +55,12 @@ G5 / Ring Two now receives explicit lived follow-through:
 - Diablo begins helping the wider family from his own judgment rather than only direct Rimuru orders;
 - Milim's chaotic younger-sister relationship with Mau/Rimuru becomes ordinary life, not power cameo;
 - Hakari/Karane/Shizuka/Nano/Kusuri remain a visible family texture and cross-connect with Momo/Marin/Frieren rather than disappearing into a source enclave.
+
+## Late-volume relationship breathing room
+
+After the infrastructure/public-identity push, the volume deliberately returns to two older relationships:
+- Okarun seeks Mau out directly, proving their friendship no longer requires Momo as mediator;
+- Yuta/Mau restores the older-brother lane outside combat/medicine and states the core rule: being chosen as important creates relationship, not debt.
 
 ## Handoff to V17
 

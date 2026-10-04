@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 16 Index v0.2
 
-**Status:** ACTIVE MERGED READER ORDER — PROSE PASS COMPLETE  
+**Status:** ACTIVE CREATOR REVISION — CONSTRUCTION CEILING REALIGNED  
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  
@@ -37,12 +37,12 @@
 
 - unity message has persistent social effects;
 - first external partnership is material and functioning;
-- Arrival House has a real building;
+- Arrival House has a provisional enclosed shell with privacy, not its final permanent building;
 - Senku has altered design without becoming a civilization cheat code;
 - Kusuri is embedded in chemical/medical infrastructure without becoming a second Senku or replacing Maomao;
 - cognition reduction remains real but adapting;
-- hybrid Witch Hat / engineering / settlement systems are now lived infrastructure;
-- city remains unnamed and unfinished;
+- hybrid Witch Hat / engineering / settlement systems exist as maintainable first versions rather than a finished civic build;
+- outsiders increasingly call the place a city, but physically it remains an unfinished settlement with first-version infrastructure and future foundations;
 - repeated language in distant anti-Otherworlder policy creates a documented pattern;
 - defense planning is now necessary;
 - Eren has not arrived yet.

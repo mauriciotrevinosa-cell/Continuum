@@ -49,6 +49,14 @@ No need to glue reunion into constant closeness.
 
 Mau sat beside Frieren.
 
+Maki sat on Frieren's other side for the first song, then got pulled into an argument with Yuta and Seiko about whether somebody was keeping watch while pretending not to.
+
+Marin leaned against Wakana and sang the wrong words confidently.
+
+Anko tried to wake Nazuna for the second song.
+
+Nazuna told her to go away without opening her eyes.
+
 Did nothing.
 
 That mattered.
@@ -166,12 +174,16 @@ Not promise.
 
 Present.
 
-Eren noticed people around room:
+Eren noticed people around the room:
 fighters;
 nonfighters;
 refugees;
 guests;
 residents;
+siblings who were not blood;
+partners;
+people from the same world who had found each other again;
+people from different worlds who behaved like they had grown up in the same house;
 someone he knew would be called dangerous in another context.
 
 All sharing terrible rhythm.

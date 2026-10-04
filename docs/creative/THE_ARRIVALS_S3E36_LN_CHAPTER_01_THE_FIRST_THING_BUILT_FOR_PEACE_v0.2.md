@@ -21,7 +21,17 @@ Storage.
 
 Drainage.
 
-Then they built a small plaza.
+Then they cleared a small commons that people immediately started calling a plaza.
+
+It was not a finished civic square.
+
+Mostly packed ground.
+
+Several rough benches.
+
+Shade cloth.
+
+One tree everyone had agreed not to cut.
 
 No emergency function.
 
@@ -109,9 +119,9 @@ Fern hated being caught.
 
 Left them.
 
-The plaza opened without opening.
+The commons opened without opening.
 
-One day benches were there.
+One day the rough benches were there.
 
 Next day someone ate lunch.
 
@@ -173,11 +183,11 @@ A city choosing to spend material on nothing urgent.
 
 Proof it expected tomorrow.
 
-A week later someone proposed mounting one defense signal near plaza because visibility good.
+A week later someone proposed mounting one defense signal near the commons because visibility good.
 
 Mikasa agreed.
 
-Coco objected to making plaza feel military.
+Coco objected to making the commons feel military.
 
 They compromised:
 signal integrated but not dominant.
@@ -194,8 +204,12 @@ One child fell.
 One traveler slept on bench.
 Someone left flowers by tree for reason nobody knew.
 
-The plaza collected life faster than plans.
+The rough commons collected life faster than plans.
 
-The first thing built primarily for peace became one of settlement's most used spaces.
+The first space set aside primarily for peace became one of the settlement's most used places.
+
+Someday it might become a real plaza.
+
+For now, packed dirt was enough to prove the point.
 
 That said more about what city hoped to become than any defensive wall could.

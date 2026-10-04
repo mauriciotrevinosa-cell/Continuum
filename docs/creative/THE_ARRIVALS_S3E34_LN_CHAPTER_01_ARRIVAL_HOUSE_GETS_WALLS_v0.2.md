@@ -5,7 +5,9 @@
 **Volume:** 16  
 **Reading order:** 16
 
-Arrival House became a house because rain won again.
+Arrival House got walls because rain won again.
+
+It did **not** get its final building.
 
 Canvas leaked.
 
@@ -15,13 +17,17 @@ One medical conversation traveled far enough that two people outside learned inf
 
 That ended the argument.
 
-They built.
+The permanent Arrival House plan was still somewhere in S4's problem pile.
+
+For now they enclosed the existing intake shelter with a repairable timber frame and movable interior panels.
 
 Not grand.
+Not final.
+Not even completely square.
 
-Front room.
+A front area.
 
-Two private interview rooms.
+Two private interview spaces made by partitions.
 
 Medical corner.
 
@@ -29,7 +35,7 @@ Map wall.
 
 Missing-person board.
 
-Small kitchen.
+Tiny food counter instead of a real kitchen.
 
 Bunks.
 
@@ -139,7 +145,7 @@ Right.
 
 Flexible.
 
-The first night building opened, nobody ceremonial entered.
+The first night the enclosed shell opened, nobody ceremonial entered.
 
 A woman came wet from road.
 
@@ -159,7 +165,7 @@ Fern:
 
 There.
 
-A building dedicated to arrival did not require arrival to end in residence.
+Even a provisional structure dedicated to arrival did not require arrival to end in residence.
 
 Over next week:
 one person stayed;
@@ -193,7 +199,11 @@ Being helped anyway.
 
 Frieren understood.
 
-Arrival House was proof settlement could receive strangers without Mau being first face.
+Arrival House's first enclosed shell was proof the settlement could receive strangers without Mau being first face.
+
+Its final architecture could wait.
+
+Privacy could not.
 
 That hurt less now.
 

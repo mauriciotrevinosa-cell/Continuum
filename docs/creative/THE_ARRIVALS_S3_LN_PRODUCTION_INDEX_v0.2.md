@@ -157,7 +157,7 @@ The former large compression holes in V18 Last Defense / later Noise and V19 Tri
 
 ### V14–V17 — Move / institutions / city / freedom
 - The Move remains staged and preserves the old inn as active origin-home;
-- S3 builds only a first habitable essential cluster; the final family-house / mega-inn and mature city remain unfinished;
+- S3 builds only first working essentials: habitable cluster, basic water/drainage/sanitation, provisional specialist spaces and a provisional enclosed Arrival House shell; the final family-house / mega-inn and mature city remain unfinished;
 - Mau/Frieren's planned quiet corner is overtaken by family members independently choosing nearby rooms;
 - the residential plan is reoriented so Frieren keeps an east-facing window without pushing family away;
 - Bocchi chooses acoustic privacy without being spatially exiled from the family core;
@@ -224,7 +224,7 @@ V12  Mau+Ori second road / monster injury / collapse / Rem-Kaneki-Aira rescue
 V13  field recovery / slow return / containment / Noise observation / reconstruction / ordinary recovery
 V14  staged Move / chosen family proximity / first habitable cluster / two homes at once / old inn protected / final house unfinished
 V15  ordinary family weeks / Ring Two integration / intentional migration / Arrival House / Searchers / second community / hostile rumor growth / Sukuna persistence
-V16  external partnership / delayed Senku audit / hybrid civic systems
+V16  external partnership / delayed Senku audit / first-version hybrid infrastructure / settlement treated as a city before it is physically finished
 V17  Eren-Mikasa asymmetry / exit rights / due process / Mau sacrifice expectation
 V18  Last Defense / infrastructure payoff / aftermath / Noise overload / Goddess intrusion
 V19  bounded Trial / Return-Stay / trauma spiral / failed backdoor attempt / seven-day S4 handoff

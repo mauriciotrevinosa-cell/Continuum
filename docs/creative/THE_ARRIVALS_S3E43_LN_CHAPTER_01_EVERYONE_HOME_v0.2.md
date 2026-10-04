@@ -49,7 +49,17 @@ Richeh and Coco materials colonized one table.
 
 Agott removed half before glue reached food.
 
-Bocchi tuned in music room.
+Marin had declared the indoor work ban thirty minutes earlier and was now stalking Wakana because he kept finding "small things" to repair.
+
+Maki and Frieren occupied the same window bench with the comfortable silence of people who no longer needed a crisis to justify sitting together.
+
+Seiko had taken the chair opposite them and was criticizing both of their standards for rest.
+
+Nazuna was asleep through the entire argument.
+
+Anko wrote beside her.
+
+Bocchi tuned in the music room.
 
 Kita listened.
 
@@ -117,9 +127,9 @@ Lunch happened in waves because full common room impossible.
 
 Some ate plaza under covered edges despite rain.
 
-Rem came from old inn with travelers' notes.
+Rem came from the old inn with travelers' notes.
 
-Stayed.
+She put the notes down, reached automatically for the blue-rim cup kept here, and stayed.
 
 Kaneki found quieter corner.
 

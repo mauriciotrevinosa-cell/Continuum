@@ -5,19 +5,23 @@
 **Volume:** 16  
 **Reading order:** 24
 
-The settlement had:
-public water;
-wastewater treatment;
-Arrival House;
+The settlement had first working versions of:
+shared water points;
+a wastewater / drainage treatment route;
+an enclosed Arrival House shell;
 Searchers;
 refuge bunks;
 shared maintenance;
 safe-corridor partnership;
-plaza;
-bath;
-workshops;
-music room;
+a rough commons people called the plaza;
+temporary bath facilities;
+workshop shells;
+Bocchi's usable-but-unfinished music room;
 too many arguments.
+
+Outsiders increasingly called that a city.
+
+The people building it usually looked at the unfinished foundations and laughed.
 
 Still no agreed name.
 
@@ -77,9 +81,15 @@ No answer.
 
 Meeting postponed.
 
-The city existed before language caught up.
+The idea of a city existed before the buildings did.
+
+Socially, the place was already doing city-shaped things.
+
+Physically, half of its future was still string in dirt.
 
 Mau walked through after sunset.
+
+He stepped over one future foundation line on the way.
 
 Washing court marks glowed faintly.
 
@@ -121,11 +131,13 @@ Last-defense positions.
 
 Mau read.
 
-"Looks like city expecting war."
+"Looks like we're planning defenses for a city we haven't finished building."
 
 Mikasa:
 
-"Looks like city acknowledging risk."
+"Threats don't wait for finished walls."
+
+Fair.
 
 Eren had not arrived yet.
 
@@ -177,7 +189,7 @@ Settlement becoming visible.
 
 Power concentrating.
 
-A city before a name already had enemies who had named it for themselves.
+A place not yet physically a city already had enemies who had named it as one for themselves.
 
 Mau looked at phrase.
 
@@ -201,10 +213,12 @@ Mikasa heard.
 
 "That's the question."
 
-Volume Sixteen ended without name.
+Volume Sixteen ended without a name.
 
 It did not need one.
 
-The place had become real enough that next problem was no longer whether they could build a city.
+The place was still unfinished enough that rain could expose a bad route in one afternoon.
 
-It was what kind of city they were willing to become when fear finally arrived at the door.
+But it had become real enough socially that the next problem was no longer only how to build.
+
+It was what kind of community they were willing to become while the world already treated them like a finished power.

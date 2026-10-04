@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 14 — Kusuri Asks Where the Lab Is
+## Chapter 15 — Kusuri Asks Where the Lab Is
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 14  
+**Reading order:** 15  
 **Continuity state:** First disappearance, pre-dawn | Mau still missing | Kusuri Yakuzen joins G5 | Existing 100 Girlfriends-side relationships reconnect
 
 Diablo returned with a girl carrying too many bottles.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 16 — The Empty Place at Dinner
+## Chapter 17 — The Empty Place at Dinner
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 16  
+**Reading order:** 17  
 **Continuity state:** First disappearance, Day 3 — dawn / first shared meal | Named G5 waves present | Mau still missing | Worksite uninhabited
 
 Breakfast happened at a dinner hour.

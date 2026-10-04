@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 9 — Kessoku Is Not a Search Result
+## Chapter 10 — Kessoku Is Not a Search Result
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 9  
+**Reading order:** 10  
 **Continuity state:** First disappearance, Day 2 — late night | Mau still missing | Diablo false-positive search continues
 
 The third return was louder.

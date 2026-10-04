@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 28 — Dinner With Strangers
+## Chapter 29 — Dinner With Strangers
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 28  
+**Reading order:** 29  
 **Continuity state:** Day 4 — evening | Mau: first communal meal after return | Named G5 cohort: still guests / temporary / undecided
 
 Dinner required three tables.
@@ -224,6 +224,34 @@ Anko:
 
 Nazuna laughed.
 
+Then Anko leaned across the table and flicked Mau in the forehead.
+
+Hard enough to count.
+
+"Three days," she said.
+
+"I know."
+
+"Three days of roads. I interviewed a goat."
+
+Mau considered.
+
+"How did that go?"
+
+"It knew nothing. Like you."
+
+Then, without changing her expression at all, she reached over and fixed his collar where it had folded under.
+
+"Don't do that again," she said, already turning back to Nazuna. "I'm far too busy to find you twice."
+
+Mau touched his forehead.
+
+Nazuna looked at Anko for a long moment.
+
+Anko ignored her completely.
+
+That told Nazuna more than the flick had.
+
 Maomao put a note on the table.
 
 Mau read the heading.
@@ -309,6 +337,20 @@ Nijika asked Bocchi where music happened here.
 Richeh asked Coco which rooms were hers.
 
 Mai asked Maki why Yuta still looked exactly like Yuta.
+
+Yuta, across the table, asked what that was supposed to mean.
+
+Neither sister answered.
+
+Marin asked Vamola where she had gotten her coat and whether it could be reproduced.
+
+Wakana asked whether it could be reproduced properly.
+
+Umaru asked Milim whether flying counted as cheating at tag.
+
+Milim said no.
+
+Umaru said that was what a cheater would say.
 
 Seiko asked Okarun about the strange northern reports.
 
@@ -509,6 +551,12 @@ Mau let her.
 Bocchi noticed when he stopped eating.
 
 Ori watched his eyes when anyone mentioned the search.
+
+Marin refilled his cup before it was empty.
+
+Stark slid the last of the bread to his side of the table without looking up.
+
+Mikasa had taken the seat with a view of both doors and had not moved from it all evening.
 
 Maki changed the subject before guilt could swallow the room.
 

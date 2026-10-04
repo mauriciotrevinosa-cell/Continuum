@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 5 — Day Two Without Mau
+## Chapter 6 — Day Two Without Mau
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 5  
+**Reading order:** 6  
 **Continuity state:** First disappearance, Day 2 | Mau missing >24h | Frieren severe sleep deprivation begins to affect judgment
 
 By noon on Day Two, Frieren had slept less than an hour.

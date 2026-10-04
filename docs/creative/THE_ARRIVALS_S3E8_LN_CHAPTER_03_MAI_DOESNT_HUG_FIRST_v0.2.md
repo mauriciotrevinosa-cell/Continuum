@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 8 — Mai Doesn't Hug First
+## Chapter 9 — Mai Doesn't Hug First
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 8  
+**Reading order:** 9  
 **Continuity state:** First disappearance, Day 2 — late night | Diablo search active | Mau still missing | G5 Wave B begins
 
 The second time Diablo opened the door, nobody stood up as quickly.

@@ -5,7 +5,7 @@
 **Season:** 3  
 **Volume title:** **Eight Signatures**  
 **Coverage:** first disappearance -> G5 accidental formation -> first return -> three-day false stability  
-**Chapter count:** 35  
+**Chapter count:** 36  
 **Supersedes:** Volume 11 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
@@ -14,37 +14,38 @@
 | 2 | Half the House Leaves |
 | 3 | Agott Asks Why |
 | 4 | The First Night Without Him |
-| 5 | Day Two Without Mau |
-| 6 | A Demon at the Door |
-| 7 | The First Wrong Person |
-| 8 | Mai Doesn't Hug First |
-| 9 | Kessoku Is Not a Search Result |
-| 10 | Two Witch Hats |
-| 11 | Night People |
-| 12 | Three Kinds of Weird |
-| 13 | Jinshi Gets the Wrong Welcome |
-| 14 | Kusuri Asks Where the Lab Is |
-| 15 | Milim Finds Diablo |
-| 16 | The Empty Place at Dinner |
-| 17 | Eight Signatures |
-| 18 | Witches First |
-| 19 | Not Their Work |
-| 20 | Eight, Not One |
-| 21 | Not Yours to Take |
-| 22 | Terms |
-| 23 | Carry Him Home |
-| 24 | Relief First |
-| 25 | You Left |
-| 26 | The Deal Comes Due |
-| 27 | Questions Without Answers |
-| 28 | Dinner With Strangers |
-| 29 | It Didn't Match Itself |
-| 30 | Day One Fine |
-| 31 | The Second Witch Session |
-| 32 | G5 Is Still Here |
-| 33 | Day Two Fine |
-| 34 | Ori Is the Same |
-| 35 | The Third Day Breaks |
+| 5 | The People Who Stayed |
+| 6 | Day Two Without Mau |
+| 7 | A Demon at the Door |
+| 8 | The First Wrong Person |
+| 9 | Mai Doesn't Hug First |
+| 10 | Kessoku Is Not a Search Result |
+| 11 | Two Witch Hats |
+| 12 | Night People |
+| 13 | Three Kinds of Weird |
+| 14 | Jinshi Gets the Wrong Welcome |
+| 15 | Kusuri Asks Where the Lab Is |
+| 16 | Milim Finds Diablo |
+| 17 | The Empty Place at Dinner |
+| 18 | Eight Signatures |
+| 19 | Witches First |
+| 20 | Not Their Work |
+| 21 | Eight, Not One |
+| 22 | Not Yours to Take |
+| 23 | Terms |
+| 24 | Carry Him Home |
+| 25 | Relief First |
+| 26 | You Left |
+| 27 | The Deal Comes Due |
+| 28 | Questions Without Answers |
+| 29 | Dinner With Strangers |
+| 30 | It Didn't Match Itself |
+| 31 | Day One Fine |
+| 32 | The Second Witch Session |
+| 33 | G5 Is Still Here |
+| 34 | Day Two Fine |
+| 35 | Ori Is the Same |
+| 36 | The Third Day Breaks |
 
 ## G5 continuity lock
 

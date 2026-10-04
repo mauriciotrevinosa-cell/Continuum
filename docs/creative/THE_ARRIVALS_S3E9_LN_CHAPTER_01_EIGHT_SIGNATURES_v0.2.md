@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 17 — Eight Signatures
+## Chapter 18 — Eight Signatures
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 17  
+**Reading order:** 18  
 **Continuity state:** First disappearance, Day 3 — pre-dawn | Named G5 waves established | Frieren/Diablo field search | Eight-signature cluster becomes first plausible Mau lead
 
 The first three times Diablo said:

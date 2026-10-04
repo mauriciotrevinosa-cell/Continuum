@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 6 — A Demon at the Door
+## Chapter 7 — A Demon at the Door
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 6  
+**Reading order:** 7  
 **Continuity state:** First disappearance, Day 2 — dusk | Mau missing almost two days | Frieren severely sleep-deprived | Diablo has not searched for Mau yet
 
 Diablo reached the old inn looking for Rimuru.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 13 — Jinshi Gets the Wrong Welcome
+## Chapter 14 — Jinshi Gets the Wrong Welcome
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 13  
+**Reading order:** 14  
 **Continuity state:** First disappearance, pre-dawn | Mau still missing | G5 social/logistical wave
 
 Maomao was asleep at the table.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 12 — Three Kinds of Weird
+## Chapter 13 — Three Kinds of Weird
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 12  
+**Reading order:** 13  
 **Continuity state:** First disappearance, pre-dawn | Mau still missing | Dandadan-side G5 cluster enters
 
 Aira heard Seiko before she saw her.

@@ -54,11 +54,17 @@ That made it better.
 
 "Rimuru?"
 
-"Friend."
+"Brother."
+
+Agott frowned.
+
+"They're not—"
+
+"No. Neither of them has ever said it either."
 
 "Yuta?"
 
-"Friend."
+"Older brother. Since the first week."
 
 "Okarun?"
 
@@ -80,11 +86,17 @@ Agott glanced away.
 
 "Anko?"
 
-"Because a disappearance tied to altered memory is dangerous even if she barely liked him."
+Qifrey almost laughed.
+
+"Anko will tell you he's an idiot. She has been on the roads since before sunrise."
+
+"That isn't an answer."
+
+"For Anko, it's a confession."
 
 "Mikasa?"
 
-"Because a resident is missing."
+"Because one of hers is missing. She won't call it love. Watch what she does instead."
 
 "Himmel?"
 

@@ -88,6 +88,8 @@ Frieren's adopted-daughter bond remains real, while Fern often becomes the pract
 ### Bocchi / Hitori Gotoh
 Older-brother-like trust toward Mau. He protects and helps her without preventing growth. Kita/Kessoku expand Bocchi's life; they do not replace her Continuum family. Privacy and sound control must not be written as emotional distance.
 
+Bocchi and Kita are a couple. They became official in S2E12 (`Say It Properly`), and S2E28 (`What's a Girlfriend`) recalls that Mau helped Kita work out how to ask. S3 must keep them visibly a couple in ordinary life - a hand that can be found, girlfriends rather than bandmates who happen to sit together - not reset them to friendship.
+
 ### Umaru Doma
 Younger-sister relationship with Mau. He supports her interests, protects her and joins ridiculous adventures without demanding repayment. Her growth expands outward through the family rather than requiring distance from Mau.
 
@@ -116,7 +118,7 @@ Overprotective-sister energy shaped by a world where mistakes kill. She learns t
 Strong direct friendship with Mau. He enters partly through Momo and then earns belonging himself. Must not collapse into only Momo's memory problem.
 
 ### Ikuyo Kita
-Already integrated through Bocchi and her own earned trust. Wants Kessoku to join the same larger family, not create a separate enclave.
+Already integrated through Bocchi and her own earned trust. Wants Kessoku to join the same larger family, not create a separate enclave. Bocchi's girlfriend since S2E12.
 
 ### Marin Kitagawa + Wakana Gojo
 Chaotic-cousin energy. Marin protects beauty, celebration and rest from endless efficiency. Wakana has independent craft relationships beyond Marin. They have private couple space without becoming a separate household.

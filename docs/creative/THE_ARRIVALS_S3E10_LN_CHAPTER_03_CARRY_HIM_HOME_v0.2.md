@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 23 — Carry Him Home
+## Chapter 24 — Carry Him Home
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 23  
+**Reading order:** 24  
 **Continuity state:** First disappearance, Day 3 — evening | Mau: unconscious in transit | Destination: old inn
 
 Mau did not walk home.
@@ -68,19 +68,25 @@ The new site was still future.
 
 When the route lanterns finally appeared, the front door opened before anyone knocked.
 
-Fern.
-
-Stark behind her.
-
-Bocchi farther back.
-
-Kita.
-
 Umaru.
+
+She had slept against that door for two nights and felt the footsteps through the wood before anyone saw the lights.
+
+Fern behind her.
+
+Stark.
+
+Marin, flour still on her sleeves.
+
+Wakana, a needle stuck through his cuff where he had forgotten it.
+
+Bocchi farther back, Kita's hand in hers.
 
 Coco.
 
 Agott.
+
+Maki came down off the porch roof without bothering with the stairs.
 
 Then faces Mau had never seen.
 

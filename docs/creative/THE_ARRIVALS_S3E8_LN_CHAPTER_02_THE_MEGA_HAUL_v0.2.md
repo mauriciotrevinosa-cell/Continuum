@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 7 — The First Wrong Person
+## Chapter 8 — The First Wrong Person
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 7  
+**Reading order:** 8  
 **Continuity state:** First disappearance, Day 2 — night | Diablo actively searching for Mau | First major G5 false positive
 
 Diablo left the inn with a description.

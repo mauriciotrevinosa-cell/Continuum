@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 20 — Eight, Not One
+## Chapter 21 — Eight, Not One
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 20  
+**Reading order:** 21  
 **Continuity state:** Day 3 — morning, present resumes | Search party reaches witch zone | Eight-signature fact confirmed; Mau alive inside
 
 The next morning, the story caught back up with the search.\n\nDiablo stopped before the boundary.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 10 — Two Witch Hats
+## Chapter 11 — Two Witch Hats
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 10  
+**Reading order:** 11  
 **Continuity state:** First disappearance, after midnight | Mau still missing | G5 relationship wave continues
 
 Coco recognized the hat before the face.

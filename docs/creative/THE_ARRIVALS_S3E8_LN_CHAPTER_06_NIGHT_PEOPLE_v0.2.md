@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 11 — Night People
+## Chapter 12 — Night People
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 11  
+**Reading order:** 12  
 **Continuity state:** First disappearance, deep night | Mau still missing | Nazuna enters as Diablo false positive
 
 Anko knew the smell before the door opened.

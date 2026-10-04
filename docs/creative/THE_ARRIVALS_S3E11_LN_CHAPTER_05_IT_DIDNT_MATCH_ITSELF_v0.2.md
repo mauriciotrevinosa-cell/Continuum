@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 29 — It Didn't Match Itself
+## Chapter 30 — It Didn't Match Itself
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 29  
+**Reading order:** 30  
 **Continuity state:** Day 4 — night | Diablo clue enters investigation | Rimuru/Raphael still lack internal cause
 
 After dinner, five people became nine.

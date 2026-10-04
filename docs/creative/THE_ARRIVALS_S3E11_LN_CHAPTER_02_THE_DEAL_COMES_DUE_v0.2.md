@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 26 — The Deal Comes Due
+## Chapter 27 — The Deal Comes Due
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 26  
+**Reading order:** 27  
 **Continuity state:** Day 4 — late morning | Mau stable enough for first witch questions
 
 The witches waited until Maomao said Mau could sit at a table for an hour.

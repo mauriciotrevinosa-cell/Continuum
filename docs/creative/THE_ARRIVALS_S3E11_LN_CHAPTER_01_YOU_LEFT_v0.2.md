@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 25 — You Left
+## Chapter 26 — You Left
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 25  
+**Reading order:** 26  
 **Continuity state:** Day 4 — morning | Mau: awake / weak | Named G5: temporary/undecided statuses | Witches waiting under bargain
 
 Morning made the argument less merciful.

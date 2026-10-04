@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 11
-## Chapter 21 — Not Yours to Take
+## Chapter 22 — Not Yours to Take
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
-**Reading order:** 21  
+**Reading order:** 22  
 **Continuity state:** Day 3 — late morning | Mau: semi-conscious | Frieren reaches him | Transfer not yet agreed
 
 Frieren entered alone.

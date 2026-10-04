@@ -7,7 +7,8 @@
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
-**Current creator lock:** `docs/creative/the_arrivals_story_board/S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`
+**Current creator lock:** `docs/creative/the_arrivals_story_board/S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`  
+**Current rebuild checkpoint:** `docs/creative/the_arrivals_story_board/S3_FAMILY_REBUILD_CHECKPOINT_2026-10-04.md`
 
 ## Creator-revision notice — 2026-10-04
 
@@ -93,11 +94,11 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 
 Total currently: **275 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
 
-## Final density audit
+## Current density audit — creator revision in progress
 
 File size is **not** a quality score; it is only a compression warning.
 
-After the final pass, every active S3 chapter is above 2.5 KB.
+At the current 2026-10-04 creator-revision checkpoint, every active S3 chapter remains above 2.5 KB.
 
 Approximate active medians:
 
@@ -106,15 +107,20 @@ Approximate active medians:
 | 10 | 3.07 KB |
 | 11 | 3.46 KB |
 | 12 | 4.23 KB |
-| 13 | 3.90 KB |
-| 14 | 3.40 KB |
-| 15 | 2.97 KB |
-| 16 | 3.23 KB |
-| 17 | 3.03 KB |
+| 13 | 4.03 KB |
+| 14 | 3.65 KB |
+| 15 | 3.17 KB |
+| 16 | 3.28 KB |
+| 17 | 3.06 KB |
 | 18 | 4.23 KB |
 | 19 | 3.74 KB |
 
-The former large compression holes in V18 Last Defense / later Noise and V19 Trial / Return-Stay processing have been expanded.
+The former large compression holes in V18 Last Defense / later Noise and V19 Trial / Return-Stay processing remain expanded.
+
+The current family-rebuild pass has added **17 lived chapters** so far without shrinking prior prose:
+- +5 to V13 family aftermath;
+- +5 to V14 The Move / household topology;
+- +7 to V15 ordinary weeks / Ring Two integration / Sukuna persistence.
 
 ## Final continuity locks
 

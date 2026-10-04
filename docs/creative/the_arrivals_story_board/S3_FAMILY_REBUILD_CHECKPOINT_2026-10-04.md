@@ -205,13 +205,18 @@ All active S3 chapter filenames remain numeric-only.
 No active S3 chapter is below 2.5 KB.
 
 Current medians:
-- V13 ~4.03 KB
+- V10 ~3.07 KB
+- V11 ~3.46 KB
+- V12 ~4.23 KB
+- V13 ~4.19 KB
 - V14 ~3.65 KB
 - V15 ~3.17 KB
-- V16 ~3.28 KB
-- V17 ~3.06 KB
+- V16 ~3.37 KB
+- V17 ~3.08 KB
+- V18 ~4.31 KB
+- V19 ~3.75 KB
 
-## 8. Later-volume review direction
+## 11. Later-volume review direction
 
 Do not restart V16–V19 from scratch.
 
@@ -229,7 +234,7 @@ Further revision should be surgical:
 - preserve Trial / Return-Stay architecture;
 - never compress the Memory Arc or strong late-S3 prose to pay for additions.
 
-## 9. Construction ceiling into S4
+## 12. Construction ceiling into S4
 
 S3 should end with:
 - a functioning but unfinished settlement;
@@ -251,7 +256,7 @@ The emotional rule remains:
 > the settlement grows because the family needs room; the city does not replace the family.
 
 
-## 11. Preventing the same drift again
+## 13. Preventing the same drift again
 
 Two additional active locks now exist:
 
@@ -261,3 +266,16 @@ Two additional active locks now exist:
 The layout lock fixes the S3 construction ceiling, east-facing Frieren window, chosen family-room proximity, Arrival House separation and eventual mega-inn direction.
 
 The presence guardrail prevents established relationships from disappearing merely because they are not carrying the current macro plot.
+
+
+## 14. Mechanical refresh after current expansion
+
+Tree audit at `fc302a3cfae25b6bec1b13646a8f48cd55f1cf5e`:
+- active S3 chapters: **288**;
+- numeric-only active chapter filenames: **288 / 288**;
+- alphanumeric active chapter filenames: **0**;
+- active chapter files below 2.5 KB: **0**;
+- smallest active chapter file: **2509 bytes**.
+
+Current volume counts match the production index:
+`17 / 35 / 20 / 34 / 25 / 31 / 31 / 26 / 29 / 40`.

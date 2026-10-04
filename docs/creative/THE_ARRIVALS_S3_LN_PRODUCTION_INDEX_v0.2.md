@@ -109,17 +109,17 @@ Approximate active medians:
 | 10 | 3.07 KB |
 | 11 | 3.46 KB |
 | 12 | 4.23 KB |
-| 13 | 4.03 KB |
+| 13 | 4.19 KB |
 | 14 | 3.65 KB |
 | 15 | 3.17 KB |
-| 16 | 3.28 KB |
-| 17 | 3.06 KB |
-| 18 | 4.23 KB |
-| 19 | 3.74 KB |
+| 16 | 3.37 KB |
+| 17 | 3.08 KB |
+| 18 | 4.31 KB |
+| 19 | 3.75 KB |
 
 The former large compression holes in V18 Last Defense / later Noise and V19 Trial / Return-Stay processing remain expanded.
 
-The current family-rebuild pass has added **17 lived chapters** so far without shrinking prior prose:
+The current family-rebuild pass has added **30 lived chapters** so far without shrinking prior prose:
 - +7 to V13 family aftermath / Rem-Kaneki-Aira integration;
 - +5 to V14 The Move / household topology;
 - +7 to V15 ordinary weeks / Ring Two integration / Sukuna persistence;

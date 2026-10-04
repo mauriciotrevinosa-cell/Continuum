@@ -25,7 +25,7 @@ New creator review identified post-Memory drift in:
 - recurring-character presence;
 - antagonist growth.
 
-The active correction is governed by the Relationship & Household Canon Lock. Memory Arc material is largely preserved; post-Memory S3 may expand substantially and chapter counts may increase.
+The completed correction is governed by the Relationship & Household Canon Lock. Memory Arc material was largely preserved; post-Memory S3 expanded additively to 288 active chapters.
 
 ## Source-of-truth rule
 

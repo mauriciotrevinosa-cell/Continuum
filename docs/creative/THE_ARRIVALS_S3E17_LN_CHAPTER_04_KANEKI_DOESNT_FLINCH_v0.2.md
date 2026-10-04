@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 26 — Kaneki Doesn't Flinch
+## Chapter 28 — Kaneki Doesn't Flinch
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 13  
-**Reading order:** 26  
+**Reading order:** 28  
 **Continuity state:** Day 24–25 | Kaneki/Mau relationship moves from rescue witness toward older-brother-like family trust
 
 Mau found Kaneki in the kitchen after midnight.

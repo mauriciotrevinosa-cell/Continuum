@@ -26,6 +26,8 @@ Wakana had repaired a torn litter strap nobody needed anymore.
 
 Coco sat close to Qifrey with both hands wrapped around a cup gone cold.
 
+Umaru had taken back her place against the front door the moment the lookout called the litter in sight, and had to be physically moved so that anyone could open it.
+
 Maki stood near the wall where she could see Yuta the moment he came through.
 
 Hakari, Karane, Shizuka and Nano had been told not to fill the doorway and, for once, had obeyed.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 28 — The Date We Know Happened
+## Chapter 30 — The Date We Know Happened
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 28  
+**Reading order:** 30  
 **Continuity state:** Day 25 | Mau cleared for short outing | Deliberately new present memory
 
 Frieren asked Mau on a date.

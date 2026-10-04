@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 23 — The Body Heals Slower
+## Chapter 25 — The Body Heals Slower
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 23  
+**Reading order:** 25  
 **Continuity state:** Day 21–24 | Memory pressure lower | Physical recovery lags behind
 
 Mau's mind improved before his body did.

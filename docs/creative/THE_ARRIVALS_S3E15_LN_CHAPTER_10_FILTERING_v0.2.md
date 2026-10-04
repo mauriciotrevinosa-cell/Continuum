@@ -360,6 +360,22 @@ A delivery arrived and Fern handled it.
 
 G5 ate lunch without Rimuru.
 
+Downstairs, the house did what it had learned to do.
+
+Momo cooked for people who were not hungry and made them eat anyway.
+
+Umaru and Coco sat on the bottom stair, close enough to hear the floor creak above them, not close enough to be sent away.
+
+Bocchi played so quietly it could have been the wind.
+
+Anko read the same page of route notes for forty minutes.
+
+Okarun did not leave the porch.
+
+Seiko carried a tray of tea up as far as the landing, set it down outside the door without knocking, and went back down.
+
+Nobody asked how long it would take.
+
 Milim tried to enter the room once.
 
 Diablo stopped her.

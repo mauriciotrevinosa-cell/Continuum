@@ -4,7 +4,7 @@
 **Volume:** 13  
 **Season:** 3  
 **Volume title:** **Bring Him Back**  
-**Chapter count:** 34  
+**Chapter count:** 36  
 **Supersedes:** Volume 13 v0.1 for S3 v0.2 continuity.
 
 | # | Chapter |
@@ -31,18 +31,20 @@
 | 20 | A Real Detail |
 | 21 | Provably False |
 | 22 | Permanently Uncertain |
-| 23 | The Body Heals Slower |
-| 24 | No. But You Can Stay. |
-| 25 | The Three Who Found Him |
-| 26 | Kaneki Doesn't Flinch |
-| 27 | Aira Is Definitely Not Family |
-| 28 | The Date We Know Happened |
-| 29 | Looks Fine Is Not Fine |
-| 30 | Nobody Is Doing Anything |
-| 31 | Rem Keeps Coming Back |
-| 32 | Coco Schedules a Memory |
-| 33 | Maki and Frieren Are Not Talking |
-| 34 | Movie Night, Again |
+| 23 | Visiting Hours |
+| 24 | The List |
+| 25 | The Body Heals Slower |
+| 26 | No. But You Can Stay. |
+| 27 | The Three Who Found Him |
+| 28 | Kaneki Doesn't Flinch |
+| 29 | Aira Is Definitely Not Family |
+| 30 | The Date We Know Happened |
+| 31 | Looks Fine Is Not Fine |
+| 32 | Nobody Is Doing Anything |
+| 33 | Rem Keeps Coming Back |
+| 34 | Coco Schedules a Memory |
+| 35 | Maki and Frieren Are Not Talking |
+| 36 | Movie Night, Again |
 
 ## Final prose-pass note
 

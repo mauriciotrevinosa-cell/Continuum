@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 24 — No. But You Can Stay.
+## Chapter 26 — No. But You Can Stay.
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 24  
+**Reading order:** 26  
 **Continuity state:** Day 23 | Mau allowed limited ordinary activity at worksite
 
 Mau's first return to the worksite lasted two hours.

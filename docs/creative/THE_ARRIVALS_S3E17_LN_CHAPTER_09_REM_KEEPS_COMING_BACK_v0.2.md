@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 31 — Rem Keeps Coming Back
+## Chapter 33 — Rem Keeps Coming Back
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 13  
-**Reading order:** 31  
+**Reading order:** 33  
 **Continuity state:** Post-Memory recovery | Rem still calls herself a guest
 
 Rem had left twice.

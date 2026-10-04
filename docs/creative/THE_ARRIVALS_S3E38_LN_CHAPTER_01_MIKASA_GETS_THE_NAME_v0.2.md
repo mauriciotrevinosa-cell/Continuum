@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 4 — Mikasa Gets the Name
+## Chapter 5 — Mikasa Gets the Name
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 4
+**Reading order:** 5
 
 Mikasa read the message once.
 

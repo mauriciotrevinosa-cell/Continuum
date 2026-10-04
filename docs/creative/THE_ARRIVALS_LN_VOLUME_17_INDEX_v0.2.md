@@ -4,36 +4,39 @@
 **Volume:** 17  
 **Season:** 3  
 **Volume title:** **Freedom and Walls**  
-**Chapter count:** 26
+**Chapter count:** 29
 
 | # | Chapter |
 |---:|---|
 | 1 | Same Words |
-| 2 | The Boy by the Sea |
-| 3 | He Doesn't Want the City |
-| 4 | Mikasa Gets the Name |
-| 5 | Mikasa Sees Tomorrow |
-| 6 | You Haven't Done It |
-| 7 | Eren Enters Voluntarily |
-| 8 | No Trial for the Future |
-| 9 | Walls Without Walls |
-| 10 | Unknown Signature |
-| 11 | Exit Rights |
-| 12 | Emergency Means Temporary |
-| 13 | The Enemy of One Person |
-| 14 | Sanctuary Is Not Forgiveness |
-| 15 | Due Process |
-| 16 | The Meeting That Became a Council |
-| 17 | The Person Everyone Knows |
-| 18 | Everyone Home |
-| 19 | Bathroom War |
-| 20 | Music After Dinner |
-| 21 | The Old Inn Day |
-| 22 | Mau's Settlement |
-| 23 | Give Them One Name |
-| 24 | The Person in Front |
-| 25 | One for Hundreds |
-| 26 | Bad Equation |
+| 2 | The Legendary Snack |
+| 3 | The Boy by the Sea |
+| 4 | He Doesn't Want the City |
+| 5 | Mikasa Gets the Name |
+| 6 | Mikasa Sees Tomorrow |
+| 7 | You Haven't Done It |
+| 8 | Eren Enters Voluntarily |
+| 9 | No Trial for the Future |
+| 10 | The Big One |
+| 11 | Walls Without Walls |
+| 12 | Unknown Signature |
+| 13 | Exit Rights |
+| 14 | Emergency Means Temporary |
+| 15 | Hakari Plans a Date |
+| 16 | The Enemy of One Person |
+| 17 | Sanctuary Is Not Forgiveness |
+| 18 | Due Process |
+| 19 | The Meeting That Became a Council |
+| 20 | The Person Everyone Knows |
+| 21 | Everyone Home |
+| 22 | Bathroom War |
+| 23 | Music After Dinner |
+| 24 | The Old Inn Day |
+| 25 | Mau's Settlement |
+| 26 | Give Them One Name |
+| 27 | The Person in Front |
+| 28 | One for Hundreds |
+| 29 | Bad Equation |
 
 ## Creator-revision authority / antagonist expansion — 2026-10-04
 

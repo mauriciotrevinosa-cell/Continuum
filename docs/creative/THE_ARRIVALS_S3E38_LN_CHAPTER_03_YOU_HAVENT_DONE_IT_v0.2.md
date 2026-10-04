@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 6 — You Haven't Done It
+## Chapter 7 — You Haven't Done It
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 6
+**Reading order:** 7
 
 The first future conversation happened on the coast.
 

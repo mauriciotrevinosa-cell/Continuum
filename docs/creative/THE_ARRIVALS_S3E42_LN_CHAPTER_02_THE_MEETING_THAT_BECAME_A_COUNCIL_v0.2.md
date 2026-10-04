@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 16 — The Meeting That Became a Council
+## Chapter 19 — The Meeting That Became a Council
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 16
+**Reading order:** 19
 
 They had too many meetings.
 

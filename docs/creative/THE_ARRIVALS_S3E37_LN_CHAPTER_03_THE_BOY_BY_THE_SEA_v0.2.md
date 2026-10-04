@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 2 — The Boy by the Sea
+## Chapter 3 — The Boy by the Sea
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 2
+**Reading order:** 3
 
 A Searcher team found Eren near salt water.
 

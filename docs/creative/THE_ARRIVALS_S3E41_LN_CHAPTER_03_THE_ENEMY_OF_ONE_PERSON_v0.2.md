@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 13 — The Enemy of One Person
+## Chapter 16 — The Enemy of One Person
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 13
+**Reading order:** 16
 
 The injured man reached Arrival House bleeding.
 

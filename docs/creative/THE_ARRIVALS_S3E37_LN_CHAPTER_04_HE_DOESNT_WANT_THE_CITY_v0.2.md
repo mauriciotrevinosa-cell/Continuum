@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 3 — He Doesn't Want the City
+## Chapter 4 — He Doesn't Want the City
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 3
+**Reading order:** 4
 
 Eren's objection was not:
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 18 — Everyone Home
+## Chapter 21 — Everyone Home
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 18
+**Reading order:** 21
 
 Outside hostility closed nonessential travel for one day.
 
@@ -130,6 +130,16 @@ Some ate plaza under covered edges despite rain.
 Rem came from the old inn with travelers' notes.
 
 She put the notes down, reached automatically for the blue-rim cup kept here, and stayed.
+
+When the common room got too loud, she took the cup down the family corridor to the narrow room at the turn, where the plan now said her name, and sat on the windowsill and watched the rain.
+
+The blanket was still folded where she had left it.
+
+Ori found her there an hour later.
+
+Neither of them explained.
+
+Ori sat on the floor with her back against the wall beneath the window, and Rem shifted so her feet rested beside Ori's shoulder, and they stayed like that until the last wave of lunch.
 
 Kaneki found quieter corner.
 

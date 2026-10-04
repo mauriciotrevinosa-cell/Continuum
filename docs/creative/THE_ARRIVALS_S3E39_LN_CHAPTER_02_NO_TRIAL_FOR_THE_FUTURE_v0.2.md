@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 8 — No Trial for the Future
+## Chapter 9 — No Trial for the Future
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 8
+**Reading order:** 9
 
 They discussed Eren's source-memory mismatch the next afternoon.
 

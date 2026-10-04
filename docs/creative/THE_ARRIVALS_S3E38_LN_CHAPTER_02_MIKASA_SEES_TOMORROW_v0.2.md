@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 5 — Mikasa Sees Tomorrow
+## Chapter 6 — Mikasa Sees Tomorrow
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 5
+**Reading order:** 6
 
 Eren recognized her instantly.
 

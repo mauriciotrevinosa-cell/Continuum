@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 20 — Music After Dinner
+## Chapter 23 — Music After Dinner
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 20
+**Reading order:** 23
 
 Bocchi played because the guitar was already there.
 

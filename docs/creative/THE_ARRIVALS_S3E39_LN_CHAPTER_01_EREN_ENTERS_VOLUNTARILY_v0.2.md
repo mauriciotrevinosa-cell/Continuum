@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 7 — Eren Enters Voluntarily
+## Chapter 8 — Eren Enters Voluntarily
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 7
+**Reading order:** 8
 
 Eren entered the settlement through an ordinary road.
 

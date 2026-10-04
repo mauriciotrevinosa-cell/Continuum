@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 26 — Bad Equation
+## Chapter 29 — Bad Equation
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 26
+**Reading order:** 29
 
 "Bad equation."
 

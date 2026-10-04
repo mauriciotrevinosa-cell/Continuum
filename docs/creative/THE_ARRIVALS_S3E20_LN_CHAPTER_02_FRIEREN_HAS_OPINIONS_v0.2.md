@@ -1,16 +1,38 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 14 — Frieren Has Opinions
+## Chapter 17 — Frieren Has Opinions
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 14  
+**Reading order:** 17  
 **Continuity state:** Move Day 3 | Mau/Frieren settle their room through ordinary conflict
 
 Frieren had claimed not to care about rooms.
 
 This was a lie.
 
-Mau discovered it while moving a shelf.
+She had cared about exactly one thing before the room even existed:
+
+east.
+
+The window had to face east.
+
+That requirement had eventually helped force Rimuru, Wakana, Senku and several irritated pieces of string to reorient the still-unfinished residential plan rather than push everyone who wanted nearby rooms farther away.
+
+Frieren had watched the argument, contributed almost nothing, and then said:
+
+"That works."
+
+Mau had nearly fallen over.
+
+Now she had the east-facing window.
+
+She also had Ori across the courtyard, Coco close enough to appear without warning, Umaru campaigning for the nearest remaining room, and Fern within practical shouting distance.
+
+The quiet corner had lost.
+
+Neither Mau nor Frieren had fought very hard to save it.
+
+Mau discovered Frieren's second room opinion while moving a shelf.
 
 "Not there."
 
@@ -239,6 +261,28 @@ Mau nodded.
 Fair.
 
 A room could become theirs before the settlement became home.
+
+Outside their door, someone ran past.
+
+Umaru.
+
+Then Coco.
+
+Then Fern's voice:
+
+"Do not run in the unfinished corridor."
+
+Two sets of footsteps slowed immediately.
+
+Mau looked at Frieren.
+
+"We really lost the corner."
+
+Frieren adjusted the curtain so the first morning light would clear the edge.
+
+"Yes."
+
+She did not sound unhappy.
 
 That distinction felt healthy.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 8 — Two Homes at Once
+## Chapter 11 — Two Homes at Once
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 8  
+**Reading order:** 11  
 **Continuity state:** Move Day 1 — afternoon | Inn and settlement both actively inhabited/used
 
 By afternoon, the sentence:
@@ -72,57 +72,107 @@ She smiled.
 
 Her room placement surprised him.
 
-Not beside Mau and Frieren.
+Close.
 
-Not distant.
+Not the same doorway.
+Not attached to their room.
+But one short crossing from the space Mau and Frieren had marked for themselves, facing the same shared courtyard Coco had already started calling "ours."
 
-Near a shared courtyard.
+Mau looked at the plan.
 
-Closer to Coco's likely route.
+Then at Ori.
+
+"I thought you might want—"
+
+"Space?"
+
+"Yeah."
+
+"I do."
+
+Ori pointed at the small gap between the rooms.
+
+"That is space."
+
+Then she pointed at Mau and Frieren's room.
+
+"And I want to be near you."
+
+Mau opened his mouth.
+
+Ori raised one finger.
+
+"My room."
+
+"Yes."
+
+"My decision."
+
+"Yes."
+
+"So don't turn distance into the only kind of independence."
+
+Mau closed his mouth.
+
+Frieren, beside him, said:
+
+"She's right."
+
+Mau looked betrayed.
+
+Ori smiled.
 
 Good light.
+Her own door.
+Her own room.
+Near the people she had chosen.
 
-Ori had chosen based on herself.
+All true at once.
 
-Mau felt proud.
+Nano's ledger became complicated.
 
-Then noticed pride could become another way of making her choice about him.
+Not because the relationships were complicated.
 
-He kept the thought private.
+Because beds were.
 
-G5 made the ledger complicated.
-
-Senku and Suika were sleeping at the site tonight but still counted as temporary residents.
-
+Senku and Suika were sleeping at the site tonight.
 Vamola too.
-
 Kusuri too, with one additional symbol Nano invented for MEDICAL / CHEMICAL STORAGE RESPONSIBILITY.
 
 Kusuri hated the symbol.
 
 Nano refused to change it.
 
-Nijika and Ryo remained at the inn with Bocchi and Kita.
+Nijika and Ryo remained at the inn with Bocchi and Kita because Kessoku had already decided not to turn Bocchi's second-wave choice into a separation.
 
-Mai stayed because "undecided" was still an answer.
+Mai stayed.
 
-Richeh kept guest status.
+Richeh stayed.
+Tetia stayed with her tonight, not because Richeh's answer owned hers, but because she wanted one more night with Coco and Agott under the old roof before changing where she woke up.
 
-Tetia kept temporary-resident status and still chose not to move first.
-
-Nazuna traveled between places without becoming resident anywhere.
+Nazuna kept moving between places and sleeping through whichever part of the day made logistics easiest.
 
 Seiko used the inn as a base while mapping nearby reports.
 
-Jinshi was a guest with administrative opinions nobody had requested.
+Jinshi stayed because Fern had not yet moved the intake records and he refused to create two bad administrative systems at once.
 
 Milim moved because Rimuru did.
 
-Nano created symbols for all of this.
+The ledger still used words like guest, temporary, first-night and undecided.
 
-Nobody understood them except Nano.
+Mau finally drew a line underneath them.
 
-She refused simplification.
+"These are sleeping arrangements."
+
+Nano looked at him.
+
+"Correct."
+
+"Not a relationship map."
+
+"Obviously."
+
+Mau wished it had felt that obvious before she said it.
 
 Rem stayed at the inn.
 

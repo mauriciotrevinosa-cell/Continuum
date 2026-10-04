@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 9 — First Night
+## Chapter 12 — First Night
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 9  
+**Reading order:** 12  
 **Continuity state:** Move Day 1 — night | First wave sleeps at settlement | Inn remains occupied
 
 The first night was terrible.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 12 — Dinner Without the Table
+## Chapter 15 — Dinner Without the Table
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 12  
+**Reading order:** 15  
 **Continuity state:** Move Day 2 — evening | Majority at settlement | Inn still occupied
 
 Dinner felt wrong because the old table was not there.

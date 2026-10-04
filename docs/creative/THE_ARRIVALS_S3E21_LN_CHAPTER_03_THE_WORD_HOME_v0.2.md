@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 20 — The Word Home
+## Chapter 24 — The Word Home
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 20  
+**Reading order:** 24  
 **Continuity state:** End of Move Week 1 | Settlement becomes default lived home; inn remains origin-home
 
 The word changed without a meeting.
@@ -221,6 +221,21 @@ But inhabited.
 
 Home.
 
-Volume Fourteen ended with Mau entering the common room, setting his things down, and not thinking about which building the narrator meant.
+Mau entered the common room, set his things down, and did not think about which building the word meant.
 
-The move was over because daily language had finally caught up with logistics.
+That did not mean the move was over.
+
+Outside, stakes still marked the footprint of rooms that did not exist.
+One drainage line was temporary.
+The main residential plan had already changed twice.
+The atelier was still mostly a promise.
+Wakana's permanent workshop was string, measurements and arguments.
+Arrival House was not a building yet.
+
+They had moved enough to live.
+
+They had not built enough to be finished.
+
+Daily language had caught up with logistics before architecture caught up with the family.
+
+Maybe that was the only order that could have worked.

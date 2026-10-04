@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 15 — Rem Decides Later
+## Chapter 18 — Rem Decides Later
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 15  
+**Reading order:** 18  
 **Continuity state:** Move Day 3 | Rem remains old-inn guest/searcher by choice
 
 Rem came to the settlement carrying supplies.
@@ -25,6 +25,12 @@ They unloaded.
 Rem had been to the worksite before.
 
 That was not the same as seeing it occupied.
+
+Her blue-rimmed cup was still at the old inn.
+
+She knew exactly which shelf.
+
+The fact that she knew that bothered her less than it should have.
 
 Clothes drying.
 
@@ -139,6 +145,16 @@ She and Mau sat near the water court frame.
 
 Not finished.
 
+Ori found them ten minutes later and sat on Rem's other side without asking permission from Mau.
+
+Frieren passed once, handed Rem a folded cloth she had left near the wash area, and kept walking.
+
+No ceremony.
+
+No test.
+
+The strange intimacy of being remembered in small ways.
+
 Mau asked:
 
 "Do you remember where you found the cap?"
@@ -221,6 +237,10 @@ Space.
 
 At the inn, Rem slept in the room she already knew.
 
+Her blue-rimmed cup was still on the shelf.
+
+She used it before bed.
+
 Not because she rejected the future.
 
-Because no one had the right to force her uncertainty to become a milestone.
+Because belonging did not have to become a milestone before it became a habit.

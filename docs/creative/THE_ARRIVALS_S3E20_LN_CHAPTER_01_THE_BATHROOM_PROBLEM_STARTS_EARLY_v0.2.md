@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 13 — The Bathroom Problem Starts Early
+## Chapter 16 — The Bathroom Problem Starts Early
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 13  
+**Reading order:** 16  
 **Continuity state:** Move Day 3 — morning | Resident behavior changes construction priorities
 
 The bathroom problem started at 6:12 in the morning.

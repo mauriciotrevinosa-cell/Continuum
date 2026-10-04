@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 17 — First Full Night
+## Chapter 20 — First Full Night
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 17  
+**Reading order:** 20  
 **Continuity state:** Move Day 4 — night | Most ongoing residents now sleep at settlement | Inn remains active satellite
 
 The first full night did not mean everyone.
@@ -32,7 +32,25 @@ Nijika listening from the doorway.
 
 Ryo tuning badly on purpose until Bocchi threw a cloth at her.
 
-Wakana working too late.
+Kita laughing too loudly and then apologizing to nobody in particular.
+
+Momo refusing to let Okarun call dried food "dinner" while Aira stole pieces from the cutting board.
+
+Marin announcing that after the next ten minutes nobody was allowed to improve the building until morning.
+
+Wakana, already working too late, pretending not to hear her.
+
+Anko writing at one end of the common room while Nazuna slept across two chairs she had absolutely not been assigned.
+
+Seiko drinking something hot beside Frieren and criticizing the night route markers without once using the word "grandchildren."
+
+Milim being told to stop training.
+
+Again.
+
+Fern finding Wakana.
+
+"Wakana."
 
 Fern finding him.
 
@@ -110,7 +128,23 @@ Frieren did not ask where.
 
 Good.
 
-The common room held Ori, Kaneki and Suika.
+The common room had thinned but not emptied.
+
+Ori, Kaneki and Suika remained near the center.
+
+Anko was still writing.
+
+Nazuna was still asleep.
+
+Nobody understood how.
+
+Seiko had left one cup beside the door for whoever took next watch.
+
+Momo had covered the last plate of food.
+
+The room looked less like a camp and more like people had expected one another to come back.
+
+Ori was drinking something warm.
 
 Ori drinking something warm.
 

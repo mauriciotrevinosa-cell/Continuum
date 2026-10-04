@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 19 — What Stays
+## Chapter 23 — What Stays
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 19  
+**Reading order:** 23  
 **Continuity state:** Move Day 5 | Old inn preservation becomes practical policy
 
 They made the list at the old table.

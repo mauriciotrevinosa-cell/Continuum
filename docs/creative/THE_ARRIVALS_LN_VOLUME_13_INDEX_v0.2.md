@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 13 Index v0.2
 
-**Status:** ACTIVE CREATOR REVISION — FAMILY AFTERMATH EXPANDED  
+**Status:** ACTIVE MERGED READER ORDER — 2026-10-04 CREATOR REVISION COMPLETE
 **Volume:** 13  
 **Season:** 3  
 **Volume title:** **Bring Him Back**  
@@ -77,7 +77,7 @@ larger search group reaches Mau
 
 The volume no longer exits the Memory Arc immediately into Move logistics.
 
-Five lived chapters restore:
+Seven lived chapters restore:
 - ordinary family presence after triage;
 - Anko/Marin/Momo/Umaru/Bocchi/Coco and wider-household continuity;
 - Rem's gradual guest -> belonging trajectory;

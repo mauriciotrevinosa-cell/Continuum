@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 14 Index v0.2
 
-**Status:** ACTIVE CREATOR REVISION — HOUSEHOLD TOPOLOGY REBUILT  
+**Status:** ACTIVE MERGED READER ORDER — 2026-10-04 CREATOR REVISION COMPLETE
 **Volume:** 14  
 **Season:** 3  
 **Volume title:** **The Move**  

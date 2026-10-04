@@ -1,6 +1,6 @@
 # The Arrivals — Season 3 Final Merge Audit — 2026-10-03
 
-**Status:** HISTORICAL MECHANICAL CHECKPOINT — SUPERSEDED FOR CREATIVE AUTHORITY BY 2026-10-04 RELATIONSHIP/HOUSEHOLD LOCK
+**Status:** HISTORICAL MECHANICAL CHECKPOINT — SUPERSEDED BY 2026-10-04 POST-MEMORY FAMILY REBUILD FINAL AUDIT
 
 **Prior status:** FINAL S3 AUDIT — PASSED  
 **Branch:** `m3/critical-path`  
@@ -302,9 +302,13 @@ This was a filename/tooling compatibility issue, not thirteen unwritten chapters
 
 The season passed the 2026-10-03 mechanical/full-prose audit, but reader review exposed a higher-level creative drift after the Memory Arc.
 
-The new authoritative creator lock is:
+The active relationship lock is:
 
 `docs/creative/the_arrivals_story_board/S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`
+
+The completed creator-revision audit is:
+
+`docs/creative/the_arrivals_story_board/S3_POST_MEMORY_FAMILY_REBUILD_FINAL_AUDIT_2026-10-04.md`
 
 This does **not** invalidate the earlier preservation work or reopen the old compressed v0.2 as source. It reopens creative revision on top of the merged branch.
 

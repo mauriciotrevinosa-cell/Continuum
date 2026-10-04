@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 17 Index v0.2
 
-**Status:** ACTIVE CREATOR REVISION — REPRESENTATION / HOSTILE-FRAME EXPANDED  
+**Status:** ACTIVE MERGED READER ORDER — 2026-10-04 CREATOR REVISION COMPLETE
 **Volume:** 17  
 **Season:** 3  
 **Volume title:** **Freedom and Walls**  

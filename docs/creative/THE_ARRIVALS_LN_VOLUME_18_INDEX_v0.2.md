@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 18 Index v0.2
 
-**Status:** ACTIVE CREATOR REVISION — POST-DEFENSE ENEMY ESCALATION EXPANDED  
+**Status:** ACTIVE MERGED READER ORDER — 2026-10-04 CREATOR REVISION COMPLETE
 **Volume:** 18  
 **Season:** 3  
 **Volume title:** **Last Defense**  

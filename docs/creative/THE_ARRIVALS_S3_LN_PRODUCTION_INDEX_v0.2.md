@@ -1,6 +1,6 @@
 # The Arrivals — Season 3 Light Novel Production Index v0.2
 
-**Status:** ACTIVE CREATOR REVISION — POST-MEMORY FAMILY REBUILD IN PROGRESS  
+**Status:** ACTIVE SEASON CANON — 2026-10-04 CREATOR REVISION COMPLETE  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
 **Reader-order chapters:** **288**  
@@ -10,7 +10,8 @@
 **Current creator lock:** `docs/creative/the_arrivals_story_board/S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`  
 **Family-house layout lock:** `docs/creative/the_arrivals_story_board/S3_S4_FAMILY_HOUSE_MEGA_INN_LAYOUT_LOCK_2026-10-04.md`  
 **Character-presence guardrail:** `docs/creative/the_arrivals_story_board/S3_CHARACTER_PRESENCE_GUARDRAIL_2026-10-04.md`  
-**Current rebuild checkpoint:** `docs/creative/the_arrivals_story_board/S3_FAMILY_REBUILD_CHECKPOINT_2026-10-04.md`
+**Completed rebuild checkpoint:** `docs/creative/the_arrivals_story_board/S3_FAMILY_REBUILD_CHECKPOINT_2026-10-04.md`  
+**Final creator-revision audit:** `docs/creative/the_arrivals_story_board/S3_POST_MEMORY_FAMILY_REBUILD_FINAL_AUDIT_2026-10-04.md`
 
 ## Creator-revision notice — 2026-10-04
 
@@ -94,13 +95,13 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 18 | Last Defense | 29 | active creator revision |
 | 19 | What Would You Choose? | 40 | latest merged files |
 
-Total currently: **288 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
+Total: **288 active chapters**. The 2026-10-04 post-Memory family rebuild is complete. Future changes are creator revisions, not unfinished repair.
 
-## Current density audit — creator revision in progress
+## Final density audit — 2026-10-04 creator revision
 
 File size is **not** a quality score; it is only a compression warning.
 
-At the current 2026-10-04 creator-revision checkpoint, every active S3 chapter remains above 2.5 KB.
+At the completed 2026-10-04 creator-revision audit, every active S3 chapter remains above 2.5 KB.
 
 Approximate active medians:
 
@@ -119,7 +120,7 @@ Approximate active medians:
 
 The former large compression holes in V18 Last Defense / later Noise and V19 Trial / Return-Stay processing remain expanded.
 
-The current family-rebuild pass has added **30 lived chapters** so far without shrinking prior prose:
+The completed family-rebuild pass added **30 lived chapters** without shrinking prior prose:
 - +7 to V13 family aftermath / Rem-Kaneki-Aira integration;
 - +5 to V14 The Move / household topology;
 - +7 to V15 ordinary weeks / Ring Two integration / Sukuna persistence;

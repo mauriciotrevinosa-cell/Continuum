@@ -1,6 +1,6 @@
 # The Arrivals — S3 Family Rebuild Checkpoint — 2026-10-04
 
-**Status:** ACTIVE CREATOR-REVISION CHECKPOINT  
+**Status:** COMPLETED CREATOR-REVISION CHECKPOINT — SUPERSEDED BY FINAL 2026-10-04 AUDIT  
 **Branch:** `m3/critical-path`  
 **Current active S3 chapter count:** **288**  
 **Relationship authority:** `S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`
@@ -120,7 +120,7 @@ This locks the intended Ring Two mechanism:
 
 ### V16 construction ceiling
 
-No chapter-count increase yet.
+The V16 expansion is fully accounted for in the 31-chapter active reader order.
 
 Physical completion was dialed back:
 - Arrival House gets a **provisional enclosed shell**, not final permanent architecture;
@@ -216,7 +216,7 @@ Current medians:
 - V18 ~4.31 KB
 - V19 ~3.75 KB
 
-## 11. Later-volume review direction
+## 11. Later-volume review result
 
 Do not restart V16–V19 from scratch.
 
@@ -226,7 +226,7 @@ Existing strengths should be preserved:
 - V18 Last Defense already distributes defense across combat / refuge / medical / infrastructure and gives many non-Mau characters material work;
 - V19 already asks the correct late question: **can Mau accept other people's free choices, including choosing him?**
 
-Further revision should be surgical:
+The surgical later-volume review was completed with these rules:
 - propagate the newly locked household topology;
 - keep established faces environmentally present;
 - make second-ring -> family growth visible where earned;
@@ -279,3 +279,14 @@ Tree audit at `fc302a3cfae25b6bec1b13646a8f48cd55f1cf5e`:
 
 Current volume counts match the production index:
 `17 / 35 / 20 / 34 / 25 / 31 / 31 / 26 / 29 / 40`.
+
+
+## 15. Completion note
+
+This checkpoint is closed.
+
+The authoritative completion audit is:
+
+`docs/creative/the_arrivals_story_board/S3_POST_MEMORY_FAMILY_REBUILD_FINAL_AUDIT_2026-10-04.md`
+
+The active S3 reader order is now 288 chapters. Do not reopen this rebuild as unfinished unless a new creator concern is identified.

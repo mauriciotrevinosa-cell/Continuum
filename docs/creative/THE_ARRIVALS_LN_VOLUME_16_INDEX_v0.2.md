@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 16 Index v0.2
 
-**Status:** ACTIVE CREATOR REVISION — RING TWO / CONSTRUCTION CEILING REALIGNED  
+**Status:** ACTIVE MERGED READER ORDER — 2026-10-04 CREATOR REVISION COMPLETE
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  

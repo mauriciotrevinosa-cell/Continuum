@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 19 Index v0.2
 
-**Status:** ACTIVE CREATOR REVISION — CHOICE / FAMILY THEME REANCHORED  
+**Status:** ACTIVE MERGED READER ORDER — 2026-10-04 CREATOR REVISION COMPLETE
 **Volume:** 19  
 **Season:** 3  
 **Volume title:** **What Would You Choose?**  

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 16 — The People Who Cannot Fight
+## Chapter 22 — The People Who Cannot Fight
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 16  
+**Reading order:** 22  
 **Continuity state:** Outside pressure causes first reluctant refuge wave
 
 The first refuge group from the second community arrived angry.

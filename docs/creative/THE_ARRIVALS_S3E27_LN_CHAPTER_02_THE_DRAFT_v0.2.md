@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 20 — The Draft
+## Chapter 26 — The Draft
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 20
+**Reading order:** 26
 
 The first complete draft was terrible.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 22 — The First Reply
+## Chapter 28 — The First Reply
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 22
+**Reading order:** 28
 
 The first reply arrived two days later.
 

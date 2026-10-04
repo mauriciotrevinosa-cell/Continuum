@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 18 — Too Few Beds Again
+## Chapter 24 — Too Few Beds Again
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 18
+**Reading order:** 24
 
 They had moved because the inn was too small.
 

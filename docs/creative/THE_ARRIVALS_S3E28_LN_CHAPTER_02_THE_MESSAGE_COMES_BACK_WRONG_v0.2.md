@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 24 — The Message Comes Back Wrong
+## Chapter 30 — The Message Comes Back Wrong
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 24
+**Reading order:** 30
 
 A week after the statement left, a traveler brought a copied version back.
 
@@ -31,7 +31,17 @@ Another copy described the main settlement as a central authority.
 
 False.
 
-A third added Mau's name below the signature blocks in larger handwriting.
+A third used a newer phrase:
+
+OTHERWORLDER CONSOLIDATION CENTER.
+
+A fourth called Searchers a recruitment arm.
+
+A fifth described the family residence as a command compound.
+
+The words were spreading faster than corrections because each one took a visible fact and supplied a motive.
+
+A third copy added Mau's name below the signature blocks in larger handwriting.
 
 He stared.
 
@@ -117,9 +127,19 @@ Possible deliberate propaganda.
 
 Possible careless paraphrase.
 
-Possible both.
+Possible opportunists copying language that frightened people effectively.
+
+Possible several actors at once.
 
 Do not overclaim.
+
+Anko put the altered copies beside the earlier road notices.
+
+The same concepts were beginning to recur.
+
+Not proof.
+
+Pressure.
 
 The correction became shorter than the original.
 
@@ -186,3 +206,11 @@ Not to prove everyone united.
 To prove a relationship could survive misrepresentation without collapsing into merger or separation.
 
 Outside, road rumor was already inventing the next version.
+
+Farther east, someone had begun copying the phrase:
+
+THE WORLDLESS MAN'S PEOPLE.
+
+Nobody in the settlement had called Mau that.
+
+Yet.

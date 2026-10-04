@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 17 — Three Nights Become a Week
+## Chapter 23 — Three Nights Become a Week
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 17
+**Reading order:** 23
 
 The road did not reopen.
 

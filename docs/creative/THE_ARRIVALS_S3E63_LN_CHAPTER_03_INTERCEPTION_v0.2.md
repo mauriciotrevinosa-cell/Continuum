@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 36 — Interception
+## Chapter 37 — Interception
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 36  
+**Reading order:** 37  
 **Continuity state:** Day 3 before sunrise | Road south of settlement | Mau intercepted before reaching intended contact clearing | Goddess never contacted
 
 Mau heard Frieren before he saw her.

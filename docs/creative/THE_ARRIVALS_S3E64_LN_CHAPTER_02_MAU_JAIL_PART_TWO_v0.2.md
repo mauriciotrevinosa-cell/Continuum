@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 39 — Mau Jail, Part Two
+## Chapter 40 — Mau Jail, Part Two
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 39  
+**Reading order:** 40  
 **Continuity state:** Day 3 | Back at settlement | Seven days remain in Return/Stay window | Mau exhausted / supervised, not cured
 
 Nobody trusted Mau alone near anything that could plausibly become divine contract mechanics.

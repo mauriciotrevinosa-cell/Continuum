@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 34 — He Went Alone
+## Chapter 35 — He Went Alone
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 34  
+**Reading order:** 35  
 **Continuity state:** Day 3, pre-dawn | Six-plus days remain in offer window | No divine request made | Mau has not reached intended contact site
 
 Mau left at 4:23.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 31 — Mau Hears Everyone
+## Chapter 32 — Mau Hears Everyone
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 31  
+**Reading order:** 32  
 **Continuity state:** Days 1–2 of ten-day window | Mau functioning publicly after almost no sleep | Trial consequence-patterns intrude
 
 Mau did not decide anything on day one.

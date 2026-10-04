@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 37 — The Biggest Slap of His Life
+## Chapter 38 — The Biggest Slap of His Life
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 37  
+**Reading order:** 38  
 **Continuity state:** Day 3 before sunrise | Mau stopped on road before any Goddess contact
 
 Frieren asked:

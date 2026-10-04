@@ -4,7 +4,7 @@
 **Volume:** 19  
 **Season:** 3  
 **Volume title:** **What Would You Choose?**  
-**Chapter count:** 40
+**Chapter count:** 41
 
 | # | Chapter |
 |---:|---|
@@ -36,18 +36,19 @@
 | 26 | The Community Splits Into Questions |
 | 27 | Private Terms |
 | 28 | Some Already Know |
-| 29 | Some Don't Want to Say |
-| 30 | Frieren Doesn't Answer |
-| 31 | Mau Hears Everyone |
-| 32 | Future Regret |
-| 33 | The Fourth Draft |
-| 34 | He Went Alone |
-| 35 | Everyone Finds Out Differently |
-| 36 | Interception |
-| 37 | The Biggest Slap of His Life |
-| 38 | Now Let Us Decide |
-| 39 | Mau Jail, Part Two |
-| 40 | The Offer Is Still There |
+| 29 | Not at the Table |
+| 30 | Some Don't Want to Say |
+| 31 | Frieren Doesn't Answer |
+| 32 | Mau Hears Everyone |
+| 33 | Future Regret |
+| 34 | The Fourth Draft |
+| 35 | He Went Alone |
+| 36 | Everyone Finds Out Differently |
+| 37 | Interception |
+| 38 | The Biggest Slap of His Life |
+| 39 | Now Let Us Decide |
+| 40 | Mau Jail, Part Two |
+| 41 | The Offer Is Still There |
 
 ## Creator-revision choice lock — 2026-10-04
 

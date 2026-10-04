@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 38 — Now Let Us Decide
+## Chapter 39 — Now Let Us Decide
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 38  
+**Reading order:** 39  
 **Continuity state:** Day 3 before sunrise | Road confrontation | Mau finally tells the others the scale and shape of the Trial aftermath
 
 Mau did not defend the slap.

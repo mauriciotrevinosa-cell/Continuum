@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 33 — The Fourth Draft
+## Chapter 34 — The Fourth Draft
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 33  
+**Reading order:** 34  
 **Continuity state:** Night 2 -> pre-dawn Day 3 of ten-day window | Mau has not contacted Goddess | Secret plan crosses from thought into action
 
 The first note sounded like suicide.

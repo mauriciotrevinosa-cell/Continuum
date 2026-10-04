@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 32 — Future Regret
+## Chapter 33 — Future Regret
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 32  
+**Reading order:** 33  
 **Continuity state:** Night 2 of ten-day window | Mau has not contacted Goddess | Severe sleep loss + Trial aftermath drive private modeling
 
 Mau wrote scenarios because writing was slower than remembering.

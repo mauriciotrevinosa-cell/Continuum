@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 40 — The Offer Is Still There
+## Chapter 41 — The Offer Is Still There
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 40  
+**Reading order:** 41  
 **Continuity state:** Evening, Day 3 of ten-day window | Backdoor attempt stopped before Goddess contact | Seven days remain | No final individual choice yet
 
 Mau slept most of Day Three.
@@ -134,6 +134,20 @@ Aira complained about supervision policy while helping enforce it.
 Milim tried to convince Diablo that "guarding Mau" counted as competition.
 
 It did not.
+
+Marin hung the first finished winter coat by the common-room door, unclaimed, and started cutting the second.
+
+Stark and Fern folded sheets without talking.
+
+Okarun and Momo sat under the kitchen windowsill while a ghost on it complained about them.
+
+Nazuna, awake at the wrong time of day again, lost a card game to Mai and demanded another.
+
+Maki watched, with one small unfired thing still in her pocket.
+
+Yuta read the same page twice and did not mind.
+
+Coco took the bucket out to the garden circle, because it was somebody's turn, and it said everyone.
 
 Mau listened.
 

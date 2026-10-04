@@ -162,7 +162,28 @@ Wrote:
 
 FIRST HABITABLE PHASE.
 
-Momo complained that it sounded boring.
+Then, underneath:
+
+NOT THE FINAL HOUSE.
+
+That second line mattered.
+
+The enclosed rooms around them were the first safe cluster:
+somewhere to sleep,
+eat,
+store medicine,
+test water,
+and learn what broke when real people used it.
+
+The permanent family-house footprint was still stakes, string, drainage arguments and several incompatible sketches.
+
+Nobody's room choice today was a deed to an eternal rectangle.
+
+Walls could still move.
+Connections could still change.
+The main building could still be reoriented before the unfinished foundations hardened into a mistake.
+
+Momo complained that FIRST HABITABLE PHASE sounded boring.
 
 "Good," Fern said.
 
@@ -184,9 +205,15 @@ The old inn still held:
 - boxes no one admitted belonged to them;
 - too many shoes.
 
-The new site could not absorb all of that.
+The first cluster could not absorb all of that.
 
 Not without becoming worse than the inn in different ways.
+
+That was another reason nobody called the settlement finished.
+
+They were not moving into a completed town.
+
+They were moving into enough shelter to learn how to build the real home around actual life.
 
 So the move would be staged.
 

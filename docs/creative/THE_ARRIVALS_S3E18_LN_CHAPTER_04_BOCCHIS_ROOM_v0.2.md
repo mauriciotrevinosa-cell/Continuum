@@ -1,12 +1,12 @@
 # The Arrivals — Light Novel — Volume 14
 ## Chapter 4 — Bocchi's Room
 
-**Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
+**Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 14  
 **Reading order:** 4  
-**Continuity state:** Packing Day 2 | Bocchi chooses needs rather than accepting leftover space
+**Continuity state:** Packing Day 2 | Bocchi chooses privacy without being asked to prove independence through distance
 
-Bocchi had three room options.
+Bocchi had four room options.
 
 This was worse than having none.
 
@@ -16,11 +16,16 @@ near the common room.
 Too many people.
 
 Option two:
-farther away.
+near Mau and Frieren's tentative corner.
 
-Too isolated.
+Too embarrassing.
 
 Option three:
+farther down the sleeping block.
+
+Too far.
+
+Option four:
 small room beside the workshop shell.
 
 Too much tool noise.
@@ -41,54 +46,76 @@ Worse.
 
 Bocchi covered her face.
 
-Mau was across the room.
+Mau stood across the room with the plan.
 
 Old instinct:
 rescue socially.
 
 Say something.
-
 Choose for her.
-
 Turn attention away.
 
-He did none of those.
+Newer instinct:
+give space.
 
-Memory Arc had made him suspicious of helping that removed choice.
+Too much space.
 
-Bocchi noticed.
+He pointed at option three.
 
-Also hated him.
+"That one is quieter. And nobody would bother you."
 
-Useful.
+Bocchi looked at him.
 
-Kita asked:
+Mau stopped.
 
-"What do you actually want?"
+Something in her face said:
+wrong.
 
-Bocchi looked toward the unfinished building next door.
+Kita did not translate.
 
-Not bedroom.
+Good.
+
+Bocchi forced the sentence herself.
+
+"I don't want nobody to bother me."
+
+Mau blinked.
+
+Bocchi nearly died.
+
+But the words were already outside.
+
+"I mean— not all the time. Obviously. Sometimes. A lot. But not..."
+
+She pointed weakly toward the far room.
+
+"That far."
+
+Mau lowered the plan.
+
+"Oh."
+
+Kita smiled.
+
+Not because Bocchi had succeeded at courage.
+
+Because Mau had finally understood the actual question.
+
+Bocchi looked toward the unfinished room next door.
 
 Music room.
 
 That was the problem.
 
-At the inn, music had adapted around everyone else.
+At the old inn, music had adapted around everyone else.
 
 Common room when empty.
-
 Outside when weather allowed.
-
 Corners.
-
 Low volume.
-
 Stop when someone needed sleep.
 
-It worked.
-
-Because Bocchi had become good at disappearing into available space.
+It worked because Bocchi had become good at disappearing into available space.
 
 The new settlement offered a dangerous alternative.
 
@@ -100,17 +127,13 @@ She stopped.
 
 Kita waited.
 
-No encouragement.
-
 No completion.
 
 Bocchi's face burned.
 
 "A room where sound can happen without everyone hearing it."
 
-Silence.
-
-Then Wakana looked at the current wall.
+Wakana looked at the wall.
 
 "That wall isn't enough."
 
@@ -156,37 +179,45 @@ The room became design.
 
 Not judgment.
 
-Bocchi watched her preference become dimensions.
+Then Fern moved one marker on the plan.
 
-Door here.
+"If the music room is the buffer, her sleeping room can sit on the quieter side."
 
-Storage there.
+She pointed.
 
-Wall thicker.
+Still near the common courtyard.
 
-Small sitting place.
+Still on the family side of the first residential cluster.
 
-Not studio luxury.
+Not directly beside Mau/Frieren.
+Not isolated at the end.
 
-A room acknowledging music made noise and noise could be welcomed without forcing everyone to hear it.
+Bocchi stared.
 
-Kita asked:
+"That's... close."
 
-"Which sleeping room now?"
+Fern:
 
-Bocchi looked again.
+"Yes."
 
-Option two.
+Mau waited.
 
-Farther.
+Bocchi looked at him.
 
-But not too far if the music room sat between.
+He did not say:
+you don't have to be.
 
-"I think... that one."
+He was learning.
 
-No one celebrated like she had conquered fear.
+Bocchi looked back at the plan.
 
-Good.
+"I want that one."
+
+Simple.
+
+No one celebrated.
+
+Better.
 
 They wrote it down.
 
@@ -194,9 +225,7 @@ Bocchi chose second wave.
 
 Not because she was less committed.
 
-Because the sound room would be more usable by then and because she wanted one more night in the inn.
-
-Both reasons valid.
+Because the sound room would be more usable by then and because she wanted one more night in the old inn.
 
 Later, alone with Kita, Bocchi asked:
 
@@ -208,26 +237,34 @@ Kita looked genuinely confused.
 
 "Making them change the wall."
 
-Kita stared at her.
-
 "Bocchi."
 
 "What?"
 
 "This whole place is being changed because people live in it."
 
-Bocchi looked toward the wall.
+Bocchi looked toward the plan.
+
+A wall for sound.
+
+A room near people she trusted.
+
+Her own door.
+
+All at once.
 
 Right.
 
-The town bent around a resident.
+The town bent around residents.
 
 Not because Bocchi mattered more.
 
 Because everyone was allowed to leave shape.
 
-That night, she played in the old inn common room.
+That night she played in the old inn common room.
 
 Quietly.
 
-One of the last times she would need to ask everyone else whether quiet was enough.
+Not because she had learned that belonging meant taking up less space.
+
+Because tomorrow she would help decide how much space her life actually needed.

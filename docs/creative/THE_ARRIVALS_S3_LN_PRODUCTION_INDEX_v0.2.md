@@ -3,7 +3,7 @@
 **Status:** ACTIVE CREATOR REVISION — POST-MEMORY FAMILY REBUILD IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **263**  
+**Reader-order chapters:** **268**  
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
@@ -84,14 +84,14 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 11 | Eight Signatures | 35 | latest merged files |
 | 12 | The Second Road | 20 | latest merged files |
 | 13 | Bring Him Back | 32 | active creator revision |
-| 14 | The Move | 20 | latest merged files |
+| 14 | The Move | 25 | active creator revision |
 | 15 | People Who Heard About Us | 24 | latest merged files |
 | 16 | What the Message Changes | 24 | latest merged files |
 | 17 | Freedom and Walls | 24 | latest merged files |
 | 18 | Last Defense | 27 | latest merged files |
 | 19 | What Would You Choose? | 40 | latest merged files |
 
-Total currently: **263 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
+Total currently: **268 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
 
 ## Final density audit
 
@@ -157,6 +157,11 @@ The former large compression holes in V18 Last Defense / later Noise and V19 Tri
 
 ### V14–V17 — Move / institutions / city / freedom
 - The Move remains staged and preserves the old inn as active origin-home;
+- S3 builds only a first habitable essential cluster; the final family-house / mega-inn and mature city remain unfinished;
+- Mau/Frieren's planned quiet corner is overtaken by family members independently choosing nearby rooms;
+- the residential plan is reoriented so Frieren keeps an east-facing window without pushing family away;
+- Bocchi chooses acoustic privacy without being spatially exiled from the family core;
+- source-world groups do not become separate residential enclaves;
 - named G5 people keep non-identical statuses and choices;
 - Arrival House grows from real overcrowding and preserves exit / privacy;
 - Searchers become a function rather than a hero roster;
@@ -212,7 +217,7 @@ V10  bare ground / slow Memory fracture / first disappearance
 V11  first search / G5 / eight signatures / witches / first return / false stability
 V12  Mau+Ori second road / monster injury / collapse / Rem-Kaneki-Aira rescue
 V13  field recovery / slow return / containment / Noise observation / reconstruction / ordinary recovery
-V14  staged Move / two homes at once / old inn protected
+V14  staged Move / chosen family proximity / first habitable cluster / two homes at once / old inn protected / final house unfinished
 V15  intentional migration / Arrival House / Searchers / second community / refuge / unity
 V16  external partnership / delayed Senku audit / hybrid civic systems
 V17  Eren-Mikasa asymmetry / exit rights / due process / Mau sacrifice expectation

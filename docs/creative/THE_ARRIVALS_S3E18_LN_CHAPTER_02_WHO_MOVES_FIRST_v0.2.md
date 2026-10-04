@@ -279,6 +279,24 @@ review failures.
 
 Then decide second wave.
 
+Fern underlined one additional sentence:
+
+FIRST-NIGHT LOCATION IS NOT FAMILY RANK.
+
+Mau looked at her.
+
+"Did that need to be written?"
+
+Fern looked at the room.
+
+At the guest labels.
+At the G5 names.
+At everyone trying not to read emotional meaning into bed logistics.
+
+"Yes."
+
+Fair.
+
 No dramatic wagon carrying the whole family into sunset.
 
 Two homes would overlap.

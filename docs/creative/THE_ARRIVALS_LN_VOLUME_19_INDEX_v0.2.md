@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 19 Index v0.2
 
-**Status:** ACTIVE MERGED READER ORDER — PROSE PASS COMPLETE  
+**Status:** ACTIVE CREATOR REVISION — CHOICE / FAMILY THEME REANCHORED  
 **Volume:** 19  
 **Season:** 3  
 **Volume title:** **What Would You Choose?**  
@@ -48,6 +48,22 @@
 | 38 | Now Let Us Decide |
 | 39 | Mau Jail, Part Two |
 | 40 | The Offer Is Still There |
+
+## Creator-revision choice lock — 2026-10-04
+
+The final Trial question now explicitly distinguishes:
+- **past chosen closeness** from the still-unknown Return/Stay choice;
+- Mau's real relational centrality from ownership;
+- loving Mau / choosing to live near him from being obligated to Stay;
+- a future choice from retroactively invalidating earlier choices.
+
+The Goddess does **not** prove everyone will choose Continuum or Mau.
+
+Instead, Mau is forced to accept two truths simultaneously:
+1. many people have already freely chosen him / the family in hundreds of smaller ways;
+2. those prior choices do not give him ownership of their next irreversible answer.
+
+Frieren later reinforces the same point privately through the east-window / room choice: a future answer may change the future without making their existing life fake.
 
 ## Trial accumulation lock
 

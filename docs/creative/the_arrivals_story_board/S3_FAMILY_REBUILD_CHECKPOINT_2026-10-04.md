@@ -165,7 +165,20 @@ This protects the intended S3 -> S4 escalation:
 - Sukuna is learning too;
 - no single mastermind identity is prematurely revealed.
 
-## 9. Mechanical state
+## 9. V19 thematic re-anchoring
+
+No chapter-count increase was required.
+
+Revised:
+- **Would They Choose You?** now uses the family-house / Ring Two rebuild as direct Trial evidence: Coco, Umaru, Bocchi, Ori, Rem, Seiko, Suika and others have already made smaller voluntary choices of closeness.
+- The Goddess explicitly refuses to let Mau convert those choices into proof of Stay.
+- Mau must accept both that he has genuinely been chosen **and** that he does not own the next answer.
+- **Frieren Doesn't Answer** now uses the east-facing-window / room choice to state that a future answer can change the future without retroactively making their existing love or home fake.
+
+This is the cleanest expression of the creator theme:
+> people can have a past, choose Mau in their present, and still retain ownership of their future.
+
+## 10. Mechanical state
 
 Current chapter counts:
 - V10 17

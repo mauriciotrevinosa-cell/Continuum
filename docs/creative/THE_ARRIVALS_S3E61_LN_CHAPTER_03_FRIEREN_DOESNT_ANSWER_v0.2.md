@@ -119,6 +119,86 @@ Stopped.
 
 Mau took her hand.
 
+Mau looked at the dark room.
+
+The east-facing window was only a black rectangle now.
+
+That stupid window had moved an entire future wing.
+
+Not because Mau wanted it.
+
+Because Frieren did.
+
+He said:
+
+"You already chose things."
+
+Frieren waited.
+
+"Our room. The window. Staying near everyone even when we thought we'd get a quiet corner."
+
+"Yes."
+
+"Coco chose nearby. Ori. Umaru. Bocchi, sort of."
+
+"Yes."
+
+Mau swallowed.
+
+"And now this choice exists and my head keeps acting like if you don't choose what I want, all the other choices become fake."
+
+Frieren's expression sharpened.
+
+"They don't."
+
+"I know."
+
+"No."
+
+She squeezed his hand.
+
+"Listen."
+
+Mau did.
+
+"You did not choose my window."
+
+Despite everything, he almost laughed.
+
+"No."
+
+"You did not choose my room."
+
+"No."
+
+"You did not choose this bed."
+
+"No."
+
+"I did."
+
+The words settled.
+
+Frieren continued.
+
+"If I make another choice later, that choice will also be mine."
+
+Mau's eyes burned.
+
+"It doesn't cancel these?"
+
+"No."
+
+Simple.
+
+Brutal.
+
+Kind.
+
+A future could change.
+
+It did not retroactively turn love into captivity.
+
 She said:
 
 "You can tell me what you want."

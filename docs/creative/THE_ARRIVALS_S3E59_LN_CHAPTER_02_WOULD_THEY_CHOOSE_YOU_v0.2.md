@@ -1,14 +1,14 @@
 # The Arrivals — Light Novel — Volume 19
 ## Chapter 20 — Would They Choose You?
 
-**Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
+**Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 19  
 **Reading order:** 20  
-**Continuity state:** Final Trial question | Return/Stay becomes relevant | Mau answers uncertainty honestly rather than claiming others' choices
+**Continuity state:** Final Trial question | Mau must distinguish past chosen closeness from the still-unknown Return/Stay choice
 
 The settlement returned.
 
-This time Mau stood in the plaza.
+This time Mau stood in the rough plaza people kept calling a plaza even though one edge was still packed dirt.
 
 People everywhere.
 
@@ -36,9 +36,16 @@ Some had arrived as children.
 
 Some as fighters.
 
-Some had relationships here they could not have imagined before.
+Some still slept at the old inn because the first cluster never became theirs.
 
-Some still slept at the inn because the new settlement never became theirs.
+Some had chosen rooms near Mau and Frieren when nobody asked them to.
+
+Some had chosen distance.
+
+Some had chosen both:
+their own door,
+their own life,
+and a path back to the same common room.
 
 "Some."
 
@@ -62,16 +69,132 @@ Not predictions.
 
 Possibilities.
 
-"Would Rimuru?"
+Then the Goddess showed smaller things.
 
-Mau looked for him.
+Not Return.
 
-Rimuru stood near Milim and Diablo.
+Not Stay.
+
+The room plan.
+
+Coco placing her marker close.
+
+Umaru immediately doing the same.
+
+Bocchi struggling through:
+
+Not that far.
+
+Ori pointing at the gap between rooms.
+
+That is space.
+
+And I want to be near you.
+
+Mau went still.
+
+Those had happened.
+
+Not Trial constructs.
+
+Unless memory itself—
+
+No.
+
+Stop.
+
+Shared.
+Recorded.
+Lived.
+
+The Goddess asked:
+
+"Were those choices?"
+
+"Yes."
+
+"Did you make them?"
+
+"No."
+
+"Did they choose proximity?"
+
+"Yes."
+
+The word hurt differently.
+
+The Goddess changed the image.
+
+Rem's blue-rimmed cup on a shelf.
+
+One cup.
+
+Then two places where she knew which cup was hers.
+
+Seiko hitting Mau with folded paper and refusing to deny the word grandson.
+
+Milim saying:
+
+He's Rimuru's brother.
+
+Nijika watching Bocchi ask for what she needed.
+
+Kusuri saying belonging did not require closeness to Mau.
+
+Suika leaving Senku for an afternoon because she wanted to, then choosing a room he could find.
+
+Different people.
+
+Different directions.
+
+Not worship.
+
+Not dependency.
+
+Not one reason.
+
+The Goddess asked:
+
+"How many choices must they make before you believe choice is real?"
+
+Mau looked at her.
+
+Anger arrived.
+
+"That's not fair."
+
+"Why?"
+
+"Because those aren't this choice."
+
+Silence.
+
+Then:
+
+"Correct."
+
+Mau stopped.
+
+The Goddess did not let him escape by turning the family into proof of Stay.
+
+Good.
+
+Terrible.
+
+Past choices were real.
+
+Future choice still belonged to them.
+
+Both.
+
+The Goddess asked:
+
+"Would Rimuru remain?"
+
+Mau found him near Milim and Diablo.
 
 Source world.
-
 People there.
-
 Responsibilities Mau could not measure.
 
 "I don't know."
@@ -80,31 +203,113 @@ Responsibilities Mau could not measure.
 
 Bocchi near Kita.
 
-Then image shifted.
-
-Nijika.
+Then Nijika.
 
 Ryo.
 
 Music.
 
-A world where she had roots.
+A world where she had roots before Mau ever existed.
 
 "I don't know."
 
-"Would Ori?"
+"Does not knowing erase that she chose you as family here?"
 
 Mau's throat tightened.
 
+"No."
+
+There.
+
+Different question.
+
+"Would Coco?"
+
+Mau saw the schedule.
+
+A day built specifically because Coco wanted a new memory with him.
+
+Then Qifrey.
+
+Agott.
+
+Richeh.
+
+Tetia.
+
+Her world.
+
+Her losses.
+
+"I don't know what she would choose."
+
+"Did she choose that day?"
+
+"Yes."
+
+"Would Rem?"
+
+Blue-rimmed cup.
+
+River.
+
+Guest room.
+
+Returning.
+
+Leaving.
+
+Returning again.
+
+"I don't know."
+
+"Did she choose to come back?"
+
+"Yes."
+
+Again.
+
+Mau hated this.
+
+Not because the Goddess was proving everyone would stay.
+
+She wasn't.
+
+She was removing one of Mau's favorite lies:
+
+They are only here because they have nowhere else.
+
+Sometimes that had been true at arrival.
+
+It was no longer sufficient to explain the family.
+
+The Goddess asked:
+
+"Would Ori?"
+
+Mau's throat closed.
+
 Ori had no source world to return to in the ordinary sense.
 
-Or maybe the Goddess counted something else.
+Or maybe she did and nobody understood it.
 
 "I don't know what her choice would even mean."
 
-Good.
+The image changed.
 
-No claiming.
+Ori in the field.
+
+Ori finding him when he was breaking.
+
+Ori beside Frieren.
+
+Ori choosing the room across the courtyard.
+
+Ori holding information Mau desperately wanted and still being allowed to keep it.
+
+Not child as possession.
+
+Daughter because relationship had become true before anyone named it.
 
 Then:
 
@@ -130,11 +335,40 @@ Graves.
 
 Centuries Mau had not shared.
 
-People she had lost.
+People she had loved before him.
 
-People she might find.
+People she could love after him.
 
-A life that had begun long before him and could continue long after.
+A life that had begun long before Mau and might continue long after.
+
+Then the image changed.
+
+The east-facing window.
+
+Frieren standing in a place where the wall did not exist yet.
+
+Mau beside her.
+
+They had rotated a future wing because she wanted morning light and everyone else wanted nearby rooms.
+
+A stupid construction argument.
+
+A real choice.
+
+Then:
+his shirt on her.
+
+Her head on his lap.
+
+Her hand in his.
+
+The date they knew happened.
+
+The words:
+
+Then I'll remind you.
+
+As many as it takes.
 
 Mau wanted yes.
 
@@ -146,9 +380,9 @@ Choose me.
 
 Choose us.
 
-Choose this room.
+Choose the east window.
 
-Choose stolen hoodies and bad bread and dates with time limits.
+Choose stolen hoodies and bad bread and crowded movie nights and the common room nobody leaves.
 
 He hated how much he wanted it.
 
@@ -162,17 +396,47 @@ Construct.
 
 Maybe.
 
-He remembered the bridge.
+He remembered every smaller yes.
+
+He also remembered the bridge.
 
 Let me choose.
-
-He remembered every version where he had overridden someone because uncertainty frightened him.
 
 "I don't know."
 
 The answer hurt more than dying.
 
 The Goddess:
+
+"Do you believe the choices she already made were real?"
+
+Mau looked up.
+
+"Yes."
+
+"Then uncertainty about the next choice does not erase the previous ones."
+
+Mau's eyes burned.
+
+That was the thing he had been doing.
+
+Every new uncertainty became retroactive doubt.
+
+If Frieren could Return, maybe their room had only been temporary.
+
+If Bocchi could leave, maybe brother had only meant necessity.
+
+If Rem could go, maybe every return had been inertia.
+
+If Coco could choose another world, maybe the scheduled memory had not meant enough.
+
+Wrong.
+
+A future choice could change the future.
+
+It did not rewrite every choice that built the present.
+
+The Goddess asked:
 
 "Could you accept no?"
 
@@ -244,7 +508,7 @@ Mau looked at Frieren.
 
 "I don't know."
 
-The answer became the only honest tool he had left.
+The answer had become the only honest tool he had left.
 
 Outside the Trial, the domain shifted.
 
@@ -280,7 +544,19 @@ The Goddess asked:
 
 Mau looked around at people he loved.
 
-Then at the person he most desperately wanted an answer from.
+Not one orbit.
+
+Not one reason.
+
+A network that had grown because people chose each other in directions he did not control.
+
+And yet he was there.
+
+Near the center of many of those lines.
+
+That was not a sin.
+
+Pretending it meant nothing would be another way of refusing their choices.
 
 He could ask.
 
@@ -316,10 +592,14 @@ The question stopped belonging to Mau.
 
 That was the final turn.
 
-The Trial had not produced a correct sacrifice.
+The Trial had not proven everyone would stay.
 
-It had removed Mau's claim to be the only person allowed to carry irreversible choice.
+It had proven something smaller and, for Mau, almost harder:
 
-The next choice would belong to everyone individually.
+they had already chosen him many times.
 
-The Goddess was about to make that literal.
+He did not get to erase those choices because the next one frightened him.
+
+And he did not get to use those choices as ownership of the next answer.
+
+The Goddess was about to make that distinction literal.

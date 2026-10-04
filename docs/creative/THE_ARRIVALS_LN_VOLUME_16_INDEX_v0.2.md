@@ -4,7 +4,7 @@
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  
-**Chapter count:** 26
+**Chapter count:** 29
 
 | # | Chapter |
 |---:|---|
@@ -30,10 +30,13 @@
 | 20 | The Old Inn Has Guests |
 | 21 | Not One Reason |
 | 22 | Suika Has Too Many Sisters |
-| 23 | Senku Gets Faster |
-| 24 | The First Thing Built for Peace |
-| 25 | The Message at Dinner |
-| 26 | A City Before a Name |
+| 23 | Diablo Does Not Need an Order |
+| 24 | Milim Wants Both Brothers |
+| 25 | Karane Has Given Up on Logic |
+| 26 | Senku Gets Faster |
+| 27 | The First Thing Built for Peace |
+| 28 | The Message at Dinner |
+| 29 | A City Before a Name |
 
 ## Creator-revision relationship expansion — 2026-10-04
 
@@ -46,7 +49,10 @@ G5 / Ring Two now receives explicit lived follow-through:
 - Milim names Mau/Rimuru as brothers without forcing a hierarchy;
 - Kusuri explicitly distinguishes belonging from proximity to Mau;
 - Suika expands into the younger-sister network without being severed from Senku;
-- Senku is pulled into family life indirectly through Suika rather than instantly becoming sentimental.
+- Senku is pulled into family life indirectly through Suika rather than instantly becoming sentimental;
+- Diablo begins helping the wider family from his own judgment rather than only direct Rimuru orders;
+- Milim's chaotic younger-sister relationship with Mau/Rimuru becomes ordinary life, not power cameo;
+- Hakari/Karane/Shizuka/Nano/Kusuri remain a visible family texture and cross-connect with Momo/Marin/Frieren rather than disappearing into a source enclave.
 
 ## Handoff to V17
 

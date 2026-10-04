@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 23 — Senku Gets Faster
+## Chapter 26 — Senku Gets Faster
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 23
+**Reading order:** 26
 
 Senku's test times improved.
 

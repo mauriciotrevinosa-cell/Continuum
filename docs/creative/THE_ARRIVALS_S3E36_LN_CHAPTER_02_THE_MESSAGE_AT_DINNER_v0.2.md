@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 25 — The Message at Dinner
+## Chapter 28 — The Message at Dinner
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 25
+**Reading order:** 28
 
 The unity message returned at dinner again.
 

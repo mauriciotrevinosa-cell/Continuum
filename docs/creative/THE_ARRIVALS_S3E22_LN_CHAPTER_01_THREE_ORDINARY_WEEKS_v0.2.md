@@ -10,6 +10,12 @@ For three weeks, nothing season-ending happened.
 
 That deserved more than a sentence.
 
+It also deserved more than a montage.
+
+The weeks did not become important because the calendar advanced.
+
+They became important because people repeated themselves until repetition became home.
+
 The settlement learned breakfast before it learned governance.
 
 People woke at different times.
@@ -215,6 +221,15 @@ Then redesigned the markers so children could not move them easily.
 Culture accidentally improved safety.
 
 Three ordinary weeks created more permanence than any declaration.
+
+Some of those days deserved to remain specific.
+
+A day Marin stopped the entire worksite.
+A breakfast that took three hours because nobody ate at the same time.
+A conversation Seiko and Frieren both claimed was not friendship.
+A day Nazuna almost completely missed by sleeping through it.
+A dinner where G5 stopped sitting like an arrival wave.
+A morning Rem discovered she had a cup in two homes.
 
 Then, at the end of the third week, a stranger appeared at the settlement edge with one bag.
 

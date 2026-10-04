@@ -1,38 +1,58 @@
 # The Arrivals — Light Novel — Volume 15 Index v0.2
 
-**Status:** ACTIVE MERGED READER ORDER — PROSE PASS COMPLETE  
+**Status:** ACTIVE CREATOR REVISION — ORDINARY-LIFE / RING SEPARATION EXPANDED  
 **Volume:** 15  
 **Season:** 3  
 **Volume title:** **People Who Heard About Us**  
-**Chapter count:** 24  
+**Chapter count:** 31  
 **Supersedes:** Volume 15 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
 |---:|---|
 | 1 | Three Ordinary Weeks |
-| 2 | I Heard About You |
-| 3 | Name, World, Need |
-| 4 | Not Everyone Can Stay Today |
-| 5 | The Table Gets a Roof |
-| 6 | Searchers Get a Name |
-| 7 | The First Holding Site |
-| 8 | Searchers Without Mau |
-| 9 | Richeh Stays a Guest |
-| 10 | Tetia Wants to See Everything |
-| 11 | The Rumor Changes |
-| 12 | The Road Gets Worse |
-| 13 | The Other Camp |
-| 14 | We Survived by Staying Small |
-| 15 | Not Our City |
-| 16 | The People Who Cannot Fight |
-| 17 | Three Nights Become a Week |
-| 18 | Too Few Beds Again |
-| 19 | Who Are We Speaking For? |
-| 20 | The Draft |
-| 21 | The Message |
-| 22 | The First Reply |
-| 23 | The Safe Corridor |
-| 24 | The Message Comes Back Wrong |
+| 2 | Marin Cancels Construction |
+| 3 | Breakfast Comes in Waves |
+| 4 | Seiko and Frieren Judge Everyone |
+| 5 | Nazuna Misses the Day |
+| 6 | The Seating Chart Dies |
+| 7 | Rem Has Two Cups |
+| 8 | I Heard About You |
+| 9 | Name, World, Need |
+| 10 | Not Everyone Can Stay Today |
+| 11 | The Table Gets a Roof |
+| 12 | Searchers Get a Name |
+| 13 | The First Holding Site |
+| 14 | Searchers Without Mau |
+| 15 | Richeh Stays a Guest |
+| 16 | Tetia Wants to See Everything |
+| 17 | The Rumor Changes |
+| 18 | The Road Gets Worse |
+| 19 | The Other Camp |
+| 20 | We Survived by Staying Small |
+| 21 | Not Our City |
+| 22 | The People Who Cannot Fight |
+| 23 | Three Nights Become a Week |
+| 24 | Too Few Beds Again |
+| 25 | Who Are We Speaking For? |
+| 26 | The Draft |
+| 27 | The Message |
+| 28 | The First Reply |
+| 29 | The Safe Corridor |
+| 30 | The Message Comes Back Wrong |
+| 31 | The Rumor Reaches Sukuna |
+
+## Creator-revision expansion — 2026-10-04
+
+The three-week runway is now lived rather than compressed into one bridge:
+- Marin explicitly forces rest;
+- breakfast demonstrates one family without requiring one schedule;
+- Seiko/Frieren begin a practical friendship and Seiko's grandmother role toward Mau;
+- Nazuna/Anko remain present outside plot utility;
+- G5 stops behaving as one cohort without losing source-world roots;
+- Rem's belonging develops through habit;
+- Ring One / Ring Two family texture is clearly distinct from later Arrival House / refuge residents;
+- hostile propaganda increasingly reframes refuge as recruitment and family as command structure;
+- Sukuna receives his own parallel interlude and remains active rather than frozen between battles.
 
 ## Handoff to V16
 

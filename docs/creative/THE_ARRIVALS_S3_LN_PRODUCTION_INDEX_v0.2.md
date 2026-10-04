@@ -3,7 +3,7 @@
 **Status:** ACTIVE CREATOR REVISION — POST-MEMORY FAMILY REBUILD IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **268**  
+**Reader-order chapters:** **275**  
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
@@ -85,13 +85,13 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 12 | The Second Road | 20 | latest merged files |
 | 13 | Bring Him Back | 32 | active creator revision |
 | 14 | The Move | 25 | active creator revision |
-| 15 | People Who Heard About Us | 24 | latest merged files |
+| 15 | People Who Heard About Us | 31 | active creator revision |
 | 16 | What the Message Changes | 24 | latest merged files |
 | 17 | Freedom and Walls | 24 | latest merged files |
 | 18 | Last Defense | 27 | latest merged files |
 | 19 | What Would You Choose? | 40 | latest merged files |
 
-Total currently: **268 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
+Total currently: **275 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
 
 ## Final density audit
 
@@ -163,7 +163,10 @@ The former large compression holes in V18 Last Defense / later Noise and V19 Tri
 - Bocchi chooses acoustic privacy without being spatially exiled from the family core;
 - source-world groups do not become separate residential enclaves;
 - named G5 people keep non-identical statuses and choices;
+- ordinary family life receives a full runway before Arrival House pressure accelerates;
 - Arrival House grows from real overcrowding and preserves exit / privacy;
+- family / Ring Two belonging is explicitly distinct from Ring Three refuge / transit status;
+- G5 relationships cross-connect rather than remaining a cohort or franchise enclave;
 - Searchers become a function rather than a hero roster;
 - Richeh / Tetia and Senku are not duplicated as later first arrivals;
 - Senku's later arc is a delayed civic audit;
@@ -171,7 +174,9 @@ The former large compression holes in V18 Last Defense / later Noise and V19 Tri
 - second community remains independent;
 - Eren / Mikasa memory asymmetry does not erase individual agency;
 - governance / due process / exit rights remain scoped;
-- Mau is not treated as consumable civic infrastructure.
+- Mau is not treated as consumable civic infrastructure;
+- anti-Otherworlder language increasingly reframes refuge as recruitment, Searchers as collection teams and the family core as command structure without prematurely proving one mastermind;
+- Sukuna remains active in parallel and hears the growing settlement rumor.
 
 ### V18 — Last Defense
 - defense is distributed across combat, refuge, medical, information and infrastructure systems;
@@ -218,7 +223,7 @@ V11  first search / G5 / eight signatures / witches / first return / false stabi
 V12  Mau+Ori second road / monster injury / collapse / Rem-Kaneki-Aira rescue
 V13  field recovery / slow return / containment / Noise observation / reconstruction / ordinary recovery
 V14  staged Move / chosen family proximity / first habitable cluster / two homes at once / old inn protected / final house unfinished
-V15  intentional migration / Arrival House / Searchers / second community / refuge / unity
+V15  ordinary family weeks / Ring Two integration / intentional migration / Arrival House / Searchers / second community / hostile rumor growth / Sukuna persistence
 V16  external partnership / delayed Senku audit / hybrid civic systems
 V17  Eren-Mikasa asymmetry / exit rights / due process / Mau sacrifice expectation
 V18  Last Defense / infrastructure payoff / aftermath / Noise overload / Goddess intrusion

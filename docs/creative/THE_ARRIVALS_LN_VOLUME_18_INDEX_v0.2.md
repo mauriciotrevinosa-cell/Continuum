@@ -4,7 +4,7 @@
 **Volume:** 18  
 **Season:** 3  
 **Volume title:** **Last Defense**  
-**Chapter count:** 29
+**Chapter count:** 31
 
 | # | Chapter |
 |---:|---|
@@ -23,20 +23,22 @@
 | 13 | Unknown Inside |
 | 14 | Under the Refuge |
 | 15 | Aira Broke It |
-| 16 | Morning After |
-| 17 | Counting the Cost |
-| 18 | The Story Was Ready |
-| 19 | Sukuna Hears They Survived |
-| 20 | The Worldless Man |
-| 21 | Leadership After the Front |
-| 22 | The Device Came With Building Material |
-| 23 | Threshold |
-| 24 | Protocol |
-| 25 | Kaneki Knows This Part |
-| 26 | Ori Knows Where the Door Is |
-| 27 | It Passes |
-| 28 | The Voice Around Ori |
-| 29 | She Is Not Your Mouth |
+| 16 | The Night Between |
+| 17 | Morning After |
+| 18 | Counting the Cost |
+| 19 | The Story Was Ready |
+| 20 | Sukuna Hears They Survived |
+| 21 | The Worldless Man |
+| 22 | Leadership After the Front |
+| 23 | The Device Came With Building Material |
+| 24 | Who Watered It |
+| 25 | Threshold |
+| 26 | Protocol |
+| 27 | Kaneki Knows This Part |
+| 28 | Ori Knows Where the Door Is |
+| 29 | It Passes |
+| 30 | The Voice Around Ori |
+| 31 | She Is Not Your Mouth |
 
 ## Creator-revision enemy-pressure expansion — 2026-10-04
 

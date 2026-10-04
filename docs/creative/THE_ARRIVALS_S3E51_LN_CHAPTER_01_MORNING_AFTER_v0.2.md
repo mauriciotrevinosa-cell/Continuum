@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 16 — Morning After
+## Chapter 17 — Morning After
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 16  
+**Reading order:** 17  
 **Continuity state:** Morning after Last Defense | Immediate survival succeeded | Rumor begins forming around Mau classification error
 
 Morning smelled like wet ash.

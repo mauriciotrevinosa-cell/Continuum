@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 27 — It Passes
+## Chapter 29 — It Passes
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 27  
+**Reading order:** 29  
 **Continuity state:** Noise overload resolves after eleven hours | No containment, disappearance or memory collapse | Protocol updated from lived evidence
 
 Eleven hours.
@@ -307,6 +307,26 @@ She left.
 Care had learned not to become prison.
 
 Five minutes later Mau opened the door himself.
+
+The corridor was full of people very carefully not waiting for him.
+
+Bocchi was sitting on the floor halfway down, tuning a guitar that was already in tune.
+
+Umaru and Coco had set up a board game against the opposite wall and were losing to Milim.
+
+Yuta was reading the same page he had been on when Mau closed the door.
+
+Stark was asleep sitting up at the turn of the hall, as if he might be needed.
+
+From the kitchen came the sound of Momo and Okarun arguing about whether soup counted as a meal, and Seiko telling them both it did.
+
+Nobody looked up when the door opened.
+
+Nobody said anything.
+
+Mau stood in the doorway and looked at all of them not looking at him.
+
+Then he went and sat down beside Bocchi, and she moved her guitar case to make room, and played something quiet, and that was all.
 
 No miracle.
 

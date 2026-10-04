@@ -4,7 +4,7 @@
 **Volume:** 13  
 **Season:** 3  
 **Volume title:** **Bring Him Back**  
-**Chapter count:** 32  
+**Chapter count:** 34  
 **Supersedes:** Volume 13 v0.1 for S3 v0.2 continuity.
 
 | # | Chapter |
@@ -34,13 +34,15 @@
 | 23 | The Body Heals Slower |
 | 24 | No. But You Can Stay. |
 | 25 | The Three Who Found Him |
-| 26 | The Date We Know Happened |
-| 27 | Looks Fine Is Not Fine |
-| 28 | Nobody Is Doing Anything |
-| 29 | Rem Keeps Coming Back |
-| 30 | Coco Schedules a Memory |
-| 31 | Maki and Frieren Are Not Talking |
-| 32 | Movie Night, Again |
+| 26 | Kaneki Doesn't Flinch |
+| 27 | Aira Is Definitely Not Family |
+| 28 | The Date We Know Happened |
+| 29 | Looks Fine Is Not Fine |
+| 30 | Nobody Is Doing Anything |
+| 31 | Rem Keeps Coming Back |
+| 32 | Coco Schedules a Memory |
+| 33 | Maki and Frieren Are Not Talking |
+| 34 | Movie Night, Again |
 
 ## Final prose-pass note
 
@@ -79,6 +81,8 @@ Five lived chapters restore:
 - ordinary family presence after triage;
 - Anko/Marin/Momo/Umaru/Bocchi/Coco and wider-household continuity;
 - Rem's gradual guest -> belonging trajectory;
+- Kaneki's direct older-brother-like bond with Mau beyond rescue utility;
+- Aira's Dandadan/Mikasa family integration beyond being one of the rescuers;
 - Coco/Witch Hat direct post-Memory memory-making with Mau;
 - Maki/Frieren's independent friendship;
 - movie night as a household ritual;

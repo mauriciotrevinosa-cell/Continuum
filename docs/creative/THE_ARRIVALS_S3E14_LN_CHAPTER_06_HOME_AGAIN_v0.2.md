@@ -8,9 +8,37 @@
 
 The second return was quieter.
 
+That did not mean the house was empty.
+
 Fern controlled the doorway.
 
 "No crowd."
+
+Behind her, the common room was full of people pretending not to be a crowd.
+
+Momo had food ready that nobody expected Mau to eat yet.
+
+Anko had the route notes from the search folded under one arm and had not made a joke in twenty minutes.
+
+Marin had reorganized blankets twice because doing something with her hands was easier than waiting.
+
+Wakana had repaired a torn litter strap nobody needed anymore.
+
+Coco sat close to Qifrey with both hands wrapped around a cup gone cold.
+
+Maki stood near the wall where she could see Yuta the moment he came through.
+
+Hakari, Karane, Shizuka and Nano had been told not to fill the doorway and, for once, had obeyed.
+
+Himmel and Stark were outside because someone still had to watch the road.
+
+Milim had been threatened with physical removal by Rimuru if she shouted.
+
+Diablo had taken that threat much too seriously.
+
+No crowd did not mean nobody came.
+
+It meant the family had learned that love could wait five meters away.
 
 Momo opened her mouth.
 
@@ -190,7 +218,23 @@ Habit reached him before biography.
 
 That mattered.
 
-Downstairs, Rem finally put the cap on the table.
+Downstairs, the room stayed quieter than it had any right to.
+
+People looked up whenever the floor creaked overhead.
+
+Then looked away again.
+
+Nobody demanded updates every five minutes.
+
+Maki took Yuta's empty cup and replaced it with water when he finally came down.
+
+Marin handed Frieren a clean shirt without commenting on the one she had been wearing for too long.
+
+Anko asked Rem exactly one route question, wrote the answer, and stopped.
+
+That restraint was its own kind of care.
+
+Rem finally put the cap on the table.
 
 Bocchi saw it.
 

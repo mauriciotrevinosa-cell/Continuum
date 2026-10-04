@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 27 — Looks Fine Is Not Fine
+## Chapter 29 — Looks Fine Is Not Fine
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 27  
+**Reading order:** 29  
 **Continuity state:** Day 26+ | Dominant Memory crisis de-escalated | Long-term protocol replaces emergency mode
 
 Mau looked fine.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 31 — Maki and Frieren Are Not Talking
+## Chapter 33 — Maki and Frieren Are Not Talking
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 13  
-**Reading order:** 31  
+**Reading order:** 33  
 **Continuity state:** Post-Memory recovery | Maki/Frieren relationship resumes outside crisis
 
 Maki and Frieren were not talking.

@@ -3,7 +3,7 @@
 **Status:** ACTIVE CREATOR REVISION — POST-MEMORY FAMILY REBUILD IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **281**  
+**Reader-order chapters:** **283**  
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
@@ -84,7 +84,7 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 10 | Bare Ground | 17 | legacy-path merged V10 files |
 | 11 | Eight Signatures | 35 | latest merged files |
 | 12 | The Second Road | 20 | latest merged files |
-| 13 | Bring Him Back | 32 | active creator revision |
+| 13 | Bring Him Back | 34 | active creator revision |
 | 14 | The Move | 25 | active creator revision |
 | 15 | People Who Heard About Us | 31 | active creator revision |
 | 16 | What the Message Changes | 26 | active creator revision |
@@ -92,7 +92,7 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 18 | Last Defense | 29 | active creator revision |
 | 19 | What Would You Choose? | 40 | latest merged files |
 
-Total currently: **281 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
+Total currently: **283 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
 
 ## Current density audit — creator revision in progress
 
@@ -118,7 +118,7 @@ Approximate active medians:
 The former large compression holes in V18 Last Defense / later Noise and V19 Trial / Return-Stay processing remain expanded.
 
 The current family-rebuild pass has added **17 lived chapters** so far without shrinking prior prose:
-- +5 to V13 family aftermath;
+- +7 to V13 family aftermath / Rem-Kaneki-Aira integration;
 - +5 to V14 The Move / household topology;
 - +7 to V15 ordinary weeks / Ring Two integration / Sukuna persistence;
 - +2 to V16 direct G5/Ring Two relationship follow-through;
@@ -160,6 +160,8 @@ The current family-rebuild pass has added **17 lived chapters** so far without s
 - the recovery date includes the present-memory promise: "Then I'll remind you." / "As many as it takes.";
 - recovery now receives ordinary-family runway before The Move;
 - Rem's belonging develops through repeated voluntary return rather than a status declaration;
+- Kaneki develops a distinct older-brother-like trust lane with Mau rather than remaining a biology/rescue function;
+- Aira reconnects into Momo/Okarun family life and Mikasa's protector lane rather than remaining a rescue tool;
 - Coco/Witch Hat create a deliberate new memory with Mau;
 - Maki/Frieren friendship resumes outside crisis;
 - movie night restores the household as a lived ensemble and seeds the revised room-choice conflict.

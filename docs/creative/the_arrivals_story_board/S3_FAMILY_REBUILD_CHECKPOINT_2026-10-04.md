@@ -2,7 +2,7 @@
 
 **Status:** ACTIVE CREATOR-REVISION CHECKPOINT  
 **Branch:** `m3/critical-path`  
-**Current active S3 chapter count:** **281**  
+**Current active S3 chapter count:** **283**  
 **Relationship authority:** `S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`
 
 ## 1. Creator problem that reopened S3
@@ -35,14 +35,16 @@ Full mapping lives in the Relationship & Household Canon Lock.
 
 ## 3. V13 revision completed at this checkpoint
 
-V13 increased **27 -> 32**.
+V13 increased **27 -> 34**.
 
 Added:
 1. **Nobody Is Doing Anything** — full common-room nothing-day; couch/Frieren/Mau/Umaru/Bocchi/Anko/Fern/Rimuru ensemble.
 2. **Rem Keeps Coming Back** — Rem's guest status becomes lived habit rather than administrative distance.
 3. **Coco Schedules a Memory** — Witch Hat circle deliberately creates a new non-medical memory with Mau after Memory Arc.
 4. **Maki and Frieren Are Not Talking** — restores their independent friendship outside crisis.
-5. **Movie Night, Again** — recurring household tradition; G5 sees family life; first explicit room-proximity choices emerge.
+5. **Kaneki Doesn't Flinch** — Kaneki/Mau develops into a distinct older-brother-like bond beyond biology and rescue.
+6. **Aira Is Definitely Not Family** — Aira reconnects with Momo/Okarun and begins protector/family integration with Mikasa.
+7. **Movie Night, Again** — recurring household tradition; G5 sees family life; first explicit room-proximity choices emerge.
 
 The old V13 ending was changed so planning The Move no longer immediately ends the volume.
 
@@ -184,7 +186,7 @@ Current chapter counts:
 - V10 17
 - V11 35
 - V12 20
-- V13 **32**
+- V13 **34**
 - V14 **25**
 - V15 **31**
 - V16 **26**
@@ -192,7 +194,7 @@ Current chapter counts:
 - V18 **29**
 - V19 40
 
-Total: **281**.
+Total: **283**.
 
 All active S3 chapter filenames remain numeric-only.
 No active S3 chapter is below 2.5 KB.

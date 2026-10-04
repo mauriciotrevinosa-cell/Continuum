@@ -3,7 +3,7 @@
 **Status:** ACTIVE CREATOR REVISION — POST-MEMORY FAMILY REBUILD IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **279**  
+**Reader-order chapters:** **281**  
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
@@ -89,10 +89,10 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 15 | People Who Heard About Us | 31 | active creator revision |
 | 16 | What the Message Changes | 26 | active creator revision |
 | 17 | Freedom and Walls | 26 | active creator revision |
-| 18 | Last Defense | 27 | latest merged files |
+| 18 | Last Defense | 29 | active creator revision |
 | 19 | What Would You Choose? | 40 | latest merged files |
 
-Total currently: **279 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
+Total currently: **281 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
 
 ## Current density audit — creator revision in progress
 
@@ -122,7 +122,8 @@ The current family-rebuild pass has added **17 lived chapters** so far without s
 - +5 to V14 The Move / household topology;
 - +7 to V15 ordinary weeks / Ring Two integration / Sukuna persistence;
 - +2 to V16 direct G5/Ring Two relationship follow-through;
-- +2 to V17 representation / hostile-frame escalation.
+- +2 to V17 representation / hostile-frame escalation;
+- +2 to V18 prewritten-propaganda / Sukuna-persistence aftermath.
 
 ## Final continuity locks
 
@@ -198,7 +199,9 @@ The current family-rebuild pass has added **17 lived chapters** so far without s
 - the unknown device is traced through a supply chain without prematurely naming the mastermind;
 - later Noise overload is distinct from the Memory Arc and is handled through learned protocol;
 - Ori is useful without being turned into metaphysical truth / sole anchor;
-- Goddess intrusion preserves Ori's independence and consent.
+- Goddess intrusion preserves Ori's independence and consent;
+- hostile reporting is shown to have been prepared before the battle outcome was knowable, proving deliberate narrative pressure without identifying the mastermind;
+- Sukuna remains active, independent and interested in the settlement's growth rather than disappearing between arcs.
 
 ### V19 — Goddess Trial / Return-Stay
 - Goddess authority is bounded domain authority, not established omnipotence;

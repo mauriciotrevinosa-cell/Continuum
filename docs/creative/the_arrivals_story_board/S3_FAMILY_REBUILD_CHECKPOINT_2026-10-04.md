@@ -2,7 +2,7 @@
 
 **Status:** ACTIVE CREATOR-REVISION CHECKPOINT  
 **Branch:** `m3/critical-path`  
-**Current active S3 chapter count:** **279**  
+**Current active S3 chapter count:** **281**  
 **Relationship authority:** `S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`
 
 ## 1. Creator problem that reopened S3
@@ -151,7 +151,21 @@ It also strengthens S4 antagonist escalation:
 - Mau becomes the supposed control point;
 - the author / mastermind remains unresolved.
 
-## 8. Mechanical state
+## 8. V18 enemy-pressure expansion
+
+V18 increased **27 -> 29**.
+
+Added:
+1. **The Story Was Ready** — hostile reporting about Last Defense is shown to have been prepared before the outcome was knowable; family/refuge facts are deliberately translated into command/recruitment/aggression language.
+2. **Sukuna Hears They Survived** — Sukuna remains active, learns the settlement survived, recognizes that propaganda misunderstands Mau's centrality, and stays independent of the wider anti-Otherworlder network.
+
+This protects the intended S3 -> S4 escalation:
+- the protagonists are not the only side growing;
+- anti-Otherworlder framing is becoming more sophisticated;
+- Sukuna is learning too;
+- no single mastermind identity is prematurely revealed.
+
+## 9. Mechanical state
 
 Current chapter counts:
 - V10 17
@@ -162,10 +176,10 @@ Current chapter counts:
 - V15 **31**
 - V16 **26**
 - V17 **26**
-- V18 27
+- V18 **29**
 - V19 40
 
-Total: **279**.
+Total: **281**.
 
 All active S3 chapter filenames remain numeric-only.
 No active S3 chapter is below 2.5 KB.

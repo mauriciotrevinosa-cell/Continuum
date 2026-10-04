@@ -247,3 +247,15 @@ S4 can then materially expand:
 The emotional rule remains:
 
 > the settlement grows because the family needs room; the city does not replace the family.
+
+
+## 11. Preventing the same drift again
+
+Two additional active locks now exist:
+
+- `S3_S4_FAMILY_HOUSE_MEGA_INN_LAYOUT_LOCK_2026-10-04.md`
+- `S3_CHARACTER_PRESENCE_GUARDRAIL_2026-10-04.md`
+
+The layout lock fixes the S3 construction ceiling, east-facing Frieren window, chosen family-room proximity, Arrival House separation and eventual mega-inn direction.
+
+The presence guardrail prevents established relationships from disappearing merely because they are not carrying the current macro plot.

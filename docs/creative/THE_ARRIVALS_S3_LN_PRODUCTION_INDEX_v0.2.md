@@ -8,6 +8,8 @@
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
 **Current creator lock:** `docs/creative/the_arrivals_story_board/S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`  
+**Family-house layout lock:** `docs/creative/the_arrivals_story_board/S3_S4_FAMILY_HOUSE_MEGA_INN_LAYOUT_LOCK_2026-10-04.md`  
+**Character-presence guardrail:** `docs/creative/the_arrivals_story_board/S3_CHARACTER_PRESENCE_GUARDRAIL_2026-10-04.md`  
 **Current rebuild checkpoint:** `docs/creative/the_arrivals_story_board/S3_FAMILY_REBUILD_CHECKPOINT_2026-10-04.md`
 
 ## Creator-revision notice — 2026-10-04

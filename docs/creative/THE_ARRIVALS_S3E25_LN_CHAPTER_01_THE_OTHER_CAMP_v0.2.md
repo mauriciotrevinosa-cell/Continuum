@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 13 — The Other Camp
+## Chapter 19 — The Other Camp
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 13  
+**Reading order:** 19  
 **Continuity state:** Main settlement inhabited | Second Otherworlder community discovered | No forced merger
 
 The other community did not look like competition.

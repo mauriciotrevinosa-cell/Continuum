@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 11 — The Rumor Changes
+## Chapter 17 — The Rumor Changes
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 11  
+**Reading order:** 17  
 **Continuity state:** Settlement reputation changes from location rumor to refuge claim
 
 The first rumor had been simple.
@@ -188,6 +188,34 @@ Safe road.
 
 Dangerous concentration.
 
+Then newer phrases appeared.
+
+Recruitment center.
+
+Armed concentration.
+
+Unauthorized Otherworlder authority.
+
+Nobody at the settlement had used those terms for themselves.
+
+That did not make the phrases random.
+
+Each one took something visible and changed the implied motive.
+
+Arrival House became recruitment.
+
+Searchers became collection teams.
+
+A shared warning route became territorial reach.
+
+The unfinished family cluster became a fortified command site.
+
+Mau helping people became evidence that the whole place revolved around an unnamed leader.
+
+The lies worked because they did not need to invent every brick.
+
+They only needed to rename why the brick existed.
+
 Each label changed what arrived.
 
 People.
@@ -202,6 +230,26 @@ Could not.
 
 The settlement now had a public identity it did not control.
 
-Individual people had been learning that lesson all season.
+Anko began keeping a second column beside ordinary rumors:
 
-Now the city had to.
+WHO BENEFITS IF THIS VERSION SPREADS?
+
+Most entries remained blank.
+
+Good.
+
+A blank was better than pretending they had found a mastermind.
+
+But the hostile versions were getting better.
+
+More consistent.
+More emotionally efficient.
+Easier to repeat.
+
+Individual people had been learning all season that memory could be manipulated without replacing every fact.
+
+Now the community was learning the social version.
+
+Somebody did not need to invent a fake settlement.
+
+They only needed to make the real one mean something else.

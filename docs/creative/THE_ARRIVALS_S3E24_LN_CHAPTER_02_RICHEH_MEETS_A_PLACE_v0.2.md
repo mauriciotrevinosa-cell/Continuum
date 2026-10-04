@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 10 — Tetia Wants to See Everything
+## Chapter 16 — Tetia Wants to See Everything
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 10  
+**Reading order:** 16  
 **Continuity state:** Post-G5 | Tetia already present since V11 | Her settlement relationship diverges from Richeh's
 
 Tetia had the opposite problem.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 12 — The Road Gets Worse
+## Chapter 18 — The Road Gets Worse
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 12  
+**Reading order:** 18  
 **Continuity state:** External anti-Otherworlder pressure grows unevenly alongside migration
 
 The western road acquired a registration checkpoint.
@@ -133,14 +133,41 @@ Patterns required time.
 
 Diablo suggested several notices shared phrasing too similar to be coincidence.
 
+Not identical.
+
+Better than identical.
+
+The same cluster of ideas:
+concentration;
+recruitment;
+unregistered movement;
+central command;
+unknown leader.
+
+Different handwriting.
+Different seals.
+Different regions.
+
 Anko wrote:
 
 POSSIBLE COORDINATION.
 
+Then underneath:
+
+OR COPYCAT LANGUAGE AFTER ONE SUCCESSFUL RUMOR.
+
 Not:
-MASTERmind confirmed.
+mastermind confirmed.
 
 Good.
+
+Mikasa asked whether the distinction mattered if the result was the same.
+
+Anko answered:
+
+"It matters if we want to stop the right thing."
+
+Also good.
 
 The road became worse.
 

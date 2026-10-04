@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 3 — Name, World, Need
+## Chapter 9 — Name, World, Need
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 3  
+**Reading order:** 9  
 **Continuity state:** Intake process emerges from first intentional arrival
 
 Nano's first intake form had eleven questions.

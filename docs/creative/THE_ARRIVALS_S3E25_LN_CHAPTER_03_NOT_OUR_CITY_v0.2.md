@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 15 — Not Our City
+## Chapter 21 — Not Our City
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 15
+**Reading order:** 21
 
 Six residents from the second community visited.
 

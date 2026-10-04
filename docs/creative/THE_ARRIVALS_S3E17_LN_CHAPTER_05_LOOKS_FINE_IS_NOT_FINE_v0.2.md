@@ -300,8 +300,26 @@ He was part of the choice.
 
 Different.
 
-Volume Thirteen ended with the household deciding to prepare to leave the old inn.
+The household began planning to leave the old inn.
 
 Not because the old home had failed.
 
 Because it had done its job well enough for them to grow beyond it.
+
+Planning, however, was not the same thing as leaving.
+
+Momo looked at the board.
+
+Then at Mau.
+
+"You are not turning tomorrow into twelve hours of logistics."
+
+Mau opened his mouth.
+
+Marin pointed at him from across the table.
+
+"Don't."
+
+He closed it.
+
+Apparently recovery had acquired enforcement.

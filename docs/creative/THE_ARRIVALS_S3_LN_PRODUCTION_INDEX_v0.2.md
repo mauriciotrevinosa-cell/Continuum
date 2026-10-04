@@ -3,7 +3,7 @@
 **Status:** ACTIVE CREATOR REVISION — POST-MEMORY FAMILY REBUILD IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **258**  
+**Reader-order chapters:** **263**  
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
@@ -83,7 +83,7 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 10 | Bare Ground | 17 | legacy-path merged V10 files |
 | 11 | Eight Signatures | 35 | latest merged files |
 | 12 | The Second Road | 20 | latest merged files |
-| 13 | Bring Him Back | 27 | latest merged files |
+| 13 | Bring Him Back | 32 | active creator revision |
 | 14 | The Move | 20 | latest merged files |
 | 15 | People Who Heard About Us | 24 | latest merged files |
 | 16 | What the Message Changes | 24 | latest merged files |
@@ -91,7 +91,7 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 18 | Last Defense | 27 | latest merged files |
 | 19 | What Would You Choose? | 40 | latest merged files |
 
-Total: **258 chapters**.
+Total currently: **263 chapters**. Post-Memory creator revision is still in progress; this is not a ceiling.
 
 ## Final density audit
 
@@ -134,7 +134,7 @@ The former large compression holes in V18 Last Defense / later Noise and V19 Tri
 - eight-signature lead remains separate from the G5 false-positive mechanism;
 - Mau returns without an instant cognitive reset.
 
-### V12–V13 — second road / field recovery / containment
+### V12–V13 — second road / field recovery / containment / family aftermath
 - Mau + Ori leave on the second road without erasing the moral problem of leaving;
 - monster injury and body change remain distinct from memory corruption;
 - Rem / Kaneki / Aira find and care for Mau before the larger group arrives;
@@ -148,7 +148,12 @@ The former large compression holes in V18 Last Defense / later Noise and V19 Tri
 - competing adaptation routes are explicit;
 - arrival-state stabilization does not define Mau's true species;
 - elf-like longevity provides future hope without a promise;
-- the recovery date includes the present-memory promise: "Then I'll remind you." / "As many as it takes."
+- the recovery date includes the present-memory promise: "Then I'll remind you." / "As many as it takes.";
+- recovery now receives ordinary-family runway before The Move;
+- Rem's belonging develops through repeated voluntary return rather than a status declaration;
+- Coco/Witch Hat create a deliberate new memory with Mau;
+- Maki/Frieren friendship resumes outside crisis;
+- movie night restores the household as a lived ensemble and seeds the revised room-choice conflict.
 
 ### V14–V17 — Move / institutions / city / freedom
 - The Move remains staged and preserves the old inn as active origin-home;

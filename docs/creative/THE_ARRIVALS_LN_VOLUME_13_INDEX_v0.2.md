@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13 Index v0.2
 
-**Status:** ACTIVE MERGED READER ORDER — PROSE PASS COMPLETE  
+**Status:** ACTIVE CREATOR REVISION — FAMILY AFTERMATH EXPANDED  
 **Volume:** 13  
 **Season:** 3  
 **Volume title:** **Bring Him Back**  
-**Chapter count:** 27  
+**Chapter count:** 32  
 **Supersedes:** Volume 13 v0.1 for S3 v0.2 continuity.
 
 | # | Chapter |
@@ -36,6 +36,11 @@
 | 25 | The Three Who Found Him |
 | 26 | The Date We Know Happened |
 | 27 | Looks Fine Is Not Fine |
+| 28 | Nobody Is Doing Anything |
+| 29 | Rem Keeps Coming Back |
+| 30 | Coco Schedules a Memory |
+| 31 | Maki and Frieren Are Not Talking |
+| 32 | Movie Night, Again |
 
 ## Final prose-pass note
 
@@ -65,6 +70,19 @@ larger search group reaches Mau
 -> reconstruction accepts permanently uncertain memories
 -> present-tense recovery date restores "I'll remind you / as many as it takes"
 ```
+
+## Creator-revision expansion — 2026-10-04
+
+The volume no longer exits the Memory Arc immediately into Move logistics.
+
+Five lived chapters restore:
+- ordinary family presence after triage;
+- Anko/Marin/Momo/Umaru/Bocchi/Coco and wider-household continuity;
+- Rem's gradual guest -> belonging trajectory;
+- Coco/Witch Hat direct post-Memory memory-making with Mau;
+- Maki/Frieren's independent friendship;
+- movie night as a household ritual;
+- the first explicit room-choice pressure that leads into the revised Move.
 
 ## Handoff continuity lock
 

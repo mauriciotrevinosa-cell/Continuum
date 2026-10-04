@@ -326,6 +326,22 @@ She reached over and pulled a corner of her own blanket across Rem's knees, and 
 
 
 
+Hakari, Karane, Shizuka and Nano had claimed the corner by the bookshelf and fallen asleep in a heap.
+
+Karane was complaining in her sleep.
+
+Nano's notebook lay open on her chest with the day's refuge count still in it, every name accounted for, the last line written in a hand that had begun to slide off the page.
+
+Shizuka's book had fallen open beside her to a page that said: GOOD NIGHT.
+
+Hakari had an arm over all three of them, as if she could keep the whole corner in one piece by holding it.
+
+Kusuri was still in medical.
+
+They had left a space for her anyway.
+
+
+
 Fern did not sleep.
 
 She stood at the long table with the search list.

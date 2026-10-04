@@ -60,6 +60,18 @@ At dinner nobody counted.
 
 Seiko noticed that too.
 
+Okarun noticed something else.
+
+Turbo Granny was sitting on the windowsill above Mau's empty place, where she liked to sit when she wanted to insult him while he ate.
+
+She was not saying anything.
+
+Okarun had never once, in all the time he had known her, seen her sit somewhere and say nothing.
+
+He did not point it out.
+
+He just moved his own plate one seat closer to the window.
+
 
 
 Bocchi had been told to help here.

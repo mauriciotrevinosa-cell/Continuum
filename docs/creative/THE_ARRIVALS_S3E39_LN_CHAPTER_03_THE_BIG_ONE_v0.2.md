@@ -362,6 +362,20 @@ She stole a piece of hamburg off his plate.
 
 
 
+Later, Mai, who had come only because Maki had, challenged Stark to arm-wrestle for the last slice.
+
+She lost.
+
+She demanded a rematch.
+
+She lost again, and looked at Stark with new and grudging respect, and Okarun, who had bet on Mai, paid Momo three coins and complained about it for the rest of the night.
+
+Kessoku played after dinner. Nothing in particular. Ryo claimed it was a birthday song from her world. Nijika said it was not. Ryo said it was now.
+
+Stark sat at the end of the table with his plate empty and his face still pink and listened to all of it as if he were afraid it might stop.
+
+
+
 Mikasa saved a slice for Anko, who was on watch, and wrapped it in a cloth, and went out to the road to bring it to her.
 
 Eren stayed.

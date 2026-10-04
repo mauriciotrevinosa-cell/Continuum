@@ -100,6 +100,12 @@ She closed her mouth.
 
 Karane put her arms out.
 
+Hakari asked to be measured twice, to be sure.
+
+Shizuka held up a page that said: SHE'S MEASURING. NOT ASKING.
+
+Hakari looked at the page, and at Marin, and at Karane with her arms out, and her face did something soft, and she held out her own arms and did not say anything else.
+
 Marin measured all of them. Every person who came into the common room that morning. She did not skip anyone. She did not ask anyone anything. She just wrote down numbers, one after another, in a notebook she had labeled on the cover in big, looping letters: WINTER.
 
 Wakana sat at the workroom table behind her, cutting patterns from the measurements as fast as she could take them.

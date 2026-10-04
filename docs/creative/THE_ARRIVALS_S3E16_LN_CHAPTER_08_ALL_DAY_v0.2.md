@@ -202,6 +202,16 @@ Mikasa.
 
 Maki. On behalf of Mai.
 
+Turbo Granny. Insulted the bed. Stayed anyway.
+
+Nijika and Ryo. Ryo fell asleep in the chair.
+
+Suika. Drew you a map of this room. Senku in the doorway, "passing."
+
+Hakari, Karane, Shizuka, Nano. All four at once. Arguing.
+
+Nazuna. Woke up early for this. (Early for Nazuna.)
+
 It went on.
 
 Mau read it to the end.

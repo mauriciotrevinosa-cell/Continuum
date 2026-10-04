@@ -200,6 +200,20 @@ That mattered.
 
 No mission creep.
 
+Okarun went past the other way.
+
+Faster than anything on two legs had a right to be.
+
+A wounded Searcher over his shoulder.
+
+Turbo Granny shrieking directions in his ear.
+
+Medical, then north again.
+
+Nobody had assigned him a number of trips.
+
+He was not counting.
+
 Ori relayed message:
 
 "North creatures are turning east."

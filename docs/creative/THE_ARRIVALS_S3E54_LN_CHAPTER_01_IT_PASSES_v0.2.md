@@ -316,6 +316,8 @@ Umaru and Coco had set up a board game against the opposite wall and were losing
 
 Yuta was reading the same page he had been on when Mau closed the door.
 
+Marin was sitting on the floor beside him, hemming something she had not needed to hem for an hour.
+
 Stark was asleep sitting up at the turn of the hall, as if he might be needed.
 
 From the kitchen came the sound of Momo and Okarun arguing about whether soup counted as a meal, and Seiko telling them both it did.

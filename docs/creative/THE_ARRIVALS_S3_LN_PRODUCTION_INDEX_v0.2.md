@@ -1,12 +1,27 @@
 # The Arrivals — Season 3 Light Novel Production Index v0.2
 
-**Status:** ACTIVE SEASON CANON — FULL-PROSE PASS COMPLETE  
+**Status:** ACTIVE CREATOR REVISION — POST-MEMORY FAMILY REBUILD IN PROGRESS  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
 **Reader-order chapters:** **258**  
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
-**Final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`
+**Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
+**Current creator lock:** `docs/creative/the_arrivals_story_board/S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`
+
+## Creator-revision notice — 2026-10-04
+
+The 2026-10-03 full-prose audit remains valid as a mechanical/historical checkpoint, but it is **not the end of creative revision**.
+
+New creator review identified post-Memory drift in:
+- family topology;
+- G5 / ring semantics;
+- ordinary-life density;
+- settlement layout;
+- recurring-character presence;
+- antagonist growth.
+
+The active correction is governed by the Relationship & Household Canon Lock. Memory Arc material is largely preserved; post-Memory S3 may expand substantially and chapter counts may increase.
 
 ## Source-of-truth rule
 

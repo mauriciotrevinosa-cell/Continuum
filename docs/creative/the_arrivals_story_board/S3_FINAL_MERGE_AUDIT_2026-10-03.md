@@ -1,6 +1,8 @@
 # The Arrivals — Season 3 Final Merge Audit — 2026-10-03
 
-**Status:** FINAL S3 AUDIT — PASSED  
+**Status:** HISTORICAL MECHANICAL CHECKPOINT — SUPERSEDED FOR CREATIVE AUTHORITY BY 2026-10-04 RELATIONSHIP/HOUSEHOLD LOCK
+
+**Prior status:** FINAL S3 AUDIT — PASSED  
 **Branch:** `m3/critical-path`  
 **Pre-audit content HEAD:** `748a2a9eb805e146a08e75a720962a5676a641dc`  
 **Reader-order chapters:** **258**  
@@ -294,3 +296,26 @@ Normalization commit:
 `1334430ec89b90f9d37656c67d0a5b1d4c678493`
 
 This was a filename/tooling compatibility issue, not thirteen unwritten chapters.
+
+
+## 12. Creator revision reopened after reader review — 2026-10-04
+
+The season passed the 2026-10-03 mechanical/full-prose audit, but reader review exposed a higher-level creative drift after the Memory Arc.
+
+The new authoritative creator lock is:
+
+`docs/creative/the_arrivals_story_board/S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`
+
+This does **not** invalidate the earlier preservation work or reopen the old compressed v0.2 as source. It reopens creative revision on top of the merged branch.
+
+Priority:
+- preserve strong Memory Arc prose;
+- restore family gravity and relationship continuity;
+- expand rather than compress;
+- rebuild The Move around chosen closeness;
+- keep S3 construction intentionally unfinished;
+- distinguish family/Ring Two from temporary Ring Three;
+- restore ordinary-life cadence;
+- seed antagonist/Sukuna growth in parallel.
+
+The prior 258-chapter count is therefore a historical checkpoint, not a ceiling.

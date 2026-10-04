@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 25 — Still Not Finished
+## Chapter 26 — Still Not Finished
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 14  
-**Reading order:** 25  
+**Reading order:** 26  
 **Continuity state:** End of first Move week | Habitation achieved; final family-house remains unfinished
 
 Rimuru made the mistake again.

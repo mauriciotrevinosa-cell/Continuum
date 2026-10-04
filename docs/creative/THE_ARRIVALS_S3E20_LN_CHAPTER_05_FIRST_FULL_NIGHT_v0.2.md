@@ -44,15 +44,17 @@ Anko writing at one end of the common room while Nazuna slept across two chairs 
 
 Seiko drinking something hot beside Frieren and criticizing the night route markers without once using the word "grandchildren."
 
+Yuta and Maki on the half-built step outside, not talking, watching the dark as if it owed them something.
+
+Himmel at the window that faced the road.
+
+Karane announcing through a wall that Hakari's snoring was structural, and Hakari announcing back that Karane's complaining was load-bearing.
+
 Milim being told to stop training.
 
 Again.
 
 Fern finding Wakana.
-
-"Wakana."
-
-Fern finding him.
 
 "Wakana."
 
@@ -143,8 +145,6 @@ Seiko had left one cup beside the door for whoever took next watch.
 Momo had covered the last plate of food.
 
 The room looked less like a camp and more like people had expected one another to come back.
-
-Ori was drinking something warm.
 
 Ori drinking something warm.
 

@@ -253,8 +253,6 @@ Frieren did not answer.
 
 Rimuru saw her face.
 
-Rimuru saw her face.
-
 "What did he take?"
 
 "Water. Coat. Watch."

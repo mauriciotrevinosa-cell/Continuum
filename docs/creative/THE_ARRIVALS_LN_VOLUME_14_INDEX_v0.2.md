@@ -4,7 +4,7 @@
 **Volume:** 14  
 **Season:** 3  
 **Volume title:** **The Move**  
-**Chapter count:** 25  
+**Chapter count:** 26  
 **Supersedes:** Volume 14 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
@@ -33,7 +33,8 @@
 | 22 | Back to the Inn |
 | 23 | What Stays |
 | 24 | The Word Home |
-| 25 | Still Not Finished |
+| 25 | Somewhere for It to Grow |
+| 26 | Still Not Finished |
 
 ## Creator-revision lock — 2026-10-04
 

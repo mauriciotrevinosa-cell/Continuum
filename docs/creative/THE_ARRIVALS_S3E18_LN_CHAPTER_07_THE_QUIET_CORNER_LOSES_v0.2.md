@@ -71,6 +71,32 @@ Aira put hers near an exterior route.
 
 Mikasa chose a room with two useful exits.
 
+Yuta did not make a speech about it.
+
+He put his marker directly across the corridor from theirs, looked at it once, and went back to measuring a doorway.
+
+"Corridor's too narrow there," Rimuru said.
+
+"Then widen it," Yuta said, without looking up.
+
+Rimuru widened it on the plan.
+
+Then, after a moment, he set his own marker on the far side of the same turn in the hall, so that the three rooms made a small, careful triangle around one corner.
+
+Nobody commented on the shape.
+
+Several people noticed it.
+
+Maki put hers beside Yuta's and said it was for the light.
+
+Stark put his beside Fern's.
+
+Fern pretended not to notice, with great concentration.
+
+Himmel asked for the room facing the road, so he could see who was coming.
+
+Hakari, Karane, Shizuka and Nano claimed four rooms in a row in the same instant and then spent twenty minutes arguing about the order.
+
 Different reasons.
 
 Same growing problem.

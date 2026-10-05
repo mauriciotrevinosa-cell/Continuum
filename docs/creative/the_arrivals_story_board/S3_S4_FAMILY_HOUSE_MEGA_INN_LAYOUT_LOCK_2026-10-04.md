@@ -127,6 +127,8 @@ This physical distinction supports Ring Three autonomy.
 
 ## 3. Conceptual top-down arrangement
 
+> **Superseded in detail by §10 (creator pass, 2026-10-05).** The orientation rules below still hold. The room positions now follow §10.
+
 Not exact scale. Not a final blueprint.
 
 ```text
@@ -234,3 +236,55 @@ Future concept art / diagrams should ideally show four stages:
 4. **S4 Mega-Inn Direction** — larger connected family-house with courtyards and attached specialist spaces, still organic rather than palace-like.
 
 The art must not depict S3 as a finished fantasy city.
+
+---
+
+## 10. Creator layout pass — 2026-10-05: the Muslin, then the real house
+
+Creator direction while reading V14. The temporary cluster is a **mock-up of the real house**. Everything sits at ground level so it is easy to change. People live in it, it shows where it doesn't fit, and it gets altered. The real house is drawn from that evidence at the end of S3 and built in S4.
+
+### 10.1 The Muslin (S3)
+- Wakana names it ("you sew it in cheap cloth first, see where it pulls, then cut the real thing"). Marin insists on "toile". "The Muslin" is the name that sticks (V14 "Finished Means What?").
+- One floor. Inside walls are boards slotted between posts and can be lifted out in an afternoon. The first long shell is roofed. The second section is raised in **ten days** after the planning chapters (time bridge at the start of "First Wagon"). "Mid-Sentence" happens during those ten days.
+- Wakana marks problems with chalk "hooks" on a board in the common room. The board is the season's running record of what doesn't fit.
+
+### 10.2 How it evolves (in reading order)
+| Where | Change |
+|---|---|
+| V14 "The Quiet Corner Loses" | Markers: Maki writes her name under Yuta's (one room). Richeh and Tetia join Coco, and the three put Agott's marker on theirs: "We'll put you up a curtain." Qifrey sits between his students and Mau. Milim's marker goes on Rimuru's ("Where Rimuru sleeps, I sleep"). Diablo claims the corridor. Mau leaves the **narrow room at the turn** unmarked for Rem. |
+| V14 "Where It Pulls" | First fitting, forty hooks. The kitchen can't be heard from the east end, so Yuta and Maki miss dinner. Ori is 41 steps away instead of 12 because of the mud. Umaru: "UMARU CANNOT REACH MAU. THIS IS WAR." Rimuru can't sleep. Bocchi is the only room with no hook. Tetia's green curtain with silver stars goes up, and Agott opens it a hand's width at night. Ori to Mau about Rem: "Don't ask her. Let her say yes for herself." |
+| V15 "Alterations" | Kitchen bell plus a relay bell. Senku's clay speaking tube doesn't work, except that Bocchi likes hearing Momo hum through it. Boardwalk across the courtyard. **Ori moves into the bay beside Mau and Frieren**, after Frieren tells her forty-one steps "was always too many". Milim leaves Rimuru's room for the **end bay** sharing a wall with Mau and Frieren, which Umaru had chalked as provisional. |
+| V15 "The War for the End Bay" | Propaganda, a cushion-fort toll blockade, then Fern's diplomacy. A best-of-seven duel at Umaru's game, which Umaru wins 4–3. She **gives the room to Milim** on conditions: weekly games, the fort becomes a monument, and **Umaru's Door** (eleven steps across the boardwalk). |
+| V15 "A Small Library" | Mau and Frieren's room is let out east with a library bay, a closet and a reading chair Mau said no to. The closet blocks the treaty boardwalk ("TREATY VIOLATION"), so it is turned a quarter into the inner corner. **The old shelf stays where it was, still disputed.** |
+| V15 "Where Rimuru Sleeps" | Rimuru sleep-travels to the one room nobody knocks on after dark (Fern's rule), and is found asleep as a slime on Frieren's stomach. Wakana builds a **loft over the closet** ("Small apartments had them"). Rimuru keeps his own room as a daytime office, with Diablo "promoted" to guarding it by day. |
+| V15 "Anko Wants One Too" | Nazuna gets a high **loft behind a triple-lined black curtain**, with Anko's bed below, "always in the same room". Hakari, Karane, Shizuka and Nano's four rooms become **one room with five beds**, Kusuri included. Her chemistry stays at Maomao's bench. |
+| V16 "The Ink Budget" | Witch Hat ink is counted. Only the **shadowless glyph light** over the four scratches is approved, and the common-room lamps go out. The seed has sprouted. Senku and Coco stake its future root circle: **nothing is ever built inside it.** Frieren: "I can wait a hundred years." |
+| V16 "Suika Has Too Many Sisters" | **Suika moves in with Umaru**, who wants to try being the big sister. Senku: "Go. Take the good blanket." |
+| V16 "Pencil" | Rem writes her own name on the narrow room at the turn, in pencil. |
+| V18 "Cut the Real Cloth" | The real house is drawn (§10.3). It is **not built in S3.** |
+
+### 10.3 The real house (drawn V18, built S4+)
+- **Two floors.** Downstairs: common room, kitchen with bell and speaking tube built in, dining, music room, atelier, Wakana's workshop at the noisy end, and Maomao's medical room at the far end from the kitchen. Upstairs: bedrooms in **group sections**. Walls between people who want to be together are designed to come out. Walls for quiet are thick.
+- **East section.** Mau and Frieren at the east end: east window, built-in library bay, reading chair, inner-corner closet with Rimuru's loft above. Ori through one wall. Bocchi through the other, with a private stair down to the music room. Milim at the end, with a window toward Rimuru's office. Yuta and Maki across the corridor. **The shelf is not drawn:** "We'll argue about it when there's a wall to put it against."
+- **Other rooms.**
+  - The big room for the five, with one thick outer wall.
+  - The Witch Hat room with a built-in alcove for Agott, which has a door and the star curtain.
+  - Qifrey, measured exactly between his students and the east section.
+  - Umaru and Suika next to the Witch Hat room, with **Umaru's Door, Mark Two**: a covered landing bridge, eleven steps.
+  - Anko and Nazuna on the dark north side, with the high loft.
+  - Fern at the top of the main stair, with Stark beside her.
+  - Himmel facing the road.
+  - Mikasa with two exits.
+  - Senku beside his downstairs workroom, with a door Fern can lock from outside.
+  - **REM at the turn, in pencil.**
+  - **One unnamed room**, added by Mau, for "somebody who arrives and doesn't stay a stranger". It is distinct from Arrival House, which stays for strangers.
+- **Cellar = maintenance floor** under the whole house: every pipe, drain, glyph line and beam stays walkable and checkable. Aira: "Nothing goes under this house that we can't walk to." This is a direct response to the suppression device under the central refuge.
+- **Two exits under every section** (Mikasa). Each section has a stair down to the cellar, and from the cellar one tunnel runs toward the refuge and one away from it. Eren: "You're building exits before you've built rooms." / "Good."
+- **The house goes around the tree's root circle**, not on it.
+- **Growth.** The east end has room to extend, and a dotted third storey is marked "Someday." / "Not yet."
+
+### 10.4 Rules carried forward
+- Rooms come in group sections, and walls come out for people who choose each other.
+- Nobody knocks on Mau and Frieren's door after dark unless something is on fire or someone is dying (Fern's rule). That is why Rimuru sleeps there.
+- Arrival House stays outside the family core. The unnamed family room is not intake.
+- The shelf's placement is never resolved.

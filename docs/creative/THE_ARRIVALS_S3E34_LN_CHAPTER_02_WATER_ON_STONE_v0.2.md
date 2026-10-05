@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 18 — Water on Stone
+## Chapter 19 — Water on Stone
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 18  
+**Reading order:** 19  
 **Continuity state:** Ordinary day | Coco teaches Frieren | Frieren mirrors Mau's care for Coco
 
 The invitation came at breakfast, and it was not for Mau.

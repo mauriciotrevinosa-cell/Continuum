@@ -4,7 +4,7 @@
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  
-**Chapter count:** 35
+**Chapter count:** 37
 
 | # | Chapter |
 |---:|---|
@@ -18,31 +18,33 @@
 | 8 | Tear It Out |
 | 9 | Water Is Public |
 | 10 | Clean Water, Dirty Water |
-| 11 | A Spell You Can Repair |
-| 12 | Maomao Says No |
-| 13 | Roads Are Not Sacred |
-| 14 | The Washing Court |
-| 15 | Culture Happens While No One Is Looking |
-| 16 | The Bridge Opens |
-| 17 | Arrival House Gets Walls |
-| 18 | Water on Stone |
-| 19 | Construction Is Not Engineering |
-| 20 | Ciel Doesn't Sleep |
-| 21 | Maomao, Senku and Kusuri Agree Too Much |
-| 22 | Teach Someone Else |
-| 23 | The Old Inn Has Guests |
-| 24 | Not One Reason |
-| 25 | Suika Has Too Many Sisters |
-| 26 | Diablo Does Not Need an Order |
-| 27 | Milim Wants Both Brothers |
-| 28 | Karane Has Given Up on Logic |
-| 29 | Senku Gets Faster |
-| 30 | The First Thing Built for Peace |
-| 31 | One Question |
-| 32 | The Message at Dinner |
-| 33 | A City Before a Name |
-| 34 | Okarun Comes Looking for Mau |
-| 35 | Carry Half |
+| 11 | The Ink Budget |
+| 12 | A Spell You Can Repair |
+| 13 | Maomao Says No |
+| 14 | Roads Are Not Sacred |
+| 15 | The Washing Court |
+| 16 | Culture Happens While No One Is Looking |
+| 17 | The Bridge Opens |
+| 18 | Arrival House Gets Walls |
+| 19 | Water on Stone |
+| 20 | Construction Is Not Engineering |
+| 21 | Ciel Doesn't Sleep |
+| 22 | Maomao, Senku and Kusuri Agree Too Much |
+| 23 | Teach Someone Else |
+| 24 | The Old Inn Has Guests |
+| 25 | Not One Reason |
+| 26 | Pencil |
+| 27 | Suika Has Too Many Sisters |
+| 28 | Diablo Does Not Need an Order |
+| 29 | Milim Wants Both Brothers |
+| 30 | Karane Has Given Up on Logic |
+| 31 | Senku Gets Faster |
+| 32 | The First Thing Built for Peace |
+| 33 | One Question |
+| 34 | The Message at Dinner |
+| 35 | A City Before a Name |
+| 36 | Okarun Comes Looking for Mau |
+| 37 | Carry Half |
 
 ## Creator-revision relationship expansion — 2026-10-04
 

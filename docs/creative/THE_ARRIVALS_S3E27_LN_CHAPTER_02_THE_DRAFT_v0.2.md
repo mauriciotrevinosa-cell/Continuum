@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 32 — The Draft
+## Chapter 37 — The Draft
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 32
+**Reading order:** 37
 
 The first complete draft was terrible.
 

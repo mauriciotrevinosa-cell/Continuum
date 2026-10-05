@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 30 — The First Thing Built for Peace
+## Chapter 32 — The First Thing Built for Peace
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 30
+**Reading order:** 32
 
 Most early construction existed because something bad could happen.
 

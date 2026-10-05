@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 17 — Searchers Get a Name
+## Chapter 22 — Searchers Get a Name
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 17  
+**Reading order:** 22  
 **Continuity state:** Proto-search work becomes explicit social function
 
 The Searchers existed before the name.

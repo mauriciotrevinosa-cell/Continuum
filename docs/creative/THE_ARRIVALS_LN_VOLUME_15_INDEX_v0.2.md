@@ -4,7 +4,7 @@
 **Volume:** 15  
 **Season:** 3  
 **Volume title:** **People Who Heard About Us**  
-**Chapter count:** 37  
+**Chapter count:** 42  
 **Supersedes:** Volume 15 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
@@ -12,40 +12,45 @@
 | 1 | Three Ordinary Weeks |
 | 2 | Marin Cancels Construction |
 | 3 | Breakfast Comes in Waves |
-| 4 | Seiko and Frieren Judge Everyone |
-| 5 | Nazuna Misses the Day |
-| 6 | The Appointment |
-| 7 | One Door at a Time |
-| 8 | Flowers, Again |
-| 9 | The Seating Chart Dies |
-| 10 | Rem Has Two Cups |
-| 11 | The Day We Picked |
-| 12 | One Song |
-| 13 | I Heard About You |
-| 14 | Name, World, Need |
-| 15 | Not Everyone Can Stay Today |
-| 16 | The Table Gets a Roof |
-| 17 | Searchers Get a Name |
-| 18 | The First Holding Site |
-| 19 | Searchers Without Mau |
-| 20 | Richeh Stays a Guest |
-| 21 | Tetia Wants to See Everything |
-| 22 | The Rumor Changes |
-| 23 | The Road Gets Worse |
-| 24 | The Other Camp |
-| 25 | We Survived by Staying Small |
-| 26 | Not Our City |
-| 27 | The People Who Cannot Fight |
-| 28 | Three Nights Become a Week |
-| 29 | Whose Turn |
-| 30 | Too Few Beds Again |
-| 31 | Who Are We Speaking For? |
-| 32 | The Draft |
-| 33 | The Message |
-| 34 | The First Reply |
-| 35 | The Safe Corridor |
-| 36 | The Message Comes Back Wrong |
-| 37 | The Rumor Reaches Sukuna |
+| 4 | Alterations |
+| 5 | The War for the End Bay |
+| 6 | Seiko and Frieren Judge Everyone |
+| 7 | A Small Library |
+| 8 | Where Rimuru Sleeps |
+| 9 | Nazuna Misses the Day |
+| 10 | Anko Wants One Too |
+| 11 | The Appointment |
+| 12 | One Door at a Time |
+| 13 | Flowers, Again |
+| 14 | The Seating Chart Dies |
+| 15 | Rem Has Two Cups |
+| 16 | The Day We Picked |
+| 17 | One Song |
+| 18 | I Heard About You |
+| 19 | Name, World, Need |
+| 20 | Not Everyone Can Stay Today |
+| 21 | The Table Gets a Roof |
+| 22 | Searchers Get a Name |
+| 23 | The First Holding Site |
+| 24 | Searchers Without Mau |
+| 25 | Richeh Stays a Guest |
+| 26 | Tetia Wants to See Everything |
+| 27 | The Rumor Changes |
+| 28 | The Road Gets Worse |
+| 29 | The Other Camp |
+| 30 | We Survived by Staying Small |
+| 31 | Not Our City |
+| 32 | The People Who Cannot Fight |
+| 33 | Three Nights Become a Week |
+| 34 | Whose Turn |
+| 35 | Too Few Beds Again |
+| 36 | Who Are We Speaking For? |
+| 37 | The Draft |
+| 38 | The Message |
+| 39 | The First Reply |
+| 40 | The Safe Corridor |
+| 41 | The Message Comes Back Wrong |
+| 42 | The Rumor Reaches Sukuna |
 
 ## Creator-revision expansion — 2026-10-04
 

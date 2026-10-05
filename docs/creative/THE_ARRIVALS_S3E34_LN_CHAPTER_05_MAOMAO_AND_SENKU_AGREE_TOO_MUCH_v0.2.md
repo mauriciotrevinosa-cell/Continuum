@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 21 — Maomao, Senku and Kusuri Agree Too Much
+## Chapter 22 — Maomao, Senku and Kusuri Agree Too Much
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 21
+**Reading order:** 22
 
 The problem began when Kusuri found a jar beside the grain.
 

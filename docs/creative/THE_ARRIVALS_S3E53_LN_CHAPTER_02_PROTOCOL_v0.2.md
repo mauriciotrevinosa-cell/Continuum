@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 26 — Protocol
+## Chapter 27 — Protocol
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 26  
+**Reading order:** 27  
 **Continuity state:** Noise overload active | Protocol adapted from Memory crisis without assuming same cause
 
 Protocol meant sequence.

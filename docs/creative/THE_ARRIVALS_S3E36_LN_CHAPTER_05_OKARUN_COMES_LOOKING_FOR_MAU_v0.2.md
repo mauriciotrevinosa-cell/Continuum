@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 34 — Okarun Comes Looking for Mau
+## Chapter 36 — Okarun Comes Looking for Mau
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
-**Reading order:** 34  
+**Reading order:** 36  
 **Continuity state:** Post-infrastructure push | Okarun/Mau friendship exists independently of Momo
 
 Okarun came looking for Mau.

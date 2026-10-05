@@ -4,7 +4,7 @@
 **Volume:** 14  
 **Season:** 3  
 **Volume title:** **The Move**  
-**Chapter count:** 34  
+**Chapter count:** 35  
 **Supersedes:** Volume 14 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
@@ -13,17 +13,17 @@
 | 2 | What It Made |
 | 3 | Two Hands Full |
 | 4 | Ceiling |
-| 5 | Mid-Sentence |
-| 6 | Finished Means What? |
-| 7 | Who Moves First? |
-| 8 | The Backpack |
-| 9 | Every Variable |
-| 10 | Bocchi's Room |
-| 11 | Wakana's Workshop |
-| 12 | Maomao Doesn't Care About the View |
-| 13 | The Quiet Corner Loses |
-| 14 | Turn the Building |
-| 15 | One House, Too Many Doors |
+| 5 | Finished Means What? |
+| 6 | Who Moves First? |
+| 7 | The Backpack |
+| 8 | Every Variable |
+| 9 | Bocchi's Room |
+| 10 | Wakana's Workshop |
+| 11 | Maomao Doesn't Care About the View |
+| 12 | The Quiet Corner Loses |
+| 13 | Turn the Building |
+| 14 | One House, Too Many Doors |
+| 15 | Mid-Sentence |
 | 16 | First Wagon |
 | 17 | Two Homes at Once |
 | 18 | First Night |
@@ -33,16 +33,17 @@
 | 22 | The Bathroom Problem Starts Early |
 | 23 | Frieren Has Opinions |
 | 24 | Rem Decides Later |
-| 25 | Third Wave |
-| 26 | First Full Night |
-| 27 | Don't Name It |
-| 28 | Rimuru's Left Hand |
-| 29 | The Common Room Refuses to Empty |
-| 30 | Back to the Inn |
-| 31 | What Stays |
-| 32 | The Word Home |
-| 33 | Somewhere for It to Grow |
-| 34 | Still Not Finished |
+| 25 | Where It Pulls |
+| 26 | Third Wave |
+| 27 | First Full Night |
+| 28 | Don't Name It |
+| 29 | Rimuru's Left Hand |
+| 30 | The Common Room Refuses to Empty |
+| 31 | Back to the Inn |
+| 32 | What Stays |
+| 33 | The Word Home |
+| 34 | Somewhere for It to Grow |
+| 35 | Still Not Finished |
 
 ## Creator-revision lock — 2026-10-04
 

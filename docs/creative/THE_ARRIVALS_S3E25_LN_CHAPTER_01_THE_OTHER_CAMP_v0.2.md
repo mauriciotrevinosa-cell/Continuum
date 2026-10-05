@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 24 — The Other Camp
+## Chapter 29 — The Other Camp
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 24  
+**Reading order:** 29  
 **Continuity state:** Main settlement inhabited | Second Otherworlder community discovered | No forced merger
 
 The other community did not look like competition.

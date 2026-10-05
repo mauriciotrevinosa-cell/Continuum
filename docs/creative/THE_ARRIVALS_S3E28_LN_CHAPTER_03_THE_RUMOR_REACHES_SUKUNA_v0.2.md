@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 37 — The Rumor Reaches Sukuna
+## Chapter 42 — The Rumor Reaches Sukuna
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 15  
-**Reading order:** 37  
+**Reading order:** 42  
 **Continuity state:** Parallel hostile-world interlude | Sukuna remains active while anti-Otherworlder narratives harden
 
 Sukuna heard about the settlement from a frightened man.

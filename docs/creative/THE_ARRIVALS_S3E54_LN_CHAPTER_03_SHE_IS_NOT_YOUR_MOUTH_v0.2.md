@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 31 — She Is Not Your Mouth
+## Chapter 32 — She Is Not Your Mouth
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 31  
+**Reading order:** 32  
 **Continuity state:** Day after first intrusion | Second anomaly addresses Ori directly | Ori asserts independence | Trial has not begun
 
 They moved dinner the next day.

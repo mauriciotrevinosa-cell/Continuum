@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 33 — Somewhere for It to Grow
+## Chapter 34 — Somewhere for It to Grow
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 33  
+**Reading order:** 34  
 **Continuity state:** End of Move Week 1 | Settlement is home in daily language | Witch Hat seed from S2E20 planted at Coco's first-day garden stake
 
 Qifrey kept it in the last case he owned that still held any ink.

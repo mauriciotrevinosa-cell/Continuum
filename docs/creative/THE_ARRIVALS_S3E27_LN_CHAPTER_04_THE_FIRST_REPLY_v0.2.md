@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 34 — The First Reply
+## Chapter 39 — The First Reply
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 34
+**Reading order:** 39
 
 The first reply arrived two days later.
 

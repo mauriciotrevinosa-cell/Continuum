@@ -4,7 +4,7 @@
 **Volume:** 18  
 **Season:** 3  
 **Volume title:** **Last Defense**  
-**Chapter count:** 31
+**Chapter count:** 32
 
 | # | Chapter |
 |---:|---|
@@ -32,13 +32,14 @@
 | 22 | Leadership After the Front |
 | 23 | The Device Came With Building Material |
 | 24 | Who Watered It |
-| 25 | Threshold |
-| 26 | Protocol |
-| 27 | Kaneki Knows This Part |
-| 28 | Ori Knows Where the Door Is |
-| 29 | It Passes |
-| 30 | The Voice Around Ori |
-| 31 | She Is Not Your Mouth |
+| 25 | Cut the Real Cloth |
+| 26 | Threshold |
+| 27 | Protocol |
+| 28 | Kaneki Knows This Part |
+| 29 | Ori Knows Where the Door Is |
+| 30 | It Passes |
+| 31 | The Voice Around Ori |
+| 32 | She Is Not Your Mouth |
 
 ## Creator-revision enemy-pressure expansion — 2026-10-04
 

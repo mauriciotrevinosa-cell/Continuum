@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 19 — Construction Is Not Engineering
+## Chapter 20 — Construction Is Not Engineering
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 19
+**Reading order:** 20
 
 Senku hated Mau's Construction ability for twelve minutes.
 

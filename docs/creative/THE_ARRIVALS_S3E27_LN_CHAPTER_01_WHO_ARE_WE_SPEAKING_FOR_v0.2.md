@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 31 — Who Are We Speaking For?
+## Chapter 36 — Who Are We Speaking For?
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 31  
+**Reading order:** 36  
 **Continuity state:** Refuge pressure high | Main settlement, second community and native partners consider public response
 
 The idea of a public statement came from a native merchant.

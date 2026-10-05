@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 19 — Searchers Without Mau
+## Chapter 24 — Searchers Without Mau
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 19  
+**Reading order:** 24  
 **Continuity state:** Searchers operate independently | Mau physically capable but deliberately stays home
 
 Mau spent the next Searcher mission fixing a shelf.

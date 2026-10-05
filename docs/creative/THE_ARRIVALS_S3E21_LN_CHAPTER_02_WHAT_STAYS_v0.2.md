@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 31 — What Stays
+## Chapter 32 — What Stays
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 31  
+**Reading order:** 32  
 **Continuity state:** Move Day 5 | Old inn preservation becomes practical policy
 
 They made the list at the old table.

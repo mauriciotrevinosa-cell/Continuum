@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 29 — It Passes
+## Chapter 30 — It Passes
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 29  
+**Reading order:** 30  
 **Continuity state:** Noise overload resolves after eleven hours | No containment, disappearance or memory collapse | Protocol updated from lived evidence
 
 Eleven hours.

@@ -6,7 +6,13 @@
 **Reading order:** 16  
 **Continuity state:** Move Day 1 | First staged cargo run | Old inn remains occupied
 
-The first wagon carried almost no people.
+It took ten days to raise the Muslin's second section.
+
+Posts. Roof. Floor. Boards slotted between the posts that lifted out again if someone changed their mind, which someone did, daily. Rimuru did most of the lifting. Diablo did the rest and insisted it had been Rimuru. Wakana walked every room with a chalk line and a face that said he already knew where it would pull.
+
+On the eleventh morning, the first wagon left the old inn.
+
+It carried almost no people.
 
 That made it feel more important.
 

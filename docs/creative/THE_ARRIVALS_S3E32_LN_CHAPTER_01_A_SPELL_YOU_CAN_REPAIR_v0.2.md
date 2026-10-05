@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 11 — A Spell You Can Repair
+## Chapter 12 — A Spell You Can Repair
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 11
+**Reading order:** 12
 
 Coco created a beautiful circle.
 

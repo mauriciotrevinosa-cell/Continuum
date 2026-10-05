@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 20 — Richeh Stays a Guest
+## Chapter 25 — Richeh Stays a Guest
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 20  
+**Reading order:** 25  
 **Continuity state:** Post-G5 / post-Move | Richeh and Tetia already present since V11 | Arrival House provisional | Independent housing choices remain open
 
 Richeh had been in Continuum long enough to stop being new.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 30 — Back to the Inn
+## Chapter 31 — Back to the Inn
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 30  
+**Reading order:** 31  
 **Continuity state:** Move Day 5 | First deliberate return trip after majority move
 
 Mau returned to the inn the next morning.

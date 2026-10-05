@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 28 — Three Nights Become a Week
+## Chapter 33 — Three Nights Become a Week
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 28
+**Reading order:** 33
 
 The road did not reopen.
 

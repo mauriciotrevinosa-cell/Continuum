@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 15 — Culture Happens While No One Is Looking
+## Chapter 16 — Culture Happens While No One Is Looking
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 15
+**Reading order:** 16
 
 Nobody scheduled culture.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 31 — One Question
+## Chapter 33 — One Question
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 31  
+**Reading order:** 33  
 **Continuity state:** Ordinary evenings | Kita and Kessoku | Mau checks an old memory against someone else's
 
 Kita found Mau on the bench by the water court, which was where people found Mau now when they wanted him without an audience.

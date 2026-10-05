@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 20 — Ciel Doesn't Sleep
+## Chapter 21 — Ciel Doesn't Sleep
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 20  
+**Reading order:** 21  
 **Continuity state:** Ordinary night | Mau shows Ciel the house, by request, under rule four
 
 Mau was awake at three in the morning for no reason at all.
@@ -78,7 +78,9 @@ Momo is correct.
 
 "This is the common room."
 
-He stood in the doorway and let her see it. The couch Wakana had rebuilt. The long table, which was not the long table, and which everyone was still a little rude to because of it. The lamps, five of them now, one in every corner and one on the table, all turned low and all burning, so that even at three in the morning the shadows in that room were short.
+He stood in the doorway and let her see it. The couch Wakana had rebuilt. The long table, which was not the long table, and which everyone was still a little rude to because of it. The lamps were out. They had been out at night since Coco climbed Wakana's ladder. Above the middle of the room, her circle glowed on the ceiling, soft and even, a light that came from everywhere at once, so that even at three in the morning nobody standing under it had a shadow at all.
+
+Witch Hat work, said Ciel, with something like respect. Expensive.
 
 The four scratches in the floor under their clear coat of varnish.
 

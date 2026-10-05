@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 28 — Kaneki Doesn't Flinch
+## Chapter 35 — Kaneki Doesn't Flinch
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 13  
-**Reading order:** 28  
-**Continuity state:** Day 24–25 | Kaneki/Mau relationship moves from rescue witness toward older-brother-like family trust
+**Reading order:** 35  
+**Continuity state:** Day 26–27 | Kaneki/Mau relationship moves from rescue witness toward older-brother-like family trust
 
 Mau found Kaneki in the kitchen after midnight.
 
@@ -172,6 +172,50 @@ There.
 The same thing Kaneki had understood when Mau looked less human and more dangerous.
 
 Monstrous was not the same as no longer Mau.
+
+Then the pressure under his shoulder blade came back, and with it, heat behind his left eye.
+
+Mau felt it open.
+
+He turned his head away and pulled his hair down over it, fast, the way he had been doing for a week.
+
+Kaneki watched him do it.
+
+He did not say anything for a moment.
+
+Then:
+
+"Left."
+
+Mau stopped.
+
+"Same as mine," said Kaneki.
+
+Mau looked at him.
+
+Slowly, he let the hair fall back.
+
+Kaneki looked at the eye.
+
+Black where it should be white. Red at the center.
+
+He did not flinch.
+
+"Does it ever stop feeling like it belongs to someone else?" Mau asked.
+
+Kaneki thought about it honestly.
+
+"Some days," he said. "Some days it's just my eye."
+
+"And the other days?"
+
+"The other days I cover it too." Kaneki shrugged. "You're allowed to."
+
+The eye faded.
+
+Mau left his hair where it was anyway.
+
+Kaneki did not comment on that either.
 
 Mau rubbed his thumb against the edge of the table.
 

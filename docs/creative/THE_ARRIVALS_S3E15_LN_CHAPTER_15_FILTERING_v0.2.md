@@ -1,18 +1,20 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 16 — Filtering
+## Chapter 21 — Filtering
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 16  
-**Continuity state:** Containment, hours 2–8 | Raphael stabilizes interactions without curing or adjudicating memory truth
+**Reading order:** 21  
+**Continuity state:** Night of Day 18 — Day 19 | Containment continues | Ciel stabilizes interactions and the body without curing or adjudicating memory truth | One physical outlet remains
 
-The first thing Raphael could not do was remove The Noise.
+The first thing Ciel could not do was remove The Noise.
 
-Mau asked directly.
+She had already told him.
+
+Mau asked anyway, because he needed to hear it while he was awake enough to keep it.
 
 "Can you shut it off?"
 
-No known safe method.
+No. I can wall part of it. I cannot shut it off.
 
 Good.
 
@@ -34,7 +36,11 @@ Mau laughed.
 
 "So the useful part is coming later."
 
-Raphael did not respond to sarcasm.
+Ciel, to his surprise, laughed.
+
+Very slightly.
+
+It was the strangest sound he had heard all day, and he had heard a shrine full of teeth.
 
 Then she showed him the smaller thing she could do.
 
@@ -54,7 +60,7 @@ Not one cause.
 
 A loop.
 
-If Raphael reduced interaction among some channels, the overall pressure might fall.
+If Ciel reduced interaction among some channels, the overall pressure might fall.
 
 Mau listened.
 
@@ -118,7 +124,7 @@ More like stopping every card from catching fire when touched.
 
 "Try one."
 
-Raphael selected the smallest active loop.
+Ciel selected the smallest active loop.
 
 Not Frieren.
 
@@ -170,7 +176,7 @@ Rimuru answered:
 
 No single system got to claim success.
 
-Then Raphael found another loop.
+Then Ciel found another loop.
 
 Not memory.
 
@@ -180,7 +186,7 @@ At first Mau thought it was one transformation trying to complete.
 
 That would have been simpler.
 
-Raphael separated the signals.
+Ciel separated the signals.
 
 They did not converge.
 
@@ -242,7 +248,7 @@ Qifrey asked:
 
 "Is that The Noise?"
 
-Raphael could not support that conclusion.
+Ciel could not support that conclusion.
 
 "Is The Noise causing it?"
 
@@ -260,7 +266,7 @@ Inside, Mau asked:
 
 "Can you stop the competition?"
 
-Raphael answered:
+Ciel answered:
 
 Possibly reduce active cross-feedback.
 
@@ -314,7 +320,7 @@ We won't.
 
 "Can we go back toward arrival-state without locking everything else forever?"
 
-Raphael:
+Ciel:
 
 Yes. Future adaptive capacity cannot be guaranteed or excluded.
 
@@ -352,13 +358,111 @@ RCT remained available for local repair.
 
 It was no longer being asked to define the entire body.
 
+Then the filtering stopped working.
+
+Not failed.
+
+Stopped.
+
+The routes went quiet one by one, the way Ciel asked them to, and the pressure along Mau's back eased, and then, at the very end, it would not finish easing.
+
+It pooled.
+
+Behind his eyes.
+
+In his teeth.
+
+In the thin place at the back of his skull where the Noise had always seemed to live.
+
+"Ciel."
+
+I see it.
+
+"What is it?"
+
+Everything the routes were doing tonight had to go somewhere. Most of it I can settle. Not all of it. Your body has learned that it can change. If I close every door, the pressure will build until it opens one by force.
+
+Mau understood before she finished.
+
+"I need a door."
+
+You need a valve. One. Small. Something that can open when the pressure needs to leave and close when it does not.
+
+"Which one?"
+
+The ghoul route.
+
+Mau went still.
+
+It is the only route that already knows how to vent, Ciel said. Kaneki's body has structures that open under strain and close again. Yours copied the idea of them. If I leave that one outlet in place, and only that one, the rest of you can settle around it.
+
+"What does it look like?"
+
+A pause.
+
+An eye.
+
+Outside, Rimuru repeated it.
+
+Kaneki, by the window, turned around very slowly.
+
+"Which eye?"
+
+Rimuru listened.
+
+"Left."
+
+Kaneki closed his own left eye for a moment.
+
+Then opened it.
+
+"Ask her if he's hungry," he said quietly. "Ask her if anything changes about what he needs to eat."
+
+Rimuru asked.
+
+No dietary change. None. The valve is pressure, not appetite.
+
+Kaneki let out a breath so long it seemed to empty him.
+
+"Okay," he said. "Okay. Then it's just an eye."
+
+Inside, Mau was quiet for a long time.
+
+"Will it stay?"
+
+It will open when pressure needs somewhere to go. It will close when it doesn't. At first, often. Later, I hope, rarely.
+
+"Can I say no?"
+
+Yes. If you say no, I will keep every door closed and we will see how long that holds. I would not recommend it. But it is your body.
+
+Mau thought about the field camp.
+
+About his back splitting open while people he loved stared at him.
+
+About a body trying to become five things at once.
+
+One eye.
+
+"Do it," he said.
+
+Ciel did.
+
+He felt it as heat behind his left eye, and then a strange relief, like a breath let out after being held for hours.
+
+Outside, nobody could see it.
+
+He was still inside Rimuru.
+
+But Kaneki, who could not see anything either, looked at the empty bed and put his hand flat against his own left cheekbone, and kept it there.
+
 Hours passed.
 
 Worksite decisions went unanswered.
 
 A delivery arrived and Fern handled it.
 
-G5 ate lunch without Rimuru.
+G5 ate breakfast without Rimuru, and then lunch.
 
 Downstairs, the house did what it had learned to do.
 
@@ -376,15 +480,13 @@ Seiko carried a tray of tea up as far as the landing, set it down outside the do
 
 Nobody asked how long it would take.
 
-Milim tried to enter the room once.
+Milim did not try to enter the room again.
 
-Diablo stopped her.
+She sat outside the door beside Diablo, against the splintered frame, and for once neither of them said anything at all.
 
-That produced an argument loud enough that Frieren threatened both.
+The witches, who had not left the yard in two days, were allowed upstairs in the afternoon, under the agreement.
 
-The witches arrived in the afternoon under the agreement.
-
-They were not allowed near the bed until Frieren and Qifrey were satisfied they understood the current rules.
+They were not allowed near Rimuru until Frieren and Qifrey were satisfied they understood the current rules.
 
 One listened to Rimuru's description.
 
@@ -416,9 +518,11 @@ Hours.
 
 The pressure in his back eased.
 
-The biological manifestation did not surface again during that period.
+The back did not surface again during that period.
 
-Raphael noted correlation.
+The eye opened twice more, and closed.
+
+Ciel noted correlation.
 
 Not cure.
 
@@ -452,7 +556,7 @@ It gave him room to think.
 
 He cried.
 
-Raphael paused observation.
+Ciel paused observation.
 
 Not because tears were system failure.
 

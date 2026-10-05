@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 34 — Coco Schedules a Memory
+## Chapter 41 — Coco Schedules a Memory
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 13  
-**Reading order:** 34  
+**Reading order:** 41  
 **Continuity state:** Post-Memory recovery | Witch Hat circle creates deliberate ordinary time with Mau
 
 Coco arrived with a schedule.

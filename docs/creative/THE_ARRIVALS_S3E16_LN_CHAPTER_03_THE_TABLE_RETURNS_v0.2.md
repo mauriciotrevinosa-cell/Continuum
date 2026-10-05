@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 19 — The Table Returns
+## Chapter 26 — The Table Returns
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 19  
-**Continuity state:** Day 19–20 | Collaborative reconstruction begins | Old inn table becomes evidence space
+**Reading order:** 26  
+**Continuity state:** Day 21–22 | Collaborative reconstruction begins | Old inn table becomes evidence space
 
 The dining table became evidence again.
 
@@ -16,7 +16,7 @@ Mau brought down the notebook.
 
 Frieren brought old notes.
 
-Rimuru brought dated records.
+Rimuru brought dated records, carrying them in two hands again. The left one was new enough that he kept flexing it when he thought nobody was looking.
 
 Then the table stopped being a table.
 
@@ -258,8 +258,8 @@ seam observations.
 
 No final verdicts.
 
-Raphael:
-only what containment allowed her to observe.
+Ciel:
+only what containment allowed her to observe, and the guardrails she now kept.
 
 No TRUE/FALSE scanner.
 

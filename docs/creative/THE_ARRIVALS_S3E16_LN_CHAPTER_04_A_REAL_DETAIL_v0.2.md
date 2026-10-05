@@ -1,16 +1,16 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 20 — A Real Detail
+## Chapter 27 — A Real Detail
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 20  
-**Continuity state:** Day 20 | First internally supplied mundane detail confirms shared memory
+**Reading order:** 27  
+**Continuity state:** Day 22 | First internally supplied mundane detail confirms shared memory
 
 The first real hope came from bad bread.
 
 Not magic.
 
-Not Raphael.
+Not Ciel.
 
 Bread.
 

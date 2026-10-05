@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 29 — Aira Is Definitely Not Family
+## Chapter 36 — Aira Is Definitely Not Family
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 13  
-**Reading order:** 29  
-**Continuity state:** Day 25 | Aira reconnects with Momo/Okarun and begins protector/family integration without admitting it
+**Reading order:** 36  
+**Continuity state:** Day 27 | Aira reconnects with Momo/Okarun and begins protector/family integration without admitting it
 
 Aira was definitely not family.
 

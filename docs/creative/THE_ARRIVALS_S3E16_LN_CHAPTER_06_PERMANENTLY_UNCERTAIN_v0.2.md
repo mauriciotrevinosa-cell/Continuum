@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 22 — Permanently Uncertain
+## Chapter 29 — Permanently Uncertain
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 22  
-**Continuity state:** Day 21 | Reconstruction reaches its epistemic limit
+**Reading order:** 29  
+**Continuity state:** Day 23 | Reconstruction reaches its epistemic limit
 
 The uncertain pile became larger than every other category combined.
 
@@ -108,7 +108,7 @@ All could coexist.
 
 The impossible part was wanting one test that separated them.
 
-Raphael could not.
+Ciel could not.
 
 Witches could not.
 

@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 23 — Visiting Hours
+## Chapter 30 — Visiting Hours
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 23  
-**Continuity state:** Day 21 | Mau's mind clearer than his body | Visitors one at a time | Old inn
+**Reading order:** 30  
+**Continuity state:** Day 23 | Mau's mind clearer than his body | Visitors one at a time | Old inn
 
 On the twenty-first day Maomao nailed a sheet of paper to Mau's door.
 
@@ -171,6 +171,42 @@ Coco sat on the chair.
 Umaru did not sit on the chair.
 
 Umaru climbed onto the foot of the bed with her blanket and curled up there as if she had always meant to, which made Mau feel something he could not name.
+
+Coco looked at the hair Mau had pulled down over the left side of his face.
+
+She had heard. Everyone had heard.
+
+"Can we see?"
+
+Mau hesitated.
+
+Then, because it was Coco and Umaru and they had sat on the bottom stair for eight hours, he pushed his hair back.
+
+His eye was his own. Brown, tired, a little bloodshot.
+
+Then, under two people looking at it, the edges darkened, and the red came up through the middle, and it was not his own anymore.
+
+Coco stared.
+
+Umaru sat up inside her blanket.
+
+"That," said Umaru, with deep, sincere admiration, "is the coolest thing that has ever happened in this house."
+
+Mau stared at her.
+
+"It's a medical valve."
+
+"It's a cool medical valve."
+
+Coco nodded seriously.
+
+"Very cool," she agreed. "Does it hurt?"
+
+"No."
+
+"Then it's just cool."
+
+The red faded. The black drew back. Mau let his hair fall forward again, slower this time, and found that something in his chest had loosened that he had not noticed was tight.
 
 Coco produced a list.
 

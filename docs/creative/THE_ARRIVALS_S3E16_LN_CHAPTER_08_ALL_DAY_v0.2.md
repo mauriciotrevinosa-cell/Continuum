@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 24 — All Day
+## Chapter 31 — All Day
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 24  
-**Continuity state:** Day 21 — afternoon into evening | Visitors continue | Old inn
+**Reading order:** 31  
+**Continuity state:** Day 23 — afternoon into evening | Visitors continue | Old inn
 
 Stark did not know what to say.
 
@@ -196,7 +196,7 @@ Stark. Fixed the latch.
 
 Seiko. Twice.
 
-Marin and Wakana. Flowers. Coat.
+Marin and Wakana. Flowers. Coat. Something for the eye, in case. Said you could say no.
 
 Mikasa.
 

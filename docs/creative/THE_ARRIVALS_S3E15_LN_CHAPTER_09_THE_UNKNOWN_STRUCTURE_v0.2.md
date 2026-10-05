@@ -134,13 +134,7 @@ Small.
 
 Important.
 
-Inside, the process shifted.
-
-Not because it noticed them.
-
-Raphael could not support intent.
-
-But a sequence became clear enough that Mau felt it before she finished describing it.
+Inside, the four beats Mau had recognized at the start were still running.
 
 Observe.
 
@@ -150,43 +144,11 @@ Understand.
 
 Construct.
 
-Mau went cold.
+Quieter now that Raphael was holding everything else still.
 
-Not words exactly.
+Clearer.
 
-Movement.
-
-Function.
-
-A progression he knew the way a person knew the rhythm of a staircase in the dark.
-
-Raphael paused.
-
-Recognition detected.
-
-Mau laughed once.
-
-"Yeah."
-
-Source?
-
-"I don't know."
-
-He tried.
-
-First days in Continuum.
-
-Seeing magic and understanding pieces too quickly.
-
-Watching cursed techniques and finding structures under them.
-
-Construction arriving not as memorized recipes but as something assembled.
-
-S1.
-
-Raphael's name coming out of his mouth before he understood why he knew it.
-
-Mau's stomach turned.
+Mau watched them for a long time before he asked the question he had not dared to ask the first time.
 
 "Is that you?"
 
@@ -222,63 +184,17 @@ Qifrey asked:
 
 "She can't answer that."
 
-Inside, Mau noticed the familiar background sensation.
-
-Not a voice.
-
-A pressure.
-
-A process.
-
-Something that had always been easier to ignore when it could not be demonstrated.
-
-"The Noise."
-
-Raphael paused.
-
-Clarify designation.
-
-Mau smiled without humor.
-
-"That's what I've called it privately."
-
-Outside, Rimuru repeated:
-
-"He has a name for the sensation."
-
-Frieren turned.
-
-"Since when?"
-
-Rimuru asked.
-
-Mau answered:
-
-"I don't know. Not like a formal name. Just... the noise."
-
-Not diagnosis.
-
-Not lore reveal.
-
-A private label becoming shared because someone else could finally see the edge of the same thing.
-
-Raphael recorded it carefully.
+Raphael had already written down his private word for it.
 
 Working designation: THE NOISE.
 
-Mau objected immediately.
+Mau had objected to the capital letters.
 
-"Working."
+Raphael had not changed them.
 
-Confirmed.
+Mau had decided she had a sense of humor and hated that possibility too.
 
-"Capital letters unnecessary."
-
-No response.
-
-Mau decided Raphael had a sense of humor and hated that possibility too.
-
-Raphael requested deeper observation.
+Raphael requested deeper observation still.
 
 Mau stopped joking.
 

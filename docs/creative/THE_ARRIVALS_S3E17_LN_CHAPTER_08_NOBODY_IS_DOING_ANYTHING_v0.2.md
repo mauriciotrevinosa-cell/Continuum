@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 32 — Nobody Is Doing Anything
+## Chapter 39 — Nobody Is Doing Anything
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 13  
-**Reading order:** 32  
+**Reading order:** 39  
 **Continuity state:** Post-Memory recovery | Move planning exists but is not allowed to consume the household
 
 For once, nobody was doing anything.

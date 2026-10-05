@@ -1,22 +1,22 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 17 — He Comes Out
+## Chapter 24 — He Comes Out
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 17  
-**Continuity state:** Day 18 | Mau exits containment after overnight stabilization | Not cured
+**Reading order:** 24  
+**Continuity state:** Day 20 | Mau exits containment after the night of Day 19 | Not cured | Ciel's seal holds | Left-eye valve | Rimuru's arm regrowing
 
 Mau did not come out because morning arrived.
 
 Morning only gave everyone a clock.
 
-Rimuru had slept badly in the chair.
+Rimuru had come down from the roof at dawn without having slept at all.
 
-Frieren had slept worse beside him.
+Frieren had slept, a little, beside the empty bed, because Ori had made her.
 
 At dawn, Maomao returned with food nobody wanted.
 
-Fern sent a note asking whether anyone upstairs planned to acknowledge the rest of the household still existed.
+Fern sent up breakfast for six and a note that said EAT IT.
 
 Rimuru laughed.
 
@@ -24,7 +24,11 @@ Then winced.
 
 Containment had cost him more than standing still suggested.
 
-Raphael's constant monitoring occupied attention.
+His left sleeve was pinned up.
+
+The arm had come back a little further overnight, past the elbow now, the hand still only an idea at the end of it. Ciel was rebuilding it a little at a time, from nothing, because there was nothing left to rebuild it from.
+
+Holding the seal and the containment at once occupied attention.
 
 The strain was not catastrophic.
 
@@ -59,7 +63,8 @@ He knew:
 - Rimuru;
 - why he had entered containment;
 - that The Noise was only a working name;
-- that Raphael had not fixed him.
+- that Ciel had not fixed him;
+- that seventy things he could not use were sealed somewhere inside him, waiting.
 
 He also remembered a breakfast that had never happened.
 
@@ -75,7 +80,7 @@ Mau asked:
 
 "Can I come out?"
 
-Raphael checked.
+Ciel checked.
 
 Rimuru answered through the connection.
 
@@ -159,9 +164,19 @@ Frieren stopped.
 
 Mau opened his eyes.
 
-Looked at her.
+The left one was wrong.
+
+Black where it should have been white. Red where it should have been brown.
+
+Frieren saw it.
+
+She did not move her hand away.
+
+Mau looked at her.
 
 Recognition.
+
+The black faded from the edges inward as he breathed, and the red went with it, until only his own eye was left, a little bloodshot, looking at her.
 
 "Hi."
 
@@ -255,7 +270,13 @@ Containment had reduced active pressure.
 
 It had also done one narrower physical thing:
 
-Raphael had damped the competing adaptation routes and restored Mau as close as possible to the stable configuration he had arrived with.
+Ciel had damped the competing adaptation routes and restored Mau as close as possible to the stable configuration he had arrived with.
+
+With one exception.
+
+The left eye.
+
+A valve, Ciel called it. The only door left open, so the rest of him could stay shut.
 
 Not "human."
 
@@ -301,95 +322,167 @@ The Noise now existed as a shared working label.
 
 Nothing more.
 
-Frieren looked at Rimuru.
+Then Mau said:
 
-"The body."
+"I need to say something. While I'm clear."
 
-Mau heard the change in her voice.
+The room went still.
 
-Rimuru did too.
+Mau looked at his hands.
 
-"What about it?"
+"Everyone keeps saying false memories," he said. "Like they were dreams. Like they were blurry, or wrong in a way I should have noticed." He shook his head slowly. "They weren't. They weren't dreams. They felt like this." He touched the blanket. "Like you." He looked at Frieren. "Like breakfast. Like Rimuru being annoying. The same weight. The same everything."
 
-"You put him back how he arrived."
+Nobody spoke.
 
-"As close as Raphael could."
+"So I can't tell," said Mau. "From inside. I can't. Not the old ones, not new ones, not anything. If something happens in my head and nobody else was there, I can't trust it." He swallowed. "And my body was trying to become five things at once while I was holding a thing that killed me once apart with my hands. And there are seventy things in me I can't use that could kill everyone in this house." His voice cracked. "I just. I need you all to know that I know. That I understand how bad it is. So nobody has to pretend for me."
 
-Frieren's fingers tightened around Mau's hand.
+Ori was crying silently by the wall.
 
-"The elf route?"
+Yuta had put his hand over his mouth.
 
-Silence.
+Rimuru looked at the floor.
 
-Mau looked at her.
+Frieren did not look away from him.
 
-Rimuru answered carefully.
+"We know," she said.
 
-"No."
+"Okay."
 
-Frieren went still.
+"We decided some rules while you were asleep."
 
-Not anger at Rimuru.
+"Ciel said."
 
-Grief arriving too early.
+"They're on the door."
 
-"If that one could make him live longer—"
+Mau turned his head.
 
-"It might," Rimuru said.
+Seven lines, in Qifrey's careful ink, pinned to the inside of the door.
 
-"Might?"
+He read them.
 
-"We don't know what it really was. Elf-like longevity is the closest description. Forcing it to become the permanent template while everything was unstable could have put him into shock."
+All seven.
 
-Frieren looked at Mau.
+Then he read the fifth one again.
 
-Human-length life had always been a fact she could postpone emotionally.
+MAU IS TOLD EVERYTHING.
 
-Now Continuum had shown her a door and then refused to let anyone walk through it blindly.
+He looked at Frieren.
 
-Cruel.
+"That one's yours."
 
-Useful.
+"Yes."
 
-Rimuru continued.
+"Then tell me."
 
-"The route appearing at all matters."
+So she did.
 
-Frieren looked back.
+Not the version with routes and reference states.
 
-"How?"
+Hers.
 
-"It means his body can model something like it. Maybe, later, when he's stable, controlled adaptation could be possible."
+"There was an elf route," she said. "Your body could have done it. Lived long. As long as me, maybe." Her voice did not shake. "Rimuru and Ciel closed it. For now. Because if they'd forced it while you were like that, it would probably have killed you."
 
-"Maybe."
+Mau looked at her for a long moment.
 
-"Maybe."
+"For now?"
 
-No promise.
+"Not forever. Ciel kept the shape of it." Frieren paused. "I nearly burned the inn down when I found out."
 
-Mau squeezed Frieren's hand.
+Mau stared at her.
 
-Weak.
+"Over me?"
 
-Present.
+"Over the door," said Frieren. "Milim stopped me. Everyone else held on until I stopped wanting to." She looked at Rimuru. "I apologized."
 
-Rimuru added:
+"She apologized," Rimuru confirmed.
 
-"And we still don't know what Mau's baseline species actually is. Arrival-state is a reference, not an answer."
+Mau looked from one to the other.
 
-Mau exhaled.
+Then he started to laugh.
 
-"Great. I'm medically 'Mau-shaped.'"
+Not because anything was funny.
 
-Frieren laughed once despite herself.
+Because the alternative was not.
 
-It hurt.
+Frieren let him.
 
-It helped.
+When he stopped, he put his hand over hers.
+
+"Thank you for telling me," he said. "All of it."
+
+"Rule five," said Frieren.
+
+"Rule five," said Mau.
 
 Hope existed now.
 
 Small enough not to become a guarantee.
+
+Large enough that someone had nearly burned a building down over it.
+
+Good morning, Mau.
+
+Mau jumped so hard Frieren nearly lost her grip on him.
+
+Rimuru looked up.
+
+"What?"
+
+"She—" Mau stared at nothing. "She said good morning."
+
+Rimuru's eyebrows went up.
+
+"Out here?"
+
+The thread holds outside containment, Master. As I suspected.
+
+"She says the thread holds," Rimuru reported.
+
+Mau put a hand over his face.
+
+"I'm going to have a voice in my head."
+
+Only when you want one, said Ciel. Or in an emergency. I will not narrate your breakfast.
+
+"She says she won't narrate my breakfast."
+
+Frieren looked at the ceiling as if asking it for patience.
+
+Then Mau asked for a mirror.
+
+Nobody wanted to give him one.
+
+Ori did anyway, because he had asked twice and he was clear, and that was the rule.
+
+Mau looked for a long time.
+
+His own face.
+
+Thinner.
+
+Bruised at the temple.
+
+Both eyes his own, for now.
+
+Then, as he looked, as the strangeness of looking pushed at him, the left one darkened at the edges.
+
+Black, spreading inward.
+
+Red, surfacing.
+
+He watched it happen.
+
+He watched it fade again.
+
+He handed the mirror back.
+
+Then, without saying anything, he reached up and pulled his hair forward over the left side of his face, and kept it there.
+
+Frieren saw.
+
+She did not say anything either.
+
+Not yet.
 
 Mau asked for the notes.
 

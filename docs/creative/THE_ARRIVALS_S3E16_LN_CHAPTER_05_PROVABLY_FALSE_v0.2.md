@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 21 — Provably False
+## Chapter 28 — Provably False
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 21  
-**Continuity state:** Day 20–21 | Reconstruction ongoing | Classification does not erase felt experience
+**Reading order:** 28  
+**Continuity state:** Day 22–23 | Reconstruction ongoing | Classification does not erase felt experience
 
 The easiest pile hurt the most.
 
@@ -104,7 +104,7 @@ Mau hated it.
 
 Bocchi looked at Rimuru.
 
-"Can Raphael remove it?"
+"Can Ciel remove it?"
 
 Rimuru answered carefully.
 

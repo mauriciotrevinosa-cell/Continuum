@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 27 — The Three Who Found Him
+## Chapter 34 — The Three Who Found Him
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 27  
-**Continuity state:** Day 24 | Rem/Kaneki/Aira choose next steps independently
+**Reading order:** 34  
+**Continuity state:** Day 26 | Rem/Kaneki/Aira choose next steps independently
 
 Nobody offered Rem, Kaneki and Aira permanent rooms.
 

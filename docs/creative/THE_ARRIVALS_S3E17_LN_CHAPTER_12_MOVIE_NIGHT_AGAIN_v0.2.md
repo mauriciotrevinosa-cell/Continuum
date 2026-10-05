@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 36 — Movie Night, Again
+## Chapter 43 — Movie Night, Again
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 13  
-**Reading order:** 36  
+**Reading order:** 43  
 **Continuity state:** Post-Memory recovery | Household ritual resumes before The Move
 
 Movie night failed before it began.

@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 31 — Looks Fine Is Not Fine
+## Chapter 38 — Looks Fine Is Not Fine
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 31  
-**Continuity state:** Day 26+ | Dominant Memory crisis de-escalated | Long-term protocol replaces emergency mode
+**Reading order:** 38  
+**Continuity state:** Day 28+ | Dominant Memory crisis de-escalated | Long-term protocol replaces emergency mode
 
 Mau looked fine.
 
@@ -58,11 +58,23 @@ Dangerous if permanent.
 
 Mau read the draft.
 
-"Raphael monitoring?"
+"Ciel monitoring?"
 
 Rimuru answered:
 
-"Only what you already agreed to."
+"Only the guardrails. Only what you already agreed to."
+
+"And talking to me?"
+
+Rimuru listened inward.
+
+"She says only when you want her to, or in an emergency. She says you can tell her to be quiet and she'll be quiet."
+
+Mau thought about that.
+
+"Write it down," he said.
+
+They wrote it down.
 
 "Emergency override?"
 
@@ -129,7 +141,9 @@ Diablo's observations stayed field-specific.
 
 No one turned him into supernatural truth detector.
 
-Raphael remained containment-limited for deeper observation.
+Ciel watched the guardrails and nothing deeper.
+
+The seal held.
 
 No casual internal scans because the technology now existed.
 

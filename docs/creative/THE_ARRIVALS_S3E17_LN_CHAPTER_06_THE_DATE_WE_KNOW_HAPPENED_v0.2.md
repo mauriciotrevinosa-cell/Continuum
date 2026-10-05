@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 30 — The Date We Know Happened
+## Chapter 37 — The Date We Know Happened
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 30  
-**Continuity state:** Day 25 | Mau cleared for short outing | Deliberately new present memory
+**Reading order:** 37  
+**Continuity state:** Day 27 | Mau cleared for short outing | Deliberately new present memory
 
 Frieren asked Mau on a date.
 
@@ -60,6 +60,24 @@ Frieren looked at Mau.
 Maomao looked unconvinced by both of them.
 
 They left after lunch.
+
+Mau wore the patch Marin had made him.
+
+Dark blue. Soft. A single small star stitched in one corner. She had said he could say no, and he had said no for four days.
+
+Today he said yes.
+
+A village was full of strangers.
+
+Frieren looked at it.
+
+"Marin?"
+
+"Marin."
+
+"It has a star."
+
+"She said the star was non-negotiable."
 
 Known road.
 
@@ -132,6 +150,14 @@ Mau stared.
 He laughed.
 
 They sat near water.
+
+Mau took the patch off and put it in his pocket.
+
+Frieren looked at him.
+
+"It's just you," he said.
+
+The eye underneath was his own anyway, for now.
 
 Not the river from the second disappearance.
 

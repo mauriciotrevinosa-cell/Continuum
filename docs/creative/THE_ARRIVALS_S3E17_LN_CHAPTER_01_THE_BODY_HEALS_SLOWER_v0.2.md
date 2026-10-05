@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 25 — The Body Heals Slower
+## Chapter 32 — The Body Heals Slower
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 25  
-**Continuity state:** Day 21–24 | Memory pressure lower | Physical recovery lags behind
+**Reading order:** 32  
+**Continuity state:** Day 23–26 | Memory pressure lower | Physical recovery lags behind
 
 Mau's mind improved before his body did.
 
@@ -30,7 +30,7 @@ Mau sat.
 
 Maomao enjoyed being right in silence.
 
-The head wound looked less dramatic by day twenty-two.
+The head wound looked less dramatic by day twenty-four.
 
 Bruising changed color.
 
@@ -190,7 +190,7 @@ Frieren looked at him.
 
 Fair.
 
-On day twenty-three, Maomao allowed Mau a two-hour worksite visit.
+On day twenty-five, Maomao allowed Mau a two-hour worksite visit.
 
 No lifting.
 

@@ -4,7 +4,7 @@
 **Volume:** 13  
 **Season:** 3  
 **Volume title:** **Bring Him Back**  
-**Chapter count:** 36  
+**Chapter count:** 43  
 **Supersedes:** Volume 13 v0.1 for S3 v0.2 continuity.
 
 | # | Chapter |
@@ -24,27 +24,34 @@
 | 13 | I Love You and I Trust Them |
 | 14 | Inside Rimuru |
 | 15 | The Unknown Structure |
-| 16 | Filtering |
-| 17 | He Comes Out |
-| 18 | Witches Get Their Questions |
-| 19 | The Table Returns |
-| 20 | A Real Detail |
-| 21 | Provably False |
-| 22 | Permanently Uncertain |
-| 23 | Visiting Hours |
-| 24 | All Day |
-| 25 | The Body Heals Slower |
-| 26 | No. But You Can Stay. |
-| 27 | The Three Who Found Him |
-| 28 | Kaneki Doesn't Flinch |
-| 29 | Aira Is Definitely Not Family |
-| 30 | The Date We Know Happened |
-| 31 | Looks Fine Is Not Fine |
-| 32 | Nobody Is Doing Anything |
-| 33 | Rem Keeps Coming Back |
-| 34 | Coco Schedules a Memory |
-| 35 | Maki and Frieren Are Not Talking |
-| 36 | Movie Night, Again |
+| 16 | It Looks Back |
+| 17 | From the Inside |
+| 18 | Everything at Once |
+| 19 | The Longest Day |
+| 20 | Ciel |
+| 21 | Filtering |
+| 22 | Not the Elf Route |
+| 23 | What He Gave Us |
+| 24 | He Comes Out |
+| 25 | Witches Get Their Questions |
+| 26 | The Table Returns |
+| 27 | A Real Detail |
+| 28 | Provably False |
+| 29 | Permanently Uncertain |
+| 30 | Visiting Hours |
+| 31 | All Day |
+| 32 | The Body Heals Slower |
+| 33 | No. But You Can Stay. |
+| 34 | The Three Who Found Him |
+| 35 | Kaneki Doesn't Flinch |
+| 36 | Aira Is Definitely Not Family |
+| 37 | The Date We Know Happened |
+| 38 | Looks Fine Is Not Fine |
+| 39 | Nobody Is Doing Anything |
+| 40 | Rem Keeps Coming Back |
+| 41 | Coco Schedules a Memory |
+| 42 | Maki and Frieren Are Not Talking |
+| 43 | Movie Night, Again |
 
 ## Final prose-pass note
 

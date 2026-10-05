@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 13
-## Chapter 18 — Witches Get Their Questions
+## Chapter 25 — Witches Get Their Questions
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 13  
-**Reading order:** 18  
-**Continuity state:** Day 19 | Mau recovering | Witch bargain resumes under Mau's control
+**Reading order:** 25  
+**Continuity state:** Day 21 | Mau recovering | Witch bargain resumes under Mau's control
 
 The witches came back exactly when the agreement said they could.
 
@@ -112,11 +112,17 @@ She looked at Mau.
 
 "Yes."
 
+"All of it?"
+
+Mau's hands closed in his lap.
+
+"All of it."
+
 "Clearly?"
 
 Mau thought.
 
-"Clearer than parts of the last week."
+"Clearer than parts of the last week. I wish it wasn't."
 
 "Do you trust that clarity?"
 
@@ -214,13 +220,19 @@ Another witch asked:
 
 "When Raphael observed it, did it react?"
 
-Mau closed his eyes.
+Mau laughed.
+
+It was not a good laugh.
+
+"It looked back."
+
+"Deliberately?"
 
 "I couldn't tell."
 
 "Did it hide?"
 
-"I couldn't tell."
+"No. The opposite."
 
 "Did it speak?"
 
@@ -228,17 +240,37 @@ Mau closed his eyes.
 
 "Did you feel watched?"
 
-Mau opened his eyes.
+Mau was quiet for a long time.
 
-"By Raphael."
+"Not by it," he said. "With it. It wasn't looking at me. It was looking at everything else, through me. Like I was the window."
 
-"Not what I asked."
-
-He looked at her.
-
-Longer pause.
+"Did it want to hurt anyone?"
 
 "No."
+
+Immediate.
+
+"It wanted to understand. That's all it ever wants." He looked at his hands. "That's the problem."
+
+Qifrey wrote:
+
+IT DOES NOT WANT HARM. IT WANTS TO KNOW. SEAL HOLDS THE BUILDING, NOT THE KNOWING.
+
+The witch read it upside down.
+
+She did not underline it.
+
+She looked at it for a long time instead.
+
+Then she looked at the hair Mau had pulled down over the left side of his face.
+
+"And the eye?"
+
+"Not your question," said Mau.
+
+The witch considered that.
+
+"No," she agreed. "It isn't."
 
 Good.
 

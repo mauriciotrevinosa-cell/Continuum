@@ -3,7 +3,7 @@
 **Status:** ACTIVE SEASON CANON — 2026-10-04 CREATOR REVISION COMPLETE  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **306**  
+**Reader-order chapters:** **313**  
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
@@ -87,7 +87,7 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 10 | Bare Ground | 17 | legacy-path merged V10 files |
 | 11 | Eight Signatures | 36 | latest merged files |
 | 12 | The Second Road | 22 | latest merged files |
-| 13 | Bring Him Back | 36 | active creator revision |
+| 13 | Bring Him Back | 43 | active creator revision |
 | 14 | The Move | 26 | active creator revision |
 | 15 | People Who Heard About Us | 34 | active creator revision |
 | 16 | What the Message Changes | 34 | active creator revision |
@@ -95,7 +95,7 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 18 | Last Defense | 31 | active creator revision |
 | 19 | What Would You Choose? | 41 | latest merged files |
 
-Total: **306 active chapters**. The 2026-10-04 post-Memory family rebuild is complete. Future changes are creator revisions, not unfinished repair.
+Total: **313 active chapters**. The 2026-10-04 post-Memory family rebuild is complete. Future changes are creator revisions, not unfinished repair.
 
 ## Final density audit — 2026-10-04 creator revision
 

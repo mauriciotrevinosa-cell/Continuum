@@ -82,7 +82,7 @@ Milim was halfway out of her chair.
 
 Rimuru's face changed.
 
-Raphael active.
+Ciel active.
 
 No answer.
 
@@ -212,7 +212,7 @@ Trust plus testimony.
 
 Not mystical certainty.
 
-Rimuru checked Raphael.
+Rimuru checked with Ciel.
 
 "Bounded anomaly. Source unknown."
 

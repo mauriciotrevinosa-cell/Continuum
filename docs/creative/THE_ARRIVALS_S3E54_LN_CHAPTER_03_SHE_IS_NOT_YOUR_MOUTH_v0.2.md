@@ -114,7 +114,7 @@ Good.
 
 Rimuru's eyes unfocused.
 
-Raphael:
+Ciel:
 bounded anomaly.
 No emitter.
 No known system match.

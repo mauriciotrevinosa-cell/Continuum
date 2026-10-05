@@ -62,7 +62,7 @@ Good.
 
 Rimuru reached the line.
 
-"Raphael?"
+"Ciel?"
 
 No ordinary barrier characteristics.
 

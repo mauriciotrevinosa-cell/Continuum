@@ -256,6 +256,8 @@ Mai turned the bullet over.
 
 Mau, across the room, was looking at his own hand.
 
+His left eye had opened sometime during the evening and had not closed since.
+
 It was still shaking.
 
 Mai looked at it too.

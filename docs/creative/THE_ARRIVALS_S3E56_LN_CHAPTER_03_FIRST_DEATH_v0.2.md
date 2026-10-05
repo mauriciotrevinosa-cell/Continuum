@@ -245,9 +245,11 @@ Rimuru saw.
 
 "Physical reset. Learned response retained."
 
-Raphael could observe almost nothing inside the domain.
+Ciel could observe almost nothing inside the domain.
 
 Only the result.
+
+And something she did not tell Rimuru until much later: for the first time since containment, the thread to Mau had gone completely silent.
 
 Frieren looked at him.
 

@@ -234,7 +234,7 @@ She pointed at the loose earth beside the hole.
 
 Mau looked at her for a long moment.
 
-Then knelt, took a handful of soil that Senku and Agott had finally agreed was acceptable, and covered the seed.
+Then knelt, his hair falling forward over his left eye the way he wore it now, took a handful of soil that Senku and Agott had finally agreed was acceptable, and covered the seed.
 
 Coco covered it the rest of the way.
 

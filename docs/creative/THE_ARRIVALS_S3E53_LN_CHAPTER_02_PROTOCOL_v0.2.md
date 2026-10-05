@@ -96,7 +96,11 @@ Labels.
 
 Not revelations.
 
-Raphael monitored the same internal activity she had isolated during containment months earlier.
+Ciel monitored the same internal activity she had mapped during containment months earlier, and the seal beside it, because Mau had asked her to.
+
+The seal held.
+
+The pattern pressed against the guardrails the way water presses against a dam: not attacking, only full.
 
 Elevated.
 

@@ -252,6 +252,12 @@ He only knew the words, the way his mouth had known the coffee.
 
 He started badly.
 
+Halfway through the first line his left eye opened, black and red, the way it did now when too much was happening inside him at once.
+
+He did not cover it.
+
+Nobody stopped him.
+
 Off key.
 
 Too quiet.

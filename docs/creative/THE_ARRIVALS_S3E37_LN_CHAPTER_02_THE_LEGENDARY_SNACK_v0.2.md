@@ -204,6 +204,12 @@ Mau watched them and did not say anything, because some things were not his to s
 
 The market town was louder than the settlement and smaller than Umaru had imagined.
 
+Mau wore Marin's patch, the dark blue one with the star, because a town was full of strangers.
+
+A small boy stared at it the whole way down the first street.
+
+Himmel leaned down and told him, in a confidential whisper, that the man with the patch was a retired pirate who had sworn an oath never to speak of the sea, and the boy looked at Mau with such reverence that Mau had to walk the rest of the street with his face turned away so nobody would see him laughing.
+
 She found the stall in four minutes.
 
 She had smelled it from the gate.

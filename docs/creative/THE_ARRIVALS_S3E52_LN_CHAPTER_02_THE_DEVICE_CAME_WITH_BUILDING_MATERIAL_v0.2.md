@@ -146,7 +146,7 @@ Again:
 useful.
 Not answer.
 
-Raphael compared suppression timing to known power interactions.
+Ciel compared suppression timing to known power interactions.
 
 No known direct match.
 

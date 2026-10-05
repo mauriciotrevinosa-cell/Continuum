@@ -213,7 +213,9 @@ The Noise offered no ghoul label.
 
 Good.
 
-Raphael found no evidence of full adaptive transition.
+Ciel found no evidence of full adaptive transition.
+
+Only the valve, open, doing what it had been left open to do.
 
 Good.
 

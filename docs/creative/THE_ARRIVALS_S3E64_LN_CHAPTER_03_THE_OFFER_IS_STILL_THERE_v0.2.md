@@ -193,6 +193,12 @@ That was not punishment.
 
 That was relationship.
 
+His left eye had opened at some point during the evening.
+
+He had not covered it.
+
+At this table, he did not need to.
+
 Frieren reached across.
 
 Took Mau's hand.

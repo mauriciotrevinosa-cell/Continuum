@@ -68,6 +68,10 @@ He let out a breath he had not known he was holding.
 
 "Okay," he said. "That one's real."
 
+He had not asked Ciel.
+
+She could not have told him. Which memories were true had never been what she was for. Only Kita could do this part.
+
 Kita smiled at him.
 
 It was a soft smile, for Kita. No performance in it.

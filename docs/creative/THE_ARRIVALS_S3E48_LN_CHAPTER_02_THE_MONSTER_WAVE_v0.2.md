@@ -113,7 +113,7 @@ Create retreat lanes for militia who no longer wanted fight.
 
 Rimuru stood over central map.
 
-Raphael fed:
+Ciel fed:
 positions.
 alarms.
 water.

@@ -118,7 +118,7 @@ Not memory.
 
 Recognition.
 
-Raphael unable to locate source.
+Ciel unable to locate source.
 
 Qifrey seeing no ordinary circle.
 

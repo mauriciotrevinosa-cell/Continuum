@@ -83,7 +83,7 @@ Diablo.
 
 He froze for half a second.
 
-Raphael supplied more information.
+Ciel supplied more information.
 
 That made the bottleneck worse.
 

@@ -19,7 +19,7 @@ Rimuru.
 
 Structural analysis.
 
-Raphael mapped every detectable relation between interior space and boundary.
+Ciel mapped every detectable relation between interior space and boundary.
 
 Then Rimuru attempted to separate the asserted rule from the space containing it.
 
@@ -227,7 +227,7 @@ Silence.
 
 Rimuru hated silence.
 
-He searched Raphael again.
+He asked Ciel again.
 
 Nothing new.
 

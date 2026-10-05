@@ -296,6 +296,32 @@ She did not wake.
 
 Mau sat.
 
+He thought about kitchens.
+
+All the kitchens. A year of them. The late nights when he had asked one person after another, as if it were nothing, as if he were asking about the weather:
+
+If you could go back to your world, would you?
+
+He had never once gotten a yes.
+
+He had never once gotten a no.
+
+Rimuru on a roof. Yuta at the stove. Bocchi, who had panicked. Fern, who had looked at him for a long time and changed the subject.
+
+Every one of them had said some version of: I don't know.
+
+For a year he had told himself that was enough.
+
+Now a goddess had turned his old question into a door with a deadline, and he had already watched hundreds of people walk through it and regret it, and stay and regret it, and he could not bear to hear the people he loved say I don't know one more time when he knew what was waiting on the other side of both answers.
+
+Once, in containment, he had held two things apart with nothing but refusal, and it had been enough.
+
+The Trial had taught him there was no refusal big enough to hold this.
+
+So he would not refuse.
+
+He would ask.
+
 4:09.
 
 The decision came without grandeur.

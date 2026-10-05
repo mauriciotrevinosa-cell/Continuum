@@ -173,15 +173,21 @@ Pupils.
 
 No fever.
 
-Rimuru checked Raphael against old containment observations.
+Rimuru checked with Ciel against the old containment observations.
 
 "Activity elevated."
+
+"The seal?"
+
+Rimuru listened.
+
+"Holding. She says the pressure isn't coming from behind the seal. It's coming from the trunk around it."
 
 Mau looked at him.
 
 "The Noise?"
 
-"Whatever pattern Raphael tracks under that working designation."
+"Whatever pattern Ciel tracks under that working designation."
 
 Good.
 
@@ -198,6 +204,10 @@ Kaneki:
 "Fine."
 
 Frieren watched Mau's hands.
+
+Then his face.
+
+His left eye had opened. Black and red. It did not close again.
 
 Not his answers.
 

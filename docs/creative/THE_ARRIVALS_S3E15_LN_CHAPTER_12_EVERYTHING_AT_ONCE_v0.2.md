@@ -112,6 +112,12 @@ His.
 
 Built out of the tether and the pattern and the reading, without a single barrier, open, hungry, cutting at everything inside containment that was not Mau.
 
+Between his hands, Blue and Red flared at the sight of it, the way two old enemies recognise a third.
+
+They lunged for each other.
+
+Mau screamed and held, and the space between them shrank to the width of a hair, and stayed there, trembling.
+
 Including Raphael.
 
 Including Rimuru.

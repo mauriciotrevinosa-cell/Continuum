@@ -6,6 +6,22 @@
 **Reading order:** 17  
 **Continuity state:** Day 17 — containment, hour 1–2 | Constructs form inside Rimuru | Household arrives
 
+Blue in his left hand.
+
+Red in his right.
+
+A finger's width of nothing between them.
+
+Mau held.
+
+He did not know how long he had been holding. A minute. Ten. The spheres did not get tired. He did. Every few seconds they leaned toward each other, gently, the way two magnets lean, and every few seconds he pulled them apart again, and every time it cost him something he could not name and did not have much of.
+
+And while he held, the pattern did not stop.
+
+It had finished with Raphael's surface.
+
+It went looking for what she was attached to.
+
 The Noise did not mean to hurt Rimuru.
 
 That was the worst part.
@@ -57,6 +73,14 @@ Inside containment, Mau felt the copies form.
 He could not stop them.
 
 He was still holding Purple apart with everything he had, and there was nothing left over to hold anything else.
+
+When the first copy formed, the spheres jerked toward each other, as if the pattern had remembered them.
+
+Half a finger's width.
+
+Mau dragged them back.
+
+His arms were shaking now. In containment there were no arms, not really, but he felt them shake anyway.
 
 They came out of the pattern like reflections stepping out of a mirror.
 

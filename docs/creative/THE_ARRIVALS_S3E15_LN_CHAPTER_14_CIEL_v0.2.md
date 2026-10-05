@@ -146,31 +146,73 @@ Ciel had counted.
 
 Of course she had.
 
-Sixty-eight confirmed constructs. Two more I am counting generously, because they are unstable enough that calling them anything is optimistic.
+That is the wrong question, she said. Not all of it was built. Ask me how many things it took.
+
+Rimuru repeated that.
+
+Maomao narrowed her eyes.
+
+"How many things did it take?"
+
+One hundred and forty-three patterns.
+
+The room went very quiet.
+
+Not things, said Ciel, a little more gently. Patterns. Most of them are not finished. I want you to understand that before anyone starts imagining a man with a hundred and forty weapons in his pockets.
+
+She sorted them for the room, and Rimuru repeated every word.
+
+Nine are finished. Built. Whole. Sealed exactly as they were when the seal closed.
+
+Twenty-six are built and missing a part they need in order to work. An eye he does not have. A spirit he is not bound to. Ink he does not carry. A reservoir of power no human-shaped body holds. Shells. Complete shells, with nothing to put in them.
+
+Forty-one were being built when the seal closed. Half-made. Some a quarter. Frozen mid-step, like a wall with the scaffolding still around it.
+
+Sixty-seven were never built at all. The pattern understood them. Read them, took them apart, learned their shape. Then it ran out of time before it could start. The information is complete. Nothing was made.
+
+A pause.
+
+And four fragments I refuse to count, because they are unstable enough that calling them anything is optimistic.
+
+Maomao wrote all four numbers down.
+
+Then she looked at them for a long time.
+
+"Where did a hundred and forty-three come from?" asked Yuta. "He hasn't seen a hundred and forty-three things."
+
+He hasn't, said Ciel. Raphael had.
+
+Rimuru went still as he repeated it.
+
+The pattern did not only read Mau's memory. It read mine. Everything Raphael had ever recorded. Every observation since Master woke in this world. Everything Master had seen in his old one.
 
 Rimuru listed them.
 
 His voice got quieter as he went.
 
-His own skills. All of them. Copied out of the reading.
+His own skills. All of them, down to the small ones he never thought about. The resistances. The spells he had picked up along the way, the way other people pick up words.
 
-The unique skills of people he had watched in his own world, friends and enemies both, things Mau had never seen and had no business holding.
+The skills of people he had watched in his own world, friends and enemies both. A city's worth of them. Things Mau had never seen and had no business holding.
 
 The pressure of a True Dragon.
 
-Yuta's Copy.
+Yuta's Copy. Yuta's curse-speech, borrowed once from a friend. The repair technique Yuta had poured into Mau on the field.
 
 Pieces of a man named Gojo: the pull, the push, the thing that happened when they met. The domain made of stars. And the distance. The distance without the eyes to steer it.
 
-Sukuna's shrine.
+Sukuna's shrine, and the cuts that lived inside it, and the fire. Read off the tether, the piece of Sukuna the pattern had caught and kept.
 
 Mahoraga's wheel.
 
 Spells. Frieren's, mostly. Some of Fern's. The killing spell Frieren used more than any other, rebuilt so faithfully that Frieren, hearing it, went very still.
 
-Things he had watched Kaneki's body do.
+Qifrey's glyphs. Coco's. Agott's.
 
-Things he had watched Qifrey draw.
+The speed Okarun borrowed from the old woman on the windowsill. The invisible hands Momo used when she was angry.
+
+Things Raphael had watched Kaneki's body do. And Rem's. And Nazuna's.
+
+Ways of being a body. Elf. Slime. The rest.
 
 When Rimuru finished, the room was silent.
 
@@ -178,7 +220,7 @@ Mai was the one who broke it.
 
 "All of that," she said. "In one person."
 
-Behind the seal, said Ciel, through Rimuru. Not in use. Not available. But yes. The trunk of his system grew yesterday. Exponentially. In eleven minutes it learned to build things that need more than any one body has. That growth does not go away. I can seal what it built. I cannot make him smaller.
+Behind the seal, said Ciel, through Rimuru. Not in use. Not available. Most of it not even finished. But yes. The trunk of his system grew yesterday. Exponentially. In eleven minutes it learned to hold more than any one body has room for. That growth does not go away. I can seal what it took. I cannot make him smaller.
 
 Jinshi, at the edge of the room, met Rimuru's eyes.
 
@@ -190,7 +232,7 @@ Anko said it for them.
 
 The room looked at her.
 
-"Not the number. Not the list. Not that it exists." Anko's voice was flat and very certain. "The moment the world knows there's a man with seventy sealed things inside him, he stops being a man to them. He becomes a box. And people try to open boxes."
+"Not the number. Not the list. Not that it exists." Anko's voice was flat and very certain. "The moment the world knows there's a man with a hundred and forty sealed things inside him, he stops being a man to them. He becomes a box. And people try to open boxes."
 
 Jinshi, quietly: "Yes."
 

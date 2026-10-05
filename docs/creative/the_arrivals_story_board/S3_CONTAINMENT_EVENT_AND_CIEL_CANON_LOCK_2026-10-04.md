@@ -34,20 +34,40 @@
 
 ## 3. The seal and the household guardrails
 
-Approximately **seventy constructs** are sealed: 68 confirmed, plus 2 "counted generously" because they are unstable. The categories:
+**143 patterns** are sealed, plus **4 unstable fragments** that Ciel refuses to count. They are patterns, not weapons: most are unfinished.
 
-- Rimuru's own skills;
-- unique skills Rimuru observed in his world (allies and enemies);
-- True Dragon-scale output;
-- Yuta's Copy;
-- pieces of Gojo: Blue, Red, Purple, Unlimited Void and Infinity without the Six Eyes;
-- Malevolent Shrine;
-- Mahoraga's adaptation;
-- spells, mostly Frieren's (including her signature killing spell) and some of Fern's;
-- Kaneki-like body functions;
-- Qifrey-like drawn magic.
+The pattern did not only read Mau's own memory. Through the coupling it read **Raphael's entire archive**: every observation she made since Rimuru woke in Continuum, and everything Rimuru knew from his own world. It also read the **Sukuna tether** formed in S2. That is why the inventory is far larger than what Mau has personally witnessed.
 
-The trunk of Mau's system grew exponentially during the event. **The growth is permanent.** The constructs are sealed, not deleted.
+### 3.1 By source
+
+| Source | Count | Representative contents |
+|---|---:|---|
+| Rimuru — own kit (Demon Lord era, Raphael, before Ciel) | 41 | his ultimate-tier skills; signature techniques and extra skills (analysis, thought acceleration, spatial motion, regeneration, barriers, the imprisonment seal, black lightning and flame, threads, mimicry forms, storage); his resistance and nullification set |
+| Rimuru — general magic learned in his world | 15 | elemental, spirit and utility spells picked up over time |
+| Rimuru — observed in his world (allies and enemies, from Raphael's archive) | 34 | "a city's worth": subordinates' and rivals' unique skills, dragon-class power, holy-knight techniques, labyrinth and puppet magic and so on, analysed to very different depths |
+| JJK — Yuta | 6 | Copy, Rika manifestation, reverse cursed technique (the repair Yuta poured into Mau in S2), borrowed curse-speech, cursed-energy beam, his domain |
+| JJK — Gojo, via Yuta's S2 Shinjuku reconstruction | 5 | Blue, Red, Hollow Purple, Infinity (without the Six Eyes), Unlimited Void |
+| JJK — Sukuna, via the S2 tether and the fight | 5 | Dismantle, Cleave, Malevolent Shrine, the flame arrow, his own reverse technique |
+| JJK — Ten Shadows and others | 4 | Mahoraga's adaptation wheel, the shadow medium, Maki's restriction-body model, Mai's Construction (recorded but not named to the household; Mai learns the shared name only in V18) |
+| Frieren-world | 11 | Frieren's signature killing spell, defensive magic, flight, mana suppression, detection, the flower-field and drying spells; Fern's rapid-fire variant, her suppression and her defence; Stark's strike technique |
+| Witch Hat | 8 | glyph families for water, fire and light, wind and earth, the S2 field-trap structure and seed-adjacent work (Qifrey, Coco, Agott) |
+| Dandadan | 4 | Okarun's borrowed Turbo Granny speed, Momo's psychokinesis, Seiko's barrier and medium work, Aira's powers |
+| Re:Zero, Tokyo Ghoul, Call of the Night | 6 | Rem's oni form and water magic; Kaneki's kagune and ghoul regeneration; Nazuna's vampire body traits |
+| Body-adaptation models | 3 | elf-like longevity, slime restructuring, cursed-energy repair (the ghoul route stays live only as the eye valve) |
+| True Dragon-scale output | 1 | the pressure itself |
+| **Total** | **143** | plus 4 uncounted fragments |
+
+Counts for Rimuru's world are estimates fixed for this story. Ciel's in-world list is exact. Prose should name categories and a few examples, never recite the full list.
+
+### 3.2 By state when the seal closed
+
+| State | Count | Meaning |
+|---|---:|---|
+| **Finished** | 9 | Built and whole: Blue, Red, raw Infinity, Malevolent Shrine, Unlimited Void, the adaptation wheel, True Dragon-scale pressure, Frieren's killing spell, Rimuru's devouring hunger |
+| **Finished, missing a requirement** | 26 | Complete shells that need something Mau does not have: the Six Eyes (control of Infinity), Rika (for Copy), a shadow medium and shikigami (Ten Shadows), ink (Witch Hat glyphs), a yokai partner (Turbo speed), an RC organ (kagune), soul or magicule capacity (ultimate-tier skills), a dedicated analytic mind (Raphael-class analysis; only Ciel is that), cursed-energy volume (domains' sure-hit), oni or vampire biology, and so on. **Hollow Purple** is here: Blue and Red are finished, and the convergence is blocked by the seal itself. |
+| **Interrupted mid-build** | 41 | Half or quarter built, frozen mid-step "with the scaffolding still around it". Resuming one is construction, not unsealing, and costs the body. |
+| **Blueprint only** | 67 | Fully understood and read, never started. The information is complete; nothing was made. |
+| **Fragments** | 4 (uncounted) | Too unstable to classify. Possibly partial reads of things whose owners no longer hold them. Leave them deliberately ambiguous for later seasons. |
 
 They are sealed for two reasons:
 

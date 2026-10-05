@@ -64,7 +64,7 @@ He knew:
 - why he had entered containment;
 - that The Noise was only a working name;
 - that Ciel had not fixed him;
-- that seventy things he could not use were sealed somewhere inside him, waiting.
+- that a hundred and forty-three patterns he could not use were sealed somewhere inside him, most of them unfinished, waiting.
 
 He also remembered a breakfast that had never happened.
 
@@ -334,7 +334,7 @@ Mau looked at his hands.
 
 Nobody spoke.
 
-"So I can't tell," said Mau. "From inside. I can't. Not the old ones, not new ones, not anything. If something happens in my head and nobody else was there, I can't trust it." He swallowed. "And my body was trying to become five things at once while I was holding a thing that killed me once apart with my hands. And there are seventy things in me I can't use that could kill everyone in this house." His voice cracked. "I just. I need you all to know that I know. That I understand how bad it is. So nobody has to pretend for me."
+"So I can't tell," said Mau. "From inside. I can't. Not the old ones, not new ones, not anything. If something happens in my head and nobody else was there, I can't trust it." He swallowed. "And my body was trying to become five things at once while I was holding a thing that killed me once apart with my hands. And there are a hundred and forty-three things sealed in me, half of them not even finished, and some of the finished ones could kill everyone in this house." His voice cracked. "I just. I need you all to know that I know. That I understand how bad it is. So nobody has to pretend for me."
 
 Ori was crying silently by the wall.
 

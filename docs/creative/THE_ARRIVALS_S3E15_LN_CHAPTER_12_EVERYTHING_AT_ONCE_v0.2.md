@@ -354,6 +354,8 @@ The void, still full of everything, folded into another.
 
 The copies of Rimuru's skills. The copies of skills Rimuru had only seen. The adaptation wheel. The pressure the size of a dragon. The raw, unsteered, uncontrollable distance he had used to throw Raphael away.
 
+And behind those, dozens of things that had only been half-made. Scaffolding without walls. Shapes the pattern had started and not finished. Shapes it had only understood and never started at all. All of it, frozen exactly where it stood.
+
 One by one.
 
 Folded.

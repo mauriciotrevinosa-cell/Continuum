@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 11 — Two Homes at Once
+## Chapter 16 — Two Homes at Once
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 11  
+**Reading order:** 16  
 **Continuity state:** Move Day 1 — afternoon | Inn and settlement both actively inhabited/used
 
 By afternoon, the sentence:
@@ -37,6 +37,20 @@ Rimuru mostly at the site.
 Fern at the inn.
 
 Mau made two trips.
+
+The second one, he did not entirely make.
+
+He started back toward the wagon with an empty crate and arrived beside it without the yard in between.
+
+Okarun, holding the other end of a bench, said:
+
+"Rule eight. Third time this week."
+
+"Third?"
+
+"You missed one yesterday."
+
+Mau put the crate down and walked the rest of the day on purpose.
 
 Frieren one.
 

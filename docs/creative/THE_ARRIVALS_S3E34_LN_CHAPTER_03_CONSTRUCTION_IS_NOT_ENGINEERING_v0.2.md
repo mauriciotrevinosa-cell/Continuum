@@ -35,6 +35,12 @@ Mau smiled.
 
 "You're welcome."
 
+Senku narrowed his eyes.
+
+"Is this the leak thing?"
+
+"No." Mau turned the valve over in his hands. "This one's mine. The leaks don't ask."
+
 Senku picked it up.
 
 "Why this thickness?"

@@ -129,6 +129,12 @@ Not because Mau wanted it.
 
 Because Frieren did.
 
+On the nightstand, her grimoire.
+
+Four small pressed flowers between its pages. One for every time they had opened the door on purpose.
+
+She had kept every one.
+
 He said:
 
 "You already chose things."

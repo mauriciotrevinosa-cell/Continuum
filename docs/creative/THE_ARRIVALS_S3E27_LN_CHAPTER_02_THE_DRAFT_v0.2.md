@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 29 — The Draft
+## Chapter 31 — The Draft
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 29
+**Reading order:** 31
 
 The first complete draft was terrible.
 

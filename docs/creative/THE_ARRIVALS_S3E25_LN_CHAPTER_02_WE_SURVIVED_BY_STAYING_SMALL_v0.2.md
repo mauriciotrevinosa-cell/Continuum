@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 22 — We Survived by Staying Small
+## Chapter 24 — We Survived by Staying Small
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 22
+**Reading order:** 24
 
 The second community's argument had survived reality.
 

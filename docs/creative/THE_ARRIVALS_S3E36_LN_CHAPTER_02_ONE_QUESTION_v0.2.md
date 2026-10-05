@@ -418,6 +418,20 @@ Frieren looked at him for a while.
 
 Frieren nodded slowly.
 
+"Twenty-six minutes," Mau said, after a while. "Yesterday."
+
+Frieren did not look at him.
+
+"Maomao wrote twenty-four."
+
+"Maomao rounds down."
+
+"Maomao," said Frieren, "was there."
+
+Mau smiled.
+
+There were two flowers in the grimoire now.
+
 Then she leaned her head on his shoulder.
 
 That night, in his notes, under the date, Mau wrote:

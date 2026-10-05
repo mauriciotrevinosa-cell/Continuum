@@ -8,6 +8,16 @@
 
 For three weeks, nothing season-ending happened.
 
+Small things happened instead.
+
+The last leak came on the fourth day after the Move: a crate of Maomao's jars, carried from the wagon to the storeroom without the walk in between. Mau noticed that one himself, and told her before anyone else could.
+
+Then nothing.
+
+Ciel counted the quiet days for him, because he had asked her to. He stopped asking after the first week.
+
+She kept counting anyway.
+
 That deserved more than a sentence.
 
 It also deserved more than a montage.

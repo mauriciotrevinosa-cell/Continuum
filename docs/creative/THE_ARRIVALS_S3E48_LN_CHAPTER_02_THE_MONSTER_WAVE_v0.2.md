@@ -254,6 +254,16 @@ The system requested him.
 
 Different.
 
+He did not run the last stretch.
+
+He was at the corner of the inner route, and then he was at the edge, and his legs had not crossed the distance between.
+
+Ciel noted it.
+
+First one in a month.
+
+Fear does that, she would say later. Distance stops meaning much.
+
 He met creature near inner agricultural edge.
 
 Not alone.

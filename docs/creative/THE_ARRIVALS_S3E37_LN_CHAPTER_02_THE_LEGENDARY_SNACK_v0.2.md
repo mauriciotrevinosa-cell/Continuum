@@ -38,6 +38,20 @@ She stood up on the bench, which Fern had told her eleven times not to do.
 
 Mau said yes before she had finished explaining.
 
+Umaru narrowed her eyes at him.
+
+"Can't you just do the thing? The poof thing? And take us?"
+
+"I can't call it," said Mau. "It calls me."
+
+"How often?"
+
+Mau thought about it.
+
+"Twice this month."
+
+"That's useless," said Umaru, with deep disappointment, and went to find her shoes.
+
 He always did.
 
 That was the problem, according to Fern, and the entire point, according to Umaru.

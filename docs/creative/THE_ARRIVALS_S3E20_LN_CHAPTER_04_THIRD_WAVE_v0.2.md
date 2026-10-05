@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 19 — Third Wave
+## Chapter 24 — Third Wave
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 19  
+**Reading order:** 24  
 **Continuity state:** Move Day 4 | Fern transfers primary household administration | Rem remains at old inn
 
 Fern moved on day four.

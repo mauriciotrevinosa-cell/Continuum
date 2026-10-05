@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 17 — Frieren Has Opinions
+## Chapter 22 — Frieren Has Opinions
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 17  
+**Reading order:** 22  
 **Continuity state:** Move Day 3 | Mau/Frieren settle their room through ordinary conflict
 
 Frieren had claimed not to care about rooms.

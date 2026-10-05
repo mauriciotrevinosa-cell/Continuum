@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 14 — Second Wave
+## Chapter 19 — Second Wave
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 14  
+**Reading order:** 19  
 **Continuity state:** Move Day 2 | Second resident wave transfers from old inn
 
 The second wave left after lunch.

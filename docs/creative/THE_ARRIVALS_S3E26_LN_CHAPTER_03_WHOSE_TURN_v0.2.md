@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 26 — Whose Turn
+## Chapter 28 — Whose Turn
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 26  
+**Reading order:** 28  
 **Continuity state:** Refuge week | Care flows back toward Mau | Sprout appears
 
 At the long table in Arrival House, Mau had three ledgers open and had not eaten since breakfast.
@@ -21,6 +21,12 @@ Who was leaving.
 Who had asked where the western road went and been told the truth, which was that right now it went to a checkpoint.
 
 He did not remember deciding to take all three ledgers.
+
+He did not remember fetching the third one from the storeroom, either. It had simply been in his hand. Ciel had told him so, an hour ago, under rule eight.
+
+The first one in weeks.
+
+Tired, she had said. You get careless with distance when you are tired.
 
 He only remembered that they had needed someone, and he had been there.
 

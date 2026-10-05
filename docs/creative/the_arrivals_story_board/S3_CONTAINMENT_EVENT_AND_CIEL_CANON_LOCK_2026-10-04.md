@@ -122,6 +122,32 @@ Creator-directed, 2026-10-05.
 - **Frieren keeps one pressed white flower in her grimoire.** It appears again in V16 "Water on Stone".
 - **Status after V15:** the elf route stays a future question, not an S3 outcome. Mau **cannot call** leaked abilities on purpose; control belongs to later seasons. Leaks after this point are rare. During the V18 overload the seal holds and the pressure comes from the trunk around it.
 
+### 3B. Frequency and trial log (woven into existing chapters)
+
+The leaks and the trials **keep existing** after their own chapters. They surface as short beats, usually under rule 8, inside chapters about other things.
+
+| Where | What | Frequency signal |
+|---|---|---|
+| Pre-Move, V14 #1–#5 | warning, door, several leaks | frequent |
+| V14 "The Backpack" | the ribbon goes into the backpack's front pocket | — |
+| V14 "Two Homes at Once" | leak while carrying crates; Okarun: "Rule eight. Third time this week." | still weekly |
+| V15 "Three Ordinary Weeks" | last leak on Move day 4 (Maomao's jars); Ciel keeps counting quiet days | fading |
+| V15 #6–#7 | 19 quiet days, then **Trial 1: 19 minutes** (first flower) | — |
+| V15 "Whose Turn" (refuge stress) | he fetches a ledger without walking; "first one in weeks"; Ciel: tired makes you careless with distance | **stress raises frequency** |
+| V16 "Nobody Works Today" | floats a finger's width while dozing; Frieren hooks his ankle down; "twelve days since the last one" | rare |
+| V16 "Construction Is Not Engineering" | Senku: "Is this the leak thing?" Mau: "This one's mine. The leaks don't ask." | native Construction vs. leaks distinguished |
+| V16 "One Question" | **Trial 2: 26 minutes** (Maomao wrote 24); two flowers | — |
+| V17 "The Legendary Snack" | "I can't call it. It calls me." "Twice this month." | rare and uncontrollable |
+| V17 "Everyone Home" | **Trial 3: 31 minutes**; third flower drying | — |
+| V18 "The Monster Wave" | covers distance at the agricultural edge without crossing it; "first one in a month"; fear does that | **stress spike** |
+| V19 "Mau Jail, Part Two" | floats while sleeping off the Trial; Frieren ties the ribbon again; "Prison regulations?" | stress spike |
+| V19 "Frieren Doesn't Answer" | four pressed flowers on the nightstand, one per deliberate trial (Trial 4 happens off-page between V17 and V19) | — |
+
+**Rules of thumb for later seasons:**
+- Leaks are involuntary, small and mostly spatial or flight. They spike with fear, exhaustion or the aftermath of a Trial, and fade with rest.
+- Mau cannot summon them.
+- Trials are deliberate, monitored by Ciel, Rimuru, Frieren and Maomao, and kept from the household. Each runs a little longer. None has been permanent.
+
 ## 4. Physical consequence: the left eye
 
 - To return the body to arrival-state, Ciel had to leave **one valve**: the ghoul route, the only route that already knows how to vent pressure.

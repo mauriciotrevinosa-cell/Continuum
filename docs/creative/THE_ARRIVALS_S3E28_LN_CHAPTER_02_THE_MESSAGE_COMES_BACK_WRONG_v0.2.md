@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 33 — The Message Comes Back Wrong
+## Chapter 35 — The Message Comes Back Wrong
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 33
+**Reading order:** 35
 
 A week after the statement left, a traveler brought a copied version back.
 

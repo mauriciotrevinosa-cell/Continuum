@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 27 — Too Few Beds Again
+## Chapter 29 — Too Few Beds Again
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 27
+**Reading order:** 29
 
 They had moved because the inn was too small.
 

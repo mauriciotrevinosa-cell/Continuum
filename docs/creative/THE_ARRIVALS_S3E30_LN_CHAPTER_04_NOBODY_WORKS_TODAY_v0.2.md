@@ -492,6 +492,20 @@ Ori half-asleep against Rem's knee.
 
 Mau sat down on the floor beneath the windowsill, where Frieren's feet hung down, and leaned his head back against the wall, and closed his eyes.
 
+At some point he dozed.
+
+At some point after that, Kaneki looked up from his bad book and saw that Mau was no longer quite sitting on the floor. He was a finger's width above it.
+
+Kaneki looked at Frieren.
+
+Frieren, without taking her eyes off her grimoire, hooked one foot over Mau's ankle and drew him gently back down.
+
+"Rule eight," Ori murmured, half asleep against Rem's knee.
+
+"Later," said Frieren. "He's resting."
+
+Twelve days since the last one, Ciel noted, to nobody.
+
 The rain went on.
 
 From the far end of the house, very faintly, came the sound of a fort falling down for the fourth time and Milim declaring war on gravity.

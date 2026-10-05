@@ -268,6 +268,8 @@ The backpack sat open on the floor while two people who loved each other failed 
 
 That helped more than symbolism.
 
+Frieren's hair ribbon, which he had finally taken off his ankle, went into the front pocket first.
+
 At the end, Mau put the backpack beside the door.
 
 Not first.

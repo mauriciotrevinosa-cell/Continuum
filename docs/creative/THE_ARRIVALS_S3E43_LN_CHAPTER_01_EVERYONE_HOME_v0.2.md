@@ -53,6 +53,14 @@ Marin had declared the indoor work ban thirty minutes earlier and was now stalki
 
 Maki and Frieren occupied the same window bench with the comfortable silence of people who no longer needed a crisis to justify sitting together.
 
+Frieren had her grimoire open on her knee.
+
+A third small flower was drying between two of its pages.
+
+Thirty-one minutes, three days ago. Maomao there. Rimuru there. Nobody else.
+
+Maki did not ask about the flower.
+
 Seiko had taken the chair opposite them and was criticizing both of their standards for rest.
 
 Nazuna was asleep through the entire argument.

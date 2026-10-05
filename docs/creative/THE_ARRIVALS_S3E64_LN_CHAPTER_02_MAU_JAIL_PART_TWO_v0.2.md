@@ -291,6 +291,22 @@ Same person.
 
 No anchor.
 
+Once, during the long sleep, he rose.
+
+A finger's width off the mattress.
+
+Then a hand's.
+
+Frieren did not wake anyone.
+
+She took the ribbon out of her hair, tied one end to his ankle and the other to the bedpost, the way she had done once at the old inn, and he drifted at the end of it like a boat at a mooring until whatever the Trial had wound tight in him loosened, and he settled.
+
+Umaru, coming in with the prison meal, looked at the ribbon.
+
+"Prison regulations?"
+
+"Yes," said Frieren.
+
 By afternoon, Mau slept deeply enough that nobody moved chair.
 
 Seven days of the Return/Stay window remained.

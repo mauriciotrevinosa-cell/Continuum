@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 22 — Back to the Inn
+## Chapter 27 — Back to the Inn
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 22  
+**Reading order:** 27  
 **Continuity state:** Move Day 5 | First deliberate return trip after majority move
 
 Mau returned to the inn the next morning.

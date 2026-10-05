@@ -86,7 +86,7 @@ At what he thought was forty, he was no longer certain the previous loop had onl
 
 That frightened him more than dying.
 
-Memory Arc had already taught him what it felt like not to trust autobiography.
+The memory crisis had already taught him what it felt like not to trust autobiography.
 
 Now the Trial was creating genuine repeated experiences faster than his mind could organize them.
 

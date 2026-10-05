@@ -266,7 +266,7 @@ Ori stepped closer.
 
 "Do you?"
 
-Memory Arc language.
+The old words.
 
 Cruel.
 

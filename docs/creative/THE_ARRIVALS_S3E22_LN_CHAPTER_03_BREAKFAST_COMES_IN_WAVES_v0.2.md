@@ -194,9 +194,9 @@ Fern noticed.
 
 Said nothing.
 
-Memory Arc did not disappear.
+The bad weeks did not disappear.
 
-It became part of ordinary reactions.
+They got smaller, and became part of ordinary reactions.
 
 At the end of the second week Momo finally surrendered.
 

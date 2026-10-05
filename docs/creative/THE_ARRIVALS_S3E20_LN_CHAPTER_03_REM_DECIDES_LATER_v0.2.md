@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 23 — Rem Decides Later
+## Chapter 24 — Rem Decides Later
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 23  
+**Reading order:** 24  
 **Continuity state:** Move Day 3 | Rem remains old-inn guest/searcher by choice
 
 Rem came to the settlement carrying supplies.

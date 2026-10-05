@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 31 — The Message at Dinner
+## Chapter 32 — The Message at Dinner
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 31
+**Reading order:** 32
 
 The unity message returned at dinner again.
 

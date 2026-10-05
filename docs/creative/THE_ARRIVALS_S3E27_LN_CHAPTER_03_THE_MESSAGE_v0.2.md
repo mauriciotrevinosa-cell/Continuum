@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 32 — The Message
+## Chapter 33 — The Message
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 32
+**Reading order:** 33
 
 They sent the message by boring methods.
 
@@ -174,7 +174,7 @@ Mau looked at her.
 
 Records again.
 
-Memory Arc had changed how much records mattered.
+The memory crisis had changed how much records mattered.
 
 If the world lied later:
 there would be an original.

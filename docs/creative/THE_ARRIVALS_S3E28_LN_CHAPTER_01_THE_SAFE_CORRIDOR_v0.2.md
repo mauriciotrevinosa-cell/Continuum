@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 34 — The Safe Corridor
+## Chapter 35 — The Safe Corridor
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 34
+**Reading order:** 35
 
 The east village did not become an ally overnight.
 

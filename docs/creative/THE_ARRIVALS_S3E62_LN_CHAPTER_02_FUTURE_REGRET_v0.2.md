@@ -312,7 +312,7 @@ If Frieren stays and regrets it after a hundred years—
 
 He could not finish.
 
-Memory Arc had attacked whether Frieren loved him.
+The false memories had attacked whether Frieren loved him.
 
 The Trial had created a worse terror:
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 25 — First Full Night
+## Chapter 26 — First Full Night
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 25  
+**Reading order:** 26  
 **Continuity state:** Move Day 4 — night | Most ongoing residents now sleep at settlement | Inn remains active satellite
 
 The first full night did not mean everyone.

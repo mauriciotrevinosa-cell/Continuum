@@ -6,7 +6,9 @@
 **Reading order:** 21  
 **Continuity state:** Day 3 — morning, present resumes | Search party reaches witch zone | Eight-signature fact confirmed; Mau alive inside
 
-The next morning, the story caught back up with the search.\n\nDiablo stopped before the boundary.
+The next morning, the story caught back up with the search.
+
+Diablo stopped before the boundary.
 
 "Eight."
 

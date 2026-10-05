@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 15 — Hakari Plans a Date
+## Chapter 16 — Hakari Plans a Date
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 15  
+**Reading order:** 16  
 **Continuity state:** Ordinary day between hearings | Household plans a second date for Mau and Frieren
 
 The crisis began, as several crises had, with Hakari overhearing something she was not supposed to.

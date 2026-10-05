@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 27 — Karane Has Given Up on Logic
+## Chapter 28 — Karane Has Given Up on Logic
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
-**Reading order:** 27  
+**Reading order:** 28  
 **Continuity state:** Ordinary-life ensemble | 100 Girlfriends-side group remains visible as family texture rather than cameo cast
 
 Karane had given up on logic before Continuum.

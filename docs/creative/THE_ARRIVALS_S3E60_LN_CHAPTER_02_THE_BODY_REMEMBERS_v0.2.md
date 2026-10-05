@@ -34,7 +34,7 @@ He hesitated.
 
 That answer meant something different now.
 
-Not Memory Arc.
+Not the false memories.
 
 Not false biography.
 
@@ -172,7 +172,7 @@ Frieren opened her eyes.
 
 He stopped.
 
-Memory Arc phrase.
+The old phrase.
 
 She touched his hand.
 

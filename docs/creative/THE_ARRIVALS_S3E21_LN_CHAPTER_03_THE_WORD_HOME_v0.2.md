@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 29 — The Word Home
+## Chapter 32 — The Word Home
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 29  
+**Reading order:** 32  
 **Continuity state:** End of Move Week 1 | Settlement becomes default lived home; inn remains origin-home
 
 The word changed without a meeting.

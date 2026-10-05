@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 7 — Flowers, Again
+## Chapter 8 — Flowers, Again
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 7  
+**Reading order:** 8  
 **Continuity state:** Ordinary Week 2 — three days later | The clearing | One guardrail opened for nineteen minutes | Kept from the household
 
 The clearing was smaller than Mau remembered.

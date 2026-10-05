@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 24 — Third Wave
+## Chapter 25 — Third Wave
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 24  
+**Reading order:** 25  
 **Continuity state:** Move Day 4 | Fern transfers primary household administration | Rem remains at old inn
 
 Fern moved on day four.
@@ -178,7 +178,7 @@ Good.
 
 Mau noticed.
 
-Memory Arc made him notice.
+He noticed because he knew what it cost when one person was the only one who remembered where things were.
 
 By evening, the settlement contained enough of the household's practical memory that calling the inn default base stopped being accurate.
 

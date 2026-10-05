@@ -134,7 +134,7 @@ The Goddess:
 
 Mau's mouth tightened.
 
-Memory Arc language again.
+The old words again.
 
 He understood the sentence.
 

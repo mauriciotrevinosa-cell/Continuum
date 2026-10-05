@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 28 — One for Hundreds
+## Chapter 29 — One for Hundreds
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 28
+**Reading order:** 29
 
 The resident who asked was scared.
 

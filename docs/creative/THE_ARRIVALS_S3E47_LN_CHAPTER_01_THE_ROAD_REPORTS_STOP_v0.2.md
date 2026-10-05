@@ -125,7 +125,7 @@ Mau wanted to argue.
 
 Outer silence felt like invitation to go looking.
 
-Memory Arc had trained him to hate missing information.
+The memory crisis had trained him to hate missing information.
 
 Frieren stood nearby.
 
@@ -222,7 +222,7 @@ No attack.
 
 Mau lay awake longer than usual.
 
-Not Memory Arc bad.
+Not the old bad kind of awake.
 
 Just listening.
 

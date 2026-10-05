@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 35 — The Message Comes Back Wrong
+## Chapter 36 — The Message Comes Back Wrong
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 35
+**Reading order:** 36
 
 A week after the statement left, a traveler brought a copied version back.
 
@@ -197,7 +197,7 @@ The same epistemic problem had become social.
 
 Mau noticed.
 
-Memory Arc had prepared him badly and well for this.
+The memory crisis had prepared him badly and well for this.
 
 Volume Fifteen ended with Searchers preparing to carry the correction east.
 

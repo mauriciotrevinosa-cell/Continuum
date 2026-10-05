@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 27 — The Person in Front
+## Chapter 28 — The Person in Front
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 27
+**Reading order:** 28
 
 Language shifted slowly enough that nobody could identify first sentence.
 
@@ -121,7 +121,7 @@ He wanted to argue.
 
 Then remembered Sukuna.
 
-Memory Arc.
+The first search.
 
 Times people had learned:
 Mau will go.

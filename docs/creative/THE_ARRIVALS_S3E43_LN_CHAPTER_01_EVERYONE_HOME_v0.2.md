@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 21 — Everyone Home
+## Chapter 22 — Everyone Home
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 21
+**Reading order:** 22
 
 Outside hostility closed nonessential travel for one day.
 
@@ -232,8 +232,6 @@ Frieren joined.
 Frieren understood.
 
 Too many people loved in one place.
-
-Memory Arc.
 
 Sukuna.
 

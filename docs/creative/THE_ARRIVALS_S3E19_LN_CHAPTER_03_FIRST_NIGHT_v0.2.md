@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 17 — First Night
+## Chapter 18 — First Night
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 17  
+**Reading order:** 18  
 **Continuity state:** Move Day 1 — night | First wave sleeps at settlement | Inn remains occupied
 
 The first night was terrible.
@@ -181,8 +181,6 @@ No chronology.
 
 Body panic first.
 
-Memory Arc.
-
 Frieren was awake immediately.
 
 "Mau."
@@ -241,6 +239,16 @@ Frieren considered.
 Mau looked at her.
 
 The answer was so simple it hurt.
+
+Inside his head, very quietly, Ciel said: For the record, the chimney is also new to me.
+
+Mau had not asked her anything.
+
+I am allowed in emergencies, said Ciel. This was an emergency of morale.
+
+He laughed into the pillow.
+
+Frieren did not ask.
 
 New room.
 

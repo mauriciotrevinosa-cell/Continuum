@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 31 — The Draft
+## Chapter 32 — The Draft
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 31
+**Reading order:** 32
 
 The first complete draft was terrible.
 
@@ -147,7 +147,7 @@ New line:
 
 Mau stared.
 
-Memory Arc.
+His own rescue, months ago.
 
 Rescue not ownership.
 

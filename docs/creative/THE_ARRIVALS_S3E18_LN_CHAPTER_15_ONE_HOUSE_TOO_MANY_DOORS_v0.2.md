@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 14 — One House, Too Many Doors
+## Chapter 15 — One House, Too Many Doors
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 14  
-**Reading order:** 14  
+**Reading order:** 15  
 **Continuity state:** Move planning Day 3 | Household rejects source-world enclave logic
 
 The efficient plan had five buildings.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 18 — Searchers Without Mau
+## Chapter 19 — Searchers Without Mau
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 18  
+**Reading order:** 19  
 **Continuity state:** Searchers operate independently | Mau physically capable but deliberately stays home
 
 Mau spent the next Searcher mission fixing a shelf.
@@ -79,7 +79,7 @@ No magical limit.
 
 Only the fact that the system they had built did not require him.
 
-Memory Arc made that sentence hurt.
+It stung. Less than it would have once.
 
 He looked at the route.
 
@@ -181,10 +181,8 @@ Mau went to their room.
 
 Looked at her side of the bed.
 
-Memory Arc supplied an old terror:
+An old terror came back for a second:
 access to someone can disappear while they're alive.
-
-Trial had not happened yet, but the lesson already existed in another form.
 
 Mau sat.
 

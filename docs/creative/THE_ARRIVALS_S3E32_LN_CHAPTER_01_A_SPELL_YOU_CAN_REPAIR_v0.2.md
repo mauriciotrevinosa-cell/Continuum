@@ -208,8 +208,6 @@ He nodded.
 
 She knew what he meant.
 
-Memory Arc.
-
 Usefulness.
 
 Necessary versus wanted.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 21 — Teach Someone Else
+## Chapter 22 — Teach Someone Else
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 21
+**Reading order:** 22
 
 The maintenance rule became:
 
@@ -146,7 +146,7 @@ No critical monopoly.
 
 He stared.
 
-Memory Arc sentence rose automatically.
+The old sentence rose automatically.
 
 Not necessary.
 

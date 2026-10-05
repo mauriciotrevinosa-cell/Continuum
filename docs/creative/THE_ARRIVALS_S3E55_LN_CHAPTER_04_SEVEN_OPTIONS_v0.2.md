@@ -329,7 +329,7 @@ She closed her eyes.
 
 "Don't promise what you don't know."
 
-Memory Arc had taught them that too.
+The memory crisis had taught them that too.
 
 Mau corrected.
 

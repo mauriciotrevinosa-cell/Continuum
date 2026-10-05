@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 15 — First Wagon
+## Chapter 16 — First Wagon
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 15  
+**Reading order:** 16  
 **Continuity state:** Move Day 1 | First staged cargo run | Old inn remains occupied
 
 The first wagon carried almost no people.

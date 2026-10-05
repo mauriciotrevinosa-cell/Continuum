@@ -84,7 +84,7 @@ To separate inputs.
 
 "I don't know."
 
-"Does it feel like Memory Arc?"
+"Does it feel like before? Like the false memories?"
 
 "No."
 
@@ -257,7 +257,7 @@ Then released.
 
 "Before."
 
-Memory Arc promise converted into behavior.
+An old promise, converted into behavior.
 
 Aira opened the access panel.
 

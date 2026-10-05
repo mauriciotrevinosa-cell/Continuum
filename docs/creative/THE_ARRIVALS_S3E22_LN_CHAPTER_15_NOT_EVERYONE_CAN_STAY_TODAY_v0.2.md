@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 14 — Not Everyone Can Stay Today
+## Chapter 15 — Not Everyone Can Stay Today
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 14  
+**Reading order:** 15  
 **Continuity state:** Arrival pressure begins | Capacity remains materially limited
 
 The second intentional arrival came two days later.

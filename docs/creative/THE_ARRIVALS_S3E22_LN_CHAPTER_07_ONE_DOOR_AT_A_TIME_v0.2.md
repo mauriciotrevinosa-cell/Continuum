@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 6 — One Door at a Time
+## Chapter 7 — One Door at a Time
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 6  
+**Reading order:** 7  
 **Continuity state:** Ordinary Week 2 | Nineteen quiet days | Mau, Rimuru and Frieren decide a controlled elf-route trial
 
 Mau woke up feeling good.
@@ -30,11 +30,15 @@ Good morning.
 
 "How are the guardrails?"
 
-Quiet, said Ciel. Nothing has come through in nineteen days. The pattern is still working inside. I can feel it. But it is working slowly, the way a person hums while doing something else.
+Quiet, said Ciel. Nothing has come through on its own in nineteen days. The pattern is still working inside. I can feel it. But it is working slowly, the way a person hums while doing something else.
 
 "Nineteen days."
 
 Yes.
+
+"The witches?"
+
+You asked for that one. I do not count what you ask for.
 
 "Is that good?"
 
@@ -79,6 +83,16 @@ Rimuru said nothing.
 "What if we opened one door," said Mau. "On purpose. One. With you watching. With Ciel watching. And let my body learn one thing, slowly, instead of whatever falls out next."
 
 Rimuru was quiet for a long time.
+
+"You're thinking about the wobbly chair," he said.
+
+"I'm thinking it came when I asked."
+
+"I told you not to make that a plan."
+
+"This isn't that." Mau turned the stone over. "That was me asking something that had already leaked to come out again. This is asking you to open a door. With Ciel watching. On purpose. Before it opens itself."
+
+Rimuru was quiet again.
 
 "Which one?" he said.
 

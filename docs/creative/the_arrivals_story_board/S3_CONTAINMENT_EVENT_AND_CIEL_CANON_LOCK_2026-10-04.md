@@ -104,7 +104,10 @@ Creator-directed, 2026-10-05.
   - **"Two Hands Full" (V14 #3).** While caring for Frieren's cold, Mau teleports unconsciously (Diablo's method plus Rimuru's spatial sense) to the well, kitchen and cellar. Nine people notice. Seiko invokes rule 8 and Fern tells him. He chooses to walk again so he keeps noticing small leaks. Diablo is "insulted and flattered".
   - **"Ceiling" (V14 #4).** Frieren's flight leaks while he sleeps. Frieren tethers his ankle to the bedpost with her hair ribbon; he keeps the ribbon for a week.
   - **"Mid-Sentence" (V14 #5).** Rimuru's spatial motion, pure with no join: mid-argument about their room, Mau appears at the worksite beside Rimuru, spoon in hand. Bed on the north wall; shelf "disputed", which carries into V14 "Frieren Has Opinions" and V19's "your shelf is still badly placed".
-- **After the Move:** leaks fade. Nineteen quiet days pass by Ordinary Week 2 of V15.
+- **"Every Variable" (V14 #9, Packing Day 1).** Ciel announces, unprompted and pleased, that she has reinforced the spatial guardrail against "every variable" and it will hold for weeks. About four seconds later Mau steps off the pantry ladder onto the roof. Ciel: "...Never mind." Mau tells her she sounded exactly like Diablo; she is offended and Diablo is delighted ("Kufufufu"). That afternoon Frieren's flight leaks and Fern uses him to empty the top shelf. Night: Mau asks Ciel whether *she* is okay, and she says she would rather be wrong in front of people than never have been.
+- **"Don't Name It" (V14 #27, Move Day 4, night). The first dangerous leak.** Mau's shadow becomes a hole and a malformed divine dog (black, one white ear) begins to rise. Ciel: *do not move, do not name it, do not shape your hands.* The pattern was not leaking a finished thing. It was trying to **supply a missing requirement** (the Ten Shadows medium needs shikigami it never had). Ciel closes it. Four claw scratches remain in the common-room floor. Yuta identifies Megumi's dogs and notes that the one shikigami nobody has tamed is Mahoraga, whose wheel sits finished in the seal. Rimuru chooses rule 8 over comfort: "We don't know." **Mau stays and asks for help instead of running,** which is the clearest sign of recovery since the containment.
+- **"Rimuru's Left Hand" (V14 #28).** Dawn on the roof. Rimuru's regrown arm "remembers being gone", so he reaches a little late. He caps Mau's apologies at eleven. Holding the seal is "not heavy, loud", and unlike Veldora it doesn't talk back. At breakfast the household writes the **shadow protocol**: don't speak to it, don't name it, don't gesture; call Rimuru, Yuta or Ciel; clear the room, children first. Momo adds more lamps, because short shadows mean short holes. Wakana varnishes the scratches instead of sanding them (rule 1: kept, counted and held).
+- **After the Move:** leaks fade. Nineteen quiet days pass by Ordinary Week 2 of V15. In this count, Ciel does not include what Mau asks for.
 
 **The first controlled trial ("One Door at a Time" and "Flowers, Again", V15 #6–#7).**
 
@@ -120,7 +123,8 @@ Creator-directed, 2026-10-05.
   - he faints and wakes the next morning with the fever gone. Nothing lethal.
 - **Maomao** finds out the next afternoon and decrees: *"Next time, I am there."* So **there will be future trials**, now with medical oversight.
 - **Frieren keeps one pressed white flower in her grimoire.** It appears again in V16 "Water on Stone".
-- **Status after V15:** the elf route stays a future question, not an S3 outcome. Mau **cannot call** leaked abilities on purpose; control belongs to later seasons. Leaks after this point are rare. During the V18 overload the seal holds and the pressure comes from the trunk around it.
+- **"The Appointment" (V15 #6, Ordinary Week 2).** The witches arrive at the old inn for their fortnightly session, an hour long by Mau's own choice since the second week after containment. Mau forgot to tell them about the Move. Rimuru, there to fetch Momo's second-best pot, relays through Ciel. Frieren: *"Just this once. Then you come back with Rimuru, in the cart, like a person. And tell him I said that."* Pushing fails. Frieren then describes the session room precisely: the door that sticks, the creak two steps in, the wobbly chair Umaru broke, the stripe of light. Mau arrives. The cost is the eye opening and a wrung-out head. Witches: *"Instead of an hour, you owe us two."* They felt the fold; he tells them he did not choose it, he asked it. On the cart home Rimuru says "Don't make that a plan", and Mau answers "Not yet". That carries straight into "One Door at a Time".
+- **Status after V15:** the elf route stays a future question, not an S3 outcome. Mau **cannot call** leaked abilities on command. Once, by holding a single place precisely in mind, he *asked* and the spatial leak came. He has tried twice since and failed (V17). Control belongs to later seasons. Leaks after this point are rare. During the V18 overload the seal holds and the pressure comes from the trunk around it.
 
 ### 3B. Frequency and trial log (woven into existing chapters)
 
@@ -134,12 +138,20 @@ The leaks and the trials **keep existing** after their own chapters. They surfac
 | V15 "Three Ordinary Weeks" | last leak on Move day 4 (Maomao's jars); Ciel keeps counting quiet days | fading |
 | V15 #6–#7 | 19 quiet days, then **Trial 1: 19 minutes** (first flower) | — |
 | V15 "Whose Turn" (refuge stress) | he fetches a ledger without walking; "first one in weeks"; Ciel: tired makes you careless with distance | **stress raises frequency** |
+| V14 #9 "Every Variable" | Ciel's failed prediction ("...Never mind"); Diablo comparison; Frieren's flight used for the top shelf | frequent, comic |
+| V14 "First Night" | Ciel speaks unasked: "an emergency of morale" (running joke: good news and morale count as emergencies) | — |
+| V14 #27–#28 | **dangerous leak**: the shadow tries to supply a missing requirement; protocol, lamps, varnished scratches | danger |
+| V15 #6 "The Appointment" | first **asked-for** spatial leak (witches); not counted as a leak by Ciel | asked, not involuntary |
 | V16 "Nobody Works Today" | floats a finger's width while dozing; Frieren hooks his ankle down; "twelve days since the last one" | rare |
 | V16 "Construction Is Not Engineering" | Senku: "Is this the leak thing?" Mau: "This one's mine. The leaks don't ask." | native Construction vs. leaks distinguished |
 | V16 "One Question" | **Trial 2: 26 minutes** (Maomao wrote 24); two flowers | — |
-| V17 "The Legendary Snack" | "I can't call it. It calls me." "Twice this month." | rare and uncontrollable |
+| V16 "Ciel Doesn't Sleep" | Mau lets Ciel see the house through him for one night (rule 4, by request); Raphael remembered "like being very young"; jealousy "is concern with a particular shape"; Ciel laughs for the first time | — |
+| V17 "The Legendary Snack" | "I can't call it. It calls me." Asked once for the witches; two failed attempts since; "Twice this month." | rare and uncontrollable |
+| V17 #11 "Not Here Yet" | **the adaptation wheel turns one eighth inside the seal, before anything has hit.** Ciel: target absent; it turned toward a *kind* of thing, not a place ("weather", "a line"). Mau writes *Not here yet* | foreshadow |
+| V17 "The Old Inn Day" | witch sessions continue at the old inn, every second week; the wobbly chair is kept unfixed | — |
 | V17 "Everyone Home" | **Trial 3: 31 minutes**; third flower drying | — |
 | V18 "The Monster Wave" | covers distance at the agricultural edge without crossing it; "first one in a month"; fear does that | **stress spike** |
+| V19 #2 "Boundaries" | the Goddess's boundary lines appear; the wheel clicks the same eighth: **target present**. Recognition, not adaptation; it grants nothing | payoff |
 | V19 "Mau Jail, Part Two" | floats while sleeping off the Trial; Frieren ties the ribbon again; "Prison regulations?" | stress spike |
 | V19 "Frieren Doesn't Answer" | four pressed flowers on the nightstand, one per deliberate trial (Trial 4 happens off-page between V17 and V19) | — |
 
@@ -147,6 +159,8 @@ The leaks and the trials **keep existing** after their own chapters. They surfac
 - Leaks are involuntary, small and mostly spatial or flight. They spike with fear, exhaustion or the aftermath of a Trial, and fade with rest.
 - Mau cannot summon them.
 - Trials are deliberate, monitored by Ciel, Rimuru, Frieren and Maomao, and kept from the household. Each runs a little longer. None has been permanent.
+- **Dangerous leaks are a separate, rarer kind.** In these the pattern tries to *supply a missing requirement* for one of the 26 "finished, missing a requirement" shells, instead of leaking a carried ability. They are the reason the guardrails still matter. The household protocol from V14 #28 applies. Escalation toward Mahoraga through Ten Shadows is an open seed for later seasons; S3 does not resolve it.
+- **The wheel can pre-recognize.** It turned before being hit (V17) and recognized the domain-type when it arrived (V19 #2). This gives Mau **no resistance** to the Trial. Do not turn it into a power-up.
 
 ## 4. Physical consequence: the left eye
 

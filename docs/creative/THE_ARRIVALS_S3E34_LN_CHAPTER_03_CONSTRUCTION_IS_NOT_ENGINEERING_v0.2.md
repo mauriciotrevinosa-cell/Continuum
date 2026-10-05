@@ -101,8 +101,6 @@ That phrase hit.
 
 Hard.
 
-Memory Arc.
-
 Necessary.
 
 Mau sat.

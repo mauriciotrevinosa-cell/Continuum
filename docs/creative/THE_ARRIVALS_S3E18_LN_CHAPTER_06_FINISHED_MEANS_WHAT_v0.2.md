@@ -233,7 +233,7 @@ Frieren stood beside him.
 
 Frieren looked at him.
 
-Memory Arc had made the sentence heavier.
+A month ago, that sentence would have been heavy. Now it was mostly a joke. Mostly.
 
 Mau continued:
 

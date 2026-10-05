@@ -311,7 +311,7 @@ Mau nodded.
 
 Good.
 
-Memory Arc had changed him too.
+The memory crisis had changed him too.
 
 The line disappeared completely by hour six.
 

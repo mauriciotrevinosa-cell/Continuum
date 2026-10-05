@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 10 — Wakana's Workshop
+## Chapter 11 — Wakana's Workshop
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 10  
+**Reading order:** 11  
 **Continuity state:** Packing Day 2 | Resident-specific spaces start making settlement feel inhabited
 
 Wakana's workshop existed before his bedroom felt finished.

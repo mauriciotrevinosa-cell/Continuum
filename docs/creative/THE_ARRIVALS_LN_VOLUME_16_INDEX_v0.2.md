@@ -4,7 +4,7 @@
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  
-**Chapter count:** 34
+**Chapter count:** 35
 
 | # | Chapter |
 |---:|---|
@@ -27,21 +27,22 @@
 | 17 | Arrival House Gets Walls |
 | 18 | Water on Stone |
 | 19 | Construction Is Not Engineering |
-| 20 | Maomao, Senku and Kusuri Agree Too Much |
-| 21 | Teach Someone Else |
-| 22 | The Old Inn Has Guests |
-| 23 | Not One Reason |
-| 24 | Suika Has Too Many Sisters |
-| 25 | Diablo Does Not Need an Order |
-| 26 | Milim Wants Both Brothers |
-| 27 | Karane Has Given Up on Logic |
-| 28 | Senku Gets Faster |
-| 29 | The First Thing Built for Peace |
-| 30 | One Question |
-| 31 | The Message at Dinner |
-| 32 | A City Before a Name |
-| 33 | Okarun Comes Looking for Mau |
-| 34 | Carry Half |
+| 20 | Ciel Doesn't Sleep |
+| 21 | Maomao, Senku and Kusuri Agree Too Much |
+| 22 | Teach Someone Else |
+| 23 | The Old Inn Has Guests |
+| 24 | Not One Reason |
+| 25 | Suika Has Too Many Sisters |
+| 26 | Diablo Does Not Need an Order |
+| 27 | Milim Wants Both Brothers |
+| 28 | Karane Has Given Up on Logic |
+| 29 | Senku Gets Faster |
+| 30 | The First Thing Built for Peace |
+| 31 | One Question |
+| 32 | The Message at Dinner |
+| 33 | A City Before a Name |
+| 34 | Okarun Comes Looking for Mau |
+| 35 | Carry Half |
 
 ## Creator-revision relationship expansion — 2026-10-04
 

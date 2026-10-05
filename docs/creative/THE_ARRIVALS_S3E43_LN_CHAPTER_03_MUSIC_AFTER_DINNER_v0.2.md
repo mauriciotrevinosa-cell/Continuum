@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 23 — Music After Dinner
+## Chapter 24 — Music After Dinner
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 23
+**Reading order:** 24
 
 Bocchi played because the guitar was already there.
 
@@ -76,8 +76,6 @@ World felt larger.
 Halfway, Frieren leaned against Mau.
 
 "Do you remember this?"
-
-Memory Arc reflex.
 
 Mau looked.
 

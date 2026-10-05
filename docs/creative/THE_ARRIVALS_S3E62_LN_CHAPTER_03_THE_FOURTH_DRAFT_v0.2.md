@@ -124,7 +124,7 @@ Then:
 
 He stared.
 
-Memory Arc word.
+The old words.
 
 I know.
 

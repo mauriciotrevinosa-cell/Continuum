@@ -281,8 +281,6 @@ Mau opened his eyes.
 
 "Because you're saying them."
 
-Memory Arc.
-
 Present truth over polished safety.
 
 Mau breathed.

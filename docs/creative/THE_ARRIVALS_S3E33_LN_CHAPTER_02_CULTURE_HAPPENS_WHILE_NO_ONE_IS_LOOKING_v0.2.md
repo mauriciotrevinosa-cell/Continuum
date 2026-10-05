@@ -45,7 +45,7 @@ He froze.
 
 Half second.
 
-Memory Arc reflex.
+Old reflex.
 
 "Where did you hear that?"
 

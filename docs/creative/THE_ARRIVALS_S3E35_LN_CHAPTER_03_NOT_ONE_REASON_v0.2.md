@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 23 — Not One Reason
+## Chapter 24 — Not One Reason
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
-**Reading order:** 23  
+**Reading order:** 24  
 **Continuity state:** G5 no longer behaves as one cohort | Ring Two develops direct reasons to stay close
 
 The question came back.

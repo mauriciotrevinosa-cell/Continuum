@@ -90,7 +90,7 @@ Mau waited for catastrophe.
 
 None came.
 
-One wrong detail did not become Memory Arc.
+One wrong detail did not become a collapse.
 
 Good.
 
@@ -226,7 +226,7 @@ Silence.
 
 Not because request was unreasonable.
 
-Because everyone still carried Memory Arc.
+Because everyone still carried the memory crisis somewhere.
 
 Frieren looked at him.
 

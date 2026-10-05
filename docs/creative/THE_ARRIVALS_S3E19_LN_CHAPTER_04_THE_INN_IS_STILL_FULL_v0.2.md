@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 18 — The Inn Is Still Full
+## Chapter 19 — The Inn Is Still Full
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 18  
+**Reading order:** 19  
 **Continuity state:** Move Day 2 — morning | Old inn remains functioning household / guest base
 
 The old inn did not wake empty.

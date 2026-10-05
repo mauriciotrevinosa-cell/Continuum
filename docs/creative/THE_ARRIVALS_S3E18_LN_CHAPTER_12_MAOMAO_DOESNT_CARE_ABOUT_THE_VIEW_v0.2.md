@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 11 — Maomao Doesn't Care About the View
+## Chapter 12 — Maomao Doesn't Care About the View
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 11  
+**Reading order:** 12  
 **Continuity state:** Packing Day 2 | Medical/storage placement finalized before first night
 
 Someone told Maomao her room had the worst view.

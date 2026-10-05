@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 25 — Diablo Does Not Need an Order
+## Chapter 26 — Diablo Does Not Need an Order
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
-**Reading order:** 25  
+**Reading order:** 26  
 **Continuity state:** Ordinary settlement life | Diablo begins serving the household by judgment, not only Rimuru's direct instruction
 
 Diablo moved the lumber before anyone asked.
@@ -66,7 +66,7 @@ Mau narrowed his eyes.
 
 Diablo seemed pleased.
 
-The problem had started after the Memory Arc.
+The problem had started after the memory crisis.
 
 At first Diablo's attention made sense.
 

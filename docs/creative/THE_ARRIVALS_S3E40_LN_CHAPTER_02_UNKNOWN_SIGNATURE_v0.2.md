@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 12 — Unknown Signature
+## Chapter 13 — Unknown Signature
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 12
+**Reading order:** 13
 
 The first sensor alarm was a cow.
 

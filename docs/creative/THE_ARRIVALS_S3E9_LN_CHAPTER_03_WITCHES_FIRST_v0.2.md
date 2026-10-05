@@ -6,7 +6,9 @@
 **Reading order:** 19  
 **Continuity state:** Earlier — Day 2 morning | Mau: unconscious from exhaustion | Witches find him before the household has a reliable lead
 
-The witches had found Mau the previous morning, while the inn still had no real lead.\n\nHe was face-down beside a stream.
+The witches had found Mau the previous morning, while the inn still had no real lead.
+
+He was face-down beside a stream.
 
 Not dramatically.
 

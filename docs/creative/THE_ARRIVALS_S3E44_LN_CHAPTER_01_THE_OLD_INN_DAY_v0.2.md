@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 24 — The Old Inn Day
+## Chapter 25 — The Old Inn Day
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 24
+**Reading order:** 25
 
 The next morning, a mixed group went to the old inn.
 
@@ -310,6 +310,24 @@ Fern sighed.
 "No."
 
 Victory.
+
+Before they left, Mau went upstairs.
+
+Second door. He lifted it a little as he pushed.
+
+The chair by the window was still there. It still wobbled. The witches had refused to let anyone fix it. It was, they said, the chair he answered honestly in.
+
+The sessions had come back to this room after two attempts at the new site, where too many people stood in doorways and too many children asked the witches whether they were real. Every second week, at the agreed bell. He had not forgotten one since.
+
+Eren had followed him up the stairs. He looked at the chair.
+
+"What is this room?"
+
+Mau thought about how to answer that.
+
+"Where I get asked questions," he said, "by people who aren't afraid of the answers."
+
+Eren looked at the chair a little longer than he needed to.
 
 They walked back before dark.
 

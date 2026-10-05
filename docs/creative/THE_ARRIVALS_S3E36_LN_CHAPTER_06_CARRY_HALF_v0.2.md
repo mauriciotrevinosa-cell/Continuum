@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 34 — Carry Half
+## Chapter 35 — Carry Half
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
-**Reading order:** 34  
+**Reading order:** 35  
 **Continuity state:** Ordinary work day | Yuta/Mau older-brother bond reappears outside medical crisis
 
 Yuta took half the box.
@@ -46,7 +46,7 @@ Not all.
 
 That detail mattered.
 
-After Memory Arc, too many people had moved from:
+After the memory crisis, too many people had moved from:
 
 let Mau do everything
 

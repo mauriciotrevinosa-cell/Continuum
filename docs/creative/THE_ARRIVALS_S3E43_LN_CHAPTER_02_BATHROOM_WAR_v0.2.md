@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 22 — Bathroom War
+## Chapter 23 — Bathroom War
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 22
+**Reading order:** 23
 
 Full occupancy broke bathroom assumptions.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 19 — Second Wave
+## Chapter 20 — Second Wave
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 19  
+**Reading order:** 20  
 **Continuity state:** Move Day 2 | Second resident wave transfers from old inn
 
 The second wave left after lunch.
@@ -65,8 +65,6 @@ Not death.
 Not disappearance.
 
 Move.
-
-Memory Arc had made leaving places feel more permanent than they were.
 
 Bocchi set the guitar down long enough to touch the old table.
 

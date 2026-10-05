@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 15 — The Table Gets a Roof
+## Chapter 16 — The Table Gets a Roof
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 15  
+**Reading order:** 16  
 **Continuity state:** Arrival House becomes provisional institution because weather and people demand it
 
 Rain solved the naming argument.

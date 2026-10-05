@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 16 — Two Homes at Once
+## Chapter 17 — Two Homes at Once
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 16  
+**Reading order:** 17  
 **Continuity state:** Move Day 1 — afternoon | Inn and settlement both actively inhabited/used
 
 By afternoon, the sentence:
@@ -232,7 +232,7 @@ His backpack gone.
 
 Bed still there.
 
-The room looked like Memory Arc had removed pieces.
+For one second, the half-empty room looked like the worst of the bad weeks: pieces missing that should have been there.
 
 His body reacted before thought.
 

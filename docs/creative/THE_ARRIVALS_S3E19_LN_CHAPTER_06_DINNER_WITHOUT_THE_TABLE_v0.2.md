@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 20 — Dinner Without the Table
+## Chapter 21 — Dinner Without the Table
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 20  
+**Reading order:** 21  
 **Continuity state:** Move Day 2 — evening | Majority at settlement | Inn still occupied
 
 Dinner felt wrong because the old table was not there.
@@ -150,7 +150,7 @@ He froze.
 
 "What the hell?"
 
-Memory Arc lesson had become reflex.
+The household had learned this one the hard way. Now it was reflex.
 
 Mau pointed.
 

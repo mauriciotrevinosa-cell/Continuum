@@ -34,7 +34,7 @@ The word surprised him.
 
 Not because he had never known.
 
-Because Memory Arc had made evidence unstable.
+Because the false memories had made evidence unstable.
 
 This did not feel unstable.
 
@@ -286,7 +286,7 @@ The Goddess:
 
 "Understanding is not the same as living it."
 
-Memory Arc language.
+The old words.
 
 Mau closed his eyes.
 

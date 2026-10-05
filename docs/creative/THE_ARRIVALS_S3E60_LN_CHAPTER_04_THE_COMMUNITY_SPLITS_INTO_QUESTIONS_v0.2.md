@@ -248,7 +248,7 @@ He laughed without humor.
 
 "Not living it."
 
-Memory Arc language had infected everyone.
+The old words had infected everyone.
 
 Good.
 

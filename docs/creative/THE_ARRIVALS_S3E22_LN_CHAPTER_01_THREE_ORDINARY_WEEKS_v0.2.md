@@ -12,6 +12,10 @@ Small things happened instead.
 
 The last leak came on the fourth day after the Move: a crate of Maomao's jars, carried from the wagon to the storeroom without the walk in between. Mau noticed that one himself, and told her before anyone else could.
 
+That same night was the shadow.
+
+Nobody called that one a leak. Nobody called it anything at the table, by agreement, in case naming things was part of the problem. The household simply bought more lamp oil than anyone could justify, and stepped over the four varnished scratches in the common-room floor carefully at first, and then, after a week, the way you step over any part of a floor you know.
+
 Then nothing.
 
 Ciel counted the quiet days for him, because he had asked her to. He stopped asking after the first week.

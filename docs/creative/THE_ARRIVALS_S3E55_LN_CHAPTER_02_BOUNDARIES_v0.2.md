@@ -24,6 +24,26 @@ They did not connect like a cage.
 
 They implied one.
 
+Somewhere far down inside Mau, a wheel turned.
+
+One notch.
+
+The same heavy click he had heard once before, on the night after Stark's birthday. He knew it the way you know a voice.
+
+I looked, said Ciel, very quietly. The wheel. One eighth. Toward the same kind of thing as before.
+
+"Target?"
+
+Present.
+
+Mau looked at the lines of light standing in the air over the fields.
+
+Not here yet, he had written in his notebook.
+
+It was here now.
+
+The wheel did not turn further. One eighth of a turn was not adaptation. It was recognition.
+
 Senku reached the nearest marker first with three instruments and no sense of self-preservation.
 
 Mikasa stopped him two meters short.

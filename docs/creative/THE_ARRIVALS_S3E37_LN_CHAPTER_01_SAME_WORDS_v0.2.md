@@ -107,8 +107,6 @@ Anko:
 
 He knew that lesson too well.
 
-Memory Arc.
-
 No perfect scanner.
 
 Outside, city defense proposal was already circulating.

@@ -156,7 +156,7 @@ Roads.
 
 Fights.
 
-Memory Arc.
+The first disappearance.
 
 If he could turn choice into emergency, self-sacrifice became procedure.
 

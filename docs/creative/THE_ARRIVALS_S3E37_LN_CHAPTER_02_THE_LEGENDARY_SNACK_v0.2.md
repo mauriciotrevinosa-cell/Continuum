@@ -44,7 +44,11 @@ Umaru narrowed her eyes at him.
 
 "I can't call it," said Mau. "It calls me."
 
-"How often?"
+"You called it for the witches."
+
+"I asked it. Once. It took ten minutes and a wobbly chair, and I had a headache until dinner." He shrugged. "I've tried twice since. Nothing."
+
+"How often does it call you?"
 
 Mau thought about it.
 

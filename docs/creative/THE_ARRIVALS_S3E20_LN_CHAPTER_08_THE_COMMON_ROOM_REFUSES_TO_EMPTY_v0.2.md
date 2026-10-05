@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 26 — The Common Room Refuses to Empty
+## Chapter 29 — The Common Room Refuses to Empty
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 14  
-**Reading order:** 26  
+**Reading order:** 29  
 **Continuity state:** First full week | New common room begins repeating old-home family rhythms
 
 The new common room had a problem.

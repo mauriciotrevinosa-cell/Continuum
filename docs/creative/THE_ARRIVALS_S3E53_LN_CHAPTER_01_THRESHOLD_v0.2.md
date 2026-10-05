@@ -339,7 +339,7 @@ Frieren understood less than she wanted.
 
 Stayed anyway.
 
-This was not Memory Arc.
+This was not the memory crisis.
 
 Mau knew his name.
 

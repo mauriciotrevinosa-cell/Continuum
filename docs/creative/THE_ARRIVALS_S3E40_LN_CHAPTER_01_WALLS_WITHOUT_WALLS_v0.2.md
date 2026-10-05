@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 11 — Walls Without Walls
+## Chapter 12 — Walls Without Walls
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 11
+**Reading order:** 12
 
 Eren expected a wall meeting.
 

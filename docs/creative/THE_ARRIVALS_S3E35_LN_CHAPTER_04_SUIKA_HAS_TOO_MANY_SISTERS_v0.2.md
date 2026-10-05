@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 24 — Suika Has Too Many Sisters
+## Chapter 25 — Suika Has Too Many Sisters
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
-**Reading order:** 24  
+**Reading order:** 25  
 **Continuity state:** Ordinary-life interlude | Suika branches beyond Senku without leaving him behind
 
 Suika had a problem.

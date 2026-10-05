@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 16 — Searchers Get a Name
+## Chapter 17 — Searchers Get a Name
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 16  
+**Reading order:** 17  
 **Continuity state:** Proto-search work becomes explicit social function
 
 The Searchers existed before the name.
@@ -114,7 +114,7 @@ DO NOT SEND THE SAME PEOPLE JUST BECAUSE THEY WERE GOOD LAST TIME.
 
 Mau looked at it.
 
-Memory Arc.
+The first search.
 
 Witches.
 
@@ -197,7 +197,7 @@ Frieren adjusted her pack.
 
 Mau almost heard rejection.
 
-Memory Arc reflex.
+Old reflex.
 
 Then corrected.
 

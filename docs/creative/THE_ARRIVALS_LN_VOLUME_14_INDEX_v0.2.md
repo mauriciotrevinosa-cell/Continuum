@@ -4,7 +4,7 @@
 **Volume:** 14  
 **Season:** 3  
 **Volume title:** **The Move**  
-**Chapter count:** 31  
+**Chapter count:** 34  
 **Supersedes:** Volume 14 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
@@ -17,29 +17,32 @@
 | 6 | Finished Means What? |
 | 7 | Who Moves First? |
 | 8 | The Backpack |
-| 9 | Bocchi's Room |
-| 10 | Wakana's Workshop |
-| 11 | Maomao Doesn't Care About the View |
-| 12 | The Quiet Corner Loses |
-| 13 | Turn the Building |
-| 14 | One House, Too Many Doors |
-| 15 | First Wagon |
-| 16 | Two Homes at Once |
-| 17 | First Night |
-| 18 | The Inn Is Still Full |
-| 19 | Second Wave |
-| 20 | Dinner Without the Table |
-| 21 | The Bathroom Problem Starts Early |
-| 22 | Frieren Has Opinions |
-| 23 | Rem Decides Later |
-| 24 | Third Wave |
-| 25 | First Full Night |
-| 26 | The Common Room Refuses to Empty |
-| 27 | Back to the Inn |
-| 28 | What Stays |
-| 29 | The Word Home |
-| 30 | Somewhere for It to Grow |
-| 31 | Still Not Finished |
+| 9 | Every Variable |
+| 10 | Bocchi's Room |
+| 11 | Wakana's Workshop |
+| 12 | Maomao Doesn't Care About the View |
+| 13 | The Quiet Corner Loses |
+| 14 | Turn the Building |
+| 15 | One House, Too Many Doors |
+| 16 | First Wagon |
+| 17 | Two Homes at Once |
+| 18 | First Night |
+| 19 | The Inn Is Still Full |
+| 20 | Second Wave |
+| 21 | Dinner Without the Table |
+| 22 | The Bathroom Problem Starts Early |
+| 23 | Frieren Has Opinions |
+| 24 | Rem Decides Later |
+| 25 | Third Wave |
+| 26 | First Full Night |
+| 27 | Don't Name It |
+| 28 | Rimuru's Left Hand |
+| 29 | The Common Room Refuses to Empty |
+| 30 | Back to the Inn |
+| 31 | What Stays |
+| 32 | The Word Home |
+| 33 | Somewhere for It to Grow |
+| 34 | Still Not Finished |
 
 ## Creator-revision lock — 2026-10-04
 

@@ -4,7 +4,7 @@
 **Volume:** 17  
 **Season:** 3  
 **Volume title:** **Freedom and Walls**  
-**Chapter count:** 29
+**Chapter count:** 30
 
 | # | Chapter |
 |---:|---|
@@ -18,25 +18,26 @@
 | 8 | Eren Enters Voluntarily |
 | 9 | No Trial for the Future |
 | 10 | The Big One |
-| 11 | Walls Without Walls |
-| 12 | Unknown Signature |
-| 13 | Exit Rights |
-| 14 | Emergency Means Temporary |
-| 15 | Hakari Plans a Date |
-| 16 | The Enemy of One Person |
-| 17 | Sanctuary Is Not Forgiveness |
-| 18 | Due Process |
-| 19 | The Meeting That Became a Council |
-| 20 | The Person Everyone Knows |
-| 21 | Everyone Home |
-| 22 | Bathroom War |
-| 23 | Music After Dinner |
-| 24 | The Old Inn Day |
-| 25 | Mau's Settlement |
-| 26 | Give Them One Name |
-| 27 | The Person in Front |
-| 28 | One for Hundreds |
-| 29 | Bad Equation |
+| 11 | Not Here Yet |
+| 12 | Walls Without Walls |
+| 13 | Unknown Signature |
+| 14 | Exit Rights |
+| 15 | Emergency Means Temporary |
+| 16 | Hakari Plans a Date |
+| 17 | The Enemy of One Person |
+| 18 | Sanctuary Is Not Forgiveness |
+| 19 | Due Process |
+| 20 | The Meeting That Became a Council |
+| 21 | The Person Everyone Knows |
+| 22 | Everyone Home |
+| 23 | Bathroom War |
+| 24 | Music After Dinner |
+| 25 | The Old Inn Day |
+| 26 | Mau's Settlement |
+| 27 | Give Them One Name |
+| 28 | The Person in Front |
+| 29 | One for Hundreds |
+| 30 | Bad Equation |
 
 ## Creator-revision authority / antagonist expansion — 2026-10-04
 

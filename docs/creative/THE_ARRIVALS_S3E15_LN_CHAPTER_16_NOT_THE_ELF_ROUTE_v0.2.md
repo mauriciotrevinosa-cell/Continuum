@@ -12,7 +12,7 @@ He could have let her piece it together. He could have let Maomao explain it in 
 
 He did not.
 
-He came out of the long session at dusk, grey with tiredness, his new arm grown back as far as the elbow and no further, and he found Frieren in the corridor, and he told her.
+He came out of the long session at dusk, grey with tiredness, his new arm grown back as far as the elbow and no further yet, and he found Frieren in the corridor, and he told her.
 
 "It's done. For now. He's settled."
 

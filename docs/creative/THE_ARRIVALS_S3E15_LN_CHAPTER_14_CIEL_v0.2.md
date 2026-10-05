@@ -260,6 +260,14 @@ THREE. The pattern may not read Ciel or Rimuru again.
 
 Rimuru added: "Not because we're enemies. Because yesterday showed what happens when two things that understand everything try to understand each other."
 
+Then, more quietly, he repeated what Ciel added after it.
+
+I can close my side of the door. I cannot promise the pattern will never look through it. It does not know what a rule is.
+
+Qifrey wrote the line anyway.
+
+He did not underline it.
+
 FOUR. Ciel watches the guardrails. Only the guardrails. Nothing else in Mau's head unless Mau asks.
 
 Ori added that one.
@@ -295,6 +303,18 @@ Anko's.
 Underlined twice.
 
 Fern made Qifrey copy all seven onto clean paper, in ink, and pinned it inside the door of Mau's room, where he would be able to read it whenever he wanted.
+
+When it was pinned, Ori stood in front of it for a long time.
+
+"He wasn't here for any of this," she said.
+
+Nobody answered right away.
+
+"We just decided things about the inside of his head while he was asleep." Ori did not turn around. "That's the thing we keep saying we don't do."
+
+Frieren looked at the paper.
+
+"Then he changes them," she said. "When he wakes. Any of them. All of them." She touched the fifth line. "That's what this one is for."
 
 
 

@@ -75,15 +75,20 @@ They are sealed for two reasons:
 1. Mau cannot control them.
 2. His body was destroying itself trying to become a vessel for them.
 
-The guardrails were decided by the household and pinned inside Mau's door:
+The guardrails were first drafted **by the household while Mau was unconscious** (V13 #20) and pinned inside his door. This is a **deliberate flaw**: Ori names it at once ("the thing we keep saying we don't do"). On Day 20 (V13 #24) Mau reads them aloud, revises them, adds his own rule and signs. From then on they are **his** rules too.
+
+Current text, as revised by Mau:
 
 1. Nothing sealed is deleted. Everything is kept, counted and held.
 2. The pattern may observe, analyze and understand. It may not build beyond Mau's own original Construction while the seal holds. **Mau's native small Construction remains.**
-3. The pattern may not read Ciel or Rimuru again.
-4. Ciel watches the guardrails only. Nothing else in Mau's head unless Mau asks. *(Ori's rule.)*
+3. *(Original, crossed out but still legible: "The pattern may not read Ciel or Rimuru again.")* **Revised by Mau:** "The pattern will try to look. Ciel keeps her door shut and says so when something knocks. If it looks anyway, nobody calls it a betrayal."
+4. Ciel watches the guardrails only. Nothing else in Mau's head unless Mau asks. *(Ori's rule.)* **Mau's addition:** "And Ciel tells Mau every time she looks. Even at the guardrails."
 5. Mau is told everything. *(Frieren's rule.)*
 6. Nothing leaves the seal unless Mau, Rimuru and Ciel all agree. Never while Mau is unstable, and never because someone else needs a weapon. *(Qifrey's addition.)*
 7. Nobody outside the household learns any of this. *(Anko's rule.)*
+8. **Mau's rule:** "If I break one of these without meaning to, tell me. Don't hide it to be kind."
+
+**Rule 3 is the most fragile.** The pattern is Mau's own system, it cannot read rules, and Mau does not know when it is looking. Ciel can only close her side of the door. The creator expects this rule to be tested or broken in a later season: an open seed, not a plot hole. Likewise, Mau may break other rules **indirectly**, through the pattern rather than by choice. Rule 8 exists for that case.
 
 **Not forever.** Opening any construct is a future, multi-season question. Nothing sealed is used in S3.
 

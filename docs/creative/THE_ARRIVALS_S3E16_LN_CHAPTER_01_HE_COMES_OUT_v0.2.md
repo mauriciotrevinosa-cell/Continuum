@@ -414,6 +414,80 @@ When he stopped, he put his hand over hers.
 
 "Rule five," said Mau.
 
+Then he looked back at the door.
+
+"You made these while I was asleep."
+
+Nobody pretended otherwise.
+
+"Yes," said Ori.
+
+Mau read them again. Slowly. Out loud, this time, so everyone in the room could hear which ones he stopped on.
+
+"Most of these are good," he said. "Some of them are better than I would have made."
+
+He stopped on the third.
+
+THE PATTERN MAY NOT READ CIEL OR RIMURU AGAIN.
+
+"This one won't hold."
+
+"Ciel closed her side," said Rimuru.
+
+"I know." Mau rubbed his eyes. "But the pattern doesn't read rules. It doesn't know this paper exists. It's me, and I don't even know when it's looking. If I promise it won't, I'm promising something I can't keep. And when it breaks, it'll look like I lied."
+
+He is right, said Ciel, and Rimuru repeated it. I cannot enforce it from my side. I can only keep my door shut and notice when something knocks.
+
+"And it's unfair," said Mau.
+
+Everyone looked at him.
+
+"Ciel gets to look at me. Only the guardrails, I know. But she gets to look." He gestured at the paper. "And the pattern isn't allowed to look at her."
+
+There was a pause.
+
+That is also true, said Ciel. I do not like it either.
+
+"So what do we write?" said Frieren.
+
+Mau thought about it for a long time.
+
+"Not a promise," he said finally. "A warning."
+
+Ori handed him the pen without being asked.
+
+He crossed out the third line carefully, so it could still be read underneath, because nothing in this house got erased just because it had been wrong.
+
+Under it, he wrote:
+
+THREE. THE PATTERN WILL TRY TO LOOK. CIEL KEEPS HER DOOR SHUT AND SAYS SO WHEN SOMETHING KNOCKS. IF IT LOOKS ANYWAY, NOBODY CALLS IT A BETRAYAL.
+
+Then, at the end of Ori's line, he added:
+
+AND CIEL TELLS MAU EVERY TIME SHE LOOKS. EVEN AT THE GUARDRAILS.
+
+Agreed, said Ciel, before Rimuru could ask her.
+
+Then Mau wrote one more line at the bottom, below Anko's, in handwriting that shook a little.
+
+EIGHT. IF I BREAK ONE OF THESE WITHOUT MEANING TO, TELL ME. DON'T HIDE IT TO BE KIND.
+
+He looked at it.
+
+"The pattern's going to break some of these," he said quietly. "Not because I want it to. Because it doesn't know they exist. When it does, I need someone to tell me. Otherwise I won't know what I'm doing."
+
+"Okay," said Ori.
+
+"Yes," said Frieren.
+
+"Yes," said Rimuru.
+
+Mau signed the bottom of the paper.
+
+Not a contract. Not magic. Just his name, under eight rules he had not written and now had.
+
+"Now they're mine too," he said.
+
 Hope existed now.
 
 Small enough not to become a guarantee.

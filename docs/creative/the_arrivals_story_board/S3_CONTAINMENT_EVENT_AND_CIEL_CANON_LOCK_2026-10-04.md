@@ -31,6 +31,7 @@
 - **Permanent thread to Mau.** A thread survived the tearing. Ciel can speak to Mau, and Mau can hear her inside and outside containment. She speaks only when Mau wants it or in an emergency, and Mau can tell her to be quiet.
 - Ciel **cannot verify which memories are true.** That was never her role. Shared verification stays with people.
 - In the V19 Trial domain, the thread to Mau goes silent.
+- **Rimuru's power reference:** he arrived pre-Ciel (Demon Lord era, with Raphael), and his 100% ceiling for all seasons is the end-of-LN Rimuru. See `DECISION_HISTORY.md` DH-020.
 
 ## 3. The seal and the household guardrails
 

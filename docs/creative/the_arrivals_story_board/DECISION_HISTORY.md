@@ -286,3 +286,16 @@ On 2026-10-01 creator review expanded the earlier post-Memory S3 proposal into a
 See:
 - `S3_BRAIDED_SEASON_ARCHITECTURE_v0.2.md`
 - preserved predecessor `S3_POST_MEMORY_ARC_ARCHITECTURE_v0.1.md`
+
+## DH-020 — Rimuru's power reference: arrival point vs. 100%
+
+Recorded 2026-10-05 at the creator's request, because it is easy to lose across seasons.
+
+**Current direction:**
+- **Arrival point.** Rimuru enters Continuum in S1 from his Demon Lord era: he has **Raphael, not Ciel**. Everything he carries, can do and has observed at arrival belongs to that era. This is why the Tensura portion of the S3 sealed inventory reflects that era.
+- **Ciel arrives early, for Continuum reasons.** In the LNs, Raphael's evolution into Ciel happens late and Rimuru names her. In this story it happens in **S3 V13**, forced by the Noise coupling. Rimuru still names her Ciel, the same name as in the LNs, without knowing why the name feels inevitable. He has no future knowledge of her.
+- **Rimuru's 100% is his end-of-LN state.** When any later season asks what Rimuru can ultimately become, or where his ceiling is, the reference is the **final Tensura LN Rimuru**. It is not his arrival kit, and not an invented beyond-canon power level.
+- **Reaching it is not automatic.** Continuum moves him along that path at its own pace and through its own causes, as Ciel's early arrival shows. A skill does not appear just because it exists later in the LNs; it needs an in-story cause.
+- **Mau's sealed copies are a snapshot.** What the Noise read on V13 Day 17 does not update as Rimuru grows. If Rimuru later reaches skills he did not have then, the seal does not contain them.
+
+See `S3_CONTAINMENT_EVENT_AND_CIEL_CANON_LOCK_2026-10-04.md`.

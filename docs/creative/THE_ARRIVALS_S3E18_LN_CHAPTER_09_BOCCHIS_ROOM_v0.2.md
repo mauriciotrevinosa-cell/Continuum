@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 4 — Bocchi's Room
+## Chapter 9 — Bocchi's Room
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 14  
-**Reading order:** 4  
+**Reading order:** 9  
 **Continuity state:** Packing Day 2 | Bocchi chooses privacy without being asked to prove independence through distance
 
 Bocchi had four room options.

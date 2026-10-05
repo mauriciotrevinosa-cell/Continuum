@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 7 — The Quiet Corner Loses
+## Chapter 12 — The Quiet Corner Loses
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 14  
-**Reading order:** 7  
+**Reading order:** 12  
 **Continuity state:** Move planning Day 2 | Family chooses proximity without Mau assigning it
 
 Mau and Frieren had chosen a corner.

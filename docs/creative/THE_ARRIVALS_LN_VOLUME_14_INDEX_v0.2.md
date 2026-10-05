@@ -4,37 +4,42 @@
 **Volume:** 14  
 **Season:** 3  
 **Volume title:** **The Move**  
-**Chapter count:** 26  
+**Chapter count:** 31  
 **Supersedes:** Volume 14 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
 |---:|---|
-| 1 | Finished Means What? |
-| 2 | Who Moves First? |
-| 3 | The Backpack |
-| 4 | Bocchi's Room |
-| 5 | Wakana's Workshop |
-| 6 | Maomao Doesn't Care About the View |
-| 7 | The Quiet Corner Loses |
-| 8 | Turn the Building |
-| 9 | One House, Too Many Doors |
-| 10 | First Wagon |
-| 11 | Two Homes at Once |
-| 12 | First Night |
-| 13 | The Inn Is Still Full |
-| 14 | Second Wave |
-| 15 | Dinner Without the Table |
-| 16 | The Bathroom Problem Starts Early |
-| 17 | Frieren Has Opinions |
-| 18 | Rem Decides Later |
-| 19 | Third Wave |
-| 20 | First Full Night |
-| 21 | The Common Room Refuses to Empty |
-| 22 | Back to the Inn |
-| 23 | What Stays |
-| 24 | The Word Home |
-| 25 | Somewhere for It to Grow |
-| 26 | Still Not Finished |
+| 1 | Imminent Failure |
+| 2 | What It Made |
+| 3 | Two Hands Full |
+| 4 | Ceiling |
+| 5 | Mid-Sentence |
+| 6 | Finished Means What? |
+| 7 | Who Moves First? |
+| 8 | The Backpack |
+| 9 | Bocchi's Room |
+| 10 | Wakana's Workshop |
+| 11 | Maomao Doesn't Care About the View |
+| 12 | The Quiet Corner Loses |
+| 13 | Turn the Building |
+| 14 | One House, Too Many Doors |
+| 15 | First Wagon |
+| 16 | Two Homes at Once |
+| 17 | First Night |
+| 18 | The Inn Is Still Full |
+| 19 | Second Wave |
+| 20 | Dinner Without the Table |
+| 21 | The Bathroom Problem Starts Early |
+| 22 | Frieren Has Opinions |
+| 23 | Rem Decides Later |
+| 24 | Third Wave |
+| 25 | First Full Night |
+| 26 | The Common Room Refuses to Empty |
+| 27 | Back to the Inn |
+| 28 | What Stays |
+| 29 | The Word Home |
+| 30 | Somewhere for It to Grow |
+| 31 | Still Not Finished |
 
 ## Creator-revision lock — 2026-10-04
 

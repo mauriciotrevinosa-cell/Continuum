@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 8 — The Day We Picked
+## Chapter 10 — The Day We Picked
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 8  
+**Reading order:** 10  
 **Continuity state:** Ordinary Week 3 | Mau's chosen birthday (S1E15) passed unnoticed during the Memory crisis | Household plans it late
 
 Fern found it in the last box from the old inn kitchen.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 2 — Who Moves First?
+## Chapter 7 — Who Moves First?
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 2  
+**Reading order:** 7  
 **Continuity state:** Move planning Day 1 | Two locations must operate at once
 
 The first-night group was chosen by function and consent.

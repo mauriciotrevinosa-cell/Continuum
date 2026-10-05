@@ -4,7 +4,7 @@
 **Volume:** 15  
 **Season:** 3  
 **Volume title:** **People Who Heard About Us**  
-**Chapter count:** 34  
+**Chapter count:** 36  
 **Supersedes:** Volume 15 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
@@ -14,35 +14,37 @@
 | 3 | Breakfast Comes in Waves |
 | 4 | Seiko and Frieren Judge Everyone |
 | 5 | Nazuna Misses the Day |
-| 6 | The Seating Chart Dies |
-| 7 | Rem Has Two Cups |
-| 8 | The Day We Picked |
-| 9 | One Song |
-| 10 | I Heard About You |
-| 11 | Name, World, Need |
-| 12 | Not Everyone Can Stay Today |
-| 13 | The Table Gets a Roof |
-| 14 | Searchers Get a Name |
-| 15 | The First Holding Site |
-| 16 | Searchers Without Mau |
-| 17 | Richeh Stays a Guest |
-| 18 | Tetia Wants to See Everything |
-| 19 | The Rumor Changes |
-| 20 | The Road Gets Worse |
-| 21 | The Other Camp |
-| 22 | We Survived by Staying Small |
-| 23 | Not Our City |
-| 24 | The People Who Cannot Fight |
-| 25 | Three Nights Become a Week |
-| 26 | Whose Turn |
-| 27 | Too Few Beds Again |
-| 28 | Who Are We Speaking For? |
-| 29 | The Draft |
-| 30 | The Message |
-| 31 | The First Reply |
-| 32 | The Safe Corridor |
-| 33 | The Message Comes Back Wrong |
-| 34 | The Rumor Reaches Sukuna |
+| 6 | One Door at a Time |
+| 7 | Flowers, Again |
+| 8 | The Seating Chart Dies |
+| 9 | Rem Has Two Cups |
+| 10 | The Day We Picked |
+| 11 | One Song |
+| 12 | I Heard About You |
+| 13 | Name, World, Need |
+| 14 | Not Everyone Can Stay Today |
+| 15 | The Table Gets a Roof |
+| 16 | Searchers Get a Name |
+| 17 | The First Holding Site |
+| 18 | Searchers Without Mau |
+| 19 | Richeh Stays a Guest |
+| 20 | Tetia Wants to See Everything |
+| 21 | The Rumor Changes |
+| 22 | The Road Gets Worse |
+| 23 | The Other Camp |
+| 24 | We Survived by Staying Small |
+| 25 | Not Our City |
+| 26 | The People Who Cannot Fight |
+| 27 | Three Nights Become a Week |
+| 28 | Whose Turn |
+| 29 | Too Few Beds Again |
+| 30 | Who Are We Speaking For? |
+| 31 | The Draft |
+| 32 | The Message |
+| 33 | The First Reply |
+| 34 | The Safe Corridor |
+| 35 | The Message Comes Back Wrong |
+| 36 | The Rumor Reaches Sukuna |
 
 ## Creator-revision expansion — 2026-10-04
 

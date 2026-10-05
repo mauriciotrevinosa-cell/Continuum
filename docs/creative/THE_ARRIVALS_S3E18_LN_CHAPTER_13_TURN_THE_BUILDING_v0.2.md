@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 8 — Turn the Building
+## Chapter 13 — Turn the Building
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 14  
-**Reading order:** 8  
+**Reading order:** 13  
 **Continuity state:** Move planning Day 2 | Main family-house footprint still changeable
 
 Frieren wanted an east-facing window.

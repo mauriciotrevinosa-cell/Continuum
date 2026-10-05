@@ -92,6 +92,36 @@ Current text, as revised by Mau:
 
 **Not forever.** Opening any construct is a future, multi-season question. Nothing sealed is used in S3.
 
+## 3A. The leak period and the first controlled trial (V14 #1–#5, V15 #6–#7)
+
+Creator-directed, 2026-10-05.
+
+**The guardrails bend and do not hold forever.** For weeks after containment, the pattern keeps working *inside* the seal. It cannot build out, so it builds in. It goes beyond constructing: it **combines** sealed patterns, **keeps** the combinations stable, **evolves** them, and finally **invents** things no source ever had.
+
+- **"Imminent Failure" (V14 #1).** Weeks after containment, at the old inn before the Move, with Rimuru at the worksite. Ciel warns Mau: *the Construct beat is adapting to the guardrails; failure is imminent.* Mau runs out without explaining, and the household fears another disappearance. Frieren cannot grab him because Infinity leaks out first. Rimuru arrives by spatial motion and cannot reach him either.
+- **"What It Made" (V14 #2).** The first **invention: a door.** It joins four sealed patterns: Rimuru's spatial folding, Diablo's teleport method, Witch Hat line logic, and the "everywhere" layer under Unlimited Void. It opens onto **the clearing as it was the morning Mau woke**, frost lifting and the shape of where he lay still in the grass. Ciel's reading: the pattern learned "arrival-state" during the filtering and has been seeking that first stable reference. Mau refuses: "It's not before. It's just before you." That refusal is what closes the door. Ciel has now seen 3 inventions, the door plus 2 whose function is unknown, which joins the inventory as new hybrids with no source. Key reframe: each leak **teaches the body to carry more**. It is not only failure; it is adaptation.
+- **Small leaks, each used under rule 8:**
+  - **"Two Hands Full" (V14 #3).** While caring for Frieren's cold, Mau teleports unconsciously (Diablo's method plus Rimuru's spatial sense) to the well, kitchen and cellar. Nine people notice. Seiko invokes rule 8 and Fern tells him. He chooses to walk again so he keeps noticing small leaks. Diablo is "insulted and flattered".
+  - **"Ceiling" (V14 #4).** Frieren's flight leaks while he sleeps. Frieren tethers his ankle to the bedpost with her hair ribbon; he keeps the ribbon for a week.
+  - **"Mid-Sentence" (V14 #5).** Rimuru's spatial motion, pure with no join: mid-argument about their room, Mau appears at the worksite beside Rimuru, spoon in hand. Bed on the north wall; shelf "disputed", which carries into V14 "Frieren Has Opinions" and V19's "your shelf is still badly placed".
+- **After the Move:** leaks fade. Nineteen quiet days pass by Ordinary Week 2 of V15.
+
+**The first controlled trial ("One Door at a Time" and "Flowers, Again", V15 #6–#7).**
+
+- Mau proposes opening **one guardrail on purpose** instead of waiting for leaks: the **elf route**. His reason: *"I don't want to be someone she finds out about afterward. I want to get old with her."*
+- Agreed by Mau, Rimuru and Frieren, with Ciel monitoring. Frieren's conditions: she stays beside him; her "stop" overrides everything; **nobody in the household is told**, so nobody hopes for something that may not come.
+- **Location: the clearing,** deliberately, "so the pattern can see the beginning has me in it".
+- **Results:**
+  - stable for **19 minutes**;
+  - mana sense from 2 minutes (he sees how small Frieren keeps herself);
+  - fever from 8 minutes;
+  - at 14 minutes, **Mau makes flowers with his own mana**: the callback to S1's two failed attempts, and not a sealed copy;
+  - cross-feedback at 19 minutes (slime-softening fingertips, eye heat, back pressure), so Ciel closes the route and returns him to arrival-state;
+  - he faints and wakes the next morning with the fever gone. Nothing lethal.
+- **Maomao** finds out the next afternoon and decrees: *"Next time, I am there."* So **there will be future trials**, now with medical oversight.
+- **Frieren keeps one pressed white flower in her grimoire.** It appears again in V16 "Water on Stone".
+- **Status after V15:** the elf route stays a future question, not an S3 outcome. Mau **cannot call** leaked abilities on purpose; control belongs to later seasons. Leaks after this point are rare. During the V18 overload the seal holds and the pressure comes from the trunk around it.
+
 ## 4. Physical consequence: the left eye
 
 - To return the body to arrival-state, Ciel had to leave **one valve**: the ghoul route, the only route that already knows how to vent pressure.

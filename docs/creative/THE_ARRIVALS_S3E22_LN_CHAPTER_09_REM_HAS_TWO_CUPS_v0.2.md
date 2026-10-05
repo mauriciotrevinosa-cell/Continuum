@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 7 — Rem Has Two Cups
+## Chapter 9 — Rem Has Two Cups
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 15  
-**Reading order:** 7  
+**Reading order:** 9  
 **Continuity state:** Ordinary Week 3 | Rem's belonging grows through habit without forced declaration
 
 Rem discovered the second cup by accident.

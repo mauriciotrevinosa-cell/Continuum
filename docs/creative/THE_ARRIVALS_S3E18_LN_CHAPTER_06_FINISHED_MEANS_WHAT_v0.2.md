@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 1 — Finished Means What?
+## Chapter 6 — Finished Means What?
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 1  
+**Reading order:** 6  
 **Continuity state:** Post-Memory recovery | Old inn = current home | Future site = first habitable cluster nearly ready
 
 Rimuru made the mistake of asking whether the first cluster was finished.

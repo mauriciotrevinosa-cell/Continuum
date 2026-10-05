@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 6 — The Seating Chart Dies
+## Chapter 8 — The Seating Chart Dies
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 15  
-**Reading order:** 6  
+**Reading order:** 8  
 **Continuity state:** Ordinary Week 3 | G5 stops behaving like an arrival cohort
 
 Nobody made a seating chart.

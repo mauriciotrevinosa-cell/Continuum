@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 14
-## Chapter 3 — The Backpack
+## Chapter 8 — The Backpack
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 14  
-**Reading order:** 3  
+**Reading order:** 8  
 **Continuity state:** Packing Day 1 | Mau packs at old inn | Memory Arc recovery still relevant
 
 Mau found the backpack under the bed.

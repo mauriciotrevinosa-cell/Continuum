@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 10 — I Heard About You
+## Chapter 12 — I Heard About You
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 10  
+**Reading order:** 12  
 **Continuity state:** First intentional migrant arrives because of settlement reputation
 
 The stranger had not been found.

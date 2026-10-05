@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 9 — One Song
+## Chapter 11 — One Song
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 9  
+**Reading order:** 11  
 **Continuity state:** Ordinary Week 3 — the day they picked | Late birthday | Visiting-hours karaoke agreement paid
 
 Mau knew something was wrong the moment he and Frieren came back from the river.

@@ -398,7 +398,7 @@ He did not ask what had happened.
 
 He could tell it had not been his to ask about.
 
-That night, Frieren wrote a new page in her grimoire, in her small, careful hand.
+That night, Frieren wrote a new page in her grimoire, in her small, careful hand, two pages after a pressed white flower she had never explained to anyone.
 
 Light, drawn.
 

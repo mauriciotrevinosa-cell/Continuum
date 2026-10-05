@@ -34,29 +34,29 @@ Kita did not look hurt.
 
 She looked like someone who had been expecting the question and had decided, in advance, not to make it heavy.
 
-"You were sitting on the back step behind the kitchen at the old inn," she said. "Peeling something. I came out and sat next to you and told you I'd written down what I was going to say to Bocchi."
+"You were at the well," she said. "Cleaning mud off your shoes. I stood there forever before you looked up. Then I sat on the stone edge and asked how you ask Bocchi things without making her panic."
 
-"How long was it?"
+"What did I say?"
 
-"Six sentences."
+"That you make her panic."
 
 Mau closed his eyes.
 
 There.
 
-Six sentences.
+The cold stone.
 
-A piece of paper folded small in Kita's hand.
+Water in the bucket going brown.
 
-The smell of whatever he had been peeling.
+Kita laughing at an answer that had not been a joke.
 
-"I had it as the stairs," he said. "Not the back step."
+"I had it as the back step," he said. "Behind the kitchen. Not the well."
 
-"Back step."
+"The well."
 
-"But the six sentences."
+"But then I said something else."
 
-"Six sentences," Kita agreed. "And you read them, and you said, 'One question. Then stop.'"
+"One question," Kita said. "Then stop."
 
 Mau opened his eyes.
 
@@ -422,7 +422,7 @@ Then she leaned her head on his shoulder.
 
 That night, in his notes, under the date, Mau wrote:
 
-Kita. The six sentences. The back step, not the stairs.
+Kita. The well, not the back step. One question, then stop.
 
 And then, after a moment:
 

@@ -246,3 +246,19 @@ Settlement benefited from the systems Senku built around uncertainty.
 Senku would still prefer not to need them.
 
 Both truths stayed.
+
+Before she left, Suika stopped at the survey map pinned above Senku's bench.
+
+On its edge, circled twice, was a number nobody had asked about.
+
+"What's this one?"
+
+"Stride length."
+
+Suika looked at the chain of five round ponds past the last fields. Then at the number. Then at the ponds again.
+
+"Of what?"
+
+Senku did not look up from the notebook.
+
+"Exactly," he said.

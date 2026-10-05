@@ -125,7 +125,7 @@ A native builder taught Wakana one knot.
 
 Wakana taught another stitch.
 
-Milim lost children's game and accused rules.
+Milim lost the children's game, a local one called Walker, all giant strides from cushion to cushion with nobody allowed to touch the floor between. She said flying should count. She accused rules.
 
 Rules changed after she complained.
 

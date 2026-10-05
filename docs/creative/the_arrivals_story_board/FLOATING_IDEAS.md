@@ -55,3 +55,22 @@ No later explicit decision found in the preserved material cleanly converts the 
 - Mau's brief memory of Frieren smiling immediately before Hollow Purple.
 - Rika assisting exhausted Yuta during the recovery crisis.
 - Bocchi retreating under a blanket during grief; Kita trying to reach her.
+
+## The Walker (kaiju seed, planted in S3, arc deferred)
+Creator proposed a mid-S3 kaiju (2026-10-05). The agreed decision is **not yet**: S3 is still the world adapting to the Arrivals, so the arc belongs to a later season. Only foreshadowing is planted now.
+
+Planted in S3:
+- V16 "Roads Are Not Sacred": a chain of five round, evenly spaced ponds past the last fields. A local elder calls them "Walker's steps": don't build or plant in them, fishing is fine, and nobody alive has seen it. Senku measures them and circles a number he shows no one. Frieren says she has seen it "once". When Mau asks when it comes back, she says "Not soon for you", then hears herself and repeats "Not soon" differently.
+- V16 "Senku Gets Faster": Suika asks about the circled number. Senku: "Stride length." / "Of what?" / "Exactly."
+- V17 "Everyone Home": "Walker" is a local children's game (giant strides, cushion to cushion).
+
+Direction if it is developed later (recommended, not locked):
+- An ancient migrating giant, **not a fight**. It is not malicious, it simply walks, and the problem is its path. With this cast, a hostile kaiju dies in one punch and has no stakes.
+- Its cycle is a clock against elf lifespan, which ties into the Mau/Frieren mortality slow-burn and the elf route.
+- It must not look like Attack on Titan (no walls; see S3 architecture §10).
+
+Still open:
+- the return cycle;
+- when and with whom Frieren saw it. Himmel's party is possible but **not approved**; the creator must OK any addition to Himmel-era backstory;
+- Senku's number;
+- any link to other S3 threads. Do not tie it to existing loose threads without a decision.

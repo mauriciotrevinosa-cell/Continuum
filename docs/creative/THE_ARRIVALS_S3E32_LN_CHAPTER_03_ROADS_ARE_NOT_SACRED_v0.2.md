@@ -142,6 +142,34 @@ A month later people said:
 
 Fern lost.
 
+The outer road to the farms was the only route nobody argued about.
+
+Until Senku drew it.
+
+His line ran straight through a chain of round ponds past the last fields. Five of them. Evenly spaced. Each one wider than the old inn was long.
+
+"Drainage basins," said Senku. "Someone dug these. Good spacing."
+
+The elderly resident who had chosen the shaded path during the drill was standing at his elbow. She looked at the line, and then put her thumb over it.
+
+"Not there."
+
+"Why?"
+
+"Those are steps."
+
+Senku waited for the rest.
+
+"Walker's steps," she said, as if that was the rest. "You don't build in them. You don't plant in them. Fish in them if you like. My grandmother's grandmother said it walked through here. Nobody alive has seen it."
+
+Senku looked at the spacing again.
+
+He did not say folklore.
+
+He measured the distance between two of the ponds, and then the depth of one, and wrote a number on the edge of the map, and circled it twice, and did not show it to anyone.
+
+The road moved.
+
 New path appeared behind kitchens.
 
 Not planned.
@@ -217,7 +245,33 @@ New curve.
 
 "Exactly."
 
-Frieren stole his cap.
+Further on, where the new curve opened toward the fields, Mau could see the first of the round ponds holding the last of the light.
+
+"The steps," he said. "Have you seen it?"
+
+Frieren walked a few paces before she answered.
+
+"Once."
+
+"When does it come back?"
+
+"Not soon."
+
+"How not soon?"
+
+"Not soon for you," said Frieren.
+
+Then she stopped walking.
+
+He watched her hear what she had said.
+
+Her hand went, without her seeming to notice, to the grimoire under her coat.
+
+"Not soon," she said again.
+
+Differently.
+
+Then she stole his cap.
 
 Mau sighed.
 

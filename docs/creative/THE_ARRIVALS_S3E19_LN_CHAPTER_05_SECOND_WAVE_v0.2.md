@@ -66,6 +66,8 @@ Not disappearance.
 
 Move.
 
+The bad weeks had made leaving places feel more permanent than they were. A little less, now. Not gone.
+
 Bocchi set the guitar down long enough to touch the old table.
 
 Not ceremonial.

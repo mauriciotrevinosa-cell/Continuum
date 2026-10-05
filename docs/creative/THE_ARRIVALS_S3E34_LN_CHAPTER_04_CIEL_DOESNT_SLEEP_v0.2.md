@@ -152,6 +152,18 @@ Mau nodded slowly.
 
 I know you do. That is why I am telling you.
 
+"And the memories?" he said. "Since we're being honest."
+
+Most of what broke is held again, said Ciel. Some places will not rethread. The repair goes around them now instead of through them.
+
+"What happens to those?"
+
+They scar. You will feel them as places where you have to check. They will not spread. They will not get worse. A pause. You already know where most of them are. You check them without noticing.
+
+Mau thought of the notebook on the shelf.
+
+"Yeah," he said. "I do."
+
 Above them, the stars turned. Somewhere behind them, in the settlement, a door opened and closed, and somebody's footsteps went toward the latrines and came back again.
 
 "Can I ask one more?"

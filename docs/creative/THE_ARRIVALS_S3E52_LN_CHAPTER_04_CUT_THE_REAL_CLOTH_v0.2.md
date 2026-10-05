@@ -70,7 +70,7 @@ The rest of the upstairs took four evenings.
 
 The big room for Hakari, Karane, Shizuka, Nano and Kusuri. Five beds, no walls, and one thick wall between them and everyone else, "for the good of the house," said Fern. Kusuri's chemistry stayed downstairs at Maomao's bench.
 
-The Witch Hat girls' room, with an alcove built into one corner. It had a real door, and the door had a curtain over it, dark green with silver stars, because Tetia said the curtain was coming whether there was a door or not. Agott, consulted, said the alcove was unnecessary. Nobody took it out of the plan. She did not ask them to.
+The Witch Hat girls' room, with an alcove built into one corner. It had a real door, and the door had a curtain over it, dark green with silver stars, because Tetia said the curtain was coming whether there was a door or not. Agott, consulted, said the alcove was unnecessary. Nobody took it out of the plan. She did not ask them to. There was a fourth bed drawn by the wall, too, unlabelled. Tetia had insisted on it, for Richeh, in case she ever stopped being a guest. Richeh looked at it on the plan for a long time and said nothing, which for Richeh was a great deal.
 
 Qifrey between his students and the east section. Exactly between them, measured.
 

@@ -232,7 +232,21 @@ That was new.
 
 I'm here.
 
-"Are you okay?"
+"How are the memories?"
+
+He asked her that most nights now. It had become a kind of goodnight.
+
+Rethreading, said Ciel. Slowly. It works hardest while you sleep. This week it closed three small breaks and opened none.
+
+"Is that good?"
+
+It is less broken. A pause. It is not truer. I cannot give you truer.
+
+"I know."
+
+He did know. It had stopped frightening him that she couldn't.
+
+"And you? Are you okay?"
 
 A pause.
 

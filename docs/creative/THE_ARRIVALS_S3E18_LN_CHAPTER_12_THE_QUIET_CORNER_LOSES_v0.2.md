@@ -28,7 +28,9 @@ Then Coco put a marker three rooms away.
 
 Umaru put one beside Coco.
 
-Richeh and Tetia put theirs on top of Coco's. Same room.
+Tetia put hers on top of Coco's. Same room.
+
+Richeh did not put down a marker at all. She was still a guest, she said mildly, and guests did not choose rooms in other people's houses. Nobody argued with her. Tetia looked at her for a moment and did not move her own marker back.
 
 Agott put hers at the far end of the shell, alone, in the smallest room on the plan.
 
@@ -38,7 +40,7 @@ Richeh looked at it.
 
 Tetia looked at it.
 
-Then the three of them picked up Agott's marker together and set it on top of theirs.
+Then Coco and Tetia picked up Agott's marker together and set it on top of theirs.
 
 "I want my own room," said Agott.
 
@@ -50,7 +52,15 @@ Then the three of them picked up Agott's marker together and set it on top of th
 
 Agott opened her mouth to argue, went slowly and thoroughly red, and did not move the marker back.
 
-Ori put hers across the courtyard.
+Ori looked for the room next to theirs first.
+
+There wasn't one. Beside their corner, the plan had a narrow gap marked BOARDS — STORAGE, where the builders meant to stack whatever was left over.
+
+So she put hers across the courtyard, at the closest point she could find, and measured it on the paper with two fingers.
+
+Twelve steps.
+
+She did not look happy about it. She did not say so.
 
 Fern moved hers close enough to the common room to hear when somebody started doing something stupid.
 

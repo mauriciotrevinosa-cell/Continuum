@@ -329,6 +329,26 @@ Mau thought about how to answer that.
 
 Eren looked at the chair a little longer than he needed to.
 
+When Eren had gone back down, Mau sat in the wobbly chair for a moment by himself.
+
+Ciel spoke without being asked, which she did now only for emergencies and good news.
+
+The repair stopped yesterday.
+
+Mau held still. The chair rocked once under him.
+
+"Stopped?"
+
+Stopped. Not failed. It has done everything it can. What is left are the scars I told you about. They are holding.
+
+"So that's it."
+
+That is it. A pause. You do not need me to tell you. You have not opened your notebook in nine days.
+
+He had not noticed.
+
+He sat a moment longer in the chair he answered honestly in, and found that he did not need to check that either.
+
 They walked back before dark.
 
 No one was trapped by honoring old home.

@@ -102,15 +102,13 @@ Then at Ori.
 
 "Yeah."
 
-"I do."
+Ori looked at him as if he were being slow on purpose.
 
-Ori pointed at the small gap between the rooms.
+"I wanted the one next to yours," she said. "It's full of boards."
 
-"That is space."
+She pointed across the courtyard at her own door.
 
-Then she pointed at Mau and Frieren's room.
-
-"And I want to be near you."
+"That's the closest one on the plan. I want to be near you. That's as near as the plan lets me get."
 
 Mau opened his mouth.
 

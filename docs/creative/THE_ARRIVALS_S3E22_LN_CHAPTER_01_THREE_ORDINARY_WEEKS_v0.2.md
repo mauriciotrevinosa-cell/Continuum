@@ -22,6 +22,18 @@ Ciel counted the quiet days for him, because he had asked her to. He stopped ask
 
 She kept counting anyway.
 
+He did ask her about the other thing. Every week, on the first morning: how are the memories.
+
+The first week after the Move, the answer was *slower*. The second week, *picking up again*. In the third week, Ciel said the repair had reached the oldest of the damage, the places where the first false memories had gone in, and that the work there was harder and slower, and that some of it might not close.
+
+Mau's notebook moved from his pocket to the shelf that week. Not into a drawer. Onto the shelf, where he could still reach it.
+
+He reached for it twice in the third week. Once because he could not remember whether he had promised Fern something or had only meant to. He had promised. Fern confirmed it with a look that said she was not going to make a thing of it.
+
+The old fear came, and went, and was smaller than it had been.
+
+That was what healing looked like, apparently. Not gone. Smaller.
+
 That deserved more than a sentence.
 
 It also deserved more than a montage.

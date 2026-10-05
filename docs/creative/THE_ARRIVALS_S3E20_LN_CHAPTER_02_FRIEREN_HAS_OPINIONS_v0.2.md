@@ -182,6 +182,8 @@ Do sides exist?
 
 Mau noticed he was waiting for Frieren's approval on every decision.
 
+An old habit from the bad weeks. Smaller than it had been. Not gone.
+
 He stopped.
 
 "Where do you want your things?"

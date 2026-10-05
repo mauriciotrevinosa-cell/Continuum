@@ -174,6 +174,15 @@ The leaks and the trials **keep existing** after their own chapters. They surfac
 
 - During the event, Ciel observed the pattern **rethreading the memory damage** that the external attacks caused. This is slow and partial, and it does not decide which memories are true. It is Mau's own system, not Ciel's doing.
 - This is consistent with "Permanently Uncertain": repair reduces breakage. It does not restore certainty.
+- **Visible healing, not erasure (creator direction, 2026-10-05).** The memory damage heals on-page, gradually, with small relapses. "How are the memories?" becomes Mau's weekly or nightly question to Ciel, and her reports track the repair:
+  - V14 "Every Variable": rethreading; three breaks closed, none opened; "less broken, not truer".
+  - V14 "Rimuru's Left Hand": slowed by the Move ("same hands", because the brain is busy making new memories).
+  - V15 "Three Ordinary Weeks": picking up again, then reaching the oldest damage. The notebook moves from his pocket to the shelf, and one small relapse is confirmed by Fern ("Not gone. Smaller.").
+  - V16 "Ciel Doesn't Sleep": most of the damage is held again. What can't rethread **scars**; scars don't spread, and he checks them without noticing.
+  - V17 "The Old Inn Day": **the repair stops**, not fails. Scars hold, and he hasn't opened the notebook in nine days.
+  - V18 "Threshold": the repaired places hold under the Noise overload.
+  - V19 "The Body Remembers": after the Trial, Ciel says the loops "are not damage. They happened. There is nothing for it to repair."
+- Lines that mention the old memory crisis should read as **healing in progress**, never as erased.
 
 ## 6. The elf route
 

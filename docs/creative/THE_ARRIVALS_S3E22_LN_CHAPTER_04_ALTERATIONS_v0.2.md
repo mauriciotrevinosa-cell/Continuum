@@ -52,7 +52,7 @@ It solved the mud.
 
 It did not solve Ori.
 
-Mau had thought it would, for about a day. Then he watched her cross the boardwalk at dinner, perfectly on time, and sit down at the far end of the table from him, and he understood that the forty-one steps had never been the real distance.
+Mau had thought it would, for about a day. Then, on the second night, he heard her through the dark: Ori's door opening across the courtyard, footsteps on the new boards, stopping halfway, and going back. Whatever she had been coming to say, twelve steps across a puddle at midnight had been too far to come and say it. He understood then that the steps had never been the real distance. The real distance was that her room was not next to anyone's.
 
 He did not know how to say that.
 

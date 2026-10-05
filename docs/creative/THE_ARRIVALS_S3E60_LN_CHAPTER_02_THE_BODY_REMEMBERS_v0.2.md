@@ -42,6 +42,24 @@ Trial loops.
 
 Hundreds.
 
+Inside his head, for the first time since the white, Ciel spoke.
+
+Mau.
+
+He had not known how much he had missed her voice until it was there.
+
+"You're back."
+
+I never left. I could not reach you. A pause. I looked. Rule four. I am telling you I looked.
+
+"The loops," he said, under his breath. "Is it going to— Can it fix them?"
+
+They are not damage, said Ciel. They happened. There is nothing for it to repair.
+
+Mau closed his eyes.
+
+He had known that. It was still the worst thing anyone had said to him all day.
+
 Frieren turned toward him.
 
 "Do you want to tell me?"

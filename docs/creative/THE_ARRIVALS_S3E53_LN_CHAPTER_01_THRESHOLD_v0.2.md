@@ -349,6 +349,8 @@ Knew Frieren.
 
 Memory stable.
 
+The repaired places are holding, said Ciel, because he asked. All of them. The scars too.
+
 Perception failing differently.
 
 Prepared people recognized the difference.

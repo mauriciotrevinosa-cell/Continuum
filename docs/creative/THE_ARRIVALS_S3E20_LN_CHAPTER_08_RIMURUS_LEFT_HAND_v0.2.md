@@ -92,6 +92,16 @@ Mau looked at his own hands.
 
 
 
+"How's the rest?" said Rimuru. "Ciel says the memory work's slowed."
+
+"Since the move." Mau nodded. "She says it's using the same hands. Everything's new here. New rooms, new sounds, new everything. My head's busy making new memories, and it hasn't got as much left over for mending the old ones."
+
+"Does that bother you?"
+
+Mau thought about it.
+
+"No," he said, surprised. "It's a good reason to be slow."
+
 The sky was gray now. Then pale.
 
 Somewhere below them, Momo's kitchen door opened and closed, and a moment later the first smell of bread came up through the chimney, which drew badly but not, it turned out, in that direction.

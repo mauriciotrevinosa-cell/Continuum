@@ -98,7 +98,7 @@ Forty-one steps.
 
 Ori had counted those too.
 
-She did not complain. She would not have complained if it had been four hundred. She simply arrived a little later than everyone else, every time, with the hem of her dress a little muddier, and sat down a little farther from Mau than she used to.
+She did not complain. She would not have complained if it had been four hundred. She simply arrived a little later than everyone else, every time, with the hem of her dress a little muddier, and by then the seats near Mau were always taken. Mau saw her face the second time it happened, when she reached the table and looked for a place beside him and there wasn't one. It was only there for a moment. She sat where there was room.
 
 Mau saw it at dinner, with the empty pot.
 
@@ -214,7 +214,7 @@ Tetia made it. It was dark green, heavy, and hemmed with a line of tiny silver s
 
 Agott drew it shut as soon as it was up.
 
-She kept it shut all evening, while Coco and Richeh and Tetia talked and argued and laughed on the other side of it.
+She kept it shut all evening, while Coco and Tetia talked and argued and laughed on the other side of it.
 
 Late, when the lamp was turned low and the others were half asleep, Tetia heard the rail creak.
 
@@ -224,7 +224,7 @@ The curtain had been drawn back a hand's width.
 
 Not more.
 
-Just enough that, from inside, you could see the other three beds.
+Just enough that, from inside, you could see the other two beds, and the empty space Tetia had left by the wall in case Richeh ever stopped being a guest.
 
 Tetia closed her eye again and did not say anything, then or ever.
 

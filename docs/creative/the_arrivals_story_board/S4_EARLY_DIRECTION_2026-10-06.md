@@ -31,6 +31,13 @@ These are listed so nobody has to rediscover them. Using any of them is the crea
 - **The real house** is drawn but not built (layout lock §10).
 - **The Walker** is a later-season seed, not S4 by default (`FLOATING_IDEAS.md`).
 
+## Creator insight while reading V15 "Catching Up" (2026-10-06)
+
+- He called it a favorite chapter, perhaps *the* favorite so far, because nothing is ending and it is still devastating. Gojo was the one in front. Yuta was nearly as strong and still left him alone. Mau is walking the same road without knowing where it leads.
+- **Rimuru parallel.** "Rimuru died thousands of times and Chloe reset everything." It is a road that almost always leads the same way.
+- **Seed (Claude):** when Mau finally tells Rimuru **437**, Rimuru may be the one person who knows what it means to be on the *other* side of loops: someone once carried them alone *for him*.
+- **Open canon check:** Rimuru arrived in the Demon Lord era (DH-020). Confirm whether he already knows about Chloe's loops at that point in the LN. If not, decide how and when he learns, or treat it as knowledge from after his arrival.
+
 ## Claude's notes (proposals, not decisions)
 
 - **What makes S4 different from S2 and S3.** S2 asked whether they could forgive what Mau did. S3 asked whether they could endure what happened to him. S4 could ask whether they can reach someone who keeps choosing not to speak. That keeps the suffering from being the same kind again.

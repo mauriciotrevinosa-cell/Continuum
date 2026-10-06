@@ -253,7 +253,9 @@ And something she did not tell Rimuru until much later. For the first time since
 
 At the reset, for an instant, it came back. A single jolt, like a heart restarting. Not long enough to hear him. Not long enough to feel what he felt or to know how long he had been gone. Long enough for one word.
 
-Ciel did not know what had happened to him in there. She knew only that he had come back to the anchor.
+Ciel did not know what had happened to him in there. She could not see it. She understood only this much: something had failed, and everything had begun again.
+
+One attempt.
 
 So she said the only thing she knew.
 

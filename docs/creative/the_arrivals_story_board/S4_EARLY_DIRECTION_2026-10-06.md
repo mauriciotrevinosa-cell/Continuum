@@ -19,7 +19,7 @@ These are listed so nobody has to rediscover them. Using any of them is the crea
 
 - **Frieren's last words in "Everyone Came".** Mau has never repeated them to anyone. Frieren saw the clearing through the wall and has not asked (DH-021).
 - **The Goddess's two tells** that the wedding was built for Mau (DH-021).
-- **Ciel holds the exact Trial loop count.** Mau told her never to say it (DH-022).
+- **437 attempts.** Ciel counted them without knowing they were deaths and told Mau. He forbade her to tell Rimuru and promised to tell Rimuru himself. On the road he said only "hundreds". Ciel will wait, "not forever" (DH-022).
 - **The Return/Stay window.** Seven days remain at the end of S3, and individual answers are still open.
 - **The guardrails.** Rule 3 is fragile, and the Ten Shadows dangerous-leak line points toward Mahoraga (containment lock §3A and §3B).
 - **The real house** is drawn but not built (layout lock §10).

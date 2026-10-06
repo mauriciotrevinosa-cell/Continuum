@@ -92,7 +92,7 @@ He had been four off.
 
 Four whole loops he did not have.
 
-Ciel's count was exact. She never missed one. She could not see what happened between them, or how long any of them lasted. To her each loop was the same single jolt in the thread, and she counted the jolts. The number was right, and it was outside him, and the part of him that should have held it had dropped four lives on the floor without noticing.
+Ciel's count was exact. She never missed one. She could not see what happened between them, or how long any of them lasted. To her each loop was the same single jolt in the thread: an attempt had failed, and it had begun again. She counted the attempts. The number was right, and it was outside him, and the part of him that should have held it had dropped four lives on the floor without noticing.
 
 That frightened him more than dying.
 

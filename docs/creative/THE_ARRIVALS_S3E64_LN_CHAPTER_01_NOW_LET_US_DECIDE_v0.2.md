@@ -88,6 +88,10 @@ Mau looked around.
 
 "Hundreds of times."
 
+He knew the exact number. Ciel had given it to him the night after the Trial. Rimuru was standing three steps away.
+
+He said "hundreds".
+
 There.
 
 Not a number used for drama.

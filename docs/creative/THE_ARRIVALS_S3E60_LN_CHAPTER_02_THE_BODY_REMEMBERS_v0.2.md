@@ -50,19 +50,63 @@ He had not known how much he had missed her voice until it was there.
 
 "You're back."
 
-I never left. I could reach you only at the anchor. One word, each time. A pause. I could not see what happened to you. I could not tell how long it took. To me, every time was one instant, and then you came back. So I counted.
+I never left. I could reach you only at the start. One word, each time. A pause. I could not see what happened to you. I could not tell how long it took. I understood only that when something failed, everything began again. So I counted the attempts.
 
-Mau lay very still.
+Mau went very still.
 
-"Don't tell me," he said.
+Attempts.
 
-I won't.
+She did not know.
 
-"Ever."
+Four hundred and thirty-seven, said Ciel.
 
-A long pause.
+He had not asked. He had not wanted it. She said it the way she said everything he was owed: plainly, as information. Rule five. Mau is told everything.
 
-I will hold it, said Ciel. Rule one. Nothing is deleted. It is kept, counted and held. A pause. You do not have to hold it too.
+Four hundred and thirty-seven attempts.
+
+She did not know what an attempt had been.
+
+He did.
+
+He lay there with the number in him. It was heavier than any of the deaths, because the deaths had been one at a time and the number was all of them at once.
+
+"Ciel."
+
+Yes.
+
+"Don't tell Rimuru."
+
+A pause.
+
+Master is—
+
+"Don't tell him the number. Not ever."
+
+Rule eight, said Ciel, and her voice was sharper than he had ever heard it. Don't hide it to be kind. You wrote that rule. You signed it.
+
+"I'm not hiding it."
+
+Then what are you—
+
+"I'm going to tell him," said Mau. "Me. Not you. It's mine to tell. Not something he hears from inside his own head because you couldn't help it."
+
+The silence went on for a long time.
+
+That is not a reason I can verify, said Ciel.
+
+"I know."
+
+I do not keep things from Master.
+
+"I know. I'm asking you to. For a little while. Until I tell him."
+
+Another silence. Longer.
+
+I will wait, said Ciel at last. A pause. I will not wait forever.
+
+"Okay."
+
+He meant it when he said it.
 
 "The loops," he said, under his breath. "Is it going to— Can it fix them?"
 

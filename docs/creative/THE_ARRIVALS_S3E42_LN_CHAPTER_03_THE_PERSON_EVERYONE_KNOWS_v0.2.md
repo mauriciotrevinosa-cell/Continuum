@@ -12,6 +12,24 @@ Fern answered:
 
 "We don't have one."
 
+One of the delegation, a younger man at the back who had not spoken yet, said under his breath, not quite quietly enough:
+
+"That's what they'd want us to believe."
+
+The man beside him told him to be quiet.
+
+He was not quiet.
+
+"I heard about the plaza," he said. "The wheel. The lights. That's not a man who doesn't lead. That's a monster they keep behind a door and call nobody, so nobody asks."
+
+The room went still.
+
+Fern looked at him for a long moment.
+
+"You can ask," she said. "Ask anyone in this room. Ask him."
+
+The young man did not.
+
 The delegation asked again.
 
 Slower.

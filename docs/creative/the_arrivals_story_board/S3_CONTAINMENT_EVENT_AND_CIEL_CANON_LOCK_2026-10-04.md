@@ -90,7 +90,7 @@ Current text, as revised by Mau:
 
 **Rule 3 is the most fragile.** The pattern is Mau's own system, it cannot read rules, and Mau does not know when it is looking. Ciel can only close her side of the door. The creator expects this rule to be tested or broken in a later season: an open seed, not a plot hole. Likewise, Mau may break other rules **indirectly**, through the pattern rather than by choice. Rule 8 exists for that case.
 
-**Not forever.** Opening any construct is a future, multi-season question. Nothing sealed is used in S3.
+**Not forever.** Opening any construct is a future, multi-season question. Nothing sealed is **used by choice** in S3. The V16 Plaza breach (§3D) is a failure, not a use.
 
 ## 3A. The leak period and the first controlled trial (V14; V15 "One Door at a Time" / "Flowers, Again")
 
@@ -161,6 +161,23 @@ The leaks and the trials **keep existing** after their own chapters. They surfac
 - Trials are deliberate, monitored by Ciel, Rimuru, Frieren and Maomao, and kept from the household. Each runs a little longer. None has been permanent.
 - **Dangerous leaks are a separate, rarer kind.** In these the pattern tries to *supply a missing requirement* for one of the 26 "finished, missing a requirement" shells, instead of leaking a carried ability. They are the reason the guardrails still matter. The household protocol from "Rimuru's Left Hand" applies; the common-room glyph light ("The Ink Budget", V16) replaced the lamps. Escalation toward Mahoraga through Ten Shadows is an open seed for later seasons; S3 does not resolve it.
 - **The wheel can pre-recognize.** It turned before being hit (V17) and recognized the domain-type when it arrived (V19 #2). This gives Mau **no resistance** to the Trial. Do not turn it into a power-up.
+
+### 3D. The Plaza breach (V16 "Visiting Day", "Let Me Out", "What the Visitors Saw")
+
+Creator-directed, 2026-10-06, as **S4 setup**. Placed early on purpose: before the V18 battle and long before the Trial. Things improve after it, then deteriorate gradually toward S4.
+
+- **The day.** The whole household is home on a quiet midday with no refuge wave. Visitors are present: a second-community delegation (including a swordsman who once fled a similar thing in his own world) and a native elder. Mau is showing them the water point in the new plaza (built in "The First Thing Built for Peace") with Seiko beside him.
+- **The warning.** Ciel, to Mau and Rimuru: *"Imminent failure. Three things are adapting to the seals. At the same time... Thirty seconds. Approximately."* Seiko reads Mau's face and calls "Emergency evacuation". Rimuru has already rung the seal pattern (three long strokes and one short). The **seal protocol** is everyone out, Frieren included. Only Rimuru, Yuta and Milim return, and only after everyone is safe. Milim drags Frieren by the wrist ("You promised him. So I promised you.").
+- **What comes out.**
+  - **The adaptation wheel** rises out of his shadow through the Ten Shadows medium (the escalation from "Don't Name It"), with an unfinished Mahoraga body beneath it.
+  - **Blue and Red.** Mau sets them **orbiting** so they never touch by imagining it precisely; from below it reads as violet, two quasars.
+  - **Two domains clash:** the Shrine (open; it cuts the air across the whole plaza) and **Unlimited Void** (a closed black sphere). Mau holds the wheel from inside his own Void while the wheel tries to adapt to infinite information, "to not existing".
+- **The witness line.** The swordsman: *"How can you live with a monster like that?"* Nobody answers; everyone is busy keeping people safe.
+- **The timing.** "Nineteen minutes, remember? Then I faint." / "We might cut it close." / "I don't know if I can hold everything for nineteen minutes." / "Understood." The refuge fills in eleven minutes. The four return to a plaza that will kill anyone who goes closer, and Ciel relays through Rimuru.
+- **The end.** **Wall reinstated.** The Shrine stops, the sphere opens like an eye, and the wheel sinks back into his shadow. **Blue eats itself. Red bursts like fireworks**; children in the refuge call it pretty. Then, heard only by Mau and Ciel: ***"Let me out."*** It is in a broken, unused voice from under the wall. It is not the dog, not the wheel, not any counted pattern; Ciel tells Rimuru she does not know whose it was. **Open mystery.**
+- **Cost.** Mau sleeps two days. Fingertips softened and the eye opened, but there was no fever. The plaza tree is cut into a hundred pieces; a new one is planted beside the stump, and the cuts in the stones never fully sand out. Ciel: the wall "is stronger than it was. It has also learned that it can be breached. So have they."
+- **Rumor and terror (seeds).** The second community moves future visits to the bridge, and the elder tells the lightning-man story. The swordsman: "He's the one holding it." / "Then what's the difference, if he ever lets go?" Ring Three starts to distance (a family leaves, a merchant moves his stall, a mother calls her child back) without leaving. The new outside name **"Monster town"** dates from the plaza. In V17 a delegate says Mau not being leader is "what they'd want us to believe... a monster they keep behind a door". Sukuna hears of a "great pale wheel" in Mau's shadow, a wheel **he has worn** ("Of course he did"). In the V19 wedding, the Goddess's scenario reuses the plaza.
+- **Then it gets better.** The household grows closer for weeks. Trial 2 waits five weeks (Maomao made them wait four), and Mau insists on it: "a body that could carry more, not less".
 
 ## 4. Physical consequence: the left eye
 

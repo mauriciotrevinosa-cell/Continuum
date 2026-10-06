@@ -135,6 +135,8 @@ Lunch happened in waves because full common room impossible.
 
 Some ate plaza under covered edges despite rain.
 
+Fewer of the Arrival House residents than there used to be. Since the day of the wheel, a few of them always found somewhere else to eat. Nobody said so. Everybody noticed.
+
 Rem came from the old inn with travelers' notes.
 
 She put the notes down, reached automatically for the blue-rim cup kept here, and stayed.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 33 — One Question
+## Chapter 36 — One Question
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 33  
+**Reading order:** 36  
 **Continuity state:** Ordinary evenings | Kita and Kessoku | Mau checks an old memory against someone else's
 
 Kita found Mau on the bench by the water court, which was where people found Mau now when they wanted him without an audience.
@@ -427,6 +427,8 @@ Frieren did not look at him.
 "Maomao rounds down."
 
 "Maomao," said Frieren, "was there."
+
+It had been five weeks since the plaza. Maomao had made them wait four of them. Mau had been the one who insisted on trying at all. After the plaza, the only answer he could think of was a body that could carry more, not less.
 
 Mau smiled.
 

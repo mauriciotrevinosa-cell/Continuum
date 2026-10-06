@@ -144,6 +144,10 @@ He felt it go. The deep place where Ciel had held the walls, which had held for 
 
 Infinity came out.
 
+He had felt the seal open once before, for real. In the plaza, in daylight, with visitors watching: three things at once, held for nineteen minutes. He had held all of those.
+
+He could not hold this one for one.
+
 It came out of him the way it had come out of him on the first day of the leaks, at the old inn, when he had run and Frieren had reached for him and her hand had stopped a finger's width from his back. It wrapped around him whole and perfect, without the Six Eyes and without control. Nothing could reach him. No slash. No falling tree.
 
 No one.

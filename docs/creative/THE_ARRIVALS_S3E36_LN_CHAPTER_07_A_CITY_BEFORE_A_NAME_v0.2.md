@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 35 — A City Before a Name
+## Chapter 38 — A City Before a Name
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 35
+**Reading order:** 38
 
 The settlement had first working versions of:
 shared water points;

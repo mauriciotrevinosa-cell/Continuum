@@ -4,7 +4,7 @@
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  
-**Chapter count:** 37
+**Chapter count:** 40
 
 | # | Chapter |
 |---:|---|
@@ -40,11 +40,14 @@
 | 30 | Karane Has Given Up on Logic |
 | 31 | Senku Gets Faster |
 | 32 | The First Thing Built for Peace |
-| 33 | One Question |
-| 34 | The Message at Dinner |
-| 35 | A City Before a Name |
-| 36 | Okarun Comes Looking for Mau |
-| 37 | Carry Half |
+| 33 | Visiting Day |
+| 34 | Let Me Out |
+| 35 | What the Visitors Saw |
+| 36 | One Question |
+| 37 | The Message at Dinner |
+| 38 | A City Before a Name |
+| 39 | Okarun Comes Looking for Mau |
+| 40 | Carry Half |
 
 ## Creator-revision relationship expansion — 2026-10-04
 

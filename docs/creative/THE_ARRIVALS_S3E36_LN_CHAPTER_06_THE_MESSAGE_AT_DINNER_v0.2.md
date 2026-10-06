@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 16
-## Chapter 34 — The Message at Dinner
+## Chapter 37 — The Message at Dinner
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 34
+**Reading order:** 37
 
 The unity message returned at dinner again.
 
@@ -22,6 +22,14 @@ Young son.
 One bag each.
 
 No dramatic injuries.
+
+The boy, at the door, looked past Fern into the common room and asked, very clearly, whether this was where the man with the wheel in his shadow lived.
+
+His father put a hand over his mouth.
+
+Fern said yes.
+
+She did not say anything else. After a moment the father took his hand away, and the family came in anyway.
 
 Exhaustion.
 

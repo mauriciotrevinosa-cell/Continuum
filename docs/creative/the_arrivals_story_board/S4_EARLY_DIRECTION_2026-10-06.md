@@ -13,7 +13,12 @@
 - **The Trial was meant as a breaking point.** The creator knows why he wanted the Trial to exist. The break is not meant to be "for the worse".
 - **The creator expects S4 to be the last season that strains the Mau–Frieren relationship this hard.**
 
+- **Escalation.** S4 escalates hard ("everything goes to 11"), and the creator plans to bring an "ugly reality" he has not described yet.
+- **Ring Three** was designed to disappear in S4.
+- **REMIND THE CREATOR** when S4 planning starts that the V16 Plaza breach and evacuation (DH-024) was built at his request as S4 setup.
+
 ## Seeds already planted in S3 that S4 can draw on
+- **The Plaza breach** (DH-024, containment lock §3D). It brought terror, rumors, and Ring Three starting to distance. The "let me out" voice is still unidentified. Sukuna now knows about the wheel.
 
 These are listed so nobody has to rediscover them. Using any of them is the creator's call.
 

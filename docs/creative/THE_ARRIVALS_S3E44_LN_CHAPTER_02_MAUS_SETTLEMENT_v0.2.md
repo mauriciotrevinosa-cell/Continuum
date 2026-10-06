@@ -51,6 +51,8 @@ Fort.
 
 Monster town.
 
+That one was newer. It had started after the plaza.
+
 Rimuru's place.
 
 Witch city.

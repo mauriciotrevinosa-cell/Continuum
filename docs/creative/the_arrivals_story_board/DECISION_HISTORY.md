@@ -340,3 +340,16 @@ Creator feedback, 2026-10-06 (reading V15 #30): the Mau–Yuta bond had faded in
 - **The condition.** Fern drafts it. Mikasa, Anko, Yuta and Rimuru shape it: *MAU DOES NOT GO TO THE GODDESS. Not alone. Not with anyone. Not for anyone. Until: 1. He tells us what happened. 2. We talk about it.* Ori stops them from repeating the V13 flaw of writing rules while he sleeps and pinning them, so they **ask** instead. In "The Offer Is Still There" Mau signs it and says "Not tonight." Fern: "But it's written."
 - At the end of S3 the household **still does not know what happened inside.** The road outburst was fragments, not an explanation. That is an S4 seed (`S4_EARLY_DIRECTION_2026-10-06.md`).
 - **Terminology fix:** "G5" refers only to the named arrival cohort, which closed with Rem, Kaneki and Aira. Unnamed travelers who came with Diablo's convoy are "convoy travelers", never "G5".
+
+## DH-024 — The Plaza breach is S4 setup
+
+Creator-directed, 2026-10-06. The creator asked for this explicitly because of how he wants to build S4, and asked to be **reminded of it when S4 planning starts**.
+
+- **What and where:** a full seal breach with an evacuation during a visit (V16, after "The First Thing Built for Peace"). It is placed early on purpose: things improve afterward, then deteriorate gradually toward S4. Full beat list: containment lock §3D.
+- **Purpose:** plant real terror of what Mau carries, change the rumors ("Monster town"; "that's what they'd want you to believe"), and start a visible but partial **Ring Three distancing**.
+- **Creator intent for S4:**
+  - Ring Three was designed to **disappear in S4** ("nobody important is in Ring Three"). S3 shows only glimpses of the distancing.
+  - S4 brings an "ugly reality" the creator has not disclosed.
+  - In S4, "everything goes to 11".
+- **Open mystery:** the "let me out" voice under the wall.
+

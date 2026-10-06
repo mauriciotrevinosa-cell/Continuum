@@ -76,6 +76,30 @@ That made it useful.
 
 "What else?"
 
+"They say he keeps a monster in his shadow. A great pale wheel. People saw it come up in the middle of a market, in daylight."
+
+Sukuna went very still.
+
+Not laughing now.
+
+He knew exactly one wheel like that. He had worn it.
+
+"Did it turn?"
+
+The man blinked.
+
+"What?"
+
+"The wheel. Did it turn?"
+
+"They say he held it. With his hands. Until it went back down."
+
+Sukuna was quiet for a moment.
+
+Then he smiled, slowly, and it was the worst thing the man had seen all year.
+
+"Of course he did," said Sukuna. "What else?"
+
 "They built a fortress."
 
 Sukuna looked at the road.

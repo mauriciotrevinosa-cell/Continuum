@@ -354,3 +354,18 @@ Creator-directed, 2026-10-06. The creator asked for this explicitly because of h
   - In S4, "everything goes to 11".
 - **Open mystery:** the "let me out" voice under the wall.
 
+
+## DH-025 — Default rule: memories from the arrival point, potential from the end of the source
+
+Creator, 2026-10-06, while clarifying Rimuru: "his memories are from there, but his potential is end-of-LN, as with almost everything we've discussed".
+
+**Current direction:**
+- **Rimuru.** His memories and knowledge are from his arrival point (the end of the Chloe arc). His potential ceiling is the final Tensura LN Rimuru (DH-020). Reaching it still needs in-story causes.
+- **Default for other characters.** Unless decided otherwise, what a character knows and remembers comes from the point their source is taken from. Their **potential ceiling** is the end of their source. Current power is not the same as ceiling; growth toward it must be earned on the page.
+- **"Almost" means exceptions are per character and explicit.** Existing exceptions and deviations include:
+  - Yuta and Maki remember a full life beyond their story;
+  - Eren's memory and state mismatch is an arc;
+  - Senku has a reduced cognition he works around;
+  - Mau's own origin.
+
+  When in doubt, check that character's decisions before assuming the default.

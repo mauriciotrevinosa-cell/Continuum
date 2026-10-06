@@ -26,6 +26,8 @@ She checked it the rest of the time too. She had never admitted to that.
 
 There was a folded blanket on its shelf. She had put it there herself, a month ago, the day Ori showed her the room and said *you could use it* and Rem said *not yet*. *For guests*, she had said. The blanket was still exactly where she had put it. Nobody had moved it. Nobody else had used the room. Nobody had put a name on its door. The plan in Fern's ledger said *Rem*, but the plan was Fern's handwriting, and it had been for rain.
 
+On the wall beside the window, the square of paper in Mau's handwriting was still pinned where it had always been. *OCCUPIED. But not yet. Hopefully Rem.* She had read it every time she came. She had never touched it. As far as she knew, he still had no idea anyone had.
+
 There was a slip of paper pinned to the doorframe, the same as every other room in the Muslin, for a name.
 
 It was blank.

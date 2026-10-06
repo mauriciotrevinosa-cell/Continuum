@@ -356,7 +356,27 @@ It had a window over the courtyard.
 
 The rain ran down it in long grey lines.
 
+Pinned to the wall beside the window, where anyone who opened the door would see it first, there was a small square of paper.
+
+Rem knew the handwriting. She had watched it for weeks at the old inn, in a notebook, writing down what was real.
+
+OCCUPIED.
+But not yet.
+Hopefully Rem.
+
+She stood in the doorway and looked at it for a long time.
+
+It was not addressed to her. It was addressed to whoever came in here next with a marker and a good reason. It was a note to keep a room empty. That was all it was.
+
+She read it again.
+
+He had not asked her. He had never once asked her. Not when she brought supplies, not when she stayed late, not when Momo gave her the second cup. He had only put a piece of paper on a wall, so that if she ever came looking, there would still be a room.
+
+She did not take it down. She did not touch it. She left it exactly as it was, so that when he next came to check (and she understood now that he checked) he would find it as he had left it, and never know anyone had read it.
+
 Rem sat down on the crate of nails.
+
+She did not know yet. That was the truth, and she let it be the truth. She knew he wanted her here. She did not know if she wanted to be someone who stayed.
 
 It was very quiet.
 
@@ -457,6 +477,8 @@ And, very faintly, Kaneki laughed.
 Ori found them when she came looking for Rem.
 
 She looked into the narrow room, at three people in it who were not talking, and understood immediately.
+
+She saw the square of paper on the wall. She saw that Rem had seen it.
 
 She did not say anything either.
 

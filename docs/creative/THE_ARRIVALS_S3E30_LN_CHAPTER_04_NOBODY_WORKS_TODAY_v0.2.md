@@ -486,6 +486,36 @@ She sat down on the floor with her back against Rem's crate, and after a while, 
 
 Ori leaned her head back against Rem's knee.
 
+For a long time nobody said anything. Kaneki turned a page. Frieren turned a page. The rain went on.
+
+Then Rem said, very quietly, looking at the square of paper on the wall:
+
+"Why did he do that?"
+
+Kaneki looked down at his book and became extremely interested in it.
+
+Ori did not open her eyes.
+
+"He's hoping," she said.
+
+Up on the windowsill, Frieren did not look up from her grimoire either.
+
+"He misses you," she said. "He wants you here."
+
+Rem looked at the note.
+
+"Why?"
+
+Frieren turned another page. She took her time, the way she did with anything that mattered.
+
+"Because you were there when he needed you," she said.
+
+"And he wants to be there for you," said Ori, against Rem's knee. "That's all. That's the whole reason."
+
+Rem did not answer.
+
+She sat on the crate of nails with Ori's head on her knee and the rain on the window, and looked at four words in Mau's handwriting for a long time.
+
 That was all.
 
 That was a great deal.
@@ -536,11 +566,19 @@ From the far end of the house, very faintly, came the sound of a fort falling do
 
 "Yes," said Rem.
 
-"What is it?"
+Mau opened his eyes. Without seeming to mean to, he glanced at the wall beside the window, at the square of paper, the way you check a door you have already locked.
 
-"Storage," said Ori, without opening her eyes.
+Rem watched him check.
 
-"Later," said Kaneki.
+She looked away before he could see her watching.
+
+"What is it?" said Kaneki, of the room, because nobody had ever told him.
+
+Mau opened his mouth.
+
+"A room," said Ori, without opening her eyes, before he could answer.
+
+Nobody said anything else.
 
 
 

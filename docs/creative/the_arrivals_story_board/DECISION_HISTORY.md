@@ -315,3 +315,14 @@ Creator-directed, 2026-10-05: "I want the Trial to be traumatic". The point is n
 - **Echoes after the Trial:** "Future Regret" (he hears her finishing his sentence) and "Now Let Us Decide" (he says "I remember a wedding" but **never repeats her last words to anyone**). Frieren saw the clearing through the wall and does not ask. That silence is open into S4.
 
 See V19 #17–#22.
+
+## DH-022 — Ciel counts the Trial
+
+Creator-directed, 2026-10-06. This supersedes the earlier rule that the thread goes fully silent in the Trial.
+
+**Current direction:**
+- Inside the Trial domain, Ciel cannot reach Mau except at each reset. Then exactly **one word** crosses: the loop number.
+- She cannot see what happens inside a loop, how long it lasts, or what Mau feels. Every loop is one instant to her, and she counts the jolts.
+- **Mau's own count fails** ("The Number Stops Helping": he believes it is forty, she says forty-four). In "Hundreds" he stops listening after catching that the numbers have three digits. She never stops.
+- **The exact total exists and is never stated in the text.** After the Trial ("The Body Remembers"), Mau asks her never to tell him. She holds it under rule 1 ("kept, counted and held") and tells him he does not have to hold it too.
+- This keeps "Exact loop count intentionally unresolved" true for Mau and the reader, while making the number a real object in the world. That is an S4 seed (see `S4_EARLY_DIRECTION_2026-10-06.md`).

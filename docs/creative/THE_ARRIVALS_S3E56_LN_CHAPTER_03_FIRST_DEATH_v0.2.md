@@ -249,7 +249,13 @@ Ciel could observe almost nothing inside the domain.
 
 Only the result.
 
-And something she did not tell Rimuru until much later: for the first time since containment, the thread to Mau had gone completely silent.
+And something she did not tell Rimuru until much later. For the first time since containment, the thread to Mau had gone silent. Almost completely.
+
+At the reset, for an instant, it came back. A single jolt, like a heart restarting. Not long enough to hear him. Not long enough to feel what he felt or to know how long he had been gone. Long enough for one word.
+
+Ciel did not know what had happened to him in there. She knew only that he had come back to the anchor.
+
+So she said the only thing she knew.
 
 Frieren looked at him.
 
@@ -260,6 +266,12 @@ Rimuru flinched.
 "Right."
 
 Inside, Mau looked at his hands.
+
+Very faintly, through something that felt like a wall the thickness of the world, a voice he knew said one word.
+
+*One.*
+
+Then the thread went quiet again.
 
 The Goddess asked:
 

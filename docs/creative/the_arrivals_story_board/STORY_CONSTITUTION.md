@@ -287,7 +287,7 @@ Creator rule, 2026-10-06.
 
 - **No fixed number of seasons and no predetermined ending.** The creator watches how each season ends and lets that decide where the next one goes. The seasons themselves tell us where the story is heading, and whether it is closing.
 - **Everything stays connected.** No season should feel like a new show. The same people, places and consequences carry forward.
-- **Each season opens with a breather** after the previous one: ordinary life, recovery, the household catching its breath. Only then does it move into what that season is about. S4 is planned to open this way.
+- **Each season starts exactly where the previous one ended** and first shows its ramifications: consequences, reactions, aftermath. Only then does it move into what the new season builds. S2 opened on S1's ending, and S3 opened on S2's before its memory crisis began. S4 opens on the Trial's aftermath. (Creator clarification, 2026-10-06: this is the "respiro", meaning the aftermath before the new build, not a calm reset.)
 - **Every new season does three things:**
   - it keeps continuity with everything before it;
   - it **expands what already exists** (characters, places, systems, unresolved seeds) before inventing replacements;

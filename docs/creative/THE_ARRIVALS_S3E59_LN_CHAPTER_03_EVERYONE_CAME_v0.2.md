@@ -8,6 +8,10 @@
 
 The white went on for a long time.
 
+Through the wall, as at every anchor, Ciel said a number. He did not hear what it was. He had not heard one in a long time.
+
+The white went on.
+
 Long enough that Mau began to hope it was over.
 
 Then there was frost.

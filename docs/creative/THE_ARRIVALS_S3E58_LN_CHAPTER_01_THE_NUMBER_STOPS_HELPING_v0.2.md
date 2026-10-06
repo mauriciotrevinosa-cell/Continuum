@@ -84,6 +84,16 @@ Long scenarios eroded sequence.
 
 At what he thought was forty, he was no longer certain the previous loop had only happened once.
 
+Then the anchor came, and through the wall, as at every anchor, Ciel said a number.
+
+*Forty-four.*
+
+He had been four off.
+
+Four whole loops he did not have.
+
+Ciel's count was exact. She never missed one. She could not see what happened between them, or how long any of them lasted. To her each loop was the same single jolt in the thread, and she counted the jolts. The number was right, and it was outside him, and the part of him that should have held it had dropped four lives on the floor without noticing.
+
 That frightened him more than dying.
 
 The memory crisis had already taught him what it felt like not to trust autobiography.

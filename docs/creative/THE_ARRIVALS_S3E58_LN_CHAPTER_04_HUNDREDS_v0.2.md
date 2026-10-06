@@ -24,6 +24,14 @@ A handful lasted years subjectively.
 
 Counting deaths without counting lived time became meaningless.
 
+Ciel's number still came at every anchor, one word through the wall. To her, every loop was an instant. A loop that lasted him three years arrived in the thread exactly like one that lasted three seconds: one jolt, one more. She could not know the difference. She counted anyway.
+
+He stopped hearing the numbers somewhere in the hundreds. He knew they were in the hundreds because once, without meaning to, he caught the first word of one.
+
+After that he made himself stop listening.
+
+She never stopped saying them.
+
 So Mau changed the metric.
 
 He counted people.

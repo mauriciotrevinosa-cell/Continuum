@@ -42,7 +42,7 @@ Trial loops.
 
 Hundreds.
 
-Inside his head, for the first time since the white, Ciel spoke.
+Inside his head, for the first time since the white, Ciel said a word that was not a number.
 
 Mau.
 
@@ -50,7 +50,19 @@ He had not known how much he had missed her voice until it was there.
 
 "You're back."
 
-I never left. I could not reach you. A pause. I looked. Rule four. I am telling you I looked.
+I never left. I could reach you only at the anchor. One word, each time. A pause. I could not see what happened to you. I could not tell how long it took. To me, every time was one instant, and then you came back. So I counted.
+
+Mau lay very still.
+
+"Don't tell me," he said.
+
+I won't.
+
+"Ever."
+
+A long pause.
+
+I will hold it, said Ciel. Rule one. Nothing is deleted. It is kept, counted and held. A pause. You do not have to hold it too.
 
 "The loops," he said, under his breath. "Is it going to— Can it fix them?"
 

@@ -30,7 +30,7 @@
 - Ciel is Raphael's successor after a forced evolution. She remembers everything Raphael remembered. She is "not only a function" now: she has personality, dry humour, devotion to Rimuru ("Master") and something like jealousy, which she insists is concern.
 - **Permanent thread to Mau.** A thread survived the tearing. Ciel can speak to Mau, and Mau can hear her inside and outside containment. She speaks only when Mau wants it or in an emergency, and Mau can tell her to be quiet.
 - Ciel **cannot verify which memories are true.** That was never her role. Shared verification stays with people.
-- In the V19 Trial domain, the thread to Mau goes silent.
+- **In the V19 Trial domain, the thread is silent except at each reset.** At every return to the anchor, one word crosses: **Ciel's count**. She perceives only the resets, not elapsed time and not what Mau feels, so a three-year loop and a three-second loop arrive identically. Mau loses his own count, and is four off at "forty-four". Somewhere in the hundreds he stops listening, but she never stops counting. After the Trial she holds the exact total under rule 1, and Mau asks her never to tell him. The number is never stated in the text. (Creator change, 2026-10-06; supersedes "the thread goes silent"; see DH-022.)
 - **Rimuru's power reference:** he arrived pre-Ciel (Demon Lord era, with Raphael), and his 100% ceiling for all seasons is the end-of-LN Rimuru. See `DECISION_HISTORY.md` DH-020.
 
 ## 3. The seal and the household guardrails
@@ -194,5 +194,5 @@ The leaks and the trials **keep existing** after their own chapters. They surfac
 
 - From V13 #20 onward, "Raphael" becomes **Ciel**, except where characters refer to Raphael historically.
 - The V18 Noise overload: the seal holds, and the pressure comes from the trunk around it. The eye opens and stays open during the overload. Ciel monitors at Mau's request.
-- V19: the Trial silences the thread. Mau's decision explicitly draws on the question he always asked and on both traumas (containment and Trial).
+- V19: the Trial silences the thread except for Ciel's one-word count at each reset (DH-022). Mau's decision explicitly draws on the question he always asked and on both traumas (containment and Trial).
 - The V13 timeline after the event moves forward by two days.

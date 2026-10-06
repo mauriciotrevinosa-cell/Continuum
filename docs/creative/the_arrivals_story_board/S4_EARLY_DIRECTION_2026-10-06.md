@@ -36,7 +36,7 @@ These are listed so nobody has to rediscover them. Using any of them is the crea
 - He called it a favorite chapter, perhaps *the* favorite so far, because nothing is ending and it is still devastating. Gojo was the one in front. Yuta was nearly as strong and still left him alone. Mau is walking the same road without knowing where it leads.
 - **Rimuru parallel.** "Rimuru died thousands of times and Chloe reset everything." It is a road that almost always leads the same way.
 - **Seed (Claude):** when Mau finally tells Rimuru **437**, Rimuru may be the one person who knows what it means to be on the *other* side of loops: someone once carried them alone *for him*.
-- **Open canon check:** Rimuru arrived in the Demon Lord era (DH-020). Confirm whether he already knows about Chloe's loops at that point in the LN. If not, decide how and when he learns, or treat it as knowledge from after his arrival.
+- **Canon check resolved (DH-020 addendum):** our Rimuru arrives at the end of the Chloe arc (anime S4, per the creator). He knows about the loops and is still pre-Ciel.
 
 ## Claude's notes (proposals, not decisions)
 

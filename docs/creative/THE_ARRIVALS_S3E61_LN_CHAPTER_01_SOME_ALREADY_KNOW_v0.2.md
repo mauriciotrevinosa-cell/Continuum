@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 28 — Some Already Know
+## Chapter 29 — Some Already Know
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 28
+**Reading order:** 29
 
 Some people knew without terms.
 

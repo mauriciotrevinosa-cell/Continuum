@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 41 — The Offer Is Still There
+## Chapter 42 — The Offer Is Still There
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 41  
+**Reading order:** 42  
 **Continuity state:** Evening, Day 3 of ten-day window | Backdoor attempt stopped before Goddess contact | Seven days remain | No final individual choice yet
 
 Mau slept most of Day Three.

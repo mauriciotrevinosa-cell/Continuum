@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 39 — Now Let Us Decide
+## Chapter 40 — Now Let Us Decide
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 39  
+**Reading order:** 40  
 **Continuity state:** Day 3 before sunrise | Road confrontation | Mau finally tells the others the scale and shape of the Trial aftermath
 
 Mau did not defend the slap.
@@ -131,6 +131,18 @@ Mau's voice shook harder.
 "I remember Frieren asking me thirty years later whether she should've gone home."
 
 Real Frieren looked down.
+
+"I remember a wedding."
+
+The road went very quiet.
+
+"Everyone came." He did not look at her. He could not. "Everyone. And then—"
+
+He stopped.
+
+Frieren had seen the clearing through the wall. She had seen what he was holding. She did not ask him to finish.
+
+He did not tell them what she had said at the end. He had not told anyone. He was not sure he ever could.
 
 "I remember Bocchi wondering if staying made her selfish."
 

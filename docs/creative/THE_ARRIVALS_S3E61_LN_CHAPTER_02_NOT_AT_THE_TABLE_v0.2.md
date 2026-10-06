@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 29 — Not at the Table
+## Chapter 30 — Not at the Table
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 29  
+**Reading order:** 30  
 **Continuity state:** Day 2 of ten-day window | Household keeps ordinary life without asking anyone's answer
 
 On the second morning, Seiko made a rule.

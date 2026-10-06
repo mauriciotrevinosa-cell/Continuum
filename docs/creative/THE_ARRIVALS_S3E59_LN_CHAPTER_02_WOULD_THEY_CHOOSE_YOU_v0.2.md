@@ -85,11 +85,11 @@ Bocchi struggling through:
 
 Not that far.
 
-Ori pointing at the gap between rooms.
+Ori pointing across the courtyard at the closest room the plan allowed.
 
-That is space.
+I want to be near you.
 
-And I want to be near you.
+That's as near as the plan lets me get.
 
 Mau went still.
 
@@ -510,96 +510,14 @@ Mau looked at Frieren.
 
 The answer had become the only honest tool he had left.
 
-Outside the Trial, the domain shifted.
+The Goddess was quiet for a long moment.
 
-The family saw the plaza image become translucent.
+Mau waited for the next question.
 
-Mau's figure appeared at its center.
+It did not come.
 
-For the first time since entry, the Trial opened enough that their voices might carry.
+Instead, very gently, the Goddess said:
 
-Frieren stepped forward.
+"One more."
 
-"Mau."
-
-He heard.
-
-His entire body reacted.
-
-Not reset.
-
-Real voice.
-
-Maybe.
-
-He did not assume.
-
-"Frieren?"
-
-"Yes."
-
-The Goddess asked:
-
-"Would they choose you?"
-
-Mau looked around at people he loved.
-
-Not one orbit.
-
-Not one reason.
-
-A network that had grown because people chose each other in directions he did not control.
-
-And yet he was there.
-
-Near the center of many of those lines.
-
-That was not a sin.
-
-Pretending it meant nothing would be another way of refusing their choices.
-
-He could ask.
-
-Do you stay?
-
-Do you choose me?
-
-Do you love me enough?
-
-He did not.
-
-"I don't know."
-
-Frieren's face changed.
-
-Not hurt.
-
-Recognition.
-
-The Goddess:
-
-"Then let them answer."
-
-The domain opened farther.
-
-Air returned.
-
-Real plaza under constructed plaza.
-
-People outside hearing enough to understand.
-
-The question stopped belonging to Mau.
-
-That was the final turn.
-
-The Trial had not proven everyone would stay.
-
-It had proven something smaller and, for Mau, almost harder:
-
-they had already chosen him many times.
-
-He did not get to erase those choices because the next one frightened him.
-
-And he did not get to use those choices as ownership of the next answer.
-
-The Goddess was about to make that distinction literal.
+And the white came back.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 25 — One Life Each
+## Chapter 26 — One Life Each
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 25  
+**Reading order:** 26  
 **Continuity state:** Day 1 after Trial | Return/Stay exists publicly | Mau begins connecting real choice to Trial consequence
 
 By noon, people were already asking questions.

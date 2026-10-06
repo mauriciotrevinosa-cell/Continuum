@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 21 — Return
+## Chapter 22 — Return
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 21  
+**Reading order:** 22  
 **Continuity state:** Trial opens to settlement | Return/Stay offer begins publicly | Individual terms remain private and incomplete
 
 One word appeared above the plaza.

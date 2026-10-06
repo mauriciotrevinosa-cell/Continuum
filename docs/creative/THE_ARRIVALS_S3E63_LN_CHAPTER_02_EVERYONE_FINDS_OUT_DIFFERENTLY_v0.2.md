@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 36 — Everyone Finds Out Differently
+## Chapter 37 — Everyone Finds Out Differently
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 36  
+**Reading order:** 37  
 **Continuity state:** Day 3, 4:30–5:00 a.m. | Mau ahead on foot | Network pursuit begins immediately
 
 Frieren woke because Mau was not in bed.

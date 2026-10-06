@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 31 — Frieren Doesn't Answer
+## Chapter 32 — Frieren Doesn't Answer
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 31  
+**Reading order:** 32  
 **Continuity state:** Night 2 after Trial | Frieren keeps her terms private | Mau states desire without converting it into demand
 
 At night Mau almost asked.

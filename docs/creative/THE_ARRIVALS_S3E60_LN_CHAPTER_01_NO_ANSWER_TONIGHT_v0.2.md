@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 23 — No Answer Tonight
+## Chapter 24 — No Answer Tonight
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 23  
+**Reading order:** 24  
 **Continuity state:** Day 0 after Trial | Return/Stay window opens | Ten-day decision period begins
 
 Mau returned to the plaza physically intact.

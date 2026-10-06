@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 27 — Private Terms
+## Chapter 28 — Private Terms
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 27  
+**Reading order:** 28  
 **Continuity state:** Day 1–2 after Trial | Personal divine terms begin | Settlement creates human privacy and cooling-off procedures around irreversible choice
 
 The first person to request terms did not tell anyone why.

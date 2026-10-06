@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 22 — Stay
+## Chapter 23 — Stay
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 22  
+**Reading order:** 23  
 **Continuity state:** Return/Stay offer fully stated | Stay carries bounded petition possibility | Neither path is morally privileged
 
 The second word appeared beneath the first.

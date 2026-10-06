@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 24 — The Body Remembers
+## Chapter 25 — The Body Remembers
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 24  
+**Reading order:** 25  
 **Continuity state:** First night after Trial | Mau physically intact | Trial-conditioned reactions remain
 
 Mau did not sleep.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 30 — Some Don't Want to Say
+## Chapter 31 — Some Don't Want to Say
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 30  
+**Reading order:** 31  
 **Continuity state:** Day 2 after Trial | First major privacy conflict | Mau successfully respects a smaller version of the agency problem he will later fail at scale
 
 The first privacy conflict came from love.

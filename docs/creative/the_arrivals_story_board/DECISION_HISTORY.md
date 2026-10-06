@@ -299,3 +299,19 @@ Recorded 2026-10-05 at the creator's request, because it is easy to lose across 
 - **Mau's sealed copies are a snapshot.** What the Noise read on V13 Day 17 does not update as Rimuru grows. If Rimuru later reaches skills he did not have then, the seal does not contain them.
 
 See `S3_CONTAINMENT_EVENT_AND_CIEL_CANON_LOCK_2026-10-04.md`.
+
+## DH-021 — The Trial's last scenario is a wedding
+
+Creator-directed, 2026-10-05: "I want the Trial to be traumatic". The point is not cruelty for its own sake. The trauma is what makes Mau's post-Trial decision heavier, and it carries into the creator's S4 plan. The creator expects S4 to be the last season that puts this relationship through the wringer.
+
+**Current direction:**
+- The final Trial scenario, V19 "Everyone Came", comes after "Would They Choose You?". That chapter now ends with the Goddess saying "One more." The wedding is the future Mau wants: the clearing where he woke, the elf route complete (his ears are pointed), his own flowers, and **everyone he considers family plus Ring Two** present.
+- The catastrophe is deliberately **ambiguous in cause**. Something cuts the sky open. Then Mau's seal opens one door: uncontrolled Infinity keeps him perfectly safe and unable to reach anyone. He cannot tell whether they died because of the attack or because of him. That uncertainty is the manipulation.
+- Frieren dies in his arms. She fights to reach him, not the sky. Her last words: "If it weren't for you, if you'd let me go back, I would be happy... I would still be alive." The Goddess is **heard, never seen**: "Would they choose you?" / "They did. Look." / "They are here because of you."
+- **Planted tells that it was built for him** (for later seasons; Mau does not catch them):
+  - the flower in her hair is **blue**, but the first flower was white;
+  - she says "You stood in front of the door, **and I let you**", but in "The Different Door" she went around him.
+- Mau's answer changes from "I don't know" to **"They shouldn't."** He exits straight into the Return offer.
+- **Echoes after the Trial:** "Future Regret" (he hears her finishing his sentence) and "Now Let Us Decide" (he says "I remember a wedding" but **never repeats her last words to anyone**). Frieren saw the clearing through the wall and does not ask. That silence is open into S4.
+
+See V19 #17–#22.

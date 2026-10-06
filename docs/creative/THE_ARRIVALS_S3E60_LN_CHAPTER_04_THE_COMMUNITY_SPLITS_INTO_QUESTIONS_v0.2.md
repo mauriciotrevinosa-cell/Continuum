@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 26 — The Community Splits Into Questions
+## Chapter 27 — The Community Splits Into Questions
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 26  
+**Reading order:** 27  
 **Continuity state:** Day 1 after Trial | Return/Stay publicly known | Settlement must protect choice from becoming faction
 
 The settlement did not split into camps.

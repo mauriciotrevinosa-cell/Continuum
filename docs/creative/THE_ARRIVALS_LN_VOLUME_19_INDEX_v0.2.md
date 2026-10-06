@@ -4,7 +4,7 @@
 **Volume:** 19  
 **Season:** 3  
 **Volume title:** **What Would You Choose?**  
-**Chapter count:** 41
+**Chapter count:** 42
 
 | # | Chapter |
 |---:|---|
@@ -28,27 +28,28 @@
 | 18 | Because They're My Family |
 | 19 | Not the Question |
 | 20 | Would They Choose You? |
-| 21 | Return |
-| 22 | Stay |
-| 23 | No Answer Tonight |
-| 24 | The Body Remembers |
-| 25 | One Life Each |
-| 26 | The Community Splits Into Questions |
-| 27 | Private Terms |
-| 28 | Some Already Know |
-| 29 | Not at the Table |
-| 30 | Some Don't Want to Say |
-| 31 | Frieren Doesn't Answer |
-| 32 | Mau Hears Everyone |
-| 33 | Future Regret |
-| 34 | The Fourth Draft |
-| 35 | He Went Alone |
-| 36 | Everyone Finds Out Differently |
-| 37 | Interception |
-| 38 | The Biggest Slap of His Life |
-| 39 | Now Let Us Decide |
-| 40 | Mau Jail, Part Two |
-| 41 | The Offer Is Still There |
+| 21 | Everyone Came |
+| 22 | Return |
+| 23 | Stay |
+| 24 | No Answer Tonight |
+| 25 | The Body Remembers |
+| 26 | One Life Each |
+| 27 | The Community Splits Into Questions |
+| 28 | Private Terms |
+| 29 | Some Already Know |
+| 30 | Not at the Table |
+| 31 | Some Don't Want to Say |
+| 32 | Frieren Doesn't Answer |
+| 33 | Mau Hears Everyone |
+| 34 | Future Regret |
+| 35 | The Fourth Draft |
+| 36 | He Went Alone |
+| 37 | Everyone Finds Out Differently |
+| 38 | Interception |
+| 39 | The Biggest Slap of His Life |
+| 40 | Now Let Us Decide |
+| 41 | Mau Jail, Part Two |
+| 42 | The Offer Is Still There |
 
 ## Creator-revision choice lock — 2026-10-04
 

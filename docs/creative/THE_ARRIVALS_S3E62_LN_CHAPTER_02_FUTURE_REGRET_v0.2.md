@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 33 — Future Regret
+## Chapter 34 — Future Regret
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 33  
+**Reading order:** 34  
 **Continuity state:** Night 2 of ten-day window | Mau has not contacted Goddess | Severe sleep loss + Trial aftermath drive private modeling
 
 Mau wrote scenarios because writing was slower than remembering.
@@ -311,6 +311,8 @@ New page.
 If Frieren stays and regrets it after a hundred years—
 
 He could not finish.
+
+He did not need to. He could hear her finishing it for him, in a clearing full of cut flowers, perfectly gently. *I would be happy. I would still be alive.*
 
 The false memories had attacked whether Frieren loved him.
 

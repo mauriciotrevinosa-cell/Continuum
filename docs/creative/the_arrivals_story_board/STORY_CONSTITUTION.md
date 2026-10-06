@@ -281,7 +281,26 @@ When a later correction happens:
 
 ---
 
-# 15. Final test
+# 15. The series is open-ended; seasons are chapters of one life
+
+Creator rule, 2026-10-06.
+
+- **No fixed number of seasons and no predetermined ending.** The creator watches how each season ends and lets that decide where the next one goes. The seasons themselves tell us where the story is heading, and whether it is closing.
+- **Everything stays connected.** No season should feel like a new show. The same people, places and consequences carry forward.
+- **Each season opens with a breather** after the previous one: ordinary life, recovery, the household catching its breath. Only then does it move into what that season is about. S4 is planned to open this way.
+- **Every new season does three things:**
+  - it keeps continuity with everything before it;
+  - it **expands what already exists** (characters, places, systems, unresolved seeds) before inventing replacements;
+  - it brings in new things on top of that, not instead of it.
+- **Ideas are captured in git the moment they come,** from either the creator or Claude. Chat is not storage.
+  - Direction goes into the relevant story-board document.
+  - Unplaced ideas go into `FLOATING_IDEAS.md`.
+  - Decisions go into `DECISION_HISTORY.md`.
+- **An ending is allowed when the story reaches it, and not before.** No season is written as a finale "just in case".
+
+---
+
+# 16. Final test
 
 Before forcing an episode, scene or character into the story, ask:
 

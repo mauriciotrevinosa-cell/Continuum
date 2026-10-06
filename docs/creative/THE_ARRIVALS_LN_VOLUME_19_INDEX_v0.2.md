@@ -4,7 +4,7 @@
 **Volume:** 19  
 **Season:** 3  
 **Volume title:** **What Would You Choose?**  
-**Chapter count:** 42
+**Chapter count:** 43
 
 | # | Chapter |
 |---:|---|
@@ -49,7 +49,8 @@
 | 39 | The Biggest Slap of His Life |
 | 40 | Now Let Us Decide |
 | 41 | Mau Jail, Part Two |
-| 42 | The Offer Is Still There |
+| 42 | What We Don't Know |
+| 43 | The Offer Is Still There |
 
 ## Creator-revision choice lock — 2026-10-04
 

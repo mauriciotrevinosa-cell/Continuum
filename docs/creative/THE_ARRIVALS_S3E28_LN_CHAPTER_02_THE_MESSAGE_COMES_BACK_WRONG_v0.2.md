@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 41 — The Message Comes Back Wrong
+## Chapter 42 — The Message Comes Back Wrong
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 41
+**Reading order:** 42
 
 A week after the statement left, a traveler brought a copied version back.
 

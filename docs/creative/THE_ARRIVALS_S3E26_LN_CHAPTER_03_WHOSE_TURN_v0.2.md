@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 34 — Whose Turn
+## Chapter 35 — Whose Turn
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 34  
+**Reading order:** 35  
 **Continuity state:** Refuge week | Care flows back toward Mau | Sprout appears
 
 At the long table in Arrival House, Mau had three ledgers open and had not eaten since breakfast.

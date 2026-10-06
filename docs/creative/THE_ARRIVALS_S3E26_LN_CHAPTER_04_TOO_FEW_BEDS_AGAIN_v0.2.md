@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 15
-## Chapter 35 — Too Few Beds Again
+## Chapter 36 — Too Few Beds Again
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 15  
-**Reading order:** 35
+**Reading order:** 36
 
 They had moved because the inn was too small.
 
@@ -93,7 +93,7 @@ They slept in the common room.
 
 Around them:
 two Searchers;
-one G5 traveler;
+one traveler who had come with Diablo's convoy and never quite left;
 Aira because she had lost a coin toss;
 Momo because Momo refused to explain;
 Okarun because Momo was there.

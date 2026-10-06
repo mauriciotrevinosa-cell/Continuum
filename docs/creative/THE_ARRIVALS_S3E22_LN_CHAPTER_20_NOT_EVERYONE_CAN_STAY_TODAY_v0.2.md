@@ -121,7 +121,7 @@ Valid.
 
 He stayed one night.
 
-Second day, a G5 resident who lived in a native town visited.
+Second day, a former convoy traveler who now lived in a native town visited.
 
 They spoke.
 

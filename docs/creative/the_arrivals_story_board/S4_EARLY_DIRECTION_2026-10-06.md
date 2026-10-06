@@ -20,6 +20,7 @@ These are listed so nobody has to rediscover them. Using any of them is the crea
 - **Frieren's last words in "Everyone Came".** Mau has never repeated them to anyone. Frieren saw the clearing through the wall and has not asked (DH-021).
 - **The Goddess's two tells** that the wedding was built for Mau (DH-021).
 - **437 attempts.** Ciel counted them without knowing they were deaths and told Mau. He forbade her to tell Rimuru and promised to tell Rimuru himself. On the road he said only "hundreds". Ciel will wait, "not forever" (DH-022).
+- **The signed condition** (DH-023): Mau cannot go to the Goddess until he tells them what happened and they talk about it. He signed it and said "Not tonight". The household does not know what happened inside, and Ciel has refused Rimuru the number.
 - **The Return/Stay window.** Seven days remain at the end of S3, and individual answers are still open.
 - **The guardrails.** Rule 3 is fragile, and the Ten Shadows dangerous-leak line points toward Mahoraga (containment lock §3A and §3B).
 - **The real house** is drawn but not built (layout lock §10).

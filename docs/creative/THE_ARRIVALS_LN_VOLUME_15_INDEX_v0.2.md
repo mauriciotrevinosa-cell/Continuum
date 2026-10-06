@@ -4,7 +4,7 @@
 **Volume:** 15  
 **Season:** 3  
 **Volume title:** **People Who Heard About Us**  
-**Chapter count:** 42  
+**Chapter count:** 43  
 **Supersedes:** Volume 15 v0.1 for S3 v0.2 reader order.
 
 | # | Chapter |
@@ -40,17 +40,18 @@
 | 29 | The Other Camp |
 | 30 | We Survived by Staying Small |
 | 31 | Not Our City |
-| 32 | The People Who Cannot Fight |
-| 33 | Three Nights Become a Week |
-| 34 | Whose Turn |
-| 35 | Too Few Beds Again |
-| 36 | Who Are We Speaking For? |
-| 37 | The Draft |
-| 38 | The Message |
-| 39 | The First Reply |
-| 40 | The Safe Corridor |
-| 41 | The Message Comes Back Wrong |
-| 42 | The Rumor Reaches Sukuna |
+| 32 | Catching Up |
+| 33 | The People Who Cannot Fight |
+| 34 | Three Nights Become a Week |
+| 35 | Whose Turn |
+| 36 | Too Few Beds Again |
+| 37 | Who Are We Speaking For? |
+| 38 | The Draft |
+| 39 | The Message |
+| 40 | The First Reply |
+| 41 | The Safe Corridor |
+| 42 | The Message Comes Back Wrong |
+| 43 | The Rumor Reaches Sukuna |
 
 ## Creator-revision expansion — 2026-10-04
 

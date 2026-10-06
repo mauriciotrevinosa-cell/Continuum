@@ -90,7 +90,7 @@ Frieren slept on, the paper crown slipping slowly off her head.
 
 
 
-Yuta, in the morning, said the same thing Rimuru had, almost word for word.
+Yuta, in the morning, said the same thing Rimuru had, almost word for word. They had been up on the roof together two nights before, the three of them, the way they were every week now. Mau found that he was glad, absurdly glad, that it was Yuta he was telling this to on a step and not somebody he had to explain everything to from the beginning.
 
 He was sitting on the step outside the common room with a cup of tea gone cold in his hands, and he listened to all of it without interrupting, and at the end he set the cup down on the step beside him and was quiet for a while.
 

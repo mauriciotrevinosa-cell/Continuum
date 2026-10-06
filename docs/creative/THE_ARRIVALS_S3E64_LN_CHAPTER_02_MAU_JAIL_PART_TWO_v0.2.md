@@ -43,7 +43,7 @@ The joke arrived late enough.
 Only after:
 road.
 tears.
-full explanation.
+an explanation that was mostly shouting, and not the whole of anything.
 Yuta forcing Mau to sit because he nearly fell asleep standing.
 
 Rules went onto board.

@@ -62,7 +62,7 @@ Coco laughed.
 
 A native cart arrived with timber.
 
-Two G5 guests helped unload it.
+Two convoy travelers helped unload it.
 
 One asked whether the future settlement had a name yet.
 

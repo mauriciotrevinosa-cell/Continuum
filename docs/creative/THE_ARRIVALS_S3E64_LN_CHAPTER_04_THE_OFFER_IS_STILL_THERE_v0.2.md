@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 19
-## Chapter 42 — The Offer Is Still There
+## Chapter 43 — The Offer Is Still There
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 19  
-**Reading order:** 42  
+**Reading order:** 43  
 **Continuity state:** Evening, Day 3 of ten-day window | Backdoor attempt stopped before Goddess contact | Seven days remain | No final individual choice yet
 
 Mau slept most of Day Three.
@@ -51,6 +51,46 @@ Mau looked at bowl.
 "Exactly."
 
 He ate.
+
+When he had finished, Fern came and sat down across from him and put her ledger on the table, open to a page.
+
+She did not say anything.
+
+He read it.
+
+MAU DOES NOT GO TO THE GODDESS.
+Not alone. Not with anyone. Not for anyone.
+Until:
+1. He tells us what happened.
+2. We talk about it.
+
+He read it twice.
+
+He looked at the first line under *Until* for a long time.
+
+"You wrote this while I was asleep."
+
+"Yes," said Fern. "And then Ori told us what we were doing. So we didn't pin it anywhere. We're asking."
+
+"And if I say no?"
+
+"Then we start again."
+
+Mau looked at the page.
+
+He thought about a number he had not wanted, and Rimuru three steps away on a road, and a clearing full of cut flowers. He thought about how much of what had happened in the white he could actually make himself say out loud, in this room, to these people.
+
+Not much. Not yet.
+
+He picked up the pencil and signed it anyway.
+
+"Not tonight," he said. "The first one. I can't tonight."
+
+"Not tonight," Fern agreed.
+
+She closed the ledger.
+
+"But it's written."
 
 The supervision rules remained.
 

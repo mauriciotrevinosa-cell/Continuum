@@ -236,7 +236,7 @@ The joke only worked because the lesson had stopped being abstract.
 
 He could be present without becoming function.
 
-At some point, a child from one of the temporary G5 groups sat near him and started arranging stones.
+At some point, a child from one of the traveler families still sheltering at the inn sat near him and started arranging stones.
 
 No request.
 

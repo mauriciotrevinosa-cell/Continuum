@@ -135,7 +135,7 @@ Practical.
 
 His decision to move depended partly on knowing the storage system he needed had actually arrived.
 
-One of the G5 residents asked:
+One of the travelers who had come with the convoy and stayed asked:
 
 "Are we residents now?"
 
@@ -147,7 +147,7 @@ Nano, riding on the back of the wagon with the ledger:
 
 "Your sleeping location."
 
-The G5 resident frowned.
+The traveler frowned.
 
 "That sounds less dramatic."
 

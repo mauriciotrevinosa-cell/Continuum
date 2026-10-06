@@ -206,6 +206,8 @@ For a moment neither of them said anything.
 
 It had always been the other way around. Since the first week. Yuta bringing tea to Mau. Yuta noticing. Yuta the older brother.
 
+Roof night had been four days ago. The three of them against the chimney, talking about nothing. It felt like a different year.
+
 "Your hands are shaking," said Yuta.
 
 "So are yours."

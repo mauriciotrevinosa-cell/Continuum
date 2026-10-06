@@ -328,3 +328,15 @@ Creator-directed, 2026-10-06, and refined the same day. This supersedes the earl
 - **Mau forbids her to tell Rimuru.** Ciel protests with his own rule 8 ("Don't hide it to be kind. You wrote that rule."). Mau says he will tell Rimuru **himself**: "It's mine to tell." Ciel agrees to wait, "not forever".
 - On the road ("Now Let Us Decide"), Mau says "hundreds" with Rimuru three steps away. He knows the exact number and does not say it.
 - **S4 seed:** whether and when Mau tells Rimuru, and what Ciel does if he doesn't. This feeds directly into the S4 root, Mau's silence (see `S4_EARLY_DIRECTION_2026-10-06.md`).
+
+## DH-023 — The Mau/Rimuru/Yuta trio, and the condition after the Trial
+
+Creator feedback, 2026-10-06 (reading V15 #30): the Mau–Yuta bond had faded into Mau–Rimuru, but "it was always Mau, Rimuru and Yuta".
+
+**Current direction:**
+- **V15 "Catching Up".** Yuta explains that he and Maki have been "catching up: a whole life, and then this one". The three restart a weekly **roof night** ("no business; if any of us starts carrying something he shouldn't, the other two say so"). Yuta seeds the **Gojo comparison**: everyone let the strongest carry everything without asking. Rimuru recognizes himself in it. Roof night is mentioned again in V17 "Not Here Yet" and V18 "The Night Between".
+- **V19 "What We Don't Know"** (Day 3 afternoon, Mau asleep). Momo says "We don't expect anything from him." Yuta answers with Gojo: "Seriously? Nobody?" Everyone expects Mau to be their center. He knows some of them are staying only because of him. "We don't know what happened in there... we know he came out, and two days later he was walking down a road to make a pact that would send us all home without asking us."
+- **Rimuru asks Ciel.** She knows only the number of attempts. He waits, then asks "The number, please." She refuses: she promised Mau he could tell Rimuru himself. It is the first time Ciel has ever refused Rimuru.
+- **The condition.** Fern drafts it. Mikasa, Anko, Yuta and Rimuru shape it: *MAU DOES NOT GO TO THE GODDESS. Not alone. Not with anyone. Not for anyone. Until: 1. He tells us what happened. 2. We talk about it.* Ori stops them from repeating the V13 flaw of writing rules while he sleeps and pinning them, so they **ask** instead. In "The Offer Is Still There" Mau signs it and says "Not tonight." Fern: "But it's written."
+- At the end of S3 the household **still does not know what happened inside.** The road outburst was fragments, not an explanation. That is an S4 seed (`S4_EARLY_DIRECTION_2026-10-06.md`).
+- **Terminology fix:** "G5" refers only to the named arrival cohort, which closed with Rem, Kaneki and Aira. Unnamed travelers who came with Diablo's convoy are "convoy travelers", never "G5".

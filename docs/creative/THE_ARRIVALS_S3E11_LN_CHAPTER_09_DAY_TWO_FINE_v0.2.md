@@ -106,9 +106,9 @@ The drainage markers had been moved while he was gone.
 
 A temporary storage shelter was half finished.
 
-Two G5 arrivals were helping Wakana sort material because one of them had experience with textiles and the other simply hated standing around.
+Two travelers from Diablo's convoy were helping Wakana sort material, because one of them had experience with textiles and the other simply hated standing around.
 
-One G5 traveler had left that morning for a nearby native town.
+Another convoy traveler had left that morning for a nearby native town.
 
 Another still planned to leave after recovering.
 

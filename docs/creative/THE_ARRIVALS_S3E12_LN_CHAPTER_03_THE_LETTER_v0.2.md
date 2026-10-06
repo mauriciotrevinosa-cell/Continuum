@@ -91,7 +91,7 @@ Milim volunteered immediately.
 
 Diablo did too.
 
-One G5 traveler who knew southern roads offered route information but refused field work.
+One convoy traveler who knew southern roads offered route information but refused field work.
 
 Useful.
 

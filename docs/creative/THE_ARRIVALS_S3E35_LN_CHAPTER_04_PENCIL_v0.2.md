@@ -18,11 +18,13 @@ She went down the family corridor instead.
 
 She did not decide to. Her feet decided, the way they had decided, for weeks now, to take the long way back to the road, past the turn, past the narrow room.
 
-The narrow room was still empty.
+The narrow room was empty. It was only ever not empty when it rained.
 
-It had been empty for weeks. She knew because she checked. She had never admitted to checking. She checked every time.
+Fern had written her name on the plan weeks ago, the night of the long rain, because Rem had asked if she could use the room *when it rains*. It had rained a great deal since. Every time, Rem had come and sat on the crate of nails by the window, and every time, she had left the room exactly as she found it.
 
-There was a folded blanket on its shelf. She had put it there herself, a month ago, the day Ori showed her the room and said *you could use it* and Rem said *not yet*. *For guests*, she had said. The blanket was still exactly where she had put it. Nobody had moved it. Nobody had used the room. Nobody had put a marker on its door.
+She checked it the rest of the time too. She had never admitted to that.
+
+There was a folded blanket on its shelf. She had put it there herself, a month ago, the day Ori showed her the room and said *you could use it* and Rem said *not yet*. *For guests*, she had said. The blanket was still exactly where she had put it. Nobody had moved it. Nobody else had used the room. Nobody had put a name on its door. The plan in Fern's ledger said *Rem*, but the plan was Fern's handwriting, and it had been for rain.
 
 There was a slip of paper pinned to the doorframe, the same as every other room in the Muslin, for a name.
 
@@ -55,6 +57,12 @@ She looked at Rem, and the door, and the blank slip of paper, and she did not sa
 "Whose room is this?"
 
 Fern considered the question honestly.
+
+"Yours when it rains," she said. "That's what you asked for."
+
+"And when it doesn't rain?"
+
+Fern looked at the blank slip on the door.
 
 "Nobody's," she said.
 

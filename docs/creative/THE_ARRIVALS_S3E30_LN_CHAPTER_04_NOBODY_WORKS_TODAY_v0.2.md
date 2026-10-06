@@ -348,9 +348,9 @@ Narrow.
 
 Half-hung.
 
-Wakana's chalk on the frame said: STORAGE (LATER).
+Wakana's chalk said nothing on this frame. It was the only door in the corridor with no name and no hook. Mau had asked him, weeks ago, to leave it that way, and Wakana had not asked why.
 
-So far it stored one broom and one crate of nails.
+An empty room in a busy house attracts things. So far it held one broom and one crate of nails.
 
 It had a window over the courtyard.
 
@@ -532,9 +532,9 @@ Fern let her.
 
 "The narrow room," Rem said finally. "At the end of the corridor."
 
-Fern looked at the plan.
+Fern looked at the plan. In the place where the narrow room was drawn, nothing had ever been written.
 
-"Storage. Later."
+"Unmarked," she said.
 
 "Could it be—" Rem stopped. Started again. "When it rains. Could I use it. Only when it rains."
 
@@ -542,7 +542,7 @@ Fern looked at her.
 
 She looked at her for long enough that Rem started to take it back.
 
-Then Fern picked up the pencil, drew one line through STORAGE (LATER), and wrote above it, small and neat:
+Then Fern picked up the pencil and, in the empty space on the plan where nothing had ever been written, wrote, small and neat:
 
 Rem.
 

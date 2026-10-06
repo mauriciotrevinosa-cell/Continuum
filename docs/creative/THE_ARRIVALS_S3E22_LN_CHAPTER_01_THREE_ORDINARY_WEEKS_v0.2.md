@@ -234,7 +234,7 @@ Second wash point.
 
 A covered path because rain kept proving a point.
 
-One sleeping room became storage after everyone agreed it was badly placed.
+One sleeping room at the far end of the first shell became storage after everyone agreed it was badly placed. Not the narrow one at the turn. Mau checked.
 
 No one treated redesign as failure.
 

@@ -260,7 +260,8 @@ Creator direction while reading V14. The temporary cluster is a **mock-up of the
 | V15 "Anko Wants One Too" | Nazuna gets a high **loft behind a triple-lined black curtain**, with Anko's bed below, "always in the same room". Hakari, Karane, Shizuka and Nano's four rooms become **one room with five beds**, Kusuri included. Her chemistry stays at Maomao's bench. |
 | V16 "The Ink Budget" | Witch Hat ink is counted. Only the **shadowless glyph light** over the four scratches is approved, and the common-room lamps go out. The seed has sprouted. Senku and Coco stake its future root circle: **nothing is ever built inside it.** Frieren: "I can wait a hundred years." |
 | V16 "Suika Has Too Many Sisters" | **Suika moves in with Umaru**, who wants to try being the big sister. Senku: "Go. Take the good blanket." |
-| V16 "Pencil" | Rem writes her own name on the narrow room at the turn, in pencil. |
+| V16 "Nobody Works Today" | During the long rain Rem sits in the narrow room. Mau had Wakana leave it **unmarked, never "storage"**. Rem asks Fern if she can use it "when it rains", and Fern writes *Rem* on the plan. |
+| V16 "Pencil" | Weeks later Rem writes her own name on the **door** slip, in pencil. It is her room now, not only when it rains. |
 | V18 "Cut the Real Cloth" | The real house is drawn (§10.3). It is **not built in S3.** |
 
 ### 10.3 The real house (drawn V18, built S4+)

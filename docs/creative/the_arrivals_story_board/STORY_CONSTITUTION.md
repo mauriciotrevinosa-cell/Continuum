@@ -300,7 +300,19 @@ Creator rule, 2026-10-06.
 
 ---
 
-# 16. Final test
+# 16. Recurring motifs are a bell at noon
+
+Creator rule, 2026-10-06.
+
+A thread that comes back chapter after chapter is not automatically a repetition problem. One example is the household quietly not letting Mau do things after the memory crisis. The creator reads such a thread "like a bell ringing at noon, every day of every week, until at some point something happens".
+
+- Do not trim a recurring motif just because it recurs, if it is building toward something.
+- **Never compress or summarize chapters** to save space. Lived time is the point.
+- Trim only when a line adds nothing new. Not when it adds the same weight again.
+
+---
+
+# 17. Final test
 
 Before forcing an episode, scene or character into the story, ask:
 

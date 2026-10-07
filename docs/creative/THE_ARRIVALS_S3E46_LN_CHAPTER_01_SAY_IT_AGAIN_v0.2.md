@@ -4,11 +4,11 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 1  
-**Continuity state:** Three weeks after the council | a quiet night in the room with the east window | the pattern in Mau is still analyzing the walls
+**Continuity state:** A week after the council | a quiet night in the room with the east window | the pattern in Mau is still analyzing the walls
 
 It was one of those nights when nothing was happening.
 
-No meeting. No storm. No letters that could not wait until morning. The council had met three weeks ago and drawn its rings, and the board in the common room still had them on it in chalk, and nobody had needed to look at it since. Most of the house was home. The common room had emptied early. Somewhere down the corridor, Bocchi was playing something so quietly that you could only hear it if you were already listening for it.
+No meeting. No storm. No letters that could not wait until morning. The council had met a week ago and drawn its rings, and the board in the common room still had them on it in chalk, and nobody had needed to look at it since. Most of the house was home. The common room had emptied early. Somewhere down the corridor, Bocchi was playing something so quietly that you could only hear it if you were already listening for it.
 
 The plaza had been months ago. The wheel in the night had been weeks. Long enough, again, that the quiet days had started to feel like a promise.
 

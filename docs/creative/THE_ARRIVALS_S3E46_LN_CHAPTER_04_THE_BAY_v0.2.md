@@ -64,7 +64,7 @@ Stark sat down in the corridor with his back against the wall and his arm out. S
 
 Then Mikasa.
 
-Then Eren, last, who had been in the house for less than two months. He sat down on the floor of the corridor of people who had voted, three weeks ago, to let him through a door. He held out his arm, watched his own blood go into someone else's body under a door, and said nothing. Mikasa sat beside him with her own arm bandaged, and her shoulder touched his, and neither of them moved.
+Then Eren, last, who had been in the house for less than two months. He sat down on the floor of the corridor of people who had voted, a week ago, to let him through a door. He held out his arm, watched his own blood go into someone else's body under a door, and said nothing. Mikasa sat beside him with her own arm bandaged, and her shoulder touched his, and neither of them moved.
 
 
 

@@ -50,7 +50,7 @@
 
 ## Opening arc: the reversion night (#1–#7), 2026-10-07
 
-Three weeks after the council, Mau's own pattern decides the walls are an injury and reverts his body toward the moment after Sukuna. Two days in the bay, then the morning he wakes. The house's one unanimous rule follows. Six weeks of recovery are bridged at the top of #8. See `the_arrivals_story_board/DECISION_HISTORY.md` DH-029 and containment lock §3E.
+A week after the council, Mau's own pattern decides the walls are an injury and reverts his body toward the moment after Sukuna. Two days in the bay, then the morning he wakes. The house's one unanimous rule follows. Two weeks in bed are bridged at the top of #8, with two more weeks indoors running alongside the early V18 investigation. See `the_arrivals_story_board/DECISION_HISTORY.md` DH-029 and containment lock §3E.
 
 ## Creator-revision enemy-pressure expansion — 2026-10-04
 

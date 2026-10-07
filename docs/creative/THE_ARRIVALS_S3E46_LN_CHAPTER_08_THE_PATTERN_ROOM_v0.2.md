@@ -5,13 +5,15 @@
 **Volume:** 18  
 **Reading order:** 8
 
-Maomao kept Mau in bed for three weeks, and inside the house for three more.
+Maomao kept Mau in bed for two weeks.
 
 Nobody argued with her.
 
 Nobody said why.
 
-By the time she let him stand in front of a wall for longer than it took to read it, the evidence had moved into its own room, because the common-room wall had run out of space.
+On the fifteenth day she let him walk to the end of the corridor and back. On the sixteenth, as far as the evidence, which had moved down the hall into its own room while he was in bed, because the common-room wall had run out of space.
+
+She would not let him past the front door for two weeks more. He did not argue either.
 
 That was less dramatic than calling it an investigation chamber.
 

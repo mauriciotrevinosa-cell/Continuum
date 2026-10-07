@@ -92,7 +92,7 @@ Yuta's hands did not move from Mau's chest.
 
 "After Sukuna," said Yuta, through his teeth. "That's the last time."
 
-"Yes," said Rimuru. "It put his body back to the second after the hand went through. Before your repair. Before the Second Chance. Before anything." He swallowed. "It thinks it's healing him."
+"Yes," said Rimuru. "It put his body back to the second after the hand went through. Before your repair. Before anything." He swallowed. "It thinks it's healing him."
 
 Frieren was staring at her hands.
 

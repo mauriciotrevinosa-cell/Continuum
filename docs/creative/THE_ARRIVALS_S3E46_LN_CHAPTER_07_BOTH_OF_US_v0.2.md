@@ -166,17 +166,21 @@ Mau was quiet for a long time.
 
 He was thinking about Sukuna.
 
-About the field. About the line he had stepped into on purpose. About the hand, and everything stopping. And about the place after, where there had been no battlefield and no body and no pain, only something that asked him why. He had answered it. He had not thought about that answer in a long time. He thought about it now, lying in a bed with the same hole closed over under a dressing, as if the body that had gone back to that moment had brought the answer back with it.
+About the field. About the line he had stepped into on purpose, with his eyes open, because he had already known what was coming. Frieren saying *no*. Him going anyway. And the one clear thought he had had in the half second before the hand. It had not been a thought about himself at all.
 
-*She was alive.*
+*She'll be alive.*
 
-That had been the answer. That had been all of it. He had accepted the result, as long as she was safe. He had been ready to stay on that field, as long as she was alive. He had thought that was love. He had thought that was the most anyone could give.
+That had been the whole of it. He had accepted the rest, as long as she was safe. He had thought that was love. He had thought it was the most anyone could give.
+
+Afterward, in a room with the door shut, she had told him what it really was. *You decided I would survive losing you.* He had promised her then never to hide something that large again, never to decide everything alone, and he had meant it. But underneath the promise, he understood now, he had gone on believing the first thing. That she would survive it. That she was the one who walked away from funerals and kept walking. That if it ever came to that again, her being alive would be enough.
+
+She had just told him it wasn't. That she wouldn't.
 
 "I was wrong," said Mau.
 
 Frieren went still against him.
 
-"With Sukuna," said Mau. "After. Before I woke up. Something asked me why I did it. Why I didn't let you die." He breathed carefully, around the dressing. "And I said, *she was alive*. That was my whole answer. I thought if you lived, it didn't matter if I didn't." He shook his head slowly against the pillow. "I was wrong. That's not enough. That was never enough."
+"With Sukuna," said Mau. "When I stepped in. The last thing I thought was *she'll be alive*. That was all of it. I thought if you lived, it didn't matter if I didn't." He breathed carefully, around the dressing. "You told me afterward that I'd decided you would survive losing me. And I said sorry for deciding alone. But I never said sorry for the other part. Because I still thought you would." He shook his head slowly against the pillow. "I was wrong. That's not enough. That was never enough."
 
 He turned his head so he could see her face.
 

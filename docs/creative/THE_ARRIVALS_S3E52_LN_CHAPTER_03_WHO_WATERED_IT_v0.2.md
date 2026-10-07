@@ -10,9 +10,11 @@ The memorial was not the household's to plan.
 
 Fern made sure of that before anyone else had to.
 
-Three people had died in the Last Defense. A volunteer from the east village who had gone back into the north lane for a family that was not his. Two residents of the settlement: a woman named Dessa who worked the washing court and had come through Arrival House in the first wave of refuge, and an old man everyone had called Pim, who had arrived with nothing and spent his mornings mending nets nobody had asked him to mend.
+Three of the settlement's people had died in the Last Defense. A volunteer from the east village who had gone back into the north lane for a family that was not his. Two residents of the settlement: a woman named Dessa who worked the washing court and had come through Arrival House in the first wave of refuge, and an old man everyone had called Pim, who had arrived with nothing and spent his mornings mending nets nobody had asked him to mend.
 
-None of them had lived in the family wing.
+A fourth had died too, from the other side: a militia fighter from the hostile column who had died pulling civilians out of an overturned wagon. His captain had asked for his body, and Fern had made sure he got it before anyone else had to decide how to feel about it.
+
+None of the three had lived in the family wing.
 
 None of them had been at the long table.
 

@@ -199,6 +199,32 @@ Everyone laughed.
 
 Memory became social.
 
+Later, Umaru, sprawled in her contested corner, asked Frieren how old she was in human years.
+
+Frieren said she had once met an elf much older than herself, who had told her that by elf standards she was barely out of the cradle.
+
+Mau, who had been eating, put down his spoon. He did the math visibly, on his fingers.
+
+"So in elf years," he said slowly, "I'm older than you."
+
+"That's not how it works."
+
+"It's exactly how it works."
+
+"I'm over a thousand years old."
+
+"In *elf* years."
+
+Frieren looked at him for a long time. Then she got up, crossed the room to where Fern was mending a shirt, and said, quietly and seriously:
+
+"Fern. Am I younger than Mau?"
+
+Fern did not look up from the shirt.
+
+"Emotionally," said Fern, "yes."
+
+Frieren went back to her seat and sulked magnificently for an hour. Mau, delighted, told her that was fine. It just meant he had time to catch up.
+
 No crisis.
 
 No one needed to prove anything.

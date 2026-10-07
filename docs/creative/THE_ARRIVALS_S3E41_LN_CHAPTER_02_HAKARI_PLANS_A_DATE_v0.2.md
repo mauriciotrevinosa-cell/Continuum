@@ -408,6 +408,32 @@ Coco whispered, "Should we leave?"
 
 Nobody moved.
 
+Out on the lake, the last of the paper flowers caught the sunset, small and bright, sailing away on the wind.
+
+"That's beautiful," said Mau.
+
+Frieren did not look at the flowers.
+
+"More than me?"
+
+Mau turned his head and gave her a look. It was a very specific look. It said, as clearly as if he had said it aloud, *don't start*.
+
+Frieren waited.
+
+She folded her hands in her lap and waited, with the patience of a thousand years and a cat outside a closed door.
+
+Mau sighed.
+
+"No," he said. "Nothing is. I told you. Since the first second."
+
+Frieren turned back to the lake, perfectly composed.
+
+Her ears went red to the tips.
+
+Mau watched them go, and did not say anything, and smiled.
+
+In the bushes, Hakari made a sound like a kettle, and Karane clapped a hand over her mouth.
+
 
 
 On the rock, with the lanterns dark and the sun nearly gone, Mau said:

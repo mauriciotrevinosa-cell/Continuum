@@ -312,7 +312,18 @@ A thread that comes back chapter after chapter is not automatically a repetition
 
 ---
 
-# 17. Final test
+# 17. Slice of life must include goofy, purposeless days
+
+Creator feedback, 2026-10-07, while reading S3 V16. S3 has plenty of slice of life, but it is mostly quiet and *planned*: almost every ordinary chapter carries a lesson or ends on a moral. S1 and S2 had goofy chaos with no point. The war for the end bay worked because it was silly.
+
+- Regularly include ordinary chapters that are **funny for no reason**. No lesson, no system being designed, no closing moral sentence. People being idiots together.
+- A chapter can be about nothing. "That mattered" and "Good." closers should not end every ordinary scene.
+- Comedy is still character-true, and it is how the household breathes before things deteriorate.
+- Example in the pipeline: Chocolate Day 2 (`FLOATING_IDEAS.md`).
+
+---
+
+# 18. Final test
 
 Before forcing an episode, scene or character into the story, ask:
 

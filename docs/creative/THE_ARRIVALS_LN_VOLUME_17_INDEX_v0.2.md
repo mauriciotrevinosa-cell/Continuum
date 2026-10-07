@@ -4,7 +4,7 @@
 **Volume:** 17  
 **Season:** 3  
 **Volume title:** **Freedom and Walls**  
-**Chapter count:** 33
+**Chapter count:** 34
 
 | # | Chapter |
 |---:|---|
@@ -21,26 +21,27 @@
 | 11 | Not Here Yet |
 | 12 | Walls Without Walls |
 | 13 | Unknown Signature |
-| 14 | Exit Rights |
-| 15 | Emergency Means Temporary |
-| 16 | Hakari Plans a Date |
-| 17 | The Enemy of One Person |
-| 18 | Sanctuary Is Not Forgiveness |
-| 19 | Due Process |
-| 20 | The Meeting That Became a Council |
-| 21 | The Person Everyone Knows |
-| 22 | Everyone Home |
-| 23 | Bathroom War |
-| 24 | Music After Dinner |
-| 25 | The Old Inn Day |
-| 26 | Mau's Settlement |
-| 27 | Give Them One Name |
-| 28 | The Person in Front |
-| 29 | One for Hundreds |
-| 30 | Bad Equation |
-| 31 | Who Speaks for Us |
-| 32 | What Tempest Cost |
-| 33 | The Rings |
+| 14 | Not in the Top Thirty |
+| 15 | Exit Rights |
+| 16 | Emergency Means Temporary |
+| 17 | Hakari Plans a Date |
+| 18 | The Enemy of One Person |
+| 19 | Sanctuary Is Not Forgiveness |
+| 20 | Due Process |
+| 21 | The Meeting That Became a Council |
+| 22 | The Person Everyone Knows |
+| 23 | Everyone Home |
+| 24 | Bathroom War |
+| 25 | Music After Dinner |
+| 26 | The Old Inn Day |
+| 27 | Mau's Settlement |
+| 28 | Give Them One Name |
+| 29 | The Person in Front |
+| 30 | One for Hundreds |
+| 31 | Bad Equation |
+| 32 | Who Speaks for Us |
+| 33 | What Tempest Cost |
+| 34 | The Rings |
 
 ## Creator-revision authority / antagonist expansion — 2026-10-04
 

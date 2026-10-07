@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 15 — Emergency Means Temporary
+## Chapter 16 — Emergency Means Temporary
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 15
+**Reading order:** 16
 
 The first real movement restriction lasted one night.
 

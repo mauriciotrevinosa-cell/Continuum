@@ -406,3 +406,13 @@ Creator-directed, 2026-10-07. A full in-world council, not a summary, held befor
 - Ring Four is the ring that disappears.
 - Mau almost tells Rimuru the number after hearing "someone carried it, alone, so that it didn't happen to me", and doesn't.
 
+## DH-027 — Eren is shown he is not the center (V17 "Not in the Top Thirty")
+
+Creator feedback, 2026-10-07: Eren arrived acting like the center of the world, and the story bent around him. The house tolerates him on principle (no trial for the future), but nobody had grounded him. In this house about thirty people could stop him without effort.
+
+- At lunch, mid-exit, **Milim lifts him by the collar with one finger and sets him back in his chair without putting down her spoon.** Diablo pours him tea. Nobody laughs. Lunch goes on.
+- At the well he sees **one of Mau's leaks** (a spatial jump of about forty steps) and **the eye**. Mau: "Everyone here is [broken], a bit. It's kind of the entry requirement."
+- On the roof, **Milim tells him about her friend the little dragon**: a kingdom killed him, she erased the kingdom, and it didn't bring him back. "Time is the worst part." Her pain is time, like Frieren's. "Then don't [do your thing]... Nobody here needs you to be the strongest."
+- Mikasa: "You're not in the top thirty. Isn't that a relief?" / "Yes. I hate that it is." / "That's how you know it's real."
+- Placed after "Unknown Signature" and before "Exit Rights". After this, Eren's contributions read as judgment, not threat. His personality is unchanged.
+

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 32 — What Tempest Cost
+## Chapter 33 — What Tempest Cost
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 32  
+**Reading order:** 33  
 **Continuity state:** Same night | Rimuru tells Tempest: Falmuth, twenty thousand, the eastern empire, Yuuki | 'A power people walk into, not one that walks out'
 
 "What are we becoming," said Fern, and stepped back from the board.

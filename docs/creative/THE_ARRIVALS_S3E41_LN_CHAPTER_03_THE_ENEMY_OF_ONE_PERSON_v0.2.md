@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 17 — The Enemy of One Person
+## Chapter 18 — The Enemy of One Person
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 17
+**Reading order:** 18
 
 The injured man reached Arrival House bleeding.
 

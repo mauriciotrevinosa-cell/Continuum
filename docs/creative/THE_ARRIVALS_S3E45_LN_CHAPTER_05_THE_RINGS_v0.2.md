@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 33 — The Rings
+## Chapter 34 — The Rings
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 33  
+**Reading order:** 34  
 **Continuity state:** Same night, to 3 a.m. | Rings One to Four written down; Eren voted into Ring Two | Secrecy contract signed | Mau's shadow: 'a summon he is still training'
 
 "Who gets told things," said Fern.

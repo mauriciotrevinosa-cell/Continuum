@@ -147,6 +147,7 @@ The leaks and the trials **keep existing** after their own chapters. They surfac
 | V16 "One Question" | **Trial 2: 26 minutes** (Maomao wrote 24); two flowers | — |
 | V16 "Ciel Doesn't Sleep" | Mau lets Ciel see the house through him for one night (rule 4, by request); Raphael remembered "like being very young"; jealousy "is concern with a particular shape"; Ciel laughs for the first time | — |
 | V17 "The Legendary Snack" | "I can't call it. It calls me." Asked once for the witches; two failed attempts since; "Twice this month." | rare and uncontrollable |
+| V17 "Not in the Top Thirty" | spatial leak at the well (about forty steps) in front of Eren; the eye opens; "first in a while"; Mau explains rule 8 to him | rare, witnessed |
 | V17 "Not Here Yet" | **the adaptation wheel turns one eighth inside the seal, before anything has hit.** Ciel: target absent; it turned toward a *kind* of thing, not a place ("weather", "a line"). Mau writes *Not here yet* | foreshadow |
 | V17 "The Old Inn Day" | witch sessions continue at the old inn, every second week; the wobbly chair is kept unfixed | — |
 | V17 "Everyone Home" | **Trial 3: 31 minutes**; third flower drying | — |

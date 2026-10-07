@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 31 — Who Speaks for Us
+## Chapter 32 — Who Speaks for Us
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 31  
+**Reading order:** 32  
 **Continuity state:** Rings One and Two in council, night | The world already wrote 'Mau (?)' | Two faces, Mau and Rimuru; the council stays | Roles emerge
 
 Fern called the meeting three days after the second copy of the document arrived.

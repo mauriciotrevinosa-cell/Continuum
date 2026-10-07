@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 19 — Due Process
+## Chapter 20 — Due Process
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 19
+**Reading order:** 20
 
 Due process sounded boring until someone hated the person receiving it.
 

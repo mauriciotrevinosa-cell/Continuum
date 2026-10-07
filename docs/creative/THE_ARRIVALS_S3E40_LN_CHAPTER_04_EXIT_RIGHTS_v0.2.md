@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 14 — Exit Rights
+## Chapter 15 — Exit Rights
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 14
+**Reading order:** 15
 
 The proposal sounded harmless.
 

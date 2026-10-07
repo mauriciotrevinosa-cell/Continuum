@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 26 — Mau's Settlement
+## Chapter 27 — Mau's Settlement
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 26
+**Reading order:** 27
 
 A trader called it:
 

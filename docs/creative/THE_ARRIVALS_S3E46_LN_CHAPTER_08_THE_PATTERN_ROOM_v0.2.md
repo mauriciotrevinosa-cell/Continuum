@@ -11,9 +11,9 @@ Nobody argued with her.
 
 Nobody said why.
 
-On the fifteenth day she let him walk to the end of the corridor and back. On the sixteenth, as far as the evidence, which had moved down the hall into its own room while he was in bed, because the common-room wall had run out of space.
+On the fifteenth day she let him walk to the end of the corridor and back. She would not let him past the front door for two weeks more. He did not argue either.
 
-She would not let him past the front door for two weeks more. He did not argue either.
+On the sixteenth day he walked as far as the evidence. It had moved down the hall into its own room while he was in bed, because the common-room wall had run out of space.
 
 That was less dramatic than calling it an investigation chamber.
 

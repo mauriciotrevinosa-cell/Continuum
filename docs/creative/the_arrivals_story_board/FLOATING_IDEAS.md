@@ -74,3 +74,9 @@ Still open:
 - when and with whom Frieren saw it. Himmel's party is possible but **not approved**; the creator must OK any addition to Himmel-era backstory;
 - Senku's number;
 - any link to other S3 threads. Do not tie it to existing loose threads without a decision.
+
+## Mau vs. the wheel: an adaptation duel (creator seed, 2026-10-06)
+Mau has his own adaptation plus the four beats (**Observe, Analyze, Understand, Construct**). Against a completed Mahoraga-pattern, the creator imagines a fight where the two **adapt to each other endlessly**: observing, creating, re-adapting.
+- **Why it's interesting:** neither side can simply out-power the other.
+- **Design note (Claude):** an infinite mutual-adaptation fight needs an exit that is *not* more power, such as a choice, a relationship, Ciel, the seal, or the unidentified "let me out" voice (containment lock §3D). Otherwise it never ends or ends by fiat. Not decided. Placement is open (S4+).
+

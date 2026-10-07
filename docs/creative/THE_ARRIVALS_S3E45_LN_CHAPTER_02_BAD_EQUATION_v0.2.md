@@ -227,12 +227,6 @@ Anko:
 
 Yes.
 
-Volume Seventeen ended with two things on the same table:
+Fern looked at the board for a long time after everyone else had gone back to work.
 
-a defense system designed not to become a cage;
-
-and a crossed-out equation that had tried to turn Mau into a civic resource.
-
-The city had become worth protecting.
-
-Now it had to prove it could protect itself without consuming the person everyone expected to stand in front.
+Then she went to find a piece of chalk.

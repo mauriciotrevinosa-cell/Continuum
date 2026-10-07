@@ -60,7 +60,15 @@ becoming, at different speeds:
 
 > "Oh. I understand now."
 
-### Ring Three — society / refuge / temporary residents
+> **Ring restructure (creator, 2026-10-07; in-story at the V17 council, "The Rings").** From the end of V17 there are **four** rings:
+> - **Ring One:** family.
+> - **Ring Two:** close; G5 closed with Rem, Kaneki and Aira; Eren is voted in.
+> - **Ring Three:** people *some* of the household trust. Entry needs a vouch from Ring One or Two **and** approval by Rings One and Two together. The witches are placed here.
+> - **Ring Four:** everyone who comes and goes (refuge, travelers, Arrival House, the second community).
+>
+> Ring Four's right to shelter and protection is unchanged; it is simply never told what is behind the door. **Ring Four is the ring that disappears in S4.** Earlier text that says "Ring Three" for society means this outer ring.
+
+### Ring Three — society / refuge / temporary residents (renamed Ring Four from the end of V17)
 
 Ring Three proves the settlement is more than a private household:
 - refugees;

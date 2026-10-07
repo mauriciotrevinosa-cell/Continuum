@@ -349,7 +349,7 @@ Creator-directed, 2026-10-06. The creator asked for this explicitly because of h
 - **What and where:** a full seal breach with an evacuation during a visit (V16, after "The First Thing Built for Peace"). It is placed early on purpose: things improve afterward, then deteriorate gradually toward S4. Full beat list: containment lock §3D.
 - **Purpose:** plant real terror of what Mau carries, change the rumors ("Monster town"; "that's what they'd want you to believe"), and start a visible but partial **Ring Three distancing**.
 - **Creator intent for S4:**
-  - Ring Three was designed to **disappear in S4** ("nobody important is in Ring Three"). S3 shows only glimpses of the distancing.
+  - The **outer ring** (refuge, travelers, the people who come and go) is designed to **disappear in S4**: "nobody important is in it". It was called Ring Three before the V17 council and is Ring Four after it (DH-026). S3 shows only glimpses of the distancing.
   - S4 brings an "ugly reality" the creator has not disclosed.
   - In S4, "everything goes to 11".
 - **Open mystery:** the "let me out" voice under the wall.
@@ -369,3 +369,40 @@ Creator, 2026-10-06, while clarifying Rimuru: "his memories are from there, but 
   - Mau's own origin.
 
   When in doubt, check that character's decisions before assuming the default.
+
+## DH-026 — The council of Rings One and Two (end of V17)
+
+Creator-directed, 2026-10-07. A full in-world council, not a summary, held before the Trial and after Eren's arrival. It spans three chapters at the end of V17: "Who Speaks for Us", "What Tempest Cost" and "The Rings". Fern's board has four questions.
+
+1. **Who speaks for us.** The outside world had already written *"Mau (?)"* in a western assessment form. The house chooses **two faces, Mau and Rimuru**. Yuta: "two, never one", the Gojo lesson and the roof rule. They **represent, not rule**, and **the council stays**. Mau accepts reluctantly; Frieren tells him, "if you choose it, I'm with you."
+   Roles emerge:
+   - Wakana: the workshop.
+   - Mikasa: Searchers, scouts and drills.
+   - Maomao and Kusuri: medicine and chemistry.
+   - Senku: engineering.
+   - Qifrey and his students: the atelier and magical safety.
+   - Fern: the ledger and administration.
+   - Anko and Jinshi: records, the registry and protocol.
+   - Momo: food and stores.
+   - Seiko: the spirit side.
+   - Rem: the old inn.
+   - Yuta: training, defense, and the roof.
+   - Frieren: whatever she wants.
+   - Comic posts: Milim is Head of Fun and Marin is Minister of Not Working.
+   None of this diminishes Yuta or anyone else.
+2. **What are we becoming.** Rimuru tells Tempest:
+   - Falmuth's attack and Shion's death;
+   - taking **twenty thousand** souls to become a Demon Lord and bring his people back ("Every day. And I'd do it again.");
+   - alliances that still were not enough: in other versions an eastern empire killed him, and someone fixed it, carried alone (Chloe is unnamed; this echoes the 437 count);
+   - Yuuki's betrayal with the masked jesters.
+
+   Lesson: nothing is protection, so decide how to be. Eren recognizes Rimuru. Decision, Frieren's framing: ***"A power people walk into. Not one that walks out."*** It must be strong enough that nobody can erase it, and open enough that anyone can leave. Rimuru warns that someone will test it soon, which sets up V18.
+3. **Who gets told things.** Four rings are written down (relationship lock §2). One person's trust gets someone to the door; it takes Rings One and Two to open it. The witches go to Ring Three. Anko's **secrecy contract** is a rewrite of the household's first-weeks promise. Everyone signs; Eren signs last; Mau signs, this time having been present for every word.
+4. **Mau's shadow.** The hide-Mau plan is over after the plaza. Rather than "announce" or "lie", they **mitigate with a true-but-partial story**: *"There is a summon in Mau's shadow. He is still learning to control it. It frightened people once. It is being trained."* Yuta: Ten Shadows is a summoning technique, so it's true, just not all of it. Maomao's condition: **Mau must keep being ordinary and visible with Ring Four.** If more comes out, the story breaks and they tell the next truth.
+
+**S4 seeds:**
+- Mau is now the official face while carrying 437 and the wedding words.
+- The summon cover story can break.
+- Ring Four is the ring that disappears.
+- Mau almost tells Rimuru the number after hearing "someone carried it, alone, so that it didn't happen to me", and doesn't.
+

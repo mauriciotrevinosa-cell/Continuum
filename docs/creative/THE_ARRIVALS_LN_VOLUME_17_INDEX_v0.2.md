@@ -4,7 +4,7 @@
 **Volume:** 17  
 **Season:** 3  
 **Volume title:** **Freedom and Walls**  
-**Chapter count:** 30
+**Chapter count:** 33
 
 | # | Chapter |
 |---:|---|
@@ -38,6 +38,9 @@
 | 28 | The Person in Front |
 | 29 | One for Hundreds |
 | 30 | Bad Equation |
+| 31 | Who Speaks for Us |
+| 32 | What Tempest Cost |
+| 33 | The Rings |
 
 ## Creator-revision authority / antagonist expansion — 2026-10-04
 

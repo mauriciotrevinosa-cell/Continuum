@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
 **Reading order:** 35  
-**Continuity state:** Aftermath, days 1-3 and the weeks after | Visitors leave; second community moves visits to the bridge | First Ring Three distancing | The household grows closer
+**Continuity state:** Aftermath, days 1-3 and the weeks after | Visitors leave; second community moves visits to the bridge | First distancing of the outer ring (Ring Four after V17) | The household grows closer
 
 Mau slept for two days.
 

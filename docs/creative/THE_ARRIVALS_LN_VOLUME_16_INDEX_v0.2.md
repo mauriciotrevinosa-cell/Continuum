@@ -4,7 +4,7 @@
 **Volume:** 16  
 **Season:** 3  
 **Volume title:** **What the Message Changes**  
-**Chapter count:** 40
+**Chapter count:** 46
 
 | # | Chapter |
 |---:|---|
@@ -48,6 +48,12 @@
 | 38 | A City Before a Name |
 | 39 | Okarun Comes Looking for Mau |
 | 40 | Carry Half |
+| 41 | Story Night, Again |
+| 42 | The Super Duper Ultra Archi-Re-Que-Contra Mega Important Meeting |
+| 43 | Agents |
+| 44 | Frierennnnn |
+| 45 | Green Eyes |
+| 46 | The Most Beautiful Doesn't Work |
 
 ## Creator-revision relationship expansion — 2026-10-04
 

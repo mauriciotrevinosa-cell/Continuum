@@ -38,7 +38,7 @@ The first time, an hour in: "He's holding. Yuta's holding him. The bleeding's st
 
 The second time, near dawn: "Ciel found what's doing it. She knows what it is now. She's talking to it." He made a face. "Not talking. You know what I mean."
 
-The third time, mid-morning, when the sun had come in through the corridor's one high window and lay across the floor between them in a long stripe: "Senku's put Stark's blood in him. Then Mikasa's. Then Eren's." A pause. "His color's better. Maomao says his color's better."
+The third time, mid-morning, when the sun had come in through the corridor's one high window and lay across the floor between them in a long stripe: "Senku's put Stark's blood in him. Then Mikasa's. Then Momo's." A pause. "His color's better. Maomao says his color's better."
 
 Frieren did not say anything any of those times. She only nodded, and held her sleeves, and watched Rimuru go back through the door.
 

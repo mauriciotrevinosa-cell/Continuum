@@ -84,13 +84,13 @@ Mau lifted his hand off Frieren's back and touched the dressing across his middl
 
 "The hole."
 
-"The hole," said Rimuru. "For two days. Yuta held it. Maomao worked inside it. Senku put three people's blood in you." He paused. "Stark. Mikasa. Eren."
+"The hole," said Rimuru. "For two days. Yuta held it. Maomao worked inside it. Senku put three people's blood in you." He paused. "Stark. Mikasa. Momo." He paused again. "Eren got in line too."
 
 Mau stared at him.
 
 "*Eren?*"
 
-"He got in line," said Rimuru. "Didn't ask what it was for. Just got in line." He breathed out. "And Ciel spent two days teaching the thing in you that the walls aren't a wound. That they're you now. She showed it everything. Every day. Until it understood." He looked at the dressing. "And then your body helped. The pathway, from last time. It woke up. It's closed now. Not healed. You've got weeks of lying in this bed ahead of you and Maomao's going to be unbearable about it."
+"Didn't ask what it was for. Just got in line." Rimuru shook his head slowly. "Senku wouldn't take it. Nobody knows what's in it, not even him, and the thing in you reads everything. So he stood against the wall with Kaneki all night instead. Neither of them went to bed." He breathed out. "And Ciel spent two days teaching the thing in you that the walls aren't a wound. That they're you now. She showed it everything. Every day. Until it understood." He looked at the dressing. "And then your body helped. The pathway, from last time. It woke up. It's closed now. Not healed. You've got weeks of lying in this bed ahead of you and Maomao's going to be unbearable about it."
 
 Mau did not say anything for a long time.
 

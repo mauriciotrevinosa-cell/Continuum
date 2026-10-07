@@ -54,17 +54,35 @@ Stark matched.
 
 So did Mikasa.
 
-So did Eren.
+So did Momo, who said "Good," as if she had been personally expecting it, and rolled up her sleeve.
 
-Senku looked at the three of them for a moment.
+Then Senku got to Eren, and did not test him at all.
+
+"Not you," said Senku.
+
+Eren looked at him. "You haven't checked."
+
+"I don't need to." Senku's voice was not unkind. It was just very tired and very certain. "Whatever makes you what you are lives in you somewhere, and I don't know where. Neither do you. Not here. Not in this world." He glanced at the door of the bay. "And there's something in him that reads everything it touches. I'm not putting a Titan where it can read it."
+
+Eren stood very still.
+
+For a moment the corridor thought he would argue. He had the face for it. Mikasa, ahead of him in the line, half turned around.
+
+Then Eren looked down the corridor at Kaneki. Kaneki was against the wall with his hands over his face. He had taken himself out of the line for the same reason, and nobody had needed to tell him.
+
+Eren stepped out of the line. He went and stood against the wall beside Kaneki and did not say anything. After a while, without looking up, Kaneki moved over an inch to make room.
+
+Eren had been in the house for less than two months. A week ago, the people in this corridor had voted to let him through a door. He and Kaneki stood there all night, the only two people in the corridor whose blood was too dangerous to give. Both of them had got in line anyway.
+
+Senku looked at the three who had matched.
 
 "Sit down," he said. "One at a time. Stark first."
 
 Stark sat down in the corridor with his back against the wall and his arm out. Senku put the needle in, and the line ran dark into the bay, under the door. Stark watched it go and did not say anything at all. When he was done, he did not stand up. He stayed sitting on the floor by the door, very pale, until Fern came and sat beside him and held his other hand.
 
-Then Mikasa.
+Then Mikasa. She sat down where she could see the stretch of wall where Eren was standing, held out her arm, and watched him the whole time instead of the needle.
 
-Then Eren, last, who had been in the house for less than two months. He sat down on the floor of the corridor of people who had voted, a week ago, to let him through a door. He held out his arm, watched his own blood go into someone else's body under a door, and said nothing. Mikasa sat beside him with her own arm bandaged, and her shoulder touched his, and neither of them moved.
+Then Momo, last. She gave hers with her jaw set and her free hand clenched in the hem of her nightshirt. When it was done, she stood up much too fast, sat down again much too fast, and announced that she was going to make soup for everybody and that nobody was to argue. Nobody argued. She went, a little unsteadily. Twenty minutes later the whole corridor smelled of soup.
 
 
 

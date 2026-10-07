@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 23 — Everyone Home
+## Chapter 27 — Everyone Home
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 23
+**Reading order:** 27
 
 Outside hostility closed nonessential travel for one day.
 

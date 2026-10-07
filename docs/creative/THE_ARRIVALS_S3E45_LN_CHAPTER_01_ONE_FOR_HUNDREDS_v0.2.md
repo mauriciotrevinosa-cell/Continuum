@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 30 — One for Hundreds
+## Chapter 34 — One for Hundreds
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 30
+**Reading order:** 34
 
 The resident who asked was scared.
 

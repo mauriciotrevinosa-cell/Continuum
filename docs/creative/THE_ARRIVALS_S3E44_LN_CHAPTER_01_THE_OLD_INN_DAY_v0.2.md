@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 26 — The Old Inn Day
+## Chapter 30 — The Old Inn Day
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 26
+**Reading order:** 30
 
 The next morning, a mixed group went to the old inn.
 

@@ -416,3 +416,13 @@ Creator feedback, 2026-10-07: Eren arrived acting like the center of the world, 
 - Mikasa: "You're not in the top thirty. Isn't that a relief?" / "Yes. I hate that it is." / "That's how you know it's real."
 - Placed after "Unknown Signature" and before "Exit Rights". After this, Eren's contributions read as judgment, not threat. His personality is unchanged.
 
+## DH-028 — The family trip to the sea (V17, after "Due Process")
+
+Creator feedback, 2026-10-07: V17 was mostly politics and hearings. He wanted more slice of life, more Mau–Frieren, more Mau–Ori, and mixed groups rather than the usual pairs.
+
+- **"One for the Team".** Rimuru wants a quiet day and tells Milim that "Ciel said" Mau wants her. Ciel did not ("you owe me one"). Milim tells Coco; the sisters storm Rimuru's office, then spot Yuta: "Unc." Maki: "He has been a very bad brother. But today he's going to make up for it. A little." Mau turns it into a family trip to the sea, where the Searchers found Eren. The deer appears on the coast road.
+- **"The Sea".** Milim versus the waves, Umaru's sand nation, Senku "observing" the tide with Suika, Turbo Granny versus Okarun and Mikasa, Seiko's chair, Maomao's crab, Kaneki and Rem laughing together, and Rimuru drifting at last (Ciel: "Paid. Partly."). Yuta is unc'd all day. Eren at the water: "What's on the other side?" "More people, probably... Who probably like soup."
+- **"Night Tide".** Frieren: "The sea doesn't change... It's the people standing next to it that change." Mau: "Then I'm going to stand here a long time." The **"more than me?" running gag** continues ("Not more than you. Stop asking."). Frieren shows him **a spell that makes the sea shine at night**. It took her sixty years, she used it once alone, and she never had anyone to show it to. Mau calls it "Second most."
+- **"Tidepools".** Mau and Ori at dawn: "It's a whole world in a hole." Ori admits she was afraid in the plaza. **Ori's promise: "When something happens to you... tell me first. Before you go."** Mau promises. On the cart home, asleep, Ori says **"Dad"**; Frieren sees and holds his hand.
+- **V19 payoff:** Mau breaks the promise ("He Went Alone"). Ori remembers it in "Everyone Finds Out Differently" and says it to his face in "Interception": "You promised... You left a note." This is an S4 seed.
+

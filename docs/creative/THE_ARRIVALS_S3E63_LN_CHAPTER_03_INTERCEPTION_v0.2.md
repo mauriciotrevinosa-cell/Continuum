@@ -260,6 +260,18 @@ He pointed back toward settlement.
 
 Ori stepped closer.
 
+"You promised," she said. Her voice was very quiet. "At the tidepools. Me first. Before you go."
+
+Mau could not look at her.
+
+"I know."
+
+"You left a note."
+
+He had no answer for that.
+
+Then, more quietly:
+
 "They weren't us."
 
 "I know."

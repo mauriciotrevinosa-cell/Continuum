@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 28 — Give Them One Name
+## Chapter 32 — Give Them One Name
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 17  
-**Reading order:** 28  
+**Reading order:** 32  
 **Continuity state:** Anti-Otherworlder classification grows more deliberate | No mastermind identity established
 
 Anko found the form inside a packet that was supposed to be boring.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 22 — The Person Everyone Knows
+## Chapter 26 — The Person Everyone Knows
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 17  
-**Reading order:** 22  
+**Reading order:** 26  
 **Continuity state:** Council exists | Relational gravity is acknowledged without converting it into ownership
 
 The first outside delegation asked for the leader.

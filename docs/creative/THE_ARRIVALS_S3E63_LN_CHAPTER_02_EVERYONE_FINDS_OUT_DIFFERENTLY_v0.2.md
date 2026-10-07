@@ -75,6 +75,16 @@ Found Frieren already gone.
 
 Note copy on table.
 
+Ori stood in the empty room and looked at it.
+
+*Tell me first. Before you go.*
+
+He had promised. On a rock by the sea, at dawn, with a bucket of shells between them.
+
+He had not told her first.
+
+He had left a note.
+
 Rimuru saw central-route access log.
 
 One person out before normal shift.

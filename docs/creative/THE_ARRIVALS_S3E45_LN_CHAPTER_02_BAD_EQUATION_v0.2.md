@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 31 — Bad Equation
+## Chapter 35 — Bad Equation
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 31
+**Reading order:** 35
 
 "Bad equation."
 

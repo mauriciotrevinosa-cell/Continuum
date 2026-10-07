@@ -4,7 +4,7 @@
 **Volume:** 17  
 **Season:** 3  
 **Volume title:** **Freedom and Walls**  
-**Chapter count:** 34
+**Chapter count:** 38
 
 | # | Chapter |
 |---:|---|
@@ -28,20 +28,24 @@
 | 18 | The Enemy of One Person |
 | 19 | Sanctuary Is Not Forgiveness |
 | 20 | Due Process |
-| 21 | The Meeting That Became a Council |
-| 22 | The Person Everyone Knows |
-| 23 | Everyone Home |
-| 24 | Bathroom War |
-| 25 | Music After Dinner |
-| 26 | The Old Inn Day |
-| 27 | Mau's Settlement |
-| 28 | Give Them One Name |
-| 29 | The Person in Front |
-| 30 | One for Hundreds |
-| 31 | Bad Equation |
-| 32 | Who Speaks for Us |
-| 33 | What Tempest Cost |
-| 34 | The Rings |
+| 21 | One for the Team |
+| 22 | The Sea |
+| 23 | Night Tide |
+| 24 | Tidepools |
+| 25 | The Meeting That Became a Council |
+| 26 | The Person Everyone Knows |
+| 27 | Everyone Home |
+| 28 | Bathroom War |
+| 29 | Music After Dinner |
+| 30 | The Old Inn Day |
+| 31 | Mau's Settlement |
+| 32 | Give Them One Name |
+| 33 | The Person in Front |
+| 34 | One for Hundreds |
+| 35 | Bad Equation |
+| 36 | Who Speaks for Us |
+| 37 | What Tempest Cost |
+| 38 | The Rings |
 
 ## Creator-revision authority / antagonist expansion — 2026-10-04
 

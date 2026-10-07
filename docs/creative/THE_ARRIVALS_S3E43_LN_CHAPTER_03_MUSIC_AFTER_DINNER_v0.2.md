@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 25 — Music After Dinner
+## Chapter 29 — Music After Dinner
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 25
+**Reading order:** 29
 
 Bocchi played because the guitar was already there.
 

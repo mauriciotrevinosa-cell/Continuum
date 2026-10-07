@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 17
-## Chapter 29 — The Person in Front
+## Chapter 33 — The Person in Front
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 17  
-**Reading order:** 29
+**Reading order:** 33
 
 Language shifted slowly enough that nobody could identify first sentence.
 

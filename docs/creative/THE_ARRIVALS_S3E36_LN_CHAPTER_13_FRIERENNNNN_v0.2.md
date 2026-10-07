@@ -132,7 +132,7 @@ Frieren was quiet for a moment.
 
 "I remember," she said.
 
-"I think it did," said Mau. He looked up at her, perfectly serious, the way he had been perfectly serious about the deer for two years. "I think it was you."
+"I think it did," said Mau. He looked up at her, perfectly serious, the way he had been perfectly serious about the deer for a year and a half. "I think it was you."
 
 Frieren stared at him.
 

@@ -158,7 +158,7 @@ She tried to stop. She put her hand over her mouth. It did not help. It came out
 
 "I remember," Maomao managed. "I remember. Your face. Fern's face—"
 
-"Yes," said Frieren. "I remember too. I've been remembering it for two years."
+"Yes," said Frieren. "I remember too. I've been remembering it for a year and a half."
 
 She put one finger on the very first line of the plan, where it said, in her neat hand, at the top:
 

@@ -256,6 +256,24 @@ Again.
 
 Credit repeated until rumor had competition.
 
+"What's in your shadow?"
+
+It came from a child near the front. Her mother went pale and put a hand on her shoulder.
+
+Mau did not look away.
+
+"A summon," he said. "It came up in the plaza, months ago. It scared everyone. It scared me too. I'm still learning to control it."
+
+All of it true. Not all of the truth. He felt the difference like a stone in his shoe, and kept his face exactly as it was, the way the common room had agreed he would.
+
+The child considered this.
+
+"Can it do tricks?"
+
+"Not yet," said Mau.
+
+Some people laughed. Some did not. The mother's hand stayed on her daughter's shoulder until the next question.
+
 A native man asked:
 
 "Are you immune to suppression?"

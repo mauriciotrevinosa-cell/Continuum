@@ -14,7 +14,7 @@ The black-and-orange one. Too big in the shoulders, sleeves past her fingers. An
 
 The same clothes she had been wearing the first time.
 
-The day of the first chocolate, at the old inn, two years ago, when she had come downstairs in his hoodie and his cap without stopping to think whether it would look strange, and the whole table had gone quiet.
+The day of the first chocolate, at the old inn, a year and a half ago, when she had come downstairs in his hoodie and his cap without stopping to think whether it would look strange, and the whole table had gone quiet.
 
 She did not think about that now. She was too tired. She walked back across the room, past the shelf that was in the wrong place, with her hair loose and the sleeves hanging, climbed onto the bed under the east window, and lay down with her back to him.
 

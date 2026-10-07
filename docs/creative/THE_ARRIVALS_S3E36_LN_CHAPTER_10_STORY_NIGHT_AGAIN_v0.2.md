@@ -74,7 +74,7 @@ Rimuru looked around.
 
 "What deer?"
 
-That made it worse. It had made it worse the first time too, at the old inn, two years and a whole other building ago. Yuta explained, with the exhausted patience of a man who had been explaining for two years: there had been a deer, once, in the first month. Mau had seen it twice in the trees on the north trail and had decided, on no evidence whatsoever, that it was following him.
+That made it worse. It had made it worse the first time too, at the old inn, a year and a half and a whole other building ago. Yuta explained, with the exhausted patience of a man who had been explaining for a year and a half: there had been a deer, once, in the first month. Mau had seen it twice in the trees on the north trail and had decided, on no evidence whatsoever, that it was following him.
 
 "It was," said Mau.
 

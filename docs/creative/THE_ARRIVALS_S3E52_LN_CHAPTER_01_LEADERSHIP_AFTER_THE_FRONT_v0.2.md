@@ -20,11 +20,13 @@ He brought it to council.
 
 Rimuru read the first proposed names.
 
-Then laughed.
+Then sighed.
 
-"Mau and me?"
+"Well. They got the names right."
 
-Mau did not.
+Mau did not laugh.
+
+Weeks ago, in the common room, Rings One and Two had already chosen the two of them to speak for the settlement. To speak, not to rule. This petition wanted more than that. It wanted the speaking to come with authority attached, and no end date.
 
 The petition had signatures.
 

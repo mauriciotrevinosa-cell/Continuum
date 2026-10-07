@@ -44,7 +44,7 @@ Frieren, at the end of the table, did not look up from her book. Her ears twitch
 
 Maomao made the chocolate in the workroom with the door locked.
 
-She did it the way she did everything: precisely, slowly, with the measures written down before she began and checked twice as she went. Cacao. Cream. The local root, ground fine. A dose half of what it had been two years ago, because two years ago there had not been a seal in anyone, and she had not liked the thought of what an uninhibited pattern-beat might decide to build.
+She did it the way she did everything: precisely, slowly, with the measures written down before she began and checked twice as she went. Cacao. Cream. The local root, ground fine. A dose half of what it had been the first time, because the first time there had not been a seal in anyone, and she had not liked the thought of what an uninhibited pattern-beat might decide to build.
 
 She poured it into a small square mold. While it set, she went to the kitchen to find a dish worthy of a Legendary Artifact, because Umaru had insisted on presentation.
 

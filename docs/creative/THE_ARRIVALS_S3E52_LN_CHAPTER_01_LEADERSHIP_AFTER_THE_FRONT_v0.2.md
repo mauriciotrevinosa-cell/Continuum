@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 22 — Leadership After the Front
+## Chapter 29 — Leadership After the Front
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 22  
+**Reading order:** 29  
 **Continuity state:** Post-defense recovery | Emergency authority under review | Permanent personal rule rejected
 
 After crisis, people wanted certainty.

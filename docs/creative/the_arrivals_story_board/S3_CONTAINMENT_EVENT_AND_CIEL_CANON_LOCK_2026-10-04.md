@@ -181,6 +181,16 @@ Creator-directed, 2026-10-06, as **S4 setup**. Placed early on purpose: before t
 - **Adaptation scope is deliberately left open** (creator, 2026-10-06). Do not cap what the wheel can adapt to. In the plaza it tried to adapt to Unlimited Void (infinite information) and was interrupted before completing the turn. If it ever completes that turn, it might first adapt only to the information overload, and later **re-adapt to the same thing in a broader way**, as Mahoraga re-adapts in canon, possibly "to everything". That fear stays real.
 - **Then it gets better.** The household grows closer for weeks. Trial 2 waits five weeks (Maomao made them wait four), and Mau insists on it: "a body that could carry more, not less".
 
+### 3E. The reversion night (V18 #1–#7)
+
+Creator-designed, 2026-10-07. Full chapter notes are in `DECISION_HISTORY.md` DH-029.
+
+- **Mechanism.** It is not a leak and not a construct. The memory self-repair (§5) stopped in V17 because nothing was left to fix. The pattern then found the one thing in Mau that was not there on arrival, **the walls**, analyzed them for weeks, and judged them an injury. It tried to heal him by reverting his body to before the walls. It cannot choose a moment, so it reached for the last time his body was rebuilt from nothing: **the second after Sukuna's hand (S2)**. It thought it was healing him.
+- **Ciel missed the first hour.** She read the elevated heart rate as Frieren lying on him and did not report it. She knows this and does not forgive herself.
+- **The fix.** Yuta's RCT held the wound for two days, with **Rika lending her reserve**. Maomao worked inside, and Senku transfused blood from Stark, Mikasa and Eren. Ciel spent two days showing the pattern every day Mau had lived since the walls, until **it understood: the walls are part of him, not damage**. The **S2 RCT pathway** woke and helped. The hole is closed, not healed: weeks of recovery.
+- **After.** Ciel watches the pattern every day "for the rest of his life", within guardrail 4, and tells Mau each time she looks. Nobody knows how long the understanding will hold. It is an open risk, not a solved one.
+- **The household rule** (Fern's ledger, signed by all): that night is not spoken of unless Mau or Frieren speaks first. Mau was told the facts, so guardrail 5 holds.
+
 ## 4. Physical consequence: the left eye
 
 - To return the body to arrival-state, Ciel had to leave **one valve**: the ghoul route, the only route that already knows how to vent pressure.
@@ -199,6 +209,7 @@ Creator-directed, 2026-10-06, as **S4 setup**. Placed early on purpose: before t
   - V15 "Three Ordinary Weeks": picking up again, then reaching the oldest damage. The notebook moves from his pocket to the shelf, and one small relapse is confirmed by Fern ("Not gone. Smaller.").
   - V16 "Ciel Doesn't Sleep": most of the damage is held again. What can't rethread **scars**; scars don't spread, and he checks them without noticing.
   - V17 "The Old Inn Day": **the repair stops**, not fails. Scars hold, and he hasn't opened the notebook in nine days.
+  - V18 "Say It Again" to "Both of Us": with nothing left to repair, the same system turns on **the walls** and reverts his body toward the moment after Sukuna (§3E). Ciel teaches it that the walls are not damage.
   - V18 "Threshold": the repaired places hold under the Noise overload.
   - V19 "The Body Remembers": after the Trial, Ciel says the loops "are not damage. They happened. There is nothing for it to repair."
 - Lines that mention the old memory crisis should read as **healing in progress**, never as erased.

@@ -1,11 +1,17 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 1 — The Pattern Room
+## Chapter 8 — The Pattern Room
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 1
+**Reading order:** 8
 
-The evidence moved into its own room because the common-room wall ran out of space.
+Maomao kept Mau in bed for three weeks, and inside the house for three more.
+
+Nobody argued with her.
+
+Nobody said why.
+
+By the time she let him stand in front of a wall for longer than it took to read it, the evidence had moved into its own room, because the common-room wall had run out of space.
 
 That was less dramatic than calling it an investigation chamber.
 

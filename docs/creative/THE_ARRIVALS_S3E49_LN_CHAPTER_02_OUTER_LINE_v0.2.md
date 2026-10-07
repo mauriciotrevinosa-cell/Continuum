@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 11 — Outer Line
+## Chapter 18 — Outer Line
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 11  
+**Reading order:** 18  
 **Continuity state:** Last Defense active | Western and northern pressure converging | Defense remains distributed
 
 The outer line looked terrible.

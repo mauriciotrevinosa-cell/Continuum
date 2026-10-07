@@ -9,7 +9,7 @@
 |---|---|---|
 | S1 | 0 → ~4 | S2 inventory: "S1 covers roughly 3–6 months max". S2 opens at ~Month 4. |
 | S2 | ~4 → ~13–14 | S2 inventory month table. The Sukuna battle is ~Month 11; formalization is the final payoff. |
-| S3 | ~14 → ~23 | Estimate below. |
+| S3 | ~14 → ~24 | Estimate below. |
 
 ## S3 by volume (estimate)
 
@@ -22,17 +22,17 @@
 | V15 | ~16–17.5 | Three ordinary weeks; elf Trial 1; refuge wave; the unity message. |
 | V16 | ~17.5–21 | Audit; **2–3 months of braided redesign weeks** (#8–#30); the plaza breach; five weeks to Trial 2. |
 | V17 | ~21–22 | Eren; hearings and council; Trial 3. |
-| V18 | ~22–23 | Last Defense, rebuild weeks, the Noise overload. |
-| V19 | ~23 | Goddess, the Trial (short objectively, hundreds of loops subjectively), then Days 0–3 of the ten-day window. |
+| V18 | ~22–24 | The reversion night and six weeks of recovery (DH-029); Last Defense, rebuild weeks, the Noise overload. |
+| V19 | ~24 | Goddess, the Trial (short objectively, hundreds of loops subjectively), then Days 0–3 of the ten-day window. |
 
-**S3 ends at about Month 23, roughly two years after Mau woke.** S4 opens on Day 3 of the Return/Stay window.
+**S3 ends at about Month 24, two years after Mau woke.** S4 opens on Day 3 of the Return/Stay window.
 
 ## Mau & Frieren
 
 - **Living as a couple:** from after the S2 Sukuna battle, ~Month 11.
 - **Formalized:** S2's final payoff, ~Month 13–14, in the clearing where he first remembers seeing her.
 - **At V16 #38 (~Month 20):** about **6–7 months formal**, about 9 months living as a couple.
-- **At S3's end (~Month 23):** about **9–10 months formal**, about a year living as a couple.
+- **At S3's end (~Month 24):** about **10–11 months formal**, about a year living as a couple.
 
 ## Use
 

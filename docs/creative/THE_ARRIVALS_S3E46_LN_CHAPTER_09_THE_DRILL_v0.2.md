@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 2 — The Drill
+## Chapter 9 — The Drill
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 2
+**Reading order:** 9
 
 The first full evacuation drill failed in six ways before breakfast.
 

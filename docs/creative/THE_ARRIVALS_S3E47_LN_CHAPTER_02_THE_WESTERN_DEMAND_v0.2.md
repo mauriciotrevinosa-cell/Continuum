@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 5 — The Western Demand
+## Chapter 12 — The Western Demand
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 5
+**Reading order:** 12
 
 The demand arrived on paper.
 

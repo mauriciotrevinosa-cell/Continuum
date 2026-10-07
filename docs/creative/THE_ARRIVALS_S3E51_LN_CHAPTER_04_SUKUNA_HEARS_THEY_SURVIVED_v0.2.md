@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 20 — Sukuna Hears They Survived
+## Chapter 27 — Sukuna Hears They Survived
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 18  
-**Reading order:** 20  
+**Reading order:** 27  
 **Same time as:** V18 #19–#21 (elsewhere: Sukuna)  
 **Continuity state:** Parallel antagonist interlude | Sukuna remains active and independent of the anti-Otherworlder network
 

@@ -4,7 +4,7 @@
 **Volume:** 17  
 **Season:** 3  
 **Volume title:** **Freedom and Walls**  
-**Chapter count:** 38
+**Chapter count:** 39
 
 | # | Chapter |
 |---:|---|
@@ -46,6 +46,7 @@
 | 36 | Who Speaks for Us |
 | 37 | What Tempest Cost |
 | 38 | The Rings |
+| 39 | The Two Idiots Who Accepted |
 
 ## Creator-revision authority / antagonist expansion — 2026-10-04
 
@@ -73,4 +74,5 @@ This is evidence of coordinated framing, not yet proof of one mastermind.
 - outside discourse increasingly attaches Mau's name to settlement;
 - residents begin treating Mau as default emergency sacrifice;
 - repeated maps/phrases support coordination pattern without mastermind reveal;
-- Last Defense now has social, infrastructural and ethical stakes.
+- Last Defense now has social, infrastructural and ethical stakes;
+- #39 "The Two Idiots Who Accepted" (creator request, 2026-10-07): the sisters' ceremony names Mau and Rimuru without a single royal word. The sashes, the fort's proclamation under the rings and the blue letter box persist into V18.

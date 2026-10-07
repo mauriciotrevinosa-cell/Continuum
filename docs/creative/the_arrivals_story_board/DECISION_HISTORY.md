@@ -446,3 +446,16 @@ Creator-designed arc, 2026-10-07 ("necesito que este arco sea demasiado bien con
   - V19 "The Body Remembers": Ciel tells him the loops "are not damage... nothing for it to repair". She has learned to tell the pattern what is not a wound.
   - **"Both of us"** is now Mau's stated position. Flag for the creator: it raises the cost of every V19 choice in which Mau acts alone, and Frieren will remember it.
   - Frieren's panic attack is her first. Whether it recurs (S4 aftermath) is the creator's call. The note is "not torture, emotional arc".
+
+## DH-030 — "The Two Idiots Who Accepted" closes V17 (#39)
+
+Creator request, 2026-10-07: V17 needed a mini ceremony after the council, put on by Umaru, the sisters and several of the household. It must say **nothing about kings**: only "the two idiots who accepted".
+
+- **Four days after the council.** The fort, now a monument, is the sisters' seat of government. Senku's council line ("Don't make it a crown and it won't become one") rules out crowns, thrones, taller chairs, bowing, "your" anything and capes. Umaru: "A hat is a crown that went to school." Suika finds the word: "Idiots." Umaru: "Two idiots. Who accepted."
+- **Staff.** Milim's first act as Head of Fun is confetti. Marin's decree as Minister of Not Working: "violators will be hugged". Wakana makes the sashes from refuge-curtain offcuts ("a strip of cloth that tells people what you are"). Coco letters them in Fern's ordinary ink, never glyph ink. Seiko presides. Senku approves: "Ten billion percent not a crown." Bocchi writes a four-second fanfare, and Kita knew the words.
+- **The questions** (Seiko reads them; the last is Umaru's own): read all the letters; stand next to each other, never in front alone; let us say when you're being stupid; stop working when the Minister says; have fun when the Head of Fun says ("within reason"); and **"if it gets too heavy, you'll put it down, and let us carry it for a while"**. Mau: "I'll try." / "That's not one of the answers." / "Yes. I promise."
+- **The sashes.** Ori ties Mau's: IDIOT WHO ACCEPTED. Milim ties Rimuru's: ALSO AN IDIOT WHO ACCEPTED, because Mau said "together" first (Fern's minutes; Ciel agrees). Fern's ledger: "Objections: two, both from idiots. Overruled." Diablo bows to the sash. Eren: "Nobody ever went to war in the name of an idiot." Mikasa: "Two idiots."
+- **The first letter.** A blue box ("FOR THE TWO IDIOTS. LETTERS.") holds the fort's letter: the first letter to both of them, "so the first one isn't from someone who is scared of you". They answer it on the step: "Dear fort, Thank you. We accept. — The Two Idiots." Rimuru: the first title anyone gave him as a joke, "the first one I'd keep". Frieren: "*Idiot*", her private word, now official.
+- **Persisting objects:** the fort's proclamation and Marin's decree pinned under the rings, the two sashes (Rimuru wants a loft shelf for his in V18 "Say It Again"), and the blue letter box.
+- **Resonance (do not resolve in S3):** Umaru's question and Mau's promise to put it down when it gets too heavy. V19 is where he breaks it.
+- The V17 volume-closing paragraphs moved from "The Rings" to the end of this chapter, with one added line about the proclamation, which uses no word "that could ever be made into a crown".

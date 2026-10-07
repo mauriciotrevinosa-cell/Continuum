@@ -247,9 +247,3 @@ Rimuru bumped his shoulder against Mau's.
 "Two," said Mau.
 
 Somewhere behind the wall, very deep down, something was quiet. It might have been listening. It might not.
-
-Volume Seventeen ended with three things on the same table: a defense system designed not to become a cage; a crossed-out equation that had tried to turn Mau into a civic resource; and a board in the common room with four rings drawn on it, two names where a question mark had been, and one true sentence about a shadow that was not the whole truth.
-
-The city had become worth protecting. It had chosen who would speak for it, what it wanted to be, and who would be told what.
-
-Now it had to prove it could protect itself without consuming the two people it had just asked to stand in front.

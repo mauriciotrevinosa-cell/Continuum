@@ -122,7 +122,7 @@ Rimuru put both slime-hands over his slime-mouth.
 
 He stood there for a while, shaking very slightly, fighting with everything he had not to laugh out loud. Then he got himself under control and crept up the ladder into the loft. He settled onto the small pillow that was much too small for a person and exactly right for him, and lay looking down at the two of them over the edge of the boards.
 
-*They're going to need more room*, he thought. *Ciel. Do you think they'd mind if I asked to extend the closet? I keep leaving my things in the office. It would be nice to have a shelf up here.*
+*They're going to need more room*, he thought. *Ciel. Do you think they'd mind if I asked to extend the closet? I keep leaving my things in the office. It would be nice to have a shelf up here. Somewhere to put the sash.*
 
 Ciel did not answer.
 

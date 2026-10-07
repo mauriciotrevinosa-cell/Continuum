@@ -78,5 +78,6 @@ Still open:
 ## Mau vs. the wheel: an adaptation duel (creator seed, 2026-10-06)
 Mau has his own adaptation plus the four beats (**Observe, Analyze, Understand, Construct**). Against a completed Mahoraga-pattern, the creator imagines a fight where the two **adapt to each other endlessly**: observing, creating, re-adapting.
 - **Why it's interesting:** neither side can simply out-power the other.
+- **The exit (creator, 2026-10-06):** the fight becomes a **race**. Can Mau **construct a win condition before the wheel finishes adapting?** Mahoraga has only ever been beaten by being eliminated before the adaptation completes: three times in JJK by the creator's count, and once here, when the plaza turn was interrupted and sealed back. Mau's edge is not power. It is Observe/Analyze/Understand reading the wheel, and Construct making something it has never seen, faster than it can turn.
 - **Design note (Claude):** an infinite mutual-adaptation fight needs an exit that is *not* more power, such as a choice, a relationship, Ciel, the seal, or the unidentified "let me out" voice (containment lock §3D). Otherwise it never ends or ends by fiat. Not decided. Placement is open (S4+).
 

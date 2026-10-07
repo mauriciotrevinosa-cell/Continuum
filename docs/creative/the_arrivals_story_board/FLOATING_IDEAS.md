@@ -82,7 +82,17 @@ Mau has his own adaptation plus the four beats (**Observe, Analyze, Understand, 
 - **Design note (Claude):** an infinite mutual-adaptation fight needs an exit that is *not* more power, such as a choice, a relationship, Ciel, the seal, or the unidentified "let me out" voice (containment lock §3D). Otherwise it never ends or ends by fiat. Not decided. Placement is open (S4+).
 
 
-## Chocolate Day 2 (creator idea, 2026-10-07; placement open: S3 or S4)
+## Chocolate Day 2: IMPLEMENTED in S3 V16 #41–#46 (storm arc), creator's plan, 2026-10-07
+- **Story Night, Again:** Mau has stories now; the deer callback; the Sein story; Himmel "survived".
+- **The Super Duper Ultra Archi-Re-Que-Contra Mega Important Meeting:** Frieren asks whether Mau finds her attractive, then reveals a plan; Senku's cup telephones; Ciel recruited.
+- **Agents:** Frieren secretly raises Maomao's (halved) dose, so the effect lasts the whole arc.
+- **Frierennnnn:** golden-retriever Mau; Lovebird Hours; "I think it was you" (the deer).
+- **Green Eyes:** "the most beautiful person, place or thing"; "Idiot"; **the tree promise**, which pays off "Not yet" from "The Ink Budget".
+- **The Most Beautiful Doesn't Work:** next morning.
+- **Still open for S4:** the heavier version, where Mau chooses to eat the chocolate to speak (guardrail below still applies). Maomao has not yet confronted Frieren about the extra dose.
+
+### Original note
+
 A callback to S1E18, Maomao's inhibition-lowering chocolate. Rule: "it doesn't make you want things you don't already want."
 - **Claude's recommended S3 version (V17 slice of life, before things deteriorate):** a batch gets eaten by half the household. It is ensemble comedy where people say the small true things they normally filter. **Frieren refuses** the chocolate because of S1, and watches everyone else with grim satisfaction (this pays off the planning-doc callback). Mau eats one. Mostly sweet and funny, with **one near-slip**: he almost says something heavy he is carrying, catches himself, and only Frieren notices. This rings the S4 bell without breaking the dam.
 - **S4 seed (heavier):** Mau *chooses* to eat the chocolate because he cannot make himself say something sober. That keeps it his agency, not an extracted confession. Guardrail: the real reckoning should still be something he chooses. Chocolate can help him start, but it must not replace the sober conversation the S4 arc needs.

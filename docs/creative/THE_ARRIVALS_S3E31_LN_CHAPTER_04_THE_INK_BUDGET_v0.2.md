@@ -4,7 +4,10 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
 **Reading order:** 11  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
 **Continuity state:** Settlement weeks | Witch Hat ink counted and spent once: the shadowless light | The seed has sprouted; nothing is built inside its circle
+
+While the water circles were still being argued over, Qifrey did the count nobody wanted to do.
 
 Qifrey counted the ink on the atelier floor, with all four of his students watching.
 

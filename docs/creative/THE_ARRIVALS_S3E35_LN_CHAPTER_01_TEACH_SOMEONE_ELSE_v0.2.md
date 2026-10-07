@@ -3,9 +3,10 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 23
+**Reading order:** 23  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
 
-The maintenance rule became:
+By the end of those weeks, the maintenance rule had become:
 
 If only one person knows, it is not finished.
 

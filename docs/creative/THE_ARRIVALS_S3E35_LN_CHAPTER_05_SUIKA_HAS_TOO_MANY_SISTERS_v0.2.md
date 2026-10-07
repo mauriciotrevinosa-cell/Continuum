@@ -4,6 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
 **Reading order:** 27  
+**Same time as:** V16 #8–#23 (an ordinary day inside the redesign weeks)  
 **Continuity state:** Ordinary-life interlude | Suika branches beyond Senku without leaving him behind
 
 Suika had a problem.

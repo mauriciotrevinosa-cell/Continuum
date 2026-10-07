@@ -3,9 +3,10 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 12
+**Reading order:** 12  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
 
-Coco created a beautiful circle.
+Back in the first weeks of the water work, before anyone had counted the ink, Coco created a beautiful circle.
 
 Qifrey rejected it.
 

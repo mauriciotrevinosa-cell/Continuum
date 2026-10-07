@@ -3,7 +3,10 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 13
+**Reading order:** 13  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
+
+In those same weeks, the baths had their own fight.
 
 The bath design was beautiful.
 

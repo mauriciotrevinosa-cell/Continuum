@@ -4,6 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 18  
 **Reading order:** 20  
+**Same time as:** V18 #19–#21 (elsewhere: Sukuna)  
 **Continuity state:** Parallel antagonist interlude | Sukuna remains active and independent of the anti-Otherworlder network
 
 Sukuna heard about the battle from a frightened man who did not know who he was speaking to.

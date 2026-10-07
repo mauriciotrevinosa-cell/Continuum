@@ -4,9 +4,10 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
 **Reading order:** 19  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
 **Continuity state:** Ordinary day | Coco teaches Frieren | Frieren mirrors Mau's care for Coco
 
-The invitation came at breakfast, and it was not for Mau.
+On one ordinary day in the middle of the redesign weeks, the invitation came at breakfast, and it was not for Mau.
 
 Frieren put down her cup, looked across the table at Coco and said:
 

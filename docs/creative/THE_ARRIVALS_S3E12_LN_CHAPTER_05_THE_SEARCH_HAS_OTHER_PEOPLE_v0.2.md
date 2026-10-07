@@ -4,6 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 12  
 **Reading order:** 5  
+**Same time as:** V12 #4 (Day 7: the search while Mau and Ori travel)  
 **Continuity state:** Day 7 — parallel search | Old inn remains base | Other needs continue
 
 The search found three people.

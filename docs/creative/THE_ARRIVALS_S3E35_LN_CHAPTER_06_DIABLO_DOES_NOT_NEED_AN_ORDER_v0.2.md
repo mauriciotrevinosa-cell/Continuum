@@ -4,6 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
 **Reading order:** 28  
+**Same time as:** V16 #8–#23 (an ordinary day inside the redesign weeks)  
 **Continuity state:** Ordinary settlement life | Diablo begins serving the household by judgment, not only Rimuru's direct instruction
 
 Diablo moved the lumber before anyone asked.

@@ -3,9 +3,10 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 31
+**Reading order:** 31  
+**Same time as:** V16 #4–#30 (Senku's whole audit, week by week)  
 
-Senku's test times improved.
+From the first week of the audit to the last, Senku's test times improved.
 
 Slowly.
 

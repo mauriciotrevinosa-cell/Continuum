@@ -4,7 +4,10 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
 **Reading order:** 9  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
 **Continuity state:** Hybrid civic-water redesign begins
+
+In the same weeks the first road was torn out, the water argument started.
 
 The most political object in settlement was a pipe.
 

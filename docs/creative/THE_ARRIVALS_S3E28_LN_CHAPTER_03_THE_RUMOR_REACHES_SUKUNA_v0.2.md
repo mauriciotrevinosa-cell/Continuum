@@ -4,6 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 15  
 **Reading order:** 43  
+**Same time as:** V15 #41–#42 (elsewhere: Sukuna)  
 **Continuity state:** Parallel hostile-world interlude | Sukuna remains active while anti-Otherworlder narratives harden
 
 Sukuna heard about the settlement from a frightened man.

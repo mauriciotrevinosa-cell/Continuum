@@ -3,9 +3,10 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 18
+**Reading order:** 18  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
 
-Arrival House got walls because rain won again.
+The week after the bridge, Arrival House got walls, because rain won again.
 
 It did **not** get its final building.
 

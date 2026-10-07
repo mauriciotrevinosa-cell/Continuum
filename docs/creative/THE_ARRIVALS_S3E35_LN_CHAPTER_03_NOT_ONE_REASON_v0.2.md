@@ -4,6 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
 **Reading order:** 25  
+**Same time as:** V16 #8–#23 (an ordinary day inside the redesign weeks)  
 **Continuity state:** G5 no longer behaves as one cohort | Ring Two develops direct reasons to stay close
 
 The question came back.

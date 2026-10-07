@@ -3,9 +3,10 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 24
+**Reading order:** 24  
+**Same time as:** V16 #8–#23 (an ordinary day inside the redesign weeks)  
 
-The old inn filled again for three nights.
+Somewhere in those weeks, the old inn filled again for three nights.
 
 Storm damaged road north.
 

@@ -625,6 +625,9 @@
     ],
     "chapter_title": [
       "^##\\s+Chapter\\s+\\d+\\s*[–—-]\\s*(.+?)\\s*$"
+    ],
+    "same_time": [
+      "^\\*\\*Same time as:\\*\\*\\s*(.+?)\\s*$"
     ]
   },
   "episodes": {

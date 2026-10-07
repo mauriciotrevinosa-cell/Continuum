@@ -3,9 +3,10 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 22
+**Reading order:** 22  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
 
-The problem began when Kusuri found a jar beside the grain.
+In the storerooms, in those same weeks, the problem began when Kusuri found a jar beside the grain.
 
 She stopped.
 

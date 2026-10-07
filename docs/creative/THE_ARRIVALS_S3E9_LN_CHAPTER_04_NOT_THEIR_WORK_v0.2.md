@@ -4,6 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 11  
 **Reading order:** 20  
+**Same time as:** V11 #6–#7 (earlier: Day 2, the witches' side)  
 **Continuity state:** Earlier — Day 2 midday | Mau: briefly lucid / stabilized by witches | External interference suspected, not identified
 
 Mau woke once before the others arrived.

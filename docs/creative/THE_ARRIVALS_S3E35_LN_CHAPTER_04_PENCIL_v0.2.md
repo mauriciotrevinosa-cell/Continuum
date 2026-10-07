@@ -4,6 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
 **Reading order:** 26  
+**Same time as:** V16 #8–#23 (an ordinary day inside the redesign weeks)  
 **Continuity state:** Ordinary afternoon | Rem writes her name on the narrow room at the turn, in pencil
 
 Rem came to the Muslin on a Thursday with a basket of travelers' notes from the old inn and found the house empty.

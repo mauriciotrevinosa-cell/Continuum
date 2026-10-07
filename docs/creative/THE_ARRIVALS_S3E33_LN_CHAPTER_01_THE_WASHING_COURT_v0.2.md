@@ -3,9 +3,10 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 15
+**Reading order:** 15  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
 
-The first place that looked distinctly finished was a public washing court.
+Somewhere in the middle of all of it, while the roads were still learning to curve, the first place that looked distinctly finished was a public washing court.
 
 Mau found this anticlimactic.
 

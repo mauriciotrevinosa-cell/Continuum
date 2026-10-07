@@ -4,9 +4,10 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
 **Reading order:** 21  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
 **Continuity state:** Ordinary night | Mau shows Ciel the house, by request, under rule four
 
-Mau was awake at three in the morning for no reason at all.
+One night in the middle of those weeks, Mau was awake at three in the morning for no reason at all.
 
 Not the bad kind of awake. No panic. No heat behind the eye. No Noise pressing at the edges of anything. Just awake, the ordinary way a person is awake when they slept early and their body has decided that was enough.
 

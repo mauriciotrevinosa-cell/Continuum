@@ -3,7 +3,10 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 10
+**Reading order:** 10  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
+
+Alongside the pipe, in those same weeks, the wastewater argument ran its own course.
 
 Coco wanted wastewater markings to be pretty.
 

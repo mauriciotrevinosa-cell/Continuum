@@ -4,6 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 16  
 **Reading order:** 30  
+**Same time as:** V16 #8–#23 (an ordinary day inside the redesign weeks)  
 **Continuity state:** Ordinary-life ensemble | 100 Girlfriends-side group remains visible as family texture rather than cameo cast
 
 Karane had given up on logic before Continuum.

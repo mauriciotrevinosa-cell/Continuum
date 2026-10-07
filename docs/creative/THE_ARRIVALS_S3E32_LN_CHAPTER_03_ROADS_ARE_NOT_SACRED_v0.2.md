@@ -3,7 +3,10 @@
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 16  
-**Reading order:** 14
+**Reading order:** 14  
+**Same time as:** V16 #8–#23 (the redesign weeks: each chapter follows one thread through the same weeks)  
+
+The roads were argued about the whole time the water was.
 
 The settlement refused a grid without making an ideology of it.
 

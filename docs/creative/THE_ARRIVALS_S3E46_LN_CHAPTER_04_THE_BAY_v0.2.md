@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 4  
-**Continuity state:** Same night | Maomao, Senku, Kusuri, Yuta and Ciel work | Stark, Mikasa and Eren give blood | Diablo guards the room | Qifrey and the sisters hold the fort
+**Continuity state:** Same night | Maomao, Senku, Kusuri, Yuta and Ciel work | Stark, Mikasa and Momo give blood; Senku refuses Eren, who stands with Kaneki | Diablo guards the room | Qifrey and the sisters hold the fort
 
 The medical bay was the room at the far end of the Muslin, as far from the kitchen as Maomao's rules could put it. It had one table, two lamps, a shelf of labeled jars, and a basin. Tonight it had five people in it, and one of them was dying.
 

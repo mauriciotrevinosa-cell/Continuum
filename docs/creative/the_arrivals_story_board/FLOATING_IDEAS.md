@@ -89,7 +89,7 @@ Mau has his own adaptation plus the four beats (**Observe, Analyze, Understand, 
 - **Frierennnnn:** golden-retriever Mau; Lovebird Hours; "I think it was you" (the deer).
 - **Green Eyes:** "the most beautiful person, place or thing"; "Idiot"; **the tree promise**, which pays off "Not yet" from "The Ink Budget".
 - **The Most Beautiful Doesn't Work:** next morning.
-- **Still open for S4:** the heavier version, where Mau chooses to eat the chocolate to speak (guardrail below still applies). Maomao has not yet confronted Frieren about the extra dose.
+- **Still open for S4:** the heavier version, where Mau chooses to eat the chocolate to speak (guardrail below still applies). Maomao has not yet confronted Frieren about the extra dose. **Update (V18 "Fifteen Minutes"):** Frieren and Fern blame "Maomao's chocolate" for their evening, and Maomao swallows the lie. She now holds two debts against Frieren, and her private resolution is: *"Next time, the chocolate will also have an aphrodisiac."* The heavier S4 chocolate seed now has a motive.
 
 ### Original note
 

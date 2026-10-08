@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 34 — Cut the Real Cloth
+## Chapter 35 — Cut the Real Cloth
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 34  
+**Reading order:** 35  
 **Continuity state:** Rebuild weeks, after the memorial | The real house is drawn, not built: two floors, a cellar, two exits under every section, a room with no name
 
 Wakana took the board down three weeks after the memorial.
@@ -78,7 +78,7 @@ Umaru and Suika in the room next to the Witch Hat girls'. Umaru had demanded, as
 
 Anko and Nazuna's room on the north side, where the light came least. The high loft was drawn in with its black curtain all the way round, and Anko's bed below.
 
-Fern's room near the top of the main stair, where she could hear everything. Stark's beside it. He asked for nothing else. Fern pretended not to notice, with great concentration, exactly as she had the first time.
+Fern's room near the top of the main stair, where she could hear everything. Stark's beside it. He asked for nothing else. Fern pretended not to notice, with great concentration, exactly as she had the first time, although she was officially allowed to notice now.
 
 Himmel's room on the road side, facing the way people would come.
 

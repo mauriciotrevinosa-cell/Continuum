@@ -4,7 +4,7 @@
 **Volume:** 18  
 **Season:** 3  
 **Volume title:** **Last Defense**  
-**Chapter count:** 41
+**Chapter count:** 42
 
 | # | Chapter |
 |---:|---|
@@ -18,41 +18,42 @@
 | 8 | The Fort Sends Notes |
 | 9 | The Pattern Room |
 | 10 | First Day Out |
-| 11 | The Drill |
-| 12 | The Second Drill |
-| 13 | The Road Reports Stop |
-| 14 | The Western Demand |
-| 15 | First Alarm |
-| 16 | Negotiation at the Edge |
-| 17 | The Monster Wave |
-| 18 | Evacuation |
-| 19 | Last Defense Front |
-| 20 | Outer Line |
-| 21 | It Fails Correctly |
-| 22 | Unknown Inside |
-| 23 | Under the Refuge |
-| 24 | Aira Broke It |
-| 25 | The Night Between |
-| 26 | Morning After |
-| 27 | Counting the Cost |
-| 28 | The Story Was Ready |
-| 29 | Sukuna Hears They Survived |
-| 30 | The Worldless Man |
-| 31 | Leadership After the Front |
-| 32 | The Device Came With Building Material |
-| 33 | Who Watered It |
-| 34 | Cut the Real Cloth |
-| 35 | Threshold |
-| 36 | Protocol |
-| 37 | Kaneki Knows This Part |
-| 38 | Ori Knows Where the Door Is |
-| 39 | It Passes |
-| 40 | The Voice Around Ori |
-| 41 | She Is Not Your Mouth |
+| 11 | Fifteen Minutes |
+| 12 | The Drill |
+| 13 | The Second Drill |
+| 14 | The Road Reports Stop |
+| 15 | The Western Demand |
+| 16 | First Alarm |
+| 17 | Negotiation at the Edge |
+| 18 | The Monster Wave |
+| 19 | Evacuation |
+| 20 | Last Defense Front |
+| 21 | Outer Line |
+| 22 | It Fails Correctly |
+| 23 | Unknown Inside |
+| 24 | Under the Refuge |
+| 25 | Aira Broke It |
+| 26 | The Night Between |
+| 27 | Morning After |
+| 28 | Counting the Cost |
+| 29 | The Story Was Ready |
+| 30 | Sukuna Hears They Survived |
+| 31 | The Worldless Man |
+| 32 | Leadership After the Front |
+| 33 | The Device Came With Building Material |
+| 34 | Who Watered It |
+| 35 | Cut the Real Cloth |
+| 36 | Threshold |
+| 37 | Protocol |
+| 38 | Kaneki Knows This Part |
+| 39 | Ori Knows Where the Door Is |
+| 40 | It Passes |
+| 41 | The Voice Around Ori |
+| 42 | She Is Not Your Mouth |
 
 ## Opening arc: the reversion night (#1–#7), 2026-10-07
 
-A week after the council, Mau's own pattern decides the walls are an injury and reverts his body toward the moment after Sukuna. Two days in the bay, then the morning he wakes. The house's one unanimous rule follows. #8 "The Fort Sends Notes" covers the two weeks in bed: the pack, with Rem as its agent (DH-031). The bridge at the top of #9 sums them up, and two more weeks indoors run alongside the early V18 investigation. #10 "First Day Out" is his first public walk on day 29 (DH-032). See `the_arrivals_story_board/DECISION_HISTORY.md` DH-029 and containment lock §3E.
+A week after the council, Mau's own pattern decides the walls are an injury and reverts his body toward the moment after Sukuna. Two days in the bay, then the morning he wakes. The house's one unanimous rule follows. #8 "The Fort Sends Notes" covers the two weeks in bed: the pack, with Rem as its agent (DH-031). The bridge at the top of #9 sums them up, and two more weeks indoors run alongside the early V18 investigation. #10 "First Day Out" is his first public walk on day 29 (DH-032). #11 "Fifteen Minutes" is the next day: Frieren and Fern's day out, the hamburg steak, and Fern and Stark becoming official (DH-033). See `the_arrivals_story_board/DECISION_HISTORY.md` DH-029 and containment lock §3E.
 
 ## Creator-revision enemy-pressure expansion — 2026-10-04
 

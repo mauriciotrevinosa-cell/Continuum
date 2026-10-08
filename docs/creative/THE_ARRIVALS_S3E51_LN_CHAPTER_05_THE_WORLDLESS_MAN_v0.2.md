@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 30 — The Worldless Man
+## Chapter 31 — The Worldless Man
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 30  
+**Reading order:** 31  
 **Continuity state:** Post-defense Day 3 | Mau classification rumor spreads | Public correction without mythic counterclaim
 
 The title appeared on a wall before anyone admitted it was a title.

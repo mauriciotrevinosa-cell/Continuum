@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 38 — Ori Knows Where the Door Is
+## Chapter 39 — Ori Knows Where the Door Is
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 38  
+**Reading order:** 39  
 **Continuity state:** Noise overload, hour 7 | Spatial perception distortion | Ori returns by request as one comparison point, not sole reality anchor
 
 At hour seven, the door moved.

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 14  
-**Continuity state:** Day 30 | Mau sends Fern and Frieren out for the day | Mau and Stark make hamburg steak at the old inn, Momo supervises the pudding: 'Sorry for scaring you' | Fern and Stark become official | next morning: 'it was the chocolate'
+**Continuity state:** Day 30 | Mau sends Fern and Frieren out for the day | Mau and Stark make hamburg steak at the old inn, Momo supervises the pudding: 'Sorry for scaring you' | Fern and Stark become official | Operation Recruitment: Frieren becomes the fort's SISTER-IN-LAW, AGENT MIMIC | next morning: 'it was the chocolate'
 
 Mau found Fern that evening in the common room, mending a sleeve.
 
@@ -275,6 +275,128 @@ Fern and Frieren behaved like girls.
 Not behind a door. Not in a room with the curtains shut, the way Frieren had for months. Out loud, in the old inn's dining room, at a table by the window, with the people they loved. Fern leaned against Stark's shoulder and stole food off his plate and laughed at something he said that was not funny. Frieren sat sideways in her chair with her feet in Mau's lap and made him say things twice and corrected him. At one point they caught each other's eye across the table and both giggled, like children who have got away with something.
 
 They did not notice the room. That was the thing. Neither of them noticed, the whole evening, that everyone was there.
+
+The fort noticed.
+
+The fort was at the long middle table, nearly all of it, eating failed hamburg steaks: the President, the Opposition, the Guardian, Seiko on the highest stool the old inn owned, and twenty-odd citizens in a row. They watched Frieren sit sideways in her chair with her feet in Mau's lap. They watched her giggle, actually *giggle*, at something Fern said across the table. Umaru put down her fork.
+
+"Look at her," she said quietly.
+
+Everyone looked.
+
+"That," said Umaru, "is not someone who needs a hundred years to consider it."
+
+She stood up on the bench, in her hood and her sash, and said in a carrying whisper to the whole middle table:
+
+"*Operation Recruitment.* Now."
+
+
+
+It took the fort eleven seconds.
+
+Milim went first, because the Guardian always went first. She came round the end of the table, scooped Frieren out of her chair, feet and all, out of Mau's lap, and set her upright on the floor as gently as if she were made of glass. Then Coco and Ori each took one of Frieren's hands. Hakari and Karane took Fern, who was already a citizen and protested that this was redundant, and was overruled. A dozen more closed in around the two of them like a tide. Before either could say a word, the whole knot of them had swept across the dining room and through the kitchen door, and the door swung shut.
+
+Mau and Stark sat at the table by the window and looked at the swinging door.
+
+"They took them," said Stark.
+
+"They took them," said Mau.
+
+"Should we—"
+
+"No," said Mau. He thought about the fort's constitution, pinned inside the toll booth. *Article 1. Anyone who comes in may stay.* "No. I think we just wait."
+
+They waited. Stark ate the rest of Fern's steak, slowly, staring at the door. Mau ate a dried pear. Somewhere behind the kitchen door, Milim laughed so loudly that a pan fell off its hook.
+
+
+
+In the old inn's kitchen, between the stove and the pantry, the fort stood in a ring with Frieren in the middle.
+
+"By decree of the President," said Umaru, "the period of consideration is over."
+
+Frieren looked around at all of them, and at Fern beside her, very red, still holding Stark's napkin without realizing it.
+
+"I said a hundred years," said Frieren.
+
+"You giggled," said Umaru. "In public. At a *dinner*. We all saw it." She folded her arms. "That's citizenship behavior."
+
+Frieren opened her mouth. Then she closed it again, because it was true.
+
+"But the fort is for his sisters," she said finally. She said it carefully, as if it mattered, because to her it did. "That's how it started. Four of you. Mau's sisters. I'm not his sister. I'm his—" She stopped, and her ears went pink. "I'm his partner."
+
+The ring of girls considered this. It was a genuine point of law. Agott, as the Opposition, looked as though she might be about to make it into a whole procedure.
+
+From the top of a flour barrel by the pantry, where she had installed herself as the highest available seat, Seiko spoke.
+
+"Sister-in-law, then," said Seiko. She waved her paper fan at Frieren, once, as if dismissing a minor inconvenience. "Change her status."
+
+There was a short silence.
+
+Then Frieren laughed.
+
+It came out of her all at once, the way it had been coming out of her all evening, bright and helpless and completely unlike anything anyone in the house had heard from her in the first year they had known her. She put her hand over her mouth and laughed into it, and Fern started laughing too, and then the whole kitchen was laughing, and somebody knocked the second pan off its hook.
+
+"Sister-in-law," said Umaru, wiping her eyes, "is approved."
+
+Fern let go of Stark's napkin, finally, and took something out of the pocket of Marin's dress. It was a small card, stiff paper, cut very neatly, with Coco's careful lettering on it.
+
+"We made it," said Fern. "Days ago. In case." She held it out. "I was keeping it."
+
+Frieren took it.
+
+THE FORT, it said across the top. Then:
+
+*FRIEREN*
+*Status: SISTER-IN-LAW*
+*Codename: AGENT MIMIC*
+
+Frieren stared at the codename.
+
+"Mimic," she said.
+
+"Because you always stick your head in the chest," said Coco. "Even when you know."
+
+Frieren looked at the card for a long moment. Then she put it very carefully into the pocket of the hoodie, against her chest, and did not say anything, because she could not.
+
+"Where's yours?" said Ori, to Fern.
+
+Fern took out a second card. It said *FERN*, and *Status: DUAL CITIZEN*, and then *Codename:* and nothing after it at all.
+
+"Pending," said Fern, with great dignity. "Nobody can agree."
+
+"*Ledger*," said Agott.
+
+"*Stern*," said Karane.
+
+"*Pudding*," said Milim, and was ignored.
+
+"Pending," said Fern again, and put the card away.
+
+
+
+They gave them back after five minutes. Exactly five; Nano timed it.
+
+The kitchen door swung open and the fort came out in a tide and set Frieren down in her chair, and Fern down in hers beside Stark. Then they all went back to the middle table and their failed steaks as if nothing whatsoever had happened.
+
+Mau looked at Frieren.
+
+Frieren took the card out of her pocket and slid it across the table to him without a word.
+
+He read it. *Status: SISTER-IN-LAW. Codename: AGENT MIMIC.*
+
+He looked up at her. She was trying very hard not to smile, and failing completely.
+
+"Congratulations," said Mau.
+
+"Thank you," said Frieren, and took the card back, and put it in her pocket again, and kept her hand over it.
+
+Stark leaned over to Fern. "What happened in there?"
+
+"Diplomacy," said Fern, and stole a piece of his bread.
+
+Later, when the house went back to the Muslin through the cold, Umaru went straight to the fort's annex. She knelt by the seven slips of paper beside the six NEXT cushions and picked up the seventh, FRIEREN (CONSIDERING). She crossed out CONSIDERING and wrote, in her own round letters, SISTER-IN-LAW. Then she put it back where it had been, beside the others, where everybody could see it.
+
+Even being kidnapped by a fort for five minutes did not make either of them notice, that whole evening, that everyone was there.
 
 
 

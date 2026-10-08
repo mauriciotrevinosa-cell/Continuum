@@ -208,3 +208,9 @@ Drafted at the creator's go-ahead. Where the prose differs from the proposal abo
 
 ## Creator correction, 2026-10-08: Ring Three is only the witches
 In canon (V17 "The Rings"), **Ring Three is the witches and nobody else.** A person enters it only with a vouch from Ring One or Two **and** approval by Rings One and Two together, announced. The V20 draft had quietly made eleven settlers "Ring Three". That is fixed: they are **Ring Four**. The cooper, Lise and the rest keep their scenes but **have no say in house or inn matters**. The creator keeps them as possibly temporary characters. **Never promote anyone into a ring silently.** It happens on the page, at a council, or it doesn't happen.
+
+## S4 running gag (creator, 2026-10-08): the codename cards
+In V18 "Fifteen Minutes" the fort runs **Operation Recruitment** on Frieren: five minutes in the old inn's kitchen while Mau and Stark watch "their women" get carried off. Frieren: "But the fort is for his sisters... I'm his partner." Seiko, from a flour barrel: **"Sister-in-law, then. Change her status."** Fern gives her the card the fort had made: **FRIEREN, Status: SISTER-IN-LAW, Codename: AGENT MIMIC** ("because you always stick your head in the chest").
+- **Known codenames:** AGENT HAMSTER (Umaru), AGENT DRAGON (Milim), AGENT INK (Coco), AGENT PINK (Bocchi), AGENT WATERMELON (Suika), all from V16 "Agents"; AGENT BIRD (Rimuru, from "the bird is singing", V18 "The Fort Is Too Small"); AGENT MIMIC (Frieren).
+- **Fern's card reads "Codename: (pending)"** (proposals so far: Ledger, Stern, Pudding).
+- **The gag for S4:** citizens without codenames **earn them one by one** through what they do. The fort issues a card each time, Fern's stays pending as long as possible, and Seiko and Turbo Granny may insist on their own.

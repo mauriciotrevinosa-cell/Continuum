@@ -4,7 +4,7 @@
 **Volume:** 20  
 **Season:** 4  
 **Volume title:** **The Ten Days**  
-**Chapter count:** 18
+**Chapter count:** 23
 
 | # | Chapter |
 |---:|---|
@@ -26,6 +26,11 @@
 | 16 | The House Without Him |
 | 17 | The Pages |
 | 18 | A Leaf |
+| 19 | Back at Dusk |
+| 20 | The Corner |
+| 21 | The Roof |
+| 22 | You Made a Contract |
+| 23 | Frieren's Terms |
 
 ## What this volume covers
 

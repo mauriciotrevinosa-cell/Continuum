@@ -4,7 +4,7 @@
 **Volume:** 20  
 **Season:** 4  
 **Volume title:** **The Ten Days**  
-**Chapter count:** 4
+**Chapter count:** 11
 
 | # | Chapter |
 |---:|---|
@@ -12,6 +12,13 @@
 | 2 | Not Your Choice |
 | 3 | Did You Know |
 | 4 | Rules About Him |
+| 5 | Rule Five |
+| 6 | Every Time |
+| 7 | Breathe With Me |
+| 8 | The Last Two |
+| 9 | What Analyze Kept |
+| 10 | How Long |
+| 11 | Two Days of Punishment |
 
 ## What this volume covers
 

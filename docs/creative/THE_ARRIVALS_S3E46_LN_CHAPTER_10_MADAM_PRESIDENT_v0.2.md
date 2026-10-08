@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 10  
-**Continuity state:** Days 11-14 | Umaru declares a presidency; Agott runs as Opposition | Milim becomes Guardian of the Fort ('strongest isn't the same as in charge'); Rimuru honorary citizen | Anko audits; 12-11 among 24, Ryo spoils | sashes PRESIDENT (TEMPORARY) and OPPOSITION | Aira arrives late and becomes the Protector | the fort's constitution, Article 6
+**Continuity state:** Days 11-14 | Umaru declares a presidency; Agott runs as Opposition | Milim becomes Guardian of the Fort ('strongest isn't the same as in charge'); Rimuru honorary citizen | Anko audits; 14-13 among 29, Ryo and Turbo Granny spoil | sashes PRESIDENT (TEMPORARY) and OPPOSITION | Aira arrives late and becomes the Protector | the fort's constitution, Article 6
 
 It was Agott who started it, which surprised nobody.
 
@@ -166,19 +166,19 @@ Rem did not read it. She put it in her apron pocket and took it away.
 
 The election was held on the third evening, by the light of Kusuri's jars, with Milim, Guardian of the Fort, standing under the Beam with her arms folded, and Rimuru, honorary citizen, sitting at the cold hearth as official observer, with Diablo standing behind him guarding democracy.
 
-Twenty-four citizens voted. Fern voted, after asking Anko whether a dual citizen was permitted to, and being told that the procedure on page two did not prohibit it. Maki voted. Afterward she told Mai that she had voted for Agott, because somebody had to keep the President honest, and told Umaru that she had voted for her, and Mai believed neither. Anko collected the ballots in the sealed box, one at a time, and checked each name against her list. Nano counted them aloud, flat and precise, while Shizuka wrote down the tally.
+Twenty-nine citizens voted. Seiko voted from her high seat, and told nobody for whom. Fern voted, after asking Anko whether a dual citizen was permitted to, and being told that the procedure on page two did not prohibit it. Maki voted. Afterward she told Mai that she had voted for Agott, because somebody had to keep the President honest, and told Umaru that she had voted for her, and Mai believed neither. Anko collected the ballots in the sealed box, one at a time, and checked each name against her list. Nano counted them aloud, flat and precise, while Shizuka wrote down the tally.
 
-It was Umaru, then Agott, then Umaru, then Umaru, then Agott, then Agott, all the way down. When there were two ballots left, it stood at eleven each.
+It was Umaru, then Agott, then Umaru, then Umaru, then Agott, then Agott, all the way down. Somewhere in the middle, Nano unfolded one that said, in large, shaky, triumphant letters, TURBO GRANNY. She set it aside without comment as spoiled, and from the roof of the toll booth came a noise of profound outrage. When there were two ballots left, it stood at thirteen each.
 
 The fort had gone completely silent.
 
-Nano unfolded the twenty-third ballot.
+Nano unfolded the twenty-eighth ballot.
 
 "Umaru," she said.
 
-Twelve to eleven.
+Fourteen to thirteen.
 
-Nano unfolded the twenty-fourth.
+Nano unfolded the twenty-ninth.
 
 She looked at it for a long moment.
 
@@ -190,7 +190,7 @@ Ryo, lying on the stage, opened one eye.
 
 "I considered it," she said, and closed it again.
 
-Twelve to eleven, with one spoiled ballot. Anko checked the tally twice, then a third time, then sealed it, and declared the result. In accordance with the procedure on page two, she announced:
+Fourteen to thirteen, with two spoiled ballots. Anko checked the tally twice, then a third time, then sealed it, and declared the result. In accordance with the procedure on page two, she announced:
 
 "Umaru Doma is President of the Fort."
 

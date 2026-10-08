@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 9  
-**Continuity state:** Nights 8-10 after Mau wakes | the fort collapses under twenty-two | it must fit Milim standing (the Milim Beam) | Fern becomes a dual citizen; Maki and Mai build the north wall | Fern's treaty: the north end of the common room, never over the four scratches | Wakana's nail-free frame, Ori's window, the annex with six NEXT cushions
+**Continuity state:** Nights 8-10 after Mau wakes | the fort collapses under twenty-two | it must fit Milim standing (the Milim Beam) | Fern becomes a dual citizen; Maki and Mai build the north wall; Momo, Maomao and Mikasa join; Seiko's high seat; Turbo Granny on the booth; Rimuru's bowl ('AGENT BIRD'); Frieren (considering); the closet: 'a third' | Fern's treaty: the north end of the common room, never over the four scratches | Wakana's nail-free frame, Ori's window, the annex with six NEXT cushions
 
 The fort had been built for four people and a great many snacks, during a war, in one afternoon. It had never been meant to last. It had lasted anyway, because nobody had the heart to take it down, and because the treaty that ended the war had made it a monument.
 
@@ -144,7 +144,21 @@ Hakari's group built the annex, a whole second room off the side of the fort wit
 
 Mai complained about everything. Then she started on the north wall, alone, while everybody else was arguing about the flag. Maki, passing through the common room with a basket of laundry, stopped. She looked at the wall, and at her sister, and at the slat Mai was fighting with. Then she put the basket down and picked up the other end of it. Neither of them said a word. The Zenin twins built the north wall together in under an hour, and when everyone turned around it was the straightest wall in the fort and the only one that did not sway. Mai would not say where they had learned to build walls like that. Maki said *home*, and that it had not been a good one, and that this one was better. Then she went back for the laundry. She came back after, and stayed, and that was how the fort got Maki.
 
+Momo did not join the fort so much as discover that she had always been in it. Every snack in the toll booth had come out of her kitchen since the war. When Umaru pointed this out, Momo put her hands on her hips. "So I've been paying taxes to a country I'm not even a citizen of?" She was made a citizen on the spot, with back pay in the form of the toll booth's entire stock. She inspected it, judged it, and gave it back.
+
+Maomao refused. She did not sit on cushions. She had patients. Then she came in to inspect Kusuri's little jars for safety, every single one, which took all afternoon. At the end of it she was sitting on a cushion. Umaru wrote her name in the register, and Maomao looked at it and said nothing, which, from Maomao, meant yes.
+
+Mikasa came in quietly, sat down against Mai's north wall, and drew a map of every way out of the fort. There were four. Then she drew every way out it *should* have, which was six. Wakana cut two more. Nobody asked her to join. She was a citizen by evening anyway.
+
 Kusuri made light. Small glass jars, with something in them that glowed a soft yellow-green when you shook them, which she swore was chemistry and not magic. She hung one in every room of the fort. Agott inspected each jar for glyphs and found none, and was visibly disappointed.
+
+Seiko came to look on the second afternoon, with her paper fan. She stood at the chalk line and looked at the whole thing for a long time, the frame and the curtains and the flag and twenty-odd young women arguing about a doorway.
+
+"I want a high place," she said. "Somewhere I can sit and watch all your idiocies at once."
+
+Wakana built her one, against the north wall: a seat on a stack of crates, with a back, a cushion and a little rail. From up there she could see the whole fort. Seiko climbed up, sat down, unfolded her fan, and did not come down again until dark. Nobody ever asked whether she was a citizen. She was Seiko.
+
+Turbo Granny, who had followed her in, took one look at the toll booth and climbed straight onto its roof. She sat there cross-legged like a gargoyle, and began collecting tolls from above that nobody had ever agreed she could collect.
 
 Anko installed a filing cabinet. It was a crate. It said RECORDS on the side. She put her notebook in it, and Nano's measurements, and the old toll records from the war. Then she sat on it, because it was the only chair in the fort.
 
@@ -177,6 +191,48 @@ The blue-rimmed cup went back on its hook beside the booth. Rem straightened it.
 
 
 
+For Rimuru, who was an honorary citizen with right of passage, the fort did not make a space. It made a dish.
+
+Wakana turned it on his wheel: a wide, deep wooden bowl, smooth as an egg inside, set on a low stand just inside the fort's line by the cold hearth, so that Rimuru could reach it from his chair without getting up. It was exactly the size of a slime.
+
+The first time Rimuru came over to try it, Umaru saw him and shouted, at the top of her voice:
+
+"*AGENT BIRD!*"
+
+Rimuru stopped dead.
+
+Then, without a word, he turned around and walked out of the common room.
+
+Umaru went white. "He's angry," she said. "I broke diplomatic relations. I've started a war with the *honorary*—"
+
+Ten minutes later he came back.
+
+He was in slime form, and he was wearing a very small black coat with a high collar. On the lapel was a square of white paper with AGENT on it in Coco's best hand. He had kept it, it turned out, folded at the back of a drawer in his office, ever since the storm.
+
+He crossed the common room with great dignity, climbed into the bowl, settled, and said:
+
+"The bird is singing."
+
+The fort lost its mind.
+
+
+
+Frieren was offered citizenship too, on the second evening, when she passed the doorway on her way to the kitchen for Mau's tea.
+
+She stopped and looked at the fort for a long time. At the Beam. At the flag. At Seiko on her high seat and Turbo Granny on the roof of the booth and the slime in the bowl.
+
+"I'll consider it," said Frieren.
+
+"How long?" said Umaru.
+
+Frieren thought about it seriously.
+
+"Give me a hundred years," she said, and went on to the kitchen.
+
+Umaru went into the annex and put a seventh slip of paper on the floor beside the six NEXT cushions. It said: FRIEREN (CONSIDERING). Nobody moved it.
+
+
+
 Last of all, when the frame was up and the cushions were in and the curtains were hung and the flag was flying from a broom handle at the peak of the roof, Umaru went into the annex alone with an armful of cushions.
 
 She laid them out along the far wall. There were six, side by side, plumped and straight, with nobody on them. In front of each one she put a small slip of paper. Each slip said only:
@@ -195,13 +251,13 @@ Then she came out and pulled the curtain closed behind her.
 
 
 
-That night the fort held twenty-four people, and there was room.
+That night the fort held twenty-nine citizens, an elder on a high seat, a granny on the roof of the toll booth and a slime in a bowl, and there was room.
 
 There was room for Milim, who stood up straight under the Milim Beam, under the peak of the roof, with the broom handle of the hamster flag just brushing her hair. She stood there for a long time, for no reason at all except that she could. There was room for Richeh's feet, and room for Ryo not to sleep in the toll booth. There was room for Mai to sit near the middle without looking as if she had decided to. There was room for Rem to sit between Ori and Coco without anyone moving. And there were six cushions in the annex with NEXT in front of them.
 
 Kusuri shook the little jars, and the fort lit up soft green from the inside.
 
-Down the corridor, in the room with the east window, Mau lay in bed and listened to the noise of twenty-four people trying to be quiet. It came faintly through two walls. Frieren, in the chair beside him, turned a page.
+Down the corridor, in the room with the east window, Mau lay in bed and listened to the noise of twenty-nine people trying to be quiet. It came faintly through two walls. Frieren, in the chair beside him, turned a page.
 
 "What are they doing?"
 
@@ -216,3 +272,27 @@ Mau looked at the ceiling.
 "There's a nation now?"
 
 "There's going to be an election," said Frieren.
+
+
+
+Rimuru came in late, still in slime form, still in the coat.
+
+He went across the floor toward the closet and the ladder to the loft, and stopped at the foot of it, and looked at the closet for a while.
+
+"I keep leaving my things in the office," he said. "The sash. Now this." He looked down at the coat. "I was going to ask you. A while ago. About the closet. Whether we could extend it. A shelf, up here, for me." He did not say *on the night of the bay*. He had been in the middle of asking Ciel, that night, when she had gone silent. He did not say that either.
+
+Mau looked at him from the bed.
+
+"Yes," he said.
+
+"Yes?"
+
+"In the real house. Wakana's drawing a closet anyway. Put a shelf in it with your name on it." Mau shifted against the pillows. "For now, take half of mine."
+
+"Half?"
+
+"Half," said Mau.
+
+"A third," said Frieren, without looking up from her book.
+
+Rimuru took a third. He put the sash on it, folded, and the small black coat beside it, folded, and looked at them for a long moment. It was the first shelf he had ever had in this house.

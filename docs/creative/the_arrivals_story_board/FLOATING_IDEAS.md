@@ -133,11 +133,11 @@ Claude's notes (options, not decisions):
 
 **The beats (creator):**
 - She arrives later, in real time, not as a flashback. She starts **spending time with the deer**, and the deer tell her about Mau.
-- One day she turns up at the inn **with deer**. Mau, put on the spot and not knowing what to say, offers that "Yuta said so". (Claude's reading of "mau diciendo que se lo dijo yuta sin saber qué decir"; confirm.)
+- One day she turns up at the inn **with deer**: a woman with antlers. Yuta sees Mau looking at her. Mau: "**I told you they were up to something.**" And Yuta, **for the first time, says nothing.** (Creator, confirmed. Canon payoff: V16 "Frierennnnn": "I kept talking about the deer, and Yuta kept telling me to stop.")
 - She stays a week. Then she says she has to go back to her world. "You can *do* that?" Coming here was an accident. She can make the return **only once**, but if she ever comes back, **they should have her deer crackers ready**. She takes off the head part, leaves them a stash, and goes. Karane: "*What the hell, how is that even possible?*"
 - **The explanation is her source's toon force**, so ridiculous that nobody understands it. Ciel reports that Construction tried to analyze it and apparently got more questions than results. **So nobody should expect Mau to start doing that.**
 
 **Claude's notes (proposals):**
-- **Protect the weight of Return/Stay.** Frame her exit as a one-off absurdity of *her* source, not a door anyone else can use. She can't take anyone with her, Analyze can't learn it, and Fern can note in the ledger that it is "not a precedent". Otherwise the S4 window and the coins lose their cost.
-- **Timing:** after the S4 peace volume at the earliest (zero arrivals in the first month). It works as a comic breather inside a heavier arc.
+- **Protect the weight of Return/Stay.** *(Creator: APPROVED, "eso es lo que quiero".)* Frame her exit as a one-off absurdity of *her* source, not a door anyone else can use. She can't take anyone with her, Analyze can't learn it, and Fern can note in the ledger that it is "not a precedent". Otherwise the S4 window and the coins lose their cost.
+- **Timing:** *(Creator, 2026-10-08: still considering whether to bring her in at all, but if yes, a **strong candidate for the first episode after the S4 peace volume**.)* The peace month has zero arrivals, so she would be among the first after it, and the comic opening contrasts with what follows.
 - **The deer stays a mystery.** Nokotan can talk to the deer, but the story never explains *the* deer. It keeps "maybe it followed you home".

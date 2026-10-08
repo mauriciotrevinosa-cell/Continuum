@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 43 — It Passes
+## Chapter 48 — It Passes
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 43  
+**Reading order:** 48  
 **Continuity state:** Noise overload resolves after eleven hours | No containment, disappearance or memory collapse | Protocol updated from lived evidence
 
 Eleven hours.

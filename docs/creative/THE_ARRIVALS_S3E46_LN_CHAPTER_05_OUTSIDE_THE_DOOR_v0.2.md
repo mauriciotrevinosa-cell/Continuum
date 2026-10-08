@@ -58,6 +58,8 @@ Ori came, and sat down on Frieren's other side, the side Milim was not on, and l
 
 Nobody else came down that corridor.
 
+Outside, at the far edge of the yard, two figures stood in the dark under the agreement and did not come any closer. The witches. Nobody had sent for them. They stayed for two days.
+
 That was the house's doing. Nobody had decided it out loud. But somewhere in the first night, the whole household had understood that the corridor outside the bay was not a place for crowds. It was for the few people Frieren could bear. Everyone else kept the rest of the house going. They cooked, and fed the refuge, and answered the bridge, and held the fort in the common room in shifts. They walked past the turn of the corridor to the bay without looking down it, because looking was not what helped.
 
 The fort did not empty for two days. Without anyone deciding it, it became the place the rest of the house reported to. Marin and Hakari's group ran the kitchen with Momo in shifts. Karane complained about every shift and worked every one of them. The Witch Hat girls kept every lamp in the family wing filled, and Agott checked each one twice as if the lamps had personally failed her. Kessoku carried water and messages. Once, when Bocchi could not stand the quiet any longer, they played something in the common room so softly that it might have been the house breathing. Anko kept the fort's log, which recorded nothing except who had eaten and who had not. And Rem went back and forth between the fort and the corridor with tea, all day and all night. She was one of the only people who belonged in both.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 30 — Morning After
+## Chapter 35 — Morning After
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 30  
+**Reading order:** 35  
 **Continuity state:** Morning after Last Defense | Immediate survival succeeded | Rumor begins forming around Mau classification error
 
 Morning smelled like wet ash.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 28 — Aira Broke It
+## Chapter 33 — Aira Broke It
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 28  
+**Reading order:** 33  
 **Continuity state:** Suppression field down | Western battle resolving unevenly | Evidence recovery begins before victory mythology hardens
 
 By the time the story reached the western line, Mau had destroyed the suppression field.

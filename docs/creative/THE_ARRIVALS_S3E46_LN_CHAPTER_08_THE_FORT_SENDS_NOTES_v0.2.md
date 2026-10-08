@@ -172,6 +172,8 @@ Rem did not say anything about them. She kept every one.
 
 
 
+Every second week, at the agreed bell, the witches came and stood in the garden under the east window, because Maomao would not let them in. Frieren opened the window, and they asked their questions up through it, and he answered from the bed. Their hour, kept.
+
 On the sixth night, Frieren slept in the bed again.
 
 She had slept in the chair for five nights. She had sat beside the bed and held his hand across the gap, and slept with her head on her own arm, and woken up stiff and not complained. On the sixth night, she put her book down and stood up, stood looking at the bed for a long moment, and got in. She lay on the side away from the dressing, very carefully, with one hand on his arm and the rest of her not touching him at all.

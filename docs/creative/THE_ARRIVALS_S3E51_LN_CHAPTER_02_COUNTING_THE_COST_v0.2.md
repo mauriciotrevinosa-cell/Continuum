@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 31 — Counting the Cost
+## Chapter 36 — Counting the Cost
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 31  
+**Reading order:** 36  
 **Continuity state:** Post-defense Day 1 | Damage accounting before blame | Recovery distributed across multiple communities
 
 The first post-defense council meeting began with a rule.

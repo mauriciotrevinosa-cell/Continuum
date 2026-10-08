@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 34 — The Worldless Man
+## Chapter 39 — The Worldless Man
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 34  
+**Reading order:** 39  
 **Continuity state:** Post-defense Day 3 | Mau classification rumor spreads | Public correction without mythic counterclaim
 
 The title appeared on a wall before anyone admitted it was a title.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 36 — The Device Came With Building Material
+## Chapter 41 — The Device Came With Building Material
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 36  
+**Reading order:** 41  
 **Continuity state:** Post-defense investigation | Physical sabotage traced through supply chain | Common source increasingly likely, not proven
 
 Anko started with stone.

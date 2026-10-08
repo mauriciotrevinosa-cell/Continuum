@@ -4,7 +4,7 @@
 **Volume:** 18  
 **Season:** 3  
 **Volume title:** **Last Defense**  
-**Chapter count:** 45
+**Chapter count:** 50
 
 | # | Chapter |
 |---:|---|
@@ -24,39 +24,44 @@
 | 14 | Fifteen Minutes |
 | 15 | The Drill |
 | 16 | The Second Drill |
-| 17 | The Road Reports Stop |
-| 18 | The Western Demand |
-| 19 | First Alarm |
-| 20 | Negotiation at the Edge |
-| 21 | The Monster Wave |
-| 22 | Evacuation |
-| 23 | Last Defense Front |
-| 24 | Outer Line |
-| 25 | It Fails Correctly |
-| 26 | Unknown Inside |
-| 27 | Under the Refuge |
-| 28 | Aira Broke It |
-| 29 | The Night Between |
-| 30 | Morning After |
-| 31 | Counting the Cost |
-| 32 | The Story Was Ready |
-| 33 | Sukuna Hears They Survived |
-| 34 | The Worldless Man |
-| 35 | Leadership After the Front |
-| 36 | The Device Came With Building Material |
-| 37 | Who Watered It |
-| 38 | Cut the Real Cloth |
-| 39 | Threshold |
-| 40 | Protocol |
-| 41 | Kaneki Knows This Part |
-| 42 | Ori Knows Where the Door Is |
-| 43 | It Passes |
-| 44 | The Voice Around Ori |
-| 45 | She Is Not Your Mouth |
+| 17 | The Birthday Board |
+| 18 | A Free Day to Do Nothing |
+| 19 | One Day Pass |
+| 20 | The Grimoire |
+| 21 | Frieren's Birthday |
+| 22 | The Road Reports Stop |
+| 23 | The Western Demand |
+| 24 | First Alarm |
+| 25 | Negotiation at the Edge |
+| 26 | The Monster Wave |
+| 27 | Evacuation |
+| 28 | Last Defense Front |
+| 29 | Outer Line |
+| 30 | It Fails Correctly |
+| 31 | Unknown Inside |
+| 32 | Under the Refuge |
+| 33 | Aira Broke It |
+| 34 | The Night Between |
+| 35 | Morning After |
+| 36 | Counting the Cost |
+| 37 | The Story Was Ready |
+| 38 | Sukuna Hears They Survived |
+| 39 | The Worldless Man |
+| 40 | Leadership After the Front |
+| 41 | The Device Came With Building Material |
+| 42 | Who Watered It |
+| 43 | Cut the Real Cloth |
+| 44 | Threshold |
+| 45 | Protocol |
+| 46 | Kaneki Knows This Part |
+| 47 | Ori Knows Where the Door Is |
+| 48 | It Passes |
+| 49 | The Voice Around Ori |
+| 50 | She Is Not Your Mouth |
 
 ## Opening arc: the reversion night (#1–#7), 2026-10-07
 
-A week after the council, Mau's own pattern decides the walls are an injury and reverts his body toward the moment after Sukuna. Two days in the bay, then the morning he wakes. The house's one unanimous rule follows. #8 "The Fort Sends Notes" covers the two weeks in bed: the pack, with Rem as its agent (DH-031). #9 "The Fort Is Too Small" and #10 "Madam President" fall inside the same weeks: the pack's fort is rebuilt for twenty and gets a constitution (DH-034). #11 "The Fifth Name" (day 14) lets Yuta back in (DH-037). The bridge at the top of #12 sums up the two weeks, and two more weeks indoors run alongside the early V18 investigation. #13 "First Day Out" is his first public walk on day 29 (DH-032). #14 "Fifteen Minutes" is the next day: Frieren and Fern's day out, the hamburg steak, and Fern and Stark becoming official (DH-033). See `the_arrivals_story_board/DECISION_HISTORY.md` DH-029 and containment lock §3E.
+A week after the council, Mau's own pattern decides the walls are an injury and reverts his body toward the moment after Sukuna. Two days in the bay, then the morning he wakes. The house's one unanimous rule follows. #8 "The Fort Sends Notes" covers the two weeks in bed: the pack, with Rem as its agent (DH-031). #9 "The Fort Is Too Small" and #10 "Madam President" fall inside the same weeks: the pack's fort is rebuilt for twenty and gets a constitution (DH-034). #11 "The Fifth Name" (day 14) lets Yuta back in (DH-037). The bridge at the top of #12 sums up the two weeks, and two more weeks indoors run alongside the early V18 investigation. #13 "First Day Out" is his first public walk on day 29 (DH-032). #14 "Fifteen Minutes" is the next day: Frieren and Fern's day out, the hamburg steak, and Fern and Stark becoming official (DH-033). #17–#21 are the last slice before the road reports stop: the Birthday Board, Rimuru's free day, the witches' One Day Pass, the grimoire, and Frieren's birthday (DH-040). See `the_arrivals_story_board/DECISION_HISTORY.md` DH-029 and containment lock §3E.
 
 ## Creator-revision enemy-pressure expansion — 2026-10-04
 

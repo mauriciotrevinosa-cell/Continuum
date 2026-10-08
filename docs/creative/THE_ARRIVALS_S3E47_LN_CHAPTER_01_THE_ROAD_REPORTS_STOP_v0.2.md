@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 17 — The Road Reports Stop
+## Chapter 22 — The Road Reports Stop
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 17
+**Reading order:** 22
 
 The first bad sign was silence.
 

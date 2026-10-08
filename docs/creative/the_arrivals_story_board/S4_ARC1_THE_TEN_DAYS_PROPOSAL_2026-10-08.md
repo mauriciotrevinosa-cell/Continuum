@@ -173,3 +173,17 @@ Each is chosen because it answers something the story has already shown it needs
   - the second community;
   - the token arrivals' integration;
   - Analyze's new arsenal and its limits.
+
+## CREATOR DECISIONS, round 2 (2026-10-08)
+1. **Placement rule for people:** if Claude is not sure a person belongs somewhere, Claude **asks the creator**. Claude never brings a person in from nowhere.
+2. **Coins do not expire. Agreed.** Framing (creator): **they are the Trial's prize, what Mau spent millennia to win.** Write them with that weight. The household knows what each coin cost him.
+3. **Zero new arrivals in the first month** (the talk plus the peace volume). People hold their coins. "Has anyone decided?" becomes a household question, and that gives the story time to choose well. **Claude's slate is PROVISIONAL**: Heiter, Eisen, Luomen, Chrome and Gojo are kept, not scheduled.
+   - **Canon note, Heiter:** if he ever arrives, his priestly magic comes from his world's Goddess, so in Continuum **his only power is an indomitable liver.**
+
+### V19-thread calls, revised for "zero arrivals in the first month"
+- **Coco** keeps her coin. She knows whose name she would choose, and she is afraid it would bring her mother *as she was*. She starts reading in Greed's library at the end of the volume. The library is her reason to wait.
+- **Rem** gets "not this time" for the dead. Late in the volume she gives her coin to Ori, unasked. A transfer, not a spend. Her stage completes.
+- **Kaneki** holds his coin. He tells one person (Eren, against the wall) the name, Hide, and nobody else.
+- **Kusuri** holds hers. Her fear that the person will refuse stays live.
+- **Maki** writes her petition and keeps it in her pocket, unfired. It is still unfired at the end of the volume.
+- **Yuta** keeps his coin in his sword case and says nothing. The white-haired signal stays a signal.

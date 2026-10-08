@@ -124,3 +124,21 @@ Claude's notes (options, not decisions):
 - **It diverges from the source on purpose.** In Re:Zero canon Envy's love is presented as real. Here, Envy's love was envy of the love he gave others. That is the creator's reading, and it is consistent with the witches as sins in this LN.
 - **Dependencies:** the witches are named individually only from the S4 peace-volume finale. Envy is the quiet one who kept her ONE DAY PASS (V18). Greed is the woman in black who keeps every book (V18 "The Grimoire").
 - **Continuum and Subaru's power.** If Envy removes RbD, it also matters that the Trial and Return by Death are the same shape (dying and going back). Mau, Rimuru (Chloe) and Subaru would be three people who know loops. That is a strong future roof conversation, if wanted.
+
+
+## Nokotan and the deer (creator seed, 2026-10-08): only if Nokotan is ever introduced
+**Conditional.** *My Deer Friend Nokotan* is **not in the franchise pool** (`docs/CONTINUUM_FRANCHISE_MASTER_POOL_v0.2.md`). If the creator approves her, add the franchise to the pool first (the franchise-strings invariant reads that table).
+
+**The callback.** The deer that has followed Mau since the first month: the north trail, Frieren's "maybe it followed you home", "I think it was you" (V16), the coast road (V17), and the falls in V20 "The Pages".
+
+**The beats (creator):**
+- She arrives later, in real time, not as a flashback. She starts **spending time with the deer**, and the deer tell her about Mau.
+- One day she turns up at the inn **with deer**. Mau, put on the spot and not knowing what to say, offers that "Yuta said so". (Claude's reading of "mau diciendo que se lo dijo yuta sin saber qué decir"; confirm.)
+- She stays a week. Then she says she has to go back to her world. "You can *do* that?" Coming here was an accident. She can make the return **only once**, but if she ever comes back, **they should have her deer crackers ready**. She takes off the head part, leaves them a stash, and goes. Karane: "*What the hell, how is that even possible?*"
+- **The explanation is her source's toon force**, so ridiculous that nobody understands it. Ciel reports that Construction tried to analyze it and apparently got more questions than results. **So nobody should expect Mau to start doing that.**
+
+**Claude's notes (proposals):**
+- **Protect the weight of Return/Stay.** Frame her exit as a one-off absurdity of *her* source, not a door anyone else can use. She can't take anyone with her, Analyze can't learn it, and Fern can note in the ledger that it is "not a precedent". Otherwise the S4 window and the coins lose their cost.
+- **Timing:** after the S4 peace volume at the earliest (zero arrivals in the first month). It works as a comic breather inside a heavier arc.
+- **The deer stays a mystery.** Nokotan can talk to the deer, but the story never explains *the* deer. It keeps "maybe it followed you home".
+"""

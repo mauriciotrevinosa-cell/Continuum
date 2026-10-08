@@ -161,3 +161,15 @@ Each is chosen because it answers something the story has already shown it needs
 - **Maomao's coin: Luomen**, her adoptive father and a master physician. It turns the medical room into a clinic, and gives Maomao someone she cannot out-know.
 - **Senku's coin: Chrome**, his science partner. Senku would pick the most useful person and pretend it was only logic.
 - **Yuta's coin: Gojo.** This is the headline option and a big creator decision. Yuta "left him alone in front"; bringing him here means nobody is alone in front again. It also pays off the white-haired fighter in Mau's Trial memory and the signal that Analyze carries the pattern. Constraints: `FLOATING_IDEAS.md` (Gojo after Sukuna; the path to a new Hollow Purple) and the fact that Sukuna is alive in Continuum. Gojo could also be *saved for later* with Yuta's coin held in reserve. That is itself a strong signal for the peace volume.
+
+## Creator, 2026-10-08: the V16 Plaza breach is paying off, and what comes after the peace
+- **The Plaza breach (DH-024) is taking effect.** People stop coming, people are afraid, and they have already been attacked (Last Defense). Ring Four's Return is not only about homesickness: it is fear that accumulated since the plaza, and the window gave them a door. Write the departures with that cause visible: the merchant who moved his stall, the mother who called her son back, "Monster town".
+- **After the peace volume: expand the world and start closing gaps.** The next movement of S4 opens the map (beyond the river towns, the second community and the western authority) and works through open threads deliberately rather than adding new ones by default. Candidates already on the board:
+  - the anti-Otherworlder framing and its unidentified source (V17–V18);
+  - the "let me out" voice;
+  - Sukuna and the wheel;
+  - the native peoples' stories (the lightning man);
+  - the registry and exploration seeds (`FLOATING_IDEAS.md`);
+  - the second community;
+  - the token arrivals' integration;
+  - Analyze's new arsenal and its limits.

@@ -45,3 +45,16 @@ These are listed so nobody has to rediscover them. Using any of them is the crea
 
 - **What makes S4 different from S2 and S3.** S2 asked whether they could forgive what Mau did. S3 asked whether they could endure what happened to him. S4 could ask whether they can reach someone who keeps choosing not to speak. That keeps the suffering from being the same kind again.
 - **Keep the household's ordinary life visible** inside the hurt, as S3 did. Slice of life is still first.
+
+## Creator idea, 2026-10-07: Mau away from the settlement for two days at the start of S4
+
+The creator had planned for Mau to leave the settlement for two days early in S4. After reading the V18 reversion arc ("Both of Us", DH-029) he asked: "with what heart can I do that now?"
+
+Claude's notes (proposals, not decisions):
+- **The weight is the point.** S4's first part "must hurt", and its root is Mau's silence. After the reversion arc every promise is on the table: "both of us", "I won't decide alone again" (S2), Ori's "tell me first" and Umaru's "put it down". Two days away will hurt for the right reasons.
+- **The question is how he leaves, not whether.**
+  - With a note, without telling anyone: this repeats an S3 pattern too closely. The creator's own rule is that S4 must not repeat a pattern mechanically.
+  - **Telling them he is going and that he will be back in two days, but not why** (Claude's lean): it keeps the letter of the promises and breaks their spirit. That is exactly the silence S4 is about. He comes back on day two as promised, and the *why* becomes the knot.
+  - Sent by someone ("go and breathe"): the gentlest version, the mirror of V18 "Fifteen Minutes". Probably too soft for S4's opening.
+- **Frieren's two days are the real chapters.** This is the first test of what she learned in the bay: "You have to trust them. I know you've never had to before." Waiting without breaking would show her growth. Breaking anyway is also honest. Whether her panic attack recurs is the creator's call (DH-029).
+- Who holds her: the pack, Fern (with Stark now), Milim, Rimuru. Rimuru will know something through Ciel's daily look, which raises the question of whether Ciel tells *him* or keeps faith with Mau.

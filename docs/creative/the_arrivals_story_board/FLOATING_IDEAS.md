@@ -107,3 +107,20 @@ Claude's notes (options, not decisions):
 - **The public cost is the real damage.** In front of outsiders it hands the hostile story its proof ("monster town") and breaks the house's line ("a summon he is still training", V17 "The Rings"). The stakes are high without any world-ending power.
 - **The attacker** works best small and human: someone from the anti-Otherworlder side, a delegate's guard or a mercenary. That keeps the disproportion visible and the morality messy. Mau must stop short, or be stopped short.
 - **Placement:** Claude leans **S4**. S3 is full and time-budgeted to end at about two years. In S4, where Mau "conforms and stays silent", one moment where he doesn't would be the crack. The creator has his own S4 opening tone, so this is a seed, not a slot.
+
+
+## Subaru and the witches (creator seed, 2026-10-08): only if Subaru is ever introduced
+**Conditional.** Subaru's arrival is not decided. This is only what happens *if* he comes. It belongs after the witches' new contract at the end of the S4 peace volume (library, agriculture administrator, the ones who simply live there), because the scene depends on it.
+
+**The scene (creator):**
+- **Greed** explains that they don't want him anymore. "Before, you thought we only thought about *you*." The witches agree: in that world he was the exception, not from that world, like someone four hundred years before him. **Here he's normal.**
+- Subaru tries to protest. One of them: "You're so egocentric you believed Envy really loved you. We're witches. We are capital sins. **Envy envied the love you gave everyone else**, and did what she did because she wanted the same affection."
+- Then someone says it: "**Here, our treasure always listened to us.**" Mau never threw a tantrum and never made it about himself. He listened twice a month without complaint, and sometimes gave more than agreed on one day because on another he'd felt bad and couldn't go on (canon: V15 "you owe us two"). "You'd have justified it and thrown yourself into the drama. He lived what you lived, and for longer (the Trial's 437 against Return by Death), and he never used it as an excuse to complain. He apologized to the others." And when they told him their problems (Greed wanting to know everything, Envy, all seven), "**he didn't ignore us or tell us we were wrong. He listened, and gave us a place where we can have what we want. You'd have found a way to take ours away.**"
+- **Envy tells Subaru that his Return by Death no longer exists. She takes his curse away.**
+
+**Claude's notes (proposals, not decisions):**
+- **Keep it fair to Mau.** Mau's flaw was never tantrums. It was silence and deciding alone (the fourth draft, the road south). The witches can say "he did it, and then he told everyone and apologized", which is harder and truer than "he never failed". Otherwise the comparison makes Mau a saint, and Subaru a straw man.
+- **Keep Subaru human.** The scene is the witches' sins speaking: Greed's need to know, Envy's envy. It is not the story declaring him worthless. He should leave the scene hurt and *freed*, not just humiliated. Removing RbD is a gift as well as a verdict.
+- **It diverges from the source on purpose.** In Re:Zero canon Envy's love is presented as real. Here, Envy's love was envy of the love he gave others. That is the creator's reading, and it is consistent with the witches as sins in this LN.
+- **Dependencies:** the witches are named individually only from the S4 peace-volume finale. Envy is the quiet one who kept her ONE DAY PASS (V18). Greed is the woman in black who keeps every book (V18 "The Grimoire").
+- **Continuum and Subaru's power.** If Envy removes RbD, it also matters that the Trial and Return by Death are the same shape (dying and going back). Mau, Rimuru (Chloe) and Subaru would be three people who know loops. That is a strong future roof conversation, if wanted.

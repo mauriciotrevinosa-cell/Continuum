@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 22 — Under the Refuge
+## Chapter 23 — Under the Refuge
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 22  
+**Reading order:** 23  
 **Continuity state:** Last Defense active | Suppression device discovered beneath central refuge | Cross-system weakening spreads
 
 The unknown signature was not a person.

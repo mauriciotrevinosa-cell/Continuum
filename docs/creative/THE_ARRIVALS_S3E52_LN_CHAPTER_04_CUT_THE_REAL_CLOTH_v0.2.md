@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 33 — Cut the Real Cloth
+## Chapter 34 — Cut the Real Cloth
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 33  
+**Reading order:** 34  
 **Continuity state:** Rebuild weeks, after the memorial | The real house is drawn, not built: two floors, a cellar, two exits under every section, a room with no name
 
 Wakana took the board down three weeks after the memorial.

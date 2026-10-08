@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 12 — The Road Reports Stop
+## Chapter 13 — The Road Reports Stop
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 12
+**Reading order:** 13
 
 The first bad sign was silence.
 

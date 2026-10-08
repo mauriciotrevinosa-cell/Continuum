@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 40 — She Is Not Your Mouth
+## Chapter 41 — She Is Not Your Mouth
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 40  
+**Reading order:** 41  
 **Continuity state:** Day after first intrusion | Second anomaly addresses Ori directly | Ori asserts independence | Trial has not begun
 
 They moved dinner the next day.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 24 — The Night Between
+## Chapter 25 — The Night Between
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 24  
+**Reading order:** 25  
 **Continuity state:** Night after Last Defense | Household sleeps in the common room | One Searcher still unresolved
 
 Nobody decided that the household would sleep in the common room.

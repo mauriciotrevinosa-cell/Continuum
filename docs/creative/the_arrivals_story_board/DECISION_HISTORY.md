@@ -549,3 +549,11 @@ Creator: the point of the fort is "the girlies". It starts as the sisters and gr
 
 - V18 "The Fort Is Too Small": Momo, Maomao and Mikasa join. Seiko has her high seat; Turbo Granny sits on the roof. Rimuru's bowl gets **"AGENT BIRD!"** (from "the bird is singing", V16 "Agents"); he returns in the slime-sized agent coat. **Frieren: "I'll consider it. Give me a hundred years."** That is deliberately open, with the creator to decide. **The closet:** "Yes. In the real house... For now, take half of mine." / "A third," says Frieren. It is Rimuru's first shelf in the house, for the sash and the coat. This pays off his unasked question from the bay night ("Say It Again").
 - V18 "Madam President": 29 voters. Seiko votes and tells nobody. Turbo Granny writes herself in (spoiled). The result is **14–13 with two spoiled**. Aira joins after, for 30 citizens. The S4 counts are updated.
+
+## DH-039 — "Fifteen Minutes" moves to the Muslin; the old inn is hours away (creator catch, 2026-10-08)
+
+The old inn is **hours by road** from the Muslin (V15 "The Appointment": "Hours by road"). So a fifteen-minute run from the inn to the room with the east window was teleportation. The creator: "hazlo en la cocina del Muslin."
+- V18 "Fifteen Minutes": Mau borrows **Momo's kitchen** for one afternoon ("You break my good pan, you buy me a new one"). The run is down the family corridor. Dinner is in the **common room**, at a small table by the window. **The fort sees them from the fort**, as the creator first imagined. Operation Recruitment pulls them **into the fort**, and Seiko rules from **her high seat**.
+- S4 knock-ons are fixed: "Two Days of Punishment" (Momo's kitchen); "The House Without Him" (the cooper finds Rem, over from the inn with notes); "We Still Got a Frieren" (chairs from Arrival House, not the inn).
+- DH-033's "the old inn" details are superseded by this entry.
+- **Rule:** the old inn is a trip. People go there for a morning or a day, with reasons, never for a quick errand.

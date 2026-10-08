@@ -22,7 +22,7 @@ Rumor number seven had arrived the night before, from the river towns, faster th
 
 By noon, three people in the line had stopped to read the contract. One of them was the cooper from the river towns.
 
-He read it twice. Then he went to the old inn and asked Rem whether there was any news, and Rem said *here*, and he nodded and went back to the line.
+He read it twice. Then he found Rem, who had come over from the old inn that morning with a satchel of travelers' notes for Arrival House, and asked her whether there was any news, and Rem said *here*, and he nodded and went back to the line.
 
 
 

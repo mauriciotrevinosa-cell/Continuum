@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 14  
-**Continuity state:** Day 30 | Mau sends Fern and Frieren out for the day | Mau and Stark make hamburg steak at the old inn, Momo supervises the pudding: 'Sorry for scaring you' | Fern and Stark become official | Operation Recruitment: Frieren becomes the fort's SISTER-IN-LAW, AGENT MIMIC | next morning: 'it was the chocolate'
+**Continuity state:** Day 30 | Mau sends Fern and Frieren out for the day | Mau and Stark make hamburg steak in Momo's kitchen at the Muslin, Momo supervises the pudding: 'Sorry for scaring you' | Fern and Stark become official | Operation Recruitment: Frieren becomes the fort's SISTER-IN-LAW, AGENT MIMIC | next morning: 'it was the chocolate'
 
 Mau found Fern that evening in the common room, mending a sleeve.
 
@@ -94,9 +94,9 @@ Fern had known Frieren for most of her life, and she knew this expression very w
 
 
 
-Meanwhile, at the old inn, dinner was going badly.
+Meanwhile, in the Muslin's kitchen, dinner was going badly.
 
-Mau had chosen the old inn on purpose. The Muslin's kitchen was too busy to keep a secret in, and Rem had said yes before he had finished asking. It was also where the household had first eaten together, a long time ago, before there was a house or a settlement or anything to protect. It seemed like the right kitchen.
+Nobody cooked in Momo's kitchen without Momo. That was not a rule anyone had written down; it was simply a law of nature, like weather. Mau had asked her for it anyway, for one afternoon, the evening before. Momo had looked at him for a long time with her arms folded, and then at the dressing he still wore under his shirt, and had said, "One afternoon. You break my good pan, you buy me a new one." It was the kitchen the whole house ate from every day. It seemed like the right kitchen.
 
 He had chosen hamburg steak on purpose too. He had asked Stark how to make it properly, because the one time the house had tried, back in the first weeks after Stark arrived, it had come out *approximately*. Stark had eaten it anyway, with his eyes watering, and had said that was not why.
 
@@ -140,7 +140,7 @@ Stark had also, somewhere around the second attempt, quietly started making a se
 
 Frieren and Fern came back an hour before sunset. They were early.
 
-Fern walked straight into the old inn's kitchen before anyone could stop her, and stopped.
+Fern walked straight into the kitchen before anyone could stop her, and stopped.
 
 Stark was at the stove. He had flour in his hair and on his face, and his sleeves were rolled to the elbow. He was holding a pan over the flame with the absolute concentration of a man defusing something, while a hamburg steak hissed in it. It was the fourth attempt, and it was going well. He looked up, saw Fern in the doorway, and went white with horror.
 
@@ -160,9 +160,9 @@ Frieren was waiting in the corridor. She had seen the whole thing over Fern's sh
 
 Frieren took Fern by the wrist and ran.
 
-She did not run often. It was not dignified. But she ran now, out of the old inn and across the plaza toward the Muslin, towing Fern behind her. Halfway across the plaza she grabbed Marin as well, who had been sitting outside the atelier sketching and who came along at once without asking a single question. Momo saw them go past the inn window, untied her apron, and followed, because whatever was happening was obviously gossip and she was not going to miss it.
+She did not run often. It was not dignified. But she ran now, out of the kitchen and across the common room and down the family corridor, towing Fern behind her. Halfway across the common room she grabbed Marin as well, who had been sitting at the long table sketching and who came along at once without asking a single question. Momo, in the kitchen doorway, saw them go, untied her apron, and followed, because whatever was happening was obviously gossip and she was not going to miss it.
 
-They reached the room with the east window with eleven minutes left.
+They reached the room with the east window with thirteen minutes left.
 
 "Something cute," said Frieren to Marin. "For Fern. Now."
 
@@ -214,9 +214,9 @@ Momo laughed so hard she had to sit down on the bed.
 
 They were back in fourteen minutes.
 
-The old inn's dining room had been set: one table by the window, with four places and a candle, which was Rem's doing. The plates were already out. The hamburg steaks were, everyone agreed afterward, far better than anyone had any right to expect. Round, brown, holding together, glazed with something Stark would not name. On Frieren's plate sat the lopsided pudding, with its note.
+The common room had been set: a small table by the window, apart from the long one, with four places and a candle, which was Rem's doing. The plates were already out. The hamburg steaks were, everyone agreed afterward, far better than anyone had any right to expect. Round, brown, holding together, glazed with something Stark would not name. On Frieren's plate sat the lopsided pudding, with its note.
 
-The failed attempts had been arranged on two great platters on the long table in the middle of the room. There were a great many failed attempts. At some point in the last hour, word had got out, and the household had come. Not all of it, and not all at once, but enough to fill the old inn's long tables the way they used to be filled, long ago, in the first weeks. They were eating the failed attempts with every sign of enjoyment, and Senku was explaining to Suika exactly why attempt number two had burned.
+The failed attempts had been arranged on two great platters on the long table in the middle of the room. There were a great many failed attempts. At some point in the last hour, word had got out, and the household had come in from wherever it had been. Not all of it, and not all at once, but enough to fill the long table and the benches and the floor, the way the common room filled on the best nights. They were eating the failed attempts with every sign of enjoyment, and Senku was explaining to Suika exactly why attempt number two had burned.
 
 Frieren sat down and read the note.
 
@@ -238,7 +238,7 @@ Fern did not move.
 
 Frieren nudged it again, harder.
 
-And Fern stood up. She crossed the space between them in four steps, took Stark's face in both hands, and kissed him, right there in the middle of the old inn, in front of the long tables and the failed hamburg steaks and Senku and Suika and everybody.
+And Fern stood up. She crossed the space between them in four steps, took Stark's face in both hands, and kissed him, right there in the middle of the common room, in front of the long table and the failed hamburg steaks and Senku and Suika and everybody.
 
 Then she let go. She stood back with her chin up and her face burning and said, very clearly:
 
@@ -258,7 +258,7 @@ Stark swallowed.
 
 "I love you too," he said to Fern. His voice cracked in the middle and he did not care. "Romantically."
 
-Nobody in the old inn said anything.
+Nobody in the common room said anything.
 
 Not one person. Not Momo, not Marin, not Senku, not Suika, not the whole long table of people with their mouths full of failed hamburg steak. They had all heard. They all very carefully went on eating, and looked at their plates, and let it be what it was.
 
@@ -272,13 +272,13 @@ What happened for the rest of the evening, nobody in the household ever describe
 
 Fern and Frieren behaved like girls.
 
-Not behind a door. Not in a room with the curtains shut, the way Frieren had for months. Out loud, in the old inn's dining room, at a table by the window, with the people they loved. Fern leaned against Stark's shoulder and stole food off his plate and laughed at something he said that was not funny. Frieren sat sideways in her chair with her feet in Mau's lap and made him say things twice and corrected him. At one point they caught each other's eye across the table and both giggled, like children who have got away with something.
+Not behind a door. Not in a room with the curtains shut, the way Frieren had for months. Out loud, in the common room, at a table by the window, with the people they loved. Fern leaned against Stark's shoulder and stole food off his plate and laughed at something he said that was not funny. Frieren sat sideways in her chair with her feet in Mau's lap and made him say things twice and corrected him. At one point they caught each other's eye across the table and both giggled, like children who have got away with something.
 
 They did not notice the room. That was the thing. Neither of them noticed, the whole evening, that everyone was there.
 
 The fort noticed.
 
-The fort was at the long middle table, nearly all of it, eating failed hamburg steaks: the President, the Opposition, the Guardian, Seiko on the highest stool the old inn owned, and twenty-odd citizens in a row. They watched Frieren sit sideways in her chair with her feet in Mau's lap. They watched her giggle, actually *giggle*, at something Fern said across the table. Umaru put down her fork.
+The fort was at home, at the north end of the common room, nearly all of it, eating failed hamburg steaks off plates balanced on cushions: the President, the Opposition, the Guardian under the Beam, Seiko on her high seat, Turbo Granny on the roof of the booth, and twenty-odd citizens in a row, watching through the open curtain. They watched Frieren sit sideways in her chair with her feet in Mau's lap. They watched her giggle, actually *giggle*, at something Fern said across the table. Umaru put down her fork.
 
 "Look at her," she said quietly.
 
@@ -286,7 +286,7 @@ Everyone looked.
 
 "That," said Umaru, "is not someone who needs a hundred years to consider it."
 
-She stood up on the bench, in her hood and her sash, and said in a carrying whisper to the whole middle table:
+She stood up on her cushion, in her hood and her sash, and said in a carrying whisper to the whole fort:
 
 "*Operation Recruitment.* Now."
 
@@ -294,9 +294,9 @@ She stood up on the bench, in her hood and her sash, and said in a carrying whis
 
 It took the fort eleven seconds.
 
-Milim went first, because the Guardian always went first. She came round the end of the table, scooped Frieren out of her chair, feet and all, out of Mau's lap, and set her upright on the floor as gently as if she were made of glass. Then Coco and Ori each took one of Frieren's hands. Hakari and Karane took Fern, who was already a citizen and protested that this was redundant, and was overruled. A dozen more closed in around the two of them like a tide. Before either could say a word, the whole knot of them had swept across the dining room and through the kitchen door, and the door swung shut.
+Milim went first, because the Guardian always went first. She came out from under the Beam, crossed the common room, scooped Frieren out of her chair, feet and all, out of Mau's lap, and set her upright on the floor as gently as if she were made of glass. Then Coco and Ori each took one of Frieren's hands. Hakari and Karane took Fern, who was already a citizen and protested that this was redundant, and was overruled. A dozen more closed in around the two of them like a tide. Before either could say a word, the whole knot of them had swept back across the common room and into the fort, and the curtain dropped shut behind them.
 
-Mau and Stark sat at the table by the window and looked at the swinging door.
+Mau and Stark sat at the table by the window and looked at the curtain.
 
 "They took them," said Stark.
 
@@ -306,11 +306,11 @@ Mau and Stark sat at the table by the window and looked at the swinging door.
 
 "No," said Mau. He thought about the fort's constitution, pinned inside the toll booth. *Article 1. Anyone who comes in may stay.* "No. I think we just wait."
 
-They waited. Stark ate the rest of Fern's steak, slowly, staring at the door. Mau ate a dried pear. Somewhere behind the kitchen door, Milim laughed so loudly that a pan fell off its hook.
+They waited. Stark ate the rest of Fern's steak, slowly, staring at the curtain. Mau ate a dried pear. Somewhere behind the curtain, Milim laughed so loudly that the hamster flag fell off its broom handle.
 
 
 
-In the old inn's kitchen, between the stove and the pantry, the fort stood in a ring with Frieren in the middle.
+Inside the fort, under the Beam, the citizens stood in a ring with Frieren in the middle.
 
 "By decree of the President," said Umaru, "the period of consideration is over."
 
@@ -326,7 +326,7 @@ Frieren opened her mouth. Then she closed it again, because it was true.
 
 The ring of girls considered this. It was a genuine point of law. Agott, as the Opposition, looked as though she might be about to make it into a whole procedure.
 
-From the top of a flour barrel by the pantry, where she had installed herself as the highest available seat, Seiko spoke.
+From her high seat against the north wall, Seiko spoke.
 
 "Sister-in-law, then," said Seiko. She waved her paper fan at Frieren, once, as if dismissing a minor inconvenience. "Change her status."
 
@@ -334,7 +334,7 @@ There was a short silence.
 
 Then Frieren laughed.
 
-It came out of her all at once, the way it had been coming out of her all evening, bright and helpless and completely unlike anything anyone in the house had heard from her in the first year they had known her. She put her hand over her mouth and laughed into it, and Fern started laughing too, and then the whole kitchen was laughing, and somebody knocked the second pan off its hook.
+It came out of her all at once, the way it had been coming out of her all evening, bright and helpless and completely unlike anything anyone in the house had heard from her in the first year they had known her. She put her hand over her mouth and laughed into it, and Fern started laughing too, and then the whole fort was laughing, and somebody knocked the flag off its broom handle again.
 
 "Sister-in-law," said Umaru, wiping her eyes, "is approved."
 
@@ -376,7 +376,7 @@ Fern took out a second card. It said *FERN*, and *Status: DUAL CITIZEN*, and the
 
 They gave them back after five minutes. Exactly five; Nano timed it.
 
-The kitchen door swung open and the fort came out in a tide and set Frieren down in her chair, and Fern down in hers beside Stark. Then they all went back to the middle table and their failed steaks as if nothing whatsoever had happened.
+The curtain swung open and the fort came out in a tide and set Frieren down in her chair, and Fern down in hers beside Stark. Then they all went back into the fort and their failed steaks as if nothing whatsoever had happened.
 
 Mau looked at Frieren.
 
@@ -394,7 +394,7 @@ Stark leaned over to Fern. "What happened in there?"
 
 "Diplomacy," said Fern, and stole a piece of his bread.
 
-Later, when the house went back to the Muslin through the cold, Umaru went straight to the fort's annex. She knelt by the seven slips of paper beside the six NEXT cushions and picked up the seventh, FRIEREN (CONSIDERING). She crossed out CONSIDERING and wrote, in her own round letters, SISTER-IN-LAW. Then she put it back where it had been, beside the others, where everybody could see it.
+Later, when the common room had emptied and the lamps were low, Umaru went into the fort's annex. She knelt by the seven slips of paper beside the six NEXT cushions and picked up the seventh, FRIEREN (CONSIDERING). She crossed out CONSIDERING and wrote, in her own round letters, SISTER-IN-LAW. Then she put it back where it had been, beside the others, where everybody could see it.
 
 Even being kidnapped by a fort for five minutes did not make either of them notice, that whole evening, that everyone was there.
 
@@ -402,7 +402,7 @@ Even being kidnapped by a fort for five minutes did not make either of them noti
 
 They noticed in the morning.
 
-It happened at breakfast, in the Muslin, at about the same moment for both of them, and it was terrible to watch. Frieren put down her spoon. Across the table, Fern put down hers. They looked at each other, and then, slowly, around the room, at every single person who had been at the old inn the night before.
+It happened at breakfast, in the Muslin, at about the same moment for both of them, and it was terrible to watch. Frieren put down her spoon. Across the table, Fern put down hers. They looked at each other, and then, slowly, around the room, at every single person who had been in the common room the night before.
 
 Every single person very carefully went on eating.
 

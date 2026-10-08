@@ -74,7 +74,7 @@ And stopped.
 
 They were all there.
 
-All of them. The whole house, and more than the house. The long tables from the common room had been carried out into the middle of the plaza and set end to end, with every bench in the Muslin around them and half the chairs from the old inn. They were covered in food: bread, a great deal of bread, Momo's second-batch bread, and soup steaming in the cold, and something of Maomao's in a jar, and Seiko's pickles, and a mountain of dried pears that could only have come from one stall. Somebody had strung paper stars between the lamp posts. Kessoku was on a crate at one end with their instruments, Ryo asleep against the amplifier that was not an amplifier. Marin was going up and down the tables with an armful of winter coats, putting them on people whether they liked it or not.
+All of them. The whole house, and more than the house. The long tables from the common room had been carried out into the middle of the plaza and set end to end, with every bench in the Muslin around them and half the chairs from Arrival House. They were covered in food: bread, a great deal of bread, Momo's second-batch bread, and soup steaming in the cold, and something of Maomao's in a jar, and Seiko's pickles, and a mountain of dried pears that could only have come from one stall. Somebody had strung paper stars between the lamp posts. Kessoku was on a crate at one end with their instruments, Ryo asleep against the amplifier that was not an amplifier. Marin was going up and down the tables with an armful of winter coats, putting them on people whether they liked it or not.
 
 And all around the tables, eating, arguing, shouting, laughing, was everyone.
 

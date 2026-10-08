@@ -36,7 +36,7 @@ Nobody else moved.
 
 Fifteen minutes.
 
-Afterward, more than one of them would think about that number. Fifteen minutes was what Stark had asked for, at the old inn, with flour on his face. Fifteen minutes, and then Fern had come back in a dress Marin had made, and kissed him in front of everyone. It had been a good number, once. It had been, for a little while, the funniest number in the house.
+Afterward, more than one of them would think about that number. Fifteen minutes was what Stark had asked for, in Momo's kitchen, with flour on his face. Fifteen minutes, and then Fern had come back in a dress Marin had made, and kissed him in front of everyone. It had been a good number, once. It had been, for a little while, the funniest number in the house.
 
 Fifteen minutes after he went down the corridor, the door at the end of it opened again.
 

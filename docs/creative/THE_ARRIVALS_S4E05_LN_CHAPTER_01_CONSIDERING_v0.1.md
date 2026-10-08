@@ -170,7 +170,7 @@ She told him.
 
 
 
-That was all of them. Every one, Mau thought later, from the first ring out to the third. Every one of them went and stood at the door and looked through it, and saw something on the other side that they loved. And every one of them turned around.
+That was all of them. Every one, Mau thought later: the first ring, and the second, and the witches who were the whole of the third, and the people of the fourth who chose to stay. Every one of them went and stood at the door and looked through it, and saw something on the other side that they loved. And every one of them turned around.
 
 Not for him. That was the thing he had to keep remembering, the thing Frieren had made him promise to remember. Not for him. For Kita, and for a case left empty. For a road where you had not done it yet. For a name you would write someday. For a teacher who understood what it cost. For a best friend, or a tree, or a toll sign, or a daughter who would be safer coming here.
 

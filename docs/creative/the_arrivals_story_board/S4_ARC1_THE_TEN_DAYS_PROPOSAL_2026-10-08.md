@@ -196,7 +196,7 @@ Drafted at the creator's go-ahead. Where the prose differs from the proposal abo
 - **Infinity.** It already appeared in the wedding loop (V19 "Everyone Came"), so Frieren's hands stopping a finger's width away in S4 echoes the false Frieren's.
 - **Return mechanics** (Claude, not contradicted by V19): Returners go at sunset on Day 10, wherever they stand. The leavers gather at the bridge, and the boy from the washing court waves.
 - **Coins.** The Goddess at the close: one each, "it does not expire... it may be spent, kept or given... It was purchased... by the one who stood in the Trial." Mau has one too. **Nobody spends one.** Frieren: "Millennia."
-- **Original minor characters, flagged for the creator:** the **cooper** from the river towns (Ring Three; stays; a daughter about 11; coin later), **Lise** (16, came alone over the bridge in summer, helps Rem; stays), the angry young man and the old woman with the cane on the bridge (both Return). These are unnamed or lightly named settlers, not franchise characters. The creator can rename or cut any of them.
+- **Original minor characters, flagged for the creator:** the **cooper** from the river towns (**Ring Four**; stays; a daughter about 11; coin later), **Lise** (16, came alone over the bridge in summer, a guest at the old inn; **Ring Four**; stays), the angry young man and the old woman with the cane on the bridge (both Return). These are unnamed or lightly named settlers, not franchise characters. The creator can rename or cut any of them.
 - **Seeds carried into Volume 21:**
   - the witches are "growing tired of coming" and want to talk about the contract;
   - Coco will wait on her coin "until I find out", with Qifrey's "places nobody's ever thought to look", which points to Greed's library;
@@ -205,3 +205,6 @@ Drafted at the creator's go-ahead. Where the prose differs from the proposal abo
   - Ciel's daily looks;
   - Analyze is building;
   - Maki's unfired petition.
+
+## Creator correction, 2026-10-08: Ring Three is only the witches
+In canon (V17 "The Rings"), **Ring Three is the witches and nobody else.** A person enters it only with a vouch from Ring One or Two **and** approval by Rings One and Two together, announced. The V20 draft had quietly made eleven settlers "Ring Three". That is fixed: they are **Ring Four**. The cooper, Lise and the rest keep their scenes but **have no say in house or inn matters**. The creator keeps them as possibly temporary characters. **Never promote anyone into a ring silently.** It happens on the page, at a council, or it doesn't happen.

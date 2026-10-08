@@ -4,11 +4,11 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 20  
 **Reading order:** 2  
-**Continuity state:** Day 5, morning | Ring Three asks for him at the old inn | the cooper: 'I'd go back. Maybe I will. Either way, it's mine.' | the teacher's bucket | the witches: 'For some of us, Return is a grave' | Rem: Lise
+**Continuity state:** Day 5, morning | people of the settlement (Ring Four) ask for him at the old inn; the witches, the whole of Ring Three, come too | the cooper: 'I'd go back. Maybe I will. Either way, it's mine.' | the teacher's bucket | the witches: 'For some of us, Return is a grave' | Rem: Lise
 
-Ring Three asked for him on the morning of the fifth day.
+The settlement asked for him on the morning of the fifth day.
 
-They did it properly, which was somehow worse. A message came to the house through Rem, from the old inn, in a careful hand Mau did not recognize. It said that some of the people of the Third Ring would like to speak with him, at the old inn, at midmorning, if he would come. It said that he could bring whoever he liked. It said *please*.
+They did it properly, which was somehow worse. A message came to the house through Rem, from the old inn, in a careful hand Mau did not recognize. It said that some people of the settlement, from the refuge and Arrival House and the river towns, would like to speak with him, at the old inn, at midmorning, if he would come. It said that he could bring whoever he liked. It said *please*.
 
 "You don't have to go," said Fern, reading it over his shoulder.
 
@@ -28,11 +28,11 @@ The same door that stuck. The same creak two steps inside. The long room where t
 
 There were eleven people in the chairs.
 
-Mau knew all of them, a little. That was what Ring Three meant. Not family, not close, but known. Each of them had been vouched for by someone in the house and approved by the first two rings together, at the council, in chalk.
+Mau knew all of them, a little. Not family. Not close. Not anyone the council had written in chalk under a ring of their own. They were the people of the settlement: the fourth ring, the ones the house sheltered and protected and never told what was behind the door. Some of them the house knew better than others.
 
-A cooper from the river towns, broad and quiet, whom Wakana had vouched for because he had shown her a better way to steam a plank. A woman who ran the second-community bridge crossing and whom Mikasa trusted with routes. Two of the refuge's cooks, who had fed half the settlement during Last Defense with Momo, and whom Momo had vouched for with a single word: *family*. A young man from the Searchers' second team. A girl of perhaps sixteen who helped Rem with the travelers' rooms and had come over the bridge alone in the summer. An old man who taught the refuge children their letters and whom Qifrey had vouched for. Two more Mau knew only by face.
+A cooper from the river towns, broad and quiet, whom Wakana liked because he had once shown him a better way to steam a plank. A woman who ran the second-community bridge crossing and worked routes with Mikasa. Two of the refuge's cooks, who had fed half the settlement during Last Defense with Momo, and whom Momo called *family* when nobody was listening. A young man from the Searchers' second team. A girl of perhaps sixteen who had come over the bridge alone in the summer and had been staying at the old inn since, carrying linen for Rem because she did not know how to sit still. An old man who taught the refuge children their letters, whom Qifrey sometimes sat with in the evenings. Two more Mau knew only by face.
 
-And at the end of the half-circle, in the doorway, not quite in the room, the witches.
+And at the end of the half-circle, in the doorway, not quite in the room, the witches. They were the only ones there whose names the council had written down: Ring Three, under the agreement, and nobody else.
 
 Not all of them. Two. The first witch, the one who spoke for the others, and one other. They stood under the agreement, as they always did, and watched. They did not sit.
 
@@ -134,7 +134,7 @@ Rimuru did not say anything. Anko closed her notebook. She had not written a sin
 
 Rem came out of the kitchen with three cups of tea on a tray and put them down on the nearest table, and then, instead of going back, sat down in one of the empty chairs across from him.
 
-"The girl who didn't speak," said Rem quietly. "Her name is Lise. She came over the bridge alone in the summer. She asked for her terms on the first day, too." Rem paused. "She doesn't want to go back. She wanted someone to *ask* her whether she wanted to go back. Nobody ever had, in her whole life. And then she heard that you were going to ask the Goddess to decide it for everyone. So that nobody would have to be asked."
+"The girl who didn't speak," said Rem quietly. "Her name is Lise. She came over the bridge alone in the summer. She's a guest at the inn. She asked for her terms on the first day, too." Rem paused. "She doesn't want to go back. She wanted someone to *ask* her whether she wanted to go back. Nobody ever had, in her whole life. And then she heard that you were going to ask the Goddess to decide it for everyone. So that nobody would have to be asked."
 
 Mau closed his eyes.
 

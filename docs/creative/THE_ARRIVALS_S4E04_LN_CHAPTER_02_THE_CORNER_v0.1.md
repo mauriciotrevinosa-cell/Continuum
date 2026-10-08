@@ -134,4 +134,4 @@ Bocchi put her own hands in her lap, empty, and sat there beside him without her
 
 "That's the difference," said Bocchi. "That's what it's like."
 
-He sat in the fort holding her guitar, with her shoulder against his. Around them twenty-two citizens very carefully did not watch, and the President of the Fort looked at the ceiling with an expression of great dignity, and wiped her face with the end of her sash.
+He sat in the fort holding her guitar, with her shoulder against his. Around them twenty-four citizens very carefully did not watch, and the President of the Fort looked at the ceiling with an expression of great dignity, and wiped her face with the end of her sash.

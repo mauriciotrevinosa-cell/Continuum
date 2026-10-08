@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 9  
-**Continuity state:** Nights 8-10 after Mau wakes | the fort collapses under twenty-two | it must fit Milim standing (the Milim Beam) | Fern's treaty: the north end of the common room, never over the four scratches | Wakana's nail-free frame, Ori's window, the annex with six NEXT cushions
+**Continuity state:** Nights 8-10 after Mau wakes | the fort collapses under twenty-two | it must fit Milim standing (the Milim Beam) | Fern becomes a dual citizen; Maki and Mai build the north wall | Fern's treaty: the north end of the common room, never over the four scratches | Wakana's nail-free frame, Ori's window, the annex with six NEXT cushions
 
 The fort had been built for four people and a great many snacks, during a war, in one afternoon. It had never been meant to last. It had lasted anyway, because nobody had the heart to take it down, and because the treaty that ended the war had made it a monument.
 
@@ -104,11 +104,31 @@ And it had to stay a fort.
 
 Umaru signed the terms. Coco witnessed. Fern drew a chalk line across the floor of the common room at the end of the long table. Then she went back to her ledger as if she had not just conceded a fifth of the room to a sovereign power.
 
+"One more thing," said Umaru.
+
+Fern did not look up. "There are no more things."
+
+"You're a citizen," said Umaru.
+
+Fern's pen stopped.
+
+"I'm the house," said Fern. "I just negotiated *against* you."
+
+"You can be both," said Umaru. "Dual citizenship. You negotiated so well that the fort wants you on its side next time." She paused. "Also, you've fed the toll booth more snacks than anybody, and you think nobody noticed."
+
+Fern looked at her for a long moment. Coco, watching, saw her ears go pink.
+
+"One condition," said Fern at last. "The ledger is not subject to your constitution."
+
+"Agreed," said Umaru, before Agott could object.
+
+Fern turned back to the page with the treaty on it. Under the last line, in the same neat hand, she wrote: *Fern: dual citizen.* Then she went back to her ledger. For the rest of the morning, every time someone from the fort went past the long table, they saluted her, and she pretended not to see.
+
 
 
 They built it in two days.
 
-Wakana designed the frame. A fort that held twenty-two, and Milim standing, she said, could not be made only of cushions; cushions were walls, not bones. So she built it bones: light slats pegged together without a single nail, so that it could be taken apart and put back like a puzzle. Fern had said *no door with a lock*, and a frame with no nails could not have one.
+Wakana designed the frame. A fort that held twenty-two and whoever came next, and Milim standing, he said, could not be made only of cushions; cushions were walls, not bones. So he built it bones: light slats pegged together without a single nail, so that it could be taken apart and put back like a puzzle. Fern had said *no door with a lock*, and a frame with no nails could not have one.
 
 Senku engineered it, which meant he walked around Wakana's frame with a measuring cord saying *load-bearing* about things that were not load-bearing. Then he added one crossbar that turned out to be the only reason the roof stayed up. In the middle of the fort, Wakana raised the peak of the roof high, higher than anywhere else, on two long slats that ran from floor to ridge. Senku measured it twice against Milim, standing very straight and very proud with her hands at her sides, and called it *the Milim Beam*. The name stuck at once.
 
@@ -122,7 +142,7 @@ Kessoku claimed the corner nearest the music room for a stage. Nijika measured i
 
 Hakari's group built the annex, a whole second room off the side of the fort with its own curtain. Hakari called it *the guest wing*. Karane called it *the overflow*. Shizuka wrote *ANNEX* on a slip of paper and pinned it over the entrance, and that settled it.
 
-Mai complained about everything. Then she built the north wall, alone, while everybody else was arguing about the flag. When they turned around, it was the straightest wall in the fort and the only one that did not sway. She would not say where she had learned to build walls like that. Maki, passing through the common room with a basket of laundry, looked at the wall and then at her sister, and smiled, and kept walking.
+Mai complained about everything. Then she started on the north wall, alone, while everybody else was arguing about the flag. Maki, passing through the common room with a basket of laundry, stopped. She looked at the wall, and at her sister, and at the slat Mai was fighting with. Then she put the basket down and picked up the other end of it. Neither of them said a word. The Zenin twins built the north wall together in under an hour, and when everyone turned around it was the straightest wall in the fort and the only one that did not sway. Mai would not say where they had learned to build walls like that. Maki said *home*, and that it had not been a good one, and that this one was better. Then she went back for the laundry. She came back after, and stayed, and that was how the fort got Maki.
 
 Kusuri made light. Small glass jars, with something in them that glowed a soft yellow-green when you shook them, which she swore was chemistry and not magic. She hung one in every room of the fort. Agott inspected each jar for glyphs and found none, and was visibly disappointed.
 
@@ -175,13 +195,13 @@ Then she came out and pulled the curtain closed behind her.
 
 
 
-That night the fort held twenty-two people, and there was room.
+That night the fort held twenty-four people, and there was room.
 
 There was room for Milim, who stood up straight under the Milim Beam, under the peak of the roof, with the broom handle of the hamster flag just brushing her hair. She stood there for a long time, for no reason at all except that she could. There was room for Richeh's feet, and room for Ryo not to sleep in the toll booth. There was room for Mai to sit near the middle without looking as if she had decided to. There was room for Rem to sit between Ori and Coco without anyone moving. And there were six cushions in the annex with NEXT in front of them.
 
 Kusuri shook the little jars, and the fort lit up soft green from the inside.
 
-Down the corridor, in the room with the east window, Mau lay in bed and listened to the noise of twenty-two people trying to be quiet. It came faintly through two walls. Frieren, in the chair beside him, turned a page.
+Down the corridor, in the room with the east window, Mau lay in bed and listened to the noise of twenty-four people trying to be quiet. It came faintly through two walls. Frieren, in the chair beside him, turned a page.
 
 "What are they doing?"
 

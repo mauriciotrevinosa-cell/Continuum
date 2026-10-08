@@ -164,7 +164,7 @@ To Ori there was no note. He had sent back a stone instead, a different one: a s
 
 After that, the basket went in every day.
 
-Sometimes twice a day. Then, on the eighth day, when Hakari's list finally reached a hundred and the fort could not wait until afternoon, three times. Rem carried it every time. She went down the family corridor so often that Wakana said she was wearing a path in the boards, and Rem said that Wakana had built the boards and could fix them, and Wakana laughed so hard she had to sit down.
+Sometimes twice a day. Then, on the eighth day, when Hakari's list finally reached a hundred and the fort could not wait until afternoon, three times. Rem carried it every time. She went down the family corridor so often that Wakana said Rem was wearing a path in the boards, and Rem said that Wakana had built the boards and could fix them, and Wakana laughed so hard he had to sit down.
 
 The fort started sending things for Rem too. They went in the basket on the way back, so that she would not notice until she unpacked it. A ribbon from Tetia. A small sketch from Richeh of a blue-rimmed cup. A second list from Hakari, titled TWELVE REASONS REM IS THE BEST AGENT, that reached twelve and stopped, because twelve was all she needed.
 

@@ -110,13 +110,13 @@ Marin was second, because she was the Minister of Not Working, and somebody had 
 
 *BY ORDER OF THE MINISTRY: THE EVENING OF THE FOURTH DAY IS NOT FOR WORK. VIOLATORS WILL BE HUGGED.*
 
-Wakana was third, because there had to be something to wear, and it could not be a crown, or a cape, or a hat. She listened to the entire list of things it could not be, nodded, and said, "Sashes."
+Wakana was third, because there had to be something to wear, and it could not be a crown, or a cape, or a hat. He listened to the entire list of things it could not be, nodded, and said, "Sashes."
 
 "Is a sash a crown?" said Umaru suspiciously.
 
 "A sash is a strip of cloth that tells people what you are," said Wakana. "That's all it is."
 
-She made them in one evening, out of the offcuts from the refuge curtains, and hemmed them so neatly that Marin cried a little.
+He made them in one evening, out of the offcuts from the refuge curtains, and hemmed them so neatly that Marin cried a little.
 
 Coco did the lettering. She did not use glyph ink; that was rationed, and Qifrey would have fainted. She used ordinary black ink from Fern's ledger supply. Fern handed it over with the expression of someone who strongly suspected what it was for and had decided not to know.
 

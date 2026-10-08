@@ -56,7 +56,7 @@ They stayed like that for a long time.
 
 The fort convened in emergency session at noon.
 
-All twenty-two citizens, Milim under the Beam with her arms folded, Nazuna awake and quiet beside Anko. The President in her sash, the Opposition in hers. The six NEXT cushions in the annex were empty behind their curtain. Ori sat by her window in the south wall, looking down the corridor at the closed door of the room with the east window. Everyone knew it had nobody behind it but Frieren.
+All twenty-four citizens, Milim under the Beam with her arms folded, Nazuna awake and quiet beside Anko. The President in her sash, the Opposition in hers. The six NEXT cushions in the annex were empty behind their curtain. Ori sat by her window in the south wall, looking down the corridor at the closed door of the room with the east window. Everyone knew it had nobody behind it but Frieren.
 
 "Article 6," said Umaru.
 

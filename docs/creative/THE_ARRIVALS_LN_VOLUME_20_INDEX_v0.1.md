@@ -4,7 +4,7 @@
 **Volume:** 20  
 **Season:** 4  
 **Volume title:** **The Ten Days**  
-**Chapter count:** 23
+**Chapter count:** 27
 
 | # | Chapter |
 |---:|---|
@@ -31,6 +31,10 @@
 | 21 | The Roof |
 | 22 | You Made a Contract |
 | 23 | Frieren's Terms |
+| 24 | Considering |
+| 25 | The Bridge |
+| 26 | What It Bought |
+| 27 | We Still Got a Frieren |
 
 ## What this volume covers
 

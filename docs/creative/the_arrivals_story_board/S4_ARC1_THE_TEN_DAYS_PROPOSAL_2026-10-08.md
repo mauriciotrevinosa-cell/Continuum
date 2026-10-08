@@ -187,3 +187,21 @@ Each is chosen because it answers something the story has already shown it needs
 - **Kusuri** holds hers. Her fear that the person will refuse stays live.
 - **Maki** writes her petition and keeps it in her pocket, unfired. It is still unfired at the end of the volume.
 - **Yuta** keeps his coin in his sword case and says nothing. The white-haired signal stays a signal.
+
+## WRITTEN: Volume 20 "The Ten Days" (27 chapters, 2026-10-08)
+Drafted at the creator's go-ahead. Where the prose differs from the proposal above, the prose is canon:
+- **Episodes.** S4E01 *Anger* (#1–4); S4E02 *The Number* (#5–11), the creator's outline; S4E03 *Two Days* (#12–18); S4E04 *Back* (#19–23); S4E05 *The Window Closes* (#24–27).
+- **The two days.** The first clearing is a forbidden site (V19 rules), so Mau goes **upriver to the falls Senku called useless, "somewhere I never died"**. He returns a night early.
+- **Order of the talk.** It runs as the creator outlined it. The "count-everything rule" is **rule five, "Mau is told everything"**, which only went one way. Senku had kept a visible-loop minimum of 112. "You said sometimes." / "I lied."
+- **Infinity.** It already appeared in the wedding loop (V19 "Everyone Came"), so Frieren's hands stopping a finger's width away in S4 echoes the false Frieren's.
+- **Return mechanics** (Claude, not contradicted by V19): Returners go at sunset on Day 10, wherever they stand. The leavers gather at the bridge, and the boy from the washing court waves.
+- **Coins.** The Goddess at the close: one each, "it does not expire... it may be spent, kept or given... It was purchased... by the one who stood in the Trial." Mau has one too. **Nobody spends one.** Frieren: "Millennia."
+- **Original minor characters, flagged for the creator:** the **cooper** from the river towns (Ring Three; stays; a daughter about 11; coin later), **Lise** (16, came alone over the bridge in summer, helps Rem; stays), the angry young man and the old woman with the cane on the bridge (both Return). These are unnamed or lightly named settlers, not franchise characters. The creator can rename or cut any of them.
+- **Seeds carried into Volume 21:**
+  - the witches are "growing tired of coming" and want to talk about the contract;
+  - Coco will wait on her coin "until I find out", with Qifrey's "places nobody's ever thought to look", which points to Greed's library;
+  - Kaneki told only Eren the name Hide;
+  - Rimuru and Yuta share the far-end possibility;
+  - Ciel's daily looks;
+  - Analyze is building;
+  - Maki's unfired petition.

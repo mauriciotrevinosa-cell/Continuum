@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 10 — The Second Drill
+## Chapter 11 — The Second Drill
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 10
+**Reading order:** 11
 
 The second drill went better.
 

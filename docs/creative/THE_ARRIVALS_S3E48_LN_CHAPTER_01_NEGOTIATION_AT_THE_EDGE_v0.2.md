@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 14 — Negotiation at the Edge
+## Chapter 15 — Negotiation at the Edge
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 14
+**Reading order:** 15
 
 Anko went west.
 

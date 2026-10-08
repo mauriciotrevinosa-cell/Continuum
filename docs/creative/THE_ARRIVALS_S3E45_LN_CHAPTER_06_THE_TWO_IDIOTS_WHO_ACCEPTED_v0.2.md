@@ -14,9 +14,11 @@ Grown-ups, in Umaru's experience, had already ruined it. They had made it a meet
 
 "It needs a ceremony," she said.
 
-She said it inside the fort. The fort from the war still stood in the corner of the common room, because nobody had ever had the heart to take it down: cushions, crates, a folding screen, and the toll booth with its sign still on it. Over the weeks it had become a monument, then a meeting place, and now the seat of government for an organization that did not officially exist and had four members.
+She said it inside the fort. The fort from the war still stood in the corner of the common room, because nobody had ever had the heart to take it down: cushions, crates, a folding screen, and the toll booth with its sign still on it. Over the weeks it had become a monument, then a meeting place, and now the seat of government for an organization that did not officially exist. It had four founding members, and in practice as many as the founding members could drag inside.
 
 Coco was there, with her hat off because the roof was low. Suika was there, lying on her stomach with her chin on her fists. Bocchi was there, mostly. Technically she was in the fort, but she had wedged herself into the farthest corner behind the toll booth, which was as close to not being in a meeting as it was possible to be while still being in one.
+
+Ori was there, because Ori was always there now, sitting against Umaru's side. Tetia and Richeh were there because Coco had brought them. Agott was there because she had come to complain about Coco bringing them and had never left. Kita was there because Bocchi was, Nijika because Kita was, and Ryo because Nijika had mentioned snacks.
 
 "A ceremony for what?" said Suika.
 
@@ -68,6 +70,8 @@ They tried. They tried for most of an afternoon.
 
 *Representative* was Senku's word. Suika said it sounded like a job at a post office.
 
+*President* was Tetia's, and Agott vetoed it before Tetia had finished the word. *Captain* was Nijika's. Ryo, without opening her eyes, suggested *Sponsor*, and was ignored.
+
 *Face* was Yuta's word. Suika said it made it sound like they were going to get punched in it. Coco said quietly that that had sort of been Yuta's point, and then everybody felt bad for a while.
 
 *Big brother* was Coco's. "He already is that," said Umaru. "That's not a title. That's a fact."
@@ -98,7 +102,7 @@ It was not a vote. It did not need to be.
 
 A ceremony needed staff.
 
-Over the next three days the four of them recruited, one person at a time, in the strictest secrecy. By the second evening, that meant everyone in the house knew except Mau and Rimuru.
+Over the next three days the fort recruited, one person at a time, in the strictest secrecy. By the second evening, that meant everyone in the house knew except Mau and Rimuru.
 
 Milim was first. Milim was the Head of Fun, and this, she said with both fists clenched, was her first official act. She had been waiting four whole days for something to be head of. She wanted fireworks. She was given confetti. She accepted the confetti the way a general accepts a sword.
 
@@ -117,6 +121,10 @@ She made them in one evening, out of the offcuts from the refuge curtains, and h
 Coco did the lettering. She did not use glyph ink; that was rationed, and Qifrey would have fainted. She used ordinary black ink from Fern's ledger supply. Fern handed it over with the expression of someone who strongly suspected what it was for and had decided not to know.
 
 Momo did the food. Nobody had to ask.
+
+Hakari's group was not recruited so much as kidnapped. Suika walked into their room, said "Fort," and walked out again, and all five of them followed her. Nano timed the ceremony to the second. Shizuka wrote out the order of ceremony in her careful hand, so that Umaru would have something to read from. Karane complained that nobody had asked her opinion, then gave it at length, and most of it was used. Hakari volunteered for everything, and Kusuri made the confetti fall slower than confetti should, and would not say how.
+
+Anko, who could find out anything that happened in the settlement, was put in charge of making sure Mau found out nothing. She took the job very seriously and enjoyed it more than she admitted.
 
 Seiko said yes before they finished asking. A ceremony needed someone who had done ceremonies, she said, and she had conducted more of them than anyone alive. Most had been for things that were dead, so she was long overdue for one with living idiots.
 
@@ -149,6 +157,8 @@ Mau was fetched from the washing court by Ori. She took him by the hand without 
 They arrived at the same moment, from opposite ends of the house, and stopped in the doorway of the common room.
 
 Everybody was there.
+
+Rem stood near the kitchen door with a tray of the blue-rimmed cups, the way she stood at the edge of most things: close enough to help and far enough to leave. Umaru, stepping out of the fort, saw her there. She looked at her a moment longer than she needed to, and filed it away.
 
 The furniture had been pushed back against the walls. The chairs were set out in rows, and in front of the rows, facing them, were two more chairs. They were exactly the same height. The fort had been decorated: a long strip of refuge-curtain cloth hung across its front like a stage curtain, and someone had tied ribbons to the toll booth. Milim stood beside it with both fists full of confetti, vibrating very slightly. Marin's decree was pinned to the board, under the four rings. Frieren sat on the couch with a book open in her lap, not reading it.
 
@@ -312,7 +322,7 @@ Milim threw the confetti.
 
 She threw all of it, at once, directly at them, from about a foot away.
 
-The room erupted. People clapped and stamped. Momo banged a pot with a spoon. Okarun whistled through his fingers. Inside the fort, Kita sang the fanfare again from the top, and this time Bocchi got up off the floor and played it with her.
+The room erupted. People clapped and stamped. Nijika kept time on Momo's soup pot with two spoons. Okarun whistled through his fingers. Inside the fort, Kita sang the fanfare again from the top, and this time Bocchi got up off the floor and played it with her.
 
 Diablo had gone perfectly still at the word *idiot* applied to Rimuru-sama. He stood at the back of the room and watched Rimuru's face. Rimuru was laughing so hard that the edges of him had begun to go soft and blue. Diablo considered this for a long time. Then he bowed, deeply and formally, to the sash.
 
@@ -398,7 +408,7 @@ Much later, Mau and Rimuru sat on the step outside the front door, still in thei
 
 Mau opened it.
 
-There was one letter inside, folded twice. The handwriting changed four times on the way down the page.
+There was one letter inside, folded twice. The handwriting changed more times than he could count on the way down the page.
 
 *Dear Two Idiots,*
 
@@ -411,9 +421,11 @@ There was one letter inside, folded twice. The handwriting changed four times on
 *Please read all the other ones. If any of them are mean, tell us. We will write back.*
 
 *From, the fort*
-*(Umaru, Coco, Suika, Bocchi)*
+*(Umaru, Coco, Suika, Bocchi, and everyone else who was in it)*
 
 *P.S. idiots — Suika*
+
+*P.P.S. I did not write any of this. — Agott*
 
 Mau read it twice. Then he passed it to Rimuru, and Rimuru read it twice.
 

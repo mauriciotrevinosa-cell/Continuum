@@ -3,7 +3,7 @@
 **Status:** ACTIVE SEASON CANON — 2026-10-04 CREATOR REVISION COMPLETE  
 **Season:** 3  
 **Branch:** `m3/critical-path`  
-**Reader-order chapters:** **363**  
+**Reader-order chapters:** **364**  
 **Volumes:** **10–19**  
 **Final merge date:** 2026-10-03  
 **Previous final audit:** `docs/creative/the_arrivals_story_board/S3_FINAL_MERGE_AUDIT_2026-10-03.md`  
@@ -92,10 +92,10 @@ Kusuri Yakuzen is the explicit test case: her addition raised V11 and the season
 | 15 | People Who Heard About Us | 43 | active creator revision |
 | 16 | What the Message Changes | 46 | active creator revision |
 | 17 | Freedom and Walls | 39 | active creator revision |
-| 18 | Last Defense | 39 | active creator revision |
+| 18 | Last Defense | 40 | active creator revision |
 | 19 | What Would You Choose? | 43 | latest merged files |
 
-Total: **363 active chapters**. The 2026-10-04 post-Memory family rebuild is complete. Future changes are creator revisions, not unfinished repair.
+Total: **364 active chapters**. The 2026-10-04 post-Memory family rebuild is complete. Future changes are creator revisions, not unfinished repair.
 
 ## Final density audit — 2026-10-04 creator revision
 

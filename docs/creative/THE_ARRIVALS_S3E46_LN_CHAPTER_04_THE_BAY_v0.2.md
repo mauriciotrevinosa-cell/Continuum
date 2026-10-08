@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 4  
-**Continuity state:** Same night | Maomao, Senku, Kusuri, Yuta and Ciel work | Stark, Mikasa and Momo give blood; Senku refuses Eren, who stands with Kaneki | Diablo guards the room | Qifrey and the sisters hold the fort
+**Continuity state:** Same night | Maomao, Senku, Kusuri, Yuta and Ciel work | Stark, Mikasa and Momo give blood; Senku refuses Eren, who stands with Kaneki | Diablo guards the room | Qifrey and the sisters hold the fort; the pack gathers in it, Rem included
 
 The medical bay was the room at the far end of the Muslin, as far from the kitchen as Maomao's rules could put it. It had one table, two lamps, a shelf of labeled jars, and a basin. Tonight it had five people in it, and one of them was dying.
 
@@ -192,10 +192,42 @@ Then Coco, crying, took Qifrey's hand.
 
 "Okay," she said.
 
-They went to the common room. They crawled inside the fort that Umaru had built during the war. It was still standing because nobody had ever had the heart to take it down: cushions, crates, a folding screen, a toll booth with snacks in it. Qifrey went in with them, crouched almost double, and sat in the middle of them. They told stories. They played cards. Umaru won, as she always did, and did not cheer.
+They went to the common room. They crawled inside the fort that Umaru had built during the war. It was still standing because nobody had ever had the heart to take it down: cushions, crates, a folding screen, a toll booth with snacks in it. Qifrey went in with them, crouched almost double, and sat in the middle of them.
+
+It did not stay five of them for long.
+
+Ori came first. She had been in the blood line, white-faced, with her sleeve rolled up, and Senku had tested her and she had not matched. Afterward she had stood in the corridor with her sleeve still rolled up until Kaneki, from the wall, pointed her quietly toward the common room. She crawled into the fort without a word and sat down against Umaru's side. Umaru put an arm around her without a word either.
+
+Coco went out and came back with her own. She did it the way she always did, the way Qifrey said she drew circles together: without stopping to ask whether they fit. Tetia came with a blanket around her shoulders and a lamp. Richeh came carrying her own pillow, said nothing, and lay down across the back of the fort as if she had always lived there. Agott came last, in her nightgown. She said that this was absurd and that she had no intention of sitting in a pile of cushions all night. Then she sat down in a pile of cushions and stayed all night.
+
+Kita found Bocchi by following the sound of nobody playing the guitar. She brought Nijika, and Nijika brought Ryo, who had somehow, in the middle of the night, brought snacks. Kita sat down beside Bocchi, found her hand and kept it.
+
+Suika was sent on a raid. She came back with Hakari, Karane, Shizuka and Nano following her in a line like ducklings. Behind them came Marin, whom Suika had found sitting on the stairs crying and had simply taken by the hand. Kusuri was in the bay. The four of them kept looking toward the corridor where she was, and Hakari kept saying that she would be fine, she was the cleverest person any of them knew, she would be fine. Karane complained the whole way in that there was no room. Then she made room.
+
+At some point Mai came to the doorway of the common room and stood there with her arms folded, the way she stood everywhere. Her sister was in the bay with Yuta. She did not come any closer. After a while Umaru put her head out of the fort.
+
+"Toll's free tonight," said Umaru.
+
+"I don't do forts," said Mai, and came in.
+
+Rem came near midnight with a tray. On it was tea in every blue-rimmed cup she could find, and the rest in whatever else had been in the kitchen. She meant to set it down at the entrance and go back to the corridor. Umaru took her by the sleeve.
+
+"You're in the fort," said Umaru.
+
+"I was only bringing—"
+
+"You're in the fort now," said Umaru, and did not let go of the sleeve.
+
+Rem looked down at her for a long moment. Then she folded herself down between Ori and Coco with the tray in her lap and began, very quietly, to hand out cups.
+
+When Momo's soup came, the first pot went to the bay door, and the second went to the fort.
+
+Anko came near dawn, with her notebook, meaning only to check on them. The toll booth charged her a pencil. She paid it, crawled in, and wrote nothing at all.
+
+The fort had been built for four people and a great many snacks. By dawn it held nineteen people and one teacher, and the folding screen had been moved twice. Nobody minded. They told stories. They played cards. Umaru won, as she always did, and did not cheer. Richeh fell asleep, and Tetia put the blanket over her. At one point Shizuka wrote something in her notebook and passed it on, and it went from hand to hand all the way around the fort and back. Nobody ever said what it said.
 
 And every few minutes, without anyone saying anything, one of them would put her head out of the fort and look down the long corridor at the lamp burning under the door of the bay. Then she would come back in, and nobody would ask what she had seen.
 
 They held the fort all night.
 
-Every one of them stayed awake.
+Every one of them stayed awake, except Richeh, and Ryo, who denied it afterward.

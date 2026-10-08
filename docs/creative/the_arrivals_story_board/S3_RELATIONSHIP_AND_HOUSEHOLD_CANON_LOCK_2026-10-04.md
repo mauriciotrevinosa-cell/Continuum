@@ -152,8 +152,12 @@ Household family. Their personalities and comedy help ground high-stakes materia
 ### Ori
 Core family; functionally Mau/Frieren's daughter even while the literal metaphysical truth remains unknown in-world. Mau trusts her, Frieren protects her, and Ori's maturity means she can choose Mau freely rather than proving independence by moving away. Post-Memory, care can flow back toward Mau the way Fern often supports Frieren.
 
+### The pack (creator rule, 2026-10-07)
+**The proclaimed sisters (Umaru, Coco, Suika, Bocchi) are the core, but they always move as a pack.** When the sisters act, the circle widens. Ori is always with them. Coco pulls in her own (Agott, Tetia, Richeh). Bocchi brings Kessoku (Kita, Nijika, Ryo). They kidnap Marin and Hakari's group (Hakari, Karane, Shizuka, Nano, Kusuri). Mai hovers at the edge and comes in. Rem belongs (V18 "The Fort Sends Notes"). Even Anko keeps up with them. Never write the four as a closed club, and never let a sub-group (Kessoku, Witch Hat, 100GF) clump off by itself. The fort is the pack's home base. It went from four people to nineteen and one teacher on the night of the bay and never went back. The founders still preside. (Creator: "aunque ellas sean las proclaimed sis siempre se mueven en manada".)
+
 ### Rem
 Begins as guest/helper and develops unusually intimate trust with Mau, Frieren and Ori through Memory Arc. No third romance is required. Her transition should be lived: guest -> returns -> leaves things -> chooses space -> realizes she has joined. She needs ordinary post-crisis time with Mau/Frieren/Ori.
+**Stage reached (2026-10-07):** on the night of the bay (V18 #4) Umaru pulls her into the fort ("You're in the fort now"). In #8 "The Fort Sends Notes" she is the pack's agent, the one of four allowed into Mau's room, and **realizes she has joined**: her own cup on a hook in the fort, *(SISTER)* under REM on her door, and nine nights without the old inn. She decided nothing; she stopped going. This is consistent with "Cut the Real Cloth" (V18 later: she sleeps at the turn most nights and the old inn the rest) and keeps her V19 Return/Stay answer open. "I have a sister. Somewhere else. I was always the little one" is a nod to Ram (Re:Zero canon). Ram is not named and does not exist in Continuum. The creator may veto.
 
 ### Ken Kaneki
 Older-brother-like support, distinct from Yuta. Understands dangerous-body and identity fear from experience. Reliable family structure without displacing Mau.

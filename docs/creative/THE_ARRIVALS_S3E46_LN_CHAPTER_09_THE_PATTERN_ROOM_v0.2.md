@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 8 — The Pattern Room
+## Chapter 9 — The Pattern Room
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 8
+**Reading order:** 9
 
 Maomao kept Mau in bed for two weeks.
 

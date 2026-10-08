@@ -4,7 +4,7 @@
 **Volume:** 18  
 **Season:** 3  
 **Volume title:** **Last Defense**  
-**Chapter count:** 39
+**Chapter count:** 40
 
 | # | Chapter |
 |---:|---|
@@ -15,42 +15,43 @@
 | 5 | Outside the Door |
 | 6 | Stay With Me |
 | 7 | Both of Us |
-| 8 | The Pattern Room |
-| 9 | The Drill |
-| 10 | The Second Drill |
-| 11 | The Road Reports Stop |
-| 12 | The Western Demand |
-| 13 | First Alarm |
-| 14 | Negotiation at the Edge |
-| 15 | The Monster Wave |
-| 16 | Evacuation |
-| 17 | Last Defense Front |
-| 18 | Outer Line |
-| 19 | It Fails Correctly |
-| 20 | Unknown Inside |
-| 21 | Under the Refuge |
-| 22 | Aira Broke It |
-| 23 | The Night Between |
-| 24 | Morning After |
-| 25 | Counting the Cost |
-| 26 | The Story Was Ready |
-| 27 | Sukuna Hears They Survived |
-| 28 | The Worldless Man |
-| 29 | Leadership After the Front |
-| 30 | The Device Came With Building Material |
-| 31 | Who Watered It |
-| 32 | Cut the Real Cloth |
-| 33 | Threshold |
-| 34 | Protocol |
-| 35 | Kaneki Knows This Part |
-| 36 | Ori Knows Where the Door Is |
-| 37 | It Passes |
-| 38 | The Voice Around Ori |
-| 39 | She Is Not Your Mouth |
+| 8 | The Fort Sends Notes |
+| 9 | The Pattern Room |
+| 10 | The Drill |
+| 11 | The Second Drill |
+| 12 | The Road Reports Stop |
+| 13 | The Western Demand |
+| 14 | First Alarm |
+| 15 | Negotiation at the Edge |
+| 16 | The Monster Wave |
+| 17 | Evacuation |
+| 18 | Last Defense Front |
+| 19 | Outer Line |
+| 20 | It Fails Correctly |
+| 21 | Unknown Inside |
+| 22 | Under the Refuge |
+| 23 | Aira Broke It |
+| 24 | The Night Between |
+| 25 | Morning After |
+| 26 | Counting the Cost |
+| 27 | The Story Was Ready |
+| 28 | Sukuna Hears They Survived |
+| 29 | The Worldless Man |
+| 30 | Leadership After the Front |
+| 31 | The Device Came With Building Material |
+| 32 | Who Watered It |
+| 33 | Cut the Real Cloth |
+| 34 | Threshold |
+| 35 | Protocol |
+| 36 | Kaneki Knows This Part |
+| 37 | Ori Knows Where the Door Is |
+| 38 | It Passes |
+| 39 | The Voice Around Ori |
+| 40 | She Is Not Your Mouth |
 
 ## Opening arc: the reversion night (#1–#7), 2026-10-07
 
-A week after the council, Mau's own pattern decides the walls are an injury and reverts his body toward the moment after Sukuna. Two days in the bay, then the morning he wakes. The house's one unanimous rule follows. Two weeks in bed are bridged at the top of #8, with two more weeks indoors running alongside the early V18 investigation. See `the_arrivals_story_board/DECISION_HISTORY.md` DH-029 and containment lock §3E.
+A week after the council, Mau's own pattern decides the walls are an injury and reverts his body toward the moment after Sukuna. Two days in the bay, then the morning he wakes. The house's one unanimous rule follows. #8 "The Fort Sends Notes" covers the two weeks in bed: the pack, with Rem as its agent (DH-031). The bridge at the top of #9 sums them up, and two more weeks indoors run alongside the early V18 investigation. See `the_arrivals_story_board/DECISION_HISTORY.md` DH-029 and containment lock §3E.
 
 ## Creator-revision enemy-pressure expansion — 2026-10-04
 

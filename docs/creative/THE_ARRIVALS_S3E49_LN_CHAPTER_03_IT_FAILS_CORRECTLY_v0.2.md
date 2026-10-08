@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 19 — It Fails Correctly
+## Chapter 20 — It Fails Correctly
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 19  
+**Reading order:** 20  
 **Continuity state:** Last Defense active | Upper diversion damaged | Redundant civic systems tested under real load
 
 The creature hit the upper diversion channel at the exact point Senku had called "statistically irritating."

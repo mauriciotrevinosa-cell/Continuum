@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 26 — The Story Was Ready
+## Chapter 27 — The Story Was Ready
 
 **Status:** LN PRODUCTION DRAFT — CREATOR REVISION 2026-10-04  
 **Volume:** 18  
-**Reading order:** 26  
+**Reading order:** 27  
 **Continuity state:** Post-defense Day 2 | Propaganda timeline proves some hostile narrative was prepared in advance
 
 The first outside account of the battle arrived before the settlement had finished counting the injured.

@@ -141,4 +141,3 @@ Claude's notes (options, not decisions):
 - **Protect the weight of Return/Stay.** Frame her exit as a one-off absurdity of *her* source, not a door anyone else can use. She can't take anyone with her, Analyze can't learn it, and Fern can note in the ledger that it is "not a precedent". Otherwise the S4 window and the coins lose their cost.
 - **Timing:** after the S4 peace volume at the earliest (zero arrivals in the first month). It works as a comic breather inside a heavier arc.
 - **The deer stays a mystery.** Nokotan can talk to the deer, but the story never explains *the* deer. It keeps "maybe it followed you home".
-"""

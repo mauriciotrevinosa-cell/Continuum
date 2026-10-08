@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 4  
-**Continuity state:** Same night | Maomao, Senku, Kusuri, Yuta and Ciel work | Stark, Mikasa and Momo give blood; Senku refuses Eren, who stands with Kaneki | Diablo guards the room | Qifrey and the sisters hold the fort; the pack gathers in it, Rem included
+**Continuity state:** Same night | Maomao, Senku, Kusuri, Yuta and Ciel work | Stark, Mikasa and Momo give blood; Senku refuses Eren, who stands with Kaneki | Diablo guards the room | Qifrey and the sisters hold the fort; the pack gathers in it, Rem and Nazuna included; Milim stays with Frieren outside the bay
 
 The medical bay was the room at the far end of the Muslin, as far from the kitchen as Maomao's rules could put it. It had one table, two lamps, a shelf of labeled jars, and a basin. Tonight it had five people in it, and one of them was dying.
 
@@ -222,9 +222,11 @@ Rem looked down at her for a long moment. Then she folded herself down between O
 
 When Momo's soup came, the first pot went to the bay door, and the second went to the fort.
 
-Anko came near dawn, with her notebook, meaning only to check on them. The toll booth charged her a pencil. She paid it, crawled in, and wrote nothing at all.
+Anko came near dawn, with her notebook, meaning only to check on them. Nazuna came with her. She had been awake all night anyway, as she always was, and she had kept as far from the corridor and the bay as the house allowed that night, for reasons she did not have to explain to anyone. The toll booth charged Anko a pencil. It charged Nazuna nothing, because Suika was too impressed to ask. Anko crawled in and wrote nothing at all. Nazuna lay down with her head in Anko's lap and looked up at the cushion ceiling, and for once in her life did not make a single joke.
 
-The fort had been built for four people and a great many snacks. By dawn it held nineteen people and one teacher, and the folding screen had been moved twice. Nobody minded. They told stories. They played cards. Umaru won, as she always did, and did not cheer. Richeh fell asleep, and Tetia put the blanket over her. At one point Shizuka wrote something in her notebook and passed it on, and it went from hand to hand all the way around the fort and back. Nobody ever said what it said.
+The fort had been built for four people and a great many snacks. By dawn it held twenty people and one teacher, and the folding screen had been moved twice. Nobody minded. They told stories. They played cards. Umaru won, as she always did, and did not cheer. Richeh fell asleep, and Tetia put the blanket over her. At one point Shizuka wrote something in her notebook and passed it on, and it went from hand to hand all the way around the fort and back. Nobody ever said what it said.
+
+Only one person who belonged in that fort was missing. Milim was on the floor of the corridor outside the bay, beside Frieren, where Seiko had put her and where she would stay for two days without moving. Every so often Suika put her head out of the fort and looked down the corridor at the shape of her sitting there, and came back in and said *she's still there*. It helped. It helped more than anything else anyone said all night.
 
 And every few minutes, without anyone saying anything, one of them would put her head out of the fort and look down the long corridor at the lamp burning under the door of the bay. Then she would come back in, and nobody would ask what she had seen.
 

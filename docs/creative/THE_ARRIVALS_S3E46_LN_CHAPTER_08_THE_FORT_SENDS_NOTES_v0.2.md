@@ -14,7 +14,7 @@ That was the list. It was pinned to the door. The fort was not on it.
 
 On the fourth morning after Mau woke, the fort convened in emergency session.
 
-It was very full. It had been very full ever since the night of the bay, when it had gone from four people to nineteen and one teacher and had never quite gone back. Umaru presided from the cushion by the toll booth. Coco, Suika and Bocchi sat at her sides, as founders. Around them, in roughly the places they had ended up that night, sat everyone else: Ori against Umaru, the Witch Hat girls along the back, Kessoku in the corner, Hakari's group in a heap, Kusuri back among them now, Marin, Mai at the very edge with her arms folded, and Anko with her notebook.
+It was very full. It had been very full ever since the night of the bay, when it had gone from four people to twenty and one teacher and had never quite gone back. Umaru presided from the cushion by the toll booth. Coco, Suika and Bocchi sat at her sides, as founders. Around them, in roughly the places they had ended up that night, sat everyone else: Ori against Umaru, the Witch Hat girls along the back, Kessoku in the corner, Hakari's group in a heap, Kusuri back among them now, Marin, Mai at the very edge with her arms folded, and Anko with her notebook. Nazuna sat beside Anko, awake at an hour she had never once been awake for, because without telling anyone she had started going to sleep earlier in the mornings so that she would be up for breakfast and dinner. And in the very middle, cross-legged, because the middle was the only place in the old fort tall enough for her, with her head brushing the folding screen and her knees touching three people at once, sat Milim. She had come back from the corridor outside the bay and walked straight into the fort, and nobody had needed to say she belonged there.
 
 Rem was there too. She had been there every evening since the night of the bay. Nobody had invited her again, because nobody had needed to.
 
@@ -82,6 +82,10 @@ There was a folder from Anko, an actual folder, with a label on the front: THE C
 
 There was a note from Mai that said: *Maki says hi. I don't.*
 
+There was a note from Milim. Its letters were so enormous that they filled the whole page: GET BETTER. THAT IS AN ORDER FROM THE HEAD OF FUN. Underneath was a drawing of a dragon, or possibly a dog, holding a bowl of soup.
+
+There was a note from Nazuna: *I woke up early for this. Appreciate it.*
+
 And at the very bottom of the basket, with no note at all, was a small smooth stone from the tidepools.
 
 Maomao looked at all of it for a long time.
@@ -141,6 +145,12 @@ Agott said that she did not know what he was talking about and went red to the e
 *Dear Nano: I laughed on day four. I'm sorry. It was your fault.*
 
 Nano amended the schedule.
+
+*Dear Milim: Yes, Head of Fun. Understood. Is the dog a dragon?*
+
+Milim read that one aloud herself, to the whole fort, and said it was obviously a dragon, and was very pleased that he had asked.
+
+*Dear Nazuna: I appreciate it. Go back to sleep.*
 
 *Dear Marin: I would have worn the cape.*
 

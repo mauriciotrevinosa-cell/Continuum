@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 10  
-**Continuity state:** Days 11-14 | Umaru declares a presidency; Agott runs as Opposition | Milim and Rimuru honorary citizens | Anko audits; 10-9, Ryo spoils | sashes PRESIDENT (TEMPORARY) and OPPOSITION | the fort's constitution, Article 6
+**Continuity state:** Days 11-14 | Umaru declares a presidency; Agott runs as Opposition | Milim becomes Guardian of the Fort ('strongest isn't the same as in charge'); Rimuru honorary citizen | Anko audits; 11-10, Ryo spoils | sashes PRESIDENT (TEMPORARY) and OPPOSITION | the fort's constitution, Article 6
 
 It was Agott who started it, which surprised nobody.
 
@@ -72,25 +72,39 @@ The campaign lasted two days.
 
 Coco drew posters for Umaru in charcoal, as she had in the war. They showed a small noble figure in a hamster hood leading a great crowd of people into a fort with the sun rising behind it. Tetia drew posters for Agott. They showed Agott with a stern face and a great many rules, written very small. Agott took one look at them and said she had never been so accurately represented in her life.
 
-Milim, hearing that there was an election, appeared in the doorway of the fort at once.
+Milim, hearing that there was an election, stood up so fast under the Milim Beam that the hamster flag swayed.
 
-"I want to run."
+"I want to run!"
 
-"You're not a citizen," said Umaru.
+The fort went very quiet. Everyone did the same arithmetic at once. Milim was the Head of Fun. Milim was loved by every single citizen of the fort, including the ones who were afraid of her. Milim had once stopped a war by losing a duel and then winning four games in a row.
 
-"I'm the Head of Fun!"
+Umaru went pale under her hood.
 
-"That's a household office. This is a sovereign fort."
+It was Agott who saved her, which nobody ever let her forget.
 
-Milim looked at the fort. It was too low for her to stand up in, and too narrow for her to lie down in, and covered in ribbons. Her face went very still and very sad.
+"You can't," said Agott. "You already hold an office. You're the Head of Fun. That's a household office, sworn in at the council, in chalk. You can't hold two." She folded her arms. "That's the rule."
 
-"Can I be an honorary citizen? Like Rimuru?"
+"Is it?" said Milim.
 
-The fort conferred. It took eleven seconds.
+"It is now," said Agott.
 
-"Honorary citizen," said Umaru. "No vote. Right of passage. And you're not allowed to campaign for anyone."
+Milim considered this, frowning enormously. The whole fort waited.
 
-Milim accepted, crawled in at once, got stuck at the shoulders, and had to be pulled out again by Mai and Hakari. She did not mind in the least. She spent the rest of the campaign sitting just outside the doorway as a kind of enormous, cheerful guard dog. Anyone who went in had to pat her on the head first. This was not a rule. It became one anyway.
+"Then I want a fort office too," she said at last. "A different one. A real one."
+
+Shizuka was already writing. She held up the page. On it, in her neat hand, was a new line for the constitution that did not exist yet: *Office of the Guardian of the Fort.*
+
+Milim read it. Her face did something wonderful.
+
+"Guardian," she said.
+
+"You guard the fort," said Umaru, recovering. "You stand under the Beam. You say who gets in. You're the strongest person who's ever been inside it, and everybody knows it, and that's why you guard it and don't run it. Strongest isn't the same as in charge." She paused. "That's the whole point of the fort."
+
+Milim looked at her for a long moment. Then, very seriously, she nodded.
+
+"Strongest isn't the same as in charge," she repeated. "I know that one. I've known it for a really long time." She stood up straight under the Beam. "Guardian accepts."
+
+She took it more seriously than anyone had ever taken anything. For the rest of the campaign she stood under the Milim Beam with her arms folded, or sat at the doorway with her chin on her fists, and decided who came in. Everyone came in. She let all of them in. But she made each one stop and say who they were first, even people she had known for two years, even Umaru, very solemnly. Anyone she liked, which was everyone, she patted on the head on the way past. It was not a rule. It became one anyway.
 
 Ryo sold her vote to both sides.
 
@@ -150,21 +164,21 @@ Rem did not read it. She put it in her apron pocket and took it away.
 
 
 
-The election was held on the third evening, by the light of Kusuri's jars, with Milim lying across the doorway and Rimuru, honorary citizen, sitting at the cold hearth as official observer, with Diablo standing behind him guarding democracy.
+The election was held on the third evening, by the light of Kusuri's jars, with Milim, Guardian of the Fort, standing under the Beam with her arms folded, and Rimuru, honorary citizen, sitting at the cold hearth as official observer, with Diablo standing behind him guarding democracy.
 
-Twenty citizens voted. Anko collected the ballots in the sealed box, one at a time, and checked each name against her list. Nano counted them aloud, flat and precise, while Shizuka wrote down the tally.
+Twenty-two citizens voted. Anko collected the ballots in the sealed box, one at a time, and checked each name against her list. Nano counted them aloud, flat and precise, while Shizuka wrote down the tally.
 
-It was Umaru, then Agott, then Umaru, then Umaru, then Agott, then Agott, all the way down. When there were two ballots left, it stood at nine each.
+It was Umaru, then Agott, then Umaru, then Umaru, then Agott, then Agott, all the way down. When there were two ballots left, it stood at ten each.
 
 The fort had gone completely silent.
 
-Nano unfolded the nineteenth ballot.
+Nano unfolded the twenty-first ballot.
 
 "Umaru," she said.
 
-Ten to nine.
+Eleven to ten.
 
-Nano unfolded the twentieth.
+Nano unfolded the twenty-second.
 
 She looked at it for a long moment.
 
@@ -176,13 +190,13 @@ Ryo, lying on the stage, opened one eye.
 
 "I considered it," she said, and closed it again.
 
-Ten to nine, with one spoiled ballot. Anko checked the tally twice, then a third time, then sealed it, and declared the result. In accordance with the procedure on page two, she announced:
+Eleven to ten, with one spoiled ballot. Anko checked the tally twice, then a third time, then sealed it, and declared the result. In accordance with the procedure on page two, she announced:
 
 "Umaru Doma is President of the Fort."
 
 The fort erupted.
 
-Milim, in the doorway, cheered so loudly that a slat came loose. Hakari cheered for both candidates. Kessoku played the campaign song, with Umaru's name in it. Coco hugged Umaru so hard her hood came off. And Agott, who had lost by one vote and a drawing of a snack, stood up, crossed the fort, and held out her hand.
+Milim, under the Beam, cheered so loudly that a slat came loose. Afterward she told everyone who would listen that she had voted for the one who bites her lip before the sneaky thing, and would not say which one that was, though everybody knew. Hakari cheered for both candidates. Kessoku played the campaign song, with Umaru's name in it. Coco hugged Umaru so hard her hood came off. And Agott, who had lost by one vote and a drawing of a snack, stood up, crossed the fort, and held out her hand.
 
 Umaru looked at it.
 

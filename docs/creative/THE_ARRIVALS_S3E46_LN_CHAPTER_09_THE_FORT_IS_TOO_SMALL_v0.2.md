@@ -4,11 +4,11 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 9  
-**Continuity state:** Nights 8-10 after Mau wakes | the fort collapses under twenty | Fern's treaty: the north end of the common room, never over the four scratches | Wakana's nail-free frame, Ori's window, the annex with six NEXT cushions
+**Continuity state:** Nights 8-10 after Mau wakes | the fort collapses under twenty-two | it must fit Milim standing (the Milim Beam) | Fern's treaty: the north end of the common room, never over the four scratches | Wakana's nail-free frame, Ori's window, the annex with six NEXT cushions
 
 The fort had been built for four people and a great many snacks, during a war, in one afternoon. It had never been meant to last. It had lasted anyway, because nobody had the heart to take it down, and because the treaty that ended the war had made it a monument.
 
-It had not been built for twenty.
+It had not been built for twenty-two. And it had never, from the very first cushion, been built for Milim.
 
 That became clear on the eighth night after Mau woke. Richeh, lying across the back of the fort as she always did now, stretched in her sleep. Her feet went straight through the folding screen. The screen fell on Ryo, who had been sleeping in the toll booth, which was not a bed. Ryo, still mostly asleep, crawled out of the toll booth and onto Karane. Karane screamed. Hakari, who had been sleeping next to Karane, woke up swinging. One of the cushion walls came down on Nano, who stayed exactly where she was under it and said, in a flat and muffled voice:
 
@@ -22,7 +22,7 @@ Umaru sat up in the wreckage in her hamster hood and looked around at all of it 
 
 The emergency session was held in the ruins.
 
-Everyone came. Eighteen people sat in a rough circle on the collapsed cushions of a fort that was technically still a national monument: the four founders, Ori, the Witch Hat girls, Kessoku, Hakari's group with Kusuri back among them, Marin, Mai at the edge, Anko with her notebook. Rem was there with the tea, pouring, as if the tea were the session and the session were only happening around it.
+Everyone came. They sat in a rough circle on the collapsed cushions of a fort that was technically still a national monument: the four founders, Ori, the Witch Hat girls, Kessoku, Hakari's group with Kusuri back among them, Marin, Mai at the edge, Anko with her notebook and Nazuna beside her, yawning, because it was morning and she had made herself be awake for it. Milim sat in the middle, where she had sat all week, hunched under the low roof with her head bent sideways against the screen. Rem was there with the tea, pouring, as if the tea were the session and the session were only happening around it.
 
 "The fort," said Umaru, "is too small."
 
@@ -35,6 +35,18 @@ Nobody argued.
 "There's always a next," said Coco quietly.
 
 Nobody said anything to that. Since the night of the bay, everyone in the circle had understood something about *next*.
+
+"And it has to fit Milim," said Umaru. "Standing up."
+
+Milim, in the middle of the circle with her head against the screen, went very still.
+
+"Standing *up*?" said Hakari.
+
+"She's been sitting bent in half in the middle of this fort for a week," said Umaru, "with her head in the screen, and she hasn't complained once. Not once. The Head of Fun." She looked at Milim. "A fort that doesn't fit Milim standing up is a bad fort. I'm not building a bad fort."
+
+Milim did not say anything at all. She reached across the circle, picked Umaru up off her cushion, hood and all, held her in the air for a moment as if she were something precious, and then put her down again very gently and went back to sitting with her head against the screen. Her eyes were suspiciously bright.
+
+"That's a yes," said Coco.
 
 "So we build a new one," said Hakari. "A big one. A huge one. A fortress!"
 
@@ -96,11 +108,11 @@ Umaru signed the terms. Coco witnessed. Fern drew a chalk line across the floor 
 
 They built it in two days.
 
-Wakana designed the frame. A fort that held twenty, she said, could not be made only of cushions; cushions were walls, not bones. So she built it bones: light slats pegged together without a single nail, so that it could be taken apart and put back like a puzzle. Fern had said *no door with a lock*, and a frame with no nails could not have one.
+Wakana designed the frame. A fort that held twenty-two, and Milim standing, she said, could not be made only of cushions; cushions were walls, not bones. So she built it bones: light slats pegged together without a single nail, so that it could be taken apart and put back like a puzzle. Fern had said *no door with a lock*, and a frame with no nails could not have one.
 
-Senku engineered it, which meant he walked around Wakana's frame with a measuring cord saying *load-bearing* about things that were not load-bearing. Then he added one crossbar that turned out to be the only reason the roof stayed up.
+Senku engineered it, which meant he walked around Wakana's frame with a measuring cord saying *load-bearing* about things that were not load-bearing. Then he added one crossbar that turned out to be the only reason the roof stayed up. In the middle of the fort, Wakana raised the peak of the roof high, higher than anywhere else, on two long slats that ran from floor to ridge. Senku measured it twice against Milim, standing very straight and very proud with her hands at her sides, and called it *the Milim Beam*. The name stuck at once.
 
-Agott made the rules for construction, because somebody had to and nobody else wanted to: who carried what, in what order, and who was allowed to stand where while the roof went on. She enforced them with total severity, and was obeyed, and pretended she did not enjoy it.
+Agott made the rules for construction, because somebody had to and nobody else wanted to: who carried what, in what order, and who was allowed to stand where while the roof went on. She enforced them with total severity, and was obeyed, and pretended she did not enjoy it. Her first rule was the old one, from the war: *Milim, no strength.* Her second rule, an amendment, made after Milim had looked at the pile of crates for a long and patient minute: *Milim may carry anything at the speed of a normal person.* Milim carried everything, at the speed of a normal person, with tremendous concentration, and was the hardest worker on the site.
 
 Tetia decorated. Everything she could reach got a ribbon, and some things she could not reach got one too, because Kita lifted her.
 
@@ -116,6 +128,8 @@ Kusuri made light. Small glass jars, with something in them that glowed a soft y
 
 Anko installed a filing cabinet. It was a crate. It said RECORDS on the side. She put her notebook in it, and Nano's measurements, and the old toll records from the war. Then she sat on it, because it was the only chair in the fort.
 
+Nazuna helped, in the way Nazuna helped, which was to watch Anko install the crate from the new crossbar, where she hung upside down by her knees to test it. Agott told her to come down. She did not come down. She said she was testing the load-bearing, which Senku, passing, confirmed was technically true.
+
 Coco did the plan. She drew it in charcoal on the back of an old road map. On it, every room and corner of the fort had a name.
 
 And Ori, quietly, on the second afternoon, cut a window.
@@ -128,7 +142,7 @@ Nobody asked her why. Umaru looked through it once, and looked at Ori, and then 
 
 The toll booth was moved last.
 
-It was carried across the common room, from the old corner to the new north end, by six people, with ceremony. Suika walked in front of it with a spoon held up like a scepter. Then Umaru took the spoon away, because it was too much like a scepter, and gave it back to Momo.
+It was carried across the common room, from the old corner to the new north end, by six people and Milim, with ceremony. Milim could have carried it alone, and offered, and was told by the President that ceremony required six. Suika walked in front of it with a spoon held up like a scepter. Then Umaru took the spoon away, because it was too much like a scepter, and gave it back to Momo.
 
 The sign on the booth still said, in Coco's careful lettering:
 
@@ -161,13 +175,13 @@ Then she came out and pulled the curtain closed behind her.
 
 
 
-That night the fort held twenty people, and there was room.
+That night the fort held twenty-two people, and there was room.
 
-There was room for Richeh's feet, and room for Ryo not to sleep in the toll booth. There was room for Mai to sit near the middle without looking as if she had decided to. There was room for Rem to sit between Ori and Coco without anyone moving. And there were six cushions in the annex with NEXT in front of them.
+There was room for Milim, who stood up straight under the Milim Beam, under the peak of the roof, with the broom handle of the hamster flag just brushing her hair. She stood there for a long time, for no reason at all except that she could. There was room for Richeh's feet, and room for Ryo not to sleep in the toll booth. There was room for Mai to sit near the middle without looking as if she had decided to. There was room for Rem to sit between Ori and Coco without anyone moving. And there were six cushions in the annex with NEXT in front of them.
 
 Kusuri shook the little jars, and the fort lit up soft green from the inside.
 
-Down the corridor, in the room with the east window, Mau lay in bed and listened to the noise of twenty people trying to be quiet. It came faintly through two walls. Frieren, in the chair beside him, turned a page.
+Down the corridor, in the room with the east window, Mau lay in bed and listened to the noise of twenty-two people trying to be quiet. It came faintly through two walls. Frieren, in the chair beside him, turned a page.
 
 "What are they doing?"
 

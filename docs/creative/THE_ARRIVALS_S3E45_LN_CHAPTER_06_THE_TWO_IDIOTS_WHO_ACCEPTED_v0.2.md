@@ -124,7 +124,7 @@ Momo did the food. Nobody had to ask.
 
 Hakari's group was not recruited so much as kidnapped. Suika walked into their room, said "Fort," and walked out again, and all five of them followed her. Nano timed the ceremony to the second. Shizuka wrote out the order of ceremony in her careful hand, so that Umaru would have something to read from. Karane complained that nobody had asked her opinion, then gave it at length, and most of it was used. Hakari volunteered for everything, and Kusuri made the confetti fall slower than confetti should, and would not say how.
 
-Anko, who could find out anything that happened in the settlement, was put in charge of making sure Mau found out nothing. She took the job very seriously and enjoyed it more than she admitted.
+Anko, who could find out anything that happened in the settlement, was put in charge of making sure Mau found out nothing. She took the job very seriously and enjoyed it more than she admitted. She brought Nazuna into the secret too, on the second evening, and Nazuna was awake for the whole ceremony, which was new.
 
 Seiko said yes before they finished asking. A ceremony needed someone who had done ceremonies, she said, and she had conducted more of them than anyone alive. Most had been for things that were dead, so she was long overdue for one with living idiots.
 

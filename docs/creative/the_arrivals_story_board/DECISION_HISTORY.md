@@ -512,3 +512,14 @@ Creator request, 2026-10-08: a chapter (minimum) of the pack moving and improvin
 - **Timing.** "The Fort Sends Notes": Rem's realization is moved to two evenings after the concert, eleven nights without the old inn, so her toll sign exists before the booth moves.
 - **"Cut the Real Cloth"** now includes FORT (EXTENSION), which Senku drew unasked.
 - **Resonances.** Article 6 against S4's two days. The six NEXT cushions against the coins (S4). Agott's Opposition as a recurring role.
+
+## DH-035 — Milim is part of the fort; Nazuna joins through Anko (correction, 2026-10-08)
+
+Creator, reading V18 "The Fort Is Too Small": why isn't Milim part of the fort? "A la GOAT no se le falta el respeto." And Nazuna: Anko pulled her in, and she should be seen living with them more and more, because she started sleeping earlier so she could see them at breakfast and dinner.
+
+- **"The Bay":** Nazuna arrives with Anko, having kept away from the corridor that night for reasons she didn't have to explain. That makes **twenty and one teacher**. Milim's absence is named and honoured: she is outside the bay with Frieren, and Suika keeps checking ("she's still there").
+- **"The Fort Sends Notes":** Milim sits in the middle of the old fort (the only place tall enough); Nazuna is awake "at an hour she had never once been awake for". There are new basket notes ("GET BETTER. THAT IS AN ORDER FROM THE HEAD OF FUN", with the dragon-or-dog; "I woke up early for this. Appreciate it.") and Mau's replies.
+- **"The Fort Is Too Small":** twenty-two citizens. Umaru: **"A fort that doesn't fit Milim standing up is a bad fort."** Wakana raises the **Milim Beam**, with Senku measuring it against her. Agott's rules: "Milim, no strength", amended to "at the speed of a normal person". Milim carries the toll booth with the six, for ceremony. Nazuna tests the crossbar upside down.
+- **"Madam President":** Milim wants to run. Agott rules that she can't hold two offices, so the **Office of the Guardian of the Fort** is created. Umaru: "Strongest isn't the same as in charge." Milim: "I know that one." The tally becomes **11–10 with Ryo's spoiled ballot (22 voters)**. Milim's vote went to "the one who bites her lip".
+- **Ceremony (V17 #39):** Anko brings Nazuna into the secret; she is awake for the whole ceremony.
+- **S4:** fort counts become twenty-two. In "The Corner" the Guardian asks Mau "Which one?" ("The idiot who accepted." / "Pass.").

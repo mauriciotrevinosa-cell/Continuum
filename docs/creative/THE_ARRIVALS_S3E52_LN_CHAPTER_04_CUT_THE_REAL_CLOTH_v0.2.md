@@ -86,7 +86,7 @@ Mikasa's room with two exits.
 
 Senku's room next to his workroom downstairs, because Fern had said, months ago, that Senku would not sleep in the workshop, and Fern did not forget things. It had a door that Fern could lock from the outside. Senku objected to the lock in writing. Fern added a second lock.
 
-And at the turn of the upstairs corridor, a narrow room. The plan said REM in pencil, because when Wakana went to ink it, Rem said "Pencil," and nobody argued.
+And at the turn of the upstairs corridor, a narrow room. The plan said REM in pencil, because when Wakana went to ink it, Rem said "Pencil," and nobody argued. Under it, smaller, it said *(SISTER)*, in Coco's lettering. Coco had insisted that the plan match the door.
 
 
 

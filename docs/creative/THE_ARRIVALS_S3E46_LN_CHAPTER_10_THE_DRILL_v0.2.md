@@ -101,6 +101,10 @@ Mau's card read:
 
 INNER MOBILE RESPONSE.
 
+Underneath, in Maomao's handwriting:
+
+*Inner. Not one step further. — M.*
+
 He stared.
 
 Not front.

@@ -261,6 +261,10 @@ Leaving.
 
 Returning again.
 
+Pencil on a door.
+
+A smaller slip under it.
+
 "I don't know."
 
 "Did she choose to come back?"

@@ -564,7 +564,7 @@ The creator: we've never seen the others' birthdays. He wants birthday chapters,
 
 - **#17 "The Birthday Board":** Fern: "Eleven days." Fern kept Frieren's birthday since she was six. Coco's board. Dated slips:
   - Milim: the Dragon Knuckles remade by everyone, after the Move. She punches a cloud in half.
-  - Umaru: forty-one bags, during the redesign weeks; Senku's root, Momo's frying.
+  - Umaru: forty-one bags, **after V17 "The Legendary Snack"**, where chips were first made from the market-town potatoes and Frieren's crisping-spell grimoire. Momo fries, Seiko supervises, Senku measures the oil, and Frieren casts the spell forty-one times. (Corrected 2026-10-08 after a creator catch; the first draft wrongly had the house invent chips during V16.)
   - Coco: Qifrey's pen.
   - Fern: Stark remembers this time, with a silver-wire bracelet.
   - Ori: she picks the day she was found, and the tidepool stone she later sent back in the bay basket.

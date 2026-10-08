@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 17  
-**Continuity state:** Some days after the second drill, before the road reports stop | Fern: 'Eleven days' | Coco's Birthday Board | remembered birthdays, each dated: Milim's Dragon Knuckles, Umaru's forty-one bags, Coco, Fern, Ori's found day, Bocchi | Frieren's name not on the board yet
+**Continuity state:** Some days after the second drill, before the road reports stop | Fern: 'Eleven days' | Coco's Birthday Board | remembered birthdays, each dated: Milim's Dragon Knuckles, Umaru's forty-one bags (after the Legendary Snack), Coco, Fern, Ori's found day, Bocchi | Frieren's name not on the board yet
 
 It was Fern who noticed, which surprised nobody.
 
@@ -116,21 +116,23 @@ Milim opened it at breakfast.
 
 She did not say anything for a long time. Then she put them on, one at a time, very slowly. Then she cried. She cried so hard and so happily that she could not eat her breakfast, so Momo ate it for her, very tenderly. For a week afterward she would not hit anything at all, in case it scuffed them. On the eighth day she went out into the yard early in the morning, alone, and punched the sky once, straight up, as hard as she could. A cloud over the settlement broke in half and drifted apart in two pieces. Senku said that was not possible. Milim said it was a test.
 
-*UMARU. (This was during the redesign weeks, when the Muslin's walls were still moving every three days.)*
+*UMARU. (This was at the end of summer, a few weeks after the Legendary Snack.)*
 
-Umaru had been homesick for exactly one thing, in a world without anything she knew: potato chips.
+Since the night they came back from the market town with a sack of potatoes and a small battered grimoire, the house had been able to make chips. Real ones. It took four people to do it. Momo fried. Seiko supervised, which meant telling Momo she was doing it wrong. Senku measured the oil, because there was a correct temperature and he would not let anyone guess it. And Frieren held her hand over every tray as it came out of the oil and said three words very quietly, because without the spell they were only very good sad potatoes.
 
-Nobody in the settlement had known what a potato chip was. Momo, it turned out, did. So did Kita, and Marin, and Mau, in the way he knew things from before without knowing how. Senku did not, but became extremely interested when told that it was a slice of starch fried until its structure changed. He went looking for a local root that would behave like a potato. He found three. Two were poisonous, according to Maomao, who made him eat neither. The third worked.
+It was an event. It happened perhaps once a fortnight, when all four of them could be got into the kitchen at the same time.
 
-Senku built a slicer. Momo did the frying, in oil from Senku's press. Kusuri did the salt, very precisely. The fort, which at that time was four people and a monument, folded paper bags out of old ledger pages, under strict secrecy.
+On Umaru's birthday it happened forty-one times.
 
-On the morning of her birthday Umaru opened the door of her room and found it blocked. Wall to wall, floor to ceiling, there were paper bags of chips. Forty-one bags. Coco had counted.
+They started before dawn and did not stop until the middle of the morning. Momo fried until her arms ached. Seiko supervised until she had no complaints left, which nobody had known was possible. Senku measured the oil forty-one times and wrote down every temperature. Frieren stood by the trays with her hand out and cast the crisping spell forty-one times in a row. Senku told her it was cheating forty-one times in a row, and she said *it's a spell* forty-one times, and neither of them got tired of it. The fort, which at that time was four people and a monument, folded paper bags out of old ledger pages under strict secrecy. Coco counted.
+
+When Umaru opened the door of her room, she found it blocked. Wall to wall, floor to ceiling, there were paper bags of chips. Forty-one of them.
 
 Umaru stood in the doorway and looked at them.
 
-Then she went back into her room, shut the door, opened it again, and looked at them again, as if they might have been a dream. Then she picked up one bag and held it to her chest with both arms and cried, quietly, into the paper. Nobody had ever seen Umaru cry about anything that was not a game.
+Then she went back into her room, shut the door, opened it again, and looked at them again, as if they might have been a dream. Then she picked up one bag and held it to her chest with both arms, and it crackled, and she cried quietly into the paper. It was the other kind of crying, the kind from the night in the kitchen when the first one cracked.
 
-She ate one bag that day. She gave the other forty away over the next two weeks, one at a time, to everyone in the house who had made them. She kept the last bag on the shelf above her bed for a month, unopened, so she could look at it.
+She ate one bag that day. She gave the other forty away over the next two weeks, one at a time, to everyone who had made them, and to Himmel, who had walked two hours to a market town for fried dirt and never complained once. She kept the last bag on the shelf above her bed for a month, unopened, so she could look at it.
 
 *COCO. (This was in the storm, the second day.)*
 

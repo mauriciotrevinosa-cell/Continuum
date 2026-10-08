@@ -101,7 +101,7 @@ Council met immediately.
 
 Not closed.
 
-Second-community observer attended remotely through messenger exchange? No magic call. Their own courier arrived later with parallel document.
+The second community had no seat at it. No magic call either. Their own courier arrived an hour later with a parallel document.
 
 Same demand.
 

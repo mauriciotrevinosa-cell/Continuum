@@ -496,3 +496,19 @@ Creator-designed, 2026-10-07: he had not seen Frieren and Fern together with any
 - **The kiss.** The household comes to the old inn to eat the failed attempts. Stark goes tomato red. Frieren nudges Fern twice under the table. **Fern kisses Stark: "I love you. Romantically."** These are Mau's words from the S2 clearing. Mau whispers to Stark: "This is the part where you tell her you love her too. Or that's what Frieren told me." Frieren's look could freeze the river. Stark: "I love you too. Romantically." **Nobody says a word.** The rest of the night Fern and Frieren behave like girls, in public, and never notice everyone is there.
 - **Next morning.** They threaten to destroy the house ("The new one too"). "It was the chocolate." Maomao swallows the lie. Seiko and Anko: "Again? ... Every week it's something with that girl." The table laughs. Maomao's eyes say *you owe me*: "Next time, the chocolate will also have an aphrodisiac."
 - **Status change:** **Fern and Stark are official** from V18 #11. "Cut the Real Cloth" was adjusted ("officially allowed to notice now"). V19 "Everyone Came" already reads as a couple.
+
+## DH-034 — The fort is rebuilt, and the fort gets a President (V18 #9–#10)
+
+Creator request, 2026-10-08: a chapter (minimum) of the pack moving and improving the fort so it fits nineteen and whoever comes later, echoing the war, with Umaru declaring a presidency. Plus: in the official house, Senku adds a common-room extension for the fort.
+
+- **"The Fort Is Too Small"** (nights 8–10 after Mau wakes). The old fort collapses under twenty (Nano: "Structural failure."). Fern's treaty and Senku's line ("They moved a whole temple once") are covered in the layout lock under "The fort". The pack builds it in two days. **Ori cuts a window toward the corridor**, and Umaru has Wakana make sure it will never fall in. The toll booth moves with ceremony, adding "TOLL FOR WHOEVER COMES NEXT: ALSO NONE". **Umaru lays six NEXT cushions in the annex**: "Somebody always comes."
+- **"Madam President"** (days 11–14):
+  - Agott: "That's not a reason. That's a history." Umaru: "Then I'm President." Agott runs as **Opposition** ("Not you" is a popular platform).
+  - Milim and Rimuru are honorary citizens. Ryo sells her vote to both sides. Hakari campaigns for both, sincerely. Anko audits. Diablo guards democracy.
+  - **Senku: "Don't make it a crown." / Umaru: "Presidents get voted out. Kings don't... She's not my enemy. She's the reason it isn't a crown."** / "Ten billion percent approved."
+  - The vote: 10–9 with Ryo's spoiled ballot. Sashes PRESIDENT (TEMPORARY) and OPPOSITION.
+  - Mau's absentee opinion, not counted: "Whoever wins, no capes. P.S. Thank you for the window."
+  - **The constitution's Article 6: "Nobody in the fort is ever alone."**
+- **Timing.** "The Fort Sends Notes": Rem's realization is moved to two evenings after the concert, eleven nights without the old inn, so her toll sign exists before the booth moves.
+- **"Cut the Real Cloth"** now includes FORT (EXTENSION), which Senku drew unasked.
+- **Resonances.** Article 6 against S4's two days. The six NEXT cushions against the coins (S4). Agott's Opposition as a recurring role.

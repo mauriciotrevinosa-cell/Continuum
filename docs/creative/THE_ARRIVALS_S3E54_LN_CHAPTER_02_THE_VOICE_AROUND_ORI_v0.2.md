@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 41 — The Voice Around Ori
+## Chapter 43 — The Voice Around Ori
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 41  
+**Reading order:** 43  
 **Continuity state:** Ordinary dinner after recovery | First undeniable external intrusion associated with Ori | Goddess not yet fully identified
 
 Dinner was ordinary enough that nobody wrote it down.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 35 — Cut the Real Cloth
+## Chapter 37 — Cut the Real Cloth
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 35  
+**Reading order:** 37  
 **Continuity state:** Rebuild weeks, after the memorial | The real house is drawn, not built: two floors, a cellar, two exits under every section, a room with no name
 
 Wakana took the board down three weeks after the memorial.
@@ -85,6 +85,8 @@ Himmel's room on the road side, facing the way people would come.
 Mikasa's room with two exits.
 
 Senku's room next to his workroom downstairs, because Fern had said, months ago, that Senku would not sleep in the workshop, and Fern did not forget things. It had a door that Fern could lock from the outside. Senku objected to the lock in writing. Fern added a second lock.
+
+Off the north end of the common room, there was a bay that nobody had asked for. Senku had drawn it in without a word while the others argued about stairs, and labelled it, in his small square capitals, FORT (EXTENSION). It was big enough for twenty people, and for six cushions more. When Umaru saw it, she did not say anything for a very long time, and then she shook Senku's hand.
 
 And at the turn of the upstairs corridor, a narrow room. The plan said REM in pencil, because when Wakana went to ink it, Rem said "Pencil," and nobody argued. Under it, smaller, it said *(SISTER)*, in Coco's lettering. Coco had insisted that the plan match the door.
 

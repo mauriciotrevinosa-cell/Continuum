@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 34 — Who Watered It
+## Chapter 36 — Who Watered It
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 34  
+**Reading order:** 36  
 **Continuity state:** Rebuild weeks | Memorial for the three Last Defense dead | Household attends as part of everyone
 
 The memorial was not the household's to plan.

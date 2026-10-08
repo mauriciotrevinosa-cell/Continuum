@@ -289,3 +289,7 @@ Creator direction while reading V14. The temporary cluster is a **mock-up of the
 - Nobody knocks on Mau and Frieren's door after dark unless something is on fire or someone is dying (Fern's rule). That is why Rimuru sleeps there.
 - Arrival House stays outside the family core. The unnamed family room is not intake.
 - The shelf's placement is never resolved.
+
+## The fort (V18 "The Fort Is Too Small" / "Madam President", 2026-10-08)
+- **Muslin:** by Fern's treaty, the fort moves from the common-room corner to the **north end of the common room**, from the end of the long table to the wall. It **never covers the four scratches**, never blocks the kitchen path, Rimuru's office door or the cold hearth (Rimuru is an honorary citizen with right of passage), and it stays a fort: no door with a lock. Wakana's frame uses no nails. Mai's north wall is the straightest. Ori's window in the south wall faces the family corridor. There is a stage corner (Kessoku), an ANNEX with **six NEXT cushions**, the RECORDS crate (Anko), the toll booth with Rem's cup on its hook, Kusuri's glow jars, and the hamster flag.
+- **Real house (creator, 2026-10-08):** Senku draws a **common-room extension for the fort** into the official plan, labelled FORT (EXTENSION), big enough for twenty and six more. It appears in V18 "Cut the Real Cloth", and the fort moves there when the real house is built (S4 peace volume).

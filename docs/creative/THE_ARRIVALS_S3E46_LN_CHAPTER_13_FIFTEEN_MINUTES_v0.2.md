@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 11 — Fifteen Minutes
+## Chapter 13 — Fifteen Minutes
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 11  
+**Reading order:** 13  
 **Continuity state:** Day 30 | Mau sends Fern and Frieren out for the day | Mau and Stark make hamburg steak at the old inn, Momo supervises the pudding: 'Sorry for scaring you' | Fern and Stark become official | next morning: 'it was the chocolate'
 
 Mau found Fern that evening in the common room, mending a sleeve.

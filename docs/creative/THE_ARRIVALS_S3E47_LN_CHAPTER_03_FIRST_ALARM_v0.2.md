@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 16 — First Alarm
+## Chapter 18 — First Alarm
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 16
+**Reading order:** 18
 
 Dusk.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 38 — Kaneki Knows This Part
+## Chapter 40 — Kaneki Knows This Part
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 38  
+**Reading order:** 40  
 **Continuity state:** Noise overload, hour 4 | Familiar biological sign returns | Kaneki contributes narrowly, without identity claims
 
 The back pain started four hours in.

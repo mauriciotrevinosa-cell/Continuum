@@ -4,7 +4,7 @@
 **Volume:** 18  
 **Season:** 3  
 **Volume title:** **Last Defense**  
-**Chapter count:** 42
+**Chapter count:** 44
 
 | # | Chapter |
 |---:|---|
@@ -16,44 +16,46 @@
 | 6 | Stay With Me |
 | 7 | Both of Us |
 | 8 | The Fort Sends Notes |
-| 9 | The Pattern Room |
-| 10 | First Day Out |
-| 11 | Fifteen Minutes |
-| 12 | The Drill |
-| 13 | The Second Drill |
-| 14 | The Road Reports Stop |
-| 15 | The Western Demand |
-| 16 | First Alarm |
-| 17 | Negotiation at the Edge |
-| 18 | The Monster Wave |
-| 19 | Evacuation |
-| 20 | Last Defense Front |
-| 21 | Outer Line |
-| 22 | It Fails Correctly |
-| 23 | Unknown Inside |
-| 24 | Under the Refuge |
-| 25 | Aira Broke It |
-| 26 | The Night Between |
-| 27 | Morning After |
-| 28 | Counting the Cost |
-| 29 | The Story Was Ready |
-| 30 | Sukuna Hears They Survived |
-| 31 | The Worldless Man |
-| 32 | Leadership After the Front |
-| 33 | The Device Came With Building Material |
-| 34 | Who Watered It |
-| 35 | Cut the Real Cloth |
-| 36 | Threshold |
-| 37 | Protocol |
-| 38 | Kaneki Knows This Part |
-| 39 | Ori Knows Where the Door Is |
-| 40 | It Passes |
-| 41 | The Voice Around Ori |
-| 42 | She Is Not Your Mouth |
+| 9 | The Fort Is Too Small |
+| 10 | Madam President |
+| 11 | The Pattern Room |
+| 12 | First Day Out |
+| 13 | Fifteen Minutes |
+| 14 | The Drill |
+| 15 | The Second Drill |
+| 16 | The Road Reports Stop |
+| 17 | The Western Demand |
+| 18 | First Alarm |
+| 19 | Negotiation at the Edge |
+| 20 | The Monster Wave |
+| 21 | Evacuation |
+| 22 | Last Defense Front |
+| 23 | Outer Line |
+| 24 | It Fails Correctly |
+| 25 | Unknown Inside |
+| 26 | Under the Refuge |
+| 27 | Aira Broke It |
+| 28 | The Night Between |
+| 29 | Morning After |
+| 30 | Counting the Cost |
+| 31 | The Story Was Ready |
+| 32 | Sukuna Hears They Survived |
+| 33 | The Worldless Man |
+| 34 | Leadership After the Front |
+| 35 | The Device Came With Building Material |
+| 36 | Who Watered It |
+| 37 | Cut the Real Cloth |
+| 38 | Threshold |
+| 39 | Protocol |
+| 40 | Kaneki Knows This Part |
+| 41 | Ori Knows Where the Door Is |
+| 42 | It Passes |
+| 43 | The Voice Around Ori |
+| 44 | She Is Not Your Mouth |
 
 ## Opening arc: the reversion night (#1–#7), 2026-10-07
 
-A week after the council, Mau's own pattern decides the walls are an injury and reverts his body toward the moment after Sukuna. Two days in the bay, then the morning he wakes. The house's one unanimous rule follows. #8 "The Fort Sends Notes" covers the two weeks in bed: the pack, with Rem as its agent (DH-031). The bridge at the top of #9 sums them up, and two more weeks indoors run alongside the early V18 investigation. #10 "First Day Out" is his first public walk on day 29 (DH-032). #11 "Fifteen Minutes" is the next day: Frieren and Fern's day out, the hamburg steak, and Fern and Stark becoming official (DH-033). See `the_arrivals_story_board/DECISION_HISTORY.md` DH-029 and containment lock §3E.
+A week after the council, Mau's own pattern decides the walls are an injury and reverts his body toward the moment after Sukuna. Two days in the bay, then the morning he wakes. The house's one unanimous rule follows. #8 "The Fort Sends Notes" covers the two weeks in bed: the pack, with Rem as its agent (DH-031). #9 "The Fort Is Too Small" and #10 "Madam President" fall inside the same weeks: the pack's fort is rebuilt for twenty and gets a constitution (DH-034). The bridge at the top of #11 sums up the two weeks, and two more weeks indoors run alongside the early V18 investigation. #12 "First Day Out" is his first public walk on day 29 (DH-032). #13 "Fifteen Minutes" is the next day: Frieren and Fern's day out, the hamburg steak, and Fern and Stark becoming official (DH-033). See `the_arrivals_story_board/DECISION_HISTORY.md` DH-029 and containment lock §3E.
 
 ## Creator-revision enemy-pressure expansion — 2026-10-04
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 10 — First Day Out
+## Chapter 12 — First Day Out
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 10  
+**Reading order:** 12  
 **Continuity state:** Day 29 after Mau wakes | Maomao's slip: OUTSIDE. SLOWLY. | the fort escorts him | three rumors, 'dead' winning | washing court, the merchant's pears | Seiko's fan | thanks in one line each | the ink tree has nine leaves
 
 On the twenty-ninth morning, Maomao signed a slip of paper and handed it to Mau without a word.

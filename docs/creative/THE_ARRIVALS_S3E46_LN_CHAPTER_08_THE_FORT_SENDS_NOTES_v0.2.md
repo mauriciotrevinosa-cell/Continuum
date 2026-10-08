@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 8  
-**Continuity state:** Days 4-14 after Mau wakes | the pack can't go in, so Rem becomes the fort's agent | notes, the window concert, Seiko: 'Then hit him' | Rem realizes she has joined: (SISTER)
+**Continuity state:** Days 4-14 after Mau wakes | the pack can't go in, so Rem becomes the fort's agent | notes, the window concert, Seiko: 'Then hit him' | Rem realizes she has joined: (SISTER), two evenings after the concert
 
 The fort was not allowed in.
 
@@ -200,7 +200,7 @@ Nano called time at exactly ten minutes. Maomao closed the window herself.
 
 
 
-Near the end of the second week, Rem carried the empty basket back to the fort one evening and stopped in the doorway of the common room.
+Two evenings after the concert, Rem carried the empty basket back to the fort one evening and stopped in the doorway of the common room.
 
 Somebody had made a new sign for the toll booth. It said, in Coco's careful lettering:
 
@@ -233,7 +233,7 @@ It surprised her. It came out of her before she knew it was coming. It was a rea
 
 She went into the fort. She sat down in the place between Ori and Coco that had been hers since the night of the bay, and Ori leaned against her without a word.
 
-It was only later, going up to bed, that she noticed she had not slept at the old inn in nine nights. She noticed it the way you notice you have stopped limping. She had not decided anything. She had only stopped going.
+It was only later, going up to bed, that she noticed she had not slept at the old inn in eleven nights. She noticed it the way you notice you have stopped limping. She had not decided anything. She had only stopped going.
 
 At the turn of the family corridor was the narrow room, with the slip on the door that said REM in pencil, in her own hand.
 

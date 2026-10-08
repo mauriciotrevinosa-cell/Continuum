@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 20 — Last Defense Front
+## Chapter 22 — Last Defense Front
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 20  
+**Reading order:** 22  
 **Continuity state:** Last Defense active | Two evacuation routes unreliable | Central refuge sealed into protected endpoint
 
 The western line broke first.

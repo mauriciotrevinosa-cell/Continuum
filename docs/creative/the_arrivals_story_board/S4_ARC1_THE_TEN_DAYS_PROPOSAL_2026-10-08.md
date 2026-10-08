@@ -113,3 +113,51 @@ Proposed contents (a menu, not an order):
 4. Which petitions succeed (Coco, Rem, Kaneki, Kusuri, Maki, others).
 5. Ring Four disappearing by Returning: yes or no.
 6. Whether the peace volume ends on the Frieren-gets-hit seed or something else.
+
+---
+
+## CREATOR DECISIONS, 2026-10-08 (these override the proposal above where they differ)
+
+1. **Nobody named leaves. Nobody from G1–G5, and nobody in Rings One, Two or Three.** Not Eren, not anyone. Some mention it or consider it on the page. **Only the complaining randoms Return**, meaning Arrival House people and Ring Four. That is how Ring Four disappears.
+2. **Mau does not go to the Goddess.** Everyone tells him: *you made a contract.* He has to accept their decisions.
+3. **The morning after the window closes.** Mau wakes alone and goes to the common room. Nobody is there. The rooms are empty. Then he hears noise from the plaza and realizes nobody left. Hakari's group: **"All the people from the Arrival House left, but we still got a Frieren."** Mau laughs.
+4. **Petitions become tokens.** Everyone who stayed receives a **coin** that can be exchanged for a person. **Tokens are transferable**: someone could give theirs away, so a person could hold two.
+5. **The vetting agreement.** After the fight, the household agrees to check a petition before closing it if the person is not connected to Rings One or Two. At minimum, someone from Ring Three must vouch. Claude's reading; confirm.
+6. **New arrivals should be strategic, not only family.**
+7. **Mau's speech:** stop protecting me. Don't assume that telling me you don't need me is love; it hurts me more. Let me go, let me act. In time I'll be unstoppable, as Rimuru said, like a True Dragon. Trust me. **"I'm one of the idiots who accepted. So let me be that idiot."** This calls back V17 #39.
+8. **Timeframe.** The talk and the peace volume together take about **one month**: some ugly days, some healing days, some days of pure fun.
+9. **The peace volume ends with the witches.** They are fed up with coming every time (the fortnightly sessions, V15 "The Appointment") and ask to change the contract.
+   - **Greed** gives the settlement her library.
+   - One becomes **the agriculture administrator**.
+   - Some ask simply to **live there and share daily life**. Envy envied it.
+   - Mau agrees on one condition: **no spells and no curses on anyone in the settlement.** A new contract follows: they may stay, each keeps her own agreement, and there are no spells or curses on settlement members. They agree, and they start looking after the settlement's people.
+   - This is the first time the LN names them individually. The text has only ever said "the witches" and "the first witch".
+10. **The V19 threads are delegated to Claude** (the creator hasn't read V19).
+
+## Revised Part 6 (replaces the earlier Part 6)
+
+- **Day 8.** Mau asks to go to the Goddess to ask for terms. The house answers with the condition, signed in the ledger: *you made a contract.* He accepts. That night Mau gives the "let me be that idiot" speech: he will not go to the Goddess, but **he will not be shut out of what comes after either.** He and Rimuru, as the two faces, sit on the **Token Council** (the vetting agreement in practice) with Fern's ledger.
+- **Days 9–10.** People go privately and with witnesses, and every named character is shown *considering*: Eren on the road south, Bocchi with her guitar case, Kaneki at the bridge, Aira "asking in a week" and answering in three days. Nobody named says Return. The complaining randoms do.
+- **Day 10, sunset:** the window closes.
+- **Day 11, morning:** creator decision 3, word for word in spirit.
+
+## Tokens: Claude's proposed rules (confirm)
+- **Each stayer gets one coin.** It can be exchanged for a petition **concerning a specific loved person**: the Goddess's bound still holds, but "loved" can be defined generously. It is transferable.
+- **Proposal: coins do not expire.** That makes them a long-term mechanic for S4 and S5: arrivals over time, and a strategic reserve the household argues about. In the peace volume only a few are spent, which keeps the cast readable.
+- **Fern keeps the token ledger.** It holds who has a coin, who gave what to whom, and who is vetted.
+- **The Goddess's limits remain.** The arriving person's agency stands (they can refuse). It is not guaranteed in all cases. It reaches the dead only "some" of the time.
+
+## V19 threads: Claude's calls (delegated)
+- **Coco: her mother.** The petition works, but her mother arrives *as she was*, still petrified. Coco chose Stay over Return-before-the-tragedy, and the petition brings her mother without curing her. **The cure becomes Greed's library,** which ties Coco's oldest wound to the witches' finale. Hope, not a promise.
+- **Rem: the dead.** The Goddess answers "not this time". Rem keeps her coin. Late in the peace volume she gives it to Ori, unasked. That completes her stage: you only give a coin away in a place you have decided is yours.
+- **Kaneki: Hide.** Family, and strategic too (an investigator's mind for Anko's evidence room). Hide arrives, Kaneki's silence breaks, and the two of them stand against a wall again, laughing this time.
+- **Kusuri: the person who might refuse.** The petition goes in, and the arrival is **not shown in the peace volume**. The answer is pending; the coin is "in use". It is an open thread, and her fear of refusal stays live without being resolved by fiat. *Creator note: the canon has said Rentarou has not arrived. If Kusuri's person is him, that is a creator decision.*
+- **Maki's "unfired thing":** her own petition, written and never handed in. She hands it in during the peace volume. **DECISION, creator:** who it names.
+
+## Strategic arrivals: a slate for the creator to choose from (not decisions)
+Each is chosen because it answers something the story has already shown it needs:
+- **Fern's coin: Heiter**, the priest who raised her. Heiter is dead in the source, so "some" applies. Strategic because the reversion night had no healing magic. With Himmel already in the house, **Fern and Heiter** is the emotional peak of the peace volume.
+- **Stark's coin: Eisen**, his master. A warrior. With Heiter and Himmel this completes the Hero Party, and it gives Frieren a "We're all here" moment.
+- **Maomao's coin: Luomen**, her adoptive father and a master physician. It turns the medical room into a clinic, and gives Maomao someone she cannot out-know.
+- **Senku's coin: Chrome**, his science partner. Senku would pick the most useful person and pretend it was only logic.
+- **Yuta's coin: Gojo.** This is the headline option and a big creator decision. Yuta "left him alone in front"; bringing him here means nobody is alone in front again. It also pays off the white-haired fighter in Mau's Trial memory and the signal that Analyze carries the pattern. Constraints: `FLOATING_IDEAS.md` (Gojo after Sukuna; the path to a new Hollow Purple) and the fact that Sukuna is alive in Continuum. Gojo could also be *saved for later* with Yuta's coin held in reserve. That is itself a strong signal for the peace volume.

@@ -30,7 +30,11 @@ Frieren looked at him for a long time. Her eyes went from him to Fern, to Stark,
 
 "Liar," she said.
 
-But she went back to her book. Her ears had gone very slightly pink.
+She had been lured out of this house by a grimoire once before. Rimuru had taken her to a market for half a day, a long time ago, so that the rest of them could plan something behind her back. When she came home with the book, three detectives had been waiting in the hallway. A day later there had been a clearing, and a question she had thought she already knew the answer to.
+
+She remembered exactly what this house was like when it went strange about grimoires.
+
+She went back to her book. Her ears had gone very slightly pink.
 
 
 

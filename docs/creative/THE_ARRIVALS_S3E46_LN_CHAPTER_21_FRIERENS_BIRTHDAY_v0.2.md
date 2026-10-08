@@ -18,9 +18,17 @@ Not in the north end of the common room, where the fort lived. In front of the f
 
 "Who are you?" said the Guardian of the Fort.
 
-Frieren looked at them for a long time.
+Frieren looked at them for a long time. At the three in the very middle of the line especially: Umaru, Bocchi, Coco.
 
-"I'm going for a walk," she said.
+"The last time the three of you blocked my way," she said, "you were investigating whether I was good enough for him."
+
+"You passed," said Umaru.
+
+"Barely," said Coco.
+
+"Y-you passed," said Bocchi, very quietly, to the floor.
+
+"I'm going for a walk," said Frieren.
 
 "Not today," said Umaru.
 

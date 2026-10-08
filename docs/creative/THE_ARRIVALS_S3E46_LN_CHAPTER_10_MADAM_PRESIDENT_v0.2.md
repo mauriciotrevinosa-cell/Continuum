@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 10  
-**Continuity state:** Days 11-14 | Umaru declares a presidency; Agott runs as Opposition | Milim becomes Guardian of the Fort ('strongest isn't the same as in charge'); Rimuru honorary citizen | Anko audits; 12-11 among 24, Ryo spoils | sashes PRESIDENT (TEMPORARY) and OPPOSITION | the fort's constitution, Article 6
+**Continuity state:** Days 11-14 | Umaru declares a presidency; Agott runs as Opposition | Milim becomes Guardian of the Fort ('strongest isn't the same as in charge'); Rimuru honorary citizen | Anko audits; 12-11 among 24, Ryo spoils | sashes PRESIDENT (TEMPORARY) and OPPOSITION | Aira arrives late and becomes the Protector | the fort's constitution, Article 6
 
 It was Agott who started it, which surprised nobody.
 
@@ -247,6 +247,34 @@ The constitution was written that night, by Shizuka, at Umaru's dictation and Ag
 *ARTICLE 5. The President can be voted out at every full moon, by anyone, for any reason.* (Amendment, by the President: *Except being too good at games.*) (Amendment struck, by the Opposition.)
 
 *ARTICLE 6. Nobody in the fort is ever alone.*
+
+Aira arrived at the very end of the evening, after the constitution was already pinned up, out of breath. She had been at the bridge helping a family get a stuck cart over the last plank, and had missed the entire election.
+
+She stopped in the doorway in front of the Guardian, who made her say who she was.
+
+"Aira," said Aira. "The one who saves everyone."
+
+"Which one?" said Milim.
+
+"There's only one."
+
+Milim considered this carefully, and let her in, and patted her on the head. Aira permitted it with enormous dignity.
+
+She looked around the fort. At the Milim Beam. At the stage, and the annex with its curtain, and the President and the Opposition in their sashes.
+
+"You have a Guardian," she said. "Who decides who comes in."
+
+"Yes," said Umaru.
+
+"Then who protects everyone once they're *inside*?"
+
+Nobody had an answer.
+
+"Me," said Aira. "Obviously. I was chosen to save everyone. Everyone includes a fort."
+
+By presidential decree, her first, Umaru created the Office of the Protector on the spot. Agott objected, as was her duty, and was overruled, and asked that her objection be recorded. Anko recorded it. Shizuka added a line to the constitution, very small, under Article 6: *The Protector protects everyone inside. (Office: Aira. She insisted.)*
+
+Aira sat down in the exact middle of the fort, beside the Guardian, with her chin up. For the rest of the night, every time anyone so much as stubbed a toe, she was there first.
 
 Rem brought Mau a copy the next morning. Shizuka had made it in her neat hand, specially, because he had asked.
 

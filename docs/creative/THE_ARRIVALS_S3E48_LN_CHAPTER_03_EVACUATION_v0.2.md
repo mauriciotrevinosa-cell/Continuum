@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 21 — Evacuation
+## Chapter 22 — Evacuation
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 21
+**Reading order:** 22
 
 The evacuation was not clean.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 38 — Threshold
+## Chapter 39 — Threshold
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 38  
+**Reading order:** 39  
 **Continuity state:** Weeks into recovery | Distinct Noise overload begins | Mau reports symptoms before collapse
 
 The later Noise overload began with Mau saying:

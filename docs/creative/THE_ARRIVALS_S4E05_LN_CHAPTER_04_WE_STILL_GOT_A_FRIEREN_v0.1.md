@@ -32,7 +32,7 @@ He went down the corridor faster.
 
 The common room was empty.
 
-The long table, bare. The benches, empty. The cold hearth, with nobody sitting by it. The fort at the north end, with its curtain tied back and nobody inside: the toll booth empty, the stage empty, the annex curtain open, and six cushions with NEXT in front of them, and twenty-four more with nobody on them at all. The Milim Beam. The hamster flag on its broom handle, hanging limp.
+The long table, bare. The benches, empty. The cold hearth, with nobody sitting by it. The fort at the north end, with its curtain tied back and nobody inside: the toll booth empty, the stage empty, the annex curtain open, and six cushions with NEXT in front of them, and twenty-five more with nobody on them at all. The Milim Beam. The hamster flag on its broom handle, hanging limp.
 
 Nobody.
 

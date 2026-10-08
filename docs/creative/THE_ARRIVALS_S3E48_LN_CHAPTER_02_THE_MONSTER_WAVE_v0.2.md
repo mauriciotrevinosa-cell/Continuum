@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 20 — The Monster Wave
+## Chapter 21 — The Monster Wave
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 20
+**Reading order:** 21
 
 The monster wave hit the northern observation line first.
 

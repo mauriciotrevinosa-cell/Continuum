@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 26 — Under the Refuge
+## Chapter 27 — Under the Refuge
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 26  
+**Reading order:** 27  
 **Continuity state:** Last Defense active | Suppression device discovered beneath central refuge | Cross-system weakening spreads
 
 The unknown signature was not a person.

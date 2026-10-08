@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 25 — Unknown Inside
+## Chapter 26 — Unknown Inside
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 25  
+**Reading order:** 26  
 **Continuity state:** Last Defense active | Unknown signature appears inside settlement | Mau follows learned reporting protocol
 
 The unknown signature returned while everyone was looking outward.

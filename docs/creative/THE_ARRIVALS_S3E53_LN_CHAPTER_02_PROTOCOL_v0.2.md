@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 39 — Protocol
+## Chapter 40 — Protocol
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 39  
+**Reading order:** 40  
 **Continuity state:** Noise overload active | Protocol adapted from Memory crisis without assuming same cause
 
 Protocol meant sequence.

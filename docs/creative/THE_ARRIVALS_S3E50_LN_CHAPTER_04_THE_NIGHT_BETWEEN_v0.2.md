@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 28 — The Night Between
+## Chapter 29 — The Night Between
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 28  
+**Reading order:** 29  
 **Continuity state:** Night after Last Defense | Household sleeps in the common room | One Searcher still unresolved
 
 Nobody decided that the household would sleep in the common room.

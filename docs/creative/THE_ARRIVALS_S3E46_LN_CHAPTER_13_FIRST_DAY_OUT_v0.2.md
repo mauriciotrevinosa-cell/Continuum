@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 18
-## Chapter 12 — First Day Out
+## Chapter 13 — First Day Out
 
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
-**Reading order:** 12  
+**Reading order:** 13  
 **Continuity state:** Day 29 after Mau wakes | Maomao's slip: OUTSIDE. SLOWLY. | the fort escorts him | three rumors, 'dead' winning | washing court, the merchant's pears | Seiko's fan | thanks in one line each | the ink tree has nine leaves
 
 On the twenty-ninth morning, Maomao signed a slip of paper and handed it to Mau without a word.
@@ -222,11 +222,11 @@ He was at the training yard behind the Muslin, alone, which was unusual. He was 
 
 Mau sat down on the wall next to him. It took him a moment. Yuta did not help, because Mau would have hated it, and they both knew it.
 
-"Rimuru told me," said Mau.
+"Here I am," said Mau. "In the yard. Sitting up. Like a person."
 
-"Don't," said Yuta.
+"You walked here," said Yuta.
 
-"I'm going to anyway."
+"Mostly."
 
 Yuta looked at the sword across his knees.
 
@@ -242,7 +242,7 @@ Yuta looked at the sword across his knees.
 
 Yuta did not say anything for a long time.
 
-"Roof," he said at last. "Next week. When Maomao says you can do ladders." He paused. "You're bringing the snacks. All of them. For a month."
+"Okay," he said at last. "Now I'll let you." He breathed out. "Roof. Next week. When Maomao says you can do ladders." He paused. "You're bringing the snacks. All of them. For a month."
 
 "Okay."
 

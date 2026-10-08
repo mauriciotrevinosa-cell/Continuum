@@ -4,7 +4,7 @@
 **Volume:** 20  
 **Season:** 4  
 **Volume title:** **The Ten Days**  
-**Chapter count:** 11
+**Chapter count:** 18
 
 | # | Chapter |
 |---:|---|
@@ -19,6 +19,13 @@
 | 9 | What Analyze Kept |
 | 10 | How Long |
 | 11 | Two Days of Punishment |
+| 12 | Somewhere I Never Died |
+| 13 | Here |
+| 14 | Nothing Dies |
+| 15 | She Carried Them Alone |
+| 16 | The House Without Him |
+| 17 | The Pages |
+| 18 | A Leaf |
 
 ## What this volume covers
 

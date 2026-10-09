@@ -644,4 +644,9 @@ Checking the upstairs diagram, the creator found many residents missing from the
   - **Fern** moves three doors from Frieren, with Stark and the dotted wall still beside her. Senku: "You won't hear everything from there." Fern: "I'll hear the important things." Frieren's ears go pink.
   - **Qifrey** re-measures.
   - **Anko and Nazuna** don't move.
+- **Revision, the same day (creator):** the founders should not be separated.
+  - **Fern and Stark** go right behind Ori and Milim.
+  - **Umaru and Suika** stay beside the Witch Hat room, now with a door. Umaru wanted one room for six, and Agott said "Six is too many."
+  - **Bocchi's door faces Umaru's**, so the four founders share one stretch of corridor.
+  - **Qifrey** has no "between" left, so he moves himself beside Anko and Nazuna without measuring: "Close enough." Nazuna: he hums.
 - The full room list is in the layout lock §10.

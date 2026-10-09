@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 43  
-**Continuity state:** Rebuild weeks, after the memorial | The real house is drawn, not built: two floors, a cellar, two exits under every section, a room with no name | Ori gets a door, not a wall, and Milim moves in with her (trial run); Kessoku were never drawn; Bocchi goes with them and everybody moves one (Yuta, Maki and Mai beside the east end, Umaru and Suika up, Fern three doors from Frieren); everyone in the household gets a room (Eren on Mikasa's top bunk, Jinshi in Maomao's room); Rimuru's office moves downstairs; Fern and Stark's trial run in the Muslin; dotted wings; Fern's note: when the house is full, ask again
+**Continuity state:** Rebuild weeks, after the memorial | The real house is drawn, not built: two floors, a cellar, two exits under every section, a room with no name | Ori gets a door, not a wall, and Milim moves in with her (trial run); Kessoku were never drawn; Bocchi goes with them and everybody moves one (Yuta, Maki and Mai beside the east end; Fern and Stark behind Ori and Milim; the founders together, with a door between Umaru and Suika and the Witch Hat room, and Bocchi's door facing Umaru's; Qifrey beside Anko and Nazuna); everyone in the household gets a room (Eren on Mikasa's top bunk, Jinshi in Maomao's room); Rimuru's office moves downstairs; Fern and Stark's trial run in the Muslin; dotted wings; Fern's note: when the house is full, ask again
 
 Wakana took the board down three weeks after the memorial.
 
@@ -230,9 +230,7 @@ That moved one room. Then it moved all of them.
 
 Yuta and Maki took the room beside the east end, where Bocchi had been. "Close enough to hear him," said Maki, "which is the point." Mai took the next one along, because she was not going to be the twin a whole room away.
 
-Umaru and Suika came up the corridor into Milim's old room. Umaru looked at *Umaru's Door, Mark Two*, eleven careful steps of covered bridge across the landing, and crossed it out. "Two steps," she said. "I don't need a bridge for two steps." She wrote BRIDGE (RETIRED) beside it and would not let Wakana rub it out.
-
-Fern moved without saying anything about it. She took her own name off the room at the top of the main stair and wrote it into the one beside Umaru's, three doors down from Frieren, with Stark's beside it and the dotted wall still between them.
+Fern moved without saying anything about it. She took her own name off the room at the top of the main stair and wrote it into Milim's old one, right behind Ori and Milim, two doors from Frieren, with Stark's beside it and the dotted wall still between them.
 
 "You won't hear everything from there," said Senku.
 
@@ -240,11 +238,41 @@ Fern moved without saying anything about it. She took her own name off the room 
 
 Frieren did not look up from her book. Her ears had gone faintly pink.
 
-Bocchi and the three of them took the two rooms past Mai's. Bocchi's own, small, with the private stair down to the music room moved along with her. And one through the wall for Kita, Nijika and Ryo, with a door in that wall that Bocchi could open whenever she wanted and close whenever she needed. Ryo said it was the first door in the house designed for a panic attack. Nobody disagreed. Bocchi wrote their names in herself, one under another, and then sat down and did not look at anyone for some time.
+Umaru had been watching all of this with her chin on the table. Now she sat up and looked at the plan the way she looked at a map of enemy territory.
 
-Qifrey, who had been measured exactly between his students and the east section, got up without a word and measured again.
+"Coco's down there," she said. "Bocchi's going over there. Suika and me are here. That's three places." She put her finger on her own room, and on the Witch Hat room beside it. "One room. All of us. Me, Suika, Coco, Tetia, Agott, Richeh's bed."
 
-Anko and Nazuna did not move. Anko said the north side was dark and quiet, which was the point, and that anyone who touched their room would hear from the Ministry. Nobody touched their room.
+"Six is too many," said Agott at once.
+
+"It's not too many. It's a fort."
+
+"A fort is not a bedroom."
+
+They looked at each other across the table, two heads of state.
+
+"A door," said Coco. "Between the two rooms. Like Ori's."
+
+Agott considered the door.
+
+"A door that closes," she said.
+
+"A door that closes," Umaru agreed gravely, and then leaned over and whispered to Coco, quite audibly, "It won't." Coco giggled into her sleeve. Agott pretended not to have heard, and did not take the door off the plan.
+
+So Umaru and Suika kept the room beside the Witch Hat girls', and the wall between them became a door. Umaru looked at *Umaru's Door, Mark Two*, eleven careful steps of covered bridge across the landing to the east section, and crossed it out. "Six steps," she said. "I don't need a bridge for six steps." She wrote BRIDGE (RETIRED) beside it and would not let Wakana rub it out.
+
+Bocchi and the three of them took the two rooms straight across the corridor. Bocchi's own was small, and the private stair down to the music room moved along with her. Kita, Nijika and Ryo had the next one, through a wall with a door in it that Bocchi could open whenever she wanted and close whenever she needed. Ryo said it was the first door in the house designed for a panic attack. Nobody disagreed. Bocchi wrote their names in herself, one under another, and then sat down and did not look at anyone for some time.
+
+Her door faced Umaru's. Four founders, one stretch of corridor. Umaru noticed that, too, and said nothing about it at all, which was how everyone knew it mattered.
+
+That left Qifrey, who had been measured exactly between his students and the east section, with no between left to stand in. His students were nearly in the east section now.
+
+He looked at the plan for a while. Then he picked up the pencil and moved himself, for once without measuring anything, to the room beside Anko and Nazuna's on the quiet north side, two doors from his students.
+
+"Close enough," he said.
+
+From Qifrey, this was a revolution. Coco stared at him.
+
+Anko said he could stay if he was quiet. Qifrey said he was always quiet. Nazuna, from somewhere above them, said he hummed.
 
 "Everybody moved one," said Wakana, looking at the plan.
 

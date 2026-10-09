@@ -104,10 +104,9 @@
 - **Umaru's conflict, a proposal:** here, Mau became her older-brother figure (S2 canon), and she became President without anyone looking after her. Bringing Taihei asks the man who already gave years to looking after her to leave his whole life for her again. And there would be two older brothers in one house.
 - **Byakuya:** he is dead in the source, so "some" applies, and bringing him separates nobody from anyone. Senku would call it the most logical choice, ten billion percent, and nobody would believe him.
 - **The ring scene is the Noise's first reach for a requirement it lacks.** It reaches for the cursed-energy volume, and Mau never got the chance to say "don't let me touch it". Frieren saw. The house's question afterwards is no longer *why did you cross* but *what in you crossed*.
-- **Why Jiji comes without the Evil Eye, a proposal for a coin rule:** the petition names a *person*, so it brings the person and not what lives in him. Creator to decide whether this is a general rule or only Jiji's case, because it would also matter for Coco's mother and for anyone who carries a passenger.
-- **Who spends the coin on Jiji:** Okarun was the lean. Spending it on his rival, because he is Momo's oldest friend and has become his own, would be growth for him.
+- **Jiji's coin and why he comes without the Evil Eye: SEALED.** The creator left the choice to Claude and asked never to be told, "not even if I tell you to change it". It is recorded in `SEALED_CLAUDE_CHOICES.md` (S-01). Creator: don't open it.
 - **The first summon versus the first arrival:** the house spends weeks carefully planning its first summon, and a girl with antlers walks in uninvited first.
 
 ## 4. Open questions for the creator
 
-1. Jiji: whose coin (Okarun?), and is "the coin brings the person, not the passenger" a general rule?
+None right now. Jiji's question is sealed (S-01).

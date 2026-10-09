@@ -630,3 +630,18 @@ Checking the upstairs diagram, the creator found many residents missing from the
 - **Eren** has the top bunk in Mikasa's room, written in her hand. Nobody asked him and he didn't argue. **No relationship yet** (creator). His line at the end of the table becomes: "He did not think he was family, whatever the top bunk in Mikasa's room said."
 - **Maomao lets Jinshi live with her**, grudgingly ("a rempujones"): one evening of resistance, then she draws his bed herself, marked *temporary*.
 - The other placements are in the layout lock §10.
+
+## DH-045 — "Everybody moved one": Bocchi goes with Kessoku (creator, 2026-10-09)
+
+**Current direction:**
+- **Bocchi moves to be with Kita, Nijika and Ryo** once she sees they were never drawn: "I'll go with them." Mau: "It's a couple more steps... you've got Kita right there. And I come running." / "Every time."
+  - Her room is small and keeps its private stair to the music room.
+  - Kessoku's room is through the wall, with a door Bocchi can open or close. Ryo: "the first door in the house designed for a panic attack."
+- **The chain:**
+  - **Yuta and Maki** take Bocchi's room beside the east end ("Close enough to hear him, which is the point").
+  - **Mai** stays beside them.
+  - **Umaru and Suika** move up into Milim's old room and retire the bridge: "Two steps. I don't need a bridge for two steps." BRIDGE (RETIRED).
+  - **Fern** moves three doors from Frieren, with Stark and the dotted wall still beside her. Senku: "You won't hear everything from there." Fern: "I'll hear the important things." Frieren's ears go pink.
+  - **Qifrey** re-measures.
+  - **Anko and Nazuna** don't move.
+- The full room list is in the layout lock §10.

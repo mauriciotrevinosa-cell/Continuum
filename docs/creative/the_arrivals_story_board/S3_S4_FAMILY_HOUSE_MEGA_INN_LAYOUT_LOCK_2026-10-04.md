@@ -282,6 +282,10 @@ Creator direction while reading V14. The temporary cluster is a **mock-up of the
   - **Marin and Wakana** (a couple) above the workshop.
   - **Kaneki and Aira** past Rem's turn, Aira beside the cellar stair. The last three arrivals (G5) end up together around the turn.
   - **Downstairs:** Maomao's room beside the medical room, **with Jinshi's bed in it** (she resists for one evening, then draws it herself, as far away as possible, marked *temporary*). **Diablo** gets a real small room beside Rimuru's office. **Senku** sleeps by his workroom.
+  - **"Everybody moved one" (DH-045, supersedes the placements above where they differ).** The final upstairs, from the east end:
+    - **North side:** Ori and Milim (door into the east end); Umaru and Suika (Milim's old room; *Umaru's Door, Mark Two* is crossed out as **BRIDGE (RETIRED)**, "two steps"); Fern, three doors from Frieren; Stark (dotted wall); Qifrey (re-measured); Coco, Tetia, Agott and Richeh's bed; Anko and Nazuna (unchanged); Okarun; Rem at the turn; Kaneki; Aira; Mau's room with no name (dotted).
+    - **South side:** Yuta and Maki (Bocchi's old room, beside the east end); Mai; Bocchi (small, private stair to the music room); Kita, Nijika and Ryo (through a wall with a door Bocchi can open or close); main stair; Mikasa and Eren; Himmel; Momo; Seiko; the five; Marin and Wakana.
+    - **Mau to Bocchi:** "It's a couple more steps... If anything makes you jump, you've got Kita right there. And I come running." / "Every time."
   - **Residency rule (creator, 2026-10-09):** everyone from G1–G5, through Rem and Kaneki, lives in the Muslin and has a room on the plan. Eren lives there too. The only ones who don't live there yet are the witches.
   - **Fern and Stark:** side by side with a **dotted wall** (one room, eventually; Fern wants slower). They do a **trial run in the Muslin** now, while walls still move (DH-043).
 - **Growth (DH-043).** Nijika asks the question that matters: "What happens when somebody else comes? What if it's somebody's family?" ("We put them at the turn." / "The turn is taken.")

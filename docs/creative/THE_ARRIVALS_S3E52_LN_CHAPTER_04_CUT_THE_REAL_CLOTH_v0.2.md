@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 43  
-**Continuity state:** Rebuild weeks, after the memorial | The real house is drawn, not built: two floors, a cellar, two exits under every section, a room with no name | Ori gets a door, not a wall, and Milim moves in with her (trial run); Kessoku were never drawn and get Milim's old room; everyone in the household gets a room (Eren on Mikasa's top bunk, Jinshi in Maomao's room); Rimuru's office moves downstairs; Fern and Stark's trial run in the Muslin; dotted wings; Fern's note: when the house is full, ask again
+**Continuity state:** Rebuild weeks, after the memorial | The real house is drawn, not built: two floors, a cellar, two exits under every section, a room with no name | Ori gets a door, not a wall, and Milim moves in with her (trial run); Kessoku were never drawn; Bocchi goes with them and everybody moves one (Yuta, Maki and Mai beside the east end, Umaru and Suika up, Fern three doors from Frieren); everyone in the household gets a room (Eren on Mikasa's top bunk, Jinshi in Maomao's room); Rimuru's office moves downstairs; Fern and Stark's trial run in the Muslin; dotted wings; Fern's note: when the house is full, ask again
 
 Wakana took the board down three weeks after the memorial.
 
@@ -148,6 +148,30 @@ Fern opened her mouth to object, and could not find anything wrong with it, whic
 
 So the two rooms went on the plan side by side, with the wall between them drawn the way Wakana drew walls that were meant to come out: dotted. That Saturday, in the Muslin, two hooks moved. Nobody said anything about it at breakfast. Nobody said anything about it so loudly that Fern threw a bread roll at Umaru, who had not said anything either, but had been about to.
 
+Himmel's room on the road side, facing the way people would come.
+
+Mikasa's room with two exits, and bunk beds. The top bunk had EREN on it in Mikasa's handwriting. Nobody had asked Eren. Eren had not argued.
+
+Mai next to Yuta and Maki, because she said she was not going to be the only twin in the house without a wall to complain through.
+
+Momo at the top of the back stair, the one that ran straight down into the kitchen, because she had marked a room near the kitchen in the Muslin and saw no reason to stop now. Seiko's room beside hers. Seiko asked for the wall between them to be thin. "So I can hear her," she said. "And so she can hear me." Momo said that was a terrible idea, and did not ask Wakana to change it.
+
+Okarun across the landing from Momo. Turbo Granny claimed his windowsill and declared it a separate address.
+
+Marin and Wakana's room above the workshop, so that Wakana would hear if anything fell in the night, and Marin could pretend she wouldn't. It was the only room Wakana drew without being asked, and the only one he drew twice, because Marin wanted the window bigger.
+
+Senku's room next to his workroom downstairs, because Fern had said, months ago, that Senku would not sleep in the workshop, and Fern did not forget things. It had a door that Fern could lock from the outside. Senku objected to the lock in writing. Fern added a second lock.
+
+Maomao's room downstairs too, beside the medical room, where it had always been, with Jinshi's bed in it. Maomao had resisted this for one entire evening, on grounds of space, hygiene, chemistry and principle, and then drawn the bed in herself, as far from her own as the walls allowed, and written *temporary* beside it. Jinshi looked at the word for a long time and seemed perfectly happy.
+
+And beside Rimuru's new office, a small room with one chair and almost no window. Back in the Muslin, Diablo had asked whether the corridor outside Rimuru's door could be considered a room. Wakana had finally drawn him one. Diablo thanked him with such sincerity that Wakana went and sat in the workshop for a while.
+
+Off the north end of the common room, there was a bay that nobody had asked for. Senku had drawn it in without a word while the others argued about stairs, and labelled it, in his small square capitals, FORT (EXTENSION). It was big enough for twenty people, and for six cushions more. When Umaru saw it, she did not say anything for a very long time, and then she shook Senku's hand.
+
+And at the turn of the upstairs corridor, a narrow room. The plan said REM in pencil, because when Wakana went to ink it, Rem said "Pencil," and nobody argued. Under it, smaller, it said *(SISTER)*, in Coco's lettering. Coco had insisted that the plan match the door.
+
+Past the turn, two more. Kaneki took the first room. Aira took the second, beside the cellar stair and against the outside wall, because she wanted to be the first one through any door that mattered. The last three people to arrive in the house had ended up together around the turn without anyone planning it. Rem noticed. She did not say anything about it, but she seemed pleased.
+
 Milim lasted two evenings.
 
 On the third, she stood up in the middle of an argument about stairs and pointed at the east section.
@@ -188,31 +212,43 @@ Bocchi made a sound like a kettle.
 
 "Nobody lives in the music room," said Fern, appalled, and wrote something in her ledger very hard.
 
-Milim's old room went to the three of them, across the corridor from Yuta and Maki and one door down from Bocchi's thick wall. Ryo said that made it a thick wall with a band on both sides. Bocchi took the pencil and wrote their names in herself, one under another, and then sat down and did not look at anyone for some time, because she had been looking at the plan for three evenings and had not noticed they weren't on it.
+Bocchi looked at the plan. At her own room, beside Mau's, with its thick wall and its private stair. At the three of them, not on it anywhere. She had been looking at that plan for three evenings and had not noticed.
 
-Himmel's room on the road side, facing the way people would come.
+"I'll go with them," she said.
 
-Mikasa's room with two exits, and bunk beds. The top bunk had EREN on it in Mikasa's handwriting. Nobody had asked Eren. Eren had not argued.
+It came out very small. Then she looked at Mau, and her face did the thing it did when she had decided something brave and immediately regretted it.
 
-Mai next to Yuta and Maki, because she said she was not going to be the only twin in the house without a wall to complain through.
+"It's fine," said Mau. "It's a couple more steps. That's all it is." He counted them off on his fingers, so she could see how few there were. "If anything makes you jump, you've got Kita right there. And I come running."
 
-Momo at the top of the back stair, the one that ran straight down into the kitchen, because she had marked a room near the kitchen in the Muslin and saw no reason to stop now. Seiko's room beside hers. Seiko asked for the wall between them to be thin. "So I can hear her," she said. "And so she can hear me." Momo said that was a terrible idea, and did not ask Wakana to change it.
+"You come running," said Bocchi.
 
-Okarun across the landing from Momo. Turbo Granny claimed his windowsill and declared it a separate address.
+"Every time."
 
-Marin and Wakana's room above the workshop, so that Wakana would hear if anything fell in the night, and Marin could pretend she wouldn't. It was the only room Wakana drew without being asked, and the only one he drew twice, because Marin wanted the window bigger.
+Kita took Bocchi's hand under the table. Bocchi let her.
 
-Senku's room next to his workroom downstairs, because Fern had said, months ago, that Senku would not sleep in the workshop, and Fern did not forget things. It had a door that Fern could lock from the outside. Senku objected to the lock in writing. Fern added a second lock.
+That moved one room. Then it moved all of them.
 
-Maomao's room downstairs too, beside the medical room, where it had always been, with Jinshi's bed in it. Maomao had resisted this for one entire evening, on grounds of space, hygiene, chemistry and principle, and then drawn the bed in herself, as far from her own as the walls allowed, and written *temporary* beside it. Jinshi looked at the word for a long time and seemed perfectly happy.
+Yuta and Maki took the room beside the east end, where Bocchi had been. "Close enough to hear him," said Maki, "which is the point." Mai took the next one along, because she was not going to be the twin a whole room away.
 
-And beside Rimuru's new office, a small room with one chair and almost no window. Back in the Muslin, Diablo had asked whether the corridor outside Rimuru's door could be considered a room. Wakana had finally drawn him one. Diablo thanked him with such sincerity that Wakana went and sat in the workshop for a while.
+Umaru and Suika came up the corridor into Milim's old room. Umaru looked at *Umaru's Door, Mark Two*, eleven careful steps of covered bridge across the landing, and crossed it out. "Two steps," she said. "I don't need a bridge for two steps." She wrote BRIDGE (RETIRED) beside it and would not let Wakana rub it out.
 
-Off the north end of the common room, there was a bay that nobody had asked for. Senku had drawn it in without a word while the others argued about stairs, and labelled it, in his small square capitals, FORT (EXTENSION). It was big enough for twenty people, and for six cushions more. When Umaru saw it, she did not say anything for a very long time, and then she shook Senku's hand.
+Fern moved without saying anything about it. She took her own name off the room at the top of the main stair and wrote it into the one beside Umaru's, three doors down from Frieren, with Stark's beside it and the dotted wall still between them.
 
-And at the turn of the upstairs corridor, a narrow room. The plan said REM in pencil, because when Wakana went to ink it, Rem said "Pencil," and nobody argued. Under it, smaller, it said *(SISTER)*, in Coco's lettering. Coco had insisted that the plan match the door.
+"You won't hear everything from there," said Senku.
 
-Past the turn, two more. Kaneki took the first room. Aira took the second, beside the cellar stair and against the outside wall, because she wanted to be the first one through any door that mattered. The last three people to arrive in the house had ended up together around the turn without anyone planning it. Rem noticed. She did not say anything about it, but she seemed pleased.
+"I'll hear the important things," said Fern.
+
+Frieren did not look up from her book. Her ears had gone faintly pink.
+
+Bocchi and the three of them took the two rooms past Mai's. Bocchi's own, small, with the private stair down to the music room moved along with her. And one through the wall for Kita, Nijika and Ryo, with a door in that wall that Bocchi could open whenever she wanted and close whenever she needed. Ryo said it was the first door in the house designed for a panic attack. Nobody disagreed. Bocchi wrote their names in herself, one under another, and then sat down and did not look at anyone for some time.
+
+Qifrey, who had been measured exactly between his students and the east section, got up without a word and measured again.
+
+Anko and Nazuna did not move. Anko said the north side was dark and quiet, which was the point, and that anyone who touched their room would hear from the Ministry. Nobody touched their room.
+
+"Everybody moved one," said Wakana, looking at the plan.
+
+"Everybody moved one," said Umaru, with deep satisfaction, as if she had planned it.
 
 It was Nijika who said it, on the fifth evening, standing back to look at the whole upstairs at once.
 
@@ -318,7 +354,7 @@ The last thing was Mau's.
 
 He had not asked for anything all six evenings. Everybody had noticed. Several people had tried to make him, and he had said, "I've got everything," and meant it, and nobody could argue with that, though Frieren gave him a look.
 
-On the sixth evening, when the plan was almost finished, he stood up and went to it. He took the pencil from Senku, who was still holding it, and found a space at the far end of the upstairs corridor, past Qifrey, past the bridge, where nobody had drawn anything.
+On the sixth evening, when the plan was almost finished, he stood up and went to it. He took the pencil from Senku, who was still holding it, and found a space at the far end of the upstairs corridor, past Qifrey, past the bridge Umaru had retired, where nobody had drawn anything.
 
 He drew a room.
 

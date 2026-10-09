@@ -585,3 +585,19 @@ This restates the existing rule (S2 continuity inventory §38; DH-020 for Rimuru
 - **Percent is not a universal score.** Yuta and Rimuru might be at 5%, and that 5% is thousands of percent stronger than Bocchi's 100%.
 - **100% is not the end.** It is 100% plus what they have gained here and will gain.
 - **New arrivals follow it.** Gojo arrives with Infinity only: no Blue, no Red, no Domain. Yuta has been here two years and still hasn't unlocked his Domain, so it would not be fair for Gojo to have one. "When I'm at 100%" is literal.
+
+## DH-042 — "Who Watered It": Dessa's friend blames Mau (creator change, 2026-10-08, urgent)
+
+The creator flagged this while reading V18 #42. The washing-court woman's scene used to absolve Mau ("Dessa didn't die for you... Don't you dare take it off her"). That made her one more person telling him it wasn't his fault.
+
+**Current direction:**
+- **She is the first person to tell Mau it *was* his fault.** It is grief, not malice. She is not shouting, and she is not trying to hurt him.
+- **What she says, in the creator's terms:**
+  - Dessa made that choice because Mau wasn't there.
+  - Where was he, the strongest thing in this place? Why did he stay at the back?
+  - If Dessa had never met him, and if he had never made this place, she would be alive.
+- **She came to hear him say "it wasn't my fault".** He can't say it. He does not explain the inner-mobile card either: the system is real, but it is not hers to carry.
+- **The scene follows Turbo Granny's comfort** ("Nobody's forgetting those three") on purpose, as a contrast.
+- **At the board,** Mau learns that Dessa was the one who watered the sapling. Frieren didn't hear the woman, but she saw his face, and takes his sleeve without turning.
+- **Payoff that already exists:** V19 "Not at the Table". Coco hands Mau the bucket ("You're everyone"), and he waters the tree Dessa used to water, hands shaking. It now carries this scene. No edit needed there.
+- **Open for later:** the words can echo in S4, for example around the two days away. Nothing else is written yet that resolves them, and nothing should resolve them quickly.

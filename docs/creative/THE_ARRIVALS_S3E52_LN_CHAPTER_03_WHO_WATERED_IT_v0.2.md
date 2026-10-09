@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 42  
-**Continuity state:** Rebuild weeks | Memorial for the three Last Defense dead | Household attends as part of everyone
+**Continuity state:** Rebuild weeks | Memorial for the three Last Defense dead | Household attends as part of everyone | Dessa's friend is the first to tell Mau it was his fault; he cannot tell her it wasn't
 
 The memorial was not the household's to plan.
 
@@ -200,29 +200,55 @@ Dessa's friend found him later.
 
 The large red-handed woman from the washing court, who had promised to sing badly.
 
-She stood in front of him with her arms folded.
+She stood in front of him with her arms folded. She had not cried at the memorial. She was not crying now.
 
 "You're Mau."
 
 "Yes."
 
-"Somebody told me you've been walking around since the battle looking like it's your fault."
+"Everybody keeps telling me it wasn't your fault." She said it flatly, like a list of things she had been handed. "The council. The girl with the ledger at Arrival House. A man I've never met, at the water point. Nobody asked them. They just keep saying it." She looked at him. "So I came to hear you say it."
 
 Mau opened his mouth.
 
-She did not let him use it.
+There was nothing in it.
 
-"Dessa didn't die for you," the woman said. "She didn't even like you much. She thought you worked too hard and made everyone else feel lazy." Her voice did not shake at all. "She died because the refuge door jammed and there were kids behind it and she was the closest one with a crowbar. She died for those kids. That's hers." She jabbed a thick finger at his chest. "Don't you dare take it off her and put it on yourself."
+"The refuge door jammed," the woman said. "There were kids behind it, and Dessa was the closest one with a crowbar. That's how they told it to me. As if it was a good thing. As if she was lucky to be the closest." Her arms tightened. "Where were you?"
 
-Mau stood very still.
+Mau said nothing.
 
-Then he nodded.
+"Everybody says you're the strongest thing in this place. Even the papers from the west say it. They came here with your name on them." She took one step closer. "So where were you? The strongest thing in this place. Why were you at the back? Why was a washerwoman with a crowbar the closest thing to that door, and not you?"
 
-"I won't," he said.
+He could have told her.
 
-The woman looked at him for a long moment.
+*Inner mobile.* A card in his hand, written weeks before. A system that put powerful people where they were asked for, so that no one man would be the whole plan. He had believed in it. He still did. It had saved more people than he could have saved by running at every bell.
 
-"Good," she said, and went back to the bread.
+It had not saved Dessa.
+
+And it was not hers to carry. It was an explanation, and she had not come for one.
+
+"She knew you," the woman said. "She used to say you worked too hard and made the rest of us look lazy. She liked that, even when she complained about it." Something had started to go in her voice, somewhere underneath the words, and she did not let it out. "She was only passing through. That first month, when the refuge opened. She was going to keep going. She stayed because this place was good. Because you made a place that was good, and everybody said so." She stopped. Started again. "If she'd never met you, she'd be washing shirts somewhere else right now and singing badly at somebody else. If there wasn't this place. If there wasn't you."
+
+She was not shouting.
+
+That was the worst of it. She was not trying to hurt him. She was only telling him what was true for her, in the plainest words she had.
+
+She was the first person who had said it to him.
+
+Everyone else had said the other thing.
+
+"Say it," she said. "Say it wasn't your fault. Everyone else has."
+
+Mau looked at her.
+
+"I can't," he said.
+
+The woman looked at him for a long moment. Something in her face gave, very slightly, and then closed again.
+
+"No," she said. "I didn't think you could."
+
+She went back to the bread table.
+
+She did not take any.
 
 
 
@@ -245,6 +271,10 @@ Then Mau, because he had followed Frieren.
 Then Qifrey, because he had followed Coco.
 
 "Dessa watered it," Coco said, without turning around. "Every morning. On her way to the washing court. She had a blue bucket. She'd stop and pour a little bit and then keep going. She never said anything. I don't even know if she knew what it was." Coco's voice wobbled. "She just saw the board."
+
+Mau stood very still.
+
+A blue bucket. Every morning. He had walked past that board a hundred times, and he had never once seen who was watering it.
 
 She lifted the charcoal.
 
@@ -293,6 +323,12 @@ After a while Qifrey said, very quietly, so only Mau could hear:
 Mau watched Frieren's hand move on Coco's back, slow and steady, the way his own did.
 
 "From everyone," he said. "I think she's been learning from everyone."
+
+Frieren did not look up from Coco. She did not need to. She reached back with her free hand, without turning, and found his sleeve, and held on.
+
+She had not heard what the woman from the washing court had said.
+
+She had seen his face when he came back from the bread table.
 
 The sapling moved a little in the wind.
 

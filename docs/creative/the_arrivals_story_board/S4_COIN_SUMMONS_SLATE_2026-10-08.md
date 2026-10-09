@@ -50,10 +50,13 @@
 - **She is the Yuka from the end of Modulo, after the tumor was removed.**
 - **She brings Yuta's ring,** which was taken from her in Modulo (creator isn't sure whether it is returned).
   - **The ring is a tool, an extension, like Frieren's staff,** except that Yuta poured cursed energy into it for a whole lifetime.
-- **Mau touches it** (creator: "muajajaja"):
-  - It is not the Noise reaching for it. The Noise doesn't notice. Nobody does.
-  - Mau has crossed the space without realising (a blink, as in V18 "The Monster Wave"). He is simply standing there holding the ring.
-  - Yuka: *what the f—*
+- **Mau touches it** (creator: "muajajaja"). **The scene (creator, round 3):**
+  - **It is the Noise, and Mau doesn't realise it.** Nobody sees him cross the space (a blink, as in V18 "The Monster Wave"). He is simply there, holding the ring.
+  - **Yuka wears the ring on a cord as a necklace**, so Mau is suddenly *very* close to her, staring at the ring.
+  - Comedy: Yuka blushes, because Mau has no idea what is happening and is only looking at the ring.
+  - Behind Mau, Yuka sees **an elf looking at her**. The look tells her that if she says the wrong thing, she'll have to bring out Rika: "el oppa stoppa".
+  - Someone: "Mau?" No reaction. "Mau?"
+  - A second later he asks what he's doing there, and apologises.
 - *Before drafting, check the Modulo details (the ring, the tumor, the ending) against the source.*
 
 ### Seika (Nijika's coin) — APPROVED, possibly the first summon
@@ -65,16 +68,24 @@
 ### Umaru and her brother — POSSIBLE
 - She wants to bring him, but "now she has an internal conflict" (creator). She **offers her own coin for Shoko first** (above).
 
-### Jiji (Dandadan) — POSSIBLE, probably Okarun's coin
-- The creator doesn't love it because of the Evil Eye, but it could be good.
-- He doesn't know yet how to fit Jiji into the story. No rush.
+### Jiji (Dandadan) — LIKELY, **without the Evil Eye**
+- The creator's problem with the Evil Eye: going by the series, Jiji would have to fight Okarun every Tuesday.
+- **So Jiji comes without it** (creator, round 3).
+- He remembers everything, not from very far back: he remembers the friendship and all of it.
+- **The scene (creator):**
+  - They are eating. Something cold lands on Jiji.
+  - The ones who know what that means panic, and someone is already throwing soup at him.
+  - Nothing happens.
 
 ### Nokotan — CONFIRMED as comedy, not a coin
 - Her seed is in `FLOATING_IDEAS.md`. She arrives by accident. She is a strong candidate for the first episode after the peace volume.
 
 ### The earlier slate — pushed back, not cancelled
 - **Coco's mother:** the creator wants her, but **later**. We need to see how she would interact. Maybe she runs from the place because of the magic and asks Coco to come with her, or not.
-- **The rest** (Heiter, Eisen, Luomen, Chrome): to sit down and decide later, by what the house needs.
+- **The rest** (Heiter, Eisen, Luomen): to sit down and decide later, by what the house needs.
+- **Senku's coin: Byakuya**, his father. APPROVED (creator, round 3), replacing Chrome.
+  - More than being someone super, he becomes **someone who helps Senku**.
+  - He is like Seiko: **he is there, and nothing revolves around him**, and he still matters.
 - **Chrome:** the creator likes it, but bringing him would separate him from Ruri.
 - **"Suika's sister": dropped.** Kohaku is not her real sister (creator's slip).
 
@@ -91,12 +102,12 @@
 - **How Gojo learns about Sukuna** has to respect what the house consciously knows. Second Chance is unknown in-world.
 - **Seiko's coin also settles Umaru, for now.** Umaru offering hers so quickly reads as dodging the brother decision, and Seiko's "calm down" is her not letting Umaru give away something she may still need.
 - **Umaru's conflict, a proposal:** here, Mau became her older-brother figure (S2 canon), and she became President without anyone looking after her. Bringing Taihei asks the man who already gave years to looking after her to leave his whole life for her again. And there would be two older brothers in one house.
-- **Senku's coin, a proposal: Byakuya**, his father. He is dead in the source, so "some" applies. Bringing him separates nobody from anyone. Senku would call it the most logical choice, ten billion percent, and nobody would believe him.
-- **Jiji, one possible hook:** Okarun spending his coin on his rival, because he's Momo's oldest friend and has become his own. That is growth for Okarun. The Evil Eye could be a lonely child who wants to play rather than a threat.
+- **Byakuya:** he is dead in the source, so "some" applies, and bringing him separates nobody from anyone. Senku would call it the most logical choice, ten billion percent, and nobody would believe him.
+- **The ring scene is the Noise's first reach for a requirement it lacks.** It reaches for the cursed-energy volume, and Mau never got the chance to say "don't let me touch it". Frieren saw. The house's question afterwards is no longer *why did you cross* but *what in you crossed*.
+- **Why Jiji comes without the Evil Eye, a proposal for a coin rule:** the petition names a *person*, so it brings the person and not what lives in him. Creator to decide whether this is a general rule or only Jiji's case, because it would also matter for Coco's mother and for anyone who carries a passenger.
+- **Who spends the coin on Jiji:** Okarun was the lean. Spending it on his rival, because he is Momo's oldest friend and has become his own, would be growth for him.
 - **The first summon versus the first arrival:** the house spends weeks carefully planning its first summon, and a girl with antlers walks in uninvited first.
 
 ## 4. Open questions for the creator
 
-1. Senku's coin: Byakuya?
-2. Jiji: does the Okarun hook work, or does he wait?
-3. The ring: what made Mau cross?
+1. Jiji: whose coin (Okarun?), and is "the coin brings the person, not the passenger" a general rule?

@@ -141,3 +141,11 @@ Claude's notes (options, not decisions):
 - **Protect the weight of Return/Stay.** *(Creator: APPROVED, "eso es lo que quiero".)* Frame her exit as a one-off absurdity of *her* source, not a door anyone else can use. She can't take anyone with her, Analyze can't learn it, and Fern can note in the ledger that it is "not a precedent". Otherwise the S4 window and the coins lose their cost.
 - **Timing:** *(Creator, 2026-10-08: still considering whether to bring her in at all, but if yes, a **strong candidate for the first episode after the S4 peace volume**.)* The peace month has zero arrivals, so she would be among the first after it, and the comic opening contrasts with what follows.
 - **The deer stays a mystery.** Nokotan can talk to the deer, but the story never explains *the* deer. It keeps "maybe it followed you home".
+
+## Mau's overload perception and the Six Eyes (Claude proposal, 2026-10-09, pending the creator)
+The creator, reading V18 #44 "Threshold", asked whether Mau is developing something like the Six Eyes. In that chapter Mau's vision is "too sharp", mana becomes flow, cursed energy becomes pressure, and biology becomes geometry.
+
+- **Canon today:** Mau does **not** have the Six Eyes. They are a *missing requirement* in the containment lock, and they are what would make his Infinity controllable. What he sees in #44 is the Noise overloaded (INTEGRATION LOAD, CROSS-SYSTEM CONTENTION). The black-and-red left eye in that scene is the ghoul valve, not a new eye.
+- **Proposal (not canon):** the overload is the Noise trying to *integrate* everything Mau carries. In effect it is raw, unfiltered perception, like the Six Eyes without the filter that makes them bearable. This ties to the ring scene in the S4 slate, where the Noise reaches for a requirement it lacks.
+- **Proposed S4 payoff:** **Gojo recognizes it.** The Six Eyes nearly burned out his own brain until RCT kept it running, so he knows the symptom. "That's what my eyes do. Mine come with a filter. Yours don't." This gives his role as teacher a second concrete reason, besides the Infinity.
+- **Creator decision:** is the overload *becoming* something like the Six Eyes, or does it stay its own thing?

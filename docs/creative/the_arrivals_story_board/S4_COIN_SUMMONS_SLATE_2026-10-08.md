@@ -1,52 +1,86 @@
 # S4: the coin summons slate (creator draft, 2026-10-08)
 
-**Status:** PROVISIONAL. The creator's working list. It is not canon until each name is confirmed.
-**Depends on:** `S4_ARC1_THE_TEN_DAYS_PROPOSAL_2026-10-08.md` (coins: one per stayer, transferable, never expire, the Trial's prize; zero arrivals in the first month; the vetting agreement).
+**Status:** PROVISIONAL, and **not a closed list** (creator). It holds strong candidates, and it pushes the earlier slate back without cancelling it. A name becomes canon only when its chapter is written.
+**Depends on:** `S4_ARC1_THE_TEN_DAYS_PROPOSAL_2026-10-08.md`: coins are one per stayer, transferable, never expire, and are the Trial's prize; zero arrivals in the first month; the vetting agreement.
 
 ---
 
 ## 1. The frame (creator)
 
 - **Coins are tangible, so the house has to plan them.** Nobody brings forty people at once.
-- **The conversation that makes the list** turns on two questions:
+- **The list comes out of a conversation** about two questions:
   1. *We can't bring forty at once*: the infrastructure can't take it (Arrival House beds, Fern's ledger, food, the fort's square metres).
   2. *Who is it worth bringing?*
-- **Some people donate their coin** because they don't need it. Maki might, since she already has Yuta. Or this is exactly where Maki spends hers on Yuka.
-- **Keeping people important is the hard part.** Every new arrival makes it harder for the existing cast to stay present. Forty at once would be a disaster now and later.
-- **The model for the future is Tensura.** New arrivals can be useful for specific arcs without becoming MCs. This fits [presence, not protagonist].
-- **No new franchise for now** beyond Solo Leveling, which is already in the pool (row 6) and is for the creator's future plans.
+- **Some people donate their coin** because they don't need it.
+- **Keeping people important is the hard part.** Every new arrival makes it harder for the existing cast to stay present, so forty at once would be a problem now and later.
+- **The model for the future is Tensura:** new arrivals can be useful for specific arcs without becoming MCs. This is the same rule as "presence, not protagonist".
+- **No new franchise for now** except Solo Leveling, which is already in the pool (row 6) and is for the creator's future plans.
+- **This is where the story shows that the list is alive.** People change their minds, and the earlier slate gets pushed back.
 
-## 2. The candidates (creator)
+## 2. Candidates and creator decisions
 
-| Who | Why (creator) | Coin (open) |
-|---|---|---|
-| **Gojo** | Comes as a **teacher**, not "the Honored One" any more after his death. He remembers being cut. **The manga's ending is changed here:** instead of acknowledging Sukuna as strong, he wakes up furious. "That cheating motherfucker, we were having a great fight, and that bullshit... honestly, that was the biggest bullshit I've ever seen." | Yuta (the earlier proposal) |
-| **Shoko** | **Prime pick.** She takes a lot of the medical load off Maomao, and she works inside the rules of RCT. | open, see §3 |
-| **Yuka** | The Ten Shadows. She may become one of the most important people in Mau's life. | Maki? |
-| **Jiji** (Dandadan) | The creator doesn't love it because of the Evil Eye, but it could be good. | Momo? |
-| **Seika** (Nijika's sister) | **Possibly the first summon.** | Nijika |
+### Gojo (Yuta's coin)
+- He comes as a **teacher**, not "the Honored One" any more after his death. He remembers being cut.
+- **The manga's ending is changed here.** He does not acknowledge Sukuna as strong. He wakes up furious: "That cheating motherfucker, we were having a great fight, and that bullshit... honestly, that was the biggest bullshit I've ever seen."
+- **He finds out that Sukuna exists in this world.** "I want my rematch with that cheater." *(Creator, round 1.)*
+- **He arrives nerfed** *(creator, round 1)*:
+  - **Infinity only.** No Blue, no Red, so no Purple.
+  - **No Domain.** Yuta has been here two years and still hasn't unlocked his, so it would not be fair for Gojo to have one.
+- **When he learns what Mau carries:** "So you stole all of mine." He laughs. "Great. When I'm at 100% and you're at 100%, we're testing it."
+  - Milim gets excited about the fight. Half the house says no. Mau: "We'll see."
 
-**The Kessoku Band beat (creator):**
+### Shoko (a coin donated to Gojo; Gojo brings her)
+- She is the creator's own pick: Gojo brings her, using a coin someone transfers to him, and the Goddess's "loved person" bound holds.
+- **She comes from after Gojo's death**, so the grief is not lost: she sees him alive.
+- **Alcohol and cigarettes exist here, but they are scarce.** Shoko gets angry about it. She remembers that she had quit for a while, until Shibuya.
+- **Something sweet between them.** The fandom ships Gojo three ways (Utahime, Shoko, Geto). The creator finds the Geto one silly, and the sweet thing here is Gojo and Shoko.
+- She takes a lot of the medical load off Maomao and works inside the rules of RCT.
+
+### Yuka Okkotsu (*JJK Modulo*; Maki's coin) — CONFIRMED by the creator
+- She is Yuta and Maki's granddaughter. She brings something to both of them.
+- She **can become someone very important to Mau and his family**.
+- She is still a teenager, so she fits the **fort** well.
+- **She is the Yuka from the end of Modulo, after the tumor was removed.** She comes **with Yuta's ring**, which was taken from her in Modulo (creator isn't sure whether it is returned). The ring is explained as having infinite cursed energy.
+- *Before drafting, check the Modulo details (the ring, the tumor, the ending) against the source.*
+
+### Seika (Nijika's coin) — APPROVED, possibly the first summon
 - Bocchi and the others want to bring someone, but they know the risks.
-- **Bocchi summons nobody.** If she takes one more member away from her family, what does she expect to find when she can finally bring them all at once?
-- Ryo and Kita don't decide either, just like Bocchi.
+- **Bocchi summons nobody.** If she takes one more member away from her family, what does she expect to find when she can bring them all at once?
+- Ryo and Kita don't decide either.
 - **Nijika ignores all of it and brings her sister.** It's an emotional moment, and then we watch Seika fit into the house's dynamics.
+
+### Umaru and her brother — POSSIBLE
+- Umaru wants to bring her brother, but "now she has an internal conflict" (creator). Whether it is worth doing is still open.
+
+### Jiji (Dandadan) — POSSIBLE
+- The creator doesn't love it because of the Evil Eye, but it could be good.
+
+### Nokotan — CONFIRMED as comedy, not a coin
+- Her seed is in `FLOATING_IDEAS.md`. She arrives by accident. She is a strong candidate for the first episode after the peace volume.
+
+### The earlier slate — pushed back, not cancelled
+- **Coco's mother:** the creator wants her, but **later**. We need to see how she would interact. Maybe she runs from the place because of the magic and asks Coco to come with her, or not.
+- **The rest** (Heiter, Eisen, Luomen, Chrome): to sit down and decide later, by what the house needs.
+  - Example: instead of Chrome, Senku may decide they bring **Suika's sister**. *(Creator; Claude to confirm who she is.)*
 
 ## 3. Claude's notes (proposals, not decisions)
 
-- **The Goddess's bound still applies.** A coin is a petition *concerning a specific loved person*. Shoko can't be brought by just anyone. Cleanest path: someone who doesn't need their coin **transfers it to Gojo after he arrives**, and Gojo brings his oldest friend. Transferable coins exist for exactly this.
-- **Gojo and Sukuna.** In this world, Sukuna is alive (S1 finale; Second Chance; V18 "Sukuna Hears They Survived"). A Gojo who wakes up furious with Sukuna, in a world where Sukuna still exists, is a loaded gun. Either it's a future arc, or there must be a reason he never learns it. **Creator decision.**
-- **What Gojo teaches.** Mau carries a sealed "Infinity without the Six Eyes, uncontrolled" (containment lock), and it leaked under grief in V20. Gojo is the one person who could teach Mau to *control* it. That gives "teacher" a concrete payoff.
-- **Gojo's power balance.** At full strength he makes every threat trivial. The story needs a reason he doesn't solve everything. Proposal: he chooses not to stand in front (Yuta's lesson: "nobody alone in front"). He teaches, and he steps in only when the system asks, the same as Mau's card.
-- **Shoko and the clinic.** Her RCT on others is rare and draining, and it can't undo death, so injuries keep their cost. Maomao gets a colleague, not a replacement. Possible running gags: Maomao versus Shoko's smoking and drinking; Shoko and Heiter's indomitable liver.
-- **Yuka. Confirm who she is.** Claude reads her as **Yuka Okkotsu** (*JJK Modulo*), Yuta and Maki's granddaughter, who uses the Ten Shadows. If so: Yuta and Maki have already lived "a whole life, and then this one" (V15). Yuka knew them old, or lost them. Seeing her grandparents young is the emotional core. Rule to set: what she tells them about their future, and whether they ask her not to.
-- **The first summon versus the first arrival.** Nokotan (`FLOATING_IDEAS.md`) is a strong candidate for the first episode after the peace volume. She is an *accident*, not a summon. So there's no conflict: it's a gag. The house spends weeks carefully planning its first summon, and a deer girl walks in uninvited first.
-- **The earlier slate**, from the proposal: Fern→Heiter, Stark→Eisen, Maomao→Luomen, Senku→Chrome, Coco→her mother (petrified), Kusuri pending, Maki's unfired petition. **Creator decision:** do these stay alongside the new list, or are they replaced?
+- **Canon tie-in: the sealed shells.** The containment lock lists Mau's "finished, missing a requirement" shells. Three of the missing requirements are carried by this slate:
+  - **the Six Eyes** (control of Infinity): Gojo. Teaching Mau to *control* the Infinity that leaked in V20 makes "teacher" concrete.
+  - **a shadow medium and shikigami** (Ten Shadows): Yuka. This may be *why* she matters to Mau.
+  - **cursed-energy volume** (domains' sure-hit): an infinite-CE ring.
+- **Rule proposal: she teaches, he never borrows.** Yuka matters to Mau as a person, not as his missing part. The ring follows V18 "Under the Refuge": **Mau never touches it.** If it works in this world, it is the most dangerous object in the house.
+- **"So you stole all of mine" is literal.** Mau carries a finished Blue and Red (sealed), and Gojo arrives without them.
+- **The nerf solves the power-balance problem.** A Gojo with Infinity only is untouchable but cannot end a fight alone. That makes him a teacher by design, and keeps him from standing in front alone (Yuta's lesson).
+- **"When I'm at 100%" implies the nerf is recovery, not permanent.** Proposal: it comes back slowly with no date, and the Domain comes last, if ever. **Creator decision.**
+- **How Gojo learns about Sukuna** has to respect what the house consciously knows. Second Chance is unknown in-world.
+- **Umaru's conflict, a proposal:** here, Mau became her older-brother figure (S2 canon), and she became President without anyone looking after her. Bringing Taihei asks the man who already gave years to looking after her to leave his whole life for her again. And there would be two older brothers in one house.
+- **The first summon versus the first arrival:** the house spends weeks carefully planning its first summon, and a girl with antlers walks in uninvited first.
 
 ## 4. Open questions for the creator
 
-1. Yuka = Yuka Okkotsu (Modulo)?
-2. Who donates a coin for Shoko, and does it go through Gojo?
-3. Gojo and Sukuna: does Gojo find out?
-4. Jiji: whose coin, Momo's or Okarun's? And the Evil Eye: a danger or a gag?
-5. Does the earlier slate stay?
+1. Who donates the coin that Gojo uses for Shoko?
+2. Does the infinite-CE ring work in this world?
+3. Is Gojo's nerf permanent or a recovery?
+4. Who is Suika's sister?
+5. Jiji: whose coin, Momo's or Okarun's?

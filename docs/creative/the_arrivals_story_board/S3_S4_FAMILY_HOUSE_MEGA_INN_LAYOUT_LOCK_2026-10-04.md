@@ -266,13 +266,20 @@ Creator direction while reading V14. The temporary cluster is a **mock-up of the
 
 ### 10.3 The real house (drawn V18, built S4+)
 - **Two floors.** Downstairs: common room, kitchen with bell and speaking tube built in, dining, music room, atelier, Wakana's workshop at the noisy end, and Maomao's medical room at the far end from the kitchen. Upstairs: bedrooms in **group sections**. Walls between people who want to be together are designed to come out. Walls for quiet are thick.
-- **East section.** Mau and Frieren at the east end: east window, built-in library bay, reading chair, inner-corner closet with Rimuru's loft above. Ori through one wall. Bocchi through the other, with a private stair down to the music room. Milim at the end, with a window toward Rimuru's office. Yuta and Maki across the corridor. **The shelf is not drawn:** "We'll argue about it when there's a wall to put it against."
+- **East section.** Mau and Frieren at the east end: east window, built-in library bay, reading chair, inner-corner closet with Rimuru's loft above. Ori next door **through a door, not a wall** (creator change 2026-10-09, DH-043: "I don't live next to them, I live *with* them"). **Rimuru's office moves downstairs** beside the common room, so visitors never climb past bedrooms (Mikasa: visitors stay on the ground floor), and Ori's room takes the freed width. Milim keeps her window, which now looks at the top of the stair. Bocchi through the other, with a private stair down to the music room. Milim at the end, with a window toward Rimuru's office. Yuta and Maki across the corridor. **The shelf is not drawn:** "We'll argue about it when there's a wall to put it against."
 - **Other rooms.**
   - The big room for the five, with one thick outer wall.
   - The Witch Hat room with a built-in alcove for Agott, which has a door and the star curtain, plus an unlabelled fourth bed Tetia insisted on for Richeh.
   - Qifrey, measured exactly between his students and the east section.
   - Umaru and Suika next to the Witch Hat room, with **Umaru's Door, Mark Two**: a covered landing bridge, eleven steps.
   - Anko and Nazuna on the dark north side, with the high loft.
+  - **Fern and Stark:** side by side with a **dotted wall** (one room, eventually; Fern wants slower). They do a **trial run in the Muslin** now, while walls still move (DH-043).
+- **Growth (DH-043).** Nijika asks the question that matters: "What happens when somebody else comes? What if it's somebody's family?" ("We put them at the turn." / "The turn is taken.")
+  - Wakana draws **dotted wings** off the north and west sides. "Not promises. Places."
+  - Each wing gets its own cellar stair (Mikasa).
+  - Marin proposes **little houses around a yard**: everyone eats in the big one, and everyone has their own door. Left open.
+  - Fern's ledger: *When the house is full: ask again.*
+  - **S4 setup.** The coin summons (`S4_COIN_SUMMONS_SLATE_2026-10-08.md`) are exactly this case. When the real house is built, this question comes back: wings, or separate houses.
   - Fern at the top of the main stair, with Stark beside her.
   - Himmel facing the road.
   - Mikasa with two exits.

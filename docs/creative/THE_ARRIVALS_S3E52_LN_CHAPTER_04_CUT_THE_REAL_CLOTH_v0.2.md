@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — REBUILD v0.2  
 **Volume:** 18  
 **Reading order:** 43  
-**Continuity state:** Rebuild weeks, after the memorial | The real house is drawn, not built: two floors, a cellar, two exits under every section, a room with no name
+**Continuity state:** Rebuild weeks, after the memorial | The real house is drawn, not built: two floors, a cellar, two exits under every section, a room with no name | Ori gets a door, not a wall; Rimuru's office moves downstairs; Fern and Stark's trial run in the Muslin; dotted wings; Fern's note: when the house is full, ask again
 
 Wakana took the board down three weeks after the memorial.
 
@@ -64,6 +64,44 @@ Frieren looked at him for a long moment.
 
 Wakana did not draw the shelf.
 
+Ori said nothing about the east section for a whole evening. On the next one she stood up, walked to the plan, and put her finger on it.
+
+"That's a wall."
+
+Wakana looked where she was pointing. Between her room and Mau and Frieren's.
+
+"It's your room," he said. "Next to theirs. Like now."
+
+"I don't live next to them," said Ori. "I live *with* them. I'm in there before they're awake and I'm in there until Frieren sends me to bed. I only sleep next door." She looked at the line on the paper as if it had said something rude to her. "And you drew me a wall."
+
+"Walls come out," said Wakana.
+
+"Then draw it out."
+
+There was a small silence.
+
+"Draw a door," said Frieren, without looking up from her book.
+
+Mau looked at Frieren. Frieren turned a page.
+
+Wakana rubbed out the wall and drew a door.
+
+It made the east section into something it had not quite been on paper before. Not three rooms in a row. One home, with doors inside it. And at the end of the corridor, just past Milim, the one room upstairs that was not for sleeping: Rimuru's office, with the people who came to see the two faces walking up the stair and past all of it to get there.
+
+Rimuru looked at that for a while.
+
+"Move my office downstairs," he said.
+
+Everyone looked at him.
+
+"It's the only room up there that's for work. The people who come to see me shouldn't be walking past where Ori sleeps." He paused. "And I live in the loft anyway."
+
+"Agreed," said Mikasa, before anyone else could say anything. "Visitors stay on the ground floor. All of them."
+
+So the office went downstairs, beside the common room, where anyone could find it and no one had to climb past a bedroom to get there. Milim objected, briefly, because her window now looked down the corridor at nothing. Wakana offered to move the window. Milim thought about it and said no: it looked at the top of the stair now, and Rimuru had to come up the stair.
+
+Wakana redrew the east end around the space the office left. Ori's room got the extra width, and the door. When he stood back, it looked, for the first time on paper, like what it already was.
+
 
 
 The rest of the upstairs took four evenings.
@@ -78,7 +116,37 @@ Umaru and Suika in the room next to the Witch Hat girls'. Umaru had demanded, as
 
 Anko and Nazuna's room on the north side, where the light came least. The high loft was drawn in with its black curtain all the way round, and Anko's bed below.
 
-Fern's room near the top of the main stair, where she could hear everything. Stark's beside it. He asked for nothing else. Fern pretended not to notice, with great concentration, exactly as she had the first time, although she was officially allowed to notice now.
+Fern's room near the top of the main stair, where she could hear everything. Stark's beside it.
+
+Then Stark cleared his throat.
+
+He looked at Fern. Fern looked at the plan. Something passed between them that everyone at the table pretended very hard not to see.
+
+"Actually," said Stark.
+
+"One room," said Fern, at exactly the same moment. "A big one."
+
+The common room went completely silent. Umaru's mouth opened. Coco put a hand over it.
+
+"Eventually," said Fern, in the same voice, very fast. "Not now. I want to go slower." She looked at Stark. "Slower."
+
+"Slower is good," said Stark at once, red to the ears. "I like slower."
+
+Wakana looked at the two rooms on the plan for a while.
+
+"Then try it now," he said.
+
+Fern looked up.
+
+"In the Muslin. While the walls still move." He shrugged. "That's what the Muslin is for. If it's wrong, we move the hooks back on Saturday. If it's right, I draw it in ink."
+
+Fern opened her mouth to object, and could not find anything wrong with it, which was the thing she hated most in the world.
+
+"A trial run," she said at last.
+
+"A trial run."
+
+So the two rooms went on the plan side by side, with the wall between them drawn the way Wakana drew walls that were meant to come out: dotted. That Saturday, in the Muslin, two hooks moved. Nobody said anything about it at breakfast. Nobody said anything about it so loudly that Fern threw a bread roll at Umaru, who had not said anything either, but had been about to.
 
 Himmel's room on the road side, facing the way people would come.
 
@@ -89,6 +157,52 @@ Senku's room next to his workroom downstairs, because Fern had said, months ago,
 Off the north end of the common room, there was a bay that nobody had asked for. Senku had drawn it in without a word while the others argued about stairs, and labelled it, in his small square capitals, FORT (EXTENSION). It was big enough for twenty people, and for six cushions more. When Umaru saw it, she did not say anything for a very long time, and then she shook Senku's hand.
 
 And at the turn of the upstairs corridor, a narrow room. The plan said REM in pencil, because when Wakana went to ink it, Rem said "Pencil," and nobody argued. Under it, smaller, it said *(SISTER)*, in Coco's lettering. Coco had insisted that the plan match the door.
+
+It was Nijika who said it, on the fifth evening, standing back to look at the whole upstairs at once.
+
+"It's full."
+
+Everyone looked at the plan.
+
+It was. Every room had a name in it. Some had two. The big room had five. There was a fourth bed in the Witch Hat room for someone who was still a guest, and a door between Ori and the east end, and a dotted wall between Fern and Stark.
+
+"We're already sharing," said Nijika. "And that's just us. The ones here now." She hesitated. "People keep arriving. What happens when somebody else comes? What if it's somebody's family?"
+
+She did not look at anyone when she said it. She was very carefully not looking at anyone at all.
+
+"We put them at the turn," said Umaru.
+
+"The turn is taken," said Rem.
+
+Somebody laughed. It did not last long, because Nijika was right, and everybody at that table knew at least one person they would give a room to without asking a single question.
+
+They had drawn a house for the people in this room. Only them. As if the household had stopped growing on the evening Wakana sharpened the pencil.
+
+"It hasn't," said Fern. Her ledger was open. Her ledger was always open. "Since the old inn, this house has never once been the same size for a whole season."
+
+"So we don't draw a house," said Senku slowly. "We draw a house that knows there'll be more."
+
+Wakana was already moving. He drew dotted lines off the north side, and off the west, where the ground ran flat toward the garden circle. Wings. Not rooms, only the shapes of where rooms could go.
+
+"Not promises," he said. "Places."
+
+"With their own stairs to the cellar," said Mikasa.
+
+"Obviously."
+
+"Or little houses," said Marin, who had been quiet for at least ten minutes, which was a record. "Around a yard. Everybody eats in the big one, and everybody has their own door."
+
+"We can't afford one house," said Fern, "and you're drawing three."
+
+"Not drawing them," said Wakana. "Leaving room for them."
+
+Fern looked at the dotted lines for a long time. Then she wrote something in the ledger. Mau, who was close enough, read it upside down:
+
+*When the house is full: ask again.*
+
+He did not say anything that evening.
+
+He was still thinking about Nijika's question the next day.
 
 
 

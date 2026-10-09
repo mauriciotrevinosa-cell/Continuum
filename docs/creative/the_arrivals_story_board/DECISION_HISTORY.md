@@ -601,3 +601,20 @@ The creator flagged this while reading V18 #42. The washing-court woman's scene 
 - **At the board,** Mau learns that Dessa was the one who watered the sapling. Frieren didn't hear the woman, but she saw his face, and takes his sleeve without turning.
 - **Payoff that already exists:** V19 "Not at the Table". Coco hands Mau the bucket ("You're everyone"), and he waters the tree Dessa used to water, hands shaking. It now carries this scene. No edit needed there.
 - **Open for later:** the words can echo in S4, for example around the two days away. Nothing else is written yet that resolves them, and nothing should resolve them quickly.
+
+## DH-043 — "Cut the Real Cloth": Ori's door, the office downstairs, Fern and Stark's trial run, a house that grows (creator, 2026-10-09)
+
+The creator flagged this while reading V18 #43.
+
+**Current direction:**
+- **Ori is closer.** She complains: "I don't live next to them, I live *with* them... and you drew me a wall." Frieren: "Draw a door." The east section becomes one home with doors inside it.
+- **Rimuru's office moves downstairs** (his own call), so visitors to the two faces never climb past bedrooms. Mikasa: "Visitors stay on the ground floor. All of them." Ori's room takes the freed width.
+- **Fern and Stark:** "One room. A big one." Then Fern: "Eventually. Slower." Wakana: "Then try it now. In the Muslin, while the walls still move." It's a **trial run**: two hooks move that Saturday, and Fern throws a bread roll at Umaru.
+- **The house has to grow.** Nijika: "People keep arriving... What if it's somebody's family?" Umaru: "We put them at the turn." Rem: "The turn is taken."
+  - Fern: "Since the old inn, this house has never once been the same size for a whole season."
+  - Senku: "a house that knows there'll be more."
+  - Wakana: dotted wings off the north and west sides. "Not promises. Places."
+  - Marin: little houses around a yard.
+  - Fern's ledger: *When the house is full: ask again.*
+- **Mau's room with no name** (already in the chapter, sixth evening) now answers Nijika's question. He was still thinking about it the next day.
+- **S4:** the coin summons make the question real. Whether the house grows wings or separate houses gets decided when the real house is built.

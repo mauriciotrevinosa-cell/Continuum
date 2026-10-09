@@ -192,7 +192,7 @@ He knew.
 
 Could not stop.
 
-Outside, the real Frieren watched fragments.
+Nobody outside saw any of it.
 
 Mau opening his eyes too fast.
 
@@ -200,25 +200,11 @@ Mau checking his chest.
 
 Mau recoiling from harmless noises inside scenarios.
 
-The Trial did not display every loop anymore.
+Only the Goddess saw the pattern. She did not need to say it.
 
-It did not need to.
+The body was resetting.
 
-Pattern had become visible.
-
-Senku said quietly:
-
-"The body isn't resetting."
-
-Rimuru looked at him.
-
-"It is."
-
-Senku shook his head.
-
-"Not the relevant part."
-
-Frieren understood before either finished.
+Not the relevant part.
 
 Mau would leave physically uninjured.
 

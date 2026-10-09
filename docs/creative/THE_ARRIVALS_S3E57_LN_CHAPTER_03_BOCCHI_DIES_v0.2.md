@@ -208,13 +208,11 @@ Long enough to know indecision was also a choice.
 
 Anchor.
 
-Outside, real Bocchi had both hands over her mouth.
+Outside, real Bocchi was sitting on the plaza stones with her back against Kita's knees, staring at the white wall.
 
-Kita held her.
+She did not know that a version of her had just died in there.
 
-Bocchi could not look at Mau.
-
-Could not look away.
+She would not know for a long time.
 
 The Goddess asked:
 

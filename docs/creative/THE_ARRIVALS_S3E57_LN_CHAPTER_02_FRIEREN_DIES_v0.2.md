@@ -232,13 +232,9 @@ Anchor.
 
 He returned whole and immediately retched despite having nothing in his stomach.
 
-Outside, real Frieren had watched herself die.
+Outside, real Frieren had seen nothing.
 
-Not graphically.
-
-Worse.
-
-Long enough to watch Mau continue.
+That was worse in its own way. She stood at the white wall with no idea what she was failing to see. Every hour or so she said his name to it, not loudly, the way you knock on a door you already know is locked.
 
 Fern stood near her.
 
@@ -307,11 +303,9 @@ Survival now had evidence attached.
 The body learned:
 if I die first, I do not have to live in the world after.
 
-Outside, Frieren understood.
+When the real Return/Stay choice arrived later, Mau would remember this bridge.
 
-When the real Return/Stay choice arrived later, she would remember this bridge.
-
-So would Mau.
+Frieren would not. She had never seen it. That would matter too.
 
 His fear of letting others choose would no longer be theoretical.
 

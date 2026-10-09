@@ -217,7 +217,11 @@ His knees failed.
 
 He dropped.
 
-Outside the Trial, real Frieren took one step toward the domain boundary.
+Outside the Trial, there was nothing to see.
+
+The boundary stood across the plaza like a pane of frosted glass as tall as the sky. Behind it there was no road, no rain, no Mau. Only white.
+
+Real Frieren took one step toward it.
 
 It did not let her through.
 
@@ -225,7 +229,7 @@ It did not let her through.
 
 He could not hear her.
 
-Or the Trial chose not to let him.
+The rule had said so. Nothing had ever said that the rule was a lie.
 
 Mau pressed both palms to his sternum.
 
@@ -241,13 +245,7 @@ He gagged.
 
 Nothing.
 
-Rimuru saw.
-
-"Physical reset. Learned response retained."
-
-Ciel could observe almost nothing inside the domain.
-
-Only the result.
+Ciel could observe nothing inside the domain.
 
 And something she did not tell Rimuru until much later. For the first time since containment, the thread to Mau had gone silent. Almost completely.
 
@@ -259,13 +257,13 @@ One attempt.
 
 So she said the only thing she knew.
 
+Outside, Rimuru was asking Ciel for anything at all. A reading. A pulse. A direction.
+
 Frieren looked at him.
 
 "Don't make him data."
 
-Rimuru flinched.
-
-"Right."
+"There isn't any data," said Rimuru. "That's the problem."
 
 Inside, Mau looked at his hands.
 
@@ -317,13 +315,9 @@ He looked up.
 
 "Fuck you."
 
-Outside, Momo whispered:
+Outside, nobody heard it.
 
-"Good."
-
-Nobody laughed.
-
-Frieren did not move from the boundary.
+Momo brought Frieren a chair. Frieren did not sit in it. She did not move from the boundary.
 
 Mau stood slowly.
 

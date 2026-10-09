@@ -144,7 +144,7 @@ The road went very quiet.
 
 He stopped.
 
-Frieren had seen the clearing through the wall. She had seen what he was holding. She did not ask him to finish.
+Frieren had not seen anything through the wall. Nobody had. She did not know what he had been holding. She did not ask him to finish.
 
 He did not tell them what she had said at the end. He had not told anyone. He was not sure he ever could.
 

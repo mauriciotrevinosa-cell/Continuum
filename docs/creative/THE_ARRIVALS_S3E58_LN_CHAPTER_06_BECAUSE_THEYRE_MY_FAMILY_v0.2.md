@@ -118,9 +118,9 @@ The Goddess:
 
 Mau said nothing.
 
-Outside, nobody moved.
+Outside, nobody heard the question.
 
-Real Frieren's face broke.
+At the white wall, Frieren said his name again, because it was the hour.
 
 The question had always been there.
 

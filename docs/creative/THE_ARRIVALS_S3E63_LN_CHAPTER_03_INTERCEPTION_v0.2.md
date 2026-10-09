@@ -168,9 +168,9 @@ Memory.
 
 Rimuru:
 
-"We saw some."
+"We didn't see any of it."
 
-"You saw pieces."
+"I know."
 
 Mau looked at him.
 

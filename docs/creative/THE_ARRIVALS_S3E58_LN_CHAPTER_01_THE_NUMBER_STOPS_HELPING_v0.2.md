@@ -100,37 +100,19 @@ The memory crisis had already taught him what it felt like not to trust autobiog
 
 Now the Trial was creating genuine repeated experiences faster than his mind could organize them.
 
-Outside, Senku counted visible loops.
+Outside, Senku had nothing to count.
 
-Then the domain stopped displaying all of them.
-
-Fragments.
-
-A Mau dying.
-
-A Mau surviving.
-
-A Mau arguing for another route.
-
-A Mau sitting silently at anchor.
-
-No continuous feed.
-
-Senku kept a partial count.
+So he counted what he could. The minutes. The angle of the boundary's shadow on the plaza stones. How many times Frieren said Mau's name to the wall: once an hour, near enough, never louder than the first time.
 
 Rimuru asked:
 
-"How many?"
+"How long?"
 
-"Minimum or estimate?"
+Senku told him.
 
-"Minimum."
+Then stopped saying it aloud.
 
-Senku gave one.
-
-Then stopped giving numbers aloud.
-
-They were no longer helping anyone outside intervene.
+It was not helping anyone.
 
 Inside, Mau tried to count by pain.
 

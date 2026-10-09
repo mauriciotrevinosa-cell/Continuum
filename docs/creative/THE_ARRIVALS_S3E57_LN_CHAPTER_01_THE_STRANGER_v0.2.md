@@ -184,15 +184,7 @@ No answer.
 
 "But death isn't mine to assign because I hate what they did."
 
-Outside, the resident who had been harmed by a collaborator heard him.
-
-Her face changed.
-
-Not softened.
-
-Good.
-
-No manufactured reconciliation.
+Nobody outside heard him say it. The resident who had been harmed by a collaborator was standing at the white wall with everyone else, and would never know that, in there, he had refused to make her enemy's death his to assign.
 
 Six.
 
@@ -308,21 +300,17 @@ unknown and still worth saving.
 Mau remained:
 available.
 
-Outside, Frieren understood the pattern.
+Outside, there was still nothing to see.
 
-She whispered:
+Frieren had been standing at the white wall long enough for the boundary's shadow to move across the plaza stones. She had not seen anything. She did not need to.
 
-"He isn't choosing them."
+"Whatever it is," she said, "he isn't choosing them."
 
 Rimuru looked at her.
 
 "What?"
 
-"Not really."
-
-Frieren watched Mau die again for someone whose name he did not know.
-
-"He's choosing against himself."
+"Not really." She did not take her eyes off the wall. "He's choosing against himself. He always does. In there it will be worse."
 
 That was different.
 

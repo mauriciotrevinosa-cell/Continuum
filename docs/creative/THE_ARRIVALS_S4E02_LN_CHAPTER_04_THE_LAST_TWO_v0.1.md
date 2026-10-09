@@ -64,7 +64,7 @@ It was barely a whisper. Nobody but Mikasa heard it. She turned and looked at hi
 
 The room changed.
 
-Not all of it. Most of them had not seen. But some of them had stood in the plaza at the very end of the Trial, when the domain went thin. Through it, faint as breath on glass, they had seen another place: a clearing, frost, a ruin of cut flowers, a figure kneeling in the middle of it holding someone. They had seen that. They had not known what it was.
+None of them had seen it. Nobody outside the Trial had seen anything, at any point: not a scenario, not a death, not one of the four hundred and thirty-seven. They had stood in the plaza in front of a white wall and waited. When it opened he was kneeling on the stones with his arms empty, and that was all any of them knew.
 
 "Before that," said Mau, "there was a white room. Once. Two chairs. And a door with a sign on it. ONE LEAVES." He looked at the floor. "And you stood up, Frieren. You walked toward the door. And I stood in front of it."
 
@@ -98,7 +98,7 @@ He did not say anything else.
 
 Mau did not look up.
 
-"The false one," said Frieren. Her voice was perfectly calm, and terrible. "At the end. She said something. I saw her mouth move, through the wall. I saw your face." She took her hand away from her chest. "You've never told anyone. You didn't tell us on the road. You haven't told anyone in this house." She leaned forward on the couch. "Tell me what that false version of me said to you."
+"The false one," said Frieren. Her voice was perfectly calm, and terrible. "The one you caught. People say something, at the end. She said something to you. I can see it on your face every time you say *wedding*." She took her hand away from her chest. "You've never told anyone. You didn't tell us on the road. You haven't told anyone in this house." She leaned forward on the couch. "Tell me what that false version of me said to you."
 
 "Frieren—"
 
@@ -124,13 +124,21 @@ Frieren made a sound.
 
 Frieren's hands were over her mouth.
 
+"Every hour," she said through them. "I said it every hour. From the start. I stood at the wall and said your name because it was the only thing I could do, and nothing ever answered. I never knew if anything got through."
+
+"One did," said Mau.
+
+Frieren made a sound that was not a word.
+
 "And the Goddess asked," said Mau, "whether you'd choose me. And I said—" He stopped.
 
-"You said *they shouldn't*," said Frieren through her hands. "I heard you. I heard you say it."
+"What did you say?"
 
-"Yes."
+Mau looked at the floor.
 
-"I couldn't reach you." Her voice broke completely. "I heard you say it, and I couldn't get through the wall, and I couldn't— I couldn't *defend* you. From her. From that. From what she was doing to you."
+"That you shouldn't."
+
+"I was right there." Her voice broke completely. "I was right there, on the other side of a wall, and I couldn't get through it, and I didn't even know— I couldn't *defend* you. From her. From that. From what she was doing to you. I didn't even know it was happening."
 
 "I know."
 

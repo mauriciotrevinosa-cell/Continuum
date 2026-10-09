@@ -234,13 +234,9 @@ He saw all of them. Every single one. Everyone who had come because it was his w
 
 
 
-Outside the Trial, the domain shifted.
+Outside the Trial, there was still only the white wall. There had been nothing else all day.
 
-The family saw the plaza image become translucent, and through it, faint as breath on glass, another place: a clearing, frost, a ruin of cut flowers. A figure kneeling in the middle of it, holding someone.
-
-It took them a moment to understand what they were looking at.
-
-Then Frieren stepped forward.
+Frieren stood in front of it, where she had stood since the beginning. It was the hour. She said his name the way she had said it every hour, into nothing, never knowing whether anything got through.
 
 "Mau."
 
@@ -258,7 +254,7 @@ He did not know which one to believe.
 
 "Frieren?"
 
-"Yes."
+No answer came. Only the one word, once, and then the silence again, as if a door had been opened a crack and closed.
 
 The Goddess asked again, quietly:
 
@@ -272,11 +268,7 @@ He found that he did not have it anymore.
 
 "They shouldn't," he said.
 
-Beyond the translucent wall, real Frieren's face changed.
-
-Not hurt.
-
-Something much worse than hurt. Something that understood exactly what had just been done to him, and could not reach him to undo it.
+Outside, nobody heard it.
 
 "Then," said the Goddess, "let them answer."
 

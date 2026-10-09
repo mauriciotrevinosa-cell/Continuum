@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 20  
 **Reading order:** 5  
-**Continuity state:** Night of Day 5 | 'Mau is told everything' only goes one way | Ciel: under five hundred; 'press' | Senku's minimum: 112 | '437' / Ciel: 'Correct.' | 'Four hundred and thirty-seven times, I died.'
+**Continuity state:** Night of Day 5 | 'Mau is told everything' only goes one way | Ciel: under five hundred; 'press' | Senku timed the white wall: 5h41m | '437' / Ciel: 'Correct.' | 'Four hundred and thirty-seven times, I died.'
 
 Mau did not answer the question.
 
@@ -86,17 +86,17 @@ Everyone turned.
 
 Senku was sitting with his back against the fort's frame and his notebook on his knees, as he always was. He was not looking at the notebook.
 
-"During the Trial," said Senku. "Outside. The domain was showing us what was happening in there. Not all of it. Fragments. I counted the ones I could see." He turned a page, and then did not read it. "After a while it stopped showing us everything, so I couldn't count properly anymore. I kept a minimum. And I stopped saying it out loud, because Rimuru asked me what it was, and I told him, and I watched his face, and it wasn't helping anyone."
+"During the Trial," said Senku. "Outside. There was nothing to see. You all know that. A white wall, all day." He turned a page, and then did not read it. "So I timed it. It was the only thing I could measure. From the moment the plaza went white to the moment he was kneeling on the stones."
 
-"What was the minimum?" said Fern.
+"How long?" said Fern.
 
 Senku did not look up.
 
-"A hundred and twelve," he said. "That I saw. That I could count. Before it stopped showing us." He closed the notebook. "I don't know what I was counting either. Not exactly. I only knew that each time the picture changed, something had ended."
+"Five hours and forty-one minutes," he said. "Rimuru asked me partway through, and I told him, and I watched his face, and I stopped saying it out loud." He closed the notebook. "I don't know what was happening in there for five hours and forty-one minutes. I've been trying to work out what any number could mean, against that."
 
 Nobody spoke.
 
-Mau looked at Senku for a long moment. Senku, who measured everything. Who had counted every one he could see, alone, outside, while everyone else watched, and then stopped saying the number because of what it did to people's faces.
+Mau looked at Senku for a long moment. Senku, who measured everything. Who had stood in front of a white wall for five hours and forty-one minutes with nothing to count but time, and had counted it anyway, and then stopped saying it because of what it did to people's faces.
 
 Then Mau looked back down the table at the ledger, still open in Fern's hands to the page near the front, at the line in Frieren's rule.
 

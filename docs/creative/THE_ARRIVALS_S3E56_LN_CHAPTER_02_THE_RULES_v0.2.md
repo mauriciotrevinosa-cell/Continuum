@@ -218,6 +218,30 @@ She stepped closer.
 
 Mau wanted to believe her.
 
+Then one more line of text, as if it had been there all along.
+
+OBSERVERS RECEIVE NOTHING.
+
+Mau read it twice.
+
+"They can't see?"
+
+"No."
+
+"Or hear?"
+
+"No."
+
+He had not known he was afraid of it until it lifted. Whatever happened in there, they would not have to watch.
+
+Frieren read it a second later, and it landed on her the other way.
+
+"Then we won't know anything," she said. "Until you come out."
+
+"Correct."
+
+Frieren's hand closed on her staff hard enough that the wood creaked.
+
 The domain changed.
 
 The plaza vanished.

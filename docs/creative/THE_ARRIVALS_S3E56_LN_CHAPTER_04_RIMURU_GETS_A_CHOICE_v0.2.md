@@ -285,17 +285,9 @@ He stared at them.
 
 "Because their life doesn't become cheaper because I don't know them."
 
-Outside, Rimuru closed his eyes.
+Outside, nobody heard him.
 
-Frieren looked at him.
-
-"You heard yourself."
-
-Mau could not hear her.
-
-But the real Rimuru had.
-
-So had everyone watching.
+Rimuru would have known the sentence anyway. He had heard Mau say it before, in other words, on other days, about other strangers.
 
 The Trial was removing the easy explanation.
 

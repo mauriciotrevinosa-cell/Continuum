@@ -136,8 +136,6 @@ Mau's face broke.
 
 Silence.
 
-Outside, real Ori covered her mouth.
-
 Inside, she continued.
 
 "If love means I never get to choose something you hate, what did you teach me?"
@@ -246,8 +244,6 @@ Mau did not want the answer.
 
 Anchor.
 
-Outside, real Ori was crying.
-
 Mau returned to white space furious.
 
 "Again."
@@ -258,11 +254,15 @@ Different person.
 
 Same deeper wound.
 
-Outside, Ori looked at Frieren.
+Outside, Ori sat down beside Frieren at the white wall. Her face was wet. Nobody had told her anything. Nobody could.
+
+"Whatever's in there," she said, "it's making him choose. Isn't it."
+
+"Yes."
 
 "He hates being chosen."
 
-Frieren watched Mau disappear into the next scenario.
+Frieren looked at the wall, where nothing moved.
 
 "Yes."
 

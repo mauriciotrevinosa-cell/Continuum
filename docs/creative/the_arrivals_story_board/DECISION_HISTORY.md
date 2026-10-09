@@ -313,7 +313,7 @@ Creator-directed, 2026-10-05: "I want the Trial to be traumatic". The point is n
   - the flower in her hair is **blue**, but the first flower was white;
   - she says "You stood in front of the door, **and I let you**", but in "The Different Door" she went around him.
 - Mau's answer changes from "I don't know" to **"They shouldn't."** He exits straight into the Return offer.
-- **Echoes after the Trial:** "Future Regret" (he hears her finishing his sentence) and "Now Let Us Decide" (he says "I remember a wedding" but **never repeats her last words to anyone**). Frieren saw the clearing through the wall and does not ask. That silence is open into S4.
+- **Echoes after the Trial:** "Future Regret" (he hears her finishing his sentence) and "Now Let Us Decide" (he says "I remember a wedding" but **never repeats her last words to anyone**). Frieren does not ask. *(Superseded by DH-046: nobody outside saw anything, so she has not seen the clearing.)* That silence is open into S4.
 
 See V19 #17–#22.
 
@@ -665,6 +665,13 @@ The creator flagged this while reading V19 #10. In the current draft the family 
 - DH-021's echo line, "Frieren saw the clearing through the wall".
 - What the outside experiences instead: an opaque boundary and waiting. Ciel feels only the resets (DH-022 unchanged).
 
-**Open:**
-- Is there any exception at the very end, such as Frieren's voice reaching *in* to Mau without anyone seeing out? Or is it zero in both directions?
-- Timing of the rewrite: the creator is near his weekly limit.
+**Resolved (creator, same day):**
+- **The only exception is her voice, inward, once.** Through the whole Trial, Frieren says his name to the white wall about once an hour, never knowing whether anything gets through. In the last scenario, one of them gets through. She does not hear his answer, and she does not know he heard her until he tells her in S4 ("Every hour... I never knew if anything got through." / "One did.").
+- The creator's reason: "Frieren would be traumatized after seeing him die ten times." Reacting normally to watching his deaths was wrong.
+- **Rewritten (2026-10-09):**
+  - V19 "The Rules" now states the rule: OBSERVERS RECEIVE NOTHING. Mau is relieved; Frieren: "Then we won't know anything. Until you come out."
+  - Every outside beat in "First Death" through "Everyone Came" is now the white wall, waiting, and Frieren's hourly name. Frieren's "He's choosing against himself" comes from knowing him, not from seeing.
+  - "Interception": "We didn't see any of it." / "I know."
+  - "Now Let Us Decide": Frieren had not seen anything.
+  - V20 "Rule Five": Senku had nothing to count, so he **timed the white wall: five hours and forty-one minutes**. This replaces the visible-loop minimum of 112.
+  - V20 "The Last Two": nobody saw. Frieren works out the false one's last words from his face, and learns that her voice got through.

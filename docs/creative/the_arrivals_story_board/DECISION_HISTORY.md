@@ -650,3 +650,21 @@ Checking the upstairs diagram, the creator found many residents missing from the
   - **Bocchi's door faces Umaru's**, so the four founders share one stretch of corridor.
   - **Qifrey** has no "between" left, so he moves himself beside Anko and Nazuna without measuring: "Close enough." Nazuna: he hums.
 - The full room list is in the layout lock §10.
+
+## DH-046 — Nobody outside can see or hear the Trial (creator, 2026-10-09)
+
+The creator flagged this while reading V19 #10. In the current draft the family watches the early Trial scenarios from outside the boundary, then only fragments ("The Number Stops Helping": "the domain stopped displaying all of them"). Later, "Interception" has "We saw some." / "You saw pieces."
+
+**Creator decision:** take all of it out. **Nobody outside can see or hear anything inside the Trial.** If they had watched, Mau's confession of the 437 deaths in S4 (V20 "Rule Five", "Every Time") loses its emotional weight. The family has to learn it from him for the first time.
+
+**Rewrite scope (pending):**
+- Every "Outside, ..." watching or hearing beat in V19 #5–#21 (S3E56–S3E59).
+- "Interception" (S3E63, "We saw some").
+- "Now Let Us Decide" (S3E64, "Frieren had seen the clearing through the wall").
+- V20 "The Last Two" (S4E02 ch04: Frieren saw a mouth move and his face through the wall; she heard him; Mau heard her voice say his name).
+- DH-021's echo line, "Frieren saw the clearing through the wall".
+- What the outside experiences instead: an opaque boundary and waiting. Ciel feels only the resets (DH-022 unchanged).
+
+**Open:**
+- Is there any exception at the very end, such as Frieren's voice reaching *in* to Mau without anyone seeing out? Or is it zero in both directions?
+- Timing of the rewrite: the creator is near his weekly limit.

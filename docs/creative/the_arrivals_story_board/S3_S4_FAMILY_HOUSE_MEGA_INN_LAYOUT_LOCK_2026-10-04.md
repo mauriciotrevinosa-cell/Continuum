@@ -273,6 +273,16 @@ Creator direction while reading V14. The temporary cluster is a **mock-up of the
   - Qifrey, measured exactly between his students and the east section.
   - Umaru and Suika next to the Witch Hat room, with **Umaru's Door, Mark Two**: a covered landing bridge, eleven steps.
   - Anko and Nazuna on the dark north side, with the high loft.
+  - **Ori and Milim share** the room with the door into the east end, as a Muslin trial run (DH-044). Milim: "Ori has a door. I want a door... Can I live with you?" Ori: "Trial run. If you kick in your sleep, you go back."
+  - **Kessoku (Kita, Nijika, Ryo):** Milim's old room at the end of the east corridor, across from Yuta and Maki and one door down from Bocchi's thick wall. In-world, they were forgotten for three evenings ("We assumed we lived in the music room").
+  - **Mikasa and Eren:** Mikasa's two-exit room has bunk beds, with Eren on the top bunk. No relationship yet (creator).
+  - **Mai** next to Yuta and Maki.
+  - **Momo** at the top of the back stair straight down to the kitchen. **Seiko** beside her, through a thin wall at Seiko's request.
+  - **Okarun** across the landing from Momo; **Turbo Granny** on his windowsill ("a separate address").
+  - **Marin and Wakana** (a couple) above the workshop.
+  - **Kaneki and Aira** past Rem's turn, Aira beside the cellar stair. The last three arrivals (G5) end up together around the turn.
+  - **Downstairs:** Maomao's room beside the medical room, **with Jinshi's bed in it** (she resists for one evening, then draws it herself, as far away as possible, marked *temporary*). **Diablo** gets a real small room beside Rimuru's office. **Senku** sleeps by his workroom.
+  - **Residency rule (creator, 2026-10-09):** everyone from G1–G5, through Rem and Kaneki, lives in the Muslin and has a room on the plan. Eren lives there too. The only ones who don't live there yet are the witches.
   - **Fern and Stark:** side by side with a **dotted wall** (one room, eventually; Fern wants slower). They do a **trial run in the Muslin** now, while walls still move (DH-043).
 - **Growth (DH-043).** Nijika asks the question that matters: "What happens when somebody else comes? What if it's somebody's family?" ("We put them at the turn." / "The turn is taken.")
   - Wakana draws **dotted wings** off the north and west sides. "Not promises. Places."

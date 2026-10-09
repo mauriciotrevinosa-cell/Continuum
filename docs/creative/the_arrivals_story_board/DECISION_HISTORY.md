@@ -618,3 +618,15 @@ The creator flagged this while reading V18 #43.
   - Fern's ledger: *When the house is full: ask again.*
 - **Mau's room with no name** (already in the chapter, sixth evening) now answers Nijika's question. He was still thinking about it the next day.
 - **S4:** the coin summons make the question real. Whether the house grows wings or separate houses gets decided when the real house is built.
+
+## DH-044 — Everyone gets a room on the real-house plan (creator catch, 2026-10-09)
+
+Checking the upstairs diagram, the creator found many residents missing from the V18 #43 plan: Momo, Okarun, Kessoku and others. The omission was in Claude's draft, not in the story.
+
+**Current direction:**
+- **Residency (creator):** everyone from G1–G5, through Rem and Kaneki, lives in the Muslin. Eren lives there too. **Only the witches don't live there yet.** Every resident has a room on the plan.
+- **Milim** wants a door like Ori's and asks to live with her. Ori: "Trial run. In the Muslin." There are now two trial runs that Saturday.
+- **Kessoku** were never drawn, an in-world gag that confirms the omission. They get Milim's old room. Ryo: "We assumed we lived in the music room." Fern: "Nobody lives in the music room."
+- **Eren** has the top bunk in Mikasa's room, written in her hand. Nobody asked him and he didn't argue. **No relationship yet** (creator). His line at the end of the table becomes: "He did not think he was family, whatever the top bunk in Mikasa's room said."
+- **Maomao lets Jinshi live with her**, grudgingly ("a rempujones"): one evening of resistance, then she draws his bed herself, marked *temporary*.
+- The other placements are in the layout lock §10.

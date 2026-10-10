@@ -193,3 +193,34 @@ The creator no longer wants to "approve" things: "we second it and work side by 
   - Frieren **holds hers to the very end**.
   - Kaneki's silence at the petition: depends on his arrival point (a wife and a daughter, if after *:re*).
   - Marin, maybe her late mother ("some").
+
+
+---
+
+## Round 3 — seconded (2026-10-10)
+
+1. **The Bocchi pool, placement open.** She may *get* the pooled coins, but the world is changing, so she decides to wait before spending them. Where it goes is still to be decided, because the slate already has a list.
+2. **Umaru's dilemma (as written in the slate):** she offered her coin for Shoko, Seiko said no (the rolled paper, "you did well, now calm down"), and that dilemma about her brother is born in her. Her temporary room in the queen chapter is for him.
+3. **Devils start small and escalate.** They may kill one, and later it comes back. Slowly (not at once, but over a good while) the house realises devils are not normal: killing one is not the end (Chainsaw Man rules, discovered).
+4. **The dungeon:**
+   - It is **the only dungeon that changes week to week**, and the only one with the System.
+   - Medicine is scarce. Some weeks they come back with zero potions, and some weeks they don't go at all, and that's fine.
+   - **When the world closes:** they go for materials. Then they **partner with a merchant** and open a route to carry their product, which they have to guard because monsters are increasing. The merchant hires warriors and gives them a share of the profits.
+   - This shows that **not every relationship was destroyed**, by the propaganda or by the monsters, but that everyone has to be more careful now.
+5. **Coins are not a turn for every relative.**
+   - Mikasa and Eren may *propose* bringing Armin, and **the house decides not to bring everyone at once**: the world is changing, nobody knows what's coming, and one person may matter more than another right now.
+   - Yuta brings Gojo; Maki brings Yuka. That makes it harder to explain why they don't bring the brother.
+   - **Yuka is the Ten Shadows.** That is what "Mau has the same as Yuka" means: the brother realises she came first because of what she carries for Mau, not because she was loved more.
+6. **Yuka and Mau become siblings** (not romance). Mau spends a lot of time with her, and she gets from him what she didn't get from her own brother, because of what they were put through. **Frieren gets jealous.**
+7. **A gift for Mau** (the creator had forgotten it). The house (Rimuru, Yuta, everyone) makes him **F1 models**: not working cars, which would break everything, but small, windowsill-sized or a little bigger.
+   - **The 1988 McLaren (Senna's):** "I don't know how much you remember, but this is one of the F1 cars of your hoodie's team. Your hoodie is newer, but this one is the best."
+   - **Schumacher's 2004 Ferrari:** "And this one is your other shirt."
+   - Canon: Mau arrived in the **2021 McLaren team hoodie** and owns a **red 2025 Ferrari team shirt** (DH, S1 wardrobe).
+
+## Claude, round 3 (proposals)
+
+- **Who builds the models:** Wakana (a doll artisan, the right precision), Marin (paint and livery), Senku (materials), and Rimuru and Yuta (memory: they're from Japan). **When:** the end of V21, as the house's answer to "purchased": *you bought us coins; we made you these.* Or on Mau's birthday, if it falls inside S4.
+- **Maomao's chocolate revenge** (the creator asked: Frieren only? Mau too? Fern?). Proposal:
+  - Maomao holds two debts. Frieren raised her dose in secret (V16), and **Frieren and Fern** blamed "Maomao's chocolate" for their evening (V18 "Fifteen Minutes"). So the targets are **Frieren and Fern**, and **Mau and Stark** eat from the same batch, "by accident". (Maomao: "I don't do accidents.")
+  - **The twist: it's a placebo.** Maomao *announces* the aphrodisiac afterwards. It was plain chocolate. Four people spend an evening convinced they're drugged, second-guessing every feeling. Her notes: *"Subjects behaved exactly as they already wanted to."*
+  - This keeps S1's rule ("it doesn't make you want things you don't already want") and avoids anyone being drugged without consent.

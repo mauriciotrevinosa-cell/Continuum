@@ -4,7 +4,7 @@
 **Volume:** 22  
 **Season:** 4  
 **Volume title:** **The Board**  
-**Chapter count:** 5
+**Chapter count:** 10
 
 | # | Chapter |
 |---:|---|
@@ -13,3 +13,8 @@
 | 3 | Guests: One (Deer) |
 | 4 | The First Tea |
 | 5 | Not a Precedent |
+| 6 | Late |
+| 7 | Materials |
+| 8 | The Second Tea |
+| 9 | Daphne's Barn |
+| 10 | The Corridor |

@@ -4,7 +4,7 @@
 **Volume:** 21  
 **Season:** 4  
 **Volume title:** **Looked. Quiet.**  
-**Chapter count:** 25
+**Chapter count:** 29
 
 | # | Chapter |
 |---:|---|
@@ -33,3 +33,7 @@
 | 23 | Subjects |
 | 24 | Exactly As They Already Wanted |
 | 25 | Looked. Busy. |
+| 26 | The List |
+| 27 | Two Older Brothers |
+| 28 | What We Make Together |
+| 29 | Your Hoodie's Team |

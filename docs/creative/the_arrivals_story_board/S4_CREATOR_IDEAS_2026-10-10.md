@@ -152,3 +152,44 @@ The creator doesn't want it to be cruel. This is also how the mother is convince
 7. **Jin-Woo.** The dungeon shop already *is* his System, and Mau's wheel is already the infinite-growth character. Two infinite-growth characters in one house is a problem. Proposal: the shadows idea lives in Rimuru's relay network, and Jin-Woo stays a seed for much later, or never comes. Creator decision.
 8. **Mau's own coin.** In V20 Mau holds a coin too. The Goddess's line ("As Mau cannot bring a loved one...") can be what his coin becomes: the dungeon is what his coin buys.
 9. **Coco's mother and the earlier plan:** she arrives as she was, still crystallized, and the cure costs something. The cost is Mau's adaptation and exhaustion. Consistent.
+
+
+---
+
+## Round 2 — decisions, seconded (2026-10-10)
+
+The creator no longer wants to "approve" things: "we second it and work side by side." These are now **seconded** decisions.
+
+1. **The synchronisation table stands as proposed.** It keeps plenty of variation.
+2. **Mau's constructions start as a light version.** For example, his RCT can only close scratches and small cuts, while Yuta's and Shoko's RCT is the finished form. A light version can evolve later, and can combine with other skills (the door, for example).
+3. **The door comes back in S4** with the creator's second-refusal beat.
+4. **Foundation is born in S4, not seeded backwards.** It follows the grammar of Hollow Purple:
+   - While they tell stories, movies and manga for the future house's movie room, **Rimuru tells the story of his life as a builder before he was a slime** (Satoru Mikami, the general contractor).
+   - Ciel: "A temporary skill has appeared. If you give me a month, I can evolve it further."
+   - **Senku's "Years of it" stays right.** Senku thinks like his era, where it took years. Rimuru knows you don't need much: you start, and you keep upgrading, especially when people live around it.
+   - **With Senku's help, the Searchers change jobs.** Instead of looking for people (Arrival House is drying up), they go out for **materials**, and buy what they can't find.
+5. **The ink tree and the queen chapter link is seconded:** the "broken" promise is the tree arriving early.
+6. **The threat order is seconded,** one at a time. Yokai exist in the world but have never been shown.
+7. **Jin-Woo:** the dungeon is roughly from his universe. **He is still fighting his gods (the Monarchs), which is why the Goddess hasn't picked him up yet.** The creator has ideas for when he comes.
+8. **Mau's coin buys the dungeon:** seconded.
+9. **The trial record stays at 19 minutes.** No buffing for the sake of buffing. Mau's line in the Coco's-mother arc uses 19.
+10. **The coins: one per person.** Other Otherworlders exist, so *if* there are 437 coins, the rest are out in the world. Sukuna might hold two, with the Goddess saying something like "entertain me". **This is only a theory in-world.** Nobody is sure there are 437.
+11. **Ram without Roswaal:** seconded.
+12. **The mastermind stays vague.** We know it's some town to the east or west, and other people follow the case. When the story goes at it head-on, it shows a face, and later we learn **the face was a puppet**.
+13. **Yuta and Maki bring Yuka first.** They consider bringing **her brother** too (Tsurugi, *Modulo*), but decide one at a time, so they bring Yuka and tell her about the fights. Later, **the brother feels they preferred Yuka over him**, until he realises that Mau has the same as Yuka *(what "the same" means: confirm with the creator)*, and that Maki and Yuta suffered for not bringing him at the same time.
+
+## Claude's new ideas from round 2 (to second or drop)
+
+- **The Bocchi pool.** Bocchi waits until she can bring her whole family at once, but a coin brings one person. **The house pools coins for her.** The people who have nobody from before give theirs to Bocchi: Ori (created), Milim (everyone she needs is here), Diablo (Rimuru is here). That gives three or four coins, for her mother, father and Futari. Running gag: does Jimihen the dog need his own coin? The scene mirrors "everybody moved one".
+- **Umaru's temporary room** (the queen chapter): it is for **her brother**, before she has decided. She wants the room to exist so that the choice exists.
+- **The first devil:** devils are born from fear, and the first one is small, for example a fear of Otherworlders. As the world's fear narrows onto Mau's city, a devil born from fear of *him* becomes possible later. It would echo Dessa's friend: "the strongest thing in this place".
+- **Dungeon texture:**
+  - Crystals are the shop's currency and the trading good.
+  - Anko registers all loot, and Fern rations the rare potions.
+  - Senku studies crystals as a power source. Pushing it too far meets "repeated failure".
+  - Frieren keeps a ledger: *Mimics found: 3. Mimics opened: 3.*
+- **Coins for the creator to consider** (each needs a loved person):
+  - Mikasa: **Armin**, possibly pooled with Eren.
+  - Frieren **holds hers to the very end**.
+  - Kaneki's silence at the petition: depends on his arrival point (a wife and a daughter, if after *:re*).
+  - Marin, maybe her late mother ("some").

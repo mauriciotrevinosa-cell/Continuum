@@ -41,7 +41,8 @@ Mau has no source world (blank origin; Second Chance is unknown in-world), so sy
 | **Infinity, without the Six Eyes** | Leaks under grief and keeps everything out (Frieren's hand stops a finger's width from him; V20). Uncontrolled. | V20 "How Long" |
 | **Blinks** (involuntary spatial moves) | Happen under fear or need (V14 leaks; V18 Monster Wave: "first one in a month") | §3A; V18 |
 | **The door** (the first invention) | Opens onto the clearing on the morning he woke; the pattern seeks **arrival-state**. Refused once: "It's not before. It's just before you." | §3A, V14 "What It Made" |
-| **The elf route** (controlled trials) | Trial 1: **19 minutes** (V15). Maomao: "Next time, I am there." | §3A |
+| **The elf route** (controlled trials) | Trial 1: **19 minutes** (V15), and that stays the record (no buff for buff's sake). Maomao: "Next time, I am there." | §3A |
+| **Light versions** (seconded rule) | A pattern Mau builds starts as a **light version** (his RCT closes scratches and small cuts; Yuta's and Shoko's is the full form). It evolves later and can combine with other skills (for example the door). | round 2 |
 | **The ghoul eye valve** | The left eye opens black and red under load | V18 #44 |
 | **Hollow Purple, the one-use Sukuna version** | Consumed. Rebuilding may need a Gojo-focused period. | FLOATING_IDEAS |
 | **The Trial** | 437 deaths; Analyze read every scenario, including "people who haven't arrived yet", and "it is building, slowly" | V20 "What Analyze Kept" |
@@ -58,9 +59,9 @@ Mau has no source world (blank origin; Second Chance is unknown in-world), so sy
 |---|---|---|
 | **The Goddess** | Bounded domains (the Trial), Return and Stay, coins, the voice around Ori. Never explains. | V18–V20 |
 | **"The Goddess's protection"** | **Reinterpreted (creator):** a warning that the world is about to evolve. New rule: modernising too far meets "the Goddess's protection: repeated failure". | creator 2026-10-10 |
-| **The coins** | One per stayer; transferable; never expire; "purchased by the one who stood in the Trial". **There are 437, and not all are accounted for** (creator). | V20 "What It Bought" |
+| **The coins** | One per stayer; transferable; never expire; "purchased by the one who stood in the Trial". **In-world theory only:** 437 exist, the rest are with other Otherworlders (Sukuna two? "entertain me"). Nobody is sure. | V20; round 2 |
 | **The petition bound** | A coin concerns "a specific loved person" ("some" can concern the dead). Transfer works. | V20; slate |
-| **Foundation** (Rimuru) | **Not yet in LN prose.** Single use. Ciel evolves it: the dam, the ink tree, the house's foundations. "Builds the board, not the city." | macro-arc source doc; creator 2026-10-10 |
+| **Foundation** (Rimuru) | **Born in S4** (seconded): Rimuru tells his builder life for the movie room, a temporary skill appears, and Ciel evolves it in a month. Single use: the dam, the ink tree, the house's foundations and tunnels. "Builds the board, not the city." | macro-arc source doc; S4 ideas, round 2 |
 | **Contracts** | Magic, on paper. Breaking one is penalised (S2), and Mau never technically breaks one. To evolve them: Rimuru's shadow relay as security. | S2 §6; creator |
 | **The rings** | One and Two (the house); Three is only the witches; Four (Arrival House people) disappears in S4 | DH-026; V20 |
 | **Arrival House** | Intake, terms, guests. **Arrivals are drying up** (the plaza breach, DH-024). | V17–V20 |
@@ -111,9 +112,9 @@ Mau has no source world (blank origin; Second Chance is unknown in-world), so sy
 |---|---|---|---|---|
 | 1 | **The wheel**: two adaptations | V16, V19, V20 | Rules undefined | **Define the rules (§A3)**. The Coco's-mother arc is the first controlled adaptation. |
 | 2 | **The door**: arrival-state | V14 "What It Made" | Refused once | **Creator's S4 beat:** it calls again, and he stays with Frieren. Never a win condition. |
-| 3 | **The missing coins**: 437 total | V20 + creator | New | S4+ mystery: who holds the rest? Sukuna? Check the head-count. |
+| 3 | **The coins: 437?** | V20 + creator | A theory in-world | Rumour and theory, never confirmed. Sukuna might hold two ("entertain me"). |
 | 4 | **Sukuna**: alive, aware | S1–S2; V18 #38 | Offstage | Gojo's rematch; the missing coins |
-| 5 | **The mastermind**: same-source packets, the wrong river bend, the device "came with building material" | V17–V18 (the Pattern Room) | Never resolved | **The strongest candidate for S4's mastermind**, if one is wanted |
+| 5 | **The mastermind**: same-source packets, the wrong river bend, the device "came with building material" | V17–V18 (the Pattern Room) | Stays vague (seconded) | A town to the east or west; others follow the case. When it goes head-on: a face, later revealed to be **a puppet**. |
 | 6 | **The western demand**: "capability assessment" | V17–V18 | Paused ("after this, we'll still say no") | Feeds the exclusion arc |
 | 7 | **The plaza breach**: fear of Mau | DH-024 | In effect (arrivals drying up) | The exclusion arc; Eren proposes closing |
 | 8 | **Chainsaw devils**: planned since before S1, never shown | pre-S1 | Never seen | **The first new threat class.** Born from fear, so fear of Mau's city could spawn one. |

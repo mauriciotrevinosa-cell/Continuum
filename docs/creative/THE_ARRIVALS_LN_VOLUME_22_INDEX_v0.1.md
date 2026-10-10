@@ -4,7 +4,7 @@
 **Volume:** 22  
 **Season:** 4  
 **Volume title:** **The Board**  
-**Chapter count:** 17
+**Chapter count:** 21
 
 | # | Chapter |
 |---:|---|
@@ -25,3 +25,7 @@
 | 15 | The Tree |
 | 16 | Ink |
 | 17 | Repeated Failure |
+| 18 | The Fourth Tea |
+| 19 | Concrete and Rebar |
+| 20 | Timber |
+| 21 | Raising the Frame |

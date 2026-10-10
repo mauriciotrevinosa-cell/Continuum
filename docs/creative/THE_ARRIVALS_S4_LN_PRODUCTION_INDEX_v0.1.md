@@ -17,7 +17,7 @@
 | Volume | Title | Span | Status |
 |---:|---|---|---|
 | 20 | The Ten Days | Day 4 of the Return/Stay window to the morning of Day 11 | **drafted, 27 chapters (S4E01–S4E05)** |
-| 21 | (the month of peace) | about a month: ugly days, healing days, days of pure fun; ends with the witches' contract | planned |
+| 21 | Looked. Quiet. | the first winter month after the window (Day 12 onward): ugly days, healing days, days of pure fun; ends with the witches' new contract | **drafting** (plan: `the_arrivals_story_board/S4_V21_PLAN_2026-10-10.md`) |
 
 ## Standing S4 rules
 - **Nobody named leaves.** Nobody from G1–G5, and nobody in Rings One, Two or Three. Only frightened or complaining Arrival House and Ring Four people Return.

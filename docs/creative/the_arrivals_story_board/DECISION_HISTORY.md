@@ -730,3 +730,17 @@ V21 is drafted: **32 chapters, S4E06–S4E11, Days 12–48, the first winter mon
   - **Daphne** (Gluttony).
 - **The rest at the tea, one a week, the first witch's last.**
 - **Frieren on Satella:** "It isn't less, when you give it to everyone. It's more."
+
+## DH-048 — Ring Four: a remnant now, nobody by V26 (seconded, 2026-10-10)
+
+The creator, reading V21: wasn't Ring Four supposed to leave completely? Checked against canon: the full removal **already happened at the bridge on Day 10** (V20 "The Bridge"). Almost all of Ring Four Returned there, "nearly half of everyone who had ever come over the bridge".
+
+**What stays, and why:**
+- **Valley natives cannot Return**, because they were born here: the merchant and the washing court.
+- **A few otherworlders chose to stay:** the cooper, Lise, the register girl, some Arrival House staff, and **four refuge families with six children** (fixed in V22 "Nokotan", "Raising the Frame" and "The Movie Room", which had drifted toward a crowd).
+
+**Seconded:** it is fine that some stay now. **By V26 nobody from Ring Four is left.**
+- **V23–V25:** the remnant drains as the roads worsen. About one departure per volume, each with a visible cause (fear, the road, family in the river towns). The merchant's visits thin out.
+- **V26 "The Wall Eren Hated":** the closing takes the last of them. Ring Four is gone.
+
+**Writing rule from now on:** count the remnant. Never write "the refuge families" as a crowd. Crowd scenes are the house, the fort, the witches and a handful of others. Let the gap show.

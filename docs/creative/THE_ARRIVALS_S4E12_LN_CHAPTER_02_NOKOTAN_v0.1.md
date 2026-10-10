@@ -50,7 +50,7 @@ Anko looked at her for a long moment. Then she wrote something in her notebook a
 
 It became clear quite quickly that Nokotan did not work the way things worked.
 
-It started with the crackers. The paper bag did not empty. She ate from it continuously, and fed the deer from it continuously, and at one point gave a cracker to every child from the refuge families who had crowded in at the door, which was eleven children, and the bag was exactly as full afterward as before. Senku asked to look inside it. She handed it to him. He looked inside. It was a perfectly ordinary paper bag with about six crackers in it.
+It started with the crackers. The paper bag did not empty. She ate from it continuously, and fed the deer from it continuously, and at one point gave a cracker to every child from the refuge families who had crowded in at the door, which was six children, all there were since the bridge, and the bag was exactly as full afterward as before. Senku asked to look inside it. She handed it to him. He looked inside. It was a perfectly ordinary paper bag with about six crackers in it.
 
 He handed it back. She reached in and took out a cracker. He took the bag again and looked inside. Six crackers.
 

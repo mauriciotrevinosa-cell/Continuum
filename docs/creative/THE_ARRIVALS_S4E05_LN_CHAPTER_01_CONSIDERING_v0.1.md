@@ -82,7 +82,7 @@ Kaneki was quiet for a long time.
 
 Eren waited.
 
-"Or I could stay," said Kaneki, "and ask for him. The petition. One person. Someone you love." He looked at the water. "She said a petition can't override what they want. So if I asked for Touka, and she didn't want to come, she wouldn't. And if she did want to—" He stopped.
+"Or I could stay," said Kaneki, "and ask for her. The petition. One person. Someone you love." He looked at the water. "She said a petition can't override what they want. So if I asked for Touka, and she didn't want to come, she wouldn't. And if she did want to—" He stopped.
 
 "Then she'd come here," said Eren. "Where you are. Where you're not a monster everybody's afraid of. Where you're just a guy who stood against a wall all night so his blood wouldn't hurt anyone."
 

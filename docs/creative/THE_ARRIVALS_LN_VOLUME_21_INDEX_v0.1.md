@@ -4,7 +4,7 @@
 **Volume:** 21  
 **Season:** 4  
 **Volume title:** **Looked. Quiet.**  
-**Chapter count:** 10
+**Chapter count:** 19
 
 | # | Chapter |
 |---:|---|
@@ -18,3 +18,12 @@
 | 8 | Trial Runs |
 | 9 | Top Bunk |
 | 10 | The Roof, Laughing |
+| 11 | A Song in the Snow |
+| 12 | Five Beds, No Walls |
+| 13 | The Watermelon and the Scientist |
+| 14 | Ink, Counted |
+| 15 | Speed Limit |
+| 16 | Night Shift |
+| 17 | Hand Cream |
+| 18 | The Party |
+| 19 | Diablo Does Nothing |

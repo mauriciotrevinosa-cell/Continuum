@@ -74,6 +74,7 @@ The original selector pool contained **42 franchises**. They have been re-checke
 | 41 | My Ribdiculous Reincarnation | CURATED_SELECTOR |
 | 42 | The Unaware Atelier Master | CURATED_SELECTOR |
 | 43 | My Dress-Up Darling | ADDED_POST_SELECTOR |
+| 44 | My Deer Friend Nokotan | ADDED_POST_SELECTOR |
 
 ---
 
@@ -98,19 +99,33 @@ Additional characters can be added during the next character-curation pass witho
 
 ---
 
+## #44 — My Deer Friend Nokotan
+
+**Inclusion status:** added to the franchise pool after the original selector was completed, at the creator's request (2026-10-10), for a single comic arrival in *The Arrivals* S4.
+
+**Why it fits Continuum:** absurdist comedy and slapstick logic. Its rules are deliberately incompatible with every other system in the pool, which is the point of its one appearance.
+
+### Initial seed cast
+
+- Noko Shikanoko (Nokotan)
+
+Additional characters can be added during a later curation pass without changing franchise inclusion.
+
+---
+
 ## Preservation rules
 
 1. Adding a franchise does not require selecting its full cast immediately.
 2. Removing a character from active use does not remove the franchise from this inventory.
 3. New franchises are appended and explicitly marked as post-selector additions until they receive a dedicated curation pass.
 4. This document is creative documentation only. Tests, migrations, fixtures, application seed data, and runtime code must remain franchise-agnostic.
-5. The engine must support a future pool of arbitrary size; **43 is the current creative inventory, not a technical limit.**
+5. The engine must support a future pool of arbitrary size; **44 is the current creative inventory, not a technical limit.**
 
 ---
 
 ## Current count
 
 - Original selector franchises verified: **42 / 42**
-- Post-selector additions: **1**
-- Current Continuum franchise pool: **43**
+- Post-selector additions: **2**
+- Current Continuum franchise pool: **44**
 - Character expansion for My Dress-Up Darling: **pending future review**

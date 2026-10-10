@@ -4,7 +4,7 @@
 **Season:** 4  
 **Branch:** `m3/critical-path`  
 **Volumes:** **20–**  
-**Reader-order chapters:** **46**  
+**Reader-order chapters:** **52**  
 **Started:** 2026-10-08, at the creator's go-ahead ("arráncate... la historia dicta, no comprimas")
 
 ## Source of truth for S4 planning

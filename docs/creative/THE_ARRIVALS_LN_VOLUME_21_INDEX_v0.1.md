@@ -4,7 +4,7 @@
 **Volume:** 21  
 **Season:** 4  
 **Volume title:** **Looked. Quiet.**  
-**Chapter count:** 19
+**Chapter count:** 25
 
 | # | Chapter |
 |---:|---|
@@ -27,3 +27,9 @@
 | 17 | Hand Cream |
 | 18 | The Party |
 | 19 | Diablo Does Nothing |
+| 20 | The Winter Campaign |
+| 21 | Story Night: The Builder |
+| 22 | Operation Sweet Revenge |
+| 23 | Subjects |
+| 24 | Exactly As They Already Wanted |
+| 25 | Looked. Busy. |

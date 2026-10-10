@@ -132,9 +132,9 @@ He sat there a long time.
 
 Then, from no direction, very quietly, a voice spoke.
 
-He knew it. Everyone in the settlement knew it. They had heard it on the bridge on the tenth day, when every stayer found a coin in their palm, and again on the forty-eighth night, saying three words. It was not loud. It was not soft. It came to the workshop and to nowhere else. Only to him.
+He knew it. Everyone in the settlement knew it. They had heard it on the bridge on the tenth day, when every stayer found a coin in their palm, and again on the forty-eighth night, saying four words. It was not loud. It was not soft. It came to the workshop and to nowhere else. Only to him.
 
-Four words.
+Three words.
 
 *Protection. Repeated failure.*
 

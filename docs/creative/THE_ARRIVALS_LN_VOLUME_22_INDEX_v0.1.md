@@ -4,7 +4,7 @@
 **Volume:** 22  
 **Season:** 4  
 **Volume title:** **The Board**  
-**Chapter count:** 24
+**Chapter count:** 28
 
 | # | Chapter |
 |---:|---|
@@ -32,3 +32,7 @@
 | 22 | The Bath |
 | 23 | The Movie Room |
 | 24 | Moving Day, Round Two |
+| 25 | You Are Sure? |
+| 26 | Arrival House |
+| 27 | She'll Hate Us |
+| 28 | The List, Updated |

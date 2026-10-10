@@ -744,3 +744,54 @@ The creator, reading V21: wasn't Ring Four supposed to leave completely? Checked
 - **V26 "The Wall Eren Hated":** the closing takes the last of them. Ring Four is gone.
 
 **Writing rule from now on:** count the remnant. Never write "the refuge families" as a crowd. Crowd scenes are the house, the fort, the witches and a handful of others. Let the gap show.
+
+## DH-049 — Volume 22 "The Board" written: canon it locks (2026-10-10)
+
+V22 is drafted: **28 chapters, S4E12–S4E16, Days 49–103**, from late winter into the first thaw. Where the prose differs from `S4_V22_PLAN_2026-10-10.md`, the prose is canon.
+
+**The world**
+- **Nokotan** (Days 50–57): comedy, a hundred deer, crackers; she leaves through a hole shaped like a deer. Yuta: "Fine. You were right about the deer." Fern: "Not a precedent."
+- **The road:** the merchant is a week late, his cart raked. Anko starts SIGHTINGS. The Searchers' board is turned over: **MATERIAL. WHERE. HOW MUCH. WHO. BACK.** The old side (FOUND) faces the wall.
+- **Foundation** (Day 70, one breath): footings, cellar, tunnels with two exits per section, drains, the weir and millrace, the clinic well, **the hot spring on the north side**, and **the ink tree** (the hundred-year promise "broken" by being kept early; Frieren: "Longer").
+- **"Protection. Repeated failure."** Senku's electric light fails seven ways; the voice speaks only to him. The pinch of dust is kept in a box labelled **NOT YET**. **Fire is allowed** (the lantern holds), and so are mechanical things. Senku's phonograph is "discs in a year".
+- **The house:** Senku's concrete plan is pinned up as **SOMEDAY** ("six years, maybe eight"). Rimuru's no-nail Eastern timber frame is built instead. The cooper makes four thousand oak pegs; Milim sets the ridge beam "gently"; rice cakes are thrown. **Himmel's two vermilion columns** form the gate (Marin). **Seiko's high seat.** **FORT (EXTENSION)** is half again bigger.
+- **The bath** (Day 90): Rimuru sits on the fence in a bucket by Ministry decree. Seven rules (no Milim Beam). There is a family bath with a slate. Sekhmet "lives" there.
+- **The movie room** (Day 96): a magic lantern with an oil lamp, slides checked by Qifrey for stray glyphs, Wakana's moving slides and chromatrope, and Kessoku playing live. Okarun's alien film is canon house culture. **Rimuru's cave slides:** Veldora and "Tempest"; Milim: "He's my friend too."
+- **Moving Day** (Day 100):
+  - Names go in ink; **Rem's stays pencil** ("That's why pencil is fine").
+  - **The room with no name stays unnamed** and holds **Echidna's door**: a lamp, a chair, and a library bigger than the house.
+  - Fern pencils **one square on the west wing**: "For whoever comes."
+  - The witches move into the **north wing** (seven rooms, single storey):
+    - Pride brings **the chair that wobbles**, and Wakana deliberately doesn't fix it.
+    - Sekhmet has a second door to the bath.
+    - Satella has an inner window onto the common room.
+  - **The Muslin becomes the guest house.** The shelf stands in the middle of Mau and Frieren's floor, "temporarily".
+
+**The witches**
+- One tea a week, as a conversation. Each witch gives her name to the one who opened a door for her.
+- **Pride's tea** (Day 75): "You may call me Pride. The name was for someone smaller." / "Okay." She opens her hands. "Seven."
+
+**People**
+- Kaneki tells Eren in the bath at dawn, "One coin" (he needs two; DH-047).
+- Bocchi holds her coin, and Seika tells her that's right: "Practise."
+
+**The first summon: Seika (Days 101–102)**
+- Nijika waited for the house. She tells Fern first. At midnight in the music room, she hears **"You are sure? Seika."** and answers "Yes. I'm sure." The coin vanishes.
+- Kessoku wait on the step of Arrival House overnight, and by dawn nearly forty people are with them.
+- At the eleventh bell, **the bell rings once by itself**, and Seika is in the chair of the second witness room. She arrives three days after Nijika vanished, holding missing-person posters of all four.
+- **Proposed in prose, for the creator to confirm: both sides are asked.** At four in the morning in the dark club, Seika heard **"You are sure? Nijika."** "Obviously I said yes." This fits the petition rule ("a petition can't override what they want"). Every coin summon is a yes from both ends.
+- Register: *Ijichi Seika. Arrived. By coin. The first.* Fern reads "Arrivals, one."
+- **THE LIST:**
+  - **1. Nijika: her sister. First. HERE.**
+  - **2. Rem: her sister. When we're ready.** Ram, set for V23.
+- On the old side of the board, under FOUND: **SEIKA.**
+- **Seika's texture:**
+  - She hates the cold and wears the ugly coat.
+  - She and Seiko recognize each other ("Hm.").
+  - To Umaru's fort: "Accurate" and "It's a terrible fort" ("Let her").
+  - To Mau: "People look at the person they're scared for... don't do that again."
+  - To Kessoku: "That wasn't bad."
+  - At the movie room: "Again. The alien one."
+  - She sleeps on the spare mattress beside Nijika, and Echidna's library is her first refuge.
+
+**Ring Four:** see DH-048. Four refuge families with six children remain, and they drain from V23.

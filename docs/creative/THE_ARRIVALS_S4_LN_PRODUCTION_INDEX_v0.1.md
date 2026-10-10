@@ -4,7 +4,7 @@
 **Season:** 4  
 **Branch:** `m3/critical-path`  
 **Volumes:** **20–**  
-**Reader-order chapters:** **83**  
+**Reader-order chapters:** **87**  
 **Started:** 2026-10-08, at the creator's go-ahead ("arráncate... la historia dicta, no comprimas")
 
 ## Source of truth for S4 planning
@@ -18,7 +18,7 @@
 |---:|---|---|---|
 | 20 | The Ten Days | Day 4 of the Return/Stay window to the morning of Day 11 | **drafted, 27 chapters (S4E01–S4E05)** |
 | 21 | Looked. Quiet. | the first winter month after the window (Day 12 onward): ugly days, healing days, days of pure fun; ends with the witches' new contract | **drafted, 32 chapters (S4E06–S4E11)** (plan: `the_arrivals_story_board/S4_V21_PLAN_2026-10-10.md`) |
-| 22 | The Board | Month 2 (Day 49 onward): Nokotan; the world turns; weekly teas; Foundation; the house; the first summon | **drafting** (plan: `the_arrivals_story_board/S4_V22_PLAN_2026-10-10.md`) |
+| 22 | The Board | Month 2 (Day 49 onward): Nokotan; the world turns; weekly teas; Foundation; the house; the first summon | **drafted, 28 chapters (S4E12–S4E16)** (plan: `the_arrivals_story_board/S4_V22_PLAN_2026-10-10.md`) |
 
 ## Standing S4 rules
 - **Nobody named leaves.** Nobody from G1–G5, and nobody in Rings One, Two or Three. Only frightened or complaining Arrival House and Ring Four people Return.

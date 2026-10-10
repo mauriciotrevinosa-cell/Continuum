@@ -106,11 +106,11 @@ After that it spread.
 
 He did not notice it happening. He noticed it only afterward, the way you notice a path that has worn across a lawn.
 
-The cooper's daughter, who was still waiting for the full assembly to consider her application, started saying it to her father in the yard in the mornings, instead of *good morning*. She did not know what it meant. She had heard it said at the table, through the open door, every morning, in a tone that made people put down their spoons and start eating, and she had concluded, reasonably, that it was what you said when the day was all right.
+The cooper, splitting staves in the yard within earshot of the open door, heard it said at the table every morning, in a tone that made people put down their spoons and start eating. He did not know what it meant. He concluded, reasonably, that it was what you said in this house when the day was all right, and he started saying it to the girl from the river towns who kept the guest register at Arrival House, when she came past in the mornings, instead of *good morning*.
 
-Her father started saying it back.
+She started saying it back.
 
-Then the staff at Arrival House, who heard it from the girl. Then the washing court, who heard it from the staff. By the end of the second week, Mau walked across the plaza in the morning and heard a woman he had never spoken to say to a man he did not know, over a basket of wet sheets, "Looked, quiet?" And the man said, "Looked, quiet," and they went on with the sheets.
+Then the rest of the staff at Arrival House, who heard it from her. Then the washing court, who heard it from the staff. By the end of the second week, Mau walked across the plaza in the morning and heard a woman he had never spoken to say to a man he did not know, over a basket of wet sheets, "Looked, quiet?" And the man said, "Looked, quiet," and they went on with the sheets.
 
 Neither of them had ever heard Ciel's voice. Neither of them knew there was a Ciel. They only knew it was what you said when nothing was wrong.
 
@@ -142,7 +142,7 @@ He lay still in the dark.
 
 Beside him, in her sleep, Frieren's foot found his shin.
 
-*Now when I look,* said Ciel, *thirty people hear the answer. And the cooper's daughter. And a woman at the washing court who has never heard my voice.* Another pause, longer. *I find that I do not count alone anymore. I wanted you to know.*
+*Now when I look,* said Ciel, *thirty people hear the answer. And a cooper from the river towns. And a woman at the washing court who has never heard my voice.* Another pause, longer. *I find that I do not count alone anymore. I wanted you to know.*
 
 "I know," said Mau, very softly, into the dark, so as not to wake anyone.
 

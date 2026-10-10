@@ -72,7 +72,7 @@ He had thought, all through the Trial, that it was for nothing. That was the wor
 
 It had not been for nothing.
 
-It had been for this. For a small warm coin in every hand in the settlement. For Coco's mother, someday, maybe. For Kaneki's friend, whose name nobody knew. For the cooper's daughter. For whoever Maki had written on the paper she kept in her pocket and never fired. For Rem, someday, if *not this time* ever became *this time*. For every person who had chosen to stay, and would someday, if they wanted, be able to bring one person they loved to the place they had chosen.
+It had been for this. For a small warm coin in every hand in the settlement. For Coco's mother, someday, maybe. For whoever Kaneki would someday name, whose name nobody knew. For the cooper's daughter. For whoever Maki had written on the paper she kept in her pocket and never fired. For Rem, someday, if *not this time* ever became *this time*. For every person who had chosen to stay, and would someday, if they wanted, be able to bring one person they loved to the place they had chosen.
 
 He had bought that. With all of it.
 

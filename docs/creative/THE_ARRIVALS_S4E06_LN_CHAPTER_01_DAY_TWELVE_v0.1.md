@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
 **Reading order:** 1  
-**Continuity state:** Day 12 | Arrival House opens and nobody comes | Fern: 'Arrivals: zero' | where the coins go; Mau's has no name waiting | the cooper's daughter applies to the fort | 'Here.' around the table; 'Everyone here.'
+**Continuity state:** Day 12 | Arrival House opens and nobody comes | Fern: 'Arrivals: zero' | where the coins go; Mau's has no name waiting | the cooper asks for work; a form for a daughter who isn't here yet | 'Here.' around the table; 'Everyone here.'
 
 On the twelfth day, the house went back to work, because the house did not know how to do anything else.
 
@@ -88,23 +88,25 @@ He did not know yet that this was going to matter.
 
 The cooper came to the house in the afternoon.
 
-He had stayed. He was not house, and he knew it, and he stood at the front door with his hat in his hands and his daughter half behind him: a thin, sharp-eyed girl of about eleven, who looked at the fort's flag on its broom handle with frank professional interest. He had come to ask whether there was work. Not charity. Work. He had been a cooper in the river towns before the roads went bad. The settlement had barrels, and barrels broke.
+He had stayed. He was not house, and he knew it, and he stood at the front door with his hat in his hands, the way he had stood on the tenth morning to tell Mau so. He had come to ask whether there was work. Not charity. Work. He had been a cooper in the river towns before the roads went bad. The settlement had barrels, and barrels broke.
 
-Fern found him four broken barrels before he had finished explaining, and Senku found him six more. By the time Momo came out of the kitchen with bread for the girl, the cooper had a corner of the yard and a pile of staves and a look on his face that Mau recognized, because he had seen it in the mirror his first month at the old inn. The look of a man who has stopped waiting for someone to tell him to leave.
+Fern found him four broken barrels before he had finished explaining, and Senku found him six more. By the time Momo came out of the kitchen with bread, the cooper had a corner of the yard and a pile of staves and a look on his face that Mau recognized, because he had seen it in the mirror his first month at the old inn. The look of a man who has stopped waiting for someone to tell him to leave.
 
-The girl did not want bread. She wanted to know whether the fort was a real country.
+He took the bread. At the door, on his way back out to the yard, he stopped and looked across the common room at the fort, at the flag on its broom handle and the toll booth and the six cushions in the annex with NEXT in front of them.
 
-Umaru, who had been listening from the toll booth, came out in her sash and told her that it was. It had a constitution with six articles, and a president, who was temporary, and an opposition, who was Agott. And there were six cushions in the annex for whoever came next.
+"My girl would've liked that," he said, to nobody in particular. "Eleven, near enough. If time runs the same there."
 
-"Can I be next?" said the girl.
-
-The common room went quiet.
-
-Umaru looked at her for a long moment. Then at the six cushions. Then back.
+Umaru, who had been listening from the toll booth, came out in her sash.
 
 "Applications," said Umaru, with enormous dignity, "are considered by the full assembly."
 
-The girl nodded seriously, as if this were exactly what she had expected, and went back out to the yard to watch her father split staves.
+The cooper looked at her.
+
+"She isn't here," he said. "Not yet. Maybe not ever. I'm finding out first. Whether it's safe."
+
+"Then the form will be ready," said Umaru, "when she is."
+
+The cooper looked at her a moment longer. Then he nodded, once, the way he had nodded on the tenth morning when he said *it was mine to decide*, and went out to his staves.
 
 From the far end of the fort, Agott said, "We don't even have an application form."
 

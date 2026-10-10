@@ -4,7 +4,7 @@
 **Volume:** 22  
 **Season:** 4  
 **Volume title:** **The Board**  
-**Chapter count:** 10
+**Chapter count:** 17
 
 | # | Chapter |
 |---:|---|
@@ -18,3 +18,10 @@
 | 8 | The Second Tea |
 | 9 | Daphne's Barn |
 | 10 | The Corridor |
+| 11 | Looked. Done. |
+| 12 | The Table Decides |
+| 13 | The Third Tea |
+| 14 | One Breath |
+| 15 | The Tree |
+| 16 | Ink |
+| 17 | Repeated Failure |

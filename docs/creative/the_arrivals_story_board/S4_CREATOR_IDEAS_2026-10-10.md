@@ -224,3 +224,24 @@ The creator no longer wants to "approve" things: "we second it and work side by 
   - Maomao holds two debts. Frieren raised her dose in secret (V16), and **Frieren and Fern** blamed "Maomao's chocolate" for their evening (V18 "Fifteen Minutes"). So the targets are **Frieren and Fern**, and **Mau and Stark** eat from the same batch, "by accident". (Maomao: "I don't do accidents.")
   - **The twist: it's a placebo.** Maomao *announces* the aphrodisiac afterwards. It was plain chocolate. Four people spend an evening convinced they're drugged, second-guessing every feeling. Her notes: *"Subjects behaved exactly as they already wanted to."*
   - This keeps S1's rule ("it doesn't make you want things you don't already want") and avoids anyone being drugged without consent.
+
+
+---
+
+## Round 4 — seconded (2026-10-10)
+
+1. **"The Goddess's protection" is canon.** Claude missed it. V19 "Stillness": **REFUSAL CONDITION: SETTLEMENT PROTECTION WITHDRAWN.** Nobody knew a divine shield existed. V19 "Seven Options": "Protection withdrawn does not mean attack"; Mau: "If I participate, does settlement protection restore?" "Yes." "Upon entry." "The protections returned behind him." The creator reads this, in hindsight, as **a warning about the changes**.
+   - **Claude's proposal for how it plays in S4:** the protection covers the **settlement**, never the roads. When "the world is evolving" arrives, inside stays safe and outside becomes dangerous. **Isolation is literally the shape of her protection.** That is why Eren's proposal to close the city makes sense to everyone, and why it hurts.
+2. **The world, the house, Rimuru analyzing:** all seconded as written in rounds 1–3.
+3. **Contracts → sharing Mau's powers.** The creator: "aquí nace la idea de que puedan compartir los poderes de Mau y así se los t..." (the sentence was cut off; **confirm** the rest). Claude's reading: an evolved contract could let Mau **lend a light version** of a pattern to someone else.
+   - **Guardrails proposed:** light versions only; one person at a time; a cost to Mau; the contract can never be broken (S2). If it is pushed too far, "repeated failure".
+4. **Maomao's chocolate (seconded):**
+   - **The inhibition-lowering effect is real** (her S1 chocolate). **Only the aphrodisiac is the placebo.**
+   - Claude surprises the creator with how it's told: a flashback, Maomao's planning, the whole operation.
+   - Targets: Frieren and Fern (the two debts), with Mau and Stark from the same batch.
+5. **Yuka and Frieren:**
+   - Yuka asks whether Mau is with Frieren. **Not out of feelings:** an elf is watching her with a *I'm going to kill you* face.
+   - Maki: yes, and if she wants to survive she shouldn't do anything. Not even Mahoraga might survive a fight against Frieren.
+   - Possibly, in one scene, **Milim acts as Guardian and stops Frieren.**
+6. **The coin list:** the creator considers it settled (the slate). Done.
+7. **The F1 models are not a birthday present.** **Everyone has understood that Mau gave them something impossible** (the coins), so they give him something he may not even remember. **They make them together** (the whole house).

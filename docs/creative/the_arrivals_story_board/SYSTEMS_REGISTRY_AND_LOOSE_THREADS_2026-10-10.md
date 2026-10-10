@@ -58,7 +58,7 @@ Mau has no source world (blank origin; Second Chance is unknown in-world), so sy
 | System | Canon state | Source |
 |---|---|---|
 | **The Goddess** | Bounded domains (the Trial), Return and Stay, coins, the voice around Ori. Never explains. | V18–V20 |
-| **"The Goddess's protection"** | **Reinterpreted (creator):** a warning that the world is about to evolve. New rule: modernising too far meets "the Goddess's protection: repeated failure". | creator 2026-10-10 |
+| **The Goddess's protection** (canon: V19 "Stillness", SETTLEMENT PROTECTION WITHDRAWN; restored "upon entry") | A divine shield over the **settlement** that nobody knew existed. Read as a warning about the changes. S4 proposal: it covers the settlement, not the roads, so inside is safe and outside dangerous. Modernising too far meets "the Goddess's protection: repeated failure". | V19 #3–#4; creator |
 | **The coins** | One per stayer; transferable; never expire; "purchased by the one who stood in the Trial". **In-world theory only:** 437 exist, the rest are with other Otherworlders (Sukuna two? "entertain me"). Nobody is sure. | V20; round 2 |
 | **The petition bound** | A coin concerns "a specific loved person" ("some" can concern the dead). Transfer works. | V20; slate |
 | **Foundation** (Rimuru) | **Born in S4** (seconded): Rimuru tells his builder life for the movie room, a temporary skill appears, and Ciel evolves it in a month. Single use: the dam, the ink tree, the house's foundations and tunnels. "Builds the board, not the city." | macro-arc source doc; S4 ideas, round 2 |
@@ -118,7 +118,7 @@ Mau has no source world (blank origin; Second Chance is unknown in-world), so sy
 | 6 | **The western demand**: "capability assessment" | V17–V18 | Paused ("after this, we'll still say no") | Feeds the exclusion arc |
 | 7 | **The plaza breach**: fear of Mau | DH-024 | In effect (arrivals drying up) | The exclusion arc; Eren proposes closing |
 | 8 | **Chainsaw devils**: planned since before S1, never shown | pre-S1 | Never seen | **The first new threat class.** Born from fear, so fear of Mau's city could spawn one. |
-| 9 | **"The Goddess's protection"** | earlier | Reinterpreted | A warning of "the world is evolving" |
+| 9 | **The Goddess's protection** | V19 "Stillness" (withdrawn, then restored) | Canon | Its shape (settlement, not roads) becomes the exclusion arc |
 | 10 | **Foundation** | planning only | Not in prose | Seed it, then use it (dam, tree, foundations and tunnels) |
 | 11 | **The ink budget and the ink tree** | V16 | Ink finite; tree at 9–10 leaves | Grown by Foundation; the hundred-year promise is "broken" by being kept early |
 | 12 | **Infinity leaks and the Six-Eyes-like overload** | V18, V20 | Uncontrolled | **Gojo teaches control; he recognizes the overload** (highly likely) |

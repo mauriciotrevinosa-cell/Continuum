@@ -20,11 +20,12 @@
 | **V23** | Month 3 | *What His Coin Bought* | **The dungeon:** Mau's coin; "as he cannot bring a loved one". The shop, scarce potions, crystals, loot. Contracts and Rimuru's shadow relay as security. **The queen chapter** (the debt is the broken tree promise). The queen's decrees change rooms; Umaru's temporary room. **Ram** (Rem at 100%; her horn helped). **The first devil:** small, and killed. |
 | **V24** | Month 4 | *Teachers* | **Gojo** (nerfed; "I want my rematch"; "So you stole all of mine"; Milim excited, Mau "we'll see"; he recognizes the overload: "mine come with a filter"). **Shoko** (Seiko's coin, given to Gojo). **Yuka** (the ring and the blink; "is Mau with Frieren?"; Maki's warning; Milim stops Frieren; siblings; Frieren jealous). Tsurugi considered, not brought. **The devil comes back**: devils aren't normal. **Titans** appear, Rimuru analyzes, **Eren can age**, Mikasa. |
 | **V25** | Month 5 | *Crystal* | **Coco's mother:** the first controlled adaptation, 8 turns, a skill in Rimuru, "now who is cheating on who". **Byakuya.** **Jiji** (sealed). The **merchant route**: warriors hired, profits shared, not every bridge burned. **The mastermind shows a face** (later revealed as a puppet). Pressure builds, and **Eren proposes closing the city.** |
-| **V26** | Month 6 | *The Wall Eren Hated* | **The closing:** politics plus monsters. **Frieren's demons**, the first intelligent threat (language as a weapon). **Touka** (Kaneki's coin): the last summon before the city closes. **The door calls Mau again:** his whole body says go, and he stays beside Frieren, holds on, and reminds her of his promise. **The season closes** with an S5 breather-opening setup. |
+| **V26** | Month 6 | *The Wall Eren Hated* | **The closing:** politics plus monsters. **Frieren's demons**, the first intelligent threat (language as a weapon). **The door calls Mau again:** his whole body says go, and he stays beside Frieren, holds on, and reminds her of his promise. **The season closes** with an S5 breather-opening setup. |
 
 ## Carried to S5 (not dropped)
 - Umaru's brother. She wants the place *ready and safe*; the house is ready, the world isn't.
 - Bocchi's family (the pool; she holds).
+- **Kaneki's family:** his wife Touka **and his daughter Ichika** (creator, 2026-10-10). **He needs two coins**, so he holds his until a second one exists. A donor later, Bocchi-pool style.
 - Armin; Tsurugi; Heiter, Eisen and Luomen; Kusuri's person.
 - The 437-coins theory and Sukuna (two coins? "entertain me").
 - Jin-Woo, still fighting his gods.
@@ -35,5 +36,5 @@
 - Subaru (conditional).
 
 ## Open questions for the creator
-1. **Kaneki and Touka:** is there a daughter (Ichika, if Kaneki arrived after *:re*)? It changes what Kaneki carries.
+1. ~~Kaneki and Touka: a daughter?~~ **Answered:** yes, Ichika. Kaneki needs a second coin, so he waits (moved to S5).
 2. **The S4 finale beat:** is the door scene the emotional climax, or does the season end on the city closing?

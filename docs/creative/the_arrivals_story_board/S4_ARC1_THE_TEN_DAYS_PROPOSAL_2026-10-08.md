@@ -74,7 +74,7 @@ Folded-in notes (see the early-direction doc): the "sometimes I died" of V19 bec
 - **Petitions. DECISION.** These are the best source of *new life* for the peace volume:
   - Coco's whispered name (her mother).
   - Rem's question about the dead. Rem's answer may be "not this time", and she stays anyway; that is the "realizes she has joined" stage completed.
-  - Kaneki's silence (possibly Hide).
+  - Kaneki's silence (his wife, Touka; was "possibly Hide").
   - Kusuri's "if they refuse".
   - Maki's "unfired thing". Proposal: it was always her own petition request, written and never handed in.
   - **Petitions that succeed bring new arrivals into the peace volume.**
@@ -150,7 +150,7 @@ Proposed contents (a menu, not an order):
 ## V19 threads: Claude's calls (delegated)
 - **Coco: her mother.** The petition works, but her mother arrives *as she was*, still petrified. Coco chose Stay over Return-before-the-tragedy, and the petition brings her mother without curing her. **The cure becomes Greed's library,** which ties Coco's oldest wound to the witches' finale. Hope, not a promise.
 - **Rem: the dead.** The Goddess answers "not this time". Rem keeps her coin. Late in the peace volume she gives it to Ori, unasked. That completes her stage: you only give a coin away in a place you have decided is yours.
-- **Kaneki: Hide.** Family, and strategic too (an investigator's mind for Anko's evidence room). Hide arrives, Kaneki's silence breaks, and the two of them stand against a wall again, laughing this time.
+- **Kaneki: Hide.** *(Superseded 2026-10-10: his wife, Touka.)* Family, and strategic too (an investigator's mind for Anko's evidence room). Hide arrives, Kaneki's silence breaks, and the two of them stand against a wall again, laughing this time.
 - **Kusuri: the person who might refuse.** The petition goes in, and the arrival is **not shown in the peace volume**. The answer is pending; the coin is "in use". It is an open thread, and her fear of refusal stays live without being resolved by fiat. *Creator note: the canon has said Rentarou has not arrived. If Kusuri's person is him, that is a creator decision.*
 - **Maki's "unfired thing":** her own petition, written and never handed in. She hands it in during the peace volume. **DECISION, creator:** who it names.
 
@@ -183,7 +183,7 @@ Each is chosen because it answers something the story has already shown it needs
 ### V19-thread calls, revised for "zero arrivals in the first month"
 - **Coco** keeps her coin. She knows whose name she would choose, and she is afraid it would bring her mother *as she was*. She starts reading in Greed's library at the end of the volume. The library is her reason to wait.
 - **Rem** gets "not this time" for the dead. Late in the volume she gives her coin to Ori, unasked. A transfer, not a spend. Her stage completes.
-- **Kaneki** holds his coin. He tells one person (Eren, against the wall) the name, Hide, and nobody else.
+- **Kaneki** holds his coin. He tells one person (Eren, on the bridge) one name, and nobody else. *(Creator, 2026-10-10: the name is his wife, **Touka**, not Hide.)*
 - **Kusuri** holds hers. Her fear that the person will refuse stays live.
 - **Maki** writes her petition and keeps it in her pocket, unfired. It is still unfired at the end of the volume.
 - **Yuta** keeps his coin in his sword case and says nothing. The white-haired signal stays a signal.
@@ -200,7 +200,7 @@ Drafted at the creator's go-ahead. Where the prose differs from the proposal abo
 - **Seeds carried into Volume 21:**
   - the witches are "growing tired of coming" and want to talk about the contract;
   - Coco will wait on her coin "until I find out", with Qifrey's "places nobody's ever thought to look", which points to Greed's library;
-  - Kaneki told only Eren the name Hide;
+  - Kaneki told only Eren the name of his wife, Touka (was Hide; creator change 2026-10-10);
   - Rimuru and Yuta share the far-end possibility;
   - Ciel's daily looks;
   - Analyze is building;

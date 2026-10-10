@@ -130,7 +130,7 @@ Mau has no source world (blank origin; Second Chance is unknown in-world), so sy
 | 18 | **The witches' names and contract** | V18 + creator | Pending | V21 finale |
 | 19 | **Eren's lifespan; Mikasa** | AoT canon | Bunk beds, no relationship | Titans arrive, Rimuru analyzes, he can age |
 | 20 | **Rem's stage; Ram** | V18 | "Realizes she has joined" | Ram's arrival; no Roswaal; Rem at 100% |
-| 21 | **Kusuri's person**; **Rentarou** (never arrived) | V20; S2 | Pending | Creator decision |
+| 21 | **Kusuri's person**; **Rentarou** (never arrived); **Kaneki's wife, Touka** (told only to Eren, V20) | V20; S2 | Pending | Touka is in the S4 plan; the others are the creator's call |
 | 22 | **Richeh**, still a guest | V15 | Bed drawn, unlabelled | A small payoff someday |
 | 23 | **Dessa's friend's words** | V18 #42 | Unresolved on purpose | Echo in S4 (exclusion arc; "the strongest thing in this place") |
 | 24 | **The Walker** (kaiju foreshadow) | FLOATING_IDEAS | After S3 | Possible S4 threat; the Himmel tie-in is not approved |

@@ -132,6 +132,6 @@ After V21 (zero arrivals in month one), arrivals come **one at a time**, interle
 - Armin (proposed; the house waits).
 - Tsurugi, Yuka's brother (later; feels unchosen).
 - Heiter, Eisen, Luomen (pushed back).
-- Kusuri's person; Kaneki's Hide.
+- Kusuri's person; **Kaneki's wife, Touka** (creator, 2026-10-10, replacing Hide).
 - Jin-Woo (still fighting his gods).
 - Subaru (conditional seed).

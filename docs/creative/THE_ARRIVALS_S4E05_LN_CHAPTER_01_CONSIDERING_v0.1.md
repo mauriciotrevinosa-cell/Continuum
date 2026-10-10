@@ -78,17 +78,17 @@ He went at dusk on the ninth day, and stood in the middle, where the river was l
 
 Kaneki was quiet for a long time.
 
-"There's someone," he said finally. "In my world. My best friend. Hide." He said the name the way you set down something fragile. "I don't know if he's alive. In my terms. The Goddess didn't say. *Personal.* I could go back and find out."
+"There's someone," he said finally. "In my world. My wife. Touka." He said the name the way you set down something fragile. "I don't know what she thinks happened to me. In my terms, the Goddess didn't say. *Personal.* I could go back and find out."
 
 Eren waited.
 
-"Or I could stay," said Kaneki, "and ask for him. The petition. One person. Someone you love." He looked at the water. "She said a petition can't override what they want. So if I asked for Hide, and he didn't want to come, he wouldn't. And if he did want to—" He stopped.
+"Or I could stay," said Kaneki, "and ask for him. The petition. One person. Someone you love." He looked at the water. "She said a petition can't override what they want. So if I asked for Touka, and she didn't want to come, she wouldn't. And if she did want to—" He stopped.
 
-"Then he'd come here," said Eren. "Where you are. Where you're not a monster everybody's afraid of. Where you're just a guy who stood against a wall all night so his blood wouldn't hurt anyone."
+"Then she'd come here," said Eren. "Where you are. Where you're not a monster everybody's afraid of. Where you're just a guy who stood against a wall all night so his blood wouldn't hurt anyone."
 
 Kaneki did not answer. But after a while he took his hands off the rail, and turned away from the water, and walked back toward the settlement. Eren walked beside him.
 
-"Don't tell anyone," said Kaneki. "His name."
+"Don't tell anyone," said Kaneki. "Her name."
 
 "I won't."
 

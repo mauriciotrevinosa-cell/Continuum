@@ -4,7 +4,7 @@
 **Volume:** 21  
 **Season:** 4  
 **Volume title:** **Looked. Quiet.**  
-**Chapter count:** 29
+**Chapter count:** 32
 
 | # | Chapter |
 |---:|---|
@@ -37,3 +37,6 @@
 | 27 | Two Older Brothers |
 | 28 | What We Make Together |
 | 29 | Your Hoodie's Team |
+| 30 | A Knock on Their Door |
+| 31 | Seven at the Table |
+| 32 | Envy |

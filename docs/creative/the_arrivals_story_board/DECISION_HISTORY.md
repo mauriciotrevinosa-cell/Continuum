@@ -675,3 +675,58 @@ The creator flagged this while reading V19 #10. In the current draft the family 
   - "Now Let Us Decide": Frieren had not seen anything.
   - V20 "Rule Five": Senku had nothing to count, so he **timed the white wall: five hours and forty-one minutes**. This replaces the visible-loop minimum of 112.
   - V20 "The Last Two": nobody saw. Frieren works out the false one's last words from his face, and learns that her voice got through.
+
+## DH-047 — Volume 21 "Looked. Quiet." written: canon it locks (2026-10-10)
+
+V21 is drafted: **32 chapters, S4E06–S4E11, Days 12–48, the first winter month, with zero arrivals.** Where the prose differs from `S4_V21_PLAN_2026-10-10.md`, the prose is canon.
+
+**House texture**
+- **"Looked, quiet."** Ciel's rule-four report, said aloud at breakfast through Rimuru. Senku keeps a QUIET tally on the board. The phrase spread to the settlement as "all's well" (it began with the cooper). Ciel: "I do not count alone anymore."
+- **"Here."** A ragged roll-call at dinner since Day 12. Fern's ledger: *Everyone here.*
+- **Frieren's cold foot at the reset hour:** "One. Still here."
+- **Ugly days are allowed; hiding them is not** (Maomao). Maomao keeps a private notebook of them and watches the gaps grow.
+
+**People**
+- **Fern's coin month:** *Coins: held. Until Day 40. Then the table.*
+- **THE LIST (Day 40):**
+  - First entry: **"1. Nijika: her sister."**
+  - **Seiko promises her coin to Yuta's teacher, for the doctor.** She stops Umaru with a rolled paper ("You did well. Now calm down.").
+  - Armin is on the list, "not this winter".
+  - Coco is not ready; Maki has written hers ("not yet"); Kaneki stays silent; Senku is "undecided".
+- **Umaru's coin** is in the toll-booth drawer marked **LATER**: "Two older brothers... ready and safe."
+- **Codenames:** AGENT TURBO, AGENT TEACUP (Rem), AGENT TINK (Momo); Seiko is SEIKO. **Fern's stays pending** (AGENT BREAD ROLL tied 14–14; AGENT HANDSPAN rejected).
+- **The cooper's daughter is still in his world.** Umaru made a fort application form for her, for when she comes.
+- **Kaneki:** "It isn't one person." (Nazuna and Anko know he would need two coins.)
+- **Trial runs:**
+  - Ori and Milim: Milim floats in her sleep; the red ribbon.
+  - Fern and Stark: Stark was never asleep. Wakana: "Pencil... but I'll leave the wall dotted."
+- **Maomao's revenge, settled:**
+  - Real half-dose inhibition chocolate, and a placebo aphrodisiac.
+  - Frieren and Fern: "Until next time."
+  - Jinshi is "assistant (temporary)", and the word on his cot now reads "(renewed)". Senku was a voluntary co-conspirator.
+- **The F1 models:** the 1988 McLaren and Schumacher's 2004 Ferrari, every name underneath and "C." They sit on the east windowsill on Eren's stands, with Ori's stone between them.
+
+**World**
+- **The edge of the Goddess's protection** has been seen. Something huge from the north hills turned forty paces from the last cottage. **It does not cover the road** (Anko's night note). Himmel watches the hills.
+- **Foundation is born** (story night, Day 37): Rimuru's builder past; "A temporary skill has appeared. Give me a month." On Day 48, Ciel reports "Busy. Eighteen days."
+- **Milim:** "Are we still doing the city thing?" Rimuru: **"No. A home."**
+- **Hand cream** (cocoa butter) for the washing court. Dessa's friend still sings badly, and uses it.
+- **Kessoku's song is named "Looked, Quiet"** by a refuge child. Bocchi's first line: *Every morning, someone looks.*
+- **Coco's lattice** (an inverted crystal binding), drawn eighty-one times in water: "For WHEN there's ink."
+- **The coda:** the Goddess, to the whole settlement, once: **"The world is evolving."**
+
+**The witches (Ring Three)**
+- **Diablo knocked first.** The quiet one chose "There", and the others look to her.
+- **Seven at the table.** Contract terms:
+  1. Weekly tea, one hour, all seven: a conversation, not an interrogation.
+  2. Echidna's books in the room with no name, when the house is built.
+  3. Daphne runs the fields, stores and barn, with Senku and Fern.
+  4. They may live in the settlement and the house, not the fort; visits by pass.
+  5. No spells, no curses, ever.
+- **Signed with sins:** Pride, Greed, Gluttony, Wrath, Lust, Sloth, Envy. **The first witch signed "Pride".** *(Claude's call, for the creator to confirm. The canon "first witch" refers to the book-keeper as "she", so she is not Greed. Of the remaining sins, Pride fits her dignity and precision best.)*
+- **Names given:**
+  - **Satella** (Envy): "I love you" / "You don't... I can give you a family's love... so they already envy us." She laughs for the first time. Umaru rewrote her pass to ALWAYS.
+  - **Echidna** (Greed): to Coco, "You are looking for the undoing. Come to the cabin."
+  - **Daphne** (Gluttony).
+- **The rest at the tea, one a week, the first witch's last.**
+- **Frieren on Satella:** "It isn't less, when you give it to everyone. It's more."

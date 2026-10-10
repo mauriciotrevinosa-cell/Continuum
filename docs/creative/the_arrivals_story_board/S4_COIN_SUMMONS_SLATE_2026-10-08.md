@@ -110,3 +110,28 @@
 ## 4. Open questions for the creator
 
 None right now. Jiji's question is sealed (S-01).
+
+---
+
+## Arrival order, Claude's proposal for the creator's green light (2026-10-10)
+
+After V21 (zero arrivals in month one), arrivals come **one at a time**, interleaved with the world changing.
+1. **Nokotan**: an accident, not a coin. V22 opener, comedy.
+2. **Seika** (Nijika's coin): the **first summon**. Nijika ignores the risks; Bocchi waits.
+3. **Ram** (Rem's coin): a second sister, a mirror of Seika. Rem goes back to 100% herself; no Roswaal; the horn helped by someone with CE.
+4. **Gojo** (Yuta's coin): nerfed, Infinity only. He finds out about Sukuna ("I want my rematch"); "So you stole all of mine."
+5. **Shoko** (Seiko's coin, given to Gojo): from after his death. Scarce cigarettes.
+6. **Yuka** (Maki's coin): from the end of *Modulo*, with Yuta's ring. Mau's blink to the ring; Ten Shadows; she becomes Mau's sister; Frieren jealous.
+7. **Coco's mother** (Coco's coin, after Greed's library): crystallized. **The first controlled adaptation** (8 turns), and a skill in Rimuru.
+8. **Byakuya** (Senku's coin): helps Senku, nothing revolves around him.
+9. **Jiji**: the coin owner and the rule are **sealed (S-01)**. Cold, then soup, then nothing.
+
+**Not scheduled (held, pending, or later):**
+- Umaru's brother (her dilemma).
+- Bocchi's family (the pool; she holds).
+- Armin (proposed; the house waits).
+- Tsurugi, Yuka's brother (later; feels unchosen).
+- Heiter, Eisen, Luomen (pushed back).
+- Kusuri's person; Kaneki's Hide.
+- Jin-Woo (still fighting his gods).
+- Subaru (conditional seed).

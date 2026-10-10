@@ -254,3 +254,17 @@ The creator no longer wants to "approve" things: "we second it and work side by 
 2. **Long-horizon seed:** this is where the idea is born that **someday Mau could give the elf pattern to everyone**, "like Umaru once said". *(Claude could not find the exact Umaru line in S3 or S4. Find it, or write it into V21/V22.)*
    - Claude's note: this is endgame-scale. It answers Frieren outliving everyone. Keep it far off, earned, and costly.
 3. **The V21 plan** is in `S4_V21_PLAN_2026-10-10.md`, awaiting the creator's go-ahead.
+
+---
+
+## Round 6 — seconded (2026-10-10)
+
+1. **Don't write the whole season.** Write only what is known and well defined, so the story isn't rushed. Start with V21. The door as the **season finale** is liked, but the creator doesn't want to close it off: if reading gives him ideas, we add "sazón", as in S3, holding nothing back.
+2. **New beat:** someone asks whether they're still going with the city thing, and someone answers: "**No. A home.**" (Placement: V21 "Story Night: The Builder", after Rimuru's story. Milim asks, Rimuru answers: the one who built a nation chooses a home.)
+3. **Titans stay a mystery.** The house **assumes the Goddess brought them from Eren's world.**
+4. **Demons:**
+   - Random demons start appearing.
+   - Intelligent ones like **Aura** can appear and become a Sukuna-level enemy.
+   - **Aura, after killing herself** (Frieren's Scale of Obedience), remembers what Frieren told her: she might win by numbers, but not in mana. **So she builds an army.**
+5. **The mastermind:** right now each side believes someone talked, and both are responding. It stays open whether one side is being manipulated, whether both are in it together, or something else.
+6. **Source checks:** the Vault holds the full manga (*Modulo* included). It can be **read** for verification. It is read-only: never modify, extract or upload.

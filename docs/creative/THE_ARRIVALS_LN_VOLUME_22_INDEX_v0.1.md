@@ -4,7 +4,7 @@
 **Volume:** 22  
 **Season:** 4  
 **Volume title:** **The Board**  
-**Chapter count:** 21
+**Chapter count:** 24
 
 | # | Chapter |
 |---:|---|
@@ -29,3 +29,6 @@
 | 19 | Concrete and Rebar |
 | 20 | Timber |
 | 21 | Raising the Frame |
+| 22 | The Bath |
+| 23 | The Movie Room |
+| 24 | Moving Day, Round Two |

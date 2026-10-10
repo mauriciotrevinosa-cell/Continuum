@@ -245,3 +245,12 @@ The creator no longer wants to "approve" things: "we second it and work side by 
    - Possibly, in one scene, **Milim acts as Guardian and stops Frieren.**
 6. **The coin list:** the creator considers it settled (the slate). Done.
 7. **The F1 models are not a birthday present.** **Everyone has understood that Mau gave them something impossible** (the coins), so they give him something he may not even remember. **They make them together** (the whole house).
+
+---
+
+## Round 5 — seconded (2026-10-10)
+
+1. **Sharing Mau's powers through contracts:** confirmed. An evolved contract lets Mau **lend a light version** of a pattern to someone. Guardrails: light versions only; one person at a time; a cost to Mau; the contract can never be broken; pushed too far, "repeated failure".
+2. **Long-horizon seed:** this is where the idea is born that **someday Mau could give the elf pattern to everyone**, "like Umaru once said". *(Claude could not find the exact Umaru line in S3 or S4. Find it, or write it into V21/V22.)*
+   - Claude's note: this is endgame-scale. It answers Frieren outliving everyone. Keep it far off, earned, and costly.
+3. **The V21 plan** is in `S4_V21_PLAN_2026-10-10.md`, awaiting the creator's go-ahead.

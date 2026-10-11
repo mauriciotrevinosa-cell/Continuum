@@ -4,7 +4,7 @@
 **Volume:** 24  
 **Season:** 4  
 **Volume title:** **Teachers**  
-**Chapter count:** 6
+**Chapter count:** 16
 
 | # | Chapter |
 |---:|---|
@@ -14,3 +14,13 @@
 | 4 | The Same Stitches |
 | 5 | Domain Clash |
 | 6 | Mine Come With a Filter |
+| 7 | Only Work |
+| 8 | The Decree |
+| 9 | The Dress |
+| 10 | First Try |
+| 11 | Abduction (Probable) |
+| 12 | Stark Picks |
+| 13 | Sixty Years |
+| 14 | The Birches |
+| 15 | Not a Date |
+| 16 | The Fifth Flower |

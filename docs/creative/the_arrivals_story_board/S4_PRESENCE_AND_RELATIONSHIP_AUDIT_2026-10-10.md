@@ -12,9 +12,9 @@ The creator asked for this before V24: what is missing, who has been abandoned o
 |---|---|---|---|
 | **Vamola** | 0 / 0 / 0 / 0 (**zero mentions in S4**) | none | **She was missing from the house plan (DH-045), so the room list never prompted her.** **FIXED 2026-10-10 (DH-054):** she rooms with Momo ("I always assumed she stayed stuck with Momo"), and 11 S4 chapters were retrofitted. |
 | **Mai** | 0 / 0 / 0 / 0 (two passing mentions) | none in S4 | Overshadowed by Maki and Yuta's arcs. She sits beside them on the plan and in no scene. **Fix in V24:** Yuka is Maki's coin, so Mai is the obvious second voice in it. |
-| **Hakari, Karane, Shizuka, Nano** (the five) | Hakari 0/2/0/0; Shizuka and Nano 0/1/0/0 | V21 #12 ("Five Beds, No Walls"), **70 chapters ago** | After their kotatsu chapter, the plot ran through other groups. Only Kusuri (hand cream) kept turning up. **Fix in V24.** Open question: their coins (see §4). |
-| **Turbo Granny** | 0 / 2 / 0 / 0 | V21 #15, 67 ago | The Dandadan cluster thinned out as Okarun and Momo got couple beats. |
-| **Nazuna** | 0 / 1 / 0 / 0 | V21 #16 ("Night Shift"), 66 ago | Anko kept appearing (her SIGHTINGS notebook and the night rounds). Nazuna did not. |
+| **Hakari, Karane, Shizuka, Nano** (the five) | Hakari 0/2/0/0; Shizuka and Nano 0/1/0/0 | V21 #14 ("Five Beds, No Walls"), **70 chapters ago** | After their kotatsu chapter, the plot ran through other groups. Only Kusuri (hand cream) kept turning up. **Fix in V24.** Open question: their coins (see §4). |
+| **Turbo Granny** | 0 / 2 / 0 / 0 | V21 #17, 67 ago | The Dandadan cluster thinned out as Okarun and Momo got couple beats. |
+| **Nazuna** | 0 / 1 / 0 / 0 | V21 #18 ("Night Shift"), 66 ago | Anko kept appearing (her SIGHTINGS notebook and the night rounds). Nazuna did not. |
 | **Aira** | 0 / 1 / 1 / 0 | V22 #7, 43 ago | Shown only as clay and plaster labour. |
 | **Diablo** | 0 / 4 / 1 / 0 (present but silent) | V22 #15, 35 ago | Used for door-opening gags. |
 | **Witch Hat (Coco, Agott, Tetia, Richeh, Qifrey)** | Coco 1/5/6/1; the others 0 in V23 | V22 #16 ("Ink"), about 34 ago | V23 belonged to the gate, the queen and Ram. **This is risky: V25 is Coco's mother.** V24 must bring Coco's study forward (the undoing, the cabin, the lattice). |

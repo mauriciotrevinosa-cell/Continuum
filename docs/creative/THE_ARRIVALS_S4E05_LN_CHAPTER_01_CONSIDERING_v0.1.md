@@ -150,6 +150,8 @@ Aira had said *ask me in a week*, on the second day of the window. On the evenin
 
 Vamola was never asked, and never said. On the first morning of the window she had looked at Momo across the kitchen, and Momo had looked back, and that had been the whole conversation. She went into the terms room on the sixth day with Momo beside her, came out after about a minute, and asked what was for lunch.
 
+Mai did not go to her terms at all. On the seventh day, Maki stopped her on the stairs and asked whether she had. "No," said Mai. "Why not?" said Maki. "You're here," said Mai, and went past her up the stairs, and that was the end of it.
+
 Rem had asked, in front of everyone, whether a petition could concern the dead. The Goddess had said *some*. Rem went for her terms on the eighth day with Ori as her witness, and came out very quiet. That evening she sat in the fort between Ori and Coco and did not say anything. When Ori asked, gently, she said only: "Not this time." Then she poured the tea. She did not cry. She was staying. She had decided that a long time ago, on a night with a toll sign and a cup on a hook, without deciding anything at all.
 
 The cooper from the river towns came to the house on the tenth morning and asked for Mau. He stood at the door with his hat in his hands.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 10 — The Roof, Laughing
+## Chapter 11 — The Roof, Laughing
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 10  
+**Reading order:** 11  
 **Continuity state:** Night of Day 26, snow | a postcard | Yuta's Gojo and the rice cakes; Rimuru's Veldora and the flashback | Mau laughs on the roof for the first time | his hands warm with Yuta's cursed-energy film, unchosen; Ciel: not from the seal | rule five: 'It's warm. That's all it did.' | roof once a week now: 'That's because of the laugh.'
 
 *When: The night of Day 26, the second night of snow. The ugly days were rarer now, though not gone. After tonight, the roof was once a week, through everything that follows.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 29 — Your Hoodie's Team
+## Chapter 31 — Your Hoodie's Team
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 29  
+**Reading order:** 31  
 **Continuity state:** Day 45 | the whole house, and something under a cloth | 'You bought us something impossible. So we made you something.' | the red and white car (his hoodie's team, the best one ever) and the red one ('your other shirt') | 'I don't remember. But I know it's fast.' | names on the undersides; 'C.' | the windowsill: two cars and Ori's stone; the wheel keeps spinning
 
 *When: Day 45, the end of the sixth week.*

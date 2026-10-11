@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 9 — Top Bunk
+## Chapter 10 — Top Bunk
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 9  
+**Reading order:** 10  
 **Continuity state:** Night of Day 25, first snow | Mikasa's view | Eren's boots point out; she turns them in | he counts on his fingers | 'Some people get to say someday'; Armin, maybe | Mikasa knows what she remembers and does not know his years here; nobody has looked | 'Mikasa—' / 'Nothing. Goodnight.' | morning: the boots point in
 
 *When: The night of Day 25, the first snow, in the same week as Jinshi's cot and the trial runs. Mikasa and Eren had shared the bunks since the move.*

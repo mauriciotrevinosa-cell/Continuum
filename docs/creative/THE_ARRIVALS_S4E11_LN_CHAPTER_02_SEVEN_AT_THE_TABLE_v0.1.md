@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 31 — Seven at the Table
+## Chapter 33 — Seven at the Table
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 31  
+**Reading order:** 33  
 **Continuity state:** Day 47 | seven witches at the agreed bell | Umaru's passes; the quiet one's old card: 'today' crossed out, ALWAYS | the woman in black: her books in the room with no name | the one who does not like hunger: the fields, stores and barn | the rest: live here, share the days; weekly tea, all seven, 'a conversation, not an interrogation... you're going to be family' | five terms, no spells or curses | signed with sins: Pride, Greed, Gluttony, Wrath, Lust, Sloth, Envy
 
 *When: Day 47, the end of the month after the window.*

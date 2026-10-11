@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 30 — A Knock on Their Door
+## Chapter 32 — A Knock on Their Door
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 30  
+**Reading order:** 32  
 **Continuity state:** Day 46 | Diablo walks to the forest cabin alone | the first witch opens; Mau's question: here, or should he come to you? | Diablo sees all seven for the first time | the others look to the quiet one; she says 'There.' | 'We will come. All of us.' | 'There have always been seven. We have only ever been shown two.'
 
 *When: Day 46, the day after the cars.*

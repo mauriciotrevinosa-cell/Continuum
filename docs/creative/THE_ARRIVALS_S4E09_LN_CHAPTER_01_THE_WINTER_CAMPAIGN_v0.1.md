@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 20 — The Winter Campaign
+## Chapter 22 — The Winter Campaign
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 20  
+**Reading order:** 22  
 **Continuity state:** Day 36 | the fort declares war on the yard; 31 to 12 | the pack builds its walls in eleven minutes; the Milim Wall, 'Gently' | Senku's catapult, plus or minus a cow | they lose magnificently; Diablo returns every snowball; Mikasa down Eren's collar | Frieren and Fern, two hundred snowballs | Seiko: 'Dinner.' | 'Nobody's frightened'
 
 *When: Day 36, the same week as Diablo's day off and the hand cream. The yard had been collecting snow, and grievances, since the first snowfall eleven days earlier.*

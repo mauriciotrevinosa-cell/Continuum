@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 11 — A Song in the Snow
+## Chapter 12 — A Song in the Snow
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 11  
+**Reading order:** 12  
 **Continuity state:** Day 27 | Kessoku rehearse in the snow; Ryo: you can't hide in the reverb | refuge children watch; Bocchi freezes; Kita: three notes | the three notes become the start of the song; eleven times | the girl with the bean names it: 'Looked, Quiet' | Bocchi's first line: 'Every morning, someone looks' | Nijika and the live house
 
 *When: Day 27, two days into the snow. Kessoku had been rehearsing every afternoon that week, while the fort argued codenames, Mau went to the washing court and the roof nights began. The song was built in the same days as everything else.*

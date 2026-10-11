@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 12 — Five Beds, No Walls
+## Chapter 14 — Five Beds, No Walls
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 12  
+**Reading order:** 14  
 **Continuity state:** Day 28, the coldest | Nano's schedule; Project K | Senku's kotatsu: hot stones, not charcoal | five under one table; Karane: 'I didn't think we'd get to do it again' | Shizuka: 'Five beds. No walls.' | the queue down the corridor; Project K (2): the fort, the common room, the east window (Frieren has cold feet)
 
 *When: Day 28, the coldest day so far, in the same week as the song in the snow. The kotatsu queue that began today ran for the rest of the winter.*
@@ -94,7 +94,7 @@ They looked at her.
 
 Nobody said anything.
 
-Under the quilt, in the dark, Hakari's foot found Karane's and pressed against it.
+Under the quilt, in the dark, Hakari's foot found Karane's and pressed against it. It stayed there long after the moment that needed it had passed. Karane did not move hers away.
 
 "It's not over," said Hakari.
 

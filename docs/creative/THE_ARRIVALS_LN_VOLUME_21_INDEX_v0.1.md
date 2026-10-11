@@ -4,7 +4,7 @@
 **Volume:** 21  
 **Season:** 4  
 **Volume title:** **Looked. Quiet.**  
-**Chapter count:** 32
+**Chapter count:** 34
 
 | # | Chapter |
 |---:|---|
@@ -12,31 +12,33 @@
 | 2 | Ugly Days |
 | 3 | Looked. Quiet. |
 | 4 | The Washing Court Sings Badly |
-| 5 | Has Anyone Decided? |
-| 6 | Agent (Pending) |
-| 7 | Temporary |
-| 8 | Trial Runs |
-| 9 | Top Bunk |
-| 10 | The Roof, Laughing |
-| 11 | A Song in the Snow |
-| 12 | Five Beds, No Walls |
-| 13 | The Watermelon and the Scientist |
-| 14 | Ink, Counted |
-| 15 | Speed Limit |
-| 16 | Night Shift |
-| 17 | Hand Cream |
-| 18 | The Party |
-| 19 | Diablo Does Nothing |
-| 20 | The Winter Campaign |
-| 21 | Story Night: The Builder |
-| 22 | Operation Sweet Revenge |
-| 23 | Subjects |
-| 24 | Exactly As They Already Wanted |
-| 25 | Looked. Busy. |
-| 26 | The List |
-| 27 | Two Older Brothers |
-| 28 | What We Make Together |
-| 29 | Your Hoodie's Team |
-| 30 | A Knock on Their Door |
-| 31 | Seven at the Table |
-| 32 | Envy |
+| 5 | Construction |
+| 6 | Has Anyone Decided? |
+| 7 | Agent (Pending) |
+| 8 | Temporary |
+| 9 | Trial Runs |
+| 10 | Top Bunk |
+| 11 | The Roof, Laughing |
+| 12 | A Song in the Snow |
+| 13 | A Hand That Can Be Found |
+| 14 | Five Beds, No Walls |
+| 15 | The Watermelon and the Scientist |
+| 16 | Ink, Counted |
+| 17 | Speed Limit |
+| 18 | Night Shift |
+| 19 | Hand Cream |
+| 20 | The Party |
+| 21 | Diablo Does Nothing |
+| 22 | The Winter Campaign |
+| 23 | Story Night: The Builder |
+| 24 | Operation Sweet Revenge |
+| 25 | Subjects |
+| 26 | Exactly As They Already Wanted |
+| 27 | Looked. Busy. |
+| 28 | The List |
+| 29 | Two Older Brothers |
+| 30 | What We Make Together |
+| 31 | Your Hoodie's Team |
+| 32 | A Knock on Their Door |
+| 33 | Seven at the Table |
+| 34 | Envy |

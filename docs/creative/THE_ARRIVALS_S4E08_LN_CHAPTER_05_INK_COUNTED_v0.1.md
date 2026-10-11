@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 14 — Ink, Counted
+## Chapter 16 — Ink, Counted
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 14  
+**Reading order:** 16  
 **Continuity state:** Day 30 | Agott counts: one full bottle left; two winters, maybe three | Coco asks for one drop to test an inverted crystal-binding lattice; Qifrey: no to the ink, not the shape | Agott: draw it in water | eighty-one times; the last ten right | the ink tree: 'Ninety-nine. And some months.' | 'For WHEN there's ink'
 
 *When: Day 30. While Senku ground lenses and the kotatsu queue went down the corridor, Coco began drawing her lattice in water on the atelier floor. She drew it eighty-one times over the days that follow.*

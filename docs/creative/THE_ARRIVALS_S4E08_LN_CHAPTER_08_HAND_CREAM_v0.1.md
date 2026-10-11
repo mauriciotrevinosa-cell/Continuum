@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 17 — Hand Cream
+## Chapter 19 — Hand Cream
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 17  
+**Reading order:** 19  
 **Continuity state:** Day 33 | three sacks of cocoa; Maomao: 'Hand cream' | Maomao, Senku and Kusuri agree too much: cocoa butter cream, forty pots, two and a half sacks left | Senku: 'Ten billion percent hand cream' (he knows) | 'Two debts. And whoever's sitting next to them.' | Day 34: a pot by each trough; her knuckles shine
 
 *When: Days 33 and 34, the fourth week. The cocoa came the day after the night shift found the tracks, in the same week as the sled slope. Maomao's revenge, three weeks old by now, needed the cocoa. So, it turned out, did the washing court.*

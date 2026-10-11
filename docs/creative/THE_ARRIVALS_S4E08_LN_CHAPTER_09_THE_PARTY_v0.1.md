@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 18 — The Party
+## Chapter 20 — The Party
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 18  
+**Reading order:** 20  
 **Continuity state:** Day 34 | Himmel's quest: the old inn's roof leak; six grimoires on the top shelf | 'We were four': Heiter's wine, Eisen's one word, Himmel's posing | the roof fixed; 'a strategic descent' | Frieren makes room on the bench between her and Himmel | Himmel watches the northern hills | 'I want to remember both'
 
 *When: Day 34, the day the hand cream went out to the troughs. While the washing court tried it, Himmel took a party to the old inn.*

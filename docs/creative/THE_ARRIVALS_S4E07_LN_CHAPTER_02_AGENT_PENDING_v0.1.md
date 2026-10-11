@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 6 — Agent (Pending)
+## Chapter 7 — Agent (Pending)
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 6  
+**Reading order:** 7  
 **Continuity state:** Day 20 | the fort's first codename session of the winter | AGENT TURBO (not DEATH); AGENT TEACUP for Rem, unanimous; AGENT TINK for Momo; Seiko is codenamed SEIKO | AGENT BREAD ROLL ties 14-14 (Ryo: NAP) | Fern's card stays pending; a burnt corner: AGEN
 
 *When: Day 20, the second week. While Mau's ugly days were thinning and the coins sat in pockets, the fort held codename sessions behind its curtain most afternoons, for the rest of the month.*

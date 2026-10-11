@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 24 — Exactly As They Already Wanted
+## Chapter 26 — Exactly As They Already Wanted
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 24  
+**Reading order:** 26  
 **Continuity state:** Day 39 | four people who didn't sleep | Maomao's correction: no aphrodisiac, ever; 'I don't need to' | 'Subjects behaved exactly as they already wanted to' | debts settled | Fern moves her chair four inches toward him | Frieren and Maomao shake hands: 'Until next time' | AGENT HANDSPAN rejected; still pending
 
 *When: Day 39, the morning after.*

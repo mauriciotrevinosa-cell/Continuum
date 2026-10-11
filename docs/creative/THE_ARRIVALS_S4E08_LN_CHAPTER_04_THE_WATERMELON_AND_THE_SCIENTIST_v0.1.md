@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 13 — The Watermelon and the Scientist
+## Chapter 15 — The Watermelon and the Scientist
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 13  
+**Reading order:** 15  
 **Continuity state:** Day 29 | Suika breaks her glasses; the watermelon helmet | Senku grinds a new lens all day | 'Has Senku decided?'; Chrome has someone; Gen would hate the cold | 'Senku's dad made Suika's village': Byakuya; 'some' | she sees a snowflake's six arms | 'Ten billion percent irrelevant'; he doesn't put the coin away
 
 *When: Day 29, the end of the third week. The same days as the song, the kotatsu queue and the coin month. Senku's coin was still undecided.*

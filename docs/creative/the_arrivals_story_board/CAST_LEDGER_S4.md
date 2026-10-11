@@ -26,8 +26,8 @@
 | **Marin and Wakana** | Couple. **Stalled in S4:** they only make things. | none in S4 | **Dating Day (Marin starts it)** | Marin: "since we got here we only work." |
 | **Maomao and Jinshi** | Reluctant. *Temporary*, in ink. | V22 "Moving Day" | Dating Day (reluctantly) | Slow by design, but it needs a step. |
 | **Eren and Mikasa** | **Not a couple yet** (creator). Bunk beds. | V23 (she laughed at dinner; the blades) | **V24: titans, "Eren can age", the turn** | He never spoke because his life was limited. That reason disappears. |
-| **Anko and Nazuna** | **Not a couple** (DH-055). Old friends and roommates. They tried a decade ago. | Nazuna V21 #16 | Presence; the titan night | Nazuna loves **Ko** (not here). Anko may like women: a cross-story yuri is open. |
-| **The five** | Household family. **No "click" here** (DH-055). | V21 #12 | V24 presence, future arc | Hakari and Karane, and Nano and Shizuka, are inter-girl threads to explore. Their coins and Rentarou are an open question. Pinned: brought in S1. |
+| **Anko and Nazuna** | **Not a couple** (DH-055). Old friends and roommates. They tried a decade ago. | Nazuna V21 #18 | Presence; the titan night | Nazuna loves **Ko** (not here). Anko may like women: a cross-story yuri is open. |
+| **The five** | Household family. **No "click" here** (DH-055). | V21 #14 | V24 presence, future arc | Hakari and Karane, and Nano and Shizuka, are inter-girl threads to explore. Their coins and Rentarou are an open question. Pinned: brought in S1. |
 | **Rem and Ram** | Sisters. Rem is 100% again. | V23 E20 | Ongoing | Ram's appointment is once a week (Frieren). Nothing of Roswaal. |
 | **Seika and Nijika** | Sisters. | V23 "Pallets" | Ongoing | STARRY (2). Seika and Ram are "the two older sisters". |
 | **Himmel and Frieren** | He loves her without demanding anything. | V22 "The Bath" (the fence story) | Presence | The columns at the gate. |
@@ -94,7 +94,7 @@
 - **Qifrey.** Room between his students and the east section. Checks slides for glyphs. Holds Coco's coin. **⚠**
 - **Agott, Tetia, Richeh.** Witch Hat room (Agott's alcove and curtain; Richeh's bed). **⚠ quiet in V23.**
 - **Hakari, Karane, Shizuka, Nano, Kusuri** ("the five"). One room with five beds, no walls; the kotatsu.
-  - **⚠ absent since V21 #12** (Kusuri less so: hand cream, chemistry with Maomao and Senku).
+  - **⚠ absent since V21 #14** (Kusuri less so: hand cream, chemistry with Maomao and Senku).
   - DH-055: no click, inter-girl threads, the coins question. Pin: brought in S1.
 - **Mai.** Construction (sync about 40%; one bullet a day, and it costs her). Alive here, though in Maki's lived life she died. **She may know**, but it stays untouched until their arc; Yuta stays out of it (DH-057). Room beside Yuta and Maki; hovers at the edge of the pack. **⚠ nearly absent from all of S4.** Her natural moment is V24, with Yuka.
 - **Rem.** Room at the turn, **name in pencil**. Agent TEACUP. 100% again; quips. Coin: **spent (Ram)**.
@@ -107,7 +107,7 @@
 - **Aira.** Clay and plaster; Momo's best friend; "Not interested" (then sleds). **⚠**
 - **Vamola.** In the fort, at Momo's elbow. Eats first, notices things, strong, likes the gate ration bricks. Room with Momo. **Restored 2026-10-10.**
 - **Turbo Granny.** On Okarun's sill, "barely acceptable". **⚠**
-- **Nazuna.** Loft over Anko's bed. Vampire; sleeps by day; flies. Loves Ko (not here). **⚠ absent since V21 #16.**
+- **Nazuna.** Loft over Anko's bed. Vampire; sleeps by day; flies. Loves Ko (not here). **⚠ absent since V21 #18.**
 - **Jinshi.** Arrival House key every morning; the register girl and staff. *Temporary.*
 - **Diablo.** Small room by Rimuru's office. Kufufufu. **V24: asks to stop being Rimuru's assistant and become everyone's** (DH-060): "If you betray Rimuru-sama, or make him cry, I will not hesitate to kill you." Helps Milim as Guardian.
 - **Eren.** Top bunk; exits before rooms; walks the lime route. Not yet with Mikasa. Coin: Armin proposed; the house waits.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 28 — What We Make Together
+## Chapter 30 — What We Make Together
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 28  
+**Reading order:** 30  
 **Continuity state:** Days 40-44 | Rimuru: 'He bought us the whole world, and he kept nothing' | the hoodie and the shirt are from a racing sport | Frieren keeps him busy for three days | Ciel makes time to sharpen Rimuru's memory | everyone makes a piece: Wakana's bodies, Senku's wheels, Marin's red, Coco's numbers, Diablo's polish, Kaneki's steering wheels, Eren's stands, Yuta's yellow helmet | names on the undersides; 'C.'
 
 *When: Days 40 to 44. This began on the night of the List and ran underneath the next four days, the same days as Umaru's toll booth, while Frieren kept Mau busy.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 8 — Trial Runs
+## Chapter 9 — Trial Runs
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 8  
+**Reading order:** 9  
 **Continuity state:** Day 24 | Wakana needs to know about the walls | Ori: Milim doesn't kick, she floats; the red ribbon, learned from Frieren | Fern: 'The trial is proceeding' | Mau sees Fern move her bed a handspan across the chalk line | 'Pencil. Still pencil.' / 'But I'll leave the wall dotted.'
 
 *When: Day 24, the third week. The trial runs had been going on every night since the autumn, behind the walls, while everything in the chapters before this happened by day.*

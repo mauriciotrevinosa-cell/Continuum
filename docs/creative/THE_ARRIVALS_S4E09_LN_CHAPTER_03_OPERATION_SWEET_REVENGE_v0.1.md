@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 22 — Operation Sweet Revenge
+## Chapter 24 — Operation Sweet Revenge
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 22  
+**Reading order:** 24  
 **Continuity state:** Day 38 and the three weeks before | four chocolates on a plate | the notebook: two debts; the cocoa (Jinshi); the cover (hand cream; Senku voluntary, Kusuri reluctant); the recipe, half the storm dose, no aphrodisiac; the seating (the Ministry, in crayon) | Mau eats first; all four
 
 *When: Day 38, and the three weeks before it. This ran underneath everything since the seventeenth day: the notebook, the cocoa, the hand cream, the seating plan. All of it was prepared in the same weeks as the codenames, the snow, the song and the war.*

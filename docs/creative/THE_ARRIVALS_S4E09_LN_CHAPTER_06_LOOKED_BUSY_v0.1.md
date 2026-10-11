@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 25 — Looked. Busy.
+## Chapter 27 — Looked. Busy.
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 25  
+**Reading order:** 27  
 **Continuity state:** Day 39 | Ciel adds 'busy' and won't explain | the house speculates; Rimuru keeps her secret | Frieren asks Ciel directly: not about him, 'for once' | Fern: 'Tomorrow is Day Forty' | at the hour: 'It is going well.'
 
 *When: Day 39, the same day. While four people at breakfast tried not to look at each other, Ciel added a word.*

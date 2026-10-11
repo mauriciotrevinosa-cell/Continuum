@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 15 — Speed Limit
+## Chapter 17 — Speed Limit
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 15  
+**Reading order:** 17  
 **Continuity state:** Day 31 | the slope behind the washing court; trays and a queue | Okarun's sled; Momo: 'Absolutely not' | Fern's speed limit: the speed of the fastest child | the Fastest Child (the girl with the bean) wins; Okarun hits a root, Momo catches him | hands under the snow | Aira: 'Not interested', then goes again
 
 *When: Day 31, the fourth week. From today the sled slope ran every afternoon, in the same days as Coco's water lattices, the kotatsu, the washing court mornings and the roof once a week.*

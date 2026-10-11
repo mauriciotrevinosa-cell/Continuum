@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 27 — Two Older Brothers
+## Chapter 29 — Two Older Brothers
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 27  
+**Reading order:** 29  
 **Continuity state:** Night of Day 41 | the toll booth shutter down | twenty-one places for one coin | Taihei: she was someone else there, and he gave up so much | Mau: 'He's your family. And I'm your family now... two older brothers... when Frieren wants a date with me' | 'Okay. Two. But not yet': ready and safe | the drawer marked LATER | Frieren heard
 
 *When: The night of Day 41, the day after the List. While the house was still talking about who goes first, Umaru moved one coin twenty-one times.*

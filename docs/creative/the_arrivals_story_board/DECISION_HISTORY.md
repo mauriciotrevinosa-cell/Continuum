@@ -1142,3 +1142,30 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
 6. Things that come back (the devil, titans, Eren can age) close V24 or open V25, as the story decides.
 
 The coins follow the house's rule of one at a time, with time between: Gojo, then Yuka, then Shoko.
+
+## DH-064 — Breathers between arrivals; Yuka's bond comes after Shoko (creator, 2026-10-11)
+
+- **Yuka arrives before the catastrophe**: the ring blink, "Mau? Mau?", the shadow teaching, the dog.
+- **Her bond with Mau grows after Shoko.**
+  - She sees in Mau what she never had with her brother, and sticks to him like glue.
+  - She asks whether Mau is with the elf. Maki's warning; Milim stops Frieren.
+  - This lets the **three new relationships (Gojo, Shoko and Yuka) settle, take root and live with the rest.**
+- **Breathers.** Gojo, Yuka, Shoko and Coco's mother are four important arrivals. **Squeezed together ("here's a character, here's another"), the magic of cinema is lost.**
+  - Give each arrival room, with slice-of-life breathers between them.
+  - **Coco's mother (V25) comes after real breathing room**, never right on the heels of V24. Never compress (DH-053): if that means V24 or V25 run longer, they run longer.
+
+## DH-065 — Two chapters inserted into V21, and two seeds (2026-10-11)
+
+The creator invited changes to chapters he has already read ("no sientas que porque ya lo leí no lo puedes tocar").
+
+- **New V21 #5, "Construction"** (S4E06 ch05, the night of Day 18). Picks up Mai and Mau's construction thread from V18 "The Night Between".
+  - Mai sets down her morning bullet: "So it exists." She asks what his costs. He doesn't know. "Then find out. Count it." "Everyone thinks the technique is the bullet. It's the counting."
+  - Two shaking hands on the long table, her little finger against his. **The bullet goes in his inner pocket, beside the coin** (warm coin, cold bullet). Maki watches from the stairs.
+  - Mau starts a cost log: *Day 18. Cup. Hands: shook 3 hours. Helped: Mai.*
+- **New V21 #13, "A Hand That Can Be Found"** (S4E08 ch02, the night of Day 27 into Day 28). Bocchi and Kita, *visibly* girlfriends (cast ledger flag).
+  - Bocchi's shaking comes after the everyone-looking. "You're my girlfriend. So it's more allowed." "You were amazing", said properly (Mau's advice).
+  - In the morning they hold hands across the common room, and under the table Frieren finds Mau's.
+- **Seeds.**
+  - V20 "Considering": Mai never went to her terms. "You're here."
+  - V21 "Five Beds, No Walls": Hakari's foot stays against Karane's, and Karane doesn't move hers away (DH-055).
+- **Renumbering:** V21 old #5–#11 are now #6–#12, and old #12–#32 are now #14–#34. S4E08's files ch02–ch09 became ch03–ch10. V21 now has 34 chapters, and S4 has 111 reader-order chapters. Older DH entries keep the old V21 numbers.

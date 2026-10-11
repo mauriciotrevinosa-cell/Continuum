@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 23 — Subjects
+## Chapter 25 — Subjects
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 23  
+**Reading order:** 25  
 **Continuity state:** Night of Day 38 | eleven minutes | Stark: 'You moved your bed'; he was never asleep | Mau: 'You raised the dose' | the bracelet, forty times a day | Frieren: 'I don't want to wait a hundred years' | 'I'm older than you' / she kisses him to stop him | Maomao: 'that batch also contained an aphrodisiac' | four chairs move; 'I'm monitoring you'
 
 *When: The night of Day 38, the same evening.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 19 — Diablo Does Nothing
+## Chapter 21 — Diablo Does Nothing
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 19  
+**Reading order:** 21  
 **Continuity state:** Day 35 | Rimuru orders Diablo a day off; Umaru's card: NO EXCEPTIONS | Ciel counts: four minutes and eleven seconds | the dust, the grimoires, the cups, the cushion; the house spotless by dusk | 'the most difficult day of my existence' | Kufufufu; the card kept all winter
 
 *When: Day 35, the fifth week. The same week as the hand cream, the old inn's roof, the sled slope and the tracks in the north field. Everything that week went on around a demon who was not allowed to do anything.*

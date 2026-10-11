@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 32 — Envy
+## Chapter 34 — Envy
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 32  
+**Reading order:** 34  
 **Continuity state:** Day 47 to dawn of Day 48 | Echidna and Coco: 'You are looking for the undoing. Come to the cabin.' | the quiet one follows Mau; Frieren lets it happen | 'I love you' / 'You don't... I can give you a family's love... so they already envy us, don't they?' | she laughs for the first time | 'Satella' | Echidna, Daphne named; the rest at the tea, one a week, the first witch's last | Frieren: 'It isn't less, when you give it to everyone. It's more.' | Ciel: 'Busy. Eighteen days.' | to everyone: 'The world is evolving.' | looked, quiet; everyone ate
 
 *When: Day 47 into the dawn of Day 48, the same night as the contract.*

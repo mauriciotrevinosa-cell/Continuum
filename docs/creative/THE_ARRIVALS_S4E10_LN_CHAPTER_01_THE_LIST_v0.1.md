@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 26 — The List
+## Chapter 28 — The List
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 26  
+**Reading order:** 28  
 **Continuity state:** Day 40 | the table | Fern's agenda: what we can hold, who first, everything else | Anko: the protection covers the settlement, not the road | one at a time | Yuta: his teacher, and a doctor | Umaru offers her coin; Seiko's rolled paper: 'You did well. Now calm down.'; 'my pain-in-the-neck granddaughter'; Momo's hug | Ram; Coco not ready; Maki 'written, not yet'; Kaneki silent; Senku undecided; Armin, not this winter | Nijika: first | THE LIST: 1. Nijika: her sister
 
 *When: Day 40, the end of the coin month Fern declared on the nineteenth day.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 16 — Night Shift
+## Chapter 18 — Night Shift
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 16  
+**Reading order:** 18  
 **Continuity state:** Night of Day 32 | Nazuna, Anko and Kaneki awake on purpose | Kaneki's coffee like a funeral | walking the edge: huge tracks from the north turn forty paces from the last cottage | Anko: the Goddess's protection, seen; it does not cover the road | Kaneki: 'It isn't one person.' / 'So you'd need two.' | two cups on the rack
 
 *When: The night of Day 32. While the house slept after sledding, Anko, Nazuna and Kaneki were keeping the night shift, as they had all month.*

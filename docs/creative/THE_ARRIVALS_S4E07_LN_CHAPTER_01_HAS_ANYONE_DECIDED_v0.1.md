@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 5 — Has Anyone Decided?
+## Chapter 6 — Has Anyone Decided?
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 5  
+**Reading order:** 6  
 **Continuity state:** Day 19 | Hakari asks at breakfast | Fern: nobody spends this month; 'Coins: held. Until Day 40. Then the table.' | Ori has no before; Coco's crystal book; Maki's folded paper; Kusuri and Maomao | Rem says her sister's name: Ram | Nijika decided on the first night and tells no one | the cooper: 'That's cheating.'
 
 *When: Day 19, the start of the second week. The ugly days, the washing court mornings and "looked, quiet" were all still going on. From today, so was the coin month.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 21 — Story Night: The Builder
+## Chapter 23 — Story Night: The Builder
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 21  
+**Reading order:** 23  
 **Continuity state:** Day 37 | Marin wants movies for the movie room | Rimuru tells his life before the slime: a general contractor, thirty-seven; the knife; he pushed them out of the way | building the ground first; stages; Senku's 'years' | Ciel: 'A temporary skill has appeared... Give me a month.' | Milim: 'Are we still doing the city thing?' / Rimuru: 'No. A home.' | 'Thirty days. I have already started.'
 
 *When: Day 37, the same week as the snow war. While everyone was busy with the war, Maomao's cocoa was quietly becoming something else.*

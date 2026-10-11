@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 21
-## Chapter 7 — Temporary
+## Chapter 8 — Temporary
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 21  
-**Reading order:** 7  
+**Reading order:** 8  
 **Continuity state:** Days 21-24 | Jinshi's cot and the word 'temporary' | the winter clinic; Maomao's notebook of ugly days, watching the gaps | Jinshi alphabetizes the poisons; re-sorted by lethality, his labels kept | 'Revenge' underlined twice; three sacks of cocoa; 'Assistant: J. (temporary)' | '(renewed)'
 
 *When: Days 21 to 24, the second and third weeks. The same days as the fort's codenames and the trial runs in the next chapter. Maomao's notebook was showing gaps by now, and her revenge had already begun, quietly, three weeks before it would land.*

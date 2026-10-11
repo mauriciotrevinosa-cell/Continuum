@@ -34,7 +34,7 @@ Rimuru looked at him across the bread.
 
 "She's asking why," he said.
 
-Mau looked down the table. At Fern with the ledger. At Momo coming out of the kitchen. At Maki with her hand near her pocket, and Yuta beside her, and Coco, and Umaru, and the whole loud breakfast of them, every one of whom had spent the last two weeks watching him over their cups and trying not to look as if they were.
+Mau looked down the table. At Fern with the ledger. At Momo coming out of the kitchen. At Maki with her hand near her pocket, and Yuta beside her, and Mai at the end of the bench, who had made her bullet that morning anyway, and Nazuna, asleep upright against Anko, and Coco, and Umaru, and the whole loud breakfast of them, every one of whom had spent the last two weeks watching him over their cups and trying not to look as if they were.
 
 "Because they've been checking," he said. "All of them. Every morning. They look at me to see if I'm all right, and they try to do it so I won't notice, and I notice, and then they notice I noticed." He shrugged. "If she tells them, they can stop doing that. Or at least they can stop pretending they're not."
 

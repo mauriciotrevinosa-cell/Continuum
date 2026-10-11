@@ -37,7 +37,7 @@ Steady and well served: Mau, Frieren, Fern, Rimuru, Umaru, Senku, Milim, Yuta, M
 | **Okarun and Momo** | **Moving subtly** | Hands under the snow; the steaming glasses. Vamola is now part of the picture. |
 | **Maomao and Jinshi** | **Slow, nearly stuck** | *Temporary*, in ink. Needs one real step in V24. |
 | **Marin and Wakana** | **Stuck** | A couple on paper. In S4 they only make things (the crown, the wall, the slides). **Needs a couple scene.** |
-| **Anko and Nazuna** | **Stuck, and Nazuna is absent** | Needs a night scene. Titans at night would be a natural fit. |
+| **Anko and Nazuna** | **Not a couple** (creator, DH-055) | Old friends and roommates. They tried, a decade before, but Nazuna loves Ko, who hasn't been brought yet. Anko may like women, so she is open to a cross-story yuri later. Nazuna has been absent and needs presence. |
 | **Kaneki and Eren** | Quiet | Their friendship holds through silence. Kaneki needs a beat. Seed only: Mau's warm coin "to give". **Do not resolve (S5).** |
 | **Rem and Ram, Rem and Mau** | **Moving** (V23) | Rem is at 100%. Ram and Seika are the two older sisters. |
 | **Umaru (two brothers)** | **Moving** | The room "for someone". |

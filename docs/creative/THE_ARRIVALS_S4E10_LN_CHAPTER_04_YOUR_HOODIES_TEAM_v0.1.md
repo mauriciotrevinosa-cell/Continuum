@@ -118,7 +118,7 @@ He turned the red one over.
 
 The underside was covered in names.
 
-Pencil. Every inch of the bare wood, round and round, in a spiral, in thirty different hands. Large and small. Neat and terrible. He saw *Wakana*, carved more than written. He saw *Marin*, with a heart. He saw *Senku*, in small square capitals, and *Suika*, very large. He saw *Umaru (PRESIDENT)* and *Agott (under protest)*. He saw *Bocchi*, so small he had to tilt the car to read it. He saw *Milim*, pressed so hard into the wood it had gone through the varnish. He saw *Eren*, plain, and *Mikasa* beside it. He saw *Kaneki*. He saw *Diablo*, in beautiful flowing script. He saw *Seiko*, with a flourish, and next to it, in Coco's careful hand, a sentence that began *Turbo Granny says* and then became extremely rude.
+Pencil. Every inch of the bare wood, round and round, in a spiral, in thirty different hands. Large and small. Neat and terrible. He saw *Wakana*, carved more than written. He saw *Marin*, with a heart. He saw *Senku*, in small square capitals, and *Suika*, very large. He saw *Umaru (PRESIDENT)* and *Agott (under protest)*. He saw *Bocchi*, so small he had to tilt the car to read it. He saw *Milim*, pressed so hard into the wood it had gone through the varnish. He saw *Eren*, plain, and *Mikasa* beside it. He saw *Kaneki*. He saw *Mai*, small, at the very edge. He saw *Hakari, Karane, Shizuka, Nano, Kusuri*, in a row, the way they slept. He saw *Diablo*, in beautiful flowing script. He saw *Seiko*, with a flourish, and next to it, in Coco's careful hand, a sentence that began *Turbo Granny says* and then became extremely rude.
 
 He turned over the red and white one.
 

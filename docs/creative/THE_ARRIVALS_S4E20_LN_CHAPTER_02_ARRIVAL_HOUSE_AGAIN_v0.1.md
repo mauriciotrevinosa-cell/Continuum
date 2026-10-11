@@ -12,7 +12,7 @@ She came before the door was open.
 
 That was the difference, afterward, that everyone remembered. Seika had come at the eleventh bell, with Jinshi's key already turned and Kessoku on the bench inside. Ram came in the dark before dawn, with the door of Arrival House still locked and Jinshi still asleep in his room downstairs in the real house, beside Maomao's, behind the word *temporary* in ink.
 
-The fort was on the step. Rem was on the step, between Umaru and Ori, with the empty teapot in her lap. By five, half the house had come out too, the way it had on the night of Nijika's coin, one by one, in blankets, without being called. Mau and Frieren. Fern and Stark. Momo and Vamola, under one blanket. Seika, in the ugly coat, who stood at the end of the step with her arms folded and said nothing, and looked at Rem, every so often, with an expression nobody could read. Rimuru, with a pillow, which he gave to Rem, who put it in her lap on top of the teapot and held both.
+The fort was on the step. Rem was on the step, between Umaru and Ori, with the empty teapot in her lap. By five, half the house had come out too, the way it had on the night of Nijika's coin, one by one, in blankets, without being called. Mau and Frieren. Fern and Stark. Momo and Vamola, under one blanket. Nazuna, upside down from the bell tower, awake, which at that hour she would have been anyway. Seika, in the ugly coat, who stood at the end of the step with her arms folded and said nothing, and looked at Rem, every so often, with an expression nobody could read. Rimuru, with a pillow, which he gave to Rem, who put it in her lap on top of the teapot and held both.
 
 Nobody talked much. It was very cold. The stars were going pale over the black hills.
 

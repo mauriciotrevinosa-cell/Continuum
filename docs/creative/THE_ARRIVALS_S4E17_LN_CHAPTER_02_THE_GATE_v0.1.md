@@ -30,7 +30,7 @@ Rimuru peeled the page off his cheek.
 
 They did not manage to go before the house woke up.
 
-It was not possible. Rimuru woke Mau, because Ciel said to, and Mau woke Frieren, because she was already awake and had been watching him sit up in bed and pull his boots on. Frieren's moving woke Ori through the door, and Ori woke Milim, who was floating about a foot above her own bed, and Milim, waking, said *WHAT* at a volume that woke the rest of the east corridor. By the time they came down the main stair, Mikasa was already standing at the bottom of it, dressed, with her blades on, and Eren behind her pulling on his coat. Yuta and Maki came out of their room. Senku came up from his workroom with chalk on his hands.
+It was not possible. Rimuru woke Mau, because Ciel said to, and Mau woke Frieren, because she was already awake and had been watching him sit up in bed and pull his boots on. Frieren's moving woke Ori through the door, and Ori woke Milim, who was floating about a foot above her own bed, and Milim, waking, said *WHAT* at a volume that woke the rest of the east corridor. By the time they came down the main stair, Mikasa was already standing at the bottom of it, dressed, with her blades on, and Eren behind her pulling on his coat. Yuta and Maki came out of their room. Senku came up from his workroom with chalk on his hands. Kaneki, coming in from the timber yard with sawdust on his sleeves, turned round in the doorway and followed them.
 
 And Fern was in the common room in the grey dark, at the long table, with the ledger, because Fern was always in the common room at this hour. She looked up at all of them coming down the stair in a body, armed and half dressed, and closed the ledger, and stood up.
 

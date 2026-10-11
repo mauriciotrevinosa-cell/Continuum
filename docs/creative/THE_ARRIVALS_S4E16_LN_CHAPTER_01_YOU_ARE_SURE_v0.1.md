@@ -216,7 +216,7 @@ At three, Anko came by on her rounds, with her lantern, and stopped, and looked 
 
 At four, the fort came. Not all of it. Umaru, with her slate. Suika. Ori, who was not in the fort and came anyway, in Milim's coat, with Milim floating half asleep a foot behind her. Coco and Agott, in one blanket.
 
-At five, Yuta and Maki. Then Rimuru, in human shape, with a pillow, which he gave to Nijika. Then Fern and Stark, with more tea. Then Momo, with the pear bread, cut into slices, and a cloth over it. *FOR TOMORROW (OR WHENEVER).*
+At five, Yuta and Maki. Then Rimuru, in human shape, with a pillow, which he gave to Nijika. Then Fern and Stark, with more tea. Then the five from the big room, in one long blanket. Then Mai, alone, who sat at the end of the step and said nothing. Then Momo, with the pear bread, cut into slices, and a cloth over it. *FOR TOMORROW (OR WHENEVER).*
 
 "It's tomorrow," said Momo, and handed it round.
 

@@ -34,7 +34,7 @@ Umaru, at the arch, turned to the fort with her face shining.
 
 The fort, very quietly, cheered.
 
-And then Ram looked round the long table, slowly, at all of them. At Himmel, who had stood up to bow and was still standing. At Milim, who was vibrating gently. At Senku, who had a pencil behind each ear. At Okarun, whose glasses were steaming up. At Seiko on her high seat. At Rimuru, at the cold-hearth end, in his human shape, who was smiling at her very kindly. At Mau, beside Frieren.
+And then Ram looked round the long table, slowly, at all of them. At Himmel, who had stood up to bow and was still standing. At Milim, who was vibrating gently. At Senku, who had a pencil behind each ear. At Okarun, whose glasses were steaming up. At Mai, at the end of the bench, who looked back at her with exactly the same expression. At Seiko on her high seat. At Rimuru, at the cold-hearth end, in his human shape, who was smiling at her very kindly. At Mau, beside Frieren.
 
 "Everyone in this house," said Ram, "is an idiot."
 

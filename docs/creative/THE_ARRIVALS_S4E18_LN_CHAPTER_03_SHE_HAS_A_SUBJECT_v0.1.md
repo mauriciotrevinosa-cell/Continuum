@@ -104,7 +104,7 @@ The crown was not a decree. Frieren had not asked for a crown. She said so, seve
 
 "It's a little bit the crown," said Marin.
 
-Marin was at the long table with Wakana and Coco and a circle of oak, and paint, and a basket of dried flowers from Daphne's barn that Daphne had handed over with a long-suffering face. Wakana had cut the circle in under an hour, from a curl of deadfall oak, with no nails and no joins, so that it was one piece all the way round. Marin was painting it gold. Coco was not allowed to paint anything on it, because Coco's hands sometimes drew shapes without asking, and Qifrey was sitting beside her to make sure. So Coco was choosing the flowers instead, very seriously, one at a time.
+Marin was at the long table with Wakana and Coco and a circle of oak, and paint, and a basket of dried flowers from Daphne's barn that Daphne had handed over with a long-suffering face. Wakana had cut the circle in under an hour, from a curl of deadfall oak, with no nails and no joins, so that it was one piece all the way round. Marin was painting it gold. Coco was not allowed to paint anything on it, because Coco's hands sometimes drew shapes without asking, and Qifrey was sitting beside her to make sure. So Coco was choosing the flowers instead, very seriously, one at a time. Tetia and Richeh, beside her, disagreed with every choice, which helped.
 
 Fern was against the crown.
 

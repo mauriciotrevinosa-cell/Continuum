@@ -20,7 +20,7 @@ Below that, in a third hand, smaller still: *Under protest. —Agott.*
 
 The non-citizens assembled in the workshop at the first bell to discuss resistance.
 
-There were not many of them. That was the problem. The fort had thirty citizens, plus a sister-in-law, plus an honorary member with a bowl who had not yet decided which side he was on. The non-citizens were whoever was left: Mau, Yuta, Senku, Stark, Okarun, Kaneki, Eren, Himmel, Wakana, Qifrey, Jinshi and Diablo. Twelve.
+There were not many of them. That was the problem. The fort had thirty citizens, plus a sister-in-law, plus an honorary member with a bowl who had not yet decided which side he was on. The non-citizens were whoever was left: Mau, Yuta, Senku, Stark, Okarun, Kaneki, Eren, Himmel, Wakana, Qifrey, Jinshi and Diablo. Twelve. The fort's thirty included Hakari's five, who had a strategy, and Vamola, who did not need one, and Mai, who had come in late and claimed the north wall without asking.
 
 "Thirty-one to twelve," said Senku, looking at a piece of paper on which he had written the numbers. "Thirty-two if Rimuru defects. Which he will."
 
@@ -98,7 +98,7 @@ Umaru, on her bucket, made a mark on her map.
 
 In the workshop, Senku's catapult was finished.
 
-It was small. It was built from Wakana's timber and two lengths of rope and a bucket, and it could throw a snowball, Senku said, roughly forty yards with an accuracy of about plus or minus a cow. Yuta had warmed his hands with cursed energy and was packing snowballs at a rate of one a second, very hard, very round. Okarun had Turbo Granny's speed in his legs and was going to run ammunition. Kaneki, Eren and Himmel were going to hold the gap at the toll booth. Jinshi had been made quartermaster, because Jinshi could organize anything. Qifrey had declined to fight, on the grounds that his students were on the other side and it would be unbecoming, and had instead been made a neutral observer, which meant he stood at the workshop door with a cup of tea, smiling.
+It was small. It was built from Wakana's timber and two lengths of rope and a bucket, and it could throw a snowball, Senku said, roughly forty yards with an accuracy of about plus or minus a cow. Yuta had warmed his hands with cursed energy and was packing snowballs at a rate of one a second, very hard, very round. Okarun had Turbo Granny's speed in his legs and was going to run ammunition. Kaneki, Eren and Himmel were going to hold the gap at the toll booth. Jinshi had been made quartermaster, because Jinshi could organize anything. Across the yard, on the fort's side, Aira had taken charge of the north wall with the air of someone who was not interested in snowball fights and had been building it since dawn. Qifrey had declined to fight, on the grounds that his students were on the other side and it would be unbecoming, and had instead been made a neutral observer, which meant he stood at the workshop door with a cup of tea, smiling.
 
 Mau stood at the window and looked out at the Milim Wall, and the defence in depth, and the toll booth, and Maki and Mikasa side by side behind the first wall, making snowballs with expressions of total professional calm.
 

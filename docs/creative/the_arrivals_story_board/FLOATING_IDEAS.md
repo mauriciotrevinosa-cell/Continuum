@@ -149,3 +149,6 @@ The creator, reading V18 #44 "Threshold", asked whether Mau is developing someth
 - **Proposal (not canon):** the overload is the Noise trying to *integrate* everything Mau carries. In effect it is raw, unfiltered perception, like the Six Eyes without the filter that makes them bearable. This ties to the ring scene in the S4 slate, where the Noise reaches for a requirement it lacks.
 - **Proposed S4 payoff:** **Gojo recognizes it.** The Six Eyes nearly burned out his own brain until RCT kept it running, so he knows the symptom. "That's what my eyes do. Mine come with a filter. Yours don't." This gives his role as teacher a second concrete reason, besides the Infinity.
 - **Creator (2026-10-09):** change nothing in the chapters. The Gojo-recognizes-it payoff is **highly likely**. Whether the overload becomes something like the Six Eyes is still open.
+
+## PIN (creator, 2026-10-10): where the five came from
+The story has never said where Hakari, Karane, Shizuka, Nano and Kusuri came from, or why they arrived without Rentarou. **Pinned idea:** they were brought in S1, before the rest. Don't use it until the creator unpins it. Related: DH-055 (no "click"; who they really love; their coins).

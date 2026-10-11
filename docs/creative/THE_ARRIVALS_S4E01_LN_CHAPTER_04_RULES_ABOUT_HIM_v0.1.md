@@ -8,7 +8,7 @@
 
 They were all there.
 
-Rings One and Two, the way they had been at the council: the long table and the benches and the floor, the cold hearth with Rimuru beside it, the board with its four rings and its three new rules and SLEEP. Fern at the head of the table with the ledger. Anko with her notebook. Yuta and Maki on the bench under the window. Eren by the window itself, standing, the way he always stood, as if he might have to leave. Mikasa beside him. Milim on the floor, cross-legged, with her back to the room. The fort had emptied into the common room and sat in a cluster at the north end in front of its own curtained doorway, as if guarding it. Ori was among them, at the back, with her knees up.
+Rings One and Two, the way they had been at the council: the long table and the benches and the floor, the cold hearth with Rimuru beside it, the board with its four rings and its three new rules and SLEEP. Fern at the head of the table with the ledger. Anko with her notebook. Yuta and Maki on the bench under the window. Eren by the window itself, standing, the way he always stood, as if he might have to leave. Mikasa beside him. Milim on the floor, cross-legged, with her back to the room. The fort had emptied into the common room and sat in a cluster at the north end in front of its own curtained doorway, as if guarding it. Ori was among them, at the back, with her knees up. The five from the big room had taken the front, in a heap, and Mai sat at the very edge of the cluster, a little apart, the way she always sat at first.
 
 Frieren was on the couch. There was a space beside her.
 

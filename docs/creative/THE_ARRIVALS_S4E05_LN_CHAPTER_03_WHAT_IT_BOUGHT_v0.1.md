@@ -102,7 +102,7 @@ She closed her hand around the coin and held it against her chest, where her own
 
 Down the bridge, one by one, without anyone saying anything, other hands closed too.
 
-Coco, who had found hers on the boards, closed her fist around it and held it to her chest. Ori, beside her, did the same. Then Umaru. Then Yuta, who looked at his for a long moment and then put it away, very carefully, in an inside pocket of his coat, and buttoned the pocket. Then Rimuru. Then Milim, who closed both her hands around hers and held them to her heart and burst into tears, enormously and without embarrassment. Then all of them.
+Coco, who had found hers on the boards, closed her fist around it and held it to her chest. Ori, beside her, did the same. Then Umaru. Then Yuta, who looked at his for a long moment and then put it away, very carefully, in an inside pocket of his coat, and buttoned the pocket. Then Rimuru. Then Milim, who closed both her hands around hers and held them to her heart and burst into tears, enormously and without embarrassment. Then Mai, who looked at hers without expression and put it in her pocket, next to the morning's bullet. Then Kaneki, who did not look at his at all. Then all of them.
 
 Nobody spent anything that night. Nobody even talked about it.
 

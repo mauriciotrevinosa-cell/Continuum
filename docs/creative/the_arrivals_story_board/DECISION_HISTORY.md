@@ -938,3 +938,40 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
 - Biggest gaps: Mai, the five (70 chapters), Turbo Granny, Nazuna, Aira, Witch Hat in V23 (a risk before Coco's mother in V25), Kaneki (no mention in V23), Suika, Diablo, and Ori fading.
 - Stalled pairs: Marin and Wakana; Anko and Nazuna; Maomao and Jinshi (slow).
 - **The fix is presence, not protagonism:** one real beat each per volume, starting in V24.
+
+## DH-055 — Presence without scenes, Dating Day, the five, Anko and Nazuna, Maki's lifetime, the ring (creator, 2026-10-10)
+
+**1. The missing characters exist in the background.** The creator would rather see them *existing* than give each one a single scene. Vamola, for example, is part of the fort.
+- Retro-insert them into group moments so the reader knows they are there. Their arcs come when it is their turn.
+- Don't force them into leads. Don't let them vanish and then turn up out of nowhere ("ah sí, cierto, existen").
+- **Applied 2026-10-10:** a presence pass over S4's crowd scenes; see the cast ledger.
+
+**2. Process fix: prevent holes instead of patching them.** The creator noticed that relationships go quiet, become implied, then get an "emergency chapter" once he remembers.
+- **A living cast ledger now exists:** `CAST_LEDGER_S4.md`. It has every character's room, ring, threads, relationships with status, coin, and last real beat.
+- **Consult and update it before every episode.** Run the presence audit before every volume.
+
+**3. Couples: Dating Day** (creator's idea, for V24).
+- Marin tells Wakana that since they got here they only work and almost never go out together.
+- With Milim's help (Head of Fun), a decree follows: **Dating Day**. Every couple must go on a date. Who plans it is up to them.
+- We see each couple's date, their own way.
+
+**4. Anko and Nazuna are not a couple.**
+- They tried, a decade earlier. Nazuna loves **Ko** (not brought yet).
+- The creator is considering a **cross-story relationship for Anko**: she may like women, so a yuri with someone. Open.
+- V22 "The Bath" slate was fixed (it implied a couple).
+
+**5. The five (100 Girlfriends): the "click" doesn't exist here.**
+- So the question opens: about Rentarou, and whom they really love.
+- In their anime the girls have relationships among themselves: Hakari and Karane (season 1), Nano and Shizuka (season 3).
+- Their coins and that question are a future arc to explore.
+- **Pinned:** they were brought in S1, before the rest (`FLOATING_IDEAS.md`).
+
+**6. Maki lived that life.** Canon S2 "Different Shapes": "Yuta and Maki had lived an entire lifetime and still chose each other again." That is why they have had their moments all along. **So Maki knows Yuka, her granddaughter.**
+- Maki's coin is simply Maki thinking of Yuka. Her folded paper from the List (V21) holds Yuka's name.
+- Claude's "family that comes after us" proposal is dropped.
+
+**7. The ring: Yuka has it again by continuity.**
+- In *Modulo* it mattered enormously to her and was taken away for Tsurugi. That is where the rivalry was born: one proving he can, the other proving she is worthy.
+- **After everything in *Modulo*, it is hers again**, and it has to be Yuka who carries it.
+
+**8. Yuka's technique** (source check): Keishoken martial arts with cursed properties (*Modulo* ch. 1). The creator's round 3 still says "Yuka is the Ten Shadows". Reconcile when drafting.

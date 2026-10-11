@@ -212,7 +212,7 @@ Frieren considered this.
 
 They came out of the blue light one after another, into the white morning and the snow and the north field. Stark first, with the axe and the bag. Then Fern, very straight. Then Mau, with Frieren on his back, soaked, with her chin on his shoulder, her arms round his neck, and her shawl dripping onto his coat.
 
-Half the house was at the red stake. More than half. Milim, at the front, as Guardian of the entrance, with her arms folded. The fort, in hoods, with Umaru beside her sign. Rimuru, kneeling at the marker with his hand on it, looking up at them with an expression of profound, delighted disbelief. Yuta and Maki. Mikasa and Eren. Seika, at the back, with her arms folded in the ugly coat.
+Half the house was at the red stake. More than half. Milim, at the front, as Guardian of the entrance, with her arms folded. The fort, in hoods, with Umaru beside her sign. Rimuru, kneeling at the marker with his hand on it, looking up at them with an expression of profound, delighted disbelief. Yuta and Maki. Mikasa and Eren. The five from the big room, with Nano holding a schedule nobody had asked for. Mai at the edge. Kaneki, off the night shift, with his collar up. Seika, at the back, with her arms folded in the ugly coat.
 
 Everyone stared.
 

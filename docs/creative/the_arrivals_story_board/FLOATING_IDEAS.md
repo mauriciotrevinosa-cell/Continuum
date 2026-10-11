@@ -152,3 +152,22 @@ The creator, reading V18 #44 "Threshold", asked whether Mau is developing someth
 
 ## PIN (creator, 2026-10-10): where the five came from
 The story has never said where Hakari, Karane, Shizuka, Nano and Kusuri came from, or why they arrived without Rentarou. **Pinned idea:** they were brought in S1, before the rest. Don't use it until the creator unpins it. Related: DH-055 (no "click"; who they really love; their coins).
+
+## Mau and the Goddess talk (creator seed, 2026-10-11; Claude's proposal attached, placement open)
+The creator, reading V22's second tea: "¿qué tal una plática de Mau con la diosa?"
+
+**Constraints it must respect:**
+- **The signed condition** (DH-023): *Mau does not go to the Goddess.*
+- **Second Chance is unknown in-world** (MAJOR_ARCS): Mau does not remember dying in front of her. She does.
+- **She made Ori to study love** (MAJOR_ARCS), and Ori became more than what she intended.
+
+**Claude's proposal (not canon):**
+- **She comes to him; he never goes.** The channel is the coin he kept ("keep it until you know", V20). He holds it, and instead of giving a name, he asks her something. No name, so it is never spent.
+- **The echo.** She asks him, again, why he did it, the way she asked when he was dying. He answers the way he answered then, without knowing he has answered before. Only she and the reader know it is the second time.
+- **What she wants is love, not power.** She asks about the house, about Ori, about why he stays. She learns something from him, not the other way round.
+- **What it must not do:**
+  - No gifts and no power-ups.
+  - No answers to the big mysteries (the "let me out" voice, the mastermind). She refuses, or doesn't know.
+  - No deus ex machina.
+- **The contract holds.** Afterwards he tells the house at the long table, unasked, because the condition was about not carrying her alone.
+- **Placement:** S4's close, around V26's "the door calls Mau again" (before, as the voice behind the door; or after he stays, with her asking why). Or as the S5 opener.

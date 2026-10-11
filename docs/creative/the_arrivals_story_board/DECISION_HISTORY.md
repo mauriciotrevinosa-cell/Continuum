@@ -972,7 +972,7 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
 
 **7. The ring: Yuka has it again by continuity.**
 - In *Modulo* it mattered enormously to her and was taken away for Tsurugi. That is where the rivalry was born: one proving he can, the other proving she is worthy.
-- **After everything in *Modulo*, it is hers again**, and it has to be Yuka who carries it.
+- **After everything in *Modulo*, it is hers again**, and it has to be Yuka who carries it. *(Corrected in DH-058: hers again **because Continuum brought it with her**, not "by continuity".)*
 
 **8. Yuka's technique** (source check): Keishoken martial arts with cursed properties (*Modulo* ch. 1). The creator's round 3 still says "Yuka is the Ten Shadows". Reconcile when drafting.
 
@@ -1000,3 +1000,50 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
 *Systems note (Claude):* the slipped guardrails are the sync limits (DH-041) forced open for a moment by the fight. That is why it is dangerous and why it must be stopped. The world clamps back afterwards, and the cost lands on Mau (and on Gojo).
 
 **Maki and Mai.** No further nerf for Maki. **Mai may know** that she died in the life Maki lived, but it stays untouched until their arc. The sisters split in JJK, so they may never have spoken of it. **Yuta stays out of it** ("le gusta vivir").
+
+## DH-058 — The Six Eyes catastrophe: the creator's beats and Claude's elevation (2026-10-11)
+
+**Correction to DH-055 §7.** The creator said "que eso sea **por Continuum**". The ring is Yuka's again **because Continuum brought it with her**: the world judged it hers. Claude had misread this as "by continuity". In-world, *Continuum* is the force that measures and nerfs arrivals (S3 uses the name).
+
+### The creator's beats (seconded)
+
+**The fight is a preview.** The Gojo fight (DH-057) is a glimpse of the real one, when both are at 100%.
+- In that moment, like Sukuna against Gojo, they appear and throw themselves at each other **before Continuum can measure them**. Afterwards each feels the nerf clamp back down.
+
+**Mau takes the Six Eyes from this fight.** That gives material for Mau overloaded at an atomic level.
+- Analyze gets excited and starts overloading again.
+- **This must be the most terrifying, frightening and worrying event so far.** Before, it was small things: leaks and bends. **With the Six Eyes everything goes overboard.** They find everything possible and **read the guardrails**, and everything explodes.
+- The theme the creator never wants lost: **Mau is not healthy. The guardrails are trying to stop something unstoppable.**
+
+**Containment.** Gojo helps Mau control the Six Eyes a little. That buys time for **Ciel and Rimuru to contain him again and build new guardrails**.
+
+**Frieren's aftermath.** There is no "it happened once, so it won't happen again". This is a real fear everyone now knows. Before it was leaks. **This time it was everything: the complete, the incomplete, the pure ideas and the things still being built.**
+
+**Trauma shown through the others, never as jokes:**
+- Frieren falls asleep on Mau and feels something wet. She has an attack, because she thinks it is blood. Mau wakes, sees it was only his drool, and calms her.
+- Mau walks to the edge of the settlement to collect something, and nearly everyone is already ready (armed). Some panic and apologise. Mau tells them not to apologise.
+
+**The creator's instruction:** "When I say go crazy, go crazy." His ideas are a starting point. Claude's job is to elevate them without making them absurd, and to find the traumas.
+
+### Claude's elevation, proposed (to confirm)
+
+1. **Why the wheel gives him the eyes.** In JJK, Mahoraga's wheel adapted to Gojo's Infinity. Mau's wheel, adapting to Gojo's Infinity at point-blank range, must *see* Infinity in order to adapt to it. Adaptation produces the way of seeing: the Six Eyes, as an adapted sense.
+   - This is canon-resonant and earned. It completes Mau's **missing requirement** (the containment lock says the Six Eyes would make his Infinity controllable).
+   - It is a gift and a disaster at once.
+2. **Why it explodes.** The Six Eyes have no filter, Analyze is fed by them, and they **read the seal itself.**
+   - The reversion night's canon applies: **the pattern treats the walls as an injury.** Now it can *see* the walls, to the atom.
+   - So the wheel starts adapting to the guardrails as if they were an attack. All 143 patterns surge at once: the 9 finished, the 26 missing a requirement, the 41 half-built, and the 67 that are only blueprints.
+   - Half-built things manifest wrong, and blueprints flicker into the world as unfinished shapes. **It is the V13 containment event at a much larger scale**, with the ground of the house he built underneath it.
+3. **Gojo's filter.** "Mine come with a filter. Yours don't. **So borrow mine.**" Gojo ties his own blindfold over Mau's eyes and talks him through *not looking*: the filter isn't in the eyes, it is choosing what not to see.
+   - It buys minutes, not a cure. Ciel and Rimuru use them.
+   - The blindfold is lent only in the crisis, so Mau never becomes a Gojo copy. Afterwards the filter is internal, built into **the new guardrails** with Gojo's help, and becomes a reason for Gojo to stay and teach.
+4. **Timing: Shoko arrives into the aftermath.** Seiko's coin brings the doctor while Mau is still down. Shoko comes from after Gojo's death, finds him alive, and in the same hour finds a patient who is a walking catastrophe. That gives her the strongest possible entrance and purpose, and her friendship with Maomao starts in an emergency.
+5. **Traumas beyond the creator's two:**
+   - Ori counts his breaths from the doorway at night.
+   - Umaru re-checks the fort roster.
+   - Rimuru blames his own walls.
+   - Yuta doesn't sleep on roof night.
+   - Seika, who has known the house only a month, watches a whole family flinch at once and finally understands "the person they're scared for".
+   - Gojo's own reckoning: he recognises what it is to be the most dangerous thing in a room, and to be loved anyway.
+   - Mau's answer stays the same: "Don't apologise."
+6. **What stays sacred:** Frieren's private aftermath (the "if not him, who" scene), Mau's wear always shown, and no comedy at the trauma itself.

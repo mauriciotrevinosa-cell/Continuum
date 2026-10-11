@@ -4,7 +4,7 @@
 **Volume:** 23  
 **Season:** 4  
 **Volume title:** **What His Coin Bought**  
-**Chapter count:** 16
+**Chapter count:** 22
 
 | # | Chapter |
 |---:|---|
@@ -24,3 +24,9 @@
 | 14 | Something Small |
 | 15 | The Road South |
 | 16 | An Empty Cottage |
+| 17 | Rem's Coin |
+| 18 | Arrival House, Again |
+| 19 | Two Sisters |
+| 20 | Mana |
+| 21 | Once a Week |
+| 22 | One Hundred Percent |

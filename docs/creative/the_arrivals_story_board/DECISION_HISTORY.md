@@ -828,3 +828,83 @@ V22 is drafted: **28 chapters, S4E12–S4E16, Days 49–103**, from late winter 
 - **Every chapter now opens with an italic *When:* note:** the day or days, and what else is running at the same time.
 - Applied to all of V21 (32) and V22 (28). V22 "Raising the Frame" is now dated Days 77–85.
 - **Rule for every future chapter.**
+
+## DH-051 — Volume 23 "What His Coin Bought" written: canon it locks (2026-10-10)
+
+V23 is drafted: **22 chapters, S4E17–S4E20, Days 104–130**, through the thaw. Where the prose differs from `S4_V23_PLAN_2026-10-10.md`, the prose is canon.
+
+**The gate**
+- Mau finds nobody before the clearing. The Goddess: "As you cannot bring a loved one, I will give something that benefits you in the long run." **His coin stays warm** (DH-050 §2). Frieren: "To keep. Or to give."
+- **A blue gate stands forty paces past Anko's red stake,** just outside the protection, on purpose. Ciel: "It is a door... What is behind it has teeth."
+- **The window (shop):**
+  - It is visible within about twenty paces and translates for each reader.
+  - Sections: WEAPONS / ARMOUR / CONSUMABLES / MATERIALS / SPECIAL (locked).
+  - The bottom line: *GATE: WEEK N. GRADE. CHANGES IN. SETTLEMENT BALANCE.* It is **one purse** for the whole settlement.
+  - Every purchase asks *YES / NO*.
+  - Healing draughts: **NOT SOLD. OBTAIN FROM: BOSS.** A minor one closes a scratch.
+  - Crystals fed to the window become balance (a small crystal = 10). Purchases **materialise and persist inside the line.**
+- **Rules:**
+  - Fern's rule 1: nobody goes in alone.
+  - **Rimuru's shadow relay:** a thread in each person's shadow, plus one at the stake. Ciel sees through it, and Rimuru can pull people out.
+  - **Mau's contract**, five rules, with "To leave no one inside". It is signed by every party member and the ink flares gold.
+  - Umaru's *Guide to Dungeons*; rule six is mimics, THIS MEANS YOU.
+  - **Mau stays out of the first runs** (Ciel: the wheel listens. By week two it listens but does not turn).
+- **Steel does nothing in the gate, and outside it works.** Cursed tools, cursed energy, magic and the Guardian all work. The monsters burst into blue sparks and leave a crystal.
+- **Purchases so far:** Stark's **Hand Axe (Gate-forged)** (340), then rations, then **Mikasa's gate-forged blades**.
+- **Senku's crystal** went dark when wired: NOT YET. (AGAIN.)
+- **Weeks:** 1 is stone and wolves; 2 is a dressed-stone ruin with skeleton beasts; 3 has water in it; 4 is when Mikasa gets her blades.
+
+**The queen** (the creator's beats, in order)
+- Three mimics, all opened anyway, because of "the one in a hundred" (the 99% spell). "Never underestimate..." / "You forget I'm older than you now."
+- The fourth mimic had a **grimoire inside the mimic.**
+- The piggyback: "You owe me... your punishment for breaking your promise" (the tree; "Your hand was on his back").
+- "**If that is my punishment, I will happily oblige.**" Then "I have a subject."
+- She wears the hoodie (**it is hers now**).
+- The oak crown: Agott lettered *QUEEN (ONE DAY). VALID FOR: MAU ONLY*. Umaru's pass says *NOT VALID ON THE FORT*.
+- Umaru tells Eren not to bother the lovebirds. "Pass the salt... That was a request." **Mikasa laughs at dinner.**
+- **The grimoire's spell:** frost on a window draws what you are thinking of.
+- The loft decree turns into Rimuru's principle: **"one empty room, always"**.
+  - The **west wing** is raised by hand (Foundation was single-use). It holds Seika's room, Ram's by Rem's turn, the empty room, and **Umaru's temporary room "for someone"** (*(temporary). For someone. U.*, in pencil, no name).
+  - The loft stays, with a door that latches from Mau and Frieren's side.
+- **The shelf** was moved by decree and moved back at midnight. Still unresolved.
+
+**Small things**
+- **Seika** builds a pallet stage overnight: **STARRY (2)**, "It's your club, Onee-chan. Wherever you are."
+- **The weekly tea, Day 117:** Seika reads and Bocchi plays the eighth song from Echidna's book. Echidna: "**Thank you.**" Next week is the ninth, a harvest song. Pride to Seika: "You played. Once."
+
+**The first devil and the first departure**
+- **The first devil (Day 119).** It is child-sized, covered in faces all turned away, muttering what the towns say, and says "Go back where you came from." **Steel works.** It takes two cuts, leaves nothing, and smells of wet paper. Nobody thinks much of it. Mau goes still at "the one with the shadow".
+- **The first Ring Four departure (Day 121):** the beekeeping family of four, to the woman's sister in the river towns.
+  - "It's not you. It's the road." And: "That's who you are. Not what they say."
+  - **Daphne keeps the bees** ("they will know you").
+  - Umaru's pass: VALID: WHENEVER YOU COME BACK. The cushion is kept.
+- **A valley woman leaves the washing court.** Dessa's friend: "Not yet."
+- **The refuge now: three families, four children.**
+
+**Ram** (creator: (a))
+- The coin carries. **Rem's fear** (the horn) is answered by the coin itself.
+- She arrives before the door opens, starving for mana after six days of looking through every eye.
+- Frieren fills her: "Her mana smells ancient." / "It is." / "Acceptable."
+- **Her account:**
+  - Rem vanished mid-sentence while peeling potatoes, talking about towels folded in triangles.
+  - Barusu searched the forest for six days and fell in the stream twice. Emilia-sama searched with Puck ("anywhere"). Beatrice-sama opened every door twice.
+  - Then the voice said only "Rem." / "**I was already standing up.**"
+- **Nothing of Roswaal.**
+- **The horn:**
+  - "It was mine... I'd spend it again."
+  - Yuta's outward RCT softens the scar's edges, so the mana appointment is **once a week** with Frieren.
+  - Ram refuses more: "And then what would you do with your hands?"
+  - Mau's RCT is shown as the light version (scratches).
+- **Ram's texture:**
+  - Every dinner: crude, barely edible, a disgrace, everyone's an idiot, except Rem.
+  - She and Seika are the two older sisters, side by side. "There's two of them."
+  - The creator's beat: Mau walks in on a mana session and they just talk.
+- **Rem at 100%:**
+  - She quips again (the old Rem, "the one I lost in the kitchen").
+  - Seika: "When the person you're careful for isn't there, you get careful about everything."
+  - She carries the other end of the beam with Milim, gently.
+
+**THE LIST**
+1. Nijika: HERE.
+2. Rem: **HERE.**
+3. **Yuta: his teacher. When we're ready.** Seiko's coin is for the doctor. This sets up V24.

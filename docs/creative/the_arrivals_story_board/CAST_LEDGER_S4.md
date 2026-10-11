@@ -21,7 +21,7 @@
 | **Mau and Frieren** | Together. Slow and tender. | V23 queen arc; "The Coin That Stayed" | Ongoing | **No sex, no fan service** (DH-054). For her two years is a sneeze. Promise: "Longer" (the ink tree). The hoodie is hers. The shelf is never resolved. |
 | **Fern and Stark** | Official (V18). Very slow. | V23 "Steel Doesn't Work" (the axe, "bookkeeping") | Dating Day | The dotted wall became a sliding panel, opened a hand's width. Fern wants slower. |
 | **Yuta and Maki** | Couple. **They lived an entire lifetime and chose each other again** (S2). | V23 (Yuta's RCT; Maki holds his hand) | V24 (Gojo; Yuka) | Maki knows Yuka, her granddaughter (DH-055). |
-| **Bocchi and Kita** | **Couple since S2E12.** Must stay *visibly* girlfriends. | S4 shows them mostly as bandmates. **At risk of becoming implied.** | **Dating Day** | Give them a hand that can be found. |
+| **Bocchi and Kita** | **Couple since S2E12.** Must stay *visibly* girlfriends. | **V21 #13 "A Hand That Can Be Found"** (added 2026-10-11) | **Dating Day** | Give them a hand that can be found. |
 | **Okarun and Momo** | Couple (S2: memory loss hurt it without making it imaginary). | V21 "Speed Limit" (hands under the snow); V23 Rem's teasing | Dating Day | Vamola is now in Momo's room. |
 | **Marin and Wakana** | Couple. **Stalled in S4:** they only make things. | none in S4 | **Dating Day (Marin starts it)** | Marin: "since we got here we only work." |
 | **Maomao and Jinshi** | Reluctant. *Temporary*, in ink. | V22 "Moving Day" | Dating Day (reluctantly) | Slow by design, but it needs a step. |
@@ -225,7 +225,7 @@ These are threads built in S2 and S3 with real weight. **Check each before every
 
 | Bond | Where it was built | S4 status | Pick it up by |
 |---|---|---|---|
-| **Mai and Mau: "construction"** (both techniques cost the body; Mai's one bullet a day; hands that shake after; "You stood at the door... so nobody behind it had to wonder who was standing there") | V18 "The Night Between" | **Silent. The creator flagged it.** | V24. Mau's light versions are constructions, and Mai knows the cost. She is family to Yuka (great-aunt). The shelf under her window "for the bullets" (seeded in the 2026-10-10 pass). |
+| **Mai and Mau: "construction"** (both techniques cost the body; Mai's one bullet a day; hands that shake after; "You stood at the door... so nobody behind it had to wonder who was standing there") | V18 "The Night Between" | **Picked up: V21 #5 "Construction"** (the bullet beside his coin; the cost log). Next: V24 with Yuka. | V24. Mau's light versions are constructions, and Mai knows the cost. She is family to Yuka (great-aunt). The shelf under her window "for the bullets" (seeded in the 2026-10-10 pass). |
 | **Maki and Frieren**, friendship ("must survive S3") | V13 "Maki and Frieren Are Not Talking" | Quiet | V24, Yuka: Maki's warning about Frieren, which needs the friendship to be real |
 | **Seiko and Frieren** ("judge everyone") | V15 | Quiet | A shared look at Gojo |
 | **Milim wants both brothers** (Rimuru and Mau) | V16 | Partly (the Guardian) | Titans; Gojo's rematch talk |
@@ -242,4 +242,5 @@ These are threads built in S2 and S3 with real weight. **Check each before every
 
 ## 3. Update log
 - 2026-10-10: created after the V23 audit. Vamola restored (DH-054); Anko and Nazuna corrected; Bocchi and Kita flagged as at risk of becoming implied.
+- 2026-10-11: V21 gained #5 "Construction" (Mai and Mau) and #13 "A Hand That Can Be Found" (Bocchi and Kita); V21 renumbered (DH-065).
 - 2026-10-10: presence pass. Mai, the five, Nazuna, Turbo Granny, Aira, Kaneki and Witch Hat were inserted into 19 S4 group scenes. §4 (presence, arcs, role) and §5 (silent bonds, including Mai and Mau's construction) were added.

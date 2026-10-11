@@ -48,7 +48,8 @@
 
 - **Mau.** The central nucleus, not a sovereign.
   - Room: east end, with the library bay, the reading chair (said no to it), the closet with Rimuru's loft above, the F1 cars and Ori's stone on the sill, and the shelf in the middle of the floor.
-  - Systems: Ciel; 143 sealed patterns (9 finished); the wheel; light versions only (his RCT closes scratches).
+  - Systems: Ciel; Analyze reads everything he sees; the sealed patterns (no counts in prose); the wheel.
+  - **Safe to use: only the light RCT and the flowers.** Everything else is a risk every time: the shadow and the dog (the shadow is a door; Mahoraga could follow), Infinity, the Six Eyes from V24, and the wheel (DH-062).
   - Coin: **kept**, warm, the dungeon's gift (DH-050). He can give it.
   - Blind spot: not believing people choose him.
   - Rituals: the washing court most mornings, the roof weekly, "One. Still here."

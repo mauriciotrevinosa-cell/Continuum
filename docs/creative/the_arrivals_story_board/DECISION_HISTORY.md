@@ -1107,6 +1107,21 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
   - It needs a shadow to live in, and Mau's shadow is **a door** (where the wheel sleeps; V14 "Don't Name It"; the plaza). So it joins the pile of patterns missing a requirement, alongside Ten Shadows (missing a shadow medium and shikigami).
 - **Rimuru's shadows are his own**, from Tensura (first used in V23; the idea is in the creator's letter §4).
 - **Ten Shadows rule: tame before summoning.** Mau must subdue each shikigami before he can call it.
-  - **The first is the malformed divine dog from V14** (black, one white ear), the one Ciel told him not to name. With **Yuka** (Zen'in blood; the Ten Shadows per the creator; Keishoken in *Modulo* ch. 1, so show both), Mau faces it properly, subdues it, and **finally names it**.
+  - **The first is the malformed divine dog from V14** (black, one white ear), the one Ciel told him not to name. With **Yuka** (Zen'in blood; the Ten Shadows per the creator; Keishoken in *Modulo* ch. 1, so show both), Mau faces it properly and subdues it. *(Amended in DH-062: **Frieren names it**, not Mau.)*
 - **"Teachers":** Gojo teaches the eyes (not looking). Yuka teaches the shadows (not opening the wrong door). Later, Mau's mastered shadow links into Rimuru's network: he goes from the one they have to watch to part of the watch.
 - This also answers Tsurugi: they didn't bring Yuka because they loved her more, but for what she carries for Mau.
+
+## DH-062 — Every power is a risk; Frieren names the dog (creator, 2026-10-11)
+
+**Progress without collecting.** The creator wants progress, "but not catching Pokémon".
+- **Each gain must cost and endanger.**
+- **Taming the dog wears Mau down.** He is fulfilling a requirement *while fighting*. Analyze wants to help, so **the walls tremble**.
+- **Calling the dog is itself a risk**, because the shadow it comes through is the door where the wheel sleeps. Any summon could still pull **Mahoraga** ("el bragas").
+
+**What Mau can use without worry:**
+1. **His light RCT** (half-baked: it closes scratches and small cuts).
+2. **The flowers**: flowers made with his own mana, the S1 callback first achieved at 14 minutes in the V15 controlled trial. Frieren keeps the pressed ones.
+
+**Everything else he carries is a risk every time:** the shadows and the dog, Infinity, the Six Eyes and the wheel. Write his options that way: many things, and almost none of them safe.
+
+**Frieren names the dog.** Mau doesn't. In V14, Ciel told him *don't name it*, and Frieren was there. When the dog is finally subdued (with Yuka's help), Frieren looks at it, and **she** names it. The name is chosen at drafting, in Frieren's style: plain, odd, and from her own long memory.

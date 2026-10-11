@@ -804,7 +804,7 @@ V22 is drafted: **28 chapters, S4E12–S4E16, Days 49–103**, from late winter 
 - **The coin only carries if the person loves the holder back.** If they don't, it is **refused** (creator: the refusal can come from not being loved).
 - **The dead can be called:** love doesn't need a living mouth. That is how **Gojo comes after being cut, like the others.**
 - V22 "Arrival House" is fixed: Seika heard only "Nijika", "It didn't wait for an answer. It didn't need one... I'm here, aren't I?"
-- *Claude's proposal, to confirm:* a refused coin is not lost. It comes back to the holder's hand, cold.
+- **A refused coin is not lost** (seconded). It stays in the holder's hand, but it **loses its warmth and goes opaque**.
 
 **2. Mau's coin is not spent.** The Goddess forms the dungeon ("As you cannot bring a loved one, I will give something that benefits you in the long run") and **Mau keeps his coin**. He can give it away or hold it.
 
@@ -819,7 +819,7 @@ V22 is drafted: **28 chapters, S4E12–S4E16, Days 49–103**, from late winter 
 **5. Ring Four drains, one by one (DH-048):**
 - **V23:** a refuge family leaves for the river towns after the devil, afraid of the road.
 - **Later:** the washing court goes, including Dessa's friend, a few at a time.
-- **The cooper** decides to move somewhere monsters aren't always attacking, so his daughter can live in peace. *Claude's proposal:* he brings her by coin to Arrival House first, she sits in the fort once, and then they leave together.
+- **The cooper** decides to move somewhere monsters aren't always attacking, so his daughter can live in peace. **Seconded:** he brings her by coin to Arrival House first, she sits in the fort once, and then they leave together. **He never says he won't come back.** When things calm down, the house goes looking for him to bring him home.
 - **By V26, nobody.**
 
 **6. The S4 finale:** it closes on **Mau staying beside Frieren, looking toward what comes after.** S5 continues exactly where S4 ends.

@@ -4,7 +4,7 @@
 **Volume:** 24  
 **Season:** 4  
 **Volume title:** **Teachers**  
-**Chapter count:** 16
+**Chapter count:** 21
 
 | # | Chapter |
 |---:|---|
@@ -24,3 +24,8 @@
 | 14 | The Birches |
 | 15 | Not a Date |
 | 16 | The Fifth Flower |
+| 17 | Maki's Coin |
+| 18 | Grandpa's Little Girl |
+| 19 | Mau? Mau? |
+| 20 | A Door, Not a Shadow |
+| 21 | Ear |

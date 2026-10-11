@@ -4,7 +4,7 @@
 **Volume:** 23  
 **Season:** 4  
 **Volume title:** **What His Coin Bought**  
-**Chapter count:** 6
+**Chapter count:** 11
 
 | # | Chapter |
 |---:|---|
@@ -14,3 +14,8 @@
 | 4 | Rules of the Gate |
 | 5 | First Run |
 | 6 | Steel Doesn't Work |
+| 7 | Mimics Found: Three |
+| 8 | It Is a Mimic |
+| 9 | She Has a Subject |
+| 10 | By Decree of the Queen |
+| 11 | A Room for Someone |

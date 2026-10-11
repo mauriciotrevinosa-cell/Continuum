@@ -4,7 +4,7 @@
 **Volume:** 24  
 **Season:** 4  
 **Volume title:** **Teachers**  
-**Chapter count:** 24
+**Chapter count:** 30
 
 | # | Chapter |
 |---:|---|
@@ -32,3 +32,9 @@
 | 22 | Looking at the Walls |
 | 23 | Everything at Once |
 | 24 | Borrow Mine |
+| 25 | Shoko |
+| 26 | Everything Stops |
+| 27 | Something Wet |
+| 28 | Everyone's Assistant |
+| 29 | More Beautiful Than Me? |
+| 30 | Higher Ceilings |

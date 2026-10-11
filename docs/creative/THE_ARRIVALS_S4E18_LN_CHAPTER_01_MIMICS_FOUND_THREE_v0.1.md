@@ -68,6 +68,18 @@ Mau signed the contract under the five names that were already there. The ink fl
 
 Rimuru put the threads in their shadows. Mau felt his go in, a small cool thread curling once at his heel and then gone.
 
+And felt, a heartbeat later, something in him turn toward it. The way it turned toward everything. Quietly, without asking, the thing in him that read things read it: the thread, the shadow it lived in, the way it passed what it saw back along the line to Rimuru. It took the whole shape of it in less time than it took to breathe.
+
+*Analyze has it,* said Ciel, very quietly. *Already.* A pause. *You can't have it. Not yet.*
+
+*Why?*
+
+*Because it needs a shadow to live in,* said Ciel. *And yours is not a shadow. Yours is a door.* Another pause. *It goes in the pile with the others that need a shadow you can't open.*
+
+Mau looked down at his own shadow on the snow, thin and grey in the morning light, with Rimuru's thread somewhere inside it. He thought about a night in the Muslin, a long time ago, when his shadow had become a hole, and something with one white ear had started to climb out of it, and Ciel had said *don't name it*.
+
+He did not look at his shadow again for the rest of the morning.
+
 *I see you,* said Rimuru's voice, in the back of his head. *All four. Go slow.* A pause. *And Frieren—*
 
 "I know," said Frieren.

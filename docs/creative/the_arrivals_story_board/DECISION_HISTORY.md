@@ -1099,3 +1099,14 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
    - **AGENT BIRD (Rimuru, the fort's honorary citizen with the bowl)** has been relaying everything he sees, because nobody wanted to peek and scare the birds. Momo and others are in the kitchen. Frieren goes scarlet.
    - *No electricity:* Claude's in-world substitute for the creator's walkie-talkies is **the shadow thread Rimuru put in Mau's shadow at the gate, which nobody ever took out.**
 8. **How Claude pitches ideas** (creator): say them with confidence, "con dos huevos bien puestos". Don't sell them short.
+
+## DH-061 — Analyze read the shadow relay; the shadow is a door; the first shikigami (creator, 2026-10-11)
+
+- **The rule holds: Analyze sees everything Mau sees.** When Rimuru's relay thread entered Mau's shadow (V23 "Mimics Found: Three", retro-inserted), **Analyze read it and built the pattern at once.**
+  - Ciel: *Analyze has it. You can't have it. Not yet.*
+  - It needs a shadow to live in, and Mau's shadow is **a door** (where the wheel sleeps; V14 "Don't Name It"; the plaza). So it joins the pile of patterns missing a requirement, alongside Ten Shadows (missing a shadow medium and shikigami).
+- **Rimuru's shadows are his own**, from Tensura (first used in V23; the idea is in the creator's letter §4).
+- **Ten Shadows rule: tame before summoning.** Mau must subdue each shikigami before he can call it.
+  - **The first is the malformed divine dog from V14** (black, one white ear), the one Ciel told him not to name. With **Yuka** (Zen'in blood; the Ten Shadows per the creator; Keishoken in *Modulo* ch. 1, so show both), Mau faces it properly, subdues it, and **finally names it**.
+- **"Teachers":** Gojo teaches the eyes (not looking). Yuka teaches the shadows (not opening the wrong door). Later, Mau's mastered shadow links into Rimuru's network: he goes from the one they have to watch to part of the watch.
+- This also answers Tsurugi: they didn't bring Yuka because they loved her more, but for what she carries for Mau.

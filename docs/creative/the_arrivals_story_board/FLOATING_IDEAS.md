@@ -213,3 +213,10 @@ The creator, reading V22's second tea, asked for it and then gave the shape. **P
 - *Claude's proposal:* Rem is the person in the house who has done what Mau does, throwing herself in front of someone, and has lived with what it cost the one left behind. Ram said Rem got careful "because she'd done something once she was sorry for" (V23).
 - She is the right person to talk to Mau **before** the door, in S4's close or early S5.
 - S3 basis: Rem was one of those who went looking for Mau in the memory crisis, with Kaneki.
+- **Creator clarification:** the problem is the asymmetry. They coexist. Mau kept a room for her, but Rem only behaves as his caretaker, while Mau already counts her as family. The bond has to go both ways.
+- *Claude's proposal (pending):*
+  - **The reversal.** Rem always has a teapot in her hands when the room is full (V22 "Moving Day, Round Two"). Mau takes it from her and pours for her: the first time anyone in the house serves her.
+  - **She sees what nobody else can.** She once loved a boy who kept throwing himself at the worst nights for other people and came back from them with a look nobody could explain. When she learns what the Trial was, she recognizes that look on Mau. Basis: Re:Zero canon; it doesn't need Subaru to be here.
+  - **The question she has never asked:** why he kept a room, for a whole season, for a maid who was only passing through. Mau: "You weren't passing through. You were looking for somewhere to stop being careful."
+  - **Keep the pencil.** "That's why pencil is fine" is her line; don't turn ink into a payoff that undoes it.
+  - **Placement:** V25, so it is built before the door (S4's close / S5).

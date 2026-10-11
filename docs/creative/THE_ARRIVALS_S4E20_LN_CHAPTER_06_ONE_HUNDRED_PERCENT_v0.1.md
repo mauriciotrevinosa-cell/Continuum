@@ -36,6 +36,8 @@ By lunch, it had happened four more times.
 
 Rem told Himmel, who had struck a pose in the doorway of the kitchen, that his columns at the gate were very heroic and that she had noticed he walked past them three times a day to look at them, and that she would happily paint a small portrait of him on one, if he'd like, so he could look at himself directly and save time. Himmel was so delighted by the idea that it took him a full minute to realize he was being teased, and then he was even more delighted.
 
+She told Vamola, who was on her fourth grey brick from the first box of gate rations and had declared them excellent, which had made Umaru stop speaking to her for a day, that she was the only person in two worlds who liked them, and that Rem would make her a fifth out of mud and see if she noticed. Vamola considered this seriously, and said she would probably notice, but would eat it anyway, to be polite.
+
 She told Milim, who had broken another cup, that she had moved all the cups in the house to a shelf exactly one inch higher than Milim could reach without flying, and that if Milim flew in the kitchen she would be served her dinner on a plate, in the fort, by Umaru, with a speech.
 
 She told Fern, who was writing in the ledger, that the ledger was the only thing in the house with good posture, and Fern looked up, startled, and went pink, and then, slowly, *laughed*, which Fern did not do at the long table.

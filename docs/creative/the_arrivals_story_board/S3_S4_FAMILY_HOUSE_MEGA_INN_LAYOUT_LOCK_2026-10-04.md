@@ -277,14 +277,14 @@ Creator direction while reading V14. The temporary cluster is a **mock-up of the
   - **Kessoku (Kita, Nijika, Ryo):** Milim's old room at the end of the east corridor, across from Yuta and Maki and one door down from Bocchi's thick wall. In-world, they were forgotten for three evenings ("We assumed we lived in the music room").
   - **Mikasa and Eren:** Mikasa's two-exit room has bunk beds, with Eren on the top bunk. No relationship yet (creator).
   - **Mai** next to Yuta and Maki.
-  - **Momo** at the top of the back stair straight down to the kitchen. **Seiko** beside her, through a thin wall at Seiko's request.
+  - **Momo and Vamola** at the top of the back stair, straight down to the kitchen. **Seiko** is beside them, through a thin wall at Seiko's request. *(Vamola was missing from this plan until 2026-10-10. The creator "always assumed she stayed stuck with Momo" (DH-054).)*
   - **Okarun** across the landing from Momo; **Turbo Granny** on his windowsill ("a separate address").
   - **Marin and Wakana** (a couple) above the workshop.
   - **Kaneki and Aira** past Rem's turn, Aira beside the cellar stair. The last three arrivals (G5) end up together around the turn.
   - **Downstairs:** Maomao's room beside the medical room, **with Jinshi's bed in it** (she resists for one evening, then draws it herself, as far away as possible, marked *temporary*). **Diablo** gets a real small room beside Rimuru's office. **Senku** sleeps by his workroom.
   - **"Everybody moved one" (DH-045, supersedes the placements above where they differ).** The final upstairs, from the east end:
     - **North side:** Ori and Milim (door into the east end); Fern (Milim's old room, two doors from Frieren); Stark (dotted wall); Umaru and Suika, then **a door**, then Coco, Tetia, Agott and Richeh's bed (Agott: "Six is too many." / "A door that closes."); *Umaru's Door, Mark Two* is crossed out as **BRIDGE (RETIRED)**, "six steps"; Qifrey, beside Anko and Nazuna, unmeasured ("Close enough"); Anko and Nazuna (unchanged); Okarun; Rem at the turn; Kaneki; Aira; Mau's room with no name (dotted).
-    - **South side:** Yuta and Maki (Bocchi's old room, beside the east end); Mai; Bocchi, **directly across from Umaru's door** (small, private stair to the music room); Kita, Nijika and Ryo (through a wall with a door Bocchi can open or close); main stair; Mikasa and Eren; Momo (across from Okarun); Seiko; Himmel; the five; Marin and Wakana.
+    - **South side:** Yuta and Maki (Bocchi's old room, beside the east end); Mai; Bocchi, **directly across from Umaru's door** (small, private stair to the music room); Kita, Nijika and Ryo (through a wall with a door Bocchi can open or close); main stair; Mikasa and Eren; Momo and Vamola (across from Okarun); Seiko; Himmel; the five; Marin and Wakana.
     - **The four founders share one stretch of corridor** (pack rule).
     - **Mau to Bocchi:** "It's a couple more steps... If anything makes you jump, you've got Kita right there. And I come running." / "Every time."
   - **Residency rule (creator, 2026-10-09):** everyone from G1–G5, through Rem and Kaneki, lives in the Muslin and has a room on the plan. Eren lives there too. The only ones who don't live there yet are the witches.

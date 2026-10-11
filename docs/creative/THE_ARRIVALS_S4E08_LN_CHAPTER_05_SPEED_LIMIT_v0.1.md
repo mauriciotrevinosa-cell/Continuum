@@ -166,6 +166,8 @@ A little way up the slope, Aira stood with her arms folded and her chin up and w
 
 Then she walked to the nearest abandoned tray, picked it up, carried it to the top of the slope, sat down on it in her white coat with the fur collar, and pushed off.
 
+Vamola went down right behind her. She had already been down eleven times, on her stomach, head first, which broke at least three of Fern's rules, and nobody had yet managed to catch her at the bottom to say so.
+
 She went down the slope at a speed that was, very precisely, the speed of the fastest child. Not one inch faster. She did it with perfect posture and an expression of total disdain all the way down, and went into the hay bales without a sound, and came out the other side with hay in her fur collar.
 
 She stood up, and brushed herself off, and walked past Momo and Okarun lying in the snow.

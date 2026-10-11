@@ -150,7 +150,7 @@ Mau put down his spoon.
 
 "Here," he said.
 
-Ori said it, across the table. Then Bocchi, very quietly. Then Umaru, with her mouth full. Then all of them, down the long table, one after another, raggedly, the way a roll gets called in a school where nobody takes the roll seriously. It reached Seiko in her armchair at the far end, who said nothing and lifted her fan, and that counted.
+Ori said it, across the table. Then Bocchi, very quietly. Then Umaru, with her mouth full. Then Vamola, from Momo's elbow, whose mouth was also full. Then all of them, down the long table, one after another, raggedly, the way a roll gets called in a school where nobody takes the roll seriously. It reached Seiko in her armchair at the far end, who said nothing and lifted her fan, and that counted.
 
 Fern did not write it in the ledger.
 

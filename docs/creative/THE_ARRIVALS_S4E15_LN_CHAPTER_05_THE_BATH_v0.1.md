@@ -147,7 +147,7 @@ She did not swim; rule three. She simply lay back with her arms out and her hair
 
 "I'm warm," said Frieren. "For the first time since the autumn, I'm warm all the way through." She did not open her eyes. "It's very distracting."
 
-Satella sat on the rocks at the edge, in a towel, with her feet in the water, for a long time. She did not get in. She sat and watched all of them, Fern and Frieren and Maomao, Kessoku in a row with their chins on the water, Marin teaching Coco to put a folded towel on her head, Momo and Aira and Seiko, the witches. She held her knees.
+Satella sat on the rocks at the edge, in a towel, with her feet in the water, for a long time. She did not get in. She sat and watched all of them, Fern and Frieren and Maomao, Kessoku in a row with their chins on the water, Marin teaching Coco to put a folded towel on her head, Momo and Vamola and Aira and Seiko, the witches. She held her knees.
 
 Then Echidna, without a word, held out her hand.
 

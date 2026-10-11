@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 20  
 **Reading order:** 24  
-**Continuity state:** Days 9-10 | everyone stands at the door and looks through it | Eren: 'I'd rather be the one who got in line' | Bocchi closes the case empty | Kaneki tells Eren a name | Coco and Qifrey | Milim, Diablo, Rimuru, Aira, Rem, the cooper, Lise, the witches: all stay
+**Continuity state:** Days 9-10 | everyone stands at the door and looks through it | Eren: 'I'd rather be the one who got in line' | Bocchi closes the case empty | Kaneki tells Eren a name | Coco and Qifrey | Milim, Diablo, Rimuru, Aira, Vamola, Rem, the cooper, Lise, the witches: all stay
 
 On the last two days of the window, everyone considered it.
 
@@ -147,6 +147,8 @@ Diablo did not go for his terms either. When Anko, with professional curiosity, 
 Rimuru went for his. He went with Ciel, at noon on the ninth day, into Arrival House, and came out an hour later and sat on the step for a long time. Mau, crossing the plaza, saw him there and did not go over. Later, on the roof, Rimuru said only: "They'll be all right. Tempest. They have each other. They have Benimaru." He looked out at the dark. "There's nobody there who knows what loops cost. There's somebody here who does." He did not say anything else, and Mau did not ask.
 
 Aira had said *ask me in a week*, on the second day of the window. On the evening of the ninth, at dinner, without anyone asking, she put down her spoon and announced to the whole table: "Staying." Then she picked her spoon up again and went on eating. Nobody said anything, because she would have hated it.
+
+Vamola was never asked, and never said. On the first morning of the window she had looked at Momo across the kitchen, and Momo had looked back, and that had been the whole conversation. She went into the terms room on the sixth day with Momo beside her, came out after about a minute, and asked what was for lunch.
 
 Rem had asked, in front of everyone, whether a petition could concern the dead. The Goddess had said *some*. Rem went for her terms on the eighth day with Ori as her witness, and came out very quiet. That evening she sat in the fort between Ori and Coco and did not say anything. When Ori asked, gently, she said only: "Not this time." Then she poured the tea. She did not cry. She was staying. She had decided that a long time ago, on a night with a toll sign and a cup on a hook, without deciding anything at all.
 

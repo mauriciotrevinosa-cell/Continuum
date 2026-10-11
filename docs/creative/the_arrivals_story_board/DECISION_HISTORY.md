@@ -916,3 +916,25 @@ Asked where the story stands, Claude proposed that S4's close is the end of the 
 ## DH-053 — S4's six months is a push, not a cap (creator, 2026-10-10)
 
 Claude noted that V22–V23 ran about half a month ahead of the season plan, which leaves about 50 days for V24–V26 if S4 must end at six months. **The creator chose to extend:** "la historia dicta... nos podemos extender, recuerda nunca comprimir." The six-month figure was there to get S4 moving after the story reached two and a half years. Day pacing follows the story. Never squeeze scenes to fit a calendar.
+
+## DH-054 — Vamola restored; the Mau and Frieren intimacy lock; the presence audit (creator, 2026-10-10)
+
+**Vamola.** The audit (`S4_PRESENCE_AND_RELATIONSHIP_AUDIT_2026-10-10.md`) found **zero mentions of Vamola in all 109 S4 chapters**. She was also missing from the real-house plan (DH-045). The creator's reaction: "queeeee vamola se nos desapareció, corrígelo." He also said: "siempre asumí que se quedaba pegada con Momo."
+- **Room:** *MOMO / VAMOLA*, at the top of the back stair, with Seiko through the thin wall. The layout lock §10.3 is fixed.
+- **Retrofitted, 11 chapters:**
+  - V20 "Here" (in the fort crowd) and "Considering" (she stays: a look across the kitchen with Momo; "asked what was for lunch").
+  - V21 "Day Twelve" (*Here*, with her mouth full) and "Speed Limit" (eleven runs, head first).
+  - V22 "Nokotan" (crackers, "deep scientific interest"), "Raising the Frame", "The Bath", and "Moving Day, Round Two" (her name inked with Momo's; "is the ink edible?").
+  - V23 "Arrival House, Again" (under one blanket with Momo) and "One Hundred Percent" (she likes the gate ration bricks; Rem's mud brick).
+- **Character, from S3:** exhausted and alert, eats before explanations, notices things, strong, carries sandbags, and stays at Momo's elbow.
+
+**Mau and Frieren: no sex, and no fan service** (creator). At two and a half years they have not "done the fruity fantastic".
+- For Frieren two years is a sneeze, and she has not had those desires. Maybe someday, but not now.
+- The idea is "muy fan service", and the creator doesn't want it.
+- Their intimacy stays tender and slow: shoulders, the cold foot, the reading chair, the temple kiss, sleeping side by side.
+- *To check with the creator:* the family-bath scene in V22 "The Bath".
+
+**The presence audit:**
+- Biggest gaps: Mai, the five (70 chapters), Turbo Granny, Nazuna, Aira, Witch Hat in V23 (a risk before Coco's mother in V25), Kaneki (no mention in V23), Suika, Diablo, and Ori fading.
+- Stalled pairs: Marin and Wakana; Anko and Nazuna; Maomao and Jinshi (slow).
+- **The fix is presence, not protagonism:** one real beat each per volume, starting in V24.

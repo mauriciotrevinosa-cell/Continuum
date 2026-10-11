@@ -4,7 +4,7 @@
 **Volume:** 24  
 **Season:** 4  
 **Volume title:** **Teachers**  
-**Chapter count:** 21
+**Chapter count:** 24
 
 | # | Chapter |
 |---:|---|
@@ -29,3 +29,6 @@
 | 19 | Mau? Mau? |
 | 20 | A Door, Not a Shadow |
 | 21 | Ear |
+| 22 | Looking at the Walls |
+| 23 | Everything at Once |
+| 24 | Borrow Mine |

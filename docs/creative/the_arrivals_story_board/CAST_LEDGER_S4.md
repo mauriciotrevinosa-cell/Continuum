@@ -59,7 +59,7 @@
   - Coin: held.
 - **Fern.** The ledger and the List. Practical and maternal. Rooms two doors from Frieren; Stark beside her (sliding panel). Coin: held.
 - **Stark.** Gate-forged hand axe; in front of Fern. Coin: held.
-- **Rimuru.** Brother and peer.
+- **Rimuru.** Brother and peer. Fort codename **AGENT BIRD** (the honorary citizen with the bowl).
   - Office downstairs; sleeps in the loft over Mau and Frieren's closet, which now has a door latching from their side.
   - Ciel; the shadow relay at the gate. Foundation was single-use and is spent.
   - "One empty room, always."
@@ -108,7 +108,7 @@
 - **Turbo Granny.** On Okarun's sill, "barely acceptable". **⚠**
 - **Nazuna.** Loft over Anko's bed. Vampire; sleeps by day; flies. Loves Ko (not here). **⚠ absent since V21 #16.**
 - **Jinshi.** Arrival House key every morning; the register girl and staff. *Temporary.*
-- **Diablo.** Small room by Rimuru's office. Kufufufu. Opens doors and locks. **⚠ silent: give him a real moment.**
+- **Diablo.** Small room by Rimuru's office. Kufufufu. **V24: asks to stop being Rimuru's assistant and become everyone's** (DH-060): "If you betray Rimuru-sama, or make him cry, I will not hesitate to kill you." Helps Milim as Guardian.
 - **Eren.** Top bunk; exits before rooms; walks the lime route. Not yet with Mikasa. Coin: Armin proposed; the house waits.
 - **Mikasa.** Two-exit room with bunks; gate-forged blades; first in. Coin: Armin (wait).
 - **Seiko, Momo, Okarun:** see Ring One.

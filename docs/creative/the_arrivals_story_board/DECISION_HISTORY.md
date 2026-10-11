@@ -1075,3 +1075,27 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
 - **Shoko, Anko and Diablo** are a combination the creator calls gold: two older-sister or mother energies and an overprotective demon around Mau.
 
 **Tone.** It is fine for coping mechanisms to be jokes sometimes, as long as the trauma itself is never the joke.
+
+## DH-060 — V24 locks: the ocean, the light, Gojo's ceiling, Diablo's meeting, AGENT BIRD (creator, 2026-10-11)
+
+1. **"Wait, that is mine" and the week of signs: Claude invents freely** ("invente, Román, invente"). That includes how the fight is stopped.
+2. **The eyes.** *An ocean* is symbolic, not literal. Gojo's eyes are blue like the sky. **Mau's are blue like the ocean: darker, and just as beautiful.**
+3. **No pattern counts in prose.** The 143 figure from S3 is out of date. The surge is *everything*: the finished, the incomplete, and **what isn't formed at all, which even the story doesn't understand.**
+   - Show the unformed as **currents of light** and shapes without names. Leave room for imagination; never explain it.
+4. **Shoko scolds Gojo through her tears.** He arrived somewhere new, and the first thing he did was fight.
+5. **Gojo evolves too.**
+   - The creator is "999% sure" Gojo never reached the full potential of Limitless, so this world opens it up for him.
+   - **Sukuna's side evolves as well.** Not Sukuna in person, but **a group** gathering to defeat them. Sukuna understands that this world allows things that weren't possible before.
+   - So far he has only sacrificed **the pathway he built with Mahoraga**, and nothing stops him rebuilding it.
+   - **Every ceiling is higher now.**
+6. **Diablo's meeting.** Diablo has grown fond of the house because it made Rimuru happier.
+   - He calls an important meeting and asks Rimuru to **release him from being his assistant**. Everyone: "WHAT."
+   - Diablo: he wants to be **everyone's assistant**. He will help Milim as Guardian, help everyone, and be part of the house. Everyone accepts.
+   - Then: "**But if you betray Rimuru-sama, or make him cry, I will not hesitate to kill you.**"
+7. **Frieren and the ocean** (the creator's scene).
+   - In the common room, not their room, Mau holds her while she reads on top of him. She asks to test a small spell near his eyes, to check they don't hurt him. They don't.
+   - She says: "It's beautiful." Mau, calling back: "More than me?" Frieren: "No. Because they're yours. You're the most beautiful thing."
+   - She turns round, and **everyone is there.** The fort was holding a meeting about "the lovebirds outside their nest".
+   - **AGENT BIRD (Rimuru, the fort's honorary citizen with the bowl)** has been relaying everything he sees, because nobody wanted to peek and scare the birds. Momo and others are in the kitchen. Frieren goes scarlet.
+   - *No electricity:* Claude's in-world substitute for the creator's walkie-talkies is **the shadow thread Rimuru put in Mau's shadow at the gate, which nobody ever took out.**
+8. **How Claude pitches ideas** (creator): say them with confidence, "con dos huevos bien puestos". Don't sell them short.

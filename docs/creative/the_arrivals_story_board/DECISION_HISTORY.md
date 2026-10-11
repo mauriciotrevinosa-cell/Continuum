@@ -1126,3 +1126,19 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
 
 **Frieren names the dog.** Mau doesn't. In V14, Ciel told him *don't name it*, and Frieren was there. When the dog is finally subdued (with Yuka's help), Frieren looks at it, and **she** names it. The name is chosen at drafting, in Frieren's style: plain, odd, and from her own long memory.
 - **The callback (creator).** Mau says he likes the name, the way she named him once. Canon S1E1 "Another Sky": she read *MAU T* on the back of a jersey (number 5) and said "Maybe your name is Mau." He said "Mau", and then: "**I like it.**" When Frieren names the dog, Mau answers with those same words.
+
+## DH-063 — Unknown summons; the halt after the Six Eyes; the V24 order (2026-10-11)
+
+**Creator.**
+- A summon through Mau's shadow risks pulling **not only Mahoraga but anything they don't yet know.**
+- **After the Six Eyes catastrophe, they stop**, because they have seen the danger: no new requirement work, no new taming.
+
+**Claude's order for V24** (so the dog is tamed *before* the catastrophe and the halt lands *after* it):
+1. **Gojo** (Yuta's coin) arrives. The scar. The fight, stopped by Rika or Maki.
+2. **Dating Day**, which falls inside the week of signs. The dates run alongside the eerie signs (Mau counts the embers on his date with Frieren).
+3. **Yuka** (Maki's coin) arrives. Shadow teaching. **The taming of the V14 dog** wears Mau down and makes the walls tremble. **Frieren names it.** "I like it."
+4. **The Six Eyes catastrophe.** The guardrails are already strained by the fight and the taming, and the Six Eyes read them, so everything surges. "Borrow mine." The new guardrails.
+5. **Shoko** (Seiko's coin) arrives into the aftermath. **Everything stops.** The traumas. Diablo's meeting. "More beautiful than me?" Higher ceilings.
+6. Things that come back (the devil, titans, Eren can age) close V24 or open V25, as the story decides.
+
+The coins follow the house's rule of one at a time, with time between: Gojo, then Yuka, then Shoko.

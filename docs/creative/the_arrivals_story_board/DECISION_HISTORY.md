@@ -1169,3 +1169,49 @@ The creator invited changes to chapters he has already read ("no sientas que por
   - V20 "Considering": Mai never went to her terms. "You're here."
   - V21 "Five Beds, No Walls": Hakari's foot stays against Karane's, and Karane doesn't move hers away (DH-055).
 - **Renumbering:** V21 old #5–#11 are now #6–#12, and old #12–#32 are now #14–#34. S4E08's files ch02–ch09 became ch03–ch10. V21 now has 34 chapters, and S4 has 111 reader-order chapters. Older DH entries keep the old V21 numbers.
+
+## DH-066 — V24 as written: Gojo's door, Sukuna's group, the breathers, and what came back (Claude, 2026-10-11)
+
+The creator: "invente, Román, invente... llévalo a que la escena sea arte", with the guardrail "que no sucedan cosas que no tengan sentido". V24 now has **38 chapters (S4E21–S4E26), Days 131–162.** These are the new canon facts beyond DH-055–DH-065.
+
+**S4E25 "The Doctor" (#25–30)**
+- **Shoko** arrives within the hour after the bell, from four days after the autopsy. She scolds Gojo through her tears. "There's no cigarettes here. I checked." She keeps her one cigarette for something worth it.
+- **"Everything stops"** (Fern, Day 146): no taming, no shikigami, only Gojo's not-looking lessons, the gate closed. The witches are told they can sit down.
+- **The drool panic** (Day 149): "It's not blood." Then Frieren and Himmel at dawn between the columns ("if I don't go in front, who will"; "the people at the back"), and she leans on him for the first time.
+- **Diablo** becomes everyone's assistant (Day 150), with the threat (DH-060), Ram's "Acceptable", and the sash.
+- **AGENT BIRD** (Day 151), exactly as DH-060 §7.
+- **Gojo's door** (Day 152). A marble of Blue comes, because Continuum gives more as the threat grows. He looks *past* the edge of Limitless for the first time in his life: a direction, never locked, because the strongest never looked for doors. Shoko: "I'm not having four days again." Her shoulder against his.
+- **Sukuna's group, not Sukuna** (DH-060 §5, "no literal").
+  - An old watchtower far east, a fire, and **an empty seat**. The one who keeps the fire (a pale hood, white breath) speaks for him.
+  - He felt his shrine open "like a hand he had lost". He spent one road (the Mahoraga pathway) against the boy, and nothing stops him building it again. The ceilings are higher here, for him too. "Let them grow." "He wants his rematch."
+  - **The gathering feeds on fear of Otherworlders** (MAJOR_ARCS), which his own city attack created. A guard captain from that city doesn't know whose seat it is.
+  - There are also three lonely arrivals who were never found.
+
+**S4E26 "Settling In" (#31–38)**
+- **Yuka** sticks to Mau like glue because she blames herself: she argued for the taming, and the taming tired the walls.
+  - Mai sits with her in the corridor. Mai and Mau's construction thread continues: "Yours was a lot of bullets." His cost log says *Day 145. Everything. Hands: still shaking. Helped: everyone.* / "That's the right count."
+  - Maki's warning is that Frieren would **step back**, not fight. Milim holds Frieren's glowing wrist in the yard.
+  - Frieren absolves Yuka ("If you hadn't come, he would have done it alone... This one isn't yours").
+  - Umaru's registry: **LITTLE SISTER (TELEPORT DIVISION), probationary.**
+- **The blindfold as prescription.** Shoko prescribes four hours a day, because the Six Eyes tire their owner (Gojo's own reason), and the fort sews it in the exact right black.
+  - Mau walks the street and the house blind, from memory: he built the house.
+  - Suika lends the watermelon, which in her canon hid her bad eyes ("to make the world soft for a bit").
+  - On the roof, Gojo says "I'm going to be around." The word is never said. Yuta: "You never said that to us." / "I'm sorry."
+- **The committee** (Shoko, Anko, Diablo; never named) and **the rota**.
+  - Anko came over with nine cigarettes. She lied to Gojo; her last is saved in a tin. This keeps S3E8, where Anko smokes, consistent with "there's no cigarettes here".
+  - Anko: "I had my hand in my coat."
+- **Kaneki and Shoko.** "The last doctor who had me on a table put someone else's organs in me." / "I only open the dead."
+  - Kaneki saw **something red, his kind, come out of Mau's back for a second in the field** (grounded in S3's "familiar biological sign").
+  - "Find your coffee." Mau makes **the first flower since the bell.**
+- **Coco** draws the outer lattice in ink, and it works on stone, glass and ice, but not on a person.
+  - Echidna names the wheel as the one thing in the house that learns from inside. Qifrey: "No."
+  - Coco writes *Not until Fern says. And not unless he wants to. Find another way first.* This seeds V25's controlled adaptation without spending it.
+- **Ori** counted his breaths for sixteen nights. Her hair flickered once (Day 160) and Shoko learns what she is.
+  - Frieren at the river: "You'd have had me. And I'd have had you."
+  - At the reset hour: "One." / "**Two.**" / "Still here." Milim, asleep: "Three."
+- **"Some things start"** (Fern, Day 162, under "Everything stops", which she does not cross out). The gate reopens; the blindfold drops to two hours; Mau may lift **one end**; still no taming; the rota stays.
+
+**Volume boundary.** "Things that come back" (DH-063 §6) **open V25**; they do not close V24.
+- V24 ends on Anko's SIGHTINGS **page four**: *Low woods. Tracks. The same walk. Bigger. Smells of wet paper. It came back.*
+- **Basis:** a devil is made of fear, and the bell's second sun was seen from every road and river town. The fear of the settlement grew, so the devil came back larger.
+- V25 runs: the devil returns; titans; Eren can age; Mikasa's turn; then Coco's mother after real room (DH-064).

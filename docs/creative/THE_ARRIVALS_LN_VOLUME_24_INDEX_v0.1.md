@@ -4,7 +4,7 @@
 **Volume:** 24  
 **Season:** 4  
 **Volume title:** **Teachers**  
-**Chapter count:** 30
+**Chapter count:** 38
 
 | # | Chapter |
 |---:|---|
@@ -38,3 +38,11 @@
 | 28 | Everyone's Assistant |
 | 29 | More Beautiful Than Me? |
 | 30 | Higher Ceilings |
+| 31 | Glue |
+| 32 | Are You With the Elf? |
+| 33 | Gojo and His Apprentice |
+| 34 | Two Unlit Cigarettes |
+| 35 | Terrible Coffee |
+| 36 | Not Until Fern Says |
+| 37 | Two |
+| 38 | Some Things Start |

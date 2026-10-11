@@ -4,7 +4,13 @@
 **Volume:** 23  
 **Season:** 4  
 **Volume title:** **What His Coin Bought**  
-**Chapter count:** 0
+**Chapter count:** 6
 
 | # | Chapter |
 |---:|---|
+| 1 | The Coin That Stayed |
+| 2 | The Gate |
+| 3 | The Shop |
+| 4 | Rules of the Gate |
+| 5 | First Run |
+| 6 | Steel Doesn't Work |

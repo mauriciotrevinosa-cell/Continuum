@@ -4,7 +4,7 @@
 **Volume:** 23  
 **Season:** 4  
 **Volume title:** **What His Coin Bought**  
-**Chapter count:** 11
+**Chapter count:** 16
 
 | # | Chapter |
 |---:|---|
@@ -19,3 +19,8 @@
 | 9 | She Has a Subject |
 | 10 | By Decree of the Queen |
 | 11 | A Room for Someone |
+| 12 | Pallets |
+| 13 | The Song in the Book |
+| 14 | Something Small |
+| 15 | The Road South |
+| 16 | An Empty Cottage |

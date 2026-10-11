@@ -1233,4 +1233,8 @@ The creator, reading V22, gave the shape of Mau's conversation with the Goddess.
   - The fort: Ori on Mau, Frieren holding them both; then Milim.
 - **S4 seed:** Mau tells Echidna about the door, and she remembers Nokotan's deer-shaped hole.
 - **Open:** "a day of Mau with his daughters". Who the second daughter is: ask the creator.
+- **Later the same day (creator):**
+  - **The door is leverage.** When the time comes, Mau uses it to force the Goddess's hand. He asks for the whole settlement ("don't get greedy") and gets only Frieren and Ori: she won't harm them directly, but the world still can. Claude's grounding (pending): she runs on consent, so she can't carry him through.
+  - **The second daughter question is answered.** The day is Mau, Ori and Frieren. The fort's consensus follows, and Mau signs YOU OWE THE FORT A DAY (FOR US).
+  - **Mau and Rem** is flagged as missing from S4. Claude proposes Rem as the one who has done what Mau does, to talk to him before the door.
 

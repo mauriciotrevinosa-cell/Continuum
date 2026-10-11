@@ -194,3 +194,22 @@ The creator, reading V22's second tea, asked for it and then gave the shape. **P
 - **The shape is a trap he has seen before.** The door question rebuilds the S2 false binary (MAJOR_ARCS: "Frieren dies, or you do"), now with Ori. S2's answer was the house searching for a third option. S5's engine is the same, but this time he tells them first. **Nokotan's deer-shaped hole is the first clue that some doors are not hers.**
 - **"Interesting"** is her S2 fascination with the anomaly, said aloud for the first time.
 - **"I'm telling you first" pays off DH-028.** At the tidepools Mau promised Ori "you first, before I go" and broke it in V19 with a note. In V20 Ori told him "Tell him first. Before." In S5 he keeps the promise.
+
+**The twist: the door is leverage (creator, 2026-10-11, later the same day).**
+- The door does lead somewhere. But when the moment comes, **Mau uses the door itself as leverage to force the Goddess's hand.**
+- He tries to protect the whole settlement first. She tells him not to get greedy.
+- She will spare only **Frieren and Ori**: she will not threaten them or kill them herself. **The world can still hurt them.** She just cannot harm them directly.
+
+*Claude's grounding (seconded, pending):*
+- **Why the lever works:** everything the Goddess does runs on consent. Every coin needs the holder's yes, and love both ways (DH-050). She can call him through the door, but she cannot carry him through. She wants to know what happens when he walks through, so his yes is the only thing he has that she needs.
+- **The fine print is the drama:** "not directly" leaves every indirect road open. The vow protects them from her and from nothing else.
+
+**The family day and the fort's contract (creator).**
+- In the house scene, Mau promises Ori a day: him, her and Frieren.
+- Umaru, the sister, finds out. The fort reaches a consensus: they let the three go, and Mau owes the fort a day.
+- He signs a contract: **YOU OWE THE FORT A DAY (FOR US).** It echoes the condition he signed in the ledger (DH-023).
+
+**Mau and Rem (creator noticed).** S4 lacks a real Mau and Rem thread. There is one V23 beat; the creator hasn't read it yet.
+- *Claude's proposal:* Rem is the person in the house who has done what Mau does, throwing herself in front of someone, and has lived with what it cost the one left behind. Ram said Rem got careful "because she'd done something once she was sorry for" (V23).
+- She is the right person to talk to Mau **before** the door, in S4's close or early S5.
+- S3 basis: Rem was one of those who went looking for Mau in the memory crisis, with Kaneki.

@@ -983,3 +983,20 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
    - *Claude's proposal, to confirm:* it is **his own body in its prime, with the stitch scar kept** as the trace of what he did. When Gojo arrives, he sees it, and that is a scene.
 3. **Maki.** The creator always pictured her as **Maki from JJK 0 in look, with her strength from after Mai's death** (the perfected restriction). Registry values (proposals): **Maki about 70%** (body-bound, like Stark), **Mai about 40%** (construction; high cost per use). The creator's question, open: should Maki be nerfed further?
    - *Claude's view:* don't nerf her further. Her limit is not power but what the power cost her. Her perfected body exists *because Mai died*, and **Mai is here, alive.** That is the real material, and the open question is who knows it.
+
+## DH-057 — Yuta's scar and the Gojo fight; Mai may know (creator, 2026-10-11)
+
+**The scar (confirmed).** Yuta keeps Kenjaku's stitch scar, in his own body, in his prime. **Nobody has ever questioned it until Gojo asks**, because it is the same scar Kenjaku wore on Geto's body.
+
+**The fight** (the creator's beat; write it in full, "algo bien hecho que algo a medias"):
+1. Gojo won't listen. **Mau, Yuta and Rimuru against Gojo.**
+2. **A domain clash** between Mau, Yuta and Gojo.
+3. **Comic turn:** it stops. Gojo: "Wait. That is *mine*." ("So you stole all of mine.") Mau remembers having fought him, in the Trial, and is fighting the way he did then.
+4. **Both let go. The guardrails slip.** Gojo's **Red** hits Mau, and **Mau's body turns slime** to take the blow (Rimuru's pattern).
+5. Before they go ballistic, **the wheel appears above Mau**, the way Sukuna once wore it. Mau isn't thinking: **his body is re-running a Trial fight.**
+6. **It is cut off in the middle.** Rika or Maki stops them.
+7. **Aftermath:** Mau's wear is always shown. **Frieren suffers in an intimate moment**, because Mau always throws himself in, and she understands that if he doesn't, who will.
+
+*Systems note (Claude):* the slipped guardrails are the sync limits (DH-041) forced open for a moment by the fight. That is why it is dangerous and why it must be stopped. The world clamps back afterwards, and the cost lands on Mau (and on Gojo).
+
+**Maki and Mai.** No further nerf for Maki. **Mai may know** that she died in the life Maki lived, but it stays untouched until their arc. The sisters split in JJK, so they may never have spoken of it. **Yuta stays out of it** ("le gusta vivir").

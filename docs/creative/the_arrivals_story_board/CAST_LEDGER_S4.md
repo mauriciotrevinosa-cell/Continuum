@@ -95,7 +95,7 @@
 - **Hakari, Karane, Shizuka, Nano, Kusuri** ("the five"). One room with five beds, no walls; the kotatsu.
   - **⚠ absent since V21 #12** (Kusuri less so: hand cream, chemistry with Maomao and Senku).
   - DH-055: no click, inter-girl threads, the coins question. Pin: brought in S1.
-- **Mai.** Construction (sync about 40%; one bullet a day, and it costs her). Alive here, though in Maki's lived life she died. Who knows that is an open question (DH-056). Room beside Yuta and Maki; hovers at the edge of the pack. **⚠ nearly absent from all of S4.** Her natural moment is V24, with Yuka.
+- **Mai.** Construction (sync about 40%; one bullet a day, and it costs her). Alive here, though in Maki's lived life she died. **She may know**, but it stays untouched until their arc; Yuta stays out of it (DH-057). Room beside Yuta and Maki; hovers at the edge of the pack. **⚠ nearly absent from all of S4.** Her natural moment is V24, with Yuka.
 - **Rem.** Room at the turn, **name in pencil**. Agent TEACUP. 100% again; quips. Coin: **spent (Ram)**.
 - **Seika.** STARRY (2); the ugly coat; arms folded at the back. West wing room (on Nijika's floor at first).
 - **Ram.** West wing room beside Rem's turn. Every dinner: crude, barely edible, a disgrace, idiots, except Rem.

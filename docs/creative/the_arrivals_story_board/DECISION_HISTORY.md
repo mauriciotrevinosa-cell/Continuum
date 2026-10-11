@@ -975,3 +975,11 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
 - **After everything in *Modulo*, it is hers again**, and it has to be Yuka who carries it.
 
 **8. Yuka's technique** (source check): Keishoken martial arts with cursed properties (*Modulo* ch. 1). The creator's round 3 still says "Yuka is the Ten Shadows". Reconcile when drafting.
+
+## DH-056 — The bath robes; Yuta's scar; Maki's body (creator, 2026-10-11)
+
+1. **The family bath (V22 "The Bath"): keep it, but nobody is naked.** Rimuru's rule now says to wear a bathing robe in the small bath (thin cotton; Momo sewed twelve). "It's a family bath. It's not a *family bath*." Mau and Frieren wear robes in the scene. **General rule:** bath and water scenes are never written as nudity or titillation (DH-054).
+2. **Yuta.** In the creator's mind, the arrivals came in **the prime of their bodies**, and the scars were never addressed, so **Yuta has them.** That means Kenjaku's stitch scar across his forehead, which in his own story marks the time he wore Gojo's body to fight Sukuna.
+   - *Claude's proposal, to confirm:* it is **his own body in its prime, with the stitch scar kept** as the trace of what he did. When Gojo arrives, he sees it, and that is a scene.
+3. **Maki.** The creator always pictured her as **Maki from JJK 0 in look, with her strength from after Mai's death** (the perfected restriction). Registry values (proposals): **Maki about 70%** (body-bound, like Stark), **Mai about 40%** (construction; high cost per use). The creator's question, open: should Maki be nerfed further?
+   - *Claude's view:* don't nerf her further. Her limit is not power but what the power cost her. Her perfected body exists *because Mai died*, and **Mai is here, alive.** That is the real material, and the open question is who knows it.

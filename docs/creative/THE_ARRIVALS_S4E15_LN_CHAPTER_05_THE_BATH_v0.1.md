@@ -18,7 +18,7 @@ Rimuru built a bath around it.
 
 Not a pool. A bath. He was very particular about the difference, and explained it at breakfast, more than once. The basin, deepened and lined with river stones, smooth ones, each chosen by hand. A low wooden house over half of it, open on the south side, with a washing floor of slatted cedar and wooden stools and wooden buckets, where you washed before you got in. The other half open to the sky, the rocks rising round it, the snow banked up behind, so that you could sit in hot water to your chin and watch the stars. A tall bamboo fence down the middle, from the back wall right out into the water, dividing it in two. And a smaller bath at the far end, in its own little house, with a door that latched from the inside, and a slate by the door with chalk on a string.
 
-"For families," said Rimuru. "Or couples. Or anyone who wants to bathe without the whole settlement. You write your name on the slate for an hour."
+"For families," said Rimuru. "Or couples. Or anyone who wants to bathe without the whole settlement. You write your name on the slate for an hour." He paused. "And you wear a bathing robe in that one. They're on the hooks. Thin cotton. Momo sewed twelve." He looked round the table. "It's a family bath. It's not a *family bath*."
 
 The slate was full by lunchtime on the first day. Nobody admitted to having written on it.
 
@@ -245,9 +245,9 @@ The last hour on the slate was nearly midnight. The lamps in the main bath had g
 
 The little bath had its own small house, and its own small door that latched, and its own small window of Senku's glass that looked out on the snow and the black hills and the stars. The water came into it through a bamboo pipe from the main spring and was very hot.
 
-Mau sat in it to his chest with his back against the stones.
+Mau sat in it to his chest with his back against the stones, in one of Momo's thin cotton bathing robes, which floated up round him like a sail until it got wet enough to sink.
 
-Frieren sat across from him, with her knees drawn up and her chin on them, in the steam. Her hair was pinned up. Her ears were pink.
+Frieren sat across from him in the steam, in her own robe, tied twice at the waist, with her knees drawn up and her chin on them. Her hair was pinned up. Her ears were pink.
 
 For a long time they did not say anything. It was very quiet. The water came out of the bamboo pipe with a small continuous sound, and steam went up past the little window, and outside the stars were very bright over the snow.
 

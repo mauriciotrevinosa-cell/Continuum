@@ -6,6 +6,8 @@
 **Reading order:** 25  
 **Continuity state:** Day 39 | Ciel adds 'busy' and won't explain | the house speculates; Rimuru keeps her secret | Frieren asks Ciel directly: not about him, 'for once' | Fern: 'Tomorrow is Day Forty' | at the hour: 'It is going well.'
 
+*When: Day 39, the same day. While four people at breakfast tried not to look at each other, Ciel added a word.*
+
 On the morning of the thirty-ninth day, after the chocolate and the reckoning, Rimuru cleared his throat at the cold-hearth end of the table, and everyone turned.
 
 "She says," said Rimuru, "*looked, quiet.*"

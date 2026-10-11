@@ -6,6 +6,8 @@
 **Reading order:** 23  
 **Continuity state:** Night of Day 38 | eleven minutes | Stark: 'You moved your bed'; he was never asleep | Mau: 'You raised the dose' | the bracelet, forty times a day | Frieren: 'I don't want to wait a hundred years' | 'I'm older than you' / she kisses him to stop him | Maomao: 'that batch also contained an aphrodisiac' | four chairs move; 'I'm monitoring you'
 
+*When: The night of Day 38, the same evening.*
+
 Nothing happened for eleven minutes.
 
 Maomao knew it would be eleven minutes, because she had made the recipe before, and she had written the onset time in her notebook in another world and again in this one. She drank her tea and watched the four of them at the other end of the long table and waited.

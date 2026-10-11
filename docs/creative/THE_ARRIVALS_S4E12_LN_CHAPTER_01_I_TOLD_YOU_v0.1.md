@@ -6,6 +6,8 @@
 **Reading order:** 1  
 **Continuity state:** Days 48-50 | after the voice, the house stays close | a hundred deer cross the line the huge thing could not | a girl with antlers in a school uniform, a paper bag | Yuta sees Mau looking: 'I told you they were up to something.' Yuta says nothing, for the first time | 'Are you the human who talks to deer?' | 'I'm Noko. Most people call me Nokotan. I think I'm lost.'
 
+*When: Days 48 to 50, the first days after the voice said the world was evolving. It was still winter, and the house stayed close.*
+
 For two days after the voice, the house was very careful.
 
 Nobody said so. But on the forty-eighth day and the forty-ninth, people did not go far. The Searchers kept to the short routes. Anko walked the edge three times a night instead of once and came back each time with nothing in her notebook. Mikasa stood at the north end of the plaza for an hour in the afternoon, looking at the road, until Eren came and stood beside her and they looked at it together. Himmel watched the hills. At breakfast, when Rimuru said *looked, quiet*, the whole table let out a breath it did not know it had been holding.

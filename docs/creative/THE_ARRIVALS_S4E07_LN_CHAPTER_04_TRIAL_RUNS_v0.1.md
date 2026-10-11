@@ -6,6 +6,8 @@
 **Reading order:** 8  
 **Continuity state:** Day 24 | Wakana needs to know about the walls | Ori: Milim doesn't kick, she floats; the red ribbon, learned from Frieren | Fern: 'The trial is proceeding' | Mau sees Fern move her bed a handspan across the chalk line | 'Pencil. Still pencil.' / 'But I'll leave the wall dotted.'
 
+*When: Day 24, the third week. The trial runs had been going on every night since the autumn, behind the walls, while everything in the chapters before this happened by day.*
+
 The trial runs had begun on a Saturday in the autumn, the week the plan for the real house was cut, and nobody had mentioned them since.
 
 That was the arrangement. In the Muslin, walls were hooks and cloth, and moving a wall meant moving two hooks, and two hooks had moved. Fern's room and Stark's, side by side near the top of the main corridor, had become one room with a dotted line down the middle of the floor in chalk, where the wall used to be. And at the east end, Ori's bay, the one beside Mau and Frieren's with the door through the wall, had acquired a second bed and a dragon.

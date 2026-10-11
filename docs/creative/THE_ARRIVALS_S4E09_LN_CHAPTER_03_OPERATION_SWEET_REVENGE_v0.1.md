@@ -6,6 +6,8 @@
 **Reading order:** 22  
 **Continuity state:** Day 38 and the three weeks before | four chocolates on a plate | the notebook: two debts; the cocoa (Jinshi); the cover (hand cream; Senku voluntary, Kusuri reluctant); the recipe, half the storm dose, no aphrodisiac; the seating (the Ministry, in crayon) | Mau eats first; all four
 
+*When: Day 38, and the three weeks before it. This ran underneath everything since the seventeenth day: the notebook, the cocoa, the hand cream, the seating plan. All of it was prepared in the same weeks as the codenames, the snow, the song and the war.*
+
 On the evening of the thirty-eighth day, after dinner, Maomao came out of the kitchen carrying a plate.
 
 It was a small plate. On it were four chocolates. Small, dark, square, each one dusted very lightly with something pale, each one exactly the same. She carried it down the length of the long table without hurrying, past the fort and the bread and Senku's QUIET tally, and set it down on the table between Frieren and Fern, who were sitting side by side, with Mau on Frieren's other side and Stark on Fern's.

@@ -6,6 +6,8 @@
 **Reading order:** 16  
 **Continuity state:** Night of Day 32 | Nazuna, Anko and Kaneki awake on purpose | Kaneki's coffee like a funeral | walking the edge: huge tracks from the north turn forty paces from the last cottage | Anko: the Goddess's protection, seen; it does not cover the road | Kaneki: 'It isn't one person.' / 'So you'd need two.' | two cups on the rack
 
+*When: The night of Day 32. While the house slept after sledding, Anko, Nazuna and Kaneki were keeping the night shift, as they had all month.*
+
 There were three people in the house who were awake at three in the morning on purpose.
 
 Nazuna was the first, because Nazuna was always awake at three in the morning. She slept in the high loft in the room on the dark north side, behind the triple-lined black curtain, from dawn until the middle of the afternoon, and then she came down and was a person until dawn again. In summer this had meant she missed most of the house. In winter, with the nights so long, she had nearly fourteen hours of dark, and she spent them wandering the Muslin in a borrowed coat, reading other people's books, eating other people's leftovers, and occasionally sitting on the end of somebody's bed until they woke up and screamed.

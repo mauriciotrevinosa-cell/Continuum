@@ -6,6 +6,8 @@
 **Reading order:** 15  
 **Continuity state:** Day 31 | the slope behind the washing court; trays and a queue | Okarun's sled; Momo: 'Absolutely not' | Fern's speed limit: the speed of the fastest child | the Fastest Child (the girl with the bean) wins; Okarun hits a root, Momo catches him | hands under the snow | Aira: 'Not interested', then goes again
 
+*When: Day 31, the fourth week. From today the sled slope ran every afternoon, in the same days as Coco's water lattices, the kotatsu, the washing court mornings and the roof once a week.*
+
 The slope behind the washing court had been a slope all year, and nobody had thought anything of it. Then it snowed for three days, and on the morning of the thirty-first the refuge children discovered that if you sat on a tray from the Arrival House kitchen at the top of it, you went down very fast, screaming, and ended up in the hay bales at the bottom.
 
 By noon there were nine trays on the slope and a queue.

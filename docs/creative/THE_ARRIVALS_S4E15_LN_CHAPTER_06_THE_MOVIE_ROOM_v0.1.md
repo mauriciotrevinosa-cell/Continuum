@@ -6,6 +6,8 @@
 **Reading order:** 23  
 **Continuity state:** Days 93-96 | the movie room finished first (Marin's wall, three coats) | Senku's magic lantern, oil lamp: 'Fire's fine' | Qifrey checks every slide for stray glyphs | Wakana's moving slides and chromatrope | Kessoku plays live | Okarun's alien film | Rimuru's cave: Veldora, 'Tempest'; Milim: 'He's my friend too' | Senku: discs in a year | Nijika: 'My sister would hate that'; her hand on the coin
 
+*When: Days 93 to 96. The roof was on and the walls were drying. The movie room was finished in the same days the floors went down.*
+
 The first room finished inside the real house was not a bedroom.
 
 It should have been. Fern had a list. The list said: roof, outer walls, floors, kitchen, common room, bedrooms, everything else. It was a sensible list, and the whole house agreed with it, and then on the ninety-third day, when the bark shingles were on and the clay walls were drying and the floors were down in the east section and nothing else was, Fern came round the corner of the new common room with her ledger and found that someone had finished the movie room.

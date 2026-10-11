@@ -6,6 +6,8 @@
 **Reading order:** 14  
 **Continuity state:** Day 30 | Agott counts: one full bottle left; two winters, maybe three | Coco asks for one drop to test an inverted crystal-binding lattice; Qifrey: no to the ink, not the shape | Agott: draw it in water | eighty-one times; the last ten right | the ink tree: 'Ninety-nine. And some months.' | 'For WHEN there's ink'
 
+*When: Day 30. While Senku ground lenses and the kotatsu queue went down the corridor, Coco began drawing her lattice in water on the atelier floor. She drew it eighty-one times over the days that follow.*
+
 Agott counted the ink again on the thirtieth, because Agott counted the ink every month, whether anyone asked her to or not.
 
 She did it the way Qifrey had done it the first time, on a clean cloth on the atelier floor, every bottle and vial and small sealed pot in a row. There were fewer than there had been the first time. The second-fullest bottle, the one that had been most of the shadowless light, was nearly empty now: a dark ring at the bottom, a skin of silver on the glass where the light over the common-room scratches had drawn from it, night after night, every night since. The cheap little bottle that had made Kaneki's air glyph was gone altogether. There was one full bottle left. One. And four others in various states of not-full, and the one at the end of the row that was barely a stain, which nobody had ever been willing to throw away.

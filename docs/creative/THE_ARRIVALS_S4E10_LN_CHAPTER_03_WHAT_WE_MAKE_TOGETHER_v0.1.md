@@ -6,6 +6,8 @@
 **Reading order:** 28  
 **Continuity state:** Days 40-44 | Rimuru: 'He bought us the whole world, and he kept nothing' | the hoodie and the shirt are from a racing sport | Frieren keeps him busy for three days | Ciel makes time to sharpen Rimuru's memory | everyone makes a piece: Wakana's bodies, Senku's wheels, Marin's red, Coco's numbers, Diablo's polish, Kaneki's steering wheels, Eren's stands, Yuta's yellow helmet | names on the undersides; 'C.'
 
+*When: Days 40 to 44. This began on the night of the List and ran underneath the next four days, the same days as Umaru's toll booth, while Frieren kept Mau busy.*
+
 It started with Rimuru, on the night of the List, in the kitchen, after Mau had gone to bed.
 
 He did not call a meeting. He simply sat down at the kitchen table, where Kaneki was making his careful coffee and Nazuna was eating leftovers and Anko was writing, and said, to nobody in particular, "He said *mine doesn't have a name*."

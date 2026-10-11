@@ -6,6 +6,8 @@
 **Reading order:** 9  
 **Continuity state:** Days 62-66 | Daphne counts what is there: eleven sacks to mice, damp flour, sprouting onions | the mice moved to the hay | 'Forty-one days... thirty-six if Milim keeps eating' | her beasts once ate villages; now she grows things | Senku's small greenhouse on the barn's south wall | the first seedling
 
+*When: Days 62 to 66. The same days as the corridor in the next chapter and the first loads of stone and clay coming in. Ciel was still busy, counting down.*
+
 Daphne took over the barn on the sixty-second day, and by the sixty-third, Fern was afraid of her.
 
 Not in a bad way. Fern said so, afterward, at the long table, very carefully, because she did not want anyone to misunderstand. It was the way you are afraid of a person who is better at the thing you are best at than you are.

@@ -6,6 +6,8 @@
 **Reading order:** 10  
 **Continuity state:** Day 63 | Qifrey, afraid of corridors, walks it anyway | the oldest book on undoing a binding; Coco's lattice inside a second, smaller one with an empty centre | to undo it in a person you must know the shape it took inside them; nobody has been inside and come back | Coco's price: 'It was my hand' | the pale book lent | 'Is there anyone who can go somewhere nobody's ever come back from, and come back, and remember?' | 'Mau?'
 
+*When: Day 63, in the middle of Daphne's count in the barn.*
+
 Qifrey was afraid of corridors.
 
 He had told Coco so, at the atelier door, on the night of the contract, when she asked: *terrified.* Then he had said *no* to her face, because she was looking at him with her whole heart and he could not bear to be the reason she did not go. Now, on the morning of the sixty-third day, he stood at the door of a small dark cabin in the old forest, with snow on his shoulders and Coco's hand in his, and looked through the door at the back of its ordinary front room, at the corridor of books going on into a soft warm light much further than a cabin could go.

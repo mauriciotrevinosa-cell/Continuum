@@ -6,6 +6,8 @@
 **Reading order:** 28  
 **Continuity state:** Night of Day 102 to Day 103 | Seika refuses the Muslin: 'across a yard from you'; Rem lets the stove go out | she can't sleep; the doors in ink, Rem's in pencil; the door with no name: Echidna's library, the first stranger who is not a stranger; a dead person's songbook; Echidna: 'Mine' | Nijika's dawn panic; a hand like a lid | 'Arrivals, one' | THE LIST: 1. Nijika: her sister. First. HERE. / 2. Rem: her sister. When we're ready | the old side of the board: FOUND: SEIKA
 
+*When: The night of Day 102 into the morning of Day 103.*
+
 Seika did not sleep in the Muslin.
 
 Rem had made up the bed there, the best one, in the old east room, with the warmest blankets, and kept the stove lit for two days. At the end of the hundred-and-second night, when the alien film had been shown five times and the movie room had emptied in a long laughing line into the cold, Nijika took her sister across the yard to see it.

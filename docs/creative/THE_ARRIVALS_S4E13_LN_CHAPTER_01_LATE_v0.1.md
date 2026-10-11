@@ -6,6 +6,8 @@
 **Reading order:** 6  
 **Continuity state:** Day 59 | the southern merchant, a week late, his cart raked by something; a hired guard | 'Things on the road that weren't there before': a bear-that-wasn't, sheep, lights, a shadow man | the river towns blame the monster town | Anko starts SIGHTINGS | Fern closes the ledger: 'a problem for later... We're a family before we're anything else' | Ciel: 'Busy. Seven days.'
 
+*When: Day 59, two days after the deer left. The weekly tea, the washing court mornings and the kotatsu queue were all still going on.*
+
 The southern merchant was late.
 
 He came up the bridge road on the fifty-ninth day, a full week after he should have come. Mikasa saw him first, from the north end of the plaza, where she had taken to standing for an hour every afternoon since the voice. A cart, a mule, a man walking beside the mule, coming slowly up out of the river valley between the white fields. Not the merchant's usual pace. Slower. The cart was riding wrong, low at one corner.

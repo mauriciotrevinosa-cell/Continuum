@@ -6,6 +6,8 @@
 **Reading order:** 12  
 **Continuity state:** Day 28, the coldest | Nano's schedule; Project K | Senku's kotatsu: hot stones, not charcoal | five under one table; Karane: 'I didn't think we'd get to do it again' | Shizuka: 'Five beds. No walls.' | the queue down the corridor; Project K (2): the fort, the common room, the east window (Frieren has cold feet)
 
+*When: Day 28, the coldest day so far, in the same week as the song in the snow. The kotatsu queue that began today ran for the rest of the winter.*
+
 The twenty-eighth was the coldest day of the winter so far, and Nano had a schedule for it.
 
 She posted it on the inside of the door of the big room at six in the morning, in her precise, square, slightly too-small handwriting, on a sheet of paper ruled into fifteen-minute intervals. It began at 06:00 with *WAKE (ALL)* and ended at 22:00 with *SLEEP (ALL)*, and in between it allocated, among other things, three meals, two periods of mandatory hydration, one walk to the washing court in pairs, and a block from 13:00 to 17:00 labelled, mysteriously, *PROJECT K*.

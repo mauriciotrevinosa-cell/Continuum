@@ -6,6 +6,8 @@
 **Reading order:** 2  
 **Continuity state:** Days 13-18 | the reset hour; Frieren's foot: 'One. Still here.' | sounds; standing in front | Day 17 he can't get up: 'Something's wrong' | the house one at a time; Maki: 'Breathe with me' | Maomao: 'Ugly days are allowed. Hiding them is not.'
 
+*When: Days 13 to 18, the first week after the window. The same days as the next two chapters: rule four began on the fourteenth, and the washing court came on the eighteenth. The ugly days did not stop for either.*
+
 Maomao named them on the fifteenth, at the long table, in front of everyone. She had the bluntness of someone who believed that a thing with a name was a thing you could treat.
 
 "Ugly days," said Maomao. "That's what these are. You'll have them. Not every day. Some days. They are allowed." She looked down the table at Mau over the rim of her cup. "Hiding them is not."

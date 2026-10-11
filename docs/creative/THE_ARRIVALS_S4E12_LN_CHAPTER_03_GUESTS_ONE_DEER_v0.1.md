@@ -6,6 +6,8 @@
 **Reading order:** 3  
 **Continuity state:** Days 51-54 | Jinshi registers the first guest since the window: 'A hole, shaped like a deer'; 'Guests: one. Deer.' | children ride deer at the speed of a walking deer | Umaru's ONE DAY PASS (DEER) | Seiko's real Nara deer crackers; Nokotan bows | Frieren: 'You're empty... but you're full of something' | the deer from the north trail: 'That one isn't mine... It's just here. Since before everyone.' | 'Maybe it followed you home.'
 
+*When: Days 51 to 54, the deer week. It ran alongside the ordinary days: "looked, quiet" at breakfast, the washing court mornings, the List waiting on its second line.*
+
 Jinshi registered her himself.
 
 He did it at the intake table at Arrival House at the eighth bell on the fifty-first morning, in his beautiful courtly hand, in the guest register that had not had a new name in it since the window. He had cleared the whole desk for it. He had sharpened three pens. When Nokotan came in through the door with her paper bag and her antlers, ducking slightly under the lintel, followed by four deer who had decided to come in too, Jinshi rose from his chair and bowed as if she were a visiting dignitary.

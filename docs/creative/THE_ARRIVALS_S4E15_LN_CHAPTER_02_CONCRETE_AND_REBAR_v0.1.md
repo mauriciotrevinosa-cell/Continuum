@@ -6,6 +6,8 @@
 **Reading order:** 19  
 **Continuity state:** Day 76, breakfast, witches knock first | Senku's huge concrete/rebar plan: 'six years, maybe eight' | 'I got carried away' | Rimuru: 'Have you ever seen a temple?'
 
+*When: Day 76, the morning after the fourth tea and the night after the voice spoke to Senku.*
+
 The witches came to breakfast on the seventy-sixth day. They knocked first.
 
 It caused a small commotion. Nobody had expected them so early, or at all, except Mau, who had forgotten to mention it. They stood in the doorway in a row, seven of them, at the hour when Rimuru was clearing his throat at the cold-hearth end of the table, and the whole common room turned round.

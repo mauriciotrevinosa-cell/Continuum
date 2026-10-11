@@ -6,6 +6,8 @@
 **Reading order:** 1  
 **Continuity state:** Day 12 | Arrival House opens and nobody comes | Fern: 'Arrivals: zero' | where the coins go; Mau's has no name waiting | the cooper asks for work; a form for a daughter who isn't here yet | 'Here.' around the table; 'Everyone here.'
 
+*When: Day 12, the first morning after the window closed. Everything in this volume happens inside the month that follows, much of it at the same time: the ugly days, the healing, the snow, the fun.*
+
 On the twelfth day, the house went back to work, because the house did not know how to do anything else.
 
 Fern was at the head of the long table before anyone else was awake. Mau knew this because he was awake too. He had been awake since the hour before dawn, which was the hour his body had decided, somewhere in the white, was the hour when things began again. He had lain still with Frieren's hair across his arm and waited for the ceiling to change. It had not. Then he had got up, very carefully, and gone down the family corridor in his socks, and found Fern already sitting in the common room in the grey light, with the ledger open in front of her and a pen in her hand, not writing.

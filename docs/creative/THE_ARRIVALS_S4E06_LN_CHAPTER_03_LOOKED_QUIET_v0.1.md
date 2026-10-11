@@ -6,6 +6,8 @@
 **Reading order:** 3  
 **Continuity state:** Days 14-20 | rule four: she tells him every time she looks | at breakfast, through Rimuru: 'Looked, quiet.' | Senku's QUIET tally; 'an emergency of morale' | it spreads to the washing court | Ciel: 'I do not count alone anymore'
 
+*When: Days 14 to 20. This began in the middle of the ugly days, and from then on it ran under everything else, every breakfast, all month.*
+
 Rule four was his.
 
 The guardrails had been written by the house while he was unconscious, in the autumn of the containment, and pinned inside his door, and he had read them when he woke and changed one. Rule four had said, at first, that Ciel would watch the guardrails. Mau had added the second half in pencil, in his own hand, under the household's ink: *and she tells him every time she looks.*

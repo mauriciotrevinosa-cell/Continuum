@@ -6,6 +6,8 @@
 **Reading order:** 29  
 **Continuity state:** Day 45 | the whole house, and something under a cloth | 'You bought us something impossible. So we made you something.' | the red and white car (his hoodie's team, the best one ever) and the red one ('your other shirt') | 'I don't remember. But I know it's fast.' | names on the undersides; 'C.' | the windowsill: two cars and Ori's stone; the wheel keeps spinning
 
+*When: Day 45, the end of the sixth week.*
+
 On the morning of the forty-fifth day, Frieren's cold was gone.
 
 It vanished overnight, completely, the way colds do not. She got up before the hour, which she never did, and was dressed and sitting on the end of the bed with her boots on when Mau woke, and said, "Breakfast," in a voice that left no room for anything else.

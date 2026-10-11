@@ -6,6 +6,8 @@
 **Reading order:** 25  
 **Continuity state:** Day 101 | Nijika tells Fern first: she waited for the house | Bocchi: happy and something else; her coin held | the house prepares without fuss (pear bread FOR TOMORROW (OR WHENEVER); Rem lights the Muslin stove; Wakana sorts beams; Umaru's slate) | midnight, music room: 'You are sure? Seika.' / 'Yes. I'm sure.' The coin is gone | Kessoku wait on the step of Arrival House; by dawn nearly forty with them
 
+*When: Day 101, the day after moving day.*
+
 Nijika told Fern first, because that was the rule, and because Fern was the only person in the house who would not cry.
 
 She found her on the hundred-and-first morning, in the new common room, very early, before anyone else was up, at the long table with the ledger open and a pen in her hand, writing nothing. It was the way Fern began every day now, since the twelfth. Mau said she was listening to the house wake up. Fern said she was doing the accounts.

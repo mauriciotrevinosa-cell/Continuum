@@ -6,6 +6,8 @@
 **Reading order:** 17  
 **Continuity state:** Day 33 | three sacks of cocoa; Maomao: 'Hand cream' | Maomao, Senku and Kusuri agree too much: cocoa butter cream, forty pots, two and a half sacks left | Senku: 'Ten billion percent hand cream' (he knows) | 'Two debts. And whoever's sitting next to them.' | Day 34: a pot by each trough; her knuckles shine
 
+*When: Days 33 and 34, the fourth week. The cocoa came the day after the night shift found the tracks, in the same week as the sled slope. Maomao's revenge, three weeks old by now, needed the cocoa. So, it turned out, did the washing court.*
+
 The three sacks of cocoa arrived on the thirty-third day, on the back of the southern merchant's cart, and Senku noticed them before they were even unloaded.
 
 He noticed everything that came into the settlement on a cart. It was a habit from another world, where every delivery had been a resource and every resource had been counted. He was standing at the workshop door with a cup of tea when the merchant's cart came creaking up from the bridge road, and he watched the merchant and Jinshi unload three fat burlap sacks and carry them, not to the kitchen, not to the stores, but round the side of the Muslin to the door of the medical room.

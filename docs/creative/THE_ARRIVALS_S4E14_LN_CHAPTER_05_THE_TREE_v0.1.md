@@ -6,6 +6,8 @@
 **Reading order:** 15  
 **Continuity state:** Day 70 | the ink tree grows; the stakes snap; WHO WATERS IT falls face-up | Rimuru becomes a sleeping slime in Mau's arms; Diablo outside his door | the witches step back | 'You broke your promise... It came ninety-nine years and some months early... you owe me a new one.' / 'How long?' / 'Longer.' | they sit under it, the first ever | 'Longer. Both of us. I promise.' / 'Idiot.'
 
+*When: Day 70, the same breath.*
+
 It began with the leaves.
 
 Ten of them. Silver-green, held up out of the snow like small hands, the way they had been all winter. Mau, at the rail of the bell tower with his palm flat on Rimuru's shaking back, saw them tremble. All ten at once, though there was no wind. Then there were eleven. Then fourteen. Then he could not count them, because they were coming too fast: new leaves unfolding out of the bare thin twigs one after another, silver-green, opening like hands.

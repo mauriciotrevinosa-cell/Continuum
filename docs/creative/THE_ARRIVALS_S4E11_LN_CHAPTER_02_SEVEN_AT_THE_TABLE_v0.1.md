@@ -6,6 +6,8 @@
 **Reading order:** 31  
 **Continuity state:** Day 47 | seven witches at the agreed bell | Umaru's passes; the quiet one's old card: 'today' crossed out, ALWAYS | the woman in black: her books in the room with no name | the one who does not like hunger: the fields, stores and barn | the rest: live here, share the days; weekly tea, all seven, 'a conversation, not an interrogation... you're going to be family' | five terms, no spells or curses | signed with sins: Pride, Greed, Gluttony, Wrath, Lust, Sloth, Envy
 
+*When: Day 47, the end of the month after the window.*
+
 They came at the agreed bell.
 
 Not a moment early, not a moment late. The bell rang in the tower over Arrival House, and at the last stroke there was a knock at the front door of the Muslin, three times, precisely spaced. Fern, who had been standing beside the door for a quarter of an hour with the ledger under her arm, opened it.

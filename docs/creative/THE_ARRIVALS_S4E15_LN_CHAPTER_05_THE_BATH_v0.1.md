@@ -6,6 +6,8 @@
 **Reading order:** 22  
 **Continuity state:** Day 90 | Rimuru's bath on the north-side spring; Umaru opens it (her slip framed) | seven rules, no Milim Beam | Rimuru on the fence in a bucket (Ministry decree) | Sekhmet: 'I am going to live here'; Maomao tastes it | Himmel's hot-spring story, Frieren corrects it through the fence | the family-bath slate | Mau and Frieren: she sleeps, he does two shifts | dawn: Kaneki to Eren, 'One coin'
 
+*When: Day 90. While the clay teams packed the walls of the house, Rimuru built the bath. Both took the same week.*
+
 The bath was finished before the house was.
 
 That was Rimuru's doing. While the clay teams packed the walls of the real house, lattice by lattice, with Aira and Momo bringing mud up from the riverbank in barrows and the Witch Hat girls treading straw into it barefoot and shrieking at the cold, Rimuru took six people and went round to the north side, where the steam rose.

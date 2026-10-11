@@ -6,6 +6,8 @@
 **Reading order:** 10  
 **Continuity state:** Night of Day 26, snow | a postcard | Yuta's Gojo and the rice cakes; Rimuru's Veldora and the flashback | Mau laughs on the roof for the first time | his hands warm with Yuta's cursed-energy film, unchosen; Ciel: not from the seal | rule five: 'It's warm. That's all it did.' | roof once a week now: 'That's because of the laugh.'
 
+*When: The night of Day 26, the second night of snow. The ugly days were rarer now, though not gone. After tonight, the roof was once a week, through everything that follows.*
+
 The roof had snow on it.
 
 They had to clear a patch before they could sit, the three of them, on the twenty-sixth night: Yuta with the edge of his hand, Rimuru by simply flowing over the snow in his slime shape and then flowing back, so that the shingles came out wet and black and steaming faintly in the cold. Mau did not help. Rimuru told him he was not allowed to help, because the last time Mau had arrived on a roof in a hurry, he had stepped off a pantry ladder straight onto it in the middle of a spatial leak, about four seconds after Ciel had announced that this could not happen, and Ciel had never quite forgiven him.

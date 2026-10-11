@@ -6,6 +6,8 @@
 **Reading order:** 7  
 **Continuity state:** Day 60 | Rimuru turns the Searchers' board over: 'We're not looking for people anymore' | Senku's list: stone upriver, timber in the old forest, clay, lime in the north hills, bog iron, sand, charcoal | names in chalk: Okarun (stone), Aira and Momo (clay), Mikasa and Eren (lime), Kaneki (charcoal), Mau (timber, to ask the witches) | 'Searchers. Out. Every day. Back by dark.' | FOUND, never painted over
 
+*When: Day 60, the day after the merchant. From here on the Searchers went out for materials every day, through everything that follows: the teas, the barn, Foundation, the house.*
+
 The Searchers had a board of their own in the hall of Arrival House, and on the sixtieth day Rimuru took it down.
 
 It had been there since before the Move. A long board of planks, painted white, ruled into columns. *ROUTE. TEAM. OUT. BACK. FOUND.* For a year and a half it had been the heart of the settlement's searching: every team that went out along the roads and the rivers and the edges of the hills, looking for the people who had arrived in this world alone and did not know where they were. Every name that came back. Ori's, once, in a column of its own. Half the house had come in through that board, one way or another. Under *FOUND*, the chalk had been rubbed out and rewritten so many times that the white paint had worn through to the wood.

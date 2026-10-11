@@ -6,6 +6,8 @@
 **Reading order:** 18  
 **Continuity state:** Day 75, the fourth tea, only the eight | Pride: 'You may call me Pride. The name was for someone smaller' | Mau: 'Okay' | she opens her hands | 'Seven' | north-wing rooms promised; witches ask to come to breakfast
 
+*When: Day 75, the same day the seventh bulb shattered.*
+
 On the seventy-fifth day, at the agreed bell, there were eight at the long table: the seven, and Mau.
 
 Nobody had been invited this week. The first witch had said, at the end of the third tea, that it would be hers, and the house had understood without being told that this one should be only the eight of them. Bocchi had not asked to come. Maomao had not asked to come. Frieren sat in the family corridor with her back against the wall and her grimoire on her knees, as she always did, and did not read it.

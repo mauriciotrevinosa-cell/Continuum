@@ -6,6 +6,8 @@
 **Reading order:** 12  
 **Continuity state:** Day 67 | eight slips in Momo's second-best pot | Daphne's channels, Senku's weir and millrace ('and someday, lights'), Mikasa's tunnels (Eren: 'Exits before rooms... Still good'), Wakana's foundations, Rimuru's drains, Maomao's well, Umaru's hot bath (warm water deep under the north side) | 'The tree.' Agott defends it again | all of it, in one breath | Rimuru: three days to draw it
 
+*When: Day 67, the next morning.*
+
 The slips went into Momo's second-best pot.
 
 That was Fern's idea. Everyone who wanted something from Foundation wrote it on a slip of paper, one slip each, folded once, and dropped it into the pot on the long table on the morning of the sixty-seventh day. Then Fern took them out one at a time and read them aloud, and laid them out on the table in a long row, the way Qifrey had once laid out the bottles of ink on the atelier floor.

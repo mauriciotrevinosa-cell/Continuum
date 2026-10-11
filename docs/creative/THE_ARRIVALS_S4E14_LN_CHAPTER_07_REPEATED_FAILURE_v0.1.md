@@ -6,6 +6,8 @@
 **Reading order:** 17  
 **Continuity state:** Days 72-76 | the waterwheel turns | Senku tries for electric light | the magnet dies, the wire snaps, the belt breaks, the shaft cracks, the bulb glows one second and shatters | Ciel: a shape, very large, patient, not hostile; it breaks only the light | the Goddess to Senku alone: 'Protection. Repeated failure.' | Rimuru: her world, a line; stages | 'She's rate-limiting me' | the dust in a box: NOT YET
 
+*When: Days 72 to 76. These are the same days as the next three chapters: the fourth tea came on the seventy-fifth, in the middle of Senku's failures, and his plan came the morning after.*
+
 Senku's wheel turned for the first time on the seventy-second day, and by the seventy-third, he was trying to make it do something it was not allowed to do.
 
 He did not know it was not allowed. Nobody did. That came later.

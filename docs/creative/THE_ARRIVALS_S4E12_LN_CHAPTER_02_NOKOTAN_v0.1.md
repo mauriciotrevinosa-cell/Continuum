@@ -6,6 +6,8 @@
 **Reading order:** 2  
 **Continuity state:** Day 50 | a hole shaped like a deer | the deer told her about the human | the bag never empties (six crackers, and unlimited) | Milim races her; Nokotan walks and ties | the antlers come off, click; Karane breaks | Ciel: no seams, no structure; Construction got more questions than answers; 'cartoon' | 'whatever you're thinking of trying, you're not to try it'
 
+*When: Day 50, the same day as the deer.*
+
 Nokotan did not know how she had got here.
 
 She explained this at the long table in the Muslin, an hour later, with a bowl of Momo's soup in front of her and her antlers very carefully angled so as not to knock the lamp, which she had already knocked twice. The whole house had crowded into the common room to listen. The deer had stayed in the plaza. Most of them were lying down in the snow, chewing. A few had found the hay bales at the bottom of the slope. One had got into the washing court and was being shouted at.

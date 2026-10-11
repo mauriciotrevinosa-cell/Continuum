@@ -6,6 +6,8 @@
 **Reading order:** 27  
 **Continuity state:** Day 102 | the ugly coat | the house appears by accident; Seiko and Seika: 'Hm.' | the fort: 'Accurate'; NEXT #1 for five seconds; 'It's a terrible fort' / 'Let her' | Seika to Mau: 'People look at the person they're scared for... don't do that again' | Bocchi's family were looking (Futari's dog on every poster); 'Good... practise' | 'That wasn't bad' | the movie room: 'Again. The alien one.'
 
+*When: Day 102, the same day, afternoon into night.*
+
 Seika hated the cold first.
 
 "It's freezing," she said, on the step of Arrival House, in the early afternoon, with her black jacket zipped to her chin and her hands jammed in its pockets.

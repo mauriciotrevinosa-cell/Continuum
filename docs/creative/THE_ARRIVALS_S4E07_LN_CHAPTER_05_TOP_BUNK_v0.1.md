@@ -6,6 +6,8 @@
 **Reading order:** 9  
 **Continuity state:** Night of Day 25, first snow | Mikasa's view | Eren's boots point out; she turns them in | he counts on his fingers | 'Some people get to say someday'; Armin, maybe | Mikasa knows what she remembers and does not know his years here; nobody has looked | 'Mikasa—' / 'Nothing. Goodnight.' | morning: the boots point in
 
+*When: The night of Day 25, the first snow, in the same week as Jinshi's cot and the trial runs. Mikasa and Eren had shared the bunks since the move.*
+
 Every night, Eren put his boots by the door with the toes pointing out.
 
 Mikasa had noticed on the first night. That was the night, in the autumn, when she had written his name on the top bunk of her room in the Muslin without asking him, and he had stood in the doorway looking at it for a long time, and then had not argued. He had climbed up. Before he climbed up, he had taken off his boots and set them side by side by the door, neatly, with the toes toward the corridor, the way you set your boots when you might have to put them on in the dark and run.

@@ -6,6 +6,8 @@
 **Reading order:** 5  
 **Continuity state:** Day 19 | Hakari asks at breakfast | Fern: nobody spends this month; 'Coins: held. Until Day 40. Then the table.' | Ori has no before; Coco's crystal book; Maki's folded paper; Kusuri and Maomao | Rem says her sister's name: Ram | Nijika decided on the first night and tells no one | the cooper: 'That's cheating.'
 
+*When: Day 19, the start of the second week. The ugly days, the washing court mornings and "looked, quiet" were all still going on. From today, so was the coin month.*
+
 It was Hakari who asked, because Hakari asked the things everyone else was thinking, usually at breakfast, usually with her mouth full.
 
 "Has anyone decided?"

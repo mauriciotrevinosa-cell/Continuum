@@ -6,6 +6,8 @@
 **Reading order:** 24  
 **Continuity state:** Day 100 | names in ink; Rem's stays pencil ('That's why pencil is fine') | the room with no name stays unnamed: Echidna's door | Fern pencils a square on the west wing: 'For whoever comes' | the fort moves; Umaru carries LATER | the witches move in: Pride's wobbling chair, Sekhmet's door to the bath, Satella's inner window | the cars and Ori's stone on the east sill; the shelf in the middle of the floor | a panel opens a hand's width | 'One. Still here.'
 
+*When: Day 100, the first thaw.*
+
 On the hundredth day, the eaves of the real house were dripping, and Fern opened the ledger to a clean page and wrote, at the top, in ink: *Moving day.*
 
 Then she underlined it twice, which she had never done to anything.

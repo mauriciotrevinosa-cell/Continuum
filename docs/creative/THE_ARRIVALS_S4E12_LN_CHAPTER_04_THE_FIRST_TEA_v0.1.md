@@ -6,6 +6,8 @@
 **Reading order:** 4  
 **Continuity state:** Day 54 | the house clears the room; Frieren waits in the corridor | the seven and Mau, a conversation | Echidna: she does not know what the voice means; delighted and afraid | Nokotan wanders in; Satella: 'What is that?'; Daphne and the crackers | Echidna cannot read her: 'What are you?' / 'A transfer student. And I like deer.' | Sloth gives her name: Sekhmet; the first witch: 'One.'
 
+*When: Day 54, in the middle of the deer week: the first of the weekly teas. From here on there was one every seven days, through everything that follows.*
+
 The first tea was on the fifty-fourth day, at the agreed bell, in the common room of the Muslin.
 
 The house cleared out for it.

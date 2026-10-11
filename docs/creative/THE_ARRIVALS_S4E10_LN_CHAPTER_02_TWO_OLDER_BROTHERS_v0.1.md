@@ -6,6 +6,8 @@
 **Reading order:** 27  
 **Continuity state:** Night of Day 41 | the toll booth shutter down | twenty-one places for one coin | Taihei: she was someone else there, and he gave up so much | Mau: 'He's your family. And I'm your family now... two older brothers... when Frieren wants a date with me' | 'Okay. Two. But not yet': ready and safe | the drawer marked LATER | Frieren heard
 
+*When: The night of Day 41, the day after the List. While the house was still talking about who goes first, Umaru moved one coin twenty-one times.*
+
 Umaru was in the toll booth on the evening of the forty-first, with the shutter down.
 
 That was unusual. The toll booth's shutter was never down. The toll booth was the fort's front door and its customs house and its treasury and, on bad nights, its hospital. Rem served tea at its counter. Turbo Granny sat on its roof. The shutter had a sign painted on it, OPEN, in Umaru's own hand, with a hamster drawn beside it, and it had not been closed since the fort was a monument.

@@ -6,6 +6,8 @@
 **Reading order:** 8  
 **Continuity state:** Day 61 | Bocchi invited, the first guest at the tea | the forest is the trees': take the dead ones, leave the old ones (Sekhmet); Daphne's deadfall | Bocchi's three notes under the table; Lust comes out from behind Wrath | 'Sorry.' / 'Me too.' | 'Carmilla.' / 'Gotoh Hitori. Everyone calls me Bocchi.' | 'Two.' | 'I made a friend'
 
+*When: Day 61, the second tea, in the first week of the Searchers bringing in materials.*
+
 At the end of the first tea, as the seven were going out into the snow, the first witch had stopped at the door.
 
 "The one who hides," she had said, to Mau, "would like the girl with the guitar to come next week. To the tea." She had looked at him with her hands folded. "If the girl wishes. Only if she wishes."

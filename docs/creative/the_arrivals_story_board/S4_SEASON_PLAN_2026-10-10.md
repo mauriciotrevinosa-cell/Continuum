@@ -37,4 +37,4 @@
 
 ## Open questions for the creator
 1. ~~Kaneki and Touka: a daughter?~~ **Answered:** yes, Ichika. Kaneki needs a second coin, so he waits (moved to S5).
-2. **The S4 finale beat:** is the door scene the emotional climax, or does the season end on the city closing?
+2. ~~The S4 finale beat~~ **Answered (2026-10-10, DH-050):** the season closes on Mau staying with Frieren, looking toward what comes after. **S5 picks up exactly where S4 ends.**

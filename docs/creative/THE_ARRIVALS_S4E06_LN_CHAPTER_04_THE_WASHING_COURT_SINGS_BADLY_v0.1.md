@@ -6,6 +6,8 @@
 **Reading order:** 4  
 **Continuity state:** Day 18 | no rule sends him; he goes alone | Dessa's friend still sings badly; the blue bucket | she stops, then sings louder | 'You're wringing them wrong... Dessa used to say it.' | he'll go again tomorrow
 
+*When: Day 18, the end of the first week, in the same days as the ugly days and the first "looked, quiet" mornings. From here on he went to the washing court most mornings, through everything that follows.*
+
 There was no rule anymore that sent him to the washing court.
 
 There had been one. Maomao's, from the council, before the window: *he has to be seen.* A man in the plaza with a summon he was still training, washing his own shirts like anyone else, so that the settlement could look at him and see ordinary. It had been on the board with the others, and it had come off the board with the others on the morning of the eleventh day, wiped clean by the Ministry, along with the supervision rotation and the list of places he could not go.

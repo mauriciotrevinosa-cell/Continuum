@@ -6,6 +6,8 @@
 **Reading order:** 6  
 **Continuity state:** Day 20 | the fort's first codename session of the winter | AGENT TURBO (not DEATH); AGENT TEACUP for Rem, unanimous; AGENT TINK for Momo; Seiko is codenamed SEIKO | AGENT BREAD ROLL ties 14-14 (Ryo: NAP) | Fern's card stays pending; a burnt corner: AGEN
 
+*When: Day 20, the second week. While Mau's ugly days were thinning and the coins sat in pockets, the fort held codename sessions behind its curtain most afternoons, for the rest of the month.*
+
 The fort held its first codename session of the winter on the twentieth day, in the afternoon, behind the curtain, with the toll booth closed.
 
 Mau knew this because he was not allowed in. Nobody who was not a citizen was allowed in during a session, and Rimuru, who was an honorary citizen, was allowed in only as far as his bowl. So Mau sat at the long table outside the curtain with Stark and a pot of tea, and they listened.

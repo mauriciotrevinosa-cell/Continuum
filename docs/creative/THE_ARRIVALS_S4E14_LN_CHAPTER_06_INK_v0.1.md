@@ -6,6 +6,8 @@
 **Reading order:** 16  
 **Continuity state:** Day 71 | Qifrey's old knife; four hands cut the notch; silver, then dark | one bottle a week | Agott rubs the numbers off her hand: 'I'll count up' | Richeh's drainage glyph for Senku ('You're a genius'); Tetia's water circle; Agott's warming glyph under the kitchen floor | Coco refills the bottle that was barely a stain; 'Now.' | 'We're witches again.'
 
+*When: Day 71. Rimuru was still asleep as a slime, and the barn, the Searchers and the weekly tea all went on around him.*
+
 Qifrey tapped the tree on the morning of the seventy-first day, at dawn, with his four students around him and the rest of the house kept back at the edge of the yard by Fern and a length of rope.
 
 He had a knife for it. A small one, very old, with a handle of dark wood worn smooth, which he had carried across from his own world in a pocket of his coat and never once taken out in front of any of them. He held it now, under the branches of the ink tree, and looked at the trunk for a long time before he did anything.

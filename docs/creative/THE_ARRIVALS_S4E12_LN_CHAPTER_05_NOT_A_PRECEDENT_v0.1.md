@@ -6,6 +6,8 @@
 **Reading order:** 5  
 **Continuity state:** Day 57 | 'I have to go home today.' / 'You can do that?' | once only; it's only big enough for her | Fern: 'This is hers. It's not a precedent.' | the procession to the north field; Echidna comes to see how | Seiko: 'I don't make promises. I make crackers.' | the antlers come off and pour out a mountain of crackers; Karane: 'What the hell? How is that even POSSIBLE?' | a hole shaped like a deer; gone | Yuta: 'Fine. You were right about the deer.' / 'Say it again.' / 'No.'
 
+*When: Day 57, the end of the deer week.*
+
 On the fifty-seventh morning, Nokotan came to breakfast, said *looked, quiet* along with everyone else, ate three bowls of porridge and a great many crackers, and then put down her spoon and said:
 
 "I have to go home today."

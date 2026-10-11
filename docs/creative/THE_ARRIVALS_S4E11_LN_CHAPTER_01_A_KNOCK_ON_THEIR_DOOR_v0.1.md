@@ -6,6 +6,8 @@
 **Reading order:** 30  
 **Continuity state:** Day 46 | Diablo walks to the forest cabin alone | the first witch opens; Mau's question: here, or should he come to you? | Diablo sees all seven for the first time | the others look to the quiet one; she says 'There.' | 'We will come. All of us.' | 'There have always been seven. We have only ever been shown two.'
 
+*When: Day 46, the day after the cars.*
+
 On the forty-sixth day, Diablo walked to the forest.
 
 He went alone, on foot, in the snow, along the road north and then east along the edge of the fields where the tracks had gone, and then into the trees. He did not hurry. He walked the way he always walked when he was carrying something for Rimuru, one step behind and to the side of nobody, with great ceremony, as if an invisible master were walking ahead of him.

@@ -6,6 +6,8 @@
 **Reading order:** 32  
 **Continuity state:** Day 47 to dawn of Day 48 | Echidna and Coco: 'You are looking for the undoing. Come to the cabin.' | the quiet one follows Mau; Frieren lets it happen | 'I love you' / 'You don't... I can give you a family's love... so they already envy us, don't they?' | she laughs for the first time | 'Satella' | Echidna, Daphne named; the rest at the tea, one a week, the first witch's last | Frieren: 'It isn't less, when you give it to everyone. It's more.' | Ciel: 'Busy. Eighteen days.' | to everyone: 'The world is evolving.' | looked, quiet; everyone ate
 
+*When: Day 47 into the dawn of Day 48, the same night as the contract.*
+
 After the contract, nobody quite knew what to do, so the house did what it always did, which was eat.
 
 Momo brought out more bread. Seiko had her armchair turned round so that she could look at the seven women at her long table with the expression of one old thing assessing several others. The fort, which had been silent for an hour, came apart all at once into noise. Hakari tried to teach the string game to the one who had hidden behind the bookcase, who turned out to be very good at it and to blush every time she won. Umaru presented the one with bandaged knuckles with a codename application form, and the one with bandaged knuckles read it with great seriousness and asked whether violence was permitted under the constitution, and was told *gently*, and seemed satisfied. The one from the sofa had found the kotatsu in the big room within ten minutes, by some instinct nobody understood, and was asleep under it with only her head showing. Nano stood over her with a schedule and a look of deep professional respect.

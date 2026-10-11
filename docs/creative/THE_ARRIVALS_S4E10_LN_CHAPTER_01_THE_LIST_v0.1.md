@@ -6,6 +6,8 @@
 **Reading order:** 26  
 **Continuity state:** Day 40 | the table | Fern's agenda: what we can hold, who first, everything else | Anko: the protection covers the settlement, not the road | one at a time | Yuta: his teacher, and a doctor | Umaru offers her coin; Seiko's rolled paper: 'You did well. Now calm down.'; 'my pain-in-the-neck granddaughter'; Momo's hug | Ram; Coco not ready; Maki 'written, not yet'; Kaneki silent; Senku undecided; Armin, not this winter | Nijika: first | THE LIST: 1. Nijika: her sister
 
+*When: Day 40, the end of the coin month Fern declared on the nineteenth day.*
+
 On the morning of the fortieth day, after breakfast, nobody got up from the long table.
 
 Rimuru had said *looked, quiet, busy*. Senku's chalk had squeaked. The bowls had been cleared. And then, instead of the usual scraping of benches and scattering of people into the day, the whole house simply stayed where it was, and the room filled up around the table. The fort came out from behind its curtain and sat in a cluster at the north end. Rings One and Two, all of them, the way they had been at the council and on the night of rule five. Coins in pockets and sashes and apron pockets and sword cases. Fern at the head of the table with the ledger open to the page that said *Day 40*.

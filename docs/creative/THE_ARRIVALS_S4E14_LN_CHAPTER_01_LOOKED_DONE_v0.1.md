@@ -6,6 +6,8 @@
 **Reading order:** 11  
 **Continuity state:** Day 66 | 'Looked. Quiet. Done... I made it good.' | Foundation: single use, one breath; the ground, the water, and a third thing Ciel added on her own: one living thing | she heard Agott count the ink ('two winters, maybe three') | Fern: slips tomorrow, nobody defends their own | Ciel heard Frieren talk to the tree
 
+*When: Day 66. The barn count, the Searchers' loads and Coco's visits to the corridor were all still going on when Ciel finished.*
+
 On the morning of the sixty-sixth day, at the hour, before Frieren's foot found his shin, a voice came to two heads.
 
 *Looked,* said Ciel. *Quiet.*

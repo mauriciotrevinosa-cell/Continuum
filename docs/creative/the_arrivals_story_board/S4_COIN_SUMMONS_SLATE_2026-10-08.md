@@ -118,7 +118,7 @@ None right now. Jiji's question is sealed (S-01).
 After V21 (zero arrivals in month one), arrivals come **one at a time**, interleaved with the world changing.
 1. **Nokotan**: an accident, not a coin. V22 opener, comedy.
 2. **Seika** (Nijika's coin): the **first summon**. Nijika ignores the risks; Bocchi waits.
-3. **Ram** (Rem's coin): a second sister, a mirror of Seika. Rem goes back to 100% herself; no Roswaal; the horn helped by someone with CE.
+3. **Ram** (Rem's coin): a second sister, a mirror of Seika. Rem goes back to 100% herself; no Roswaal. **The horn (DH-050):** Frieren supplies her mana at first. Yuta's outward RCT partly repairs it, so the need drops from daily to weekly. It is **never fully repaired**, which keeps the Ram–Rem dynamic.
 4. **Gojo** (Yuta's coin): nerfed, Infinity only. He finds out about Sukuna ("I want my rematch"); "So you stole all of mine."
 5. **Shoko** (Seiko's coin, given to Gojo): from after his death. Scarce cigarettes.
 6. **Yuka** (Maki's coin): from the end of *Modulo*, with Yuta's ring. Mau's blink to the ring; Ten Shadows; she becomes Mau's sister; Frieren jealous.

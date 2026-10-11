@@ -4,7 +4,9 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 26  
-**Continuity state:** Day 102 | Jinshi unlocks at the eighth bell; Kessoku on the bench | Nijika falls asleep at the eleventh bell; the bell rings once by itself | the second witness room: Seika, three days after, with missing-person posters of all four | 'All four of you. Here.' / Bocchi: a hand like a lid | 'Who are all these people.' / 'Family.' / 'Hah?' | register: Ijichi Seika, arrived, by coin, the first | Seika heard it too: 'You are sure? Nijika.' 'Obviously I said yes.'
+**Continuity state:** Day 102 | Jinshi unlocks at the eighth bell; Kessoku on the bench | Nijika falls asleep at the eleventh bell; the bell rings once by itself | the second witness room: Seika, three days after, with missing-person posters of all four | 'All four of you. Here.' / Bocchi: a hand like a lid | 'Who are all these people.' / 'Family.' / 'Hah?' | register: Ijichi Seika, arrived, by coin, the first | Seika heard only her name, no question: 'I'm here, aren't I?'
+
+*When: Day 102, the next morning.*
 
 Jinshi came across the plaza at the eighth bell with the key in his hand, as he had every morning since the building went up, and stopped dead at the edge of the step.
 
@@ -206,18 +208,18 @@ They were sitting on the floor, the five of them, among the gathered posters, wi
 
 "There was a voice," Seika was saying. Very low. Not opening her eyes. "At four in the morning. Last night. My last night." She paused. "I was sitting on the stage. The lights were off. I'd run out of posters." Another pause. "And a voice said— out of nowhere. Not loud. Not anything." She stopped.
 
-"It said, *you are sure?*" said Nijika, under her arm, very quietly.
+"It asked if you were sure?" said Nijika, under her arm, very quietly.
 
 Seika opened her eyes. She looked down at her sister.
 
-"It said your name," said Seika.
+"It didn't ask me anything," said Seika. "It said your name."
 
 Nobody said anything.
 
-"*You are sure? Nijika,*" said Seika. Her face was perfectly flat. "I didn't know what it was asking. Sure of what. I didn't know if I was dreaming. I didn't know anything." She looked at the ceiling of the second witness room. "Obviously I said yes."
+"*Nijika,*" said Seika. Her face was perfectly flat. "That's all. Just your name. Like someone calling you from the next room." She looked at the ceiling of the second witness room. "I didn't know if I was dreaming. I didn't know anything. It didn't wait for an answer." A pause. "It didn't need one."
 
-"*Obviously?*" said Nijika, and her voice cracked.
+"How do you know?" said Nijika, and her voice cracked.
 
-"Idiot," said Seika. She tipped her head back against the wall and closed her eyes again. "It said your name."
+"Idiot," said Seika. She tipped her head back against the wall and closed her eyes again. "I'm here, aren't I?"
 
 Mau backed away from the door, very quietly, with Frieren's shawl in his hands, and went out of Arrival House into the grey morning, and stood on the step for a long time, breathing.

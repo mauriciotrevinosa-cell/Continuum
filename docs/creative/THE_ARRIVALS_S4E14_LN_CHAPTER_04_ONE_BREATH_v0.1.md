@@ -6,6 +6,8 @@
 **Reading order:** 14  
 **Continuity state:** Day 70 | the bell tower over Arrival House; Rimuru holds the sheet; Mau's hand on his back | the wind stops; the bell hums | the ground: level stone footings, a storey-deep cellar, tunnels to stone arches in the snow, wide drains | the water: a weir rises through the ice, a millrace, steaming channels to the fields | the north side: a hot spring | the clinic well | 'One more. The living thing.'
 
+*When: Day 70.*
+
 The highest point in the settlement was the bell tower over Arrival House.
 
 It was not very high. A square wooden tower with a pointed roof and a single bell, built by Wakana when Arrival House went up, so that it could ring the hours and the intake bells and, when it had to, the alarm. A ladder went up inside it to a small platform under the bell, with a waist-high rail on four sides and a view, on a clear day, of everything inside the line and a little beyond: the plaza, the Muslin, the yard and the ink tree, the washing court and the slope, the refuge cottages, the white fields north and south and east, and the river, where it came down out of the hills and bent past the settlement and went on under the bridge toward the south.

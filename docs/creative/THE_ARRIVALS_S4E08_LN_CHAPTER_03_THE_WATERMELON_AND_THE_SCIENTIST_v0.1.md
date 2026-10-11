@@ -6,6 +6,8 @@
 **Reading order:** 13  
 **Continuity state:** Day 29 | Suika breaks her glasses; the watermelon helmet | Senku grinds a new lens all day | 'Has Senku decided?'; Chrome has someone; Gen would hate the cold | 'Senku's dad made Suika's village': Byakuya; 'some' | she sees a snowflake's six arms | 'Ten billion percent irrelevant'; he doesn't put the coin away
 
+*When: Day 29, the end of the third week. The same days as the song, the kotatsu queue and the coin month. Senku's coin was still undecided.*
+
 Suika fell over in the snow on the morning of the twenty-ninth and broke her glasses.
 
 It was not a dramatic fall. She was crossing the yard with a basket of pears for the toll booth, and the snow had a crust on it that held for three steps and gave way on the fourth, and she went down sideways into a drift with the basket flying one way and the glasses the other. When she found them, a long time later, by feel, the left lens had a crack across it like a frozen river.

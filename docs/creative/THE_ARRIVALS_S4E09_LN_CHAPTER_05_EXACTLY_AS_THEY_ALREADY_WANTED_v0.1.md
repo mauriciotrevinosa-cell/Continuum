@@ -6,6 +6,8 @@
 **Reading order:** 24  
 **Continuity state:** Day 39 | four people who didn't sleep | Maomao's correction: no aphrodisiac, ever; 'I don't need to' | 'Subjects behaved exactly as they already wanted to' | debts settled | Fern moves her chair four inches toward him | Frieren and Maomao shake hands: 'Until next time' | AGENT HANDSPAN rejected; still pending
 
+*When: Day 39, the morning after.*
+
 They came to breakfast separately, all four of them, and all four of them looked as though they had not slept.
 
 Fern came first, with the ledger under her arm and dark circles under her eyes, and sat down at the head of the table very straight, and opened the ledger, and did not look at anyone. Stark came a minute later and sat at the far end of the bench from her, nowhere near his usual place, and looked at his porridge with the expression of a man who had spent the entire night lying perfectly still on his side of a chalk line, listening to his own heartbeat and wondering whether it was going faster than usual.

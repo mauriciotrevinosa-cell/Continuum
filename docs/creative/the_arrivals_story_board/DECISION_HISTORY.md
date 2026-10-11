@@ -795,3 +795,36 @@ V22 is drafted: **28 chapters, S4E12–S4E16, Days 49–103**, from late winter 
   - She sleeps on the spare mattress beside Nijika, and Echidna's library is her first refuge.
 
 **Ring Four:** see DH-048. Four refuge families with six children remain, and they drain from V23.
+
+## DH-050 — Creator answers while reading V21 (seconded, 2026-10-10)
+
+**1. The coin rule: the holder is asked, and love decides.** This replaces the "both sides are asked" proposal in DH-049.
+- Only the holder hears **"You are sure? [name]."**
+- The person called **is not asked anything.** At most they hear the holder's name, once, "like someone calling you from the next room".
+- **The coin only carries if the person loves the holder back.** If they don't, it is **refused** (creator: the refusal can come from not being loved).
+- **The dead can be called:** love doesn't need a living mouth. That is how **Gojo comes after being cut, like the others.**
+- V22 "Arrival House" is fixed: Seika heard only "Nijika", "It didn't wait for an answer. It didn't need one... I'm here, aren't I?"
+- *Claude's proposal, to confirm:* a refused coin is not lost. It comes back to the holder's hand, cold.
+
+**2. Mau's coin is not spent.** The Goddess forms the dungeon ("As you cannot bring a loved one, I will give something that benefits you in the long run") and **Mau keeps his coin**. He can give it away or hold it.
+
+**3. Ram's horn:**
+- At first, **Frieren supplies her mana**. That is the role that was Roswaal's, with none of that relationship.
+- One day Mau walks in during a session, and the two of them just talk.
+- **Yuta's outward RCT** repairs it partly, so mana goes from daily to **once a week**.
+- It is **never fully repaired**, so the Ram–Rem dynamic stays.
+
+**4. The first devil** (V23) is born from the fear of Otherworlders. It is small, and **Mikasa and Eren kill it on the road.** Nobody thinks much of it yet.
+
+**5. Ring Four drains, one by one (DH-048):**
+- **V23:** a refuge family leaves for the river towns after the devil, afraid of the road.
+- **Later:** the washing court goes, including Dessa's friend, a few at a time.
+- **The cooper** decides to move somewhere monsters aren't always attacking, so his daughter can live in peace. *Claude's proposal:* he brings her by coin to Arrival House first, she sits in the fort once, and then they leave together.
+- **By V26, nobody.**
+
+**6. The S4 finale:** it closes on **Mau staying beside Frieren, looking toward what comes after.** S5 continues exactly where S4 ends.
+
+**7. Timing notes (the creator caught a relapse).** V21 read as one event after another when it is a month of things happening at once.
+- **Every chapter now opens with an italic *When:* note:** the day or days, and what else is running at the same time.
+- Applied to all of V21 (32) and V22 (28). V22 "Raising the Frame" is now dated Days 77–85.
+- **Rule for every future chapter.**

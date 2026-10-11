@@ -6,6 +6,8 @@
 **Reading order:** 7  
 **Continuity state:** Days 21-24 | Jinshi's cot and the word 'temporary' | the winter clinic; Maomao's notebook of ugly days, watching the gaps | Jinshi alphabetizes the poisons; re-sorted by lethality, his labels kept | 'Revenge' underlined twice; three sacks of cocoa; 'Assistant: J. (temporary)' | '(renewed)'
 
+*When: Days 21 to 24, the second and third weeks. The same days as the fort's codenames and the trial runs in the next chapter. Maomao's notebook was showing gaps by now, and her revenge had already begun, quietly, three weeks before it would land.*
+
 There was a word written on a strip of paper pinned to the foot of the second bed in Maomao's room, and the word was *temporary*.
 
 Maomao had written it herself, in the autumn, on the evening the plan for the real house was cut. She had drawn Jinshi's bed into her room on the plan, as far from her own as the walls allowed, after an entire evening of objections on grounds of space, hygiene, chemistry and principle. Then she had gone back to the Muslin and moved his cot into her actual room, in the same spirit, against the opposite wall, and pinned the word to it so that there could be no misunderstanding.

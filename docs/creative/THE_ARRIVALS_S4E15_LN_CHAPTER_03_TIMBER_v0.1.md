@@ -6,6 +6,8 @@
 **Reading order:** 20  
 **Continuity state:** Day 76 | Rimuru's Eastern timber frame, no nails; living in it by spring, the rest in stages | everyone's spoon: Himmel's vermilion gate (Marin), Seiko's high seat, Milim Beam, FORT bigger | Satella's inner window | Frieren: 'There are going to be walls' | Senku pins plan: SOMEDAY
 
+*When: Day 76, the same morning.*
+
 "A temple," said Senku.
 
 "In my country," said Rimuru. "The old kind. Wooden. Some of them are over a thousand years old." He sat down on the floor at the edge of Senku's enormous drawing, cross-legged. "Wood. Mostly just wood. Big posts, big beams, a heavy roof. And no nails."

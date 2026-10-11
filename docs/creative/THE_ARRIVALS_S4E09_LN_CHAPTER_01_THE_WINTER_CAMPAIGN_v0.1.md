@@ -6,6 +6,8 @@
 **Reading order:** 20  
 **Continuity state:** Day 36 | the fort declares war on the yard; 31 to 12 | the pack builds its walls in eleven minutes; the Milim Wall, 'Gently' | Senku's catapult, plus or minus a cow | they lose magnificently; Diablo returns every snowball; Mikasa down Eren's collar | Frieren and Fern, two hundred snowballs | Seiko: 'Dinner.' | 'Nobody's frightened'
 
+*When: Day 36, the same week as Diablo's day off and the hand cream. The yard had been collecting snow, and grievances, since the first snowfall eleven days earlier.*
+
 The declaration of war was posted on the board on the morning of the thirty-sixth day, in crayon, under the four rings and Senku's QUIET tally, with the Ministry's seal at the bottom.
 
 *BY ORDER OF THE PRESIDENT. THE FORT DECLARES A WINTER CAMPAIGN. ALL TERRITORY OUTSIDE THE MUSLIN BETWEEN THE KITCHEN DOOR AND THE INK TREE IS HEREBY CLAIMED. CITIZENS WILL ASSEMBLE AT THE SECOND BELL. NON-CITIZENS MAY RESIST IF THEY WISH. THEY WILL LOSE.*

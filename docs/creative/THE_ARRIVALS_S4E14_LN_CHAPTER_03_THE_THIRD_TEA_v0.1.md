@@ -6,6 +6,8 @@
 **Reading order:** 13  
 **Continuity state:** Day 68 | Wrath invites Maomao | 'I hate it when people are hurt'; she healed because she could not bear it | no spells here, but hands and bones | Maomao examines her badly set knuckles: 'I mend everyone' | 'Minerva.' | 'Three.' | the first witch: next week is the last; 'Ask me next week, and I will tell you what I can'
 
+*When: Day 68, the third tea, the day after the table decided. Rimuru spent the same days drawing everything on one sheet.*
+
 At the end of the second tea, as the seven went out into the snow, Wrath had stopped at the door.
 
 She did not say anything at first. She stood there with her bandaged hands clenched at her sides and her jaw set, the way she always stood, as though braced against a blow nobody was about to throw. Then she said, very stiffly, to a point somewhere over Mau's left shoulder:

@@ -908,3 +908,7 @@ V23 is drafted: **22 chapters, S4E17–S4E20, Days 104–130**, through the thaw
 1. Nijika: HERE.
 2. Rem: **HERE.**
 3. **Yuta: his teacher. When we're ready.** Seiko's coin is for the doctor. This sets up V24.
+
+## DH-052 — The series arc stays open (creator, 2026-10-10)
+
+Asked where the story stands, Claude proposed that S4's close is the end of the first act. **The creator: don't close anything yet. S5 can still be the beginning.** No act structure is fixed. Don't frame any season ending as the end of an act, in prose or in planning, until the creator says so.

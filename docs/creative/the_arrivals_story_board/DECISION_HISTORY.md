@@ -1215,3 +1215,22 @@ The creator: "invente, Román, invente... llévalo a que la escena sea arte", wi
 - V24 ends on Anko's SIGHTINGS **page four**: *Low woods. Tracks. The same walk. Bigger. Smells of wet paper. It came back.*
 - **Basis:** a devil is made of fear, and the bell's second sun was seen from every road and river town. The fear of the settlement grew, so the devil came back larger.
 - V25 runs: the devil returns; titans; Eren can age; Mikasa's turn; then Coco's mother after real room (DH-064).
+
+## DH-067 — Mau and the Goddess: S5, with an S4 seed (creator, 2026-10-11)
+
+The creator, reading V22, gave the shape of Mau's conversation with the Goddess. The full version is in `FLOATING_IDEAS.md` under "Mau and the Goddess talk".
+
+- **The talk is placed in S5,** so S4 isn't overloaded. Mau does not go to her (DH-023).
+- **Second Chance returns to him:** he remembers.
+- **Ori is not an agent.** Ori became independent and the Goddess can no longer see through her: "It seems she did become your daughter."
+- **Mau's origin:** "Not even I know what you are... when I brought an elf, you were there."
+- **What she wants:** to watch her world grow, not to meddle.
+- **The door question:** "Would you go through that door?" "No." "And if Ori's life depended on it?" "Yes." / "Interesting."
+- **The house scene:**
+  - "Worse than the Trial, because everyone can sway him."
+  - Frieren: "When? Not if?"
+  - To Ori: "I'm telling you first."
+  - The fort: Ori on Mau, Frieren holding them both; then Milim.
+- **S4 seed:** Mau tells Echidna about the door, and she remembers Nokotan's deer-shaped hole.
+- **Open:** "a day of Mau with his daughters". Who the second daughter is: ask the creator.
+

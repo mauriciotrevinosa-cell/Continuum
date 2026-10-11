@@ -153,21 +153,44 @@ The creator, reading V18 #44 "Threshold", asked whether Mau is developing someth
 ## PIN (creator, 2026-10-10): where the five came from
 The story has never said where Hakari, Karane, Shizuka, Nano and Kusuri came from, or why they arrived without Rentarou. **Pinned idea:** they were brought in S1, before the rest. Don't use it until the creator unpins it. Related: DH-055 (no "click"; who they really love; their coins).
 
-## Mau and the Goddess talk (creator seed, 2026-10-11; Claude's proposal attached, placement open)
-The creator, reading V22's second tea: "¿qué tal una plática de Mau con la diosa?"
+## Mau and the Goddess talk (creator-directed, 2026-10-11): S5, with an S4 seed. See DH-067.
+The creator, reading V22's second tea, asked for it and then gave the shape. **Placement: S5**, so S4 isn't overloaded and S5 opens on a new question.
 
-**Constraints it must respect:**
-- **The signed condition** (DH-023): *Mau does not go to the Goddess.*
-- **Second Chance is unknown in-world** (MAJOR_ARCS): Mau does not remember dying in front of her. She does.
-- **She made Ori to study love** (MAJOR_ARCS), and Ori became more than what she intended.
+**Constraints it respects:**
+- **The signed condition** (DH-023): Mau does not go to the Goddess; she comes to him.
+- **Second Chance** (MAJOR_ARCS): until this talk Mau does not remember dying in front of her.
+- **Ori was made to study love** (MAJOR_ARCS).
+- **Mau was lying in the clearing where Frieren arrived** (S1E1, "Another Sky").
 
-**Claude's proposal (not canon):**
-- **She comes to him; he never goes.** The channel is the coin he kept ("keep it until you know", V20). He holds it, and instead of giving a name, he asks her something. No name, so it is never spent.
-- **The echo.** She asks him, again, why he did it, the way she asked when he was dying. He answers the way he answered then, without knowing he has answered before. Only she and the reader know it is the second time.
-- **What she wants is love, not power.** She asks about the house, about Ori, about why he stays. She learns something from him, not the other way round.
-- **What it must not do:**
-  - No gifts and no power-ups.
-  - No answers to the big mysteries (the "let me out" voice, the mastermind). She refuses, or doesn't know.
-  - No deus ex machina.
-- **The contract holds.** Afterwards he tells the house at the long table, unasked, because the condition was about not carrying her alone.
-- **Placement:** S4's close, around V26's "the door calls Mau again" (before, as the voice behind the door; or after he stays, with her asking why). Or as the S5 opener.
+**The talk (creator):**
+1. She asks the question she asked after Sukuna (S2). She tells him that thanks to her he is here: before Yuta reached him, she re-anchored his soul. **Mau says nothing, but he remembers.**
+2. **Ori is not an agent.**
+   - After his sacrifice for love of Frieren, the Goddess wanted to understand that love by living it, so she made Ori.
+   - At first she could see through Ori. Ori became independent, and now she sees nothing through her.
+   - "It seems she did become your daughter." Mau says nothing. He listens.
+3. Silence. Then: "Not even I know what you are. I don't know if you belong to my world or another. I was bringing beings here to evolve my world and watch it grow. When I brought an elf, you were there. Not even I knew you were there."
+   - Mau understands "the world is changing" better, and that she doesn't want to meddle in her world. She wants to watch it grow.
+4. Mau: "So all of this is to watch your world grow?" She doesn't answer. She asks: "Would you go through that door?" "No." "And if Ori's life depended on it?" Instantly: "Yes." Silence. **"Interesting."**
+
+**Afterwards, at the house (creator):**
+- He tells everyone, and **it is worse than the Trial, because now everyone has an opinion and can sway him.**
+- Everyone can read his face: he has already decided. Frieren and Ori want to stop him.
+- Mau speaks first: "I think you know my choice. I made it endlessly in the Trial. But now I have an advantage: I know what she wants."
+  - She wants to evolve her world. She made this place and wants to watch it grow, so she brought us to help it grow and become ours.
+  - "She isn't a villain or a saviour. We don't even know what would have happened in our worlds, or this one, if she hadn't taken us." Those are his open questions. "But now I know what she wants, and why she put me through all of it."
+- To Yuta: "I know you helped me after Sukuna. But she told me that before you got there, she had to re-anchor my soul."
+- To Frieren: "And she wants to know what happens when I go through that door." **Frieren: "When? Not if?"**
+  - Mau: "Not even she knows what will happen. Maybe this is how I beat her. How I get to live here, or anywhere, without waking up wondering if I'm still inside that Trial. Without all of you always carrying the thought that one day I'll have to sacrifice myself."
+- To Ori: "I'm telling you first. Early, not late. I'm not planning to do anything yet. But I won't let anything happen to you. And I didn't need a goddess to tell me you're my daughter. I already thought of you as my daughter, and like any good father I want you to be happy and live a long life."
+- Ori runs into the fort. Umaru: Mau may come in, this once. Frieren comes too, because Mau takes her hand. Nobody says anything. **Ori on top of Mau, holding him; Frieren holding both of them.** The rest may come later, but the creator wants this moment intimate.
+- Then Milim floats in with wet eyes: "Me too. If you're my brother's daughter, you're family, and I want you to be happy."
+
+**S4 seed (creator):** Mau tells **Echidna** about the door, and she remembers **the hole shaped like a deer** (V22 "Nokotan"). Use it for a big Echidna and Mau duo, with everyone else.
+
+**Open (creator asked):** "a day of Mau with his daughters", if S4 doesn't already show Ori as Mau and Frieren's daughter clearly enough. Who the second daughter is: ask.
+
+**Claude's elevations (seconded, pending the creator):**
+- **The last thing she saw through Ori.** Anchor the moment Ori became her own to DH-028: Ori asleep in the cart on the ride home from the sea, calling Mau "Dad". Goddess: "The last thing I saw through her eyes was the back of your head, on the road home from the sea. She was asleep. She said one word. And then I couldn't see any more."
+- **The shape is a trap he has seen before.** The door question rebuilds the S2 false binary (MAJOR_ARCS: "Frieren dies, or you do"), now with Ori. S2's answer was the house searching for a third option. S5's engine is the same, but this time he tells them first. **Nokotan's deer-shaped hole is the first clue that some doors are not hers.**
+- **"Interesting"** is her S2 fascination with the anomaly, said aloud for the first time.
+- **"I'm telling you first" pays off DH-028.** At the tidepools Mau promised Ori "you first, before I go" and broke it in V19 with a note. In V20 Ori told him "Tell him first. Before." In S5 he keeps the promise.

@@ -912,3 +912,7 @@ V23 is drafted: **22 chapters, S4E17–S4E20, Days 104–130**, through the thaw
 ## DH-052 — The series arc stays open (creator, 2026-10-10)
 
 Asked where the story stands, Claude proposed that S4's close is the end of the first act. **The creator: don't close anything yet. S5 can still be the beginning.** No act structure is fixed. Don't frame any season ending as the end of an act, in prose or in planning, until the creator says so.
+
+## DH-053 — S4's six months is a push, not a cap (creator, 2026-10-10)
+
+Claude noted that V22–V23 ran about half a month ahead of the season plan, which leaves about 50 days for V24–V26 if S4 must end at six months. **The creator chose to extend:** "la historia dicta... nos podemos extender, recuerda nunca comprimir." The six-month figure was there to get S4 moving after the story reached two and a half years. Day pacing follows the story. Never squeeze scenes to fit a calendar.

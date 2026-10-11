@@ -1047,3 +1047,31 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
    - Gojo's own reckoning: he recognises what it is to be the most dangerous thing in a room, and to be loved anyway.
    - Mau's answer stays the same: "Don't apologise."
 6. **What stays sacred:** Frieren's private aftermath (the "if not him, who" scene), Mau's wear always shown, and no comedy at the trauma itself.
+
+## DH-059 — The Six Eyes, refined (creator, 2026-10-11; supersedes parts of DH-058)
+
+**How Mau gets them.**
+- Mau already understood the Six Eyes as a *concept*. **Seeing them in person gave Analyze a hyper-detailed roadmap, and it recreated them.**
+- **The wheel accelerated Analyze**, because Adapt understood that was the best way.
+- (This replaces DH-058 §1's "adapting to Infinity produces the sense". The wheel is the accelerator; Analyze is the builder.)
+
+**Why Gojo snaps.**
+- **The Six Eyes can detect being analysed**, as if someone had seen how they work.
+- Gojo's excitement spikes. Then, as always when someone gets through his Infinity or plays with his Six Eyes, **he gets furious. That is where everything goes overboard.**
+- Mau already has something like teleportation (the Noise-blink, V18), and Gojo has his own, so the fight gets interesting there.
+
+**The order of events (a week, because building takes time).**
+1. **The fight** pushes Mau into such stress that **Analyze removes the guardrails for a moment.** It is stopped by Rika or Maki (DH-057).
+2. **A week of warning signs.** Ciel detects something. His eye changes: the black-and-red left eye, and then, out of nowhere, **eyes like Gojo's, "an ocean in them".**
+3. **The Six Eyes catastrophe** (DH-058 §2): they read the guardrails, all 143 patterns surge, and it is the most frightening event yet.
+4. **Gojo's filter.** "Borrow mine." This shows who the master is. He really does use the blindfold for a while.
+5. Ciel and Rimuru build **new guardrails**.
+6. **Shoko arrives into the aftermath** (Seiko's coin). The creator: "esto es oro puro".
+
+**The new family shape.**
+- **Gojo takes Mau under his wing, not as a student but almost like a father**, remembering the mistakes he made himself.
+  - The blindfold becomes a running joke ("Gojo and his apprentice"). Gojo leans into it, and Mau doesn't mind.
+- **Shoko takes Mau almost like a son**, protective.
+- **Shoko, Anko and Diablo** are a combination the creator calls gold: two older-sister or mother energies and an overprotective demon around Mau.
+
+**Tone.** It is fine for coping mechanisms to be jokes sometimes, as long as the trauma itself is never the joke.

@@ -1125,3 +1125,4 @@ Claude noted that V22–V23 ran about half a month ahead of the season plan, whi
 **Everything else he carries is a risk every time:** the shadows and the dog, Infinity, the Six Eyes and the wheel. Write his options that way: many things, and almost none of them safe.
 
 **Frieren names the dog.** Mau doesn't. In V14, Ciel told him *don't name it*, and Frieren was there. When the dog is finally subdued (with Yuka's help), Frieren looks at it, and **she** names it. The name is chosen at drafting, in Frieren's style: plain, odd, and from her own long memory.
+- **The callback (creator).** Mau says he likes the name, the way she named him once. Canon S1E1 "Another Sky": she read *MAU T* on the back of a jersey (number 5) and said "Maybe your name is Mau." He said "Mau", and then: "**I like it.**" When Frieren names the dog, Mau answers with those same words.

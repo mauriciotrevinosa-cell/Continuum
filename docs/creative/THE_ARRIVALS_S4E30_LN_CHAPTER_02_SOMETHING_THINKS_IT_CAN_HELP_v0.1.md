@@ -84,6 +84,12 @@ Nobody said anything.
 
 Mau stood in the doorway of the intake hall, with the three of them beside him and Gojo behind, looking at the woman made of crystal. And he felt the wheel, far back behind the walls, attending. Waiting. Very still.
 
+And he remembered something.
+
+The atelier floor, four months ago, on the day the ink came back. A small witch with her face still wet, turning her notebook round so he could see. Two lattices, one inside the other, and an empty middle, and his own name in the margin with a question mark after it. *Do you think you could be the one? Who finds the missing piece?*
+
+*I don't know,* he had said. *But if I am, I'll do everything I can.*
+
 He felt the shape of an idea come up into his head. All at once, the way the worst ideas always came.
 
 "I have a plan," said Mau.
@@ -110,7 +116,7 @@ He said it in the doorway of the intake hall, quietly, carefully, in order, the 
 
 Rimuru's face did not change. But something behind it did.
 
-"Echidna's book," said Mau. "The pale one. Coco told me about it. The woman in the other world worked out the undoing. All of it. Except the centre. To undo it in a person, you have to know the shape it took inside them. From inside. The order it moved through them." He paused. "Nobody can know that from outside. No spell. No book. Coco looked for five weeks."
+"Echidna's book," said Mau. "The pale one. Coco showed me the page, on the atelier floor, the day the ink came back. The woman in the other world worked out the undoing. All of it. Except the centre. To undo it in a person, you have to know the shape it took inside them. From inside. The order it moved through them." He paused. "Nobody can know that from outside. No spell. No book. Coco looked for five weeks."
 
 "So you—" said Yuta slowly.
 

@@ -166,6 +166,10 @@ Qifrey did not say anything.
 
 "Not now," said Coco. "Not while Fern says everything stops. Not while his walls are tired. Not while he has to wear a blindfold four hours a day and Diablo walks behind him and Shoko takes his pulse at every meal." She was looking at the page. "I saw it. The field. I was at the window. I saw what happens when the wheel turns." Her voice was quite steady. "I'm not going to ask him to turn it. For me. Not while it can do that."
 
+She was quiet for a moment.
+
+"I asked him once," she said. "In the winter. On the atelier floor, the day the ink came back. I showed him this page, and I asked if he thought he could be the one who finds the missing piece." She touched the word in the margin. "He said he didn't know. He said if he was, he'd do everything he could." Her voice did not change. "And he would. Everything. That's exactly why I can't ask him now."
+
 "Coco," said Qifrey quietly.
 
 "Mother's waited this long," said Coco. "She's crystal. She doesn't know how long it's been. She doesn't know anything." Her voice wobbled, very slightly, and then was steady again. "She can wait a bit more. Until Fern says. Until he's not tired." She paused. "Until I find another way. Or until there isn't one and he's strong enough and *he* says yes. Not because I asked. Because he wants to."

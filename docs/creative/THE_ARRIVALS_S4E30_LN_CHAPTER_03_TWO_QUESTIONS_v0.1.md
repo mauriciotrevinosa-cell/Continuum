@@ -52,6 +52,10 @@ The fort went completely silent.
 
 Coco did not move. She did not breathe. She looked at him over Qifrey's arm with her swollen eyes, and her face did not do anything at all.
 
+"You asked me once," said Mau. "On the atelier floor. The day the ink came back. If I thought I could be the one who finds the missing piece." He did not look away from her. "I said I didn't know. I said if I was, I'd do everything I could." He paused. "I think I might be. So this is me doing everything I can."
+
+Coco did not move.
+
 "I think we can help," said Mau again, quietly. "Maybe. There's a way. It came to me in the hall, with her. And Rimuru and Yuta and Ciel have gone through it. And Ciel says it's the best way anybody could find." He did not look away from her. "But before we move a finger. Before anybody does anything at all. We want your opinion. And your permission."
 
 Coco stared at him.

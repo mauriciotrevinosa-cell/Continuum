@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 16  
-**Continuity state:** Day 71 | Qifrey's old knife; four hands cut the notch; silver, then dark | one bottle a week | Agott rubs the numbers off her hand: 'I'll count up' | Richeh's drainage glyph for Senku ('You're a genius'); Tetia's water circle; Agott's warming glyph under the kitchen floor | Coco refills the bottle that was barely a stain; 'Now.' | 'We're witches again.'
+**Continuity state:** Day 71 | Qifrey's old knife; four hands cut the notch; silver, then dark | one bottle a week | Agott rubs the numbers off her hand: 'I'll count up' | Richeh's drainage glyph for Senku ('You're a genius'); Tetia's water circle; Agott's warming glyph under the kitchen floor | Coco refills the bottle that was barely a stain; 'Now.' | 'We're witches again.' | she shows Mau the page with 'Mau?': 'Do you think you could be the one? Who finds the missing piece?' / 'I don't know... But if I am, I'll do everything I can' / 'Not yet'
 
 *When: Day 71. Rimuru was still asleep as a slime, and the barn, the Searchers and the weekly tea all went on around him.*
 
@@ -151,3 +151,47 @@ Then she closed the notebook and looked up at Mau in the doorway, with her face 
 "You never stopped," said Mau.
 
 "No," Coco agreed. "But now we don't have to count."
+
+She looked down at the notebook again. At the two lattices. At the empty centre. And at the word in the margin beside it, very small, that she had written on a snowy night after the corridor and never crossed out.
+
+"Mau," she said. "Can I show you something?"
+
+He came in and sat down on the floor beside her, by the row of bottles. She turned the notebook round so he could see.
+
+He saw the lattices first. Then the empty middle. Then the word.
+
+*Mau?*
+
+He looked at it for a long moment.
+
+"Echidna's book," said Coco. Quietly. Quickly, the way she said things she had practised. "The woman who wrote it worked out the undoing. All of it. Except the middle." She put her finger on the empty centre. "To fill it in, you'd have to know what shape the spell took inside the person. From inside. The order it went through them. Nobody can see that from outside. Not Echidna. Not Qifrey. Not any book." She swallowed. "And you went somewhere nobody else could see. Four hundred and thirty-seven times. And you came back. And you remembered all of it."
+
+Mau did not say anything.
+
+"I'm not asking you to do anything," said Coco. "I don't even know what there'd be to do." She did not look at him. She looked at the empty centre. "I just wanted to know. Do you think you could be the one? Who finds the missing piece?"
+
+Mau looked at the empty middle of the lattice for a long time.
+
+He thought about the white place. About dying, and coming back, and dying. About the things in him that he did not understand, that had come out of the Trial and the walls and the Noise, sealed and pinned and waiting. He did not know what any of them could do. Nobody did. Not even Ciel.
+
+"I don't know," he said.
+
+Coco nodded. As if she had expected that.
+
+"I don't know how," said Mau. "I don't know if there's anything in me that could." He looked at the word in the margin. At his own name, with a question mark after it, in her careful letters. "But if I am. If there's any way at all that it's me." He looked up at her. "I'll do everything I can."
+
+Coco looked at him.
+
+"Don't promise," she said. "Frieren says you keep every promise, even the stupid ones."
+
+"I'm not promising," said Mau. "I'm telling you."
+
+Coco looked at him for a moment longer. Then she closed the notebook. She did not cross out the word in the margin. She put the notebook back in the pocket of her dress, carefully, and put her hand flat over it.
+
+"Not yet," she said. "I'm not asking yet. I just wanted you to know it was there."
+
+"Okay," said Mau.
+
+They sat on the floor of the atelier together for a while, by the row of bottles, the old one at the end with ink in it again. Neither of them said anything else about it.
+
+He did not know, then, what in him might one day answer. He only knew that she had asked. And he did not forget.

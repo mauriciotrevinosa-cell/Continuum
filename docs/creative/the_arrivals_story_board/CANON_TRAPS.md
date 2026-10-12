@@ -48,6 +48,8 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Nazuna** sleeps after breakfast and wakes an hour before dinner. Night
   shifts: V21 winter on, summer off, back on from V25 #1.
 - **Seiko** stuffed Turbo Granny into the lucky cat.
+- **Ori looks sixteen or seventeen** but was made a little after the S2
+  Sukuna battle; she may act like a child. Not a contradiction (DH-070).
 - **Kessoku** is Bocchi, Kita, Nijika and Ryo. Only Bocchi and Kita are a
   couple; "Kessoku were all on dates" is wrong.
 - **Kaneki** arrived in S3. By V24 he has lived here a little over a year,

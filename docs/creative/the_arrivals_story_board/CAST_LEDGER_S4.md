@@ -77,7 +77,7 @@
   - Ciel; the shadow relay at the gate. Foundation was single-use and is spent.
   - "One empty room, always."
   - Coin: held (no petition; "they have Benimaru").
-- **Ori.** Their daughter in all but metaphysics. Room with a door into the east end, shared with Milim on a trial run (the red ribbon). **V24 #37: her own scene;** she flickered once (Day 160), settled, and now says "Two" at the reset hour. No "before", so she is a candidate for the Bocchi pool.
+- **Ori.** Their daughter in all but metaphysics. Looks sixteen or seventeen; made a little after the S2 Sukuna battle, so she can act like a child (DH-070). Room with a door into the east end, shared with Milim on a trial run (the red ribbon). **V24 #37: her own scene;** she flickered once (Day 160), settled, and now says "Two" at the reset hour. No "before", so she is a candidate for the Bocchi pool.
 - **Milim.** Head of Fun; Guardian of the fort and of the gate entrance. Never an outsider. **Dating Day accomplice.** "Gently." Candidate for the Bocchi pool.
 - **Yuta.** Older-brother anchor; outward RCT; the ring. In his prime, **with Kenjaku's stitch scar across his forehead** (DH-056). He lived a whole lifetime with Maki (S2). Sync about 5%; no Domain yet. Coin: **spent on Gojo**, Day 132 (V24).
 - **Maki.** JJK 0 in look, with post-Mai strength (the perfected restriction); sync about 70% (DH-056). Lived the lifetime with Yuta. Spear (cursed tool); gate party. Coin: **spent on Yuka**, Day 141 (V24; DH-055).
@@ -246,6 +246,9 @@ The creator asked to see how much each person has appeared, whether they have ha
 | Nazuna | 12 / 1 | — | Titan night; daytime-sleep comedy |
 | Mai | 11 / 0 | **Construction kin with Mau (V18), never followed up** | **V24: Yuka, and Mau's construction** |
 | Vamola | 11 / 0 | Restored 2026-10-10 | Fort; Momo's room |
+
+### V26 presence (creator, DH-070)
+Give natural beats, from their own lanes, to those who went quiet in V25: Pride, Sekhmet, Carmilla, Minerva; Mai; Bocchi, Kita, Ryo; the five. No forced cameos.
 
 ## 5. Bonds built earlier that must not go silent
 

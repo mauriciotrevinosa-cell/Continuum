@@ -1331,3 +1331,11 @@ The creator, reading V22 #15, said characters still vanish (mentioned only in ge
   - **"Look at Me" now goes:** one of Frieren's spoiled nights (brush my hair, the cars twice, "say something nice"). "What if—" and she lets it sink. Mau doesn't push; he answers "Longer". At dawn he asks Maki because she can't tell *him*. Maki takes her to the river by day.
   - Maki went first in her life with Yuta, and he lived on; that is her answer to "longer than me". The table meets in the evening, after the lamps go down.
 
+
+## DH-070 — Ori's apparent age; V26 presence (creator, 2026-10-12)
+
+Answers to two questions from the V22–V25 continuity audit.
+
+- **Ori looks sixteen or seventeen, but she is young.** She was made a little after the S2 Sukuna battle, so in lived time she is not yet two years old. Prose may show her behaving like a child while she looks like a teenager. Both are right; neither is a slip.
+- **V26 gives natural beats to the residents who went quiet in V25:** Pride, Sekhmet, Carmilla and Minerva; Mai; Bocchi, Kita and Ryo; the five. Natural means from their own lanes (the weekly tea, the crackers table, rehearsal, the kotatsu, construction), not cameos added to prove they exist (Story Constitution §4). *Seconded.*
+

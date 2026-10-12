@@ -60,7 +60,7 @@ Yuka stopped.
 
 Maki leaned the pole against the barn wall. She sat down on the chopping block beside it and looked up at her granddaughter, and her face was not her training face any more. It was something quieter.
 
-"I'll tell you something about that elf," said Maki. "She's my friend. We stopped talking once, early on. Over something stupid. The whole house tiptoed for a week. It was the worst week I had here, and I've had weeks here with things coming out of the hills." She looked at her hands. "She's not going to hurt you. That's not why I'm saying it. She'd never touch you."
+"I'll tell you something about that elf," said Maki. "She's my friend. We stopped talking once, early on, and it was the worst stretch I had here, and I've had weeks here with things coming out of the hills. Now we sit at Seiko's table together every week, at two in the morning, and she carries things for me that I can't carry. And I carry hers." She looked at her hands. "She's not going to hurt you. That's not why I'm saying it. She'd never touch you."
 
 "Then why—"
 

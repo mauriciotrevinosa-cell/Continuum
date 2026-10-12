@@ -1320,3 +1320,10 @@ The creator, reading V22 #15, said characters still vanish (mentioned only in ge
 - **V23:** one crackers-table scene, a Yuta beat, and Nazuna and Kaneki.
 - **V24:** in "Everything Stops", the table comes to Frieren.
 - **V21:** an optional seed, as time allows.
+- **Status (2026-10-11, done):**
+  - V22 new chapters: #17 "Look at Me", #23 "The Crackers Table", #26 "Yuta's Turn" (Day 95, aligned to the roof cycle). Touches in #27, #28 and #31.
+  - V23 new #14 "Not Twice" (Day 116): Maki brings Yuka and the coin; Mai holds it for a week.
+  - V24 "Everything Stops": the table comes to the clinic. #32: Maki's warning names the table.
+  - Also fixed: Wakana is a man in canon, and several of this session's chapters had him as "she" (V22 #26, V24, V25). V25 #1: Nazuna's night shift now resumes rather than starts.
+  - V22 is 31 chapters, V23 23, S4 180.
+

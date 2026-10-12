@@ -43,6 +43,7 @@
 | **Shoko, Anko and Diablo** | The committee (never named). **The rota:** morning A.U., afternoon S.I., night D. | V24 #34 "Two Unlit Cigarettes" | Presence; it stays | Two saved cigarettes (Anko came over with nine). Anko: "I had my hand in my coat." Shoko: "When you've opened enough of them, they're all children." Diablo: Mau may not die, or Rimuru cries. |
 | **Mai and Yuka** | Great-aunt and great-niece. | V24 #31 (the corridor; the blanket) | Their arc | **Mai's arc stays untouched** (DH-057). |
 | **Mau and Rem** | **Family, both ways** (V25 #7–8). She is not his caretaker any more. | V25 #8 "Only When It Rains" | Presence; before the door | She smelled the Trial on him and waited for him to tell. "Don't you dare be him. Tell someone first." Some nights he pours. |
+| **The crackers table** (Seiko, Frieren, Maki, Mai; Turbo Granny under protest) | The women's parallel to the roof night. Weekly, at two in the morning, in Seiko's room (the Muslin, then the real house). Rule: **"Nobody leaves this table carrying what they came in with."** | V22 #23 (founded Day 81); V23 #14 "Not Twice"; V24 "Everything Stops" (the table comes to the clinic) | Every volume: a beat | Founded after V22 #17 "Look at Me" (Maki tells Frieren about Mai's death in her world, the clan, the doors; **Frieren keeps it from Mai**, DH-057). "Not tonight" is allowed once. Seiko and Turbo Granny bicker ("You stuffed me into a cat"). Seiko keeps her coin for "someone who'll need a doctor". |
 | **Senku and Byakuya** | Father and son. "It wasn't irrelevant." / "You're answering." | V25 #20–21 | Presence | The annealing chamber; the telescope; the stars to name. Nothing revolves around Byakuya. |
 | **Okarun and Jiji** | Rivals, best friends (S-01; see V25 #22–23). | V25 #22–23 | Presence | "Shut up." |
 | **Aira and Cobb** (and the bean-girl) | Protector and the one she stands between. | V25 #11, #24, #25 | Presence | "You just stand in front of it anyway." Aira carries Mikasa's old blade with the nick. |
@@ -106,18 +107,18 @@
 - **Hakari, Karane, Shizuka, Nano, Kusuri** ("the five"). One room with five beds, no walls; the kotatsu.
   - **⚠ absent since V21 #14** (Kusuri less so: hand cream, chemistry with Maomao and Senku).
   - DH-055: no click, inter-girl threads, the coins question. Pin: brought in S1.
-- **Mai.** Construction (sync about 40%; one bullet a day, and it costs her). Alive here, though in Maki's lived life she died. **She may know**, but it stays untouched until their arc; Yuta stays out of it (DH-057). Room beside Yuta and Maki; hovers at the edge of the pack. **⚠ nearly absent from all of S4.** Her natural moment is V24, with Yuka.
+- **Mai.** Construction (sync about 40%; one bullet a day, and it costs her). **The crackers table** (V22 #23): "my sister looks at me like I'm going to disappear"; held Maki's coin for a week (V23 #14). Alive here, though in Maki's lived life she died. **She may know**, but it stays untouched until their arc; Yuta stays out of it (DH-057). Room beside Yuta and Maki; hovers at the edge of the pack. **⚠ nearly absent from all of S4.** Her natural moment is V24, with Yuka.
 - **Rem.** Room at the turn, **name in pencil**. Agent TEACUP. 100% again; quips. Coin: **spent (Ram)**.
 - **Seika.** STARRY (2); the ugly coat; arms folded at the back. West wing room (on Nijika's floor at first).
 - **Ram.** West wing room beside Rem's turn. Every dinner: crude, barely edible, a disgrace, idiots, except Rem.
 
 ### Ring Two: close
 
-- **Kaneki.** Night timber shifts; charcoal kilns; terrible coffee on purpose. Room past Rem's turn. Coin: needs two (S5). **V24 #35:** meets Shoko ("Not a patient. Not asking.").
+- **Kaneki.** Night timber shifts; charcoal kilns; terrible coffee on purpose; holds a cracker at the long table and doesn't eat it. **The fourth cup on the roof (V22 #26):** he sometimes sits at the end of the ridge on roof nights. Room past Rem's turn. Coin: needs two (S5). **V24 #35:** meets Shoko ("Not a patient. Not asking.").
 - **Aira.** Clay and plaster; Momo's best friend; "Not interested" (then sleds). **V25:** stands between (the cottages, Cobb); carries Mikasa's old blade with the nick; cut a titan's ankle (#25).
 - **Vamola.** In the fort, at Momo's elbow. Eats first, notices things, strong, likes the gate ration bricks. Room with Momo. **Restored 2026-10-10.**
 - **Turbo Granny.** On Okarun's sill, "barely acceptable". V24: "the beanpole" (Gojo) fascinates and annoys her; she bit Okarun twice in the cellars.
-- **Nazuna.** Loft over Anko's bed. Vampire; sleeps by day; flies. Loves Ko (not here). V24 #38: wakes at sunset and eats Gojo's honey cakes.
+- **Nazuna.** Loft over Anko's bed. Vampire; flies. Loves Ko (not here). **Routine (canon from V22 #26): asleep just after breakfast, awake an hour before dinner, because "everything interesting happens at dinner".** Notices everything, never says. Night shifts in winter; stopped in the warm months; restarted V25 #1. V24 #38: Gojo's honey cakes.
 - **Jinshi.** Arrival House key every morning; the register girl and staff. *Temporary.*
 - **Diablo.** Small room by Rimuru's office. Kufufufu. **V24: asks to stop being Rimuru's assistant and become everyone's** (DH-060): "If you betray Rimuru-sama, or make him cry, I will not hesitate to kill you." Helps Milim as Guardian. Wears the sash ASSISTANT TO EVERYONE (OFFICIAL). Night shift on Anko's rota (#34).
 - **Eren.** Top bunk; exits before rooms; walks the lime route. Not yet with Mikasa. Coin: Armin proposed; the house waits.
@@ -252,7 +253,7 @@ These are threads built in S2 and S3 with real weight. **Check each before every
 | Bond | Where it was built | S4 status | Pick it up by |
 |---|---|---|---|
 | **Mai and Mau: "construction"** (both techniques cost the body; Mai's one bullet a day; hands that shake after; "You stood at the door... so nobody behind it had to wonder who was standing there") | V18 "The Night Between" | **Picked up: V21 #5 "Construction"; V24 #31 "Glue"** (the corridor: "Yours was a lot of bullets"; the cost log: *Day 145. Everything. Hands: still shaking. Helped: everyone.* / "That's the right count") | Keep alive; the shelf for the bullets |
-| **Maki and Frieren**, friendship ("must survive S3") | V13 "Maki and Frieren Are Not Talking" | **Picked up: V24 #32** (Maki's warning: "She's my friend... she'd step back") | Presence |
+| **Maki and Frieren**, friendship ("must survive S3") | V13 "Maki and Frieren Are Not Talking" | **Deep (DH-069):** V22 #17 "Look at Me" (Maki is her support; Mai's death told; "It goes both ways"); the crackers table weekly; V23 #14; V24 "Everything Stops" ("Look at me. Breathe with me."); V24 #32 references it | Every volume, at the table |
 | **Seiko and Frieren** ("judge everyone") | V15 | **Picked up: V24 #38** (the shared look at Gojo on the bench: "Hmph." / "Mm.") | Presence |
 | **Milim wants both brothers** (Rimuru and Mau) | V16 | Partly (the Guardian) | Titans; Gojo's rematch talk |
 | **Okarun and Mau**, direct friendship | V16 "Okarun Comes Looking for Mau" | **Picked up: V24 #38** (the bench: "Man. You okay?"; the cellar; Turbo Granny bit him twice) | Presence |
@@ -269,6 +270,7 @@ These are threads built in S2 and S3 with real weight. **Check each before every
 ## 3. Update log
 - 2026-10-10: created after the V23 audit. Vamola restored (DH-054); Anko and Nazuna corrected; Bocchi and Kita flagged as at risk of becoming implied.
 - 2026-10-11: V21 gained #5 "Construction" (Mai and Mau) and #13 "A Hand That Can Be Found" (Bocchi and Kita); V21 renumbered (DH-065).
+- 2026-10-11: presence pass 2 (DH-069): the crackers table founded (V22 #17, #23, #26 new; V23 #14 new; V24 scene); Maki and Frieren deep; Nazuna's routine; Kaneki's fourth cup; Wakana's pronouns fixed (he).
 - 2026-10-11: V25 written (27 chapters, S4E27–S4E32). Eren and Mikasa together; Mau and Rem both ways; the route people; Coco's mother, Byakuya, and Jiji (S-01) arrived; one refuge family left (DH-068).
 - 2026-10-11: V24 written (38 chapters, S4E21-S4E26). Relationships, §5 bonds and people updated; Gojo, Shoko, Yuka and Ear added; the Ori, Suika, Kaneki, Nazuna and Turbo Granny flags cleared by real beats (DH-066).
 - 2026-10-10: presence pass. Mai, the five, Nazuna, Turbo Granny, Aira, Kaneki and Witch Hat were inserted into 19 S4 group scenes. §4 (presence, arcs, role) and §5 (silent bonds, including Mai and Mau's construction) were added.

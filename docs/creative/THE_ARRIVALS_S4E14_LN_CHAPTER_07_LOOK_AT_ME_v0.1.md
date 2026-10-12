@@ -4,23 +4,23 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 17  
-**Continuity state:** Night of Day 71 into Day 72 | Rimuru still a slime; Mau up four times / Diablo: 'Go to bed' | one of those nights: Frieren decrees: brush my hair, hold the lamp, the cars twice, 'say something nice' | 'You're not the first thing I remember. You're the first thing' | 'What if—' and she lets it sink | he doesn't push: 'Longer' / 'Longer' | the reset hour: braced, her cold foot on his shin | dawn behind the barn: Mau asks Maki: 'I want her to have someone who isn't me' | the river: Maki heard 'longer than me'; she went first in her life with Yuta, and he lived | 'Four hundred and thirty-seven'; the foot is his anchor and her check | she nearly told him; he let her not | Maki tells her about Mai, the clan, the doors; 'both ways'; Frieren won't tell Mai | Maki's nod at the woodpile | Yuta: 'Did you tell her?' / 'Yes' / 'Good'
+**Continuity state:** Night of Day 71 into Day 72 | Rimuru still a slime in the loft above their closet; Mau up the ladder four times / Diablo through the door: 'Go to bed' | one of those nights: Frieren decrees: brush my hair, hold the lamp, the cars twice, 'say something nice' | 'You're not the first thing I remember. You're the first thing' | 'What if—' and she lets it sink | he doesn't push: 'Longer' / 'Longer' | the reset hour: braced, her cold foot on his shin | dawn behind the barn: Mau asks Maki: 'I want her to have someone who isn't me' | the river: Maki heard 'longer than me'; she went first in her life with Yuta, and he lived | 'Four hundred and thirty-seven'; the foot is his anchor and her check | she nearly told him; he let her not | Maki tells her about Mai, the clan, the doors; 'both ways'; Frieren won't tell Mai | Maki's nod at the woodpile | Yuta: 'Did you tell her?' / 'Yes' / 'Good'
 
-*When: The night of Day 71, into the morning of Day 72. Rimuru is still asleep as a slime in the loft of the Muslin, with Diablo outside his door; Mau has climbed up to check on him four times since dinner. The witches have ink again. The night before, under the ink tree, Frieren asked for "longer".*
+*When: The night of Day 71, into the morning of Day 72. Rimuru is still asleep as a slime in the loft above the closet in Mau and Frieren's room, with Diablo on a stool outside their door; Mau has got up to look at him four times since dinner. The witches have ink again. The night before, under the ink tree, Frieren asked for "longer".*
 
 Mau could not sleep, because Rimuru was still a slime.
 
-It was not that anything was wrong. Ciel had said so, over and over, in the flat clear voice that meant she was saying it for Mau's sake and not because anything had changed. *He is resting. Foundation took everything. He will wake when he wakes.* Diablo was outside the loft ladder on a stool, with his hands folded and his eyes closed, not sleeping, the way Diablo did not sleep. And up in the loft, on his pillow, Rimuru was a small pale puddle that rose and fell, very slowly, like something breathing in the bottom of a bowl.
+It was not that anything was wrong. Ciel had said so, over and over, in the flat clear voice that meant she was saying it for Mau's sake and not because anything had changed. *He is resting. Foundation took everything. He will wake when he wakes.* Diablo was on a stool outside the door of their corner, with his hands folded and his eyes closed, not sleeping, the way Diablo did not sleep. And above the closet, in the loft that was Rimuru's, on his pillow, Rimuru was a small pale puddle that rose and fell, very slowly, like something breathing in the bottom of a bowl.
 
-Mau had climbed up four times since dinner to look at him.
+Mau had got up four times since dinner to look at him. Out of bed, across the room, three rungs up the loft ladder, his head over the edge, looking. Then down again.
 
-On the fourth time, Diablo opened one eye and said, pleasantly, "Mau-sama. He is breathing. He was breathing the last three times. He will be breathing the next time." And closed the eye again. "Go to bed."
+On the fourth time, Diablo's voice came through the cloth of the door, pleasantly, without the door opening. "Mau-sama. He is breathing. He was breathing the last three times. He will be breathing the next time." A pause. "Go to bed."
 
-So Mau went to bed. To the east end of the Muslin, behind the cloth wall, where the corner that was his and Frieren's had a bed and a shelf and a lamp, and, against the wall, the low cushion and the crate of books that was hers. Her reading place. Where she sat in the evenings with a grimoire on her knee and turned pages so slowly you could not tell if she was reading or dreaming.
+So Mau came down the ladder and went to bed. Across their corner of the Muslin, past the shelf and the lamp, past the low cushion against the wall and the crate of books that was hers. Her reading place. Where she sat in the evenings with a grimoire on her knee and turned pages so slowly you could not tell if she was reading or dreaming.
 
 She was not reading.
 
-She was on the bed, sitting up against the wall, in the old grey shirt she slept in, with her knees drawn up and the blanket over them. Waiting for him. She had clearly been waiting for some time.
+She was on the bed, sitting up against the wall, in the old grey shirt she slept in, with her knees drawn up and the blanket over them. She had been watching him go up and down the ladder all evening. She had clearly been waiting for him to stop.
 
 "You went up again," said Frieren.
 

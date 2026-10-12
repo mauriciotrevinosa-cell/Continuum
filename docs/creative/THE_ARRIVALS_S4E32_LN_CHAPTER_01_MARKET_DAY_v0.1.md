@@ -110,7 +110,7 @@ He stood in the road in front of his cart with his hat in his hands, and looked 
 
 The road went very quiet.
 
-"From people," said Hollis again. "Who make soup. Who pay on time. Who sit at a long table and work out what's real and what isn't." He did not look away from Pell. "A girl who broke twenty-nine chimneys out of forty, and cried over every one, and kept going. A man who came back from the dead to build an oven so she'd stop breaking them. An apothecary who tests her mushrooms on her own arm." He turned his hat round in his hands. "That's where it comes from. From people. Up there. Who knew your hands were cracked and your lamps were broken, and made you something. And never asked for anything back. And let me tell you it was an old woman on the coast road, because they knew you'd never buy it if you knew it was them."
+"From people," said Hollis again. "Who make soup. Who pay on time. Who sit at a long table and work out what's real and what isn't." He did not look away from Pell. "A young man who broke twenty-nine chimneys out of forty, and cried over every one, and kept going. A man who came back from the dead to build an oven so she'd stop breaking them. An apothecary who tests her mushrooms on her own arm." He turned his hat round in his hands. "That's where it comes from. From people. Up there. Who knew your hands were cracked and your lamps were broken, and made you something. And never asked for anything back. And let me tell you it was an old woman on the coast road, because they knew you'd never buy it if you knew it was them."
 
 Nobody said anything.
 

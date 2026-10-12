@@ -90,9 +90,9 @@ At the big man in the white jumpsuit with patches on the shoulders, with his sle
 
 "Good," said Byakuya. "Let's go."
 
-Wakana, at the bench, was looking from one of them to the other with her mouth slightly open.
+Wakana, at the bench, was looking from one of them to the other with his mouth slightly open.
 
-"You told him about annealing," she said to Byakuya, "when he was *six*?"
+"You told him about annealing," he said to Byakuya, "when he was *six*?"
 
 "Five and a half," said Byakuya. "He'd broken a glass. He wanted to know why it broke the way it did." He laughed. "He asked me forty questions. I answered thirty-nine. He was furious about the fortieth."
 
@@ -118,19 +118,19 @@ Byakuya and Senku and Wakana, with Rimuru advising and Momo bringing soup out to
 
 In the morning, eighteen of the twenty were whole.
 
-Wakana took them out one at a time and held each one up to the light and did not say anything at all. She lined them up on the bench. Eighteen. Clear and whole and only very slightly lopsided.
+Wakana took them out one at a time and held each one up to the light and did not say anything at all. He lined them up on the bench. Eighteen. Clear and whole and only very slightly lopsided.
 
-Then she sat down on the floor of the lab and cried.
+Then he sat down on the floor of the lab and cried.
 
 Byakuya looked at her. Then at Senku.
 
-"Is she all right?" he said.
+"Is he all right?" he said.
 
-"She broke twenty-nine," said Senku. "The first time. Out of forty." He was looking at the eighteen chimneys on the bench. "She held every one like an egg."
+"He broke twenty-nine," said Senku. "The first time. Out of forty." He was looking at the eighteen chimneys on the bench. "He held every one like an egg."
 
-Byakuya looked at Wakana on the floor for a moment. Then he sat down on the floor of the lab beside her, a big man in a white jumpsuit, and did not say anything, and patted her shoulder, once, awkwardly, the way fathers do.
+Byakuya looked at Wakana on the floor for a moment. Then he sat down on the floor of the lab beside him, a big man in a white jumpsuit, and did not say anything, and patted his shoulder, once, awkwardly, the way fathers do.
 
-Wakana cried harder. But she was laughing too.
+Wakana cried harder. But he was laughing too.
 
 
 
@@ -220,7 +220,7 @@ Suika had gone very still.
 
 He was quiet for a moment.
 
-"And the father came," said Byakuya. "And the first thing he saw was the boy. Grown. Standing in a doorway. With his hands in his pockets. Pretending he hadn't been crying." He laughed, softly. "And the boy said it had never been irrelevant. And the father said, *you're answering*. And then they built an oven together, and cooled some glass, and a girl who'd broken twenty-nine of them sat on the floor and cried."
+"And the father came," said Byakuya. "And the first thing he saw was the boy. Grown. Standing in a doorway. With his hands in his pockets. Pretending he hadn't been crying." He laughed, softly. "And the boy said it had never been irrelevant. And the father said, *you're answering*. And then they built an oven together, and cooled some glass, and a boy who'd broken twenty-nine of them sat on the floor and cried."
 
 Suika was crying too. Quietly. Behind her glasses.
 

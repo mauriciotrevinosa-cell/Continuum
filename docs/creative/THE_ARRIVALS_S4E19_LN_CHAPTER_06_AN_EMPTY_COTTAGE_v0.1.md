@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 23
-## Chapter 16 — An Empty Cottage
+## Chapter 17 — An Empty Cottage
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
-**Reading order:** 16  
+**Reading order:** 17  
 **Continuity state:** Days 121-122 | Departures: one family (four). Bees: Daphne. Cushion: kept. | a valley woman leaves the washing court for her cousin's | Dessa's friend: 'More will go... Not yet... Somebody has to sing badly at these troughs' | the Fastest Child on the empty step; Seika: 'People leave clubs... You keep the stage swept. In case.' | she sweeps it; the broom by the door | THE CUSHION IS STILL THERE.
 
 *When: Days 121 and 122: the evening the family left, and the day after.*

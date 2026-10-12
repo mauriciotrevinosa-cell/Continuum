@@ -90,7 +90,7 @@ Gojo opened his mouth. He closed it. Behind them, on the path, Shoko laughed out
 
 It was an ordinary afternoon after that. That was the thing. It was the first ordinary afternoon in seventeen days, and everyone in the house seemed to know it, and nobody said so.
 
-Wakana and Marin hung the new glass in the east window. Wakana on the ladder, Marin on the floor holding it steady, both of them very careful and very quiet, until the pane went into its frame with a soft click and was simply a window again. Marin put her hand flat on the small of Wakana's back as she came down the ladder, and left it there, and neither of them said anything about it. Nobody in the east room said anything about it either. Frieren, in the reading chair, turned a page.
+Wakana and Marin hung the new glass in the east window. Wakana on the ladder, Marin on the floor holding it steady, both of them very careful and very quiet, until the pane went into its frame with a soft click and was simply a window again. Marin put her hand flat on the small of Wakana's back as he came down the ladder, and left it there, and neither of them said anything about it. Nobody in the east room said anything about it either. Frieren, in the reading chair, turned a page.
 
 In the music room, before the afternoon session, Kita sat behind Bocchi on the floor and did her hair. Two plaits. Slowly. Bocchi sat very still with her guitar across her knees and her face pink, and Ryo watched from the drum stool and said nothing, for once, and Nijika pretended to tune something.
 

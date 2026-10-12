@@ -56,7 +56,7 @@ She came out to the yard for Gojo's lesson and sat on the woodpile with the dog 
 
 On the woodpile, Yuka laughed, and then put her hand over her mouth, as if she had not meant to.
 
-She came to the workshop afterward, where Wakana had the new glass for the east window laid out on the bench on a bed of straw. She sat on an upturned crate in the corner while Mau held the pane steady and Wakana scored it. Wakana looked at the girl in the corner, and then at Mau, and raised her eyebrows very slightly. Mau shook his head very slightly. Wakana went back to the glass.
+She came to the workshop afterward, where Wakana had the new glass for the east window laid out on the bench on a bed of straw. She sat on an upturned crate in the corner while Mau held the pane steady and Wakana scored it. Wakana looked at the girl in the corner, and then at Mau, and raised his eyebrows very slightly. Mau shook his head very slightly. Wakana went back to the glass.
 
 "She's your shadow," said Marin, in the doorway, delighted, with her arms full of blue cloth. "Mau, you've got a *shadow*. Like a duckling. Like a little—"
 

@@ -4,9 +4,9 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 26  
-**Continuity state:** Day 97 | Nazuna wakes an hour before dinner, as always now ('Everything interesting happens at dinner'); she notices Yuta touching his pocket | the first roof night on the real house's roof | Rimuru: 'You're carrying something' | the coin; his teacher, Satoru Gojo; his hand goes to the stitched scar and nobody asks | 'Sukuna's here... I'd be bringing him back to die again' / 'Now nobody else has to' | Mau: 'That's what I do... And now you're doing it'; Rimuru: 'The rule's before. Not after' | 'You just have to decide whether you miss him' / 'Every day' / 'Then it's not whether. It's when' / 'On this roof' | Kaneki brings three cups up: one coin, two people; 'Make sure it's the one you can't not' | Nazuna: 'Boys' club... That's what roofs are for' | the fourth cup on the end of the ridge, gone by morning
+**Continuity state:** Day 95 | Nazuna wakes an hour before dinner, as always now ('Everything interesting happens at dinner'); she notices Yuta touching his pocket | the first roof night on the real house's roof | Rimuru: 'You're carrying something' | the coin; his teacher, Satoru Gojo; his hand goes to the stitched scar and nobody asks | 'Sukuna's here... I'd be bringing him back to die again' / 'Now nobody else has to' | Mau: 'That's what I do... And now you're doing it'; Rimuru: 'The rule's before. Not after' | 'You just have to decide whether you miss him' / 'Every day' / 'Then it's not whether. It's when' / 'On this roof' | Kaneki brings three cups up: one coin, two people; 'Make sure it's the one you can't not' | Nazuna: 'Boys' club... That's what roofs are for' | the fourth cup on the end of the ridge, gone by morning
 
-*When: Day 97, evening into night. The real house has a roof now, and floors, and walls drying; the movie room is finished and nobody has watched anything in it yet. Moving day is three days off. The crackers table met for the third time last night. Nazuna, as always now, woke an hour before dinner.*
+*When: Day 95, evening into night. The real house has a roof now, and floors, and walls drying; the movie room is nearly finished. Moving day is five days off. The crackers table has met twice. Nazuna, as always now, woke an hour before dinner.*
 
 Nazuna woke an hour before dinner, the way she always did now.
 
@@ -50,7 +50,7 @@ They had done it on the Muslin's roof, which was cloth over poles, and sagged. T
 
 Tonight there was a roof.
 
-A real one. Bark shingles over boards over rafters, laid by hand in the last five days, the whole house holding its breath while Wakana shouted *left, left, your left* from the yard. It was finished. It had a ridge. You could climb out of the loft window of the east end, the room that would be Mau and Frieren's in three days, and up a short slope of shingles, and sit on the ridge of the real house, the house they had built, and look at everything.
+A real one. Bark shingles over boards over rafters, laid by hand in the last five days, the whole house holding its breath while Wakana shouted *left, left, your left* from the yard. It was finished. It had a ridge. You could climb out of the loft window of the east end, the room that would be Mau and Frieren's in five days, and up a short slope of shingles, and sit on the ridge of the real house, the house they had built, and look at everything.
 
 Mau went up first. Then Rimuru, in human shape, with the blanket. Then Yuta.
 
@@ -62,7 +62,7 @@ Nobody said anything for a long time. That was how roof nights started.
 
 "It's a very good roof," said Mau.
 
-"Wakana's going to cry when she sees us on it," said Rimuru. "She's going to say we'll crack the shingles."
+"Wakana's going to cry when he sees us on it," said Rimuru. "He's going to say we'll crack the shingles."
 
 "We won't crack the shingles."
 

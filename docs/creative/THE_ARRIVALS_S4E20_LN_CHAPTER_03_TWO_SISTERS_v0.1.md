@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 23
-## Chapter 19 — Two Sisters
+## Chapter 20 — Two Sisters
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
-**Reading order:** 19  
+**Reading order:** 20  
 **Continuity state:** Day 125 | 'You're on the floor' / 'Crude' | the mansion kitchen: potatoes, towels in triangles, the knife on the floor | Barusu in the forest six days, the stream twice; Emilia-sama and Puck ('anywhere'); Beatrice-sama opened every door twice | Ram looked through every eye for six days | the sixth night: 'Rem.' / 'I was already standing up' | 'Then I'm late. Sorry.' | the horn: 'It was mine... I'd spend it again' | 'You're smiling. You didn't smile like that. Before.' | Momo: 'this one's barely edible too'
 
 *When: Day 125, the next morning. Outside the door, the house went on: the fourth bent, the gate, the washing court.*

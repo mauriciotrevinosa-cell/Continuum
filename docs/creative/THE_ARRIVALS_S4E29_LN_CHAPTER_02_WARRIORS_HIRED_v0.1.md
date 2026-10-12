@@ -194,7 +194,7 @@ The six came across the line one at a time, after Cobb. Tam next, because he was
 
 The girl with the bow came last. She came across the line very carefully, as if it might move, and went straight to Ori, and stood beside her. She did not say anything. She did not tell anyone her name. But she stood beside Ori for the rest of the afternoon, and Ori let her.
 
-The goods came down from the house in crates and baskets, on backs and barrows. Two hundred pots of the good cream, packed in straw, that Maomao counted twice and Kusuri counted three times and that they had argued over all week. Thirty jars of honey, that Daphne handed over one at a time, saying goodbye to each of them under her breath. And eleven lamp chimneys. Eleven whole, clear, slightly lopsided glass chimneys, wrapped in cloth, out of forty tries. Wakana carried them down herself in a basket against her chest, as if they were eggs, and Senku walked beside her saying *ten billion percent* in a voice that meant he was terrified one would break.
+The goods came down from the house in crates and baskets, on backs and barrows. Two hundred pots of the good cream, packed in straw, that Maomao counted twice and Kusuri counted three times and that they had argued over all week. Thirty jars of honey, that Daphne handed over one at a time, saying goodbye to each of them under her breath. And eleven lamp chimneys. Eleven whole, clear, slightly lopsided glass chimneys, wrapped in cloth, out of forty tries. Wakana carried them down himself in a basket against his chest, as if they were eggs, and Senku walked beside him saying *ten billion percent* in a voice that meant he was terrified one would break.
 
 Mau carried one end of a crate.
 

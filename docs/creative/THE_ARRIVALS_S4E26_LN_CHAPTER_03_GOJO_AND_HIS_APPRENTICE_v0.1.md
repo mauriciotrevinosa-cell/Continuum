@@ -40,7 +40,7 @@ Gojo put the rice cake down. Very slowly. A smile spread across the lower half o
 
 Everyone looked round.
 
-Umaru was standing on the toll booth platform with a small folded square of black cloth held up in both hands, the way you would hold up a crown on a cushion. Behind her, in a heap, the fort looked as if it had not slept, which it had not. Wakana was asleep sitting up against the fort's back wall with a needle still in her hand. Marin was asleep across her lap. Coco had thread in her hair.
+Umaru was standing on the toll booth platform with a small folded square of black cloth held up in both hands, the way you would hold up a crown on a cushion. Behind her, in a heap, the fort looked as if it had not slept, which it had not. Wakana was asleep sitting up against the fort's back wall with a needle still in his hand. Marin was asleep across his lap. Coco had thread in her hair.
 
 "The fort sewed it," said Umaru. "Last night. Wakana cut it. Marin designed it." A pause. "Marin wanted to put a rhinestone on it. The fort voted the rhinestone down."
 
@@ -56,9 +56,9 @@ Gojo crossed the common room in four strides and took the black cloth from Umaru
 
 "It's the right black," said Gojo, in a voice of deep emotion. "It's the *exact* right black." He turned to the fort. "Who matched it?"
 
-"Wakana," said Umaru. "She took a thread off yours while you were asleep."
+"Wakana," said Umaru. "He took a thread off yours while you were asleep."
 
-Gojo opened his mouth. He closed it. He looked at Wakana, asleep against the wall with the needle in her hand, with the expression of a man who has just found out he was robbed in the night and that it was the best thing that ever happened to him.
+Gojo opened his mouth. He closed it. He looked at Wakana, asleep against the wall with the needle in his hand, with the expression of a man who has just found out he was robbed in the night and that it was the best thing that ever happened to him.
 
 "I love this house," said Gojo.
 

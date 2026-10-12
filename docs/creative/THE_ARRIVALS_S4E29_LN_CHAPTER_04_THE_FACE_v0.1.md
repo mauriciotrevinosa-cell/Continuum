@@ -212,9 +212,9 @@ Then Hollis's three. Then the settlement's four.
 
 The settlement's four parts were more than Fern had expected. She looked at them for a long time. Then she wrote in the ledger, in her small upright hand: *Salt. Iron. Lamp oil. Medicine (Maomao's list). And forty pounds of sand for Senku*. And underlined the sand.
 
-Wakana was at the far end of the table. She had been on the woodpile all afternoon, looking south. She had come in when the cart came up the road and had not said anything since.
+Wakana was at the far end of the table. He had been on the woodpile all afternoon, looking south. He had come in when the cart came up the road and had not said anything since.
 
-"Hollis," she said now. Very quietly. "The chimneys."
+"Hollis," he said now. Very quietly. "The chimneys."
 
 Hollis looked at her down the length of the long table.
 
@@ -222,11 +222,11 @@ Hollis looked at her down the length of the long table.
 
 Wakana did not say anything.
 
-She sat at the end of the long table, with Marin beside her, and her hands on the board in front of her, the hands that had made forty chimneys and broken twenty-nine. She looked at them.
+He sat at the end of the long table, with Marin beside him, and his hands on the board in front of him, the hands that had made forty chimneys and broken twenty-nine. He looked at them.
 
-Then she put her face down on her arms, on the table, and cried.
+Then he put his face down on his arms, on the table, and cried.
 
-Marin put her hand on Wakana's back. Flat, between her shoulder blades. And left it there. And did not say anything. Across the table, Senku looked very hard at the ceiling and said *ten billion percent* to nobody, in a voice that did not quite work.
+Marin put her hand on Wakana's back. Flat, between his shoulder blades. And left it there. And did not say anything. Across the table, Senku looked very hard at the ceiling and said *ten billion percent* to nobody, in a voice that did not quite work.
 
 
 

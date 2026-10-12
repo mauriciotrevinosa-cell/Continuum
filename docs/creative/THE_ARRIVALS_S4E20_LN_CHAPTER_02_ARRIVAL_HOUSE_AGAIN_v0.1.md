@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 23
-## Chapter 18 — Arrival House, Again
+## Chapter 19 — Arrival House, Again
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
-**Reading order:** 18  
+**Reading order:** 19  
 **Continuity state:** Day 124 | before the door was open: the bell rings once; a thud inside; Diablo turns the lock | Ram on the floor of the second witness room, eyes red, grey, starving | 'You were in the middle of a sentence' | Maomao: empty; Frieren: mana; no horn to fill her | Frieren fills her through the forehead | 'Her mana smells ancient.' / 'It is.' / 'Acceptable.' | register: by coin, the second (asleep) | the west window room; Rem on the floor holding her hand
 
 *When: Day 124, before dawn. The gate's third week. The west wing's second room had been finished two evenings before.*

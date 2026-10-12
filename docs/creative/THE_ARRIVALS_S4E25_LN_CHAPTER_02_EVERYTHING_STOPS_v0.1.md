@@ -80,6 +80,60 @@ Ori did not say anything. But she did not move from the sill for a long time.
 
 
 
+The crackers table met that night, though it was not its night.
+
+Nobody called it. Nobody needed to. At midnight on the hundred-and-forty-sixth, Seiko came down the corridor to the clinic with the painted tin under her arm, slowly, the way she walked. Maki behind her with the brazier. Mai with the cushions, four and one very small. And Turbo Granny riding on the lid of the tin, saying nothing at all, for once.
+
+They did not go in. Shoko met them at the clinic door and looked at the tin, and at the four of them, and at the tiny cushion, and did not say anything either. She just nodded, once, and went back inside. And they set the table up on the floor of the corridor, outside the door, where Gojo had sat all night once with Diablo. The brazier. The tin. The cushions. And waited.
+
+Frieren came out after a while.
+
+She had been on the floor beside the bed since the morning before. She had not eaten. She had not slept. She came out into the corridor in the orange hoodie with her hair loose and her hands hanging at her sides, and looked down at the low table on the floor, and the four of them round it, and the empty cushion.
+
+"It's not the night," she said.
+
+"The table came to you," said Seiko. "That's allowed. Once." She opened the tin. "Sit."
+
+Frieren sat.
+
+She did not take a cracker. She did not take the tea Seiko poured. She sat on the cushion with her hands in her lap and looked at the brazier, and her face was perfectly calm, perfectly serene. The way it went when something was very wrong.
+
+Nobody said anything.
+
+Then Maki moved. Round the table, on her knees, to Frieren's cushion. She took Frieren by the shoulders. Gently. And turned her round. And put her face very close.
+
+"Look at me," said Maki.
+
+Frieren looked at her.
+
+"Breathe with me," said Maki. "In. Out. That's all. Just that."
+
+Frieren breathed.
+
+In. And out. And on the third breath out, her face went. All at once. The way a wall goes when the last pin comes out. She did not make a sound. She put her forehead down against Maki's shoulder and shook, and shook, and Maki held her, on her knees on the floor of the clinic corridor, and did not say anything.
+
+Mai, on the next cushion, put her hand flat on Frieren's back. Between her shoulder blades. And left it there.
+
+On the lid of the tin, Turbo Granny looked away, at the wall, very hard, as if the wall were very interesting.
+
+Seiko did not move. She sat at the head of the low table with her fan closed in her lap and watched the elf cry, the way she had watched a great many people cry in a long life, without looking away.
+
+It went on for a long time.
+
+When it was over, Frieren lifted her head. Her face was wet. She did not wipe it.
+
+"I can't carry it," she said. Very quietly. "Any of it. Not tonight."
+
+"Then don't," said Seiko. "Give it to the table." She held out her hand, palm up, over the tin. So did Maki. So did Mai. And on the lid of the tin, after a moment, so did Turbo Granny, one small paw, without looking round.
+
+Frieren looked at the four hands.
+
+She did not put hers on any of them. She put both of hers on all of them, at once, in the middle of the low table, over the tin. And left them there.
+
+Then she went back into the clinic, to the floor beside the bed, and lay down beside it, and slept for the first time in two days. And the table stayed in the corridor outside the door until dawn, keeping watch, the way the house had once kept watch outside a white wall.
+
+
+
 Mau woke on the hundred-and-forty-seventh day, at the reset hour, the way he always woke.
 
 He did not open his eyes. There was something over them. Cloth. Snug. Knotted once at the back of his head. He lay in the clinic bed with the blindfold on and Frieren's hand in his, and did not move, and did not open his eyes under the cloth. Because he remembered. All of it. The walls, beautiful and thin. The wheel. The light. *Let me out.* A voice talking, and talking, about an airport and rice cakes and a boy on a train.

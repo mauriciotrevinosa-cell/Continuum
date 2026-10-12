@@ -34,7 +34,7 @@ Everyone came.
 
 Not because anyone asked them. Nobody asked anybody. Word went round the house the way word always went round, through walls and down corridors and across the yard. *The little witch's mother. The empty room. She wants it ready by dusk.* And by three o'clock the corridor of the west wing was full.
 
-Wakana and Marin came first, with a mattress between them, and then with a quilt. Not any quilt. The one Wakana had been making in the evenings since the winter, in squares, out of every scrap of cloth the house had ever thrown away, without telling anyone what it was for. It had the pale blue from Marin's dating-day dress in it, and the red left over from Diablo's sash, and a square of bright orange that Marin swore was left over from something and would not say what. Wakana had not known what it was for, she said, when she started. She had just known somebody would need it.
+Wakana and Marin came first, with a mattress between them, and then with a quilt. Not any quilt. The one Wakana had been making in the evenings since the winter, in squares, out of every scrap of cloth the house had ever thrown away, without telling anyone what it was for. It had the pale blue from Marin's dating-day dress in it, and the red left over from Diablo's sash, and a square of bright orange that Marin swore was left over from something and would not say what. Wakana had not known what it was for, he said, when he started. He had just known somebody would need it.
 
 "Now I know," said Wakana, and spread it on the bed, and smoothed it, and stepped back. Marin put her hand on the small of Wakana's back and left it there.
 
@@ -50,9 +50,9 @@ Coco looked at him.
 
 Wakana, at the door, was staring at him.
 
-"You made a forty-first," she said. "Without me."
+"You made a forty-first," he said. "Without me."
 
-"You were asleep," said Senku. "You'd broken twenty-nine. You deserved to be asleep." He did not look at her either. "It seemed like someone might need a lamp."
+"You were asleep," said Senku. "You'd broken twenty-nine. You deserved to be asleep." He did not look at him either. "It seemed like someone might need a lamp."
 
 Momo came with soup. Of course she did. A covered pot of leek and potato, with the good bacon, and a loaf of pear bread still warm, and two bowls, and two spoons. She set them on the little table under the window and did not say anything and went away again, very fast, before anyone could see her face.
 

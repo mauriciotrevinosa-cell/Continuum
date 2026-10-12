@@ -1298,3 +1298,25 @@ The creator's green light: "va, arráncate". V25 has **27 chapters (S4E27–S4E3
   - Brenna: "They keep things in. Always both." Himmel: "I've never been the one who stays." Rimuru: "it's the first thing that makes it a city." Gojo: the box.
   - **Mau: "Not tonight. But we talk about it. All of us."** Fern leaves a whole empty page. This is V26's door.
 
+
+## DH-069 — Presence pass 2: Maki and Frieren, the crackers table, Yuta, Nazuna, Kaneki (creator, 2026-10-11)
+
+The creator, reading V22 #15, said characters still vanish (mentioned only in general) and the same three keep the focus (Mau, Rimuru, and Yuta to one side). Maki and Frieren's friendship is never on the page. Nazuna drops out and returns. Kaneki "exists and doesn't".
+
+**Creator direction:**
+- **Maki becomes Frieren's emotional support,** not "just friends". Frieren has been holding things in (her fears about Mau), so when the Mau and Frieren material comes later it lands with more weight.
+  - Maki tells her about her sister's death, what she did, the aftermath and the traumas: a real relationship. Basis: S3 "Look at Me", where Maki got Frieren through her first panic attack ("Look at me. Breathe with me.").
+- **Mai joins them.** It is a women's parallel to Mau, Yuta and Rimuru, with the difference that **Seiko is involved**. **Turbo Granny** sticks to the group because Seiko is there.
+- **Nazuna:** her routine (asleep after breakfast, awake before dinner, because she doesn't want to miss things) must hold.
+- **Kaneki** gets real presence.
+- The creator doesn't mind rereading sections.
+
+**Claude's plan:**
+- **V22 (after #15, where the creator is reading):**
+  - A new **"Look at Me"** (night of Day 71). Frieren can't sleep after asking for "longer than me". Maki tells her about Mai, the clan, the aftermath. Mai is alive here and must not be told (DH-057); Frieren keeps it.
+  - A new **"The Crackers Table"** (during the frame-raising). Seiko invites Frieren and Maki to her corner; Maki brings Mai; Turbo Granny comes because Seiko is there. Seiko's rule: **"Nobody leaves this table carrying what they came in with."** It meets weekly, like the roof night.
+  - A new **"Yuta's Turn"** (the first roof night on the real house's roof). The roof rule turns on Yuta, who has been carrying the coin question about his teacher. Nazuna and Kaneki get real beats.
+  - Light presence touches in the existing V22 chapters.
+- **V23:** one crackers-table scene, a Yuta beat, and Nazuna and Kaneki.
+- **V24:** in "Everything Stops", the table comes to Frieren.
+- **V21:** an optional seed, as time allows.

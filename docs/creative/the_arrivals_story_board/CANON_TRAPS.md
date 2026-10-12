@@ -63,6 +63,10 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Mai has heard the name Yuka** at the crackers table (V23 "Not Twice").
 - **Fern** is Frieren's apprentice and all but daughter, never "the queen's
   sister".
+- **The five (Hakari, Karane, Shizuka, Nano, Kusuri) are all girls.** At the
+  bath they are on the red side.
+- **The cooper is an otherworlder**; his daughter (about eleven) is still in
+  his world, not in the river towns.
 - **Refuge families** are otherworlders.
 
 ## Places

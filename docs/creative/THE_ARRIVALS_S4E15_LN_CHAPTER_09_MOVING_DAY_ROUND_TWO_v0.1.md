@@ -154,7 +154,7 @@ Umaru carried the drawer.
 
 The toll booth had one drawer. It was not large. It had a label on the front, in Umaru's crooked capitals: *LATER.* She had taken it out of the booth herself, very carefully, and she carried it across the yard in both arms, against her chest, with her hood up, and did not let anyone help, and did not let anyone look inside.
 
-Mau knew what was in it. Everyone did. A coin. Her coin. And a fort application form, made out for a girl of about eleven in the river towns, the cooper's daughter, who was still in another world and had not yet been asked.
+Mau knew what was in it. Everyone did. A coin. Her coin. And a fort application form, made out for a girl of about eleven, the cooper's daughter, who was still in another world and had not yet been asked.
 
 She carried the drawer into FORT (EXTENSION). It was half again as large as the plan had first said, with a raised platform at one end for the toll booth, exactly as Wakana had redrawn it the morning of the spoons. She slid the drawer into the new booth. It fit. Wakana had measured.
 

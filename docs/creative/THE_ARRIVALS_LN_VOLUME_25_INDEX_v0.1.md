@@ -4,7 +4,7 @@
 **Volume:** 25  
 **Season:** 4  
 **Volume title:** **Crystal**  
-**Chapter count:** 12
+**Chapter count:** 19
 
 | # | Chapter |
 |---:|---|
@@ -20,3 +20,10 @@
 | 10 | Warriors Hired |
 | 11 | Through the Low Woods |
 | 12 | The Face |
+| 13 | Her Coin |
+| 14 | Something Thinks It Can Help |
+| 15 | Two Questions |
+| 16 | Eight Turns |
+| 17 | Don't Be Scared |
+| 18 | Now Who Is Cheating on Who |
+| 19 | Finish It |

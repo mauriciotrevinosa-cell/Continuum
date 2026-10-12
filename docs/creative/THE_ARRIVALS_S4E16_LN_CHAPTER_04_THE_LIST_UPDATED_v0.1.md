@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 31  
-**Continuity state:** Night of Day 102 to Day 103 | Seika refuses the Muslin: 'across a yard from you'; Rem lets the stove go out | she can't sleep; the doors in ink, Rem's in pencil; the door with no name: Echidna's library, the first stranger who is not a stranger; a dead person's songbook; Echidna: 'Mine' | Nijika's dawn panic; a hand like a lid | 'Arrivals, one' | THE LIST: 1. Nijika: her sister. First. HERE. / 2. Rem: her sister. When we're ready | the old side of the board: FOUND: SEIKA
+**Continuity state:** Night of Day 102 to Day 103 | Seika refuses the Muslin: 'across a yard from you'; Rem lets the stove go out | she can't sleep; the doors in ink, Rem's in pencil; the door with no name: Echidna's library, the first stranger who is not a stranger; a dead person's songbook; Echidna: 'Mine' | Nijika's dawn panic; a hand like a lid | 'Arrivals, one' | THE LIST: 1. Nijika: her sister. First. HERE. / 2. Rem: her sister. When we're ready | the old side of the board: FOUND: SEIKA | Nijika at the board: 'I told her a bit'; the Trial and the coins, yes; 'The rest is mine'; the only rule never written in the ledger (DH-071)
 
 *When: The night of Day 102 into the morning of Day 103.*
 
@@ -308,7 +308,41 @@ The last time he had stood in front of a board and felt his throat go tight like
 
 He knew now.
 
-He went home. Across the plaza and the yard, past the ink tree, under the dripping eaves of the real house, through the door, into the long warm noisy common room where the whole house was arguing about something at the table. Seika was at the back, by the fort, with her arms folded in the ugly coat, pretending not to listen. Fern was writing in the ledger. Nijika was laughing.
+"I told her a bit," said Nijika, behind him.
+
+He had not heard her come. She was standing in the doorway of Arrival House with her hands in the pockets of her coat and her nose pink from the cold, looking past him at the board. At the line in chalk. At *COIN* and *NIJIKA* and *DAY 101, MIDNIGHT*. At her sister's name.
+
+"Yesterday," said Nijika. "On the floor of the witness room. I was telling her everything at once. The bridge. The house. Everyone." She came and stood beside him, in front of the board. "And she'd been here an hour, and she'd already noticed that whenever anything happens, everybody looks at you." She laughed, not very well. "That's Onee-chan. She reads the room before she's through the door."
+
+Mau did not say anything.
+
+"So I told her," said Nijika. "That there was a Trial. That you nearly didn't come back from it. That something's wrong with you that isn't your fault, and we all carry it." She looked at the chalk. "And then I stopped."
+
+"Why?"
+
+Nijika did not answer at once.
+
+"Because the next thing was the coin," she said. "Where it came from. What it was the end of." She was quiet for a moment. "I opened my mouth to tell her, and I thought: she's going to do the sum. She does sums. That's how she kept a club open for ten years. She's going to look at you across the table at breakfast and do the sum, every morning, for the rest of her life." Her hands had closed in her pockets. "So I stopped. And then I didn't know if I was allowed to stop. So I came to ask."
+
+Mau looked at the board for a long time. At *FOUND*. At the white paint worn through to the grain by all the hands that had written in that column before the voice, and rubbed it out, and written again.
+
+"Tell her about the Trial," he said. "If she asks. Tell her the coins came out of it. That they were what was waiting at the end." He paused. "That's true. That's enough."
+
+"And the rest?"
+
+"The rest is mine." He did not look away from the board. "I don't want her doing sums. I don't want anyone who comes through that door to sit down at the table owing something. Or feeling bad for being here." He was quiet for a moment. "She's not a debt. She's your sister. She came. That's all of it."
+
+Nijika looked at him sideways for a long time, with her pink nose and her hands in her pockets.
+
+"She'll work it out," she said. "Someday. She works everything out."
+
+"Then she works it out," said Mau. "But not from you."
+
+Nijika nodded, slowly.
+
+Then she did a thing she had never done before. She leaned sideways and bumped her shoulder against his arm, once, hard, the way she bumped Bocchi on the way to the corner where they played, and said "Okay," in a voice that was not quite steady. Then she ran back across the plaza toward the lamps, because Kita was calling her name from the veranda.
+
+Mau stood in front of the board a while longer. Then he went home. Across the plaza and the yard, past the ink tree, under the dripping eaves of the real house, through the door, into the long warm noisy common room where the whole house was arguing about something at the table. Seika was at the back, by the fort, with her arms folded in the ugly coat, pretending not to listen. Fern was writing in the ledger. Nijika was laughing.
 
 Mau sat down in his place beside Frieren.
 
@@ -321,3 +355,11 @@ Frieren looked at him for a long moment.
 Then she leaned her shoulder against his, the way she did, and did not say anything. And they sat at the long table in the real house together, in the noise, with the List on the page in front of Fern, two lines long, one of them done.
 
 Down the table, Seiko had put her painted tin out on the board, which she had never once done in the Muslin, and taken the lid off. Nazuna, who had woken an hour before dinner the way she always did now, was eating her third cracker out of it and being glared at. Maki and Mai were arguing about nothing across it, the way they always did. And Kaneki, in from the timber yard for once at a reasonable hour, was sitting at the end of the bench beside Eren with a cracker in his hand that he was not eating, listening to the noise as if it were something he wanted to remember.
+
+
+
+Nijika told the others over the next few days. Not at the long table. One at a time, the way the house passed on the things that mattered. Rem, at the teapot, whose name was on the next line. Yuta, on the roof. Umaru, in the toll booth, with the shutter down. Nobody asked her why. Everybody in the house had been there on the tenth day, when the coins came, and knew what they had been the end of.
+
+Fern heard it last, late one night, at the head of the long table, with the ledger open in front of her. She listened. Then she put her pen down, and did not write it.
+
+It was the only rule in the house that never went into the ledger.

@@ -1350,3 +1350,7 @@ The creator asked whether Seika ever learns what Mau went through so that she co
   - The ask lands best once Seika starts asking. She reads rooms ("People look at the person they're scared for"), so she would be the first arrival to fit the coins and the Trial together. She asks Nijika; Nijika comes to Mau; Mau asks her.
   - The same quiet rule can spread to the other families with a coin arrival, the way "nobody knocks after dark" did, without a decree.
   - The payoff, whenever Seika does find out (from someone who already knew, never from Nijika): she refuses the debt. It calls back her own words on the veranda: "So don't do that again. Whatever it was."
+- **Moved earlier (creator, same day):** the ask happens now, not in V26, so Seika doesn't spend a month in the house with nobody saying anything, and it becomes a quiet rule that Nijika passes on and everybody understands. *Done:*
+  - **V22 #31 "The List, Updated"** (evening of Day 103): Nijika finds Mau at the board ("I told her a bit"); she stopped before the coin because Seika "does sums". Mau: the Trial and the coins as what waited at the end, yes; "The rest is mine." Coda: Nijika tells the house one at a time (Rem, Yuta, Umaru); Fern hears it and doesn't write it: "the only rule in the house that never went into the ledger."
+  - **V24 #6** keeps Frieren giving Gojo the number, now as a conscious exception: "We don't tell the ones who came by coin. He asked us not to." / "You didn't hear it from me."
+  - The V26 payoff (Seika finding out and refusing the debt) stays open.

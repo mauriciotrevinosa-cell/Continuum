@@ -94,6 +94,8 @@ Frieren looked at him for a long moment.
 
 "He never told anyone," said Frieren. "He never tells anyone what happened in there." She did not turn round. "Four hundred and thirty-seven times. He gave us the number, and almost nothing of what was in them." A pause. "I don't know how many of those were you."
 
+"We don't tell the ones who came by coin," she said. "He asked us not to." Another pause. "You didn't hear it from me."
+
 She went back in and shut the door.
 
 Gojo stood in the corridor looking at it.

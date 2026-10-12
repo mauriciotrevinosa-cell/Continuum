@@ -251,7 +251,7 @@ The creator asked to see how much each person has appeared, whether they have ha
 Give natural beats, from their own lanes, to those who went quiet in V25: Pride, Sekhmet, Carmilla, Minerva; Mai; Bocchi, Kita, Ryo; the five. No forced cameos.
 
 ### Seika and the Trial (creator, DH-071)
-Mau asks Nijika to keep what it cost from Seika: the Trial and the coins, yes; what happened inside, no. Nobody should feel guilty or in debt. V26 or later.
+The quiet rule is in place from Day 103 (V22 #31): coin arrivals hear about the Trial and the coins, never what happened inside. Frieren breaks it once, on purpose, for Gojo (V24 #6). Still open for V26 or later: Seika works it out herself and refuses the debt.
 
 ## 5. Bonds built earlier that must not go silent
 

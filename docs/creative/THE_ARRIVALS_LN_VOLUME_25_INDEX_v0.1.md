@@ -4,7 +4,7 @@
 **Volume:** 25  
 **Season:** 4  
 **Volume title:** **Crystal**  
-**Chapter count:** 23
+**Chapter count:** 27
 
 | # | Chapter |
 |---:|---|
@@ -29,5 +29,9 @@
 | 19 | Finish It |
 | 20 | Ten Billion Percent |
 | 21 | The Hundred and First |
-| 22 | Okarun's Coin |
+| 22 | For Momo |
 | 23 | Something Cold |
+| 24 | Market Day |
+| 25 | Two on the Ridge |
+| 26 | The Line |
+| 27 | Close the City |

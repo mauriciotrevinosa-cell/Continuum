@@ -160,7 +160,7 @@ The long table was very quiet.
 
 
 
-They shook on it at the end of the long table. The merchant on one side. Mau and Rimuru on the other, because that was the rule, from the council, from the autumn: the outside world spoke to two faces, and never to one. Rimuru grew a hand for it, out of the slime, a small pale human hand, and the merchant looked at it for a moment and then shook it, very politely, without flinching.
+They shook on it at the end of the long table. The merchant on one side. Mau and Rimuru on the other, because that was the rule, from the council: the outside world spoke to two faces, and never to one. Rimuru grew a hand for it, out of the slime, a small pale human hand, and the merchant looked at it for a moment and then shook it, very politely, without flinching.
 
 Then he shook Mau's.
 

@@ -1,5 +1,5 @@
 # The Arrivals — Light Novel — Volume 25
-## Chapter 22 — Okarun's Coin
+## Chapter 22 — For Momo
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 25  

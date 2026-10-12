@@ -22,26 +22,30 @@
 | **Fern and Stark** | Official (V18). Very slow. | V24 #12 "Stark Picks" (Dating Day) | Dating Day | The dotted wall became a sliding panel, opened a hand's width. Fern wants slower. |
 | **Yuta and Maki** | Couple. **They lived an entire lifetime and chose each other again** (S2). | V24 #13 "Sixty Years" (Dating Day); Yuka (#18-#21, #31) | Presence; Yuka | Maki knows Yuka, her granddaughter (DH-055). |
 | **Bocchi and Kita** | **Couple since S2E12.** Must stay *visibly* girlfriends. | V24 #10 "First Try" (Dating Day); #38 the plaits | Presence; keep visible | Give them a hand that can be found. |
-| **Okarun and Momo** | Couple (S2: memory loss hurt it without making it imaginary). | V24 #11 "Abduction (Probable)" (the bell tower) | Presence | Vamola is now in Momo's room. |
+| **Okarun and Momo** | Couple (S2: memory loss hurt it without making it imaginary). | V25 #22 (the kiss at the long table) | Presence | Vamola is now in Momo's room. |
 | **Marin and Wakana** | Couple. **Un-stalled by Dating Day** (Marin started it). | V24 #9 "The Dress"; #38 her hand on Wakana's back at the east window | Presence | Marin: "since we got here we only work." |
 | **Maomao and Jinshi** | Reluctant, *temporary*, renewed again (Dating Day). | V24 Dating Day; #38 "There's tea. If you want." | Slow; one small step per volume | Slow by design, but it needs a step. |
-| **Eren and Mikasa** | **Not a couple yet** (creator). Bunk beds. | V24 #15 "Not a Date" ("It's a walk"; "Not yet"); #38 half a step | **V25: titans, "Eren can age", the turn** | He never spoke because his life was limited. That reason disappears. |
+| **Eren and Mikasa** | **Together** (V25 #6): "I love you" / "Say it again tomorrow." Said at the red stake every morning since. | V25 #6 "Not When It's Over"; #25–27 (the walls) | V26: the wall he proposed | He never spoke because his life was limited. That reason disappears. No Paths here, so no clock (V25 #4). Mikasa knows the later Eren; "It can't happen here." The scarf. |
 | **Anko and Nazuna** | **Not a couple** (DH-055). Old friends and roommates. They tried a decade ago. | V24 #38 (the honey cakes) | Titan night (V25) | Nazuna loves **Ko** (not here). Anko may like women: a cross-story yuri is open. |
 | **The five** | Household family. **No "click" here** (DH-055). | V24 #15: Karane takes Hakari's hand at the red stake; Shizuka: "Further observation required"; #38 hands under the kotatsu, "Further observation. (S.)" daily | Presence; a future arc | Hakari and Karane, and Nano and Shizuka, are inter-girl threads to explore. Their coins and Rentarou are an open question. Pinned: brought in S1. |
-| **Rem and Ram** | Sisters. Rem is 100% again. | V23 E20 | Ongoing | Ram's appointment is once a week (Frieren). Nothing of Roswaal. |
+| **Rem and Ram** | Sisters. Rem is 100% again. | V25 #7 ("Sit, Rem. The sheep is serving you.") | Ongoing | Ram's appointment is once a week (Frieren). Nothing of Roswaal. |
 | **Seika and Nijika** | Sisters. | V23 "Pallets" | Ongoing | STARRY (2). Seika and Ram are "the two older sisters". |
 | **Himmel and Frieren** | He loves her without demanding anything. | V24 #27 "Something Wet": she leans on his shoulder for the first time ("if I don't go in front, who will"; "the people at the back") | Presence | The columns at the gate. |
 | **Umaru and Mau** | Little sister. "Two older brothers." | V24 #32: the little-sister registry (First: Umaru; Teleport Division: Yuka, probationary); "I've got two older brothers. He's one of them." | Presence; the room "for someone" | The room "for someone" (her brother Taihei); not yet. |
 | **Kaneki and Eren** | Quiet friendship; Eren is the only one who knows Touka's name. | V22 "The Bath" (dawn, "one coin") | S5 (two coins) | Needs two coins (Touka and Ichika), so **S5**. Seed only: Mau's warm coin "to give". Never resolve in S4. |
 | **Ori with Mau and Frieren** | Functionally their daughter. A door between the rooms. | **V24 #37 "Two"**: she counted his breaths for sixteen nights; Frieren at the river ("You'd have had me. And I'd have had you."); now says "Two" at the reset hour, from her side of the door | Presence | Trial run with Milim (Milim floats in her sleep). |
-| **Senku and Suika** | Sibling-like. | V24 #33 (Suika lends Mau the watermelon, "to make the world soft for a bit") | V25 Byakuya |  |
-| **Coco and her teachers** (Qifrey; Echidna's library) | Studying the undoing. | **V24 #36 "Not Until Fern Says"**: the outer lattice in ink works on stone, glass and ice; Echidna names the wheel ("a thing in this house that learns from the inside"); Qifrey: "No"; Coco writes *Not until Fern says. And not unless he wants to. Find another way first.* | **V25: her mother**, only after real room (DH-064) | Coco's mother (crystallized) is V25. The lattice (81 times in water). |
-| **Gojo and Shoko** | Something sweet, at their pace. Shoko comes from four days after his death ("I had four days of you being dead"). | V24 #30 "Higher Ceilings": her shoulder against his on the fence; "I'm not having four days again" / "I hear you" | Presence; never rushed | Shoko comes from after his death. Something sweet, at their pace. Her one unlit cigarette is saved "for something worth it" (#25). |
+| **Senku and Suika** | Sibling-like. | V25 #20–21 (Byakuya; "Senku gets to say something back"; the hundred-and-first tale) | The telescope; naming the stars |  |
+| **Coco and her teachers** (Qifrey; Echidna's library) | **Her mother is here and free** (V25 #13–19). The centre was the shape of the reach. | V25 #19 "Finish It" | Presence; the mother learning the house | Coco's mother (crystallized) is V25. The lattice (81 times in water). |
+| **Gojo and Shoko** | Something sweet, at their pace. Shoko comes from four days after his death ("I had four days of you being dead"). | V25 #23 ("I want a coin" / "It'd work") | Presence; never rushed | Shoko comes from after his death. Something sweet, at their pace. Her one unlit cigarette is saved "for something worth it" (#25). |
 | **Gojo and Mau** | Not teacher and student: **"I'm going to be around."** The apprentice joke (the right black; the Lighthouse). | V24 #33 (the roof; "Like a—" / "Don't") | Ongoing | The word is never said aloud. Yuta: "Say it to him, then. Every day." Gojo's filter lives in Mau's new walls (#24). |
 | **Yuka and Mau** | Siblings. **LITTLE SISTER (TELEPORT DIVISION), probationary** (Umaru's registry). "Oppa." | V24 #31 "Glue", #32 | Presence | She blamed herself for the field; Frieren: "This one isn't yours." Things are complicated with her brother Tsurugi (later). |
 | **Yuka and Frieren** | The glare became a hand on her head. | V24 #32 | Presence | Maki's warning: Frieren would step back, not fight. Frieren keeps the breakfast seat on his other side. |
 | **Shoko, Anko and Diablo** | The committee (never named). **The rota:** morning A.U., afternoon S.I., night D. | V24 #34 "Two Unlit Cigarettes" | Presence; it stays | Two saved cigarettes (Anko came over with nine). Anko: "I had my hand in my coat." Shoko: "When you've opened enough of them, they're all children." Diablo: Mau may not die, or Rimuru cries. |
 | **Mai and Yuka** | Great-aunt and great-niece. | V24 #31 (the corridor; the blanket) | Their arc | **Mai's arc stays untouched** (DH-057). |
+| **Mau and Rem** | **Family, both ways** (V25 #7–8). She is not his caretaker any more. | V25 #8 "Only When It Rains" | Presence; before the door | She smelled the Trial on him and waited for him to tell. "Don't you dare be him. Tell someone first." Some nights he pours. |
+| **Senku and Byakuya** | Father and son. "It wasn't irrelevant." / "You're answering." | V25 #20–21 | Presence | The annealing chamber; the telescope; the stars to name. Nothing revolves around Byakuya. |
+| **Okarun and Jiji** | Rivals, best friends (S-01; see V25 #22–23). | V25 #22–23 | Presence | "Shut up." |
+| **Aira and Cobb** (and the bean-girl) | Protector and the one she stands between. | V25 #11, #24, #25 | Presence | "You just stand in front of it anyway." Aira carries Mikasa's old blade with the nick. |
 
 ---
 
@@ -95,7 +99,7 @@
 - **Maomao.** Clinic; *Jinshi (temporary)* in ink in her room; the ledger of ugly days. Coin: held.
 - **Senku.** Workroom downstairs. The NOT YET box (the bulb dust, a dead crystal). Discs in a year. Coin: undecided, then **Byakuya (V25)**.
 - **Suika.** With Umaru. **V24 #33:** lends Mau the watermelon helmet ("to make the world soft for a bit"); Gojo wears it.
-- **Anko.** SIGHTINGS (**page 4 opened Day 162: "It came back."**); the night rounds; the loot register; the new rule four and the rota. Roommate of Nazuna (not a couple). Her last cigarette is in a scratched tin (she came over with nine), saved "for something worth it". Coin: held.
+- **Anko.** SIGHTINGS (**page 4: "It came back"; the devil killed again Day 163, walked the line Day 220, "the line held, never tested"**); went into Ashby in brown and found the face; the night rounds; the loot register; the new rule four and the rota. Roommate of Nazuna (not a couple). Her last cigarette is in a scratched tin (she came over with nine), saved "for something worth it". Coin: held.
 - **Himmel.** Faces the road; the vermilion columns; poses. Coin: held.
 - **Qifrey.** Room between his students and the east section. Checks slides for glyphs. Holds Coco's coin. **⚠**
 - **Agott, Tetia, Richeh.** Witch Hat room (Agott's alcove and curtain; Richeh's bed). **⚠ quiet in V23.**
@@ -110,7 +114,7 @@
 ### Ring Two: close
 
 - **Kaneki.** Night timber shifts; charcoal kilns; terrible coffee on purpose. Room past Rem's turn. Coin: needs two (S5). **V24 #35:** meets Shoko ("Not a patient. Not asking.").
-- **Aira.** Clay and plaster; Momo's best friend; "Not interested" (then sleds). **⚠**
+- **Aira.** Clay and plaster; Momo's best friend; "Not interested" (then sleds). **V25:** stands between (the cottages, Cobb); carries Mikasa's old blade with the nick; cut a titan's ankle (#25).
 - **Vamola.** In the fort, at Momo's elbow. Eats first, notices things, strong, likes the gate ration bricks. Room with Momo. **Restored 2026-10-10.**
 - **Turbo Granny.** On Okarun's sill, "barely acceptable". V24: "the beanpole" (Gojo) fascinates and annoys her; she bit Okarun twice in the cellars.
 - **Nazuna.** Loft over Anko's bed. Vampire; sleeps by day; flies. Loves Ko (not here). V24 #38: wakes at sunset and eats Gojo's honey cakes.
@@ -135,7 +139,7 @@
 - **The cooper.** Pegs; his daughter (about 11) is in his world, and her fort form waits in LATER. He will bring her by coin, she sits in the fort once, and they move somewhere safer. **He never says he won't come back.**
 - **Lise.** Guest at the old inn; stayed.
 - **The register girl.** Arrival House; "by coin. The first / the second."
-- **Refuge families.** Three remain, with four children, including the Fastest Child (the girl with the bean) who swept the step.
+- **Refuge families.** **One remains (V25 #25): the bean-girl and her mother**, who stay because Aira stood at their door. The others left for the river towns after the titans (V25 #6, #25). The last leaves in V26 (DH-048).
 - **Washing court.** Valley natives. Dessa's friend sings badly: "Not yet." One left (V23).
 - **The southern merchant and his guard.** "Monster town is a name now."
 
@@ -144,6 +148,17 @@
 - **Shoko.** Seiko's coin (Day 145), four days after his autopsy. Half of Maomao's clinic (her four rules). The blindfold prescription. One unlit cigarette, saved. Afternoon shift on the rota. West wing, the newest room.
 - **Yuka.** Maki's coin (Day 141), seventeen, from the end of *Modulo*; the ring is hers again (Continuum brought it). White Divine Dog; Keishoken; the Ten Shadows. Little Sister (Teleport Division). Probationary fort member with a cushion; the white dog is an honorary citizen.
 - **Ear.** Not a person, but counted: the black dog with one white ear, in Mau's shadow. No summoning while Fern's "no taming" holds.
+
+### Arrived in V25
+- **Coco's mother.** Coco's coin (Day 195). Arrived crystal; freed by Ciel's skill after Mau's eight-turn adaptation inside Rimuru (Day 195). Name never printed. West wing, the newest room ("Came"). Her hands are healed. She stays ("I want to see what my daughter's hands can do").
+- **Byakuya Ishigami.** Senku's coin (Day 205), from after his death, in his prime, in an astronaut's jumpsuit. Loud; fixes things; nothing revolves around him. West wing.
+- **Jiji.** V25 #22 (S-01).
+
+### The route (V25)
+- **Hollis**, the southern merchant (named V25 #9). Carries the house's goods under his own name. Ashby closed its gate to him (Day 214); now runs east to Fallow.
+- **The warriors** live in Arrival House: **Brenna** (held a lord's gate for twelve years; scar above her left eye from Ashby), **Dunmore** (the scar through his eyebrow), **Aldric** (sergeant), **Tam** and **Cobb** (farm brothers; Cobb's sister has sheep on the east side), and **Wren** (the miller's granddaughter, Ori's friend).
+- **Master Pell**, Ashby's reeve's clerk: **the face** (reads pages someone else writes; afraid of whoever it is). Later proved a puppet (round 2 §12); not yet.
+- **The captain** (V24 #30 cutaway): seen at Pell's speech, checking it. Looked at Eren for a breath.
 
 ### Coming, or waiting (not in the house)
 - **V25:** Coco's mother, Byakuya, Jiji (sealed).
@@ -254,5 +269,6 @@ These are threads built in S2 and S3 with real weight. **Check each before every
 ## 3. Update log
 - 2026-10-10: created after the V23 audit. Vamola restored (DH-054); Anko and Nazuna corrected; Bocchi and Kita flagged as at risk of becoming implied.
 - 2026-10-11: V21 gained #5 "Construction" (Mai and Mau) and #13 "A Hand That Can Be Found" (Bocchi and Kita); V21 renumbered (DH-065).
+- 2026-10-11: V25 written (27 chapters, S4E27–S4E32). Eren and Mikasa together; Mau and Rem both ways; the route people; Coco's mother, Byakuya, and Jiji (S-01) arrived; one refuge family left (DH-068).
 - 2026-10-11: V24 written (38 chapters, S4E21-S4E26). Relationships, §5 bonds and people updated; Gojo, Shoko, Yuka and Ear added; the Ori, Suika, Kaneki, Nazuna and Turbo Granny flags cleared by real beats (DH-066).
 - 2026-10-10: presence pass. Mai, the five, Nazuna, Turbo Granny, Aira, Kaneki and Witch Hat were inserted into 19 S4 group scenes. §4 (presence, arcs, role) and §5 (silent bonds, including Mai and Mau's construction) were added.

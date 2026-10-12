@@ -2,7 +2,7 @@
 
 **Status:** PLAN. The creator: "I want you to make a plan for all of them. I trust you." Volumes are not chapter-locked. The story dictates; don't compress.
 **Time budget:** S4 runs at most **6 months** (about Month 24 to Month 30; `SERIES_TIMELINE_ESTIMATE_2026-10-07.md`).
-**Amended (creator, 2026-10-10, DH-053):** the six months was a push to get S4 moving after two and a half years of story, **not a cap**. The story dictates: **never compress**, and S4 may run past six months if it asks to. As of the end of V23, the story is at Day 130. As of the end of V24 (written 2026-10-11, 38 chapters), it is at Day 162; the devil, the titans and Eren's aging moved from V24 to open V25, before Coco's mother (DH-066).
+**Amended (creator, 2026-10-10, DH-053):** the six months was a push to get S4 moving after two and a half years of story, **not a cap**. The story dictates: **never compress**, and S4 may run past six months if it asks to. As of the end of V23, the story is at Day 130. As of the end of V24 (written 2026-10-11, 38 chapters), it is at Day 162; the devil, the titans and Eren's aging moved from V24 to open V25, before Coco's mother (DH-066). As of the end of V25 (written 2026-10-11, 27 chapters), it is at Day 221; Eren has proposed closing the city and Mau has said "not tonight" (DH-068).
 **Sources:** `S4_CREATOR_IDEAS_2026-10-10.md` (rounds 1–5), `S4_COIN_SUMMONS_SLATE_2026-10-08.md` (with the arrival order), `SYSTEMS_REGISTRY_AND_LOOSE_THREADS_2026-10-10.md`, `S4_V21_PLAN_2026-10-10.md`.
 
 ## Shape

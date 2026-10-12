@@ -1238,3 +1238,63 @@ The creator, reading V22, gave the shape of Mau's conversation with the Goddess.
   - **The second daughter question is answered.** The day is Mau, Ori and Frieren. The fort's consensus follows, and Mau signs YOU OWE THE FORT A DAY (FOR US).
   - **Mau and Rem** is flagged as missing from S4. Claude proposes Rem as the one who has done what Mau does, to talk to him before the door.
 
+## DH-068 — V25 "Crystal" as written (Claude, 2026-10-11)
+
+The creator's green light: "va, arráncate". V25 has **27 chapters (S4E27–S4E32), Days 163–221**. These are the new canon facts.
+
+**S4E27 Things That Come Back (#1–6)**
+- **The devil returns larger** because the towns saw the bell's light (Ciel: not the same body; the same fear, grown).
+  - The faces that *look* are the ones that mean it, and cutting them is what kills it (Himmel's insight). The turned-away faces only mutter.
+  - It is not the end: it comes back.
+- **Gojo's first gate run.** He chooses not to look and is surprised for the first time in his life (the one in a hundred). The mimic can't bite him: "cheating". He gives Frieren a silver compass that points at her.
+- **Titans are empty.** No person, no thread, "a hunger in the shape of a man", unlike AoT pure titans. The house assumes they were brought.
+- **Eren has no Paths root, so no thirteen-year clock** (Ciel). He keeps his promise not to transform, even with Himmel in a titan's fist.
+- **Mikasa** arrived knowing the later Eren, so "there's no road here, it can't happen here" is her turn too.
+  - At the red stake: "I love you" / "Say it again tomorrow." He winds the scarf: "It's warm. Isn't it." The half step is gone.
+- **Aira** keeps Mikasa's old blade with the nick.
+- **Ring Four:** one refuge family leaves.
+
+**S4E28 Tea for Rem (#7–8)**
+- The bond goes both ways now.
+  - Mau pours for her. "What do you want?" / "For you to sit down. Sometimes."
+- **Rem smelled the Trial on Mau** (Re:Zero: she can sense what Return by Death leaves) and waited a week for him to tell. "And you told."
+- **Ori told Mau not to ask her to stay** (S3); Rem: "She was right. I would have, and never trusted it." The tally marks on her door stop the night before Ram's coin. The pencil stays.
+- **"Don't you dare be him. You tell someone first."** Mau to Frieren: "First. Before. I promise." This feeds DH-067.
+
+**S4E29 The Route (#9–12)**
+- **The merchant is Hollis.** His terms: the house makes the goods, he carries them under his name, and he hires warriors. Fern's split is four parts to the house, three to Hollis and three to the warriors, with the warriors paid first.
+- **The warriors** live in Arrival House: Brenna (held a gate for twelve years), Dunmore, Aldric, Tam, Cobb, and Wren (Ori's friend).
+- **Ashby, the first river town.** The cream and the glass sell without anyone knowing their source.
+- **The face: Master Pell, the reeve's clerk.** He reads pages someone else writes, and the woods repeat his words: someone is choosing what the towns fear.
+  - The V24 captain (coat with the badge cut off) is in the crowd, checking the speech, and looks at Eren for a breath.
+  - Fern: "Both sides think someone started it."
+
+**S4E30 Crystal (#13–19)**
+- The creator's thirteen steps, as written.
+- Additions with basis:
+  - The coin warms and is gone (V22 mechanics).
+  - The mother's first words finish the sentence the spell interrupted: "—Don't be scared."
+  - **Echidna's empty centre is the shape of the mother's reach toward Coco.** Coco draws it in ink on the page Echidna tore from her book ("Finish it").
+  - Ciel made and named a skill in Rimuru (name not yet given).
+  - "Now who is cheating on who?" is the first word either of them has said about the reversion night (DH-029 rule), and it is a joke.
+- **The day after:** the mother wants to take Coco away from magic, and stays. "It isn't the magic. It's what the hand's reaching for."
+- The mother's name is never printed. She lives in the west wing's newest room ("For whoever comes" / "Came").
+
+**S4E31 Two More at the Table (#20–23)**
+- **Byakuya** (Senku's coin) pays off V21 "The Watermelon and the Scientist". He builds an annealing chamber (eighteen of twenty chimneys whole), tells Suika the hundred-and-first tale, and the stars are to be named.
+- **Jiji** (#22–23): as recorded in S-01. See the chapters.
+
+**S4E32 Close the City (#24–27)**
+- **Ashby closes its gate** to "untraceable goods". Pell brings the crowd out; Hollis: "From people."
+  - A stone hits Brenna above the eye, and she gets up. The six stand in a line, weapons across, not raised.
+  - Pell is afraid of something behind him.
+- **The devil speaks with Pell's voice.**
+- **Two titans.** The small one is an abnormal and runs for the children. Gojo's Blue is now a plum and pulls it off line; Aira cuts the ankle; Mikasa takes the nape **ten paces** from the street.
+  - The second refuge family leaves. **The bean-girl's family stays** ("Where else would anybody stand at my door?"): one family, one child.
+- **The devil walks the whole line and stands at the north road all night**, every face looking: "Close the gate on them... Starve them out... Give him to us."
+  - Mau stands in the light so it looks at him, not the cottage. The prints stop exactly at the lime; the line was never tested.
+- **Eren proposes closing the city:** a wall on the line, two gates, no more runs.
+  - "I hated walls because I didn't have anything worth keeping in. Now I do."
+  - Brenna: "They keep things in. Always both." Himmel: "I've never been the one who stays." Rimuru: "it's the first thing that makes it a city." Gojo: the box.
+  - **Mau: "Not tonight. But we talk about it. All of us."** Fern leaves a whole empty page. This is V26's door.
+

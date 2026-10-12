@@ -4,7 +4,7 @@
 **Volume:** 25  
 **Season:** 4  
 **Volume title:** **Crystal**  
-**Chapter count:** 6
+**Chapter count:** 8
 
 | # | Chapter |
 |---:|---|
@@ -14,3 +14,5 @@
 | 4 | Not Like Him |
 | 5 | Thirteen Years |
 | 6 | Not When It's Over |
+| 7 | The Teapot |
+| 8 | Only When It Rains |

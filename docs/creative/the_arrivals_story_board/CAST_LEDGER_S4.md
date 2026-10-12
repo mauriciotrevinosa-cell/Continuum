@@ -6,6 +6,7 @@
 - **Read this before every episode, and update it after.** When a relationship, a coin, a room or a thread changes, change it here in the same commit.
 - **Presence rule** (DH-055 and "presence, not protagonist"): everyone *exists* in the background, at meals, in crowds, in the fort and on the ropes, even without a scene. Arcs come in their turn. Run the presence audit before every volume (`S4_PRESENCE_AND_RELATIONSHIP_AUDIT_2026-10-10.md`).
 - **Sealed choices are never written here** (S-01). A coin whose use is sealed is listed only as "held".
+- **Classification/space gate:** consult `S1_S4_CHARACTER_AND_SPACE_CONTINUITY_GATE_2026-10-12.md` before stating Mau's species/lifespan, a character's private knowledge, or the Muslin's construction. In V22 #17, Frieren tells Maki privately about the elf-route trial; Maki did not know before that conversation.
 
 **Columns:**
 - **Ring:** 1 family, 2 close, 3 witches, 4 the outer ring (DH-026).

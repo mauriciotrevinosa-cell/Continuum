@@ -10,7 +10,7 @@
 
 The trial runs had begun on a Saturday in the autumn, the week the plan for the real house was cut, and nobody had mentioned them since.
 
-That was the arrangement. In the Muslin, walls were hooks and cloth, and moving a wall meant moving two hooks, and two hooks had moved. Fern's room and Stark's, side by side near the top of the main corridor, had become one room with a dotted line down the middle of the floor in chalk, where the wall used to be. And at the east end, Ori's bay, the one beside Mau and Frieren's with the door through the wall, had acquired a second bed and a dragon.
+That was the arrangement. In the Muslin, interior walls were boards slotted between posts. Moving one meant lifting its panels out, and the partition between Fern's room and Stark's had come out. Fern's room and Stark's, side by side near the top of the main corridor, had become one room with a dotted line down the middle of the floor in chalk, where the wall used to be. And at the east end, Ori's bay, the one beside Mau and Frieren's with the door through the wall, had acquired a second bed and a dragon.
 
 Nobody mentioned either. It was the most carefully unmentioned thing in the house. The Trial had come, and the window, and the ten days, and the trial runs had simply gone on through all of it underneath, the way a stream goes on under ice.
 
@@ -118,7 +118,7 @@ Stark, beside her, looked into his porridge with extraordinary concentration.
 
 But Mau saw something, that night, that he did not tell anyone.
 
-He was coming back from the roof late, past the top of the main corridor, in his socks, carrying his boots so as not to wake anyone. The cloth wall of Fern and Stark's room was not quite closed. There was a gap at the end, where the last hook had worked loose. Through it, in the faint light from the corridor lamp, he could see the chalk line on the floor down the middle of the room, where the wall had been.
+He was coming back from the roof late, past the top of the main corridor, in his socks, carrying his boots so as not to wake anyone. The door to Fern and Stark's room had been left open a handspan. In the faint light from the corridor lamp, he could see the chalk line on the floor down the middle of the room, where the wall had been.
 
 On one side of the line, Stark was asleep, flat on his back, snoring very gently. He slept the way a rock sleeps.
 

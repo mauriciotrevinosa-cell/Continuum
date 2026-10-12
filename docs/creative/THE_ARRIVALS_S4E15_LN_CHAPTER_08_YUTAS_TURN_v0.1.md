@@ -54,7 +54,7 @@ A real one. Bark shingles over boards over rafters, laid by hand in the last fiv
 
 Mau went up first. Then Rimuru, in human shape, with the blanket. Then Yuta.
 
-They sat on the ridge in a row, the way they always sat. Mau in the middle. The new shingles were rough and cold under them and smelled of bark. Below them, the yard. The ink tree, taller every day. The Muslin, small now, its cloth walls glowing faintly from the lamps inside. The timber yard, and the red glow of the charcoal kilns at the far edge of it. And beyond everything, the north field going away in the starlight to the black hills.
+They sat on the ridge in a row, the way they always sat. Mau in the middle. The new shingles were rough and cold under them and smelled of bark. Below them, the yard. The ink tree, taller every day. The Muslin, small now, its windows glowing faintly from the lamps inside. The timber yard, and the red glow of the charcoal kilns at the far edge of it. And beyond everything, the north field going away in the starlight to the black hills.
 
 Nobody said anything for a long time. That was how roof nights started.
 

@@ -162,7 +162,7 @@ Kusuri, beside Maomao, had disappeared under the table entirely.
 
 They went to bed early.
 
-All four of them, at the same moment, as if by agreement, without saying goodnight to anyone. Fern and Stark went down the main corridor to the room with the chalk line, walking very carefully a full arm's length apart, and the cloth wall closed behind them, and from inside, after a moment, everyone in the common room heard Fern's voice say very clearly, "*Stay on your side of the line,*" and Stark's voice say, "I *am* on my side of the line," and then a long silence.
+All four of them, at the same moment, as if by agreement, without saying goodnight to anyone. Fern and Stark went down the main corridor to the room with the chalk line, walking very carefully a full arm's length apart, and the door closed behind them, and from inside, after a moment, everyone in the common room heard Fern's voice say very clearly, "*Stay on your side of the line,*" and Stark's voice say, "I *am* on my side of the line," and then a long silence.
 
 Frieren went down the family corridor toward the room with the east window, and stopped at the door, and turned, and looked at Mau, who was following her at a careful distance.
 

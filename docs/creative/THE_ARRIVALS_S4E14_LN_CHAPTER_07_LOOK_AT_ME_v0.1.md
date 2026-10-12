@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 17  
-**Continuity state:** Night of Day 71 into Day 72 | Rimuru still a slime in the loft above their closet; Mau up the ladder four times / Diablo through the door: 'Go to bed' | one of those nights: Frieren decrees: brush my hair, hold the lamp, the cars twice, 'say something nice' | 'You're not the first thing I remember. You're the first thing' | 'What if—' and she lets it sink | he doesn't push: 'Longer' / 'Longer' | the reset hour: braced, her cold foot on his shin | dawn behind the barn: Mau asks Maki: 'I want her to have someone who isn't me' | the river: Maki heard 'longer than me'; she went first in her life with Yuta, and he lived | 'Four hundred and thirty-seven'; the foot is his anchor and her check | she nearly told him; he let her not | Maki tells her about Mai, the clan, the doors; 'both ways'; Frieren won't tell Mai | Maki's nod at the woodpile | Yuta: 'Did you tell her?' / 'Yes' / 'Good'
+**Continuity state:** Night of Day 71 into Day 72 | Rimuru still a slime in the loft above their closet; Mau up the ladder four times / Diablo through the door: 'Go to bed' | one of those nights: Frieren decrees: brush my hair, hold the lamp, the cars twice, 'say something nice' | 'You're not the first thing I remember. You're the first thing' | 'What if—' and she lets it sink | he doesn't push: 'Longer' / 'Longer' | the reset hour: braced, her cold foot on his shin | dawn behind the barn: Mau asks Maki: 'I want her to have someone who isn't me' | the river: Maki heard 'longer than me'; Frieren privately tells her about the nineteen-minute elf-route trial and her fear that Mau will force himself to keep the promise; Maki went first in her life with Yuta, and he lived | 'Four hundred and thirty-seven'; the foot is his anchor and her check | she nearly told him; he let her not | Maki tells her about Mai, the clan, the doors; 'both ways'; Frieren won't tell Mai | Maki's nod at the woodpile | Yuta: 'Did you tell her?' / 'Yes' / 'Good'
 
 *When: The night of Day 71, into the morning of Day 72. Rimuru is still asleep as a slime in the loft above the closet in Mau and Frieren's room, with Diablo on a stool outside their door; Mau has got up to look at him four times since dinner. The witches have ink again. The night before, under the ink tree, Frieren asked for "longer".*
 
@@ -14,7 +14,7 @@ It was not that anything was wrong. Ciel had said so, over and over, in the flat
 
 Mau had got up four times since dinner to look at him. Out of bed, across the room, three rungs up the loft ladder, his head over the edge, looking. Then down again.
 
-On the fourth time, Diablo's voice came through the cloth of the door, pleasantly, without the door opening. "Mau-sama. He is breathing. He was breathing the last three times. He will be breathing the next time." A pause. "Go to bed."
+On the fourth time, Diablo's voice came through the thin wooden door, pleasantly, without the door opening. "Mau-sama. He is breathing. He was breathing the last three times. He will be breathing the next time." A pause. "Go to bed."
 
 So Mau came down the ladder and went to bed. Across their corner of the Muslin, past the shelf and the lamp, past the reading chair he had said no to, in its corner. Where she sat in the evenings with a grimoire on her knee and turned pages so slowly you could not tell if she was reading or dreaming.
 
@@ -158,7 +158,7 @@ She went back to sleep.
 
 He did not.
 
-He lay in the dark with the elf asleep against him and looked at the cloth ceiling of the Muslin and thought about the face she had made. The thing that had come up and gone back down. *What if.*
+He lay in the dark with the elf asleep against him and looked at the low timber ceiling of the Muslin and thought about the face she had made. The thing that had come up and gone back down. *What if.*
 
 She did not want to tell him. Whatever it was. It was about him. He was sure of that. It was about him, and it was heavy, and she had decided he was not going to carry it.
 
@@ -198,7 +198,7 @@ Maki did not say anything.
 
 "She was—" He stopped. "It was one of those nights. Where she asks for things. You know."
 
-"I know," said Maki. Something moved at the corner of her mouth. "The whole Muslin knows. The walls are cloth."
+"I know," said Maki. Something moved at the corner of her mouth. "The whole Muslin knows. Those slotted boards don't keep voices in."
 
 Mau's face went warm. He went on anyway.
 
@@ -262,23 +262,27 @@ Frieren was quiet for a long time.
 
 "What did I mean?" she said.
 
-"That you know he can't," said Maki.
+"That you don't know whether he can," said Maki.
 
 Frieren did not answer.
 
-"He's a human," said Maki. "You're an elf. He'll get seventy years if nothing happens to him. Eighty. And something always happens to him, because he goes in front of everything." She was very calm. "You'll be here for a thousand more. You asked him to promise to outlive you. You knew he couldn't. He knew too. And he said yes anyway, because you asked." She paused. "And now you're carrying the fact that you made him say it."
+"Nobody knows how long Mau can live," said Maki. "You asked for longer than yourself. He goes in front of everything, and he'll take that seriously." She looked at Frieren. "You're afraid he'll keep asking more of his body because you were the one who asked first. And that after all of it, there still may not be enough."
 
 The river went past.
 
 Frieren's hands had come out of her sleeves. They were folded very tightly in her lap.
 
-"He told you," she said. Very quietly.
+"There's something I haven't told you," she said.
 
-"No," said Maki.
+Maki waited.
 
-Frieren looked at her.
+"We tried the elf route. Mau asked for it. Ciel opened one guardrail while I stayed beside him." Frieren watched the water. "For nineteen minutes. He could sense mana. He made flowers with his own. Then his fingers began to soften, and the fever came. Ciel closed it before the routes crossed any further."
 
-"He didn't have to," said Maki. "I've got eyes. And I was the one who went first."
+Maki turned toward her. "I didn't know."
+
+"We didn't tell the house. Maomao found out afterward, but we didn't tell everyone. We didn't want anyone hoping before we knew." Frieren pressed her hands together. "He said he wanted to grow old with me. He chose to try. I know that. But under the tree I asked him for longer than me. I don't know what he is, or whether his body can give us that. What if he forces himself through another trial because he thinks he owes me the years?"
+
+"The first trial was his choice," said Maki. "You can respect that and still be frightened of what your words might make him think he owes you." She looked back at the river. "I was the one who went first."
 
 
 
@@ -292,11 +296,11 @@ Frieren did not say anything.
 
 The river went past, grey and fast.
 
-"You're afraid of being the one at the end," said Maki. "The one who stays. The one who has to live with it." She looked at Frieren at last. "I'm telling you what it's like from the other side. From the one who goes." Her voice did not change. "It's not the worst thing. Going first. Not if you know the one you're leaving is going to live. Properly. Afterward." She paused. "The worst thing would have been knowing he'd stop. That he'd sit at the fence for the rest of his life, understanding. That I'd made him do that by going."
+"I don't know which of you will be the one who stays," said Maki. "Nobody does. I can only tell you what it was like from the side that went." She looked at Frieren at last. "Yuta didn't owe me the rest of his life as proof. He gave me the years we had because he wanted them. After I was gone, he lived. Properly." She paused. "The worst thing would have been knowing he'd stop. That he'd sit at the fence for the rest of his life, understanding. That I'd made him do that by going."
 
 Frieren's hands were shaking in her lap.
 
-"He wouldn't want that," said Maki. "Mau. If it ever comes to it. He wouldn't want you at the fence for a thousand years." She looked back at the river. "He'd want you under that tree. Reading. With someone. Living."
+"He wouldn't want that," said Maki. "Mau. If it ever comes to it. He wouldn't want you at the fence for a thousand years. And he wouldn't want every day before it to become a debt he has to pay." She looked back at the river. "He'd want you under that tree. Reading. With someone. Living."
 
 Frieren did not say anything for a long time.
 
@@ -314,7 +318,7 @@ Maki did not say anything.
 
 The river went past.
 
-"And last night," said Frieren, "he was so—" She stopped. "He brushed my hair. He told me about the cars, twice. He said I was the first thing. That there wasn't a before." Her voice cracked, for the first time. "And I nearly told him. All of it. The checking. The fence. *Longer than me.* I opened my mouth." She stopped. "And I thought, if I tell him, he'll know how frightened I am. And then he'll be frightened that I'm frightened. And he'll go in front of that too. He'll stay awake to make sure I sleep. He'll start being careful. With himself. For me." She looked at the river. "And then he'd be carrying two things. His and mine."
+"And last night," said Frieren, "he was so—" She stopped. "He brushed my hair. He told me about the cars, twice. He said I was the first thing. That there wasn't a before." Her voice cracked, for the first time. "And I nearly told him. All of it. The checking. The fence. *Longer than me.* I opened my mouth." She stopped. "And I thought, if I tell him, he'll know how frightened I am. And then he'll be frightened that I'm frightened. And he'll go in front of that too. He'll stay awake to make sure I sleep. He'll start looking for another route, even if it hurts. He'll say he chose it, and he'll mean it. But I won't know if he would have asked his body for that much if I hadn't asked first." She looked at the river. "And then he'd be carrying two things. His and mine."
 
 "So you didn't," said Maki.
 
@@ -382,7 +386,7 @@ Maki looked at her.
 
 The river went past.
 
-"Tell me," said Maki. "When it's heavy. When you've checked he's warm and your heart's going so hard you think he'll feel it. When you've asked him for something he can't give you and you hate yourself for it." She did not look at Frieren. "Not him. Me. Come and find me. I'm behind the barn in the mornings."
+"Tell me," said Maki. "When it's heavy. When you've checked he's warm and your heart's going so hard you think he'll feel it. When you've asked him for something neither of you knows whether he can give you, and you hate yourself for it." She did not look at Frieren. "Not him. Me. Come and find me. I'm behind the barn in the mornings."
 
 Frieren did not say anything for a long time.
 
@@ -398,7 +402,7 @@ Maki's face did something very quick that she did not let all the way out.
 
 "That's not how this works," she said. "I'm supposed to be the one—"
 
-"It goes both ways," said Frieren. "Or it isn't anything." She looked back at the river. "I learned that from him. The only thing I've ever learned from a human in a hurry."
+"It goes both ways," said Frieren. "Or it isn't anything." She looked back at the river. "I learned that from him. He is always in such a hurry to carry things alone."
 
 Maki did not say anything for a long time.
 
@@ -430,7 +434,7 @@ She did not say anything. She looked at him, over the woodpile, for a moment. Th
 
 Mau let out a breath that went on for a long time.
 
-That night, in the corner behind the cloth wall, Frieren did not ask for anything. She lay down beside him and put her head on his shoulder and went to sleep almost at once. At the reset hour his body woke, braced, the way it always did, and her cold foot found his shin, and she said *one*. And he said *still here*. And she went back to sleep.
+That night, in the corner behind the slotted-board wall, Frieren did not ask for anything. She lay down beside him and put her head on his shoulder and went to sleep almost at once. At the reset hour his body woke, braced, the way it always did, and her cold foot found his shin, and she said *one*. And he said *still here*. And she went back to sleep.
 
 He thought, maybe, that her heart was going a little slower than it had been. He could not have said why he thought so.
 

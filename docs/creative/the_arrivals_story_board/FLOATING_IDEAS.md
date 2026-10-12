@@ -36,7 +36,12 @@ remain open.
 - whether spectacular temporary constructions can ever be deliberately rebuilt.
 
 ## Frieren / mortality
-Once Mau/Frieren become explicit, the human/elf lifespan problem should not immediately consume the relationship. It remains a later slow-burn story problem.
+Once Mau/Frieren become explicit, the uncertainty around Mau's nature and lifespan beside Frieren's long life should not immediately consume the relationship. Mau is not confirmed human. The elf route remains a possible future path, not a settled solution. This remains a later slow-burn story problem.
+
+## Frieren and Mau: the reciprocal choice (creator seed, 2026-10-12; UNPLACED, NOT CANON)
+After V22 #17, Frieren may at some later point try to withdraw or leave because she fears that asking Mau for 'longer than me' is making him force his body toward an uncertain eternity. Mau catches up to her and asks her to talk before she goes; the scene should preserve her agency and never treat leaving as something he can forbid. He tells her he is seeking more time not merely because she asked, but because *he* wants to share the years with her, to the end and, if possible, through millennia. A later action or choice might demonstrate that this desire is his own, rather than using a declaration alone as proof.
+
+Open: placement, how she withdraws, the exact conversation, the demonstration, what Mau's body can safely do, and whether the elf route ever becomes sustainable. Do not solve his species, promise immortality, or turn self-harm into a romantic proof. V22 #17 remains Frieren's disclosure to Maki, not this conversation.
 
 ## Historical multi-romance / harem possibility
 An earlier future seed intentionally left open whether multiple people could love Mau and whether a multi-partner outcome might ever be appropriate.

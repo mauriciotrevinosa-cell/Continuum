@@ -39,7 +39,7 @@ The **macro ending is no longer open**:
 ## Mau / Frieren
 - Exact final English wording and choreography of the girlfriend/boyfriend/chosen-romantic-partner formalization.
 - Exact grimoire/distraction, decorations, family comedy and celebration staging around the formalization.
-- Exact later handling of Mau's human lifespan vs Frieren's elf lifespan.
+- Exact later handling of Mau's unknown species/lifespan beside Frieren's elf lifespan; the elf route remains possible but unproven.
 - Broader old multi-romance possibility remains unpromoted; current active arcs do not require resolving it yet.
 
 The macro relationship destination is resolved:

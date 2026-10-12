@@ -40,7 +40,7 @@ For the full cast, use `S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md`,
 - **S1 / early S3:** abandoned inn is the lived home. S3's future site is not already a completed house (`S3_CONTINUITY_BACKTRACE_AND_REBUILD_v0.2.md` §3–4).
 - **Muslin, late S3 into early S4:** a one-floor provisional house. Interior partitions are **boards slotted between posts**, movable by lifting them out (`S3_S4_FAMILY_HOUSE_MEGA_INN_LAYOUT_LOCK_2026-10-04.md` §10.1). The name comes from Wakana's sewing metaphor. The roof/ceiling and general walls are not literal fabric. Special curtains/screens exist (Tetia/Agott, Nazuna, a screen by the stove); describe them only where placed.
 - **V22 #17:** Mau/Frieren's Muslin east-end room has library bay, reading chair, closet and Rimuru's loft. Diablo is outside its door. The real two-floor house is still being built and its rooms/doors cannot be imported back into the Muslin.
-- **Real house:** two floors and its own detailed room map (§10.3); when the family moves, update the lived-base field. Momo/Vamola's real-house shared room is explicit. Do not invent an exact Muslin bedroom assignment for Vamola where the source does not specify it; her residence and attachment to Momo are established.
+- **Real house:** two floors and its own detailed room map (§10.3); when the family moves, update the lived-base field. Momo/Vamola's shared room is explicit: V22 #27, `Moving Day, Round Two`, records Momo saying that Vamola has shared her room since arrival and should share it on the real-house plan too. Preserve that pre-move relationship as well as the new-house assignment.
 
 ## V22 resident presence cross-check
 
@@ -57,7 +57,7 @@ At this point, a quiet scene can omit anyone, but the volume cannot behave as th
 | Umaru, Suika; Senku; Marin, Wakana | Fort and sibling network, work/rest and construction roles; Wakana is male. |
 | Maomao, Jinshi, Kusuri; Anko, Nazuna; Rem, Kaneki; Mikasa, Eren; the five | Keep their distinct work, residence, rest and relationships visible across movements. Check Nazuna's sleep schedule and the five's actual status before placing them. |
 
-This is **not** a license to insert later arrivals early. Gojo, Shoko and Yuka belong to V24; Ram, Byakuya and Coco's mother belong to V25. Consult the volume index and `CAST_LEDGER_S4.md` for exact entrance beats.
+This is **not** a license to insert later arrivals early. Ram arrives in V23 #19, `Arrival House, Again` (Day 124), with the coin setup in #18 and the sisters' conversation in #20. Gojo, Shoko and Yuka belong to V24; Byakuya and Coco's mother belong to V25. Consult the volume index and `CAST_LEDGER_S4.md` for exact entrance beats.
 
 ## Pre-chapter gate (apply at every volume)
 

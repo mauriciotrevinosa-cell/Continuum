@@ -164,7 +164,7 @@
 
 ### Coming, or waiting (not in the house)
 - **V25 arrivals are complete:** Coco's mother, Byakuya and Jiji belong to the arrived rows above, not the waiting list.
-- **Later:** Armin; Tsurugi (Yuka's brother; feels unchosen); Umaru's brother; Bocchi's family (pool); Touka and Ichika (S5); Ko (Nazuna's); Rentarou (an open question); Subaru (conditional); Jin-Woo (fighting his gods).
+- **Later:** Armin; Tsurugi (Yuka's brother; feels unchosen); Umaru's brother; Bocchi's family (pool; from the same day Seika left, DH-072); Touka and Ichika (S5); Ko (Nazuna's); Rentarou (an open question); Subaru (conditional); Jin-Woo (fighting his gods).
 
 ---
 

@@ -70,6 +70,8 @@ not on this list. Add a line every time the creator catches a new slip.
 - **The cooper is an otherworlder**; his daughter (about eleven) is still in
   his world, not in the river towns.
 - **Refuge families** are otherworlders.
+- **Seika knows about Sukuna from Bocchi** (V22 #31): Mau went in front of
+  the four of them. She knows there was a Trial, not what was in it.
 - **Minerva's hands are bandaged** (V22 "Moving Day, Round Two"). Never "clean
   white knuckles".
 
@@ -143,6 +145,10 @@ not on this list. Add a line every time the creator catches a new slip.
   came "three weeks ago", not "last week".
 - Frieren put the mimic grimoire down only while she filled Ram twice a day
   (Days 124 to 129), not from the queen's second night.
+- **Kessoku's world runs about three days to their two years and more here.**
+  Seika learns the gap on her first morning (V22 #29: "Three days. For me it
+  was three days"). Bocchi's family will come from the same day Seika left
+  (DH-072). Every world keeps its own clock (Ram: six days to Rem's months).
 - **Roof nights and the crackers table fall on the same night**, every seven
   days: 81, 88, 95, 102, 109, 116, 123, 130... A chapter set on one of those
   nights must account for both.

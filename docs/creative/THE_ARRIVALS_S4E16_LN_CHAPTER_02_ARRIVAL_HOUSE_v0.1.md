@@ -206,7 +206,19 @@ The door of the second witness room was half open. He did not mean to look. He l
 
 They were sitting on the floor, the five of them, among the gathered posters, with their backs against the wall. Seika in the middle, with her long legs stretched out in front of her and her black jacket open, and Nijika under one arm and Kita under the other, and Ryo against Kita, and Bocchi on the end, holding one of the posters in her lap, looking at it. Seika's head was tipped back against the wall. Her eyes were closed. She looked like a person who had not slept for three days and was not going to start now.
 
-"There was a voice," Seika was saying. Very low. Not opening her eyes. "At four in the morning. Last night. My last night." She paused. "I was sitting on the stage. The lights were off. I'd run out of posters." Another pause. "And a voice said— out of nowhere. Not loud. Not anything." She stopped.
+"How long," Seika was saying. Very low. Not opening her eyes. "Here. For you."
+
+Nobody answered at once.
+
+"Two years," said Nijika, under her arm. "And a bit."
+
+Seika opened her eyes. She looked down at her sister, and then along the wall at the other three, one at a time, slowly, as if she were counting something and did not like the total.
+
+"Three days," she said. "For me it was three days." She closed her eyes again. "You're taller. I thought I was imagining it."
+
+Nobody said anything. On the end, Bocchi had gone very still, with the poster in her lap.
+
+"There was a voice," said Seika, after a while. "At four in the morning. Last night. My last night." She paused. "I was sitting on the stage. The lights were off. I'd run out of posters." Another pause. "And a voice said— out of nowhere. Not loud. Not anything." She stopped.
 
 "It asked if you were sure?" said Nijika, under her arm, very quietly.
 

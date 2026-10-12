@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 31  
-**Continuity state:** Night of Day 102 to Day 103 | Seika refuses the Muslin: 'across a yard from you'; Rem lets the stove go out | she can't sleep; the doors in ink, Rem's in pencil; the door with no name: Echidna's library, the first stranger who is not a stranger; a dead person's songbook; Echidna: 'Mine' | Nijika's dawn panic; a hand like a lid | 'Arrivals, one' | THE LIST: 1. Nijika: her sister. First. HERE. / 2. Rem: her sister. When we're ready | the old side of the board: FOUND: SEIKA | Nijika at the board: 'I told her a bit'; the Trial and the coins, yes; 'The rest is mine'; the only rule never written in the ledger (DH-071)
+**Continuity state:** Night of Day 102 to Day 103 | Seika refuses the Muslin: 'across a yard from you'; Rem lets the stove go out | Bocchi through the door: Sukuna, 'Mau-san went in front', 'He's like a brother... They look to see if he's all right'; the Trial named, not told | she can't sleep; the doors in ink, Rem's in pencil; the door with no name: Echidna's library, the first stranger who is not a stranger; a dead person's songbook; Echidna: 'Mine' | Nijika's dawn panic; a hand like a lid | 'Arrivals, one' | THE LIST: 1. Nijika: her sister. First. HERE. / 2. Rem: her sister. When we're ready | the old side of the board: FOUND: SEIKA | Nijika at the board: 'I told her a bit'; the Trial and the coins, yes; 'The rest is mine'; the only rule never written in the ledger (DH-071)
 
 *When: The night of Day 102 into the morning of Day 103.*
 
@@ -50,13 +50,61 @@ She knew that Nijika was breathing a foot away. She turned her head and looked a
 
 Seika looked at the hand for a long time.
 
+"Seika-san."
+
+It was barely a voice. It came through the door between the two rooms, the one that had been left open a crack, out of the dark on the other side.
+
+"You're awake," said Seika.
+
+"I don't sleep much." A pause. "Sorry."
+
+Seika looked at the crack. Nothing showed in it. Only dark.
+
+"The man on the veranda," she said. "This afternoon. I told him off."
+
+Silence from the crack. Then, very small: "I know. Kita told me." Another pause. "Nijika laughed for ten minutes."
+
+"Everybody looks at him," said Seika. "All day. Every time anything happens." She looked at the ceiling. "I want to know why."
+
+The silence went on so long that Seika thought the girl on the other side had lost her nerve, the way she lost it at counters, and in doorways, and on every stage she had ever stood on.
+
+Then Bocchi talked.
+
+She talked the way she could only talk in the dark, to a door, with nobody looking at her face: all at once, too fast, without stopping, as if the words would go back inside if she let them rest.
+
+"There was a man called Sukuna," she said. "A long time ago. Before the Muslin. Before any of this. He wasn't a man. He looked like one. He cut a whole street in half and didn't touch it." Her breath went in, shaky. "And he came at us. The four of us. We were right there in the street, and I couldn't move, I couldn't— none of us could move." Her voice went very thin. "And Mau-san went in front."
+
+"In front," said Seika.
+
+"Of us. Of me." Something rustled in the dark, as if she had put her hand flat on her own chest. "There were stronger people there. He wasn't the strongest. He just went first. Because we were the closest." A pause. "Its arm went through him. Here. He didn't wake up for three days. We sat outside his door the whole time. Nobody thought he would."
+
+Seika lay very still.
+
+"And something came with it," said Bocchi. "Into his shadow. From Sukuna. It isn't him. It's the thing people are scared of, when they're scared of him. He's the one holding it." She stopped, and started again. "And after that there was a Trial. I don't know what happened in it. Nobody does. He doesn't talk about it." A pause. "He came out, and he went in front again. He always goes in front. Every time. Even when it isn't his turn. Even when it hurts him."
+
+She was quiet for a moment.
+
+"He's like a brother," said Bocchi. "Everybody's. Even mine, a bit, and I can't even talk to him." Her voice wobbled. "They don't look at him because of what he can do. They look at him because he's already done all of it. For all of us. Over and over. They look to see if he's all right."
+
+The room was very quiet. Ryo turned over in her sleep. Nijika's hand hung off the edge of the bed, toward the mattress.
+
+"I told him not to do it again," said Seika at last.
+
+"He will," said Bocchi.
+
+"I know." Seika looked at the dark crack in the door. "I could tell. Standing there with his tea." She was quiet for a moment. "Go to sleep."
+
+"You too."
+
+Bocchi's breathing on the other side of the door went slow, at last, a long time later. Seika lay and listened to it.
+
 Then she got up, very quietly, and put on the ugly coat, and went out into the corridor.
 
 
 
 The corridor was dark. There were small glyph lights set into the wall at long intervals, Coco's work, shadowless and very faint, just enough to see the doors by. Seika walked along it in her socks, slowly, with her hands in the pockets of the coat, looking at the doors.
 
-Each door had a slip of card beside it, at eye height, with a name. In ink. *BOCCHI*, on the door with the thick wall. *MAI.* *YUTA / MAKI.* At the very end, the east end, a door with *MAU / FRIEREN* beside it and, under that, in Fern's hand, smaller: *Do not knock after dark unless something is on fire.* She went round the end, into the other corridor. *ORI / MILIM.* *FERN.* *STARK*, with a dotted line drawn very lightly between his card and Fern's. *UMARU / SUIKA.* A door. *COCO / TETIA / AGOTT / (RICHEH).* *QIFREY.* *ANKO / NAZUNA.* *OKARUN.* And beneath it, on a tiny separate card, at knee height, by the windowsill, *TURBO GRANNY (separate address).* She stopped and looked at that one for some time.
+Each door had a slip of card beside it, at eye height, with a name. In ink. *BOCCHI*, on the door with the thick wall. *MAI.* *YUTA / MAKI.* At the very end, the east end, a door with *MAU / FRIEREN* beside it and, under that, in Fern's hand, smaller: *Do not knock after dark unless something is on fire.* She stood in front of that one a little longer than the others. She went round the end, into the other corridor. *ORI / MILIM.* *FERN.* *STARK*, with a dotted line drawn very lightly between his card and Fern's. *UMARU / SUIKA.* A door. *COCO / TETIA / AGOTT / (RICHEH).* *QIFREY.* *ANKO / NAZUNA.* *OKARUN.* And beneath it, on a tiny separate card, at knee height, by the windowsill, *TURBO GRANNY (separate address).* She stopped and looked at that one for some time.
 
 At the turn of the corridor, a narrow door. The slip beside it said *REM.* In pencil. Every other name she had passed was in ink. This one was in pencil, in a different, rounder hand, and somebody had very carefully not gone over it.
 
@@ -340,7 +388,13 @@ Nijika looked at him sideways for a long time, with her pink nose and her hands 
 
 Nijika nodded, slowly.
 
-Then she did a thing she had never done before. She leaned sideways and bumped her shoulder against his arm, once, hard, the way she bumped Bocchi on the way to the corner where they played, and said "Okay," in a voice that was not quite steady. Then she ran back across the plaza toward the lamps, because Kita was calling her name from the veranda.
+"Bocchi told her about Sukuna," she said. "Last night. Through the door, in the dark. Kita heard them. The street, and you going in front." She almost smiled. "Bocchi. Talking. For ten minutes without stopping."
+
+Mau did not answer at once. Something in his chest had gone tight and warm at the same time.
+
+"That one's hers," he said. "She was there. She can tell it."
+
+Then Nijika did a thing she had never done before. She leaned sideways and bumped her shoulder against his arm, once, hard, the way she bumped Bocchi on the way to the corner where they played, and said "Okay," in a voice that was not quite steady. Then she ran back across the plaza toward the lamps, because Kita was calling her name from the veranda.
 
 Mau stood in front of the board a while longer. Then he went home. Across the plaza and the yard, past the ink tree, under the dripping eaves of the real house, through the door, into the long warm noisy common room where the whole house was arguing about something at the table. Seika was at the back, by the fort, with her arms folded in the ugly coat, pretending not to listen. Fern was writing in the ledger. Nijika was laughing.
 

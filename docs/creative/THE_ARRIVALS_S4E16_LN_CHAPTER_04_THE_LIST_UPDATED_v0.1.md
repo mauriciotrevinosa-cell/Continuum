@@ -319,3 +319,5 @@ Mau sat down in his place beside Frieren.
 Frieren looked at him for a long moment.
 
 Then she leaned her shoulder against his, the way she did, and did not say anything. And they sat at the long table in the real house together, in the noise, with the List on the page in front of Fern, two lines long, one of them done.
+
+Down the table, Seiko had put her painted tin out on the board, which she had never once done in the Muslin, and taken the lid off. Nazuna, who had woken an hour before dinner the way she always did now, was eating her third cracker out of it and being glared at. Maki and Mai were arguing about nothing across it, the way they always did. And Kaneki, in from the timber yard for once at a reasonable hour, was sitting at the end of the bench beside Eren with a cracker in his hand that he was not eating, listening to the noise as if it were something he wanted to remember.

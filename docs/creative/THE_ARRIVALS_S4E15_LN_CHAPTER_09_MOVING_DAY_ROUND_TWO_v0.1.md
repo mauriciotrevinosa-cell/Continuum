@@ -142,6 +142,14 @@ At the end of the afternoon, when the last bed was up the stair, the fort moved.
 
 It moved in procession. Wakana took the frame apart in sections and the citizens carried each section across the yard above their heads, in order, with the hamster flag at the front. The six NEXT cushions went in a stack in Mai's arms. Anko carried the RECORDS crate. Kusuri carried her glow jars in a basket, one at a time, three trips. Rem carried her own cup, off its hook in the toll booth, and hung it on the hook in the new toll booth herself.
 
+Behind the fort, smaller, quieter, a second procession crossed the yard that nobody had planned and nobody commented on.
+
+Seiko went first, with the painted tin. She would not let anyone else carry it. Frieren came behind her with the low table from behind the screen, upside down on her head, which made her look, Milim said, like a very serious mushroom. Maki carried the brazier, cold, by its handles. Mai carried four cushions and a fifth very small one, and said nothing about the small one. And on top of the tin, in Seiko's arms, riding across the yard with her paws folded and her nose in the air, sat Turbo Granny, who had not been asked and had come anyway.
+
+They went in by the back stair, to the room with SEIKO on the door in ink, through the wall from Momo's. And when Seiko had put the tin down on the shelf by the window, and Frieren had set the low table in the middle of the floor, and Maki had put the brazier beside it, and Mai had laid out the cushions, four and one very small, Seiko looked round at the new room for a long moment.
+
+"Good," she said. "Same time next week."
+
 Umaru carried the drawer.
 
 The toll booth had one drawer. It was not large. It had a label on the front, in Umaru's crooked capitals: *LATER.* She had taken it out of the booth herself, very carefully, and she carried it across the yard in both arms, against her chest, with her hood up, and did not let anyone help, and did not let anyone look inside.

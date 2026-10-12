@@ -212,11 +212,11 @@ Then he went down to the kitchen, and put the kettle on, and made five cups of t
 
 They did not say anything when he got there. They took the tea. Bocchi took a blanket. Mau and Frieren sat down on the step beside them, at the end of the row, and the six of them sat there in the cold, under the bell tower, and watched the dark road and the dark plaza and waited.
 
-At three, Anko came by on her rounds, with her lantern, and stopped, and looked at them, and sat down on the other end of the step. Nazuna came down out of the dark sky a little after and sat on the rail.
+At three, Anko came by on her rounds, with her lantern, and stopped, and looked at them, and sat down on the other end of the step. Nazuna came down out of the dark sky a little after and sat on the rail. At half past three, Kaneki came up from the kilns at the end of the night shift with a pot of his terrible coffee and a stack of cups, and poured one for everyone on the step without asking, and gave the first to Nijika. She drank it, and made a face, and drank the rest, and held out the cup for more. Kaneki filled it, and sat down on the step below Anko, and did not say anything.
 
 At four, the fort came. Not all of it. Umaru, with her slate. Suika. Ori, who was not in the fort and came anyway, in Milim's coat, with Milim floating half asleep a foot behind her. Coco and Agott, in one blanket.
 
-At five, Yuta and Maki. Then Rimuru, in human shape, with a pillow, which he gave to Nijika. Then Fern and Stark, with more tea. Then the five from the big room, in one long blanket. Then Mai, alone, who sat at the end of the step and said nothing. Then Momo, with the pear bread, cut into slices, and a cloth over it. *FOR TOMORROW (OR WHENEVER).*
+At five, Yuta and Maki. Maki sat down beside Frieren, without a word, and Frieren leaned, very slightly, against her shoulder instead of Mau's, and Mau saw it and did not say anything, and was glad. Then Rimuru, in human shape, with a pillow, which he gave to Nijika. Then Fern and Stark, with more tea. Then the five from the big room, in one long blanket. Then Mai, alone, who sat at the end of the step and said nothing. Then Momo, with the pear bread, cut into slices, and a cloth over it. *FOR TOMORROW (OR WHENEVER).*
 
 "It's tomorrow," said Momo, and handed it round.
 

@@ -4,7 +4,7 @@
 **Volume:** 25  
 **Season:** 4  
 **Volume title:** **Crystal**  
-**Chapter count:** 19
+**Chapter count:** 23
 
 | # | Chapter |
 |---:|---|
@@ -27,3 +27,7 @@
 | 17 | Don't Be Scared |
 | 18 | Now Who Is Cheating on Who |
 | 19 | Finish It |
+| 20 | Ten Billion Percent |
+| 21 | The Hundred and First |
+| 22 | Okarun's Coin |
+| 23 | Something Cold |

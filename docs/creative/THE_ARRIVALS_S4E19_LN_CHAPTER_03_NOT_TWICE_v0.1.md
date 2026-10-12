@@ -28,7 +28,7 @@ They sat. Four cushions and one very small one. Seiko poured. The crackers went 
 
 Nobody said anything for a while.
 
-Frieren, across the table from Maki, did not look at her. She looked at her tea. And her face did not do anything at all. Maki knew what that meant. Frieren was holding it. The thing Maki had told her on the step, six weeks ago. The floor and the sword and *destroy everything*. Holding it very carefully, at this table, with Mai sitting between them, eating a cracker, irritably.
+Frieren, across the table from Maki, did not look at her. She looked at her tea. And her face did not do anything at all. Maki knew what that meant. Frieren was holding it. The thing Maki had told her by the river, six weeks ago. The floor and the sword and *destroy everything*. Holding it very carefully, at this table, with Mai sitting between them, eating a cracker, irritably.
 
 Maki looked at her sister.
 
@@ -146,7 +146,7 @@ Frieren put her cup down.
 
 The table looked at her.
 
-"That's what I came in with," said Frieren. She folded her hands inside the sleeves of the orange hoodie. "I was a queen. Four days ago. For two days. I made decrees." She almost smiled. "I moved Rimuru's loft. I made Mau carry me piggyback across a dungeon. I got a hoodie." She pulled the sleeve slightly. "I made him promise something new, under a tree, and he did. And he hasn't been hurt since the winter. And I've slept every night since the first table." She paused. "I'm happy."
+"That's what I came in with," said Frieren. She folded her hands inside the sleeves of the orange hoodie. "I was a queen. Four days ago. For two days. I made decrees." She almost smiled. "I moved Rimuru's loft. I made Mau carry me piggyback across a dungeon. I got a hoodie." She pulled the sleeve slightly. "I made him promise something new, under a tree, and he did. And he hasn't been hurt since the winter. And I've laughed more since the first table than in the whole year before it." She paused. "I'm happy."
 
 Nobody said anything.
 
@@ -224,7 +224,7 @@ Then she laughed. Out loud. The first time anyone at the table had heard her lau
 
 
 
-They walked back up the corridor together at four, the way they always did. Mai first, to her room, with Maki's coin in her pocket and her hand over it. Then Maki and Frieren, side by side, in the dark, slowly.
+They walked back up the corridor together after midnight, the way they always did. Mai first, to her room, with Maki's coin in her pocket and her hand over it. Then Maki and Frieren, side by side, in the dark, slowly.
 
 At the foot of the loft ladder in the east corridor, Frieren stopped.
 

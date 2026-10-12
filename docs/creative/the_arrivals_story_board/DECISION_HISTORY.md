@@ -1326,4 +1326,8 @@ The creator, reading V22 #15, said characters still vanish (mentioned only in ge
   - V24 "Everything Stops": the table comes to the clinic. #32: Maki's warning names the table.
   - Also fixed: Wakana is a man in canon, and several of this session's chapters had him as "she" (V22 #26, V24, V25). V25 #1: Nazuna's night shift now resumes rather than starts.
   - V22 is 31 chapters, V23 23, S4 180.
+- **Creator correction (same day): no insomnia, and no 2 a.m.**
+  - Mau notices everything, so Frieren not sleeping would contradict him, and the reset-hour ritual (V21 "Ugly Days") is his anchor as well as her check. The 2 a.m. step read as too casual.
+  - **"Look at Me" now goes:** one of Frieren's spoiled nights (brush my hair, the cars twice, "say something nice"). "What if—" and she lets it sink. Mau doesn't push; he answers "Longer". At dawn he asks Maki because she can't tell *him*. Maki takes her to the river by day.
+  - Maki went first in her life with Yuta, and he lived on; that is her answer to "longer than me". The table meets in the evening, after the lamps go down.
 

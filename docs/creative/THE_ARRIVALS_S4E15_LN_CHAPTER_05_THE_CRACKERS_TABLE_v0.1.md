@@ -4,21 +4,23 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 23  
-**Continuity state:** Night of Day 81, during the frame | Seiko finds Frieren and Maki on her step: 'Four nights' / 'You'll come in' | behind the screen: a brazier, a painted tin, crackers: 'I don't make promises. I make crackers' | the rule: 'Nobody leaves this table carrying what they came in with' | Mai at the screen; 'There's always a cushion' | Turbo Granny follows the smell: 'You stuffed me into a cat' / a tiny cushion | Seiko: 'I'm going to die first... I'm frightened of her watching me go' / Frieren carries it | Frieren: 'I'm going to spend his whole life at the fence' / Maki carries it | Maki: 'Not tonight' (allowed once) | Mai: one bullet a day; 'my sister looks at me like I'm going to disappear' / Frieren: 'when they love them so much it frightens them' | Turbo Granny: 'I like the boy' / Seiko: 'Give it here, you old fool' | THE CRACKERS TABLE (NO, MILIM) | Frieren sleeps: 'not mine to carry'
+**Continuity state:** Evening of Day 81, during the frame | Seiko catches Frieren and Maki coming up from the river: 'Four times... your faces are different' / 'You'll come in' | behind the screen: a brazier, a painted tin, crackers: 'I don't make promises. I make crackers' | the rule: 'Nobody leaves this table carrying what they came in with' | Mai at the screen; 'There's always a cushion' | Turbo Granny follows the smell: 'You stuffed me into a cat' / a tiny cushion | Seiko: 'I'm going to die first... I'm frightened of her watching me go' / Frieren carries it | Frieren: 'I'm going to spend his whole life at the fence' / Maki carries it | Maki: 'Not tonight' (allowed once) | Mai: one bullet a day; 'my sister looks at me like I'm going to disappear' / Frieren: 'when they love them so much it frightens them' | Turbo Granny: 'I like the boy' / Seiko: 'Give it here, you old fool' | THE CRACKERS TABLE (NO, MILIM) | Frieren sleeps: 'not mine to carry'
 
-*When: The night of Day 81, in the middle of the nine days of the frame. The bents of the real house stand against the sky across the yard like the ribs of something enormous. Everyone is exhausted. Frieren and Maki have been on the Muslin step at two in the morning four nights out of ten, and someone has noticed.*
+*When: The evening of Day 81, in the middle of the nine days of the frame. The bents of the real house stand against the sky across the yard like the ribs of something enormous. Everyone is exhausted. Since the river, ten days ago, Frieren and Maki have gone back down to the water together four times, and someone has noticed.*
 
-Seiko found them on the step at a quarter past two.
+Seiko caught them on the way back from the river.
 
-She did not make a sound coming out. She never did. She was very small, and very old, and she moved the way old women move who have spent a long life in houses where the floorboards talk: knowing exactly which ones to step on. Frieren did not hear her. Maki did not hear her. They were sitting on the step side by side, the width of a hand apart, in the cold, looking at the black ribs of the new house across the yard and the ink tree beside them. Not talking. They had been talking, a little while ago. Now they were not.
+It was the evening of the eighty-first day, after dinner, with the lamps going down in the Muslin and the bents of the real house standing black against the last of the light across the yard. Frieren and Maki came up the bank past the timber yard together, the width of a hand apart, the way they had come up it four times in the last ten days. Not talking. They had been talking, down by the water. Now they were not.
 
-"Four nights," said Seiko, from the doorway behind them.
+Seiko was sitting on the step of the Muslin with her paper fan.
 
-Maki was on her feet with her hand going for a spear that was not there. Frieren did not move at all, which was how Seiko knew she had been very far away.
+She did not get up. She watched them come across the yard toward her, slowly, the way she watched everything. And when they reached the step, she lifted the fan an inch.
 
-Seiko looked down at them both over the top of her paper fan.
+"Four times," said Seiko.
 
-"Four nights out of the last ten," she said. "On my step. At two in the morning. In the cold." She lowered the fan an inch. "I sleep behind the screen by that door. I hear everything. Old women always hear everything. It's the only thing we're good for."
+Maki stopped. Frieren stopped beside her.
+
+"Four times in ten days," said Seiko. "Down to the river after lunch. Back at dusk." She looked at the two of them over the fan. "And every time you come back up that bank, your faces are different from when you went down it." She lowered the fan. "I'm old. I watch faces. It's the only thing I'm good for any more."
 
 "Sorry," said Maki. Stiffly. "We'll—"
 
@@ -26,9 +28,9 @@ Seiko looked down at them both over the top of her paper fan.
 
 They looked at her.
 
-"If you two are going to sit on my step at two in the morning," said Seiko, "you can sit at my table. It's warmer. There's tea." She turned round. "And crackers. I make crackers."
+"The river's cold," said Seiko. "And it's going to be colder, and you're going to keep going down there, because whatever you're doing down there is working." She stood up, slowly, the way old women stand. "So you can do it at my table instead. It's warm. There's tea." She turned round. "And crackers. I make crackers."
 
-She went back inside.
+She went inside.
 
 Maki and Frieren looked at each other.
 
@@ -66,7 +68,7 @@ Maki looked at the old woman across the table for a long moment.
 
 Seiko did not answer at once. She chewed her cracker, slowly, with great care, the way old people chew. She drank her tea. She put the cup down.
 
-"Because I know what two women sitting on a step at two in the morning means," she said. "I've been one. Many times." She looked at Frieren. "You. Since the Trial. You've stopped reading at night. You sit in the corner with the book open and you look at him. I've watched you." She looked at Maki. "And you. You've never slept. Not since you came. You sleep like a soldier. With one ear." She folded her small hands on the table. "And now the two of you have found each other on my step. Good. That's good." She paused. "But a step is cold. And I'm old, and I don't sleep either, and I'm tired of listening to you through a screen."
+"Because I know what two women walking down to a river every few days means," she said. "I've been one. Many times." She looked at Frieren. "You. Since the tree. You look at him at the long table the way you look at a book you're afraid to finish." She looked at Maki. "And you. You've never slept properly. Not since you came. You sleep like a soldier. With one ear." She folded her small hands on the table. "And now the two of you have found each other, down by the river. Good. That's good." She paused. "But a riverbank is cold. And I'm old, and the evenings are long, and I'm tired of watching your faces from my step and guessing."
 
 Neither of them said anything.
 
@@ -80,7 +82,7 @@ Seiko looked at her over the top of her teacup.
 
 
 
-The screen moved at half past two.
+The screen moved a little before eleven.
 
 All three of them turned round.
 
@@ -110,9 +112,9 @@ She sat very straight, between her sister and the elf, with the blanket round he
 
 "Tea," said Maki.
 
-"At two in the morning."
+"At eleven at night."
 
-"Half past," said Maki.
+"Nearly," said Maki.
 
 Mai looked at her for a long moment. Then she picked up the cracker and ate it, irritably, the way she did everything near her sister.
 
@@ -124,7 +126,7 @@ Her face changed.
 
 
 
-The fifth one came at a quarter to three.
+The fifth one came at half past eleven.
 
 They heard it before they saw it. A furious little voice, from somewhere near the floor, on the other side of the screen, getting louder.
 
@@ -190,13 +192,13 @@ Then she climbed up onto the table, muttering, and sat on it.
 
 
 
-They stayed until four.
+They stayed until long after midnight.
 
 It was not like the roof. Maki thought that afterward, lying in bed beside Yuta in the grey, not sleeping, the way she never slept. She had heard about the roof. Everyone had. Mau and Yuta and Rimuru, once a week, on the ridge of whatever building they were in, saying nothing much, and then saying the thing. The rule: *if any of us starts carrying something he shouldn't, the other two say so*.
 
 This was not that. It was louder. It had an old woman and a dead one in it, insulting each other over a tin of crackers. It had her sister, sitting very straight between her and the elf, being irritated at everything, eating more crackers than anyone.
 
-But at some point, round about half past three, when the brazier had gone low and the kettle had been filled twice and Turbo Granny had eaten so much cracker she had to lie down on her tiny cushion, Seiko put her cup down and looked round the table.
+But at some point, long after midnight, when the brazier had gone low and the kettle had been filled twice and Turbo Granny had eaten so much cracker she had to lie down on her tiny cushion, Seiko put her cup down and looked round the table.
 
 "Well," said Seiko. "Who's going first."
 
@@ -224,7 +226,7 @@ The brazier ticked.
 
 Seiko looked at her.
 
-"I'm good at people dying," said Frieren. "I'm the best there is at it. Everyone I've ever known has died." She did not look away. "I'm not good at it. Somebody told me that, on the step, last week. Nobody's good at it." She paused. "But I'm used to carrying it. So give it to me. For a week."
+"I'm good at people dying," said Frieren. "I'm the best there is at it. Everyone I've ever known has died." She did not look away. "I'm not good at it. Somebody told me that, by the river, ten days ago. Nobody's good at it." She paused. "But I'm used to carrying it. So give it to me. For a week."
 
 Seiko looked at her for a long moment over the fan.
 
@@ -234,7 +236,7 @@ Then she nodded, once.
 
 
 
-Frieren did not say much. She said *longer*. She said *a tree that came ninety-nine years early*. She said *I asked him for something he can't give me, and he said yes, and I can't stop thinking about it*. She did not say *four hundred and thirty-seven*. She had said that on the step, to Maki, and that was Maki's to carry. She said the other thing instead. The thing she had not said to anyone.
+Frieren did not say much. She said *longer*. She said *a tree that came ninety-nine years early*. She said *I asked him for something he can't give me, and he said yes, and I can't stop thinking about it*. She did not say *four hundred and thirty-seven*. She had said that by the river, to Maki, and that was Maki's to carry. She said the other thing instead. The thing she had not said to anyone.
 
 "I'm afraid he'll go in front of something," she said, "and I'll be at the fence."
 
@@ -272,7 +274,7 @@ Seiko looked at her over the fan. For a long moment. As if she could see exactly
 
 "Not twice," said Maki.
 
-Frieren, across the table, did not look at Maki. She looked at her tea. And her face did not do anything at all, which was how Maki knew she was holding it. The thing Maki had told her on the step. Holding it very carefully, so nobody at this table would see it in her face. Especially the one sitting between them.
+Frieren, across the table, did not look at Maki. She looked at her tea. And her face did not do anything at all, which was how Maki knew she was holding it. The thing Maki had told her by the river. Holding it very carefully, so nobody at this table would see it in her face. Especially the one sitting between them.
 
 "And you," said Seiko. To Mai.
 
@@ -386,11 +388,11 @@ Milim had cried. Then Seiko had given her a cracker. Then Milim had stopped cryi
 
 On the roof of the new house, which did not have a roof yet, only bents against the sky, Mau said to Rimuru and Yuta, on the seventh night:
 
-"Frieren's sleeping."
+"Frieren laughed at dinner," he said.
 
 They looked at him.
 
-"Properly," said Mau. "The last three nights. She doesn't wake up an hour before dawn any more. Well. She does. But she goes back to sleep." He looked at the bents against the stars. "She's been going to Seiko's. Behind the screen. With Maki. And Mai. And Turbo Granny, apparently, which nobody can explain." He paused. "She comes back to bed at four and she sleeps."
+"Twice," said Mau. "Out loud. At something Milim said." He looked at the bents against the stars. "And at the hour, her heart isn't going as hard when she says *one*. I can feel it. Through the mattress." He paused. "She's been going to Seiko's. Behind the screen. With Maki. And Mai. And Turbo Granny, apparently, which nobody can explain. And she comes back lighter."
 
 Yuta did not say anything. But he was smiling.
 

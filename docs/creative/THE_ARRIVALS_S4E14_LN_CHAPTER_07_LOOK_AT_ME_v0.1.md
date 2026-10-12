@@ -4,211 +4,401 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 17  
-**Continuity state:** Night of Day 71 | Frieren on the Muslin step at two in the morning, not reading | the bay remembered: 'Look at me. Breathe with me' | 'He promised me longer... I said longer than me' | four hundred and thirty-seven; she counts his breaths every night: 'It's not a game' | Maki: 'I had a sister' — the twins, the house, the floor, Mai's sword and 'destroy everything'; every room in one night; the doors she still hears | Mai alive behind the screen, and Maki can't tell her: 'Not tonight' | 'Nobody's good at this... You're doing it too. You're just doing it lying down' | 'Tell me' / 'It goes both ways' | Frieren won't tell Mai | she lets his breaths go on without her and sleeps | Yuta: 'Did you tell her?' / 'Yes' / 'Good'
+**Continuity state:** Night of Day 71 into Day 72 | Rimuru still a slime; Mau up four times / Diablo: 'Go to bed' | one of those nights: Frieren decrees: brush my hair, hold the lamp, the cars twice, 'say something nice' | 'You're not the first thing I remember. You're the first thing' | 'What if—' and she lets it sink | he doesn't push: 'Longer' / 'Longer' | the reset hour: braced, her cold foot on his shin | dawn behind the barn: Mau asks Maki: 'I want her to have someone who isn't me' | the river: Maki heard 'longer than me'; she went first in her life with Yuta, and he lived | 'Four hundred and thirty-seven'; the foot is his anchor and her check | she nearly told him; he let her not | Maki tells her about Mai, the clan, the doors; 'both ways'; Frieren won't tell Mai | Maki's nod at the woodpile | Yuta: 'Did you tell her?' / 'Yes' / 'Good'
 
-*When: The night of Day 71. Rimuru is still asleep as a slime in the loft of the Muslin, with Diablo outside his door. The witches have ink again. The night before, under the ink tree, Frieren made Mau promise "longer", and called him an idiot.*
+*When: The night of Day 71, into the morning of Day 72. Rimuru is still asleep as a slime in the loft of the Muslin, with Diablo outside his door; Mau has climbed up to check on him four times since dinner. The witches have ink again. The night before, under the ink tree, Frieren asked for "longer".*
 
-Frieren was on the step of the Muslin at two in the morning, and she was not reading.
+Mau could not sleep, because Rimuru was still a slime.
 
-That was how Maki knew. Frieren read at two in the morning. Everyone in the house knew that. If you came down for water in the small hours, there she would be, in the reading corner, with a lamp turned low and a grimoire on her knee, turning pages so slowly you could not tell if she was reading or asleep. She read the way other people breathed.
+It was not that anything was wrong. Ciel had said so, over and over, in the flat clear voice that meant she was saying it for Mau's sake and not because anything had changed. *He is resting. Foundation took everything. He will wake when he wakes.* Diablo was outside the loft ladder on a stool, with his hands folded and his eyes closed, not sleeping, the way Diablo did not sleep. And up in the loft, on his pillow, Rimuru was a small pale puddle that rose and fell, very slowly, like something breathing in the bottom of a bowl.
 
-She was sitting on the step outside the Muslin's door, in the cold, in a coat that was not hers, with nothing in her hands. Looking at the dark. At the place across the yard where the ink tree stood. You could just see it, in the starlight. A black shape. Taller than it had been yesterday. Taller than anything that young had any right to be.
+Mau had climbed up four times since dinner to look at him.
 
-Maki stood in the doorway behind her for a long moment.
+On the fourth time, Diablo opened one eye and said, pleasantly, "Mau-sama. He is breathing. He was breathing the last three times. He will be breathing the next time." And closed the eye again. "Go to bed."
 
-She had come down for the same reason she always came down at two in the morning, which was that she did not sleep well. She had not slept well in a long time. In two worlds. She had stopped expecting to.
+So Mau went to bed. To the east end of the Muslin, behind the cloth wall, where the corner that was his and Frieren's had a bed and a shelf and a lamp, and, against the wall, the low cushion and the crate of books that was hers. Her reading place. Where she sat in the evenings with a grimoire on her knee and turned pages so slowly you could not tell if she was reading or dreaming.
 
-"You're not reading," said Maki.
+She was not reading.
 
-Frieren did not turn round.
+She was on the bed, sitting up against the wall, in the old grey shirt she slept in, with her knees drawn up and the blanket over them. Waiting for him. She had clearly been waiting for some time.
 
-"No," she said.
+"You went up again," said Frieren.
 
-Maki looked at her back. At the small shoulders in the borrowed coat. At the white hair, loose, not tied.
+"Four times."
 
-Then she came out, and pulled the door to behind her, and sat down on the step. Not close. Not far. The width of a person away. She put her elbows on her knees and looked at the ink tree too.
+"Diablo told you to go to bed."
 
-Neither of them said anything for a long time.
+"Diablo told me to go to bed," Mau agreed. He sat down on the edge of it. "I went to bed."
 
+Frieren looked at him for a long moment over her knees.
 
+"Brush my hair," she said.
 
-They had not talked much, the two of them. Not since the autumn.
 
-There had been a stretch, once, after the bad season, when the two of them had not been talking at all. Over nothing, and over everything. And then, slowly, they had been again. Over cups of tea. Over a word here and there at the long table. The way you pick a dropped thread back up without making a fuss of it.
 
-And then there had been the night of the bay.
+It was one of those nights.
 
-Maki did not think about that night if she could help it. Nobody in the house did. But she remembered one part of it, very clearly. The part where the elf who had lived a thousand years and killed demons in their thousands and never once been seen to lose her composure had stood in the corridor outside the bay with Mau's blood on her hands and not been able to breathe. Her whole body locked. Her eyes wide and seeing nothing. Her breath coming in small sharp sounds, faster and faster, the way breath goes when a body forgets how.
+He knew them by now. Not often. Every few weeks, perhaps, without warning, something in Frieren came loose, and she became, for a night, a creature of small demands. She did not ask, exactly. She decreed. Quietly, from the bed, with her serene face, as if she were stating facts about the weather.
 
-And Maki had taken her by the shoulders. And turned her round. And put her face very close.
+"Brush my hair."
 
-*Look at me,* Maki had said. *Look at me. Breathe with me. In. Out. That's all. Just that. In. Out.*
+He brushed her hair. With the comb from the shelf, the one with the missing tooth. Sitting behind her on the bed while she sat between his knees with her back against his chest, and her long white hair spread out over both of them, and the lamp turned low. Slowly. The way she liked. From the ends first, so it did not pull.
 
-And Frieren had looked at her. And breathed.
+"Slower," said Frieren.
 
-They had never talked about it. Not once. In all the months since. Frieren had never said thank you, and Maki had never wanted her to. It was not that kind of thing.
+He went slower.
 
-But it was there. Between them. On the step, in the cold.
+"Not that slow."
 
-"He promised me longer," said Frieren.
+He went a little faster.
 
-Maki did not say anything.
+"Good," said Frieren, and closed her eyes.
 
-"Last night," said Frieren. "Under the tree. It came early. Ninety-nine years early. He'd promised me a hundred years, the tree, both of us, sitting under it. And it came the next spring." She did not look away from the black shape across the yard. "So I said he owed me a new one. And it had to be longer."
+When her hair was done, she did not move. She stayed leaning back against his chest with her eyes closed.
 
-"I heard," said Maki. "Everyone heard. You called him an idiot."
+"Hold the lamp," she said.
 
-"He is an idiot." Frieren's voice did not change. "He said *longer, both of us, I promise*. And he meant it. He always means it." She was quiet for a moment. "And I said *longer than me*."
+"You're not reading."
 
-Maki turned her head and looked at her.
+"I might read," said Frieren. "Later. Hold it in case."
 
-Frieren was still looking at the tree. Her face in the starlight was perfectly calm. Perfectly serene. The way it went when something was very wrong.
+He held the lamp. In case. With one hand, while his other arm was round her, and she did not read. She lay back against him with her eyes closed and her hands folded on the blanket, and he held a lamp over nothing, in case.
 
-"I'm a thousand years old," said Frieren. "Give or take. I'll be here for a thousand more. Two thousand. I don't know. Elves don't keep count very well." She folded her hands in her lap, inside the sleeves of the borrowed coat. "He's a human. He'll have seventy years. Eighty. If nothing happens. If he doesn't go in front of anything." She paused. "He always goes in front of things."
+"Tell me about the cars," said Frieren.
 
-Maki did not say anything.
+He told her about the cars. The red and white one and the red one. Who had driven them, in his world, in races she would never see. The names underneath. The men who had driven them, and how fast, and how one of them had died. She had heard it before. She had heard it ten times. She listened as if she had never heard it at all.
 
-"I asked him for longer than me," said Frieren. "I know he can't. I knew when I said it. He knew when he said yes." She looked down at her hands. "I made him promise something he can't do. Because I wanted to hear him say it. And he said it. Because he'd say anything if I asked."
+"Again," she said, when he finished. "The part about the rain."
 
-The cold was very still. Somewhere in the Muslin behind them, someone turned over in their sleep.
+He told her the part about the rain again.
 
-"And it's not just that," said Frieren.
+"Your voice is nice," said Frieren, with her eyes shut. "When you talk about things you love. It goes lower. Did you know that?"
 
-Very quietly. As if the words were coming up from somewhere a long way down, where she had kept them for a long time.
+"No."
 
-"Four hundred and thirty-seven," she said.
+"It does," said Frieren. "I've been listening to it for two years. It goes lower, and slower, and you stop looking at anything." She paused. "It does it when you talk about the cars. And the sea. And Rimuru." Another pause. "And me, sometimes. When you think I'm asleep."
 
-Maki went still.
+Mau did not say anything. His face had gone warm.
 
-"He told us," said Frieren. "In the first week. At the table. After the Trial. Four hundred and thirty-seven times. Inside the white place. Where none of us could see." Her voice was perfectly level. "I sat outside that wall for hours. Saying his name. Once an hour. Not knowing if anything got through. And inside, he was dying. Over and over. Four hundred and thirty-seven times. Choosing. Every time."
+"Say something nice," said Frieren.
 
-She stopped.
+"Like what?"
 
-"I haven't slept properly since," said Frieren. "Not one night. I lie beside him and I count his breaths. I wake up an hour before dawn every night, at the same time, and I put my foot against his leg to see if he's still warm, and I say *one*, and he says *still here*, and then I lie there until it's light." She did not look round. "He doesn't know. He thinks it's a game. A little thing we do." She paused. "It's not a game."
+"I don't know," said Frieren. "You're the one with the nice voice." She opened one eye and looked up at him, upside down, from his chest. "Something you'd say if you thought I was asleep."
 
-Maki did not move.
+Mau looked down at her. At the green eye looking up at him, and the white hair he had just brushed, and the old grey shirt, and the small cold hands folded on the blanket.
 
-"I don't tell anyone," said Frieren. "I don't tell him. I don't tell Fern. I can't tell Himmel. Himmel would understand, and I can't bear that he'd understand." She was quiet for a long moment. "I'm a thousand years old. I've buried everyone. I'm supposed to be good at this." Her voice did not change at all. "I'm not good at this."
+"You're the first thing I remember," he said.
 
-The ink tree stood black across the yard.
+Frieren's eye did not close.
 
-Maki looked at it for a long time.
-
-Then she said:
-
-"I had a sister."
-
-
-
-Frieren turned her head.
-
-"*Have*," said Maki. "I have a sister. She's asleep in the Muslin right now. Ten paces from here. Behind the screen by the stove." She did not look at Frieren. She looked at the tree. "Mai."
-
-"I know Mai," said Frieren slowly.
-
-"You know Mai *here*," said Maki. "In my world, I had a sister." She paused. "And then I didn't."
-
-Frieren did not say anything.
-
-"We were twins," said Maki. "In my world, in the families that do what we do, twins are bad luck. They think twins are one person, split. One soul in two bodies. So neither of us is ever whole. Neither of us is ever strong enough. Because the other one's always holding a piece." She was very calm. "I was born with nothing. No cursed energy. Nothing. That's what they call it. A restriction. My body got strong instead. Stronger than anyone's. But never strong enough. Because Mai had a piece of me. And I had a piece of her."
-
-The cold was very still.
-
-"Our family hated us," said Maki. "Both of us. Me for being nothing. Her for being weak. And for being mine." She looked at her hands. "Mai stayed. In that house. With them. Because I left, and somebody had to stay, and she was more scared of the world than of them. And I hated her for staying. And she hated me for leaving." Her voice did not change. "We were very good at hating each other. It was the only thing we were ever good at together."
-
-Frieren had turned all the way round on the step now. She was looking at Maki's face.
-
-"And then one day," said Maki, "our father cut us both down. In that house. In a room I'd grown up in." She was looking at the tree. "I was dying. Mai was dying. Both of us on the floor. And Mai crawled over to me. And she made something. With the last of what she had. She could make things, out of nothing, out of herself. Only small things. One a day. It cost her." Maki's hands were very still. "She made me a sword. And she gave me the rest of her. The piece she'd been holding. All of it. On purpose. And she died."
-
-Frieren did not move.
-
-"She said *destroy everything*," said Maki. "That was the last thing. *Destroy everything.* Everything in that house."
-
-The ink tree stood black across the yard.
-
-"And I got up," said Maki. "Whole. For the first time in my life. Everything she'd been holding, in me. And I picked up the sword she'd made." Her voice was perfectly flat. "And I did."
-
-Frieren's hand had come out of the sleeve of the coat.
-
-"Every room," said Maki. "Every person. In one night. I walked through that house and I did what she said. I didn't stop. I didn't think. I didn't feel anything at all, until it was morning, and I was standing in the yard covered in it, and there was nobody left." She looked down at her own hands. "And then I felt all of it at once."
-
-Neither of them said anything for a long time.
-
-"I don't sleep," said Maki, after a while. "Either. Not properly. Not since. I hear doors. Sliding doors, the old kind, in that house. I hear them in my sleep and I'm up with the spear before I'm awake." She almost smiled. "Yuta's used to it. He sleeps on the side away from the door." She was quiet. "I can't stand the smell of a certain kind of incense. I can't go into a room with tatami without counting the exits. When someone says *destroy*, even in a joke, even Senku about a failed bulb, I have to go outside for a minute." She paused. "I've lived a whole life since. A whole one. With Yuta. I had children. Grandchildren. I got old. And then I was here, young again, with all of it still in me. And I still hear the doors."
-
-Frieren was looking at her.
-
-"And then I came here," said Maki. "And she was here."
-
-Her voice changed, then. For the first time. Not much. Very slightly.
-
-"Mai," said Maki. "Here. Alive. Asleep behind the screen by the stove, ten paces from where we're sitting. From before. Before that day. Before the floor and the sword." She swallowed. "She doesn't know. She doesn't know what happens to her. She doesn't know what I did. She doesn't know she made me whole by dying." Maki's hands were not still any more. "And I can't tell her. I can't. Not yet. I look at her every day across that table, eating porridge, being annoyed with me about nothing, and I can't tell her."
-
-"Why?" said Frieren. Very quietly.
-
-Maki did not answer for a long time.
-
-"Because she's alive," she said at last. "And she doesn't have to know how it ends. Not yet. Not from me." She looked at the tree. "One day. When she's ready. When I'm ready. Maybe never." She paused. "But not tonight."
-
-
-
-They sat there for a long time after that.
-
-Frieren did not say *I'm sorry*. Maki would have hated it, and Frieren knew. She did not say anything at all. She sat on the step in the cold with her hand out of her sleeve, on the boards between them, not quite touching Maki's.
-
-"Why are you telling me?" said Frieren at last.
-
-Maki looked at her.
-
-"Because you said you're supposed to be good at this," said Maki. "At losing people. Because you've done it so many times." She looked back at the tree. "And I've done it once. Once. And it took me a whole life to stop hearing the doors. And I still hear them." She paused. "Nobody's good at this, Frieren. Not after a thousand years. Not after one. You don't get good at it. You just get used to carrying it."
-
-Frieren did not say anything.
-
-"You're counting his breaths," said Maki. "Every night. Lying awake. Since the Trial. Not telling anyone. Not telling *him*." She shook her head slowly. "That's carrying it alone. That's exactly what he does. The thing you're so afraid of. Going in front, so nobody behind has to see." She looked at Frieren. "You're doing it too. You're just doing it lying down."
-
-Frieren looked at her for a long moment.
-
-"That's not fair," she said.
-
-"No," said Maki. "It's true, though."
-
-Frieren looked away. At the tree.
-
-"I don't know how to tell him," she said, very quietly. "That it's not a game. *One. Still here.* That I mean it. That I'm checking. Every night." Her voice was not quite steady. "If I tell him, he'll know how frightened I am. And then he'll be frightened that I'm frightened. And he'll go in front of that too. He'll try to fix it. He'll stay awake to make sure I sleep." She stopped. "He'd carry it for me. And then he'd be carrying two things."
-
-Maki was quiet for a while.
-
-"Then don't tell him," she said. "Not yet."
-
-Frieren looked at her.
-
-"Tell me," said Maki.
-
-The cold was very still.
-
-"Not everything has to go to him," said Maki. "He's not the only person in this house who can carry things. Yuta has Mau and Rimuru. On the roof. Once a week. If any of them starts carrying something he shouldn't, the other two say so." She looked at the tree. "You haven't got a roof."
-
-"No," said Frieren.
-
-"So tell me," said Maki. "When it's two in the morning and you're not reading. When you've counted his breaths and you can't stop. When you've asked him for something he can't give you and you hate yourself for it." She paused. "Come down and sit on the step. I'm usually here. I don't sleep either."
+"Before you," said Mau, "there's nothing. Not dark. Not blank. Just—nothing. And then there's white hair, and a face over me, and someone saying something I didn't understand yet." He looked at her. "Everything I am started there. Everything. The cars, and the sea, and Rimuru, and the house. All of it's after you." He paused. "You're not the first thing I remember. You're the first thing. There wasn't a before."
 
 Frieren did not say anything for a long time.
 
-Then, very slowly, she moved her hand. The last inch. On the boards between them. Until her cold fingers were against the side of Maki's hand.
+She looked up at him, upside down, with one eye open, and her face did something it did not usually do where anyone could see. It went very soft. And then, slowly, something else came into it. Something that was not soft at all.
 
-Maki did not move hers away.
+"Mau," she said.
 
-"And you'll tell me," said Frieren. "About the doors."
+"Mm."
+
+"What if—"
+
+She stopped.
+
+He waited.
+
+She was looking at him. Upside down. With both eyes open now. And there was something in her face that he did not have a name for. Something that wanted very badly to come out. He could see it, the way he could see most things in her, if he looked. Pressing up from somewhere a long way down. Into her eyes. Into the corner of her mouth.
+
+"What if what?" he said, very gently.
+
+Frieren opened her mouth.
+
+He watched her decide not to.
+
+He watched it go back down. All of it. Whatever it had been. She did not push it down hard. She just let it sink, slowly, the way you let something sink into deep water, and watched it go, and closed her mouth. And her face went serene again. Smooth. Calm. A lake with no wind on it.
+
+"Nothing," said Frieren.
+
+Mau looked at her.
+
+He knew that face. He had known it for two years. It was the face she made when something was very wrong and she had decided he was not going to carry it. He had seen it at the bay. He had seen it in the white place, through the wall, every hour, saying his name, though he had not known then that he was seeing it. He had seen it last night, under the tree, for one second, when she said *longer than me*.
+
+He did not push.
+
+He could have. He could have said *Frieren*, in the voice that made her tell him things. He could have looked, the way he could look at most things in her. He could have kept asking until she told him, because she would have, in the end, if he asked enough.
+
+He did not.
+
+"Longer," said Mau.
+
+Frieren went very still against his chest.
+
+"That's the promise," said Mau. "From the tree. Last night. You made me say it." He put the lamp down on the shelf, very carefully, and put that arm round her too. "Longer. Both of us. Longer than a hundred. Longer than whatever I was about to say." He paused. "I said it. I meant it. I'm still meaning it."
+
+Frieren did not say anything.
+
+She lay back against him in the dark, with both his arms round her and her hands folded on the blanket. After a long time, she turned her head, and put her face against his shirt, and stayed there.
+
+"Longer," she said, into it. Very quietly.
+
+"Longer," said Mau.
+
+They did not say anything else.
+
+She fell asleep like that, against his chest, sitting up, with her hair brushed and the lamp out. He felt her go. Her breathing slowing. Her hands loosening on the blanket.
+
+At the reset hour, an hour before dawn, his body woke the way it always woke. All at once. Braced. The way it had woken at every anchor in the white place, waiting for it to begin again. And before it could believe anything, a cold foot found his shin in the dark.
+
+"One," Frieren whispered. "Still here."
+
+He let his breath out. "Still here," said Mau.
+
+She went back to sleep.
+
+He did not.
+
+He lay in the dark with the elf asleep against him and looked at the cloth ceiling of the Muslin and thought about the face she had made. The thing that had come up and gone back down. *What if.*
+
+She did not want to tell him. Whatever it was. It was about him. He was sure of that. It was about him, and it was heavy, and she had decided he was not going to carry it.
+
+And he could not make her. And he would not.
+
+But she should not have to carry it alone either.
+
+He lay there until the Muslin began to go grey, and by the time it was light, he knew who he was going to ask.
+
+
+
+Maki trained behind the barn in the mornings.
+
+She always had. Since the old inn. Before anyone else was up, in the cold, with a pole instead of her spear, going through the forms. Slow, and then fast, and then slower than slow, so slow it hurt to watch. Daphne's bees had not come yet, that winter; there were no hives. There was only the barn wall, and the frost, and the pole, and Maki.
+
+She did not stop when Mau came round the corner.
+
+"You're up early," she said, without turning round.
+
+"I didn't sleep."
+
+"Rimuru?"
+
+"Partly."
+
+Maki brought the pole round in a long slow arc and stopped it, perfectly still, a hand's breadth from the barn wall. She held it there. Then she lowered it, and turned round, and looked at him.
+
+She had always been able to read him. Not the way Frieren could. Differently. The way one fighter reads another. She looked at him standing in the frost with his hands in his pockets and his face grey with not sleeping, and she leaned on the pole.
+
+"Out with it," said Maki.
+
+Mau did not know how to say it. So he said it badly.
+
+"Frieren wanted to tell me something last night," he said. "And didn't."
+
+Maki did not say anything.
+
+"She was—" He stopped. "It was one of those nights. Where she asks for things. You know."
+
+"I know," said Maki. Something moved at the corner of her mouth. "The whole Muslin knows. The walls are cloth."
+
+Mau's face went warm. He went on anyway.
+
+"And in the middle of it," he said, "she started to say something. *What if.* And then she stopped. And I watched her decide not to." He looked at the frost. "It's about me. I know it is. Something about me that's frightening her. And she won't tell me because it's about me, and she thinks if she tells me I'll—" He stopped. "Carry it. Try to fix it. Go in front of it."
+
+"You would," said Maki.
+
+"I would," said Mau. "That's the problem." He looked up at her. "So I didn't ask. I reminded her about the promise. From the tree. And she said it back. And she went to sleep." He paused. "But it's still there. Whatever it is. I could feel it all night. She's holding it by herself."
+
+Maki leaned on the pole and looked at him for a long time.
+
+"You want me to ask her," she said.
+
+"I want her to have someone," said Mau. "Who isn't me." He did not look away. "She's got Fern, but she won't put things on Fern. Fern's her kid, more or less. She'd never. And Himmel—" He stopped. "She can't with Himmel. Not about this. Not about me." He took a breath. "And you two. You get on. You stopped talking once, and then you started again, and since then you—" He did not know how to finish. "She listens to you. At the bay. You said *look at me* and she looked at you. She doesn't look at anyone like that except—"
+
+He stopped.
+
+Maki was quiet for a moment.
+
+"I heard her," she said. "Under the tree. Two nights ago." She looked down at the pole in her hands. "Everyone heard. *Longer than me.*"
+
+Mau did not say anything.
+
+"I'll talk to her," said Maki.
+
+Mau let out a breath. It went on for a long time.
+
+"Don't tell her I asked," he said.
+
+"I'm not stupid," said Maki. She lifted the pole again. "Go and eat something. You look like a ghost." She turned back to the barn wall. "And Mau."
+
+He stopped at the corner.
+
+"It was the right thing," said Maki, without turning round. "Not asking her. And then asking me." She brought the pole up into the first form, slow. "Most people only manage one of those."
+
+
+
+She found Frieren under the ink tree in the afternoon.
+
+It was not hard. Frieren was always under the ink tree now, in the afternoons, since it grew. Sitting on the frozen ground with her back against the trunk and a grimoire open on her knee. She read there in the light, the way she read in her corner at night. It was her tree. It had been her tree since the moment it came up out of the yard, ninety-nine years early, and she had put her hand on its bark and said *you broke your promise*.
+
+Maki stood in front of her for a moment.
+
+Frieren looked up.
+
+"Walk with me," said Maki.
+
+Frieren looked at her for a long time over the top of the grimoire. Then she closed it, and stood up, and brushed the frost off the back of her coat, and walked.
+
+They went down to the river. Neither of them said anything on the way. Past the timber yard, past the place where the dam stood now, new and pale, where Rimuru had built it in a breath and then fallen asleep. Down the bank, to where the river ran fast and grey under thin ice at the edges, below the weir. Maki stopped there. On the flat rocks at the water's edge. And sat down. And after a moment, Frieren sat down beside her.
+
+The river went past.
+
+"I heard you," said Maki. "Under the tree. *Longer than me.*"
+
+Frieren did not move.
+
+"Everyone heard," said Maki. "You weren't quiet." She looked at the water. "But I don't think everyone heard what you meant."
+
+Frieren was quiet for a long time.
+
+"What did I mean?" she said.
+
+"That you know he can't," said Maki.
+
+Frieren did not answer.
+
+"He's a human," said Maki. "You're an elf. He'll get seventy years if nothing happens to him. Eighty. And something always happens to him, because he goes in front of everything." She was very calm. "You'll be here for a thousand more. You asked him to promise to outlive you. You knew he couldn't. He knew too. And he said yes anyway, because you asked." She paused. "And now you're carrying the fact that you made him say it."
+
+The river went past.
+
+Frieren's hands had come out of her sleeves. They were folded very tightly in her lap.
+
+"He told you," she said. Very quietly.
+
+"No," said Maki.
+
+Frieren looked at her.
+
+"He didn't have to," said Maki. "I've got eyes. And I was the one who went first."
+
+
+
+Frieren turned her head all the way round.
+
+"In my life," said Maki. She did not look at Frieren. She looked at the river. "The one I lived, with Yuta. The whole one. We had a son. Grandchildren. We got old." She almost smiled. "I went first. Years before him. I don't remember the end very well. I remember being very tired, and him holding my hand, and our granddaughter at the foot of the bed, trying not to cry because I'd told her crying was for after." She was quiet for a moment. "And then I was gone. And he wasn't."
+
+Frieren did not say anything.
+
+"He lived," said Maki. "After. For years. I didn't see it, but I know. Because I know him." She picked up a flat stone from the rocks and turned it over. "He didn't stop. He didn't go quiet. He raised that granddaughter. He let her follow him round the house. He sat with her on a beach and gave her his ring on a cord and told her it would watch over her." She put the stone down. "He lived the rest of his life with me gone. And he made it a good one. For her. Because I'd have been furious if he didn't."
+
+The river went past, grey and fast.
+
+"You're afraid of being the one at the end," said Maki. "The one who stays. The one who has to live with it." She looked at Frieren at last. "I'm telling you what it's like from the other side. From the one who goes." Her voice did not change. "It's not the worst thing. Going first. Not if you know the one you're leaving is going to live. Properly. Afterward." She paused. "The worst thing would have been knowing he'd stop. That he'd sit at the fence for the rest of his life, understanding. That I'd made him do that by going."
+
+Frieren's hands were shaking in her lap.
+
+"He wouldn't want that," said Maki. "Mau. If it ever comes to it. He wouldn't want you at the fence for a thousand years." She looked back at the river. "He'd want you under that tree. Reading. With someone. Living."
+
+Frieren did not say anything for a long time.
+
+Then she said, very quietly:
+
+"Four hundred and thirty-seven."
+
+Maki went still.
+
+"He told us," said Frieren. "In the first week. After the Trial. At the table." Her voice was perfectly level. "Four hundred and thirty-seven times. Inside the white place. I sat outside that wall for hours. Saying his name once an hour. Not knowing if anything got through." She stopped. "And inside, he was dying. Choosing. Every time."
+
+Maki did not say anything.
+
+"And every morning," said Frieren, "at the hour before dawn, his body wakes up as if he's still in there. Braced. Waiting for it to start again." Her voice did not change at all. "So I put my foot on his shin. And I say *one*. And he says *still here*. And he breathes." She paused. "He needs it. I know he needs it. It's the best thing I can give him." Her hands tightened. "But it isn't only for him. I'm checking too. Every time. That he's still warm. That he's here and not in there." She looked at the river. "He doesn't know that part. That some mornings my heart is going so hard before he answers that I think he'll feel it through the mattress."
+
+The river went past.
+
+"And last night," said Frieren, "he was so—" She stopped. "He brushed my hair. He told me about the cars, twice. He said I was the first thing. That there wasn't a before." Her voice cracked, for the first time. "And I nearly told him. All of it. The checking. The fence. *Longer than me.* I opened my mouth." She stopped. "And I thought, if I tell him, he'll know how frightened I am. And then he'll be frightened that I'm frightened. And he'll go in front of that too. He'll stay awake to make sure I sleep. He'll start being careful. With himself. For me." She looked at the river. "And then he'd be carrying two things. His and mine."
+
+"So you didn't," said Maki.
+
+"So I didn't," said Frieren. "And he said *longer*. And I said it back. And he let me not tell him." Her voice was very small. "He let me. He didn't push. He could have. He didn't."
+
+Maki looked at the river for a long time.
+
+"I know he didn't," she said.
+
+Frieren looked at her.
+
+Maki did not say anything else about it. But Frieren was a thousand years old, and she had watched a great many people say things by not saying them, and she looked at Maki's face for a long moment, and understood.
+
+She did not say anything either. She looked back at the river.
+
+"Idiot," she said, very softly. To nobody. To someone who was not there.
+
+"Both of them are," said Maki. "All of them. Every one we pick."
+
+
+
+"I had a sister," said Maki.
+
+It came out of her after a long silence. As if it had been waiting at the back of her throat the whole time, and had decided, while they were looking at the river, that it was its turn.
+
+"*Have*," she said. "I have a sister. She's in the Muslin right now, behind the screen by the stove, being annoyed with someone. Mai." She did not look at Frieren. "In my world, I had a sister. And then I didn't."
+
+Frieren did not say anything.
+
+Maki told her.
+
+The twins, and what the families that do what they do believe about twins. One soul, split. Neither ever whole. Maki born with nothing, and her body strong instead, and never strong enough, because Mai was holding a piece. The house they grew up in, that hated them both. Maki leaving. Mai staying, because somebody had to, and because she was more frightened of the world than of them. The two of them hating each other for it. Very good at hating each other. The only thing they were ever good at together.
+
+And then the day their father cut them both down. In that house. In a room Maki had grown up in. Both of them on the floor, dying. And Mai crawling across to her. And making something, with the last of what she had. A sword. And giving her the rest. The piece she had been holding. All of it. On purpose.
+
+*Destroy everything*, Mai had said. *Everything in that house.*
+
+"And I got up," said Maki. "Whole. For the first time in my life." She was looking at the river. "And I did."
+
+Frieren had gone very still beside her.
+
+"Every room," said Maki. "Every person. In one night. I didn't stop. I didn't feel anything until it was morning, and I was standing in the yard, and there was nobody left." She picked up the flat stone again. "And then I felt all of it at once."
+
+The river went past.
+
+"I still hear doors," said Maki. "Sliding doors. The old kind. In my sleep, I hear them, and I'm up with the spear before I'm awake. Yuta sleeps on the side away from the door. He's used to it." She turned the stone over. "I can't go into a room with mats on the floor without counting the ways out. When someone says *destroy*, even as a joke, even Senku about a bulb, I have to go outside for a minute." She put the stone down. "I lived a whole other life after that. Grandchildren. Grey hair. And I came here young, with all of it, and I still hear the doors."
+
+Frieren did not say anything for a long time.
+
+"And Mai's here," she said at last. Very quietly.
+
+"Mai's here," said Maki. Her voice changed, then. Not much. "Alive. From before. Before the floor and the sword. She doesn't know what happens to her. She doesn't know what I did, after. She doesn't know she made me whole by dying." Her hands were not still any more. "And I can't tell her. I look at her every day across the table, eating porridge, irritated with me about nothing, and I can't."
+
+"Why?" said Frieren.
+
+"Because she's alive," said Maki. "And she doesn't have to know how it ends. Not from me. Not yet." She looked at the river. "Maybe one day. Maybe never." She paused. "But not now."
+
+Frieren looked at her for a long time.
+
+"Why are you telling me?" she said.
 
 Maki looked at her.
 
-"When you hear them," said Frieren. "When someone says *destroy*. When you go outside for a minute." She did not look away. "Come and find me. I'll be on the step. Not reading."
+"Because you think you're supposed to be good at this," she said. "At losing people. Because you've done it so many times." She looked back at the water. "I've done it once. And it took me a whole life to stop hearing the doors, and I still hear them. Nobody's good at it, Frieren. Not after a thousand years. Not after one. You don't get good at it. You just get used to carrying it." She paused. "And it's lighter if somebody else is holding the other end."
 
-Maki's face did something then. Very quickly. Something she did not let all the way out.
+The river went past.
 
-"That's not how this works," she said. "I'm the one who's supposed to—"
+"Tell me," said Maki. "When it's heavy. When you've checked he's warm and your heart's going so hard you think he'll feel it. When you've asked him for something he can't give you and you hate yourself for it." She did not look at Frieren. "Not him. Me. Come and find me. I'm behind the barn in the mornings."
 
-"It goes both ways," said Frieren. "Or it isn't anything." She looked back at the tree. "I learned that from him. The only thing I've ever learned from a human in a hurry." She paused. "It has to go both ways."
+Frieren did not say anything for a long time.
+
+Then, very slowly, she moved her hand. On the flat cold rock between them. Until her fingers were against the side of Maki's hand.
+
+"And you'll tell me," she said. "About the doors."
+
+Maki looked at her.
+
+"When you hear them," said Frieren. "When someone says *destroy*. When you go outside for a minute." She did not look away. "Come and find me. I'm under the tree in the afternoons."
+
+Maki's face did something very quick that she did not let all the way out.
+
+"That's not how this works," she said. "I'm supposed to be the one—"
+
+"It goes both ways," said Frieren. "Or it isn't anything." She looked back at the river. "I learned that from him. The only thing I've ever learned from a human in a hurry."
 
 Maki did not say anything for a long time.
 
@@ -216,51 +406,41 @@ Then she laughed. Short. Rough. The laugh from the bottom of a muddy field.
 
 "Fine," she said. "Both ways."
 
-"Both ways," said Frieren.
-
-
-
-They sat there until the sky began to go grey over the black hills.
-
-At some point, Frieren's head came down sideways onto Maki's shoulder. Maki did not know when. Neither of them said anything about it. Frieren did not sleep. Maki could feel she was not asleep. She was just resting there. Leaning. The way she leaned against Mau's shoulder. The way she had never once leaned against anyone else's, as far as Maki knew, in the whole of the time they had both been in this world.
-
-It was very light. An elf weighed almost nothing.
-
-Just before dawn, Frieren lifted her head.
-
-"It's nearly the time," she said. "The hour. When I check."
-
-"Go on, then," said Maki.
-
-Frieren stood up. She looked down at Maki on the step, in the grey light.
-
-"Mai," she said. "I won't tell her."
-
-"I know you won't."
-
-"Not even if she asks. Not even if she guesses."
+"Both ways," said Frieren. And then, after a moment: "Mai. I won't tell her. Not even if she asks. Not even if she guesses."
 
 "I know," said Maki.
 
-Frieren looked at her a moment longer. Then she went inside, quietly, through the Muslin, past the screen by the stove where Mai was asleep with one arm flung over her face, to the corner where Mau was asleep on his back with his mouth open.
-
-She lay down beside him. She put her cold foot against his leg.
-
-"One," she whispered. "Still here."
-
-"Still here," he murmured, without waking. The way he always did.
-
-Frieren lay there in the grey light, and did not count his breaths. For the first time since the Trial, she let them go on without her.
-
-She was asleep before the next one.
+They sat on the flat rocks by the river until the light began to go. At some point, Frieren's head came down sideways onto Maki's shoulder. Neither of them said anything about it. She was very light. An elf weighed almost nothing.
 
 
 
-Out on the step, Maki sat for a while longer, alone, watching the light come up behind the ink tree.
+Mau saw them come up from the river at dusk.
 
-Then the door behind her opened, and someone sat down beside her. Heavy. Warm. With a stitched scar across his forehead.
+He was in the yard, at the woodpile, carrying one log at a time because he had not slept and his arms were heavy. He saw two shapes come up the bank past the timber yard in the last of the light. Frieren, in her coat, with the grimoire under her arm. And Maki beside her, close, the width of a hand apart.
 
-"You were out here all night," said Yuta.
+Frieren's face was not serene.
+
+It was just her face. Tired. A little pink at the eyes. Lighter, somehow. As if something she had been carrying in both arms was now only in one.
+
+She did not look at him as she passed the woodpile. She went on into the Muslin.
+
+Maki stopped.
+
+She did not say anything. She looked at him, over the woodpile, for a moment. Then she nodded. Once.
+
+Mau let out a breath that went on for a long time.
+
+That night, in the corner behind the cloth wall, Frieren did not ask for anything. She lay down beside him and put her head on his shoulder and went to sleep almost at once. At the reset hour his body woke, braced, the way it always did, and her cold foot found his shin, and she said *one*. And he said *still here*. And she went back to sleep.
+
+He thought, maybe, that her heart was going a little slower than it had been. He could not have said why he thought so.
+
+He did not ask.
+
+
+
+At the barn, at dawn, Yuta came round the corner while Maki was going through the first form. He sat down on the chopping block with his coat round him and watched her for a while without saying anything.
+
+"You were at the river all afternoon," he said, when she stopped.
 
 "I was."
 
@@ -268,11 +448,11 @@ Then the door behind her opened, and someone sat down beside her. Heavy. Warm. W
 
 "With Frieren."
 
-Yuta did not ask. He never asked. He sat down beside her on the step, on the side away from the door, and put his arm round her, and she let him.
+Yuta did not ask. He never asked.
 
-"Did you tell her?" he said after a while. Very quietly. "About the house?"
+"Did you tell her?" he said, after a while. Very quietly. "About the house?"
 
-Maki looked at the tree.
+Maki looked at the barn wall.
 
 "Yes," she said.
 

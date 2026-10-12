@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+**Current continuity checks:** [S1–S4 character/space gate](./S1_S4_CHARACTER_AND_SPACE_CONTINUITY_GATE_2026-10-12.md); [S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md](./S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md). The latter contains spoilers beyond V22 #17.
+
 Use this as the navigation page from localhost.
 
 ## 0. Creative constitution / authority

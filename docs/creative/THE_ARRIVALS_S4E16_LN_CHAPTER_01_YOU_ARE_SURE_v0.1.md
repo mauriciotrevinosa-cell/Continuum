@@ -26,7 +26,7 @@ Fern did not say anything for a moment.
 
 "I'm not saying no."
 
-"I know," said Nijika. "You wrote me first. On the list. On the fortieth." She looked at the ledger. "I waited for the house. I didn't want her to come to a house made of muslin. I didn't want her first night to be in a corridor where the walls come out." She smiled a little, crookedly. "She'd have said it was a squat."
+"I know," said Nijika. "You wrote me first. On the list. On the fortieth." She looked at the ledger. "I waited for the house. I didn't want her to come to the temporary house with its removable board walls. I didn't want her first night to be in a corridor where the walls come out." She smiled a little, crookedly. "She'd have said it was a squat."
 
 "It *was* a squat," said Fern.
 

@@ -6,7 +6,7 @@
 **Reading order:** 2  
 **Continuity state:** Day 169 | Gojo's first gate run: six cakes; '(Does not go in front)'; RULE SIX (THIS ALSO MEANS GOJO); Shoko: 'Don't show off' | the Stone Wood; 'It's a game' | beside, not in front: Infinity stops the hounds, a marble of Blue pulls them onto Maki's spear / 'That was better' / 'I've never done that before. Helped' | the 99% spell vs the Six Eyes: 'A hundred' / 'So why do you always open them?' / 'For the one in a hundred' / 'I've never been surprised by anything' | the mimic can't bite him: 'That is cheating'; a silver compass that points at Frieren | blindfolded, not looking, Infinity dropped: a real chest; potions and old honey sweets; he laughs like a child | 'I didn't look. On purpose' | ledger: 'He laughed like Himmel'
 
-*When: Day 169, a week after the gate reopened, six days after the low woods. Eren's shoulder is stitched and he is pretending it isn't. Nazuna has kept the north field every night since, and Anko the south. The gate changed in the night, and Gojo's "next week" has arrived.*
+*When: Day 169, a week after the gate reopened, six days after the low woods. Eren's shoulder is stitched and he is pretending it isn't. Nazuna has kept the north field every night since, and Anko the south. The gate changed at dawn yesterday, and Gojo's "next week" has arrived.*
 
 Gojo came out to the red stake dressed as if he were going to a festival.
 
@@ -62,7 +62,7 @@ Nobody said anything. The whole party, and Fern, and Umaru, and Mau, and Diablo,
 
 
 
-The gate had changed in the night. It always did, eventually. This time it opened onto a forest.
+The gate had changed at dawn the day before. It always did, every seventh dawn. This time it opened onto a forest.
 
 Not a real forest. A forest made of stone. Great grey trunks of rock rose up out of a floor of moss and broken flagstones, so tall that their tops were lost in a ceiling of mist, and between them, growing out of the stone the way mushrooms grow out of wood, were crystals. Blue and pale and faintly humming, the size of a hand, the size of a man, clustered in the roots of the stone trees, lighting the whole place a dim underwater blue.
 

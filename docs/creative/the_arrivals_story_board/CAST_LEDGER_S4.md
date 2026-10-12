@@ -11,7 +11,7 @@
 **Columns:**
 - **Ring:** 1 family, 2 close, 3 witches, 4 the outer ring (DH-026).
 - **Room:** the real house (layout lock §10.3, DH-045, DH-054; west wing from V23).
-- **Last beat:** the last S4 chapter where they had a real scene (four or more mentions), as of the end of V23 plus the 2026-10-10 presence pass.
+- **Last beat:** the last S4 chapter where they had an indexed beat (mention counts alone do not prove a real scene), updated through V25; historical counts below retain their original scope.
 
 ---
 
@@ -79,12 +79,12 @@
   - Coin: held (no petition; "they have Benimaru").
 - **Ori.** Their daughter in all but metaphysics. Room with a door into the east end, shared with Milim on a trial run (the red ribbon). **V24 #37: her own scene;** she flickered once (Day 160), settled, and now says "Two" at the reset hour. No "before", so she is a candidate for the Bocchi pool.
 - **Milim.** Head of Fun; Guardian of the fort and of the gate entrance. Never an outsider. **Dating Day accomplice.** "Gently." Candidate for the Bocchi pool.
-- **Yuta.** Older-brother anchor; outward RCT; the ring. In his prime, **with Kenjaku's stitch scar across his forehead** (DH-056). He lived a whole lifetime with Maki (S2). Sync about 5%; no Domain yet. Coin: **his teacher (Gojo), List line 3**, in V24.
-- **Maki.** JJK 0 in look, with post-Mai strength (the perfected restriction); sync about 70% (DH-056). Lived the lifetime with Yuta. Spear (cursed tool); gate party. Coin: **Yuka** (her folded paper; DH-055).
+- **Yuta.** Older-brother anchor; outward RCT; the ring. In his prime, **with Kenjaku's stitch scar across his forehead** (DH-056). He lived a whole lifetime with Maki (S2). Sync about 5%; no Domain yet. Coin: **spent on Gojo**, Day 132 (V24).
+- **Maki.** JJK 0 in look, with post-Mai strength (the perfected restriction); sync about 70% (DH-056). Lived the lifetime with Yuta. Spear (cursed tool); gate party. Coin: **spent on Yuka**, Day 141 (V24; DH-055).
 - **Umaru.** President and Minister of Fort Affairs. Room with Suika, then a door, then the Witch Hat room. Keeps the little-sister registry (V24 #32): First, Umaru; Teleport Division, Yuka (probationary). Fern declined a division.
   - Coin: in the **LATER** drawer, for her brother, ready and safe.
   - The temporary room "for someone" in the west wing.
-- **Coco.** Witch Hat; the lattice; Echidna's library. Coin: with Qifrey, for her mother (V25). **V24 #36:** the outer lattice in ink; *Not until Fern says.*
+- **Coco.** Witch Hat; the lattice; Echidna's library. Coin: **spent on her mother**, Day 195 (V25). **V24 #36:** the outer lattice in ink; *Not until Fern says.*
 - **Bocchi.** Lead guitar. Room across from Umaru's, with a private stair to the music room.
   - **Kita's girlfriend.** Holds her coin (four in her family); the pool is open.
   - Played the songbook for Echidna. Carmilla's friend.
@@ -92,23 +92,23 @@
 - **Nijika.** Drums (soup pot, pot-lid cymbal). Coin: **spent (Seika)**.
 - **Ryo.** Bass; owes everyone money; "It's very well made." Coin: held.
 - **Momo.** Kitchen; the pear bread. Room *MOMO / VAMOLA*, back stair, with Seiko through the wall. Couple with Okarun. Coin: held.
-- **Okarun.** Searcher (stone). Turbo Granny on his windowsill, "separate address". Couple with Momo. Coin: held.
+- **Okarun.** Searcher (stone). Turbo Granny on his windowsill, "separate address". Couple with Momo. Coin: **spent on Jiji**, Day 211 (V25 #22).
 - **Seiko.** Grandmother; the high seat. Coin: **spent** (given to Gojo; it brought Shoko, Day 145).
 - **Marin and Wakana.** A couple, above the workshop.
   - Wakana: joinery, the frame, the slides, the chromatrope.
   - Marin: paint, the crown, the movie wall, the red columns.
-  - **Stalled as a couple, so Dating Day.** Marin's coin: maybe her late mother ("some"), undecided.
+  - **Dating Day resolves the stalled beat in V24 #9; do not reset them to that earlier state.** Marin's coin: maybe her late mother ("some"), undecided.
 - **Maomao.** Clinic; *Jinshi (temporary)* in ink in her room; the ledger of ugly days. Coin: held.
-- **Senku.** Workroom downstairs. The NOT YET box (the bulb dust, a dead crystal). Discs in a year. Coin: undecided, then **Byakuya (V25)**.
+- **Senku.** Workroom downstairs. The NOT YET box (the bulb dust, a dead crystal). Discs in a year. Coin: **spent on Byakuya**, Day 205 (V25).
 - **Suika.** With Umaru. **V24 #33:** lends Mau the watermelon helmet ("to make the world soft for a bit"); Gojo wears it.
 - **Anko.** SIGHTINGS (**page 4: "It came back"; the devil killed again Day 163, walked the line Day 220, "the line held, never tested"**); went into Ashby in brown and found the face; the night rounds; the loot register; the new rule four and the rota. Roommate of Nazuna (not a couple). Her last cigarette is in a scratched tin (she came over with nine), saved "for something worth it". Coin: held.
 - **Himmel.** Faces the road; the vermilion columns; poses. Coin: held.
-- **Qifrey.** Room between his students and the east section. Checks slides for glyphs. Holds Coco's coin. **⚠**
+- **Qifrey.** Room between his students and the east section. Checks slides for glyphs. Held Coco's coin until her mother's arrival on Day 195. Historical presence flag; see the latest audit.
 - **Agott, Tetia, Richeh.** Witch Hat room (Agott's alcove and curtain; Richeh's bed). **⚠ quiet in V23.**
 - **Hakari, Karane, Shizuka, Nano, Kusuri** ("the five"). One room with five beds, no walls; the kotatsu.
-  - **⚠ absent since V21 #14** (Kusuri less so: hand cream, chemistry with Maomao and Senku).
+  - **Historical presence gap repaired by V24 beats; V25 now includes a quiet shared-table presence** (Kusuri less so: hand cream, chemistry with Maomao and Senku).
   - DH-055: no click, inter-girl threads, the coins question. Pin: brought in S1.
-- **Mai.** Construction (sync about 40%; one bullet a day, and it costs her). **The crackers table** (V22 #23): "my sister looks at me like I'm going to disappear"; held Maki's coin for a week (V23 #14). Alive here, though in Maki's lived life she died. **She may know**, but it stays untouched until their arc; Yuta stays out of it (DH-057). Room beside Yuta and Maki; hovers at the edge of the pack. **⚠ nearly absent from all of S4.** Her natural moment is V24, with Yuka.
+- **Mai.** Construction (sync about 40%; one bullet a day, and it costs her). **The crackers table** (V22 #23): "my sister looks at me like I'm going to disappear"; held Maki's coin for a week (V23 #14). Alive here, though in Maki's lived life she died. **She may know**, but it stays untouched until their arc; Yuta stays out of it (DH-057). Room beside Yuta and Maki; hovers at the edge of the pack. **Historical presence flag:** V24 gives her the Yuka beat; V25 now retains her in the existing room-welcome scene. Her private-history arc stays open.
 - **Rem.** Room at the turn, **name in pencil**. Agent TEACUP. 100% again; quips. Coin: **spent (Ram)**.
 - **Seika.** STARRY (2); the ugly coat; arms folded at the back. West wing room (on Nijika's floor at first).
 - **Ram.** West wing room beside Rem's turn. Every dinner: crude, barely edible, a disgrace, idiots, except Rem.
@@ -122,7 +122,7 @@
 - **Nazuna.** Loft over Anko's bed. Vampire; flies. Loves Ko (not here). **Routine (canon from V22 #26): asleep just after breakfast, awake an hour before dinner, because "everything interesting happens at dinner".** Notices everything, never says. Night shifts in winter; stopped in the warm months; restarted V25 #1. V24 #38: Gojo's honey cakes.
 - **Jinshi.** Arrival House key every morning; the register girl and staff. *Temporary.*
 - **Diablo.** Small room by Rimuru's office. Kufufufu. **V24: asks to stop being Rimuru's assistant and become everyone's** (DH-060): "If you betray Rimuru-sama, or make him cry, I will not hesitate to kill you." Helps Milim as Guardian. Wears the sash ASSISTANT TO EVERYONE (OFFICIAL). Night shift on Anko's rota (#34).
-- **Eren.** Top bunk; exits before rooms; walks the lime route. Not yet with Mikasa. Coin: Armin proposed; the house waits.
+- **Eren.** Top bunk; exits before rooms; walks the lime route. **Together with Mikasa from V25 #6**; do not reset that relationship. Coin: Armin proposed; the house waits.
 - **Mikasa.** Two-exit room with bunks; gate-forged blades; first in. Coin: Armin (wait).
 - **Seiko, Momo, Okarun:** see Ring One.
 
@@ -163,7 +163,7 @@
 - **The captain** (V24 #30 cutaway): seen at Pell's speech, checking it. Looked at Eren for a breath.
 
 ### Coming, or waiting (not in the house)
-- **V25:** Coco's mother, Byakuya, Jiji (sealed).
+- **V25 arrivals are complete:** Coco's mother, Byakuya and Jiji belong to the arrived rows above, not the waiting list.
 - **Later:** Armin; Tsurugi (Yuka's brother; feels unchosen); Umaru's brother; Bocchi's family (pool); Touka and Ichika (S5); Ko (Nazuna's); Rentarou (an open question); Subaru (conditional); Jin-Woo (fighting his gods).
 
 ---
@@ -172,7 +172,7 @@
 
 The creator asked to see how much each person has appeared, whether they have had arcs, and whether they are more support. **This is not to force anything.** It is to see where each one can help or appear.
 
-**Counts:** S4 chapters (of 109) with any mention, and real scenes (four or more mentions). Counted after the Vamola and presence passes of 2026-10-10.
+**Historical counts, not the end-of-V25 inventory:** S4 chapters (of 109) with any mention, and real scenes (four or more mentions). Counted after the Vamola and presence passes of 2026-10-10.
 
 ### Leads (they own arcs)
 
@@ -275,3 +275,8 @@ These are threads built in S2 and S3 with real weight. **Check each before every
 - 2026-10-11: V25 written (27 chapters, S4E27–S4E32). Eren and Mikasa together; Mau and Rem both ways; the route people; Coco's mother, Byakuya, and Jiji (S-01) arrived; one refuge family left (DH-068).
 - 2026-10-11: V24 written (38 chapters, S4E21-S4E26). Relationships, §5 bonds and people updated; Gojo, Shoko, Yuka and Ear added; the Ori, Suika, Kaneki, Nazuna and Turbo Granny flags cleared by real beats (DH-066).
 - 2026-10-10: presence pass. Mai, the five, Nazuna, Turbo Granny, Aira, Kaneki and Witch Hat were inserted into 19 S4 group scenes. §4 (presence, arcs, role) and §5 (silent bonds, including Mai and Mau's construction) were added.
+
+
+## 2026-10-12 forward-audit handoff
+
+[S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md](./S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md) covers V22 #18 through V25 #27. Use its dated-state corrections before the older pending-beat suggestions. Mau remains biologically unclassified; Frieren fears a costly, uncertain promise, not an established human expiry date. The reciprocal-choice scene remains an unplaced floating idea, not an event assumed by this ledger. Collective household labels count as presence context, not proof that each member has received an individual scene.

@@ -14,7 +14,7 @@ Not hard. Steadily. The soft grey spring rain that comes after the last of the c
 
 Mau spent the morning in the common room, with the blindfold on for his two hours, listening to the house.
 
-It was a good house to listen to in the rain. Kessoku in the music room, with the door open, playing the ninth song over and over, slowly, Seika stopping them every few bars to say *again*. The fort behind its curtain, where Yuka had been initiated into a game that involved the white dog, a cushion and a great deal of shrieking. Senku and Suika in the lab, arguing about a lens. Momo in the kitchen, scrubbing something on the long table, very hard, in a silence that everyone in the house had learned to fear.
+It was a good house to listen to in the rain. Kessoku in the music room, with the door open, playing the ninth song over and over, slowly, Seika stopping them every few bars to say *again*. Bocchi tried the same two bars once more, with Kita counting softly beside her, Nijika keeping the beat and Ryo waiting on the bass. The fort behind its curtain, where Yuka had been initiated into a game that involved the white dog, a cushion and a great deal of shrieking. Senku and Suika in the lab, arguing about a lens. Momo in the kitchen, scrubbing something on the long table, very hard, in a silence that everyone in the house had learned to fear.
 
 Rem was in the kitchen too. He could hear her. She was helping Momo. He could hear her small quick steps, and the clink of cups, and once, very quietly, her voice saying something to Momo that made Momo stop scrubbing.
 

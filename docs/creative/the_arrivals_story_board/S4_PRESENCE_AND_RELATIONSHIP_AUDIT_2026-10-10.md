@@ -1,5 +1,7 @@
 # S4 presence and relationship audit (2026-10-10, before V24)
 
+**Historical snapshot:** the counts and pending beats below describe the earlier audit, not the household at the end of V25. Consult CAST_LEDGER_S4 and [S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md](./S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md) for the forward pass. Mention frequency is a search aid, not a count of real scenes. Later executed chapters and explicit decisions supersede these proposals.
+
 The creator asked for this before V24: what is missing, who has been abandoned or hasn't appeared in a while and why, and which relationships have moved and which have stalled. **Scope:** all 109 S4 chapters (V20–V23).
 
 **Method:**

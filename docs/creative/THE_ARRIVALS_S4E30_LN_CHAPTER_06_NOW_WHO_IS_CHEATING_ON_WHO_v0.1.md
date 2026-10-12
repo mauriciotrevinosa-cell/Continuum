@@ -152,7 +152,7 @@ She read it. Her own name. In her daughter's hand.
 
 She did not say anything. She put her fingers on it. Then she went in.
 
-The lamp was lit. Senku's forty-first try, fatter on one side, throwing a warm uneven light over everything. The quilt on the bed, all its squares, blue and red and orange and a hundred other colours. The soup on the table under the window, still warm under its cover. The pear bread. The two bowls. The honey. The crackers in their paper twist. Kusuri's pot of cream on the shelf. And on the windowsill, in a cup of water, a single white flower, placed so the last of the light came through it.
+The lamp was lit. Senku's forty-first try, fatter on one side, throwing a warm uneven light over everything. The quilt on the bed, all its squares, blue and red and orange and a hundred other colours. The soup on the table under the window, still warm under its cover. The pear bread. The two bowls. The honey. The crackers in their paper twist. Kusuri's pot of cream on the shelf, which Mai had checked with the heel of her hand before leaving the doorway. And on the windowsill, in a cup of water, a single white flower, placed so the last of the light came through it.
 
 Coco's mother stood in the middle of the room and looked at all of it.
 

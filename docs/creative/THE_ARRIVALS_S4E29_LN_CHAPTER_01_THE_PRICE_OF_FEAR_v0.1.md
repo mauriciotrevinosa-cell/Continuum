@@ -6,7 +6,7 @@
 **Reading order:** 9  
 **Continuity state:** Day 180 | the southern merchant, thinner, two guards (Dunmore; Brenna, a gate soldier the lord stopped paying), half a cart | 'The roads are closed' | the offer: the towns are short of medicine ('the good cream'), honey, glass (no chimneys left); he carries under his name; hired warriors; the house walks the low woods | Eren: 'Burn my cart. Probably' | Fern: four parts, three, three, and the warriors paid first: 'They're the ones who'll die' | Mau: 'Why?' / 'the only place on my route where nobody's frightened of the wrong things... Not every bridge has to burn' | two faces shake on it | 'Hollis' / 'Brenna' / 'Dunmore'
 
-*When: Day 180. The rain has stopped and the roads are mud to the ankle. Rem pours, and some nights sits; last night Mau poured and spilled on nobody. Eren said it at the red stake this morning for the seventh time. In the low woods, nothing has walked the line for a week.*
+*When: Day 180. The rain has stopped and the roads are mud to the ankle. Rem pours, and some nights sits; last night Mau poured and spilled on nobody. Eren said it at the red stake this morning for the eighth time. In the low woods, nothing has walked the line for a week.*
 
 The southern merchant came up the bridge road on the hundred-and-eightieth day with two guards instead of one, and a cart that was half empty.
 

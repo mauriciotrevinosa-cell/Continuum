@@ -38,7 +38,7 @@ When she had finished, he did not say anything for a long time. He sat on the ed
 
 He nodded slowly.
 
-Frieren watched his face. She knew what she was looking for. The thing that went across it when he found out something had come out of the dark and he had not been there in front of it. The thing that had gone across it at the long table six days ago, at page four, when Fern shook her head.
+Frieren watched his face. She knew what she was looking for. The thing that went across it when he found out something had come out of the dark and he had not been there in front of it. The thing that had gone across it at the long table nine days ago, at page four, when Fern shook her head.
 
 It did not come.
 

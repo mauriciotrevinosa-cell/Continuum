@@ -130,7 +130,7 @@ Coco did not laugh. But something moved in her face.
 
 "How long?" she said.
 
-"Five minutes," said Mau. "Ciel thinks five. Eight turns, maybe. Maybe fewer." He paused. "At the controlled trial, a long time ago now, I held a path open for nineteen minutes. In front of everyone. With the walls up." He almost smiled. "If I held a path for nineteen minutes, I can hold five."
+"Five minutes," said Mau. "Ciel thinks five. Eight turns, maybe. Maybe fewer." He paused. "At the controlled trial, a long time ago now, I held a path open for nineteen minutes. With Frieren and Rimuru beside me, and Ciel counting. With the walls up." He almost smiled. "If I held a path for nineteen minutes, I can hold five."
 
 Coco looked at him for a long time.
 

@@ -1,5 +1,9 @@
 # Systems registry and loose threads (2026-10-10)
 
+**2026-10-12 audit notice:** this document mixes established systems and historical proposals. Do not read future-tense rows as current events. See [S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md](./S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md). Mau's origin/species/lifespan remain unidentified; "has no source world" must not be read as an ontological fact. Foundation is spent, the gate operates from Day 105 until later closures, and the V25 eight-turn adaptation is an executed, costly event, not blanket safety for all patterns. The ink-tree schedule has advanced in the prose.
+
+**OPEN creator question — elf-route durations:** the S3 containment lock §3B and production progression record trials of 19, 26 and 31 minutes, plus a fourth off-page trial. The row below saying 19 remains the record conflicts with that history. Do not use that row to erase S3 trials or guarantee longevity. Creator clarification is requested; no duration retcon is made in this audit.
+
 **Status:** WORKING REGISTRY, requested by the creator before S4 continues ("so it doesn't feel like nobody is advancing").
 - Canon facts carry a source.
 - **Every percentage is a Claude proposal.** No synchronisation number has ever appeared in LN prose. The creator corrects them, and then they become the record.
@@ -28,7 +32,7 @@
   4. **Resource-bound systems are limited by resource, not by sync.** Witch Hat glyph magic works, but ink is finite (V16 "The Ink Budget").
 
 ### A2. Mau (not on the percentage scale)
-Mau has no source world (blank origin; Second Chance is unknown in-world), so synchronisation doesn't apply to him. His systems:
+Mau has no identified source world (blank origin; Second Chance is unknown in-world). The registry does not place him on the source-character synchronisation scale; this does not establish his species or prove that no origin exists. His systems:
 
 | System | Canon state | Source |
 |---|---|---|
@@ -41,7 +45,7 @@ Mau has no source world (blank origin; Second Chance is unknown in-world), so sy
 | **Infinity, without the Six Eyes** | Leaks under grief and keeps everything out (Frieren's hand stops a finger's width from him; V20). Uncontrolled. | V20 "How Long" |
 | **Blinks** (involuntary spatial moves) | Happen under fear or need (V14 leaks; V18 Monster Wave: "first one in a month") | §3A; V18 |
 | **The door** (the first invention) | Opens onto the clearing on the morning he woke; the pattern seeks **arrival-state**. Refused once: "It's not before. It's just before you." | §3A, V14 "What It Made" |
-| **The elf route** (controlled trials) | Trial 1: **19 minutes** (V15), and that stays the record (no buff for buff's sake). Maomao: "Next time, I am there." | §3A |
+| **The elf route** (controlled trials) | Trial 1: **19 minutes** (V15), **FIRST trial; maximum-duration conflict OPEN** (see audit notice; do not use this row as a new cap). Maomao: "Next time, I am there." | §3A |
 | **Light versions** (seconded rule) | A pattern Mau builds starts as a **light version** (his RCT closes scratches and small cuts; Yuta's and Shoko's is the full form). It evolves later and can combine with other skills (for example the door). | round 2 |
 | **The ghoul eye valve** | The left eye opens black and red under load | V18 #44 |
 | **Hollow Purple, the one-use Sukuna version** | Consumed. Rebuilding may need a Gojo-focused period. | FLOATING_IDEAS |

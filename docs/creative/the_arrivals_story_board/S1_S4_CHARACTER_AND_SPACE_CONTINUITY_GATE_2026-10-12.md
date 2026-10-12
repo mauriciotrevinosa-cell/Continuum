@@ -1,5 +1,7 @@
 # The Arrivals — S1–S4 character and space continuity gate (2026-10-12)
 
+**Forward audit:** [S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md](./S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md) (spoilers after V22 #17). The 19-minute duration below is the first trial, not a settled all-time maximum; the conflicting S4 registry wording is pending creator clarification.
+
 **Status:** production cross-check, not a new story event or species reveal.  
 **Purpose:** catch false classifications, knowledge leaks, location drift and disappearing residents before the next LN chapter. This focused pass compares the S1/S2 audit and S2 inventory, S3 v0.2 backtrace and production chapters, the S3 relationship/presence locks, the S3/S4 layout lock, and the S4 cast/presence ledger. It is not a claim that every chapter in 25 volumes has been line-edited.
 

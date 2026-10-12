@@ -110,7 +110,7 @@ He was on the top bunk. He sat up.
 
 He stood at the north end of the settlement for a long time without saying anything.
 
-The others stood a little way behind him. Mikasa, closest. Fern with the ledger. Anko. Nazuna. And Rimuru, who had come down the stair from his office in human shape with his coat over his nightclothes when Fern tapped on that door too. They stood in the cold at the place where the street ran out, and Eren stood in front of them, at the very edge, where the road began, with his arms at his sides, looking north.
+The others stood a little way behind him. Mikasa, closest. Fern with the ledger. Anko. Nazuna. And Rimuru, who had come down out of the loft above the east room's closet, in human shape, with his coat over his nightclothes, when Fern scratched very softly at that door too. They stood in the cold at the place where the street ran out, and Eren stood in front of them, at the very edge, where the road began, with his arms at his sides, looking north.
 
 The shape stood on the ridge in the moonlight. Too tall. Too still. Smiling, though none of them could see that from here, except Nazuna.
 

@@ -262,7 +262,7 @@ She was quiet for a long moment.
 
 "I'm telling you," said Mau.
 
-"I know," said Frieren. "You told me in front of all of them. Before you'd done anything." She was quiet. "That's the first time."
+"I know," said Frieren. "You told me in front of all of them. Before you'd done anything." She was quiet. "That's what I needed."
 
 Mau looked at her.
 

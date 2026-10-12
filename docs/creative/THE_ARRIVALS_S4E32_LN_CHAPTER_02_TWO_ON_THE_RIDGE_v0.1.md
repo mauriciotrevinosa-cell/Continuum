@@ -22,7 +22,7 @@ Then she went south, fast, for Anko.
 
 The kitchen was full by two.
 
-It was a different kitchen from the first time. Nobody was surprised. Nobody had to be told what a titan was, or how it moved, or where to cut. They came down the stairs in the dark already dressed, already carrying what they needed, and sat down at the table, and Diablo poured tea, and Fern opened the ledger to a page she had written five weeks ago. *Titans. How.* In her small upright hand. The heel. The knee. The nape. Milim carries. Rimuru's shadow at dawn.
+It was a different kitchen from the first time. Nobody was surprised. Nobody had to be told what a titan was, or how it moved, or where to cut. They came down the stairs in the dark already dressed, already carrying what they needed, and sat down at the table, and Diablo poured tea, and Fern opened the ledger to a page she had written on the first titan night. *Titans. How.* In her small upright hand. The heel. The knee. The nape. Milim carries. Rimuru's shadow at dawn.
 
 "Two," said Fern.
 
@@ -186,7 +186,7 @@ The titan's leading foot, coming down, went sideways. A hand's breadth. Two. Pul
 
 Aira went.
 
-She did not think. She did not have time. She came down off the step as the titan's foot came down beside it, enormous, shaking the ground, and she went in low under its swinging arm, the way Mikasa went under things. And she cut. With the old blade. With the nick in the left. At the back of its ankle. At the cord. The way Eren had said, in the kitchen, five weeks ago.
+She did not think. She did not have time. She came down off the step as the titan's foot came down beside it, enormous, shaking the ground, and she went in low under its swinging arm, the way Mikasa went under things. And she cut. With the old blade. With the nick in the left. At the back of its ankle. At the cord. The way Eren had said, in the kitchen, on the first titan night.
 
 The steel went in.
 

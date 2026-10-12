@@ -12,6 +12,8 @@ Nobody ate.
 
 Momo made porridge anyway, because Momo always made porridge, and Rem went round with the brown teapot, because Rem always went round. And then, halfway down the long table, Mau got up and took the teapot out of her hands without a word and finished the round himself, badly, and Rem sat down in the gap at the end of the bench and did not argue. But nobody ate. Forty people sat at the long table in the grey morning light, with porridge going cold in front of them and tea they did not drink, and did not say anything.
 
+At the end of the table, Nano moved her untouched bowl to make room for Shizuka's book. Hakari passed Karane a cup without a word; Kusuri sat beside them, both feet still.
+
 The windows were open. The air was already warm. Through them, if you listened, you could hear the bean-girl in the yard, laughing at something Aira had said. It was the only sound in the house.
 
 Eren stood up.
@@ -86,7 +88,7 @@ Eren's hands were shaking on the table.
 
 He turned his head. At last. And looked at Mikasa.
 
-"I've got tomorrows now," said Eren. "You said. Every day I've got. Thousands." His eyes were wet. "I never had them before. Not one. I always knew exactly how many. And now I've got thousands, and I want them, Mikasa. I want every single one. Here. With you. With all of you." His voice broke. "And yesterday morning a titan ran through the open ground and got ten paces from that little girl, and there was *nothing in the way*."
+"I've got tomorrows now," said Eren. "You said. Every day I've got. Thousands." His eyes were wet. "I never had them before. Not one. I always knew exactly how many. And now I've got thousands, and I want them, Mikasa. I want every single one. Here. With you. With all of you." His voice broke. "And two mornings ago a titan ran through the open ground and got ten paces from that little girl, and there was *nothing in the way*."
 
 Mikasa looked at him.
 
@@ -140,9 +142,9 @@ Fern had not written anything.
 
 She sat at the head of the long table with the ledger open to the clean page and her pen in her hand, and she had not written a single word. She was looking down the table. At all of them. At Eren, standing. At Mikasa, beside him. At Brenna and Cobb at the end of the bench. At Himmel. At Rimuru. At Gojo. At the forty people at the long table, with their porridge going cold.
 
-At the two people halfway down the bench who had not spoken.
+At the two people the outside world expected to answer.
 
-Mau and Rimuru.
+Mau, halfway down the bench. Rimuru, at the cold-hearth end.
 
 The two faces. The ones the outside world talked to. The ones who had shaken Hollis's hand, together, because the rule from the council said the world spoke to two faces and never to one. A wall was something the world would see. A wall was something the world would talk about, in every square from Ashby to Fallow. A wall was a face.
 

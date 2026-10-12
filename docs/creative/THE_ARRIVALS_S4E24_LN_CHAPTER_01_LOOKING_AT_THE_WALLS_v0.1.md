@@ -34,7 +34,7 @@ It was like turning round in a dark room and finding a wall you had always known
 
 He saw the walls.
 
-The guardrails. The seal. The thing Rimuru and Ciel had built round everything he carried, after the containment, in the Muslin, a long time ago, and rebuilt, and rebuilt, and held every day since. He had felt them. He had always felt them. A pressure. A shape. A weight he carried the way you carry a heavy coat.
+The guardrails. The seal. The thing Rimuru and Ciel had built round everything he carried, after the containment, at the old inn, a long time ago, and rebuilt, and rebuilt, and held every day since. He had felt them. He had always felt them. A pressure. A shape. A weight he carried the way you carry a heavy coat.
 
 He had never seen them.
 

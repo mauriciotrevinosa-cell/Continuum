@@ -104,11 +104,11 @@ He looked at Frieren.
 
 And he saw her.
 
-Not her face. He saw her face too, in the dusk, turned toward him, very still. But he saw past it. Through it. Into the thing that Frieren had kept folded down small inside herself for a thousand years. Her mana. The real amount. The amount she had suppressed for so long, so perfectly, that demons who had lived for centuries had looked straight at her and seen an ordinary mage. The amount no living thing had ever seen, because she had never once in a thousand years let anyone.
+Not her face. He saw her face too, in the dusk, turned toward him, very still. But he saw past it. Through it. Into the thing that Frieren had kept folded down small inside herself for a thousand years. Her mana. The real amount. The amount she had suppressed for so long, so perfectly, that demons who had lived for centuries had looked straight at her and seen an ordinary mage. The amount he had never seen like this: not released for him, but visible through a suppression she had not lifted.
 
 It was enormous.
 
-It was the most beautiful thing he had ever seen. It was a sea. It went down and down and down, further than the river, further than the hills, further than anything, quiet and deep and cold and full of light, folded so small and so tight inside a small elf in an orange hoodie that nobody, nobody, nobody had ever—
+It was the most beautiful thing he had ever seen. It was a sea. It went down and down and down, further than the river, further than the hills, further than anything, quiet and deep and cold and full of light, folded so small and so tight inside a small elf in an orange hoodie that he had never seen like this—
 
 "Mau," said Frieren.
 
@@ -126,7 +126,7 @@ Mau did not answer. He could not.
 
 Frieren did not move.
 
-For a long moment, on the riverbank, with the ring of small white flowers between them, she did not move at all. And he understood, in a way he had not understood before, that he had just seen something nobody in her thousand years had ever seen. That she had not chosen to show him. That something in him had reached past every wall she had, the way it had reached past Gojo's blindfold, and taken it.
+For a long moment, on the riverbank, with the ring of small white flowers between them, she did not move at all. And he understood, in a way he had not understood before, that he had just seen something she had not chosen to show him. Her suppression had not lifted; his sight had passed through it. That something in him had reached past every wall she had, the way it had reached past Gojo's blindfold, and taken it.
 
 Then Frieren reached over and put her hand over his eyes.
 
@@ -136,7 +136,7 @@ The sea went dark.
 
 He sat on the riverbank with Frieren's hand over his eyes and breathed.
 
-"Don't be sorry," said Frieren quietly. She did not take her hand away. "I don't mind you seeing it." A pause. "I just didn't know you could." Another pause, longer. "Nobody's ever been able to."
+"Don't be sorry," said Frieren quietly. She did not take her hand away. "I don't mind you seeing it." A pause. "I just didn't know you could." Another pause, longer. "You can see through it without me letting it go."
 
 "Is it—was it all right? That I—"
 
@@ -202,7 +202,7 @@ He turned his head on the pillow and looked at her. With the ocean.
 
 She did not answer.
 
-She could not. She lay there and looked into his eyes, which were the most beautiful thing she had ever seen, and the most frightening. And somewhere far down in her, under a thousand years of keeping things small and quiet and folded, something that had not been afraid since a man with blue hair died of old age turned over, very slowly, and was.
+She could not. She lay there and looked into his eyes, which were the most beautiful thing she had ever seen, and the most frightening. And somewhere far down in her, under a thousand years of keeping things small and quiet and folded, the fear that had woken beside him so many mornings found a new shape.
 
 *Ciel,* she thought, though Ciel could not hear her. *Ciel. Something's finished.*
 

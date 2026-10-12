@@ -1339,3 +1339,14 @@ Answers to two questions from the V22–V25 continuity audit.
 - **Ori looks sixteen or seventeen, but she is young.** She was made a little after the S2 Sukuna battle, so in lived time she is not yet two years old. Prose may show her behaving like a child while she looks like a teenager. Both are right; neither is a slip.
 - **V26 gives natural beats to the residents who went quiet in V25:** Pride, Sekhmet, Carmilla and Minerva; Mai; Bocchi, Kita and Ryo; the five. Natural means from their own lanes (the weekly tea, the crackers table, rehearsal, the kotatsu, construction), not cameos added to prove they exist (Story Constitution §4). *Seconded.*
 
+
+## DH-071 — What the coin arrivals know about the Trial (creator, 2026-10-12)
+
+The creator asked whether Seika ever learns what Mau went through so that she could come.
+
+- **The text through V25:** no coin arrival has been told what happened inside the Trial. Seika has only what Nijika told her on her first morning: "Not all of it. Enough." (V22 #30). The arrivals who know anything know that there was a Trial; one of them hears the number (V24 #6). Even the house has "almost nothing" of what was inside the loops.
+- **Creator's direction:** Mau asks Nijika not to tell Seika what it cost him to bring her. Nijika may tell her about the Trial, and that the coins were its reward, but not what happened inside it. Mau doesn't want anyone to feel guilty, or to feel they owe him a debt. It lands in V26 or later. If someone already knows, that's fine. *Seconded.*
+- **Claude's pitch** (seconded alongside, for the creator to take or leave):
+  - The ask lands best once Seika starts asking. She reads rooms ("People look at the person they're scared for"), so she would be the first arrival to fit the coins and the Trial together. She asks Nijika; Nijika comes to Mau; Mau asks her.
+  - The same quiet rule can spread to the other families with a coin arrival, the way "nobody knocks after dark" did, without a decree.
+  - The payoff, whenever Seika does find out (from someone who already knew, never from Nijika): she refuses the debt. It calls back her own words on the veranda: "So don't do that again. Whatever it was."

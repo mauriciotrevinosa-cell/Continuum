@@ -108,6 +108,11 @@ not on this list. Add a line every time the creator catches a new slip.
 - **The ink** comes from a notch in the trunk of the ink tree, one bottle a
   week (V22 "Ink"). Never from the leaves.
 - **The Trial:** nobody outside saw it. The 437 deaths were told in V20.
+- **Coin arrivals don't know what the coins cost.** Seika has only Nijika's
+  "Not all of it. Enough." (V22 #30); one later arrival hears the number from
+  Frieren (V24 #6). Nobody, the house included, knows what was inside the
+  loops. Never let an arrival talk about the cost as if they had been told
+  (DH-071).
 - **Seiko's coin** was promised on Day 40 (V21 "The List") to Yuta's teacher,
   "for his doctor", repeated on Day 130 ("I don't say things twice") and
   given on Day 132. She never "doesn't know yet" who it is for.

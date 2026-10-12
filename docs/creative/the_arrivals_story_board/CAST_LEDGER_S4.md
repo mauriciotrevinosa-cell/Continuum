@@ -250,6 +250,9 @@ The creator asked to see how much each person has appeared, whether they have ha
 ### V26 presence (creator, DH-070)
 Give natural beats, from their own lanes, to those who went quiet in V25: Pride, Sekhmet, Carmilla, Minerva; Mai; Bocchi, Kita, Ryo; the five. No forced cameos.
 
+### Seika and the Trial (creator, DH-071)
+Mau asks Nijika to keep what it cost from Seika: the Trial and the coins, yes; what happened inside, no. Nobody should feel guilty or in debt. V26 or later.
+
 ## 5. Bonds built earlier that must not go silent
 
 These are threads built in S2 and S3 with real weight. **Check each before every volume.**

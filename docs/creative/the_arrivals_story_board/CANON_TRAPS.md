@@ -9,6 +9,11 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Mau remembers nothing from before the clearing.** No world, no family, no
   places, no names. Frieren is not the first thing he remembers; she is the
   first thing (V22 "Look at Me"; V24 "Two": "No family. No world.").
+- **Mau's species, origin and lifespan are unknown.** Never call him human or
+  give him a human clock ("seventy years"). The elf-route trial was private:
+  Mau, Frieren, Rimuru and Ciel; Maomao afterwards; Maki only when Frieren
+  tells her (V22 "Look at Me"). See
+  `S1_S4_CHARACTER_AND_SPACE_CONTINUITY_GATE_2026-10-12.md`.
 - He does not know the F1 cars from memory. Rimuru drew them from *his own*
   memory (V21 "What We Make Together"); Yuta recognized the helmet ("My dad had
   a poster"). Mau knew only that they were fast, "from somewhere below
@@ -47,6 +52,8 @@ not on this list. Add a line every time the creator catches a new slip.
   couple; "Kessoku were all on dates" is wrong.
 - **Kaneki** arrived in S3. By V24 he has lived here a little over a year,
   not two.
+  The same goes for **Rem** (S3, the second rescue): "more than a year" by
+  V25. Himmel arrived in S2 (S2E18).
 - **Maki died a few years before Yuta**; Yuka was ten when he died and about
   seven when Maki did (V22 "Look at Me", V23 "Not Twice").
 - **Yuka's ring was across her room**, off the cord, when the coin found her.
@@ -60,6 +67,12 @@ not on this list. Add a line every time the creator catches a new slip.
 
 - **Rimuru's loft** is above the closet *inside* Mau and Frieren's room (the
   Muslin era too). He is never "down the hall".
+- **The Muslin is boards, not cloth.** One floor; inside walls are boards
+  slotted between posts; the roof is planks. "Muslin" is Wakana's sewing
+  metaphor. Never "cloth walls", "a sketch of string and cloth" or "cloth
+  over poles" (layout lock §10.1).
+- **Rimuru's office is downstairs**; he sleeps in the loft. Nobody comes
+  "down the stair from his office" at night.
 - Frieren has no separate reading place in her room. She reads in **the
   reading chair Mau said no to** (S3 "A Small Library"; in the Muslin too).
   Never a cushion or a crate of books.
@@ -110,6 +123,14 @@ not on this list. Add a line every time the creator catches a new slip.
   (Day 116). After that it is rare, not "never".
 - **After the bell:** Rimuru slept as a slime in his office Days 145 to 147
   and was up in human shape by Day 148 (V24 "Everything Stops").
+- **Hollis's route:** Ashby runs on Day 188, about 193, about 203, Day 209
+  (eighteen chimneys, sold) and Day 214 (the fifth; the gate closes; three
+  chimneys saved). Ashby's market is "every few days"; don't give it a fixed
+  interval.
+- **Cobb is "the Hannet boy".** Hannet's (his sister's) sheep: four taken in
+  the winter.
+- **Count durations from the scene that starts them.** A thought that began
+  on Dating Day (Day 138) is two months old by Day 210, not one.
 - **Check every "N days ago" against the *When:* lines.** V24 had "four days"
   for six, "a month" for six weeks, and "two days after" for one.
 

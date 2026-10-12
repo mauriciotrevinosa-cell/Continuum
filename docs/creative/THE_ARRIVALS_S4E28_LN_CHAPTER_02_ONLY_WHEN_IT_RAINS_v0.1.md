@@ -56,7 +56,7 @@ He looked at Frieren.
 
 The narrow room was at the turn of the north corridor, where it bent round toward the west wing.
 
-It had been the narrow room nobody marked, once. In the Muslin, in the autumn, when the house was a ground-floor sketch of string and cloth, Mau had walked the corridor with Marin and her notebook and named every room. And when he came to this one, the narrow one at the turn, with its one window and its door that did not quite close, he had not named it. He had walked past it. Very carefully not looking at it. And it had stayed unmarked, with nothing written on the plan, for a whole season.
+It had been the narrow room nobody marked, once. In the Muslin, in the autumn, when the house was one floor of posts and slotted boards, Mau had walked the corridor with Marin and her notebook and named every room. And when he came to this one, the narrow one at the turn, with its one window and its door that did not quite close, he had not named it. He had walked past it. Very carefully not looking at it. And it had stayed unmarked, with nothing written on the plan, for a whole season.
 
 Now there was a slip of card in the little brass holder on the door. And on the card, in small careful pencil, in Rem's own hand:
 
@@ -112,7 +112,7 @@ They drank. The rain ran down the window.
 
 "She wouldn't," said Mau.
 
-"No." Rem looked at the window. "It's been raining for two years, I think. As far as Fern's concerned."
+"No." Rem looked at the window. "It's been raining for a year, I think. As far as Fern's concerned."
 
 Mau did not say anything.
 

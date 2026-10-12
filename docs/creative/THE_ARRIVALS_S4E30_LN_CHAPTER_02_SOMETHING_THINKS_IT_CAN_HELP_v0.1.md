@@ -194,7 +194,7 @@ Rimuru stared at the air for a moment longer.
 
 Then, all at once, he laughed.
 
-It came out of him the way it had come out of him on the roof, in the snow, the first night. Short and helpless and cracked. He put his hand over his face. His shoulders shook.
+It came out of him the way it did on the roof, some nights. Short and helpless and cracked. He put his hand over his face. His shoulders shook.
 
 "This is the most *Mau* idea," said Rimuru, through his hand, "I have ever heard in my entire life."
 
@@ -202,7 +202,7 @@ It came out of him the way it had come out of him on the roof, in the snow, the 
 
 Rimuru took his hand away from his face. His eyes were wet. He looked at Mau. Then at the crystal woman, reaching down for the empty air. Then at Mau again.
 
-"Five minutes," said Rimuru. "You said five. In the field it was everything at once. This is five minutes, inside me, with Ciel watching every molecule and her hand on the lever." He did not look away. "If it's more than five, she pulls you. If the wheel turns wrong, she pulls you. If you so much as *flinch*, she pulls you."
+"Five minutes," said Rimuru. "In the field it was everything at once. This is five minutes, inside me, with Ciel watching every molecule and her hand on the lever." He did not look away. "If it's more than five, she pulls you. If the wheel turns wrong, she pulls you. If you so much as *flinch*, she pulls you."
 
 "If I get trapped," said Mau, "she takes the guardrails off. All of them."
 

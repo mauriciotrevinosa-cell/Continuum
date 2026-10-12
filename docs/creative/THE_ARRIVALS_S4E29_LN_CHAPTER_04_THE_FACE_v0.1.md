@@ -30,7 +30,7 @@ The square was very quiet.
 
 Behind Anko, Eren had gone completely still.
 
-"And the sheep," said the man. "Hannet's sheep, on the east side. Three, in the winter. And the Corlew boy, who saw the thing standing at the end of his field three nights running, made of shadows." He shook his head, slowly. "And now the woods. The low woods, by the ford. Where the thing walks. The thing with all the faces, that talks. You've heard it. Some of you have heard it yourselves, going through." He looked out across the square. "It says what we're all thinking. Doesn't it. It says what we're too polite to say."
+"And the sheep," said the man. "Hannet's sheep, on the east side. Four, in the winter. And the Corlew boy, who saw the thing standing at the end of his field three nights running, made of shadows." He shook his head, slowly. "And now the woods. The low woods, by the ford. Where the thing walks. The thing with all the faces, that talks. You've heard it. Some of you have heard it yourselves, going through." He looked out across the square. "It says what we're all thinking. Doesn't it. It says what we're too polite to say."
 
 A murmur went across the crowd. Low. Not agreement, exactly. Something worse than agreement. Recognition.
 
@@ -216,7 +216,7 @@ Wakana was at the far end of the table. He had been on the woodpile all afternoo
 
 "Hollis," he said now. Very quietly. "The chimneys."
 
-Hollis looked at her down the length of the long table.
+Hollis looked at him down the length of the long table.
 
 "All eleven," he said. "Gone before noon." He paused. "There was a woman. Whose house nearly burned in the winter. Her husband knocked a dish of oil over in the night, because the chimney had cracked and there was no one to make another." He looked at Wakana. "She held it like an egg. All the way down the street."
 

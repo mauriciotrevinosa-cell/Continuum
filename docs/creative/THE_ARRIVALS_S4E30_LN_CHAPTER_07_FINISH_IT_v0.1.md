@@ -98,7 +98,7 @@ Agott was in the Witch Hat room, at her table in the alcove. Tetia. Richeh, asle
 
 They all looked up.
 
-Coco did not say anything to them. She led her mother to the table under the window, the one where she had drawn the outer lattice on a river stone, and pulled out the chair, and sat her down. Then she went to the shelf at the end of the row, and took down the small glass bottle. The one that had been empty for so long, except for a stain at the bottom. The one that was full now, dark and real, because the ink tree in the yard had leaves on it.
+Coco did not say anything to them. She led her mother to the table under the window, the one where she had drawn the outer lattice on a river stone, and pulled out the chair, and sat her down. Then she went to the shelf at the end of the row, and took down the small glass bottle. The one that had been empty for so long, except for a stain at the bottom. The one that was full now, dark and real, because the ink tree in the yard gave a bottle a week.
 
 She put it on the table. She put a pen beside it.
 

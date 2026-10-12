@@ -22,7 +22,7 @@ Fern had looked at her for a long time. Then she wrote *Aira (between)*.
 
 And Anko. Anko was not on the list either. Anko was going further than the list.
 
-She walked at the back with Aldric, in a plain brown coat that was not her own, with her hair under a cap and her notebook in an inside pocket where nobody would see it. She had asked Hollis the night before, privately, at the end of the long table, if he needed a fourth guard for the town. Someone who would walk into the market with his cart and stand there and watch.
+She walked at the back with Aldric, in a plain brown coat that was not her own, with her hair under a cap and her notebook in an inside pocket where nobody would see it. She had asked Hollis the night before, privately, at the end of the long table, if he needed one more guard for the town. Someone who would walk into the market with his cart and stand there and watch.
 
 "Watch what?" Hollis had said.
 
@@ -168,7 +168,7 @@ Mikasa looked at him.
 
 
 
-The first of the river towns was called Ashby, and it had been on the river for three hundred years, and it had a market every fifth day in the square in front of the reeve's hall, and it was frightened.
+The first of the river towns was called Ashby, and it had been on the river for three hundred years, and it had a market every few days in the square in front of the reeve's hall, and it was frightened.
 
 Anko saw that before they were through the gate.
 

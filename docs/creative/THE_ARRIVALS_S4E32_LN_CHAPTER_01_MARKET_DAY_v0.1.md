@@ -6,7 +6,7 @@
 **Reading order:** 24  
 **Continuity state:** Day 214 | Ashby's gate: the reeve's order, 'untraceable goods' / 'I've got a family' | Pell walks out with the crowd: 'There's no old woman on the coast road' | Hollis: 'From people' / 'So you admit it' / 'I admit it' | a stone; cream and honey in the dust | Brenna in front of the cart, hit above the eye, gets up with empty hands: 'Don't. These are your neighbours' | Cobb, Tam, Aldric, Wren beside her, weapons across, not raised / 'Just standing here' | three chimneys saved like eggs | Pell afraid, not of them | Merren touches the cart | Mikasa: 'One day you're the person in front' | the woods: almost every face looking; Pell's voice from its mouth | 'Somebody's writing his pages. And he's afraid of whoever it is'
 
-*When: Day 214, the fourth run to Ashby. Jiji has stopped wearing the blanket and started following Okarun everywhere, which Okarun says is worse. Byakuya and Senku have a telescope lens half ground. Coco's mother has learned the names of everyone at the long table and uses them. It is midsummer, hot and still.*
+*When: Day 214, the fifth run to Ashby. Jiji has stopped wearing the blanket and started following Okarun everywhere, which Okarun says is worse. Byakuya and Senku have a telescope lens half ground. Coco's mother has learned the names of everyone at the long table and uses them. It is midsummer, hot and still.*
 
 The gatekeeper at Ashby did not let them in.
 
@@ -162,7 +162,7 @@ Six people, in a line, in front of a cart full of cream and honey and glass, wit
 
 The crowd stopped.
 
-Not all at once. A ripple. The ones at the front saw the six faces. Saw Cobb, who was the Hannet boy's cousin, and had sold eggs in that square every fifth day of his life. Saw Tam. Saw Wren, the miller's granddaughter, the one who never spoke. Saw Brenna, who had held the lord's gate for twelve years and turned away three bandit raids, with blood running down her face and her hands out empty.
+Not all at once. A ripple. The ones at the front saw the six faces. Saw Cobb, the Hannet boy, who had sold eggs in that square on market days all his life. Saw Tam. Saw Wren, the miller's granddaughter, the one who never spoke. Saw Brenna, who had held the lord's gate for twelve years and turned away three bandit raids, with blood running down her face and her hands out empty.
 
 "*Brenna*," said someone in the crowd. Shocked. "That's Brenna."
 
@@ -176,7 +176,7 @@ Nobody threw anything else.
 
 
 
-They got the cart turned round. Dunmore did it, with the mule, while the crowd stood in the road and watched and did not stop them. Half the crates were on the road. Broken pots. Smashed honey jars. White cream and gold honey mixed in the dust. Three of the eighteen chimneys were still whole, in their basket. Hollis picked the basket up himself and held it against his chest like an egg.
+They got the cart turned round. Dunmore did it, with the mule, while the crowd stood in the road and watched and did not stop them. Half the crates were on the road. Broken pots. Smashed honey jars. White cream and gold honey mixed in the dust. Three of the chimneys were still whole, in their basket. Hollis picked the basket up himself and held it against his chest like an egg.
 
 Pell had not moved. He stood in the road in front of the gate in his clerk's coat, with the crowd round him, watching them go. His face was pleasant, and tired, and very sad.
 
@@ -268,7 +268,7 @@ Maomao had stitched Brenna's eye. Shoko had looked at it after and said Maomao's
 
 Fern had the ledger open. She was writing. She stopped.
 
-"Half the goods," she said. "Lost. Three chimneys sold." She did not look up. "Brenna's eye. The cart damaged." She paused. "And the gate's closed. Ashby won't let him in. Not with our goods." She put down her pen. "So the route's closed."
+"Half the goods," she said. "Lost. Three chimneys saved." She did not look up. "Brenna's eye. The cart damaged." She paused. "And the gate's closed. Ashby won't let him in. Not with our goods." She put down her pen. "So the route's closed."
 
 "It's not closed," said Hollis.
 

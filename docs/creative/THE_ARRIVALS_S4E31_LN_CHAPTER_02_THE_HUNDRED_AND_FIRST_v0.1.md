@@ -122,7 +122,7 @@ Wakana took them out one at a time and held each one up to the light and did not
 
 Then he sat down on the floor of the lab and cried.
 
-Byakuya looked at her. Then at Senku.
+Byakuya looked at him. Then at Senku.
 
 "Is he all right?" he said.
 

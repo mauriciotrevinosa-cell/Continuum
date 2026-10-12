@@ -8,9 +8,9 @@
 
 *When: Days 210 and 211. Hollis took eighteen chimneys down the river road on Day 209, and the clerk pointed, and they sold before the clerk had finished his sentence. Byakuya and Senku have started grinding a telescope lens. It is hot, properly hot, for the first time; the fort has moved its cushions into the shade of the ink tree and calls it the Summer Annexe.*
 
-Okarun had been thinking about it for a month.
+Okarun had been thinking about it for two months.
 
-He did not tell anyone. He did not tell Momo. He did not tell Turbo Granny, who lived on his shoulder and on his windowsill and in his pocket and knew everything he thought before he thought it anyway, and who had therefore known for a month and said nothing, which was the most suspicious thing she had ever done.
+He did not tell anyone. He did not tell Momo. He did not tell Turbo Granny, who lived on his shoulder and on his windowsill and in his pocket and knew everything he thought before he thought it anyway, and who had therefore known for two months and said nothing, which was the most suspicious thing she had ever done.
 
 It had started on the dating day. On the bell tower. With the stars, and Momo beside him on the platform, and Vamola guarding the ladder, and Turbo Granny supervising from his shoulder. Momo had been looking at the stars. And she had said, out of nowhere, very quietly, the way she said things she had been thinking about for a long time:
 
@@ -98,7 +98,7 @@ It was night. Okarun was sitting on the floor of his room under the window, with
 
 "He's my *rival*."
 
-"He's your rival," Turbo Granny agreed. "And you fought him. And then you fought *with* him, against the thing in him, and you threw hot water on him, and he called you his best friend, and you said *shut up*." She settled herself more comfortably on the sill. "And you've thought about him every day for a month. Every day. I counted. You've been very boring to live in."
+"He's your rival," Turbo Granny agreed. "And you fought him. And then you fought *with* him, against the thing in him, and you threw hot water on him, and he called you his best friend, and you said *shut up*." She settled herself more comfortably on the sill. "And you've thought about him every day for two months. Every day. I counted. You've been very boring to live in."
 
 Okarun put his face in his hands.
 
@@ -198,7 +198,7 @@ She crossed the intake hall at a run and threw herself at him, and he caught her
 
 Okarun stood in the doorway.
 
-He did not go in. He stood there with his hands in his pockets and his face red and watched them. And something in his chest that he had been holding very tightly for a month let go, a little.
+He did not go in. He stood there with his hands in his pockets and his face red and watched them. And something in his chest that he had been holding very tightly for two months let go, a little.
 
 Then Jiji looked up. Over Momo's shoulder. At the doorway.
 

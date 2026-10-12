@@ -16,7 +16,7 @@ Then she put the teapot back on its hook. And then she stood by the hearth, with
 
 She did not sit down. She never sat down. Not until the long table had emptied, and the cups were on the rack, and the lamps were going out. Then, sometimes, she sat for a minute on the end of the bench, alone, and drank whatever was left in the bottom of the pot, cold, from her own cup. And then she washed it, and went to bed.
 
-Mau had been watching her do it for two years.
+Mau had been watching her do it for more than a year.
 
 He had not known he was watching. He had just seen it, the way you see the same thing every day without noticing that you see it. Rem and the teapot. Rem by the hearth. Rem, last, alone, with the cold dregs. It was part of the room, like the beam across the ceiling and the fort's curtain and Seiko's fan.
 

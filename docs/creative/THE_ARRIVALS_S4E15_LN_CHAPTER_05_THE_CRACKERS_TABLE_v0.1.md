@@ -42,7 +42,7 @@ They went in.
 
 
 
-Seiko's corner of the Muslin was behind a folding screen at the far end, by the back door, where the old woman had slept since the house was a ground-floor sketch of string and cloth. Nobody went behind the screen. It was not a rule. It was simply understood, the way it was understood that you did not sit in Seiko's high seat at the long table or touch her fan.
+Seiko's corner of the Muslin was behind a folding screen at the far end, by the back door, where the old woman had slept since the house was one floor of posts and slotted boards. Nobody went behind the screen. It was not a rule. It was simply understood, the way it was understood that you did not sit in Seiko's high seat at the long table or touch her fan.
 
 Behind it there was a low table. A brazier, glowing. A kettle on it, already steaming, as if she had known. Three cushions round the table. And a tin. A large, battered, painted tin, with flowers on the lid, the paint worn through at the corners.
 

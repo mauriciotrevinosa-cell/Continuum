@@ -46,7 +46,7 @@ Anko wrote something down.
 
 The roof night was the seventh night, and it had been on the seventh night for as long as there had been a roof night. Since the Muslin's first weeks, when Yuta had explained to Mau and Rimuru that he and Maki had been *catching up, a whole life, and then this one*, and the three of them had climbed out onto a roof in the cold with a blanket and decided to do it again. Once a week. No business. And the rule: *if any of us starts carrying something he shouldn't, the other two say so.*
 
-They had done it on the Muslin's roof, which was cloth over poles, and sagged. They had done it on the bents of the real house, a week before, sitting on bare timber against the stars like three crows on a fence.
+They had done it on the Muslin's roof, which was planks over poles, and creaked. They had done it on the bents of the real house, a week before, sitting on bare timber against the stars like three crows on a fence.
 
 Tonight there was a roof.
 

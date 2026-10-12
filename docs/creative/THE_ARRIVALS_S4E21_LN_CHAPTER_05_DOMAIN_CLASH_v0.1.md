@@ -134,7 +134,7 @@ Mau stood inside two Voids and looked at him.
 
 And he remembered.
 
-Not the way he remembered things from before the clearing, which was not at all. He remembered the way he remembered the Trial: all at once, from underneath, in the body before the mind. A scenario. One of them. Among the hundreds. A field, like this one. Snow, like this. A tall man with white hair and no blindfold, and eyes like the sky, coming at him across the snow with Infinity in one hand and Red in the other. And Mau losing. And losing. And losing. And on the last try, the one that counted, standing exactly like this, with the left hand back.
+Not the way he remembered things from before the clearing, which was not at all. He remembered the way he remembered the Trial: all at once, from underneath, in the body before the mind. A scenario. One of them. Among the hundreds. A street of white light, white as this snow. A tall man with white hair and something over his eyes, and a smile like a door left open on purpose, coming at him with Infinity in one hand and Red in the other. And Mau losing. And losing. And losing. And on the last try, the one that counted, standing exactly like this, with the left hand back.
 
 *In the Trial,* said Ciel, very quietly. *He was one of them. You fought him many times. You never told anyone.*
 

@@ -6,7 +6,7 @@
 **Reading order:** 23  
 **Continuity state:** Evening of Day 81, during the frame | Seiko catches Frieren and Maki coming up from the river: 'Four times... your faces are different' / 'You'll come in' | behind the screen: a brazier, a painted tin, crackers: 'I don't make promises. I make crackers' | the rule: 'Nobody leaves this table carrying what they came in with' | Mai at the screen; 'There's always a cushion' | Turbo Granny follows the smell: 'You stuffed me into a cat' / a tiny cushion | Seiko: 'I'm going to die first... I'm frightened of her watching me go' / Frieren carries it | Frieren: 'I'm going to spend his whole life at the fence' / Maki carries it | Maki: 'Not tonight' (allowed once) | Mai: one bullet a day; 'my sister looks at me like I'm going to disappear' / Frieren: 'when they love them so much it frightens them' | Turbo Granny: 'I like the boy' / Seiko: 'Give it here, you old fool' | THE CRACKERS TABLE (NO, MILIM) | Frieren sleeps: 'not mine to carry'
 
-*When: The evening of Day 81, in the middle of the nine days of the frame. The bents of the real house stand against the sky across the yard like the ribs of something enormous. Everyone is exhausted. Since the river, ten days ago, Frieren and Maki have gone back down to the water together four times, and someone has noticed.*
+*When: The evening of Day 81, in the middle of the nine days of the frame. The bents of the real house stand against the sky across the yard like the ribs of something enormous. Everyone is exhausted. Since the river, nine days ago, Frieren and Maki have gone back down to the water together four times, and someone has noticed.*
 
 Seiko caught them on the way back from the river.
 
@@ -226,7 +226,7 @@ The brazier ticked.
 
 Seiko looked at her.
 
-"I'm good at people dying," said Frieren. "I'm the best there is at it. Everyone I've ever known has died." She did not look away. "I'm not good at it. Somebody told me that, by the river, ten days ago. Nobody's good at it." She paused. "But I'm used to carrying it. So give it to me. For a week."
+"I'm good at people dying," said Frieren. "I'm the best there is at it. Everyone I've ever known has died." She did not look away. "I'm not good at it. Somebody told me that, by the river, nine days ago. Nobody's good at it." She paused. "But I'm used to carrying it. So give it to me. For a week."
 
 Seiko looked at her for a long moment over the fan.
 

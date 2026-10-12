@@ -6,7 +6,7 @@
 **Reading order:** 4  
 **Continuity state:** Day 133 | the south field; Yuta holds his hair up | 'The last time I saw those, they were on Suguru's face' | Yuta tells it: Shinjuku, Kenjaku's technique, he wore Gojo to fight on, lived a whole life with Maki, in him; Continuum kept the scar | 'my body had grandchildren' | Gojo walks at the scar; Mau goes over the fence: 'So I am'; Rimuru | Infinity; Yuta's film | Mau looks: Analyze takes the roadmap, the wheel takes Analyze | 'What are you doing to my eyes?'
 
-*When: Day 133, the afternoon after the lunch where Sukuna's name was said. The gate is in its fourth week; Mikasa and Maki are due to go in tomorrow.*
+*When: Day 133, the afternoon after the lunch where Sukuna's name was said. The gate changed into its fifth week at dawn; Mikasa and Maki are due to go in tomorrow.*
 
 They went to the south field, because Gojo walked there, and Yuta followed him.
 

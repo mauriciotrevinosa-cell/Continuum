@@ -6,7 +6,7 @@
 **Reading order:** 22  
 **Continuity state:** Day 145, reset hour | after a day and a half asleep the eyes have read everything outside, so they look in | he sees the guardrails, beautiful and thin, every mended place | Ciel, afraid: 'Close your eyes' / they won't | Frieren's hand stops an inch away: Infinity | the wheel turns at the walls as an injury; the east window cracks; the shelf falls | the seal bell, three long one short | Gojo carries him out of the house he built | Ciel: 'I don't know if I can hold this'
 
-*When: Day 145, a day and a half after the taming. Ear is asleep in Mau's shadow; the walls are holding, and tired; the gate is in its fifth week. Gojo has not slept since the south field.*
+*When: Day 145, a day and a half after the taming. Ear is asleep in Mau's shadow; the walls are holding, and tired; the gate is in its sixth week. Gojo has not slept since the south field.*
 
 He woke at the reset hour, the way he always woke.
 

@@ -250,7 +250,7 @@ He thought about it. About the pressure, in the plaza. Being read. Every line of
 
 Frieren did not say anything.
 
-Then her cold foot found his leg under the blanket, early, hours before the reset hour, which it never did.
+Then her cold foot found his leg under the blanket, early, hours before the reset hour, which it almost never did.
 
 "One," she said, very quietly. "Still here."
 

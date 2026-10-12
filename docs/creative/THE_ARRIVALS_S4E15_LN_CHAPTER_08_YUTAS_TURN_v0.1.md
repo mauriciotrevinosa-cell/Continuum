@@ -66,7 +66,7 @@ Nobody said anything for a long time. That was how roof nights started.
 
 "We won't crack the shingles."
 
-"I know. She's going to cry anyway."
+"I know. He's going to cry anyway."
 
 Yuta did not say anything.
 
@@ -172,7 +172,7 @@ Yuta looked at him.
 
 Yuta stared at him.
 
-"You're carrying it by yourself," said Mau. "The coin. For ninety days. Every night. Not telling anyone. Not even Maki, I bet." He looked at Yuta at last. "You've been touching your pocket at dinner for a month. Nazuna noticed. *Nazuna*, Yuta. She only wakes up for dinner."
+"You're carrying it by yourself," said Mau. "The coin. For eighty-five days. Every night. Not telling anyone. Not even Maki, I bet." He looked at Yuta at last. "You've been touching your pocket at dinner for a month. Nazuna noticed. *Nazuna*, Yuta. She only wakes up for dinner."
 
 Rimuru made a small sound that might have been a laugh.
 

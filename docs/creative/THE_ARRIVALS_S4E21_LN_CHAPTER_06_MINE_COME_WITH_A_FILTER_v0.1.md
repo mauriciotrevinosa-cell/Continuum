@@ -92,7 +92,7 @@ Frieren looked at him for a long moment.
 
 "I know," said Gojo. "I felt it. In the stance."
 
-"He never told anyone," said Frieren. "He never tells anyone what happened in there." She did not turn round. "Hundreds of times. He doesn't know I know that much." A pause. "I don't know how many of those were you."
+"He never told anyone," said Frieren. "He never tells anyone what happened in there." She did not turn round. "Four hundred and thirty-seven times. He gave us the number, and almost nothing of what was in them." A pause. "I don't know how many of those were you."
 
 She went back in and shut the door.
 

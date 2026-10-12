@@ -46,7 +46,7 @@ Then Fern stood up.
 
 "*Fern*—"
 
-"No," said Fern again. She was holding the ledger against her chest the way she held it when she was about to be reasonable at someone. "The west wing's last eave isn't on. The gate changes in two days and Mikasa's party goes in the day after. The washing court's short a woman. Mau was in the clinic until this morning." She looked at Mau, at the end of the bench, with his black-and-red eye, and then away. "We don't have three days for everyone to go and—"
+"No," said Fern again. She was holding the ledger against her chest the way she held it when she was about to be reasonable at someone. "The west wing's last eave isn't on. The gate changes in five days and Mikasa's party goes in the day after. The washing court's short a woman. Mau was in the clinic until this morning." She looked at Mau, at the end of the bench, with his black-and-red eye, and then away. "We don't have three days for everyone to go and—"
 
 "Fern," said Seiko.
 

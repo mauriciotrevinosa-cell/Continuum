@@ -146,7 +146,7 @@ Frieren put her cup down.
 
 The table looked at her.
 
-"That's what I came in with," said Frieren. She folded her hands inside the sleeves of the orange hoodie. "I was a queen. Four days ago. For two days. I made decrees." She almost smiled. "I moved Rimuru's loft. I made Mau carry me piggyback across a dungeon. I got a hoodie." She pulled the sleeve slightly. "I made him promise something new, under a tree, and he did. And he hasn't been hurt since the winter. And I've laughed more since the first table than in the whole year before it." She paused. "I'm happy."
+"That's what I came in with," said Frieren. She folded her hands inside the sleeves of the orange hoodie. "I was a queen. Four days ago. For two days. I made decrees." She almost smiled. "I got Rimuru's loft a door. I made Mau carry me piggyback across a dungeon. I got a hoodie." She pulled the sleeve slightly. "I made him promise something new, under a tree, and he did. And he hasn't been hurt since the winter. And I've laughed more since the first table than in the whole year before it." She paused. "I'm happy."
 
 Nobody said anything.
 
@@ -192,13 +192,13 @@ Seiko went last.
 
 They looked at her.
 
-"I've had it since the bridge," said Seiko. "Like everyone. I'm old. Everyone I'd bring is dead in my world, or would hate it here." She turned the fan over in her hands. "Momo keeps asking. Who I'll bring. I tell her nobody." She paused. "It's not nobody."
+"I've had it since the bridge," said Seiko. "Like everyone. I'm old. Everyone I'd bring is dead in my world, or would hate it here." She turned the fan over in her hands. "I promised it on the fortieth day. To Yuta's teacher, for his doctor, when he comes. Momo keeps asking if I'm sure. I tell her I don't say things twice." She paused. "That's not the weight."
 
-"Who, then?" said Mai.
+"What is, then?" said Mai.
 
 Seiko looked at her over the fan for a long moment.
 
-"I don't know yet," she said. "Someone's going to need it more than I do. Someone in this house. Someone who'll need a doctor." She closed the fan. "I've been a medium for sixty years. I know when something's coming. I don't always know what." She put the fan down on the table. "So I'm keeping it. For when I know. That's what I'm carrying." She looked round the table. "And none of you can carry it, because it's not finished yet. So I'll keep it."
+"Someone's going to need that doctor," she said. "Someone in this house. Not him. Someone here." She closed the fan. "I've been a medium for sixty years. I know when something's coming. I don't always know what." She put the fan down on the table. "So I keep it in my pocket, and I wait for the day. That's what I'm carrying." She looked round the table. "And none of you can carry it, because it's not finished yet. So I'll keep it."
 
 Nobody argued.
 
@@ -226,9 +226,9 @@ Then she laughed. Out loud. The first time anyone at the table had heard her lau
 
 They walked back up the corridor together after midnight, the way they always did. Mai first, to her room, with Maki's coin in her pocket and her hand over it. Then Maki and Frieren, side by side, in the dark, slowly.
 
-At the foot of the loft ladder in the east corridor, Frieren stopped.
+At the foot of the roof ladder at the end of the east corridor, Frieren stopped.
 
-Above them, through the hatch, through the east-end window, you could just see the ridge of the roof against the stars. Empty tonight. But at the far end of it, small and dark against the sky, there was a shape on the shingles. A cup. Upside down. Left there from the last roof night.
+Above them, through the open hatch, you could just see the ridge of the roof against the stars. Empty now; the roof night had broken up before the table did. But at the far end of it, small and dark against the sky, there was a shape on the shingles. A cup. Upside down. Rinsed already.
 
 "They put a fourth cup out," said Frieren quietly. "Every seventh night. Since Kaneki came up with the coffee." She looked up at the ridge. "He comes now. Not always. Sometimes. He sits at the end. He doesn't talk much. In the morning the cup's rinsed and upside down."
 

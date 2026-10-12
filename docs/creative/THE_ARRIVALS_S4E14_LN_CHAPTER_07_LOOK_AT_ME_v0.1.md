@@ -16,7 +16,7 @@ Mau had got up four times since dinner to look at him. Out of bed, across the ro
 
 On the fourth time, Diablo's voice came through the cloth of the door, pleasantly, without the door opening. "Mau-sama. He is breathing. He was breathing the last three times. He will be breathing the next time." A pause. "Go to bed."
 
-So Mau came down the ladder and went to bed. Across their corner of the Muslin, past the shelf and the lamp, past the low cushion against the wall and the crate of books that was hers. Her reading place. Where she sat in the evenings with a grimoire on her knee and turned pages so slowly you could not tell if she was reading or dreaming.
+So Mau came down the ladder and went to bed. Across their corner of the Muslin, past the shelf and the lamp, past the reading chair he had said no to, in its corner. Where she sat in the evenings with a grimoire on her knee and turned pages so slowly you could not tell if she was reading or dreaming.
 
 She was not reading.
 
@@ -122,7 +122,7 @@ He watched it go back down. All of it. Whatever it had been. She did not push it
 
 Mau looked at her.
 
-He knew that face. He had known it for two years. It was the face she made when something was very wrong and she had decided he was not going to carry it. He had seen it at the bay. He had seen it in the white place, through the wall, every hour, saying his name, though he had not known then that he was seeing it. He had seen it last night, under the tree, for one second, when she said *longer than me*.
+He knew that face. He had known it for two years. It was the face she made when something was very wrong and she had decided he was not going to carry it. He had seen it at the bay. He had seen it last night, under the tree, for one second, when she said *longer than me*.
 
 He did not push.
 
@@ -238,7 +238,7 @@ He stopped at the corner.
 
 She found Frieren under the ink tree in the afternoon.
 
-It was not hard. Frieren was always under the ink tree now, in the afternoons, since it grew. Sitting on the frozen ground with her back against the trunk and a grimoire open on her knee. She read there in the light, the way she read in her corner at night. It was her tree. It had been her tree since the moment it came up out of the yard, ninety-nine years early, and she had put her hand on its bark and said *you broke your promise*.
+It was not hard. Frieren was always under the ink tree now, in the afternoons, since it grew. Sitting on the frozen ground with her back against the trunk and a grimoire open on her knee. She read there in the light, the way she read in the reading chair at night. It was her tree. It had been her tree since the moment it came up out of the yard, ninety-nine years early, and she had put her hand on its bark and said *you broke your promise*.
 
 Maki stood in front of her for a moment.
 

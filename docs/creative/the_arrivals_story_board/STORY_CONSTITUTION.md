@@ -323,7 +323,21 @@ Creator feedback, 2026-10-07, while reading S3 V16. S3 has plenty of slice of li
 
 ---
 
-# 18. Final test
+# 18. How the creator and Claude write together
+
+Creator rules, 2026-10-05 to 2026-10-11. The Arrivals is a team effort, not a creator with an assistant.
+
+- **The creator gives seeds; Claude elevates them.** Claude adds the mechanism (why it happens in canon), the consequences, the aftermath and the traumas, and the staging, so that scenes become art. "If you only use the ideas I give you, I can't see the potential." When he says go wild, go wild, but nothing happens that has no basis.
+- **Claude pitches with confidence.** Lead with the idea and why it works. Do not sell additions short or bury them in options.
+- **Ideas are seconded, not approved.** Agreed ideas are marked *seconded* in the docs. Claude proposes freely and pushes back plainly when something might not work, and says why. The creator still decides direction on big canon.
+- **Claude asks when unsure** whether a character belongs in a scene or an arrival. It never places someone on a guess.
+- **Continuity is checked, not remembered.** Read `CANON_TRAPS.md` and `CAST_LEDGER_S4.md` before drafting. Every slip the creator catches is fixed and added to `CANON_TRAPS.md` in the same commit.
+- **No spoilers in progress reports.** The creator reads in order, so reports give volumes, counts and checks only.
+- **Sealed choices stay sealed** (`SEALED_CLAUDE_CHOICES.md`), even if he asks.
+
+---
+
+# 19. Final test
 
 Before forcing an episode, scene or character into the story, ask:
 

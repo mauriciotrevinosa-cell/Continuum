@@ -30,7 +30,8 @@ A stale status/history sentence never overrides a later creator decision or the 
 5. [MAJOR_ARCS.md](./MAJOR_ARCS.md) — Sukuna / Hollow Purple / Second Chance, Mau–Frieren–Himmel, Ori, relocation/city, power secrecy.
 6. [FLOATING_IDEAS.md](./FLOATING_IDEAS.md) — ideas without enough structure or exact placement yet.
 7. [DECISION_HISTORY.md](./DECISION_HISTORY.md) — explicit changes of direction. These are **provenance/history, not law**.
-8. [OPEN_QUESTIONS.md](./OPEN_QUESTIONS.md) — only questions that still appear genuinely unresolved.
+8. [CANON_TRAPS.md](./CANON_TRAPS.md) — facts that have already been gotten wrong once; read before drafting any chapter.
+9. [OPEN_QUESTIONS.md](./OPEN_QUESTIONS.md) — only questions that still appear genuinely unresolved.
 
 ## Preserved source material
 

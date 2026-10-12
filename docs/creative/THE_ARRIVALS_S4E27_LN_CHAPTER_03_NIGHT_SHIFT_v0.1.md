@@ -244,7 +244,7 @@ At half past four, someone sat down on the step beside her.
 
 Mikasa. With her blades. She did not say anything. She sat down on the cold step beside Aira, close, the way she sat beside people she trusted, and looked north too.
 
-They had not talked much, the two of them. In all the time they had been in the house. They were not alike. Aira was loud and fierce and talked about aliens and had opinions about everything, and Mikasa did not talk at all if she could help it. But they had stood at the back of the same crowds. They had walked the same edges, on the same nights, with their eyes on the dark. They had both, at one time or another, in the plaza and on the road and at the bell, stood in front of a door with someone behind it.
+They had not talked much, the two of them. In all the time they had been in the house. They were not alike. Aira was loud and fierce and had opinions about everything, and Mikasa did not talk at all if she could help it. But they had stood at the back of the same crowds. They had walked the same edges, on the same nights, with their eyes on the dark. They had both, at one time or another, in the plaza and on the road and at the bell, stood in front of a door with someone behind it.
 
 "If it gets past us," said Mikasa quietly, "it comes here first."
 

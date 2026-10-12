@@ -4,7 +4,7 @@
 **Volume:** 25  
 **Season:** 4  
 **Volume title:** **Crystal**  
-**Chapter count:** 8
+**Chapter count:** 12
 
 | # | Chapter |
 |---:|---|
@@ -16,3 +16,7 @@
 | 6 | Not When It's Over |
 | 7 | The Teapot |
 | 8 | Only When It Rains |
+| 9 | The Price of Fear |
+| 10 | Warriors Hired |
+| 11 | Through the Low Woods |
+| 12 | The Face |

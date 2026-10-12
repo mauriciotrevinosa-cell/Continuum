@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 21 — Raising the Frame
+## Chapter 22 — Raising the Frame
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 21  
+**Reading order:** 22  
 **Continuity state:** Days 77-85 (nine days) | the cooper's four thousand oak pegs | first bent raised by everyone, eleven that day | Milim sets the ridge beam gently | rice-cake throwing; Frieren catches one | Yuta: 'He'd have loved this'
 
 *When: Days 77 to 85, nine days. The weekly tea, the night shift and the Searchers' loads went on through all of it, and everything else in the house happened around the frame.*

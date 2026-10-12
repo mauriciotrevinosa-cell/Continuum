@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 19 — Concrete and Rebar
+## Chapter 20 — Concrete and Rebar
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 19  
+**Reading order:** 20  
 **Continuity state:** Day 76, breakfast, witches knock first | Senku's huge concrete/rebar plan: 'six years, maybe eight' | 'I got carried away' | Rimuru: 'Have you ever seen a temple?'
 
 *When: Day 76, the morning after the fourth tea and the night after the voice spoke to Senku.*

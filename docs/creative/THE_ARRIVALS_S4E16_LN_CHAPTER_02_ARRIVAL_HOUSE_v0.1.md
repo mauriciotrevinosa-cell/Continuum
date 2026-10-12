@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 26 — Arrival House
+## Chapter 29 — Arrival House
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 26  
+**Reading order:** 29  
 **Continuity state:** Day 102 | Jinshi unlocks at the eighth bell; Kessoku on the bench | Nijika falls asleep at the eleventh bell; the bell rings once by itself | the second witness room: Seika, three days after, with missing-person posters of all four | 'All four of you. Here.' / Bocchi: a hand like a lid | 'Who are all these people.' / 'Family.' / 'Hah?' | register: Ijichi Seika, arrived, by coin, the first | Seika heard only her name, no question: 'I'm here, aren't I?'
 
 *When: Day 102, the next morning.*

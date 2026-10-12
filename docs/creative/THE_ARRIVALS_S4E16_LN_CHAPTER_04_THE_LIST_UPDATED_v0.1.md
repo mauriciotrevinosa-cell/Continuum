@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 28 — The List, Updated
+## Chapter 31 — The List, Updated
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 28  
+**Reading order:** 31  
 **Continuity state:** Night of Day 102 to Day 103 | Seika refuses the Muslin: 'across a yard from you'; Rem lets the stove go out | she can't sleep; the doors in ink, Rem's in pencil; the door with no name: Echidna's library, the first stranger who is not a stranger; a dead person's songbook; Echidna: 'Mine' | Nijika's dawn panic; a hand like a lid | 'Arrivals, one' | THE LIST: 1. Nijika: her sister. First. HERE. / 2. Rem: her sister. When we're ready | the old side of the board: FOUND: SEIKA
 
 *When: The night of Day 102 into the morning of Day 103.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 22 — The Bath
+## Chapter 24 — The Bath
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 22  
+**Reading order:** 24  
 **Continuity state:** Day 90 | Rimuru's bath on the north-side spring; Umaru opens it (her slip framed) | seven rules, no Milim Beam | Rimuru on the fence in a bucket (Ministry decree) | Sekhmet: 'I am going to live here'; Maomao tastes it | Himmel's hot-spring story, Frieren corrects it through the fence | the family-bath slate | Mau and Frieren: she sleeps, he does two shifts | dawn: Kaneki to Eren, 'One coin'
 
 *When: Day 90. While the clay teams packed the walls of the house, Rimuru built the bath. Both took the same week.*

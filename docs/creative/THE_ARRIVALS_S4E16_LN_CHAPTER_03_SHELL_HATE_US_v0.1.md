@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 27 — She'll Hate Us
+## Chapter 30 — She'll Hate Us
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 27  
+**Reading order:** 30  
 **Continuity state:** Day 102 | the ugly coat | the house appears by accident; Seiko and Seika: 'Hm.' | the fort: 'Accurate'; NEXT #1 for five seconds; 'It's a terrible fort' / 'Let her' | Seika to Mau: 'People look at the person they're scared for... don't do that again' | Bocchi's family were looking (Futari's dog on every poster); 'Good... practise' | 'That wasn't bad' | the movie room: 'Again. The alien one.'
 
 *When: Day 102, the same day, afternoon into night.*

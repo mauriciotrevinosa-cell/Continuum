@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 24 — Moving Day, Round Two
+## Chapter 27 — Moving Day, Round Two
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 24  
+**Reading order:** 27  
 **Continuity state:** Day 100 | names in ink; Rem's stays pencil ('That's why pencil is fine') | the room with no name stays unnamed: Echidna's door | Fern pencils a square on the west wing: 'For whoever comes' | the fort moves; Umaru carries LATER | the witches move in: Pride's wobbling chair, Sekhmet's door to the bath, Satella's inner window | the cars and Ori's stone on the east sill; the shelf in the middle of the floor | a panel opens a hand's width | 'One. Still here.'
 
 *When: Day 100, the first thaw.*

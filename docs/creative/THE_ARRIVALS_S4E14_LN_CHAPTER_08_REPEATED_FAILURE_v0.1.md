@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 17 — Repeated Failure
+## Chapter 18 — Repeated Failure
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 17  
+**Reading order:** 18  
 **Continuity state:** Days 72-76 | the waterwheel turns | Senku tries for electric light | the magnet dies, the wire snaps, the belt breaks, the shaft cracks, the bulb glows one second and shatters | Ciel: a shape, very large, patient, not hostile; it breaks only the light | the Goddess to Senku alone: 'Protection. Repeated failure.' | Rimuru: her world, a line; stages | 'She's rate-limiting me' | the dust in a box: NOT YET
 
 *When: Days 72 to 76. These are the same days as the next three chapters: the fourth tea came on the seventy-fifth, in the middle of Senku's failures, and his plan came the morning after.*

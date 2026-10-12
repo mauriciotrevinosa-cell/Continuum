@@ -360,9 +360,9 @@ They sat on the ridge together for a while, looking south. Two women who had spe
 
 Anko looked down at her.
 
-"You don't do night shifts," she said. "You do *nights*. It's different."
+"You stopped the shifts when the snow went," she said. "You said summer nights were for flying, not for watching."
 
-"I'm doing a night shift," said Nazuna. "Tomorrow. And the night after." She closed her eyes. "Somebody has to watch the hills while you watch the woods. And I can see in the dark better than you." She smiled, with her eyes shut. "I always could."
+"I'm starting again," said Nazuna. "Tomorrow. And the night after." She closed her eyes. "Somebody has to watch the hills while you watch the woods. And I can see in the dark better than you." She smiled, with her eyes shut. "I always could."
 
 Anko did not say anything.
 

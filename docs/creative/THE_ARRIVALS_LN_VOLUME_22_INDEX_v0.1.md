@@ -4,7 +4,7 @@
 **Volume:** 22  
 **Season:** 4  
 **Volume title:** **The Board**  
-**Chapter count:** 28
+**Chapter count:** 31
 
 | # | Chapter |
 |---:|---|
@@ -24,15 +24,18 @@
 | 14 | One Breath |
 | 15 | The Tree |
 | 16 | Ink |
-| 17 | Repeated Failure |
-| 18 | The Fourth Tea |
-| 19 | Concrete and Rebar |
-| 20 | Timber |
-| 21 | Raising the Frame |
-| 22 | The Bath |
-| 23 | The Movie Room |
-| 24 | Moving Day, Round Two |
-| 25 | You Are Sure? |
-| 26 | Arrival House |
-| 27 | She'll Hate Us |
-| 28 | The List, Updated |
+| 17 | Look at Me |
+| 18 | Repeated Failure |
+| 19 | The Fourth Tea |
+| 20 | Concrete and Rebar |
+| 21 | Timber |
+| 22 | Raising the Frame |
+| 23 | The Crackers Table |
+| 24 | The Bath |
+| 25 | The Movie Room |
+| 26 | Yuta's Turn |
+| 27 | Moving Day, Round Two |
+| 28 | You Are Sure? |
+| 29 | Arrival House |
+| 30 | She'll Hate Us |
+| 31 | The List, Updated |

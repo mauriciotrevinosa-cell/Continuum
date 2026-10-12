@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 23 — The Movie Room
+## Chapter 25 — The Movie Room
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 23  
+**Reading order:** 25  
 **Continuity state:** Days 93-96 | the movie room finished first (Marin's wall, three coats) | Senku's magic lantern, oil lamp: 'Fire's fine' | Qifrey checks every slide for stray glyphs | Wakana's moving slides and chromatrope | Kessoku plays live | Okarun's alien film | Rimuru's cave: Veldora, 'Tempest'; Milim: 'He's my friend too' | Senku: discs in a year | Nijika: 'My sister would hate that'; her hand on the coin
 
 *When: Days 93 to 96. The roof was on and the walls were drying. The movie room was finished in the same days the floors went down.*

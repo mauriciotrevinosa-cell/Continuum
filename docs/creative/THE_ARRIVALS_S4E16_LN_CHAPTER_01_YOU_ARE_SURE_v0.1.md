@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 25 — You Are Sure?
+## Chapter 28 — You Are Sure?
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 25  
+**Reading order:** 28  
 **Continuity state:** Day 101 | Nijika tells Fern first: she waited for the house | Bocchi: happy and something else; her coin held | the house prepares without fuss (pear bread FOR TOMORROW (OR WHENEVER); Rem lights the Muslin stove; Wakana sorts beams; Umaru's slate) | midnight, music room: 'You are sure? Seika.' / 'Yes. I'm sure.' The coin is gone | Kessoku wait on the step of Arrival House; by dawn nearly forty with them
 
 *When: Day 101, the day after moving day.*

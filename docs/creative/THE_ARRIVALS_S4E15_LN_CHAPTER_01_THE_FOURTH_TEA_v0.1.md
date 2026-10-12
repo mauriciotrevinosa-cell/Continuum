@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 22
-## Chapter 18 — The Fourth Tea
+## Chapter 19 — The Fourth Tea
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
-**Reading order:** 18  
+**Reading order:** 19  
 **Continuity state:** Day 75, the fourth tea, only the eight | Pride: 'You may call me Pride. The name was for someone smaller' | Mau: 'Okay' | she opens her hands | 'Seven' | north-wing rooms promised; witches ask to come to breakfast
 
 *When: Day 75, the same day the seventh bulb shattered.*

@@ -32,7 +32,7 @@ Maki finished lacing her boot. She stood up. She picked up her spear from where 
 
 She took him to the south field.
 
-He realised where they were going halfway down the slope, and stopped. It was the field. The same field. The place where four days ago he had held his hair up off his forehead and told his teacher everything, and three domains had opened in the snow, and Mau had screamed in Rika's arms. The snow had melted from most of it since then. But there were still marks. A ring of small dark holes in the ground where swords had been. A long gouge where Gojo had gone down on his knees. A patch of earth, near the middle, where nothing would grow for a while.
+He realised where they were going halfway down the slope, and stopped. It was the field. The same field. The place where six days ago he had held his hair up off his forehead and told his teacher everything, and three domains had opened in the snow, and Mau had screamed in Rika's arms. The snow had melted from most of it since then. But there were still marks. A ring of small dark holes in the ground where swords had been. A long gouge where Gojo had gone down on his knees. A patch of earth, near the middle, where nothing would grow for a while.
 
 "Maki," said Yuta.
 
@@ -42,7 +42,7 @@ He realised where they were going halfway down the slope, and stopped. It was th
 
 Maki walked out into the middle of the field, to the patch where nothing would grow, and stopped, and turned round, and planted the butt of her spear in the earth.
 
-"Because you've been avoiding it," she said. "For four days. You walk round it. You don't look at it from the house." She looked at him. "And because it's where we had our first date."
+"Because you've been avoiding it," she said. "For six days. You walk round it. You don't look at it from the house." She looked at him. "And because it's where we had our first date."
 
 Yuta stared at her.
 
@@ -150,13 +150,13 @@ Maki did not say anything. She leaned against him, in the mud, against the fence
 
 At the top of the slope, behind the fence, someone had been watching.
 
-Not Gojo. Gojo had been caught at the top of the slope at the start of the hour by Anko, who had written him up in her notebook for the fourth violation of rule four that morning and marched him back to the house by the collar. *RULE FOUR. GOJO. AGAIN. (THIRD TODAY.) (HE SAID HE WAS 'CHECKING THE ARCHITECTURE.')*
+Not Gojo. Gojo had been caught at the top of the slope at the start of the hour by Anko, who had written him up in her notebook for the fourth violation of rule four that morning and marched him back to the house by the collar. *RULE FOUR. GOJO. AGAIN. (FOURTH TODAY.) (HE SAID HE WAS 'CHECKING THE ARCHITECTURE.')*
 
 Someone else had stayed.
 
 Mai stood at the fence at the top of the slope, alone, with her hands in the pockets of her coat. She had watched the whole hour. Nineteen times on the ground. The feint. The laugh. The kiss in the mud. The paper.
 
-She did not go down. She did not say anything. She stood at the fence and watched her sister sit in the mud at the bottom of the field, with her head on Yuta's shoulder, holding a folded square of paper that had a name on it Mai had never heard. A name from a life Mai had not been in, because, Mai knew without anyone ever telling her, she had not been there for it. She had stopped, somewhere, before it began.
+She did not go down. She did not say anything. She stood at the fence and watched her sister sit in the mud at the bottom of the field, with her head on Yuta's shoulder, holding a folded square of paper with a name on it that Mai had heard exactly once, at a low table, over crackers. A name from a life Mai had not been in, because, Mai knew without anyone ever telling her, she had not been there for it. She had stopped, somewhere, before it began.
 
 She did not know how she knew that. She had never asked. Maki had never said.
 

@@ -62,7 +62,7 @@ That was what she meant. He understood it at once, sitting on the bank, and his 
 
 And the flowers. His own. Made with his own mana, the way he had failed to make them twice in the first weeks of his life, in a field with Frieren beside him, and had finally made, months later, at fourteen minutes into the first controlled trial, with every guardrail holding. The one thing in him that was entirely his, and entirely safe, and had never once frightened anybody.
 
-She kept them. He knew she kept them. Four pressed white flowers, one for each controlled trial. The first lived in her grimoire. The other three were on the nightstand by the bed.
+She kept them. He knew she kept them. Four pressed white flowers, one for each controlled trial, between the pages of the old grimoire, which lived on the shelf in the middle of the floor now.
 
 "Okay," said Mau.
 

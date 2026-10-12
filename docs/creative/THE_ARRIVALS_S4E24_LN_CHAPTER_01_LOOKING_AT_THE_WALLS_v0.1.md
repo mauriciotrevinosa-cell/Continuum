@@ -116,7 +116,7 @@ Frieren did not move.
 
 The shelf in the middle of the floor went over.
 
-It went over all at once, as if something had pushed it. Mau heard it hit the boards. The grimoire on it, and his comb, and the cup, and the pressed flowers from the nightstand, which had been on the shelf since the queen's decree. All of it scattering across the floor.
+It went over all at once, as if something had pushed it. Mau heard it hit the boards. The grimoire on it, with the four pressed flowers between its pages, and his comb, and the cup. All of it scattering across the floor.
 
 And on the east windowsill, under the cracked glass, on Eren's stands, the two cars rocked. The red and white one and the red one, with Ori's grey stone between them. They rocked on their stands. And he heard, from very far away, the small sharp sound of something tipping over.
 

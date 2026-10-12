@@ -92,7 +92,7 @@ And now the walls were going. And behind the finished things were the other thin
 
 They did not come out right.
 
-That was what she would remember, afterward, at night, when she could not sleep. Not the Void. Not the shrine. Not the wheel. The things that came after. The things that came out wrong.
+That was what she would remember, afterward, at the reset hour, with her foot against his shin. Not the Void. Not the shrine. Not the wheel. The things that came after. The things that came out wrong.
 
 A circle of light drew itself in the air over Mau's knees. Lines and curves, very fine, very precise, the shape of a glyph. Coco's kind of glyph. Witch Hat. Drawn in light instead of ink. It got halfway. Two-thirds. And then it stopped, because there was no ink, because it had never had ink, because that was the piece it was missing. It hung there unfinished in the air and *sparked*. Hissed. Spat little flashes of white like a wire too close to water. And then it broke, and drew itself again, and got two-thirds, and broke.
 
@@ -150,7 +150,7 @@ At the fence, Yuka made a sound that was half a sob.
 
 "It's guarding him," she said. "He tamed it two days ago and it's *guarding* him. It doesn't even know what's—it's just standing there—"
 
-Ear stood over Mau in the middle of the south field and growled at everything coming out of him. Its white ear was up, flat back, listening.
+Ear stood over Mau in the middle of the south field and growled at everything coming out of him. Its white ear was up, listening; the black one lay flat back.
 
 
 

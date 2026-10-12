@@ -200,4 +200,4 @@ Not the words. The sound. A woman's voice in the corridor, crying, saying *idiot
 
 *Yes,* said Ciel. *I thought so too.*
 
-And then he slept, properly, for the first time in a day and a half. With Frieren's hands round his, and the blindfold over his eyes, and in his shadow, curled up, with its white ear up, listening, a black dog with no other name but Ear.
+And then he slept, properly, for the first time since the taming. With Frieren's hands round his, and the blindfold over his eyes, and in his shadow, curled up, with its white ear up, listening, a black dog with no other name but Ear.

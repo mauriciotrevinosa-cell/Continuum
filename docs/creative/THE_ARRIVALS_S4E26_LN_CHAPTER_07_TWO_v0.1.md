@@ -154,7 +154,7 @@ She got up. She brushed the grass off the hoodie. She looked down at Ori, sittin
 
 Ori put the stone back on the sill that afternoon. Between the cars. Exactly where it had been.
 
-Mau noticed. He came into the east room in the evening and stopped in front of the window and looked at it for a moment, the stone between the 1988 McLaren and the 2004 Ferrari, sitting a fraction to the left of where it had sat that morning. He did not ask. He did not look harder than that. He just looked at it, the way you look at a stone, and then he turned round and looked at the door between the rooms, which was open a hand's width, as always.
+Mau noticed. He came into the east room in the evening and stopped in front of the window and looked at it for a moment, the stone between the red and white car and the red one, sitting a fraction to the left of where it had sat that morning. He did not ask. He did not look harder than that. He just looked at it, the way you look at a stone, and then he turned round and looked at the door between the rooms, which was open a hand's width, as always.
 
 He went and stood in it.
 

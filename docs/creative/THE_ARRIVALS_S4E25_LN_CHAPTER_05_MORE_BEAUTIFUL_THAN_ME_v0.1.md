@@ -10,7 +10,7 @@
 
 They were in the common room. That was the mistake.
 
-It was the hundred-and-fifty-first evening, after dinner, and the long table had emptied into its usual corners. Kessoku were in the music room. The witches had gone to their north wing. Gojo and Shoko had gone out to the yard and were standing under the ink tree, arguing about something in low voices that made Shoko laugh once, short and surprised, and then stop. Seiko was asleep on her high seat with her fan open on her chest. The lamps were low. The fire in the cold hearth was red.
+It was the hundred-and-fifty-first evening, after dinner, and the long table had emptied into its usual corners. Nijika and Ryo were in the music room. The witches had gone to their north wing. Gojo and Shoko had gone out to the yard and were standing under the ink tree, arguing about something in low voices that made Shoko laugh once, short and surprised, and then stop. Seiko was asleep on her high seat with her fan open on her chest. The lamps were low. The fire in the cold hearth was red.
 
 And Mau was on the bench by the hearth, with his back against the wall, and Frieren was on top of him.
 

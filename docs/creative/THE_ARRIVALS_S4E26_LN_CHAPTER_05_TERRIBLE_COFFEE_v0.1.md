@@ -118,7 +118,7 @@ Then Kaneki laughed. It surprised both of them. A short, startled sound, out of 
 
 Kaneki looked at her. "Why not?"
 
-"Because you'd tell me if it mattered. Because you've lived in this house two years and the people here know, I think, or know enough." She looked at the cups on the shelf. "And because I spent my whole life in a school full of people whose bodies were complicated. One of them was a panda. More or less. I don't scare easily."
+"Because you'd tell me if it mattered. Because you've lived in this house more than a year and the people here know, I think, or know enough." She looked at the cups on the shelf. "And because I spent my whole life in a school full of people whose bodies were complicated. One of them was a panda. More or less. I don't scare easily."
 
 Kaneki did not answer that. But he took the pot off the flat stone, and took one cup down from the shelf, and turned it over, and poured. Black coffee, thick, bitter, steaming in the cold. He held it out.
 

@@ -228,7 +228,7 @@ Mau looked up, once, and met her eyes across the room.
 
 She did not say anything. She did not need to. He remembered what she had said to him on the south veranda, her first day, in the ugly coat. *People look at the person they're scared for.*
 
-She had been here a month. She had watched the whole house turn toward him at the sound of a pot.
+She had been here six weeks. She had watched the whole house turn toward him at the sound of a pot.
 
 She understood it now. All of it. He could see that she did.
 

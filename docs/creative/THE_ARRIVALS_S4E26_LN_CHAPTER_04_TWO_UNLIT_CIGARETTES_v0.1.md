@@ -80,7 +80,7 @@ Mau closed his eyes briefly.
 
 "I'm just going to look at the gate," he said.
 
-"Of course," said Diablo. He was wearing his butler's coat and his sash. ASSISTANT TO EVERYONE (OFFICIAL), in Umaru's crooked capitals, stitched by the fort onto a strip of red cloth that went from his shoulder to his hip. He wore it as if it were the highest honour of an ancient kingdom. "I would be delighted to accompany you. Unfortunately, the gate is closed. By the queen's sister. By decree."
+"Of course," said Diablo. He was wearing his butler's coat and his sash. ASSISTANT TO EVERYONE (OFFICIAL), in Umaru's crooked capitals, stitched by the fort onto a strip of red cloth that went from his shoulder to his hip. He wore it as if it were the highest honour of an ancient kingdom. "I would be delighted to accompany you. Unfortunately, the gate is closed. By Fern-sama. By decree."
 
 "I know. I'm only going to look."
 
@@ -242,7 +242,7 @@ Shoko looked at him across the table for a long moment.
 
 Diablo was quiet for a moment.
 
-"Mau-sama," he said, "is the reason Rimuru-sama laughed on the roof." He folded his gloved hands on the table. "In the snow. It was Mau-sama and Yuta-sama and Rimuru-sama, on the ridge of the house, and Rimuru-sama laughed. I heard it from the yard. I had never heard that sound from Rimuru-sama in any world." He paused. "If Mau-sama dies, Rimuru-sama will cry. And I have made a very public promise about what happens to anyone who makes Rimuru-sama cry." The smile widened, very slightly. "So, logically, Mau-sama is not permitted to die. I would have to kill myself, and that would be very awkward for everyone."
+"Mau-sama laughed on the roof once," he said. He folded his gloved hands on the table. "In the snow. It was Mau-sama and Yuta-sama and Rimuru-sama, on the ridge of the house, and Mau-sama laughed, for the first time up there. I heard it from the yard. And when Rimuru-sama came down the ladder, his face was doing something I had never seen it do in any world." He paused. "If Mau-sama dies, Rimuru-sama will cry. And I have made a very public promise about what happens to anyone who makes Rimuru-sama cry." The smile widened, very slightly. "So, logically, Mau-sama is not permitted to die. I would have to kill myself, and that would be very awkward for everyone."
 
 Anko stared at him.
 

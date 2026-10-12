@@ -6,7 +6,7 @@
 **Reading order:** 28  
 **Continuity state:** Day 150, evening | Diablo calls a meeting, the first ever | 'I would like to ask you to release me' / WHAT | 'I would like to be everyone's' | stands with the Guardian; helps the doctor, the kitchen, the fort | Rimuru: 'You never needed my permission' | 'But if any of you ever betray Rimuru-sama, or make him cry, I will not hesitate to kill you' / Ram: 'Acceptable' | the sash: ASSISTANT TO EVERYONE (OFFICIAL) | the blanket; he doesn't stand outside the door | Guardian / Assistant: the night watch
 
-*When: Day 150, evening. Rimuru woke as a slime the day before and has been eating steadily ever since; Shoko has taken over half of Maomao's clinic and all of her worst patients; the fort's roster still says thirty, three times a day.*
+*When: Day 150, evening. Rimuru has been awake since the hundred-and-forty-eighth and has been eating steadily ever since; Shoko has taken over half of Maomao's clinic and all of her worst patients; the fort's roster still says thirty, three times a day.*
 
 Diablo called a meeting.
 
@@ -26,7 +26,7 @@ The long table looked at the door he had gone through.
 
 Nobody answered. Nobody knew.
 
-At the cold-hearth end, in human shape for the first time since the bell, very pale, with a plate in front of him he had been eating from steadily for an hour, Rimuru had gone completely still.
+At the cold-hearth end, in human shape, very pale, with a plate in front of him he had been eating from steadily for an hour, Rimuru had gone completely still.
 
 
 
@@ -52,7 +52,7 @@ At the cold-hearth end, Rimuru had put his fork down.
 
 Nobody said anything.
 
-"And I have watched," said Diablo. "For two years. I have watched him in this house. Among you." His voice did not change. But something in it shifted. "I have watched him laugh. On a roof. In the snow. For the first time since a knife in a street, in his other life. I have watched him do nothing at all for an entire day, very badly, because a child gave him a card. I have watched him sit by a cold hearth every morning and say *looked, quiet* for someone who cannot speak aloud. I have watched him sleep. Properly. As a slime on a pillow." He paused. "I have watched him be happier here than I have ever seen him in any world."
+"And I have watched," said Diablo. "For two years. I have watched him in this house. Among you." His voice did not change. But something in it shifted. "I have watched him laugh. On a roof. In the snow. The night Mau-sama first laughed up there. I have watched him order me to do nothing at all for an entire day, because a child gave me a card, and laugh while I did it very badly. I have watched him sit by a cold hearth every morning and say *looked, quiet* for someone who cannot speak aloud. I have watched him sleep. Properly. As a slime on a pillow." He paused. "I have watched him be happier here than I have ever seen him in any world."
 
 Rimuru was looking at him now. Not moving. Not saying anything.
 
@@ -60,7 +60,7 @@ Rimuru was looking at him now. Not moving. Not saying anything.
 
 The common room was very quiet.
 
-"Not because of me," said Diablo. "I stood outside his door. That is all I did. You are the ones who made him laugh. You are the ones who gave him a card. You are the ones who sat on a roof with him." He looked down the long table. At Yuta. At Mau. At Milim, very still, with her hands in her lap. At the fort. At Seiko. "You are the ones who made him happy. All of you."
+"Not because of me," said Diablo. "I stood outside his door. That is all I did. You are the ones who made him laugh. You are the ones who gave me a card, so that he could laugh at me. You are the ones who sat on a roof with him." He looked down the long table. At Yuta. At Mau. At Milim, very still, with her hands in her lap. At the fort. At Seiko. "You are the ones who made him happy. All of you."
 
 He turned to Rimuru.
 
@@ -112,7 +112,7 @@ There was a long silence.
 
 Rimuru looked at him.
 
-Then, very slowly, Rimuru smiled. It was not a big smile. It was small and crooked and wet at the edges, and it was the smile Mau had seen on the roof in the snow, the night Rimuru laughed for the first time.
+Then, very slowly, Rimuru smiled. It was not a big smile. It was small and crooked and wet at the edges, and it was the smile Rimuru had worn on the roof in the snow, the night Mau first laughed up there.
 
 "Diablo," said Rimuru. "You don't need me to release you. You never needed my permission to be anything." He stood up. He came round the end of the long table, small and pale and very tired, and stood in front of the tall demon in the butler's coat, and looked up at him. "But if you want it—" He paused. "Then yes. Go. Be everyone's. Be part of the house." His voice cracked, a little. "You already are. You have been for a long time. You just never said."
 

@@ -208,7 +208,7 @@ Turbo Granny made a sound of profound disgust and told Okarun to keep walking. B
 
 That night, Gojo found Mau on the roof.
 
-It was Yuta's roof, really. The ridge of the real house, above the east wing, where Yuta went when he could not sleep, and where every seventh night he and Mau and Rimuru climbed up with a blanket and talked about nothing. Where, in the snow, Rimuru had laughed for the first time. Mau had not meant to come up. He had just found himself on the ladder, and then on the ridge, sitting with his knees drawn up and his arms round them. The blindfold was off. It was night. The four hours were long done. He was looking at the stars over the black hills, just the stars, the way Gojo had taught him. Not their distances. Not their names. Just lights.
+It was Yuta's roof, really. The ridge of the real house, above the east wing, where Yuta went when he could not sleep, and where every seventh night he and Mau and Rimuru climbed up with a blanket and talked about nothing. Where, in the snow, he had laughed up there for the first time. Mau had not meant to come up. He had just found himself on the ladder, and then on the ridge, sitting with his knees drawn up and his arms round them. The blindfold was off. It was night. The four hours were long done. He was looking at the stars over the black hills, just the stars, the way Gojo had taught him. Not their distances. Not their names. Just lights.
 
 Gojo came up the ladder without a sound and sat down beside him on the ridge.
 

@@ -48,7 +48,7 @@ Mau waited.
 
 Mau looked at her for a long time.
 
-He thought about the first time he had ever seen Fern. On the road, a long time ago, before the bridge, before the inn, before anything. A small serious girl walking behind Frieren with a staff and a face that said she was the only adult present. He thought about her treating him like a child when he behaved like one, and being right. He thought about her standing at the head of the long table every morning, holding the house up with a pen.
+He thought about the first time he had ever seen Fern. Behind the inn, a long time ago, in the first weeks, before almost anything. A small serious girl walking out of the trees toward Frieren with a staff and a face that said she was the only adult present. He thought about her treating him like a child when he behaved like one, and being right. He thought about her standing at the head of the long table every morning, holding the house up with a pen.
 
 He thought about the dotted wall between her room and Stark's, and the panel in it, and a sound in the night, a hand's width.
 

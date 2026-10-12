@@ -116,7 +116,7 @@ Then she took the coin out of her pocket and closed her hand round it, with the 
 
 She thought of her granddaughter.
 
-Not the coffin. She had not been there for the coffin. She had been gone already, in that life, a year before. She thought of a small girl with her hair in two pigtails on a beach, screaming *GRANDPAAA* at the top of her lungs and throwing sand at a crab. Of the same girl, a little older, at the kitchen table, demanding to be taught to fight. Of a fist, very small, very fierce, punching the air at a training post. *I'm gonna get stronger and show them.* Of a small warm weight on Maki's lap, on a porch, in the evening, falling asleep against her in the middle of a sentence about how she was going to be the strongest sorcerer in the world, stronger than Grandpa, stronger than *anyone*.
+Not the coffin. She had not been there for the coffin. She had been gone already, in that life, a few years before. She thought of a small girl with her hair in two pigtails on a beach, screaming *GRANDPAAA* at the top of her lungs and throwing sand at a crab. Of the same girl, a little older, at the kitchen table, demanding to be taught to fight. Of a fist, very small, very fierce, punching the air at a training post. *I'm gonna get stronger and show them.* Of a small warm weight on Maki's lap, on a porch, in the evening, falling asleep against her in the middle of a sentence about how she was going to be the strongest sorcerer in the world, stronger than Grandpa, stronger than *anyone*.
 
 She had not seen her grow up. She had seen her start.
 
@@ -166,7 +166,7 @@ So he kept them shut.
 
 And with them shut, in the dark behind his own eyelids, he felt it. Something far down, under everything, behind his breastbone. Turned. Not toward Gojo, this time. Not toward the gate. Toward the roof.
 
-Toward a coin, warm, in Maki's fist. Then not toward the coin. Toward what the coin had reached. Somewhere very far away. In another world. In another time. A girl, standing in a room, with something on a cord round her neck.
+Toward a coin, warm, in Maki's fist. Then not toward the coin. Toward what the coin had reached. Somewhere very far away. In another world. In another time. A girl, standing in a room, and across the room from her, on a cord, something she was not wearing.
 
 A ring.
 

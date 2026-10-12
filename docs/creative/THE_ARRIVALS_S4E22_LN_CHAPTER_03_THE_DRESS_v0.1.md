@@ -138,7 +138,7 @@ For a long time she did not say anything at all.
 
 She made him dance.
 
-There was no music. The music room was on the other side of the house and Kessoku were all on dates of their own, and nobody had thought to bring a guitar. Marin said it did not matter. She came up the steps and took his sawdust-lined hand in hers, and pulled him down into the light in front of the white wall. She put his other hand on the sash at her waist, very correctly, the way people did in the old films she loved, and put hers on his shoulder.
+There was no music. The music room was on the other side of the house, Bocchi and Kita were on a date of their own, and nobody had thought to bring a guitar. Marin said it did not matter. She came up the steps and took his sawdust-lined hand in hers, and pulled him down into the light in front of the white wall. She put his other hand on the sash at her waist, very correctly, the way people did in the old films she loved, and put hers on his shoulder.
 
 "I can't dance," said Wakana.
 

@@ -14,7 +14,7 @@ Not in water. She had drawn it in water eighty-one times on the atelier floor, a
 
 Ink did not forgive you.
 
-She had a square of pale stone on the table in front of her, the size of her hand, smooth, from the river. She had a pen. She had the small glass bottle from the end of the row on the Witch Hat shelf, which had been empty for two years except for a stain at the bottom, and which was full now, dark and real, because the ink tree in the yard had leaves on it, and the leaves gave.
+She had a square of pale stone on the table in front of her, the size of her hand, smooth, from the river. She had a pen. She had the small glass bottle from the end of the row on the Witch Hat shelf, which had been empty for two years except for a stain at the bottom, and which was full now, dark and real, because the ink tree in the yard gave a bottle a week from the notch in its bark.
 
 She had been sitting in front of the stone for a quarter of an hour without drawing anything.
 

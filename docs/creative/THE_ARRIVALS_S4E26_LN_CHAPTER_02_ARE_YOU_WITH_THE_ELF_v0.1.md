@@ -226,7 +226,7 @@ Yuka looked at her.
 
 Yuka did not say anything.
 
-"And the walls," said Frieren, "were tired before you came. They've been tired for two years. He's been tired for two years." She was quiet for a moment. "It wasn't the dog that looked at the walls. It was the eyes. The eyes would have looked whether the dog was tamed or not. They'd read everything outside, so they looked in. That was always going to happen. The day you came, it was already coming." She turned her head at last, and looked at the girl on the end of the bench, across Mau. Her green eyes were very calm. "It wasn't yours."
+"And the walls," said Frieren, "were tired before you came. They've been tired for months. He's been tired for two years." She was quiet for a moment. "It wasn't the dog that looked at the walls. It was the eyes. The eyes would have looked whether the dog was tamed or not. They'd read everything outside, so they looked in. That was always going to happen. The day you came, it was already coming." She turned her head at last, and looked at the girl on the end of the bench, across Mau. Her green eyes were very calm. "It wasn't yours."
 
 "But Fern looked at me—"
 

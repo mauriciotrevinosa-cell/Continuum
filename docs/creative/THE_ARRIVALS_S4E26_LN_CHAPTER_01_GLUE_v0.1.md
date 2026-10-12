@@ -6,7 +6,7 @@
 **Reading order:** 31  
 **Continuity state:** Days 153-154 | Yuka at the foot of the stair at dawn: 'Morning, Oppa' | the seat, the honey, the salt | woodpile, crate, bench: 'It's a public bench' | Umaru three paces behind; Gojo: 'It's a parade' / 'Mine never followed me anywhere' | Frieren's face goes smooth for two days | Yuka keeps checking his shadow | midnight: Yuka asleep in the corridor; Mai beside her | Mai and Mau, construction kin: 'Yours was a lot of bullets' / 'She thinks it's hers. Your bullets' | Maki carries her: 'Stupid first. Then real' | 'Seventeen'
 
-*When: Day 153, the morning after Gojo found his door, into the night of Day 154. Fern's halt holds: Gojo's not-looking lessons are the only lessons. Shoko has made the clinic hers between ten and four; Diablo's sash has been ironed twice; Wakana is cutting the new glass for the east window.*
+*When: Day 153, the morning after Gojo found his door, into the night of Day 154. Fern's halt holds: Gojo's not-looking lessons are the only lessons. Shoko has made the clinic hers between ten and four; Diablo's sash has been ironed twice; Wakana is cutting a proper pane for the east window, to replace the one Senku made in a hurry.*
 
 Yuka was at the bottom of the main stair when he came down.
 
@@ -204,7 +204,7 @@ And she went away down the corridor, toward her room beside Yuta and Maki's, and
 
 He sat there with Yuka for a long time.
 
-He did not wake her. He did not know what he would say if he did. He sat on the floor of the corridor in the dark, beside a girl he had known for thirteen days, who had come from the end of a life he had only heard about, carrying a ring that had crossed a world to find her. Who had sat on a bench in the common room and told him that pushing the dog down was more dangerous than letting it out. Who had stood with him in a circle in the south field and said *small, nothing big*. Who had heard Fern say *no taming* at the long table, two days after the field, and nodded very fast, and not said a word.
+He did not wake her. He did not know what he would say if he did. He sat on the floor of the corridor in the dark, beside a girl he had known for thirteen days, who had come from the end of a life he had only heard about, carrying a ring that had crossed a world to find her. Who had sat on a bench in the common room and told him that pushing the dog down was more dangerous than letting it out. Who had stood with him in a circle in the south field and said *small, nothing big*. Who had heard Fern say *no taming* at the long table, the morning after the field, and nodded very fast, and not said a word.
 
 He thought about that. About the way she had nodded.
 

@@ -14,6 +14,8 @@ not on this list. Add a line every time the creator catches a new slip.
   a poster"). Mau knew only that they were fast, "from somewhere below
   remembering". He can tell what happened *in this world*: Day 45, the cloth,
   the pencil names (V21 "Your Hoodie's Team").
+  Never name the models or years in his point of view: they are "the red
+  and white one and the red one".
 - The reset hour (V21 "Ugly Days"): his body wakes braced at the Trial anchor
   hour; Frieren puts her cold foot on his shin: "One. Still here." It is his
   anchor and her check. He does not have insomnia, and she cannot hide
@@ -25,6 +27,13 @@ not on this list. Add a line every time the creator catches a new slip.
   memories of it (V24 "Domain Clash") to that picture.
 - The house knows the number, 437 (told in V20). Frieren knows it. What
   happened inside the loops is what he keeps.
+- **Mau first saw Fern behind the inn**, when Group 2 arrived (S1 "There You
+  Are"). Frieren had lost Fern before she met Mau; he never saw them on the
+  road together.
+- **The first roof laugh was Mau's** (V21 "The Roof, Laughing", Day 26).
+  Rimuru laughs often and always has; never write that he laughed "for the
+  first time". The day off with Umaru's card was Diablo's (V21), and Rimuru
+  laughed at him.
 
 ## People
 
@@ -34,6 +43,17 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Nazuna** sleeps after breakfast and wakes an hour before dinner. Night
   shifts: V21 winter on, summer off, back on from V25 #1.
 - **Seiko** stuffed Turbo Granny into the lucky cat.
+- **Kessoku** is Bocchi, Kita, Nijika and Ryo. Only Bocchi and Kita are a
+  couple; "Kessoku were all on dates" is wrong.
+- **Kaneki** arrived in S3. By V24 he has lived here a little over a year,
+  not two.
+- **Maki died a few years before Yuta**; Yuka was ten when he died and about
+  seven when Maki did (V22 "Look at Me", V23 "Not Twice").
+- **Yuka's ring was across her room**, off the cord, when the coin found her.
+  Continuum brought it (V24 "Grandpa's Little Girl").
+- **Mai has heard the name Yuka** at the crackers table (V23 "Not Twice").
+- **Fern** is Frieren's apprentice and all but daughter, never "the queen's
+  sister".
 - **Refuge families** are otherworlders.
 
 ## Places
@@ -43,6 +63,11 @@ not on this list. Add a line every time the creator catches a new slip.
 - Frieren has no separate reading place in her room. She reads in **the
   reading chair Mau said no to** (S3 "A Small Library"; in the Muslin too).
   Never a cushion or a crate of books.
+- **The pressed flowers:** four, in the old grimoire. Since moving day that
+  grimoire sits on the shelf in the middle of the floor. The fifth went into
+  the hoodie pocket (V24 "The Fifth Flower").
+- **The east window:** cracked on Day 145; Senku's hurried pane went in on
+  Day 146; Wakana's proper pane went in on Day 162.
 - The queen's decree did **not** move the loft. Rimuru kept it and put a door
   on the ladder that latches from their side (V23 "By Decree of the Queen").
 - **The roof:** before moving day they climbed out through the loft window
@@ -57,6 +82,8 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Coins:** warm, no named metal (never "gold"). On use they go warm, warmer,
   then vanish, leaving the palm pink. The voice says "You are sure? [name]".
   That wording is intentional; do not "fix" it.
+- **The ink** comes from a notch in the trunk of the ink tree, one bottle a
+  week (V22 "Ink"). Never from the leaves.
 - **The Trial:** nobody outside saw it. The 437 deaths were told in V20.
 - **Seiko's coin** was promised on Day 40 (V21 "The List") to Yuta's teacher,
   "for his doctor", repeated on Day 130 ("I don't say things twice") and
@@ -81,6 +108,10 @@ not on this list. Add a line every time the creator catches a new slip.
   (nine days later).
 - Frieren's cold foot outside the reset hour first happens in V23 "Not Twice"
   (Day 116). After that it is rare, not "never".
+- **After the bell:** Rimuru slept as a slime in his office Days 145 to 147
+  and was up in human shape by Day 148 (V24 "Everything Stops").
+- **Check every "N days ago" against the *When:* lines.** V24 had "four days"
+  for six, "a month" for six weeks, and "two days after" for one.
 
 ## Process
 

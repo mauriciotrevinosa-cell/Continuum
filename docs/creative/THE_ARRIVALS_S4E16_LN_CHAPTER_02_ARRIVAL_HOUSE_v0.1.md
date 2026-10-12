@@ -210,13 +210,19 @@ They were sitting on the floor, the five of them, among the gathered posters, wi
 
 Nobody answered at once.
 
-"Two years," said Nijika, under her arm. "And a bit."
+"About a year," said Nijika, under her arm. "Me and Ryo."
 
-Seika opened her eyes. She looked down at her sister, and then along the wall at the other three, one at a time, slowly, as if she were counting something and did not like the total.
+"Longer," said Kita, under the other arm. "I came before them."
 
-"Three days," she said. "For me it was three days." She closed her eyes again. "You're taller. I thought I was imagining it."
+Seika opened her eyes. She looked down the wall, to the end, where Bocchi sat with the poster in her lap.
 
-Nobody said anything. On the end, Bocchi had gone very still, with the poster in her lap.
+"Two years," said Bocchi, almost too quietly to hear. "And a bit."
+
+Seika looked at her for a long time, as if she were counting something and did not like the total.
+
+"Three days," she said. "For me it was three days." She closed her eyes again. "You look older. I thought I was imagining it."
+
+Bocchi did not say anything. She had gone very still, with the poster in her lap.
 
 "There was a voice," said Seika, after a while. "At four in the morning. Last night. My last night." She paused. "I was sitting on the stage. The lights were off. I'd run out of posters." Another pause. "And a voice said— out of nowhere. Not loud. Not anything." She stopped.
 

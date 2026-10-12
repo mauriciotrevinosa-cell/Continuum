@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 31  
-**Continuity state:** Night of Day 102 to Day 103 | Seika refuses the Muslin: 'across a yard from you'; Rem lets the stove go out | Bocchi through the door: Sukuna, 'Mau-san went in front', 'He's like a brother... They look to see if he's all right'; the Trial named, not told | she can't sleep; the doors in ink, Rem's in pencil; the door with no name: Echidna's library, the first stranger who is not a stranger; a dead person's songbook; Echidna: 'Mine' | Nijika's dawn panic; a hand like a lid | 'Arrivals, one' | THE LIST: 1. Nijika: her sister. First. HERE. / 2. Rem: her sister. When we're ready | the old side of the board: FOUND: SEIKA | Nijika at the board: 'I told her a bit'; the Trial and the coins, yes; 'The rest is mine'; the only rule never written in the ledger (DH-071)
+**Continuity state:** Night of Day 102 to Day 103 | Seika refuses the Muslin: 'across a yard from you'; Rem lets the stove go out | Bocchi through the door: Sukuna (she was in the yard when Yuta carried him home), 'Mau-san stepped in front of her', 'He's like a brother... They look to see if he's all right'; the Trial named, not told | she can't sleep; the doors in ink, Rem's in pencil; the door with no name: Echidna's library, the first stranger who is not a stranger; a dead person's songbook; Echidna: 'Mine' | Nijika's dawn panic; a hand like a lid | 'Arrivals, one' | THE LIST: 1. Nijika: her sister. First. HERE. / 2. Rem: her sister. When we're ready | the old side of the board: FOUND: SEIKA | Nijika at the board: 'I told her a bit'; the Trial and the coins, yes; 'The rest is mine'; the only rule never written in the ledger (DH-071)
 
 *When: The night of Day 102 into the morning of Day 103.*
 
@@ -72,15 +72,15 @@ Then Bocchi talked.
 
 She talked the way she could only talk in the dark, to a door, with nobody looking at her face: all at once, too fast, without stopping, as if the words would go back inside if she let them rest.
 
-"There was a man called Sukuna," she said. "A long time ago. Before the Muslin. Before any of this. He wasn't a man. He looked like one. He cut a whole street in half and didn't touch it." Her breath went in, shaky. "And he came at us. The four of us. We were right there in the street, and I couldn't move, I couldn't— none of us could move." Her voice went very thin. "And Mau-san went in front."
+"There was a man called Sukuna," she said. "Before the Muslin. Before Nijika came, even. He wasn't really a man. He only looked like one." Her breath went in, shaky. "Some of them went out to stop him. Mau-san, and Frieren-san, and Yuta-san, and Rimuru-san, and some others. I stayed at the inn. I always stay." A pause. "Kita and I were in the yard when they came back."
 
-"In front," said Seika.
+"Came back," said Seika.
 
-"Of us. Of me." Something rustled in the dark, as if she had put her hand flat on her own chest. "There were stronger people there. He wasn't the strongest. He just went first. Because we were the closest." A pause. "Its arm went through him. Here. He didn't wake up for three days. We sat outside his door the whole time. Nobody thought he would."
+"Yuta-san was carrying him. Under Rimuru-san's coat. His hand slipped out, and his watch was still on it, and after that nobody asked anything." Her voice went very thin. "Sukuna was going to kill Frieren-san. And Mau-san stepped in front of her. Its hand went right through him." Something rustled in the dark, as if she had put her own hand flat on her chest. "And then he stayed. So everyone else could get away. He wasn't the strongest one there. He just went." A pause. "He didn't wake up for three days. We all thought he was dead."
 
 Seika lay very still.
 
-"And something came with it," said Bocchi. "Into his shadow. From Sukuna. It isn't him. It's the thing people are scared of, when they're scared of him. He's the one holding it." She stopped, and started again. "And after that there was a Trial. I don't know what happened in it. Nobody does. He doesn't talk about it." A pause. "He came out, and he went in front again. He always goes in front. Every time. Even when it isn't his turn. Even when it hurts him."
+"And something came with it," said Bocchi. "Into his shadow. From that night. It isn't him. It's the thing people are scared of, when they're scared of him. He's the one holding it." She stopped, and started again. "And after that there was a Trial. I don't know what happened in it. Nobody does. He doesn't talk about it." A pause. "He came out, and he went in front again. He always goes in front. Every time. Even when it isn't his turn. Even when it hurts him."
 
 She was quiet for a moment.
 
@@ -388,11 +388,11 @@ Nijika looked at him sideways for a long time, with her pink nose and her hands 
 
 Nijika nodded, slowly.
 
-"Bocchi told her about Sukuna," she said. "Last night. Through the door, in the dark. Kita heard them. The street, and you going in front." She almost smiled. "Bocchi. Talking. For ten minutes without stopping."
+"Bocchi told her about Sukuna," she said. "Last night. Through the door, in the dark. Kita heard them. The coat, and you going in front of Frieren." She almost smiled. "Bocchi. Talking. For ten minutes without stopping."
 
 Mau did not answer at once. Something in his chest had gone tight and warm at the same time.
 
-"That one's hers," he said. "She was there. She can tell it."
+"That one's hers," he said. "She was in the yard. She can tell it."
 
 Then Nijika did a thing she had never done before. She leaned sideways and bumped her shoulder against his arm, once, hard, the way she bumped Bocchi on the way to the corner where they played, and said "Okay," in a voice that was not quite steady. Then she ran back across the plaza toward the lamps, because Kita was calling her name from the veranda.
 

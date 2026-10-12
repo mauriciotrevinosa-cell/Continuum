@@ -52,7 +52,7 @@ They looked at each other, down the length of the common room, for a long time. 
 
 "Who," said Ram, "is that."
 
-"Seika," said Rem quietly. "She's— Nijika's older sister. She came last week. By coin. The first." She paused. "She said she liked you. Before you came. When I told her what you'd say."
+"Seika," said Rem quietly. "She's— Nijika's older sister. She came three weeks ago. By coin. The first." She paused. "She said she liked you. Before you came. When I told her what you'd say."
 
 Ram looked at Seika a moment longer.
 

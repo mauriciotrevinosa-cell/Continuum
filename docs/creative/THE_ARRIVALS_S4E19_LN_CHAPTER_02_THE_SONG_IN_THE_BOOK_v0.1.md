@@ -68,7 +68,7 @@ Mau poured the tea.
 
 For a while they talked about the gate.
 
-Everyone talked about the gate, now. Echidna had walked out to the red stake every day since it appeared and stood there looking at it, and had refused, politely, three times, to go in, and would not say why. Daphne wanted to know if anything in it was edible. Minerva wanted to know about the wolves, and whether anyone had been hurt, and when Mau told her about Eren's ribs and Maomao's bandages she looked at her own clean white knuckles for a long moment and did not say anything. Satella, at Mau's left, very close, holding her ALWAYS card, wanted to know about the queen.
+Everyone talked about the gate, now. Echidna had walked out to the red stake every day since it appeared and stood there looking at it, and had refused, politely, three times, to go in, and would not say why. Daphne wanted to know if anything in it was edible. Minerva wanted to know about the wolves, and whether anyone had been hurt, and when Mau told her about Eren's ribs and Maomao's bandages she looked at her own bandaged knuckles for a long moment and did not say anything. Satella, at Mau's left, very close, holding her ALWAYS card, wanted to know about the queen.
 
 "She's not queen any more," said Mau.
 

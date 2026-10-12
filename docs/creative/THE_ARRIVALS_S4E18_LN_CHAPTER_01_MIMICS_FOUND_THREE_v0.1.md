@@ -50,11 +50,11 @@ And went to wake Mau.
 
 "It's dawn."
 
-"It changed. It's new. Nobody's been in it." She was standing over the bed in the grey light with her shawl still on and snow on the hem of her skirt. "Ciel said after you'd seen the shape of it. You've seen the shape of it. Three times. Through the shadows." She paused. "Ask her."
+"It changed. It's new. Nobody's been in it." She was standing over the bed in the grey light with her shawl still on and snow on the hem of her skirt. "Ciel said after you'd seen the shape of it. You've seen the shape of it. Four times. Through the shadows." She paused. "Ask her."
 
 Mau, half asleep, asked her.
 
-*She is right,* said Ciel, after a moment, with what sounded like great reluctance. *I have seen it through five shadows, three times. I know how it is built now. Rooms. Passages. Things that fight. Things that drop crystals.* A pause. *And I know what the wheel does when it is near. It listens. It does not turn. Not yet.* Another pause. *You may go. If you go carefully. If you do not fight unless you must. And if you come out when Rimuru says.*
+*She is right,* said Ciel, after a moment, with what sounded like great reluctance. *I have seen it through five shadows, four times. I know how it is built now. Rooms. Passages. Things that fight. Things that drop crystals.* A pause. *And I know what the wheel does when it is near. It listens. It does not turn. Not yet.* Another pause. *You may go. If you go carefully. If you do not fight unless you must. And if you come out when Rimuru says.*
 
 "She says yes," said Mau.
 

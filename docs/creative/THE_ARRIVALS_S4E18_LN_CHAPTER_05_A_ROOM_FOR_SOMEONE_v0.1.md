@@ -168,4 +168,4 @@ Mau, on the rope in front of her, felt her lean her forehead against his back fo
 
 Then she let go, and stood up straight, and said, very loudly, in her Ministry voice: "*THE FORT REQUESTS THAT THE SECOND BENT BE RAISED BEFORE LUNCH.*"
 
-It was raised before lunch.
+It was raised before lunch the next day.

@@ -21,6 +21,8 @@ not on this list. Add a line every time the creator catches a new slip.
   the pencil names (V21 "Your Hoodie's Team").
   Never name the models or years in his point of view: they are "the red
   and white one and the red one".
+- **Mau's hoodie is black and orange**, with a racing team's name on it (S1;
+  V21 "What We Make Together"). Never "orange and dark blue".
 - The reset hour (V21 "Ugly Days"): his body wakes braced at the Trial anchor
   hour; Frieren puts her cold foot on his shin: "One. Still here." It is his
   anchor and her check. He does not have insomnia, and she cannot hide
@@ -68,6 +70,8 @@ not on this list. Add a line every time the creator catches a new slip.
 - **The cooper is an otherworlder**; his daughter (about eleven) is still in
   his world, not in the river towns.
 - **Refuge families** are otherworlders.
+- **Minerva's hands are bandaged** (V22 "Moving Day, Round Two"). Never "clean
+  white knuckles".
 
 ## Places
 
@@ -107,6 +111,9 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Seiko's coin** was promised on Day 40 (V21 "The List") to Yuta's teacher,
   "for his doctor", repeated on Day 130 ("I don't say things twice") and
   given on Day 132. She never "doesn't know yet" who it is for.
+- **The shop, in order:** the axe (Day 111), a box of rations, then Mikasa's
+  blades (in use by Day 130). The blades are the third purchase, not the
+  second.
 
 ## Calendar anchors
 
@@ -120,6 +127,15 @@ not on this list. Add a line every time the creator catches a new slip.
 - **The gate changes at dawn every seven days from Day 105:** 112, 119, 126,
   133, 140, 147, 154, 161, 168... (V23 shop panel: "changes in 6 days" on
   Day 106). Day 133 starts week five; Day 145 is in week six.
+- **The first party went in four times before the gate changed:** Day 109,
+  Day 110 twice, and Day 111 before noon. Ciel had seen it "four times" by
+  Day 112.
+- **The west wing:** first bent Day 115, second Days 116 and 117, third Days
+  120 and 121, fourth Days 125 to 128, last beam Day 129.
+- **Seika arrived on Day 102; Ram before dawn on Day 124.** On Day 126 Seika
+  came "three weeks ago", not "last week".
+- Frieren put the mimic grimoire down only while she filled Ram twice a day
+  (Days 124 to 129), not from the queen's second night.
 - **Roof nights and the crackers table fall on the same night**, every seven
   days: 81, 88, 95, 102, 109, 116, 123, 130... A chapter set on one of those
   nights must account for both.

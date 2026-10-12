@@ -50,7 +50,7 @@ Before that, nothing.
 
 Not darkness. Not a door that would not open. Just nothing, the way there is nothing before the first page of a book.
 
-He had a hoodie. Orange and dark blue, with the name of a racing team on it, from a year he could not place, in a world he could not remember. He had a red shirt. He knew how to make the old movie machine work, and how to do long division, and the shape of a car that went faster than anything, without knowing how he knew. Somebody had given him the hoodie, probably. Somebody had taught him long division. There must have been someone. There was always someone.
+He had a hoodie. Black and orange, with the name of a racing team on it, from a year he could not place, in a world he could not remember. He had a red shirt. He knew how to make the old movie machine work, and how to do long division, and the shape of a car that went faster than anything, without knowing how he knew. Somebody had given him the hoodie, probably. Somebody had taught him long division. There must have been someone. There was always someone.
 
 He sat under the ink tree with the coin in his fist and his eyes shut and reached for them.
 

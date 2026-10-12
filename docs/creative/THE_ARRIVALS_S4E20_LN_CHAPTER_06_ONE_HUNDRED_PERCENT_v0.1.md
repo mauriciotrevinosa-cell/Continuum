@@ -176,7 +176,7 @@ Under the long table, Maki's hand found Yuta's, and held it.
 
 That night was a roof night. It was the seventh day, and the roof was once a week now, since the snow, since the laugh. Mau climbed up first, then Rimuru, in human shape, with a blanket. Then Yuta.
 
-The snow was nearly gone off the roof of the real house. The bark shingles were wet and dark under the stars. Far off, past the north field, the blue light of the gate stood up out of the last of the snow, humming, faintly, the way it always hummed now. Week four. Mikasa had gone in that morning with Maki and Yuta and a pair of new gate-forged blades from the shop, the second thing the house had ever bought, and had come out grinning, which nobody had ever seen her do in a dungeon.
+The snow was nearly gone off the roof of the real house. The bark shingles were wet and dark under the stars. Far off, past the north field, the blue light of the gate stood up out of the last of the snow, humming, faintly, the way it always hummed now. Week four. Mikasa had gone in that morning with Maki and Yuta and a pair of new gate-forged blades from the shop, the third thing the house had ever bought, and had come out grinning, which nobody had ever seen her do in a dungeon.
 
 They sat on the ridge in a row, the three of them, and did not say anything for a while.
 

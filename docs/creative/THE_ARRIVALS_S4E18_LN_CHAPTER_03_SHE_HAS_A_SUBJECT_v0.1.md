@@ -78,7 +78,7 @@ He looked at her. "It's in the closet."
 
 "I know where it is," said Frieren. "Get it."
 
-So he went and got it. Up the main stair, down the family corridor, into the east room, past the shelf standing in the middle of the floor, to the closet in the inner corner, under Rimuru's loft, where it hung on its own hook, by itself, where it had always hung. Orange and dark blue, with the name of a racing team on it, from a year he could not place, in a world he could not remember. The thing he had woken up in, in the clearing, the first morning of his life.
+So he went and got it. Up the main stair, down the family corridor, into the east room, past the shelf standing in the middle of the floor, to the closet in the inner corner, under Rimuru's loft, where it hung on its own hook, by itself, where it had always hung. Black and orange, with the name of a racing team on it, from a year he could not place, in a world he could not remember. The thing he had woken up in, in the clearing, the first morning of his life.
 
 He brought it down to her. She put it on, over her dress, in the hall.
 

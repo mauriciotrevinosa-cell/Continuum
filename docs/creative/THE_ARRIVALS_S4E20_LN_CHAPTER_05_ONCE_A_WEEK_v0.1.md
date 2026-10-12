@@ -12,7 +12,7 @@ It was Maomao who said it out loud, at the long table, on the hundred-and-twenty
 
 "It's not sustainable."
 
-Frieren, at Mau's side, was eating her porridge very slowly. She had been in the west wing at dawn, and would be again at dusk. She had been in the west wing at dawn and at dusk for four days. She had not been to the red stake since Ram came. She had not opened her grimoire from the mimic since the queen's second night.
+Frieren, at Mau's side, was eating her porridge very slowly. She had been in the west wing at dawn, and would be again at dusk. She had been in the west wing at dawn and at dusk for four days. She had not been to the red stake since Ram came. She had not opened her grimoire from the mimic in all that time.
 
 "Twice a day," said Maomao. "Every day. A quarter of an hour each time, and she comes back looking like she's carried water from the river." She looked at Frieren. "You've got more than anyone in this house. But it's not bottomless. And she can't go anywhere. Not the gate. Not more than a day's walk. If something happens to Frieren, or Frieren has to leave—" She stopped. "Ram has two days. Maybe three."
 

@@ -66,11 +66,11 @@ He held the lamp. In case. With one hand, while his other arm was round her, and
 
 "Tell me about the cars," said Frieren.
 
-He told her about the cars. The red and white one and the red one. Who had driven them, in his world, in races she would never see. The names underneath. The men who had driven them, and how fast, and how one of them had died. She had heard it before. She had heard it ten times. She listened as if she had never heard it at all.
+He told her about the cars. Not where they came from. He did not know where they came from; nobody in the house did, except Rimuru, and Rimuru only from a drawing in his head. He told her what he knew. The morning of the forty-fifth day, and the cloth. The red and white one and the red one. How he had picked up the first one and not known what it was, and known it was fast anyway, from somewhere below remembering. The underside, round and round in pencil, thirty hands. *Marin*, with a heart. *Wakana*, carved more than written. She had been there. She had heard it ten times. She listened as if she had never heard it at all.
 
-"Again," she said, when he finished. "The part about the rain."
+"Again," she said, when he finished. "The part where you didn't know what it was."
 
-He told her the part about the rain again.
+He told her the part where he didn't know what it was again.
 
 "Your voice is nice," said Frieren, with her eyes shut. "When you talk about things you love. It goes lower. Did you know that?"
 

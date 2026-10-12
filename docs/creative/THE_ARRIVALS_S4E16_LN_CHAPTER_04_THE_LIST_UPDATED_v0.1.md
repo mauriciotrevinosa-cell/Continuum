@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 22  
 **Reading order:** 31  
-**Continuity state:** Night of Day 102 to Day 103 | Seika refuses the Muslin: 'across a yard from you'; Rem lets the stove go out | Bocchi through the door: Sukuna (she was in the yard when Yuta carried him home), 'Mau-san stepped in front of her', 'He's like a brother... They look to see if he's all right'; the Trial named, not told | she can't sleep; the doors in ink, Rem's in pencil; the door with no name: Echidna's library, the first stranger who is not a stranger; a dead person's songbook; Echidna: 'Mine' | Nijika's dawn panic; a hand like a lid | 'Arrivals, one' | THE LIST: 1. Nijika: her sister. First. HERE. / 2. Rem: her sister. When we're ready | the old side of the board: FOUND: SEIKA | Nijika at the board: 'I told her a bit'; the Trial and the coins, yes; 'The rest is mine'; the only rule never written in the ledger (DH-071)
+**Continuity state:** Night of Day 102 to Day 103 | Seika refuses the Muslin: 'across a yard from you'; Rem lets the stove go out | Bocchi through the door: Sukuna (she was in the yard when Yuta carried him home), 'Mau-san stepped in front of her'; the containment, playing through the wall; 'And then he did a Trial. Things happened in it... That part's his'; 'He's like a brother... They look to see if he's all right' | she can't sleep; the doors in ink, Rem's in pencil; the door with no name: Echidna's library, the first stranger who is not a stranger; a dead person's songbook; Echidna: 'Mine' | Nijika's dawn panic; a hand like a lid | 'Arrivals, one' | THE LIST: 1. Nijika: her sister. First. HERE. / 2. Rem: her sister. When we're ready | the old side of the board: FOUND: SEIKA | Nijika at the board: 'I told her a bit'; the Trial and the coins, yes; 'The rest is mine'; the only rule never written in the ledger (DH-071)
 
 *When: The night of Day 102 into the morning of Day 103.*
 
@@ -80,7 +80,11 @@ She talked the way she could only talk in the dark, to a door, with nobody looki
 
 Seika lay very still.
 
-"And something came with it," said Bocchi. "Into his shadow. From that night. It isn't him. It's the thing people are scared of, when they're scared of him. He's the one holding it." She stopped, and started again. "And after that there was a Trial. I don't know what happened in it. Nobody does. He doesn't talk about it." A pause. "He came out, and he went in front again. He always goes in front. Every time. Even when it isn't his turn. Even when it hurts him."
+"And there's something in his shadow now," said Bocchi. "It isn't him. It's the thing people are scared of, when they're scared of him. He's the one holding it." She stopped, and started again. "Once, something went wrong inside him, and Rimuru-san had to hold him. Inside himself. For days. We all waited. Kita sat with me in the corridor, and I played through the wall." A pause. "In case he could hear."
+
+Seika did not say anything.
+
+"And then he did a Trial," said Bocchi. "Things happened in it." She stopped there, the way she stopped at the edge of a stage. "That part's his." A pause. "He came out, and he went in front again. He always goes in front. Every time. Even when it isn't his turn. Even when it hurts him."
 
 She was quiet for a moment.
 

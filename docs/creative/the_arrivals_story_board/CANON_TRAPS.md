@@ -32,8 +32,13 @@ not on this list. Add a line every time the creator catches a new slip.
 - **The Gojo loop** (V20 "Breathe With Me"): a street of white light, a man
   with something over his eyes and a smile like a door left open. Keep later
   memories of it (V24 "Domain Clash") to that picture.
-- The house knows the number, 437 (told in V20). Frieren knows it. What
-  happened inside the loops is what he keeps.
+- **The house knows what happened in the Trial.** Mau told it on the night of
+  Day 5 (V20 "Rule Five" to "The Last Two"): 437, every time, the loops. He
+  never told the Gojo loops (V24 "Domain Clash"). Arrivals are not told
+  (DH-071).
+- **Don't date the thing in his shadow to the Sukuna night.** The creator
+  isn't sure when it came; the first sign on the page is a night in the
+  Muslin (recalled in V23 "Mimics Found: Three").
 - **Mau first saw Fern behind the inn**, when Group 2 arrived (S1 "There You
   Are"). Frieren had lost Fern before she met Mau; he never saw them on the
   road together.
@@ -114,9 +119,9 @@ not on this list. Add a line every time the creator catches a new slip.
   house's quiet rule, never written in the ledger (V22 #31): tell them about
   the Trial and that the coins came out of it, never what happened inside.
   Seika has only Nijika's "Not all of it. Enough." (V22 #30). Frieren breaks
-  it once, on purpose, for Gojo (V24 #6). Nobody, the house included, knows
-  what was inside the loops. Never let an arrival talk about the cost as if
-  told (DH-071).
+  it once, on purpose, for Gojo (V24 #6). The house itself knows; the rule is
+  only about arrivals. Never let an arrival talk about the cost as if told
+  (DH-071).
 - **Seiko's coin** was promised on Day 40 (V21 "The List") to Yuta's teacher,
   "for his doctor", repeated on Day 130 ("I don't say things twice") and
   given on Day 132. She never "doesn't know yet" who it is for.

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 5  
-**Continuity state:** Day 133 | the guardrails lifted on purpose | the snow hangs; the Shrine and Mau's Void: 'That's mine... and that's his' | four seconds before Continuum catches up: Gojo's true Void meets the stolen one; Mau bears it | Yuta's domain flickers: swords, Rika | 'Wait. That's mine. That stance... You've fought me before' (the Trial) | Red; Mau goes slime (Rimuru: 'that's my body') | the wheel above Mau: 'That's how he killed me' | Rika catches him; Maki's spear: 'Sit down, Satoru' | the nerf lands; Gojo's eyes, sky-blue, afraid
+**Continuity state:** Day 133 | extended defensive exchange and shared field geography; interrupted preview, no new outcome | the guardrails lifted on purpose | the snow hangs; the Shrine and Mau's Void: 'That's mine... and that's his' | four seconds before Continuum catches up: Gojo's true Void meets the stolen one; Mau bears it | Yuta's domain flickers: swords, Rika | 'Wait. That's mine. That stance... You've fought me before' (the Trial) | Red; Mau goes slime (Rimuru: 'that's my body') | the wheel above Mau: 'That's how he killed me' | Rika catches him; Maki's spear: 'Sit down, Satoru' | the nerf lands; Gojo's eyes, sky-blue, afraid
 
 *When: Day 133, the same afternoon, the same field. The house at the fence at the top of the slope.*
 
@@ -30,7 +30,35 @@ Gojo turned on him. Not a punch. Not anything a person would do. He turned, and 
 
 Gojo was coming.
 
-And something in Mau had stopped listening and started *answering*.
+Mau stood before he reached him. He put himself on the line between Gojo and Yuta again, and Gojo saw him do it.
+
+The first punch stopped short of Mau's face.
+
+Mau's hands went up anyway. He had seen the shoulder move, had felt his own weight shift to meet it. Then Gojo's other hand caught his sleeve, pulled him off balance and drove a knee into his ribs. There was nothing infinite about the pain. Mau lost his breath and a whole step of ground.
+
+He reached for the arm holding him. His fingers slowed before the cloth. Gojo let go, and Mau's hand finished closing on empty air.
+
+There was no opening he could keep.
+
+He tried the outside of the wrist, then the elbow, then the shoulder. Each time, the distance that looked like an inch became something his arm could not finish crossing. Gojo walked him backward through the snow without hurrying. A hand on his coat when Gojo wanted it there. Nothing to take hold of when Mau reached back.
+
+"You can stand there," Gojo said. "You can't stop me."
+
+Mau spat into the snow. There was blood in it.
+
+Behind Gojo, Yuta took a step toward them. Mau saw him start and tried to shake his head. Gojo followed his glance, and Mau had to move again to stay between them.
+
+That was all he had managed. To keep getting in the way.
+
+Gojo's next blow met both his forearms. Mau's heels cut two tracks in the snow. He held for a moment, arms shaking, close enough to see a loose white hair caught against the blindfold.
+
+Then Gojo changed the angle, and the hold was gone.
+
+Mau staggered sideways. He caught himself with one hand, pushed up, and found Gojo already turning past him toward Yuta.
+
+He went back across the line.
+
+This time, something in Mau had stopped listening and started *answering*.
 
 *Mau,* said Ciel, very sharply. *Mau. Stop. Stop looking. Analyze is—*
 
@@ -51,6 +79,14 @@ Down in the field, the snow around Mau lifted.
 Not blown. Lifted. Every flake in a circle twenty paces wide rose off the ground at once and hung in the air, perfectly still, like the snowball an inch from Gojo's coat. Because it had stopped. Because the space around Mau had begun, very gently, to slow everything down forever.
 
 "Oh," said Gojo, stopping. "*Oh*, you little—"
+
+Gojo lifted one hand. Mau lifted his too, a fraction after him.
+
+At the fence, Yuta's old teacher and the person who had stepped in front of him stood on opposite sides of the hanging snow. Neither was watching the snow. Both were watching the other's hand.
+
+The resemblance was worse than the lifted flakes.
+
+Frieren put her palm on the top rail. She could feel the timber beneath it. She held on to that while the space below the slope stopped looking like a place she could simply fly into and bring him back from.
 
 And then the domains opened.
 
@@ -102,6 +138,44 @@ He did not go down. Because the wheel was turning, and turning, and Analyze had 
 
 And Mau, inside two Voids, for one instant, bore it.
 
+There was no longer a field he could look across. There were more edges than space to put them in. Every direction arrived with its distance, its pressure, its next possible movement. Gojo was in front of him, and the shape of the Infinity was in front of him, and he could not make either of them smaller.
+
+He brought his left hand back.
+
+Gojo moved.
+
+Mau saw the foot leave the snow. He did not see it land. The man in front of him was gone, and the hand coming toward his head belonged to the man beside him.
+
+Mau vanished before it reached him.
+
+He arrived badly. A pace too far, with his weight still going the way it had gone in the place he had left. His knee struck the ground. The snow under it had a different texture, and the eyes told him exactly how different, down to things he had no names for.
+
+He could not shut any of it out.
+
+Gojo was there before Mau stood. Mau rolled beneath the reaching arm, came up inside the arc of it and drove his palm toward Gojo's chest.
+
+It slowed.
+
+Still Infinity. Even here. Even with everything open.
+
+Gojo caught him at the back of the neck and turned him. For a fraction of the movement Mau's feet left the ground. He disappeared out of the grip and came back on the other side, coughing, his left hand raised before he knew what he was trying to do with it.
+
+Gojo had already turned to meet him.
+
+Their hands stopped inches apart. Between them, the suspended flakes flattened into a narrow white seam. Mau felt the pressure through his teeth. Behind the shape of Gojo's head, the two black boundaries shuddered against each other; beyond those, the shrine's cutting went on.
+
+The hand stopped. The rest of him did not.
+
+Gojo opened the last inch to take hold of him. Mau's shoulder struck him inside the turn, and both of them moved. Not far. Enough to tear the frozen crust beneath their boots into strips. Enough for Mau to feel, at last, the weight of another body instead of a distance he could never cross.
+
+Then Gojo was out of reach again.
+
+Mau had gained nothing he could hold. His ribs hurt. His hand would not quite close. Every time he moved, the seeing gave him more than he had asked for, and something inside him tried to use all of it at once.
+
+Gojo looked at him across the disturbed snow. His breath had become visible between them.
+
+Mau could see where Yuta was. He moved back toward him before Gojo moved again.
+
 
 
 And then a third thing happened, which nobody had planned, least of all Yuta.
@@ -117,6 +191,16 @@ Not a hole. A field. A field of swords, hundreds of them, driven point-down into
 *Rika,* said Ciel, sounding, for the first time Mau had ever heard, frightened. *That is—Yuta's—that should not be possible at his—*
 
 Three domains. A shrine. Two Voids. A ring of swords. The south field in the grey afternoon, and the house at the fence, and the snow hanging in the air in a circle twenty paces wide, not falling.
+
+One of the swords stood beside Mau's boot. Another was behind Gojo. They had not been there when either of them chose where to put his feet.
+
+Yuta's hand hovered above a hilt. It did not close.
+
+He was looking from his teacher to Mau, trying to get a word through a space that had become crowded with the things all three of their bodies could do. Rika's pale shape bent lower over him.
+
+On the slope, Maki was already moving. The others saw the empty place beside them before they saw her below it, spear low, finding the edge she could approach.
+
+There was no safe turn to wait for. The field did not have turns anymore.
 
 
 
@@ -185,6 +269,20 @@ His voice was very quiet. Very clear.
 The wheel turned once more over Mau's head. *Click.* A sound like a great lock moving.
 
 Mau did not know it had turned. Mau was not there. Mau's body was in the Trial, on the last try, the one that counted, and it was doing what it had done, and it was nearly done.
+
+His left foot slid back. His right shoulder lowered.
+
+Gojo saw the change and moved his hand away from the line Mau was watching. The delight had gone, but he did not retreat. His other hand rose, and the snow between them began to pull out of its neat suspended shapes.
+
+At the fence, Frieren saw Mau's mouth move. No sound reached her. He was looking at the man in front of him with an expression she had never seen on him in the waking house.
+
+She called his name.
+
+Neither man turned.
+
+The wheel reached the next spoke. Mau began the movement his body remembered. Gojo set himself to answer it.
+
+Neither finished.
 
 
 

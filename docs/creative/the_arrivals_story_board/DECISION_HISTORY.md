@@ -1458,3 +1458,15 @@ Creator-approved replacement of the ending of V23 #16, Something Small; the sout
 - Day 120: Ori comes to wake them for breakfast, finds them sleeping and joins them. Mau, held from behind by Frieren, embraces Ori in his sleep. All three miss breakfast. Milim wakes them because Ori promised to play.
 - V23 #17 breakfast continuity adjusted: the three are absent during the bee family's early announcement, food is kept for them, and Fern briefs them after they come down with Milim. Momo makes a modest household comment. Packing and the Day 121 escort remain intact.
 - No one learns the nightmare's titles or content through this scene. Arrival knowledge limits, the Trial's constructed nature, Mau's unknown species and existing guardrails remain unchanged.
+
+
+## DH-079 — Gojo fight: expanded, interrupted preview (creator, 2026-10-13)
+
+The creator wants the encounter to feel large but interrupted: a preview of what Mau and Gojo could eventually do, not a cramped exchange or a finished full-power battle. Expansion executed within the existing Domain Clash chapter; chapter order and the adjacent confession / aftermath are unchanged.
+
+- Give the defensive physical exchange before the leak more room. Mau keeps putting himself between Gojo and Yuta; he cannot casually bypass Infinity, and bodily cost is visible.
+- Expand sensory scale and choreography within the existing brief guardrail slip: reciprocal spatial movement, unstable arrivals for Mau, pressure between the overlapping domains, Yuta's involuntary protective manifestation, and Maki approaching the edge.
+- Preserve DH-057–060 and DH-075: Analyze reads/builds the eyes; the wheel accelerates the process. No instantaneous mastered Six Eyes, new permanent unlock or independent desire assigned to the wheel.
+- The established short slip and two-second final exchange are not prolonged into minutes. Increased prose is closer observation, not additional in-world full-power duration.
+- Preserve the original Red / slime response, wheel recognition, Rika and Maki interruption, Continuum clamp, bodily cost and private aftermath. The next exchange starts but cannot finish. No winner, extra completed finisher or new technique is added.
+- Preview of scale and danger, not proof of either character's final ceiling. No settlement destruction or new injury needing downstream retcons.

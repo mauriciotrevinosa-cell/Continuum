@@ -27,6 +27,11 @@ not on this list. Add a line every time the creator catches a new slip.
   hour; Frieren puts her cold foot on his shin: "One. Still here." It is his
   anchor and her check. He does not have insomnia, and she cannot hide
   sleeplessness from him.
+- **V23 Something Small's destruction dream is a Trial scenario**, not a
+  recovered pre-clearing life. Demon Lord and God of Destruction are remembered
+  titles inside that fragment, not current ranks or unlocked powers. Its
+  unidentified deadlock is not the S5 Exchange war. Only Mau experiences the
+  nightmare; the household does not acquire its contents (DH-078).
 - **Inside the Trial he saw nothing of the outside.** He heard Frieren's voice
   once, at the very end (S3 "Everyone Came"). He never saw her at the wall.
 - **The Gojo loop** (V20 "Breathe With Me"): a street of white light, a man

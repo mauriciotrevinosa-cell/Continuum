@@ -4,9 +4,9 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 16  
-**Continuity state:** Days 118-119 | Mikasa and Eren walk the merchant to the ford; 'Monster town' is a name now | dusk in the low woods: muttering voices, what the towns say | a child-sized grey thing covered in faces turned away: 'Go back where you came from' | steel works; two cuts; it shrinks to nothing, smelling of wet paper | SIGHTINGS p.3 | nobody thinks much of it; Mau goes still at 'the one with the shadow' and looks south at the reset hour
+**Continuity state:** Days 118-119 | Mikasa and Eren walk the merchant to the ford; 'Monster town' is a name now | dusk in the low woods: muttering voices, what the towns say | a child-sized grey thing covered in faces turned away: 'Go back where you came from' | steel works; two cuts; it shrinks to nothing, smelling of wet paper | SIGHTINGS p.3 | most of the table moves on; Mau goes quietly to bed, Frieren follows; Yuta recalls the two-day departure | Trial nightmare: destruction, 'Monster', 'Demon Lord', 'God of Destruction', unidentified deadlock; no present power unlock | cold foot, 'One', his name, 'Still here' | bathroom trembling, honest 'A bit', Frieren holds him | Day 120: Ori joins them asleep; the three miss breakfast; Milim comes for promised play
 
-*When: Days 118 and 119. The west wing was rising a bent at a time, Seika and Bocchi were already on the ninth song, and the gate was about to change.*
+*When: Days 118 and 119, into the morning of Day 120. The west wing was rising a bent at a time, Seika and Bocchi were already on the ninth song, and the gate was about to change.*
 
 The merchant came up the bridge road on the hundred-and-eighteenth day, on time for once, with his hired guard and his mule and a cart that rode level. He sold Momo salt and lamp oil and three bolts of plain cloth, and bought forty pots of hand cream from Maomao at a price that made Fern's pen stop moving. Then he stood in the plaza with his hat in his hands and asked, very politely, if anyone would walk him back as far as the ford.
 
@@ -184,24 +184,216 @@ Senku wanted to know what it was made of, and was disappointed to hear there was
 
 Then it moved on. There were other things to talk about. The west wing's third bent was going up in the morning. The gate had changed again that dawn, into its third week, into something with water in it, and nobody had gone in yet. Seika had agreed to teach Kita a chord. Momo wanted to know who had eaten the good honey.
 
-Nobody thought much of it.
+Most of the table went with it.
 
-That was what Mikasa remembered, later, much later, when it mattered. That it had been small. That it had gone down in two cuts. That it had left nothing. That they had told the long table, and Anko had written it down, and the long table had listened, and nodded, and gone on to the honey.
+Mau had listened to all of the report. He had not asked a question. At *the one with the shadow*, his fingers had stopped on the side of his bowl. They had not started again.
 
-That nobody had thought much of it at all.
+He waited until Mikasa finished. Then he put his spoon down and stood.
 
-Except, perhaps, one person.
+"I'm going to bed," he said.
 
-Mau had been at the table. He had listened to all of it. And when Mikasa said *the one with the shadow*, in the thing's voices, she had seen him go still, for a moment, at the far end, beside Frieren. Very still. The way he went still when something behind his breastbone lifted its head.
+Nothing else. He did not take his bowl to the kitchen.
 
-He did not say anything. When the table moved on to the honey, he moved on too.
+Frieren looked up. For a moment she was looking at a different evening, at the backpack, at the place where he had stood to tell them he was going away for two days.
 
-But that night, Frieren told Fern, much later, she woke at the reset hour and found him at the east window, by the cars, looking south. Not north, toward the gate. South. Toward the river valley and the low woods, where there was nothing to see.
+Then she got up too.
 
-She got up and stood beside him, and put her cold foot on top of his.
+After they had left, Yuta looked at the empty place.
 
-"One," she said. "Still here."
+"He got up like that before the two days," he said, quietly.
 
-"Still here," said Mau.
+Fern looked toward the stairs.
 
-But he did not come back to bed for a long time.
+"He said bed," she said.
+
+Rem took his bowl to the kitchen. There was still enough in it to keep.
+
+
+
+Frieren caught him before the bedroom door.
+
+He turned at her footsteps. She had meant to ask something. He saw her face before she found the words.
+
+Mau put his arms round her.
+
+She stood very still for a moment. Then her hand closed in the back of his shirt.
+
+"I'm sorry," he said. "I worried you."
+
+"Are you going somewhere?"
+
+"No. Just bed." His cheek rested against her hair. "Sleep caught up with me. That's all."
+
+She held him a little longer than he had expected.
+
+He did not let go first.
+
+Inside, he took off his boots and lay down. Frieren pulled the blanket over him. He was asleep before she had finished straightening its edge.
+
+
+
+In the Trial, there had been a life after the last person died.
+
+He had not died with them.
+
+The dream did not give him the beginning. No road leading there. No face he could save by reaching sooner. Only the part after, when there was nobody left to call him home.
+
+A street broke beneath his feet.
+
+People ran. Someone fell. He turned toward the sound and something else broke, farther away, where he had not meant to look.
+
+*Monster.*
+
+The word came from a mouth he could not find.
+
+Then from another.
+
+He remembered trying to stop. He remembered that the place where he stopped became another place people had to flee.
+
+There had been a title, in that life.
+
+*Demon Lord.*
+
+He had become one. The dream gave him that much without giving him back the people who might have known what to do with it.
+
+It went on.
+
+He could not tell how much time passed between one ruined place and the next. The voices changed. The words changed.
+
+*God of Destruction.*
+
+He had heard that too.
+
+It had not been his name.
+
+At the end of the fragment, something held him. Or met him. He could not remember its face, its shape, whether it had a voice. Only the pressure of it, and his own, locked against each other. Nothing advancing. Nothing ending.
+
+He pushed.
+
+It did not move.
+
+He could not stop pushing.
+
+
+
+Something cold touched his shin.
+
+It did not belong there.
+
+"One."
+
+The pressure stayed. He was still in it. His hands were closed, though he could not see them.
+
+The cold moved against his leg again.
+
+"Mau."
+
+He took a breath that hurt.
+
+A ceiling. Timber. The blanket against his fingers. Frieren beside him, awake now, looking at him in the dark.
+
+"Still here," he said.
+
+She put her hand over one of his.
+
+He looked at it until he could open his fingers. Then he moved the blanket aside.
+
+"Where are you going?"
+
+"Bathroom."
+
+He sat on the edge of the bed first. Both feet on the floor. When he stood, he knew he was standing.
+
+
+
+He closed the bathroom door without letting the latch sound.
+
+His hands would not stop shaking.
+
+He put them against the basin. They shook there too. Water ran over his fingers, and he watched it go down the drain, and waited for his knees to believe the floor.
+
+Nobody was calling him anything.
+
+There were no footsteps running away from him. Through the wall, the house made its small night sounds. A board settling. Water in a pipe. Someone closing a door, carefully, farther down the passage.
+
+He knew where he was.
+
+His hands kept shaking anyway.
+
+He stayed until he could turn the water off without missing the tap.
+
+
+
+Frieren was half awake when he came back. Her eyes opened at the edge of the blanket lifting.
+
+"Better?"
+
+"A bit."
+
+She moved closer. When he lay down, her arm went round him from behind, and her forehead rested between his shoulders.
+
+He put his hand over hers.
+
+She did not ask him to explain it in the dark.
+
+After a while, her breathing lengthened. He listened. His hands were not quite steady yet, but he could feel hers beneath one of them, warm now, and the bed holding both of them.
+
+He slept.
+
+
+
+Ori came to wake them for breakfast.
+
+She knocked softly and pushed the door open a little.
+
+"Mau?"
+
+Neither of them answered.
+
+Frieren was behind him, her arm still round his middle. His face had sunk into the pillow. The room was full of pale morning light, and they looked so deeply asleep that Ori stopped in the doorway.
+
+She had meant to tell them Momo was putting the bowls out.
+
+Instead she shut the door quietly behind her, took off her slippers and climbed in at the edge of the bed in front of Mau.
+
+He moved without opening his eyes. An arm came round her, and she settled against him, and for a moment his hand rested on her back.
+
+Ori closed her eyes.
+
+Downstairs, breakfast went on without them.
+
+
+
+Milim found them after the bowls had been cleared away.
+
+"Ori."
+
+No answer.
+
+"*Ori.*"
+
+Ori stirred. Mau opened one eye. Behind him, Frieren made a small sound into his shoulder.
+
+Milim stood by the bed with her hands on her hips.
+
+"You promised we'd play after breakfast."
+
+Ori blinked at her.
+
+"Breakfast?"
+
+"Finished. Ages ago."
+
+Mau lifted his head. His arm was still round Ori. Frieren's was still round him.
+
+"All of it?" he asked.
+
+"Yes. All of it. And I waited."
+
+Frieren opened her eyes at last.
+
+"Five minutes," she said.
+
+Milim looked at the three of them.
+
+"That's what you said yesterday."

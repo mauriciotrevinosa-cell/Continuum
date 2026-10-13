@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 17  
-**Continuity state:** Days 120-121 | the woman who kept bees: 'It's not you. It's the road.'; her sister in the river towns | no fuss: Momo's food and the good honey, Wakana's wheel, Maomao's bag, Kusuri's first pot | Daphne keeps the bees: 'If you come back, they will know you' | Umaru's pass: VALID: WHENEVER YOU COME BACK; the cushion kept | the walk to the ford; 'That's who you are. Not what they say.' | the girl holds up the pass from the far bank
+**Continuity state:** Days 120-121 | Mau, Frieren and Ori miss the early breakfast; Fern briefs them when they come down; Momo kept their food | the woman who kept bees: 'It's not you. It's the road.'; her sister in the river towns | no fuss: Momo's food and the good honey, Wakana's wheel, Maomao's bag, Kusuri's first pot | Daphne keeps the bees: 'If you come back, they will know you' | Umaru's pass: VALID: WHENEVER YOU COME BACK; the cushion kept | the walk to the ford; 'That's who you are. Not what they say.' | the girl holds up the pass from the far bank
 
 *When: Days 120 and 121, the mornings after the thing in the woods was told at the long table, while the west wing's third bent went up.*
 
@@ -25,6 +25,8 @@ Fern did not say anything.
 
 
 She explained it at the long table, with the house coming down to breakfast round her in twos and threes and stopping when they saw her face, and sitting down quietly, and listening.
+
+Mau, Frieren and Ori were still asleep upstairs. Their three places stayed empty. Rem had told Momo about the untouched bowl the night before; Momo kept breakfast for them at the back of the kitchen.
 
 It was the thing in the woods, she said. Not because it was dangerous. Mikasa and Eren had said it was small, and it went down in two cuts, and she believed them. It was what it had *said*.
 
@@ -53,6 +55,16 @@ She did not write anything. She held it, over the page, for a long moment, and t
 
 
 The house did not make a fuss.
+
+When Mau, Frieren and Ori came down, Milim was with them. Ori took the bowl Momo had kept and sat beside her. Frieren stayed close to Mau while Fern told him what the woman had asked.
+
+"Three bowls," Momo said, setting the other two down. "Next time, send word before you all go back to sleep."
+
+"We didn't plan it," said Mau.
+
+"I know." She pushed the bread toward him.
+
+By then, the house was already helping the family pack.
 
 Mau noticed it again, the way he had noticed it on the night Nijika held her coin. Nobody said *stay*. Nobody said *it's the worst time*. Nobody told the woman who kept bees that the road would get better, because nobody believed it would, and she would have known.
 

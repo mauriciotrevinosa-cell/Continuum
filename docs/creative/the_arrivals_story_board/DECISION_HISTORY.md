@@ -1445,3 +1445,16 @@ Full beats and grounding are in `FLOATING_IDEAS.md` under "The shadow ant". Plac
 - Checked against: the week-two ruin; nobody in the gate Days 113 to 117 (Pallets); the merchant later on Day 118; Frieren never putting the grimoire down before Day 124; the reading chair in the east room; the cold foot's first time on Day 116; Yuta's signature from the first run; V24's "every place where they had been mended".
 - What The Noise is leaning toward stays open. The S5 shadow ant (DH-076) is one possible payoff, but nothing on the page commits to it.
 
+
+
+## DH-078 — Something Small: Trial nightmare and the missed breakfast (creator, 2026-10-13)
+
+Creator-approved replacement of the ending of V23 #16, Something Small; the south-road encounter and SIGHTINGS report remain unchanged. Replaces the earlier east-window / southward vigil ending.
+
+- Mau listens silently to the report, then says he is going to bed. Yuta notices that his departure resembles the earlier two-day departure; this is a personal observation, not knowledge of Mau's nightmare or a house veto.
+- Frieren follows in fear of another departure. He embraces her, apologizes for worrying her, and says he is only tired. He genuinely sleeps; do not turn this into a secret expedition.
+- **New creator-directed Trial fragment:** after everyone dies in a constructed Trial life, Mau survives and goes on a destructive rampage. He remembers being called Monster, becoming a Demon Lord there, later hearing God of Destruction, and an unresolved deadlock whose opponent he cannot recall. These are nightmare fragments from a Trial scenario, not recovered pre-clearing biography, current species, rank, accessible power or an identified future enemy. Do not conflate this unknown deadlock with the separate S5 Exchange war (DH-076).
+- Frieren's cold foot reaches him at the reset hour. He initially fails to respond to One; she says Mau; he answers Still here. He goes to the bathroom and waits for the trembling to ease. On return he answers Better? honestly: A bit. She holds him and they sleep; comfort does not erase the trauma.
+- Day 120: Ori comes to wake them for breakfast, finds them sleeping and joins them. Mau, held from behind by Frieren, embraces Ori in his sleep. All three miss breakfast. Milim wakes them because Ori promised to play.
+- V23 #17 breakfast continuity adjusted: the three are absent during the bee family's early announcement, food is kept for them, and Fern briefs them after they come down with Milim. Momo makes a modest household comment. Packing and the Day 121 escort remain intact.
+- No one learns the nightmare's titles or content through this scene. Arrival knowledge limits, the Trial's constructed nature, Mau's unknown species and existing guardrails remain unchanged.

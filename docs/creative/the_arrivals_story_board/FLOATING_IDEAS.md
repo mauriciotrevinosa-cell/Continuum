@@ -225,3 +225,14 @@ The creator, reading V22's second tea, asked for it and then gave the shape. **P
   - **The question she has never asked:** why he kept a room, for a whole season, for a maid who was only passing through. Mau: "You weren't passing through. You were looking for somewhere to stop being careful."
   - **Keep the pencil.** "That's why pencil is fine" is her line; don't turn ink into a payoff that undoes it.
   - **Placement:** V25, so it is built before the door (S4's close / S5).
+
+
+## S5 — Dungeon evolution / expanded shop (creator seed, 2026-10-12; PENDING REVIEW)
+
+Preserve for S5: after the dungeon has been operating for a while, it may undergo a broader evolution, with a possible expansion of the shop to include collectibles, grimoires and other magical objects. The creator wants to revisit this later, not implement it in the current chapters.
+
+- This is an unplaced idea, not an executed event or a final shop inventory.
+- Distinguish this possible broader evolution from the already-established weekly dungeon changes.
+- Current S4 shop remains unchanged: WEAPONS, ARMOUR, CONSUMABLES, MATERIALS, SPECIAL; no grimoires on the visible list. Do not retroactively add a collectibles category or populate locked SPECIAL entries.
+- Open for later review: timing, evolution trigger, whether there is a new category or an expansion of SPECIAL, exact items, costs, rarity and the balance between shop purchases and dungeon finds.
+- No specific item, guaranteed reward, spell access or unlock condition is approved by this seed.

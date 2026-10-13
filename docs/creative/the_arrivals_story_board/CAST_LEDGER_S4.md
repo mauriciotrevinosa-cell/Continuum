@@ -110,7 +110,7 @@
   - **Historical presence gap repaired by V24 beats; V25 now includes a quiet shared-table presence** (Kusuri less so: hand cream, chemistry with Maomao and Senku).
   - DH-055: no click, inter-girl threads, the coins question. Pin: brought in S1.
 - **Mai.** Construction (sync about 40%; one bullet a day, and it costs her). **The crackers table** (V22 #23): "my sister looks at me like I'm going to disappear"; held Maki's coin for a week (V23 #14). Alive here, though in Maki's lived life she died. **She may know**, but it stays untouched until their arc; Yuta stays out of it (DH-057). Room beside Yuta and Maki; hovers at the edge of the pack. **Historical presence flag:** V24 gives her the Yuka beat; V25 now retains her in the existing room-welcome scene. Her private-history arc stays open.
-- **Rem.** Room at the turn, **name in pencil**. Agent TEACUP. 100% again; quips. Coin: **spent (Ram)**.
+- **Rem.** Room at the turn, **name in her own ink from V23 One Hundred Percent**; previously pencil. Fort's (SISTER) remains pencil. Agent TEACUP. 100% again; quips. Coin: **spent (Ram)**.
 - **Seika.** STARRY (2); the ugly coat; arms folded at the back. West wing room (on Nijika's floor at first).
 - **Ram.** West wing room beside Rem's turn. Every dinner: crude, barely edible, a disgrace, idiots, except Rem.
 

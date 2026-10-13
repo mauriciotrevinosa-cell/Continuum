@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 25  
 **Reading order:** 8  
-**Continuity state:** Day 177, rain all day | an upturned cup outside the east room: an invitation (Frieren knows) | REM (SISTER) in pencil; grey dress, hair loose; she pours and sits first | 'Only when it rains' | she knew the room was his: 'People don't not-look at things that hard' | Ori: 'Let her say yes for herself' / 'She was right. I would have... and never trusted it' | 'I don't trust people' | she could smell the jar about to break; after the Trial he smelled like the boy who died and came back and never told; 'And you told' | the tally marks stop the night before Ram's coin | 'I'm not your caretaker' / 'Family' / 'With a sheep' | 'Don't you dare be him... You tell someone first' | 'That's why pencil is fine' | Frieren: 'First. Before. I promise'
+**Continuity state:** Day 177, rain all day | an upturned cup outside the east room: an invitation (Frieren knows) | REM in her own ink, (SISTER) still pencil; grey dress, hair loose; she pours and sits first | 'Only when it rains' | she knew the room was his: 'People don't not-look at things that hard' | Ori: 'Let her say yes for herself' / 'She was right. I would have... and never trusted it' | 'I don't trust people' | she could smell the jar about to break; after the Trial he smelled like the boy who died and came back and never told; 'And you told' | the tally marks stop the night before Ram's coin | 'I'm not your caretaker' / 'Family' / 'With a sheep' | 'Don't you dare be him... You tell someone first' | 'Pencil was enough'; the ink is her choice, not permission | Frieren: 'First. Before. I promise'
 
 *When: Day 177. It has rained since the small hours and will rain all day. The gate party did not go in. Kessoku are in the music room with the door open, playing the ninth song for Echidna, slowly. The fort has Yuka and the white dog and a game nobody will explain. Momo has said nothing about her table, which is worse than saying something.*
 
@@ -58,11 +58,11 @@ The narrow room was at the turn of the north corridor, where it bent round towar
 
 It had been the narrow room nobody marked, once. In the Muslin, in the autumn, when the house was one floor of posts and slotted boards, Mau had walked the corridor with Marin and her notebook and named every room. And when he came to this one, the narrow one at the turn, with its one window and its door that did not quite close, he had not named it. He had walked past it. Very carefully not looking at it. And it had stayed unmarked, with nothing written on the plan, for a whole season.
 
-Now there was a slip of card in the little brass holder on the door. And on the card, in small careful pencil, in Rem's own hand:
+Now there was a slip of card in the little brass holder on the door. And on the card, in the ink Mau had first noticed after Ram came, in Rem's own hand:
 
 *REM.*
 
-And under it, in someone else's hand, newer, also in pencil, added by the fort on the night the sisters made Rem one of them:
+And under it, in someone else's hand, still in pencil, added by the fort on the night the sisters made Rem one of them:
 
 *(SISTER)*
 
@@ -220,7 +220,7 @@ Rem looked at the place where the marks stopped.
 
 She turned round and looked at him.
 
-"That's when I stopped checking," said Rem. "That's why pencil is fine. It's mine either way."
+"That's when I stopped checking," said Rem. "Pencil was enough. It was mine then too." She glanced toward the other side of the door. "I didn't write it in ink so you'd let me stay. I wanted my name there."
 
 
 
@@ -296,7 +296,7 @@ She picked up the small white pot with the blue flowers, and poured the last of 
 
 Rem smiled. A real one. Small, and not careful at all.
 
-"I know," she said. "That's why pencil is fine."
+"I know," she said. "That's why I wrote it."
 
 
 

@@ -1258,7 +1258,7 @@ The creator's green light: "va, arráncate". V25 has **27 chapters (S4E27–S4E3
 - The bond goes both ways now.
   - Mau pours for her. "What do you want?" / "For you to sit down. Sometimes."
 - **Rem smelled the Trial on Mau** (Re:Zero: she can sense what Return by Death leaves) and waited a week for him to tell. "And you told."
-- **Ori told Mau not to ask her to stay** (S3); Rem: "She was right. I would have, and never trusted it." The tally marks on her door stop the night before Ram's coin. The pencil stays.
+- **Ori told Mau not to ask her to stay** (S3); Rem: "She was right. I would have, and never trusted it." The tally marks on her door stop the night before Ram's coin. The former instruction that her name stays pencil is superseded by DH-080; the tally marks themselves remain pencil.
 - **"Don't you dare be him. You tell someone first."** Mau to Frieren: "First. Before. I promise." This feeds DH-067.
 
 **S4E29 The Route (#9–12)**
@@ -1470,3 +1470,15 @@ The creator wants the encounter to feel large but interrupted: a preview of what
 - The established short slip and two-second final exchange are not prolonged into minutes. Increased prose is closer observation, not additional in-world full-power duration.
 - Preserve the original Red / slime response, wheel recognition, Rika and Maki interruption, Continuum clamp, bodily cost and private aftermath. The next exchange starts but cannot finish. No winner, extra completed finisher or new technique is added.
 - Preview of scale and danger, not proof of either character's final ceiling. No settlement destruction or new injury needing downstream retcons.
+
+
+## DH-080 — Rem chooses ink after Ram arrives (creator, 2026-10-13)
+
+Executed in V23 One Hundred Percent, on the evening before the roof scene. Mau passes Rem's room and sees that she has written REM in ink herself. He recognizes her handwriting; the pen and ink on her thumb confirm her authorship. They share a quiet smile, without a speech or a request to stay.
+
+- Supersedes the earlier keep-the-pencil direction for her present door name. Earlier chapters correctly retain pencil; the name changes only after Ram's arrival.
+- Rem chooses this herself. Ram's arrival helps her imagine staying, but her place is her own, not a condition attached to Ram or to serving the house.
+- Her room was already hers in pencil. Ink does not confer permission, enforce permanence or remove her ability to leave.
+- The fort's (SISTER) annotation and the private tally marks remain pencil. The tally marks still stop the night before Ram's coin.
+- Later door descriptions in The Teapot, Only When It Rains and Finish It updated. The later Rem/Mau conversation retains the original history, her freedom to choose, its reciprocal family meaning and all other events; her dialogue distinguishes chosen ink from permission.
+- CAST_LEDGER_S4 and the earlier floating pencil proposal updated so future prose does not restore the obsolete door state.

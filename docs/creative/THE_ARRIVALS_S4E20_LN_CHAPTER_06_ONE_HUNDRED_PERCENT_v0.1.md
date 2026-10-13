@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 24  
-**Continuity state:** Days 129-130 | Rem's quips: Senku's cup with a hole, Himmel's portrait, Milim's high shelf, Fern's posture, Mau the sheep | Ram: the old Rem, the one lost in the kitchen; Seika: 'When the person you're careful for isn't there' | Rem and Milim raise the west wing's last beam, gently | THE LIST: 2. Rem: her sister. HERE. / 3. Yuta: his teacher (Seiko's coin for the doctor) | roof night: 'He's going to be insufferable... He's going to love this' | two sisters on the edge of a bed
+**Continuity state:** Days 129-130 | Rem's quips: Senku's cup with a hole, Himmel's portrait, Milim's high shelf, Fern's posture, Mau the sheep | Ram: the old Rem, the one lost in the kitchen; Seika: 'When the person you're careful for isn't there' | Rem and Milim raise the west wing's last beam, gently | THE LIST: 2. Rem: her sister. HERE. / 3. Yuta: his teacher (Seiko's coin for the doctor) | Rem writes her own name in ink; Mau discovers it at her door, (SISTER) stays pencil | roof night: 'He's going to be insufferable... He's going to love this' | two sisters on the edge of a bed
 
 *When: Days 129 and 130: the west wing's last beam, the List, and a roof night. The gate is in its fourth week, and Mikasa has her new blades.*
 
@@ -171,6 +171,38 @@ Fern dipped her pen.
 She did not turn the ledger round. She did not need to. Everyone had seen her write it.
 
 Under the long table, Maki's hand found Yuta's, and held it.
+
+
+
+On his way upstairs that evening, Mau stopped at the turn of the north corridor.
+
+There was a card in the little brass holder on Rem's door. He knew the card. He had passed it every day, and the name on it had always been faint, a little rubbed at the edge where someone's sleeve had caught it.
+
+It was dark now.
+
+*REM.*
+
+Ink. In her own hand. The same uneven R, the same last stroke that ran a little too far. Beneath it, the fort's *(SISTER)* was still in pencil.
+
+Mau stood looking at it.
+
+He had never gone over the name. Not in the Muslin. Not when they moved. She had wanted pencil, and pencil had been enough to keep the room hers.
+
+The door opened.
+
+Rem stood behind it with a pen in one hand. There was a small mark of ink beside her thumbnail. She looked at him, then at the card, and for a moment neither of them spoke.
+
+From the room farther along, Ram called her name. Something about a cup. Rem did not turn at once.
+
+Mau looked back at her.
+
+She smiled. Not asking.
+
+He smiled too, and stepped aside so she could pass.
+
+Rem went down the corridor toward her sister with the pen still in her hand. Mau stayed at the turn a moment longer.
+
+Then he went on.
 
 
 

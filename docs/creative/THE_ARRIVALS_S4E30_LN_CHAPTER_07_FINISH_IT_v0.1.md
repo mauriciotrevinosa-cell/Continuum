@@ -92,7 +92,7 @@ She took it.
 
 Coco took her to the Witch Hat room.
 
-Not far. Down the west wing corridor, round the turn, past the narrow room with REM on the door in pencil. Coco's mother walked slowly, on her weak legs, holding Coco's hand. She looked at everything as they passed. The doors. The cards on the doors, with names. The clay walls. The beams.
+Not far. Down the west wing corridor, round the turn, past the narrow room with REM on the door in ink. Coco's mother walked slowly, on her weak legs, holding Coco's hand. She looked at everything as they passed. The doors. The cards on the doors, with names. The clay walls. The beams.
 
 Agott was in the Witch Hat room, at her table in the alcove. Tetia. Richeh, asleep. And Qifrey, who had woken up against the door at the end of the west wing at dawn with a crick in his neck and not said a word to anyone about it, sitting on the edge of Coco's bed.
 

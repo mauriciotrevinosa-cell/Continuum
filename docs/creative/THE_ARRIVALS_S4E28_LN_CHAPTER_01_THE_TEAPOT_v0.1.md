@@ -196,6 +196,6 @@ Rem's mouth moved. Very slightly. Not the careful smile. Something else, underne
 
 She went out.
 
-He heard her go up the north corridor, toward the turn, toward the narrow room with REM on the door in pencil. He heard the door open and close.
+He heard her go up the north corridor, toward the turn, toward the narrow room with REM on the door in ink. He heard the door open and close.
 
 And on the roof above the kitchen, very softly, so softly that at first he thought he had imagined it, he heard the first drops of the spring rain begin to fall.

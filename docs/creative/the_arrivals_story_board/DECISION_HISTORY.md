@@ -1370,7 +1370,7 @@ The creator asked whether Seika ever learns that Kessoku have been here two year
 Creator-directed revision of V23 #2–5. Supersedes the former claim that the wheel wants the dungeon and Ciel/house therefore exclude Mau from the first party.
 
 - Mau volunteers for the first party; nobody objects or removes him from it.
-- The Noise draws him toward the gate without his awareness of starting to walk. No speaking entity, hidden order or motive is confirmed. This recalls the temptation under Last Defense, where he could stop and report it; here he loses awareness of the intervening walk.
+- The Noise draws him toward the gate without his awareness of starting to walk. During the approach, no voice, hidden order or motive is confirmed. The later contract incident is recorded separately in DH-074. This recalls the temptation under Last Defense, where he could stop and report it; here he loses awareness of the intervening walk.
 - He crosses the threshold first and activates his own gift. Frieren pulls him back immediately; no rooms are explored and no fight, loot or adaptation happens.
 - Activation opens the passage to other entrants. It is a one-time condition, not a requirement to take Mau on every future expedition. The shop appears on Day 106, before activation of entry; the interface can be inspected without opening the passage to entrants. Weekly cycle and economy are unchanged.
 - The wheel adapts; it does not supply the desire to investigate. The attraction is The Noise's process; its deeper reason remains open.
@@ -1379,3 +1379,14 @@ Creator-directed revision of V23 #2–5. Supersedes the former claim that the wh
 - Future repeat attractions are possible seeds, not automatic trance powers or executed future scenes. Do not pre-resolve the Rika/Yuka connection here.
 
 Placement corrected by the creator, same day: The Gate (V23 #2, Day 105) remains discovery only; The Shop (#3, Day 106) keeps its original menu/food sequence. Mau volunteers over breakfast in Rules of the Gate (#4, Day 107), nobody objects, and the entrance-preparation visit after lunch is where the trance/crossing/rescue occurs. He chooses to wait before any contract signatures. The five sign afterwards and explore on Day 109 (#5). This supersedes the initial implementation placing the crossing in #2. Preserve all other dungeon chronology, costs, encounters and later party assignments.
+
+
+## DH-074 — Mau cannot sign the gate contract; one word from The Noise (creator, 2026-10-12)
+
+Executed in V23 #4, Rules of the Gate, after the five reconnaissance members sign and before the guide. Mau has already chosen to wait for reconnaissance (DH-073).
+
+- Mau attempts to sign for his own future entry. His name disappears. He tries again; it disappears again. The other five signatures remain intact.
+- The Noise says exactly one word privately to Mau: **No**. The others learn his attribution through his spoken report, not by hearing an external voice.
+- Mau says The Noise is not letting him sign and voluntarily commits to following all five rules anyway. His choice to wait and the Day 109 party remain unchanged.
+- This is a local unexplained failure to register this signature, not a broken contract, universal contract immunity or permission to ignore the rules. His previously valid contracts and their consequences remain unchanged.
+- The cause and future meaning stay open. Do not invent an explanation, additional dialogue from The Noise or a new contract-system rule.

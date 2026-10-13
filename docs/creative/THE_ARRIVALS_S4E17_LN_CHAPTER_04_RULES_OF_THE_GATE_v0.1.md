@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 4  
-**Continuity state:** Day 107 | 1. Nobody goes in alone | Mau volunteers over breakfast; nobody objects | after lunch, The Noise draws him across the threshold during entrance preparations; Frieren pulls him back | Mau proposes waiting for reconnaissance | final party: Yuta, Maki, Mikasa, Eren, Milim as Guardian (at the back) | Rimuru's shadow relay: a thread in each shadow and one at the stake | Mau's contract: five rules, 'To leave no one inside' | Umaru's guide, rule six: mimics, THIS MEANS YOU | Eren: 'Exits before rooms... the only order'
+**Continuity state:** Day 107 | 1. Nobody goes in alone | Mau volunteers over breakfast; nobody objects | after lunch, The Noise draws him across the threshold during entrance preparations; Frieren pulls him back | Mau proposes waiting for reconnaissance | final party: Yuta, Maki, Mikasa, Eren, Milim as Guardian (at the back) | Rimuru's shadow relay: a thread in each shadow and one at the stake | Mau's contract: five rules, 'To leave no one inside'; the five signatures hold, Mau's name disappears twice; The Noise says only 'No'; Mau chooses to follow the rules anyway | Umaru's guide, rule six: mimics, THIS MEANS YOU | Eren: 'Exits before rooms... the only order'
 
 *When: Day 107. The watch at the stake goes on day and night, in shifts. Seika's first week and the washing court mornings carry on around the long table.*
 
@@ -218,6 +218,40 @@ He looked at the last line for a long time before he wrote it.
 Maki looked at him for a long moment. Then she took the pen, and signed. *Zen'in Maki.* The ink flared, very faintly, gold, for an instant, and went back to black.
 
 Yuta signed under her. Then Mikasa, in small neat letters. Then Eren, who looked at rule two for a long time before he signed it. Then Milim, in enormous capitals that took up half the remaining space, with a small drawing of a dragon after her name, which the contract appeared to accept.
+
+Mau took the pen back.
+
+"For when I go," he said.
+
+He found a little space below Milim's dragon and wrote his name.
+
+*Mau.*
+
+The ink was there. Then it wasn't. The paper beneath it was clean.
+
+He held the pen still for a moment. Maki's name remained above it, black and dry. So did the others.
+
+He tried again, more slowly.
+
+The last stroke disappeared with the first. Nothing was left of his name.
+
+*No.*
+
+One word, inside him.
+
+Mau stopped. Frieren, beside him, looked from the blank space to his face.
+
+"What is it?"
+
+"The Noise isn't letting me sign," he said.
+
+He looked down at the five rules he had written. Then he laid the pen beside the paper.
+
+"But I'll follow them anyway. When I go in. All five."
+
+Fern checked the other names. None of them had changed. In the ledger, beside Mau's, she wrote: *Signature did not hold. Agrees to the rules.*
+
+Nobody at the table could tell him why.
 
 "What happens," said Okarun, from down the table, "if someone breaks it?"
 

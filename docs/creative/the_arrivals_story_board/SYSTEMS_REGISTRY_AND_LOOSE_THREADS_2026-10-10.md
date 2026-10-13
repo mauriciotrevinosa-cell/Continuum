@@ -66,7 +66,7 @@ Mau has no identified source world (blank origin; Second Chance is unknown in-wo
 | **The coins** | One per stayer; transferable; never expire; "purchased by the one who stood in the Trial". **In-world theory only:** 437 exist, the rest are with other Otherworlders (Sukuna two? "entertain me"). Nobody is sure. | V20; round 2 |
 | **The petition bound** | A coin concerns "a specific loved person" ("some" can concern the dead). Transfer works. | V20; slate |
 | **Foundation** (Rimuru) | **Born in S4** (seconded): Rimuru tells his builder life for the movie room, a temporary skill appears, and Ciel evolves it in a month. Single use: the dam, the ink tree, the house's foundations and tunnels. "Builds the board, not the city." | macro-arc source doc; S4 ideas, round 2 |
-| **Contracts** | Magic, on paper. Breaking one is penalised (S2), and Mau never technically breaks one. To evolve them: Rimuru's shadow relay as security. | S2 §6; creator |
+| **Contracts** | Magic, on paper. Breaking one is penalised (S2), and Mau never technically breaks one. Rimuru's shadow relay supports gate safety. V23 #4: Mau's gate-contract signature erases twice; The Noise says only 'No'. The five other signatures hold; Mau voluntarily follows the rules. Cause unresolved; no universal immunity or retroactive invalidation of earlier contracts. | S2 §6; creator; DH-074 |
 | **The rings** | One and Two (the house); Three is only the witches; Four (Arrival House people) disappears in S4 | DH-026; V20 |
 | **Arrival House** | Intake, terms, guests. **Arrivals are drying up** (the plaza breach, DH-024). | V17–V20 |
 | **The ink economy** | Ink is finite, and the ink tree needs 100 years before anyone can draw from it | V16 |

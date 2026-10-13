@@ -236,3 +236,16 @@ Preserve for S5: after the dungeon has been operating for a while, it may underg
 - Current S4 shop remains unchanged: WEAPONS, ARMOUR, CONSUMABLES, MATERIALS, SPECIAL; no grimoires on the visible list. Do not retroactively add a collectibles category or populate locked SPECIAL entries.
 - Open for later review: timing, evolution trigger, whether there is a new category or an expansion of SPECIAL, exact items, costs, rarity and the balance between shop purchases and dungeon finds.
 - No specific item, guaranteed reward, spell access or unlock condition is approved by this seed.
+
+
+## Future — The Noise refuses Mau's gate-contract signature (creator seed, 2026-10-12; PAYOFF OPEN)
+
+The scene itself is implemented in V23 #4 (DH-074): Mau's name erases on two signing attempts; The Noise says only **No**; Mau chooses to obey the rules anyway. Preserve the unexplained refusal for the creator's later development. No cause, immunity, exception to previous contracts or future payoff is approved.
+
+## S5 — Red Gate / mimic idea (creator seed, 2026-10-12; PENDING DEVELOPMENT)
+
+The creator recalls the mimic in Frieren's second first-class mage examination trial and wants to keep that inspiration alongside a **Red Gate** idea for S5 planning.
+
+- Preserve this as an idea to revisit while building S5, not an executed event or current dungeon mechanic.
+- The connection between the mimic and the Red Gate, scene, participants, trigger, stakes and outcome remain for the creator to develop.
+- Do not assume this changes the current gate, implements another world's Red Gate rules, or adds a specific mimic encounter now.

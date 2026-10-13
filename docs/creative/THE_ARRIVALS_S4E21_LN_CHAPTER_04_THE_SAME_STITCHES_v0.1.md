@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 4  
-**Continuity state:** Day 133 | the south field; Yuta holds his hair up | 'The last time I saw those, they were on Suguru's face' | Yuta tells it: Shinjuku, Kenjaku's technique, he wore Gojo to fight on, returned to his own body after Shinjuku and lived a whole life with Maki; Continuum kept the scar | 'you had grandchildren' | Gojo walks at the scar; Mau goes over the fence: 'So I am'; Rimuru | Infinity; Yuta's film | Mau looks: Analyze takes the roadmap, the wheel takes Analyze | 'What are you doing to my eyes?'
+**Continuity state:** Day 133 | the south field; Yuta holds his hair up | 'The last time I saw those, they were on Suguru's face' | Yuta tells it: Shinjuku, Kenjaku's technique, he wore Gojo to fight on, returned to his own body after Shinjuku and lived a whole life with Maki; Continuum kept the scar | 'you had grandchildren' | Gojo wrongly identifies Kenjaku behind the scar and accuses him of stealing Yuta's life | Mau sends the extraction request through Ciel; Rimuru takes Yuta out; household drills start | Shall we? — Mau/Gojo 1v1 | Gojo walks at the scar; Mau goes over the fence: 'So I am'; Rimuru extracts, does not fight | Infinity | Mau looks: Analyze takes the roadmap, the wheel takes Analyze | 'What are you doing to my eyes?'
 
 *When: Day 133, the afternoon after the lunch where Sukuna's name was said. The gate changed into its fifth week at dawn; Mikasa and Maki are due to go in tomorrow.*
 
@@ -80,7 +80,17 @@ It was the wrong laugh. Everyone at the fence heard it. It went up into the grey
 
 "It's not his," said Yuta. "It's mine. I chose it. I'm not him. I'm not—"
 
-"*I know you're not him!*"
+"Don't say his name like it belongs to you."
+
+Yuta went very still.
+
+"You took my student's life," Gojo said. "Wore him. Told everyone you were him. And then you had a family with Maki. Grandchildren. All of it, pretending to be Yuta."
+
+"Gojo-sensei. I am Yuta."
+
+"Suguru's mouth said his name too."
+
+He was looking at the stitches now, not the boy beneath them. Mau could see the mistake happening and could not find a sentence fast enough to stop it.
 
 It went across the field like a crack of ice.
 
@@ -124,29 +134,45 @@ And behind Mau, very quietly, Yuta said: "Mau. Don't. He's my teacher. It's fine
 
 Yuta did not answer.
 
-Gojo looked at the three of them. At Mau in front, with his hand up. At Rimuru on the left. At Yuta behind, with the scar, shaking.
+Mau sent the words through the connection, without taking his eyes off Gojo.
 
-"Fine," said Gojo softly. "Three of you, then."
+*Ciel. Tell Rimuru to take Yuta. Up the slope. Start the drills.*
 
-And then everything happened very fast.
+Rimuru heard. His eyes met Mau's for an instant.
 
+*You too,* he sent back.
 
+*I need him looking this way while you move.*
 
-Afterward, the house would try to put it in order, at the long table, with Fern writing it down. Nobody could. It went too fast, and too many things happened at once, and the people who were closest were the people who could least remember.
+Rimuru stepped behind Mau and put a hand on Yuta's arm. "Come with me."
 
-What they could agree on was this.
+Yuta looked at Mau. "He thinks—"
 
-Gojo went through Rimuru first. Not through him. Past him. He did not hit anyone. He used Infinity the way a river uses a rock, and Rimuru, who had braced to be struck, found himself simply slid aside, as if the space between them had decided to be somewhere else.
+"I know," Mau said. "Go up."
 
-Mau caught Gojo's wrist. Or tried to. His fingers closed on nothing, an inch from the dark sleeve, and kept closing, and never arrived.
+Gojo moved his head to follow them. Mau moved with it, staying in his sight.
 
-Yuta did not fight. He stood there. He had promised. But when Gojo reached past Mau for his face, Yuta's cursed energy came up round him on its own, the way it did when he was afraid, a dark shimmering film. And Gojo's hand met it, and stopped, and for one instant the two of them stood there, teacher and student, with the old dark pressure of a curse that had once killed people pressing back against Infinity.
+"It's Yuta," Mau said. "You don't have to believe me yet. But you're not going through me to hurt him."
 
-"You got strong," said Gojo, through his teeth.
+Rimuru took Yuta up the slope. At the fence, Maki met them. Fern had already heard Ciel's warning; she turned the crowd toward the house, and Anko opened the path. The practiced calls travelled along the rail. Away from the field. Keep the route clear. Account for the fort.
 
-"*You taught me*," said Yuta.
+The same drills they had hoped not to need again.
 
-And Mau, standing between them with his useless hand still closed on nothing, looked at Gojo.
+Gojo watched the movement behind Mau. Then he looked back at him.
+
+"No one else?"
+
+"No one else."
+
+Gojo took a step away from the line of the retreating people. Mau followed it. There was nobody between them now, and nobody beside either of them.
+
+"Shall we?" Gojo said.
+
+Mau raised his hand.
+
+Gojo's fingers moved. Mau reached for his wrist and found the inch of distance he could never finish crossing.
+
+And Mau looked at him.
 
 He did not mean to. That was what he told Ciel afterward. He did not mean to do anything. He only looked, the way you look at the face of someone who is about to hurt someone you love. Hard. All the way in.
 
@@ -168,6 +194,6 @@ The wheel took Analyze.
 
 And Gojo stopped dead.
 
-He stood a pace from Mau with his hand still out toward Yuta's face, and his whole body had gone rigid. His blindfolded face had snapped round. Not to Yuta. To Mau.
+He stood a pace from Mau with his hand still raised between them, and his whole body had gone rigid. His blindfolded face snapped toward Mau's eyes.
 
 "*What,*" said Gojo, in a voice nobody at the fence had heard from him before, "*are you doing to my eyes?*"

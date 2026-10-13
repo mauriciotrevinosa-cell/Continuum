@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 6  
-**Continuity state:** Days 133-134 | Gojo and Diablo on the corridor floor all night | Ciel: Analyze took the eyes' roadmap and is still building; she can't stop it without weakening the walls | Frieren to Gojo: 'He always goes in front' | the roof: 'I looked good, right?' / 'You looked like you' / 'It's not his... someone I love got up' / 'Keep it' | Mau wakes: 'Mine come with a filter. Yours don't.' 'I'm going to teach you' | the Trial: 'Finally. Somebody who can keep up' | 'I love this.' / 'Both. Obviously.'
+**Continuity state:** Days 133-134 | public house account: Kenjaku, Geto, Shibuya; Yuta killed him, Rika consumed him, Copy provided the technique; own-body return; Gojo admits misidentification and apologizes | Gojo and Diablo on the corridor floor all night | Ciel: Analyze took the eyes' roadmap and is still building; she can't stop it without weakening the walls | Frieren to Gojo: 'He always goes in front' | the roof: 'I looked good, right?' / 'You looked like you' / 'It's not his... someone I love got up' / 'Keep it' | Mau wakes: 'Mine come with a filter. Yours don't.' 'I'm going to teach you' | the Trial: 'Finally. Somebody who can keep up' | 'I love this.' / 'Both. Obviously.'
 
 *When: The night of Day 133 into the night of Day 134. Mau in Maomao's clinic; Gojo outside the door; Yuta on the roof.*
 
@@ -106,6 +106,54 @@ Gojo sat down.
 
 
 
+That morning, Gojo asked Fern to call the house to the long table.
+
+Not only Yuta. Not only the people who had stood closest in the field. Everyone who had been sent out by the drills, who had waited, who had seen the stretcher come back.
+
+Mau was still asleep. Frieren and Maomao stayed with him; Rimuru would carry the account to them afterwards. Gojo waited until the rest had come, including the fort, and stood at the end of the table without his blindfold.
+
+"I thought he wasn't Yuta," he said.
+
+Yuta sat beside Maki. He did not look down.
+
+"Kenjaku," Gojo said. "A man who could move from one body to another. Keep what that body could do. Wear its face. Its voice." He paused. "He took Suguru Geto. My best friend. After he was dead."
+
+He told them about Shibuya. The face he had known for years standing in front of him, alive when Gojo knew it could not be. The seam across the forehead. The time lost while his mind tried to make the face and the truth fit together. Then the prison closing, and knowing that the people outside still needed him and he could do nothing.
+
+Nobody interrupted him.
+
+"I saw the stitches yesterday," he said. "And I put that in front of everything Yuta told me. I heard him explain it, and decided that was the thing inside him learning to explain."
+
+Yuta laid his hands flat on the table.
+
+"I killed Kenjaku," he said. "Rika consumed him. Copy gave me access to his technique. That's how I could move into Gojo-sensei's body to keep fighting Sukuna. Kenjaku wasn't in me. He didn't live my life."
+
+Maki's hand rested beside his.
+
+"I came back to my own body afterwards," Yuta continued. "The family was ours. Mine and Maki's. All those years."
+
+Gojo looked at both of them. Then at the people down the table.
+
+"I was wrong," he said. "Yuta was standing there telling me the truth. And I accused him of taking his own life away."
+
+He took a breath.
+
+"For a moment I felt Shibuya again. That I had missed it. That he'd already been taken and I had been too late to do anything." He looked directly at Yuta. "That isn't a reason you should have had to stand there and let me come at you. I'm sorry."
+
+Then Maki. "To you too."
+
+Then the room. "And to everyone who had to run because I couldn't listen. To Mau. I'll say it to him when he's awake."
+
+Fern left the ledger closed.
+
+"He asked Rimuru to get Yuta out," she said. "Before the fight. That was why the drills started."
+
+Gojo nodded. He had no answer that would improve it.
+
+Rimuru told Frieren and Maomao everything that had been said. No shorter version. No kinder version on Gojo's behalf. The whole house had the same account now: the mistake, what Yuta had actually done, and who owed the apology.
+
+
+
 Yuta was on the roof that night.
 
 It was not a roof night. It was the fourth day, not the seventh. But Yuta had not slept since the field, and Maki had stopped trying to make him, and at midnight she had brought him a blanket and a cup of tea on the ridge, and kissed his hair, and gone back down, because she knew he was waiting for someone.
@@ -122,7 +170,7 @@ Yuta did not say anything for a moment.
 
 "So incredible."
 
-"Mostly I didn't look in mirrors," said Yuta. "For a long time. It was—hard." He pulled the blanket tighter. "Maki made me. In the end. She stood me in front of one and made me look until I could. She said if I was going to live in it I had to be able to see it." He was quiet for a moment. "It took a year."
+"Mostly I didn't look in mirrors after I came back," said Yuta. "My own face. The scar. For a long time it was—hard." He pulled the blanket tighter. "Maki made me. In the end. She stood me in front of one and made me look until I could. She said I was back in my own body, and I had to be able to look at it without seeing only what I had done." He was quiet for a moment. "It took a year."
 
 Gojo did not say anything.
 
@@ -136,7 +184,7 @@ Then he reached over, slowly, the way you reach for something that might startle
 
 Yuta went still.
 
-"It's not his," said Gojo again, softly. "I was so angry, because it looked like his. Because the last time I saw it, it meant someone I loved was gone and something wearing him was smiling at me." His fingers did not move. "But this one means someone I love *got up*. Off the ground. When I couldn't. And kept going." He let the hair fall back. "And had grandchildren. With *Maki*. Which I'm still processing."
+"It's not his," said Gojo again, softly. "I saw his mark and accused you of being him. I was wrong. I was so angry because it looked like his. Because the last time I saw it, it meant someone I loved was gone and something wearing him was smiling at me." His fingers did not move. "But this one means someone I love *got up*. Off the ground. When I couldn't. And kept going." He let the hair fall back. "And had grandchildren. With *Maki*. Which I'm still processing."
 
 Yuta made a sound. It was not quite a laugh.
 

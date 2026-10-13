@@ -10,7 +10,7 @@
 
 Frieren stood at the line.
 
-There was no line, not really. There was the fence at the top of the slope, where the house had stood and watched three domains open in the snow, twelve days ago. There was the place Rimuru had pointed at, running past her with his hands out, and said *here, no closer, nobody closer than here*. And there was Milim's hand round her wrist.
+There was no line, not really. There was the fence at the top of the slope, where the house had stood and watched the shrine and two Voids open in the snow, twelve days ago. There was the place Rimuru had pointed at, running past her with his hands out, and said *here, no closer, nobody closer than here*. And there was Milim's hand round her wrist.
 
 "You promised him," said Milim.
 

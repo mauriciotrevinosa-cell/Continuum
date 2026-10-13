@@ -208,7 +208,7 @@ not on this list. Add a line every time the creator catches a new slip.
 ## Gojo — delayed measurement / interrupted preview (DH-081)
 
 - Continuum starts measuring him at arrival; it finishes only AFTER Rika and Maki stop the Day 133 fight. Before that, Blue, Red, Domain and Purple preparation are available. Never write an initial Infinity-only nerf followed by a four-second restoration.
-- Mau's guardrail breach and Yuta's brief domain leak are separate from Gojo's pending first measurement. The wheel accelerates Analyze; it does not independently choose to investigate.
+- Mau's guardrail breach is separate from Gojo's pending first measurement. DH-084: Yuta is extracted before the duel; no Yuta domain opens. The wheel accelerates Analyze; it does not independently choose to investigate.
 - Mau uses existing borrowed patterns under a dangerous temporary breach, including Frieren's black-hole-like spell. Red disrupts that spell in this encounter; no universal equivalence or guaranteed counter is established.
 - BOTH prepare Purple; NEITHER fires it. Rika breaks Mau's hand alignment; Maki stops Gojo, who dismisses his preparation. Only then does the first Gojo limit land. No winner or released dual-Purple blast.
 - Source-era Gojo pushing his existing repertoire is a preview, not his final evolved ceiling. Mau does not retain free access to the whole repertoire. Later costs, warnings, containment and power progression remain intact.
@@ -226,3 +226,12 @@ not on this list. Add a line every time the creator catches a new slip.
 - Temporary use of Gojo's body during Shinjuku is not a lifelong transfer. Yuta returned to his OWN body afterwards, lived his life with Maki and aged in that body.
 - Continuum brings that own post-Shinjuku body back young, preserving the forehead scar. It does not return a lifelong Gojo-body occupant to an original body for the first time.
 - No in-you / grandchildren-in-Gojo's-body dialogue or Yuka mistaking Gojo's face for Grandpa's. Age makes her grandfather look unfamiliar; identity is still his. Gojo's scar reaction concerns the temporary transfer and Kenjaku's mark, not who fathered the family.
+
+
+## Gojo / Yuta mistaken identity and the 1v1 (DH-084)
+
+- The fight is Mau versus Gojo only. Mau sends the extraction request privately through the existing Ciel/Rimuru connection; Rimuru takes Yuta to the safety line, Fern/Anko start the precaution drills. No Yuta swords/domain, Rimuru combat exchange or 3v1.
+- Gojo explicitly mistakes the stitches for Kenjaku inhabiting Yuta and accuses the intruder of stealing Yuta's family life. This is FALSE: Yuta remains himself; the temporary Gojo-body transfer and own-body return are DH-083.
+- Rika/Maki are emergency rescuers at the dual-Purple preparation, not additional duel combatants. Their intervention precedes Gojo's first nerf.
+- The next morning the HOUSE receives the explanation: Gojo describes Kenjaku/Geto and Shibuya's helplessness; Yuta says he killed Kenjaku, Rika consumed him and Copy supplied the transfer technique. Gojo explicitly acknowledges misidentification and apologizes to Yuta, Maki, the household and later Mau. Those attending Mau hear the complete account from Rimuru, not a private softened version.
+- Trauma explains Gojo's mistaken judgment; it does not excuse attacking Yuta or make Kenjaku's occupation real. Later private reconciliation builds on this public correction.

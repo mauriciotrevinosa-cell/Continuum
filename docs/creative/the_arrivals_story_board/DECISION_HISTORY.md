@@ -1518,3 +1518,16 @@ Creator corrects the erroneous inference from Yuta's stitches to lifelong reside
 - Mine Come With a Filter: the reconciliation concerns using Gojo's body to keep fighting, then choosing a life of his own. No lifetime in-you claim.
 - Grandpa's Little Girl: Yuka recognizes a young version of her own grandfather; Gojo is her grandfather's teacher from family stories, not Grandpa's former face. Keep the family reunion, beach memory, Mai encounter and other scene purposes.
 - The V24 plan's incorrect Modulo/body inference explicitly superseded; CAST_LEDGER_S4 and CANON_TRAPS aligned. Do not infer body identity from the scar again.
+
+
+## DH-084 — Mau/Gojo 1v1; Kenjaku misidentification and public apology (creator, 2026-10-13)
+
+Supersedes DH-057's three-person opposition and the later defensive Yuta-domain staging. Creator specifies a clean 1v1 and an explicit mistaken-identity cause, followed by explanation to the whole house.
+
+- In The Same Stitches, Gojo thinks the stitches mean Kenjaku has taken Yuta, impersonated him and lived his family life with Maki. He says that accusation aloud. It is his mistake, never narrative truth.
+- Mau interposes and privately asks through Ciel's existing connection for Rimuru to take Yuta out and begin the precaution drills. Rimuru extracts him; Fern and Anko move the household. Gojo says Shall we?; only Mau remains in the duel.
+- Domain Clash: no Yuta Domain or swords; the shrine and two Voids belong to the TWO combatants. Rimuru holds the safety line; Yuta reserves Rika for extraction. Rika/Maki stop the duel at the dual-Purple preparation. No third fighter, winner or released Purple. Gojo's first nerf remains after the interruption (DH-081).
+- Remove Yuta-domain exhaustion / sword-ground marks from later references. Yuta's visible strain now comes from rescue effort and watching the duel, not a restored Domain.
+- Mine Come With a Filter: public household explanation the next morning, before the private roof reconciliation. Gojo explains Kenjaku's possession of dead Geto, the Shibuya recognition shock and ensuing helplessness. Yuta states he killed Kenjaku; Rika consumed him; Copy provided the body-transfer technique; he later returned to his own body (DH-083).
+- Gojo admits he heard Yuta's truthful explanation but mistook it for an intruder's fabrication. His fear explains but does not justify the attack. He apologizes publicly, including for the household evacuation; Mau receives his apology once awake. Frieren/Maomao, attending Mau, receive the same full account from Rimuru.
+- Fix the earlier mirror phrasing too: Yuta struggled with his OWN returned face and scar, not a lifelong borrowed face. Family life and subsequent events otherwise remain.

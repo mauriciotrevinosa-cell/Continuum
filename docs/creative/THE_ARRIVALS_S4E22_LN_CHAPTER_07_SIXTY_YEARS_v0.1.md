@@ -32,7 +32,7 @@ Maki finished lacing her boot. She stood up. She picked up her spear from where 
 
 She took him to the south field.
 
-He realised where they were going halfway down the slope, and stopped. It was the field. The same field. The place where six days ago he had held his hair up off his forehead and told his teacher everything, and three domains had opened in the snow, and Mau had screamed in Rika's arms. The snow had melted from most of it since then. But there were still marks. A ring of small dark holes in the ground where swords had been. A long gouge where Gojo had gone down on his knees. A patch of earth, near the middle, where nothing would grow for a while.
+He realised where they were going halfway down the slope, and stopped. It was the field. The same field. The place where six days ago he had held his hair up off his forehead and told his teacher everything, and the shrine and two Voids had opened in the snow, and Mau had screamed in Rika's arms. The snow had melted from most of it since then. But there were still marks. Small dark scars in the ground where the cutting had reached it. A long gouge where Gojo had gone down on his knees. A patch of earth, near the middle, where nothing would grow for a while.
 
 "Maki," said Yuta.
 
@@ -52,7 +52,7 @@ Yuta stared at her.
 
 Yuta did not say anything.
 
-"That was the first date," said Maki. "You just didn't know it was one. I did." She settled into a stance. "So. Again. Here. In these." She glanced down at her own young hands on the spear. "Where your teacher came at you and ended up on his knees. Where you held your hair up. Where you got your domain back for a moment and then puked in the snow." She looked at him. "We take it back. We make it ours."
+"That was the first date," said Maki. "You just didn't know it was one. I did." She settled into a stance. "So. Again. Here. In these." She glanced down at her own young hands on the spear. "Where your teacher came at you and ended up on his knees. Where you held your hair up. Where you had to stand behind the line and send Rika in to pull him out." She looked at him. "We take it back. We make it ours."
 
 Yuta looked at her for a long time across the field, with the ring of sword-holes round them and the patch of dead earth under her feet.
 

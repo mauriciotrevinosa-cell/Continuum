@@ -26,7 +26,7 @@
 - **He finds out that Sukuna exists in this world.** "I want my rematch with that cheater."
 - **Timing superseded by DH-081 (creator, 2026-10-13):** Continuum begins measuring Gojo at arrival but cannot complete his complex reading before the Day 133 fight. He can use his source-era repertoire beforehand; no initial nerf or temporary return from one.
   - Rika and Maki interrupt both Purple preparations before either is fired. Only afterwards does Gojo's first synchronisation limit land: Infinity only, no Blue/Red/Purple or Domain.
-  - Later restoration and evolution remain as written. The delayed measurement is not exemption or permanent immunity; Yuta's brief domain leak is a separate failure.
+  - Later restoration and evolution remain as written. The delayed measurement is not exemption or permanent immunity; DH-084 removes the earlier Yuta domain leak: he is extracted before the 1v1 and uses Rika only for rescue.
 - **When he learns what Mau carries:** "So you stole all of mine." He laughs. "Great. When I'm at 100% and you're at 100%, we're testing it."
   - Milim gets excited about the fight. Half the house says no. Mau: "We'll see."
 

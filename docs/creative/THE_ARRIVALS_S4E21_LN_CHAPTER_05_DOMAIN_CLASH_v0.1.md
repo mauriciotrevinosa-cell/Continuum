@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 5  
-**Continuity state:** Day 133 | unmeasured Gojo; expanded repertoire and domain pressure; interrupted dual-Purple preparation; first Gojo nerf only after interruption | the guardrails lifted on purpose | the snow hangs; the Shrine and Mau's Void: 'That's mine... and that's his' | before Continuum completes Gojo's measurement: Gojo's true Void meets the stolen one; Mau bears it | Yuta's domain flickers: swords, Rika | 'Wait. That's mine. That stance... You've fought me before' (the Trial) | Red; Mau goes slime (Rimuru: 'that's my body') | the wheel above Mau: 'That's how he killed me' | Rika catches him; Maki's spear: 'Sit down, Satoru' | the nerf lands; Gojo's eyes, sky-blue, afraid
+**Continuity state:** Day 133 | unmeasured Gojo; expanded repertoire and domain pressure; interrupted dual-Purple preparation; first Gojo nerf only after interruption | the guardrails lifted on purpose | the snow hangs; the Shrine and Mau's Void: 'That's mine... and that's his' | before Continuum completes Gojo's measurement: Gojo's true Void meets the stolen one; Mau bears it | Yuta outside the safety line; no Domain; Rika reserved for extraction | 'Wait. That's mine. That stance... You've fought me before' (the Trial) | Red; Mau goes slime (Rimuru: 'that's my body') | the wheel above Mau: 'That's how he killed me' | Rika catches him; Maki's spear: 'Sit down, Satoru' | the nerf lands; Gojo's eyes, sky-blue, afraid
 
 *When: Day 133, the same afternoon, the same field. The house at the fence at the top of the slope.*
 
@@ -30,7 +30,7 @@ Gojo turned on him. Not a punch. Not anything a person would do. He turned, and 
 
 Gojo was coming.
 
-Mau stood before he reached him. He put himself on the line between Gojo and Yuta again, and Gojo saw him do it.
+Mau stood before he reached him. He stayed facing Gojo. Behind the fence, Yuta was already out of the field, with Rimuru and Maki beside him.
 
 The first punch stopped short of Mau's face.
 
@@ -46,7 +46,7 @@ He tried the outside of the wrist, then the elbow, then the shoulder. Each time,
 
 Mau spat into the snow. There was blood in it.
 
-Behind Gojo, Yuta took a step toward them. Mau saw him start and tried to shake his head. Gojo followed his glance, and Mau had to move again to stay between them.
+Gojo glanced toward the people leaving the fence. Mau moved across his sight. Gojo returned his attention to him, and did not follow the retreat.
 
 That was all he had managed. To keep getting in the way.
 
@@ -54,7 +54,7 @@ Gojo's next blow met both his forearms. Mau's heels cut two tracks in the snow. 
 
 Then Gojo changed the angle, and the hold was gone.
 
-Mau staggered sideways. He caught himself with one hand, pushed up, and found Gojo already turning past him toward Yuta.
+Mau staggered sideways. He caught himself with one hand, pushed up, and found Gojo already turning to meet him.
 
 He went back across the line.
 
@@ -98,9 +98,9 @@ To the left, open, with no walls at all, a shrine. A great dark shape of bone an
 
 To the right, closed, a sphere. A perfect black sphere, folding round Mau and part of the field, and inside it, if you looked, which nobody at the fence could bear to for long, there was everything. All at once. Every piece of information there was. Without end.
 
-At the fence, Rimuru, who had scrambled back up the slope, said, very quietly: "The plaza." And then: "*Everyone back from the fence. Now. Seal protocol. Now.*"
+At the cleared safety line, Rimuru, who had brought Yuta out, said, very quietly: "The plaza." And then: "*Everyone back from the fence. Now. Seal protocol. Now.*"
 
-Nobody moved. Nobody could.
+Fern kept the evacuation moving. The people at the safety line held their assigned places, even when what opened in the snow made their bodies want to run toward him.
 
 Because Gojo had stopped dead in the middle of the field, between the shrine and the sphere, and his whole body had gone still. His blindfolded face was turned toward the black sphere.
 
@@ -172,39 +172,23 @@ Mau had gained nothing he could hold. His ribs hurt. His hand would not quite cl
 
 Gojo looked at him across the disturbed snow. His breath had become visible between them.
 
-Mau could see where Yuta was. He moved back toward him before Gojo moved again.
+Mau checked the slope. Yuta was beyond the cleared line. He turned back before Gojo moved again.
 
 
 
-And then a third thing happened, which nobody had planned, least of all Yuta.
+Beyond the cleared line, Yuta kept his hand on the ring.
 
-Yuta had been standing behind Mau the whole time, with the dark film of his cursed energy up round him, because he had promised not to fight his teacher. But he was inside the edge of two domains now. Two infinities and a shrine. And his body, which had lived a whole life somewhere else, and had been a special grade, and had once, in that life, had a domain of its own, *remembered*.
+He did not enter the field. No swords rose from the snow. No third fighter came between the two men.
 
-For a few seconds, caught in the overlap, Yuta's own limit slipped too.
+Rimuru was holding the safety boundary and passing Ciel's warnings to Fern. At the lower edge, Maki waited with her spear, watching for the moment a rescue could reach Mau without putting another body inside the clash.
 
-The ground under Yuta opened.
+Yuta felt Rika answer beneath his fingers. He kept that answer close. Not an attack. A way to pull someone out.
 
-Not a hole. A field. A field of swords, hundreds of them, driven point-down into the snow in a great ring round him, hilts up, glittering. And above them, faint, enormous, half there and half not, the shape of something with long arms and a crown of hair, leaning over Yuta as if to shelter him, with her face turned toward the two Voids and her mouth open in a silent scream.
-
-*Rika,* said Ciel, sounding, for the first time Mau had ever heard, frightened. *That is—Yuta's—that should not be possible at his—*
-
-Three domains. A shrine. Two Voids. A ring of swords. The south field in the grey afternoon, and the house at the fence, and the snow hanging in the air in a circle twenty paces wide, not falling.
-
-One of the swords stood beside Mau's boot. Another was behind Gojo. They had not been there when either of them chose where to put his feet.
-
-Yuta's hand hovered above a hilt. It did not close.
-
-He was looking from his teacher to Mau, trying to get a word through a space that had become crowded with the things all three of their bodies could do. Rika's pale shape bent lower over him.
-
-On the slope, Maki was already moving. The others saw the empty place beside them before they saw her below it, spear low, finding the edge she could approach.
-
-There was no safe turn to wait for. The field did not have turns anymore.
-
-
+The shrine and the overlapping Voids filled the field. All of them belonged to the two men facing each other.
 
 And then Gojo stopped.
 
-Not because anything stopped him. He simply stopped. In the middle of the clash, in the middle of the screaming light, with his Void pressing against Mau's and Yuta's swords glittering around them. He stood there, and tilted his head, and said, in a completely different voice, curious and almost puzzled:
+Not because anything stopped him. He simply stopped. In the middle of the clash, in the middle of the screaming light, with his Void pressing against Mau's and the shrine cutting the snow beside them. He stood there, and tilted his head, and said, in a completely different voice, curious and almost puzzled:
 
 "Wait."
 
@@ -360,7 +344,7 @@ Neither Purple left its maker's hands.
 
 Rika caught him.
 
-She came out of Yuta's ring all at once. Not the faint shape over the field of swords. All of her. Huge and pale and long-armed, with her crown of hair, out of the ring on Yuta's hand and across the snow, and she wrapped both her enormous arms round Mau from behind, broke the alignment of his hands, lifted him off the ground and *held* him, the way you hold a child having a nightmare, his arms pinned, his face pressed into her.
+She came out of Yuta's ring at the safety line, all at once, when he called for the rescue. Huge and pale and long-armed, with her crown of hair, out of the ring on Yuta's hand and across the snow, and she wrapped both her enormous arms round Mau from behind, broke the alignment of his hands, lifted him off the ground and *held* him, the way you hold a child having a nightmare, his arms pinned, his face pressed into her.
 
 The violet edge tore apart into the separate forces that had not quite become it. Mau lost the casting. Rika held his arms away from each other until both hands were empty.
 
@@ -384,7 +368,7 @@ Gojo did not move.
 
 And then Continuum caught up.
 
-Mau felt his walls come back. Yuta's brief opening closed with them. And on Gojo, for the first time since he had arrived, Continuum's measurement finished and the limit landed.
+Mau felt his walls come back. And on Gojo, for the first time since he had arrived, Continuum's measurement finished and the limit landed.
 
 Not a weight returning. A weight he had never carried before.
 
@@ -394,7 +378,7 @@ He reached for the familiar inward pull to steady himself. There was nothing the
 
 Gojo's knees went. He went down in the snow, to one knee, then both. His hand, where the Red had been, was smoking faintly. Under the blindfold, a thin line of blood had started from his nose.
 
-Behind Mau, the ring of swords was gone. Yuta was on his hands and knees in the snow, retching, shaking, grey to the lips.
+At the safety line, Yuta sank to his knees, shaking with the effort of holding Rika on one task. Rimuru stayed beside him until she had Mau securely.
 
 Over Mau's head, the wheel stopped turning. It hung there a moment longer, pale and still. Then it sank. Slowly. Down through the air, and through Mau, and back into his shadow, like a stone into dark water.
 

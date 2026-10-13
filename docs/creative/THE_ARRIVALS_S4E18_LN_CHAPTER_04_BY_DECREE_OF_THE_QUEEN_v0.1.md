@@ -82,7 +82,7 @@ Rimuru had not said anything.
 
 He was sitting very still at the cold-hearth end of the table, looking at Frieren. Not offended. Not hurt. Looking at her the way he had looked at the stone footings on the seventieth morning. The way he had looked at the gate in the north field. The way a builder looks at a problem he has just seen for the first time, and has realised has been there all along.
 
-"No," said Rimuru slowly. "Not because you're queen."
+"Not by decree," said Rimuru slowly. "Not because you're queen."
 
 Frieren waited.
 

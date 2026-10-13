@@ -50,7 +50,7 @@ They were holding. He could see them holding.
 
 He could see exactly how.
 
-And far down, behind his breastbone, under all of it, in the place where the wheel was, something saw what he saw.
+And far down, behind his breastbone, under all of it, The Noise read what he saw.
 
 
 
@@ -82,7 +82,7 @@ It did not touch. It could not. It went slower and slower and slower toward his 
 
 The wheel turned.
 
-He felt it. In his shadow, on the sheet under him, under the bed, under the floor. Once. Not in answer to anything. Not at a threat. At the walls. Because the eyes had shown it the walls, every line, every join, every thin place. And the wheel looked at walls the way it had looked at them on the reversion night. As an injury. As something done to him. Something to adapt to. To get past.
+He felt it. In his shadow, on the sheet under him, under the bed, under the floor. Once. Not in answer to anything. Not at a threat. At the walls. Because the eyes had read the walls, every line, every join, every thin place, and what the eyes read reached the wheel. And the wheel took walls the way it had taken them on the reversion night. As an injury. As something done to him. Something to adapt to. To get past.
 
 *Click.*
 
@@ -100,7 +100,7 @@ He heard her move. He could not see her. His eyes were open and looking in, at t
 
 The door opened. He did not hear it open. He felt the heat of someone small and blue and terrified come into the room very fast, already reaching.
 
-*The eyes are reading the walls,* said Ciel, to Rimuru, to both of them, at once. *They have read all of it. Every join. Every thin place. The wheel can see them. It is turning. At the walls. It thinks the walls are hurting him.* A pause, very fast. *It is going to adapt to them. All of them. At once.*
+*The eyes are reading the walls,* said Ciel, to Rimuru, to both of them, at once. *They have read all of it. Every join. Every thin place. The wheel has them. It is turning. At the walls. It thinks the walls are hurting him.* A pause, very fast. *It is going to adapt to them. All of them. At once.*
 
 "Ring it," said Rimuru. His voice was perfectly calm. That was how Mau knew how frightened he was. "Frieren. The bell. Three long, one short. Now. Everyone out."
 

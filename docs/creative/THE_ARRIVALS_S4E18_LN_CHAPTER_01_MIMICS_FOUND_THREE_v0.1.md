@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 7  
-**Continuity state:** Day 112 | the gate changes: WEEK 2; the old chest is gone; 'New chests' | Ciel allows Mau: the wheel listens, doesn't turn | party: Stark (new axe), Fern, Frieren, Mau | a ruin of dressed stone; skeleton beasts; Stark's axe works ('It works.' / 'I saw.') | Mau doesn't fight | three mimics: the 99% spell says mimic, she opens anyway; 'It's dark!' | 'Never underestimate the knowledge of someone older than you' / 'You forget I'm older than you now' | 'There's always the one in a hundred' | Mimics found: 3. Mimics opened: 3. Grimoires: 0. (So far.)
+**Continuity state:** Day 112 | the gate changes: WEEK 2; the old chest is gone; 'New chests' | Mau goes in awake, by his own Day 107 plan: The Noise turns toward things, he notices; Ciel observes, does not permit | no signature (DH-074): 'All five' | party: Stark (new axe), Fern, Frieren, Mau | a ruin of dressed stone; skeleton beasts; Stark's axe works ('It works.' / 'I saw.') | Mau doesn't fight | three mimics: the 99% spell says mimic, she opens anyway; 'It's dark!' | 'Never underestimate the knowledge of someone older than you' / 'You forget I'm older than you now' | 'There's always the one in a hundred' | Mimics found: 3. Mimics opened: 3. Grimoires: 0. (So far.)
 
 *When: Day 112, the dawn the gate changed, the start of its second week. The watch at the stake, Seika on her mattress and the washing court mornings all carry on.*
 
@@ -50,13 +50,15 @@ And went to wake Mau.
 
 "It's dawn."
 
-"It changed. It's new. Nobody's been in it." She was standing over the bed in the grey light with her shawl still on and snow on the hem of her skirt. "Ciel said after you'd seen the shape of it. You've seen the shape of it. Four times. Through the shadows." She paused. "Ask her."
+"It changed. It's new. Nobody's been in it." She was standing over the bed in the grey light with her shawl still on and snow on the hem of her skirt. "You said you'd go in when you'd seen the first room and the way out. You've seen them. Four times. Through the shadows." She paused. "And you said you'd go in awake. Ask her what she saw."
 
-Mau, half asleep, asked her.
+Mau, half asleep, asked Ciel what she had seen.
 
-*She is right,* said Ciel, after a moment, with what sounded like great reluctance. *I have seen it through five shadows, four times. I know how it is built now. Rooms. Passages. Things that fight. Things that drop crystals.* A pause. *And I know what the wheel does when it is near. It listens. It does not turn. Not yet.* Another pause. *You may go. If you go carefully. If you do not fight unless you must. And if you come out when Rimuru says.*
+*Rooms,* said Ciel, after a moment. *Passages. Things that fight. Things that drop crystals. I have seen it through five shadows, four times. I know how it is built now.* A pause. *And I have watched you each time you looked. The Noise turns toward it. Every time. And every time since the stake, you have noticed it turn.* Another pause. *That is what I can tell you. The rest is yours.*
 
-"She says yes," said Mau.
+Mau lay still for a moment, listening to the thing behind his breastbone lean toward something forty paces away in the snow, and knowing that he could hear it lean.
+
+"I'm going," he said.
 
 "I know," said Frieren. "I heard your face."
 
@@ -64,7 +66,13 @@ Mau, half asleep, asked her.
 
 It was the four of them. The table had agreed it on the evening of the axe, before anyone had known the gate would change: the second party would be Frieren, and Fern, and Stark in front with the new axe, and Mau. Not Milim, this time. *You've been in,* Rimuru told her. *Let someone else have a turn at being amazed.* Milim had sulked for an hour and then gone to stand at the red stake with her arms folded to watch, as Guardian of the entrance, which she had decided was a separate and equally important job.
 
-Mau signed the contract under the five names that were already there. The ink flared gold, faintly, and went black. Frieren signed under him, in small neat runes. Fern signed in her small neat hand. Stark signed, and then looked at his name for a while, under Fern's, before he gave the pen back.
+Fern opened the contract against her ledger, at the stake. Five names, from the first run. In her ledger, beside it, the line from the day of the rules: *Signature did not hold. Agrees to the rules.*
+
+Mau did not reach for the pen. He looked at the five rules he had written, and then at Fern.
+
+"All five," he said.
+
+Fern wrote the day beside the ledger line, and turned the paper round. Frieren signed, in small neat runes. Fern signed in her small neat hand. Stark signed, and then looked at his name for a while, under Fern's, before he gave the pen back. Each time the ink flared gold, faintly, and went black.
 
 Rimuru put the threads in their shadows. Mau felt his go in, a small cool thread curling once at his heel and then gone.
 
@@ -138,9 +146,11 @@ They went on. Slowly. As agreed.
 
 There were more of the skeletons, in ones and twos. Stark took most of them. When three came at once, from two sides, Fern lifted one hand, almost lazily, and a line of white light went out from her fingertips and through two of them, and they came apart. Zoltraak. It worked. Of course it worked. Frieren took the third without looking up from the carving on a pillar she was reading.
 
-Mau did very little. Ciel had asked him not to, and he could feel why. Every time something came out of the dark, the small old thing behind his breastbone lifted its head and watched it, with an attention he did not like. It did not turn. It only watched. He kept his hands in his pockets and his eyes on Stark's back, and carried the bag, and let the others fight.
+Mau did very little. That had been his plan, and he could feel why. Every time something came out of the dark, The Noise turned toward it: the same lean he had felt at the stake, a reading that started before he asked for it, with an attention he did not like. He noticed every time. He stayed where he was. He kept his hands in his pockets and his eyes on Stark's back, and carried the bag, and let the others fight.
 
-*Good,* said Ciel, very quietly. *Like that.*
+The wheel did nothing at all. Nothing had touched him. There was nothing to adapt to.
+
+*You noticed,* said Ciel, very quietly. *Every time.*
 
 And then, in a room off the main corridor, a square room with a fallen pillar across one corner, there was a chest.
 

@@ -160,7 +160,7 @@ Six of them. No. Two. Two eyes that were six. Two eyes that saw everything: ever
 
 Mau saw them. The way they worked. The roadmap of them. All of it, in one look.
 
-And far down inside him, in the place where the wheel was, something turned. Not toward Gojo. Toward the *seeing*. Toward the eyes. The way it had once turned toward a Void full of infinite information in a plaza, and been stopped before it finished.
+And far down inside him, The Noise turned. Not toward Gojo. Toward the *seeing*. Toward the eyes. The way it had once turned toward a Void full of infinite information in a plaza, and been stopped before it finished.
 
 Analyze took the roadmap.
 

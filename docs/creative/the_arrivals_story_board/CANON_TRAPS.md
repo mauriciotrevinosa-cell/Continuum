@@ -122,6 +122,14 @@ not on this list. Add a line every time the creator catches a new slip.
   it once, on purpose, for Gojo (V24 #6). The house itself knows; the rule is
   only about arrivals. Never let an arrival talk about the cost as if told
   (DH-071).
+- **The wheel only adapts.** It turns at what hurts him and learns its shape;
+  it does not listen, watch, attend, want or speak. Reading, turning toward
+  things and the pull toward the gate are **The Noise** (Observe, Analyze,
+  Understand, Construct). Creator correction, 2026-10-13 (DH-075; DH-073).
+- **Mau cannot sign contracts.** From the gate contract on (V23 #4, Day 107)
+  his name does not hold; The Noise said only "No". He never signs after
+  that: the others sign, and Fern writes that he agrees. Never invent a
+  reason or more words from The Noise (DH-074, DH-075).
 - **Seiko's coin** was promised on Day 40 (V21 "The List") to Yuta's teacher,
   "for his doctor", repeated on Day 130 ("I don't say things twice") and
   given on Day 132. She never "doesn't know yet" who it is for.

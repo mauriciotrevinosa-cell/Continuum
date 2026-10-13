@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 25  
 **Reading order:** 13  
-**Continuity state:** Days 194-195 | Coco to Fern: 'I'm not asking anyone to fix her... I just need her not to be alone' / 'Bring her, or fix her?' / 'Bring her' / 'Yes' (fixing is a separate question) | Qifrey gives back the coin: warm since the bridge; 'So I'm afraid. And here it is' | the Witch Hat room: the voice says her mother's name, never printed | the coin warms and is gone | the eighth bell: a woman of clear crystal in the intake hall, reaching down to a child's height, mid-word | Qifrey carries Coco to the fort, screaming | Mau alone with her: the wheel attending, not reaching: 'I think I can help with that'
+**Continuity state:** Days 194-195 | Coco to Fern: 'I'm not asking anyone to fix her... I just need her not to be alone' / 'Bring her, or fix her?' / 'Bring her' / 'Yes' (fixing is a separate question) | Qifrey gives back the coin: warm since the bridge; 'So I'm afraid. And here it is' | the Witch Hat room: the voice says her mother's name, never printed | the coin warms and is gone | the eighth bell: a woman of clear crystal in the intake hall, reaching down to a child's height, mid-word | Qifrey carries Coco to the fort, screaming | Mau alone with her: The Noise reads the crystal, not pulling; the wheel asleep (it only turns at what hurts him); his own thought: 'I think I can help with that'
 
 *When: Days 194 and 195. Hollis has made a second run, and Pell pointed at his cart again, and the good cream sold out anyway. Wren eats with Ori at the end of the bench now. The dead earth in the south field has a green haze on it, if you look from the right place. Coco has been to Echidna's library every week since the ink, looking for another way, and has not found one.*
 
@@ -244,9 +244,9 @@ Not the eyes. The eyes were quiet. He was not looking through anything. He was l
 
 Not Ear. Ear was asleep in his shadow, curled, quiet.
 
-It was the wheel.
+It was The Noise.
 
-It had not turned. It was not turning. It was not reaching, or pressing, or wanting, the way it had wanted in the south field, the way it had pressed at the walls like an injury. It was just there. Awake. Looking at the crystal through him. Very still. Very interested.
+It was not pulling. It was not drawing him anywhere, the way it had drawn him across the snow to the gate. It was not the wheel either; the wheel was asleep in his shadow, the way it always was when nothing was hurting him. The Noise was just there. Awake. Turned toward the crystal through him. Very still. Very interested.
 
 The way a craftsman looks at a lock he has never seen before.
 
@@ -254,11 +254,11 @@ The way a doctor looks at a wound.
 
 *Mau,* said Ciel, in his head. Carefully. *I feel it too.*
 
-He did not answer her at once. He stood in the doorway of the intake hall in the morning light, with the hundred small rainbows on the floor round the crystal woman's feet, and listened to the thing in him that had lifted its head.
+He did not answer her at once. He stood in the doorway of the intake hall in the morning light, with the hundred small rainbows on the floor round the crystal woman's feet, and felt the thing in him that had lifted its head.
 
 It was not asking to come out.
 
-It was saying something else. Something he had never once heard it say, in two years. Something very quiet and very sure.
+It was reading. The shape of what had gone into her. How far it had gone. Where it had closed. It had never read anything so carefully, in two years. And under the reading, very quiet and very sure, came a thought that was not The Noise's. It was his own.
 
 *I think I can help with that.*
 
@@ -266,4 +266,4 @@ It was saying something else. Something he had never once heard it say, in two y
 
 His voice came out very level.
 
-"Tell Rimuru and Yuta to come," he said. "Now. Here." He did not take his eyes off the crystal. "Something in me is saying it thinks it can help."
+"Tell Rimuru and Yuta to come," he said. "Now. Here." He did not take his eyes off the crystal. "Something in me is reading her. And I think I can help."

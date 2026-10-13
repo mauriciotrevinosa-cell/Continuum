@@ -212,7 +212,7 @@ The creator, reading V22's second tea, asked for it and then gave the shape. **P
 **The family day and the fort's contract (creator).**
 - In the house scene, Mau promises Ori a day: him, her and Frieren.
 - Umaru, the sister, finds out. The fort reaches a consensus: they let the three go, and Mau owes the fort a day.
-- He signs a contract: **YOU OWE THE FORT A DAY (FOR US).** It echoes the condition he signed in the ledger (DH-023).
+- He signs a contract: **YOU OWE THE FORT A DAY (FOR US).** It echoes the condition he signed in the ledger (DH-023). **Open since DH-075:** Mau can't sign contracts after Day 107; decide how this one works.
 
 **Mau and Rem (creator noticed).** S4 lacks a real Mau and Rem thread. There is one V23 beat; the creator hasn't read it yet.
 - *Claude's proposal:* Rem is the person in the house who has done what Mau does, throwing herself in front of someone, and has lived with what it cost the one left behind. Ram said Rem got careful "because she'd done something once she was sorry for" (V23).

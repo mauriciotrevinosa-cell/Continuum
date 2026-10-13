@@ -1390,3 +1390,20 @@ Executed in V23 #4, Rules of the Gate, after the five reconnaissance members sig
 - Mau says The Noise is not letting him sign and voluntarily commits to following all five rules anyway. His choice to wait and the Day 109 party remain unchanged.
 - This is a local unexplained failure to register this signature, not a broken contract, universal contract immunity or permission to ignore the rules. His previously valid contracts and their consequences remain unchanged.
 - The cause and future meaning stay open. Do not invent an explanation, additional dialogue from The Noise or a new contract-system rule.
+
+
+## DH-075 — The wheel is adaptation, not a system; Mau signs no contracts (creator, 2026-10-13)
+
+The creator, reading V23 #7, caught two contradictions with DH-073 and DH-074 that survived in later chapters.
+
+- **The wheel only adapts.** It turns at what hurts him and learns its shape. It does not listen, watch, attend, want or speak. Every "the wheel listens / is attending / looked at her / thinks it can help" is The Noise (Observe, Analyze, Understand, Construct).
+- **Mau cannot sign contracts; The Noise doesn't allow it.** After Day 107 he never signs; the others do, and Fern records that he agrees. No explanation and no further words from The Noise.
+
+Fixed in the text:
+- V23 #7 "Mimics Found: Three": Mau goes in by his own Day 107 plan, awake; Ciel reports what she observed and gives no permission; Mau does not sign ("All five"); The Noise turns toward each thing in the dark and he notices; the wheel does nothing because nothing touches him.
+- V24 "The Same Stitches" and "Looking at the Walls": the turning toward the eyes and the reading are The Noise; the wheel still turns at the walls as an injury (adaptation).
+- V25 "Mimics Found One": the first run was the day he chose to wait, not a day he wasn't allowed in.
+- V25 "Her Coin", "Something Thinks It Can Help", "Two Questions": The Noise reads the crystal. "I think I can help with that" is Mau's own thought, never a voice. Ciel: the wheel is asleep because nothing has hurt him, and it would have to be hurt by the binding to learn it. The plan and the eight turns are unchanged; that is adaptation. In Fern's ledger Mau doesn't take the pen and Fern writes *Mau. Agrees.*
+
+Open for the creator: the S5 plan (DH-067) has Mau sign YOU OWE THE FORT A DAY (FOR US). Under this rule, decide whether he signs it, someone signs for him, or his name won't hold and the fort finds that funny.
+

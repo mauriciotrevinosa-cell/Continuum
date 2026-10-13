@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 25  
 **Reading order:** 14  
-**Continuity state:** Day 195 | Rimuru, Yuta, Frieren | Ciel: the wheel is attending | Gojo: 'It's not stone... a finished spell... asleep. Holding her' | 'Would anything happen to Rimuru if he absorbed her?' / safe, 'but I don't understand why' / Gojo: 'It wasn't drawn for anyone else' | the plan: both inside Rimuru; his hand on hers; let it take him; the wheel adapts; two reference points; a skill | Yuta waits for Rimuru (his body) | 'You want me to eat you' / Ciel: the best idea; the risk sits with 'the two idiots who accepted' / 'Hey' / 'They had a ceremony' / 'the most Mau idea' | the emergency exit | 'Before you two idiots do anything' / 'Ciel's words' | Frieren stays with her mother: 'You told me first'
+**Continuity state:** Day 195 | Rimuru, Yuta, Frieren | Ciel: The Noise is reading the crystal; the wheel sleeps, it only turns at what hurts him | Gojo: 'It's not stone... a finished spell... asleep. Holding her' | 'Would anything happen to Rimuru if he absorbed her?' / safe, 'but I don't understand why' / Gojo: 'It wasn't drawn for anyone else' | the plan: both inside Rimuru; his hand on hers; let it take him; the wheel adapts; two reference points; a skill | Yuta waits for Rimuru (his body) | 'You want me to eat you' / Ciel: the best idea; the risk sits with 'the two idiots who accepted' / 'Hey' / 'They had a ceremony' / 'the most Mau idea' | the emergency exit | 'Before you two idiots do anything' / 'Ciel's words' | Frieren stays with her mother: 'You told me first'
 
 *When: Day 195, the same morning, a quarter of an hour later. Coco is in the fort, in Qifrey's arms, and has not let go of him. The plaza is full of people not going into Arrival House. Jinshi is standing in its doorway like a wall.*
 
@@ -18,19 +18,19 @@ The crystal woman stood in the light from the high windows, reaching down for th
 
 Nobody said anything for a long moment.
 
-"Ciel said you said something thinks it can help," said Rimuru. Very quietly.
+"Ciel said you think you can help," said Rimuru. Very quietly.
 
 "Yes," said Mau.
 
-"What thinks it can help?"
+"How?"
 
 Mau did not take his eyes off the crystal.
 
-"The wheel," he said.
+"The Noise," he said. "It lifted its head when I came in."
 
 Yuta's hand tightened on the ring.
 
-"It's not turning," said Mau quickly. "It's not reaching. It's not doing anything it did in the field. It's just—" He stopped. He did not know how to say it. "It's looking at her. Through me. The way Senku looks at a broken lens. The way Maomao looks at a cut." He paused. "It woke up when I came in, and looked at her, and said *I think I can help with that*. And then it went quiet. It's waiting." He looked at Rimuru at last. "It's never said anything like that before. In two years. It's only ever wanted things."
+"It's not pulling," said Mau quickly. "Not like the gate. I'm not walking anywhere. It's just—" He stopped. He did not know how to say it. "It's reading her. Through me. The way Senku looks at a broken lens. The way Maomao looks at a cut." He paused. "It's never read anything that carefully. Not in two years. And while it was reading, I thought: *I think I can help with that.* Me. Not it." He looked at Rimuru at last. "I don't know how yet."
 
 Rimuru looked at him for a long time.
 
@@ -38,11 +38,11 @@ Rimuru looked at him for a long time.
 
 In both their heads, at once, she answered. Carefully.
 
-*I feel it,* said Ciel. *It is true. The wheel is awake and it is not pressing. It is not at the walls. It is—* A pause. *It is attending. I have no better word. It is attending to the crystal the way it attended in the plaza, and to the Infinity that leaked. The way it attends to anything it believes it can adapt to.*
+*I feel it,* said Ciel. *It is true. The Noise is turned toward the crystal, and it is not pulling. It is not at the walls. It is reading. Observe. Analyze. The way it read the gate, and the threads, and everything he has ever looked at long enough.*
 
-"Adapt," said Yuta.
+"And the wheel?" said Yuta.
 
-*That is what it does,* said Ciel. *It is the only thing it does. It turns, and with each turn it learns the shape of what is hurting it, until it is not hurt any more. Sukuna built a whole technique out of it. In the field it turned at the walls because it had decided the walls were an injury.* A pause. *Now it has looked at a binding it has never seen, and decided it could learn the shape of it.*
+*Asleep,* said Ciel. *The wheel does not read. It adapts. It is the only thing it does. It turns, and with each turn it learns the shape of what is hurting it, until it is not hurt any more. Sukuna built a whole technique out of it. In the field it turned at the walls because it had decided the walls were an injury.* A pause. *It has never met a binding like this one. Nothing like it has ever hurt him.*
 
 
 
@@ -70,7 +70,7 @@ Mau looked at the crystal. At the reaching hand. At the open mouth.
 
 Rimuru went very still beside him.
 
-Ciel was quiet for a moment. Mau could feel her working. Turning it over. Reading what Gojo had said, and what the wheel was attending to, and what she could feel of the crystal through Mau's eyes.
+Ciel was quiet for a moment. Mau could feel her working. Turning it over. Reading what Gojo had said, and what The Noise had read, and what she could feel of the crystal through Mau's eyes.
 
 *No,* said Ciel at last. *Nothing would happen to him. The crystal is no longer trying to crystallize anything. It is not spreading. If he took her into his stomach, she would be held, the way everything he takes in is held. Outside time. Still. Safe. And I could read every part of her. Every molecule.* A pause. *It would be safe.*
 
@@ -82,7 +82,7 @@ Then, more slowly:
 
 Nobody said anything.
 
-Mau stood in the doorway of the intake hall, with the three of them beside him and Gojo behind, looking at the woman made of crystal. And he felt the wheel, far back behind the walls, attending. Waiting. Very still.
+Mau stood in the doorway of the intake hall, with the three of them beside him and Gojo behind, looking at the woman made of crystal. And he felt The Noise, far back behind the walls, still turned toward her. Reading. And under it the wheel, asleep, because nothing had hurt him. Yet.
 
 And he remembered something.
 

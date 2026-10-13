@@ -32,7 +32,7 @@ Fern looked at him for a long moment. Then she looked at the list in her hand. G
 
 "And the last one. To leave no one inside."
 
-That one was Mau's. It was the last line of the contract he had written before the first run, in the spring, when he had not been allowed to go in, and had written five rules on the back of Fern's list instead and made every one of them sign. The last one was the only one anyone ever said aloud. *To leave no one inside.* He had not been allowed in today either. He was standing at the red stake with his hands in his pockets and Diablo a pace behind him, pleasantly, on the rota, watching them go.
+That one was Mau's. It was the last line of the contract he had written before the first run, in the spring, the day he chose to wait outside: five rules on the back of Fern's list, signed by every one of them but him. The last one was the only one anyone ever said aloud. *To leave no one inside.* He was not allowed in today; not since the field. He was standing at the red stake with his hands in his pockets and Diablo a pace behind him, pleasantly, on the rota, watching them go.
 
 "And six," said Umaru, who had come out to the stake in her hood with the Ministry slate, as she did every week, to read out her guide.
 

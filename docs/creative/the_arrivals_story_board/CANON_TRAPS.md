@@ -244,3 +244,9 @@ not on this list. Add a line every time the creator catches a new slip.
 - Their exceptional in-the-zone flow lets them reclaim enough function for Purple preparation, with effort and damage still present. It is not an automatic, free or permanent burnout reset.
 - Gojo devotes what he recovers to Purple and consciously leaves automatic Infinity OFF. Maki exploits that post-domain opening. No spear ignoring Infinity, intrinsic Infinity bypass, pre-fight nerf or extra attacker.
 - Both Purples remain unfired. Rika/Maki interrupt; only then does Gojo's first Continuum nerf land. Do not depict the domains still active at interruption or collapsing for the first time at the nerf.
+
+
+## Okarun / Momo — memory asymmetry (DH-087)
+
+- OKARUN lost recognition/memories of Momo; MOMO remembered him. His memories return gradually in S2 (Who Are You; Momo). Never invert that history in a later date or retrospective.
+- Abduction (Probable): Okarun is the one deliberately recalling their shared beginnings; Momo does not have an amnesia/recovery episode. Her later wish to remember his excited face is affection, not recovered memory.

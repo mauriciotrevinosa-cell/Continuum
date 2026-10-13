@@ -1556,3 +1556,12 @@ Creator notices the missing private conversation before the later emotional afte
 - She does not ask him to abandon Yuta. He listens and recognizes she was trying to reach him, not merely watching. His apology is not the whole conversation.
 - No promise of never being hurt or no future recurrence. He commits to telling Gojo/Ciel what he remembers BEFORE another such attempt, and telling Frieren even when he thinks it will frighten her.
 - Quiet contact rather than the later full breakdown. The rest of the date, its warning signs and later aftermath remain unchanged; speaking now does not heal away accumulated fear.
+
+
+## DH-087 — Correct Okarun / Momo memory roles in the date (creator, 2026-10-13)
+
+Abduction (Probable) incorrectly attributed the old loss of memory to Momo. S2 Who Are You and Momo, and the canon digest, establish the opposite: Okarun did not remember her; Momo retained their shared past; his recognition recovered gradually.
+
+- Date corrected: Okarun recalls their first encounter on purpose, aware of the gap he once had. Momo reassures him without pretending she forgot or requiring him to prove his memory.
+- Stargazing staging, interruptions, shooting-star wishes and shared handholding remain unchanged. No new amnesia or magical fix is introduced.
+- CANON_TRAPS records the asymmetry so later recollections do not swap the roles again.

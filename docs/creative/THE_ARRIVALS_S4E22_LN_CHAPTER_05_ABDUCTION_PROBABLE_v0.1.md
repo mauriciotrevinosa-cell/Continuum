@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 11  
-**Continuity state:** Night of Day 138 | Okarun's kit and star chart | the bell tower | Turbo Granny 'supervising', Vamola 'guarding' from the ladder | Seiko: 'There's soup' / 'You were jealous' | Momo remembers on purpose now | a shooting star: 'UFO' / 'a rock, on fire'; her wish: that he keeps looking for aliens; his: that she keeps believing in ghosts
+**Continuity state:** Night of Day 138 | Okarun's kit and star chart | the bell tower | Turbo Granny 'supervising', Vamola 'guarding' from the ladder | Seiko: 'There's soup' / 'You were jealous' | Okarun remembers on purpose now; Momo never forgot him | a shooting star: 'UFO' / 'a rock, on fire'; her wish: that he keeps looking for aliens; his: that she keeps believing in ghosts
 
 *When: The night of Day 138, the second dating day. The same night as Fern and Stark's, in the next chapter. Mau has started counting things without meaning to, and nobody has told Okarun.*
 
@@ -144,19 +144,35 @@ She was not looking at him. She was looking at the sky, at Abduction (Probable),
 
 "Mm."
 
-"Do you remember the first time? In our world. When you said ghosts were real and I said aliens were real and we bet—"
+"I remember the first time," said Okarun. "In our world. When you said ghosts were real and I said aliens were real and we bet—"
 
 "I remember," said Momo.
 
-She said it very simply. Very carefully. The way you say something you once, for a while, could not.
+She always had.
 
-Okarun went quiet.
+Okarun looked down at his cup. There had been a time, here, when he had looked at her and not known her. When she had remembered both of them and he could not understand why she was looking at him like that. His memories had come back slowly. But he still thought about the gap sometimes, at night. And she knew he did.
 
-Because there had been a time, in this world, after the bridge, when she had not remembered. Not all of it. Not him. When she had looked at him across a table in the old inn and not known why he was looking at her like that. It had been fixed. It had come back. But he still thought about it sometimes, at night. And she knew he did.
+"I remember it on purpose now," he said. "Every day. A little bit. The bet, and the tunnel, and me being an idiot about the saucers." He kept his eyes on the cup. "So it doesn't go anywhere again."
 
-"I remember it on purpose now," said Momo. "Every day. A little bit. The bet, and the tunnel, and you being an idiot about the saucers." She did not look at him. "So it doesn't go anywhere again."
+Momo turned toward him.
 
-Okarun did not say anything. He did not trust his voice.
+"You don't have to pass a test," she said.
+
+"I know."
+
+"You do it anyway."
+
+He nodded.
+
+She sat with that for a moment. Then she moved her cup beside his on the blanket.
+
+"Then tell me about the saucers," she said. "You never run out of those."
+
+He looked at her. Her mouth moved a little, almost a smile.
+
+"I remember you even when you're not trying," she said.
+
+Okarun did not answer. He did not trust his voice.
 
 And then, overhead, something moved.
 

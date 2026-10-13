@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 5  
-**Continuity state:** Day 133 | extended defensive exchange and shared field geography; interrupted preview, no new outcome | the guardrails lifted on purpose | the snow hangs; the Shrine and Mau's Void: 'That's mine... and that's his' | four seconds before Continuum catches up: Gojo's true Void meets the stolen one; Mau bears it | Yuta's domain flickers: swords, Rika | 'Wait. That's mine. That stance... You've fought me before' (the Trial) | Red; Mau goes slime (Rimuru: 'that's my body') | the wheel above Mau: 'That's how he killed me' | Rika catches him; Maki's spear: 'Sit down, Satoru' | the nerf lands; Gojo's eyes, sky-blue, afraid
+**Continuity state:** Day 133 | unmeasured Gojo; expanded repertoire and domain pressure; interrupted dual-Purple preparation; first Gojo nerf only after interruption | the guardrails lifted on purpose | the snow hangs; the Shrine and Mau's Void: 'That's mine... and that's his' | before Continuum completes Gojo's measurement: Gojo's true Void meets the stolen one; Mau bears it | Yuta's domain flickers: swords, Rika | 'Wait. That's mine. That stance... You've fought me before' (the Trial) | Red; Mau goes slime (Rimuru: 'that's my body') | the wheel above Mau: 'That's how he killed me' | Rika catches him; Maki's spear: 'Sit down, Satoru' | the nerf lands; Gojo's eyes, sky-blue, afraid
 
 *When: Day 133, the same afternoon, the same field. The house at the fence at the top of the slope.*
 
@@ -120,11 +120,9 @@ He pushed back.
 
 
 
-Continuum had not measured this. Ciel said so afterward, very precisely, at the long table, to the whole house. *It measured him at the door. It measured Mau long ago. It did not measure this.* A pause. *There was a moment, perhaps four seconds, where neither of them was what Continuum had allowed. They were what they are. And the world had not caught up.*
+Continuum had not finished measuring Gojo. Ciel said so afterward, very precisely, at the long table. *The reading began at the door. It did not close there. I warned him in the field. By the time it closed, the fight had already been stopped.* A pause. *Mau's walls opened during that interval. Those are different failures. Do not mistake them for the same one.*
 
-Mau felt it happen. He felt the weight lift off Gojo, the way the snow had lifted off the field. The thing that had held him down since the door, since the bell. Suddenly not there.
-
-And Gojo, for four seconds, was what he had been.
+Mau felt Gojo gather himself. No weight lifting. No restriction breaking. The man in front of him had been carrying this the whole time, and now he stopped keeping it small.
 
 His domain came up like a wave meeting a wave.
 
@@ -182,7 +180,7 @@ And then a third thing happened, which nobody had planned, least of all Yuta.
 
 Yuta had been standing behind Mau the whole time, with the dark film of his cursed energy up round him, because he had promised not to fight his teacher. But he was inside the edge of two domains now. Two infinities and a shrine. And his body, which had lived a whole life somewhere else, and had been a special grade, and had once, in that life, had a domain of its own, *remembered*.
 
-For four seconds, Continuum had not caught up with him either.
+For a few seconds, caught in the overlap, Yuta's own limit slipped too.
 
 The ground under Yuta opened.
 
@@ -236,9 +234,9 @@ And Gojo, seeing it come, grinned wider, and let go too.
 
 
 
-It lasted perhaps two seconds. Nobody at the fence could follow it.
+From the fence, the next exchanges were impossible to put in order. Inside them, Mau's body remembered where to put its hands.
 
-Gojo's hand came up and something red bloomed in it. Not fire. Not light. A point of pure outward force that should not have existed in a man the world had decided could only make Infinity. Red. He threw it the way you throw a ball to a friend.
+Gojo's hand came up and something red bloomed in it. Not fire. Not light. A point of pure outward force, compressed with a precision Mau's borrowed seeing could follow but his body could not reproduce. Red. He threw it the way you throw a ball to a friend.
 
 It hit Mau in the chest.
 
@@ -249,6 +247,56 @@ It had gone soft. Not torn. *Soft.* His whole body, in the instant before the Re
 Up at the fence, Rimuru made a sound like he had been hit.
 
 "That's *mine*," said Rimuru, faintly, to nobody. "That's my body. He just—that's *me*—"
+
+Mau came back with his fingers already spread.
+
+A white bolt left his hand. Gojo turned his face a little and let it spend itself against the distance that protected him. Mau sent the second toward the ground beside his feet. Gojo moved before it struck, and the snow burst where he had stood.
+
+At the fence, Frieren knew the shape of the casting.
+
+Then Mau's other hand closed around something dark.
+
+It was small at first. A black centre with the light bending at its edge. The spell Frieren had once used to pull the ground apart beneath an enemy. In Mau's hand its outline shook. Snow, loosened earth and the splinters from a buried root began moving toward it.
+
+"Mau," Frieren said.
+
+He was not hearing her. His body was reaching into the places the Trial had taught it to reach. A spell for distance. A body that gave under a blow. A way out of a grip. Something that could make the place his enemy stood cease to be a place to stand.
+
+He pushed the dark centre toward Gojo.
+
+Gojo's foot slid. He set it again, looked at the drawing-in snow, and raised two fingers.
+
+Red struck the spell from the side.
+
+The inward pull and the outward force met at an angle. For a moment they held, and the hanging snow flattened into a crooked sheet between them. Then the spell's trembling edge broke. The centre folded shut, and a fan of snow and earth flew across the empty lower field.
+
+Gojo had turned the collision away from the house.
+
+Mau felt the failure up his arm. His fingers went numb. He could still see the next casting, its shape and every correction it needed, but his hand would not make the shape cleanly.
+
+Gojo did not give him time to try.
+
+Blue caught the space beside Mau's shoulder and drew him off his feet. Mau blinked out of the pull and arrived crouched, one hand dragging in the snow. Gojo was waiting there. Mau's forearm met a blow meant for his jaw, and he lost the ground he had just found.
+
+The next blink was shorter. Worse. Gojo followed that one too.
+
+"Too much," Gojo said through his teeth. "You're trying to do all of it."
+
+Mau answered with a barrier. It rose in overlapping pale planes between them. Gojo changed the pull instead of striking it head-on; the nearest plane turned, and the rest lost their alignment. Mau let them fall before they could trap his arm between them.
+
+Something white opened behind his shoulder. Not a completed spell. His hand shook, and it went out.
+
+He was paying for every answer. Nothing he reached for stayed easy. The borrowed seeing found another way to meet Gojo, and his body followed it before it had finished surviving the last.
+
+Gojo changed his grip on his own domain.
+
+The black boundary bent. Mau felt the pressure shift from the place he had braced against to a place he had not known needed bracing. The shrine's cutting scored a fresh line through the snow between them. Gojo stepped across it at the instant it passed and drove Mau back toward the seam between the two Voids.
+
+He was not simply using more force. He was changing the question faster than Mau could finish answering it: the distance, the angle, the part of the clash he was willing to hold and the part he was willing to risk.
+
+Mau's imitation did not follow cleanly. His left eye burned. He kept his feet, but only because the body beneath them remembered losing on a street of white light, over and over, until it had learned one last answer.
+
+The air above his shadow changed.
 
 And Mau, re-forming, lifted his head, and looked at Gojo, and above Mau's head, in the grey air over the south field, the wheel appeared.
 
@@ -272,23 +320,45 @@ Mau did not know it had turned. Mau was not there. Mau's body was in the Trial, 
 
 His left foot slid back. His right shoulder lowered.
 
-Gojo saw the change and moved his hand away from the line Mau was watching. The delight had gone, but he did not retreat. His other hand rose, and the snow between them began to pull out of its neat suspended shapes.
+Blue formed at one hand. Red at the other.
 
-At the fence, Frieren saw Mau's mouth move. No sound reached her. He was looking at the man in front of him with an expression she had never seen on him in the waking house.
+They did not sit neatly in his palms. The inward pull dragged at his fingers; the outward pressure cracked the skin across his knuckles. His wrists shook as he brought them toward the same line.
 
-She called his name.
+Gojo saw what he was making.
 
-Neither man turned.
+The fear stayed in his face. He raised his own hands anyway.
 
-The wheel reached the next spoke. Mau began the movement his body remembered. Gojo set himself to answer it.
+His Blue was steady. His Red narrowed until its edge stopped scattering light. Mau could see the difference: one man forcing two incompatible answers toward each other, the other arranging exactly where they would meet.
 
-Neither finished.
+At the fence, Yuta saw both preparations and understood them before anyone else did.
+
+"*Rika.*"
+
+Rimuru caught the nearest two people at the rail and pulled them down the other side. Frieren tried to leave the fence. Rimuru caught her sleeve before she could enter the line between them.
+
+A violet edge appeared between Mau's hands.
+
+Across from him, the same colour gathered with a terrible, quieter precision.
+
+Neither had released it. There was still that last movement to make, the space between preparation and an attack leaving the hand. Gojo's shoulder turned. Mau began to bring his fingers forward.
+
+They were aimed at each other. The house was behind one of them. The road and the rest of the field were behind the other.
+
+Neither body was remembering those places now.
+
+Frieren called his name.
+
+The wheel moved toward the next spoke.
+
+Neither Purple left its maker's hands.
 
 
 
 Rika caught him.
 
-She came out of Yuta's ring all at once. Not the faint shape over the field of swords. All of her. Huge and pale and long-armed, with her crown of hair, out of the ring on Yuta's hand and across the snow, and she wrapped both her enormous arms round Mau from behind and lifted him off the ground and *held* him, the way you hold a child having a nightmare, his arms pinned, his face pressed into her.
+She came out of Yuta's ring all at once. Not the faint shape over the field of swords. All of her. Huge and pale and long-armed, with her crown of hair, out of the ring on Yuta's hand and across the snow, and she wrapped both her enormous arms round Mau from behind, broke the alignment of his hands, lifted him off the ground and *held* him, the way you hold a child having a nightmare, his arms pinned, his face pressed into her.
+
+The violet edge tore apart into the separate forces that had not quite become it. Mau lost the casting. Rika held his arms away from each other until both hands were empty.
 
 Mau screamed.
 
@@ -300,6 +370,8 @@ It was at his throat. The point of it, Maki's cursed tool, the one she never let
 
 Maki stood at the other end of the spear, in the snow, with her feet planted and her face perfectly calm.
 
+Gojo looked from its point to Rika's closed arms. He opened his hands. His own preparation went out before he moved them any farther.
+
 "Sit down, Satoru," said Maki.
 
 Gojo did not move.
@@ -308,7 +380,13 @@ Gojo did not move.
 
 And then Continuum caught up.
 
-Mau felt it land. On all three of them. All at once. Like a ceiling coming down. The weight that had lifted for four seconds, for six, for however long it had been, came back. And it came back hard, the way a held breath comes out. It pressed them down into themselves, into what the world had decided they were allowed to be.
+Mau felt his walls come back. Yuta's brief opening closed with them. And on Gojo, for the first time since he had arrived, Continuum's measurement finished and the limit landed.
+
+Not a weight returning. A weight he had never carried before.
+
+He reached for the familiar inward pull to steady himself. There was nothing there. The space stayed space. Red was gone too. The domain would not answer. Only the distance at his skin remained, Infinity holding an inch of falling snow away from his sleeve.
+
+*It has finished,* said Ciel through Rimuru. *Only now.*
 
 Gojo's knees went. He went down in the snow, to one knee, then both. His hand, where the Red had been, was smoking faintly. Under the blindfold, a thin line of blood had started from his nose.
 

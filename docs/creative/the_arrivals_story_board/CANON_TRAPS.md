@@ -203,3 +203,12 @@ not on this list. Add a line every time the creator catches a new slip.
 
 - Never reveal or hint at a sealed choice (`SEALED_CLAUDE_CHOICES.md`).
 - If unsure whether a character belongs in a scene, ask the creator.
+
+
+## Gojo — delayed measurement / interrupted preview (DH-081)
+
+- Continuum starts measuring him at arrival; it finishes only AFTER Rika and Maki stop the Day 133 fight. Before that, Blue, Red, Domain and Purple preparation are available. Never write an initial Infinity-only nerf followed by a four-second restoration.
+- Mau's guardrail breach and Yuta's brief domain leak are separate from Gojo's pending first measurement. The wheel accelerates Analyze; it does not independently choose to investigate.
+- Mau uses existing borrowed patterns under a dangerous temporary breach, including Frieren's black-hole-like spell. Red disrupts that spell in this encounter; no universal equivalence or guaranteed counter is established.
+- BOTH prepare Purple; NEITHER fires it. Rika breaks Mau's hand alignment; Maki stops Gojo, who dismisses his preparation. Only then does the first Gojo limit land. No winner or released dual-Purple blast.
+- Source-era Gojo pushing his existing repertoire is a preview, not his final evolved ceiling. Mau does not retain free access to the whole repertoire. Later costs, warnings, containment and power progression remain intact.

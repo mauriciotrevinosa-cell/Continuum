@@ -88,7 +88,7 @@ And then Gojo was moving.
 
 
 
-He was not fast. That was the strange thing, afterward. Everyone agreed. He did not have Blue to throw himself across the distance, the way Yuta said he used to. He did not have anything but his legs and Infinity and the fury. He simply walked. Fast. Ten paces through the snow toward his student, with his hand out, as if he were going to take Yuta by the head and—what? Nobody knew. Yuta did not know. Gojo did not know. He was just walking, with his hand out, toward the scar.
+He was not fast. That was the strange thing, afterward. Everyone agreed. He could have crossed the distance with Blue. Instead, he walked. His eyes were on the scar, and he wanted Yuta to see him coming. Fast. Ten paces through the snow toward his student, with his hand out, as if he were going to take Yuta by the head and—what? Nobody knew. Yuta did not know. Gojo did not know. He was just walking, with his hand out, toward the scar.
 
 Yuta did not move. He stood in the snow with his arms at his sides and let his teacher come.
 

@@ -1467,7 +1467,7 @@ The creator wants the encounter to feel large but interrupted: a preview of what
 - Give the defensive physical exchange before the leak more room. Mau keeps putting himself between Gojo and Yuta; he cannot casually bypass Infinity, and bodily cost is visible.
 - Expand sensory scale and choreography within the existing brief guardrail slip: reciprocal spatial movement, unstable arrivals for Mau, pressure between the overlapping domains, Yuta's involuntary protective manifestation, and Maki approaching the edge.
 - Preserve DH-057–060 and DH-075: Analyze reads/builds the eyes; the wheel accelerates the process. No instantaneous mastered Six Eyes, new permanent unlock or independent desire assigned to the wheel.
-- The established short slip and two-second final exchange are not prolonged into minutes. Increased prose is closer observation, not additional in-world full-power duration.
+- Original DH-079 expansion retained the brief slip and two-second exchange. The timing and ending are now superseded by DH-081: Gojo has no pre-fight nerf; both Purple preparations are interrupted before his first limit lands.
 - Preserve the original Red / slime response, wheel recognition, Rika and Maki interruption, Continuum clamp, bodily cost and private aftermath. The next exchange starts but cannot finish. No winner, extra completed finisher or new technique is added.
 - Preview of scale and danger, not proof of either character's final ceiling. No settlement destruction or new injury needing downstream retcons.
 
@@ -1482,3 +1482,18 @@ Executed in V23 One Hundred Percent, on the evening before the roof scene. Mau p
 - The fort's (SISTER) annotation and the private tally marks remain pencil. The tally marks still stop the night before Ram's coin.
 - Later door descriptions in The Teapot, Only When It Rains and Finish It updated. The later Rem/Mau conversation retains the original history, her freedom to choose, its reciprocal family meaning and all other events; her dialogue distinguishes chosen ink from permission.
 - CAST_LEDGER_S4 and the earlier floating pencil proposal updated so future prose does not restore the obsolete door state.
+
+
+## DH-081 — Gojo measured late; full preview interrupted at dual Purple (creator, 2026-10-13)
+
+Creator corrects the intended causal order and authorizes a larger repertoire preview. Supersedes initial-nerf / four-second-restoration prose and the narrower timing/ending parts of DH-079; preserves DH-057–060 identity, causes, costs, later evolution and intimate aftermath.
+
+- Gojo's complex reading begins at arrival but is not completed until after the fight. Ciel corrects her initial assumption publicly before the fight. This is measurement latency for him, not immunity, and does not change other arrivals' normal synchronization.
+- V24 #3 is now **Not Yet** (legacy NERFED filename/id retained); Infinity and a restrained Blue demonstration work. Lunch, Sukuna/rematch discussion and the transition to the scar conversation remain. V24 #4: he walks at Yuta by choice, not because Blue is unavailable.
+- During the fight Gojo has his source-era repertoire. He pushes its use against Mau's borrowed patterns; this is not his later evolved ceiling. Mau's temporary guardrail breach and Yuta's protective domain leak remain distinct mechanisms.
+- Mau's larger toolkit includes the existing casting language, spatial blink, barriers, Rimuru-pattern slime response, domains and Frieren's black-hole-like destructive spell (established in S3 Diablo Finds Rimuru). Gojo disrupts that particular unstable spell with Red; no universal spell/power equivalence or cosmic black-hole scaling is approved.
+- Mau's borrowed patterns remain costly, unstable and imperfect. This does not instantly complete all patterns or grant permanent unrestricted access. The later evolving eyes and containment crisis retain their significance and chronology.
+- The interruption point is both combatants preparing Purple. Neither projectile is fired. Rika breaks Mau's hand alignment and holds him; Maki stops Gojo, who dismisses his preparation. No winner, settlement-erasing explosion or second completed finisher.
+- Only after this interruption does Continuum complete Gojo's measurement and impose his FIRST nerf. Mau's walls restore and Yuta's brief opening closes too. Gojo then has Infinity only; subsequent Blue restoration, growth and aftermath remain as written.
+- Higher Ceilings' recollection corrected to the post-fight loss of Blue. The later approximate Yuta-duration remark and S5 comparison no longer mistakenly impose a four-second restored Gojo window.
+- V24 index, cast ledger, coin slate, season plan, canon traps and the prior floating comparison aligned. Do not restore the obsolete arrival-nerf chronology.

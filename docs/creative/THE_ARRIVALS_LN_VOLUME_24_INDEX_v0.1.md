@@ -10,7 +10,7 @@
 |---:|---|
 | 1 | Yuta's Coin |
 | 2 | The Airport |
-| 3 | Nerfed |
+| 3 | Not Yet |
 | 4 | The Same Stitches |
 | 5 | Domain Clash |
 | 6 | Mine Come With a Filter |

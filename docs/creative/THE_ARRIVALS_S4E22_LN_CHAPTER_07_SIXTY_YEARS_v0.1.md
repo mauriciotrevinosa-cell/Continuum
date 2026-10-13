@@ -52,7 +52,7 @@ Yuta stared at her.
 
 Yuta did not say anything.
 
-"That was the first date," said Maki. "You just didn't know it was one. I did." She settled into a stance. "So. Again. Here. In these." She glanced down at her own young hands on the spear. "Where your teacher came at you and ended up on his knees. Where you held your hair up. Where you got your domain back for four seconds and then puked in the snow." She looked at him. "We take it back. We make it ours."
+"That was the first date," said Maki. "You just didn't know it was one. I did." She settled into a stance. "So. Again. Here. In these." She glanced down at her own young hands on the spear. "Where your teacher came at you and ended up on his knees. Where you held your hair up. Where you got your domain back for a moment and then puked in the snow." She looked at him. "We take it back. We make it ours."
 
 Yuta looked at her for a long time across the field, with the ring of sword-holes round them and the patch of dead earth under her feet.
 

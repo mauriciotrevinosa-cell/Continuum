@@ -24,10 +24,9 @@
 - He comes as a **teacher**, not "the Honored One" any more after his death. He remembers being cut.
 - **The manga's ending is changed here.** He does not acknowledge Sukuna as strong. He wakes up furious: "That cheating motherfucker, we were having a great fight, and that bullshit... honestly, that was the biggest bullshit I've ever seen."
 - **He finds out that Sukuna exists in this world.** "I want my rematch with that cheater."
-- **He arrives synchronised (nerfed):**
-  - **Infinity only.** No Blue, no Red, so no Purple.
-  - **No Domain.** Yuta has been here two years and still hasn't unlocked his, so it would not be fair for Gojo to have one.
-  - His 100% is his source peak, and he climbs toward it like everyone else (DH-041).
+- **Timing superseded by DH-081 (creator, 2026-10-13):** Continuum begins measuring Gojo at arrival but cannot complete his complex reading before the Day 133 fight. He can use his source-era repertoire beforehand; no initial nerf or temporary return from one.
+  - Rika and Maki interrupt both Purple preparations before either is fired. Only afterwards does Gojo's first synchronisation limit land: Infinity only, no Blue/Red/Purple or Domain.
+  - Later restoration and evolution remain as written. The delayed measurement is not exemption or permanent immunity; Yuta's brief domain leak is a separate failure.
 - **When he learns what Mau carries:** "So you stole all of mine." He laughs. "Great. When I'm at 100% and you're at 100%, we're testing it."
   - Milim gets excited about the fight. Half the house says no. Mau: "We'll see."
 
@@ -119,7 +118,7 @@ After V21 (zero arrivals in month one), arrivals come **one at a time**, interle
 1. **Nokotan**: an accident, not a coin. V22 opener, comedy.
 2. **Seika** (Nijika's coin): the **first summon**. Nijika ignores the risks; Bocchi waits.
 3. **Ram** (Rem's coin): a second sister, a mirror of Seika. Rem goes back to 100% herself; no Roswaal. **The horn (DH-050):** Frieren supplies her mana at first. Yuta's outward RCT partly repairs it, so the need drops from daily to weekly. It is **never fully repaired**, which keeps the Ram–Rem dynamic.
-4. **Gojo** (Yuta's coin): nerfed, Infinity only. He finds out about Sukuna ("I want my rematch"); "So you stole all of mine."
+4. **Gojo** (Yuta's coin): delayed measurement; first nerf only after the interrupted fight (DH-081), then Infinity only. He finds out about Sukuna ("I want my rematch"); "So you stole all of mine."
 5. **Shoko** (Seiko's coin, given to Gojo): from after his death. Scarce cigarettes.
 6. **Yuka** (Maki's coin): from the end of *Modulo*, with Yuta's ring. Mau's blink to the ring; Ten Shadows; she becomes Mau's sister; Frieren jealous.
 7. **Coco's mother** (Coco's coin, after Greed's library): crystallized. **The first controlled adaptation** (8 turns), and a skill in Rimuru.

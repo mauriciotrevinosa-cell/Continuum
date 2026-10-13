@@ -22,7 +22,7 @@ He held up his hand.
 
 He reached for Blue.
 
-In the south field, on the day the snowball hung in front of his coat, he had reached for Blue and felt it start and stop. Like a cough in the throat. Like something that should have happened and did not. Continuum had measured him at the door, Ciel said, and decided he could have the Infinity and nothing else. Not yet.
+Blue had worked on the day the snowball hung in front of his coat. It had worked in the fight too. Then Rika and Maki had stopped them, and Continuum had finally finished measuring him. After that, reaching for it had been like a cough caught in the throat. Infinity, and nothing else. Not yet.
 
 He reached for it now.
 

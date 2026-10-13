@@ -1,102 +1,78 @@
 # The Arrivals — Light Novel — Volume 24
-## Chapter 3 — Nerfed
+## Chapter 3 — Not Yet
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 3  
-**Continuity state:** Days 132-133 | south field: Milim's snowball hangs in Infinity; Blue and Red don't come | Ciel names Continuum; 'I've never been weak... this is going to be so interesting' | lunch: 'Sukuna's here' / 'I want my rematch' / Milim 'Can I come?' / 'No' / Fern: 'Sit down' / 'Okay, Mom' | Gojo to Mau: 'Rematch?' / 'We'll see' | 'After lunch, you and I are going to have a talk. About your forehead.'
+**Continuity state:** Days 132-133 | Gojo's measurement is not complete; Infinity and Blue work | Ciel warns that synchronisation is pending, not immunity | lunch: Sukuna, rematch, Fern stops an unplanned departure | Gojo to Mau: 'Rematch?' / 'We'll see' | the scar conversation follows
 
 *When: Day 132, afternoon, into the lunch of Day 133. Seiko's coin is inside Gojo's collar; the fort has issued him a ONE DAY PASS he has already lost twice.*
 
-He found out in the south field, in front of everyone, with a snowball.
+The snowball stopped an inch from his coat.
 
-It was Milim's idea. Of course it was. After the sweets, after the plaza, after Seiko's coin, Gojo had said he wanted to stretch his legs, and Milim had said she knew a place, and the place turned out to be the long white slope of the south field below the house, where the fort sledded and the snow was still deep. Half the house followed. Nobody had planned it. It was simply that when a tall white-haired man who could see through a blindfold went out into a field to stretch his legs, nobody wanted to be the one who was not there.
+It was Milim's idea. Of course it was. After the sweets and the plaza, Gojo had said he wanted to stretch his legs, and Milim had taken him to the south field, where the fort sledded and the snow was still deep. Half the house followed. When he said to throw something at him, Rimuru told Milim not to throw herself.
 
-"Okay," said Gojo, in the middle of the field, with his hands in his pockets. "Throw something at me."
+She considered this, and threw the snowball instead.
 
-"*Anything?*" said Milim.
+Now it hung in front of Gojo's chest, perfectly still.
 
-"Not *you*," said Rimuru, quickly.
+"Infinity," he said, pleased. "Good."
 
-"I wasn't going to throw *me*."
+He explained it with his hands in his pockets. Slower and slower forever. An approach that never finished. Milim leaned forward until Rimuru caught the back of her coat, and Gojo laughed and let the snowball fall.
 
-"You were going to throw you."
+"Now the fun one."
 
-Milim considered this, and did not deny it, and threw a snowball instead.
+He raised a hand.
 
-It was a very fast snowball. It was the kind of snowball that, thrown by Milim, had once gone through two layers of the fort's north wall and a cushion. It crossed the space between them in less time than it took to see it go, straight at the middle of Gojo's chest.
+Mau felt the air lean toward it. Loose snow rose in thin streams, not blown upward but drawn inward, toward a small blue point above Gojo's palm. Gojo moved his hand, and the streams moved with it, neat as thread through a needle.
 
-It stopped.
+Yuta watched without surprise. Rimuru did not.
 
-It did not hit him. It did not fall. It stopped an inch from his coat, in the air, and hung there, perfectly still, a white ball of packed snow floating in front of the man in the blindfold as if someone had pinned it to the sky.
+"That's Blue," said Gojo. "Red goes the other way. We won't do that one by the house."
 
-Half the house made a sound.
+He closed his hand. The loose snow fell.
 
-"Infinity," said Gojo, pleased. "Okay. Good. That still works." He looked at the snowball hanging in front of him. "Nothing gets through. It just—gets slower and slower forever, and never arrives." He tilted his head at it. "It's like Zeno, if Zeno was really annoying about it."
+*Master,* said Ciel.
 
-"*Who's Zeno?*" said Milim.
+Rimuru's expression changed.
 
-"Nobody. Dead guy. Very good at arguments." He flicked a finger, and the snowball dropped into the snow at his feet. "Okay. Now the fun one."
+"Gojo-san. A moment."
 
-He held up one hand.
+Gojo turned toward him.
 
-Mau, at the edge of the crowd beside Yuta, felt something gather. Not in himself. In the air, around Gojo's raised hand. The pressure he had felt in the plaza, being read, turned inside out, pointing at nothing, pulling. As if the air in front of Gojo's palm had remembered how to fall inward.
+Ciel spoke through Rimuru so the others could hear. *The world measures those who arrive. I call it Continuum. Once it has measured what a person is, it restricts what they can use. The restriction can ease as the world and its threats grow.*
 
-Then it stopped.
+Gojo looked down at his hand.
 
-It did not stop the way the snowball had. It stopped the way a cough stops in the throat. Something that should have happened, and had started to happen, and then did not.
+"Hasn't stopped me yet."
 
-Gojo stood in the middle of the south field with his hand up and his fingers spread, and nothing happened at all.
+*No,* said Ciel. *That is the problem. It has not finished measuring you.*
 
-"Huh," he said.
+Yuta looked at Rimuru then.
 
-He lowered the hand. He raised it again. He did something with it, a small precise movement of two fingers, a sign Mau did not know.
+*I felt the measurement begin at Arrival House,* Ciel continued. *I mistook the beginning for completion. It is still resolving the structure of your technique and the eyes that hold it. Each answer opens another part of the reading. I cannot tell you when it will finish.*
 
-Nothing.
+Gojo stood very still for a moment. Then the grin returned.
 
-The field was very quiet.
+"Taking its time with me."
 
-"Huh," said Gojo again. Not brightly this time.
+*Taking its time is not refusing to do it. You are not exempt.*
 
-He stood very still. His blindfolded face was turned toward his own raised hand, and then, slowly, down, at himself. As if looking inside.
+"I heard you."
 
-"Blue doesn't come," he said, to nobody. "Red doesn't come." A pause. "There's a lot in here that doesn't come."
+*Then do not rely on having tomorrow what you have in your hand now.*
 
+He flexed his fingers. Nothing impeded the movement. Nothing impeded the pressure that gathered behind it either. He let it go without forming anything.
 
+"A world that decides how strong I'm allowed to be," he said. "I've had rooms full of people try that."
 
-Rimuru explained it, standing in the snow, with Ciel talking through him. Mau had heard it explained before, to Seika, to Ram, to every arrival since the window. He had never heard it explained to anyone who took it like this.
+*This is not a room full of people.*
 
-*The world measures everyone who arrives,* said Ciel. *I call it Continuum, because nobody gave me a better word. It measures what you are, and then it lets you have only some of it. A little, at first. More, as the world grows. More, as the threat grows. It is not a punishment. It is the world giving itself time to adapt to you.* A pause. *It measured you at the door. Before the bell. I felt it happen.*
+"Yeah. I'm getting that."
 
-Gojo stood in the snow and listened to all of it without moving.
+He looked across the snow at the house, at the fence where the fort was arguing over whether Infinity counted as cheating.
 
-"So," he said, when it was done. "The world decides how strong I'm allowed to be."
-
-*Yes,* said Ciel.
-
-"How strong am I allowed to be?"
-
-There was a pause.
-
-*I would rather not say a number,* said Ciel. *You would not like it.*
-
-Gojo laughed. It was short, and not entirely amused.
-
-"I've had people try that before," he said. "Decide how strong I'm allowed to be." He looked down at his hand. "Old men in rooms. Clans. Higher-ups. A whole jujutsu society that wanted the strongest sorcerer in the world to stay exactly where they put him." He flexed the fingers. "I usually ignored them."
-
-*This is not a room of old men,* said Ciel. *This is the world.*
-
-"Yeah," said Gojo. "I'm getting that."
-
-He was quiet for a moment.
-
-Then, very suddenly, the grin came back, bright and wide and absolutely genuine.
-
-"You know what, though?" he said. "I've never been weak." He spread his hands. "Not once. Not since I was a baby. Everybody else got to be weak. Everybody else got to train and get stronger and feel it happen. I just *was*." He looked round the field, at all of them. "This is going to be *so* interesting."
-
-Yuta, beside Mau, made a small sound, and put his face in his hand.
-
-"He means it," said Yuta, muffled. "That's the worst part. He actually means it."
+For the rest of the afternoon, he kept his demonstrations small. When Milim asked for the other one, he said he liked the roof where it was.
 
 
 
@@ -150,7 +126,7 @@ Then, at the far end of the long table, Milim stood up so fast her bench went ov
 
 "*Gojo-sensei*," said Yuta.
 
-"Absolutely not," said Fern, very quietly, from the head of the table, and the common room went quiet again, because Fern did not raise her voice and did not need to. "Nobody is going anywhere. You arrived yesterday. You can't make Blue. You don't know the roads. You don't know where he is." She looked at Gojo. "You're in a house with a fort and a slate that says you like sweets. Sit down."
+"Absolutely not," said Fern, very quietly, from the head of the table, and the common room went quiet again, because Fern did not raise her voice and did not need to. "Nobody is going anywhere. You arrived yesterday. You don't know what the world is doing to you yet. You don't know the roads. You don't know where he is." She looked at Gojo. "You're in a house with a fort and a slate that says you like sweets. Sit down."
 
 Gojo looked at her for a long moment, standing at the long table with his fists closed.
 

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 16  
-**Continuity state:** Night of Day 139 to the reset hour of Day 140 | Frieren plans: the river path | 'I don't know how to do dates' | Mau makes his flowers, the one safe thing | he sees through them, the river, the stars, and through her suppression to the sea of her mana | her hand over his eyes: 'Tell me when you can see things you shouldn't' | two hundred and eleven embers | the reset hour: both eyes ocean-blue; 'One—' stops | Ciel: 'It is done building'
+**Continuity state:** Night of Day 139 to the reset hour of Day 140 | Frieren plans: the river path | first private post-fight conversation: she could not reach him; Mau acknowledges staying after extraction and losing the distinction from the Trial; no impossible safety promise; tell her before another attempt | 'I don't know how to do dates' | Mau makes his flowers, the one safe thing | he sees through them, the river, the stars, and through her suppression to the sea of her mana | her hand over his eyes: 'Tell me when you can see things you shouldn't' | two hundred and eleven embers | the reset hour: both eyes ocean-blue; 'One—' stops | Ciel: 'It is done building'
 
 *When: The night of Day 139, the last night of the decree, into the reset hour of Day 140. The five are in their kotatsu, unscheduled; Eren and Mikasa will walk to the red stake at dawn.*
 
@@ -12,7 +12,7 @@ Frieren planned it, which she never did.
 
 She did not tell him. She told nobody. On the morning of the decree she had read the list, *MAU / FRIEREN*, at the top, in crayon, and looked at it for a long time with her serene face. Then she had gone up to the east room and sat in the reading chair with the grimoire from the mimic on her knees and not opened it, and thought.
 
-She thought for three days. Mau had been in the clinic for the first of them, and on the bench under the ink tree for the second, with orders to do nothing. And every time Frieren looked at him, sitting under the tree with the blanket over his knees and his black-and-red eye moving very slightly, very fast, reading things nobody else could see, she thought a little harder.
+She thought for three days. Mau had been in the clinic for the first of them, and on the bench under the ink tree for the second, with orders to do nothing. She had asked whether his head hurt, whether he wanted water, whether he had slept. They had spoken about all those things. Not yet about the field. She wanted to hear his answer when he had enough breath to give her one. And every time Frieren looked at him, sitting under the tree with the blanket over his knees and his black-and-red eye moving very slightly, very fast, reading things nobody else could see, she thought a little harder.
 
 On the evening of the third day, the hundred-and-thirty-ninth, at dusk, she came out to the bench under the ink tree in the orange hoodie and stood in front of him.
 
@@ -39,6 +39,88 @@ Halfway to the weir she stopped, at a place where the bank was flat and the gras
 She sat down on the bank, on the new grass, with her knees drawn up. He sat down beside her.
 
 They looked at the river for a while.
+
+"You didn't hear me," Frieren said.
+
+Mau turned toward her.
+
+"In the field. When I called you."
+
+He looked down at his hands. "I don't remember hearing you."
+
+"I know."
+
+The water ran past them. She pulled one sleeve over her fingers, then let it fall back.
+
+"I saw your hands come together," she said. "And I was back there. With Yuta holding me down. Waiting for the light to stop."
+
+Mau did not speak.
+
+"You were standing up this time. You were moving. Everyone could see you." She looked at him. "And I still couldn't reach you."
+
+"I'm sorry."
+
+"I know that too."
+
+She said it without anger. It made him listen harder.
+
+"Yuta was frightened," Mau said, after a while. "Gojo wasn't hearing him. I asked Rimuru to take him out. I thought I could keep Gojo looking at me until they were clear."
+
+"They were clear."
+
+"Yes."
+
+He rubbed his thumb over the side of one knuckle. The skin there was still tender.
+
+"And then I stayed," he said.
+
+Frieren watched his hand.
+
+"I remember the field. Parts of it. But I also remember the street in the Trial. Where I had to find the next answer or die." He stopped rubbing his knuckle. "I wasn't making the difference anymore. I knew what came next, and I kept doing it."
+
+"Even when it hurt you."
+
+"Especially then." He looked at her. "That's what I learned in there. If it hurt, it wasn't finished. There was something else I had to do."
+
+Frieren was quiet for a long time.
+
+"I don't want you to stop helping Yuta," she said. "I don't want him left there."
+
+"Neither do I."
+
+"But when he was safe, you weren't. And you couldn't hear anyone telling you."
+
+Mau nodded. Slowly.
+
+"I wasn't thinking about you having to watch it," he said.
+
+Her mouth moved a little. She looked back at the water before she answered.
+
+"I wasn't only watching. I was trying to get to you."
+
+He put his hand on the grass between them, open. She looked at it, then laid hers in it.
+
+"I can't promise I won't get it wrong again," he said. "I don't know how to promise that honestly."
+
+"Then don't."
+
+He held her hand without tightening it.
+
+"But I can tell Gojo what I remember. And Ciel. Before we do anything like that again. Not wait until I'm in it and hope I know when to stop."
+
+"Tell me too," she said.
+
+"Yes."
+
+"Even if you think it'll frighten me."
+
+He looked at her. "Yes."
+
+She leaned against his shoulder. He stayed still while she found a comfortable place, and then rested his cheek against her hair.
+
+"I wanted this to be a date," she said after a while.
+
+"It can still be one."
 
 "I don't know how to do dates," said Frieren.
 

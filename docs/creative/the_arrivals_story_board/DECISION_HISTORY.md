@@ -1544,3 +1544,15 @@ Creator supplies the missing causal order and rejects the unexplained spear-thro
 - Gojo puts EVERYTHING he recovers into obtaining Purple and does not reactivate automatic Infinity. Maki reads and exploits that opening; her spear never passes through an active Infinity.
 - Rika/Maki still interrupt both preparations before either release; Gojo's first Continuum nerf follows. The later field description now reflects domains and suspended snow having already collapsed, rather than falling for the first time at the nerf.
 - Preserves DH-081, DH-084: 1v1, emergency rescue only, delayed first Gojo nerf, body cost and public explanation / apology.
+
+
+## DH-086 — Mau / Frieren discuss the fight during their date (creator, 2026-10-13)
+
+Creator notices the missing private conversation before the later emotional aftermath, and suggests the date or the lead-up. Inserted in The Fifth Flower at the riverbank BEFORE her date explanation and flowers. No earlier chapter needs a new scene or reordered chronology.
+
+- During care she asked practical recovery questions; they had not yet spoken about the field. She chooses a quiet private moment when he can answer, not an unexplained off-page conversation.
+- She recalls the known Sukuna convergence and being held back by Yuta. The new fear is again being unable to reach Mau, even while he stands and moves in front of her.
+- Mau acknowledges the initial extraction decision, then that Yuta was safe while Mau stayed. He describes losing the distinction between the current encounter and survival in the Trial, without excusing it.
+- She does not ask him to abandon Yuta. He listens and recognizes she was trying to reach him, not merely watching. His apology is not the whole conversation.
+- No promise of never being hurt or no future recurrence. He commits to telling Gojo/Ciel what he remembers BEFORE another such attempt, and telling Frieren even when he thinks it will frighten her.
+- Quiet contact rather than the later full breakdown. The rest of the date, its warning signs and later aftermath remain unchanged; speaking now does not heal away accumulated fear.

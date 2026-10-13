@@ -330,7 +330,11 @@ The fear stayed in his face. He raised his own hands anyway.
 
 His Blue was steady. His Red narrowed until its edge stopped scattering light. Mau could see the difference: one man forcing two incompatible answers toward each other, the other arranging exactly where they would meet.
 
-At the fence, Yuta saw both preparations and understood them before anyone else did.
+At the fence, Yuta saw both preparations. His recognition became an order before anyone else spoke.
+
+Frieren did not need the name. She knew Mau's hands moving toward each other, and the moment after which Yuta had once held her down because there had been no way to reach him. Her grip slipped on the rail.
+
+Rimuru was already turning toward the house. He remembered holding a barrier against the white and waiting for it to end. There were people behind him who had never stood in that field. He began moving them before he finished looking back.
 
 "*Rika.*"
 

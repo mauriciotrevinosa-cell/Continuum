@@ -212,3 +212,10 @@ not on this list. Add a line every time the creator catches a new slip.
 - Mau uses existing borrowed patterns under a dangerous temporary breach, including Frieren's black-hole-like spell. Red disrupts that spell in this encounter; no universal equivalence or guaranteed counter is established.
 - BOTH prepare Purple; NEITHER fires it. Rika breaks Mau's hand alignment; Maki stops Gojo, who dismisses his preparation. Only then does the first Gojo limit land. No winner or released dual-Purple blast.
 - Source-era Gojo pushing his existing repertoire is a preview, not his final evolved ceiling. Mau does not retain free access to the whole repertoire. Later costs, warnings, containment and power progression remain intact.
+
+
+## Witness memory — Limitless / Red / Blue / Purple (DH-082)
+
+- Gojo explaining mechanics is not the household discovering the techniques for the first time. Exposure differs: Sukuna battlefield witnesses, those involved in containment, the plaza witnesses, people who waited for survivors, and later arrivals have different evidence and emotional associations.
+- Frieren and Yuta remember the Sukuna convergence / failed rescue; Rimuru remembers its barrier cost and the containment separation. Do not assign identical eyewitness knowledge or identical trauma reactions to the entire house.
+- Mau's earlier unsafe use did not require Gojo's complete perceptual/technical model. He had partial learning and later Analyze reconstruction; seeing Gojo supplies detailed structure and controlled use, not first access to Red, Blue or Infinity. Seeing / using / understanding / mastering are separate states.

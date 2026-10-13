@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 3  
-**Continuity state:** Days 132-133 | Gojo's measurement is not complete; Infinity and Blue work | Ciel warns that synchronisation is pending, not immunity | lunch: Sukuna, rematch, Fern stops an unplanned departure | Gojo to Mau: 'Rematch?' / 'We'll see' | the scar conversation follows
+**Continuity state:** Days 132-133 | different witnesses recognize prior techniques and their cost; demonstration pauses without repeating trauma as spectacle | Gojo's measurement is not complete; Infinity and Blue work | Ciel warns that synchronisation is pending, not immunity | lunch: Sukuna, rematch, Fern stops an unplanned departure | Gojo to Mau: 'Rematch?' / 'We'll see' | the scar conversation follows
 
 *When: Day 132, afternoon, into the lunch of Day 133. Seiko's coin is inside Gojo's collar; the fort has issued him a ONE DAY PASS he has already lost twice.*
 
@@ -18,19 +18,51 @@ Now it hung in front of Gojo's chest, perfectly still.
 
 "Infinity," he said, pleased. "Good."
 
-He explained it with his hands in his pockets. Slower and slower forever. An approach that never finished. Milim leaned forward until Rimuru caught the back of her coat, and Gojo laughed and let the snowball fall.
+"We've met it," said Rimuru.
+
+Gojo turned toward him. Yuta nodded, but was watching Mau rather than the snowball. Frieren had taken Mau's hand. Her fingers were tight enough that he looked down at them.
+
+"Not like this," Rimuru added. "Not choosing exactly what to stop."
+
+Gojo explained the slowing to the people who had not seen it before, briefly, with his hands in his pockets. For the others, the snowball was not a new trick. It was a familiar distance, this time holding back one harmless thing and allowing the rest of the world through.
+
+He let the snowball fall.
 
 "Now the fun one."
 
-He raised a hand.
+Yuta's expression changed before Gojo raised his hand.
+
+"Tell us first," said Rimuru. "What you're going to do."
+
+Gojo looked round the small crowd. At Frieren's hand closed around Mau's. At Yuta. The smile eased.
+
+"Blue. Small. Just the loose snow. Nothing aimed at anyone."
+
+Rimuru waited a moment, then nodded. He moved the nearest onlookers back before Gojo raised his hand.
 
 Mau felt the air lean toward it. Loose snow rose in thin streams, not blown upward but drawn inward, toward a small blue point above Gojo's palm. Gojo moved his hand, and the streams moved with it, neat as thread through a needle.
 
-Yuta watched without surprise. Rimuru did not.
+Mau watched the place where the blue stopped and Gojo's fingers began.
 
-"That's Blue," said Gojo. "Red goes the other way. We won't do that one by the house."
+His own hand had disappeared inside it once. He remembered the force before he remembered its colour. His fingers closed against Frieren's, and she felt them do it.
 
-He closed his hand. The loose snow fell.
+"We've seen that too," said Yuta, quietly. "Mau used it against Sukuna."
+
+Gojo looked at Mau without moving the little point.
+
+"And later," said Rimuru. He did not explain containment in front of the newer arrivals. He was watching the clean edge above Gojo's palm. "Let it go."
+
+Gojo closed his hand. The loose snow fell. Nothing followed it. No answering force in his other hand. No convergence.
+
+For a moment, Frieren kept looking at both his empty hands.
+
+"I didn't know," said Gojo.
+
+"You weren't here," said Yuta.
+
+The people at the back had gone quiet too. Some were remembering the white field. Some had waited at the inn and seen who came home. Others had only learned enough since arriving to understand why the silence had changed.
+
+Gojo lowered his hands. This time he did not give the next part of the explanation.
 
 *Master,* said Ciel.
 
@@ -72,7 +104,7 @@ He flexed his fingers. Nothing impeded the movement. Nothing impeded the pressur
 
 He looked across the snow at the house, at the fence where the fort was arguing over whether Infinity counted as cheating.
 
-For the rest of the afternoon, he kept his demonstrations small. When Milim asked for the other one, he said he liked the roof where it was.
+He did not make another Blue that afternoon. When Milim asked for the other one, he shook his head. "Not today." Then he went back to answering questions about the snowball, with both hands in his pockets.
 
 
 

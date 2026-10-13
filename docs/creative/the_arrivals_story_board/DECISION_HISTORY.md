@@ -1497,3 +1497,14 @@ Creator corrects the intended causal order and authorizes a larger repertoire pr
 - Only after this interruption does Continuum complete Gojo's measurement and impose his FIRST nerf. Mau's walls restore and Yuta's brief opening closes too. Gojo then has Infinity only; subsequent Blue restoration, growth and aftermath remain as written.
 - Higher Ceilings' recollection corrected to the post-fight loss of Blue. The later approximate Yuta-duration remark and S5 comparison no longer mistakenly impose a four-second restored Gojo window.
 - V24 index, cast ledger, coin slate, season plan, canon traps and the prior floating comparison aligned. Do not restore the obsolete arrival-nerf chronology.
+
+
+## DH-082 — The house remembers these techniques (creator, 2026-10-13)
+
+Creator flags that different residents already saw Mau use Red, Blue, Infinity or related manifestations against Sukuna, in containment and in the plaza. Corrects the novelty / emotionally neutral demonstration framing in V24 Not Yet; no power or arrival timing changes.
+
+- Gojo can explain mechanics to those who need the explanation, but old witnesses recognize the techniques and their cost. Their reactions differ by attendance and experience. Later arrivals are not retroactively given eyewitness memories.
+- Rimuru recognizes controlled Infinity and requests advance warning before Blue. Mau remembers the force engulfing his hand; Frieren holds his hand; Yuta names the Sukuna connection. Gojo realizes what the group has lived through, dismisses the small demonstration and stops showing further techniques that afternoon.
+- Do not erase S2's partial preparation/learning: Mau used dangerous forces he only partly understood. Later Analyze reconstruction and Gojo's detailed roadmap are different stages, not the invention of techniques never used before.
+- The dual-Purple interruption recalls the known convergence for Frieren and the barrier cost for Rimuru. Yuta first calls for the interruption; he is not uniquely able to recognize danger.
+- Source checks: S2 Purple (hands engulfed; Yuta restrains Frieren; Rimuru's barrier; Okarun and Himmel present) and S3 Everything At Once (unsteered Infinity separates Raphael's support). No new disclosures about the Trial to arrivals.

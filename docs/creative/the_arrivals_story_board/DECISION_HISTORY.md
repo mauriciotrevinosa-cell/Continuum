@@ -1407,3 +1407,25 @@ Fixed in the text:
 
 The S5 fort contract (DH-067) is not a dungeon contract, so Mau signs it as planned.
 
+
+## DH-076 — S5 seed: the shadow ant, the Exchange and the Monarch seed (creator, seconded, 2026-10-13)
+
+Full beats and grounding are in `FLOATING_IDEAS.md` under "The shadow ant". Placement within S5 is still open; Claude proposes mid-S5, before the Goddess talk (DH-067). It is separate from the Red Gate.
+
+- **The ant.** In the dungeon Mau detects a black shadow, an ant, and goes for it. The ground: the gate is from Jin-Woo's universe (Mau's coin gift), and the Goddess's error left its root connected.
+- **The Exchange is a swap.** The Noise reads the ant and says **"Exchange"**, its second word ever after "No".
+  - Mau lands in Jin-Woo's war with his gods.
+  - Jin-Woo appears in the dungeon before Mau's party for about **5 minutes** and gets stressed, because his army is deadlocked without him.
+- **The war.** About **40 minutes** for Mau, eight times Continuum's clock. Not millennia.
+  - Outside the universe, Continuum can't hold him: his guardrails come loose so he survives.
+  - The Goddess tells the whole world that Mau has left the universe by her error. She arrives like a sun, with no form shown, and tells the gods **he is hers**. She brings Mau back and returns Jin-Woo.
+  - Jin-Woo gets a notification: there is a Shadow Monarch **in the making**.
+- **What Mau keeps:**
+  - The Solo Leveling **levelling trunk** only: levels and the body's stats, as capacity rather than power. It could be the elf route's missing piece.
+  - A **seed** of the Shadow Monarch, a being of light who became a Monarch and carried part of his god. The Noise studies it for a long time.
+- **Aftermath:**
+  - The party stays where he vanished (rule five). He comes back and collapses.
+  - Ciel to Rimuru: twice the longest he has ever held; the guardrails work; a seed.
+  - Ciel to Frieren, privately through Rimuru: alive, asleep, fine first; then the System; the elf route last and softly. "Something caught him on the way back. It was not me." He recovers in a day.
+- **Open:** who is in the party; what follows; Jin-Woo's real arrival, when his war ends.
+

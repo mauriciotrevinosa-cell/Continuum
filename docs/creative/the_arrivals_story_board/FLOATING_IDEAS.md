@@ -250,7 +250,7 @@ The creator recalls the mimic in Frieren's second first-class mage examination t
 - The connection between the mimic and the Red Gate, scene, participants, trigger, stakes and outcome remain for the creator to develop.
 - Do not assume this changes the current gate, implements another world's Red Gate rules, or adds a specific mimic encounter now.
 
-## S5 — The shadow ant, "Exchange" and the Monarch seed (creator seed, 2026-10-13; PROPOSED, NOT SECONDED YET)
+## S5 — The shadow ant, "Exchange" and the Monarch seed (creator seed, 2026-10-13; SECONDED, see DH-076)
 
 **Separate from the Red Gate.** The Red Gate does not lead here; it stays its own idea, possibly for the end of S5. This one is a nudge first.
 
@@ -296,7 +296,7 @@ The creator recalls the mimic in Frieren's second first-class mage examination t
 - This is why the party is left asking what the hell happened: a stranger for five minutes, a voice, then Mau back and collapsing.
 - **The System is only the Solo Leveling levelling trunk** (levels and the body's stats). It is not the Monarch's powers.
 - **The seed is the heart of it.** The Shadow Monarch was once a being of light, then a Monarch, and carried part of his god. Mau getting a seed of that is the point. The Noise studies it for a long time before anything grows.
-- Ciel's relay to Frieren is kept. Claude's notes:
+- Ciel's relay to Frieren is kept, with Claude's three notes **seconded** by the creator:
   - Lead with "he is alive, he is asleep, he is fine", because she has just heard the world told he left the universe.
   - Put the elf route last, and keep it private through Rimuru, since the house still isn't told (V15 condition).
   - "Exponentially" is the curve of what his body can grow to hold, not today's power.

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 5  
-**Continuity state:** Day 133 | unmeasured Gojo; expanded repertoire and domain pressure; interrupted dual-Purple preparation; first Gojo nerf only after interruption | the guardrails lifted on purpose | the snow hangs; the Shrine and Mau's Void: 'That's mine... and that's his' | before Continuum completes Gojo's measurement: Gojo's true Void meets the stolen one; Mau bears it | Yuta outside the safety line; no Domain; Rika reserved for extraction | 'Wait. That's mine. That stance... You've fought me before' (the Trial) | Red; Mau goes slime (Rimuru: 'that's my body') | the wheel above Mau: 'That's how he killed me' | Rika catches him; Maki's spear: 'Sit down, Satoru' | the nerf lands; Gojo's eyes, sky-blue, afraid
+**Continuity state:** Day 133 | unmeasured Gojo; expanded repertoire and domain pressure; interrupted dual-Purple preparation; first Gojo nerf only after interruption | the guardrails lifted on purpose | the snow hangs; the Shrine and Mau's Void: 'That's mine... and that's his' | before Continuum completes Gojo's measurement: Gojo's true Void meets the stolen one; Mau bears it | Yuta outside the safety line; no Domain; Rika reserved for extraction | 'Wait. That's mine. That stance... You've fought me before' (the Trial) | Red; Mau goes slime (Rimuru: 'that's my body') | the wheel appears and a third pressure breaks the domain balance | all domains collapse before Purple | simultaneous mutual Black Flashes after burnout; temporary recovery spent on offence; Gojo leaves Infinity off | the wheel above Mau: 'That's how he killed me' | Rika catches him; Maki's spear: 'Sit down, Satoru' | the nerf lands; Gojo's eyes, sky-blue, afraid
 
 *When: Day 133, the same afternoon, the same field. The house at the fence at the top of the slope.*
 
@@ -300,6 +300,57 @@ His voice was very quiet. Very clear.
 
 The wheel turned once more over Mau's head. *Click.* A sound like a great lock moving.
 
+A third pressure entered the balance.
+
+Not another fighter. Something changed where the wheel's turn met the strained boundaries, a force that neither man was holding steady. The two Voids buckled against it. The shrine's cutting broke into uneven intervals.
+
+Gojo felt his barrier go first.
+
+Mau felt both of his answers tear loose with it.
+
+The domains collapsed.
+
+The black boundaries came apart. The shrine vanished. All the suspended snow fell between the two men, and for an instant they could see nothing but the ordinary white field and each other.
+
+Gojo reached for the slowing at his skin.
+
+Nothing answered.
+
+Burnout. The technique he had been feeding through the domain would not come when he called it. Across from him, Mau's copied cursed techniques had gone just as empty. His eyes could still see the shapes; seeing did not make his hands able to use them.
+
+Both moved anyway.
+
+No teleportation. No slowing. A step through falling snow, a shoulder turning, a fist sent through the place where an untouchable distance had been.
+
+Their eyes read the same opening.
+
+Gojo's fist reached Mau below the sternum as Mau's reached his ribs. Two impacts so close together that neither man could later give the first to the other. The gap between them was smaller than a trillionth of a second.
+
+Cursed energy met flesh with each strike.
+
+The field flashed black twice, at once.
+
+The sound struck the safety line as one report. The snow between their feet kicked outward; both slid away from the contact, bent around the blows they had taken, and neither fell.
+
+Yuta saw the two dark edges and tightened his hand on the ring.
+
+"Both," he said. "Black Flash. Both of them."
+
+For a moment, Mau could hear his own pulse. He could feel the place the blow had landed and the exact line his other hand had followed. The things he had been reaching for blindly were suddenly close enough to find again.
+
+Gojo straightened across from him, breathing hard. The flow he had lost began answering in broken pieces. He caught those pieces, repaired what he could and gathered what he could use. The precision returned before the comfort did.
+
+They were both in it now. Hurt, breathing, with the ordinary field beneath their feet and the next movement clear enough to seem inevitable.
+
+Maki had started down the last stretch as soon as the domains broke. There was no barrier left to cross. She saw Gojo's hand twitch toward the automatic defence, then stop.
+
+He chose the other use for what had come back.
+
+Everything he could reclaim went into the attack. He did not restart Infinity.
+
+The opening remained.
+
+
 Mau did not know it had turned. Mau was not there. Mau's body was in the Trial, on the last try, the one that counted, and it was doing what it had done, and it was nearly done.
 
 His left foot slid back. His right shoulder lowered.
@@ -312,7 +363,7 @@ Gojo saw what he was making.
 
 The fear stayed in his face. He raised his own hands anyway.
 
-His Blue was steady. His Red narrowed until its edge stopped scattering light. Mau could see the difference: one man forcing two incompatible answers toward each other, the other arranging exactly where they would meet.
+His recovered Blue held steady with effort. His Red narrowed until its edge stopped scattering light. He put the returning flow into that meeting point, leaving the space at his skin unprotected. Mau could see the difference: one man forcing two incompatible answers toward each other, the other arranging exactly where they would meet.
 
 At the fence, Yuta saw both preparations. His recognition became an order before anyone else spoke.
 
@@ -354,7 +405,9 @@ It was not pain. It was the Trial. It was the body being stopped one instant bef
 
 And at the same moment, in front of Gojo, out of nowhere, there was a spear.
 
-It was at his throat. The point of it, Maki's cursed tool, the one she never let anyone touch, an inch from his neck. Inside the Infinity. Somehow inside it. Nobody ever worked out how. Maki said afterward that she simply hadn't asked the Infinity's permission, and the house decided that was the best answer anyone was going to get.
+It was at his throat. The point of Maki's cursed tool, an inch from his neck.
+
+It had not crossed Infinity. Infinity was off. The domains had left the technique burnt out, and Gojo had spent what he recovered after the Black Flash on Purple instead of restoring his automatic defence. Maki had seen the opening and reached him before he could change that choice.
 
 Maki stood at the other end of the spear, in the snow, with her feet planted and her face perfectly calm.
 
@@ -372,7 +425,7 @@ Mau felt his walls come back. And on Gojo, for the first time since he had arriv
 
 Not a weight returning. A weight he had never carried before.
 
-He reached for the familiar inward pull to steady himself. There was nothing there. The space stayed space. Red was gone too. The domain would not answer. Only the distance at his skin remained, Infinity holding an inch of falling snow away from his sleeve.
+He reached for the familiar inward pull to steady himself. There was nothing there. The space stayed space. Red was gone too. The domain would not answer. He could bring back only the distance at his skin. Infinity caught one last settling flake an inch from his sleeve; nothing else answered.
 
 *It has finished,* said Ciel through Rimuru. *Only now.*
 
@@ -382,7 +435,7 @@ At the safety line, Yuta sank to his knees, shaking with the effort of holding R
 
 Over Mau's head, the wheel stopped turning. It hung there a moment longer, pale and still. Then it sank. Slowly. Down through the air, and through Mau, and back into his shadow, like a stone into dark water.
 
-The shrine was gone. The Voids were gone. The snow that had hung in the air in a circle twenty paces wide fell all at once, softly, everywhere, like the end of a held note.
+The shrine and the Voids had already gone. Their snow lay in the churned field beneath them. Only the last loose flakes, stirred by the two impacts, were still settling.
 
 And Mau, in Rika's arms, stopped screaming, and went limp, and his head fell forward against her pale enormous arm.
 

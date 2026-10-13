@@ -1531,3 +1531,16 @@ Supersedes DH-057's three-person opposition and the later defensive Yuta-domain 
 - Mine Come With a Filter: public household explanation the next morning, before the private roof reconciliation. Gojo explains Kenjaku's possession of dead Geto, the Shibuya recognition shock and ensuing helplessness. Yuta states he killed Kenjaku; Rika consumed him; Copy provided the body-transfer technique; he later returned to his own body (DH-083).
 - Gojo admits he heard Yuta's truthful explanation but mistook it for an intruder's fabrication. His fear explains but does not justify the attack. He apologizes publicly, including for the household evacuation; Mau receives his apology once awake. Frieren/Maomao, attending Mau, receive the same full account from Rimuru.
 - Fix the earlier mirror phrasing too: Yuta struggled with his OWN returned face and scar, not a lifelong borrowed face. Family life and subsequent events otherwise remain.
+
+
+## DH-085 — Domain collapse, mutual Black Flash and Infinity off (creator, 2026-10-13)
+
+Creator supplies the missing causal order and rejects the unexplained spear-through-Infinity joke.
+
+- The wheel arrives during the clash; its turn brings a third pressure into the already-strained balance and breaks the domains. Keep the exact nature of that pressure undescribed; no new fighter, named entity or universally available domain-breaking technique.
+- All domains collapse BEFORE Purple preparation. Both go into cursed-technique burnout, leaving the physical opening.
+- Both choose the strike and connect Black Flash at the same instant, their borrowed/native fine perception tracking the same window. The less-than-trillionth interval is the gap between their synchronized impacts, not a changed general Black Flash activation rule.
+- The post-impact in-the-zone state supports effortful partial recovery of casting. Both prepare Purple. No automatic universal burnout cure, harmless damage reset or permanent mastery is awarded.
+- Gojo puts EVERYTHING he recovers into obtaining Purple and does not reactivate automatic Infinity. Maki reads and exploits that opening; her spear never passes through an active Infinity.
+- Rika/Maki still interrupt both preparations before either release; Gojo's first Continuum nerf follows. The later field description now reflects domains and suspended snow having already collapsed, rather than falling for the first time at the nerf.
+- Preserves DH-081, DH-084: 1v1, emergency rescue only, delayed first Gojo nerf, body cost and public explanation / apology.

@@ -28,7 +28,7 @@ Then he sat down beside him. On the floor. In his butler's coat. Against the wal
 
 Inside, Maomao worked.
 
-There was nothing to stitch. That was the strange part. She said it to Rimuru twice, low, as if repeating it might make it make sense. No wound. The chest where the Red had gone in was whole, the skin unbroken, warm. The blood at his mouth had come from biting his own tongue. His heart was fast and his breathing was shallow and he would not wake. And his left eye, when she lifted the lid, was black, with red at the centre, and it was not still. It moved. Not the way an eye moves in sleep. Fast. Precise. As if it were reading something very small, written on the inside of his own skull.
+There was nothing to stitch. That was the strange part. She said it to Rimuru twice, low, as if repeating it might make it make sense. No open wound in the chest. Bruising from the exchanged blows, splits across the knuckles, a body that had taken more than it could safely carry. But the place where the Red had gone in was whole, the skin unbroken, warm. The blood at his mouth had come from biting his own tongue. His heart was fast and his breathing was shallow and he would not wake. And his left eye, when she lifted the lid, was black, with red at the centre, and it was not still. It moved. Not the way an eye moves in sleep. Fast. Precise. As if it were reading something very small, written on the inside of his own skull.
 
 "Ciel," said Rimuru.
 

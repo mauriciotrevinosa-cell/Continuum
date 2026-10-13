@@ -235,3 +235,12 @@ not on this list. Add a line every time the creator catches a new slip.
 - Rika/Maki are emergency rescuers at the dual-Purple preparation, not additional duel combatants. Their intervention precedes Gojo's first nerf.
 - The next morning the HOUSE receives the explanation: Gojo describes Kenjaku/Geto and Shibuya's helplessness; Yuta says he killed Kenjaku, Rika consumed him and Copy supplied the transfer technique. Gojo explicitly acknowledges misidentification and apologizes to Yuta, Maki, the household and later Mau. Those attending Mau hear the complete account from Rimuru, not a private softened version.
 - Trauma explains Gojo's mistaken judgment; it does not excuse attacking Yuta or make Kenjaku's occupation real. Later private reconciliation builds on this public correction.
+
+
+## Domain collapse / simultaneous Black Flash / Maki's opening (DH-085)
+
+- Before either Purple is prepared, a wheel turn and a third pressure destabilize this particular domain clash. The shrine and both Voids collapse. Both combatants experience cursed-technique burnout. This is not a third combatant or a universal wheel-based domain-cancellation power.
+- While the techniques are unavailable, both land physical strikes with Black Flash simultaneously. The sub-trillionth interval describes the synchronization between these two impacts, not a new universal Black Flash threshold or a guaranteed precision-to-Black-Flash recipe.
+- Their exceptional in-the-zone flow lets them reclaim enough function for Purple preparation, with effort and damage still present. It is not an automatic, free or permanent burnout reset.
+- Gojo devotes what he recovers to Purple and consciously leaves automatic Infinity OFF. Maki exploits that post-domain opening. No spear ignoring Infinity, intrinsic Infinity bypass, pre-fight nerf or extra attacker.
+- Both Purples remain unfired. Rika/Maki interrupt; only then does Gojo's first Continuum nerf land. Do not depict the domains still active at interruption or collapsing for the first time at the nerf.

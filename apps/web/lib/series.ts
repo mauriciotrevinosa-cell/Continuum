@@ -69,6 +69,7 @@ function chapterDocument(
 const ROW_WITH_FILE =
   /^\|\s*(\d+)\s*\|\s*(S\d+E\d+)\s*\|\s*(.*?)\s*\|\s*`([^`]+)`\s*\|\s*$/gim;
 /** `| 3 | S3E7 | No One Waits |` - the later volumes dropped the File column. */
+const ROW_TITLE_ONLY = /^\|\s*(\d+)\s*\|\s*([^|]*?)\s*\|\s*$/gim;
 const ROW_PLAIN = /^\|\s*(\d+)\s*\|\s*(S\d+E\d+)\s*\|\s*([^|]*?)\s*\|\s*$/gim;
 
 /** The `nth` chapter document of an episode, counting from 1 in chapter order. */
@@ -100,7 +101,7 @@ function nthChapterOf(
  * written without the File column and used to vanish from the reader entirely -
  * the volume parsed, matched no chapter, and was dropped for being empty.
  */
-function parseVolume(
+export function parseVolume(
   markdown: string,
   documents: ProjectDocument[],
 ): Omit<ReadingVolume, "chapters"> & { chapters: Omit<ReadingChapter, "globalOrder">[] } | null {
@@ -120,27 +121,42 @@ function parseVolume(
         title: m[3].trim(),
         file: m[4].trim(),
       }))
-    : [...markdown.matchAll(ROW_PLAIN)].map((m) => ({
-        order: Number.parseInt(m[1], 10),
-        episode: m[2].toUpperCase(),
-        title: m[3].trim(),
-        file: "",
-      }));
+    : [...markdown.matchAll(ROW_PLAIN)].length
+      ? [...markdown.matchAll(ROW_PLAIN)].map((m) => ({
+          order: Number.parseInt(m[1], 10),
+          episode: m[2].toUpperCase(),
+          title: m[3].trim(),
+          file: "",
+        }))
+      : [...markdown.matchAll(ROW_TITLE_ONLY)].map((m) => ({
+          order: Number.parseInt(m[1], 10),
+          episode: "",
+          title: m[2].trim(),
+          file: "",
+        }));
 
   // How many rows of each episode have been placed, so the next one takes that
   // episode's next chapter.
   const taken = new Map<string, number>();
 
   for (const row of rows) {
+    const candidates = row.episode ? [] : documents.filter(
+      (document) => document.category === "ln-chapter" &&
+        Number(document.facts?.volume) === number &&
+        Number(document.facts?.reading_order) === row.order &&
+        document.facts?.chapter_title === row.title,
+    );
     const document = row.file
       ? chapterDocument(documents, row.episode, row.file)
-      : nthChapterOf(documents, row.episode, (taken.get(row.episode) ?? 0) + 1);
+      : row.episode
+        ? nthChapterOf(documents, row.episode, (taken.get(row.episode) ?? 0) + 1)
+        : candidates.length === 1 ? candidates[0] : null;
+    if (!document) throw new Error(`Volume ${number}, chapter ${row.order}: unresolved index entry ${row.title}`);
     taken.set(row.episode, (taken.get(row.episode) ?? 0) + 1);
-    if (!document) continue;
     chapters.push({
       documentId: document.id,
       title: row.title,
-      sourceEpisode: row.episode,
+      sourceEpisode: row.episode || document.episode || "",
       sourceFile: row.file,
       volume: number,
       orderInVolume: row.order,
@@ -226,9 +242,9 @@ export async function listReadableSeries(): Promise<ReadableSeriesSummary[]> {
   const details = await Promise.all(
     all.map(async (project) => {
       try {
-        const detail = await projects.detail(project.id);
-        const chapters = detail.documents.filter((document) => document.category === "ln-chapter").length;
-        const volumes = detail.documents.filter((document) => document.category === "ln-volume").length;
+        const series = await loadReadableSeries(project.id);
+        const chapters = series.chapters.length;
+        const volumes = series.volumes.length;
         return chapters ? { project, chapters, volumes } : null;
       } catch {
         return null;

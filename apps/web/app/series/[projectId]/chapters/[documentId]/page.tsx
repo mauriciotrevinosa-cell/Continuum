@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { TrackReading } from "../../../ReadingProgress";
 import { notFound } from "next/navigation";
 import { projects } from "@/lib/api";
 import { loadReadableSeries, manuscriptForReading } from "@/lib/series";
@@ -30,6 +31,7 @@ export default async function SeriesChapterPage({
 
   return (
     <div className="novel-reader">
+      <TrackReading projectId={projectId} documentId={documentId} />
       <nav className="novel-reader-top" aria-label="Chapter navigation">
         <Link href={`/series/${encodeURIComponent(projectId)}`}>← Contents</Link>
         <span>
@@ -79,7 +81,7 @@ export default async function SeriesChapterPage({
           </Link>
         ) : (
           <Link className="novel-reader-nav-card next" href={`/series/${encodeURIComponent(projectId)}`}>
-            <span>Finished Season 1</span>
+            <span>Back to series</span>
             <strong>Back to contents</strong>
           </Link>
         )}

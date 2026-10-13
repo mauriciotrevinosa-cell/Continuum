@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { ContinueReading } from "../ReadingProgress";
 import { loadReadableSeries } from "@/lib/series";
 
 export const dynamic = "force-dynamic";
@@ -30,12 +31,7 @@ export default async function SeriesDetailPage({
             {series.volumes.length} volumes · {series.chapters.length} chapters · production draft
           </p>
         </div>
-        <Link
-          className="button primary"
-          href={`/series/${encodeURIComponent(projectId)}/chapters/${encodeURIComponent(first.documentId)}`}
-        >
-          Start reading
-        </Link>
+        <ContinueReading projectId={projectId} chapters={series.chapters} firstDocumentId={first.documentId} />
       </header>
 
       <div className="reading-volumes">

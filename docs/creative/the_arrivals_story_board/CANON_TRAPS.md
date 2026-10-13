@@ -219,3 +219,10 @@ not on this list. Add a line every time the creator catches a new slip.
 - Gojo explaining mechanics is not the household discovering the techniques for the first time. Exposure differs: Sukuna battlefield witnesses, those involved in containment, the plaza witnesses, people who waited for survivors, and later arrivals have different evidence and emotional associations.
 - Frieren and Yuta remember the Sukuna convergence / failed rescue; Rimuru remembers its barrier cost and the containment separation. Do not assign identical eyewitness knowledge or identical trauma reactions to the entire house.
 - Mau's earlier unsafe use did not require Gojo's complete perceptual/technical model. He had partial learning and later Analyze reconstruction; seeing Gojo supplies detailed structure and controlled use, not first access to Red, Blue or Infinity. Seeing / using / understanding / mastering are separate states.
+
+
+## Yuta — own body / Shinjuku / family (DH-083)
+
+- Temporary use of Gojo's body during Shinjuku is not a lifelong transfer. Yuta returned to his OWN body afterwards, lived his life with Maki and aged in that body.
+- Continuum brings that own post-Shinjuku body back young, preserving the forehead scar. It does not return a lifelong Gojo-body occupant to an original body for the first time.
+- No in-you / grandchildren-in-Gojo's-body dialogue or Yuka mistaking Gojo's face for Grandpa's. Age makes her grandfather look unfamiliar; identity is still his. Gojo's scar reaction concerns the temporary transfer and Kenjaku's mark, not who fathered the family.

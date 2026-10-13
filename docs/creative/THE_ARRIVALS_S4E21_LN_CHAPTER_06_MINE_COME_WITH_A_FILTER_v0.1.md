@@ -126,7 +126,7 @@ Yuta did not say anything for a moment.
 
 Gojo did not say anything.
 
-"I'm not him," said Yuta quietly. "Kenjaku. I know it's the same scar. I know what you saw. On the step, and at lunch, and in the field." He did not look at his teacher. "But I didn't take you to use you. I took you because you were the strongest, and you were gone, and I couldn't let it be over. I couldn't let him win because you weren't there." His voice was very steady. "And afterward, I lived. I tried to live the kind of life you'd have wanted somebody to live in you. I tried every day." He swallowed. "I don't know if I did it right."
+"I'm not him," said Yuta quietly. "Kenjaku. I know it's the same scar. I know what you saw. On the step, and at lunch, and in the field." He did not look at his teacher. "But I didn't take you to use you. I took you because you were the strongest, and you were gone, and I couldn't let it be over. I couldn't let him win because you weren't there." His voice was very steady. "Afterward, I came back to my own body. And I lived. I tried to live the kind of life you'd have wanted me to have. I tried every day." He swallowed. "I don't know if I did it right."
 
 Gojo was quiet for a very long time.
 

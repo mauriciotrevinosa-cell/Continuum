@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 18  
-**Continuity state:** Day 141 | 'WHERE AM I?' | 'You look like children!... This is so embarrassing' | Maki laughs and cries | Yuka sees Yuta's scar on a face she doesn't know | the ring: she heard 'Maki'; it was across her room; Continuum brought it | 'You really are Grandpa's little girl' | Gojo at the door: 'Grandpa?' / 'Technically, Grandpa had mine'; 'Your face used to throw me in the sea' | Mai: Maki's hand on her knee; 'Hi.' / 'Hi.' | Mau opens his eyes
+**Continuity state:** Day 141 | 'WHERE AM I?' | 'You look like children!... This is so embarrassing' | Maki laughs and cries | Yuka recognizes Yuta's scar and smile in his unexpectedly young face | the ring: she heard 'Maki'; it was across her room; Continuum brought it | 'You really are Grandpa's little girl' | Gojo at the door: recognized as Grandpa's teacher from his stories; Yuta lived and aged in his own body | Mai: Maki's hand on her knee; 'Hi.' / 'Hi.' | Mau opens his eyes
 
 *When: Day 141, the morning after Maki's coin. The fort on the step for the fourth time; Mau on the bench in the common room with his eyes shut, because open is worse.*
 
@@ -80,9 +80,9 @@ Yuta's own face did something.
 
 "I know," he said.
 
-"You had—when I was little, you had a different face. Old. And white hair. And blue eyes." She was frowning, the frown of someone working something out against her will. "And the scar. The scar was the same. But the face was different." She looked at him. "This is a different face."
+"You had—when I was little, you were old." She was frowning, the frown of someone working something out against her will. "The scar's the same. And when you smile—" She stopped. "But you're younger than I am."
 
-"This is my face," said Yuta quietly. "My own. From before." He swallowed. "The face you knew was—someone else's. I wore it for a long time. I'll tell you. Not today." He took a step forward. "But it's me. Under it. It was always me."
+"It's my face," said Yuta quietly. "From before I got old." He swallowed. "The world brought me back like this." He took a step forward. "But it's me. It was always me."
 
 The girl looked at him for a long moment, still in Maki's arms.
 
@@ -130,49 +130,49 @@ She stopped in the middle of the path with Maki on one side of her and Yuta on t
 
 The colour went out of her face.
 
-"Grandpa?" she whispered.
+"Gojo?" she whispered.
 
 The plaza went very quiet.
 
 Gojo did not move.
 
-Yuka looked at him. Then at Yuta, beside her, young and dark-haired with the scar. Then back at the tall white-haired man in the doorway. Her mouth was open. Her hand had gone to the ring on her chest.
+Yuka looked at him. Then at Yuta, beside her, young and dark-haired with the scar. Then back at the tall white-haired man in the doorway. Her hand had gone to the ring on her chest.
 
-"You've got Grandpa's face," she said.
+"Your teacher?" she asked her grandfather.
 
-Gojo stood in the doorway for a long moment.
+Yuta nodded.
 
-Then, slowly, he reached up and pulled the blindfold down, round his neck, and let her see his eyes. Blue, like the sky.
+Gojo reached up and pulled the blindfold down, round his neck, and let her see his eyes. Blue, like the sky.
 
-"Technically," said Gojo, very gently, "Grandpa had mine."
+"He told you about me?"
 
-Yuka stared at him.
+"Yes." She looked at Yuta again. "But you were gone. You were already gone before—"
 
-She looked from him to Yuta. From Yuta to him. From the face she had known as her grandfather's, old and white-haired and blue-eyed, smiling at her across a beach, to the young man beside her who was her grandfather, with a different face and the same scar. Mau would think about it for a long time afterward: what it must have been, to see the face that had held you as a child on the wrong person, and the person who held you behind a face you had never seen.
+"Yeah," said Gojo, gently. "I missed a lot."
 
-"I don't understand," said Yuka.
+She stood looking at him for a moment longer. Mau would think about it afterward: the dead walking out of family stories, while the grandfather who had told them stood beside her young enough to have been in her class.
 
-"Me neither, kid," said Gojo. "Not all of it. I found out eight days ago." He put the blindfold back on. "Your grandpa borrowed me. For a long time. And he took really good care of me, from what I hear. He had grandchildren in me. Which I am still processing." He tilted his head. "You're one of them."
+"Satoru Gojo," he said, holding out his hand. "Your grandpa's teacher."
 
-Yuka did not say anything.
+Yuka took it. She shook it hard, the way her grandmother shook hands, and did not let go.
 
-"Satoru Gojo," said Gojo. He held out his hand. "Your grandpa's teacher." A pause. "And, apparently, his face."
+"You got him home," she said.
 
-Yuka looked at the hand for a long moment.
+Gojo looked past her at Yuta.
 
-Then she took it. And shook it, hard, the way her grandmother shook hands. She did not let go.
+"He got himself home," he said. "Did a lot of the difficult part without me."
 
-"Your face," said Yuka, very seriously, still holding on, "used to throw me in the sea."
+"He used to throw me in the sea," she said, still holding on. Her voice wobbled. "On the beach. Every summer. He'd pick me up and throw me, and I'd scream, and he'd laugh when I came up. Really loud."
 
-Gojo went still.
+Gojo looked at the young man beside her. Yuta had turned his face away.
 
-"On the beach," said Yuka. "When I was little. Every summer. He'd pick me up and throw me in the sea and I'd scream." Her voice wobbled. "Your face used to laugh. Really loud. When I came up."
+"I'd tell him to do it again," Yuka said.
 
-Gojo did not say anything for a long time.
+Gojo was quiet for a long time.
 
-Then he laughed. Not loud. Very quietly. With his hand still in hers.
+Then he laughed softly, with his hand still in hers.
 
-"Yeah," he said. "That sounds like my face."
+"Yeah," he said. "That sounds like him."
 
 
 
@@ -210,7 +210,7 @@ And that was all. That was all, for now.
 
 
 
-On the bench in the common room, with his eyes shut, Mau heard all of it. Every word. The laugh in the doorway. *Technically, Grandpa had mine.* *Your face used to throw me in the sea.* The small careful *hi*.
+On the bench in the common room, with his eyes shut, Mau heard all of it. Every word. The laugh in the doorway. *He got himself home.* *He used to throw me in the sea.* The small careful *hi*.
 
 He sat with his eyes shut and Frieren's shoulder against his and listened to the long table make room for one more.
 

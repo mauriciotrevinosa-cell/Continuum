@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 4  
-**Continuity state:** Day 133 | the south field; Yuta holds his hair up | 'The last time I saw those, they were on Suguru's face' | Yuta tells it: Shinjuku, Kenjaku's technique, he wore Gojo to fight on, lived a whole life with Maki, in him; Continuum kept the scar | 'my body had grandchildren' | Gojo walks at the scar; Mau goes over the fence: 'So I am'; Rimuru | Infinity; Yuta's film | Mau looks: Analyze takes the roadmap, the wheel takes Analyze | 'What are you doing to my eyes?'
+**Continuity state:** Day 133 | the south field; Yuta holds his hair up | 'The last time I saw those, they were on Suguru's face' | Yuta tells it: Shinjuku, Kenjaku's technique, he wore Gojo to fight on, returned to his own body after Shinjuku and lived a whole life with Maki; Continuum kept the scar | 'you had grandchildren' | Gojo walks at the scar; Mau goes over the fence: 'So I am'; Rimuru | Infinity; Yuta's film | Mau looks: Analyze takes the roadmap, the wheel takes Analyze | 'What are you doing to my eyes?'
 
 *When: Day 133, the afternoon after the lunch where Sukuna's name was said. The gate changed into its fifth week at dawn; Mikasa and Maki are due to go in tomorrow.*
 
@@ -46,25 +46,25 @@ About a technique. Kenjaku's. The one that moved a brain from one body to anothe
 
 Gojo did not say anything.
 
-"I wore you," said Yuta. "To fight him. With your hands." He swallowed. "And after. After it was over. I—" He stopped. "There wasn't a way back. Not cleanly. I lived." He let his hair fall, at last, over the scar. "I lived a whole life, Gojo-sensei. With Maki. We had a family. I got old." He looked down at his own young hands. "In you."
+"I wore you," said Yuta. "To fight him. With your hands." He swallowed. "But I came back. After Shinjuku. To my own body." He let his hair fall, at last, over the scar. "And I lived, Gojo-sensei. With Maki. We had a family. I got old." He looked down at his own young hands. "These hands. Older."
 
 The field was completely silent.
 
 At the fence, Maki had not moved. Her knuckles on the spear were white.
 
-"And then the Goddess," said Yuta. "And this world. And I woke up in my own body. Young. Mine." He touched his forehead. "Except for this. Continuum kept this. I don't know why." He looked up. "I think because it's true."
+"And then the Goddess," said Yuta. "And this world. The same body, young again. Mine." He touched his forehead. "Except for this. Continuum kept this. I don't know why." He looked up. "I think because it's true."
 
 Gojo stood in the snow, ten paces away, with his hands in his pockets, and did not move for a very long time.
 
-"So," he said at last. Very lightly. "You're telling me my body had grandchildren."
+"So," he said at last. Very lightly. "You're telling me you had grandchildren."
 
 "*Gojo-sensei*—"
 
-"No, no, I'm just—processing. I'm processing." He took one hand out of his pocket and pressed it flat against his own chest, over his heart, as if checking it was still there. "My body. Had grandchildren. With *Maki*." He turned his head toward the fence. "*Hi, Maki.*"
+"No, no, I'm just—processing. I'm processing." He took one hand out of his pocket and pressed it flat against his own chest, over his heart, as if checking it was still there. "You. Had grandchildren. With *Maki*." He turned his head toward the fence. "*Hi, Maki.*"
 
 Maki said nothing at all.
 
-"And they called you Grandpa," said Gojo. "In my face. With my eyes."
+"And they called you Grandpa," said Gojo. "The kid who used to apologize for taking up space."
 
 "They called me Grandpa," said Yuta quietly.
 

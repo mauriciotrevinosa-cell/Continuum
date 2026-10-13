@@ -1508,3 +1508,13 @@ Creator flags that different residents already saw Mau use Red, Blue, Infinity o
 - Do not erase S2's partial preparation/learning: Mau used dangerous forces he only partly understood. Later Analyze reconstruction and Gojo's detailed roadmap are different stages, not the invention of techniques never used before.
 - The dual-Purple interruption recalls the known convergence for Frieren and the barrier cost for Rimuru. Yuta first calls for the interruption; he is not uniquely able to recognize danger.
 - Source checks: S2 Purple (hands engulfed; Yuta restrains Frieren; Rimuru's barrier; Okarun and Himmel present) and S3 Everything At Once (unsteered Infinity separates Raphael's support). No new disclosures about the Trial to arrivals.
+
+
+## DH-083 — Yuta returned to his own body after Shinjuku (creator, 2026-10-13)
+
+Creator corrects the erroneous inference from Yuta's stitches to lifelong residence in Gojo's body. The temporary Shinjuku transfer remains; Yuta returned to his own body afterwards, lived and aged with Maki in it, and Continuum brought that own post-Shinjuku body back young with the scar intact.
+
+- The Same Stitches: Yuta explicitly describes returning before his family life. Gojo reacts to his student having grandchildren, not his own body having them. The scar / Geto / Kenjaku trigger and subsequent fight remain unchanged.
+- Mine Come With a Filter: the reconciliation concerns using Gojo's body to keep fighting, then choosing a life of his own. No lifetime in-you claim.
+- Grandpa's Little Girl: Yuka recognizes a young version of her own grandfather; Gojo is her grandfather's teacher from family stories, not Grandpa's former face. Keep the family reunion, beach memory, Mai encounter and other scene purposes.
+- The V24 plan's incorrect Modulo/body inference explicitly superseded; CAST_LEDGER_S4 and CANON_TRAPS aligned. Do not infer body identity from the scar again.

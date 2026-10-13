@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 23
-## Chapter 15 — Something Small
+## Chapter 16 — Something Small
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
-**Reading order:** 15  
+**Reading order:** 16  
 **Continuity state:** Days 118-119 | Mikasa and Eren walk the merchant to the ford; 'Monster town' is a name now | dusk in the low woods: muttering voices, what the towns say | a child-sized grey thing covered in faces turned away: 'Go back where you came from' | steel works; two cuts; it shrinks to nothing, smelling of wet paper | SIGHTINGS p.3 | nobody thinks much of it; Mau goes still at 'the one with the shadow' and looks south at the reset hour
 
 *When: Days 118 and 119. The west wing was rising a bent at a time, Seika and Bocchi were already on the ninth song, and the gate was about to change.*

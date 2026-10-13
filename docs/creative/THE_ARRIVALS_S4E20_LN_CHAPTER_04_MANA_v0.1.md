@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 23
-## Chapter 21 — Mana
+## Chapter 22 — Mana
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
-**Reading order:** 21  
+**Reading order:** 22  
 **Continuity state:** Days 126-128 | first dinner, in order: crude, barely edible, a disgrace, everyone's an idiot except Rem | Seika and Ram: 'Acceptable' / 'Tea.'; Nijika: 'There's two of them' | Frieren fills her twice a day: 'like drinking from a well' | Mau walks in on a session; they just talk: Barusu, idiots, Rem's smile, 'you just left a room... and waited' / 'It wasn't much.' / 'That's why.' | the second cup
 
 *When: Days 126 to 128: Ram's first dinners, and Frieren in the west wing twice a day. Meanwhile the west wing's fourth bent went up and the gate changed into its fourth week.*

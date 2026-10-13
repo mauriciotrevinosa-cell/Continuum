@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 23
-## Chapter 16 — The Road South
+## Chapter 17 — The Road South
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
-**Reading order:** 16  
+**Reading order:** 17  
 **Continuity state:** Days 120-121 | the woman who kept bees: 'It's not you. It's the road.'; her sister in the river towns | no fuss: Momo's food and the good honey, Wakana's wheel, Maomao's bag, Kusuri's first pot | Daphne keeps the bees: 'If you come back, they will know you' | Umaru's pass: VALID: WHENEVER YOU COME BACK; the cushion kept | the walk to the ford; 'That's who you are. Not what they say.' | the girl holds up the pass from the far bank
 
 *When: Days 120 and 121, the mornings after the thing in the woods was told at the long table, while the west wing's third bent went up.*

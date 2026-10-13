@@ -4,7 +4,7 @@
 **Volume:** 23  
 **Season:** 4  
 **Volume title:** **What His Coin Bought**  
-**Chapter count:** 23
+**Chapter count:** 24
 
 | # | Chapter |
 |---:|---|
@@ -22,12 +22,13 @@
 | 12 | Pallets |
 | 13 | The Song in the Book |
 | 14 | Not Twice |
-| 15 | Something Small |
-| 16 | The Road South |
-| 17 | An Empty Cottage |
-| 18 | Rem's Coin |
-| 19 | Arrival House, Again |
-| 20 | Two Sisters |
-| 21 | Mana |
-| 22 | Once a Week |
-| 23 | One Hundred Percent |
+| 15 | Out |
+| 16 | Something Small |
+| 17 | The Road South |
+| 18 | An Empty Cottage |
+| 19 | Rem's Coin |
+| 20 | Arrival House, Again |
+| 21 | Two Sisters |
+| 22 | Mana |
+| 23 | Once a Week |
+| 24 | One Hundred Percent |

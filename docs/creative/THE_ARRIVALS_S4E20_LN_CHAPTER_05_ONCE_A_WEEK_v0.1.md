@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 23
-## Chapter 22 — Once a Week
+## Chapter 23 — Once a Week
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
-**Reading order:** 22  
+**Reading order:** 23  
 **Continuity state:** Days 128-129 | Maomao: 'It's not sustainable... a cage for both of you' | Ciel: the root under the scar | Mau's RCT is the light version, Yuta's the finished form | the ring 'smells of something that was very angry once' | Yuta's outward RCT softens the scar's edges; the root drinks a little: once a week | Ram refuses more: 'And then what would you do with your hands?'; 'I'm not asking for change' | 'the appointment', like the witches' tea | Frieren back to her grimoire: 'I missed it'
 
 *When: Days 128 and 129. Frieren had been filling Ram twice a day for four days. The west wing's last beam was waiting.*

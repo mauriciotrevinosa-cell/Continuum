@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 23
-## Chapter 23 — One Hundred Percent
+## Chapter 24 — One Hundred Percent
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
-**Reading order:** 23  
+**Reading order:** 24  
 **Continuity state:** Days 129-130 | Rem's quips: Senku's cup with a hole, Himmel's portrait, Milim's high shelf, Fern's posture, Mau the sheep | Ram: the old Rem, the one lost in the kitchen; Seika: 'When the person you're careful for isn't there' | Rem and Milim raise the west wing's last beam, gently | THE LIST: 2. Rem: her sister. HERE. / 3. Yuta: his teacher (Seiko's coin for the doctor) | roof night: 'He's going to be insufferable... He's going to love this' | two sisters on the edge of a bed
 
 *When: Days 129 and 130: the west wing's last beam, the List, and a roof night. The gate is in its fourth week, and Mikasa has her new blades.*

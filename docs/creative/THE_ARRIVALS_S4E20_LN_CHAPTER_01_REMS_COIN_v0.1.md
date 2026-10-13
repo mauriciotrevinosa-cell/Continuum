@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 23
-## Chapter 18 — Rem's Coin
+## Chapter 19 — Rem's Coin
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
-**Reading order:** 18  
+**Reading order:** 19  
 **Continuity state:** Days 123-124 | Rem tells Fern first: 'The room is finished. So I'm ready.' | no fuss: pear bread, Umaru's slate (NEXT #2) | Rem knocks after dark: the horn, saving her; afraid the coin will go cold | Mau: 'That's not someone who's going to make a coin go cold' | midnight in her pencil room: 'You are sure? Ram.' / 'Yes.' The coin is gone: it carried | Ori outside the door | the fort on the step of Arrival House at one
 
 *When: Day 123, the day after the empty cottage was swept. The west wing's rooms were going up a bent at a time, and the gate was in its third week, with water in it.*

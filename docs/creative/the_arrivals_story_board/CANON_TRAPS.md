@@ -154,6 +154,11 @@ not on this list. Add a line every time the creator catches a new slip.
 - **The first party went in four times before the gate changed:** Day 109,
   Day 110 twice, and Day 111 before noon. Ciel had seen it "four times" by
   Day 112.
+- **The wheel's first click in S4 is Day 118** (V23 #15 "Out"). Yuta and Mau
+  only; struck from behind; one turn outside the seal through a mended place;
+  Yuta pulls him out before a second. Nobody went in Days 113 to 117. The
+  Noise's leaning starts on the last night of the reign (Day 113) and is not
+  the gate.
 - **The west wing:** first bent Day 115, second Days 116 and 117, third Days
   120 and 121, fourth Days 125 to 128, last beam Day 129.
 - **Seika arrived on Day 102; Ram before dawn on Day 124.** On Day 126 Seika

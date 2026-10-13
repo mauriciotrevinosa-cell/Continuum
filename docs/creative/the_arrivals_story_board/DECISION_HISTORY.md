@@ -1429,3 +1429,19 @@ Full beats and grounding are in `FLOATING_IDEAS.md` under "The shadow ant". Plac
   - Ciel to Frieren, privately through Rimuru: alive, asleep, fine first; then the System; the elf route last and softly. "Something caught him on the way back. It was not me." He recovers in a day.
 - **Open:** who is in the party; what follows; Jin-Woo's real arrival, when his war ends.
 
+
+## DH-077 — The queen's last push, and the first leak: "Out" (creator, 2026-10-13)
+
+- **V23 #10 "By Decree of the Queen", new ending:**
+  - "You're still my queen" / "Idiot", and she lies on top of him.
+  - "Tell me how you got it" / "You were there" / "Tell me anyway": her centuries-long war against mimics, "right and eaten".
+  - Ciel tells only Rimuru, in the loft, that The Noise is pressing again, softly, "as if it knows something is coming. And not yet." Rimuru: "Tomorrow."
+- **V23 #15 "Out" (new; Day 118):** small by design.
+  - Ciel keeps her word on Day 114. Mau already feels The Noise leaning, and it isn't the gate.
+  - Yuta and Mau only, first room and back. Yuta's name is already on the contract; Mau says "All five".
+  - A skeleton strikes Mau from behind. The wheel turns once outside the seal, through a mended place, and the second blow slides off.
+  - **Yuta pulls him out before anything else can react.** Ciel: "It should not have been able to... That is why it matters that it could." Yuta: "One turn's a warning. That's all it gets."
+  - Fern writes it in the ledger; no speech.
+- Checked against: the week-two ruin; nobody in the gate Days 113 to 117 (Pallets); the merchant later on Day 118; Frieren never putting the grimoire down before Day 124; the reading chair in the east room; the cold foot's first time on Day 116; Yuta's signature from the first run; V24's "every place where they had been mended".
+- What The Noise is leaning toward stays open. The S5 shadow ant (DH-076) is one possible payoff, but nothing on the page commits to it.
+

@@ -281,12 +281,24 @@ The creator recalls the mimic in Frieren's second first-class mage examination t
 - **The payoff of "No" (DH-074).** The Noise refused to be bound by dungeon rules because it sensed that root and would not be shut away from it (creator's reason, DH-075). This is where it was pulling him on Day 107. The reason can stay off the page.
 - **"Exchange" is Shadow Exchange.** The Noise reads a shadow soldier and finds the swap that soldier belongs to. It fires, and Mau goes where the shadows are: the war between dimensions, outside every universe. Those are the only two words The Noise has ever said: "No" and "Exchange". Keep it that rare.
 - **Why the guardrails come loose.** Outside the universe, Continuum cannot hold him down (compare Gojo's four seconds in V24). Nothing caps him, and nothing protects his body either. When the Goddess brings him back, Continuum catches him gently. That is "only rest".
-- **Clocks.** Every world keeps its own clock (CANON_TRAPS). For the party it can be a minute; for him, the whole fight.
+- **Clocks.** Every world keeps its own clock (CANON_TRAPS). Creator, same day: not the whole war, a good chunk of it until the Goddess arrives. **About 40 minutes for Mau, eight times what passes in Continuum (about 5 minutes).** Deliberately not another millennia, like the Trial.
 - **The party stays because of rule five.** "To leave no one inside" is the rule Mau couldn't sign, and it is what keeps them standing where he vanished.
 - **The voice they hear** is the Goddess's announcement to the whole world, like the world-evolving one. Frieren hears it outside the gate. Ciel's relay to her is the landing.
 - **The System is capacity, not power.** The elf route failed at 19 minutes on cross-feedback: his body could not hold it. A body that levels, slowly, only in the dungeon (the only one with the System), is why it could be the missing piece without turning into power creep. It also answers Kaneki's "he's going to be afraid of his body": he gets a window on his body, but its race line stays blank. Never solve his species.
 - **The Monarch seed.** Ciel's old line was "yours is not a shadow, yours is a door". Much later, the link The Noise is studying might touch the 26 patterns missing a requirement (Ten Shadows is one). Not soon.
 - **Jin-Woo's nerf is already built.** Continuum measures and caps every arrival at the door (Gojo).
 - **Placement proposal.** Mid-S5, before the Goddess talk (DH-067). Her "my error" gives the talk its reason; she comes to him, so DH-023 holds. Her "he is mine" meets "not even I know what you are". The Red Gate stays separate, near the end. Jin-Woo's real arrival is later, when his war ends.
-- **Number check.** S3's one-guardrail trials reached 19, 26 and 31 minutes. With everything open, his record is minutes at most (the field, Day 145). Either Ciel says "twice the longest he has ever held" without a number, or the creator picks one.
+- **Number (creator, same day):** Ciel says **"twice the longest he has ever held"**, with no number.
 - **Ask the creator:** who is in the party.
+
+**Creator answers, same day (seconded)**
+- **The Exchange is a swap.** Mau goes to Jin-Woo's war, and Jin-Woo appears in the dungeon in front of Mau's party. He arrives straight from fighting his gods, with his army deadlocked without him, and starts to get stressed. When the Goddess takes Mau back, Jin-Woo is returned too. **He is in this world for about 5 minutes.** Not brought in to stay.
+- This is why the party is left asking what the hell happened: a stranger for five minutes, a voice, then Mau back and collapsing.
+- **The System is only the Solo Leveling levelling trunk** (levels and the body's stats). It is not the Monarch's powers.
+- **The seed is the heart of it.** The Shadow Monarch was once a being of light, then a Monarch, and carried part of his god. Mau getting a seed of that is the point. The Noise studies it for a long time before anything grows.
+- Ciel's relay to Frieren is kept. Claude's notes:
+  - Lead with "he is alive, he is asleep, he is fine", because she has just heard the world told he left the universe.
+  - Put the elf route last, and keep it private through Rimuru, since the house still isn't told (V15 condition).
+  - "Exponentially" is the curve of what his body can grow to hold, not today's power.
+  - Ciel on the Goddess, in character: "Something caught him on the way back. It was not me."
+

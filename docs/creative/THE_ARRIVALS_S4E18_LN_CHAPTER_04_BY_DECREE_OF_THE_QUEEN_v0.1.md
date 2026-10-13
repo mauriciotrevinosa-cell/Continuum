@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 10  
-**Continuity state:** Day 113 | the shelf by the window, by decree | 'Rimuru. Do you want to still have a loft? By decree of the queen, there shall be changes.' / Fern scolds / 'Not because you're queen, but you gave me an idea' | build before: the west wing now; Seika's room, Ram's by Rem's turn, and one empty room, always | Wakana's sorted beams | the loft stays, with a door that latches from their side | Umaru's gigantic lounge: no | midnight: Frieren moves the shelf back herself; the hoodie is just hers now
+**Continuity state:** Day 113 | the shelf by the window, by decree | 'Rimuru. Do you want to still have a loft? By decree of the queen, there shall be changes.' / Fern scolds / 'Not because you're queen, but you gave me an idea' | build before: the west wing now; Seika's room, Ram's by Rem's turn, and one empty room, always | Wakana's sorted beams | the loft stays, with a door that latches from their side | Umaru's gigantic lounge: no | midnight: Frieren moves the shelf back herself; the hoodie is just hers now | 'You're still my queen' / 'Idiot': she lies on top of him | 'Tell me how you got it' / 'You were there' / 'Tell me anyway': her centuries-long war against mimics; 'right and eaten'; what's in it is a secret | the loft: Ciel to Rimuru only: The Noise presses again, softly, leaning, 'as if it knows something is coming. And not yet' / 'Later... Tomorrow'
 
 *When: Day 113, the second day of the reign. While the queen gave decrees, the leftover beams were still stacked in the timber yard, waiting for a reason.*
 
@@ -219,3 +219,91 @@ She came and sat down beside him on the bed, in the orange hoodie, with the hood
 "That's not a decree any more."
 
 "No," she agreed. She leaned her shoulder against his. "It's just mine now."
+
+They sat like that for a while. The snow light lay on the floor, and the shelf stood in the middle of it, where it belonged, temporarily.
+
+"Frieren."
+
+"Mm."
+
+"It's over," said Mau. "The decree. The crown. All of it." He looked at the crown on the bed beside him, Wakana's oak and Marin's gold and Coco's flowers going soft at the edges. "You're still my queen."
+
+Frieren did not answer at once.
+
+Then she said, "Idiot," very quietly, and turned, and pushed him over onto his back on the bed with one hand flat on his chest, and lay down on top of him. All of her. The whole small weight of her, in the orange hoodie, with her chin on his breastbone and her hair everywhere and her sleeves over her hands, the way a cat lies down on the one warm thing in a room and dares anyone to move it.
+
+He did not move it.
+
+"Idiot," she said again, into the hoodie. It came out muffled. It did not sound like a decree.
+
+He put one hand on her back. Up in the loft above the closet, nothing stirred.
+
+After a while he said, "Tell me how you got it."
+
+She lifted her head. "Got what?"
+
+"The grimoire."
+
+"You were there."
+
+"I know," said Mau. "Tell me anyway."
+
+Frieren looked at him for a long moment, down the length of her own nose, from very close. Then she sat up. Not off him. Just up, cross-legged on his stomach, in the hoodie with the sleeves over her hands, and he saw her face change into the face she wore when she was going to tell something properly, from the beginning, and nobody was going to hurry her.
+
+"It started," said Frieren, "a long time ago."
+
+"How long?"
+
+"Long enough that Himmel was the one pulling." She held up one sleeve. "The first one was in a ruin in the north. It said mimic. I opened it. It was dark." She paused, for weight. "Himmel pulled me out by the boots. He laughed for a week. Eisen didn't laugh. Eisen just held the other boot."
+
+"How many?"
+
+"I stopped counting." The sleeve came down; the other came up. "There was one in a tower that had three of them in a row, and they were *all* mimics, and I knew they were all mimics, and I opened all three, because the fourth one might not have been, and there *wasn't* a fourth one, Mau. There was a wall." Her eyes had gone very wide and very indignant. "Who builds a tower with three mimics and no fourth chest?"
+
+"A monster."
+
+"A *monster*," she agreed, with feeling. "There was one that spat me out because I had too many grimoires in my bag. There was one in a swamp that was so old it had moss on its teeth. Heiter said that one was a sign from the goddess and I should stop. I didn't stop. Fern has pulled me out of," she counted on the sleeve, gave up, "*several.* Stark has pulled me out of fewer, because Stark is scared of them, which is fair, because they bite."
+
+He was laughing. Very quietly. Under her. She ignored it, the way she ignored the weather.
+
+"And none of them," said Frieren, "*none of them*, in all that time, ever had anything inside but teeth." She leaned down over him, until her nose was an inch from his. "Every person I have ever travelled with has told me to stop opening them. Every single one. For centuries. *It's always a mimic, Frieren.* *The spell is ninety-nine percent, Frieren.*" She sat back up, triumphant, in the dark. "And on the hundred-and-twelfth day, in a round room, under a winged seal, the one in a hundred was a mimic *and* it had a grimoire. Both. At once." She folded her sleeves. "So they were all wrong. For centuries. And I was right."
+
+"You were eaten."
+
+"I was *right*," said Frieren, "and *eaten*. Those aren't opposites." She considered. "That's the whole story."
+
+"What's in it?"
+
+"That part," said Frieren, "is a secret."
+
+She lay back down on top of him, as if she had never got up, chin on his breastbone, satisfied with the whole history of the world. Her breathing went long and slow almost at once.
+
+Mau lay under her in the dark and looked at the ceiling and did not stop smiling for a long time.
+
+
+
+Up in the loft above the closet, Rimuru lay very flat on his pillow and very still, and did not say anything, because there was nothing in the world that needed saying, and because he had heard every word and was not going to admit it.
+
+*Rimuru.*
+
+Ciel. Only to him. Very quietly.
+
+*The Noise has started to press again.*
+
+He did not move.
+
+*Softly,* said Ciel. *Not at anything. Not at the gate. Not at the walls. It is not reaching. It is leaning.* A pause. *As if it knows something is coming. And not yet.*
+
+Rimuru lay in the dark and listened, below him, to an elf asleep on top of a man who was nearly asleep, and to the man's breathing slowing to match hers.
+
+*Later,* he told her.
+
+*Rimuru—*
+
+*Tomorrow,* said Rimuru. *Tell me tomorrow. Not tonight.*
+
+Ciel was quiet for a moment.
+
+*Tomorrow,* she agreed.
+
+Below him, the last of the reign went out of the room like a candle, and the hoodie stayed.

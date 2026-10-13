@@ -1363,3 +1363,19 @@ The creator asked whether Seika ever learns that Kessoku have been here two year
 - **Who Mau is.** *Done:* **V22 #31**, the night of Day 102. Seika can't sleep; Bocchi talks to her through the door left open a crack, in the dark, the only way she can talk. She tells her about Sukuna as she saw it: she stayed at the inn and was in the yard with Kita when Yuta carried Mau home under Rimuru's coat, the watch on his wrist (S2, V7 "The Hand"); Mau had stepped in front of Frieren, Sukuna's hand went through him, and he stayed so the others could get away (V7 "Predicted Geometry"); three days before he woke. There is something in his shadow that isn't him (not dated to the Sukuna night). In the containment she played through the wall, with Kita beside her, in case he could hear (S3 V13 "The Longest Day"). Then: "And then he did a Trial. Things happened in it... That part's his." "He's like a brother. Everybody's... They don't look at him because of what he can do. They look at him because he's already done all of it." Seika: "I told him not to do it again." / "He will." / "I know." The next evening Nijika tells Mau, and he says Sukuna is Bocchi's to tell: "She was in the yard."
 - **Bocchi's family comes from the same day Seika left** (creator's call). To them Bocchi vanished three or four days ago; she will be two years older. Don't derive a ratio: here the four arrived across S1 to S3, there they vanished within the same three days. Each world keeps its own clock (Ram: six days to Rem's months). *Seconded.*
 
+
+
+## DH-073 — Mau activates his gate; The Noise attraction and chosen reconnaissance (creator, 2026-10-12)
+
+Creator-directed revision of V23 #2–5. Supersedes the former claim that the wheel wants the dungeon and Ciel/house therefore exclude Mau from the first party.
+
+- Mau volunteers for the first party; nobody objects or removes him from it.
+- The Noise draws him toward the gate without his awareness of starting to walk. No speaking entity, hidden order or motive is confirmed. This recalls the temptation under Last Defense, where he could stop and report it; here he loses awareness of the intervening walk.
+- He crosses the threshold first and activates his own gift. Frieren pulls him back immediately; no rooms are explored and no fight, loot or adaptation happens.
+- Activation opens the passage to other entrants. It is a one-time condition, not a requirement to take Mau on every future expedition. The shop appears at the next dawn as before; weekly cycle and economy are unchanged.
+- The wheel adapts; it does not supply the desire to investigate. The attraction is The Noise's process; its deeper reason remains open.
+- Mau himself changes his proposal: he waits while a planned party checks the entrance, first room and exit. Ciel supplies observations, not a prohibition; the house helps with his plan.
+- Mikasa still leads the first planned exploration on Day 109, with Eren, Yuta, Maki and Milim. Distinguish first activation crossing from first reconnaissance.
+- Future repeat attractions are possible seeds, not automatic trance powers or executed future scenes. Do not pre-resolve the Rika/Yuka connection here.
+
+Applied in The Gate, The Shop, Rules of the Gate and First Run. Preserve all other dungeon chronology, costs, encounters and later party assignments.

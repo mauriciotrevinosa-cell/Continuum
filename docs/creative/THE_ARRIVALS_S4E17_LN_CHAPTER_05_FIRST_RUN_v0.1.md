@@ -4,11 +4,13 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 5  
-**Continuity state:** Day 109 | Mikasa first | stone corridor lit by crystals; a round room; a chest left for Frieren | iron-toothed wolves: steel skids, Mikasa's blade nicked | Maki's cursed tool and Yuta's cursed energy cut; they burst into blue sparks and a crystal | Milim, 'mostly gently' | rule two: out at once | five crystals; Frieren: 'You left a chest' | balance 50: 'Six more trips for one axe'
+**Continuity state:** Day 109 | Mikasa leads the first planned reconnaissance, after Mau's Day 105 activation crossing | stone corridor lit by crystals; a round room; a chest left for Frieren | iron-toothed wolves: steel skids, Mikasa's blade nicked | Maki's cursed tool and Yuta's cursed energy cut; they burst into blue sparks and a crystal | Milim, 'mostly gently' | rule two: out at once | five crystals; Frieren: 'You left a chest' | balance 50: 'Six more trips for one axe'
 
 *When: Day 109, two days after the rules. The watch at the stake has not missed a night.*
 
-Mikasa went first, because someone had to, and because she was the one who would come back.
+Mikasa led the first planned run, because someone had to, and because she was the one who would come back.
+
+Mau had already crossed the threshold once. He had asked to stay outside this time. What the five were doing now was the reconnaissance he had proposed, with a route back and people who knew they were walking.
 
 They stood at the red stake at the second bell of the hundred-and-ninth morning, the five of them, with the whole house behind them on the path and the blue light in front of them, humming. The window hung in the air beside the gate, where it always hung, with its boxes and its numbers. *GATE: WEEK 1. GRADE: NORMAL. CHANGES IN: 3 DAYS. SETTLEMENT BALANCE: 0 CRYSTALS.*
 
@@ -204,7 +206,7 @@ Frieren opened her eyes. She looked at the blue light, forty paces past the stak
 
 "Three days," she said.
 
-"Not the first time," said Mau. "Ciel said—"
+"Not before we've checked the route," said Mau. "That was the plan—"
 
 "This isn't the first time," said Frieren. "This is the *second* time." She turned and began walking back down the path toward the settlement, very upright, in her shawl. "I'm going to talk to Fern about the second time."
 

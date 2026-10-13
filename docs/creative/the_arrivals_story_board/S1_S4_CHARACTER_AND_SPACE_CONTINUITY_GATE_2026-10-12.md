@@ -71,3 +71,8 @@ This is **not** a license to insert later arrivals early. Ram arrives in V23 #19
 6. Update `CAST_LEDGER_S4.md` with actual changes in relationship, room, status or knowledge in the same pass. Record unresolved questions rather than filling them with inference.
 
 **Audit limits / open items:** No exhaustive line-by-line read of all 25 volumes was performed here. The Muslin cloth-language drift found in V21 #9/#12, V22 #17 and V22 #26 was corrected in those passages; targeted search should be repeated as new chapters arrive. Mau's species, natural lifespan, eventual elf-route viability and the future reciprocal Frieren/Mau conversation stay open.
+
+
+## Creator gate revision — V23 #2–5 (DH-073)
+
+Mau volunteers and nobody objects. The Noise draws him into an unremembered walk; his first threshold crossing activates his gift, and Frieren pulls him back. He then proposes waiting for reconnaissance himself. Ciel provides observations; the house does not exclude him or decide for him. Mikasa leads the first planned run, which is distinct from Mau's activation crossing. The wheel adapts and does not supply curiosity or desire. The attraction's deeper cause remains open. Preserve existing dates and later dungeon parties.

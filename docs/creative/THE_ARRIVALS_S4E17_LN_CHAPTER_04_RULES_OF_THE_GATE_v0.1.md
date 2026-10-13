@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 4  
-**Continuity state:** Day 107 | 1. Nobody goes in alone | first party: Yuta, Maki, Mikasa, Eren, Milim as Guardian (at the back) | not Mau: Ciel, the wheel wants it | Rimuru's shadow relay: a thread in each shadow and one at the stake | Mau's contract: five rules, 'To leave no one inside' | Umaru's guide, rule six: mimics, THIS MEANS YOU | Eren: 'Exits before rooms... the only order'
+**Continuity state:** Day 107 | 1. Nobody goes in alone | first party: Yuta, Maki, Mikasa, Eren, Milim as Guardian (at the back) | Mau maintains his own decision to wait after The Noise trance; activation crossing is distinct from the first planned run | Rimuru's shadow relay: a thread in each shadow and one at the stake | Mau's contract: five rules, 'To leave no one inside' | Umaru's guide, rule six: mimics, THIS MEANS YOU | Eren: 'Exits before rooms... the only order'
 
 *When: Day 107. The watch at the stake goes on day and night, in shifts. Seika's first week and the washing court mornings carry on around the long table.*
 
@@ -28,7 +28,7 @@ Everyone started talking at once.
 
 Milim wanted to go. Milim wanted to go so badly that she had been vibrating gently on the bench since breakfast and had broken a cup by holding it. Frieren wanted to go, and said so, calmly, three times, with her hands folded on the table, as if repetition alone would settle it. Stark wanted to go wherever Fern went. Himmel wanted to go because a hero did not let other people walk into a dungeon in front of him, and said so at some length, with a hand on his chest. Okarun wanted to go and was told by Momo, without looking at him, that he was not going.
 
-"Not the first time," said Rimuru.
+"For the first planned run," said Rimuru.
 
 The table went quiet.
 
@@ -66,27 +66,21 @@ Milim nodded, very seriously, and did not vibrate again for the rest of the morn
 
 The rest of the first party took another hour. In the end, it was five. Yuta and Maki, because Yuta's cursed energy and Maki's cursed tools were the surest things in the house against things nobody knew. Mikasa, because she had found the window first, and because she was the best of any of them at going into a place she did not know and coming out again. Eren, because Mikasa was going. And Milim, at the back, as Guardian.
 
-"Not me," said Mau.
+"I'll stay outside for this run," said Mau.
 
-He had not argued once all morning. Everyone turned.
+He had not argued once all morning. Frieren looked at him across the table.
 
-"Not the first time," said Mau. He looked at Rimuru. "Ciel told me. Last night."
+"I still want to go," he said. "I just don't want the next thing I remember to be a room nobody's checked."
 
+The offer at the stake had been his. So had the change of plan. Nobody had crossed his name out for him.
 
+*I can learn the shape of the entrance through the others,* said Ciel, through Rimuru. *What happened to your attention there is still unresolved. The wheel has made no adaptation to it.*
 
-She had told him at the east window, after Frieren had gone to sleep.
+"Then we do that first," said Mau. "And afterwards we work out my run."
 
-*You felt it,* said Ciel. *At the stake. When you first saw the gate.*
+"With us," said Frieren.
 
-He had. He had felt it the way he felt things he did not want to feel. Something small and old, in the place behind his breastbone where the seal was, lifting its head. Listening.
-
-*The wheel wants it,* said Ciel. *Not the way Milim wants it. The way it wanted the plaza.* A pause. *A place full of things that fight. Things it has never met. Things it could turn toward.* Another pause. *I do not know what it would do in there. Neither do you. That is the problem.*
-
-*So I don't go.*
-
-*Not the first time,* said Ciel. *Let me see inside first. Through the others. Let me learn the shape of it.* A pause, gentler. *Then we will know what the wheel wants. And then you can go in knowing.*
-
-He had not argued with her either.
+"With you," he said.
 
 
 

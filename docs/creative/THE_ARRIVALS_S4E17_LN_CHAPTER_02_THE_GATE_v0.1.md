@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 2  
-**Continuity state:** Day 105 | a blue gate forty paces past Anko's red stake, outside the protection on purpose | Ciel: a built door, a space larger than the settlement, 'has teeth' | Mau: what his coin bought, without spending it | Frieren: 'Dungeons... chests... grimoires'; one step past the stake | Senku's pole: limestone, cave air | Fern: nobody goes in yet | Umaru's sign: DOES NOT AUTHORIZE ENTRY (YET.)
+**Continuity state:** Day 105 | a blue gate forty paces past Anko's red stake, outside the protection on purpose | Ciel: a built door, a space larger than the settlement, 'has teeth' | Mau: what his coin bought, without spending it | Frieren: 'Dungeons... chests... grimoires'; one step past the stake | Senku's pole: limestone, cave air | Mau volunteers for the first party; nobody objects | The Noise draws him into an unremembered walk; first threshold crossing activates his gift; Frieren pulls him back | Mau proposes waiting for reconnaissance | Umaru's sign: DOES NOT AUTHORIZE ENTRY (YET.)
 
 *When: Day 105, the next dawn. Seika's first week in the house goes on around everything that follows.*
 
@@ -80,7 +80,7 @@ Milim, at the back, made a small involuntary sound of delight and was trodden on
 
 Mau had not said anything since the stake.
 
-He was standing at the front with Frieren beside him, looking at the blue light. The cold air from it moved his hair. The hum went through his teeth. And somewhere under the hum, in the place behind his breastbone where the seal was, something very small and very old had lifted its head and was listening, the way it listened to things it wanted.
+He was standing at the front with Frieren beside him, looking at the blue light. The cold air from it moved his hair. The hum went through his teeth. And somewhere under the hum, in the place behind his breastbone where the seal was, The Noise had turned toward it. Not a voice. A problem it wanted to look inside.
 
 He put his hand on the inside pocket of his coat. The coin was there. Warm.
 
@@ -172,15 +172,107 @@ The end that had gone in was wet. Not with snow. With dew, fine and cold, beaded
 
 
 
-Fern decided. Of course she did.
+"I'll go with the first party," said Mau.
 
-"Nobody goes in today," she said, at the red stake, with the ledger closed on her arm. Her voice was perfectly calm. "Nobody goes in tomorrow. Nobody goes in until we know what's in there, and how to get out again, and who goes, and what happens if they don't come back." She looked round at all of them. At Milim, vibrating. At Frieren, looking at the gate. At Senku with his wet pole. At Mikasa with her hands on her blades. "It's not going anywhere. She didn't put it here to disappear tomorrow. *In the long run,* she said." She paused. "So we take the long run."
+He said it while Senku was still looking at the wet end of the pole. Frieren stood beside him. Nobody objected. Rimuru nodded once.
 
-Nobody argued. Even Milim did not argue. She looked at Fern, and then at the gate, and then at Rimuru, and said, in a small voice, "But *soon*?"
+"Then we work out the route back," said Rimuru. "Before any of us goes."
 
-"Soon," said Rimuru. "Not today."
+Mau nodded too.
 
-"Mikasa and I will take the first watch," said Eren. He had already taken off his coat and was spreading it on the snow at the stake, to sit on. "Here. At the line. Nothing comes out, nobody goes in."
+He remembered that.
+
+He remembered the red cloth moving on the stake. Frieren's sleeve against his hand. Senku turning the pole to catch the light.
+
+Then stone under his boots.
+
+
+
+Frieren saw him leave the stake.
+
+At first she thought he was going closer to look. She went with him. The others were still talking behind them, about the pole, about cave air, about whether the passage beyond the blue was wide enough for two people.
+
+"Mau," she said.
+
+He did not turn.
+
+She caught up with him. His face was quiet. Too quiet. His eyes were on the gate, but when she moved into the edge of his sight, nothing in them changed.
+
+"Mau."
+
+His next step took him through the blue.
+
+The hum changed. One low note, deeper than the others. The dark centre cleared, and for the first time Frieren could see the worn stone immediately beyond it.
+
+She caught his sleeve. One boot braced in the snow, her hand closed hard round his forearm through the cloth, and she pulled him back.
+
+He came out stumbling. She held him until his boots found the ground.
+
+"Frieren?"
+
+He looked at her hand. Then at the snow. Then back across forty paces to the red stake, where everyone had stopped talking.
+
+"How did I—"
+
+"You walked," she said. "You weren't answering me."
+
+He looked at the gate again. She kept hold of his sleeve.
+
+"I was beside the pole."
+
+"You were."
+
+"I don't remember leaving it."
+
+
+
+They came to him. Rimuru first, then Yuta, and Fern with the ledger closed. Nobody asked what he had found inside. Frieren's hand was still on his arm.
+
+"Last Defense," said Mau. Very quietly. "Under the refuge. The thing down there. It feels like that."
+
+*The Noise,* said Ciel, through Rimuru so they could all hear. *Observe. Analyze. The same process turning toward something it cannot read.*
+
+"I could stop then," said Mau. "I knew I wanted to go closer. I told Aira." He looked at Frieren. "This time I didn't even know I was walking."
+
+*The wheel did not turn,* said Ciel. *This was not an adaptation.*
+
+"And the gate?" said Rimuru.
+
+*The passage opened when Mau crossed,* said Ciel. *It was built for him. It needed him to cross first. That part is complete. The way is open to the others now.*
+
+"Did it make him walk?" said Frieren.
+
+*I cannot tell you why The Noise answered it,* said Ciel. *Only that it did. I have not found a command.*
+
+Mau looked down at his own boots. Snow on them. Stone dust on one toe. He had not chosen the steps between.
+
+"Then I don't go on the first run," he said.
+
+Nobody had said it for him.
+
+"I offered," he said. "I meant it. But I need to know what's in there before I go back. If I start walking again, I need to notice before I'm inside."
+
+Frieren's grip loosened. Her hand stayed there.
+
+"Can you look through someone else?" Mau asked Rimuru. "You and Ciel. Let a party see the first room and the way out. Then we work out how I go in awake."
+
+"We can work on that," said Rimuru.
+
+Fern opened the ledger.
+
+"Not today," said Mau. "Let's make the plan first."
+
+"The rules first," said Fern. "The route back. Who goes. What happens if they don't come back."
+
+Mau nodded. This time he knew he was doing it.
+
+Milim looked from him to the gate, and then at Rimuru.
+
+"But soon?" she asked, much more quietly.
+
+"Soon," said Rimuru. "With the plan."
+
+"Mikasa and I will take the first watch," said Eren. He had already taken off his coat and was spreading it on the snow at the stake, to sit on. "Here. At the line. We watch it until the plan is ready."
 
 "In shifts," said Fern.
 

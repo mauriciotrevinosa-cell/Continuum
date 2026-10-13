@@ -70,7 +70,7 @@ Mau has no identified source world (blank origin; Second Chance is unknown in-wo
 | **The rings** | One and Two (the house); Three is only the witches; Four (Arrival House people) disappears in S4 | DH-026; V20 |
 | **Arrival House** | Intake, terms, guests. **Arrivals are drying up** (the plaza breach, DH-024). | V17–V20 |
 | **The ink economy** | Ink is finite, and the ink tree needs 100 years before anyone can draw from it | V16 |
-| **The dungeon** (S4, planned) | Near the settlement. A shop usable only nearby, for everyone. Items persist outside. Healing potions are rare (boss drops, weak). The dungeon changes weekly. Monsters are immune to normal metal; magic and cursed energy work. Crystals; a loot economy. | creator 2026-10-10 |
+| **The dungeon** (S4, active from Day 105; creator revision 2026-10-12) | Mau's first threshold crossing activates the gift once; others can enter thereafter. The Noise causes his unremembered approach; its motive is unresolved. Mau chooses to wait for reconnaissance; the wheel is not the desiring agent. Near the settlement. A shop usable only nearby, for everyone. Items persist outside. Healing potions are rare (boss drops, weak). The dungeon changes weekly. Monsters are immune to normal metal; magic and cursed energy work. Crystals; a loot economy. | creator 2026-10-10 |
 | **Threat frequency** (S4, planned) | After the Goddess, monsters rise around their region first, and the roads close. "The world is evolving." | creator |
 
 ---

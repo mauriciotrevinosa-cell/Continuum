@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 3  
-**Continuity state:** Day 106 | the window, visible within twenty paces, translating for each reader | SHOP: weapons, armour, consumables, materials, special (locked) | GATE: WEEK 1, NORMAL, CHANGES IN 6 DAYS; SETTLEMENT BALANCE: 0 | Umaru: 'It's a shop menu' / Fern: 'That's an economy' | no snacks; Ration (Gate Issue) is a brick | healing draughts: NOT SOLD, OBTAIN FROM: BOSS; minor closes a scratch | one purse; Anko's LOOT REGISTER; Fern rations potions
+**Continuity state:** Day 106 | after Mau's activation crossing, the window appears at dawn, visible within twenty paces, translating for each reader | SHOP: weapons, armour, consumables, materials, special (locked) | GATE: WEEK 1, NORMAL, CHANGES IN 6 DAYS; SETTLEMENT BALANCE: 0 | Umaru: 'It's a shop menu' / Fern: 'That's an economy' | no snacks; Ration (Gate Issue) is a brick | healing draughts: NOT SOLD, OBTAIN FROM: BOSS; minor closes a scratch | one purse; Anko's LOOT REGISTER; Fern rations potions
 
 *When: Day 106. Mikasa and Eren had kept the watch at the red stake all night, in shifts with Yuta and Maki, as they would every night from now on.*
 

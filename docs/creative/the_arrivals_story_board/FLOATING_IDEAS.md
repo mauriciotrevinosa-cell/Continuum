@@ -249,3 +249,44 @@ The creator recalls the mimic in Frieren's second first-class mage examination t
 - Preserve this as an idea to revisit while building S5, not an executed event or current dungeon mechanic.
 - The connection between the mimic and the Red Gate, scene, participants, trigger, stakes and outcome remain for the creator to develop.
 - Do not assume this changes the current gate, implements another world's Red Gate rules, or adds a specific mimic encounter now.
+
+## S5 — The shadow ant, "Exchange" and the Monarch seed (creator seed, 2026-10-13; PROPOSED, NOT SECONDED YET)
+
+**Separate from the Red Gate.** The Red Gate does not lead here; it stays its own idea, possibly for the end of S5. This one is a nudge first.
+
+**The creator's beats**
+- Mau has been getting stronger. In the dungeon he detects a shadow: an ant, or something black like the abyss. He goes for it.
+- When he touches its body, The Noise announces **"Exchange"**. Analyzing the ant, it entered a shadow, absorbed everything, and saw a System that already exists: the one that improves abilities by levelling up.
+  - It does not touch The Noise or Construction. It is physical capacity, an extension of the System, like Jin-Woo's.
+- Mau vanishes in front of his party. He lands in a war against inexplicable beings: Jin-Woo's shadow army in a deadlock with his gods.
+  - His guardrails come loose, because otherwise he dies. He survives long enough.
+- The Goddess announces that **Mau has left the universe by her error**.
+  - While he fights, The Noise analyzes and makes a connection to Jin-Woo's shadow, the way it did with Ciel.
+  - The Goddess arrives like a sun (no form shown) and shouts at the gods that **he is hers**. She takes him back.
+- Back to Jin-Woo: a notification. He is no longer the only Shadow Monarch: **there is one in the making**. The Noise grabbed something and is studying it. It stays dormant a long while, until Jin-Woo is properly introduced.
+- Mau reappears where he vanished. His party: "what the hell happened, we heard a voice, and then he was back". He collapses: everything open far too long (if the record is 19 minutes, say 38).
+- Ciel tells Rimuru:
+  - Mau held twice his maximum and must rest.
+  - The guardrails work.
+  - Something new is in him, a seed.
+- Ciel asks Rimuru to relay to Frieren:
+  - Mau gained something that exponentially increases his physical abilities.
+  - It isn't clear yet what it is, or what he saw when he was announced gone.
+  - From what Ciel saw of the System The Noise read, it may be the missing piece: the elf route, or combining everything.
+  - He is fine, only tired, like Rimuru after overreaching. The Goddess helped make it only rest. He recovers in a day.
+- Open (creator): what comes after, and whether this is S5 or later.
+
+**Claude's grounding (proposed, awaiting seconding)**
+- **Why an ant is there.** The gate is Mau's coin gift and "roughly from Jin-Woo's universe" (V23 plan). The Goddess's error: she brought the gate and left its root connected. A weekly change pulls a stray shadow soldier through.
+- **The payoff of "No" (DH-074).** The Noise refused to be bound by dungeon rules because it sensed that root and would not be shut away from it (creator's reason, DH-075). This is where it was pulling him on Day 107. The reason can stay off the page.
+- **"Exchange" is Shadow Exchange.** The Noise reads a shadow soldier and finds the swap that soldier belongs to. It fires, and Mau goes where the shadows are: the war between dimensions, outside every universe. Those are the only two words The Noise has ever said: "No" and "Exchange". Keep it that rare.
+- **Why the guardrails come loose.** Outside the universe, Continuum cannot hold him down (compare Gojo's four seconds in V24). Nothing caps him, and nothing protects his body either. When the Goddess brings him back, Continuum catches him gently. That is "only rest".
+- **Clocks.** Every world keeps its own clock (CANON_TRAPS). For the party it can be a minute; for him, the whole fight.
+- **The party stays because of rule five.** "To leave no one inside" is the rule Mau couldn't sign, and it is what keeps them standing where he vanished.
+- **The voice they hear** is the Goddess's announcement to the whole world, like the world-evolving one. Frieren hears it outside the gate. Ciel's relay to her is the landing.
+- **The System is capacity, not power.** The elf route failed at 19 minutes on cross-feedback: his body could not hold it. A body that levels, slowly, only in the dungeon (the only one with the System), is why it could be the missing piece without turning into power creep. It also answers Kaneki's "he's going to be afraid of his body": he gets a window on his body, but its race line stays blank. Never solve his species.
+- **The Monarch seed.** Ciel's old line was "yours is not a shadow, yours is a door". Much later, the link The Noise is studying might touch the 26 patterns missing a requirement (Ten Shadows is one). Not soon.
+- **Jin-Woo's nerf is already built.** Continuum measures and caps every arrival at the door (Gojo).
+- **Placement proposal.** Mid-S5, before the Goddess talk (DH-067). Her "my error" gives the talk its reason; she comes to him, so DH-023 holds. Her "he is mine" meets "not even I know what you are". The Red Gate stays separate, near the end. Jin-Woo's real arrival is later, when his war ends.
+- **Number check.** S3's one-guardrail trials reached 19, 26 and 31 minutes. With everything open, his record is minutes at most (the field, Day 145). Either Ciel says "twice the longest he has ever held" without a number, or the creator picks one.
+- **Ask the creator:** who is in the party.

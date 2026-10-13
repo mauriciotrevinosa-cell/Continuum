@@ -4,13 +4,13 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 4  
-**Continuity state:** Day 107 | 1. Nobody goes in alone | first party: Yuta, Maki, Mikasa, Eren, Milim as Guardian (at the back) | Mau maintains his own decision to wait after The Noise trance; activation crossing is distinct from the first planned run | Rimuru's shadow relay: a thread in each shadow and one at the stake | Mau's contract: five rules, 'To leave no one inside' | Umaru's guide, rule six: mimics, THIS MEANS YOU | Eren: 'Exits before rooms... the only order'
+**Continuity state:** Day 107 | 1. Nobody goes in alone | Mau volunteers over breakfast; nobody objects | after lunch, The Noise draws him across the threshold during entrance preparations; Frieren pulls him back | Mau proposes waiting for reconnaissance | final party: Yuta, Maki, Mikasa, Eren, Milim as Guardian (at the back) | Rimuru's shadow relay: a thread in each shadow and one at the stake | Mau's contract: five rules, 'To leave no one inside' | Umaru's guide, rule six: mimics, THIS MEANS YOU | Eren: 'Exits before rooms... the only order'
 
 *When: Day 107. The watch at the stake goes on day and night, in shifts. Seika's first week and the washing court mornings carry on around the long table.*
 
 The rules took a whole day, because the house argued about every one of them, which was how Mau knew they would hold.
 
-They argued at the long table, all morning, with the ledger open in the middle and Fern at the head of it and the plan of the real house on the wall behind her, and Senku's tally on the board, and the window out in the north field that none of them could see from here. Seiko presided from the high seat with her fan. The witches sat at their end and listened. Seika stood at the back by the fort with her arms folded, which by now everyone understood to mean she was paying very close attention.
+Breakfast was still on the long table when they began. Momo passed the last bowl down to Mau; Frieren moved the bread out from under Rimuru's drawing. They ate, and argued all morning, with the ledger open in the middle and Fern at the head of it and the plan of the real house on the wall behind her, and Senku's tally on the board, and the window out in the north field that none of them could see from here. Seiko presided from the high seat with her fan. The witches sat at their end and listened. Seika stood at the back by the fort with her arms folded, which by now everyone understood to mean she was paying very close attention.
 
 Fern wrote the first rule herself, before anyone else could speak.
 
@@ -64,31 +64,21 @@ Then she closed it. She sat up very straight on the bench, with her hands in her
 
 Milim nodded, very seriously, and did not vibrate again for the rest of the morning.
 
-The rest of the first party took another hour. In the end, it was five. Yuta and Maki, because Yuta's cursed energy and Maki's cursed tools were the surest things in the house against things nobody knew. Mikasa, because she had found the window first, and because she was the best of any of them at going into a place she did not know and coming out again. Eren, because Mikasa was going. And Milim, at the back, as Guardian.
+The rest of the first party took another hour. Before Mau spoke, there were five names on the draft. Yuta and Maki, because Yuta's cursed energy and Maki's cursed tools were the surest things in the house against things nobody knew. Mikasa, because she had found the window first, and because she was the best of any of them at going into a place she did not know and coming out again. Eren, because Mikasa was going. And Milim, at the back, as Guardian.
 
-"I'll stay outside for this run," said Mau.
+"I'll go with the first party," said Mau.
 
-He had not argued once all morning. Frieren looked at him across the table.
+Frieren looked at him across the table. Nobody objected. Rimuru nodded and moved the paper toward him; Fern added his name in pencil beneath the other five.
 
-"I still want to go," he said. "I just don't want the next thing I remember to be a room nobody's checked."
+"Then six," she said. "Same route. Same rules."
 
-The offer at the stake had been his. So had the change of plan. Nobody had crossed his name out for him.
-
-*I can learn the shape of the entrance through the others,* said Ciel, through Rimuru. *What happened to your attention there is still unresolved. The wheel has made no adaptation to it.*
-
-"Then we do that first," said Mau. "And afterwards we work out my run."
-
-"With us," said Frieren.
-
-"With you," he said.
-
-
+Mau looked over the drawing. "And a way for the people outside to know where we are. Before we leave."
 
 "Then how do we see inside?" said Fern. "If the gate won't let Ciel look."
 
 Rimuru held up the sheet of paper.
 
-"It won't let her look in," he said. "From out here. It's a door, and it keeps its own shape, and Ciel can't see past it." He turned the paper round. On it, in his untidy hand, was a drawing of five small figures with lines running from their feet. "But it can't stop me going in. *With* them."
+"It won't let her look in," he said. "From out here. It's a door, and it keeps its own shape, and Ciel can't see past it." He turned the paper round. On it, in his untidy hand, was a drawing of six small figures with lines running from their feet. "But it can't stop me going in. *With* them."
 
 He held out his hand, palm up, on the table.
 
@@ -98,7 +88,7 @@ It was very small. A thread of darkness, thinner than a hair, that rose out of t
 
 Yuta looked down at his own shadow.
 
-"It's in there," said Rimuru. "A piece of mine. In yours. It goes where you go." He looked at the five of them. "One for each of you. And one at the stake, in the shadow of Anko's marker, where it can see the gate." He paused. "Everything your shadow sees, mine sees. Everything mine sees, Ciel sees. If you get hurt, I'll know. If you get lost, I'll know where. If you need out—" He closed his hand. "I can pull."
+"It's in there," said Rimuru. "A piece of mine. In yours. It goes where you go." He looked at the six of them. "One for each of you. And one at the stake, in the shadow of Anko's marker, where it can see the gate." He paused. "Everything your shadow sees, mine sees. Everything mine sees, Ciel sees. If you get hurt, I'll know. If you get lost, I'll know where. If you need out—" He closed his hand. "I can pull."
 
 *A relay,* said Ciel, with deep satisfaction. *Shadow to shadow. Like a line of people passing buckets.* A pause. *No cameras. No wires. Nothing she will need to break.*
 
@@ -112,9 +102,94 @@ Senku, at the far end of the table, had gone very still.
 
 
 
+Momo interrupted them for lunch.
+
+Not with a speech. With bowls. The drawing went to the dry end of the table, and the pen went beside it, and for a while they ate. Milim asked whether she should bring food for the others or only for herself. Eren said they were going to look at one room, not move into it. She said that was not an answer. Mau laughed, and Frieren took the last piece of bread from his plate.
+
+Afterwards, the six walked out to the stake with Rimuru, Frieren and Fern to check the relay position and the entrance approach. They were not starting the run. The contract was still a draft; nobody had signed it yet.
+
+Rimuru crouched by Anko's marker. Mau stood beside Frieren and watched him choose the patch of shadow where the outside thread would sit. He remembered her sleeve against his hand, and Rimuru explaining where he would wait.
+
+Then stone under his boots.
+
+
+
+Frieren saw him leave the stake.
+
+At first she thought he was going closer to look. She went with him. The others were still talking behind them, about the relay, about where to stand if someone needed help, about whether the passage beyond the blue was wide enough for two people.
+
+"Mau," she said.
+
+He did not turn.
+
+She caught up with him. His face was quiet. Too quiet. His eyes were on the gate, but when she moved into the edge of his sight, nothing in them changed.
+
+"Mau."
+
+His next step took him through the blue.
+
+The hum changed. One low note, deeper than the others. The dark centre cleared, and for the first time Frieren could see the worn stone immediately beyond it.
+
+She caught his sleeve. One boot braced in the snow, her hand closed hard round his forearm through the cloth, and she pulled him back.
+
+He came out stumbling. She held him until his boots found the ground.
+
+"Frieren?"
+
+He looked at her hand. Then at the snow. Then back across forty paces to the red stake, where everyone had stopped talking.
+
+"How did I—"
+
+"You walked," she said. "You weren't answering me."
+
+He looked at the gate again. She kept hold of his sleeve.
+
+"We were talking about the marker."
+
+"You were."
+
+"I don't remember leaving it."
+
+
+
+Rimuru and Yuta came over from the marker. Fern followed with the unsigned contract paper still folded inside her ledger. Nobody asked what he had found inside. Frieren's hand was still on his arm.
+
+"Last Defense," said Mau. Very quietly. "Under the refuge. The thing down there. It feels like that."
+
+*The Noise,* said Ciel, through Rimuru so they could all hear. *Observe. Analyze. The same process turning toward something it cannot read.*
+
+"I could stop then," said Mau. "I knew I wanted to go closer. I told Aira." He looked at Frieren. "This time I didn't even know I was walking."
+
+*The wheel did not turn,* said Ciel. *This was not an adaptation.*
+
+"And the gate?" said Rimuru.
+
+*The passage opened when Mau crossed,* said Ciel. *It was built for him. It needed him to cross first. That part is complete. The way is open to the others now.*
+
+"Did it make him walk?" said Frieren.
+
+*I cannot tell you why The Noise answered it,* said Ciel. *Only that it did. I have not found a command.*
+
+Mau looked down at his own boots. Snow on them. Stone dust on one toe. He had not chosen the steps between.
+
+"Then I don't go on the first run," he said. "You five check it first."
+
+Nobody had said it for him.
+
+"I offered," he said. "I meant it. But I need to know what's in there before I go back. If I start walking again, I need to notice before I'm inside."
+
+Frieren's grip loosened. Her hand stayed there.
+
+"Use the relay," Mau said to Rimuru. "You and Ciel. See the first room and the way out with them. Then we work out how I go in awake."
+
+"We can work on that," said Rimuru.
+
+They went back to the long table together. Fern left Mau's name on the working draft, with *later* beside it, and copied the five names onto the contract for the reconnaissance. He had changed his plan; the rest of the morning's work still held.
+
 Then the contract.
 
-That was Mau's. He had asked for it, at the end of the morning, and the table had looked at him, and then at Fern, and Fern had nodded.
+That was Mau's. He had asked for it that morning. Now, with lunch cleared away and the entrance check behind them, he drew the clean sheet toward him, and Fern nodded.
+
 
 The contracts in this world were real. Everyone at the table knew it. The ones you signed with the witches, the one Mau had signed with the Goddess, the ones from long ago that none of the newer arrivals had seen. Paper, ink, a name. And if you broke one, something happened to you, and it was not small. Mau had never broken one. Not once. He had been very careful, for a very long time, to keep to the exact letter of every contract he had ever made. The house knew that too.
 
@@ -156,7 +231,7 @@ Mau thought about it.
 
 
 
-The afternoon was for the rest.
+The rest of the afternoon was for the guide.
 
 Umaru wrote a strategy guide. Nobody had asked her to. She wrote it at the toll booth in the fort, on six pages, in coloured chalk, and presented it to the first party at the long table in the late afternoon with enormous ceremony. Its title was *THE MINISTRY OF FORT AFFAIRS GUIDE TO DUNGEONS (FIRST EDITION).*
 
@@ -188,11 +263,11 @@ Umaru looked at Frieren for a long moment, narrowly. Then she took back the guid
 
 
 
-At dusk, Mau walked out to the red stake on his own.
+At dusk, Mau and Frieren walked out to the red stake together.
 
-Mikasa and Eren were on the watch, on Eren's coat, with the lantern between them. They did not say anything when he came. Mikasa shifted over on the coat, and he sat down beside them, and the three of them looked at the blue light standing up out of the snow forty paces away, humming.
+Mikasa and Eren were on the watch, on Eren's coat, with the lantern between them. They did not say anything when he came. Mikasa shifted over on the coat, and Mau sat down beside them. Frieren settled beside him, and the four of them looked at the blue light standing up out of the snow forty paces away, humming.
 
-He could feel it from here. The wheel. Small and old, behind his breastbone, with its head up, listening.
+He could still feel The Noise turn toward it. This time he noticed. He kept his eyes on the red cloth at the stake.
 
 He put his hand flat on his chest and left it there.
 
@@ -200,7 +275,7 @@ He put his hand flat on his chest and left it there.
 
 "Not the first time."
 
-"Good," said Eren.
+"Then we check the exits," said Eren.
 
 Mau looked at him.
 
@@ -210,4 +285,4 @@ Eren was looking at the gate, with his elbows on his knees and his hands loose b
 
 Mikasa, on his other side, said nothing. But in the light of the lantern Mau saw her look at Eren for a long moment, the way you look at someone who has said a thing you did not know they knew.
 
-They sat at the stake until the second watch came. Then Mau walked back down the path to the settlement alone, with his hand still on his chest, and the hum fading behind him into the dark, and the coin warm against his ribs, and something under the coin, very quietly, still listening.
+They sat at the stake until the second watch came. Then Mau and Frieren walked back down the path to the settlement. His hand was in hers. He could hear the hum fading behind them into the dark, and he knew each step he took.

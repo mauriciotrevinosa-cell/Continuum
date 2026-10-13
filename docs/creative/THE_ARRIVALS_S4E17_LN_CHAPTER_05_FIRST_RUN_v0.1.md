@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 23  
 **Reading order:** 5  
-**Continuity state:** Day 109 | Mikasa leads the first planned reconnaissance, after Mau's Day 105 activation crossing | stone corridor lit by crystals; a round room; a chest left for Frieren | iron-toothed wolves: steel skids, Mikasa's blade nicked | Maki's cursed tool and Yuta's cursed energy cut; they burst into blue sparks and a crystal | Milim, 'mostly gently' | rule two: out at once | five crystals; Frieren: 'You left a chest' | balance 50: 'Six more trips for one axe'
+**Continuity state:** Day 109 | Mikasa leads the first planned reconnaissance, after Mau's Day 107 activation crossing | stone corridor lit by crystals; a round room; a chest left for Frieren | iron-toothed wolves: steel skids, Mikasa's blade nicked | Maki's cursed tool and Yuta's cursed energy cut; they burst into blue sparks and a crystal | Milim, 'mostly gently' | rule two: out at once | five crystals; Frieren: 'You left a chest' | balance 50: 'Six more trips for one axe'
 
 *When: Day 109, two days after the rules. The watch at the stake has not missed a night.*
 

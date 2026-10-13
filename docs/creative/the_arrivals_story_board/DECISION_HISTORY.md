@@ -1372,10 +1372,10 @@ Creator-directed revision of V23 #2–5. Supersedes the former claim that the wh
 - Mau volunteers for the first party; nobody objects or removes him from it.
 - The Noise draws him toward the gate without his awareness of starting to walk. No speaking entity, hidden order or motive is confirmed. This recalls the temptation under Last Defense, where he could stop and report it; here he loses awareness of the intervening walk.
 - He crosses the threshold first and activates his own gift. Frieren pulls him back immediately; no rooms are explored and no fight, loot or adaptation happens.
-- Activation opens the passage to other entrants. It is a one-time condition, not a requirement to take Mau on every future expedition. The shop appears at the next dawn as before; weekly cycle and economy are unchanged.
+- Activation opens the passage to other entrants. It is a one-time condition, not a requirement to take Mau on every future expedition. The shop appears on Day 106, before activation of entry; the interface can be inspected without opening the passage to entrants. Weekly cycle and economy are unchanged.
 - The wheel adapts; it does not supply the desire to investigate. The attraction is The Noise's process; its deeper reason remains open.
 - Mau himself changes his proposal: he waits while a planned party checks the entrance, first room and exit. Ciel supplies observations, not a prohibition; the house helps with his plan.
 - Mikasa still leads the first planned exploration on Day 109, with Eren, Yuta, Maki and Milim. Distinguish first activation crossing from first reconnaissance.
 - Future repeat attractions are possible seeds, not automatic trance powers or executed future scenes. Do not pre-resolve the Rika/Yuka connection here.
 
-Applied in The Gate, The Shop, Rules of the Gate and First Run. Preserve all other dungeon chronology, costs, encounters and later party assignments.
+Placement corrected by the creator, same day: The Gate (V23 #2, Day 105) remains discovery only; The Shop (#3, Day 106) keeps its original menu/food sequence. Mau volunteers over breakfast in Rules of the Gate (#4, Day 107), nobody objects, and the entrance-preparation visit after lunch is where the trance/crossing/rescue occurs. He chooses to wait before any contract signatures. The five sign afterwards and explore on Day 109 (#5). This supersedes the initial implementation placing the crossing in #2. Preserve all other dungeon chronology, costs, encounters and later party assignments.

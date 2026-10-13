@@ -231,3 +231,6 @@ Number of chapters with a named body mention (metadata excluded), not appearance
 ## Subsequent creator revision — DH-073
 
 The earlier chapter manifest describes the audit snapshot before this new decision. V23 #2–5 now distinguish Mau's first activation crossing from the first planned exploration. The Noise, not the wheel, draws him into an unremembered walk; Frieren recovers him; Mau proposes reconnaissance before his own expedition. No household veto is imposed. Consult DECISION_HISTORY DH-073 and the current chapter text.
+
+
+**DH-073 placement correction (creator, same day):** discovery and shop remain in V23 #2–3 unchanged. The offer, lunch, entrance-preparation trance, Frieren's rescue and Mau's decision to wait occur in #4 (Day 107), before contract signatures and before the Day 109 reconnaissance in #5. Earlier Day 105 activation wording is superseded.

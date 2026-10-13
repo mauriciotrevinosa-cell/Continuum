@@ -62,7 +62,7 @@
   - Systems: Ciel; Analyze reads everything he sees; the sealed patterns (no counts in prose); the wheel.
   - **Safe to use: only the light RCT and the flowers.** Everything else is a risk every time: the shadow and the dog (the shadow is a door; Mahoraga could follow), Infinity, the Six Eyes from V24, and the wheel (DH-062).
   - Coin: **kept**, warm, the dungeon's gift (DH-050). He can give it.
-  - **Gate (V23 #2–5):** first activation crossing belongs to Mau, drawn unknowingly by The Noise and pulled back by Frieren. He had volunteered; nobody objected. He himself proposes waiting for reconnaissance. Mikasa leads that first planned run. The wheel does not want or investigate; its role is adaptation. See the latest gate revision in DECISION_HISTORY.
+  - **Gate (V23 #4, Day 107; discovery/menu in #2–3):** Mau volunteers over breakfast; the first activation crossing after lunch belongs to Mau, drawn unknowingly by The Noise and pulled back by Frieren. He had volunteered; nobody objected. He himself proposes waiting for reconnaissance. Mikasa leads that first planned run. The wheel does not want or investigate; its role is adaptation. See the latest gate revision in DECISION_HISTORY.
   - Blind spot: not believing people choose him.
   - Rituals: the washing court most mornings, the roof weekly, "One. Still here."
   - Lock: no fan service (DH-054).

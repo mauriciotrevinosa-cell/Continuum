@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 25  
 **Reading order:** 15  
-**Continuity state:** Day 195 | the fort closed round her | 'I think we can help. But before we move a finger... If you say no, we won't' | the whole plan | 'Is there any risk to her?' / 'No' x3 | 'Whose is it?' / 'Mine' / the emergency exit / 'If I held a path for nineteen minutes, I can hold five' / 'Sure you can hold five?' / 'I can try' | the three lines; 'Do you want to? Not because I'm crying' / 'I'd want to if it was only me and a spoon' | Qifrey: 'It's not mine to say' | 'Yes' | Fern: what it costs and who pays; 'I'll count. At six, Ciel pulls you' | Coco signs; Mau doesn't take the pen (DH-074): Fern writes 'Agrees.'; Rimuru, Yuta; 'Approved. F.' / 'Come back'
+**Continuity state:** Day 195 | the fort closed round her | 'I think we can help. But before we move a finger... If you say no, we won't' | the whole plan | 'Is there any risk to her?' / 'No' x3 | 'Whose is it?' / 'Mine' / the emergency exit / 'If I held a path for nineteen minutes, I can hold five' / 'Sure you can hold five?' / 'I can try' | the three lines; 'Do you want to? Not because I'm crying' / 'I'd want to if it was only me and a spoon' | Qifrey: 'It's not mine to say' | 'Yes' | Fern: what it costs and who pays; 'I'll count. At six, Ciel pulls you' | Coco signs; Mau, Rimuru, Yuta; 'Approved. F.' / 'Come back'
 
 *When: Day 195, late morning. Frieren is on the bench in the intake hall, facing the crystal, with her staff across her knees. Gojo is in the doorway behind her. The whole house is in the plaza or at a window, and nobody is saying anything.*
 
@@ -254,11 +254,9 @@ She took it. Her hand was shaking. She signed at the bottom of the page, under a
 
 Then she held the pen out to Mau.
 
-He did not take it. He looked at Fern, and Fern looked back, and neither of them said anything about the day of the rules. Fern took the pen herself and wrote, under Coco's name, in her own hand: *Mau. Agrees.*
+He took it. He signed under her. Then Rimuru. Then Yuta.
 
-Then Rimuru signed. Then Yuta.
-
-Fern took the ledger back. She looked at the names. Then, under them, she wrote one more line, in her own hand.
+Fern took the ledger back. She looked at the four names. Then, under them, she wrote one more line, in her own hand.
 
 *Approved. F.*
 

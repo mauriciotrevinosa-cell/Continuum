@@ -126,10 +126,12 @@ not on this list. Add a line every time the creator catches a new slip.
   it does not listen, watch, attend, want or speak. Reading, turning toward
   things and the pull toward the gate are **The Noise** (Observe, Analyze,
   Understand, Construct). Creator correction, 2026-10-13 (DH-075; DH-073).
-- **Mau cannot sign contracts.** From the gate contract on (V23 #4, Day 107)
-  his name does not hold; The Noise said only "No". He never signs after
-  that: the others sign, and Fern writes that he agrees. Never invent a
-  reason or more words from The Noise (DH-074, DH-075).
+- **Mau cannot sign dungeon rules.** The Noise refuses only contracts that
+  bind him inside the gate (V23 #4, Day 107: his name won't hold; The Noise
+  said only "No"). Others sign; Fern notes he agrees. Every other contract
+  he can sign normally. Writers' reason (creator): The Noise doesn't want to
+  be deprived of anything in there. Nobody in the story knows that; never
+  state it on the page or add words from The Noise (DH-074, DH-075).
 - **Seiko's coin** was promised on Day 40 (V21 "The List") to Yuta's teacher,
   "for his doctor", repeated on Day 130 ("I don't say things twice") and
   given on Day 132. She never "doesn't know yet" who it is for.

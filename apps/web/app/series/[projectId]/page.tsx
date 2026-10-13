@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { loadReadableSeries } from "@/lib/series";
+import { ReadingVolumes } from "./ReadingVolumes";
+import { ResumeButton } from "./ResumeButton";
 
 export const dynamic = "force-dynamic";
 
@@ -13,7 +15,13 @@ export default async function SeriesDetailPage({
   const series = await loadReadableSeries(projectId).catch(() => null);
   if (!series || !series.chapters.length) notFound();
 
-  const first = series.chapters[0];
+  // Reading order across every volume: what "continue" walks forward through.
+  const order = series.chapters.map((chapter) => ({
+    documentId: chapter.documentId,
+    title: chapter.title,
+    volume: chapter.volume,
+    orderInVolume: chapter.orderInVolume,
+  }));
 
   return (
     <>
@@ -30,44 +38,10 @@ export default async function SeriesDetailPage({
             {series.volumes.length} volumes · {series.chapters.length} chapters · production draft
           </p>
         </div>
-        <Link
-          className="button primary"
-          href={`/series/${encodeURIComponent(projectId)}/chapters/${encodeURIComponent(first.documentId)}`}
-        >
-          Start reading
-        </Link>
+        <ResumeButton projectId={projectId} chapters={order} />
       </header>
 
-      <div className="reading-volumes">
-        {series.volumes.map((volume) => (
-          <section className="reading-volume" key={volume.number}>
-            <header>
-              <div>
-                <p className="eyebrow">Volume {volume.number}</p>
-                <h2>Volume {volume.number}</h2>
-              </div>
-              <div className="reading-volume-meta">
-                {volume.coverage ? <span>{volume.coverage}</span> : null}
-                <span>{volume.chapters.length} chapters</span>
-              </div>
-            </header>
-
-            <ol className="reading-chapter-list">
-              {volume.chapters.map((chapter) => (
-                <li key={chapter.documentId}>
-                  <Link
-                    href={`/series/${encodeURIComponent(projectId)}/chapters/${encodeURIComponent(chapter.documentId)}`}
-                  >
-                    <span className="reading-chapter-number">{chapter.orderInVolume}</span>
-                    <span className="reading-chapter-title">{chapter.title}</span>
-                    <span className="reading-chapter-episode">{chapter.sourceEpisode}</span>
-                  </Link>
-                </li>
-              ))}
-            </ol>
-          </section>
-        ))}
-      </div>
+      <ReadingVolumes projectId={projectId} volumes={series.volumes} />
     </>
   );
 }

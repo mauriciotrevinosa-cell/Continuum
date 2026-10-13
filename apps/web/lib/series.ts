@@ -14,6 +14,8 @@ export interface ReadingChapter {
   volume: number;
   orderInVolume: number;
   globalOrder: number;
+  /** Chapters this one runs alongside, from the `same_time` fact. */
+  sameTime?: string;
 }
 
 export interface ReadingVolume {
@@ -64,6 +66,21 @@ function chapterDocument(
   );
 }
 
+/** `| 3 | S3E1 | Tomorrow Is Terrain | `THE_ARRIVALS_...md` |` */
+const ROW_WITH_FILE =
+  /^\|\s*(\d+)\s*\|\s*(S\d+E\d+)\s*\|\s*(.*?)\s*\|\s*`([^`]+)`\s*\|\s*$/gim;
+/** `| 3 | S3E7 | No One Waits |` - the later volumes dropped the File column. */
+const ROW_PLAIN = /^\|\s*(\d+)\s*\|\s*(S\d+E\d+)\s*\|\s*([^|]*?)\s*\|\s*$/gim;
+
+/**
+ * This volume's chapters in order, from either shape of index table.
+ *
+ * The File column is a convenience, not the identity: a chapter document is
+ * `<episode>-ln-chapter-NN`, and a volume covers whole episodes, so the rows of
+ * one episode map onto that episode's chapters in order. Volumes 11 and up were
+ * written without the File column and used to vanish from the reader entirely -
+ * the volume parsed, matched no chapter, and was dropped for being empty.
+ */
 function parseVolume(
   markdown: string,
   documents: ProjectDocument[],
@@ -73,28 +90,98 @@ function parseVolume(
 
   const coverage = readField(markdown, "Coverage");
   const chapters: Omit<ReadingChapter, "globalOrder">[] = [];
-  const row =
-    /^\|\s*(\d+)\s*\|\s*(S\d+E\d+)\s*\|\s*(.*?)\s*\|\s*`([^`]+)`\s*\|\s*$/gim;
 
-  for (const match of markdown.matchAll(row)) {
-    const orderInVolume = Number.parseInt(match[1], 10);
-    const sourceEpisode = match[2].toUpperCase();
-    const title = match[3].trim();
-    const sourceFile = match[4].trim();
-    const document = chapterDocument(documents, sourceEpisode, sourceFile);
+  const withFile = [...markdown.matchAll(ROW_WITH_FILE)];
+  const rows = withFile.length
+    ? withFile.map((m) => ({
+        order: Number.parseInt(m[1], 10),
+        episode: m[2].toUpperCase(),
+        title: m[3].trim(),
+        file: m[4].trim(),
+      }))
+    : [...markdown.matchAll(ROW_PLAIN)].map((m) => ({
+        order: Number.parseInt(m[1], 10),
+        episode: m[2].toUpperCase(),
+        title: m[3].trim(),
+        file: "",
+      }));
+
+  // How many rows of each episode have been placed, so the next one takes that
+  // episode's next chapter.
+  const taken = new Map<string, number>();
+
+  for (const row of rows) {
+    const document = row.file
+      ? chapterDocument(documents, row.episode, row.file)
+      : nthChapterOf(documents, row.episode, (taken.get(row.episode) ?? 0) + 1);
+    taken.set(row.episode, (taken.get(row.episode) ?? 0) + 1);
     if (!document) continue;
     chapters.push({
       documentId: document.id,
-      title,
-      sourceEpisode,
-      sourceFile,
+      title: row.title,
+      sourceEpisode: row.episode,
+      sourceFile: row.file,
       volume: number,
-      orderInVolume,
+      orderInVolume: row.order,
     });
   }
 
   chapters.sort((a, b) => a.orderInVolume - b.orderInVolume);
   return { number, coverage, chapters };
+}
+
+/** The `nth` chapter document of an episode, counting from 1 in chapter order. */
+function nthChapterOf(
+  documents: ProjectDocument[],
+  episode: string,
+  nth: number,
+): ProjectDocument | null {
+  const ofEpisode = documents
+    .filter(
+      (document) =>
+        document.category === "ln-chapter" &&
+        document.episode?.toUpperCase() === episode.toUpperCase(),
+    )
+    .sort((a, b) => {
+      const an = Number.parseInt(/-ln-chapter-(\d+)$/i.exec(a.id)?.[1] ?? "999", 10);
+      const bn = Number.parseInt(/-ln-chapter-(\d+)$/i.exec(b.id)?.[1] ?? "999", 10);
+      return an - bn;
+    });
+  return ofEpisode[nth - 1] ?? null;
+}
+
+/**
+ * Every chapter grouped by the volume it declares, in the order it declares.
+ *
+ * Returns an empty map for a project whose chapters carry no such facts, so a
+ * project that predates them still reads through the index tables.
+ */
+function chaptersFromFacts(
+  detail: ProjectDetail,
+): Map<number, Omit<ReadingChapter, "globalOrder">[]> {
+  const byVolume = new Map<number, Omit<ReadingChapter, "globalOrder">[]>();
+  for (const document of detail.documents) {
+    if (document.category !== "ln-chapter") continue;
+    const facts = (document.facts ?? {}) as Record<string, string | undefined>;
+    const volume = Number.parseInt(facts.volume ?? "", 10);
+    const order = Number.parseInt(facts.reading_order ?? "", 10);
+    if (!Number.isFinite(volume) || !Number.isFinite(order)) continue;
+    const list = byVolume.get(volume) ?? [];
+    list.push({
+      documentId: document.id,
+      title: facts.chapter_title?.trim() || document.title,
+      sourceEpisode: document.episode ?? "",
+      sourceFile: "",
+      volume,
+      orderInVolume: order,
+      sameTime: facts.same_time?.trim() || undefined,
+    });
+    byVolume.set(volume, list);
+  }
+  for (const list of byVolume.values()) {
+    list.sort((a, b) => a.orderInVolume - b.orderInVolume);
+  }
+  return byVolume;
 }
 
 function documentSortKey(document: ProjectDocument): [number, number, number] {
@@ -136,10 +223,21 @@ export const loadReadableSeries = cache(async (projectId: string): Promise<Reada
     .filter((document) => document.category === "ln-volume")
     .sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }));
 
+  // A chapter states its own volume, order and title in its head, and the
+  // project records those as facts. Placement comes from there, not from an
+  // index table: that table has been written three different ways so far, and
+  // each new shape silently cost the reader a whole season.
+  const byFacts = chaptersFromFacts(detail);
+
   const parsed = await Promise.all(
     indexes.map(async (index) => {
+      const number = Number.parseInt(/(\d+)/.exec(index.id)?.[1] ?? "", 10);
+      const fromFacts = Number.isFinite(number) ? byFacts.get(number) : undefined;
       const body = await projects.document(projectId, index.id);
-      return parseVolume(body.markdown, detail.documents);
+      const fromTable = parseVolume(body.markdown, detail.documents);
+      if (!fromFacts?.length) return fromTable;
+      // The index still supplies how the volume is labelled.
+      return { number, coverage: fromTable?.coverage ?? null, chapters: fromFacts };
     }),
   );
 

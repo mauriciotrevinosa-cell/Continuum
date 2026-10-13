@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { projects } from "@/lib/api";
 import { loadReadableSeries, manuscriptForReading } from "@/lib/series";
 import { Markdown } from "@/app/projects/_components/Markdown";
+import { ChapterProgress, NextChapterLink } from "./ChapterProgress";
 
 export const dynamic = "force-dynamic";
 
@@ -30,6 +31,7 @@ export default async function SeriesChapterPage({
 
   return (
     <div className="novel-reader">
+      <ChapterProgress projectId={projectId} documentId={documentId} />
       <nav className="novel-reader-top" aria-label="Chapter navigation">
         <Link href={`/series/${encodeURIComponent(projectId)}`}>← Contents</Link>
         <span>
@@ -49,6 +51,7 @@ export default async function SeriesChapterPage({
             Volume {chapter.volume} · {chapter.sourceEpisode}
           </p>
           <h1>{chapter.title}</h1>
+          {chapter.sameTime ? <p className="novel-reader-same-time">Same time as {chapter.sameTime}</p> : null}
         </header>
 
         <div className="novel-reader-copy">
@@ -70,18 +73,25 @@ export default async function SeriesChapterPage({
         )}
 
         {next ? (
-          <Link
+          <NextChapterLink
+            projectId={projectId}
+            documentId={documentId}
             className="novel-reader-nav-card next"
             href={`/series/${encodeURIComponent(projectId)}/chapters/${encodeURIComponent(next.documentId)}`}
           >
             <span>Next →</span>
             <strong>{next.title}</strong>
-          </Link>
+          </NextChapterLink>
         ) : (
-          <Link className="novel-reader-nav-card next" href={`/series/${encodeURIComponent(projectId)}`}>
+          <NextChapterLink
+            projectId={projectId}
+            documentId={documentId}
+            className="novel-reader-nav-card next"
+            href={`/series/${encodeURIComponent(projectId)}`}
+          >
             <span>Finished Season 1</span>
             <strong>Back to contents</strong>
-          </Link>
+          </NextChapterLink>
         )}
       </nav>
     </div>

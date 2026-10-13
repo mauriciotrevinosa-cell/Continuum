@@ -86,23 +86,82 @@
   box-shadow: var(--shadow);
 }
 
-.reading-volume > header {
+.reading-volume > summary {
   display: flex;
   align-items: end;
   justify-content: space-between;
   gap: 24px;
   padding: 24px 26px 20px;
   border-bottom: 1px solid var(--hairline);
+  cursor: pointer;
+  list-style: none;
+  transition: background 0.15s ease;
 }
 
-.reading-volume > header .eyebrow {
+.reading-volume > summary::-webkit-details-marker {
+  display: none;
+}
+
+.reading-volume > summary:hover {
+  background: var(--surface-2);
+}
+
+.reading-volume > summary .eyebrow {
   margin-bottom: 5px;
 }
 
-.reading-volume > header h2 {
+.reading-volume > summary h2 {
   margin: 0;
   font-size: 24px;
   letter-spacing: -0.015em;
+}
+
+.reading-volume > summary h2::before {
+  content: "\25BE";
+  display: inline-block;
+  width: 1em;
+  margin-right: 6px;
+  color: var(--text-3);
+  font-size: 0.7em;
+  vertical-align: 0.15em;
+  transition: transform 0.15s ease;
+}
+
+/* A folded volume is one compact row: the eyebrow only repeats the title. */
+.reading-volume:not([open]) > summary {
+  align-items: center;
+  padding: 14px 26px;
+  border-bottom: 0;
+}
+
+.reading-volume:not([open]) > summary .eyebrow {
+  display: none;
+}
+
+.reading-volume:not([open]) > summary h2 {
+  font-size: 18px;
+}
+
+.reading-volume:not([open]) > summary h2::before {
+  transform: rotate(-90deg);
+}
+
+.reading-volume-read {
+  padding: 1px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--hairline);
+  color: var(--text-2);
+}
+
+/* The read volumes, shelved into one row; open, they list as folded volumes. */
+.reading-volume-shelf-list {
+  display: grid;
+  gap: 12px;
+  padding: 16px;
+}
+
+.reading-volume-shelf-list .reading-volume {
+  box-shadow: none;
 }
 
 .reading-volume-meta {
@@ -156,6 +215,20 @@
 .reading-chapter-episode {
   color: var(--text-3);
   font-size: 12px;
+}
+
+.reading-chapter-same-time {
+  display: block;
+  margin-top: 2px;
+  color: var(--text-3);
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.novel-reader-same-time {
+  margin: 14px 0 0;
+  color: var(--text-3);
+  font-size: 13px;
 }
 
 .novel-reader {
@@ -281,7 +354,7 @@
     flex-direction: column;
   }
 
-  .reading-volume > header {
+  .reading-volume > summary {
     align-items: flex-start;
     flex-direction: column;
     gap: 10px;
@@ -350,5 +423,93 @@
 
   .novel-reader-nav-card.next {
     text-align: left;
+  }
+}
+
+/* -- reading progress ---------------------------------------------------- */
+/* The resume call to action carries a second line naming where the reader
+   stopped, so "Continue" never has to be taken on trust. */
+.reading-resume {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  line-height: 1.25;
+  text-align: left;
+}
+
+.reading-resume-where {
+  font-size: 11.5px;
+  font-weight: 400;
+  opacity: 0.78;
+  max-width: 34ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.reading-chapter-list li {
+  position: relative;
+}
+
+/* A read chapter recedes; it stays legible and stays clickable. */
+.reading-chapter-list li[data-read] .reading-chapter-title,
+.reading-chapter-list li[data-read] .reading-chapter-number {
+  color: var(--text-3);
+}
+
+.reading-chapter-check {
+  margin-left: 8px;
+  font-size: 11.5px;
+  color: var(--text-3);
+}
+
+/* How far into a part-read chapter the reader got. */
+.reading-chapter-bar {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  background: var(--text-3);
+  opacity: 0.45;
+  pointer-events: none;
+}
+
+.reading-chapter-list li[data-started] .reading-chapter-episode {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 720px) {
+  .reading-resume-where {
+    max-width: 24ch;
+  }
+}
+
+.reading-volume-actions {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 26px 2px;
+  border-top: 1px solid var(--hairline);
+}
+
+/* Quiet by design: catching the shelf up is a rare, deliberate action. */
+.reading-volume-mark {
+  background: none;
+  border: 0;
+  padding: 4px 2px;
+  color: var(--text-3);
+  font: inherit;
+  font-size: 11.5px;
+  cursor: pointer;
+}
+
+.reading-volume-mark:hover {
+  color: var(--text);
+  text-decoration: underline;
+}
+
+@media (max-width: 720px) {
+  .reading-volume-actions {
+    padding: 10px 18px 2px;
   }
 }

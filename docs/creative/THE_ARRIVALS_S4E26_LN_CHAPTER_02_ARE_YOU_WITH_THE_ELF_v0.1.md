@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 32  
-**Continuity state:** Day 155 | behind the barn, Maki's warning: not that the elf would hurt her, that she'd step back | under the ink tree: 'Are you with the elf' / 'Yes' / 'How old are you?' / 'Younger' | Frieren crosses the yard; Milim, Guardian: 'Your hand is glowing' / 'I'm holding you' / 'It's not the same' | 'I DON'T LIKE HIM LIKE THAT' | then the real question: 'It was my fault' | Frieren: 'If you hadn't come, he would have done it alone'; 'This one isn't yours'; her hand on Yuka's head | Umaru: 'The position of little sister is filled' / LITTLE SISTER (TELEPORT DIVISION), probationary | 'I'm still going to sit on your other side'
+**Continuity state:** Day 155 | behind the barn, Maki's warning: not that the elf would hurt her, that she'd step back | under the ink tree: 'Are you with the elf' / 'Yes' / 'How old are you?' / 'Younger' | Frieren crosses the yard; Milim, Guardian: 'Your hand is glowing' / 'I'm holding you' / 'It's not the same' | 'I DON'T LIKE HIM LIKE THAT' | then the real question: 'It was my fault' | Frieren: 'The danger didn't begin when you came'; 'This one isn't yours'; her hand on Yuka's head | Umaru: 'The position of little sister is filled' / LITTLE SISTER (TELEPORT DIVISION), probationary | 'I'm still going to sit on your other side'
 
 *When: Day 155. Yuka woke in her own bed with no idea how she got there; Mai has said nothing to anyone; the fort has noticed that its President spent two days "passing" Mau and has not been told why.*
 
@@ -218,7 +218,7 @@ Yuka stopped.
 
 Frieren was not looking at her. She was looking at the yard. At the well, where Milim sat swinging her legs. At the lab door, where Suika's watermelon had appeared, listening. At the ink tree, over all of them, with its dark leaves.
 
-"If you hadn't come," said Frieren, "he would have done it alone."
+"The danger didn't begin when you came," said Frieren.
 
 Yuka looked at her.
 

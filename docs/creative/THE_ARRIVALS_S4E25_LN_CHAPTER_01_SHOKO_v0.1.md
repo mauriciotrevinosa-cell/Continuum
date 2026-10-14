@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 25  
-**Continuity state:** Day 145, within the hour after the bell | Seiko's coin: Shoko Ieiri arrives in the clinic corridor with one unlit cigarette | RCT on Mau: what she can mend and what she can't | 'You were dead. I closed your eyes. I signed it' | she scolds Gojo through her tears: somewhere new, and the first thing he did was fight | 'Four days. I had four days of you being dead' | 'There's no cigarettes here. I checked' | she keeps the one she has, for something worth it
+**Continuity state:** Day 145, within the hour after the bell | Seiko's coin: Shoko Ieiri arrives in the Arrival House intake hall with one unlit cigarette, then is escorted to the clinic | RCT on Mau: what she can mend and what she can't | 'You were dead. I closed your eyes. I signed it' | she scolds Gojo through her tears: somewhere new, and the first thing he did was fight | 'Four days. I had four days of you being dead' | 'There's no cigarettes here. I checked' | she keeps the one she has, for something worth it
 
 *When: Day 145, within the hour after the bell stopped. The fort is still in the refuge cellars; the witches are still standing at the bottom of the slope, because nobody has told them they can stop.*
 

@@ -26,7 +26,7 @@ Gojo had laid him down in the middle of the field.
 
 On the patch of dead earth, where nothing would grow for a while. Where Maki had laughed. Where, two days ago, a black dog with one white ear had lain down in front of him and been given a name.
 
-He was lying on his back, on the sheet Gojo had carried him out in. He was not moving. His eyes were open. From the fence Frieren could see them, even at this distance, even in the grey dawn: blue. The blue of the sea a long way out. Looking straight up at the sky. Looking at nothing.
+He was lying on his back, on the sheet Gojo had carried him across the yard in. He was not moving. His eyes were open. From the fence Frieren could see them, even at this distance, even in the grey dawn: blue. The blue of the sea a long way out. Looking straight up at the sky. Looking at nothing.
 
 Gojo was kneeling beside him.
 

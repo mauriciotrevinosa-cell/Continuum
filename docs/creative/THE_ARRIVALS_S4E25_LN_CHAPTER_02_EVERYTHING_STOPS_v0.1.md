@@ -48,7 +48,7 @@ Wakana replaced the glass in the east window on the afternoon of the hundred-and
 
 He did it alone. Nobody asked him to. He took the cracked pane out of the frame very carefully, the single straight line running across it from corner to corner, and carried it down to the workshop. He put it on the bench. And he did not throw it away. He leaned it against the wall at the back of the workshop, beside Senku's box marked *NOT YET (AGAIN)*, and looked at it for a long time. Then he went back up with a new pane, one Senku had made in the furnace that morning without being asked, and fitted it, and it was clear and whole.
 
-The shelf was already back in the middle of the floor. Frieren had put it there. She had come up from the clinic at midday, for an hour, because Shoko made her. She had stood in the east room and looked at the shelf on its side, and the grimoire and the comb and the cup scattered across the boards, and the four pressed flowers in the corner where they had slid. She had picked up the flowers first, one by one, and the fifth, which had been in the hoodie pocket. Then she had stood the shelf up, alone, and pushed it back to the pale patch on the boards where it had stood since moving day, and put the flowers on it.
+The shelf was already back in the middle of the floor. Frieren had put it there. She had come up from the clinic at midday, for an hour, because Shoko made her. She had stood in the east room and looked at the shelf on its side, and the grimoire and the comb and the cup scattered across the boards, and the four older pressed flowers from the book in the corner where they had slid. She had picked those up first, one by one, then taken the fifth from the hoodie pocket. All five. Then she had stood the shelf up, alone, and pushed it back to the pale patch on the boards where it had stood since moving day, and put the flowers on it.
 
 "Temporarily," she had said, to nobody, and gone back down.
 
@@ -188,7 +188,7 @@ The house was different after.
 
 Nobody said so. That was the house's way. But Mau saw it, the way he saw everything now, carefully, only on the surface. He saw it the way you see that a room has been rearranged in the dark.
 
-He saw Ori, at night, in the door between her room and the east room. Not coming in. Standing in the door, in the dark, very still, for a long time, after she thought they were asleep. He did not know what she was doing. Then, on the third night, he realised. She was counting. His breaths. Under her own. One, two. One, two. Until she was sure. Then she went back to bed.
+He saw Ori, at night, in the door between her room and the east room. Not coming in. Standing in the door, in the dark, very still, for a long time, after she thought they were asleep. He did not know what she was doing. Then, on the third night after the bell, he realised. She was counting. His breaths. Under her own. One, two. One, two. Until she was sure. Then she went back to bed.
 
 He saw Umaru, at the toll booth, three times a day, with the fort's roster on a slate. Reading it aloud, under her breath, every name. *Thirty. Thirty. Thirty.* As if one might have gone missing between breakfast and lunch.
 

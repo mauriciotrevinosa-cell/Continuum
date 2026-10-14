@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 22  
-**Continuity state:** Day 145, reset hour | after a day and a half asleep, unfiltered perception turns from the surrounding room toward the guardrails | he sees the guardrails, beautiful and thin, every mended place | Ciel, afraid: 'Close your eyes' / they won't | Frieren's hand stops an inch away: Infinity | the wheel turns at the walls as an injury; the east window cracks; the shelf falls | the seal bell, three long one short | Gojo carries him out of the house he built | Ciel: 'I don't know if I can hold this'
+**Continuity state:** Day 145, reset hour | after a day and a half asleep, unfiltered perception turns from the surrounding room toward the guardrails | he sees the guardrails, beautiful and thin, every mended place | Ciel, afraid: 'Close your eyes' / they won't | Frieren's hand stops an inch away: Infinity | the wheel turns at the walls as an injury; the east window cracks; the shelf falls | the seal bell, three long one short | Mau forces himself down the stair and outside; Gojo carries him from the yard to the south field | Ciel: 'I don't know if I can hold this'
 
 *When: Day 145, a day and a half after the taming. Ear is asleep in Mau's shadow; the walls are holding, and tired; the gate is in its sixth week. Gojo has not slept since the south field.*
 
@@ -16,7 +16,7 @@ He opened his eyes.
 
 And they looked.
 
-Not at the ceiling. Not at the window, or at Frieren, or at the room. He had learned, in five days of Gojo's lessons, how to keep them off things. How to look at the grain of a table and only the grain. How to keep his eyes on the surface of a face and not go through. He had been getting better. Gojo had said so, grudgingly, yesterday. *You're terrible. You're less terrible than Thursday.*
+Not at the ceiling. Not at the window, or at Frieren, or at the room. He had learned, over their last few lessons with Gojo, how to keep them off things. How to look at the grain of a table and only the grain. How to keep his eyes on the surface of a face and not go through. He had been getting better. Gojo had said so, grudgingly, at their last lesson. *You're terrible. You're less terrible than Thursday.*
 
 But he had been asleep for a day and a half. And while he was asleep, nobody had been holding his eyes on anything.
 
@@ -76,7 +76,7 @@ Beside him, Frieren had gone completely still.
 
 "Mau," she said. "Your eyes."
 
-He could not turn his head to her. He could feel her, the heat of her, propped up on one elbow now, looking down at his face. He could feel her hand come up, toward his eyes, to cover them, the way she had on the riverbank.
+At first he could not turn his head to her. He could feel her, the heat of her, propped up on one elbow now, looking down at his face. He could feel her hand come up, toward his eyes, to cover them, the way she had on the riverbank.
 
 It stopped an inch from his face.
 
@@ -102,7 +102,7 @@ He heard her move. He could not see her. His eyes were open and looking in, at t
 
 "*Rimuru.*"
 
-The door opened. He did not hear it open. He felt the heat of someone small and blue and terrified come into the room very fast, already reaching.
+Something moved above the closet. Rimuru had woken in the loft, inside their room. Frieren released the latch at the foot of its ladder. Mau heard the ladder creak, and felt someone small and blue come down very fast, already reaching, taking human shape as he reached the floor.
 
 *The eyes are reading the walls,* said Ciel, to Rimuru, to both of them, at once. *They have read all of it. Every join. Every thin place. The wheel has them. It is turning. At the walls. It thinks the walls are hurting him.* A pause, very fast. *It is going to adapt to them. All of them. At once.*
 
@@ -120,7 +120,7 @@ Frieren did not move.
 
 The shelf in the middle of the floor went over.
 
-It went over all at once, as if something had pushed it. Mau heard it hit the boards. The grimoire on it, with the four pressed flowers between its pages, and his comb, and the cup. All of it scattering across the floor.
+It went over all at once, as if something had pushed it. Mau heard it hit the boards. The grimoire on it, with the four older pressed flowers between its pages, and his comb, and the cup. All of it scattering across the floor. The fifth flower, the one from their date, was still in Frieren's hoodie pocket. Five altogether. He knew where she had kept them.
 
 And on the east windowsill, under the cracked glass, on Eren's stands, the two cars rocked. The red and white one and the red one, with Ori's grey stone between them. They rocked on their stands. And he heard, from very far away, the small sharp sound of something tipping over.
 
@@ -132,11 +132,61 @@ He heard her go. Fast. Out of the door, down the corridor. And then, a moment la
 
 
 
-They got him out of the house.
+He heard the bell. He tried to move toward it.
 
-He did not know who. Gojo. It must have been Gojo. Someone very tall who could not reach his skin either. Who gathered the sheet already lying beneath him, keeping his hands outside the slowing space. Not one Infinity cancelling another. A man carrying the bedding because he could not touch the man in it. Someone who picked him up off the bed, sheet and all, the way Rika had held him in the south field. Someone who carried him down the stair and through the common room and out of the door, under the vermilion columns, into the grey dawn.
+For a moment only his right knee moved. It dragged against the sheet. He tried again, not with his eyes, not with anything behind the walls. With the leg that had walked this house every day.
 
-"Not the house," said Gojo, through his teeth, carrying him. "Not the house. You built the house. You're not doing this in the house."
+His foot went over the edge of the bed.
+
+Rimuru turned toward him. "Mau."
+
+"Out," said Mau. It was hardly a word. "Need. Out."
+
+He could not make the looking stop. He could still make his body do that much.
+
+The other foot found the boards. He sat up crookedly, with the sheet caught around his shoulders and one hand gripping the mattress. For a few seconds he could do nothing else. Somewhere inside, a seam was being taken apart while Ciel tried to close it.
+
+Then he stood.
+
+His knees nearly folded. He caught himself against the bed with his own hand. Rimuru moved beside him, keeping the walls held, not trying to spend the same strength carrying his body.
+
+Gojo was in the doorway.
+
+He reached toward Mau. His hand slowed before it could get to his shoulder. He stopped reaching.
+
+"Okay," said Gojo. "One step. Toward my voice."
+
+Mau took it.
+
+He could not look at the doorway without looking through it. He knew where it was anyway. He knew where the shelf lay because he had heard it fall. He went around it, badly, with the sheet trailing from him and his feet barely leaving the boards.
+
+At the top of the main stair he stopped.
+
+"Here," said Gojo, one tread below him. "Stay with this step."
+
+Mau bent his knees. One foot down. Then the other. He had to stop again at the turn. His breathing sounded too loud. Gojo stayed below him; Rimuru stayed beside him. Neither told him to hurry.
+
+The bell did not stop.
+
+By the last tread he was bent almost double. He crossed the common room without straightening, past the long table, toward the cold light in the open door.
+
+"Not here," he said. He did not know whether anyone heard him.
+
+Gojo did.
+
+"Not the house," he said. "We're getting you out of the house."
+
+Mau crossed the threshold under the vermilion columns. His bare foot came down outside, in the cold. Then the other.
+
+He had made it out.
+
+He tried to take another step. His legs gave way.
+
+Gojo caught the loose sheet and drew it taut beneath him, keeping his hands outside the slowing space. It had stayed against Mau all the way down. He lifted him in it, the way Rika had held him in the south field. Not one Infinity cancelling another. A man using the bedding because he still could not reach the man inside it.
+
+"I've got you," said Gojo, through his teeth. "Enough walking."
+
+Behind them, the house was standing. The front door was open. No one had to climb through wreckage to follow.
 
 The bell went on ringing.
 

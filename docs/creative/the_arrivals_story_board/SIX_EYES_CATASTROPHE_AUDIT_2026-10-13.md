@@ -20,7 +20,7 @@ Later care already includes blindfold/rest prescriptions, gentle teaching, a con
 | Rescue can read as a single successful instruction | Cloth does not switch eyes off; attention slips; filter attempts fail; choice creates incremental footholds | Gojo/Ciel/Rimuru/witches retain their established roles and timing |
 | Medical repair feels conflated with containment | Maomao still provides transport/support care; the coin cannot be commanded; Shoko's already written two-hour care stays | No invented external Gojo RCT, no general instant summon rule |
 | Frieren's long-life fear is not spoken to Mau in this aftermath | Private conversation in Something Wet, after panic and before the reset ritual | Unknown species/lifespan, closed elf route, no future reverse-flight scene prematurely spent |
-| Omniscience and automatic Infinity cancellation | Local deep reading; bedding rescue; later narrowly permitted contact | No new universal ability or immunity |
+| Omniscience and automatic Infinity cancellation | Local deep reading; DH-092: effortful exit on foot, then bedding-assisted transport outdoors; later narrowly permitted contact | No new universal ability or immunity |
 | Superseded Gojo/Grandpa identity and downstream causal echo | Remove old face-confusion; Yuka reassurance distinguishes contributing strain from sole cause | Yuta restored own body; Yuka's later bond scene remains |
 
 ## Sequence and downstream checks
@@ -37,3 +37,8 @@ Later care already includes blindfold/rest prescriptions, gentle teaching, a con
 ## Remaining creative limits
 
 This strengthens the existing arc rather than declaring it the best arc by fiat. The creator still judges pacing and impact while reading. The S5 trigger, final rule wording and eventual payoff remain creator-development work. No blanket certification of all 25 volumes is implied by this focused audit.
+
+
+## Follow-up continuity check — DH-092
+
+Creator-reported details checked against the existing layout and object locks. The loft entrance was a real route error and now descends inside the room. The flower discrepancy was an ambiguous subtotal: four in the book plus fifth in hoodie; the scene and digest now explicitly account for five. Creator's new exit direction is implemented as effortful walking to the front threshold, with assistance and outdoor carry afterward. House standing; principal breach still south field. Last-lesson timing, arrival metadata, retained solo-action claim and the private scene's floor/bed/reset sequence also checked and corrected. Chapter titles, reading order and crisis date remain unchanged.

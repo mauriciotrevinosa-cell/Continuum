@@ -98,9 +98,11 @@ not on this list. Add a line every time the creator catches a new slip.
 - Frieren has no separate reading place in her room. She reads in **the
   reading chair Mau said no to** (S3 "A Small Library"; in the Muslin too).
   Never a cushion or a crate of books.
-- **The pressed flowers:** four, in the old grimoire. Since moving day that
-  grimoire sits on the shelf in the middle of the floor. The fifth went into
-  the hoodie pocket (V24 "The Fifth Flower").
+- **The kept flowers:** FIVE total after V24 "The Fifth Flower": four older
+  trial flowers pressed in the old grimoire, plus the fifth from the date in
+  Frieren's hoodie pocket. Since moving day the grimoire sits on the shelf in
+  the middle of the floor. Day 146 cleanup retrieves all five and places them
+  on that shelf. Preserve older four-flower references before the fifth is picked.
 - **The east window:** cracked on Day 145; Senku's hurried pane went in on
   Day 146; Wakana's proper pane went in on Day 162.
 - The queen's decree did **not** move the loft. Rimuru kept it and put a door
@@ -271,7 +273,7 @@ not on this list. Add a line every time the creator catches a new slip.
 - The old counted inventory is not the limit of what Mau's memory can feed into Analyze. Construction continues during breach; failed/new domain interactions are not acquired, safe, usable hybrid powers. More possible patterns does not provide infinite energy, a new numerical multiplier, or a healthy body.
 - The eyes have not read the entire universe. Sleeping unfiltered perception deepens into the surrounding room and eventually the guardrails; later explanations must match this.
 - Gojo recognises familiar mechanisms, not every unnamed thing. His attention habits buy time. Cloth alone neither disables Six Eyes nor seals Construction. Ciel/Rimuru's filter requires active testing and rest; containment is distinct from medical repair and never a guarantee against recurrence.
-- Two Infinities do not cancel each other. Initial rescue lifts existing bedding. Later contact is a narrowly allowed approach by Mau, not a general bypass acquired by Gojo.
+- Two Infinities do not cancel each other. DH-092 updates the exit: Mau walks out with effort; Gojo then lifts him outdoors using the sheet already against him. Later direct contact is a narrowly allowed approach by Mau, not a general bypass acquired by Gojo.
 - Frieren's wish for longer is not proof Mau can live forever, that he is human, that the elf route is complete, or that this breach was a chosen attempt to fulfil her promise. She states her fear herself in Something Wet. Mau's desire for time and uncertainty coexist. Keep later reverse-flight and S5 door proposals open.
 - Do not make all witnesses inherit Mau/Ciel/Frieren's earlier private knowledge of the unidentified voice. No newly established speaker identity.
 - Yuka's guilt is not the narrator's verdict. Taming strained containment, but the unfiltered eyes and prior repairs also matter. Reassurance must not call the catastrophe inevitable or promise that Mau will certainly resume secret solo attempts.

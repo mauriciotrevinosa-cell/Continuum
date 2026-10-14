@@ -150,17 +150,19 @@ Mau bent his head until it rested against hers. He had no answer for the years. 
 
 She cried against him, no longer trying to keep it silent. He held her. He did not turn her fear into a task he could finish before morning.
 
-After a while she asked him to come back to bed. Not to sleep yet. Just to lie beside her while she could feel him breathe.
-
-"I can do that," he said.
-
-At the reset hour, on the floor of the east room, she put her cold foot against his leg.
+Before they got up from the floor of the east room, she put her cold foot against his leg.
 
 "One," said Frieren. Her voice was almost steady. "Still here."
 
 "Still here," said Mau.
 
 Through the door to Ori's room, which was open a crack, very faintly, someone who had been standing in it in the dark let out a long breath, and went back to bed.
+
+After a while Frieren asked him to come back to bed. Not to sleep yet. Just to lie beside her while she could feel him breathe.
+
+"I can do that," he said.
+
+They got up together.
 
 
 

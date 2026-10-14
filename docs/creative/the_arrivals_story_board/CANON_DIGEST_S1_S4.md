@@ -921,9 +921,11 @@ S2 V5 #17.
   - Names are written underneath, with "C." under one axle.
   - In Mau's point of view they are only "the red and white one and the red
     one".
-- **Frieren's old grimoire:** four pressed flowers. Two pages after the first
-  is her note "Light, drawn. / Useless. / Taught by Coco." (V16 #19), for
-  Coco's small light stone.
+- **Frieren's old grimoire:** four older trial flowers pressed between its
+  pages. V24 "The Fifth Flower" adds a fifth kept flower in her hoodie pocket:
+  FIVE total, not four. Day 146 cleanup retrieves all five and places them on
+  the shelf. Two pages after the first is her note "Light, drawn. / Useless. /
+  Taught by Coco." (V16 #19), for Coco's small light stone.
 
 ## 10. Phrases, codenames, titles
 

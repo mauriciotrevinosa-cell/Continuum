@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 17  
-**Continuity state:** Day 140 | the house sees the ocean eyes; Ciel: they see what his see | Gojo: 'How much can you see?' / 'Everything' | 'Lesson one is not looking' / Frieren: 'Can you fix it?' / 'No... but I can teach him to live with them' | Maki: 'It's never going to be not with' | Mau: 'Bring her. Before I'm worse' | the roof at dusk: the paper says Yuka; 'You are sure? Yuka Okkotsu.' / 'I've been sure since she was born' | Mau, eyes shut, feels something reach for a second ring
+**Continuity state:** Day 140 | the house sees the ocean eyes; Ciel: they see what his see | Gojo: 'How much can you see?' / 'Everything' | 'Lesson one is not looking' / Frieren: 'Can you fix it?' / 'No... but I can teach him to live with them' | Maki: 'It's never going to be not with' | Gojo seconds the motion, wants to meet Yuta's family and nominates himself favourite uncle; Maki leaves that choice to Yuka | Mau: 'Bring her. Before I'm worse' | the roof at dusk: the paper says Yuka; 'You are sure? Yuka Okkotsu.' / 'I've been sure since she was born' | Mau, eyes shut, feels something reach for a second ring
 
 *When: Day 140, the morning after the reset hour, into the night. The decree is over. Eren and Mikasa came back from the red stake at sunrise; Mikasa is still smiling at the hills.*
 
@@ -79,6 +79,20 @@ The long table was silent.
 Yuta, beside her, put his hand over hers on the paper.
 
 "I want her here," said Yuta quietly. "Before anything else happens. I want her to see us young."
+
+"I second the motion," said Gojo.
+
+He was beside Yuta again, with his spoon set down.
+
+"I'd like to meet your family. They should get to meet their favourite uncle."
+
+Maki looked at him.
+
+"She decides that."
+
+"Of course," said Gojo. "I'm simply making myself available."
+
+Yuta let out a small breath that almost became a laugh. Gojo's shoulder touched his for a moment, then moved away.
 
 Fern looked at the two of them for a long time. Then she looked at Mau, at the end of the bench, with his ocean eyes fixed very carefully on the grain of the table, because the grain of the table was the safest thing in the room to look at.
 

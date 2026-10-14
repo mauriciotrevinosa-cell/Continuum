@@ -1585,3 +1585,11 @@ Creator identifies the missing causal bridge in The Fifth Flower and supplies it
 - Looking through the flower reveals the same fine perception directing that near-lossless output. Ciel revises the explanation to the developing eyes and tells him to look away because he cannot choose the information intake. Apparent harmless progress turns into a warning.
 - Mana is still spent, however little. No universal mana-free casting, new reserve, elf-route completion, lifespan resolution or permanent mastered Six Eyes. Partial functions can appear while building; the later completed-eye reveal and subsequent crisis retain their timing.
 - This refines DH-062's safe-flower shorthand: the native flower casting is not a sealed copy; in this date, the newly coupled unfiltered seeing is dangerous. Earlier failed attempts and controlled-trial flowers remain unchanged.
+
+
+## DH-090 — Gojo supports bringing Yuka; honorary favourite uncle (creator, 2026-10-13)
+
+Added to the long-table discussion in Maki's Coin, immediately after Yuta says he wants her here. Gojo seconds the motion, wants to meet his student's family and jokes that they should meet their favourite uncle. Maki says Yuka decides that; he makes himself available rather than declaring ownership of a relationship.
+
+- Honorary chosen-family humour, not a biological uncle or an already-established preference from Yuka.
+- Preserve the safety debate, Maki's agency, Mau's answer, arrival timing and existing Gojo/Yuka welcome scene. No new standalone bond arc is implied by this one comment.

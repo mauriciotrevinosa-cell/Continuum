@@ -250,3 +250,9 @@ not on this list. Add a line every time the creator catches a new slip.
 
 - OKARUN lost recognition/memories of Momo; MOMO remembered him. His memories return gradually in S2 (Who Are You; Momo). Never invert that history in a later date or retrospective.
 - Abduction (Probable): Okarun is the one deliberately recalling their shared beginnings; Momo does not have an amnesia/recovery episode. Her later wish to remember his excited face is affection, not recovered memory.
+
+
+## Mau / Frieren — earlier dates exist (DH-088)
+
+- Their festival time, recovery outings and the established S3 bread/blue-thread date precede S4's dating decree. Never frame The Fifth Flower as their first date or have Frieren deny having gone on any date in a thousand years including Mau.
+- Her uncertainty there is planning a special gesture herself. She understands dates and remembers their shared history. The earlier failure to understand Himmel's invitation belongs to the distant past, not her current understanding after Mau.

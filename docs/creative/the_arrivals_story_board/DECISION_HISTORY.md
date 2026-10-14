@@ -1565,3 +1565,12 @@ Abduction (Probable) incorrectly attributed the old loss of memory to Momo. S2 W
 - Date corrected: Okarun recalls their first encounter on purpose, aware of the gap he once had. Momo reassures him without pretending she forgot or requiring him to prove his memory.
 - Stargazing staging, interruptions, shooting-star wishes and shared handholding remain unchanged. No new amnesia or magical fix is introduced.
 - CANON_TRAPS records the asymmetry so later recollections do not swap the roles again.
+
+
+## DH-088 — Frieren remembers their earlier dates (creator, 2026-10-13)
+
+Creator corrects The Fifth Flower's no-prior-dates claim. Mau and Frieren already shared festival time, recovery outings and the bread date; the latter is explicit in active S3 The Date We Know Happened, including the blue thread.
+
+- Frieren explicitly recalls those outings. Mau and she share a small bread callback. No rigid new count or separately invented outing chronology.
+- She understands what a date is; her uncertainty is choosing/planning a special gesture for him now. Her old misunderstanding of Himmel's invitation remains in its past context.
+- Preserve the newly added post-fight conversation and the rest of the existing date. CANON_TRAPS records that neither the decree nor this scene resets their relationship history.

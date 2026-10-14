@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 16  
-**Continuity state:** Night of Day 139 to the reset hour of Day 140 | Frieren plans: the river path | first private post-fight conversation: she could not reach him; Mau acknowledges staying after extraction and losing the distinction from the Trial; no impossible safety promise; tell her before another attempt | 'I don't know how to do dates' | Mau makes his flowers, the one safe thing | he sees through them, the river, the stars, and through her suppression to the sea of her mana | her hand over his eyes: 'Tell me when you can see things you shouldn't' | two hundred and eleven embers | the reset hour: both eyes ocean-blue; 'One—' stops | Ciel: 'It is done building'
+**Continuity state:** Night of Day 139 to the reset hour of Day 140 | Frieren plans: the river path | first private post-fight conversation: she could not reach him; Mau acknowledges staying after extraction and losing the distinction from the Trial; no impossible safety promise; tell her before another attempt | earlier dates remembered; uncertainty is planning a special gesture, not a first date | Mau makes his flowers, the one safe thing | he sees through them, the river, the stars, and through her suppression to the sea of her mana | her hand over his eyes: 'Tell me when you can see things you shouldn't' | two hundred and eleven embers | the reset hour: both eyes ocean-blue; 'One—' stops | Ciel: 'It is done building'
 
 *When: The night of Day 139, the last night of the decree, into the reset hour of Day 140. The five are in their kotatsu, unscheduled; Eren and Mikasa will walk to the red stake at dawn.*
 
@@ -122,15 +122,23 @@ She leaned against his shoulder. He stayed still while she found a comfortable p
 
 "It can still be one."
 
-"I don't know how to do dates," said Frieren.
+"I don't know how to plan one of these," said Frieren.
 
 Mau looked at her.
 
-"I've been on—" She stopped. She thought about it. "I don't think I've been on any. In a thousand years." She looked at the water. "Himmel asked me once. To a festival. I said I was busy. I wasn't busy. I just didn't understand what he was asking." She was quiet for a moment. "I understand now. It's taken me a long time."
+"We've had dates," she said. "The festival. When you were recovering. The bread." She looked at him. "I'm not forgetting those."
+
+"The bread was terrible," Mau said.
+
+"You bought it anyway."
+
+He smiled a little.
+
+"A long time ago, Himmel asked me to a festival," she said. "I told him I was busy. I wasn't. I didn't understand what he was asking then." She looked at the water. "I do now. That isn't the difficult part anymore."
 
 Mau did not say anything.
 
-"So I don't know what you're supposed to do," said Frieren. "On a date. Everyone else did something. Wakana made a dress. Bocchi wrote a song. Okarun drew the stars." She pulled the sleeves of the hoodie down over her hands. "I didn't know what to make. I don't make things. I collect them." She looked at him. "So I thought I'd ask you to make something instead."
+"I wanted to arrange something for you," said Frieren. "Something I chose beforehand. Everyone else did something. Wakana made a dress. Bocchi wrote a song. Okarun drew the stars." She pulled the sleeves of the hoodie down over her hands. "I didn't know what to make. I don't make things. I collect them." She looked at him. "So I thought I'd ask you to make something instead."
 
 "Make what?"
 

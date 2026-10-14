@@ -335,3 +335,9 @@ Creator offered flexible placement before S4's close, potentially V26: Frieren t
 - Comedy and relationships: Bocchi at 100% because the world never felt her as a threat; Milim slow because she plays; people comparing screens at the long table.
 - **Mau's screen does not fit the format** ("???" or an error), because he is not on the scale. This is a hook, not an answer.
 - **Open for the creator:** a reward for what, and from whom (the Goddess, the dungeon System, a Red Gate clear)? Does everyone see a screen, or only in the dungeon, or only through Mau and Ciel? Do the numbers show, or only the categories? Placement: after the Exchange in S5, or later?
+
+## S5 opening — full door / Ori / Frieren / The Noise proposal (creator, 2026-10-14; IN DISCUSSION)
+
+The creator supplied a detailed new opening and explicitly requested that it **not be simplified when saved**. Preserve and consult [the complete original text](S5_OPENING_DOOR_CREATOR_FULL_PROPOSAL_2026-10-14.md), including all dialogue, the emergency meeting, twelve-hour pressure, east-room door conversation, Mai/crackers overnight support, delayed farewell, proposed Noise reveal, relationship recollection, Milim/Senku catch, fever/care, disclosure/date and breathing interval before the dungeon.
+
+This registration is navigation, not a substitute synopsis. Editorial continuity questions are separated beneath the original. S4 ending is unchanged; S5 chapters are not authorised or written. Do not automatically treat all older placements or mechanism proposals as settled alongside this newer proposal. Discuss the persistent door geometry, the Goddess threat/terms, the Noise reveal and later Exchange compatibility with the creator before production.

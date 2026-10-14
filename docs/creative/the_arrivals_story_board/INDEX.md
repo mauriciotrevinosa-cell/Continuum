@@ -164,3 +164,7 @@ The most important source documents are copied into [sources/](./sources/) so th
 - [V26 focused QA record](S4_V26_CONTINUITY_QA_2026-10-14.md)
 
 S4's production draft is complete; creator read-through remains open. S5 has not been written or greenlit.
+
+## S5 opening proposal — full creator text (in discussion)
+
+[Complete door / Ori / Frieren / The Noise opening proposal](S5_OPENING_DOOR_CREATOR_FULL_PROPOSAL_2026-10-14.md). The creator explicitly requires full preservation without simplifying; use the original, with editorial observations separate. This is not a greenlight to write S5 or alter S4.

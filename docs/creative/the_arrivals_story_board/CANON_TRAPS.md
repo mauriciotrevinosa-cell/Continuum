@@ -256,3 +256,11 @@ not on this list. Add a line every time the creator catches a new slip.
 
 - Their festival time, recovery outings and the established S3 bread/blue-thread date precede S4's dating decree. Never frame The Fifth Flower as their first date or have Frieren deny having gone on any date in a thousand years including Mau.
 - Her uncertainty there is planning a special gesture herself. She understands dates and remembers their shared history. The earlier failure to understand Himmel's invitation belongs to the distant past, not her current understanding after Mau.
+
+
+## The Fifth Flower — mana access / efficiency (DH-089)
+
+- Earlier flowers were made with his own mana during deliberately opened elf-route trials. The date is the first ordinary guarded use outside such a trial, not the first flower or first mana use ever.
+- Mau still has almost no available mana. The route and all guardrails stay closed. Developing Six Eyes-style perception/efficiency makes that trace sufficient for this small casting by nearly eliminating waste; it does not create fuel, open longevity, or make mana literally unnecessary.
+- Ciel initially proposes body accommodation as a POSSIBILITY. Observing uncontrollable flower-detail sight changes her diagnosis to the developing eyes' efficiency and prompts Look away. She is not silently granting a new permanent safe power or a cure.
+- Early efficiency precedes the later completed-eye reveal. Preserve build timing, information-overload danger and later costs. No unlimited spells or zero-cost magic.

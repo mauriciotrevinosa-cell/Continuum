@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 16  
-**Continuity state:** Night of Day 139 to the reset hour of Day 140 | Frieren plans: the river path | first private post-fight conversation: she could not reach him; Mau acknowledges staying after extraction and losing the distinction from the Trial; no impossible safety promise; tell her before another attempt | earlier dates remembered; uncertainty is planning a special gesture, not a first date | Mau makes his flowers, the one safe thing | he sees through them, the river, the stars, and through her suppression to the sea of her mana | her hand over his eyes: 'Tell me when you can see things you shouldn't' | two hundred and eleven embers | the reset hour: both eyes ocean-blue; 'One—' stops | Ciel: 'It is done building'
+**Continuity state:** Night of Day 139 to the reset hour of Day 140 | Frieren plans: the river path | first private post-fight conversation: she could not reach him; Mau acknowledges staying after extraction and losing the distinction from the Trial; no impossible safety promise; tell her before another attempt | earlier dates remembered; uncertainty is planning a special gesture, not a first date | first flowers outside a deliberate elf-route trial: nearly absent own mana, closed route, negligible loss from developing eye efficiency; Ciel first suggests body accommodation then corrects the cause when uncontrolled seeing appears | he sees through them, the river, the stars, and through her suppression to the sea of her mana | her hand over his eyes: 'Tell me when you can see things you shouldn't' | two hundred and eleven embers | the reset hour: both eyes ocean-blue; 'One—' stops | Ciel: 'It is done building'
 
 *When: The night of Day 139, the last night of the decree, into the reset hour of Day 140. The five are in their kotatsu, unscheduled; Eren and Mikasa will walk to the red stake at dawn.*
 
@@ -150,15 +150,35 @@ It was the one thing he could do.
 
 That was what she meant. He understood it at once, sitting on the bank, and his throat went tight. There were so many things in him. The Infinity in its box. The Void. The Shrine. The wheel. The shadow that was a door. A hundred things that were half-built and could not be touched, and things that were only blueprints, and things nobody had a name for. All of them dangerous. All of them sealed. All of them a risk, every time, that might pull something else up behind them.
 
-And the flowers. His own. Made with his own mana, the way he had failed to make them twice in the first weeks of his life, in a field with Frieren beside him, and had finally made, months later, at fourteen minutes into the first controlled trial, with every guardrail holding. The one thing in him that was entirely his, and entirely safe, and had never once frightened anybody.
+And the flowers. His own. He had failed to make them twice in the first weeks of his life, in a field with Frieren beside him. At fourteen minutes into the first controlled trial he had finally done it, with his own mana from the temporarily opened elf route. The flower had not been a sealed copy. But every flower since had belonged to one of those deliberate trials.
+
+They had never frightened her. That did not mean he had made one like this before.
 
 She kept them. He knew she kept them. Four pressed white flowers, one for each controlled trial, between the pages of the old grimoire, which lived on the shelf in the middle of the floor now.
 
-"Okay," said Mau.
+"Without the trial?" he asked.
+
+Frieren looked at his hand, then at him.
+
+"I thought—" She stopped. "Ask Ciel first."
+
+*Ciel?*
+
+She checked before she answered. The walls. The closed route. The little amount that belonged to his body rather than to something behind the seals.
+
+*The route is closed,* she said. *We are not opening it tonight.*
+
+Mau waited.
+
+*You have almost no mana available. That has not changed. If nothing comes, do not reach farther. Do not ask anything sealed to help.*
+
+"Okay," he said aloud.
 
 He put his hand flat on the new grass between them.
 
-He did not reach for anything sealed. He did not reach for anything at all. He just let his own mana come, the small warm ordinary amount of it that was his. He let it go down through his palm into the earth the way she had taught him, in the first weeks, very patiently, while he failed.
+He did not reach for anything sealed. He waited for the trace of his own mana, so slight he could barely distinguish it from the warmth of his palm. It had not been enough when he first tried. Opening the elf route had given him more to work with in the trials. There was no opening now.
+
+He let the little he had pass into the grass the way she had taught him, very patiently, while he failed.
 
 The grass under his hand moved.
 
@@ -167,6 +187,34 @@ A shoot came up. Pale. Then another. Then a bud, closed tight, green at the edge
 White. Five petals. Small, and plain, and perfect. The same flower he had made at fourteen minutes. The same flower in her grimoire.
 
 Then another, beside it. And another. A small ring of them, round his hand, on the bank of the river in the dusk, white against the new grass.
+
+Mau took his hand away at once.
+
+"I didn't open anything."
+
+*No,* said Ciel. *The walls held. The route stayed closed.*
+
+Mau told Frieren what she had checked.
+
+Frieren touched one petal with the tip of a finger.
+
+"Then how?"
+
+*The amount available did not increase,* Ciel said. Mau repeated the explanation for Frieren. *But the loss between intention and use is almost gone. He is spending a trace and retaining nearly all of its effect.*
+
+She paused.
+
+*Perhaps the body has learned to carry that little without the route. It has carried the shape before. A small accommodation.*
+
+He told her that too.
+
+"Perhaps?" Frieren asked.
+
+*That is a possibility, not a conclusion. No fever. No pressure against the walls. I am watching.*
+
+Mau repeated her answer.
+
+Mau looked at the flowers. They were small. They were his. For a moment, after everything, it looked like something had become easier without having to become dangerous first.
 
 Frieren looked at them for a long time.
 
@@ -184,7 +232,15 @@ And he could not stop seeing it.
 
 He sat on the bank with his hand on the grass and his eye open, and the world opened under it like a book whose pages were too thin. Every line on every page showing through, all at once.
 
-*Mau,* said Ciel, very quietly. *Mau. Look away.*
+*Mau,* said Ciel.
+
+The flower's fine branches were not blurred by the little mana moving through them. He could see exactly where it went, where it would be wasted, the corrections his hand had made without him knowing he was making them.
+
+Ciel's attention shifted from his output to the seeing that was directing it.
+
+*That is why the trace was enough.* Her voice sharpened. *I was looking for a change in the body. The efficiency is coming from what the eyes are learning to do. The route has not opened.*
+
+*Look away. Now. You are not choosing how much to see.*
 
 He looked away. At the river. That was worse. He saw the water. Every current. Every eddy. The cold of it and the speed of it and the stones under it, the silt carried in it, the exact weight of the water going past him in the dusk, every second, forever.
 

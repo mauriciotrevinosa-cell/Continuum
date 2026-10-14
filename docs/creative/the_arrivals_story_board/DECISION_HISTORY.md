@@ -1574,3 +1574,14 @@ Creator corrects The Fifth Flower's no-prior-dates claim. Mau and Frieren alread
 - Frieren explicitly recalls those outings. Mau and she share a small bread callback. No rigid new count or separately invented outing chronology.
 - She understands what a date is; her uncertainty is choosing/planning a special gesture for him now. Her old misunderstanding of Himmel's invitation remains in its past context.
 - Preserve the newly added post-fight conversation and the rest of the existing date. CANON_TRAPS records that neither the decree nor this scene resets their relationship history.
+
+
+## DH-089 — First ordinary guarded mana use: efficiency, not elf route (creator, 2026-10-13)
+
+Creator identifies the missing causal bridge in The Fifth Flower and supplies it: Mau has almost no mana, but developing Six Eyes efficiency makes a trace sufficient. Earlier flower successes belong to deliberate elf-route trials. The current date is not another trial and the route stays closed.
+
+- On-page: Mau asks about doing it without a trial; Frieren asks him to check with Ciel. She verifies closed walls/route and warns him not to reach for sealed help if the trace fails.
+- The small casting succeeds without more fuel or opened guardrails. Ciel measures negligible loss, first tentatively proposes the body accommodating the familiar small task, and explicitly marks that as a possibility rather than a conclusion.
+- Looking through the flower reveals the same fine perception directing that near-lossless output. Ciel revises the explanation to the developing eyes and tells him to look away because he cannot choose the information intake. Apparent harmless progress turns into a warning.
+- Mana is still spent, however little. No universal mana-free casting, new reserve, elf-route completion, lifespan resolution or permanent mastered Six Eyes. Partial functions can appear while building; the later completed-eye reveal and subsequent crisis retain their timing.
+- This refines DH-062's safe-flower shorthand: the native flower casting is not a sealed copy; in this date, the newly coupled unfiltered seeing is dangerous. Earlier failed attempts and controlled-trial flowers remain unchanged.

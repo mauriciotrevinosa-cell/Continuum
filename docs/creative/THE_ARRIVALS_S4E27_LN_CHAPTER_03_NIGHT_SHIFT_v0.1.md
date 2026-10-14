@@ -14,7 +14,7 @@ She was sitting on top of Anko's red stake in the north field, cross-legged, whi
 
 She had been watching the hills for eight nights.
 
-She was good at it. Better than she had thought she would be. She had spent her whole life awake at night, but she had spent it in a city, in bars and on rooftops and in the bright noisy dark of streets that never slept, and she had never once in her life sat still and watched one thing for hours. She had thought it would be boring. It was not. It was the opposite of boring. The hills at night were full of small things. A fox. An owl. The wind moving in the long grass. Once, on the fourth night, a pale shape on the skyline that turned out to be a deer, standing very still, and she had nearly flown out to see if it was *the* deer, and then remembered that the deer had gone home months ago, with Nokotan, through a hole shaped like itself.
+She was good at it. Better than she had thought she would be. She had spent her whole life awake at night, but she had spent it in a city, in bars and on rooftops and in the bright noisy dark of streets that never slept, and she had never once in her life sat still and watched one thing for hours. She had thought it would be boring. It was not. It was the opposite of boring. The hills at night were full of small things. A fox. An owl. The wind moving in the long grass. Once, on the fourth night, a pale shape on the skyline that turned out to be a deer, standing very still, and she had nearly flown out to see if it was one of Nokotan's herd, and then remembered that the herd had gone back to the forest months ago, when Nokotan went home through the hole.
 
 At a quarter past two on the ninth night, there was a new shape on the hills.
 
@@ -236,7 +236,7 @@ Nobody argued.
 
 Aira went out to the cottages alone, at four, with a lantern.
 
-She did not wake the families. She sat down on the step of the nearest cottage, the one with the bean-girl in it, the Fastest Child, the one who had swept the step of Arrival House all winter. She put the lantern down beside her and turned it low. She folded her arms in her big coat and sat on the step, facing north, toward the road, toward the ridge she could not see in the dark.
+She did not wake the families. She sat down on the step of the nearest cottage, the one with the bean-girl in it, the Fastest Child, the one who had swept the step of the empty cottage. She put the lantern down beside her and turned it low. She folded her arms in her big coat and sat on the step, facing north, toward the road, toward the ridge she could not see in the dark.
 
 She sat there for a long time.
 

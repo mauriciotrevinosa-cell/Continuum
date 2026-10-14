@@ -202,7 +202,7 @@ He looked.
 
 Across the yard, past the ink tree, past the dark bulk of the Muslin with Rem's lamp still burning in the guest room, Arrival House stood at the edge of the plaza with all its windows black. And on its front step, in the cold, under the bell tower, in the starlight, sat four small figures in a row, wrapped in blankets.
 
-Nobody had told them to wait there. Nobody knew if it would be there, or tonight, or tomorrow, or in a week. Arrival House, the voice had said once, long ago, to everyone. That was all.
+Nobody had told them to wait there. Nobody knew if it would be there, or tonight, or tomorrow, or in a week. Arrival House, Rimuru had said once, at the Searchers' board. That was all.
 
 Kessoku sat on the step of Arrival House in a row and waited.
 

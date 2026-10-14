@@ -191,7 +191,7 @@ Then the contract.
 That was Mau's. He had asked for it that morning. Now, with lunch cleared away and the entrance check behind them, he drew the clean sheet toward him, and Fern nodded.
 
 
-The contracts in this world were real. Everyone at the table knew it. The ones you signed with the witches, the one Mau had signed with the Goddess, the ones from long ago that none of the newer arrivals had seen. Paper, ink, a name. And if you broke one, something happened to you, and it was not small. Mau had never broken one. Not once. He had been very careful, for a very long time, to keep to the exact letter of every contract he had ever made. The house knew that too.
+The contracts in this world were real. Everyone at the table knew it. The ones you signed with the witches, the one Mau and Rimuru had signed before Sukuna, the ones from long ago that none of the newer arrivals had seen. Paper, ink, a name. And if you broke one, something happened to you, and it was not small. Mau had never broken one. Not once. He had been very careful, for a very long time, to keep to the exact letter of every contract he had ever made. The house knew that too.
 
 He wrote it on a clean sheet at the long table, slowly, in his own hand, with the five of them watching. Fern checked every line.
 

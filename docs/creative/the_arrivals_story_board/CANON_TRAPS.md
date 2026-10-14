@@ -318,3 +318,22 @@ not on this list. Add a line every time the creator catches a new slip.
 - Mau's accidental breakfast disclosure does not oblige a trauma recital. He then chooses an afternoon meeting and its scope. Ciel watches the guardrails at his request, without probing or broadcasting memories. Eight current coin arrivals hear the chosen account; future disclosure is not automatically unrestricted.
 - Mau did not enter the Trial to buy these people or know the reward in advance. The Goddess called the coins purchased AFTER the Return/Stay window. Newcomers owe no debt, obedience or gratitude performance. Seika's refusal-of-debt payoff occurs here, replacing the former unplaced future reveal.
 - No generic collective pity, new resurrection claim, full Gojo-loop retelling, active power unlock or canon confirmation of437 coins. Earlier secrecy scenes remain historical and true before this meeting.
+
+
+## S4 re-audit, V22–V25 (2026-10-14)
+
+- Relative time is counted from S4 Day ~121 ≈ Month 28. The refuge families arrived in about Months 16–17.5 (V15), and the bridge opened in V16. Refuge and valley people have lived beside Mau for less than a year and through one winter (S4's). Never write "two years", "two winters" or "the first winter" for them. The washing troughs date from S3 V16, so nobody's mother washed there and nobody washed there for "thirty years".
+- Diablo arrived in S3 V11, after Rimuru, so he has been here for about fifteen months, not two years, and he did not come "with" Rimuru.
+- Frieren's old grey shirt burned at the bay (V18). Do not dress her in it again.
+- Mau slept through the whole bay night, so he cannot have "seen" anything there.
+- Nazuna's waking schedule began in the Muslin, in the fort-notes weeks (V18 #8), not in the first winter at the old inn. The loft over Anko's bed dates from V15.
+- The wobbly chair at the old inn was Mau's chair: he sat IN it, and the witch sat across from it.
+- "Arrival House" was Rimuru's name for the place, said at the Searchers' board (V22 #7). The Goddess never said it.
+- Mau never signed a contract with the Goddess. His binding contract is the one he and Rimuru signed before Sukuna. The signed Trial condition is a page in Fern's ledger.
+- Maki has carried her folded paper since the window (V21 #1) and wrote it in bed. Day 40 is only when she said "Written. Not yet."
+- The Gojo loop was one scenario fought many times. It was not "four hundred times": 437 is the whole Trial.
+- Mau's two early flower failures happened once alone and once with Rika watching, not with Frieren beside him.
+- Ram's fill is weekly, so on an ordinary day Frieren "sits with" Ram rather than filling her.
+- Only Nokotan went home through the hole. Her herd went back to the forest, and *the* deer was never hers.
+- The bean-girl swept the step of the empty cottage (Day 122), not the step of Arrival House.
+- **Open (ask the creator):** S4 often says "came/brought over the bridge" to mean "arrived in this world", including for people who arrived before the bridge existed: Mai, Kaneki, the Kessoku guitars, Maki's spear, Stark's axe, Marin and Wakana, the five, Diablo. V25 #4 uses it as an explicit metaphor. Leave existing uses alone until the creator rules on it, and do not use it for a literal arrival that came before S3 V16.

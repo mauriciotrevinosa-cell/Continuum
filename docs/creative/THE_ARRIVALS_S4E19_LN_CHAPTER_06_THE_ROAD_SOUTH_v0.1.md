@@ -14,7 +14,7 @@ Fern was there, of course. Fern was always there. She looked up from the ledger 
 
 "We're going," said the woman.
 
-She was one of the four families who had stayed when the window closed. Everyone in the house knew her a little. She had come over the bridge two summers ago with her husband and their two children, from a world with green hills and white houses and hives in every garden, and they had stayed in the refuge, and then in the cottages, and she had kept bees. She had brought three hives' worth of them over the bridge in a basket, somehow, and kept them alive through two winters in a lean-to behind the last cottage, wrapped in straw. Kusuri had used her beeswax in the hand cream. Momo used her honey, the good honey, on the high shelf.
+She was one of the four families who had stayed when the window closed. Everyone in the house knew her a little. She had come over the bridge last summer with her husband and their two children, from a world with green hills and white houses and hives in every garden, and they had stayed in the refuge, and then in the cottages, and she had kept bees. She had brought three hives' worth of them over the bridge in a basket, somehow, and kept them alive through the winter in a lean-to behind the last cottage, wrapped in straw. Kusuri had used her beeswax in the hand cream. Momo used her honey, the good honey, on the high shelf.
 
 "To the river towns," said the woman. "My sister's there. In the second town past the ford. She married a miller." She looked at the ledger, not at Fern. "She's been asking us since the autumn. We kept saying no."
 
@@ -108,7 +108,7 @@ Daphne stood in front of the hives alone. Then, very quietly, in her low unhurri
 
 The children were the hardest.
 
-There were two of them. A boy of about seven, very quiet, who had never once spoken to Mau in two years but had always waved, from the cottage door, when Mau went past to the washing court in the mornings. And a girl of about ten, who was best friends with the girl with the bean. The Fastest Child. They had raced on the sled slope together all winter. They had sat in the front row of the movie room together for the alien film, all five times.
+There were two of them. A boy of about seven, very quiet, who had never once spoken to Mau since last summer but had always waved, from the cottage door, when Mau went past to the washing court in the mornings. And a girl of about ten, who was best friends with the girl with the bean. The Fastest Child. They had raced on the sled slope together all winter. They had sat in the front row of the movie room together for the alien film, all five times.
 
 The Fastest Child did not cry. She stood at the cottage door on the evening before, while the girl packed her things into a small bag, and watched, with her arms folded, exactly the way Seika stood at the back of rooms.
 
@@ -165,7 +165,7 @@ She looked at him for a long time.
 
 "I know," said Mau. "It's the road."
 
-"No," said the woman. "I mean it's not you." She looked at him steadily. "In the towns. When they say *the one with the shadow*. When that thing in the woods said it." She paused. "I've lived next door to you for two years. You walk past my cottage every morning to the washing court. You carried water for my husband when his back went, in the first winter. You wave at my boy." She looked at the boy, on top of the sacks, who was looking at Mau, and lifted one small hand, and waved. "That's who you are. Not what they say."
+"No," said the woman. "I mean it's not you." She looked at him steadily. "In the towns. When they say *the one with the shadow*. When that thing in the woods said it." She paused. "I've lived next door to you since last summer. You walk past my cottage every morning to the washing court. You carried water for my husband when his back went, in the winter. You wave at my boy." She looked at the boy, on top of the sacks, who was looking at Mau, and lifted one small hand, and waved. "That's who you are. Not what they say."
 
 Mau did not say anything. He did not trust his voice.
 

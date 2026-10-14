@@ -182,7 +182,7 @@ Echidna had nothing at all. Her books were elsewhere.
 
 And the first witch, at the back, in her composed way, never early and never late, was carrying a chair.
 
-It was a plain wooden chair, old and pale and a little worn on the seat. Mau knew it before she was halfway across the yard. He had sat across from it every second week for a year, in a room upstairs at the old inn, the second door, answering questions about his seams. It was the chair that wobbled.
+It was a plain wooden chair, old and pale and a little worn on the seat. Mau knew it before she was halfway across the yard. He had sat in it every second week for a year, in a room upstairs at the old inn, the second door, answering questions about his seams. It was the chair that wobbled.
 
 She carried it into the north wing, into the last room, the one at the end, and set it down by the window. Then she sat in it. It wobbled.
 
@@ -194,7 +194,7 @@ Mau stood in the doorway.
 
 "It wobbles."
 
-"Yes." She folded her hands. Then, after a moment, she unfolded them, and laid them flat on her knees. "It has always wobbled. For a year, every second week, you sat across from it and never once asked anyone to fix it." She looked up at him. "Neither did I. We both preferred it the way it was." She paused. "I would like to keep it the way it was. Somewhere that is not the old inn."
+"Yes." She folded her hands. Then, after a moment, she unfolded them, and laid them flat on her knees. "It has always wobbled. For a year, every second week, you sat in it and never once asked anyone to fix it." She looked up at him. "Neither did I. We both preferred it the way it was." She paused. "I would like to keep it the way it was. Somewhere that is not the old inn."
 
 Mau did not say anything. He nodded, and stood in her doorway for a moment longer, and then went away, and did not tell anyone, and the next morning found that Wakana had looked at the chair and had very deliberately not fixed it.
 

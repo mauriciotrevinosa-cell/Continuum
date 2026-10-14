@@ -120,7 +120,7 @@ So it was the two of them on the ridge of the real house in the blue dusk, with 
 
 She unfolded the paper at last.
 
-Yuta had never seen what was on it. He looked now. It was one word, in Maki's square hard handwriting, written on the fortieth day and carried every day since.
+Yuta had never seen what was on it. He looked now. It was one word, in Maki's square hard handwriting, written in bed in the first days and carried every day since.
 
 *Yuka.*
 
@@ -144,7 +144,7 @@ The coin went warm. Then warmer.
 
 Then it was gone.
 
-Maki opened her hand. Her palm was empty. She looked at it for a long time. Then she folded the paper with the one word on it, very carefully, along its old creases, and put it back in her pocket, where it had been every day since the fortieth.
+Maki opened her hand. Her palm was empty. She looked at it for a long time. Then she folded the paper with the one word on it, very carefully, along its old creases, and put it back in her pocket, where it had been every day since the window.
 
 Yuta did not say anything. He put his arm round her.
 

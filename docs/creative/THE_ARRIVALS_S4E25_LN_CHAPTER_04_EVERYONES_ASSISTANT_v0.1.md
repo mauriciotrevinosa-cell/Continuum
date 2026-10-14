@@ -48,11 +48,11 @@ The common room was silent.
 
 At the cold-hearth end, Rimuru had put his fork down.
 
-"I came here with him," said Diablo. "Over the bridge. Into this world. I stood outside his door. I opened doors for him. I did what he asked, and what he did not ask, because I knew what he would want before he knew it himself." He paused again. "That is what an assistant does."
+"I came here after him," said Diablo. "Into this world. I stood outside his door. I opened doors for him. I did what he asked, and what he did not ask, because I knew what he would want before he knew it himself." He paused again. "That is what an assistant does."
 
 Nobody said anything.
 
-"And I have watched," said Diablo. "For two years. I have watched him in this house. Among you." His voice did not change. But something in it shifted. "I have watched him laugh. On a roof. In the snow. The night Mau-sama first laughed up there. I have watched him order me to do nothing at all for an entire day, because a child gave me a card, and laugh while I did it very badly. I have watched him sit by a cold hearth every morning and say *looked, quiet* for someone who cannot speak aloud. I have watched him sleep. Properly. As a slime on a pillow." He paused. "I have watched him be happier here than I have ever seen him in any world."
+"And I have watched," said Diablo. "For more than a year. I have watched him in this house. Among you." His voice did not change. But something in it shifted. "I have watched him laugh. On a roof. In the snow. The night Mau-sama first laughed up there. I have watched him order me to do nothing at all for an entire day, because a child gave me a card, and laugh while I did it very badly. I have watched him sit by a cold hearth every morning and say *looked, quiet* for someone who cannot speak aloud. I have watched him sleep. Properly. As a slime on a pillow." He paused. "I have watched him be happier here than I have ever seen him in any world."
 
 Rimuru was looking at him now. Not moving. Not saying anything.
 

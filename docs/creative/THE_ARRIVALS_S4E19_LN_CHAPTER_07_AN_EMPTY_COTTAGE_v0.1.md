@@ -22,7 +22,7 @@ Then Momo brought out the stew, and the table ate, and talked about the gate, wh
 
 It was an ordinary dinner. That was what Mau noticed. An ordinary dinner, loud and warm, with the lamps lit and the stew hot and Kessoku arguing about a chord.
 
-And four places that had never been at the long table, because the family who kept bees had always eaten in their own cottage, were empty anyway. You could feel it. Not at the table. Somewhere past it. A small cold place in the settlement, at the end of the plaza road, where a lamp had been lit every evening for two years and was not lit tonight.
+And four places that had never been at the long table, because the family who kept bees had always eaten in their own cottage, were empty anyway. You could feel it. Not at the table. Somewhere past it. A small cold place in the settlement, at the end of the plaza road, where a lamp had been lit every evening since last summer and was not lit tonight.
 
 
 
@@ -32,7 +32,7 @@ He had gone most mornings since the eighteenth day. Nobody sent him any more. He
 
 This morning there was one woman fewer.
 
-Not from the family who kept bees. They had washed at their own cottage. But a woman from the valley, one of the ones who had been born there, whose mother had washed at these same troughs. She had not come. Her place at the end of the second trough was empty, and the others had not moved along to fill it.
+Not from the family who kept bees. They had washed at their own cottage. But a woman from the valley, one of the ones who had been born there, whose mother had washed in this same river, before there were troughs. She had not come. Her place at the end of the second trough was empty, and the others had not moved along to fill it.
 
 Mau knelt in his usual place and began on his shirts.
 
@@ -56,7 +56,7 @@ Dessa's friend did not answer at once. She scrubbed the sheet. She was not gentl
 
 She wrung it out. She hung it on the line. She came back to the trough and knelt and picked up the next one.
 
-"Dessa washed here," she said. "Thirty years. Her mother before that." She did not look at the empty place. "Somebody has to sing badly at these troughs. Or the women from over the bridge will think we've all gone soft."
+"Dessa washed here," she said. "Every day since the troughs went in." She did not look at the empty place. "Somebody has to sing badly at these troughs. Or the women from over the bridge will think we've all gone soft."
 
 She started to sing. Badly. Louder than before.
 

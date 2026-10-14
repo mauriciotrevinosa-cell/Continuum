@@ -122,7 +122,7 @@ Yuta looked at her.
 
 She was not looking at him. She was looking at the field, with her arms on her knees and her spear across them.
 
-"For her," said Maki. "Yuka." She said the name carefully. The way you say a name you have not said out loud in a very long time, and in a different life. "I've had the paper in my pocket since the List. *Written. Not yet.*" She took it out. A small square of paper, folded twice, soft at the creases from being carried. She did not open it. "I was waiting. For the house. For it to be safe. For the gate and the road and the devil in the woods." She turned it over in her fingers. "And then your teacher came. And there was a fight. And I thought, it's never going to be safe. Not really. Not here."
+"For her," said Maki. "Yuka." She said the name carefully. The way you say a name you have not said out loud in a very long time, and in a different life. "I've had the paper in my pocket since the window. *Written. Not yet.*" She took it out. A small square of paper, folded twice, soft at the creases from being carried. She did not open it. "I was waiting. For the house. For it to be safe. For the gate and the road and the devil in the woods." She turned it over in her fingers. "And then your teacher came. And there was a fight. And I thought, it's never going to be safe. Not really. Not here."
 
 "No," said Yuta quietly.
 

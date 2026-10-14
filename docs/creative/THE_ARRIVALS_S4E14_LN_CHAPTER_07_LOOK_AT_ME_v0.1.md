@@ -20,7 +20,7 @@ So Mau came down the ladder and went to bed. Across their corner of the Muslin, 
 
 She was not reading.
 
-She was on the bed, sitting up against the wall, in the old grey shirt she slept in, with her knees drawn up and the blanket over them. She had been watching him go up and down the ladder all evening. She had clearly been waiting for him to stop.
+She was on the bed, sitting up against the wall, in the shirt she slept in, with her knees drawn up and the blanket over them. She had been watching him go up and down the ladder all evening. She had clearly been waiting for him to stop.
 
 "You went up again," said Frieren.
 
@@ -86,7 +86,7 @@ Mau did not say anything. His face had gone warm.
 
 "I don't know," said Frieren. "You're the one with the nice voice." She opened one eye and looked up at him, upside down, from his chest. "Something you'd say if you thought I was asleep."
 
-Mau looked down at her. At the green eye looking up at him, and the white hair he had just brushed, and the old grey shirt, and the small cold hands folded on the blanket.
+Mau looked down at her. At the green eye looking up at him, and the white hair he had just brushed, and the sleep shirt, and the small cold hands folded on the blanket.
 
 "You're the first thing I remember," he said.
 
@@ -122,7 +122,7 @@ He watched it go back down. All of it. Whatever it had been. She did not push it
 
 Mau looked at her.
 
-He knew that face. He had known it for two years. It was the face she made when something was very wrong and she had decided he was not going to carry it. He had seen it at the bay. He had seen it last night, under the tree, for one second, when she said *longer than me*.
+He knew that face. He had known it for two years. It was the face she made when something was very wrong and she had decided he was not going to carry it. He had seen it last night, under the tree, for one second, when she said *longer than me*.
 
 He did not push.
 

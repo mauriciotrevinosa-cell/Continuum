@@ -401,7 +401,7 @@ The violet edge tore apart into the separate forces that had not quite become it
 
 Mau screamed.
 
-It was not pain. It was the Trial. It was the body being stopped one instant before the thing it had done four hundred times, and not understanding why.
+It was not pain. It was the Trial. It was the body being stopped one instant before the thing it had done so many times, and not understanding why.
 
 And at the same moment, in front of Gojo, out of nowhere, there was a spear.
 

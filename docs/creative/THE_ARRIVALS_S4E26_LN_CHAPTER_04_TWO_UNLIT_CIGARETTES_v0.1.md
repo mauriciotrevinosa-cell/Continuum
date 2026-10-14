@@ -228,7 +228,7 @@ Anko pulled her notebook toward her and turned to the page with the new rule fou
 
 Diablo leaned over to look.
 
-"Shall I compile a schedule?" he said. "Rotations. Coverage. I am very good at coverage." He paused. "I stood outside one door for two years. I believe I could stand outside several."
+"Shall I compile a schedule?" he said. "Rotations. Coverage. I am very good at coverage." He paused. "I stood outside one door for more than a year. I believe I could stand outside several."
 
 "Shifts," said Anko. "Morning, afternoon, night."
 

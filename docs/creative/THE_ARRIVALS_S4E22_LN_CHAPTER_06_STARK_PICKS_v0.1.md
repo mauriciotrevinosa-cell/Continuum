@@ -10,7 +10,7 @@
 
 Fern came to Mau for advice, which she had never done, about anything.
 
-She found him in the yard, under the ink tree, in the middle of the afternoon on the hundred-and-thirty-eighth day, doing nothing. He had been told to do nothing. Maomao had said it, and Gojo had said it, and Frieren had said it by putting him on the bench under the tree with a blanket and a cup of tea and sitting on his feet. Frieren had gone in an hour ago to fill Ram. Mau had stayed. He was looking at the leaves.
+She found him in the yard, under the ink tree, in the middle of the afternoon on the hundred-and-thirty-eighth day, doing nothing. He had been told to do nothing. Maomao had said it, and Gojo had said it, and Frieren had said it by putting him on the bench under the tree with a blanket and a cup of tea and sitting on his feet. Frieren had gone in an hour ago to sit with Ram. Mau had stayed. He was looking at the leaves.
 
 He was counting them, actually. He had not meant to. He had looked up at the crown of the tree, and his eye had started, and now he knew there were four thousand, one hundred and twelve leaves on the lowest bough alone, and that eleven of them had a small brown spot where the frost had touched them, and he did not know how he knew, and it frightened him.
 

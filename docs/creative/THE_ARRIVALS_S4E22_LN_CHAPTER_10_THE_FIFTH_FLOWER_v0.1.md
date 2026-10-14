@@ -150,7 +150,7 @@ It was the one thing he could do.
 
 That was what she meant. He understood it at once, sitting on the bank, and his throat went tight. There were so many things in him. The Infinity in its box. The Void. The Shrine. The wheel. The shadow that was a door. A hundred things that were half-built and could not be touched, and things that were only blueprints, and things nobody had a name for. All of them dangerous. All of them sealed. All of them a risk, every time, that might pull something else up behind them.
 
-And the flowers. His own. He had failed to make them twice in the first weeks of his life, in a field with Frieren beside him. At fourteen minutes into the first controlled trial he had finally done it, with his own mana from the temporarily opened elf route. The flower had not been a sealed copy. But every flower since had belonged to one of those deliberate trials.
+And the flowers. His own. He had failed to make them twice in the first weeks of his life, once alone and once with Rika watching. At fourteen minutes into the first controlled trial he had finally done it, with his own mana from the temporarily opened elf route. The flower had not been a sealed copy. But every flower since had belonged to one of those deliberate trials.
 
 They had never frightened her. That did not mean he had made one like this before.
 

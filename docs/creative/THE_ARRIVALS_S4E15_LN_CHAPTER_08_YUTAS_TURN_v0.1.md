@@ -10,7 +10,7 @@
 
 Nazuna woke an hour before dinner, the way she always did now.
 
-It had not been a decision. It had happened in the first winter, in the old inn, without anyone noticing. She slept through the days, the way she had always slept through the days, in the loft over Anko's bed with the shutter closed and a blanket over her head. And then one evening she had woken up at dusk, and come down, and found the whole house at the long table, and Milim crying about something and Senku explaining something else and Fern writing it all down. She had sat down at the end of the bench and eaten whatever was in front of her and listened. And it had been the most interesting hour of her week.
+It had not been a decision. It had happened in the Muslin, in the weeks of the fort notes, without anyone noticing. She slept through the days, the way she had always slept through the days, in the loft over Anko's bed with the shutter closed and a blanket over her head. And then one evening she had woken up at dusk, and come down, and found the whole house at the long table, and Milim crying about something and Senku explaining something else and Fern writing it all down. She had sat down at the end of the bench and eaten whatever was in front of her and listened. And it had been the most interesting hour of her week.
 
 So the next day she had set herself to wake an hour earlier. And the day after that. Until she was sleeping from just after breakfast to just before dinner, like a cat in reverse, and nobody in the house could remember a dinner without her at the end of the bench in her coat with her hair everywhere, eating everybody's leftovers and asking inappropriate questions.
 
@@ -254,7 +254,7 @@ Mau drank some. It was terrible. It was the worst coffee he had ever had.
 
 "I know," said Kaneki. "I make it like that."
 
-Rimuru was looking at Kaneki over his cup. At the quiet young man sitting at the end of the ridge, who worked the night shift at the timber yard and the charcoal kilns, who did not sleep, who had come over the bridge alone and walked for days with Rem looking for Mau, and neither of them had called it trust.
+Rimuru was looking at Kaneki over his cup. At the quiet young man sitting at the end of the ridge, who worked the night shift at the timber yard and the charcoal kilns, who did not sleep, who had arrived alone and walked for days with Rem looking for Mau, and neither of them had called it trust.
 
 "You heard," said Rimuru. "From the kilns. Didn't you."
 

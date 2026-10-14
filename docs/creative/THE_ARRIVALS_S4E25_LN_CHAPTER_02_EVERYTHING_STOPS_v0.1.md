@@ -10,7 +10,7 @@
 
 Fern stopped everything.
 
-She did it at the long table on the morning of the hundred-and-forty-sixth day, with the ledger open and her pen in her hand. Mau was still asleep in the clinic with the blindfold on and Frieren on the floor beside him. Rimuru was still asleep in his office as a slime, snoring, with Diablo outside the door. The house came down to breakfast in ones and twos, grey-faced, not talking, and sat down, and did not eat. And Fern stood up at the head of the table and said it.
+She did it at the long table on the morning of the hundred-and-forty-sixth day, with the ledger open and her pen in her hand. Mau was still asleep in the clinic with the blindfold on and Frieren on the floor beside him. Rimuru was still asleep as a slime on his pillow in the loft above Mau and Frieren's east-room closet, snoring, with Diablo keeping watch beside the loft ladder. The house came down to breakfast in ones and twos, grey-faced, not talking, and sat down, and did not eat. And Fern stood up at the head of the table and said it.
 
 "Everything stops," said Fern.
 

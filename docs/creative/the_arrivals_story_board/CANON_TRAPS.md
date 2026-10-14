@@ -188,8 +188,10 @@ not on this list. Add a line every time the creator catches a new slip.
   (nine days later).
 - Frieren's cold foot outside the reset hour first happens in V23 "Not Twice"
   (Day 116). After that it is rare, not "never".
-- **After the bell:** Rimuru slept as a slime in his office Days 145 to 147
-  and was up in human shape by Day 148 (V24 "Everything Stops").
+- **After the bell:** Rimuru rests as a slime in his sleeping loft over Mau
+  and Frieren's east-room closet Days 145 to 147, with Diablo watching beside
+  the loft ladder. He is up in human shape by Day 148. The office remains his
+  downstairs workplace; no temporary office bedroom is created (DH-094).
 - **Hollis's route:** Ashby runs on Day 188, about 193, about 203, Day 209
   (eighteen chimneys, sold) and Day 214 (the fifth; the gate closes; three
   chimneys saved). Ashby's market is "every few days"; don't give it a fixed

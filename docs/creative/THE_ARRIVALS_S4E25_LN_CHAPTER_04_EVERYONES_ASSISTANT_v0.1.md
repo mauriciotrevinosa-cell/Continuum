@@ -178,9 +178,11 @@ Diablo was standing beside him.
 
 Not outside the door. Inside. Beside the desk. He had a blanket over his arm. As Mau watched, he unfolded it, and laid it over Rimuru's shoulders, very carefully, the way you would cover someone you did not want to wake.
 
-Then he went out, and closed the door softly behind him. And he did not stand outside it.
+Then he said Rimuru's name softly. Rimuru lifted his head, blinked at the diagrams, and let Diablo help him up.
 
-He walked away down the corridor, toward the fort, where a small pink-haired dragon was waiting at the arch with her arms folded, pretending she had not been waiting at all.
+They closed the office behind them. Diablo took him upstairs to his sleeping loft, above Mau and Frieren's closet, and settled him on his own pillow. Only then did he come back down.
+
+He walked along the downstairs corridor, toward the fort, where a small pink-haired dragon was waiting at the arch with her arms folded, pretending she had not been waiting at all.
 
 "*Guardian,*" said Diablo, with a small bow.
 

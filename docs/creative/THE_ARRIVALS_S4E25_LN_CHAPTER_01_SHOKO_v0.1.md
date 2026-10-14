@@ -122,7 +122,7 @@ She stood beside the bed for a moment, looking down at the patient. Then she tur
 
 He was there.
 
-Of course he was there. He was sitting on the floor of the corridor with his back against the wall opposite the clinic door, exactly where he had sat all night twelve days ago with Diablo beside him. Diablo was not beside him now. Diablo was in Rimuru's office, sitting by a bed where a small blue slime was asleep on a pillow, snoring. Gojo was alone. His knees were drawn up and his arms were round them, and his eyes, without the blindfold, were open, blue, staring at the door.
+Of course he was there. He was sitting on the floor of the corridor with his back against the wall opposite the clinic door, exactly where he had sat all night twelve days ago with Diablo beside him. Diablo was not beside him now. Diablo had carried Rimuru upstairs to the loft above the closet in Mau and Frieren's east room. A small blue slime lay asleep on his own pillow there, snoring. Diablo sat on a stool at the foot of the loft ladder, keeping watch. Gojo was alone. His knees were drawn up and his arms were round them, and his eyes, without the blindfold, were open, blue, staring at the door.
 
 He got up when it opened. Too fast. He nearly fell.
 

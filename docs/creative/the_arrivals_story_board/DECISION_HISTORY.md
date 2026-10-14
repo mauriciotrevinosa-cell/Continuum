@@ -1342,6 +1342,8 @@ Answers to two questions from the V22–V25 continuity audit.
 
 ## DH-071 — What the coin arrivals know about the Trial (creator, 2026-10-12)
 
+**Later amendment (DH-099, 2026-10-14):** the text below records the earlier draft/knowledge state through Day211. Mau chooses a limited shared disclosure on Day212, V25 #24 All the Years. Seika's cost/debt payoff now happens there; it is no longer a pending first reveal for V26. Earlier secrecy remains true.
+
 The creator asked whether Seika ever learns what Mau went through so that she could come.
 
 - **The text through V25:** no coin arrival has been told what happened inside the Trial. Seika has only what Nijika told her on her first morning: "Not all of it. Enough." (V22 #30). The arrivals who know anything know that there was a Trial; one of them hears the number (V24 #6). The house itself does know what happened in the Trial: Mau told it on the night of Day 5 (V20 "Rule Five" to "The Last Two"), except the Gojo loops, which he never told (V24 "Domain Clash"). The rule is about not passing it on to arrivals.
@@ -1681,3 +1683,17 @@ Creator asks why Ciel can converse with Gojo, requests private Ciel analysis hea
 - Shoko enjoys an afternoon by the river and returns some of the humour Gojo remembers from before Riko's death and the trio's fracture. She likes caring for Mau and also wants to find out what she herself wants. The losses remain real; this is gradual recovery, not erased memory or forced youth. Keep their pace and her unlit cigarette.
 - Rimuru is physically within earshot; Ciel privately relays the Mau discussion. Gojo hears her amusement only when Rimuru lets it out aloud. The Day 157 Anko conversation's first-full-laugh claim is adjusted to preserve this earlier recovery beat.
 - Gojo knows limited private Trial facts from Frieren/Mau; Shoko has no established permission/briefing. Omit Trial disclosure and preserve the coin-arrival privacy rule. CAST_LEDGER_S4 and CANON_TRAPS record the boundary.
+
+
+## DH-099 — Mau's age-joke slip and chosen briefing for later arrivals (creator, 2026-10-14)
+
+Creator proposes Frieren returning Mau's embarrassment, It's your fault, his older-than-Frieren/Milim joke, Gojo/Shoko overhearing over food, the height misunderstanding, and an unthinking Trial/437/coin-origin answer followed by a meeting. Placement is delegated, with permission for V26 or earlier only if later continuity remains consistent.
+
+- Chosen slot: one new V25 chapter, All the Years, Day212 breakfast/afternoon, after Something Cold (Day211) and before Market Day (Day214). All current coin arrivals are present. The soup revelation and Gojo/Shoko coda stay intact; the later pressure/cliffhanger stay intact. Existing four E32 chapter IDs/prose/dates stay; their header/read-order numbers shift one place. V25 has28chapters, S4 index182. No V26 storyline is invented.
+- Frieren's quiet public teasing returns the compliment/embarrassment dynamic; the age claim is a callback, not a first discovery. How Long already estimates subjective Trial time beyond Frieren and Milim. It cannot classify Mau's body or lifespan; no exact upper range or437 full natural lives.
+- Gojo knew437 and limited counterpart facts before breakfast. He did not receive the whole coin-cost explanation. Shoko initially misses older versus taller, then recognises that this is serious. No Gojo mindreading or involuntary Ciel broadcast.
+- The slip is followed by Mau's conscious choice to invite current later arrivals and explain only what he wants to share. Seika, Ram, Gojo, Yuka, Shoko, Coco's mother, Byakuya and Jiji hear the basic death/reset/experienced-time account and the Goddess's later coin reward. Original household knowledge remains distinct. Gojo-loop details are not freshly recounted to everyone.
+- This updates DH-071's secrecy state FROM Day212, not retroactively. Seika's refusal of debt is realised here; the formerly open V26-or-later reveal is superseded. Future arrivals still require permission before expanding disclosure, and private loops/memory access remain protected.
+- Mau did not know the coin reward beforehand and did not enter the Trial to purchase later arrivals. 437 confirmed deaths is not437 confirmed coins. New arrivals do not owe him their lives or compliance. His present relationships and the newcomers' individual ties remain real.
+- Correct the age-joke antecedent's retained outside-time slip in Mimics Found: Three: hours, not days (Rule Five establishes5h41m). The subjective millennia and joke remain.
+- CAST_LEDGER_S4, CANON_TRAPS, production/volume indexes and V25/season plans aligned. Keep Higher Ceilings' Day152 privacy unchanged. Existing reading bookmarks use stable chapter IDs.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 25
-## Chapter 27 — Close the City
+## Chapter 28 — Close the City
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 25  
-**Reading order:** 27  
+**Reading order:** 28
 **Continuity state:** Day 221, breakfast | nobody eats; Mau pours | Eren: 'I want to close the city' — a wall on the line, two gates, a walk on top; no more runs; bring everything inside; 'If they never see us, there's nothing to say' | Brenna: 'Where do we go?' / 'Inside' / 'They keep things in. Both. Always both' | Cobb's sister on the east side | Mikasa: 'You hate walls' / 'I hated walls because I didn't have anything worth keeping in. Now I do' | Himmel: 'I've never been the one who stays' | Rimuru: 'I can draw it... it's the first thing that makes it a city' | Gojo: the box | Mau: 'Not tonight... we talk about it. All of us' | Fern: Proposed: close the city. (Eren.) / Not tonight. (Mau.) — and a whole empty page | 'This one's going to come sooner' | in the woods, every face turned toward the settlement
 
 *When: Day 221, breakfast, an hour after the thing in the road walked back into the woods. Nobody in the house has slept. Rem is pouring anyway. Hollis is still in Fallow and does not know yet. Fern has the ledger open to a clean page, because she knows something is coming, and does not know what.*

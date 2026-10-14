@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 25
-## Chapter 25 — Two on the Ridge
+## Chapter 26 — Two on the Ridge
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 25  
-**Reading order:** 25  
+**Reading order:** 26
 **Continuity state:** Night of Day 218 into Day 219 | two on the ridge; the kitchen knows how now | Eren: 'Smaller's worse... abnormals... wherever there are the most people. Or the smallest' | Gojo beside Aira at the cottages (not in front); Eren to bring the children out | the big one falls at the track; the small one runs straight at the cottages and turns for the running children | Gojo's Blue, a plum now, pulls it off line; Aira cuts the ankle with the old blade | Mikasa from the big one via Milim: the nape, ten paces from where the street begins | 'You did ankles' | the second family leaves: 'Ten paces. I can't' | the bean-girl's mother stays: 'Where else would anybody stand at my door?' | one family, one child | Eren: 'In my world, there was a wall'
 
 *When: The night of Day 218 into the morning of Day 219. Brenna has a scar coming above her left eye and says it suits her. Hollis has taken the patched cart east, to Fallow, the second town, where Pell does not speak yet. Nazuna has kept the north field for fifty-five nights. Two refuge families are left in the cottages on the north road, with three children.*

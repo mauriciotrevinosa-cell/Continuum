@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 25
-## Chapter 26 — The Line
+## Chapter 27 — The Line
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 25  
-**Reading order:** 26  
+**Reading order:** 27
 **Continuity state:** Night of Day 220 | the devil leaves the woods, walks the whole line outside the lime, and stands at the north road ten paces from the last cottage | every face looking | Fern: 'You don't go out' | Ciel: 'It is not trying to come in... It is showing us' | 'Close the gate on them... Starve them out... Give him to us' | Mau stands at the back, in the light, all night, and lets it look; Frieren: 'Let it look at the story. And you stand here and be the person' | Aira through the door: 'He's making it look at him' | dawn: it walks back; the prints stop exactly at the lime | 'The line held. It was never tested.' | Mikasa: 'That's still going in front' / 'It worked' | Eren: 'I'm going to say something at breakfast. And you're going to hate it' / 'I'll hate that you have to say it'
 
 *When: The night of Day 220. One refuge family is left on the north road, with one child. Hollis is in Fallow. Eren has not slept since the titans; Mikasa has not slept since Eren. The steam-mark in the road, ten paces from where the street begins, is still there.*

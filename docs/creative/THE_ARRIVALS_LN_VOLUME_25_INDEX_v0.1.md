@@ -4,7 +4,7 @@
 **Volume:** 25  
 **Season:** 4  
 **Volume title:** **Crystal**  
-**Chapter count:** 27
+**Chapter count:** 28
 
 | # | Chapter |
 |---:|---|
@@ -31,7 +31,8 @@
 | 21 | The Hundred and First |
 | 22 | For Momo |
 | 23 | Something Cold |
-| 24 | Market Day |
-| 25 | Two on the Ridge |
-| 26 | The Line |
-| 27 | Close the City |
+| 24 | All the Years |
+| 25 | Market Day |
+| 26 | Two on the Ridge |
+| 27 | The Line |
+| 28 | Close the City |

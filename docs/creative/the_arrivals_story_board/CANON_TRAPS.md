@@ -39,8 +39,10 @@ not on this list. Add a line every time the creator catches a new slip.
   memories of it (V24 "Domain Clash") to that picture.
 - **The house knows what happened in the Trial.** Mau told it on the night of
   Day 5 (V20 "Rule Five" to "The Last Two"): 437, every time, the loops. He
-  never told the Gojo loops (V24 "Domain Clash"). Arrivals are not told
-  (DH-071).
+  never told the Gojo loops (V24 "Domain Clash"). Later arrivals are not
+  given the inside cost through Day 211 (DH-071), apart from Gojo's limited
+  private exception. Mau chooses a shared disclosure on Day 212 (DH-099);
+  previously untold Gojo-loop details remain private.
 - **Don't date the thing in his shadow to the Sukuna night.** The creator
   isn't sure when it came; the first sign on the page is a night in the
   Muslin (recalled in V23 "Mimics Found: Three").
@@ -122,13 +124,13 @@ not on this list. Add a line every time the creator catches a new slip.
 - **The ink** comes from a notch in the trunk of the ink tree, one bottle a
   week (V22 "Ink"). Never from the leaves.
 - **The Trial:** nobody outside saw it. The 437 deaths were told in V20.
-- **Coin arrivals don't know what the coins cost.** From Day 103 it is the
-  house's quiet rule, never written in the ledger (V22 #31): tell them about
-  the Trial and that the coins came out of it, never what happened inside.
-  Seika has only Nijika's "Not all of it. Enough." (V22 #30). Frieren breaks
-  it once, on purpose, for Gojo (V24 #6). The house itself knows; the rule is
-  only about arrivals. Never let an arrival talk about the cost as if told
-  (DH-071).
+- **Coin-arrival knowledge is dated.** From Day 103 through Day 211, the
+  quiet rule permits broad Trial/reward facts but reserves the inside cost
+  (DH-071). Seika has Nijika's limited explanation; Frieren makes a private
+  exception for Gojo (V24 #6). On Day 212, All the Years (V25 #24), Mau
+  chooses to explain to the current later arrivals. They may refer to THAT
+  account afterward, never inherit every private loop or know it earlier.
+  Future arrivals still require Mau's permission before further disclosure.
 - **The wheel only adapts.** It turns at what hurts him and learns its shape;
   it does not listen, watch, attend, want or speak. Reading, turning toward
   things and the pull toward the gate are **The Noise** (Observe, Analyze,
@@ -305,4 +307,14 @@ not on this list. Add a line every time the creator catches a new slip.
 - Gojo already had to learn reversal, Red/Purple and sustained Infinity. Day 152's door is an untested further direction; the marble of Blue is the only new demonstrated allowance. Never imply he had every Limitless function ready as a baby or had never faced competition. Mimics: Found One's inspection habit concerns boxes he chooses to examine, not universal foreknowledge of every attack/trick.
 - Gojo's assessment of Mau is explicitly incomplete: overlapping systems, unknown capacity, missing requirements and bodily/fuel limits. No universal two-technique brain cap, infinite energy or mastered remote Analyze is established.
 - Shoko is recovering a life of her own as well as caring for Mau. Her old humour and ability to choose an idle afternoon return gradually; grief and memories remain. Do not reduce her to the household's mother/doctor or claim her old world's losses never happened. Her cigarette remains intact. Her Day 157 laugh with Anko is no longer described as the first full laugh since arrival.
-- Shoko does not inherit Gojo's private Trial knowledge. Mine Come With a Filter's explicit coin-arrival secrecy remains; Higher Ceilings does not disclose counts, lifetimes or Trial rules.
+- Shoko does not inherit Gojo's private Trial knowledge. Higher Ceilings (Day 152) does not disclose counts, lifetimes or Trial rules. Her chosen briefing comes from Mau in All the Years on Day 212 (DH-099), not retrospectively from Gojo.
+
+
+## Mau chooses the later-arrival disclosure — DH-099
+
+- All the Years is V25 #24, Day 212, after Something Cold and before Market Day. The four existing E32 chapter IDs/texts/dates remain; only reading-order/header numbers shift to25–28. Close the City remains the last chapter; no V26 plot or wall decision is invented.
+- The older-than-Frieren/Milim banter echoes existing jokes and How Long's lived-time estimate. It is not a new species, biological age, lifespan or longevity guarantee. Some loops are seconds; others years/long elf-route stretches. 437 counts deaths/resets, never437 full lifetimes or total confirmed coins. Mau does not know the private Chloe upper-range possibility.
+- Gojo already knows437 and limited counterpart facts. His question concerns what the time/count/reward mean; never make him discover the number for the first time. Seika already knows broad Trial/coin-origin facts. Original household members do not react as if hearing this for the first time.
+- Mau's accidental breakfast disclosure does not oblige a trauma recital. He then chooses an afternoon meeting and its scope. Ciel watches the guardrails at his request, without probing or broadcasting memories. Eight current coin arrivals hear the chosen account; future disclosure is not automatically unrestricted.
+- Mau did not enter the Trial to buy these people or know the reward in advance. The Goddess called the coins purchased AFTER the Return/Stay window. Newcomers owe no debt, obedience or gratitude performance. Seika's refusal-of-debt payoff occurs here, replacing the former unplaced future reveal.
+- No generic collective pity, new resurrection claim, full Gojo-loop retelling, active power unlock or canon confirmation of437 coins. Earlier secrecy scenes remain historical and true before this meeting.

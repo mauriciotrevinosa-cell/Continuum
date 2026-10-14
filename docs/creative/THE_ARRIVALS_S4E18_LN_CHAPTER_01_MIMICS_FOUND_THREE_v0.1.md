@@ -224,7 +224,7 @@ Mau stopped laughing long enough to look at her.
 
 "You forget," he said, "I'm older than you now."
 
-It was true. Everyone in the house knew it, though nobody said it often. Four hundred and thirty-seven scenarios. Ciel had counted them. Millennia, inside the Trial, though outside it had been days. He had lived longer in there than Frieren had lived in her whole life. He did not remember most of it. But he had lived it.
+It was true. Everyone in the house knew it, though nobody said it often. Four hundred and thirty-seven scenarios. Ciel had counted them. Millennia, inside the Trial, though outside it had been hours. He had lived longer in there than Frieren had lived in her whole life. He did not remember most of it. But he had lived it.
 
 Frieren looked at him for a long moment, soaked, on the floor.
 

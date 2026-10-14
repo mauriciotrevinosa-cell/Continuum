@@ -313,3 +313,10 @@ When Mau is genuinely better, **he independently decides to make a mini tobacco 
 **Anko's reaction, creator:** she is extravagantly offended that he never did this for her; now she is going to decide what to ask him for. Keep that comic grievance and future favour open, rather than silently choosing her request. It is playful familiarity, not a narrator's verdict that Mau never appreciated her, a new romantic claim, or a coin/contract debt.
 
 Development path still open: Ciel can study the intact object; usable living plants/seeds or a separately validated permitted method must be obtained before a garden exists. Do not plant the cured cigarette as though it were a seed, conjure unlimited cigarettes, or have recovering Mau open the guardrails to repay medical care. A small plot takes materials, cultivation and time. Exact chapter/season, location, helpers, first harvest and Anko's eventual request remain unplaced. Preserve the two original cigarettes and the no-existing-local-supply statements until the project actually supplies more.
+
+
+## Age joke -> later-arrival Trial briefing (creator, 2026-10-14; PLACED, DH-099)
+
+Creator offered flexible placement before S4's close, potentially V26: Frieren teases Mau back, says It's your fault; he jokes about being older than her/Milim; Gojo/Shoko overhear while eating, Shoko initially reads bigger as taller, and Mau unthinkingly names the Trial/437/coin reward. Mau then chooses to explain to the later arrivals.
+
+**Implemented:** All the Years, V25 #24, Day212, after all current coin arrivals are here and before Market Day. Keep the living-time/biological-age distinction, dated knowledge gates, no debt and the privacy of unshared memories. The Seika-cost reveal is now realised, not pending for V26. Do not write this as a second first revelation later.

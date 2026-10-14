@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 25
-## Chapter 24 — Market Day
+## Chapter 25 — Market Day
 
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 25  
-**Reading order:** 24  
+**Reading order:** 25
 **Continuity state:** Day 214 | Ashby's gate: the reeve's order, 'untraceable goods' / 'I've got a family' | Pell walks out with the crowd: 'There's no old woman on the coast road' | Hollis: 'From people' / 'So you admit it' / 'I admit it' | a stone; cream and honey in the dust | Brenna in front of the cart, hit above the eye, gets up with empty hands: 'Don't. These are your neighbours' | Cobb, Tam, Aldric, Wren beside her, weapons across, not raised / 'Just standing here' | three chimneys saved like eggs | Pell afraid, not of them | Merren touches the cart | Mikasa: 'One day you're the person in front' | the woods: almost every face looking; Pell's voice from its mouth | 'Somebody's writing his pages. And he's afraid of whoever it is'
 
 *When: Day 214, the fifth run to Ashby. Jiji has stopped wearing the blanket and started following Okarun everywhere, which Okarun says is worse. Byakuya and Senku have a telescope lens half ground. Coco's mother has learned the names of everyone at the long table and uses them. It is midsummer, hot and still.*

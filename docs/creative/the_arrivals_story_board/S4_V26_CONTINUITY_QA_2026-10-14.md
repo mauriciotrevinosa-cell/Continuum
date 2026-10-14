@@ -18,3 +18,12 @@
 Run the companion scoped validation before commit, then commit/push only these story files. Reader verification must follow the pushed commit: resync the Git-backed project, compare all30 served chapter bodies and the age fix to committed/local text, and check the web's V26 listing plus first/last chapter routes. Record actual results in the delivery log; do not infer web freshness from a successful local write.
 
 Remaining limitation: these are new creative production drafts awaiting the creator's reading and judgement. Continuity review does not substitute for that review. S5 remains pending and unwritten.
+
+## Recorded results — 2026-10-14
+
+- Local validation PASS: all26 active volume indexes and742 chapter orders/titles agree; S4 has212 chapters, V26 has30 unique ordered chapters, Days221–262. All30 production files exactly match the reviewed workspace prose after newline/trailing-space normalisation. No S5 prose exists. The V24 age repair differs from its prior text only in the intended dialogue/metadata and whitespace.
+- Scoped staging matched the41-file story-only manifest; staged whitespace check passed. Existing unrelated provider/API/web changes were excluded.
+- Story payload committed and pushed as `0ffb261567304e652742ffb634c14f696329d376` on `m3/critical-path`; remote divergence0/0.
+- Git-backed reader resync fetched origin/m3/critical-path. All30 new chapter bodies, V26 index and repaired V24 chapter matched local text (32 exact body comparisons), with DRAFT lifecycle preserved.
+- Web verified: series summary26volumes/742chapters; all30 V26 links present; first/last reader pages HTTP200 with visible prose and correct previous/next navigation. No S5 next chapter.
+- This QA record is a later documentation-only update; it does not change the reviewed story payload. Creator reading/approval remains open.

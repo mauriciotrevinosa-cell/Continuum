@@ -320,3 +320,16 @@ Development path still open: Ciel can study the intact object; usable living pla
 Creator offered flexible placement before S4's close, potentially V26: Frieren teases Mau back, says It's your fault; he jokes about being older than her/Milim; Gojo/Shoko overhear while eating, Shoko initially reads bigger as taller, and Mau unthinkingly names the Trial/437/coin reward. Mau then chooses to explain to the later arrivals.
 
 **Implemented:** All the Years, V25 #24, Day212, after all current coin arrivals are here and before Market Day. Keep the living-time/biological-age distinction, dated knowledge gates, no debt and the privacy of unshared memories. The Seika-cost reveal is now realised, not pending for V26. Do not write this as a second first revelation later.
+
+## S5+ — A status screen for everyone (creator seed, 2026-10-14; OPEN)
+
+**Creator's idea:** a Solo Leveling style screen that shows each person how far they are toward their 100%, and what is still locked or already unlocked.
+
+**What already exists:** synchronisation 0–100% (DH-041; SYSTEMS_REGISTRY A1) is the right base. By design, no percentage has ever appeared in LN prose; every number in the registry is a Claude proposal until the creator sets it. Mau is not on the scale (A2).
+
+**Claude's proposal (awaiting seconding):**
+- **Tie it to the dungeon System** (the S5 shadow ant / Exchange seed). Only that dungeon has the System. After the seed, The Noise reads the System and Ciel translates it into a screen. The screen does not appear before that.
+- Each person sees their own synchronisation. Show categories (unlocked / locked / "a requirement missing") rather than every number, so the registry is not frozen into canon all at once.
+- Comedy and relationships: Bocchi at 100% because the world never felt her as a threat; Milim slow because she plays; people comparing screens at the long table.
+- **Mau's screen does not fit the format** ("???" or an error), because he is not on the scale. This is a hook, not an answer.
+- **Open for the creator:** does everyone see a screen, or only in the dungeon, or only through Mau and Ciel? Do the numbers show, or only the categories? Placement: after the Exchange in S5, or later?

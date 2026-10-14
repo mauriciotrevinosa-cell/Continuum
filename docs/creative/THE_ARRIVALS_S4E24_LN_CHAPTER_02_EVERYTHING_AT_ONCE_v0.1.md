@@ -20,7 +20,29 @@ Frieren did not answer.
 
 Frieren stood at the fence with her wrist in Milim's hand and looked down the slope at the south field.
 
-Ori was behind her, in the refuge cellars, with the fort. Frieren had carried her there herself. She had put her down at the bottom of the cellar stair with her two small cars and her grey stone clutched to her chest, and Umaru's arms round her, and turned round and run. She had not looked back. She had not been able to look back. And now she was at the fence, with Milim holding her wrist, and she was looking at the only thing in either world she could not stop looking at.
+Ori was behind her, in the refuge cellars, with the fort. Frieren had carried her there herself.
+
+"We have to help Dad," Ori had said, at the foot of the main stair. The cars and the stone were clutched against her chest. She was looking toward the open front door, where Gojo had taken Mau. "We can't leave him."
+
+Frieren had stopped.
+
+She wanted to put Ori down. To run after them. Every sound from the yard made it harder to take another step toward the refuge.
+
+She held Ori more securely instead.
+
+"I know," she said. "Gojo and Rimuru are with him."
+
+"But we have to—"
+
+"I promised him I'd get out with everyone." Frieren's voice shook. She could not make it stop. "I have to get you somewhere safe."
+
+Ori shook her head. "He's still there."
+
+"I know."
+
+Frieren kept walking. Through the north door, toward the cellar stair. Ori was crying against her shoulder. Frieren did not tell her he would be all right. She did not know that. She carried her because she had promised him, and because Ori needed someone to carry her even while she asked to go the other way.
+
+At the bottom of the cellar stair, Umaru took Ori into her arms, cars and stone and all. Only then did Frieren turn and run back to the line. And now she was at the fence, with Milim holding her wrist, and she was looking at the only thing in either world she could not stop looking at.
 
 Gojo had laid him down in the middle of the field.
 

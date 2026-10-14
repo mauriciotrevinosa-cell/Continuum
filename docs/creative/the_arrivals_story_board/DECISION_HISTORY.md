@@ -1623,3 +1623,12 @@ Creator asks whether the house is destroyed, flags the flower total and Rimuru's
 - Flower audit: FIVE kept flowers after the date. Four older trial flowers are in the grimoire; the fifth is in Frieren's hoodie pocket. The crisis now explicitly accounts for both locations; cleanup explicitly gathers all five. Do not replace the correct earlier four-flower count before the fifth is picked. CANON_DIGEST and CANON_TRAPS now record this storage timeline.
 - Nearby corrections: Gojo's remark is from their last lesson, not yesterday during Mau's uninterrupted sleep; remove the remaining certainty that Mau would have tamed the dog alone; Shoko metadata matches actual Arrival House intake before clinic; the third night is counted from the bell, not necessarily from waking; Something Wet's single reset ritual occurs before they return to bed, without a second reset hour.
 - Preserve the threat's gravity: making it through the front door is a limited act of agency, not mastering the breach or removing the need for rescue, containment, medical care and aftermath.
+
+
+## DH-093 — Frieren carries Ori out despite wanting to help Mau (creator, 2026-10-13)
+
+Creator requests that the evacuation explicitly show Ori, not an anonymous child: Ori asks to help Mau; Frieren takes her to safety against her own urge to return because she promised Mau to evacuate with everyone.
+
+- Looking at the Walls names Ori immediately, preserving her two cars and tidepool stone. Mau hears her call to help Dad through the bell; he does not gain access to Frieren's unheard answer or private thoughts.
+- Everything at Once gives Frieren's view of that same moment: she wants to put Ori down and run after Mau, but holds her securely and carries her through the north exit to the refuge. She states the existing evacuation promise and names Gojo/Rimuru's help without guaranteeing survival.
+- Ori protests and cries; she is not a replacement or extra child. Umaru receives her in the cellar, with the toys and stone; Frieren returns only to the safe line, where Milim upholds the existing promise. Preserve Mau's effortful front-door exit, outdoor transport and crisis, household routes and later object continuity.

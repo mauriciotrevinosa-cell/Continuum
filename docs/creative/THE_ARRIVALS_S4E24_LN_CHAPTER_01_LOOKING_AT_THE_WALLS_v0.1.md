@@ -194,7 +194,11 @@ Through the eyes, still open, still looking in, Mau saw nothing of the yard. He 
 
 He felt the fort, in a body, in hoods, going out through the north door of the real house toward the refuge cellars, exactly the way Umaru had drilled them. Thirty of them. He could count them. He did not want to count them. He counted them.
 
-He felt Frieren, at the bottom of the main stair, with a child in her arms. Ori. Holding something in her own fists, two small cars and a grey stone, pressed against her chest. Being carried out of the house by an elf who was not looking back.
+He felt Frieren, at the bottom of the main stair, carrying Ori. Ori had the two small cars and her grey stone pressed against her chest.
+
+"We have to help Dad." Her voice reached him through the bell. "Frieren. We have to help him."
+
+He did not hear Frieren's answer. The bell took it. He felt her stop, for one moment, before she carried Ori toward the north door and the refuge cellars. Away from him.
 
 He felt the witches, all seven, coming out of the north wing into the dawn. Not running. Walking. Toward the south field. Toward where Gojo was carrying him.
 

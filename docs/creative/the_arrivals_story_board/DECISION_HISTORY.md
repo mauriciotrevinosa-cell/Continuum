@@ -1711,3 +1711,12 @@ The creator asks to finish S4 from Claude's GitHub handoff, improving/expanding 
 ## DH-101 — Mau's unknown actual age in Are You With the Elf (continuity repair, 2026-10-14)
 
 Creator previously asks whether "Younger" is a lie/error and whether Yuka's sibling bond survives the explanation. No intentional lie was established. Minimal Day155 dialogue/metadata correction: he looks younger but does not know his actual age; Yuka notes people usually know that. The long-sneeze joke and sibling/Frieren resolution remain. No early Trial account, biological classification, mortality limit or relationship reset. Later How Long/All the Years accumulated-time account still stands. No other earlier scene is rewritten.
+
+## DH-102 — Titan boundary and both informed faces (creator, 2026-10-14)
+
+Creator catches two connected V25 continuity problems: titans must stay outside the settlement's active protection; telling only Rimuru contradicts the two idiots who accepted. Mau should receive the report, choose to stay awake for an emergency, and remain inside under limits agreed with Shoko, the household and himself.
+
+- Night Shift: replace secrecy/let-him-sleep-until-over with Rimuru/Fern's advance briefing in the east room. Mau chooses awake/inside/no techniques and timely updates. Both faces informed; no draft into fighting or restoration of powers. Not Like Him metadata matches; Thirteen Years now follows all-clear, a short chosen rest and further detail, never retroactive approval of concealment.
+- Two on the Ridge: both faces informed; families moved deeper inside before dawn. Gojo/Aira intercept at the north approach outside the lime, keeping the field team's way home open. No titan crosses protection, no children baited outside; Aira returns inside before the child's hug. Keep ankle/Blue/nape teamwork, Eren's untransformed role, fear, family choice and relationship beats.
+- Ten-paces motif is anchored outside the protected line, not an undocumented inside breach. The Line/Close the City echoes agree. Wall motive includes exposed workers/routes and previously demonstrated withdrawal of protection; no claim the titan already penetrated it. This does not grant universal safety on roads or remove the threat of a later withdrawn protection.
+- Chapter IDs, volume/order/counts unchanged. No S5 prose. This is a scoped published-prose continuity repair, separate from the saved full S5 proposal.

@@ -1,14 +1,16 @@
 # The Arrivals — Light Novel — Volume 25
 ## Chapter 4 — Not Like Him
 
-**Status:** LN PRODUCTION DRAFT — S4 v0.1  
-**Volume:** 25  
-**Reading order:** 4  
+**Status:** LN PRODUCTION DRAFT — S4 v0.1
+**Volume:** 25
+**Reading order:** 4
 **Continuity state:** Day 172, dawn | Stark shaking, Himmel 'I brushed my hair' | the heel and the knee; it falls | Milim drops Mikasa on its back | it catches Himmel and lifts him to its mouth | Eren's hand an inch from his teeth: he keeps the promise; Mikasa sees | the nape; Milim catches Himmel: 'Gently' | it steams away; Rimuru's shadow thread: 'It's empty... a hunger in the shape of a man' / 'Every titan I ever killed was a person once' / 'This one was never anyone' | Fern: 'Brought?' | Ciel looks at Eren: the root goes down into nothing; 'Nothing is counting... as old as you get' | he walks away; Mikasa lets him: 'He'll come and find me' | Frieren: 'It gets harder at the very end' | Mikasa leaves Aira the old blade with the nick
 
-*When: Day 172, dawn, the north field. Aira is on a cottage step with Mikasa's old blades across her knees. Mau is asleep in the east room and does not know. Frieren is at the red stake with her staff, and has not said a word since she came out.*
+*When: Day 172, dawn, the north field. Aira is on a cottage step with Mikasa's old blades across her knees. Mau is awake and informed in the east room, keeping the recovery limits he agreed to. Frieren is at the red stake with her staff, and has not said a word since she came out.*
 
 The titan came down the ridge.
+
+The ridge and the foot of the shepherd's track lay outside the marked protection. The families remained inside it. Anyone fighting in the grass below the ridge would be outside too.
 
 It did not run, at first. It walked. Stiffly, the way something walks that has been standing still all night and has not quite remembered how legs work. It came down the shepherd's track off the crest of the ridge in the first gold light, enormous, pale, with its arms swinging loosely at its sides and its head tilted, and its wide flat smiling face turned toward the north field. Toward the people in it.
 

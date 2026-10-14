@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 25
 ## Chapter 3 — Night Shift
 
-**Status:** LN PRODUCTION DRAFT — S4 v0.1  
-**Volume:** 25  
-**Reading order:** 3  
-**Continuity state:** Night of Day 171 into dawn of Day 172 | Nazuna on the red stake, ninth night: a shape on the north ridge | three storeys, naked, smiling, eyes open, facing south: 'a person who forgot how' | Anko, then Fern, then Eren: 'Titan... They eat people... always smiling' | still until the sun; three hours | the kitchen at three: the nape; Milim: 'I can carry you'; Himmel: bring it down first; Rimuru needs its shadow; Fern: 'You don't transform. Promise me' / 'I promise'; Mau sleeps | Aira on the cottage step; Mikasa gives her the old blades: 'Behind you. Everyone' | first light: its head turns, its smile widens
+**Status:** LN PRODUCTION DRAFT — S4 v0.1
+**Volume:** 25
+**Reading order:** 3
+**Continuity state:** Night of Day 171 into dawn of Day 172 | Nazuna on the red stake, ninth night: a shape on the north ridge | three storeys, naked, smiling, eyes open, facing south: 'a person who forgot how' | Anko, then Fern, then Eren: 'Titan... They eat people... always smiling' | still until the sun; three hours | the kitchen at three: the nape; Milim: 'I can carry you'; Himmel: bring it down first; Rimuru needs its shadow; Fern: 'You don't transform. Promise me' / 'I promise'; Mau is told before dawn and chooses to remain awake inside under the agreed recovery limits | Aira on the cottage step; Mikasa gives her the old blades: 'Behind you. Everyone' | first light: its head turns, its smile widens
 
 *When: The night of Day 171, into the hour before dawn on Day 172. Nazuna has kept the north field for eight nights; Anko the south. Frieren has a compass that points at her and will not say where she got it. The refuge families are down to three, with four children, in the cottages along the north road.*
 
@@ -226,11 +226,37 @@ Fern wrote it in the ledger. *E. does not transform. Promised.* Then she looked 
 
 "Mau stays in," said Fern.
 
-Nobody argued.
-
 "He's asleep," said Rimuru quietly. "He doesn't know yet."
 
-"Good," said Fern. "Let him sleep. He'll know when it's over." She stood up. "First light. Positions in two hours."
+Fern closed the ledger halfway, then opened it again.
+
+"Then we tell him. Staying in isn't the same as being left out." She looked at the clock. "First light. Positions in two hours. I'll come upstairs with you."
+
+
+
+Mau sat up when Rimuru knocked at the east-room door.
+
+Frieren reached for the lamp. Rimuru waited until Mau had put both feet on the floor, then told him about the ridge. Fern stood beside him with the open page. Where the titan was. What Eren had said. The team they were putting outside at dawn. The cottages staying behind the protected boundary.
+
+Neither of them made it sound harmless. Neither asked him to come and fix it.
+
+Mau listened until Fern finished.
+
+"Okay," he said. "I'll stay awake. If there's an emergency, tell me straight away."
+
+"We're not asking you to fight," said Rimuru.
+
+"I know. Shoko hasn't cleared me. We all agreed, and I agreed too. I'm staying inside. No techniques." He looked at the page. "But keep telling me what's happening. Don't wait until it's over because you think it'll make it easier."
+
+Rimuru nodded.
+
+"Both of us."
+
+"Both," said Mau.
+
+Fern made a small mark beside the watch list. Informed. Staying inside.
+
+Frieren put the water within reach of the bed before she went to dress. Mau asked where Aira would be, and Fern showed him. He stayed seated while they answered. He did not reach for his shoes.
 
 
 
@@ -246,7 +272,7 @@ Mikasa. With her blades. She did not say anything. She sat down on the cold step
 
 They had not talked much, the two of them. In all the time they had been in the house. They were not alike. Aira was loud and fierce and had opinions about everything, and Mikasa did not talk at all if she could help it. But they had stood at the back of the same crowds. They had walked the same edges, on the same nights, with their eyes on the dark. They had both, at one time or another, in the plaza and on the road and at the bell, stood in front of a door with someone behind it.
 
-"If it gets past us," said Mikasa quietly, "it comes here first."
+"The cottages stay inside the protection," said Mikasa quietly. "If it gets past the field team, you keep the families back from the boundary. Nobody runs outside to help us."
 
 "I know," said Aira.
 
@@ -258,7 +284,7 @@ Mikasa looked at her.
 
 Aira was looking at the road. Her face was set. Her jaw was set. She was afraid. Mikasa could see that. She was very afraid, and she was sitting on the step anyway, with her arms folded, facing north.
 
-"Nobody gets past me," said Aira. "Not to these doors." She did not look round. "I don't care how tall it is."
+"Nobody goes out past me," said Aira. "Not while that thing is there." She did not look round. "I don't care how tall it is."
 
 Mikasa did not say anything for a long moment.
 

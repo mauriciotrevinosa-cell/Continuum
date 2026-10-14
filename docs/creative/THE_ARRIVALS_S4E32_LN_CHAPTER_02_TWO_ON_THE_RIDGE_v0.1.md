@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 25
 ## Chapter 26 — Two on the Ridge
 
-**Status:** LN PRODUCTION DRAFT — S4 v0.1  
-**Volume:** 25  
+**Status:** LN PRODUCTION DRAFT — S4 v0.1
+**Volume:** 25
 **Reading order:** 26
-**Continuity state:** Night of Day 218 into Day 219 | two on the ridge; the kitchen knows how now | Eren: 'Smaller's worse... abnormals... wherever there are the most people. Or the smallest' | Gojo beside Aira at the cottages (not in front); Eren to bring the children out | the big one falls at the track; the small one runs straight at the cottages and turns for the running children | Gojo's Blue, a plum now, pulls it off line; Aira cuts the ankle with the old blade | Mikasa from the big one via Milim: the nape, ten paces from where the street begins | 'You did ankles' | the second family leaves: 'Ten paces. I can't' | the bean-girl's mother stays: 'Where else would anybody stand at my door?' | one family, one child | Eren: 'In my world, there was a wall'
+**Continuity state:** Night of Day 218 into Day 219 | two on the ridge; the kitchen knows how now | Eren: 'Smaller's worse... abnormals... wherever there are the most people. Or the smallest' | Mau informed and awake inside; Gojo beside Aira outside the protected north boundary (not in front); Eren moves the children deeper inside | the big one falls at the track; the small one runs toward the north road and is intercepted outside the protected boundary; children already inside the house | Gojo's Blue, a plum now, pulls it off line; Aira cuts the ankle with the old blade | Mikasa from the big one via Milim: the nape, ten paces outside the protected line | 'You did ankles' | the second family leaves: 'Ten paces. I can't' | the bean-girl's mother stays: 'Where else would anybody stand at my door?' | one family, one child | Eren: 'In my world, there was a wall'
 
 *When: The night of Day 218 into the morning of Day 219. Brenna has a scar coming above her left eye and says it suits her. Hollis has taken the patched cart east, to Fallow, the second town, where Pell does not speak yet. Nazuna has kept the north field for fifty-five nights. Two refuge families are left in the cottages on the north road, with three children.*
 
@@ -22,6 +22,8 @@ Then she went south, fast, for Anko.
 
 The kitchen was full by two.
 
+Rimuru had told Mau on the way down. He had listened from the east-room bed, asked where the families were, and said he would stay awake until they came back. Inside, with the filter and every recovery limit still in place. He had asked to be told if anything changed. Rimuru had agreed. Nobody confused that with asking him to fight.
+
 It was a different kitchen from the first time. Nobody was surprised. Nobody had to be told what a titan was, or how it moved, or where to cut. They came down the stairs in the dark already dressed, already carrying what they needed, and sat down at the table, and Diablo poured tea, and Fern opened the ledger to a page she had written on the first titan night. *Titans. How.* In her small upright hand. The heel. The knee. The nape. Milim carries. Rimuru's shadow at dawn.
 
 "Two," said Fern.
@@ -38,7 +40,7 @@ He was sitting at the end of the table beside Mikasa. Very still. His hands flat
 
 The kitchen was quiet.
 
-"Where are the most people?" said Fern. "Outside the line."
+"What do we move first?" said Fern.
 
 Nobody answered.
 
@@ -46,19 +48,11 @@ Then Aira, at the far end, in her big coat, with the old blade with the nick in 
 
 The two cottages on the north road. Forty paces from where the street ran out. Outside the house. Inside the line. With two families in them, and three children.
 
-"Inside the line," said Rimuru. "The protection—"
+"Inside the line," said Rimuru. "They stay protected. Move them deeper into the house anyway. No one goes out to look, and no child follows somebody who's fighting."
 
-"Has never been tested on one of those," said Anko.
+"It can still run along the outside," said Anko. "Past the people we've put in the field."
 
-Nobody said anything for a long moment.
-
-"Then we don't let it get there," said Mikasa.
-
-"And if it does?" said Aira.
-
-Mikasa looked at her across the table.
-
-"Then you're there," she said.
+"Then you're at the north approach," said Mikasa to Aira. "On the outside, beside Gojo. Keep the return path open. The cottages stay behind you, inside the protection."
 
 Aira did not say anything. She looked down at the old blade across her knees. Then she nodded.
 
@@ -68,17 +62,17 @@ He had come down last. He was leaning in the kitchen doorway with his blindfold 
 
 Fern looked at him.
 
-"Not in front," said Gojo, before she could say it. "Beside." He tilted his blindfolded face toward Aira. "Beside her. At the cottages. If the small one runs, it runs at her. And I'll be beside her." He paused. "I can't kill it. I can barely make a marble. But nothing touches me. And nothing touches anyone standing behind me." He shrugged. "So I'll stand there. Beside the door. And she can cut whatever comes."
+"Not in front," said Gojo, before she could say it. "Beside." He tilted his blindfolded face toward Aira. "Beside her. Outside the line. If the small one runs past the field team, we keep it away from the way home. And I'll be beside her." He paused. "I can't kill it. I can barely make a marble. But nothing touches me. I can get between it and her while she cuts. I can do that much." He shrugged. "So I'll stand there. Beside the approach. And she can cut whatever comes."
 
 Fern looked at him for a long moment.
 
-Then she wrote it down. *Gojo: cottages. Beside Aira. (Not in front.)*
+Then she wrote it down. *Gojo: north approach, outside the line. Beside Aira. (Not in front.)*
 
 "Eren," said Fern.
 
 Eren looked up.
 
-"The cottages too," said Fern. "Not the field." She did not look away from him. "If the small one runs, the children have to come out of the cottages and into the house. Fast. In the dark. Somebody they know has to bring them. Somebody who knows exactly how fast those things run." She paused. "That's you."
+"The cottages too," said Fern. "Not the field." She did not look away from him. "Before the small one runs, the children come out of the cottages and into the house. Deeper inside the protection. Before dawn. Somebody they know has to bring them. Somebody who knows exactly how fast those things run." She paused. "That's you."
 
 Eren looked at her.
 
@@ -98,7 +92,7 @@ The first light came at ten to six, the way it always did now that it was summer
 
 They were in position. Rimuru at the north end with his shadow stretched across the frost-less grass toward the ridge. Anko. Nazuna overhead. Himmel and Stark in the long grass at the foot of the track. Milim and Mikasa behind them. Frieren at the red stake with her staff. Yuta beside her, with the ring, and his cursed energy up, very thin, very steady.
 
-And at the cottages on the north road, forty paces from where the street ran out: Aira, on the step of the bean-girl's cottage, with the old blade out. Gojo beside her, with his hands in his pockets and his blindfold pushed up. And Eren, at the door of the other cottage, with his hand on the latch, and two families inside who had been woken at five and told to dress the children and wait.
+Beyond the cottages on the north road, Aira stood at the verge ten paces outside the lime, with the old blade out. Gojo was beside her, with his hands in his pockets and his blindfold pushed up. Eren had brought the two families to the house before the team went out, along the protected road. Now he stood just inside the lime, watching the return path. The cottages were empty; the children were farther inside.
 
 The light touched the ridge.
 
@@ -114,7 +108,7 @@ It came off the ridge all at once, as if something had been let go. Smaller than
 
 Straight at the cottages.
 
-"*Abnormal*—" Eren's voice came up the road from the second cottage, high and cracked. "*It's going for the cottages, it's—*"
+"*Abnormal*—" Eren's voice came from inside the boundary, high and cracked. "*It's going round the field team, it's—*"
 
 "*I see it*," said Mikasa. She was already moving. "*Milim—*"
 
@@ -122,7 +116,7 @@ Straight at the cottages.
 
 Mikasa stopped.
 
-She stood in the north field with both grey blades out and looked at the small titan running across the open ground toward the cottages. Toward Aira on the step. Toward Eren at the door. Toward the children.
+She stood in the north field with both grey blades out and looked at the small titan running across the open ground toward the cottages. Toward Aira and Gojo at the exposed approach. Toward the way the field team would have to come home.
 
 Then she looked at the big one, coming down the track, reaching for Himmel and Stark.
 
@@ -134,7 +128,7 @@ Milim took her.
 
 
 
-At the cottages, Aira stood up off the step.
+At the north approach, Aira rose from the road verge. The lime was behind her. She and Gojo were outside it.
 
 The small titan was coming. She could see it. Across the open ground, its long thin arms swinging, its head thrown back, its smile. Two hundred paces. A hundred and fifty. It was faster than anything she had ever seen. Faster than Turbo Granny. Faster than Okarun at his fastest, when the speed was in his legs.
 
@@ -150,7 +144,7 @@ It was not boring.
 
 He was beside her. Not in front. Beside. A pace to her left. With his hands in his pockets and his blindfold pushed up and his bare blue eyes on the titan running at them.
 
-"It's going to reach the door," said Aira.
+"It's going to reach us," said Aira.
 
 "It's going to try," said Gojo.
 
@@ -160,17 +154,15 @@ He was beside her. Not in front. Beside. A pace to her left. With his hands in h
 
 The titan was a hundred paces away.
 
-Behind them, the door of the second cottage banged open. Eren. With a child on his hip, and the bean-girl by the hand, and a mother behind him with another child, running. Up the road. Toward the house. Toward the place where the street began.
+Behind them, inside the line, Eren saw the small one's change of course and called the last watch volunteer farther back. The children were already at the house. Nobody ran out from a cottage.
 
-"*Run*," Eren was saying. "*Don't look back. Don't look at it. Just run.*"
+The titan's head turned toward the road. Toward the figures it could still see inside the protection. It could approach them from outside; it could not cross the boundary to reach them.
 
-The titan's head turned.
-
-Toward them. Toward the running children. Toward the most people, and the smallest.
+But Aira and Gojo were on its side of the lime, and so was the field team's way home.
 
 It changed direction.
 
-Not toward Aira's door. Toward the road. Toward the children running up it. Fifty paces. Forty.
+Toward the road. Toward the figures beyond the line it could not cross. Across the place where Aira and Gojo were standing. Fifty paces. Forty.
 
 "*No*—" said Aira.
 
@@ -180,19 +172,19 @@ Not in front. Not away from her. Sideways. Into the gap between the road and the
 
 Not a marble. Bigger. The size of a plum. Blue. Deep blue. And it pulled.
 
-The titan's leading foot, coming down, went sideways. A hand's breadth. Two. Pulled toward the blue. Its whole long thin body swerved, mid-stride, off the line it had been running, away from the road, toward Gojo. Toward the step. Toward Aira.
+The titan's leading foot, coming down, went sideways. A hand's breadth. Two. Pulled toward the blue. Its whole long thin body swerved, mid-stride, off the line it had been running, away from the road, toward Gojo. Toward the verge. Toward Aira.
 
 "*Now*," said Gojo.
 
 Aira went.
 
-She did not think. She did not have time. She came down off the step as the titan's foot came down beside it, enormous, shaking the ground, and she went in low under its swinging arm, the way Mikasa went under things. And she cut. With the old blade. With the nick in the left. At the back of its ankle. At the cord. The way Eren had said, in the kitchen, on the first titan night.
+She did not think. She did not have time. She came forward from the verge as the titan's foot came down beside her, enormous, shaking the ground, and she went in low under its swinging arm, the way Mikasa went under things. And she cut. With the old blade. With the nick in the left. At the back of its ankle. At the cord. The way Eren had said, in the kitchen, on the first titan night.
 
 The steel went in.
 
 All the way.
 
-Steam burst out, white and hot, and the titan's leg went out from under it, and it fell. Forward. Sideways. Onto its long thin arms. Onto its face. Into the road. Ten paces from the place where the street began. Ten paces from the children running.
+Steam burst out, white and hot, and the titan's leg went out from under it, and it fell. Forward. Sideways. Onto its long thin arms. Onto its face. Into the road. Ten paces outside the lime. Its outstretched hand stopped short of the protected ground.
 
 It lay there for a moment, in the road, with its smiling face in the dust. Its arms were already moving. Its ankle was already steaming, healing.
 
@@ -214,7 +206,7 @@ The small titan stopped.
 
 Its head dropped back into the dust of the road. Its smile went slack. Its long thin arms went still. Steam began to pour off it, white and thick, rolling up the road toward the house.
 
-Ten paces from where the street began.
+Ten paces outside the protected line.
 
 
 
@@ -238,9 +230,9 @@ Aira looked at the blade in her hand. At the nick in the left. At the steam comi
 
 "Yeah," said Gojo. He looked at the titan, almost gone. "Yeah. I guess that was a threat."
 
-Up the road, at the place where the street began, Eren had stopped running.
+Inside the line, Eren had not moved from his watch place.
 
-He was standing with a child on his hip and the bean-girl's hand in his, and the mother behind him, and the other family behind her, all of them, in the road, at the very edge of the settlement. They had made it. The street was ten paces behind them. The house was behind that.
+The children and their parents were at the house. They had stayed on protected ground the whole way. He looked back once to make sure nobody had followed him, then looked out at the returning team.
 
 He had turned round.
 
@@ -250,9 +242,9 @@ At how close it had come.
 
 Ten paces.
 
-He did not say anything. His face was white. He stood there in the road with a child on his hip and a little girl holding his hand, and he did not move, and he did not say anything at all.
+He did not say anything. His face was white. His hands were empty. He had brought the children to safety before dawn, and still he had had to watch people he loved stand on the other side of the line. He did not move until Mikasa waved him back.
 
-The bean-girl looked up at him.
+When the team had come back across the lime, Eren walked with them to the house. The bean-girl looked up from the step.
 
 "Is it gone?" she said.
 
@@ -268,11 +260,11 @@ Eren looked down at her.
 
 "Yes."
 
-The bean-girl considered this. Then she let go of his hand and ran back down the road, through the last of the steam, to where Aira was kneeling in the dust, and threw her arms round Aira's neck.
+The bean-girl considered this. Then she ran the few steps to where Aira had sat down inside the protection, away from the last of the steam, and threw her arms round Aira's neck.
 
 Eren watched her go.
 
-He did not follow. He stood at the very edge of the settlement, at the place where the street began, with the other child still on his hip. And he looked at the road. At the open ground beyond it. At the ridge. At the patch of black earth at the foot of the track where the big one had been, and the new patch in the road where the small one was going. At the line of lime across the bridge road, that the Goddess's protection stopped at, that had never been tested on one of those.
+He did not interrupt them. Once the mother had taken her daughter back inside, he returned to the north watch place. And he looked at the road. At the open ground beyond it. At the ridge. At the patch of black earth at the foot of the track where the big one had been, and the new patch in the road where the small one was going. At the line of lime across the bridge road, where the Goddess's protection began. The titan had never crossed it.
 
 Ten paces.
 
@@ -284,11 +276,11 @@ She stopped in front of him.
 
 He did not look at her. He was looking at the road.
 
-"It came through the gap," he said. Very quietly. "Between the field and the cottages. There's nothing there. Just open ground. It ran straight through." He swallowed. "If Gojo hadn't been there. If Aira had been a second slower." He looked down at the child on his hip. "Ten paces."
+"It came through the gap," he said. Very quietly. "Between the field and the cottages. There's nothing there. Just open ground. It ran straight through." He swallowed. "If Gojo hadn't been there. If Aira had been a second slower." He looked out at the place where they had been fighting. "Ten paces outside."
 
 "I know," said Mikasa.
 
-"There's nothing between them and us," said Eren. "Nothing at all. Just a line of lime that nobody knows if it works. And open ground." He was very still. "In my world, there was a wall."
+"There's protection between them and the houses," said Eren. "Not between them and anyone working out there. And it belongs to her. We've already seen her withdraw it." He was very still. "In my world, there was a wall."
 
 Mikasa did not say anything.
 
@@ -304,17 +296,17 @@ They went south, toward the ford and the river towns, where nobody knew what the
 
 The bean-girl's family did not go.
 
-Her mother came out of the first cottage while the other cart was being loaded. She stood on the step where Aira had stood that morning, with her arms folded, and watched. When the cart had gone, she turned round and looked at Aira, who was sitting on the woodpile at the end of the road with the bean-girl in her lap, cleaning the old blade with a rag.
+Her mother came out of the first cottage while the other cart was being loaded. She stood on the step Aira had watched on the first titan night, with her arms folded, and watched. When the cart had gone, she turned round and looked at Aira, who was sitting on the woodpile at the end of the road with the bean-girl in her lap, cleaning the old blade with a rag.
 
 "We're staying," said the bean-girl's mother.
 
 Aira looked up.
 
-"She's safe here," said the mother. Her voice was not quite steady. "Safer than anywhere. You stood at my door. Twice. In the dark, with a lantern, and then this morning with that." She nodded at the blade. "With a titan coming." She looked at her daughter in Aira's lap. "Where else would anybody stand at my door?"
+"She's safe here," said the mother. Her voice was not quite steady. "Safer than anywhere. You stood at my door in the dark, with a lantern. And this morning you went out there with that, so they could come home." She nodded at the blade. "With a titan coming." She looked at her daughter in Aira's lap. "Where else would anybody stand at my door?"
 
 Aira did not say anything.
 
-She looked down at the bean-girl in her lap. At the old blade in her hand, with the nick in the left. At the steam-mark in the road, ten paces from where the street began.
+She looked down at the bean-girl in her lap. At the old blade in her hand, with the nick in the left. At the steam-mark in the road, ten paces outside the protected line.
 
 "Nobody gets past me," said Aira quietly. "Not to this door."
 
@@ -344,7 +336,7 @@ Mikasa did not say anything.
 
 He turned his head and looked at her. At her face in the last of the light. At the red scarf. At the girl who had stood beside him at every wall in two worlds, who knew how his story ended in one of them, who had counted his years on her fingers alone.
 
-"I've got tomorrows now," said Eren. "Thousands of them. You said. Every day I've got." His voice cracked. "And I want all of them. Every one. Here. With you." He looked back at the open ground. At the gap. "And a titan ran through there this morning. And got ten paces from a little girl. And there was nothing in the way."
+"I've got tomorrows now," said Eren. "Thousands of them. You said. Every day I've got." His voice cracked. "And I want all of them. Every one. Here. With you." He looked back at the open ground. At the gap. "And a titan ran through there this morning. Ten paces from the line, with our people outside it. The protection held. But I don't want every tomorrow to depend on her keeping it there."
 
 Mikasa looked at him for a long time.
 

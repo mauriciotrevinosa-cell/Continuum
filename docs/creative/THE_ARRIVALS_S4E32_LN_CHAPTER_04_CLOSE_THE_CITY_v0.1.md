@@ -1,8 +1,8 @@
 # The Arrivals — Light Novel — Volume 25
 ## Chapter 28 — Close the City
 
-**Status:** LN PRODUCTION DRAFT — S4 v0.1  
-**Volume:** 25  
+**Status:** LN PRODUCTION DRAFT — S4 v0.1
+**Volume:** 25
 **Reading order:** 28
 **Continuity state:** Day 221, breakfast | nobody eats; Mau pours | Eren: 'I want to close the city' — a wall on the line, two gates, a walk on top; no more runs; bring everything inside; 'If they never see us, there's nothing to say' | Brenna: 'Where do we go?' / 'Inside' / 'They keep things in. Both. Always both' | Cobb's sister on the east side | Mikasa: 'You hate walls' / 'I hated walls because I didn't have anything worth keeping in. Now I do' | Himmel: 'I've never been the one who stays' | Rimuru: 'I can draw it... it's the first thing that makes it a city' | Gojo: the box | Mau: 'Not tonight... we talk about it. All of us' | Fern: Proposed: close the city. (Eren.) / Not tonight. (Mau.) — and a whole empty page | 'This one's going to come sooner' | in the woods, every face turned toward the settlement
 
@@ -34,7 +34,7 @@ Nobody said anything for a long time.
 
 He said it to the table.
 
-"On the line," he said. "On the lime. All the way round. Where the Goddess's protection stops, or where we think it stops, because nobody's ever tested it." His voice was very level. "Stone, if we can. Timber and clay if we can't. Rimuru built the house by hand after Foundation was spent. Byakuya built a village from nothing. Senku can make anything." He did not look up. "A wall. With gates. Two. North and south. That shut. And a walk along the top, so someone can stand on it and see what's coming."
+"On the line," he said. "On the lime. All the way round. Where the Goddess's protection stops. It's there now. We've seen what happens when she takes it away." His voice was very level. "Stone, if we can. Timber and clay if we can't. Rimuru built the house by hand after Foundation was spent. Byakuya built a village from nothing. Senku can make anything." He did not look up. "A wall. With gates. Two. North and south. That shut. And a walk along the top, so someone can stand on it and see what's coming."
 
 The long table was very still.
 

@@ -1,22 +1,24 @@
 # The Arrivals — Light Novel — Volume 25
 ## Chapter 5 — Thirteen Years
 
-**Status:** LN PRODUCTION DRAFT — S4 v0.1  
-**Volume:** 25  
-**Reading order:** 5  
-**Continuity state:** Day 172 | Mau wakes after; Frieren tells him; 'Good... you didn't need one more thing' | 'I'll tell you when I get there' | Eren walks the lime line twice; Mikasa's hour; the same potato twice | the kilns at eleven: terrible coffee | 'I don't know how to have years' | Kaneki: 'I thought I was going to die young too... And then I didn't'; Touka; 'I married her'; 'It's never over. That's the good news' | 'Something with a tomorrow in it' | 'Then we find another coin' / 'Go to bed, Eren' | Eren sits by Mikasa's bunk until the window greys, then touches her shoulder
+**Status:** LN PRODUCTION DRAFT — S4 v0.1
+**Volume:** 25
+**Reading order:** 5
+**Continuity state:** Day 172 | Mau rests after receiving the all-clear; Frieren fills in the battle details; informed choice to stay inside, not retrospective approval of secrecy | 'I'll tell you when I get there' | Eren walks the lime line twice; Mikasa's hour; the same potato twice | the kilns at eleven: terrible coffee | 'I don't know how to have years' | Kaneki: 'I thought I was going to die young too... And then I didn't'; Touka; 'I married her'; 'It's never over. That's the good news' | 'Something with a tomorrow in it' | 'Then we find another coin' / 'Go to bed, Eren' | Eren sits by Mikasa's bunk until the window greys, then touches her shoulder
 
 *When: Day 172, from the morning after the titan into the night. Himmel has re-brushed his hair four times. Milim has told the fort about catching him eleven times, and the fort has made her a sash. Eren has been gone since dawn.*
 
-Mau woke at eight and knew something had happened.
+Mau woke again at eight.
 
-He did not know how he knew. He lay in the bed in the east room with the morning coming in gold through the new glass, and the house sounded wrong. Not loud. Too quiet, and then, in places, too loud. Voices in the yard, low and fast. A door. Someone laughing, high and shaky, the way people laugh after something. And under all of it, faintly, the smell of hot iron coming in through the window on the north wind, and something almost sweet.
+He had stayed awake until Frieren came back and told him everyone was home. Then he had slept for a little while, because the emergency was over and his body still needed it.
+
+He had not seen the fight. He lay in the bed in the east room with the morning coming in gold through the new glass, and the house sounded wrong. Not loud. Too quiet, and then, in places, too loud. Voices in the yard, low and fast. A door. Someone laughing, high and shaky, the way people laugh after something. And under all of it, faintly, the smell of hot iron coming in through the window on the north wind, and something almost sweet.
 
 Frieren was not in the bed.
 
 She was in the reading chair, dressed, with her staff leaning against the arm of it and a cup of tea she had not drunk going cold on the shelf. She was watching him wake up. She had clearly been watching him for some time.
 
-"Something happened," said Mau.
+"Tell me how it went," said Mau.
 
 "Yes," said Frieren.
 
@@ -32,23 +34,23 @@ Mau listened to all of it without moving.
 
 When she had finished, he did not say anything for a long time. He sat on the edge of the bed with his hands on his knees and looked at the window. At the north light. At the smell of hot iron, going.
 
-"You let me sleep," he said at last.
+"Thank you for coming back to tell me," he said at last.
 
-"Fern did," said Frieren. "Everyone agreed."
+"We said we would."
 
 He nodded slowly.
 
-Frieren watched his face. She knew what she was looking for. The thing that went across it when he found out something had come out of the dark and he had not been there in front of it. The thing that had gone across it at the long table nine days ago, at page four, when Fern shook her head.
+Frieren watched his face. He had known where they were going. He had wanted to go too. That part had not disappeared just because he kept his feet on the floor beside their bed.
 
-It did not come.
+"It wasn't easy," he said.
 
-He sat there on the edge of the bed, and thought about it, and she watched him think. And what went across his face instead was something slower. Something she had not seen there very often.
+"I know."
 
-"Good," said Mau.
+"But I knew what was happening. Rimuru kept me informed. You came back. I wasn't sitting here waiting to find out what you'd decided I could bear."
 
-Frieren did not say anything.
+She looked down at his hands.
 
-"I'd have wanted to go," he said. "I'd have stood at the edge of the field and every part of me would have wanted to go in front. And I couldn't have, because of the rota, and because of Fern, and because of the walls." He looked at his hands. "So I'd have stood there wanting to. The whole time. And you'd all have had to watch me want to, as well as watching the titan." He paused. "That's one more thing to watch. You didn't need one more thing."
+"I wanted to be out there," he said. "And I stayed. Shoko's limits don't stop mattering because something comes down the ridge. I agreed to them too." He paused. "I'm glad you could do it without me. I can be glad and still hate waiting."
 
 Frieren looked at him for a long moment.
 

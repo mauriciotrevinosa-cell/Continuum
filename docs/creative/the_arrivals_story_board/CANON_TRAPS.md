@@ -347,3 +347,9 @@ not on this list. Add a line every time the creator catches a new slip.
 - The ninth harvest song is paid off232, not still owed; no summer-live event. Ori's game/portrait are ordinary family time, not the later formal family day/origin arc.
 - Final opening resembles the V14 arrival-state door; no crossing/cure/closure, no Goddess, no proven time travel. Echidna's deer-hole comparison is only a question. End S4 on Mau's choice beside Frieren; no coda. S5 requires creator go-ahead.
 - V24 Are You With the Elf: appearance does not establish Mau's biological age or lifespan. He does not know his actual age. No intentional lie or early Trial disclosure is added; Yuka's sibling bond is intact.
+
+## Titans and timely information — DH-102
+
+- While the settlement protection is active, titans can approach from outside but do not cross it. Outside workers/routes/return paths can be threatened. Do not put the small titan at an inside cottage step or use children running outside as bait. Ten paces in V25's second encounter means outside the lime.
+- Both accepted faces receive meaningful alerts: recovery limits do not justify telling only Rimuru and withholding from Mau. Mau chooses to stay informed, awake for changes and inside; Shoko/house/self-agreed restrictions remain. Being told is not being asked to fight or becoming the automatic last weapon. Emergency does not itself unlock forbidden techniques.
+- His later rest follows the all-clear. Do not reuse the old knows-nothing-until-after or approving-secrecy dialogue. Wall motives must not assert a titan already broke active divine protection; exposed work/routes and its previously withdrawn state still matter.

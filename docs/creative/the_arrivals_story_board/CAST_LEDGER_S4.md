@@ -308,3 +308,7 @@ The relationship-table dates above preserve earlier major beats; use this curren
 - **Final knowledge:** Echidna hears Mau's account of V14's door and recalls Nokotan's once-only deer-shaped hole (#29); no mechanism proved. No one crosses the final arrival-state opening (#30). Ciel private hosts remain Mau/Rimuru, public speech relayed. Goddess/Ori origin, new coins, Red Gate, screen reward and summer arcs stay future.
 
 **Age-line repair:** V24 #32 Are You With the Elf now says Mau looks younger but does not know his actual age. It was an ambiguous/error line, not a canon intentional lie; no Day155 Trial disclosure added. Yuka stays his little sister, her later Day212 knowledge unchanged.
+
+## V25 alert/boundary repair — DH-102 (2026-10-14)
+
+Day171–172 and Day218–219 titan alerts reach Mau as well as Rimuru. Mau participates as an informed face, chooses awake/inside/no techniques under the recovery agreement, and rests after the all-clear. The east-room/closet loft route stays unchanged. Protection holds; titan combat occurs outside the marked line. Families move deeper inside in advance. Aira/Gojo interception and return use the north-road boundary, not an inside cottage-step breach. Existing council/field teams retain their jobs; no single-face governance or auto-conscription of Mau.

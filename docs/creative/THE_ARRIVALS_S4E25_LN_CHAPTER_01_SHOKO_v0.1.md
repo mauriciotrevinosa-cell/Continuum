@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 25  
-**Continuity state:** Day 145, within the hour after the bell | Seiko's coin: Shoko Ieiri arrives in the Arrival House intake hall with one unlit cigarette, then is escorted to the clinic | RCT on Mau: what she can mend and what she can't | 'You were dead. I closed your eyes. I signed it' | she scolds Gojo through her tears: somewhere new, and the first thing he did was fight | 'Four days. I had four days of you being dead' | 'There's no cigarettes here. I checked' | she keeps the one she has, for something worth it
+**Continuity state:** Day 145, within the hour after the bell | Seiko's coin: Shoko Ieiri arrives in the Arrival House intake hall with one unlit cigarette, then is escorted to the clinic | RCT on Mau: what she can mend and what she can't | 'You were dead. I closed your eyes. I signed it' | she scolds Gojo through her tears: somewhere new, and the first thing he did was fight | 'Four days. I had four days of you being dead' | 'There's no cigarettes here. I checked' | she keeps the one she has, for something worth it | Mau briefly whispers Everything is okay; Frieren joins him in the clinic bed and retells her war against mimics before he sleeps
 
 *When: Day 145, within the hour after the bell stopped. The fort is still in the refuge cellars; the witches are still standing at the bottom of the slope, because nobody has told them they can stop.*
 
@@ -102,11 +102,11 @@ And the woman's voice, tired, saying: *That's all I do. That's all I've ever don
 
 
 
-Frieren sat on the floor beside the bed the whole two hours with his other hand in both of hers and did not say a word.
+Frieren sat on a stool beside the bed the whole two hours with his other hand in both of hers and did not say a word.
 
 When it was over, Shoko sat back on the stool, and put her hands on her knees, and looked at the man on the bed. Breathing. Slow. Even. With the black blindfold still across his eyes. She looked at him for a long time.
 
-Then she looked at Frieren, on the floor.
+Then she looked at Frieren, on the stool.
 
 "He'll live," said Shoko. "He'll sleep for a while. A day. Two. His eyes—" She stopped. "I don't know anything about his eyes. I know they're Six Eyes. I know what Six Eyes do to a brain that wasn't born with them. I know someone built something round them to stop them." She looked at the blindfold. "Leave that on. Until he wakes up and someone who knows what they're doing says it can come off."
 
@@ -200,4 +200,54 @@ Not the words. The sound. A woman's voice in the corridor, crying, saying *idiot
 
 *Yes,* said Ciel. *I thought so too.*
 
-And then he slept, properly, for the first time since the taming. With Frieren's hands round his, and the blindfold over his eyes, and in his shadow, curled up, with its white ear up, listening, a black dog with no other name but Ear.
+He felt Frieren's hands around his. He moved one finger against her palm.
+
+"Mau?"
+
+He could hardly get the words out. "Everything is okay."
+
+Her grip tightened.
+
+"Come here," he whispered. "On the bed."
+
+She looked at the space beside him. Then at the doorway. Shoko had come back to check on him; she stood there for a moment, watching his breathing.
+
+"Beside him," she said. "Gently. Keep his chest clear."
+
+Frieren took off her shoes. She climbed in carefully and settled along his side, leaving the blindfold alone. His arm moved a little, trying to reach around her. She brought herself closer so he would not have to lift it.
+
+"You don't have to talk," she said.
+
+"You can." He swallowed. "Tell me again."
+
+"What?"
+
+"The war. Against the mimics."
+
+She looked at his mouth, at the effort it had taken to say that. A small breath left her.
+
+"You know that story."
+
+"Tell me anyway."
+
+She laid her head beside his on the pillow.
+
+"It started," said Frieren, "a long time ago."
+
+Her voice was unsteady at first. Then she found the ruin in the north, and Himmel pulling one boot, and Eisen holding the other. The tower with three mimics and no fourth chest. Her indignation returned very slowly, in the familiar places.
+
+"Who builds a tower like that?" she asked him.
+
+His mouth moved. "A monster."
+
+"A monster," she agreed, softly.
+
+She kept going. Through the centuries of people telling her to stop. Through the ninety-nine percent. Toward the round room where the mimic had finally held a grimoire as well as teeth.
+
+"I was right," she told him. "And eaten. Those aren't opposites."
+
+He made the smallest sound against the pillow. She stayed close enough to hear it.
+
+By the time she reached the secret inside the grimoire, he was asleep. His breathing was slow and even. She finished the story quietly, with his hand still in hers.
+
+The cloth remained over his eyes. The new walls still needed watching. For this little while there was a voice he knew, and someone beside him when he went to sleep. In his shadow, curled up with its white ear listening, lay a black dog with no other name but Ear.

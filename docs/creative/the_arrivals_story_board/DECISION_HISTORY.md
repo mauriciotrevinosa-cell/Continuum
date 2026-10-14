@@ -1642,3 +1642,28 @@ Creator reiterates that Rimuru sleeps in the loft. Remove the post-bell office r
 - Everything Stops: next-morning sleeping location and Diablo's watch match that same loft. Days 145–147 rest and Day 148 human-shape return remain unchanged.
 - CANON_TRAPS now records loft recovery and the distinct downstairs daytime office. Later office discussions/work remain there; only the unsupported sleeping relocation is removed. This supersedes the temporary exception previously acknowledged in DH-092.
 - Everyones Assistant: retain the accidental desk doze over wall diagrams, then have Diablo wake/help Rimuru back upstairs to the loft before joining Milim for night watch. Office work and brief fatigue remain; overnight sleep returns to his established place.
+
+
+## DH-095 — Saved cigarettes, future thank-you mini plot and Anko's grievance (creator, 2026-10-14)
+
+Creator directs that Shoko not consume the sole cigarette, so Ciel can analyse it for later reproduction; proposes a future tobacco plot for Shoko and Anko. Refines that Mau, when well, chooses it himself as thanks to Shoko, and Anko is hugely offended he never did that for her and considers what to ask him for.
+
+- Existing cigarette audit: none of Shoko's active S4 appearances consumes it. Preserve the unlit arrival, Higher Ceilings, the two separate kept cigarettes and later pocket/finger appearances. Two Unlit Cigarettes now explicitly preserves them for later Ciel study via Rimuru, after rest. No analysis result, copies or harvest is invented.
+- FLOATING_IDEAS records the creator's future scene, Mau's initiative, both intended beneficiaries and Anko's still-open favour. No specific season/date, planting material, helper roster, paid debt or already-functional farm is imposed. Do not make Mau's dangerous Construction a medical repayment requirement.
+
+## DH-096 — Frieren in the same bed; mimic-war comfort before Everything Stops (creator, 2026-10-14)
+
+Creator asks for a moment before Everything Stops: Mau briefly says Everything is okay before sleeping, asks Frieren up onto the bed, and asks her to tell him again about the war against mimics. Creator does not want her displaced from him.
+
+- Shoko end: brief post-treatment lucidity, blindfold stays on, Shoko permits a careful position beside him with his chest clear. Frieren retells the existing By Decree of the Queen mimic story, rather than a new canon battle. He drifts asleep while she stays beside him. Vulnerability and ongoing containment remain.
+- Treatment vigil uses a stool; after the invitation, Everything Stops' clinic-floor references become shared-bed care. Preserve the corridor crackers meeting and its breakdown; distinguish resting beside Mau from finally achieving proper sleep afterward.
+- He comes fully awake on Day 147; the brief Day 145 words do not become a full early recovery or eye-control test. Add doctor-cleared assisted return upstairs that evening, connecting clinic to Ori's later doorway watch. Their room and Rimuru's loft remain as locked. Later private panic/longevity conversation remain intact.
+
+
+## DH-097 — Ear/Frieren/Rimuru recovery comedy, with a narrow safe visit (creator, 2026-10-14)
+
+Creator requests a later, once-better beat: Ear climbs onto Mau; jealous Frieren threatens I will Zoltraak your ass; Mau warns Ear to obey; Rimuru laughs and gets another warning shot nearby; Second warning / no third; Mau disagrees, gets offered one too, apologises to Rimuru; Betrayal; embarrassed Frieren settles on Mau and explains a grimoire.
+
+- Implemented in Some Things Start's ordinary Day 162 afternoon, after medical/containment checks. Add an explicit short companionship exception for already-tamed Ear, with Shoko/Fern consent and Rimuru/Ciel overseeing. Preserve the halt on new taming and dangerous activity. No uncontrolled surprise appearance or implication all shadows are safe.
+- Outdoors, clear ground for two tiny warning shots. No person/dog is hit. Ear rests front paws/head at the bench with hind feet bearing its weight; no recovering chest crushed. End with a new page of the already acquired recent mimic grimoire, avoiding invented new loot. Ear returns after five minutes, wheel asleep; affection/comedy do not erase the wider danger.
+- Also correct the same chapter's retained crisis-location error: Okarun/Granny were at the safety line, as Everything at Once and Borrow Mine already show, not imprisoned in cellars. Preserve their fear, protective grip and teasing.

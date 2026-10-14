@@ -18,7 +18,7 @@ He held the lamp. Out of habit. She had not decreed it. He just held it.
 
 At some point after midnight, she stopped turning pages.
 
-He looked down. Only at her face. Her eyes were closed. Her mouth was a little open. The grimoire had slid down her chest and lay open under one hand. She was asleep, all at once, the way she fell asleep when she had not slept properly for four days. And she had not, not since the bell. He knew. He had felt her lying awake beside him every night, listening to him breathe, the way Ori listened from the door.
+He looked down. Only at her face. Her eyes were closed. Her mouth was a little open. The grimoire had slid down her chest and lay open under one hand. She was asleep, all at once, the way she fell asleep when she had not slept through a night for four days. And she had not, not since the bell. He knew. He had felt her lying awake beside him every night, listening to him breathe, the way Ori listened from the door.
 
 He did not move. He put the lamp down, very slowly, on the shelf beside the chair, the one that was not the shelf in the middle of the floor. He put his arm round her. He leaned his head back against the chair.
 

@@ -10,7 +10,7 @@
 
 Fern stopped everything.
 
-She did it at the long table on the morning of the hundred-and-forty-sixth day, with the ledger open and her pen in her hand. Mau was still asleep in the clinic with the blindfold on and Frieren on the floor beside him. Rimuru was still asleep as a slime on his pillow in the loft above Mau and Frieren's east-room closet, snoring, with Diablo keeping watch beside the loft ladder. The house came down to breakfast in ones and twos, grey-faced, not talking, and sat down, and did not eat. And Fern stood up at the head of the table and said it.
+She did it at the long table on the morning of the hundred-and-forty-sixth day, with the ledger open and her pen in her hand. Mau was still asleep in the clinic with the blindfold on and Frieren beside him in the bed, awake, holding his hand. Rimuru was still asleep as a slime on his pillow in the loft above Mau and Frieren's east-room closet, snoring, with Diablo keeping watch beside the loft ladder. The house came down to breakfast in ones and twos, grey-faced, not talking, and sat down, and did not eat. And Fern stood up at the head of the table and said it.
 
 "Everything stops," said Fern.
 
@@ -88,7 +88,7 @@ They did not go in. Shoko met them at the clinic door and looked at the tin, and
 
 Frieren came out after a while.
 
-She had been on the floor beside the bed since the morning before. She had not eaten. She had not slept. She came out into the corridor in the orange hoodie with her hair loose and her hands hanging at her sides, and looked down at the low table on the floor, and the four of them round it, and the empty cushion.
+She had stayed beside him in the clinic bed since he had asked her up the morning before, leaving only when the doctor needed space or made her take a break. She had barely eaten. She had rested her head beside his and listened, without managing proper sleep. She came out into the corridor in the orange hoodie with her hair loose and her hands hanging at her sides, and looked down at the low table on the floor, and the four of them round it, and the empty cushion.
 
 "It's not the night," she said.
 
@@ -130,11 +130,11 @@ Frieren looked at the four hands.
 
 She did not put hers on any of them. She put both of hers on all of them, at once, in the middle of the low table, over the tin. And left them there.
 
-Then she went back into the clinic, to the floor beside the bed, and lay down beside it, and slept for the first time in two days. And the table stayed in the corridor outside the door until dawn, keeping watch, the way the house had once kept watch outside a white wall.
+Then she went back into the clinic, climbed carefully into the bed beside him, and finally slept properly, with his hand in hers. And the table stayed in the corridor outside the door until dawn, keeping watch, the way the house had once kept watch outside a white wall.
 
 
 
-Mau woke on the hundred-and-forty-seventh day, at the reset hour, the way he always woke.
+Mau came fully awake on the hundred-and-forty-seventh day, at the reset hour, the way he always woke. The brief words after the treatment returned to him slowly: Frieren beside him, the tower, the mimics. Then he had slept again.
 
 He did not open his eyes. There was something over them. Cloth. Snug. Knotted once at the back of his head. He lay in the clinic bed with the blindfold on and Frieren's hand in his, and did not move, and did not open his eyes under the cloth. Because he remembered. All of it. The walls, beautiful and thin. The wheel. The light. *Let me out.* A voice talking, and talking, about an airport and rice cakes and a boy on a train.
 
@@ -160,7 +160,7 @@ Just the ceiling. Not every grain of clay. Not the exact weight of the beam, or 
 
 He turned his head.
 
-Frieren was on the floor beside the bed, awake, looking up at him.
+Frieren lay beside him in the clinic bed, awake, looking at him from the other half of the pillow.
 
 He looked at her face. Just her face. Her eyes, green. Her mouth. The tired shadows under her eyes. He did not go through. He did not see the sea. He could have. He knew he could have. He looked at her face, and only her face, and it was the most beautiful thing he had ever seen.
 
@@ -174,7 +174,7 @@ Mau nodded. He had wanted the ceiling to be enough. Now that it was, he was afra
 
 Frieren did not say anything.
 
-She put her cold foot against his leg, over the blanket, from the floor, which made no sense at all.
+Under the blanket, she put her cold foot against his leg. Gently. The way she did at home.
 
 "One," said Frieren. Her voice was not steady. "Still here."
 
@@ -183,6 +183,10 @@ She put her cold foot against his leg, over the blanket, from the floor, which m
 In the corner, Gojo stood up, and folded his blindfold, and put it back on his own face, and went out without a word.
 
 
+
+That evening, after Shoko and Maomao had checked him again, they let him go upstairs to the east room. Gojo helped him up the stair; Frieren walked beside them. The blindfold went back on for the journey. He was to rest, with the clinic close and the checks continuing.
+
+Frieren got into their bed beside him. Above the closet, Rimuru was asleep on his own pillow. Through the connecting door, Ori could see that they were back.
 
 The house was different after.
 

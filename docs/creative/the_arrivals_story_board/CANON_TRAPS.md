@@ -279,3 +279,19 @@ not on this list. Add a line every time the creator catches a new slip.
 - Frieren's wish for longer is not proof Mau can live forever, that he is human, that the elf route is complete, or that this breach was a chosen attempt to fulfil her promise. She states her fear herself in Something Wet. Mau's desire for time and uncertainty coexist. Keep later reverse-flight and S5 door proposals open.
 - Do not make all witnesses inherit Mau/Ciel/Frieren's earlier private knowledge of the unidentified voice. No newly established speaker identity.
 - Yuka's guilt is not the narrator's verdict. Taming strained containment, but the unfiltered eyes and prior repairs also matter. Reassurance must not call the catastrophe inevitable or promise that Mau will certainly resume secret solo attempts.
+
+
+## Shoko bedside and saved-cigarette continuity — DH-095 / DH-096
+
+- Shoko's single bent cigarette stays unlit and intact. Anko's remaining straight cigarette is separate, in her tin. Later Ciel study is requested via Rimuru; retaining a sample does not already reproduce a supply. The mini tobacco plot is a future idea Mau initiates once well, as thanks to Shoko; Anko's comic offended claim/favour remains open.
+- After Shoko treats him on Day 145, Mau has brief lucidity: Everything is okay; Frieren joins him in the clinic bed and retells the already-established mimic war. It is comfort at that moment, not a cure or a guarantee against another breach.
+- Frieren remains beside him in the same clinic bed during the following vigil, except medical access/brief breaks. She does not sleep on another floor or the bedside floor. Her crackers-table visit is in the clinic corridor; Something Wet's later panic on the east-room floor remains a different event.
+- Full waking and the first controlled post-crisis eye test stay Day 147. Medical checks precede assisted return to their east room that evening. This permits Ori's connecting-door vigil on the third night after the bell without an unexplained move from the downstairs clinic.
+
+
+## Ear's first short recovery visit — DH-097
+
+- Day 162 permits one five-minute quiet visit by already-tamed Ear, after the stable-filter checks, with Rimuru present and Ciel monitoring entry/exit. This is a specific amendment to the post-bell ban, not permission for new taming, combat, other shikigami or unrestricted shadow use. Ear returns within the scene; the wheel stays asleep.
+- Recovery comedy takes place outdoors at the ink-tree bench. Ear's front paws/head climb into Mau's space with hind feet on the ground, not his entire weight landing on an injured chest. Frieren's two tiny warning Zoltraaks strike empty dirt, hitting neither dog nor Rimuru and causing no building damage. The jokes concern her embarrassment/jealousy, not the catastrophe or anyone's trauma.
+- The book is the recent mimic grimoire, with a newly explained page, not new unaccounted loot. Rimuru's Betrayal and Mau's playful defection remain friendly; no serious threat of killing or injured bystander.
+- Some Things Start's Okarun/Granny recollection now matches their actual crisis position at the safety line. The fort went to the cellars; Okarun and Granny were not locked there during the field event.

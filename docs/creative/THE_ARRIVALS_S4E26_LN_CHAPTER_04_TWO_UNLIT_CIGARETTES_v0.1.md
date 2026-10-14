@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 34  
-**Continuity state:** Day 157 | bored for twelve days | the beam: Shoko, 'Put it down' | the tongs: Anko's new rule four | the gate: Diablo describes it, indoors, with notes | Frieren: 'Be boring' / 'Yet' | midnight kitchen: two unlit cigarettes on the table; Anko came over with nine; 'He asked me. I lied' / 'Good' | 'Something worth it' / 'Me too' | Diablo's tea and logic: if Mau dies, Rimuru cries | Anko: 'I had my hand in my coat' | Shoko: 'When you've opened enough of them, they're all children' | ROTA | 'Boring'
+**Continuity state:** Day 157 | bored for twelve days | the beam: Shoko, 'Put it down' | the tongs: Anko's new rule four | the gate: Diablo describes it, indoors, with notes | Frieren: 'Be boring' / 'Yet' | midnight kitchen: two unlit cigarettes on the table; Anko came over with nine; 'He asked me. I lied' / 'Good' | 'Something worth it' / 'Me too'; intact cigarettes kept for later Ciel study through Rimuru | Diablo's tea and logic: if Mau dies, Rimuru cries | Anko: 'I had my hand in my coat' | Shoko: 'When you've opened enough of them, they're all children' | ROTA | 'Boring'
 
 *When: Day 157. Gojo has walked his apprentice through the settlement twice, blindfolded, and the register girl at Arrival House has dropped her pen both times. Wakana is laying out the next empty room in the west wing, and the beams for it are in the yard. Mau is bored, which Shoko says is medically excellent, and has decided to do something about it.*
 
@@ -313,5 +313,13 @@ He finished the tea. He said good night. He went back upstairs to the east room,
 Downstairs, at the kitchen table, Anko opened her notebook again, and turned to the rota, and began to write in names.
 
 Shoko and Anko put their cigarettes away. One in a scratched tin. One in the pocket of a white coat.
+
+"I'm keeping mine intact," said Shoko. "I'll ask Rimuru whether Ciel can analyse it. Paper, tobacco, all of it. If we ever try making more, we ought to know what we're trying to make."
+
+Anko put the lid on her tin. "Let her look at mine too."
+
+"When they've rested," said Shoko.
+
+Anko nodded.
 
 Saving them.

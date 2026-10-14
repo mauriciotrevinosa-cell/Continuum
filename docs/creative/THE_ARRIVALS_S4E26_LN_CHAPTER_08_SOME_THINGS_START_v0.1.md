@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 38  
-**Continuity state:** Day 162, seventeen days after the bell | 'Boring enough' / Ciel: 'They are only walls' | Fern leaves 'Everything stops' and writes 'Some things start': the gate opens, blindfold to two hours, one end, still no taming; the rota stays | Gojo next week | an ordinary afternoon: the east glass, Kita's plaits, Maomao: 'There's tea. If you want', Okarun on the bench, Karane's hand under the kotatsu, 'Further observation. (S.)' | Nazuna eats Gojo's cakes | the toast; Seiko and Frieren judge him | Eren and Mikasa, half a step | Himmel: 'Nice pose' / 'I heard your cape' | Fern: 'Somebody has to count you all' | Anko at the low woods: wet paper, the same walk, bigger; SIGHTINGS page four: 'It came back'
+**Continuity state:** Day 162, seventeen days after the bell | 'Boring enough' / Ciel: 'They are only walls' | Fern leaves 'Everything stops' and writes 'Some things start': the gate opens, blindfold to two hours, one end, still no new taming; one supervised five-minute visit for already-tamed Ear; the rota stays | Gojo next week | an ordinary afternoon: the east glass, Kita's plaits, Maomao: 'There's tea. If you want', Okarun on the bench; Ear's lap attempt, two tiny warning shots at empty dirt, Rimuru's Betrayal, Frieren's grimoire; Karane's hand under the kotatsu, 'Further observation. (S.)' | Nazuna eats Gojo's cakes | the toast; Seiko and Frieren judge him | Eren and Mikasa, half a step | Himmel: 'Nice pose' / 'I heard your cape' | Fern: 'Somebody has to count you all' | Anko at the low woods: wet paper, the same walk, bigger; SIGHTINGS page four: 'It came back'
 
 *When: Day 162, seventeen days after the bell. Shoko wrote two words in the ledger last night and Fern has not read them yet. The fort's roster says thirty, three times a day, and so does the house's. Anko's rota has never once been needed after dark. In the low woods, it has started to smell of wet paper again, and nobody has noticed yet.*
 
@@ -51,6 +51,16 @@ She set down the pen. She looked up at the long table.
 At the end of the table, Anko was already writing. *Rule four, amended. M. may lift ONE END. (A.U. approves which.)*
 
 "No taming," said Fern. "Still. Not yet." She looked down the bench at Yuka, between her grandparents, with the white dog under the table.
+
+"Ear can have five minutes outside," said Shoko. "Quietly. With Rimuru there and Ciel watching the way in and out."
+
+Fern looked at Rimuru. He nodded.
+
+"Just Ear," said Fern, and wrote it beneath the other permissions. "Already tamed. One short visit. You stop if Ciel says stop."
+
+Mau looked down at his shadow. He had not asked for that one. His hand settled on his knee, very slowly.
+
+"Okay," he said.
 
 Yuka nodded. Not fast this time. Not guiltily. She nodded slowly, with her chin up, and grinned, very slightly, at Mau across the table. And Mau grinned back.
 
@@ -108,25 +118,95 @@ He did not say anything for a while. Turbo Granny was on his shoulder, very smal
 
 "Really."
 
-Okarun nodded. He looked at his hands. "Last time," he said. "When you went missing. I came looking for you. I didn't think, I just went." He paused. "This time Fern locked us in the cellars. All of us. The bell rang and she had the doors shut before I'd even stood up." He looked at the yard. "I couldn't come. I wanted to. I sat in the cellar with my hand on my pocket and I couldn't come."
+Okarun nodded. He looked at his hands. "Last time," he said. "When you went missing. I came looking for you. I didn't think, I just went." He paused. "This time the fort went into the cellars. I stayed at the line." He looked at the yard. "I wanted to go down to you. I had my hand on my pocket, holding her still, and I couldn't go closer."
 
 "You held her still," said Mau. He nodded at Turbo Granny. "I saw. Afterward. At the washing court. You had your hand over her so she wouldn't—" He stopped. "You were looking after something. That counts."
 
 Okarun looked at him.
 
-"She bit me," said Okarun. "In the cellar. Twice."
+"She bit me," said Okarun. "At the line. Twice."
 
 "You deserved it," said Turbo Granny.
 
 "I was *protecting* you."
 
-"You were *squashing* me." She looked at Mau. Something in her small cat face changed, very slightly. "He was shaking, the whole time. In the cellar. Like a leaf. Because of you." She sniffed. "Barely acceptable, the pair of you."
+"You were *squashing* me." She looked at Mau. Something in her small cat face changed, very slightly. "He was shaking, the whole time. At the line. Like a leaf. Because of you." She sniffed. "Barely acceptable, the pair of you."
 
 Okarun went red. Mau looked at him.
 
 "Thanks," said Mau.
 
 "Shut up," said Okarun, and bumped his shoulder, and they sat there.
+
+Later, after Okarun went in, Rimuru came out to that same bench. Yuka stayed near the back step, watching. Frieren brought her grimoire and sat beside Mau.
+
+The visit began slowly. Ciel checked the opening; Rimuru kept his attention on it. A black nose appeared first. Then the smeared jaw, and the one white ear, and the rest of the dog.
+
+Nothing else followed.
+
+Ear stood on the ground for a moment and looked at Mau. Mau put one hand down for it to sniff.
+
+Then Ear decided where it wanted to be.
+
+It hopped its front paws onto the bench either side of Mau's hips, hind feet still planted on the ground, and laid its enormous head across him. Mau leaned back under a delighted nose. There was suddenly much more dog than lap.
+
+"Oh," said Mau. "Hi."
+
+Frieren looked at Ear. Then at the place on Mau where she had intended to put her book.
+
+"I will Zoltraak your ass."
+
+Ear's white ear turned toward her.
+
+Her finger lifted. A thread-thin flash struck a patch of empty dirt beyond the bench, well clear of the dog's paws. It left a tiny dark mark. Ear lifted its head at once.
+
+"You heard her," said Mau, very solemnly. "Better listen if you want to live."
+
+Ear got down. It sat beside the bench with its white ear up and looked from one of them to the other.
+
+Rimuru laughed.
+
+A second tiny flash struck the bare ground near him. Clear of his feet. His laugh stopped in the middle, and he looked down at the new little mark.
+
+"Second warning," said Frieren. "Next time there won't be a third."
+
+Mau looked at her. "That's not true."
+
+She turned her face toward him very slowly.
+
+"Would you like one too?"
+
+He looked at Rimuru.
+
+"I'm sorry, Rimuru."
+
+"Betrayal," said Rimuru.
+
+Frieren's ears went pink.
+
+"It was a warning," she said, and put the grimoire down, and moved before either of them could answer. She tucked herself along Mau on the broad bench, knees turned to the side, settling her small weight carefully while he shifted to make room. Her chin found his chest. Ear put its head on his knee from below and stayed there.
+
+Rimuru looked at the arrangement.
+
+Frieren looked back at him.
+
+He pressed his lips together very hard.
+
+She opened the recent grimoire from the mimic across Mau's stomach. There was a page she had not explained to him yet. She found it with great concentration.
+
+"This one," she said, "is interesting."
+
+"Okay," said Mau.
+
+"You aren't listening."
+
+"You haven't told me anything yet."
+
+Her ears went a little pinker. She began anyway, with one sleeve covering the lower half of her face. He put his hand on her back and listened. Beside the bench, Ear's eyes closed.
+
+Rimuru stayed through the short visit, watching the quiet shadow as well as the two people above it. When the five minutes were up, Ear went back the same way it had come. No other shape moved, and the wheel stayed asleep.
+
+Frieren kept explaining the page. Mau kept listening.
 
 In the big room, in the five's kotatsu, under the blanket, where nobody could see unless they lifted it, Karane was holding Hakari's hand. She had been holding it, under the blanket, more or less every afternoon since the red stake on the last dating day. Nobody had said anything about it. Hakari talked more than ever, louder than ever, about anything and everything, so that nobody would notice how still her left hand was. Across the kotatsu, Nano had her schedule out. Under the column for afternoons, in Shizuka's careful writing, beneath Nano's, there was a new line, repeated every day for three weeks:
 

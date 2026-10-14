@@ -150,7 +150,7 @@
 - **Gojo.** Yuta's coin (Day 132), from after Sukuna cut him, whole. Measurement delayed through the Day 133 fight; first nerf lands only after Rika/Maki interrupt dual Purple preparation (DH-081). After that: Infinity only; a marble of Blue from Day 152 (more, as the threat grows). Has looked past the edge of Limitless for the first time (#30). Blindfold; "I want my rematch." Lessons in not-looking. **"Around"** for Mau (#33).
 - **Shoko.** Seiko's coin (Day 145), four days after his autopsy. Half of Maomao's clinic (her four rules). The blindfold prescription. One unlit cigarette, saved. Afternoon shift on the rota. West wing, the newest room.
 - **Yuka.** Maki's coin (Day 141), seventeen, from the end of *Modulo*; the ring is hers again (Continuum brought it). White Divine Dog; Keishoken; the Ten Shadows. Little Sister (Teleport Division). Probationary fort member with a cushion; the white dog is an honorary citizen.
-- **Ear.** Not a person, but counted: the black dog with one white ear, in Mau's shadow. No summoning while Fern's "no taming" holds.
+- **Ear.** Not a person, but counted: the black dog with one white ear, in his shadow. Post-bell no-summoning holds except the explicitly approved Day 162 five-minute quiet visit, with Rimuru/Ciel overseeing entry/exit (DH-097). No new taming or combat permission.
 
 ### Arrived in V25
 - **Coco's mother.** Coco's coin (Day 195). Arrived crystal; freed by Ciel's skill after Mau's eight-turn adaptation inside Rimuru (Day 195). Name never printed. West wing, the newest room ("Came"). Her hands are healed. She stays ("I want to see what my daughter's hands can do").

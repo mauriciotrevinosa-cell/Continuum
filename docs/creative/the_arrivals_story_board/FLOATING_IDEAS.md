@@ -302,3 +302,14 @@ The creator recalls the mimic in Frieren's second first-class mage examination t
   - "Exponentially" is the curve of what his body can grow to hold, not today's power.
   - Ciel on the Goddess, in character: "Something caught him on the way back. It was not me."
 
+
+
+## Future — Mau's thank-you tobacco plot; Anko's offended claim (creator, 2026-10-14; NOT YET PLACED)
+
+Shoko keeps her single bent cigarette unlit and intact for possible Ciel-assisted material study through Rimuru. Anko keeps her own last straight cigarette in its scratched tin. This is a preserved reference, not a supply already reproduced.
+
+When Mau is genuinely better, **he independently decides to make a mini tobacco plot as thanks to Shoko**. She does not request it as payment or make her care conditional. The larger growing project is for Shoko and Anko, but the initial thank-you is directed to Shoko.
+
+**Anko's reaction, creator:** she is extravagantly offended that he never did this for her; now she is going to decide what to ask him for. Keep that comic grievance and future favour open, rather than silently choosing her request. It is playful familiarity, not a narrator's verdict that Mau never appreciated her, a new romantic claim, or a coin/contract debt.
+
+Development path still open: Ciel can study the intact object; usable living plants/seeds or a separately validated permitted method must be obtained before a garden exists. Do not plant the cured cigarette as though it were a seed, conjure unlimited cigarettes, or have recovering Mau open the guardrails to repay medical care. A small plot takes materials, cultivation and time. Exact chapter/season, location, helpers, first harvest and Anko's eventual request remain unplaced. Preserve the two original cigarettes and the no-existing-local-supply statements until the project actually supplies more.

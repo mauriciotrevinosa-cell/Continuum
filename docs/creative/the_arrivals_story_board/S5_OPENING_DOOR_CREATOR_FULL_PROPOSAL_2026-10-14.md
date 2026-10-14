@@ -23,3 +23,32 @@ cuando lo guardes no lo simplfiques porfa
 - The relational recollection should use actual S1–S3 scenes and dated private knowledge. Mau cannot know Frieren's unwitnessed pre-arrival room scene as an ordinary autobiographical memory; any access to it needs an explicit creator decision and explanation. No invented memory access.
 - Mau's guilt is his fear, not proof he caused others' threats. Longer/eternity are his desire and promise language, not confirmed species/lifespan or a completed elf route. Frieren's need for space is sincere processing, not a narrator's verdict that she caused the missed farewell by a silly whim.
 - Requested small beats remain in the original: shelf/grimoire/breakfast details, wedding-Trial joke, Fern/Stark privacy reference to check against the source, Mai/crackers overnight support, delayed farewell, Milim/Senku coordinated catch, hot joke/fever, caregiving, chosen disclosure, date and a breathing interval before dungeon development. Preserve them through any later outline or draft.
+
+## Creator clarification — 2026-10-14, after the full opening proposal
+
+**Status:** CLARIFICATIONS TO THE PROPOSAL; no S5 prose greenlight. The original above remains intact. These later explicit directions supersede incompatible editorial questions or earlier proposals only on the points they actually settle.
+
+### Complete original clarification — no editorial rewriting
+
+si osea lo que pense es que la sombra no es algo mas sino es un mecanismo de defensa que fue una de la sprimeras cosas que creo y cuando me referi a la primera puerta mala mia me referia a la de s4. lo de la dios asi me agrada definirlo bien yo pienso en matar pq puede se que  no la mata sino como ella lo creo o no se .
+si exacto que no sea que el sane sino lo que el teme.
+va que va osea que ella lo dice para que ella sepa que no esta enjaulado que ella le pidio y le dio una forma de salir pero a lo que voy con capricho es que ella cree pq no se despidio de el pq no quiso pq se quedo enojada con el y asi
+si nada de esto debe ser comprimido la recupreacion debe de ser algo divertido donde invertimos los roles de mau y frieren cuando frieren se enfermo la conversacion posterior pues si la pondria general pq frieren y mau ya arreglaron sus cosas no quisiera hacer mas desmadre por hacerlo pero que en la platica frieren este encimada de mau y mau le dice que si le deja parar y frieren de que no y mau le dice frieren y frieren s evoltea encima de el y lo abraza y dice que todos lo pueden escuchar sentado y ella no estroba y tu me dijiste una eternidad juntos y mau le dice si una eternidad juntos y comienza a contar y la cita aun no la hacemos pq tengo una idea pero aun no se bien como planearla
+
+### Operational clarification — separate from the creator's words
+
+1. **Door identity resolved:** the reference is to the S4 closing door, not the old V14 lake door. Do not reopen the V14 site or invent simultaneous historic portals. Current S4 ends with the relevant door open; continuing its persistence requires no S4 rewrite. Its eventual closure on Mau's S5 crossing remains in the proposal.
+2. **Shadow/Noise identity direction:** no extra being, soul, occupant or rival personality. The shadow represents a defence mechanism, one of Mau's first creations. The proposed conversation is with that mechanism and its protective logic. It keeps building and bodily adaptation/leaks remain; agreement concerns involuntary takeover, not full healing, omnipotence or removal of guardrails. This is a proposed new reveal, not a claim the older mystery was already explained.
+3. **Goddess threat still being defined:** the creator accepts defining it rigorously and is considering death or undoing something she created, rather than necessarily conventional killing. Exact mechanism remains uncertain in his words. Do not choose one silently, assume Ori can be erased at will, or equate independent personhood with a revocable object. Preserve the stakes while discussing the rule, her actual capability and the direct/indirect deal.
+4. **Mau's guilt:** portray what he fears. Neither the speech nor the Noise encounter proves he is to blame for threats or that he is healed from that fear. The new explanation does not settle his species/lifespan.
+5. **Frieren's freedom and self-blame:** her request gives Mau a way to say he wants to stop; she does not want him trapped by her earlier wish. Her thought about a capricho is her own grief/self-accusation after missing the goodbye while angry, not the narrator declaring her need for space foolish. Preserve genuine processing and the love conversation's resolution.
+6. **Pacing / recovery:** no compression. Recovery should be a funny, affectionate reversal of the earlier time Frieren was ill and Mau cared for her. Consult the actual earlier illness scene before drafting its callbacks. Give the reversal a full lived scene; do not manufacture another couple conflict or treat comic recovery as a power-system cure.
+7. **Later conversation is the household briefing:** Mau/Frieren have already worked through the relationship issue. Frieren stays on/against him and hugs him. Mau asks whether she will let him stand; she says no. When he says Frieren, she repositions and embraces him, says everyone can hear him sitting and she is not in the way, and invokes his eternity-together words. Mau affirms and begins telling the group what happened. Preserve the physical comedy and warmth, without converting this into a renewed romantic argument or moving all disclosure into a second private crisis. The eternity words express desire, not a newly guaranteed lifespan.
+8. **Date explicitly held:** do not design, place or write the date yet. The creator has another idea and is still figuring it out. Recovery and briefing may be planned; the later date remains his pending contribution. Breathing space before dungeon development remains requested.
+
+### Remaining discussion, without rewriting settled decisions
+
+- Define the Goddess's threatened act and the precise twelve-hour/direct-harm terms.
+- Check actual source memories, illness callbacks and private knowledge before prose production.
+- Reconcile the later Exchange/Noise/System proposals with this earlier internal agreement.
+- Await the creator's date idea and eventual explicit S5 production go-ahead.

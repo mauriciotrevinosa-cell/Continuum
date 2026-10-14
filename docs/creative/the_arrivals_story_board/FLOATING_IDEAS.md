@@ -325,6 +325,8 @@ Creator offered flexible placement before S4's close, potentially V26: Frieren t
 
 **Creator's idea:** a Solo Leveling style screen that shows each person how far they are toward their 100%, and what is still locked or already unlocked.
 
+**Creator, same day:** it was meant as **a reward**, something earned or given rather than a screen that is simply always there. Keep it floating until the creator places it.
+
 **What already exists:** synchronisation 0–100% (DH-041; SYSTEMS_REGISTRY A1) is the right base. By design, no percentage has ever appeared in LN prose; every number in the registry is a Claude proposal until the creator sets it. Mau is not on the scale (A2).
 
 **Claude's proposal (awaiting seconding):**
@@ -332,4 +334,4 @@ Creator offered flexible placement before S4's close, potentially V26: Frieren t
 - Each person sees their own synchronisation. Show categories (unlocked / locked / "a requirement missing") rather than every number, so the registry is not frozen into canon all at once.
 - Comedy and relationships: Bocchi at 100% because the world never felt her as a threat; Milim slow because she plays; people comparing screens at the long table.
 - **Mau's screen does not fit the format** ("???" or an error), because he is not on the scale. This is a hook, not an answer.
-- **Open for the creator:** does everyone see a screen, or only in the dungeon, or only through Mau and Ciel? Do the numbers show, or only the categories? Placement: after the Exchange in S5, or later?
+- **Open for the creator:** a reward for what, and from whom (the Goddess, the dungeon System, a Red Gate clear)? Does everyone see a screen, or only in the dungeon, or only through Mau and Ciel? Do the numbers show, or only the categories? Placement: after the Exchange in S5, or later?

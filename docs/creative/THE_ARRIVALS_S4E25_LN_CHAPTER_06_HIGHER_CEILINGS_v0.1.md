@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 30  
-**Continuity state:** Night of Day 152 | Gojo alone in the south field: a marble of Blue comes (more, as the threat grows) | he looks past the edge of Limitless for the first time in his life: a direction, a door that was never locked | 'There's more. I never looked' | Shoko on the fence: 'You're glowing' / 'I found a door' | 'I'm not having four days again' / 'I hear you' | her shoulder | far east, the old watchtower: the gathering round an empty seat | 'he spent one road... nothing stops him building it again' / the ceilings are higher here, for him too | 'let them grow' | the captain doesn't know whose seat it is | 'he wants his rematch'
+**Continuity state:** Night of Day 152 | Gojo alone in the south field: a marble of Blue comes (more, as the threat grows) | an untested direction beyond his familiar use of Limitless; his earlier learning remains real | Shoko on the fence: 'You're glowing' / 'I found a door' | Mau's unknown ceiling, overlapping systems and real bodily cost; no unlimited fuel or fixed technique cap | Yuta's Sukuna account, already told to Gojo, now shared with Shoko; no Trial disclosure | 'This time I don't have to do it alone'; Mau's participation remains his choice | Shoko's own second chance, old humour returning without erased grief | Rimuru within earshot; Ciel relays the Mau discussion privately, then her laughter reaches Gojo through Rimuru aloud | rematches only when Mau is ready, with support | 'I'm not having four days again' / 'I hear you' | her shoulder | far east, the old watchtower: the gathering round an empty seat | 'he spent one road... nothing stops him building it again' / the ceilings are higher here, for him too | 'let them grow' | the captain doesn't know whose seat it is | 'he wants his rematch'
 
 *When: The night of Day 152, a week after the bell. The fort has been forgiven, mostly; Frieren has not yet said by how much. Far to the east, past the hills where the farmers keep seeing lights, it is the same night.*
 
@@ -14,7 +14,7 @@ He stood in the middle of the field, on the patch of dead earth where nothing wo
 
 He took off his blindfold and looked at his own hand.
 
-A week ago, kneeling here, with Mau's head in one palm and the wheel turning overhead, he had felt something. In the middle of it all. When he took the blindfold off and looked straight into the light pouring out of a man on the ground, and bore it. Something in himself had moved. Not much. A hair. A crack. The way ice moves on a pond in the first warm week, before anyone can see it.
+A week ago, kneeling here, with Mau's head in one palm and the wheel turning overhead, he had felt something. In the middle of it all. When he took the blindfold off and looked into the light pouring out of a man on the ground, and found more than his own eyes could sort. He had kept his attention on Mau while Ciel and Rimuru worked. Something in himself had moved. Not much. A hair. A crack. The way ice moves on a pond in the first warm week, before anyone can see it.
 
 He had not had time to think about it then. He was thinking about it now.
 
@@ -34,7 +34,7 @@ Gojo looked at it for a long time.
 
 "Huh," he said, very quietly.
 
-*More, as the world grows,* Ciel had said, explaining Continuum to him in the snow. *More, as the threat grows.*
+*More, as the world grows,* Ciel had said, with Rimuru relaying her explanation to him in the snow. *More, as the threat grows.*
 
 He thought about a week ago. The wheel. The light. *Let me out.* The thing in Mau's chest that could see everything it was missing and had gone to get it.
 
@@ -46,7 +46,7 @@ He let the Blue go. It went out like a candle.
 
 And then he did something he had never done.
 
-He had been the strongest for his whole life. Since he was a baby. He had never once had to reach for anything. Everything had always just been there, all of it, the whole of Limitless, open, waiting, the moment he wanted it. He had never had to *look* for more, because there had never been any more. He had been the ceiling. Everyone else was underneath.
+People had begun calling him the strongest before he knew what the word cost. He had nearly died before he learned reversal. Red and Purple had come after that; keeping Infinity running had taken work. He had reached further against Sukuna too, and died anyway. But when he looked for an answer, he looked among the things he knew his technique could do. Even at the edge, he had kept the same shape of sky.
 
 He stood in the dark in the south field and closed his eyes and looked.
 
@@ -56,19 +56,19 @@ And past it.
 
 There was something past it.
 
-He had never seen it. In his own world, he had never once looked. He had never needed to. But he was looking now, with eyes that had just watched a man's whole body try to become everything at once. And there, past the edge of everything he had ever known Limitless could do, was a direction.
+He had never seen this direction. He was looking now with eyes that had just watched a man's whole body try to become everything at once. Past the familiar shape of what he knew Limitless could do, there was somewhere he had not tried to look.
 
 Not a technique. Not yet. A direction. A way the thing he had been born with could go, that it had never gone. Like a road on a map that ran off the edge of the paper. Like a door at the end of a corridor in a house you had lived in all your life, which you had always somehow assumed was a wall.
 
 He stood very still.
 
-It was not closed. That was the thing. It was not locked. In his own world, he understood now, it had never been locked either. He had simply never looked, because he was already the strongest, and the strongest does not look for doors.
+It did not feel closed. He could not tell whether this world had opened it, or whether he had walked past it in his own. He had no proof that he could use anything beyond it. But the marble of Blue had been real, and the direction was there.
 
 He opened his eyes.
 
 He was laughing. He did not know when he had started. He was standing alone in the middle of the south field at midnight, with his blindfold in his hand and his blue eyes open, laughing at the stars. Not loudly. Quietly. Helplessly. The way you laugh when you find out something enormous and terrifying about yourself and the only possible response is to laugh.
 
-"*There's more,*" said Gojo, to the dark field, to nobody. "There's *more*. There was always more." He put his hand over his face. "I never looked. I never once looked."
+"*There's more,*" said Gojo, to the dark field, to nobody. "There's *more*." He put his hand over his face. "I never looked that way."
 
 
 
@@ -94,45 +94,181 @@ Shoko looked at him for a long moment.
 
 "Satoru."
 
-"There's more," said Gojo. "Limitless. There's more of it. There was always more. Past the edge. I never looked, because I didn't need to. Because I was already—" He stopped. "This place lets you grow. Ciel said. The world lets you have more as it grows. And it's growing, Shoko. Something's coming. The kid's chest nearly turned inside out a week ago and something under it said *let me out*." He looked at his own hand. "And I just found out I've never been the ceiling. I was just the only one who never looked up."
+"There's more," said Gojo. "Past what I know how to do. Maybe. Ciel's explanation, the one Rimuru gave me—this place can let you grow as it grows. I got a marble of Blue tonight." He held up his thumb and finger, very close together. "This much."
 
-Shoko did not say anything.
+Shoko looked at the space between them.
 
-She sat on the fence with the cigarette in her fingers and looked at him. At his eyes, without the blindfold. At his face, which she had closed the eyes of on a metal table in another world, eleven days ago by her own count.
+"Congratulations. I'll tell everyone to evacuate the fruit bowl."
 
-"You're going to go looking," she said. "Aren't you."
+He laughed.
 
-"Yeah."
+Then she did, and for a moment he forgot to answer. The dry little lift at the end of it was familiar. He had heard it when Suguru was still there to be offended by her, when a ruined uniform or an argument over lunch could be the worst thing in an afternoon.
 
-"For the door. Past the edge."
+"What?" she said.
 
-"Yeah."
+"Nothing."
 
-"You just got here. You were dead eleven days ago. You put a kid in a bed on your second day. And now you're going to go and find out how much stronger you can get."
+"That's your face for something."
 
-"Yeah," said Gojo. He paused. "Slowly. Ciel says it comes slowly. A marble of Blue at a time." He held up his thumb and finger, very close together. "This much. Tonight."
+"I haven't heard you laugh like that in a while."
 
-Shoko looked at the space between his thumb and finger.
+She looked away, toward the house. There was one lamp left in the kitchen.
 
-Then she started to laugh. Short and tired and surprised, the way she laughed in the corridor, the way she laughed when she did not mean to.
+"Neither have I," she said.
 
-"You idiot," she said. "You absolute idiot." She shook her head. "You're happy about this."
+Gojo sat on the post beside hers. It creaked.
 
-"I'm *so* happy about this."
+"Do you like it here?"
 
-"You were the strongest in the world and you're happy that you're weak."
+"The clinic's a cupboard. Your new friend tries to leave it every time I turn round. The pharmacist writes down every instruction I give and asks why."
 
-"I'm happy," said Gojo, "that I get to get *stronger*." He sat down on the fence beside her, on the post next to hers, which creaked. "Nobody ever let me do that. Not once. I was born at the top. There was nowhere to go." He looked up at the stars. "Now there's somewhere to go."
+"Sounds terrible."
 
-Shoko did not say anything for a while.
+"She's good," said Shoko. "I like that she asks."
 
-She sat beside him on the fence in the dark with her shoulder almost touching his. Not quite. Almost. The cigarette in her fingers. The stars very bright over the black hills.
+There was a small silence.
 
-"I had four days," she said at last, very quietly, "of you being dead."
+"I went out this afternoon," she said. "After my shift. Nobody needed me for an hour."
+
+"Where?"
+
+"To the river. I sat down."
+
+"Very ambitious."
+
+"I was going to come back after five minutes. Then I thought I might stay. So I stayed."
+
+He looked at her.
+
+She turned the cigarette between her fingers. Still unlit. Still the same one.
+
+"I kept waiting to feel guilty about it."
+
+"Did you?"
+
+"A little. Less than I expected."
+
+He remembered her at school, on a step with her elbows on her knees, taking her time answering either of them. Before Riko. Before Suguru left. Before the years in which he had brought her more people to repair than to meet. She had had her own afternoons then. He could hardly remember when he had stopped asking about them.
+
+"You used to be very good at doing nothing," he said.
+
+"You used to make it necessary."
+
+"Used to?"
+
+"I'm trying to be encouraging."
+
+He smiled. She did too, briefly, and did not take it back because he had seen it.
+
+"I like looking after him," she said, after a while. "Mau. I don't mind that."
 
 "I know."
 
-"I'm not having four days again." She did not look at him. "If you go looking for doors. Past the edge. If you go and get stronger and stronger until you're the ceiling again and then go and throw yourself at the next thing that comes out of the hills." Her voice was perfectly flat. "I'm not having four days again. You hear me?"
+"But I don't want to spend my whole second life waiting for somebody to arrive on a table."
+
+The kitchen lamp went out. Someone shut the door carefully.
+
+"I'd like to find out what else I want," she said.
+
+"Okay."
+
+"You could come to the river sometime. Without trying to improve it."
+
+"I could make it run uphill."
+
+"That's why I specified."
+
+He grinned. Her shoulder was nearly touching his.
+
+Down the path, Rimuru had stopped beside the field boundary to check the night's seal readings before going up to his loft. From there he could hear them. He had meant to leave them alone; then Gojo said Mau's name, and he stayed a moment.
+
+"I'm going to have to get used to having competition here," said Gojo.
+
+"Mau?"
+
+"Yeah."
+
+Shoko glanced at him. "He's struggling to get through a walk without shaking."
+
+"I know. I was talking about where he might get to." Gojo looked down at the dead patch of field. "What came out here was whatever could get an opening while something in him was looking for what it lacked. That was enough to do this. I could name parts of it. Just parts. I don't think we saw anything like all of what it could try to build."
+
+"And what I saw was a body trying to pay for it."
+
+"Yeah."
+
+He said it without a smile.
+
+"Yuta needs Rika to hold techniques outside himself. That's one system, with somewhere for the excess to go. What I saw here didn't all belong to our system. Some of it wasn't cursed energy at all. I don't know what he's using to carry the overlap. I could see him holding it, and I could see it hurting him."
+
+Shoko looked at the field too.
+
+"If Analyze learns to finish those deeper readings without even bringing him close," he said, "I don't know where that ends. Knowing how something works doesn't give him the body or the fuel to use it. We saw that. But I don't know how much more there is for him to find."
+
+"He's fortunate to be alive."
+
+"He is. And every time we say that, I think about what had to happen for it to be the good news."
+
+Through Rimuru's hearing, Ciel had followed the part about Mau. She passed his words to Mau through their existing thread, quietly. In the east room, with his eyes covered and Frieren asleep beside him, Mau listened. Rimuru said nothing from the path. Neither interrupted Gojo.
+
+"Yuta told me something before our fight," said Gojo. "Sukuna's here. He's fought them. He put his arm through Mau's chest."
+
+Shoko's fingers stopped turning the cigarette.
+
+"That was him?"
+
+"The old injury. Yeah. Yuta told me. I asked Mau too."
+
+"And he survived."
+
+"He came home."
+
+Gojo was quiet for a moment. Shoko watched his face.
+
+"I keep thinking about that," he said. "Somebody else faced him. Somebody came back. This time I don't have to do it alone."
+
+She looked at the house, at the dark upstairs windows.
+
+"You haven't asked him."
+
+"I won't ask him while getting out of bed is a day's work. And when he's better, he gets to choose." He leaned his elbows on his knees. "There are people here who can stand with me. If I can learn to let them. I don't have to put everyone behind me and call that protecting them."
+
+"You could practise coming back for dinner."
+
+"I'm very good at dinner."
+
+"You're very good at arriving late and stealing mine."
+
+"See? We already have a training programme."
+
+In Rimuru's head, Ciel laughed. He felt it catch him too, and let the little sound escape aloud before he could stop it.
+
+Gojo looked down the path.
+
+"Was that her?"
+
+Rimuru met his eyes and nodded, caught. Ciel's amusement had reached the air in his voice; nothing had opened between her mind and Gojo's.
+
+"You've been telling him, haven't you?"
+
+Rimuru made the smallest apologetic gesture.
+
+"Good," said Gojo. "Tell those two I want my rematch with Mau. When he's ready. When the doctor says he's ready," he added, before Shoko could speak. "And with Sukuna. This time he doesn't get to turn it into another trick, and I don't go in alone."
+
+"I also get to say when you're ready," said Shoko.
+
+"That sounds unreasonable."
+
+"You'll cope."
+
+Ciel carried the message back to the east room. Mau lay still, listening. He did not give away the quiet by answering.
+
+Rimuru lifted a hand and went back toward the house, to the stair and the loft. Gojo watched him go, then looked at Shoko.
+
+"I had four days," she said, very quietly, "of you being dead."
+
+"I know."
+
+"I'm not having four days again." She did not look at him. "If you go looking for doors. Past the edge. If you get stronger and stronger and decide that's a reason to leave everyone behind." Her voice was flat. "I'm not having four days again. You hear me?"
 
 Gojo looked at her.
 
@@ -140,15 +276,23 @@ Gojo looked at her.
 
 "Good."
 
-She was quiet for a moment. Then, very slowly, she moved her shoulder the last inch. Against his. And left it there.
+She moved her shoulder the last inch, against his, and left it there. He stayed quiet. He did not try to turn what she had said into something smaller.
 
-Gojo did not move. He did not say anything bright. He did not say anything at all. He sat on the fence at the top of the south field at midnight, with the woman who had closed his eyes leaning her shoulder against his. And for once in his life, he did not fill the silence.
+After a while, she looked up at the stars.
 
-"You're still a bit glowing," said Shoko, after a long time.
+"I'd forgotten I could come outside and nobody would need stitches."
+
+"Give me time."
+
+She elbowed him, lightly. He laughed, and then she laughed again. It lasted a little longer this time.
+
+The dead were still dead. The days in her old world had happened. She sat on the fence with all of them, and with Satoru beside her, alive, and another afternoon she could choose for herself tomorrow.
+
+"You're still a bit glowing," she said.
 
 "Is it bad?"
 
-"No," said Shoko. She held up the cigarette and looked at it in the starlight. Then she put it back in her pocket. "It's fine. It suits you."
+"No." She looked at the cigarette in the starlight and put it back in her pocket. "It's fine. It suits you."
 
 
 

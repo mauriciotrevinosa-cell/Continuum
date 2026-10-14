@@ -110,7 +110,7 @@ Gojo kept speaking. He stopped saying *good*. He listened for a response.
 
 *Rimuru,* said Ciel.
 
-She said it through Rimuru, aloud, so that everyone in the middle of the field could hear. Rimuru was still standing over Mau with his hands out flat in the air, shaking. His face was the colour of ash. Blood was coming from his nose, very slowly, the way it had come from Gojo's after the south field.
+Her call reached Rimuru privately. He was still standing over Mau with his hands out flat in the air, shaking. His face was the colour of ash. Blood was coming from his nose, very slowly, the way it had come from Gojo's after the south field. He drew a breath and began repeating her next words aloud for Gojo, keeping the two of them in the same conversation.
 
 *Rimuru. I watched his eyes.*
 
@@ -125,6 +125,8 @@ Rimuru did not say anything. His hands were shaking.
 "How long?" said Gojo, without looking up from Mau.
 
 *Minutes,* said Ciel. *Several. If he keeps looking at your voice. If you keep talking.*
+
+"Several minutes," Rimuru told Gojo. "She needs you to keep talking."
 
 Gojo laughed. It was short and cracked.
 

@@ -166,7 +166,11 @@ He looked at her face. Just her face. Her eyes, green. Her mouth. The tired shad
 
 "Hi," said Mau.
 
-Gojo kept his hand close to the blindfold. He waited until Ciel confirmed the filter was holding before he put it on the stool.
+Gojo kept his hand close to the blindfold.
+
+*The filter is holding,* Ciel told Mau, inside his head.
+
+"She says it's holding," Mau told Gojo. Only then did Gojo put the cloth on the stool.
 
 "That's enough for now," he said. "We test again with the doctor. No seeing how far it goes."
 

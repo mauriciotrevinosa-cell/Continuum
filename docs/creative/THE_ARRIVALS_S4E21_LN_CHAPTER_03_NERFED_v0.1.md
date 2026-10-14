@@ -72,7 +72,7 @@ Rimuru's expression changed.
 
 Gojo turned toward him.
 
-Ciel spoke through Rimuru so the others could hear. *The world measures those who arrive. I call it Continuum. Once it has measured what a person is, it restricts what they can use. The restriction can ease as the world and its threats grow.*
+Rimuru repeated Ciel's words aloud, sentence by sentence, so the others could hear her explanation. He kept relaying her answers as Gojo spoke. *The world measures those who arrive. I call it Continuum. Once it has measured what a person is, it restricts what they can use. The restriction can ease as the world and its threats grow.*
 
 Gojo looked down at his hand.
 

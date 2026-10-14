@@ -174,7 +174,7 @@ The two of them looked at the two cigarettes on the table between them.
 
 "He asked me," said Anko. "On his second day. Went round the whole house asking." She almost smiled. "I lied."
 
-Shoko looked at her. And then, for the first time since she had come, she laughed properly. Not the short surprised laugh from the corridor. A real one. Low and tired and helpless.
+Shoko looked at her. And then she laughed properly again. The laugh came more easily now, as it had with Satoru on the fence a few nights before. Low and tired and helpless.
 
 "Good," said Shoko.
 

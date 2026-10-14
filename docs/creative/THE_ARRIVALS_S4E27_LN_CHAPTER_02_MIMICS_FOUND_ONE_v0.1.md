@@ -180,13 +180,13 @@ Gojo waited.
 
 Gojo did not say anything for a long moment.
 
-He stood at the edge of the clearing with his blindfold pushed up and his bare sky-coloured eyes, looking at the chest. The chest that he could see straight through. The mouth. The breathing. The metal in its stomach. All of it, all at once, the way he had seen everything, all at once, every day of his life, since he was a baby.
+He stood at the edge of the clearing with his blindfold pushed up and his bare sky-coloured eyes, looking at the chest. The chest that he could see straight through. The mouth. The breathing. The metal in its stomach. He could follow its breathing, the teeth tucked under the lid, the metal it had swallowed. He had looked before coming close, as he usually did.
 
 "I've never been surprised by a chest," he said slowly.
 
 Frieren looked at him.
 
-"I've never been surprised by *anything*," said Gojo. He laughed, very quietly. It was not quite a laugh. "Not since I was born. I see it all coming. Every attack. Every trick. Every box. I always know what's inside." He looked at his own hand. "I didn't know that was a thing you could miss."
+"I usually look before I open one," said Gojo. He laughed, very quietly. It was not quite a laugh. "Check what's inside. Then choose whether I want it. It's hard to leave a box alone long enough for it to surprise me." He looked at his own hand. "I didn't know that was a thing you could miss."
 
 Nobody said anything.
 

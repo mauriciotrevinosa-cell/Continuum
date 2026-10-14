@@ -90,11 +90,17 @@ He wanted to see everything. That was clear in the first ten minutes. He walked 
 
 "Sometimes," said Rimuru.
 
-"You're a slime who's also a guy. And you've got something in you that's talking." Gojo tilted his head. "Hi, something."
+*The distance around him is being maintained,* said Ciel, without being asked. *Something intervenes before an approach can reach him. I cannot yet classify the whole mechanism.*
 
-*Hello,* said Ciel, through Rimuru, sounding faintly offended.
+Rimuru heard her inside his head. Mau heard her through the thread too, and glanced at him. Neither had asked her to examine the newcomer.
 
-"She says hello," said Rimuru.
+"You're a slime who's also a guy. And you've got someone else with you." Gojo tilted his head. "Feels like I'm being looked at. Hi, someone."
+
+*Hello,* said Ciel, to Rimuru and Mau, sounding faintly offended.
+
+"She says hello," said Rimuru, aloud.
+
+Gojo could notice the other presence. Her words reached him in Rimuru's voice.
 
 "*She.* Great." He turned. He pointed at Milim, who was standing very straight beside Ori with her hands clenched under her chin, vibrating. "You're a *dragon*."
 

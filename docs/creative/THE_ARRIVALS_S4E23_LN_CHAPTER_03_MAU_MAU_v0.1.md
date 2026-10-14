@@ -132,7 +132,7 @@ Across the table, very slowly, Gojo put his face in his hands. His shoulders had
 
 
 
-Ciel told him afterward, in the yard, under the ink tree, with Rimuru beside him and Gojo standing a little way off with his arms folded.
+Ciel told him afterward, in the yard, under the ink tree, with Rimuru beside him and Gojo standing a little way off with his arms folded. Mau heard her through the thread; Rimuru repeated the explanation aloud for Gojo.
 
 *It was the ring,* said Ciel. *You are right. It was only the ring. But not the way you think.*
 
@@ -169,6 +169,8 @@ Gojo, a little way off, unfolded his arms.
 There was a pause.
 
 *The ring,* said Ciel. *A shadow medium. Ink. A yokai partner. Six Eyes.* A pause. *He has the eyes now. That one is supplied.* Another pause. *The others are still missing.*
+
+Rimuru gave Gojo her list, including the last part.
 
 "Ink," said Rimuru slowly. "There's an ink tree in the middle of the yard."
 

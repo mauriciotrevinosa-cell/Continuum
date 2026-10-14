@@ -154,3 +154,4 @@ See [OPEN_QUESTIONS.md](./OPEN_QUESTIONS.md).
 ## 7. Preserved raw sources
 
 The most important source documents are copied into [sources/](./sources/) so this board does not depend on remembering which development branch originally held them.
+- [S5 direction and V26 handoff (2026-10-14)](S5_CREATOR_DIRECTION_2026-10-14.md)

@@ -155,3 +155,12 @@ See [OPEN_QUESTIONS.md](./OPEN_QUESTIONS.md).
 
 The most important source documents are copied into [sources/](./sources/) so this board does not depend on remembering which development branch originally held them.
 - [S5 direction and V26 handoff (2026-10-14)](S5_CREATOR_DIRECTION_2026-10-14.md)
+
+## Current S4 closing draft — 2026-10-14
+
+- [S4 production index — 212 chapters, Volumes20–26](../THE_ARRIVALS_S4_LN_PRODUCTION_INDEX_v0.1.md)
+- [V26 reader index — 30 chapters](../THE_ARRIVALS_LN_VOLUME_26_INDEX_v0.1.md)
+- [V26 executed outline and continuity state](S4_V26_PLAN_2026-10-14.md)
+- [V26 focused QA record](S4_V26_CONTINUITY_QA_2026-10-14.md)
+
+S4's production draft is complete; creator read-through remains open. S5 has not been written or greenlit.

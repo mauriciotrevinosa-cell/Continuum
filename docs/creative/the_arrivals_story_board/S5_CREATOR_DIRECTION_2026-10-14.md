@@ -30,3 +30,7 @@ Follow S4_SEASON_PLAN V26: the closing debate; Frieren's demons; the door calls 
    - a small arc for Kusuri's group.
    Romances: Gojo and Shoko, Eren and Mikasa, and Frieren and Mau, tender with no fan service.
 5. **The seeds stay seeds:** Shoko's tobacco, Frieren's reciprocal choice, the Walker, and the others. Polish any that feel rough before using them. The creator already has an S6 contour.
+
+## Execution note — V26 (2026-10-14)
+
+The "not written yet" sentence above records the state at this handoff. V26 is now drafted: [30 chapters, Days221–262](S4_V26_PLAN_2026-10-14.md). S4 ends on the specified door beat, with no S5 chapter/coda. **S5 production is still not authorised.** Its later ideas, including newer floating status-screen seeds, remain pending creator development; nothing in the V26 draft spends them.

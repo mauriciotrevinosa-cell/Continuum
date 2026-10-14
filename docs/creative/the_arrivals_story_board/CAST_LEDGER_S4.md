@@ -11,7 +11,7 @@
 **Columns:**
 - **Ring:** 1 family, 2 close, 3 witches, 4 the outer ring (DH-026).
 - **Room:** the real house (layout lock §10.3, DH-045, DH-054; west wing from V23).
-- **Last beat:** the last S4 chapter where they had an indexed beat (mention counts alone do not prove a real scene), updated through V25; historical counts below retain their original scope.
+- **Last beat:** the last S4 chapter where they had an indexed beat (mention counts alone do not prove a real scene), updated through V26; the current V26 handoff below supersedes older pending-beat wording; historical counts below retain their original scope.
 
 ---
 
@@ -131,7 +131,7 @@
 ### Ring Three: the witches (north wing; weekly tea, a conversation)
 
 - **Pride** (the first witch): "The name was for someone smaller." Hands open. The chair that wobbles.
-- **Echidna** (Greed): the library behind the room with no name. Coco's teacher in the undoing. Said "Thank you" for the eighth song. The ninth (harvest) is owed.
+- **Echidna** (Greed): the library behind the room with no name. Coco's teacher in the undoing. Said "Thank you" for the eighth song. **The ninth harvest song is delivered at V26 #9's tea (Day232).** V26 #29: Mau tells her the earlier door account; she remembers Nokotan's hole without proving a shared mechanism.
 - **Daphne** (Gluttony): fields, stores, the barn; **keeps the bees**.
 - **Satella** (Envy): the inner window; the ALWAYS card. "I envy that very much."
 - **Sekhmet** (Sloth): a second door to the bath; "I am going to live here."
@@ -140,17 +140,17 @@
 
 ### Ring Four: draining to none by V26 (DH-048, DH-050)
 
-- **The cooper.** Pegs; his daughter (about 11) is in his world, and her fort form waits in LATER. He will bring her by coin, she sits in the fort once, and they move somewhere safer. **He never says he won't come back.**
-- **Lise.** Guest at the old inn; stayed.
-- **The register girl.** Arrival House; "by coin. The first / the second."
-- **Refuge families.** **One remains (V25 #26): the bean-girl and her mother**, who stay because Aira stood at their door. The others left for the river towns after the titans (V25 #6, #26). The last leaves in V26 (DH-048).
-- **Washing court.** Valley natives. Dessa's friend sings badly: "Not yet." One left (V23).
-- **The southern merchant and his guard.** "Monster town is a name now."
+- **The cooper.** V26 #12: uses his own kept coin Day238; daughter (about11) arrives, gets her waiting fort visit/cushion; father and daughter leave together by guarded road Day239 for agreed work and a room. **He never says he won't come back.** No extra core coin used; daughter does not inherit private Trial knowledge.
+- **Lise.** Former old-inn guest; one small V26 #12 beat, then ordinary guarded relocation Day239 with the washing-court remnant.
+- **The register girl.** Arrival House; "by coin. The first / the second." V26 #12: finishes the daughter's record and hands papers to Jinshi before Day239 relocation. Remaining noncore lodging helpers hand over keys/tasks to Jinshi and the house rota.
+- **Refuge families.** **None remain after V26 #17 (Day243).** The bean-girl and her mother sincerely stayed Day219; after the distinct demon lure they choose a guarded move to ordinary lodging/home. Aira/Mikasa escort the first leg and return the same evening; Brenna/Dunmore continue overnight into244. No core resident leaves, and nobody is forced to Return.
+- **Washing court.** Valley natives. Dessa's friend sings badly: "Not yet." One left (V23); the remnant relocates ordinarily Day239 (V26 #12). The house still uses the existing troughs. They cannot Return.
+- **The southern merchant and his guard.** "Monster town is a name now." Hollis is the southern merchant (see route below), not a second invented person. Commercial/guarded route activity continues in V26; do not confuse contracted road partners with the departed refuge/lodging remnant.
 
 ### Arrived in V24
 - **Gojo.** Yuta's coin (Day 132), from after Sukuna cut him, whole. Measurement delayed through the Day 133 fight; first nerf lands only after Rika/Maki interrupt dual Purple preparation (DH-081). After that: Infinity only; a marble of Blue from Day 152 (more, as the threat grows). An untested direction beyond familiar Limitless use (#30), not all powers available from infancy. Yuta tells him about Mau/Sukuna in Not Yet; he shares that limited account with Shoko in Higher Ceilings. Frieren/Mau tell him limited Trial history in Mine Come With a Filter, under the coin-arrival privacy rule; he does not disclose it to Shoko. On Day 212, Mau tells the later arrivals himself (All the Years, DH-099). Gojo already knew the count; the shared coin-cost account is new. Six Eyes notice Ciel, not her private words; conversation requires a spoken relay through Rimuru or Mau. Rematches remain intentions, with recovery, choice and support. **"Around"** for Mau (#33).
 - **Shoko.** Seiko's coin (Day 145), four days after his autopsy. Half of Maomao's clinic (her four rules). The blindfold prescription. One unlit cigarette, saved. Afternoon shift on the rota. West wing, the newest room. Higher Ceilings (Day 152): her second chance includes rest, an afternoon she chooses, returning old humour and connection with Gojo; the maternal care for Mau coexists with her own life. Gojo tells her the already-known Mau/Sukuna injury/survival account. No Trial disclosure there. On Day 212, All the Years gives her Mau's chosen account of deaths/resets, experienced time and the coin reward; not access to every memory.
-- **Yuka.** Maki's coin (Day 141), seventeen, from the end of *Modulo*; the ring is hers again (Continuum brought it). White Divine Dog; Keishoken; the Ten Shadows. Little Sister (Teleport Division). Probationary fort member with a cushion; the white dog is an honorary citizen.
+- **Yuka.** Maki's coin (Day 141), seventeen, from the end of *Modulo*; the ring is hers again (Continuum brought it). Female White Divine Dog; Keishoken; the Ten Shadows. Little Sister (Teleport Division). Probationary fort member with a cushion; the white dog is an honorary citizen.
 - **Ear.** Not a person, but counted: the black dog with one white ear, in his shadow. Post-bell no-summoning holds except the explicitly approved Day 162 five-minute quiet visit, with Rimuru/Ciel overseeing entry/exit (DH-097). No new taming or combat permission.
 
 ### Arrived in V25
@@ -292,3 +292,19 @@ These are threads built in S2 and S3 with real weight. **Check each before every
 ## 2026-10-12 forward-audit handoff
 
 [S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md](./S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md) covers V22 #18 through V25 #27 in the pre-DH-099 numbering. The Day212 insertion and the current V25 index supersede those final chapter numbers; the audit remains historical evidence. Use its dated-state corrections before the older pending-beat suggestions. Mau remains biologically unclassified; Frieren fears a costly, uncertain promise, not an established human expiry date. The reciprocal-choice scene remains an unplaced floating idea, not an event assumed by this ledger. Collective household labels count as presence context, not proof that each member has received an individual scene.
+
+## V26 current state — Day262 (2026-10-14)
+
+The relationship-table dates above preserve earlier major beats; use this current handoff for what has now happened, and the executed outline for exact days/orders.
+
+- **Mau/Frieren:** V26 #20 cup-game supper with Ori; #26 private east-room affection and shared evening; #29 he tells her the Echidna conversation; #30 reports the pull before leaving, asks for help and stays beside her. No species/lifespan or eternal-safety guarantee. Promises are chosen care, not a new permission to control him.
+- **Ori/family:** chooses the game, receives hair care, later draws Milim (#23), has her own fort work (#29). Daughter in daily life; no new origin/agent claim. Same connecting room/trial bed. Rimuru sleeps above the closet, office downstairs, knocks for passage.
+- **Bocchi/Kita/Kessoku:** #3 independent rehearsal, #9 ninth-song tea, #21 existing music-room craft/original arrangement, #27 rain rhythm. Visible girlfriends and band agency; no S5 live spent. Carmilla remains Bocchi's friend.
+- **Science quartet:** #19/#22 Senku, Maomao, Kusuri and Shoko build/test a covered cloth case. Each changes the design/testing; bedside reach matters. #27 damp cover needs ordinary care. No sterile supply, cure or unlimited RCT. #4 Shoko chooses her own river afternoon with Gojo; saved cigarette remains saved.
+- **Five/witches/Mai:** #8 the five's own room/choices; #7 Sekhmet timber judgement/Minerva care; #9 tea and individual witch presence; #11 Mai/Yuka/Mau construction-cost understanding. Private Mai history stays protected. No new mandatory ships.
+- **Rem/Mau and Ram:** #28 mutually chosen support and ordinary washing; Rem/Ram have an afternoon of their own. Weekly mana care stays weekly. Mutual bond builds on Only When It Rains, not a first confession or caretaker reset.
+- **Other independent bonds:** Anko/Nazuna #10 watch/rest friendship; Fern/Stark #15/#24; Momo/Okarun/Vamola #24/#27; Eren/Mikasa #1/#6/#25/#27; Marin/Wakana #25/#27. Existing couples do not reset. No Senku/Suika romance.
+- **Gate/road cast:** Hollis returns225 before the decision226. Manual perimeter begins228; one hung north leaf242–244; two basic gates usable253 with unfinished walks/stonework/drains. House vermilion columns separate. Lime unchanged, threat class not solved. Ashby still closed, Fallow partial. Paid warriors remain; register duties pass to Jinshi/house rota. Aira's farewell is attachment, not a permanent departure.
+- **Final knowledge:** Echidna hears Mau's account of V14's door and recalls Nokotan's once-only deer-shaped hole (#29); no mechanism proved. No one crosses the final arrival-state opening (#30). Ciel private hosts remain Mau/Rimuru, public speech relayed. Goddess/Ori origin, new coins, Red Gate, screen reward and summer arcs stay future.
+
+**Age-line repair:** V24 #32 Are You With the Elf now says Mau looks younger but does not know his actual age. It was an ambiguous/error line, not a canon intentional lie; no Day155 Trial disclosure added. Yuka stays his little sister, her later Day212 knowledge unchanged.

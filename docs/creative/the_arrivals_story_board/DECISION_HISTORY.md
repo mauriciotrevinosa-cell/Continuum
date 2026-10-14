@@ -1697,3 +1697,17 @@ Creator proposes Frieren returning Mau's embarrassment, It's your fault, his old
 - Mau did not know the coin reward beforehand and did not enter the Trial to purchase later arrivals. 437 confirmed deaths is not437 confirmed coins. New arrivals do not owe him their lives or compliance. His present relationships and the newcomers' individual ties remain real.
 - Correct the age-joke antecedent's retained outside-time slip in Mimics Found: Three: hours, not days (Rule Five establishes5h41m). The subjective millennia and joke remain.
 - CAST_LEDGER_S4, CANON_TRAPS, production/volume indexes and V25/season plans aligned. Keep Higher Ceilings' Day152 privacy unchanged. Existing reading bookmarks use stable chapter IDs.
+
+## DH-100 — V26 closes S4 with a lived ensemble (creator authorisation, 2026-10-14)
+
+The creator asks to finish S4 from Claude's GitHub handoff, improving/expanding rather than reinventing; give quiet cast real beats. Further instruction: not only Kessoku/Bocchi, but Ori/family, relationships and Senku/Maomao/Kusuri working with Shoko as a science quartet. Long volume welcome. Do not begin S5; the creator wants to develop it first.
+
+- Implemented as V26 **The Wall Eren Hated**, 30 chapters, S4E33–E37, Days221–262. This is a production draft for read-through, not automatic creator approval. S4 total212 chapters/Volumes20–26. [Executed outline](S4_V26_PLAN_2026-10-14.md) records the exact sequence/authority.
+- Closing debate waits for Hollis; staged manual perimeter and safe controlled exits. Two local Frieren-world demons stopped outside the line, no larger-villain resolution. Last refuge family makes a fresh voluntary ordinary move; cooper's own coin/daughter visit/departure, native/staff handoffs accounted for. Paid route partners remain.
+- Full independent Kessoku/music/witch/five/Mai scenes; Ori's chosen everyday family moments; science quartet modest cloth case; existing couples/friendships/rest routines preserved. No mandatory new ships or medical miracle.
+- DH067 seed: limited Echidna door/deer-hole comparison. Rem/Mau mutual care precedes the door. Final opening, body pull, reporting/help and held choice beside Frieren; S4 ends here. No Goddess/Ori explanation, crossing or S5 coda.
+- Source authority: latest S5_CREATOR_DIRECTION V26 section, S4_SEASON_PLAN, Story Constitution and current prose/ledger/traps. Preserve new floating ideas without activating them. Plan/ledger/index updated in the same change; S5 remains unwritten/unapproved for production.
+
+## DH-101 — Mau's unknown actual age in Are You With the Elf (continuity repair, 2026-10-14)
+
+Creator previously asks whether "Younger" is a lie/error and whether Yuka's sibling bond survives the explanation. No intentional lie was established. Minimal Day155 dialogue/metadata correction: he looks younger but does not know his actual age; Yuka notes people usually know that. The long-sneeze joke and sibling/Frieren resolution remain. No early Trial account, biological classification, mortality limit or relationship reset. Later How Long/All the Years accumulated-time account still stands. No other earlier scene is rewritten.

@@ -336,4 +336,14 @@ not on this list. Add a line every time the creator catches a new slip.
 - Ram's fill is weekly, so on an ordinary day Frieren "sits with" Ram rather than filling her.
 - Only Nokotan went home through the hole. Her herd went back to the forest, and *the* deer was never hers.
 - The bean-girl swept the step of the empty cottage (Day 122), not the step of Arrival House.
-- **Open (ask the creator):** S4 often says "came/brought over the bridge" to mean "arrived in this world", including for people who arrived before the bridge existed: Mai, Kaneki, the Kessoku guitars, Maki's spear, Stark's axe, Marin and Wakana, the five, Diablo. V25 #4 uses it as an explicit metaphor. Leave existing uses alone until the creator rules on it, and do not use it for a literal arrival that came before S3 V16.
+- **Resolved by creator (2026-10-14 handoff):** "came/brought over the bridge" is an accepted metaphor for arriving in this world. Keep existing idioms, including pre-bridge arrivals; do not turn that metaphor into a literal earlier crossing of a bridge that did not exist.
+
+## V26 closing-state traps — DH-100/101
+
+- Wall decision226 follows Hollis's actual return225. Manual staged labour, not Foundation reuse; both basic gates only usable253. House columns and perimeter gates are different. Unfinished drainage/walks/stone and unknown protection limits remain.
+- Last refuge departure243 follows a new threat and chosen move; Day219 stay was sincere. Aira/Mikasa return that evening; Brenna/Dunmore travel overnight. Native washers cannot Return. Jinshi/house rota inherit former staff work. Hollis is the southern merchant, not a newly separate native; contracted road workers remain despite refuge/lodging Ring Four emptying.
+- Yuka's White Divine Dog is **female**, and is not Mau's male Ear. No unrestricted Ear use in this volume.
+- Cloth case is ordinary covered storage for already washed/dried cloth, not sterilisation or a cure. Science quartet is work, not a four-way ship. Shoko's private life/rest remain.
+- The ninth harvest song is paid off232, not still owed; no summer-live event. Ori's game/portrait are ordinary family time, not the later formal family day/origin arc.
+- Final opening resembles the V14 arrival-state door; no crossing/cure/closure, no Goddess, no proven time travel. Echidna's deer-hole comparison is only a question. End S4 on Mau's choice beside Frieren; no coda. S5 requires creator go-ahead.
+- V24 Are You With the Elf: appearance does not establish Mau's biological age or lifespan. He does not know his actual age. No intentional lie or early Trial disclosure is added; Yuka's sibling bond is intact.

@@ -43,3 +43,7 @@
 ## Creator addition — 2026-10-14 (DH-099)
 
 All the Years is added to V25 on Day 212, after the Jiji dinner and before Market Day: a quiet shared breakfast leads Mau to choose an afternoon Trial account for the coin arrivals. V25 now has 28 chapters; the original 27-chapter draft remains recorded in DH-068. The Day 221 closing and the unresolved V26 city-wall discussion retain their place. This disclosure changes who knows the Trial's personal cost from this point onward; it does not give all arrivals that knowledge earlier.
+
+## V26 execution — 2026-10-14
+
+V26 is now a **30-chapter production draft**, S4E33–S4E37, Days221–262: [executed outline](S4_V26_PLAN_2026-10-14.md), [reader index](../THE_ARRIVALS_LN_VOLUME_26_INDEX_v0.1.md). S4 closes on Mau's held choice beside Frieren at the door; no coda or S5 prose follows. This executes the newer creator handoff's immediate-door S5 transition, superseding the old table's generic breather-opening wording. Family, Ori, Kessoku and a science quartet receive full everyday scenes. Creator read-through remains open. S5 ideas remain unbuilt and need the creator's later greenlight.

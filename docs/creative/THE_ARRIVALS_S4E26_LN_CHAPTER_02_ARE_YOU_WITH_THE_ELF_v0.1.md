@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 24
 ## Chapter 32 — Are You With the Elf?
 
-**Status:** LN PRODUCTION DRAFT — S4 v0.1  
-**Volume:** 24  
-**Reading order:** 32  
-**Continuity state:** Day 155 | behind the barn, Maki's warning: not that the elf would hurt her, that she'd step back | under the ink tree: 'Are you with the elf' / 'Yes' / 'How old are you?' / 'Younger' | Frieren crosses the yard; Milim, Guardian: 'Your hand is glowing' / 'I'm holding you' / 'It's not the same' | 'I DON'T LIKE HIM LIKE THAT' | then the real question: 'It was my fault' | Frieren: 'The danger didn't begin when you came'; 'This one isn't yours'; her hand on Yuka's head | Umaru: 'The position of little sister is filled' / LITTLE SISTER (TELEPORT DIVISION), probationary | 'I'm still going to sit on your other side'
+**Status:** LN PRODUCTION DRAFT — S4 v0.1
+**Volume:** 24
+**Reading order:** 32
+**Continuity state:** Day 155 | behind the barn, Maki's warning: not that the elf would hurt her, that she'd step back | under the ink tree: 'Are you with the elf' / 'Yes' / 'How old are you?' / looks younger, actual age unknown | Frieren crosses the yard; Milim, Guardian: 'Your hand is glowing' / 'I'm holding you' / 'It's not the same' | 'I DON'T LIKE HIM LIKE THAT' | then the real question: 'It was my fault' | Frieren: 'The danger didn't begin when you came'; 'This one isn't yours'; her hand on Yuka's head | Umaru: 'The position of little sister is filled' / LITTLE SISTER (TELEPORT DIVISION), probationary | 'I'm still going to sit on your other side'
 
 *When: Day 155. Yuka woke in her own bed with no idea how she got there; Mai has said nothing to anyone; the fort has noticed that its President spent two days "passing" Mau and has not been told why.*
 
@@ -112,9 +112,9 @@ Mau looked at her.
 
 Yuka stared at him. "How old are *you*?"
 
-"Younger," said Mau.
+"I look younger," said Mau. "I don't actually know my age."
 
-"That's—" Yuka opened her mouth. She closed it. "That's a *lot* younger."
+"That's—" Yuka opened her mouth. She closed it. "People usually know that."
 
 "She says two years is like a sneeze to her," said Mau. "So I'm trying to be a long sneeze."
 

@@ -264,3 +264,14 @@ not on this list. Add a line every time the creator catches a new slip.
 - Mau still has almost no available mana. The route and all guardrails stay closed. Developing Six Eyes-style perception/efficiency makes that trace sufficient for this small casting by nearly eliminating waste; it does not create fuel, open longevity, or make mana literally unnecessary.
 - Ciel initially proposes body accommodation as a POSSIBILITY. Observing uncontrollable flower-detail sight changes her diagnosis to the developing eyes' efficiency and prompts Look away. She is not silently granting a new permanent safe power or a cure.
 - Early efficiency precedes the later completed-eye reveal. Preserve build timing, information-overload danger and later costs. No unlimited spells or zero-cost magic.
+
+
+## Six Eyes catastrophe continuity — DH-091
+
+- The old counted inventory is not the limit of what Mau's memory can feed into Analyze. Construction continues during breach; failed/new domain interactions are not acquired, safe, usable hybrid powers. More possible patterns does not provide infinite energy, a new numerical multiplier, or a healthy body.
+- The eyes have not read the entire universe. Sleeping unfiltered perception deepens into the surrounding room and eventually the guardrails; later explanations must match this.
+- Gojo recognises familiar mechanisms, not every unnamed thing. His attention habits buy time. Cloth alone neither disables Six Eyes nor seals Construction. Ciel/Rimuru's filter requires active testing and rest; containment is distinct from medical repair and never a guarantee against recurrence.
+- Two Infinities do not cancel each other. Initial rescue lifts existing bedding. Later contact is a narrowly allowed approach by Mau, not a general bypass acquired by Gojo.
+- Frieren's wish for longer is not proof Mau can live forever, that he is human, that the elf route is complete, or that this breach was a chosen attempt to fulfil her promise. She states her fear herself in Something Wet. Mau's desire for time and uncertainty coexist. Keep later reverse-flight and S5 door proposals open.
+- Do not make all witnesses inherit Mau/Ciel/Frieren's earlier private knowledge of the unidentified voice. No newly established speaker identity.
+- Yuka's guilt is not the narrator's verdict. Taming strained containment, but the unfiltered eyes and prior repairs also matter. Reassurance must not call the catastrophe inevitable or promise that Mau will certainly resume secret solo attempts.

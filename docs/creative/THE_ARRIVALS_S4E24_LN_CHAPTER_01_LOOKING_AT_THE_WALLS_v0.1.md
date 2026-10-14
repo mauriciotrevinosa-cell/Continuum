@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 22  
-**Continuity state:** Day 145, reset hour | after a day and a half asleep the eyes have read everything outside, so they look in | he sees the guardrails, beautiful and thin, every mended place | Ciel, afraid: 'Close your eyes' / they won't | Frieren's hand stops an inch away: Infinity | the wheel turns at the walls as an injury; the east window cracks; the shelf falls | the seal bell, three long one short | Gojo carries him out of the house he built | Ciel: 'I don't know if I can hold this'
+**Continuity state:** Day 145, reset hour | after a day and a half asleep, unfiltered perception turns from the surrounding room toward the guardrails | he sees the guardrails, beautiful and thin, every mended place | Ciel, afraid: 'Close your eyes' / they won't | Frieren's hand stops an inch away: Infinity | the wheel turns at the walls as an injury; the east window cracks; the shelf falls | the seal bell, three long one short | Gojo carries him out of the house he built | Ciel: 'I don't know if I can hold this'
 
 *When: Day 145, a day and a half after the taming. Ear is asleep in Mau's shadow; the walls are holding, and tired; the gate is in its sixth week. Gojo has not slept since the south field.*
 
@@ -22,7 +22,11 @@ But he had been asleep for a day and a half. And while he was asleep, nobody had
 
 So they had turned round.
 
-They had looked at everything outside. The river. The stars. The sea inside Frieren. Every grain of every table. They had read all of it. There was nothing outside left that they had not read.
+They had gone on reading while he slept. The room. The beam. The weight of Frieren's mana beside him. The same small things, deeper each time, without anyone choosing where to stop.
+
+They had not exhausted the world. They had found something nearer.
+
+The joins between what he felt and what he was allowed to feel.
 
 So when he woke, and opened them, they did not look out.
 
@@ -130,7 +134,7 @@ He heard her go. Fast. Out of the door, down the corridor. And then, a moment la
 
 They got him out of the house.
 
-He did not know who. Gojo. It must have been Gojo. Someone very tall, with arms that did not stop at the Infinity, because the Infinity met the Infinity and simply passed through. Someone who picked him up off the bed, sheet and all, the way Rika had held him in the south field. Someone who carried him down the stair and through the common room and out of the door, under the vermilion columns, into the grey dawn.
+He did not know who. Gojo. It must have been Gojo. Someone very tall who could not reach his skin either. Who gathered the sheet already lying beneath him, keeping his hands outside the slowing space. Not one Infinity cancelling another. A man carrying the bedding because he could not touch the man in it. Someone who picked him up off the bed, sheet and all, the way Rika had held him in the south field. Someone who carried him down the stair and through the common room and out of the door, under the vermilion columns, into the grey dawn.
 
 "Not the house," said Gojo, through his teeth, carrying him. "Not the house. You built the house. You're not doing this in the house."
 
@@ -159,3 +163,17 @@ Because the wheel was turning, and turning, faster than it had ever turned. Not 
 And Ciel, inside him, very quietly, said the thing she had never once said in all the time he had known her.
 
 *I don't know if I can hold this.*
+
+Inside the walls, Mau tried to say *stop*.
+
+Analyze was still working. Not waiting its turn behind the finished things. Working on what the eyes were showing it, comparing a repaired join to a remembered shape, trying another construction before the first had failed.
+
+Ciel closed a seam. A different pressure found its edge. She closed that too, and felt the first seam change beneath her.
+
+*It isn't only escaping,* she told Rimuru. *It's building while I hold it.*
+
+Mau could feel the work. He could not make it his work. He could not tell it which part of him it was allowed to spend.
+
+He tried to remember Frieren's foot against his leg. Only that. Cold. Real. Before the bell.
+
+For a moment he could not remember which leg.

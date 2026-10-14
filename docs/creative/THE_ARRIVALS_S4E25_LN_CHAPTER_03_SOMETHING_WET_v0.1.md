@@ -100,6 +100,60 @@ Frieren made a sound against his chest. It was not quite a laugh. It was the pla
 
 "You do," she said. "You always have. I've just never—" She stopped. "I never minded before."
 
+She stayed against his chest. Her hands loosened, and then tightened again.
+
+"There's something else," she said.
+
+He waited.
+
+"I asked you to stay. Longer. With me."
+
+"I remember."
+
+"I know you do." Her voice was very small. "That's what frightens me."
+
+He did not answer quickly. She needed him not to answer quickly.
+
+"On the field I kept thinking that you'd found another thing you had to survive. Another piece you needed. And I had asked you for a life we don't even know your body can give you." She lifted her face. Her eyes were wet. "I don't know what you are, Mau. I don't know how long you can live. I don't know whether trying to find out will take you away before we get any of it."
+
+He held her hands. Neither of them was looking at the damp shirt now.
+
+"I didn't make the eyes because of that promise," he said.
+
+She closed her eyes. "I know. I can know that and still be afraid."
+
+"I know."
+
+"I wanted more time with you. I still want it. Even after seeing that, I still want it." The words broke. "And it hurts to want something from you when I don't know if you can do it. I don't want you trying to survive forever because you think I won't forgive you if you can't."
+
+"Do you think that?"
+
+She shook her head against him. "No. I don't know if *you* know it."
+
+He looked down at their hands for a long time.
+
+"Then tell me."
+
+"If you can't," said Frieren, "you can tell me. You don't have to find one more way before you're allowed to say it."
+
+She had to stop. He waited again.
+
+"I won't love you less."
+
+Mau bent his head until it rested against hers. He had no answer for the years. No new fact about his body. Nothing to make that part safe.
+
+"I want the time too," he said. "It isn't only something you asked for. But I can't tell you how much there is."
+
+"Don't promise tonight."
+
+"Okay."
+
+She cried against him, no longer trying to keep it silent. He held her. He did not turn her fear into a task he could finish before morning.
+
+After a while she asked him to come back to bed. Not to sleep yet. Just to lie beside her while she could feel him breathe.
+
+"I can do that," he said.
+
 At the reset hour, on the floor of the east room, she put her cold foot against his leg.
 
 "One," said Frieren. Her voice was almost steady. "Still here."
@@ -162,7 +216,15 @@ Frieren did not say anything.
 
 "That's worse," said Frieren.
 
-"Yes," said Himmel. "That's much worse. That's much braver."
+"Yes," said Himmel. "And he shouldn't have to keep proving he can bear it."
+
+Frieren looked at him.
+
+"This time he didn't choose the danger," said Himmel. "You just told me that. Don't let holding on afterward become a reason he has to do it again."
+
+She looked back at the road. "I don't want him to."
+
+"Then we help him find something else. Going in front was never supposed to be the only thing we knew how to do."
 
 She stood beside him in the dawn, between the columns he had asked for and Marin had painted red, so that anyone coming up the road would know at once that this was a place where great things happened. She looked at the road for a long time.
 

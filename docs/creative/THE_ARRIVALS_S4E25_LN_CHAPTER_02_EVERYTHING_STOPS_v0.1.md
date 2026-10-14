@@ -156,7 +156,7 @@ Mau opened his eyes.
 
 The clinic ceiling. Clay, washed white, with a beam across it.
 
-Just the ceiling. Not every grain of clay. Not the exact weight of the beam, or how long ago the tree it came from had died. Just a ceiling. He could feel, somewhere behind it, very far back, the eyes. Waiting. Ready to see everything, the moment he asked. But he did not ask. And they did not show him.
+Just the ceiling. Not every grain of clay. Not the exact weight of the beam, or how long ago the tree it came from had died. Just a ceiling. He could feel, somewhere behind it, very far back, the eyes. Waiting. Ready to pull him deeper into what he looked at, if he let them. But he did not ask. And they did not show him.
 
 He turned his head.
 
@@ -165,6 +165,12 @@ Frieren was on the floor beside the bed, awake, looking up at him.
 He looked at her face. Just her face. Her eyes, green. Her mouth. The tired shadows under her eyes. He did not go through. He did not see the sea. He could have. He knew he could have. He looked at her face, and only her face, and it was the most beautiful thing he had ever seen.
 
 "Hi," said Mau.
+
+Gojo kept his hand close to the blindfold. He waited until Ciel confirmed the filter was holding before he put it on the stool.
+
+"That's enough for now," he said. "We test again with the doctor. No seeing how far it goes."
+
+Mau nodded. He had wanted the ceiling to be enough. Now that it was, he was afraid to move his eyes away from it.
 
 Frieren did not say anything.
 

@@ -4,17 +4,25 @@
 **Status:** LN PRODUCTION DRAFT — S4 v0.1  
 **Volume:** 24  
 **Reading order:** 24  
-**Continuity state:** Day 145 | Gojo looks into everything and bears it | Ear lets him come | 'Mine come with a filter. Yours don't. So borrow mine.' The blindfold | 'Pick one thing. Look at my voice' | Ciel: the filter was behind his eyes, a habit; she builds it into new walls while Rimuru holds | Gojo talks: the airport, rice cakes, Yuta, Shoko / 'Keep talking' | everything recedes; the wheel sinks into his shadow | blood from under the blindfold; Maomao has nothing | Seiko's coin: 'You are sure? Shoko Ieiri.' / 'Yes. God. Yes. Now.' | Frieren's forehead against his; the bell stops
+**Continuity state:** Day 145 | Gojo recognises the familiar structures but cannot map the whole breach; repeated failed anchors buy an uncertain opening | Ear lets him come | 'Mine come with a filter. Yours don't. So borrow mine.' The blindfold | 'Pick one thing. Look at my voice' | Ciel: the filter was behind his eyes, a habit; she builds it into new walls while Rimuru holds | Gojo talks: the airport, rice cakes, Yuta, Shoko / 'Keep talking' | everything recedes; the wheel sinks into his shadow | blood from under the blindfold; Maomao has nothing | Seiko's coin: 'You are sure? Shoko Ieiri.' / 'Yes. God. Yes. Now.' | Frieren's forehead against his; the bell stops
 
 *When: Day 145, the same dawn, the same field, a minute later. The witches hold the bottom of the slope. Frieren is at the fence with Milim's hand round her wrist.*
 
 Gojo knelt down beside him in the hanging snow and took the blindfold off.
 
-He had not taken it off in front of anyone since the doorway of the real house, when a girl had looked at him and said *Grandpa*. He took it off now. In the middle of the south field. Under the wheel. With the currents of light pouring up out of the man on the ground and branching out over the field. With the shrine cutting the air into nothing and the Void flickering open and shut and Blue and Red orbiting each other overhead. With all of it hitting his eyes at once.
+He had shown them his eyes before. At the table. In lessons. This was different. He took the blindfold off now. In the middle of the south field. Under the wheel. With the currents of light pouring up out of the man on the ground and branching out over the field. With the shrine cutting the air into nothing and the Void flickering open and shut and Blue and Red orbiting each other overhead. With all of it hitting his eyes at once.
 
-His eyes were blue like the sky. They took it in. All of it. Everything. Every current, every shape, every cut in the air, every flicker of the Void. And his face did not change at all.
+His eyes were blue like the sky. He found the familiar structures first. The cuts. The attraction and repulsion. The black boundary changing position.
 
-That was what Frieren remembered. From the fence. He took the blindfold off and looked straight into the middle of everything, and he could bear it. Because he had been born with eyes like that, and his brain had grown up round them, and learned, a long time ago, when he was a baby, how to decide what not to see.
+Then something moved between those structures that he could see and could not interpret.
+
+He tried to follow it. Blood touched his upper lip.
+
+Gojo turned his attention back to Mau's face.
+
+That was what Frieren remembered afterward. Not a man who could take in everything. A man who knew when looking at more would cost the one thing he had come to do.
+
+He had lived with those eyes all his life. He knew how to leave information alone. Mau did not. That difference was still something he could give him.
 
 Ear growled at him.
 
@@ -34,7 +42,19 @@ It stopped growling. It did not move off Mau. But it let him come.
 
 
 
-Gojo leaned over Mau, and lifted his head off the dead earth, very carefully, with one long hand under the back of his skull. Mau's eyes were open. Blue. The blue of the sea a long way out. Looking straight up past Gojo at the wheel, at the light, at everything. Moving. Reading. Very fast.
+Gojo leaned over Mau. His fingers slowed above the sheet.
+
+"Mau. I need you to let me near. Not everything. Just me."
+
+Nothing changed.
+
+He waited beside the man on the ground while another cut went through the field behind him.
+
+"You don't have to shut it all down. Hear me first."
+
+Mau's fingers moved against the earth. The space above the sheet loosened, unevenly, just enough. Gojo slipped his hand underneath before it narrowed again. Mau had allowed him in. It was small and local, and it had cost him.
+
+Gojo lifted his head off the dead earth, very carefully, with one long hand under the back of his skull. Mau's eyes were open. Blue. The blue of the sea a long way out. Looking straight up past Gojo at the wheel, at the light, at everything. Moving. Reading. Very fast.
 
 Gojo looked down into them.
 
@@ -42,7 +62,7 @@ Gojo looked down into them.
 
 Mau did not answer. His eyes did not move off the sky.
 
-"Yeah," said Gojo softly. "I know. I know what you're seeing. I can see it too." He shifted his grip. "It's a lot, huh. It's everything. It's the walls and the wheel and every little piece you're missing and you can't stop looking at any of it. Because it's all there. Because if it's there, you have to see it." His voice did not change. "That's what these do. That's what they always do. They'll show you everything, forever, until you're dead, if you let them."
+"Yeah," said Gojo softly. "I know the looking. Not all the things you're seeing. The looking." He shifted his grip. "It's a lot, huh. It's everything. It's the walls and the wheel and every little piece you're missing and you can't stop looking at any of it. Because it's all there. Because if it's there, you have to see it." His voice did not change. "That's what these do. That's what they always do. They'll show you everything, forever, until you're dead, if you let them."
 
 He held up the blindfold.
 
@@ -51,6 +71,8 @@ He held up the blindfold.
 He put it over Mau's eyes.
 
 He tied it at the back of Mau's head, gently, with his long fingers, the way you tie something on a child. The black band of cloth that he had worn every day of his life since he was small. Across the ocean eyes. Pulled snug. Knotted once.
+
+The cloth did not turn the eyes off. It did not stop them reading inward. It gave Mau something simple against his skin, a place to begin choosing, if he could.
 
 The currents of light over the field flickered.
 
@@ -69,6 +91,20 @@ The wheel overhead turned.
 But slower. Mau felt it. Frieren, at the fence, felt it. Everyone felt it. A half-beat slower than the last.
 
 "Good," said Gojo. "Good. Keep doing that. Look at my voice."
+
+The next turn came faster.
+
+Gojo felt Mau's head go heavy in his hand. The small opening that had admitted him tightened against his wrist.
+
+"No. Stay with the sound. Not what makes the sound."
+
+Under the blindfold, Mau's mouth opened. No words came. Gojo could see the strain at his jaw. He was trying to follow an instruction that the thing looking inside him kept turning into more information.
+
+"Don't take me apart to find it. You already know my voice."
+
+The ring of light above them changed shape. Somewhere up the slope, someone shouted for another retreat.
+
+Gojo kept speaking. He stopped saying *good*. He listened for a response.
 
 
 
@@ -99,6 +135,28 @@ Gojo laughed. It was short and cracked.
 Rimuru's face was grey and wet. His hands shook so hard that the air between them shimmered. But he nodded.
 
 "Go," he said.
+
+Ciel began with one place where the eyes could decline an answer.
+
+It failed.
+
+The wheel had already read the pressure of the old walls. Another obstruction, however neatly made, gave it something else to work against.
+
+*Not there,* said Ciel. She withdrew the unfinished join before it tore. *I have to leave the choice with him.*
+
+Rimuru's knees bent. He straightened them. He did not have another pair of hands to spare.
+
+The second attempt held for a breath. Then Mau's attention slipped and the branching light surged outward again. At the bottom of the slope, Pride took a step back. Minerva caught Sekhmet. They closed the gap, but it stayed closed only because all seven moved with it.
+
+Gojo saw that. He saw the ridge behind them. He looked down at the blood beginning to gather under Mau's nose.
+
+"We're here," he said. "You don't have to finish anything. We're here."
+
+He had said things like that to students he had not brought home.
+
+This time he could not let the words become a promise he had no way to keep. He needed Mau to hear them. Ciel needed him to choose. Rimuru needed time his shaking body could still give.
+
+He started again.
 
 
 
@@ -136,7 +194,17 @@ And he did.
 
 
 
-Behind Gojo's voice, while he talked, the walls came back.
+Behind Gojo's voice, while he talked, one part of the filter held.
+
+Not the whole structure. One place where Mau had heard him and had not followed the sound down into its workings.
+
+Ciel kept that place. She built the next beside it. When that failed, she returned to the part that held instead of making the failed part stronger.
+
+The work was slow beside the speed of what was coming apart.
+
+Then another place held.
+
+The walls began to come back.
 
 Frieren watched it from the fence. Not the walls. Nobody could see the walls. She watched what they did.
 
@@ -236,7 +304,17 @@ Then it was gone.
 
 Gojo opened his hand and looked at the empty palm for a long moment in the falling snow. Then he put it back under Mau's head, very gently, with the other.
 
-"Okay," he said, to the man in the blindfold. His voice was not steady at all. "Okay. Hold on. The doctor's coming. The real one. Hold on."
+"Okay," he said, to the man in the blindfold. His voice was not steady at all. "Okay. Hold on. The doctor's coming. Hold on."
+
+"We don't know when," said Maomao.
+
+She took his free hand and put it where she needed support under Mau's shoulder. She checked his breathing again. Called for a dry blanket, and people to clear the route. There was still work she could do. It was not the work that would mend him.
+
+Gojo nodded. He could heal himself. That had never meant he could give the same healing to someone else. Nor could he make the coin's answer an arrival.
+
+They would have to get him to the clinic alive. Then keep him alive while they waited.
+
+On the ridge, Yuka heard the order for a blanket and ran to fetch one. Maki went with her. She could do that. She could still do that.
 
 At the fence, Milim let go of Frieren's wrist.
 

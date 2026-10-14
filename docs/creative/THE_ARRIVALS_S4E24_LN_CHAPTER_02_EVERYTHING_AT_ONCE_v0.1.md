@@ -70,9 +70,11 @@ It came up out of the earth to the left of Mau, all at once, the way it had in t
 
 "*Back,*" said Yuta. "Everybody back. Further."
 
-Nobody moved back. Nobody could.
+For a beat, nobody moved. Then Maki pulled Yuka back by the shoulder, and Fern called the retreat, and the line began to move. Okarun took the outside, between his pocket and the field. Milim moved with Frieren without releasing her wrist.
 
-Because then the Void opened.
+They had practised this. They could do this.
+
+Then the Void opened behind the place they had just left.
 
 Not round Mau. Round nothing. A black sphere, perfect, the size of a house, in the middle of the field. And then it was not there. And then it was, somewhere else, further toward the river. And then gone. And then back. Flickering. Opening and closing. Like an eye blinking. Like something that did not know where it was supposed to be.
 
@@ -88,6 +90,26 @@ Because that was the finished things. The things in him that were whole. She had
 
 And now the walls were going. And behind the finished things were the other things.
 
+The shrine's next cut stopped halfway across a post.
+
+For one impossible moment she thought the danger had lessened. Then the other half of the post split higher up, where nothing had touched it. The edge of the black sphere had folded across the path of the cut. The next cut followed that fold.
+
+"That isn't mine," said Gojo.
+
+The sphere blinked out. It returned with a narrow opening in its surface, facing the shrine. Something pale passed through the opening. A tooth, or the beginning of one. The black surface closed around it and split again somewhere else.
+
+Not a new finished domain. A boundary being tried, discarded, built differently. Pieces that should not have fitted were being made to meet. Each attempt failed. Each failure changed the next attempt.
+
+Rimuru called something from below. She could not hear the words. She saw him push both hands down. The opening vanished.
+
+It appeared again on the other side.
+
+"They're not staying what they were," said Yuta.
+
+His voice was enough to make Yuka look at him. Her grandfather. Then at Gojo, who had fought the thing those cuts belonged to. Neither of them was telling her that they knew how this ended.
+
+She had seen Mau get hurt. She had stood in the circle with him and made a plan. This was not the plan going badly. The field was changing faster than anyone could finish describing it.
+
 
 
 They did not come out right.
@@ -97,6 +119,26 @@ That was what she would remember, afterward, at the reset hour, with her foot ag
 A circle of light drew itself in the air over Mau's knees. Lines and curves, very fine, very precise, the shape of a glyph. Coco's kind of glyph. Witch Hat. Drawn in light instead of ink. It got halfway. Two-thirds. And then it stopped, because there was no ink, because it had never had ink, because that was the piece it was missing. It hung there unfinished in the air and *sparked*. Hissed. Spat little flashes of white like a wire too close to water. And then it broke, and drew itself again, and got two-thirds, and broke.
 
 Over and over. Like someone trying to remember a word.
+
+Then the break moved. The next circle was smaller. One stroke branched where it had been straight. It still failed; light was not the missing ink. But it did not return to the same beginning.
+
+Frieren understood that difference before she wanted to.
+
+It was learning from the failure.
+
+Below the wheel, Rimuru tried the old closure. The one that had held through the plaza. The currents pressed against it, and for one breath they stayed inside.
+
+Then they separated. Fine threads spread along its outline. A seam opened somewhere Rimuru was not holding.
+
+He moved his hands. Closed it. Another opened.
+
+Gojo shouted for everyone to keep moving uphill. Not toward the house. Not toward the cellars. Along the fence toward the ridge, away from the reaching light. The fence was no longer a safe line by itself; they kept moving along it when the reach changed.
+
+At the cellar stair, Umaru counted the people she could touch. There was no view of the field from down there. Dust fell with every turn. Someone asked if the roof was coming down. She gave them the next person's name to answer instead.
+
+Ori answered hers with both cars pressed to her chest.
+
+Above them, the bell went on.
 
 A hand came up out of the earth beside Mau's shoulder. Huge. Pale. Long-fingered. Half of a hand. The shape of Rika's. It reached up out of the ground toward the sky and closed on nothing and opened and reached again, and there was no arm behind it, no Rika, nothing but the hand. And at the fence, Rika, round Yuta, made a sound like a scream with no air in it. And Yuta put both hands over the ring on his finger and held on.
 
@@ -136,7 +178,27 @@ He was standing up. He had been kneeling beside Mau in the middle of the field a
 
 His voice carried. It carried the way voices carry over snow. Very quietly.
 
-"It can see everything it's missing," said Gojo. "Every piece. The eyes showed it. And now there's nothing stopping it from going to get them."
+"It's looking for parts," said Gojo. "That's what those branches are doing. I don't know what all of them are trying to build."
+
+He stepped between Mau and a thread that was turning toward the ridge. The thread bent around the space he denied it. It did not get through his Infinity. It went looking for a different way.
+
+Gojo looked back at Mau.
+
+For the first time, Frieren saw him hesitate.
+
+He could stop a thing that reached him. He could not make the entire field stop reaching without knowing what that would do to the body in the middle of it.
+
+*This is not the old inventory,* Ciel told Rimuru. *Memory is being used as material. Things I have never had to contain. I cannot finish mapping one before another changes.*
+
+Rimuru repeated only the part the people on the ridge needed.
+
+"Further back. We don't know the reach."
+
+Rika moved with them, keeping herself between the threads and the retreating people. Yuta fed her what he could. No domain. Nothing to add to the field. Just enough to meet the pressure trying to cross the line, and more when that wasn't enough.
+
+Maki saw his knees give. She took his weight without asking him to stop. There were still people moving behind them.
+
+Yuka's white dog stayed between her and the field. She backed away with Maki. She was crying now, angry with herself for doing it, unable to stop. Down below, Mau's face had not moved once.
 
 And down in the middle of the field, beside Mau, something black came up out of his shadow.
 
@@ -186,13 +248,15 @@ She did not know how. It was not loud. It was not anything. It came from the mid
 
 Frieren went cold all the way through.
 
-She had not heard it in the plaza. Only Mau had heard it, and Ciel. She knew about it. Everyone knew about it. *Let me out.* A voice from under the wall, that was not the dog, not the wheel, not any counted thing. Nobody knew whose.
+She had not heard it in the plaza. Only Mau had heard it, and Ciel. She knew what Mau had told her about it. Hearing it was different. Around her, people turned toward the field; some had no old account to attach the voice to at all. *Let me out.* A voice from under the wall, that was not the dog, not the wheel, not any counted thing. Nobody knew whose.
 
 She heard it now.
 
 So did Gojo. She saw him go still, in the middle of the field, in the hanging snow, with his head turned toward Mau. Toward the place under the light. His blindfolded face very still.
 
-"There's someone in there," said Gojo. Very quietly. To nobody. "There's someone *in* there."
+"That sounded like someone," said Gojo. Very quietly. To nobody.
+
+He did not give it a name. He did not know whose voice it was.
 
 *Let me out*, said the voice again. Fainter. Further down. As if it were being carried away under the light. Or as if it were coming up.
 

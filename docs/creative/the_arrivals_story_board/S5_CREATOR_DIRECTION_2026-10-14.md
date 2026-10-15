@@ -34,3 +34,14 @@ Follow S4_SEASON_PLAN V26: the closing debate; Frieren's demons; the door calls 
 ## Execution note — V26 (2026-10-14)
 
 The "not written yet" sentence above records the state at this handoff. V26 is now drafted: [30 chapters, Days221–262](S4_V26_PLAN_2026-10-14.md). S4 ends on the specified door beat, with no S5 chapter/coda. **S5 production is still not authorised.** Its later ideas, including newer floating status-screen seeds, remain pending creator development; nothing in the V26 draft spends them.
+
+## Order update — 2026-10-15 (creator)
+The opening arc is detailed in `S5_OPENING_DOOR_CREATOR_FULL_PROPOSAL_2026-10-14.md`. The date goes **before** Jin-Woo and the Red Gate. Its content is still held for the creator's idea. Current S5 order:
+1. door / Goddess (a game of chicken)
+2. Noise encounter and return
+3. recovery with the roles reversed
+4. household briefing
+5. breathing space
+6. **the date**
+7. Jin-Woo beats and the Red Gate, with the monster ramp-up and dungeon evolution
+8. the summer

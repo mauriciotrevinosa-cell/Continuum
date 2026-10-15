@@ -52,3 +52,18 @@ si nada de esto debe ser comprimido la recupreacion debe de ser algo divertido d
 - Check actual source memories, illness callbacks and private knowledge before prose production.
 - Reconcile the later Exchange/Noise/System proposals with this earlier internal agreement.
 - Await the creator's date idea and eventual explicit S5 production go-ahead.
+
+## Creator clarification — 2026-10-15 (with Claude)
+
+### Original creator words — no editorial rewriting
+
+si lo de la diosa no es que quiera matar a ori siempre a sido de empujar a mau ver hasta donde llega que mountain escalara y me gusta creer que si ponia la propuesta de poner alguien que el considera como hija en peligro que haria y no creo que la hubiera matado y mau tmb cree eso osea es mas un juego de gallina y mau no estaba dispuesto a ver que pasaba si ganaba. no lo de frieren llorando es la primera ves cuando frieren baja sus defensas en s1 y le cuenta sobre fern recuerda que frieren llega despues de 7 dias buscando en su mundo despierta y mau esta ahi.
+si osea para lo de exchange sea que lo analizo pero al decir la palabra de activacion es un error the noise no queria telentransportarlo sino cuando estaba analizando uso la palabra que activa
+y yo pondria la cita antes de jin woo y la red gate
+
+### Operational reading — separate from the creator's words
+
+1. **The Goddess's threat is a game of chicken, not intent to kill.** She has always pushed Mau to see how far he will go ("which mountain he will climb"). She puts someone he sees as a daughter at stake to see what he does. The creator does not believe she would have killed Ori, and Mau believes that too. He crosses because he will not risk finding out what happens if he wins. Write the threat as fully real to Mau in the moment, with the Goddess's true intent left ambiguous on the page. She is not a villain.
+2. **"Frieren crying at the old inn" is an S1 scene that Mau witnessed:** the first time Frieren lowers her defences and tells him about Fern, after she arrives having searched for seven days in her world and wakes with Mau there. It is a valid memory for the recollection. Read the actual S1 scene before drafting the callback.
+3. **The Exchange is an accident, not a takeover.** While analysing the shadow soldier, The Noise speaks the activation word by mistake; it did not want to teleport Mau. This reconciles the Exchange with the opening agreement (no more involuntary takeover).
+4. **The date goes before Jin-Woo and the Red Gate.** Its content is still held for the creator.

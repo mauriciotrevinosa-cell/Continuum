@@ -208,3 +208,5 @@ Preserve [the concept, creator instructions and separate editorial observations]
 ## S5 shop upgrade — full creator proposal, 2026-10-16
 
 [propuesta completa del upgrade del shop](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md) registers moderate E–S/appraisal/catalogue growth, tentative save points in some multilevel dungeons, the Frieren/Mau/Fern duplicate-grimoire branch, Umaru food/drink planning and crystal refrigeration, QoL discovery-to-purchase. Original message complete; economy, selection slots, technical power and checkpoint rules still open. Integrated/tower/world/training/coverage planning updated. Existing shared purse, food stock, boss-only healing and past failed crystal experiment preserved; no S5 chapters or final catalogue.
+
+Shop clarification, creator 2026-10-16: [buying a grimoire does not guarantee a new entry for the buyer](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md); it may match one already found. Alternate-edition/title explanation withdrawn; no blind/random buying rule introduced.

@@ -26,7 +26,7 @@ okay ahora lo del upgrade ya habiamos hablado ciertas cosas pero me gustaria pro
 4. Mau le muestra el lado positivo: los grimorios también se pueden encontrar explorando. No necesitan comprarlos todos para descubrirlos.
 5. La consecuencia es tiempo compartido Mau/Frieren buscando grimorios en la gate. No otra primera cita ni un reemplazo de Queen2, los dos grimorios de la roja o el día familiar/fort.
 
-**Pendiente editorial, no solución decidida:** el shop ya permite ver nombres/descripciones. La repetición debe resultar creíble sin hacer que Frieren ignore una identificación obvia. Se puede estudiar una edición/título distinto con un hechizo conocido u otra forma coherente de reconocer el duplicado al leer; no inventar ceguera general de la interfaz para forzar el chiste. Qué grimoire y qué información muestra la ficha siguen abiertos.
+**Aclaración del creador:** comprar un grimoire no garantiza novedad para la colección del comprador: puede ser uno que ya encontró en el dungeon. Se retira la sugerencia editorial de necesitar otra edición/título como explicación. Esta regla no fija compras ciegas, selección aleatoria o duplicados obligatorios; qué muestra cada oferta y cómo se comprueba sigue por concretar.
 
 Fern puede sostener un presupuesto con razones, y Frieren puede exagerar por emoción. No requiere rivalidad ni volver a Fern policía permanente para que funcione. Mau ayuda a negociar sin quitarles agencia a ninguna.
 
@@ -72,9 +72,15 @@ Eso se integra con equipos/rotaciones o tramos de Mau solo todavía abiertos. La
 
 1. Qué informa exactamente E–S en la nueva interfaz y qué puede inspeccionarse.
 2. Catálogo y presupuesto moderados; selección inicial de comida/bebida y cómo se amplía.
-3. El grimoire concreto y cómo reconocer el duplicado respetando lo que muestra el shop.
+3. El grimoire concreto y presentación de la oferta; la compra no garantiza novedad respecto a lo ya encontrado.
 4. Refrigeración por cristales: mecanismo y coste gradual, funciones de quienes participan.
 5. Alcance de descubrimiento -> compra para calidad de vida y tecnología permitida.
 6. Si se adoptan save points, reglas compatibles con owner Mau, equipos, relojes y progreso.
 
 El upgrade sigue ligado al premio rojo. La lectura de catálogo, compra/gag y nuevos proyectos pueden desplegarse durante el intervalo posterior y el verano, sin acumularlos todos el día del regreso, mover la conversación con Sukuna por defecto o reemplazar los otros arcos. Se conserva el mensaje completo, no se fija aún un catálogo final ni se escribe S5.
+
+## Aclaración posterior del creador — compra sin garantía de novedad
+
+> si que la compra del grimorio no garantiza que sea uno nuevo puede ser uno ya encontrado
+
+Dirección vigente: el catálogo no adapta cada compra para excluir lo que el comprador ya posee o encontró explorando. Un duplicado es posible; no exige cambio de edición/título. Mecánica de oferta, identificación y selección aún abierta; no se introduce una lotería de compras.

@@ -262,3 +262,9 @@ This is the creator's general narrative rule for the ensemble, including future 
 [Tronco cercano de Mau, fuentes y seguimiento](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md). Las categorías previas siguen describiendo foco narrativo, no una clasificación de cariño. Bocchi conserva explícitamente su vínculo de hermana aunque no forme parte de los19 habituales; la familiaridad de Yuka/Umaru debe vivirse además de servir al progreso. El nuevo mapa aporta25 perfiles prácticos y zonas pendientes, no una auditoría completa de los60 + Ciel ni una promoción automática de todos al núcleo protagonista.
 
 El [día completo solicitado](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md) ofrece convivencia, ayuda, cuidado recibido, juego y entrenamiento sin exigir60 apariciones. Es un borrador independiente para revisión: no actualiza estados de canon, últimas escenas S4 o reparto final. La continuidad ha de repetirse después con contenido y vida propia; una sola ronda de saludos no resuelve el problema.
+
+## Himmel — el creador concreta ahora el detonante del mini arco
+
+[Mensaje completo y propuesta](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md). El avance continuo Mau/Frieren culmina por un momento en comentario de boda, Mau atragantado y Frieren sonrojada; eso abre un mini arco de Himmel. Esto concreta el detonante antes abierto, conservando su rol secundario recurrente y la opción previa de necesitar espacio.
+
+El amor/respeto ya mostrado y el humor con Mau no se invalidan. No redescubrimiento de la pareja, rivalidad hostil, partida definitiva o nuevo romance de compensación. Darle foco interior, elección propia y retorno visible sin quitar agencia a nadie. R50–R53 son localizadores provisionales; no se asignó volumen/capítulo definitivo ni se reescribió S4.

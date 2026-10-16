@@ -211,8 +211,14 @@ Consulta del tabaco resuelta: **no se cultivó en V26**. La mini parcela de agra
 
 ## Escenas relacionales ubicadas y cierre de los dos grandes frentes
 
-[Mapa de45 unidades provisionales](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md): acciones/participantes, posiciones por movimiento A–H y retornos durante/final del verano, con matriz del tronco cercano y vida autónoma del resto. Se conservan día familiar, fort, Queen2 y cita Gojo/Shoko como momentos distintos. R20 usa el día completo ya escrito en cuatro lecturas sin contarlo de nuevo como cuatro eventos.
+[Mapa de54 unidades provisionales](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md): acciones/participantes, posiciones por movimiento A–H y retornos durante/final del verano, con matriz del tronco cercano y vida autónoma del resto. Se conservan día familiar, fort, Queen2 y cita Gojo/Shoko como momentos distintos. R20 usa el día completo ya escrito en cuatro lecturas sin contarlo de nuevo como cuatro eventos.
 
 La preferencia nueva para tabaco es mostrar a Shoko el proyecto empezado antes de que actúe la diosa, enlazando la escucha sin inventar mensaje/oyentes. La puerta ya estaba al cierre de S4. Preparación no equivale a cosecha instantánea; material viable/estado físico deben permitir la escena. Si no encaja, usar la alternativa explícita después del regreso/recuperación, una sola iniciativa de regalo.
 
 **Dos desarrollos estructurales restantes:** Torre durante el verano y doble mazmorra/Arquitecto. Sus reglas/recursos/decisiones/resultados y la selección de fases mundo/llegadas se cierran como parte del outline integrado, sin sumar otro arco mayor. Los identificadores R no son numeración final ni permiso de producción. La integración debe demostrar relaciones con escenas concretas, no sólo «siguen en paralelo».
+
+## Avance sostenido Mau/Frieren y mini arco de Himmel
+
+[Dirección completa](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md) y [mapa ampliado R01–R54](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md). Más salidas y convivencia entre los momentos grandes, iniciativa de ambos, gustos recordados y planes compartidos. R46–R49/R54 ofrecen recurrencia temprana/media/tardía; no una cena que pague toda la temporada. Puede haber capítulos cortos propios y escenas dentro de otras actividades, con familia y vida individual vigentes.
+
+La mención de boda en una comida provoca Mau atragantado/Frieren sonrojada y detona el mini arco local Himmel R50–R53. Él ya conoce y respeta la elección; el futuro posible puede doler sin volverlo rival. Procesamiento/espacio/retorno son propuesta de desarrollo, no partida o nuevo romance decidido. La pareja no tiene que ocultarse o posponer su alegría. No engagement/boda S5 confirmados. Es una ampliación pedida del tejido relacional, no otra gran amenaza que se deba añadir a Torre/Arquitecto.

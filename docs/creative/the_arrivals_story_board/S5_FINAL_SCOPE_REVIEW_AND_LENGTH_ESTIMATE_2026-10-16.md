@@ -119,6 +119,10 @@ Primero desarrollar los cinco frentes pendientes del paquete y entrelazar conviv
 
 ## Scene map and readiness after Tower/Architect
 
-[45 provisional relationship-scene units](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) locate existing/new domestic content and its returns. They are not45 added chapters: some share plot chapters, R20 is the existing day divided for reading, and final numbering follows natural breaks. The prior200–270/~240 forecast remains superseded by the shorter-chapter preference.
+[54 provisional relationship-scene units](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) locate existing/new domestic content and its returns. They are not45 added chapters: some share plot chapters, R20 is the existing day divided for reading, and final numbering follows natural breaks. The prior200–270/~240 forecast remains superseded by the shorter-chapter preference.
 
 The two large creative developments now to close are Tower and Architect. Then integrate their stages/rules/results with selected world/arrival changes, dates, recovery, relationships and reading units already planned. No extra giant arc is required. The outline is ready for creator review when those decisions and their lived consequences are concrete; this does not bypass unresolved costs or turn the new table into a completed season.
+
+## Later creator addition — couple progression and local Himmel arc
+
+[Full direction](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md). Extend recurring romance and the mini Himmel thread with R46–R54. These are scene units, not nine additional mandatory chapters or a new large arc budget; give their actual emotional development enough space and recalculate at outline assembly. More continuous couple time cannot be replaced by pointing to the anniversary date alone. No wedding event is budgeted as confirmed merely from the joke.

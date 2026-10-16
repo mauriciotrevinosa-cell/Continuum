@@ -1,5 +1,8 @@
 # The Arrivals — Story Board Index
 
+> **Latest expansion after the original45-unit map, 2026-10-16:** [continuous Mau/Frieren romance and Himmel trigger](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md); [current54-unit map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md). More recurring couple outings/company, wedding-comment gag and a local Himmel arc; provisional units, no confirmed wedding or whole-season production.
+
+
 > **Latest S5 relationship placement, 2026-10-16:** [45 provisional scene/chapter units with early/middle/late returns and tobacco opening placement](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md). This advances the former profile/slot plan; it is not final episode numbering or written season chapters. Tower and Architect remain the two big structural developments; final integration follows.
 
 
@@ -228,3 +231,7 @@ Shop clarification, creator 2026-10-16: [buying a grimoire does not guarantee a 
 [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md) checks current packets plus inherited future/relationship/system/timeline notes and selected written antecedents. S5 is about four expandable exterior summer months. Provisional planning centre8 volumes/~240 chapters; range7–9/200–270, based on213 actualS4 chapters across7 volumes, with no double-counted tower/family/world budget. Main decisions: Architect outcome, tower stages/entry/party/checkpoints, selected progressions, lived role changes, world phases and chosen arrivals. No outline/chapter greenlight.
 
 [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md) preserves complete recruitment/private-drive messages: Mau hides strongest ambition while sincerely enjoying summer; nations recruit would-be world protectors for futureS6, Thomas/Serie tentative. No warS5, new resident or culprit identity granted. Historical corrections: old six-month S4 cap superseded by DH-053; projector already exists; old chocolate debts paid. Source originals unchanged; V26 evidence stays internal.
+
+## S5 latest couple development — 2026-10-16
+
+[Continuous Mau/Frieren romance and Himmel's mini-arc trigger](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md): reciprocal outings/company through the season; wedding mention, Mau choking on food and Frieren blushing; Himmel processing/choice/return proposed without hostile rivalry or erased respect. [Scene map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) now extends to R54; original45 units remain stable. No nine-chapter quota, confirmed wedding or whole-season production.

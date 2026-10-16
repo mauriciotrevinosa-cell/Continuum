@@ -124,8 +124,14 @@ Variar situaciones y agrupaciones Mau/Frieren, Gojo/Yuta/Rimuru y otros vínculo
 
 ## Mapa localizable de escenas y retornos — 2026-10-16
 
-[Mapa de45 unidades provisionales y tabaco en la apertura](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) añade ubicaciones A–H, acciones concretas, retornos de mitad/final y matriz de25 vínculos cercanos. Antes de este mapa había perfiles, direcciones y slots; no una distribución completa capítulo por capítulo. R01–R45 son identificadores de seguimiento, no episodios/capítulos canónicos. Algunas unidades pueden compartir un capítulo o dividirse en cortes naturales; no sumar45 capítulos por obligación.
+[Mapa de54 unidades provisionales y tabaco en la apertura](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) añade ubicaciones A–H, acciones concretas, retornos de mitad/final y matriz de25 vínculos cercanos. Antes de este mapa había perfiles, direcciones y slots; no una distribución completa capítulo por capítulo. R01–R54 son identificadores de seguimiento, no episodios/capítulos canónicos. Algunas unidades pueden compartir un capítulo o dividirse en cortes naturales; no sumar45 capítulos por obligación.
 
 Retornos protegidos de Bocchi, Yuka/Umaru, Ori, Yuta, Rimuru, Fern/Frieren y otros evitan dar por resuelto todo con el día independiente. Los vínculos aún flexibles se concretan al convertir el mapa al outline, no se cuentan como escenas cumplidas por tener una casilla. Conservar vida de otros grupos sin Mau y relaciones basadas en fuentes; no afirmar una auditoría cualitativa completa de743 capítulos.
 
 Terminar Torre y Arquitecto deja la integración y control final del material ya elegido, no otro arco grande por inventar. En el outline registrar para cada unidad el episodio/capítulo real que ocupe y actualizar los retornos si cambia de sitio. Todavía no existen esos IDs definitivos ni prosa de toda S5.
+
+## Pareja en avance continuo y detonante de Himmel — nueva dirección
+
+[Mensaje íntegro y desarrollo propuesto](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md). Mau/Frieren deben salir y convivir más durante la temporada, con iniciativa de ambos, elecciones/interés y futuro cada vez más natural entre fechas grandes. No esperar a la siguiente season para volver a mostrar novios. R46–R49/R54 se añaden al mapa, manteniendo las fechas/Queen2/día familiar y vínculos con los demás.
+
+R50 conserva el gag de boda pedido: Mau se atraganta, Frieren se sonroja. R51–R53 dan a Himmel espacio, una elección y retorno visible sin reiniciar su conocimiento del noviazgo o borrar el acercamiento con Mau. Él puede respetarlos y seguir sintiendo pena. No compromiso formal por la broma, nuevo triángulo, salida definitiva o romance de compensación decididos por esta dirección. Sus detalles son propuestas editoriales y el mini arco sigue por desarrollar.

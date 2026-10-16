@@ -116,3 +116,9 @@ Fuentes históricas leídas sin editar: [Future Ideas Board](sources/THE_ARRIVAL
 Ver [dirección completa](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). El presupuesto anterior mide una extensión aproximada usando capítulos del tamaño observado de S4. Cambiar a capítulos cortos aumenta unidades de lectura sin aumentar automáticamente palabras/volúmenes. El creador acepta más capítulos y, si contenido/desarrollo lo requiere, más volúmenes; no existe techo obligatorio de7–9 ni cifra nueva cerrada.
 
 Primero desarrollar los cinco frentes pendientes del paquete y entrelazar convivencia/aftereffects; luego colocar cortes naturales y estimar palabras por volumen. No partir todo mecánicamente por dos ni sumar de nuevo presupuestos de relaciones. La [versión corta del día de Mau](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md) ofrece un ejemplo: la misma prosa en cuatro unidades de aproximadamente1.100–1.500 palabras; cuatro cortes editoriales, no cuatro días/eventos adicionales ni nuevos capítulos canon asignados.
+
+## Scene map and readiness after Tower/Architect
+
+[45 provisional relationship-scene units](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) locate existing/new domestic content and its returns. They are not45 added chapters: some share plot chapters, R20 is the existing day divided for reading, and final numbering follows natural breaks. The prior200–270/~240 forecast remains superseded by the shorter-chapter preference.
+
+The two large creative developments now to close are Tower and Architect. Then integrate their stages/rules/results with selected world/arrival changes, dates, recovery, relationships and reading units already planned. No extra giant arc is required. The outline is ready for creator review when those decisions and their lived consequences are concrete; this does not bypass unresolved costs or turn the new table into a completed season.

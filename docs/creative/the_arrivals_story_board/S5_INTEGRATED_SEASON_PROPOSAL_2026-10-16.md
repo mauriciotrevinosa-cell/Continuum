@@ -208,3 +208,11 @@ Antes del outline final aún elegir etapas/reglas de torre y sombras, desenlace 
 [Dirección actual y texto íntegro](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md): comida de Rem con Ram/Mau/Frieren/Fern colaborando; madre de Coco con foco de aseo sostenible y momentos propios de disfrute; Nazuna ayudando/conviviendo en sus ventanas despiertas. Variar combinaciones y actividades —Mau/Frieren, Gojo/Yuta/Rimuru y otras— sin reciclar Night Shift o exigir que todos estén juntos. La dirección general del reacomodo recibió respuesta positiva; tareas menores, frecuencia y puesta se desarrollan en escenas cortas entrelazadas.
 
 Consulta del tabaco resuelta: **no se cultivó en V26**. La mini parcela de agradecimiento a Shoko y protesta de Anko continúa como opción de S5, sin capítulo/lugar/método fijados; los cigarrillos siguen siendo referencias conservadas, no suministro reproducido. La pregunta no activa por sí sola el proyecto ni suma otro arco obligatorio.
+
+## Escenas relacionales ubicadas y cierre de los dos grandes frentes
+
+[Mapa de45 unidades provisionales](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md): acciones/participantes, posiciones por movimiento A–H y retornos durante/final del verano, con matriz del tronco cercano y vida autónoma del resto. Se conservan día familiar, fort, Queen2 y cita Gojo/Shoko como momentos distintos. R20 usa el día completo ya escrito en cuatro lecturas sin contarlo de nuevo como cuatro eventos.
+
+La preferencia nueva para tabaco es mostrar a Shoko el proyecto empezado antes de que actúe la diosa, enlazando la escucha sin inventar mensaje/oyentes. La puerta ya estaba al cierre de S4. Preparación no equivale a cosecha instantánea; material viable/estado físico deben permitir la escena. Si no encaja, usar la alternativa explícita después del regreso/recuperación, una sola iniciativa de regalo.
+
+**Dos desarrollos estructurales restantes:** Torre durante el verano y doble mazmorra/Arquitecto. Sus reglas/recursos/decisiones/resultados y la selección de fases mundo/llegadas se cierran como parte del outline integrado, sin sumar otro arco mayor. Los identificadores R no son numeración final ni permiso de producción. La integración debe demostrar relaciones con escenas concretas, no sólo «siguen en paralelo».

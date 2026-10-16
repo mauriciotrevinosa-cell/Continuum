@@ -126,3 +126,7 @@ Esto ofrece situaciones entrelazables, no una cuota de capítulos o una nueva ta
 La mini parcela está guardada en FLOATING_IDEAS y DH-095, sin capítulo/temporada definitiva. El mapa S5 la conserva como posibilidad, no evento ya realizado ni obligación nueva. Mantener la iniciativa de Mau cuando esté mejor como agradecimiento a Shoko, y la indignación cómica de Anko porque él no lo había hecho por ella. No resolver por omisión el favor que Anko pedirá. La pregunta actual no fija fecha, lugar o método de cultivo.
 
 Fuentes: [idea completa](FLOATING_IDEAS.md), [DH-095](DECISION_HISTORY.md), [Two Unlit Cigarettes](../THE_ARRIVALS_S4E26_LN_CHAPTER_04_TWO_UNLIT_CIGARETTES_v0.1.md) y [plan ejecutado V26](S4_V26_PLAN_2026-10-14.md). No se revelan otros acontecimientos de V26 al creador para contestar esta pregunta.
+
+## Latest placement and continuity-map request
+
+[Full latest message, preferred tobacco placement and scene map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md). The earlier tobacco note was a status check before this new preference: now plan the project/showing-Shoko moment around the S5 opening, preferably before the Goddess acts, with the explicitly allowed post-return/recovery fallback. No live plant/cigarette supply without the needed material/time. The household changes and varied domestic scenes now have provisional early/middle/late placements and returns; they are not yet final episode/chapter numbers or already-written events.

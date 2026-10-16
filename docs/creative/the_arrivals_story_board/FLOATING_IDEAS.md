@@ -319,7 +319,9 @@ The creator recalls the mimic in Frieren's second first-class mage examination t
 
 
 
-## Future — Mau's thank-you tobacco plot; Anko's offended claim (creator, 2026-10-14; NOT YET PLACED)
+## S5 — Mau's thank-you tobacco plot; Anko's offended claim (latest placement preference, 2026-10-16)
+
+**Latest creator placement supersedes the older unplaced-season status below:** prefer the opening around the Goddess arc, Mau showing Shoko the started project before she acts; hearing/interruption content is unspecified. If timing/material/recovery make that forced, use the authorised after-return/recovery alternative. No instant harvest or second first gift. [Complete latest request and placement](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md).
 
 **Status rechecked at creator request, 2026-10-16:** this crop did NOT happen in V26. It remains unplaced, with S5 as a development option in the current map. Only preservation of the cigarettes for possible future study is written. The creator's question does not assign a new chapter/date. [Full latest question and household additions](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md).
 

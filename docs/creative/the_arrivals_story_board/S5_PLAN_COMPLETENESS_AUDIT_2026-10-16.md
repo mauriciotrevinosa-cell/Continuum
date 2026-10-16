@@ -102,3 +102,9 @@ La [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH
 **Corrección importante al propio diagnóstico anterior:** DH-053 ya levantó el supuesto cap S4 de seis meses. Fechas/aniversario aún se afinan, pero no hay que retconear días ni volver a pedir permiso para exceder ese cap obsoleto. El plan previo que lo trataba como conflicto heredaba una nota antigua.
 
 Último marco C: S5=verano/unos cuatro meses ampliables; ambición privada de Mau mientras disfruta, siembra de reclutamiento de naciones para S6 (Thomas/Serie candidatos). Mensajes completos en [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md). Estimación P:8 volúmenes/~240 capítulos, rango7–9/200–270; presupuestos entrelazados sin sumar varias veces familia/torre/mundo ni contar la guerra S6. Elegir finalArquitecto, etapas/reglas/party de torre, progresiones relevantes, endpoints personales y llegadas activadas antes de cerrar el outline.
+
+## Relationship scene placement now advanced — exact scope
+
+[New map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) adds45 traceable scene/chapter units, early/middle/late returns,25 close-bond rows and independent ensemble lanes. This is more concrete than the prior profile/A–H-slot stage but not a final numbered chapter outline. Do not claim all relational scenes have been produced or the entire743-chapter corpus qualitatively re-audited. Some flexible returns still need a specific choice at outline assembly.
+
+Tower and Architect are the two remaining large structural developments. Remaining system choices, selected world/arrival outcomes and final relationship/calendar/reading-break checks are integration work on current material, not a requirement to invent another major arc. Tobacco preference now has opening and post-recovery alternatives; both obey actual growth/material limits and preserve S4's door continuity.

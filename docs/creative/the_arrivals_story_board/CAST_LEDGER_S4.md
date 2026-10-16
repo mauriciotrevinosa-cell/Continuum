@@ -343,3 +343,7 @@ Only the main-house cast remains resident in S5; the rest have left. Do not reus
 [Full latest message](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md). Creator supports the general household direction and specifies Ram/Mau/Frieren/Fern helping with Rem's meal; training, ordinary help, rest and activities coexist. Coco's mother contributes to house cleaning with shared support and has her own enjoyment/relationships; Nazuna participates domestically while retaining her established sleep schedule. Vary partners and activities rather than repeat Night Shift's same framing. No invented name/past for Coco's mother or already-executed S5 post changes.
 
 Tobacco status checked: no V26 crop; DH-095/FLOATING_IDEAS remain future/unplaced, available for S5 development. The two cigarettes are saved; no completed Ciel study or new supply is presumed.
+
+## S5 future scene tracking — not new last-canon beats
+
+[Provisional relationship scene map and tobacco placement](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) records R01–R45 placements/returns and25 close-bond checks. Use it alongside the existing source/relationship locks; update with real produced chapter IDs only after drafting. R IDs are not season episode numbers, existing reading IDs or facts that already happened. S4 last-beat entries remain untouched. Tobacco can start around the S5 opening before the Goddess acts, with an explicitly authorised post-return/recovery fallback; its showing/hearing moment grants no automatic public knowledge or instant crop.

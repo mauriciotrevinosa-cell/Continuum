@@ -121,3 +121,11 @@ Frieren acepta «sigo siendo la encargada» y afirma que la quieren por ella. El
 [Mensaje íntegro y dirección actual](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md). El creador respalda el reparto general y concreta la comida de Rem con Ram/Mau/Frieren/Fern ayudando. Alternar entrenamiento, ayuda posible, descanso y actividades elegidas. La madre de Coco contribuye al aseo y gana también disfrute/relaciones propias; no limpiar sola por deuda de gratitud ni repetir únicamente su rescate.
 
 Variar situaciones y agrupaciones Mau/Frieren, Gojo/Yuta/Rimuru y otros vínculos, también sin Mau, sin una ronda obligatoria de todos. Nazuna convive/colabora en su horario despierto, además de Anko y guardias. No reutilizar el mismo molde Night Shift en cada escena. Las ayudas tienen antecedentes: mostrar evolución, no otra primera pertenencia. Horarios/frecuencias finales siguen por afinar.
+
+## Mapa localizable de escenas y retornos — 2026-10-16
+
+[Mapa de45 unidades provisionales y tabaco en la apertura](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) añade ubicaciones A–H, acciones concretas, retornos de mitad/final y matriz de25 vínculos cercanos. Antes de este mapa había perfiles, direcciones y slots; no una distribución completa capítulo por capítulo. R01–R45 son identificadores de seguimiento, no episodios/capítulos canónicos. Algunas unidades pueden compartir un capítulo o dividirse en cortes naturales; no sumar45 capítulos por obligación.
+
+Retornos protegidos de Bocchi, Yuka/Umaru, Ori, Yuta, Rimuru, Fern/Frieren y otros evitan dar por resuelto todo con el día independiente. Los vínculos aún flexibles se concretan al convertir el mapa al outline, no se cuentan como escenas cumplidas por tener una casilla. Conservar vida de otros grupos sin Mau y relaciones basadas en fuentes; no afirmar una auditoría cualitativa completa de743 capítulos.
+
+Terminar Torre y Arquitecto deja la integración y control final del material ya elegido, no otro arco grande por inventar. En el outline registrar para cada unidad el episodio/capítulo real que ocupe y actualizar los retornos si cambia de sitio. Todavía no existen esos IDs definitivos ni prosa de toda S5.

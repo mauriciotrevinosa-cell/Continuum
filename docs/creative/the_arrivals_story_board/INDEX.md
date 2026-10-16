@@ -1,5 +1,8 @@
 # The Arrivals — Story Board Index
 
+> **Latest S5 relationship placement, 2026-10-16:** [45 provisional scene/chapter units with early/middle/late returns and tobacco opening placement](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md). This advances the former profile/slot plan; it is not final episode numbering or written season chapters. Tower and Architect remain the two big structural developments; final integration follows.
+
+
 > **New editorial proposal for creator feedback, 2026-10-16:** [concrete household reallocation with names](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md). Creator confirms S5 residents are the main-house cast; proposed discontinuation of daily Arrival House operations releases Jinshi for daily records under Fern, with bounded checks from Nano, Anko's existing loot role and voluntary Rem/Seiko kitchen relief. The earlier Diablo reception shift is withdrawn. Not an approved appointment, in-world change or S5 prose greenlight.
 
 

@@ -143,3 +143,20 @@ The creator says these are **copies of the real counterparts**. Keep them distin
 The Noise begins analysing these copies; growth/evolution develops as they level. Keep earned levels, finite shadow reserve, limited roster and gradual integration. The creator does not grant instant complete reconstruction or infinite amplification. Define later what improves through levelling versus the Noise's understanding/construction, costs and requirements, and how source identity remains readable. No precise multipliers, final forms or evolved abilities chosen now.
 
 This refines the100-floor boss/shadow plan while preserving the preceding Red Gate rewards and later Architect double-dungeon finale. No encounter choreography, final floor list, dragon identity, acquisition order or S5 prose is fixed here.
+
+## Creator correction — two distinct dragon shadows
+
+Creator, 2026-10-16, exact message:
+
+> yo decia el dragon de la red gate mas el que consigue jin woo en la boss fight del nivel 100
+
+Correction: the creator means **both dragons**, not an unresolved choice between one dragon identity and another:
+
+1. The dragon boss from the **Red Gate**, already proposed in the coordinated party fight.
+2. The dragon Jin-Woo obtains in connection with the **floor100 boss fight**, as the creator's source reference, for the later100-floor development.
+
+Keep them separate in the proposed shadow roster. This supersedes the preceding editorial interpretation that the dragon might or might not be the Red Gate boss or that the creator had only one dragon slot in mind. No source proper name is assigned without checking the actual reference, and neither dragon is Jin-Woo's original soldier taken away from him; the copy premise remains.
+
+Acquisition timing still needs a bridge: the Red Gate dragon is defeated before the currently proposed early100-floor Arise unlock. Do not silently give Mau Arise early or assume a body is automatically stored. Decide together how the Red Gate dragon becomes available later, or whether the unlock placement changes. Preserve both intended acquisitions without inventing corpse storage, automatic retroactive extraction, a second kill or a boss respawn now.
+
+No names, evolved forms, size multipliers, infinite-resource exception or immediate double-dragon summon capacity are set. Finite shadow resource, capacity progression and the copied-boss/gradual-analysis premise remain. This is a planning correction, not written chapters.

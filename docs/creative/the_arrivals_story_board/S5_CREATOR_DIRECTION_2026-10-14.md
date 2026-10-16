@@ -113,3 +113,7 @@ Latest creator direction proposes **the upgrade as Red Gate reward** and an unkn
 ## Favourite shadow roster seed — creator, 2026-10-16
 
 [Full roster refinement](S5_RED_GATE_AND_100_FLOORS_CREATOR_FULL_PROPOSAL_2026-10-16.md): Beru/Igris are key; Tank/Fang candidates; ordinary supporting ranks and a possible dragon inspired by Jin-Woo's (exact identity unchosen). Intermittent source-boss encounters; these are copies, not theft of Jin-Woo's original soldiers. Noise analysis and levels gradually develop/evolve them, under finite resources and capacity. No floor/acquisition order or instant original full power is established.
+
+## Two-dragon correction — creator, 2026-10-16
+
+The intended roster includes **both the Red Gate dragon and the dragon obtained in the floor100 boss-fight reference**, not a choice of one unidentified dragon. Read [the exact creator correction](S5_RED_GATE_AND_100_FLOORS_CREATOR_FULL_PROPOSAL_2026-10-16.md). Acquisition timing for the earlier Red Gate kill versus later Arise unlock needs development; do not fix it by silently moving unlocks or inventing corpse storage. Other finite-resource/replica/progression rules remain.

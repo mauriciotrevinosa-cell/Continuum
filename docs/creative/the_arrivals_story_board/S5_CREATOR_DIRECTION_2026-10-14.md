@@ -89,3 +89,7 @@ Read [the latest complete creator clarification and individual map](S5_CAST_SPOT
 ## Universal ensemble continuity rule — creator, 2026-10-16
 
 **For everyone, in both directions: rotate focus, never pause the rest of the cast.** Witch Hat can lead an arc while Mau/Frieren remain part of lived family life; Mau can lead without Witch Hat or anyone else disappearing. Preserve relationships, ongoing activities and meaningful recurrence across arcs, not equal page counts or every person in every chapter. Respect chosen distance/location and do not force noncombatants into danger to justify their existence. See the complete creator clarification in [the cast map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md). No S4 retcon is authorised.
+
+## Red Gate departure timing — creator, 2026-10-16
+
+Proposed Red Gate outing: three days after the date, giving Frieren time to plan and the ensemble time to live together. **Check actual date-to-weekly-gate-change interval before locking the calendar**, including the earlier tentative "next week" wording. Preserve the weekly cycle; no invented early reset. See the full creator message and timing note in [the S5 packet](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). Party and Red Gate mechanics remain open; no S5 prose.

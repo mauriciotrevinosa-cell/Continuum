@@ -247,3 +247,15 @@ The expedition gift responds to Frieren's frustration at not being the person at
 The emotional intent is recognition of her competence and desire to lead, not Mau granting an otherwise forbidden right or portraying Frieren as inherently unable to lead. Develop a genuine leading role with decisions of her own, rather than a staged consolation in which Mau secretly does everything. Team, conditions and current limits still need joint development; no exact expedition mechanism is settled here.
 
 Creator also asks for editorial evaluation of the previously recorded low natural flight (~one metre), not an additional power grant. Its domestic joy and comedy are intended alongside gradual control development. Keep the already recorded earlier flowers/own-mana continuity and do not silently make later passenger carrying an immediately proven ability.
+
+## Red Gate timing — three preparation days and weekly-change check
+
+Creator, 2026-10-16, exact message:
+
+> okay la gate roja sucede tres dias despues pq frieren queria tiempo para planearlo bien y nos da el tiempo para la convivencia y ver a frieren planeando y asi o pon una nota de ver bien de la date cuantos dias faltan para el cambio de gate
+
+Working timing: the Red Gate outing is three days after the date/gift conversation, allowing Frieren to plan properly. The creator explicitly requests checking how many days remain from the date to the weekly gate change. Treat the interval as a provisional placement to reconcile, not a newly dated calendar lock or permission to change the weekly cycle.
+
+Before prose, anchor date, preceding Exchange/recovery/dungeon-completion timings, existing weekly gate-change day and departure. The earlier proposed "next week" gift dialogue must agree with the actual interval; adjust tentative scene wording or placement together when calendar is built, rather than claiming a gate changes early. If "three days later" has a different intended anchor, clarify before final chronology. Do not invent an exact date now.
+
+Use those days as lived material: Frieren's preparation, supplies/gear/mimic planning, party formation and ordinary household relationships in parallel. No chapter quota or requirement to fill every day with logistics; preserve breathing room and the universal ensemble-continuity rule. Her desire to lead and excitement about grimoires remain the motivation. The transformation into Red Gate, party and internal mechanics still await the creator's next ideas. No S5 chapters written.

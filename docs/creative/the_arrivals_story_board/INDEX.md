@@ -184,3 +184,7 @@ Preserve [the concept, creator instructions and separate editorial observations]
 ## S5 expanded planning agenda — world, gates, roles, trade and evolution (creator, 2026-10-16)
 
 [Full creator proposal, expanded worklist and V26 compatibility notes](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). Adds Mau/Sukuna talk; household roles; external gates/100 floors/Red Gate restrictions/System reward; private power roster; evolution discussion; Mau upgrades; multi-city trade/transport/ink secrecy; relocation reward; house/tree/crystal utilities/culture; coins and possible antagonist cooperation. This is a planning list, not final chronology or S5 prose approval. Preserve V26's already built perimeter and existing limited trade; no S4 retcon.
+
+## S5 cast mapping before more arrivals — creator, 2026-10-16
+
+[Individual cast/spotlight working map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md): 60 resident/core-circle people plus Ciel, explicit-name navigation across all213 S4 chapters, a focused Yuka review and per-person questions. This is an initial map, not 61 completed scene audits. Creator confirms the seven witches as a positive model of recurring supporting characters who can lead a specific arc. Other role decisions remain open; no quota of chapters or forced protagonist promotion. Audit continuity and who the story revolves around before choosing more arrivals. Internal V26 references are spoilers for the creator, who has not yet read it. S4 unchanged; no new arrivals or S5 prose authorised.

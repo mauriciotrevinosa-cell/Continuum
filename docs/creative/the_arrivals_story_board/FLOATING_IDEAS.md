@@ -369,3 +369,7 @@ This overrides the older date-before-Jin-Woo/Exchange instruction. Read [the com
 ## Date-to-Red-Gate bridge — creator, 2026-10-16
 
 The date now has a requested simple romantic dinner, discreet high-end food/wine preparation (possibly through Hollis), Frieren's delighted response and Mau's extra gift: leading a full dungeon exploration after the next weekly gate change, with Fern's approval. Boss-grimoire news motivates her eager mimic/gear/ration planning. This prepares the eventual Red Gate party; members and the Red Gate transition are still open. Consult the complete original and separate continuity questions in [the expanded S5 packet](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). Do not implement as a finished arc or erase retreat/safety/agency rules.
+
+## S5 cast mapping before more arrivals — creator, 2026-10-16
+
+[Individual cast/spotlight working map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md): 60 resident/core-circle people plus Ciel, explicit-name navigation across all213 S4 chapters, a focused Yuka review and per-person questions. This is an initial map, not 61 completed scene audits. Creator confirms the seven witches as a positive model of recurring supporting characters who can lead a specific arc. Other role decisions remain open; no quota of chapters or forced protagonist promotion. Audit continuity and who the story revolves around before choosing more arrivals. Internal V26 references are spoilers for the creator, who has not yet read it. S4 unchanged; no new arrivals or S5 prose authorised.

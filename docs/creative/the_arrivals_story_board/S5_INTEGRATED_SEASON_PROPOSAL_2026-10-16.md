@@ -1,5 +1,8 @@
 # S5 — propuesta integrada de temporada v0.3
 
+> **Ampliación posterior, 2026-10-16:** [tronco afectivo de Mau y petición completa de un día cotidiano](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md); [A Day at Home, borrador independiente](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md). Única excepción solicitada al estado de planificación: este día completo para revisión, sin asignación a volumen, canon o lector. No es verde para redactar el resto de S5. Un capítulo cuenta una vez dentro del verano y no sustituye las promesas/citas diferenciadas.
+
+
 **Última revisión:** [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md). **C:** S5 es el verano, aproximadamente cuatro meses exteriores con espacio de expansión. **P:** preparar unas8 entregas de volumen/240 capítulos; rango provisional7–9 volúmenes/200–270 capítulos, no cuota ni autorización de prosa.
 
 **Fecha:** 2026-10-16. **Estado:** propuesta para discutir, no temporada aprobada ni autorización de capítulos. S4 permanece intacta. Las ideas originales completas no se sustituyen por este esquema.

@@ -1,5 +1,8 @@
 # The Arrivals — Floating / Unplaced Ideas
 
+> **Latest creator addition, 2026-10-16:** [Mau's close bonds and full-day instructions](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md); [standalone A Day at Home draft](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md). Preserve the exact floating-Milim/ribbon clarification and the wider daily-life request. Supporting narrative status does not remove emotional closeness. This single requested draft is not canon, a completed61-person audit or a production greenlight for S5.
+
+
 > **Latest scope pass, 2026-10-16:** [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md). S5=about four expandable summer months. Older unplaced notes may already be implemented; do not replay them or treat all reserve as mandatory. New [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md) seed S6 without starting its war.
 
 > **Planning navigation — 2026-10-16:** [Integrated S5 v0.3](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md), [coverage audit](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md) and [Sukuna work sheet](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md). Originals/history below remain intact; some old order/mapping notes are superseded. Current: door -> Exchange -> date -> Red Gate ->100 floors through summer -> Architect double-dungeon finale. Beru/Igris and BOTH dragons are specified later; other decisions remain open. Registered ideas are not complete arcs or permission for S5 prose.

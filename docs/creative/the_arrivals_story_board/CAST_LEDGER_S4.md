@@ -2,6 +2,8 @@
 
 **Purpose (creator, DH-055):** one place holding every character's facts, so nothing has to be re-read and holes are prevented rather than patched.
 
+> **S5 planning pointer — not a canon update (2026-10-16):** [Mau's close-bond map](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md) records distinct reciprocal family/friendship roles, including Bocchi, Umaru and Yuka; [requested standalone day draft](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md) tests them in ordinary life. New gestures/dialogues there have not happened in the production corpus. Keep S4 last-beat entries, rooms, private knowledge and approvals unchanged; definitive placement requires compatible recovery/effort limits. No full S5 production is authorised.
+
 **Rules:**
 - **Read this before every episode, and update it after.** When a relationship, a coin, a room or a thread changes, change it here in the same commit.
 - **Presence rule** (DH-055 and "presence, not protagonist"): everyone *exists* in the background, at meals, in crowds, in the fort and on the ropes, even without a scene. Arcs come in their turn. Run the presence audit before every volume (`S4_PRESENCE_AND_RELATIONSHIP_AUDIT_2026-10-10.md`).

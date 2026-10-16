@@ -1,5 +1,8 @@
 # The Arrivals — Story Board Index
 
+> **Latest S5 relationship entry, 2026-10-16:** [Mau's close-bond map and full creator messages](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md) · [A Day at Home — standalone full-day draft](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md). The creator specifically requested this ordinary-day draft during planning. It has no canon date/volume or reader publication and does not open full S5 production. Earlier statements that S5 is unwritten now have this narrow draft exception.
+
+
 **Current continuity checks:** [S1–S4 character/space gate](./S1_S4_CHARACTER_AND_SPACE_CONTINUITY_GATE_2026-10-12.md); [S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md](./S4_V22_CH18_TO_V25_CONTINUITY_AUDIT_2026-10-12.md). The latter contains spoilers beyond V22 #17. [Canon digest, S1 to S4 V22 #15](./CANON_DIGEST_S1_S4.md): what the text says, by season and topic, with the known slips.
 
 Use this as the navigation page from localhost.

@@ -1,5 +1,8 @@
 # S5 — última revisión de alcance y estimación provisional de extensión
 
+> **Pedido posterior del creador:** [un día completo de Mau y sus vínculos](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md), con [borrador independiente para revisión](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md). Cuenta una vez dentro de la convivencia del verano ya estimada; no suma otro arco/volumen ni autoriza toda S5. El cálculo de extensión sigue provisional y el capítulo aún no tiene posición definitiva.
+
+
 **Fecha:** 2026-10-16. **Base:** rama m3/critical-path después de461c375, más las aclaraciones del creador de este turno. **Estado:** estimación editorial discutible; no outline final, títulos, capítulos escritos ni verde de producción.
 
 ## Petición completa y marco temporal

@@ -106,7 +106,7 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 | Senku | Por decidir con el creador | 8 | 20 | 23 | 11 | 13 | 14 | 10 | V25 #29 | Separar científico/persona de dispensador de inventos; no reducir todo avance a él. |
 | Suika | Por decidir con el creador | 4 | 8 | 7 | 4 | 4 | 4 | 2 | V25 #21 | Revisar iniciativa y relaciones propias sin obligarla a un arco grande. |
 | Anko | Por decidir con el creador | 10 | 8 | 7 | 9 | 9 | 14 | 9 | V25 #28 | Conservar amistad, humor y necesidades además del cuaderno y vigilancia. |
-| Himmel | Foco perdido percibido; revisar, no relegación aprobada | 1 | 3 | 8 | 8 | 5 | 15 | 8 | V25 #29 | Revisar su lugar propio y nuevas relaciones sin limitarlo al pasado de Frieren. |
+| Himmel | Secundario recurrente (creador); cabos personales por desarrollar | 1 | 3 | 8 | 8 | 5 | 15 | 8 | V25 #29 | Revisar su lugar propio y nuevas relaciones sin limitarlo al pasado de Frieren. |
 | Qifrey | Posible cambio a aprendizaje/hogar; creador aún duda | 2 | 6 | 8 | 1 | 1 | 6 | 0 | V25 #19 | Revisar continuidad tras Coco y límites/decisiones del atelier; no sólo autoridad útil. |
 | Agott | Posible cambio a aprendizaje/hogar; creador aún duda | 5 | 5 | 11 | 2 | 2 | 4 | 0 | V25 #19 | Revisar su voz y vínculo específico con Coco sin sustituirlos por el nombre del grupo. |
 | Tetia | Posible cambio a aprendizaje/hogar; creador aún duda | 2 | 2 | 6 | 1 | 2 | 4 | 0 | V25 #19 | Revisar presencia individual dentro del atelier/familia sin forzar protagonismo. |
@@ -202,3 +202,19 @@ El creador propone ampliar el uso doméstico de glyphs para sustituir lámparas 
 ### Regla de transición
 
 Antes de decidir el paso a secundario: identificar el cabo concreto, vivir la decisión, establecer la vida que eligieron y seguir mostrando vínculos y presencia cuando el foco rote. La estabilidad no es desaparición. No cerrar historias mediante un trámite de trabajo, una llegada como premio o una lista administrativa. No imponer el mismo ritmo a parejas/grupos. Esta lista sigue siendo planificación, no arcos completos, retiro efectivo, reparto final ni permiso para modificar S4 o escribir S5.
+
+## Himmel — creator chooses recurring supporting role
+
+Creator, 2026-10-16, exact message:
+
+> himmel va aen un plano de tal ves se pone a ayudar defensas peor la verdad no necesito que sea prota si puede tener sus momentos y asi pero como kesoku no lo necesito siempre tla ves atar unos cabos mas de el aun no estando feliz con la relacion de frieren y mau y luego el distanciandose pq necesita tiempo o algo asi
+
+Decision: Himmel need not be a continuing protagonist. He is a recurring supporting character who can have meaningful moments and local focus, comparable in narrative treatment to the creator's Kessoku example. This supersedes the earlier unresolved question about his usual narrative position; it does not erase his importance in earlier seasons.
+
+Development options, still tentative: help with defences; tie remaining personal threads; he may still struggle emotionally with Frieren/Mau and choose distance because he needs time. Do not lock a specific departure, new job, timeframe or conflict from "tal ves" / "o algo asi".
+
+Before writing, reconcile the degree of unresolved pain with existing scenes of respect and support. He can understand and respect their choice while still needing space. Do not reset him to an earlier revelation, turn him into an antagonist, imply entitlement to Frieren, force her to choose again or make him punish the couple. Distance can be an act of self-care and does not automatically sever his relationships with Fern, Stark, Mau or the family.
+
+Being content is not mandatory for respectful behaviour; nor does accepting the relationship mean he must already be emotionally finished with it. Exact expression remains for the creator to develop. No S4 retcon, permanent departure or S5 prose is authorised here.
+
+Inventory checkpoint: of the original60,19 remain in the current unclassified discussion group when the five Witch Hat candidates are provisionally held aside. If those five are included as unresolved,24 remain. Ciel is an additional separate entry. Numbers describe discussion status, not a final count of protagonists.

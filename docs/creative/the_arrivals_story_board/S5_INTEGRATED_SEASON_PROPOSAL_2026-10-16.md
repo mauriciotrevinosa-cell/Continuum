@@ -49,7 +49,7 @@ La instrucción más reciente rige cada punto: Exchange después de puerta y ant
 | D. Cena/preparación | Cena íntima atrasada, vino/regalos; expedición de Frieren como regalo; tres días tentativos hasta reset; reclutamiento | Tiempo Frieren/Fern, ganas y preparativos del equipo. Yuta/Maki eligen día propio; Gojo/Shoko tienen invitación; Rimuru decide quedarse |
 | E. Semana roja | Frieren/Mau/Yuka/Fern/Stark/Milim; semana dentro/hora fuera; campamentos, mini-bosses, flecha/Infinity, dragón colectivo/Red; prueba oculta del Arquitecto | La semana tiene desarrollo real de los seis; liderazgo de Frieren y decisiones de Yuka. Fuera no cabe una semana de búsquedas |
 | F. Regresar con posibilidades | Upgrade aún por detallar, grimorios/cristal/brazaletes/llave; Queen2; visita nocturna Sukuna propuesta antes de abrirse la gate de la llave | Curiosidad/vida; días familiar/fort y ayuda de Mau a Gojo/Shoko. Tregua/intervención abre estudio; no todos los objetos generan industrias de inmediato |
-| G. Verano entre ascensos |100 pisos espaciados, descansos, copias/sombras, puntos, Noise integrando; consecuencias de charla Sukuna y evolución | Roles, comercio, mundo, cultura, aprendizaje, familia. Entrenamiento y relaciones avanzan en paralelo; no todo depende de un ascenso |
+| G. Verano entre ascensos |100 pisos espaciados; botín y recuperación/upgrades;100% personal antes de nuevas evoluciones, también Sukuna; sombras/puntos/Noise | Mundo cambiante aporta presión gradual. Equipos/rotaciones o tramos Mau solo abiertos; descanso, roles, comercio, cultura, familia y relaciones continúan |
 | H. Convergencia/final | Completar100 antes de doble mazmorra del Arquitecto; semilla/recipiente/Ashborn; Sukuna deja material para S6 | Decisiones/relaciones del verano importan al cierre. No decidir pruebas, resurrección, sacrificio o resultado ahora |
 
 Estos movimientos no son capítulos/volúmenes asignados. Un hilo puede comenzar antes y terminar después; el verano no espera al final de todas las gates.
@@ -156,3 +156,9 @@ Completar fichas de poder y revisión individual de vínculos; resolver sincroni
 ## Ampliación v0.3 — charla de Sukuna ya propuesta
 
 El paquete nuevo preserva el mensaje completo y corrige el anterior pendiente de contenido. No identifica encapuchado/amenazador Pell, no cierra upgrades, no permite firma por terceros ni voto que mande sobre diosa. Antecedente de estudio verificado: Frieren frente a Diablo y Mau frente a Gojo. Los detalles JJK de antepasados/pi/Naobito-Naoya requieren fuente antes de exposición factual. Conversación y estudio abren posibilidades, no una clase que restaure poderes instantáneamente ni un Gojo incompetente.
+
+## Aclaración posterior del creador — umbral100% y ataque final
+
+[aclaración completa del creador](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md): primero recuperar el100% de la base personal, después ejecutar nuevas evoluciones; también rige para Sukuna. No es terminar cien pisos ni llegar a nivel100. La discusión/investigación puede anticipar posibilidades, pero sus nuevas aplicaciones requieren ese umbral y demás preparación. La torre también aporta recuperación/upgrades: carrera gradual ante mundo/Sukuna en evolución, sin plazo inventado ni eliminar convivencia de verano. Equipos, rotaciones y entradas de Mau solo están por definir.
+
+Corrección de lectura editorial: el posible agujero negro de Frieren contra Sukuna ocurre en la NUEVA escena propuesta, al final de la charla. Noise alerta a Mau de un ataque, Mau interviene por la tregua, Sukuna dice hasta luego y se corta. No se estaba proponiendo un uso anterior contra Sukuna.

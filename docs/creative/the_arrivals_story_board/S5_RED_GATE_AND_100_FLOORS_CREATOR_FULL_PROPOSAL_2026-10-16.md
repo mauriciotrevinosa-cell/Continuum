@@ -162,3 +162,9 @@ Keep them separate in the proposed shadow roster. This supersedes the preceding 
 Acquisition timing still needs a bridge: the Red Gate dragon is defeated before the currently proposed early100-floor Arise unlock. Do not silently give Mau Arise early or assume a body is automatically stored. Decide together how the Red Gate dragon becomes available later, or whether the unlock placement changes. Preserve both intended acquisitions without inventing corpse storage, automatic retroactive extraction, a second kill or a boss respawn now.
 
 No names, evolved forms, size multipliers, infinite-resource exception or immediate double-dragon summon capacity are set. Finite shadow resource, capacity progression and the copied-boss/gradual-analysis premise remain. This is a planning correction, not written chapters.
+
+## Later clarification — recovery threshold, expedition purpose and teams (2026-10-16)
+
+[aclaración completa del creador](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md) preserves the full instruction: regain each person's relevant100% baseline BEFORE executing new evolutions, Sukuna included. Recovery100% is neither floor100 nor level100. Research may precede execution; recovery, branch XP, equipment and evolution remain distinct. Do not cancel earlier proposed flight/Arise/stats progression or assign a universal Mau bag percentage without defining the relevant baseline.
+
+The changing world/Sukuna create gradual preparation pressure, not a fabricated attack deadline or a rush through the summer. The dungeon also serves recovery/upgrades beyond loot. Teams/rotations versus some Mau solo entries remain to organise; no fixed party or entirely solo tower is approved. Respect key-entry rules still to define, rest and household coverage, including the existing agreement about Mau/Rimuru outings. No one loses their ordinary life to permanent grind.

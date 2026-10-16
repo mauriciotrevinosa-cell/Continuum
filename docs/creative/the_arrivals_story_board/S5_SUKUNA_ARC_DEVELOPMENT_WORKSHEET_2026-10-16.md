@@ -74,5 +74,9 @@ Ya hay contenido y estructura propuestos para la conversación. Falta precisar s
 - El rechazo Noise a firmas dentro de la gate no es inmunidad general a contratos (DH-075). No inventar otro bloqueo ni revelar su razón.
 - La entrada bajo protección es propuesta nueva por acotar, no bypass de la diosa. La gate original está fuera; hacer mapa breve antes de prosa.
 - El vínculo S2 fue intento de fusión/enlace. La intuición del techo mayor no revela a Sukuna todo Mau.
-- Antecedentes comprobados: Frieren contra Diablo S3, patrón de Mau contra Gojo S4. No se localizó ese fenómeno contra Sukuna S2 en esta revisión.
+- Antecedentes comprobados para estudio: Frieren contra Diablo S3 y patrón Mau contra Gojo S4. Aclaración del creador: su posible ataque a Sukuna es NUEVO al terminar esta charla S5; el editor confundió la ubicación, no faltaba un antecedente S2. Noise alerta, Mau interviene por el voto, Sukuna se despide y hay corte.
 - Investigación: Senku o Byakuya, Shoko, Gojo/Mau y participantes pertinentes. Humor, comprensión y referencia no conceden técnica. Prestar poderes y entrenamiento discreto dentro del dungeon son líneas futuras por desarrollar.
+
+## Recuperación y carrera gradual — nueva precisión
+
+Sukuna debe recuperar su100% personal antes de ejecutar nuevas evoluciones, igual que los demás; no se afirma que ya lo tenga. No confundir100% con piso100 o nivel100. Mundo y rivales avanzan, de modo que dungeon/recuperación/upgrades tienen propósito de preparación sin cuenta atrás artificial. La ruta WCS sacrificada no vuelve sola al100%; otra vía sigue por investigar conforme a esos requisitos. Ver [aclaración completa del creador](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md).

@@ -81,3 +81,9 @@ La conversación del creador ya está recogida completa; ahora desarrollar sus t
 ## Ampliación posterior del mismo día — la charla ya tiene esqueleto
 
 El creador aporta la visita nocturna y el puente hacia investigación/préstamos/contrainformación. Se preserva completo y se reemplazan las notas vigentes de contenido todavía no compartido. Auditoría adicional: consentimiento de contratos, excepción Noise limitada a reglas dentro de gate, gate original fuera de protección, enlace S2 incompleto, fenómeno Frieren contra Diablo y Mau ante Gojo. Detalles JJK no verificados permanecen como preguntas; no se añade uso contra Sukuna por recuerdo ni se hace canónica una explicación de IA.
+
+## Later creator clarification —100% recovery and scene placement
+
+Added from the [aclaración completa del creador](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md): new evolutions require personal100% recovery, including Sukuna; not level100 or floor100. Dungeon purpose includes recovery/upgrades; changing world/rival creates gradual preparation pressure, without a new deadline or rushed summer. Teams/rotations/Mau solo stretches remain open. Track measurable baseline, recovery versus levels/equipment/evolution, household coverage and rest before fixing an expedition pattern.
+
+The proposed Frieren black-hole-like attack is at the END of the NEW Sukuna conversation: Noise warning -> Mau intervenes to respect vow -> Sukuna goodbye -> cut. Prior editorial discussion misread it as a claimed S2 use; corrected without a retcon. Historical raw proposals remain intact.

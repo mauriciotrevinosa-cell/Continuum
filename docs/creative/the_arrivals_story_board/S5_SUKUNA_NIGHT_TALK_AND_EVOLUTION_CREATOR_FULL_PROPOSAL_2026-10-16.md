@@ -21,7 +21,7 @@ algo que me gustaria es cuando se haga el binding vow sukuna cruce la proteccion
 5. El creador quiere que Sukuna pueda cruzar la protección durante esa tregua para aumentar tensión. Es una hipótesis concreta por comprobar con la regla de intención y la posición de la gate, no una orden para apagar la protección ni un nuevo poder del voto sobre la diosa.
 6. Sukuna admite que los subestimó. Expone el precio de sobrevivir: perdió una herramienta capaz de atravesar Infinity. Su experiencia con Mau le mostró un techo mayor y que apenas había empezado a explorar su técnica; le agradece haberlo revelado. La base escrita es el **intento de fusión/enlace de S2**, no una fusión completada, una posesión ni un nuevo encuentro retroactivo.
 7. Mau pregunta por la propaganda. Sukuna niega ser su autor y disfruta la inversión pública monstruo/salvador. Habla de «amigos» con deudas contra los suyos y anticipa revancha. Distinguir sus afirmaciones del conocimiento del narrador; no nombrar aliados ni revelar a Pell/encapuchado por inferencia.
-8. Frieren y Gojo detectan a Sukuna y llegan. El creador propone una intervención breve: Frieren lanza Zoltraak **o** agujero negro, Mau lo contrarresta; Gojo intenta seguir a Sukuna y Mau lo detiene. Son alternativas/acción por concretar, no dos ataques obligatorios ni nueva batalla del arco. Después le reclaman por el pacto.
+8. **Aclaración del creador:** al cierre de esta conversación S5, Noise alerta a Mau de un ataque de alguien de la casa; Mau reacciona e interviene para sostener el voto. El posible agujero negro de Frieren pertenece a este instante nuevo, no a S2. Sukuna dice hasta luego y se corta la escena. La alternativa Zoltraak y la intervención/intento de seguimiento de Gojo vienen de la propuesta anterior; si se conservan, encajarlas sin prolongar el cierre en otra batalla. El reclamo posterior tiene su propio momento.
 9. El encuentro lleva a una conversación sobre técnica innata, comprensión y aplicación. Gojo, Mau, Senku **o** Byakuya y Shoko tienen participación propia. Senku provoca a Gojo, Shoko se ríe y la posibilidad espacial despierta interés; no hay desbloqueo inmediato.
 10. Gojo recuerda los fenómenos de Mau/Frieren ya vistos. Compararlos ofrece un objeto de estudio compartido; no son automáticamente agujeros negros astrofísicos ni operaciones idénticas entre sistemas.
 11. Más adelante, con algunas sombras de Mau disponibles, explorar conexión/contratos y **posible préstamo de capacidades**. Todavía no es una función otorgada de Arise, ni una transferencia completa de órganos, reservas o experiencia.
@@ -61,7 +61,7 @@ Estas precisiones no sustituyen el mensaje original ni convierten una posible so
 |---|---|---|
 | Enlace Mau/Sukuna | [Predicted Geometry](../THE_ARRIVALS_S2E23_LN_CHAPTER_05_PREDICTED_GEOMETRY_v0.1.md), «merging began»/tether; [mecánicas S2 §§7–8](../THE_ARRIVALS_S2_SUKUNA_MECHANICS_v0.1.md) | Intento de integración interrumpido. La intuición del techo mayor es el aporte nuevo del creador; no lectura completa del bag/especie de Mau |
 | Pérdida WCS | [Purple](../THE_ARRIVALS_S2E23_LN_CHAPTER_06_PURPLE_v0.1.md), mecánicas y [aclaración vigente](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md) | Se perdió esa ruta; otra vía puede buscarse. No confirmar que ya la tiene por venir confiado |
-| Frieren usa fenómeno tipo agujero negro | [S3 Diablo Finds Rimuru](../THE_ARRIVALS_S3E8_LN_CHAPTER_01_DIABLO_FINDS_RIMURU_v0.2.md) | Antecedente comprobado contra Diablo. En esta búsqueda no se localizó ese uso específico contra Sukuna en la prosa S2: no añadirlo retroactivamente |
+| Frieren usa fenómeno tipo agujero negro | [S3 Diablo Finds Rimuru](../THE_ARRIVALS_S3E8_LN_CHAPTER_01_DIABLO_FINDS_RIMURU_v0.2.md) | Antecedente comprobado contra Diablo. El creador aclara que su ataque contra Sukuna es una propuesta NUEVA al cierre de esta charla S5; la observación anterior del editor confundió esa ubicación. No era una afirmación sobre S2 |
 | Mau usa patrón de Frieren ante Gojo | [S4 Domain Clash](../THE_ARRIVALS_S4E21_LN_CHAPTER_05_DOMAIN_CLASH_v0.1.md), centro oscuro/luz curvada; [CANON_TRAPS](CANON_TRAPS.md) | Gojo lo vio e interrumpió con Red en esa situación. No primera revelación ni equivalencia universal |
 | Maestro y aprendiz ya tienen historia | [Gojo and His Apprentice](../THE_ARRIVALS_S4E26_LN_CHAPTER_03_GOJO_AND_HIS_APPRENTICE_v0.1.md) | Nuevo problema para una relación vigente, no Gojo aprendiendo que Mau existe o empezando de cero |
 
@@ -103,3 +103,25 @@ La comedia puede conservar a Senku seguro de sí mismo, Shoko riéndose y Gojo p
 6. Primeras preguntas/pruebas, papel propio del resto, canales de vigilancia y desarrollo posterior de préstamos.
 
 Se ha desarrollado el esqueleto de la conversación. Sus cláusulas, escena completa, experimento, alianzas y resultados siguen por construir; no es autorización para redactar S5.
+
+## Aclaración posterior — primero100% personal, presión gradual y cierre de la charla
+
+Mensaje completo del creador, 2026-10-16:
+
+> pero claro antes de que puedan hacer algo tienen que llegar al 100 y con el mundo evolving esto puede hacer una race against time de cierta manera pero sin prisa osea saben que antes d evo tiene q llegar a su 100% y saben que sukuna tambien entonces hace que el dungeon ya no sea solo para cosas sino para tambien upgrades y ver como organizaremos los teams o mau entra solo y asi al del 100. si cuando propuse el hoyo negro contra sukuna es despues de la platica osea mau y sukuna estan hablando y mau reacciona por the noise y el voto binculante a un ataque de alguien de la casa y sukuna le dice que hasta luego y eso es el corte antes de eso ella no usa nada de oyo negro contra el
+
+### Dirección vigente de progresión
+
+- **Recuperar el100% personal de la base correspondiente antes de ejecutar sus nuevas evoluciones. Sukuna también.** Es un requisito, no premio automático de técnica nueva por llegar a100%.
+- No confundir **100% de recuperación**, **nivel100** y **piso100**. El creador no ha fijado que todos deban terminar cien pisos para poder evolucionar ni que un nivel concreto equivalga al100%.
+- Pueden reconocer posibilidades, investigar y preparar su ejecución mientras recuperan su base. La primera aplicación de una nueva evolución requiere haber cumplido aquel umbral y sus demás requisitos. Recuperar usos previos, entrenar control, equipo y rama adquirida no se vuelven automáticamente la misma categoría; precisarlo en las fichas sin introducir excepciones por conveniencia.
+- Para Mau, definir qué base es medible sin resolver su especie o afirmar un100% de todo el bag desconocido. No borrar por esta regla los desarrollos ya propuestos de vuelo bajo, stats, Arise o integración; distinguir recuperación, progresión de la rama y evolución en lugar de asignarles porcentajes inventados.
+- Mundo y Sukuna avanzan: hay **una carrera gradual de preparación**, sin plazo de ataque conocido, cuenta atrás artificial ni torneo por quién llega primero. Los personajes saben que Sukuna también necesita recuperar su100%; no saben su porcentaje o agenda exactos por omnisciencia.
+- El dungeon sirve para botín, recursos/equipo y recuperación/upgrades/preparación. Esto no hace que XP, sincronización, equipo y evolución sean idénticos ni impone a todos las reglas de nivel de Mau.
+- **Equipos de los100 pisos o tramos de Mau solo siguen abiertos.** Definir quién quiere ir, compatibilidad, objetivos, rotación, descanso, apoyo y cobertura de casa; no copiar la party roja ni cerrar una campaña enteramente solo. Conservar el verano, convivencia y relaciones entre ascensos.
+
+### Cierre preciso de la escena propuesta
+
+Conversación Mau/Sukuna -> Noise alerta del ataque -> Mau interviene para cumplir la tregua -> Sukuna se despide -> corte. Frieren puede usar el fenómeno aquí propuesto **en esta escena futura**; antes de este punto no se le atribuye un uso contra Sukuna. Los antecedentes S3/Diablo y S4/Mau-Gojo sirven al estudio, no convierten este ataque S5 en un recuerdo antiguo.
+
+La intervención no demuestra una evolución nueva previa al100%: concretar la respuesta de Mau según lo que ya puede usar entonces. La investigación abre un horizonte; la carrera por recuperar capacidades da propósito a los ascensos sin cancelar la vida de casa.

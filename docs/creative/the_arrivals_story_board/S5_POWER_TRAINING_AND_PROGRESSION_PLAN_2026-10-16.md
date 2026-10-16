@@ -10,6 +10,14 @@
 
 Kit recuperado, técnica nueva, cuerpo, eficiencia, experiencia y equipo son ejes distintos. La comprensión no proporciona automáticamente órgano, combustible, socio, medio ni tolerancia.
 
+## Recuperación100% antes de nuevas evoluciones — aclaración del creador
+
+**C:** cada personaje debe recuperar su100% personal de la base correspondiente antes de ejecutar las nuevas evoluciones. **Sukuna también está sujeto a ese requisito.** Entender posibilidades e investigar puede comenzar antes; ejecutar una nueva evolución no. Alcanzar100% es requisito, no dominio inmediato ni recompensa que elimina preparación/coste.
+
+100% de recuperación no es nivel100 ni piso100. No fijar que terminar la torre equivale al umbral, ni un reloj obligatorio de recuperación para todos. Las fichas deben separar recuperación del kit/base, control, progreso del nuevo branch, equipo y evolución; para Mau no se puede calcular un100% de bag/especie desconocidos.
+
+El mundo sigue cambiando y Sukuna se prepara: presión gradual que hace útiles las expediciones para recuperar/upgradear, sin fecha de ataque inventada ni prisa que elimine verano, descanso y convivencia. Los equipos de100 pisos, rotaciones y posibles entradas de Mau solo están por decidir; no se aprueba sólo ni party fija. [aclaración completa del creador](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md).
+
 ## Ficha privada por persona — trabajo pendiente antes de prosa
 
 Para60 + Ciel/entidades según corresponda, registrar:
@@ -23,7 +31,7 @@ Para60 + Ciel/entidades según corresponda, registrar:
 | Costes/reservas | Mana/CE/shadow y otros separados, recuperación/daño/incompatibilidades |
 | Entorno | Mundo, gate normal, roja,100 pisos: qué cambia y persiste al salir |
 | Equipo | Objeto/rango si existe/peso/movilidad/crafting/compatibilidad |
-| Progresión | Práctica, sincronización, nivel, recursos o condición concreta |
+| Progresión | Práctica, sincronización, nivel, recursos o condición concreta; recuperación100% antes de nuevas evoluciones, sin igualarla a piso/nivel100 |
 | Próximo intento | Pregunta, criterio observable y resultado, no unlock por capítulo |
 | Visibilidad | Qué muestra brazalete y quién sabe qué; secretos/unknowns |
 | Persona | Qué quiere y con quién vive ese desarrollo; no sólo ataques |
@@ -102,3 +110,7 @@ Verificar estado actual por separado, sin asumir que el aftermath S2 permanece i
 - Tras conseguir algunas sombras, explorar conexión/contratos para prestar capacidades. Definir medio, consentimiento, compatibilidad, alcance, duración, carga, fallo y contramedidas. Arise no otorga automáticamente ese préstamo; no confundir con el filtro que Gojo ya prestó en Borrow Mine.
 - Posible entrenamiento en dungeon por temor a vigilancia: entrada/reingreso, reloj, observadores/Arquitecto y práctica coral aún por definir. Sukuna sólo obtiene información cuando tenga canal concreto; ni él ni Analyze conocen todo.
 - El voto del encuentro obliga a firmantes, no mágicamente a toda la casa; protección divina y ruta sacrificada se estudian con sus reglas propias. El primer estudio no es el primer combate ni la primera observación de Red/Blue/Infinity.
+
+## Aclaración de escena y primer ensayo
+
+El posible agujero negro de Frieren contra Sukuna está propuesto al cierre de la conversación S5. Noise alerta a Mau del ataque; él interviene para sostener la tregua, Sukuna se despide y hay corte. No es un antecedente S2 ni una evolución nueva ya ejecutada. Las primeras pruebas de las evoluciones que nazcan del estudio respetan el requisito100%; sus métodos y resultados siguen abiertos.

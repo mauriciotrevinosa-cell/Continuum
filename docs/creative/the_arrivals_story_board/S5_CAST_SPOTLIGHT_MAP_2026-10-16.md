@@ -22,6 +22,35 @@
 - **No igualar:** poco foco con abandono; muchas menciones con desarrollo; grupo con presencia individual; personaje útil con personaje completo; relación con Mau con único vínculo permitido.
 - Decidir jerarquías con el creador antes de sumar más llegadas, respetando las candidaturas ya guardadas sin tratarlas como aprobaciones nuevas. No imponer capítulos por cuota ni arcos para todos.
 
+
+## Primera clasificación del creador — secundarios y pérdidas de foco
+
+Creador, 2026-10-16, mensaje completo:
+
+> okay de los 60 te voy a dar quienes creo que son secundarios:
+> las brujas, wakan y marin (pq mas que me duela pero ellos ya tienen su vida y solo aparecen para el workshop y contruir y slice of life pero no veo la historia siendo movida por ellos.), byakuya, jinshi y mao mao (estos me duelen pero como que ya tienen sus roles y solo vamos a moverlos pero no significa pq alguien sea secundario un capitulo, arco o algo no pueda depender de ellos o ser el foco), las cinco de 100 girlfriends, seiko, turbo, vamola, esots me duelen pq se que no pueden pelear y en estas historias mayormente no pueden hacer nada pero en los slice of life pueden ser el centro y asi ( kesoku band), seika, mama de coco,mai es secundaria pero me gustaria que aparezca mas, himmel tomo un background despues de s2 y no a vuelto, ori estuvo mega desaparecida en s4 pero enteindo pq pero no me gusto es como yuta no estuvo en s1 y mayormente de s2 y es la goat.
+>
+> quiero hacer una aclaracion grande aqui puse los que se sienten secundarios no significa que nuna podran se rle centro de un cap arco o season todo depende y no todos ellos me gusta que sean secundarios pero tambien entiendo que si un mendigo titan ataca que haria kesoku band
+
+### Aplicación fiel de esa lectura
+
+- **Secundarios recurrentes según la lectura actual del creador:** siete brujas; Wakana y Marin; Byakuya; Jinshi y Maomao; Hakari, Karane, Shizuka, Nano y Kusuri; Seiko, Turbo Granny y Vamola; Bocchi, Kita, Nijika y Ryo; Seika; madre de Coco. No se considera un destino permanente ni una reducción de su valor familiar.
+- **Mai:** el creador la considera secundaria y pide expresamente más presencia. Respetar su distancia y el arco privado ya protegido; no interpretar distancia como permiso para omitirla.
+- **Himmel:** el creador percibe un desplazamiento al fondo después de S2. Registrar como pérdida de foco que necesita evaluación, no como aprobación de relegarlo permanentemente ni prueba de que nunca aparece en los volúmenes siguientes.
+- **Ori:** el creador comprende el contexto, pero le disgusta su falta de presencia percibida en S4. Es una preocupación a atender, no una orden de clasificarla como secundaria ni de rebajar su vínculo familiar central. Mantener su vida independiente y presencia cotidiana además del futuro arco de la puerta.
+- **Comparación con Yuta:** la frase sobre S1/S2 es la comparación de experiencia de lectura del creador; no reescribe su cronología de llegada o elimina sus escenas existentes.
+- Los personajes no nombrados aquí siguen **por revisar**, no quedan automáticamente promovidos a protagonistas. No emitir reparto completo definitivo por descarte.
+
+### Regla de foco y competencia
+
+Un secundario puede ser el centro de un capítulo, arco o incluso temporada si su historia lo justifica. La clasificación describe su posición habitual en este momento, no una prohibición de crecer ni una jerarquía de cariño o valor.
+
+Capacidad de combatir y centralidad narrativa son ejes distintos. Kessoku no tiene por qué estar en una pelea contra un titán ni recibir poderes/una función de emergencia inventada para justificar existir; música, amistades, pareja y convivencia pueden tener peso y sostener escenas o arcos propios. La observación del creador sobre no poder pelear no debe convertirse en una regla global de incapacidad para todos los nombres de la lista.
+
+Estar ocupados en taller, clínica o cocina no demuestra por sí solo que un personaje sea feliz, carezca de deseos o tenga toda su vida resuelta. Conservar el contexto del creador y revisar individualmente antes de reasignar cargas o inventar frustraciones. No convertir el mapa en una plantilla de profesiones.
+
+No cuotas de igualdad ni obligación de poner a todos en cada crisis. El objetivo es una familia viva con rotación de foco y continuidad ganada. No se autoriza un retcon de S4 ni un arco concreto, nuevo combate, nuevo poder o equipo de dungeon.
+
 ## Método y límites del primer barrido
 
 Leídos los registros existentes y revisado de forma enfocada el caso Yuka. Barrido textual de los **213 capítulos activos de S4**, con 61 entradas individuales. Se excluyeron títulos, metadatos y la línea When para contar nombres en la prosa. Cada cifra es número de capítulos con coincidencia explícita, **no escenas, participación física, diálogos ni agencia**. Un recuerdo también puede contar; los pronombres, alias y nombres colectivos pueden no contar. Coco mother sólo busca atribución explícita a Coco; sus cifras son un mínimo. Pride requiere distinguir nombre de uso común. Ciel no cuenta como cuerpo presente.
@@ -58,60 +87,60 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 | Fern | Por decidir con el creador | 18 | 23 | 25 | 20 | 23 | 27 | 17 | V25 #29 | Separar agencia y vida propia del ledger; conservar Fort, Stark y reciprocidad con Frieren. |
 | Stark | Por decidir con el creador | 2 | 8 | 5 | 11 | 10 | 5 | 10 | V25 #27 | Revisar deseos y relaciones que no sean únicamente acompañar a Fern o luchar al frente. |
 | Rimuru | Por decidir con el creador | 23 | 22 | 24 | 20 | 24 | 22 | 12 | V25 #29 | Conservar al hermano/compañero más allá de retransmitir Ciel y resolver infraestructura. |
-| Ori | Por decidir con el creador | 12 | 9 | 8 | 6 | 10 | 10 | 9 | V25 #24 | Mantener deseos, amistades y decisiones propias además de la preocupación por Mau. |
+| Ori | Familia central; presencia insuficiente percibida, revisar | 12 | 9 | 8 | 6 | 10 | 10 | 9 | V25 #24 | Mantener deseos, amistades y decisiones propias además de la preocupación por Mau. |
 | Milim | Por decidir con el creador | 13 | 16 | 13 | 12 | 18 | 12 | 7 | V25 #29 | Sostener familia y juego además de rescates y fuerza; sus momentos no requieren crisis. |
 | Yuta | Por decidir con el creador | 15 | 12 | 10 | 14 | 28 | 12 | 2 | V25 #27 | Revisar continuidad del hermano mayor, pareja, abuelo y amigo tras su bloque fuerte. |
 | Maki | Por decidir con el creador | 15 | 11 | 8 | 10 | 22 | 5 | 2 | V25 #24 | Revisar iniciativa propia y amistades después de Yuka; no reducirla a contener crisis. |
 | Umaru | Por decidir con el creador | 11 | 24 | 17 | 17 | 16 | 10 | 6 | V25 #21 | Conservar presidenta, hermana y joven con necesidades propias además del gag del Fort. |
 | Coco | Por decidir con el creador | 7 | 14 | 13 | 3 | 4 | 12 | 0 | V25 #29 | Comprobar continuidad después del arco de su madre y su pertenencia al atelier y familia. |
-| Bocchi | Por decidir con el creador | 9 | 14 | 10 | 5 | 8 | 2 | 5 | V25 #24 | Distinguir tocar en una escena de tener deseos, elección y vínculos propios. |
-| Kita | Por decidir con el creador | 3 | 8 | 8 | 7 | 9 | 2 | 5 | V25 #24 | Revisar vida propia y pareja visible sin convertirla sólo en facilitadora de Bocchi. |
-| Nijika | Por decidir con el creador | 1 | 6 | 7 | 9 | 4 | 5 | 5 | V25 #29 | Mantener agencia y vínculos con Kessoku/Seika sin obligar un arco nuevo. |
-| Ryo | Por decidir con el creador | 3 | 4 | 5 | 1 | 3 | 1 | 4 | V25 #8 | Revisar si su baja recurrencia tiene escenas suficientes más allá de remates cómicos. |
+| Bocchi | Secundario recurrente percibido; foco ampliable (creador) | 9 | 14 | 10 | 5 | 8 | 2 | 5 | V25 #24 | Distinguir tocar en una escena de tener deseos, elección y vínculos propios. |
+| Kita | Secundario recurrente percibido; foco ampliable (creador) | 3 | 8 | 8 | 7 | 9 | 2 | 5 | V25 #24 | Revisar vida propia y pareja visible sin convertirla sólo en facilitadora de Bocchi. |
+| Nijika | Secundario recurrente percibido; foco ampliable (creador) | 1 | 6 | 7 | 9 | 4 | 5 | 5 | V25 #29 | Mantener agencia y vínculos con Kessoku/Seika sin obligar un arco nuevo. |
+| Ryo | Secundario recurrente percibido; foco ampliable (creador) | 3 | 4 | 5 | 1 | 3 | 1 | 4 | V25 #8 | Revisar si su baja recurrencia tiene escenas suficientes más allá de remates cómicos. |
 | Momo | Por decidir con el creador | 13 | 16 | 19 | 16 | 14 | 18 | 19 | V25 #29 | Examinar cocina elegida/carga compartida y su vida con Okarun/Vamola y otras amistades. |
 | Okarun | Por decidir con el creador | 1 | 4 | 11 | 5 | 14 | 6 | 5 | V25 #27 | Revisar identidad cotidiana, pareja y amistad con Jiji fuera de funciones de búsqueda. |
-| Seiko | Por decidir con el creador | 4 | 15 | 13 | 6 | 13 | 9 | 1 | V25 #28 | Examinar presencia propia y amistades además de consejo y resolución sobrenatural. |
-| Marin | Por decidir con el creador | 6 | 4 | 6 | 4 | 7 | 4 | 4 | V25 #18 | Separar vida afectiva y creatividad elegida de producción de objetos para otros. |
-| Wakana | Por decidir con el creador | 5 | 12 | 19 | 12 | 13 | 7 | 19 | V25 #21 | Examinar tiempo propio, pareja y creatividad además de encargos y reparaciones. |
-| Maomao | Por decidir con el creador | 6 | 13 | 12 | 8 | 12 | 9 | 10 | V25 #25 | Mantener curiosidad, elección, relaciones y límites fuera de la lista de pacientes. |
+| Seiko | Secundario recurrente percibido; foco ampliable (creador) | 4 | 15 | 13 | 6 | 13 | 9 | 1 | V25 #28 | Examinar presencia propia y amistades además de consejo y resolución sobrenatural. |
+| Marin | Secundario recurrente percibido; foco ampliable (creador) | 6 | 4 | 6 | 4 | 7 | 4 | 4 | V25 #18 | Separar vida afectiva y creatividad elegida de producción de objetos para otros. |
+| Wakana | Secundario recurrente percibido; foco ampliable (creador) | 5 | 12 | 19 | 12 | 13 | 7 | 19 | V25 #21 | Examinar tiempo propio, pareja y creatividad además de encargos y reparaciones. |
+| Maomao | Secundario recurrente percibido; foco ampliable (creador) | 6 | 13 | 12 | 8 | 12 | 9 | 10 | V25 #25 | Mantener curiosidad, elección, relaciones y límites fuera de la lista de pacientes. |
 | Senku | Por decidir con el creador | 8 | 20 | 23 | 11 | 13 | 14 | 10 | V25 #29 | Separar científico/persona de dispensador de inventos; no reducir todo avance a él. |
 | Suika | Por decidir con el creador | 4 | 8 | 7 | 4 | 4 | 4 | 2 | V25 #21 | Revisar iniciativa y relaciones propias sin obligarla a un arco grande. |
 | Anko | Por decidir con el creador | 10 | 8 | 7 | 9 | 9 | 14 | 9 | V25 #28 | Conservar amistad, humor y necesidades además del cuaderno y vigilancia. |
-| Himmel | Por decidir con el creador | 1 | 3 | 8 | 8 | 5 | 15 | 8 | V25 #29 | Revisar su lugar propio y nuevas relaciones sin limitarlo al pasado de Frieren. |
+| Himmel | Foco perdido percibido; revisar, no relegación aprobada | 1 | 3 | 8 | 8 | 5 | 15 | 8 | V25 #29 | Revisar su lugar propio y nuevas relaciones sin limitarlo al pasado de Frieren. |
 | Qifrey | Por decidir con el creador | 2 | 6 | 8 | 1 | 1 | 6 | 0 | V25 #19 | Revisar continuidad tras Coco y límites/decisiones del atelier; no sólo autoridad útil. |
 | Agott | Por decidir con el creador | 5 | 5 | 11 | 2 | 2 | 4 | 0 | V25 #19 | Revisar su voz y vínculo específico con Coco sin sustituirlos por el nombre del grupo. |
 | Tetia | Por decidir con el creador | 2 | 2 | 6 | 1 | 2 | 4 | 0 | V25 #19 | Revisar presencia individual dentro del atelier/familia sin forzar protagonismo. |
 | Richeh | Por decidir con el creador | 2 | 1 | 7 | 1 | 2 | 3 | 0 | V25 #19 | Revisar presencia individual y silencios significativos; no confundir silencio con ausencia. |
-| Hakari | Por decidir con el creador | 4 | 13 | 4 | 1 | 2 | 1 | 3 | V25 #29 | Revisar deseos y vínculos propios dentro y fuera de las cinco; rol aún por decidir. |
-| Karane | Por decidir con el creador | 2 | 8 | 4 | 1 | 2 | 1 | 3 | V25 #29 | Revisar función fuera del remate cómico y relaciones reales dentro del grupo. |
-| Shizuka | Por decidir con el creador | 1 | 5 | 1 | 0 | 2 | 1 | 4 | V25 #29 | Revisar decisiones y afecto individual sin exigir extroversión ni un gran arco. |
-| Nano | Por decidir con el creador | 4 | 8 | 3 | 2 | 2 | 1 | 4 | V25 #29 | Distinguir personalidad y relaciones de utilidad organizativa para el grupo. |
-| Kusuri | Por decidir con el creador | 3 | 9 | 2 | 1 | 3 | 4 | 6 | V25 #29 | Distinguir curiosidad y familia de función científica; no usarla para cubrir a las cinco. |
-| Mai | Por decidir con el creador | 3 | 4 | 7 | 3 | 9 | 1 | 1 | V25 #18 | Revisar continuidad y vínculos respetando su distancia y arco privado protegido. |
+| Hakari | Secundario recurrente percibido; foco ampliable (creador) | 4 | 13 | 4 | 1 | 2 | 1 | 3 | V25 #29 | Revisar deseos y vínculos propios dentro y fuera de las cinco; rol aún por decidir. |
+| Karane | Secundario recurrente percibido; foco ampliable (creador) | 2 | 8 | 4 | 1 | 2 | 1 | 3 | V25 #29 | Revisar función fuera del remate cómico y relaciones reales dentro del grupo. |
+| Shizuka | Secundario recurrente percibido; foco ampliable (creador) | 1 | 5 | 1 | 0 | 2 | 1 | 4 | V25 #29 | Revisar decisiones y afecto individual sin exigir extroversión ni un gran arco. |
+| Nano | Secundario recurrente percibido; foco ampliable (creador) | 4 | 8 | 3 | 2 | 2 | 1 | 4 | V25 #29 | Distinguir personalidad y relaciones de utilidad organizativa para el grupo. |
+| Kusuri | Secundario recurrente percibido; foco ampliable (creador) | 3 | 9 | 2 | 1 | 3 | 4 | 6 | V25 #29 | Distinguir curiosidad y familia de función científica; no usarla para cubrir a las cinco. |
+| Mai | Secundaria; más presencia solicitada (creador) | 3 | 4 | 7 | 3 | 9 | 1 | 1 | V25 #18 | Revisar continuidad y vínculos respetando su distancia y arco privado protegido. |
 | Rem | Por decidir con el creador | 6 | 11 | 7 | 10 | 4 | 7 | 5 | V25 #29 | Mantener reciprocidad y elección propia; no volverla cuidadora permanente. |
-| Seika | Por decidir con el creador | 0 | 0 | 4 | 16 | 5 | 5 | 4 | V25 #29 | Revisar integración y vínculo con Nijika más allá de su llegada y reacciones familiares. |
+| Seika | Secundario recurrente percibido; foco ampliable (creador) | 0 | 0 | 4 | 16 | 5 | 5 | 4 | V25 #29 | Revisar integración y vínculo con Nijika más allá de su llegada y reacciones familiares. |
 | Ram | Por decidir con el creador | 0 | 2 | 1 | 7 | 4 | 6 | 2 | V25 #29 | Revisar vida propia y hermana además de sarcasmo y restricciones de mana. |
 | Kaneki | Por decidir con el creador | 3 | 8 | 10 | 3 | 1 | 4 | 0 | V25 #8 | Revisar el hueco de continuidad y sus vínculos fuera de empatía por cuerpos peligrosos. |
 | Aira | Por decidir con el creador | 2 | 2 | 6 | 2 | 3 | 11 | 10 | V25 #29 | Distinguir desarrollo propio de asignación continua de trabajo/protección. |
-| Vamola | Por decidir con el creador | 2 | 3 | 4 | 2 | 2 | 2 | 5 | V25 #23 | Verificar pertenencia con Momo/Fort sin resolver una omisión sólo con menciones. |
-| Turbo Granny | Por decidir con el creador | 2 | 6 | 3 | 2 | 9 | 4 | 1 | V25 #27 | Revisar voz y relaciones además de remates en escenas ajenas. |
+| Vamola | Secundario recurrente percibido; foco ampliable (creador) | 2 | 3 | 4 | 2 | 2 | 2 | 5 | V25 #23 | Verificar pertenencia con Momo/Fort sin resolver una omisión sólo con menciones. |
+| Turbo Granny | Secundario recurrente percibido; foco ampliable (creador) | 2 | 6 | 3 | 2 | 9 | 4 | 1 | V25 #27 | Revisar voz y relaciones además de remates en escenas ajenas. |
 | Nazuna | Por decidir con el creador | 2 | 4 | 7 | 1 | 1 | 4 | 2 | V25 #27 | Revisar continuidad propia y Anko sin forzar romance ni convertirla sólo en vigilancia. |
-| Jinshi | Por decidir con el creador | 2 | 6 | 6 | 2 | 8 | 7 | 6 | V25 #22 | Reevaluar función real en Arrival House y vida propia; comprobar ocupación antes de reasignar. |
+| Jinshi | Secundario recurrente percibido; foco ampliable (creador) | 2 | 6 | 6 | 2 | 8 | 7 | 6 | V25 #22 | Reevaluar función real en Arrival House y vida propia; comprobar ocupación antes de reasignar. |
 | Diablo | Por decidir con el creador | 1 | 8 | 7 | 7 | 10 | 6 | 3 | V25 #27 | Conservar su elección de asistir a todos y vínculos; no reducirlo a logística/puertas. |
 | Eren | Por decidir con el creador | 7 | 6 | 9 | 12 | 6 | 14 | 9 | V25 #29 | Revisar continuidad después del arco de seguridad y pareja sin repetir el conflicto. |
 | Mikasa | Por decidir con el creador | 8 | 9 | 9 | 11 | 6 | 15 | 12 | V25 #29 | Revisar decisiones y amistades propias además de Eren y protección. |
-| Pride | Secundaria recurrente; puede liderar un arco (creador) | 0 | 1 | 2 | 2 | 5 | 0 | 2 | V24 #36 | Conservar su individualidad; puede ser central si un arco concreto la requiere. |
-| Echidna | Secundaria recurrente; puede liderar un arco (creador) | 0 | 1 | 10 | 2 | 4 | 8 | 2 | V25 #28 | Conservar relación con Coco, biblioteca y té; importancia local no exige ser protagonista permanente. |
-| Daphne | Secundaria recurrente; puede liderar un arco (creador) | 0 | 1 | 14 | 5 | 5 | 5 | 2 | V25 #29 | Conservar intereses, trabajo elegido y vínculos más allá de función agrícola. |
-| Satella | Secundaria recurrente; puede liderar un arco (creador) | 0 | 1 | 7 | 2 | 3 | 2 | 0 | V25 #19 | Revisar su presencia individual sin imponer conflicto o protagonismo nuevo. |
-| Sekhmet | Secundaria recurrente; puede liderar un arco (creador) | 0 | 0 | 10 | 2 | 5 | 0 | 2 | V24 #26 | Conservar voz y vínculos; baja frecuencia no basta para diagnosticar abandono. |
-| Carmilla | Secundaria recurrente; puede liderar un arco (creador) | 0 | 0 | 4 | 1 | 1 | 0 | 1 | V24 #23 | Revisar continuidad con Bocchi y su propia voz sin forzar un arco nuevo. |
-| Minerva | Secundaria recurrente; puede liderar un arco (creador) | 0 | 0 | 7 | 3 | 3 | 0 | 2 | V24 #24 | Conservar personalidad y relaciones además de ayudar físicamente a otros. |
+| Pride | Secundario recurrente percibido; foco ampliable (creador) | 0 | 1 | 2 | 2 | 5 | 0 | 2 | V24 #36 | Conservar su individualidad; puede ser central si un arco concreto la requiere. |
+| Echidna | Secundario recurrente percibido; foco ampliable (creador) | 0 | 1 | 10 | 2 | 4 | 8 | 2 | V25 #28 | Conservar relación con Coco, biblioteca y té; importancia local no exige ser protagonista permanente. |
+| Daphne | Secundario recurrente percibido; foco ampliable (creador) | 0 | 1 | 14 | 5 | 5 | 5 | 2 | V25 #29 | Conservar intereses, trabajo elegido y vínculos más allá de función agrícola. |
+| Satella | Secundario recurrente percibido; foco ampliable (creador) | 0 | 1 | 7 | 2 | 3 | 2 | 0 | V25 #19 | Revisar su presencia individual sin imponer conflicto o protagonismo nuevo. |
+| Sekhmet | Secundario recurrente percibido; foco ampliable (creador) | 0 | 0 | 10 | 2 | 5 | 0 | 2 | V24 #26 | Conservar voz y vínculos; baja frecuencia no basta para diagnosticar abandono. |
+| Carmilla | Secundario recurrente percibido; foco ampliable (creador) | 0 | 0 | 4 | 1 | 1 | 0 | 1 | V24 #23 | Revisar continuidad con Bocchi y su propia voz sin forzar un arco nuevo. |
+| Minerva | Secundario recurrente percibido; foco ampliable (creador) | 0 | 0 | 7 | 3 | 3 | 0 | 2 | V24 #24 | Conservar personalidad y relaciones además de ayudar físicamente a otros. |
 | Gojo | Por decidir con el creador | 2 | 1 | 2 | 0 | 32 | 21 | 6 | V25 #29 | Revisar reparto entre mentoría, amistad, pareja y autonomía sin desplazar al resto. |
 | Shoko | Por decidir con el creador | 0 | 0 | 0 | 0 | 16 | 19 | 7 | V25 #29 | Conservar vida propia y recuperación además de medicina/cuidado de Mau. |
 | Yuka | Revisión prioritaria; rotación propuesta, no cerrada | 0 | 0 | 0 | 1 | 16 | 7 | 3 | V25 #24 | Reconectar hermana/familia/Fort y decisiones propias después de su arco; no sólo Oppa/perra. |
-| Madre de Coco | Por decidir con el creador | 1 | 0 | 0 | 0 | 0 | 8 | 0 | V25 #29 | Revisar agencia e integración después del rescate; el nombre literal no captura pronombres. |
-| Byakuya | Por decidir con el creador | 0 | 1 | 0 | 0 | 0 | 6 | 4 | V25 #29 | Revisar vida compartida más allá del efecto de su llegada sobre Senku. |
+| Madre de Coco | Secundario recurrente percibido; foco ampliable (creador) | 1 | 0 | 0 | 0 | 0 | 8 | 0 | V25 #29 | Revisar agencia e integración después del rescate; el nombre literal no captura pronombres. |
+| Byakuya | Secundario recurrente percibido; foco ampliable (creador) | 0 | 1 | 0 | 0 | 0 | 6 | 4 | V25 #29 | Revisar vida compartida más allá del efecto de su llegada sobre Senku. |
 | Jiji | Por decidir con el creador | 0 | 0 | 0 | 0 | 0 | 3 | 2 | V25 #24 | Revisar integración posterior a su llegada sin imponer protagonismo inmediato. |
 | Ciel | Agente del sistema; revisar aparte | 19 | 12 | 15 | 12 | 24 | 17 | 2 | V25 #28 | Revisar agencia, límites y vínculos sin equiparar diálogo a cuerpo residente ni omnisciencia. |
 

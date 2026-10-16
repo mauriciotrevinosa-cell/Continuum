@@ -323,3 +323,7 @@ Day171–172 and Day218–219 titan alerts reach Mau as well as Rimuru. Mau part
 ## S5 cast mapping before more arrivals — creator, 2026-10-16
 
 [Individual cast/spotlight working map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md): 60 resident/core-circle people plus Ciel, explicit-name navigation across all213 S4 chapters, a focused Yuka review and per-person questions. This is an initial map, not 61 completed scene audits. Creator confirms the seven witches as a positive model of recurring supporting characters who can lead a specific arc. Other role decisions remain open; no quota of chapters or forced protagonist promotion. Audit continuity and who the story revolves around before choosing more arrivals. Internal V26 references are spoilers for the creator, who has not yet read it. S4 unchanged; no new arrivals or S5 prose authorised.
+
+## Creator cast classification — supporting does not mean absent (2026-10-16)
+
+See [the full creator classification and updated individual map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md). The creator names recurring supporting characters/groups while preserving the possibility of a chapter, arc or season centred on any of them. Mai explicitly needs more presence; Himmel's loss of focus and Ori's perceived S4 absence are concerns to examine, not orders to relegate them. Combat usefulness does not determine narrative value; Kessoku need not fight a titan to matter. Remaining people are still unclassified, not automatically leads. No S4 retcon or S5 prose.

@@ -27,3 +27,7 @@ Remaining limitation: these are new creative production drafts awaiting the crea
 - Git-backed reader resync fetched origin/m3/critical-path. All30 new chapter bodies, V26 index and repaired V24 chapter matched local text (32 exact body comparisons), with DRAFT lifecycle preserved.
 - Web verified: series summary26volumes/742chapters; all30 V26 links present; first/last reader pages HTTP200 with visible prose and correct previous/next navigation. No S5 next chapter.
 - This QA record is a later documentation-only update; it does not change the reviewed story payload. Creator reading/approval remains open.
+
+## Later insertion note — 2026-10-15
+
+The recorded0ffb261 checks above remain evidence for that story payload. DH-103 later inserts one Day214 V25 chapter after Market Day, with creator-supplied public/dialogue/domestic beats and an unbuilt S5 hook. Current totals: V25=29, S4=213, LN=743. V26's30 chapters/dates/text remain unchanged. Later V25 stable IDs remain; use the current index for orders27–29. The earlier titan-boundary/informed-faces repair (DH-102) remains intact.

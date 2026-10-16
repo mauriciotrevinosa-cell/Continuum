@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 25 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — S4 v0.1  
-**Volume:** 25  
-**Season:** 4  
-**Volume title:** **Crystal**  
-**Chapter count:** 28
+**Status:** LN PRODUCTION DRAFT — S4 v0.1
+**Volume:** 25
+**Season:** 4
+**Volume title:** **Crystal**
+**Chapter count:** 29
 
 | # | Chapter |
 |---:|---|
@@ -33,6 +33,7 @@
 | 23 | Something Cold |
 | 24 | All the Years |
 | 25 | Market Day |
-| 26 | Two on the Ridge |
-| 27 | The Line |
-| 28 | Close the City |
+| 26 | Fruit, Seeds, Two Books |
+| 27 | Two on the Ridge |
+| 28 | The Line |
+| 29 | Close the City |

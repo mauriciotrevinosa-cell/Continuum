@@ -158,7 +158,7 @@ The most important source documents are copied into [sources/](./sources/) so th
 
 ## Current S4 closing draft — 2026-10-14
 
-- [S4 production index — 212 chapters, Volumes20–26](../THE_ARRIVALS_S4_LN_PRODUCTION_INDEX_v0.1.md)
+- [S4 production index — 213 chapters, Volumes20–26](../THE_ARRIVALS_S4_LN_PRODUCTION_INDEX_v0.1.md)
 - [V26 reader index — 30 chapters](../THE_ARRIVALS_LN_VOLUME_26_INDEX_v0.1.md)
 - [V26 executed outline and continuity state](S4_V26_PLAN_2026-10-14.md)
 - [V26 focused QA record](S4_V26_CONTINUITY_QA_2026-10-14.md)
@@ -168,3 +168,7 @@ S4's production draft is complete; creator read-through remains open. S5 has not
 ## S5 opening proposal — full creator text (in discussion)
 
 [Complete door / Ori / Frieren / The Noise opening proposal](S5_OPENING_DOOR_CREATOR_FULL_PROPOSAL_2026-10-14.md). The creator explicitly requires full preservation without simplifying; use the original, with editorial observations separate. This is not a greenlight to write S5 or alter S4.
+
+## Creator-directed Ashby insertion — 2026-10-15
+
+[Complete creator proposal and continuity notes](S4_MAU_ASHBY_CREATOR_FULL_PROPOSAL_2026-10-15.md). Implemented as V25 #26 Fruit, Seeds, Two Books, after Market Day. V25 now29chapters; S4 total213. Later chapter IDs/bookmarks stay stable. The future Mau/Sukuna conversation is still the creator's undisclosed S5 idea; no such conversation has been invented or drafted.

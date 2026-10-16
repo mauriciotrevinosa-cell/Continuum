@@ -47,3 +47,7 @@ All the Years is added to V25 on Day 212, after the Jiji dinner and before Marke
 ## V26 execution — 2026-10-14
 
 V26 is now a **30-chapter production draft**, S4E33–S4E37, Days221–262: [executed outline](S4_V26_PLAN_2026-10-14.md), [reader index](../THE_ARRIVALS_LN_VOLUME_26_INDEX_v0.1.md). S4 closes on Mau's held choice beside Frieren at the door; no coda or S5 prose follows. This executes the newer creator handoff's immediate-door S5 transition, superseding the old table's generic breather-opening wording. Family, Ori, Kessoku and a science quartet receive full everyday scenes. Creator read-through remains open. S5 ideas remain unbuilt and need the creator's later greenlight.
+
+## V25 market insertion — 2026-10-15 (DH-103)
+
+Creator requests Mau's unplanned Ashby visit after the Pell report, including the shopping, confrontation, gifts and domestic aftermath. V25 now29chapters, S4 total213; Days214/221 and the V26 closing stay unchanged. [Full original proposal](S4_MAU_ASHBY_CREATOR_FULL_PROPOSAL_2026-10-15.md). This seeds an undisclosed future Mau/Sukuna conversation, not a written S5 event or an approved confrontation plan.

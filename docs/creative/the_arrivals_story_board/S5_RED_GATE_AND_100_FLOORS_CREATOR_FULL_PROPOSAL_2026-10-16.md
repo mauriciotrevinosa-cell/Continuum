@@ -120,3 +120,26 @@ The point is a coercive instruction becoming a reward-based offer, not another p
 ### Still a developing skeleton
 
 All prior proposed arcs remain active: opening door/care/briefing; delayed anniversary dinner and normal grimoire trip/Exchange; Red Gate; household roles and relationships; visible adaptation; private power roster; gate upgrade/relocation; trade, ink secrecy and world gates; home/crystal utilities/cultural projects; future coins/arrivals under review; Sukuna conversation/evolution; summer activities and family/fort days. Listing them does not implement each one, fix order or collapse them into tower rewards. Build the integrated season before prose approval.
+
+## Creator favourite shadows — key choices, replicas and gradual evolution
+
+Creator, 2026-10-16, exact message:
+
+> beru igris son clave tank fang son buenas ideas y lo demas puede ser fodder tal ves el dragon sea uno y asi y que sean intermitentes y usemos los bosses de la serie y que pueda conseguir al dragon que consigue jin woo y pues son copias d elos reales pero the noise los comienza a analizar y evolve mientra suben de nivel
+
+### Roster priorities, with creator certainty preserved
+
+- **Beru and Igris: key choices**, explicitly singled out by the creator.
+- **Tank and Fang: good candidates**, not silently treated as equally locked mandatory acquisitions.
+- Other ranks may be ordinary supporting troops (creator's "fodder"), rather than a cast of100 separately developed named shadows. Keep the approximate roster/initial capacity targets and finite resources from the previous entry.
+- **Dragon: possible boss/shadow and desired eventual acquisition inspired by Jin-Woo's dragon.** Exact identity is not specified; do not choose between source dragons or identify it with the earlier Red Gate dragon without the creator's confirmation. Timing, extraction, cost and roster capacity remain to develop.
+
+### Encounters and replicas
+
+Use source-series bosses as inspiration for intermittently placed encounters across progression. Do not force a famous shadow or boss onto every floor, give every favourite immediately or assign floor numbers without planning. "Intermitentes" preserves spaced appearances; do not impose a final summon duration or compulsory despawn mechanic from this word alone.
+
+The creator says these are **copies of the real counterparts**. Keep them distinct from Jin-Woo's actual existing soldiers: do not steal his original army, move their original souls, alter his ownership or merge his wartime roster by assumption. Decide the dungeon-copy generation, awareness, memory, personality and extraction mechanics later. Replica status does not automatically supply the whole original's maximum power, loyalty history or private knowledge. Familiar appearance alone does not establish a conscious copy or source-character replacement.
+
+The Noise begins analysing these copies; growth/evolution develops as they level. Keep earned levels, finite shadow reserve, limited roster and gradual integration. The creator does not grant instant complete reconstruction or infinite amplification. Define later what improves through levelling versus the Noise's understanding/construction, costs and requirements, and how source identity remains readable. No precise multipliers, final forms or evolved abilities chosen now.
+
+This refines the100-floor boss/shadow plan while preserving the preceding Red Gate rewards and later Architect double-dungeon finale. No encounter choreography, final floor list, dragon identity, acquisition order or S5 prose is fixed here.

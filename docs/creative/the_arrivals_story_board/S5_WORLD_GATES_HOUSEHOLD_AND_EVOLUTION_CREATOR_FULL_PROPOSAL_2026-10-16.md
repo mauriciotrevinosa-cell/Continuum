@@ -326,3 +326,7 @@ Creator, 2026-10-16, complete original message:
 - Spend the interval on recovery as needed, relationships, household/world progress and preparation; its exact content should interweave the existing S5 agenda. No implication that every day is a countdown scene or that other people are paused while Mau waits.
 
 The gate-upgrade menu (grimoires, collectibles, armour development) still needs detailed design and progression limits; this note places its proposed reward trigger. Existing rare invisible-armour chest/boss rule remains. S5 stays in skeleton/development stage, not approved prose.
+
+## Red Gate week, rewards and subsequent progression — creator, 2026-10-16
+
+[Complete Red Gate /100-floor / System proposal](S5_RED_GATE_AND_100_FLOORS_CREATOR_FULL_PROPOSAL_2026-10-16.md): one week inside/one hour outside; Frieren leads, Mau/Milim support; arrow/Infinity beat, coordinated dragon battle/small Red, fire crystal and two grimoires; ~100 removable status bracelets; physical owner-Mau key enabling companions; one-use relocation target to clarify;100 floors before Architect double dungeon; early Arise placement to confirm; finite separate shadow resource, no Black Heart; Umaru's build plan and gradual Noise integration of CE/mana into the initially Solo-Leveling-only stats. Raw creator text preserved in full, with open mechanisms separate. The earlier Red Gate upgrade/secret Architect-test connection remains; this is not a merger of all gate events or completed S5 prose.

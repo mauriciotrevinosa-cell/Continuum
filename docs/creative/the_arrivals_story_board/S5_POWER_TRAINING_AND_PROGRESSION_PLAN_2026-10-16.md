@@ -86,3 +86,11 @@ Cristal de fuego, rangos E–S, crafting/compra/loot, armadura normal visible e 
 - Calendario y relojes: semana roja/hora externa no es ratio universal; aniversario y S4 requieren reconciliar estimación con Day262.
 
 Resolver antes de prosa; no cada decisión necesita un arco adicional que desplace la convivencia.
+
+## Sukuna: ruta sacrificada y posibilidad de otra vía
+
+Revisión de prosa activa: S2 Purple y mecánicas §10–11 fijan la pérdida de la ruta World Cutting Slash/world-targeting Dismantle para sobrevivir; Mahoraga destruido. La versión S2 es Meguna, no el working Heian antiguo.
+
+**Precisión del creador, 2026-10-16:** cerró la ruta que había construido en JJK, no toda posibilidad de encontrar otra manera de recuperar ese resultado. Mantener el coste: ni sincronización100%, tiempo transcurrido ni un cambio de nombre devuelven automáticamente la ruta sacrificada. Investigación/entrenamiento pueden contribuir a una construcción distinta; no hay recuperación, método ni éxito confirmados ahora. La pérdida y esa búsqueda son tema para la conversación Mau/Sukuna, no una técnica ya concedida.
+
+Verificar estado actual por separado, sin asumir que el aftermath S2 permanece igual para siempre, que Mahoraga volvió o que todo se recuperó. Consultar [ficha Sukuna con fuentes y mensaje completo del creador](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md) antes de sus futuras pruebas. No se escriben nuevos poderes aquí.

@@ -1,4 +1,4 @@
-# S5 — propuesta integrada de temporada v0.1
+# S5 — propuesta integrada de temporada v0.2
 
 **Fecha:** 2026-10-16. **Estado:** propuesta para discutir, no temporada aprobada ni autorización de capítulos. S4 permanece intacta. Las ideas originales completas no se sustituyen por este esquema.
 
@@ -46,7 +46,7 @@ La instrucción más reciente rige cada punto: Exchange después de puerta y ant
 | B. Cuidar y volver a vivir | Fiebre/roles de cuidado invertidos; briefing con Frieren abrazada a Mau; levitación pequeña; aniversario recordado | Comenzar hábitos de hermanos/amigos y preparar un primer intervalo tranquilo. Clínica, música y taller siguen sin esperar a Mau |
 | C. Grimorios/Exchange | Salida normal propuesta Mau/Yuka/Milim/Yuta; accidente, intercambio real, devolución; agotamiento, debrief, sorry/yes; después completar dungeon/grimorios | Yuta tiene vida con Mau además de RCT. Yuka decide. La familia responde al accidente sin negar sus consecuencias ni eliminar agencia |
 | D. Cena/preparación | Cena íntima atrasada, vino/regalos; expedición de Frieren como regalo; tres días tentativos hasta reset; reclutamiento | Tiempo Frieren/Fern, ganas y preparativos del equipo. Yuta/Maki eligen día propio; Gojo/Shoko tienen invitación; Rimuru decide quedarse |
-| E. Semana roja | Frieren/Mau/Yuka/Fern/Stark/Milim; semana dentro/hora fuera; campamentos, mini-bosses, flecha/Infinity, dragón colectivo/Red | La semana tiene desarrollo real de los seis; liderazgo de Frieren y decisiones de Yuka. Fuera no cabe una semana de búsquedas |
+| E. Semana roja | Frieren/Mau/Yuka/Fern/Stark/Milim; semana dentro/hora fuera; campamentos, mini-bosses, flecha/Infinity, dragón colectivo/Red; prueba oculta del Arquitecto | La semana tiene desarrollo real de los seis; liderazgo de Frieren y decisiones de Yuka. Fuera no cabe una semana de búsquedas |
 | F. Regresar con posibilidades | Upgrade, dos grimorios, cristal de fuego, brazaletes, llave/botín; Queen parte dos | Curiosidad, ensayos y comedia. Tiempo familiar/fort y ayuda de Mau para cita Gojo/Shoko; no todos los objetos generan industrias de inmediato |
 | G. Verano entre ascensos |100 pisos espaciados, descansos, copias/sombras, puntos, Noise integrando; charla Sukuna y evolución | Roles, comercio, mundo, cultura, aprendizaje, familia. Entrenamiento y relaciones avanzan en paralelo; no todo depende de un ascenso |
 | H. Convergencia/final | Completar100 antes de doble mazmorra del Arquitecto; semilla/recipiente/Ashborn; Sukuna deja material para S6 | Decisiones/relaciones del verano importan al cierre. No decidir pruebas, resurrección, sacrificio o resultado ahora |
@@ -131,6 +131,22 @@ Son P para elegir/desarrollar, no escenas aprobadas. Lo que añadimos debe produ
 | Walker, elección recíproca Frieren, duelo adaptación y otros conceptos largos | Reserva enlazada | No olvidados; no meter por obligación ni repetir conflicto resuelto |
 | Arquitecto/Ashborn/doble final tras100 | H | C motivo/posición; resultado abierto |
 | Sukuna hacia S6 | Sukuna | Horizonte, no prosa S6 |
+
+## Controles de cobertura recuperados en v0.2
+
+[Auditoría de cobertura](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md) · [Ficha específica pendiente de Sukuna](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md). Esta revisión explicita contenidos que seguían en los originales; no inventa nuevos arcos ni aprueba prosa.
+
+- **Mundo/comida:** presión de monstruos, diablos y posibles maldiciones -> rutas difíciles -> raciones/comida del dungeon -> importancia del upgrade. Mantener también cultivos, decisiones y opciones de la casa; no declarar hambruna nueva por defecto.
+- **Roja/Arquitecto:** el grupo cree cumplir una misión; el Arquitecto está probando a Mau sin que lo sepan. Conectar ese dato con el final sin volverlo omnisciente o quitar protagonismo a Frieren.
+- **Charla de la diosa, contenidos heredados:** Second Chance/reanclaje antes de Yuta; Ori como persona independiente, no agente ni mirada divina permanente; límites del conocimiento de la diosa sobre Mau. Consultar el original de DH-067 y cuadrar ubicación con la apertura posterior, sin repetir íntegra una reunión vieja superada. Ella viene a él; no otro viaje secreto. Información pública y privada se decide en escena.
+- **Exchange:** conservar anuncio al mundo, intercambio/devolución de ambos, breve paso de Jin-Woo y Ciel tranquilizando primero a Frieren antes del análisis. Ruta elfo sólo en privado vía Rimuru, no nueva revelación general. El antiguo reloj aproximado40/5 y recuperación objetivo de un día se revisan con el desarrollo, no son el ratio de la roja ni una cifra máxima nueva. Usar el doble de lo más que sostuvo, sin inventar minutos. La posible conexión/comunicación futura con Jin-Woo sigue pendiente, no descartada ni convertida en llegada permanente.
+- **Shop:** previo al upgrade es cercano a la entrada y compartido por el settlement, con fondo común; objetos comprados persisten fuera. Es distinto del branch de stats de Mau. Potenciadores nuevos no privatizan el shop ni extienden su alcance mundial sin diseño.
+- **Pociones/equipo/economía:** curación rara y débil como loot de boss, no curación plena en venta básica; la prosa describe arañazos, no un10% universal aprobado. Metal ordinario ineficaz ante esos monstruos: conservar armas aptas ya adquiridas por Stark y preparar crafting según propiedades reales. Loot/cristales como motor, no exportación ilimitada de tecnología terrestre; esto no prohíbe intercambios artesanales que ya existen.
+- **Seguridad/comunicación:** contratos y relay de Rimuru ya aportan estructura; la futura comunicación de cristal parte de capacidades verificadas. No introducir cámaras modernas como si ya existieran ni convertir una cautela histórica en veto eterno a toda tecnología.
+- **Mimic del segundo examen:** semilla del creador todavía no desarrollada; la preparación de Frieren para mimics no fija ese encuentro por sí sola. Puede integrarse si encaja, sin inventar un segundo arco obligatorio.
+- **Sukuna, precisión del creador:** sacrificó la ruta que construyó en JJK, no la posibilidad absoluta de encontrar otra manera de recuperar ese resultado. No se afirma que ya lo haya conseguido. El coste y la búsqueda de otra vía quedan como tema concreto para su conversación con Mau; método, logro y consecuencias por desarrollar en la [ficha dedicada](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md).
+
+Estas bases se heredan de la prosa/planes actuales; recompensas posteriores pueden cambiarlas sólo mediante desarrollo explícito. Los originales y su grado de aprobación se mantienen.
 
 ## Antes de cerrar el outline
 

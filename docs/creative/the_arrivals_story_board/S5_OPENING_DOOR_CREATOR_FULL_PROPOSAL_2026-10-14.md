@@ -1,5 +1,7 @@
 # S5 opening — the door, Ori, Frieren and The Noise — full creator proposal
 
+> **Planning navigation — 2026-10-16:** [Integrated S5 v0.2](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md), [coverage audit](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md) and [Sukuna work sheet](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md). Originals/history below remain intact; some old order/mapping notes are superseded. Current: door -> Exchange -> date -> Red Gate ->100 floors through summer -> Architect double-dungeon finale. Beru/Igris and BOTH dragons are specified later; other decisions remain open. Registered ideas are not complete arcs or permission for S5 prose.
+
 **Status:** CREATOR PROPOSAL IN DEVELOPMENT — NOT WRITTEN CHAPTERS / NOT FINAL CANON
 **Date:** 2026-10-14
 **Provenance:** Mauri's complete proposal in the current Codex conversation, followed by the explicit instruction: "cuando lo guardes no lo simplfiques porfa".

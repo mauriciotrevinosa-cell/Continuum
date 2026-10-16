@@ -1,5 +1,7 @@
 # S5 direction and V26 handoff (creator, 2026-10-14)
 
+> **Planning navigation — 2026-10-16:** [Integrated S5 v0.2](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md), [coverage audit](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md) and [Sukuna work sheet](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md). Originals/history below remain intact; some old order/mapping notes are superseded. Current: door -> Exchange -> date -> Red Gate ->100 floors through summer -> Architect double-dungeon finale. Beru/Igris and BOTH dragons are specified later; other decisions remain open. Registered ideas are not complete arcs or permission for S5 prose.
+
 > **Current planning entry point (2026-10-16):** [Integrated S5 proposal](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md), with separate relationship and power/training plans. This historical document contains superseded ordering. Read the latest creator amendments: Exchange BEFORE date; Red Gate then100 floors through summer; Architect double dungeon finale. Preserve family day, fort debt, Queen2 and Gojo/Shoko date. New editorial proposals are not approved canon or S5 prose authority.
 
 **Status:** CREATOR DIRECTION. This records Mauri's decisions from the 2026-10-14 talk after the S4 re-audit (commit 454e16d). V26 is **not written yet**. Another session may draft it from this file and `S4_SEASON_PLAN_2026-10-10.md`.

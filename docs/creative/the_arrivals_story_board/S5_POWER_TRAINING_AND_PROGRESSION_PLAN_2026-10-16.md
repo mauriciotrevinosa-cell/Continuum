@@ -114,3 +114,11 @@ Verificar estado actual por separado, sin asumir que el aftermath S2 permanece i
 ## Aclaración de escena y primer ensayo
 
 El posible agujero negro de Frieren contra Sukuna está propuesto al cierre de la conversación S5. Noise alerta a Mau del ataque; él interviene para sostener la tregua, Sukuna se despide y hay corte. No es un antecedente S2 ni una evolución nueva ya ejecutada. Las primeras pruebas de las evoluciones que nazcan del estudio respetan el requisito100%; sus métodos y resultados siguen abiertos.
+
+## Shop/equipo/calidad de vida — upgrade gradual, no evolución personal concedida
+
+Ver [propuesta completa del upgrade del shop](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md) (original completo). E/D/C/B/A/S e inspección necesitan campos separados para gate/objeto/equipo; no asignar cifras/porcentajes de personajes por rango. El upgrade incorpora opciones, comida/bebida, coleccionables y QoL, con descubrimientos aplicables que luego se vuelven comprables. Save points para ciertos dungeons multinivel son tentativos; fijar progreso/reentrada/reset y owner/party, no resurrección o curación gratis.
+
+Umaru propone Coca/soda, bebidas hidratantes, geles, raciones, protein bars, shakes y postres; refrigeración mediante cristales conecta con energía/infraestructura. Son suministros y proyectos materiales, no combustible universal de CE/mana/shadow ni pociones. El requisito100% para nuevas evoluciones de técnicas no bloquea comprar herramientas, organizar comida o desarrollar refrigeración; sí conservar sus costes/condiciones propios.
+
+El intento previo de Senku cristal/bombilla falló: mostrar avance concreto, sin repetirlo como si nunca hubiera ocurrido. Encontrar una linterna puede abrir compra de esa utilidad; no vuelve común el equipo raro, todo el loot ni curación. Fichas de equipo/conocimiento y recursos siguen necesarias.

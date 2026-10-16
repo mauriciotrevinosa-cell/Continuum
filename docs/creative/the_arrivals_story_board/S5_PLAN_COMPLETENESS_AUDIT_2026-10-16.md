@@ -40,7 +40,7 @@ Sí había detalles demasiado implícitos en el integrado. La revisión los hace
 | Día Mau/Ori/Frieren, día fort, Queen2, citas | Protegidos por separado | Desarrollar actividades/decisiones y calendario, no una fila de celebraciones equivalentes |
 | Exchange antes de cita | Cadena y party propuesta claras | Experiencia, debrief y consecuencias; no otra primera revelación del Trial |
 | Roja | Semana/hora, party, liderazgo, escena flecha, boss/loot | Llenar la semana y participación propia de Yuka; no montaje hasta el dragón |
-| Upgrade/recompensas | Grimorios/coleccionables/equipo, brazaletes/llave/relocalización | Curvas/economía y mecanismo de cada premio |
+| Upgrade/recompensas | Premio rojo ampliado: shop moderado E–S, grimoire duplicado, comida/bebida/frío/QoL; save points tentativos; brazaletes/llave/traslado | Curvas/precios/cupos, alcance inspección, hallazgo -> compra, energía y persistencia de checkpoints |
 |100 pisos/verano/sombras | Buen mapa macro con favoritos y límites deseados | Ruta de ascensos, descanso, checkpoints, reglas y bosses espaciados |
 | Familia/reparto/roles |60 personas + Ciel; prioridades y propuestas de continuidad | Lectura individual y decisiones duraderas, no cuotas ni primer cuidado repetido |
 | Poderes/análisis/entrenamiento | Esquema de fichas y ejes distintos | Completar fichas con evidencia;61 fichas de capacidades no están hechas |
@@ -53,7 +53,7 @@ Sí había detalles demasiado implícitos en el integrado. La revisión los hace
 
 ## Ocho puentes de100 pisos antes del outline detallado
 
-1. Entrar/salir/reentrar, progreso persistente o reset y ritmo del verano; no copiar reloj rojo a toda gate.
+1. Entrar/salir/reentrar, progreso persistente o reset y ritmo del verano; el upgrade propone save points sólo para ciertos dungeons multinivel, todavía por definir. No copiar reloj rojo ni permitir rescate retroactivo de roja.
 2. Llave owner Mau permite compañeros; destino exacto, presencia requerida y qué entrada/instalación se traslada una vez.
 3. Arise temprano frente al dragón rojo muerto antes; elegir solución sin cadáver almacenado/respawn inventados por omisión.
 4. Diez/cien: almacenadas, simultáneas o ambas; extracción, mantenimiento, recuperación y coste.
@@ -87,3 +87,7 @@ El creador aporta la visita nocturna y el puente hacia investigación/préstamos
 Added from the [aclaración completa del creador](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md): new evolutions require personal100% recovery, including Sukuna; not level100 or floor100. Dungeon purpose includes recovery/upgrades; changing world/rival creates gradual preparation pressure, without a new deadline or rushed summer. Teams/rotations/Mau solo stretches remain open. Track measurable baseline, recovery versus levels/equipment/evolution, household coverage and rest before fixing an expedition pattern.
 
 The proposed Frieren black-hole-like attack is at the END of the NEW Sukuna conversation: Noise warning -> Mau intervenes to respect vow -> Sukuna goodbye -> cut. Prior editorial discussion misread it as a claimed S2 use; corrected without a retcon. Historical raw proposals remain intact.
+
+## Upgrade del shop — nueva propuesta ya recogida
+
+La [propuesta completa del upgrade del shop](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md) desarrolla el catálogo gradual y sus ramas de convivencia. No queda pendiente pedir de nuevo la idea general: falta concretar rangos/fichas, selección de comida, costes, duplicado legible, QoL/desbloqueos y checkpoints. Antecedentes verificados: comida-ración y fondo compartido ya existen; faltaban snacks/grimorios; antes no podían guardar; Senku ya falló con cristal/bombilla. Por ello se trata de progreso nuevo con continuidad, sin retcon ni permiso ilimitado de tecnología/curación.

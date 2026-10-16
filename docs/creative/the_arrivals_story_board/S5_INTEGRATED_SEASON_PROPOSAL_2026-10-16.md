@@ -29,6 +29,7 @@ La convivencia tiene valor y consecuencias, no es relleno entre bosses. No neces
 - [Apertura completa y aclaraciones](S5_OPENING_DOOR_CREATOR_FULL_PROPOSAL_2026-10-14.md).
 - [Paquete completo: mundo, casa, comercio, cita, reclutamiento y evolución](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md).
 - [Gate roja,100 pisos, sombras y cierre](S5_RED_GATE_AND_100_FLOORS_CREATOR_FULL_PROPOSAL_2026-10-16.md).
+- [propuesta completa del upgrade del shop](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md): ampliación moderada, E–S, comida/bebida, grimorios, QoL y save points tentativos.
 - [Mapa individual y clasificación](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md).
 - [Relaciones y propuestas de continuidad](S5_RELATIONSHIP_CONTINUITY_PLAN_2026-10-16.md).
 - [Poderes, análisis por personaje y entrenamiento](S5_POWER_TRAINING_AND_PROGRESSION_PLAN_2026-10-16.md).
@@ -48,7 +49,7 @@ La instrucción más reciente rige cada punto: Exchange después de puerta y ant
 | C. Grimorios/Exchange | Salida normal propuesta Mau/Yuka/Milim/Yuta; accidente, intercambio real, devolución; agotamiento, debrief, sorry/yes; después completar dungeon/grimorios | Yuta tiene vida con Mau además de RCT. Yuka decide. La familia responde al accidente sin negar sus consecuencias ni eliminar agencia |
 | D. Cena/preparación | Cena íntima atrasada, vino/regalos; expedición de Frieren como regalo; tres días tentativos hasta reset; reclutamiento | Tiempo Frieren/Fern, ganas y preparativos del equipo. Yuta/Maki eligen día propio; Gojo/Shoko tienen invitación; Rimuru decide quedarse |
 | E. Semana roja | Frieren/Mau/Yuka/Fern/Stark/Milim; semana dentro/hora fuera; campamentos, mini-bosses, flecha/Infinity, dragón colectivo/Red; prueba oculta del Arquitecto | La semana tiene desarrollo real de los seis; liderazgo de Frieren y decisiones de Yuka. Fuera no cabe una semana de búsquedas |
-| F. Regresar con posibilidades | Upgrade aún por detallar, grimorios/cristal/brazaletes/llave; Queen2; visita nocturna Sukuna propuesta antes de abrirse la gate de la llave | Curiosidad/vida; días familiar/fort y ayuda de Mau a Gojo/Shoko. Tregua/intervención abre estudio; no todos los objetos generan industrias de inmediato |
+| F. Regresar con posibilidades | Upgrade moderado: E–S, más catálogo/comida/QoL, save points tentativos; botín/llave, Queen2; visita Sukuna antes de gate de llave | Gag grimoire repetido -> explorar en pareja; Umaru comida/soda y frío cristal; días familiar/fort y cita Gojo/Shoko. Tregua abre estudio; desarrollos por etapas |
 | G. Verano entre ascensos |100 pisos espaciados; botín y recuperación/upgrades;100% personal antes de nuevas evoluciones, también Sukuna; sombras/puntos/Noise | Mundo cambiante aporta presión gradual. Equipos/rotaciones o tramos Mau solo abiertos; descanso, roles, comercio, cultura, familia y relaciones continúan |
 | H. Convergencia/final | Completar100 antes de doble mazmorra del Arquitecto; semilla/recipiente/Ashborn; Sukuna deja material para S6 | Decisiones/relaciones del verano importan al cierre. No decidir pruebas, resurrección, sacrificio o resultado ahora |
 
@@ -110,7 +111,7 @@ Son P para elegir/desarrollar, no escenas aprobadas. Lo que añadimos debe produ
 | Cita Gojo/Shoko con ayuda de Mau | Cuatro momentos; relaciones | C rama; detalles P |
 | Roja completa, campamentos/mini-bosses, dragón colectivo, semana/hora | E; original rojo | C; falta carne de la semana |
 | Queen parte dos | F | C; no sustituye las otras celebraciones |
-| Upgrade/shop: grimorios, coleccionables, equipo e invisible raro posterior | F–G; poderes | C; economía/tiers por diseñar |
+| Upgrade modesto: E–S/inspección, coleccionables/grimoire duplicado, comida/bebida/refrigeración, QoL hallazgo -> compra; save points tentativos | F–G; paquete shop/poderes | C propuesta ampliada; stock/precios/cupos/alcance por definir. Invisible raro y curación conservan límites |
 | Cristal fuego, E–S, crafting/recursos | F–G | C; valores tentativos |
 | Brazaletes ~100 removibles/recuperación/kit/visualización compartida activada | F–G; poderes | C; niveles/sync por resolver |
 | Llave owner Mau con acompañantes, gate próxima y margen de descanso | F–G | C; acceso/destino fino abierto |
@@ -162,3 +163,11 @@ El paquete nuevo preserva el mensaje completo y corrige el anterior pendiente de
 [aclaración completa del creador](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md): primero recuperar el100% de la base personal, después ejecutar nuevas evoluciones; también rige para Sukuna. No es terminar cien pisos ni llegar a nivel100. La discusión/investigación puede anticipar posibilidades, pero sus nuevas aplicaciones requieren ese umbral y demás preparación. La torre también aporta recuperación/upgrades: carrera gradual ante mundo/Sukuna en evolución, sin plazo inventado ni eliminar convivencia de verano. Equipos, rotaciones y entradas de Mau solo están por definir.
 
 Corrección de lectura editorial: el posible agujero negro de Frieren contra Sukuna ocurre en la NUEVA escena propuesta, al final de la charla. Noise alerta a Mau de un ataque, Mau interviene por la tregua, Sukuna dice hasta luego y se corta. No se estaba proponiendo un uso anterior contra Sukuna.
+
+## Ampliación posterior — upgrade moderado del shop
+
+[propuesta completa del upgrade del shop](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md) preserva el mensaje íntegro. Se concreta una ampliación gradual del premio rojo: presentación/rangos E–S y revisión de cosas; posible save point en algunos dungeons de varios niveles; más coleccionables, comida/bebida y herramientas de calidad de vida. No fija catálogo o rangos exactos de cada objeto.
+
+**C, escenas/ramas:** Frieren quiere todos los cristales para grimorios, recibe no, pide a Mau negociar con Fern, compra uno repetido y se desanima; Mau le recuerda que pueden encontrarlos explorando y salen juntos a buscarlos. Umaru ruega por Coca/soda y prepara expediciones/postres: bebidas hidratantes, geles, raciones, protein bars y shakes. Refrigeración con cristales desarrolla utilidades. QoL ofrece antorchas; hallar una linterna en cofre es ejemplo para desbloquear su compra posterior, no hallazgo ya ocurrido ni regla para todo loot.
+
+**Por concretar:** identificación creíble del grimoire repetido, selección inicial de comida/bebida, cristales/consumo/reposición, qué campo usa E–S, save points/reentrada/reset/owner y alcance QoL. Menor dependencia alimentaria exterior no borra cocina/cultivos/comercio. Poción curativa no pasa a venta común; dispositivo hallado no autoriza toda tecnología. Recuperación100% antes de evolución de técnicas no es veto al desarrollo de shop, equipo o refrigeración.

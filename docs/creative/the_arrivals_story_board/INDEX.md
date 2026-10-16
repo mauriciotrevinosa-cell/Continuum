@@ -204,3 +204,7 @@ Preserve [the concept, creator instructions and separate editorial observations]
 ## S5 latest clarification — personal100% recovery, teams and talk ending (2026-10-16)
 
 [aclaración completa del creador](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md) keeps the full creator message: recover personal100% before executing evolutions, Sukuna too; not level100/floor100. Dungeon recovery/upgrades support a gradual preparation race while preserving summer/relationships; tower teams versus solo stretches undecided. The future Frieren attack closes the new talk (Noise warning/Mau intervention/Sukuna goodbye/cut), not an invented S2 antecedent. Integrated plan, training, Sukuna worksheet and tower navigation updated; no S5 chapters or team roster fixed.
+
+## S5 shop upgrade — full creator proposal, 2026-10-16
+
+[propuesta completa del upgrade del shop](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md) registers moderate E–S/appraisal/catalogue growth, tentative save points in some multilevel dungeons, the Frieren/Mau/Fern duplicate-grimoire branch, Umaru food/drink planning and crystal refrigeration, QoL discovery-to-purchase. Original message complete; economy, selection slots, technical power and checkpoint rules still open. Integrated/tower/world/training/coverage planning updated. Existing shared purse, food stock, boss-only healing and past failed crystal experiment preserved; no S5 chapters or final catalogue.

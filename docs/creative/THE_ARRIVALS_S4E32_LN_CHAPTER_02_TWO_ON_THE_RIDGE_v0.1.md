@@ -106,7 +106,7 @@ It ran.
 
 It came off the ridge all at once, as if something had been let go. Smaller than the other, five metres, perhaps six. Thin. Long-limbed. Its arms swinging. Its head thrown back. Its mouth open wide in a smile that went from ear to ear. And it ran. Not down the track. Not toward the north field. It ran across the slope, sideways, at an angle, past the big one, past Himmel and Stark, past all of them, down the ridge and across the open ground. Faster than anything that size should have been able to run.
 
-Straight at the cottages.
+Toward the north approach, where Aira and Gojo stood outside the lime. The cottages were behind the protection. It could not reach them; it could reach the people still fighting outside.
 
 "*Abnormal*—" Eren's voice came from inside the boundary, high and cracked. "*It's going round the field team, it's—*"
 
@@ -116,7 +116,7 @@ Straight at the cottages.
 
 Mikasa stopped.
 
-She stood in the north field with both grey blades out and looked at the small titan running across the open ground toward the cottages. Toward Aira and Gojo at the exposed approach. Toward the way the field team would have to come home.
+She stood in the north field with both grey blades out and watched the small titan cut across the open ground toward Aira and Gojo. Toward the exposed approach. Toward the way the field team would have to come home, before they reached the safety of the line.
 
 Then she looked at the big one, coming down the track, reaching for Himmel and Stark.
 

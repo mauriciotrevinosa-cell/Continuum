@@ -93,3 +93,7 @@ Read [the latest complete creator clarification and individual map](S5_CAST_SPOT
 ## Red Gate departure timing — creator, 2026-10-16
 
 Proposed Red Gate outing: three days after the date, giving Frieren time to plan and the ensemble time to live together. **Check actual date-to-weekly-gate-change interval before locking the calendar**, including the earlier tentative "next week" wording. Preserve the weekly cycle; no invented early reset. See the full creator message and timing note in [the S5 packet](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). Party and Red Gate mechanics remain open; no S5 prose.
+
+## Expedition teams and basic-gate presentation — creator, 2026-10-16
+
+[Complete recruitment/party/upgrade proposal](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md): earlier Exchange small-party proposal = Mau/Yuka/Milim/Yuta; Frieren's eventual Red Gate expedition = Frieren/Mau/Yuka/Fern/Stark/Milim. Rimuru stays by advance arrangement; Yuta/Maki choose a quiet day and Gojo/Shoko have a date setup. Preserve Frieren/Fern's time together, Yuka asking Frieren, Milim accepting leadership, the queen/subject two-grimoire wager and an apparently normal gate. Later shop upgrades add grimoires/collectibles/armour; special invisible stat armour remains rare chest/boss loot for later, not basic shop stock or an immediate reward. Red Gate mechanics and full scenes still need creator development.

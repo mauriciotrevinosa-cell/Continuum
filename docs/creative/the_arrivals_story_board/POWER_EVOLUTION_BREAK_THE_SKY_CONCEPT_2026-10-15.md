@@ -2,7 +2,9 @@
 
 Date: 2026-10-15
 Status: FLOATING CONCEPT / DEFERRED / NOT CANON / NOT AUTHORISED FOR PRODUCTION
-Scope: long-term power evolution; no assigned season, chapter, fight or unlock.
+Scope: original long-term exploration preserved. Later S5 planning reopening below does not grant a technique, completed study or unlock.
+
+> **Reopened for S5 planning, 2026-10-16:** [propuesta nocturna completa](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md) now supplies the proposed Sukuna encounter and scientific-study trigger. The original deferred instruction remains historical; this reopening permits planning that study, not every speculative power or S5 prose. Canon/physics distinctions below remain relevant.
 
 ## Creator direction — exact messages
 

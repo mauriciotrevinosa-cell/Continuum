@@ -1,4 +1,4 @@
-# S5 — propuesta integrada de temporada v0.2
+# S5 — propuesta integrada de temporada v0.3
 
 **Fecha:** 2026-10-16. **Estado:** propuesta para discutir, no temporada aprobada ni autorización de capítulos. S4 permanece intacta. Las ideas originales completas no se sustituyen por este esquema.
 
@@ -32,6 +32,7 @@ La convivencia tiene valor y consecuencias, no es relleno entre bosses. No neces
 - [Mapa individual y clasificación](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md).
 - [Relaciones y propuestas de continuidad](S5_RELATIONSHIP_CONTINUITY_PLAN_2026-10-16.md).
 - [Poderes, análisis por personaje y entrenamiento](S5_POWER_TRAINING_AND_PROGRESSION_PLAN_2026-10-16.md).
+- [propuesta nocturna completa](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md): visita antes de100 pisos, voto propuesto, intervención y estudio; texto original íntegro.
 - [Dudas Fern/Frieren y roles](S5_FERN_FRIEREN_CHARACTER_AND_BOND_OPEN_QUESTIONS_2026-10-16.md).
 - [Conceptos de evolución extrema](POWER_EVOLUTION_BREAK_THE_SKY_CONCEPT_2026-10-15.md): inspiración, no inventario desbloqueado.
 - [Ideas flotantes](FLOATING_IDEAS.md): contiene propuestas históricas realizadas/superadas. No ejecutarlas todas por defecto.
@@ -47,8 +48,8 @@ La instrucción más reciente rige cada punto: Exchange después de puerta y ant
 | C. Grimorios/Exchange | Salida normal propuesta Mau/Yuka/Milim/Yuta; accidente, intercambio real, devolución; agotamiento, debrief, sorry/yes; después completar dungeon/grimorios | Yuta tiene vida con Mau además de RCT. Yuka decide. La familia responde al accidente sin negar sus consecuencias ni eliminar agencia |
 | D. Cena/preparación | Cena íntima atrasada, vino/regalos; expedición de Frieren como regalo; tres días tentativos hasta reset; reclutamiento | Tiempo Frieren/Fern, ganas y preparativos del equipo. Yuta/Maki eligen día propio; Gojo/Shoko tienen invitación; Rimuru decide quedarse |
 | E. Semana roja | Frieren/Mau/Yuka/Fern/Stark/Milim; semana dentro/hora fuera; campamentos, mini-bosses, flecha/Infinity, dragón colectivo/Red; prueba oculta del Arquitecto | La semana tiene desarrollo real de los seis; liderazgo de Frieren y decisiones de Yuka. Fuera no cabe una semana de búsquedas |
-| F. Regresar con posibilidades | Upgrade, dos grimorios, cristal de fuego, brazaletes, llave/botín; Queen parte dos | Curiosidad, ensayos y comedia. Tiempo familiar/fort y ayuda de Mau para cita Gojo/Shoko; no todos los objetos generan industrias de inmediato |
-| G. Verano entre ascensos |100 pisos espaciados, descansos, copias/sombras, puntos, Noise integrando; charla Sukuna y evolución | Roles, comercio, mundo, cultura, aprendizaje, familia. Entrenamiento y relaciones avanzan en paralelo; no todo depende de un ascenso |
+| F. Regresar con posibilidades | Upgrade aún por detallar, grimorios/cristal/brazaletes/llave; Queen2; visita nocturna Sukuna propuesta antes de abrirse la gate de la llave | Curiosidad/vida; días familiar/fort y ayuda de Mau a Gojo/Shoko. Tregua/intervención abre estudio; no todos los objetos generan industrias de inmediato |
+| G. Verano entre ascensos |100 pisos espaciados, descansos, copias/sombras, puntos, Noise integrando; consecuencias de charla Sukuna y evolución | Roles, comercio, mundo, cultura, aprendizaje, familia. Entrenamiento y relaciones avanzan en paralelo; no todo depende de un ascenso |
 | H. Convergencia/final | Completar100 antes de doble mazmorra del Arquitecto; semilla/recipiente/Ashborn; Sukuna deja material para S6 | Decisiones/relaciones del verano importan al cierre. No decidir pruebas, resurrección, sacrificio o resultado ahora |
 
 Estos movimientos no son capítulos/volúmenes asignados. Un hilo puede comenzar antes y terminar después; el verano no espera al final de todas las gates.
@@ -90,9 +91,9 @@ Son P para elegir/desarrollar, no escenas aprobadas. Lo que añadimos debe produ
 
 ## Sukuna, preparación y horizonte S6
 
-**C:** la invitación pública tiene setup en S4. Conversación Mau/Sukuna aún sin contenido/desenlace cerrado -> Mau comparte -> Gojo capta -> charla de evolución/posible agujero negro -> entrenamiento y primeros intentos tras práctica. Precisar si pos-Sukuna significa tras esa charla/encuentro; no inventar otra batalla.
+**C, ampliación:** la invitación pública S4 llega a Sukuna por canal aún no fijado. Noche tentativa después de roja/recompensas y antes de abrirse la gate de la llave: Mau solo/alerta Noise; Sukuna propone hablar bajo voto, revela coste/techo mayor, niega propaganda, alude amigos y revancha. Cruce de protección e intervención Gojo/Frieren se proponen; términos/lugar/reacciones por concretar. Ver [propuesta nocturna completa](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). Pos-Sukuna es tras este encuentro, no una nueva batalla añadida.
 
-**P:** la conversación abre preguntas. Operación, requisitos y experimentos pequeños antes de técnicas extremas. Los demás tienen objetivos propios: no todos observan pasivamente al prodigio. La vida de Gojo/Mau fuera de entrenar hace que el apoyo sea una relación, no un servicio.
+**C:** el intercambio desemboca en conversación con Gojo/Mau, Senku o Byakuya y Shoko; operación innata versus usos aprendidos, humor y posible referencia en fenómenos Mau/Frieren. Después estudio y ensayos corales. Más adelante explorar préstamo por sombras/conexión/contratos y guerra de información; visita implica sospecha, no vigilancia omnisciente. Entrenar en dungeon es propuesta de discreción, sin privacidad automática frente a Arquitecto. **P:** diseñar primeras pruebas pequeñas y participación propia; ninguna analogía desbloquea un arsenal. El apoyo Gojo/Mau sigue siendo relación fuera del entrenamiento.
 
 **C:** actividad/posible coalición de Sukuna; Aura tentativa; no gobierno como meta impuesta, ni confirmación del organizador de Pell. La línea alimenta S6; no escribirla ni gastar todos los conceptos ahora. Diablos: murió el diablo dos veces, no Mau; confianza creciente y posible miedo futuro no implican poder alimentado por miedo o borrado existencial de Mau.
 
@@ -119,7 +120,7 @@ Son P para elegir/desarrollar, no escenas aprobadas. Lo que añadimos debe produ
 | Amenaza corazón -> rueda -> oferta puntos | G; poderes | C escena; mecanismo abierto |
 | Umaru build, guardar puntos, nuevas categorías/CE/mana | G; relaciones/poderes | C gradual |
 | Cada personaje: %, bag, bloqueos, preparación y entrenamiento | Poderes | Trabajo necesario, aún no completado |
-| Sukuna -> análisis -> entrenamiento/evoluciones | Sukuna; poderes | C dirección; poderes extremos no aprobados |
+| Sukuna nocturno -> voto/intervención -> análisis/entrenamiento; futuros préstamos/contrainformación | F–G; paquete completo Sukuna/poderes | C propuesta desarrollada; reglas finas y pruebas abiertas, sin nuevos poderes concedidos |
 | Gates mundo/trade/Hollis/pricing/guild/comunicación | Mundo | C; instituciones abiertas |
 | Tinta/testigos/Qifrey/túnel o transporte | Mundo | Alternativas/auditoría pendientes |
 | Casa/árbol/materiales/cristal/barrera/utilidades | Mundo | C; sin retcon |
@@ -151,3 +152,7 @@ Estas bases se heredan de la prosa/planes actuales; recompensas posteriores pued
 ## Antes de cerrar el outline
 
 Completar fichas de poder y revisión individual de vínculos; resolver sincronización/niveles, Arise/dragón previo, llave/relocalización, recurso sombra, restrictions/walls y rueda/mensaje. Construir medios/consecuencias de arcos, no sólo detonante y boss. Reconciliar calendario S4/aniversario, reset, recuperación, tres días, hora externa y verano. Revisar monedas/variantes antes de nuevas llegadas. Comprobar qué vida avanza entre ascensos. Después presentar outline integrado al creador; sólo con verde explícito escribir capítulos. No fijar cantidad de volúmenes o final del Arquitecto aún.
+
+## Ampliación v0.3 — charla de Sukuna ya propuesta
+
+El paquete nuevo preserva el mensaje completo y corrige el anterior pendiente de contenido. No identifica encapuchado/amenazador Pell, no cierra upgrades, no permite firma por terceros ni voto que mande sobre diosa. Antecedente de estudio verificado: Frieren frente a Diablo y Mau frente a Gojo. Los detalles JJK de antepasados/pi/Naobito-Naoya requieren fuente antes de exposición factual. Conversación y estudio abren posibilidades, no una clase que restaure poderes instantáneamente ni un Gojo incompetente.

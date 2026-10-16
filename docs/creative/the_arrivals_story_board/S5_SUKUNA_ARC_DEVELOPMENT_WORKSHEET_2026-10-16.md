@@ -1,11 +1,11 @@
 # S5 — Sukuna: inventario y ficha de desarrollo pendiente
 
-**Fecha:** 2026-10-16. **Estado:** preparación editorial basada en hechos escritos y direcciones del creador. No conversación, batalla, alianza, kit final o desenlace inventados. [Auditoría S5](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md).
+**Fecha:** 2026-10-16. **Estado:** preparación editorial y propuesta de encuentro del creador. Ahora existe contenido para la charla: ver el paquete completo; no escena redactada, alianza identificada, kit final o desenlace concedidos. [Auditoría S5](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md).
 
 ## Qué sí está definido
 
 - El creador quiere una conversación Mau/Sukuna, preparada por la invitación pública en Ashby.
-- Sukuna dice algo -> Mau lo comparte -> Gojo comprende una posibilidad -> charla de evoluciones -> análisis/preparación/entrenamiento -> intentos después de práctica. La observación concreta no se ha dado.
+- El creador ya desarrolló la observación: Sukuna perdió una herramienta que atravesaba Infinity, pero el intento de enlace con Mau le mostró un techo mayor para su técnica. Charla -> intervención/relay -> discusión de evoluciones -> estudio/preparación/entrenamiento -> pruebas. [propuesta nocturna completa](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md).
 - Se debe ver qué hace Sukuna por su cuenta. El creador plantea cooperación táctica con otros enemigos, no vocación de gobernar ni lealtad automática a otro antagonista.
 - Aura es candidata tentativa: miedo al saber que Frieren vive, información útil y propuesta de colaboración para atacarla. No está convocada ni aliada ya.
 - El hilo deja material para S6. El cierre de S5 sigue siendo doble mazmorra del Arquitecto después de100 pisos.
@@ -41,17 +41,17 @@ La figura/body state de S2 no congela para siempre todo crecimiento posterior. S
 | Paso | Lo que debemos decidir | Lo que todavía no fijamos |
 |---|---|---|
 | Estado previo | Cuerpo/kit/reservas/coste, información que sabe y necesidad propia | % exacto, capacidad recuperada por otra vía, Mahoraga restaurado |
-| Llegada del mensaje | Cómo oye invitación y por qué decide responder | Mensajero secreto, trato con Pell, cita acordada por defecto |
-| Condiciones del encuentro | Quién lo propone, dónde, participantes, límites y conocimiento | Entrada al hogar, nueva pelea, secreto contra la casa o permiso imposible |
-| Conversación sustancial | Objetivo de ambos; pérdida de la ruta JJK y posible búsqueda de otra; observación útil, decisión/consecuencia | Diálogo, ruta alternativa ya exitosa, pacto, revelación de especie o desenlace |
-| Relay a la casa | Qué elige contar Mau y a quién; qué capta Gojo | Compartir por magia todo lo privado o certeza omnisciente |
+| Llegada del mensaje | Creador: oye/recibe invitación y decide ir por orgullo/interés; canal abierto | Mensajero secreto, trato con Pell o identidad encapuchado |
+| Condiciones del encuentro | Noche tentativa roja/recompensas -> llave aún sin abrir; Mau solo, alerta Noise, Sukuna propone tregua/voto. Términos, lugar y cruce protector por desarrollar | Firma por aliados ausentes, voto que anula diosa, gate trasladada por omisión o nueva batalla |
+| Conversación sustancial | Creador: subestimó al grupo, coste WCS, techo mayor; niega propaganda, disfruta inversión pública, alude amigos/deudas y revancha | Nueva ruta ya lograda, identidad aliados/encapuchado, cláusulas finales, prosa o revelación de especie |
+| Relay a la casa | Gojo/Frieren llegan, Mau evita agresión/persecución, explica; después conversación técnica con ciencia/Shoko. Tiempo y asistentes finos abiertos | Un tercero atado sin aceptar, ignorancia artificial o compartir mágicamente todo lo privado |
 | Evoluciones | Qué operación puede interpretarse de otra forma y cómo probarla | Todo el paquete especulativo como canon de JJK/Continuum |
 | Preparación/entrenamiento | Estado de cada participante, pregunta, primer ensayo y tiempo | Otra batalla para justificar pos-Sukuna o unlock instantáneo |
 | Interludios propios | Qué aprende/busca/intenta Sukuna con consecuencias visibles | Repetir sólo not yet o convertirlo en empleado de un villano |
 | Cooperaciones | Necesidad mutua, versiones, información, motivos y límites | Aura/otros llegados o aliados automáticamente |
 | Puente S6 | Qué consecuencia queda abierta sin robar el final Arquitecto | Pelea final, victoria, catástrofe o S6 ya escrita |
 
-Estos pasos son casillas de desarrollo, no diez capítulos ni una secuencia obligatoria. El creador ha compartido función general y cadena evolutiva, pero el encuentro concreto sigue abierto. La vieja nota idea no compartida permanece como historia, no descripción completa del estado actual.
+Estos pasos son casillas de desarrollo, no diez capítulos. La [propuesta nocturna completa](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md) ya da lugar temporal tentativo, detonante, temas, intervención y consecuencia de investigación. Cláusulas/mecanismos, escena completa y pruebas siguen abiertos. Las viejas notas idea no compartida o conversación sin contenido quedan como historia superada, no instrucciones vigentes.
 
 ## Límites narrativos y de sistema
 
@@ -65,4 +65,14 @@ Estos pasos son casillas de desarrollo, no diez capítulos ni una secuencia obli
 
 ## Qué sigue faltando
 
-El contenido completo de la conversación y el estado actual de Sukuna son las dos primeras piezas. Ya hay un tema concreto del creador: el coste de la ruta perdida y la posibilidad de encontrar otra para recuperar ese resultado, sin recuperación confirmada. Después fijar el avance independiente y consecuencias para entrenamiento/mundo/S6. No rellenarlas antes de que las desarrollemos juntos; esta ficha garantiza que no queden escondidas en dos párrafos del plan general.
+Ya hay contenido y estructura propuestos para la conversación. Falta precisar sitio/traslado, términos del voto, cruce protector, coreografía breve, estado actual de Sukuna, exposición JJK verificada y primeros estudios. Después desarrollar avance independiente, vigilancia, préstamo potencial y consecuencias para entrenamiento/mundo/S6. Ver comprobaciones y fuentes en la [propuesta nocturna completa](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md); no pedir al creador otra vez toda una charla que ya compartió ni darla por escrita.
+
+## Visita nocturna: comprobaciones que cambian la planificación
+
+- Ubicación propuesta antes de la gate de100 pisos, cuando Mau aún desconoce su extensión. Upgrade y posibilidad de traslado sí; detalles/instalación no definidos.
+- Voto propuesto por Sukuna, con tregua/salida/no persecución hasta el día siguiente. Solución editorial pendiente: comprometer a dos firmantes, no imponer castigo mágico a Frieren/Gojo sin consentimiento.
+- El rechazo Noise a firmas dentro de la gate no es inmunidad general a contratos (DH-075). No inventar otro bloqueo ni revelar su razón.
+- La entrada bajo protección es propuesta nueva por acotar, no bypass de la diosa. La gate original está fuera; hacer mapa breve antes de prosa.
+- El vínculo S2 fue intento de fusión/enlace. La intuición del techo mayor no revela a Sukuna todo Mau.
+- Antecedentes comprobados: Frieren contra Diablo S3, patrón de Mau contra Gojo S4. No se localizó ese fenómeno contra Sukuna S2 en esta revisión.
+- Investigación: Senku o Byakuya, Shoko, Gojo/Mau y participantes pertinentes. Humor, comprensión y referencia no conceden técnica. Prestar poderes y entrenamiento discreto dentro del dungeon son líneas futuras por desarrollar.

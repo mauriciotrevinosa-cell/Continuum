@@ -14,7 +14,7 @@ Se distingue: **recogido en el plan**, **aún sólo esqueleto**, **faltaba visib
 
 ## Veredicto
 
-No detectamos un gran arco solicitado que se haya perdido en los paquetes actuales. **Sukuna es el frente principal menos desarrollado**; ahora dispone de una [ficha de trabajo dedicada](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md), sin conversación inventada. El recorrido de100 pisos tiene dirección/ingredientes coherentes, no un mapa final de pisos o curva de combate.
+No detectamos un gran arco solicitado que se haya perdido en los paquetes actuales. **Sukuna era el frente principal menos desarrollado al inicio de esta auditoría**; la posterior [propuesta nocturna completa](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md) ya aporta esqueleto de encuentro/temas/estudio y se enlaza en la [ficha de trabajo](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md). Sigue pendiente desarrollo fino, no una conversación inventada por el editor. El recorrido de100 pisos tiene dirección/ingredientes coherentes, no un mapa final de pisos o curva de combate.
 
 Sí había detalles demasiado implícitos en el integrado. La revisión los hace visibles; los textos originales completos permanecen sin reescritura.
 
@@ -47,7 +47,7 @@ Sí había detalles demasiado implícitos en el integrado. La revisión los hace
 | Mundo/trade/Hollis/guild/tinta | Cadena de necesidades y alternativas preservada | Conflictos/decisiones/instituciones, testigos y transporte disponible |
 | Casa/cristales/ciencia/cultura | Ideas completas y fuentes enlazadas | Etapas materiales y humanas; no demoler casa ni inventar primera luz glyph |
 | Monedas/llegadas | Candidaturas y condiciones conservadas | Inventario verificado/versión/motivo antes de seleccionar.437 monedas no es un saldo disponible confirmado |
-| Sukuna -> evoluciones/preparación -> S6 | Función/cadena y tema de la ruta sacrificada con posible búsqueda de otra | Kit, recepción invitación, conversación completa, consecuencias e interludios propios. No recuperación confirmada ni prohibición absoluta de otra vía |
+| Sukuna -> evoluciones/preparación -> S6 | Propuesta posterior completa: noche antes de100 pisos, voto, intervención, coste/techo, ciencia; futuro préstamo y vigilancia | Kit, canal invitación, términos/protección, escena y estudios; actividad propia/aliados/consecuencias. No recuperación confirmada ni veto absoluto de otra vía |
 | Arquitecto/doble final | Motivo/falsa lectura de recipiente/posición final | Pruebas, participantes, decisiones y desenlace. No resurrección decidida |
 | Otras semillas largas | Referenciadas, no descartadas | Elegir ubicación sólo si aportan; no activar todas para llenar S5 |
 
@@ -66,7 +66,7 @@ No hace falta una lista de cien peleas ni ocho arcos nuevos. Son decisiones para
 
 ## Orden vigente y notas históricas
 
-Puerta -> recuperación/vida -> grimoire outing/Exchange accidental -> agotamiento/debrief/vuelta al dungeon -> cena -> preparación -> roja -> premios/Queen2/respiración ->100 durante verano entrelazado -> doble mazmorra final. Sukuna se desarrolla a través de ese verano y deja horizonte S6; ubicación exacta de su charla pendiente.
+Puerta -> recuperación/vida -> grimoire outing/Exchange accidental -> agotamiento/debrief/vuelta al dungeon -> cena -> preparación -> roja -> premios/Queen2/respiración ->100 durante verano entrelazado -> doble mazmorra final. Ampliación posterior: visita Sukuna propuesta en el intervalo de premios/espera de la llave, antes de abrirse100; consecuencias/interludios durante verano y horizonte S6. No fija noches ni orden frente a cada convivencia.
 
 Superados: cita antes de Exchange; Exchange antes de puerta; roja como final; verano sólo después de todas las gates; un único dragón aún por escoger; favoritos todavía sin nombrar. Se preservan los originales/historia, con advertencia de lectura actual.
 
@@ -76,4 +76,8 @@ La renuncia cerró la ruta concreta que construyó en JJK; no elimina la posibil
 
 ## Siguiente trabajo
 
-Primero recoger/desarrollar la conversación que el creador aún quiere moldear con Sukuna y su estado real. En paralelo cerrar los puentes técnicos anteriores y fichas; después construir medios/consecuencias de arcos y revisar el trenzado de relaciones. No dar verde implícito a prosa ni declarar cerrada la temporada porque todas las ideas ya tengan una fila.
+La conversación del creador ya está recogida completa; ahora desarrollar sus términos, protección, escena y estudio junto con el estado real de Sukuna. En paralelo cerrar los puentes técnicos anteriores y fichas; después construir medios/consecuencias de arcos y revisar el trenzado de relaciones. No dar verde implícito a prosa ni declarar cerrada la temporada porque todas las ideas ya tengan una fila.
+
+## Ampliación posterior del mismo día — la charla ya tiene esqueleto
+
+El creador aporta la visita nocturna y el puente hacia investigación/préstamos/contrainformación. Se preserva completo y se reemplazan las notas vigentes de contenido todavía no compartido. Auditoría adicional: consentimiento de contratos, excepción Noise limitada a reglas dentro de gate, gate original fuera de protección, enlace S2 incompleto, fenómeno Frieren contra Diablo y Mau ante Gojo. Detalles JJK no verificados permanecen como preguntas; no se añade uso contra Sukuna por recuerdo ni se hace canónica una explicación de IA.

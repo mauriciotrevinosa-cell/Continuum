@@ -1,6 +1,6 @@
 # S5 — Red Gate, rewards,100 floors and evolving System: complete creator proposal
 
-> **Planning navigation — 2026-10-16:** [Integrated S5 v0.2](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md), [coverage audit](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md) and [Sukuna work sheet](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md). Originals/history below remain intact; some old order/mapping notes are superseded. Current: door -> Exchange -> date -> Red Gate ->100 floors through summer -> Architect double-dungeon finale. Beru/Igris and BOTH dragons are specified later; other decisions remain open. Registered ideas are not complete arcs or permission for S5 prose.
+> **Planning navigation — 2026-10-16:** [Integrated S5 v0.3](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md), [coverage audit](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md) and [Sukuna work sheet](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md). Originals/history below remain intact; some old order/mapping notes are superseded. Current: door -> Exchange -> date -> Red Gate ->100 floors through summer -> Architect double-dungeon finale. Beru/Igris and BOTH dragons are specified later; other decisions remain open. Registered ideas are not complete arcs or permission for S5 prose.
 
 Date: 2026-10-16
 Status: CREATOR PLANNING / MACRO SKELETON WITH SCENE IDEAS / NOT WRITTEN S5 PROSE

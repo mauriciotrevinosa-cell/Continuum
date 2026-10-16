@@ -4,7 +4,7 @@
 
 ## Cadena completa
 
-**C:** charla Mau/Sukuna -> Mau comparte -> Gojo capta una implicación -> discusión de evoluciones y análisis de cada persona -> preparación/entrenamiento -> primer intento tras práctica -> resultado/consecuencias. El contenido exacto de la charla sigue sin definir. Precisar pos-Sukuna antes de fijar fechas; no inventar batalla nueva ni reescribir entrenamiento antiguo.
+**C, ampliación:** visita nocturna Sukuna propuesta entre roja/recompensas y gate de la llave -> voto/intervención Gojo-Frieren -> discusión de evoluciones/ciencia -> análisis individual -> preparación/entrenamiento -> pruebas/consecuencias. El creador ya dio contenido: coste WCS y techo mayor percibido en el enlace S2. Ver [propuesta nocturna completa](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). Pos-Sukuna refiere a ese encuentro, no una batalla nueva ni reescritura del entrenamiento anterior.
 
 **P:** entrenar para responder preguntas, no exhibir potencia: operación pequeña, observación, comparación y decisión de qué intentar. Relaciones también avanzan: Yuta como hermano no es otro Gojo, Frieren enseña lo que sabe y Mau apoya a Gojo fuera de lo técnico. No todos necesitan entrenar lo mismo, a la vez o combatir.
 
@@ -94,3 +94,11 @@ Revisión de prosa activa: S2 Purple y mecánicas §10–11 fijan la pérdida de
 **Precisión del creador, 2026-10-16:** cerró la ruta que había construido en JJK, no toda posibilidad de encontrar otra manera de recuperar ese resultado. Mantener el coste: ni sincronización100%, tiempo transcurrido ni un cambio de nombre devuelven automáticamente la ruta sacrificada. Investigación/entrenamiento pueden contribuir a una construcción distinta; no hay recuperación, método ni éxito confirmados ahora. La pérdida y esa búsqueda son tema para la conversación Mau/Sukuna, no una técnica ya concedida.
 
 Verificar estado actual por separado, sin asumir que el aftermath S2 permanece igual para siempre, que Mahoraga volvió o que todo se recuperó. Consultar [ficha Sukuna con fuentes y mensaje completo del creador](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md) antes de sus futuras pruebas. No se escriben nuevos poderes aquí.
+
+## Nuevo estudio propuesto — comprensión, conexión e información
+
+- Gojo/Mau plantean operación de CT; Senku o Byakuya abre hipótesis espacial y Shoko participa. Proteger humor y tensión sin rebajar la maestría de Gojo a ignorancia. La explicación histórica JJK/pi/Naobito-Naoya no queda verificada por una charla externa de IA.
+- Referencias observables: fenómeno de Frieren contra Diablo S3 y patrón de Mau ante Gojo S4. Comparar lo que hacen antes de asumir identidad física o equivalencia CE/mana. Observar no concede ejecución, reservas, cuerpo ni control.
+- Tras conseguir algunas sombras, explorar conexión/contratos para prestar capacidades. Definir medio, consentimiento, compatibilidad, alcance, duración, carga, fallo y contramedidas. Arise no otorga automáticamente ese préstamo; no confundir con el filtro que Gojo ya prestó en Borrow Mine.
+- Posible entrenamiento en dungeon por temor a vigilancia: entrada/reingreso, reloj, observadores/Arquitecto y práctica coral aún por definir. Sukuna sólo obtiene información cuando tenga canal concreto; ni él ni Analyze conocen todo.
+- El voto del encuentro obliga a firmantes, no mágicamente a toda la casa; protección divina y ruta sacrificada se estudian con sus reglas propias. El primer estudio no es el primer combate ni la primera observación de Red/Blue/Infinity.

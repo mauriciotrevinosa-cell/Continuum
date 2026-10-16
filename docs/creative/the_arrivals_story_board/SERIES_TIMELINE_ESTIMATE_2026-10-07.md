@@ -1,5 +1,7 @@
 # The Arrivals — Series Timeline Estimate (S1–S3)
 
+> **Later ruling, 2026-10-16 audit:** the old S4 six-month cap recorded below was relaxed by [DH-053](DECISION_HISTORY.md) and the amended [S4 plan](S4_SEASON_PLAN_2026-10-10.md). Do not compress or retcon S4 to obey that historical cap. Latest creator frame: S5 is about four expandable exterior months of summer; exact absolute dates remain to anchor. See [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md).
+
 **Status:** WORKING ESTIMATE, agreed with the creator 2026-10-07. Months count from Mau waking in the clearing (S1 start = Month 0).
 **Sources:** `S2_COMPLETE_CONTINUITY_INVENTORY_v0.1.md` (S1 length and the S2 month table) and the S3 continuity-state day stamps. S3 had no month table before this file. Its numbers are Claude's estimate from chapter time markers, and the creator may adjust them.
 

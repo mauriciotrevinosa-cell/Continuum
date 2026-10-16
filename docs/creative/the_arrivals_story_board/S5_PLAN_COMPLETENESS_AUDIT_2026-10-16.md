@@ -91,3 +91,11 @@ The proposed Frieren black-hole-like attack is at the END of the NEW Sukuna conv
 ## Upgrade del shop — nueva propuesta ya recogida
 
 La [propuesta completa del upgrade del shop](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md) desarrolla el catálogo gradual y sus ramas de convivencia. No queda pendiente pedir de nuevo la idea general: falta concretar rangos/fichas, selección de comida, costes, presentación de grimorios sin garantía de novedad, QoL/desbloqueos y checkpoints. Antecedentes verificados: comida-ración y fondo compartido ya existen; faltaban snacks/grimorios; antes no podían guardar; Senku ya falló con cristal/bombilla. Por ello se trata de progreso nuevo con continuidad, sin retcon ni permiso ilimitado de tecnología/curación.
+
+## Última pasada y extensión provisional — 2026-10-16
+
+La [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md) contrasta paquetes actuales, notas antiguas/fuentes futuras, registro, decisiones y antecedentes concretos; también mide213 capítulos S4 en7 volúmenes. No es relectura íntegra de toda la novela. Corrige dos riesgos de trabajo duplicado: proyector ya existe y la deuda antigua de chocolate ya tuvo pago. OPEN_QUESTIONS sigue como inventario histórico, no tareas S5 actuales.
+
+**Corrección importante al propio diagnóstico anterior:** DH-053 ya levantó el supuesto cap S4 de seis meses. Fechas/aniversario aún se afinan, pero no hay que retconear días ni volver a pedir permiso para exceder ese cap obsoleto. El plan previo que lo trataba como conflicto heredaba una nota antigua.
+
+Último marco C: S5=verano/unos cuatro meses ampliables; ambición privada de Mau mientras disfruta, siembra de reclutamiento de naciones para S6 (Thomas/Serie candidatos). Mensajes completos en [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md). Estimación P:8 volúmenes/~240 capítulos, rango7–9/200–270; presupuestos entrelazados sin sumar varias veces familia/torre/mundo ni contar la guerra S6. Elegir finalArquitecto, etapas/reglas/party de torre, progresiones relevantes, endpoints personales y llegadas activadas antes de cerrar el outline.

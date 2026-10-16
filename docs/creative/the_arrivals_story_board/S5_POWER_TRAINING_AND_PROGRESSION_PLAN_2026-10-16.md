@@ -91,7 +91,7 @@ Cristal de fuego, rangos E–S, crafting/compra/loot, armadura normal visible e 
 - XP/puntos/misiones/guardado, capacity y recurso sombra; no bucle de puntos o mejora ilimitada.
 - Qué sabe/controla Arquitecto: detectar semilla no prueba conciencia de Ashborn, resurrección viable ni conocimiento de todo Mau.
 - Nuevas fuentes/versiones, testigos tinta, transporte disponible, monedas/economía.
-- Calendario y relojes: semana roja/hora externa no es ratio universal; aniversario y S4 requieren reconciliar estimación con Day262.
+- Calendario y relojes: S5 es el verano, unos cuatro meses exteriores ampliables; semana roja/hora externa no es ratio universal. Afinar fechas/aniversario con marcadores actuales; DH-053 ya levantó el viejo cap de seis meses S4, no lo tratar como restricción vigente.
 
 Resolver antes de prosa; no cada decisión necesita un arco adicional que desplace la convivencia.
 
@@ -122,3 +122,9 @@ Ver [propuesta completa del upgrade del shop](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_F
 Umaru propone Coca/soda, bebidas hidratantes, geles, raciones, protein bars, shakes y postres; refrigeración mediante cristales conecta con energía/infraestructura. Son suministros y proyectos materiales, no combustible universal de CE/mana/shadow ni pociones. El requisito100% para nuevas evoluciones de técnicas no bloquea comprar herramientas, organizar comida o desarrollar refrigeración; sí conservar sus costes/condiciones propios.
 
 El intento previo de Senku cristal/bombilla falló: mostrar avance concreto, sin repetirlo como si nunca hubiera ocurrido. Encontrar una linterna puede abrir compra de esa utilidad; no vuelve común el equipo raro, todo el loot ni curación. Fichas de equipo/conocimiento y recursos siguen necesarias.
+
+## Motor reservado de Mau y tiempo de preparación
+
+El creador quiere que, después de Sukuna, Mau guarde para sí la ambición de ser el más fuerte, sabiendo que adversarios también pueden evolucionar. Sigue disfrutando de verdad el verano; no logro concedido, nuevo % de bag desconocido ni plan secreto rellenado por el escritor. [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md) conserva ambos mensajes. La motivación puede atravesar recuperación/control/estudio/torre sin añadir un arco de entrenamiento independiente que absorba convivencia. Thomas/Serie son candidatos de siembra S6, no fichas de enemigos ya activos.
+
+S5 ocupa unos cuatro meses de verano, ampliables. Antes de fijar resultados elegir qué personas sí alcanzan una recuperación/evolución relevante; la estimación de extensión no exige inventar61 porcentajes. Reglas temporales de roja, niveles, recuperación estable y progreso de copias aún deben distinguirse.

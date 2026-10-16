@@ -93,3 +93,9 @@ No añadir una reunión por problema, trauma por personaje, escena simétrica po
 - Parejas y cuidado ya logrados permanecen. Fort/pertenencia no se vuelven a conceder desde cero.
 
 Fuentes: [registro vigente](CAST_LEDGER_S4.md), [regla de presencia](S3_CHARACTER_PRESENCE_GUARDRAIL_2026-10-04.md), [relaciones S3](S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md), [V26 ejecutado](S4_V26_PLAN_2026-10-14.md) y capítulos localizados arriba. No retcon de S4; cambios futuros necesitan desarrollo conjunto.
+
+## Último marco del verano y tensión privada — 2026-10-16
+
+S5 transcurre unos cuatro meses exteriores, ampliables. La ambición privada de Mau de llegar a ser el más fuerte coexiste con disfrute auténtico: [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md). No convertir cada escena afectuosa en máscara, cada ausencia en entrenamiento o toda la familia en oposición al progreso. Qué reserva mental llega a afectar confianza/decisiones se desarrolla si ocurre; no se ha escrito una nueva ruptura.
+
+Para cerrar outline elegir resultados vividos de rolesFern/Momo/Jinshi, deseo propio de Yuka y transiciones que se activen. No confundir el cambio importante de Fern aún pendiente del creador con una rota ya aprobada. Las celebraciones/promesas están diferenciadas; continuidad después de cada una es parte del verano, no otros cuatro arcos obligatorios. Propuestas de conexiones y estimación sin doble conteo en la [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md).

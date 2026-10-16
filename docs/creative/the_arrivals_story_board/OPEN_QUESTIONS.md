@@ -1,5 +1,7 @@
 # The Arrivals — Open Questions
 
+> **Historical checklist notice — 2026-10-16:** much of the S2/house/arrival material below was subsequently written or superseded. Preserve it as history, not a current S5 work order or authority for Heian-body Sukuna. See the [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md) for current scope-changing decisions and active sources.
+
 These are the items that still appear genuinely unresolved or intentionally open after the latest preserved decisions.
 
 ## Sukuna / Hollow Purple

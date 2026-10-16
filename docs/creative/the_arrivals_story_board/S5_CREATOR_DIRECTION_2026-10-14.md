@@ -121,3 +121,7 @@ Latest creator direction proposes **the upgrade as Red Gate reward** and an unkn
 ## Two-dragon correction — creator, 2026-10-16
 
 The intended roster includes **both the Red Gate dragon and the dragon obtained in the floor100 boss-fight reference**, not a choice of one unidentified dragon. Read [the exact creator correction](S5_RED_GATE_AND_100_FLOORS_CREATOR_FULL_PROPOSAL_2026-10-16.md). Acquisition timing for the earlier Red Gate kill versus later Arise unlock needs development; do not fix it by silently moving unlocks or inventing corpse storage. Other finite-resource/replica/progression rules remain.
+
+## Latest frame — summer length, private drive and S6 recruitment (creator, 2026-10-16)
+
+S5 itself is summer, around four exterior months with expansion space. [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md) preserves the new private strongest ambition for Mau after Sukuna, sincere enjoyment, and nation/otherworlder recruitment toward S6 (Thomas/Serie tentative). No war or automatic candidate arrival is approved for S5. The [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md) gives current scope decisions and provisional7–9 volumes/200–270 chapters (working centre8/~240), not a production quota or finished arc. Historical six-month cap S4 was already relaxed in DH-053.

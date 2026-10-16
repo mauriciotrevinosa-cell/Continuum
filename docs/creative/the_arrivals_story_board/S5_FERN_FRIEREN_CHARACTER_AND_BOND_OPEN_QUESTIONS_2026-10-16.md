@@ -83,3 +83,7 @@ Jinshi: the creator's perception that nobody goes to Arrival House should be che
 Chronology anchors found during this discussion: V14 #26 Third Wave explicitly says Fern transfers primary household administration on Move Day 4. SERIES_TIMELINE_ESTIMATE places Move week around Month15.5–16 and S3's end around Month24, about eight months later. Fern already handles supplies before the Move, including V13 Provably False; the transfer is not necessarily the first day she ever assumed responsibility. S4 adds further months, so the routine extends beyond a year by late S4. Do not set an exact appointment date or duration without reconciling the working timeline's six-month S4 budget with later chapter day stamps.
 
 This expands the future planning question to the household structure. S4 remains unchanged. No S5 prose, reassignment, rupture or resolution is authorised now.
+
+## Later chronology check — 2026-10-16
+
+The old six-month S4 cap mentioned in prior chronology notes was already relaxed by DH-053 and the amended S4 season plan. There is no new cap/day-stamp contradiction to solve by compressing or retconning chapters. Absolute dates, anniversary label and lengths of responsibilities still require careful anchors. Latest creator frame: S5 is roughly four expandable summer months. See [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md). Fern's anticipated important change remains creator-pending, not solved by this calendar correction.

@@ -1,5 +1,7 @@
 # The Arrivals — Floating / Unplaced Ideas
 
+> **Latest scope pass, 2026-10-16:** [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md). S5=about four expandable summer months. Older unplaced notes may already be implemented; do not replay them or treat all reserve as mandatory. New [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md) seed S6 without starting its war.
+
 > **Planning navigation — 2026-10-16:** [Integrated S5 v0.3](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md), [coverage audit](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md) and [Sukuna work sheet](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md). Originals/history below remain intact; some old order/mapping notes are superseded. Current: door -> Exchange -> date -> Red Gate ->100 floors through summer -> Architect double-dungeon finale. Beru/Igris and BOTH dragons are specified later; other decisions remain open. Registered ideas are not complete arcs or permission for S5 prose.
 
 These ideas are preserved because they may become valuable later, but they are not yet structured enough to assign a final episode.
@@ -90,6 +92,8 @@ Mau has his own adaptation plus the four beats (**Observe, Analyze, Understand, 
 
 
 ## Chocolate Day 2: IMPLEMENTED in S3 V16 #41–#46 (storm arc), creator's plan, 2026-10-07
+
+> **Later payoff check, 2026-10-16:** the revenge/debt continuation described below received S4 development and explicit resolution in [Exactly as They Already Wanted](../THE_ARRIVALS_S4E09_LN_CHAPTER_05_EXACTLY_AS_THEY_ALREADY_WANTED_v0.1.md). Preserve this original note as history; do not schedule the same unpaid debt again or turn the claimed aphrodisiac into actual administration.
 - **Story Night, Again:** Mau has stories now; the deer callback; the Sein story; Himmel "survived".
 - **The Super Duper Ultra Archi-Re-Que-Contra Mega Important Meeting:** Frieren asks whether Mau finds her attractive, then reveals a plan; Senku's cup telephones; Ciel recruited.
 - **Agents:** Frieren secretly raises Maomao's (halved) dose, so the effect lasts the whole arc.
@@ -399,3 +403,7 @@ The date now has a requested simple romantic dinner, discreet high-end food/wine
 ## S5 modest shop upgrade, food/QoL and checkpoints — creator, 2026-10-16
 
 [propuesta completa del upgrade del shop](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md) contains the entire message. Modest E–S/rank+inspection and catalogue expansion; save point tentative for certain multilevel dungeons. Frieren all-crystals-for-grimoires plea -> asks Mau/Fern -> buys duplicate -> disappointment -> Mau positive exploration -> couple hunts grimoires. Umaru soda/Coca plus expedition food and desserts; hydration drinks/gels/rations/protein bars/shakes; crystal refrigeration. QoL antorchas and chest-find -> purchase flashlight example. No unlimited tech, universal loot-to-shop, common healing, fixed checkpoint rules or full trade erasure.100% source-technique evolution remains separate from improving household/shop tools.
+
+## Summer frame and S6 recruitment/private ambition — creator, 2026-10-16
+
+[mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md) preserves both full messages: after Sukuna Mau privately wants to become strongest so family need not fear; he still enjoys life. Nations recruit otherworlders believing they defend the world; Thomas Andre and Serie are possible examples for futureS6, not arrivals/battles already fixed. Four expandable exterior summer months frame S5. [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md) offers a provisional8-volume/~240-chapter centre (range7–9/200–270), scope decisions, corrected historical notes and optional connective beats. No S5 chapters or S6 war written.

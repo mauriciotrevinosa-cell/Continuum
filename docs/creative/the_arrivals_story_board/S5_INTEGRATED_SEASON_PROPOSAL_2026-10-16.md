@@ -1,5 +1,7 @@
 # S5 — propuesta integrada de temporada v0.3
 
+**Última revisión:** [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md). **C:** S5 es el verano, aproximadamente cuatro meses exteriores con espacio de expansión. **P:** preparar unas8 entregas de volumen/240 capítulos; rango provisional7–9 volúmenes/200–270 capítulos, no cuota ni autorización de prosa.
+
 **Fecha:** 2026-10-16. **Estado:** propuesta para discutir, no temporada aprobada ni autorización de capítulos. S4 permanece intacta. Las ideas originales completas no se sustituyen por este esquema.
 
 **C** identifica dirección del creador, aunque aún necesite desarrollo. **P** identifica sugerencias nuevas: no convertirlas en canon por estar escritas aquí. Las referencias concretas de V26 en los documentos asociados son internas; el creador no ha leído ese volumen.
@@ -36,6 +38,7 @@ La convivencia tiene valor y consecuencias, no es relleno entre bosses. No neces
 - [propuesta nocturna completa](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md): visita antes de100 pisos, voto propuesto, intervención y estudio; texto original íntegro.
 - [Dudas Fern/Frieren y roles](S5_FERN_FRIEREN_CHARACTER_AND_BOND_OPEN_QUESTIONS_2026-10-16.md).
 - [Conceptos de evolución extrema](POWER_EVOLUTION_BREAK_THE_SKY_CONCEPT_2026-10-15.md): inspiración, no inventario desbloqueado.
+- [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md): drive reservado de Mau en S5 y reclutamiento hacia posible guerra S6.
 - [Ideas flotantes](FLOATING_IDEAS.md): contiene propuestas históricas realizadas/superadas. No ejecutarlas todas por defecto.
 
 La instrucción más reciente rige cada punto: Exchange después de puerta y antes de cena; roja antes de torre;100 pisos durante verano; doble mazmorra final. Ambos dragones están deseados. Casa y muralla existentes se conservan.
@@ -50,7 +53,7 @@ La instrucción más reciente rige cada punto: Exchange después de puerta y ant
 | D. Cena/preparación | Cena íntima atrasada, vino/regalos; expedición de Frieren como regalo; tres días tentativos hasta reset; reclutamiento | Tiempo Frieren/Fern, ganas y preparativos del equipo. Yuta/Maki eligen día propio; Gojo/Shoko tienen invitación; Rimuru decide quedarse |
 | E. Semana roja | Frieren/Mau/Yuka/Fern/Stark/Milim; semana dentro/hora fuera; campamentos, mini-bosses, flecha/Infinity, dragón colectivo/Red; prueba oculta del Arquitecto | La semana tiene desarrollo real de los seis; liderazgo de Frieren y decisiones de Yuka. Fuera no cabe una semana de búsquedas |
 | F. Regresar con posibilidades | Upgrade moderado: E–S, más catálogo/comida/QoL, save points tentativos; botín/llave, Queen2; visita Sukuna antes de gate de llave | Gag grimoire repetido -> explorar en pareja; Umaru comida/soda y frío cristal; días familiar/fort y cita Gojo/Shoko. Tregua abre estudio; desarrollos por etapas |
-| G. Verano entre ascensos |100 pisos espaciados; botín y recuperación/upgrades;100% personal antes de nuevas evoluciones, también Sukuna; sombras/puntos/Noise | Mundo cambiante aporta presión gradual. Equipos/rotaciones o tramos Mau solo abiertos; descanso, roles, comercio, cultura, familia y relaciones continúan |
+| G. Verano entre ascensos |100 pisos espaciados; recuperación/upgrades y100% antes de evoluciones, Sukuna también; sombras/puntos/Noise; ambición privada de Mau de ser el más fuerte | Cuatro meses de verano ampliables. Equipos/solo abiertos; Mau disfruta de verdad. Roles/comercio/cultura/familia continúan; naciones reclutan para horizonte S6 |
 | H. Convergencia/final | Completar100 antes de doble mazmorra del Arquitecto; semilla/recipiente/Ashborn; Sukuna deja material para S6 | Decisiones/relaciones del verano importan al cierre. No decidir pruebas, resurrección, sacrificio o resultado ahora |
 
 Estos movimientos no son capítulos/volúmenes asignados. Un hilo puede comenzar antes y terminar después; el verano no espera al final de todas las gates.
@@ -86,7 +89,7 @@ Son P para elegir/desarrollar, no escenas aprobadas. Lo que añadimos debe produ
 
 **C, alternativas:** túnel/glyph portátil o transporte de Diablo/Rimuru/Mau cuando realmente pueda; secreto tinta/auditar testigos; shop oculto; cristales/comunicación; relocalización una vez; mercader Re:Zero/Tensura, Subaru/Betty y fuentes temporales siguen en estudio. No hacer llegadas para cubrir funciones que otros ya pueden desarrollar.
 
-**C:** preservar casa alrededor del círculo de raíces, cuartos/lofts y muralla; ampliaciones/materiales, barrera interna, baterías/luz/clima, discos/proyector/papel/manga. Frieren puede leer manga y seguir prefiriendo grimorios. Senku encuentra límites/risa divina sin que cada avance permitido desaparezca arbitrariamente.
+**C:** preservar casa alrededor del círculo de raíces, cuartos/lofts y muralla; ampliaciones/materiales, barrera interna, baterías/luz/clima, discos/papel/manga y desarrollo del proyector. **Base escrita comprobada:** el proyector/linterna mágica de aceite ya existe en S4 The Movie Room y allí se prepara grabación de cera/resorte; S5 continúa/mejora, no estrena de nuevo la idea. Frieren puede leer manga y seguir prefiriendo grimorios. Senku encuentra límites/risa divina sin que cada avance permitido desaparezca arbitrariamente.
 
 **P:** una necesidad concreta y una relación comercial que sobreviva desacuerdo/demora. Los usuarios influyen en diseño. Maomao/Kusuri/Shoko deciden junto a Senku; el atelier conserva aprendizaje, no una fábrica de glyphs. Ampliar luz existente, no inventar su primera vez. Barrera interna no reemplaza protección exterior.
 
@@ -173,3 +176,11 @@ Corrección de lectura editorial: el posible agujero negro de Frieren contra Suk
 **Por concretar:** presentación de las ofertas de grimorios (comprar no garantiza novedad para la colección), selección inicial de comida/bebida, cristales/consumo/reposición, qué campo usa E–S, save points/reentrada/reset/owner y alcance QoL. Menor dependencia alimentaria exterior no borra cocina/cultivos/comercio. Poción curativa no pasa a venta común; dispositivo hallado no autoriza toda tecnología. Recuperación100% antes de evolución de técnicas no es veto al desarrollo de shop, equipo o refrigeración.
 
 **Aclaración posterior del creador:** comprar un grimoire puede dar uno ya encontrado; no hay garantía de novedad. La sugerencia de otra edición/título se retira. Esto no establece compras ciegas o aleatorias. Ver [mensaje completo](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md).
+
+## Última ampliación del creador — verano, ambición reservada y horizonte político
+
+**C:** tras Sukuna, Mau guarda para sí la ambición de llegar a ser el más fuerte para que su familia no viva asustada. Si los suyos pueden evolucionar, otros también. Disfruta con sinceridad de su vida mientras lleva ese impulso dentro; no se concede el puesto al final S5 ni se inventa su acción/plan secreto. Ver [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md).
+
+**C, horizonte:** algunas naciones se coordinan y reclutan otherworlders convencidos de proteger el mundo. Es siembra para S6, no inicio de guerra S5. Thomas Andre es candidato de escala; Serie tentativa. No llegada/bando/poder automático, identidad del encapuchado/amenazador Pell o mando de Sukuna asumidos. Comercio y hostilidad pueden involucrar grupos distintos. Mau no conoce reuniones lejanas por pensar en el riesgo.
+
+**C, tiempo:** toda S5 es el verano, unos cuatro meses exteriores ampliables. Mantener semana interna/hora externa roja y relojes de torre por separado. **P, extensión:** unas8 entregas de volumen/240 capítulos, con rango7–9/200–270 en el formato actual; estudio, vida/mundo y siembras ya están contados dentro de esa horquilla. La guerra completa S6 y todas las llegadas candidatas no se suman como aprobadas. Detalle y pendientes en la [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md).

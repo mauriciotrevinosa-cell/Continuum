@@ -172,3 +172,15 @@ S4's production draft is complete; creator read-through remains open. S5 has not
 ## Creator-directed Ashby insertion — 2026-10-15
 
 [Complete creator proposal and continuity notes](S4_MAU_ASHBY_CREATOR_FULL_PROPOSAL_2026-10-15.md). Implemented as V25 #26 Fruit, Seeds, Two Books, after Market Day. V25 now29chapters; S4 total213. Later chapter IDs/bookmarks stay stable. The future Mau/Sukuna conversation is still the creator's undisclosed S5 idea; no such conversation has been invented or drafted.
+
+## Long-term power evolution — romper los cielos manteniendo las reglas (creator, 2026-10-15; DEFERRED CONCEPT)
+
+Preserve [the concept, creator instructions and separate editorial observations](POWER_EVOLUTION_BREAK_THE_SKY_CONCEPT_2026-10-15.md) and [the complete attached Gojo/Sukuna discussion](POWER_EVOLUTION_GOJO_SUKUNA_RAW_DISCUSSION_2026-10-15.txt). These are conceptual examples of the intended ceiling, not approved abilities or scientific/canon authority. Creator: "solo guardalo pq aun no lo vamos a tocar pero si para despues". No season, scene, unlock or implementation is assigned. Reopen only when the creator asks.
+
+## S5 — Fern's individuality and Fern/Frieren's bond (creator, 2026-10-16; OPEN QUESTIONS)
+
+[Preserved creator question, full editorial response and instruction to retain these doubts](S5_FERN_FRIEREN_CHARACTER_AND_BOND_OPEN_QUESTIONS_2026-10-16.md). Revisit Fern's interior life beyond the ledger and reciprocal Fern/Frieren scenes during S5 planning. This is a provisional concern, not a completed audit or approved rewrite. The creator anticipates an important S5 change whose content remains undisclosed; do not invent it or manufacture rivalry with Ori/Mau. Current chapters and canon remain unchanged.
+
+## S5 expanded planning agenda — world, gates, roles, trade and evolution (creator, 2026-10-16)
+
+[Full creator proposal, expanded worklist and V26 compatibility notes](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). Adds Mau/Sukuna talk; household roles; external gates/100 floors/Red Gate restrictions/System reward; private power roster; evolution discussion; Mau upgrades; multi-city trade/transport/ink secrecy; relocation reward; house/tree/crystal utilities/culture; coins and possible antagonist cooperation. This is a planning list, not final chronology or S5 prose approval. Preserve V26's already built perimeter and existing limited trade; no S4 retcon.

@@ -345,3 +345,19 @@ This registration is navigation, not a substitute synopsis. Editorial continuity
 ## Mau / Sukuna conversation — new market setup (creator, 2026-10-15; FUTURE IDEA NOT YET DISCLOSED)
 
 Creator supplies Mau's involuntary Ashby visit and public invitation to the alleged hero described by Pell. The S4 setup is written as Fruit, Seeds, Two Books; preserve [his full original](S4_MAU_ASHBY_CREATOR_FULL_PROPOSAL_2026-10-15.md), not a shortened replacement. He then explains: "esto hace que la convo que quiero planear entre mau y sukuna sea posible y no de la nada aun esto esta en ideas que no eh compartido". Await that idea. No meeting, date, bargain, combat, dialogue or outcome is assigned. Pell's propaganda is not proof Sukuna contacted him, wrote the papers or directs the agenda.
+
+## Long-term power evolution — romper los cielos manteniendo las reglas (creator, 2026-10-15; DEFERRED CONCEPT)
+
+Preserve [the concept, creator instructions and separate editorial observations](POWER_EVOLUTION_BREAK_THE_SKY_CONCEPT_2026-10-15.md) and [the complete attached Gojo/Sukuna discussion](POWER_EVOLUTION_GOJO_SUKUNA_RAW_DISCUSSION_2026-10-15.txt). These are conceptual examples of the intended ceiling, not approved abilities or scientific/canon authority. Creator: "solo guardalo pq aun no lo vamos a tocar pero si para despues". No season, scene, unlock or implementation is assigned. Reopen only when the creator asks.
+
+## S5 — Fern's individuality and Fern/Frieren's bond (creator, 2026-10-16; OPEN QUESTIONS)
+
+[Preserved creator question, full editorial response and instruction to retain these doubts](S5_FERN_FRIEREN_CHARACTER_AND_BOND_OPEN_QUESTIONS_2026-10-16.md). Revisit Fern's interior life beyond the ledger and reciprocal Fern/Frieren scenes during S5 planning. This is a provisional concern, not a completed audit or approved rewrite. The creator anticipates an important S5 change whose content remains undisclosed; do not invent it or manufacture rivalry with Ori/Mau. Current chapters and canon remain unchanged.
+
+## S5 expanded planning agenda — world, gates, roles, trade and evolution (creator, 2026-10-16)
+
+[Full creator proposal, expanded worklist and V26 compatibility notes](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). Adds Mau/Sukuna talk; household roles; external gates/100 floors/Red Gate restrictions/System reward; private power roster; evolution discussion; Mau upgrades; multi-city trade/transport/ink secrecy; relocation reward; house/tree/crystal utilities/culture; coins and possible antagonist cooperation. This is a planning list, not final chronology or S5 prose approval. Preserve V26's already built perimeter and existing limited trade; no S4 retcon.
+
+## S5 gate-event mapping clarified — Architect and Exchange (creator, 2026-10-16)
+
+See [the full proposal and latest event-mapping clarification](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). **Double dungeon = Architect / proposed Ashborn-restoration arc. Accidental Exchange = a separate normal dungeon outing with the shadow ant**, followed by exhaustion, debrief, an informed green light and the proposed Noise "sorry" / pause / "yes" trust beat. Exchange supplies the seed before the Architect detects it. The door encounter enabled growing communication; it did not resolve every problem. Earlier undecided mapping and absolute two-word limits are historical, not current restrictions. Other event ordering remains open; no S5 prose authorised.

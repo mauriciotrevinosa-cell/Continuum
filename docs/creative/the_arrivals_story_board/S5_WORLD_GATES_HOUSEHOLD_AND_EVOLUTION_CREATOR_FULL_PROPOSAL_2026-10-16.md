@@ -1,0 +1,184 @@
+# S5 — world, gates, household, trade and evolution: full creator proposal
+
+Date: 2026-10-16
+Status: CREATOR-REQUESTED PLANNING LIST / IN DEVELOPMENT / NO S5 PROSE AUTHORISED
+
+## Creator proposal — complete original, not replaced by the navigation below
+
+okay a la lista agrega la platica contra sukuna, el cambio de posiciones, el que sigue osea ver la evolucion mas del mundo , el que sigue osea pq crearemos varias cosas a partir d elas gates, la gate de los 100 pisos, lo de que puedan ver el sistema que en la red gate las restricciones de continnum se levanten, esto seria para nosotros pero encesitamos la lista de cada personaje con su porcentaje toda su bag y asi para que no sigamos adivinando, la platica de evoluciones (esto nace gracias a sukuna dice algo mau lo cuenta y gojo lo capta y aqui podemos meter la ide del hoyo negro y asi), los primeros upgrade de mau (con su nuevo sistema) el primer intento despues de un rato, que se puede mejorar dentro de las gates y que no, la primera idea de comercio a pesar del que el mundo les tenga miedo se anuncia que hay gates abriendose no igual a las del settlment exactamente como las de solo aparecen en lugares random y a la semana se abren esto crea un comercio y la gente a pesar de tener miedo deciden tradear con la monster city se agrupan varias ciudades y se ponen de acuerdo aqui podemos introducir un glyph de tunnel osea crean una tienda y del otro lado alguien loa ctiva comoo en witch hat pero la cosa es que qifrey prohibe la info de la tinta que los vean dibujando afuera del settlement pq sino va a ser algo que la gente va a querer explotar aqui tenemos que ver quienes han visto la gente la tinta y ellos dibujando pq como en withc hat gente puede haber visto los glyph pero no saber que probiene de tinta y creen que es de mana o de algo entonces revisar, asi creamos algo o que en ves usemos el poder de teletransportar de diablo rimurur y mau si ya lo domina y se ponen a tradear que sea asi muy obligado un representante de las ciudades llega con una hoja el que sea del settlment la ve saca la lista de precios y le dice que los precios y el representante dice que cuando se cree bien una economia esperan que ellos repseten los rpecios y aqui el del settlment dice que esta bien pero ahorita quienes los necesitan son ustedes asi que ahorita nosotros dictamos) y asi vemos el inicio del trading y le dan un guild section al monster settlment una manera de comunicacion pq el mundo se ah estado adaptando entonces podemos ahi inventar algo con los crystales nadie mas que el settlment tiene el shop entonces es un secreto. Un reward deberia se la opcion de mover la gat one time y como todo esta sucediendo y estan expandiendo mas aqui puede ser que en ves de terminar  haciendo una wall deciden re hacer la casa mantener la mayoria pero si el arbol no lo rodean con la cas no se si en el plano ya eso es verdad que la casa esta alrededor del arbol si esta esta perfecto pero de que extienden la casa y hacen una seccion y aqui podemos ver como cambian unos materiales que han recolectado de los dungeon a que en ves de que sea chosa se cambian a un papel osea como las japonesas y descubren que pueden usar los cristales para hacer una barrera interna como en solo de usar los cristales como energia y aqui vemos como la diosa lo permite entonces se ponen a construir baterias preparar un sistema de luz clima y asi  osea siguiendo y cuando senku se quiere pasar de listo se lo truena y nada mas puede escuchar una voz riendose y vuelve a quejarse pero aqui ya quiero ver el avance de que crean discos de musica un proyector y comienzan a obtener papel entonces comienzan a crear manga le puede interesar a frieren pero luego dice que los grimorios son mejores pero de ves en cuando los leera rimuru en tensura ya demostro esta posibilidad. y ver a quienes mas vamos a traer donde estan esas otras monedas si es que xisten y ver que mas yyyyy tla ves ya un avance de lo que ah estado haciendo sukuna y aqui ya podemos ver que varios de ellos se juntaron para cumplir venganza pq tal ves digamos que uno es aura de frieren ell quiere controlar todo pero se dio cuenta uno que underestimate a frieren y cuando se entero que ella sigue viva se asusto y aqui sukuna se dio cuenta que ella puede ser util tiene info entonces le dice que van a matar a frieren si se une y en ves de decir que cambiamos  sukuna que solo quiere destruir todo no el quiere tumbar todo el no quiere gobernar el quiere destruir pero es un rencoros de miercoles la razon que quizo matar a gojo fue pq lo humillo cuando aparecio por primera ves en el cuerpo de yuji entonces no me sorprenderia que con lo de mau sabe que para poder hacer lo que quiere tiene que vencer ese settlment primero y sabe que no puede contra todo y no tiene miedo de jugar con otros agito uraume mahoraga osea si sa ah asociado
+
+## Creator follow-up — continuity check requested
+
+pq v26 de que se trata sus arcos no quiero haber contradecido nada y tener que retcon
+
+## Planning list — navigation, not a locked sequence
+
+The earlier ordering remains: door/Goddess/Noise -> return/recovery/household briefing -> breathing space/date -> later gate/Jin-Woo development and summer. The following fronts are added for planning, not assigned chapter order or final mechanisms.
+
+1. **Mau/Sukuna conversation.** Retain the public invitation setup from S4 Fruit, Seeds, Two Books. Its conversation is still unwritten; do not invent final dialogue, bargain, alliance or outcome.
+2. **Household role changes.** Revisit Fern, Momo, Jinshi and everyone else's duties after sustained peace. Cross-reference the separate Fern/Frieren note; preserve existing friendships, Fort membership, Stark and genuine care.
+3. **The world's visible evolution.** Show how people, cities and institutions adapt, beyond the settlement's internal life.
+4. **Multiple developments arising from gates.** Distinguish the settlement gift dungeon, new external gates, the 100-floor gate, Red Gate and Exchange/Jin-Woo events; do not silently merge their rules.
+5. **The 100-floor gate.** Added as a development subject. Participants, mechanism, placement and outcome still need definition.
+6. **Visible System.** Develop the existing reward seed; who sees what, where and when remain to settle. Preserve shop secrecy separately from visible status information.
+7. **Red Gate: Continuum restrictions lift.** New creator direction to develop for that setting. Scope, duration and restoration on exit need definition; do not extend it to every gate automatically. Distinguish Continuum's imposed restrictions from fuel, anatomy, injury, knowledge and bodily tolerance; no implicit immortality or free sustained execution.
+8. **Private production roster.** Prepare per-character percentages, full kit/bag, current access, locks, requirements, costs and evidence so future writing does not guess. Separate confirmed facts, dated states, estimates and creator-pending values. Do not promote the old registry's proposed percentages wholesale. Mau does not fit the ordinary synchronisation scale; identify his separate System progression without resolving species/lifespan.
+9. **Evolution conversation.** Proposed causal chain: Sukuna says something -> Mau reports it -> Gojo grasps an implication -> discuss possible evolution, including the black-hole idea. This reopens the earlier concept for S5 planning only; no ability or unlock is implemented. The meaning of Sukuna's remark remains to develop.
+10. **Mau's first new-System upgrades and later first attempt.** Preserve gradual learning and elapsed time; define what can improve inside gates and what cannot, what persists outside, and prerequisites.
+11. **External gates and trade pressure.** Gates appear at random external locations and open after a week, as proposed. Define detection, timing and danger. Cities coordinate and trade with the feared monster settlement out of need. This is expansion of existing limited trade, not the first exchange in world history.
+12. **Trade scene and institutions.** Preserve the representative's sheet, settlement price list, dispute about respecting future economic prices, and the reply that current need gives the settlement bargaining power. Speaker and exact terms are not assigned. Develop a guild section for the settlement and a communication channel, possibly crystal-based; secrets and world adaptation matter.
+13. **Trade transport alternatives.** A Witch Hat-style tunnel glyph/shop with someone activating the other end OR Diablo/Rimuru/possibly Mau transport. These remain alternatives. Mau is included only if he has actually mastered the needed transport by that point. Do not assume all three have identical current unlocked capabilities.
+14. **Ink secrecy / Qifrey.** Proposed prohibition on revealing ink information and being seen drawing outside the settlement, to avoid exploitation. Audit who has actually seen glyphs, drawing, ink handling or the causal secret; witnessing a glyph does not necessarily mean understanding ink rather than mana. Do not erase previous witnesses or assume everyone already knows. Check existing Witch Hat rules and exposure before designing enforcement.
+15. **One-use gate relocation reward.** Proposed earned option to move a gate once. Which gate, conditions, destination, safety and permanence remain open; not free repeat transport or an already available reward.
+16. **House extension and tree.** Preserve most of the existing house; check the approved plan before deciding whether it already surrounds the tree. New sections/materials may develop from dungeon resources. Japanese paper-like interior elements are a proposal, not retroactive replacement of the established timber house or a statement that current walls are cloth.
+17. **Crystal-powered internal barrier and utilities.** Develop resource use for an internal barrier, batteries, light and climate, with the Goddess permitting some development. Define actual protections, energy budgets and infrastructure. Keep these separate from existing divine perimeter protection.
+18. **Senku and permitted technical growth.** Preserve the comic idea that overreaching gets a project stopped and a laughing voice prompts his complaint. Mechanism and limits remain to settle; do not invent arbitrary divine suppression as an existing rule.
+19. **Everyday culture/industry.** Music discs, a projector, paper and locally made manga. Frieren may become interested while insisting grimoires are better and reading manga occasionally. Rimuru's source-world example is inspiration; audit current production capacity and required materials before making devices appear.
+20. **Future arrivals and coins.** Review who might arrive, which coins actually exist, who holds/spent them, and what is still unknown. Do not create unearned coins or decide arrivals now.
+21. **Sukuna's ongoing activity and possible coalition.** Consider progress outside the settlement and cooperating enemies. Aura is explicitly tentative; audit arrival version, survival, knowledge and threat scaling before using her. Proposed motivation: Aura learns Frieren lives, fears her and offers useful information; Sukuna offers the prospect of killing Frieren in return for cooperation. No alliance is yet canon, and this does not identify Pell's hidden organiser.
+22. **Sukuna's intended function in this proposal.** Creator wants destructive, resentful opposition rather than governance: the settlement obstructs him and he may cooperate tactically because he cannot defeat everyone together. The source-character motivation claim and Agito/Uraume/Mahoraga examples in the raw proposal are creator discussion, not independently verified canon assertions; preserve nuance and check sources before final character writing.
+
+## V26 compatibility — checked against the executed plan, not a new retcon
+
+Source: [V26 executed plan](S4_V26_PLAN_2026-10-14.md), [V26 index](../THE_ARRIVALS_LN_VOLUME_26_INDEX_v0.1.md), [current cast ledger](CAST_LEDGER_S4.md).
+
+- V26 debates and builds a real manual earth-and-timber perimeter over weeks. Both basic gates work by Day253; drainage, walks and stone repairs remain unfinished. The house and its rooms stay intact. Therefore "instead of building a wall" cannot replace V26's executed work. A compatible S5 option would be choosing house expansion/utilities over further perimeter upgrades, while preserving the existing wall/gates. This is an editorial bridge for creator consideration, not an automatic rewrite of his idea.
+- The perimeter gates, the vermilion house columns, the weekly dungeon gate and the S4 ending's mysterious door are distinct. New gates and relocation rewards must identify their target.
+- Existing Hollis/Fallow trade is limited and costly, and Ashby remains closed. The proposal can broaden access into multi-city/guild trade rather than reset commerce to zero.
+- V26 releases the last remaining refuge families and passes register/lodging work to Jinshi/house rota. Paid road partners remain. Do not claim Arrival House has no purpose/occupants without checking individual scenes; roles can nevertheless be reconsidered in S5.
+- V26's two Frieren-world demons are separate from the fear-born devil, Diablo, titans and curses. Killing those attackers does not resolve the species or preclude later Aura planning.
+- The science quartet has incremental cloth drying/storage experiments, not a crystal power grid or advanced consumer technology. Dungeon-driven industry is a future development requiring materials, trials and limits.
+- V26 ends on Mau choosing to stay with Frieren while the mysterious door remains open. No S5 System, Red Gate unlock, Jin-Woo, household reassignment or advanced utilities are already spent there.
+
+## Next planning work — not execution authority
+
+Reconcile existing gates/System/Exchange proposals, arrival versions, witnesses/ink secrecy, house/tree plan, current transport, coin inventory and power states before locking order or writing. Preserve the creator's full text. S4 remains unchanged. This expands the S5 planning agenda; it does not greenlight S5 chapters or all mechanisms as final canon.
+
+## Creator follow-up — Hollis as crossing, merchant candidates and house preservation
+
+Creator, 2026-10-16, complete original message (including quoted report supplied by the creator):
+
+si yo se que existe un comercio y aqui tal ves entra en ves de que hollis este moviendose [uede el ser el cruce en el ep de witch hat atelier la serie cuando una lluvia torrencial vemos como en una manta tienen un portal de emergencias nos podemos inspirar de eso que hollis se vuelva el cruce y ayude a poner precios aqui podriamos hacer que sea buena idea tal ves traer a uno de los dos comerciantes ya sea la cabra de re zero o el panzon de tensura pero siento que la cabra de re zero es mas factible y aqui tendriamos que hacer gimnasia de traer a subaru er si subaru lelga con betty pq tienen un contrato entonces de que punto de la historia lo traemos pq si rem segui conciente tiene que ser un poco despues o aqui podemos introducir que el subaru que agarramos no es el mismo que el que desaparecio rem y ram pq tal vess porque se mato o algo y cambio de rama temporal puede ser pero es mucha gimnasia y no em molesta
+
+
+
+
+
+segun lo aprobado la casa si esta en el layout solo tendremos que ver que nada contradiga eso entonces quitamos lo de destruir la casa y re hacerla:
+
+
+
+Sí, Mauri, la casa se construyó alrededor del árbol. Está en S3_S4_FAMILY_HOUSE_MEGA_INN_LAYOUT_LOCK_2026-10-04.md, sección 10.3: “the house goes around the tree’s root circle, not on it”. Las alas se le agregaron alrededor, con el patio en medio.
+
+Lo que no encontré es un mapa aprobado como archivo. Busqué en el repo, en el historial de git, en tus artifacts y en Descargas:
+
+- **Lo que sí existe:** el plano aprobado en texto, dentro de ese mismo layout lock. Ahí están los cuartos de arriba, “Everybody moved one” (DH-045), las alas punteadas al norte y al oeste, el sótano con dos salidas y la extensión del fuerte.
+- **Los únicos dibujos del repo** son del inn viejo de S1 (planta baja en SVG y segundo piso en PNG), no de la casa permanente.
+- **En Descargas** hay archivos de planos, pero son de Zen Park, de tu trabajo. Esos no los subo, obvio.
+
+¿El mapa aprobado lo tienes tú como imagen o archivo? Si me dices dónde está, lo subo. Si se hizo en otra sesión (o en Codex) y nunca se guardó, puedo dibujarlo a partir del layout lock. Eso sí gasta crédito, así que mejor lo hago el sábado.
+
+## Interpretation and verified continuity — separate from the original
+
+- **Hollis:** creator knows commerce already exists. Proposed evolution is making him the crossing/link and involving him in pricing, instead of simply continuing repeated physical journeys. Do not frame this as first-ever trade or erase his established knowledge/relationships. No final assignment or monopoly is fixed.
+- **Portable portal inspiration:** the creator cites a Witch Hat emergency portal on a blanket during torrential rain. Preserve this reference for later primary-source inspection. Do not assume all portal operations, portable activation, security and ink-exposure requirements are established in Continuum. The transport alternative remains to develop.
+- **Merchant candidates:** the creator favours the Re:Zero merchant he calls "la cabra" over the Tensura merchant he calls "el panzon". Exact identity/version should be confirmed before a summons plan; no candidate is yet approved to arrive, and neither is silently inserted as a new source of coins.
+- **Subaru/Betty:** consider source timestamp, existing Rem/Ram departure timestamps and knowledge, and whether/how their contract affects arrival. A contract is not automatically proof of a second passenger being permitted. Check existing coin/person/passenger rules and prior Subaru conditional plans. Preserve the alternative-timeline/branch suggestion as hypothetical, not a new fact about Return by Death or Continuum's cosmology. Do not invent a suicide, timeline fork, disappearance, memories or replacement Subaru to solve an unverified contradiction.
+- **House decision:** creator explicitly withdraws destroying/rebuilding the existing house. Preserve it and develop extensions/materials/utilities around approved geometry; the tree does not require a redesign.
+- **Verified now:** layout lock section10.3 explicitly states: "The house goes around the tree's root circle, not on it." The same section preserves two floors, room/group relationships, walkable maintenance cellar, exits and room to extend. The east end has extension space; the third storey is dotted future possibility, not an already built floor. All future plans must respect the root circle and current lived-room continuity.
+- **Map search provenance:** the embedded report about Git history, artifacts, Downloads and absence of a visual map comes from a different quoted response. Only the text lock/tree provision was independently checked in this turn. Do not report those wider searches as newly performed. This message does not request drawing, uploading or scheduling a map; the quoted question and Saturday remark are not new task instructions.
+
+This clarification refines planning only. No S4 retcon, house demolition, merchant summons, source-timeline ruling or S5 prose is executed.
+
+## Gate-event clarification — random Exchange and double dungeon
+
+Creator, 2026-10-16, complete messages:
+
+> okay ahor aqui te van mis ideas para el arco de la gate roja el de 100 niveles y  en mi otro mensaje te di ideas de ver que se puede mejorar en el mundo que en las gates y que en ambos entonces eso no lo voy a tocar pero no significa que no suceda
+
+> okay tenemos tres eventos en la gate uno es aleatorio otro va a ser un regalo y hay un cuarto que quiero que suceda por lo menos en esta season y seria un double dungeon
+
+> el aleatorio es el de la ormiga o la shadow de jin woo el intercambio y que analyze se lleva eso y la posible comunicacion con jin woo pq al unirse mau consigue como jin woo lo del monarca de las sombras que fue la mano derecha de un dios que le puso parte de su poder en el eso ya creo que estaba bastante definido no?
+
+Classification now: the random event is the shadow-ant / Jin-Woo Exchange. Double dungeon is a further event the creator wants within S5. The gift-event assignment and final mapping/order of all events remain to be supplied; do not assign those roles by guessing. The world/gate/both improvement agenda remains active even while the creator develops these other events.
+
+Consult FLOATING_IDEAS section "The shadow ant, Exchange and the Monarch seed" (DH-076), with the newer October15 opening clarifications overriding old placements. Previously defined: real swap of Mau and Jin-Woo; Goddess return; a levelling/stat capacity trunk distinct from Monarch powers; dormant Monarch seed that Analyze/Noise studies over time; possible link to Jin-Woo. No immediate complete Monarch arsenal or automatic permanent communication. The creator's divine-origin analogy is part of his conceptual intent, not independently source-verified by this note. Noise accidentally speaks the activation word while analysing; no intentional takeover after the opening agreement. Door arc/date precede this later Exchange in the current order.
+
+Keep original prior notes intact as historical provenance; their proposal to put Exchange before the Goddess opening is superseded by the newer ordering. Party composition and exact lasting link remain open. S5 chapters remain unwritten and not authorised by this planning clarification.
+
+## Architect seed — detection, trial and a potentially mistaken vessel interpretation
+
+Creator, 2026-10-16, complete original message:
+
+> okay despues esa semilla va  lamar la atencion del arquitect que continnum lo trajo va a ser mas para como que ser un boss de mazmorra que un verdadero villano o quien sabe cuando consturamos bien su parte ahi vemos pero bueno puede ser que el arquitect detecta una semilla y ya sabemos que el arquitect detesta a jin woo entocnes puede ser que llama mau a la prueba para ver que onda y aqui podemos tener un cruce de info pq el arquitect puede decir you are ment to be a ruler a moonarch and a god y mau pues aqui abrimos un nuevo arco pq tal ves el arquitec se refiere a la semilla pq el arqitect cree que encontro a un vessel con las herramientas dignas de su jefe aunque el arquitect este aun dolido que el monarch lo dejo varado
+
+Planning interpretation, separate from the original:
+
+- Proposed dependency: Exchange -> dormant Monarch seed -> Architect detects the seed -> summons/invites Mau to a test -> information crossing opens another arc. Detection timing, access and information limits remain to define; it is not immediate proof of full Monarch power.
+- Creator proposes Continuum brought the Architect. Whether he primarily functions as a dungeon boss, a true villain or something else remains explicitly undecided. Arrival timestamp, version, capabilities and placement are not yet fixed.
+- Preserve proposed dialogue exactly as supplied: "you are ment to be a ruler a moonarch and a god". This is a proposed character statement, not the narrator declaring Mau's species, origin, destiny or three new power categories. Do not silently promote "ruler" into a verified formal franchise classification.
+- Possible interpretation: the Architect recognises the acquired seed and believes Mau could be a vessel with tools worthy of his master. His assessment may concern that seed rather than Mau's underlying identity; he may misunderstand what he sees. Mau's nature remains unknown.
+- Resentment toward Jin-Woo / feeling abandoned by the Monarch is the creator's proposed motivation. Verify the selected source version, knowledge and source context before final character writing; this note does not independently establish those statements as canon facts.
+- The encounter is a proposed avenue for information and future growth, not permission to give the Architect omniscience about Construction, the Noise, private memories, the Goddess or every ability Mau possesses. Any knowledge must have a demonstrated basis.
+- Do not automatically equate this test with the 100-floor gate, Red Gate, gift event or double dungeon. The creator has not yet assigned that mapping. Their causal relationship, party, stakes, bargain, outcome and aftermath remain open.
+- No new divine appointment, vessel transfer, forced progression, automatic ability unlock, final villain status or story prose is authorised. Preserve the creator's uncertainty and develop the Architect's part together later.
+
+## Architect motive clarification — bringing Ashborn back
+
+Creator, 2026-10-16, exact message:
+
+> tenemos que tener cuidado pq en la historia ashborn va al eternal rest entonces el plan del arquitect es bring him back pq en su deluria puede creer que jin woo es el culpable y quiere traerlo
+
+This refines the Architect concept: his proposed goal is to bring Ashborn back from eternal rest. He may blame Jin-Woo through his own denial or deluded interpretation. Preserve the source outcome the creator identifies; do not rewrite Ashborn as objectively trapped by Jin-Woo, waiting for rescue, secretly requesting reincarnation or consenting to use Mau as a body.
+
+The Architect's belief, what he knows and what actually happened are separate. His proposed use of the seed/vessel is his plan, not proof that a seed contains Ashborn's consciousness or that resurrection is feasible. Do not establish resurrection, possession, Ashborn's return or a final outcome by saving this motive.
+
+Before prose, verify source continuity and choose the Architect's arrival timestamp/version; explain how he learns about events he did not witness, if that version requires it. Earlier speculation that he is simply angry at being abandoned is now refined by this proposed restoration motive, not promoted into omniscient knowledge of Ashborn's wishes. Boss/villain role and gate-event mapping remain open.
+
+This is preserved planning direction only; no chapters or source canon modified.
+
+## Creator event mapping — Architect double dungeon versus accidental Exchange
+
+Creator, 2026-10-16, exact message:
+
+> okay esa es la doble mazmorra y jin woo exchange es otra lista un viaje normal hormiga exchange accidental mau agotado debrief y le dan el verde pq entendieron que fue un accidente y podemos hacer que te noise se disculpe diceindo sorry y mau deque no te preocupes conseguiste mas herramientas verdad y silencio y de la nada yes haciendo que la comunicaicon que consiguieron con la puerta hace que the noise confie mas en mau pero no resolvio todo
+
+### Event identities now clarified by the creator
+
+- **Double dungeon = the Architect arc.** The seed acquired earlier attracts his attention; his proposed restoration plan concerns Ashborn. This supersedes the earlier note that the Architect's event mapping was undecided. His final role, trial mechanics and outcome remain open.
+- **Jin-Woo / shadow ant / accidental Exchange = a separate event.** It begins during a normal dungeon outing, not an Architect trial or deliberate attempt to trigger Exchange. Do not merge it with the double dungeon, Red Gate or 100-floor gate.
+- Causal dependency: the accidental Exchange supplies the seed before the Architect detects it. This does not fix the relative order of the other still-open events.
+
+### Exchange aftermath and renewed trust
+
+Preserve the proposed sequence: normal outing -> ant/shadow -> accidental Exchange -> Mau returns exhausted -> debrief -> green light once they understand the accident. Retain the previously established actual swap, Goddess retrieval and body-capacity/Monarch-seed distinction unless the creator explicitly revises them. The green light is a consensual informed decision after hearing what happened, not retrospective permission for a deliberate self-sacrifice or proof that future outings are risk-free. Exact scope, timing, participants and any practical precautions still need development.
+
+Creator proposes The Noise apologises with **"sorry"**. Mau responds in the spirit of **"no te preocupes, conseguiste mas herramientas verdad"**. There is silence, then **"yes"**. Preserve the pause and understated exchange; final scene language is not locked by this note.
+
+This develops communication/trust established in the opening door arc: The Noise trusts Mau more, can acknowledge an error and answer him. It does not solve every problem, grant normal fluent conversation, prove perfect control or make the accident intentional. Construction, analysis, adaptation and leaks still require their established handling. These later words extend the earlier rare-word history; do not preserve an obsolete absolute claim that it will only ever say "No" and "Exchange". Earlier scarcity remains valid for its earlier date.
+
+Mau's warmth should not erase exhaustion or the value of the debrief. His reference to tools does not mean every acquired pattern is understood, unlocked, safe or immediately usable. The apology is not an independent-person/species reveal; preserve the creator's constructed-defence-mechanism concept.
+
+Status: creator-directed planning clarification. No S5 prose, new ability execution, fluent-Noise unlock or final recovery duration is written here.
+
+## Planning-stage clarification — skeletons first, interwoven arcs later
+
+Creator, 2026-10-16, complete messages:
+
+> okay osea ahorita solo estamos armando los esqueletos para lo de las gates pero falta gregar eso no? osea estamos haceindo el esqueleto les falta la carne el muslo y todo pq no quiero que cuandod e el verde este elyendo y sienta que falte el resto
+
+> y todo esto se esta guardadno en github verdad para que claude tmb lo pueda ver
+
+> si osea te esoty preguntando si estamos haciendo el esqueleto o creias que stamos haciendo los arcos completos?
+
+> y agregar los arcos sobrelapando y todo lo que sucede como le hacemos verdad osea ahorita solo te estoy dando ideas y leugo agregamos mas y asi?
+
+Explicit working agreement: these are idea intake and event skeletons, not complete arcs or a finished season outline. Continue accepting additions and developing them together. Later braid/overlap the arcs, rather than assuming every event finishes before the next starts. Establish dependencies, chronology, character knowledge, progression, household roles, individual relationships, outside-world developments, trade/technology, comedy, peaceful life, consequences and breathing room as actual narrative material. Do not defer all ordinary life to an optional appendix or whatever space remains after dungeon set pieces.
+
+Before S5 prose approval, assemble and review the integrated season development, identify missing pieces and reconcile existing continuity. The creator's future green light must not be treated as approval to write only the gate skeletons while dropping the rest of this packet. No chapter production is authorised now. Shared GitHub notes are the handoff for Claude; distinguish local save from verified push.
+
+Creator follow-up, same day:
+
+> entocnes lo de la doble mazmorra no quedaria cerrado como te lo di sino es una base y de ahi falta hacer el resto no?
+
+Confirmed working interpretation: the Architect/double-dungeon proposal is a base, not a closed arc. Approach, party, tests, discoveries, decisions, climax, outcome, aftermath and parallel household/world developments remain to build together. Preserve the proposed motive and uncertainty without treating the missing middle or ending as already settled.

@@ -45,3 +45,15 @@ The opening arc is detailed in `S5_OPENING_DOOR_CREATOR_FULL_PROPOSAL_2026-10-14
 6. **the date**
 7. Jin-Woo beats and the Red Gate, with the monster ramp-up and dungeon evolution
 8. the summer
+
+## S5 expanded planning agenda — world, gates, roles, trade and evolution (creator, 2026-10-16)
+
+[Full creator proposal, expanded worklist and V26 compatibility notes](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). Adds Mau/Sukuna talk; household roles; external gates/100 floors/Red Gate restrictions/System reward; private power roster; evolution discussion; Mau upgrades; multi-city trade/transport/ink secrecy; relocation reward; house/tree/crystal utilities/culture; coins and possible antagonist cooperation. This is a planning list, not final chronology or S5 prose approval. Preserve V26's already built perimeter and existing limited trade; no S4 retcon.
+
+## S5 gate-event mapping clarified — Architect and Exchange (creator, 2026-10-16)
+
+See [the full proposal and latest event-mapping clarification](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). **Double dungeon = Architect / proposed Ashborn-restoration arc. Accidental Exchange = a separate normal dungeon outing with the shadow ant**, followed by exhaustion, debrief, an informed green light and the proposed Noise "sorry" / pause / "yes" trust beat. Exchange supplies the seed before the Architect detects it. The door encounter enabled growing communication; it did not resolve every problem. Earlier undecided mapping and absolute two-word limits are historical, not current restrictions. Other event ordering remains open; no S5 prose authorised.
+
+## S5 working stage — creator clarification, 2026-10-16
+
+We are collecting ideas and building **event skeletons**, not complete arcs. More ideas will be added; arcs later overlap and connect with household life, relationships, world changes and consequences. The full season must be developed and reviewed before prose approval. Read the latest planning-stage clarification in [the complete expanded S5 packet](S5_WORLD_GATES_HOUSEHOLD_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md). Do not use the old short order list as an exhaustive season outline or discard the non-gate development.

@@ -84,3 +84,39 @@ Preserve the complete raw message and its emotional/comic beats. Develop the rea
 Open mechanics must be resolved without rewriting the broad intent: time awareness/exit rules; exact scope of Continuum restrictions; controlled-wall duration/cost; bracelet recovery thresholds versus levels; key destination and entry; which gate relocates; first-floor Arise placement; finite shadow resource; scope of equipment appraisals; levitation haul; secrecy and Architect knowledge. Neither every open question nor every macro fight needs a separate subplot.
 
 This is still skeleton-building with more detail, not a fully developed arc, approved full season or command to write S5. Do not omit trade, household roles, world evolution, relationships or ordinary life merely because this message concentrates on gates. Apply the all-cast continuity rule without forcing everybody into every chapter or battle.
+
+## Creator season shape — summer-long tower and double-dungeon finale
+
+Creator, 2026-10-16, complete original messages:
+
+> claro y encima todo lo que ya veniamos planeando entonces tenemos un buene suqeleto ya faltaria ver cuanto tiempo mau se tarda en completar lo del 100 pisos puede ser todo el verano en lo que disfruta algunos le dicen que hoy no lo limtian para que nos e cance y asi y la verda quiero asi q los bosses sean las sombras favoritas mias de jin woo entonces mau no tendra una mega amplia bolsa de sombras pero si una 100 como jin woo al final de s2 tal ves mau comienza con solo diez y conforme sube los nivels y mejora puede obtener mas pero esos puntos se consiguen subiendo de nivel o haciendo misiones secundarias y me gustaria ver que le intenta poner haz esto o se te para el corazon y solo se escucha la rueda mover y el emnsaje cambia a que recibira extar puntos para sus habildades
+
+> haciendo que el final de temporad aya rco sea el de la doble mazmorra y ya tenemos lo de sukuna dandonos mucho para s6
+
+### Revised seasonal pacing — interwoven, not a dungeon rush
+
+- The100 floors may take **the whole summer**. Exact duration remains to plan; preserve enough time for Mau to enjoy life and for all the prior S5 agenda, not just dungeon ascents.
+- The creator requests some days when others tell him "not today" and limit activity so he does not exhaust himself. Develop this through relationships, agreed care and his own choices, consistent with the already established agency/guardrails. Do not automatically turn it into a household veto on every decision, a new fight about choosing for him or evidence he refuses all rest.
+- **The Architect double dungeon is now intended as the S5 finale / closing arc**, after completing the100 floors. Its actual tests, final confrontation, outcome and aftermath remain unwritten. Do not imply a resolved Ashborn resurrection, a defeated Architect or a particular cliffhanger.
+- This supersedes any older shorthand that placed all gate events before a later separate summer block. Summer relationships, home reorganisation, trade/world growth, culture and the tower can overlap, with smaller arcs and breathing space. The Red Gate still precedes the tower; its one-week/one-hour ratio is not automatically the tower's clock.
+- The Sukuna line supplies material for **S6**. Preserve his proposed conversation/evolution/possible coalition development without inventing S6 plot, a confirmed alliance, the identity behind Pell or a next-season prose outline. S6 construction is not authorised here.
+
+### Shadow roster and progression — finite and personal
+
+- The creator wants tower bosses associated with **his favourite Jin-Woo shadows**. Exact favourites, identities, versions, order and floors have not yet been named. Do not choose them for him or assume every familiar shadow is already obtainable.
+- The desired roster scale is **around100**, not an enormous unlimited army. A possible starting allowance is **ten**, growing through levels and development. These figures are planning targets, not fully balanced mechanics or automatic rewards already possessed.
+- Clarify later whether ten/100 refer to stored roster, simultaneous summons or both; reserve, upkeep, command/control, extraction success and available resources still matter. Do not give100 fully powered summons at Arise unlock or duplicate the same soul by assumption.
+- Points come from levelling and/or side quests, as requested. The exact relationship between skill/stat points, shadow capacity, unlocking skills and the already proposed unspent-point build strategy remains to define. Do not silently create separate interchangeable currencies or assign a final build.
+- The comparison "como jin woo al final de s2" is the creator's intended scale/reference, not a source count independently verified in this note. No Black Heart/infinite shadow resource is granted; preserve the finite separate shadow-energy premise.
+
+### Coercive quest / wheel / reward-message scene
+
+Preserve the proposed moment: the System threatens **do this or your heart stops**; the wheel is heard moving; the message changes to offer **extra ability points** instead. Final wording, quest, timing and responsible mechanism are not specified.
+
+This is a scene seed, not a blanket grant that the wheel rewrites all interfaces or understands rules/intention. Existing role lock remains: the wheel adapts to harm; it is not the observing/analyzing/desiring/speaking component. Develop whether a real attempted cardiac effect triggers adaptation, what it costs and whether the System changes its offer in response or the Noise modifies an analysed mechanism. No actual cardiac arrest, successful completed adaptation, admin control, universal immunity, cost-free forced farming or ability to veto any future consequence is fixed by this macro beat. Preserve the creator's intended visible outcome while grounding the route when the scene is built.
+
+The point is a coercive instruction becoming a reward-based offer, not another personality in the wheel or the elimination of danger/limited resources. Track how this interacts with the Architect's plan and the Noise's gradual integration without granting omniscient knowledge before the characters obtain it.
+
+### Still a developing skeleton
+
+All prior proposed arcs remain active: opening door/care/briefing; delayed anniversary dinner and normal grimoire trip/Exchange; Red Gate; household roles and relationships; visible adaptation; private power roster; gate upgrade/relocation; trade, ink secrecy and world gates; home/crystal utilities/cultural projects; future coins/arrivals under review; Sukuna conversation/evolution; summer activities and family/fort days. Listing them does not implement each one, fix order or collapse them into tower rewards. Build the integrated season before prose approval.

@@ -86,10 +86,10 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 | Frieren | Centro existente | 20 | 24 | 24 | 23 | 28 | 24 | 15 | V25 #29 | Preservar magia, iniciativa y vínculos propios además de la pareja; revisar Fern. |
 | Fern | Por decidir con el creador | 18 | 23 | 25 | 20 | 23 | 27 | 17 | V25 #29 | Separar agencia y vida propia del ledger; conservar Fort, Stark y reciprocidad con Frieren. |
 | Stark | Por decidir con el creador | 2 | 8 | 5 | 11 | 10 | 5 | 10 | V25 #27 | Revisar deseos y relaciones que no sean únicamente acompañar a Fern o luchar al frente. |
-| Rimuru | Por decidir con el creador | 23 | 22 | 24 | 20 | 24 | 22 | 12 | V25 #29 | Conservar al hermano/compañero más allá de retransmitir Ciel y resolver infraestructura. |
+| Rimuru | Protagonista coral confirmado por el creador; foco rotativo | 23 | 22 | 24 | 20 | 24 | 22 | 12 | V25 #29 | Conservar al hermano/compañero más allá de retransmitir Ciel y resolver infraestructura. |
 | Ori | Familia central; presencia insuficiente percibida, revisar | 12 | 9 | 8 | 6 | 10 | 10 | 9 | V25 #24 | Mantener deseos, amistades y decisiones propias además de la preocupación por Mau. |
 | Milim | Por decidir con el creador | 13 | 16 | 13 | 12 | 18 | 12 | 7 | V25 #29 | Sostener familia y juego además de rescates y fuerza; sus momentos no requieren crisis. |
-| Yuta | Por decidir con el creador | 15 | 12 | 10 | 14 | 28 | 12 | 2 | V25 #27 | Revisar continuidad del hermano mayor, pareja, abuelo y amigo tras su bloque fuerte. |
+| Yuta | Protagonista coral confirmado por el creador; foco rotativo | 15 | 12 | 10 | 14 | 28 | 12 | 2 | V25 #27 | Revisar continuidad del hermano mayor, pareja, abuelo y amigo tras su bloque fuerte. |
 | Maki | Por decidir con el creador | 15 | 11 | 8 | 10 | 22 | 5 | 2 | V25 #24 | Revisar iniciativa propia y amistades después de Yuka; no reducirla a contener crisis. |
 | Umaru | Por decidir con el creador | 11 | 24 | 17 | 17 | 16 | 10 | 6 | V25 #21 | Conservar presidenta, hermana y joven con necesidades propias además del gag del Fort. |
 | Coco | Por decidir con el creador | 7 | 14 | 13 | 3 | 4 | 12 | 0 | V25 #29 | Comprobar continuidad después del arco de su madre y su pertenencia al atelier y familia. |
@@ -165,3 +165,15 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 - [Dudas Fern/Frieren y roles de casa](S5_FERN_FRIEREN_CHARACTER_AND_BOND_OPEN_QUESTIONS_2026-10-16.md).
 
 No modificar S4 por este mapa. No añadir personajes, elegir nuevas monedas, asignar equipos ni escribir S5. Completar gradualmente las fichas individuales con el creador.
+
+## Creator clarification — primary protagonists and ensemble protagonists
+
+Creator, 2026-10-16, exact message:
+
+> okay pq mira la verdad el prota es mau pero como aclaro no siempre tiene que aparecer ye so esta bien frieren tambien es prota osea la historia es de ellos pero eso no quita que yuta rimuru y el resto tmb sean protas me epxlique?
+
+Mau is the primary protagonist. Frieren is also a protagonist; their story is the central axis. This does not require Mau's physical presence in every chapter, arc or important event. Yuta and Rimuru are explicitly named as protagonists within an ensemble that can sustain its own conflicts, viewpoints, choices and consequences. They are not merely helpers in Mau's scenes. Other ensemble-protagonist assignments will be developed with the creator; "el resto" does not automatically promote all33 unclassified people or overwrite his supporting-character list.
+
+Keep distinct: main narrative axis, ensemble protagonist, rotating local focus and recurring supporting character. Protagonist status does not guarantee equal page count or continuous presence. A supporting character can lead a chapter/arc/season when appropriate without automatically acquiring a permanent protagonist classification. Preserve independent relationships and ordinary life; no demand that every plot connect through Mau.
+
+The creator has asked to finish breaking down his perceptions before starting the deeper relationship review. Bocchi/Mau and Umaru/Mau are examples to preserve for that later review: bonds remain real off-page, but their visible continuity may need work in S5. Do not retcon S4 or start a repair pass now.

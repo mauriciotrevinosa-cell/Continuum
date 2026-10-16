@@ -73,3 +73,7 @@ The date now has a requested simple romantic dinner, discreet high-end food/wine
 ## Creator cast classification — supporting does not mean absent (2026-10-16)
 
 See [the full creator classification and updated individual map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md). The creator names recurring supporting characters/groups while preserving the possibility of a chapter, arc or season centred on any of them. Mai explicitly needs more presence; Himmel's loss of focus and Ori's perceived S4 absence are concerns to examine, not orders to relegate them. Combat usefulness does not determine narrative value; Kessoku need not fight a titan to matter. Remaining people are still unclassified, not automatically leads. No S4 retcon or S5 prose.
+
+## Narrative centre and ensemble — creator, 2026-10-16
+
+Mau is the primary protagonist; Frieren is also a protagonist and their story is the central axis. Yuta and Rimuru are explicitly protagonists too within the ensemble. Mau need not appear for their stories or other characters' chapters to matter. Do not confuse a central axis with exclusive protagonism, or a secondary role with lack of agency. Other individual classifications remain in discussion; preserve the supporting-cast list. See the complete clarification in [the cast map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md). The creator is still breaking down his concerns; deeper relationship review and any S5 prose wait.

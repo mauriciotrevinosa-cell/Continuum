@@ -232,3 +232,23 @@ The creator loves the wider cast. Supporting characters remain necessary, relati
 Shoko is still being integrated; her current spotlight need may change later. The same evolving approach applies to the cast as a whole: classify current narrative weight, open needs and chosen life separately, then revisit when arcs develop. A supporting character can become central, a lead can settle into support, and someone can matter deeply without fighting. No permanent exclusion, quota, disposable-person category or blanket future plot is implied.
 
 This completes the creator's first pass of the current60-person sorting, with Witch Hat's tentative branch explicitly unresolved. It does not complete the requested individual relationship/agency audit or authorise starting that deferred review without the creator's direction. No S4 edits, new arrivals, teams or S5 chapters are written.
+
+## Universal creator rule — rotating focus never pauses the rest of the cast
+
+Creator, 2026-10-16, complete clarification sequence:
+
+> si osea si tenemos un aroc de solo witch hat encabezando no esta mal es un ejemplo pero en si el nucleo es este
+
+> bueno tampoco quiero que mau ni fireren desaprezcan es a lo que voy tal ves no son el eje del aroc pero nadie desaparece me explique
+
+> y dice versa si mau es el prota de un arco no signifca que los de witch hat desaparezca
+
+> y esto va para todos okay?
+
+**Applies to the entire cast, in both directions.** An arc can centre on Witch Hat, Mau, Frieren or anyone else without suspending other characters' lives and established relationships. The habitual19-person core is an orientation, not a gatekeeping rule. Supporting roles, completed arcs and deferred personal threads never justify narrative disappearance until a character is useful again.
+
+Maintain visible continuity across an arc through ordinary life, independent relationships, brief meaningful participation, activities in parallel, consequential choices or context appropriate to where each person actually is. Mau/Frieren must remain part of the lived ensemble when another group leads; the wider cast must remain alive when Mau/Frieren lead. Leads need not solve other people's arcs. Do not reduce continued presence to a name-only roll call, repetitive reaction shots, obligatory emergency tasks or a statement that everything happens off-page.
+
+This does not demand all60 people in every chapter, equal page counts, forced participation in danger, interference with intentional absence/distance, or new subplots for everyone. Respect actual location, chosen privacy, travel and intentional departures; acknowledge and carry their consequences rather than forgetting them. Review individuals and existing bonds across movements before accelerating the next main plot.
+
+This is the creator's general narrative rule for the ensemble, including future additions, not a quota or an instruction to rewrite S4 now. Preserve the earlier guardrail's substance while following this explicit clarification for S5 planning.

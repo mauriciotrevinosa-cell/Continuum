@@ -85,3 +85,7 @@ Mau is the primary protagonist; Frieren is also a protagonist and their story is
 ## Current spotlight ensemble is revisable — creator, 2026-10-16
 
 Read [the latest complete creator clarification and individual map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md). The19 remaining names form his preferred habitual spotlight ensemble now, with Mau/Frieren the central axis. This is not permanent or exclusive. Witch Hat remains tentative; all supporting cast may lead chapters, arcs or seasons. Maomao is an example of a satisfying supporting role with meaningful moments; Shoko's current integration needs can evolve. Never use labels to declare people unnecessary or forbid their future spotlight. The first sorting pass does not finish the individual relationship audit or authorise S4 repairs/S5 prose.
+
+## Universal ensemble continuity rule — creator, 2026-10-16
+
+**For everyone, in both directions: rotate focus, never pause the rest of the cast.** Witch Hat can lead an arc while Mau/Frieren remain part of lived family life; Mau can lead without Witch Hat or anyone else disappearing. Preserve relationships, ongoing activities and meaningful recurrence across arcs, not equal page counts or every person in every chapter. Respect chosen distance/location and do not force noncombatants into danger to justify their existence. See the complete creator clarification in [the cast map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md). No S4 retcon is authorised.

@@ -61,6 +61,10 @@ Rules:
 
 > **Story quality > page quotas.**
 
+### S5 reading rhythm — creator clarification, 2026-10-16
+
+Prefer more short chapters than long chapters, with natural stopping points so the reader can pause and resume without losing the scene. Preserve lived time and full prose: equivalent S4-length material may span two or more S5 chapters where scene/activity/POV/emotional units permit. No arbitrary mid-conversation cuts, compression, mandatory cliffhangers or filler to meet a count. Longer chapters remain valid when needed. More chapters and, if actual content requires, more volumes are welcome; count words/story units before estimating volumes. This does not retrospectively split/renumber the published S4 corpus. [Full creator message and application](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md).
+
 ---
 
 # 3. Not every episode must advance the main plot

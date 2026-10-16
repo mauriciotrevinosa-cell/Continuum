@@ -1,5 +1,8 @@
 # S5 — propuesta integrada de temporada v0.3
 
+> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline: tower rules/stages, Architect outcome, progression endpoints and selected world/arrival developments remain open.
+
+
 > **Ampliación posterior, 2026-10-16:** [tronco afectivo de Mau y petición completa de un día cotidiano](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md); [A Day at Home, borrador independiente](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md). Única excepción solicitada al estado de planificación: este día completo para revisión, sin asignación a volumen, canon o lector. No es verde para redactar el resto de S5. Un capítulo cuenta una vez dentro del verano y no sustituye las promesas/citas diferenciadas.
 
 
@@ -187,3 +190,11 @@ Corrección de lectura editorial: el posible agujero negro de Frieren contra Suk
 **C, horizonte:** algunas naciones se coordinan y reclutan otherworlders convencidos de proteger el mundo. Es siembra para S6, no inicio de guerra S5. Thomas Andre es candidato de escala; Serie tentativa. No llegada/bando/poder automático, identidad del encapuchado/amenazador Pell o mando de Sukuna asumidos. Comercio y hostilidad pueden involucrar grupos distintos. Mau no conoce reuniones lejanas por pensar en el riesgo.
 
 **C, tiempo:** toda S5 es el verano, unos cuatro meses exteriores ampliables. Mantener semana interna/hora externa roja y relojes de torre por separado. **P, extensión:** unas8 entregas de volumen/240 capítulos, con rango7–9/200–270 en el formato actual; estudio, vida/mundo y siembras ya están contados dentro de esa horquilla. La guerra completa S6 y todas las llegadas candidatas no se suman como aprobadas. Detalle y pendientes en la [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md).
+
+## Fern y ritmo corto — integración posterior del creador
+
+[Propuesta íntegra](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). La rama de roles ya tiene núcleo Fern: no pierde puesto/autoridad ni lugar afectivo; comparte ejecución y recibe tiempo/elogios de Frieren. Rechazar la etiqueta de hermana no la excluye del grupo. Ubicar la conversación tras paz suficiente y verla funcionar después; Momo/Jinshi conservan decisiones propias. El gag de Gojo llega tras respirar la emoción, no la cancela.
+
+Cada movimiento puede abrirse en más unidades de lectura, con predominio de capítulos cortos y largos sólo donde convenga. Preservar aventura, convivencia, recuperación y transiciones; sin cuota ni cliffhanger obligatorio. Más escenas útiles pueden ampliar volúmenes; más cortes por sí solos no cambian cantidad de historia. El anterior/~240 es histórico del formato largo, no una cifra a defender.
+
+Antes del outline final aún elegir etapas/reglas de torre y sombras, desenlace Arquitecto, endpoints de recuperación/evolución, fases vividas de mundo/casa y semillas/llegadas activadas. No son arcos nuevos por agregar. La [lectura dividida del día independiente](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md) es la única aplicación de prosa ya solicitada, no verde para el resto de S5.

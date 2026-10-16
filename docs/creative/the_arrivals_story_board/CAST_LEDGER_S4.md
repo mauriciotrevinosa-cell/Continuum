@@ -329,3 +329,7 @@ Day171–172 and Day218–219 titan alerts reach Mau as well as Rimuru. Mau part
 ## Creator cast classification — supporting does not mean absent (2026-10-16)
 
 See [the full creator classification and updated individual map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md). The creator names recurring supporting characters/groups while preserving the possibility of a chapter, arc or season centred on any of them. Mai explicitly needs more presence; Himmel's loss of focus and Ori's perceived S4 absence are concerns to examine, not orders to relegate them. Combat usefulness does not determine narrative value; Kessoku need not fight a titan to matter. Remaining people are still unclassified, not automatically leads. No S4 retcon or S5 prose.
+
+## S5 planning clarification — Fern and reading rhythm (not a canon-state change)
+
+[Full direction](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern declining little-sister status does not remove her from the girls/Fort or change her independent family bond with Mau. Proposed S5 development keeps her in charge while sharing execution and makes time/praise/care with Frieren explicit. No completed reassignment or retroactive S4 motive is recorded here. Existing rooms, posts and last real scenes stay. [Four-part reading of Mau's standalone draft](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md) preserves the whole day and assigns no production chapter IDs.

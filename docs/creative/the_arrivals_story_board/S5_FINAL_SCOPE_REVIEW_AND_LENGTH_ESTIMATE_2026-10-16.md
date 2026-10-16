@@ -1,5 +1,8 @@
 # S5 — última revisión de alcance y estimación provisional de extensión
 
+> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline: tower rules/stages, Architect outcome, progression endpoints and selected world/arrival developments remain open.
+
+
 > **Pedido posterior del creador:** [un día completo de Mau y sus vínculos](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md), con [borrador independiente para revisión](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md). Cuenta una vez dentro de la convivencia del verano ya estimada; no suma otro arco/volumen ni autoriza toda S5. El cálculo de extensión sigue provisional y el capítulo aún no tiene posición definitiva.
 
 
@@ -59,14 +62,14 @@ Resultado: el mapa macro tiene cobertura suficiente para una primera estimación
 | Torre como historia | Unidades de ascenso, hitos/favoritos, equipos/rotaciones/solo, descansos y checkpoints | Cien pisos no son cien capítulos; tampoco un montaje sin experiencias |
 |100% y ejecución | Quién llega a recuperar su base y qué evolución —si alguna— veremos; situación medible propia de Mau | No necesita61 números inventados para estimar; sí fichas fiables de quienes ejecuten capacidades importantes |
 | Reglas de gate | Persistencia/owner/reentrada/reloj/reset, Arise y dragón rojo previo, límites sombra; temporalidad de restricciones de roja vs recuperación estable | Evita que una regla resuelva gratis obstáculos o obligue a rehacer secuencias |
-| Cambios personales | Qué conservan/ceden/eligen Fern/Momo/Jinshi; aporte de Yuka tras roja; continuidad elegida de Himmel/Witch Hat y otras personas | Reorganizar tiene escenas y consecuencias, no sólo una reunión. La gran idea de cambio de Fern anticipada por el creador aún no está descrita |
+| Cambios personales | Qué conservan/ceden/eligen Fern/Momo/Jinshi; aporte de Yuka tras roja; continuidad elegida de Himmel/Witch Hat y otras personas | Reorganizar tiene escenas y consecuencias, no sólo una reunión. La dirección afectiva de Fern ya se concretó posteriormente; quedan coberturas/ejecución, no volver a pedir su idea desde cero |
 | Mundo/industria | Primeras fases de comercio/transporte/tinta y proyectos que realmente funcionan; coste/ritmo de shop/frío/cultura | No estrenar simultáneamente toda la lista ni borrar avances previos |
 | Llegadas activadas | Cuáles de las candidatas se desarrollan esta temporada | Una llegada con arco propio puede ampliar mucho más que un cameo; la estimación base no las activa todas |
 | Mau/S6/información | Hasta dónde avanza su ambición reservada y qué indicios de reclutamiento ve lector/casa al cierre | Sembrar no equivale a desarrollar la guerra, su plan secreto o la revancha completa |
 
 La conversación Sukuna/voto/cruce protector y los términos de la diosa requieren concreción antes de prosa, pero ya tienen una función y escena propuestas: no hay que pedirlas otra vez desde cero. El catálogo exacto, cada descanso y nombres de todos los secundarios no impiden dar un rango provisional ahora.
 
-## Estimación — formato real del proyecto, no cuota aprobada
+## Estimación histórica — formato S4; conteo superado por la preferencia posterior de capítulos cortos
 
 **Recomendación provisional: preparar espacio para8 volúmenes, alrededor de240 capítulos. Rango de trabajo:7–9 volúmenes y aproximadamente200–270 capítulos.** Más o menos es posible si cambian los finales, llegadas o tamaño de capítulos; no se añaden escenas para alcanzar la cifra.
 
@@ -107,3 +110,9 @@ Lo importante que falta es desarrollar medios, elecciones y consecuencias de lo 
 [Plan integrado](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md), [auditoría previa](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md), [dirección S5](S5_CREATOR_DIRECTION_2026-10-14.md), [relaciones](S5_RELATIONSHIP_CONTINUITY_PLAN_2026-10-16.md), [reparto](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md), [progresión](S5_POWER_TRAINING_AND_PROGRESSION_PLAN_2026-10-16.md), [ideas flotantes](FLOATING_IDEAS.md), [preguntas históricas](OPEN_QUESTIONS.md), [cronología de trabajo](SERIES_TIMELINE_ESTIMATE_2026-10-07.md), [registro histórico de sistemas](SYSTEMS_REGISTRY_AND_LOOSE_THREADS_2026-10-10.md).
 
 Fuentes históricas leídas sin editar: [Future Ideas Board](sources/THE_ARRIVALS_FUTURE_IDEAS_BOARD_v0.1.md), [Future Cast/Relationships](sources/THE_ARRIVALS_FUTURE_CAST_RELATIONSHIP_AND_ADAPTATION_SEEDS_v0.1.md), [G5/S4 handoff](sources/THE_ARRIVALS_S3_G5_CAST_RING_AND_S4_HANDOFF_v0.1.md). Las instrucciones posteriores del creador y prosa actual prevalecen sobre sus estados antiguos. El apartado de evidencia interna V26 de otros documentos no se adelanta en la respuesta al creador.
+
+## Reestimación tras el nuevo ritmo de lectura
+
+Ver [dirección completa](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). El presupuesto anterior mide una extensión aproximada usando capítulos del tamaño observado de S4. Cambiar a capítulos cortos aumenta unidades de lectura sin aumentar automáticamente palabras/volúmenes. El creador acepta más capítulos y, si contenido/desarrollo lo requiere, más volúmenes; no existe techo obligatorio de7–9 ni cifra nueva cerrada.
+
+Primero desarrollar los cinco frentes pendientes del paquete y entrelazar convivencia/aftereffects; luego colocar cortes naturales y estimar palabras por volumen. No partir todo mecánicamente por dos ni sumar de nuevo presupuestos de relaciones. La [versión corta del día de Mau](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md) ofrece un ejemplo: la misma prosa en cuatro unidades de aproximadamente1.100–1.500 palabras; cuatro cortes editoriales, no cuatro días/eventos adicionales ni nuevos capítulos canon asignados.

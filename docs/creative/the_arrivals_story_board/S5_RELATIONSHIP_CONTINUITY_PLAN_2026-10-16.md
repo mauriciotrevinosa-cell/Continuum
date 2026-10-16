@@ -98,7 +98,7 @@ Fuentes: [registro vigente](CAST_LEDGER_S4.md), [regla de presencia](S3_CHARACTE
 
 S5 transcurre unos cuatro meses exteriores, ampliables. La ambición privada de Mau de llegar a ser el más fuerte coexiste con disfrute auténtico: [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md). No convertir cada escena afectuosa en máscara, cada ausencia en entrenamiento o toda la familia en oposición al progreso. Qué reserva mental llega a afectar confianza/decisiones se desarrolla si ocurre; no se ha escrito una nueva ruptura.
 
-Para cerrar outline elegir resultados vividos de rolesFern/Momo/Jinshi, deseo propio de Yuka y transiciones que se activen. No confundir el cambio importante de Fern aún pendiente del creador con una rota ya aprobada. Las celebraciones/promesas están diferenciadas; continuidad después de cada una es parte del verano, no otros cuatro arcos obligatorios. Propuestas de conexiones y estimación sin doble conteo en la [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md).
+Para cerrar outline elegir resultados vividos de rolesFern/Momo/Jinshi, deseo propio de Yuka y transiciones que se activen. La dirección afectiva de Fern ya fue aportada después por el creador: conserva su lugar y comparte carga; eso no fija todavía la rota concreta. Las celebraciones/promesas están diferenciadas; continuidad después de cada una es parte del verano, no otros cuatro arcos obligatorios. Propuestas de conexiones y estimación sin doble conteo en la [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md).
 
 ## Tronco cercano de Mau y jornada completa — petición posterior, 2026-10-16
 
@@ -109,3 +109,9 @@ El creador pide un día literal, no sólo sus ejemplos: despertar, Ori trayendo 
 El mapa reúne25 perfiles cercanos con evidencia/lock/propuesta separados y vínculos adicionales agrupados sin excluirlos de la familia. No se presenta como auditoría semántica terminada de61 personas. Antes de cada cierre de volumen comprobar intercambio sustantivo, elección, estado mutuo y siguiente continuidad; dos volúmenes sin escena son señal de revisión, no orden de cameo. Un capítulo coral no paga todos los vínculos para el verano.
 
 La excepción de escritura es sólo este borrador solicitado, sin número, fecha, publicación en el lector ni cambio de S4. Colocarlo tras recuperación compatible con el esfuerzo doméstico/prácticas. No cumple automáticamente el día Mau/Ori/Frieren, fort, Queen2 o las citas prometidas. Los demás arcos S5 siguen en desarrollo, sin verde de producción completa.
+
+## Fern conserva el puesto y gana tiempo querido — dirección posterior
+
+[Mensaje íntegro y desarrollo](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Rechaza ser hermana pequeña, pero convive con ellas/Fort; puede cuidar de Mau/Frieren y agradecer que él asuma despertar a Frieren sin perder su vínculo. Fern quiere elogios/tiempo/atención de Frieren. Su apego al puesto puede incluir ese deseo, junto con responsabilidad real. Sigue encargada; se delegan partes de trabajo/cuentas, no se retira autoridad ni se condiciona afecto a rendimiento.
+
+Frieren acepta «sigo siendo la encargada» y afirma que la quieren por ella. El gag Gojo/dos Zoltraaks que no alcanzan por Infinity/Shoko queda después del espacio emocional. Desarrollar ayuda competente, tiempo compartido y consecuencias posteriores. No rivalidad con Ori, expulsión de las chicas ni crisis nueva. El criterio de lectura también cambia: predominan capítulos más cortos con cierres naturales; un contenido puede distribuirse sin resumirse ni contar dos veces su presupuesto.

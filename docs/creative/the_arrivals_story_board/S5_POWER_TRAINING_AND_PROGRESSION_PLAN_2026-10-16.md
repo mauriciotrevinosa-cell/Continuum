@@ -1,5 +1,8 @@
 # S5 — análisis, entrenamiento y progresión v0.1
 
+> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline: tower rules/stages, Architect outcome, progression endpoints and selected world/arrival developments remain open.
+
+
 **Fecha:** 2026-10-16. **Estado:** plan de trabajo, no roster completo ni números aprobados. [Temporada integrada](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md).
 
 ## Cadena completa

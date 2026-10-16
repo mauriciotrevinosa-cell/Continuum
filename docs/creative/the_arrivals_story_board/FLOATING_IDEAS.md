@@ -1,5 +1,8 @@
 # The Arrivals — Floating / Unplaced Ideas
 
+> **Latest S5 development, 2026-10-16:** [full creator message: Fern keeps her place, shares work and receives Frieren's care; shorter chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). This supplies the earlier undisclosed Fern idea. Old chapter counts require recalculation; no whole-season greenlight. [Read the same Mau day in four shorter parts](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md), with its complete original preserved.
+
+
 > **Latest creator addition, 2026-10-16:** [Mau's close bonds and full-day instructions](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md); [standalone A Day at Home draft](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md). Preserve the exact floating-Milim/ribbon clarification and the wider daily-life request. Supporting narrative status does not remove emotional closeness. This single requested draft is not canon, a completed61-person audit or a production greenlight for S5.
 
 

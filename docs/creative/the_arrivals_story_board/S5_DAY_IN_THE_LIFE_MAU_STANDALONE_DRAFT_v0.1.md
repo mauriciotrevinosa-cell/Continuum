@@ -1,5 +1,8 @@
 # The Arrivals — A Day at Home
 
+> **Shorter reading version, 2026-10-16:** [read this same complete day in four shorter units](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md), following the [creator's latest preference](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). All original prose below is preserved. These reading breaks do not assign canonical S5 chapter numbers.
+
+
 **Status:** STANDALONE S5 DRAFT FOR CREATOR REVIEW — NOT CANON / NOT ASSIGNED TO A VOLUME.
 
 **Scope:** One complete ordinary summer day, requested separately during planning. This does not open production of S5. Placement remains provisional, after a recovery that permits the depicted household effort as well as the short practices. No new medical clearance, ability, recovery percentage, household rota or dungeon outcome is established here.

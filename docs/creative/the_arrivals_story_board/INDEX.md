@@ -1,5 +1,8 @@
 # The Arrivals — Story Board Index
 
+> **Latest S5 development, 2026-10-16:** [full creator message: Fern keeps her place, shares work and receives Frieren's care; shorter chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). This supplies the earlier undisclosed Fern idea. Old chapter counts require recalculation; no whole-season greenlight. [Read the same Mau day in four shorter parts](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md), with its complete original preserved.
+
+
 > **Latest S5 relationship entry, 2026-10-16:** [Mau's close-bond map and full creator messages](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md) · [A Day at Home — standalone full-day draft](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md). The creator specifically requested this ordinary-day draft during planning. It has no canon date/volume or reader publication and does not open full S5 production. Earlier statements that S5 is unwritten now have this narrow draft exception.
 
 

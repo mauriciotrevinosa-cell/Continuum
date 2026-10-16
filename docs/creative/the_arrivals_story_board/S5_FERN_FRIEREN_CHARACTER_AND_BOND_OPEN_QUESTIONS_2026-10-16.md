@@ -1,5 +1,8 @@
 # S5 — Fern as a character and Fern/Frieren's relationship: preserved doubts
 
+> **Current creator direction, 2026-10-16:** [full message and development](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern retains her place/authority, shares execution and wants Frieren's particular care/praise; declining the sister label does not remove her from the girls/Fort. This supplies the earlier undisclosed change. The older questions below remain provenance; wording that the creator has not yet explained the change is superseded. No S4 rewrite or completed in-world reassignment.
+
+
 Date: 2026-10-16
 Status: CREATOR-REQUESTED PLANNING QUESTIONS / OPEN / NOT AN APPROVED REWRITE
 Scope: revisit during S5 planning; no chapters or current canon changed.
@@ -87,3 +90,11 @@ This expands the future planning question to the household structure. S4 remains
 ## Later chronology check — 2026-10-16
 
 The old six-month S4 cap mentioned in prior chronology notes was already relaxed by DH-053 and the amended S4 season plan. There is no new cap/day-stamp contradiction to solve by compressing or retconning chapters. Absolute dates, anniversary label and lengths of responsibilities still require careful anchors. Latest creator frame: S5 is roughly four expandable summer months. See [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md). Fern's anticipated important change remains creator-pending, not solved by this calendar correction.
+
+## Latest direction now supplied — sharing responsibilities without losing her place
+
+The [full creator message](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md) supplies the emotional progression: Fern can care for Mau and Frieren like two adults who need looking after, appreciate Mau taking over things such as waking Frieren, and still want Frieren's time, praise and pampering. Her reluctance to leave the post may include wanting that attention; this does not erase her competence or make earlier work a deliberate purchase of affection.
+
+Fern remains in charge while others take parts of the records/accounts/work. Frieren explicitly agrees and wants her to enjoy the people who love her for herself. The girls/Fort and Stark remain, without making Fern adopt the little-sister title. Show reciprocal care and later time together, not just one speech or an administrative demotion. Preserve the two-Zoltraak/Gojo/Infinity/Shoko gag after the emotional beat; shooter assignment and precise staging are editorial.
+
+This replaces the pending-content question, not every implementation question: choose willing coverage, duties and lived consequences. Momo/Jinshi need their own choices rather than the same solution imposed on all three. No current canon is changed by registering this S5 direction.

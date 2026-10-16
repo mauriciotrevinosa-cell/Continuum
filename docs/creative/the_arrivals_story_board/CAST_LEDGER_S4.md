@@ -337,3 +337,9 @@ See [the full creator classification and updated individual map](S5_CAST_SPOTLIG
 ## S5 planning base — main-house residents only (creator correction, 2026-10-16)
 
 Only the main-house cast remains resident in S5; the rest have left. Do not reuse departed refuge/intake helpers as current staff or create empty daily reception shifts. The creator permits discontinuing Arrival House's daily operation. [Revised household proposal and exact correction](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md) offers Jinshi records under Fern and withdraws the new Diablo reception shift. Appointments, building reuse and future arrival/coin procedures are not completed canon events. Historical S4 functions and current external trade relationships are not erased.
+
+## S5 household development — shared help and varied company (planning, not S4 events)
+
+[Full latest message](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md). Creator supports the general household direction and specifies Ram/Mau/Frieren/Fern helping with Rem's meal; training, ordinary help, rest and activities coexist. Coco's mother contributes to house cleaning with shared support and has her own enjoyment/relationships; Nazuna participates domestically while retaining her established sleep schedule. Vary partners and activities rather than repeat Night Shift's same framing. No invented name/past for Coco's mother or already-executed S5 post changes.
+
+Tobacco status checked: no V26 crop; DH-095/FLOATING_IDEAS remain future/unplaced, available for S5 development. The two cigarettes are saved; no completed Ciel study or new supply is presumed.

@@ -115,3 +115,9 @@ La excepción de escritura es sólo este borrador solicitado, sin número, fecha
 [Mensaje íntegro y desarrollo](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Rechaza ser hermana pequeña, pero convive con ellas/Fort; puede cuidar de Mau/Frieren y agradecer que él asuma despertar a Frieren sin perder su vínculo. Fern quiere elogios/tiempo/atención de Frieren. Su apego al puesto puede incluir ese deseo, junto con responsabilidad real. Sigue encargada; se delegan partes de trabajo/cuentas, no se retira autoridad ni se condiciona afecto a rendimiento.
 
 Frieren acepta «sigo siendo la encargada» y afirma que la quieren por ella. El gag Gojo/dos Zoltraaks que no alcanzan por Infinity/Shoko queda después del espacio emocional. Desarrollar ayuda competente, tiempo compartido y consecuencias posteriores. No rivalidad con Ori, expulsión de las chicas ni crisis nueva. El criterio de lectura también cambia: predominan capítulos más cortos con cierres naturales; un contenido puede distribuirse sin resumirse ni contar dos veces su presupuesto.
+
+## Ayuda compartida y nuevas combinaciones — ampliación del creador
+
+[Mensaje íntegro y dirección actual](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md). El creador respalda el reparto general y concreta la comida de Rem con Ram/Mau/Frieren/Fern ayudando. Alternar entrenamiento, ayuda posible, descanso y actividades elegidas. La madre de Coco contribuye al aseo y gana también disfrute/relaciones propias; no limpiar sola por deuda de gratitud ni repetir únicamente su rescate.
+
+Variar situaciones y agrupaciones Mau/Frieren, Gojo/Yuta/Rimuru y otros vínculos, también sin Mau, sin una ronda obligatoria de todos. Nazuna convive/colabora en su horario despierto, además de Anko y guardias. No reutilizar el mismo molde Night Shift en cada escena. Las ayudas tienen antecedentes: mostrar evolución, no otra primera pertenencia. Horarios/frecuencias finales siguen por afinar.

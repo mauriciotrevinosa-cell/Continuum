@@ -1,6 +1,6 @@
 # S5 — propuesta concreta de reparto doméstico para opinión del creador
 
-**Fecha:** 2026-10-16. **Estado:** PROPUESTA EDITORIAL / PENDIENTE DE OPINIÓN DEL CREADOR. No nuevos cargos aprobados, reasignación sucedida en canon ni inicio de producción S5. Desarrolla la [dirección de Fern ya aportada por el creador](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md).
+**Fecha:** 2026-10-16. **Estado:** DIRECCIÓN GENERAL RESPALDADA POR EL CREADOR, CON AMPLIACIÓN DE CONVIVENCIA AL FINAL. Los detalles editoriales de frecuencia/distribución siguen por concretar; no son reasignaciones ya sucedidas en canon ni inicio de producción de toda S5. Desarrolla la [dirección de Fern ya aportada por el creador](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md).
 
 Petición actual íntegra:
 
@@ -97,3 +97,32 @@ La propuesta central para valorar es **Fern al frente / Jinshi registros cotidia
 - [Only When It Rains](../THE_ARRIVALS_S4E28_LN_CHAPTER_02_ONLY_WHEN_IT_RAINS_v0.1.md): Rem/Momo y cocina/cuidado compartidos. Reciprocidad familiar ganada permanece.
 - [Raising the Frame](../THE_ARRIVALS_S4E15_LN_CHAPTER_04_RAISING_THE_FRAME_v0.1.md): Seiko/Momo preparan rice cakes. No elegir cocinera sólo por edad.
 - [Dirección completa de Fern y lectura corta](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md), [relaciones](S5_RELATIONSHIP_CONTINUITY_PLAN_2026-10-16.md), [plan integrado](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md). Nada de esto cambia el final Arquitecto o reglas de torre por omisión.
+
+## Respuesta del creador — convivencia y ayuda compartida entre actividades
+
+Mensaje íntegro, 2026-10-16:
+
+> si y en la comida de rem podemos ver a ram mau frieren y fern juntos ayudando. me gusta como un balance de que puedes entrenar pero aun ayudar en el dia dia entre descansos ya ctividades y asi podemos ir expandiendo la amam de coco se enfoca en ayudar con el aseo y teine sus moementos de disfrutar que no sean los mismos del night shift podmeos ver a mau y frieren juntos luego un con gojo yuta rimuru y todo asi para que no se sientan los mismos y nazuna tmb convivendo ya yudando mi unica duda es lo del tabaco ya sucede en vol 26 o es uan idea que se quedo para s5?
+
+La respuesta respalda la dirección general y añade estos contenidos. Las asignaciones anteriores se conservan como propuesta original; la frecuencia exacta y cada tarea menor se pueden afinar. No repetir que el creador aún no ha dado opinión ni convertir cada detalle editorial en aprobación individual por omisión.
+
+### Dirección explícita para desarrollar en S5
+
+- **Comida de Rem:** Ram, Mau, Frieren y Fern ayudan juntos. Rem no sostiene sola el relevo; la preparación permite convivencia familiar. Ram participa materialmente además de comentar. El reparto de cortar/preparar/servir/recoger es puesta en escena por elegir, no habilidades de chef automáticamente concedidas a todos.
+- **Entrenamiento + vida cotidiana:** las prácticas conviven con ayuda, descanso, comidas y actividades. Una persona puede entrenar y luego colaborar en una tarea posible para ella; descansar también incluye ocio elegido. No convertir la ayuda en castigo por entrenar, prueba de gratitud o un turno añadido a toda carga anterior.
+- **Madre de Coco:** el creador le da un foco propio de ayuda con el aseo de la casa. Organizar/contribuir a una parte sostenible del cuidado del hogar, con ayuda compartida. No queda a cargo sola de limpiar toda la main house ni tiene que pagar su rescate trabajando. Sus manos ya están sanadas; no reiniciar el mismo cuidado como primera recuperación.
+- **Vida propia de la madre:** tiene momentos para disfrutar, elegir y desarrollar relaciones, además de ser madre de Coco y ayudar. No inventar un nombre, pasado o talento especializado para justificarla. Aprender algo, acompañar una actividad o disfrutar un rato son opciones editoriales; no repetir sólo agradecimientos o trauma.
+- **Combinaciones variables:** Mau/Frieren pueden compartir una actividad; en otro tramo aparecen Gojo/Yuta/Rimuru, con Mau o entre sí según la escena. Ampliar relaciones sin meter a todo el grupo en cada tarea. Las personas también se acompañan cuando Mau está en otra cosa.
+- **Nazuna:** convive y ayuda en la vida doméstica, con humor y deseos propios. Mantener su descanso establecido —después del desayuno hasta antes de cenar— y buscar ventanas de desayuno/tarde-noche. No asignarle limpieza al mediodía como si no durmiera ni reducirla a acompañante de Anko.
+- **Continuidad de esas vidas:** la madre de Coco ya aprende nombres y acompaña dibujos; ampliar disfrute/ayuda no es su primera contribución ni primera pertenencia. No confundirla con la madre de la bean-girl. Nazuna ya contribuye con guardias/cuidado: añadir tareas domésticas no es que por fin ayude o pertenezca.
+- **Variedad frente a Night Shift:** conservar los vínculos ganados, pero no copiar otra vez café de madrugada, paseo de guardia y confidencia como estructura para cada combinación. Preparación de comida, aseo acompañado, recoger tras cenar, ocio y proyectos permiten otros ritmos. No borrar los turnos nocturnos existentes ni tratar toda ayuda como una primera vez.
+
+Esto ofrece situaciones entrelazables, no una cuota de capítulos o una nueva tabla diaria para todos. Mantener capítulos cortos con cortes naturales y escenas completas; el tiempo liberado por el reacomodo ha de vivirse también después.
+
+### Respuesta comprobada sobre el tabaco
+
+**El cultivo no ocurre en V26.** El plan ejecutado de V26 lo excluye explícitamente. La prosa de Two Unlit Cigarettes preserva los dos cigarrillos para un posible estudio futuro a través de Rimuru/Ciel; no relata un análisis terminado, copias, cultivo o cosecha.
+
+La mini parcela está guardada en FLOATING_IDEAS y DH-095, sin capítulo/temporada definitiva. El mapa S5 la conserva como posibilidad, no evento ya realizado ni obligación nueva. Mantener la iniciativa de Mau cuando esté mejor como agradecimiento a Shoko, y la indignación cómica de Anko porque él no lo había hecho por ella. No resolver por omisión el favor que Anko pedirá. La pregunta actual no fija fecha, lugar o método de cultivo.
+
+Fuentes: [idea completa](FLOATING_IDEAS.md), [DH-095](DECISION_HISTORY.md), [Two Unlit Cigarettes](../THE_ARRIVALS_S4E26_LN_CHAPTER_04_TWO_UNLIT_CIGARETTES_v0.1.md) y [plan ejecutado V26](S4_V26_PLAN_2026-10-14.md). No se revelan otros acontecimientos de V26 al creador para contestar esta pregunta.

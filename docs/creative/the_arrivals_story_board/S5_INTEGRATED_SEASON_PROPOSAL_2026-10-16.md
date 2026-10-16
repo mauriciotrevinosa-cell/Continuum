@@ -202,3 +202,9 @@ Antes del outline final aún elegir etapas/reglas de torre y sombras, desenlace 
 ## Propuesta editorial posterior con nombres — pendiente de opinión del creador
 
 [Reparto doméstico concreto para discutir](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md): Aclaración posterior del creador: S5 sólo conserva residentes de la main house; el resto ya se fue. Se propone descontinuar la operación diaria de Arrival House y ofrecer a Jinshi los registros cotidianos bajo Fern; se retira el turno de recepción de Diablo. Nano puede comprobar sumas/stock puntualmente; Anko mantiene botín. Momo conserva su cocina elegida con dos tardes de relevo propuestas entre Rem/Seiko y apoyos, sin sobrecargar a quienes cubren. Los protagonistas también participan en tareas ordinarias. Todos los nombramientos/frecuencias aquí son propuestas, no decisiones aprobadas ni escenas ya sucedidas. Mantener la vida posterior que permite el tiempo ganado, no sólo una rota.
+
+## Convivencia entre entrenamiento, ayuda y descanso — ampliación respaldada
+
+[Dirección actual y texto íntegro](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md): comida de Rem con Ram/Mau/Frieren/Fern colaborando; madre de Coco con foco de aseo sostenible y momentos propios de disfrute; Nazuna ayudando/conviviendo en sus ventanas despiertas. Variar combinaciones y actividades —Mau/Frieren, Gojo/Yuta/Rimuru y otras— sin reciclar Night Shift o exigir que todos estén juntos. La dirección general del reacomodo recibió respuesta positiva; tareas menores, frecuencia y puesta se desarrollan en escenas cortas entrelazadas.
+
+Consulta del tabaco resuelta: **no se cultivó en V26**. La mini parcela de agradecimiento a Shoko y protesta de Anko continúa como opción de S5, sin capítulo/lugar/método fijados; los cigarrillos siguen siendo referencias conservadas, no suministro reproducido. La pregunta no activa por sí sola el proyecto ni suma otro arco obligatorio.

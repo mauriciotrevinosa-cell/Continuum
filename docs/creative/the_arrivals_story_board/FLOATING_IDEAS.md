@@ -321,6 +321,8 @@ The creator recalls the mimic in Frieren's second first-class mage examination t
 
 ## Future — Mau's thank-you tobacco plot; Anko's offended claim (creator, 2026-10-14; NOT YET PLACED)
 
+**Status rechecked at creator request, 2026-10-16:** this crop did NOT happen in V26. It remains unplaced, with S5 as a development option in the current map. Only preservation of the cigarettes for possible future study is written. The creator's question does not assign a new chapter/date. [Full latest question and household additions](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md).
+
 Shoko keeps her single bent cigarette unlit and intact for possible Ciel-assisted material study through Rimuru. Anko keeps her own last straight cigarette in its scratched tin. This is a preserved reference, not a supply already reproduced.
 
 When Mau is genuinely better, **he independently decides to make a mini tobacco plot as thanks to Shoko**. She does not request it as payment or make her care conditional. The larger growing project is for Shoko and Anko, but the initial thank-you is directed to Shoko.

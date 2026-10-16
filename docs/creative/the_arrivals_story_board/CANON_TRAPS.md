@@ -361,3 +361,9 @@ not on this list. Add a line every time the creator catches a new slip.
 - Ordinary trade purse pays for food, seeds and two flower books. Warm Trial coin unspent. New gifts are not two more mimic loot finds; petal-colour/preservation magic is not a new life/immortality cure. No instant garden.
 - Paper identified from what Pell visibly unfolds and the known reported words, not unfiltered eyes through pockets. Town fear/hero accusations are propaganda. Household's Sukuna reading remains an inference, not a confirmed Pell/Sukuna alliance or mastermind reveal. Future conversation belongs to the creator's next idea; do not invent it now.
 - The rhetoric is not universally wise; Anko says so. Gifts/comedy do not erase exposure, medical review or the house's role. Newchapter26 shifts only three later V25 reader orders to27–29; bookmarks/stable IDs remain.
+
+## S5 planning — main-house cast and Arrival House (DH-106)
+
+- Creator clarification, 2026-10-16: S5 resident cast consists of the main-house people; the others have left. Do not keep departed register/refuge staff or require an empty Arrival House to have daily opening/coverage for its own sake.
+- The creator permits discontinuing daily operations. The proposed new Diablo reception shift was withdrawn; Jinshi can be offered household record work under Fern. This is a proposal, not a new appointment already lived in canon.
+- Ending daily operations does not demolish/reassign the building, change coin/arrival rules or delete trade with external people. Preserve S4 historical functions. [Full correction and current proposal](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md).

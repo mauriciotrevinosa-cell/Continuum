@@ -6,6 +6,16 @@ Petición actual íntegra:
 
 > haber tu como harias cambiaos y yo doy mi opinion
 
+## Aclaración posterior del creador — base residencial de S5
+
+Mensaje íntegro:
+
+> pero recuerda que en s5 solo quedan los del the main house el resto se fue entonces la arrival house la pueden descontinuar
+
+**Base confirmada para esta propuesta:** en S5 sólo quedan como residentes los de la main house; el resto ya se fue. La propuesta anterior de sostener una franja diaria de recepción cubierta por Diablo queda retirada. El creador permite plantear descontinuar Arrival House; propongo terminar su operación cotidiana y liberar a Jinshi para las cuentas domésticas. El nombramiento y cómo vivirlo siguen pendientes de su opinión.
+
+No mantener el edificio con actividad/plantilla ficticia para justificar un puesto ni reutilizar a colaboradores que ya salieron. Descontinuar la operación cotidiana no decide demolición, nuevo uso del edificio o cambios en las reglas de monedas/aparición/recepción de futuras personas. Esos aspectos sólo se resuelven si la historia los necesita; no impiden ahora proponer el cambio de función de Jinshi. El cierre corresponde a S5, sin negar las funciones históricas que sí tuvo Arrival House en S4.
+
 ## Criterio
 
 Mantener trabajos que las personas eligen y saben hacer, compartir tareas repetitivas y ofrecer tiempo propio real. Hacer cambios pequeños que se vean funcionar en la vida doméstica; no una organización nueva con sesenta cargos. La aptitud justifica ofrecer una tarea, no obliga a aceptarla. Cada encargo nuevo debe sustituir carga o recibir cobertura concreta, no sumarse a todo lo anterior.
@@ -24,13 +34,13 @@ Lo siguiente es P. Las referencias al final establecen capacidades previas; no a
 
 **Ganancia narrativa:** Fern puede elegir pasar una tarde con Frieren/Stark/las chicas y, al volver, revisar algo ya resuelto. Su primera reacción puede ser querer comprobarlo todo; aprende a confiar porque la ayuda funciona, no porque los demás le escondan el libro. Se la sigue buscando para convivir aunque ese día no lleve las cuentas.
 
-## 2. Jinshi combina su experiencia con una función doméstica más útil, con cobertura real
+## 2. Jinshi deja la operación cotidiana de Arrival House y elige su nueva función
 
-Conservaría Arrival House abierta y disponible según su función real. Jinshi conoce sus procedimientos y seguiría como referencia, pero no necesita mantener una espera personal permanente si puede haber un relevo formado y accesible.
+Con la aclaración del creador, propondría **descontinuar la operación diaria de Arrival House** y conservar ordenados sus registros históricos. Ya no necesita sostener turnos por la costumbre de cuando había otras personas alojadas. El reparto se construye con los residentes actuales de la main house.
 
-**Diablo sería mi primer candidato para una franja de recepción/cobertura acordada.** Ya eligió ayudar a todos. Aprende el protocolo de Jinshi y cubre esa franja, sin convertirse en dueño del edificio, entrevistador de todo recién llegado o receptor automático de datos privados. Sus guardias y otras tareas deben quedar cubiertas/compatibilizadas antes de añadirle el turno. No asumir servicio día y noche ni disponibilidad infinita.
+Jinshi puede asumir el registro cotidiano y la preparación de cuentas junto a Fern porque su tiempo anterior queda liberado. Le ofrecería esa función y la oportunidad de darle su forma; no convertiría el cese de recepción en una obligación de ocupar cada hora con trabajo nuevo. Fern conserva criterio/autoridad.
 
-Sólo después de liberar esa franja ofrecería a Jinshi la parte cotidiana de cuentas. Si el edificio necesita más atención algún día, la cobertura administrativa también debe funcionar; no hay que trasladar todo de vuelta a Fern por defecto.
+**Diablo no recibe ningún turno nuevo de recepción por esta propuesta.** Mantiene sus acuerdos y su ayuda elegida. Si hay una futura necesidad de recibir a alguien, se organiza con los presentes y las reglas vigentes entonces; no hace falta un puesto vacío ni inventar nuevos habitantes para sostenerlo.
 
 **Evolución posible posterior:** cuando aumente el comercio, Jinshi puede ayudar con listas de necesidades, entregas y acuerdos prácticos junto a Hollis. No sustituye al socio comercial, no sabe precios por intuición ni resuelve el miedo de las ciudades. Activarlo por etapas cuando la historia lo necesite, no convertirlo ya en ministro de comercio.
 
@@ -67,7 +77,7 @@ Ambos siguen informados de lo que les corresponde como rostros de la casa/settle
 Una secuencia posible, entrelazada con el verano y sin reunión por cada casilla:
 
 1. Una conversación nacida de una carga concreta permite pedir/aceptar el relevo. Fern conserva su puesto; la dirección afectiva y el gag ya propuestos tienen espacio propio.
-2. Una entrega de tareas sencilla: Jinshi aprende el registro; Diablo conoce su franja/protocolo; Nano comprueba algo delimitado. Las personas ya colaboraban, pero este acuerdo libera un tiempo específico.
+2. Una transición sencilla: se cierra la rutina diaria de Arrival House; Jinshi aprende el registro doméstico acordado con Fern; Nano comprueba algo delimitado. Diablo no hereda recepción. Las personas ya colaboraban y el acuerdo corresponde a la casa actual.
 3. Una tarde donde Momo realmente sale, Rem/Seiko cuentan con apoyo y la comida funciona. Las personas que cubren también tienen después tiempo propio.
 4. Otra escena muestra a Fern con Frieren o con las chicas mientras las cuentas siguen avanzando. Frieren la busca por gusto, no para pedir otro favor. La autoridad y el afecto siguen visibles.
 5. Reapariciones breves más adelante confirman que el arreglo dura y puede ajustarse. El capítulo de una salida a gate no necesita detenerse para leer una rota.
@@ -76,13 +86,13 @@ No asignar cinco capítulos obligatorios a estos cinco puntos: son situaciones q
 
 ## Qué necesito que opine el creador
 
-La propuesta central para valorar es **Fern al frente / Jinshi registros cotidianos / Nano comprobación acotada / Anko botín**, junto con **cobertura limitada de Diablo en Arrival House** y **Momo con relevos voluntarios Rem/Seiko y apoyos**. Los nombres, frecuencia y alcance están abiertos. No interpretar el silencio como aprobación ni cambiar el corpus de producción por esta ficha.
+La propuesta central para valorar es **Fern al frente / Jinshi registros cotidianos / Nano comprobación acotada / Anko botín**, con **operación cotidiana de Arrival House descontinuada, sin nuevo turno de Diablo**, y **Momo con relevos voluntarios Rem/Seiko y apoyos**. Los nombres, frecuencia y alcance están abiertos. No interpretar el silencio como aprobación ni cambiar el corpus de producción por esta ficha.
 
 ## Antecedentes comprobados y límites
 
 - [The Shop](../THE_ARRIVALS_S4E17_LN_CHAPTER_03_THE_SHOP_v0.1.md): Anko registra lo que sale, Fern lo que se gasta; fondo común y ledger. No autorización automática para comprar.
 - [Arrival House](../THE_ARRIVALS_S4E16_LN_CHAPTER_02_ARRIVAL_HOUSE_v0.1.md): Jinshi/llaves/procedimientos y equipo de aquel momento. **No reutilizar como staff actual a las personas que ya se marcharon.** El [ledger vigente](CAST_LEDGER_S4.md) y [handoff V26](S4_V26_PLAN_2026-10-14.md) tienen prioridad sobre aquel estado histórico.
-- [Everyone's Assistant](../THE_ARRIVALS_S4E25_LN_CHAPTER_04_EVERYONES_ASSISTANT_v0.1.md): elección de Diablo de ayudar a todos. Guardianía/turnos existentes limitan el reparto propuesto; no asistente infinito.
+- [Everyone's Assistant](../THE_ARRIVALS_S4E25_LN_CHAPTER_04_EVERYONES_ASSISTANT_v0.1.md): elección de Diablo de ayudar a todos. Guardianía/turnos existentes siguen; la cobertura de recepción inicialmente propuesta se retiró tras la aclaración del creador. No asistente infinito.
 - [Five Beds, No Walls](../THE_ARRIVALS_S4E08_LN_CHAPTER_03_FIVE_BEDS_NO_WALLS_v0.1.md): planificación/horarios de Nano. Aptitud demostrada no es nombramiento contable previo.
 - [Only When It Rains](../THE_ARRIVALS_S4E28_LN_CHAPTER_02_ONLY_WHEN_IT_RAINS_v0.1.md): Rem/Momo y cocina/cuidado compartidos. Reciprocidad familiar ganada permanece.
 - [Raising the Frame](../THE_ARRIVALS_S4E15_LN_CHAPTER_04_RAISING_THE_FRAME_v0.1.md): Seiko/Momo preparan rice cakes. No elegir cocinera sólo por edad.

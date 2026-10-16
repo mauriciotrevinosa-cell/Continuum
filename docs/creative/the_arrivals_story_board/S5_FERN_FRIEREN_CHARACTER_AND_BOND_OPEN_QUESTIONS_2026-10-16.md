@@ -98,3 +98,7 @@ The [full creator message](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREA
 Fern remains in charge while others take parts of the records/accounts/work. Frieren explicitly agrees and wants her to enjoy the people who love her for herself. The girls/Fort and Stark remain, without making Fern adopt the little-sister title. Show reciprocal care and later time together, not just one speech or an administrative demotion. Preserve the two-Zoltraak/Gojo/Infinity/Shoko gag after the emotional beat; shooter assignment and precise staging are editorial.
 
 This replaces the pending-content question, not every implementation question: choose willing coverage, duties and lived consequences. Momo/Jinshi need their own choices rather than the same solution imposed on all three. No current canon is changed by registering this S5 direction.
+
+## Creator clarification — main-house residents and Arrival House in S5
+
+The creator now explicitly clarifies that only the main-house residents remain in S5; the rest have left. Arrival House can therefore be discontinued as a daily operation. The earlier caution against assuming an empty building from old evidence does not override this latest instruction. See [full clarification and revised proposal](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md): offer Jinshi daily household records under Fern; the proposed Diablo reception cover is withdrawn. Building reuse and future arrival mechanics remain unspecified. No S4 function is retroactively erased.

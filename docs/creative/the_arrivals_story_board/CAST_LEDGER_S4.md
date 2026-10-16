@@ -333,3 +333,7 @@ See [the full creator classification and updated individual map](S5_CAST_SPOTLIG
 ## S5 planning clarification — Fern and reading rhythm (not a canon-state change)
 
 [Full direction](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern declining little-sister status does not remove her from the girls/Fort or change her independent family bond with Mau. Proposed S5 development keeps her in charge while sharing execution and makes time/praise/care with Frieren explicit. No completed reassignment or retroactive S4 motive is recorded here. Existing rooms, posts and last real scenes stay. [Four-part reading of Mau's standalone draft](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md) preserves the whole day and assigns no production chapter IDs.
+
+## S5 planning base — main-house residents only (creator correction, 2026-10-16)
+
+Only the main-house cast remains resident in S5; the rest have left. Do not reuse departed refuge/intake helpers as current staff or create empty daily reception shifts. The creator permits discontinuing Arrival House's daily operation. [Revised household proposal and exact correction](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md) offers Jinshi records under Fern and withdraws the new Diablo reception shift. Appointments, building reuse and future arrival/coin procedures are not completed canon events. Historical S4 functions and current external trade relationships are not erased.

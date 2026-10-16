@@ -1,6 +1,6 @@
 # The Arrivals — Floating / Unplaced Ideas
 
-> **New editorial proposal for creator feedback, 2026-10-16:** [concrete household reallocation with names](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md). Fern retains authority; proposed daily-record help from Jinshi, bounded checks from Nano, existing loot role for Anko, limited Arrival House cover from Diablo, and voluntary kitchen relief from Rem/Seiko. Not an approved appointment, in-world change or S5 prose greenlight.
+> **New editorial proposal for creator feedback, 2026-10-16:** [concrete household reallocation with names](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md). Creator confirms S5 residents are the main-house cast; proposed discontinuation of daily Arrival House operations releases Jinshi for daily records under Fern, with bounded checks from Nano, Anko's existing loot role and voluntary Rem/Seiko kitchen relief. The earlier Diablo reception shift is withdrawn. Not an approved appointment, in-world change or S5 prose greenlight.
 
 
 > **Latest S5 development, 2026-10-16:** [full creator message: Fern keeps her place, shares work and receives Frieren's care; shorter chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). This supplies the earlier undisclosed Fern idea. Old chapter counts require recalculation; no whole-season greenlight. [Read the same Mau day in four shorter parts](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md), with its complete original preserved.

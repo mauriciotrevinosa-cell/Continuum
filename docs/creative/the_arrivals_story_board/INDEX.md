@@ -235,3 +235,7 @@ Shop clarification, creator 2026-10-16: [buying a grimoire does not guarantee a 
 ## S5 latest couple development — 2026-10-16
 
 [Continuous Mau/Frieren romance and Himmel's mini-arc trigger](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md): reciprocal outings/company through the season; wedding mention, Mau choking on food and Frieren blushing; Himmel processing/choice/return proposed without hostile rivalry or erased respect. [Scene map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) now extends to R54; original45 units remain stable. No nine-chapter quota, confirmed wedding or whole-season production.
+
+## Latest S5 continuation — Trial-wedding trigger and chosen company (2026-10-16)
+
+[Complete creator message and continuity notes](S5_MAU_TRIAL_WEDDING_TRIGGER_AND_COMPANIONS_CREATOR_SEED_2026-10-16.md). Mau's real recovery coexists with a panic trigger from the Trial wedding. He asks Frieren to speak with Himmel and accepts Gojo/Rimuru/Yuta accompanying a short dungeon visit. The [working scene map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) now runs R01–R57, preserving earlier IDs and clarifying R50/R51. No new chapter quota, secret tracking, form/power unlock or combat cure. Dungeon return and prior Mau/Rimuru coverage agreement must fit the final placement. Wedding knowledge is scoped to actual tellings, not blanket secrecy or omniscience. No S4 rewrite or whole-season prose.

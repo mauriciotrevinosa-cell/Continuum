@@ -10,7 +10,7 @@
 
 La relación debe avanzar de manera visible durante S5: más tiempo elegido juntos, salidas y convivencia entre los momentos grandes. Una cena/date no cubre su vida de pareja hasta la temporada siguiente. La recuperación, Queen2, el día con Ori y las escenas de lectura siguen, pero también tienen tiempo que buscan porque disfrutan ser novios.
 
-Volver a mencionar una boda permite el gag pedido: **Mau se atraganta con la comida y Frieren se sonroja.** Ese momento detona el mini arco de Himmel ya anticipado por el creador. La mención no establece por sí sola una propuesta formal, compromiso aceptado o boda programada.
+Volver a mencionar una boda permite el gag pedido: **Mau se atraganta con la comida y Frieren se sonroja.** Ese momento detona el mini arco de Himmel ya anticipado por el creador. La mención no establece por sí sola una propuesta formal, compromiso aceptado o boda programada. La [dirección posterior del creador](S5_MAU_TRIAL_WEDDING_TRIGGER_AND_COMPANIONS_CREATOR_SEED_2026-10-16.md) añade el recuerdo de la boda del Trial y un ataque de pánico de Mau: el momento no queda limitado a la comedia. Él pide a Frieren que hable con Himmel y pasa un rato en el dungeon acompañado por Gojo, Rimuru y Yuta. Conservar lo sanado y los triggers que aún existen; detalles de puesta en escena separados de su mensaje íntegro.
 
 ## Cómo propondría que se note la evolución
 
@@ -26,18 +26,18 @@ La progresión no se mide sólo por besos o afirmaciones más grandes. También 
 
 **C:** mención de boda, Mau atragantado, Frieren sonrojada, inicio del mini arco de Himmel.
 
-**P:** ubicarlo a mitad del verano, después de que varias escenas ya hayan mostrado a la pareja más cómoda y presente. Una comida común permite que alguien los vea así y haga el comentario. Seiko es una candidata natural para decirlo; el creador no eligió quién lo dice y no se da por decidido. El gag puede cerrar una unidad breve, con el efecto en Himmel comenzando en esa escena y teniendo espacio propio después.
+**P:** ubicarlo a mitad del verano, después de que varias escenas ya hayan mostrado a la pareja más cómoda y presente. Una comida común permite que alguien los vea así y haga el comentario. Seiko es una candidata natural para decirlo; el creador no eligió quién lo dice y no se da por decidido. La propuesta inicial de cerrar la unidad sólo con el gag queda ampliada por el recuerdo/pánico pedido después: dar espacio al cambio de tono y a ambas conversaciones, sin cliffhanger artificial.
 
-Si Himmel lo oye, debe estar presente o tener un canal concreto; no conocerlo a distancia. No hace falta que toda la mesa mire a Himmel ni que alguien se burle de lo que siente. Su reacción puede ser mínima y dejar que el lector la entienda después. El atragantamiento es un gag breve, no otra urgencia clínica.
+Si Himmel lo oye, debe estar presente o tener un canal concreto; no conocerlo a distancia. No hace falta que toda la mesa mire a Himmel ni que alguien se burle de lo que siente. Su reacción puede ser mínima y dejar que el lector la entienda después. El atragantamiento puede empezar como gag; la nueva dirección sí incluye pánico por el Trial, que no se trata como remate cómico ni como celos.
 
-No usar una anécdota privada de la boda del Trial para que un tercero haga el comentario. Un chiste hipotético sobre el futuro de una pareja conocida basta; el conocimiento del Trial continúa limitado a lo que Mau eligió contar.
+El comentario puede ser hipotético sobre el futuro de la pareja, sin explotar su dolor. Precisión de continuidad: Mau sí narró la boda y las palabras de la falsa Frieren a los presentes de la casa en The Last Two. No es un secreto íntegro nunca contado. All the Years comparte hechos generales con llegadas nuevas, no toda la boda; Gojo no adquiere aquí sus detalles por defecto. El conocimiento sigue limitado a lo que Mau contó a cada oyente; las memorias no narradas permanecen privadas.
 
 ## Mini arco de Himmel — propuesta para elevar el detonante
 
 La dirección previa del creador ya permite que Himmel necesite espacio y tenga foco puntual como secundario recurrente. El nuevo comentario de boda aporta el detonante concreto. **Él ya sabe que son pareja y los ha respetado.** La noticia emocional puede ser lo concreto de ese futuro juntos, no descubrir otra vez que Frieren eligió a Mau.
 
 1. **Lo que le llega:** al verlos reír/avergonzarse juntos ante la posibilidad de boda, siente una pena que creía tener más ordenada. No necesita interrumpir la mesa o reclamarles nada.
-2. **Un momento suyo:** después se permite reconocer que respetar su felicidad y sentir dolor pueden coexistir. Puede hablar con alguien de confianza o guardar parte para sí. Como propuesta, Stark puede acompañarlo durante una tarea; elegir el interlocutor no lo vuelve confidente omnisciente ni obliga a una confesión pública.
+2. **Un momento suyo:** después se permite reconocer que respetar su felicidad y sentir dolor pueden coexistir. La dirección posterior del creador elige una conversación **Frieren/Himmel**, mientras Mau está acompañado por Gojo/Rimuru/Yuta. Sustituye al interlocutor antes abierto; Stark era sólo una opción editorial. La charla no obliga a una confesión pública, a bendecir otra vez la pareja ni a comparar su dolor con el de Mau.
 3. **Una decisión concreta:** si necesita un poco de distancia, la elige y le da una forma sostenible —otros ratos, compañía o actividad—. No fijar una partida definitiva, nuevo cargo o expedición peligrosa como castigo. No convertir a Mau en culpable ni pedir a Frieren que lo elija de nuevo.
 4. **La vida que no se pausa:** se le ve disfrutar/participar desde algo que quiere, con vínculos que no pasan sólo por Frieren. Ayudar defensas es una opción ya sugerida por el creador, no su único derecho a existir o la resolución automática de su vida.
 5. **Retorno después del espacio:** reaparece con una acción y un intercambio cotidiano concreto. Puede conservar afecto y humor con Mau aunque no esté completamente curado de lo que siente. No exigir otra bendición de la pareja o una declaración de que ya lo superó; tampoco desaparecerlo otra temporada.
@@ -46,7 +46,7 @@ El desarrollo es local y entrelazado con el verano. No fijar cinco capítulos po
 
 ## Colocación en el mapa de trabajo
 
-Se añaden **R46–R54** al [mapa de escenas](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md), manteniendo R01–R45 estables. Son identificadores provisionales, no numeración de episodios ni nueve capítulos obligatorios adicionales.
+Se añadieron R46–R54 y la dirección posterior extiende el [mapa de escenas](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) hasta **R57**, sin renumerar unidades previas. R55–R57 acompañan el recuerdo/pánico y el rato con amigos en paralelo a Frieren/Himmel. Son identificadores provisionales, no numeración de episodios ni una cuota de capítulos adicionales.
 
 | Unidad | Propuesta de ubicación | Función |
 |---|---|---|
@@ -54,11 +54,14 @@ Se añaden **R46–R54** al [mapa de escenas](S5_RELATIONSHIP_SCENE_PLACEMENT_AN
 | R47 | F, tras roja/Queen2 y descanso | Frieren propone una salida breve y se interesa por algo que Mau quiere hacer |
 | R48 | G temprano/medio | Mau propone otra salida/rato propio; comparten gustos y hacen sitio a los del otro |
 | R49 | G medio, antes del comentario | Escena cotidiana donde se nota más confianza, iniciativa recíproca y un plan que ambos quieren repetir |
-| R50 | G medio | Comida, comentario de boda, reacción cómica de ambos y efecto discreto en Himmel |
-| R51 | G medio, después de R50 | Espacio de Himmel y conversación/elección propia, interlocutor por decidir |
+| R50 | G medio | Comida, comentario de boda, gag/rubor iniciales, recuerdo del Trial y pánico; efecto propio en Himmel sin convertir su reacción en espectáculo |
+| R51 | G medio, después de R50, en paralelo a R56 | Frieren/Himmel hablan, como pide Mau; Mau conoce y acepta a quienes lo acompañan, y Frieren sabe cómo está |
 | R52 | G medio, sin borrar el resto de la casa | Vive la forma de distancia/actividad elegida y conserva otras relaciones |
 | R53 | G medio/tardío | Retorno visible de Himmel, intercambio cotidiano con Mau u otros y continuidad de lo elegido |
 | R54 | G tardío, con pareja también presente durante R51–R53 | Nuevo rato/salida de Mau/Frieren y posible retorno privado al tema futuro; deja avance sin boda obligatoria |
+| R55 | Tras R50 y antes de salir | Mau acepta compañía, pide a Frieren hablar con Himmel; preparan aviso/cobertura y eligen un acceso con retorno conocido |
+| R56 | En paralelo a R51 | Rato en dungeon con Gojo/Rimuru/Yuta, elegido para cambiar de entorno, sin combate obligatorio o poderes curativos nuevos |
+| R57 | Al volver de R56 | Regreso visible e intercambio sencillo con Frieren; conserva apoyo y vida de pareja sin exigir repetir el Trial |
 
 También continuar R10/cena, R14/Queen2, R20/día completo, R37/ensayo y charla posterior, y los momentos con Ori/Fern/amigos. El tiempo de pareja y la pertenencia a la casa se intercalan; no aislarlos para demostrar intimidad ni hacer que siempre tengan que invitar a todos.
 
@@ -70,3 +73,7 @@ También continuar R10/cena, R14/Queen2, R20/día completo, R37/ensayo y charla 
 - [Relationship lock](S3_RELATIONSHIP_AND_HOUSEHOLD_CANON_LOCK_2026-10-04.md), [ledger](CAST_LEDGER_S4.md), [plan de relaciones](S5_RELATIONSHIP_CONTINUITY_PLAN_2026-10-16.md), [apertura y boda hipotética privada](S5_OPENING_DOOR_CREATOR_FULL_PROPOSAL_2026-10-14.md).
 
 Las fuentes S1–S4 se conservan. Esta dirección añade avance sostenido y un detonante al hilo de Himmel, no un retcon, un compromiso formal, un nuevo romance para él o la producción completa de S5.
+
+## Continuación del creador — recuerdo y compañía
+
+El [mensaje posterior íntegro y su revisión de continuidad](S5_MAU_TRIAL_WEDDING_TRIGGER_AND_COMPANIONS_CREATOR_SEED_2026-10-16.md) es la autoridad actual para el pánico, la conversación Frieren/Himmel y el grupo Gojo/Rimuru/Yuta. Cambiar de entorno no confirma una transformación; aceptar compañía no significa vigilancia secreta. La zona de dungeon y el acuerdo previo para que ambos Mau/Rimuru salgan se concretan al montar el outline. No se altera el cierre del Trial, la conversación ya contada en S4 o la continuidad de Himmel.

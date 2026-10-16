@@ -105,10 +105,14 @@ La [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH
 
 ## Relationship scene placement now advanced — exact scope
 
-[New map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) adds54 traceable scene/chapter units, early/middle/late returns,25 close-bond rows and independent ensemble lanes. This is more concrete than the prior profile/A–H-slot stage but not a final numbered chapter outline. Do not claim all relational scenes have been produced or the entire743-chapter corpus qualitatively re-audited. Some flexible returns still need a specific choice at outline assembly.
+[New map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) now tracks57 provisional scene/chapter units, early/middle/late returns,25 close-bond rows and independent ensemble lanes. This is more concrete than the prior profile/A–H-slot stage but not a final numbered chapter outline. Do not claim all relational scenes have been produced or the entire743-chapter corpus qualitatively re-audited. Some flexible returns still need a specific choice at outline assembly.
 
 Tower and Architect are the two remaining large structural developments. Remaining system choices, selected world/arrival outcomes and final relationship/calendar/reading-break checks are integration work on current material, not a requirement to invent another major arc. Tobacco preference now has opening and post-recovery alternatives; both obey actual growth/material limits and preserve S4's door continuity.
 
 ## Creator addition — sustained romance, not only milestone dates
 
 [Full direction](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md) extends the map with R46–R54: recurring early/middle/late couple choices/outings plus wedding-comment trigger and local Himmel development. No units are renumbered, no existing relationship reset or extra giant arc required. The creator has selected the trigger; detailed mini-arc outcome/placement remains proposed, not a new permanent-departure or engagement fact.
+
+## Continuación — trigger de la boda y conversaciones paralelas
+
+La [nueva dirección íntegra](S5_MAU_TRIAL_WEDDING_TRIGGER_AND_COMPANIONS_CREATOR_SEED_2026-10-16.md) añade pánico de Mau por el Trial, no una nueva crisis de pareja: pide a Frieren que hable con Himmel y acepta ir acompañado por Gojo/Rimuru/Yuta. R55–R57 se añaden sin renumerar; R50/R51 ya recogen esta precisión. Auditoría de conocimiento: The Last Two sí cuenta la boda a sus oyentes; All the Years no cuenta a las nuevas llegadas cada escenario. No asumir conocimiento íntegro de Gojo. Al cerrar outline concretar acceso/regreso y cobertura acordada por la salida conjunta Mau/Rimuru, sin usar la roja bloqueada o poderes de viaje no establecidos. Son condiciones de esta escena, no otra macrotrama pendiente.

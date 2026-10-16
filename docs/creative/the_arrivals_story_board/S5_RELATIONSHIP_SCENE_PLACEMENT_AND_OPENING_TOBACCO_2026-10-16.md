@@ -10,7 +10,7 @@
 
 Antes de esta pasada existían perfiles, diagnósticos enfocados, movimientos A–H y escenas deseadas. **No había un mapa capítulo por capítulo de toda S5.** El día independiente de Mau sí tiene prosa en cuatro lecturas; esa excepción no asegura por sí sola la continuidad del verano.
 
-Este documento añade ubicación concreta de unidades de escena/capítulo y retornos a mitad/final. Los identificadores **R01–R54** sirven para seguir las propuestas cuando se integren al outline; **no son S5E01 ni números de capítulo/volumen**. Una unidad puede compartir capítulo con trama, dividirse en varios cortes naturales o ajustarse si cambia el arco. No sumar45 capítulos obligatorios al presupuesto ni presentar estas filas como episodios producidos.
+Este documento añade ubicación concreta de unidades de escena/capítulo y retornos a mitad/final. Los identificadores **R01–R57** sirven para seguir las propuestas cuando se integren al outline; **no son S5E01 ni números de capítulo/volumen**. Una unidad puede compartir capítulo con trama, dividirse en varios cortes naturales o ajustarse si cambia el arco. No sumar45 capítulos obligatorios al presupuesto ni presentar estas filas como episodios producidos.
 
 Las cuatro temporadas aportan historia y maneras de convivir. Se usan los locks, el ledger y lecturas concretas ya documentadas; esto no es una afirmación de haber releído y auditado cualitativamente los743 capítulos, ni de que todos los pares del reparto tengan una intimidad ya probada. Cada desarrollo nuevo se contrasta con sus escenas fuente antes de redactarse.
 
@@ -101,7 +101,7 @@ Todas las acciones nuevas de las tablas son **P**, derivadas de direcciones C; n
 
 ## Ampliación posterior — avance continuo de pareja y mini arco de Himmel
 
-[Mensaje completo, progresión y propuesta del mini arco](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md). El creador quiere más tiempo saliendo/conviviendo y avance visible durante toda S5, con iniciativa recíproca. Mencionar boda lleva al gag Mau atragantado/Frieren sonrojada y detona el hilo de Himmel. Los detalles y ubicaciones de estas nueve unidades son P; R01–R45 permanecen estables. No son nueve capítulos obligatorios ni boda/compromiso confirmados.
+[Mensaje completo, progresión y propuesta del mini arco](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md). El creador quiere más tiempo saliendo/conviviendo y avance visible durante toda S5, con iniciativa recíproca. Mencionar boda lleva al gag Mau atragantado/Frieren sonrojada y detona el hilo de Himmel. La [dirección posterior](S5_MAU_TRIAL_WEDDING_TRIGGER_AND_COMPANIONS_CREATOR_SEED_2026-10-16.md) añade recuerdo del Trial/pánico y el rato en dungeon con Gojo/Rimuru/Yuta, mientras Frieren habla con Himmel por elección de Mau. Las ubicaciones y detalles de puesta en escena son P; los participantes/acciones pedidos se conservan. R01–R54 mantienen sus IDs y se añaden R55–R57. No son una cuota de capítulos ni boda/compromiso confirmados.
 
 | Unidad | Ubicación propuesta | Escena / acción concreta | Continuidad |
 |---|---|---|---|
@@ -109,11 +109,14 @@ Todas las acciones nuevas de las tablas son **P**, derivadas de direcciones C; n
 | R47 | F, tras roja/Queen2 y descanso | Frieren propone una salida breve y se interesa por algo que Mau quiere hacer, además de compartir grimorios | Ella también organiza/elige por él; no sólo recibe regalos |
 | R48 | G temprano/medio | Mau propone otro rato/salida. Cada uno comparte algo suyo y dejan un pequeño plan que quieren repetir | Interés recíproco y vida propia dentro de la pareja |
 | R49 | G medio, antes de R50 | Plan espontáneo cumplido juntos: se buscan/esperan y hacen sitio a un gusto del otro con creciente naturalidad | La cercanía que provoca el comentario se ve antes, no se declara por resumen |
-| R50 | G medio, comida compartida | Alguien menciona boda; Mau se atraganta y Frieren se sonroja. Himmel está presente o lo conoce por un canal concreto; su reacción puede ser discreta | Desencadena R51–R53 sin exhibirlo ante la mesa ni usar secretos del Trial |
-| R51 | G medio, después de R50 | Himmel tiene un momento suyo y puede hablar con alguien de confianza; Stark es candidato editorial, no decisión del creador | Ya respeta la pareja: la posibilidad de futuro le concreta una pena, no le descubre otra vez el noviazgo |
+| R50 | G medio, comida compartida | Alguien menciona boda; Mau se atraganta y Frieren se sonroja. El recuerdo del Trial le provoca pánico; el tono deja de ser sólo cómico. Himmel recibe el comentario por presencia/canal concreto | No miedo a casarse con Frieren o celos; no burlarse del ataque ni exigir relato público |
+| R51 | G medio, después de R50, paralela a R56 | Frieren habla con Himmel; Mau se lo pide y acepta estar acompañado. Ella sabe cómo está. El interlocutor ya no está abierto: lo elige el nuevo mensaje | Himmel ya respeta la pareja; no otra competencia, comparación de dolores o bendición obligatoria |
 | R52 | G medio, después de R51 | Si elige algo de espacio, lo vive mediante ratos/actividad/compañía propios con continuidad visible | No partida permanente impuesta, castigo a la pareja o rival hostil |
 | R53 | G medio/tardío | Vuelve a una actividad/intercambio cotidiano con Mau u otros, desde su propia elección | El humor/respeto ganado sigue real; no otra bendición o curación emocional instantánea |
 | R54 | G tardío, con la pareja también presente durante R51–R53 | Otra salida/rato Mau/Frieren; posible retorno privado a lo que les hizo sentir el comentario y a un plan futuro | Avance concreto sin respuesta matrimonial definitiva; no pausar su alegría para proteger a Himmel |
+| R55 | Tras R50, antes de cruzar | Mau elige un cambio de entorno y acepta que Gojo/Rimuru/Yuta vayan con él; Frieren puede mirarlos para que se acerquen. Aviso, cobertura y ruta se acuerdan | Nada de seguimiento secreto o nueva desaparición; ambos Mau/Rimuru salen mediante acuerdo previo, no derogación de la regla |
+| R56 | G medio, paralela a R51 | Rato con los tres en una zona de dungeon conocida y con regreso posible: compañía, silencio o actividad sencilla elegida | No semana roja/entrada bloqueada, piso desconocido, checkpoint inventado o combate que cure el pánico; Gojo sabe sólo lo contado |
+| R57 | Regreso de R56 | Vuelven de forma visible; Mau/Frieren tienen un intercambio sencillo y él decide qué compartir | Ha mejorado y conserva triggers; no curación absoluta, nuevo poder o crisis romántica obligatoria |
 
 Himmel mantiene su lugar de secundario recurrente con foco propio y relaciones además de Frieren. El microarco se entrelaza con el verano; no obliga a rehacer Torre/Arquitecto ni a retirar tiempo del resto de la familia. La pareja continúa también en R10/R14/R20/R37/R40 y con los demás, sin aislarse para probar intimidad.
 
@@ -123,10 +126,10 @@ La tabla no mide cariño ni impone cuotas. Permite encontrar dónde hay intercam
 
 | Vínculo con Mau | Inicio/primer puente | Mitad | Tardío / consecuencia |
 |---|---|---|---|
-| Frieren | R03/R04/R06/R10/R46 | R12/R14/R20/R47/R48/R49/R50 | R37/R40/R54 y consecuencias R45; avance de pareja también entre unidades |
+| Frieren | R03/R04/R06/R10/R46 | R12/R14/R20/R47/R48/R49/R50/R55/R57 | R37/R40/R54 y consecuencias R45; avance de pareja también entre unidades |
 | Ori | R02/R04/R06 | R20/R23 | R40/R45 |
-| Yuta | R07/R09 | R20/R24/R26 | R41/R45 |
-| Rimuru | R05 y coordinación elegida | R20/R25/R26 | R41/R45 |
+| Yuta | R07/R09 | R20/R24/R26/R55/R56 | R41/R45 y regreso R57 |
+| Rimuru | R05 y coordinación elegida | R20/R25/R26/R55/R56 | R41/R45 y regreso R57 |
 | Bocchi | R15/R20b y retorno nocturno R20d | R21 | R37; Kita/banda siguen propias |
 | Umaru | R15/R20c | R22/R34 | R39; juego propio además del build |
 | Yuka | R07/R08/R13 | R20/R22 | R39; voluntad y familiaridad además de Oppa |
@@ -138,7 +141,7 @@ La tabla no mide cariño ni impone cuotas. Permite encontrar dónde hay intercam
 | Maomao | Cuidado existente sin nuevo primer vínculo | R33 | Tiempo propio/participación R36, revisar escena directa si queda sólo consulta |
 | Mikasa | Familia previa, no intimidad inventada en extracción | Vida autónoma y R38 preparado | R38/R45 según su actividad |
 | Qifrey | Preparativos/atelier continúan | R29 | Proyecto independiente R36; no sólo docente de Mau |
-| Gojo | R16/R20a | R26 | R43/R45, relación «estar alrededor» además de CT |
+| Gojo | R16/R20a | R26/R55/R56 | R43/R45 y regreso R57, relación «estar alrededor» además de CT |
 | Shoko | R01 o su alternativa/R04/R16 | R20/R32 | R43; el cuidado no le consume toda la vida |
 | Rem | R18 | R35 | Reciprocidad persiste en comidas/descansos, no volverla criada |
 | Fern | R11/R12/R17/R18 | R20/R27, con vínculo directo propio | Reparto y trato siguen en salidas posteriores, sin hacerla hermana pequeña |

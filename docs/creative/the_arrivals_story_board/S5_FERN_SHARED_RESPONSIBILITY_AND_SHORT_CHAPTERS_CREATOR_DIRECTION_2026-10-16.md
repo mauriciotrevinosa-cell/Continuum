@@ -79,3 +79,7 @@ No hace falta decidir cada descanso o pelea menor antes de escribir; sí estas d
 - [Plan integrado](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md), [alcance y estimación histórica](S5_FINAL_SCOPE_REVIEW_AND_LENGTH_ESTIMATE_2026-10-16.md), [auditoría de cobertura](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md), [progresión](S5_POWER_TRAINING_AND_PROGRESSION_PLAN_2026-10-16.md).
 
 Los mensajes anteriores se preservan como historia; las notas de «cambio de Fern aún no contado» quedan superadas sólo en ese punto por esta propuesta, no por una nueva resolución ya sucedida en canon.
+
+## Propuesta editorial posterior con nombres — pendiente de opinión del creador
+
+[Reparto doméstico concreto para discutir](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md): Fern sigue encargada; Jinshi prepara registros cotidianos tras liberar una franja mediante cobertura limitada/formada de Diablo en Arrival House; Nano puede comprobar sumas/stock puntualmente; Anko mantiene botín. Momo conserva su cocina elegida con dos tardes de relevo propuestas entre Rem/Seiko y apoyos, sin sobrecargar a quienes cubren. Los protagonistas también participan en tareas ordinarias. Todos los nombramientos/frecuencias aquí son propuestas, no decisiones aprobadas ni escenas ya sucedidas. Mantener la vida posterior que permite el tiempo ganado, no sólo una rota.

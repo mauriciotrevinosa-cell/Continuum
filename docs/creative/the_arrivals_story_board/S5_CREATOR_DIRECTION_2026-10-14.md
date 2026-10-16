@@ -81,3 +81,7 @@ Mau is the primary protagonist; Frieren is also a protagonist and their story is
 ## Cast transitions after fulfilled arcs — creator, 2026-10-16
 
 [Full second list and updated per-person map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md): Kaneki, Eren/Mikasa and remaining Dandadan protagonists may later choose a more settled/supporting role after their arcs; scouts, family and youth are possibilities, not immediate removals. Witch Hat/Qifrey is explicitly tentative, with learning/home/glyph contributions and a possible Richeh-brother thread to develop. Diablo is added to the satisfactory current supporting cast. Preserve independent life and future local spotlight; do not create arrivals, free ink or a retcon to force transitions. Existing domestic glyph light must be checked before an expansion is described as first invention.
+
+## Current spotlight ensemble is revisable — creator, 2026-10-16
+
+Read [the latest complete creator clarification and individual map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md). The19 remaining names form his preferred habitual spotlight ensemble now, with Mau/Frieren the central axis. This is not permanent or exclusive. Witch Hat remains tentative; all supporting cast may lead chapters, arcs or seasons. Maomao is an example of a satisfying supporting role with meaningful moments; Shoko's current integration needs can evolve. Never use labels to declare people unnecessary or forbid their future spotlight. The first sorting pass does not finish the individual relationship audit or authorise S4 repairs/S5 prose.

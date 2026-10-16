@@ -84,14 +84,14 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 |---|---|---:|---:|---:|---:|---:|---:|---:|---|---|
 | Mau | Centro existente | 26 | 31 | 30 | 24 | 33 | 24 | 18 | V25 #29 | Conservar el centro afectivo sin absorber todas las decisiones y soluciones. |
 | Frieren | Centro existente | 20 | 24 | 24 | 23 | 28 | 24 | 15 | V25 #29 | Preservar magia, iniciativa y vínculos propios además de la pareja; revisar Fern. |
-| Fern | Por decidir con el creador | 18 | 23 | 25 | 20 | 23 | 27 | 17 | V25 #29 | Separar agencia y vida propia del ledger; conservar Fort, Stark y reciprocidad con Frieren. |
-| Stark | Por decidir con el creador | 2 | 8 | 5 | 11 | 10 | 5 | 10 | V25 #27 | Revisar deseos y relaciones que no sean únicamente acompañar a Fern o luchar al frente. |
-| Rimuru | Protagonista coral confirmado por el creador; foco rotativo | 23 | 22 | 24 | 20 | 24 | 22 | 12 | V25 #29 | Conservar al hermano/compañero más allá de retransmitir Ciel y resolver infraestructura. |
-| Ori | Familia central; presencia insuficiente percibida, revisar | 12 | 9 | 8 | 6 | 10 | 10 | 9 | V25 #24 | Mantener deseos, amistades y decisiones propias además de la preocupación por Mau. |
-| Milim | Por decidir con el creador | 13 | 16 | 13 | 12 | 18 | 12 | 7 | V25 #29 | Sostener familia y juego además de rescates y fuerza; sus momentos no requieren crisis. |
-| Yuta | Protagonista coral confirmado por el creador; foco rotativo | 15 | 12 | 10 | 14 | 28 | 12 | 2 | V25 #27 | Revisar continuidad del hermano mayor, pareja, abuelo y amigo tras su bloque fuerte. |
-| Maki | Por decidir con el creador | 15 | 11 | 8 | 10 | 22 | 5 | 2 | V25 #24 | Revisar iniciativa propia y amistades después de Yuka; no reducirla a contener crisis. |
-| Umaru | Por decidir con el creador | 11 | 24 | 17 | 17 | 16 | 10 | 6 | V25 #21 | Conservar presidenta, hermana y joven con necesidades propias además del gag del Fort. |
+| Fern | Foco coral habitual preferido ahora (creador); categoría revisable | 18 | 23 | 25 | 20 | 23 | 27 | 17 | V25 #29 | Separar agencia y vida propia del ledger; conservar Fort, Stark y reciprocidad con Frieren. |
+| Stark | Foco coral habitual preferido ahora (creador); categoría revisable | 2 | 8 | 5 | 11 | 10 | 5 | 10 | V25 #27 | Revisar deseos y relaciones que no sean únicamente acompañar a Fern o luchar al frente. |
+| Rimuru | Foco coral habitual preferido ahora (creador); categoría revisable | 23 | 22 | 24 | 20 | 24 | 22 | 12 | V25 #29 | Conservar al hermano/compañero más allá de retransmitir Ciel y resolver infraestructura. |
+| Ori | Foco coral habitual preferido ahora (creador); categoría revisable | 12 | 9 | 8 | 6 | 10 | 10 | 9 | V25 #24 | Mantener deseos, amistades y decisiones propias además de la preocupación por Mau. |
+| Milim | Foco coral habitual preferido ahora (creador); categoría revisable | 13 | 16 | 13 | 12 | 18 | 12 | 7 | V25 #29 | Sostener familia y juego además de rescates y fuerza; sus momentos no requieren crisis. |
+| Yuta | Foco coral habitual preferido ahora (creador); categoría revisable | 15 | 12 | 10 | 14 | 28 | 12 | 2 | V25 #27 | Revisar continuidad del hermano mayor, pareja, abuelo y amigo tras su bloque fuerte. |
+| Maki | Foco coral habitual preferido ahora (creador); categoría revisable | 15 | 11 | 8 | 10 | 22 | 5 | 2 | V25 #24 | Revisar iniciativa propia y amistades después de Yuka; no reducirla a contener crisis. |
+| Umaru | Foco coral habitual preferido ahora (creador); categoría revisable | 11 | 24 | 17 | 17 | 16 | 10 | 6 | V25 #21 | Conservar presidenta, hermana y joven con necesidades propias además del gag del Fort. |
 | Coco | Posible cambio a aprendizaje/hogar; creador aún duda | 7 | 14 | 13 | 3 | 4 | 12 | 0 | V25 #29 | Comprobar continuidad después del arco de su madre y su pertenencia al atelier y familia. |
 | Bocchi | Secundario recurrente percibido; foco ampliable (creador) | 9 | 14 | 10 | 5 | 8 | 2 | 5 | V25 #24 | Distinguir tocar en una escena de tener deseos, elección y vínculos propios. |
 | Kita | Secundario recurrente percibido; foco ampliable (creador) | 3 | 8 | 8 | 7 | 9 | 2 | 5 | V25 #24 | Revisar vida propia y pareja visible sin convertirla sólo en facilitadora de Bocchi. |
@@ -103,9 +103,9 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 | Marin | Secundario recurrente percibido; foco ampliable (creador) | 6 | 4 | 6 | 4 | 7 | 4 | 4 | V25 #18 | Separar vida afectiva y creatividad elegida de producción de objetos para otros. |
 | Wakana | Secundario recurrente percibido; foco ampliable (creador) | 5 | 12 | 19 | 12 | 13 | 7 | 19 | V25 #21 | Examinar tiempo propio, pareja y creatividad además de encargos y reparaciones. |
 | Maomao | Secundario recurrente percibido; foco ampliable (creador) | 6 | 13 | 12 | 8 | 12 | 9 | 10 | V25 #25 | Mantener curiosidad, elección, relaciones y límites fuera de la lista de pacientes. |
-| Senku | Por decidir con el creador | 8 | 20 | 23 | 11 | 13 | 14 | 10 | V25 #29 | Separar científico/persona de dispensador de inventos; no reducir todo avance a él. |
-| Suika | Por decidir con el creador | 4 | 8 | 7 | 4 | 4 | 4 | 2 | V25 #21 | Revisar iniciativa y relaciones propias sin obligarla a un arco grande. |
-| Anko | Por decidir con el creador | 10 | 8 | 7 | 9 | 9 | 14 | 9 | V25 #28 | Conservar amistad, humor y necesidades además del cuaderno y vigilancia. |
+| Senku | Foco coral habitual preferido ahora (creador); categoría revisable | 8 | 20 | 23 | 11 | 13 | 14 | 10 | V25 #29 | Separar científico/persona de dispensador de inventos; no reducir todo avance a él. |
+| Suika | Foco coral habitual preferido ahora (creador); categoría revisable | 4 | 8 | 7 | 4 | 4 | 4 | 2 | V25 #21 | Revisar iniciativa y relaciones propias sin obligarla a un arco grande. |
+| Anko | Foco coral habitual preferido ahora (creador); categoría revisable | 10 | 8 | 7 | 9 | 9 | 14 | 9 | V25 #28 | Conservar amistad, humor y necesidades además del cuaderno y vigilancia. |
 | Himmel | Secundario recurrente (creador); cabos personales por desarrollar | 1 | 3 | 8 | 8 | 5 | 15 | 8 | V25 #29 | Revisar su lugar propio y nuevas relaciones sin limitarlo al pasado de Frieren. |
 | Qifrey | Posible cambio a aprendizaje/hogar; creador aún duda | 2 | 6 | 8 | 1 | 1 | 6 | 0 | V25 #19 | Revisar continuidad tras Coco y límites/decisiones del atelier; no sólo autoridad útil. |
 | Agott | Posible cambio a aprendizaje/hogar; creador aún duda | 5 | 5 | 11 | 2 | 2 | 4 | 0 | V25 #19 | Revisar su voz y vínculo específico con Coco sin sustituirlos por el nombre del grupo. |
@@ -117,14 +117,14 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 | Nano | Secundario recurrente percibido; foco ampliable (creador) | 4 | 8 | 3 | 2 | 2 | 1 | 4 | V25 #29 | Distinguir personalidad y relaciones de utilidad organizativa para el grupo. |
 | Kusuri | Secundario recurrente percibido; foco ampliable (creador) | 3 | 9 | 2 | 1 | 3 | 4 | 6 | V25 #29 | Distinguir curiosidad y familia de función científica; no usarla para cubrir a las cinco. |
 | Mai | Secundaria; más presencia solicitada (creador) | 3 | 4 | 7 | 3 | 9 | 1 | 1 | V25 #18 | Revisar continuidad y vínculos respetando su distancia y arco privado protegido. |
-| Rem | Por decidir con el creador | 6 | 11 | 7 | 10 | 4 | 7 | 5 | V25 #29 | Mantener reciprocidad y elección propia; no volverla cuidadora permanente. |
+| Rem | Foco coral habitual preferido ahora (creador); categoría revisable | 6 | 11 | 7 | 10 | 4 | 7 | 5 | V25 #29 | Mantener reciprocidad y elección propia; no volverla cuidadora permanente. |
 | Seika | Secundario recurrente percibido; foco ampliable (creador) | 0 | 0 | 4 | 16 | 5 | 5 | 4 | V25 #29 | Revisar integración y vínculo con Nijika más allá de su llegada y reacciones familiares. |
-| Ram | Por decidir con el creador | 0 | 2 | 1 | 7 | 4 | 6 | 2 | V25 #29 | Revisar vida propia y hermana además de sarcasmo y restricciones de mana. |
+| Ram | Foco coral habitual preferido ahora (creador); categoría revisable | 0 | 2 | 1 | 7 | 4 | 6 | 2 | V25 #29 | Revisar vida propia y hermana además de sarcasmo y restricciones de mana. |
 | Kaneki | Posible transición a secundario después de su arco (creador) | 3 | 8 | 10 | 3 | 1 | 4 | 0 | V25 #8 | Revisar el hueco de continuidad y sus vínculos fuera de empatía por cuerpos peligrosos. |
 | Aira | Posible transición a secundario después de su arco (creador) | 2 | 2 | 6 | 2 | 3 | 11 | 10 | V25 #29 | Distinguir desarrollo propio de asignación continua de trabajo/protección. |
 | Vamola | Secundario recurrente percibido; foco ampliable (creador) | 2 | 3 | 4 | 2 | 2 | 2 | 5 | V25 #23 | Verificar pertenencia con Momo/Fort sin resolver una omisión sólo con menciones. |
 | Turbo Granny | Secundario recurrente percibido; foco ampliable (creador) | 2 | 6 | 3 | 2 | 9 | 4 | 1 | V25 #27 | Revisar voz y relaciones además de remates en escenas ajenas. |
-| Nazuna | Por decidir con el creador | 2 | 4 | 7 | 1 | 1 | 4 | 2 | V25 #27 | Revisar continuidad propia y Anko sin forzar romance ni convertirla sólo en vigilancia. |
+| Nazuna | Foco coral habitual preferido ahora (creador); categoría revisable | 2 | 4 | 7 | 1 | 1 | 4 | 2 | V25 #27 | Revisar continuidad propia y Anko sin forzar romance ni convertirla sólo en vigilancia. |
 | Jinshi | Secundario recurrente percibido; foco ampliable (creador) | 2 | 6 | 6 | 2 | 8 | 7 | 6 | V25 #22 | Reevaluar función real en Arrival House y vida propia; comprobar ocupación antes de reasignar. |
 | Diablo | Secundario recurrente actual satisfactorio (creador) | 1 | 8 | 7 | 7 | 10 | 6 | 3 | V25 #27 | Conservar su elección de asistir a todos y vínculos; no reducirlo a logística/puertas. |
 | Eren | Posible transición a secundario después de su arco (creador) | 7 | 6 | 9 | 12 | 6 | 14 | 9 | V25 #29 | Revisar continuidad después del arco de seguridad y pareja sin repetir el conflicto. |
@@ -136,9 +136,9 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 | Sekhmet | Secundario recurrente percibido; foco ampliable (creador) | 0 | 0 | 10 | 2 | 5 | 0 | 2 | V24 #26 | Conservar voz y vínculos; baja frecuencia no basta para diagnosticar abandono. |
 | Carmilla | Secundario recurrente percibido; foco ampliable (creador) | 0 | 0 | 4 | 1 | 1 | 0 | 1 | V24 #23 | Revisar continuidad con Bocchi y su propia voz sin forzar un arco nuevo. |
 | Minerva | Secundario recurrente percibido; foco ampliable (creador) | 0 | 0 | 7 | 3 | 3 | 0 | 2 | V24 #24 | Conservar personalidad y relaciones además de ayudar físicamente a otros. |
-| Gojo | Por decidir con el creador | 2 | 1 | 2 | 0 | 32 | 21 | 6 | V25 #29 | Revisar reparto entre mentoría, amistad, pareja y autonomía sin desplazar al resto. |
-| Shoko | Por decidir con el creador | 0 | 0 | 0 | 0 | 16 | 19 | 7 | V25 #29 | Conservar vida propia y recuperación además de medicina/cuidado de Mau. |
-| Yuka | Revisión prioritaria; rotación propuesta, no cerrada | 0 | 0 | 0 | 1 | 16 | 7 | 3 | V25 #24 | Reconectar hermana/familia/Fort y decisiones propias después de su arco; no sólo Oppa/perra. |
+| Gojo | Foco coral habitual preferido ahora (creador); categoría revisable | 2 | 1 | 2 | 0 | 32 | 21 | 6 | V25 #29 | Revisar reparto entre mentoría, amistad, pareja y autonomía sin desplazar al resto. |
+| Shoko | Foco coral habitual preferido ahora (creador); categoría revisable | 0 | 0 | 0 | 0 | 16 | 19 | 7 | V25 #29 | Conservar vida propia y recuperación además de medicina/cuidado de Mau. |
+| Yuka | Foco coral habitual preferido ahora (creador); categoría revisable | 0 | 0 | 0 | 1 | 16 | 7 | 3 | V25 #24 | Reconectar hermana/familia/Fort y decisiones propias después de su arco; no sólo Oppa/perra. |
 | Madre de Coco | Secundario recurrente percibido; foco ampliable (creador) | 1 | 0 | 0 | 0 | 0 | 8 | 0 | V25 #29 | Revisar agencia e integración después del rescate; el nombre literal no captura pronombres. |
 | Byakuya | Secundario recurrente percibido; foco ampliable (creador) | 0 | 1 | 0 | 0 | 0 | 6 | 4 | V25 #29 | Revisar vida compartida más allá del efecto de su llegada sobre Senku. |
 | Jiji | Posible transición a secundario después de su arco (creador) | 0 | 0 | 0 | 0 | 0 | 3 | 2 | V25 #24 | Revisar integración posterior a su llegada sin imponer protagonismo inmediato. |
@@ -218,3 +218,17 @@ Before writing, reconcile the degree of unresolved pain with existing scenes of 
 Being content is not mandatory for respectful behaviour; nor does accepting the relationship mean he must already be emotionally finished with it. Exact expression remains for the creator to develop. No S4 retcon, permanent departure or S5 prose is authorised here.
 
 Inventory checkpoint: of the original60,19 remain in the current unclassified discussion group when the five Witch Hat candidates are provisionally held aside. If those five are included as unresolved,24 remain. Ciel is an additional separate entry. Numbers describe discussion status, not a final count of protagonists.
+
+## Creator current spotlight ensemble — a living emphasis, not permanent rank
+
+Creator, 2026-10-16, exact message:
+
+> okay los que quedna siento que son los que la historia gira alrededor de y son en si los que mas disfruto en el spotlight no te equivoques amoa  todos pero por ejemplo mao mao ya tiene su puesto lo disfruta y luego tiene sus moementos shoko andamos metiendola apenas entonces tal ves en un futuro cambie es que no quiero que creas pq uno esta en un lugar no sea necesario  o asumas uqe ya no deben de tomar el spotlight y asi
+
+The current19 remaining after Himmel's classification are the creator's preferred habitual spotlight ensemble: **Mau, Frieren, Fern, Stark, Rimuru, Ori, Milim, Yuta, Maki, Umaru, Senku, Suika, Anko, Rem, Ram, Nazuna, Gojo, Shoko and Yuka**. Mau remains the primary protagonist and Frieren also a central protagonist; the ensemble has its own independent stories. This is a current emphasis, not an exclusive permanent protagonist roster or a guarantee of equal page counts. Witch Hat's five-person tentative placement remains genuinely open and is not settled by "los que quedan".
+
+The creator loves the wider cast. Supporting characters remain necessary, relationally alive and eligible to lead a chapter, arc or season. Do not use a role label to reject their spotlight, skip scenes they need or flatten them into a job. Conversely, do not manufacture a next crisis for everyone whose current life is satisfying. The creator specifically cites Maomao as enjoying her place and having her moments; preserve that rather than automatically diagnose her role as oppressive or incomplete.
+
+Shoko is still being integrated; her current spotlight need may change later. The same evolving approach applies to the cast as a whole: classify current narrative weight, open needs and chosen life separately, then revisit when arcs develop. A supporting character can become central, a lead can settle into support, and someone can matter deeply without fighting. No permanent exclusion, quota, disposable-person category or blanket future plot is implied.
+
+This completes the creator's first pass of the current60-person sorting, with Witch Hat's tentative branch explicitly unresolved. It does not complete the requested individual relationship/agency audit or authorise starting that deferred review without the creator's direction. No S4 edits, new arrivals, teams or S5 chapters are written.

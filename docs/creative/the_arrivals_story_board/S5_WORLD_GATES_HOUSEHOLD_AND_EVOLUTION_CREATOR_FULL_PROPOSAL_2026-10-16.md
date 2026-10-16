@@ -182,3 +182,34 @@ Creator follow-up, same day:
 > entocnes lo de la doble mazmorra no quedaria cerrado como te lo di sino es una base y de ahi falta hacer el resto no?
 
 Confirmed working interpretation: the Architect/double-dungeon proposal is a base, not a closed arc. Approach, party, tests, discoveries, decisions, climax, outcome, aftermath and parallel household/world developments remain to build together. Preserve the proposed motive and uncertainty without treating the missing middle or ending as already settled.
+
+## Creator revision — anniversary date after Exchange and early natural levitation
+
+Creator, 2026-10-16, complete original message:
+
+> okay entonces para la date mau se recupera y en paralelo le preguntan a frieren que cuanto ya lleva con mau puede ser que se lo pregunte shoko o alguien entonces nace de maud e agradecer y a la ves frieren le dice algo a mau de que se olvido su aniversario haciendo las cosas mas interesantes y ya se que dije antes de jin woo pero podemos hacer que mau se meta al sungeon por un grimorio sucede lo de jin woo se recupera y completa el dungeon y ahi consigue unos cuantos luego la cita asi damos un respiro entre la puerta el susto y una cena romantica con regalos de disculpa y una elfa bien contenta y me gustaria poner en el record que quiero qe lo rpimero que pueda hacer mau natural sea volar tal ves flota uno metro arriba del suelo entonces tenemos como frieren ya no le en su silla sino encima de mau flotando y leyendo y podemos tener comedia pura de ahi de la nada gente comiendo y frierne usando a mau comoa barco para la cocina y ella super feliz y mau fleiz por ella y todos como eeeee y asi
+
+### Current sequence — replaces earlier date-before-Exchange placement
+
+1. Door/Goddess/Noise encounter and return, then the existing recovery/care/household briefing framework. Preserve earlier detailed scenes; this outline is navigation, not compression.
+2. In parallel with recovery, someone asks Frieren how long she and Mau have been together. Shoko is a possible speaker, not a locked assignment. The conversation brings the anniversary into focus.
+3. Mau wants a date as thanks; Frieren mentions his forgetting their anniversary, adding affectionate friction and a reason for apology gifts. Do not invent an established estrangement, serious accusation or a forgotten-anniversary scene in S4.
+4. An ordinary dungeon outing seeking a grimoire leads to the ant/shadow and accidental Jin-Woo Exchange. This supplies a domestic reason for the outing while preserving its accidental nature. It is not a planned dangerous expedition to buy forgiveness or an automatic solo trip; party and safe readiness remain to choose.
+5. Mau returns exhausted; preserve the debrief, Noise "sorry" / pause / "yes" and informed green light already proposed. Allow recovery before another outing. The creator then wants him to complete the dungeon and obtain several grimoires. Which dungeon/weekly instance, party, timing and completion scope require definition; do not assume this means clearing the later 100-floor or double dungeon, or guaranteed grimoire stock in every dungeon.
+6. The date follows: a romantic dinner, gifts of apology/thanks and a delighted Frieren. Include breathing room and ordinary transitions; do not collapse the door recovery and Exchange recovery into one event. Location, exact gifts/grimoire contents, dinner staging and full emotional dialogue remain to develop.
+
+This specifically supersedes the older instruction that the date precedes Jin-Woo/Exchange. No new Red Gate relative placement is fixed by this message; retain the existing date-before-Red-Gate intent unless later revised. Other overlapping arcs remain part of the season plan.
+
+### Anniversary chronology — verify before prose
+
+The working series estimate places formalisation at Month13–14 and S3 ending at Month24, so the first anniversary would fall early in S4. A targeted repository search found no explicitly labelled couple-anniversary celebration; that is not proof of an exhaustive all-scenes audit. Preserve the newly proposed delayed celebration without calling S5 the first time one year has elapsed.
+
+There is an unresolved calendar mismatch: the planning constraint limits S4 to six months while current V26 ends at Day262 of the Return/Stay count. Reconcile the calendar before exact dates, ages or relationship-duration dialogue. The Trial/aftermath provides a plausible context for missing a date, but this has not been retroactively written as the definitive reason. Later crises cannot retrospectively cause an earlier omission. Retain the real earlier dates and affectionate life; this is not their first date or evidence that they neglected each other throughout.
+
+### Mau's natural flight / low levitation — creator direction
+
+Record the creator's desired first natural achievement as flight, initially perhaps floating roughly one metre above the floor. Initial height is tentative, not a final calibrated rule. Define the intended progression category/mechanism before prose: S4 The Fifth Flower already depicts his own mana producing flowers outside a deliberate elf-route trial, so do not falsely call this his first-ever own-mana magic or erase that scene. It can be developed as the first new natural flight achievement without retconning earlier flowers. No new mana reservoir, full elf-route solution or automatic technique from the level System is asserted here.
+
+Preserve the domestic comedy image: instead of only reading in the chair, Frieren lies/sits on floating Mau and reads; while people eat, she uses him as a little boat toward the kitchen. She is delighted, he is happy to see her happy, and the household reacts in disbelief. This is a proposed future scene, not current flight mastery. Establish low-speed control, duration, load and stopping safely before sustained use with another person; exact limits and timing relative to the date are not fixed. Do not automatically equate carrying Frieren with lifting every passenger/weight or combat flight.
+
+Status remains skeleton/idea development, not a completed date arc, finished dungeon arc or permission to write S5 chapters.

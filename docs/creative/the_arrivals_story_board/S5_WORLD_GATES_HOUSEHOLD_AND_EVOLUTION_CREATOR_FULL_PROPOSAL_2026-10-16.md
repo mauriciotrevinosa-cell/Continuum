@@ -295,3 +295,34 @@ The creator still wants a later upgrade introducing purchases of grimoires, magi
 Preserve the tier distinction: initial/conventional armour stays visible with material drawbacks such as weight and reduced mobility. The rare later type can become invisible while providing the equipped wearer's stat benefits without those ordinary armour drawbacks. It is **not introduced yet**; rarity and progression matter. Creator specifies rare acquisition from **chests or defeated bosses**, not ordinary shop stock. No unlimited stat stacking, exact item, strength, wearer, unlock time or removal of every possible cost is defined here. Do not accidentally put this special armour into the upcoming basic outing or grant it to everyone.
 
 This entry supplies party, motives, comic scene proposals and upgrade seeds. It remains an arc skeleton, not a completed expedition/date/Red Gate or authorisation for S5 chapters. The people who stay home retain their own lived scenes under the universal ensemble rule; no forced role for every person in every chapter.
+
+## Red Gate reward and hidden Architect test — partial level-one System and visible key
+
+Creator, 2026-10-16, complete original message:
+
+> el upgrade tengo una idea que sea la recompensa del gat rojo entonces asumen que esa es una mision pero lo que no saben en verdad que es el arquitect probando a mau como hizo a jinwoo  y para este punto mau ya debe de ver que tiene el sistema de woo peor no al 100% solo tiene acceso a esa nueva ram de stats y que es nivel uno  y aqui aprende que solo sube de nivel contra cosas de la gate y  y aqui es dodne el nuevo sistema al completar la gat le da una lalve que todos pueden ver agarrar pero sale un mensajito que dice owner mau gate appears y que diga como una semana o el tiemp suficiente para que haya breathing entre eevnetos de las gates y asi
+
+### New causal connection — planning direction
+
+- The creator proposes the **gate upgrade as the Red Gate completion reward**. The party interprets what is happening as a mission. They do not yet know the Architect is testing Mau, in the proposed parallel to Jin-Woo's testing.
+- This adds a hidden Architect connection to the Red Gate. It refines the earlier plan of a separately mapped Architect double dungeon without automatically merging all events: the Red Gate can be his test and a later Architect/double-dungeon encounter remain distinct. Exact sequence, access/control, when the group learns this, and whether the later key leads to that event or to the100 floors remain unresolved. Do not call the Architect's test setup source-canon merely because the creator invokes an analogy; verify source version when developing him.
+- Preserve the initial apparently normal gate, Frieren-led party, and her genuine preparation/agency. Do not let hidden targeting of Mau erase the rest of the party's decisions or make Frieren's leadership a sham. No Red Gate internal tests, boss, outcome choreography or full trial design is written yet.
+
+### Mau's visible partial System at this point
+
+- By the Red Gate segment Mau can see that he has a Jin-Woo-like System, but **only the new stats/progression branch is accessible**, and he is **level1** at the relevant introductory point. How/when the interface first becomes visible between Exchange and this outing remains to stage.
+- "Not100%" here describes partial System access, not a locked percentage value for Mau or the usual arrival-synchronisation scale. It does not give all Monarch powers, remove unknown requirements, reveal species or reset his existing non-System abilities to a beginner's total strength.
+- He learns that levelling comes only from things/creatures **inside the gates**, as the creator specifies. No ordinary-world kills, training or work secretly award levels under this rule. Growth outside that System through existing practice/knowledge remains a separate question, not forbidden by the XP restriction.
+- Exact XP allocation, kill/assist/party credit, level rate, available stats, rewards and whether the Red Gate removes any other restrictions still need design. Do not assign a final level on completion, a stat budget, an automatic Monarchy toolkit or instant full adaptation.
+- Mau's personal HUD is distinct from the separately proposed reward allowing everyone to see their adaptation/synchronisation. This message does not automatically grant that universal display now.
+
+### Completion key and next-event breathing space
+
+- Completing the Red Gate yields a **physical key that everyone can see and hold**. Preserve its shared visibility/tangibility rather than treating it as a private UI-only object.
+- A small message identifies ownership and a future appearance, in the creator's working wording **"owner mau gate appears"**. Exact formatting and who can see the message itself are not settled; physical key visibility does not automatically prove universal private-HUD access.
+- The timer is **roughly one week, or enough time for breathing room between gate events**. It is a pacing proposal, not a fixed calendar date. Reconcile with the existing weekly cycle and subsequent event placement; do not trigger the next crisis immediately.
+- Owner label does not yet establish which person can activate it, whether it is transferable, what happens if someone else holds it, its destination, or whether it relocates the original gate. Define those mechanics together rather than silently converting them into restrictions or extra rewards.
+- Keep the earlier one-use gate-relocation reward as its own pending idea unless the creator connects it to this reward. Likewise do not decide that the key opens the100-floor or double dungeon yet.
+- Spend the interval on recovery as needed, relationships, household/world progress and preparation; its exact content should interweave the existing S5 agenda. No implication that every day is a countdown scene or that other people are paused while Mau waits.
+
+The gate-upgrade menu (grimoires, collectibles, armour development) still needs detailed design and progression limits; this note places its proposed reward trigger. Existing rare invisible-armour chest/boss rule remains. S5 stays in skeleton/development stage, not approved prose.

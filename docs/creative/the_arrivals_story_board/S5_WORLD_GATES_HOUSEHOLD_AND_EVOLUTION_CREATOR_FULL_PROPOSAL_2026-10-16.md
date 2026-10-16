@@ -235,3 +235,15 @@ Creator, 2026-10-16, complete original message:
 - Fern's prior approval should fit an agreed household/expedition arrangement, not establish ownership over the couple's agency or make her the only person responsible for their safety. Other participating characters still need their own reasons, agreement and preparation.
 - A discreet gift-preparation mission is not another secret dangerous departure. Existing transparency/rest/medical readiness and the two preceding recoveries remain meaningful. High-end food/wine must come from available trade and resources; choose details when the scene is developed.
 - No exact team, gate transformation, final dinner menu/location, reward contents or Red Gate outcome is locked here. Simple romantic dinner is the creator's requested scene scale. This remains an expanded skeleton, not a completed arc or S5 production go-ahead.
+
+## Creator clarification — Frieren at the front as recognition, not permission
+
+Creator, 2026-10-16, exact message:
+
+> si pq lo de ella en frente cirucla a que frieren dijo en un punto y tal ves mau no se entera pero nota que frieren le da una impotencia no poder ser la del frente entonces lo planea bien y que opinaste que mau logre lo de volar un metro arriba del piso ya no dijiste?
+
+The expedition gift responds to Frieren's frustration at not being the person at the front. Locate her actual earlier statement before a callback. Mau need not have heard that private statement: he may notice the frustration through observable behaviour and plan thoughtfully. Do not grant him access to unshared dialogue or memories.
+
+The emotional intent is recognition of her competence and desire to lead, not Mau granting an otherwise forbidden right or portraying Frieren as inherently unable to lead. Develop a genuine leading role with decisions of her own, rather than a staged consolation in which Mau secretly does everything. Team, conditions and current limits still need joint development; no exact expedition mechanism is settled here.
+
+Creator also asks for editorial evaluation of the previously recorded low natural flight (~one metre), not an additional power grant. Its domestic joy and comedy are intended alongside gradual control development. Keep the already recorded earlier flowers/own-mana continuity and do not silently make later passenger carrying an immediately proven ability.

@@ -92,13 +92,13 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 | Yuta | Protagonista coral confirmado por el creador; foco rotativo | 15 | 12 | 10 | 14 | 28 | 12 | 2 | V25 #27 | Revisar continuidad del hermano mayor, pareja, abuelo y amigo tras su bloque fuerte. |
 | Maki | Por decidir con el creador | 15 | 11 | 8 | 10 | 22 | 5 | 2 | V25 #24 | Revisar iniciativa propia y amistades después de Yuka; no reducirla a contener crisis. |
 | Umaru | Por decidir con el creador | 11 | 24 | 17 | 17 | 16 | 10 | 6 | V25 #21 | Conservar presidenta, hermana y joven con necesidades propias además del gag del Fort. |
-| Coco | Por decidir con el creador | 7 | 14 | 13 | 3 | 4 | 12 | 0 | V25 #29 | Comprobar continuidad después del arco de su madre y su pertenencia al atelier y familia. |
+| Coco | Posible cambio a aprendizaje/hogar; creador aún duda | 7 | 14 | 13 | 3 | 4 | 12 | 0 | V25 #29 | Comprobar continuidad después del arco de su madre y su pertenencia al atelier y familia. |
 | Bocchi | Secundario recurrente percibido; foco ampliable (creador) | 9 | 14 | 10 | 5 | 8 | 2 | 5 | V25 #24 | Distinguir tocar en una escena de tener deseos, elección y vínculos propios. |
 | Kita | Secundario recurrente percibido; foco ampliable (creador) | 3 | 8 | 8 | 7 | 9 | 2 | 5 | V25 #24 | Revisar vida propia y pareja visible sin convertirla sólo en facilitadora de Bocchi. |
 | Nijika | Secundario recurrente percibido; foco ampliable (creador) | 1 | 6 | 7 | 9 | 4 | 5 | 5 | V25 #29 | Mantener agencia y vínculos con Kessoku/Seika sin obligar un arco nuevo. |
 | Ryo | Secundario recurrente percibido; foco ampliable (creador) | 3 | 4 | 5 | 1 | 3 | 1 | 4 | V25 #8 | Revisar si su baja recurrencia tiene escenas suficientes más allá de remates cómicos. |
-| Momo | Por decidir con el creador | 13 | 16 | 19 | 16 | 14 | 18 | 19 | V25 #29 | Examinar cocina elegida/carga compartida y su vida con Okarun/Vamola y otras amistades. |
-| Okarun | Por decidir con el creador | 1 | 4 | 11 | 5 | 14 | 6 | 5 | V25 #27 | Revisar identidad cotidiana, pareja y amistad con Jiji fuera de funciones de búsqueda. |
+| Momo | Posible transición a secundario después de su arco (creador) | 13 | 16 | 19 | 16 | 14 | 18 | 19 | V25 #29 | Examinar cocina elegida/carga compartida y su vida con Okarun/Vamola y otras amistades. |
+| Okarun | Posible transición a secundario después de su arco (creador) | 1 | 4 | 11 | 5 | 14 | 6 | 5 | V25 #27 | Revisar identidad cotidiana, pareja y amistad con Jiji fuera de funciones de búsqueda. |
 | Seiko | Secundario recurrente percibido; foco ampliable (creador) | 4 | 15 | 13 | 6 | 13 | 9 | 1 | V25 #28 | Examinar presencia propia y amistades además de consejo y resolución sobrenatural. |
 | Marin | Secundario recurrente percibido; foco ampliable (creador) | 6 | 4 | 6 | 4 | 7 | 4 | 4 | V25 #18 | Separar vida afectiva y creatividad elegida de producción de objetos para otros. |
 | Wakana | Secundario recurrente percibido; foco ampliable (creador) | 5 | 12 | 19 | 12 | 13 | 7 | 19 | V25 #21 | Examinar tiempo propio, pareja y creatividad además de encargos y reparaciones. |
@@ -107,10 +107,10 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 | Suika | Por decidir con el creador | 4 | 8 | 7 | 4 | 4 | 4 | 2 | V25 #21 | Revisar iniciativa y relaciones propias sin obligarla a un arco grande. |
 | Anko | Por decidir con el creador | 10 | 8 | 7 | 9 | 9 | 14 | 9 | V25 #28 | Conservar amistad, humor y necesidades además del cuaderno y vigilancia. |
 | Himmel | Foco perdido percibido; revisar, no relegación aprobada | 1 | 3 | 8 | 8 | 5 | 15 | 8 | V25 #29 | Revisar su lugar propio y nuevas relaciones sin limitarlo al pasado de Frieren. |
-| Qifrey | Por decidir con el creador | 2 | 6 | 8 | 1 | 1 | 6 | 0 | V25 #19 | Revisar continuidad tras Coco y límites/decisiones del atelier; no sólo autoridad útil. |
-| Agott | Por decidir con el creador | 5 | 5 | 11 | 2 | 2 | 4 | 0 | V25 #19 | Revisar su voz y vínculo específico con Coco sin sustituirlos por el nombre del grupo. |
-| Tetia | Por decidir con el creador | 2 | 2 | 6 | 1 | 2 | 4 | 0 | V25 #19 | Revisar presencia individual dentro del atelier/familia sin forzar protagonismo. |
-| Richeh | Por decidir con el creador | 2 | 1 | 7 | 1 | 2 | 3 | 0 | V25 #19 | Revisar presencia individual y silencios significativos; no confundir silencio con ausencia. |
+| Qifrey | Posible cambio a aprendizaje/hogar; creador aún duda | 2 | 6 | 8 | 1 | 1 | 6 | 0 | V25 #19 | Revisar continuidad tras Coco y límites/decisiones del atelier; no sólo autoridad útil. |
+| Agott | Posible cambio a aprendizaje/hogar; creador aún duda | 5 | 5 | 11 | 2 | 2 | 4 | 0 | V25 #19 | Revisar su voz y vínculo específico con Coco sin sustituirlos por el nombre del grupo. |
+| Tetia | Posible cambio a aprendizaje/hogar; creador aún duda | 2 | 2 | 6 | 1 | 2 | 4 | 0 | V25 #19 | Revisar presencia individual dentro del atelier/familia sin forzar protagonismo. |
+| Richeh | Posible cambio a aprendizaje/hogar; creador aún duda | 2 | 1 | 7 | 1 | 2 | 3 | 0 | V25 #19 | Revisar presencia individual y silencios significativos; no confundir silencio con ausencia. |
 | Hakari | Secundario recurrente percibido; foco ampliable (creador) | 4 | 13 | 4 | 1 | 2 | 1 | 3 | V25 #29 | Revisar deseos y vínculos propios dentro y fuera de las cinco; rol aún por decidir. |
 | Karane | Secundario recurrente percibido; foco ampliable (creador) | 2 | 8 | 4 | 1 | 2 | 1 | 3 | V25 #29 | Revisar función fuera del remate cómico y relaciones reales dentro del grupo. |
 | Shizuka | Secundario recurrente percibido; foco ampliable (creador) | 1 | 5 | 1 | 0 | 2 | 1 | 4 | V25 #29 | Revisar decisiones y afecto individual sin exigir extroversión ni un gran arco. |
@@ -120,15 +120,15 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 | Rem | Por decidir con el creador | 6 | 11 | 7 | 10 | 4 | 7 | 5 | V25 #29 | Mantener reciprocidad y elección propia; no volverla cuidadora permanente. |
 | Seika | Secundario recurrente percibido; foco ampliable (creador) | 0 | 0 | 4 | 16 | 5 | 5 | 4 | V25 #29 | Revisar integración y vínculo con Nijika más allá de su llegada y reacciones familiares. |
 | Ram | Por decidir con el creador | 0 | 2 | 1 | 7 | 4 | 6 | 2 | V25 #29 | Revisar vida propia y hermana además de sarcasmo y restricciones de mana. |
-| Kaneki | Por decidir con el creador | 3 | 8 | 10 | 3 | 1 | 4 | 0 | V25 #8 | Revisar el hueco de continuidad y sus vínculos fuera de empatía por cuerpos peligrosos. |
-| Aira | Por decidir con el creador | 2 | 2 | 6 | 2 | 3 | 11 | 10 | V25 #29 | Distinguir desarrollo propio de asignación continua de trabajo/protección. |
+| Kaneki | Posible transición a secundario después de su arco (creador) | 3 | 8 | 10 | 3 | 1 | 4 | 0 | V25 #8 | Revisar el hueco de continuidad y sus vínculos fuera de empatía por cuerpos peligrosos. |
+| Aira | Posible transición a secundario después de su arco (creador) | 2 | 2 | 6 | 2 | 3 | 11 | 10 | V25 #29 | Distinguir desarrollo propio de asignación continua de trabajo/protección. |
 | Vamola | Secundario recurrente percibido; foco ampliable (creador) | 2 | 3 | 4 | 2 | 2 | 2 | 5 | V25 #23 | Verificar pertenencia con Momo/Fort sin resolver una omisión sólo con menciones. |
 | Turbo Granny | Secundario recurrente percibido; foco ampliable (creador) | 2 | 6 | 3 | 2 | 9 | 4 | 1 | V25 #27 | Revisar voz y relaciones además de remates en escenas ajenas. |
 | Nazuna | Por decidir con el creador | 2 | 4 | 7 | 1 | 1 | 4 | 2 | V25 #27 | Revisar continuidad propia y Anko sin forzar romance ni convertirla sólo en vigilancia. |
 | Jinshi | Secundario recurrente percibido; foco ampliable (creador) | 2 | 6 | 6 | 2 | 8 | 7 | 6 | V25 #22 | Reevaluar función real en Arrival House y vida propia; comprobar ocupación antes de reasignar. |
-| Diablo | Por decidir con el creador | 1 | 8 | 7 | 7 | 10 | 6 | 3 | V25 #27 | Conservar su elección de asistir a todos y vínculos; no reducirlo a logística/puertas. |
-| Eren | Por decidir con el creador | 7 | 6 | 9 | 12 | 6 | 14 | 9 | V25 #29 | Revisar continuidad después del arco de seguridad y pareja sin repetir el conflicto. |
-| Mikasa | Por decidir con el creador | 8 | 9 | 9 | 11 | 6 | 15 | 12 | V25 #29 | Revisar decisiones y amistades propias además de Eren y protección. |
+| Diablo | Secundario recurrente actual satisfactorio (creador) | 1 | 8 | 7 | 7 | 10 | 6 | 3 | V25 #27 | Conservar su elección de asistir a todos y vínculos; no reducirlo a logística/puertas. |
+| Eren | Posible transición a secundario después de su arco (creador) | 7 | 6 | 9 | 12 | 6 | 14 | 9 | V25 #29 | Revisar continuidad después del arco de seguridad y pareja sin repetir el conflicto. |
+| Mikasa | Posible transición a secundario después de su arco (creador) | 8 | 9 | 9 | 11 | 6 | 15 | 12 | V25 #29 | Revisar decisiones y amistades propias además de Eren y protección. |
 | Pride | Secundario recurrente percibido; foco ampliable (creador) | 0 | 1 | 2 | 2 | 5 | 0 | 2 | V24 #36 | Conservar su individualidad; puede ser central si un arco concreto la requiere. |
 | Echidna | Secundario recurrente percibido; foco ampliable (creador) | 0 | 1 | 10 | 2 | 4 | 8 | 2 | V25 #28 | Conservar relación con Coco, biblioteca y té; importancia local no exige ser protagonista permanente. |
 | Daphne | Secundario recurrente percibido; foco ampliable (creador) | 0 | 1 | 14 | 5 | 5 | 5 | 2 | V25 #29 | Conservar intereses, trabajo elegido y vínculos más allá de función agrícola. |
@@ -141,7 +141,7 @@ V20–V26 = capítulos con nombre explícito. Última <=V25 = aparición textual
 | Yuka | Revisión prioritaria; rotación propuesta, no cerrada | 0 | 0 | 0 | 1 | 16 | 7 | 3 | V25 #24 | Reconectar hermana/familia/Fort y decisiones propias después de su arco; no sólo Oppa/perra. |
 | Madre de Coco | Secundario recurrente percibido; foco ampliable (creador) | 1 | 0 | 0 | 0 | 0 | 8 | 0 | V25 #29 | Revisar agencia e integración después del rescate; el nombre literal no captura pronombres. |
 | Byakuya | Secundario recurrente percibido; foco ampliable (creador) | 0 | 1 | 0 | 0 | 0 | 6 | 4 | V25 #29 | Revisar vida compartida más allá del efecto de su llegada sobre Senku. |
-| Jiji | Por decidir con el creador | 0 | 0 | 0 | 0 | 0 | 3 | 2 | V25 #24 | Revisar integración posterior a su llegada sin imponer protagonismo inmediato. |
+| Jiji | Posible transición a secundario después de su arco (creador) | 0 | 0 | 0 | 0 | 0 | 3 | 2 | V25 #24 | Revisar integración posterior a su llegada sin imponer protagonismo inmediato. |
 | Ciel | Agente del sistema; revisar aparte | 19 | 12 | 15 | 12 | 24 | 17 | 2 | V25 #28 | Revisar agencia, límites y vínculos sin equiparar diálogo a cuerpo residente ni omnisciencia. |
 
 ## Ficha que se completará por persona
@@ -177,3 +177,28 @@ Mau is the primary protagonist. Frieren is also a protagonist; their story is th
 Keep distinct: main narrative axis, ensemble protagonist, rotating local focus and recurring supporting character. Protagonist status does not guarantee equal page count or continuous presence. A supporting character can lead a chapter/arc/season when appropriate without automatically acquiring a permanent protagonist classification. Preserve independent relationships and ordinary life; no demand that every plot connect through Mau.
 
 The creator has asked to finish breaking down his perceptions before starting the deeper relationship review. Bocchi/Mau and Umaru/Mau are examples to preserve for that later review: bonds remain real off-page, but their visible continuity may need work in S5. Do not retcon S4 or start a repair pass now.
+
+
+## Segunda lista del creador — transición después de vivir su arco
+
+Creador, 2026-10-16, mensaje completo:
+
+> kaneki, eren mikasa (no los veo tirandos epara atras pero si que tal ves se vuelvan los scouts o se tiren para atras de la pelea, los de dan da dan la verda ya casi sino tenemos a todos y tal ves una ves que atemos unos cabos al igual a kaneki que deciden comenzar a aseguir viviendo en el settlment pero al final son mocosos y eso esta bien no malo, las girls de witch hat y qifrey no se si ponerlos qui pero tal ves al traer al hermano de richeh y asi podemos hacer un cambio de enfoque de ellos que en ves que sean del plano de pelea qifrey decide que aprendan y vayan pocoa a poco dejandolas ser girls convivri y que como ya tienen tinta ayudar a la casa cambiar las lamparas por glyps y asi quitando una dependecia del trading entonces se quedan para la cas aaprendizaje pero tal ves se las llevan a un dungeon para ver y asi, diablo ya es un personaje completo y me gusta su rol secundario no lo puse en la anterior pq se me fue la onda
+
+### Esta lista no es una retirada inmediata
+
+El creador propone personajes que, una vez atados sus cabos y vivido su desarrollo, pueden pasar a un plano secundario por elección y estabilidad. No significa falta de valor, incapacidad, salida de la familia, prohibición de combatir ni pérdida del derecho a un capítulo/arco/temporada propios. No inventarles un nuevo objetivo por obligación de mantenerlos permanentemente al frente. Su vida posterior debe seguir visible.
+
+- **Kaneki:** candidato a esa transición cuando viva su arco de reunificación con esposa e hija; cuidar la casa y elegir cercanía familiar es una posibilidad significativa. No ejecutar llegadas o resolver monedas ahora. Touka/Ichika y su situación siguen sujetos al desarrollo ya pendiente.
+- **Eren y Mikasa:** posible transición tras sus arcos; explorar scouts/reconocimiento o menor implicación directa en pelea. No confundir con rendirse o volverse pasivos. Función concreta todavía abierta; no fijar ambos destinos idénticos ni borrar las decisiones vividas en V26.
+- **Dandadan:** una vez cerrados algunos cabos, posible prioridad por vivir y crecer en el settlement. Entre los33 pendientes esto afecta a Momo, Okarun, Aira y Jiji. Seiko, Turbo Granny y Vamola ya estaban en la lista anterior y no se cuentan dos veces; el comentario general no impone el mismo arco, edad o función a los siete. No dar por reunido a todo su elenco fuente ni decidir nuevas llegadas por la expresión "ya casi sino tenemos a todos". Ser jóvenes no los vuelve incapaces, pero permite escoger juventud, relaciones y hogar además de peligro.
+- **Witch Hat — explícitamente tentativo:** Coco, Agott, Tetia, Richeh y Qifrey. El creador aún duda de ponerlos aquí. Posible cambio de énfasis: aprendizaje gradual, convivencia, ser niñas/jóvenes, vida del atelier y contribuciones de tinta/glyphs en vez de misión de combate permanente. Un dungeon para aprender/observar sigue siendo posible, no una party o salida ya aprobada. La posible llegada del hermano de Richeh es una idea para estudiar, no una moneda existente o summons autorizado. No convertir a Coco en recurso técnico ni borrar su vínculo familiar con Mau porque el foco cambie.
+- **Diablo — corrección de la primera lista:** el creador confirma que su papel secundario actual le gusta y lo percibe como personaje completo. No necesita una crisis o un arco nuevo para justificar su lugar. Mantener sus elecciones/vínculos y opción de protagonismo puntual.
+
+### Tinta, iluminación y dependencia comercial
+
+El creador propone ampliar el uso doméstico de glyphs para sustituir lámparas y reducir una dependencia del comercio gracias a la tinta disponible. Revisar la infraestructura actual antes de escribir: el layout lock ya registra una luz glyph sin sombra en V16 The Ink Budget y líneas glyph accesibles en el mantenimiento de la casa. Esto sería ampliación/estandarización, no inventar que nunca hubo luz glyph. Auditar producción y límites de tinta, materiales y qué insumo comercial se sustituye; no declarar autosuficiencia total ni generación infinita. Mantener las reglas de secreto y exposición propuestas con Qifrey.
+
+### Regla de transición
+
+Antes de decidir el paso a secundario: identificar el cabo concreto, vivir la decisión, establecer la vida que eligieron y seguir mostrando vínculos y presencia cuando el foco rote. La estabilidad no es desaparición. No cerrar historias mediante un trámite de trabajo, una llegada como premio o una lista administrativa. No imponer el mismo ritmo a parejas/grupos. Esta lista sigue siendo planificación, no arcos completos, retiro efectivo, reparto final ni permiso para modificar S4 o escribir S5.

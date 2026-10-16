@@ -77,3 +77,7 @@ See [the full creator classification and updated individual map](S5_CAST_SPOTLIG
 ## Narrative centre and ensemble — creator, 2026-10-16
 
 Mau is the primary protagonist; Frieren is also a protagonist and their story is the central axis. Yuta and Rimuru are explicitly protagonists too within the ensemble. Mau need not appear for their stories or other characters' chapters to matter. Do not confuse a central axis with exclusive protagonism, or a secondary role with lack of agency. Other individual classifications remain in discussion; preserve the supporting-cast list. See the complete clarification in [the cast map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md). The creator is still breaking down his concerns; deeper relationship review and any S5 prose wait.
+
+## Cast transitions after fulfilled arcs — creator, 2026-10-16
+
+[Full second list and updated per-person map](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md): Kaneki, Eren/Mikasa and remaining Dandadan protagonists may later choose a more settled/supporting role after their arcs; scouts, family and youth are possibilities, not immediate removals. Witch Hat/Qifrey is explicitly tentative, with learning/home/glyph contributions and a possible Richeh-brother thread to develop. Diablo is added to the satisfactory current supporting cast. Preserve independent life and future local spotlight; do not create arrivals, free ink or a retcon to force transitions. Existing domestic glyph light must be checked before an expansion is described as first invention.

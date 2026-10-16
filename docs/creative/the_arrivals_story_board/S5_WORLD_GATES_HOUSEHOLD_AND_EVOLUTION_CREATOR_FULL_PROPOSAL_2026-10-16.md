@@ -213,3 +213,25 @@ Record the creator's desired first natural achievement as flight, initially perh
 Preserve the domestic comedy image: instead of only reading in the chair, Frieren lies/sits on floating Mau and reads; while people eat, she uses him as a little boat toward the kitchen. She is delighted, he is happy to see her happy, and the household reacts in disbelief. This is a proposed future scene, not current flight mastery. Establish low-speed control, duration, load and stopping safely before sustained use with another person; exact limits and timing relative to the date are not fixed. Do not automatically equate carrying Frieren with lifting every passenger/weight or combat flight.
 
 Status remains skeleton/idea development, not a completed date arc, finished dungeon arc or permission to write S5 chapters.
+
+## Creator date detail — private dinner and Frieren-led expedition gift
+
+Creator, 2026-10-16, complete original message:
+
+> y al date algo simple una cena romantica y asi que mau haya hecho una incognito mision o le pide a hollister comida de alta gama un vino y asi y asi hace la cita mas romantica posible y frieren le dice que le encanta todo esto y asi y mau le dice y hay un regalo mas next week cuando cambie el gate va a dejar que ella vaya enfrente que van a explorar el dungeon hasta acabarlo de pies a cabeza no saldran y que ya lo aprpbo fern y frieren se emociona pq cuando se entera que mau cosniguio un grimorio al final del dungeon por derrotar al boss entocnes podemos ver a frieren planeando cambios por losmimics ropa raciones todo y no deja mau y aqui armamos el team que va a estar en la red gate
+
+### Requested date content — preserve simple scene and personal meaning
+
+- A simple romantic dinner, made as special as Mau can manage. He either makes a discreet preparation mission or asks "hollister" for high-end food and wine. These are preparation alternatives, not two mandatory trips. Hollis is the likely intended established merchant; confirm naming at drafting rather than create a new merchant from spelling.
+- Frieren tells him she loves it all. Keep the already proposed grimoire/apology/thanks gifts and anniversary context from the preceding revision; this detail adds to that base without requiring a new grand public celebration.
+- Mau reveals **one more gift**: next week, when the gate changes, Frieren gets to lead the exploration. They intend to explore the dungeon completely, from top to bottom, with Fern's approval already obtained in the proposed scene.
+- Her excitement is tied to learning that Mau got a grimoire for defeating the dungeon boss. Knowledge of that reward must reach her on-page before or during the setup; do not assume she knew it before his first acquisition or guarantee identical rewards forever.
+- Follow with Frieren eagerly preparing for mimics, clothing, rations and the expedition, keeping Mau occupied. Exact planning jokes, mimic strategies and gear remain to develop.
+- This builds the party that will be in the **Red Gate**. Party members have not been assigned yet. The mechanism/timing by which this planned outing becomes or meets a Red Gate, and what the characters know beforehand, remain for the creator to define. Do not automatically make them knowingly plan a trap or identify all weekly gates as Red Gates.
+
+### Continuity / development questions — editorial, not replacement dialogue
+
+- Preserve weekly gate change and existing entry/party/shop rules; reconcile travel duration, rations, ability to leave, dungeon completion and outside-world time with the Red Gate design when supplied. The creator's "no saldran" expresses the intended full expedition; do not silently turn it into an unconditional pact to ignore injury, lost supplies or an actual need to retreat. If inability to exit is a Red Gate mechanic, establish that separately from a romantic promise.
+- Fern's prior approval should fit an agreed household/expedition arrangement, not establish ownership over the couple's agency or make her the only person responsible for their safety. Other participating characters still need their own reasons, agreement and preparation.
+- A discreet gift-preparation mission is not another secret dangerous departure. Existing transparency/rest/medical readiness and the two preceding recoveries remain meaningful. High-end food/wine must come from available trade and resources; choose details when the scene is developed.
+- No exact team, gate transformation, final dinner menu/location, reward contents or Red Gate outcome is locked here. Simple romantic dinner is the creator's requested scene scale. This remains an expanded skeleton, not a completed arc or S5 production go-ahead.

@@ -20,7 +20,9 @@ The voice gave a small sound. It might have been amusement.
 
 "You're the one who wants me to do something."
 
-"Ori and Frieren."
+Mau waited. It was the only part of the bargain he could see how to hold on to: she wanted him to take the step, and he was still on this side of it.
+
+"Ori and Frieren," the Goddess said.
 
 Frieren looked at him sharply. He had not asked her permission to use her name; he had not needed to. It had already been chosen for him.
 
@@ -58,6 +60,36 @@ Somebody behind the table made an angry sound. Mau did not turn. If he looked at
 
 "For which of us?"
 
+Rimuru leaned toward him.
+
+"We don't have to answer her in the same breath."
+
+Mau looked at his friend. "I know."
+
+"Do you? Because you're already getting to the part where you tell us what you can bear."
+
+The words were quiet enough to remain between the people nearest them. Mau sat back. He had not noticed how far he had leaned over the table.
+
+"I want something that changes what she can ask next time," he said. "If I just go, she still gets to ask it again."
+
+"And this doesn't change everything else."
+
+"No."
+
+He looked toward Ori. She was holding Milim's hand so tightly that their fingers had changed colour. He wanted an agreement broad enough that he could look at everybody in the room when he made it. The offer was not going to become that because he wanted it.
+
+"Can I take someone with me?" he asked the Goddess.
+
+"The door is calling you."
+
+"That isn't what I asked."
+
+She gave him no better answer. He could not call that permission, or a route someone else could safely test for him.
+
+Yuta met his eyes. "Then we don't put another person through it on a guess."
+
+Mau nodded. He hated how much of their thinking had ended in a thing they could not try.
+
 He put both palms on the table. The wood was warmer than his fingers. There was a scratch under his right thumb that he had made with a bowl some time ago, a small accident nobody had bothered to name.
 
 "Give me a day."
@@ -83,6 +115,22 @@ She looked furious. It was better than the empty look she had worn when the voic
 He thought the voice wanted his answer more than it wanted her dead. He thought that might be the whole point.
 
 He could not put Ori into the space between *thought* and *knew*.
+
+"I don't consent to this," Ori said.
+
+Mau turned to her. She was looking past him, toward the voice.
+
+"Not to being the reason. Not to any of it."
+
+Nobody told her that her refusal made the threat impossible. Frieren put an arm around her shoulders, and this time Ori leaned into it without taking her eyes off the empty space.
+
+Mau wanted to wait until he could do this without hurting her. He could feel how easily waiting for that could turn into pretending he had not heard the condition.
+
+"You didn't choose it," he said. "I know."
+
+It was not enough. She did not pretend otherwise for him.
+
+He turned back to the Goddess.
 
 "Twelve hours from now," he said.
 

@@ -42,3 +42,5 @@
 | 29 | S5E06 | Tomorrow Also | `THE_ARRIVALS_S5E06_LN_CHAPTER_04_TOMORROW_ALSO_v0.1.md` |
 
 Production draft for creator reading; continuity review is not creator approval. Existing volumes/chapters retain their stable identities.
+
+**Reading revision,2026-10-17:** expanded dialogue and pacing fromchapter4; samechapterorder/IDs. [Revision note](the_arrivals_story_board/S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). Creator review pending.

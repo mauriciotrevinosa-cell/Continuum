@@ -1,4 +1,6 @@
-# S5 / V30 — partial production checkpoint
+# S5 / V30 — historical partial production checkpoint
+
+**Superseded:** V30 is now a complete35chapter production draft. [Current exact record](S5_V30_PRODUCTION_RECORD_2026-10-17.md). The historical stopping points below are not the present continuation.
 
 **Date:**2026-10-17. **Status:** PARTIAL PRODUCTION DRAFT; not a completed volume or creator approval. **Working title:** Room at the Table. **Actual files:**25 chapters / S5E18–22 / 13113 prose words.
 

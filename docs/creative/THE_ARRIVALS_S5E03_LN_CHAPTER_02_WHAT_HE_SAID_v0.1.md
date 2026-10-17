@@ -70,7 +70,49 @@ She nodded.
 
 It did not make her want him for less time. She did not think anything could.
 
-Later they talked about other things because they could not keep looking at the same fear without blinking. Seiko complained about the chair. Mai said it had been expensive enough in arguments to be comfortable. Frieren said she would tell Mau they had insulted it, and Maki asked which of the two of them would take that worse.
+Later Seiko told Turbo Granny to stop dropping crumbs into her pocket.
+
+"Your pocket is badly designed."
+
+"It's designed for things that don't eat in it."
+
+"Then carry me somewhere better."
+
+Mai looked at the reading chair. Maki looked at the shelf blocking the easiest route to it. Neither of them volunteered a solution that would survive Frieren hearing it.
+
+Frieren began to laugh, stopped because it hurt, and found Seiko watching her without making a triumph of it.
+
+"He offered to move it once," she said.
+
+"The shelf?" Mai sounded impressed.
+
+"The chair."
+
+"Of course."
+
+"He said I could have a better view of the window."
+
+"And did you?" Maki asked.
+
+Frieren looked toward the glass. She had wanted to read beside him, not improve a view, and had been unable to explain why his helpful proposal annoyed her so much. The memory was ridiculous. It made her miss him while he was still downstairs.
+
+"I told him it belonged here."
+
+"Efficient," Mai said.
+
+Maki picked up a broken piece from the plate and turned it before eating. Frieren watched her for a moment.
+
+"Do you always know what to say to Yuta?"
+
+Maki stared at her. Mai laughed before her sister could answer.
+
+"No," Maki said. "I sometimes know what I should have said afterward."
+
+The plainness of it helped more than Frieren wanted to admit.
+
+Seiko asked whether that could be written on the wall for general use. Turbo Granny said most of the people downstairs would need a larger wall. They argued about which wall, and Frieren listened until she could join in without using the argument to explain anything about herself.
+
+They talked about other things for a while. Seiko complained about the chair. Mai said it had been expensive enough in arguments to be comfortable. Frieren said she would tell Mau they had insulted it, and Maki asked which of the two of them would take that worse.
 
 They laughed. Frieren laughed with them, then cried again without warning and was furious with her face.
 

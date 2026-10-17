@@ -65,3 +65,35 @@ Wakana handed her one end and kept the other. She matched his pace so seriously 
 They carried the first panel onto dry ground.
 
 The red stake stayed in the field behind them.
+
+By the time they put down the tools, Fern had already found the cups.
+
+Frieren almost went to see what Mau was doing with the reward notice. Then she remembered the time she had asked for, and went to the other end of the table instead.
+
+There was room for two in the shade. Fern had chosen the good biscuits without apologizing for not saving them for an important occasion.
+
+"What were you reading?" Frieren asked.
+
+Fern looked at the book beside her elbow.
+
+"Not the ledger."
+
+"I noticed."
+
+"You looked very carefully."
+
+Frieren took a biscuit. Fern opened the book to a passage she had marked, and explained why she thought its recommended sequence was needlessly difficult. By the third objection Frieren was leaning over the table, interested enough to forget her tea.
+
+"Your way would be cleaner," she said.
+
+Fern glanced up.
+
+"You haven't seen it."
+
+"You explained it very well. Show me later."
+
+Fern turned back to the page. Her fingers stayed on the corner a little longer than turning it required.
+
+Across the yard Jinshi asked someone where the receipt book had been put. Nobody came to their table. Frieren finished the biscuit, poured more tea into both cups, and asked about the next objection.
+
+Fern had several.

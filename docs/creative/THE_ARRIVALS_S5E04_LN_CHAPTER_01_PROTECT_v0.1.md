@@ -98,6 +98,32 @@ There was no answer for so long that his hands began to ache on the table.
 
 "Trust me," he said. "We're the same thing. Let me think. Let me tell you what matters."
 
+`you—went`
+
+The pressure behind it shifted. For a moment Mau knew exactly which movement it meant: his own feet passing the frame while the people he loved remained on the other side.
+
+He had asked to choose and immediately supplied the defence with a choice that frightened it.
+
+"Yes," he said. "I did."
+
+`not—safe`
+
+"No. I was trying to keep Ori safe. That's something you can't work out by moving my body farther from a thing that can hurt it."
+
+The shape leaned toward him and stopped. Its hand came apart above the table. He waited while it found the edge of itself again.
+
+"I don't know whether coming here was right," he said. "If you need me to prove that before you let me choose, we'll never get anywhere."
+
+The flowers stirred without a wind he could feel.
+
+He wanted the shape to agree quickly. He wanted to get up, find the way out, turn this place into something he had finished successfully. He recognized the desire well enough not to mistake it for an answer.
+
+"I'm asking you to leave room for me to be wrong," he said more quietly. "And still be the one who has to live with it. With them."
+
+It made no reply.
+
+He stayed in the chair.
+
 The shape turned its head toward the shifting pressure behind it.
 
 `can't—stop—building`

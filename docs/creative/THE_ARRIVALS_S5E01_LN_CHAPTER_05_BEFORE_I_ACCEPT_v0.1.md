@@ -12,134 +12,194 @@ Yuta moved first.
 
 He did not draw his sword. He came closer to Mau, which was somehow harder to bear.
 
-"You can ask questions without accepting," he said quietly.
+"Ask what you need to ask," he said quietly. "That doesn't mean you've accepted."
 
-Mau nodded.
+Mau nodded. He was still standing beside the chair he had pushed back. Ori sat on its other side, with Frieren's hand over hers.
 
-Across the room, Ori had gone white. Frieren was beside her now. Neither of them was looking at him.
+He looked toward the empty space above the table. It was ridiculous to choose a place to address, but it was better than turning every question toward his daughter.
 
-"You asked me something like that before," Mau said to the voice.
+"You want to know what happens if I cross. Why? What are you looking for?"
 
-He had not meant to say it. The shape of the words had come before the place where he had heard them.
+The Goddess did not answer that question.
 
-"Yes."
+"Do you remember why you would not let the elf die?"
 
-A lack of weight. No ground under his feet. He knew that much, suddenly, with the certainty of waking and discovering he had been dreaming about a real room.
+Mau looked at Frieren before he understood why.
 
-The rest came in pieces he could not hold still long enough to describe.
+"When?"
 
-"After Sukuna."
+"After Sukuna put his hand through you. Before Yuta could reach you."
 
-"Before your friend reached you."
+The room had been quiet. Now he could hear the small sounds inside it: the cloth shifting under Stark's fingers, a foot moving beneath the table, the very ordinary breath he was trying to take.
 
-Yuta's eyes lifted.
+"We didn't talk then," Mau said. "I don't remember talking to anyone."
 
-"What did you do?" Mau asked.
+"You did not remember me. No."
 
-"Returned what was leaving. Re-anchored you. His hands could mend what they found. There had to be somebody there to find."
+Yuta's hand settled on the back of the chair. Mau looked down at it, then at the hand resting across Ori's.
 
-Mau looked at Yuta.
+He remembered the battlefield. There were things from afterward he knew because people had told him, and others he had woken inside without being able to account for them. He had never put a conversation in the missing space.
 
-He remembered the chest wound. The coats and hands afterward belonged to things he had been told, to the body he had woken with. This was an older silence, lodged under them.
+"You asked me that?"
 
-"Second Chance," he said.
+"Why did you not let Frieren die?"
 
-The voice did not correct him.
+The same question. Not because he had remembered it a moment earlier. Because hearing it now brought a little of the place back with it.
 
-Yuta looked down at his own hands. Mau wanted to tell him that none of this took them away. He was not certain he could say it without his voice breaking.
+No ground under him. No pain to hold his attention. The strange certainty that a choice had already been made and there was nothing left to do about it.
 
-"I remember something," he said instead. "Not all of it."
+His own answer arrived in pieces.
 
-"You are welcome."
+"She was my first real memory."
 
-That small, almost amused answer made his jaw tighten.
+Frieren's fingers tightened around Ori's.
 
-"And Ori?"
+Mau looked at her. The old inn was not in front of him. There was a table, a room full of people, a chair he could put his hand on. He had to name those things to himself before continuing.
 
-Ori turned toward him at last.
-
-"Was she for this?"
-
-"For a question."
-
-Nobody moved.
-
-"You gave up your place for the elf," the voice said. "I wanted to understand what could make that desirable. Not simply watch it from outside. Live close enough to know it."
-
-Frieren's hand closed around Ori's.
-
-"So you made her," Mau said.
+"I said that to you. Then."
 
 "Yes."
 
-"To watch us."
+He had not known until she asked. That mattered, although he could not yet have explained to anyone why.
 
-"At first, I could see what she saw."
+"What happened to me?"
 
-Ori took one step back. Her chair caught her calf.
+"Your soul was coming loose from your body. I anchored it again. Enough for the person trying to save you to have something to reach."
 
-"Can you now?" Frieren asked.
+Yuta did not move.
 
-The voice paused.
+"You healed him?" Rimuru asked.
+
+"No. Yuta did that."
+
+The answer gave Mau a place to look. Yuta was watching the Goddess's absence with an expression Mau could not read.
+
+"An anchor," she continued. "A second chance."
+
+Mau repeated the words silently. They belonged to this explanation first. A faint recognition followed them, not a whole memory and not something he had been keeping from the house.
+
+"I didn't know," he told Yuta.
+
+Yuta looked back at him.
+
+"I can see that."
+
+Mau wanted to say more. He did not know whether the thing he wanted to give would be reassurance or an apology, and neither seemed his to give yet.
+
+"You can sit," Shoko said.
+
+He sat. She left the cup within his reach instead of pressing it into hands that had begun to shake again.
+
+For a while nobody tried to put the old battlefield and the present room into a single explanation. Mau drank. The water made him aware of how dry his mouth had become.
+
+The Goddess waited with an ease none of them could share.
+
+Ori shifted on the next chair. Mau turned toward the sound and found her looking at the place where the voice seemed to be.
+
+"Did you bring her because of that?" he asked. "Because of what I did for Frieren?"
+
+"I wanted to understand it."
+
+"Understand what?"
+
+"You were willing to die so that she would live. I could watch that happen. I wanted to know why a life beside her made it seem worth doing. To see it from closer than the place where I watched you die."
+
+Frieren had gone very still.
+
+"So you made Ori."
+
+"Yes."
+
+Ori's chair scraped against the floor as she stood. Frieren stood with her. Mau started to rise too, then stopped when Ori lifted a hand.
+
+She wanted to hear the answer without being gathered out of its way.
+
+"Were you watching through me?" she asked.
+
+"At first."
+
+Ori looked down at her own hands.
+
+Mau could not tell which memory had reached her. The room was suddenly full of things he wished he could keep private for her, without knowing whether they had ever been private at all.
+
+"Can you see through her now?" Frieren asked.
 
 "No."
 
-Mau looked at Ori. She was staring at the floor between her feet as though there might be something there that she had brought in by mistake.
+"Now," Frieren repeated. "While we're speaking."
 
-"She became independent," the voice said. "It seems she did become your daughter."
+"No. She became independent. It seems she did become your daughter."
 
-"She was already my daughter."
+"She was already my daughter," Mau said.
 
-Mau did not raise his voice. Ori looked at him, and he kept looking back until she believed he was talking to her as much as to whatever was in the room.
+Ori looked at him.
 
-"She isn't a way of getting to me."
+He kept looking back. He had not said it to win a part of the argument. If the voice stopped speaking this moment, if every explanation it had offered were taken away, there would still be a place beside him where Ori belonged.
 
-"And yet you answered."
+Milim had come close without making a sound. She stopped beside Ori, and waited until Ori took her hand.
 
-He was beginning to dislike how little of the room he could offer his anger to.
+No one asked the girl to explain what the Goddess meant by independent.
 
-"Do you know what the door is?"
+Mau set down his cup.
 
-"I know what it shows."
+"She isn't something you can use to ask me questions."
 
-"That wasn't the question."
+"And yet you answered when I asked about her."
 
-"No."
+He could hear the curiosity in it. That made the words worse, not better. He wanted anger to have a face to stop in front of.
 
-"Do you know what I am?"
+"You brought her here. You brought Frieren. Did you bring me?"
 
-He felt the attention in the room change. Not surprise that he had asked. They had been living beside that question for a long time.
+The question surprised him by being so simple. It had been there for longer than the door, longer than the house. He had almost learned to live around it.
 
-"Not even I know that," she said.
+"Not even I know what you are," the Goddess said.
 
-The answer was so plain that he had no place to put it.
+He stared at the table.
 
-"I was bringing lives here. Letting my world grow with what they brought. When I brought an elf, you were there."
+"I asked whether you brought me."
 
-He looked at Frieren. Her face had changed at the word *elf*, as if somebody had moved an object in a familiar room and shown her the mark underneath.
+"I was bringing lives here. Letting my world grow with what they brought. When I brought an elf, you were already there."
 
-"You didn't bring me?"
+"In the clearing."
+
+"Yes."
+
+He looked at Frieren. She knew that place as well as he did. Neither of them could supply what had happened before it.
+
+"So you found me. You didn't choose me."
 
 "I found you there."
 
-"From here?"
+"Do I belong to this world?"
 
 "I don't know."
 
-"Somewhere else?"
+"Or to another one?"
 
 "I don't know."
 
-He had imagined answers to that question. He had not liked most of them. He had never imagined having to leave it in the same place after asking the person who made the world.
+He had imagined being given an answer he hated. He had imagined being refused. It had not occurred to him that she might leave the question where it had been, and sound interested in having found it there.
 
-"All of this," he said, "is to see what grows?"
+Rimuru came around the chair. He put a hand on Mau's shoulder, without asking him to look up and perform being all right.
 
-She did not answer that.
+The table stayed under Mau's palm. Ori was still holding Milim's hand. Yuta stood close enough that he could reach him. The people had not changed because he had lost another possible explanation for himself.
 
-Behind him, a floorboard creaked. Gojo had come in from the outer door, and Shoko was watching his face rather than the empty air.
+He needed a little time to believe that.
 
-Mau let himself look around. The people were still where they had chosen to stand. Ori had not been replaced by the reason somebody else claimed to have made her. Yuta's hands were still his hands.
+The Goddess did not offer to explain anything else.
 
-He could work with that.
+"You said you want your world to grow," Mau said at last. "Is that what all this is for? You bring people, then wait to see what they make of it?"
 
-"Then let's talk about your offer," he said.
+No answer came.
+
+He waited long enough that silence became an answer of its own kind, without pretending it told him which one.
+
+There were questions he could spend the whole night asking. The door would still be in the yard at the end of them. Ori would still have heard her life offered as a condition.
+
+Mau looked at her, then at Frieren.
+
+"I haven't accepted anything," he said. It was for them, and for the person who had begun the conversation.
+
+Yuta's hand stayed on the chair.
+
+"Then let's talk about what you're offering."

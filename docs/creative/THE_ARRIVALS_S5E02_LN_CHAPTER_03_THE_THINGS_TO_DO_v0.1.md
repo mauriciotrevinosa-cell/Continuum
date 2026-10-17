@@ -6,105 +6,169 @@
 **Reading order:** 8
 **Continuity state:** Mau eats with Yuta and Rimuru; the three keep company; privacy arrangements do not move Rimuru's bedroom
 
-*When: Day 262, later in the evening.*
+*When: Day 262, during Maki's visit upstairs; continuing later that evening.*
 
-Rimuru put the plate down and kept his hand on it.
+Downstairs, while Maki was still with Frieren, Rimuru put the plate down and kept his hand on it.
 
 "Eat before you say anything."
 
-"I wasn't going to say anything."
+Mau looked at the food. Then toward the stairs.
 
-"You took a breath."
-
-"A warning sign," Yuta agreed.
-
-Mau sat between them at the end of the table that had not been cleared. The food was warm rather than hot. Momo had put a cover over it while everybody was arguing with the air.
-
-He ate some because it was there. Then he discovered he was hungry and ate more.
-
-Rimuru removed his hand.
-
-"There. A successful meeting."
-
-Mau smiled into the plate.
-
-They did not sit like people having a final supper. Yuta had a dish of something he did not particularly want and was picking out a dark bit with his fork. Rimuru had taken too much bread. It seemed important that neither corrected these things merely because Mau was watching.
-
-"Is there something I should be doing?" Mau asked.
-
-"With us?" Yuta said.
-
-"With anyone."
-
-Yuta considered it. "You're eating. That's useful."
-
-"Apart from that."
+"Maki is with her," Yuta said.
 
 "I know."
 
-Mau pushed a piece of bread around the edge of his plate.
+He sat between them at the end of the table that had not been cleared. The food was warm rather than hot. Momo had put a cover over it while everybody was arguing with the air.
 
-"I don't know how to say goodbye to all of you in one night."
+Rimuru took his hand off the plate. Mau picked up the spoon.
 
-Rimuru's jaw moved once before he answered.
+He could do this much without deciding what came after it. That was the attraction. He had swallowed two mouthfuls before realizing he had no idea what they tasted like.
 
-"You don't have to invent something we haven't done."
+Yuta was picking a dark bit out of his own food. Rimuru had taken more bread than the three of them could reasonably need. Mau looked at the bread, grateful for an ordinary error, and then found himself trying to count how much of the evening was left in which to appreciate it.
 
-"That doesn't make it easier."
+He put the spoon down.
 
-"It wasn't supposed to."
+"Is there something I should be doing?"
 
-For a minute there was only the sound of the kitchen. They could hear Momo objecting to the number of people attempting to be helpful at once. Stark's voice apologized from somewhere close to a cupboard.
+"You're eating," Rimuru said.
 
-"You can tell me to stop," Mau said.
+"You know what I mean."
+
+Rimuru opened his mouth. The first answer did not come out.
+
+Yuta moved the water within reach, but did not ask Mau to drink it instead of continuing.
+
+"I don't know how to say goodbye to all of you in one night," Mau said. "Every time I think about going to somebody, it feels like I'm deciding what the last thing between us will be."
+
+He had not intended to say it so plainly. Now the words were on the table with the food, and he could not make the meal ordinary by picking up his spoon.
+
+"Then don't do that yet," Rimuru said.
+
+"Do what?"
+
+"Choose a last thing."
+
+"I don't know how not to."
+
+Rimuru looked toward the stairs too. His hand had gone back to the edge of Mau's plate without touching it.
+
+"Neither do I," he admitted.
+
+That was harder to hear than another clever instruction. Mau had been counting on his friend to make something about this ridiculous enough to bear.
 
 Yuta put down his fork.
 
-"Would it help you decide?"
+"When she said she didn't know whether you could come back, I started thinking about how to go after you."
 
-Mau shook his head.
+Mau looked at him.
 
-"Then I won't do it to make myself feel better."
+"We haven't even seen it close," Yuta continued. "I don't know whether there'll be anywhere to follow. I know that, and I'm still doing it."
 
-That landed harder than permission would have.
+"So am I," Rimuru said.
 
-Rimuru looked at his own bread. "I still want to."
+For a little while they listened to the kitchen. Someone had opened the wrong cupboard. Momo was objecting to three people helping with one small job, and Stark was trying to explain which of them had begun first.
 
-"I know."
+Mau watched the water in his cup stop moving.
 
-"I am making an extraordinary effort not to be extremely annoying."
+"You can tell me to stop," he said.
 
-"You're failing a little."
+Yuta's eyes lifted. "Would that help you decide?"
 
-"A little is heroic restraint."
+Mau took time with the question. There were things his friends could say that would hurt enough to make him hesitate. He could not think of one that would let him leave Ori inside the threat and sleep afterward.
 
-Yuta laughed. It sounded real, and stopped quickly without being apologized for.
+"I don't think so."
 
-Mau ate another bite. Across the room, Bocchi was listening to Kita with her hands wrapped around a cup. She looked toward him, saw that he had seen her, and did not look away fast enough to hide it.
+"I still want to," Rimuru said.
 
-He raised his hand. She raised hers with the cup still in it. Kita steadied it before anything spilled.
+He said it before Yuta could answer. The honesty in his voice took away the place where Mau had been preparing to reassure him.
+
+"I want you to come upstairs, complain about the shelf, and let this turn out to have been somebody else's problem. I'm not particularly proud of how much."
+
+Mau looked at his plate.
+
+"That sounds nice."
+
+"It would be excellent."
+
+Yuta rubbed a hand over his face.
+
+"We aren't going to make you argue us out of wanting that," he said. "You already heard us."
+
+It was not permission. Mau could see that clearly enough now. Neither of them had become comfortable with the choice because they had stopped asking him to change it.
+
+He picked up the spoon, ate another mouthful, and tasted it this time. There was too much of something sharp in one piece. Momo would have called it uneven cutting and known whose fault it was.
+
+Yuta went back to examining the dark bit on his fork.
+
+"You can leave it," Mau said.
+
+"I was hoping it might be something else."
+
+"How's that going?"
+
+"Poorly."
+
+The small laugh surprised all three of them. Mau did not try to turn it into a good sign. Yuta put the offending piece at the edge of the plate and continued eating around it.
+
+After a while Mau asked about the other thing on the table.
+
+"What she told us. About after Sukuna."
+
+Yuta's fork stopped again.
+
+"I really didn't know," Mau said. "When I woke up then. Or all this time afterward. There wasn't a conversation I was choosing not to tell you."
+
+"I know. You looked as surprised as we were."
+
+"Hearing her ask it brought some of it back. Not all. I don't know how much I can trust the way it's coming."
+
+Rimuru moved his chair a little nearer. He did not ask Ciel to settle what neither host could remember for Mau.
+
+Yuta looked down at his own hands.
+
+"There was a point where what I was doing began to reach you," he said. "At the time, I was too busy trying to keep it that way to ask why."
+
+Mau had no image to put beside that. He had been absent for the part Yuta was describing. For once he did not try to fill the space with a memory somebody else had lived.
+
+"Now I keep thinking about the part before that," Yuta continued.
+
+"Whether you could have done it?"
+
+Yuta nodded once.
+
+"I can't answer that," Mau said.
+
+"No."
+
+"I can tell you I woke up. You were the one who worked on my body. What she said doesn't take your hands out of it. She said that herself."
+
+Yuta looked at him for a long moment.
+
+"You don't have to make this easier for me too."
+
+"I'm telling you the bit I know. I'm rather short of other bits."
+
+Yuta's mouth moved, almost a smile. It took longer this time.
+
+"All right."
+
+They finished the food while it was still worth calling warm. Rimuru broke the last piece of bread in three and discovered this would not solve how much he had taken. He left the rest covered for somebody who might want it later.
+
+Across the room Bocchi was listening to Kita, her hands wrapped around a cup. She looked toward Mau, saw that he had seen her, and did not look away fast enough to hide it.
+
+He lifted a hand. She lifted hers with the cup still in it. Kita steadied it before anything spilled.
 
 "I should go over," he said.
 
-"When you've finished," Rimuru said.
+"Or make room here," Yuta answered.
 
-He finished.
+That was something he could do. A chair, rather than a final speech he had to get right.
 
-Yuta took the plates when they stood. Mau caught his wrist lightly before he could turn away.
+Yuta took the plates. Rimuru collected the bread. Mau stood when they did, and waited for his knees to finish expressing an opinion before moving.
 
-"What she said about before you got there."
+At the foot of the stairs he looked up.
 
-Yuta waited.
-
-"It doesn't change what you did."
-
-For the first time that evening, Yuta looked younger than the quiet in his face.
-
-"I know," he said. Then, after a moment, "Thank you."
-
-Rimuru picked up the bread plate and made no comment.
-
-At the stairs Mau paused. "Are you going up?"
+"Are you going to the loft?"
 
 "Not tonight," Rimuru said. "I'll be downstairs. If you and Frieren need the room, you won't find me pretending not to hear you from the closet."
 
@@ -112,20 +176,18 @@ At the stairs Mau paused. "Are you going up?"
 
 "I'm aware. I live there."
 
-He said it so promptly that Mau laughed.
+The promptness of it finally made Mau laugh without catching the sound halfway through.
 
-"But I can choose not to be there for a night," Rimuru continued. "The blanket isn't going anywhere."
+"But I can choose to be downstairs for a night," Rimuru added. "The blanket isn't going anywhere."
 
-Yuta came back from the kitchen with a cloth over his shoulder.
+Yuta came back with a cloth over his shoulder. He asked whether they wanted the roof, then looked at Mau and changed the question before anyone answered it.
 
-"Are we going to the roof?"
+"The chairs by the yard?"
 
-"Not if he has to climb anything," Rimuru said.
+Mau nodded.
 
-"I meant us."
+They took three out where they could see the path. Rimuru sat in the one nearest the draught and complained until Yuta pointed out that exchanging chairs remained possible.
 
-Mau looked between them. "I'd like downstairs."
+He complained about that too.
 
-"Downstairs," Yuta said.
-
-They found three chairs where they could see the yard, and Rimuru complained about the cold until somebody gave him his coat.
+Mau stayed between them and watched a little warmth leave the sky. For the length of a conversation about which chair was worse, he did not have to decide whom to say goodbye to next.

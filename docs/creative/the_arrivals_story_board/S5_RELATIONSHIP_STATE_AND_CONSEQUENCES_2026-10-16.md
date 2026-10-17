@@ -249,7 +249,7 @@ Days278–280, #2/#9/#16/#23/#30. Frieren asks Fern to travel with her, gives sp
 
 ## V30 partial — actual opening events,2026-10-17
 
-Next ID: **REL-S5-025**. Only chapters1–10 exist. [Exact continuation](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md).
+Next ID: **REL-S5-025**. Historical first-ten checkpoint; completeV30 record below supersedes it. [Exact continuation](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md).
 
 ### REL-S5-022 — Mau / Frieren, Queen2
 Days281–282, #1–5. Existing crown/playful pass, two actual days of reading/comedy/limited hover and care; choice remains mutual, no binding contract or jurisdiction over others. R14 now paid. End asks for reciprocal outing, no new marriage commitment or promise crisis.
@@ -259,3 +259,29 @@ Day283,#6. She prepares food and joins an ordinary interest he chooses (stone-sk
 
 ### REL-S5-024 — Mau / fort and independent friends
 Day284,#7–10. Owed R15 full fort day fulfilled from breakfast through bedtime. Fort organizes, Mau joins. Coco/Suika decisions, Bocchi music choice/Kita's support/band input, Yuka/Umaru game interests, Ori family and Vamola presence survive. Fern belongs without accepting sister title; Nazuna's evening schedule respected. No one is newly admitted or emotionally cured. Next meetings can remember sock game/music changes rather than returning to a promise never kept. R20 remains distinct and open.
+
+## V30 completion — actual chapters11–35
+
+Next ID: **REL-S5-031**. [Exact exit state](S5_V30_PRODUCTION_RECORD_2026-10-17.md). Events are written DRAFT, not creator-approved.
+
+### REL-S5-025 — Fern / Frieren / household
+Day285#14 affection/role conversation; Fern remains incharge, permits entries/checks delegation, asks for personaltime not earnedbyservice. Fexplicitpraise/hug; Gojo gagafterquiet. Day286#16 actualtea/bookargument/praise, no droppedtomorrowpromise. Day287#29reviewswithoutrecopying, goeswithStark. Carry actualnewpractice andindependentinterests, notfirstrequestagain.
+
+### REL-S5-026 — Jinshi / Nano / Anko / Fern
+#13/#29emptyArrivalHousedailyreceptiondiscontinued, notbuildingdestroyed; Jinshichoosesdailyentriestrial,Nanoboundedarithmetic,Ankoregisterseparate,Fbudget/review. Realdiscrepancyflaggedandrepaired, no immediateperfectsystem. Jinshi/Maomaoownafternoon survives; Nano noteverybody'sunlimitedservice. Nextreview keepsopenquestionsvisible.
+
+### REL-S5-027 — Momo / Rem / Ram / shared housework
+#15/#21/#29/#30RemdirectschosenmealwithRam/Mau/F/Fern, Seikocoveragefollows, Momoreallyleaveswithfriends/partnerandhelpsimprovelayoutlater. MotherCoco/Nazunasharechosenworkwithowncraft/companytime. No compulsorynewchef, identicalnightshiftbonds orloss of sourcefood/bodylimits. Followthroughcontinuesratherthanresettooldrota.
+
+### REL-S5-028 — Mau / Frieren / Gojo / Rimuru, Sukuna night
+#22–27Day286night/287morning. Maucommunicatedbriefsitecheck; suddenapproach thenlimitedvow, CielalertRimuru→F/Gojo. Familyunbound; Mau'scounter/preventionandfairchallenge, Fcheckedcastaftertraumatrigger, Goedno-pursuit. Honestterms/nextsignalagreement, F/Mauclosetogether; no recurrenceofalreadyrepairedchoicepromisearc. Sukunaclaimsreportedscope, nofriendidentity/restoreWCS. Gojo/Senkustudyhypothesesnotinstantpowers. Keepconsequences, noteveryoneforgets orMaupermanentlybanned.
+
+### REL-S5-029 — Yuka / Mau / Yuta / Ori / Frieren, firstvisit
+#28/#31–34Day287. Fconsultedbeforepartyfinal; YukaacknowledgesExchangefear,wantsgamenewordinaryreturn, grandparentbondcontinues. Orinotifiedbeforebed, asksresults; notcommitteeovereverytrip. FourfirstpartyMau/Yuta/Gojo/Kaneki,Rimurucovershome, Fnotbarred/abandoned. No completedentryyet. Nextvolumeactuallyreturntopromisedgame/results, notname-dropwithoutsharedscene.
+
+### REL-S5-030 — Mau / Ciel / private ambition
+#35privatelyfearsenemiesevolving,wantsstrengthto preserveordinarylife, dislikeslonelystrongesttitle. Cielasksneed, henotestssecretlytonight. Fsleepingnotlistener; nobodyelseautomaticallyknowsfullthought. Itis seed, notplanexecuted orfamilyrelationshipreplacedbypower. Continuejoyandreceivinghelp alongsidemotive.
+
+## V27 reading revision — no changed endpoint,2026-10-17
+
+[Pacing/dialogue pass](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). Existing REL-S5-001–008 remain valid outcomes, but their scene texture is expanded. Goddess tells anchor/name FIRST inV27#5, then Mau begins fragmentary recall; no earlier knowledge. #8friends actually struggle with fear andYuta's new question before company, not instantlysettled. #7/#12F'sprocessing and#16Noiseobjection last longer; choices/limits unchanged. #8 explicitly overlapsMakiupstairs, no altered12hclock. No fresh rupture or resolution to carry intoV28.

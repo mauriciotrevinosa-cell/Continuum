@@ -38,6 +38,28 @@ He did.
 
 People began doing that aloud. Qifrey asked about the frame rather than the landscape beyond it. Echidna, seated near the end, wanted to know whether the pull had changed with the voice. Ciel had no new answer; Rimuru relayed that instead of offering one for her.
 
+Fern put a hand on the back of an empty chair.
+
+"Before we start deciding what she meant, did you answer anything else?"
+
+Mau repeated the first question too. What Ori was to him. How the voice had moved past his question without answering it. He caught himself putting a reason into the telling and went back.
+
+"No. She didn't say that. That's what I thought she was doing."
+
+Fern nodded. She wanted the distinction, not an apology for taking so long.
+
+"And she hasn't actually asked you to go yet," Rimuru said.
+
+"Not in those words."
+
+"Then we aren't there yet."
+
+Mau looked at his friend. He wanted to live in that small difference. It was a place where they could still examine a frame, ask another question, find something the person asking had overlooked.
+
+Qifrey asked whether anyone had approached it since Mau sat down. The answer was no. Anko asked for the path to remain clear while they talked. Stark went to tell the people nearest the yard, returning with the same half-folded cloth he had been carrying when someone called him.
+
+No one had become ready merely by coming into the room.
+
 Gojo stayed by the outer door with his arms folded. He looked toward the yard at intervals. Mau could see him checking the same absence of an obvious place to strike.
 
 Ori was watching Mau, not the doorway.
@@ -87,6 +109,14 @@ Frieren's hand found his shoulder.
 "But some of them do want me. And if something comes for one of you because it wants me, I don't know how to stand here and let that happen. I'd keep thinking I could have stopped it."
 
 "Thinking it doesn't make it your fault," Maki said.
+
+"If I know what she wants—"
+
+"You know what she asked. Those aren't always the same thing."
+
+He stopped. Across the table Yuta had not taken his eyes off him. Rimuru was still holding the chair, as if he had meant to bring it over and forgotten which of them needed it.
+
+Mau had started explaining how he could bear the choice before hearing what it would do to them. He could feel himself doing it. Knowing did not supply a different answer.
 
 He nodded, once. He had heard her. It did not untie the thing under his ribs.
 

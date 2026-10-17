@@ -1,5 +1,7 @@
 # S5 / V27 — production record and exit state
 
+> **Creator pacing revision,2026-10-17:** [Exact changes and continuing standard](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). Chapters4–9,12,16 expanded/clarified; first knowledge ofSecondChance corrected. Same29IDs/clock/outcomes. Earlier structural QA did not establish adequate pacing. Current word total: 23,776. Publication receipt below is historical until new revision verification.
+
 **Date:** 2026-10-17. **Status:** PUBLISHED PRODUCTION DRAFT — creator reading pending; publication verified in QA.
 **Authorization:** “perfecto me gusta lo que hiciste arrancate con vol 27”. This authorizes this volume, not all remaining S5 volumes in one run.
 **Volume:**27 — **The Way Home**. **Actual chapters:**29. **Episode umbrellas:**S5E01–S5E06. **Prose words:**20,818, excluding metadata. **Time:**Day262 early evening through Day267 bedtime.

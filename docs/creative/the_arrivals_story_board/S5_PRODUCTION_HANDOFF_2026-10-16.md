@@ -1,5 +1,22 @@
 # S5 — current production handoff
 
+## Latest steering — revise pacing before new V31
+
+Creator, readingV27#8, reports compression and confusing dialogue, and correctly notes Mau did not know SecondChance. [Full request, actual revisions and continuing standard](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). V27#4–9,12,16 expanded with stableIDs; rereadfrom4. Goddess first reveals anchor/name in#5; remembering begins NOW, no earlier knowledge. V30 completefirstdraft saved below; **V31 not started**. Next work reviewsV28–30 pacing/dialogue before moreproduction. Earlier completion/QA labels do not certify pace or creator approval. Do not lose this steering on continuation.
+
+## Current actual stop — V30 complete / Day287 night
+
+V27–30 complete production drafts,119 S5chapters, notcreator-approved. V3035chapters/S5E18–24/17,551words. [Read exact exit record first](S5_V30_PRODUCTION_RECORD_2026-10-17.md). V31nextstartsS5E25, Day288 afterbreakfast, firstlimitedkeygatevisit notalreadydone. Continue without asking permission; creator specifically wants sustained batches and scopedpartialpushes about20minutesapart.
+
+PartyMau/Yuta/Gojo/Kaneki, Rimurucovershome, Fconsulted/nextownouting, Yukaordinarygame/Exchangefrightkept. KeyownerMau, companionsallowed; interior/return/clock/checkpointsstillmustbeestablishedbeforeadvance. ArisealreadyV29; Level3/tenunspentpoints/oneReddragon/finiteownreserve/tenregistrations, noBlackHeart/patrol. WeeklynormalgateEandshoprelocatedonce30pacesinsideunmovedboundary, secondentrancebesideit. Nooneknows100floorsyet.
+
+Queen2/R14, reciprocalouting/R47, fortday/R15actuallypaid. FullMau-dayR20, Gojo/Shokodate, wedding/Himmel andtower/finaleremainfuture. Fernsharedexecutionwithauthority, actualmorningteaDay286; REL-S5-025–030recordothers'changes. Tobaccoemptyframe; Hollisviablematerialpending. Samehouse/tree/loft/compass/flowers/privacy. Sourcetechniqueaudit recordsfactsversusnewhypotheses, notfreepowergain.
+
+Readerautomaticallyfollowspushedbranch: partialindiceshonest, neverclaimprivateGitonly. API8001/web3000, no browserchapter/JS/localStorage; preservebookmark. Scopedcreativecommitsonly, unrelatedsoftwarechangesleftalone. Finalpublicationreceiptfollowsrealchecks.
+
+## Historical handoffs below — superseded by current entry
+
+
 ## Current continuation checkpoint —25 V30 chapters
 
 Latest actual stop: Day286 bedtime, V30#25. Next #26 / S5E23 chapter01, Day287. Chapters11–25 now written; [partial record](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md) contains actual role changes, single relocation, modest shop and Sukuna truce/cost report. Older ten-chapter notices below are historical. V30 still partial; subsequent science/key/role follow-through remains. Do not redo Queen2/fort or these15 chapters. Reader follows pushed branch automatically, so allpartiallabels mustremain honest.

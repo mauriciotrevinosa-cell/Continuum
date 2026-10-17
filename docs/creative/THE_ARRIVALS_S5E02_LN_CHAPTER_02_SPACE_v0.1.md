@@ -100,6 +100,26 @@ Frieren could answer that. She had been answering it ever since his chair scrape
 
 Maki was silent.
 
+Frieren watched the light change on the blanket. She had already begun arranging a defence of him in her head. He had been frightened. Ori had been in front of him. He had been trying to give everyone something to hold on to.
+
+All of it could be true. She had heard the words anyway.
+
+"I wanted him to look," she said. "For a way to stay longer. I still do."
+
+"I know."
+
+"Not until it kills him."
+
+Maki looked at her hands.
+
+"Then that's the difference he needs to hear."
+
+"He knows that."
+
+"Maybe. Does he know you're frightened he doesn't?"
+
+Frieren started to answer and stopped. Downstairs a chair moved over the floor. It might have been his. She was trying so hard not to go and find out that even sitting still felt like doing something to him.
+
 The east window showed the roofline and the last of the sky. From this side of the house the shed was out of sight. Frieren was relieved not to see it and ashamed of the relief.
 
 "I want to be there when he leaves," she said.
@@ -125,6 +145,22 @@ Maki's gaze moved to her hands on the blanket.
 Frieren sat with that for a while.
 
 When she finally said she wanted to sleep, Maki got up. She asked if Frieren wanted water. Frieren said no, then yes, then watched her set a cup on the shelf beside the closed book that held the flowers.
+
+Maki picked up the book Frieren had moved twice and held it out rather than choosing a place for it.
+
+Frieren put it on her own side of the bed. Then she saw the other one on his pillow and left it there.
+
+"Do you want me to come back?" Maki asked.
+
+She almost said no. It was the answer that would let her keep the next part private, whether privacy helped or not.
+
+"Not yet."
+
+"All right."
+
+"I don't know how long."
+
+"You can tell us."
 
 Maki did not ask her to be reasonable.
 

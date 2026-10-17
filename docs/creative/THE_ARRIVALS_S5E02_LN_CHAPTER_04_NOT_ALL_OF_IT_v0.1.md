@@ -20,7 +20,27 @@ Mau moved his own from the small table between their chairs. She set hers down w
 
 He smiled. She took the chair Yuta had vacated to help Momo carry something from the kitchen.
 
-For a while she told him about a passage Ryo insisted was simple. It was simple when Ryo played it. This, Bocchi said, was a problem with several of Ryo's opinions.
+She began with Ryo, lost the start of the sentence, and tried again.
+
+There was a passage Ryo insisted was simple. It was simple when Ryo played it. This, Bocchi said, was a problem with several of Ryo's opinions.
+
+Mau asked which part had caused the argument.
+
+She looked at the cup. "It's not really important."
+
+"You were annoyed enough to bring it all the way over here."
+
+"I brought the cup."
+
+"That too."
+
+Her fingers loosened a little. She explained that the notes were not the difficult part. Where the others expected the phrase to end, Ryo kept leaving a little room, and then everyone sounded as if they had come in too early. Nijika had tried counting it. This had not improved Ryo's opinion of counting.
+
+Mau listened until Bocchi realized he was waiting for the rest, not for her to finish bothering him.
+
+"I like the space," she admitted. "When we get there together."
+
+"Then show me where it is."
 
 Mau asked her to show him the rhythm on the chair arm.
 
@@ -103,6 +123,18 @@ Mau noticed. She noticed him noticing.
 "Good."
 
 She took Bocchi's chair. For some time they watched the yard. The opening did not get easier to look at with practice.
+
+Rem looked toward the chairs Yuta and Rimuru had moved. One still had a folded coat on it. Someone had left it for later rather than deciding the evening had used up all possible need for warmth.
+
+"Would you rather not talk?" she asked.
+
+Mau nearly gave the answer that would make her easiest to have beside him. He looked at her empty hands instead.
+
+"I don't know what to say."
+
+"Then you can begin there."
+
+She settled into the chair. Inside, Ram called for someone who was not her sister. Rem listened, and stayed.
 
 "I told someone," he said at last.
 

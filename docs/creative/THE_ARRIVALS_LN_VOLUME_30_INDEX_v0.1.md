@@ -3,11 +3,11 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 30
 **Season:** 5
-**Coverage:** S5E18–22 (partial)
+**Coverage:** S5E18–24
 **Volume title:** **Room at the Table**
-**Chapter count:** 25
+**Chapter count:** 35
 
-**Production state:** PARTIAL CHECKPOINT,25 actual chapters. V30 is still in production; the remaining science, practical tests and key-opening arrangements follow. Creator review pending.
+**Production state:** COMPLETE PRODUCTION DRAFT; creator reading/review pending. Earlier partial checkpoints are superseded by this complete index.
 
 | Order | Source episode | LN chapter | File |
 |---:|---|---|---|
@@ -36,5 +36,15 @@
 | 23 | S5E22 | Terms For A Night | `THE_ARRIVALS_S5E22_LN_CHAPTER_03_TERMS_FOR_A_NIGHT_v0.1.md` |
 | 24 | S5E22 | A Higher Sky | `THE_ARRIVALS_S5E22_LN_CHAPTER_04_A_HIGHER_SKY_v0.1.md` |
 | 25 | S5E22 | What You Promised | `THE_ARRIVALS_S5E22_LN_CHAPTER_05_WHAT_YOU_PROMISED_v0.1.md` |
+| 26 | S5E23 | Inherited | `THE_ARRIVALS_S5E23_LN_CHAPTER_01_INHERITED_v0.1.md` |
+| 27 | S5E23 | Three Favourite Answers | `THE_ARRIVALS_S5E23_LN_CHAPTER_02_THREE_FAVOURITE_ANSWERS_v0.1.md` |
+| 28 | S5E23 | The Door Beside It | `THE_ARRIVALS_S5E23_LN_CHAPTER_03_THE_DOOR_BESIDE_IT_v0.1.md` |
+| 29 | S5E23 | The Trial Week | `THE_ARRIVALS_S5E23_LN_CHAPTER_04_THE_TRIAL_WEEK_v0.1.md` |
+| 30 | S5E23 | A Table Away | `THE_ARRIVALS_S5E23_LN_CHAPTER_05_A_TABLE_AWAY_v0.1.md` |
+| 31 | S5E24 | A First Party | `THE_ARRIVALS_S5E24_LN_CHAPTER_01_A_FIRST_PARTY_v0.1.md` |
+| 32 | S5E24 | What Fits In A Bag | `THE_ARRIVALS_S5E24_LN_CHAPTER_02_WHAT_FITS_IN_A_BAG_v0.1.md` |
+| 33 | S5E24 | The Question At The Table | `THE_ARRIVALS_S5E24_LN_CHAPTER_03_THE_QUESTION_AT_THE_TABLE_v0.1.md` |
+| 34 | S5E24 | Before Sleep | `THE_ARRIVALS_S5E24_LN_CHAPTER_04_BEFORE_SLEEP_v0.1.md` |
+| 35 | S5E24 | A Name He Didn't Want | `THE_ARRIVALS_S5E24_LN_CHAPTER_05_A_NAME_HE_DIDNT_WANT_v0.1.md` |
 
-[Exact continuation](the_arrivals_story_board/S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md).
+[Production record and exact exit state](the_arrivals_story_board/S5_V30_PRODUCTION_RECORD_2026-10-17.md).

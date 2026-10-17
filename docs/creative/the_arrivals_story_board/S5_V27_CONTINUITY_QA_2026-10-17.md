@@ -1,5 +1,7 @@
 # V27 — continuity and delivery QA
 
+> **Creator pacing revision,2026-10-17:** [Exact changes and continuing standard](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). Chapters4–9,12,16 expanded/clarified; first knowledge ofSecondChance corrected. Same29IDs/clock/outcomes. Earlier structural QA did not establish adequate pacing. Current word total: 23,776. Publication receipt below is historical until new revision verification.
+
 Date: 2026-10-17. Narrative review plus root integration record; not creator approval. Parallel reviewers did not edit prose.
 
 ## Result

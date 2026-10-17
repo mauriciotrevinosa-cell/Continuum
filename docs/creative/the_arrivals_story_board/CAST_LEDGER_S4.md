@@ -1,5 +1,7 @@
 # The Arrivals: cast ledger (living document, created 2026-10-10)
 
+> **Current actual state: V30 complete, Day287night.** [Exit record](S5_V30_PRODUCTION_RECORD_2026-10-17.md), REL-S5-025–030. Fernsharedexecution/authority andactualtea; newtrialroles, singleinside relocation/shop, Sukuna nightconversation/expiry, plannedfirstfourpartyDay288. Level3/tenpoints/onefinite-reserveddragonunchanged, noBlackHeart. Olderpartialnoticesbelowhistorical.
+
 > **Current partialV30 stop: Day284 bedtime, chapter10.** [Exact saved state](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md). Queen2 and fort day now delivered; small reciprocal outing also actual. Powers/rewards unchanged fromV29. RemainingV30 not written; prior notices are dated entry context.
 
 > **Latest produced state: V29, Day280 evening.** [Exact exit record](S5_V29_PRODUCTION_RECORD_2026-10-17.md), REL-S5-015–021 and the appended power delta govern current changes. Mau now has one stored dragon, Level3/ten unspent points and bounded operations; no BlackHeart or army. Queen2/fort time remain future; older notices below are historical.

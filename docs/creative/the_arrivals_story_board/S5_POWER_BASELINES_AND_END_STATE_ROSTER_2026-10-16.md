@@ -899,3 +899,9 @@ Antes del primer diagnóstico con brazaletes, normalizar las versiones exactas d
 | Bracelets / appraisal | #27 |100 removable measuring tools, wearer calls fields and selects sharing; gate-axeE / fire component | Private calibration pending, no source-memory disclosure or levels for all. Weapon rank is equipment, not person; component needs compatible mount and spends charge. |
 
 No new numeric restoration percentages assigned. Key/relocation/shop rewards are not combat powers; use requires later household planning. Seed/identity/origin/lifespan unknown; one physical heartbeat remains before Architect.
+
+## Actual V30 delta — Days281–287 (2026-10-17)
+
+No newcombat-kitunlock or sourcepercentage. MauLevel3/tenpointssaved, onestoredReddragon/finitebranchreserve/tenregistrationplaces; noBlackHeart. Flight remainslowbriefloadedwithFsupport. Braceletreadingsdistinguishbranch/equipment/source. GojoInfinity/SixEyes/smallBlue, Red/Purple/Domainnotrestoredbydiscussingthem. Blue/black-holecomparisonisnewmeasurementhypothesis, Gojoalreadycompetentmathematically; F'sDiabloscenelearnednow, notwitnessedretroactively. Cielprivate→spokenrelay. VowlimitedconductexpiresDay287sunrise, no generalGoddessoverride orpaidroute refund.
+
+Single normalgate/shoprelocationused30pacesinsideoriginalboundary; secondkeyframebesideit. WeeklyEclassificationdistinctweaponEandpersonal100. Firstfoodstocksandcoolinginsertconsumefinitecrystals; notunlimitedheal/energy. FirstTowerparty/clock/exitchecksplannedDay288, no100floorknowledgeyet. Full details in [V30 exit record](S5_V30_PRODUCTION_RECORD_2026-10-17.md).

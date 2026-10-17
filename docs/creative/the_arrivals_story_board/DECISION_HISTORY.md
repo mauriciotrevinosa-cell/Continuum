@@ -1828,3 +1828,11 @@ Following the creator's request to continue after partial pushes, V29 is written
 ## DH-118 — continuous batch checkpoint, partialV30,2026-10-17
 
 V28/V29 complete and published; continuation produced ten openingV30 chapters with Queen2/reciprocal outing/owed fort day. Partial backup requested by creator, not a finished-volume or creator-approval claim. [Exact continuation](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md). No shop/role/Sukuna/tower scenes claimed by presence in a plan. Reader intentionally remains at last complete source; no browser bookmark writes.
+
+## DH-119 — V30 completion and sustained next-volume work,2026-10-17
+
+Creator asks tocontinueafterusagecut andnotstopatonevolume/checkpoint. V30now35shortreadingchapters,17k+words, Days281–287; [record](S5_V30_PRODUCTION_RECORD_2026-10-17.md). Queen2/fort/reciprocaldaypaid, sharedroles/tea, singlelinkedsiterelocation/modestshop, boundedsukunaconversationandhypotheses, firstTowerpartysetnotyetentered. Noautoapprovalorunrelatedcodechanges. Correction toDH118deliveryassumption: readerautofollowspushedbranch, includinghonestpartialindices; noexplicitresyncrequiredforvisibility. Bookmarkuntouched. ContinueV31withinexistingauthorization.
+
+## DH-120 — creator pacing / dialogue / first SecondChance knowledge correction,2026-10-17
+
+ReadingV27#8, creator reports hurried scenes and unclear conversational construction; permits expansion and rereading. Mau did not know SecondChance before the S5 Goddess talk. [Exact messages and response](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). ExistingV27#4–9,12,16 revised, same29IDs/outcomes/deadline. Name/anchor first supplied byGoddess, fragments only aftertrigger; Yuta repair staysnecessary. Originalstructuralpassnotadequatepacingproof. Pause newV31 and review existingV28–30 for similarly compressed scenes. Sustainedwork/checkpointauthorization persists, not permission to rush.

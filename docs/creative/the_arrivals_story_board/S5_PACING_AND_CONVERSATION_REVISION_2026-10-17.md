@@ -39,3 +39,7 @@ V29 revised chapters **23,26,27**. They discuss the specific optional Red/altern
 V30 revised chapters **12,13,25**. The game is played on-page rather than declared; Jinshi's habit/hesitation precedes leaving an empty reception; the conversation after the unexpected meeting develops why the first warning must precede a useful complete report. Role outcomes and limited vow unchanged. The full household/compass/Queen2/fort chronology remains as recorded. This is a targeted qualitative pass, not a claim that every future conversation can pass automatically.
 
 Independent rereads found and corrected incidental ambiguities about Yuta at the awakening, the needle spell's function, a twice-tied knot, and an already-found exit. Those fixes are in the text. Structural/hash checks support delivery; they do not replace this editorial reading or the creator's review.
+
+## Delivery confirmed
+
+[Verified Git/API/SSR receipts](S5_READER_DELIVERY_AND_PACING_2026-10-17.md). Revisions are pushed and actually served, not only saved locally. V27 meaningful additions begin atchapter4; reread from there. Chapter count/order and browser bookmark were preserved. No creator approval is inferred. Continue applying this standard while developing V31; its prose is still unstarted at this checkpoint.

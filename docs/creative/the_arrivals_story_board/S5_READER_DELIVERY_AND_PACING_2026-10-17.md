@@ -5,3 +5,9 @@
 Source commit `38f01450217c5c50307f0fde19c5453623c9c6ee` pushed to `m3/critical-path`. Existing reader project resynced and fetched that exact SHA. **30volumes /862chapters**, exact ID sets,35V30chapter order, cross-volume and revisedV27 navigation verified.45served chapter/index bodies match committed text exactly after newline normalization; lifecycleDRAFT.109delivery assertions passed. Earlier unchanged chapter/index blobs protected outside the explicit eight-chapterV27 revision and its index. Browser/JavaScript/localStorage untouched; bookmark preserved.
 
 The follow-through V28–30 pace/dialogue revisions are separate from this source receipt; their pushed-source/served-body verification follows actual execution. Do not attach these earlier results to an untested later SHA. [Actual revision inventory](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md).
+
+## Verified follow-through revision
+
+Source commit `9d718e95fea1c1e04cfb94247b33336bc693df15` pushed and fetched by the reader. All13 subsequently revised chapter bodies match the commit and local metadata; all remainDRAFT. Same30volumes/862chapters.47scoped checks passed, including exact creative-only commit scope, the retainedV27 first revelation, and actual SSR text for the accidental command and anniversary conversation. Prior45body verification is not repeated unnecessarily; these checks cover the later changes.
+
+The browser was never opened or scripted. No localStorage, bookmark, character DB, source Vault or unrelated software file changed. The creator can refresh and reread V27 fromchapter4 using the same existing links. Future source-only receipt commits preserve these checked prose bodies.

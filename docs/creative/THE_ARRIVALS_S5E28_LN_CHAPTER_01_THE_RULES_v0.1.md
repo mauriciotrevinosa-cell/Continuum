@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 16 — The Rules
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 16
 **Continuity state:** The card game has actual turns and choices among Umaru, Yuka, Milim, Ori and Mau; Frieren reads beside them, no training or System gain
 

@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 2 — The First Threshold
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 2
 **Continuity state:** The owner registers the four-person expedition; the entrance notice distinguishes persistent progress from a weekly reset and provides a physical withdrawal route
 

@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 11 — Being Up
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 11
 **Continuity state:** The full ordinary Mau-day begins; Ori guides floating sleeping Milim with the existing loose ribbon, and family breakfast leads to chosen games
 

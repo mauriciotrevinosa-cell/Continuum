@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 18 — Five Points
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 18
 **Continuity state:** Mau's new branch awards unspent points after gate combat; the others do not acquire its XP and his existing reservoirs remain separate
 

@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 34 — Before Sleep
+# The Arrivals — Light Novel — Volume 28
+## Chapter 64 — Before Sleep
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 34
+**Volume:** 28
+**Reading order:** 64
 **Continuity state:** The couple keeps ordinary closeness before the first tower visit; the anniversary compass stays Mau's existing gift and Ori receives the agreed notice
 
 *When: Day 287, night.*

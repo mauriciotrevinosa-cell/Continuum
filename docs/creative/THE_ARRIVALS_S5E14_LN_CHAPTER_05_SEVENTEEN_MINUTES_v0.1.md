@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 15 — Seventeen Minutes
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 15
 **Continuity state:** The outside household gathers at the safe boundary; nobody treats the interior week as exterior time or assumes an unlimited Ciel connection
 

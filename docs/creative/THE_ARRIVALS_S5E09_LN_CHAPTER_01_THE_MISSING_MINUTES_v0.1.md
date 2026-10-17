@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 11 — The Missing Minutes
+# The Arrivals — Light Novel — Volume 27
+## Chapter 40 — The Missing Minutes
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 11
+**Volume:** 27
+**Reading order:** 40
 **Continuity state:** Mau wakes after the Exchange rest; chosen recollection supplies the household's first account of the war rather than a fabricated live recording
 
 *When: Day 269, morning.*

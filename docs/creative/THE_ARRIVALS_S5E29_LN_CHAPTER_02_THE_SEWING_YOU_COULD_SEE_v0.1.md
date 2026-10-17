@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 22 — The Sewing You Could See
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 22
 **Continuity state:** Coco and Echidna keep their binding appointment; Coco's mother chooses to join after shared cleaning, and a finished ordinary repair is enjoyed without new magic
 

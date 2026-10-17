@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 6 — The Smaller Glass
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 6
 **Continuity state:** All four return within the first hour; the observed clock and costs are reported, the first floor stays cleared, and Mau returns to the people whose plans continued at home
 

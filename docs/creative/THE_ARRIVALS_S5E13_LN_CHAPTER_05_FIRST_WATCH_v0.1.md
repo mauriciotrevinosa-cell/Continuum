@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 10 — First Watch
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 10
 **Continuity state:** The party shares watches and sleep; Mau and Milim guard without taking over the expedition or giving Mau an inexhaustible night shift
 

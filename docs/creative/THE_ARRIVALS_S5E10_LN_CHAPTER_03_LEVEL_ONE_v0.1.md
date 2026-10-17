@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 18 — Level One
+# The Arrivals — Light Novel — Volume 27
+## Chapter 47 — Level One
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 18
+**Volume:** 27
+**Reading order:** 47
 **Continuity state:** Three grimoires enter the loot record before private gifts; Mau's personal unfinished stats branch appears at level one; nobody else receives a System or a public bracelet display
 
 *When: Day 270, afternoon.*

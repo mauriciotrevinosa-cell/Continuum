@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 22 — At The New Stake
+# The Arrivals — Light Novel — Volume 28
+## Chapter 52 — At The New Stake
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 22
+**Volume:** 28
+**Reading order:** 52
 **Continuity state:** Mau checks the key at the known relocated site after giving his ordinary whereabouts; Noise alerts him to Sukuna before he can raise an alarm
 
 *When: Day 286, night.*

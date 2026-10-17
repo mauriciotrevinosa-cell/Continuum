@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 25 — The Opening
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 25
 **Continuity state:** Mau's one small Red hits the eye after an earned opening; Stark, Milim, Fern and Frieren finish together; the System's credit does not make the victory solo
 

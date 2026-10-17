@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 23 — The Silver Needle
+# The Arrivals — Light Novel — Volume 27
+## Chapter 52 — The Silver Needle
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 23
+**Volume:** 27
+**Reading order:** 52
 **Continuity state:** Frieren prepares the existing compass as her own anniversary gift; dinner supplies arrive through Hollis and household preparations preserve privacy
 
 *When: Day 277, afternoon.*

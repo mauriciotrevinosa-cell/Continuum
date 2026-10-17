@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 15 — Company
+# The Arrivals — Light Novel — Volume 27
+## Chapter 44 — Company
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 15
+**Volume:** 27
+**Reading order:** 44
 **Continuity state:** Frieren chooses ordinary closeness; the previous choice conversation remains repaired; Mau's companions receive their own account rather than automatic mind access
 
 *When: Day 269, evening.*

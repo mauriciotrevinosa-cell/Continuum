@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 23 — Not A Kitchen Problem
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 23
 **Continuity state:** Momo uses the shared meal coverage for an outing with Okarun, Vamola and Jiji; their game and affection continue without resetting Okarun's memory or assigning her another service task
 

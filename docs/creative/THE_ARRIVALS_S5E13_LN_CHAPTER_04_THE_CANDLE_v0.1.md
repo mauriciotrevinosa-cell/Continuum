@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 9 — The Candle
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 9
 **Continuity state:** The six establish their first camp; Frieren and Fern's established bond develops through an ordinary shared task and earned praise
 

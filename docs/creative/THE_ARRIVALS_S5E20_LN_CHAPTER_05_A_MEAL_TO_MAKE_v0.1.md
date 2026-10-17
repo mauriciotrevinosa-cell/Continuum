@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 15 — A Meal To Make
+# The Arrivals — Light Novel — Volume 28
+## Chapter 45 — A Meal To Make
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 15
+**Volume:** 28
+**Reading order:** 45
 **Continuity state:** Rem directs a shared meal with Ram, Mau, Frieren and Fern helping; Momo takes actual chosen time off and the trial does not make Rem permanent substitute chef
 
 *When: Day 285, supper.*

@@ -3,9 +3,11 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
 **Season:** 5
-**Coverage:** S5E01–S5E06
+**Coverage:** S5E01–S5E11
 **Volume title:** **The Way Home**
-**Chapter count:** 29
+**Chapter files:** 58
+
+**Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 onward.
 
 ## Reading order
 
@@ -44,9 +46,28 @@
 | 27 | S5E06 | Our Day | `THE_ARRIVALS_S5E06_LN_CHAPTER_02_OUR_DAY_v0.1.md` |
 | 28 | S5E06 | The Wrong Turn | `THE_ARRIVALS_S5E06_LN_CHAPTER_03_THE_WRONG_TURN_v0.1.md` |
 | 29 | S5E06 | Tomorrow Also | `THE_ARRIVALS_S5E06_LN_CHAPTER_04_TOMORROW_ALSO_v0.1.md` |
-
-Production draft for creator reading; continuity review is not creator approval. Existing volumes/chapters retain their stable identities.
-
-**Reading revision,2026-10-17:** expanded dialogue and pacing fromchapter4; samechapterorder/IDs. [Revision note](the_arrivals_story_board/S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). Creator review pending.
-
-**Creator pacing revision, 2026-10-17 (Claude):** the creator wants S5 chapters about half an S4 chapter, so a split "pt1 / pt2" is welcome. #11–#15 and #19 were expanded; #11, #12, #13 and #19 are now split into Part 1 / Part 2 files at existing scene breaks. Volume chapter numbers are unchanged; only the S5E03/S5E04 file indices shifted.
+| 30 | S5E07 | Before Work | `THE_ARRIVALS_S5E07_LN_CHAPTER_01_BEFORE_WORK_v0.1.md` |
+| 31 | S5E07 | The Day They Missed | `THE_ARRIVALS_S5E07_LN_CHAPTER_02_THE_DAY_THEY_MISSED_v0.1.md` |
+| 32 | S5E07 | Four Will Go | `THE_ARRIVALS_S5E07_LN_CHAPTER_03_FOUR_WILL_GO_v0.1.md` |
+| 33 | S5E07 | Week Twenty-Four | `THE_ARRIVALS_S5E07_LN_CHAPTER_04_WEEK_TWENTYFOUR_v0.1.md` |
+| 34 | S5E07 | The Black Ant | `THE_ARRIVALS_S5E07_LN_CHAPTER_05_THE_BLACK_ANT_v0.1.md` |
+| 35 | S5E08 | Exchange | `THE_ARRIVALS_S5E08_LN_CHAPTER_01_EXCHANGE_v0.1.md` |
+| 36 | S5E08 | The Other Man | `THE_ARRIVALS_S5E08_LN_CHAPTER_02_THE_OTHER_MAN_v0.1.md` |
+| 37 | S5E08 | Without A Sky | `THE_ARRIVALS_S5E08_LN_CHAPTER_03_WITHOUT_A_SKY_v0.1.md` |
+| 38 | S5E08 | Hers | `THE_ARRIVALS_S5E08_LN_CHAPTER_04_HERS_v0.1.md` |
+| 39 | S5E08 | Alive | `THE_ARRIVALS_S5E08_LN_CHAPTER_05_ALIVE_v0.1.md` |
+| 40 | S5E09 | The Missing Minutes | `THE_ARRIVALS_S5E09_LN_CHAPTER_01_THE_MISSING_MINUTES_v0.1.md` |
+| 41 | S5E09 | Sorry | `THE_ARRIVALS_S5E09_LN_CHAPTER_02_SORRY_v0.1.md` |
+| 42 | S5E09 | What We Can Say | `THE_ARRIVALS_S5E09_LN_CHAPTER_03_WHAT_WE_CAN_SAY_v0.1.md` |
+| 43 | S5E09 | A Better Lid | `THE_ARRIVALS_S5E09_LN_CHAPTER_04_A_BETTER_LID_v0.1.md` |
+| 44 | S5E09 | Company | `THE_ARRIVALS_S5E09_LN_CHAPTER_05_COMPANY_v0.1.md` |
+| 45 | S5E10 | The Way They Left | `THE_ARRIVALS_S5E10_LN_CHAPTER_01_THE_WAY_THEY_LEFT_v0.1.md` |
+| 46 | S5E10 | A Book At The End | `THE_ARRIVALS_S5E10_LN_CHAPTER_02_A_BOOK_AT_THE_END_v0.1.md` |
+| 47 | S5E10 | Level One | `THE_ARRIVALS_S5E10_LN_CHAPTER_03_LEVEL_ONE_v0.1.md` |
+| 48 | S5E10 | A Small Distance | `THE_ARRIVALS_S5E10_LN_CHAPTER_04_A_SMALL_DISTANCE_v0.1.md` |
+| 49 | S5E10 | The Price Of Dinner | `THE_ARRIVALS_S5E10_LN_CHAPTER_05_THE_PRICE_OF_DINNER_v0.1.md` |
+| 50 | S5E11 | Terms | `THE_ARRIVALS_S5E11_LN_CHAPTER_01_TERMS_v0.1.md` |
+| 51 | S5E11 | Room For Two | `THE_ARRIVALS_S5E11_LN_CHAPTER_02_ROOM_FOR_TWO_v0.1.md` |
+| 52 | S5E11 | The Silver Needle | `THE_ARRIVALS_S5E11_LN_CHAPTER_03_THE_SILVER_NEEDLE_v0.1.md` |
+| 53 | S5E11 | A Little Longer | `THE_ARRIVALS_S5E11_LN_CHAPTER_04_A_LITTLE_LONGER_v0.1.md` |
+| 54 | S5E11 | Your Turn | `THE_ARRIVALS_S5E11_LN_CHAPTER_05_YOUR_TURN_v0.1.md` |

@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 1 — The Last Thing To Pack
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 1
 **Continuity state:** Mau leaves after the agreed check and breakfast with his chosen first party; the compass remains his anniversary gift, and ordinary home plans continue
 

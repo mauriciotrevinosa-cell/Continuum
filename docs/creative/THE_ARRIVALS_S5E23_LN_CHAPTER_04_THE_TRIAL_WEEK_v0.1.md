@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 29 — The Trial Week
+# The Arrivals — Light Novel — Volume 28
+## Chapter 59 — The Trial Week
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 29
+**Volume:** 28
+**Reading order:** 59
 **Continuity state:** The new division of work is actually tested; Fern keeps budget authority, Jinshi and Nano have bounded roles, and Momo's chosen time away continues without transferring all work to Rem
 
 *When: Day 287, afternoon.*

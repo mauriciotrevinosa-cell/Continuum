@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 10 — The Whole Day
+# The Arrivals — Light Novel — Volume 28
+## Chapter 40 — The Whole Day
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 10
+**Volume:** 28
+**Reading order:** 40
 **Continuity state:** The owed fort day reaches supper and its ordinary end; no gate tests or work consume it; ongoing friendships persist without claiming the separate full Mau-day is delivered
 
 *When: Day 284, evening into bedtime.*

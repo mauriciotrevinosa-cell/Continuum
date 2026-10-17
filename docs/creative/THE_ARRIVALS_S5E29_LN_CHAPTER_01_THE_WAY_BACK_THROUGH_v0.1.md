@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 21 — The Way Back Through
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 21
 **Continuity state:** The party uses observation and a physical route to clear the next passage, returns within two outside hours, and records Level5 with twenty unspent points; no transfer checkpoint is earned
 

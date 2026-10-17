@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 20 — At The Snowline
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 20
 **Continuity state:** The hostile archers return; Frieren offers passage rather than pursuing them, then defends the party; one dissolves as a gate creature without defining every elf as one
 

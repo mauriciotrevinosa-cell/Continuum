@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 5 — A Command He Already Knew
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 5
 **Continuity state:** The interface initially rejects a shadow function Mau already possesses; Noise binds the existing operation to the new branch without granting a class, unlimited reserve or the rest of the System
 

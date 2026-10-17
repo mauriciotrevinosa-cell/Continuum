@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 3 — A Hundred Floors
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 3
 **Continuity state:** The four test an independent return at the vestibule and discover the hundred-floor campaign; the clock comparison applies to the observed interval, not every future room
 

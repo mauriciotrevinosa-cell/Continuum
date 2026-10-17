@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 17 — A Book At The End
+# The Arrivals — Light Novel — Volume 27
+## Chapter 46 — A Book At The End
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 17
+**Volume:** 27
+**Reading order:** 46
 **Continuity state:** Yuta and Milim defeat the normal instance's guardian with Yuka's route work; three physical grimoires are found, without guaranteed future drops or new shop stock
 
 *When: Day 270, late morning.*

@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 7 — The Other Appointment
+# The Arrivals — Light Novel — Volume 28
+## Chapter 37 — The Other Appointment
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 7
+**Volume:** 28
+**Reading order:** 37
 **Continuity state:** The owed fort day begins after the agreed check; Mau attends a day organized by the fort, with Frieren invited as herself and no new initiation
 
 *When: Day 284, breakfast and morning.*

@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 11 — The White Dog
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 11
 **Continuity state:** Yuka uses her already-tamed white Divine Dog for a short scouting task with real cost; she is distinct from Mau's Ear and no new ritual occurs
 

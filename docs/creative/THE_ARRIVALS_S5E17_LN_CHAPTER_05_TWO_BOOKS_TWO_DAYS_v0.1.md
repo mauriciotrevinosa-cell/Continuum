@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 30 — Two Books, Two Days
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 30
 **Continuity state:** The party rests after its lived week; Queen2 is still to begin by agreement, the fort day remains owed and future key/bracelet study waits
 

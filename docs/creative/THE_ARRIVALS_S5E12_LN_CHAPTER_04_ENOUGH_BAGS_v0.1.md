@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 4 — Enough Bags
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 4
 **Continuity state:** Provisions and camping equipment are physically packed; a very short monitored defensive access test precedes the trip; no taming or broad kit clearance
 

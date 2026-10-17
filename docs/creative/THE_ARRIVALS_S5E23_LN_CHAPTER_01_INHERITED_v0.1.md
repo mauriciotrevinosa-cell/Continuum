@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 26 — Inherited
+# The Arrivals — Light Novel — Volume 28
+## Chapter 56 — Inherited
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 26
+**Volume:** 28
+**Reading order:** 56
 **Continuity state:** The truce expires at sunrise; Gojo explains source-grounded inherited technique and physical cost without unverified pi or systematic infant-killing lore
 
 *When: Day 287, early morning.*

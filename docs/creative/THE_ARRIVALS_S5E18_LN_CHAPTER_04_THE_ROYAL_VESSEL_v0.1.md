@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 4 — The Royal Vessel
+# The Arrivals — Light Novel — Volume 28
+## Chapter 34 — The Royal Vessel
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 4
+**Volume:** 28
+**Reading order:** 34
 **Continuity state:** A short controlled kitchen approach develops the existing low hover comedy; Frieren supports part of her own weight and medical/space limits remain
 
 *When: Day 282, late morning.*

@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 1 — A Party
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 1
 **Continuity state:** Frieren begins recruiting for her own expedition; Yuka chooses to join and Yuta/Maki choose time together rather than being automatically assigned
 

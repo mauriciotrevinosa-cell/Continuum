@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 8 — Not Just Her
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 8
 **Continuity state:** Mau's bounded Infinity stops the elf's arrow as a deliberate signal; Frieren had seen it and remains the leader
 

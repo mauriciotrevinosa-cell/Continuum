@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 32 — What Fits In A Bag
+# The Arrivals — Light Novel — Volume 28
+## Chapter 62 — What Fits In A Bag
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 32
+**Volume:** 28
+**Reading order:** 62
 **Continuity state:** The first visit has finite supplies and an hour limit; the Red Gate dragon remains one stored shadow, ten points remain unspent, and exit mechanics still require testing
 
 *When: Day 287, after supper.*

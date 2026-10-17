@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 25 — Your Turn
+# The Arrivals — Light Novel — Volume 27
+## Chapter 54 — Your Turn
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 25
+**Volume:** 27
+**Reading order:** 54
 **Continuity state:** Mau reveals the agreed Frieren-led outing after the Day280 reset; three preparation days remain; the compass goes home with Mau and the couple's ordinary closeness continues
 
 *When: Day 277, late evening.*

@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 16 — The Way They Left
+# The Arrivals — Light Novel — Volume 27
+## Chapter 45 — The Way They Left
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 16
+**Volume:** 27
+**Reading order:** 45
 **Continuity state:** A fresh medical check permits the second limited outing; the normal instance is reentered before reset with the same four and Rimuru at home
 
 *When: Day 270, morning.*

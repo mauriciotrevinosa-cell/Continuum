@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 5 — Normal
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 5
 **Continuity state:** All six enter the new blue normal gate before it turns red and seals; the planned ordinary trip becomes a trapped expedition without prior knowledge
 

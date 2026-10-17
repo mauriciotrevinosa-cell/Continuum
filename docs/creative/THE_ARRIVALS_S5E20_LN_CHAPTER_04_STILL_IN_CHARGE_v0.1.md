@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 14 — Still In Charge
+# The Arrivals — Light Novel — Volume 28
+## Chapter 44 — Still In Charge
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 14
+**Volume:** 28
+**Reading order:** 44
 **Continuity state:** Fern chooses shared execution without surrendering authority; Frieren offers specific affection and time; the brief two-Zoltraak Gojo gag follows the emotional conversation
 
 *When: Day 285, late afternoon.*

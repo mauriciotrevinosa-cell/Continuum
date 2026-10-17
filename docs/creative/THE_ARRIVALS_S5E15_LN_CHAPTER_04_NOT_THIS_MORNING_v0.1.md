@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 19 — Not This Morning
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 19
 **Continuity state:** Mau chooses rest after the short combat opening; the party uses that interval for nearby reconnaissance, repair and ordinary companionship rather than coercion
 

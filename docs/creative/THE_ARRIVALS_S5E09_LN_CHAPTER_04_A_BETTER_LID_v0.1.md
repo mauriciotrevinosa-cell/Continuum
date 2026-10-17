@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 14 — A Better Lid
+# The Arrivals — Light Novel — Volume 27
+## Chapter 43 — A Better Lid
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 14
+**Volume:** 27
+**Reading order:** 43
 **Continuity state:** Ordinary household work and band life continue independently; Yuka and Mau recover their teasing sibling rhythm without erasing the fright
 
 *When: Day 269, late afternoon.*

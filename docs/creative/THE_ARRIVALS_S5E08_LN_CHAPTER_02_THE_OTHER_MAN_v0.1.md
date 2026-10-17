@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 7 — The Other Man
+# The Arrivals — Light Novel — Volume 27
+## Chapter 36 — The Other Man
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 7
+**Volume:** 27
+**Reading order:** 36
 **Continuity state:** Jin-Woo appears in Mau's place; Yuta's party holds the location and hears the Goddess's public announcement
 
 *When: Day 268, the same five exterior minutes.*

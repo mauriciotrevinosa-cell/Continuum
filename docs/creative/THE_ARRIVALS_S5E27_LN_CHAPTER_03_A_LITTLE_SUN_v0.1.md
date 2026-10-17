@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 13 — A Little Sun
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 13
 **Continuity state:** Kaneki directs light chosen work and enjoys coffee/rest; Mai and Maki have their own practical task and ordinary humour
 

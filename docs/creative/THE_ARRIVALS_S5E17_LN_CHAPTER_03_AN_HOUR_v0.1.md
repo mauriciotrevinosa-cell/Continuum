@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 28 — An Hour
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 28
 **Continuity state:** The six return after one lived interior week; Mau carries the reward frame in a short low hover while Frieren supports her own weight; exterior restrictions return
 

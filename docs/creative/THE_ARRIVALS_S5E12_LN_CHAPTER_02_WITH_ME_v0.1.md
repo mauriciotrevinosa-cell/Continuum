@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 2 — With Me
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 2
 **Continuity state:** Frieren asks Fern personally to explore together; Fern and Stark choose participation while preserving their own relationship and agreed household coverage
 

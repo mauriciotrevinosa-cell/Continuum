@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 17 — The Long Pond
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 17
 **Continuity state:** A shoreline encounter requires coordinated defence; Mau chooses one bounded ordinary CE strike and closes it, with no Red or new named technique
 

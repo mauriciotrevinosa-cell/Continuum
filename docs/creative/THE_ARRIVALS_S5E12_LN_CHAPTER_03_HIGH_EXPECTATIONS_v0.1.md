@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 3 — High Expectations
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 3
 **Continuity state:** Milim joins under Frieren's leadership; Gojo's teasing prompts the chosen Shoko date invitation, without completing their future date or giving him new powers
 

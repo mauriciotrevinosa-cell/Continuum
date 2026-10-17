@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 3 — Four Will Go
+# The Arrivals — Light Novel — Volume 27
+## Chapter 32 — Four Will Go
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 3
+**Volume:** 27
+**Reading order:** 32
 **Continuity state:** Mau informs Ori and Frieren before a short agreed run; Yuka, Yuta and Milim choose to accompany him; Rimuru remains home
 
 *When: Day 268, late morning.*

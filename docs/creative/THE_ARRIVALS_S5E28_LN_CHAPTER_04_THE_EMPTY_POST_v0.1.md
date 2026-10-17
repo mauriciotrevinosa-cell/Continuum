@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 19 — The Empty Post
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 19
 **Continuity state:** Mau registers Yuka, Yuta and Milim for a new limited expedition; the cleared first street persists, and the second floor must be reached on foot
 

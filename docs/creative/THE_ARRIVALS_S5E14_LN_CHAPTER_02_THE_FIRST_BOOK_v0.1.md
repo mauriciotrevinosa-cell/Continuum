@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 12 — The First Book
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 12
 **Continuity state:** The first mini-boss is defeated through Frieren's plan; a physical grimoire is earned and carried in Mau's established bag, beginning the two-book wager
 

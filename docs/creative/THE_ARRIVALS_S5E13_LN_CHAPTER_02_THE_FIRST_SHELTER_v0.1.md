@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 7 — The First Shelter
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 7
 **Continuity state:** Frieren organizes shelter, water and rationing; local Ciel cannot relay outside; reduced world restriction does not open Mau's internal walls
 

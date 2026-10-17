@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 16 — Dry Ground
+# The Arrivals — Light Novel — Volume 28
+## Chapter 46 — Dry Ground
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 16
+**Volume:** 28
+**Reading order:** 46
 **Continuity state:** The household chooses a relocation site thirty paces inside the existing boundary, clear of roots, house exits and the interface's public approach range
 
 *When: Day 286, morning.*

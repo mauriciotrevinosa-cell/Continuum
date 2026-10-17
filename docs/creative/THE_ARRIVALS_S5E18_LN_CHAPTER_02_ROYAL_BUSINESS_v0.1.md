@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 2 — Royal Business
+# The Arrivals — Light Novel — Volume 28
+## Chapter 32 — Royal Business
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 2
+**Volume:** 28
+**Reading order:** 32
 **Continuity state:** Frieren studies the two new books with Mau while ordinary shared work continues; the old five kept flowers and separate grimoire acquisitions remain intact
 
 *When: Day 281, late morning.*

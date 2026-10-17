@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 24 — A Little Longer
+# The Arrivals — Light Novel — Volume 27
+## Chapter 53 — A Little Longer
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 24
+**Volume:** 27
+**Reading order:** 53
 **Continuity state:** The overdue anniversary dinner occurs; Frieren gives Mau the established S4 compass that points at her, transferring custody without inventing new tracking powers or an engagement
 
 *When: Day 277, evening.*

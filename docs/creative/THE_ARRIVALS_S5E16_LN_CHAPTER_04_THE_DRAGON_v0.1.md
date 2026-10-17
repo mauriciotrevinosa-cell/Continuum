@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 24 — The Dragon
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 24
 **Continuity state:** The planned six-person encounter begins; Milim roars back and follows Frieren's timing while the others establish their positions
 

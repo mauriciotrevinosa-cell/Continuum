@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 6 — Red Glass
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 6
 **Continuity state:** Rimuru loses the ordinary gate relay and cannot pull or enter; outside responders act within minutes, not days
 

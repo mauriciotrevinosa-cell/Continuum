@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 24 — Both Tables
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 24
 **Continuity state:** The seven-day gatherings both occur after dinner in their established separate spaces; ordinary humour, chosen confidences and Gojo's plans do not become shared private knowledge
 

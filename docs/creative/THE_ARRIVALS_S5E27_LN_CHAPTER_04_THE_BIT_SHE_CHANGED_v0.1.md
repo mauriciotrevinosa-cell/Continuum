@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 14 — The Bit She Changed
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 14
 **Continuity state:** Bocchi asks for specific listening and chooses her own musical change; Kita and Carmilla retain independent bonds, followed by shared lunch and cleanup
 

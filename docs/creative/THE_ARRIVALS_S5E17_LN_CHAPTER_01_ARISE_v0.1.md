@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 26 — Arise
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 26
 **Continuity state:** Ciel helps find the confirmation word; the first Arise fails before Mau focuses as with Ear; one dragon shadow is registered with finite separate reserve
 

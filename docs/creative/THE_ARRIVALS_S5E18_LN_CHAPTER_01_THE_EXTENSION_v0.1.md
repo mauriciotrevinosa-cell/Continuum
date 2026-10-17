@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 1 — The Extension
+# The Arrivals — Light Novel — Volume 28
+## Chapter 31 — The Extension
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 1
+**Volume:** 28
+**Reading order:** 31
 **Continuity state:** Queen2 begins after rest with the existing oak crown and a plainly playful amended pass; its reach remains Mau only, not the fort or household authority
 
 *When: Day 281, morning.*

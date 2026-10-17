@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 1 — Before Work
+# The Arrivals — Light Novel — Volume 27
+## Chapter 30 — Before Work
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 1
+**Volume:** 27
+**Reading order:** 30
 **Continuity state:** Shoko, Maomao and Ciel amend the post-bell restriction only for a bounded ordinary outing; no combat-kit restoration
 
 *When: Day 268, morning.*

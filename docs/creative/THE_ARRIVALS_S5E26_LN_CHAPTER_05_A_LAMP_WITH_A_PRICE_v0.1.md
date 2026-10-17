@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 10 — A Lamp With A Price
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 10
 **Continuity state:** The found lantern is registered as an eligible ordinary utility item; stock costs crystals and charges remain consumable, while Frieren's own outing receives attention at home
 

@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 12 — Three Stones
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 12
 **Continuity state:** Shoko has her own plans; Mau and Gojo share a short attention-and-footwork practice without techniques, XP or restored kit
 

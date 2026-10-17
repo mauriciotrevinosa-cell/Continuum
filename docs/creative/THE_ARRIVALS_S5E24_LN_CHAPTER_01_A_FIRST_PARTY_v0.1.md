@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 31 — A First Party
+# The Arrivals — Light Novel — Volume 28
+## Chapter 61 — A First Party
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 31
+**Volume:** 28
+**Reading order:** 61
 **Continuity state:** Mau chooses a limited first visit with Yuta, Gojo and Kaneki; Rimuru covers home, Frieren is consulted, and later rotations remain open
 
 *When: Day 287, evening.*

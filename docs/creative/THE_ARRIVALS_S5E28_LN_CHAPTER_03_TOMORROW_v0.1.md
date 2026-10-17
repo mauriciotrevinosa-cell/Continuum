@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 18 — Tomorrow
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 18
 **Continuity state:** The full day returns to games, Bocchi music and family bedtime; current couples, loft and connecting door persist, with no night training or cliffhanger alarm
 

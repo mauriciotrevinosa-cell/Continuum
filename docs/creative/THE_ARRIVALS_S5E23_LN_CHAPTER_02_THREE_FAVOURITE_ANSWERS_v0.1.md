@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 27 — Three Favourite Answers
+# The Arrivals — Light Novel — Volume 28
+## Chapter 57 — Three Favourite Answers
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 27
+**Volume:** 28
+**Reading order:** 57
 **Continuity state:** The group develops hypotheses from observed spatial phenomena; Senku's provocation is not an astrophysical claim or an immediate new power unlock
 
 *When: Day 287, morning.*

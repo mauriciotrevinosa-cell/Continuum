@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 28
-## Chapter 19 — A Small Distance
+# The Arrivals — Light Novel — Volume 27
+## Chapter 48 — A Small Distance
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 28
-**Reading order:** 19
+**Volume:** 27
+**Reading order:** 48
 **Continuity state:** Mau's first controlled natural levitation uses the existing tiny mana supply with efficiency and instruction; it is not an elf-route unlock or a level reward
 
 *When: Day 272, afternoon.*

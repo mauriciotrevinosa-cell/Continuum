@@ -1,45 +1,39 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 29 Index v0.1
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 29
 **Season:** 5
-**Coverage:** S5E12–17
-**Volume title:** **The Long Way Round**
-**Chapter count:** 30
+**Coverage:** S5E25–S5E29
+**Volume title:** **The Days Between**
+**Chapter files:** 24
 
-**Production state:** COMPLETE PRODUCTION DRAFT; creator review pending. Days278–280 outside, including a seven-day interior expedition.
+**Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 onward.
+
+## Reading order
 
 | Order | Source episode | LN chapter | File |
 |---:|---|---|---|
-| 1 | S5E12 | A Party | `THE_ARRIVALS_S5E12_LN_CHAPTER_01_A_PARTY_v0.1.md` |
-| 2 | S5E12 | With Me | `THE_ARRIVALS_S5E12_LN_CHAPTER_02_WITH_ME_v0.1.md` |
-| 3 | S5E12 | High Expectations | `THE_ARRIVALS_S5E12_LN_CHAPTER_03_HIGH_EXPECTATIONS_v0.1.md` |
-| 4 | S5E12 | Enough Bags | `THE_ARRIVALS_S5E12_LN_CHAPTER_04_ENOUGH_BAGS_v0.1.md` |
-| 5 | S5E12 | Normal | `THE_ARRIVALS_S5E12_LN_CHAPTER_05_NORMAL_v0.1.md` |
-| 6 | S5E13 | Red Glass | `THE_ARRIVALS_S5E13_LN_CHAPTER_01_RED_GLASS_v0.1.md` |
-| 7 | S5E13 | The First Shelter | `THE_ARRIVALS_S5E13_LN_CHAPTER_02_THE_FIRST_SHELTER_v0.1.md` |
-| 8 | S5E13 | Not Just Her | `THE_ARRIVALS_S5E13_LN_CHAPTER_03_NOT_JUST_HER_v0.1.md` |
-| 9 | S5E13 | The Candle | `THE_ARRIVALS_S5E13_LN_CHAPTER_04_THE_CANDLE_v0.1.md` |
-| 10 | S5E13 | First Watch | `THE_ARRIVALS_S5E13_LN_CHAPTER_05_FIRST_WATCH_v0.1.md` |
-| 11 | S5E14 | The White Dog | `THE_ARRIVALS_S5E14_LN_CHAPTER_01_THE_WHITE_DOG_v0.1.md` |
-| 12 | S5E14 | The First Book | `THE_ARRIVALS_S5E14_LN_CHAPTER_02_THE_FIRST_BOOK_v0.1.md` |
-| 13 | S5E14 | Breakfast For Six | `THE_ARRIVALS_S5E14_LN_CHAPTER_03_BREAKFAST_FOR_SIX_v0.1.md` |
-| 14 | S5E14 | The Long Way | `THE_ARRIVALS_S5E14_LN_CHAPTER_04_THE_LONG_WAY_v0.1.md` |
-| 15 | S5E14 | Seventeen Minutes | `THE_ARRIVALS_S5E14_LN_CHAPTER_05_SEVENTEEN_MINUTES_v0.1.md` |
-| 16 | S5E15 | Fern's Turn | `THE_ARRIVALS_S5E15_LN_CHAPTER_01_FERNS_TURN_v0.1.md` |
-| 17 | S5E15 | The Long Pond | `THE_ARRIVALS_S5E15_LN_CHAPTER_02_THE_LONG_POND_v0.1.md` |
-| 18 | S5E15 | Five Points | `THE_ARRIVALS_S5E15_LN_CHAPTER_03_FIVE_POINTS_v0.1.md` |
-| 19 | S5E15 | Not This Morning | `THE_ARRIVALS_S5E15_LN_CHAPTER_04_NOT_THIS_MORNING_v0.1.md` |
-| 20 | S5E15 | At The Snowline | `THE_ARRIVALS_S5E15_LN_CHAPTER_05_AT_THE_SNOWLINE_v0.1.md` |
-| 21 | S5E16 | What Was Left | `THE_ARRIVALS_S5E16_LN_CHAPTER_01_WHAT_WAS_LEFT_v0.1.md` |
-| 22 | S5E16 | Which Way | `THE_ARRIVALS_S5E16_LN_CHAPTER_02_WHICH_WAY_v0.1.md` |
-| 23 | S5E16 | The High Pass | `THE_ARRIVALS_S5E16_LN_CHAPTER_03_THE_HIGH_PASS_v0.1.md` |
-| 24 | S5E16 | The Dragon | `THE_ARRIVALS_S5E16_LN_CHAPTER_04_THE_DRAGON_v0.1.md` |
-| 25 | S5E16 | The Opening | `THE_ARRIVALS_S5E16_LN_CHAPTER_05_THE_OPENING_v0.1.md` |
-| 26 | S5E17 | Arise | `THE_ARRIVALS_S5E17_LN_CHAPTER_01_ARISE_v0.1.md` |
-| 27 | S5E17 | Two | `THE_ARRIVALS_S5E17_LN_CHAPTER_02_TWO_v0.1.md` |
-| 28 | S5E17 | An Hour | `THE_ARRIVALS_S5E17_LN_CHAPTER_03_AN_HOUR_v0.1.md` |
-| 29 | S5E17 | What Came Home | `THE_ARRIVALS_S5E17_LN_CHAPTER_04_WHAT_CAME_HOME_v0.1.md` |
-| 30 | S5E17 | Two Books, Two Days | `THE_ARRIVALS_S5E17_LN_CHAPTER_05_TWO_BOOKS_TWO_DAYS_v0.1.md` |
-
-Previous volume: [V28 — A Little Longer](THE_ARRIVALS_LN_VOLUME_28_INDEX_v0.1.md).
+| 1 | S5E25 | The Last Thing To Pack | `THE_ARRIVALS_S5E25_LN_CHAPTER_01_THE_LAST_THING_TO_PACK_v0.1.md` |
+| 2 | S5E25 | The First Threshold | `THE_ARRIVALS_S5E25_LN_CHAPTER_02_THE_FIRST_THRESHOLD_v0.1.md` |
+| 3 | S5E25 | A Hundred Floors | `THE_ARRIVALS_S5E25_LN_CHAPTER_03_A_HUNDRED_FLOORS_v0.1.md` |
+| 4 | S5E25 | The First Street | `THE_ARRIVALS_S5E25_LN_CHAPTER_04_THE_FIRST_STREET_v0.1.md` |
+| 5 | S5E25 | A Command He Already Knew | `THE_ARRIVALS_S5E25_LN_CHAPTER_05_A_COMMAND_HE_ALREADY_KNEW_v0.1.md` |
+| 6 | S5E26 | The Smaller Glass | `THE_ARRIVALS_S5E26_LN_CHAPTER_01_THE_SMALLER_GLASS_v0.1.md` |
+| 7 | S5E26 | The Game He Came Back For | `THE_ARRIVALS_S5E26_LN_CHAPTER_02_THE_GAME_HE_CAME_BACK_FOR_v0.1.md` |
+| 8 | S5E26 | The Same Small Pull | `THE_ARRIVALS_S5E26_LN_CHAPTER_03_THE_SAME_SMALL_PULL_v0.1.md` |
+| 9 | S5E26 | Her Kind Of Morning | `THE_ARRIVALS_S5E26_LN_CHAPTER_04_HER_KIND_OF_MORNING_v0.1.md` |
+| 10 | S5E26 | A Lamp With A Price | `THE_ARRIVALS_S5E26_LN_CHAPTER_05_A_LAMP_WITH_A_PRICE_v0.1.md` |
+| 11 | S5E27 | Being Up | `THE_ARRIVALS_S5E27_LN_CHAPTER_01_BEING_UP_v0.1.md` |
+| 12 | S5E27 | Three Stones | `THE_ARRIVALS_S5E27_LN_CHAPTER_02_THREE_STONES_v0.1.md` |
+| 13 | S5E27 | A Little Sun | `THE_ARRIVALS_S5E27_LN_CHAPTER_03_A_LITTLE_SUN_v0.1.md` |
+| 14 | S5E27 | The Bit She Changed | `THE_ARRIVALS_S5E27_LN_CHAPTER_04_THE_BIT_SHE_CHANGED_v0.1.md` |
+| 15 | S5E27 | Another Cup | `THE_ARRIVALS_S5E27_LN_CHAPTER_05_ANOTHER_CUP_v0.1.md` |
+| 16 | S5E28 | The Rules | `THE_ARRIVALS_S5E28_LN_CHAPTER_01_THE_RULES_v0.1.md` |
+| 17 | S5E28 | Without Stones | `THE_ARRIVALS_S5E28_LN_CHAPTER_02_WITHOUT_STONES_v0.1.md` |
+| 18 | S5E28 | Tomorrow | `THE_ARRIVALS_S5E28_LN_CHAPTER_03_TOMORROW_v0.1.md` |
+| 19 | S5E28 | The Empty Post | `THE_ARRIVALS_S5E28_LN_CHAPTER_04_THE_EMPTY_POST_v0.1.md` |
+| 20 | S5E28 | Leave The Chain | `THE_ARRIVALS_S5E28_LN_CHAPTER_05_LEAVE_THE_CHAIN_v0.1.md` |
+| 21 | S5E29 | The Way Back Through | `THE_ARRIVALS_S5E29_LN_CHAPTER_01_THE_WAY_BACK_THROUGH_v0.1.md` |
+| 22 | S5E29 | The Sewing You Could See | `THE_ARRIVALS_S5E29_LN_CHAPTER_02_THE_SEWING_YOU_COULD_SEE_v0.1.md` |
+| 23 | S5E29 | Not A Kitchen Problem | `THE_ARRIVALS_S5E29_LN_CHAPTER_03_NOT_A_KITCHEN_PROBLEM_v0.1.md` |
+| 24 | S5E29 | Both Tables | `THE_ARRIVALS_S5E29_LN_CHAPTER_04_BOTH_TABLES_v0.1.md` |

@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 33 — The Question At The Table
+# The Arrivals — Light Novel — Volume 28
+## Chapter 63 — The Question At The Table
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 33
+**Volume:** 28
+**Reading order:** 63
 **Continuity state:** The house begins choosing observable recovery studies without declaring a universal training shortcut or removing noncombat residents from ordinary life
 
 *When: Day 287, evening.*

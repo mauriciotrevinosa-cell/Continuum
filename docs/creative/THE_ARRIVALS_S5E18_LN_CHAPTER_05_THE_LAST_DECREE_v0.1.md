@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 5 — The Last Decree
+# The Arrivals — Light Novel — Volume 28
+## Chapter 35 — The Last Decree
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 5
+**Volume:** 28
+**Reading order:** 35
 **Continuity state:** Queen2's two lived days conclude; the couple chooses a small reciprocal outing for tomorrow without spending the fort day or making another lifelong binding promise
 
 *When: Day 282, evening.*

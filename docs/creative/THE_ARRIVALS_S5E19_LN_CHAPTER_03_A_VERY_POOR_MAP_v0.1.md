@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 8 — A Very Poor Map
+# The Arrivals — Light Novel — Volume 28
+## Chapter 38 — A Very Poor Map
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 8
+**Volume:** 28
+**Reading order:** 38
 **Continuity state:** A fort-organized observation game gives Coco and Suika authority and the others playful reciprocal roles; no ink or new magic is exposed to Mau
 
 *When: Day 284, late morning.*

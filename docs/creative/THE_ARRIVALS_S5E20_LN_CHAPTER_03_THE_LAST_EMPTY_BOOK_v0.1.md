@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 13 — The Last Empty Book
+# The Arrivals — Light Novel — Volume 28
+## Chapter 43 — The Last Empty Book
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 13
+**Volume:** 28
+**Reading order:** 43
 **Continuity state:** Arrival House daily reception ceases because no guests remain; Jinshi chooses bounded domestic records under Fern and keeps his own life with Maomao
 
 *When: Day 285, afternoon.*

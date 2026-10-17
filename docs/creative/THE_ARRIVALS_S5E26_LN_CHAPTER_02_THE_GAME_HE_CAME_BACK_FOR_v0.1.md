@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 7 — The Game He Came Back For
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 7
 **Continuity state:** Mau and Yuta keep Yuka's game appointment; Maki joins by choice, and the family interaction is not reduced to a dungeon debrief
 

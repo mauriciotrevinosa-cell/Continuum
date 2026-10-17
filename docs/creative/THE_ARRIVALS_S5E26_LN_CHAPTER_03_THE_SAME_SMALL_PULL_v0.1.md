@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 8 — The Same Small Pull
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 8
 **Continuity state:** Gojo's inside result is compared with an outside baseline; one controlled variation suggests better selection but no restored Red, Purple, Domain or global recovery percentage
 

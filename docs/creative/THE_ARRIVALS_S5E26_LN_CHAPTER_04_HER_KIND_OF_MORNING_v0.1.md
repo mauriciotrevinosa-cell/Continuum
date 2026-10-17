@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 9 — Her Kind Of Morning
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 9
 **Continuity state:** Frieren, Fern and Stark take their own ordinary-gate outing; the weekly E entrance stays separate from Mau's tower, and discovery does not require a new grimoire every visit
 

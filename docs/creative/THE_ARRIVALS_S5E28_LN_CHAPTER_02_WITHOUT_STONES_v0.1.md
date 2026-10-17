@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 17 — Without Stones
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 17
 **Continuity state:** A light chosen Yuta timing practice stops before exhaustion; grandfather and brotherly bonds continue into dinner, Gojo and Shoko have separate ordinary outings
 

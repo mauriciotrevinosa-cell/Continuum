@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 25 — What You Promised
+# The Arrivals — Light Novel — Volume 28
+## Chapter 55 — What You Promised
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 25
+**Volume:** 28
+**Reading order:** 55
 **Continuity state:** The family challenges Mau's risk without becoming involuntary signers or reopening the repaired romance; he reports exact terms, costs and Sukuna's claims
 
 *When: Day 286, later that night.*

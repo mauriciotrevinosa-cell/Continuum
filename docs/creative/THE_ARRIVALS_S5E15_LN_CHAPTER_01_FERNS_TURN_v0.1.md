@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 16 — Fern's Turn
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 16
 **Continuity state:** Fern chooses a small part of the route and shares discovery with Frieren; their closeness is not reduced to accounts or supervising Mau
 

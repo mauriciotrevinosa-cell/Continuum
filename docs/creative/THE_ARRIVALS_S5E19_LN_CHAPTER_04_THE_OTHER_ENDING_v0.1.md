@@ -1,9 +1,9 @@
-# The Arrivals — Light Novel — Volume 30
-## Chapter 9 — The Other Ending
+# The Arrivals — Light Novel — Volume 28
+## Chapter 39 — The Other Ending
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 30
-**Reading order:** 9
+**Volume:** 28
+**Reading order:** 39
 **Continuity state:** Bocchi shares the passage she chose to change, with Kita and the band retaining their own agency; the fort day is not a concert milestone or a cure for anxiety
 
 *When: Day 284, afternoon.*

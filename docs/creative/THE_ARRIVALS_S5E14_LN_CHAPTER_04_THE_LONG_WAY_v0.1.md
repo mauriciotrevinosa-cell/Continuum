@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 29
+# The Arrivals — Light Novel — Volume 28
 ## Chapter 14 — The Long Way
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 29
+**Volume:** 28
 **Reading order:** 14
 **Continuity state:** A broken ravine crossing changes Frieren's route; Yuka's rope and Stark's practical work matter; Mau's low levitation cannot replace a safe crossing
 

@@ -1,8 +1,8 @@
-# The Arrivals — Light Novel — Volume 31
+# The Arrivals — Light Novel — Volume 29
 ## Chapter 20 — Leave The Chain
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
-**Volume:** 31
+**Volume:** 29
 **Reading order:** 20
 **Continuity state:** The four coordinate a limited fight with a kept retreat; Mau briefly manifests the common sentry at real reserve cost, without extracting a new shadow or restoring other powers
 

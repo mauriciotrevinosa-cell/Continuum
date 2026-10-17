@@ -206,3 +206,9 @@ Terminar esos dos frentes no vuelve completos por arte de magia los capítulos d
 [Plan integrado](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md) · [vínculos y diagnóstico enfocado](S5_RELATIONSHIP_CONTINUITY_PLAN_2026-10-16.md) · [tronco afectivo y evidencias](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md) · [reparto doméstico y últimos mensajes](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md) · [apertura completa y aclaraciones](S5_OPENING_DOOR_CREATOR_FULL_PROPOSAL_2026-10-14.md) · [día en cuatro lecturas](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md) · [ledger](CAST_LEDGER_S4.md) · [constitución](STORY_CONSTITUTION.md).
 
 Los originales no se simplifican ni se reemplazan. Este mapa eleva colocación/retornos a propuestas revisables sin declarar capítulos que aún no se escribieron, auditar todas las temporadas por afirmación o forzar nuevos conflictos para hacer sitio a la familia.
+
+## Ubicación por volumen — última pasada de preparación
+
+[mapa V27–V36, breathers y método de producción](S5_VOLUME_MAP_BREATHERS_AND_READINESS_2026-10-16.md) asigna un volumen primario a **cada R01–R63**, sin renumerarlas, y fija puentes que no esperan tres libros para retomar Bocchi/Yuka/Umaru/Ori. Las etiquetas A–H y las relaciones descritas arriba siguen vigentes; los volúmenes son colocación editorial P y se ajustan junto al retorno si cambia una escena.
+
+R01–R06/R46 se preparan paraV27 (el día familiar puede pasar al primer intervaloV28 si la recuperación lo requiere); R07–R11 paraV28; R12–R13 paraV29; recompensas/vida de casa30; verano31–35; final/guardias36. El día coral R20 sigue contando una vez y sus cuatro cortes no pagan el día de los tres, el fort o Queen2. No convertir63 unidades en63 capítulos obligatorios o las casillas de retorno en escenas ya escritas.

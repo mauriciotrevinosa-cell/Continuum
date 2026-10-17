@@ -139,3 +139,9 @@ R50 conserva el gag de boda pedido y ahora incorpora el recuerdo del Trial/páni
 ## Torre, familias y descanso después del Arquitecto
 
 [mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). R58–R63 añaden voces de sombras/desafío Beru-Frieren, Taihei, familia Kaneki, Armin/mañanas de Eren-Mikasa y relevo de noches. Son colocaciones por desarrollar y no hechos ya producidos. Selección actual cuatro nombres; posible quinto sin elegir, monedas/consentimiento/puntos fuente abiertos. Apoyos de amigos en R56 y pregunta sobre boda en R57/retornoR54 incorporan lo pedido: procesar el recuerdo guardado sin borrar lo sanado o su relato anterior. No reemplazar días/citas/Queen2 ni el resto de relaciones; las sombras tampoco sustituyen el trato Mau/Bocchi/Yuka/Umaru/Ori u otros por ser nuevos compañeros.
+
+## Breathers y continuidad por volumen — preparación lista para V27
+
+[mapa V27–V36, breathers y método de producción](S5_VOLUME_MAP_BREATHERS_AND_READINESS_2026-10-16.md) añade colocación primaria/retornos para todas las unidades y acciones de vida autónoma: Momo usa su relevo, música propia Kessoku, ejercicio/juego del atelier y madre de Coco, gustos de las cinco, proyecto Marin/Wakana, estrellas/familia, ocio Shoko/Anko/Nazuna y voces independientes. Son propuestas a integrar, no capítulos ya cumplidos o nuevos hobbies certificados por fuente.
+
+Una escena puede divertir sin avanzar el plot. Mantener puentes breves con contenido entre grandes escenas de hermanos/familia/pareja; no corregir ausencia con desfile de nombres. Revisar al cerrar cada volumen lo escrito y actualizarlo en el ledger/handoff. El mapa no exige igual presencia o el mismo peso narrativo a los60.

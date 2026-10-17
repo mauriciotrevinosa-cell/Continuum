@@ -1,16 +1,16 @@
 # The Arrivals — Light Novel — Volume 27
 ## Chapter 13 — The Last Hour
 
-**Status:** LN PRODUCTION DRAFT — S5 v0.1
+**Status:** LN PRODUCTION DRAFT — S5 v0.1 (expanded 2026-10-17 for pacing)
 **Volume:** 27
 **Reading order:** 13
 **Continuity state:** Mau's company remains; he waits for Frieren without demanding her arrival; the deadline is tracked
 
-*When: Day 263, early morning before the twelve-hour deadline.*
+*When: Day 263, early morning before the twelve-hour deadline. The crackers table is still upstairs. Kaneki has come in from the night shift and has not gone to bed. Momo has been up since four, and the kitchen knows it.*
 
 Mau woke with somebody else's coat over his knees.
 
-For a second he could not place the ceiling. Then he heard Rimuru protesting that nobody had asked him if he wanted tea, and it was the common room again.
+For a second he could not place the ceiling. Beams. Clay between them, with the marks of somebody's fingers still in it where Wakana had smoothed it wet. A crack running from the corner that Rimuru said was decorative and Senku said was structural and nobody had yet fixed. Then he heard Rimuru protesting that nobody had asked him if he wanted tea, and it was the common room again, and he was on the bench by the cold hearth with his back against the wall and his neck at an angle it was going to hold against him.
 
 He sat up too quickly.
 
@@ -20,13 +20,15 @@ Mau looked at him.
 
 "You haven't missed it."
 
-His hands were closed around the edge of the coat. He let go slowly, one finger at a time.
+His hands were closed round the edge of the coat. He let go slowly, one finger at a time. The coat was long and dark and smelled faintly of smoke and timber. Kaneki's. Kaneki was at the far end of the long table with his own cup, still in his work clothes, sawdust in the creases of his sleeves. He did not look round. He lifted one hand from the table, very slightly, which in Kaneki meant *it's fine, keep it*.
 
-Gojo was sitting backward on a chair near the outer door. He had pushed his glasses up into his hair and was looking at the yard. Shoko sat on the window bench with a cup balanced between both palms. They had not made the night into a vigil in rows. Someone had fallen asleep beside a stack of folded cloths. Someone else had gone to bed and come back in different socks.
+Mau kept it.
 
-There was bread, and half a pot of tea that had suffered from being kept warm.
+Gojo was sitting backward on a chair near the outer door, with his arms folded on the chair's back and his chin on his arms. He had pushed his glasses up into his hair and was looking at the yard. Shoko sat on the window bench with a cup balanced between both palms, not drinking it, her unlit cigarette tucked behind one ear like a pencil. They had not made the night into a vigil in rows. Someone had fallen asleep beside a stack of folded cloths: Nijika, her head on her arms, with Seika's jacket over her shoulders. Someone else had gone to bed and come back in different socks: Okarun, who was pretending he had never left. Senku was at the other end of the table with a sheet of paper and a pencil, writing very small columns about the door and crossing them out, and Byakuya was asleep beside him upright with his arms folded, snoring very gently, as if he had decided that if his son was going to stay up, he would stay up too, in the only way his body would allow.
 
-Mau took some of each.
+There was bread, and half a pot of tea that had suffered from being kept warm, and a plate of something Momo had put out at four and refilled at five without anyone seeing her do it.
+
+Mau took some of each. Seiko had said to eat. He found that he was hungry, which felt like a betrayal of something, and then did not.
 
 "How long did I sleep?"
 
@@ -40,45 +42,111 @@ Mau took some of each.
 
 Rimuru indicated the chair beneath himself.
 
-Mau looked at Yuta, who was sitting on the floor with his back against the wall.
+Mau looked at Yuta, who was sitting on the floor with his back against the wall, one knee up, the ring on its chain against his chest.
 
-"He wore us down," Yuta said.
+"He wore us down," said Yuta.
 
-They went outside when Mau asked to see the light. Nobody asked him to prove he could bear it. The door was still there, and the clearing on the other side was still morning, but the two mornings did not quite match.
+"He turned into a slime and sat in it," said Shoko, from the window. "Nobody could get him out."
 
-Gojo stood well clear of the frame.
+"That's a legitimate negotiating position," said Rimuru.
+
+"That's a puddle," said Shoko.
+
+Mau laughed. It came out rough, from too little sleep. Nobody remarked on it, but the room loosened by a degree, the way a room does when the person everybody is watching does something ordinary.
+
+He ate the bread. It was the pear bread. Momo had made pear bread. He looked at it in his hand for a moment longer than he needed to.
+
+From the corner by the stair, where the fort's curtain began, there was a soft sound of strings.
+
+Bocchi was sitting on the bottom step with her guitar across her knees. She had not been there when he went to sleep, or he had not seen her. She was not playing anything, exactly. She was moving her fingers on the strings without much pressure, so the notes came out barely there. Something slow. He did not know it. He thought, after a while, that maybe nobody did. That maybe she was making it as she went.
+
+She saw him looking and stopped at once, and went pink, and put her hand flat over the strings.
+
+"Sorry," she said. "I— it's early. Sorry."
+
+"Don't stop," said Mau.
+
+Bocchi looked at him. Then at the room, which was paying very careful attention to its own cups and not to her. Then down at the guitar.
+
+She did not start again at once. But after a minute, very quietly, she did. The same slow thing, a little more sure of itself. It did not go anywhere in particular. It did not need to.
+
+Kita came down the stair behind her in a dressing gown, yawning, saw what was happening, and sat on the step above her without a word, with her knees against Bocchi's back.
+
+Mau finished his bread to it.
+
+* * *
+
+They went outside when Mau asked to see the light. Nobody asked him to prove he could bear it.
+
+The yard was grey and cool and wet with dew. The ink tree stood black against the paling sky. The shed was where it had always been. Where its back wall should have ended, the clearing was still there. Still morning. The flowers still where they had been. The two mornings, the one in the yard and the one through the frame, almost matched now, and that was worse; for a moment, from the corner of his eye, he could not tell where the shed ended.
+
+The rope was still strung in front of it, at waist height, between two stakes. Wakana had wound it in uneven loops. Somebody had tied a strip of red cloth to the middle of it, the way you mark a hole in a road.
+
+Gojo stood well clear of the frame, with his glasses down now and his hands in his pockets.
 
 "Nothing useful?" Mau asked.
 
-"Lots of things I can see. None I'm willing to call useful."
+"Lots of things I can see," said Gojo. "None I'm willing to call useful."
 
 "You hate that."
 
 "More than I can politely express."
 
-Shoko, passing behind him, said, "He's been very impolite."
+Shoko, passing behind him with her cup, said, "He's been very impolite. All night. To a door."
 
-The bench had been turned to face the house. Mau sat where he could see the door at the foot of the stairs through the open common room.
+"It deserved it," said Gojo.
 
-"Does she know?" he asked.
+The bench had been turned in the night to face the house instead of the yard. Mau did not know who had done that either. He sat where he could see, through the open common-room door, the foot of the main stair.
 
-Fern was there with a fresh jug. "I'm going up now."
+Nobody sat beside him at first. They gave him the bench. Rimuru came out and stood in the yard a little way off, in human shape, with his hands in his coat. Yuta stood near him. Kaneki leaned in the doorway. Gojo kept looking at the door in the shed as if he could out-stare it.
 
-He nodded. He wanted to ask her to hurry and did not.
+"Does she know?" Mau asked. "How long."
 
-Ori came down with Milim a little later. Milim looked so thoroughly awake that Mau suspected she had skipped the parts in between. Ori carried a ribbon in her hand instead of tying it around anything.
+Fern was there, coming across the yard from the kitchen with a fresh jug in her arms. She stopped in front of him.
+
+"I'm going up now," she said.
+
+He nodded. He wanted to ask her to hurry and did not. He wanted to ask her what Frieren had said, whether she had slept, whether she was still angry, whether she was still frightened, whether she had decided anything. He did not ask any of it. It was not his to take out of the room before Frieren brought it herself.
+
+Fern looked at him for a moment longer than she needed to. The way she looked at the ledger when the numbers came out right and she was not yet sure she believed them.
+
+"She asked for fresh water twice," said Fern. "And she ate. A little." She paused. "Seiko made her."
+
+Then she went in, past Kaneki in the doorway, and up the stair.
+
+Mau sat on the bench with his hands between his knees.
+
+Ori came down with Milim a little later. Milim looked so thoroughly awake that Mau suspected she had skipped the parts in between. She was floating a hand's breadth above the dew, forgetting not to. Ori carried a ribbon in her hand instead of tying it round anything. The red one. The one from above the second bed.
 
 She sat beside him on the bench.
 
-"You slept."
+"You slept," she said.
 
 "Apparently."
 
-"I saw. I didn't wake you up."
+"I saw. I came down in the night. You were asleep with your mouth open." She looked at him sideways. "I didn't wake you up."
 
 "Thank you."
 
+"Kaneki put his coat on you. I saw that too."
+
+"I know."
+
 She leaned against him with her eyes on the house.
+
+Milim did not sit. She hovered beside the bench, then drifted to the other side of Mau, then back, then settled at last on the arm of the bench with her feet dangling, very still for Milim, which was not very still. She kept looking at the shed. Then at Mau. Then at the shed.
+
+"I could break it," she said. "The door. I could punch it."
+
+"No," said Mau, Rimuru, Yuta and Gojo, all at once.
+
+Milim scowled. "I didn't say I would. I said I could."
+
+"I know," said Mau. He put his hand on the top of her head. "Thank you for saying it."
+
+She scowled harder. But she leaned into his hand.
+
+Ori turned the ribbon round her finger.
 
 "I still don't like it," she said.
 
@@ -90,14 +158,16 @@ He kissed the top of her head.
 
 "You don't have to."
 
-They stayed on the bench while people came into the yard in their own time. Not everyone. Some were still inside; some wanted to stand where they could see without being seen waiting. The doors of the house kept opening and closing.
+They stayed on the bench while people came into the yard in their own time. Not everyone. Some were still inside; some wanted to stand where they could see without being seen waiting. The doors of the house kept opening and closing. Momo came to the kitchen door with flour on her hands and stood there and did not come any further. Maomao came out with her bag and set it down on the step, open, and sat beside it, and looked at nothing. Coco came with her mother, holding her hand. The fort did not come out at all; the fort was at the window of the common room, a row of hoods with their noses against the glass, and Umaru was holding the Ministry slate face down against her chest so that nobody could see what she had written on it.
 
-Rimuru spoke quietly to Fern when she came back. She looked toward the upstairs windows, then at Mau.
+Mau did not look at any of them for very long. He kept looking at the foot of the stair.
 
-"She heard me. She's coming."
+Rimuru spoke quietly to Fern when she came back down. She stood in the doorway beside Kaneki and looked toward the upstairs windows, then at Mau.
 
-"All right."
+"She heard me," said Fern. "She's coming."
+
+"All right," said Mau.
 
 He said it like somebody who had time to spare.
 
-Ori could feel him counting his breaths.
+Ori, against his side, could feel him counting his breaths.

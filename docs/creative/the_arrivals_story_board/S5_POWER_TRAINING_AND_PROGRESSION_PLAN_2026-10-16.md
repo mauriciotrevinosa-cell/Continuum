@@ -1,6 +1,8 @@
 # S5 — análisis, entrenamiento y progresión v0.1
 
-> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline: tower rules/stages, Architect outcome, progression endpoints and selected world/arrival developments remain open.
+> **Latest creator continuation — 2026-10-16:** [mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Tower minis supply named shadow copies; Red Gate dragon plus Kaisel/Kamish, speaking Beru/Igris and Bellion; rare materials/divine-potion components; broken Jin-Woo contact. Architect ending now chosen: statues/fight -> Black Heart -> two heartbeats -> escape -> Sukuna alliance for S6. No Black Heart DURING tower remains true; full mechanics/chapters are not yet produced. Few family arrivals and partial recovery into S6, not compulsory100% for all by S5 finale.
+
+> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline. Architect fight/Black Heart/escape/Sukuna ending is now selected; tower rules/stages, heart costs/control, individual endpoints and arrival details still need development.
 
 
 **Fecha:** 2026-10-16. **Estado:** plan de trabajo, no roster completo ni números aprobados. [Temporada integrada](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md).
@@ -78,9 +80,9 @@ Diseñar operación, preparación, alcance, coste, incompatibilidades, falla y r
 
 ## Sombras y equipo
 
-Beru/Igris claves; Tank/Fang candidatos; dos dragones distintos y tropa común. Copias, no ejército original robado. Apariciones espaciadas, niveles y Noise analizando sin descarga inmediata de todo el original. Quizá diez al inicio y unas cien después: definir almacenadas/simultáneas, extracción, consumo, mantenimiento y conciencia.
+Beru/Igris claves; Bellion confirmado; Kaisel/Kamish expresos además del dragón rojo previo; Tank/Fang candidatos y tropa común. Copias, no ejército original robado. La dirección nueva pide habla/personalidad, especialmente Beru/Igris/Kamish; memoria/conocimiento/rango inicial aún se fijan. Apariciones espaciadas y crecimiento por niveles/Noise, sin máximo original automático. Diez/cien siguen aproximaciones; distinguir almacenadas/simultáneas, extracción, consumo y mantenimiento.
 
-Recurso sombra separado y finito, sin Black Heart; nombre abierto. Intelligence afecta primero ese branch; CE/mana se integran después con etapas, no multiplicador universal asumido. No army infinito o fuel gratis por evolucionar.
+DURANTE LA TORRE: recurso sombra separado y finito, sin Black Heart, nombre abierto. Intelligence afecta primero ese branch; CE/mana se integran por etapas. DESPUÉS: el creador ahora pide Black Heart entregado al final del Arquitecto y dos latidos; capacidad/regeneración/control/origen quedan por fijar. No asumir combustible infinito, Ashborn consciente o desbloqueo de toda la bag. La limitación previa es temporal, no veto al nuevo final.
 
 Cristal de fuego, rangos E–S, crafting/compra/loot, armadura normal visible e invisible rara posterior son caminos distintos. No stock básico de equipo excepcional, batería sin coste ni propiedades de material por decreto.
 
@@ -131,3 +133,11 @@ El intento previo de Senku cristal/bombilla falló: mostrar avance concreto, sin
 El creador quiere que, después de Sukuna, Mau guarde para sí la ambición de ser el más fuerte, sabiendo que adversarios también pueden evolucionar. Sigue disfrutando de verdad el verano; no logro concedido, nuevo % de bag desconocido ni plan secreto rellenado por el escritor. [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md) conserva ambos mensajes. La motivación puede atravesar recuperación/control/estudio/torre sin añadir un arco de entrenamiento independiente que absorba convivencia. Thomas/Serie son candidatos de siembra S6, no fichas de enemigos ya activos.
 
 S5 ocupa unos cuatro meses de verano, ampliables. Antes de fijar resultados elegir qué personas sí alcanzan una recuperación/evolución relevante; la estimación de extensión no exige inventar61 porcentajes. Reglas temporales de roja, niveles, recuperación estable y progreso de copias aún deben distinguirse.
+
+## Estados por etapa y límites nuevos que desarrollar
+
+[mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Armadura/materiales raros y piezas de poción al completar100 siguen separados de técnica/100%/curación común. La extracción futura puede admitir monarcas/otherworlders, pero Mau no la activa ni lucha con Rulers/Monarchs todavía. Definir elegibilidad, condición, éxito/coste y mantenimiento; no vida/alma convertida automáticamente o resurrección de Ashborn.
+
+Tres accesos en sombra aún distintos: monarca, ramal de shikigami (nomenclatura editorial Ten Shadows) y puerta de identidad/alcance por confirmar. Unirlos requiere dominar todos los shikigami; rueda/adaptación o soldados ya obtenidos no cuentan como domesticación. Ear ya tiene su episodio excepcional; White Divine Dog de Yuka es otra criatura. Fijar qué cuenta como ayuda externa/poder propio antes de cada ritual, sin extender la limitación particular de Ear a todo JJK por defecto.
+
+Después del Arquitecto: probar night shifts con sombras, reserva/rango de guardia y relevo para los demás; protección divina inalterada. La voz de Beru/Igris continúa más allá del combate. No reemplazar toda autonomía doméstica por vigilancia ilimitada de Mau. S5 puede cerrar con diferentes recuperaciones parciales y S6 trabajar el100% del punto de extracción, distinto de potencial último. Conserva100% de la base pertinente antes de nuevas evoluciones de esa técnica, no exige alcanzarlo todos a la vez ni al completar100 pisos.

@@ -77,3 +77,7 @@ Las fuentes S1–S4 se conservan. Esta dirección añade avance sostenido y un d
 ## Continuación del creador — recuerdo y compañía
 
 El [mensaje posterior íntegro y su revisión de continuidad](S5_MAU_TRIAL_WEDDING_TRIGGER_AND_COMPANIONS_CREATOR_SEED_2026-10-16.md) es la autoridad actual para el pánico, la conversación Frieren/Himmel y el grupo Gojo/Rimuru/Yuta. Cambiar de entorno no confirma una transformación; aceptar compañía no significa vigilancia secreta. La zona de dungeon y el acuerdo previo para que ambos Mau/Rimuru salgan se concretan al montar el outline. No se altera el cierre del Trial, la conversación ya contada en S4 o la continuidad de Himmel.
+
+## Última precisión — pensar en boda y procesar lo guardado
+
+[mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). La pregunta de Frieren y la respuesta de Mau ya tienen dirección: él no está opuesto a una boda, pero queda por digerir el recuerdo del Trial que siguió guardando. R57 o el retornoR54 alojan la conversación una sola vez; no un engagement por deducción. La compañía de Gojo/Rimuru/Yuta lleva palabras de apoyo concretas sobre Trial/Frieren viva/todos juntos, preservando conocimiento y agencia. Beru llamarla reina y el gag «ella manda» son otra escena afectiva de la torre, no una boda realizada o un cambio de puesto de Fern.

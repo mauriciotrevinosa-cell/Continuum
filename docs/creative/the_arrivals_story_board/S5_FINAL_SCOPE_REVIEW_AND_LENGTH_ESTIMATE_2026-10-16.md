@@ -1,6 +1,8 @@
 # S5 — última revisión de alcance y estimación provisional de extensión
 
-> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline: tower rules/stages, Architect outcome, progression endpoints and selected world/arrival developments remain open.
+> **Latest creator continuation — 2026-10-16:** [mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Tower minis supply named shadow copies; Red Gate dragon plus Kaisel/Kamish, speaking Beru/Igris and Bellion; rare materials/divine-potion components; broken Jin-Woo contact. Architect ending now chosen: statues/fight -> Black Heart -> two heartbeats -> escape -> Sukuna alliance for S6. No Black Heart DURING tower remains true; full mechanics/chapters are not yet produced. Few family arrivals and partial recovery into S6, not compulsory100% for all by S5 finale.
+
+> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline. The later creator continuation chooses the Architect's fight/Black Heart/escape/Sukuna bridge; tower rules/stages, execution costs, individual endpoints and arrival details still need development.
 
 
 > **Pedido posterior del creador:** [un día completo de Mau y sus vínculos](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md), con [borrador independiente para revisión](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md). Cuenta una vez dentro de la convivencia del verano ya estimada; no suma otro arco/volumen ni autoriza toda S5. El cálculo de extensión sigue provisional y el capítulo aún no tiene posición definitiva.
@@ -37,11 +39,11 @@ Resultado: el mapa macro tiene cobertura suficiente para una primera estimación
 | Upgrade | Shop moderado, E–S, compras sin garantía de grimoire nuevo, Umaru/comida/frío, QoL/hallazgos; save points tentativos, brazaletes/llave/traslado por acotar |
 | Sukuna | Visita nocturna antes de gate de llave; tregua, coste/techo, propaganda/amigos/revancha; ataque al cierre, Noise alerta, Mau interviene, despedida/corte; estudio posterior |
 | Progresión | Recuperar100% personal antes de ejecutar nuevas evoluciones, Sukuna también; stats/sombras finitos e integración gradual; investigación previa posible |
-| Verano/torre | Ascensos espaciados; equipos/solo por elegir; favoritos/copies/dos dragones; casa que continúa y descanso elegido |
+| Verano/torre | Ascensos espaciados; equipos/solo por elegir; copias con voces y Bellion confirmado; Kaisel/Kamish más dragón rojo; casa y descanso continúan |
 | Mundo | Gates exteriores, presión sobre rutas, comercio/Hollis/guild, tinta/testigos/transporte, materiales/infraestructura y vida propia de comunidades |
 | Reparto |60 personas + Ciel;19 habituales, otras41 con continuidad flexible; reactivar sin reiniciar familia, parejas o primeras muestras de cuidado |
 | Cultura | Té, música/live, fort, estrellas, cosplay, Kusuri/grupo, Mai/Vamola, madre de Coco, proyectos y ocio; no sólo compras y bosses |
-| Cierre/horizonte |100 pisos antes de doble mazmorra; Arquitecto/Ashborn interpretado por él, resultado abierto; Sukuna/naciones sembrados para S6 |
+| Cierre/horizonte |100 pisos antes de estatuas/Arquitecto; Black Heart/dos latidos, huida y oferta Sukuna ya elegidos; proyecto Ashborn no probado y reclutas/naciones hacia S6 |
 | Motor nuevo de Mau | Desea en privado llegar a ser el más fuerte para proteger a los suyos mientras disfruta su vida; no logro ya concedido ni acción secreta inventada |
 
 ## Correcciones y clasificación de notas antiguas
@@ -58,13 +60,13 @@ Resultado: el mapa macro tiene cobertura suficiente para una primera estimación
 
 | Decisión | Qué falta elegir | Por qué altera extensión |
 |---|---|---|
-| Cierre Arquitecto | Tipo de prueba/confrontación, qué decide Mau, qué se consigue/no, coste y retorno/aftermath | Define si necesita un tramo final mediano o uno largo; no fijar resurrección/Ashborn consciente/victoria por omisión |
+| Cierre Arquitecto, dirección ya elegida | Desarrollar estatuas/combate, Black Heart/dos latidos, huida/encuentro Sukuna y aftermath | El resultado macro ya no está abierto; mecanismo, costes y escenas determinan extensión. Proyecto de Ashborn no equivale a resurrección confirmada |
 | Torre como historia | Unidades de ascenso, hitos/favoritos, equipos/rotaciones/solo, descansos y checkpoints | Cien pisos no son cien capítulos; tampoco un montaje sin experiencias |
 |100% y ejecución | Quién llega a recuperar su base y qué evolución —si alguna— veremos; situación medible propia de Mau | No necesita61 números inventados para estimar; sí fichas fiables de quienes ejecuten capacidades importantes |
 | Reglas de gate | Persistencia/owner/reentrada/reloj/reset, Arise y dragón rojo previo, límites sombra; temporalidad de restricciones de roja vs recuperación estable | Evita que una regla resuelva gratis obstáculos o obligue a rehacer secuencias |
 | Cambios personales | Qué conservan/ceden/eligen Fern/Momo/Jinshi; aporte de Yuka tras roja; continuidad elegida de Himmel/Witch Hat y otras personas | Reorganizar tiene escenas y consecuencias, no sólo una reunión. La dirección afectiva de Fern ya se concretó posteriormente; quedan coberturas/ejecución, no volver a pedir su idea desde cero |
 | Mundo/industria | Primeras fases de comercio/transporte/tinta y proyectos que realmente funcionan; coste/ritmo de shop/frío/cultura | No estrenar simultáneamente toda la lista ni borrar avances previos |
-| Llegadas activadas | Cuáles de las candidatas se desarrollan esta temporada | Una llegada con arco propio puede ampliar mucho más que un cameo; la estimación base no las activa todas |
+| Llegadas familiares priorizadas | Taihei, Touka/Ichika, Armin; posible quinto sin elegir. Monedas, consentimiento y puntos de extracción | Son nudos existentes y cuatro nombres, no cinco ingresos consumados; dar vida a su integración sin activar todas las candidaturas antiguas |
 | Mau/S6/información | Hasta dónde avanza su ambición reservada y qué indicios de reclutamiento ve lector/casa al cierre | Sembrar no equivale a desarrollar la guerra, su plan secreto o la revancha completa |
 
 La conversación Sukuna/voto/cruce protector y los términos de la diosa requieren concreción antes de prosa, pero ya tienen una función y escena propuestas: no hay que pedirlas otra vez desde cero. El catálogo exacto, cada descanso y nombres de todos los secundarios no impiden dar un rango provisional ahora.
@@ -119,10 +121,14 @@ Primero desarrollar los cinco frentes pendientes del paquete y entrelazar conviv
 
 ## Scene map and readiness after Tower/Architect
 
-[54 provisional relationship-scene units](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) locate existing/new domestic content and its returns. They are not45 added chapters: some share plot chapters, R20 is the existing day divided for reading, and final numbering follows natural breaks. The prior200–270/~240 forecast remains superseded by the shorter-chapter preference.
+[63 provisional relationship-scene units](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) locate existing/new domestic content and its returns. They are not45 added chapters: some share plot chapters, R20 is the existing day divided for reading, and final numbering follows natural breaks. The prior200–270/~240 forecast remains superseded by the shorter-chapter preference.
 
 The two large creative developments now to close are Tower and Architect. Then integrate their stages/rules/results with selected world/arrival changes, dates, recovery, relationships and reading units already planned. No extra giant arc is required. The outline is ready for creator review when those decisions and their lived consequences are concrete; this does not bypass unresolved costs or turn the new table into a completed season.
 
 ## Later creator addition — couple progression and local Himmel arc
 
 [Full direction](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md). Extend recurring romance and the mini Himmel thread with R46–R57, including the later creator's Trial-wedding trigger and Gojo/Rimuru/Yuta accompaniment. These are scene units, not an additional mandatory chapter quota or a new large arc budget; give their actual emotional development enough space and recalculate at outline assembly. More continuous couple time cannot be replaced by pointing to the anniversary date alone. No wedding event is budgeted as confirmed merely from the joke.
+
+## Alcance actual tras la propuesta de torre/final
+
+[mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Las dos grandes áreas ya tienen desenlace/ingredientes propuestos: falta desarrollar etapas/reglas/costes/escenas y trenzar la temporada, no buscar otro final. Corazón al cierre, guardias posteriores, llegadas familiares y recuperaciones hacia S6 ocupan tiempo real sin duplicar presupuestos. Mantener los cortes de lectura cortos y recalcular palabras/volúmenes al montar el outline; no cerrar otra cifra desde este mensaje ni comprimir el verano para caber en la estimación histórica.

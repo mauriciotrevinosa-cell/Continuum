@@ -52,3 +52,9 @@ El [mapa de escenas](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10
 Queda por elegir: quién hace el comentario inicial; intervalo exacto entre comentario y recuerdo; área/ruta de dungeon y cobertura doméstica compatibles; cuánto quiere contar Mau a Gojo; palabras y conclusión concreta de Frieren/Himmel. No son preguntas ya resueltas por este esquema ni requieren otro arco mayor. Al redactar, dar pausas naturales y tiempo a la compañía, sin comprimirlo en una línea o exigir una extensión fija.
 
 Ver también [dirección de pareja/Himmel](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md), [plan relacional](S5_RELATIONSHIP_CONTINUITY_PLAN_2026-10-16.md) y [temporada integrada](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md). Torre/Arquitecto siguen siendo los desarrollos estructurales mayores pendientes; no se autoriza todavía la producción de toda S5.
+
+## Contenido añadido por el creador en la propuesta posterior
+
+[mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). En el rato acompañado Yuta/Gojo/Rimuru sí le dicen que fue el Trial, que Frieren está viva y aquí tienen a todos; ante algo parecido cuentan con lo vivido y aprendido. Su «no va a pasar aquí» puede ser convicción de apoyo, sin convertir a narrador en garante del futuro ni al Trial en profecía. Gojo no adquiere todos los detalles por oír a sus amigos.
+
+En la conversación privada posterior Frieren puede preguntar si ha pensado en boda. Mau dice que no está opuesto, pero necesitan digerir ese recuerdo que guardó y guardó. Ubicación P: R57 o el posteriorR54, una sola charla elegida cuando puedan hablar. Contar The Last Two no prueba procesamiento completo; no borrar esa apertura o la recuperación ya real. Es futuro deseado con dolor que aún trabaja, no celos, compromiso formal o rechazo a Frieren.

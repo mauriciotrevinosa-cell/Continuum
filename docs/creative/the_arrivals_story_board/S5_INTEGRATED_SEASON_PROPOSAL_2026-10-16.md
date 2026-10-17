@@ -1,6 +1,8 @@
 # S5 — propuesta integrada de temporada v0.3
 
-> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline: tower rules/stages, Architect outcome, progression endpoints and selected world/arrival developments remain open.
+> **Latest creator continuation — 2026-10-16:** [mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Tower minis supply named shadow copies; Red Gate dragon plus Kaisel/Kamish, speaking Beru/Igris and Bellion; rare materials/divine-potion components; broken Jin-Woo contact. Architect ending now chosen: statues/fight -> Black Heart -> two heartbeats -> escape -> Sukuna alliance for S6. No Black Heart DURING tower remains true; full mechanics/chapters are not yet produced. Few family arrivals and partial recovery into S6, not compulsory100% for all by S5 finale.
+
+> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline. The later creator continuation chooses the Architect's fight/Black Heart/escape/Sukuna bridge; tower rules/stages, execution costs, individual endpoints and arrival details still need development.
 
 
 > **Ampliación posterior, 2026-10-16:** [tronco afectivo de Mau y petición completa de un día cotidiano](S5_MAU_CLOSE_BONDS_AND_DAY_IN_THE_LIFE_CREATOR_PLAN_2026-10-16.md); [A Day at Home, borrador independiente](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md). Única excepción solicitada al estado de planificación: este día completo para revisión, sin asignación a volumen, canon o lector. No es verde para redactar el resto de S5. Un capítulo cuenta una vez dentro del verano y no sustituye las promesas/citas diferenciadas.
@@ -22,7 +24,7 @@
 
 > la date de gojo y shoko mau ayudando a su maestro osea de lo hablado saca ramas
 
-La petición permite desarrollar la planificación y revisar relaciones que antes se habían dejado para después. No autoriza escribir S5, cambiar S4, ejecutar nuevas llegadas o decidir el desenlace del Arquitecto.
+La petición inicial permite desarrollar la planificación y revisar relaciones. La continuación posterior del creador ahora sí elige la dirección del desenlace del Arquitecto y cuatro llegadas familiares deseadas; sus escenas/mecánicas están por desarrollar. No autoriza escribir toda S5, cambiar S4 o registrar esas llegadas como hechos ya producidos.
 
 ## Eje propuesto
 
@@ -47,7 +49,7 @@ La convivencia tiene valor y consecuencias, no es relleno entre bosses. No neces
 - [mensajes completos: naciones y ambición privada](S5_S6_NATIONS_RECRUITMENT_AND_MAU_PRIVATE_DRIVE_CREATOR_SEED_2026-10-16.md): drive reservado de Mau en S5 y reclutamiento hacia posible guerra S6.
 - [Ideas flotantes](FLOATING_IDEAS.md): contiene propuestas históricas realizadas/superadas. No ejecutarlas todas por defecto.
 
-La instrucción más reciente rige cada punto: Exchange después de puerta y antes de cena; roja antes de torre;100 pisos durante verano; doble mazmorra final. Ambos dragones están deseados. Casa y muralla existentes se conservan.
+La instrucción más reciente rige cada punto: Exchange después de puerta y antes de cena; roja antes de torre;100 pisos durante verano; doble mazmorra final. La dirección posterior conserva al dragón rojo y añade expresamente Kaisel/Kamish: son tres identidades distintas. Casa y muralla existentes se conservan.
 
 ## Movimientos entrelazados — ubicación propuesta, no cuotas
 
@@ -59,8 +61,8 @@ La instrucción más reciente rige cada punto: Exchange después de puerta y ant
 | D. Cena/preparación | Cena íntima atrasada, vino/regalos; expedición de Frieren como regalo; tres días tentativos hasta reset; reclutamiento | Tiempo Frieren/Fern, ganas y preparativos del equipo. Yuta/Maki eligen día propio; Gojo/Shoko tienen invitación; Rimuru decide quedarse |
 | E. Semana roja | Frieren/Mau/Yuka/Fern/Stark/Milim; semana dentro/hora fuera; campamentos, mini-bosses, flecha/Infinity, dragón colectivo/Red; prueba oculta del Arquitecto | La semana tiene desarrollo real de los seis; liderazgo de Frieren y decisiones de Yuka. Fuera no cabe una semana de búsquedas |
 | F. Regresar con posibilidades | Upgrade moderado: E–S, más catálogo/comida/QoL, save points tentativos; botín/llave, Queen2; visita Sukuna antes de gate de llave | Gag grimoire repetido -> explorar en pareja; Umaru comida/soda y frío cristal; días familiar/fort y cita Gojo/Shoko. Tregua abre estudio; desarrollos por etapas |
-| G. Verano entre ascensos |100 pisos espaciados; recuperación/upgrades y100% antes de evoluciones, Sukuna también; sombras/puntos/Noise; ambición privada de Mau de ser el más fuerte | Cuatro meses de verano ampliables. Equipos/solo abiertos; Mau disfruta de verdad. Roles/comercio/cultura/familia continúan; naciones reclutan para horizonte S6 |
-| H. Convergencia/final | Completar100 antes de doble mazmorra del Arquitecto; semilla/recipiente/Ashborn; Sukuna deja material para S6 | Decisiones/relaciones del verano importan al cierre. No decidir pruebas, resurrección, sacrificio o resultado ahora |
+| G. Verano entre ascensos |100 pisos similares al Demon Castle sin Esil; mini-bosses/copies favoritas, voces y Beru/Frieren; materiales/armadura y componentes de poción al completar; contacto Jin-Woo fragmentario; ambición privada de Mau | Cuatro meses ampliables; equipos/solo/regreso por definir. Familia/roles/comercio/cultura continúan y llegan pocos vínculos ya sembrados. No todos recuperan100% en S5; nuevas evoluciones conservan su requisito personal |
+| H. Convergencia/final | Tras100: estatuas y pelea; Mau pone al Arquitecto contra las cuerdas, éste se alegra/le da Black Heart; dos latidos; escapa y Sukuna ofrece ayudar a devolver a su monarca quitándole todo a Mau | Resultado macro elegido, coreografía/coste/mecanismo/huida por desarrollar. Aftermath y sombras para guardias; unión de accesos requiere shikigami dominados. Convicción del villano no confirma resurrección; S6 sólo sembrada |
 
 Estos movimientos no son capítulos/volúmenes asignados. Un hilo puede comenzar antes y terminar después; el verano no espera al final de todas las gates.
 
@@ -126,7 +128,7 @@ Son P para elegir/desarrollar, no escenas aprobadas. Lo que añadimos debe produ
 | Llave owner Mau con acompañantes, gate próxima y margen de descanso | F–G | C; acceso/destino fino abierto |
 | Relocalización única/shop oculto/casa | Mundo | C; identificar instalación |
 |100 pisos verano, Arise, recursos finitos, niveles/misiones | G | C; curva por fijar |
-| Beru/Igris, Tank/Fang candidatos, dos dragones, copias/evolución | G; poderes | C; orden/costes/conciencia abiertos |
+| Beru/Igris/Bellion confirmado, Kaisel/Kamish más dragón rojo, Tank/Fang candidatos, copias/evolución | G; poderes | C; habla/personalidad pedidas; orden/costes/memoria y potencia inicial abiertos |
 | Amenaza corazón -> rueda -> oferta puntos | G; poderes | C escena; mecanismo abierto |
 | Umaru build, guardar puntos, nuevas categorías/CE/mana | G; relaciones/poderes | C gradual |
 | Cada personaje: %, bag, bloqueos, preparación y entrenamiento | Poderes | Trabajo necesario, aún no completado |
@@ -140,7 +142,7 @@ Son P para elegir/desarrollar, no escenas aprobadas. Lo que añadimos debe produ
 | Monedas/llegadas: hermano Richeh, comerciantes/Subaru/Betty, Touka/Ichika y otros | Cola de decisiones | No ejecutar automáticamente |
 | Tabaco Shoko/Anko, agravio cómico de Anko | FLOATING_IDEAS | Cultivo/ubicación abiertos |
 | Walker, elección recíproca Frieren, duelo adaptación y otros conceptos largos | Reserva enlazada | No olvidados; no meter por obligación ni repetir conflicto resuelto |
-| Arquitecto/Ashborn/doble final tras100 | H | C motivo/posición; resultado abierto |
+| Arquitecto/Ashborn/doble final tras100 | H | C: estatuas/combate, entusiasmo/Black Heart/dos latidos, huida y aliado Sukuna; escena/mecanismos/costes abiertos, no resurrección confirmada |
 | Sukuna hacia S6 | Sukuna | Horizonte, no prosa S6 |
 
 ## Controles de cobertura recuperados en v0.2
@@ -197,7 +199,7 @@ Corrección de lectura editorial: el posible agujero negro de Frieren contra Suk
 
 Cada movimiento puede abrirse en más unidades de lectura, con predominio de capítulos cortos y largos sólo donde convenga. Preservar aventura, convivencia, recuperación y transiciones; sin cuota ni cliffhanger obligatorio. Más escenas útiles pueden ampliar volúmenes; más cortes por sí solos no cambian cantidad de historia. El anterior/~240 es histórico del formato largo, no una cifra a defender.
 
-Antes del outline final aún elegir etapas/reglas de torre y sombras, desenlace Arquitecto, endpoints de recuperación/evolución, fases vividas de mundo/casa y semillas/llegadas activadas. No son arcos nuevos por agregar. La [lectura dividida del día independiente](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md) es la única aplicación de prosa ya solicitada, no verde para el resto de S5.
+Antes del outline final desarrollar etapas/reglas de torre y sombras, el desenlace del Arquitecto ya elegido y sus mecanismos/costes, endpoints individuales hacia S6, fases vividas de mundo/casa y las llegadas familiares priorizadas. No son arcos nuevos por agregar. La [lectura dividida del día independiente](S5_MAU_DAY_SHORT_READING_SEQUENCE_2026-10-16.md) es la única aplicación de prosa ya solicitada, no verde para el resto de S5.
 
 ## Propuesta editorial posterior con nombres — pendiente de opinión del creador
 
@@ -226,3 +228,9 @@ La mención de boda en una comida provoca Mau atragantado/Frieren sonrojada y de
 ## Boda del Trial como trigger y apoyo elegido — continuación del creador
 
 [Mensaje completo y continuidad comprobada](S5_MAU_TRIAL_WEDDING_TRIGGER_AND_COMPANIONS_CREATOR_SEED_2026-10-16.md). La mención de boda puede despertar el recuerdo del Trial y un ataque de pánico, sin borrar lo sanado o convertirlo en miedo a Frieren. Mau le pide que hable con Himmel; ella sabe cómo está y Gojo/Rimuru/Yuta lo acompañan a un rato en dungeon con su aceptación. R50/R51 se precisan y R55–R57 registran decisión, compañía en paralelo y regreso. Darle espacio a cada conversación, no otro arco mayor. Área conocida con retorno posible y cobertura acordada antes de salir ambos Mau/Rimuru; ninguna regla de gate nueva se presupone. La boda fue contada a los oyentes originales en The Last Two; All the Years no da a Gojo todos sus detalles. No vigilancia secreta, curación por combate ni poder por pánico. S4 sigue intacta; producción de temporada no iniciada.
+
+## Torre, familias y final elegido — continuación completa del creador
+
+[mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). El nuevo paquete conserva literalmente la petición y la confirmación de Bellion. Sombras con voces/rasgos propios, desafío Beru/Frieren y mejoras tienen vida entre ascensos; Jin-Woo apenas logra frases separadas por días. Completar100 da componentes de poción, no una economía de curación. El Arquitecto ya tiene dirección de cierre y continuidad antagónica: su entusiasmo/Black Heart/huida enlazan con la oferta de Sukuna y futura búsqueda de monarcas, sin ejecutar la guerra S6.
+
+Taihei, Touka/Ichika y Armin continúan nudos existentes; son cuatro nombres y quizá unas cinco llegadas, quinto sin elegir. Monedas/consentimiento/puntos de extracción por fijar; Kaneki tiene una y necesita dos. Eren/Mikasa disfrutan mañanas/relaciones con menos obligación de llevar el conflicto. No se retconea su S4. Tras el Arquitecto, sombras pueden relevar noches con costes y cobertura definidos. Tres accesos aún separados y el dominio progresivo de shikigami —Ear excepcional, no retameado— preparan futura unión/Mahoraga. Recuperaciones parciales pueden seguir a S6 sin hacer de100% de base un potencial eterno. La vida de los demás, fechas/días/Queen2 y proyectos ya elegidos permanecen entrelazados; no se sustituyen por nuevas escenas de boss.

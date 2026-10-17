@@ -10,7 +10,7 @@
 
 Antes de esta pasada existían perfiles, diagnósticos enfocados, movimientos A–H y escenas deseadas. **No había un mapa capítulo por capítulo de toda S5.** El día independiente de Mau sí tiene prosa en cuatro lecturas; esa excepción no asegura por sí sola la continuidad del verano.
 
-Este documento añade ubicación concreta de unidades de escena/capítulo y retornos a mitad/final. Los identificadores **R01–R57** sirven para seguir las propuestas cuando se integren al outline; **no son S5E01 ni números de capítulo/volumen**. Una unidad puede compartir capítulo con trama, dividirse en varios cortes naturales o ajustarse si cambia el arco. No sumar45 capítulos obligatorios al presupuesto ni presentar estas filas como episodios producidos.
+Este documento añade ubicación concreta de unidades de escena/capítulo y retornos a mitad/final. Los identificadores **R01–R63** sirven para seguir las propuestas cuando se integren al outline; **no son S5E01 ni números de capítulo/volumen**. Una unidad puede compartir capítulo con trama, dividirse en varios cortes naturales o ajustarse si cambia el arco. No sumar45 capítulos obligatorios al presupuesto ni presentar estas filas como episodios producidos.
 
 Las cuatro temporadas aportan historia y maneras de convivir. Se usan los locks, el ledger y lecturas concretas ya documentadas; esto no es una afirmación de haber releído y auditado cualitativamente los743 capítulos, ni de que todos los pares del reparto tengan una intimidad ya probada. Cada desarrollo nuevo se contrasta con sus escenas fuente antes de redactarse.
 
@@ -97,7 +97,7 @@ Todas las acciones nuevas de las tablas son **P**, derivadas de direcciones C; n
 | R42 | G tardío | Té con las siete brujas y Mau, con la composición permitida ese día. Intereses propios —biblioteca/Coco, música/Bocchi, campos, ocio— traen noticias/elecciones | Siete voces, no siete encargos para Mau ni contratos anulados; mantener también amistades externas |
 | R43 | G tardío | Shoko y Mau conversan sobre algo que ella eligió hacer, además del check-up; Gojo puede entrar sin apropiarse de la charla. El tabaco vuelve sólo si realmente ha progresado | Cuidado recíproco y vida de Shoko, no premio por sanarlo ni humo ya producido sin desarrollo |
 | R44 | G tardío / tránsito a H | Una actividad elegida de Anko/Nazuna y parte de la casa muestra disfrute, desacuerdo o humor fuera de guardia. Mau puede participar o llegar después | Mantener amistad, horarios y vidas propias; no repetir el mismo café/recorrido/confesión |
-| R45 | H, antes/después según desenlace aún abierto | Las relaciones afectan decisiones y la vida de quienes quedan en casa; el aftermath recoge los compromisos posibles de lo vivido. Precisar al decidir Arquitecto | No garantizar retorno/reunión feliz o un final concreto todavía; tampoco sesenta reacciones idénticas esperando a Mau |
+| R45 | H, final/aftermath de la dirección nueva | Estatuas/Arquitecto, Black Heart/dos latidos y escape tienen consecuencias en Mau/Frieren/casa. Quienes quedan mantienen decisiones; la escena Sukuna/Arquitecto no se conoce por omnisciencia | Resultado macro elegido, puesta en escena/costes aún abiertos. No sesenta reacciones iguales, diagnóstico instantáneo o cura total |
 
 ## Ampliación posterior — avance continuo de pareja y mini arco de Himmel
 
@@ -115,10 +115,23 @@ Todas las acciones nuevas de las tablas son **P**, derivadas de direcciones C; n
 | R53 | G medio/tardío | Vuelve a una actividad/intercambio cotidiano con Mau u otros, desde su propia elección | El humor/respeto ganado sigue real; no otra bendición o curación emocional instantánea |
 | R54 | G tardío, con la pareja también presente durante R51–R53 | Otra salida/rato Mau/Frieren; posible retorno privado a lo que les hizo sentir el comentario y a un plan futuro | Avance concreto sin respuesta matrimonial definitiva; no pausar su alegría para proteger a Himmel |
 | R55 | Tras R50, antes de cruzar | Mau elige un cambio de entorno y acepta que Gojo/Rimuru/Yuta vayan con él; Frieren puede mirarlos para que se acerquen. Aviso, cobertura y ruta se acuerdan | Nada de seguimiento secreto o nueva desaparición; ambos Mau/Rimuru salen mediante acuerdo previo, no derogación de la regla |
-| R56 | G medio, paralela a R51 | Rato con los tres en una zona de dungeon conocida y con regreso posible: compañía, silencio o actividad sencilla elegida | No semana roja/entrada bloqueada, piso desconocido, checkpoint inventado o combate que cure el pánico; Gojo sabe sólo lo contado |
-| R57 | Regreso de R56 | Vuelven de forma visible; Mau/Frieren tienen un intercambio sencillo y él decide qué compartir | Ha mejorado y conserva triggers; no curación absoluta, nuevo poder o crisis romántica obligatoria |
+| R56 | G medio, paralela a R51 | Gojo/Rimuru/Yuta recuerdan a Mau que fue el Trial, Frieren vive y aquí cuentan con todos y con lo aprendido; compañía en dungeon conocido/con regreso | Su certeza es apoyo de amigos, no garantía narrativa o profecía del Trial. Gojo sabe sólo lo contado; no combate curativo o checkpoint inventado |
+| R57 | Regreso de R56 o primer intervalo privado adecuado | Mau/Frieren conversan; ella puede preguntar si pensó en boda y él decir que no se opone, que aún necesitan digerir ese recuerdo guardado | Elegir esta colocación o el retorno R54 sin repetir la charla dos veces. Haberlo contado no significa haberlo procesado por completo; no propuesta formal |
 
 Himmel mantiene su lugar de secundario recurrente con foco propio y relaciones además de Frieren. El microarco se entrelaza con el verano; no obliga a rehacer Torre/Arquitecto ni a retirar tiempo del resto de la familia. La pareja continúa también en R10/R14/R20/R37/R40 y con los demás, sin aislarse para probar intimidad.
+
+## Torre/familias/sombras — continuación del creador, R58–R63
+
+[mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Acciones/participantes pedidos conservados; ubicaciones, escenas y reparto de cortes son P. No nuevas llegadas registradas como hechos, cinco capítulos de cuota o sustitución de los retornos anteriores.
+
+| Unidad | Ubicación propuesta | Interacción / elección | Continuidad |
+|---|---|---|---|
+| R58 | G, al conseguir sombras y entre ascensos | Beru/Igris y otras copias hablan y responden desde sus voces propias; Mau/casa descubren cómo convivir, además de usarlas en combate | Recordar lo que cada cual sabe; no recuerdos originales automáticos ni tropas mudas después de su presentación |
+| R59 | G, tras Beru y una restauración viable | Desafío por lugar de Frieren -> tiro concedido/Zoltraak -> Mau lo rehace -> disculpa a reina -> miradas de Igris/resto -> ella manda/justo | Lugar/impacto/coste definidos; gag no mide máximos fuente ni retira autoridad de Fern |
+| R60 | G, llegada Taihei por organizar | Umaru presenta su vida y vínculos; Taihei feliz por ella se suma a una comida/cocina y conoce a Mau como otro hermano | No reemplazo de hermano/chef ni vuelta de Umaru a cero; vida después de llegada |
+| R61 | G, tras dos monedas y decisiones válidas | Touka/Ichika llegan juntas conforme a la elección de Kaneki; tiempo familiar real y vínculos con casa, no sólo reacción de Mau | No inventar segunda moneda o extracción ya lograda; familia permite que Kaneki elija más hogar |
+| R62 | G, llegada Armin si condiciones cerradas | Eren/Mikasa/Armin comparten un mañana y una actividad ordinaria, con algo propio de él | Menos obligación de llevar amenaza, sin desaparecer o borrar afecto; punto fuente/moneda por elegir |
+| R63 | H después del Arquitecto / puente inmediato siguiente | Mau prueba sombras para night shifts; quienes relevan eligen disfrutar tiempo y criticar/ajustar la cobertura. Beru/Igris conservan voz | Condiciones/rango/reserva/corazón definidos. Protección divina intacta; no guardia planetaria infinita o familia subordinada |
 
 ## Comprobación de los vínculos cercanos, con retornos localizables
 

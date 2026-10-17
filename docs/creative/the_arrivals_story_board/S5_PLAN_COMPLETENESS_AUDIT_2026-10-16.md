@@ -1,6 +1,8 @@
 # S5 — auditoría de cobertura del plan integrado
 
-> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline: tower rules/stages, Architect outcome, progression endpoints and selected world/arrival developments remain open.
+> **Latest creator continuation — 2026-10-16:** [mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Tower minis supply named shadow copies; Red Gate dragon plus Kaisel/Kamish, speaking Beru/Igris and Bellion; rare materials/divine-potion components; broken Jin-Woo contact. Architect ending now chosen: statues/fight -> Black Heart -> two heartbeats -> escape -> Sukuna alliance for S6. No Black Heart DURING tower remains true; full mechanics/chapters are not yet produced. Few family arrivals and partial recovery into S6, not compulsory100% for all by S5 finale.
+
+> **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline. The later creator continuation chooses the Architect's fight/Black Heart/escape/Sukuna bridge; tower rules/stages, execution costs, individual endpoints and arrival details still need development.
 
 
 **Fecha:** 2026-10-16. **Base revisada:** propuesta integrada v0.1 publicada en42eb92c y paquetes originales vigentes. **Resultado:** buen mapa macro; no temporada/arcos terminados ni autorización de prosa.
@@ -51,7 +53,7 @@ Sí había detalles demasiado implícitos en el integrado. La revisión los hace
 | Casa/cristales/ciencia/cultura | Ideas completas y fuentes enlazadas | Etapas materiales y humanas; no demoler casa ni inventar primera luz glyph |
 | Monedas/llegadas | Candidaturas y condiciones conservadas | Inventario verificado/versión/motivo antes de seleccionar.437 monedas no es un saldo disponible confirmado |
 | Sukuna -> evoluciones/preparación -> S6 | Propuesta posterior completa: noche antes de100 pisos, voto, intervención, coste/techo, ciencia; futuro préstamo y vigilancia | Kit, canal invitación, términos/protección, escena y estudios; actividad propia/aliados/consecuencias. No recuperación confirmada ni veto absoluto de otra vía |
-| Arquitecto/doble final | Motivo/falsa lectura de recipiente/posición final | Pruebas, participantes, decisiones y desenlace. No resurrección decidida |
+| Arquitecto/doble final | Ya elegido: estatuas/pelea -> entusiasmo del Arquitecto -> Black Heart/dos latidos -> huida -> Sukuna aliado | Coreografía, coste, corazón/huida e información. No resurrección de Ashborn confirmada |
 | Otras semillas largas | Referenciadas, no descartadas | Elegir ubicación sólo si aportan; no activar todas para llenar S5 |
 
 ## Ocho puentes de100 pisos antes del outline detallado
@@ -61,7 +63,7 @@ Sí había detalles demasiado implícitos en el integrado. La revisión los hace
 3. Arise temprano frente al dragón rojo muerto antes; elegir solución sin cadáver almacenado/respawn inventados por omisión.
 4. Diez/cien: almacenadas, simultáneas o ambas; extracción, mantenimiento, recuperación y coste.
 5. Niveles/puntos/quests versus sincronización/brazaletes, mundo/gates/retorno y ficha privada por persona.
-6. Copias: conciencia/memoria/potencia inicial y evolución por nivel frente a análisis. Beru/Igris ya elegidos; Tank/Fang candidatos; dos dragones deseados.
+6. Copias: voces/personalidades ahora pedidas; memoria/potencia inicial y evolución por nivel frente a análisis aún por fijar. Beru/Igris y Bellion confirmado; Kaisel/Kamish además del dragón rojo; Tank/Fang candidatos.
 7. Qué detecta/controla Arquitecto en la prueba roja y qué saben los personajes antes del final.
 8. Amenaza corazón/rueda/oferta de puntos, integración CE/mana y primera decisión de gasto: preservar intención sin programador omnipotente ni bucles gratuitos.
 
@@ -105,7 +107,7 @@ La [última revisión de alcance y estimación](S5_FINAL_SCOPE_REVIEW_AND_LENGTH
 
 ## Relationship scene placement now advanced — exact scope
 
-[New map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) now tracks57 provisional scene/chapter units, early/middle/late returns,25 close-bond rows and independent ensemble lanes. This is more concrete than the prior profile/A–H-slot stage but not a final numbered chapter outline. Do not claim all relational scenes have been produced or the entire743-chapter corpus qualitatively re-audited. Some flexible returns still need a specific choice at outline assembly.
+[New map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) now tracks63 provisional scene/chapter units, early/middle/late returns,25 close-bond rows and independent ensemble lanes. This is more concrete than the prior profile/A–H-slot stage but not a final numbered chapter outline. Do not claim all relational scenes have been produced or the entire743-chapter corpus qualitatively re-audited. Some flexible returns still need a specific choice at outline assembly.
 
 Tower and Architect are the two remaining large structural developments. Remaining system choices, selected world/arrival outcomes and final relationship/calendar/reading-break checks are integration work on current material, not a requirement to invent another major arc. Tobacco preference now has opening and post-recovery alternatives; both obey actual growth/material limits and preserve S4's door continuity.
 
@@ -116,3 +118,9 @@ Tower and Architect are the two remaining large structural developments. Remaini
 ## Continuación — trigger de la boda y conversaciones paralelas
 
 La [nueva dirección íntegra](S5_MAU_TRIAL_WEDDING_TRIGGER_AND_COMPANIONS_CREATOR_SEED_2026-10-16.md) añade pánico de Mau por el Trial, no una nueva crisis de pareja: pide a Frieren que hable con Himmel y acepta ir acompañado por Gojo/Rimuru/Yuta. R55–R57 se añaden sin renumerar; R50/R51 ya recogen esta precisión. Auditoría de conocimiento: The Last Two sí cuenta la boda a sus oyentes; All the Years no cuenta a las nuevas llegadas cada escenario. No asumir conocimiento íntegro de Gojo. Al cerrar outline concretar acceso/regreso y cobertura acordada por la salida conjunta Mau/Rimuru, sin usar la roja bloqueada o poderes de viaje no establecidos. Son condiciones de esta escena, no otra macrotrama pendiente.
+
+## Nueva cobertura — torre/Arquitecto ya tienen más dirección
+
+[mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Comprobado contra semillas de Taihei, Touka/Ichika y Armin, Ear ya domesticado, monedas y condiciones de recuperación. Black Heart no contradice su ausencia durante100: se coloca después. El desenlace deja de estar sin elegir; faltan su construcción y consecuencias. El dragón ya poseído exige ajustar explícitamente el puente Arise anterior, no borrarlo. Tres dragones/wyverns, voces/rango de copias y costo de restaurar a Beru se registran por separado.
+
+Contacto Jin-Woo roto, futura extracción aún inactiva, poción sólo por componentes, recuperación parcial hacia S6 y pocos nuevos familiares evitan convertir el plan en una entrega simultánea de máximos. R58–R63 sitúan sombras/familias/relevo junto a R01–R57 existentes. Quinto nombre/monedas, poder del corazón, elegibilidad, condiciones de ritual y huida quedan pendientes acotados; no otro pedido de que el creador invente el final desde cero. No producción de S5, relectura total o canon fuente completo verificado.

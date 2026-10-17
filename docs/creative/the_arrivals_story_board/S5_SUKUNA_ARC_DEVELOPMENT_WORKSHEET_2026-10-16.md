@@ -1,6 +1,6 @@
 # S5 — Sukuna: inventario y ficha de desarrollo pendiente
 
-**Fecha:** 2026-10-16. **Estado:** preparación editorial y propuesta de encuentro del creador. Ahora existe contenido para la charla: ver el paquete completo; no escena redactada, alianza identificada, kit final o desenlace concedidos. [Auditoría S5](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md).
+**Fecha:** 2026-10-16. **Estado:** preparación editorial y propuesta de encuentro del creador. Ahora existe contenido para la charla: ver el paquete completo; no escena redactada ni kit final concedido. La continuación posterior sí elige la futura alianza con el Arquitecto tras su huida; desarrollo y otros reclutas pendientes. [Auditoría S5](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md).
 
 ## Qué sí está definido
 
@@ -80,3 +80,9 @@ Ya hay contenido y estructura propuestos para la conversación. Falta precisar s
 ## Recuperación y carrera gradual — nueva precisión
 
 Sukuna debe recuperar su100% personal antes de ejecutar nuevas evoluciones, igual que los demás; no se afirma que ya lo tenga. No confundir100% con piso100 o nivel100. Mundo y rivales avanzan, de modo que dungeon/recuperación/upgrades tienen propósito de preparación sin cuenta atrás artificial. La ruta WCS sacrificada no vuelve sola al100%; otra vía sigue por investigar conforme a esos requisitos. Ver [aclaración completa del creador](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md).
+
+## Puente final confirmado por el creador — Arquitecto/Sukuna
+
+[mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Después de estatuas/pelea, entrega de Black Heart a Mau y huida, Sukuna encuentra al Arquitecto, oye que quiere devolver a su monarca y ofrece ayudar quitándole todo a Mau. Esto elige un aliado futuro concreto y una dirección de reclutamiento de monarcas para S6, sin nombrarlos/convocarlos todos ni fijar la guerra. Medio del encuentro/información y coste siguen por construir.
+
+El plan del Arquitecto no confirma que Ashborn regrese del Eternal Rest. Sukuna sigue sus propios intereses; no empleado ni devoto, tampoco autor de propaganda/encapuchado identificado por ello. Su ruta WCS sacrificada permanece con su coste y la posibilidad de otra vía por desarrollar. La casa no oye esta escena ni sabe por defecto la función del corazón o los reclutas. La previa conversación nocturna Mau/Sukuna y sus cláusulas no se sustituyen por esta segunda escena.

@@ -346,7 +346,7 @@ Tobacco status checked: no V26 crop; DH-095/FLOATING_IDEAS remain future/unplace
 
 ## S5 future scene tracking — not new last-canon beats
 
-[Provisional relationship scene map and tobacco placement](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) records R01–R57 placements/returns and25 close-bond checks. Use it alongside the existing source/relationship locks; update with real produced chapter IDs only after drafting. R IDs are not season episode numbers, existing reading IDs or facts that already happened. S4 last-beat entries remain untouched. Tobacco can start around the S5 opening before the Goddess acts, with an explicitly authorised post-return/recovery fallback; its showing/hearing moment grants no automatic public knowledge or instant crop.
+[Provisional relationship scene map and tobacco placement](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md) records R01–R63 placements/returns and25 close-bond checks. Use it alongside the existing source/relationship locks; update with real produced chapter IDs only after drafting. R IDs are not season episode numbers, existing reading IDs or facts that already happened. S4 last-beat entries remain untouched. Tobacco can start around the S5 opening before the Goddess acts, with an explicitly authorised post-return/recovery fallback; its showing/hearing moment grants no automatic public knowledge or instant crop.
 
 ## S5 romance direction — future progression and Himmel mini arc
 
@@ -355,3 +355,9 @@ Tobacco status checked: no V26 crop; DH-095/FLOATING_IDEAS remain future/unplace
 ## S5 wedding trigger and chosen company — planning only
 
 [Full creator continuation](S5_MAU_TRIAL_WEDDING_TRIGGER_AND_COMPANIONS_CREATOR_SEED_2026-10-16.md): Mau recalls the Trial wedding and has a panic attack despite real recovery; he asks Frieren to speak with Himmel and accepts a dungeon outing with Gojo/Rimuru/Yuta. R50/R51 updated; R55–R57 track choice/company/return. Frieren remains informed; no secret surveillance, rivalry, automatic cure or new form. Choose a known accessible area/return and arrange household coverage before Mau/Rimuru both leave. This is future planning, not a new S4 last beat or completed S5 scene.
+
+## S5 tower/finale and family arrivals — future direction, not current residents
+
+[mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Prioritise Taihei, Touka/Ichika and Armin: four names, perhaps five arrivals with no fifth chosen. Taihei's room/two-brothers bond and Kaneki's one coin/two people remain actual seeds; second coin, consent and extraction moments are not yet produced. Eren/Mikasa may enjoy mornings with less plot burden; no S4 retcon or loss of relationships.
+
+Tower copies now include speaking Beru/Igris/Kamish and confirmed Bellion, Kaisel/Kamish distinct from Red Gate dragon. Architect's future fight/Black Heart/two heartbeats/escape/Sukuna plan are selected direction, not new current kit/canon last beats. Post-Architect shadow night shifts and three-access integration need resources and tamed shikigami; Ear already tamed remains distinct from Yuka's White Divine Dog. Broad extraction remains unactivated, no S5 Rulers/Monarchs fight; personal recovery may continue to S6. Scene map R01–R63 stays provisional.

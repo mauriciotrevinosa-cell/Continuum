@@ -30,3 +30,10 @@ S5 volumes are about a fifth the length of S4's. A full S5 chapter is about the 
 
 ## Suggested process
 For each volume, merge chapter pairs or triples into S4-length chapters, add the missing lived connective tissue, keep every existing beat and guardrail, and drop guardrail narration from the prose. Renumber the headers afterwards. Do not add plot.
+
+## Correction after the creator's reminder (same day)
+The creator had asked for **shorter S5 chapters on purpose: two S5 chapters ≈ one S4 chapter**, so there are more pauses. Splitting into "pt1 / pt2" is welcome. So the target is **about 1,300–1,600 words per S5 chapter**, not S4 length.
+
+- **V27** (~870 average) is closer to the target than the table above suggests. After rereading: #11–#15 and #19 were expanded, and #11, #12, #13 and #19 were split into Part 1 / Part 2 files. #16–#18 and #20–#29 read well at their current length and were left alone.
+- **V29 and V30** (~600 average, many under 550) remain the clearest compression. The hot spots listed above still apply there.
+- **Split convention:** keep the volume chapter number and add "(Part 1)"/"(Part 2)" to the title. Filenames need digit-only indices (`CHAPTER_02B` breaks the library), so renumber within the episode and use the `_PART_2` slug. Update the volume index.

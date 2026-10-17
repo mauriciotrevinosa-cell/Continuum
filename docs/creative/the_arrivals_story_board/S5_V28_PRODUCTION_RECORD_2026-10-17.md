@@ -26,3 +26,7 @@ Day277bedtime, eastroom.Maucompassbesidebed→innerpockettomorrow; Flistinbook; 
 Continue Day278–280preparation/recruitment: F/Mau/Yuka/Fern/Stark/Milim proposed roja team, actualoffers/choicesstilltohappen. Yuta/Makiownfree day, Gojo/ShokodateinvitationandMauhelp stillpending. Week26opens280; normalidentificationbeforeunexpectedred. Insideweek/outsidehour belongsrojaONLY. FirstArise atred-dragonend,Cielwords/focuslikeEar; noAriseinV28. Remaining R15fort,R20wholeMau-day, Queen2 and broaderrolesnotpaidbycena/familyday.
 
 V29fullweekneedsactualcamp/routines/minibosses/relationships/leadership, notjustdragon. Reddragon distinctfromfutureKaisel/Kamish. ArrowInfinityguardianshortapprovedaccess, nofreearsenal. 100bracelets/key/crystals/relocationreward andfutureSukuna talk require their own scenes; neverimportTower/ArchitectBlackHeartearly.
+
+## Verified reader delivery
+
+V28 published from `5d0dc8184cb27c68830187de394ad5bdc77d1606`: **28 volumes /797 chapters**. All25 new bodies and volume index match committed text;799 prior source blobs preserved.151 publication assertions passed (structural/integration checks, not literary approval). API8001 Git resync fetched the exact pushed SHA; reader links and V27→V28 navigation verified. No browser navigation, JavaScript or localStorage changes: reader bookmark untouched.

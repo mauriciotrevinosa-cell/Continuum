@@ -16,3 +16,7 @@
 ## Scope of review
 
 Structuralchecksareevidenceofheaders/order/IDs/sourcepreservation/publication, notproofaliteraryworkiserror-free. Creatorread-throughremainsrequired. Noapplicationunit-testsclaimedforprose. Readerverificationpendingatthissave; actualreceiptwillfollowonlyafterconfirmedGitpush/resync/bodycomparison.
+
+## Verified reader delivery
+
+V28 published from `5d0dc8184cb27c68830187de394ad5bdc77d1606`: **28 volumes /797 chapters**. All25 new bodies and volume index match committed text;799 prior source blobs preserved.151 publication assertions passed (structural/integration checks, not literary approval). API8001 Git resync fetched the exact pushed SHA; reader links and V27→V28 navigation verified. No browser navigation, JavaScript or localStorage changes: reader bookmark untouched.

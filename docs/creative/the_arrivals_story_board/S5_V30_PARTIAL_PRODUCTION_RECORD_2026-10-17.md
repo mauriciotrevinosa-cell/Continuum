@@ -1,6 +1,6 @@
 # S5 / V30 — partial production checkpoint
 
-**Date:**2026-10-17. **Status:** PARTIAL PRODUCTION DRAFT; not a completed volume or creator approval. **Working title:** Room at the Table. **Actual files:**10 chapters / S5E18–19 / 4,771 prose words.
+**Date:**2026-10-17. **Status:** PARTIAL PRODUCTION DRAFT; not a completed volume or creator approval. **Working title:** Room at the Table. **Actual files:**25 chapters / S5E18–22 / 13113 prose words.
 
 The creator requested continuous work and partial pushes, so this opening was written after completing and publishing V28/V29. It is deliberately preserved before the remaining V30 arcs, rather than lost or presented as a finished volume.
 
@@ -11,7 +11,7 @@ The creator requested continuous work and partial pushes, so this opening was wr
 - #6, Day283: small reciprocal outing inside boundary, stone-skipping without a mission; Frieren prepares food and follows his ordinary interest. No first date, regained source memory or new power. This is R47, not the entire coral Mau-day R20.
 - #7–10, Day284: fort day from check/breakfast through observation game, midday/afternoon music and supper/evening/bedtime. Organized by the fort, Mau participates rather than commands or works all day. Frieren attends as herself, no crown jurisdiction. Coco/Suika lead a game using ordinary pencils, no ink access around Mau; Bocchi/Kita/band agency and music discussion continue. Fern belongs without accepting a little-sister title. Vamola has real ordinary participation. Nazuna joins only after evening waking, respecting her daytime sleep. The owed R15 fort day is now fulfilled; do not promise it again as unspent.
 
-**Last scene:** Day284 bedtime. Ori/Mau/Frieren return, Ori's family map remains on her connecting door, fort papers stay with fort; Mau crosses into his own east room and lies beside Frieren. Room/loft/shelf/5flowers unchanged. Next actual prose begins **V30#11, S5E20 chapter01, Day285** or another explicitly chosen nearby scene; do not renumber or recreate the ten saved chapters.
+**Earlier checkpoint scene:** Day284 bedtime. Ori/Mau/Frieren return, Ori's family map remains on her connecting door, fort papers stay with fort; Mau crosses into his own east room and lies beside Frieren. Room/loft/shelf/5flowers unchanged. That entry was continued. Current next chapter is #26 / S5E23 chapter01, Day287 morning.
 
 ## Unchanged powers and rewards
 
@@ -32,3 +32,13 @@ The reader automatically follows the Git branch when it is read, even without an
 **Current reader:**30 volumes /837 chapters. V28 andV29 are complete drafts; V30 contains only its first10 chapters and is explicitly marked PARTIAL in the index.36 delivery assertions passed at `114b3d65532c8a18c72ba4faeca8b95e977f3bab`: all10 bodies plus index exactly match Git,856 prior source blobs remain unchanged, and V29→V30/navigation/IDs are correct. No browser, JavaScript or localStorage operation occurred; bookmark untouched.
 
 Future checkpoints in this branch can become visible automatically. Preserve partial labels and never report a partial volume as complete. Do not change app architecture or project source merely to hide the checkpoint. Continue at chapter11; the rest ofV30 still needs writing.
+
+## Continued production — chapters11–25 (current checkpoint)
+
+Day285: selected bracelet reading, Umaru's actual provisional build page, ArrivalHouse daily reception ends (empty, keys/book kept), Jinshi chooses daily entries underFern withNano's bounded arithmetic check andAnko's existing loot register. Fern/Frieren have the full affection/authority conversation, tea offered, two-Zoltraak Gojo gag after the quiet. Rem directs supper withRam/Mau/Frieren/Fern helping; Momo genuinely goes out. No full duty structure cured overnight.
+
+Day286: site chosen30paces inside the unmoved boundary stake, clear of roots/exits and interface range; normal opening+linkedshop relocated once, no duplicate/reset. New window's anchor tested from boundary. Modest catalogue applied, E–S equipment not person recovery, healing still rare. F buys one candle grimoire duplicate ofV28; asksMau to negotiate, disappointment and exploration plan follow. First cola/proteinbar proposals accepted as paid stock; specific cooling insert consumes a crystal charge, not electricity grid. Coco's mother has shared cleaning and independent craft opinion; Nazuna helps after waking and enjoys company withAnko.
+
+Night286: Mau toldF/Rimuru he would checkkey/site briefly. Sukuna approaches outsideboundary; Noise alerts before alarm. Bilateralvow only theirconduct, nofamily signers; untilsunrise, noattack/indirectinjury/marks/agentsleftbehind, limitedopen-groundmeeting, safeexit/nopursuit, realnonlethalattempt to stop observed attacks, no guarantee of control over nonsigners. He crosses the protective line in boundednonhostileinterval; no assertion vow overrides Goddess/titansbarrier. Sukuna admits underestimatedthem, lost the reconstructingWCSroute to survive, glimpse oflargerhorizon during interruptedS2link; claimsdenyingpropaganda/unnamedfriends notnarratorproof. F's oldtrauma answershis handmovement, Mau intercepts dyingedge andblocksGojo's pursuit by request/position; Sukuna departs, noclimacticfamilybattle. Household reviewsactualterms, fairalarmprocedure, fear andresponsibility. No repairedromance reset, WCSreturned, identifiedallies ornewfusion. SourceJJKprimary audit saved separatelyinworkspace, no sourceimagescopied into story.
+
+**Current stop:** Day286bedtime, Mau/Frieren close in eastroom. Next #26 / S5E23 chapter01 onDay287: techniques/source-correct discussion, hypotheses and measurement, actualroletrial/tea follow-through, key opening without premature100floorknowledge, firstparty/return/cost decisions. V30 stillnotcomplete. Key firstavailableDay287 after7exteriordays; noforcedentrythatinstant.

@@ -1,5 +1,10 @@
 # S5 — current production handoff
 
+## Current continuation checkpoint —25 V30 chapters
+
+Latest actual stop: Day286 bedtime, V30#25. Next #26 / S5E23 chapter01, Day287. Chapters11–25 now written; [partial record](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md) contains actual role changes, single relocation, modest shop and Sukuna truce/cost report. Older ten-chapter notices below are historical. V30 still partial; subsequent science/key/role follow-through remains. Do not redo Queen2/fort or these15 chapters. Reader follows pushed branch automatically, so allpartiallabels mustremain honest.
+
+
 **Updated:**2026-10-17. **Current actual stop:** V30 partial chapter10, Day284 bedtime. **Next:** chapter11 / S5E20 chapter01. V28/V29 complete and reader-verified; V30 has ten saved chapters but is NOT a finished volume.
 
 [V30 exact events, constraints and remaining work](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md). Read this first, not the older V29-only entry below. Queen2's two days281–282 and separate full fort day284 are now fulfilled; the small reciprocal outing283 also happened. Do not promise these again or spend the separate whole Mau-day R20. No new combat unlock, point spending, shop application, relocation, role restructuring, Sukuna talk or tower activity has been written inV30 yet.

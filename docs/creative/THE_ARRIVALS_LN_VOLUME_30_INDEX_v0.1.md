@@ -3,11 +3,11 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 30
 **Season:** 5
-**Coverage:** S5E18–19 (partial)
+**Coverage:** S5E18–22 (partial)
 **Volume title:** **Room at the Table**
-**Chapter count:** 10
+**Chapter count:** 25
 
-**Production state:** PARTIAL CHECKPOINT ONLY. The volume is not complete. The title is provisional; remaining rewards, household-role and Sukuna scenes are not written yet. No creator approval claimed.
+**Production state:** PARTIAL CHECKPOINT,25 actual chapters. V30 is still in production; the remaining science, practical tests and key-opening arrangements follow. Creator review pending.
 
 | Order | Source episode | LN chapter | File |
 |---:|---|---|---|
@@ -21,5 +21,20 @@
 | 8 | S5E19 | A Very Poor Map | `THE_ARRIVALS_S5E19_LN_CHAPTER_03_A_VERY_POOR_MAP_v0.1.md` |
 | 9 | S5E19 | The Other Ending | `THE_ARRIVALS_S5E19_LN_CHAPTER_04_THE_OTHER_ENDING_v0.1.md` |
 | 10 | S5E19 | The Whole Day | `THE_ARRIVALS_S5E19_LN_CHAPTER_05_THE_WHOLE_DAY_v0.1.md` |
+| 11 | S5E20 | The First Reading | `THE_ARRIVALS_S5E20_LN_CHAPTER_01_THE_FIRST_READING_v0.1.md` |
+| 12 | S5E20 | A Larger Page | `THE_ARRIVALS_S5E20_LN_CHAPTER_02_A_LARGER_PAGE_v0.1.md` |
+| 13 | S5E20 | The Last Empty Book | `THE_ARRIVALS_S5E20_LN_CHAPTER_03_THE_LAST_EMPTY_BOOK_v0.1.md` |
+| 14 | S5E20 | Still In Charge | `THE_ARRIVALS_S5E20_LN_CHAPTER_04_STILL_IN_CHARGE_v0.1.md` |
+| 15 | S5E20 | A Meal To Make | `THE_ARRIVALS_S5E20_LN_CHAPTER_05_A_MEAL_TO_MAKE_v0.1.md` |
+| 16 | S5E21 | Dry Ground | `THE_ARRIVALS_S5E21_LN_CHAPTER_01_DRY_GROUND_v0.1.md` |
+| 17 | S5E21 | One Move | `THE_ARRIVALS_S5E21_LN_CHAPTER_02_ONE_MOVE_v0.1.md` |
+| 18 | S5E21 | More Things | `THE_ARRIVALS_S5E21_LN_CHAPTER_03_MORE_THINGS_v0.1.md` |
+| 19 | S5E21 | Already Read | `THE_ARRIVALS_S5E21_LN_CHAPTER_04_ALREADY_READ_v0.1.md` |
+| 20 | S5E21 | One Drink | `THE_ARRIVALS_S5E21_LN_CHAPTER_05_ONE_DRINK_v0.1.md` |
+| 21 | S5E22 | The Cold Jar | `THE_ARRIVALS_S5E22_LN_CHAPTER_01_THE_COLD_JAR_v0.1.md` |
+| 22 | S5E22 | At The New Stake | `THE_ARRIVALS_S5E22_LN_CHAPTER_02_AT_THE_NEW_STAKE_v0.1.md` |
+| 23 | S5E22 | Terms For A Night | `THE_ARRIVALS_S5E22_LN_CHAPTER_03_TERMS_FOR_A_NIGHT_v0.1.md` |
+| 24 | S5E22 | A Higher Sky | `THE_ARRIVALS_S5E22_LN_CHAPTER_04_A_HIGHER_SKY_v0.1.md` |
+| 25 | S5E22 | What You Promised | `THE_ARRIVALS_S5E22_LN_CHAPTER_05_WHAT_YOU_PROMISED_v0.1.md` |
 
-Previous completed volume: [V29](THE_ARRIVALS_LN_VOLUME_29_INDEX_v0.1.md). [Exact continuation](the_arrivals_story_board/S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md).
+[Exact continuation](the_arrivals_story_board/S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md).

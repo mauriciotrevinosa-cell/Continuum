@@ -1,5 +1,7 @@
 # S5 / V29 — continuity QA
 
+> **Reading revision,2026-10-17:** [Pacing and dialogue corrections](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). SamechapterIDs/chronology/outcomes; current prose length 16,390words. Earlier source/publishing receipts describe their stated SHA; the new revision has a separate verified delivery record. Creator review pending.
+
 **Date:**2026-10-17. Complete draft, not creator-approved. Root review; no independent agent review claimed (agents reached the account usage limit).
 
 - Calendar: V28 dinner277 → preparation278–279 → reset/entry280 dawn. Week26 correctly follows273. Interior day1–7, exterior first4minutes/17minutes/onehour only. No exterior week-long activity or ordinary-gate clock retcon.

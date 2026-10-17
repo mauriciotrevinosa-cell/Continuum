@@ -28,6 +28,26 @@ Mau waited until Frieren had finished the last of the preserved fruit before say
 
 He turned his chair a little toward hers.
 
+"I like going places with you," he said. "When you're showing me something."
+
+Frieren looked at him with the expression she gave a statement whose obviousness might be concealing a useful second part.
+
+"You haven't seen most of what I could show you."
+
+"I know. I'd like to be there when you find some of it too."
+
+She stopped turning her empty glass.
+
+"You've spent a lot of time waiting at doors," he said. "For me. For somebody to tell you what's happening. When you talk about finding a spell, you look like you've already started walking toward it. I wanted more of that part. With you."
+
+Her eyes went to his face instead of the garden beyond him.
+
+"What have you done?"
+
+"Asked a few people some questions."
+
+"Mau."
+
 "The gate changes in three days."
 
 She became still in a very particular way.

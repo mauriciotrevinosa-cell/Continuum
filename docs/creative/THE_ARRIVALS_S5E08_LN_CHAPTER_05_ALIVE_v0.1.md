@@ -64,7 +64,11 @@ Rimuru relayed what Ciel could actually establish. The external restrictions had
 
 Rimuru listened.
 
-"Something caught him on the way back. It wasn't her."
+"Ciel says something caught him on the way back," Rimuru relayed. "She didn't do it. Ciel, I mean. That part wasn't her work."
+
+"Do you know what did?" Shoko asked.
+
+"Not yet. We're separating what she observed from what she can explain."
 
 Nobody mistook that for an explanation of the whole event.
 

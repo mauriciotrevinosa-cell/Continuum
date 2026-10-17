@@ -44,11 +44,59 @@ She gave him bread.
 
 The food was simple enough that they could talk over it. He told her which part he had made, then revised the description when she asked a precise question. She thanked him for the work he had actually done. He looked happier with that than he would have looked with a more extravagant compliment.
 
-They discussed the books. The rain mark had a limitation in the third diagram that she wanted to test before trusting it with anything important. The needle spell appeared useful even when one already knew where the needle had fallen, which Mau said sounded suspiciously like losing a thing with extra steps.
+"Which book first?" he asked.
 
-She explained why he was wrong.
+"The needle."
 
-He listened with his chin on his hand.
+"Not the rain?"
+
+"The third diagram needs looking at again. I won't trust it with a book until I've tested it with something I can replace."
+
+"And the needle?"
+
+"You'd be surprised how many things are dropped needles."
+
+He looked at her over his glass.
+
+"I think I would."
+
+"Needles, in different places. You knew what I meant."
+
+"I was enjoying the first version."
+
+She took a piece of bread from the plate between them and considered how much explanation he deserved.
+
+"Sometimes you know which piece of furniture it went under. That doesn't mean you can find it once you're down there."
+
+"Then you move the chair."
+
+"Then you move the chair, get onto the floor, discover it rolled between the boards, and wish you'd asked someone to mark where to look before moving everything."
+
+His gaze moved toward the common-room doorway and the stairs beyond it.
+
+"This is about the shelf."
+
+"Many useful things begin there."
+
+"We could move it."
+
+"And then use the spell to find the needle. One improvement doesn't have to prevent the other."
+
+"It won't pick it up for you."
+
+"You can do that part."
+
+He laughed. She ate the bread while he was distracted and took another piece for him.
+
+"You can teach me," he said.
+
+"When you can do it without making it into a different spell."
+
+"I was thinking of watching."
+
+"You may do that immediately."
+
+He rested his chin on his hand. She began telling him about the tiny corrections that made the simple instruction worth writing a whole page about.
 
 "What?" she asked when she noticed his expression.
 
@@ -60,11 +108,33 @@ He listened with his chin on his hand.
 
 She looked down at her plate and found that the next explanation had become harder to begin.
 
-He let her have the silence without making her blush more on purpose. After a while he talked about the first place he remembered them eating together, and she corrected his recollection of how much he had eaten. They disagreed about a walk for long enough to establish that they meant two different walks.
+He let her have the silence without making her blush more on purpose. She took another bite, and he finally remembered his own plate.
 
-There had been more than enough of them to do that.
+"Better than the soup?" she asked.
 
-She was glad.
+He looked up too quickly.
+
+"That's unfair. You're supposed to be enjoying this, not setting traps."
+
+"I enjoyed the soup."
+
+"Eventually."
+
+"I was ill. I had high standards."
+
+"So did I when it was your turn. I was simply less vocal."
+
+"You said it was unmistakably soup."
+
+He stopped with the bread halfway to his mouth.
+
+"You remembered."
+
+"I was listening."
+
+She watched him begin to smile and found she could keep looking this time. There were so many things they had said in rooms where one of them was frightened. She liked being able to take an ordinary ridiculous sentence out of one of those rooms and keep it here instead.
+
+He gave her the better piece of bread. She took it without pretending not to notice.
 
 When the plates were mostly empty, Mau rested his hand between them.
 

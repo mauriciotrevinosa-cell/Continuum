@@ -29,3 +29,13 @@ V30 is saved as a complete **first draft**, not certified free of this pacing is
 ## Local review result
 
 RevisedV27 now totals 23,776prosewords, 29chapters; eight existing chapters expanded. Independent review read new5/6/8 against originalS2SecondChance and waking scenes. Corrected one incidental phrase so Yuta is not placed at the instant Mau first wakes withFrieren. Reanchoring still not RCT/bodyrepair, no earlierSecondChanceknowledge, no new sourceability. Local source/hash/order checks: 980 assertions passed. Git/API/SSR receipt follows actual delivery.
+
+## Further pass completed before new production
+
+V28 revised chapters **1,3,5,8,10,24,25**. Ciel's private reading is spoken/relayed before Shoko responds, and Rimuru actually supplies his own account. The accidental command belongs to Noise; Mau does not choose to activate Exchange. One complete survival encounter replaces part of the war summary. Ori's objection and chosen outing get time, and the return relay identifies Ciel's 'not me' rather than an ambiguous 'her'. The anniversary dinner has an actual book/shelf/soup conversation; the compass exchange is preserved. The outing gift first expresses why Mau wants to follow Frieren's initiative, then discusses plans. Needle spell locates, does not retrieve objects.
+
+V29 revised chapters **23,26,27**. They discuss the specific optional Red/alternative/retreat before using it; Mau chooses a short extraction trial with limited understanding and a stated return function; the route back means camp, not a gate that hasn't yet appeared. Frieren checks the existing knot rather than tying it twice. The first visible blue exit gets shared disbelief/relief before inventory. All six, one week inside/one hour outside, costs, loot and return remain unchanged. Earlier camps, breakfast, Fern discovery and Milim watch already have lived time and are preserved.
+
+V30 revised chapters **12,13,25**. The game is played on-page rather than declared; Jinshi's habit/hesitation precedes leaving an empty reception; the conversation after the unexpected meeting develops why the first warning must precede a useful complete report. Role outcomes and limited vow unchanged. The full household/compass/Queen2/fort chronology remains as recorded. This is a targeted qualitative pass, not a claim that every future conversation can pass automatically.
+
+Independent rereads found and corrected incidental ambiguities about Yuta at the awakening, the needle spell's function, a twice-tied knot, and an already-found exit. Those fixes are in the text. Structural/hash checks support delivery; they do not replace this editorial reading or the creator's review.

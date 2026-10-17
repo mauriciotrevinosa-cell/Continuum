@@ -1,5 +1,7 @@
 # S5 / V30 — production record and exact exit state
 
+> **Reading revision,2026-10-17:** [Pacing and dialogue corrections](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). SamechapterIDs/chronology/outcomes; current prose length 18,154words. Earlier source/publishing receipts describe their stated SHA; the new revision has a separate verified delivery record. Creator review pending.
+
 **Date:**2026-10-17. **Status:** COMPLETE PRODUCTION DRAFT, not creator-approved.
 **Title:** Room at the Table. **Length:**35 chapters / 17,551 prose words. **Coverage:**S5E18–24, Days281–287. [Reading index](../THE_ARRIVALS_LN_VOLUME_30_INDEX_v0.1.md).
 

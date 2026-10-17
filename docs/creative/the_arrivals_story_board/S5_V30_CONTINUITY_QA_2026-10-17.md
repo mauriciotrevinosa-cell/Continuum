@@ -1,5 +1,7 @@
 # V30 — scoped continuity QA
 
+> **Reading revision,2026-10-17:** [Pacing and dialogue corrections](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). SamechapterIDs/chronology/outcomes; current prose length 18,154words. Earlier source/publishing receipts describe their stated SHA; the new revision has a separate verified delivery record. Creator review pending.
+
 **Status:** source/draft review, not creator approval. Read complete35chapters, fullcreatorpackets and recentactualrecords. Independent agents checkedroles/time, actualvow/S2link, sourceJJK/Gojo discussion, finalparty/bedtime/ambition. No materialcontradictions left from those reviews.
 
 Repairs applied beforecompletion: Day285kingdom reference no longeryesterday; Day286royalretirementfewdays notlessthanone; shopnewanchor testedempiricallyfromboundary; Sukunaadjustsowncloth notMau'sshoulder; promisedFernteaactualonDay286morning, fixedafternoonwordbeforelatemorningmove. Existingfirstten chapters unchanged.

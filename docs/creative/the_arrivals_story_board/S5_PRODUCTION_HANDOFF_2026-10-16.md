@@ -1,5 +1,18 @@
 # S5 — current production handoff
 
+## Current task: continuity with unhurried scenes and clear conversations
+
+The creator reached V27chapter8 and reported hurried scenes and confusing dialogue; he correctly noted Mau did not previously know SecondChance. He authorizes expansion and rereading. [Exact requests and applied revisions](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). This steering supersedes 'write more volumes first'. Continue the authorized work, with quality taking priority over quantity.
+
+V27 chapters4–9,12,16 revised; reread from4, same29IDs. Goddess first reveals SecondChance/anchor in5, fragmentary memory begins only then. V28 chapters1/3/5/8/10/24/25, V29 chapters23/26/27 and V30 chapters12/13/25 also received localized dialogue/pace corrections. No new power, changed outcome, reordered day or replaced anniversary compass. Save dialogue clarity and emotional response as production criteria; short chapters are not a word ceiling or episode quota.
+
+V27–30 remain complete production drafts,119 S5chapters, not creator-approved. The actual last scene is V30#35, Day287night; V31 prose has not begun. [V30 exact state](S5_V30_PRODUCTION_RECORD_2026-10-17.md). First key-gate trip is planned Day288, Mau/Yuta/Gojo/Kaneki, Rimuru home; not already entered. Arise already happenedV29, Level3/ten unspent points/one stored dragon/finite separate reserve/noBlackHeart. Full Mau-dayR20 and actualGojo/Shokodate remain owed. Queen2, reciprocal outing and fort day are paid. Preserve household roles, privacy, medical limits, house/tree/loft/five flowers and compass custody.
+
+Next: review the opening of V31 using this standard, establish actual return/clock/checkpoint mechanics before ascent, and integrate the whole Mau-day as a full lived day. No need to ask for production permission again. Scoped partial Git pushes about20minutes apart remain requested; do not stop merely because one commit finished. Reader follows pushed branch automatically; API8001/web3000. Verify source/body/navigation overHTTP, never execute browserchapterJS or alter localStorage/bookmark. Leave unrelated software changes untouched.
+
+## Historical handoffs — current steering above governs
+
+
 ## Latest steering — revise pacing before new V31
 
 Creator, readingV27#8, reports compression and confusing dialogue, and correctly notes Mau did not know SecondChance. [Full request, actual revisions and continuing standard](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). V27#4–9,12,16 expanded with stableIDs; rereadfrom4. Goddess first reveals anchor/name in#5; remembering begins NOW, no earlier knowledge. V30 completefirstdraft saved below; **V31 not started**. Next work reviewsV28–30 pacing/dialogue before moreproduction. Earlier completion/QA labels do not certify pace or creator approval. Do not lose this steering on continuation.

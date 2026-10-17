@@ -50,9 +50,31 @@ Mau would take the sheltered ground with Stark, avoiding the first approach. He 
 
 Yuka would mark the ground route and hold the retreat line clear. She knew the knots, had watched where the loose rock slid, and could tell when a path they had chosen stopped being usable. Her dog would stay unsummoned for the opening; they did not know what a dragon's first answer would cost a small scout.
 
-They discussed what would make them retreat.
+Mau asked for the pencil after Yuka had marked the left-hand shelter.
 
-It took longer than discussing how they might win. Stark liked that more than he expected.
+"If you bring its head through here, I might be able to turn it. A small Red. One."
+
+Frieren looked at him rather than the mark.
+
+"Might?"
+
+"I'd check with Ciel before opening anything. I can tell you whether we have it. Don't build the whole fight around it."
+
+"I wasn't going to."
+
+She took the pencil and drew a second line past the broken pillar. If Mau could make the brief repulsion, they would try to open that angle. If he couldn't, Stark would stay in cover while she and Fern forced another turn. Milim would not hold a landing waiting for him to produce something he had already said wasn't there.
+
+"And if you have it, then lose it?" Stark asked.
+
+"I call it off. Before you leave cover."
+
+Stark looked at the two lines. He could see his way back from either. It made the plan easier to listen to without making his hands any less cold.
+
+They kept talking after Milim thought they had finished. What if the retreat path broke? What if Fern had to land? Where would Yuka move the line if one of the pillars fell across it?
+
+Once they had no answer, and Frieren erased an entire approach rather than asking someone to be brave enough to make it work.
+
+Stark liked that more than he expected.
 
 Before sleeping, he checked the axe one final time. Fern sat beside him, sewing a short tear in her outer layer.
 

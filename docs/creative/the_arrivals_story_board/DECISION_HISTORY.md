@@ -1836,3 +1836,7 @@ Creator asks tocontinueafterusagecut andnotstopatonevolume/checkpoint. V30now35s
 ## DH-120 — creator pacing / dialogue / first SecondChance knowledge correction,2026-10-17
 
 ReadingV27#8, creator reports hurried scenes and unclear conversational construction; permits expansion and rereading. Mau did not know SecondChance before the S5 Goddess talk. [Exact messages and response](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). ExistingV27#4–9,12,16 revised, same29IDs/outcomes/deadline. Name/anchor first supplied byGoddess, fragments only aftertrigger; Yuta repair staysnecessary. Originalstructuralpassnotadequatepacingproof. Pause newV31 and review existingV28–30 for similarly compressed scenes. Sustainedwork/checkpointauthorization persists, not permission to rush.
+
+### DH-120 follow-through — existing drafts revised before advancing
+
+Localized V28#1/3/5/8/10/24/25, V29#23/26/27, V30#12/13/25 revisions now applied following the V27 correction. [Complete inventory](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). Source voices/relays, causal choices and real shared scenes improved; no chapter renumbering or new outcomes. The first28–30 drafts remain reviewable, not autoapproved; V31 not started in this pass.

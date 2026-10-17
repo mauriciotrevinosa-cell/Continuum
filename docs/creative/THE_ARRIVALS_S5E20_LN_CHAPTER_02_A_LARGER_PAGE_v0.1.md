@@ -80,8 +80,38 @@ She looked offended.
 
 Mau put the pencil down between them before the argument became a reason to enlarge the table again.
 
-They played one short round.
+Yuka brought the pieces out while Umaru folded the new page away from the playing space. Mau reached for the nearest one and was immediately told he was not playing that side.
 
-He lost so badly that Umaru informed him his existing intelligence was also in need of careful allocation.
+"You could have mentioned that before I made my opening move."
+
+"You could have waited until your turn," Yuka said.
+
+He withdrew the piece with dignity. Umaru considered the positions and made a move so quickly that he became suspicious.
+
+"Is that good?"
+
+"For me."
+
+"An informative teacher."
+
+Yuka pointed at the space he had stopped watching. He saw it, reached toward it, and caught her looking at Umaru instead of him.
+
+"You're helping me so I attack her."
+
+"I'm helping the game develop."
+
+He chose a different move. It was worse. Umaru's face became so carefully polite that Yuka put her head down on her arms.
+
+Mau looked at the board again, then back at them.
+
+"I think the correct response is that I was testing a theory."
+
+"Which one?" Umaru asked.
+
+"That I can lose this quickly without either of you helping."
+
+Yuka laughed against her sleeve. They made him finish the round, and then Umaru set the first position up again to show him the move he had missed. He understood it this time, which was not quite the same as trusting either instructor.
+
+She informed him his existing intelligence was also in need of careful allocation.
 
 The ten points stayed untouched.

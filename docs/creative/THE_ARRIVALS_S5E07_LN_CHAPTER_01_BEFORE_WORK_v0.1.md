@@ -34,13 +34,17 @@ They asked about sleep, food, the ache behind his eyes. He told them about being
 
 *The overnight readings have remained within the current resting range,* Ciel said.
 
-"Both of you heard that?" Shoko asked.
+Mau repeated the reading aloud, identifying it as Ciel's rather than his own impression of a good morning.
 
-"Rimuru is listening," Mau said. "She says she can relay it."
+"Does Rimuru have the same account?" Shoko asked.
+
+"Ciel is telling him too. He can give you his part."
 
 "Then let her. I'd like to compare what he has with what you're telling me."
 
-There was a brief pause while Ciel did that. Mau sat again without being asked. Maomao noticed, which was an unfortunate thing to have noticed.
+Mau asked Ciel to call Rimuru over. He came in from the courtyard a little later, heard Shoko's question, and separated what Ciel had told him from what he had actually noticed during the night in his loft. Shoko asked two more questions before letting him go back to his own morning.
+
+Mau had sat again without being asked. Maomao noticed, which was an unfortunate thing to have noticed.
 
 "I'd like to go through the gate," he said.
 
@@ -57,6 +61,24 @@ He let her finish looking at him.
 "You can do that in the yard."
 
 "I know. I'd still like to go."
+
+"Why today?"
+
+He looked at the bucket by the door. He could give her an answer about useful work, finding supplies, bringing back something the house might need. It would sound very sensible, and leave out most of what had brought him here.
+
+"Because I'm starting to wait for something else to happen. I don't like finding myself relieved when a day ends before it can."
+
+Shoko put the pen down.
+
+"A gate won't make the world stop surprising you."
+
+"I know. I'm asking to go somewhere with them. Do the small part I can do. Come back for lunch."
+
+"And if the answer is not today?"
+
+He had hoped she wouldn't ask. He considered it until he could give her something other than the answer designed to get him through the door.
+
+"Then I'd be disappointed. I'd ask what we're waiting to see change. I wouldn't go round you to ask someone else."
 
 Maomao set down the cup.
 

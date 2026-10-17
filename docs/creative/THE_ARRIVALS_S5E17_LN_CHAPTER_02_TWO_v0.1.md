@@ -10,7 +10,39 @@
 
 The way out appeared at the far end of the hollow.
 
-Blue light gathered between the two sound pillars beyond the dragon's place. Fern saw it first and called the others before approaching. They did not split the party to send one person home as an experiment. They checked the route together, keeping the new opening in sight while they gathered what had appeared beneath the fallen scales.
+Blue light gathered between the two sound pillars beyond the dragon's place.
+
+Fern stopped moving with the empty wrapping still in her hands.
+
+"Frieren."
+
+Not an alarm. The difference made all of them look.
+
+For a moment Mau could not let himself understand the colour. He had spent a week trying not to look for a door in every place the snow made a clean edge. He had stopped asking Ciel whether anything had changed because hearing no again wasn't helping anyone.
+
+Now the light was simply there.
+
+Milim took a step toward it. Then stopped and looked at Frieren.
+
+"We go together," Frieren said.
+
+They approached far enough to see the opening clearly without passing through. Beyond the light there was grass. Ordinary grass, without frost along every blade.
+
+Stark put a hand on the stone beside him. Yuka made a small sound and laughed at it, then covered her mouth because she hadn't meant to laugh yet.
+
+"Blue," she said.
+
+"I see it," Mau answered.
+
+She looked at him as if that hadn't been the point, and he realized she needed somebody else to say it too.
+
+"Blue again."
+
+They did not send one person through and divide the party before knowing more. They traced the clear approach together. It stayed open. When they turned back for the scattered things, Fern kept glancing over her shoulder.
+
+So did Mau.
+
+Gathering the rewards no longer felt like finding something worth staying for. It was the last work between them and the grass beyond that light.
 
 Crystals. Several sizes, wrapped separately.
 

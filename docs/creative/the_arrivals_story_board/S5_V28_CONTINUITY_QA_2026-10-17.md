@@ -1,5 +1,7 @@
 # S5 / V28 — continuity review
 
+> **Reading revision,2026-10-17:** [Pacing and dialogue corrections](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). SamechapterIDs/chronology/outcomes; current prose length 17,706words. Earlier source/publishing receipts describe their stated SHA; the new revision has a separate verified delivery record. Creator review pending.
+
 **Date:**2026-10-17. COMPLETE DRAFT, not creator-approved. Root source/sequence review; independent audit agents unavailable after account usage errors, not counted as passed independent review.
 
 - PASS: actualV27exitDay267→medicalcheck268→anniversaryseedBEFOREouting→Exchange/rest269→latercompletion270→date277→3preparationdays/reset280. Weekly273changeexplicit; no oldinstanceafterreset. No exactanniversarydateinvented.

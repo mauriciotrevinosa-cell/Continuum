@@ -1,5 +1,7 @@
 # S5 / V29 — production record and exact exit state
 
+> **Reading revision,2026-10-17:** [Pacing and dialogue corrections](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). SamechapterIDs/chronology/outcomes; current prose length 16,390words. Earlier source/publishing receipts describe their stated SHA; the new revision has a separate verified delivery record. Creator review pending.
+
 **Date:** 2026-10-17. **Status:** COMPLETE PRODUCTION DRAFT, not creator-approved.
 **Volume:** The Long Way Round. **Length:** 30 chapters, 15,733 prose words. **Coverage:** S5E12–17. [Reading index](../THE_ARRIVALS_LN_VOLUME_29_INDEX_v0.1.md).
 

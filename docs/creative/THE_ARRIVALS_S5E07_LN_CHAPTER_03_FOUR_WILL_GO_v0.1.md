@@ -50,7 +50,41 @@ Ori's eyes moved from his face to the bag.
 
 "Before lunch. If the route stays the route. I wanted to tell you before we finished getting ready."
 
-Frieren asked about the exit conditions. He repeated them. She asked what he would do if the checked route ended in a door nobody had opened. He said he would admire it from the correct side.
+Ori's fingers went around the strap. She didn't pull it.
+
+"I thought we'd be doing this for a little longer."
+
+"What?"
+
+She looked back through her door, toward the map. The answer was already there: finding out what a day together looked like when nobody had to leave in the middle of it.
+
+"Being here."
+
+He put his bag down before answering.
+
+"I still want that. This isn't how every morning has to be now."
+
+"You don't know what every morning will be."
+
+"No. I know I'm asking for one of them."
+
+Frieren unfolded the edge of the cloth in her lap, then folded it back. She had been listening to him without looking at the bag.
+
+"What if there's a room beyond the checked route?" she asked. "An interesting one."
+
+"Yuta tells me to turn round."
+
+"And what do you do?"
+
+"Complain on the way back."
+
+She studied him a moment longer.
+
+"You'll have to stop doing that if you want anyone to take you again."
+
+"I'm willing to learn."
+
+He told them the actual exit conditions. No new door, no new operation in the walls, no following a pull to see where it went. Frieren asked him to repeat the last part. He did, without making the second answer into a joke.
 
 "An unusual expedition for you," she said.
 

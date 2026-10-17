@@ -34,6 +34,30 @@ She came over and looked at the key list. Not touching anything he had kept in o
 
 "You did the job," she said. "That doesn't mean the job has to continue forever."
 
+He looked around the empty reception. A chair was tucked under the desk. He had put it there carefully before opening the book, as if the correct arrangement might make the morning different.
+
+"I used to have to be ready before I knew what for," he said.
+
+Maomao waited. The packet under her arm crinkled when she changed her grip.
+
+"If I stop coming here, it will look very much as if I've done nothing."
+
+"To whom?"
+
+He could have named people from another life. None of them had asked him to sit at this desk today.
+
+Outside, someone called for Wakana. Not for him. He listened to the answer and felt the strange little relief of not having to find something useful to add to it.
+
+"I don't know," he admitted.
+
+Maomao came close enough to see the blank page without leaning over his shoulder.
+
+"You can keep the book. Close it for today. See whether anyone needs it open."
+
+"An experiment?"
+
+"If that helps you leave the chair."
+
 He closed the book.
 
 The sound was disappointingly small for a decision he had been avoiding.

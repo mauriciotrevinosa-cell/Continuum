@@ -66,7 +66,37 @@ Neither of them asked the other to call the moment harmless. He had chosen a ris
 
 Rimuru moved from the door.
 
-They agreed on a clearer short signal for an unexpected approach: location, who, immediate danger, whether an actual restraint had been accepted. Nobody would hide a meeting to spare the house a fright. Nobody would assume the word talking meant no help was wanted. It was practical, less satisfying than shouting, and much more useful.
+"You called after you had terms," Rimuru said.
+
+"I wanted you to know what was happening."
+
+"I wanted to know while you were finding out."
+
+Mau looked up. Rimuru had kept his voice level, but his fingers were pressed flat against the back of the empty chair.
+
+"You don't need a useful report before telling me something's wrong," he went on. "His name would have done. Your location would have done. I can cope with not knowing the rest yet."
+
+Mau had asked Ciel to send the clear thing he could explain. Until Rimuru said it, he had not quite heard how much time could disappear into deciding what that thing was.
+
+"All right," he said. "When I know somebody's there. Not when I've worked out why."
+
+"And don't make talking mean stay away," Gojo said.
+
+"I didn't want you thinking he could attack."
+
+"You could have needed help without him being free to attack. Those aren't the same answer."
+
+Mau rubbed his uninjured thumb against the edge of the chair. He had been careful with so many words in the field and still found a place to be careless in the first ones he sent home.
+
+He asked Ciel to carry the same distinction next time: who, where, immediate danger if they knew it, any restraint already accepted. No waiting to finish a negotiation before giving the first warning.
+
+Frieren looked at Rimuru.
+
+"Tell me when you know," she said. "Even if you only know the name."
+
+"I will."
+
+She nodded, once. It did not make her hand stop trembling when she reached for the cup. Mau left his hand beside hers until she chose to take it.
 
 Then Mau told them what Sukuna had said.
 

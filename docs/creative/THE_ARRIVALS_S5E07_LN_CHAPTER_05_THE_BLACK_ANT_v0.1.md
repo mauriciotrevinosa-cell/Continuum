@@ -66,9 +66,13 @@ It was not a thought in words, nor the sensation of a technique coming up throug
 
 *Mau, stop the read—*
 
-Something was being named inside him. A function located, understood just far enough to recognize, not far enough to leave alone safely.
+The Noise had found a name in what it was analysing.
+
+It brought the word forward before Mau knew it was a command as well as a description. He had not asked it to use anything. He was still trying to withdraw his hand when the recognition completed itself inside him.
 
 `Exchange.`
+
+Not his chosen word. Not a place he had chosen to go.
 
 The fountain dropped away.
 

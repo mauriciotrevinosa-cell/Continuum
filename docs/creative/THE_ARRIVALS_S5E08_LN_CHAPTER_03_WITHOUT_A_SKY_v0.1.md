@@ -26,6 +26,42 @@ His body was.
 
 He dragged himself upright against a stone column that was slowly falling over. The movement around him made no sense. The soldiers could pass through one another's dark; their enemies seemed able to step across distances without crossing the space between. Twice he had run toward what looked like an opening and arrived in front of the thing he had been running from.
 
+The second time, he reached the split column before seeing the same bent weapon above him.
+
+He knew it by the missing piece near its tip. He had watched that piece break off when the creature used it to lever a soldier out of the ground.
+
+Mau stopped with one foot halfway over the crack.
+
+He had run away from the weapon. It was in front of him now, without the bearer having turned far enough to account for it.
+
+The soldier at his shoulder struck upward. Metal met the creature's wrist. The bent blade came down sideways instead, and Mau threw himself behind the lower slab before the edge reached his chest.
+
+It struck the slab. His cheek filled with grit.
+
+For a moment he stayed there, looking at a gap too narrow for his shoulder. The weapon lifted. He had time to move, but nowhere he trusted enough to run.
+
+The dark soldier came apart above him.
+
+Mau reached for the pull he could picture most clearly, then caught himself reaching for far too much. The stone under his fingers began to loosen. He wanted the weapon moved, not the whole ridge brought down on top of him.
+
+"There," he said, pointing with his other hand although nobody needed the gesture. "Only there."
+
+The Noise held the competing shapes back while he tried to reduce the one he had chosen.
+
+The pull caught the broken end of the blade.
+
+It did not wrench it from the creature. It changed the next strike by the width of his body. The edge hit the side of the slab instead of coming through the gap where he lay.
+
+Mau crawled out under the raised arm. His knee refused the first attempt to stand. He dragged it after him and used the column to push himself up.
+
+Blood ran across his upper lip. When he wiped it, his sleeve came away wet.
+
+Behind him the soldier rose again. It put itself back into the same fight as if the last few seconds had not cost anything that would run out.
+
+Mau watched it pass, then looked at the opening beyond the column.
+
+He could run for that and meet the same weapon a third time. He could not keep spending pieces of himself to prove the landscape would not let him leave.
+
 He stopped trying to find an exit in the landscape.
 
 "You can see the connection," he said inwardly. "The one we came through."

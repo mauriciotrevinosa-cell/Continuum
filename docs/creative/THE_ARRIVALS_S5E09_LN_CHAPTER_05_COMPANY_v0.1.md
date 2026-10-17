@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 49 — Company
+## Chapter 51 — Company
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 49
+**Reading order:** 51
 **Continuity state:** Frieren chooses ordinary closeness; the previous choice conversation remains repaired; Mau's companions receive their own account rather than automatic mind access
 
 *When: Day 269, evening.*

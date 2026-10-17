@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 45 — The Missing Minutes
+## Chapter 47 — The Missing Minutes
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 45
+**Reading order:** 47
 **Continuity state:** Mau wakes after the Exchange rest; chosen recollection supplies the household's first account of the war rather than a fabricated live recording
 
 *When: Day 269, morning.*

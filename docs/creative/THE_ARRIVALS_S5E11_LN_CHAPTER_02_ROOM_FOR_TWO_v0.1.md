@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 56 — Room For Two
+## Chapter 58 — Room For Two
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 56
+**Reading order:** 58
 **Continuity state:** Repeated low-load trials allow brief domestic levitation with Frieren at low height; the one-metre unloaded exercise is not cargo capacity or sustained combat flight
 
 *When: Day 276, late morning.*

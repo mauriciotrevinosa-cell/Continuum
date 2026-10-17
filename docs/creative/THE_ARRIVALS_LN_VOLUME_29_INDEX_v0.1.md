@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 29
 **Season:** 5
-**Coverage:** S5E25–S5E29
+**Coverage:** S5E25–S5E30
 **Volume title:** **The Days Between**
-**Chapter files:** 24
+**Chapter files:** 27
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 onward.
 
@@ -37,3 +37,6 @@
 | 22 | S5E29 | The Sewing You Could See | `THE_ARRIVALS_S5E29_LN_CHAPTER_02_THE_SEWING_YOU_COULD_SEE_v0.1.md` |
 | 23 | S5E29 | Not A Kitchen Problem | `THE_ARRIVALS_S5E29_LN_CHAPTER_03_NOT_A_KITCHEN_PROBLEM_v0.1.md` |
 | 24 | S5E29 | Both Tables | `THE_ARRIVALS_S5E29_LN_CHAPTER_04_BOTH_TABLES_v0.1.md` |
+| 25 | S5E30 | Somewhere Nobody Needs You | `THE_ARRIVALS_S5E30_LN_CHAPTER_01_SOMEWHERE_NOBODY_NEEDS_YOU_v0.1.md` |
+| 26 | S5E30 | First Light | `THE_ARRIVALS_S5E30_LN_CHAPTER_02_FIRST_LIGHT_v0.1.md` |
+| 27 | S5E30 | The Fourth Floor | `THE_ARRIVALS_S5E30_LN_CHAPTER_03_THE_FOURTH_FLOOR_v0.1.md` |

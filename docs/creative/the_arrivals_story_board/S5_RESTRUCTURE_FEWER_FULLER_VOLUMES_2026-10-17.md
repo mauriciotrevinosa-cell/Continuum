@@ -46,3 +46,12 @@ The creator was at V27 #11. Because breathers go in from #1 onward, **the creato
 - Header: `# The Arrivals — Light Novel — Volume 29`. Continue that volume's reading order. Do not start a new volume number until V29 has ~55–65 chapters.
 - Keep chapters about 1,300–1,600 words, or split them into Part 1 / Part 2. Use digit-only filename indices with the `_PART_2` slug, then regenerate the volume index.
 - Every chapter opens with an italic *When:* line. Read CANON_TRAPS and the cast ledger first. Never invent past canon; read the source scene before any callback.
+
+### Mapping of the old ten-volume plan onto the new volumes
+The interleaved map in S5_VOLUME_MAP_BREATHERS_AND_READINESS still holds; only the labels fold in pairs:
+- new **V29** = old plan V31 + V32: first tower stretch, Gojo/Shoko date (R16), Mau's full day (R20, done), R21–R34 household units, staged trade; Taihei only when the creator closes his arrival conditions (R60)
+- new **V30** = old V33 + V34
+- new **V31** = old V35 + V36, which closes S5
+
+### V29 work log (Claude, 2026-10-17)
+Next block: R16 Gojo/Shoko date, R34 star-naming night, a tower visit with Frieren in the party, R23 Ori's plan, R24–R26 the brothers and the four, R28 Nazuna, R32 tobacco progress. **Taihei (R60) is held for the creator.**

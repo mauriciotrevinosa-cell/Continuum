@@ -301,3 +301,25 @@ Day289#8 tiny comparison has failed/better/failed trials and stopping, personalh
 
 ### REL-S5-034 — Kaneki / Mau / firstparty
 Day288#4 listening/weaponhold/Mau'snetwarningcoordinate, #6comesbackwithparty andtakesownchoices. No inventedfoodcure/kagune/Dragonform or recasting him as a silentworker. His familychoice stillneeds twocoins; invitationtoseeMau-dayworklater notpaidyet. Preserve sharedcompetence andquietfun.
+
+## V31 continuation — actualchapters11–24
+
+NextID **REL-S5-041**. [Exactsource/state](S5_V31_PRODUCTION_RECORD_2026-10-17.md). DRAFT,notcreatorapproval.
+
+### REL-S5-035 — Mau / Frieren / Ori / Milim / Rimuru, fullMau-day
+Day290#11–18 wholemorning-to-bedday actuallylived, R20fulfillednotrenamedearlierpromise. Coupleintimacy/hair/book/handcheek/familyribbonbreakfastandbedtime, daughterownrules/hug, Milimfloatingharmlessly/Rimuruhumourandactualsleepingloft. No crisisneededtobeclose; returntonormalcompanylater, notrestartpromiseowing.
+
+### REL-S5-036 — Mau / friends, chosencompany
+Day290#12–18 Gojo shortpractice/jokes/rest, Kanekilightwork/coffee/sun, Mai/Makistrapsownagency, Bocchispecificmusicalchange/Kita, allsevenwitchesownplans/teasing, actualcardsUmaru/Yuka/Milim/Ori andlightYutatiming thenordinaryfood/game/music. Earnedbrother/Oppa/bandcouple/familyrolespersist, notfirstrecognition. No powergainorprivateconfessionsrequired. Bocchifinishedsonginvitationcontinues, Satella/Minervariverplanpending; Coco/Echidnabindingpaidnextday.
+
+### REL-S5-037 — Coco / mother / Echidna
+Day291#22 motheraftersharedcleaningchoosesjoinlearning/repair, watchesCocoself-correctandasksdaughtertoteach; healedhands/nameunpublished/canonknowledgepreserved. Ordinarybindingpromiseactuallypaid, visiblefinishedleaf. Mauoptionalguestrestrainsfixing, notsaviourorworkshopdirector. Continuetheirchosenlearningandlibrarybondbeyondrescue/debt.
+
+### REL-S5-038 — Momo / Okarun / Vamola / Jiji
+Day291#23 insideboundaryriverrace/actualboatsrules/mistakes/lunch/handholding, sharedcoveragealreadyinplace. They choose leisurewithoutpowers/plotreport, no memoryreset/noperformancetest ornewpermanentchef. Bringbackthisindependentfamiliaritybeyondthekitchen.
+
+### REL-S5-039 — roof / crackers / couple / Gojo-Shoko
+Day291#24 bothweeklygatherings, correctspaces, smallhumourandcompany; ShokoSeiko'sinvitedguest. Gojohelpsownquestionwithboys, notautomaticdateormindsharing; womenhearonlyFchosencomment, noforcedprivatepromisedisclosure. LastpageMau/Fordinarysharedlaugh, Rimuruloftstill. DateowedR16notcompletedbyplanning, nextgatherings298.
+
+### REL-S5-040 — secondtowerparty / Mau / Frieren
+Day291#19–21 Yuka/Yuta/Milim/Maucoordinatebycalls/visiblethreatswithretreatandrest; Milimlistenstoactualinstructions, WhiteDogbriefcostnotEar, Yukaagency/diagramteasing/grandparentbond, ownprogressreporttoAnko. Mauasksreturnratherthanbeingforbiddenfloor4. Flistens/helpsmapaftertheirindependentmorning, notbarredfromfutureToweroronlyworryinggirlfriend. Secondpartydoesnoterasefirstpartyfriendship.

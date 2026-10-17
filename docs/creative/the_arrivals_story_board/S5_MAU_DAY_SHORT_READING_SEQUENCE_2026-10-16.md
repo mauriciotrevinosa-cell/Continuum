@@ -1,5 +1,7 @@
 # A Day at Home — four shorter reading units
 
+> **Production followthrough,2026-10-17:** The whole existing day is now integrated into V31chapters11–18, Day290, with natural eightchapterbreaks and continuity/cardrule adaptations. R20fulfilled, not fournewdays. [Actualrecord](S5_V31_PRODUCTION_RECORD_2026-10-17.md). Status below is the historical standaloneplanningversion; these sourceparts remainpreserved.
+
 **Status:** EDITORIAL READING VERSION OF THE EXISTING STANDALONE DRAFT — NOT CANON / NOT ASSIGNED TO A SEASON VOLUME.
 
 The creator's [latest reading preference](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md) asks for more frequent natural stopping points. The full day remains intact in [the complete draft](S5_DAY_IN_THE_LIFE_MAU_STANDALONE_DRAFT_v0.1.md); this sequence changes only the reading breaks. It does not create four days, four new events or four separate family promises, and does not launch S5 production.

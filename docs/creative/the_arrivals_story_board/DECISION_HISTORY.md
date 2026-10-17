@@ -1844,3 +1844,6 @@ Localized V28#1/3/5/8/10/24/25, V29#23/26/27, V30#12/13/25 revisions now applied
 ## DH-121 — continued V31 production after pace correction,2026-10-17
 
 Creator says he likes the revision and asks to continue. FirstV31checkpoint10scenes, twoactualdays, firstlimitedTowervisit and ordinarycompany; [record](S5_V31_PRODUCTION_RECORD_2026-10-17.md). Newphysicalreturn/party/clock/persistence mechanics areeditorialContinuumchoices, notSoloLevelingsourceclaims. No class/fuel/100percentgrant. FullMau-daystillnext, date/favouritebosseslater; no volumequota. Scopedcheckpointsandreaderverificationcontinue, noautoapproval.
+
+### DH-121 followthrough — V31secondcheckpoint
+Creator askscontinuedproductionagain. #11–24savedactualprose, fullMau-day/independentcompany, secondlimitedTowervisit. [State](S5_V31_PRODUCTION_RECORD_2026-10-17.md). No newmacroplot/sourceoverride; onechapterdoesnotneedonefloor/boss andpartialpushnotapproval.

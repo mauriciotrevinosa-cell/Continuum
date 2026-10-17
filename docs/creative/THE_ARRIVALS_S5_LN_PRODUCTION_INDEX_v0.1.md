@@ -14,4 +14,4 @@
 
 ## Current work in progress
 
-[V31 — The Days Between](THE_ARRIVALS_LN_VOLUME_31_INDEX_v0.1.md) has 10 saved chapters, not a finished volume. [Exact continuation](the_arrivals_story_board/S5_V31_PRODUCTION_RECORD_2026-10-17.md). Complete-draft total above remains119; partial work is additional and not creator approval.
+[V31 — The Days Between](THE_ARRIVALS_LN_VOLUME_31_INDEX_v0.1.md) has 24 actual saved chapters / 17,130 prose words and is still being written. [Exact continuation](the_arrivals_story_board/S5_V31_PRODUCTION_RECORD_2026-10-17.md). Complete-draft total above remains119; partial chapters additional, not creator approval.

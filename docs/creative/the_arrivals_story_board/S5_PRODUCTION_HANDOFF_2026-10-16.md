@@ -1,5 +1,7 @@
 # S5 — handoff de producción y estado de trabajo
 
+> **Regla posterior — decisión delegada del creador, 2026-10-16:** recuperación/evolución por habilidad o ramal; se puede superar una capacidad restituida con otras bloqueadas, sin porcentaje global ficticio. Sustituye el requisito anterior de TODO el kit100% antes de cualquier evolución. Operaciones multicomponente conservan todos sus requisitos/costes.100% usa extracción, no final de franquicia. [inventario de60, bases y destinos S5](S5_POWER_BASELINES_AND_END_STATE_ROSTER_2026-10-16.md) y [historial de cambios y consecuencias relacionales](S5_RELATIONSHIP_STATE_AND_CONSEQUENCES_2026-10-16.md). Los destinos son propuestas, no resultados escritos.
+
 **Fecha de preparación:** 2026-10-16. **Estado:** MAPA Y PREPARACIÓN TERMINADOS; PROSA S5 NO INICIADA EN ESTE CICLO. Mantener este archivo pequeño y actualizarlo tras bloques/volúmenes reales. Es un punto de reentrada, no otro ledger de canon ni sustituto de los originales del creador.
 
 ## Dónde estamos realmente
@@ -53,10 +55,14 @@ Usar las categorías ya existentes, sin duplicar el ledger de personas:
 - Antes de roja/torre: entrada/reentrada/reloj/party/cobertura; costes de extracción/sombras; rangos/inspección y pasos de recuperación individuales que se vayan a usar.
 - Antes de cada llegada: moneda real, consentimiento, punto fuente, estado/relaciones que trae y espacio que ocupará.
 - Antes de Arquitecto: prueba/combate, mecanismo/coste del corazón, huida y quién sabe qué; alianza vista por lector no compartida automáticamente a casa.
-- Antes de nuevas evoluciones:100% de la base pertinente y requisitos propios; nunca inventar una tabla de61 porcentajes para llenar una escena.
+- Antes de nuevas evoluciones: referencia recuperada de la habilidad/ramal implicado y todos los requisitos propios; no exige TODO el kit100%. Nunca inventar porcentajes para llenar una escena.
 
 ## Entrega y revisión
 
 Un volumen por ciclo, próximo volumen esbozado, bloques de3–5 capítulos revisados. Un autor integra la prosa; auditorías paralelas pueden encontrar contradicciones. Reutilizar [QA V26](S4_V26_CONTINUITY_QA_2026-10-14.md) para IDs/frontmatter/índice/texto servido. El documento no rastreado LN_PRODUCTION_PIPELINE es una propuesta ajena a este trabajo, no evidencia de automatización disponible. No cambiar aplicación/proveedores para completar planificación narrativa.
 
 Tras guardar una tanda, registrar resultados reales y conservar el historial; un push no significa autoaprobación del creador. Si se interrumpe el trabajo, retomar desde el último bloque escrito y su delta, sin empezar la temporada de cero.
+
+## Reentrada obligatoria: relación y capacidad que cambió
+
+Abrir [historial de cambios y consecuencias relacionales](S5_RELATIONSHIP_STATE_AND_CONSEQUENCES_2026-10-16.md) y [inventario de60, bases y destinos S5](S5_POWER_BASELINES_AND_END_STATE_ROSTER_2026-10-16.md) además del ledger. Para cada bloque real actualizar estado actual + evento con capítulo/día/entorno/oyentes/coste/retorno en el mismo cambio. Una reconciliación necesita evidencia; una técnica nueva necesita componentes. No resetear la relación porque terminó el volumen ni convertir una propuesta de endpoint en desbloqueo. No hay nuevos eventos/prosaS5 en esta auditoría; REL-S5-001 sigue libre.

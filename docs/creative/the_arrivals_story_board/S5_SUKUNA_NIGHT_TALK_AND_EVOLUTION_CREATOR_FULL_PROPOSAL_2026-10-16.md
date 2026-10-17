@@ -1,5 +1,7 @@
 # S5 — visita nocturna de Sukuna, tregua y estudio de evoluciones: propuesta completa
 
+> **Precedencia posterior, decisión delegada del creador (16 de octubre; revisión final17 de octubre de2026):** [bases, inventario y regla vigente](S5_POWER_BASELINES_AND_END_STATE_ROSTER_2026-10-16.md).100% corresponde a extracción; recuperación/evolución por habilidad o ramal. Una capacidad restituida puede superarse con otras bloqueadas. Se sustituye el requisito anterior de recuperar TODO el kit; una operación compuesta conserva todos sus requisitos y costes. El mensaje original se mantiene íntegro como antecedente, no instrucción actual contradictoria.
+
 **Fecha:** 2026-10-16. **Estado:** propuesta del creador en desarrollo; esqueleto de escenas y causalidad, no capítulos escritos ni poderes desbloqueados. Conserva la propuesta completa y separa las comprobaciones/editoriales. No reescribe S4, no identifica al encapuchado ni a quien amenaza a Pell.
 
 **Entrada:** [plan integrado](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md) · [ficha Sukuna](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md) · [análisis y entrenamiento](S5_POWER_TRAINING_AND_PROGRESSION_PLAN_2026-10-16.md).

@@ -1,5 +1,7 @@
 # S5 — análisis, entrenamiento y progresión v0.1
 
+> **Regla posterior — decisión delegada del creador, 2026-10-16:** recuperación/evolución por habilidad o ramal; se puede superar una capacidad restituida con otras bloqueadas, sin porcentaje global ficticio. Sustituye el requisito anterior de TODO el kit100% antes de cualquier evolución. Operaciones multicomponente conservan todos sus requisitos/costes.100% usa extracción, no final de franquicia. [inventario de60, bases y destinos S5](S5_POWER_BASELINES_AND_END_STATE_ROSTER_2026-10-16.md) y [historial de cambios y consecuencias relacionales](S5_RELATIONSHIP_STATE_AND_CONSEQUENCES_2026-10-16.md). Los destinos son propuestas, no resultados escritos.
+
 > **Latest creator continuation — 2026-10-16:** [mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Tower minis supply named shadow copies; Red Gate dragon plus Kaisel/Kamish, speaking Beru/Igris and Bellion; rare materials/divine-potion components; broken Jin-Woo contact. Architect ending now chosen: statues/fight -> Black Heart -> two heartbeats -> escape -> Sukuna alliance for S6. No Black Heart DURING tower remains true; full mechanics/chapters are not yet produced. Few family arrivals and partial recovery into S6, not compulsory100% for all by S5 finale.
 
 > **Latest creator direction, 2026-10-16:** [Fern/shared responsibility and shorter reading chapters](S5_FERN_SHARED_RESPONSIBILITY_AND_SHORT_CHAPTERS_CREATOR_DIRECTION_2026-10-16.md). Fern's emotional direction has now been supplied; concrete coverage still needs development. Predominantly shorter chapters supersede the old200–270/~240 chapter-count forecast, which assumed S4-sized units. Preserve story content and recalculate after natural reading breaks. The macro plan is advanced, not a completed outline. Architect fight/Black Heart/escape/Sukuna ending is now selected; tower rules/stages, heart costs/control, individual endpoints and arrival details still need development.
@@ -15,15 +17,15 @@
 
 Kit recuperado, técnica nueva, cuerpo, eficiencia, experiencia y equipo son ejes distintos. La comprensión no proporciona automáticamente órgano, combustible, socio, medio ni tolerancia.
 
-## Recuperación100% antes de nuevas evoluciones — aclaración del creador
+## Regla anterior de kit100% — conservada como antecedente, sustituida por habilidad/ramal
 
-**C:** cada personaje debe recuperar su100% personal de la base correspondiente antes de ejecutar las nuevas evoluciones. **Sukuna también está sujeto a ese requisito.** Entender posibilidades e investigar puede comenzar antes; ejecutar una nueva evolución no. Alcanzar100% es requisito, no dominio inmediato ni recompensa que elimina preparación/coste.
+**Antecedente C, sustituido por la decisión posterior por habilidad/ramal:** cada personaje debía recuperar su100% personal de la base correspondiente antes de ejecutar las nuevas evoluciones. **Sukuna también está sujeto a ese requisito.** Entender posibilidades e investigar puede comenzar antes; ejecutar una nueva evolución no. Alcanzar100% es requisito, no dominio inmediato ni recompensa que elimina preparación/coste.
 
 100% de recuperación no es nivel100 ni piso100. No fijar que terminar la torre equivale al umbral, ni un reloj obligatorio de recuperación para todos. Las fichas deben separar recuperación del kit/base, control, progreso del nuevo branch, equipo y evolución; para Mau no se puede calcular un100% de bag/especie desconocidos.
 
 El mundo sigue cambiando y Sukuna se prepara: presión gradual que hace útiles las expediciones para recuperar/upgradear, sin fecha de ataque inventada ni prisa que elimine verano, descanso y convivencia. Los equipos de100 pisos, rotaciones y posibles entradas de Mau solo están por decidir; no se aprueba sólo ni party fija. [aclaración completa del creador](S5_SUKUNA_NIGHT_TALK_AND_EVOLUTION_CREATOR_FULL_PROPOSAL_2026-10-16.md).
 
-## Ficha privada por persona — trabajo pendiente antes de prosa
+## Campos de la ficha privada — inventario auditado ahora disponible
 
 Para60 + Ciel/entidades según corresponda, registrar:
 
@@ -36,12 +38,12 @@ Para60 + Ciel/entidades según corresponda, registrar:
 | Costes/reservas | Mana/CE/shadow y otros separados, recuperación/daño/incompatibilidades |
 | Entorno | Mundo, gate normal, roja,100 pisos: qué cambia y persiste al salir |
 | Equipo | Objeto/rango si existe/peso/movilidad/crafting/compatibilidad |
-| Progresión | Práctica, sincronización, nivel, recursos o condición concreta; recuperación100% antes de nuevas evoluciones, sin igualarla a piso/nivel100 |
+| Progresión | Práctica, sincronización, nivel y recursos separados; referencia recuperada de la habilidad/ramal que se mejora, sin exigir todo el kit ni igualarlo a piso/nivel100 |
 | Próximo intento | Pregunta, criterio observable y resultado, no unlock por capítulo |
 | Visibilidad | Qué muestra brazalete y quién sabe qué; secretos/unknowns |
 | Persona | Qué quiere y con quién vive ese desarrollo; no sólo ataques |
 
-**Aún no hay61 fichas completas.** El mapa de reparto mide presencia y no las sustituye. El viejo SYSTEMS_REGISTRY mezcla propuestas/estados históricos: no copiar porcentajes como canon. Completar con capítulos/fuentes antes de números exactos o permisos técnicos.
+**Ahora hay fichas auditadas de los60 residentes + Ciel y Sukuna en [inventario de60, bases y destinos S5](S5_POWER_BASELINES_AND_END_STATE_ROSTER_2026-10-16.md). Cobertura no equivale a porcentajes/puntos fuente confirmados: las casillas desconocidas siguen identificadas. El mapa de reparto mide presencia y no las sustituye. El viejo SYSTEMS_REGISTRY mezcla propuestas/estados históricos: no copiar porcentajes como canon. Completar con capítulos/fuentes antes de números exactos o permisos técnicos.
 
 La tabla mundo/gate/ambos debe contestar por capacidad dónde se gana, dónde se usa, qué persiste, qué se bloquea al salir y qué cuesta. Mau gana XP sólo contra criaturas de gates según dirección actual; no imponer su mecanismo a todos sin definirlo.
 
@@ -118,13 +120,13 @@ Verificar estado actual por separado, sin asumir que el aftermath S2 permanece i
 
 ## Aclaración de escena y primer ensayo
 
-El posible agujero negro de Frieren contra Sukuna está propuesto al cierre de la conversación S5. Noise alerta a Mau del ataque; él interviene para sostener la tregua, Sukuna se despide y hay corte. No es un antecedente S2 ni una evolución nueva ya ejecutada. Las primeras pruebas de las evoluciones que nazcan del estudio respetan el requisito100%; sus métodos y resultados siguen abiertos.
+El posible agujero negro de Frieren contra Sukuna está propuesto al cierre de la conversación S5. Noise alerta a Mau del ataque; él interviene para sostener la tregua, Sukuna se despide y hay corte. No es un antecedente S2 ni una evolución nueva ya ejecutada. Las primeras pruebas respetan la referencia/requisitos de cada habilidad o ramal implicado según la nueva regla delegada, no100% de todo el kit; métodos y resultados siguen abiertos.
 
 ## Shop/equipo/calidad de vida — upgrade gradual, no evolución personal concedida
 
 Ver [propuesta completa del upgrade del shop](S5_SHOP_UPGRADE_FOOD_QOL_CREATOR_FULL_PROPOSAL_2026-10-16.md) (original completo). E/D/C/B/A/S e inspección necesitan campos separados para gate/objeto/equipo; no asignar cifras/porcentajes de personajes por rango. El upgrade incorpora opciones, comida/bebida, coleccionables y QoL, con descubrimientos aplicables que luego se vuelven comprables. Save points para ciertos dungeons multinivel son tentativos; fijar progreso/reentrada/reset y owner/party, no resurrección o curación gratis.
 
-Umaru propone Coca/soda, bebidas hidratantes, geles, raciones, protein bars, shakes y postres; refrigeración mediante cristales conecta con energía/infraestructura. Son suministros y proyectos materiales, no combustible universal de CE/mana/shadow ni pociones. El requisito100% para nuevas evoluciones de técnicas no bloquea comprar herramientas, organizar comida o desarrollar refrigeración; sí conservar sus costes/condiciones propios.
+Umaru propone Coca/soda, bebidas hidratantes, geles, raciones, protein bars, shakes y postres; refrigeración mediante cristales conecta con energía/infraestructura. Son suministros y proyectos materiales, no combustible universal de CE/mana/shadow ni pociones. La regla de recuperación/evolución por habilidad no bloquea comprar herramientas, organizar comida o desarrollar refrigeración; sí conservar sus costes/condiciones propios.
 
 El intento previo de Senku cristal/bombilla falló: mostrar avance concreto, sin repetirlo como si nunca hubiera ocurrido. Encontrar una linterna puede abrir compra de esa utilidad; no vuelve común el equipo raro, todo el loot ni curación. Fichas de equipo/conocimiento y recursos siguen necesarias.
 
@@ -140,8 +142,14 @@ S5 ocupa unos cuatro meses de verano, ampliables. Antes de fijar resultados eleg
 
 Tres accesos en sombra aún distintos: monarca, ramal de shikigami (nomenclatura editorial Ten Shadows) y puerta de identidad/alcance por confirmar. Unirlos requiere dominar todos los shikigami; rueda/adaptación o soldados ya obtenidos no cuentan como domesticación. Ear ya tiene su episodio excepcional; White Divine Dog de Yuka es otra criatura. Fijar qué cuenta como ayuda externa/poder propio antes de cada ritual, sin extender la limitación particular de Ear a todo JJK por defecto.
 
-Después del Arquitecto: probar night shifts con sombras, reserva/rango de guardia y relevo para los demás; protección divina inalterada. La voz de Beru/Igris continúa más allá del combate. No reemplazar toda autonomía doméstica por vigilancia ilimitada de Mau. S5 puede cerrar con diferentes recuperaciones parciales y S6 trabajar el100% del punto de extracción, distinto de potencial último. Conserva100% de la base pertinente antes de nuevas evoluciones de esa técnica, no exige alcanzarlo todos a la vez ni al completar100 pisos.
+Después del Arquitecto: probar night shifts con sombras, reserva/rango de guardia y relevo para los demás; protección divina inalterada. La voz de Beru/Igris continúa más allá del combate. No reemplazar toda autonomía doméstica por vigilancia ilimitada de Mau. S5 puede cerrar con diferentes recuperaciones parciales y S6 trabajar el100% del punto de extracción, distinto de potencial último. La referencia pertinente es la habilidad/ramal que evoluciona, no todo el kit; no exige alcanzarla todos a la vez ni al completar100 pisos.
 
 ## Primera extracción — información, ejecución y aprendizaje
 
 [secuencia completa de Ciel/Arise y confirmación de Ear](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md#primera-extracción-del-dragón-rojo--aclaración-posterior-del-creador). Ciel analiza lo disponible y ayuda a hallar la confirmación, no administra omniscientemente el System. Mau ejecuta: el primer fallo propuesto y su enfoque/autoridad aprendidos con Ear explican por qué no basta una palabra. Noise conserva construcción/desbloqueo y la rueda adaptación. Recurso finito, uso privado/relay y Black Heart posterior siguen vigentes; no se ha fijado cantidad de intentos, palabras descartadas o coste exacto.
+
+## Regla y cierre individual vigentes
+
+**Regla posterior — decisión delegada del creador, 2026-10-16:** recuperación/evolución por habilidad o ramal; se puede superar una capacidad restituida con otras bloqueadas, sin porcentaje global ficticio. Sustituye el requisito anterior de TODO el kit100% antes de cualquier evolución. Operaciones multicomponente conservan todos sus requisitos/costes.100% usa extracción, no final de franquicia. [inventario de60, bases y destinos S5](S5_POWER_BASELINES_AND_END_STATE_ROSTER_2026-10-16.md) y [historial de cambios y consecuencias relacionales](S5_RELATIONSHIP_STATE_AND_CONSEQUENCES_2026-10-16.md). Los destinos son propuestas, no resultados escritos.
+
+Práctica exterior, visualización y dungeon tienen ahora hipótesis/pruebas separadas; XP de Mau no se impone al resto. Se auditaron fuentes/prosa y se preservan cifras históricas con su etiqueta. Rem100% es explícito; Eren≈10% se fechaDay172; Gojo conserva Infinity y Blue pequeño (ciruela enDay219), sin Red/Purple/Domain actualmente restituidos. Recuperación definitiva, permiso temporal, recursos, equipo y evolución no son la misma barra.

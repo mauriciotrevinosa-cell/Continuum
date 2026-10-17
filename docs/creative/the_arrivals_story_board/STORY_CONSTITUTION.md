@@ -341,6 +341,17 @@ Creator rules, 2026-10-05 to 2026-10-11. The Arrivals is a team effort, not a cr
 
 ---
 
+## 18.1 Persistent consequences and extraction baselines
+
+Creator request and delegated choice,2026-10-16; final documentation review2026-10-17. Full message and authority trail: [bases, inventario y regla vigente](S5_POWER_BASELINES_AND_END_STATE_ROSTER_2026-10-16.md); DH-114.
+
+- A change of volume, viewpoint or writing session does not reset a relationship. Preserve actual trust, promises, boundaries, privacy, affection and unresolved repairs; record what changed and the next consequence. One person's apology does not imply the other's acceptance. Current facts stay in CAST_LEDGER; [consecuencias relacionales](S5_RELATIONSHIP_STATE_AND_CONSEQUENCES_2026-10-16.md) holds linked event history, while scene plans remain future. No hypothetical example becomes an event.
+-100% means restoration of the character's exact extraction baseline, not the end of their franchise or final potential. Track body, memory, source version, equipment, partners and costs separately.
+- Under the creator's delegated universal choice, recovery/development is per ability or branch. A restored ability may exceed its original reference while other abilities remain locked; this supersedes the previous blanket full-kit100% prerequisite. Composite operations require every component/resource/control condition. A stronger Blue does not mean Gojo's whole kit is130% or restore Domain.
+- No fabricated exact percentages, no shared Jin-Woo System for all residents by inference, and no power restored merely because a plan schedules it. Unknown measurement is not zero ability. Temporary gate permission and stable outside recovery are distinct.
+
+---
+
 # 19. Final test
 
 Before forcing an episode, scene or character into the story, ask:

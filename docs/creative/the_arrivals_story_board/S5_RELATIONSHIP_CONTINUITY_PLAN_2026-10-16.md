@@ -145,3 +145,7 @@ R50 conserva el gag de boda pedido y ahora incorpora el recuerdo del Trial/páni
 [mapa V27–V36, breathers y método de producción](S5_VOLUME_MAP_BREATHERS_AND_READINESS_2026-10-16.md) añade colocación primaria/retornos para todas las unidades y acciones de vida autónoma: Momo usa su relevo, música propia Kessoku, ejercicio/juego del atelier y madre de Coco, gustos de las cinco, proyecto Marin/Wakana, estrellas/familia, ocio Shoko/Anko/Nazuna y voces independientes. Son propuestas a integrar, no capítulos ya cumplidos o nuevos hobbies certificados por fuente.
 
 Una escena puede divertir sin avanzar el plot. Mantener puentes breves con contenido entre grandes escenas de hermanos/familia/pareja; no corregir ausencia con desfile de nombres. Revisar al cerrar cada volumen lo escrito y actualizarlo en el ledger/handoff. El mapa no exige igual presencia o el mismo peso narrativo a los60.
+
+## Consecuencias persistentes — último requisito del creador
+
+[historial de cambios y consecuencias relacionales](S5_RELATIONSHIP_STATE_AND_CONSEQUENCES_2026-10-16.md) añade el seguimiento por evento real: causa/cambio, oyentes, estado de reparación, conducta que continúa y próximo retorno. CAST_LEDGER mantiene estado actual; R01–R63 mantienen futuros. La pelea Ori/Mau enV29 es sólo el ejemplo del fallo que evitar, no un capítulo aprobado. También registrar nuevos acuerdos, cercanía, confianza y roles, no sólo disputas. Actualizar en el mismo cambio que la prosa y revisar pendientes antes del bloque siguiente.

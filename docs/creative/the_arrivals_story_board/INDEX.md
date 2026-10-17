@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Última auditoría S5 — 2026-10-16:** [inventario de60, bases y destinos S5](S5_POWER_BASELINES_AND_END_STATE_ROSTER_2026-10-16.md) · [historial de cambios y consecuencias relacionales](S5_RELATIONSHIP_STATE_AND_CONSEQUENCES_2026-10-16.md).100%=extracción, mejoras por habilidad aun con kit incompleto; roster auditado de60+Ciel+Sukuna, porcentajes históricos separados y destinosS5 propuestos. Registro relacional mantiene consecuencias de escena a escena; no discusiónOri/MauV29 inventada. No prosaS5 nueva.
+
 > **Latest expansion after the original45-unit map, 2026-10-16:** [continuous Mau/Frieren romance and Himmel trigger](S5_MAU_FRIEREN_CONTINUOUS_ROMANCE_AND_HIMMEL_CREATOR_SEED_2026-10-16.md); [current54-unit map](S5_RELATIONSHIP_SCENE_PLACEMENT_AND_OPENING_TOBACCO_2026-10-16.md). More recurring couple outings/company, wedding-comment gag and a local Himmel arc; provisional units, no confirmed wedding or whole-season production.
 
 

@@ -1,5 +1,7 @@
 # S5 — ubicación de escenas de relaciones y tabaco en la apertura
 
+> **Actual production —2026-10-17:** [V27 The Way Home](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) is now a29-chapter draft, Days262–267; creator reading pending. [Production/exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md), [QA](S5_V27_CONTINUITY_QA_2026-10-17.md), [handoff](S5_PRODUCTION_HANDOFF_2026-10-16.md). Earlier unwritten/no-go-ahead notes below describe prior planning state; later volumes remain future.
+
 **Fecha:** 2026-10-16. **Estado:** MAPA DE TRABAJO PARA EL OUTLINE; escenas/unidades provisionales, no capítulos canónicos escritos o numerados. La dirección del creador se conserva íntegra; la colocación y ramas editoriales están marcadas como propuestas.
 
 ## Mensaje completo del creador
@@ -212,3 +214,7 @@ Los originales no se simplifican ni se reemplazan. Este mapa eleva colocación/r
 [mapa V27–V36, breathers y método de producción](S5_VOLUME_MAP_BREATHERS_AND_READINESS_2026-10-16.md) asigna un volumen primario a **cada R01–R63**, sin renumerarlas, y fija puentes que no esperan tres libros para retomar Bocchi/Yuka/Umaru/Ori. Las etiquetas A–H y las relaciones descritas arriba siguen vigentes; los volúmenes son colocación editorial P y se ajustan junto al retorno si cambia una escena.
 
 R01–R06/R46 se preparan paraV27 (el día familiar puede pasar al primer intervaloV28 si la recuperación lo requiere); R07–R11 paraV28; R12–R13 paraV29; recompensas/vida de casa30; verano31–35; final/guardias36. El día coral R20 sigue contando una vez y sus cuatro cortes no pagan el día de los tres, el fort o Queen2. No convertir63 unidades en63 capítulos obligatorios o las casillas de retorno en escenas ya escritas.
+
+## Actual V27 placements and carry-forward
+
+R01 tobacco fallback is #26 (empty starter frame, no crop); R02–R05 opening/return/briefing realized across#1–25; R06 family day #27–29 fully delivered. [Exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md) distinguishes actual placement from this older provisional table. Anniversary-duration seed shifts to openingV28. R15fort and R20whole coral day remain due/unplaced; R20 is not paid by the ribbon wake-up beat or three-person outing. Later dates/Queen2/RedGate still future.

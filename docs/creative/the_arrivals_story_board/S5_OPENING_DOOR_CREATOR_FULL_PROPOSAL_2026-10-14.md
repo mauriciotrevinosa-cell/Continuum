@@ -1,5 +1,7 @@
 # S5 opening — the door, Ori, Frieren and The Noise — full creator proposal
 
+> **Actual production —2026-10-17:** [V27 The Way Home](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) is now a29-chapter draft, Days262–267; creator reading pending. [Production/exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md), [QA](S5_V27_CONTINUITY_QA_2026-10-17.md), [handoff](S5_PRODUCTION_HANDOFF_2026-10-16.md). Earlier unwritten/no-go-ahead notes below describe prior planning state; later volumes remain future.
+
 > **Planning navigation — 2026-10-16:** [Integrated S5 v0.3](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md), [coverage audit](S5_PLAN_COMPLETENESS_AUDIT_2026-10-16.md) and [Sukuna work sheet](S5_SUKUNA_ARC_DEVELOPMENT_WORKSHEET_2026-10-16.md). Originals/history below remain intact; some old order/mapping notes are superseded. Current: door -> Exchange -> date -> Red Gate ->100 floors through summer -> Architect double-dungeon finale. Beru/Igris and BOTH dragons are specified later; other decisions remain open. Registered ideas are not complete arcs or permission for S5 prose.
 
 **Status:** CREATOR PROPOSAL IN DEVELOPMENT — NOT WRITTEN CHAPTERS / NOT FINAL CANON

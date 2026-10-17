@@ -38,7 +38,7 @@ Actualización de capacidad y relación se revisan juntas cuando se afectan: una
 
 ## Eventos de S5 producidos en este ciclo
 
-**Ninguno.** El día independiente de Mau conserva condición de borrador sin emplazamiento canónico. El próximo ID real es REL-S5-001; no hay discusión Ori/Mau V29 ni reconciliación V30 que cerrar ahora. El registro comienza con anclajes existentes a continuación, no con eventos nuevos simulados.
+**V27 producido,29 capítulos; aprobación del creador pendiente.** Los eventos reales de borrador REL-S5-001–008 se registran abajo. El día coral independiente continúa sin emplazamiento canónico. La pelea Ori/Mau V29 permanece ejemplo hipotético, no se ha escrito. Los anclajes A01–A12 siguientes son la entrada histórica S4; los deltas posteriores gobiernan la salidaV27.
 
 ## Anclajes auditados de entrada — historia que no puede reiniciarse
 
@@ -131,3 +131,71 @@ Los anclajes seleccionados verifican casos sensibles; no sustituyen el resto de 
 ## Retornos de S5 que siguen siendo planes
 
 Puerta/recuperación cambian confianza, promesa y apoyo; cena/aniversario, Queen2, día Ori-Mau-Frieren, día fort, cita Gojo/Shoko, boda/Himmel y llegadas tienen retornos en el mapa. Ninguno se marca resuelto por estar previsto. Si la nueva conversación Mau/Frieren sobre elección cierra una preocupación, conservar su resultado sin curar todos los triggers ni repetir esa misma conversación como primera en cada volumen. Fern compartir tareas es propuesta de cambio de rol/afecto, no pérdida del puesto ni enemistad. Las relaciones sin Mau se revisan con el mismo criterio.
+
+## V27 — eventos reales del borrador,2026-10-17
+
+Próximo ID: **REL-S5-009**. No equivalen a aprobación del creador. Referencias por número pertenecen al [índiceV27](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md).
+
+### REL-S5-001 — Ori / Mau / Frieren
+
+- **Fuente/tiempo:** V27 #3/#4/#13–14/#20/#25/#27–29, Days262–267 según escena.
+- **Cambio:** Mau cumple informar primero; Ori objeta el cruce, sigue siendo hija sin aprobarlo. Retorno y día familiar aportan confianza sin borrar temor ni malestar por vigilancia antigua.
+- **Quién sabe qué:** Ori/Frieren reciben relato #3; casa #4; presentes oyen cuenta divina #5. Momento exacto en que dejó de observar desconocido.
+- **Estado/residuo:** Acuerdo de aviso temprano en seguimiento; objeción no convertida en consentimiento retroactivo. No disputaV29 inventada.
+- **Retorno/consecuencia:** V28 conserva mapas/vida elegida y aviso temprano; Ori puede volver a preguntar por privacidad, no otra primera adopción.
+
+### REL-S5-002 — Mau / Frieren
+
+- **Fuente/tiempo:** V27 #7/#10–14/#20/#24/#27–29, Days262–267 según escena.
+- **Cambio:** Miedo de obligación→conversación real, espacio respetado, creencia en elección y compromiso de comunicar si cambia; afecto cotidiano continúa.
+- **Quién sabe qué:** Contenido completo #10 privado; crackers oyen sólo elección de Frieren #11–12. Gojo no recibe boda/Trial privado por vivir aquí.
+- **Estado/residuo:** Preocupación de la promesa reconocida y reparada para este episodio; futuro/costes/triggers abiertos. No boda aceptada ni certeza de eternidad.
+- **Retorno/consecuencia:** No repetir pelea como si no hablaron; futuras menciones de boda parten de esta historia, sin declarar trauma resuelto.
+
+### REL-S5-003 — Frieren / Maki / Mai / Seiko
+
+- **Fuente/tiempo:** V27 #7/#11–12, Days262–267 según escena.
+- **Cambio:** Maki pide espacio, Mai ofrece compañía y Frieren invita a crackers; habla/duerme/decide sin que le impongan perdón o alegría.
+- **Quién sabe qué:** Sólo lo compartido por Frieren; secretos de Mai y Fern/Stark no revelados.
+- **Estado/residuo:** Confianza continua, no nueva deuda ni obligación de resolver la pareja por ellas.
+- **Retorno/consecuencia:** Volver a disfrute/amistad además de crisis; confidencias y permiso para no contar conservados.
+
+### REL-S5-004 — Mau / Yuta / Rimuru / Gojo / Rem
+
+- **Fuente/tiempo:** V27 #8–9/#13/#19–22, Days262–267 según escena.
+- **Cambio:** Compañía sin votar por su vida; Yuta sigue valorado tras relato reanclaje; Rem pide/sostiene cuidado recíproco. Rimuru elige privacidad temporal y vuelve a su loft.
+- **Quién sabe qué:** No acceso colectivo a recuerdos del interior; Gojo nota caída, no todo corazón/Noise.
+- **Estado/residuo:** Continuidad positiva y apoyo recibido; no reemplazo de hermano por mentor ni reubicación de cuarto.
+- **Retorno/consecuencia:** Conservar iniciativa/compañía sin reducir a exámenes; cobertura de dos idiotas no derogada.
+
+### REL-S5-005 — Bocchi / Mau / Kita / banda
+
+- **Fuente/tiempo:** V27 #9/#23/#25, Days262–267 según escena.
+- **Cambio:** Ritmo compartido reaparece como pregunta musical de Bocchi y elección propia; banda tiene escena autónoma, Kita sigue pareja.
+- **Quién sabe qué:** Sin confidencias de pareja o estados mentales heredados.
+- **Estado/residuo:** Familiaridad fraterna reactivada en acciones, no primera relación nueva.
+- **Retorno/consecuencia:** Retornar a música/compañía después de nuevas expediciones; no volver a sólo saludo o desaparecer por otro arco.
+
+### REL-S5-006 — Mau / Shoko / Anko / Gojo
+
+- **Fuente/tiempo:** V27 #26, Days262–267 según escena.
+- **Cambio:** Mau muestra inicio de regalo/agradecimiento; Shoko recibe como persona además de médica. Anko reclama comicidad de intención y reserva qué pedirá.
+- **Quién sabe qué:** Observación de cigarrillo por consentimiento; ninguna receta/cultivo certificado.
+- **Estado/residuo:** Afecto positivo; Anko no tiene una pelea seria ni solicitud ya elegida. Gojo comparte el rato sin cita formal.
+- **Retorno/consecuencia:** Seguimiento de semillas/material/tiempo; Anko decide futuro pedido cuando corresponda, cita Gojo/Shoko sigue futura.
+
+### REL-S5-007 — Mau / Ori / Frieren — día elegido
+
+- **Fuente/tiempo:** V27 #27–29, Days262–267 según escena.
+- **Cambio:** Día completo para tres con desayuno, paseo interior, picnic/mapa, vuelta/cena/noche; cada uno elige y el padre recibe cuidados además de darlos.
+- **Quién sabe qué:** Mapa compartido pero Ori decide conservarlo en su cara de puerta; otros oyen historia y lo ven cuando ella lo enseña.
+- **Estado/residuo:** R06 cumplido; hábitos familiares continúan. R15fort y R20coral NO cumplidos.
+- **Retorno/consecuencia:** Mapa puede volver como objeto real; próximo tiempo juntos no es nuevo primer día feliz ni paga fort por sustitución.
+
+### REL-S5-008 — Casa / Mau — revelación elegida
+
+- **Fuente/tiempo:** V27 #5–6/#24, Days262–267 según escena.
+- **Cambio:** Exposición divina y posterior relato elegido cambian conocimiento compartido; no permiso para exigir memoria completa o nueva autoridad sobre Mau.
+- **Quién sabe qué:** Cuenta divina pública y Noise explicados a presentes; cuenta interna no grabación Ciel. Intento real de la diosa y origen/especie siguen desconocidos.
+- **Estado/residuo:** Preguntas técnicas abiertas; aprendizaje no equivale a poder restaurado. Mantener confianza/aviso sin convertir descanso en sanción.
+- **Retorno/consecuencia:** Revisar qué sabe cada nuevo participante/llegada antes de transmitir estas revelaciones; no exposición como primera vez en V28.

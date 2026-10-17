@@ -1,5 +1,7 @@
 # S5 — mapa de volúmenes, breathers y preparación de producción
 
+> **Actual production —2026-10-17:** [V27 The Way Home](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) is now a29-chapter draft, Days262–267; creator reading pending. [Production/exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md), [QA](S5_V27_CONTINUITY_QA_2026-10-17.md), [handoff](S5_PRODUCTION_HANDOFF_2026-10-16.md). Earlier unwritten/no-go-ahead notes below describe prior planning state; later volumes remain future.
+
 **Fecha:** 2026-10-16. **Estado:** propuesta editorial de distribución y método solicitada por el creador; lista para iniciar V27 como siguiente entrega cuando lo indique. No son volúmenes ya escritos, capítulos publicados o autorización de producir toda S5 de corrida. Las ubicaciones pueden ajustarse a la prosa sin perder contenido ni alterar su orden causal.
 
 ## Petición íntegra del creador

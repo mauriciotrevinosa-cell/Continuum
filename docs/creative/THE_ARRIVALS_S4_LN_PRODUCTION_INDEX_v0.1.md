@@ -1,5 +1,7 @@
 # The Arrivals — Season 4 Light Novel Production Index v0.1
 
+> **Subsequent production,2026-10-17:** S5 has since received creator go-ahead; [V27/29 chapters](THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) is produced as a reading draft. The S4 completion statements below retain their historical scope. All S4 chapter identities/bodies remain unchanged.
+
 **Status:** LN PRODUCTION DRAFT — S4 v0.1
 **Season:** 4
 **Branch:** `m3/critical-path`

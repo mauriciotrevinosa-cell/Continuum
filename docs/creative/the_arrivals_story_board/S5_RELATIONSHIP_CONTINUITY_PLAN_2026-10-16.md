@@ -1,5 +1,7 @@
 # S5 — continuidad de relaciones y reparto v0.1
 
+> **Actual production —2026-10-17:** [V27 The Way Home](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) is now a29-chapter draft, Days262–267; creator reading pending. [Production/exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md), [QA](S5_V27_CONTINUITY_QA_2026-10-17.md), [handoff](S5_PRODUCTION_HANDOFF_2026-10-16.md). Earlier unwritten/no-go-ahead notes below describe prior planning state; later volumes remain future.
+
 **Fecha:** 2026-10-16. **Estado:** revisión enfocada y propuestas, no auditoría completa de743 capítulos ni cambio de S4. **Contiene referencias internas de V26; no adelantar escenas al creador.**
 
 [Temporada integrada](S5_INTEGRATED_SEASON_PROPOSAL_2026-10-16.md) · [Mapa de60 + Ciel](S5_CAST_SPOTLIGHT_MAP_2026-10-16.md).

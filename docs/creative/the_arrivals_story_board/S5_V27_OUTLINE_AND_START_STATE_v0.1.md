@@ -1,5 +1,7 @@
 # S5 / V27 — outline de apertura y estado de entrada v0.1
 
+> **Actual production —2026-10-17:** [V27 The Way Home](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) is now a29-chapter draft, Days262–267; creator reading pending. [Production/exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md), [QA](S5_V27_CONTINUITY_QA_2026-10-17.md), [handoff](S5_PRODUCTION_HANDOFF_2026-10-16.md). Earlier unwritten/no-go-ahead notes below describe prior planning state; later volumes remain future.
+
 **Fecha:** 2026-10-16. **Estado:** preparación editorial lista para el primer volumen de S5; no capítulos producidos o publicados. Colocación propuesta dentro del [mapa V27–V36](S5_VOLUME_MAP_BREATHERS_AND_READINESS_2026-10-16.md). U01–U32 son unidades de outline, no IDs canónicos ni promesa de32 capítulos.
 
 ## Punto de entrada verificado — interno, contiene el final de S4
@@ -83,3 +85,7 @@ Cada unidad puede ocupar un capítulo, varios o compartirlo. Los bloques facilit
 ## Salida que se entregará al terminar V27
 
 Registrar qué ocurrió y quién lo sabe, el día/reloj efectivo, recuperación/guardrails, estado de la puerta y el acuerdo Noise sin borrar leaks. Actualizar el ledger sólo con escenas reales, el retorno de relaciones, semilla de aniversario y qué queda por cumplir enV28. Validar índices/IDs y, si se publica, sincronizar/verificar el cuerpo servido. No declarar el texto aprobado por el creador porque terminó una QA.
+
+## Execution result —2026-10-17
+
+U01–U32 delivered through29 real chapters, not32 imposed cuts. [QA unit-to-prose table](S5_V27_CONTINUITY_QA_2026-10-17.md) and [exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md). Tobacco uses authorized post-recovery fallback in #26. R06 is complete #27–29, not pushed toV28. The anniversary seed requested in the exit checklist is explicitly moved to openingV28 before outing/Exchange; do not claim it occurred inV27. Source outline stays as history, not new instructions to repeat completed scenes.

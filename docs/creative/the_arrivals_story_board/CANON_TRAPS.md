@@ -367,3 +367,14 @@ not on this list. Add a line every time the creator catches a new slip.
 - Creator clarification, 2026-10-16: S5 resident cast consists of the main-house people; the others have left. Do not keep departed register/refuge staff or require an empty Arrival House to have daily opening/coverage for its own sake.
 - The creator permits discontinuing daily operations. The proposed new Diablo reception shift was withdrawn; Jinshi can be offered household record work under Fern. This is a proposal, not a new appointment already lived in canon.
 - Ending daily operations does not demolish/reassign the building, change coin/arrival rules or delete trade with external people. Preserve S4 historical functions. [Full correction and current proposal](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md).
+
+## S5 / V27 — produced-draft continuity (2026-10-17)
+
+- S5 starts with the exact Stay continuation, no S4 rewrite. Crossing closes the arrival-state door at the twelve-hour limit; return minutes later same Day263. Weekly dungeon unchanged; not a portable heart portal.
+- Goddess's reanchoring/Ori-origin statements have public listeners in#5; they do not solve Mau's nature, restore an old contract, guarantee return or prove Ori could be erased. Deal only her direct harm to Ori/Frieren, not universal safety.
+- Noise is constructed defence, not a second soul or wheel voice. Choice agreement does not stop construction/adaptation/leaks, open walls, grant flight/System/Arise or refund costs. Ciel has Mau's later account, not an interior recording.
+- #10 couple talk is complete and private; do not make the same obligation dispute a new first discovery inV28. She offers a way to report changed wishes; he agrees. No engagement or processing-complete wedding trauma.
+- F misses farewell after real notice/emotional difficulty, not because someone withheld the time or needing space was narratively wrong. Recovery keeps her in same east bed, with finite medical access/shared help. Ordinary roof/crackers Day263 accounted for; prior emergency-night table distinct.
+- Ori remains daughter while angry; earlier surveillance question remains open as to timing. #27–29 chosen family day is fulfilled and map is on HER side of connecting door. Fort day and full coral Mau-day not fulfilled by it.
+- Tobacco starter #26 has no viable seeds/plants yet. Cigarette intact, consented observation only; cured leaf not seed. Anko future demand remains undecided; two acquired flower books not automatically mastered.
+- Anniversary seed moved explicitly to openingV28, before grimoire outing. No Exchange/romantic dinner/RedGate/tower/new arrivals yet; no first natural flight inV27.

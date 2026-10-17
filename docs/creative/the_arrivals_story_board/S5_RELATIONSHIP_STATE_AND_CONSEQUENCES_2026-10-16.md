@@ -199,3 +199,25 @@ Próximo ID: **REL-S5-009**. No equivalen a aprobación del creador. Referencias
 - **Quién sabe qué:** Cuenta divina pública y Noise explicados a presentes; cuenta interna no grabación Ciel. Intento real de la diosa y origen/especie siguen desconocidos.
 - **Estado/residuo:** Preguntas técnicas abiertas; aprendizaje no equivale a poder restaurado. Mantener confianza/aviso sin convertir descanso en sanción.
 - **Retorno/consecuencia:** Revisar qué sabe cada nuevo participante/llegada antes de transmitir estas revelaciones; no exposición como primera vez en V28.
+
+## V28 — actual draft events,2026-10-17
+
+Next ID **REL-S5-015**. Source: [V28index](../THE_ARRIVALS_LN_VOLUME_28_INDEX_v0.1.md). Notcreatorapproval.
+
+### REL-S5-009 — Mau / Frieren, overdue anniversary and reciprocal gifts
+Days268/277,#2/#23–25. Bothacknowledgemissedanniversary; noexactdateorfirstdateclaim. Dinneroccurs,grimoiregiftsalreadygiven,existingcompasstransfersF→Mau; choice/futureaffectioncontinueswithoutresettingV27conflict. Privateconversation,notwholehouseknowledge. Next: excitement/preps/leadership,continuedordinaryaffection; notautomaticengagement.
+
+### REL-S5-010 — Mau / Noise
+Day268–269,#5–12. Contactanalysisaccidentusesactivationword, nottakoverintent. Mauhears‘sorry’/pause/‘yes’; hemaintainstrustandcooperateswithfunction-readingprecautions. Building/leaksnotcured. Onlychosenaccountshared; noindependentsoul.
+
+### REL-S5-011 — Mau / Ori / household notice
+#3/#10–11/#23/#25. Earlynoticekept,accidentfrightnotretroactiveapproval, returnmapconversationanddaughter'sdinnercontributioncontinue. Oriisnotmother/cameraorromanticrival. Nextnormalpresence/promisehabit; fortdaystillowed.
+
+### REL-S5-012 — Mau / Yuka / Yuta / Milim
+#3–17. Partychoosesouting,waitsatdisappearancesite,Yutacatchesreturn,Yukaverdictisaccidentandkeepsfright,notpretendingnothinghappened. Rope/foodteasingandsecondsuccessfuloutingrestoreordinaryrhythm; Yutanotfailedhealer/placeholderGojo. NoWar/Jin-Woonotificationknowledgeautomaticallyshared.
+
+### REL-S5-013 — Bocchi / Mau; household without Mau
+#14/#20/#21. Bocchiarguesmusicalending,Maulistensandaskshelp; Momo/Okarun/Rem/Ram/Marin/Wakanaownordinaryproblem; Fern/Starkchoosecompany. Existingcouplespreserved, noprivatesecretsinherited. Maintainnextvolumesbeyondcasualmentions.
+
+### REL-S5-014 — Fern / Frieren / Mau, expedition time
+#21/#25. Fernagreespracticalcoverage/supplies; FnotyetaskedFernpersonally; Mauleavesansweropen. Noremovalofroleorfullshared-workemotionalarcclaimed. Fchoosesplanninggift,notpermissiontowantit. V29mustshowactualrecruitment; wedding/Queen2/fortdaysremainfuture.

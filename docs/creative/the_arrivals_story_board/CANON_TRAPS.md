@@ -378,3 +378,10 @@ not on this list. Add a line every time the creator catches a new slip.
 - Ori remains daughter while angry; earlier surveillance question remains open as to timing. #27–29 chosen family day is fulfilled and map is on HER side of connecting door. Fort day and full coral Mau-day not fulfilled by it.
 - Tobacco starter #26 has no viable seeds/plants yet. Cigarette intact, consented observation only; cured leaf not seed. Anko future demand remains undecided; two acquired flower books not automatically mastered.
 - Anniversary seed moved explicitly to openingV28, before grimoire outing. No Exchange/romantic dinner/RedGate/tower/new arrivals yet; no first natural flight inV27.
+
+## V28 draft continuity traps —2026-10-17
+
+- Existing silvercompassfromGojo'sDay169mimicrun passesFrieren→Mau atV28#24anniversarydinner. Crackedface/tarnishretained,needlepointsF; nohealth/universaldistancetrackingguarantee. Do notrecreateit/re-giftasstillF's.
+- Exchange268/rest269/laternormalcompletion270/date277; weeklynormalreset273next280. Dateisbelatedanniversary,notfirstdate/norfirstyearjustelapsed. #25leaves3preparationdays,notalreadyRedGate.
+- NoiseaccidentalactivationnotintentionaltakeoverafterV27agreement; ‘sorry’/‘yes’doesnotendbuilding/leaks. WarprivateJin-WoonotificationnotMau/houseknowledge. Cielonlypostreturnestimate/chosenaccount, noliveotherworldrecord.
+- V28privateLevel1statstrunknotarmy/BlackHeart/Systemforothers; speciesblank. 3normalrewardbooksnot2futureRedGatebooks/Queen2. Naturalhoverexistswithload/duration/medicalconditions,notfreecombatflight. Blueprintnotfullenergygrid/shopupgrade.

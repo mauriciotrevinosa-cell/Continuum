@@ -5,9 +5,9 @@
 **Season:** 5
 **Coverage:** S5E07–S5E11
 **Volume title:** **A Little Longer**
-**Chapter count:** 20
+**Chapter count:** 25
 
-**Production state:** PARTIAL CHECKPOINT. More chapters follow; not creator-approved.
+**Production state:** COMPLETE PRODUCTION DRAFT; creator review pending. Days268–277. No RedGate/Arise/tower or Architect encounter yet.
 
 | Order | Source episode | LN chapter | File |
 |---:|---|---|---|
@@ -31,3 +31,10 @@
 | 18 | S5E10 | Level One | `THE_ARRIVALS_S5E10_LN_CHAPTER_03_LEVEL_ONE_v0.1.md` |
 | 19 | S5E10 | A Small Distance | `THE_ARRIVALS_S5E10_LN_CHAPTER_04_A_SMALL_DISTANCE_v0.1.md` |
 | 20 | S5E10 | The Price Of Dinner | `THE_ARRIVALS_S5E10_LN_CHAPTER_05_THE_PRICE_OF_DINNER_v0.1.md` |
+| 21 | S5E11 | Terms | `THE_ARRIVALS_S5E11_LN_CHAPTER_01_TERMS_v0.1.md` |
+| 22 | S5E11 | Room For Two | `THE_ARRIVALS_S5E11_LN_CHAPTER_02_ROOM_FOR_TWO_v0.1.md` |
+| 23 | S5E11 | The Silver Needle | `THE_ARRIVALS_S5E11_LN_CHAPTER_03_THE_SILVER_NEEDLE_v0.1.md` |
+| 24 | S5E11 | A Little Longer | `THE_ARRIVALS_S5E11_LN_CHAPTER_04_A_LITTLE_LONGER_v0.1.md` |
+| 25 | S5E11 | Your Turn | `THE_ARRIVALS_S5E11_LN_CHAPTER_05_YOUR_TURN_v0.1.md` |
+
+Previous volume: [V27 — The Way Home](THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md).

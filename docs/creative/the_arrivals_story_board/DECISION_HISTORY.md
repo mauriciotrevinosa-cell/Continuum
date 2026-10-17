@@ -1816,3 +1816,7 @@ Creator explicitly says: “perfecto me gusta lo que hiciste arrancate con vol 2
 Delivered door/questions/Ori first, public DH067 and limited12h bargain, chosen company/space/crackers, missed farewell, defence-Noise agreement without cure, witnessed memories/return/catch, fever care inversion/independent band comedy, chosen briefing, tobacco fallback and full three-person family day. Current-state and REL-S5-001–008 consequences recorded; no new combat-kit recovery. Book acquisition/mastery qualifier corrected in source audit.
 
 Tobacco uses creator-authorized post-return placement, with empty frame/no seed and intact cigarette. Anniversary-duration seed deliberately moves to beginningV28 before outing/Exchange; not a scene completed inV27. Fort day/R20 coral remain distinct/pending. No V28 or rest-of-season prose in this cycle, no prior chapter body or unrelated application/provider changes. Actual commit/push/reader verification recorded only once executed.
+
+## DH-116 — V28 production and creator anniversary compass addition,2026-10-17
+
+Creator asksV28thencontinuousproductionwithpartialpushesabout20minutes,notendturnforeachcommit. Additionalexactdirection: Frieren givesMaucompassthatpointsatherasanniversarygift. SourcecheckedS4E27#2: oldsilvercrackedcompassGojo→F, nowgiftF→MauV28#24. 25chapterdraftandcurrentstatepersisted; notcreator-approved. [Record](S5_V28_PRODUCTION_RECORD_2026-10-17.md). UpcomingV29proseauthorizedwithincontinuousrequest, mustcarryday277/280calendarandconsequences.

@@ -84,7 +84,7 @@ Frieren looked at the bed.
 
 She nodded.
 
-"He held an open state for twice the longest he has ever held. That's her comparison, not a new safe time. He needs the rest. But there's a new structure being built around physical capacity. Something read an existing system. It's still being studied."
+"Her first estimate is twice the longest he has ever held an open state. It's a comparison from the condition he returned in, not a recording and not a new safe time. He needs the rest. But there's a new structure being built around physical capacity. Something read an existing system. It's still being studied."
 
 "Something?"
 

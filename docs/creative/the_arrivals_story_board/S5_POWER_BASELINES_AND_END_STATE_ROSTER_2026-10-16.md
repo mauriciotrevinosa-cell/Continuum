@@ -878,3 +878,7 @@ Las metas de Gojo/Yuta y los demás se concretan en la tabla de destinos anterio
 ## Próximo trabajo localizado
 
 Antes del primer diagnóstico con brazaletes, normalizar las versiones exactas donde faltan, elegir qué información muestran y distinguir medida/historial/propuesta. Antes de cada unlock, cerrar sólo la ficha de esa operación y su consecuencia. El inventario ya cubre a todos; los blancos no se transforman en hechos para que parezca completo. Nuevas llegadas Taihei/Touka/Ichika/Armin requieren moneda, consentimiento, versión fuente y ficha nueva cuando realmente lleguen; quinto no elegido. No se escribióV27 ni se activóCAL-004 en esta pasada.
+
+## Produced delta — V28,2026-10-17
+
+[V28record](S5_V28_PRODUCTION_RECORD_2026-10-17.md), currentdraftnotcreatorapproval. Mau: accidentalExchangeacquiresunfinishedbody/statstrunkanddevelopingseed; personalinterfaceLevel1/speciesblank, unreadablefields, noArise/army/BlackHeart/universalreservoir. Trainingnewnaturalhover: same tinyownmana+efficiency+F instruction, firstlow272thennear1munloadedandbriefslowlowloaded276; read/walk/cargolimits distinct. Guardrailsrestored; normalgatefinewithmedicalscope, otherworlduncapwasbodyharm, notrecoveredsource100%. Cielinitialestimate/accountnotlivewarrecord. No newpercentagesforanyone. Someshadowlinkunderstudy, noJin-Woohotlineyet. Braceletshowcaseawaitsroja. Currentrestrictionsnotdeletedbyasinglewin.

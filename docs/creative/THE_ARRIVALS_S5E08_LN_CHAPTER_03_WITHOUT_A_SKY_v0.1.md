@@ -72,7 +72,7 @@ A rank of soldiers went down all at once.
 
 Beyond them, the light bent.
 
-Mau braced his feet and opened a shape he had once seen Frieren make. Space gathered at a point in front of the breach. Too small, too uneven. The pull dragged loose stone, a broken blade, the edge of his own coat toward it.
+Mau braced his feet and opened a shape he had once seen Frieren make. Space gathered at a point in front of the breach. Too small, too uneven. The pull dragged loose stone, a broken blade, the edge of his own shirt toward it.
 
 He closed it before it took his arm.
 

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 29
 **Season:** 5
-**Coverage:** S5E25–S5E30
+**Coverage:** S5E25–S5E31
 **Volume title:** **The Days Between**
-**Chapter files:** 27
+**Chapter files:** 31
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 onward.
 
@@ -40,3 +40,7 @@
 | 25 | S5E30 | Somewhere Nobody Needs You | `THE_ARRIVALS_S5E30_LN_CHAPTER_01_SOMEWHERE_NOBODY_NEEDS_YOU_v0.1.md` |
 | 26 | S5E30 | First Light | `THE_ARRIVALS_S5E30_LN_CHAPTER_02_FIRST_LIGHT_v0.1.md` |
 | 27 | S5E30 | The Fourth Floor | `THE_ARRIVALS_S5E30_LN_CHAPTER_03_THE_FOURTH_FLOOR_v0.1.md` |
+| 28 | S5E30 | The Grass That Lights Up | `THE_ARRIVALS_S5E30_LN_CHAPTER_04_THE_GRASS_THAT_LIGHTS_UP_v0.1.md` |
+| 29 | S5E31 | In and Out | `THE_ARRIVALS_S5E31_LN_CHAPTER_01_IN_AND_OUT_v0.1.md` |
+| 30 | S5E31 | Seeds | `THE_ARRIVALS_S5E31_LN_CHAPTER_02_SEEDS_v0.1.md` |
+| 31 | S5E31 | The Second Bowl | `THE_ARRIVALS_S5E31_LN_CHAPTER_03_THE_SECOND_BOWL_v0.1.md` |

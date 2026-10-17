@@ -1,6 +1,12 @@
 # S5 — current production handoff
 
-**Updated:** 2026-10-17. **Produced:** V27–29,84 chapters. All remain production drafts pending creator review. [V29 exact exit state](S5_V29_PRODUCTION_RECORD_2026-10-17.md), [index](../THE_ARRIVALS_LN_VOLUME_29_INDEX_v0.1.md), [QA](S5_V29_CONTINUITY_QA_2026-10-17.md).
+**Updated:**2026-10-17. **Current actual stop:** V30 partial chapter10, Day284 bedtime. **Next:** chapter11 / S5E20 chapter01. V28/V29 complete and reader-verified; V30 has ten saved chapters but is NOT a finished volume.
+
+[V30 exact events, constraints and remaining work](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md). Read this first, not the older V29-only entry below. Queen2's two days281–282 and separate full fort day284 are now fulfilled; the small reciprocal outing283 also happened. Do not promise these again or spend the separate whole Mau-day R20. No new combat unlock, point spending, shop application, relocation, role restructuring, Sukuna talk or tower activity has been written inV30 yet.
+
+Batch so far: V28 25 chapters +V29 30 complete, plus10 partialV30. Partial Git checkpoints are intentional creator-requested backups. Publication remains29volumes/827chapters at6f9ff2f; no partialV30 resync. Reader progress untouched. Future work continues the partial volume rather than starting over or asking permission again for already authorized production.
+
+## Completed V29 entry context (historical)
 
 ## Real stopping point
 

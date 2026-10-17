@@ -31,3 +31,7 @@ Frieren led the week, remains enthusiastic and close to Mau, and has not become 
 ## Next work, not yet produced
 
 Start V30 at S5E18. Rest and the two-day Queen2 return must be lived, not a caption; the fort still gets its own time. Study bracelets with consent and actual source baselines; unknown fields cannot become made-up percentages. Plan one-site relocation with the household/tree/root-circle lock, apply the modest shop upgrade only after inspecting it, and prepare for the key's opening after the breathing interval. Read the full Sukuna night-talk/vow/evolution packet before that scene; no invented hooded-guy identity or restored sacrificed WCS. The tower/Architect/BlackHeart finale remains later.
+
+## Verified reader delivery
+
+Published from `6f9ff2f0253196046f6e68d42df02b32eab2c8a2`: **29 volumes /827 chapters**. All30 new chapter bodies and index exactly match committed text;825 prior source blobs and IDs preserved.176 structural/publication assertions passed. Existing Git project fetched exact SHA, reader links/order and V28→V29 navigation verified. No browser/JS/localStorage changes; reading bookmark untouched. Creator review remains pending.

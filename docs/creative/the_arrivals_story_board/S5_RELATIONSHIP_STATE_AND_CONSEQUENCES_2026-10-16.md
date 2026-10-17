@@ -246,3 +246,16 @@ Days278–280, #2/#9/#16/#23/#30. Frieren asks Fern to travel with her, gives sp
 
 ### REL-S5-021 — Mau / household / new resources
 #27–30. Reports and treatment precede tests. Loot is common record, personal points unspent, fields shared by choice, no family claim to memories. Mau rests rather than filling every role; Ori maps and promised fort day persist. New shadow not already an infinite night guard or replacement for everyone else's life.
+
+## V30 partial — actual opening events,2026-10-17
+
+Next ID: **REL-S5-025**. Only chapters1–10 exist. [Exact continuation](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md).
+
+### REL-S5-022 — Mau / Frieren, Queen2
+Days281–282, #1–5. Existing crown/playful pass, two actual days of reading/comedy/limited hover and care; choice remains mutual, no binding contract or jurisdiction over others. R14 now paid. End asks for reciprocal outing, no new marriage commitment or promise crisis.
+
+### REL-S5-023 — Frieren / Mau, reciprocal outing
+Day283,#6. She prepares food and joins an ordinary interest he chooses (stone-skipping), with no useful mission and no book read despite bringing one. R47 delivered; future affection builds on it. Not first date or full all-cast Mau-day.
+
+### REL-S5-024 — Mau / fort and independent friends
+Day284,#7–10. Owed R15 full fort day fulfilled from breakfast through bedtime. Fort organizes, Mau joins. Coco/Suika decisions, Bocchi music choice/Kita's support/band input, Yuka/Umaru game interests, Ori family and Vamola presence survive. Fern belongs without accepting sister title; Nazuna's evening schedule respected. No one is newly admitted or emotionally cured. Next meetings can remember sock game/music changes rather than returning to a promise never kept. R20 remains distinct and open.

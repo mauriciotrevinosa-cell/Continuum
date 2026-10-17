@@ -1,5 +1,7 @@
 # The Arrivals: cast ledger (living document, created 2026-10-10)
 
+> **Current partialV30 stop: Day284 bedtime, chapter10.** [Exact saved state](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md). Queen2 and fort day now delivered; small reciprocal outing also actual. Powers/rewards unchanged fromV29. RemainingV30 not written; prior notices are dated entry context.
+
 > **Latest produced state: V29, Day280 evening.** [Exact exit record](S5_V29_PRODUCTION_RECORD_2026-10-17.md), REL-S5-015–021 and the appended power delta govern current changes. Mau now has one stored dragon, Level3/ten unspent points and bounded operations; no BlackHeart or army. Queen2/fort time remain future; older notices below are historical.
 
 > **Current produced state:** V28draftendsDay277; [exit record](S5_V28_PRODUCTION_RECORD_2026-10-17.md) and REL-S5-009–014 supersede older entry notices for new events. S4 fichas remain historical extraction/arrival evidence. New compasscustodianMau; unfinishedprivateLevel1structure; naturalhoverlimited; noRedGate/Arise/BlackHeartyet.

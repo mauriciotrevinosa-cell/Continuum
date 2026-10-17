@@ -10,3 +10,7 @@
 - Rewards: two physical books, distinct older books, component charge/mounting costs,100 removable bracelets with chosen visibility/calibration, owner entry permits companions, seven-day key interval. One-time linked entrance/shop relocation and modest expansion unused, no duplicated shop or instant home rebuild.
 - Relationships: compass custody maintained, no new first date/confession or renewed promise crisis; Ori family/map/fort debt, Fern praise and Stark affection, Yuka grandparents/siblings, Milim autonomy, Gojo/Shoko invitation. Outside household hasn't vanished; its short clock is respected.
 - Reader/source preservation and publication: verified separately below. Tests here are continuity/structural checks, not claims of literary infallibility or engineering regression tests.
+
+## Verified reader delivery
+
+Published from `6f9ff2f0253196046f6e68d42df02b32eab2c8a2`: **29 volumes /827 chapters**. All30 new chapter bodies and index exactly match committed text;825 prior source blobs and IDs preserved.176 structural/publication assertions passed. Existing Git project fetched exact SHA, reader links/order and V28→V29 navigation verified. No browser/JS/localStorage changes; reading bookmark untouched. Creator review remains pending.

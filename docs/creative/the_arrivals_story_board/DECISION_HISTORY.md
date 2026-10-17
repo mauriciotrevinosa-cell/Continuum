@@ -1824,3 +1824,7 @@ Creator asksV28thencontinuousproductionwithpartialpushesabout20minutes,notendtur
 ## DH-117 — V29 continuous-production batch,2026-10-17
 
 Following the creator's request to continue after partial pushes, V29 is written as30shorter reading chapters, with real week-long travel/camps/relationships before dragon/rewards/return. First20 pushed separately before ending. [Exact produced state and remaining work](S5_V29_PRODUCTION_RECORD_2026-10-17.md). Engineering/provider changes not included. This registers written state, not creator approval of the draft.
+
+## DH-118 — continuous batch checkpoint, partialV30,2026-10-17
+
+V28/V29 complete and published; continuation produced ten openingV30 chapters with Queen2/reciprocal outing/owed fort day. Partial backup requested by creator, not a finished-volume or creator-approval claim. [Exact continuation](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md). No shop/role/Sukuna/tower scenes claimed by presence in a plan. Reader intentionally remains at last complete source; no browser bookmark writes.

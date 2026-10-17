@@ -55,3 +55,23 @@ The interleaved map in S5_VOLUME_MAP_BREATHERS_AND_READINESS still holds; only t
 
 ### V29 work log (Claude, 2026-10-17)
 Next block: R16 Gojo/Shoko date, R34 star-naming night, a tower visit with Frieren in the party, R23 Ori's plan, R24–R26 the brothers and the four, R28 Nazuna, R32 tobacco progress. **Taihei (R60) is held for the creator.**
+
+### Facts established in V29 #25–#35 (Claude) — keep consistent
+- **Day 292 (R16):** Gojo and Shoko's first afternoon, at the river bend on the inside path. They agree on "next week". Maomao covers the clinic. Shoko's cigarette stays unlit.
+- **Day 293 (R34):** the telescope's first light, on the east roof. Star names, recorded on the back of Umaru's invitation card:
+  - *The Hundred and First* (Senku)
+  - *Lillian* (Byakuya)
+  - *the Bird* (Suika)
+  - *the Ministry* and *Taihei (later)* (Umaru)
+  - *The Party* (Frieren)
+  - *Still Here* (Mau)
+- **Day 295, tower floor 4:** the flooded platform. Frieren lit the lamps from the far end first. Senku recognises the traffic signal from pre-stone Japan and warns against building a theory on one lamp. Frieren keeps a notebook page, *Things in the tower Senku knows*.
+- **Day 296 (R23 + R28):** fireflies in the long grass by the north field, inside the lime. Ori's own plan. Nazuna had kept them secret so a child would find them. Ori's drawing sits on the east-room shelf beside the five flowers.
+- **Day 297 (R25/R26):** IN/OUT pegs on the east-room closet door, blue (Rimuru) and grey (Mau), with a green one promised for Frieren. Whoever is in has the house. The roof hatch was rehung and still squeaks a little.
+- **Day 298 (R32):** Hollis traded a lamp chimney for seed from an old farmer's pipe-leaf near Fallow. Half was planted in the Day-266 box, half kept dry. It may sprout in ~10 days. Ciel can compare only once a leaf exists. Anko has narrowed her request to three options and will decide when it sprouts.
+- **Day 299 (R24):** Yuta is learning Momo's leek soup to cook for Maki in secret ("less worrying, more salt"). Mau tastes each attempt. It's ready when Momo tastes it and says nothing.
+- **Day 300:** the five recall the **S2E22 festival** (banners, Coco/Qifrey's floating lights, Bocchi in the music corner, Umaru removed from the snack table). Kusuri wants to run a herb-fortune stall if there is a festival; Shizuka and Nano want to help with the lights. Seed only; no festival is decided.
+- **Day 302, tower floor 5:** an overgrown terrace with thorn-dogs. **First transfer point:** owner progress is secured at 5, later expeditions may begin at Floor 1 or 5, and a small return frame beside the seal goes straight home. Mau is level 7 with 30 unspent points. Yuka's rope practice (fence posts, every evening, watched by Maki). Maki wears the pale flower from the terrace tree.
+- **Day 303 (R29):** a plain-pencil straight-line and curve exercise, no ink. Coco's mother draws perfectly straight from a lifetime of sewing.
+- **Day 304 (R33):** bone dice from Fallow. Maomao knows the not-quite-square die. Jinshi rolls four fives.
+- **Held for the creator:** Taihei's arrival (R60). V29 continues with more tower stretches and household units up to ~55–65 chapters.

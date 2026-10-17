@@ -71,3 +71,14 @@ This checks current29-chapter narrative against the complete creator opening/cla
 ## Delivery result
 
 PENDING at narrative integration: validate IDs/orders/titles/links and draft hashes, commit/push only the story manifest, then resync the Git-backed reader on its actual API8001 and compare all new bodies. Do not infer web freshness from a push or replace existing IDs/bookmarks. Final delivery results will be appended after verification.
+
+## Verified delivery —2026-10-17
+
+- Payload committed/pushed as `a01de6bb8403706856b4ff9d9e21c923fbb9609a` on `m3/critical-path`; remote tip matched before publication.
+- Local preflight:330checks; committed-source verification:332checks.29 unique stable chapter IDs/orders/titles and volume index agree with reviewed metadata/hashes.
+- Existing743 chapter bodies plus26 volume-index blobs (769sources) unchanged against the saved pre-production Git baseline. S4 season-index navigation note is documentary only; unrelated code/provider work excluded.
+- Git-backed project resync on actual API `127.0.0.1:8001` returned fetched=True with the expected source/ref/directory/commit. No project recreation, DB import or application change.
+- Publication verification:474checks. All29 new chapter bodies plus volume27 index match committed text, DRAFT lifecycle retained, original743 IDs retained, new29 IDs present exactly once.
+- Web3000 shows27volumes/772chapters,772unique ordered links; V26 final→V27 first, first→second and final→contents navigation verified from server HTML.
+- No live browser opened, no JavaScript/localStorage edited; saved reader progress untouched. No V28 prose generated.
+- This delivery receipt is a documentation-only follow-up; the narrative payload above is unchanged. Creator reading/approval remains pending.

@@ -1,6 +1,6 @@
 # S5 — handoff de producción y estado de trabajo
 
-**Updated:**2026-10-17. **State:** V27 DRAFT COMPLETE; creator read-through pending. Publication status is recorded in QA after verification, not inferred from files. **Next volume:**V28, not started.
+**Updated:**2026-10-17. **State:** V27 DRAFT COMPLETE; creator read-through pending. Published and verified:27volumes/772chapters,29new bodies+index matching committed source; QA records474publication checks. Bookmark untouched. **Next volume:**V28, not started.
 
 ## Real stopping point
 

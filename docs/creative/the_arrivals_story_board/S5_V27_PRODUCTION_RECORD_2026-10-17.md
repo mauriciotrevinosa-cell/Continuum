@@ -1,6 +1,6 @@
 # S5 / V27 — production record and exit state
 
-**Date:** 2026-10-17. **Status:** PRODUCED DRAFT — creator reading pending; publication verification follows QA.
+**Date:** 2026-10-17. **Status:** PUBLISHED PRODUCTION DRAFT — creator reading pending; publication verified in QA.
 **Authorization:** “perfecto me gusta lo que hiciste arrancate con vol 27”. This authorizes this volume, not all remaining S5 volumes in one run.
 **Volume:**27 — **The Way Home**. **Actual chapters:**29. **Episode umbrellas:**S5E01–S5E06. **Prose words:**20,818, excluding metadata. **Time:**Day262 early evening through Day267 bedtime.
 
@@ -40,3 +40,7 @@ The exact S4 Stay ending continues in #1. Full opening creator packet/clarificat
 Begin from Day267 bedtime/next compatible day; read actual final paragraph. First place relationship-duration/anniversary question before normal grimoire outing. Reconcile dates with source timeline without inventing an exact year. Then outing/accidental Exchange, its separate recovery/debrief/permission, later completion and grimoires, then dinner/date. Do not swap the old date-before-Exchange order back in.
 
 Carry existing ward/eyes/medical conditions, Ori's privacy concern, promise to tell early, three-person-day warmth/map, Bocchi rhythm, empty tobacco box/seed request, Anko's unchosen demand, separate fort day, Rimuru/Mau coverage rule and human-scale household life. No V28 prose was produced in this cycle.
+
+## Delivery
+
+Reader verified27volumes/772chapters; all29new bodies+index match narrative commit `a01de6bb8403706856b4ff9d9e21c923fbb9609a`. Source769old bodies/indexes retained, lifecycleDRAFT and bookmarks untouched. [Detailed receipt](S5_V27_CONTINUITY_QA_2026-10-17.md#verified-delivery-2026-10-17).

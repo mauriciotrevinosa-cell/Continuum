@@ -1,6 +1,6 @@
 # S5 / V27 — production checkpoint
 
-**Creator go-ahead:**2026-10-17. **Status:** VOLUME DRAFT COMPLETE —29 chapters/20,818 prose words, S5E01–S5E06. Creator reading pending; check QA for actual publication result.
+**Creator go-ahead:**2026-10-17. **Status:** VOLUME DRAFT COMPLETE —29 chapters/20,818 prose words, S5E01–S5E06. Published and verified in the existing reader (27volumes/772chapters). Creator reading pending; QA records actual delivery.
 
 [Reading index](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) · [Exit-state/production record](S5_V27_PRODUCTION_RECORD_2026-10-17.md) · [QA](S5_V27_CONTINUITY_QA_2026-10-17.md).
 

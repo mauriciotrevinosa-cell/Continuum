@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 49 — The Price Of Dinner
+## Chapter 54 — The Price Of Dinner
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 49
+**Reading order:** 54
 **Continuity state:** Hollis supplies dinner goods through existing trade; the gate has reset on Day 273; Bocchi and Mau have reciprocal ordinary time while preparations continue
 
 *When: Day 274, afternoon.*

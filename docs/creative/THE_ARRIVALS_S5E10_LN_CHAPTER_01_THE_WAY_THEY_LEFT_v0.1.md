@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 45 — The Way They Left
+## Chapter 50 — The Way They Left
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 45
+**Reading order:** 50
 **Continuity state:** A fresh medical check permits the second limited outing; the normal instance is reentered before reset with the same four and Rimuru at home
 
 *When: Day 270, morning.*

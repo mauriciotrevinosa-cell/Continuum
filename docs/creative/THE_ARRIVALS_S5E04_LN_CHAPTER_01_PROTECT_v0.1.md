@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 16 — Protect
+## Chapter 19 — Protect
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 16
+**Reading order:** 19
 **Continuity state:** Noise is revealed as a constructed defence mechanism; agreement concerns control, not ending construction, adaptation or leaks
 
 *When: Day 263, inside the door; subjective duration unmeasured.*

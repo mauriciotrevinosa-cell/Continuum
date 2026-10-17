@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 19 — Match His Speed (Part 2)
+## Chapter 23 — Match His Speed (Part 2)
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (expanded 2026-10-17 for pacing)
 **Volume:** 27
-**Reading order:** 19 (part 2)
+**Reading order:** 23 (part 2)
 **Continuity state:** The household sees Mau falling; Senku directs a matching descent; Milim catches without a violent interception
 
 *When: Day 263, the same minutes. The sky over the north field.*

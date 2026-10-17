@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 22 — Five
+## Chapter 26 — Five
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 22
+**Reading order:** 26
 **Continuity state:** Fever care continues; Rimuru's loft remains his sleeping place; shared help and ordinary humour replace a second crisis
 
 *When: Day 264, the next morning and afternoon.*

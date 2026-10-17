@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 20 — Hot
+## Chapter 24 — Hot
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 20
+**Reading order:** 24
 **Continuity state:** Frieren offers an exit from her promise; Mau affirms choice; Ori's fear persists; fever requires ordinary care
 
 *When: Day 263, morning after the return.*

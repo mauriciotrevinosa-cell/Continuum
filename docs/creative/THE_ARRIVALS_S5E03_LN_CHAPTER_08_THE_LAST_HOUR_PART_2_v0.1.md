@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 13 — The Last Hour (Part 2)
+## Chapter 16 — The Last Hour (Part 2)
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (expanded 2026-10-17 for pacing)
 **Volume:** 27
-**Reading order:** 13 (part 2)
+**Reading order:** 16 (part 2)
 **Continuity state:** Mau's company remains; he waits for Frieren without demanding her arrival; the deadline is tracked
 
 *When: Day 263, the grey before sunrise. The yard.*

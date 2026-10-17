@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 33 — Week Twenty-Four
+## Chapter 38 — Week Twenty-Four
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 33
+**Reading order:** 38
 **Continuity state:** The ordinary blue gate remains outside the divine boundary; the party confirms a physical return route and uses the existing shadow relay
 
 *When: Day 268, midday.*

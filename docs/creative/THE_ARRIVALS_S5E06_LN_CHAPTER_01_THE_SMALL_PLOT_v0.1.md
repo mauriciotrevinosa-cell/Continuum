@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 26 — The Small Plot
+## Chapter 31 — The Small Plot
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 26
+**Reading order:** 31
 **Continuity state:** Mau starts the tobacco thank-you project after recovery; no plants, instant growth or destroyed cigarettes; Anko objects comically
 
 *When: Day 266, late morning.*

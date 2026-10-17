@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 4 — The Price
+## Chapter 5 — The Price
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 4
+**Reading order:** 5
 **Continuity state:** Mau reports the threat and states his choice; Ori objects; nobody's species or guilt is established
 
 *When: Day 262, household meeting.*

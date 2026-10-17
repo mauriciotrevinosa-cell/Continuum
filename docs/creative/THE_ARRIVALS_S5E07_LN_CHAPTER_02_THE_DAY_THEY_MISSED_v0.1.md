@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 31 — The Day They Missed
+## Chapter 36 — The Day They Missed
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 31
+**Reading order:** 36
 **Continuity state:** The overdue anniversary is acknowledged without inventing an exact date or erasing previous dates; Frieren has not yet given away her compass
 
 *When: Day 268, after breakfast.*

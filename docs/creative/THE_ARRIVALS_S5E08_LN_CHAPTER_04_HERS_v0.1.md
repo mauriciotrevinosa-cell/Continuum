@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 38 — Hers
+## Chapter 43 — Hers
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 38
+**Reading order:** 43
 **Continuity state:** The Goddess retrieves Mau without revealing a human form; Jin-Woo returns to his war; a private notification is not household knowledge
 
 *When: Day 268, the retrieval.*

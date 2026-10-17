@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 21 — The First Soup
+## Chapter 25 — The First Soup
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 21
+**Reading order:** 25
 **Continuity state:** Frieren takes a turn caring for Mau; fever and guardrails remain; care is shared rather than another household exclusion
 
 *When: Day 263, afternoon and evening.*

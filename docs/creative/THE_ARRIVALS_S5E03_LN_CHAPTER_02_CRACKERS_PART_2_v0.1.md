@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 11 — Crackers (Part 2)
+## Chapter 12 — Crackers (Part 2)
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (expanded 2026-10-17 for pacing)
 **Volume:** 27
-**Reading order:** 11 (part 2)
+**Reading order:** 12 (part 2)
 **Continuity state:** Mai offers company without taking over; Frieren invites the crackers into the east room
 
 *When: Day 262, a little later the same evening. The east room.*

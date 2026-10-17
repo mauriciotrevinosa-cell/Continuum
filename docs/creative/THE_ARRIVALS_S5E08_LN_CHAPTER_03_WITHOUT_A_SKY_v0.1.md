@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 37 — Without A Sky
+## Chapter 42 — Without A Sky
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 37
+**Reading order:** 42
 **Continuity state:** Unrestricted patterns demand a cost his body cannot safely pay; Noise assists chosen survival without taking control
 
 *When: Day 268, later in Mau's roughly forty subjective minutes.*

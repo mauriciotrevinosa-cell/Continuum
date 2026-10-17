@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 8 — The Things to Do
+## Chapter 9 — The Things to Do
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 8
+**Reading order:** 9
 **Continuity state:** Mau eats with Yuta and Rimuru; the three keep company; privacy arrangements do not move Rimuru's bedroom
 
 *When: Day 262, during Maki's visit upstairs; continuing later that evening.*

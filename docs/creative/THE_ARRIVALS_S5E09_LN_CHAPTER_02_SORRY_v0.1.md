@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 41 — Sorry
+## Chapter 46 — Sorry
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 41
+**Reading order:** 46
 **Continuity state:** Noise acknowledges an accidental activation; Mau's trust continues with the boundary agreement intact; the new capacity structure is unfinished
 
 *When: Day 269, late morning.*

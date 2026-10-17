@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 34 — The Black Ant
+## Chapter 39 — The Black Ant
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 34
+**Reading order:** 39
 **Continuity state:** Physical contact with a stray shadow precedes an unintended activation during Noise analysis; the party does not knowingly plan an Exchange
 
 *When: Day 268, midday.*

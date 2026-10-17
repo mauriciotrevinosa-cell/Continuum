@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 9 — Not All of It
+## Chapter 10 — Not All of It
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 9
+**Reading order:** 10
 **Continuity state:** Ordinary visits and family choices continue; no sixty-person farewell procession or repayment of the fort day
 
 *When: Day 262, evening.*

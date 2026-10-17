@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 39 — Alive
+## Chapter 44 — Alive
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 39
+**Reading order:** 44
 **Continuity state:** Rimuru relays alive/asleep/fine first; Frieren receives the conditional elf-route possibility privately only after Mau is home and settled
 
 *When: Day 268, outside the gate and the return home.*

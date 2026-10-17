@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 27 — Our Day
+## Chapter 32 — Our Day
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 27
+**Reading order:** 32
 **Continuity state:** Mau, Ori and Frieren begin their promised family day; Milim joins breakfast but the three-person day and fort debt remain distinct
 
 *When: Day 267, morning.*

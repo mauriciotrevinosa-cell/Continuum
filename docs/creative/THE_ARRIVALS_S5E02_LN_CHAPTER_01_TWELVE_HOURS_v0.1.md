@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 6 — Twelve Hours
+## Chapter 7 — Twelve Hours
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 6
+**Reading order:** 7
 **Continuity state:** Spoken deal: crossing for no direct divine harm to Ori and Frieren; twelve-hour deadline begins; no promise of safe return
 
 *When: Day 262, approximately half past seven in the evening.*

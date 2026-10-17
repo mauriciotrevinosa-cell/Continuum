@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 28 — The Wrong Turn
+## Chapter 33 — The Wrong Turn
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 28
+**Reading order:** 33
 **Continuity state:** A quiet outing stays inside the protected perimeter; Ori's map, a picnic and ordinary mistakes fill the family day
 
 *When: Day 267, late morning and afternoon.*

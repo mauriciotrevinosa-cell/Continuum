@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 23 — The Loud End
+## Chapter 27 — The Loud End
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 23
+**Reading order:** 27
 **Continuity state:** Kessoku, Seika and visiting friends continue their own musical argument while Mau rests; no new powers or duties
 
 *When: Day 264, afternoon; a separate household scene.*

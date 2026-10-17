@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 42 — What We Can Say
+## Chapter 47 — What We Can Say
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 42
+**Reading order:** 47
 **Continuity state:** The small debrief distinguishes observed contact and accidental activation from intent; any later outing requires a fresh morning check and unchanged basic rules
 
 *When: Day 269, afternoon.*

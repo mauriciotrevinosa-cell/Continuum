@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 11 — Crackers (Part 1)
+## Chapter 12 — Crackers (Part 1)
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (expanded 2026-10-17 for pacing)
 **Volume:** 27
-**Reading order:** 11 (part 1)
+**Reading order:** 12 (part 1)
 **Continuity state:** Mai offers company without taking over; Frieren invites the crackers into the east room
 
 *When: Day 262, late evening. The common room has decided, without anybody saying so, that it is not going to bed. Yuta and Rimuru are at the long table with Mau's plate between them. The door in the shed is still open, and the rope Wakana strung in front of it is still the only thing anyone has thought to put there.*

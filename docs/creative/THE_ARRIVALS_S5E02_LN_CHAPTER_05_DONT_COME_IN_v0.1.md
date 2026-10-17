@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 10 — Don't Come In
+## Chapter 11 — Don't Come In
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 10
+**Reading order:** 11
 **Continuity state:** Mau knocks; Frieren sets a boundary; they speak through their closed bedroom door
 
 *When: Day 262, late evening.*

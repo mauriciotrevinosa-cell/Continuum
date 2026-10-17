@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 17 — Things He Kept
+## Chapter 21 — Things He Kept
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 17
+**Reading order:** 21
 **Continuity state:** Mau relives witnessed S1–S2 relationship memories; these are not access to Frieren's private past
 
 *When: Day 263, inside the door.*

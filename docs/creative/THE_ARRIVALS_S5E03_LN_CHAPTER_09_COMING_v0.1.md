@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 14 — Coming
+## Chapter 17 — Coming
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (expanded 2026-10-17 for pacing)
 **Volume:** 27
-**Reading order:** 14
+**Reading order:** 17
 **Continuity state:** Frieren prepares to come down; Mau crosses at the limit; their farewell is missed without condemning her need for space
 
 *When: Day 263, at the twelve-hour deadline. The sun is not yet over the hills. The fort is at the common-room window. Fern is at the foot of the stair, where she said she would be.*

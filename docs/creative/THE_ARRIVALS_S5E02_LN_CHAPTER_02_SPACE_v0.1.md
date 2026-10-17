@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 7 — Space
+## Chapter 8 — Space
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 7
+**Reading order:** 8
 **Continuity state:** Frieren retreats to the east room; Maki asks for room to talk; Mau respects the boundary
 
 *When: Day 262, shortly after the agreement.*

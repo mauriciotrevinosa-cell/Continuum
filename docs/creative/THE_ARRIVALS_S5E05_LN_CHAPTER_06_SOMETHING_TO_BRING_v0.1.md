@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 25 — Something to Bring
+## Chapter 30 — Something to Bring
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 25
+**Reading order:** 30
 **Continuity state:** Ori asks about privacy; Bocchi shares music by choice; care and ordinary relationships continue after the briefing
 
 *When: Day 265, later in the afternoon.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 12 — What He Said (Part 1)
+## Chapter 13 — What He Said (Part 1)
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (expanded 2026-10-17 for pacing)
 **Volume:** 27
-**Reading order:** 12 (part 1)
+**Reading order:** 13 (part 1)
 **Continuity state:** The night conversation continues; belief and fear coexist; Frieren realizes Mau has never lied to her (the only thing he has kept was Fern's own request, which she guesses concerns Stark); nobody resolves Frieren's feelings for her
 
 *When: Day 262 into the morning of Day 263. The crackers table has never met upstairs before. Nobody mentions it.*

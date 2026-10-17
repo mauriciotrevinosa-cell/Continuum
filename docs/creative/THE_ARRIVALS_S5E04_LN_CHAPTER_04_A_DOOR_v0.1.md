@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 18 — A Door
+## Chapter 22 — A Door
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 18
+**Reading order:** 22
 **Continuity state:** S3–S4 lived memories lead to last night's corridor; exit is not a learned universal portal technique
 
 *When: Day 263, inside the door, followed by return to the exterior morning.*

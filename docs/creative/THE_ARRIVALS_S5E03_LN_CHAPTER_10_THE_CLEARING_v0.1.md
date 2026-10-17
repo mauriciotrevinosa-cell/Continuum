@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 15 — The Clearing
+## Chapter 18 — The Clearing
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (expanded 2026-10-17 for pacing)
 **Volume:** 27
-**Reading order:** 15
+**Reading order:** 18
 **Continuity state:** Arrival clearing imagery; Mau encounters the fragmented representation of Noise; no outside link is assumed
 
 *When: Day 263, inside the door; subjective duration unmeasured.*

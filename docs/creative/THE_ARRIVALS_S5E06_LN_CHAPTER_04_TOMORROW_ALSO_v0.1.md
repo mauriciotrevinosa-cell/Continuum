@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 29 — Tomorrow Also
+## Chapter 34 — Tomorrow Also
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 29
+**Reading order:** 34
 **Continuity state:** The family day reaches its ordinary end; future fort day and V28 outings remain open; no anniversary date or Exchange occurs
 
 *When: Day 267, late afternoon and evening.*

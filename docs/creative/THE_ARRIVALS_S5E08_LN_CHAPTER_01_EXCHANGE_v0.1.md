@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 35 — Exchange
+## Chapter 40 — Exchange
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 35
+**Reading order:** 40
 **Continuity state:** Mau survives an involuntary swap; the loss of world restrictions exposes his body rather than granting safe mastery
 
 *When: Day 268, Mau's first minutes outside Continuum.*

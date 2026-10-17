@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 5 — Before I Accept
+## Chapter 6 — Before I Accept
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 5
+**Reading order:** 6
 **Continuity state:** Second Chance is recalled; the Goddess's account of Ori and Mau has named household listeners
 
 *When: Day 262, the same meeting.*

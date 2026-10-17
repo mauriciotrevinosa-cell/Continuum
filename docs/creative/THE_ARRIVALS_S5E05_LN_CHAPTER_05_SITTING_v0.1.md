@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 24 — Sitting
+## Chapter 29 — Sitting
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 24
+**Reading order:** 29
 **Continuity state:** Mau chooses the household briefing; Frieren stays against him; account of Noise is shared without memory access or a cure
 
 *When: Day 265, afternoon.*

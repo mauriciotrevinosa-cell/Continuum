@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 60 — A Little Longer
+## Chapter 62 — A Little Longer
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 60
+**Reading order:** 62
 **Continuity state:** The overdue anniversary dinner occurs; Frieren gives Mau the established S4 compass that points at her, transferring custody without inventing new tracking powers or an engagement
 
 *When: Day 277, evening.*

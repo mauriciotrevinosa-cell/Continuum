@@ -5,7 +5,7 @@
 **Season:** 5
 **Coverage:** S5E01–S5E11
 **Volume title:** **The Way Home**
-**Chapter files:** 65
+**Chapter files:** 67
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 onward.
 
@@ -71,10 +71,12 @@
 | 52 | S5E10 | The Way They Left | `THE_ARRIVALS_S5E10_LN_CHAPTER_01_THE_WAY_THEY_LEFT_v0.1.md` |
 | 53 | S5E10 | A Book At The End | `THE_ARRIVALS_S5E10_LN_CHAPTER_02_A_BOOK_AT_THE_END_v0.1.md` |
 | 54 | S5E10 | Level One | `THE_ARRIVALS_S5E10_LN_CHAPTER_03_LEVEL_ONE_v0.1.md` |
-| 55 | S5E10 | A Small Distance | `THE_ARRIVALS_S5E10_LN_CHAPTER_04_A_SMALL_DISTANCE_v0.1.md` |
-| 56 | S5E10 | The Price Of Dinner | `THE_ARRIVALS_S5E10_LN_CHAPTER_05_THE_PRICE_OF_DINNER_v0.1.md` |
-| 57 | S5E11 | Terms | `THE_ARRIVALS_S5E11_LN_CHAPTER_01_TERMS_v0.1.md` |
-| 58 | S5E11 | Room For Two | `THE_ARRIVALS_S5E11_LN_CHAPTER_02_ROOM_FOR_TWO_v0.1.md` |
-| 59 | S5E11 | The Silver Needle | `THE_ARRIVALS_S5E11_LN_CHAPTER_03_THE_SILVER_NEEDLE_v0.1.md` |
-| 60 | S5E11 | A Little Longer | `THE_ARRIVALS_S5E11_LN_CHAPTER_04_A_LITTLE_LONGER_v0.1.md` |
-| 61 | S5E11 | Your Turn | `THE_ARRIVALS_S5E11_LN_CHAPTER_05_YOUR_TURN_v0.1.md` |
+| 55 | S5E10 | The Candle Book | `THE_ARRIVALS_S5E10_LN_CHAPTER_04_THE_CANDLE_BOOK_v0.1.md` |
+| 56 | S5E10 | A Small Distance | `THE_ARRIVALS_S5E10_LN_CHAPTER_05_A_SMALL_DISTANCE_v0.1.md` |
+| 57 | S5E10 | The Bench | `THE_ARRIVALS_S5E10_LN_CHAPTER_06_THE_BENCH_v0.1.md` |
+| 58 | S5E10 | The Price Of Dinner | `THE_ARRIVALS_S5E10_LN_CHAPTER_07_THE_PRICE_OF_DINNER_v0.1.md` |
+| 59 | S5E11 | Terms | `THE_ARRIVALS_S5E11_LN_CHAPTER_01_TERMS_v0.1.md` |
+| 60 | S5E11 | Room For Two | `THE_ARRIVALS_S5E11_LN_CHAPTER_02_ROOM_FOR_TWO_v0.1.md` |
+| 61 | S5E11 | The Silver Needle | `THE_ARRIVALS_S5E11_LN_CHAPTER_03_THE_SILVER_NEEDLE_v0.1.md` |
+| 62 | S5E11 | A Little Longer | `THE_ARRIVALS_S5E11_LN_CHAPTER_04_A_LITTLE_LONGER_v0.1.md` |
+| 63 | S5E11 | Your Turn | `THE_ARRIVALS_S5E11_LN_CHAPTER_05_YOUR_TURN_v0.1.md` |

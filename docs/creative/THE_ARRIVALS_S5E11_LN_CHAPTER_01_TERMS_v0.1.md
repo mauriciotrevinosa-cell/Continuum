@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 57 — Terms
+## Chapter 59 — Terms
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 57
+**Reading order:** 59
 **Continuity state:** Fern agrees to expedition coverage and offers a practical window after the weekly reset; Frieren's leadership gift does not remove retreat or medical conditions
 
 *When: Day 275, afternoon.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 27
-## Chapter 59 — The Silver Needle
+## Chapter 61 — The Silver Needle
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 27
-**Reading order:** 59
+**Reading order:** 61
 **Continuity state:** Frieren prepares the existing compass as her own anniversary gift; dinner supplies arrive through Hollis and household preparations preserve privacy
 
 *When: Day 277, afternoon.*

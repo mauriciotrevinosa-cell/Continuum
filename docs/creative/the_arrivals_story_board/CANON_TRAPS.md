@@ -394,3 +394,5 @@ not on this list. Add a line every time the creator catches a new slip.
 - Mau Level3/ten points unspent; source100% and tower-floor100 unrelated. Bracelets are new/private/selected sharing/calibration; they do not grant every character Mau's levelling trunk. Existing unknown source fields remain unknown.
 - Two new books: boot drying / softening hard bread. Queen2 owed two days, not used while exhausted. Compass remains Mau's V28 anniversary gift, not new loot; five flowers at home. Fort day/full Mau-day not paid by this trip.
 - Key opens after7 exterior days, owner needed at entry, companions allowed. One linked normal entrance/shop relocation claim and modest expansion still unused. Do not duplicate all gates, rebuild house or make shop public as an automatic reward.
+
+- **Gojo and Shoko come from the same world and were classmates.** Between the two of them, never write "in my world" or explain shared history (school, the infirmary step, the box) as if the other had not been there. Shoko was outside the box while Gojo was inside it.

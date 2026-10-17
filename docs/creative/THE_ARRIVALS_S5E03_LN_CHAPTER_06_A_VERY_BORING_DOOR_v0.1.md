@@ -70,11 +70,15 @@ Shoko did not say anything to that for a while.
 
 She took the cigarette out from behind her ear, where she had tucked it at some point in the evening without noticing, and held it between two fingers, unlit, the way she always held it. She looked at it.
 
-"I used to sit up like this," she said. "In my world. At the school. Waiting for people to come back." She turned the cigarette over. "Some of them came back. Some of them came back and I fixed them. Some of them came back and there was nothing to fix." She paused. "And some of them didn't come back, and I sat up anyway, until somebody came and told me to stop."
+"I used to sit up like this," she said. "At school. You remember."
 
-Gojo had gone very still.
+"I remember," said Gojo quietly. "The step outside the infirmary. You and one of those."
 
-"I didn't know how to stop," said Shoko. "So I just sat. With one of these." She lifted the cigarette slightly. "I smoked them then. One every hour. So I'd know how long it had been."
+"Waiting for people to come back." She turned the cigarette over. "Some of them came back. Some of them came back and I fixed them. Some of them came back and there was nothing to fix." She paused. "And some of them didn't come back, and I sat up anyway, until somebody came and told me to stop."
+
+Gojo had gone very still. He knew some of the names she was not saying. One of them, at the very end, had been his own.
+
+"I didn't know how to stop," said Shoko. "So I just sat. With one of these." She lifted the cigarette slightly. "One every hour. So I'd know how long it had been."
 
 "You don't smoke this one."
 
@@ -94,11 +98,13 @@ It was not a big step. Their shoulders were touching. He did not seem to notice.
 
 He still did not look away from the shed.
 
-"In my world," he said, "they put me in a box."
+"The box," he said.
 
-Shoko did not say anything. She had heard him say it once before, at the long table, the morning Eren asked to close the city. *The best box anyone ever made.*
+Shoko did not ask which box. She had been outside it.
 
-"I was in it for a while," said Gojo. "It doesn't matter how long. It was very quiet in there. I could see everything outside it. I could see everything that was happening while I was in it, and I couldn't do anything about any of it." He paused. "That's what this feels like. I'm looking at that door, and I can see every edge of it, and there's nothing I can do."
+"I could see everything from in there," said Gojo. "Everything that was happening while I was in it. And I couldn't do anything about any of it." He paused. "That's what this feels like. I'm looking at that door, and I can see every edge of it, and there's nothing I can do."
+
+"I know what it was like outside it," said Shoko. "Everyone waiting for you to get out, and nobody able to reach in." She did not look away from the shed. "You could see everything. We couldn't see anything at all. I'm not sure which was worse."
 
 "You're not in a box."
 

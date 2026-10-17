@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 29
 **Season:** 5
-**Coverage:** S5E25–S5E31
+**Coverage:** S5E25–S5E32
 **Volume title:** **The Days Between**
-**Chapter files:** 31
+**Chapter files:** 35
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 onward.
 
@@ -44,3 +44,7 @@
 | 29 | S5E31 | In and Out | `THE_ARRIVALS_S5E31_LN_CHAPTER_01_IN_AND_OUT_v0.1.md` |
 | 30 | S5E31 | Seeds | `THE_ARRIVALS_S5E31_LN_CHAPTER_02_SEEDS_v0.1.md` |
 | 31 | S5E31 | The Second Bowl | `THE_ARRIVALS_S5E31_LN_CHAPTER_03_THE_SECOND_BOWL_v0.1.md` |
+| 32 | S5E31 | The Kotatsu in Summer | `THE_ARRIVALS_S5E31_LN_CHAPTER_04_THE_KOTATSU_IN_SUMMER_v0.1.md` |
+| 33 | S5E32 | The Garden on Five | `THE_ARRIVALS_S5E32_LN_CHAPTER_01_THE_GARDEN_ON_FIVE_v0.1.md` |
+| 34 | S5E32 | Straight Lines | `THE_ARRIVALS_S5E32_LN_CHAPTER_02_STRAIGHT_LINES_v0.1.md` |
+| 35 | S5E32 | The Dice from Fallow | `THE_ARRIVALS_S5E32_LN_CHAPTER_03_THE_DICE_FROM_FALLOW_v0.1.md` |

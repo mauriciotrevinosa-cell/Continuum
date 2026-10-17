@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 67 — The Question At The Table
+## Chapter 70 — The Question At The Table
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 67
+**Reading order:** 70
 **Continuity state:** The house begins choosing observable recovery studies without declaring a universal training shortcut or removing noncombat residents from ordinary life
 
 *When: Day 287, evening.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 61 — Three Favourite Answers
+## Chapter 64 — Three Favourite Answers
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 61
+**Reading order:** 64
 **Continuity state:** The group develops hypotheses from observed spatial phenomena; Senku's provocation is not an astrophysical claim or an immediate new power unlock
 
 *When: Day 287, morning.*

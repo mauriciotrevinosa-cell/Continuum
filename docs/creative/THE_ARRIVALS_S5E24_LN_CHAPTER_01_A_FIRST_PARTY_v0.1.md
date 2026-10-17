@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 65 — A First Party
+## Chapter 68 — A First Party
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 65
+**Reading order:** 68
 **Continuity state:** Mau chooses a limited first visit with Yuta, Gojo and Kaneki; Rimuru covers home, Frieren is consulted, and later rotations remain open
 
 *When: Day 287, evening.*

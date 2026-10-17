@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 52 — More Things
+## Chapter 53 — More Things
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 52
+**Reading order:** 53
 **Continuity state:** The modest shop expansion is inspected and applied; E–S catalogue grades, limited collectible stock and eligible discovery registration do not create healing abundance or a new economy
 
 *When: Day 286, midday.*

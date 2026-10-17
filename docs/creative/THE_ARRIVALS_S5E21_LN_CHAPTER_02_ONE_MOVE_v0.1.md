@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 51 — One Move
+## Chapter 52 — One Move
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 51
+**Reading order:** 52
 **Continuity state:** The original normal entrance and its linked shop move once to the agreed interior site; no duplicate gate, reset or house alteration occurs
 
 *When: Day 286, late morning.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 53 — Already Read
+## Chapter 54 — Already Read
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 53
+**Reading order:** 54
 **Continuity state:** Frieren buys one budgeted grimoire and discovers it duplicates the candle book from V28; no universal blind lottery or guaranteed novelty is invented
 
 *When: Day 286, early afternoon.*

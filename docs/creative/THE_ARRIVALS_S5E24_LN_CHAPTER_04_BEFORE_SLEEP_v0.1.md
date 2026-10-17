@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 68 — Before Sleep
+## Chapter 71 — Before Sleep
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 68
+**Reading order:** 71
 **Continuity state:** The couple keeps ordinary closeness before the first tower visit; the anniversary compass stays Mau's existing gift and Ori receives the agreed notice
 
 *When: Day 287, night.*

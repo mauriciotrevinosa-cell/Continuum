@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 62 — The Door Beside It
+## Chapter 65 — The Door Beside It
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 62
+**Reading order:** 65
 **Continuity state:** The key creates its companion entrance beside the relocated normal gate after seven exterior days; owner-party permission is clear but the interior is not yet classified
 
 *When: Day 287, the key's opening time.*

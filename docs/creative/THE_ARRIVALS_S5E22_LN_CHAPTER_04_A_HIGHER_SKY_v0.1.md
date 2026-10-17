@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 58 — A Higher Sky
+## Chapter 59 — A Higher Sky
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 58
+**Reading order:** 59
 **Continuity state:** Sukuna admits the lost WCS route and the larger horizon he glimpsed during the interrupted S2 link; claims about propaganda and allies remain his claims; Mau intercepts the departure attack
 
 *When: Day 286, the same night.*

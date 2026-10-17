@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 57 — Terms For A Night
+## Chapter 58 — Terms For A Night
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 57
+**Reading order:** 58
 **Continuity state:** Mau and Sukuna make a bilateral outside-gate truce binding only their own conduct; the protection permits one limited non-hostile crossing without being overridden by the vow
 
 *When: Day 286, the same night.*

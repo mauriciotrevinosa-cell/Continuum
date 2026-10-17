@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 50 — Dry Ground
+## Chapter 51 — Dry Ground
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 50
+**Reading order:** 51
 **Continuity state:** The household chooses a relocation site thirty paces inside the existing boundary, clear of roots, house exits and the interface's public approach range
 
 *When: Day 286, morning.*

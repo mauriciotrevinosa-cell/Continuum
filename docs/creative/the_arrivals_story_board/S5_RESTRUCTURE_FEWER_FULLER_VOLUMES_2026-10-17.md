@@ -35,3 +35,14 @@ The plan of record (S5_VOLUME_MAP_BREATHERS_AND_READINESS) had ten volumes, V27�
 
 ## Creator reading point
 The creator was at V27 #11. Because breathers go in from #1 onward, **the creator restarts S5 from V27 #1 once Claude reports V27 as ready.**
+
+## Progress (2026-10-17, Claude)
+- **V27 — The Way Home: done, 63 chapters.** Expanded #11–#15 and #19. Split #12, #13, #16 and #23 (pt1/pt2). Breathing chapters added: Outside the Curtain, The Night Kitchen, A Very Boring Door, Minute Three, The Stairs, Everyone Heard, What Yuta Carried, The Candle Book, The Bench.
+- **V28 — The Long Way Round: done, 72 chapters.** Breathing chapters added: The Wrong Piece of Wood, Forty-One Minutes, Yuka's Watch, Before the Dragon, The Register Girl, The Warning, Frieren's Hands.
+- **V29 — The Days Between: partial (24 chapters, old V31).** It needs the same treatment as it grows. Target: ~55–65 chapters across the tower summer, with breathing chapters between tower visits (household life, culture, roles, the underused cast). Do not cram tower floors together; keep the house living between ascents.
+- **Creator reading point:** restarted at V27 #1 on 2026-10-17.
+
+### For whoever writes V29 onward (including Codex)
+- Header: `# The Arrivals — Light Novel — Volume 29`. Continue that volume's reading order. Do not start a new volume number until V29 has ~55–65 chapters.
+- Keep chapters about 1,300–1,600 words, or split them into Part 1 / Part 2. Use digit-only filename indices with the `_PART_2` slug, then regenerate the volume index.
+- Every chapter opens with an italic *When:* line. Read CANON_TRAPS and the cast ledger first. Never invent past canon; read the source scene before any callback.

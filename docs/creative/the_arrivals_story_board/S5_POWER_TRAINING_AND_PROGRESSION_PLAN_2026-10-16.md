@@ -61,7 +61,7 @@ La tabla mundo/gate/ambos debe contestar por capacidad dónde se gana, dónde se
 | Exchange | Semilla y rama stats distintas; accidente/debrief/sorry-yes | Interfaz/recuperación/integración |
 | Roja | Nivel1 nuevo branch, aperturas breves, Infinity y Red pequeño en equipo | Valores/XP/requisitos y coste; no kit pleno permanente |
 | Recompensas | Brazaletes/llave/materiales/upgrade | Niveles versus sincronización; acceso y propiedad |
-|100 pisos | Arise temprano propuesto, copias, reserva finita | Lugar exacto y obtener dragón rojo derrotado antes |
+| Primera extracción / torre | Ciel descubre confirmación Arise al final de roja; posible fallo inicial de Mau, enfoque como Ear y dragón propio antes de torre | Actuación/coste/control; primer piso profundiza uso/interfaz, no nueva primera extracción |
 | Verano | Puntos nivel/misiones, Umaru plan, Mau decide guardar; Noise integra más ramas | Correspondencias stat/CE/mana/cuerpo, sin borrar requisitos |
 | Horizonte | Sostener más/compatibilidad ojos y ruta elfo | No inmortalidad, especie resuelta ni ruta completa por decreto |
 
@@ -89,7 +89,7 @@ Cristal de fuego, rangos E–S, crafting/compra/loot, armadura normal visible e 
 ## Decisiones que bloquean coherencia
 
 - Brazaletes/sincronización/niveles para cada persona y visibilidad de información.
-- Arise y dragón rojo previo: sin inventar corpse storage/respawn para taparlo.
+- Primera extracción ya situada al final de roja: desarrollar coste/control y secuencia Ciel/Arise/fallo-enfoque, sin almacenamiento de cadáver/respawn. Ear es analogía, no ritual compartido.
 - Llave, puerta siguiente, entrada con compañeros y qué gate se mueve una vez.
 - Levantamiento de restricciones y retorno, separado de walls internas.
 - Amenaza corazón/rueda/mensaje: escena pedida, mecanismo abierto; rueda adapta al daño, no lee/reprograma UI por defecto.
@@ -141,3 +141,7 @@ S5 ocupa unos cuatro meses de verano, ampliables. Antes de fijar resultados eleg
 Tres accesos en sombra aún distintos: monarca, ramal de shikigami (nomenclatura editorial Ten Shadows) y puerta de identidad/alcance por confirmar. Unirlos requiere dominar todos los shikigami; rueda/adaptación o soldados ya obtenidos no cuentan como domesticación. Ear ya tiene su episodio excepcional; White Divine Dog de Yuka es otra criatura. Fijar qué cuenta como ayuda externa/poder propio antes de cada ritual, sin extender la limitación particular de Ear a todo JJK por defecto.
 
 Después del Arquitecto: probar night shifts con sombras, reserva/rango de guardia y relevo para los demás; protección divina inalterada. La voz de Beru/Igris continúa más allá del combate. No reemplazar toda autonomía doméstica por vigilancia ilimitada de Mau. S5 puede cerrar con diferentes recuperaciones parciales y S6 trabajar el100% del punto de extracción, distinto de potencial último. Conserva100% de la base pertinente antes de nuevas evoluciones de esa técnica, no exige alcanzarlo todos a la vez ni al completar100 pisos.
+
+## Primera extracción — información, ejecución y aprendizaje
+
+[secuencia completa de Ciel/Arise y confirmación de Ear](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md#primera-extracción-del-dragón-rojo--aclaración-posterior-del-creador). Ciel analiza lo disponible y ayuda a hallar la confirmación, no administra omniscientemente el System. Mau ejecuta: el primer fallo propuesto y su enfoque/autoridad aprendidos con Ear explican por qué no basta una palabra. Noise conserva construcción/desbloqueo y la rueda adaptación. Recurso finito, uso privado/relay y Black Heart posterior siguen vigentes; no se ha fijado cantidad de intentos, palabras descartadas o coste exacto.

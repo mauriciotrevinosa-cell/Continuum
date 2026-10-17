@@ -39,13 +39,13 @@ Se conservan cuatro meses exteriores de verano ampliables, capítulos mayormente
 
 Los equipos/rotaciones/visitas solo siguen abiertos. «Similar a Jin-Woo» no cancela que la llave permite acompañantes, la casa necesita cobertura y un verano incluye días que eligen no ascender. Equipo y recursos permiten cambiar de estrategia; no sustituyen la recuperación del cuerpo/control ni hacen infinito el combustible de sombras. No regalar a una copia recién conseguida el nivel máximo de su original por conservar nombre y personalidad.
 
-**Puente que hay que cerrar antes de redactar:** la nota anterior sugería Arise en el primer piso y la roja ya había pedido su dragón como sombra. La última frase confirma que lo posee antes de la torre. **P preferida:** acceso inicial/limitado a la extracción al final de la roja, con el primer piso desarrollando el comando/interfaz y restricciones restantes. Es una solución de colocación a revisar, no una extracción retrospectivamente escrita ni dos dragones nuevos por ese ajuste. No dejar que ambas afirmaciones se contradigan en prosa ni inventar conservación infinita de cadáveres como parche silencioso.
+**Puente ya confirmado por la aclaración posterior:** la primera extracción se sitúa al final de la roja. Ciel ayuda a descubrir la confirmación Arise por análisis/tanteos; se propone un primer fallo de Mau y la indicación de enfocarse como con Ear, demostrar superioridad e incorporarlo a su ejército. Véase la secuencia íntegra al final. El primer piso profundiza el uso/interfaz/restricciones; ya no descubre Arise por primera vez. Costes/control y puesta en escena siguen por desarrollar; no conservar cadáveres, repetir boss o inventar dos dragones por el ajuste.
 
 ### Roster y voz
 
 | Sombra | Dirección actual | Qué desarrollar |
 |---|---|---|
-| Dragón de la roja | Ya obtenido antes de la torre | Puente de extracción, nombre y capacidades propios; no confundir con Kaisel/Kamish |
+| Dragón de la roja | Primera extracción al final de la roja: Ciel/Arise, posible fallo inicial, enfoque aprendido de Ear | Nombre, capacidades/coste y escena por desarrollar; distinto de Kaisel/Kamish |
 | Igris | Clave, habla y conserva personalidad reconocible | Disciplina, cortesía y criterio propios; no segundo Beru, memoria prestada o máximo gratuito |
 | Beru | Clave, habla y conserva personalidad reconocible | Devoción exuberante y relación con la familia; gag de Frieren con consecuencia posterior |
 | Kaisel | Expresamente añadido | Identidad/función de montura y límite de carga/vuelo de la copia, piso por elegir |
@@ -137,6 +137,30 @@ La protección divina sigue con sus reglas; las sombras no justifican que antes 
 
 ## 12. Qué queda por desarrollar ahora
 
-Ya hay dirección para el desenlace del Arquitecto y nombres principales de sombras. Falta convertirla en etapas y consecuencias: curva/party/entrada/salida de torre; puente de Arise/dragón rojo; reparto de favoritos y recursos; receta/recompensa; corazón/huida y qué sabe cada parte; selección temporal de llegadas/monedas; estados individuales hacia S6; entrenamientos, tres accesos y límites de guardia. Después trenzar el outline con las relaciones y los proyectos ya elegidos. No pedir otra vez al creador que invente el final desde cero ni declarar cerrada la temporada por registrar el mensaje.
+Ya hay dirección para el desenlace del Arquitecto y nombres principales de sombras. Falta convertirla en etapas y consecuencias: curva/party/entrada/salida de torre; puesta en escena/coste del puente Ciel/Arise ya elegido; reparto de favoritos y recursos; receta/recompensa; corazón/huida y qué sabe cada parte; selección temporal de llegadas/monedas; estados individuales hacia S6; entrenamientos, tres accesos y límites de guardia. Después trenzar el outline con las relaciones y los proyectos ya elegidos. No pedir otra vez al creador que invente el final desde cero ni declarar cerrada la temporada por registrar el mensaje.
 
 Dar capítulos cortos con finales naturales a compañía, mañanas, comidas, craft y sombras con personalidad, además de combates. Se conservan día Mau/Ori/Frieren, fort, Queen2, Gojo/Shoko, tabaco, Fern/Frieren y reparto doméstico, comercio/mundo/cultura, bodas/Himmel y regresos de Bocchi/Yuka/Umaru/otros. Este paquete amplía el mismo verano; no los desplaza hasta después del Arquitecto.
+
+## Primera extracción del dragón rojo — aclaración posterior del creador
+
+**Mensaje íntegro:**
+
+> si que ciel ayude que tiene que decir una palabra d econfirmacion y que ciel dice dame un segundo y analiza e intentand una cuantas y resulta se r arise pero tal ves el primer intento mau falla con el dragon pq no sabia y ciel le dice tienes que enfocarte como con eat tienes que mostrarle que eres superior y que sera parte de tu ejercito
+
+**Confirmación del referente:** se preguntó si «como con eat» se refería a Ear, el perro, o a Eat, la habilidad de consumir. Respuesta íntegra del creador: **«Ear, el perro.»** No sustituir el referente por predación/consumo.
+
+### Secuencia actual de trabajo
+
+1. Después de la derrota colectiva del dragón rojo, Mau encuentra que necesita una palabra de confirmación. Ciel ayuda: «dame un segundo». Analiza lo que tienen disponible y, mediante varios intentos, llegan a **Arise**. No conoce la palabra desde antes por omnisciencia; no fijar ahora qué candidatos descartan o una cantidad exacta.
+2. El creador propone que el primer intento de Mau con el dragón falle porque no sabe cómo hacerlo. Pronunciar la palabra correcta puede no bastar. Separar los tanteos de la palabra de este intento de extracción: no importan por omisión un límite de tres intentos ni reintentos infinitos.
+3. Ciel le indica que tiene que enfocarse, como con **Ear**: mostrarle que es superior y que formará parte de su ejército. Mau debe realizar ese acto de enfoque/autoridad; la asistencia de Ciel no lo ejecuta por él. Los términos concretos y actuación se redactarán después.
+4. La continuación permite obtener la sombra del dragón **al final de la roja, antes de la torre**. La adquisición ya era dirección vigente; esta aclaración le da aprendizaje y un posible fallo inicial. Mantener coste/reserva inicial limitados y lo que necesiten descansar, sin convertir la escena en otro desbloqueo de toda la bag.
+
+### Continuidad y alcance
+
+- Se confirma el puente antes editorialmente propuesto. La vieja ubicación de la primera extracción en el primer piso queda superada; allí pueden profundizar comando/interfaz/restricciones, no descubrir por primera vez Arise. No conservar un cadáver hasta la torre, repetir el boss o quitar el dragón de la roja.
+- Ear es una comparación con algo que Mau ya aprendió a hacer: enfoque y autoridad. No es el mismo ritual de Ten Shadows, otra pelea contra el dragón muerto, un Arise de Ear o una segunda domesticación del perro. El resultado colectivo de la pelea sigue siendo colectivo; la extracción la intenta Mau.
+- Ciel examina y orienta desde la comunicación privada permitida. Si otros oyen su explicación, debe existir el relay; no darle cuerpo/voz pública o poder administrativo sobre todo el System. The Noise conserva su trabajo de construcción/desbloqueo/refinamiento; la rueda no habla ni interpreta órdenes.
+- La palabra abre esta acción cuando existen los medios/condiciones; no garantiza someter a cualquier ser o convertir ya a monarcas/otherworlders. El Black Heart sigue llegando después del Arquitecto. No fijar aquí una regla universal de fuerza bruta como único factor de extracción, cifras de recurso o fallos adicionales.
+
+Esta secuencia pertenece a la planificación de la aventura liderada por Frieren; se desarrolla tras el combate y no reemplaza su botín/grimorios o el regreso. Sin capítulo producido, modificación S4 o permiso de escribir toda S5.

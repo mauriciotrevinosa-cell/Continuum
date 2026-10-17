@@ -60,7 +60,7 @@ Sí había detalles demasiado implícitos en el integrado. La revisión los hace
 
 1. Entrar/salir/reentrar, progreso persistente o reset y ritmo del verano; el upgrade propone save points sólo para ciertos dungeons multinivel, todavía por definir. No copiar reloj rojo ni permitir rescate retroactivo de roja.
 2. Llave owner Mau permite compañeros; destino exacto, presencia requerida y qué entrada/instalación se traslada una vez.
-3. Arise temprano frente al dragón rojo muerto antes; elegir solución sin cadáver almacenado/respawn inventados por omisión.
+3. Puente Arise/dragón rojo ya elegido: Ciel ayuda a hallar confirmación, posible primer fallo y enfoque por analogía con Ear al final de roja. Desarrollar coste/control; no cadáver almacenado/respawn ni nueva primera extracción en torre.
 4. Diez/cien: almacenadas, simultáneas o ambas; extracción, mantenimiento, recuperación y coste.
 5. Niveles/puntos/quests versus sincronización/brazaletes, mundo/gates/retorno y ficha privada por persona.
 6. Copias: voces/personalidades ahora pedidas; memoria/potencia inicial y evolución por nivel frente a análisis aún por fijar. Beru/Igris y Bellion confirmado; Kaisel/Kamish además del dragón rojo; Tank/Fang candidatos.
@@ -124,3 +124,7 @@ La [nueva dirección íntegra](S5_MAU_TRIAL_WEDDING_TRIGGER_AND_COMPANIONS_CREAT
 [mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). Comprobado contra semillas de Taihei, Touka/Ichika y Armin, Ear ya domesticado, monedas y condiciones de recuperación. Black Heart no contradice su ausencia durante100: se coloca después. El desenlace deja de estar sin elegir; faltan su construcción y consecuencias. El dragón ya poseído exige ajustar explícitamente el puente Arise anterior, no borrarlo. Tres dragones/wyverns, voces/rango de copias y costo de restaurar a Beru se registran por separado.
 
 Contacto Jin-Woo roto, futura extracción aún inactiva, poción sólo por componentes, recuperación parcial hacia S6 y pocos nuevos familiares evitan convertir el plan en una entrega simultánea de máximos. R58–R63 sitúan sombras/familias/relevo junto a R01–R57 existentes. Quinto nombre/monedas, poder del corazón, elegibilidad, condiciones de ritual y huida quedan pendientes acotados; no otro pedido de que el creador invente el final desde cero. No producción de S5, relectura total o canon fuente completo verificado.
+
+## Primera extracción — ya no falta elegir el puente temporal
+
+[secuencia completa de Ciel/Arise y confirmación de Ear](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md#primera-extracción-del-dragón-rojo--aclaración-posterior-del-creador). El creador confirma a Ear como referente y aporta análisis/tanteos de Ciel, Arise, primer fallo propuesto y aprendizaje de enfoque/autoridad. Actualizadas la antigua prohibición de moverlo a roja y las filas que aún trataban el lugar como abierto. Queda construir la escena y coste, no volver a pedir una solución de cadáver/respawn. Fuentes/capítulos anteriores y resto de reglas conservados.

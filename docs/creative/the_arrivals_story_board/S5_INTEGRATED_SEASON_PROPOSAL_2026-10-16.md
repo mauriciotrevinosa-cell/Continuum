@@ -127,7 +127,7 @@ Son P para elegir/desarrollar, no escenas aprobadas. Lo que añadimos debe produ
 | Brazaletes ~100 removibles/recuperación/kit/visualización compartida activada | F–G; poderes | C; niveles/sync por resolver |
 | Llave owner Mau con acompañantes, gate próxima y margen de descanso | F–G | C; acceso/destino fino abierto |
 | Relocalización única/shop oculto/casa | Mundo | C; identificar instalación |
-|100 pisos verano, Arise, recursos finitos, niveles/misiones | G | C; curva por fijar |
+| Primera extracción Ciel/Arise/enfoque como Ear al final de roja;100 pisos con recursos finitos y niveles/misiones | E–G | C: ubicación/secuencia nuevas; primer fallo propuesto, coste/curva por desarrollar |
 | Beru/Igris/Bellion confirmado, Kaisel/Kamish más dragón rojo, Tank/Fang candidatos, copias/evolución | G; poderes | C; habla/personalidad pedidas; orden/costes/memoria y potencia inicial abiertos |
 | Amenaza corazón -> rueda -> oferta puntos | G; poderes | C escena; mecanismo abierto |
 | Umaru build, guardar puntos, nuevas categorías/CE/mana | G; relaciones/poderes | C gradual |
@@ -163,7 +163,7 @@ Estas bases se heredan de la prosa/planes actuales; recompensas posteriores pued
 
 ## Antes de cerrar el outline
 
-Completar fichas de poder y revisión individual de vínculos; resolver sincronización/niveles, Arise/dragón previo, llave/relocalización, recurso sombra, restrictions/walls y rueda/mensaje. Construir medios/consecuencias de arcos, no sólo detonante y boss. Reconciliar calendario S4/aniversario, reset, recuperación, tres días, hora externa y verano. Revisar monedas/variantes antes de nuevas llegadas. Comprobar qué vida avanza entre ascensos. Después presentar outline integrado al creador; sólo con verde explícito escribir capítulos. No fijar cantidad de volúmenes o final del Arquitecto aún.
+Completar fichas de poder y revisión individual de vínculos; resolver sincronización/niveles, costes/control de la primera extracción Ciel/Arise ya situada en roja, llave/relocalización, recurso sombra, restrictions/walls y rueda/mensaje. Construir medios/consecuencias de arcos, no sólo detonante y boss. Reconciliar calendario S4/aniversario, reset, recuperación, tres días, hora externa y verano. Revisar monedas/variantes antes de nuevas llegadas. Comprobar qué vida avanza entre ascensos. Después presentar outline integrado al creador; sólo con verde explícito escribir capítulos. No fijar una cantidad de volúmenes desde las tablas antiguas; desarrollar la ejecución del final del Arquitecto ya elegido por el creador.
 
 ## Ampliación v0.3 — charla de Sukuna ya propuesta
 
@@ -234,3 +234,7 @@ La mención de boda en una comida provoca Mau atragantado/Frieren sonrojada y de
 [mensaje íntegro, Bellion confirmado y desarrollo separado](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md). El nuevo paquete conserva literalmente la petición y la confirmación de Bellion. Sombras con voces/rasgos propios, desafío Beru/Frieren y mejoras tienen vida entre ascensos; Jin-Woo apenas logra frases separadas por días. Completar100 da componentes de poción, no una economía de curación. El Arquitecto ya tiene dirección de cierre y continuidad antagónica: su entusiasmo/Black Heart/huida enlazan con la oferta de Sukuna y futura búsqueda de monarcas, sin ejecutar la guerra S6.
 
 Taihei, Touka/Ichika y Armin continúan nudos existentes; son cuatro nombres y quizá unas cinco llegadas, quinto sin elegir. Monedas/consentimiento/puntos de extracción por fijar; Kaneki tiene una y necesita dos. Eren/Mikasa disfrutan mañanas/relaciones con menos obligación de llevar el conflicto. No se retconea su S4. Tras el Arquitecto, sombras pueden relevar noches con costes y cobertura definidos. Tres accesos aún separados y el dominio progresivo de shikigami —Ear excepcional, no retameado— preparan futura unión/Mahoraga. Recuperaciones parciales pueden seguir a S6 sin hacer de100% de base un potencial eterno. La vida de los demás, fechas/días/Queen2 y proyectos ya elegidos permanecen entrelazados; no se sustituyen por nuevas escenas de boss.
+
+## Puente de primera extracción resuelto por el creador
+
+[secuencia completa de Ciel/Arise y confirmación de Ear](S5_TOWER_SHADOWS_FAMILIES_AND_ARCHITECT_CREATOR_FULL_PROPOSAL_2026-10-16.md#primera-extracción-del-dragón-rojo--aclaración-posterior-del-creador). Tras la victoria colectiva sobre el dragón rojo, Ciel ayuda a encontrar la confirmación Arise; el primer fallo propuesto lleva al consejo de enfocarse como con Ear y mostrar autoridad para incorporarlo al ejército. Primera adquisición antes de torre, no cadáver guardado o descubrimiento repetido en piso1. Costes/interfaz y puesta en escena siguen pendientes; esta aclaración no autoriza prosa de temporada.

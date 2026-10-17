@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 41 — The First Reading
+## Chapter 45 — The First Reading
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 41
+**Reading order:** 45
 **Continuity state:** The bracelets distinguish source recovery, learned skill and Mau's acquired branch; sharing is chosen and unknown calibration is not replaced by invented percentages
 
 *When: Day 285, morning.*

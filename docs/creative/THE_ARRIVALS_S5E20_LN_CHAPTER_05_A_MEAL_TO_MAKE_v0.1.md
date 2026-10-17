@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 45 — A Meal To Make
+## Chapter 49 — A Meal To Make
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 45
+**Reading order:** 49
 **Continuity state:** Rem directs a shared meal with Ram, Mau, Frieren and Fern helping; Momo takes actual chosen time off and the trial does not make Rem permanent substitute chef
 
 *When: Day 285, supper.*

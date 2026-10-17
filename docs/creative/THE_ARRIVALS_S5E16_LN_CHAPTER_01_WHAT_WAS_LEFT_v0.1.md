@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 21 — What Was Left
+## Chapter 24 — What Was Left
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 21
+**Reading order:** 24
 **Continuity state:** Food, crystals and limits are counted separately; no secret inventory or healing supply appears; the party chooses the final approach together
 
 *When: Day 280 outside / Red Gate night five.*

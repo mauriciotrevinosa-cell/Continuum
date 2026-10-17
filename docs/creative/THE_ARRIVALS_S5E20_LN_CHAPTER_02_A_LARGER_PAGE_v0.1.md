@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 42 — A Larger Page
+## Chapter 46 — A Larger Page
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 42
+**Reading order:** 46
 **Continuity state:** Umaru begins a real provisional build sheet while Mau retains ten unspent points; Intelligence, shadow reserve, CE and existing mana are not interchangeable
 
 *When: Day 285, late morning.*

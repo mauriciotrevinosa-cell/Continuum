@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 13 — Breakfast For Six
+## Chapter 14 — Breakfast For Six
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 13
+**Reading order:** 14
 **Continuity state:** A complete ordinary camp morning lets all six share work and humour without an emergency or a new power lesson
 
 *When: Day 280 outside / Red Gate day three, morning.*

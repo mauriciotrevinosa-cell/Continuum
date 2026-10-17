@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 24 — The Dragon
+## Chapter 28 — The Dragon
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 24
+**Reading order:** 28
 **Continuity state:** The planned six-person encounter begins; Milim roars back and follows Frieren's timing while the others establish their positions
 
 *When: Day 280 outside / Red Gate day seven, morning.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 29 — What Came Home
+## Chapter 33 — What Came Home
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 29
+**Reading order:** 33
 **Continuity state:** Medical care and chosen reports follow the return; loot and shadow resources remain distinct and shared-clock relief does not erase the week
 
 *When: Day 280, late morning.*

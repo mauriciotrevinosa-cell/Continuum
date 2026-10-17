@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 51 — The Cold Jar
+## Chapter 55 — The Cold Jar
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 51
+**Reading order:** 55
 **Continuity state:** One drink and food become paid stock; a limited gate cooling component demonstrates finite heat transfer, not a restored electrical grid; Coco's mother and Nazuna have chosen domestic and leisure time
 
 *When: Day 286, late afternoon.*

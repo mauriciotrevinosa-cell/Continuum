@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 60 — A Table Away
+## Chapter 64 — A Table Away
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 60
+**Reading order:** 64
 **Continuity state:** Coco's mother, the workshop circle and Nazuna have ordinary chosen lives alongside shared duties; the house is not reorganized solely around Mau's next gate
 
 *When: Day 287, late afternoon.*

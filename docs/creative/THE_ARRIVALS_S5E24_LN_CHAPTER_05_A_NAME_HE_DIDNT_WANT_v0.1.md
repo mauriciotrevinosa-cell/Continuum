@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 65 — A Name He Didn't Want
+## Chapter 69 — A Name He Didn't Want
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 65
+**Reading order:** 69
 **Continuity state:** Mau privately wants greater strength because enemies can recover and evolve too; it is a fearful ambition, not a title achieved or a secret plan to replace his family
 
 *When: Day 287, later that night.*

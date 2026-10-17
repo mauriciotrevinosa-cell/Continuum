@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 50 — One Drink
+## Chapter 54 — One Drink
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 50
+**Reading order:** 54
 **Continuity state:** The food expansion begins with one chosen drink and one food proposal, not an instant complete catalogue; Umaru's wider supply plan remains active and purchases still cost shared crystals
 
 *When: Day 286, afternoon.*

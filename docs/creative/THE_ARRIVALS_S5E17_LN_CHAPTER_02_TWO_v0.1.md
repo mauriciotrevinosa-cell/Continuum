@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 27 — Two
+## Chapter 31 — Two
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 27
+**Reading order:** 31
 **Continuity state:** The second grimoire, fire crystal, roughly100 removable bracelets, owner-bound party key and unused one-time linked-entrance relocation reward are obtained; no immediate upgrades are applied
 
 *When: Day 280 outside / Red Gate day seven, the rewards.*

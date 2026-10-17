@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 33 — The Petition
+## Chapter 37 — The Petition
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 33
+**Reading order:** 37
 **Continuity state:** The fort fixes its separate owed day for Day284; Bocchi and Umaru exercise their own agency and Queen2 does not consume the fort's promise
 
 *When: Day 281, afternoon.*

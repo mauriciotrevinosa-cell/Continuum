@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 14 — The Long Way
+## Chapter 15 — The Long Way
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 14
+**Reading order:** 15
 **Continuity state:** A broken ravine crossing changes Frieren's route; Yuka's rope and Stark's practical work matter; Mau's low levitation cannot replace a safe crossing
 
 *When: Day 280 outside / Red Gate day three, afternoon.*

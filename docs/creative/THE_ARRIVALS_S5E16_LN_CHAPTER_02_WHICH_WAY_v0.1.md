@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 22 — Which Way
+## Chapter 25 — Which Way
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 22
+**Reading order:** 25
 **Continuity state:** The compass is used only as a direction toward Frieren; the couple shares a reciprocal quiet interval and the lived week does not become only combat
 
 *When: Day 280 outside / Red Gate day six, midday.*

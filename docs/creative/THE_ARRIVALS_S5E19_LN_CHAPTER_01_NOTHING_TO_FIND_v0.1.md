@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 36 — Nothing To Find
+## Chapter 40 — Nothing To Find
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 36
+**Reading order:** 40
 **Continuity state:** Frieren follows through on a small outing centred on Mau's choice; the separate fort day remains tomorrow and no gate opening or new power is attempted
 
 *When: Day 283, late morning and afternoon.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 28
-## Chapter 23 — The High Pass
+## Chapter 26 — The High Pass
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 28
-**Reading order:** 23
+**Reading order:** 26
 **Continuity state:** Frieren scouts and plans the final encounter without attacking tired; all six have distinct jobs and a route back to shelter
 
 *When: Day 280 outside / Red Gate day six, late afternoon.*

@@ -1820,3 +1820,7 @@ Tobacco uses creator-authorized post-return placement, with empty frame/no seed 
 ## DH-116 — V28 production and creator anniversary compass addition,2026-10-17
 
 Creator asksV28thencontinuousproductionwithpartialpushesabout20minutes,notendturnforeachcommit. Additionalexactdirection: Frieren givesMaucompassthatpointsatherasanniversarygift. SourcecheckedS4E27#2: oldsilvercrackedcompassGojo→F, nowgiftF→MauV28#24. 25chapterdraftandcurrentstatepersisted; notcreator-approved. [Record](S5_V28_PRODUCTION_RECORD_2026-10-17.md). UpcomingV29proseauthorizedwithincontinuousrequest, mustcarryday277/280calendarandconsequences.
+
+## DH-117 — V29 continuous-production batch,2026-10-17
+
+Following the creator's request to continue after partial pushes, V29 is written as30shorter reading chapters, with real week-long travel/camps/relationships before dragon/rewards/return. First20 pushed separately before ending. [Exact produced state and remaining work](S5_V29_PRODUCTION_RECORD_2026-10-17.md). Engineering/provider changes not included. This registers written state, not creator approval of the draft.

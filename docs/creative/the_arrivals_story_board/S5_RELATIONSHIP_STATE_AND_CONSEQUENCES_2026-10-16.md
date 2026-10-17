@@ -221,3 +221,28 @@ Day268–269,#5–12. Contactanalysisaccidentusesactivationword, nottakoverinten
 
 ### REL-S5-014 — Fern / Frieren / Mau, expedition time
 #21/#25. Fernagreespracticalcoverage/supplies; FnotyetaskedFernpersonally; Mauleavesansweropen. Noremovalofroleorfullshared-workemotionalarcclaimed. Fchoosesplanninggift,notpermissiontowantit. V29mustshowactualrecruitment; wedding/Queen2/fortdaysremainfuture.
+
+## V29 — actual draft events,2026-10-17
+
+Next ID: **REL-S5-022**. [V29 source/exit record](S5_V29_PRODUCTION_RECORD_2026-10-17.md). These events are written, not creator-approved.
+
+### REL-S5-015 — Frieren / Fern / Stark
+Days278–280, #2/#9/#16/#23/#30. Frieren asks Fern to travel with her, gives specific earned praise, accepts her route choice; Fern chooses to join, remains capable and has her own Stark time. No full role redistribution yet. Carry the warmth and independent interests intoV30, not another first invitation/praise lesson.
+
+### REL-S5-016 — Mau / Frieren, chosen adventure
+#5/#8/#22/#25/#30. She leads, had seen the arrow, accepts his signal but keeps tactical authority. He helps without taking over, they share ordinary reciprocal time and compass use. Two books earn two offered Queen2 days, still unspent. Return is happy/tired, not another promise rupture or engagement.
+
+### REL-S5-017 — Yuka / Mau / grandparents
+#1/#11–14/#17/#20/#28–30. Yuka chooses party role, maps/scouts/rope/retreat work, acknowledges frightening encounters and returns to Yuta/Maki. Oppa rhythm persists alongside grandparents, no romance/parent replacement. White dog is already tamed, short costly summon, not Ear.
+
+### REL-S5-018 — Milim / Mau / Ori / Rimuru
+#3/#10/#13/#19/#28–30. Milim follows the actual leader, shares watch and harmless bark-slide play, accepts rest and concern, returns to Ori/Rimuru. Not only muscle or comic food theft. Ori and Rimuru waited one exterior hour, not the whole week. Fort day remains distinct.
+
+### REL-S5-019 — Gojo / Shoko / Mau
+#3/#15/#30. Teasing prompts an invitation; Gojo asks properly, Shoko sets expectations, Mau helps without scripting them. Gate emergency interrupts morning; actual date not held. Gojo knows compass gift by seeing it from Mau's hand, not mind access. Continue invitation toward an actual chosen outing later.
+
+### REL-S5-020 — Yuta / Maki
+#1/#6/#15/#28–29. They choose unstructured time together; short exterior emergency does not erase that choice or give them a week's separate scenes. They support one another and reunite with Yuka. Preserve ordinary couple time after duty, no reset to work-only lives.
+
+### REL-S5-021 — Mau / household / new resources
+#27–30. Reports and treatment precede tests. Loot is common record, personal points unspent, fields shared by choice, no family claim to memories. Mau rests rather than filling every role; Ori maps and promised fort day persist. New shadow not already an infinite night guard or replacement for everyone else's life.

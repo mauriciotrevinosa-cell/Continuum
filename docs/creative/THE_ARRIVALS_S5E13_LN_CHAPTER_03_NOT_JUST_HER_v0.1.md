@@ -30,7 +30,7 @@ The arrow hung.
 
 Its tip stopped a finger's breadth from the place his palm would have been. The feathers shivered. Beyond it, on the branch, the archer went perfectly still.
 
-"Close after the drop," Ciel told him privately.
+*Close after the drop,* Ciel told him privately.
 
 He tilted his hand away, let the arrow fall into the soft bank, and closed.
 

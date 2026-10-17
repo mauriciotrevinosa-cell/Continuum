@@ -385,3 +385,12 @@ not on this list. Add a line every time the creator catches a new slip.
 - Exchange268/rest269/laternormalcompletion270/date277; weeklynormalreset273next280. Dateisbelatedanniversary,notfirstdate/norfirstyearjustelapsed. #25leaves3preparationdays,notalreadyRedGate.
 - NoiseaccidentalactivationnotintentionaltakeoverafterV27agreement; ‘sorry’/‘yes’doesnotendbuilding/leaks. WarprivateJin-WoonotificationnotMau/houseknowledge. Cielonlypostreturnestimate/chosenaccount, noliveotherworldrecord.
 - V28privateLevel1statstrunknotarmy/BlackHeart/Systemforothers; speciesblank. 3normalrewardbooksnot2futureRedGatebooks/Queen2. Naturalhoverexistswithload/duration/medicalconditions,notfreecombatflight. Blueprintnotfullenergygrid/shopupgrade.
+
+## V29 draft continuity traps —2026-10-17
+
+- Seven days inside RedGate, ONE HOUR outside onDay280. External scenes are minutes4/17/about60. No week-long Yuta/Maki or Gojo/Shoko date happens while sealed. Ciel's normal host relay is blocked; no independent clones or omniscient external view.
+- Frieren leads and saw the arrow herself. Mau's Infinity is a signal, not rescuing an unaware helpless elf. No free kit restoration from reduced external restriction.
+- First Arise is RedGate dragon (#26), not floor1. Ciel words/failed correct attempt/focus like EAR the dog. One registered dragon, storage10 not10 simultaneous dragons; finite separate reserve, no BlackHeart. Ear/WhiteDog/new dragon are distinct.
+- Mau Level3/ten points unspent; source100% and tower-floor100 unrelated. Bracelets are new/private/selected sharing/calibration; they do not grant every character Mau's levelling trunk. Existing unknown source fields remain unknown.
+- Two new books: boot drying / softening hard bread. Queen2 owed two days, not used while exhausted. Compass remains Mau's V28 anniversary gift, not new loot; five flowers at home. Fort day/full Mau-day not paid by this trip.
+- Key opens after7 exterior days, owner needed at entry, companions allowed. One linked normal entrance/shop relocation claim and modest expansion still unused. Do not duplicate all gates, rebuild house or make shop public as an automatic reward.

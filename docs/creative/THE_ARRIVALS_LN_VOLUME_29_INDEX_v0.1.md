@@ -5,9 +5,9 @@
 **Season:** 5
 **Coverage:** S5E12–17
 **Volume title:** **The Long Way Round**
-**Chapter count:** 20
+**Chapter count:** 30
 
-**Production state:** PARTIAL CHECKPOINT. The ending is not written yet; creator review pending.
+**Production state:** COMPLETE PRODUCTION DRAFT; creator review pending. Days278–280 outside, including a seven-day interior expedition.
 
 | Order | Source episode | LN chapter | File |
 |---:|---|---|---|
@@ -31,3 +31,15 @@
 | 18 | S5E15 | Five Points | `THE_ARRIVALS_S5E15_LN_CHAPTER_03_FIVE_POINTS_v0.1.md` |
 | 19 | S5E15 | Not This Morning | `THE_ARRIVALS_S5E15_LN_CHAPTER_04_NOT_THIS_MORNING_v0.1.md` |
 | 20 | S5E15 | At The Snowline | `THE_ARRIVALS_S5E15_LN_CHAPTER_05_AT_THE_SNOWLINE_v0.1.md` |
+| 21 | S5E16 | What Was Left | `THE_ARRIVALS_S5E16_LN_CHAPTER_01_WHAT_WAS_LEFT_v0.1.md` |
+| 22 | S5E16 | Which Way | `THE_ARRIVALS_S5E16_LN_CHAPTER_02_WHICH_WAY_v0.1.md` |
+| 23 | S5E16 | The High Pass | `THE_ARRIVALS_S5E16_LN_CHAPTER_03_THE_HIGH_PASS_v0.1.md` |
+| 24 | S5E16 | The Dragon | `THE_ARRIVALS_S5E16_LN_CHAPTER_04_THE_DRAGON_v0.1.md` |
+| 25 | S5E16 | The Opening | `THE_ARRIVALS_S5E16_LN_CHAPTER_05_THE_OPENING_v0.1.md` |
+| 26 | S5E17 | Arise | `THE_ARRIVALS_S5E17_LN_CHAPTER_01_ARISE_v0.1.md` |
+| 27 | S5E17 | Two | `THE_ARRIVALS_S5E17_LN_CHAPTER_02_TWO_v0.1.md` |
+| 28 | S5E17 | An Hour | `THE_ARRIVALS_S5E17_LN_CHAPTER_03_AN_HOUR_v0.1.md` |
+| 29 | S5E17 | What Came Home | `THE_ARRIVALS_S5E17_LN_CHAPTER_04_WHAT_CAME_HOME_v0.1.md` |
+| 30 | S5E17 | Two Books, Two Days | `THE_ARRIVALS_S5E17_LN_CHAPTER_05_TWO_BOOKS_TWO_DAYS_v0.1.md` |
+
+Previous volume: [V28 — A Little Longer](THE_ARRIVALS_LN_VOLUME_28_INDEX_v0.1.md).

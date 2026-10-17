@@ -8,6 +8,8 @@
 
 *When: Day 280 outside / Red Gate day five, afternoon.*
 
+The afternoon walk was meant to take them only to a better camp, still short of the pass.
+
 The first arrow struck the tree ahead of Stark.
 
 A warning, perhaps. Or a poor shot. Frieren did not let the uncertainty decide their next step.

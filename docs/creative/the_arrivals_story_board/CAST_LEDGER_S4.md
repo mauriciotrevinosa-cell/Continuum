@@ -1,5 +1,7 @@
 # The Arrivals: cast ledger (living document, created 2026-10-10)
 
+> **Latest produced state: V29, Day280 evening.** [Exact exit record](S5_V29_PRODUCTION_RECORD_2026-10-17.md), REL-S5-015–021 and the appended power delta govern current changes. Mau now has one stored dragon, Level3/ten unspent points and bounded operations; no BlackHeart or army. Queen2/fort time remain future; older notices below are historical.
+
 > **Current produced state:** V28draftendsDay277; [exit record](S5_V28_PRODUCTION_RECORD_2026-10-17.md) and REL-S5-009–014 supersede older entry notices for new events. S4 fichas remain historical extraction/arrival evidence. New compasscustodianMau; unfinishedprivateLevel1structure; naturalhoverlimited; noRedGate/Arise/BlackHeartyet.
 
 > **Current produced-draft state — V27/Day267,2026-10-17:** [V27 exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md) and [relationship events](S5_RELATIONSHIP_STATE_AND_CONSEQUENCES_2026-10-16.md) now follow the S4 snapshot below.29 S5 chapters produced; creator approval pending. No new combat-kit restoration. Do not read earlier “S5 unwritten” planning statements as current status.

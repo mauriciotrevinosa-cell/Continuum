@@ -882,3 +882,20 @@ Antes del primer diagnóstico con brazaletes, normalizar las versiones exactas d
 ## Produced delta — V28,2026-10-17
 
 [V28record](S5_V28_PRODUCTION_RECORD_2026-10-17.md), currentdraftnotcreatorapproval. Mau: accidentalExchangeacquiresunfinishedbody/statstrunkanddevelopingseed; personalinterfaceLevel1/speciesblank, unreadablefields, noArise/army/BlackHeart/universalreservoir. Trainingnewnaturalhover: same tinyownmana+efficiency+F instruction, firstlow272thennear1munloadedandbriefslowlowloaded276; read/walk/cargolimits distinct. Guardrailsrestored; normalgatefinewithmedicalscope, otherworlduncapwasbodyharm, notrecoveredsource100%. Cielinitialestimate/accountnotlivewarrecord. No newpercentagesforanyone. Someshadowlinkunderstudy, noJin-Woohotlineyet. Braceletshowcaseawaitsroja. Currentrestrictionsnotdeletedbyasinglewin.
+
+## Produced delta — V29,2026-10-17
+
+[Full source/exit record](S5_V29_PRODUCTION_RECORD_2026-10-17.md), draft pending creator review. These actual operations supersedeV28's state for the changed fields only; source extraction baselines are unchanged.
+
+| Change | Source | Actual operation | Cost, limits and knowledge |
+|---|---|---|---|
+| Narrow defensive access | #4/#8 | One-breath monitored Infinity test, then short arrow stop with Ciel/Noise | Internal walls stay closed except selected pattern; headache, no repeated practice or all-kit clearance. Frieren was aware of arrow. |
+| Basic CE / one small Red | #17/#25 | Single strike at pond; later bounded eye hit after coordinated opening | Bruised/burned fingers, follow-up care; closes promptly, no Purple/Domain/new global recovery. |
+| New branch levels | #18/#25/#29 | Level2 then3, five then ten total unspent points | Gate encounters only observed trigger; no points spent, no restored wounds or other-person XP. Existing mana/CE remain separate. |
+| First dragon shadow | #26/#29 | Ciel-assisted Arise, first correct command fails, focus like Ear succeeds; one registered | Ten storage places, finite shallow separate reserve drains during manifestation, no refund on storage; no automatic10 simultaneous dragons, source originals, BlackHeart or infinite regrowth. |
+| Natural flight | #21–22/#28 | Brief low-load frame trials, supported couple hover, short low reward exit | Frieren supports much own weight; others carry gear; Mau lands as exterior resistance returns. Not cargo fleet or unrestricted combat flight. |
+| Yuka white dog | #11/#29 | Short scouting recall, identifies trap | Already tamed female; real fatigue, no new ritual/ten-shadows completion. Ear remains distinct and rested. |
+| Frieren / Fern | #9/#12–13/#16 | Candle partial success, boot spell study, frost-ring observation and coordinated existing spells | Observation not instant new glyph/spell, no invented source100% or new mana reservoir. |
+| Bracelets / appraisal | #27 |100 removable measuring tools, wearer calls fields and selects sharing; gate-axeE / fire component | Private calibration pending, no source-memory disclosure or levels for all. Weapon rank is equipment, not person; component needs compatible mount and spends charge. |
+
+No new numeric restoration percentages assigned. Key/relocation/shop rewards are not combat powers; use requires later household planning. Seed/identity/origin/lifespan unknown; one physical heartbeat remains before Architect.

@@ -25,6 +25,10 @@ Mau remains Level3/ten unspent points, one resting dragon, ten storage places bu
 4. Sukuna night encounter before key-gate activity: read complete latest vow/talk/evolution packet first. Exact protection/vow terms, Gojo/Frieren intervention, sacrificed WCS route and study are not optional. Hooded-guy identity still unknown; no invented coalition facts as household knowledge. Do not compress this scene into a summary to finish the volume.
 5. Continue other bonds and independent household life as these arcs develop. Full Mau-day R20, Gojo/Shoko actual date, tower, wedding trigger/Himmel, future arrivals and Architect remain ahead. Do not spend them by mentioning them.
 
-## Delivery state
+## Actual delivery state — final verification
 
-V28 andV29 complete and verified in reader:29volumes/827chapters at source `6f9ff2f0253196046f6e68d42df02b32eab2c8a2`. V30's ten chapters are a Git backup, not a completed-volume publication. No resync performed for this partial checkpoint. Browser bookmark/localStorage untouched. V30 baseline protects856 prior chapter/index blobs.
+The reader automatically follows the Git branch when it is read, even without an explicit resync call. Final verification found the partial checkpoint also visible. This supersedes the earlier expectation that omitting a manual resync would keep partial work Git-only.
+
+**Current reader:**30 volumes /837 chapters. V28 andV29 are complete drafts; V30 contains only its first10 chapters and is explicitly marked PARTIAL in the index.36 delivery assertions passed at `114b3d65532c8a18c72ba4faeca8b95e977f3bab`: all10 bodies plus index exactly match Git,856 prior source blobs remain unchanged, and V29→V30/navigation/IDs are correct. No browser, JavaScript or localStorage operation occurred; bookmark untouched.
+
+Future checkpoints in this branch can become visible automatically. Preserve partial labels and never report a partial volume as complete. Do not change app architecture or project source merely to hide the checkpoint. Continue at chapter11; the rest ofV30 still needs writing.

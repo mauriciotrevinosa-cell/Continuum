@@ -4,7 +4,7 @@
 
 [V30 exact events, constraints and remaining work](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md). Read this first, not the older V29-only entry below. Queen2's two days281–282 and separate full fort day284 are now fulfilled; the small reciprocal outing283 also happened. Do not promise these again or spend the separate whole Mau-day R20. No new combat unlock, point spending, shop application, relocation, role restructuring, Sukuna talk or tower activity has been written inV30 yet.
 
-Batch so far: V28 25 chapters +V29 30 complete, plus10 partialV30. Partial Git checkpoints are intentional creator-requested backups. Publication remains29volumes/827chapters at6f9ff2f; no partialV30 resync. Reader progress untouched. Future work continues the partial volume rather than starting over or asking permission again for already authorized production.
+Batch so far: V28 25 chapters +V29 30 complete, plus10 partialV30. Partial Git checkpoints are intentional creator-requested backups. Final reader verification:30 volumes/837 chapters, including the10 explicitly partialV30 chapters. The reader follows Git automatically even without a manual resync; the earlier Git-only expectation was incorrect. Reader progress untouched. Future work continues the partial volume rather than starting over or asking permission again for already authorized production.
 
 ## Completed V29 entry context (historical)
 

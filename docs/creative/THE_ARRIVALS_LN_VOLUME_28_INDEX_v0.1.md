@@ -1,0 +1,33 @@
+# The Arrivals — Light Novel — Volume 28
+
+**Status:** LN PRODUCTION DRAFT — S5 v0.1
+**Volume:** 28
+**Season:** 5
+**Coverage:** S5E07–S5E11
+**Volume title:** **A Little Longer**
+**Chapter count:** 20
+
+**Production state:** PARTIAL CHECKPOINT. More chapters follow; not creator-approved.
+
+| Order | Source episode | LN chapter | File |
+|---:|---|---|---|
+| 1 | S5E07 | Before Work | `THE_ARRIVALS_S5E07_LN_CHAPTER_01_BEFORE_WORK_v0.1.md` |
+| 2 | S5E07 | The Day They Missed | `THE_ARRIVALS_S5E07_LN_CHAPTER_02_THE_DAY_THEY_MISSED_v0.1.md` |
+| 3 | S5E07 | Four Will Go | `THE_ARRIVALS_S5E07_LN_CHAPTER_03_FOUR_WILL_GO_v0.1.md` |
+| 4 | S5E07 | Week Twenty-Four | `THE_ARRIVALS_S5E07_LN_CHAPTER_04_WEEK_TWENTYFOUR_v0.1.md` |
+| 5 | S5E07 | The Black Ant | `THE_ARRIVALS_S5E07_LN_CHAPTER_05_THE_BLACK_ANT_v0.1.md` |
+| 6 | S5E08 | Exchange | `THE_ARRIVALS_S5E08_LN_CHAPTER_01_EXCHANGE_v0.1.md` |
+| 7 | S5E08 | The Other Man | `THE_ARRIVALS_S5E08_LN_CHAPTER_02_THE_OTHER_MAN_v0.1.md` |
+| 8 | S5E08 | Without A Sky | `THE_ARRIVALS_S5E08_LN_CHAPTER_03_WITHOUT_A_SKY_v0.1.md` |
+| 9 | S5E08 | Hers | `THE_ARRIVALS_S5E08_LN_CHAPTER_04_HERS_v0.1.md` |
+| 10 | S5E08 | Alive | `THE_ARRIVALS_S5E08_LN_CHAPTER_05_ALIVE_v0.1.md` |
+| 11 | S5E09 | The Missing Minutes | `THE_ARRIVALS_S5E09_LN_CHAPTER_01_THE_MISSING_MINUTES_v0.1.md` |
+| 12 | S5E09 | Sorry | `THE_ARRIVALS_S5E09_LN_CHAPTER_02_SORRY_v0.1.md` |
+| 13 | S5E09 | What We Can Say | `THE_ARRIVALS_S5E09_LN_CHAPTER_03_WHAT_WE_CAN_SAY_v0.1.md` |
+| 14 | S5E09 | A Better Lid | `THE_ARRIVALS_S5E09_LN_CHAPTER_04_A_BETTER_LID_v0.1.md` |
+| 15 | S5E09 | Company | `THE_ARRIVALS_S5E09_LN_CHAPTER_05_COMPANY_v0.1.md` |
+| 16 | S5E10 | The Way They Left | `THE_ARRIVALS_S5E10_LN_CHAPTER_01_THE_WAY_THEY_LEFT_v0.1.md` |
+| 17 | S5E10 | A Book At The End | `THE_ARRIVALS_S5E10_LN_CHAPTER_02_A_BOOK_AT_THE_END_v0.1.md` |
+| 18 | S5E10 | Level One | `THE_ARRIVALS_S5E10_LN_CHAPTER_03_LEVEL_ONE_v0.1.md` |
+| 19 | S5E10 | A Small Distance | `THE_ARRIVALS_S5E10_LN_CHAPTER_04_A_SMALL_DISTANCE_v0.1.md` |
+| 20 | S5E10 | The Price Of Dinner | `THE_ARRIVALS_S5E10_LN_CHAPTER_05_THE_PRICE_OF_DINNER_v0.1.md` |

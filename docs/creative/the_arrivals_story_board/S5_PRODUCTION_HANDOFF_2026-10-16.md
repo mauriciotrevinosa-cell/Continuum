@@ -1,5 +1,14 @@
 # S5 — handoff de producción y estado de trabajo
 
+## Current partial save — V28,2026-10-17
+
+Creator requests continuous production with partial Git pushes about every20minutes, then continuation; never wait for a complete volume to preserve written work. V28 **A Little Longer** is active, 20 actual chapters saved, not creator-approved. The older V27-only handoff below is historical entry context. [Partial index](../THE_ARRIVALS_LN_VOLUME_28_INDEX_v0.1.md).
+
+Next: chapters21–25 finish Fern agreement, controlled low flight/load, dinner preparations, anniversary dinner, Frieren gifting **the existing S4 silver compass from Gojo** (cracked face; points at her), future leadership gift and ordinary bedtime. No Arise/RedGate/army/BlackHeart inV28. DateDay277; next resetDay280 allows three preparation days. After volume audit, update current ledgers and publish existing reader.
+
+Written state: Day268 bounded medical permission→ordinary four-person outing/accidentalExchange/world announcement/Goddess retrieval; Day269 rest/account/apology/debrief; Day270 fresh check→later completion/three books→private unfinished level1 stats; Day272 low natural hover, Day274 Hollis dinner order/Bocchi company. Mau remains physically limited; no species answer. V27 originals must remain untouched.
+
+
 **Updated:**2026-10-17. **State:** V27 DRAFT COMPLETE; creator read-through pending. Published and verified:27volumes/772chapters,29new bodies+index matching committed source; QA records474publication checks. Bookmark untouched. **Next volume:**V28, not started.
 
 ## Real stopping point

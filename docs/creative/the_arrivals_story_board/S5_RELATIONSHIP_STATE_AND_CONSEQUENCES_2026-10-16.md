@@ -285,3 +285,19 @@ Day285#14 affection/role conversation; Fern remains incharge, permits entries/ch
 ## V27 reading revision — no changed endpoint,2026-10-17
 
 [Pacing/dialogue pass](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md). Existing REL-S5-001–008 remain valid outcomes, but their scene texture is expanded. Goddess tells anchor/name FIRST inV27#5, then Mau begins fragmentary recall; no earlier knowledge. #8friends actually struggle with fear andYuta's new question before company, not instantlysettled. #7/#12F'sprocessing and#16Noiseobjection last longer; choices/limits unchanged. #8 explicitly overlapsMakiupstairs, no altered12hclock. No fresh rupture or resolution to carry intoV28.
+
+## V31 first checkpoint — actual chapters1–10
+
+Next ID: **REL-S5-035**. [Source and exact state](S5_V31_PRODUCTION_RECORD_2026-10-17.md). Not creator-approved.
+
+### REL-S5-031 — Mau / Yuka / Yuta / Maki / Ori
+Day288#1/#6/#7 game and clock-drawing return promises actually kept, not replaced by a debrief. Yuka retains brother/Oppa and grandparents, Ori daughter with her own record. Shared game has duration/mistakes/laughter, futuregamewithUmarustayslive. No new adoption, privateTrialdisclosure or parentreplacement.
+
+### REL-S5-032 — Frieren / Fern / Stark / Mau
+Day288#6 F/F bookresultshared; Day289#9–10 F/F/Stark choose own normalgate trip, credited route/handling and quietcompany; Mau listens afterward rather than reporting only his trip. Newlantern not newgrimoire. Fernspecificpraise/timepersists afterV30rolechange, coupleStark/Fernordinarycontact. NotfirstaffectionlessonorMaupermissiontobecapable.
+
+### REL-S5-033 — Gojo / Senku / Byakuya / Shoko / Mau / Rimuru
+Day289#8 tiny comparison has failed/better/failed trials and stopping, personalhumour/interest; no humiliationofGojo'ssourceintelligence orinstantnewpower. Shokochooseslimit,otherslisten. Cielprivate/relay. Date remainspending, presence outsidecombatcontinues.
+
+### REL-S5-034 — Kaneki / Mau / firstparty
+Day288#4 listening/weaponhold/Mau'snetwarningcoordinate, #6comesbackwithparty andtakesownchoices. No inventedfoodcure/kagune/Dragonform or recasting him as a silentworker. His familychoice stillneeds twocoins; invitationtoseeMau-dayworklater notpaidyet. Preserve sharedcompetence andquietfun.

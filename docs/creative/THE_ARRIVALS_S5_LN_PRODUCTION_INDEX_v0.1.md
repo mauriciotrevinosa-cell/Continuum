@@ -11,3 +11,7 @@
 | 30 | Room at the Table | 35 | S5E18–24 | [V30](THE_ARRIVALS_LN_VOLUME_30_INDEX_v0.1.md) |
 
 [Current handoff](the_arrivals_story_board/S5_PRODUCTION_HANDOFF_2026-10-16.md). V30 ends Day287 night; V31 begins S5E25. The first key-gate visit is chosen for Day288 after a check, not already completed. Stable previous chapter IDs/bodies are preserved. Pushed partial checkpoints appear automatically in the reader and must be labelled honestly. No creator approval is inferred from publication.
+
+## Current work in progress
+
+[V31 — The Days Between](THE_ARRIVALS_LN_VOLUME_31_INDEX_v0.1.md) has 10 saved chapters, not a finished volume. [Exact continuation](the_arrivals_story_board/S5_V31_PRODUCTION_RECORD_2026-10-17.md). Complete-draft total above remains119; partial work is additional and not creator approval.

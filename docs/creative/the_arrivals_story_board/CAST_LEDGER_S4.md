@@ -1,5 +1,7 @@
 # The Arrivals: cast ledger (living document, created 2026-10-10)
 
+> **V31 current checkpoint:** Day289evening, chapter10; [exactstate](S5_V31_PRODUCTION_RECORD_2026-10-17.md), REL-S5-031–034. FirstTowerstreetdone/ownerreturntested, Level4/fifteenpoints/twostoredshapesfinite; F/Fern/Starkownouting/lantern. FullMau-dayDay290next, notyetpaid. Olderentrynoticesarehistory.
+
 > **Current actual state: V30 complete, Day287night.** [Exit record](S5_V30_PRODUCTION_RECORD_2026-10-17.md), REL-S5-025–030. Fernsharedexecution/authority andactualtea; newtrialroles, singleinside relocation/shop, Sukuna nightconversation/expiry, plannedfirstfourpartyDay288. Level3/tenpoints/onefinite-reserveddragonunchanged, noBlackHeart. Olderpartialnoticesbelowhistorical.
 
 > **Current partialV30 stop: Day284 bedtime, chapter10.** [Exact saved state](S5_V30_PARTIAL_PRODUCTION_RECORD_2026-10-17.md). Queen2 and fort day now delivered; small reciprocal outing also actual. Powers/rewards unchanged fromV29. RemainingV30 not written; prior notices are dated entry context.

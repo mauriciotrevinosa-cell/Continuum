@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 31
 **Season:** 5
-**Coverage:** S5E52–S5E53
+**Coverage:** S5E52–S5E54
 **Volume title:** **The Hundredth Floor**
-**Chapter files:** 8
+**Chapter files:** 12
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -21,3 +21,7 @@
 | 6 | S5E53 | A Map of Here | `THE_ARRIVALS_S5E53_LN_CHAPTER_02_A_MAP_OF_HERE_v0.1.md` |
 | 7 | S5E53 | Three Who Came Late | `THE_ARRIVALS_S5E53_LN_CHAPTER_03_THREE_WHO_CAME_LATE_v0.1.md` |
 | 8 | S5E53 | What a Hero Is For | `THE_ARRIVALS_S5E53_LN_CHAPTER_04_WHAT_A_HERO_IS_FOR_v0.1.md` |
+| 9 | S5E54 | The Dark Floor | `THE_ARRIVALS_S5E54_LN_CHAPTER_01_THE_DARK_FLOOR_v0.1.md` |
+| 10 | S5E54 | The Warden | `THE_ARRIVALS_S5E54_LN_CHAPTER_02_THE_WARDEN_v0.1.md` |
+| 11 | S5E54 | One Small True Thing | `THE_ARRIVALS_S5E54_LN_CHAPTER_03_ONE_SMALL_TRUE_THING_v0.1.md` |
+| 12 | S5E54 | The Hundred and First | `THE_ARRIVALS_S5E54_LN_CHAPTER_04_THE_HUNDRED_AND_FIRST_v0.1.md` |

@@ -75,3 +75,5 @@ Next block: R16 Gojo/Shoko date, R34 star-naming night, a tower visit with Frier
 - **Day 303 (R29):** a plain-pencil straight-line and curve exercise, no ink. Coco's mother draws perfectly straight from a lifetime of sewing.
 - **Day 304 (R33):** bone dice from Fallow. Maomao knows the not-quite-square die. Jinshi rolls four fives.
 - **Held for the creator:** Taihei's arrival (R60). V29 continues with more tower stretches and household units up to ~55–65 chapters.
+
+- **Reader rule:** the web reader parses the volume index order column as digits only. A row like `12 (pt 1)` is silently dropped. Parts share the plain chapter number in the index (`| 12 | S5E03 | Crackers (Part 1) | ... |`).

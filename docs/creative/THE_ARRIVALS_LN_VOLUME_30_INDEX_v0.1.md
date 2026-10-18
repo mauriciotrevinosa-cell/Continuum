@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 30
 **Season:** 5
-**Coverage:** S5E38–S5E47
+**Coverage:** S5E38–S5E48
 **Volume title:** **The House Lights Its Own**
-**Chapter files:** 42
+**Chapter files:** 45
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -55,3 +55,6 @@
 | 40 | S5E47 | Fern First | `THE_ARRIVALS_S5E47_LN_CHAPTER_02_FERN_FIRST_v0.1.md` |
 | 41 | S5E47 | Three Cups | `THE_ARRIVALS_S5E47_LN_CHAPTER_03_THREE_CUPS_v0.1.md` |
 | 42 | S5E47 | She Hit Me First | `THE_ARRIVALS_S5E47_LN_CHAPTER_04_SHE_HIT_ME_FIRST_v0.1.md` |
+| 43 | S5E48 | Properly | `THE_ARRIVALS_S5E48_LN_CHAPTER_01_PROPERLY_v0.1.md` |
+| 44 | S5E48 | Allowed to Be a Different Colour | `THE_ARRIVALS_S5E48_LN_CHAPTER_02_ALLOWED_TO_BE_A_DIFFERENT_COLOUR_v0.1.md` |
+| 45 | S5E48 | The Good Cups | `THE_ARRIVALS_S5E48_LN_CHAPTER_03_THE_GOOD_CUPS_v0.1.md` |

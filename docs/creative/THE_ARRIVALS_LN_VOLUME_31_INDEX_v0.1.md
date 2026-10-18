@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 31
 **Season:** 5
-**Coverage:** S5E52–S5E61
+**Coverage:** S5E52–S5E62
 **Volume title:** **The Hundredth Floor**
-**Chapter files:** 40
+**Chapter files:** 45
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -53,3 +53,8 @@
 | 38 | S5E61 | The Temple | `THE_ARRIVALS_S5E61_LN_CHAPTER_01_THE_TEMPLE_v0.1.md` |
 | 39 | S5E61 | Six Lessons | `THE_ARRIVALS_S5E61_LN_CHAPTER_02_SIX_LESSONS_v0.1.md` |
 | 40 | S5E61 | Six More | `THE_ARRIVALS_S5E61_LN_CHAPTER_03_SIX_MORE_v0.1.md` |
+| 41 | S5E62 | The Architect | `THE_ARRIVALS_S5E62_LN_CHAPTER_01_THE_ARCHITECT_v0.1.md` |
+| 42 | S5E62 | Everything at Once | `THE_ARRIVALS_S5E62_LN_CHAPTER_02_EVERYTHING_AT_ONCE_v0.1.md` |
+| 43 | S5E62 | The One in the Way | `THE_ARRIVALS_S5E62_LN_CHAPTER_03_THE_ONE_IN_THE_WAY_v0.1.md` |
+| 44 | S5E62 | He Will Work | `THE_ARRIVALS_S5E62_LN_CHAPTER_04_HE_WILL_WORK_v0.1.md` |
+| 45 | S5E62 | Back for Dinner | `THE_ARRIVALS_S5E62_LN_CHAPTER_05_BACK_FOR_DINNER_v0.1.md` |

@@ -4,9 +4,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 45
-**Continuity state:** The twelve statues fight for the Architect, on islands of stone over unmade nothing. Mau commands all eighteen shadows at once for the first time, with a commander's view from Kaisel's back:
+**Continuity state:** The twelve statues fight for the Architect, on islands of stone over unmade nothing. Mau commands everything at once (nine named shadows and the Legion of a hundred) with a commander's view from Kaisel's back:
 - Kamish lies across the void as a bridge.
-- Bellion's whip pulls statues off their islands; Igris stands near Frieren; Corner guards Yuta's corner; Beru hunts; Tank holds; the soldiers make the line; Lantern harries.
+- Bellion's whip pulls statues off their islands; Igris stands near Frieren; Corner guards Yuta's corner; Beru hunts; Tank holds; Tusk breaks the staff-bearer's weight from the inside; the Legion makes the lines; Lantern harries.
 - Each statue falls to its own lesson turned against it.
 - Gojo calls the threads going slack.
 - Gojo's marble and Mau's pull meet to make a double Blue.
@@ -18,13 +18,13 @@ They came up out of the stone all at once.
 
 All of them. Every name on Ori's list. Mau felt the cup tip, the way he had felt it tip on the scale, and pour, and pour.
 
-Lantern first, wings unfolding out of the shadow that lay across the nothing, rising into the grey air of the hall. Kaisel beside him, smaller, lean, fast. Igris, on Frieren's island, a pace behind her and to her left, where he always stood now. Beru on Mau's own island, a pace behind him and to his right. Tank, huge and dark, on nothing, and then on stone, because he had come up where a statue's island met the grey and found footing. Corner, the first of them all, with his long hooked weapon, on the edge of Yuta's island. Bellion, tall, black-violet gone to black, with his segmented sword already drawn. The ten soldiers, in a line, shields locked, across three islands at once.
+Lantern first, wings unfolding out of the shadow that lay across the nothing, rising into the grey air of the hall. Kaisel beside him, smaller, lean, fast. Igris, on Frieren's island, a pace behind her and to her left, where he always stood now. Beru on Mau's own island, a pace behind him and to his right. Tank, huge and dark, on nothing, and then on stone, because he had come up where a statue's island met the grey and found footing. Corner, the first of them all, with his long hooked weapon, on the edge of Yuta's island. Bellion, tall, black-violet gone to black, with his segmented sword already drawn. Tusk, slow, the blue fire in his skull. And the Legion. A hundred soldiers, in rows, shields locked, across three islands at once and the empty air between them where they had no floor to stand on yet, the ten in front.
 
 And Kamish.
 
 The old dragon came up out of the nothing itself. Not out of stone. Out of the grey sea below the islands. He rose and rose and kept rising, the vast dark body uncoiling, the wings unfolding, the long neck lifting. Two great cold blue lights opened higher than the pillars.
 
-*Two and a half minutes,* said Ciel. Very fast. *All of them. Two and a half. Then you're empty. Ration them. Send them back when they're done. Don't wait.*
+*Two minutes,* said Ciel. Very fast. *All of them, with the Legion. Two. Then you're empty. Ration them. Send them back when they're done. Don't wait.*
 
 *I know.*
 
@@ -104,7 +104,7 @@ And out of the walls, all round the hall, from between the carved rows, came the
 
 "*Soldiers*," called Mau. "*Stand aside. Out of the way. Let them go home.*"
 
-The ten soldiers did not understand. He felt them not understand. They were soldiers. They held lines. That was all they knew.
+The Legion did not understand. He felt a hundred of them not understand. They were soldiers. They held lines. That was all they knew.
 
 "*Bellion*," said Mau.
 
@@ -116,7 +116,7 @@ The Grand Marshal, on the far island, turned his crowned helm.
 
 Bellion did not ask what a teacher was. He lifted his sword. He spoke one word to the soldiers, in a voice that carried across the whole hall without being raised. Mau did not know the word. The soldiers did.
 
-They broke the line. Smoothly. In order. Five to the left edge of the dragon's back and five to the right. Shields up, spears upright. Out of the way.
+They broke the lines. Smoothly. In order. Fifty to the left edge of the dragon's back and fifty to the right. Shields up, spears upright. Out of the way.
 
 The stone children walked down the middle of the road between them. Heads down. Not looking up. One of them bumped a soldier's knee, very lightly, and did not stop.
 
@@ -132,7 +132,7 @@ The whip came apart. Twenty paces of segmented steel uncoiled across the nothing
 
 "*Soldiers, back. Bellion, stay.*"
 
-The ten sank into the dragon's back. Two of them did not sink. They had been at the edge, nearest the bell-statue, and somewhere in the moment of the pull a stone hand had caught them. They came apart into pieces of dark that fell into the nothing and did not come back to the cup.
+The hundred sank into the dragon's back. Two of them did not sink. They had been at the edge, nearest the bell-statue, and somewhere in the moment of the pull a stone hand had caught them. They came apart into pieces of dark that fell into the nothing and did not come back to the cup.
 
 *Two soldiers,* said Ciel. *Not in pieces. Unmade.* A pause. *The nothing took them. I'm sorry.*
 
@@ -184,11 +184,11 @@ It went faster after that.
 
 He could not have said how. It was the way the long table went quiet in a wave from one end to the other. Once three statues had gone, the others began to go faster, because he could see the field now, from above. Where everything was in relation to everything else. Which statue was turning toward which island, which shadow was nearest, which lesson the statue knew.
 
-"*Scale. Your right, Yuta.*" The fourth statue held out its scale toward Yuta. Yuta looked at it and did not pour anything into it. He did not have a cup to pour. He went inside its reach instead, along Kamish's back, with his sword. "*Keys*." The fifth statue shook its keys, and stone bars began to grow out of the edges of Frieren's island, reaching for her. "*Corner*." The old sentry, the first shadow, the one that had guarded a street corner on floor one, hooked the bars with his long weapon and tore them away, one after another, guarding the corner of Frieren's island the way he had guarded the corner of the street.
+"*Scale. Your right, Yuta.*" The fourth statue held out its scale toward Yuta. Yuta looked at it and did not pour anything into it. He did not have a cup to pour. He went inside its reach instead, along Kamish's back, with his sword. "*Staff*." The fifth statue lifted its skull-staff, and the weight began to come down on Frieren's island, the shaman's sky, pressing her to her knees. "*Tusk*." The shaman lifted his own staff. He knew that spell. He had been that spell. The blue fire in his skull went into the knot of it in the air above Frieren and undid it from the inside, the way Fern had cut his own fire on sixty, and the weight lifted.
 
 "*Four*," said Gojo, as Yuta's sword went through the scale-bearer.
 
-"*Five*," as Bellion's whip took the key-bearer off its island.
+"*Five*," as Bellion's whip took the staff-bearer off its island.
 
 "*Rope*," said Gojo, "*it's throwing*—"
 
@@ -234,7 +234,7 @@ His head kept splitting.
 
 Six left. And the cup was going.
 
-Mau could feel it. Fifteen times deep, and the floor of it coming up. Eighteen shadows standing at once, sixteen now, for a minute and a half.
+Mau could feel it. Fifteen times deep, and the floor of it coming up. Nine named and a hundred soldiers, standing at once, for a minute and a half.
 
 *One minute,* said Ciel. *Less.*
 

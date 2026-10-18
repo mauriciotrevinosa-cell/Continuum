@@ -9,7 +9,7 @@
 - **Bell (9):** stand where a teacher stands, as stone children walk home.
 - **Star (19):** find the one that doesn't move. It is the seated god, which makes it north.
 - **Scale (10):** keep a little left. Mau pours his reserve and stops short.
-- **Key (60):** choose what to keep. He refuses the keys.
+- **Staff (60):** the shaman's weight comes down on the hall. Mau stands inside full Infinity, then opens it wider, over Frieren, Yuta and Gojo; four people stand up.
 - **Rope (49):** throw at the thing that won't let go. He falls and reaches for Frieren.
 Frieren reads one carved line per statue with the small words. Gojo sees a thread from each statue to the seated god
 
@@ -291,29 +291,33 @@ And the reserve he had poured came back. All of it. Out of the stone and back in
 
 His voice was very tight.
 
-"*Key*," said Yuta.
+"*Staff*," said Yuta.
 
 The fifth statue stepped forward.
 
-It held out a ring of keys. Iron. Heavy. Dozens of them, each as long as an arm. The ring Mau had last seen on the floor of the prison on sixty, ringing as it fell, when the Warden came down like a wall.
+It lifted a staff. Stone. Long. Knotted. With a skull bound at the top, carved, and inside the carved skull, faintly, a light.
 
 The notice.
 
-*Keep?*
+*Stand.*
 
-Mau looked at the keys.
+The air came down.
 
-He thought about the Warden. The open cells going up and up round the hall, tier on tier, every one empty, every one opened for them, to put them in. The bars growing out of the frames toward him.
+The same weight. The shaman's sky. Mau felt it come and knew it before it arrived: the whole hall pressing down, every stone of it, every tile. He heard Gojo grunt. He heard Yuta go to one knee. He heard Frieren, beside him, hit the stone.
 
-*I don't think I want something in my shadow whose first wish was to lock people in.*
+He did not wait for it.
 
-"No," he said.
+He put the space round himself. A skin of it. A hand's breadth on every side. The weight came down on it and slowed and slowed and did not arrive.
 
-The statue held the keys out a moment longer.
+He stood up.
 
-"No," said Mau again. "I don't keep things that lock people in. I didn't then. I don't now."
+And then, because he had learned something on sixty that he had not had time to do there, he opened the skin. Wider. Slowly. Over Frieren, on her knees beside him. Over Yuta. Over Gojo, last, three paces off, who looked up at the edge of the space coming toward him with his bare eyes and an expression Mau had never seen on his face.
 
-The statue lowered the keys.
+It cost. It cost more than it had on sixty. He held it.
+
+Under the space, in the middle of the crushing hall, four people stood up.
+
+The statue lowered its staff.
 
 It knelt.
 

@@ -72,7 +72,7 @@ Each one held something.
 
 Frieren looked from the book to the ring. She went round it with her eyes, one statue at a time, the way she went round a page.
 
-"A lamp," she said. "A bell. A star, on a staff." Her eyes moved. "A scale. A key. A coil of rope." She went on. "A spear. A cup. A book. A mask." She was quiet. "A flower. And a coin."
+"A lamp," she said. "A bell. A star, on a staff." Her eyes moved. "A scale. A staff with a skull on it. A coil of rope." She went on. "A spear. A cup. A book. A mask." She was quiet. "A flower. And a coin."
 
 "They're the same," said Yuta. "As the drawing."
 
@@ -174,7 +174,7 @@ Frieren went round. Pillar to pillar. Mau followed her. Gojo and Yuta stood in t
 
 *Floor*. Ten. A scale.
 
-*Floor*. Sixty. A key.
+*Floor*. Sixty. A staff, with a skull bound at the top.
 
 *Floor*. Forty-nine. A coil of rope.
 
@@ -200,13 +200,13 @@ Frieren stood in front of the last pillar for a long time.
 
 "The scale is ten," said Mau. He was looking at it. "The guardian. When I didn't keep it. *I'd rather have a little left.*"
 
-"The key is sixty," said Frieren. "The Warden. When you chose not to keep the thing that locked people in."
+"The staff is sixty," said Frieren. "Tusk. When you walked through his sky and nobody could help you."
 
 "The rope is forty-nine," said Mau. "The cloud stair. Yuka. *Throw at the thing that won't let go.*"
 
 "The spear is twenty," said Frieren. "Igris. Maki's spear. Inside the reach."
 
-"The cup is seventy," said Gojo, from the middle of the hall. He had been listening. "The hour. In Kamish's hall. Waiting for the cup to fill."
+"The cup is seventy," said Gojo, from the middle of the hall. He had been listening. His voice was not quite steady. "Kamish's hall. When the cup ran dry and you were alone."
 
 "The book is fifteen," said Frieren. "Where Fern found this." She held up the green book.
 

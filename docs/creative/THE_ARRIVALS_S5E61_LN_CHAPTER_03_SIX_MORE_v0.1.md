@@ -6,7 +6,7 @@
 **Reading order:** 43
 **Continuity state:** The last six tests:
 - **Spear (20):** inside the reach.
-- **Cup (70):** waiting for it to fill, while the seated figure moves two fingers, impatient.
+- **Cup (70):** "Party size: 1" again, and a pale wall cuts him off from the others. The cup statue kneels alone and starts to crack; Mau sits with it and does not leave it alone (the lesson of seventy), while the seated figure taps two fingers, impatient. The cup fills and the wall drops.
 - **Book (15):** Frieren reads a line aloud by counting first.
 - **Mask (80):** Mau looks back at the watcher and says "I see you", Gojo's line from eighty.
 - **Flower (5):** white and blue, the Trial wedding's colours. Mau counts it in daylight beside Frieren and holds it.
@@ -59,65 +59,69 @@ It was empty.
 
 The notice.
 
-*Fill.*
+*Party size: 1.*
 
-He looked at the cup. He did not know how to fill it. There was no water. There was no pitcher. There was nothing in the hall but stone and carved writing and the twelve statues and the four of them.
+He felt them go.
 
-*Ciel?*
+Not out of the hall. Not this time. A wall came down. Pale, thin, like the light at the edge of a frame, between him and the rest of the ring. Frieren on the other side of it, a pace away, her hand coming up. Gojo. Yuta. He could see them. He could not hear them. He put his hand on the wall and it was smooth and cold and did not move.
 
-*I don't know,* said Ciel. *It's not pulling. Not like the scale. It's just—empty.* A pause. *Waiting.*
+Frieren put her hand on the other side of it. Flat. Against his.
 
-Floor seventy. The furnace-hall. Kamish on the mound, and the dark under it deeper than a well, and the cup nearly dry. Ciel saying *not now*. Saying *if you rest here, an hour, maybe more, the cup may have enough*. Sitting on the black stone with his back against Frieren's shoulder while Gojo hummed badly and Yuta hummed underneath. The cup filling, slowly, faster than it ever had. And the old dragon's dark, waiting for him.
+*Operator only.*
 
-*Wait for the cup to fill.*
+He looked at the statue.
+
+It was not holding out the cup any more. It had lowered it. It was kneeling, by itself, without being answered, with the empty cup tipped in its stone hands. And down the middle of it, from the crown of its head to the stone floor, a crack was opening. Slowly. Getting wider.
+
+It was breaking.
+
+Alone. In the middle of the ring. With nobody coming.
+
+Floor seventy. The black stone. The pool of red going out from him much too far. The cup empty, the other reserve empty, Ciel saying *you'll die*. And under the great red body, the dark, waiting. Patient. Old. Alone in a hall nobody could come into.
+
+*I'm not leaving it alone in here.*
 
 He sat down.
 
-On the grey stone tile, in the middle of the ring, in front of the statue with the empty cup. Cross-legged. He did not do anything.
+On the grey stone tile, beside the kneeling statue with its crack and its tipped cup. Close. His shoulder against its stone shoulder. He did not do anything. He did not know what to do. He did what he had done on seventy, with nothing left. He stayed.
 
-Frieren sat down beside him. Close. Her shoulder against his.
+*Ciel?*
 
-Outside the ring, after a moment, Gojo sat down too. Then Yuta.
+*I'm here,* said Ciel. *It's not pulling. It's not asking for anything.* A pause. *It's just breaking. And you're sitting with it.*
 
-They waited.
+*Is that the lesson?*
+
+*I don't know,* said Ciel. *It's what you did.*
 
 * * *
 
 It was a long time.
 
-Ciel counted it. Twenty minutes. Thirty. The statue stood holding out its empty cup. The four of them sat on the grey stone and did not move. The hall was silent. Nothing happened.
+The crack in the statue widened. Slowly. He sat beside it. On the other side of the pale wall, Frieren had sat down too, with her hand still flat on the wall where his had been. Gojo was standing with his blindfold up and his face very white. Yuta was beside Frieren.
 
-At forty minutes, Gojo started to hum.
-
-The same song. The one from school. Badly. Under his breath. Yuta, after a moment, came in underneath it with a low steady note.
-
-Frieren did not hum. She looked at the throne.
-
-At fifty minutes, the seated figure on the throne moved.
+At the top of the hundred steps, the seated figure moved.
 
 Not one finger. Two. Both hands. The stone fingers lifted off the arms of the throne. A hair. Then came down again. And lifted. And came down. Tapping.
 
 Impatient.
 
-"It's tapping," said Gojo. Very quietly. In the middle of the song. "Look at it. It's *tapping*."
+Mau did not look at it.
 
-"I see it," said Frieren.
+He put his hand on the statue's stone arm, beside the crack. The way he had put his hand flat on the black stone toward the mound on seventy, when he could not reach.
 
-"It doesn't want to wait," said Yuta.
+"I'm here," he said. "You're not on your own."
 
-"No," said Frieren. "It wants us to do something." She did not look away from the throne. "So we don't."
+The crack stopped.
 
-They waited.
-
-At an hour, Mau looked into the cup.
+He looked into the cup.
 
 It was full.
 
-He did not know when it had filled, or with what. Something clear. Still. Like the water in the pool at the top of a hundred, that did not move when Fern turned the flask. It was full to the brim.
+He did not know when it had filled, or with what. Something clear. Still. Like the water in the pool at the top of a hundred, that did not move when Fern turned the flask. Full to the brim.
 
-The statue lowered the cup.
+The pale wall went away. Frieren's hand, against nothing, came forward and found his shoulder and held it very hard.
 
-It knelt.
+The statue knelt properly. Whole. The cup set down in front of it.
 
 On the throne, the tapping stopped.
 
@@ -357,7 +361,7 @@ It knelt.
 
 Twelve.
 
-All twelve. In a ring round the foot of the hundred steps, kneeling, each with its object set down on the stone in front of it. The lamp. The bell. The star. The scale. The keys. The rope. The spear. The cup. The book. The mask. The flower, empty-handed now. The coin, empty-handed always.
+All twelve. In a ring round the foot of the hundred steps, kneeling, each with its object set down on the stone in front of it. The lamp. The bell. The star. The scale. The staff. The rope. The spear. The cup. The book. The mask. The flower, empty-handed now. The coin, empty-handed always.
 
 "Twelve," said Gojo.
 

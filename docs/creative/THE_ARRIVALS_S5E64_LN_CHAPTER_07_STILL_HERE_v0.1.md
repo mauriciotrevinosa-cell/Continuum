@@ -136,7 +136,7 @@ Dinner. Taihei's curry, because it was his day of the week for it, and Momo gave
 
 He looked.
 
-At the bottom, under *The soldiers. (Nobody named them.) (Ten.)*, in her careful printing:
+At the bottom, under *The soldiers. (Nobody named them.) (A hundred.)*, in her careful printing:
 
 *Kamish keeps watch over a house now. Like he asked.*
 

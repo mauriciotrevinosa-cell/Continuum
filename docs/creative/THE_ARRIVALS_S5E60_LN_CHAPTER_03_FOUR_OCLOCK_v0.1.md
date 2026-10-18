@@ -64,7 +64,7 @@ Folded. Small. Into a square that would fit in a pocket.
 
 Mau looked at it.
 
-"It's all of them," said Ori. "Every one. Ear and Lantern and Igris and Corner and Tank and Beru and Kaisel and Kamish and Bellion." She held it out further. "And the soldiers. I didn't write their names because they don't have names. I wrote *ten*. And *they don't break*."
+"It's all of them," said Ori. "Every one. Ear and Lantern and Igris and Corner and Tank and Beru and Kaisel and Tusk and Kamish and Bellion." She held it out further. "And the soldiers. I didn't write their names because they don't have names. I wrote *ten*. And *they don't break*."
 
 "Ori—"
 

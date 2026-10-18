@@ -50,13 +50,13 @@ Umaru looked at Armin.
 
 Armin had done the arithmetic. Of course he had. It was on the back of the tower sheet, in neat columns, next to the diagram of the cup he had drawn on the day of the fourth wall.
 
-"About a minute," he said. "All eighteen at once. Maybe a little more." He looked at the columns. "Kamish alone is most of it."
+"About a minute," he said. "All of them at once, with the Legion. Maybe a little more." He looked at the columns. "Kamish alone is most of it."
 
 "And with a hundred more points in Intelligence?" said Umaru.
 
 Armin ran his finger down the column.
 
-"Fifteen times," he said. "Roughly. If it still holds." He looked up. "Two and a half minutes, all eighteen. Or a lot longer with fewer."
+"Fifteen times," he said. "Roughly. If it still holds." He looked up. "Two minutes, all of them, with the Legion. Or a lot longer with fewer."
 
 "Two and a half minutes," said Umaru. She turned back to the wall. "Two and a half minutes of all of them is a lot more than one."
 

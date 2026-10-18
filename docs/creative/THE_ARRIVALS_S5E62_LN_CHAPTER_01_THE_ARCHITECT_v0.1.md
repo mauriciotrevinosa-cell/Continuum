@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 44
-**Continuity state:** The Architect steps out of the seated god. He is very tall, very thin and very old, robed, his skin like polished grey stone, with real eyes at last. He is courteous, scholarly and delighted. He says he built the tower to teach a vessel, that Mau learned every lesson, and that the coin was the one thing he did not build. Mau is a vessel "for my monarch, who rests"; the name and the method are not given. He is not omniscient: he knows what the floors and the stone showed him. He enjoyed Gojo seeing him. "Show me the rest." He unbuilds the floor of the hall and stands the statues up again as his own. The fight begins
+**Continuity state:** The Architect steps out of the seated god. He is very tall, very thin and very old, robed, his skin like polished grey stone, with real eyes at last. He is courteous, scholarly and delighted. He says he built the tower to teach a vessel, that Mau learned every lesson, and that the coin was the one thing he did not build. Mau is a vessel "for my monarch, who rests"; the name and the method are not given. He is not omniscient: he knows what the floors and the stone showed him. He enjoyed Gojo seeing him. "Show me the rest." He unbuilds the floor of the hall and stands the statues up again as his own. The fight begins. DH-124: he admits he changed the party size at seventy ("I could not see what was underneath… I only made the room for it"; "A vessel that breaks at seventy is not a vessel") and set a Ruler's light at the gate of a hundred so Mau would know what stands against what he carries
 
 *When: Day 397. Floor 101. Twelve statues kneel in a ring at the foot of the hundred steps. The seated god's face has broken. Something is standing up inside it.*
 
@@ -76,6 +76,32 @@ The word went into the hall and stayed there.
 
 "*A hundred floors*," said the Architect. "*A hundred lessons. Near end first. Stand where a teacher stands. Find the one that doesn't move. Keep a little left.*" It moved one long hand, gently, as if turning pages. "*Each one built to teach a vessel what it would need to know. To be strong enough. To choose well. To think instead of react.*" Its pale eyes rested on him. "*You learned them all. Every one. Better than I hoped. You learned to tell your companions the plan before you go in.*" It was delighted. "*I did not build that floor. You built that yourself.*"
 
+"Seventy," said Mau.
+
+The word came out of him before he decided to say it.
+
+The Architect's pale eyes rested on him.
+
+"*Yes*," it said. Simply. "*Seventy.*"
+
+Behind him, Mau heard Gojo stop breathing.
+
+"*Your companions were very good*," said the Architect. "*The elf. The one with the eyes. The one with the curse born of love.*" It inclined its long head toward each of them in turn, courteous. "*Too good. You stood in the middle of them and they stood round you, and I could not see what was underneath.*" Its long fingers moved, slightly, the way a scholar turns a page. "*So I changed the number. One. For a little while.*" It smiled. "*And you let out the scale of a thing that is to a dragon what a dragon is to you. Alone. And then you sat in your own blood and raised the old one, so it would not be alone in my hall.*"
+
+It was quiet for a moment.
+
+"*I did not build that either*," it said. "*I only made the room for it.*"
+
+"You nearly killed him," said Frieren.
+
+The Architect looked at her. Mildly.
+
+"*Yes*," it said. "*A vessel that breaks at seventy is not a vessel.*" It turned back to Mau. "*And on a hundred, I set their light at my gate. One of the ones who put my monarch to rest.*" Something moved behind its pale eyes. Old. Very old. Not delight. "*So that you would know, before you met me, what kind of thing stands against what you carry.*"
+
+"It said I shouldn't exist," said Mau.
+
+"*It would*," said the Architect.
+
 "Vessel for what?" said Mau.
 
 The Architect smiled.
@@ -136,7 +162,7 @@ The Architect lifted its other hand.
 
 And the twelve statues stood up.
 
-All of them. At once. The lamp. The bell. The star. The scale. The keys. The rope. The spear. The cup. The book. The mask. The flower. The coin. They rose from their knees on their twelve islands of stone and turned. Not outward any more. Inward. Toward the four of them. Each one lifting its object.
+All of them. At once. The lamp. The bell. The star. The scale. The staff. The rope. The spear. The cup. The book. The mask. The flower. The coin. They rose from their knees on their twelve islands of stone and turned. Not outward any more. Inward. Toward the four of them. Each one lifting its object.
 
 The lamp burned. The bell rang. The star turned. The spear levelled.
 
@@ -184,7 +210,7 @@ Yuta looked at him.
 
 He looked down at his shadow. It lay across his small island of stone, and off the edge, over the nothing, longer than it should be. It reached out into the grey toward the twelve statues and the Architect at the foot of the steps.
 
-"I've got eighteen," he said. "And a list."
+"I've got a hundred and nine," he said. "And a list."
 
 He took the folded paper out of his coat.
 
@@ -202,7 +228,7 @@ For the first time, it did not smile.
 
 He put the list back in his coat.
 
-"*Lantern. Corner. Igris. Tank. Beru. Kaisel. Kamish. Bellion.*" He took a breath. "*Soldiers.*"
+"*Lantern. Corner. Igris. Tank. Beru. Kaisel. Tusk. Kamish. Bellion.*" He took a breath. "*Legion.*"
 
 His shadow came up out of the stone.
 

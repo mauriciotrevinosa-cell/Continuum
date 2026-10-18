@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 53
-**Continuity state:** Day 400, dawn, the north field. Shoko clears one remaking once the cup is above half. Kamish is remade, slowly and at real cost, with Ori watching and Shoko timing. The old dragon notices the second heart and says plainly that he is old and does not know it. He reminds Mau of the request he was raised with ("keep watch over a house"), which he has not yet been given the chance to do. The eight soldiers stand up for inspection and, unordered, leave two spaces in the line. Ori gives the soldiers their first line on *SHADOWS (NAMED)* and writes them as ten, with the two unmade remembered. Mau's eyes and chest are still healing. No combat, no new power
+**Continuity state:** Day 400, dawn, the north field. Shoko clears one remaking once the cup is above half. Kamish is remade, slowly and at real cost, with Ori watching and Shoko timing. The old dragon notices the second heart and says plainly that he is old and does not know it. He reminds Mau of the request he was raised with ("keep watch over a house"), which he has not yet been given the chance to do. The Legion (ninety-eight) stands up for inspection in ten rows of ten and, unordered, leaves two spaces in the last row. Ori gives the soldiers their first line on *SHADOWS (NAMED)* and writes them as ten, with the two unmade remembered. Mau's eyes and chest are still healing. No combat, no new power
 
 *When: Day 400, first light. The cup has been refilling for three days, faster than it ever has. Shoko looked at the level last night by the only measure she has, which is Mau's face after two minutes of one standing shadow, and said: tomorrow, one. Not two. One.*
 
@@ -150,29 +150,29 @@ Shoko came across the field. She crouched down in front of him and looked at his
 
 He called the soldiers.
 
-They came up out of the grass in a line, the way they always did. Plain dark armour. Spear and shield. Small cold blue lights behind the helmet slits. They stood in a line along the edge of the north field, facing him.
+They came up out of the grass in rows, the way they always did. Plain dark armour. Spear and shield. Small cold blue lights behind the helmet slits. They stood in ten rows across the north field, facing him, the ten who would not break in front.
 
-Eight.
+Ninety-eight.
 
 Mau looked at them.
 
 Then he looked again.
 
-They were not standing in a line of eight. They were standing in a line of ten. With two spaces in it. One between the third and the fourth. One between the seventh and the eighth. Two gaps, exactly a soldier wide, where nobody stood.
+They were not standing in ninety-eight. They were standing in ten rows of ten. And in the last row, at the far end, nearest where the bell would have been, there were two spaces. Two gaps, exactly a soldier wide, where nobody stood.
 
 He had not told them to do that.
 
-He did not know if they knew they were doing it. They stood very straight, with their spears upright and their shields on their arms, and the two spaces in the line stayed empty, and none of them closed up.
+He did not know if they knew they were doing it. They stood very straight, with their spears upright and their shields on their arms, and the two spaces in the last row stayed empty, and none of them closed up.
 
 Nobody said anything.
 
-Ori was looking at the line. At the two spaces. She was holding the watch very tightly.
+Ori was looking at the last row. At the two spaces. She was holding the watch very tightly.
 
 "Two minutes," she said. Her voice did something in the middle of it.
 
 "Back," said Mau.
 
-The eight went down into the grass. The two spaces went with them.
+The ninety-eight went down into the grass. The two spaces went with them.
 
 * * *
 
@@ -182,7 +182,7 @@ That evening, Mau found Ori at the long table with the list.
 
 She was writing them down now.
 
-*The soldiers. (Nobody named them.) (Ten.)*
+*The soldiers. (Nobody named them.) (A hundred.)*
 
 She looked at the number for a long time. Then she picked up the pencil again and wrote underneath, small and careful:
 
@@ -192,9 +192,9 @@ She looked at the number for a long time. Then she picked up the pencil again an
 
 She put the pencil down. She looked up at him.
 
-"I didn't write eight," she said. "It says ten."
+"I didn't write ninety-eight," she said. "It says a hundred."
 
-"It says ten," said Mau.
+"It says a hundred," said Mau.
 
 "They leave the spaces." She looked at the list. "I saw. So I'm leaving the number."
 

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 46
-**Continuity state:** The Architect fights. He unbuilds things with pale lines drawn through the world. He unmakes part of Kamish (the dragon is broken, not lost) and Gojo's island, and Mau catches Gojo with Momo's borrowed pattern. Mau, nearly dry, draws the floor-86 katana; the Noise's Rika pattern comes through, fuller than on ninety. Yuta draws his own blade and the real Rika comes; the two stand together, and the real one looks at the copy and screams with it. The Architect is delighted and unmakes the copy. A line goes across Mau's chest and the wheel turns a third time, adapting to the unmaking. The walls bow. From the house, Rimuru pours his own strength down Ciel's thread to hold them, which is the payoff of his choice to stay. Frieren's Zoltraak goes through the Architect's robe. He is hurt, and delighted
+**Continuity state:** The Architect fights. He unbuilds things with pale lines drawn through the world, and unmakes part of Kamish (broken, not lost). DH-124: he then draws a line through Mau's window. "Operator interface: suspended." The cup shrinks to its pre-festival size, every shadow is sent back, and the Endurance that has been mending him every hour stops. Ciel: four minutes before his body starts coming apart on its own. The Noise fights to rebuild the line. Mau fights with only what is his: the Noise's patterns, the space, the wheel and the eyes. He unmakes Gojo's island and catches Gojo with Momo's borrowed pattern. Nearly dry, he draws the floor-86 katana, and the Noise's Rika pattern comes through, fuller than on ninety. Yuta's real Rika comes and the two scream together. The Architect unmakes the copy. A line goes across Mau's chest and the wheel turns a third time. The walls bow, and Rimuru pours his strength down Ciel's thread to hold them. In that space the Noise rebuilds the interface across the cut ("restored. (Rebuilt by the Noise.)", at 3:40). The Architect, for once, looks almost respectful. Frieren's Zoltraak goes through his robe. He is hurt, and delighted
 
 *When: Day 397. Floor 101. The twelve statues are gone into the nothing. Kamish lies across the void as a dark road. The cup is nearly dry. The other reserve is nearly dry. The Architect has stepped onto the end of the dragon's back.*
 
@@ -59,6 +59,72 @@ The Architect stood on what was left of Kamish's back, unhurt, with its finger s
 The old dragon sank. What was left of him. Into the nothing, into the cup, in pieces. The dark road between the islands went with him.
 
 The four islands stood in the grey sea, alone.
+
+* * *
+
+The Architect looked at him across the nothing.
+
+"*Before we go on*," it said. Courteously. "*I wish to see one more thing.*"
+
+It lifted its hand. Not toward the islands. Not toward Mau. Toward nothing. Toward a place in the air beside him, at the height of his eyes, where there was nothing at all.
+
+Where, if he opened it, the window would be.
+
+It drew a line through it.
+
+* * *
+
+He felt it before the notice came.
+
+Everything went heavy. Not the way the shaman's sky had gone heavy. From the inside. As if something that had been holding him up for a whole summer, every day, without his noticing, had been taken away all at once.
+
+*Operator interface: suspended.*
+
+The cup.
+
+He felt it go. Not drain. *Shrink.* Fifteen times deep, and then not. The walls of it coming in. Fourteen. Ten. Five. Down, and down, to the size it had been on the morning of the festival, before the first thirty points, before Umaru's first sheet. A small cup. A shallow one. With nearly nothing in it.
+
+Under him, in the dark, his shadows felt it too. He felt them feel it. Nine of them and a hundred, in a cup suddenly far too small to hold them, pressing against its walls like water in a jar that has been squeezed.
+
+*Ciel—*
+
+*I see it.* Her voice was very fast and very strange. *He's cut the window. Not broken it. Cut the line between it and you. Everything you spent. Intelligence. Endurance. All of it. It's not gone, it's—disconnected. The Noise is screaming. It's already trying to put the line back. It doesn't know how fast it can.*
+
+And then his body.
+
+His left arm, where the Ruler's hand had broken it four days ago, splinted, healing faster than it should have because fifty points of Endurance had been mending it every hour. It stopped mending. It started to hurt the way a four-day-old break hurts.
+
+The long splits from seventy, along his arms and his chest, which had closed in a week when they should have taken a month. They did not open. Not yet. He felt them think about it.
+
+Beru's three lines across his back.
+
+*Mau,* said Ciel. *Listen to me. The window was holding you together. All summer. The Endurance. It's been mending you every hour, faster than anything should. Without it, you've got a body that's been broken on every floor for three months and never had time to finish healing.* A pause. *Four minutes. Maybe five. Before it starts to come apart on its own. Before anything even hits you.*
+
+*And the Noise?*
+
+*I don't know,* said Ciel. *It's working. It's never worked this hard.* A pause. *Four minutes.*
+
+* * *
+
+The Architect watched him.
+
+"*There*," it said. Softly. "*Now we see.*" Its pale eyes rested on him, very bright. "*Not what I gave you. What you are.*" It tilted its long head. "*The window was mine. The cup was mine. The army was mine, in a manner of speaking; I built every floor you raised it from.*" It smiled. "*Your eyes are not mine. Your walls are not mine. Your wheel is not mine. The thing that builds in the dark under everything, that read a slime and a dragon and a girl in a kitchen, is not mine.*"
+
+It lifted one finger.
+
+"*Show me those.*"
+
+* * *
+
+"*Everyone back,*" said Mau. "*All of you. Back.*"
+
+They went. The shadows that were still standing, Bellion on his island, Beru beside him, Igris at Frieren's back, sank into the stone and the nothing all at once, into a cup too small for them, and he felt it strain and hold.
+
+He did not have an army.
+
+He had what he had come into the world with. Whatever that was.
+
+*Four minutes,* said Ciel.
 
 * * *
 
@@ -349,6 +415,30 @@ The walls stopped bowing.
 They did not straighten. They stopped.
 
 *I told you,* said Rimuru. Down the thread. Inside him. Very tired. *Somebody has to be at the other end.* A pause. *Diablo is watching me pretend to be calm. I am not calm. Finish it, Mau. I can hold this for a while. Not forever.*
+
+And in the space that Rimuru made, holding the walls from a back step in a house beyond a closed frame, the Noise found what it had been looking for.
+
+He felt it. Underneath. Where the building happened. A line, cut clean by a pale finger, and something reaching across the cut from his side, the way it reached for everything, the way it had reached for a slime's memories and a girl's kitchen and a curse born of love. Not asking. Building. A new line, rough, crooked, its own, from the window to him, across the place where the Architect's had been.
+
+*Operator interface: restored.*
+
+And under it, smaller, a line he had never seen:
+
+*(Rebuilt by the Noise.)*
+
+The cup came back. Not all at once. Opening, like a hand. Five. Ten. Fifteen times deep, with almost nothing in it, but deep. In his left arm, the mending started again. Slowly. Like warmth coming back into cold fingers.
+
+*Three minutes and forty seconds,* said Ciel. Very quietly. *It took it back. It took it back from him.* A pause. *Mau. It's the Noise's now. Not his. The line. It built its own.*
+
+Across the nothing, the Architect had gone very still.
+
+Its pale eyes were on the place in the air beside Mau, where the window was.
+
+"*Oh*," it said. Very softly. "*It took it back.*"
+
+For a moment the delight was not there. Something else was. Something that looked, on that long grey ancient face, almost like respect.
+
+"*It built its own*," said the Architect. "*Across my line.*"
 
 * * *
 

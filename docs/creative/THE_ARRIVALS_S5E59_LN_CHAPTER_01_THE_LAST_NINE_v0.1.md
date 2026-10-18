@@ -22,7 +22,7 @@ They stood in a line in the yard in the grey before dawn, with their spears upri
 
 "Different colour," said Touka. "It's allowed."
 
-Ichika considered the ten soldiers. Then she walked across the yard, barefoot, to the end of the line. She looked up at the last soldier. It looked down at her with its cold blue lights. It did not move.
+Ichika considered the Legion. A hundred soldiers in ten rows of ten across the whole yard, two minutes, because standing was cheap. Then she walked across the yard, barefoot, to the end of the line. She looked up at the last soldier. It looked down at her with its cold blue lights. It did not move.
 
 She saluted.
 
@@ -34,7 +34,7 @@ Then, very slowly, it lifted its spear. A hand's breadth. And lowered it again.
 
 Ichika went back to her mother, satisfied.
 
-"Back," said Mau, and the ten went down into the dirt, and he finished his coffee.
+"Back," said Mau, and the hundred went down into the dirt all at once, like rain going into dry ground, and he finished his coffee.
 
 * * *
 

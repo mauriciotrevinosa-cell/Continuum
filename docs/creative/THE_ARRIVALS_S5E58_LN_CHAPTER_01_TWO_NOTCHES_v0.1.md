@@ -188,7 +188,7 @@ She looked at it for a long time.
 
 "Nobody can. It's very deep down."
 
-"I know," said Ori. "I'm looking anyway." She looked at the shadow. "Lantern's in there. And Corner. And Igris, and Tank, and Beru, and Kaisel, and Kamish. And the soldiers. And the new one." She paused. "And Ear. And the wheel." She was quiet. "That's a lot of things in one shadow."
+"I know," said Ori. "I'm looking anyway." She looked at the shadow. "Lantern's in there. And Corner. And Igris, and Tank, and Beru, and Kaisel, and Tusk, and Kamish. And the soldiers. A hundred of them. And the new one." She paused. "And Ear. And the wheel." She was quiet. "That's a lot of things in one shadow."
 
 "It is."
 

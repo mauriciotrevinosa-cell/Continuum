@@ -170,7 +170,7 @@ It staggered. Backward. One step. Toward the marble. Its claws came off Igris's 
 
 And Frieren, who had been waiting behind Mau with her staff raised for the whole of the exchange, fired.
 
-Zoltraak. Not a thin line this time. The real thing. The spell that had killed demons for a thousand years. It came out of the end of her staff and went straight across the chamber, white, and through the Ant King's left shoulder. Through the armour. Through the place where the arm joined. And out the other side, into the dark wall of the hive.
+Zoltraak. Not a thin line this time. The real thing. The killing magic, the one that had once been a demon's and that humans had studied until it was theirs. It came out of the end of her staff and went straight across the chamber, white, and through the Ant King's left shoulder. Through the armour. Through the place where the arm joined. And out the other side, into the dark wall of the hive.
 
 The Ant King screamed.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 29
-## Chapter 58 — I'm Hungry
+## Chapter 59 — I'm Hungry
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 29
-**Reading order:** 58
+**Reading order:** 59
 **Continuity state:** Day 330, dawn, mostly from Frieren's point of view. She wakes in the east room with her hand on her chest, over a small new scar. Mau is beside her, holding her other hand. He has not moved, slept or eaten for nearly two days. Through the connecting door she hears Ori asking him, at least, to sleep. She tells him she's all right. Before she can ask anything, he breaks: "I'm sorry", over and over, his hand shaking. It comes out that he saw her shield go up and relaxed for one second. She understands how frightened he has been and how long he has gone without anything, and says: "I'm hungry." He carries her down to the kitchen, where the house is just at breakfast, and worried. Brief individual reactions. Anko's board gets one line. No plan for the union yet
 
 *When: Day 330, first light. Two nights and a day since the north road. The clinic let her be moved to the east room yesterday, on Shoko's word and four people's arms. On the shelf, the old grimoire with four flowers in it and the fifth from the date. Her staff is leaning against the bed where someone put it, within reach.*

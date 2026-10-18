@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 29
-## Chapter 53 — No Reason
+## Chapter 54 — No Reason
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 29
-**Reading order:** 53
+**Reading order:** 54
 **Continuity state:** Day 328, dusk. The day after floor 10, Mau and Frieren walk the outside of the lime for no reason except that they want to. On the north road beyond the gate: four demons (Frieren's kind, horned, speech as a lure, the kind the house met on Days 241–242) and one large devil. They claim orders from "the new union of empires and otherworlders" against the monsters of this settlement, "the one who makes monsters, shadows, suns", and offer to spare the rest if Mau is handed over. Before Frieren can move, Mau is standing between two of them with his arms over their shoulders, calling the lie a lie the way Frieren taught the house. "Frieren the Slayer." / "What? I don't like monsters." Mau laughs. Then both sense something from the woods. The chapter ends as the cut comes
 
 *When: Day 328, dusk. The day after the tenth floor. Yuta is asleep with his boots on. Maki is oiling her spear on the back step and pretending she isn't watching the road. Ori and Yuka are drawing the rooftop with no sky on the back of a ledger page. Two people are walking the outside of the lime for no reason at all.*
@@ -33,6 +33,16 @@ The lime ran white across the brown ground in the dusk, a little greyer where th
 "Yuka says the rooftop had no sky."
 
 "It had no sky," said Mau. "Just grey. All the way up. Like the inside of a lid."
+
+"And you finished it." She looked at the bandage on his forearm. "Yourself."
+
+"Maki opened it. I just pushed."
+
+"Anko's board says you finished it." She was quiet. "And then the tower threw you all out the first time, because you hadn't."
+
+"Operator," said Mau. "May not carry."
+
+"I read it," said Frieren. She did not say anything else about it. Not then.
 
 "And you didn't take the guardian."
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 29
-## Chapter 60 — The Last Firefly
+## Chapter 61 — The Last Firefly
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-17)
 **Volume:** 29
-**Reading order:** 60
+**Reading order:** 61
 **Continuity state:** Close of V29. Nazuna has counted the fireflies every night since Day 318 ("Ask Nazuna"); on the night she expects the last one, she tells Ori first; the house's own lights will be lit the next night (the festival, which opens V30); Ori, Milim, Yuka, Nazuna, Frieren and Mau go out; Ori's Day 296 line "so it's not a hundred years again"; the summer has turned; six days after the north road, Frieren's hand finds the small scar at night and she says "Still here"; no new threat at the volume's end
 
 *When: Day 336, night. Three nights since the roof. Nazuna has counted eleven fireflies, then six, then two. Ori has gone out with her every night.*

@@ -1859,3 +1859,13 @@ S6 opening: the integration is **retroactive** (creator's proposal). The 440 Int
 [mensajes íntegros, colocación y decisiones](S5_FRIEREN_CUT_AND_MAU_LETS_GO_CREATOR_SEED_2026-10-18.md). The creator asked for an important S5 event before Mau's turn toward becoming the strongest, after Sukuna's "higher sky" and before the tower goes all out, so that it becomes the catalyst, not only the dungeon saying his name. It is inserted into V29 as E37 #53–58 (Days 328–330, the only free gap). "Five on the Roof" (#59) and "The Last Firefly" (#60) get small additions. V30 "Thirty Into One Box", V31 "The Night Shift" and "Still Here" get one echo each.
 
 Creator clarification: Mau did not get stronger; he LET GO, the Day 145 kind of release, aimed. Brutality was delegated: completely one-sided, one demon left alive with the message. The union's identity, what the cutter was and any tie to Sukuna, the hooded man or Pell remain OPEN for S6.
+
+## DH-124 — The tower as the Architect's trial for Mau: guardian rework (creator, 2026-10-18)
+
+[mensaje íntegro y dirección](S5_TOWER_AS_TRIAL_REWORK_CREATOR_SEED_2026-10-18.md). Creator: "si", plus four confirmations. True Dragon comes from containment (S3 V15: the Noise building the True Dragon scale from Rimuru's memory of Veldora). The night shift and the post-101 arc stay in S5 as its last big arc, resonating into S6. "data grasa… go crazy". Execution in blocks:
+
+1. **Floor 10 (V29 #52 "Ten" rewritten, #53 "The Operator" new).**
+   - The companions go in confident and Mau stays back. The guardian freezes: "Operator not engaged. Trial suspended." Everyone is ejected.
+   - The frame shows: "This dungeon belongs to an Operator / Each guardian is the Operator's trial / Companions may assist / Companions may not carry."
+   - On the second attempt Mau finishes it. Maki opens and Yuka's rope and the sentry help. Maki's spear cracks under his push (the crack carried into V30).
+   - Maki: "So we make him good enough."

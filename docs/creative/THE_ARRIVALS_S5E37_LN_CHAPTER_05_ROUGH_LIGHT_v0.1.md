@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 29
-## Chapter 57 — Rough Light
+## Chapter 58 — Rough Light
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 29
-**Reading order:** 57
+**Reading order:** 58
 **Continuity state:** Day 328, night. Rimuru, sent by Ciel ("he isn't answering"), meets Mau halfway between the road and the house. Mau is walking, but not normally: he flickers forward in short unplanned jumps, with light still leaking off him and held in. His eyes are fixed on the clinic, looking through walls at Frieren. He hears nothing Rimuru says. He appears in the clinic beside Shoko and Maomao, frightening them both, and does not answer them; they can see something turning inside him. He puts a rough reverse technique into Frieren, nothing like Shoko's. The light wraps round her. Shoko moves aside and then puts her hands over his and steadies it. Shoko sees why it works when hers would not: his light carries the same shape as the cut, so it lets the cut finish instead of fighting it. The wound closes and leaves a small scar on her chest. When Frieren breathes properly, Mau finally hears people. Shoko asks if he is all right and if he needs anything. "No. I just want to be next to her"
 
 *When: Day 328, night. Twenty minutes since the first tremor. In the clinic, Shoko has been holding the same line closed with her hands the entire time, and her arms have begun to shake. At the north end of the lime, Gojo has said "He's coming back" and nothing else.*

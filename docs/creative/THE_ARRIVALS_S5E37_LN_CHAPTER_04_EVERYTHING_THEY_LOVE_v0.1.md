@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 29
-## Chapter 56 — Everything They Love
+## Chapter 57 — Everything They Love
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 29
-**Reading order:** 56
+**Reading order:** 57
 **Continuity state:** Day 328, nightfall, the north road. Mau comes back. It is entirely one-sided. Nothing is new: everything that came out on Day 145 comes out again, aimed this time, and none of it is a system power. The cutter devil is cut apart line for line with the cutting pattern the Noise read from Sukuna. The large devil is folded into a pull the size of a fist. Two demons go to ash by the spell their own kind made and humans learned. The demon who spoke first is left alive and told: if anyone so much as raises an eyebrow at Frieren again, disrespects her again, he won't stop at them; he will flatten everything they love. It runs before he can change his mind. The tremor and the pressure vanish. The flattened woods stay. Mau does not look at any of it again; he turns toward the house
 
 *When: Day 328, the first minute of real dark. In the clinic, Shoko's hands are on the line and will not come off it. At the north end of the lime, Gojo is watching the road and has told Yuta not to cross. Rimuru is halfway between.*

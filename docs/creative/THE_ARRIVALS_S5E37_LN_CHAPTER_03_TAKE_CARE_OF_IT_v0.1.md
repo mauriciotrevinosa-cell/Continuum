@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 29
-## Chapter 55 — Take Care of It
+## Chapter 56 — Take Care of It
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 29
-**Reading order:** 55
+**Reading order:** 56
 **Continuity state:** Day 328, dusk, inside the house, mostly from Shoko's point of view. The house shakes and everyone feels a pressure, as if something long asleep had woken and were about to destroy everything. Those who were there remember Day 145 in the south field. By the old leak protocol, Gojo and Yuta go to the lime and Maki takes the children to the far rooms. Ciel tells Rimuru that Mau is not answering, and Rimuru goes. Mau appears in the clinic with Frieren cut and bleeding, lays her down, says only "Take care of it", and is gone. The tremor and the pressure go with him. Shoko and Maomao work: Shoko can keep Frieren alive, but the cut will not close under her hands ("like the cut is still happening"). Fern arrives and does not leave
 
 *When: Day 328, dusk, the same minutes. In the clinic, Shoko has just poured the last cup from the evening pot. Maomao is labelling jars. Across the yard, Taihei is lifting the lid off a pan of rice.*

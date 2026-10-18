@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 29
 ## Chapter 52 — Ten
 
-**Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-17)
+**Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-17; rewritten 2026-10-18 for DH-124)
 **Volume:** 29
 **Reading order:** 52
-**Continuity state:** Ninth tower visit, from the floor 5 transfer point: Mau (owner) with Yuta, Maki and Yuka (a family party); floor 10 is a rooftop under no sky, with the first guardian of the tower; clearing it secures a second transfer point (start at 1, 5 or 10); an extraction is offered and Mau declines because the reserve is too shallow to keep it; level and points rise in Mau's branch only
+**Continuity state:** Ninth tower visit, from the floor 5 transfer point: Mau (owner) with Yuta, Maki and Yuka (a family party). Floor 10 is a rooftop under no sky, with the first guardian. The companions go in confident, as on floors 1–9, and Mau barely fights because they tell him they have it. Maki and Yuta bring it to the edge of falling, and then the guardian STOPS: mid-swing, the whole roof frozen. A notice ("Operator not engaged. Trial suspended.") and everyone is ejected, all four thrown back out through the frame to the screen. A second notice: the dungeon belongs to an Operator, each guardian is the Operator's trial, and companions may assist but may not carry. Nobody yet knows who wrote it
 
 *When: Day 327, morning. Three hours agreed outside. Maki asked to come. Yuka asked if her grandmother could come. Yuta did not ask anything, but was already packed.*
 
@@ -43,6 +43,16 @@ At the corridor. At the open doors. At Yuta, standing by the bell.
 Maki looked at him for a long moment. Then she looked down the long empty corridor, with its open doors.
 
 "He was right," she said.
+
+* * *
+
+Mau walked at the back.
+
+He had walked at the back on nine floors now. Nobody had decided it. It had simply become how the tower went. Frieren had planned the flooded passage on four. Kaneki's ears had found the way through the train on eight. Yuka had planned the arcade on seven herself, with Frieren standing behind her saying nothing. On every floor someone stronger, or cleverer, or better at that particular thing, had gone first. Mau carried the bag, and opened the notices, and stood on the seal at the end so the progress would count.
+
+He did not mind. He liked watching them. Yuka explaining the lamps. Maki listening. It was a good way to climb a tower.
+
+That was what he would think about, afterward. How much he had liked it.
 
 * * *
 
@@ -90,9 +100,23 @@ Toward the door.
 
 * * *
 
+"Stay back," said Maki.
+
+She said it to Mau. Not unkindly. The way you tell a child to stand behind you at a road.
+
+"I can—"
+
+"You're the one who has to stand on the seal at the end," said Maki. "If you get hurt, none of this counts." She looked at Yuta. Yuta was already drawing. "We've got it. Yuka, rope. Mau, back. Watch the corners."
+
+It made sense. It was what everyone had said, on nine floors, in nine different ways. *We've got it. You're the owner. Stand on the seal.*
+
+Mau stepped back.
+
+* * *
+
 It was not a short fight.
 
-The guardian was fast. Faster than anything on the first nine floors. It moved across the roof in long heavy strides, and the long blade on its pole swept round in arcs that cut the air with a sound like tearing cloth. The first arc went over Yuka's head as she ducked. The second hit the door frame behind them and took a piece out of the concrete.
+The guardian was fast. Faster than anything on the first nine floors. It moved across the roof in long heavy strides, and the long blade on its pole swept round in arcs that cut the air with a sound like tearing cloth. The first arc went over Yuka's head as she ducked. The second hit the door frame beside Mau and took a piece out of the concrete a hand's breadth from his face.
 
 Maki met the third.
 
@@ -108,116 +132,90 @@ The guardian screamed. A grinding metal sound. It swung the long blade back roun
 
 Yuka's rope went out across the roof, low, the short coil from her belt, and caught round the guardian's ankle.
 
-It did not bring it down. The guardian was too heavy. But it caught. And for a heartbeat the guardian's foot was held, and its whole weight went the wrong way, and it stumbled.
+It stumbled. Its whole weight went the wrong way. Maki rolled and came up with her spear back in her hands, and Yuta was at its neck, where the helm met the plates, and both blades were already moving, and Mau, by the door, watching the corners as he had been told, thought: *that's it. That's the end of it.*
 
-Mau saw the opening.
-
-He did not use anything big. He did not reach for the Red, or the space, or anything he had used in the red gate. He called the sentry.
-
-The shadow rose beside him, quick, the long hooked weapon clearing the ground, and the drain began, slight and definite.
-
-"The other ankle," said Mau. "Hook it. Pull."
-
-The sentry's hook caught the guardian's other ankle. And pulled.
-
-The guardian went down.
-
-It fell full length across the painted circle, heavy as a falling wall, and the whole roof shook. And before it could rise, Maki was up, with her spear back in her hands, and Yuta was on its other side, and they both struck at once. Maki under the arm. Yuta at the neck, where the helm met the plates.
-
-The red glow behind the visor went out.
+And the guardian stopped.
 
 * * *
 
-Mau sent the sentry back. The drain stopped. What he had used stayed used.
+Not fell.
 
-Nobody moved for a long moment.
+Stopped.
 
-Then Yuka, still holding the end of her rope, which was still caught round the guardian's ankle, sat down very suddenly on the roof.
+In the middle of its stumble. One foot held by Yuka's rope, the other lifted. Its long blade frozen at the top of a swing. The red glow behind the visor perfectly still.
 
-"I caught it," she said. Her voice was shaking. "The ankle. I caught it."
+Maki's spear stopped a finger's width from the gap under its arm. Not because she had stopped it. Because it would not go any further. As if the air in front of the point had become stone.
 
-Maki went to her.
+Yuta's sword stopped against the side of its neck. The same.
 
-She did not say anything. She knelt down on the roof beside her granddaughter and put one hand flat on the back of Yuka's neck and left it there.
+Yuka's rope went rigid in her hands, like a bar of iron.
 
-Yuka put her face against her grandmother's shoulder.
+Everything stopped. The dust that the guardian's feet had kicked up hung in the air over the painted circle, each grain of it, not falling. The grey not-sky did not move. There was no sound at all.
 
-Yuta, on the other side of the fallen guardian, was looking at his sword. It was not damaged. His hand on it was shaking a little.
+Except Mau's own breathing, by the door.
 
-"You fought like that," he said to Maki. "In our world. I'd forgotten."
+And a notice.
 
-"You never forgot," said Maki, without looking up. "You just hadn't seen it in a while."
+It came up in front of him, the way they always did. But it did not come up only in front of him. Mau saw Yuka see it. Saw Maki's eyes go to it, beside her frozen spear. Yuta's. All four of them were looking at the same pale letters, hanging in the still air over the roof.
 
-* * *
+*Operator not engaged.*
 
-The notice came up.
+*Trial suspended.*
 
-*Guardian of the first ten defeated.*
-
-*Transfer point secured. Future expeditions may begin at Floor 1, 5 or 10.*
-
-And below it, a new line.
-
-*Shadow extraction available.*
-
-Mau looked at the fallen guardian. Under it, as the blue light began to run along its heavy plates, a dark outline remained. Deeper than the sentry's. Much deeper.
-
-He thought about it.
-
-*It would cost more than the dragon,* said Ciel, quietly. *To raise. And far more to keep. Your reserve is shallow. You could raise it. You could not hold it standing for long, and storing it would take most of what you have.* A pause. *It would be yours. But you would have very little left for anything else.*
-
-Mau looked at the outline for a long time.
-
-Then he closed the notice.
-
-"Not this one," he said aloud.
-
-Yuka looked up from her grandmother's shoulder.
-
-"Why not? It's a boss. It's the *first* boss."
-
-"Because I couldn't keep it," said Mau. "Not properly. Not yet." He looked at the outline fading under the blue light. "It'd take everything I've got to hold it. And then if something else came, I'd have nothing." He paused. "I'd rather have a little left. For the next thing."
-
-Maki was looking at him.
-
-"That's a good reason," she said.
-
-Mau shrugged.
-
-"Gojo would say it's boring," he said.
-
-"Gojo would say it's correct," said Maki. "And then complain about it being boring."
-
-Level twelve. Fifty-five points. Mau showed them. Yuka looked at the number and then at her grandmother and then back at the number, and said, very quietly, "Umaru's going to need the wall."
+Then the roof went white.
 
 * * *
 
-Beyond the painted circle, at the far edge of the roof, a seal had appeared in the concrete. Round, dark, with a pattern like the edge of the key's frame. And beside it, a small frame, with home faintly visible through it.
+They came out of the frame at the screen all at once, all four of them, as if they had been thrown.
 
-They did not have to walk back up from ten to five.
+Mau hit the dry ground on his shoulder and rolled. Yuta came down on his knees beside him with his sword still in his hand. Maki landed on her feet, because Maki always landed on her feet, with her spear still levelled at a guardian that was not there. Yuka came last and sat down hard in the dust with the end of her rope in her hands, and the rope was slack, and there was nothing on the other end of it.
 
-Mau stepped onto the seal. The pattern lit under his feet.
+Anko was on her feet behind the board. She had the watch in her hand. She looked at it.
 
-*Owner progress: Floor 10.*
+"Forty minutes," she said. Very flatly. "You said three hours."
 
-Then they went home through the small frame. All four. Maki last, looking back once at the roof under the not-sky, at the fallen guardian dissolving into blue light, at the place where she had stood inside its reach and turned its blade like water.
+Nobody answered.
 
-On the other side, Anko looked at the watch.
+The frame behind them was dark. Then, in it, not the vestibule, not the stair, not the floor. Letters. Pale. In the middle of the frame, where everyone at the screen could see them. Anko. Yuta. Maki. Yuka. Seiko on the bench by the screen, with her stick across her knees.
 
-"Two hours and four minutes," she said. "From ten." She looked at the four of them. "Ten."
+*This dungeon belongs to an Operator.*
 
-"Ten," said Yuka. She was still holding the rope. "We beat the guardian. Grandma did. And Grandpa. And I caught its ankle." She swallowed. "And Oppa didn't keep the shadow because he wanted to have some left for the next thing."
+*Each guardian is the Operator's trial.*
 
-Anko wrote all of that down. Every word. In the margin.
+*Companions may assist.*
 
-Then she looked at Maki.
+*Companions may not carry.*
 
-"You've never been in before," she said.
+The letters stayed there for a long time. Long enough for Anko to copy them onto the board, every word, in her plain hand, with her pencil not quite steady. Then they went out, and the frame was only a frame, dark, with the vestibule faintly visible beyond it.
 
-"No," said Maki.
+* * *
 
-"How was it?"
+Nobody said anything for a long time.
 
-Maki thought about it. She looked at her granddaughter, still holding the rope. At Yuta, beside her, with his hand finally steady on his sword case.
+Maki lowered her spear.
 
-"I'd like to go again," she said.
+She looked at the frame. Then she looked at Mau, still on the ground where he had rolled, with dust on his shoulder.
+
+"Operator," she said.
+
+"That's me," said Mau. He did not know how he knew. He knew. "Owner. Operator. It's the same thing."
+
+"*May not carry,*" said Yuta. Quietly. He was looking at his sword. "We weren't carrying. We were just—"
+
+He stopped.
+
+He looked at the nine floors on Anko's board. At the names under each one. *Frieren planned. Kaneki led. Yuka planned. Fern lit. Stark held.* And under every single one of them, the same line, in Anko's hand, every time: *Mau stood on the seal.*
+
+"We were," said Yuta. "We were carrying him. The whole way."
+
+"Nobody told us we couldn't," said Maki.
+
+"Somebody's telling us now," said Yuka. Very small.
+
+She was looking at the dark frame. Then at Mau.
+
+"Oppa," she said. "Who wrote it?"
+
+Mau looked at the frame for a long time.
+
+"I don't know," he said.

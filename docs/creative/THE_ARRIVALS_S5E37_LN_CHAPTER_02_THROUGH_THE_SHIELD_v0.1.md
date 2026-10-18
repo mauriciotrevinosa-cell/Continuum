@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 29
-## Chapter 54 — Through the Shield
+## Chapter 55 — Through the Shield
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 29
-**Reading order:** 54
+**Reading order:** 55
 **Continuity state:** Day 328, dusk, continuous. The cut goes through Frieren's shield as if it were not there. She is cut across the chest and falls. A devil comes out of the woods; behind it a long stretch of forest lies in neat rows, cut, the way rumour said a city was once cut. Mau holds her ("no, no, no, Frieren"). The demons laugh: this will happen to everyone in the settlement, and he can do nothing. A silence. Then the tremor: Mau is not getting stronger, he is letting go, the way everything came out on Day 145. His shadow becomes unstable and his left eye goes black and red. Ciel tells him to calm down, but he is not thinking. "Nobody move." Everyone freezes. One demon starts to call the elf weak and is cut in half before the word ends, moving without moving. Mau forces a rough reverse technique into Frieren; it barely holds. He vanishes with her
 
 *When: Day 328, dusk. The same breath. The house behind the lime has six windows lit. In the workshop, Senku has just dropped a lens and is looking at it on the floor.*

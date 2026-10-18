@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 29
-## Chapter 59 — Five on the Roof
+## Chapter 60 — Five on the Roof
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-17)
 **Volume:** 29
-**Reading order:** 59
+**Reading order:** 60
 **Continuity state:** The seventh-day roof night (every 7 days from Day 81; Day 333 = 81 + 7x36) with Rimuru, Yuta, Gojo and Mau, and Taihei invited for the first time by Mau, as "the other older brother"; ordinary talk, the festival, the tower's tenth floor; Taihei is not made into a fighter and keeps his own judgement. Five nights after the north road (DH-123): Gojo says he watched from the lime and kept Yuta back; Frieren is eating again; Mau says he will go up the tower faster, not alone and within Shoko's limits, because of the one second on the road; Gojo will come more often. No vow, no title; the word 'strongest' is not said
 
 *When: Day 333, night. The roof hatch still squeaks a little. Yuta has not fixed it again, and Maki has stopped asking.*
@@ -88,7 +88,7 @@ That was the point of the roof. Nobody had to. They drank whatever was in the cu
 
 Everyone looked at him.
 
-"The tower," said Yuta. "Ten floors. Maki and Yuka and me. And Mau." He turned his cup in his hands. "Maki fought the guardian. Inside its reach. I'd forgotten what that looked like."
+"The tower," said Yuta. "Ten floors. Maki and Yuka and me. And Mau." He turned his cup in his hands. "Mau finished the guardian. Maki opened it for him. Inside its reach." He looked at his cup. "The first time, she nearly finished it herself. I'd forgotten what that looked like."
 
 "You hadn't forgotten," said Gojo. "You just hadn't seen it."
 

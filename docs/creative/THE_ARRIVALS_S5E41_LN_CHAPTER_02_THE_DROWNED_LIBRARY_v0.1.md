@@ -4,33 +4,47 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 15
-**Continuity state:** Floors 12–14 summarised from Anko's board (two visits, Days 341–342). Floor 15 (Day 343) with Mau (owner), Fern, Stark and Gojo: a flooded library with ink-eels in knee-deep water; the objective is the reading room; Fern's precise light spells; Gojo's small Blue clears a shelf-jam; Fern takes an ordinary book in an unknown script for Frieren. Mau reaches level 17 (fifty unspent). No extraction
+**Continuity state:** Floors 12–14 summarised from Anko's board: Mau went ALONE at dawn on Days 341–342 (after the north road and the Operator notice), burned on 14; Anko writes *(Alone.)*, finds no rule to stop him, and threatens to write one. Fern puts herself, Stark and Gojo on the board for 15 without asking. Floor 15 (Day 343) with Mau (owner), Fern, Stark and Gojo: a flooded library with ink-eels in knee-deep water; the objective is the reading room; Fern's precise light spells; Gojo's small Blue clears a shelf-jam; Fern takes an ordinary book in an unknown script for Frieren. Mau reaches level 17 (fifty unspent). No extraction
 
 *When: Day 343, morning. Anko's board now has three columns for the tower: DATE, PARTY, FLOOR. Under FLOOR, in her hand: 12, 13, 14. Under today, nothing yet.*
 
-Anko's board said it plainly. She did not believe in describing things that had gone well.
+Anko's board said it plainly. She did not believe in describing things that had gone well. She was finding she did not know how to describe things that had gone like this.
 
-*Day 341, afternoon. Mau, Yuta, Maki, Yuka. From 10. Floor 12: rope bridges over a gorge. Yuka's rope. Cleared. Two hours ten.*
+*Day 341, before breakfast. Mau. From 10. Floor 12: rope bridges over a gorge. Cleared. One hour fifty.*
 
-*Day 342, morning. Mau, Frieren, Kaneki, Milim. From 10. Floor 13: a maze of hedges that moved at night. Was night. Milim flew over it. Cleared. Floor 14: a hot spring cave, very full of something that did not like being bathed near. Milim bathed near it. Cleared. Three hours exactly. Milim reprimanded (by Yuka, on return).*
+*(Alone.)*
 
-And underneath, in a different pencil, smaller:
+*Day 342, before breakfast. Mau. From 10. Floor 13: a maze of hedges that moved. Cleared. Floor 14: a hot spring cave, something large in the water. Cleared. Three hours exactly.*
 
-*Milim says it started it.*
+*(Alone.) (Burns, left arm. Shoko.)*
 
-Mau stood in front of the board in the morning with Fern beside him, reading it.
+Under PARTY, on both days, there was only one name. Anko had written it the first morning without thinking, because he had stood at the screen at dawn with the bag over his shoulder and said *just me, I'll be quick*, and she had not known the rule that said she could stop him. There was no such rule. She had looked for one afterward, in the constitution and the coin slate and Fern's ledger. There was nothing that said an owner could not go into his own tower alone.
 
-"She did say it started it," said Mau.
+So she had written *(Alone.)* in brackets. The second morning she had written it again, and pressed hard enough to break the lead.
 
-"Did it?"
+Mau stood in front of the board in the morning with Fern beside him, reading it. His left forearm was wrapped in Shoko's clean cloth from the wrist to the elbow, over the burn the thing in the hot spring had left when it rose out of the steam with too many arms.
 
-Mau thought about the thing in the hot spring cave. Large and pale and slow, with too many arms, rising out of the steaming water. Milim had said *hello* to it very loudly, from about a hand's breadth away.
+Fern did not say anything for a while.
 
-"Partly," he said.
+Then she took the pencil from the ledge, and under today's date, under PARTY, before Mau could say *just me*, she wrote:
 
-Fern looked at him. Then wrote on the board, under START FROM: *10*. And under PARTY: *Mau, Fern, Stark, Gojo.*
+*Mau, Fern, Stark, Gojo.*
 
-"Three hours," she said. "I want to be back for the ledger before Jinshi leaves his questions."
+"I didn't—" said Mau.
+
+"No," said Fern. "You didn't." She put the pencil back on the ledge, very precisely. "Stark and Gojo don't know yet. I'm going to tell them now." She looked at his arm. "Three hours. I want to be back for the ledger before Jinshi leaves his questions."
+
+She went to find Stark.
+
+Mau looked at the board. At the two days with one name on them, and the brackets, and the broken lead.
+
+Behind him, Anko was standing in her doorway with her coffee, watching him read it.
+
+"There's no rule," she said. "I looked."
+
+"I know."
+
+"I'm going to write one," said Anko. "If you make me."
 
 * * *
 

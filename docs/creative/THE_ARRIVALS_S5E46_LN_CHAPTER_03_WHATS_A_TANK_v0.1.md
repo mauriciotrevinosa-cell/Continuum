@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 37
-**Continuity state:** Tank is extracted (it does not speak). The floor 30 transfer point is secured; four registered shadows (Lantern, Corner, Igris, Tank) out of ten places; the reserve is nearly empty, so no shadows for a day. At home: Fern is angry with Stark and then tells everyone; Ori asks what a tank is, and Yuta, Taihei and Senku explain from their worlds; Ori writes "A big thing that doesn't stop." No new mechanic
+**Continuity state:** Tank is extracted (it does not speak), with Mau's collarbone broken. The floor 30 transfer point is secured; four registered shadows (Lantern, Corner, Igris, Tank) out of ten places; the reserve is nearly empty, so no shadows for a day. At home: Fern is angry with Stark and then tells everyone; Ori asks what a tank is, and Yuta, Taihei and Senku explain from their worlds; Ori writes "A big thing that doesn't stop." No new mechanic
 
 *When: Day 353, the snowfield on thirty, then home. The blizzard is still blowing outside the thin space. Under the great white bear, the dark is gathering.*
 
@@ -78,7 +78,7 @@ Mau thought about it.
 
 "No," he said honestly.
 
-Maki and Kaneki took an arm each, and he stood.
+Maki took his good arm. Kaneki put an arm round his waist, under the broken shoulder, without touching it. He stood.
 
 * * *
 

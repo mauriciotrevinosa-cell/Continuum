@@ -4,29 +4,97 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 36
-**Continuity state:** Floors 26–29 summarised from Anko's board. Floor 30 (Day 353), the third guardian, with Mau (owner), Maki, Stark and Kaneki: a snowfield in a blizzard and a great bear armoured in ice, which the notice names Tank. It is a group fight, with no single combat requested. Kaneki hears it in the snow; Stark meets the charge; Maki goes inside the reach; Igris stands, and Lantern stands for the first time in a fight, for under a minute, which drains the deeper reserve fast. Tank is defeated. Mau reaches level 32 (seventy-four unspent)
+**Continuity state:** Floors 26–29: Mau ALONE again, slipping past the screen-watchers at noon and during dinner (Anko: *He's faster every day*). On the morning of thirty Stark, Maki and Kaneki sit on the bench at the screen and stop him (Stark's brother stood alone: the loneliest thing; Kaneki: you're getting stronger so you won't need us); Mau gives Stark the bag; Anko writes *(Together.)* Floor 30 (Day 353), the third guardian, with Mau (owner), Maki, Stark and Kaneki: a snowfield in a blizzard and a great bear armoured in ice, which the notice names Tank. It is a group fight, with no single combat requested. Kaneki hears it in the snow; Stark meets the charge; Maki goes inside the reach; Igris stands, and Lantern stands for the first time in a fight, for under a minute, which drains the deeper reserve fast. Maki leaves her spear in the gap and steps back ("Yours"); Mau finishes it with the small pull at the spear's tip and is thrown off, collarbone broken. Tank is defeated by Mau. Mau reaches level 32 (seventy-four unspent)
 
 *When: Day 353, morning. Anko's board, second plank: 26, 27, 28, 29. Under today: 30 (guardian). START FROM: 20. Five hours, because the walk from 20 is long.*
 
 The board said it, as usual, plainly.
 
-*Day 351, evening. Mau, Yuta, Fern, Rem. From 25. Floor 26: a staircase made of bells. Rem rang every one. Cleared. Floor 27: a garden of glass. Nobody touched anything. Cleared.*
+*Day 351, noon. Mau. From 25. Floor 26: a staircase made of bells. Floor 27: a garden of glass. Cleared, both.*
 
-*Day 352. Mau, Gojo, Frieren, Yuka. From 25. Floor 28: an orchard where the fruit fell upward. Floor 29: a long cold corridor with snow blowing down it from the far end. Gojo says the far end is very cold. Cleared, both.*
+*(Alone.) (Noon. Nobody was watching the screen at noon.)*
 
-Under that, in Gojo's hand, added without permission:
+*Day 352, after dinner. Mau. From 25. Floor 28: an orchard where the fruit fell upward. Floor 29: a long cold corridor with snow blowing down it from the far end. Cleared, both.*
 
-*Bring a coat. —S.G.*
+*(Alone.) (He went while we were all at the table. He said he was going to wash.)*
 
-"He did say that," said Yuka, at the board, the morning of thirty. "Four times. On the way back."
+There was nothing else under it. Not Gojo's hand, joking. Not Rem's, wanting the kitchen. Just the brackets, and under the second one, pressed so hard it had gone through the paper to the wood, a single line Anko had not meant anyone to read:
 
-"Was it cold?" said Stark.
+*He's faster every day.*
 
-"It was cold," said Yuka. "At the top of the stair to thirty, there was snow coming down it. Inside. On the stair." She looked at Stark. "Bring a coat."
+* * *
 
-Stark had brought a coat. So had Maki. Kaneki had not, because Kaneki did not feel cold the way other people did, and had said so, and Fern had made him bring one anyway.
+Stark found the board first, on the morning of thirty.
 
-Anko wrote under today: *Mau, Maki, Stark, Kaneki. From 20. Floor 30 (guardian).*
+He did not read things, as a rule. He let Fern read things and tell him. But he was up early, because Fern was angry with him about something he did not yet understand, and he came past the screen with his coat over his arm and stopped and read every line on the second plank.
+
+Then he went and woke Maki. And Maki went and found Kaneki at the kilns, at the end of his shift. And the three of them came back to the screen together in the grey light and sat down on the bench in front of the dark frame, side by side, Stark in the middle, and waited.
+
+Mau came out of the back door at dawn with the bag over his shoulder.
+
+He saw them. He stopped.
+
+"Thirty," said Stark.
+
+"I know," said Mau. "It's a guardian. I was going to ask—"
+
+"No you weren't," said Stark.
+
+He said it very simply. Not angry. Stark was almost never angry. He said it the way he said things about the weather.
+
+"You were going to say *just me, I'll be quick*," said Stark. "Like you said to Anko. Like you said yesterday when you said you were going to wash." He looked at his hands. "I read the board. All of it. Nineteen floors since the north road. Most of them on your own."
+
+Mau did not say anything.
+
+"My brother stood in front of the demons by himself," said Stark. "In my village. So I could run." He looked at his hands. "Everyone says that's what a hero does. Stands in front, alone, so nobody else has to."
+
+He was quiet.
+
+"I've thought about it every day since," said Stark. "It's the loneliest thing I ever saw."
+
+* * *
+
+Maki had her new spear across her knees. Straight ash, freshly cut, with the silver flower below the blade. The old cracked one was leaning against the bench beside her, where she could reach it.
+
+"Igris was yours," she said. "Single combat. He asked for it. That was right." She looked at him. "This one isn't asking. The notice says assist. It says we can't carry." She tapped the board with the butt of the spear. "It doesn't say we have to sit at home while you get killed on twenty-six at noon."
+
+"I didn't get killed."
+
+"Not yet," said Maki.
+
+Kaneki had not said anything. He sat on the end of the bench with his hands in his pockets and looked at Mau the way he looked at people at the kilns at night.
+
+"You're not getting stronger to keep up with us," he said at last. Very quietly. "You're getting stronger so you won't need us."
+
+Mau looked at him.
+
+"I know what that looks like," said Kaneki. "I did it. For a long time." He did not take his eyes off Mau. "It doesn't end where you think."
+
+* * *
+
+Nobody said anything for a long time.
+
+The sun came up over the hills behind the house. The light reached the dark frame of the screen and did not go into it.
+
+"I stopped," said Mau. "On the road. For one second."
+
+"We know," said Stark.
+
+"I don't want there to be a second."
+
+"We know," said Stark. "So we're coming." He stood up. He picked up his axe. He held out his hand for the bag on Mau's shoulder. "You fight it. It's yours. We heard the notice. We're not going to take it from you." He waited. "But you don't go up that stair on your own today. Not to thirty."
+
+Mau looked at Stark's hand.
+
+Then he took the bag off his shoulder and gave it to him.
+
+Anko, in her doorway with her coffee, had been watching the whole time. She came over and wrote under today, in her plain hand:
+
+*Mau, Maki, Stark, Kaneki. From 20. Floor 30 (guardian).*
+
+And in brackets, for the first time in days, a different word:
+
+*(Together.)*
 
 "Five hours," she said.
 
@@ -142,7 +210,27 @@ Fast. Much faster than Igris alone on the bridge. Faster than raising Igris on t
 
 "*Maki*," he said.
 
-Maki drove the spear down through the cracked ice. Into the gap. All the way.
+Maki did not drive the spear in.
+
+She had it in the gap, in the crack in the ice, the point resting where it would go. She could have. Mau saw that she could have. One push.
+
+She looked at him through the blowing snow.
+
+"Yours," she said. And let go of the shaft, and stepped back.
+
+*Twenty seconds,* said Ciel.
+
+He climbed. Up the bear's pinned shoulder, over the cracked blue ice, slipping, the wind tearing at him, to where Maki's spear stood up out of the gap. He put both hands on the shaft. He did not have Maki's strength. He did not have Stark's. He had a marble.
+
+He put the small pull at the tip of the spear. Inside the ice. Inside the crack. And let it pull.
+
+The ice plates round the gap folded inward on themselves, all at once, with a sound like a frozen lake breaking. The spear went down through them. He went down with it, his whole weight on the shaft.
+
+The bear threw its head back one last time. Under Lantern's weight, under Igris's blade, it threw its great armoured head back, and the side of its skull caught Mau across the shoulder and threw him off its back into the snow.
+
+He felt his collarbone go.
+
+*Ten seconds,* said Ciel.
 
 The bear went still.
 
@@ -152,7 +240,7 @@ Lantern folded down into his shadow. All at once. The cold lights last. Igris st
 
 The drain stopped.
 
-Mau stood in the snow inside the thin space and breathed.
+Mau lay in the snow where he had been thrown and breathed, with his left arm held against his chest and the white sky going round, and Kaneki already kneeling beside him, not touching the shoulder, just there.
 
 * * *
 
@@ -160,7 +248,7 @@ Mau stood in the snow inside the thin space and breathed.
 
 Nobody said anything for a while.
 
-Stark sat down in the snow. He did not decide to. He was standing, and then he was sitting, with his axe across his knees and his arms still shaking. He looked at the bear lying in front of him, white and huge and still, with Maki's spear standing up out of its shoulder.
+Stark sat down in the snow. He did not decide to. He was standing, and then he was sitting, with his axe across his knees and his arms still shaking. He looked at the bear lying in front of him, white and huge and still, with Maki's spear standing up out of its shoulder where Mau had driven it.
 
 "I stood in front of it," he said. To nobody.
 

@@ -1869,3 +1869,9 @@ Creator clarification: Mau did not get stronger; he LET GO, the Day 145 kind of 
    - The frame shows: "This dungeon belongs to an Operator / Each guardian is the Operator's trial / Companions may assist / Companions may not carry."
    - On the second attempt Mau finishes it. Maki opens and Yuka's rope and the sentry help. Maki's spear cracks under his push (the crack carried into V30).
    - Maki: "So we make him good enough."
+2. **Floors 11–30 (V30 edits).**
+   - Floor 11: Mau fights the iron wolves himself, takes a shin bite, and Frieren challenges "the hard way".
+   - Floors 12–14, 16–18, 21–22 and 26–29: Mau goes ALONE (dawn, noon, during dinner). Anko writes *(Alone.)* and cannot write a rule that isn't a cage. Shoko heals his salt-burned hands in silence. After the front row (Day 349) he goes alone and gets frostbite.
+   - The house starts guarding the screen: Fern for 15, Frieren, Yuta and Rem for 19, and Kaneki, Milim and Rem at 3 a.m. for 23–24.
+   - Floor 20 notice: "single combat with the Operator".
+   - Floor 30: Stark, Maki and Kaneki stop him at the bench (Stark's brother stood alone, "the loneliest thing"; Kaneki: "so you won't need us"). Anko writes *(Together.)* Maki leaves the spear for him ("Yours"). Mau finishes Tank with the pull at the spear tip; collarbone broken.

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 32
-**Continuity state:** Floors 21–24 summarised from Anko's board. Floor 25 (Day 350) with Mau (owner), Frieren, Fern and Stark from the floor 20 transfer point: a long stone bridge over a chasm with small fire-things; Igris is called to stand for the first time in the tower and holds the far end while the party crosses. Standing costs reserve by the minute, so he is sent back as soon as it is done. He addresses Fern as "my lady" and bows to Frieren without a word; Frieren notices. Mau reaches level 27 (one hundred unspent). No extraction
+**Continuity state:** Floors 21–24 summarised from Anko's board: Day 349 evening Mau went ALONE (the day after the front row; frostbite, Frieren takes him to Shoko); Anko understands there can be no rule and instead tells Kaneki his leaving time, so on Day 350 at three Kaneki, Milim and Rem are waiting at the screen and go in with him (the kitchen gag kept). Floor 25 (Day 350) with Mau (owner), Frieren, Fern and Stark from the floor 20 transfer point: a long stone bridge over a chasm with small fire-things; Igris is called to stand for the first time in the tower and holds the far end while the party crosses. Standing costs reserve by the minute, so he is sent back as soon as it is done. He addresses Fern as "my lady" and bows to Frieren without a word; Frieren notices. Mau reaches level 27 (one hundred unspent). No extraction
 
 *When: Day 350, morning. Anko's board: 21, 22, 23, 24 under FLOOR, in four different parties' days. Under today: 25. START FROM: 20, underlined twice, because it is the first time.*
 
@@ -12,9 +12,21 @@ Anko's board had grown a second column.
 
 She had run out of room on the first one somewhere around floor 18 and nailed up another plank beside it. On the new plank, in her plain hand:
 
-*Day 349, evening. Mau, Yuta, Maki, Yuka. From 20. Floor 21: a frozen waterfall, climbed. Floor 22: wind. A great deal of wind. Cleared, both.*
+*Day 349, evening. Mau. From 20. Floor 21: a frozen waterfall, climbed. Floor 22: wind. A great deal of wind. Cleared, both.*
 
-*Day 350, before dawn. Mau, Kaneki, Milim, Rem. From 20. Floor 23: a field of standing stones that hummed. Kaneki heard which ones. Floor 24: a kitchen. A very large kitchen. Rem did not want to leave. Cleared, both. Rem removed by Milim.*
+*(Alone.) (The day after the front row.) (Fingers frostbitten, two. Shoko, at midnight, because Frieren took him.)*
+
+*Day 350, before dawn. Mau. From 20. Floor 23: a field of standing stones that hummed. Floor 24: a kitchen. A very large kitchen. Cleared, both.*
+
+*(NOT alone.) (Kaneki, Milim, Rem were at the screen before him. They had been there since three. Kaneki heard which stones. Rem did not want to leave the kitchen. Rem removed by Milim.)*
+
+The night before, Anko had seen the shape of it. She had stood in her doorway at midnight while Frieren walked Mau across the yard to the clinic with his frostbitten hand held in both of hers, and she had understood that there was not going to be a rule. There could not be a rule. You could not forbid him his own door.
+
+So she had done the other thing. She had gone to the kilns, where Kaneki was raking, and told him what time Mau had been leaving. And Kaneki had told Milim. And Milim had told Rem, because Rem was awake making the bread. And at three in the morning, when Mau came out of the back door with the bag over his shoulder and his bandaged fingers, three people had been sitting on the bench by the dark screen in the cold, waiting for him.
+
+"Good morning," Rem had said. "We're coming."
+
+He had not argued. He had looked at the three of them for a long moment, and then sat down on the bench beside Kaneki, and put his face in his bandaged hands for a while, and then stood up, and they had gone in.
 
 Underneath, smaller, in Rem's careful hand, added without permission:
 

@@ -124,7 +124,7 @@ Only at Mau.
 
 The notice changed.
 
-*The guardian requests single combat with the owner.*
+*The guardian requests single combat with the Operator.*
 
 * * *
 

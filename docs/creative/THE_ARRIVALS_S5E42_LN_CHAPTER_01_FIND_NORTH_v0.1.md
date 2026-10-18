@@ -4,27 +4,47 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 18
-**Continuity state:** Floors 16–18 summarised from Anko's board. Floor 19 (Day 345) with Mau (owner), Frieren, Yuta and Rem: an open plain under a turning night sky where only one star holds still; the objective is "find north"; Frieren and Mau find the fixed star by watching the sky turn (the roof star-naming, V29 "First Light"); Rem's morning star against the night-hounds; Yuta's sword. Mau reaches level 21 (seventy unspent). No extraction offered
+**Continuity state:** Floors 16–18 summarised from Anko's board: Mau ALONE again (Day 344 evening; Day 345 before dawn, two floors), salt burns, and he does not go to Shoko; Shoko finds him at the basin, heals him in silence and shuts the clinic door. Anko cannot write a rule that is not a cage. Frieren, Yuta and Rem put themselves on the party for 19 without asking. Floor 19 (Day 345) with Mau (owner), Frieren, Yuta and Rem: an open plain under a turning night sky where only one star holds still; the objective is "find north"; Frieren and Mau find the fixed star by watching the sky turn (the roof star-naming, V29 "First Light"); Rem's morning star against the night-hounds; Yuta's sword. Mau reaches level 21 (seventy unspent). No extraction offered
 
 *When: Day 345, morning outside, night inside. Anko's board now reads 16, 17, 18 under FLOOR. Under today: 19. Beside it, in Umaru's hand, an unauthorised note: ONE MORE AND IT'S TWENTY.*
 
 Anko's board, again, said it plainly.
 
-*Day 344, evening. Mau, Maki, Stark, Kaneki. From 15. Floor 16: a salt flat that cracked underfoot. Stark fell in once. Retrieved. Cleared.*
+*Day 344, evening. Mau. From 10 (walked to 15). Floor 16: a salt flat that cracked underfoot. Fell in once. Got out. Cleared.*
 
-*Day 345, before dawn. Mau, Yuta, Yuka, Milim. From 15. Floor 17: stairs that went the wrong way. Yuka worked it out. Floor 18: a market with no people in it and too many doors. Milim opened all of them. Cleared, both. Three hours.*
+*(Alone.)*
 
-Underneath, smaller: *From 15???*
+*Day 345, before dawn. Mau. From 10 (walked to 15). Floor 17: stairs that went the wrong way. Floor 18: a market with no people in it and too many doors. Cleared, both. Two hours forty.*
 
-"There's no transfer point at fifteen," said Anko, at the board, with her pencil. "You said every ten. Ten, twenty."
+*(Alone.) (Salt burns, both hands. Didn't go to Shoko. Shoko found him.)*
 
-"There isn't," said Mau. "We walked from ten. Through eleven to fifteen. They're cleared, so it's quick. Just walking." He paused. "Long walking."
+There were four days of brackets on the board now. Anko had not written the rule yet. She had sat up two nights with a blank page and the stub of pencil, and every rule she wrote down said *you may not go into your own tower*, and every one of them sounded like a cage, and she had crossed them all out.
 
-Anko looked at the board.
+Mau had come back from eighteen an hour before dawn with his hands raw from the salt and gone straight to the kitchen to wash them in the basin, quietly, so as not to wake anyone. Shoko had been in the kitchen. Shoko was always in the kitchen at that hour, with the first pot.
 
-She crossed out *From 15???* and wrote *From 10 (walked to 15)*, and under that, *Long walking*, and underlined it.
+She had looked at his hands. She had looked at him.
 
-Then she wrote today.
+She had not said anything at all. She had put down her cup and taken his hands and done what she did, smooth and patient and exactly the right amount, and then she had picked up her cup again, and gone back to the clinic, and closed the door.
+
+That was worse than anything she could have said. Everyone in the house knew it by breakfast.
+
+"You went twice yesterday," said Anko, at the board, with her pencil. "And once before dawn today."
+
+"They're quick," said Mau. "Cleared floors are quick. It's just walking."
+
+"Long walking," said Anko. "Then floors nobody's seen. On your own." She looked at the board. "With your hands."
+
+He did not answer.
+
+Behind him, at the screen, three people were already waiting, and none of them had asked him first. Frieren, with her staff. Yuta, with his sword case. Rem, with the long chain of her morning star coiled at her hip and her face perfectly polite and perfectly immovable.
+
+"Nineteen," said Frieren. "We're coming."
+
+"I—"
+
+"We're coming," said Rem. Very pleasantly. "Sister said I may. Ram is minding the kitchen." She smiled. "I'm told the notice says we may not carry. I've no intention of carrying anyone. I intend to stand next to you while you do it, and hit anything that tries to stand on the other side."
+
+Anko wrote it down.
 
 *Day 345. Mau, Frieren, Yuta, Rem.*
 

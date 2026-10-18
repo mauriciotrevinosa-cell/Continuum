@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 29
 **Season:** 5
-**Coverage:** S5E25–S5E35
+**Coverage:** S5E25–S5E36
 **Volume title:** **The Days Between**
-**Chapter files:** 47
+**Chapter files:** 50
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 onward.
 
@@ -60,3 +60,6 @@
 | 45 | S5E35 | The True Leaf | `THE_ARRIVALS_S5E35_LN_CHAPTER_01_THE_TRUE_LEAF_v0.1.md` |
 | 46 | S5E35 | Lamp Oil | `THE_ARRIVALS_S5E35_LN_CHAPTER_02_LAMP_OIL_v0.1.md` |
 | 47 | S5E35 | The Stopped Train | `THE_ARRIVALS_S5E35_LN_CHAPTER_03_THE_STOPPED_TRAIN_v0.1.md` |
+| 48 | S5E35 | The Second Afternoon | `THE_ARRIVALS_S5E35_LN_CHAPTER_04_THE_SECOND_AFTERNOON_v0.1.md` |
+| 49 | S5E36 | The Bell Tower | `THE_ARRIVALS_S5E36_LN_CHAPTER_01_THE_BELL_TOWER_v0.1.md` |
+| 50 | S5E36 | The Song for the Lights | `THE_ARRIVALS_S5E36_LN_CHAPTER_02_THE_SONG_FOR_THE_LIGHTS_v0.1.md` |

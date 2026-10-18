@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 30
 **Season:** 5
-**Coverage:** S5E38–S5E43
+**Coverage:** S5E38–S5E44
 **Volume title:** **The House Lights Its Own**
-**Chapter files:** 25
+**Chapter files:** 30
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -38,3 +38,8 @@
 | 23 | S5E43 | The Red Knight | `THE_ARRIVALS_S5E43_LN_CHAPTER_02_THE_RED_KNIGHT_v0.1.md` |
 | 24 | S5E43 | My Liege | `THE_ARRIVALS_S5E43_LN_CHAPTER_03_MY_LIEGE_v0.1.md` |
 | 25 | S5E43 | Corner | `THE_ARRIVALS_S5E43_LN_CHAPTER_04_CORNER_v0.1.md` |
+| 26 | S5E44 | The Front Row | `THE_ARRIVALS_S5E44_LN_CHAPTER_01_THE_FRONT_ROW_v0.1.md` |
+| 27 | S5E44 | Go to Him | `THE_ARRIVALS_S5E44_LN_CHAPTER_02_GO_TO_HIM_v0.1.md` |
+| 28 | S5E44 | It Won't Happen Here | `THE_ARRIVALS_S5E44_LN_CHAPTER_03_IT_WONT_HAPPEN_HERE_v0.1.md` |
+| 29 | S5E44 | Between the Red Columns | `THE_ARRIVALS_S5E44_LN_CHAPTER_04_BETWEEN_THE_RED_COLUMNS_v0.1.md` |
+| 30 | S5E44 | Not Opposed | `THE_ARRIVALS_S5E44_LN_CHAPTER_05_NOT_OPPOSED_v0.1.md` |

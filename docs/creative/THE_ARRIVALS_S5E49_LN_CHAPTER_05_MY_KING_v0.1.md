@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 50
-**Continuity state:** The extraction of Beru. It nearly empties the deeper reserve. The copy speaks lavishly and devotedly ("My King!"), with the personality the creator asked to keep; his knowledge of any original is not established. He notices Frieren standing in "the place of the King's guard" and also remembers her Zoltraak; he promises to "speak with her later" (setting up the challenge). The floor 40 transfer point is secured. Mau reaches level 42 (sixty-four unspent). Five registered shadows: Lantern, Corner, Igris, Tank (broken, awaiting remaking) and Beru. That evening's roof night is short; Yuta has a new scar
+**Continuity state:** Mau is badly hurt (back clawed, both calves torn by the borrowed speed) and cannot walk; Shoko orders three days in bed, and the roof night comes to the east room. The extraction of Beru. It nearly empties the deeper reserve. The copy speaks lavishly and devotedly ("My King!"), with the personality the creator asked to keep; his knowledge of any original is not established. He notices Frieren standing in "the place of the King's guard" and also remembers her Zoltraak; he promises to "speak with her later" (setting up the challenge). The floor 40 transfer point is secured. Mau reaches level 42 (sixty-four unspent). Five registered shadows: Lantern, Corner, Igris, Tank (broken, awaiting remaking) and Beru. That evening's roof night is short; Yuta has a new scar
 
 *When: Day 361, the heart of the hive on forty. The Ant King lies broken on the packed earth. Under it, the dark is gathering, deeper than anything yet. The cup is low. Not empty.*
 
@@ -40,9 +40,9 @@ Frieren looked back at him. She did not say anything for a long moment.
 
 "It's not the same thing," she said. "After." She looked at the Ant King. "Lantern tried to kill us at the high pass. Igris cut you on twenty. The bear nearly took Stark's head off." She paused. "They're not what they were. They're what you ask them to be."
 
-"Then sit down," said Gojo. "Before you fall down."
+"You're already sitting down," said Gojo. "Stay there. You couldn't get up if you tried."
 
-Mau sat down.
+That was true. His legs had not answered him since he let Okarun's speed go. His back was three long burning lines under the torn coat. He stayed where he was, on the packed earth, with Frieren's hand under his arm.
 
 * * *
 
@@ -224,7 +224,17 @@ Gojo looked at her for a long moment.
 
 The roof that night was short.
 
-Mau went up because it was the seventh night and he had promised. He went up slowly, one rung at a time, with Rimuru below him on the ladder and Taihei above him, reaching down. He sat in his place and drank whatever Yuta called tea. He did not say very much. Nobody asked him to.
+Mau could not go up. His legs would not take a ladder. Shoko had bound his back and both calves and said *bed, three days*, and meant it.
+
+So the roof came down.
+
+At the hour, the hatch did not squeak. Instead there was a knock on the east-room door, and Yuta came in with the tray and five cups, and Rimuru behind him, and Taihei, and Gojo last, pretending he had always been going to. They sat on the floor round the bed. Frieren moved the reading chair to make room. Through the connecting door, Ori pretended to be asleep and listened to every word.
+
+"It's not the roof," said Rimuru. "There's no draught."
+
+"I'll open the window," said Taihei.
+
+He opened the window. There was a draught. Rimuru sat in it, with dignity. Mau drank whatever Yuta called tea, propped up on the pillows, and did not say very much. Nobody asked him to.
 
 Yuta had a new scar. A long pink line from his shoulder to his elbow, healed, still tender. Maki had looked at it in the clinic for a long time without saying anything. Then she had put her hand flat on it and said, "Two," and Yuta had said, "Two," and that was all.
 
@@ -234,13 +244,13 @@ Gojo told the story. Not the real version. Not even the exaggerated version. A t
 
 Rimuru put his face in his hands.
 
-"It's going to challenge her," said Gojo. "It said so. *Later.* About standing next to Mau." He leaned back on his elbows and looked at the stars. "I've been alive a very long time, in a manner of speaking, and I have never been so excited about anything as I am about *later*."
+"It's going to challenge her," said Gojo. "It said so. *Later.* About standing next to Mau." He leaned back against the end of the bed and looked at the ceiling. "I've been alive a very long time, in a manner of speaking, and I have never been so excited about anything as I am about *later*."
 
 Taihei, by the draught, looked at Mau.
 
 "Is that true?" he said. "The shadow's going to fight Frieren?"
 
-Mau looked at the stars. Low over the hills, a little apart, the small steady one. Still here.
+Mau looked past Taihei, out of the open window. Low over the hills, a little apart, the small steady one. Still here.
 
 "I think," he said slowly, "it's going to try."
 
@@ -248,4 +258,4 @@ Nobody said anything for a moment.
 
 Then Taihei said, very quietly, "I'll make breakfast. Early. For whoever's watching."
 
-And Gojo laughed so hard he nearly rolled off the roof, and Yuta caught him by the back of the coat with his good arm. The five of them sat in the warm dark until the hatch had squeaked the last of them down.
+And Gojo laughed so hard he nearly fell over sideways into the reading chair, and Yuta caught him by the back of the coat with his good arm. The five of them sat in the east room in the warm dark, with the window open for Rimuru's draught, until Shoko knocked on the door and sent them all to bed.

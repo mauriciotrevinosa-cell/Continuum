@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 25
-**Continuity state:** Return from floor 20. Mau tells Frieren first, before Shoko, as is his rule. Shoko cleans and closes the shallow cut, with no shadow use for the rest of the day. Ori adds Igris to her list and names the sentry "Corner" (it guarded a corner post on floor 1) without seeing it. Then the seventh-night roof with five (Rimuru, Yuta, Gojo, Taihei, Mau); Gojo tells the duel with exaggeration and then without it. No new power; no threat
+**Continuity state:** Return from floor 20. Mau tells Frieren first, before Shoko, as is his rule. Shoko stitches the arm, closes the deep thigh cut partly with her technique and stitches the rest, and binds two cracked ribs; no shadow use for the rest of the day. Ori adds Igris to her list and names the sentry "Corner" (it guarded a corner post on floor 1) without seeing it. Then the seventh-night roof with five (Rimuru, Yuta, Gojo, Taihei, Mau); Gojo tells the duel with exaggeration and then without it. No new power; no threat
 
 *When: Day 347, afternoon into night. Four hours and twenty minutes, by Anko's watch. The seventh night. Frieren is at the screen in front of Anko's board, and has been for some time.*
 
@@ -12,7 +12,7 @@ Frieren was at the screen when they came through.
 
 She was standing in front of Anko's board with her arms folded and her staff leaning against her shoulder. She had been there long enough that Anko had brought her a stool, and she had not sat on it. When the frame lit and the four of them came through, Mau first, she looked at him.
 
-At his face. Then, at once, at the scarf round his left arm. Gojo's scarf, dark with blood at the edges.
+At his face. Then, at once, at the scarf round his right thigh. Gojo's scarf, dark with blood. At the strip of Yuta's sleeve round his arm. At the way he was walking, held up between Maki and Yuta, with one hand pressed to his left side.
 
 She did not move.
 
@@ -28,23 +28,23 @@ Frieren looked at the scarf.
 
 He told her.
 
-All of it, standing there on the dry ground by the screen, with Anko pretending to write on the board and Gojo and Yuta and Maki standing a little way off, very carefully not listening. The long walk. The door. The empty throne. The knight kneeling. The name. The salute. The single combat, and the terms, and Maki's spear. The space catching the blade, and the blade finding where the space wasn't. The cut. Gojo shouting. Watching the weight instead of the sword. Going inside the reach. The spear under the arm, twice. The knight kneeling. *Arise.* The cold blue eyes. *My liege.*
+All of it, standing there on the dry ground by the screen, with Anko pretending to write on the board and Gojo and Yuta and Maki standing a little way off, very carefully not listening. The long walk. The door. The empty throne. The knight kneeling. The name. The salute. The single combat, and the terms, and Maki's spear. The space catching the blade, and the blade finding where the space wasn't. The cut. Gojo shouting. Watching the weight instead of the sword. The door he left open on purpose at his right hip, and the cut he took through it to step inside. The pommel, and his ribs. The spear under the arm, twice. The knight kneeling. *Arise.* The cold blue eyes. *My liege.*
 
 Frieren listened without interrupting.
 
 When he finished, she did not say anything for a long moment.
 
-Then she unfolded her arms. She reached out and took his left wrist, below the scarf, very carefully, the way Yuta had. She did not touch the cut. She held his wrist and looked at the scarf, and at the blood at its edges, and at his face.
+Then she unfolded her arms. She reached out and took his left wrist, very carefully. She did not touch anything else. She held his wrist and looked at the scarf round his thigh, and at the hand pressed to his side, and at his face.
 
 "You let it come in close," she said.
 
 "I had to. The sword was too long. I had to be inside it."
 
-"You let it come in close," said Frieren again, "with a sword, on purpose, while Gojo stood at a door." Her voice was very level. Very quiet. "And it cut you."
+"You let it come in close," said Frieren again, "with a sword, on purpose, while Gojo stood at a door." Her voice was very level. Very quiet. "And it cut you. Because you let it. On purpose."
 
-"A little."
+"Once on purpose. The ribs weren't on purpose."
 
-"A little," said Frieren.
+"*Once on purpose*," said Frieren.
 
 She did not let go of his wrist.
 
@@ -72,7 +72,9 @@ Mau looked at her.
 
 Shoko was not furious.
 
-That was worse. She took Gojo's scarf off his arm without saying anything and looked at the cut, a long shallow line across the outside of his upper arm. She cleaned it without saying anything. She did not put her hands on it the other way, the way that would have closed it in a breath; shallow cuts got thread, in her clinic, and her technique was for the ones that were not shallow. She closed it with three small stitches, very neat, without saying anything. She bandaged it properly, white, without saying anything.
+That was worse. She took Yuta's sleeve off his arm and looked at the cut there, a long shallow line, and cleaned it, and closed it with three small stitches without saying anything. Shallow cuts got thread, in her clinic. Then she took Gojo's scarf off his thigh and looked at that cut for a long time. That one was not shallow. She put her hands on it the other way, the way that closed things, and held them there until the deepest part had knitted. Then she stitched the rest, very neat, without saying anything. Then she felt his ribs, one at a time, very gently, while he tried not to make a sound and failed. She bound them, tight, white, from under his arm to his hip.
+
+"Two," she said. "Cracked. Not broken through. You'll breathe like an old man for a week." She did not put her hands on those. "Ribs knit on their own. I'm keeping my hands for the next time you let something cut you on purpose."
 
 Then she sat back on her stool and looked at him.
 
@@ -172,7 +174,7 @@ Then she looked at the list. Four names. Four lines.
 
 The roof hatch squeaked five times.
 
-Rimuru first, complaining about the hatch. Then Yuta with the cups, five of them, on a tray. Then Taihei, carefully, getting better at the ladder. Then Mau, with his left arm in its white bandage, slowly, one-handed, because Shoko had said nothing heavier than the cup and he had decided that included himself.
+Rimuru first, complaining about the hatch. Then Yuta with the cups, five of them, on a tray. Then Taihei, carefully, getting better at the ladder. Then Mau, slowly, one rung at a time, with his ribs bound and his leg stitched, Taihei reaching down from above and Rimuru below, because Shoko had said nothing heavier than the cup and he had decided that included himself.
 
 Then, twenty minutes later, Gojo, pretending he had always been going to.
 

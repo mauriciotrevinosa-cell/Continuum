@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 31
 **Season:** 5
-**Coverage:** S5E52–S5E56
+**Coverage:** S5E52–S5E57
 **Volume title:** **The Hundredth Floor**
-**Chapter files:** 20
+**Chapter files:** 26
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -33,3 +33,9 @@
 | 18 | S5E56 | Yellow | `THE_ARRIVALS_S5E56_LN_CHAPTER_02_YELLOW_v0.1.md` |
 | 19 | S5E56 | The First Thing He Feels | `THE_ARRIVALS_S5E56_LN_CHAPTER_03_THE_FIRST_THING_HE_FEELS_v0.1.md` |
 | 20 | S5E56 | Ram's Wind | `THE_ARRIVALS_S5E56_LN_CHAPTER_04_RAMS_WIND_v0.1.md` |
+| 21 | S5E57 | A Sea That's Just a Sea | `THE_ARRIVALS_S5E57_LN_CHAPTER_01_A_SEA_THATS_JUST_A_SEA_v0.1.md` |
+| 22 | S5E57 | The Legion | `THE_ARRIVALS_S5E57_LN_CHAPTER_02_THE_LEGION_v0.1.md` |
+| 23 | S5E57 | The Sword in the Field | `THE_ARRIVALS_S5E57_LN_CHAPTER_03_THE_SWORD_IN_THE_FIELD_v0.1.md` |
+| 24 | S5E57 | The General | `THE_ARRIVALS_S5E57_LN_CHAPTER_04_THE_GENERAL_v0.1.md` |
+| 25 | S5E57 | What Came Out With It | `THE_ARRIVALS_S5E57_LN_CHAPTER_05_WHAT_CAME_OUT_WITH_IT_v0.1.md` |
+| 26 | S5E57 | Grand Marshal | `THE_ARRIVALS_S5E57_LN_CHAPTER_06_GRAND_MARSHAL_v0.1.md` |

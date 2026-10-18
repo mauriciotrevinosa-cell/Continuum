@@ -8,7 +8,7 @@
 
 *When: Day 347, the grey light of floor 20. The knight is kneeling before the empty throne. Under it, between the flagstones, the dark is gathering.*
 
-The notice came up while Gojo was still looking at the scarf on his arm.
+The notice came up while Gojo was still tying the scarf round his thigh.
 
 *Shadow extraction available.*
 
@@ -184,13 +184,13 @@ Gojo crouched down in front of him.
 
 "Like I carried a house."
 
-"You sort of did." Gojo looked at the scarf on his arm. Then at Mau's face. "You told it something. When you raised it. I couldn't hear what. I can't hear what anybody thinks." He tapped his own temple. "But I saw what it did to the way you were holding it. You didn't pull it up by force. You told it where it was going."
+"You sort of did." Gojo looked at the scarf on his thigh, and at the hand Mau kept pressed to his ribs. Then at Mau's face. "You told it something. When you raised it. I couldn't hear what. I can't hear what anybody thinks." He tapped his own temple. "But I saw what it did to the way you were holding it. You didn't pull it up by force. You told it where it was going."
 
 "Ciel said—"
 
 "I know what Ciel said. I'm saying what I saw." Gojo was quiet for a moment. "That's a very good way to raise something."
 
-Yuta sat down on the step beside Mau. He did not say anything. He took Mau's left wrist, very gently, below the scarf, and held it for a moment. Mau felt the warmth of Yuta's cursed energy go into the cut, not healing it, Yuta did not do that without being asked, just warming it, the way he warmed the air on the roof on cold nights.
+Yuta sat down on the step beside Mau. He did not say anything. He put his hand very gently on Mau's left side, over the cracked ribs, and held it there for a moment. Mau felt the warmth of Yuta's cursed energy go into the ache, not healing it, Yuta did not do that without being asked, just warming it, the way he warmed the air on the roof on cold nights.
 
 "Shoko's going to be furious," said Yuta.
 

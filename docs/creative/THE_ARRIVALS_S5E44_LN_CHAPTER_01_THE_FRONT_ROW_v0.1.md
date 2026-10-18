@@ -6,7 +6,7 @@
 **Reading order:** 26
 **Continuity state:** R50. At lunch at the long table, Seiko makes the remark she saved ("when the two of you marry, I want the front row"). Mau chokes, Frieren blushes, the table laughs. Then the Trial wedding (S3 "Everyone Came"; told in S4 "The Last Two": frost, white and blue flowers he made, everyone coming up through the trees, the seam in the sky, Infinity, her hand a finger's width away) reaches him and he has a panic attack. Himmel, at the table, hears and goes still. Frieren gets Mau to the back step. It is not fear of marrying her and not jealousy; the healing so far was real and the trigger is also real. No involuntary technique
 
-*When: Day 348, midday. The day after floor 20. Mau's left arm is in its white bandage. Momo has made the cold noodle soup she makes on the hottest days. Everyone is at the long table, because it is too hot to be anywhere else.*
+*When: Day 348, midday. The day after floor 20. Mau's left arm is in its white bandage, his ribs are bound under his shirt, and he walks with a stiff right leg. Momo has made the cold noodle soup she makes on the hottest days. Everyone is at the long table, because it is too hot to be anywhere else.*
 
 Seiko waited until they were both eating.
 

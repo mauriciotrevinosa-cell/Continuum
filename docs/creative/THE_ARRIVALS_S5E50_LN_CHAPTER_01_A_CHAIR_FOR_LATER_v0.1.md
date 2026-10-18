@@ -10,7 +10,7 @@
 
 Mau slept for most of Day 362.
 
-He did not mean to. He woke at the reset hour, the way he always did, and Frieren's cold foot touched his shin, and she said *one, still here*. Then he closed his eyes for a moment, and when he opened them again it was the middle of the afternoon. The light was gold through the east window, and Frieren was in the reading chair he had said no to, with the green book open on her knees.
+He could not have done anything else. His legs would not hold him, and his back was bound from shoulder to hip. He did not mean to sleep, though. He woke at the reset hour, the way he always did, and Frieren's cold foot touched his shin, and she said *one, still here*. Then he closed his eyes for a moment, and when he opened them again it was the middle of the afternoon. The light was gold through the east window, and Frieren was in the reading chair he had said no to, with the green book open on her knees.
 
 "You slept," she said, without looking up.
 
@@ -44,7 +44,7 @@ He went back to sleep.
 
 The house did not go back to sleep.
 
-The house had heard. Of course it had. Gojo had told it on the roof, and then at breakfast on Day 362 he told it again, at length, with gestures. By lunch everyone knew. By dinner, the five had a bet going that Kusuri was keeping on her slate, and Umaru had confiscated it for unauthorised gambling, and then quietly added her own name to one column.
+The house had heard. Of course it had. Gojo had told it in the east room on the seventh night, and then at breakfast on Day 362 he told it again, at length, with gestures. By lunch everyone knew. By dinner, the five had a bet going that Kusuri was keeping on her slate, and Umaru had confiscated it for unauthorised gambling, and then quietly added her own name to one column.
 
 Gojo went to Wakana in the workshop.
 
@@ -198,7 +198,7 @@ Then she nodded, satisfied, and went back through the connecting door. A moment 
 
 Mau woke properly on the evening of Day 363.
 
-He sat up in bed. The light was gold. The cup was not full. Not close. But there was something in it now. More than a thin layer. A real amount. Enough to raise one thing. Enough to remake one thing, maybe.
+He sat up in bed. The light was gold. His back pulled under Shoko's bandages, three long tight lines. His legs answered him. They had not, the day before. Yuta had come twice, once each day, and sat on the end of the bed with his hands on Mau's calves for a long time, saying nothing, until the torn places had knitted enough to stand on. Shoko had watched from the door both times and said nothing either. The cup was not full. Not close. But there was something in it now. More than a thin layer. A real amount. Enough to raise one thing. Enough to remake one thing, maybe.
 
 *Tomorrow,* said Ciel. *Dusk. Shoko said. And you'll have enough for Beru to stand for a while. And for one remaking, if it comes to that.*
 

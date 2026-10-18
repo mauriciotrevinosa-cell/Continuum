@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 23
-**Continuity state:** The duel with Igris under the agreed terms. Mau fights with Maki's cracked spear (Mai's silver flower on it), bounded Infinity and the small pull (no Red, no Purple, no domain, no shadows called). He uses Gojo's attention-and-footwork lesson and Yuta's timing practice (V29 #12, #17), and Maki's floor-10 opening under the arm. Igris finds the edges of the Infinity, and Mau takes a real cut on the upper arm. Gojo shouts once against the terms. The spear holds. Igris kneels, defeated; not killed outright on the page; the extraction follows
+**Continuity state:** The duel with Igris under the agreed terms. Mau fights with Maki's cracked spear (Mai's silver flower on it), bounded Infinity and the small pull; no Red, no Purple, no domain, no shadows called. He uses Gojo's stones (attention) and Yuta's timing (where the weight goes), and then thinks a step further for the first time. He deliberately leaves a gap at his right hip so that he knows where the knight will strike, and takes a thigh cut to step inside the reach. The pommel cracks two ribs through the edge of the space. With Maki's floor-10 opening under the arm, Igris kneels, defeated. Injuries: arm cut, thigh cut, two cracked ribs. Gojo shouts once against the terms. The spear holds
 
 *When: Day 347, morning outside, the grey light of floor 20 inside. Ten paces. The knight has just moved.*
 
@@ -90,9 +90,21 @@ And his eyes, behind their filter, did what they did. They read. The way the arm
 
 *There,* he thought.
 
-The knight came.
+And then he thought further. That was the new part. He had never thought further, in a fight. He had reacted, and held, and hoped.
 
-From the right, low, at his hip. He had seen it a heartbeat before it started. The left shoulder dropping. He did not put the space there. He let the space go thin everywhere, almost to nothing, to save it. He stepped. Not back. In. Inside the reach, where the long sword could not follow, the way Maki had stepped inside the reach of the guardian on ten.
+*It finds where I'm not looking. Every time. Faster every time.*
+
+*Then I'll choose where I'm not looking.*
+
+He let the space go thin on his right side. Not by accident. On purpose. He held it everywhere else, thick, and left the right thin, at the hip, like a door left open a crack. And he watched the knight's left shoulder.
+
+It dropped.
+
+The knight came. From the right, low, at his hip. Exactly where he had left the door open. Of course it did. It had found the place he was not looking. He had made the place.
+
+He was already moving.
+
+Not back. In. Toward the blade, along it, inside the reach, the way Maki had stepped inside the reach of the guardian on ten. The long sword was committed to the cut. It had to go somewhere. It went where the door had been. It opened his thigh as he stepped past it, a long hot line across the outside of his right leg. He had known it would. He had chosen it. A cut on the leg for one step inside.
 
 The blade went past behind him.
 
@@ -116,7 +128,11 @@ It turned, very fast, faster than anything that big should turn, and the long sw
 
 He put the space there.
 
-All of it. Everything he had left, in one small hard place the size of his hand, at the side of his head, where the pommel was coming. It hit the space and stopped. Dead. Not slowed. Stopped. And the shock of it went back up the knight's arm, and the knight staggered, one step, sideways, on the cracked stone.
+All of it. Everything he had left, in one small hard place the size of his hand, at the side of his head, where the pommel was coming. Too small. Too late. The pommel hit the edge of the space and slid along it and came down past his head into his ribs instead.
+
+He heard them go. Two of them. On the left. A sound like green sticks.
+
+The breath went out of him. All of it. He did not fall, because he was holding on to the spear, and the spear was in the knight. But the shock of the space had gone back up the knight's arm too, and the knight staggered, one step, sideways, on the cracked stone.
 
 He used the pull.
 
@@ -142,7 +158,7 @@ The red lights behind its visor dimmed. Not out. Dimmed, like coals going grey a
 
 Mau let go of the spear.
 
-He stepped back. Two paces. His legs were shaking. His left sleeve was wet to the wrist. The thing he used for the space and the pull and his eyes was nearly empty, so empty the edges of things looked thin. He stood in the grey light in the ruined hall and looked at the red knight, kneeling, with Maki's spear in its side and its head bowed.
+He stepped back. Two paces. One of them did not hold, and he went down on one knee and got up again. His left sleeve was wet to the wrist. His right trouser leg was wet to the boot. Every breath went into his left side like a knife and stopped halfway. The thing he used for the space and the pull and his eyes was nearly empty, so empty the edges of things looked thin. He stood in the grey light in the ruined hall and looked at the red knight, kneeling, with Maki's spear in its side and its head bowed.
 
 The notice came up.
 
@@ -152,19 +168,21 @@ He stood there.
 
 He heard feet behind him. Running. Gojo first, because Gojo had been moving before the notice even finished. Then Yuta. Then Maki, last, not running, walking fast. She stopped beside the kneeling knight and looked at her spear in its side, and at the long crack running down the shaft, and at the small silver flower below the blade. Not a scratch on it.
 
-Gojo had Mau by both shoulders.
+Gojo had Mau by both shoulders. Mau made a sound when he did, and Gojo let go of the left one at once.
 
-"Your arm," he said.
+"Your ribs," he said. His bare eyes were on Mau's side. "Two. I can see them. And your leg. And your arm."
 
-"It's shallow."
+"The arm's shallow."
 
-"Your *arm*," said Gojo. His bare eyes were on the long line of blood, reading it, the way his eyes read everything. "It went through. I saw it go through. It found the place you weren't looking and it went *through*."
+"The *leg* isn't," said Gojo. His voice was very strange. "I saw it go in. You let it. You opened your right side on purpose and you let it cut you so you could step past it." He was reading all of it, the way his eyes read everything. "It found the place you weren't looking. Because you *gave* it the place."
+
+"It was going to find one anyway," said Mau. Every word went into his side. "I wanted to know which one."
 
 "I know. I'm sorry you had to watch."
 
 "Don't apologise to me," said Gojo. His voice was very strange. "Don't you dare apologise to me."
 
-He let go of Mau's shoulders. He took off his own scarf and tied it round Mau's arm, over the cut, tight, the way you tie something when your hands need something to do.
+He took off his own scarf and tied it round Mau's thigh, over the cut, tight, the way you tie something when your hands need something to do. Yuta, without being asked, tore the end off his own sleeve and did the arm.
 
 "I shouted," he said, tying. "I broke the terms."
 

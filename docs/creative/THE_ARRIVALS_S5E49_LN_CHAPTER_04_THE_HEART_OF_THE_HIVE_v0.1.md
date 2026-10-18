@@ -4,7 +4,11 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 49
-**Continuity state:** Floor 40 (Day 361), the fourth guardian. Party: Mau (owner), Frieren, Gojo and Yuta. In the heart of the hive the notice names it: Beru, the Ant King. It is very fast, eats its own soldiers to heal, and wants to grow. The fight is costly. Tank is torn apart and returns to Mau's shadow, needing remaking. Frieren's Zoltraak goes through its shoulder (it remembers). Gojo's marble pulls it off its line; Igris holds it; Mau's space covers Yuta. Igris and Mau finish it. The deeper reserve is what makes this survivable. No Red, no Purple, no domain
+**Continuity state:** Floor 40 (Day 361), the fourth guardian. Party: Mau (owner), Frieren, Gojo and Yuta. The notice names it Beru, the Ant King: very fast, it eats to heal and wants to grow. Yuta's arm is opened. Tank is torn apart and needs remaking. Then Beru goes for Mau, and the costs pile up:
+- It is faster than his attention and opens his back in three claw-lines.
+- He thinks instead of reacting: it heals by eating, so he takes the food away. From his bag of watched patterns he uses a rough copy of Momo's psychokinesis to throw the soldier-ant remains down the side tunnels, and a rough copy of Okarun's Granny-speed in the legs to drag Beru into the empty middle of the hive.
+- Both are wrong-handed. The first costs the space reserve; the second tears his legs.
+Igris holds; Gojo's marble; Frieren's Zoltraak takes an arm; it goes for her and stops a finger's width away, with Mau holding the space from the floor. Then the pull, and Igris. Mau cannot walk afterwards. No permanent unlock
 
 *When: Day 361, morning outside. The seventh night falls tonight. Taihei made breakfast at four and stood over Mau until he ate all of it. Five hours agreed, from thirty, because of the walk through the hive.*
 
@@ -128,13 +132,121 @@ Not in the cup. In something else. A hole, where Tank had been. Not gone. Broken
 
 The Ant King stood where Tank had been. It looked a little bigger. Its armour looked a little sharper.
 
-It turned toward Igris.
+It turned toward Mau.
 
 * * *
 
-Igris did not wait.
+It came at him faster than the space.
 
-He went at it. Not unhurried, this time. Fast. The long sword going round in a flat arc at the Ant King's neck. The Ant King turned it with one claw and went past, under, round, the way it had gone round Yuta's sword. Igris turned with it. He had seen what it did to Yuta. He did not let it get round. Blade and claw, blade and claw, so fast Mau's eyes behind their filter could barely follow. The knight and the thing that had eaten the bear, in the middle of the dark chamber, in Frieren's wonky lights.
+That was the only way Mau could think of it afterward. The space was where his attention was, and the Ant King was faster than his attention. It came from the front and the space caught it. It was not there. It was at his left, and the space went left, late. It was not there. It was behind him.
+
+The claws went across his back.
+
+Three of them. From the right shoulder blade down to the left hip. He felt the coat go, and the shirt, and then the skin, in three long lines, and then the heat, and then his knees hitting the packed earth.
+
+"*MAU*—"
+
+Frieren. From somewhere. A line of white light went past him, close, and the Ant King was not where it went.
+
+He knelt on the floor of the hive with his back opened and his blood on the earth and thought.
+
+*Think. Don't react. Think.*
+
+It was faster than his attention. He could not out-look it. Igris on twenty had been one sword, and patient. This was not patient. This was hungry, and fast, and every time something cut it, it ate and grew back.
+
+*It heals when it eats.*
+
+Along the walls of the chamber, the remains of soldier-ants. Dozens. Food. Every one of them a wound healed, a scale grown back, a step faster.
+
+*Take the food away.*
+
+* * *
+
+He did not have a way to take the food away.
+
+He had a bag. Ciel called it that sometimes, when she was being careful. Everything the Noise had ever watched and kept. Everything it had seen people do, every day, for years, and quietly built in the dark, the way it built the walls. Most of it he had never touched. Some of it he had touched once, in the bell, and nearly not come back.
+
+He reached into it now. Carefully. Not for anything big.
+
+For the kitchen.
+
+Momo, every morning, at the long counter, with the bread in and the porridge on and her hands busy. And the other things moving without her hands. The kettle lifting itself off the hook. The lid sliding onto the pot. The spoon turning in the bowl on the far side of the room, because her hands were full and the spoon was not. He had watched it every morning for years. The Noise had watched it with him.
+
+*Ciel. Momo's.*
+
+*It's there,* said Ciel, very fast. *A pattern. Rough. You've never used it. It will cost the other reserve, not the cup. It will feel wrong. It isn't yours.*
+
+*How long?*
+
+*Seconds. Not much weight. A kettle, not a house.*
+
+*The bodies are lighter than a kettle. Some of them.*
+
+He did not wait for her to answer.
+
+He reached. Not with his hands. With the thing he had watched in the kitchen for years. It felt wrong. Like writing with the wrong hand. Like a voice that was not his coming out of his mouth. The remains of the nearest soldier-ants, along the wall, *lifted*. Not far. Not neatly. They lurched off the packed earth like something kicked. And he threw them. Away from the Ant King. Across the chamber. Down the open mouths of the side tunnels, into the dark, where it would have to go and look.
+
+Six. Ten. His head was splitting.
+
+The Ant King turned. It looked at the wall where its food had been. At the empty earth.
+
+It looked at him.
+
+* * *
+
+It came.
+
+He could not stop it with the space. He knew that now. He could not out-look it. He could not out-think it fast enough to catch it.
+
+He could get out of the way.
+
+*Ciel. Okarun.*
+
+*Mau—*
+
+*Okarun. The sled. The slope. The speed in his legs.*
+
+He had watched that too. Every winter morning on the slope above the north field, with the fort screaming on the sled and Turbo Granny shouting from her booth that she was in his *legs*. A skinny boy with glasses who could not climb a flight of stairs without wheezing. Then something else came into his legs and he was the fastest thing on the slope. Faster than anything Mau had ever seen run.
+
+The Noise had watched it every time.
+
+*It's there,* said Ciel. *It's rougher than Momo's. It isn't built for your body. Mau, it will hurt. Your legs will—*
+
+He reached.
+
+It went into his legs like fire.
+
+Not speed at first. Pain. Every muscle from his hips to his ankles lit at once, as if someone had poured hot oil into them. Then the Ant King was in front of him with its claws coming down. And he was not there.
+
+He was across the chamber.
+
+He did not know how. He had not felt himself move. He was standing ten paces from where he had been, on legs that were screaming, with his back opened and his head splitting. At the edge of his sight, the hair falling over his eyes had gone, for a heartbeat, white at the tips.
+
+The Ant King turned. Found him. Came.
+
+He went again.
+
+Across the chamber. Away from the walls. Away from the bodies he had not thrown yet. Into the open middle of the hive, where there was nothing but packed earth and Frieren's wonky lights, and nothing to eat at all.
+
+It followed him. Fast. Hungry. Every time it reached for him, he was somewhere else. Every time it turned toward the wall, toward the food, he was in front of it again, close, closer than he should be, so that it turned back to him instead.
+
+He was dragging it. Away from the food. Into the middle. Where it could not heal.
+
+His legs were tearing. He could feel it. Something in the right calf, a long rip, like cloth. Something behind the left knee. Every step he took on Okarun's speed cost him something he would not get back for days.
+
+*Mau,* said Ciel. *Mau. Twenty more seconds and you won't walk out of here.*
+
+*Then twenty seconds.*
+
+"*Igris*," he said.
+
+* * *
+
+Igris was already there. He had been standing over the place where Tank broke, waiting for the word. He crossed the open middle of the hive in four long strides and came between Mau and the Ant King with his long sword already moving.
+
+He went at it. Not unhurried, this time. Fast. The long sword going round in a flat arc at the Ant King's neck. The Ant King turned it with one claw and went past, under, round, the way it had gone round Yuta's sword. Igris turned with it. He had seen what it did to Yuta. He did not let it get round. Blade and claw, blade and claw, so fast Mau's eyes behind their filter could barely follow. The knight and the thing that had eaten the bear, in the middle of the dark chamber, far from the walls and the food, in Frieren's wonky lights.
+
+Mau let Okarun's speed go. His legs went with it. He fell onto the packed earth and lay there and watched, because watching was all he had left.
 
 Igris was holding it.
 

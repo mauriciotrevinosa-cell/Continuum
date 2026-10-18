@@ -1882,3 +1882,15 @@ Creator clarification: Mau did not get stronger; he LET GO, the Day 145 kind of 
    - Ciel: dying for about 40 seconds; the filter goes back on. He is blind until noon on Day 363, shredded. Shoko: "He's killing himself to get somewhere. And he feels better every time he gets closer."
 4. **"The Check" (V30 new, Day 366).** Two mornings without Shoko's check. Mau names the Trial-second: the times he waited were the times she died. Shoko, the doctor and not his permission, tells the story of the "very annoying boy". Mau will hear the truth every morning. Day 367 is "not today". Shoko asks Frieren to take him "anywhere he can't climb", and Fern starts the ledger page *Days* (the house's chosen days through V31).
 5. **Floor 50 Kaisel.** Milim herds it but cannot finish it. Yuka's rope, then Frieren opens the wing (skin, not bone). Mau jumps off the cloud stair onto its back ("I didn't need to fly. I needed to land"); the barb goes through his thigh. He locks the wing with the pull, lands on a slanted space, Lantern pins, and Mau finishes it.
+6. **Floor 60 = Tusk (V31 "The Shaman", replacing the Warden draft).**
+   - A war camp; the High Orc Shaman casts through a skull-staff. Stark holds the ring, Fern cuts the fire knot and Frieren reads the casts.
+   - A weight-spell flattens everyone. Mau wraps himself in full Infinity so the weight never arrives and walks twelve paces under it, burned on the left side, his shoulder reopening.
+   - Beru and Igris, raised inside his space, break the skull. Tusk kneels and Mau finishes him. Extracted ("Great one"; "I will be your fire. Behind your people. To keep them.").
+   - The Warden references are updated (Hot Stair, One Small True Thing, Legion). The 101 "key" statue still needs reworking in the 101 block.
+7. **Floor 70 Kamish solo (V31 "The Old Dragon" rewritten; "Operator Only" and "True Dragon" new; "Small King" rewritten).**
+   - Mid-fight: "Party size: 1. Operator only." The party is ejected. Kamish: "That was not mine."
+   - Kamish's true breath; Igris, Beru, Kaisel and Lantern are all broken into pieces; Tusk is sent back.
+   - Mau lets out the half-built True Dragon scale from the containment (Rimuru's memory of Veldora's cave): a dragon of pressure round him with him at its heart, tearing his body for twenty seconds. The true fire cannot arrive; Kamish is pressed flat ("Not small. Good."). Mau finishes it, and Ciel shoves the walls up behind the scale.
+   - Bleeding out, he raises Kamish so it won't be alone. Kamish coils round him and keeps watch until the frame reopens 40 minutes later.
+   - Rimuru recognises the scale at the screen. Gojo: "Someone up there wanted to see him alone… I'm going to find them."
+   - Recovery edits to V31 #17–19: one hour out of bed for Himmel's tea; Frieren floats him to the river bend; only Lantern is remade on Day 381, the others on Days 383–384.

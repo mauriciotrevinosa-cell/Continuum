@@ -4,9 +4,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 15
-**Continuity state:** Floor 70 (Day 378), the seventh guardian and the hardest fight so far. Party: Mau (owner), Gojo, Frieren and Yuta. A vast furnace-hall; the notice names it Kamish, the Old Dragon, which breathes fire. Mau holds Infinity over Frieren and Gojo holds his over Yuta (current limits: Infinity and the marble only). Lantern grapples it and is torn apart, needing remaking. Igris and Beru go for the legs; Kaisel lifts Mau. The finish: Gojo's marble in the throat as it inhales, Frieren's Zoltraak into the open mouth, Yuta's blade at the eye. The nine-times reserve is what makes it survivable, and it ends nearly dry
+**Continuity state:** Floor 70 (Day 378), the seventh guardian (rewritten for DH-124). Party at the start: Mau (owner), Gojo, Frieren and Yuta. A vast furnace-hall; Kamish, the Old Dragon, speaks ("small king") and smells Tusk's burn on him. The first breath is held with separate spaces. Mau calls all five shadows; Lantern is torn apart ("Little cousin bit well"); Igris and Beru take the legs and Tusk's blue fire goes into its eyes. Mau gives the plan aloud, and then a notice appears to all four: "Party size: 1. Operator only." Gojo, Frieren and Yuta vanish. Kamish is surprised ("That was not mine"; "Someone wishes to see you alone") and looks up, as if at something above. Nobody knows who did it. With no one left to be careful of, it stops holding back, and its true breath begins to build. The chapter ends as it opens its mouth
 
-*When: Day 378, morning outside. Three days of rest since the Warden, and one since the hot stair. Taihei made breakfast at four. Fern checked the cup with Ciel through Rimuru before they left, and wrote FULL ENOUGH on the board herself.*
+*When: Day 378, morning outside. Three days of rest since Tusk, and one since the hot stair. Shoko looked at the left side of his face for a long time and said "go", which was not "fine". Taihei made breakfast at four. Fern checked the cup with Ciel through Rimuru before they left, and wrote FULL ENOUGH on the board herself.*
 
 They walked from sixty.
 
@@ -46,7 +46,7 @@ They went through.
 
 It was a hall.
 
-Mau had seen halls in the tower. Igris's ruined throne hall. Beru's hive. The Warden's prison. This was bigger than any of them. So big that the far walls were lost in the red haze. The roof, if there was a roof, was lost in smoke. The floor was black stone, cracked, and in the cracks something glowed. Red. Orange. Molten. The whole floor was a crust over fire.
+Mau had seen halls in the tower. Igris's ruined throne hall. Beru's hive. Tusk's burning camp. This was bigger than any of them. So big that the far walls were lost in the red haze. The roof, if there was a roof, was lost in smoke. The floor was black stone, cracked, and in the cracks something glowed. Red. Orange. Molten. The whole floor was a crust over fire.
 
 The heat was enormous. Even inside the space. The space kept out the worst of it. Not all.
 
@@ -98,7 +98,7 @@ Not loud. Deep. So deep Mau felt it in the stone under his feet before he heard 
 
 Nobody moved.
 
-"You have come up my stair," said Kamish. "Seventy floors. With your little shadows." Its gold eyes went to the ground at Mau's feet, where his shadow was, red-lit. "I can smell them. A dragon from a red place. A knight. A bear. An ant who was a king." It was quiet. "A wyvern who flies for joy." Its eyes came back to Mau. "You have been collecting."
+"You have come up my stair," said Kamish. "Seventy floors. With your little shadows." Its gold eyes went to the ground at Mau's feet, where his shadow was, red-lit. "I can smell them. A dragon from a red place. A knight. A bear. An ant who was a king." It was quiet. "A wyvern who flies for joy. A shaman who burned his own." Its eyes came back to Mau. "You have been collecting."
 
 "I've been climbing," said Mau.
 
@@ -112,13 +112,13 @@ Mau did not say anything.
 
 Kamish looked at him.
 
-"Of course," it said. "That is what I am for." It unfolded one wing, slowly, the size of the long room, and the heat came off it in a wave. "But I wished to see you first. Before I burn you." Its gold eyes narrowed. "I wished to see what kind of small king climbs seventy floors and does not keep everything he kills."
+"Of course," it said. "That is what I am for." It unfolded one wing, slowly, the size of the long room, and the heat came off it in a wave. "But I wished to see you first. Before I burn you." Its gold eyes narrowed. "I wished to see what kind of small king climbs seventy floors and burns himself on every one of them."
 
 Mau looked at it.
 
-"I didn't keep the Warden," he said.
+"I walked through the shaman's sky," he said.
 
-"No," said Kamish. "I know. I smelled it on you, coming up my stair. A choice." It was quiet. "Interesting."
+"I know," said Kamish. "I smelled it on you, coming up my stair. The burn on your face." It was quiet. "You walked where his weight could not arrive. Alone. While your companions lay on the stone." Its gold eyes narrowed, very slightly. "Interesting."
 
 Then it breathed in.
 
@@ -178,17 +178,17 @@ Mau looked at the other reserve. Less than half. Less than a third.
 
 * * *
 
-"*Lantern. Igris. Beru. Kaisel.*"
+"*Lantern. Igris. Beru. Kaisel. Tusk.*"
 
-All four. Mau had never called all four. He called them now.
+All five. Mau had never called all five. He called them now.
 
-They came up out of the black stone round him. The knight with his long sword. The ant-man with his claws. The wyvern with its wings spread. And Lantern, last, rising up out of his shadow on the red-lit stone, wings unfolding, huge. Smaller than Kamish. Much smaller. But huge.
+They came up out of the black stone round him. The knight with his long sword. The ant king with his claws. The wyvern with its wings spread. The shaman, rising slowly, his cloak of smoke, the blue fire in the skull at the top of his staff. And Lantern, last, rising up out of his shadow on the red-lit stone, wings unfolding, huge. Smaller than Kamish. Much smaller. But huge.
 
-Mau felt the cup start to go. Fast. Four of them standing at once. Nine times deep and he could feel the floor of it coming.
+Mau felt the cup start to go. Fast. Five of them standing at once. Nine times deep and he could feel the floor of it coming.
 
 *Three minutes,* said Ciel. *If you want anything left to raise it with. Three.*
 
-Kamish looked at the four shadows.
+Kamish looked at the five shadows.
 
 Its gold eyes went to Lantern.
 
@@ -202,7 +202,7 @@ Lantern went for it.
 
 * * *
 
-It was not a fight. Not the way the bear had been, or Beru. It was two dragons. One small and dark and one vast and red, meeting over a lake of molten stone in a hall too big to see the edges of.
+It was two dragons. One small and dark and one vast and red, meeting over a lake of molten stone in a hall too big to see the edges of.
 
 Lantern went for its throat.
 
@@ -214,9 +214,7 @@ Then it brought its claws round and tore.
 
 Lantern came apart.
 
-Not dying. Coming apart. The way Tank had come apart under Beru. Pieces of dark falling from the red throat into the molten lake, into the black stone, into Mau's shadow, like water down a drain.
-
-Mau felt the hole where Lantern had been.
+Not dying. Coming apart. Pieces of dark falling from the red throat into the molten lake, into the black stone, into Mau's shadow, like water down a drain.
 
 *Not lost,* said Ciel, very fast. *In pieces. He'll need remaking. Not today.*
 
@@ -224,164 +222,82 @@ Kamish looked down at its throat. At the marks Lantern's jaws had left in the re
 
 "Little cousin bit well," it said.
 
-Then Igris and Beru hit its legs.
+Then Igris and Beru hit its legs, and Tusk's blue fire went into its face.
 
 * * *
 
-They went in low. From both sides. The knight at the left foreleg, the ant-man at the right. Igris's long sword went into the joint where the leg met the body. Beru's claws went into the gap behind the knee. Both held. Kamish shifted its weight. It looked down at them, at the two small dark things at its feet. Annoyed, the way you would be annoyed by flies.
+The knight at the left foreleg, the ant king at the right. Igris's long sword into the joint. Beru's claws into the gap behind the knee. And from behind them, Tusk's staff level, the blue fire pouring out of the skull in a long roaring stream into the dragon's gold eyes.
 
-"*Kaisel*," said Mau.
+Kamish turned its head away from the fire. Annoyed. The way you would be annoyed by smoke.
 
-The wyvern knelt. He climbed on.
+"*A shaman*," it said. "*Burning a dragon.*" Something like amusement. "*Brave.*"
 
-"Mau—" said Frieren.
+"Mau," said Gojo. Behind him. Very fast. "It's going to breathe again. Look at its chest."
 
-"Stay inside," said Mau. "The space. I'll keep it on you."
+He looked. The great red flanks, heaving. The heat in the hall turning. Going the wrong way. In.
 
-"You can't keep it on me if you're up there."
-
-"I can," said Mau. "For a minute. Ciel says." He looked at her. "Fire at the mouth. When it opens. Not before. When it opens."
-
-Frieren looked at him.
-
-Then she nodded.
-
-Kaisel went up.
-
-* * *
-
-It was very fast. The wyvern went up off the black stone like something thrown, wings beating, up into the red haze. Mau held on with his knees and one hand. With the other, he held the space round Frieren, far below, and felt it cost every second.
-
-Up. Past Kamish's legs, where Igris and Beru were holding. Past its body, the vast red flank. Up toward its head. Its long neck turned to follow him. Its gold eyes found him.
-
-"*Small king*," it said. "*Flying*."
-
-It opened its mouth.
-
-Not to breathe fire. To bite. The great jaws opened wide, each tooth as long as Mau's arm, toward the wyvern and the small king on its back.
-
-Then it breathed in.
-
-Mau felt it. The heat going the wrong way. In. Toward the mouth. The air rushing past him toward the open jaws. It was going to breathe again.
-
-"*GOJO*," he shouted.
-
-* * *
-
-Gojo was already there.
-
-On the black stone at the foot of the mound, with Yuta beside him inside his own Infinity. His hand was up. Two fingers. A small blue marble at the end of them. He had been watching. Waiting. His bare eyes on the dragon's throat.
-
-"*Now*," said Gojo, and flicked.
-
-The marble went up through the red haze. Small. Fast. Into the open mouth. Down the throat, with the inrushing air.
-
-And pulled.
-
-From inside.
-
-The breath that Kamish was drawing in, all of it, the heat, the air, the fire it was building, went toward the small blue point in its throat. Toward. Not out. Inward. Collapsing.
-
-Kamish choked.
-
-Its jaws stayed open. Its head went back. Its gold eyes went wide.
-
-Its mouth was open. Wide. Toward the floor.
-
-Toward Frieren.
-
-She fired.
-
-* * *
-
-Zoltraak.
-
-Straight up from the black stone, white, inside the space Mau was still holding round her. Through the space, which let it through, because he let it. Up through the red haze. Into the open mouth. Down the throat, after Gojo's marble.
-
-Kamish's whole body went rigid.
-
-Its head came down. Fast. Toward the stone. Toward the molten lake. Its gold eyes were open and its jaws were open, and down in the depth of its throat, faintly, there was a white light, fading.
-
-Yuta was waiting.
-
-He had come out of Gojo's Infinity at a run while Kamish's head was going back. Across the cooling edge of the molten lake, across the black stone, with his sword out and his cursed energy round him like a dark film. He was at the foot of the mound when Kamish's head came down.
-
-He jumped.
-
-Up. Onto the falling head. And drove his sword into the gold eye.
-
-* * *
-
-Kamish screamed.
-
-Then it stopped.
-
-Its head hit the black stone at the foot of the mound, and the whole hall shook. The molten lake rippled. Igris and Beru let go of its legs and stepped back. Kaisel banked away overhead with Mau on its back, holding on.
-
-The great red body lay very still on the mound.
-
-The gold eye that was not pierced was still open.
-
-It was looking up. Past Yuta, standing on its head with his sword in its other eye. Past the red haze. At the wyvern banking overhead, and the small king on its back.
-
-"*Small king*," it said.
-
-Very quietly. Deep. Fading.
-
-"*Good*."
-
-The gold eye closed.
-
-* * *
-
-*Guardian defeated.*
-
-Mau brought Kaisel down.
-
-He did not remember doing it. He remembered being on the black stone suddenly, beside Frieren, with Kaisel kneeling. He remembered letting the space go, all at once, because there was nothing left to hold it with. He remembered sending them all back. Igris. Beru. Kaisel. Into the stone. The drain stopping.
-
-He remembered sitting down.
-
-The cup was nearly empty. The other reserve was empty. Completely. The edges of everything had gone very thin. The red light of the hall looked like it was coming through paper.
-
-Frieren knelt beside him.
-
-She did not say anything. She put both her cold hands on his face, one on each side, and held it, and looked at him.
-
-"You held it," she said. "The whole time. On me. From up there."
-
-"I said I would."
-
-"You said a minute."
-
-"It was a minute," said Mau. "And a bit."
-
-Frieren did not say anything. She kept her hands on his face.
-
-Gojo came across the black stone. He sat down heavily beside them. He did not say anything clever. He looked at the great red body on the mound. At Yuta, climbing down off its head with his sword, very slowly, his hands shaking.
-
-"It said *good*," said Gojo. "At the end."
-
-"I heard."
-
-"It said *good*." Gojo looked at the dragon. "That's the first one that ever said anything at the end."
-
-Yuta reached them. He sat down too. He put his sword across his knees. He looked at it. There was something on the blade that was not blood. Gold. Like the dragon's eye.
-
-"I didn't think it would go in," he said. "The eye. I thought it would bounce off."
-
-"It went in," said Gojo.
-
-"It went in," said Yuta. He looked at the gold on the blade. "Because Frieren had already gone through the inside."
-
-Nobody said anything for a long time.
-
-Under the great red body, on the black stone of the mound, the dark was gathering.
-
-Deep.
-
-Deeper than anything.
+"Same as before," said Mau. "Separate. Frieren with me. Gojo, Yuta. When it opens its mouth, Gojo's marble in the throat. Frieren, after the marble. Yuta, the eye. I'll take Kaisel up and keep the space on—"
 
 The notice came up.
 
-*Shadow extraction available.*
+Not in front of him.
+
+In front of all four of them.
+
+* * *
+
+*Party size: 1.*
+
+*Operator only.*
+
+Mau did not understand it. He read it. The words went in and did not mean anything.
+
+Then Frieren was not beside him.
+
+He had been holding the space round the two of them. Thick. Hard. Her hand had been on his arm. And then the space was round one person, and there was no hand on his arm, and the place beside him where she had been standing was empty black stone.
+
+He turned.
+
+Gojo was gone. Yuta was gone. The shimmer of Gojo's Infinity, a breath ago, a hand's breadth from Yuta, was not there. Nothing was there.
+
+He was alone in the hall.
+
+He was alone in the hall with five shadows and the biggest thing he had ever seen, and it was breathing in.
+
+* * *
+
+Kamish had stopped breathing in.
+
+It was looking at the empty places on the black stone where three people had been standing. Its gold eyes went from one to the next. Slowly. Then they came back to him.
+
+For the first time, it did not look curious.
+
+It looked surprised.
+
+"*That*," said Kamish, very quietly, "*was not mine.*"
+
+Mau stood on the black stone. His heart was going so hard he could feel it in his teeth.
+
+"*Who?*" he said.
+
+The dragon did not answer. It looked up. Past him. Past the doorway. Up into the smoke where the roof would be, if there was a roof. As if something were up there. As if it could feel something up there, looking down.
+
+Then it lowered its head. All the way down. Its gold eyes level with Mau, very close, larger than he was.
+
+"*Small king*," it said. "*Someone has taken your companions away. Someone who wishes to see you alone.*" It was quiet. "*I do not like to be used.*"
+
+The heat in the hall was rising again. Going the wrong way. In.
+
+"*But I am what I am for*," said Kamish. "*And now there is no one here for me to be careful of.*"
+
+Its chest began to glow.
+
+Not red. Gold. Then white.
+
+*Mau,* said Ciel. Her voice had gone very small. *That's not what it did before. Before, it was holding back. It was holding back because they were here. That's—Mau, that's ten times what it did before. More. I can't—the other reserve is a third. You can't hold that. Nobody can hold that.*
+
+He looked at the five shadows round him. At Igris and Beru, still at its legs. At Tusk. At Kaisel, wings spread. At the place where Lantern had been.
+
+At the empty stone beside him.
+
+Kamish opened its mouth.

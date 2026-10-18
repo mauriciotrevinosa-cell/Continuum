@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 26 — Grand Marshal
+## Chapter 28 — Grand Marshal
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 26
+**Reading order:** 28
 **Continuity state:** The extraction of Bellion, done sitting, badly hurt, with Frieren holding him up. It nearly empties the cup. The copy speaks, formal and commanding ("my liege"); he calls Igris "Commander" and the knight answers "Marshal". He remembers only what a guardian knew: a voice through stone told him the climber "will be close". He does not know whose voice. Frieren asks about his armour and he does not know either. The floor 90 transfer point is secured. Mau reaches level 92 (two hundred and fourteen unspent). Eighteen registered shadows (two soldiers broken, awaiting remaking), twenty places. Maki carries Mau home; Shoko and Gojo are on the clinic step
 
 *When: Day 387, the dark field on ninety. Bellion kneels with his sword point-down in the grass. The pale katana is back in its scabbard at Mau's hip. Mau is sitting in the grass with his good hand flat on the ground, and Frieren's hand under his arm.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 22 — The Legion
+## Chapter 24 — The Legion
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 22
+**Reading order:** 24
 **Continuity state:** Floor 80 (Day 385), the eighth guardian. The guardian is an army, the Legion of Eighty, in rows under banners. Party: Mau (owner), Gojo, Maki and Yuta, with Igris, Beru and, briefly, Kamish standing (the dragon only looms and roars; no breath). Behind the army a hooded stone figure watches and turns its head to follow Mau; when the Legion falls it crumbles, and Gojo says something was looking *through* it. Mau raises ten common soldiers from the Legion (they do not speak). Seventeen registered shadows, twenty places. Level 82 (one hundred and sixty-four unspent). The floor 80 transfer point is secured
 
 *When: Day 385, morning outside. Four hours agreed, from seventy, walking to seventy-nine. Taihei made breakfast at four, again. Anko's board says AFTER? at the very bottom, unanswered.*
@@ -156,7 +156,7 @@ Maki first. Straight at the wavering front row with her spear, the silver flower
 
 Gojo did not go in. He stood in the opening with his hand up and two fingers out. Small blue marbles came off the ends of them, one after another, into the rows of the army. Each one pulled a cluster of soldiers together, tangling their spears, tangling their shields, for the moment it took Maki or Yuta or Igris or Beru to get there.
 
-It was not like the Warden. It was not like Kamish. It was work. A long grinding hour of it. The rows had broken, but each soldier still fought, and there were hundreds of them. They came, and were met, and fell, and dissolved into blue light. More came.
+It was not like Tusk. It was not like Kamish. It was work. A long grinding hour of it. The rows had broken, but each soldier still fought, and there were hundreds of them. They came, and were met, and fell, and dissolved into blue light. More came.
 
 Mau stayed in the middle.
 

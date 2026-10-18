@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 20 — Ram's Wind
+## Chapter 22 — Ram's Wind
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 20
+**Reading order:** 22
 **Continuity state:** The second black-iron furnace (Day 382), five days after it was designed. Kaneki's dense charcoal, two bellows (Stark and Taihei), and a third hole for Ram's steady wind, once a week within her borrowed mana; Rem watches and stops her at the hour. The egg-sized piece melts fully. Wakana and Senku pour it into a clay mould: one palm-sized black plate, the first finished piece, which goes over the heart on Stark's quilted jacket. Armour is still mostly to come. The seventh night falls that evening (roof and crackers)
 
 *When: Day 382, all day. The far end of the timber yard, beside the kilns, where a second fat clay chimney stands. Wakana built it in five days, as he said. It has three holes at the bottom now, not two. The third is narrower, angled upward into the belly. Ram looked at it for a long time yesterday and said, "Adequate."*

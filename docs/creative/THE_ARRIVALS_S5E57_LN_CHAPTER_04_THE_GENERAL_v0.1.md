@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 24 — The General
+## Chapter 26 — The General
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 24
+**Reading order:** 26
 **Continuity state:** Floor 90 (Day 387), the ninth guardian: Bellion, Grand Marshal, with a segmented sword that becomes a whip. Party: Mau (owner), Yuta, Frieren and Maki; Gojo stays home at Shoko's request. Bellion fights Mau, and the costs pile up:
 - The whip finds every edge of the space and opens Mau's shoulder and side.
 - He plans, rather than reacting: he has to get inside a weapon that is strongest at its length.

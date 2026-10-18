@@ -1,12 +1,12 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 17 — Facing the House
+## Chapter 19 — Facing the House
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 17
+**Reading order:** 19
 **Continuity state:** R53, Himmel's visible return. At dusk between the vermilion columns, Mau brings two cups of tea, as in S4 V24 "Some Things Start" ("She's sleeping better." / "Good." / "Nice pose." / "I heard your cape."). This time Himmel is standing facing the house, not the road. An ordinary exchange, with the old joke reversed. Himmel keeps his affection and humour with Mau without declaring himself healed, and does not ask for anything. No wedding talk
 
-*When: Day 379, dusk. A rest day; the cup is refilling, nothing can come out of Mau's shadow until tomorrow. The vermilion columns at the gate of the real house. Himmel is standing between them. He is facing the wrong way.*
+*When: Day 379, dusk. The day after seventy. Mau has been out of the clinic bed for one hour, on Shoko's word, which was "ten minutes, and Yuta walks behind you". Nothing can come out of his shadow for days. Four of his shadows are in pieces. The vermilion columns at the gate of the real house. Himmel is standing between them. He is facing the wrong way.*
 
 Mau came out with two cups of tea.
 
@@ -18,7 +18,7 @@ He had not planned to. He had been in the kitchen when Touka asked if he wanted 
 
 "I'm open late," Touka agreed, and went back to the stove.
 
-He carried the two cups out through the long room and the front door. Under the vermilion columns at the gate. The way he had carried two cups out once before, at dusk, a long time ago now. Seventeen days after the bell, in the spring.
+He carried the two cups out through the long room and the front door. Slowly. His ribs were bound. His left hand was wrapped to the wrist in Shoko's salve and cloth, so he carried both cups in his right, one stacked carefully in front of the other. Behind him, at a distance he had chosen exactly, Yuta walked, and did not say anything. Under the vermilion columns at the gate. The way he had carried two cups out once before, at dusk, a long time ago now. Seventeen days after the bell, in the spring.
 
 Himmel was standing between the columns.
 

@@ -18,11 +18,11 @@ Below that: *REFILLS A LITTLE FASTER? (Ciel. Not sure why. Broken line.)*
 
 And at the bottom, in a box: *164.*
 
-"One hundred and sixty-four," said Umaru, tapping the box. "Since the Warden." She looked at Mau. "You didn't keep the Warden."
+"One hundred and sixty-four," said Umaru, tapping the box. "Since Tusk." She looked at Mau. At the left side of his face, where Shoko's salve still shone. "You walked through its sky."
 
-"No."
+"Yes."
 
-"You chose."
+"On your own. Under the weight. Nobody could help."
 
 "I chose."
 
@@ -66,7 +66,7 @@ Mau looked at her for a long time.
 
 "You've been thinking about that sentence," he said. "Haven't you."
 
-"Since the Warden," said Umaru. "Out loud. At breakfast." She looked at Yuka.
+"Since Tusk," said Umaru. "Out loud. At breakfast." She looked at Yuka.
 
 "She has," said Yuka.
 

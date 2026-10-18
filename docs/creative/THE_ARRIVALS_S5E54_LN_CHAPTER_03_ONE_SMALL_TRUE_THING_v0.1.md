@@ -6,7 +6,7 @@
 **Reading order:** 11
 **Continuity state:** R39 payoff. Mau owes Umaru "one small true thing" (V30 "The Winner's Rule"). At the next card game, with Yuka, Ori, Milim and Ichika, he pays it. Yuka's rule 7 comes back; Ichika plays her first round, guided by Ori. The rules sheet lives in the Ministry archive under Umaru's bed. Ordinary game time: no training, no XP
 
-*When: Day 375, afternoon, between the Warden and the roof. The end of the long table. Umaru has the cards. Yuka has the sheet, RULES (AMENDED), unfolded along its creases. Ichika is sitting on the bench beside Ori with her too-long sash, watching the cards the way she watches everything.*
+*When: Day 375, afternoon, between the shaman and the roof. The end of the long table. Umaru has the cards. Yuka has the sheet, RULES (AMENDED), unfolded along its creases. Ichika is sitting on the bench beside Ori with her too-long sash, watching the cards the way she watches everything.*
 
 Umaru dealt Mau in without asking.
 

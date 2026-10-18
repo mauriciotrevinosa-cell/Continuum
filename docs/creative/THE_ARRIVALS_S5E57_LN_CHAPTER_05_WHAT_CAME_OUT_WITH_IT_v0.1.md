@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 25 — What Came Out With It
+## Chapter 27 — What Came Out With It
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 25
+**Reading order:** 27
 **Continuity state:** Aftermath on floor 90, before the extraction. Yuta uses his outward reverse cursed technique on Mau's shoulder and side; it closes them partly, not fully, and costs Yuta. Ciel's account: the walls held, the wheel has turned two notches and adapted to that whip only, the construct was a pattern the Noise built from Day 133 and is gone, and nothing is permanently unlocked. Mau apologises to Yuta; Yuta says the thing looked at him the way Rika looks at him when he is hurt, and that it was protecting Mau. Maki holds Yuta. No new power is granted
 
 *When: Day 387, the dark field on ninety, a few minutes after. Bellion kneels with five weapons in him, the violet gone from his eyes. Mau is on his back in the grass. The wheel has stopped settling. The blood under the filter has stopped running.*

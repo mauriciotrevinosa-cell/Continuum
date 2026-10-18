@@ -100,7 +100,7 @@ Senku had his pencil out. "Tonight. *Tonight.* I said forty lamps, I have twenty
 
 Marin had both hands over her mouth.
 
-"The dress," she said through them. "It's finished. It's *finished*, I finished it on Tuesday, I didn't think it'd be—"
+"The dress," she said through them. "It's finished. It's *finished*, I finished it three days ago, I didn't think it'd be—"
 
 Wakana looked at her. Then away, very quickly. He went red to the ears.
 

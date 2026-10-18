@@ -420,3 +420,13 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Tobacco is dry, not cured, on Day 410.** Shoko's first smoke is S6.
 - **The night shift is three standing shadows** (Igris, Beru, Kamish) under Shoko's dawn check. It is not a combat drone patrol. Himmel's hour continues by choice. Anko and Nazuna are roommates and friends, not a couple.
 - **Window outlines ≠ heart bar.** The grey draft outlines (Day 407, by CE and mana) are the Noise's integration work. The empty nameless bar under the cup is the Black Heart's. Don't merge them. No CE or mana has been integrated by the end of S5, and the 134 points are held. Retroactivity and the overload belong to S6 (DH-122).
+
+## V29 north road traps (DH-123)
+
+- **Day 328, north road, at dusk:** four demons (one survived) and two devils (the large one and the hidden cutter) are destroyed by Mau. Their orders are from "the new union of empires and otherworlders". The union's identity and members and any tie to Sukuna, the hooded man or Pell are OPEN. Nobody names what the cutter was.
+- **It was a release, not new power.** Everything that came out was already in his walls (Day 145 kind): the cutting pattern the Noise read from Sukuna, a marble-sized Blue, Zoltraak from Frieren's patterns, leak jumps (not teleportation). No system stat or new technique.
+- **The cut passed through Frieren's shield untouched** and kept "happening". Shoko could hold her but not close it. Mau's rough borrowed reverse technique, steadied by Shoko, let the cut finish. Frieren has a **small pale scar over her heart** (not a long one). She was unconscious Days 328–330 and woke "hungry".
+- **Mau's guilt:** he relaxed for one second when her shield went up. He said "I'm sorry" over and over. Frieren answered with "I'm hungry", not "it's not your fault".
+- **The woods north of the road lie cut in rows.** They stay that way.
+- **The message, word for word to the survivor:** anyone who so much as raises an eyebrow at her or disrespects her again, and he won't stop at them; he'll flatten everything they love.
+- **Why the climb speeds up from V30:** the north road ("I stopped for one second… faster, not alone"). It is not only the dungeon saying his name. The word "strongest" is still not said aloud.

@@ -5,7 +5,7 @@
 **Season:** 5
 **Coverage:** S5E25–S5E37
 **Volume title:** **The Days Between**
-**Chapter files:** 54
+**Chapter files:** 60
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -65,5 +65,11 @@
 | 50 | S5E36 | The Song for the Lights | `THE_ARRIVALS_S5E36_LN_CHAPTER_02_THE_SONG_FOR_THE_LIGHTS_v0.1.md` |
 | 51 | S5E36 | The School Bell | `THE_ARRIVALS_S5E36_LN_CHAPTER_03_THE_SCHOOL_BELL_v0.1.md` |
 | 52 | S5E36 | Ten | `THE_ARRIVALS_S5E36_LN_CHAPTER_04_TEN_v0.1.md` |
-| 53 | S5E37 | Five on the Roof | `THE_ARRIVALS_S5E37_LN_CHAPTER_01_FIVE_ON_THE_ROOF_v0.1.md` |
-| 54 | S5E37 | The Last Firefly | `THE_ARRIVALS_S5E37_LN_CHAPTER_02_THE_LAST_FIREFLY_v0.1.md` |
+| 53 | S5E37 | No Reason | `THE_ARRIVALS_S5E37_LN_CHAPTER_01_NO_REASON_v0.1.md` |
+| 54 | S5E37 | Through the Shield | `THE_ARRIVALS_S5E37_LN_CHAPTER_02_THROUGH_THE_SHIELD_v0.1.md` |
+| 55 | S5E37 | Take Care of It | `THE_ARRIVALS_S5E37_LN_CHAPTER_03_TAKE_CARE_OF_IT_v0.1.md` |
+| 56 | S5E37 | Everything They Love | `THE_ARRIVALS_S5E37_LN_CHAPTER_04_EVERYTHING_THEY_LOVE_v0.1.md` |
+| 57 | S5E37 | Rough Light | `THE_ARRIVALS_S5E37_LN_CHAPTER_05_ROUGH_LIGHT_v0.1.md` |
+| 58 | S5E37 | I'm Hungry | `THE_ARRIVALS_S5E37_LN_CHAPTER_06_IM_HUNGRY_v0.1.md` |
+| 59 | S5E37 | Five on the Roof | `THE_ARRIVALS_S5E37_LN_CHAPTER_07_FIVE_ON_THE_ROOF_v0.1.md` |
+| 60 | S5E37 | The Last Firefly | `THE_ARRIVALS_S5E37_LN_CHAPTER_08_THE_LAST_FIREFLY_v0.1.md` |

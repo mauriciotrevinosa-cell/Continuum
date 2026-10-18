@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 29
-## Chapter 53 — Five on the Roof
+## Chapter 59 — Five on the Roof
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-17)
 **Volume:** 29
-**Reading order:** 53
-**Continuity state:** The seventh-day roof night (every 7 days from Day 81; Day 333 = 81 + 7x36) with Rimuru, Yuta, Gojo and Mau, and Taihei invited for the first time by Mau, as "the other older brother"; ordinary talk, the festival, the tower's tenth floor; Taihei is not made into a fighter and keeps his own judgement; no trauma confession
+**Reading order:** 59
+**Continuity state:** The seventh-day roof night (every 7 days from Day 81; Day 333 = 81 + 7x36) with Rimuru, Yuta, Gojo and Mau, and Taihei invited for the first time by Mau, as "the other older brother"; ordinary talk, the festival, the tower's tenth floor; Taihei is not made into a fighter and keeps his own judgement. Five nights after the north road (DH-123): Gojo says he watched from the lime and kept Yuta back; Frieren is eating again; Mau says he will go up the tower faster, not alone and within Shoko's limits, because of the one second on the road; Gojo will come more often. No vow, no title; the word 'strongest' is not said
 
 *When: Day 333, night. The roof hatch still squeaks a little. Yuta has not fixed it again, and Maki has stopped asking.*
 
@@ -133,6 +133,60 @@ Taihei looked at him.
 "Wakana said everyone makes a bit. Nobody makes all of it." Taihei looked down at the yard, at the half-built frame at the end of the west wing, pale in the dark. "I'm making the far wall."
 
 "Then you're for the far wall," said Rimuru. "That's enough. For now."
+
+* * *
+
+The fireflies blinked low in the north field. Beyond them, past the lime, past the road, the woods were a darker dark than they used to be. Lower. Flatter. Nobody on the roof looked at them. Everybody on the roof knew they were there.
+
+"I watched you," said Gojo.
+
+He did not say from where. He did not need to. The north end of the lime. Five nights ago.
+
+Mau did not say anything.
+
+"I didn't come out," said Gojo. "I told Yuta not to cross the line." He turned his empty cup in his long fingers. "I didn't think you'd know us."
+
+Mau looked at the dark where the woods had been.
+
+"I don't know if I would have," he said.
+
+Nobody said anything for a while.
+
+"Good call," said Mau at last. Quietly. To Gojo. "Not coming."
+
+"I know," said Gojo. "I hated it."
+
+Taihei, by the draught, was very still. He had been in the kitchen on the morning of the porridge. He had moved the chair with arms.
+
+"Is she all right?" he said. "Now?"
+
+"She ate three bowls this morning," said Mau. "She told Momo the honey was wrong."
+
+"That means she's all right," said Rimuru.
+
+"That means she's all right," agreed Mau.
+
+* * *
+
+He did not say the next thing for a long time.
+
+When he said it, he said it to the stars. Not to any of them.
+
+"I'm going to go up faster," he said. "The tower."
+
+Yuta looked at him.
+
+"Not alone," said Mau, before Yuta could say it. "Not stupid. Not more than Shoko lets me. The way we've been doing it. With people. With a little left." He was quiet. "But faster. I stopped for one second on that road. Because I thought she had it." He looked at his hands. "I don't want there to be a second next time. I want to be—" He stopped. He did not say the word. "Enough. So nobody has to have it. So I don't have to breathe."
+
+Nobody told him not to.
+
+Gojo looked at him for a long time, with his bare eyes, in the dark.
+
+"Faster," said Gojo. "Not alone."
+
+"Not alone."
+
+"Then I'm coming more often," said Gojo. He put his cup down. "Someone has to make sure you keep a little left."
 
 * * *
 

@@ -28,6 +28,10 @@ Frieren was at the far end of the bench with a book open in front of her, not re
 
 Mau looked at the box with *55* in it.
 
+Ten days ago he would have said *later*. He would have said *a little left* and meant *not yet, there's time*. He had stood on the north road since then, with her blood to his elbows, and found out what *there's time* was worth.
+
+He did not say that. The table knew. Umaru had started the sheets the morning after the porridge, without being asked.
+
 "I'm listening," he said.
 
 * * *

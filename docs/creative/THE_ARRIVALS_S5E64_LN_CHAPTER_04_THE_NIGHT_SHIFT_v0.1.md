@@ -22,6 +22,8 @@ Nobody said anything.
 
 "I'm not saying anyone did it badly," said Mau. "I'm saying I've got a knight who doesn't sleep, and an ant who doesn't sleep, and a dragon who asked me four days ago to let him keep watch over a house." He looked at his hands. "And I've got people who stand in the cold every night so the rest of us can sleep. And they've been doing it for a year. Longer." He paused. "I want them to sleep too."
 
+He did not say the other thing. He did not say *the north road*. He did not have to. Across the table, Frieren's hand had gone, for a moment, to the middle of her chest, and half the table had seen it go.
+
 * * *
 
 "Can you afford it?" said Shoko.

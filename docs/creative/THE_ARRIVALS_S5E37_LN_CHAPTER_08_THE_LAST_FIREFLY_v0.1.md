@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 29
-## Chapter 54 — The Last Firefly
+## Chapter 60 — The Last Firefly
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-17)
 **Volume:** 29
-**Reading order:** 54
-**Continuity state:** Close of V29. Nazuna has counted the fireflies every night since Day 318 ("Ask Nazuna"); on the night she expects the last one, she tells Ori first; the house's own lights will be lit the next night (the festival, which opens V30); Ori, Milim, Yuka, Nazuna, Frieren and Mau go out; Ori's Day 296 line "so it's not a hundred years again"; the summer has turned; no threat at the volume's end
+**Reading order:** 60
+**Continuity state:** Close of V29. Nazuna has counted the fireflies every night since Day 318 ("Ask Nazuna"); on the night she expects the last one, she tells Ori first; the house's own lights will be lit the next night (the festival, which opens V30); Ori, Milim, Yuka, Nazuna, Frieren and Mau go out; Ori's Day 296 line "so it's not a hundred years again"; the summer has turned; six days after the north road, Frieren's hand finds the small scar at night and she says "Still here"; no new threat at the volume's end
 
 *When: Day 336, night. Three nights since the roof. Nazuna has counted eleven fireflies, then six, then two. Ori has gone out with her every night.*
 
@@ -217,6 +217,14 @@ She looked back at the north field. Dark. Dry. No small lights at all.
 Mau looked up. Low over the hills, a little apart from the others, the small steady star he had named on the roof with the telescope.
 
 He did not know if she was right. He did not think it mattered.
+
+Frieren's hand had gone to her chest. To the middle of it, over the small pale mark under her shirt, the way it went now, sometimes, without her noticing. Six days. She had stopped noticing it in daylight. At night she still found her hand there.
+
+Mau saw. He did not say anything. He looked at the north field, and past it, at the place beyond the road where the woods lay lower than they used to, and then back at her.
+
+"Still here," said Frieren. She had seen him look.
+
+"Still here," said Mau.
 
 "Tomorrow," said Frieren.
 

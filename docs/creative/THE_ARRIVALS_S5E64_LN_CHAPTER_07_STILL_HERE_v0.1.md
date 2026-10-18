@@ -178,7 +178,7 @@ He felt her count.
 
 Very quietly. Not frightened any more. Just counting. The way she counted everything she meant to keep.
 
-He put his hand in her hair.
+He put his hand in her hair. Then, the way he did every night now, he moved it down to her back, between her shoulders, behind the small pale mark over her own heart that a line out of the dark had left there on the north road. One heart under his hand. Hers. Still going.
 
 Through the connecting door, open a crack, Ori was breathing. Milim floated over her bed on the red ribbon, snoring very slightly. On the shelf beside the old grimoire, six flowers. The fifth from the date. The sixth, small and white, that meant *next year*.
 

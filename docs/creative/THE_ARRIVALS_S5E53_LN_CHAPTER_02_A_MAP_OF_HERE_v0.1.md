@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 6 — A Map of Here
+## Chapter 7 — A Map of Here
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 6
+**Reading order:** 7
 **Continuity state:** Armin's first day. Anko shows him the SIGHTINGS board and the route records (the lime, the red stake, Ashby, Fallow, Hollis's runs); Senku shows him the star names and the floor-19 drawing; he starts a map of the house on a blank ledger page Fern gives him; Umaru appoints him Ministry Cartographer (provisional); the fort and Ichika trail him. His own thing is maps, not a military role. He asks questions and does not talk about "after"
 
 *When: Day 371, the rest of the day. Armin has eaten two pieces of pear bread and a bowl of porridge and has been given a clean shirt by Marin, which fits. Anko is waiting at the Searchers' board with her pencil.*

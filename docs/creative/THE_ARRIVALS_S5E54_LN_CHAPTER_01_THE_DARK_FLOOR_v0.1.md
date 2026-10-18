@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 9 — The Dark Floor
+## Chapter 10 — The Dark Floor
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 9
+**Reading order:** 10
 **Continuity state:** Floors 51–56 summarised from Anko's board. Floor 57 (Day 374) with Mau (owner), Maki, Yuka and Kaneki: a floor with no light at all, where Frieren-style light spells do not carry. Beru stands as a guide, using his senses in the dark, and is gentle and protective ("hungry to keep") of Yuka at a drop. The cost is per minute. Floors 58–59 are cleared the same day. Mau reaches level 61 (one hundred and fifty-nine unspent). The guardian of sixty is next
 
 *When: Day 374, morning. Anko's board, fourth plank now, nailed up on Day 371 beside the other three. Under FLOOR on it: 51 to 56, six lines in three days. Under today: 57, 58, 59. START FROM: 50.*

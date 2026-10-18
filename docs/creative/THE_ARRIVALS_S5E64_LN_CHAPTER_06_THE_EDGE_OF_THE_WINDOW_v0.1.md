@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 56 — The Edge of the Window
+## Chapter 57 — The Edge of the Window
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 56
+**Reading order:** 57
 **Continuity state:** Day 407, the long table. Umaru has a new spending sheet ready for the 134 unspent points. Before anything is spent, Ciel (through Rimuru) sees something new at the edges of the window: faint, unfinished outlines beside the stats, as if the Noise were making room. Two of them sit next to where Mau's cursed energy and his mana are. They take no points and cannot be read. They are NOT the Black Heart's empty nameless bar, which is unchanged. Mau chooses, on his own, to hold every unspent point (134) until the Noise finishes. Umaru crosses out her plan and starts a new one ("DON'T TOUCH ANYTHING"). Nobody knows what will happen to the points already spent. Nothing is integrated yet
 
 *When: Day 407, after lunch. The long table. Umaru's newest sheet is pinned in the middle of the first wall section, with a box drawn at the bottom for today's spending. Armin has the tower copy. Yuka has the copy book. Fern is witnessing, because Fern always witnesses. The night shift slept through the morning in Mau's shadow.*

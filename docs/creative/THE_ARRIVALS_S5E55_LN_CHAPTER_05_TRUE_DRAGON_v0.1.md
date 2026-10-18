@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 17 — True Dragon
+## Chapter 18 — True Dragon
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-124)
 **Volume:** 31
-**Reading order:** 17
+**Reading order:** 18
 **Continuity state:** Day 378, floor 70, continuous. Mau lets out the half-built True Dragon scale from the containment. The pressure comes first, and Kamish feels it and goes still ("…That. I knew it."). Then the shape: not a transformation of his flesh into a beast, but a body of pressure and dark-gold light in the shape of a vast dragon, larger than Kamish, built round him with Mau at its heart. His real body tears under it: skin splitting, bleeding from everywhere, ribs cracking, as it did when the Noise first tried to build it. Ciel counts the seconds. Kamish's true breath meets the True Dragon's weight and does not arrive. The scale crushes the old dragon to the stone. Kamish, beaten, says "Good." Mau ends it with what little of him is left. The scale folds back down and Ciel shoves the walls up behind it. Bleeding out on the stone, Mau raises Kamish ("keep watch over a house"; the request and the extraction happen here, alone). The new shadow coils round him and guards him. He loses consciousness. Ciel: "You're alive. Barely. Stay"
 
 *When: Day 378, floor 70. The same breath. Kamish's chest has gone from gold to white. At the screen, Rimuru has just stopped in the middle of a sentence and put his hand on the frame.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 14 — The Hot Stair
+## Chapter 15 — The Hot Stair
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 14
+**Reading order:** 15
 **Continuity state:** The fourth spending session (level 62, one hundred and sixty-four unspent): one hundred more into Intelligence (two hundred and forty in total). The reserve is roughly nine times its pre-festival depth, present level unchanged; Endurance stays one point, unmeasured; sixty-four are kept. Then floors 61–69 over two days (summarised from Anko's board), ending at a stair that gets hot toward seventy. Gojo looks and says "dragon". Mau reaches level 71 (one hundred and nine unspent)
 
 *When: Day 376, afternoon, and Day 377. Umaru has not nailed up a fourth plank. She has taken the first three sheets down, written everything they said onto one new sheet, very small, and pinned it up in the middle of the first wall. "Consolidation," she said. "The Ministry is running out of wall."*

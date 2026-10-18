@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 3 — Not This Winter
+## Chapter 4 — Not This Winter
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 3
+**Reading order:** 4
 **Continuity state:** Mikasa tells Fern first: she would like to bring Armin with her own coin. That pays off "Armin. Not this winter." (S4 Day 40, the List; Eren on Day 25: "Armin. Maybe. Someday.") and "the house waits" (S4 coin slate). Eren keeps his coin. Fern asks her questions. Mikasa's reasons are about now (Himmel's alternate afternoons, Eren saying "someday", room in the house), not about danger. When Armin will come from is unknown ("every world keeps its own clock"). No petition yet
 
 *When: Day 370, early morning. The long table. Fern alone with the ledger, before Jinshi's questions. Mikasa has the north end today. She has come to the long table first.*

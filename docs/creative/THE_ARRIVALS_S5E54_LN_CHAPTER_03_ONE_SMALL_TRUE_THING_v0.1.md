@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 11 — One Small True Thing
+## Chapter 12 — One Small True Thing
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 11
+**Reading order:** 12
 **Continuity state:** R39 payoff. Mau owes Umaru "one small true thing" (V30 "The Winner's Rule"). At the next card game, with Yuka, Ori, Milim and Ichika, he pays it. Yuka's rule 7 comes back; Ichika plays her first round, guided by Ori. The rules sheet lives in the Ministry archive under Umaru's bed. Ordinary game time: no training, no XP
 
 *When: Day 375, afternoon, between the shaman and the roof. The end of the long table. Umaru has the cards. Yuka has the sheet, RULES (AMENDED), unfolded along its creases. Ichika is sitting on the bench beside Ori with her too-long sash, watching the cards the way she watches everything.*
@@ -213,3 +213,13 @@ Ichika, at the end of the table, was looking at the place where the sheet had be
 "Again?" she said.
 
 "Tomorrow," said Ori. "Or the day after. Umaru will deal you in." She paused. "She always does. It's the rule."
+
+* * *
+
+That night, in the ledger at the end of the long table, on the page called *Days*, Fern found Umaru's line, the one with the card stamped on it.
+
+*Umaru. The card table. The small true thing he owes.*
+
+She wrote beside it, very small:
+
+*Paid. (Yuka's rule 7. He didn't have to say anything back.) (On a tower day. Against the rules. Umaru's ruling: a debt outranks a page.)*

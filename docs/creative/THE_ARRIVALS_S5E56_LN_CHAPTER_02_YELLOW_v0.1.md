@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 20 — Yellow
+## Chapter 21 — Yellow
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 20
+**Reading order:** 21
 **Continuity state:** R54, initiated by Frieren. She takes Mau to the river bend and casts her teacher's spell for a field of flowers (Frieren source canon: the first spell she loved), choosing yellow on purpose, like the south field, not the white and blue of the Trial wedding. It is "counting" from R57: one small word of the memory looked at in daylight with someone beside him. No frost comes. They talk about ordinary future things (next year's festival, the sea with Armin, learning the green book together). There is no proposal and no wedding talk beyond a single honest line
 
 *When: Day 380, late morning into afternoon. A rest day. Lantern is still in pieces; the cup is half full and refilling fast. Frieren came down to breakfast with a basket and did not explain it. Shoko asked her, two weeks ago, to take him somewhere he can't climb. Two days after seventy, he cannot climb anything. She floats him most of the way.*
@@ -247,3 +247,13 @@ Then at Mau.
 Then she sat down on the back step, still holding his hand, and pulled him down beside her.
 
 "Tell us," she said.
+
+* * *
+
+Fern did not need to be told. She saw the yellow on Frieren's sleeve at dinner, a single petal caught in the cuff, and the way Mau sat a little closer to her than usual, and she opened the ledger at the page called *Days* and found the line in Frieren's own untidy hand.
+
+*Frieren. The river bend. A spell I haven't cast for anyone.*
+
+She did not write *done*. She looked at it for a while, and then she wrote, small, under it:
+
+*Cast.*

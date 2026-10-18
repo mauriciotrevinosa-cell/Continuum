@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 41 — The Temple
+## Chapter 42 — The Temple
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 41
+**Reading order:** 42
 **Continuity state:** Floor 101 (Day 397). The frame closes behind them; there is no return frame on this side, and Ciel's thread to Rimuru still holds. It is a vast stone temple: a seated stone god with no face on a throne, and twelve standing statues in a ring, each holding an object (lamp, bell, star, scale, key, rope, spear, cup, book, mask, flower, coin). The walls are carved in the green book's script. The notice reads *Floor 101 of 100*, with an objective nobody can read. Frieren finds that each statue's object matches a margin drawing in the book and a floor they lived. Nothing moves yet. Mau tells the plan
 
 *When: Day 397, morning outside. Inside, there is no time of day. There is light, grey and even, from nowhere.*

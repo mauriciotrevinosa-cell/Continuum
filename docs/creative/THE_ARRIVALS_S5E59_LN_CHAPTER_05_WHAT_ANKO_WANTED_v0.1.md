@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 37 — What Anko Wanted
+## Chapter 38 — What Anko Wanted
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 37
+**Reading order:** 38
 **Continuity state:** Anko's request resolves (V29 "The True Leaf"; V30 "Something in the Box"). After seventy-eight mornings of Mau's cup, the seedling nobody planted flowers: small and white, the same north-field weed as the sixth flower on the east-room shelf, the one nobody agreed on until two people did. Anko finds out the slow way and says what she wanted. Nazuna was right about the wind. Anko keeps her last cigarette in its tin. No threat
 
 *When: Day 394, just after dawn. Seventy-eight mornings since the true leaf. Mau has a cup of water from the end of Momo's counter. Anko is coming in from the night round with lime on her boots. Nazuna is coming down for breakfast before she sleeps.*
@@ -205,3 +205,13 @@ She took the dry flower back up to the shelf in the east room. Mau did not go wi
 Two meanings now. For the same small weed.
 
 That was how meanings started, Kusuri had said. Somebody agrees.
+
+* * *
+
+That evening Anko went to the long table, where the ledger was, and opened it at the page called *Days*.
+
+Her line was still there. *Anko. ———* Nothing after her name. For a month.
+
+She took the stub of pencil from behind her ear and filled it in.
+
+*Anko. The box. He watered it every morning. That was my day. All of them.*

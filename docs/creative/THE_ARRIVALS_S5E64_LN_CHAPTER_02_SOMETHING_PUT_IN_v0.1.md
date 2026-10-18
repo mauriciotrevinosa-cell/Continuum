@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 52 — Something Put In
+## Chapter 53 — Something Put In
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 52
+**Reading order:** 53
 **Continuity state:** Day 398 into 399, near midnight, the kilns. Mau cannot sleep and walks out; Kaneki is on his night shift, and Touka has gone back to bed. Kaneki chooses, for the first time in the house, to say one thing about his own past: in his world a doctor put something into him without asking, and he woke up a different thing. He gives no names and no detail beyond what he offers. What he learned: it was put in him, but the one living is still him; don't find out alone. He does not claim Mau's case is the same. Mau thanks him and does not ask more. Black coffee for Kaneki, water for Mau. No powers, and nothing about the heart is explained
 
 *When: Day 398, near midnight. The house is dark except the kilns. Frieren is asleep for once, at Shoko's quiet insistence, with Ori through the connecting door. Two people in the room with two windows are asleep. One man is not.*

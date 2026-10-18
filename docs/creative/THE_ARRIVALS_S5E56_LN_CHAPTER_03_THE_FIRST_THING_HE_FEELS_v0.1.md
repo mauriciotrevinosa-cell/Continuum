@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 21 — The First Thing He Feels
+## Chapter 22 — The First Thing He Feels
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 21
+**Reading order:** 22
 **Continuity state:** Ori's own plan (her third this summer; parents accommodate). Lantern is remade at dawn in the north field where she named him, with Ori's hand on the place his jaw will be, so that "the first thing he feels is someone who named him". It costs from the half-refilled cup, under Shoko's eye and two-minute limit. Afterwards: an ordinary family day of games and reading, Ori's choice. No combat
 
 *When: Day 381, just after dawn. The north field, well inside the lime, in the long grass where the fireflies were. The same place Ori named a dragon, forty-two days ago. Dew on the grass. Shoko is on the slope with her watch and her coffee. She has said "two minutes" three times. Shoko has allowed one remaking this week, because the cup has refilled faster than anyone expected and because it is Ori asking. Igris, Beru and Kaisel will wait for theirs, on Days 383 and 384.*
@@ -255,3 +255,13 @@ Frieren closed the green book.
 Frieren looked at him.
 
 "Now it's one where nothing happens," she said. "And everyone's here."
+
+* * *
+
+Ori's plan had been on the page called *Days* for two weeks, seven lines in Fern's copy, waiting for the day it would be needed. *In case.*
+
+That night Ori asked Fern for the ledger. Fern gave it to her. Ori found her own seven lines and, with Fern's pencil, very carefully, put a tick beside each one. All seven.
+
+Then she wrote an eighth line underneath, which had not been in the plan.
+
+*8. And then nothing happened all day. And everyone was here.*

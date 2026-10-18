@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 16 — Operator Only
+## Chapter 17 — Operator Only
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-124)
 **Volume:** 31
-**Reading order:** 16
+**Reading order:** 17
 **Continuity state:** Day 378, floor 70, continuous. Mau is alone with five shadows against Kamish's true breath, the one it held back while others were there. He survives the breath only by sending every shadow down into his shadow and taking it on the last third of his space, which fails at the edges: burns, his left hand charred, hair singed away on one side. Tusk's blue fire against the dragon's is a candle against a sun. Igris and Beru are broken apart (pieces, not lost); Kaisel is torn out of the air. Mau is down to the cup's dregs, no space left and nothing in the bag that is big enough. Kamish, almost kindly, asks him to show what is under the shadows. Ciel finds something in the walls from the containment in S3: the scale of a True Dragon, half-built by the Noise from Rimuru's memory of the cave, never finished, never let out, and far too big for his body. She tells him it will tear him apart. He says it has to be him. The chapter ends as he lets it out
 
 *When: Day 378, floor 70. The same breath. Outside, at the screen, three people have just come out of the frame onto the dry ground as if thrown, and the frame behind them has gone dark.*

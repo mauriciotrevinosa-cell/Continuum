@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 4 — Where She Stands
+## Chapter 5 — Where She Stands
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 4
+**Reading order:** 5
 **Continuity state:** Mikasa's petition, from her point of view. At the end of her own north-end hour at dusk, she calls Eren out from behind the stack of twisted oak to stand with her instead of waiting where he thinks she can't see him. One coin: *You are sure? Armin Arlert.* "Yes." It goes warm, warmer, and vanishes, leaving the palm pink. It carried. The arrival comes at the next morning's bell
 
 *When: Day 370, dusk. The north end. The last ten minutes of Mikasa's hour. The lime line runs white across the field toward the red stake. The hills are going purple. Behind her, at the edge of the timber yard, a stack of Wakana's twisted oak, mostly gone into the kilns now, and someone behind it, pretending.*

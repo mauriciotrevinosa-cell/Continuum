@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 8 — What a Hero Is For
+## Chapter 9 — What a Hero Is For
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 8
+**Reading order:** 9
 **Continuity state:** Himmel's alternate-day north-end hour (Day 373), with Armin, who came to add the north field to his map. Himmel shows him the view (not the road); Armin asks what Himmel is watching for; Himmel says the fighting is so there can be festivals, and that he stands here so two people can sit in a field. Armin, from a world of soldiers, does not talk about it, but writes a line on the map. Himmel's chosen distance is visibly working. No threat
 
 *When: Day 373, mid-afternoon. Himmel's day at the north end. Mikasa and Eren are in the south field, where the grass came back. Armin has come out with the map of the house on a board, because the north field is not on it yet.*

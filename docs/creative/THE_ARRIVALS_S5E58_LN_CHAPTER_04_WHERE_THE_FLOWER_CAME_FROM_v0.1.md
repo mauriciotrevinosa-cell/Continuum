@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 32 — Where the Flower Came From
+## Chapter 33 — Where the Flower Came From
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 32
+**Reading order:** 33
 **Continuity state:** Mai's own choice. She asks to see the garden on floor 5, where Yuka picked the pale flower Maki wears. Shoko allows it as "garden only, no floor, no shadows", since Mau is still healing. The party is Mau (owner), Maki, Mai and Yuka. Mai spends one day's construction on a second silver flower, for Yuka ("little rope"), and says aloud that she has stopped making a bullet every day. Mai's private-history arc (DH-057) stays untouched. No combat
 
 *When: Day 390, late afternoon. Mau's shoulder is stitched and his side holds. Shoko has said he may walk to the screen and stand on the seal on five and sit under a tree, and nothing else. Mai asked at lunch. Nobody had ever heard Mai ask to go anywhere.*
@@ -227,3 +227,9 @@ Anko wrote it down.
 And under it, smaller:
 
 *Maki said good.*
+
+On the page called *Days*, Mai's line had been there since the fifth day. *Mai. The garden. On five. Where the flower came from.*
+
+Fern wrote nothing beside it. Mai came to the long table that night, after everyone else had gone up, and took the pencil, and wrote beside her own line, in very small, very careful letters, the first thing she had ever written in the house's ledger:
+
+*Thank you.*

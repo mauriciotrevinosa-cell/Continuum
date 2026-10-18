@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 12 — The Hundred and First
+## Chapter 13 — The Hundred and First
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 12
+**Reading order:** 13
 **Continuity state:** The seventh-night roof (Day 375 = 81 + 7x42). Senku and Byakuya bring the telescope up for Armin, as promised, so the five (Rimuru, Yuta, Gojo, Taihei, Mau) have guests. Senku explains *The Hundred and First* in his own words from V29 "First Light" ("Because it isn't finished. Like the story. We're still in it."). Armin sees "the ones behind the ones" and asks about the turning sky on nineteen. Taihei and Armin, both late arrivals, share the draught. The crackers table meets downstairs as usual. No threat
 
 *When: Day 375, night. The seventh night. The hatch has squeaked eight times, which is three more than usual. Downstairs, in Seiko's room, the crackers table has put out the crackers.*

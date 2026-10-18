@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 35 — One Hundred
+## Chapter 36 — One Hundred
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 35
+**Reading order:** 36
 **Continuity state:** Floor 100 (Day 393, afternoon), the second visit, after the Ruler fell at dawn. Gojo looked again: nothing there and nothing watching, and he asked for Ori to be taken. Shoko set Mau's broken left arm and allows a family party: Mau (owner, arm in a sling), Frieren, Fern and Ori. The top is a garden: a tall straight tree, a still pool and a stone seed, as on page 100 of the green book. It is not a fight. The notice says the tower is complete and gives three components (fruit, water, seed) toward something whose name it shows in a script nobody can read: the divine potion's parts, not a potion. A second notice says The Noise's extraction eligibility has widened to otherworlders and monarchs; it is inactive, and Mau does not activate it. Completion raises him to level 106 (two hundred and eighty-four unspent). Far off in the mist, a seated stone shape
 
 *When: Day 393, afternoon. Mau's left arm is set and splinted and in a sling, and his eyes have been washed twice. At dawn there was a light in front of a gate. Now there is only a garden. Gojo went up a second time to be sure, came back down and said "garden. Nothing in it. Nothing watching. I looked very hard." Then he said "take Ori," and went to sit on the clinic step.*

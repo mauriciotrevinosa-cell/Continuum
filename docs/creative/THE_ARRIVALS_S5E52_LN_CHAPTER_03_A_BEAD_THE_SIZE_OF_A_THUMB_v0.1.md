@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 2 — A Bead the Size of a Thumb
+## Chapter 3 — A Bead the Size of a Thumb
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 2
+**Reading order:** 3
 **Continuity state:** The first black-iron test (V30 "Hotter Than That", Day 341). Kaneki's dense charcoal, Wakana's crucible furnace with two bellows, Senku running it, Stark and Taihei pumping, Marin's quilted jacket finished first. The furnace is used once and broken open, and holds a thumb-sized bead of black iron that melted and separated: proof it can be worked, not armour yet. Ram offers her wind as a third bellows for the next furnace, once a week, within her limits. The bead goes to Stark
 
 *When: Day 369, all day. The far end of the timber yard, beside the kilns, where Wakana built the furnace over five days. Fourteen days after Kaneki started the dense charcoal. It has cooled. It rings like a bell when you tap it.*

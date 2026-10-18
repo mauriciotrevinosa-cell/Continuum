@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 7 — Three Who Came Late
+## Chapter 8 — Three Who Came Late
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 7
+**Reading order:** 8
 **Continuity state:** Following CANON_TRAPS ("future arrivals still require Mau's permission before further disclosure") and the spirit of DH-099, Mau chooses to give the three newest arrivals (Taihei, Touka, Armin) the same chosen account the later arrivals got on Day 212: the Trial, 437 deaths/resets, the long subjective time, the reward and the coins. He does not give every loop and nobody owes a debt. Frieren is beside him and Ciel watches the guardrails at his request. Each reacts in their own way. No pity performance, no new power
 
 *When: Day 372, afternoon. The long room, with the doors shut, which almost never happens. Frieren has asked the house to leave it for an hour. Fern has put a sign on the door in her small neat hand: AN HOUR. Ori has added underneath, in pencil: PLEASE.*

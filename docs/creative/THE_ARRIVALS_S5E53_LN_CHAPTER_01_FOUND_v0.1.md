@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 5 — Found
+## Chapter 6 — Found
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 5
+**Reading order:** 6
 **Continuity state:** Armin arrives in the intake hall at the eighth bell (Day 371). He was searching, with a lamp and a folded map, when something asked him and he said yes. He sees Mikasa first, then Eren. He does not speak about "after". Eren says the tomorrow he prepared ("We'll take you to the sea"); Armin answers that they saw the sea once, and Eren says "not this one". The register: Armin asks to sign and writes *Found them.* His world's history stays unspecified
 
 *When: Day 371, the eighth bell. The intake hall of Arrival House. The register girl lit the stove at five. Mikasa has been standing in the middle of the stone floor since six. Eren is at the door, inside it this time, not behind anything. A few people are on the step outside. Not a crowd. Fern said.*

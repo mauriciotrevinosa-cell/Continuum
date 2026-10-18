@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 13 — Leaves Down
+## Chapter 14 — Leaves Down
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 13
+**Reading order:** 14
 **Continuity state:** R32 return with real pacing. Sixty-eight days after the first seedlings (Day 308), Shoko primes the lowest leaves of her tobacco and hangs them to dry following the Fallow farmer's instructions Gojo had Hollis bring ("Hang in bunches, leaves down. Dark barn. Not too warm. One moon. Ready when it bends and does not break."). Gojo helps; Anko comes to see; Mau waters both boxes. The first smoke "from here" stays about a month off (S6). Shoko's one bent cigarette stays unlit
 
 *When: Day 376, early morning. The clinic corridor, where Shoko's box stands by the door. Anko's box stands outside her own door further along. Mau has a cup of water from the end of Momo's counter, as he does every morning, for both.*

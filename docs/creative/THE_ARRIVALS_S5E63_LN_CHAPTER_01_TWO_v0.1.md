@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 49 — Two
+## Chapter 50 — Two
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 49
+**Reading order:** 50
 **Continuity state:** The first night with two hearts (Day 397 into Day 398). At the reset hour Frieren gives the cold foot ("One. Still here."), then puts her ear to his chest and says "Two." Ciel's first look: a second structure beside the heart, connected to the shadow branch, which she cannot see into. A new empty bar appears on Mau's private window with no name. Nothing is used and nothing is explained. The household does not yet know what it means; Mau is frightened, and says so. At dawn Ori comes through the connecting door, listens, and says the first one is the one she knows.
 
 *When: Day 398, the reset hour. Four floors of the house are dark. The kilns are breathing red at the far edge of the timber yard. In the east room, two people are lying awake, and one of them is not supposed to be.*

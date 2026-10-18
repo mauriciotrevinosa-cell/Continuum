@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 24 — The Legion
+## Chapter 25 — The Legion
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 24
+**Reading order:** 25
 **Continuity state:** Floor 80 (Day 385), the eighth guardian: the Legion of Eighty, in rows under banners. Party: Mau (owner), Gojo, Maki and Yuta, with Igris, Beru, Tusk and Kaisel standing and Kamish rising briefly to roar. Behind the army a hooded stone figure watches and turns its head to follow Mau. Mau stops Maki going first ("I've got an army. Let me be the one who uses it") and commands for an hour as a general, talking without stopping. Igris pushes the flank into tangles, Beru takes every banner-bearer, Tusk's fire walls off the right, Kaisel circles overhead, Gojo's marbles tighten the knots and Maki and Yuta strike only the knots. He makes mistakes and learns from each until he stops making them. He walks alone to the ten who will not break, takes a spear through the right side, and finishes the last himself. When the Legion falls, the stone figure crumbles; Gojo saw something looking through it. Interface change: soldier-rank shadows register as a Legion and take no named places. He raises a hundred of 212 and keeps a little left. 8 named plus a Legion of 100: one hundred and eight. Level 82 (one hundred and sixty-four unspent)
 
 *When: Day 385, morning outside. Four hours agreed, from seventy, walking to seventy-nine. Taihei made breakfast at four, again. Seven days since seventy. Shoko looked at the healed splits on his arms for a long time this morning and said "not fine, but go", which she has started saying instead of "fine". Anko's board says AFTER? at the very bottom, unanswered.*

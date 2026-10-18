@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 22 — Ram's Wind
+## Chapter 23 — Ram's Wind
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 22
+**Reading order:** 23
 **Continuity state:** The second black-iron furnace (Day 382), five days after it was designed. Kaneki's dense charcoal, two bellows (Stark and Taihei), and a third hole for Ram's steady wind, once a week within her borrowed mana; Rem watches and stops her at the hour. The egg-sized piece melts fully. Wakana and Senku pour it into a clay mould: one palm-sized black plate, the first finished piece, which goes over the heart on Stark's quilted jacket. Armour is still mostly to come. The seventh night falls that evening (roof and crackers)
 
 *When: Day 382, all day. The far end of the timber yard, beside the kilns, where a second fat clay chimney stands. Wakana built it in five days, as he said. It has three holes at the bottom now, not two. The third is narrower, angled upward into the belly. Ram looked at it for a long time yesterday and said, "Adequate."*
@@ -235,3 +235,19 @@ But that evening, before the roof, before the crackers table, she wrote it on th
 And in the margin, smaller:
 
 *Ram did it. (Don't tell Ram I said so. She already knows.)*
+
+* * *
+
+After the furnace, when the plate was cooling and Ram had been put to bed by her sister, Stark went out to the north field and lay down in the long grass with his arm over his eyes.
+
+He did not say anything to anyone.
+
+Ten minutes later Mau came out of the back door, slowly, the splits from seventy still pink on his arms, and saw him there, and went and lay down in the long grass too. Not close. A few paces off. Same field. Same time.
+
+Neither of them said anything at all.
+
+They were both asleep inside a quarter of an hour. Frieren came out at dusk, looked at them for a long moment, and went back in without waking either.
+
+On the page called *Days*, under *Stark. A nap. Same field. Same time.*, Fern wrote:
+
+*Both.*

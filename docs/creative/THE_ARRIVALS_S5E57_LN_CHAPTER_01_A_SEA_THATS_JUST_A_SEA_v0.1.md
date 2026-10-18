@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 23 — A Sea That's Just a Sea
+## Chapter 24 — A Sea That's Just a Sea
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 23
+**Reading order:** 24
 **Continuity state:** The seventh-night roof (Day 382 = 81 + 7x43) is told briefly: Armin names a star he found with Senku through the telescope, *A Sea That's Just a Sea*, and Umaru records it on the back of the invitation card. Floors 71–79 follow over two days (Days 383–384), summarised from Anko's board, and Armin moves into his finished room. Mau reaches level 81 (one hundred and fifty-nine unspent). The guardian floor of eighty is next
 
 *When: Day 382, night, and Days 383 and 384. The roof; then the board. Wakana finished Armin's room on Day 381, with the window facing south and west. Armin slept in it for the first time last night.*

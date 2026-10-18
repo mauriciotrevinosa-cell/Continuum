@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 31 — The Hook Means Floor
+## Chapter 32 — The Hook Means Floor
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 31
+**Reading order:** 32
 **Continuity state:** The green book from floor 15 gives up its first meaning. Frieren, Fern and Mau (the three columns) and Armin, comparing the margin drawings with Anko's board, find that each page is a floor: a train on page 8, a bell on 9, a drowned shelf on 15, turning statues on 56 and 88. So the hook at the top of each page means *floor*, and the book is a climber's diary from long ago. Page 100 shows a tree; page 101 shows a seated stone figure surrounded by standing ones, and one word that recurs on every statue page, which they read from context as *watches*. Only a few words are read; no full translation. Like the katana, the book seems to have been put down for them on purpose
 
 *When: Day 390, afternoon. The long table. Mau is out of the clinic, in the east room by order, and has come down to the long table anyway, because Frieren said "if you sit and do nothing but count, Shoko can't object". Shoko has objected. Frieren has ignored her.*

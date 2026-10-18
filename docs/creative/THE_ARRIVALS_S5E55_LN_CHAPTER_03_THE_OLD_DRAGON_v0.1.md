@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 15 — The Old Dragon
+## Chapter 16 — The Old Dragon
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 15
+**Reading order:** 16
 **Continuity state:** Floor 70 (Day 378), the seventh guardian (rewritten for DH-124). Party at the start: Mau (owner), Gojo, Frieren and Yuta. A vast furnace-hall; Kamish, the Old Dragon, speaks ("small king") and smells Tusk's burn on him. The first breath is held with separate spaces. Mau calls all five shadows; Lantern is torn apart ("Little cousin bit well"); Igris and Beru take the legs and Tusk's blue fire goes into its eyes. Mau gives the plan aloud, and then a notice appears to all four: "Party size: 1. Operator only." Gojo, Frieren and Yuta vanish. Kamish is surprised ("That was not mine"; "Someone wishes to see you alone") and looks up, as if at something above. Nobody knows who did it. With no one left to be careful of, it stops holding back, and its true breath begins to build. The chapter ends as it opens its mouth
 
 *When: Day 378, morning outside. Three days of rest since Tusk, and one since the hot stair. Shoko looked at the left side of his face for a long time and said "go", which was not "fine". Taihei made breakfast at four. Fern checked the cup with Ciel through Rimuru before they left, and wrote FULL ENOUGH on the board herself.*

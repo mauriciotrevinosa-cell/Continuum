@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 30
 **Season:** 5
-**Coverage:** S5E38–S5E44
+**Coverage:** S5E38–S5E46
 **Volume title:** **The House Lights Its Own**
-**Chapter files:** 30
+**Chapter files:** 38
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -43,3 +43,11 @@
 | 28 | S5E44 | It Won't Happen Here | `THE_ARRIVALS_S5E44_LN_CHAPTER_03_IT_WONT_HAPPEN_HERE_v0.1.md` |
 | 29 | S5E44 | Between the Red Columns | `THE_ARRIVALS_S5E44_LN_CHAPTER_04_BETWEEN_THE_RED_COLUMNS_v0.1.md` |
 | 30 | S5E44 | Not Opposed | `THE_ARRIVALS_S5E44_LN_CHAPTER_05_NOT_OPPOSED_v0.1.md` |
+| 31 | S5E45 | Someone Has to Stand There | `THE_ARRIVALS_S5E45_LN_CHAPTER_01_SOMEONE_HAS_TO_STAND_THERE_v0.1.md` |
+| 32 | S5E45 | The Far End of the Bridge | `THE_ARRIVALS_S5E45_LN_CHAPTER_02_THE_FAR_END_OF_THE_BRIDGE_v0.1.md` |
+| 33 | S5E45 | A Knight in the Yard | `THE_ARRIVALS_S5E45_LN_CHAPTER_03_A_KNIGHT_IN_THE_YARD_v0.1.md` |
+| 34 | S5E45 | The Second Wall | `THE_ARRIVALS_S5E45_LN_CHAPTER_04_THE_SECOND_WALL_v0.1.md` |
+| 35 | S5E46 | A Curve That Goes Two Ways | `THE_ARRIVALS_S5E46_LN_CHAPTER_01_A_CURVE_THAT_GOES_TWO_WAYS_v0.1.md` |
+| 36 | S5E46 | Thirty | `THE_ARRIVALS_S5E46_LN_CHAPTER_02_THIRTY_v0.1.md` |
+| 37 | S5E46 | What's a Tank? | `THE_ARRIVALS_S5E46_LN_CHAPTER_03_WHATS_A_TANK_v0.1.md` |
+| 38 | S5E46 | The Winner's Rule | `THE_ARRIVALS_S5E46_LN_CHAPTER_04_THE_WINNERS_RULE_v0.1.md` |

@@ -1847,3 +1847,9 @@ Creator says he likes the revision and asks to continue. FirstV31checkpoint10sce
 
 ### DH-121 followthrough — V31secondcheckpoint
 Creator askscontinuedproductionagain. #11–24savedactualprose, fullMau-day/independentcompany, secondlimitedTowervisit. [State](S5_V31_PRODUCTION_RECORD_2026-10-17.md). No newmacroplot/sourceoverride; onechapterdoesnotneedonefloor/boss andpartialpushnotapproval.
+
+## DH-122 — System integration seed (V31) and retroactive overload for S6 (creator, 2026-10-18)
+
+[mensajes íntegros y diseño acordado](S6_SYSTEM_INTEGRATION_RETROACTIVE_OVERLOAD_CREATOR_SEED_2026-10-18.md). Creator asked whether Solo Leveling stats also raise mana/CE. Per his own Red Gate §8 design, the stats start shadow-only, and S5 showed only that stage. A seed chapter is added to V31 (#53 "The Edge of the Window", Day 407): Ciel sees the Noise drafting outlines by CE and mana, Mau holds all 134 points by his own choice, and Umaru starts a new plan. "Still Here" moves to #54.
+
+S6 opening: the integration is **retroactive** (creator's proposal). The 440 Intelligence hits CE and mana at once and overloads the body like an overcharged battery. Ciel and the Noise repair it together for the first time. Part of the excess is lost to the drain and the rest is sealed and released as the cap rises. Spent points keep their shadow value. Where the drained excess goes is OPEN (Claude proposed the Black Heart's nameless bar; the safe alternative is the ground or the cup). Don't write it until the creator chooses.

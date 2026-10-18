@@ -5,7 +5,7 @@
 **Season:** 5
 **Coverage:** S5E52–S5E64
 **Volume title:** **The Hundredth Floor**
-**Chapter files:** 53
+**Chapter files:** 54
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -65,4 +65,5 @@
 | 50 | S5E64 | Two Spaces in the Line | `THE_ARRIVALS_S5E64_LN_CHAPTER_03_TWO_SPACES_IN_THE_LINE_v0.1.md` |
 | 51 | S5E64 | The Night Shift | `THE_ARRIVALS_S5E64_LN_CHAPTER_04_THE_NIGHT_SHIFT_v0.1.md` |
 | 52 | S5E64 | Three Doors | `THE_ARRIVALS_S5E64_LN_CHAPTER_05_THREE_DOORS_v0.1.md` |
-| 53 | S5E64 | Still Here | `THE_ARRIVALS_S5E64_LN_CHAPTER_06_STILL_HERE_v0.1.md` |
+| 53 | S5E64 | The Edge of the Window | `THE_ARRIVALS_S5E64_LN_CHAPTER_06_THE_EDGE_OF_THE_WINDOW_v0.1.md` |
+| 54 | S5E64 | Still Here | `THE_ARRIVALS_S5E64_LN_CHAPTER_07_STILL_HERE_v0.1.md` |

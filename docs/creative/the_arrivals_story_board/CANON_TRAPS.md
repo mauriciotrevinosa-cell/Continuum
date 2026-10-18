@@ -419,3 +419,4 @@ not on this list. Add a line every time the creator catches a new slip.
 - **The third access ("the door") has no named far side.** Don't equate it with the Goddess door or with world travel.
 - **Tobacco is dry, not cured, on Day 410.** Shoko's first smoke is S6.
 - **The night shift is three standing shadows** (Igris, Beru, Kamish) under Shoko's dawn check. It is not a combat drone patrol. Himmel's hour continues by choice. Anko and Nazuna are roommates and friends, not a couple.
+- **Window outlines ≠ heart bar.** The grey draft outlines (Day 407, by CE and mana) are the Noise's integration work. The empty nameless bar under the cup is the Black Heart's. Don't merge them. No CE or mana has been integrated by the end of S5, and the 134 points are held. Retroactivity and the overload belong to S6 (DH-122).

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 29
 **Season:** 5
-**Coverage:** S5E25–S5E36
+**Coverage:** S5E25–S5E37
 **Volume title:** **The Days Between**
-**Chapter files:** 50
+**Chapter files:** 54
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 onward.
 
@@ -63,3 +63,7 @@
 | 48 | S5E35 | The Second Afternoon | `THE_ARRIVALS_S5E35_LN_CHAPTER_04_THE_SECOND_AFTERNOON_v0.1.md` |
 | 49 | S5E36 | The Bell Tower | `THE_ARRIVALS_S5E36_LN_CHAPTER_01_THE_BELL_TOWER_v0.1.md` |
 | 50 | S5E36 | The Song for the Lights | `THE_ARRIVALS_S5E36_LN_CHAPTER_02_THE_SONG_FOR_THE_LIGHTS_v0.1.md` |
+| 51 | S5E36 | The School Bell | `THE_ARRIVALS_S5E36_LN_CHAPTER_03_THE_SCHOOL_BELL_v0.1.md` |
+| 52 | S5E36 | Ten | `THE_ARRIVALS_S5E36_LN_CHAPTER_04_TEN_v0.1.md` |
+| 53 | S5E37 | Five on the Roof | `THE_ARRIVALS_S5E37_LN_CHAPTER_01_FIVE_ON_THE_ROOF_v0.1.md` |
+| 54 | S5E37 | The Last Firefly | `THE_ARRIVALS_S5E37_LN_CHAPTER_02_THE_LAST_FIREFLY_v0.1.md` |

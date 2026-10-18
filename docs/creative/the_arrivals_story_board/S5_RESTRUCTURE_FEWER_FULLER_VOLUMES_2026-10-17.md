@@ -159,3 +159,30 @@ See `S5_V30_V31_CLOSING_OUTLINE_2026-10-18.md` for the decisions taken under the
 - **Yuka/Umaru's card rules** are amended (the winner adds a rule; Mau's rule is "pass to whoever needs a minute").
 - **The Beru challenge (Day 364)**, per the creator: one free shot, then Zoltraak into the sky, then the remake and the apology to "the queen of my Monarch". Mau: "She's the one in charge." Frieren: "Correct." Beru now says "Good morning, Queen of my King" instead of apologising.
 - **Day 368 closes V30.** Kaisel flies Mau and Ori over the lit house for three minutes; Ori: "That's the house lighting its own."
+
+## V31 facts log — *The Hundredth Floor* (53 chapters, S5E52–S5E64, Days 368–410) — S5 COMPLETE
+
+**Family and house**
+- **Armin** arrives by Mikasa's coin (Day 371, eighth bell). Eren keeps his coin. He has a room at the end of the west wing (window toward the sea) and keeps the house map (*Kamish (nights)* now on the ridge).
+- **Mau gives the chosen account** to Taihei, Touka and Armin.
+- **Black iron.** The furnace is first used once on Day 341; the second furnace (Day 382) adds Ram's weekly wind under Rem's stop.
+- **Tobacco** primed and hung on Day 376. On Day 410 it is dry and browning but **not cured** (weeks more). Shoko's cigarette stays unlit; her first smoke "from here" is S6.
+- **Anko's box flowered** (Day 394): white, the same north-field weed as the sixth flower ("next year").
+- **Himmel** keeps his alternate-day north-end hour by choice, now beside Igris.
+- **Nazuna's count** of the nights runs from Day 368 to Day 410. On Day 407 the night became longer than the day; she returns Anko's watch on Day 410 ("it's all mine again").
+
+**Tower**
+- **Guardians:** 60 Warden (declined), 70 Kamish (extracted, "small king"), 80 Legion, 90 Bellion (Gojo stayed home; wheel ×2; Mau's Rika construct), 100 a garden (fruit, still water, warm seed into Senku's NOT YET box; widened extraction notice not activated), 101 temple and the Architect.
+- **Level 106** after 100. Intelligence 440 (cup ~15×), Endurance 51. Katana from floor 86.
+- **Architect:** built the tower to teach "a vessel" for "my monarch, who rests". The name and method are never given. Hurt by Frieren's Zoltraak. Pushes the **Black Heart** into Mau without consent ("He will work"; "a gift"; "now you will grow"). Leaves through the throne into the world: "I will be watching." Mau stops Gojo following.
+- **Wheel:** 3 notches (2 at 90, 1 at 101 adapting to unmaking).
+- **Losses:** two soldiers unmade at 101 (gone; eight remain; the line keeps two spaces). Kamish was broken and is remade on Day 400. Mau's Rika construct was unmade.
+- **Jin-Woo fragments:** "Hello" (346), "Who are you?" (360), "How did you get—" (390).
+
+**After 101 (E63–E64)**
+- **Second heart:** half a beat behind Mau's, cold. Not tissue (Shoko), not toxin or parasite (Maomao). Senku: *Removal: DO NOT ATTEMPT.* Rimuru: "a closed door with something warm behind it". Gojo's eyes see the root go into the monarch branch and **cannot see past it**. Healing may be faster (cause unclear). A **new empty, nameless bar** appears under the cup in Mau's window. Kamish also does not know it.
+- **Reader-only (E63 #47):** Sukuna finds the Architect in a hill ruin far north-east and offers to take everything from Mau so the monarch can return. It is an alliance of interests, not obedience; Sukuna waits until Mau has grown. **Nobody in the house knows.** No other parties are named.
+- **Kaneki** tells Mau one thing (a doctor put something in him without asking). Nothing more.
+- **Night shift** from Day 402, under Shoko's dawn check: Igris at the north end (Mikasa's dusk hour handed over), Beru walks Anko's round (count of ten), Kamish lies on the north-field ridge. Ciel: the cup refills slightly faster than three standing shadows spend it.
+- **Three accesses** turn in Mau's shadow: the monarch branch (with the heart's root), the Ten Shadows branch (Ear tamed; others untamed; Mahoraga deepest) and a door (unnamed far side). The Noise keeps trying to join them and cannot while the shikigami are untamed. Gojo states the ritual (subdue it alone; help voids it). Mau resolves to tame them one at a time after healing, with Mahoraga last; none of this happens in S5.
+- **Final image (Day 410):** "One. Still here." / "Two." / "Still here."

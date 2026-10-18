@@ -407,3 +407,15 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Shoko's RCT has limits.** Shallow cuts get stitches in her clinic.
 - **Arrivals appear in the intake hall of Arrival House at a bell**, with the register girl and the book. The house waits outside without fuss.
 - **Mau's spent points go only into the branch reserve.** Places are 20 from floor 50; standing shadows cost per minute; a broken shadow must be remade at a cost. Fang is unmet.
+
+## V31 draft continuity traps (2026-10-18)
+
+- **The Architect never names his monarch** and never explains the Black Heart. Don't confirm who the monarch is, what the heart does or how to remove it. Senku's ledger reads *Removal: DO NOT ATTEMPT*.
+- **The Sukuna/Architect alliance is reader-only.** No one in the house knows it (or the hill ruin). Mau knows only that the Architect is "watching". The hooded man and Pell are not tied to it.
+- **Two soldiers are gone for good** (unmade at 101). Eight remain; they leave two spaces in the line. Ori's list says "Ten".
+- **Gojo stayed home for floor 90** (Bellion). He was at 70, 80 and 101.
+- **The katana from 86 is Mau's**; Mau's Rika is a Noise-built construct (Day 133 pattern), not Yuta's Rika, and the 101 one was unmade.
+- **Having the wheel is not having Mahoraga.** The wheel only adapts (3 notches). The shikigami must be subdued alone; no shikigami taming happens in S5 beyond Ear.
+- **The third access ("the door") has no named far side.** Don't equate it with the Goddess door or with world travel.
+- **Tobacco is dry, not cured, on Day 410.** Shoko's first smoke is S6.
+- **The night shift is three standing shadows** (Igris, Beru, Kamish) under Shoko's dawn check. It is not a combat drone patrol. Himmel's hour continues by choice. Anko and Nazuna are roommates and friends, not a couple.

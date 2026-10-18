@@ -92,3 +92,60 @@ Read first: `S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md` (numbering, read
 | E62 | 385 | The Architect: "Yes. He will work." The Black Heart. The escape. |
 | E63 | 385–386 | Two heartbeats. The reader-only Sukuna scene. |
 | E64 | 387–390 | Aftermath: reactions, shadows on the night shift, the three accesses turning, end of summer. S5 closes. |
+
+## Revisions after creator feedback (2026-10-18, later)
+
+**Creator:** "Mau no siempre sale ileso … que piense bien las peleas … contra Beru los poderes de Okarun … contra Bellion la rueda para sobrevivir … una katana como la de Yuta y vemos a Rika por primera vez de Mau … vete loco … la pelea del arquitecto al 11, final de temporada, chef kiss." The creator also said the examples were starting points, not a closed list, and asked not to cut things just to cut them.
+
+**Injuries and planning at each guardian**
+- **Igris:** a deliberate gap, then thigh, arm and two ribs.
+- **Beru:** Momo's psychokinesis plus Okarun's Granny-speed (a rough copy, legs torn) to deny it food; back clawed.
+- **Kamish:** the space against the breath; carried home.
+- **Bellion:** the plan told beforehand; the floor-86 katana; Mau's Rika construct (a pattern the Noise built from Day 133, not Yuta's Rika); two turns of the wheel; walls strained, eyes bled.
+
+**Growth arc:** first reacting; then thinking one step ahead; then choosing tools from the bag; then telling the plan beforehand; at the Architect, commanding everything at once like a general.
+
+**Bag rule:** a borrowed pattern is rough, wrong-handed, costs the space reserve (not the cup) and hurts. It is never a permanent unlock.
+
+**Wheel:** two notches turned at floor 90, adapted to Bellion's whip only. Ciel fears a third turn.
+
+### Re-planned ending (replaces the end of the V31 table above)
+
+**E58 (Days 388–390) — rest after Bellion**
+- Shoko and Gojo.
+- The third Jin-Woo fragment, "How did you get—", cut off.
+- The green book's first words: the repeated hook means *floor*. It is the diary of someone who climbed the tower long ago.
+- Mai's choice: she asks to see the garden on five.
+
+**E59 (Days 391–392) — floors 91–100**
+- Two soldiers remade.
+- Floor 100 is not a fight: a garden at the top with a tree, a spring and a stone. The three components of the divine potion; no finished potion.
+- The notice "Tower complete", and the widened extraction eligibility (otherworlders, monarchs), which Mau does not activate.
+
+**E60 (Days 393–395) — rest and a small celebration of "100"**
+- Senku and Maomao examine the components (NOT YET box).
+- Anko's box flowers: the same white north-field weed as the sixth flower.
+- The witches; Taihei's weekly curry.
+
+**E61 (Day 396) — Floor 101**
+- The key's frame shows **101**, Senku's "Hundred and First".
+- A temple of statues around a seated stone god. The commandments are carved in the green book's script, so Frieren and Mau can read them because they have been counting it all summer.
+- The statues enforce the tower's lessons: near end first; stand where a teacher stands; find north; keep a little left; take the food away; choose what to keep.
+- Party: Mau, Frieren, Gojo, Yuta.
+
+**E62 — the Architect**
+- The watcher steps out of the god statue: delighted, analytical, calling Mau "the vessel".
+- Mau commands the whole army in coordinated tactics and switches bag patterns mid-fight. Gojo's marble and Mau's pull together make two Blues. Yuta's real Rika and Mau's half-made construct stand together. The wheel turns once, at a cost.
+- Cornered, the Architect says "Yes. He will work." At a clear instant, while Mau's guard is down to save Frieren, he pushes the Black Heart into Mau's chest without consent.
+- He escapes into the world through a stone door.
+
+**E63**
+- That night Frieren hears two heartbeats.
+- The reader-only Sukuna scene: he finds the Architect speaking aloud about returning his monarch. "To bring him back, you'd have to take everything from that boy. I can help with that."
+
+**E64 — aftermath to the end of summer**
+- Individual reactions; a study of what the heart is, without instant answers.
+- The first night shift by shadows (Eren/Mikasa and Anko/Nazuna get time).
+- The three accesses turning.
+- Nazuna's longer nights.
+- The last image: two heartbeats and "Still here."

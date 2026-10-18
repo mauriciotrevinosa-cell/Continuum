@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 31
 **Season:** 5
-**Coverage:** S5E52–S5E57
+**Coverage:** S5E52–S5E58
 **Volume title:** **The Hundredth Floor**
-**Chapter files:** 26
+**Chapter files:** 30
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -39,3 +39,7 @@
 | 24 | S5E57 | The General | `THE_ARRIVALS_S5E57_LN_CHAPTER_04_THE_GENERAL_v0.1.md` |
 | 25 | S5E57 | What Came Out With It | `THE_ARRIVALS_S5E57_LN_CHAPTER_05_WHAT_CAME_OUT_WITH_IT_v0.1.md` |
 | 26 | S5E57 | Grand Marshal | `THE_ARRIVALS_S5E57_LN_CHAPTER_06_GRAND_MARSHAL_v0.1.md` |
+| 27 | S5E58 | Two Notches | `THE_ARRIVALS_S5E58_LN_CHAPTER_01_TWO_NOTCHES_v0.1.md` |
+| 28 | S5E58 | How Did You Get | `THE_ARRIVALS_S5E58_LN_CHAPTER_02_HOW_DID_YOU_GET_v0.1.md` |
+| 29 | S5E58 | The Hook Means Floor | `THE_ARRIVALS_S5E58_LN_CHAPTER_03_THE_HOOK_MEANS_FLOOR_v0.1.md` |
+| 30 | S5E58 | Where the Flower Came From | `THE_ARRIVALS_S5E58_LN_CHAPTER_04_WHERE_THE_FLOWER_CAME_FROM_v0.1.md` |

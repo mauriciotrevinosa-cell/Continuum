@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 29
 **Season:** 5
-**Coverage:** S5E25–S5E32
+**Coverage:** S5E25–S5E33
 **Volume title:** **The Days Between**
-**Chapter files:** 35
+**Chapter files:** 38
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 onward.
 
@@ -48,3 +48,6 @@
 | 33 | S5E32 | The Garden on Five | `THE_ARRIVALS_S5E32_LN_CHAPTER_01_THE_GARDEN_ON_FIVE_v0.1.md` |
 | 34 | S5E32 | Straight Lines | `THE_ARRIVALS_S5E32_LN_CHAPTER_02_STRAIGHT_LINES_v0.1.md` |
 | 35 | S5E32 | The Dice from Fallow | `THE_ARRIVALS_S5E32_LN_CHAPTER_03_THE_DICE_FROM_FALLOW_v0.1.md` |
+| 36 | S5E32 | Twenty-Three | `THE_ARRIVALS_S5E32_LN_CHAPTER_04_TWENTY_THREE_v0.1.md` |
+| 37 | S5E33 | The Eighth Bell | `THE_ARRIVALS_S5E33_LN_CHAPTER_01_THE_EIGHTH_BELL_v0.1.md` |
+| 38 | S5E33 | Curry | `THE_ARRIVALS_S5E33_LN_CHAPTER_02_CURRY_v0.1.md` |

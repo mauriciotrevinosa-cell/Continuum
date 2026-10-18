@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 42 — Everything at Once
+## Chapter 44 — Everything at Once
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 42
+**Reading order:** 44
 **Continuity state:** The twelve statues fight for the Architect, on islands of stone over unmade nothing. Mau commands all eighteen shadows at once for the first time, with a commander's view from Kaisel's back:
 - Kamish lies across the void as a bridge.
 - Bellion's whip pulls statues off their islands; Igris stands near Frieren; Corner guards Yuta's corner; Beru hunts; Tank holds; the soldiers make the line; Lantern harries.

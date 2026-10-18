@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 54 — Still Here
+## Chapter 56 — Still Here
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 54
+**Reading order:** 56
 **Continuity state:** The last day of summer (Day 410), and the end of Season 5. Nazuna's count ends: the night is now longer than the day, and she gives Anko back the watch ("it's all mine again"). Anko writes the summer's last line on the board. Mau walks the house at dusk and sees it as it is: the tobacco leaves browning in the barn ("not yet; curing is longer than drying", so the first smoke is still to come); Senku's NOT YET box; Kaneki's three cups; Armin's map; Himmel at the north end beside Igris on his alternate day; Eren and Mikasa in the south field; Rimuru no longer grey. At the reset hour Frieren gives the cold foot ("One. Still here."), then her ear ("Two."), and Mau answers. Nothing is resolved about the heart, the Architect or the doors. The house goes on
 
 *When: Day 410. The last day of summer, by Nazuna's count, which is the only count in the house that anyone agrees settles it. Three nights ago, for the first time since spring, the dark was longer than the light.*

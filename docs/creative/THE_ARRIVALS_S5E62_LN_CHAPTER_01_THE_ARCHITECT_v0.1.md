@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 41 — The Architect
+## Chapter 43 — The Architect
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 41
+**Reading order:** 43
 **Continuity state:** The Architect steps out of the seated god. He is very tall, very thin and very old, robed, his skin like polished grey stone, with real eyes at last. He is courteous, scholarly and delighted. He says he built the tower to teach a vessel, that Mau learned every lesson, and that the coin was the one thing he did not build. Mau is a vessel "for my monarch, who rests"; the name and the method are not given. He is not omniscient: he knows what the floors and the stone showed him. He enjoyed Gojo seeing him. "Show me the rest." He unbuilds the floor of the hall and stands the statues up again as his own. The fight begins
 
 *When: Day 397. Floor 101. Twelve statues kneel in a ring at the foot of the hundred steps. The seated god's face has broken. Something is standing up inside it.*

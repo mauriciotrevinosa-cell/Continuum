@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 32 — One Hundred
+## Chapter 34 — One Hundred
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 32
+**Reading order:** 34
 **Continuity state:** Floor 100 (Day 393). Gojo looked first: nothing there and nothing watching, so Shoko allows a family party: Mau (owner), Frieren, Fern and Ori. The top is a garden: a tall straight tree, a still pool and a stone seed, as on page 100 of the green book. It is not a fight. The notice says the tower is complete and gives three components (fruit, water, seed) toward something whose name it shows in a script nobody can read: the divine potion's parts, not a potion. A second notice says The Noise's extraction eligibility has widened to otherworlders and monarchs; it is inactive, and Mau does not activate it. Completion raises him to level 106 (two hundred and eighty-four unspent). Far off in the mist, a seated stone shape
 
 *When: Day 393, morning. The white stair on ninety-nine. Gojo climbed it alone at dawn, looked, and came back down and said "garden. Nothing in it. Nothing watching. I looked very hard." Then he said "take Ori," and went to sit on the clinic step.*

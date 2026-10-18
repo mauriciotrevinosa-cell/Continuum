@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 28 — How Did You Get
+## Chapter 30 — How Did You Get
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 28
+**Reading order:** 30
 **Continuity state:** The third connection fragment (Day 390, the reset hour), two nights after the wheel turned. Through the shadow branch: "How did you get—", cut off mid-question. Behind it, for the first time, a faint sound like wind, or many voices far away. Mau answers what he can. Ciel says the contact was longer and clearer, but cannot tell from where. He tells Frieren, Rimuru and Yuta; it is not a threat or a demand, so it is not yet the house's. Gojo notices something and is told part of it. No location, army or mentor; Jin-Woo's identity is not confirmed
 
 *When: Day 390, the reset hour. The seventh night was last night, and Mau spent it in the east room again, because Shoko said no ladders. The roof came down to him, five cups on a tray. Seven shadows and eight soldiers are in the cup. The wheel is asleep, two notches further round than it was a week ago.*

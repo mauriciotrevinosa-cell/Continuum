@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 33 — The NOT YET Box
+## Chapter 35 — The NOT YET Box
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 33
+**Reading order:** 35
 **Continuity state:** The evening of floor 100 (Day 393). At the long table Mau tells the whole house about the widened extraction notice and that he said no (the house has told Mau everything since S4; this time he tells the house). The newer arrivals react in their own ways. Senku, Maomao and Shoko examine the three components and can make nothing of them yet; the fruit does not rot, the water does not move, the seed is warm. They go into Senku's NOT YET box (from S4 V21, where the first bulb glowed one second) under Maomao's eye. Umaru declares Tower Day. The question *After?* stays on the board
 
 *When: Day 393, evening. The long table. Everyone is here, because Anko wrote COMPLETE across the bottom of the board, and the house read it before dinner. Ori has carried the gold fruit around all afternoon. She has not let anyone else hold it.*

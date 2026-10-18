@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 48 — What Gojo Saw
+## Chapter 50 — What Gojo Saw
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 48
+**Reading order:** 50
 **Continuity state:** Day 398, morning, the clinic. A study of the second heart with no answers. Shoko's hands: it is not tissue she knows, and it is not hurting him. Maomao: no poison, no parasite she knows, "and I know a great many". Senku can only write a ledger line: unknown, beating, watch. Rimuru, still grey, felt it arrive down the thread and calls it "a closed door with something warm behind it". Gojo looks with bare eyes for a long time. It is not cursed energy, mana or anything Ciel is made of; it has a root going down into Mau's shadow, and he cannot see past the root, the first thing since the bell he has looked at and not seen through. Gojo is shaken by that and says so to Shoko afterwards. Individual reactions only; nothing is used, explained or decided
 
 *When: Day 398, mid-morning. The clinic door is open for the light. Ori is on the step outside with Shoko's watch, though nobody asked her to time anything. Across the yard, Taihei is washing last night's curry pot for the second time.*

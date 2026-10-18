@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 47 — Everything From That Boy
+## Chapter 49 — Everything From That Boy
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 47
+**Reading order:** 49
 **Continuity state:** Reader-only scene; nobody in the house knows it happened. The night of Day 397, in the hills far from the house. The Architect, still hurt where Zoltraak went through him, speaks aloud to his resting monarch. To bring the monarch back, the vessel must be emptied of everything it holds. He admits he does not know how to take: he builds, and he admired what he watched. Sukuna, who felt something come down out of the sky, finds him and has heard enough. "To bring him back, you'd have to take everything from that boy. I can help with that." It is an alliance of interests, not obedience: Sukuna kneels to no monarch and wants whatever stands up at the end. No names beyond these two. The hooded man and Pell are not identified, and no plan is given. The Black Heart is not explained
 
 *When: Day 397, night. The same hour Frieren lies awake with her ear to Mau's chest. Far to the north and east, past the last road anyone in the valley has walked, there is a ruin on a hill that has no name. Something came down out of the sky onto it this afternoon.*

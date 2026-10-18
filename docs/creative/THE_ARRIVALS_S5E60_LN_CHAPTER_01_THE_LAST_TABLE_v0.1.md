@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 35 — The Last Table
+## Chapter 37 — The Last Table
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 35
+**Reading order:** 37
 **Continuity state:** The last spending session before floor 101 (Day 395; level 106, two hundred and eighty-four unspent). Umaru, Yuka and Armin plan from the *After?* line and from Armin's guess that the cup's size is what makes it refill. One hundred more go into Intelligence (four hundred and forty in total), and the reserve is roughly fifteen times its pre-festival depth. Fifty go into Endurance at last, because Ciel can now see a pattern: wounds since Igris have closed a little faster than Shoko expected. One hundred and thirty-four are kept. No mana, no CE, no Black Heart; registration places stay twenty
 
 *When: Day 395, afternoon. The long table. Umaru has taken down every sheet on all three wall sections and replaced them with one, pinned in the middle of the first wall, in her smallest hand. Armin is at the table with the copy of the tower. Yuka has the copy book. Fern is witnessing.*

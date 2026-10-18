@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 43 — The One in the Way
+## Chapter 45 — The One in the Way
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 43
+**Reading order:** 45
 **Continuity state:** The Architect fights. He unbuilds things with pale lines drawn through the world. He unmakes part of Kamish (the dragon is broken, not lost) and Gojo's island, and Mau catches Gojo with Momo's borrowed pattern. Mau, nearly dry, draws the floor-86 katana; the Noise's Rika pattern comes through, fuller than on ninety. Yuta draws his own blade and the real Rika comes; the two stand together, and the real one looks at the copy and screams with it. The Architect is delighted and unmakes the copy. A line goes across Mau's chest and the wheel turns a third time, adapting to the unmaking. The walls bow. From the house, Rimuru pours his own strength down Ciel's thread to hold them, which is the payoff of his choice to stay. Frieren's Zoltraak goes through the Architect's robe. He is hurt, and delighted
 
 *When: Day 397. Floor 101. The twelve statues are gone into the nothing. Kamish lies across the void as a dark road. The cup is nearly dry. The other reserve is nearly dry. The Architect has stepped onto the end of the dragon's back.*

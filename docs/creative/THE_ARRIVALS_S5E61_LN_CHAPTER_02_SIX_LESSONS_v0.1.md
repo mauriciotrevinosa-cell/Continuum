@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 39 — Six Lessons
+## Chapter 41 — Six Lessons
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 39
+**Reading order:** 41
 **Continuity state:** The ring awakens when Mau, the owner, steps inside it. Each statue tests the lesson of its floor and kneels when it is answered; a wrong answer is met with stone. Six tests:
 - **Lamp (7):** near end first; Frieren's lights.
 - **Bell (9):** stand where a teacher stands, as stone children walk home.

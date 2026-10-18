@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 27 — Two Notches
+## Chapter 29 — Two Notches
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 27
+**Reading order:** 29
 **Continuity state:** The morning after floor 90 (Day 388), in the clinic. Shoko is calm and devastating about the two wheel turns. Gojo talks about cursed tools and doors from his own experience as a teacher, but does not know what Mau's construct is. Ciel's account to Shoko is relayed aloud by Rimuru. Ori comes through the connecting door and asks whether the wheel is "awake"; it is asleep. Bed rest: the shoulder is stitched, the side holds, the eyes are unfiltered for an hour under Gojo's watch to check them. No new power
 
 *When: Day 388, morning. The clinic. Mau slept fourteen hours. When he woke, his eyes were crusted shut, and Frieren washed them with warm water before she let him try to open them.*

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 31
 **Season:** 5
-**Coverage:** S5E52–S5E62
+**Coverage:** S5E52–S5E63
 **Volume title:** **The Hundredth Floor**
-**Chapter files:** 45
+**Chapter files:** 47
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -58,3 +58,5 @@
 | 43 | S5E62 | The One in the Way | `THE_ARRIVALS_S5E62_LN_CHAPTER_03_THE_ONE_IN_THE_WAY_v0.1.md` |
 | 44 | S5E62 | He Will Work | `THE_ARRIVALS_S5E62_LN_CHAPTER_04_HE_WILL_WORK_v0.1.md` |
 | 45 | S5E62 | Back for Dinner | `THE_ARRIVALS_S5E62_LN_CHAPTER_05_BACK_FOR_DINNER_v0.1.md` |
+| 46 | S5E63 | Two | `THE_ARRIVALS_S5E63_LN_CHAPTER_01_TWO_v0.1.md` |
+| 47 | S5E63 | Everything From That Boy | `THE_ARRIVALS_S5E63_LN_CHAPTER_02_EVERYTHING_FROM_THAT_BOY_v0.1.md` |

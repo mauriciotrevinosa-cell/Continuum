@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 31
 **Season:** 5
-**Coverage:** S5E52–S5E59
+**Coverage:** S5E52–S5E60
 **Volume title:** **The Hundredth Floor**
-**Chapter files:** 34
+**Chapter files:** 37
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -47,3 +47,6 @@
 | 32 | S5E59 | One Hundred | `THE_ARRIVALS_S5E59_LN_CHAPTER_02_ONE_HUNDRED_v0.1.md` |
 | 33 | S5E59 | The NOT YET Box | `THE_ARRIVALS_S5E59_LN_CHAPTER_03_THE_NOT_YET_BOX_v0.1.md` |
 | 34 | S5E59 | What Anko Wanted | `THE_ARRIVALS_S5E59_LN_CHAPTER_04_WHAT_ANKO_WANTED_v0.1.md` |
+| 35 | S5E60 | The Last Table | `THE_ARRIVALS_S5E60_LN_CHAPTER_01_THE_LAST_TABLE_v0.1.md` |
+| 36 | S5E60 | The Night Before | `THE_ARRIVALS_S5E60_LN_CHAPTER_02_THE_NIGHT_BEFORE_v0.1.md` |
+| 37 | S5E60 | Four O'Clock | `THE_ARRIVALS_S5E60_LN_CHAPTER_03_FOUR_OCLOCK_v0.1.md` |

@@ -16,7 +16,7 @@ Not lamplight through windows, the way it was on an ordinary evening. Light ever
 
 Everyone was outside.
 
-Everyone. She could see them from the step. People she had lived with for two years and people she had lived with for two weeks, all of them, in the warm blue dusk, with plates in their hands, talking. Wakana and Marin, in matching blue. Seiko in the high seat, which someone had carried out too. The five, in a cluster by the ink tree, looking up.
+Everyone. She could see them from the step. People she had lived with for years and people she had lived with for weeks, all of them, in the warm blue dusk, with plates in their hands, talking. Wakana and Marin, in matching blue. Seiko in the high seat, which someone had carried out too. The five, in a cluster by the ink tree, looking up.
 
 And the ink tree was dark.
 

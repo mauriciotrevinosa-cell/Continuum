@@ -128,7 +128,7 @@ Mau looked across the room at Bocchi with her face on the table. She lifted her 
 
 Fern did not stand up. She did not need to.
 
-She picked up her pen, and tapped it once on the edge of the ledger, and the long table went quiet the way a long table did when it had learned, over two years and a bit, that the tap meant Fern had made a list.
+She picked up her pen, and tapped it once on the edge of the ledger, and the long table went quiet the way a long table did when it had learned, over nearly three years, that the tap meant Fern had made a list.
 
 "Lamps," said Fern. "Senku, Wakana. Oil from the store, measured; Anko signs it out." She did not look up. "Paper lanterns in the ink tree: Shizuka, Nano, and anyone Shizuka chooses. Ask Shizuka. Not me."
 

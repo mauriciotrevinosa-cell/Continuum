@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 30
 **Season:** 5
-**Coverage:** S5E38–S5E41
+**Coverage:** S5E38–S5E43
 **Volume title:** **The House Lights Its Own**
-**Chapter files:** 17
+**Chapter files:** 25
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -30,3 +30,11 @@
 | 15 | S5E41 | The Drowned Library | `THE_ARRIVALS_S5E41_LN_CHAPTER_02_THE_DROWNED_LIBRARY_v0.1.md` |
 | 16 | S5E41 | Something in the Box | `THE_ARRIVALS_S5E41_LN_CHAPTER_03_SOMETHING_IN_THE_BOX_v0.1.md` |
 | 17 | S5E41 | The Order of Things | `THE_ARRIVALS_S5E41_LN_CHAPTER_04_THE_ORDER_OF_THINGS_v0.1.md` |
+| 18 | S5E42 | Find North | `THE_ARRIVALS_S5E42_LN_CHAPTER_01_FIND_NORTH_v0.1.md` |
+| 19 | S5E42 | Hello | `THE_ARRIVALS_S5E42_LN_CHAPTER_02_HELLO_v0.1.md` |
+| 20 | S5E42 | One a Day | `THE_ARRIVALS_S5E42_LN_CHAPTER_03_ONE_A_DAY_v0.1.md` |
+| 21 | S5E42 | Blindfold Rules | `THE_ARRIVALS_S5E42_LN_CHAPTER_04_BLINDFOLD_RULES_v0.1.md` |
+| 22 | S5E43 | The Empty Throne | `THE_ARRIVALS_S5E43_LN_CHAPTER_01_THE_EMPTY_THRONE_v0.1.md` |
+| 23 | S5E43 | The Red Knight | `THE_ARRIVALS_S5E43_LN_CHAPTER_02_THE_RED_KNIGHT_v0.1.md` |
+| 24 | S5E43 | My Liege | `THE_ARRIVALS_S5E43_LN_CHAPTER_03_MY_LIEGE_v0.1.md` |
+| 25 | S5E43 | Corner | `THE_ARRIVALS_S5E43_LN_CHAPTER_04_CORNER_v0.1.md` |

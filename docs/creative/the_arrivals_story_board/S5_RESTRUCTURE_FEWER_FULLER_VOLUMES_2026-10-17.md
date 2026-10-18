@@ -188,3 +188,21 @@ See `S5_V30_V31_CLOSING_OUTLINE_2026-10-18.md` for the decisions taken under the
 - **Final image (Day 410):** "One. Still here." / "Two." / "Still here."
 - **Addendum (DH-122):** V31 is now 54 chapters. #53 "The Edge of the Window" (Day 407): grey draft outlines at the window's edges, two by CE and mana, take no points. Mau holds all 134 (Fern: *Points held. All. (His choice.)*). Umaru's sheet reads *DON'T TOUCH ANYTHING*. Armin asks what happens to the 440 already spent; nobody knows. #54 is "Still Here".
 - **Addendum (DH-123):** V29 is now 60 chapters. E37 #53–58 is the north road (Days 328–330), then #59 the roof (Mau: "faster, not alone"; Gojo will come more often) and #60 the last firefly (Frieren's hand on the scar: "Still here"). S5 total: 67+72+60+58+54 = **311**.
+
+### DH-124 corrections to the V29–V31 facts log (the tower as the Operator's trial)
+
+- **Operator rule** (floor 10): "This dungeon belongs to an Operator / Each guardian is the Operator's trial / Companions may assist / Companions may not carry." Mau finishes every guardian from 10 on. Maki's spear cracks at 10.
+- **After the north road:** Mau climbs ALONE floors 12–29 (dawn, noon, dinner), hurt each time. The house starts waiting at the screen, and at 30 Stark, Maki and Kaneki stop him (*Together.*). Days 365–366: no Shoko check. "The Check": every morning, his word; Day 367 "not today"; Fern's ledger page *Days*.
+- **Guardians:**
+  - 10, the first guardian (not kept)
+  - 20 Igris (duel)
+  - 30 Tank (Mau's finish, collarbone)
+  - 40 Beru (Six Eyes unfiltered, blind to Day 363, shredded)
+  - 50 Kaisel (his jump, barb through the thigh)
+  - 60 **Tusk** (replaces the Warden; walked under the weight; burns, left side)
+  - 70 Kamish **alone** (party set to 1 by the Architect; True Dragon scale from the containment; Kamish guards him)
+  - 80 Legion (general; spear through the side; **Legion of 100**, no named places)
+  - 90 Bellion
+  - 100 **Ruler** (the Light of the Hundredth; left arm broken; "you carry his door… we put him to rest… you should not exist"; *Not eligible*; **Ruler's Authority fragment (rough, unused)**; the garden opens; Ori's afternoon)
+  - 101 Architect (cuts the window; four-minute timer; the Noise rebuilds the line)
+- **Shadows at 101:** nine named plus 100 = 109. After 101: 98 soldiers (two unmade), ten rows, two spaces in the last row.

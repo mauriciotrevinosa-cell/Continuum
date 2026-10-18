@@ -430,3 +430,13 @@ not on this list. Add a line every time the creator catches a new slip.
 - **The woods north of the road lie cut in rows.** They stay that way.
 - **The message, word for word to the survivor:** anyone who so much as raises an eyebrow at her or disrespects her again, and he won't stop at them; he'll flatten everything they love.
 - **Why the climb speeds up from V30:** the north road ("I stopped for one second… faster, not alone"). It is not only the dungeon saying his name. The word "strongest" is still not said aloud.
+
+## DH-124 tower traps (2026-10-18)
+
+- **Companions may assist, never carry.** Mau finishes every guardian from 10 on. Before the north road (Day 328) the companions led floors 1–9; that is intended.
+- **There is no Warden.** Floor 60 is **Tusk** (speaking caster, "Great one"). The 101 statue for 60 holds a skull-staff, not keys.
+- **Kamish was fought ALONE** (party size 1, set by the Architect; he admits it at 101). Gojo, Frieren and Yuta were ejected. Mau used the **True Dragon scale** (a pressure-body round him, from the containment's memory of Rimuru's cave) for about 20 seconds; it nearly killed him. Kamish was raised before anyone returned. Kamish calls Frieren "the elf" who stood beside him, not "the one who went through the inside".
+- **Legion:** soldier-rank shadows take no named places (floor 80 change). 100 raised of 212. Ninety-eight after 101.
+- **Floor 100 is a Ruler copy guarding the garden.** Not extractable. The **Ruler's Authority** fragment is rough and unused, distinct from Momo's psychokinesis and from the Noise's patterns. Don't use it casually in S6 without cost.
+- **At 101 the Architect suspended the Operator interface.** The Noise rebuilt the line (it is "the Noise's now"). The interface outages and the Noise's own line connect to DH-122's integration outlines; keep that cause and effect.
+- **Shoko's check is every morning, by Mau's word since Day 366.** Fern's ledger page *Days* lists the house's chosen days with him.

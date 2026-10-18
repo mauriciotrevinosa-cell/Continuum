@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 38 — The Night Before
+## Chapter 39 — The Night Before
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 38
+**Reading order:** 39
 **Continuity state:** The seventh night (Day 396 = 81 + 7x45), the night before floor 101; roof and crackers table both. On the roof, the five decide who goes. Rimuru chooses to stay and hold the house with Diablo, his responsibility as the one with the other half of Ciel. Gojo, Yuta and Frieren go with Mau. Taihei asks whether they will come back, and nobody promises, though Gojo says "it won't happen here" again. Downstairs, Frieren brings her fear to the crackers table and does not leave carrying it. No threat yet
 
 *When: Day 396, night. The seventh night. The hatch has squeaked five times. Downstairs, in Seiko's room, the crackers have been put out. Mau's shoulder is out of its bandage, for the first time since ninety.*

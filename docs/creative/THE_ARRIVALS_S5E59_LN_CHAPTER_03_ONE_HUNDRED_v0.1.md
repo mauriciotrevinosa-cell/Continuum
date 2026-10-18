@@ -1,12 +1,12 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 34 — One Hundred
+## Chapter 35 — One Hundred
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 34
-**Continuity state:** Floor 100 (Day 393). Gojo looked first: nothing there and nothing watching, so Shoko allows a family party: Mau (owner), Frieren, Fern and Ori. The top is a garden: a tall straight tree, a still pool and a stone seed, as on page 100 of the green book. It is not a fight. The notice says the tower is complete and gives three components (fruit, water, seed) toward something whose name it shows in a script nobody can read: the divine potion's parts, not a potion. A second notice says The Noise's extraction eligibility has widened to otherworlders and monarchs; it is inactive, and Mau does not activate it. Completion raises him to level 106 (two hundred and eighty-four unspent). Far off in the mist, a seated stone shape
+**Reading order:** 35
+**Continuity state:** Floor 100 (Day 393, afternoon), the second visit, after the Ruler fell at dawn. Gojo looked again: nothing there and nothing watching, and he asked for Ori to be taken. Shoko set Mau's broken left arm and allows a family party: Mau (owner, arm in a sling), Frieren, Fern and Ori. The top is a garden: a tall straight tree, a still pool and a stone seed, as on page 100 of the green book. It is not a fight. The notice says the tower is complete and gives three components (fruit, water, seed) toward something whose name it shows in a script nobody can read: the divine potion's parts, not a potion. A second notice says The Noise's extraction eligibility has widened to otherworlders and monarchs; it is inactive, and Mau does not activate it. Completion raises him to level 106 (two hundred and eighty-four unspent). Far off in the mist, a seated stone shape
 
-*When: Day 393, morning. The white stair on ninety-nine. Gojo climbed it alone at dawn, looked, and came back down and said "garden. Nothing in it. Nothing watching. I looked very hard." Then he said "take Ori," and went to sit on the clinic step.*
+*When: Day 393, afternoon. Mau's left arm is set and splinted and in a sling, and his eyes have been washed twice. At dawn there was a light in front of a gate. Now there is only a garden. Gojo went up a second time to be sure, came back down and said "garden. Nothing in it. Nothing watching. I looked very hard." Then he said "take Ori," and went to sit on the clinic step.*
 
 Ori had not asked.
 
@@ -14,11 +14,13 @@ That was the strange thing. Everyone had expected her to ask. She had asked for 
 
 She had not asked to go to a hundred.
 
-Mau found her on the back step at dawn, with the list, looking at the screen across the dry ground.
+Mau found her on the back step after lunch, with the list, looking at the screen across the dry ground. She had been there when they came back at dawn. She had seen his arm.
 
-"Gojo says it's a garden," he said, sitting down beside her. "At the top. Nothing in it. Nothing watching."
+"Gojo says it's a garden," he said, sitting down beside her, carefully, because of the sling. "At the top. Nothing in it now. Nothing watching."
 
-"I heard," said Ori.
+"I heard," said Ori. She looked at the sling. "Now."
+
+"Now," said Mau. "It was something else this morning. It isn't any more."
 
 "He said take Ori."
 
@@ -48,7 +50,7 @@ Ori did not say anything for a long time.
 
 Anko wrote it on the board.
 
-*Day 393. Mau, Frieren, Fern, Ori. From 90. Floor 100. (Gojo looked. A garden.)*
+*Day 393, afternoon. Mau, Frieren, Fern, Ori. From 90. Floor 100. (Gojo looked again. A garden.)*
 
 And under it, without being asked, smaller:
 
@@ -76,7 +78,7 @@ She stood up and went back to the clinic step, where Gojo was sitting, and sat d
 
 They walked from ninety.
 
-Ori held Frieren's hand the whole way. She did not let go once. Mau walked behind them with Fern and watched Ori see the tower for the first time.
+Ori held Frieren's hand the whole way. She did not let go once. Mau walked behind them with Fern, his arm in its sling, and watched Ori see the tower for the first time.
 
 She saw the staircase of light, and looked at it the whole way up, the way Armin's sheet said. She saw the water wall, held open still where Gojo had walked through it. She put her free hand out and touched it as they passed, and it was cold and stood upright, and she said *oh*. She saw the three doors, and the field with the small statue in it, and the statue turned its head to follow her as they passed. Ori turned her head to follow it right back, very seriously, until it was out of sight.
 
@@ -340,9 +342,9 @@ Ori was looking at the gold fruit in her hands.
 
 She stood up, with the fruit against her chest, and looked round the garden at the top of everything. The tree, the pool, the soft green grass, the blue sky.
 
-"Nothing happened," she said. "On the last floor. Nothing at all." She looked at him. "That's my favourite."
+"Nothing happened," she said. "On the last floor. Nothing at all." She looked at him. At the sling. She knew. She had seen him come back at dawn. "Not this time," she said. "Not while I was here." She looked at the garden. "That's my favourite."
 
-Mau did not look at the mist again.
+Mau did not look at the mist again. He did not look at the place by the gate where the grass was pale, as if something very bright had stood on it for a very long time.
 
 "Mine too," he said.
 
@@ -364,13 +366,15 @@ On the other side, Anko looked at the watch. She looked at them. At Ori with a g
 
 "Well?" she said.
 
-"A garden," said Ori. "At the top. Nothing happened." She held up the fruit. "I picked this."
+"A garden," said Ori. "At the top. Nothing happened. This time." She held up the fruit. "I picked this."
 
 Anko looked at the fruit for a long time. Then at the board. At four planks, a hundred floors, a whole summer, in a dozen hands.
 
 She took the stub of pencil from behind her ear and wrote the last line.
 
-*Day 393. Floor 100. A garden. Tree, pool, seed. Ori picked the fruit. Nothing happened.*
+*Day 393, dawn. Floor 100. The Light of the Hundredth (Ruler). Mau finished it. Left arm broken, eyes. Not eligible. A fragment: the Ruler's Authority (rough).*
+
+*Day 393, afternoon. Floor 100. A garden. Tree, pool, seed. Ori picked the fruit. Nothing happened.*
 
 Then, in larger letters, across the bottom of the fourth plank, under everything:
 

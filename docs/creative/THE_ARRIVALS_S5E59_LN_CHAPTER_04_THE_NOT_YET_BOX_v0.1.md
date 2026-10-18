@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 35 — The NOT YET Box
+## Chapter 36 — The NOT YET Box
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 35
-**Continuity state:** The evening of floor 100 (Day 393). At the long table Mau tells the whole house about the widened extraction notice and that he said no (the house has told Mau everything since S4; this time he tells the house). The newer arrivals react in their own ways. Senku, Maomao and Shoko examine the three components and can make nothing of them yet; the fruit does not rot, the water does not move, the seed is warm. They go into Senku's NOT YET box (from S4 V21, where the first bulb glowed one second) under Maomao's eye. Umaru declares Tower Day. The question *After?* stays on the board
+**Reading order:** 36
+**Continuity state:** The evening of floor 100 (Day 393). At the long table Mau tells the whole house about the dawn Ruler ("you should not exist"; "we put him to rest"; the rough Ruler's Authority fragment, unused) and about the widened extraction notice and that he said no (the house has told Mau everything since S4; this time he tells the house). The newer arrivals react in their own ways. Senku, Maomao and Shoko examine the three components and can make nothing of them yet; the fruit does not rot, the water does not move, the seed is warm. They go into Senku's NOT YET box (from S4 V21, where the first bulb glowed one second) under Maomao's eye. Umaru declares Tower Day. The question *After?* stays on the board
 
 *When: Day 393, evening. The long table. Everyone is here, because Anko wrote COMPLETE across the bottom of the board, and the house read it before dinner. Ori has carried the gold fruit around all afternoon. She has not let anyone else hold it.*
 
@@ -41,6 +41,22 @@ The table was perfectly silent.
 He looked down the long table. At all of them.
 
 "Everyone in this house is someone from another world," he said. "Everyone. Every one of you." He was quiet. "I wanted you to know I said no. And I wanted you to hear it from me. Not find out later."
+
+He did not stop there. He had decided on the stair, coming down with his arm in a sling, that he would not stop there.
+
+"And this morning," he said. "Before the garden. There was something in front of it."
+
+He told them. The light. The hands nobody could see. Thirty soldiers in one fist. Kamish pulled out of the sky. His arm. Gojo's marble on the place next to it. The five seconds without the filter, with Ciel counting. Yuta's sword, and Rika's hand holding the edge open, and the katana.
+
+"It talked," he said. "At the end. It said I carry someone's door. It said *we put him to rest, a long time ago*." He looked at his hands. "It said I shouldn't exist."
+
+Nobody said anything.
+
+"The tower didn't let me keep it," said Mau. "It said *not eligible*. It gave me something else." He held up his right hand, the one not in the sling, and closed it on nothing. "A piece of what it had. The hand. Ciel says it's rough. It isn't mine yet." He opened his hand. "I'm not going to use it. Not soon."
+
+At the end of the table, Shoko put down her coffee.
+
+"Good," she said. That was all.
 
 * * *
 

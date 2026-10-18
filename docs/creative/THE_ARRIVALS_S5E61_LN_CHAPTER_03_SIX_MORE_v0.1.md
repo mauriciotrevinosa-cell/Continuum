@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 42 — Six More
+## Chapter 43 — Six More
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 42
+**Reading order:** 43
 **Continuity state:** The last six tests:
 - **Spear (20):** inside the reach.
 - **Cup (70):** waiting for it to fill, while the seated figure moves two fingers, impatient.

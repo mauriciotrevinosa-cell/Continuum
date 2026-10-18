@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 46 — He Will Work
+## Chapter 47 — He Will Work
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 46
+**Reading order:** 47
 **Continuity state:** The pin and the gift.
 - **The pin.** Gojo works out that lines must arrive somewhere, so he holds the Architect's drawing hand inside Infinity and the finger never finishes a line. Yuta's real Rika holds the other arm. The fifteen-times cup has caught enough for seconds of Bellion's whip and Igris's blade. Frieren's staff is at its face and Mau's katana at its throat. Cornered, the Architect is delighted: "Yes. Yes. He will work."
 - **The gift.** He draws a line with his eyes instead, under Frieren's island. She falls and the void drags at her floating. Mau drops the blade and the pin to catch her. In that clear instant, while Mau holds her over the nothing, the Architect puts his hand through the pale burn on Mau's chest and pushes something cold and black inside. Mau does not consent. A second heartbeat begins. "A gift. You will need it. You are still too small for what is coming."

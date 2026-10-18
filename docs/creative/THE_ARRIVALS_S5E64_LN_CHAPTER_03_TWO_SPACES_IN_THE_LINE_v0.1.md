@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 52 — Two Spaces in the Line
+## Chapter 53 — Two Spaces in the Line
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 52
+**Reading order:** 53
 **Continuity state:** Day 400, dawn, the north field. Shoko clears one remaking once the cup is above half. Kamish is remade, slowly and at real cost, with Ori watching and Shoko timing. The old dragon notices the second heart and says plainly that he is old and does not know it. He reminds Mau of the request he was raised with ("keep watch over a house"), which he has not yet been given the chance to do. The eight soldiers stand up for inspection and, unordered, leave two spaces in the line. Ori gives the soldiers their first line on *SHADOWS (NAMED)* and writes them as ten, with the two unmade remembered. Mau's eyes and chest are still healing. No combat, no new power
 
 *When: Day 400, first light. The cup has been refilling for three days, faster than it ever has. Shoko looked at the level last night by the only measure she has, which is Mau's face after two minutes of one standing shadow, and said: tomorrow, one. Not two. One.*

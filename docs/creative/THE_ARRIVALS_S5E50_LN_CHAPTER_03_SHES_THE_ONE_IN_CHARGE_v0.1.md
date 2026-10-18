@@ -1,32 +1,34 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 54 — She's the One in Charge
+## Chapter 55 — She's the One in Charge
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 54
+**Reading order:** 55
 **Continuity state:** The creator's Beru/Frieren sequence, part 2, kept intact. Mau remakes Beru (real cost from the reserve; no new life is created). Beru apologises to "the queen of my King" (the creator's "queen of his monarch") and swears never to be disrespectful again. Igris and the rest turn to look at Mau. Mau: "She's the one in charge." Frieren: "Correct." "Queen" is affection and comedy here, not marriage, coronation or a change to Fern's role. The house laughs, Himmel too. Ori's list grows
 
-*When: Day 364, dusk, a minute later. The north field. The white line has gone out of the sky. Gojo is lying in the long grass beside his stool. Where Beru stood, there is nothing.*
+*When: Day 364, dusk, a minute later. The north field. The white light has gone out of the sky. The laughter on the slope has gone uneven and then quiet. Frieren is kneeling in the long grass with her face against Mau's good shoulder. Where Beru stood, there is nothing at all.*
 
 Mau looked at his shadow.
 
-It stretched long and thin across the long grass from where he stood, toward the hills, darkening. Somewhere in it, in the cup, there was a shape. Broken. In pieces. The way Tank was in pieces. Not gone.
+It stretched long and thin across the long grass from where they knelt, toward the hills, darkening. Somewhere in it, in the cup, there was a shape. Broken. In pieces. Not gone.
 
-*He's there,* said Ciel. Her voice was very careful. Very level. The voice of someone trying extremely hard not to laugh. *All of him. In pieces. You can remake him.* A pause. *It'll cost. Not as much as raising him the first time. Still a good deal. You have enough. Barely.* Another pause. *Mau. She didn't hold back. At all.*
-
-*I know.*
-
-*He told her not to.*
+*He's there,* said Ciel. Very careful. Very gentle. *All of him. In pieces.* A pause. *Very small pieces. She broke every one of them. Smaller than Tank, smaller than anything.* Another pause. *You can remake him. It'll cost more than it should. That's all right.*
 
 *I know.*
 
-*I'm writing it down,* said Ciel. *The date. The time. "Everything you have." For posterity.*
+*She needed to,* said Ciel. *I think. I've been watching her for three days. I think she needed to.*
 
-On the slope, Gojo had stopped laughing long enough to sit up in the long grass. He was wiping his eyes with the back of his wrist. Then he looked at Frieren, standing in the grass with her staff lowered, and started laughing again, and fell back down.
+*I know.*
+
+On the slope, Gojo was sitting on his stool with his cup in both hands, watching the two of them in the grass, not laughing any more.
+
+Frieren lifted her face off his shoulder.
+
+"Do it," she said. Quietly. "Bring him back." She sat back on her heels. "I'm finished."
 
 * * *
 
-Mau knelt in the grass.
+Mau stayed kneeling in the grass.
 
 He put his hand flat on his own shadow, where it lay across the ground. He felt for the shape in the cup. Broken. All the pieces of it, scattered through the dark, where Frieren's light had sent them.
 
@@ -70,7 +72,7 @@ She looked back at Beru.
 
 She did not say anything.
 
-Beru looked at her for a very long time. The whole slope held its breath. Even Gojo, in the grass, had gone quiet.
+Beru looked at her for a very long time. The whole slope held its breath. Even Gojo, on his stool, had gone quiet.
 
 Then Beru walked toward her.
 
@@ -100,7 +102,7 @@ He looked past Frieren. Past the Ant King lying with his forehead on the ground 
 
 And on the slope, everyone else turned too.
 
-All of them. The fort. Kessoku. The five. The witches. Touka and Kaneki. Seiko on her bench. Fern with her ledger. Eren and Mikasa. Himmel with his arms folded. Gojo, sitting up in the grass with his blindfold half off. All of them turned their heads, slowly, from the elf and the shadow on the ground before her, to the boy kneeling by his own shadow in the long grass.
+All of them. The fort. Kessoku. The five. The witches. Touka and Kaneki. Seiko on her bench. Fern with her ledger. Eren and Mikasa. Himmel with his arms folded. Gojo, on his stool, with his blindfold half off. All of them turned their heads, slowly, from the elf and the shadow on the ground before her, to the boy kneeling by his own shadow in the long grass.
 
 Waiting.
 
@@ -120,7 +122,7 @@ Frieren did not look up from Beru.
 
 The slope exploded.
 
-It was not one sound. It was every sound at once. Gojo fell back down in the grass and laughed until he wheezed. Seiko cackled. Turbo Granny shrieked *What did she say? What did she say?* and Seiko said *Correct, she said correct*, and cackled harder. Kusuri wrote *CORRECT* on her slate in letters so large they filled it. Umaru stood up on the bench Seiko was not using and began a proclamation that nobody could hear. Milim flew straight up to the end of her ribbon and came down again, and Yuka did not even try to stop her. Ichika, in the middle of the fort, in her too-long sash, laughed without knowing why, because everyone else was.
+It was not one sound. It was every sound at once. Gojo fell off his stool at last, sideways into the long grass, and laughed until he wheezed, the real laugh this time, the one that had been waiting for three days. Seiko cackled. Turbo Granny shrieked *What did she say? What did she say?* and Seiko said *Correct, she said correct*, and cackled harder. Kusuri wrote *CORRECT* on her slate in letters so large they filled it. Umaru stood up on the bench Seiko was not using and began a proclamation that nobody could hear. Milim flew straight up to the end of her ribbon and came down again, and Yuka did not even try to stop her. Ichika, in the middle of the fort, in her too-long sash, laughed without knowing why, because everyone else was.
 
 And at the edge of the slope, a little apart, with his arms folded, Himmel laughed.
 

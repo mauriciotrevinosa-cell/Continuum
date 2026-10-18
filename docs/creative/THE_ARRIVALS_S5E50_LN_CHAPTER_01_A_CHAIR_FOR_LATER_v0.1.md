@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 52 — A Chair for Later
+## Chapter 53 — A Chair for Later
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 52
-**Continuity state:** Two rest days after floor 40 (Days 362–363), a comedy breather. Shoko forbids shadows until Day 364. The house hears about Beru's "later": Gojo has Wakana build him a chair; Umaru drafts duel rules; Fern worries; Frieren keeps counting the green book and does not discuss it; Ori asks Frieren if she is frightened, and she says no. Mau sleeps a great deal, his eyes under Shoko's wet cloth until noon on Day 363; Yuta heals his calves and forearms. No fight yet
+**Reading order:** 53
+**Continuity state:** Two rest days after floor 40 (Days 362–363), the house trying to laugh again after the long room (it does not quite manage, and the comedy has an edge). Shoko forbids shadows until Day 364. The house hears about Beru's "later": Gojo has Wakana build him a chair; Umaru drafts duel rules; Fern worries; Frieren keeps counting the green book and does not discuss it; Ori asks Frieren if she is frightened, and she says no. Mau sleeps a great deal, his eyes under Shoko's wet cloth until noon on Day 363; Yuta heals his calves and forearms. No fight yet
 
 *When: Day 362 and Day 363. Mau has slept for most of both. The cup is refilling, a little faster than it used to, Ciel thinks. Nothing can come out of his shadow until Shoko says so. Shoko has said so: Day 364. Dusk. Not before.*
 

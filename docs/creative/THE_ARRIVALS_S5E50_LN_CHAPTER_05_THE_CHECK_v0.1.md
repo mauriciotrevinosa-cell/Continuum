@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 56 — The Check
+## Chapter 57 — The Check
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-124)
 **Volume:** 30
-**Reading order:** 56
+**Reading order:** 57
 **Continuity state:** Day 366, evening, the clinic. For two mornings (365 and 366) Mau has gone to the tower without Shoko's check, the rule since the beginning. He went with a party each time (the house no longer lets him go alone) but asked nobody's leave and told Shoko nothing. Shoko finds out from the board at lunch and waits for him in the clinic. It is not a shouting match. She is his doctor, not his permission, and he skipped her because he knew she might say not today. Mau says what he has never said: in the Trial, the times he waited for someone to say it was all right were the times she died; on the north road he waited one second. Shoko answers as a doctor and as someone who once watched a friend become the strongest alone. She will not stop him, because she can't. She will not pretend it's medicine. Then she asks Frieren for one thing: take him somewhere that isn't the tower. This is the seed of the house's chosen days with him through V31. Fern adds a line to the ledger. No powers
 
 *When: Day 366, after dinner. The clinic lamp is lit. The board in the yard has two new lines under FLOOR on the third plank, and beside each, in Anko's hand, small: (No check.)*

@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 53 — One Free Shot
+## Chapter 54 — One Free Shot
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 53
-**Continuity state:** The creator's Beru/Frieren sequence, part 1. North field at dusk, well inside the lime, under Umaru's Ministry rules, with the house watching and Gojo on his stool. Beru challenges Frieren for the place at his King's side (closeness to Mau as guard and champion, not romance). Frieren accepts; Beru, confident, grants her one shot and promises not to move; she fires Zoltraak, angled upward so it goes into the sky and hits nothing else, and Beru is destroyed. Igris stands as witness. Part 2 (the remaking and the apology) follows
+**Reading order:** 54
+**Continuity state:** The creator's Beru/Frieren sequence, part 1. North field at dusk, well inside the lime, under Umaru's Ministry rules, with the house watching and Gojo on his stool. Beru challenges Frieren for the place at his King's side (closeness to Mau as guard and champion, not romance). Frieren accepts; Beru, confident, grants her one shot and promises not to move; she fires Zoltraak angled upward, and one would have been enough. She keeps firing, a storm of Zoltraak into the sky, breaking every falling piece, far past need, with the face from outside the clinic: what hurt Mau, mega-destroyed (DH-125). The slope does not laugh. Ori's face says do something; Mau kneels and puts his hand on her back ("It's gone"). Frieren: "He had his jaws in you… I still needed to do that." The laughter comes late and shaky (Gojo: "He gave her one"). Igris stands as witness. Part 2 (the remaking and the apology) follows
 
 *When: Day 364, dusk. The north field. The long grass is pale and dry. The ditch is dry. The fireflies have been gone for four weeks. Half the house is sitting on the slope below the red stake. Nazuna is on top of the stake, because Rule 3 says nothing gets hit that isn't the challenger or the challenged, and she wants to see it from up there.*
 
@@ -206,64 +206,122 @@ Beru spread his arms wider.
 
 "I am Beru," he said. "I am always ready."
 
-"Good," said Frieren.
+Frieren did not say *good*.
 
-And fired.
+She did not say anything.
+
+Mau, on the slope, saw her face, and his stomach went cold. It was not her careful face. It was not the face she wore for a thousand years of being careful. It was the face from outside the clinic, on the ground, three days ago, with her hands in the front of Fern's coat.
+
+He opened his mouth.
+
+She fired.
 
 * * *
-
-It was not the thin line she used on the soldier-ants. It was not even the white light she had put through his shoulder in the hive.
 
 It was Zoltraak.
 
-The killing magic. A demon's spell once, until humans studied it and made it theirs; the first spell every mage in her world learned to fear and then to cast. She had been casting it longer than most of them had been alive. It came out of the end of her staff with no sound at all. It was white, and then it was brighter than white, and it went up.
+The killing magic. A demon's spell once, until humans studied it and made it theirs. It came out of the end of her staff white and narrow and straight up along the angle she had knelt for, and went through Beru.
 
-Through Beru.
+Not through his shoulder. Through all of him. The whole tall thin dark shape. He was standing in the long grass with his arms spread wide and his head held high, and then he was standing in the middle of the light, and then he was not standing at all.
 
-Not through his shoulder. Through all of him. The whole tall thin dark shape. He was standing in the long grass with his arms spread wide and his head held high, and then he was standing in the middle of the light, and then he was not standing anywhere.
+One strike. That was all it needed. Everybody on the slope saw that it was all it needed.
 
-The light went on up.
+She fired again.
 
-Into the sky. Above the hills. A straight white line from the long grass of the north field to somewhere very high, where the first stars were coming out. It lit up the whole field, the whole slope, every face on it, white. And then it was gone.
+Into the place where he had been. Into the dark pieces still hanging in the air, falling. White. Up. Then again. And again. Zoltraak after Zoltraak, not one beam but a storm of them, straight up out of the north field into the darkening sky, so many and so fast that the whole slope went white and stayed white, every face on it, the red stake, Nazuna on top of it with her hands over her eyes.
 
-Where Beru had been, there was nothing.
+There was nothing left of Beru to hit.
 
-A few dark pieces, falling. Like ash. Like leaves. They fell slowly through the dusk and sank into the long grass, into the ground. Into the long thin shadow that stretched across the field from where Mau was standing.
+She kept hitting it.
 
-And were gone.
+Every piece. Every scrap of dark falling through the air. She found them. She found every one with a line of white light and broke it smaller, and smaller, and the pieces that were left went up into the sky with the light and did not come down.
+
+The beams were going higher than anything Mau had ever seen her cast. Higher than the clouds. Somewhere very far up, where the first stars were, the light kept going.
+
+Rule 3. Up. Not across. She did not hit the stake. She did not hit Nazuna. She did not hit the hills. She hit nothing but sky and the place where something that had once put its jaws in him had been.
+
+She did not stop.
 
 * * *
 
-Nobody said anything.
+On the slope, the laughter had not started.
 
-The whole slope was silent. The fort. Kessoku. The five. The witches. Touka and Kaneki. Seiko on her bench. Fern with the ledger. Eren and Mikasa. Himmel with his arms folded.
+Gojo had leaned forward on his stool with his cup down, ready, the way he had been ready for days. He had been going to laugh. Everyone had known he was going to laugh. He did not laugh. He sat on his stool with his bare eyes on Frieren, and on the light going up, and his face went very still.
 
-Igris, standing a pace behind Frieren and to her left, had not moved at all.
+Seiko was not cackling.
 
-Frieren stood up. She brushed the grass off her knee. She lowered her staff.
+Shoko had stood up.
 
-She looked at the place where Beru had been.
+At the front of the slope, the fort had stopped staring at the empty place in the grass. They were staring at Frieren. Milim had her mouth open. Yuka had her hand on Milim's arm. Ichika had hidden her face in Touka's coat. Ori was not hiding. Ori was looking at Frieren with an expression Mau had never seen on her face, and then she looked up the slope at him.
 
-Then she looked at Mau.
+*Do something*, said Ori's face.
 
-"One strike," she said.
+* * *
 
-Mau could not say anything.
+"Frieren," said Mau.
 
-On the slope, very slowly, Gojo fell off his stool.
+He was on his feet. He did not remember standing. He was walking down the slope, through the long grass, toward her, on legs that Yuta had knitted back together the day before, with the white light going up in front of him.
 
-He did not fall far. It was a stool. He went sideways off it into the long grass and lay there on his back with his arms over his face, and made a sound. It took everyone a moment to understand it was laughing. Silent at first. Then not silent. Then so loud it went out across the north field the way Beru's voice had. Wakana looked at the empty stool with a betrayed expression. Gojo lay in the grass beside it, laughing until he could not breathe, with his blindfold half off and tears running down his face.
+"*Frieren*."
 
-"*One*," he managed. "*One strike*. He *gave* it to her. He said *everything you have*. He said *I will not move*—"
+The light kept going.
 
-Shoko, on the bench, had her hand over her mouth.
+He reached her. She was still kneeling. Still firing. Her face was dry. Completely dry. Her eyes were on the sky and her staff was steady and her hands were white on it.
 
-Seiko was cackling.
+He knelt down beside her in the long grass. He did not touch the staff. He put his hand on her back. Flat. Between her shoulders. The way she put her hand on his chest at the reset hour.
 
-Kusuri was writing on her slate so fast the chalk broke.
+"It's gone," he said. "He's gone. There's nothing left."
 
-And the fort, at the front of the slope, all of it, Ori and Umaru and Yuka and Milim, and Ichika in her too-long sash, stared at the empty place in the long grass with their mouths open.
+The light stopped.
 
-Then Milim said, very quietly, in a voice of total awe:
+All at once. The last beam going up and up into the dark until it was a star, and then not even that. The north field went dark. The slope went dark. Every face on it, dark, and very quiet.
 
-"*She one-shot him.*"
+Frieren lowered her staff.
+
+She did not look at him. She looked at the place where Beru had been. At nothing. At grass.
+
+"He had his jaws in you," she said.
+
+Very quietly. Level. Too level.
+
+"I know."
+
+"In your shoulder. Twice. He was eating you." She did not look away from the grass. "I was standing four paces away. I had a spell in my hand. The notice said I couldn't—" She stopped. "You were saying *I'm all right* with your eyes bleeding and I couldn't do anything."
+
+"I know."
+
+"So I did it now," said Frieren.
+
+She turned her head and looked at him at last.
+
+"I know he isn't the same," she said. "I know he'll come back when you remake him. I know he'll be yours and he'll say *my King* and he'll be very loud and Ori will add a line." Her voice did not change. "I know all of it. I said so myself, in the hive. *They're what you ask them to be.*" She looked at the grass. "I still needed to do that."
+
+Mau did not say anything.
+
+He put his arm round her. She let him.
+
+* * *
+
+On the slope, very quietly, Milim said:
+
+"That wasn't one."
+
+Nobody answered her.
+
+Gojo got up off his stool. He did not fall off it. He stood up slowly, and picked up his cup, and looked at the two of them kneeling in the dark grass, and then at the sky where the light had gone.
+
+"No," he said. "It wasn't."
+
+He sat back down.
+
+Then, after a long moment, he did laugh. Once. Not his usual laugh. Something smaller, with something wet in it.
+
+"*One free shot*," he said. To nobody. "He gave her *one*."
+
+And somewhere at the front of the slope, Seiko started cackling after all, and then Kusuri, and then Milim, and the laughter came, late, a little shaky, a little too loud, the way laughter comes after a thing that frightened everybody and is over.
+
+Frieren, in the grass, put her face against Mau's shoulder. The good one.
+
+He felt her laugh too. Once. Into his shirt.
+
+Or it might have been the other thing.

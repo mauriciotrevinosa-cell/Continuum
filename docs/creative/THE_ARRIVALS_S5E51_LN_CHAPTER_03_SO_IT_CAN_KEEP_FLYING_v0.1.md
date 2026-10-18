@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 59 — So It Can Keep Flying
+## Chapter 60 — So It Can Keep Flying
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 59
+**Reading order:** 60
 **Continuity state:** The extraction of Kaisel, which does not speak. Mau is already on the island (he jumped). Milim carries Yuka across and Frieren floats over; Frieren saw him count "the far end first" and that is why she did not stop him. He raises Kaisel with the intention Milim asked for. The wing is whole in the shadow form. Floor 50 interface change: registration places rise from ten to twenty. The floor 50 transfer point is secured. Mau reaches level 52 (one hundred and fourteen unspent), with six registered shadows. The first ride: Kaisel carries Mau (and then Milim flies beside them) in a short loop between the islands, at a real reserve cost. It is a mount with load and time limits, not free flight. Milim names nothing; the notice already did
 
 *When: Day 368, afternoon. Floor 50. A low floating island with a single twisted tree, a stone's throw from the white edge of the cloud stair. Lantern has gone back into the shadow. Kaisel lies in the grass. Mau is sitting beside it with his left thigh bound in Milim's sash. Milim is standing by the tree with her back to it, looking at the sky.*

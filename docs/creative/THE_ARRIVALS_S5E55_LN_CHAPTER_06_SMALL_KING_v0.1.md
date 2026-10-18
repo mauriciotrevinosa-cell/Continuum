@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18; rewritten for DH-124)
 **Volume:** 31
 **Reading order:** 18
-**Continuity state:** Day 378, mostly from the screen. Gojo, Frieren and Yuta are thrown out of the frame onto the dry ground, and the frame shows only "Trial in progress. Operator only." Nobody can go in. Gojo's eyes cannot see through, Yuta cuts at the frame, Frieren stands at it and does not move. Rimuru feels a pressure down Ciel's thread that he last felt in a cave, and knows it: the True Dragon scale the Noise built from his memory in the containment. Forty minutes later the frame opens ("Party size restored"). They run in and find Mau on the black stone in a pool of blood, curled inside the shadow of Kamish, which lifts its head and guards him until Frieren steps forward. Kamish speaks: "small king… not small"; he said her name in his sleep; it keeps watch until they came. Yuta heals what he can; Gojo carries him home. Nobody knows who changed the party size. Level 72 (one hundred and fourteen unspent). Eight registered shadows, four of them in pieces (Lantern, Igris, Beru, Kaisel)
+**Continuity state:** Day 378, mostly from the screen. Gojo, Frieren and Yuta are thrown out of the frame onto the dry ground, and the frame shows only "Trial in progress. Operator only." Nobody can go in. Gojo's eyes cannot see through, Yuta cuts at the frame, Frieren stands at it and does not move. Rimuru feels a pressure down Ciel's thread that he last felt in a cave, and knows it: the True Dragon scale the Noise built from his memory in the containment. Forty minutes later the frame opens ("Party size restored"). They run in and find Mau on the black stone in a pool of blood, curled inside the shadow of Kamish, which lifts its head and guards him until Frieren steps forward. Kamish speaks: "small king… not small"; he said her name in his sleep; it keeps watch until they came. Yuta heals what he can; Gojo carries him home. Nobody knows who changed the party size. Level 72 (one hundred and fourteen unspent). Eight registered shadows, four of them in pieces (Lantern, Igris, Beru, Kaisel). DH-125: at the screen Gojo tells Anko what they saw (the first breath nearly broke two spaces, and Kamish was holding back for four); finding him, Frieren holds the sound in her teeth, Yuta says no-no-no, Gojo's hands won't stop shaking ("We barely held its first breath. Four of us. He held the real one. Alone."). The yard sees him carried like a child; Momo, Himmel, Kaneki; Maki on her knees by the frame; Touka holds Ori, who counts his breaths. Shoko works six hours; Fern makes the house eat; "He's alive"; Frieren goes in without crying; Shoko breaks on the step and Gojo sits beside her
 
 *When: Day 378, the screen. The middle of the morning. Anko is at the board with the pencil behind her ear. Rimuru is on the bench, because he always sits on the bench now when Mau is in the tower. Across the yard, Taihei is washing up after the four o'clock breakfast.*
 
@@ -57,6 +57,16 @@ He cut again.
 Yuta stopped. He stood in front of the frame with his sword up and his chest heaving.
 
 "He's alone in there," said Yuta. "With that. He's alone."
+
+Gojo did not answer him. He was looking at the frame. When he spoke, it was very quiet, and it was not to Yuta. It was to Anko, at the board, because somebody had to know.
+
+"It breathed once," he said. "While we were there. Before." He swallowed. "The four of us. Two spaces. Mine round Yuta, his round Frieren. It nearly broke both. In one breath." He looked at his own hands. "And it wasn't trying. I could see it. It was holding back. Because there were four of us. It was being *careful*."
+
+Anko's pencil had stopped.
+
+"And now there's one," said Gojo. "And it's got no reason to be careful at all."
+
+Nobody said anything after that.
 
 * * *
 
@@ -218,6 +228,16 @@ She bent down until her ear was against his mouth.
 
 "…said they'd come," said Mau. A breath. Hardly anything. "Told him."
 
+Frieren made a sound.
+
+It was not a word. It came out of her the way it had come out of her on the ground outside the clinic after forty, except that this time she did not let it all the way out. She held it. She held it in her teeth. Her hands did not leave his face.
+
+Behind her, Yuta was saying *no, no, no*, very quietly, as he knelt, over and over, the way Mau had said it on the north road. Yuta did not know he was saying it.
+
+Gojo had stopped at the edge of the red. He was standing there with his blindfold up, looking at all of it, at every split and every crack, and his hands were shaking at his sides, and he could not make them stop. He had held Infinity against a dragon's breath an hour ago with those hands. He could not make them stop.
+
+"We barely held its first breath," said Gojo. To nobody. "Four of us." He looked at the glassy hollow where half the floor had been. "He held the real one. Alone."
+
 * * *
 
 Yuta was on his other side.
@@ -284,6 +304,26 @@ She did not say the time.
 
 She looked at what Gojo was carrying. At Frieren beside him, with blood to her elbows, holding Mau's black hand in both of hers. At Yuta, grey, swaying. At Rimuru.
 
+The yard saw too.
+
+It was the middle of the morning and the yard was full, the way it was always full when he was in the tower, everyone pretending to be busy within sight of the screen. They saw Gojo come through with him. Not held up between two people, this time, the way he had come back from forty. Carried. Like a child. Like something broken that had to be held together in the carrying. One arm hanging down, black to the wrist. The left side of his head without its hair. Red everywhere, red on Gojo's shirt and Gojo's arms and Gojo's face where he had wiped it without noticing.
+
+Momo did not drop anything this time. She put the knife down very carefully on the board and put both her hands flat on the counter and stood like that, not moving.
+
+Himmel, at the gate, took two steps toward the screen and stopped, because he did not know what he would do when he got there.
+
+Kaneki came out from the kilns, which he never did in daylight, and stood at the edge of the timber yard with his hands at his sides.
+
+On the back step, Ori stood up.
+
+Maki was not behind her this time. Maki was on her knees in the dry ground beside the screen, where she had been since the frame went dark, because Yuta had been in there and come out and could not go back in, and Maki had sat down beside the frame and not got up.
+
+So it was Touka. Touka, from the kitchen door, with Ichika on her hip, who saw Ori stand up and saw her face and crossed the yard in four strides and put her free arm round her. Ori did not look at Touka. She looked at what Gojo was carrying, and her mouth started to move.
+
+Counting.
+
+Touka bent down to hear. She did not need to. She knew what it was.
+
 Shoko was already there. She had been there since the frame went dark. She did not say anything either. She looked, once, and turned round and walked very fast toward the clinic, and Gojo followed her.
 
 Anko went to the board.
@@ -303,6 +343,36 @@ She wrote under it.
 And under that, smaller, the line she always wrote, and had never in all her years written with her hand shaking like this:
 
 *Shoko.*
+
+* * *
+
+Shoko worked for six hours.
+
+Nobody left the yard. Not for lunch. Not for dinner. Taihei made both and brought them out and put them on the bench and nobody ate either, and then at the end of the day Stark ate a bowl, slowly, because Fern told him to, and then Fern ate one, and then, one by one, because Fern had, the others did.
+
+At dusk, Shoko came out.
+
+She stood in the clinic door for a long time with her hands hanging at her sides and blood to her elbows and her coffee somewhere behind her, cold since morning. She looked at the yard. At all of them.
+
+"He's alive," she said.
+
+Nobody moved.
+
+"Six ribs. Both lungs bruised. His left hand—" She stopped. "His left hand will work. I don't know how well. Not soon. The splits will close. They'll scar. All of them." She took a breath. "He lost more blood than I've ever seen anyone lose and keep. Yuta gave him what he had. Rimuru gave him what he had, down the thread, until Diablo made him stop." She looked at Frieren. "He'll live."
+
+Frieren, on the step, did not cry.
+
+She had not cried all day. She had sat on the clinic step with her staff across her knees and her hands red and dried and her face perfectly still, and she had not cried, and she did not cry now.
+
+She stood up. She walked past Shoko into the clinic.
+
+Through the open door, the yard heard the chair scrape. Then nothing.
+
+Shoko stood in the doorway a moment longer. Then she sat down on the step, where Frieren had been. All at once. She put her face in her red hands.
+
+Gojo sat down beside her.
+
+He did not say anything. He did not touch her. He sat there.
 
 * * *
 

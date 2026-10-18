@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 54 — Five Minutes a Day
+## Chapter 55 — Five Minutes a Day
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 54
+**Reading order:** 55
 **Continuity state:** Igris and Beru with voices at home. Shoko allows five minutes a day of standing shadows in the yard once the cup allows. Beru apologises to Frieren every morning, and she stops him by the third day. Igris is dry and formal, with his own judgement, and corrects Beru. Ichika is not afraid of Beru, and he is gentle with her ("hungry to keep"). Touka is wary, then less so. Tank is remade quietly (a smaller cost than Beru). Neither shadow becomes a drone, a night guard or a weapon in the house; the night shifts come later
 
 *When: Day 365 to Day 367, mornings, a little after dawn. The back step. Touka's coffee. Five minutes, by Shoko's watch, which Shoko has lent to Ori for the purpose, because Ori asked to be the one who counts.*

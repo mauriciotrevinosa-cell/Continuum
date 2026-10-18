@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 58 — The House Lights Its Own
+## Chapter 60 — The House Lights Its Own
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 58
+**Reading order:** 60
 **Continuity state:** V30 closes on the seventh night (Day 368 = 81 + 7x41). Shoko permits three minutes of flight over the house, inside the lime, low. Kaisel carries Mau and Ori; Frieren floats beside them; Milim is told to stay with the roof (and does, on Yuka's ribbon). From above they see the whole house lit: every room, the kilns with three people, the room with two windows, the chalked corner, the ink tree, Nazuna on the red stake. Ori names it in a sentence. No threat at the volume's end
 
 *When: Day 368, night. The seventh night. The roof. The hatch has squeaked five times. Below, in Seiko's room, the crackers table is meeting. Above, the stars are out over the hills, and the small steady one is low and a little apart. Shoko is on the roof too, tonight, which she never is, with her watch.*

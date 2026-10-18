@@ -1,22 +1,24 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 55 — The Cloud Stair
+## Chapter 57 — The Cloud Stair
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 55
-**Continuity state:** Floors 41–48 summarised from Anko's board (three days of parties, with the five minutes at dawn continuing at home). Floor 49 (Day 368 morning) with Mau (owner), Frieren, Milim and Yuka: a stair of cloud climbing into open sky, where the wind is the danger; Yuka's rope and Milim's flight; at the top, the fifth guardian's floor is plainly a sky. Mau reaches level 51 (one hundred and nine unspent). No extraction
+**Reading order:** 57
+**Continuity state:** Floors 41–48 summarised from Anko's board: parties every time now, but Days 365–366 without Shoko's check (see "The Check"); Day 367 is "not today" (the river bend with Frieren); 46–48 before dawn on Day 368, checked. Floor 49 (Day 368 morning) with Mau (owner), Frieren, Milim and Yuka: a stair of cloud climbing into open sky, where the wind is the danger; Yuka's rope and Milim's flight; at the top, the fifth guardian's floor is plainly a sky. Mau reaches level 51 (one hundred and nine unspent). No extraction
 
-*When: Day 368, morning. The seventh night falls tonight. Anko's board has a third plank now. Under FLOOR on it: 41 to 48, eight lines in three days, because cleared floors are quick to walk and the house has decided to stop being careful about being careful. Under today: 49, then 50.*
+*When: Day 368, morning. The seventh night falls tonight. Anko's board has a third plank now. Under FLOOR on it: 41 to 48, over four days, because cleared floors are quick to walk. Two of the lines have *(No check.)* beside them, and one line has no floor at all. Under today: 46, 47, 48 already done before dawn. Then 49, then 50.*
 
 The third plank had gone up on Day 365, the morning after the north field.
 
 Anko had nailed it up herself. Then she had stood back from the board and looked at all three planks for a long time. Forty-eight floors. Thirty-odd parties. Nearly every name in the house somewhere on it.
 
-*Day 365. Mau, Yuta, Maki, Kaneki. From 40. Floor 41: a field of mirrors. Kaneki listened. Floor 42: rain upward. Cleared, both.*
+*Day 365. Mau, Yuta, Maki, Kaneki. From 40. Floor 41: a field of mirrors. Kaneki listened. Floor 42: rain upward. Cleared, both.* *(No check.)*
 
-*Day 366. Mau, Rem, Ram, Fern. From 40. Floor 43: a clock tower. Ram fixed it with one breath of wind. Floor 44: a forest of paper. Fern's lights did not burn it. Floor 45: a flooded street. Again. Cleared, all three.*
+*Day 366. Mau, Rem, Ram, Fern. From 40. Floor 43: a clock tower. Ram fixed it with one breath of wind. Floor 44: a forest of paper. Fern's lights did not burn it. Floor 45: a flooded street. Again. Cleared, all three.* *(No check.)*
 
-*Day 367. Mau, Gojo, Stark, Eren. From 40. Floor 46: sand. Floor 47: a bridge again. Igris held the far end again. Floor 48: a garden with a gate that would only open for someone who had never been angry. Eren could not open it. Stark could not open it. Gojo could not open it. Mau opened it. Gojo is still talking about it. Cleared, all three.*
+*Day 367. Not today. (Shoko.) (He heard it.) (Frieren took him to the river bend. They came back at dark. He had not climbed anything.)*
+
+*Day 368, before dawn. Checked: fine. Mau, Gojo, Stark, Eren. From 40. Floor 46: sand. Floor 47: a bridge again. Igris held the far end again. Floor 48: a garden with a gate that would only open for someone who had never been angry. Eren could not open it. Stark could not open it. Gojo could not open it. Mau opened it. Gojo is still talking about it. Cleared, all three.*
 
 Under that, in Gojo's hand, added without permission:
 
@@ -34,7 +36,7 @@ And under that, in Mau's hand, added the same evening:
 
 "He's never asked before."
 
-"Mikasa had the north end yesterday," said Mau. "Himmel had it the day before. Eren had an afternoon with nothing in it." He paused. "He came to breakfast and said, *if there's room.* That was all."
+"Himmel has the north end today," said Mau. "Eren had a morning with nothing in it." He paused. "He came to the clinic door while Shoko was looking at my eyes and said, *if there's room.* That was all."
 
 Yuka looked at the board. At Eren's name, between Gojo and Stark.
 

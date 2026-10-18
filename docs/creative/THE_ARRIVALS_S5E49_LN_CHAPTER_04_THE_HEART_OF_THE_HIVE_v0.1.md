@@ -8,7 +8,7 @@
 - It is faster than his attention and opens his back in three claw-lines.
 - He thinks instead of reacting: it heals by eating, so he takes the food away. From his bag of watched patterns he uses a rough copy of Momo's psychokinesis to throw the soldier-ant remains down the side tunnels, and a rough copy of Okarun's Granny-speed in the legs to drag Beru into the empty middle of the hive.
 - Both are wrong-handed. The first costs the space reserve; the second tears his legs.
-Igris holds; Gojo's marble; Frieren's Zoltraak takes an arm; it goes for her and stops a finger's width away, with Mau holding the space from the floor. Then the pull, and Igris. Mau cannot walk afterwards. No permanent unlock
+It is not enough. Beru learns the shape of the borrowed speed and waits where it ends; it puts a claw through Igris's chest; it eats every wound away; then it takes Mau's shoulder in its jaws and starts to eat him alive. Companions assist and cannot carry. Mau asks Ciel to take the Six Eyes filter off completely, and she does. The chapter ends there. No permanent unlock
 
 *When: Day 361, morning outside. The seventh night falls tonight. Taihei made breakfast at four and stood over Mau until he ate all of it. Five hours agreed, from thirty, because of the walk through the hive.*
 
@@ -238,156 +238,128 @@ His legs were tearing. He could feel it. Something in the right calf, a long rip
 
 *Then twenty seconds.*
 
+It was not twenty seconds.
+
+It was eleven.
+
+On the eleventh, the Ant King stopped following him.
+
+It stopped in the middle of the chamber, in Frieren's wonky lights, with its purple-red eyes on him, and it did not move at all. Mau stood ten paces away on legs that were coming apart and waited for it to come.
+
+It did not come.
+
+It watched.
+
+He moved. Okarun's speed. Across the chamber, to the left, away from the walls, the way he had been doing it.
+
+It was there when he arrived.
+
+Not chasing. Waiting. Standing exactly where he had gone, as if it had known before he did. Its claws were already moving. He went again, right, fire in his calves, and it was there too, a breath ahead of him, and the claws took him across the ribs this time, and he went down on the packed earth and rolled and came up and went again—
+
+It was learning.
+
+*It's learning you,* said Ciel. *Your speed has a shape. It has watched the shape six times. It knows where the shape ends.*
+
+It was the most frightening thing she had ever said to him.
+
+* * *
+
 "*Igris*," he said.
 
-* * *
+Igris was already there. He crossed the open middle of the hive in four long strides and came between Mau and the Ant King with his long sword already moving. Blade and claw, blade and claw, so fast Mau's eyes behind their filter could barely follow.
 
-Igris was already there. He had been standing over the place where Tank broke, waiting for the word. He crossed the open middle of the hive in four long strides and came between Mau and the Ant King with his long sword already moving.
+The Ant King did not try to get round him this time.
 
-He went at it. Not unhurried, this time. Fast. The long sword going round in a flat arc at the Ant King's neck. The Ant King turned it with one claw and went past, under, round, the way it had gone round Yuta's sword. Igris turned with it. He had seen what it did to Yuta. He did not let it get round. Blade and claw, blade and claw, so fast Mau's eyes behind their filter could barely follow. The knight and the thing that had eaten the bear, in the middle of the dark chamber, far from the walls and the food, in Frieren's wonky lights.
+It went through him.
 
-Mau let Okarun's speed go. His legs went with it. He fell onto the packed earth and lay there and watched, because watching was all he had left.
+Not cleanly. Not easily. It took the long sword on its armoured forearm, let the blade bite, let the blade stay there, stuck in the black plate, and while Igris's sword was caught it put its other claw into the knight's chest. Into the dark armour. Through it.
 
-Igris was holding it.
+Igris did not fall. Igris was a shadow; he did not fall the way a man falls. He held. He held the Ant King's arm with his sword stuck in it, and the Ant King's claw in his chest, and he did not let go.
 
-Only holding it. Not winning. Mau could see that. Every exchange, the Ant King pressed a little harder. Igris gave a little ground. A step. Another.
+*He's holding,* said Ciel. *Mau, he's breaking. A minute. Less. The cup—*
 
-The thread was going out of the cup. Fast. Igris standing and fighting, full speed. Five and a half times deep, and Mau could feel it going.
+Gojo's marble went past the Ant King's head. Close. It pulled. The Ant King leaned with it, a hand's breadth, and leaned back, and did not let go of the knight.
 
-*Two minutes,* said Ciel. *Maybe three. Then you'll need to pull him back or you won't have anything for the extraction.*
+Frieren fired. A thin precise line, at the joint of the arm holding Igris. It went in. The Ant King took it, the way it had taken everything, and bent and picked up a soldier-ant from the floor at its feet, one he had not thrown, one he had missed, and ate it with its jaws while its claw was in Igris's chest. The wound Frieren had made closed while it chewed.
 
-"*Gojo*," said Mau.
+Mau lay on the packed earth where he had last fallen and looked at it.
 
-"I see it," said Gojo.
+At the thing that was faster than his attention, and stronger than his knight, and learned the shape of everything he did, and ate every wound away.
 
-He had his hand up. Two fingers out. A small blue marble at the end of them. He was not throwing it. He was watching. Waiting. His bare eyes on the knight and the Ant King, on every movement, every step.
+He had used the space. He had used the pull. He had used Momo's hands and Okarun's legs. He had used Igris and Tank and every trick Gojo had ever taught him in the yard.
 
-"Not yet," he said. "Not yet. Not—"
+It was not enough.
 
-The Ant King pressed. Igris gave ground. One step. And for the length of that step, the Ant King's weight was all on its front foot, leaning into the knight. Its back to Gojo. Its line straight.
-
-"*Now*," said Gojo, and flicked the marble.
+It was not going to be enough.
 
 * * *
 
-It did not hit the Ant King.
+The Ant King pulled its claw out of Igris's chest.
 
-It went past it. Behind it. A hand's breadth from its back. And then it pulled.
+It looked at Mau.
 
-The Ant King's weight was all on its front foot, leaning forward into Igris. The pull came from behind. Small. A marble's worth. Not enough to move it far.
+Then it was on him.
 
-Enough to move it off its line.
+He did not see it cross the chamber. He felt the weight. It came down on him on the packed earth, a blur of black, all claws and jaws and hunger, and the space came up too late and too thin and broke like a plate, and the jaws closed on his left shoulder.
 
-It staggered. Backward. One step. Toward the marble. Its claws came off Igris's blade.
+He screamed.
 
-And Frieren, who had been waiting behind Mau with her staff raised for the whole of the exchange, fired.
+He had not screamed on twenty. He had not screamed on thirty with his collarbone gone. He screamed now. The jaws went into his shoulder and through it and he felt them meet, and the Ant King did not let go, it shook him, the way a dog shakes something it means to tear apart, and the claws came in at his sides, his arms, his ribs, opening him, and he understood with perfect cold clarity that it was not trying to kill him.
 
-Zoltraak. Not a thin line this time. The real thing. The killing magic, the one that had once been a demon's and that humans had studied until it was theirs. It came out of the end of her staff and went straight across the chamber, white, and through the Ant King's left shoulder. Through the armour. Through the place where the arm joined. And out the other side, into the dark wall of the hive.
+It was trying to eat him.
 
-The Ant King screamed.
+Alive. In pieces. The way it had eaten the bear.
 
-It was not a sound Mau had heard anything make. It filled the whole chamber, the whole hive. It went on and on.
+"*MAU*—"
 
-Its left arm hung.
+Frieren. A line of white light. Gojo's marble. Yuta, on his feet, his opened arm forgotten, his sword up, Rika's presence round him like weather—
 
-It turned toward Frieren. Its purple-red eyes found her, behind Mau, with her staff still raised.
+*Companions may assist.*
 
-And Mau saw it decide something.
+*Companions may not carry.*
 
-It did not go for the soldier-ants along the wall, to eat and heal. It went for her.
+The Ant King let go of his shoulder, because Yuta's blade was coming, and it turned to meet it, and Mau lay on the floor of the hive in his own blood with his shoulder open to the bone and his arms opened and his legs torn and his back opened in three lines, and saw it all.
 
-* * *
+And knew what was left in the bag.
 
-Mau put the space in front of her.
-
-All of it. Everything he had for the space, in one place. Thick and hard and flat, between Frieren and the thing coming at her. The way he had put it at the side of his head against Igris's pommel on twenty.
-
-The Ant King hit it.
-
-It stopped. Dead. Not slowed. Stopped. A finger's width from Frieren's face.
-
-Her hand was up. Her staff. She did not flinch. She looked at the Ant King's jaws, a finger's width from her face, open, stopped. At its purple-red eyes, very close. She did not look away.
-
-*A finger's width.*
-
-Mau felt something in his chest go cold. Frost, at the edges. Flowers.
-
-*Not here.*
-
-He held the space.
-
-And Igris came down on the Ant King from behind with the long sword. Not at the neck. At the hanging left arm, where Frieren's Zoltraak had gone through. The arm came off.
-
-The Ant King turned, screaming, toward the knight.
-
-Mau let the space in front of Frieren go. All at once. And put everything he had left, everything, into one small hard point. Not a wall. A point. The way Gojo made the marble. The way the space and the pull were the same thing, turned inside out. He put it at the place where the Ant King's head met its neck, where the armour was finest, while its back was to him.
-
-And pulled.
-
-The Ant King's head came back. Hard. Toward the point. Its whole body arched. Its throat was open for one moment.
-
-Igris's sword went through it.
+The thing he was never supposed to touch.
 
 * * *
 
-The Ant King stopped.
+*Ciel.*
 
-It stood very still in the middle of the dark chamber. Its left arm was gone. Its head was pulled back. Igris's long sword was through its throat.
+*No.*
 
-Then it went down.
+She knew. Before he said it. She always knew.
 
-Not kneeling, like Igris on twenty. Falling. All at once. Long-limbed and broken, onto the packed earth of the hive.
+*Ciel. The filter.*
 
-The purple-red eyes stayed open. They were on Frieren.
+*No. Mau. No. You don't know what happens. Nobody knows. The guardrails—the last time they were unfiltered, you slept and they went down into the room and kept going, and you nearly—*
 
-Then they went dark.
+*I know.*
 
-* * *
+*You'll burn. Your eyes. Your head. Everything in it. You can't hold everything they'll show you. Nobody can. Gojo can't, without the—Mau. Please.*
 
-*Guardian defeated.*
+*Ciel.*
 
-Nobody moved.
+He was looking at the Ant King. At Yuta, holding it, his sword going round and round and the claws getting closer every time. At Igris, broken, still on his feet. At Frieren, with her staff raised, a finger's width from where a pair of jaws had once stopped.
 
-Mau stood in the middle of the chamber. His legs were shaking. The thing he used for the space and the pull was empty. Completely. The edges of everything looked thin, the way they had after Igris. Worse. The cup was low. Not empty. There was something in the bottom. Ciel had said three minutes. He had used two and a half.
+*It's going to go for her,* said Mau. *When Yuta falls. It's going to go for her. It already looked at her.*
 
-"Back," he said to Igris.
+Ciel did not answer.
 
-"My liege."
+*I stopped for one second on the road,* said Mau. *I'm not stopping now.*
 
-The knight pulled his sword out of the Ant King's throat and went down into the floor.
+A long silence.
 
-Mau turned round.
+The longest he had ever heard from her.
 
-Frieren was standing exactly where she had been. Her staff was still raised. She was looking at the place a finger's width from her face, where the jaws had stopped.
+*All of it?* said Ciel at last. Very quietly.
 
-Then she looked at Mau.
+*All of it.*
 
-"It stopped," she said. "A finger's width."
+*I'll be here,* said Ciel. *I'll hold what I can. I'll tell you when you're dying.* A pause. *I'm sorry.*
 
-"I know."
+*Don't be.*
 
-She lowered her staff. She crossed the chamber to him. She put both her cold hands on his face, one on each side, and held it, and looked at him.
-
-"It stopped," she said again. "A finger's width. And then you let it go and I was still here." She did not let go of his face. "This time it was you holding the space. This time the space was for me."
-
-Mau could not say anything.
-
-"Not a finger's width," said Frieren. "*Here*."
-
-Behind them, Gojo was crouched beside Yuta, looking at his arm with his bare eyes. Yuta's cursed energy was still going into it, warm. The long cut was closing, slowly, pink.
-
-"You'll scar," said Gojo.
-
-"I've got one already," said Yuta. "On my forehead. I'm used to it."
-
-"You'll have two."
-
-"Then Maki will have something new to look at," said Yuta, and almost laughed.
-
-Gojo looked at him. Then at Frieren with her hands on Mau's face. Then at the Ant King, lying broken on the floor of the hive with its dark eyes open.
-
-Under it, between the packed earth and the black armour, the dark was gathering. Deep. Deeper than Igris's. Deeper than anything yet.
-
-The notice came up.
-
-*Shadow extraction available.*
+She took the filter off.

@@ -1875,3 +1875,10 @@ Creator clarification: Mau did not get stronger; he LET GO, the Day 145 kind of 
    - The house starts guarding the screen: Fern for 15, Frieren, Yuta and Rem for 19, and Kaneki, Milim and Rem at 3 a.m. for 23–24.
    - Floor 20 notice: "single combat with the Operator".
    - Floor 30: Stark, Maki and Kaneki stop him at the bench (Stark's brother stood alone, "the loneliest thing"; Kaneki: "so you won't need us"). Anko writes *(Together.)* Maki leaves the spear for him ("Yours"). Mau finishes Tank with the pull at the spear tip; collarbone broken.
+3. **Floor 40 Beru (V30 #49 rewritten end, #50 "Unfiltered" new, #51 "My King" edited).**
+   - The bag is not enough: Beru learns the shape of the borrowed speed, puts a claw through Igris and starts eating Mau alive.
+   - Ciel removes the Six Eyes filter completely. Mau sees energy before muscle and locks in with the whole bag: one-heartbeat speed, every body thrown away by Momo's pattern, calling Gojo's marble and Frieren's Zoltraak, and letting Beru into his own forearm to hold it.
+   - He finishes it with his hand in the Zoltraak wound and the pull inside, and Igris's throat cut at his word.
+   - Ciel: dying for about 40 seconds; the filter goes back on. He is blind until noon on Day 363, shredded. Shoko: "He's killing himself to get somewhere. And he feels better every time he gets closer."
+4. **"The Check" (V30 new, Day 366).** Two mornings without Shoko's check. Mau names the Trial-second: the times he waited were the times she died. Shoko, the doctor and not his permission, tells the story of the "very annoying boy". Mau will hear the truth every morning. Day 367 is "not today". Shoko asks Frieren to take him "anywhere he can't climb", and Fern starts the ledger page *Days* (the house's chosen days through V31).
+5. **Floor 50 Kaisel.** Milim herds it but cannot finish it. Yuka's rope, then Frieren opens the wing (skin, not bone). Mau jumps off the cloud stair onto its back ("I didn't need to fly. I needed to land"); the barb goes through his thigh. He locks the wing with the pull, lands on a slanted space, Lantern pins, and Mau finishes it.

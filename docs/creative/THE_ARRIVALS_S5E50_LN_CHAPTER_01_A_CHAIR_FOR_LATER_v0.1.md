@@ -1,16 +1,16 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 51 — A Chair for Later
+## Chapter 52 — A Chair for Later
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 51
-**Continuity state:** Two rest days after floor 40 (Days 362–363), a comedy breather. Shoko forbids shadows until Day 364. The house hears about Beru's "later": Gojo has Wakana build him a chair; Umaru drafts duel rules; Fern worries; Frieren keeps counting the green book and does not discuss it; Ori asks Frieren if she is frightened, and she says no. Mau sleeps a great deal. No fight yet
+**Reading order:** 52
+**Continuity state:** Two rest days after floor 40 (Days 362–363), a comedy breather. Shoko forbids shadows until Day 364. The house hears about Beru's "later": Gojo has Wakana build him a chair; Umaru drafts duel rules; Fern worries; Frieren keeps counting the green book and does not discuss it; Ori asks Frieren if she is frightened, and she says no. Mau sleeps a great deal, his eyes under Shoko's wet cloth until noon on Day 363; Yuta heals his calves and forearms. No fight yet
 
 *When: Day 362 and Day 363. Mau has slept for most of both. The cup is refilling, a little faster than it used to, Ciel thinks. Nothing can come out of his shadow until Shoko says so. Shoko has said so: Day 364. Dusk. Not before.*
 
 Mau slept for most of Day 362.
 
-He could not have done anything else. His legs would not hold him, and his back was bound from shoulder to hip. He did not mean to sleep, though. He woke at the reset hour, the way he always did, and Frieren's cold foot touched his shin, and she said *one, still here*. Then he closed his eyes for a moment, and when he opened them again it was the middle of the afternoon. The light was gold through the east window, and Frieren was in the reading chair he had said no to, with the green book open on her knees.
+He could not have done anything else. His legs would not hold him, and his back was bound from shoulder to hip. He did not mean to sleep, though. He woke at the reset hour, the way he always did, and Frieren's cold foot touched his shin, and she said *one, still here*. Then he closed his eyes under Shoko's wet cloth for a moment, and when he woke again it was the middle of the afternoon. He knew by the warmth on his face through the cloth, and by the sound of pages. Frieren was in the reading chair he had said no to, with the green book open on her knees.
 
 "You slept," she said, without looking up.
 
@@ -22,7 +22,7 @@ He lay there.
 
 His whole body felt like it had been emptied out and filled again with something heavier. Not pain. Weight. The cup was almost dry. The thing he used for the space and the pull was dry. Ciel said both were refilling. Ciel said the cup was refilling a little faster than it used to. Ciel said *a little*, very firmly, the way she said things she did not want him to build on.
 
-He lay in bed and looked at the ceiling.
+He lay in bed and looked at the inside of the cloth. Red, still, faintly, when he moved his eyes under it. Less than yesterday.
 
 "Beru," he said.
 
@@ -198,7 +198,7 @@ Then she nodded, satisfied, and went back through the connecting door. A moment 
 
 Mau woke properly on the evening of Day 363.
 
-He sat up in bed. The light was gold. His back pulled under Shoko's bandages, three long tight lines. His legs answered him. They had not, the day before. Yuta had come twice, once each day, and sat on the end of the bed with his hands on Mau's calves for a long time, saying nothing, until the torn places had knitted enough to stand on. Shoko had watched from the door both times and said nothing either. The cup was not full. Not close. But there was something in it now. More than a thin layer. A real amount. Enough to raise one thing. Enough to remake one thing, maybe.
+He sat up in bed. Shoko had taken the cloth off at noon and looked into his eyes with a lamp for a long time and said *fine* in a voice that meant *barely*. The light was gold, and blurred at the edges, and it was the most beautiful thing he had ever seen. His back pulled under Shoko's bandages, three long tight lines. His legs answered him. They had not, the day before. Yuta had come twice, once each day, and sat on the end of the bed with his hands on Mau's calves for a long time, saying nothing, until the torn places had knitted enough to stand on. Shoko had watched from the door both times and said nothing either. The cup was not full. Not close. But there was something in it now. More than a thin layer. A real amount. Enough to raise one thing. Enough to remake one thing, maybe.
 
 *Tomorrow,* said Ciel. *Dusk. Shoko said. And you'll have enough for Beru to stand for a while. And for one remaking, if it comes to that.*
 

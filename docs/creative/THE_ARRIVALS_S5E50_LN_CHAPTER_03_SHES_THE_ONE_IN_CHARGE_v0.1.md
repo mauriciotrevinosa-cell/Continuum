@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 53 — She's the One in Charge
+## Chapter 54 — She's the One in Charge
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 53
+**Reading order:** 54
 **Continuity state:** The creator's Beru/Frieren sequence, part 2, kept intact. Mau remakes Beru (real cost from the reserve; no new life is created). Beru apologises to "the queen of my King" (the creator's "queen of his monarch") and swears never to be disrespectful again. Igris and the rest turn to look at Mau. Mau: "She's the one in charge." Frieren: "Correct." "Queen" is affection and comedy here, not marriage, coronation or a change to Fern's role. The house laughs, Himmel too. Ori's list grows
 
 *When: Day 364, dusk, a minute later. The north field. The white line has gone out of the sky. Gojo is lying in the long grass beside his stool. Where Beru stood, there is nothing.*

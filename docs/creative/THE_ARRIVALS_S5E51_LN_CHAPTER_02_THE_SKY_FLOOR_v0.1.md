@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 56 — The Sky Floor
+## Chapter 58 — The Sky Floor
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 56
-**Continuity state:** Floor 50 (Day 368 afternoon), the fifth guardian: open sky full of floating islands. Party: Mau (owner), Frieren, Milim and Yuka. The notice names it Kaisel, the Sky Wyvern. It is fast and dives from above. Milim flies with it and holds back on purpose; Frieren floats and fires; Yuka's rope catches a leg during a dive; Lantern stands in the air briefly against it. Frieren's Zoltraak takes a wing, and Kaisel falls onto an island and is finished there. Milim asks Mau to make it his "so it can keep flying". The deep reserve holds
+**Reading order:** 58
+**Continuity state:** Floor 50 (Day 368 afternoon), the fifth guardian: open sky full of floating islands. Party: Mau (owner), Frieren, Milim and Yuka. The notice names it Kaisel, the Sky Wyvern. It is fast and dives from above. Under the Operator rule Milim herds it but cannot finish it; Mau plans it aloud. Yuka's rope holds a leg, and Frieren's narrow light opens the near wing (skin, not bone). Mau jumps off the cloud stair on one heartbeat of borrowed speed onto its back ("I didn't need to fly. I needed to land"). The tail barb goes through his left thigh. He locks the wing with the pull, lands them on a slanted space, Lantern pins it, and Mau finishes it himself. Milim asks Mau to make it his "so it can keep flying". The deep reserve holds
 
 *When: Day 368, early afternoon. After lunch. Taihei insisted. Mau ate all of it. The seventh night falls tonight. Anko has written FIFTY (SKY) on the board and underlined it twice.*
 
@@ -78,162 +78,188 @@ Milim looked at him.
 
 She had been watching Kaisel the whole time, from the moment it came out of the sun. Her face had been doing the thing from that morning. The quiet thing. The thing that looked like recognition.
 
-"I know," she said. "I'll go up."
+"I can catch it," she said. "Easily. I'm faster."
 
-Yuka's hand tightened on the ribbon round her wrist.
+"I know."
 
-"Slower," said Yuka.
+"Then let me—"
 
-"I can't fight it slower," said Milim. "It's fast. It's the fastest thing I've ever seen." She looked at Yuka. "I'll fight it *gentler*. Is that all right? Not slower. Gentler." She paused. "I don't want to break it. It flies because it likes it."
+"You can't finish it," said Mau. "The notice." He did not take his eyes off the far speck against the cloud. "You can bring it to me. Close. Low. Over the island with the tree." He looked at her at last. "Then it's mine."
 
-Yuka looked at her for a long moment.
+Milim looked at him for a long moment. At the bandage still on his left forearm from forty. At the way he was standing, with his weight a little off his right calf.
 
-Then she untied the ribbon from her own wrist.
+"You can't fly," she said.
 
-She did not untie it from Milim's ankle. She left it there, red, trailing. She held the loose end out to Milim.
+"No."
 
-"Hold it," said Yuka. "So you remember it's there. So you remember to come back."
+"It flies."
 
-Milim took the end of the ribbon. She wound it round her own wrist, once, twice.
+"I know," said Mau. "So you bring it down to where I can jump."
+
+* * *
+
+Yuka's hand had tightened on the ribbon round her wrist.
+
+"Gentler," said Yuka.
+
+"I'll fight it gentler," said Milim. "Not slower. I can't do slower. It's the fastest thing I've ever seen." She looked at the speck. "I don't want to break it. It flies because it likes it."
+
+Yuka untied the ribbon from her own wrist. She left it tied to Milim's ankle, red, trailing. She held the loose end out.
+
+"Hold it," said Yuka. "So you remember to come back."
+
+Milim wound it round her wrist, once, twice.
 
 Then she went up.
 
 * * *
 
-Mau had seen Milim fly in the yard. In the fort. Over the long table. In the red gate, at the dragon. He had seen her float in her sleep on the end of a ribbon, and swoop down on Ichika, and go straight up to the ceiling in delight.
+Mau had seen Milim fly in the yard. In the fort. Over the long table. In the red gate, at the dragon.
 
 He had never seen her fly like this.
 
-She went up off the white edge of the cloud stair like something thrown. Not fast, at first. Then fast. Then faster than Kaisel, faster than anything, a small bright shape with pink hair and a red ribbon trailing from her ankle and wound round her wrist. She went straight up into the blue toward the dark wyvern climbing against the cloud.
+She went up off the white edge of the cloud stair like something thrown, a small bright shape with pink hair and a red ribbon, faster than Kaisel, faster than anything. Kaisel saw her coming and dove at her, and she did not hit it. She went past it, close, so close her shoulder nearly brushed its wing, turned in the air faster than it could turn, and came round beside it. And flew with it.
 
-Kaisel saw her coming.
+Not at it. With it. Wherever it went, she went. It banked round a floating island and she banked with it. It climbed and she climbed. Mau could hear her, faintly, across the sky. Laughing.
 
-It turned. It dove at her.
+"She's herding it," said Frieren.
 
-And Milim did not hit it.
+"Down," said Mau. "Toward the tree."
 
-She went past it. Close. So close her shoulder nearly brushed its wing. Then she turned in the air, faster than it could turn, and came round behind it. And she flew with it.
+He moved to the very edge of the cloud stair. Where the white ended and the blue began. The low island with the single twisted tree was a stone's throw out, below, with nothing under it but sky.
 
-Not at it. With it. Beside it. Matching it. Wherever it went, she went. It banked round a floating island and she banked with it. It climbed and she climbed. It dove and she dove beside it, a hand's breadth from its wing. Her face was turned toward it, and she was not fighting. She was laughing.
+"Mau," said Frieren.
 
-Mau could hear her. Faintly. Across the sky. Laughing.
+"When it comes round the tree," said Mau, not looking at her. "Yuka, the leg. Frieren, the wing. The near one. Through the skin, not the bone, so it can heal after." He took a breath. "Then I go."
 
-Kaisel did not know what to do.
+"Go *where*?"
 
-It twisted in the air. It snapped at her with its long narrow jaws. She was not there. She was on its other side. It lashed its tail at her. She went over it. It tried to climb away from her and she climbed with it, laughing, and it could not get away. Every time it tried to turn toward the cloud stair, toward the three people on the white edge, she was in front of it.
+He did not answer.
 
-"She's herding it," said Frieren. Very quietly.
+Frieren looked at the gap. At the sky under it. At him.
 
-"She's playing with it," said Yuka.
-
-"Both," said Frieren. "Look where she's taking it."
-
-Mau looked.
-
-Milim was bringing it down.
-
-Not fast. Turn by turn. Round one floating island and then another, lower each time. Each turn a little closer to the low island a stone's throw from the cloud stair. The one with the single twisted tree.
-
-"*Yuka*," said Mau.
-
-Yuka already had the rope off her shoulder. The long coil.
+She did not tell him not to. He would remember that. She lifted her staff.
 
 * * *
 
 Kaisel came round the twisted tree low and fast, with Milim on its tail.
 
-It came round the near side of the island, close, so close Mau could see the red sheen on its scales and the dull red of its eye. It was not looking at the three on the cloud stair. It was looking back over its shoulder at the small laughing girl it could not get away from.
+Close. So close Mau could see the red sheen on its scales and the dull red of its eye. It was looking back over its shoulder at the small laughing girl it could not lose.
 
-Yuka threw.
+"*Yuka.*"
 
-The long coil went out across the gap. The weighted end first. It wrapped round Kaisel's left leg, above the talons, the way it had wrapped round the guardian's ankle on ten. Yuka set her feet on the cloud and leaned back against it with everything she had.
+The long coil went out across the gap. It wrapped round Kaisel's left leg above the talons. Yuka set her feet on the cloud and leaned back with everything she had. It did not bring the wyvern down. It caught. For a heartbeat its flight went the wrong way, and it slewed sideways, wings spread, its near wing open broadside to the cloud stair.
 
-It did not bring Kaisel down. Kaisel was too strong. But it caught. For a heartbeat, the wyvern's leg was held. Its flight went the wrong way. It slewed sideways in the air, wings spread, half turned.
+"*Frieren.*"
 
-Its wing was open. Broadside. To the cloud stair.
+A thin line of white light, straight across the gap, through the leathery skin between two of the long ribs, near the body. Through the skin. Not the bone.
 
-Frieren fired.
+Kaisel screamed. The wing folded.
+
+And Mau jumped.
 
 * * *
 
-Not the full Zoltraak. Not the thing she had put through Beru in the north field. Narrower. Precise. A thin line of white light from the end of her staff, straight across the gap, through the open wing. Through the leathery skin between the long ribs, near the root, where the wing met the body.
+Okarun's speed. One heartbeat. Into his legs, both calves, the torn places from forty screaming as it went through them.
 
-Kaisel screamed.
+He went off the edge of the cloud stair into the open sky.
 
-The wing folded. It could not hold the air. The wyvern went down, turning, falling, onto the low island with the single twisted tree. It hit the grass hard and rolled, and the rope went slack in Yuka's hands, and she nearly went over backward on the cloud.
+He was not flying. He could not fly. He was a boy thrown across a gap with nothing under him but blue, at the exact moment a falling wyvern crossed the place where his throw would end, because he had watched it come round that tree twice and counted. He had not needed the eyes for that. He had needed Frieren's lesson from seven: *the far end first. Know where it will be.*
 
-Mau caught her arm.
+He hit Kaisel's back.
 
-Kaisel was on its feet. On the island. On two legs, with one wing folded wrong and the other spread wide for balance. Its long neck was up, its jaws open. Its dull red eyes found the cloud stair.
+Between the wings. Hard. All the breath went out of him. His hands found the ridge of scales along its neck and closed on it, and the wyvern bucked under him, screaming, one wing folded and one wing beating, and they went down together, turning, toward the island with the twisted tree.
 
-It was going to try to fly anyway. With one wing. Mau could see it gathering itself.
+Its tail came round. The barb on the end of it, like an arrowhead. It came round over its own back at him, the way a scorpion's does.
+
+He saw it. He could not get out of its way. He had both hands on its neck.
+
+It went through his left thigh.
+
+He did not let go.
+
+* * *
+
+The island came up at them.
+
+He put the small pull at the root of the beating wing. Inside the joint, where the wing met the body, where the muscle that moved it was. A marble. And let it pull.
+
+The wing locked. Both wings folded. Kaisel stopped being a thing that flew and became a thing that fell, and Mau was on its back, and the grass of the floating island came up at both of them like a wall.
+
+*Space,* he thought. *Under. Not over. Under.*
+
+He put it under them. Thin. Slanted. A ramp of nothing, a hand's breadth above the grass. They hit it and slid. Down it. Along it. Into the grass of the island, hard, rolling, the wyvern over him and then under him and then over him again, the barb still through his leg, tearing, and the twisted tree going past, and the edge of the island going past, and the sky.
+
+They stopped.
+
+At the very edge. Kaisel on its side in the grass with its wings folded under it. Mau half under its neck, half over the edge of the island, with his legs hanging over nothing and his hands still in the ridge of its scales.
+
+* * *
 
 "*Lantern*," said Mau.
 
-* * *
-
-The dragon came up out of his shadow on the white cloud, wings first, unfolding into the open sky.
-
-It was much bigger than Kaisel. Dark, with no shine, the two small cold lights in its skull. It went out across the gap toward the island with long slow beats of its great dark wings. Mau felt the cup start to go, the steady thread, faster for something that big.
-
-Kaisel saw it coming. It turned toward it on the island, jaws open, one wing spread.
-
-And Lantern came down on it.
-
-The way it had come down on the bear in the blizzard on thirty. Its whole dark weight on the wyvern's back. Pinning it to the grass of the floating island, under the single twisted tree, with its wings spread over both of them like a tent.
+The dragon came up out of his shadow on the grass, wings first, and came down on the wyvern's back before it could rise. Pinning it. Its whole dark weight, wings spread over both of them like a tent.
 
 Kaisel thrashed. Under the weight. Screaming.
 
 Then it stopped.
 
-It lay pinned in the grass with Lantern's dark weight on its back and its broken wing crumpled under it. Its long neck stretched out along the ground. Its jaws were closed now. Its dull red eye was open, looking up past Lantern's wing at the sky.
+It lay pinned in the grass with its long neck stretched out along the ground and its broken wing crumpled under it. Its dull red eye was open, looking up past Lantern's wing at the sky.
 
-At the open blue. At the floating islands. At the small bright shape coming down out of it, slowly, the right way up, with a red ribbon trailing from her ankle.
+Mau pulled himself up off the edge of the island. Onto the grass. With his arms, because his left leg had a barb through it and would not do anything he asked.
 
-Milim landed in the grass beside the wyvern's head.
+He looked at the barb. At the tail it was on. At the wyvern it belonged to.
 
-She knelt down. She looked at the dull red eye looking up at the sky.
+He pulled it out.
 
-She did not say anything for a long time.
+He did not scream. He made a sound. Then he sat in the grass beside the wyvern's head with his leg bleeding into the grass and breathed.
+
+Milim landed beside him.
 
 * * *
 
-"*Milim*," said Mau. From the cloud stair. Across the gap. "It has to be finished. Or the floor won't clear."
+She knelt down. She looked at the dull red eye looking up at the sky. Then at his leg.
 
-Milim did not look round.
+"You jumped," she said.
 
-"I know," she said.
+"You brought it down."
 
-She put her hand on the wyvern's long narrow head. Flat. Between the eyes. The way Ori had put her hand on Lantern's jaw.
+"You *jumped*," said Milim. "Off the stair. Into the sky. With your legs like that." Her voice did something. "You can't fly."
+
+"I didn't need to fly. I needed to land."
+
+Milim looked at him for a long time.
+
+Then she put her hand on the wyvern's long narrow head. Flat. Between the eyes. The way Ori had put her hand on Lantern's jaw.
 
 "It flies because it likes it," she said. Not loudly. To the wyvern. To nobody. "You can tell. The way it turns. The way it climbs. It doesn't fly to get somewhere. It flies because flying's the best thing there is." She was quiet. "I know. I'm the same."
 
 Kaisel's eye moved. Toward her.
 
-"I'm sorry about your wing," said Milim. "Frieren had to. You were going to try anyway. With one." She looked at the crumpled wing. "You'd have fallen. Off the edge of the island. All the way down."
+"I'm sorry about your wing," said Milim. "You'd have fallen. Off the edge. All the way down."
 
 The eye stayed on her.
 
-Then Milim looked round. Across the gap. At Mau on the white edge of the cloud stair.
+Then Milim looked at Mau. Her face was wet.
 
-Her face was wet.
+"It has to be finished," she said. "I know. The notice." She swallowed. "It has to be you."
 
-"Make it yours," she said. "After. Please. Make it yours." Her voice shook. "So it can keep flying."
+"Yes."
 
-Mau looked at her.
+"Make it yours," said Milim. "After. Please. So it can keep flying."
 
-At the small girl kneeling in the grass of a floating island with her hand on the head of a broken wyvern, crying, asking him.
+"I will," said Mau.
 
-"I will," he said.
+* * *
 
-Milim nodded.
+Milim stood up and went to stand beside the twisted tree, with her back to the island, looking at the sky.
 
-She took her hand off the wyvern's head. She stood up. She stepped back. She went to stand beside the twisted tree, with her back to the island, looking at the sky.
+Mau put his hand on the wyvern's neck. Where the ridge of scales was. Where he had held on.
 
-Lantern, on the wyvern's back, lifted its great dark head and looked at Mau across the gap.
+He did not ask Lantern to do it. He did not ask anyone.
 
-"Lantern," said Mau. "Finish it. Quickly."
+It was his.
 
-The dragon lowered its head.
+He made the smallest point he could, the way he had made it inside Beru, and put it where the long neck met the skull, and pulled.
 
 It was quick.

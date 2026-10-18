@@ -1,14 +1,16 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 57 — So It Can Keep Flying
+## Chapter 59 — So It Can Keep Flying
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 57
-**Continuity state:** The extraction of Kaisel, which does not speak. Milim carries Mau across to the island, slowly, and he raises it with the intention she asked for. The wing is whole in the shadow form. Floor 50 interface change: registration places rise from ten to twenty. The floor 50 transfer point is secured. Mau reaches level 52 (one hundred and fourteen unspent), with six registered shadows. The first ride: Kaisel carries Mau (and then Milim flies beside them) in a short loop between the islands, at a real reserve cost. It is a mount with load and time limits, not free flight. Milim names nothing; the notice already did
+**Reading order:** 59
+**Continuity state:** The extraction of Kaisel, which does not speak. Mau is already on the island (he jumped). Milim carries Yuka across and Frieren floats over; Frieren saw him count "the far end first" and that is why she did not stop him. He raises Kaisel with the intention Milim asked for. The wing is whole in the shadow form. Floor 50 interface change: registration places rise from ten to twenty. The floor 50 transfer point is secured. Mau reaches level 52 (one hundred and fourteen unspent), with six registered shadows. The first ride: Kaisel carries Mau (and then Milim flies beside them) in a short loop between the islands, at a real reserve cost. It is a mount with load and time limits, not free flight. Milim names nothing; the notice already did
 
-*When: Day 368, afternoon. Floor 50. A low floating island with a single twisted tree, a stone's throw from the white edge of the cloud stair. Lantern has gone back into the shadow. Kaisel lies in the grass. Milim is standing by the tree with her back to it, looking at the sky.*
+*When: Day 368, afternoon. Floor 50. A low floating island with a single twisted tree, a stone's throw from the white edge of the cloud stair. Lantern has gone back into the shadow. Kaisel lies in the grass. Mau is sitting beside it with his left thigh bound in Milim's sash. Milim is standing by the tree with her back to it, looking at the sky.*
 
 The notice came up while Milim still had her back turned.
+
+*Operator: trial passed.*
 
 *Guardian defeated.*
 
@@ -16,43 +18,33 @@ And then, below it:
 
 *Shadow extraction available.*
 
-Mau looked across the gap at the island. At the dark wyvern lying in the grass under the twisted tree, its long neck stretched out, its broken wing crumpled under it. At the dark gathering beneath it, in the grass, deep.
+Across the gap, on the white edge of the cloud stair, Frieren was standing with her staff lowered and Yuka beside her with the slack rope. Frieren had not called out when he jumped. She had not called out when the barb went through. Mau could see her face from here, small across the gap, and it was perfectly still, the way it went when something had frightened her more than she would say.
 
-He could not reach it from here.
+He would hear about the jump. Later. In the east room.
 
-He looked at the gap. A stone's throw. Open sky. Nothing under it but the white floor of cloud, very far down.
+"Milim," he said. "Will you go and get them? Slowly."
 
-"I'll take you," said Milim.
+Milim turned round. Her face was still wet.
 
-She had turned round. She was standing by the tree with her face still wet. The red ribbon was trailing from her ankle and still wound round her wrist.
+"Slowly," she said.
 
-"Slowly," she said. "I'll take you slowly."
+She went back across the gap, floating, the right way up, at a walking pace. She came back with Yuka in her arms, and then went again for Frieren, who did not let herself be carried and floated across on her own beside her, and landed in the grass beside Mau, and knelt, and looked at the sash round his thigh, and at the blood coming through it.
 
-* * *
+"You jumped," said Frieren.
 
-She came back across the gap.
+"Yes."
 
-Not swooping. Not fast. Floating, the right way up, at a walking pace, through the open air between the island and the cloud. She landed on the white edge beside him. She did not say anything. She put her arms round his middle from behind, the way you hold someone you are about to carry. She was very strong. He had always known she was very strong. He had never felt it before.
+"Off the stair."
 
-"Ready?" she said.
+"Yes."
 
-"Ready."
+She looked at him for a long moment.
 
-She lifted.
+"The far end first," she said. "You counted it. Twice. Round the tree."
 
-Mau's feet left the cloud. He did not look down. He looked at the island with the twisted tree, coming slowly closer across the gap. The wind was quiet. Milim's arms were steady round his middle. She carried him across the open sky at a walking pace, as carefully as if he were made of glass.
+"Yes."
 
-"You're very good at this," he said.
-
-"I practised," said Milim. "On Yuka. On the roof. At night." She paused. "Don't tell Yuka I told you. She made me promise. She said if Fern found out she'd be in trouble."
-
-"I won't tell."
-
-"I carried her up to see the stars," said Milim. "The ones Senku named. She wanted to see *The Party* close. Frieren's one." She was quiet. "You can't get close. It's very far. But she said it looked closer from up there."
-
-She set him down on the island.
-
-In the grass, beside the twisted tree, beside the wyvern.
+"I saw you count." She put her hand flat over the sash, over the wound, and pressed, hard, to slow the blood. "That's the only reason I didn't stop you."
 
 * * *
 

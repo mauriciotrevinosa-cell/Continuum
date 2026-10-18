@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 31
 **Season:** 5
-**Coverage:** S5E52–S5E63
+**Coverage:** S5E52–S5E64
 **Volume title:** **The Hundredth Floor**
-**Chapter files:** 47
+**Chapter files:** 53
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -60,3 +60,9 @@
 | 45 | S5E62 | Back for Dinner | `THE_ARRIVALS_S5E62_LN_CHAPTER_05_BACK_FOR_DINNER_v0.1.md` |
 | 46 | S5E63 | Two | `THE_ARRIVALS_S5E63_LN_CHAPTER_01_TWO_v0.1.md` |
 | 47 | S5E63 | Everything From That Boy | `THE_ARRIVALS_S5E63_LN_CHAPTER_02_EVERYTHING_FROM_THAT_BOY_v0.1.md` |
+| 48 | S5E64 | What Gojo Saw | `THE_ARRIVALS_S5E64_LN_CHAPTER_01_WHAT_GOJO_SAW_v0.1.md` |
+| 49 | S5E64 | Something Put In | `THE_ARRIVALS_S5E64_LN_CHAPTER_02_SOMETHING_PUT_IN_v0.1.md` |
+| 50 | S5E64 | Two Spaces in the Line | `THE_ARRIVALS_S5E64_LN_CHAPTER_03_TWO_SPACES_IN_THE_LINE_v0.1.md` |
+| 51 | S5E64 | The Night Shift | `THE_ARRIVALS_S5E64_LN_CHAPTER_04_THE_NIGHT_SHIFT_v0.1.md` |
+| 52 | S5E64 | Three Doors | `THE_ARRIVALS_S5E64_LN_CHAPTER_05_THREE_DOORS_v0.1.md` |
+| 53 | S5E64 | Still Here | `THE_ARRIVALS_S5E64_LN_CHAPTER_06_STILL_HERE_v0.1.md` |

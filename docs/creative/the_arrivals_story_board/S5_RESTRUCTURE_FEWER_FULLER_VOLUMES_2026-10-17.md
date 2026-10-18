@@ -90,3 +90,72 @@ Next block: R16 Gojo/Shoko date, R34 star-naming night, a tower visit with Frier
   - **Day 327, floor 10.** Floor 10 is a rooftop with the first guardian (Mau, Yuta, Maki, Yuka; Anko wrote "(family)"; it was Maki's first time in). Maki fights inside its reach, and Yuka's rope catches one ankle while the sentry shadow hooks the other. Mau **declined the extraction** because his reserve is too shallow. He is now level 12 with 55 points, and the second transfer point means they can start from 1, 5 or 10. Maki: "I'd like to go again."
   - **Day 333, roof night.** The roof night is now five: Mau invited Taihei. Under Umaru's "constitutional amendment", Taihei gets Rimuru's draught spot. Rimuru: "you don't have to be *for* something, you just have to be *here*." Taihei will cook curry at the fort's festival stand if Momo agrees. Mau: Umaru has "one who knows who she was, and one who knows who she is."
   - **Day 336, the last firefly.** Nazuna has counted the fireflies nightly since Day 318 ("Ask Nazuna"). Ori, Milim, Yuka, Nazuna, Frieren and Mau watch the last firefly, which lands on Ori's palm and rises toward *Still Here*. Ori and Frieren promise each other every summer. **The festival is the next night (Day 337) and opens V30.** Ori tells everyone at breakfast.
+
+### V30 — The House Lights Its Own (Claude, 2026-10-18): done, 58 chapters, Days 337–368
+See `S5_V30_V31_CLOSING_OUTLINE_2026-10-18.md` for the decisions taken under the creator's delegation.
+
+**Festival and the sixth flower**
+- **Day 337, the festival.** Ori tells the house at breakfast. The forty lamps go up (Senku/Wakana; Anko signs out the oil), and Shizuka's lantern team lights the ink tree at Nazuna's waking. Coco/Qifrey/the witches send floating ink lights. Marin's deep blue dress and Wakana's matching yukata (crooked left sleeve at the cuff). Taihei's curry: 61 bowls (Umaru's slate). Kusuri's herb fortunes:
+  - Hakari and Karane: thyme.
+  - Gojo: yarrow.
+  - Kaneki: two honeysuckle, stuck together.
+  - Frieren: sage.
+  - Mau: an unlisted north-field weed with a white flower.
+  - Shoko keeps hers secret.
+- **Bocchi's song.** It closes the festival with Mau close where she can see him (R37). It is named **"The Room's Full."**
+- **The sixth flower.** "Next year" pays off S2E22. The weed becomes the **sixth flower on the east-room shelf** ("we agreed on it").
+
+**Mau's points and shadows**
+- **Points (all into the branch reserve, which is not mana, CE or a Black Heart):**
+  - Day 338: 30 into Intelligence; the reserve is about 2x.
+  - Day 351: 50 more, plus 1 in Endurance (effect unmeasured); about 3.5x.
+  - Day 360: 60 more (140 Intelligence); about 5.5x. Ciel: it may refill "a little" faster.
+  - After floor 50 he is level 52 with 114 points unspent.
+- **Registration places** went from 10 to 20 at floor 50.
+- **The shadows on Ori's list** (*SHADOWS (NAMED)*):
+  1. Ear (Frieren), a door.
+  2. **Lantern** (Ori named the Red Gate dragon, Day 339), a light.
+  3. **Igris** (floor 20, Day 347; speaks seldom, "My liege"; bows wordlessly to Frieren, calls Fern "my lady" and Ori "little lady").
+  4. **Corner** (the floor-1 sentry, named by Ori).
+  5. **Tank** (floor 30, Day 353; does not speak; remade Day 367).
+  6. **Beru** (floor 40, Day 361; "My King!").
+  7. **Kaisel** (floor 50, Day 368; does not speak; carries Mau and Ori for minutes).
+- **Five minutes a day** of standing shadows in the yard (Shoko); Ori keeps the watch.
+- **Fang has not been met.**
+
+**Tower**
+- Transfer points are every ten floors (1, 5, 10 … 50). Anko's board has three planks.
+- Floor 11 is the iron wood: **black iron** resists the forge. Kaneki is making denser charcoal from Wakana's twisted oak, Wakana designs a crucible furnace, and Marin sews the padding. The first test is about two weeks out.
+- Floor 15: the drowned library and **the unreadable green book** (Fern/Frieren count its marks; the pale flower from five is pressed at its first page).
+- Floor 19: the turning sky, "find north".
+- Floor 48: a gate that opens only for someone who has never been angry. Only Mau opened it, and Gojo disputes it.
+- Eren went in on Day 367 and laughed in a fight.
+
+**Jin-Woo fragments (private: Frieren, Rimuru/Ciel, Yuta)**
+- Day 346: "Hello."
+- Day 360: "Who are you?" Mau answered his name, the house, and "I hope you got back to your war." Yuta says it fits but he can't confirm.
+
+**Wedding trigger and Himmel (R50–R57)**
+- **Day 348, at lunch.** Seiko's "front row" remark: Mau chokes and Frieren goes red. Then the panic attack.
+- **Mau sends Frieren to Himmel** and goes to the garden on five with Gojo, Rimuru and Yuta: "it won't happen here".
+- **Himmel** (between the columns) chooses distance and something of his own.
+- **R57.** Mau is not opposed to a wedding, but has to digest the memory he kept; Frieren: "count it first". Seiko keeps the front row, in the middle.
+- **Day 349.** Himmel stands Mikasa's north-end hour on **alternate days**, so Eren and Mikasa get afternoons.
+
+**Kaneki's coins and the new family**
+- **Day 354.** Mau gives Kaneki **his warm coin** (S4 V23 "to someone who has more than one person on the other side").
+- **Day 355.** Kaneki tells Fern first.
+- **At eleven, at the kilns, with Eren:** "You are sure? Touka." / "You are sure? Ichika."
+- **Day 356, fifth bell.** Touka and Ichika arrive; she hits him first. The register reads *(The second coin was Mau's. Given.)*
+- **The room with two windows** at the end of the west wing (Wakana's small bed, Marin's patchwork quilt) is theirs. Rimuru chalked the next empty corner.
+- **Food.** Maomao's arrangement, "not elegant": black coffee, water for Ichika until cleared.
+- **Touka** makes coffee properly and gives Mau and Frieren a morning cup on the back step ("I'm not grateful. I'm just open early"). Fern gets Momo's good cups.
+- **Ichika.** Her eyes change. Ori's rule, "everyone's allowed to be a different colour", is ratified. She is the fort's youngest citizen, with a too-long sash.
+
+**Other**
+- **The atelier.** Coco's mother draws the two-way curve after 48 days. Agott makes "sew a seam first" the morning warm-up.
+- **Anko's box** grew a seedling nobody planted (the wind, from the north field); "whatever grows is the request".
+- **Mai** spent one day's construction on a silver flower for Maki's spear (now on the new ash shaft).
+- **Yuka/Umaru's card rules** are amended (the winner adds a rule; Mau's rule is "pass to whoever needs a minute").
+- **The Beru challenge (Day 364)**, per the creator: one free shot, then Zoltraak into the sky, then the remake and the apology to "the queen of my Monarch". Mau: "She's the one in charge." Frieren: "Correct." Beru now says "Good morning, Queen of my King" instead of apologising.
+- **Day 368 closes V30.** Kaisel flies Mau and Ori over the lit house for three minutes; Ori: "That's the house lighting its own."

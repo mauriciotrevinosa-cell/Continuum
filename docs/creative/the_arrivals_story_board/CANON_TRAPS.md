@@ -396,3 +396,14 @@ not on this list. Add a line every time the creator catches a new slip.
 - Key opens after7 exterior days, owner needed at entry, companions allowed. One linked normal entrance/shop relocation claim and modest expansion still unused. Do not duplicate all gates, rebuild house or make shop public as an automatic reward.
 
 - **Gojo and Shoko come from the same world and were classmates.** Between the two of them, never write "in my world" or explain shared history (school, the infirmary step, the box) as if the other had not been there. Shoko was outside the box while Gojo was inside it.
+
+## V30 draft continuity traps (2026-10-18)
+
+- **Byakuya is Senku's father (male, he/him).** Never "she".
+- **The kept flowers are now SIX**: the four trial flowers in the old grimoire, the fifth from the date, and the sixth (a north-field weed from Kusuri's festival basket, "we agreed on it", V30). The pale flower from floor 5 is pressed in the green book, not on the shelf.
+- **Ghouls (Kaneki, Touka; Ichika half) cannot eat human food.** Black coffee only, never sugar or milk; the pear bread at their arrival is "for the smell". Maomao's arrangement is "not elegant". Ichika drinks water until Maomao clears more.
+- **Zoltraak is a demon's spell (Qual's) that humans studied and made common.** Never "killed demons for a thousand years" or "Frieren made it common".
+- **Mau never heard Kaneki's private words to Eren** (S4 "Thirteen Years": "she hit me first", "not one without the other"). He knows only what the house knew: Kaneki needs two coins.
+- **Shoko's RCT has limits.** Shallow cuts get stitches in her clinic.
+- **Arrivals appear in the intake hall of Arrival House at a bell**, with the register girl and the book. The house waits outside without fuss.
+- **Mau's spent points go only into the branch reserve.** Places are 20 from floor 50; standing shadows cost per minute; a broken shadow must be remade at a cost. Fang is unmet.

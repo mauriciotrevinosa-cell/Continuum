@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1
 **Volume:** 30
 **Season:** 5
-**Coverage:** S5E38–S5E50
+**Coverage:** S5E38–S5E51
 **Volume title:** **The House Lights Its Own**
-**Chapter files:** 54
+**Chapter files:** 58
 
 **Restructured 2026-10-17 (creator + Claude):** S5 now uses fewer, fuller volumes with breathing chapters. See [the restructure plan](the_arrivals_story_board/S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md). Old volume numbers are folded in: V27 = old V27 + V28; V28 = old V29 + V30; V29 = old V31 + V32; V30 = old V33 + V34; V31 = old V35 + V36 and closes S5.
 
@@ -67,3 +67,7 @@
 | 52 | S5E50 | One Free Shot | `THE_ARRIVALS_S5E50_LN_CHAPTER_02_ONE_FREE_SHOT_v0.1.md` |
 | 53 | S5E50 | She's the One in Charge | `THE_ARRIVALS_S5E50_LN_CHAPTER_03_SHES_THE_ONE_IN_CHARGE_v0.1.md` |
 | 54 | S5E50 | Five Minutes a Day | `THE_ARRIVALS_S5E50_LN_CHAPTER_04_FIVE_MINUTES_A_DAY_v0.1.md` |
+| 55 | S5E51 | The Cloud Stair | `THE_ARRIVALS_S5E51_LN_CHAPTER_01_THE_CLOUD_STAIR_v0.1.md` |
+| 56 | S5E51 | The Sky Floor | `THE_ARRIVALS_S5E51_LN_CHAPTER_02_THE_SKY_FLOOR_v0.1.md` |
+| 57 | S5E51 | So It Can Keep Flying | `THE_ARRIVALS_S5E51_LN_CHAPTER_03_SO_IT_CAN_KEEP_FLYING_v0.1.md` |
+| 58 | S5E51 | The House Lights Its Own | `THE_ARRIVALS_S5E51_LN_CHAPTER_04_THE_HOUSE_LIGHTS_ITS_OWN_v0.1.md` |

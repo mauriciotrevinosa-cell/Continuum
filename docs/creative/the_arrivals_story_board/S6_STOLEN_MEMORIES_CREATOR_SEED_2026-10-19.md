@@ -79,3 +79,13 @@
 - **Yuka's 18th birthday falls during the stolen-memory arc**, on purpose.
 - **S6 is the climax of the creator's "terror" toward the characters so far,** the darkest season. S5's Beru/tower extremes are the closest precedent. This continues the "darker since S3" promise.
 - **Yuka never treats it as a chance to win Mau.** She may become confused and wonder what happens if his memories never come back; that is natural and allowed. The pursuit comes from **Mau**, acting inside an altered reality. That is the problem.
+
+## The army battle that precedes it (creator, 2026-10-19, verbatim)
+
+> si osea tenemos que armar bien la pelea de mau contra el ejercito si aqui ya estamos llegando a nuevos niveles de op pero esta bien ese el chiste de s5 que los niveles crezcan y pues s6 lo puede demostrar pero tampoco quiero que este primer ataque sea metamos todos los mas poderosos y mau gane tiene que ser un balance que mau este jugando tango pq esta analizando a todos nuevas herramientas aprendiendo a plear de verlos pero que este parejo y eso hace que cuando el cree que lo logro llega ese golpe no uno fisico sino uno psicologico como pues tenemos que ver bien pero eso es para despues
+
+## Captured (creator)
+
+- The first S6 attack is NOT "throw in the strongest and Mau wins". It is balanced, a tango: Mau analyses everyone, picks up new tools and learns to fight by watching them, and it stays even.
+- When he thinks he has done it, the blow lands, and it is **psychological, not physical** (the memory theft follows). The details are for later.
+- S5's purpose was letting power levels grow; S6 can show them, without trivialising the battle.

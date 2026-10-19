@@ -112,11 +112,11 @@ Its head rose above them on its long neck. Higher than the banners. Higher than 
 
 Two great cold blue lights opened.
 
-Mau felt the cup go. Fast. Kamish standing. Igris and Beru and Tusk standing. The thread pulled out of the cup like water through a hole.
+Mau felt the price of him go out of the cup. A great deal of it, all at once. Kamish cost more to call than all the others together.
 
-*Short,* said Ciel. *Very short. Thirty seconds of him, no more. You'll need the rest.*
+*Short,* said Ciel. *Let him roar and send him back. If they break him out there, you can't afford to call him again today.*
 
-*Thirty seconds.*
+*Short.*
 
 The Legion stopped.
 
@@ -142,7 +142,7 @@ A ripple. Down the front row. Then the second. Then the third. Spears coming up 
 
 The one thing was not one thing any more.
 
-"*Back*," said Mau, to Kamish. Twenty-eight seconds.
+"*Back*," said Mau, to Kamish. Before anything could break him.
 
 The old dragon sank back into the grey field like water draining from a well.
 
@@ -206,7 +206,7 @@ Mau stood in the middle of the field and did not fight. Not with his hands. He h
 
 *Igris, left again, they're reforming. Beru, there's one more banner, far back, by the mound. Tusk, let the wall go, let them through, now, into Maki. Kaisel, lower. Yuta, behind you. Gojo, there. And there.*
 
-He made mistakes. He told Tusk to drop the fire wall a breath too soon and forty soldiers came through it at once and Maki had to give ground, and he felt it in his chest like a stone. He told Kaisel to come lower and a spear thrown from the rows took the wyvern through the wing, and he felt the drain lurch and called it back down into the field. He called Igris left when the knight was already going right and the knight hesitated, one step, for the first time, and a sword got in under his guard.
+He made mistakes. He told Tusk to drop the fire wall a breath too soon and forty soldiers came through it at once and Maki had to give ground, and he felt it in his chest like a stone. He told Kaisel to come lower and a spear thrown from the rows took the wyvern through the wing, and he called it back down into the field before a second spear could break it and cost him the price of calling it again. He called Igris left when the knight was already going right and the knight hesitated, one step, for the first time, and a sword got in under his guard.
 
 Every mistake, he learned. Every one. He could feel himself learning. The field getting smaller in his head. The shapes getting clearer.
 
@@ -442,7 +442,7 @@ Gojo did not say anything for a long time. He looked at the hundred soldiers sta
 
 "No," said Gojo. "That's what worries me."
 
-He sent them all back. The hundred. Igris. Beru. Tusk. Kaisel. The drain stopped.
+He sent them all back. The hundred. Igris. Beru. Tusk. Kaisel.
 
 At the far end of the grey field, past the low mound with its heap of grey dust, a seal had appeared in the earth. And beside it, a small frame, with home faintly visible.
 

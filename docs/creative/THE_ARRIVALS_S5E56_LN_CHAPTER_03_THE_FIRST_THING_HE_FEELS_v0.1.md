@@ -110,9 +110,9 @@ They were on her.
 
 Mau felt the cost.
 
-Ciel had been right. Less than raising him. More than Tank. The cup went down, steady and definite. He held the intention. *Come back to her.*
+Ciel had been right. Less than raising him. More than Tank. The price went out of the cup, once, as the pieces found each other. He held the intention. *Come back to her.*
 
-The thread stopped.
+It was paid.
 
 Lantern was whole.
 
@@ -152,7 +152,7 @@ She stepped back. One step. Two.
 
 Lantern folded down into his shadow. Wings, neck, head. The two small lights went last, still on Ori.
 
-The thread stopped. What he had used stayed used. The cup was lower. Not low. There was a margin. There was always a margin now.
+What he had paid stayed paid. The cup was lower. Not low. There was a margin. There was always a margin now.
 
 Ori turned round.
 

@@ -196,7 +196,7 @@ Mau read it out.
 
 "Two places left," said Mau. "And ten floors."
 
-He sent them all back. Bellion. Igris. The soldiers. The drain stopped. The cup was very low. Lower than after Beru. Not as low as after Kamish.
+He sent them all back. Bellion. Igris. The soldiers. Raising the Grand Marshal had cost nearly everything. The cup was very low. Lower than after Beru. Not as low as after Kamish.
 
 He sat on the dark grass and did not get up.
 

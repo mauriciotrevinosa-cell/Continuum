@@ -10,7 +10,7 @@
 - Each statue falls to its own lesson turned against it.
 - Gojo calls the threads going slack.
 - Gojo's marble and Mau's pull meet to make a double Blue.
-The fifteen-times reserve drains fast. Mau rations it, sending shadows back as soon as their work is done. Two soldiers are unmade
+Calling everyone costs most of the fifteen-times reserve at once, and anything broken costs again to bring back, so Mau sends each shadow back as soon as its work is done, before the hall can break it. Two soldiers are unmade
 
 *When: Day 397. Floor 101. Four islands of stone in a sea of grey nothing. Twelve statues on twelve more, standing for the Architect. The Architect at the foot of the hundred steps, hands folded, watching.*
 
@@ -24,7 +24,7 @@ And Kamish.
 
 The old dragon came up out of the nothing itself. Not out of stone. Out of the grey sea below the islands. He rose and rose and kept rising, the vast dark body uncoiling, the wings unfolding, the long neck lifting. Two great cold blue lights opened higher than the pillars.
 
-*Two minutes,* said Ciel. Very fast. *All of them, with the Legion. Two. Then you're empty. Ration them. Send them back when they're done. Don't wait.*
+*That was most of it,* said Ciel. Very fast. *Calling all of them, with the Legion. If they break, you can't bring them back. Not today. Send them back when they're done. Don't wait.*
 
 *I know.*
 
@@ -92,7 +92,7 @@ He did not hurry. He stepped off Frieren's island onto the dragon's back, in her
 
 "*Lamp's out*," said Gojo. "*The thread went slack. One.*"
 
-"*Igris, back*," said Mau. The knight sank into the dragon's back. The thread in the cup eased. A little.
+"*Igris, back*," said Mau. The knight sank into the dragon's back. One fewer thing in the hall to be broken.
 
 * * *
 
@@ -232,13 +232,13 @@ His head kept splitting.
 
 * * *
 
-Six left. And the cup was going.
+Six left. And the hall was getting faster.
 
-Mau could feel it. Fifteen times deep, and the floor of it coming up. Ten named and a hundred soldiers, standing at once, a minute and a half into the fight.
+Mau could feel it. The statues that were left were learning, the way Beru had learned, and every shadow still standing was one more thing they could break. And there was nothing in the cup to pay for bringing any of them back.
 
-*One minute,* said Ciel. *Less.*
+*Fewer,* said Ciel. *Fewer things for them to break.*
 
-"*Tank, back. Corner, back. Lantern, back.*" They sank. The thread eased. Not enough.
+"*Tank, back. Corner, back. Lantern, back.*" They sank.
 
 "*Cup*," said Gojo. "*Book. Mask.*"
 
@@ -388,13 +388,11 @@ It went into the nothing without a sound.
 
 The cup was nearly dry.
 
-*Send them back,* said Ciel. *All of them. Now. Or you won't have anything left for him.*
+*Send them back,* said Ciel. *All of them. Now. He can unmake things. Whatever's still standing when he starts, you'll lose.*
 
 "*Beru, Bellion, Kaisel—*" He stopped. He was on Kaisel. "*Everyone back. Except Kamish. Kamish, stay. Be the floor.*"
 
 They sank. Beru. Bellion. Igris, wherever he was. The soldiers. Kaisel knelt on Frieren's island and Mau climbed off, and Kaisel sank into the stone. Only Kamish stayed, lying across the nothing, the dark road between the islands.
-
-The thread eased. The cup stopped draining so fast. It did not stop.
 
 Mau stood on Frieren's island, beside her, with his head splitting and the cup nearly dry and two soldiers unmade.
 

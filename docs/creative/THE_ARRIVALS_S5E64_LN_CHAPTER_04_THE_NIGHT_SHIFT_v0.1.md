@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 55
-**Continuity state:** Day 402. Mau proposes at the long table that his shadows take the nights, so that nobody else has to. Ciel's numbers: for the first time, the cup refills faster than three standing shadows spend it. Shoko agrees to one trial night and will read his face at dawn. Anko objects that the round is hers and gives it up only for one night, on her terms. Himmel will keep his alternate-day hour because he wants to, not because it is needed. At dusk Igris takes the north end, and Mikasa hands it over and goes with Eren to the south field. Beru walks the lime line on Anko's round. Kamish lies along the low ridge of the north field as a dark hill with two blue eyes, keeping watch over a house as he was asked. Anko climbs the red stake and sits all night with Nazuna (roommates and friends, not a couple). The trial holds. No threat comes
+**Continuity state:** Day 402. Mau proposes at the long table that his shadows take the nights, so that nobody else has to. Ciel's numbers: calling three costs once, at dusk; standing all night costs nothing; by dawn the cup has refilled past what the calling took. Shoko agrees to one trial night and will read his face at dawn. Anko objects that the round is hers and gives it up only for one night, on her terms. Himmel will keep his alternate-day hour because he wants to, not because it is needed. At dusk Igris takes the north end, and Mikasa hands it over and goes with Eren to the south field. Beru walks the lime line on Anko's round. Kamish lies along the low ridge of the north field as a dark hill with two blue eyes, keeping watch over a house as he was asked. Anko climbs the red stake and sits all night with Nazuna (roommates and friends, not a couple). The trial holds. No threat comes
 
 *When: Day 402, dinner, then dusk, then all night. The burn on Mau's chest is a pink line now. His eyes have stopped bleeding. The second heart has kept time with the first for five days without missing a beat.*
 
@@ -32,7 +32,7 @@ She had not put her spoon down. She was looking at him across the table the way 
 
 *Ciel.*
 
-*Three standing,* said Ciel. Out loud, through Rimuru, because Mau had asked her to when it was about the house. Rimuru, at the end of the table, still a little grey, said it in her words. *"Standing, not fighting. Igris, Beru and Kamish. All night. I've worked it out four times."* A pause. *"For the first time, the cup refills faster than three standing shadows spend it. Not much faster. A little. He'll wake up with it about where he went to bed."*
+*Three standing,* said Ciel. Out loud, through Rimuru, because Mau had asked her to when it was about the house. Rimuru, at the end of the table, still a little grey, said it in her words. *"Igris, Beru and Kamish. Calling them costs once, at dusk. Standing costs nothing. All night, nothing."* A pause. *"By dawn the cup will have refilled past what the calling took. The only danger is if something breaks one of them. Then bringing it back costs again."*
 
 Shoko looked at Rimuru. Then at Mau.
 

@@ -134,7 +134,7 @@ Beru was quiet for a moment.
 
 "I can," he said.
 
-Mau felt the cup start to go. The thread. Steady. Per minute. Not as much as Beru fighting. More than Beru standing in the yard.
+Mau had paid for calling him, once, at the top of the stair. Nothing more. Beru could walk the whole dark floor and it would not cost another drop, unless the dark broke him.
 
 "Can you take us across?" said Mau.
 
@@ -234,7 +234,7 @@ The stair was just beyond. A faint grey light at the top of it, from fifty-eight
 
 *Floor 57 cleared.*
 
-Mau sent Beru back. The thread stopped. Eleven minutes. The cup had noticed. Not badly.
+Mau sent Beru back. Eleven minutes in the dark, and it had cost him only the calling.
 
 At the top of the stair, in the grey light from fifty-eight, they could see each other again.
 

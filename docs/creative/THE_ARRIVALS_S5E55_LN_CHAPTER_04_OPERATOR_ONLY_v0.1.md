@@ -14,7 +14,7 @@ He did the only thing he could think of.
 
 They went. Igris, from the left foreleg, the long sword pulling out of the joint. Beru, from behind the knee, with a sound of protest that was cut off as he sank. Kaisel, folding down into the black stone. Tusk last, the blue fire in his skull going out as he went.
 
-The drain stopped.
+Not to save the cup. To save them. If the breath broke them, bringing them back would cost him what he did not have.
 
 Everything he had left in the cup stayed in the cup. Everything he had left in the other reserve, the third of it that Ciel had counted, went into the space.
 
@@ -80,7 +80,7 @@ So he did not wait.
 
 "*Igris. Beru. Tusk. Kaisel.*"
 
-The cup went. Not as fast as before. Faster than it could take. They came up out of the tiny circle of black stone round his feet, crowded, crowding, because there was nowhere else to stand, and went.
+The price of calling them again went out of the cup, all four at once, more than he could spare. They came up out of the tiny circle of black stone round his feet, crowded, crowding, because there was nowhere else to stand, and went.
 
 Igris and Beru at the legs again. Fast this time, both of them, not careful. Kaisel up into the glowing air. Tusk on Mau's left, the staff level, the blue fire pouring out of the skull.
 

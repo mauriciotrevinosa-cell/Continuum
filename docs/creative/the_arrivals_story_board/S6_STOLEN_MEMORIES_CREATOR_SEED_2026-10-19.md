@@ -69,3 +69,13 @@
 
 - **The coin is a second tell.** Mau gave his warm coin to Kaneki in S5 (V30). In the false history he believes he still has one, so offering it is itself proof that the memories are false.
 - Keep everyone adult and the false-memory dynamic clearly framed as a theft that harms Mau, Yuka and Frieren. The house's knowledge, and Yuka's refusal to exploit it, carry the moral weight.
+
+## Creator's fourth clarification (verbatim, 2026-10-19)
+
+> me gustaria que el cumple de yuka caiga en esas fechas soy un hdp yo lo se pero dios es que te voy a ser bien honesto osea leyendo lo de los planes con beru como que llevaba tiempo queriendo llevar todo al extremo y no lo hice lo vengo diciendo desde s3 que iba a ser mas dark y solo es un arco s5 es lo que mas se acerca a esto pero literlmente s6 va aser el climax de mi terror hacia ellos hasta ahora aun no se que mas pueda. Y algo que quiero poner que veo que estas muy firme y estoy mega de acuerdo con eso yuka nunca ve esto como aprovecharse y conquistar a mau puede llegar a confundirse pensar que pasaria si no logran recuperar sus recuerdos y estar confundida eso se vale es natural el problema seria mau el si esta intentando por una realidad alterada
+
+## Captured (creator)
+
+- **Yuka's 18th birthday falls during the stolen-memory arc**, on purpose.
+- **S6 is the climax of the creator's "terror" toward the characters so far,** the darkest season. S5's Beru/tower extremes are the closest precedent. This continues the "darker since S3" promise.
+- **Yuka never treats it as a chance to win Mau.** She may become confused and wonder what happens if his memories never come back; that is natural and allowed. The pursuit comes from **Mau**, acting inside an altered reality. That is the problem.

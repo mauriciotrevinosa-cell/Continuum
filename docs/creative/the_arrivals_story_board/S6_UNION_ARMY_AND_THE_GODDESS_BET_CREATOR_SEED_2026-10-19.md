@@ -63,10 +63,27 @@ Three things happen before the Yuka–Mau arc, in this order.
 ## Open — creator's call
 
 1. Our Kamish's "five" = Solo Leveling's five (Thomas Andre among them)?
-2. Reze alone, or the hybrids group?
-3. The Culling Game names: Uro, Kurourushi, Ryu?
+2. ~~Reze alone, or the hybrids group?~~ Hybrids, details to be figured out.
+3. ~~The Culling Game names~~ Examples for the vibe; no Geto yet.
 4. Who is the union's representative, and who lied to Subaru?
 5. Who steals the memories, and did the Goddess know?
 6. **Rem and Subaru.** Rem was taken from after reconciling with Subaru, and loves him in her source. In the house she and Mau are family, both ways. How does she feel when he walks in?
 7. Does Envy still remove Return by Death (the 2026-10-08 seed), now that Rem's "Mau died more times" line exists?
 8. Besides Subaru and Betty, who stays?
+
+## Creator's answers (verbatim, 2026-10-19)
+
+> puse a reze como ejemplo pon hibridos por averiguar
+> lo de rem tenemos que ver en que punto la sacamos pq solo se ah mencionado que el barusu es el que mas cerca a llegado
+> si son los del calling pero son mas ejemplo si convienen otros puede ser pero para que entiendas la vibra eso si no quiero traer a get eso puede ser despues
+> aqui si quiero pensarlo bien lo de rem y subaru pq emilia no desaparece
+> si el return of death fue poe envy pero ella ya consiguio al reves que la gente la envidien a ella y ya tuvo su arco y ahi es dodne el peso cae pq subaru puede llegar cocky y decirle que va a hacer lo que diga pq lo ama y ahi pride se mete y arranca
+
+## Captured (creator)
+
+- **Hybrids: "to be figured out".** Reze was only an example.
+- **Culling Game players set the vibe.** Uro, Kurourushi and Ryu were examples; others work if they fit better. **No Geto** ("get"): that can come later.
+- **Rem and Subaru need careful thought,** because Emilia does not disappear: Subaru still loves Emilia.
+- **Rem's extraction point must be pinned down.** On the page so far, Ram's account (S4 V20 "Two Sisters" / "Mana") says Rem vanished from the mansion kitchen mid-potatoes, with towels folded in triangles; Barusu searched the forest for six days; "Barusu came closest. But even he gave her things to hold." Nothing on the page states her feelings for him beyond that.
+- **Return by Death was Envy's, but Envy has already had her arc.** She got the reverse: here, people envy her (S4 V21 "Envy"). So the weight falls when Subaru arrives cocky and tells Envy she'll do what he says because she loves him. **Pride steps in, and that starts it.** (Pride, the first witch, already lives in the house: "The name was for someone smaller.")
+

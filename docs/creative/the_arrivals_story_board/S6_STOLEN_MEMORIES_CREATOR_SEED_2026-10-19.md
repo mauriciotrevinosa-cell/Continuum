@@ -89,3 +89,18 @@
 - The first S6 attack is NOT "throw in the strongest and Mau wins". It is balanced, a tango: Mau analyses everyone, picks up new tools and learns to fight by watching them, and it stays even.
 - When he thinks he has done it, the blow lands, and it is **psychological, not physical** (the memory theft follows). The details are for later.
 - S5's purpose was letting power levels grow; S6 can show them, without trivialising the battle.
+
+## A second Red Gate (creator, 2026-10-19, verbatim)
+
+> necesitamos otra red gate en lo de el cambio de memoria pero solo yuka y mau mhm mhm mhm
+
+## Captured (creator)
+
+- During the stolen-memory arc there is another **Red Gate**, with **only Yuka and Mau** inside.
+
+## Claude's notes
+
+- The false history says his bond with Yuka "began in the Red Gate". A real Red Gate with only the two of them would make the false memory feel true to him while it happens, which is the cruellest version.
+- It is also exactly what false-Yuka feared in his story ("nervous about him going back into a gate in case it happens again"), now happening to the real Yuka.
+- Red Gate rules (S5 V28) apply: time runs differently inside, the doors seal, and no one from the house can get in.
+- What happens inside (the balance, a crack in the false memory, the forehead kiss, the Black Heart) is the creator's to develop.

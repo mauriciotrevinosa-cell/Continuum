@@ -442,3 +442,4 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Shoko's check is every morning, by Mau's word since Day 366.** Fern's ledger page *Days* lists the house's chosen days with him.
 
 - **Umaru was gone FIFTEEN DAYS in her world** ("two Sundays ago"; the police stopped calling on the tenth day). For her it was two years and a bit. **Creator's rule (2026-10-19): about fifteen days is the target for future arrivals' home worlds.** That is long enough to feel, and still at the breaking point of searching, before acceptance; the arrival sees their loved one older because Continuum time has passed. Never months. Kessoku and Seika's three days stay as written.
+- **The sea:** Eren arrived beside the sea, and Mikasa has been there on the house trip. Neither "wishes to see the sea one day". Taking **Armin** to "a sea that's just a sea" is fine (V31 "Found").

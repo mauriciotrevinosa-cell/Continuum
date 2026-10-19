@@ -109,7 +109,7 @@
 - **Ryo.** Bass; owes everyone money; "It's very well made." Coin: held.
 - **Momo.** Kitchen; the pear bread. Room *MOMO / VAMOLA*, back stair, with Seiko through the wall. Couple with Okarun. Coin: held.
 - **Okarun.** Searcher (stone). Turbo Granny on his windowsill, "separate address". Couple with Momo. Coin: **spent on Jiji**, Day 211 (V25 #22).
-- **Seiko.** Grandmother; the high seat. Coin: **spent** (given to Gojo; it brought Shoko, Day 145).
+- **Seiko.** Grandmother; the high seat. Creator (2026-10-19): "seiko puede tener 80 pero se mueve como si fuere de 20" — write her body as spry and quick (stairs, slaps, the broom), never frail; her age shows in her eyes and her mouth, not her knees. Coin: **spent** (given to Gojo; it brought Shoko, Day 145).
 - **Marin and Wakana.** A couple, above the workshop.
   - Wakana: joinery, the frame, the slides, the chromatrope.
   - Marin: paint, the crown, the movie wall, the red columns.

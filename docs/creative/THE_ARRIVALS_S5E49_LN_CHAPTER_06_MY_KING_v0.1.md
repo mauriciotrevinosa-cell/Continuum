@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 51
-**Continuity state:** Mau is shredded (shoulder bitten to the bone twice, both forearms opened, sides and back clawed, calves torn, eyes bleeding from the unfiltered Six Eyes) and cannot walk or see; he raises Beru blind, with Frieren telling him where it lies; Shoko orders three days in bed, and the roof night comes to the east room. The extraction of Beru. It nearly empties the deeper reserve. The copy speaks lavishly and devotedly ("My King!"), with the personality the creator asked to keep; his knowledge of any original is not established. He notices Frieren standing in "the place of the King's guard" and also remembers her Zoltraak; he promises to "speak with her later" (setting up the challenge). The floor 40 transfer point is secured. Mau reaches level 42 (sixty-four unspent). Five registered shadows: Lantern, Corner, Igris, Tank (broken, awaiting remaking) and Beru. The return: held up between Gojo and Yuta, blind, saying "I'm all right"; the yard stops; Ori counts his breaths with Maki's hands on her shoulders; Frieren breaks down in Fern's arms outside the clinic ("he didn't look alive"); Shoko: "He'll live". That night's roof in the east room is quiet; Gojo can't finish the funny version; Frieren says "Good" about Beru's later
+**Continuity state:** Mau is shredded (shoulder bitten to the bone twice, both forearms opened, sides and back clawed, calves torn, eyes bleeding from the unfiltered Six Eyes) and cannot walk or see; he raises Beru blind, with Frieren telling him where it lies; Shoko orders three days in bed, and the roof night comes to the east room. The extraction of Beru. It nearly empties the deeper reserve. The copy speaks lavishly and devotedly ("My King!"), with the personality the creator asked to keep; his knowledge of any original is not established. He notices Frieren standing in "the place of the King's guard" and also remembers her Zoltraak; he promises to "speak with her later" (setting up the challenge). The floor 40 transfer point is secured. Mau reaches level 42 (sixty-four unspent). Six registered shadows: Lantern, Roof, Corner, Igris, Tank (broken, awaiting remaking) and Beru. The return: held up between Gojo and Yuta, blind, saying "I'm all right"; the yard stops; Ori counts his breaths with Maki's hands on her shoulders; Frieren breaks down in Fern's arms outside the clinic ("he didn't look alive"); Shoko: "He'll live". That night's roof in the east room is quiet; Gojo can't finish the funny version; Frieren says "Good" about Beru's later
 
 *When: Day 361, the heart of the hive on forty. The Ant King lies broken on the packed earth. Under it, the dark is gathering, deeper than anything yet. The cup is low. Not empty. Mau cannot see any of it.*
 
@@ -184,9 +184,7 @@ Frieren did not say anything else. But Mau, sitting on the earth with her hand u
 
 "My King!" said Beru, and went down into the earth all at once, the cold blue lights last.
 
-The drain stopped.
-
-There was nothing in the cup. Almost nothing. A thin layer on the floor of it. So thin he could barely feel it. But it was there.
+Raising him had cost almost everything. There was nothing in the cup. Almost nothing. A thin layer on the floor of it. So thin he could barely feel it. But it was there.
 
 *Floor 40 cleared.*
 
@@ -194,13 +192,13 @@ There was nothing in the cup. Almost nothing. A thin layer on the floor of it. S
 
 *Level 42. Sixty-four points unspent.*
 
-*Registered shadows: 5. Places: 10.*
+*Registered shadows: 6. Places: 10.*
 
 He read it out. All of it. Then he did not say anything else for a while.
 
-"Five," said Gojo.
+"Six," said Gojo.
 
-"Five."
+"Six."
 
 "One of them's in pieces."
 

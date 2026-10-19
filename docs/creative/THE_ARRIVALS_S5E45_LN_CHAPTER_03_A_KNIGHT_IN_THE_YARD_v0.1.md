@@ -12,7 +12,7 @@ Ori had asked at lunch.
 
 Not *can I see him*. Ori did not ask things that way. She had come and stood beside Mau's place at the long table with the list in her hand, *SHADOWS (NAMED)*, and pointed at line three.
 
-*3. Igris. (The notice.) A knight.*
+*4. Igris. (The notice.) A knight.*
 
 "I wrote him down," she said, "and I've never seen him." She looked at the list. "That's not right. I saw Lantern before I named it. I didn't see Corner, but Corner was waiting with no name and that's different." She looked at Mau. "Igris already has a name. So I should meet him. Before I write anything else about him."
 
@@ -236,4 +236,4 @@ Frieren stood in the middle of the yard with her arms folded.
 
 Ori, beside her, had the list open. She was writing. When she finished, she showed it to Mau.
 
-*3. Igris. (The notice.) A knight. Calls me little lady. (Because I won't always be little.) Bows to Frieren. (Won't say why.)*
+*4. Igris. (The notice.) A knight. Calls me little lady. (Because I won't always be little.) Bows to Frieren. (Won't say why.)*

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 29
-**Continuity state:** The extraction of Bellion, done sitting, badly hurt, with Frieren holding him up. It nearly empties the cup. The copy speaks, formal and commanding ("my liege"); he calls Igris "Commander" and the knight answers "Marshal". He remembers only what a guardian knew: a voice through stone told him the climber "will be close". He does not know whose voice. Frieren asks about his armour and he does not know either. The floor 90 transfer point is secured. Mau reaches level 92 (two hundred and fourteen unspent). Nine named shadows (Bellion the ninth) and the Legion of a hundred, two soldiers broken and awaiting remaking: one hundred and nine. Twenty named places. Maki carries Mau home; Shoko and Gojo are on the clinic step
+**Continuity state:** The extraction of Bellion, done sitting, badly hurt, with Frieren holding him up. It nearly empties the cup. The copy speaks, formal and commanding ("my liege"); he calls Igris "Commander" and the knight answers "Marshal". He remembers only what a guardian knew: a voice through stone told him the climber "will be close". He does not know whose voice. Frieren asks about his armour and he does not know either. The floor 90 transfer point is secured. Mau reaches level 92 (two hundred and fourteen unspent). Ten named shadows (Bellion the tenth) and the Legion of a hundred, two soldiers broken and awaiting remaking: one hundred and ten. Twenty named places. Maki carries Mau home; Shoko and Gojo are on the clinic step
 
 *When: Day 387, the dark field on ninety. Bellion kneels with his sword point-down in the grass. The pale katana is back in its scabbard at Mau's hip. Mau is sitting in the grass with his good hand flat on the ground, and Frieren's hand under his arm.*
 
@@ -184,13 +184,13 @@ Maki put her face in Yuta's shoulder. Her shoulders were shaking. Yuta, white-fa
 
 *Level 92. Two hundred and fourteen points unspent.*
 
-*Registered shadows: 18. Places: 20.*
+*Registered shadows: 10 named. Places: 20. Legion: 100.*
 
 Mau read it out.
 
-"A hundred and nine," said Maki.
+"A hundred and ten," said Maki.
 
-"Nine with names. A hundred soldiers. Two of them in pieces." He counted again, to be sure. "A hundred and nine."
+"Ten with names. A hundred soldiers. Two of them in pieces." He counted again, to be sure. "A hundred and ten."
 
 "Two places left."
 

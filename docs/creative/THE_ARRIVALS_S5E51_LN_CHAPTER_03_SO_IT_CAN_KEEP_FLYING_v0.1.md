@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 60
-**Continuity state:** The extraction of Kaisel, which does not speak. Mau is already on the island (he jumped). Milim carries Yuka across and Frieren floats over; Frieren saw him count "the far end first" and that is why she did not stop him. He raises Kaisel with the intention Milim asked for. The wing is whole in the shadow form. Floor 50 interface change: registration places rise from ten to twenty. The floor 50 transfer point is secured. Mau reaches level 52 (one hundred and fourteen unspent), with six registered shadows. The first ride: Kaisel carries Mau (and then Milim flies beside them) in a short loop between the islands, at a real reserve cost. It is a mount with load and time limits, not free flight. Milim names nothing; the notice already did
+**Continuity state:** The extraction of Kaisel, which does not speak. Mau is already on the island (he jumped). Milim carries Yuka across and Frieren floats over; Frieren saw him count "the far end first" and that is why she did not stop him. He raises Kaisel with the intention Milim asked for. The wing is whole in the shadow form. Floor 50 interface change: registration places rise from ten to twenty. The floor 50 transfer point is secured. Mau reaches level 52 (one hundred and fourteen unspent), with seven registered shadows. The first ride: Kaisel carries Mau (and then Milim flies beside them) in a short loop between the islands, at a real reserve cost. It is a mount with load and time limits, not free flight. Milim names nothing; the notice already did
 
 *When: Day 368, afternoon. Floor 50. A low floating island with a single twisted tree, a stone's throw from the white edge of the cloud stair. Lantern has gone back into the shadow. Kaisel lies in the grass. Mau is sitting beside it with his left thigh bound in Milim's sash. Milim is standing by the tree with her back to it, looking at the sky.*
 
@@ -124,9 +124,9 @@ And then, below that, a line Mau had not seen before.
 
 He read it twice.
 
-*Registered shadows: 6. Places: 20.*
+*Registered shadows: 7. Places: 20.*
 
-*The interface changed,* said Ciel. Very quietly. *At fifty. Halfway. The places doubled.* A pause. *That doesn't mean you can afford twenty. It means there's room for twenty. The cup is still the cup.*
+*The interface changed,* said Ciel. Very quietly. *At fifty. Halfway. The places doubled.* A pause. *One place each, however strong. That doesn't mean you can raise twenty. Every one still has to think you're worth rising for.*
 
 *I know.*
 
@@ -152,7 +152,7 @@ He had a thought. He did not decide to have it. It came.
 
 Ciel was quiet for a moment.
 
-*Probably,* she said. *It's built to carry. You can feel that. In the shape of it.* A pause. *It'll cost. Standing, and flying, and carrying. More than standing alone. Not as much as Lantern fighting. A few minutes. Not more. And not high. And not far from the island.* Another pause. *And Mau. Your own floating is still small. If it lets go of you, you're not going to float. You're going to fall.*
+*Probably,* she said. *It's built to carry. You can feel that. In the shape of it.* A pause. *Calling it costs nothing more now. It's standing. Flying is its own strength, not yours. But it's new, and it's never carried anyone. A few minutes. Not more. And not high. And not far from the island.* Another pause. *And Mau. Your own floating is still small. If it lets go of you, you're not going to float. You're going to fall.*
 
 *Then I'll hold on.*
 
@@ -206,7 +206,7 @@ She had come up off the island. She was flying beside Kaisel's wing, a hand's br
 
 They went round the island with the twisted tree. Once. Twice. Not high. Not far. Kaisel's wings beat slow and steady. Milim flew beside them, matching every turn. On the white edge of the cloud stair, two small figures watched. Yuka had both hands over her mouth. Frieren was standing very still, with her staff held loosely at her side, and her face turned up.
 
-*Two minutes,* said Ciel. *Bring it down.*
+*Two minutes,* said Ciel. *It's tiring. Its own strength, not yours. Bring it down.*
 
 Mau leaned. He did not know if it would understand. It did. Kaisel turned in a long slow curve, down, toward the island, and landed in the grass under the twisted tree. It folded its wings, and knelt.
 

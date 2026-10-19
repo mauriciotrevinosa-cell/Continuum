@@ -253,7 +253,7 @@ He felt it. He did not know how. He felt the empty pan on the left pulling at hi
 
 *It doesn't say,* said Ciel. *It just pulls.*
 
-Floor ten. The guardian. The outline under the blue light, deeper than the sentry's. *You could raise it. You could not hold it.* And him closing the notice. *Not this one. I'd rather have a little left. For the next thing.*
+Floor ten. The guardian. The dark under the blue light, deeper than the sentry's, weighing him before it rose. And raising it, and the cup going out of him all at once, and sitting down on the roof with nothing. *Next time, I want a little left.*
 
 The scale.
 

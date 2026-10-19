@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 37
-**Continuity state:** Tank is extracted (it does not speak), with Mau's collarbone broken. The floor 30 transfer point is secured; four registered shadows (Lantern, Corner, Igris, Tank) out of ten places; the reserve is nearly empty, so no shadows for a day. At home: Fern is angry with Stark and then tells everyone; Ori asks what a tank is, and Yuta, Taihei and Senku explain from their worlds; Ori writes "A big thing that doesn't stop." No new mechanic
+**Continuity state:** Tank is extracted (it does not speak), with Mau's collarbone broken. The floor 30 transfer point is secured; five registered shadows (Lantern, Roof, Corner, Igris, Tank) out of ten places; the reserve is nearly empty, so no shadows for a day. At home: Fern is angry with Stark and then tells everyone; Ori asks what a tank is, and Yuta, Taihei and Senku explain from their worlds; Ori writes "A big thing that doesn't stop." No new mechanic
 
 *When: Day 353, the snowfield on thirty, then home. The blizzard is still blowing outside the thin space. Under the great white bear, the dark is gathering.*
 
@@ -44,13 +44,11 @@ Then it lowered its head. All the way. Until its dark jaw was resting in the sno
 
 Mau felt the cost.
 
-It took nearly everything. Ciel had said it would. The cup had been low after Lantern and Igris stood together, and raising the bear drained what was left almost to the floor. He felt his whole body go heavy, sitting in the snow. Like he had been carrying something up a very long stair and had just put it down and could not remember how to stand without it.
+It took nearly everything. Ciel had said it would. The cup had been low after calling Lantern and Igris at once, and raising the bear took what was left, all at once, almost to the floor. He felt his whole body go heavy, sitting in the snow. Like he had been carrying something up a very long stair and had just put it down and could not remember how to stand without it.
 
 "Back," he said.
 
 The bear folded down into his shadow. All at once. The cold lights went last.
-
-The drain stopped.
 
 There was almost nothing left in the cup. A thin layer at the bottom. A margin so small he could barely feel it.
 
@@ -64,7 +62,7 @@ But it was there.
 
 *Level 32. Seventy-four points unspent.*
 
-*Registered shadows: 4. Places: 10.*
+*Registered shadows: 5. Places: 10.*
 
 Mau read it out, sitting in the snow. Maki listened. Kaneki listened, with his hands in his pockets. Stark listened, still holding his axe as if he had forgotten how to put it down.
 
@@ -146,13 +144,15 @@ She brought it to Mau after dinner, at the end of the long table, with the penci
 
 *2. Lantern. (Ori.) A light.*
 
-*3. Igris. (The notice.) A knight. Calls me little lady. (Because I won't always be little.) Bows to Frieren. (Won't say why.)*
+*3. Roof. (Ori.) He stood on a roof under no sky. He knelt to Mau anyway.*
 
-*4. Corner. (Ori.) Guards a corner.*
+*4. Igris. (The notice.) A knight. Calls me little lady. (Because I won't always be little.) Bows to Frieren. (Won't say why.)*
+
+*5. Corner. (Ori.) Guards a corner.*
 
 She had already written the next line:
 
-*5. Tank. (The notice.)*
+*6. Tank. (The notice.)*
 
 And then she had stopped.
 
@@ -210,7 +210,7 @@ A machine that doesn't stop. That goes over walls. That things bounce off. That 
 
 She picked up the pencil.
 
-*5. Tank. (The notice.) A big thing that doesn't stop.*
+*6. Tank. (The notice.) A big thing that doesn't stop.*
 
 She looked at it.
 

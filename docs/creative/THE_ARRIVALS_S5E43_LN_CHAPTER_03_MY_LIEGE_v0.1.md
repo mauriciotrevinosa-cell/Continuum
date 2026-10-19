@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 24
-**Continuity state:** The extraction of Igris. The deeper reserve makes it possible; the cost is real and larger than the dragon's. The copy speaks seldom and formally ("My liege"), knightly and disciplined, with his own judgement; his memories of any original are not established. He returns Maki's spear with a bow to its owner and notices the silver flower. The floor 20 transfer point is secured. Mau reaches level 22 (seventy-five unspent); three registered shadows (Lantern, the sentry, Igris) out of ten places
+**Continuity state:** The extraction of Igris. The deeper reserve makes it possible; the cost is real and larger than the dragon's. The copy speaks seldom and formally ("My liege"), knightly and disciplined, with his own judgement; his memories of any original are not established. He returns Maki's spear with a bow to its owner and notices the silver flower. The floor 20 transfer point is secured. Mau reaches level 22 (seventy-five unspent); four registered shadows (Lantern, Roof, the sentry, Igris) out of ten places
 
 *When: Day 347, the grey light of floor 20. The knight is kneeling before the empty throne. Under it, between the flagstones, the dark is gathering.*
 
@@ -16,7 +16,7 @@ Mau looked at the kneeling knight.
 
 Under it, between the cracked flagstones, the darkness was deep. Deeper than the sentry's had been. Deeper than the dragon's, at the snowline. He could feel the depth of it from where he stood, the way you feel cold coming off a well.
 
-He thought about floor 10. The guardian under the blue light, and the outline beneath it, and Ciel saying *you could raise it, you could not hold it*. He had closed the notice and said *not this one*, because the cup was too shallow, and he would rather have a little left for the next thing.
+He thought about floor 10. The guardian under the blue light, and the dark that had weighed him before it rose, and the cup going out of him all at once, and walking home through the frame with nothing in it. *Next time, a little left.*
 
 This was the next thing.
 
@@ -64,11 +64,11 @@ Behind the visor, the two small lights came back. Not dim. Not grey. Bright. And
 
 Mau felt the cost.
 
-Ciel had been right. It was a great deal more than the dragon. The reserve went down, steady and definite and fast, much faster than it had gone for Lantern, the shallow fill draining out of the bottom of the cup like water out of a cracked jar. He felt his knees go. He locked them. He kept the intention steady, the way he had kept it at the snowline. *A house. A door. Stand at it.*
+Ciel had been right. It was a great deal more than the dragon. The price came out of the cup all at once, as the knight rose, much more than Lantern had cost, the shallow fill going out of the bottom of the cup like water out of a cracked jar. He felt his knees go. He locked them. He kept the intention steady, the way he had kept it at the snowline. *A house. A door. Stand at it.*
 
-The draining slowed.
+The price was paid.
 
-Stopped.
+It stopped.
 
 The knight lifted its head.
 
@@ -166,7 +166,7 @@ Maki stood very still with her cracked spear for a long moment. Then she looked 
 
 *Level 22. Seventy-five points unspent.*
 
-*Registered shadows: 3. Places: 10.*
+*Registered shadows: 4. Places: 10.*
 
 Mau read it out. All of it. Then he sat down on the bottom step of the throne, very suddenly, because his legs had decided for him. Maki had been right about doing it sitting down.
 
@@ -176,7 +176,7 @@ The knight stood beside him.
 
 "Yes, my liege."
 
-It went down into his shadow. All at once, smoothly, the dark cloak and the dark armour and the long sword, the two cold blue lights last. And the drain stopped. What he had spent stayed spent. The cup was much emptier than it had been at the start of the day. But there was something left in the bottom of it. A margin. A little, for the next thing.
+It went down into his shadow. All at once, smoothly, the dark cloak and the dark armour and the long sword, the two cold blue lights last. What he had spent stayed spent. The cup was much emptier than it had been at the start of the day. But there was something left in the bottom of it. A margin. A little, for the next thing.
 
 Gojo crouched down in front of him.
 

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 11
-**Continuity state:** Ori names the Red Gate dragon shadow "Lantern". It is a brief controlled manifestation in the north field inside the lime at dawn, with Shoko's limit (under two minutes) and Rimuru and Frieren present; the deeper reserve makes it easier to hold but not free; the dragon obeys and does not speak; the floor guardians will carry names from their notices, but this one did not; no combat
+**Continuity state:** Ori names the Red Gate dragon shadow "Lantern". It is a brief controlled manifestation in the north field inside the lime at dawn, with Shoko's limit (under two minutes, for safety in the yard: it is a dragon that once tried to kill them, not a cup cost; the cup pays once when it appears) and Rimuru and Frieren present; the deeper reserve makes it easier to hold but not free; the dragon obeys and does not speak; the floor guardians will carry names from their notices, but this one did not; no combat
 
 *When: Day 339, just after dawn. Dew on the long grass in the north field. Nazuna has gone in to sleep. Shoko has come out in her coat with her coffee and a watch, and has said "two minutes" four times.*
 
@@ -36,7 +36,7 @@ Mau had put down his spoon.
 
 Shoko had said yes with conditions.
 
-"Two minutes," she said, in the yard, before they went out. "Standing. Not two minutes and then a little bit more because she's having a moment. Two minutes. I'll be watching the watch." She looked at Mau. "You doubled the box yesterday. That doesn't mean you fill it today. The level's the same as it was."
+"Two minutes," she said, in the yard, before they went out. "Standing. Not two minutes and then a little bit more because she's having a moment. Two minutes. I'll be watching the watch." She looked at Mau. "It's not the cup. Ciel says it only costs you when it comes up. It's that the last time that thing was standing near people, it was trying to kill them." She looked at Ori. "First time in the yard is two minutes. That's my rule."
 
 "I know."
 
@@ -72,11 +72,11 @@ It did not burst out. It rose, the way it had risen at the snowline. A darkness 
 
 It was very big. Much bigger in the open field than it had seemed in the red gate, where everything had been big.
 
-Mau felt the reserve go down.
+Mau felt the cost of it.
 
-It went down the way it had gone down before, steady and definite. But the cup was deeper now. The same amount was leaving, and there was more room around it, and he did not feel the floor coming up to meet him the way he had at the snowline.
+Once. As it stood up. The same price it had cost at the snowline, going out of the cup in one breath. But the cup was deeper now. The same amount left, and there was more room around it, and he did not feel the floor coming up to meet him the way he had at the snowline.
 
-*Easier,* said Ciel. *Not cheaper. The same rate. More margin.*
+*Easier,* said Ciel. *Not cheaper. The same price. More margin. And now it's standing, it costs nothing at all.*
 
 He kept his hand loose at his side.
 
@@ -152,9 +152,9 @@ Mau did not hurry. He let Ori take her hand away in her own time. She did, after
 
 The dragon folded.
 
-It went down into his shadow the way it had come out, all at once and very smoothly. Wings, neck, head, the two small lights last, going out in the dark like candles. Then there was only the long thin shadow on the wet grass, and the dawn, and the drain stopping.
+It went down into his shadow the way it had come out, all at once and very smoothly. Wings, neck, head, the two small lights last, going out in the dark like candles. Then there was only the long thin shadow on the wet grass, and the dawn.
 
-What he had used stayed used.
+What he had paid to call it stayed paid.
 
 But there was more left than there had been at the snowline. A good deal more. He stood in the long grass and felt the margin there, quiet, like money in a pocket you do not intend to spend.
 
@@ -190,6 +190,10 @@ But that evening, Mau found a new page pinned to the end of Umaru's wall, under 
 
 *2. Lantern. (Ori.) A light.*
 
+*3. Roof. (Ori.) He stood on a roof under no sky. He knelt to Mau anyway.*
+
+She had named that one from Yuka's telling, ten days ago, without ever seeing it: the rooftop, the grey lid of a sky, the guardian that had weighed Mau before it rose. *Roof,* she had said. *Because that's where he was. Before he was ours.*
+
 And underneath, smaller, in Umaru's hand, as an official amendment:
 
-*3. The sentry. (Unnamed. Pending.)*
+*4. The sentry. (Unnamed. Pending.)*

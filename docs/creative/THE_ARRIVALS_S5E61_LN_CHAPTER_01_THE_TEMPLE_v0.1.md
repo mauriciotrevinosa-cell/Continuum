@@ -198,7 +198,7 @@ Frieren stood in front of the last pillar for a long time.
 
 "Each one is a floor," she said at last. Very quietly. "Each statue. Each object. Each floor we climbed." She looked at the ring. "The lamp is seven. Near end first. Never dark on both sides." She looked at the second. "The bell is nine. Stand where a teacher stands. Out of the way. Let them go home." The third. "The star is nineteen. Find the one that doesn't move."
 
-"The scale is ten," said Mau. He was looking at it. "The guardian. When I didn't keep it. *I'd rather have a little left.*"
+"The scale is ten," said Mau. He was looking at it. "The guardian. When I kept it and it emptied me, and I walked home with nothing. *Next time, a little left.*"
 
 "The staff is sixty," said Frieren. "Tusk. When you walked through his sky and nobody could help you."
 

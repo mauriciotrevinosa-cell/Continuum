@@ -4,13 +4,13 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 56
-**Continuity state:** Igris and Beru with voices at home. Shoko allows five minutes a day of standing shadows in the yard once the cup allows. Beru apologises to Frieren every morning, and she stops him by the third day. Igris is dry and formal, with his own judgement, and corrects Beru. Ichika is not afraid of Beru, and he is gentle with her ("hungry to keep"). Touka is wary, then less so. Tank is remade quietly (a smaller cost than Beru). Neither shadow becomes a drone, a night guard or a weapon in the house; the night shifts come later
+**Continuity state:** Igris and Beru with voices at home. Shoko allows five minutes a day of shadows in the yard (her rule for the house getting used to them, not a cup cost: calling costs once, standing is free). Beru apologises to Frieren every morning, and she stops him by the third day. Igris is dry and formal, with his own judgement, and corrects Beru. Ichika is not afraid of Beru, and he is gentle with her ("hungry to keep"). Touka is wary, then less so. Tank is remade quietly (a smaller cost than Beru). Neither shadow becomes a drone, a night guard or a weapon in the house; the night shifts come later
 
 *When: Day 365 to Day 367, mornings, a little after dawn. The back step. Touka's coffee. Five minutes, by Shoko's watch, which Shoko has lent to Ori for the purpose, because Ori asked to be the one who counts.*
 
 The five minutes started on Day 365.
 
-Shoko had set the rule at breakfast the morning after the north field. Five minutes a day. Standing. In the yard. Once the cup could afford it, and not before, and not more. "They're yours," she said to Mau. "They're part of the house now, whether anyone likes it or not. People should get to know them. Five minutes." She looked at the long table. "And if anyone gets eaten, the rule ends."
+Shoko had set the rule at breakfast the morning after the north field. Five minutes a day. Standing. In the yard. Not more. "It's not the cup," she said, before Mau could say it. "I know. Ciel told me. It costs you to call them and then nothing." She looked down the table. "It's us. The house. We need to get used to them a little at a time. They're yours," she said to Mau. "They're part of the house now, whether anyone likes it or not. People should get to know them. Five minutes." She looked at the long table. "And if anyone gets eaten, the rule ends."
 
 "Nobody's going to get eaten," said Mau.
 
@@ -208,7 +208,7 @@ Beru was silent for a long moment.
 
 "Good morning, Beru."
 
-He went down into the dirt all at once, the cold blue lights last. Igris went smoothly, the long cloak last. The drain stopped.
+He went down into the dirt all at once, the cold blue lights last. Igris went smoothly, the long cloak last.
 
 Ori closed the watch.
 
@@ -252,4 +252,4 @@ He breathed out, very slowly, through his dark nose. It stirred the dust of the 
 
 Ori wrote it on the list. She did not show anyone that line. But Mau saw it later, pinned to Umaru's wall.
 
-*5. Tank. (The notice.) A big thing that doesn't stop. (Like Stark.) (Idiot.) Remade. Ichika says cold.*
+*6. Tank. (The notice.) A big thing that doesn't stop. (Like Stark.) (Idiot.) Remade. Ichika says cold.*

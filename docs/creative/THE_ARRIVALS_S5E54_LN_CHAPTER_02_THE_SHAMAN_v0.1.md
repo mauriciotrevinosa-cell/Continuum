@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 11
-**Continuity state:** Floor 60 (Day 375 morning), the sixth guardian (DH-124: Tusk replaces the earlier Warden draft). Party: Mau (owner), Frieren, Fern and Stark. A war camp in red rock under an ember sky; Tusk, the High Orc Shaman, behind a ring of orc warriors, casting through the skull on his staff. Mau plans it aloud: Stark holds the ring (Marin's jacket takes a blade), Fern cuts the fire-wall's knot, Frieren reads the casts. Then a weight-spell flattens everyone, warriors included. Mau wraps himself in full Infinity so the weight never arrives, stands, and walks twelve paces under it. A fire lance gets through on his left side (burns, side and face) and his Beru-bitten shoulder reopens. Beru and Igris, raised inside his space, break the skull. Tusk kneels ("Strong") and Mau finishes him. Extracted: a speaking caster, formal and careful ("Great one"; "I will be your fire. Behind your people. To keep them."). Seven registered shadows, twenty places. Level 62 (one hundred and sixty-four unspent). Shoko: "I'm going to stop saying fine."
+**Continuity state:** Floor 60 (Day 375 morning), the sixth guardian (DH-124: Tusk replaces the earlier Warden draft). Party: Mau (owner), Frieren, Fern and Stark. A war camp in red rock under an ember sky; Tusk, the High Orc Shaman, behind a ring of orc warriors, casting through the skull on his staff. Mau plans it aloud: Stark holds the ring (Marin's jacket takes a blade), Fern cuts the fire-wall's knot, Frieren reads the casts. Then a weight-spell flattens everyone, warriors included. Mau wraps himself in full Infinity so the weight never arrives, stands, and walks twelve paces under it. A fire lance gets through on his left side (burns, side and face) and his Beru-bitten shoulder reopens. Beru and Igris, raised inside his space, break the skull. Tusk kneels ("Strong") and Mau finishes him. Extracted: a speaking caster, formal and careful ("Great one"; "I will be your fire. Behind your people. To keep them."). Eight registered shadows, twenty places. Level 62 (one hundred and sixty-four unspent). Shoko: "I'm going to stop saying fine."
 
 *When: Day 375, morning. The seventh night falls tonight. Shoko said fine, after a long look. Anko's board: under today, in her hand, 60 (guardian), and under that, in Fern's: BRING FERN, crossed out, and FERN IS COMING written beside it.*
 
@@ -318,7 +318,7 @@ Frieren, holding her coat against Mau's burned side, made a small sound that mig
 
 *Level 62. One hundred and sixty-four points unspent.*
 
-*Registered shadows: 7. Places: 20.*
+*Registered shadows: 8. Places: 20.*
 
 At the far end of the hollow, past the mound, between two of the hide tents, a seal had appeared. Round. Dark. Patterned. And beside it, a small frame, with home faintly visible.
 

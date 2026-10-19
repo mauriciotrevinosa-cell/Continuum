@@ -116,7 +116,7 @@ She had the list. The page from Umaru's wall, *SHADOWS (NAMED)*, unpinned and br
 
 Ori picked up the pencil. She wrote, very carefully, under *2. Lantern. (Ori.) A light.*:
 
-*3. Igris. (The notice.)*
+*4. Igris. (The notice.)*
 
 Then she stopped, with the pencil over the page.
 
@@ -128,7 +128,7 @@ Mau thought about it. About the knight kneeling before the empty throne. The sal
 
 Ori wrote it.
 
-*3. Igris. (The notice.) A knight.*
+*4. Igris. (The notice.) A knight.*
 
 Then she looked at the line below, in Umaru's hand. *The sentry. (Unnamed. Pending.)*
 
@@ -164,7 +164,7 @@ Mau did not say anything for a moment.
 
 Ori crossed out Umaru's line, very neatly, one straight stroke. She wrote underneath:
 
-*4. Corner. (Ori.) Guards a corner.*
+*5. Corner. (Ori.) Guards a corner.*
 
 Then she looked at the list. Four names. Four lines.
 

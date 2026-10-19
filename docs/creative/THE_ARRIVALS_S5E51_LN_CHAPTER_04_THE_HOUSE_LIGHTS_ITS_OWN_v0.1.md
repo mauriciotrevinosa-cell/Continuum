@@ -18,7 +18,7 @@ She came up through the hatch anyway, with her watch on its chain and her coat o
 
 Nobody said anything.
 
-"I've had a long talk with Ciel," said Shoko. "Through Rimuru. Who didn't want to be in the middle of it." She looked at Rimuru. Rimuru looked at the stars. "The cup's lower than I'd like. It's higher than it was after the bear. It refills faster than it did at the start of the summer. Ciel says. She says *a little*. Very firmly." She looked at Mau. "Three minutes. Low. Inside the lime. Over the house, not past it. And you come down when I say. Not when you feel like it. When I say."
+"I've had a long talk with Ciel," said Shoko. "Through Rimuru. Who didn't want to be in the middle of it." She looked at Rimuru. Rimuru looked at the stars. "The cup's lower than I'd like, after raising the wyvern. Calling him costs once, and he's strong enough to carry you, Ciel says, but he's new, and a mount that's never carried anyone over people is a mount that might drop someone." She looked at Mau. "Three minutes. Low. Inside the lime. Over the house, not past it. And you come down when I say. Not when you feel like it. When I say."
 
 Mau looked at her.
 
@@ -206,7 +206,7 @@ Shoko looked at her for a long time.
 
 Mau sent Kaisel back.
 
-The wyvern went down into the roof boards all at once, smoothly, the cold blue lights last. The thread stopped. The cup was low. Lower than he liked. Not empty. There was a margin left. There was always, now, a margin left.
+The wyvern went down into the roof boards all at once, smoothly, the cold blue lights last. The cup was low, from raising him that afternoon and calling him tonight. Lower than he liked. Not empty. There was a margin left. There was always, now, a margin left.
 
 He sat down in his place on the roof.
 

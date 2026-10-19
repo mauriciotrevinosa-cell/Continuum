@@ -276,7 +276,7 @@ Not cleanly. Not easily. It took the long sword on its armoured forearm, let the
 
 Igris did not fall. Igris was a shadow; he did not fall the way a man falls. He held. He held the Ant King's arm with his sword stuck in it, and the Ant King's claw in his chest, and he did not let go.
 
-*He's holding,* said Ciel. *Mau, he's breaking. A minute. Less. The cup—*
+*He's holding,* said Ciel. *Mau, he's breaking. A minute. Less. If he comes apart, bringing him back will cost you more than you have left—*
 
 Gojo's marble went past the Ant King's head. Close. It pulled. The Ant King leaned with it, a hand's breadth, and leaned back, and did not let go of the knight.
 

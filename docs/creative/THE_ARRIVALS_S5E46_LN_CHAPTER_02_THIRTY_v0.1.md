@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 36
-**Continuity state:** Floors 26–29: Mau ALONE again, slipping past the screen-watchers at noon and during dinner (Anko: *He's faster every day*). On the morning of thirty Stark, Maki and Kaneki sit on the bench at the screen and stop him (Stark's brother stood alone: the loneliest thing; Kaneki: you're getting stronger so you won't need us); Mau gives Stark the bag; Anko writes *(Together.)* Floor 30 (Day 353), the third guardian, with Mau (owner), Maki, Stark and Kaneki: a snowfield in a blizzard and a great bear armoured in ice, which the notice names Tank. It is a group fight, with no single combat requested. Kaneki hears it in the snow; Stark meets the charge; Maki goes inside the reach; Igris stands, and Lantern stands for the first time in a fight, for under a minute, which drains the deeper reserve fast. Maki leaves her spear in the gap and steps back ("Yours"); Mau finishes it with the small pull at the spear's tip and is thrown off, collarbone broken. Tank is defeated by Mau. Mau reaches level 32 (seventy-four unspent)
+**Continuity state:** Floors 26–29: Mau ALONE again, slipping past the screen-watchers at noon and during dinner (Anko: *He's faster every day*). On the morning of thirty Stark, Maki and Kaneki sit on the bench at the screen and stop him (Stark's brother stood alone: the loneliest thing; Kaneki: you're getting stronger so you won't need us); Mau gives Stark the bag; Anko writes *(Together.)* Floor 30 (Day 353), the third guardian, with Mau (owner), Maki, Stark and Kaneki: a snowfield in a blizzard and a great bear armoured in ice, which the notice names Tank. It is a group fight, with no single combat requested. Kaneki hears it in the snow; Stark meets the charge; Maki goes inside the reach; Igris stands, and Lantern stands for the first time in a fight, for under a minute, which costs a great deal of the deeper reserve at once; Lantern can only pin the bear for seconds on his own strength. Maki leaves her spear in the gap and steps back ("Yours"); Mau finishes it with the small pull at the spear's tip and is thrown off, collarbone broken. Tank is defeated by Mau. Mau reaches level 32 (seventy-four unspent)
 
 *When: Day 353, morning. Anko's board, second plank: 26, 27, 28, 29. Under today: 30 (guardian). START FROM: 20. Five hours, because the walk from 20 is long.*
 
@@ -202,11 +202,11 @@ The bear went down.
 
 Face first into the snow, under Lantern's weight, with its forelegs pinned. Igris standing over its right shoulder with his sword at the cracked ice. Maki at its left with her spear in the gap.
 
-Mau felt the reserve go.
+Mau had felt the price of calling both of them go out of the cup at once, as they rose. A great deal of it. Two at the same moment, and one of them as big as a house. Even three and a half times as deep, he could see the floor of it now.
 
-Fast. Much faster than Igris alone on the bridge. Faster than raising Igris on twenty. Two of them standing at once, and one of them as big as a house, and the cup was emptying like a jar with the bottom knocked out. Even three and a half times as deep, he could feel the floor of it coming up.
+And under him, the bear heaved.
 
-*Thirty seconds,* said Ciel. *Maybe forty. Not more.*
+*Lantern can't hold it,* said Ciel. Very fast. *Not long. He's pinning it with his own strength, not yours, and it's stronger than he is. Thirty seconds. Maybe forty.* A pause. *If it throws him and breaks him, bringing him back costs again. You don't have enough for that.*
 
 "*Maki*," he said.
 
@@ -237,8 +237,6 @@ The bear went still.
 "*Back*," said Mau. "Both. *Back*."
 
 Lantern folded down into his shadow. All at once. The cold lights last. Igris stayed one heartbeat longer, sword at the cracked ice, to be sure. Then he went too.
-
-The drain stopped.
 
 Mau lay in the snow where he had been thrown and breathed, with his left arm held against his chest and the white sky going round, and Kaneki already kneeling beside him, not touching the shoulder, just there.
 

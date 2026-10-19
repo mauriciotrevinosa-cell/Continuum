@@ -210,7 +210,7 @@ Yuta looked at him.
 
 He looked down at his shadow. It lay across his small island of stone, and off the edge, over the nothing, longer than it should be. It reached out into the grey toward the twelve statues and the Architect at the foot of the steps.
 
-"I've got a hundred and nine," he said. "And a list."
+"I've got a hundred and ten," he said. "And a list."
 
 He took the folded paper out of his coat.
 
@@ -228,7 +228,7 @@ For the first time, it did not smile.
 
 He put the list back in his coat.
 
-"*Lantern. Corner. Igris. Tank. Beru. Kaisel. Tusk. Kamish. Bellion.*" He took a breath. "*Legion.*"
+"*Lantern. Roof. Corner. Igris. Tank. Beru. Kaisel. Tusk. Kamish. Bellion.*" He took a breath. "*Legion.*"
 
 His shadow came up out of the stone.
 

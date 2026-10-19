@@ -44,11 +44,11 @@ She went to the first sheet. On it, in her careful hand, were the five words the
 
 "I remember."
 
-"So that's the first problem." She went to the second sheet. "The second problem is the guardian on ten. You couldn't keep it. Ciel said—" She looked at Rimuru.
+"So that's the first problem." She went to the second sheet. "The second problem is the guardian on ten. You kept it. And it emptied you. Ciel said—" She looked at Rimuru.
 
-"*It would cost more than the dragon to raise, and far more to keep,*" said Rimuru, in his own voice but Ciel's words. "*Your reserve is shallow.*"
+"*Calling them costs once. Raising him took nearly all of it. The reserve is shallow,*" said Rimuru, in his own voice but Ciel's words. "*If anything else had come, he'd have had nothing to call it with.*"
 
-"Shallow," said Umaru. She underlined the word on the sheet. "The shadow reserve. That's the thing that pays for the dragon and the sentry. Not your mana. Not your cursed energy. A third box." She tapped the broken line running from it. "And when you said, on ten, *I'd rather have a little left*—you meant that box. Because that box is small."
+"Shallow," said Umaru. She underlined the word on the sheet. "The shadow reserve. That's the thing that pays for the dragon and the sentry. Not your mana. Not your cursed energy. A third box." She tapped the broken line running from it. "And when you said, on ten, *next time I want a little left*—you meant that box. Because that box is small."
 
 "Yes."
 

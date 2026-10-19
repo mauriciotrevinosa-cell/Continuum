@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 32
-**Continuity state:** Floors 21–24 summarised from Anko's board: Day 349 evening Mau went ALONE (the day after the front row; frostbite, Frieren takes him to Shoko); Anko understands there can be no rule and instead tells Kaneki his leaving time, so on Day 350 at three Kaneki, Milim and Rem are waiting at the screen and go in with him (the kitchen gag kept). Floor 25 (Day 350) with Mau (owner), Frieren, Fern and Stark from the floor 20 transfer point: a long stone bridge over a chasm with small fire-things; Igris is called to stand for the first time in the tower and holds the far end while the party crosses. Standing costs reserve by the minute, so he is sent back as soon as it is done. He addresses Fern as "my lady" and bows to Frieren without a word; Frieren notices. Mau reaches level 27 (one hundred unspent). No extraction
+**Continuity state:** Floors 21–24 summarised from Anko's board: Day 349 evening Mau went ALONE (the day after the front row; frostbite, Frieren takes him to Shoko); Anko understands there can be no rule and instead tells Kaneki his leaving time, so on Day 350 at three Kaneki, Milim and Rem are waiting at the screen and go in with him (the kitchen gag kept). Floor 25 (Day 350) with Mau (owner), Frieren, Fern and Stark from the floor 20 transfer point: a long stone bridge over a chasm with small fire-things; Igris is called to stand for the first time in the tower and holds the far end while the party crosses. Calling him costs once; standing is free, but if he is broken, bringing him back costs again. He addresses Fern as "my lady" and bows to Frieren without a word; Frieren notices. Mau reaches level 27 (one hundred unspent). No extraction
 
 *When: Day 350, morning. Anko's board: 21, 22, 23, 24 under FLOOR, in four different parties' days. Under today: 25. START FROM: 20, underlined twice, because it is the first time.*
 
@@ -120,11 +120,9 @@ The dark gathered in his shadow on the stone and stood up beside him, tall, armo
 
 It went. Past Stark, past Fern, past Frieren floating above the stone. It went along the narrow bridge with long unhurried strides, and the fire-things that came up over the edges in its path were simply not there any more when it had passed. It went on into the heat-shimmer, and a little way into it, and stopped. Mau could just see it, tall and dark at the edge of the shimmer, where the far end must be.
 
-Mau felt the reserve start to go.
+Mau had felt the price of calling him go out of the cup once, as he rose. Nothing after. The knight could stand at the far end of the bridge all day and it would not cost another drop.
 
-Not the rush of raising it. A slower thing. Steady. A thread being pulled out of the cup, minute by minute, for as long as the knight stood.
-
-*Standing costs,* said Ciel. *By the minute. Not as much as raising him. More than storing him. Don't leave him out longer than you need.*
+*Calling him costs,* said Ciel. *Once. Standing is free. But if they break him out there, bringing him back costs again. More than calling.* A pause. *Don't let them break him.*
 
 *I won't.*
 
@@ -150,7 +148,7 @@ They crossed.
 
 It took a long time. The bridge was very long and very narrow and the heat came up on both sides. When they reached the middle, Stark said, quite calmly, without looking up from his boots, "I'm going to be sick." Fern said, "No, you're not." Stark said, "No, I'm not," and wasn't.
 
-Mau counted the minutes with Ciel. The thread went out of the cup, steady. Four minutes. Five. Six.
+Mau watched the far end the whole way, the knight tall and dark in the shimmer, holding it. Four minutes. Five. Six. The cup did not move. It did not need to.
 
 At seven, they reached the far end.
 
@@ -224,7 +222,7 @@ Frieren looked at the knight a moment longer.
 
 "Yes, my liege."
 
-The knight went down into the stone. The cold blue lights went last. The thread stopped. Seven and a half minutes. Mau checked the cup with Ciel. Lower. Not low. There was a margin left. There was still a margin left.
+The knight went down into the stone. The cold blue lights went last. Seven and a half minutes, and not a drop more than the price of calling him. Mau checked the cup with Ciel. Lower than this morning, by one knight. Not low. There was a margin left. There was still a margin left.
 
 "One hundred," said Fern, from the stair. She had heard him read the notice. "Points."
 

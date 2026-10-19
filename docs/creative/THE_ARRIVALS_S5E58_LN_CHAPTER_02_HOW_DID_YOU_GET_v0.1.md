@@ -20,7 +20,7 @@ The cold foot on his shin.
 
 He lay in the dark with his bound shoulder and his bound side and his eyes behind the filter, and his heart coming down. He did not close his eyes. He had not closed them at this hour since the first word. He lay and listened, down, toward the branch, where the shapes were.
 
-A hundred and nine of them now. Lantern and Corner and Igris and Tank and Beru and Kaisel and Tusk and Kamish and Bellion. Ninety-eight soldiers, standing in rows in the dark. Two more, in pieces, waiting to be remade. A great deal of dark, and a great deal of room around it.
+A hundred and ten of them now. Lantern and Roof and Corner and Igris and Tank and Beru and Kaisel and Tusk and Kamish and Bellion. Ninety-eight soldiers, standing in rows in the dark. Two more, in pieces, waiting to be remade. A great deal of dark, and a great deal of room around it.
 
 Nothing.
 
@@ -176,7 +176,7 @@ Nobody told him. He sat down across from Mau at the long table, pushed his blind
 
 Mau looked at him.
 
-"In the shadow," said Gojo. "Not the shapes. I can see the shapes. A hundred and nine, two in pieces. Same as yesterday." He tilted his head. "Something else. Like a draught. Like a window somebody's opened a crack in a room that used to be shut." He looked at Mau. "Did something come through?"
+"In the shadow," said Gojo. "Not the shapes. I can see the shapes. A hundred and ten, two in pieces. Same as yesterday." He tilted his head. "Something else. Like a draught. Like a window somebody's opened a crack in a room that used to be shut." He looked at Mau. "Did something come through?"
 
 Mau looked at Frieren beside him. Frieren looked back. She did not say anything. It was his to tell.
 

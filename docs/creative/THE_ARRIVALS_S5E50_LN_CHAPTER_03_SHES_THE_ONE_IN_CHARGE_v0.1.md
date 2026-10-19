@@ -48,7 +48,7 @@ Not all at once, this time. In pieces. The way the pieces had fallen, like ash, 
 
 Two small cold blue lights.
 
-Mau felt the cost. Ciel had been right. Not as much as the hive. Still a good deal. The cup went down, steady and definite. A thread pulled out of it, for as long as the pieces took to find each other. He kept his hand on the grass and held the intention steady.
+Mau felt the cost. Ciel had been right. Not as much as the hive. Still a good deal. Bringing him back cost what it cost, all at once, as the pieces began to find each other. He kept his hand on the grass and held the intention steady.
 
 The pieces found each other.
 
@@ -218,7 +218,7 @@ At the edge of the yard, Ori caught up with them.
 
 She had the list. *SHADOWS (NAMED)*. She had been writing on it the whole time. She held it up so Mau could see it, walking backwards in front of them.
 
-*6. Beru. (The notice.) The Ant King. Talks a lot. Calls Mau king. Calls Frieren queen.*
+*7. Beru. (The notice.) The Ant King. Talks a lot. Calls Mau king. Calls Frieren queen.*
 
 And underneath, in her careful printing:
 

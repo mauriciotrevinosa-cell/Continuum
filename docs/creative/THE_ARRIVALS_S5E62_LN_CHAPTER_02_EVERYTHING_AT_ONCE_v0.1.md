@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 46
-**Continuity state:** The twelve statues fight for the Architect, on islands of stone over unmade nothing. Mau commands everything at once (nine named shadows and the Legion of a hundred) with a commander's view from Kaisel's back:
+**Continuity state:** The twelve statues fight for the Architect, on islands of stone over unmade nothing. Mau commands everything at once (ten named shadows and the Legion of a hundred) with a commander's view from Kaisel's back:
 - Kamish lies across the void as a bridge.
 - Bellion's whip pulls statues off their islands; Igris stands near Frieren; Corner guards Yuta's corner; Beru hunts; Tank holds; Tusk breaks the staff-bearer's weight from the inside; the Legion makes the lines; Lantern harries.
 - Each statue falls to its own lesson turned against it.
@@ -234,7 +234,7 @@ His head kept splitting.
 
 Six left. And the cup was going.
 
-Mau could feel it. Fifteen times deep, and the floor of it coming up. Nine named and a hundred soldiers, standing at once, for a minute and a half.
+Mau could feel it. Fifteen times deep, and the floor of it coming up. Ten named and a hundred soldiers, standing at once, a minute and a half into the fight.
 
 *One minute,* said Ciel. *Less.*
 

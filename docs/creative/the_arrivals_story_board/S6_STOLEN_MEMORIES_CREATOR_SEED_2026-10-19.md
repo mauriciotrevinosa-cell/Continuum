@@ -104,3 +104,10 @@
 - It is also exactly what false-Yuka feared in his story ("nervous about him going back into a gate in case it happens again"), now happening to the real Yuka.
 - Red Gate rules (S5 V28) apply: time runs differently inside, the doors seal, and no one from the house can get in.
 - What happens inside (the balance, a crack in the false memory, the forehead kiss, the Black Heart) is the creator's to develop.
+
+## Scale (creator, 2026-10-19, verbatim)
+
+> es que si te soy honesto no se si quiera arreglar este arco muy rapido se puede volver el pilar de s6 muajajajaja
+
+- The stolen-memory arc may be **the pillar of S6**, not resolved quickly.
+- Claude's notes: to carry a whole season it should move in stages. A possible shape: the theft; the house discovering it; Frieren breaking; Yuka's balance; the Red Gate; Daphne's diagnosis; the cracks (the forehead kiss, the coin he no longer has, his own handwriting); the Black Heart; recovery. The other S6 threads (the nations' war, the Architect and Sukuna, the integration overload, the shikigami) keep moving around it, so it presses on everything instead of freezing the season.

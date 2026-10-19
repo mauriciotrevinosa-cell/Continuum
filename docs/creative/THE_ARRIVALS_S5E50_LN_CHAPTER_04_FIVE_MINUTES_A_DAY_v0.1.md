@@ -10,6 +10,8 @@
 
 The five minutes started on Day 365.
 
+His hands were out of the wrappings by then. Shoko had spent three nights on them, and Yuta two, and they had closed. Not healed. Closed. New skin, pink and shiny and tight, over the places that had been black, and the fingers would bend if he made them, slowly, the way old hinges bend. He could not hold a cup properly yet. Touka, on the first morning, had looked at him trying, and taken the cup out of his hands without a word, and held it while he drank, and then handed it to Frieren to hold for the rest, and gone back to the stove as if nothing had happened. Nobody said anything about it. Everybody saw.
+
 Shoko had set the rule at breakfast the morning after the north field. Five minutes a day. Standing. In the yard. Not more. "It's not the cup," she said, before Mau could say it. "I know. Ciel told me. It costs you to call them and then nothing." She looked down the table. "It's us. The house. We need to get used to them a little at a time. They're yours," she said to Mau. "They're part of the house now, whether anyone likes it or not. People should get to know them. Five minutes." She looked at the long table. "And if anyone gets eaten, the rule ends."
 
 "Nobody's going to get eaten," said Mau.

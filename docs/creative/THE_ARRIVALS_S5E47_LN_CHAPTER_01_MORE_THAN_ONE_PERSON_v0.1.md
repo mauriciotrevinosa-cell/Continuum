@@ -6,7 +6,7 @@
 **Reading order:** 39
 **Continuity state:** Mau decides to give his warm coin to Kaneki. It is the coin that stayed (S4 V23 "The Coin That Stayed", Day 104): the Goddess's long-run gift, kept in his coat's inside left pocket beside Mai's bullet. Frieren said then: "To keep. Or to give. Someday, maybe, to someone who has more than one person on the other side of the clearing, and only one coin." Kaneki has one coin and needs two (S4 "Thirteen Years"). Mau tells Frieren first. Kaneki refuses, then asks why, then accepts the decision, which stays his to use. The petition still needs Touka's and Ichika's own yes
 
-*When: Day 354, afternoon into dusk. The seventh night. Mau's reserve has refilled enough to feel, not enough to use. He has his coat on, though it is warm, because of what is in the inside pocket on the left.*
+*When: Day 354, afternoon into dusk. The seventh night. The day after thirty. Mau's left arm is strapped across his chest in a sling Marin cut from an old sheet, because the collarbone Shoko set last night will not take any weight for a week and she has said so to the whole long table, twice. He has his coat on over the sling, though it is warm, because of what is in the inside pocket on the left.*
 
 The coin was where it had always been.
 
@@ -16,7 +16,9 @@ Beside it, since the long table in the winter, a bullet. Mai's. Cold.
 
 Warm coin. Cold bullet. He had stopped noticing them as two things a long time ago. They were just what was in the pocket.
 
-He took the coin out on the afternoon of the seventh night, sitting on the back step, and looked at it.
+He took the coin out on the afternoon of the seventh night, sitting on the back step, one-handed, because the other hand was in the sling, and looked at it.
+
+Nobody had let him do anything all day. Taihei had cut his bread for him at breakfast without asking. Stark had carried his bowl. Fern had looked at the sling and then at him and then written something in the ledger and not shown him what. Kaneki, coming in from the kilns at dawn, had stopped in the kitchen doorway and looked at the strapped arm for a long moment and said nothing, which from Kaneki was a great deal.
 
 * * *
 

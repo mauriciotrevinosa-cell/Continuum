@@ -8,9 +8,11 @@
 
 *When: Day 386, afternoon, then evening. Floors 81 to 89. Then the back step.*
 
+The spear had gone in above his right hip and out of his back. Shoko had spent the night on it, and Yuta the hour before dawn, and in the morning it was closed. Closed, not healed: a hot tight seam on both sides of him that pulled at every step, and a stitch of pain under the ribs every time he breathed in too far. Maki had looked at it in the clinic at dawn, and then at him, and said, "You walked into ten spears on purpose," in a voice that made Yuta leave the room. Shoko had said *not fine. Two floors. Not more.* He had done nine.
+
 The board said the day plainly, later.
 
-*Day 386, morning. Mau, Yuta, Mikasa, Kaneki. From 80. Floor 81: a lake of ink. Floor 82: a hall of mirrors that showed you behind yourself. Floor 83: a long road through a grey country that never ended until Kaneki heard the end. Floor 84: wind again. Cleared, all four.*
+*Day 386, morning. Mau (side stitched; Shoko said two floors), Yuta, Mikasa, Kaneki. From 80. Floor 81: a lake of ink. Floor 82: a hall of mirrors that showed you behind yourself. Floor 83: a long road through a grey country that never ended until Kaneki heard the end. Floor 84: wind again. Cleared, all four.*
 
 *Day 386, afternoon. Mau, Fern, Stark (with the plate), Armin. From 80, walked to 84. Floor 85: a city of towers, all leaning. Armin found the one that didn't. Floor 86: a field of swords stuck in the ground. Mau took one. Floor 87: a library again. Fern read the last page of every book. Floor 88: a garden of statues. Again. They turned their heads. Floor 89: a stair up into black and violet banners. Cleared, all five.*
 

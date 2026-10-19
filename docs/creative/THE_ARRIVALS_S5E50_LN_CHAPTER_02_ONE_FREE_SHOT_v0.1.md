@@ -10,9 +10,13 @@
 
 Everyone came.
 
-Mau had known everyone would come. He had not known *everyone*. He came up the slope from the house at dusk with Frieren beside him and stopped, and looked at the north field, and did not say anything for a moment.
+Mau had known everyone would come. He had not known *everyone*. He came up the slope from the house at dusk slowly, three days after forty, with Frieren on one side and Yuta on the other, not holding him up, close enough to. Both his hands were still wrapped to the elbow in Shoko's white cloth, black and raw underneath, and he could not close either of them. The thin lines from the shrine were all over his face and neck, scabbed, a thousand of them. The left edge of everything he looked at was smeared. He stopped at the top of the slope, and looked at the north field, and did not say anything for a moment.
 
-They were on the slope below the red stake. All of them. The fort in a row at the front, with Ichika in the middle in her too-long sash, holding on to Ori's sleeve. Kessoku, with Bocchi's guitar, which nobody had asked her to bring. The five, with Kusuri's slate, which Umaru had un-confiscated for the occasion. The witches. Touka, with Kaneki, with a cup. Seiko on a bench somebody had carried up, with Turbo Granny in her cat beside her. Eren and Mikasa, a little apart. Himmel, a little further apart, with his arms folded and an expression Mau could not read. Fern, at the front, with the ledger. Stark behind her.
+They were on the slope below the red stake. All of them. And half of them, he saw, were not looking at the field, where Beru would be. They were looking at him. At his hands. At his face. The way you look at someone who came home three days ago in a way nobody in the house would forget.
+
+Shoko had said yes to this only because Beru would not wait and because she would be sitting at the end of the slope, with her bag. She was. She did not take her eyes off his hands the whole time.
+
+They were all there. The fort in a row at the front, with Ichika in the middle in her too-long sash, holding on to Ori's sleeve. Kessoku, with Bocchi's guitar, which nobody had asked her to bring. The five, with Kusuri's slate, which Umaru had un-confiscated for the occasion. The witches. Touka, with Kaneki, with a cup. Seiko on a bench somebody had carried up, with Turbo Granny in her cat beside her. Eren and Mikasa, a little apart. Himmel, a little further apart, with his arms folded and an expression Mau could not read. Fern, at the front, with the ledger. Stark behind her.
 
 And Gojo.
 

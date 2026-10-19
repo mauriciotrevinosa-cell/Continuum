@@ -30,7 +30,7 @@ Frieren lifted her face off his shoulder.
 
 Mau stayed kneeling in the grass.
 
-He put his hand flat on his own shadow, where it lay across the ground. He felt for the shape in the cup. Broken. All the pieces of it, scattered through the dark, where Frieren's light had sent them.
+He could not put his hand flat. Not the way he always did. Both hands were wrapped and would not open. He laid the back of his right wrist on his own shadow instead, the cloth against the grass, and felt it hurt all the way up to the elbow, and did not say so. Frieren saw. She put her own hand flat on the shadow beside his wrist, as if to steady it. He felt for the shape in the cup. Broken. All the pieces of it, scattered through the dark, where Frieren's light had sent them.
 
 He did not need to think about what he was asking. He had asked it already, in the hive. *Be hungry to keep them. Not to eat them. To keep them.*
 

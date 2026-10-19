@@ -168,7 +168,7 @@ He was not flying. He could not fly. He was a boy thrown across a gap with nothi
 
 He hit Kaisel's back.
 
-Between the wings. Hard. All the breath went out of him. His hands found the ridge of scales along its neck and closed on it, and the wyvern bucked under him, screaming, one wing folded and one wing beating, and they went down together, turning, toward the island with the twisted tree.
+Between the wings. Hard. All the breath went out of him. His hands found the ridge of scales along its neck and closed on it, and the new pink skin across his palms, a week old, tore open on the scales in the first heartbeat, and he did not let go, and the wyvern bucked under him, screaming, one wing folded and one wing beating, and they went down together, turning, toward the island with the twisted tree.
 
 Its tail came round. The barb on the end of it, like an arrowhead. It came round over its own back at him, the way a scorpion's does.
 

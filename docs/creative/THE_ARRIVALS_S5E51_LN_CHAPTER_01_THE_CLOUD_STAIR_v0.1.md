@@ -8,6 +8,8 @@
 
 *When: Day 368, morning. The seventh night falls tonight. Anko's board has a third plank now. Under FLOOR on it: 41 to 48, over four days, because cleared floors are quick to walk. Two of the lines have *(No check.)* beside them, and one line has no floor at all. Under today: 46, 47, 48 already done before dawn. Then 49, then 50.*
 
+Seven days after forty. The shrine-cuts on his face had gone from scabs to thin pale lines that would not go further. His hands were pink and stiff and could hold a rope again, just. Ciel said the eyes were holding. Shoko said *not fine, but go*, which was what she said now instead of *fine*, and Yuka had started writing it on the board in brackets after his name, the way Anko had written *(Alone.)*.
+
 The third plank had gone up on Day 365, the morning after the north field.
 
 Anko had nailed it up herself. Then she had stood back from the board and looked at all three planks for a long time. Forty-eight floors. Thirty-odd parties. Nearly every name in the house somewhere on it.

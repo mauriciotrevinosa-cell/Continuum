@@ -52,7 +52,7 @@ She might have said *not today*.
 
 Shoko did not say anything.
 
-"My eyes," said Mau. "Since forty. They're not right yet. You'd have seen. You'd have said wait a day." He looked at his hands. "I didn't want to wait a day."
+"My eyes," said Mau. "Since forty. They're not right yet. And my hands." He looked at them. Pink, shiny, the fingers stiff. "You'd have seen. You'd have said wait a day." He looked at his hands. "I didn't want to wait a day."
 
 "Why not?"
 

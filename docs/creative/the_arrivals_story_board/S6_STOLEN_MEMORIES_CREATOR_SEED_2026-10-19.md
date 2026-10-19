@@ -53,3 +53,19 @@
 - **The forehead kiss is the tell:** it is what shows something is wrong.
 - **Why Yuka survives:** the Noise tried to protect something, and Yuka was the only thing it could grab, because Frieren was taken first.
 - **The Black Heart is key** to the arc (how is still open).
+
+## Creator's third clarification (verbatim, 2026-10-19)
+
+> si mal no me equivoco uno yuka ya tendria 18 y eso es lo que quiero osea las memorias de mau estan tan retorcidas y yuka tiene que jugar una balanza mientras todos los demas hacen algo entoces de ahi nace el conflicto  osea ella le puede decir oppa y el se quede como quien es oppa y en ves de que el diga que si es el diga ah si cierto tsuguri o como se escriba que con el ya lo vas a traer ya quieres que te de mi moneda o aun no. eh que tal que tal no pienso romper nada bueno ya lo estoy haciendo pero es para el arco
+
+## Captured (creator)
+
+- **By S6 Yuka is 18.** Her birthday has to be placed before or at the start of S6; she is 17 in S4–S5.
+- **The twist is intentional:** Mau's memories are so warped that in the false history his bond with Yuka is not the little-sister bond. The house knows the truth. Yuka has to hold a **balance** (not break him, not lie to him, not lose him) while everyone else acts. That is where the conflict comes from.
+- **Example beat:** Yuka calls him "Oppa". He doesn't know who she means and assumes she means her brother **Tsurugi**: "Ah, right, Tsurugi. Are you going to bring him? Do you want my coin yet, or not yet?"
+- The creator knows this breaks established things on purpose, for the arc.
+
+## Claude's notes
+
+- **The coin is a second tell.** Mau gave his warm coin to Kaneki in S5 (V30). In the false history he believes he still has one, so offering it is itself proof that the memories are false.
+- Keep everyone adult and the false-memory dynamic clearly framed as a theft that harms Mau, Yuka and Frieren. The house's knowledge, and Yuka's refusal to exploit it, carry the moral weight.

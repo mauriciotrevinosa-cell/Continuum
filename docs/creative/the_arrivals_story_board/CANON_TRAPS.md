@@ -441,4 +441,4 @@ not on this list. Add a line every time the creator catches a new slip.
 - **At 101 the Architect suspended the Operator interface.** The Noise rebuilt the line (it is "the Noise's now"). The interface outages and the Noise's own line connect to DH-122's integration outlines; keep that cause and effect.
 - **Shoko's check is every morning, by Mau's word since Day 366.** Fern's ledger page *Days* lists the house's chosen days with him.
 
-- **Umaru was gone FOUR DAYS in her world** (left on Sunday; Taihei arrived on Thursday, his time). For her it was two years and a bit. Never "months". This follows the Kessoku/Seika rule (three days) and the creator's rule that no one is missing for months at home. Fixed in V29 "The Eighth Bell" (2026-10-19).
+- **Umaru was gone FOUR DAYS in her world** (left on Sunday; Taihei arrived on Thursday, his time). For her it was two years and a bit. Creator's rule (2026-10-19): about a month at most is acceptable in a home world, more is too ugly. Usually days (Kessoku and Seika three days, Umaru four). Fixed in V29 "The Eighth Bell" (2026-10-19).

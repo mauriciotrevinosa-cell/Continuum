@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 11
-**Continuity state:** Ori names the Red Gate dragon shadow "Lantern". It is a brief controlled manifestation in the north field inside the lime at dawn, with Shoko's limit (under two minutes, for safety in the yard: it is a dragon that once tried to kill them, not a cup cost; the cup pays once when it appears) and Rimuru and Frieren present; the deeper reserve makes it easier to hold but not free; the dragon obeys and does not speak; the floor guardians will carry names from their notices, but this one did not; no combat
+**Continuity state:** Ori names the Red Gate dragon shadow "Lantern". It is a brief controlled manifestation in the north field inside the lime at dawn, with Shoko's limit (under two minutes, for safety in the yard: it is a dragon that once tried to kill them, not a cup cost: once raised, a shadow costs nothing to call out or put away; only raising it, or remaking it if it breaks, costs) and Rimuru and Frieren present; the dragon obeys and does not speak; the floor guardians will carry names from their notices, but this one did not; no combat
 
 *When: Day 339, just after dawn. Dew on the long grass in the north field. Nazuna has gone in to sleep. Shoko has come out in her coat with her coffee and a watch, and has said "two minutes" four times.*
 
@@ -36,7 +36,7 @@ Mau had put down his spoon.
 
 Shoko had said yes with conditions.
 
-"Two minutes," she said, in the yard, before they went out. "Standing. Not two minutes and then a little bit more because she's having a moment. Two minutes. I'll be watching the watch." She looked at Mau. "It's not the cup. Ciel says it only costs you when it comes up. It's that the last time that thing was standing near people, it was trying to kill them." She looked at Ori. "First time in the yard is two minutes. That's my rule."
+"Two minutes," she said, in the yard, before they went out. "Standing. Not two minutes and then a little bit more because she's having a moment. Two minutes. I'll be watching the watch." She looked at Mau. "It's not the cup. Ciel says it doesn't cost you anything to call it, now it's yours. It cost you once, at the snowline, raising it. It's that the last time that thing was standing near people, it was trying to kill them." She looked at Ori. "First time in the yard is two minutes. That's my rule."
 
 "I know."
 
@@ -72,11 +72,11 @@ It did not burst out. It rose, the way it had risen at the snowline. A darkness 
 
 It was very big. Much bigger in the open field than it had seemed in the red gate, where everything had been big.
 
-Mau felt the cost of it.
+Mau waited for the cost of it.
 
-Once. As it stood up. The same price it had cost at the snowline, going out of the cup in one breath. But the cup was deeper now. The same amount left, and there was more room around it, and he did not feel the floor coming up to meet him the way he had at the snowline.
+It did not come. Nothing went out of the cup. He had paid for this dragon once, at the snowline, in the red gate, raising it out of a dead thing with everything he had. It was his now. Calling it out of his shadow was like opening his own hand.
 
-*Easier,* said Ciel. *Not cheaper. The same price. More margin. And now it's standing, it costs nothing at all.*
+*Nothing,* said Ciel. *It's yours. It costs nothing to call and nothing to keep standing and nothing to put away.* A pause. *Only if something breaks it. Then bringing it back costs again.*
 
 He kept his hand loose at his side.
 
@@ -154,13 +154,13 @@ The dragon folded.
 
 It went down into his shadow the way it had come out, all at once and very smoothly. Wings, neck, head, the two small lights last, going out in the dark like candles. Then there was only the long thin shadow on the wet grass, and the dawn.
 
-What he had paid to call it stayed paid.
+The cup had not moved.
 
-But there was more left than there had been at the snowline. A good deal more. He stood in the long grass and felt the margin there, quiet, like money in a pocket you do not intend to spend.
+It was deeper than it had been at the snowline, and it was full, and it had not moved. He stood in the long grass and felt it there, quiet, like money in a pocket you do not intend to spend. For the next thing. For raising something new.
 
 "Two minutes," said Shoko. She closed the watch. "Exactly. Well done." She looked at him over her coffee. "How do you feel?"
 
-"Fine," said Mau. "A bit lighter. Like after carrying something."
+"Fine," said Mau. He looked down at his shadow. "It didn't cost anything. Not even a little."
 
 "Then go and eat," said Shoko. "And don't do it again today."
 

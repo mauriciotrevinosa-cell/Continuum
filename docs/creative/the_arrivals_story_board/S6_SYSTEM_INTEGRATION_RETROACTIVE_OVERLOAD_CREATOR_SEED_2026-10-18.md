@@ -26,6 +26,6 @@ Reached in conversation after S5 was completed. This builds on the creator's own
 - **Where the drained excess goes.**
   - **Claude's proposal:** into the Black Heart's empty nameless bar. Mau starts filling, without meaning to, the bar Frieren asked him not to fill until they knew what it was for, and nobody can see what happens to it. This gives the heart its first movement without explaining it.
   - **Safer alternative:** into the ground or the shadow cup, which opens nothing.
-  - Not decided. Don't write either until the creator chooses.
+  - **DECIDED (creator, 2026-10-19):** "todo el exceso de energia mana etc ciel lo redirije al blackheart". Ciel redirects the excess into the Black Heart. The overload is short, not a ten-volume arc. See [S6_UNION_ARMY_AND_THE_GODDESS_BET_CREATOR_SEED_2026-10-19.md](S6_UNION_ARMY_AND_THE_GODDESS_BET_CREATOR_SEED_2026-10-19.md).
 - Whether the sealed remainder ever fully returns, or whether part of the cap is permanent.
 - The long-term payoff (stabilising the Six Eyes and the elf route at comparable levels) stays a growth path, not an unlock (Red Gate proposal §8).

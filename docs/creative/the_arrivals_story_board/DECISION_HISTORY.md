@@ -1957,3 +1957,13 @@ Creator: "amo a beru y se el monstruo que es… llévalo a sus extremos… que c
   - Kaisel is remade on Day 382, Igris and Beru on Days 383–384.
   - He rides floors 71–79 on Kaisel under Shoko's terms and does not fight.
   - Himmel's tea moves to Day 384, his first walk to the gate (Himmel sees the white coming in).
+
+## DH-129 — S6 order before the Yuka–Mau arc: overload, the union's army, the Goddess's bet (creator, 2026-10-19)
+
+[mensaje íntegro y notas](S6_UNION_ARMY_AND_THE_GODDESS_BET_CREATOR_SEED_2026-10-19.md).
+- **Overload is short.** Ciel redirects all the excess into the Black Heart (resolves the open question in the integration seed).
+- **The union attacks with ~20,000.** The front group is otherworlders who are possible house additions: Subaru and Betty (told Mau holds Rem and Ram hostage), Thomas Andre or similar (smiles at Kamish), and Reze or the hybrids (opens another door in Mau). Behind them come devils, demons and CE monsters, possibly Culling Game players.
+- **The house is moved** to the ridge with a note; the Exchange is cooling. Rimuru asks Mau to promise not to kill.
+- **The Goddess's bet:** two cookies, "not allowed to kill nobody, and you need to help them afterward". Helping one under contract, he loses his memories; the attackers flee; the house finds him on the ground with two cookies.
+- Most attackers go home; Subaru stays. The witches' talk and Rem's line ("Mau died more times, counted them, never asked for anything") start his Eren-style arc from cocky to serene.
+- Open questions are listed in the seed (Kamish's five, Reze or hybrids, the thief, Rem and Subaru, RbD).

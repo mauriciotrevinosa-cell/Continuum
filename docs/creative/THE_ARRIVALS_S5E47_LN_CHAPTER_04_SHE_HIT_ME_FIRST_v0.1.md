@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 42
-**Continuity state:** Touka and Ichika arrive in the intake hall of Arrival House at the fifth bell before dawn (the register girl reopened the hall and the book, as for Taihei). It is quiet, not a crowd. Touka was closing the shop when something asked her, and she said yes before it finished. She hits Kaneki first (S4 "Thirteen Years": "She hit me first. And then she said yes."), then holds on. Ichika is small and walking, and does not quite remember him, then reaches for him. The register entries. They are his family, not a power arrival
+**Continuity state:** Touka and Ichika arrive in the intake hall of Arrival House at the fifth bell before dawn (the register girl reopened the hall and the book, as for Taihei). It is quiet, not a crowd. Touka was closing the shop when something asked her, and she said yes before it finished. She hits Kaneki first (S4 "Thirteen Years": "She hit me first. And then she said yes."), then holds on. For them only fifteen days have passed (creator's rule); Ichika is exactly as small as when he left, and it is Kaneki, more than a year older, she does not quite recognise, until she takes his finger. The register entries. They are his family, not a power arrival
 
 *When: Day 356, the fifth bell, before dawn. The intake hall of Arrival House. The register girl lit the stove at four. A few people are in the plaza outside, pretending not to wait: Fern, Eren, Maomao, Rem, Momo with a cloth-covered basket, Mau and Frieren at the back. Not a crowd.*
 
@@ -100,7 +100,7 @@ She looked at him. At his face. At the smoke in his hair.
 
 Her voice broke in the middle.
 
-"I know you didn't leave," said Touka. "You'd never leave. You're too stupid to leave. That's why I was so *angry*." Her fist came down. She grabbed the front of his clean shirt in both hands. "Because I knew you didn't leave. So something took you. And I didn't know what. And I didn't know where. And Ichika kept asking. And I kept the shop open. Every night. Until closing. In case you walked in. In case you walked in and wanted a cup and I wasn't there—"
+"I know you didn't leave," said Touka. "You'd never leave. You're too stupid to leave. That's why I was so *angry*." Her fist came down. She grabbed the front of his clean shirt in both hands. "Because I knew you didn't leave. So something took you. And I didn't know what. And I didn't know where. And Ichika kept asking. Fifteen days she kept asking. And I kept the shop open. Every night. Until closing. In case you walked in. In case you walked in and wanted a cup and I wasn't there—"
 
 She stopped.
 
@@ -148,9 +148,11 @@ She let go of Kaneki's shirt. Not all at once. One hand, then the other. She ste
 
 The child looked at her mother. Then up at the man.
 
-Kaneki had not moved. He stood where he had been standing, with his arms empty now. He looked down at the small girl on the stone floor. She had been so small. She had fitted in the crook of one arm. She was not small like that any more. She was standing. She was walking. She had hair now, dark, like her mother's, falling across one side of her face. She had his eyes. Or Touka's. Both.
+Kaneki had not moved. He stood where he had been standing, with his arms empty now. He looked down at the small girl on the stone floor. She was exactly as small as the morning he left. Exactly. Standing, barely, the way she had only just learned to. The same dark hair falling across one side of her face. His eyes. Or Touka's. Both. Fifteen days, for her. Nothing had changed in her at all.
 
-She was looking at him the way you look at a stranger.
+It had changed in him. More than a year of another world, the kilns and the house and the smoke in his hair, his face thinner and older and quieter than the face she knew.
+
+She was looking at him the way you look at a stranger who reminds you of someone.
 
 "Ichika," said Touka again. Gently. "Do you know who that is?"
 
@@ -160,7 +162,7 @@ She did not say anything. She held on to the edge of her mother's apron and look
 
 Kaneki crouched down.
 
-Slowly. On the cold stone. Until he was the same height as his daughter. He did not reach for her. He did not say *it's Papa* or *do you remember me* or any of the things he had said in his head at the kilns, at eleven, for nearly a year. He crouched there, an arm's length away, and held out his hand. Open. Palm up. The way you hold out your hand when you are not reaching, just offering.
+Slowly. On the cold stone. Until he was the same height as his daughter. He did not reach for her. He did not say *it's Papa* or *do you remember me* or any of the things he had said in his head at the kilns, at eleven, for more than a year. He crouched there, an arm's length away, and held out his hand. Open. Palm up. The way you hold out your hand when you are not reaching, just offering.
 
 The palm was still pink.
 
@@ -168,7 +170,7 @@ Ichika looked at the hand.
 
 She looked at it for a long time.
 
-Then she let go of her mother's apron. She took one step across the cold stone floor, barefoot. And another. She reached out with one small hand and took hold of his finger. Not his hand. One finger. With her whole fist. The way she had held it when she fitted in the crook of one arm.
+Then she let go of her mother's apron. She took one step across the cold stone floor, barefoot. And another. She reached out with one small hand and took hold of his finger. Not his hand. One finger. With her whole fist. The way she had held it fifteen days ago, the last morning, before he went out and did not come back.
 
 She looked up at him.
 

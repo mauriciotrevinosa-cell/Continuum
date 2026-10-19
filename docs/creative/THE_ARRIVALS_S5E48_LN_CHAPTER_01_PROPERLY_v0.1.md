@@ -240,7 +240,7 @@ She sat on the bench between them, in the bark shelter, with her own cup, and li
 
 Touka listened to all of it.
 
-She did not say she was grateful. She did not say she was overwhelmed. She was not, really. She was a woman who had run a coffee shop through the worst years her world had ever had, and raised a child alone after he went, and kept the doors open every night until closing in case someone walked in. She did not get overwhelmed. She got angry, and then she got on with it.
+She did not say she was grateful. She did not say she was overwhelmed. She was not, really. She was a woman who had run a coffee shop through the worst years her world had ever had, and then for fifteen nights raised a child alone after he went, and kept the doors open every night until closing in case he walked in. She did not get overwhelmed. She got angry, and then she got on with it.
 
 She was angry, a little. At the voice that had taken him. At the year.
 

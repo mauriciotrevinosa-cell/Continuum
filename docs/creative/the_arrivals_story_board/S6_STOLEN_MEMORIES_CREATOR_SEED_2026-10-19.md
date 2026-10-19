@@ -41,3 +41,15 @@
 - **Lost in the false history:** he doesn't recognise the east room. Frieren is only "the elf of the east room who always reads". Ori is only "a kid who's always playing with the fort".
 - **Daphne** identifies the theft and helps restore him. Yuka's "trust, trust" and the forehead kiss before the dungeon are the anchor.
 - **Not a micro-arc:** it should carry weight for a good while.
+
+## Creator's second clarification (verbatim, 2026-10-19)
+
+> lo de frieren me da miedo pq la idea con yuka quiero que sea algo entre ellos y tengo varias ideas quiero que frieren tal ves intente abrazarlo recuperarlo y el se aleje y esto rompe a frieren y en ves de forzar algo lento ella sufre que perdio lo que mas anelaba de tener alguien para toda la vida y no aburrirse y mas que el beso de la frente sea lo de que demuestre que algo esta mal y la razon que se acuerde de yuka pudo ser the noise que intento proteger algo y es lo unico que pudo agarrar pq tal ves lo primero que quitaron fue a frieren. nono el black heart puede ser clave
+
+## Captured (creator)
+
+- **Frieren does NOT court him slowly** (Claude's idea rejected). She tries to hug him and get him back; he pulls away; it breaks her. She suffers the loss of what she most longed for: someone for her whole life who would not bore her.
+- **The Yuka thread is "something between them"** and the creator has several ideas. It is to be developed with him. Constraint on file: Yuka is 17 and her established bond with Mau is little sister / "Oppa" (CAST_LEDGER). Confirm what "something between them" means before writing.
+- **The forehead kiss is the tell:** it is what shows something is wrong.
+- **Why Yuka survives:** the Noise tried to protect something, and Yuka was the only thing it could grab, because Frieren was taken first.
+- **The Black Heart is key** to the arc (how is still open).

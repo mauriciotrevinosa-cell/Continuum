@@ -111,3 +111,9 @@
 
 - The stolen-memory arc may be **the pillar of S6**, not resolved quickly.
 - Claude's notes: to carry a whole season it should move in stages. A possible shape: the theft; the house discovering it; Frieren breaking; Yuka's balance; the Red Gate; Daphne's diagnosis; the cracks (the forehead kiss, the coin he no longer has, his own handwriting); the Black Heart; recovery. The other S6 threads (the nations' war, the Architect and Sukuna, the integration overload, the shikigami) keep moving around it, so it presses on everything instead of freezing the season.
+
+## Core principle (creator correction, 2026-10-19, verbatim)
+
+> es que ahi esta tu error dices que mau no es mau pero en relaidad si es mau y ahi esta el problema
+
+- **He is still Mau.** Same person: the same kindness and instincts, the same "nobody stands in the cold for me", the same all-in protectiveness. Only his history was stolen and rewritten. Never write him as "not himself" or a stranger. The horror is that everything good in him is intact and pointed at a false life. The house is fighting for someone who is fully present and fully wrong.

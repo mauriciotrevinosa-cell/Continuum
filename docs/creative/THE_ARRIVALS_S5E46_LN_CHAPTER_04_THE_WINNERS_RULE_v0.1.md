@@ -6,7 +6,7 @@
 **Reading order:** 38
 **Continuity state:** The R39 bridge. Yuka and Umaru have changed a rule of their card game (V29 "The Rules": same suit or same number, empty your hand first): now the winner of each round adds one rule for the next. They come looking for Mau to play while he is too tired for shadows. Ori and Milim join; Mau wins once by accident and adds a kind rule; the game becomes theirs, not a debrief. No training, no XP
 
-*When: Day 353, after dinner. Mau cannot call a shadow until tomorrow at the earliest. Yuka and Umaru have come to find him at the end of the long table with the cards and a sheet of paper that says RULES (AMENDED) at the top.*
+*When: Day 353, after dinner. The bear took nearly all the cup this afternoon; Mau could not raise anything new, or remake anything broken, until it refills. Yuka and Umaru have come to find him at the end of the long table with the cards and a sheet of paper that says RULES (AMENDED) at the top.*
 
 Yuka and Umaru found him at the end of the long table.
 

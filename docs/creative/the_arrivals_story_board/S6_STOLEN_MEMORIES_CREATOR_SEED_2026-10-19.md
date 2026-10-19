@@ -23,3 +23,21 @@
 - It fits the Architect and Sukuna's stated plan ("take everything from that boy"), which stays an open link and is the creator's call.
 - Daphne's source knowledge of Gluttony makes her the right person to recognise memory-eating.
 - To keep it distinct from Mau's S1 amnesia: these memories are **altered**, so false ones replace true ones and the house may look like strangers or enemies to him.
+
+## Creator's clarification (verbatim, 2026-10-19)
+
+> si osea esto sucede justo despues  de la pelea del ejercito en esa pelea mau usa un exchange evolucionado para desplazar todos a un lugar seguro donde sus sombras contruieron algo a escondidas de todo.
+> nono osea mi plan es mas macabro la neta osea el no ve a enemigos a nadie pero el nada mas recuerda a yuka no como un remplazo de  frieren en sus recuerdos el recuerda otra historia que llego en arrival house hace no mucho y que la gate lo habia buscado y asi y que en la red gate comenzo a tener una conexion con yuka y asi y que andaba yuka nerviosa de que regresara a una gat por si vuelve a pasar y no reconoce nada del cuarto este y solo recuerda a frieren como la elfa del cuarto este que siempre lee a ori como una chamaca que siempre anda jugando con el fort y asi entonces esto nos da mucho material pq no quiero que sea un micro arco esto quiero que tenga peso por un buen rato
+
+## Captured (creator)
+
+- **Victim: Mau.**
+- **Timing:** right after the S6 battle against the army. In that battle Mau uses an **evolved Exchange** to move everyone to a safe place that his shadows built in secret.
+- **The theft is macabre, not hostile.** He doesn't see enemies. He keeps everyone, but in a **false history**:
+  - he arrived at Arrival House not long ago, and the gate had sought him;
+  - in the Red Gate he began a bond with **Yuka**;
+  - Yuka is nervous about him going back into a gate in case it happens again.
+  - This is **not a replacement for Frieren**. The Yuka bond is not romantic; she calls him Oppa.
+- **Lost in the false history:** he doesn't recognise the east room. Frieren is only "the elf of the east room who always reads". Ori is only "a kid who's always playing with the fort".
+- **Daphne** identifies the theft and helps restore him. Yuka's "trust, trust" and the forehead kiss before the dungeon are the anchor.
+- **Not a micro-arc:** it should carry weight for a good while.

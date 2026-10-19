@@ -104,7 +104,7 @@ It was a long time before either of them said anything.
 
 When Taihei did, it was into her hair.
 
-"You've been gone," he said. "Four days. Nobody knew. The police. Everyone. They looked. I looked." His voice cracked. "I kept making dinner. Every night. In case. All four nights. I kept making the curry you like. In case you came home and wanted it."
+"You've been gone," he said. "Fifteen days. Nobody knew. The police. Everyone. They looked. I looked." His voice cracked. "I kept making dinner. Every night. In case. Fifteen nights. I kept making the curry you like. In case you came home and wanted it."
 
 Umaru made a sound against his apron.
 
@@ -126,15 +126,15 @@ Then he looked at her properly. At her face. Her height, against him. Her hands 
 
 Umaru went still.
 
-"It's been four days," said Taihei. "You left on Sunday. It's Thursday." He looked at her. "You're taller. Your face is—" He stopped. "How long has it been? For you?"
+"It's been fifteen days," said Taihei. "You left two Sundays ago. I counted. I've been counting." His voice went thin. "The police stopped calling on the tenth day. They said I should start thinking about—" He did not finish. He looked at her. "You're taller. Your face is—" He stopped. "How long has it been? For you?"
 
 Umaru looked at the stone floor.
 
 "Two years," she said. Very small. "And a bit."
 
-Taihei did not say anything for a long time. Every world keeps its own clock. The house had learned it from Seika, on a witness-room floor, three days to Bocchi's two years. Mau watched Taihei learn it now, standing in socks on cold stone, looking at a sister two years older than the one who had left on Sunday.
+Taihei did not say anything for a long time. Every world keeps its own clock. The house had learned it from Seika, on a witness-room floor, three days to Bocchi's two years. Mau watched Taihei learn it now, standing in socks on cold stone, looking at a sister two years older than the one who had left two Sundays ago.
 
-"Two years," said Taihei. "And I made curry for four nights."
+"Two years," said Taihei. "And I made curry for fifteen nights."
 
 "I know," said Umaru. "I'm sorry."
 
@@ -210,7 +210,7 @@ Taihei turned. He looked at Mau standing in the doorway beside Jinshi.
 
 Taihei looked at Mau for a long moment.
 
-Mau did not know what to say. He had not planned anything. He stood in the doorway of Arrival House with the morning behind him, and the whole plaza behind that, and looked at the tall tired man in the apron who had made curry every night for four nights in case, and would have made it for two years.
+Mau did not know what to say. He had not planned anything. He stood in the doorway of Arrival House with the morning behind him, and the whole plaza behind that, and looked at the tall tired man in the apron who had made curry every night for fifteen nights in case, and would have made it for two years.
 
 "She counted blankets," said Mau. "In an evacuation. Nobody asked her to. She just did it." He paused. "I thought you'd want to know."
 

@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 53 — A Chair for Later
+## Chapter 55 — A Chair for Later
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 53
-**Continuity state:** Two rest days after floor 40 (Days 362–363), the house trying to laugh again after the long room (it does not quite manage, and the comedy has an edge). Shoko forbids shadows until Day 364. The house hears about Beru's "later": Gojo has Wakana build him a chair; Umaru drafts duel rules; Fern worries; Frieren keeps counting the green book and does not discuss it; Ori asks Frieren if she is frightened, and she says no. Mau sleeps a great deal, his eyes under Shoko's wet cloth until noon on Day 363; Yuta heals his calves and forearms. No fight yet
+**Reading order:** 55
+**Continuity state:** Two rest days after floor 40 (Days 362–363), the house trying to laugh again after the long room (it does not quite manage, and the comedy has an edge). Shoko forbids shadows until Day 364. The house hears about Beru's "later": Gojo has Wakana build him a chair; Umaru drafts duel rules; Fern worries; Frieren keeps counting the green book and does not discuss it; Ori asks Frieren if she is frightened, and she says no. Mau sleeps a great deal, his eyes under Shoko's wet cloth until noon on Day 363; Yuta heals his calves and forearms; his burned hands stay wrapped. Lasting marks (DH-128): the left edge of his left eye stays blurred, Ciel's filter is thinner on the left, headaches when he uses the eyes, and shrine-cut scars everywhere. No fight yet
 
 *When: Day 362 and Day 363. Mau has slept for most of both. The cup is refilling, a little faster than it used to, Ciel thinks. Nothing can come out of his shadow until Shoko says so. Shoko has said so: Day 364. Dusk. Not before.*
 
@@ -199,6 +199,14 @@ Then she nodded, satisfied, and went back through the connecting door. A moment 
 Mau woke properly on the evening of Day 363.
 
 He sat up in bed. Shoko had taken the cloth off at noon and looked into his eyes with a lamp for a long time and said *fine* in a voice that meant *barely*. The light was gold, and blurred at the edges, and it was the most beautiful thing he had ever seen. His back pulled under Shoko's bandages, three long tight lines. His legs answered him. They had not, the day before. Yuta had come twice, once each day, and sat on the end of the bed with his hands on Mau's calves for a long time, saying nothing, until the torn places had knitted enough to stand on. Shoko had watched from the door both times and said nothing either. The cup was not full. Not close. But there was something in it now. More than a thin layer. A real amount. Enough to raise one thing. Enough to remake one thing, maybe.
+
+Not all of it was beautiful. The left edge of his left eye stayed blurred. A smear, like a thumbprint on glass, at the far side of everything he looked at. Shoko had seen him see it. *That's staying,* she had said, very quietly. *For a while. Maybe for good.*
+
+And Ciel, inside, carefully: *The filter doesn't close the way it did. It closes. It holds. But there's a place on the left where it's thinner now, and I can feel the eyes pressing at it at night.* A pause. *I'll watch it. Every night. You'll get headaches. When you use them. Even a little.*
+
+He looked at the gold light with the smear on the edge of it, and his hands in Shoko's white wrappings, black underneath, on the blanket.
+
+He thought it was a fair price. He did not say so. Nobody would have agreed.
 
 *Tomorrow,* said Ciel. *Dusk. Shoko said. And you'll have enough for Beru to stand for a while. And for one remaking, if it comes to that.*
 

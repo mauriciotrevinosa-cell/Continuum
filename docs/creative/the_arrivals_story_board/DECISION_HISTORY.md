@@ -1930,3 +1930,14 @@ Creator: "mau guarda los 10 bosses como que no guarda el primero" … "el mana d
 - The real gate on extraction is **worthiness**: the dark weighs the would-be king before it rises.
 - **Floor 10:** the guardian is now kept. Its dark weighs him; raising it empties his shallow cup once; he walks home with nothing, and that is where "next time, a little left" comes from.
 - V29 is fixed through the festival boundary. V30–V31 sweep pending: "drain" becomes "cost", Shoko's minute limits become activation limits, the floor-10 guardian is added to the counts and Ori's list, and "didn't keep" references are fixed.
+
+## DH-128 — Beru and Kamish taken to the extreme, with lasting marks (creator, 2026-10-19)
+
+Creator: "amo a beru y se el monstruo que es… llévalo a sus extremos… que contra beru saque todo… purple rojo zoltrak… en un punto sujete a beru el domain de sukuna se activa y este cortando a beru pero en el proceso a si mismo… lo mata con fuga pero eso también lo lastima… cuando sale… con beru como sombra detrás… y kamish… true dragon v kamish… y cuando vean a mau en el piso kamish les diga que está vivo apenas… no comprimas, si necesitas extender extiende". Also approved: the eye mark, Kamish's Ruler history, slower recovery, a permanent mark, and the Rimuru scene with the restless scale.
+
+**Beru (V30, now three fight chapters):**
+- "Unfiltered" ends at Beru's fear turning to wanting to kill him.
+- New "Everything He Half-Knows": a point-blank Red, his own crooked Zoltraak, Beru healing by eating him, Hollow Purple aimed where Beru will be, Beru crawling on and still eating, "Not finished. Neither of us."
+- New "Shrine": Sukuna's shrine opened from his walls, made arm's-length, cutting both. "Open": Fuga, point-blank, burning his hands black. Blind "Arise" in the smoke. He walks out with Beru rising behind him, and Beru catches him: "My King."
+- "My King" now opens after the catch.
+- **Lasting marks:** the left edge of his left eye stays blurred; the filter is thinner on the left (headaches); shrine-cut scars everywhere; burned hands scarred.

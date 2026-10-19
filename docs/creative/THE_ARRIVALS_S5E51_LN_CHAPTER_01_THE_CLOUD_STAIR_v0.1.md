@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 58 — The Cloud Stair
+## Chapter 60 — The Cloud Stair
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 58
+**Reading order:** 60
 **Continuity state:** Floors 41–48 summarised from Anko's board: parties every time now, but Days 365–366 without Shoko's check (see "The Check"); Day 367 is "not today" (the river bend with Frieren); 46–48 before dawn on Day 368, checked. Floor 49 (Day 368 morning) with Mau (owner), Frieren, Milim and Yuka: a stair of cloud climbing into open sky, where the wind is the danger; Yuka's rope and Milim's flight; at the top, the fifth guardian's floor is plainly a sky. Mau reaches level 51 (one hundred and nine unspent). No extraction
 
 *When: Day 368, morning. The seventh night falls tonight. Anko's board has a third plank now. Under FLOOR on it: 41 to 48, over four days, because cleared floors are quick to walk. Two of the lines have *(No check.)* beside them, and one line has no floor at all. Under today: 46, 47, 48 already done before dawn. Then 49, then 50.*

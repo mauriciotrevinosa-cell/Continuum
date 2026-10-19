@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 55 — She's the One in Charge
+## Chapter 57 — She's the One in Charge
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 55
+**Reading order:** 57
 **Continuity state:** The creator's Beru/Frieren sequence, part 2, kept intact. Mau remakes Beru (real cost from the reserve; no new life is created). Beru apologises to "the queen of my King" (the creator's "queen of his monarch") and swears never to be disrespectful again. Igris and the rest turn to look at Mau. Mau: "She's the one in charge." Frieren: "Correct." "Queen" is affection and comedy here, not marriage, coronation or a change to Fern's role. The house laughs, Himmel too. Ori's list grows
 
 *When: Day 364, dusk, a minute later. The north field. The white light has gone out of the sky. The laughter on the slope has gone uneven and then quiet. Frieren is kneeling in the long grass with her face against Mau's good shoulder. Where Beru stood, there is nothing at all.*

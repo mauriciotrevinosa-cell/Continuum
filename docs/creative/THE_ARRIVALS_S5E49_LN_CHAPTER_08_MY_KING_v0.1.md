@@ -1,92 +1,98 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 51 — My King
+## Chapter 53 — My King
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 51
-**Continuity state:** Mau is shredded (shoulder bitten to the bone twice, both forearms opened, sides and back clawed, calves torn, eyes bleeding from the unfiltered Six Eyes) and cannot walk or see; he raises Beru blind, with Frieren telling him where it lies; Shoko orders three days in bed, and the roof night comes to the east room. The extraction of Beru. It nearly empties the deeper reserve. The copy speaks lavishly and devotedly ("My King!"), with the personality the creator asked to keep; his knowledge of any original is not established. He notices Frieren standing in "the place of the King's guard" and also remembers her Zoltraak; he promises to "speak with her later" (setting up the challenge). The floor 40 transfer point is secured. Mau reaches level 42 (sixty-four unspent). Six registered shadows: Lantern, Roof, Corner, Igris, Tank (broken, awaiting remaking) and Beru. The return: held up between Gojo and Yuta, blind, saying "I'm all right"; the yard stops; Ori counts his breaths with Maki's hands on her shoulders; Frieren breaks down in Fern's arms outside the clinic ("he didn't look alive"); Shoko: "He'll live". That night's roof in the east room is quiet; Gojo can't finish the funny version; Frieren says "Good" about Beru's later
+**Reading order:** 53
+**Continuity state:** Directly after "Shrine": Beru was raised blind in the smoke and caught him. Mau is shredded (shoulder bitten to the bone, eaten from, both forearms opened, a thousand shrine-cuts, back clawed, calves torn, hands and forearms burned black by the fire, eyes bleeding from the unfiltered Six Eyes) and cannot walk or see. Gojo: "You opened his domain. Inside you. With you in it." Beru, to Frieren: "I would like to stop him falling." Shoko orders three days in bed, and the roof night comes to the east room. The extraction of Beru. It nearly empties the deeper reserve. The copy speaks lavishly and devotedly ("My King!"), with the personality the creator asked to keep; his knowledge of any original is not established. He notices Frieren standing in "the place of the King's guard" and also remembers her Zoltraak; he promises to "speak with her later" (setting up the challenge). The floor 40 transfer point is secured. Mau reaches level 42 (sixty-four unspent). Six registered shadows: Lantern, Roof, Corner, Igris, Tank (broken, awaiting remaking) and Beru. The return: held up between Gojo and Yuta, blind, saying "I'm all right"; the yard stops; Ori counts his breaths with Maki's hands on her shoulders; Frieren breaks down in Fern's arms outside the clinic ("he didn't look alive"); Shoko: "He'll live". That night's roof in the east room is quiet; Gojo can't finish the funny version; Frieren says "Good" about Beru's later
 
-*When: Day 361, the heart of the hive on forty. The Ant King lies broken on the packed earth. Under it, the dark is gathering, deeper than anything yet. The cup is low. Not empty. Mau cannot see any of it.*
+*When: Day 361, the heart of the hive on forty, the same minute. Smoke still standing over the place where a shrine came down. Mau is kneeling on the packed earth, blind, with a tall dark shape holding him up from behind. Nobody else has moved.*
 
-*Can I?* he said.
+Frieren reached him first.
 
-Ciel did not answer at once.
+She came through Gojo's Infinity as it went down and across the floor of the hive through the smoke, and stopped. In front of him. In front of the tall dark thing kneeling behind him with its claws spread on his shoulders.
 
-He felt her look. At the cup, five and a half times deep, with not very much left in the bottom of it after Igris, broken and still fighting. At the thing he used for the space and the pull, empty. At the broken shape of Tank, in pieces, waiting. At him.
+It lifted its head.
 
-*Yes,* she said at last. *Barely. It'll take almost everything that's left. You won't be able to call anything else out for two days. Maybe three. You'll be very, very tired.* A pause. *And it's hungry, Mau. Even now. I can feel it in the depth. It was the hungriest thing on any floor. If you raise it, it'll be yours. It'll still be hungry.*
+Two cold blue lights looked at her over the top of Mau's.
 
-*Hungry for what?*
+Frieren did not lift her staff.
 
-*I don't know,* said Ciel. *That's the honest answer. I don't know what a shadow is hungry for. We'll find out.*
+She knelt down in front of Mau, on the packed earth, and put her cold hands on his face, the way she always did. On the soot and the thousand thin cuts and the red running down from his eyes.
 
-He turned his head toward the others. Shapes in the red. He knew them by where they were.
+"Mau."
 
-Gojo was still crouched beside Yuta. Yuta was sitting on the floor of the hive with his arm across his knees, the long cut closing pink. Frieren was beside Mau, so close her shoulder was against his.
+"I can't see you," said Mau. His voice was ash. "I'm sorry. I can't see you."
 
-"Ciel says I can," he said. "Barely. And it'll still be hungry."
+"You don't have to see me." Her thumbs moved under his eyes. "I'm here."
 
-Gojo looked at the Ant King. Then at Frieren. Then at Mau.
+"Is it—" He stopped. "Ciel says it's behind me. I can feel it. I can't see it."
 
-"It went for her," he said. "At the end. Not to eat. Not to heal. It went straight for her." He paused. "After she took its arm."
+"It's behind you," said Frieren. She looked up, over his head, at the cold blue lights. Very steadily. "It caught you. When you fell. It's holding you up."
+
+The dark shape did not look away from her.
+
+"*He is very hurt*," it said. Quietly. To her. As if she were the only other thing in the hive worth speaking to. "*I hurt him. Before. Everywhere I could.*" Its claws on his shoulders did not move. "*I would like to stop him falling.*"
+
+Frieren looked at it for a long time.
+
+"Then don't let go," she said.
+
+* * *
+
+Gojo came across the hive slowly.
+
+He had his blindfold up. He stopped a pace away and looked at all of it. At the boy kneeling on the floor, cut from his face to his feet, his arms black to the elbow. At the tall thin shape behind him, whole, unhurt, both arms, holding him up. At the smoke, thinning, over the place where the floor of the hive was scorched in a perfect circle the size of a man's reach, and cut, all over, in thin straight lines, like a slate somebody had scored a thousand times with a nail.
+
+"You opened his domain," said Gojo. Very quietly. "Inside you. With you in it."
+
+"Small," said Mau.
+
+"Small." Gojo's voice did something. "You made Sukuna's shrine the size of your arms and stood in it with the thing that was eating you, so it wouldn't reach us." He was quiet. "And then you used his *fire*."
+
+Mau did not say anything.
+
+"I've seen people die of less," said Gojo. "I've seen people die of a quarter of that."
+
+He crouched down. He did not touch Mau. He looked at the dark shape behind him instead.
+
+"It went for her," he said. "At the end. Before all of that. It went straight for her."
 
 "I know."
 
-"You're going to raise a thing that went straight for her."
+"And you raised it anyway. Blind. In the smoke."
 
-Mau turned his face toward Frieren. He could not see her. He could feel her shoulder.
+"It's not the same thing," said Frieren. Before Mau could answer. She was still kneeling in front of him with her hands on his face. "After." She looked up at the cold blue lights. "Lantern tried to kill us at the high pass. Igris cut him on twenty. The bear nearly took Stark's head off." She paused. "They're not what they were. They're what he asks them to be."
 
-Frieren looked at him. She did not say anything for a long moment.
+Gojo looked at her for a long moment.
 
-"It's not the same thing," she said. "After." She looked at the Ant King. "Lantern tried to kill us at the high pass. Igris cut you on twenty. The bear nearly took Stark's head off." She paused. "They're not what they were. They're what you ask them to be."
+Then at the tall dark shape.
 
-"You're already sitting down," said Gojo. "Stay there. You couldn't get up if you tried."
+"What did he ask you to be?" he said.
 
-That was true. His legs had not answered him since the last heartbeat of Okarun's speed. His back was three long burning lines under the torn coat. His left shoulder was a hole. Both his forearms were wrapped in strips of Frieren's coat, and Yuta's, and the blood was coming through all of them. And over everything, red, the blood in his eyes, and behind it nothing. He stayed where he was, on the packed earth, with Frieren's hand under his arm.
+The cold blue lights moved to him.
 
-* * *
-
-He thought about what he was asking.
-
-It was harder than the others. The dragon had been fierce. The knight had been honourable. The bear had been an animal. This had been hungry. It had eaten its own soldiers to heal and eaten Tank to grow. And at the very end, with its arm gone, it had decided something, and gone for the person he loved most in any world, and stopped a finger's width from her face.
-
-He did not need to be angrier than it had been. He knew that.
-
-He did not know what to ask it.
-
-He sat on the packed earth beside the broken black shape that he could not see, with Frieren's hand guiding his to the edge of it, and thought.
-
-*You were hungry,* he thought, at where Frieren said its eyes were. *You ate to get bigger. To be more. Because that's all there was in here.* He did not need to see the chamber. He had seen every grain of it, for three minutes. The walls. The places the food had been. *There's more than eating out there. There's a house. People in it. People I'd stand in front of anything for.*
-
-He turned toward Frieren, beside him.
-
-*If you're going to be hungry,* he thought, *be hungry to keep them. Not to eat them. To keep them.*
-
-"Arise," he said.
+"*Hungry*," said the shape. "*To keep them.*"
 
 * * *
 
-The dark came up out of the earth like a well overflowing.
+Behind Gojo, Yuta had come up. Rika's hand was still on his shoulder; he still did not seem to know. He looked at Mau's arms. At the black.
 
-It came up through the Ant King. Through the black armour, the long limbs, the broken shoulder, the head pulled back. It did not deepen the black, because the black was already black. It changed it. The shine went out of it. The bright purple-red went out of the eyes. And the whole long broken shape drew itself together, the way water draws itself into a drop.
+"His hands," said Yuta. Very quietly. "Gojo. His hands."
 
-The left arm came back.
+"I know."
 
-Mau felt the cost.
+"I can't—that's burned past where I—"
 
-It took everything. Almost everything. The little that was left in the bottom of the cup went out of it like the last water out of a tipped jar. He felt his whole body go heavy, sitting on the earth. Heavier than after the bear. He put a hand flat on the ground to stay upright. Frieren's hand came under his arm and held it.
+"I know," said Gojo. "Shoko. Now. Before anything else." He stood up. "Can it carry him? It's holding him like it can carry him."
 
-The thing stood up.
+The dark shape lifted its head.
 
-Tall. Thin. Long-limbed. Upright on two legs. Dark now, all of it, armour and claws and jaws, with no shine on it at all. Where the purple-red eyes had been there were two small cold lights. Blue. Like the others.
+"*I can carry my King*," it said.
 
-"It's standing," said Frieren, very quietly, at his ear. "It's looking at you."
+And then, as if the word had broken something open in it, as if it had been holding everything down until this moment for his sake, it let go of his shoulders just long enough to come round in front of him, and went down on one knee on the packed earth. All at once. As if its legs had been cut out from under it by something it could not resist. Its head bowed so low its jaws nearly touched the ground. Its claws spread flat on the earth on either side of his knees.
 
-Then, she told him later, it went down on one knee.
-
-Not slowly, like Igris. All at once. As if its legs had been cut out from under it by something it could not resist. It knelt on the packed earth in front of him with its head bowed so low its jaws nearly touched the ground. Its claws were spread flat on the earth on either side of it.
-
-And it spoke.
+And it spoke. Not quietly, now.
 
 "*My King!*"
 
@@ -110,7 +116,7 @@ Frieren, holding Mau up, went very still.
 
 The thing lifted its head. Its cold blue eyes found him.
 
-"My King is modest," it said. "That is fitting. The greatest kings are modest." It bowed its head again. "But my King broke me. My King *saw* me. Before I moved. Every time." It trembled. "He let me into his own arm to hold me. He put his hand inside me and pulled me in from the middle and let the knight's blade through my throat." It trembled harder. "Only a king could do that. *My* king."
+"My King is modest," it said. "That is fitting. The greatest kings are modest." It bowed its head again. "But my King broke me. My King *saw* me. Before I moved. Every time." It trembled. "He let me into his own arm to hold me. He threw the red and the white and the purple at me, all of it, everything he had. And when I ate him, he held me closer." It trembled harder. "He built a house of mouths round the two of us and stood in it with me. And then he burned me from inside with a fire that was not his." It bowed lower. "Only a king could do that. *My* king."
 
 "My name is Mau."
 
@@ -230,7 +236,7 @@ Gojo came through first, sideways, because he was holding something up. Yuta cam
 
 He did not look like Mau.
 
-That was what the yard would say afterward, the ones who said anything. He did not look like anyone. His head hung. His coat was gone; what was left of his shirt was not a colour any more. His left shoulder was bound in something dark and wet. Both forearms. His back, through the rags, in three long lines. His calves. And over his eyes, tied round his head, a strip of Frieren's coat, because he could not see and the light hurt, and under the strip, down both cheeks, dried and fresh, red.
+That was what the yard would say afterward, the ones who said anything. He did not look like anyone. His head hung. His coat was gone; what was left of his shirt was not a colour any more. His left shoulder was bound in something dark and wet. Both forearms. His back, through the rags, in three long lines. His calves. And his arms. From the fingertips to the elbows, his arms were black, wrapped loosely in strips of Yuta's coat because nobody had dared wrap them tight, and everywhere else on him, face, chest, neck, were thin straight lines, a thousand of them, as if he had walked through rain made of knives. And over his eyes, tied round his head, a strip of Frieren's coat, because he could not see and the light hurt, and under the strip, down both cheeks, dried and fresh, red.
 
 Frieren came through last, with her staff in one hand and the other on his back, not holding him up, just there, touching him, as if he might stop being there if she let go.
 
@@ -296,7 +302,7 @@ At the end of the three hours she came out. She looked at the yard. Half the hou
 
 She said it to Frieren. Frieren was still on the ground. She had stopped crying. She had not moved.
 
-"His eyes will come back," said Shoko. "Two days. Maybe three. His back will scar. His shoulder will scar. I closed what I could and Yuta closed the rest and Yuta is now asleep on my floor and I'm not waking him." She looked at the yard. At all of them. "He'll live," she said again. Louder. For everyone.
+"His eyes will come back," said Shoko. "Mostly. Two days. Maybe three. Not all the way. The edge of the left one won't clear, I think. Not this summer." She did not look away from them. "His hands will work. Eventually. They'll scar. All of him will scar, those little lines, everywhere." She took a breath. "His back will scar. His shoulder will scar. I closed what I could and Yuta closed the rest and Yuta is now asleep on my floor and I'm not waking him." She looked at the yard. At all of them. "He'll live," she said again. Louder. For everyone.
 
 Then, quietly, to Frieren only, as she turned back to the door:
 

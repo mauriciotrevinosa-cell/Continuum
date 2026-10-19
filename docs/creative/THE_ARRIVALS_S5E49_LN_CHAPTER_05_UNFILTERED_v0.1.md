@@ -4,14 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-124)
 **Volume:** 30
 **Reading order:** 50
-**Continuity state:** Day 361, floor 40, continuous. Ciel removes the Six Eyes filter completely. Everything floods in: Mau sees energy before muscle, so he finally sees where Beru will be before it moves. The cost begins at once, with blood from the eyes and nose and his head burning. He locks in and uses the whole bag at once and in exact amounts:
-- one heartbeat of Okarun's speed, never the same shape twice;
-- Momo's pattern ripping every remaining body up into the side tunnels at once;
-- angled space;
-- calling Gojo's marble and Frieren's Zoltraak by the half-second;
-- sending Yuta back;
-- letting Beru's claws into his own forearm to trap them, the floor-20 lesson made worse.
-Frieren's Zoltraak takes its arm. It goes for her and stops a finger's width away at his space. Mau finishes it with his hand in the Zoltraak wound and the pull inside it, with Igris's sword through the throat at his word in the same instant. Ciel tells him he is dying; the filter goes back on. He cannot see. Shredded: shoulder bitten to the bone, both forearms opened, ribs and sides clawed, back opened, calves torn, eyes bleeding. No permanent unlock: the filter is back on
+**Continuity state:** Day 361, floor 40, continuous (part 1 of 3 of the unfiltered fight, DH-128). Ciel removes the Six Eyes filter completely. Everything floods in: Mau sees energy before muscle and finally sees where Beru will be before it moves. The cost begins at once: blood from the eyes and nose, his head burning, three minutes on Ciel's count. One heartbeat of Okarun's speed. He lets Beru's claws into his own forearm to hold them (the floor-20 lesson, made worse). He calls Gojo's marble and Frieren's Zoltraak by the half-second, and Frieren's Zoltraak takes its arm. It goes for her and stops a finger's width away at his space. Momo's pattern rips every remaining body up into the side tunnels at once, and something tears behind his left eye. With no food left, Beru is afraid for the first time, then turns that fear into wanting to kill him, not to win
 
 *When: Day 361, floor 40, the heart of the hive. The same breath. Yuta's sword is going round and round. Igris has a hole through his chest and is still standing.*
 
@@ -149,108 +142,18 @@ And for the first time since the stair, Mau saw something in its threads he had 
 
 Fear.
 
-* * *
+It was the first time anything in the tower had been afraid of him.
 
-It came at him.
+It did not last.
 
-Everything it had. One arm, the claws of it, the jaws. It came at him faster than anything he had ever seen move, and he saw every movement of it before it made it, and he did not get out of the way of all of them.
+He watched it go. He watched the fear in its threads turn over, the way a coal turns over in a fire and shows its red underside, and become something else. Something worse. The hunger had been for food. This was not for food.
 
-He could not. His legs were gone. His left arm was gone. He was standing in the middle of the dark hive with blood running out of his eyes and his nose and his ears now, and he saw everything, and he could not move fast enough to avoid everything he saw.
+This was for him.
 
-So he chose.
+*It's stopped wanting to win,* said Ciel. Very quiet. *It wants to kill you. Mau. That's different.* A pause. *Two minutes.*
 
-The claws across his ribs, he let through. They opened his side. He had chosen that one; it put the claw where he wanted it. The jaws at his throat he turned with the space, a slant, a hand's breadth, and they closed on his shoulder instead, the same shoulder, the bite going in where the last one had been, to the bone. He had chosen that too. It held the jaws where he wanted them. Its head was against his chest. Its back was to everything.
+The Ant King's one arm came up.
 
-Its left shoulder, where Frieren's Zoltraak had gone through, was a hand's breadth from his right hand.
+Its jaws opened, wider than jaws should open.
 
-"*Igris,*" said Mau. "*The throat. When I say.*"
-
-Igris was behind it. Broken. A hole through his chest. On his feet.
-
-*"My liege."*
-
-Okarun's speed. One heartbeat. Into his right arm, not his legs. Fire from the shoulder to the fingers.
-
-He put his right hand into the wound.
-
-Into the place where the Zoltraak had gone through the armour, through the joint, into the open inside of the Ant King. His hand went in to the wrist. Into the heat of it.
-
-And he made the point. The smallest point he had ever made. The way Gojo made the marble. The way the space and the pull were the same thing turned inside out. Not outside it. Inside it. In the middle of the Ant King's chest, where every thread in its body met, where he could see them all meet.
-
-"*Now.*"
-
-And pulled.
-
-* * *
-
-The Ant King folded.
-
-From the inside. Its chest came in round his hand, toward the point, all of it at once, armour and threads and the hunger at the centre of it, with a sound Mau would hear for the rest of his life. Its head came back off his shoulder, the jaws tearing out of him, its throat open, arched—
-
-Igris's sword went through it. At the word. In the same instant. Exactly where Mau had seen the throat would be.
-
-The threads went out.
-
-All of them. Every one. He saw them go. Like lamps going out down a long corridor, one after another, all the way to the end.
-
-The Ant King fell.
-
-* * *
-
-*Mau. Now. I'm putting it back. Now.*
-
-*Yes.*
-
-The filter came down.
-
-The world went away. Not dark. Red. Everything red, and blurred, and very far off, and the burning wire through the middle of his head going from white to red to something that was only very, very heavy. The grains of the floor went. The motes went. Frieren's threads, Yuta's furnace, Rika's terrible loving face. Gojo's eyes. All of it gone, all at once, like a door slammed shut on a storm.
-
-He could not see.
-
-He was on the floor. He did not remember falling. He was lying on the packed earth of the hive on his back, and the red over everything was his own blood in his eyes, and he could not see through it. Shapes. Light, somewhere. Dark. A shape moving fast toward him.
-
-*Ciel.*
-
-*I'm here.* Her voice was shaking. *I'm here. I've got you. The bleeding inside your head stopped when the filter went back. It stopped. You're not dying.* A pause. *You were. For about forty seconds. You're not now.*
-
-*Frieren.*
-
-*She's alive. She's not hurt. She's running to you.*
-
-A shape. Cold hands on his face. Both of them. One on each side.
-
-"Mau." Frieren's voice. Very close. Not level at all. "*Mau.* Can you see me?"
-
-"No," said Mau.
-
-He felt her hands go still on his face.
-
-"Red," he said. "Everything's red. I can't—" He breathed. It hurt. Everything hurt. Every single part of him that he could feel was open or torn or bitten through. "I'm sorry. I can't see you."
-
-"You don't have to see me," said Frieren. "I'm here." Her thumbs moved, very carefully, under his eyes. Wiping. "I'm here. You stopped it. A finger's width. You stopped it."
-
-"I saw it," said Mau. "Before it moved. I saw it."
-
-"I know."
-
-"I saw everything."
-
-"I know," said Frieren. "Gojo saw you see it." Her voice did something. "He's sitting down. He sat down when it fell. He can't get up."
-
-Somewhere off in the red, Mau heard Gojo say something. He could not hear what. It did not sound like a joke.
-
-* * *
-
-The notice came up.
-
-He could not read it. It hung somewhere in the red in front of him, pale shapes, and he could not make them into letters.
-
-"What does it say?" he said.
-
-Frieren looked. He felt her look.
-
-"*Guardian defeated,*" she read. Very quietly. "*Operator: trial passed.*"
-
-A pause.
-
-"*Shadow extraction available.*"
+And it came.

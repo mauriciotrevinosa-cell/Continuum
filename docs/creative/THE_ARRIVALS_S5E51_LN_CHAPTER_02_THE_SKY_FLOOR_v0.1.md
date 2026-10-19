@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 59 — The Sky Floor
+## Chapter 61 — The Sky Floor
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 59
+**Reading order:** 61
 **Continuity state:** Floor 50 (Day 368 afternoon), the fifth guardian: open sky full of floating islands. Party: Mau (owner), Frieren, Milim and Yuka. The notice names it Kaisel, the Sky Wyvern. It is fast and dives from above. Under the Operator rule Milim herds it but cannot finish it; Mau plans it aloud. Yuka's rope holds a leg, and Frieren's narrow light opens the near wing (skin, not bone). Mau jumps off the cloud stair on one heartbeat of borrowed speed onto its back ("I didn't need to fly. I needed to land"). The tail barb goes through his left thigh. He locks the wing with the pull, lands them on a slanted space, Lantern pins it, and Mau finishes it himself. Milim asks Mau to make it his "so it can keep flying". The deep reserve holds
 
 *When: Day 368, early afternoon. After lunch. Taihei insisted. Mau ate all of it. The seventh night falls tonight. Anko has written FIFTY (SKY) on the board and underlined it twice.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 54 — One Free Shot
+## Chapter 56 — One Free Shot
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
-**Reading order:** 54
+**Reading order:** 56
 **Continuity state:** The creator's Beru/Frieren sequence, part 1. North field at dusk, well inside the lime, under Umaru's Ministry rules, with the house watching and Gojo on his stool. Beru challenges Frieren for the place at his King's side (closeness to Mau as guard and champion, not romance). Frieren accepts; Beru, confident, grants her one shot and promises not to move; she fires Zoltraak angled upward, and one would have been enough. She keeps firing, a storm of Zoltraak into the sky, breaking every falling piece, far past need, with the face from outside the clinic: what hurt Mau, mega-destroyed (DH-125). The slope does not laugh. Ori's face says do something; Mau kneels and puts his hand on her back ("It's gone"). Frieren: "He had his jaws in you… I still needed to do that." The laughter comes late and shaky (Gojo: "He gave her one"). Igris stands as witness. Part 2 (the remaking and the apology) follows
 
 *When: Day 364, dusk. The north field. The long grass is pale and dry. The ditch is dry. The fireflies have been gone for four weeks. Half the house is sitting on the slope below the red stake. Nazuna is on top of the stake, because Rule 3 says nothing gets hit that isn't the challenger or the challenged, and she wants to see it from up there.*

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 30
-## Chapter 52 — The Long Room After Midnight
+## Chapter 54 — The Long Room After Midnight
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-125)
 **Volume:** 30
-**Reading order:** 52
+**Reading order:** 54
 **Continuity state:** Day 361, after midnight. Mau is asleep under Shoko's wet cloth, with Ori against the connecting-door frame and Frieren in the reading chair. In the long room, by one lamp, without anyone calling it, the people who were there or who have stood watch gather: Shoko, Gojo, Yuta (bound, grey), Maki, Rimuru, Fern, Stark, Kaneki, Himmel, Anko, Mikasa and Eren, Rem, Seiko. It is a possible intervention. Should they stop him? Lock the screen? Take the key? Each speaks from their own history. Shoko: the boy who got so strong nobody could stand next to him. Mikasa and Eren: they know what it is to watch someone walk toward a thing that will take everything. Rem remembers the bay night. Kaneki: going off alone was the worst thing he did. Himmel: you can't make a hero stop by forbidding it; you can only make him want to come home. Rimuru brings Ciel's word: he will not stop, and taking the key would make him go the way he went on the north road, without anyone. They decide not to cage him. They decide that nobody lets him go alone again, that Shoko's check stays, and that the house will give him reasons to come back. Fern opens no page yet. Near the end Frieren comes down, having heard some of it from the stair, and says the one thing that settles it. No vote, no rule. Nobody tells Mau there was a meeting
 
 *When: Day 361, after midnight. The house should be asleep. One lamp is lit at the end of the long table nearest the stairs. Nobody called anyone. They came.*

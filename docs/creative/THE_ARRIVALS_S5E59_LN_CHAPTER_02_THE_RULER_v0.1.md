@@ -94,7 +94,7 @@ He called them.
 
 The Legion first. The hundred. Up out of the grass in rows, spears level, shields up, the ten in front. Then Igris. Beru. Tusk. Kaisel, into the white air above. Bellion, last, tall, black-violet gone to black, the segmented sword already drawn. Kamish behind them all, rising like a hill.
 
-The cup went. Fifteen times deep, and it went like a river.
+The cup did not move. Fifteen times deep, and full, and every one of them already paid for.
 
 The light looked at all of it.
 

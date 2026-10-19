@@ -152,7 +152,7 @@ He had a thought. He did not decide to have it. It came.
 
 Ciel was quiet for a moment.
 
-*Probably,* she said. *It's built to carry. You can feel that. In the shape of it.* A pause. *Calling it costs nothing more now. It's standing. Flying is its own strength, not yours. But it's new, and it's never carried anyone. A few minutes. Not more. And not high. And not far from the island.* Another pause. *And Mau. Your own floating is still small. If it lets go of you, you're not going to float. You're going to fall.*
+*Probably,* she said. *It's built to carry. You can feel that. In the shape of it.* A pause. *Calling it costs nothing now. It's yours. Flying is its own strength, not yours. But it's new, and it's never carried anyone. A few minutes. Not more. And not high. And not far from the island.* Another pause. *And Mau. Your own floating is still small. If it lets go of you, you're not going to float. You're going to fall.*
 
 *Then I'll hold on.*
 

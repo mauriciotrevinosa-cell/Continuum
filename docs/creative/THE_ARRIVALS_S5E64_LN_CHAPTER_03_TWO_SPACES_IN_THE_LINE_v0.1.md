@@ -6,7 +6,7 @@
 **Reading order:** 56
 **Continuity state:** Day 400, dawn, the north field. Shoko clears one remaking once the cup is above half. Kamish is remade, slowly and at real cost, with Ori watching and Shoko timing. The old dragon notices the second heart and says plainly that he is old and does not know it. He reminds Mau of the request he was raised with ("keep watch over a house"), which he has not yet been given the chance to do. The Legion (ninety-eight) stands up for inspection in ten rows of ten and, unordered, leaves two spaces in the last row. Ori gives the soldiers their first line on *SHADOWS (NAMED)* and writes them as ten, with the two unmade remembered. Mau's eyes and chest are still healing. No combat, no new power
 
-*When: Day 400, first light. The cup has been refilling for three days, faster than it ever has. Shoko looked at the level last night by the only measure she has, which is Mau's face after calling one shadow and sending it back, and said: tomorrow, one remaking. Not two. One.*
+*When: Day 400, first light. The cup has been refilling for three days, faster than it ever has. Shoko looked at the level last night by the only measures she has, which are Mau's face and Ciel's word through Rimuru, and said: tomorrow, one remaking. Not two. One.*
 
 The north field was grey, and wet with the last of the night.
 
@@ -144,7 +144,7 @@ Shoko came across the field. She crouched down in front of him and looked at his
 
 "There's the soldiers—"
 
-"The soldiers aren't broken," said Shoko. "Calling them costs once. Standing's free. You've got enough for that." She looked at Ori with the watch. "Two minutes. For inspection. Then back."
+"The soldiers aren't broken," said Shoko. "Calling them costs nothing. Ciel says. That's not a remaking." She looked at Ori with the watch. "Two minutes. For inspection. Then back."
 
 * * *
 

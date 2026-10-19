@@ -50,7 +50,7 @@ When he opened the private page afterward, ten points waited where he had left t
 
 He closed it.
 
-Below his feet, the single dragon rested in storage. Calling it would draw from the shallow reserve whether the fight was impressive or not. Having room to register more did not make the current one free to keep outside all morning.
+Below his feet, the single dragon rested in storage. Calling it would cost nothing now; the shallow reserve had paid for it once, raising it. But if something broke it, remaking it would draw from that same shallow reserve, whether the fight was impressive or not. Having room to register more did not make the one he had any less breakable.
 
 He asked Ciel whether the first visit needed it.
 

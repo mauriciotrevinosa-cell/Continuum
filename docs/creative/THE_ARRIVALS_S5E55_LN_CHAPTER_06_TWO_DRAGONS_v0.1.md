@@ -168,7 +168,7 @@ The notice came up. Somewhere in the red. He could barely read it.
 
 * * *
 
-*No,* said Ciel. *No. The cup is almost empty. You're almost empty. If you try—*
+*No,* said Ciel. *No. He's bigger than the cup. Bigger than all of it. The rest will come out of you, and you're almost empty. If you try—*
 
 *It's waiting.*
 

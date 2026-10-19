@@ -222,7 +222,7 @@ Mau looked at it.
 
 *Can I?* he said. *The cup. Not the walls. The cup.*
 
-*The cup is fine,* said Ciel. *The shadows didn't cost much today. Igris for a moment. The soldiers. The construct didn't come from the cup.* A pause. *Raising him will take most of it. It won't touch the walls.* Another pause. *But you're very hurt, Mau. And you're very tired. And tired makes it harder.*
+*The cup is fine,* said Ciel. *Calling them cost nothing. Two broke, and they'll keep in pieces until you're ready. The construct didn't come from the cup.* A pause. *Raising him will take most of it. It won't touch the walls.* Another pause. *But you're very hurt, Mau. And you're very tired. And tired makes it harder.*
 
 He looked at the others.
 

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 58
-**Continuity state:** Igris and Beru with voices at home. Shoko allows five minutes a day of shadows in the yard (her rule for the house getting used to them, not a cup cost: calling costs once, standing is free). Beru apologises to Frieren every morning, and she stops him by the third day. Igris is dry and formal, with his own judgement, and corrects Beru. Ichika is not afraid of Beru, and he is gentle with her ("hungry to keep"). Touka is wary, then less so. Tank is remade quietly (a smaller cost than Beru). Neither shadow becomes a drone, a night guard or a weapon in the house; the night shifts come later
+**Continuity state:** Igris and Beru with voices at home. Shoko allows five minutes a day of shadows in the yard (her rule for the house getting used to them, not a cup cost: once raised, calling, standing and storing are free; only remaking a broken shadow costs). Beru apologises to Frieren every morning, and she stops him by the third day. Igris is dry and formal, with his own judgement, and corrects Beru. Ichika is not afraid of Beru, and he is gentle with her ("hungry to keep"). Touka is wary, then less so. Tank is remade quietly (a smaller cost than Beru). Neither shadow becomes a drone, a night guard or a weapon in the house; the night shifts come later
 
 *When: Day 365 to Day 367, mornings, a little after dawn. The back step. Touka's coffee. Five minutes, by Shoko's watch, which Shoko has lent to Ori for the purpose, because Ori asked to be the one who counts.*
 
@@ -12,7 +12,7 @@ The five minutes started on Day 365.
 
 His hands were out of the wrappings by then. Shoko had spent three nights on them, and Yuta two, and they had closed. Not healed. Closed. New skin, pink and shiny and tight, over the places that had been black, and the fingers would bend if he made them, slowly, the way old hinges bend. He could not hold a cup properly yet. Touka, on the first morning, had looked at him trying, and taken the cup out of his hands without a word, and held it while he drank, and then handed it to Frieren to hold for the rest, and gone back to the stove as if nothing had happened. Nobody said anything about it. Everybody saw.
 
-Shoko had set the rule at breakfast the morning after the north field. Five minutes a day. Standing. In the yard. Not more. "It's not the cup," she said, before Mau could say it. "I know. Ciel told me. It costs you to call them and then nothing." She looked down the table. "It's us. The house. We need to get used to them a little at a time. They're yours," she said to Mau. "They're part of the house now, whether anyone likes it or not. People should get to know them. Five minutes." She looked at the long table. "And if anyone gets eaten, the rule ends."
+Shoko had set the rule at breakfast the morning after the north field. Five minutes a day. Standing. In the yard. Not more. "It's not the cup," she said, before Mau could say it. "I know. Ciel told me. Once they're yours, it costs you nothing to call them. Only if they break." She looked down the table. "It's us. The house. We need to get used to them a little at a time. They're yours," she said to Mau. "They're part of the house now, whether anyone likes it or not. People should get to know them. Five minutes." She looked at the long table. "And if anyone gets eaten, the rule ends."
 
 "Nobody's going to get eaten," said Mau.
 

@@ -202,11 +202,11 @@ The bear went down.
 
 Face first into the snow, under Lantern's weight, with its forelegs pinned. Igris standing over its right shoulder with his sword at the cracked ice. Maki at its left with her spear in the gap.
 
-Mau had felt the price of calling both of them go out of the cup at once, as they rose. A great deal of it. Two at the same moment, and one of them as big as a house. Even three and a half times as deep, he could see the floor of it now.
+Calling them had cost nothing. They were his. The cup sat full under them, three and a half times deep, for whatever came next.
 
 And under him, the bear heaved.
 
-*Lantern can't hold it,* said Ciel. Very fast. *Not long. He's pinning it with his own strength, not yours, and it's stronger than he is. Thirty seconds. Maybe forty.* A pause. *If it throws him and breaks him, bringing him back costs again. You don't have enough for that.*
+*Lantern can't hold it,* said Ciel. Very fast. *Not long. He's pinning it with his own strength, not yours, and it's stronger than he is. Thirty seconds. Maybe forty.* A pause. *If it throws him and breaks him, bringing him back costs. And then there's nothing left for anything else.*
 
 "*Maki*," he said.
 

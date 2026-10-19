@@ -46,9 +46,9 @@ She went to the first sheet. On it, in her careful hand, were the five words the
 
 "So that's the first problem." She went to the second sheet. "The second problem is the guardian on ten. You kept it. And it emptied you. Ciel said—" She looked at Rimuru.
 
-"*Calling them costs once. Raising him took nearly all of it. The reserve is shallow,*" said Rimuru, in his own voice but Ciel's words. "*If anything else had come, he'd have had nothing to call it with.*"
+"*Calling them costs nothing, once they're his. Raising him took nearly all of it. The reserve is shallow,*" said Rimuru, in his own voice but Ciel's words. "*If anything had broken one of them, he'd have had nothing to bring it back with.*"
 
-"Shallow," said Umaru. She underlined the word on the sheet. "The shadow reserve. That's the thing that pays for the dragon and the sentry. Not your mana. Not your cursed energy. A third box." She tapped the broken line running from it. "And when you said, on ten, *next time I want a little left*—you meant that box. Because that box is small."
+"Shallow," said Umaru. She underlined the word on the sheet. "The shadow reserve. That's the thing that paid for raising the dragon and the sentry. Once each. Not your mana. Not your cursed energy. A third box." She tapped the broken line running from it. "And when you said, on ten, *next time I want a little left*—you meant that box. Because that box is small."
 
 "Yes."
 
@@ -62,7 +62,7 @@ Yuka had stopped copying.
 
 "You said we don't spend anything," she said. "That was the rule. The first rule. You said it on the first day."
 
-"We didn't spend anything," said Umaru. "While we didn't know enough to guess." She looked at the sheets. "Now we know more. We know the reserve is the thing that runs out. We know what it cost to keep two shadows, and we know what it would have cost to keep a third. We know the guardian was the first one, and there are going to be more, and they're going to get bigger." She paused. "If we wait until he needs it, he'll be choosing in a hurry. On a roof. With something coming at him."
+"We didn't spend anything," said Umaru. "While we didn't know enough to guess." She looked at the sheets. "Now we know more. We know the reserve is the thing that runs out. We know what it cost to raise two shadows, and we know what it would have cost to raise a third. We know the guardian was the first one, and there are going to be more, and they're going to get bigger." She paused. "If we wait until he needs it, he'll be choosing in a hurry. On a roof. With something coming at him."
 
 She looked at Mau.
 

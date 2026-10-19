@@ -16,7 +16,7 @@ The sheet was ready before he sat down.
 
 *134.*
 
-And at the bottom, in the box, in Umaru's smallest Ministry hand, a proposal. Three lines of it. Twenty more into Endurance, because the night shift meant the cup was working every night now. Thirty into Intelligence, because Armin had worked out that the refill rate had a curve and they were near a good part of it. The rest kept, because Mau always kept some.
+And at the bottom, in the box, in Umaru's smallest Ministry hand, a proposal. Three lines of it. Twenty more into Endurance, because Shoko had asked for it, twice, in writing. Thirty into Intelligence, because Armin had worked out that the refill rate had a curve and they were near a good part of it. The rest kept, because Mau always kept some.
 
 "Twenty and thirty," said Umaru. She tapped the box with her chalk. "Eighty-four kept. The Ministry has reviewed it three times. Armin has reviewed it twice. Yuka has copied it."
 
@@ -28,7 +28,7 @@ Mau opened the window.
 
 * * *
 
-It was the same as it had been every night since the fifth point. The small set of fields. The five words. The numbers. The cup, fifteen times deep, nearly full after a good night. And below it, the second bar. Empty. No name. Exactly as it had been on the night he first saw it.
+It was the same as it had been every night since the fifth point. The small set of fields. The five words. The numbers. The cup, fifteen times deep, full, the way it always was now. And below it, the second bar. Empty. No name. Exactly as it had been on the night he first saw it.
 
 He looked at it for a moment, the way he did every time. Then he looked at the fields.
 

@@ -10,13 +10,13 @@
 - Each statue falls to its own lesson turned against it.
 - Gojo calls the threads going slack.
 - Gojo's marble and Mau's pull meet to make a double Blue.
-Calling everyone costs most of the fifteen-times reserve at once, and anything broken costs again to bring back, so Mau sends each shadow back as soon as its work is done, before the hall can break it. Two soldiers are unmade
+Calling everyone costs nothing (all already raised), but anything broken costs to bring back and remaking mid-fight would take his eyes off the field, so Mau sends each shadow back as soon as its work is done, before the hall can break it. Two soldiers are unmade
 
 *When: Day 397. Floor 101. Four islands of stone in a sea of grey nothing. Twelve statues on twelve more, standing for the Architect. The Architect at the foot of the hundred steps, hands folded, watching.*
 
 They came up out of the stone all at once.
 
-All of them. Every name on Ori's list. Mau felt the cup tip, the way he had felt it tip on the scale, and pour, and pour.
+All of them. Every name on Ori's list. It cost him nothing. Every one of them had been paid for once, on a floor or in a field, and calling them now was only opening his hand. The cup sat full under them, fifteen times deep, for whatever broke.
 
 Lantern first, wings unfolding out of the shadow that lay across the nothing, rising into the grey air of the hall. Kaisel beside him, smaller, lean, fast. Igris, on Frieren's island, a pace behind her and to her left, where he always stood now. Beru on Mau's own island, a pace behind him and to his right. Tank, huge and dark, on nothing, and then on stone, because he had come up where a statue's island met the grey and found footing. Corner, the first of them all, with his long hooked weapon, on the edge of Yuta's island. Roof, from the tenth floor, the long blade on its pole upright, planting itself on the island nearest the hundred steps as if it were a roof it had been told to keep. Bellion, tall, black-violet gone to black, with his segmented sword already drawn. Tusk, slow, the blue fire in his skull. And the Legion. A hundred soldiers, in rows, shields locked, across three islands at once and the empty air between them where they had no floor to stand on yet, the ten in front.
 
@@ -24,7 +24,7 @@ And Kamish.
 
 The old dragon came up out of the nothing itself. Not out of stone. Out of the grey sea below the islands. He rose and rose and kept rising, the vast dark body uncoiling, the wings unfolding, the long neck lifting. Two great cold blue lights opened higher than the pillars.
 
-*That was most of it,* said Ciel. Very fast. *Calling all of them, with the Legion. If they break, you can't bring them back. Not today. Send them back when they're done. Don't wait.*
+*Calling them was free,* said Ciel. Very fast. *Breaking isn't. Every one they break, you'd have to remake here, in the middle of this, with your hands on the stone and your eyes off the field. Send them back when they're done. Don't wait.*
 
 *I know.*
 
@@ -234,7 +234,7 @@ His head kept splitting.
 
 Six left. And the hall was getting faster.
 
-Mau could feel it. The statues that were left were learning, the way Beru had learned, and every shadow still standing was one more thing they could break. And there was nothing in the cup to pay for bringing any of them back.
+Mau could feel it. The statues that were left were learning, the way Beru had learned, and every shadow still standing was one more thing they could break. And every one they broke he would have to remake here, in the middle of this, with his eyes off the field.
 
 *Fewer,* said Ciel. *Fewer things for them to break.*
 
@@ -386,7 +386,7 @@ It went into the nothing without a sound.
 
 * * *
 
-The cup was nearly dry.
+The cup was still full. Two soldiers gone out of it for good, and nothing else broken.
 
 *Send them back,* said Ciel. *All of them. Now. He can unmake things. Whatever's still standing when he starts, you'll lose.*
 
@@ -394,7 +394,7 @@ The cup was nearly dry.
 
 They sank. Beru. Bellion. Igris, wherever he was. The soldiers. Kaisel knelt on Frieren's island and Mau climbed off, and Kaisel sank into the stone. Only Kamish stayed, lying across the nothing, the dark road between the islands.
 
-Mau stood on Frieren's island, beside her, with his head splitting and the cup nearly dry and two soldiers unmade.
+Mau stood on Frieren's island, beside her, with his head splitting and the other reserve low and two soldiers unmade.
 
 At the foot of the hundred steps, on the last solid piece of floor in the hall, the Architect unfolded its long hands.
 

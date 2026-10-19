@@ -120,7 +120,7 @@ It was. The pole was already coming back.
 
 The sentry rose out of his shadow.
 
-He had not called it. He had thought it. And it came, the long hooked weapon clearing the roof, and caught the butt of the pole on its hook, and held it, for a heartbeat. He felt the cost of calling it go out of the cup, once, small, the way it always did when one of them stood up.
+He had not called it. He had thought it. And it came, the long hooked weapon clearing the roof, and caught the butt of the pole on its hook, and held it, for a heartbeat. It cost him nothing. It never did, once one of them was his.
 
 A heartbeat was enough to roll.
 
@@ -228,7 +228,7 @@ Almost all of it. He felt it pour out of him in one long breath, the way Ciel ha
 
 "It's mine," said Mau. His voice did not sound like his. "And there's nothing left."
 
-*A thin layer,* said Ciel. *On the floor of the cup. Almost nothing.* A pause. *If something else came up those stairs now, you'd have nothing to call it with.*
+*A thin layer,* said Ciel. *On the floor of the cup. Almost nothing.* A pause. *If something else came up those stairs now and broke one of them, you'd have nothing to remake it with.*
 
 He looked at the kneeling guardian. At the cold blue lights. At the empty roof under the not-sky.
 

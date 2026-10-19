@@ -44,7 +44,7 @@ Then it lowered its head. All the way. Until its dark jaw was resting in the sno
 
 Mau felt the cost.
 
-It took nearly everything. Ciel had said it would. The cup had been low after calling Lantern and Igris at once, and raising the bear took what was left, all at once, almost to the floor. He felt his whole body go heavy, sitting in the snow. Like he had been carrying something up a very long stair and had just put it down and could not remember how to stand without it.
+It took nearly everything. Ciel had said it would. Calling Lantern and Igris had cost nothing, and the cup had been full, and raising the bear took nearly all of it, all at once, almost to the floor. He felt his whole body go heavy, sitting in the snow. Like he had been carrying something up a very long stair and had just put it down and could not remember how to stand without it.
 
 "Back," he said.
 

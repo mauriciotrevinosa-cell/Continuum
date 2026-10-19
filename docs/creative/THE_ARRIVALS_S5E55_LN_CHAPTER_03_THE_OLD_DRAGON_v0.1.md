@@ -204,9 +204,9 @@ All five. Mau had never called all five. He called them now.
 
 They came up out of the black stone round him. The knight with his long sword. The ant king with his claws. The wyvern with its wings spread. The shaman, rising slowly, his cloak of smoke, the blue fire in the skull at the top of his staff. And Lantern, last, rising up out of his shadow on the red-lit stone, wings unfolding, huge. Smaller than Kamish. Much smaller. But huge.
 
-Mau felt the price of five go out of the cup at once. Nine times deep and he could see the floor of it.
+It cost him nothing. Five of them, and the cup did not move. Nine times deep, and full.
 
-*Don't let it break them,* said Ciel. *Every one it breaks, you'll have to pay for again. And you'll want something left to raise it with.*
+*Don't let it break them,* said Ciel. *Every one it breaks, you'll have to pay for again. And you'll want the cup full, if there's anything to raise at the end.*
 
 Kamish looked at the five shadows.
 

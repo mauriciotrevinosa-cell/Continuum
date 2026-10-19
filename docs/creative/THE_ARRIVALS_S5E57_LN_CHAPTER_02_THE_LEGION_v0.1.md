@@ -112,9 +112,9 @@ Its head rose above them on its long neck. Higher than the banners. Higher than 
 
 Two great cold blue lights opened.
 
-Mau felt the price of him go out of the cup. A great deal of it, all at once. Kamish cost more to call than all the others together.
+Nothing went out of the cup. Kamish had been paid for once, on seventy, nearly with Mau's life. He was his now.
 
-*Short,* said Ciel. *Let him roar and send him back. If they break him out there, you can't afford to call him again today.*
+*Short,* said Ciel. *Let him roar and send him back. If they break him out there, remaking him will take everything you've got.*
 
 *Short.*
 

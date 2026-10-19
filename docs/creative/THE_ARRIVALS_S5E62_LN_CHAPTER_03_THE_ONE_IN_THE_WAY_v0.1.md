@@ -6,7 +6,7 @@
 **Reading order:** 49
 **Continuity state:** The Architect fights. He unbuilds things with pale lines drawn through the world, and unmakes part of Kamish (broken, not lost). DH-124: he then draws a line through Mau's window. "Operator interface: suspended." The cup shrinks to its pre-festival size, every shadow is sent back, and the Endurance that has been mending him every hour stops. Ciel: four minutes before his body starts coming apart on its own. The Noise fights to rebuild the line. Mau fights with only what is his: the Noise's patterns, the space, the wheel and the eyes. He unmakes Gojo's island and catches Gojo with Momo's borrowed pattern. Nearly dry, he draws the floor-86 katana, and the Noise's Rika pattern comes through, fuller than on ninety. Yuta's real Rika comes and the two scream together. The Architect unmakes the copy. A line goes across Mau's chest and the wheel turns a third time. The walls bow, and Rimuru pours his strength down Ciel's thread to hold them. In that space the Noise rebuilds the interface across the cut ("restored. (Rebuilt by the Noise.)", at 3:40). The Architect, for once, looks almost respectful. Frieren's Zoltraak goes through his robe. He is hurt, and delighted
 
-*When: Day 397. Floor 101. The twelve statues are gone into the nothing. Kamish lies across the void as a dark road. The cup is nearly dry. The other reserve is nearly dry. The Architect has stepped onto the end of the dragon's back.*
+*When: Day 397. Floor 101. The twelve statues are gone into the nothing. Kamish lies across the void as a dark road. The cup is full. The other reserve is nearly dry. The Architect has stepped onto the end of the dragon's back.*
 
 It walked along Kamish's back toward them.
 
@@ -82,7 +82,7 @@ Everything went heavy. Not the way the shaman's sky had gone heavy. From the ins
 
 The cup.
 
-He felt it go. Not drain. *Shrink.* Fifteen times deep, and then not. The walls of it coming in. Fourteen. Ten. Five. Down, and down, to the size it had been on the morning of the festival, before the first thirty points, before Umaru's first sheet. A small cup. A shallow one. With nearly nothing in it.
+He felt it go. Not drain. *Shrink.* Fifteen times deep, and full, and then not. The walls of it coming in. Fourteen. Ten. Five. And what had been in it went over the top as the walls came in, spilled, gone, the way water goes over the lip of a jar you squeeze. Down, and down, to the size it had been on the morning of the festival, before the first thirty points, before Umaru's first sheet. A small cup. A shallow one. With nearly nothing in it.
 
 Under him, in the dark, his shadows felt it too. He felt them feel it. Nine of them and a hundred, in a cup suddenly far too small to hold them, pressing against its walls like water in a jar that has been squeezed.
 

@@ -1925,11 +1925,13 @@ Payoffs added at the end of the existing chapters: Umaru "Paid" (on a tower day;
 
 Creator: "mau guarda los 10 bosses como que no guarda el primero" … "el mana de solo es solo activacion no para continuar teniendolo abierto … lo que le cuesta a sung jin woo es que aparezca y si lo matan a la sombra le cuesta re aparecer solo eso tusk puede usar su fuego … dependiendo de su nivel evolucion pq el tiene sus propias reservas y cada sombra sin importar que tan op cuesta 1 spot el problema es que tiene que demostrar que es un rey digno un monarca".
 
-- The cup pays only when a shadow **appears** (summon, extraction) or **re-appears** after being destroyed (remaking). Standing and fighting cost nothing. Abilities come from each shadow's **own reserve**, scaled by its level or evolution.
+- The cup pays only for **extraction** (raising a new shadow) and for **remaking** one that was destroyed. Summoning an already-raised shadow, keeping it out and storing it are free (refined 2026-10-19, see below). Standing and fighting cost nothing. Abilities come from each shadow's **own reserve**, scaled by its level or evolution.
 - **Every shadow takes exactly one place**, however strong.
 - The real gate on extraction is **worthiness**: the dark weighs the would-be king before it rises.
 - **Floor 10:** the guardian is now kept. Its dark weighs him; raising it empties his shallow cup once; he walks home with nothing, and that is where "next time, a little left" comes from.
 - V29 is fixed through the festival boundary. V30–V31 sweep pending: "drain" becomes "cost", Shoko's minute limits become activation limits, the floor-10 guardian is added to the counts and Ori's list, and "didn't keep" references are fixed.
+
+**Refinement (creator, 2026-10-19):** "las sombras una ves que las levanta ya no vuelven a cobrar hasta que se rompan si las guarda en su shadow no se pierde eso". Once raised, a shadow never charges the cup again until it is broken; storing it loses nothing. Swept S5 (V28 bag note, V29 Operator, V30 Thirty Into One Box, Lantern, Bridge, Thirty, What's a Tank, Tunnels, Five Minutes, Kaisel, House Lights; V31 Dark Floor, Old Dragon, Operator Only, Two Dragons, Legion, What Came Out, Ruler, Everything at Once, The One in the Way, Two Spaces, Night Shift, Edge of the Window). Consequences: on floor 70 the cup stays full and useless (remaking cannot happen mid-breath); Kamish is bigger than the cup, so raising him takes the rest out of Mau. On floor 101 the cup stays full through the statues; the Architect's shrink spills it.
 
 ## DH-128 — Beru and Kamish taken to the extreme, with lasting marks (creator, 2026-10-19)
 

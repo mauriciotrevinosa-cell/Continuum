@@ -158,7 +158,7 @@ The knight came up out of the earth beside him with his long sword already drawn
 
 "My liege." He went down into the earth.
 
-Fifty seconds. The price of calling him, once. The cup barely noticed.
+Fifty seconds. It cost nothing. The cup did not notice.
 
 Frieren was looking at the place where Igris had been.
 

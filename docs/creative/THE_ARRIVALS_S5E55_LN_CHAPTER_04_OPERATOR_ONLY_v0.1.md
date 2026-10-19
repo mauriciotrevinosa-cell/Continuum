@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-124)
 **Volume:** 31
 **Reading order:** 17
-**Continuity state:** Day 378, floor 70, continuous. Mau is alone with five shadows against Kamish's true breath, the one it held back while others were there. He survives the breath only by sending every shadow down into his shadow and taking it on the last third of his space, which fails at the edges: burns, his left hand charred, hair singed away on one side. Tusk's blue fire against the dragon's is a candle against a sun. Igris and Beru are broken apart (pieces, not lost); Kaisel is torn out of the air. Mau is down to the cup's dregs, no space left and nothing in the bag that is big enough. Kamish, almost kindly, asks him to show what is under the shadows. Ciel finds something in the walls from the containment in S3: the scale of a True Dragon, half-built by the Noise from Rimuru's memory of the cave, never finished, never let out, and far too big for his body. She tells him it will tear him apart. He says it has to be him. The chapter ends as he lets it out
+**Continuity state:** Day 378, floor 70, continuous. Mau is alone with five shadows against Kamish's true breath, the one it held back while others were there. He survives the breath only by sending every shadow down into his shadow and taking it on the last third of his space, which fails at the edges: burns, his left hand charred, hair singed away on one side. Tusk's blue fire against the dragon's is a candle against a sun. Igris and Beru are broken apart (pieces, not lost); Kaisel is torn out of the air. The cup is full and useless: nothing whole is left to call but Tusk, remaking cannot happen in the middle of a breath, there is no space left and nothing in the bag that is big enough. Kamish, almost kindly, asks him to show what is under the shadows. Ciel finds something in the walls from the containment in S3: the scale of a True Dragon, half-built by the Noise from Rimuru's memory of the cave, never finished, never let out, and far too big for his body. She tells him it will tear him apart. He says it has to be him. The chapter ends as he lets it out
 
 *When: Day 378, floor 70. The same breath. Outside, at the screen, three people have just come out of the frame onto the dry ground as if thrown, and the frame behind them has gone dark.*
 
@@ -56,7 +56,7 @@ He looked at his left hand.
 
 He looked away from it.
 
-*The other reserve,* said Ciel. Her voice was not level at all. *There's almost nothing. A sliver. Enough for a breath of space. Not enough for that again. Not a quarter of that.* A pause. *The cup's a third full. You sent them back in time. It's the only reason there's anything.*
+*The other reserve,* said Ciel. Her voice was not level at all. *There's almost nothing. A sliver. Enough for a breath of space. Not enough for that again. Not a quarter of that.* A pause. *The cup's full. You sent them back in time. None of them broke.*
 
 Across the glowing air, on its mound, Kamish was looking at him.
 
@@ -80,7 +80,7 @@ So he did not wait.
 
 "*Igris. Beru. Tusk. Kaisel.*"
 
-The price of calling them again went out of the cup, all four at once, more than he could spare. They came up out of the tiny circle of black stone round his feet, crowded, crowding, because there was nowhere else to stand, and went.
+It cost nothing. It never did. They came up out of the tiny circle of black stone round his feet, crowded, crowding, because there was nowhere else to stand, and went.
 
 Igris and Beru at the legs again. Fast this time, both of them, not careful. Kaisel up into the glowing air. Tusk on Mau's left, the staff level, the blue fire pouring out of the skull.
 
@@ -136,7 +136,7 @@ Tusk went down into the stone.
 
 He was alone.
 
-Truly alone. Not a shadow standing. Not a companion. The cup at the bottom. The other reserve a sliver. A tiny circle of black stone in a sea of glowing air. His left hand. His face.
+Truly alone. Not a shadow standing. Not a companion. The cup full, and no use to him: four of them in pieces in it, and remaking took hands and time and quiet, and he had none of those. The other reserve a sliver. A tiny circle of black stone in a sea of glowing air. His left hand. His face.
 
 Kamish looked down at him.
 

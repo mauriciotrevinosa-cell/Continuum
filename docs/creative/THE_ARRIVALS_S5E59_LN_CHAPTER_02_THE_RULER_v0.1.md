@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 35 — The Ruler
+## Chapter 37 — The Ruler
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-124)
 **Volume:** 31
-**Reading order:** 35
+**Reading order:** 37
 **Continuity state:** Floor 100 (Day 393, dawn), the tenth guardian. Gojo goes up the white stair first, alone, and comes back down white-faced: not nothing, a figure of light standing in front of a closed garden. Party: Mau (owner), Gojo, Yuta and Frieren. The notice: "Guardian: the Light of the Hundredth (Ruler)". It is a being of white light, faceless, many-handed in a way the eye can't hold, whose weapon is an invisible hand: force that seizes, crushes and throws from any distance, unlike Momo's psychokinesis (a will, not a kitchen). It treats the shadows as a stain. The Legion breaks against nothing, Kamish is pinned from the sky, and Bellion is thrown. Mau gives the plan aloud. He uses the Legion as a hundred decoys so the hand has too many things to hold, Frieren's Zoltraak against the light, Gojo's marble on the place the hand comes from, and Yuta and the katana. Then, with the eyes (a short unfiltered breath, with Ciel's consent and her count), he sees the shape of the hand itself and puts his own space inside its grip so it closes on nothing. He finishes it with the katana and the pull. Dying, the light speaks: "You carry his door… you should not exist." No extraction ("Not eligible"). Instead: "Fragment acquired: the Ruler's Authority (rough)" — the first piece of another kind of power, an invisible hand of his own, wrong-handed and costly, not a shadow. Injuries: left arm broken where the hand seized it, ribs, bleeding eyes again. The garden opens behind it. Level 101 (the completion notice comes on the second visit)
 
 *When: Day 393, before dawn. The white stair on ninety-nine. Gojo climbed it alone in the dark, because nobody could stop him, and came back down an hour later and did not say "garden". Shoko said "go" after a long look. She did not say anything else.*

@@ -1,16 +1,16 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 20 — Facing the House
+## Chapter 25 — Facing the House
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 20
-**Continuity state:** R53, Himmel's visible return. At dusk between the vermilion columns, Mau brings two cups of tea, as in S4 V24 "Some Things Start" ("She's sleeping better." / "Good." / "Nice pose." / "I heard your cape."). This time Himmel is standing facing the house, not the road. An ordinary exchange, with the old joke reversed. Himmel keeps his affection and humour with Mau without declaring himself healed, and does not ask for anything. No wedding talk
+**Reading order:** 25
+**Continuity state:** R53, Himmel's visible return. At dusk between the vermilion columns, Mau brings two cups of tea, as in S4 V24 "Some Things Start" ("She's sleeping better." / "Good." / "Nice pose." / "I heard your cape."). This time Himmel is standing facing the house, not the road. An ordinary exchange, with the old joke reversed. Himmel keeps his affection and humour with Mau without declaring himself healed, and does not ask for anything. No wedding talk. (Moved to Day 384, six days after seventy, for the slower recovery in DH-128; Himmel notices the white coming in on the left side of his head.)
 
-*When: Day 379, dusk. The day after seventy. Mau has been out of the clinic bed for one hour, on Shoko's word, which was "ten minutes, and Yuta walks behind you". Nothing can come out of his shadow for days. Four of his shadows are in pieces. The vermilion columns at the gate of the real house. Himmel is standing between them. He is facing the wrong way.*
+*When: Day 384, dusk. Six days after seventy. The first day Shoko has let him walk further than the clinic door, on her word, which was "to the gate and back, and Yuta walks behind you". Kaisel, Igris and Beru have been remade on three days running, one a day; Lantern before them. His left hand is in a splint. The left side of his head is growing back white. The vermilion columns at the gate of the real house. Himmel is standing between them. He is facing the wrong way.*
 
 Mau came out with two cups of tea.
 
-He had not planned to. He had planned it for ten days, since the morning he read a page in Fern's ledger he was not meant to see, and then he had not let himself plan it at all. He had been in the kitchen when Touka asked if he wanted coffee. He had said *tea, please, two*, before he knew he was going to, and Touka had looked at him and then out of the window toward the front of the house, and made two cups of tea without asking who the second was for.
+He had not planned to. He had planned it for fifteen days, since the morning he read a page in Fern's ledger he was not meant to see, and then he had not let himself plan it at all. He had been in the kitchen when Touka asked if he wanted coffee. He had said *tea, please, two*, before he knew he was going to, and Touka had looked at him and then out of the window toward the front of the house, and made two cups of tea without asking who the second was for.
 
 "I'm not grateful," she said, handing them over.
 
@@ -18,7 +18,7 @@ He had not planned to. He had planned it for ten days, since the morning he read
 
 "I'm open late," Touka agreed, and went back to the stove.
 
-He carried the two cups out through the long room and the front door. Slowly. His ribs were bound. His left hand was wrapped to the wrist in Shoko's salve and cloth, so he carried both cups in his right, one stacked carefully in front of the other. Behind him, at a distance he had chosen exactly, Yuta walked, and did not say anything. Under the vermilion columns at the gate. The way he had carried two cups out once before, at dusk, a long time ago now. Seventeen days after the bell, in the spring.
+He carried the two cups out through the long room and the front door. Slowly. His ribs were still bound. His left hand was in a splint, two fingers that would not close, so he carried both cups in his right, one stacked carefully in front of the other. Behind him, at a distance he had chosen exactly, Yuta walked, and did not say anything. Under the vermilion columns at the gate. The way he had carried two cups out once before, at dusk, a long time ago now. Seventeen days after the bell, in the spring.
 
 Himmel was standing between the columns.
 
@@ -37,6 +37,8 @@ He was facing the house.
 He heard Mau. Of course he did. He turned his head.
 
 He looked at Mau standing in the doorway with two cups of tea.
+
+At the splint. At the left side of his head, where the hair was coming back in short and pale, almost white, like frost on a dark field.
 
 His face did something. Not much. Something at the corner of his mouth. The thing that comes before a smile when the person is not sure yet that they are going to let it happen.
 

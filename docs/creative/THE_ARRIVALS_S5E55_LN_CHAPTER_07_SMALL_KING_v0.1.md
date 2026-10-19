@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 19 — Small King
+## Chapter 20 — Small King
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18; rewritten for DH-124)
 **Volume:** 31
-**Reading order:** 19
-**Continuity state:** Day 378, mostly from the screen. Gojo, Frieren and Yuta are thrown out of the frame onto the dry ground, and the frame shows only "Trial in progress. Operator only." Nobody can go in. Gojo's eyes cannot see through, Yuta cuts at the frame, Frieren stands at it and does not move. Rimuru feels a pressure down Ciel's thread that he last felt in a cave, and knows it: the True Dragon scale the Noise built from his memory in the containment. Forty minutes later the frame opens ("Party size restored"). They run in and find Mau on the black stone in a pool of blood, curled inside the shadow of Kamish, which lifts its head and guards him until Frieren steps forward. Kamish speaks: "small king… not small"; he said her name in his sleep; it keeps watch until they came. Yuta heals what he can; Gojo carries him home. Nobody knows who changed the party size. Level 72 (one hundred and fourteen unspent). Nine registered shadows, four of them in pieces (Lantern, Igris, Beru, Kaisel). DH-125: at the screen Gojo tells Anko what they saw (the first breath nearly broke two spaces, and Kamish was holding back for four); finding him, Frieren holds the sound in her teeth, Yuta says no-no-no, Gojo's hands won't stop shaking ("We barely held its first breath. Four of us. He held the real one. Alone."). The yard sees him carried like a child; Momo, Himmel, Kaneki; Maki on her knees by the frame; Touka holds Ori, who counts his breaths. Shoko works six hours; Fern makes the house eat; "He's alive"; Frieren goes in without crying; Shoko breaks on the step and Gojo sits beside her
+**Reading order:** 20
+**Continuity state:** Day 378, mostly from the screen. Gojo, Frieren and Yuta are thrown out of the frame onto the dry ground, and the frame shows only "Trial in progress. Operator only." Nobody can go in. Gojo's eyes cannot see through, Yuta cuts at the frame, Frieren stands at it and does not move. Rimuru feels a pressure down Ciel's thread that he last felt in a cave, and knows it: the True Dragon scale the Noise built from his memory in the containment. Forty minutes later the frame opens ("Party size restored"). They run in and find Mau on the black stone in a pool of blood, curled inside the shadow of Kamish, which lifts its head and guards him until Frieren steps forward. Kamish speaks first: "He is alive. Barely." Then "small king… not small"; he said her name in his sleep; it keeps watch until they came. Yuta heals what he can; Gojo carries him home. Nobody knows who changed the party size. Level 72 (one hundred and fourteen unspent). Nine registered shadows, four of them in pieces (Lantern, Igris, Beru, Kaisel). DH-125: at the screen Gojo tells Anko what they saw (the first breath nearly broke two spaces, and Kamish was holding back for four); finding him, Frieren holds the sound in her teeth, Yuta says no-no-no, Gojo's hands won't stop shaking ("We barely held its first breath. Four of us. He held the real one. Alone."). The yard sees him carried like a child; Momo, Himmel, Kaneki; Maki on her knees by the frame; Touka holds Ori, who counts his breaths. Shoko works six hours; Fern makes the house eat; "He's alive"; Frieren goes in without crying; Shoko breaks on the step and Gojo sits beside her
 
 *When: Day 378, the screen. The middle of the morning. Anko is at the board with the pencil behind her ear. Rimuru is on the bench, because he always sits on the bench now when Mau is in the tower. Across the yard, Taihei is washing up after the four o'clock breakfast.*
 
@@ -190,7 +190,11 @@ She looked up at the cold blue lights. She did not lift her staff.
 
 The dragon looked at her for a long time.
 
-*"The elf,"* it said at last. *"Yes. I know you. You stood beside him on my stair, inside his space, before the one above took you away."* The cold lights did not move from her face. *"He said your name. When he slept. Many times."*
+*"He is alive,"* it said. Before anything else. Before she could ask. *"Barely."*
+
+Frieren's knees nearly went. She did not let them.
+
+*"The elf,"* it said then. *"Yes. I know you. You stood beside him on my stair, inside his space, before the one above took you away."* The cold lights did not move from her face. *"He said your name. When he slept. Many times."*
 
 Frieren did not say anything.
 
@@ -358,7 +362,7 @@ She stood in the clinic door for a long time with her hands hanging at her sides
 
 Nobody moved.
 
-"Six ribs. Both lungs bruised. His left hand—" She stopped. "His left hand will work. I don't know how well. Not soon. The splits will close. They'll scar. All of them." She took a breath. "He lost more blood than I've ever seen anyone lose and keep. Yuta gave him what he had. Rimuru gave him what he had, down the thread, until Diablo made him stop." She looked at Frieren. "He'll live."
+"Six ribs. Both lungs bruised. His left hand—" She stopped. "His left hand will work. Some. Not the way it did. Two of the fingers won't close all the way again, I think. Ever." She did not soften it. "The hair on that side will grow back. I don't think it'll grow back dark. Not soon. He'll be in that bed a week, at least. The splits will close. They'll scar. All of them." She took a breath. "He lost more blood than I've ever seen anyone lose and keep. Yuta gave him what he had. Rimuru gave him what he had, down the thread, until Diablo made him stop." She looked at Frieren. "He'll live."
 
 Frieren, on the step, did not cry.
 

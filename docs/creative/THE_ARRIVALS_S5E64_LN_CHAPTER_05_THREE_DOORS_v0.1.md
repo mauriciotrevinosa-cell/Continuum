@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 56 — Three Doors
+## Chapter 58 — Three Doors
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 56
+**Reading order:** 58
 **Continuity state:** Day 405, night, at the north end with Igris on watch and Kamish on the ridge (the night shift now runs nightly under Shoko's dawn check). Ciel asks Mau to look at his shadow with her, and Gojo comes with bare eyes. The shadow holds three separate accesses, turning slowly round each other: the monarch branch (soldiers, the cup, now the heart's root); the Ten Shadows branch (Ear, the one tamed; others below, untamed); and the door, whose far side Ciel cannot name. The Noise keeps trying to bring them together and cannot: the Ten Shadows branch will not join while its shikigami are untamed. Gojo gives the ritual as he knows it: you call it and subdue it yourself; help voids the win. Having the wheel is not having its owner. Mau resolves to tame them one at a time after he heals, and one day the last. Not this summer. Ear comes up for a moment. No ritual, no fight, nothing new unlocked
 
 *When: Day 405, near midnight. The fourth night of the shadows' watch. Shoko has stopped saying "a trial" and started saying "the shift". The burn on Mau's chest is a thin pink line. Nazuna's count says tonight is eleven minutes longer than the night of the flight.*

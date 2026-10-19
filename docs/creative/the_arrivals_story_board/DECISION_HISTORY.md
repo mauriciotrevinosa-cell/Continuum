@@ -1941,3 +1941,17 @@ Creator: "amo a beru y se el monstruo que es… llévalo a sus extremos… que c
 - New "Shrine": Sukuna's shrine opened from his walls, made arm's-length, cutting both. "Open": Fuga, point-blank, burning his hands black. Blind "Arise" in the smoke. He walks out with Beru rising behind him, and Beru catches him: "My King."
 - "My King" now opens after the catch.
 - **Lasting marks:** the left edge of his left eye stays blurred; the filter is thinner on the left (headaches); shrine-cut scars everywhere; burned hands scarred.
+
+**Kamish (V31):**
+- Before the fight, Kamish tells of the coast he burned and the five who stopped him with borrowed light lent by those above kings (the Rulers); it hates borrowed light and asks whether anything in Mau is his own.
+- "True Dragon" is now part 1: the pressure, the shape, the true breath not arriving, and Kamish's recognition ("Not borrowed… built… a thing that builds is its own"). Kamish answers by rising to its last form, fire-wings and white-hot scales.
+- New "Two Dragons" is part 2: the clash; Kamish's bite lets heat through to Mau's body (the left side of his head and left hand burned); Mau's breath of pure weight drives Kamish into the stone ("Not small… Your own… No borrowed light… Good."). Forty seconds on Ciel's count. He finishes it, raises it, and it coils round him.
+- "Small King": Kamish's first words to the party are "He is alive. Barely." Permanent marks: two fingers of the left hand won't fully close again; the hair on the left side grows back white. He is in bed at least a week.
+- New "The Cave" (that night): Rimuru tells of Veldora and the cave, grief and fear rather than anger ("It isn't mine to forbid… your Noise built it"). Ciel: the scale is folded but **no longer asleep**; it turns over at the reset hour (S6 seed).
+- Slower recovery:
+  - Frieren floats him to the river bend (Day 380).
+  - Gojo carries him to Lantern's remaking (Day 381).
+  - Yuta carries him to Stark's nap (Day 382).
+  - Kaisel is remade on Day 382, Igris and Beru on Days 383–384.
+  - He rides floors 71–79 on Kaisel under Shoko's terms and does not fight.
+  - Himmel's tea moves to Day 384, his first walk to the gate (Himmel sees the white coming in).

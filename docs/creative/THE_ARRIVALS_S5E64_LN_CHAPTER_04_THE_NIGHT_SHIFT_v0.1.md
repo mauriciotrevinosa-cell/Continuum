@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 55 — The Night Shift
+## Chapter 57 — The Night Shift
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 55
+**Reading order:** 57
 **Continuity state:** Day 402. Mau proposes at the long table that his shadows take the nights, so that nobody else has to. Ciel's numbers: calling three costs once, at dusk; standing all night costs nothing; by dawn the cup has refilled past what the calling took. Shoko agrees to one trial night and will read his face at dawn. Anko objects that the round is hers and gives it up only for one night, on her terms. Himmel will keep his alternate-day hour because he wants to, not because it is needed. At dusk Igris takes the north end, and Mikasa hands it over and goes with Eren to the south field. Beru walks the lime line on Anko's round. Kamish lies along the low ridge of the north field as a dark hill with two blue eyes, keeping watch over a house as he was asked. Anko climbs the red stake and sits all night with Nazuna (roommates and friends, not a couple). The trial holds. No threat comes
 
 *When: Day 402, dinner, then dusk, then all night. The burn on Mau's chest is a pink line now. His eyes have stopped bleeding. The second heart has kept time with the first for five days without missing a beat.*

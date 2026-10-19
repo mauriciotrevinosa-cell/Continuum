@@ -148,7 +148,7 @@ He almost smiled.
 
 He did not go that day. The barb from fifty had gone through his thigh the afternoon before, and Shoko said *not today* to the stairs, let alone the gate.
 
-But ten days later, on the day after seventy, when Shoko let him out of the clinic bed for an hour with Yuta walking behind him, the first thing he did with the hour was ask Touka for two cups of tea.
+But fifteen days later, six days after seventy, when Shoko let him walk as far as the gate for the first time with Yuta behind him, the first thing he did with it was ask Touka for two cups of tea.
 
 Fern did not see him do it. She heard about it at dinner.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 41 — Four O'Clock
+## Chapter 43 — Four O'Clock
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 41
+**Reading order:** 43
 **Continuity state:** The morning of floor 101 (Day 397). Taihei makes breakfast at four; Touka is open early; Ori gives Mau her list, *SHADOWS (NAMED)*, folded, "so they know who they are". The frame at the screen shows 101 for the first time. Anko writes the line. Rimuru and Diablo hold the house; Shoko and Maomao are ready at the screen; Fern says "back for dinner". The party is Mau, Frieren, Gojo and Yuta, with the katana at Mau's hip. No threat on this side
 
 *When: Day 397, four in the morning. The kitchen. Dark outside. Taihei has had the stove lit since half past three. The bread is in.*

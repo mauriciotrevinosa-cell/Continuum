@@ -1,12 +1,12 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 21 — Yellow
+## Chapter 22 — Yellow
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 21
+**Reading order:** 22
 **Continuity state:** R54, initiated by Frieren. She takes Mau to the river bend and casts her teacher's spell for a field of flowers (Frieren source canon: the first spell she loved), choosing yellow on purpose, like the south field, not the white and blue of the Trial wedding. It is "counting" from R57: one small word of the memory looked at in daylight with someone beside him. No frost comes. They talk about ordinary future things (next year's festival, the sea with Armin, learning the green book together). There is no proposal and no wedding talk beyond a single honest line
 
-*When: Day 380, late morning into afternoon. A rest day. Lantern is still in pieces; the cup is half full and refilling fast. Frieren came down to breakfast with a basket and did not explain it. Shoko asked her, two weeks ago, to take him somewhere he can't climb. Two days after seventy, he cannot climb anything. She floats him most of the way.*
+*When: Day 380, late morning into afternoon. A rest day. Lantern is still in pieces; the cup is half full and refilling fast. Frieren came down to breakfast with a basket and did not explain it. Shoko asked her, two weeks ago, to take him somewhere he can't climb. Two days after seventy, he cannot walk. She floats him the whole way, lying on the air beside her like something carried on water.*
 
 Frieren had a basket.
 
@@ -232,7 +232,7 @@ Small words, probably.
 
 Something for the big words to hang on.
 
-On the walk back, along the river bank, past the bend, Frieren took his hand. She did not let go until they reached the yard. At the yard, she did not let go either.
+On the way back, floating him along the river bank, past the bend, Frieren held his hand. She did not let go until they reached the yard. At the yard, she did not let go either.
 
 At the back step, Ori was waiting.
 

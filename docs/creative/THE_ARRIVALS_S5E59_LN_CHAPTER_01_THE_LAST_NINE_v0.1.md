@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 34 — The Last Nine
+## Chapter 36 — The Last Nine
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 34
+**Reading order:** 36
 **Continuity state:** The two broken soldiers are remade at dawn (Day 391). Floors 91–99 are cleared over two days, using Armin's sheet of the green book's margin drawings as a map for the first time. One scene, on floor 97 (a door with no wall), shows Mau's growth: one controlled heartbeat of Okarun's borrowed speed instead of a torn-leg sprint, and planning aloud before acting. Mau reaches level 101 (two hundred and fifty-nine unspent). Floor 100 is next. No extraction
 
 *When: Day 391 and Day 392. The cup is full for the first time in a week. Mau's shoulder has come out of the sling. His side holds. Shoko has said "the tower, yes; the sword, no" and written both on the board herself.*

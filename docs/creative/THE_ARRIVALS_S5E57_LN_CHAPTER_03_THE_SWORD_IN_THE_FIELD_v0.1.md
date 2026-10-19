@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 26 — The Sword in the Field
+## Chapter 28 — The Sword in the Field
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 26
+**Reading order:** 28
 **Continuity state:** Floors 81–89 summarised (Day 386). On floor 86, a field of swords, the notice lets the owner take one, and Mau takes a plain katana in a black scabbard that looks like Yuta's. The Noise attends to it (Observe), with no technique and no unlock. At home Yuta recognises the shape. A cursed tool carries what its holder puts into it; his own carries Rika. He warns Mau: "be careful what comes out with it". Shoko forbids testing it at home. Gojo looks at ninety and calls it "a general". No fight in this chapter
 
 *When: Day 386, afternoon, then evening. Floors 81 to 89. Then the back step.*

@@ -108,6 +108,26 @@ Mau did not say anything.
 
 "I have been at the top of this stair," said Kamish, "for longer than you have been anything at all. I have seen others come up it." Its gold eyes went to Frieren. Stayed on her for a moment. "An elf. I have not seen an elf in a very long time." Back to Mau. "None of them were small kings. None of them collected."
 
+It was quiet for a while. The heat came off it in slow waves. When it spoke again, its voice had gone somewhere else. Somewhere far back.
+
+"Before this stair," said Kamish, "there was a coast."
+
+Nobody moved.
+
+"Long. Longer than you could walk in a season. Cities on it, white, one after another, like teeth along a jaw." Its gold eyes were not on any of them. "I burned it. From one end to the other. In one night. Not because I was hungry. Not because they had wronged me. Because I could, and because burning was what I was." It was quiet. "The sea boiled for three days. The sky was black for a year."
+
+Frieren's hand had tightened on her staff.
+
+"Small things stopped me," said Kamish. "At the end of it. Small, like you. Five of them, on the ash of the last city." Something moved in its voice that was not quite anger, and not quite shame. "They were not strong. Not on their own. They carried light that was not theirs. Lent to them, from far above, by things that sit higher than kings and do not come down themselves." It breathed out, and the hall went hot. "The light went through my scales like a needle through cloth. They brought me down with it. Borrowed light, in small hands." Its gold eyes came back to Mau. "I have hated borrowed light ever since."
+
+Gojo's face had gone very still.
+
+"And you," said Kamish. Softly. "You smell of borrowed things too, small king."
+
+Mau did not answer.
+
+"A knight's patience. A girl's kitchen. A runner's legs. An elf's white line." The gold eyes moved over him, slowly, the way a dragon looks at a hoard. "None of it yours. All of it watched, and kept, and carried." It lowered its great head until its eyes were level with the doorway. "I would like to know, before I burn you, whether there is anything at all in you that is your own."
+
 "Will you fight?" said Mau.
 
 Kamish looked at him.

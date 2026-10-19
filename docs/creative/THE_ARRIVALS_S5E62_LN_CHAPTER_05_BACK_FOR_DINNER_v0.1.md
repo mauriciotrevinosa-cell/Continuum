@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 49 — Back for Dinner
+## Chapter 51 — Back for Dinner
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 49
+**Reading order:** 51
 **Continuity state:** Return from floor 101 (Day 397, evening). Yuta finds the katana on the restored floor and sheathes it. At the screen: Shoko and Maomao; Rimuru is grey and exhausted on the back step after holding the walls down the thread, with Diablo beside him. Gojo gives Shoko back her cigarette, unlit and intact. Mau writes the day on the board himself, as Anko asked, in his crooked hand. Dinner is Taihei's curry. He tells the house plainly about the Architect, the watching and "a gift", and that something is beating beside his heart; nobody knows what it is. No answers yet
 
 *When: Day 397, evening. Eleven hours by Anko's watch. The frame at the screen lit at a quarter past six. Ori has been standing in front of it since noon.*

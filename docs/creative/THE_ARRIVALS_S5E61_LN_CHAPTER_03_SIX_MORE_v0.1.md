@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 31
-## Chapter 44 — Six More
+## Chapter 46 — Six More
 
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
-**Reading order:** 44
+**Reading order:** 46
 **Continuity state:** The last six tests:
 - **Spear (20):** inside the reach.
 - **Cup (70):** "Party size: 1" again, and a pale wall cuts him off from the others. The cup statue kneels alone and starts to crack; Mau sits with it and does not leave it alone (the lesson of seventy), while the seated figure taps two fingers, impatient. The cup fills and the wall drops.

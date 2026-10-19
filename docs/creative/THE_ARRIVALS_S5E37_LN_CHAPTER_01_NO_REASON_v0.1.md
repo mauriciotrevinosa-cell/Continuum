@@ -44,9 +44,9 @@ The lime ran white across the brown ground in the dusk, a little greyer where th
 
 "I read it," said Frieren. She did not say anything else about it. Not then.
 
-"And you didn't take the guardian."
+"And you kept the guardian."
 
-"The cup's too small. I'd have kept it a minute and lost it." He shrugged. "I'd rather have a little left."
+"I kept it. And walked home with nothing in the cup." He shrugged. "Next time I'd rather have a little left."
 
 Frieren looked at him sideways.
 

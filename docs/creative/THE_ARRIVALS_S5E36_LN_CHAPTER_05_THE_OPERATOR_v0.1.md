@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-124)
 **Volume:** 29
 **Reading order:** 53
-**Continuity state:** Day 327, continuous. The same four go back in at once, inside the agreed three hours. The guardian stands whole again on the painted circle. This time Mau fights. He is level ten, with the floor-1 sentry, the small pull and bounded Infinity, and none of it is enough on its own. Maki still helps most: she teaches him the inside of the reach in the fight itself and makes the opening under the arm. Yuka's rope takes an ankle and the sentry hooks the other. Mau drives Maki's spear into the gap himself, and the shaft cracks (the crack Maki's spear carries into V30). Mau is cut along the forearm and ribs. The notice accepts it: "Operator engaged." Extraction is offered and declined because the reserve is too shallow. On the way home the companions understand they cannot let him stand at the back any more; Maki: "Then we make him good enough." Level 12, 55 points
+**Continuity state:** Day 327, continuous. The same four go back in at once, inside the agreed three hours. The guardian stands whole again on the painted circle. This time Mau fights. He is level ten, with the floor-1 sentry, the small pull and bounded Infinity, and none of it is enough on its own. Maki still helps most: she teaches him the inside of the reach in the fight itself and makes the opening under the arm. Yuka's rope takes an ankle and the sentry hooks the other. Mau drives Maki's spear into the gap himself, and the shaft cracks (the crack Maki's spear carries into V30). Mau is cut along the forearm and ribs. The notice accepts it: "Operator engaged." Extraction: the guardian's dark weighs him before it rises (worthiness, not resources); he asks it plainly and it rises and kneels. Raising it costs nearly all his shallow cup once, so he walks home with almost nothing and decides "Next time, I want a little left" (DH-127: shadows cost only when they appear or re-appear; each takes one place). On the way home the companions understand they cannot let him stand at the back any more; Maki: "Then we make him good enough." Level 12, 55 points
 
 *When: Day 327, an hour before noon. Forty minutes used. Anko has written the four lines from the frame at the top of the board and drawn a box round them. Seiko has not moved from the bench.*
 
@@ -120,7 +120,7 @@ It was. The pole was already coming back.
 
 The sentry rose out of his shadow.
 
-He had not called it. He had thought it. And it came, the long hooked weapon clearing the roof, and caught the butt of the pole on its hook, and held it, for a heartbeat. The drain began. Slight. Definite.
+He had not called it. He had thought it. And it came, the long hooked weapon clearing the roof, and caught the butt of the pole on its hook, and held it, for a heartbeat. He felt the cost of calling it go out of the cup, once, small, the way it always did when one of them stood up.
 
 A heartbeat was enough to roll.
 
@@ -186,21 +186,59 @@ And below it, a new line.
 
 Mau looked at the fallen guardian under him. As the blue light began to run along its heavy plates, a dark outline remained beneath it. Deeper than the sentry's. Much deeper.
 
-*It would cost more than the dragon,* said Ciel, quietly. *To raise. And far more to keep. Your reserve is shallow. You could raise it. You could not hold it standing for long, and storing it would take most of what you have.* A pause. *And you're hurt.*
+*Raising it will cost,* said Ciel, quietly. *Once. When it stands up. More than the dragon did.* A pause. *Your cup is shallow. It will take nearly all of it. You'll walk home with almost nothing.* Another pause. *And it has to accept you. It knelt to nothing. It stood its roof alone. It won't rise for someone it doesn't think is worth rising for.*
 
 He looked at the outline for a long time.
 
-Then he closed the notice.
+Then he put his hand flat on the guardian's back. On the heavy dark plates he was still kneeling on, with Maki's cracked spear beside him and his own blood on the armour.
 
-"Not this one," he said.
+"Arise," he said.
 
-Yuka looked up. "Why not? It's the first boss."
+Nothing happened.
 
-"Because I couldn't keep it," said Mau. "Not properly. Not yet." He looked at the outline fading under the blue light. "If something else came, I'd have nothing." He took a breath. It hurt. "I'd rather have a little left. For the next thing."
+The dark under the guardian did not move. It lay there, deep, heavy, and did not rise. Mau felt it. Not refusing. Weighing. The way the guardian had weighed the four of them in the doorway the first time, before the notice came.
+
+*It's looking at you,* said Ciel. *It's deciding.*
+
+Behind him, Yuka had gone very still. Maki did not move. Yuta's hand had gone to his sword without his deciding.
+
+Mau did not look at any of them.
+
+He looked at the dark.
+
+*You stood on your roof,* he thought at it. *Under a sky like a lid. On your own. For as long as there's been a roof.* He breathed. It hurt. *And the first time they came, they carried me in and you stopped. Because I wasn't the one fighting.* His hand pressed flat on the plates. *I was the one fighting the second time. I finished it. Badly. With somebody else's spear.* He did not look away. *That's what I've got. I'm not going to pretend it's more.*
+
+*I'd like you to come anyway.*
+
+The dark moved.
+
+It came up out of the plates under his hand like water out of a spring, slow and heavy, and the guardian under him went dark from the inside, all of it, and rose. Mau slid off its back onto the roof. It stood up over him. Taller than Stark. The heavy dark plates. The long blade on its pole, upright. And behind the slit of the helm, where the dull red coal had been, two small cold lights. Blue.
+
+It looked down at him.
+
+Then it went down on one knee on the painted circle, and laid the long pole across its knee, and bowed its helm.
+
+The cup went.
+
+Almost all of it. He felt it pour out of him in one long breath, the way Ciel had said, and the edges of everything went thin, and he sat down on the roof very suddenly next to his own shadow.
+
+"Oh," said Yuka. Very small.
+
+"It's yours," said Maki.
+
+"It's mine," said Mau. His voice did not sound like his. "And there's nothing left."
+
+*A thin layer,* said Ciel. *On the floor of the cup. Almost nothing.* A pause. *If something else came up those stairs now, you'd have nothing to call it with.*
+
+He looked at the kneeling guardian. At the cold blue lights. At the empty roof under the not-sky.
+
+"Next time," he said, to nobody, "I want a little left."
 
 Maki was looking at him.
 
-"That's a good reason," she said.
+"That's a good thing to learn on ten," she said.
+
+"Back," said Mau, to the guardian, and it went down into the roof, and he did not have anything left to feel it go with.
 
 * * *
 
@@ -226,7 +264,7 @@ On the other side, Anko looked at the watch.
 
 She did not write *Mau stood on the seal.*
 
-She wrote: *Mau finished it. (Maki opened.) (Yuka's rope.) (The sentry.)*
+She wrote: *Mau finished it. (Maki opened.) (Yuka's rope.) (The sentry.) Kept it. (Cup empty.)*
 
 And under it: *Arm, ribs. Shoko.*
 

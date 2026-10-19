@@ -1920,3 +1920,13 @@ Creator: "osea perod espues de que lo ven de beru literalmente que parece que lo
 New V31 #2 "Days" (Day 369, Fern): the page opened after "The Check" and the long room has nine names, each chosen by the person (Himmel: tea at the columns; Frieren: the river bend; Ori: her seven-line plan; Umaru: the small true thing; Mai: the garden on five; Anko: blank; Stark: a nap in the same field…). The rules are no more than two a week, never on a tower day, and not a schedule; the last line reads "This is not to stop him. It is so there is somewhere to come back to." Mau finds it by accident and says nothing.
 
 Payoffs added at the end of the existing chapters: Umaru "Paid" (on a tower day; "a debt outranks a page"), Himmel's tea planned for ten days, Frieren "Cast", Ori's eighth line, Stark and Mau napping ("Both"), Mai's "Thank you", Anko's line filled ("He watered it every morning. That was my day. All of them.").
+
+## DH-127 — Shadow costs are activation only; Mau keeps the floor-10 guardian (creator, 2026-10-19)
+
+Creator: "mau guarda los 10 bosses como que no guarda el primero" … "el mana de solo es solo activacion no para continuar teniendolo abierto … lo que le cuesta a sung jin woo es que aparezca y si lo matan a la sombra le cuesta re aparecer solo eso tusk puede usar su fuego … dependiendo de su nivel evolucion pq el tiene sus propias reservas y cada sombra sin importar que tan op cuesta 1 spot el problema es que tiene que demostrar que es un rey digno un monarca".
+
+- The cup pays only when a shadow **appears** (summon, extraction) or **re-appears** after being destroyed (remaking). Standing and fighting cost nothing. Abilities come from each shadow's **own reserve**, scaled by its level or evolution.
+- **Every shadow takes exactly one place**, however strong.
+- The real gate on extraction is **worthiness**: the dark weighs the would-be king before it rises.
+- **Floor 10:** the guardian is now kept. Its dark weighs him; raising it empties his shallow cup once; he walks home with nothing, and that is where "next time, a little left" comes from.
+- V29 is fixed through the festival boundary. V30–V31 sweep pending: "drain" becomes "cost", Shoko's minute limits become activation limits, the floor-10 guardian is added to the counts and Ori's list, and "didn't keep" references are fixed.

@@ -6,7 +6,7 @@
 **Reading order:** 19
 **Continuity state:** The first connection fragment. At the reset hour, after Frieren's cold foot ("One. Still here."), a voice reaches Mau through the shadow branch: "Hello." Then nothing; Mau answers and gets no reply. Ciel registers something reaching the branch, source unknown; Mau does not recognise the voice (he never met Jin-Woo; Yuta's party did). He tells Frieren at once and Rimuru in the morning, nobody else. No location, no army, no conversation; it is not household knowledge
 
-*When: Day 346, the reset hour, a little before dawn. Nineteen floors behind him. Seventy points unspent. Lantern and the sentry are in storage, in the deeper part of his shadow, where the cup is twice the size it was.*
+*When: Day 346, the reset hour, a little before dawn. Nineteen floors behind him. Seventy points unspent. Lantern, Roof and the sentry are in storage, in the deeper part of his shadow, where the cup is twice the size it was.*
 
 He woke the way he always woke at that hour.
 
@@ -42,7 +42,7 @@ It had not come through his ears. He knew that at once, the way you know whether
 
 It had come from underneath.
 
-From his shadow. From the part of it that was not the door where Ear slept, and not the old dark that the wheel sank into, but the new part. The deep part. The branch. The cup where Lantern and the sentry were.
+From his shadow. From the part of it that was not the door where Ear slept, and not the old dark that the wheel sank into, but the new part. The deep part. The branch. The cup where Lantern and Roof and the sentry were.
 
 A voice. One word. Male. Low. Very tired, the way a person is tired when they have been doing something hard for a long time without stopping.
 
@@ -60,7 +60,7 @@ He listened. Not with his ears. With the other thing. The way he listened for Ea
 
 Nothing.
 
-The branch was quiet. Lantern was quiet. The sentry was quiet. The cup sat in his shadow with its two shapes in it and its new depth, and there was nothing else there at all.
+The branch was quiet. Lantern was quiet. Roof was quiet. The sentry was quiet. The cup sat in his shadow with its three shapes in it and its new depth, and there was nothing else there at all.
 
 *Ciel,* he said inwardly. *Did you—*
 

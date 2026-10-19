@@ -192,9 +192,9 @@ Mau read it out.
 
 "Ten with names. A hundred soldiers. Two of them in pieces." He counted again, to be sure. "A hundred and ten."
 
-"Two places left."
+"Ten places left."
 
-"Two places left," said Mau. "And ten floors."
+"Ten places left," said Mau. "And ten floors."
 
 He sent them all back. Bellion. Igris. The soldiers. Raising the Grand Marshal had cost nearly everything. The cup was very low. Lower than after Beru. Not as low as after Kamish.
 

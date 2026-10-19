@@ -6,7 +6,7 @@
 **Reading order:** 47
 **Continuity state:** The second connection fragment, thirteen nights after "Hello". Through the shadow branch at the reset hour: "Who are you?" Mau answers, "Mau. I live in a house. You stood in my place once." No reply. Ciel registers the contact again, source unknown. Following Rimuru's rule (more than one word means think about Yuta), Mau tells Yuta in the morning. Yuta, who heard Jin-Woo's voice during the Exchange, says the description fits but he cannot be sure without hearing it. Still private: Frieren, Rimuru (Ciel), Yuta. No location, no army, no mentor
 
-*When: Day 360, the reset hour. Thirteen nights since the first word. Thirty-nine floors behind him. Five shadows in the cup: Lantern, Corner, Igris, Tank, and the room for one more.*
+*When: Day 360, the reset hour. Thirteen nights since the first word. Thirty-nine floors behind him. Five shadows in the cup: Lantern, Roof, Corner, Igris, Tank.*
 
 He woke the way he always woke.
 

@@ -166,7 +166,7 @@ Ori crossed out Umaru's line, very neatly, one straight stroke. She wrote undern
 
 *5. Corner. (Ori.) Guards a corner.*
 
-Then she looked at the list. Four names. Four lines.
+Then she looked at the list. Five names. Five lines.
 
 "It's getting long," she said, satisfied.
 

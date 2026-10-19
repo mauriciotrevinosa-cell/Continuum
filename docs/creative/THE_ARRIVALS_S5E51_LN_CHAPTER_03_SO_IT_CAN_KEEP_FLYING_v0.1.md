@@ -136,7 +136,7 @@ He read it out. All of it. Milim listened by the tree with her hand still on Kai
 
 "Twenty," called Yuka across the gap.
 
-"Twenty places," said Mau. "Six shadows."
+"Twenty places," said Mau. "Seven shadows."
 
 "Umaru's going to need a fourth wall," called Yuka.
 

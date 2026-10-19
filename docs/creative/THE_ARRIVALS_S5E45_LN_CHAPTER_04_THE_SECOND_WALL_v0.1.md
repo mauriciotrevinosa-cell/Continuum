@@ -32,15 +32,15 @@ Mau looked at the box.
 
 She went to the first wall. The old sheets. The solid line from the reserve to *Intelligence*, which she had drawn thirteen days ago and gone over twice since, very carefully, so it would not fade.
 
-"Thirty points into Intelligence doubled the cup," she said. "That's known. Ciel measured it. One at a time." She tapped the solid line. "And it worked. You raised Igris. You stored him. You stood him on the bridge for seven and a half minutes and you still had a margin."
+"Thirty points into Intelligence doubled the cup," she said. "That's known. Ciel measured it. One at a time." She tapped the solid line. "And it worked. You raised Igris, and you walked home on your own feet with a margin left. Not like ten."
 
 "Yes."
 
 "Here's what else we know." She went to the second wall. The new sheets. On the first one, in her square Ministry hand, a list:
 
-*Floor 10: guardian. (Not kept. Cup too shallow.)*
+*Floor 10: Roof. (Kept. Emptied the cup. Walked home with nothing.)*
 
-*Floor 20: Igris. (Kept. Cup doubled.)*
+*Floor 20: Igris. (Kept. Cup doubled. Margin left.)*
 
 *Floor 30: ?*
 
@@ -52,7 +52,7 @@ She went to the first wall. The old sheets. The solid line from the reserve to *
 
 "I don't have to keep every one."
 
-"I know you don't," said Umaru. "That's not what I'm saying." She turned round. "I'm saying, *if you want to*. If the next one is something you'd want. You should be able to choose. Not have the cup choose for you." She looked at him. "On floor 10, you didn't get to choose. The cup was too small. You chose *not this one*, but it was really the cup choosing and you agreeing."
+"I know you don't," said Umaru. "That's not what I'm saying." She turned round. "I'm saying, *if you want to*. If the next one is something you'd want. You should be able to raise it and still walk home." She looked at him. "On floor 10, you kept it. And it took everything. You sat down on that roof with nothing in the cup, and if anything had come up those stairs, you'd have had nothing to bring any of them back with. You said it yourself. *Next time, a little left.*"
 
 Mau did not say anything.
 

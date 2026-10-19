@@ -14,7 +14,7 @@ The notice came up while Gojo was still tying the scarf round his thigh.
 
 Mau looked at the kneeling knight.
 
-Under it, between the cracked flagstones, the darkness was deep. Deeper than the sentry's had been. Deeper than the dragon's, at the snowline. He could feel the depth of it from where he stood, the way you feel cold coming off a well.
+Under it, between the cracked flagstones, the darkness was deep. Deeper than the sentry's had been. Deeper than the guardian's on ten. Deeper than the dragon's, at the snowline. He could feel the depth of it from where he stood, the way you feel cold coming off a well.
 
 He thought about floor 10. The guardian under the blue light, and the dark that had weighed him before it rose, and the cup going out of him all at once, and walking home through the frame with nothing in it. *Next time, a little left.*
 
@@ -24,7 +24,7 @@ This was the next thing.
 
 She was quiet for a long moment. He felt her looking. Not at the knight. At him. At the cup, twice as deep as it had been on floor 10, and at the shallow fill sitting in the bottom of it, and at the other thing, the one he used for the space and the pull, nearly empty after the fight.
 
-*The reserve can hold it,* she said at last. *In storage, with Lantern and the sentry. With a margin left after. That's what the thirty points were for.* A pause. *Raising it will cost more than the dragon did. A good deal more. You'll feel it. And the other reserve, the one for the space, is nearly gone, and this won't touch it, but you're tired, and tired makes the focus harder.* Another pause. *I'd do it now, while it's waiting. I don't know how long it waits.*
+*The reserve can hold it,* she said at last. *In storage, with Lantern and Roof and the sentry. With a margin left after. That's what the thirty points were for.* A pause. *Raising it will cost more than the dragon did. A good deal more. You'll feel it. And the other reserve, the one for the space, is nearly gone, and this won't touch it, but you're tired, and tired makes the focus harder.* Another pause. *I'd do it now, while it's waiting. I don't know how long it waits.*
 
 Mau looked at the others.
 

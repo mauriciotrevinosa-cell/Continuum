@@ -48,7 +48,7 @@ She went to the first sheet. On it, in her careful hand, were the five words the
 
 "*Calling them costs nothing, once they're his. Raising him took nearly all of it. The reserve is shallow,*" said Rimuru, in his own voice but Ciel's words. "*If anything had broken one of them, he'd have had nothing to bring it back with.*"
 
-"Shallow," said Umaru. She underlined the word on the sheet. "The shadow reserve. That's the thing that paid for raising the dragon and the sentry. Once each. Not your mana. Not your cursed energy. A third box." She tapped the broken line running from it. "And when you said, on ten, *next time I want a little left*—you meant that box. Because that box is small."
+"Shallow," said Umaru. She underlined the word on the sheet. "The shadow reserve. That's the thing that paid for raising the dragon and the sentry and the guardian. Once each. Not your mana. Not your cursed energy. A third box." She tapped the broken line running from it. "And when you said, on ten, *next time I want a little left*—you meant that box. Because that box is small."
 
 "Yes."
 
@@ -136,7 +136,7 @@ Everyone looked at her.
 
 Mau asked.
 
-*Hard to say exactly,* said Ciel. *The guardian was the first of its kind. The next ones will be bigger. But if you want room to hold one like it in storage, with the dragon and the sentry, and still keep a working margin, I'd estimate the reserve needs to be roughly twice as deep as it was this morning.* A pause. *One point added about three parts in a hundred.*
+*Hard to say exactly,* said Ciel. *The guardian was the first of its kind. The next ones will be bigger. But if you want to raise another one like it and still walk home with a working margin, I'd estimate the reserve needs to be roughly twice as deep as it was this morning.* A pause. *One point added about three parts in a hundred.*
 
 Rimuru repeated it.
 
@@ -168,7 +168,7 @@ At the thirtieth, Yuka said, "Thirty," and put down her pencil.
 
 Mau looked at the window.
 
-The bar was a good deal deeper now. The shallow fill sat in the bottom of it, the same amount as before. It was nowhere near full, because spending points did not fill it. Only rest did that, slowly. But there was room in it now. Room for the dragon in storage, and the sentry, and something else beside them. And a margin left over, after.
+The bar was a good deal deeper now. The shallow fill sat in the bottom of it, the same amount as before. It was nowhere near full, because spending points did not fill it. Only rest did that, slowly. But there was room in it now. Room, once it filled, to raise something the size of the guardian on ten and still walk home with a margin.
 
 *Twenty-five unspent,* said Ciel. *Capacity roughly doubled. Present level unchanged. Registration still ten places. No boundary moved except the one we were testing.* She paused. *That was a very clean afternoon's work.*
 

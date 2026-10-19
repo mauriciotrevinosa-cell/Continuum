@@ -194,7 +194,7 @@ See `S5_V30_V31_CLOSING_OUTLINE_2026-10-18.md` for the decisions taken under the
 - **Operator rule** (floor 10): "This dungeon belongs to an Operator / Each guardian is the Operator's trial / Companions may assist / Companions may not carry." Mau finishes every guardian from 10 on. Maki's spear cracks at 10.
 - **After the north road:** Mau climbs ALONE floors 12–29 (dawn, noon, dinner), hurt each time. The house starts waiting at the screen, and at 30 Stark, Maki and Kaneki stop him (*Together.*). Days 365–366: no Shoko check. "The Check": every morning, his word; Day 367 "not today"; Fern's ledger page *Days*.
 - **Guardians:**
-  - 10, the first guardian (not kept)
+  - 10, the first guardian (kept: Roof)
   - 20 Igris (duel)
   - 30 Tank (Mau's finish, collarbone)
   - 40 Beru (Six Eyes unfiltered, blind to Day 363, shredded)

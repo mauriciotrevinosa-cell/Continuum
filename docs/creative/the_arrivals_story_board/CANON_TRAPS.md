@@ -440,3 +440,5 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Floor 100 is a Ruler copy guarding the garden.** Not extractable. The **Ruler's Authority** fragment is rough and unused, distinct from Momo's psychokinesis and from the Noise's patterns. Don't use it casually in S6 without cost.
 - **At 101 the Architect suspended the Operator interface.** The Noise rebuilt the line (it is "the Noise's now"). The interface outages and the Noise's own line connect to DH-122's integration outlines; keep that cause and effect.
 - **Shoko's check is every morning, by Mau's word since Day 366.** Fern's ledger page *Days* lists the house's chosen days with him.
+
+- **Umaru was gone FOUR DAYS in her world** (left on Sunday; Taihei arrived on Thursday, his time). For her it was two years and a bit. Never "months". This follows the Kessoku/Seika rule (three days) and the creator's rule that no one is missing for months at home. Fixed in V29 "The Eighth Bell" (2026-10-19).

@@ -112,6 +112,50 @@ Kaisel breathed out again.
 
 * * *
 
+Mau got to his feet.
+
+Slowly. The barb had gone through his thigh, and Frieren's sash was tied round it, and his leg did not want to hold him. He stood anyway, in the grass under the twisted tree, and looked at the wyvern with its head lowered to Milim, and let out a breath he felt he had been holding since the cloud stair.
+
+At his feet, his shadow moved.
+
+Not the wyvern's. His. On the grass. The dark of it shifted, the way water shifts when something comes up from underneath, and out of it, slowly, just the top of a head: long black chitin, two antennae, two cold blue lights. Peering up.
+
+"*My King,*" said Beru.
+
+His voice was thick.
+
+"*What a great one,*" said Beru. "*So noble. Fulfilling the wishes of his people.*" The antennae trembled. "*The little dragon girl asked, and my King jumped off a cloud, and took a barb through the leg, and raised a broken thing so it could keep flying.*" A sound came out of him, high and wet and wavering, like a kettle starting to sing. It took Mau a moment to understand that it was an ant king, weeping. "*So noble.*"
+
+Mau stared down at him.
+
+"Beru," he said. "How did you get out? I didn't call you."
+
+"*I did not get out, my King,*" said Beru, sniffing enormously. "*I am still in. Look.*" The head turned, very slightly, showing that nothing below the jaw had come up at all. "*We cannot come out unless you call. But we can look. And we can speak.*" He drew himself up, as much as a head can. "*Only I can, of course. Because I am the strongest.*"
+
+From somewhere further down in the dark, dry and level:
+
+"*Not only you, Beru,*" said Igris. "*It appears that any of us who can speak may do so.*"
+
+Beru went very still.
+
+Then his antennae shot straight up.
+
+"*Ah!*" said Beru. "*Ah! So you admit it! Any of us who can speak, and I spoke first!*" He swivelled the head toward Mau. "*Did you hear, my King? He admits that I am stronger than he is! I am your strongest shadow!*"
+
+"*That is not what I—*"
+
+"I heard," said Mau.
+
+He put his hand over his eyes.
+
+"I heard," he said again. "Which is worse." He took a breath. "Please. Both of you. Let me finish."
+
+"*Of course, my King,*" said Beru at once, and sank back into the dark, still sniffing. Below him, very faintly, Mau thought he heard a knight sigh.
+
+By the tree, Milim had both hands over her mouth, and her shoulders were shaking, and it was not crying.
+
+* * *
+
 *Floor 50 cleared.*
 
 *Transfer point secured. Future expeditions may begin at Floor 1, 5, 10, 20, 30, 40 or 50.*

@@ -128,7 +128,7 @@ Mau felt it.
 
 Not in the cup. In something else. A hole, where Tank had been. Not gone. Broken. The shape of him was still there in the cup, but in pieces, waiting.
 
-*He's not lost,* said Ciel, very fast. *He'll need remaking. It'll cost. Not now. Later. Don't call him again today.*
+*He's not lost,* said Ciel, very fast. *He'll need remaking. It'll cost. Not now. Later. You can't afford it today.*
 
 The Ant King stood where Tank had been. It looked a little bigger. Its armour looked a little sharper.
 

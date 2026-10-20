@@ -5,7 +5,7 @@
 **Season:** 6
 **Coverage:** S6E10–S6E16
 **Volume title:** **Oppa**
-**Chapter files:** 13
+**Chapter files:** 14
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -26,3 +26,4 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 11 | S6E15 | Coats | `THE_ARRIVALS_S6E15_LN_CHAPTER_01_COATS_v0.1.md` |
 | 12 | S6E15 | Under the Stars | `THE_ARRIVALS_S6E15_LN_CHAPTER_02_UNDER_THE_STARS_v0.1.md` |
 | 13 | S6E16 | The Contract | `THE_ARRIVALS_S6E16_LN_CHAPTER_01_THE_CONTRACT_v0.1.md` |
+| 14 | S6E16 | Nine | `THE_ARRIVALS_S6E16_LN_CHAPTER_02_NINE_v0.1.md` |

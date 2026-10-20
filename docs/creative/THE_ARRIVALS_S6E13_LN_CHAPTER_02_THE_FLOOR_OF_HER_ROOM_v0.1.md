@@ -76,7 +76,7 @@ It was very late. The stars in the window had moved. He had gone quiet for a whi
 
 "Mm."
 
-"I've never told anyone here." She looked at the ceiling too, now. "Not my grandparents. Not Maki."
+"I've never told anyone here." She looked at the ceiling too, now. "Not my grandparents. Not anyone."
 
 He turned his head on the blankets to look at her.
 

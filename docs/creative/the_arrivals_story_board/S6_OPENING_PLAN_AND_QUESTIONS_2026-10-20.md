@@ -60,3 +60,8 @@ Creator's plan (2026-10-20): "llego a kamish y de ahi armas lo de s6 … me enca
 17. Does Yuka tell Frieren about the kiss herself (Claude's proposal), or does it come out another way?
 18. What does Frieren do while Mau and Yuka are inside the gate?
 19. How does the Red Gate end: a crack in the false memory, or nothing yet?
+
+## Answered (2026-10-20)
+
+The creator's full skeleton and answers are in [S6_OPENING_ARC_CREATOR_SKELETON_2026-10-20.md](S6_OPENING_ARC_CREATOR_SKELETON_2026-10-20.md). It supersedes the skeleton above where they differ.
+

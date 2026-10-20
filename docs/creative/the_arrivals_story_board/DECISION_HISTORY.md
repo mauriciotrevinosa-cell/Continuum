@@ -1967,3 +1967,13 @@ Creator: "amo a beru y se el monstruo que es… llévalo a sus extremos… que c
 - **The Goddess's bet:** two cookies, "not allowed to kill nobody, and you need to help them afterward". Helping one under contract, he loses his memories; the attackers flee; the house finds him on the ground with two cookies.
 - Most attackers go home; Subaru stays. The witches' talk and Rem's line ("Mau died more times, counted them, never asked for anything") start his Eren-style arc from cocky to serene.
 - Open questions are listed in the seed (Kamish's five, Reze or hybrids, the thief, Rem and Subaru, RbD).
+
+## DH-130 — Floor 40 is effectively single combat: nobody may help (creator, 2026-10-19)
+
+Creator: "yo diria que beru no permita asisitir el chiste de esa pelea es que mau llegue a un limite y tal ves alguien intente intervenir y lo sacan de la torre … si hay gente no pueden ayudar".
+- The floor 40 notice asks nothing (unlike floor 20's request): "The King does not share his meal. Single combat with the Operator. Companions may witness. Companions who interfere will be removed."
+- Frieren, Gojo and Yuta are held at the edge. They can speak, not act. Beru knows they cannot fight back and goes for Frieren; Mau's space stops it a finger from her face.
+- When Beru starts eating Mau, **Yuta goes in**. Beru opens his arm and the tower removes him; he lands in the yard and waits at the screen. Gojo holds Frieren's wrist. She keeps her strongest spell in her hand the whole fight and never looses it.
+- Everything that was a companion's assist is now Mau's own: the slanted space edge, his own pull, Igris taking the arm, Igris holding Beru for Purple.
+- Ripples: My King (Beru "remembers" the held spell, not a hit; the return is Gojo and Frieren, with Yuta taking her side), Long Room (Gojo's "I held Frieren's wrist"), Chair for Later, and One Free Shot (Beru asks for the spell she never loosed, so the free shot is the release).
+

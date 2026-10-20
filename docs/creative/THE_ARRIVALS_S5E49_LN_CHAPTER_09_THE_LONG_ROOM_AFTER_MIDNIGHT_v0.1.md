@@ -148,13 +148,13 @@ Anko had her pencil in her hand. She had not written anything. She put it down o
 
 He said it to all of them. His voice was not steady.
 
-"No key. No lock. No rule. He comes back through the frame looking like that, and we say *what*? *Welcome home*? *Here's your soup*?" He put both hands flat on the table. "I stood there today, Shoko. I stood on forty and watched him look at me with my own eyes and bleed out of them. And I couldn't do anything. The notice said *may not carry*. So I stood there." He looked up. "I'm not doing that again."
+"No key. No lock. No rule. He comes back through the frame looking like that, and we say *what*? *Welcome home*? *Here's your soup*?" He put both hands flat on the table. "I stood there today, Shoko. I stood on forty and watched him look at me with my own eyes and bleed out of them. And I couldn't do anything. The notice said *companions who interfere will be removed*. Yuta went in, and it took him. So I stood there, and I held Frieren's wrist so it wouldn't take her too." He looked up. "I'm not doing that again."
 
 "Then don't," said Maki.
 
 Everyone looked at her.
 
-"Don't stand there," said Maki. "Go with him. Every floor. Every time. You, or me, or Yuta, or Stark. Two of us. Always." She looked round the table. "The notice says we can't carry. It doesn't say we can't be there. It doesn't say we can't stand next to him while he does it." She looked at Mikasa. "Standing beside isn't nothing."
+"Don't stand there," said Maki. "Go with him. Every floor. Every time. You, or me, or Yuta, or Stark. Two of us. Always." She looked round the table. "Even on forty, where it wouldn't let you lift a hand, it let you be there. It doesn't say we can't be there. It doesn't say we can't stand next to him while he does it." She looked at Mikasa. "Standing beside isn't nothing."
 
 "And Shoko looks at him," said Fern. "Every morning. Before he goes. Every single morning."
 

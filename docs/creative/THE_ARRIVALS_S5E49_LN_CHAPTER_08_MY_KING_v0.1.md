@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 53
-**Continuity state:** Directly after "Shrine": Beru was raised blind in the smoke and caught him. Mau is shredded (shoulder bitten to the bone, eaten from, both forearms opened, a thousand shrine-cuts, back clawed, calves torn, hands and forearms burned black by the fire, eyes bleeding from the unfiltered Six Eyes) and cannot walk or see. Gojo: "You opened his domain. Inside you. With you in it." Beru, to Frieren: "I would like to stop him falling." Shoko orders three days in bed, and the roof night comes to the east room. The extraction of Beru. It nearly empties the deeper reserve. The copy speaks lavishly and devotedly ("My King!"), with the personality the creator asked to keep; his knowledge of any original is not established. He notices Frieren standing in "the place of the King's guard" and also remembers her Zoltraak; he promises to "speak with her later" (setting up the challenge). The floor 40 transfer point is secured. Mau reaches level 42 (sixty-four unspent). Six registered shadows: Lantern, Roof, Corner, Igris, Tank (broken, awaiting remaking) and Beru. The return: held up between Gojo and Yuta, blind, saying "I'm all right"; the yard stops; Ori counts his breaths with Maki's hands on her shoulders; Frieren breaks down in Fern's arms outside the clinic ("he didn't look alive"); Shoko: "He'll live". That night's roof in the east room is quiet; Gojo can't finish the funny version; Frieren says "Good" about Beru's later
+**Continuity state:** Directly after "Shrine": Beru was raised blind in the smoke and caught him. Mau is shredded (shoulder bitten to the bone, eaten from, both forearms opened, a thousand shrine-cuts, back clawed, calves torn, hands and forearms burned black by the fire, eyes bleeding from the unfiltered Six Eyes) and cannot walk or see. Gojo: "You opened his domain. Inside you. With you in it." Beru, to Frieren: "I would like to stop him falling." Shoko orders three days in bed, and the roof night comes to the east room. The extraction of Beru. It nearly empties the deeper reserve. The copy speaks lavishly and devotedly ("My King!"), with the personality the creator asked to keep; his knowledge of any original is not established. He notices Frieren standing in "the place of the King's guard" and remembers that she held her white light at the edge the whole fight, never loosed it, and did not flinch when he came for her; he promises to "speak with her later" (setting up the challenge). The floor 40 transfer point is secured. Mau reaches level 42 (sixty-four unspent). Six registered shadows: Lantern, Roof, Corner, Igris, Tank (broken, awaiting remaking) and Beru. The return: held up between Gojo and Frieren, blind, saying "I'm all right" (Yuta, removed by the tower hours earlier, has been waiting at the screen with his arm bound); the yard stops; Ori counts his breaths with Maki's hands on her shoulders; Frieren breaks down in Fern's arms outside the clinic ("he didn't look alive"); Shoko: "He'll live". That night's roof in the east room is quiet; Gojo can't finish the funny version; Frieren says "Good" about Beru's later
 
 *When: Day 361, the heart of the hive on forty, the same minute. Smoke still standing over the place where a shrine came down. Mau is kneeling on the packed earth, blind, with a tall dark shape holding him up from behind. Nobody else has moved.*
 
@@ -76,15 +76,13 @@ The cold blue lights moved to him.
 
 * * *
 
-Behind Gojo, Yuta had come up. Rika's hand was still on his shoulder; he still did not seem to know. He looked at Mau's arms. At the black.
+Gojo looked at Mau's arms. At the black.
 
-"His hands," said Yuta. Very quietly. "Gojo. His hands."
+"His hands," he said. Very quietly. To nobody. "Yuta could have—" He stopped. Yuta was not there. Yuta was in the yard with his arm open, because he had tried. "That's burned past where anyone—"
 
-"I know."
+He did not finish.
 
-"I can't—that's burned past where I—"
-
-"I know," said Gojo. "Shoko. Now. Before anything else." He stood up. "Can it carry him? It's holding him like it can carry him."
+"Shoko," said Gojo. "Now. Before anything else." He stood up. "Can it carry him? It's holding him like it can carry him."
 
 The dark shape lifted its head.
 
@@ -106,9 +104,9 @@ It was not dry and level like Igris's. It was high and fierce and trembling with
 
 Nobody said anything.
 
-Gojo, crouched beside Yuta, had his mouth slightly open.
+Gojo had his mouth slightly open.
 
-Yuta had stopped healing his arm.
+Behind them, Igris, kneeling with a hole through his chest, turned his helm very slowly to look at the newcomer.
 
 Frieren, holding Mau up, went very still.
 
@@ -142,7 +140,7 @@ There was a silence.
 
 Behind him, Gojo laughed.
 
-He could not help it. It came out of him all at once, crouched on the floor of the hive beside Yuta. Yuta, after a moment, started laughing too, very quietly, into his good hand. Mau sat on the earth too tired to stand, with Frieren holding his arm and a shadow kneeling in front of him calling him king, and found that he was laughing as well. Not much. But laughing.
+He could not help it. It came out of him all at once, crouched on the floor of the hive, the first sound out of him since the tower took Yuta that was not a name. Mau sat on the earth too tired to stand, with Frieren holding his arm and a shadow kneeling in front of him calling him king, and found that he was laughing as well. Not much. But laughing.
 
 Beru looked at all of them with its cold blue eyes.
 
@@ -158,19 +156,19 @@ Its head tilted. The way an insect's head tilts.
 
 Frieren looked back at it.
 
-"Who stands," said Beru, "at my King's side? Where the King's guard should stand?" It looked at the place where her shoulder touched Mau's. "Close. Very close. Closer than a guard." It was quiet for a moment. "And I know you." Its voice changed. "You are the one who put the white light through my shoulder. You are the one who took my arm."
+"Who stands," said Beru, "at my King's side? Where the King's guard should stand?" It looked at the place where her shoulder touched Mau's. "Close. Very close. Closer than a guard." It was quiet for a moment. "And I know you." Its voice changed. "You are the one who stood at the edge. With the white light in your hand. The whole time." Its head tilted further. "I came for your face, and you did not flinch. And you did not loose it."
 
-"Yes," said Frieren.
+"No," said Frieren.
 
 Beru looked at her for a very long time.
 
-"That was a very great spell," it said at last. Slowly. Grudgingly. As if it did not want to say it. "For an elf."
+"It was a very great spell," it said at last. Slowly. Grudgingly. As if it did not want to say it. "I could feel it from the middle of the hive. Held. For an elf."
 
 Frieren's eyebrows went up a fraction.
 
 "For an elf," she said.
 
-"For anyone," Beru corrected itself, very fast. "For anyone at all. I have never felt anything like it. It went through me as if I were paper." It bowed its head, slightly, toward her. Only slightly. "I acknowledge it."
+"For anyone," Beru corrected itself, very fast. "For anyone at all. I have never felt anything like it, and it was not even loosed." It bowed its head, slightly, toward her. Only slightly. "I acknowledge it."
 
 Then it lifted its head again, and its cold blue eyes went to where her shoulder touched Mau's.
 
@@ -218,7 +216,7 @@ Frieren did not look at him.
 
 "Are you going to—"
 
-"I'm going to take Mau home," said Frieren, "and put him to bed, and tell Shoko, and sit with Yuta while Maki looks at his arm. And then it's the seventh night." She looked at Gojo. "Later is later."
+"I'm going to take Mau home," said Frieren, "and put him to bed, and tell Shoko, and find Yuta, wherever the tower threw him, and sit with him while Maki looks at his arm. And then it's the seventh night." She looked at Gojo. "Later is later."
 
 Gojo looked at her for a long moment.
 
@@ -226,21 +224,27 @@ Gojo looked at her for a long moment.
 
 * * *
 
+Less than an hour before, the frame had thrown Yuta out alone.
+
+He had come out of it onto the dry ground in front of the screen as if something had flung him, with his arm open from the shoulder to the elbow, and got up on one knee, and said to Rimuru, who was already running, "He's alone in there. It won't let anyone help him. He's alone." Maki had bound the arm on the bench with her own belt. He would not go to the clinic. He sat on the bench in front of the dark frame with the belt round his arm and did not take his eyes off it, and after a while nobody tried to move him.
+
 They came through the frame in the early afternoon.
 
 Anko saw them first. She always saw them first. She was at the board with the pencil behind her ear, and the frame lit, and she turned round with the watch already in her hand.
 
 She did not look at the watch.
 
-Gojo came through first, sideways, because he was holding something up. Yuta came through on the other side of it, sideways too, his opened arm bound in a strip of his own coat, holding up the other half. Between them, with an arm over each of their shoulders and his feet not quite taking his weight, Mau.
+Gojo came through first, sideways, because he was holding something up. Frieren came through on the other side of it, sideways too, her staff through her belt, holding up the other half. Between them, with an arm over each of their shoulders and his feet not quite taking his weight, Mau.
+
+Yuta was off the bench before the frame stopped glowing. He took Frieren's side from her without a word, his bound arm and all, and she let him, and put her hand on Mau's back instead.
 
 He did not look like Mau.
 
-That was what the yard would say afterward, the ones who said anything. He did not look like anyone. His head hung. His coat was gone; what was left of his shirt was not a colour any more. His left shoulder was bound in something dark and wet. Both forearms. His back, through the rags, in three long lines. His calves. And his arms. From the fingertips to the elbows, his arms were black, wrapped loosely in strips of Yuta's coat because nobody had dared wrap them tight, and everywhere else on him, face, chest, neck, were thin straight lines, a thousand of them, as if he had walked through rain made of knives. And over his eyes, tied round his head, a strip of Frieren's coat, because he could not see and the light hurt, and under the strip, down both cheeks, dried and fresh, red.
+That was what the yard would say afterward, the ones who said anything. He did not look like anyone. His head hung. His coat was gone; what was left of his shirt was not a colour any more. His left shoulder was bound in something dark and wet. Both forearms. His back, through the rags, in three long lines. His calves. And his arms. From the fingertips to the elbows, his arms were black, wrapped loosely in strips of Gojo's shirt because nobody had dared wrap them tight, and everywhere else on him, face, chest, neck, were thin straight lines, a thousand of them, as if he had walked through rain made of knives. And over his eyes, tied round his head, a strip of Frieren's coat, because he could not see and the light hurt, and under the strip, down both cheeks, dried and fresh, red.
 
-Frieren came through last, with her staff in one hand and the other on his back, not holding him up, just there, touching him, as if he might stop being there if she let go.
+Frieren walked beside them with her hand on his back, not holding him up, just there, touching him, as if he might stop being there if she let go.
 
-He was saying something. Very quietly. Over and over. Anko could not hear it. Later Yuta told her. He was saying *I'm all right*. To nobody. With his head hanging, held up between two people, blind and bleeding through every bandage he had. *I'm all right. I'm all right.*
+He was saying something. Very quietly. Over and over. Anko could not hear it. Later Gojo told her. He was saying *I'm all right*. To nobody. With his head hanging, held up between two people, blind and bleeding through every bandage he had. *I'm all right. I'm all right.*
 
 * * *
 
@@ -254,7 +258,7 @@ Momo's bowl hit the floor of the kitchen. Nobody heard it break. Taihei did not 
 
 Ori was on the back step.
 
-She had been waiting there since the morning. She always waited there. She saw him come through the frame, held up between Gojo and Yuta, with his head hanging and the cloth over his eyes, and she stood up, and Mau would never know what her face did, because he could not see it.
+She had been waiting there since the morning. She always waited there. She had been there an hour ago, too, when the frame threw Yuta out bleeding, and she had not moved since. She saw him come through the frame, held up between Gojo and Yuta, with his head hanging and the cloth over his eyes, and she stood up, and Mau would never know what her face did, because he could not see it.
 
 Maki was behind her. Maki put both hands on Ori's shoulders. Not to hold her back. To hold her up.
 

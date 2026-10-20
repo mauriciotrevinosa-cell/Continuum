@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-128)
 **Volume:** 30
 **Reading order:** 51
-**Continuity state:** Day 361, floor 40, continuous (part 2 of 3). With the filter off, Mau sees how every half-learned thing in his walls is built, and he throws all of it at Beru, rough and wrong-handed. A point-blank Red throws Beru through the hive wall. His own Zoltraak, narrower and cruder than Frieren's, goes through a leg. Gojo's marbles, Frieren's light and Rika's hand assist; none of them carry. With no food left, Beru heals by eating Mau: it bites the old shoulder wound and its leg closes as it chews. Mau builds Hollow Purple with a ruined left hand, aims where Beru will be rather than where it is, and carves a third of its side and a tunnel through the hive; the backlash throws him down. Beru, half-gone, crawls onto him and keeps eating. Ciel: one minute. Mau wraps both arms round it and holds on, "Not finished. Neither of us." Under him, the walls open on something shaped like a shrine
+**Continuity state:** Day 361, floor 40, continuous (part 2 of 3). With the filter off, Mau sees how every half-learned thing in his walls is built, and he throws all of it at Beru, rough and wrong-handed. A point-blank Red throws Beru through the hive wall. His own Zoltraak, narrower and cruder than Frieren's, goes through a leg. Nobody at the edge may help; Igris, his own, holds Beru by the head long enough for him to build Purple, and Frieren watches him cast her spell crooked with hers still held in her hand. With no food left, Beru heals by eating Mau: it bites the old shoulder wound and its leg closes as it chews. Mau builds Hollow Purple with a ruined left hand, aims where Beru will be rather than where it is, and carves a third of its side and a tunnel through the hive; the backlash throws him down. Beru, half-gone, crawls onto him and keeps eating. Ciel: one minute. Mau wraps both arms round it and holds on, "Not finished. Neither of us." Under him, the walls open on something shaped like a shrine
 
 *When: Day 361, floor 40. The heart of the hive. Two minutes on Ciel's count. The food is gone down the side tunnels. Beru has one arm, and has stopped being hungry for anything but him.*
 
@@ -40,7 +40,7 @@ Not small. Not careful. He saw how it was built, every thread of it, Gojo's tech
 
 And let go.
 
-The Ant King went backward across the hive the way a stone goes out of a sling. Across the open middle, past Yuta, past the place where Tank had come apart, into the far wall of packed earth so hard the wall caved round it and closed over it and it disappeared into the dark.
+The Ant King went backward across the hive the way a stone goes out of a sling. Across the open middle, past Igris, past the place where Tank had come apart, into the far wall of packed earth so hard the wall caved round it and closed over it and it disappeared into the dark.
 
 Mau went backward too. The other way. Ten paces, on his back, across the floor, with his right hand on fire from the wrist down and something in his shoulder that went *pop*.
 
@@ -98,23 +98,21 @@ So it was eating him.
 
 * * *
 
-"*Rika*," said Yuta.
+"*Igris*," said Mau.
 
-A hand the size of a door came out of the air beside him, pale and too-jointed, and closed round the Ant King's head, and pulled.
+The knight came off his knees. He had a hole through his chest, and the Ant King's arm lay on the earth behind him where his sword had put it, and he came across the packed earth and took the Ant King from behind, by the head, his gauntlets locked over its jaws, and pulled.
 
-The jaws tore out of his shoulder. Something came with them. He did not look at what.
+The jaws tore out of Mau's shoulder. Something came with them. He did not look at what.
 
-Rika held the Ant King up in the air by its head, at the full length of her terrible arm, and it thrashed, and its one claw raked her wrist, and she did not let go. She looked at Mau. The look Yuta had told him about. *To see where he was hurt.*
+Igris held it. Up, off its feet, at the full length of his arms, and it thrashed, and its one claw raked back over his shoulder into the hole in his chest, and the knight did not let go.
 
-*Companions may assist.*
+*"My liege,"* said Igris. Very level. *"I have it. Not for long."*
 
-She could not finish it. He knew that. She knew it. She could hold it.
+He could not finish it. Mau knew that. Igris knew it. He could hold it.
 
-She held it.
+He held it.
 
-Gojo's marble went past it, close, and pulled, and its thrashing went the wrong way.
-
-Frieren's light went through its other thigh. Clean. White. Hers.
+At the edge, the spell was still in Frieren's hand. Mau could feel it from across the hive, white and furious, and he could feel her not loosing it.
 
 And Mau, on his knees on the packed earth with his shoulder open to the bone again and his right hand burned and his head a white roar, looked at the bottom of the bench of tools in his walls.
 
@@ -148,9 +146,9 @@ He brought his hands together in front of his chest.
 
 * * *
 
-Across the hive, Rika's hand opened.
+Across the hive, Igris's grip broke.
 
-Not because she meant to. Because the Ant King had stopped thrashing and *twisted*, all at once, the way a cat twists, and its one claw went into her thumb and she let go for a quarter of a heartbeat, and a quarter of a heartbeat was enough. It dropped. It hit the floor already moving. Not at Rika. Not at Yuta. Not at Frieren.
+Not because he meant to let go. Because the Ant King had stopped thrashing and *twisted*, all at once, the way a cat twists, and its one claw went deep into the hole in the knight's chest and wrenched, and the gauntlets slipped for a quarter of a heartbeat, and a quarter of a heartbeat was enough. It dropped. It hit the floor already moving. Not at Igris. Not at the edge. Not at Frieren.
 
 At him.
 
@@ -196,11 +194,9 @@ It was crawling.
 
 It came across the floor of the hive on one arm and one leg, with a third of its side gone and the purple-red eyes fixed on him and the jaws open, dragging what was left. Not fast now. Not fast at all. But coming. Because it was Beru. Because it had been the King of this hive, and had eaten and eaten and never been full, and had decided, at the end, that the thing it wanted most in all its hunger was the boy lying on its floor.
 
-Frieren fired. It took the light in its back and kept crawling.
+Igris caught its leg. He was on his knees and coming apart at the chest, and he caught its one leg in both gauntlets, and it dragged him, knight and all, across the packed earth, and kept crawling.
 
-Gojo's marble pulled at it. It leaned against the pull and kept crawling.
-
-Rika's hand came down. It went under the hand, flattening itself against the floor, and kept crawling.
+At the edge, Frieren said his name. Only his name. The spell in her hand had gone so bright that Gojo turned his bare eyes away from it. She did not loose it.
 
 It reached him.
 
@@ -210,11 +206,11 @@ And the hole in its side began, very slowly, to close.
 
 * * *
 
-*Twenty seconds,* said Ciel. She was not saying it any more. She was screaming it. *Twenty. Mau. Let go. Let go of everything, I'll put it back, Gojo can—*
+*Twenty seconds,* said Ciel. She was not saying it any more. She was screaming it. *Twenty. Mau. Let go. Let go of everything, I'll put it back, and maybe the tower—*
 
-*Companions may assist.*
+*Companions may witness.*
 
-*Companions may not carry.*
+*Companions who interfere will be removed.*
 
 He did not let go.
 

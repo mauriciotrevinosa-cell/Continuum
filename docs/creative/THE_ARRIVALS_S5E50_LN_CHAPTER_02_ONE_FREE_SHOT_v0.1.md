@@ -142,7 +142,7 @@ Then something happened to his posture. Mau saw it. A kind of loosening. A settl
 
 The crowd on the slope went silent again.
 
-"One strike," said Beru. "With everything you have. Your strongest spell. The white light that took my arm in the hive." He planted his feet in the long grass. "I will not move. I will not dodge. I will not defend. I will stand here and receive it." He lifted his ant-man's head proudly. "And when I am still standing afterward—as I will be, for I am Beru, who was King, and I have grown since the hive—you will yield the place at my King's side."
+"One strike," said Beru. "With everything you have. Your strongest spell. The white light you held in your hand in the hive, the whole time, and never loosed." He planted his feet in the long grass. "I will not move. I will not dodge. I will not defend. I will stand here and receive it." He lifted his ant-man's head proudly. "And when I am still standing afterward—as I will be, for I am Beru, who was King, and I have grown since the hive—you will yield the place at my King's side."
 
 Frieren looked at him.
 
@@ -156,7 +156,7 @@ Frieren looked at him.
 
 "Everything I have."
 
-"Everything you have," said Beru magnificently. "I have felt your white light once. It surprised me. It will not surprise me twice."
+"Everything you have," said Beru magnificently. "I watched you hold it, in the hive, while I ate him. I have wondered since what it would have done. Now I will know."
 
 On the slope, Gojo had put his cup down very carefully on the grass beside his stool. He was leaning forward with his elbows on his knees and his bare eyes on Frieren. He had the expression of a man watching the best thing he has ever seen and trying very hard not to laugh before it happens.
 
@@ -290,7 +290,7 @@ Very quietly. Level. Too level.
 
 "I know."
 
-"In your shoulder. Twice. He was eating you." She did not look away from the grass. "I was standing four paces away. I had a spell in my hand. The notice said I couldn't—" She stopped. "You were saying *I'm all right* with your eyes bleeding and I couldn't do anything."
+"In your shoulder. Twice. He was eating you." She did not look away from the grass. "I was standing four paces away. I had a spell in my hand. The notice said if I moved it would take me out and leave you alone with it—" She stopped. "You were saying *I'm all right* with your eyes bleeding and I couldn't do anything."
 
 "I know."
 

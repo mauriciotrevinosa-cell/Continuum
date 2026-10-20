@@ -4,11 +4,11 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 30
 **Reading order:** 49
-**Continuity state:** Floor 40 (Day 361), the fourth guardian. Party: Mau (owner), Frieren, Gojo and Yuta. The notice names it Beru, the Ant King: very fast, it eats to heal and wants to grow. Yuta's arm is opened. Tank is torn apart and needs remaking. Then Beru goes for Mau, and the costs pile up:
+**Continuity state:** Floor 40 (Day 361), the fourth guardian. Party: Mau (owner), Frieren, Gojo and Yuta. The notice names it Beru, the Ant King: very fast, it eats to heal and wants to grow. Unlike floor 20 it asks nothing: "The King does not share his meal. Single combat with the Operator. Companions may witness. Companions who interfere will be removed." The three are held to the edge; they can speak, not act. Tank is torn apart and needs remaking. Then Beru goes for Mau, and the costs pile up:
 - It is faster than his attention and opens his back in three claw-lines.
 - He thinks instead of reacting: it heals by eating, so he takes the food away. From his bag of watched patterns he uses a rough copy of Momo's psychokinesis to throw the soldier-ant remains down the side tunnels, and a rough copy of Okarun's Granny-speed in the legs to drag Beru into the empty middle of the hive.
 - Both are wrong-handed. The first costs the space reserve; the second tears his legs.
-It is not enough. Beru learns the shape of the borrowed speed and waits where it ends; it puts a claw through Igris's chest; it eats every wound away; then it takes Mau's shoulder in its jaws and starts to eat him alive. Companions assist and cannot carry. Mau asks Ciel to take the Six Eyes filter off completely, and she does. The chapter ends there. No permanent unlock
+It is not enough. Beru learns the shape of the borrowed speed and waits where it ends; it puts a claw through Igris's chest; it eats every wound away; then it takes Mau's shoulder in its jaws and starts to eat him alive. Yuta breaks the rule and goes in: Beru opens his arm from shoulder to elbow and the tower removes him (he lands in the yard by the screen, alive). Frieren starts forward and Gojo holds her wrist ("You go, you're out. And then he's in here with nobody"); she keeps a spell in her hand and does not loose it. Mau asks Ciel to take the Six Eyes filter off completely, and she does. The chapter ends there. No permanent unlock
 
 *When: Day 361, morning outside. The seventh night falls tonight. Taihei made breakfast at four and stood over Mau until he ate all of it. Five hours agreed, from thirty, because of the walk through the hive.*
 
@@ -48,7 +48,23 @@ The notice came up.
 
 *Guardian: Beru, the Ant King.*
 
-"Beru," said Mau aloud.
+*The King does not share his meal.*
+
+*Single combat with the Operator. Companions may witness. Companions who interfere will be removed.*
+
+Nobody moved.
+
+On twenty, the knight had asked. *The guardian requests.* Mau had thought his terms at the notice, carefully, and the notice had said *Terms acknowledged*. This one had not asked anything. There was nothing to answer. There were no terms.
+
+"Mau," said Gojo. Very quietly.
+
+"I know."
+
+Behind him he heard Frieren's staff come up. Then, slowly, come down. He heard Yuta's sword clear its sheath and stay where it was.
+
+"Stay at the edge," said Mau, without turning round. "Please."
+
+"Beru," he said aloud.
 
 The thing opened its jaws.
 
@@ -68,35 +84,25 @@ It drew back, at last.
 
 It looked at him. At his face, through the space. Its purple-red eyes narrowed.
 
-Then it was gone again.
+Then it looked past him.
 
-Toward Yuta.
+At the edge of the chamber, where the three of them stood at the top of the stair. At Yuta with his sword out and not moving. At Gojo with his blindfold up and his hands in his pockets, which was how Gojo stood when he was making himself not do something. At Frieren.
 
-* * *
+It looked at them the way it had looked at the soldier-ants along the wall. Mau saw it. He saw it understand the notice. Food, standing at the edge of its table, that was not allowed to fight back.
 
-Yuta was fast. Mau had seen him in the yard every morning for a year. He was not fast enough.
+It came again.
 
-The Ant King came at him from the side, a blur of black. Yuta turned with his sword up, and the claws went past the sword, under it, round it, and opened his arm from the shoulder to the elbow.
+He did not try to stop it this time. He put the space out flat and slanted, the way Gojo had taught him in the iron wood. *You don't need a wall, you need an angle.* The claws hit the angle at full stretch and slid, and the edge of the space opened a line down the Ant King's side as it went past, black plate parting like bark.
 
-Yuta made a sound.
-
-Mau put the space round him. Late. Too late for the arm. In time for the next strike, which came at Yuta's throat and stopped a finger's width from it, on nothing, and hung there.
-
-"*Yuta*—"
-
-"I'm all right." Yuta's voice was very level. His arm was not all right. Blood was running down it, a lot, onto the packed earth. He put his other hand over it. Mau felt the warmth of his cursed energy go into the wound. Outward. Healing it. Not fast. Fast enough to stop the bleeding. "I'm all right. Keep it there. The space."
-
-"I'll keep it there."
-
-The Ant King had drawn back again. It was looking at Yuta's arm. At the blood on the floor.
+It landed. It looked at the line in its side.
 
 Then it bent, very fast, and picked up the remains of one of the soldier-ants lying along the wall, and ate it.
 
 Mau watched it eat.
 
-He watched the place on its own side where Frieren must have hit it, Mau realised. Frieren, while he was watching Yuta, had put a thin line of light through it. That place closed. The armour grew back over it, black and shining, while it chewed.
+He watched the line in its side close. The armour grew back over it, black and shining, while it chewed.
 
-"It heals," said Frieren. Very calmly. From behind him. "When it eats. It heals."
+"It heals," said Frieren. Very calmly. From the edge. "When it eats. It heals."
 
 "I know."
 
@@ -146,7 +152,7 @@ Three of them. From the right shoulder blade down to the left hip. He felt the c
 
 "*MAU*—"
 
-Frieren. From somewhere. A line of white light went past him, close, and the Ant King was not where it went.
+Frieren. From the edge. He heard her staff come up, and the notice flicker at the corner of his sight, *Companions who interfere*—, and the staff come down again.
 
 He knelt on the floor of the hive with his back opened and his blood on the earth and thought.
 
@@ -278,9 +284,9 @@ Igris did not fall. Igris was a shadow; he did not fall the way a man falls. He 
 
 *He's holding,* said Ciel. *Mau, he's breaking. A minute. Less. If he comes apart, bringing him back will cost you more than you have left—*
 
-Gojo's marble went past the Ant King's head. Close. It pulled. The Ant King leaned with it, a hand's breadth, and leaned back, and did not let go of the knight.
+At the edge, Gojo had a marble on his palm. Mau saw it there, small and blue and turning. He saw Gojo look at it, and at the notice, and close his hand on it.
 
-Frieren fired. A thin precise line, at the joint of the arm holding Igris. It went in. The Ant King took it, the way it had taken everything, and bent and picked up a soldier-ant from the floor at its feet, one he had not thrown, one he had missed, and ate it with its jaws while its claw was in Igris's chest. The wound Frieren had made closed while it chewed.
+The Ant King bent and picked up a soldier-ant from the floor at its feet, one he had not thrown, one he had missed, and ate it with its jaws while its claw was in Igris's chest. The place where the long sword was stuck in its forearm began to close round the blade while it chewed.
 
 Mau lay on the packed earth where he had last fallen and looked at it.
 
@@ -312,13 +318,37 @@ Alive. In pieces. The way it had eaten the bear.
 
 "*MAU*—"
 
-Frieren. A line of white light. Gojo's marble. Yuta, on his feet, his opened arm forgotten, his sword up, Rika's presence round him like weather—
+Yuta.
 
-*Companions may assist.*
+He had been at the edge with the others, with his sword drawn and Rika's presence round him like weather, not moving, because the notice said not to. He moved now. Mau heard him come. Fast, across the packed earth, the sword already going round, Rika's hand forming in the air above him, the size of a door—
 
-*Companions may not carry.*
+The Ant King let go of Mau's shoulder.
 
-The Ant King let go of his shoulder, because Yuta's blade was coming, and it turned to meet it, and Mau lay on the floor of the hive in his own blood with his shoulder open to the bone and his arms opened and his legs torn and his back opened in three lines, and saw it all.
+It turned to meet him. It did not go for the sword. It went under it, the way it had gone under everything, and its claws opened Yuta's arm from the shoulder to the elbow, and Yuta's blood went across the packed earth—
+
+The notice flashed.
+
+*Companion interference.*
+
+*Removed.*
+
+Yuta was gone.
+
+Not fallen. Not thrown. Gone. The place where he had been was empty, with his blood on the earth in front of it and nothing standing over it, and Rika's hand gone out of the air with him like a candle pinched between two fingers.
+
+"*Yuta*—" That was Gojo. From the edge. Mau had never heard Gojo's voice crack before.
+
+*He's out,* said Ciel, very fast. *Out of the tower. I can feel Rimuru. He's in the yard, on the ground by the screen. His arm—Rimuru's got him. He's alive, Mau. He's alive.*
+
+At the edge, Frieren had taken a step.
+
+Gojo's hand closed on her wrist.
+
+"No," he said. His voice was not level at all. "You go, you're out. And then he's in here with nobody." He did not let go. "Stay. Watch. It's all it'll let us do."
+
+Frieren stood where she was. Her staff was up. There was a spell in her hand, white, the strongest thing she had, ready. She did not loose it.
+
+Mau lay on the floor of the hive in his own blood with his shoulder open to the bone and his arms opened and his legs torn and his back opened in three lines, and saw it all.
 
 And knew what was left in the bag.
 
@@ -342,9 +372,9 @@ She knew. Before he said it. She always knew.
 
 *Ciel.*
 
-He was looking at the Ant King. At Yuta, holding it, his sword going round and round and the claws getting closer every time. At Igris, broken, still on his feet. At Frieren, with her staff raised, a finger's width from where a pair of jaws had once stopped.
+He was looking at the Ant King. At Yuta's blood on the packed earth, and nobody standing over it. At Igris, broken, still on his feet. At Frieren at the edge, with a spell in her hand she was not allowed to loose, and Gojo's hand on her wrist.
 
-*It's going to go for her,* said Mau. *When Yuta falls. It's going to go for her. It already looked at her.*
+*It's going to go for her,* said Mau. *The notice says they can't touch it. It doesn't say it can't touch them. It already looked at her.*
 
 Ciel did not answer.
 

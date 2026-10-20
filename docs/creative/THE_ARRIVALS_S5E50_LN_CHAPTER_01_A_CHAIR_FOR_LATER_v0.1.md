@@ -72,7 +72,7 @@ Wakana put down his plane.
 
 Gojo looked wounded.
 
-"It's not going to *hurt* her," he said. "Frieren's—Frieren. She put a Zoltraak through it while it was trying to eat Yuta. It's not going to hurt her." He paused. "And it's Mau's now. It's not going to do anything Mau doesn't let it." He paused again. "I just want a good seat."
+"It's not going to *hurt* her," he said. "Frieren's—Frieren. She stood at the edge of that hive with a Zoltraak in her hand the whole time it was eating him, and wasn't allowed to fire it. It's not going to hurt her. I'd worry about it." He paused. "And it's Mau's now. It's not going to do anything Mau doesn't let it." He paused again. "I just want a good seat."
 
 Wakana looked at him for a long time.
 
@@ -214,7 +214,7 @@ He thought it was a fair price. He did not say so. Nobody would have agreed.
 
 Ciel was quiet for a moment.
 
-*If someone puts a Zoltraak through him,* she said. *Again.*
+*If someone finally gets to fire the Zoltraak she was holding,* she said.
 
 Mau sat on the edge of the bed for a long time.
 

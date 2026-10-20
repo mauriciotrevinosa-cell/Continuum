@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-128)
 **Volume:** 30
 **Reading order:** 52
-**Continuity state:** Day 361, floor 40, continuous (part 3 of 3). Holding Beru against his chest, Mau lets out the shrine from the bottom of his walls: the domain-shape the Noise read from Sukuna through the tether and that once cut fence posts on Day 145. Unfinished and flickering, it is closed to an arm's length round the two of them because Mau makes it small, and inside it cutting falls like rain on both. Gojo recognises it and goes white, and covers Frieren and Yuta with Infinity at the edge. Frieren knows the shape from the south field on Day 145, when it cut the fence posts. Beru is cut to ribbons and keeps eating. Mau is cut everywhere the cuts fall. The last word of the pattern is "Open": a fire shaped like an arrow forms between his burned hands, and he drives it into Beru's chest at no distance at all. It burns Beru out from the inside and burns Mau's hands and forearms black. The shrine collapses. Ciel forces the filter back on and he is blind. In the smoke, guided only by Ciel, he says "Arise", and the dark rises. The others see him walk three steps out of the smoke, blind, cut and burned, with a tall shape with cold blue eyes rising behind him; as his knees go, Beru catches him. "My King." Nothing here is a permanent unlock: the shrine and the fire are walls opened once, at a cost
+**Continuity state:** Day 361, floor 40, continuous (part 3 of 3). Holding Beru against his chest, Mau lets out the shrine from the bottom of his walls: the domain-shape the Noise read from Sukuna through the tether and that once cut fence posts on Day 145. Unfinished and flickering, it is closed to an arm's length round the two of them because Mau makes it small, and inside it cutting falls like rain on both. Gojo recognises it and goes white, and covers Frieren and himself with Infinity at the edge; Igris kneels outside it. Frieren knows the shape from the south field on Day 145, when it cut the fence posts. Beru is cut to ribbons and keeps eating. Mau is cut everywhere the cuts fall. The last word of the pattern is "Open": a fire shaped like an arrow forms between his burned hands, and he drives it into Beru's chest at no distance at all. It burns Beru out from the inside and burns Mau's hands and forearms black. The shrine collapses. Ciel forces the filter back on and he is blind. In the smoke, guided only by Ciel, he says "Arise", and the dark rises. The others see him walk three steps out of the smoke, blind, cut and burned, with a tall shape with cold blue eyes rising behind him; as his knees go, Beru catches him. "My King." Nothing here is a permanent unlock: the shrine and the fire are walls opened once, at a cost
 
 *When: Day 361, floor 40, the heart of the hive. Twenty seconds on Ciel's count. Beru's jaws are in his shoulder. His arms are round Beru. Under the floor, something has opened its eyes.*
 
@@ -20,7 +20,7 @@ It flickered. Half there. A shape the Noise had drawn in the dark from something
 
 *Then make it small.*
 
-He did not know he could. He did it anyway. The eyes showed him the edges of it, every line of the half-built shape, and where its walls wanted to go, far out across the hive, over Yuta, over Frieren, over Gojo, over everything. He took the edges in his hands that were not hands any more, and pulled them in.
+He did not know he could. He did it anyway. The eyes showed him the edges of it, every line of the half-built shape, and where its walls wanted to go, far out across the hive, over Igris, over the edge where Frieren and Gojo stood, over everything. He took the edges in his hands that were not hands any more, and pulled them in.
 
 In.
 
@@ -44,7 +44,7 @@ She lifted her staff.
 
 Gojo's hand came down on her wrist.
 
-"*No*," he said. "*It'll cut anything that goes in. Anything. Even yours.*" His Infinity came up, round her and round Yuta beside her, the shimmer like air above a summer road. "*He made it small. Look. He made it small so it wouldn't reach us.*" His voice did something. "*He's inside it with the thing he's killing. On purpose.*"
+"*No*," he said. "*It'll cut anything that goes in. Anything. Even yours. And if you go in, the tower takes you out, and then he's in there with that and nobody watching.*" His Infinity came up, round her and round himself, the shimmer like air above a summer road. "*He made it small. Look. He made it small so it wouldn't reach us.*" His voice did something. "*He's inside it with the thing he's killing. On purpose.*"
 
 * * *
 
@@ -178,7 +178,7 @@ From the edge of the hive, through Gojo's Infinity, Frieren watched the smoke.
 
 It had been standing there since the shape of bone and mouths came down. A column of it, grey and black, with fire inside, in the middle of the hive floor where the boy and the ant king had been. She could not see into it. Gojo could not see into it. Gojo had said so, in a voice she had never heard him use, and then stopped saying anything.
 
-Yuta had Rika's hand on his shoulder. He did not seem to know it was there.
+Igris knelt at the edge of the scorched place with a hole through his chest, facing the smoke, his sword across his knees, waiting for an order that did not come.
 
 Then something moved in the smoke.
 

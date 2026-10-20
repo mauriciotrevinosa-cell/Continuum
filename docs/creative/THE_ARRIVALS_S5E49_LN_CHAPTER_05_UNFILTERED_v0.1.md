@@ -4,9 +4,9 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18, DH-124)
 **Volume:** 30
 **Reading order:** 50
-**Continuity state:** Day 361, floor 40, continuous (part 1 of 3 of the unfiltered fight, DH-128). Ciel removes the Six Eyes filter completely. Everything floods in: Mau sees energy before muscle and finally sees where Beru will be before it moves. The cost begins at once: blood from the eyes and nose, his head burning, three minutes on Ciel's count. One heartbeat of Okarun's speed. He lets Beru's claws into his own forearm to hold them (the floor-20 lesson, made worse). He calls Gojo's marble and Frieren's Zoltraak by the half-second, and Frieren's Zoltraak takes its arm. It goes for her and stops a finger's width away at his space. Momo's pattern rips every remaining body up into the side tunnels at once, and something tears behind his left eye. With no food left, Beru is afraid for the first time, then turns that fear into wanting to kill him, not to win
+**Continuity state:** Day 361, floor 40, continuous (part 1 of 3 of the unfiltered fight, DH-128). Ciel removes the Six Eyes filter completely. Everything floods in: Mau sees energy before muscle and finally sees where Beru will be before it moves. The cost begins at once: blood from the eyes and nose, his head burning, three minutes on Ciel's count. One heartbeat of Okarun's speed. He lets Beru's claws into his own forearm to hold them (the floor-20 lesson, made worse). Nobody may help him: his own pull opens the joint and Igris, a hole through his chest, takes its arm. It goes for Frieren at the edge (the notice forbids them to touch it, not it to touch them) and stops a finger's width from her face at his space; she does not flinch and does not loose her spell. Momo's pattern rips every remaining body up into the side tunnels at once, and something tears behind his left eye. With no food left, Beru is afraid for the first time, then turns that fear into wanting to kill him, not to win
 
-*When: Day 361, floor 40, the heart of the hive. The same breath. Yuta's sword is going round and round. Igris has a hole through his chest and is still standing.*
+*When: Day 361, floor 40, the heart of the hive. The same breath. Yuta's blood is on the packed earth where the tower took him. Igris has a hole through his chest and is still standing. At the edge, Gojo's hand is on Frieren's wrist.*
 
 The world came in.
 
@@ -18,7 +18,7 @@ It was everything.
 
 The packed earth of the hive. Every grain of it. He could see every grain. Not see. *Know.* The weight of it, the damp of it, the way it had been pressed down by a thousand thousand ant feet over a thousand years. The air. Every mote in the air, turning in Frieren's lights. The lights. Not light any more. Threads of mana, pulled out of her staff in a shape she had learned a thousand years ago from her teacher, and he could see the shape, every turn of it, every knot.
 
-Yuta. Not Yuta. A furnace. Cursed energy pouring off him like heat off a road, dark and warm and enormous, and behind him, wrapped round him, *in* him, something vaster, something that loved him so much it had become a curse to do it. Rika. He had never seen her. He had felt her. He saw her now. She looked at him through the furnace and he looked back and his nose started to bleed.
+Igris. Not a knight. A shape of cold dark standing on the earth with a hole through the middle of it, and a thread running from the hole down into the ground, into Mau's own shadow, into the cup. His. He could see that it was his. And the place where Yuta had been: a smear of warmth on the air, fading, the last of a furnace, the ghost of a hand the size of a door. His nose started to bleed.
 
 Gojo.
 
@@ -38,11 +38,7 @@ That was what the eyes were for. That was what Gojo's eyes had always been for, 
 
 Enough.
 
-The Ant King turned from Yuta toward Frieren. Mau saw the threads in its legs tighten toward her a fraction before the legs did.
-
-"*Yuta. Back. Two steps. Left.*"
-
-Yuta went back. Two steps. Left. He did not ask why. The claws went through the place he had been.
+The Ant King turned from him toward the edge. Toward Frieren. Mau saw the threads in its legs tighten toward her a fraction before the legs did.
 
 Mau was on his feet.
 
@@ -74,21 +70,21 @@ The Ant King screamed and pulled.
 
 It could not pull. Not at once. For one heartbeat it was held.
 
-"*Gojo. Behind it. A hand left of the spine. Now.*"
+He did not call anyone. There was nobody he was allowed to call.
 
-The marble went. Exactly where he said. Not past it, this time. Into the place he had seen the threads bunch, behind the left shoulder, where the armour was thinnest and the weight was. It pulled.
+The pull. His own. Not Gojo's marble: the small hard knot of drawing-in that Gojo had been teaching him in the yard for a year. He put it exactly where he saw the threads bunch, behind the left shoulder, a hand left of the spine, where the armour was thinnest and the weight was. It pulled.
 
-The Ant King's left side came back toward the marble. Its left arm came up off the floor, away from its body, the joint opening.
+The Ant King's left side came back toward it. Its left arm came up away from its body, the joint opening.
 
-"*Frieren. The shoulder. The joint. Now.*"
+"*Igris. The joint.*"
 
-She was already firing.
+The knight was already moving.
 
-He had not needed to tell her. He would think about that afterward. She had seen it too. Not with eyes like his. With a thousand years of watching things try to kill her. She had seen the joint open and her staff was already turning, and his voice and her Zoltraak arrived at the same moment.
+He had not needed to tell him. He would think about that afterward. Igris had a hole through his chest and should not have been standing, and he had seen the joint open in the same instant Mau had, and the long sword was already coming round, and Mau's voice and the blade arrived together.
 
-White. Narrow. Clean. Through the left shoulder. Through the armour, through the joint, out the other side.
+Dark. Heavy. Through the left shoulder, through the armour, through the joint.
 
-The Ant King's left arm hung.
+The Ant King's left arm fell to the packed earth.
 
 * * *
 
@@ -98,7 +94,7 @@ He let them go. The arm was ruined anyway. He felt it go, the claws coming out t
 
 And it went for her.
 
-He had known it would. He had seen it on the stair, at the very start, when it looked at her for the first time. He had seen it on the road, in another way, in another month. *The elf was weak.* He had seen it in a thousand loops in a Trial that had taught him, over and over, that this was the moment, this one, the one where it went for her and he was one second too slow.
+He had known it would. She was standing at the edge where the notice had put her, not allowed to lift a hand against it, and it knew that. He had seen it on the stair, at the very start, when it looked at her for the first time. He had seen it on the road, in another way, in another month. *The elf was weak.* He had seen it in a thousand loops in a Trial that had taught him, over and over, that this was the moment, this one, the one where it went for her and he was one second too slow.
 
 He saw the threads in its legs tighten toward her a hand's breadth before the legs.
 
@@ -111,6 +107,8 @@ The Ant King hit it.
 It stopped. Dead. A finger's width from her face.
 
 She did not flinch.
+
+She did not loose the spell in her hand, either. He saw it there, with the eyes, white and tight and older than anything else in the hive, held. He saw what it cost her to hold it.
 
 * * *
 

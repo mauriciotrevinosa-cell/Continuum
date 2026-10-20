@@ -165,3 +165,10 @@
 - It matches the earlier note: the beat lands as **Yuka stopping it**, so she never becomes the one who takes advantage.
 - **Writing rules:** brief, tender, non-explicit, no fan service (in the spirit of DH-054). The weight is in her hands stopping, not in the kiss.
 
+## The ending stays open (creator, 2026-10-20, verbatim)
+
+> mmmm no se cruzaremos y no vamos a ahcer lo de how i met your mother de cerrarnos y forzar todo
+
+- **Not decided whether Mau returns to Frieren.** The creator rejected "Frieren lets him go". Claude's recommendation on file: return to Frieren without erasing anything, with Yuka the one who brings him back.
+- **Rule:** don't lock the destination early and then force the story toward it (the "How I Met Your Mother" trap). Decide when we get there, from what the arc has earned. Don't write prose that commits to either outcome before then.
+

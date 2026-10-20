@@ -5,7 +5,7 @@
 **Season:** 6
 **Coverage:** S6E01–S6E08
 **Volume title:** **Two Cookies**
-**Chapter files:** 15
+**Chapter files:** 16
 
 Season 6 opens here, the day after summer (Day 411). Plan: [S6_V32_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V32_PLAN_2026-10-20.md).
 
@@ -28,3 +28,4 @@ Season 6 opens here, the day after summer (Day 411). Plan: [S6_V32_PLAN_2026-10-
 | 13 | S6E07 | Go | `THE_ARRIVALS_S6E07_LN_CHAPTER_02_GO_v0.1.md` |
 | 14 | S6E07 | A Really Good Cookie | `THE_ARRIVALS_S6E07_LN_CHAPTER_03_A_REALLY_GOOD_COOKIE_v0.1.md` |
 | 15 | S6E08 | Nobody Move | `THE_ARRIVALS_S6E08_LN_CHAPTER_01_NOBODY_MOVE_v0.1.md` |
+| 16 | S6E08 | The Tango | `THE_ARRIVALS_S6E08_LN_CHAPTER_02_THE_TANGO_v0.1.md` |

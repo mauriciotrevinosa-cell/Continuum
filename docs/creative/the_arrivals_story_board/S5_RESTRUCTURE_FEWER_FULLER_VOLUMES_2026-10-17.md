@@ -205,4 +205,4 @@ See `S5_V30_V31_CLOSING_OUTLINE_2026-10-18.md` for the decisions taken under the
   - 90 Bellion
   - 100 **Ruler** (the Light of the Hundredth; left arm broken; "you carry his door… we put him to rest… you should not exist"; *Not eligible*; **Ruler's Authority fragment (rough, unused)**; the garden opens; Ori's afternoon)
   - 101 Architect (cuts the window; four-minute timer; the Noise rebuilds the line)
-- **Shadows at 101:** nine named plus 100 = 109. After 101: 98 soldiers (two unmade), ten rows, two spaces in the last row.
+- **Shadows at 101:** ten named (with Roof) plus 100 = 110. After 101: 98 soldiers (two unmade), ten rows, two spaces in the last row.

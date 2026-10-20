@@ -5,7 +5,7 @@
 **Season:** 6
 **Coverage:** S6E01–S6E09
 **Volume title:** **Two Cookies**
-**Chapter files:** 19
+**Chapter files:** 20
 
 Season 6 opens here, the day after summer (Day 411). Plan: [S6_V32_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V32_PLAN_2026-10-20.md).
 
@@ -32,3 +32,4 @@ Season 6 opens here, the day after summer (Day 411). Plan: [S6_V32_PLAN_2026-10-
 | 17 | S6E08 | Borrowed Light | `THE_ARRIVALS_S6E08_LN_CHAPTER_03_BORROWED_LIGHT_v0.1.md` |
 | 18 | S6E08 | The Things Behind | `THE_ARRIVALS_S6E08_LN_CHAPTER_04_THE_THINGS_BEHIND_v0.1.md` |
 | 19 | S6E09 | Help Them | `THE_ARRIVALS_S6E09_LN_CHAPTER_01_HELP_THEM_v0.1.md` |
+| 20 | S6E09 | Two Cookies | `THE_ARRIVALS_S6E09_LN_CHAPTER_02_TWO_COOKIES_v0.1.md` |

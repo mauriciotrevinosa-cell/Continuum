@@ -54,7 +54,7 @@ Mau looked at the edge of the firelight, where the knight stood.
 
 From the shadow by her feet, two cold blue lights peered up.
 
-*"Little one,"* said Beru. Very quietly. Very steadily. *"I will stand in front of you."*
+*"Little rope,"* said Beru. Very quietly. Very steadily. *"I will stand in front of you."*
 
 She looked down at him.
 
@@ -84,7 +84,7 @@ Yuka gasped.
 
 *"My lady,"* said Igris, from the edge of the light, and bowed to her, deeply.
 
-*"Little one,"* said Beru.
+*"Little rope,"* said Beru.
 
 *"Small king's little one,"* said Kamish, slowly, as if trying it out, and something in his deep voice sounded almost amused.
 

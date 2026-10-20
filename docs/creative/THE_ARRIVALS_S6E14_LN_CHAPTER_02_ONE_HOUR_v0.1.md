@@ -234,7 +234,7 @@ Mau looked down.
 
 The dark of his shadow on the stone had moved. And out of it, slowly, just the top of a head: the long black chitin, the antennae, two cold blue lights, peering up out of the shadow like something looking out of a hole. Not rising. Just looking.
 
-"*My King,*" said Beru again. His voice was different. Lower. Steadier. Not the voice that had shouted *my King!* across a hive, or apologised to fence posts. Older, somehow. "*You have brought the little one into a red place.*"
+"*My King,*" said Beru again. His voice was different. Lower. Steadier. Not the voice that had shouted *my King!* across a hive, or apologised to fence posts. Older, somehow. "*You have brought the little rope into a red place.*"
 
 "It wasn't on purpose," said Mau. "It was supposed to be a garden."
 

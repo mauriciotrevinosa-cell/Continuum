@@ -98,9 +98,15 @@ It was only his name. Said very quietly. With something in it like a door closin
 
 Beru looked at the knight. At Mau. At Yuka.
 
-*"Forgive me,"* said Beru. *"The little one. I meant the little one."*
+*"Forgive me,"* said Beru. *"The little rope. I meant the little rope."*
 
 He went down into the dark and did not come up again for a day.
+
+He did not know what to call her. That was the trouble, and Igris knew it, and so did the old dragon lying under both of them. His King looked at her the way a king looks at a queen. But there was a queen. Beru had knelt to her in a north field at dusk and been broken into a thousand pieces by her white light and laughed about it afterward with the whole house. She was at home, in a room at the end of the corridor, with her foot out at the reset hour and nobody there.
+
+So the girl with the rope could not be the queen. And she could not be nothing either. Not with the way his King looked at her.
+
+So Beru called her *little rope*, because she had a rope, and because he did not know what else she was, and every time he said it he felt something in the dark of him that he did not have a word for.
 
 Yuka stood on the black glass and looked at the place where he had gone, and did not say anything. Mau did not understand what had happened. He laughed, and said Beru always got titles wrong, and went to look at the guardian's remains.
 

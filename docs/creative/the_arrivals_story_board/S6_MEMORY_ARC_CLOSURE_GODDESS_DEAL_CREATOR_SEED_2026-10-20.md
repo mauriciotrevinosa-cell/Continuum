@@ -52,3 +52,10 @@
 - **"Another trial"** in the second price refers to the memory trial, not the Architect's tower. (Read as: a trial of the memory kind. Confirm the exact meaning when we get there.)
 - **The core image the creator loves:** everything the house built breaks because of something external. Mau watches it crumble. People may already have fought each other (physically, verbally, psychologically), and indirectly Mau caused much of it without knowing, because he didn't remember.
 
+## The shadows keep it (creator, 2026-10-20, verbatim)
+
+> oye me quede pensando y que la sombras si se queden con lo que sucedio son parte de mau y que durante ese periodo beru no sepa que decir a yuka pq le llama little rope y no sabe pq existe la queen entocnes no sabe
+
+- **The shadows remember** after the Goddess's rewrite, because they are part of Mau. (Ciel still does not.) Mau has witnesses who know and can speak (they can peek and talk since floor 50); keeping them quiet is its own tension. Beru is the obvious risk.
+- **During the stolen-memory period,** Beru doesn't know what to call Yuka. His King looks at her like a queen, but the Queen (Frieren) exists. So he calls her **"little rope"**. Applied in One Hour, The Contract (the "little queen" slip, Igris's "Beru.", then "the little rope") and Two Wheels.
+

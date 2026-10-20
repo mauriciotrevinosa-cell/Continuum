@@ -5,7 +5,7 @@
 **Season:** 6
 **Coverage:** S6E10–S6E15
 **Volume title:** **Oppa**
-**Chapter files:** 11
+**Chapter files:** 12
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -24,3 +24,4 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 9 | S6E14 | Tsurugi | `THE_ARRIVALS_S6E14_LN_CHAPTER_01_TSURUGI_v0.1.md` |
 | 10 | S6E14 | One Hour | `THE_ARRIVALS_S6E14_LN_CHAPTER_02_ONE_HOUR_v0.1.md` |
 | 11 | S6E15 | Coats | `THE_ARRIVALS_S6E15_LN_CHAPTER_01_COATS_v0.1.md` |
+| 12 | S6E15 | Under the Stars | `THE_ARRIVALS_S6E15_LN_CHAPTER_02_UNDER_THE_STARS_v0.1.md` |

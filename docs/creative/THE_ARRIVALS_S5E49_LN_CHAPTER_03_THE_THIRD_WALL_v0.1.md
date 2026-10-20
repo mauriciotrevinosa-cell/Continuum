@@ -154,7 +154,7 @@ She closed the green book.
 
 "I'll be at the door," she said.
 
-"It's not single combat. Gojo looked."
+"It didn't ask for single combat. Not like twenty. Gojo looked from the stair, and it didn't ask for anything."
 
 "I'll be at the door anyway," said Frieren. "Or beside you. Whichever is closer to the hungry thing." She looked at him. "I'm coming, Mau."
 

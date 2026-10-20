@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 33
 **Season:** 6
-**Coverage:** S6E10–S6E13
+**Coverage:** S6E10–S6E14
 **Volume title:** **Oppa**
-**Chapter files:** 8
+**Chapter files:** 9
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -21,3 +21,4 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 6 | S6E12 | Her Eighteenth | `THE_ARRIVALS_S6E12_LN_CHAPTER_02_HER_EIGHTEENTH_v0.1.md` |
 | 7 | S6E13 | Like Taihei | `THE_ARRIVALS_S6E13_LN_CHAPTER_01_LIKE_TAIHEI_v0.1.md` |
 | 8 | S6E13 | The Floor of Her Room | `THE_ARRIVALS_S6E13_LN_CHAPTER_02_THE_FLOOR_OF_HER_ROOM_v0.1.md` |
+| 9 | S6E14 | Tsurugi | `THE_ARRIVALS_S6E14_LN_CHAPTER_01_TSURUGI_v0.1.md` |

@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20)
 **Volume:** 33
 **Reading order:** 13
-**Continuity state:** Inside the gate, levels two to five, over many days. They do not speak about the night under the stars, and they do not pretend it didn't happen. Mau remembers, from somewhere he can't place, that a loan can be made: one thing, to one person, and his body carries the weight. Without Ciel or Rimuru he builds it clumsily by feel, and the Noise, watching, lets it hold. He lends Yuka the pull. She hates it, then she's good at it. They train every day and fight every guardian together until they move like one person, "inseparable," the shadows say. Igris corrects her footwork, respectfully; Beru calls her "little queen" once and is told off by Igris. Then she asks him the question that matters: the Ten Shadows. She has the technique. He has a copy of it, and one tamed shikigami (Ear). Gojo's rule: subdue it alone, help voids it. Mau's idea: with a contract between them, maybe the ritual sees two people as one summoner. They decide to try
+**Continuity state:** Inside the gate, levels two to five, over many days. They do not speak about the night under the stars, and they do not pretend it didn't happen. Mau remembers, from somewhere he can't place, that a loan can be made: one thing, to one person, and his body carries the weight. Ciel, who built the first one with Rimuru, helps him build it again; the Noise, watching, lets it hold. He lends Yuka the pull. She hates it, then she's good at it. They train every day and fight every guardian together until they move like one person, "inseparable," the shadows say. Igris corrects her footwork, respectfully; Beru calls her "little queen" once and is told off by Igris. Then she asks him the question that matters: the Ten Shadows. She has the technique. He has a copy of it, and one tamed shikigami (Ear). Gojo's rule: subdue it alone, help voids it. Mau's idea: with a contract between them, maybe the ritual sees two people as one summoner. They decide to try
 
 *When: Inside the gate. Many days. Four levels: a drowned forest, a city of bells with no people in it, a desert of black glass, a long stair under the sea. Outside, nobody inside can know how long.*
 
@@ -36,9 +36,11 @@ Yuka looked up from the fire.
 
 * * *
 
-He did it badly.
+He did it badly the first time.
 
-He had no one to help. He did not know there should have been someone. He sat across the fire from her with his eyes shut and felt for the thing in him that let things go *through*, the thin line from the place behind his eyes, and tried to lay it across the space between them like a string between two cans, and could not, and tried again.
+*Let me,* said Ciel. *I've built one before. With Rimuru, for Anko, so she could see past the ridge.* A pause. *You don't remember. That's all right. I do.*
+
+He sat across the fire from Yuka with his eyes shut and felt for the thing in him that let things go *through*, the thin line from the place behind his eyes, and Ciel took it, the way you take someone's hands to show them a knot, and laid it across the space between them like a string between two cans.
 
 *Let it,* he thought. Down. At the dark under the walls. At the thing that had said *maybe*. *Please. Let it hold.*
 

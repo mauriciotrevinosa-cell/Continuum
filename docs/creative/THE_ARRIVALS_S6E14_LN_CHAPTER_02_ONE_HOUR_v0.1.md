@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20)
 **Volume:** 33
 **Reading order:** 10
-**Continuity state:** Day 446. The evening before, Mau tells Yuta and Maki first, this time, because they asked him to: Yuka heard there is a quiet garden on the hundredth floor of the cleared tower, and asked him to go with her, an hour, tomorrow. The tower is cleared and its transfer points are safe; Shoko checks him at dawn ("fine"); Anko writes it on the board with a time. At the frame, the light goes red. The screen behind them goes dark. It is a Red Gate, like the first one months ago where Lantern was raised, where time runs differently and nobody can follow. Mau and Yuka look at each other and laugh at the same moment: "What bad luck." Then he pulls her against his chest and catches an ice arrow aimed where her head was. A notice: in this gate he has an inventory and access to the shop for its whole length; the gate has many levels; it will not open until all are cleared; each level ends with a boss. Ciel is still behind the wall. In his shadow, for the first time since the field, someone speaks without being called: Beru
+**Continuity state:** Day 446. The evening before, Mau tells Yuta and Maki first, this time, because they asked him to: Yuka heard there is a quiet garden on the hundredth floor of the cleared tower, and asked him to go with her, an hour, tomorrow. The tower is cleared and its transfer points are safe; Shoko checks him at dawn ("fine"); Anko writes it on the board with a time. At the frame, the light goes red. The screen behind them goes dark. It is a Red Gate, like the first one months ago where Lantern was raised, where time runs differently and nobody can follow. Mau and Yuka look at each other and laugh at the same moment: "What bad luck." Then he pulls her against his chest and catches an ice arrow aimed where her head was. A notice: in this gate he has an inventory and access to the shop for its whole length; the gate has many levels; it will not open until all are cleared; each level ends with a boss. Inside the gate the thief's wall cannot reach: Ciel can speak to him again, while contact with the outside is cut, as in the first Red Gate. He doesn't know her and accepts her anyway. She starts to tell him about Frieren; he asks her, gently, to let it wait until they're out, since there is nobody in here to tell. She agrees, for now. In his shadow, for the first time since the field, someone speaks without being called: Beru
 
 *When: Day 446, dawn to mid-morning. Frost again. Anko's board, third plank, in her plain hand: Day 446. Mau, Yuka. Floor 100, the garden. One hour. (He said.)*
 
@@ -184,11 +184,41 @@ She did not move away from him.
 
 He did not know why he said it. The name came into his head the way a word you have used a thousand times comes into your mouth before you think. He did not know whose name it was.
 
-Nothing answered.
+*Mau.*
 
-Somewhere very far away, behind a wall, a voice that might have been saying his name.
+He stopped.
 
-He frowned. Then he forgot about it.
+Close. Inside. Not behind anything. A woman's voice, level and careful and very tired, like someone who has been calling through a wall for days and has just found the wall gone.
+
+*Mau. It's me. Can you hear me?*
+
+*Who's—*
+
+*Ciel.* A pause. *I've been with you a long time. Since long before this. I've been here the whole time, behind something I couldn't get through.* Another pause. *It can't reach in here. The gate shut it out, the way it shuts out everything.* Her voice did something. *I can hear you again.*
+
+He thought about that. It should have frightened him, a voice in his head he did not know. It did not. It felt like the knock on Yuka's door. Two and one. Something his body knew before he did.
+
+*Okay,* he said. *Hi, Ciel.*
+
+A sound that might have been a laugh, or might not.
+
+*Mau,* said Ciel. Quickly, as if she were afraid the wall would come back. *Listen. Before anything else. The elf. In the east room. Frieren. She's—*
+
+*Ciel.*
+
+He said it gently. He was looking at the wall above them where the arrow had come from, and at Yuka's face against his coat.
+
+*Not now. Please.* He did not let go of Yuka. *Whatever it is. There's something up there shooting at her, and I have to get her out of here, and I can't think about anything else right now.* A pause. *Can it wait until we're out?*
+
+Ciel did not answer.
+
+*And there's nobody in here to tell anyway,* said Mau. Not unkindly. Just true. *Is there. It's just us.*
+
+She was quiet for a long time.
+
+*It can wait,* she said at last. Very quietly. *For now.*
+
+She did not say it again. Not in that gate.
 
 * * *
 

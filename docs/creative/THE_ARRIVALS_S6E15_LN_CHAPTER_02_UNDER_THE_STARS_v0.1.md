@@ -174,6 +174,14 @@ He fell asleep before she did.
 
 She lay with her head on his shoulder and listened to both hearts and looked at the stars, and did not sleep, and did not move.
 
+Inside him, Ciel had seen all of it.
+
+She had felt his heart go when he kissed her. She had felt Yuka's hands find the scars. She had heard him say *okay*. She did not say anything. There was nobody in the gate to say it to, and he had asked her to wait, and she had promised.
+
+And she thought, very carefully, the way she thought about everything, about what would happen when they were out. If she told Rimuru. If Rimuru told Frieren. If Frieren—
+
+She stopped thinking about it. Not yet.
+
 Then, very quietly, from the dark under them, from his shadow on the moor, a voice she had never heard speak to her.
 
 Slow. Deep. Like stone moving under water.

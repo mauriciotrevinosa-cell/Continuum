@@ -48,9 +48,11 @@ She put on her coat. It came down to her ankles. She pulled the hood up and her 
 
 The points were harder.
 
-He had held them since the end of summer. A hundred and thirty-four. He did not remember why, exactly. He knew there had been a reason. A sheet on a wall that said *DON'T TOUCH ANYTHING*. The window growing. Ciel—
+He had held them since the end of summer. A hundred and thirty-four. He did not remember why, exactly. He knew there had been a reason. A sheet on a wall that said *DON'T TOUCH ANYTHING*. The window growing.
 
-He did not know who Ciel was.
+*Because the Noise was making room,* said Ciel. *In your window. For the rest of you. You held them so nothing went in before the room was finished.* A pause. *It's finished now. It finished all at once, before the field. It's safe to spend some.*
+
+He did not remember the room being finished. He believed her anyway.
 
 But the gate did not care about reasons. The ice arrow had made that clear. Whatever was up on that wall did not wait for anybody to finish thinking.
 

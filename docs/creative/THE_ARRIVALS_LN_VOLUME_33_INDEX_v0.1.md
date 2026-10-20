@@ -5,7 +5,7 @@
 **Season:** 6
 **Coverage:** S6E10–S6E18
 **Volume title:** **Oppa**
-**Chapter files:** 17
+**Chapter files:** 18
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -30,3 +30,4 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 15 | S6E17 | Two Wheels | `THE_ARRIVALS_S6E17_LN_CHAPTER_01_TWO_WHEELS_v0.1.md` |
 | 16 | S6E17 | The Wheel Lesson | `THE_ARRIVALS_S6E17_LN_CHAPTER_02_THE_WHEEL_LESSON_v0.1.md` |
 | 17 | S6E18 | The South Field | `THE_ARRIVALS_S6E18_LN_CHAPTER_01_THE_SOUTH_FIELD_v0.1.md` |
+| 18 | S6E18 | What Ciel Told Rimuru | `THE_ARRIVALS_S6E18_LN_CHAPTER_02_WHAT_CIEL_TOLD_RIMURU_v0.1.md` |

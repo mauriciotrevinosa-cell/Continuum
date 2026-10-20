@@ -159,3 +159,12 @@
 - **Both reconcile notes are approved:** Gojo's rule bends through a discovered loophole, and Yuka's hiding is her failing to answer for.
 - **Format:** same chapter format as S5. This opening arc is not a full season and doesn't need forty volumes.
 
+## Shadow voices in the Red Gate (creator, verbatim, 2026-10-20)
+
+> oye y me gustaria que ebru agarre su personalidad e los utlimos caps de solo leveling durante la red gat le hable a mau se asome y asi igual igris pero mas respetuoso y kamish es como un anciando sabio
+
+- **In the Red Gate,** Beru takes on his personality from Solo Leveling's last chapters. He talks to Mau and peeks out of the shadow on his own.
+- **Igris** does the same, but more respectfully.
+- **Kamish** is a wise old man.
+- (The altered Mau knows them as his shadows, and they know the real him. That makes them another quiet tell.)
+

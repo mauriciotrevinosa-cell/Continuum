@@ -117,3 +117,20 @@
 > es que ahi esta tu error dices que mau no es mau pero en relaidad si es mau y ahi esta el problema
 
 - **He is still Mau.** Same person: the same kindness and instincts, the same "nobody stands in the cold for me", the same all-in protectiveness. Only his history was stolen and rewritten. Never write him as "not himself" or a stranger. The horror is that everything good in him is intact and pointed at a false life. The house is fighting for someone who is fully present and fully wrong.
+
+## The obstacle is Mau himself (creator, 2026-10-19, verbatim)
+
+> pq se me ocurrio algo que tal si este mau con sus memorias se vuelve el obstaculo a regresar a lo que era
+
+## Captured (creator)
+
+- **The altered Mau becomes the obstacle to his own recovery.** He resists getting back to who he was.
+
+## Claude's notes (seconded, not decided)
+
+- It follows straight from the core principle: he is still Mau. Mau protects what he believes is his life with everything he has. To him, the restoration is not a cure. It erases the person he is now, and his bond with Yuka.
+- **The house becomes "the ones trying to take something from him".** Daphne's work feels like the theft happening again. He may run, hide, refuse, or bargain ("leave me this").
+- **It makes Yuka's balance unbearable.** Bringing back the real Mau means helping erase the version of him who chose her. She has to want him back more than she wants to be chosen.
+- **The cracks become weapons both ways.** The forehead kiss, the coin he no longer has, his own handwriting are proof to the house and threats to him, and he may start hiding them.
+- **Open:** does he resist passively (refusal, silence) or actively (running, fighting, using the shadows or the Exchange against the house)? Does the Noise side with the restoration or with the Mau who exists now?
+

@@ -147,3 +147,21 @@
   2. **He promises her a lifetime.** He offers Yuka the thing Frieren most longed for (someone for her whole life who wouldn't bore her), said to someone else, with Frieren hearing it.
   3. **He gives Yuka a ritual that was Frieren's,** such as the reset hour or a hand on his chest.
 
+## The Red Gate kiss (creator, 2026-10-19, verbatim)
+
+> no pense en que se acostaron sino exactamente osea el plan es mas o menos estan en la red gat platicando y mau le da un beso bien y yuka no sabe que hacer y cuando mau se quita ella lo agarra y le regresa el beso pero no solo eso comenzamos un tipo fore play nada grande solo que tal ves le quita a mau la chamarra o algo y luego siente la mano destruida de mau y yuka se detiene pq sabe que este mau tal ves no queria esto y esto es un conflicto en yuka pq ella lo queria de oppa pero cuando mau le dio el interes del mundo ella quiere algo mas pero a la ves no
+
+## Captured (creator)
+
+- **In the second Red Gate,** talking, Mau kisses Yuka properly. She doesn't know what to do. When he pulls back, she grabs him and kisses him back.
+- It goes a little further, nothing big: maybe she takes his jacket off.
+- **Then she feels his ruined hand,** and stops. She knows this Mau maybe would never have wanted this.
+- **Yuka's conflict:** she loved him as Oppa, but now that he gives her all the attention in the world, she wants something more, and at the same time doesn't.
+- Not sex. Both are adults (Yuka is 18 in S6).
+
+## Claude's notes
+
+- **The hand is the right trigger.** His body carries the history his mind lost: the S5 burns, the two fingers that won't close. She stops because his scars remember Frieren even when he doesn't.
+- It matches the earlier note: the beat lands as **Yuka stopping it**, so she never becomes the one who takes advantage.
+- **Writing rules:** brief, tender, non-explicit, no fan service (in the spirit of DH-054). The weight is in her hands stopping, not in the kiss.
+

@@ -5,7 +5,7 @@
 **Season:** 6
 **Coverage:** S6E10–S6E17
 **Volume title:** **Oppa**
-**Chapter files:** 15
+**Chapter files:** 16
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -28,3 +28,4 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 13 | S6E16 | The Contract | `THE_ARRIVALS_S6E16_LN_CHAPTER_01_THE_CONTRACT_v0.1.md` |
 | 14 | S6E16 | Nine | `THE_ARRIVALS_S6E16_LN_CHAPTER_02_NINE_v0.1.md` |
 | 15 | S6E17 | Two Wheels | `THE_ARRIVALS_S6E17_LN_CHAPTER_01_TWO_WHEELS_v0.1.md` |
+| 16 | S6E17 | The Wheel Lesson | `THE_ARRIVALS_S6E17_LN_CHAPTER_02_THE_WHEEL_LESSON_v0.1.md` |

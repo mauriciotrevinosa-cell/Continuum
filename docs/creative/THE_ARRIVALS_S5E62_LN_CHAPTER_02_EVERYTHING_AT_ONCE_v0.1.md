@@ -4,13 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 48
-**Continuity state:** The twelve statues fight for the Architect, on islands of stone over unmade nothing. Mau commands everything at once (ten named shadows and the Legion of a hundred) with a commander's view from Kaisel's back:
-- Kamish lies across the void as a bridge.
-- Bellion's whip pulls statues off their islands; Igris stands near Frieren; Corner guards Yuta's corner; Beru hunts; Tank holds; Tusk breaks the staff-bearer's weight from the inside; the Legion makes the lines; Lantern harries.
-- Each statue falls to its own lesson turned against it.
-- Gojo calls the threads going slack.
-- Gojo's marble and Mau's pull meet to make a double Blue.
-Calling everyone costs nothing (all already raised), but anything broken costs to bring back and remaking mid-fight would take his eyes off the field, so Mau sends each shadow back as soon as its work is done, before the hall can break it. Two soldiers are unmade
+**Continuity state:** The twelve statues fight for the Architect, on islands of stone over unmade nothing. Mau commands everything at once (ten named shadows and the Legion of a hundred) with a commander's view from Kaisel's back: Kamish lies across the void as a bridge. Bellion's whip pulls statues off their islands; Igris stands near Frieren; Corner guards Yuta's corner; Beru hunts; Tank holds; Tusk breaks the staff-bearer's weight from the inside; the Legion makes the lines; Lantern harries. Each statue falls to its own lesson turned against it. Gojo calls the threads going slack. Gojo's marble and Mau's pull meet to make a double Blue. Calling everyone costs nothing (all already raised), but anything broken costs to bring back and remaking mid-fight would take his eyes off the field, so Mau sends each shadow back as soon as its work is done, before the hall can break it. Two soldiers are unmade
 
 *When: Day 397. Floor 101. Four islands of stone in a sea of grey nothing. Twelve statues on twelve more, standing for the Architect. The Architect at the foot of the hundred steps, hands folded, watching.*
 

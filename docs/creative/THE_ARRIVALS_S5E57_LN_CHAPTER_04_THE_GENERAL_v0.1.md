@@ -4,13 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 29
-**Continuity state:** Floor 90 (Day 387), the ninth guardian: Bellion, Grand Marshal, with a segmented sword that becomes a whip. Party: Mau (owner), Yuta, Frieren and Maki; Gojo stays home at Shoko's request. Bellion fights Mau, and the costs pile up:
-- The whip finds every edge of the space and opens Mau's shoulder and side.
-- He plans, rather than reacting: he has to get inside a weapon that is strongest at its length.
-- He draws the floor-86 katana "like he means it". The Noise builds something from what it saw of Rika on Day 133: Mau's own pale, half-made Rika. It catches the whip for seconds, then is shredded.
-- To survive the next strike he lets the wheel turn, twice. It adapts to the whip; the guardrails strain and his eyes bleed under the filter.
-- He gets inside. Maki, Yuta and Igris finish it.
-Nothing is permanently unlocked.
+**Continuity state:** Floor 90 (Day 387), the ninth guardian: Bellion, Grand Marshal, with a segmented sword that becomes a whip. Party: Mau (owner), Yuta, Frieren and Maki; Gojo stays home at Shoko's request. Bellion fights Mau, and the costs pile up: The whip finds every edge of the space and opens Mau's shoulder and side. He plans, rather than reacting: he has to get inside a weapon that is strongest at its length. He draws the floor-86 katana "like he means it". The Noise builds something from what it saw of Rika on Day 133: Mau's own pale, half-made Rika. It catches the whip for seconds, then is shredded. To survive the next strike he lets the wheel turn, twice. It adapts to the whip; the guardrails strain and his eyes bleed under the filter. He gets inside. Maki, Yuta and Igris finish it. Nothing is permanently unlocked.
 
 *When: Day 387, morning outside. Anko's board: Day 387. Mau, Yuta, Frieren, Maki. From 80. Floor 90 (guardian). And under it, in Fern's hand: Gojo stays home. (Shoko asked.) And under that, in Gojo's: Under protest. —S.G.*
 

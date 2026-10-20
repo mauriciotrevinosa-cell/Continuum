@@ -4,11 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-19, DH-128)
 **Volume:** 31
 **Reading order:** 19
-**Continuity state:** Day 378, floor 70, continuous (part 2 of 2). True Dragon against Kamish at its last form.
-- The clash: fire-wings against wings of weight; claws of pressure against white-hot claws; Kamish's jaws close on the True Dragon's neck and its heat begins to get through, burning Mau's real body at the heart of the shape (the left side of his head, his left hand charred).
-- Mau answers with a breath of his own: not fire, a roar of pure weight that flattens the fire-wings and drives Kamish down through the floor of its own hall.
-- Ciel counts to forty while his body tears. Kamish, pressed into the stone, looks up: "Not small." / "Good." Mau ends it with the smallest point he has, reaching down from the heart of the shape with his one working hand.
-- At forty he lets go. The scale folds and Ciel shoves every wall up behind it. Bleeding out, half-burned, he raises Kamish so it will not be alone, asking it to keep watch over a house. The dark dragon coils round him, wings over him like a roof, head between him and the doorway: "Then I will keep watch until they do."
+**Continuity state:** Day 378, floor 70, continuous (part 2 of 2). True Dragon against Kamish at its last form. The clash: fire-wings against wings of weight; claws of pressure against white-hot claws; Kamish's jaws close on the True Dragon's neck and its heat begins to get through, burning Mau's real body at the heart of the shape (the left side of his head, his left hand charred). Mau answers with a breath of his own: not fire, a roar of pure weight that flattens the fire-wings and drives Kamish down through the floor of its own hall. Ciel counts to forty while his body tears. Kamish, pressed into the stone, looks up: "Not small." / "Good." Mau ends it with the smallest point he has, reaching down from the heart of the shape with his one working hand. At forty he lets go. The scale folds and Ciel shoves every wall up behind it. Bleeding out, half-burned, he raises Kamish so it will not be alone, asking it to keep watch over a house. The dark dragon coils round him, wings over him like a roof, head between him and the doorway: "Then I will keep watch until they do."
 
 *When: Day 378, floor 70. Twenty seconds on Ciel's count. The hall is melting. Two dragons are looking at each other across the glass, and one of them has a boy at its heart.*
 

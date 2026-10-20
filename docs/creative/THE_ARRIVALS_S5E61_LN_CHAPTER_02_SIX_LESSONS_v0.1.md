@@ -4,14 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18)
 **Volume:** 31
 **Reading order:** 45
-**Continuity state:** The ring awakens when Mau, the owner, steps inside it. Each statue tests the lesson of its floor and kneels when it is answered; a wrong answer is met with stone. Six tests:
-- **Lamp (7):** near end first; Frieren's lights.
-- **Bell (9):** stand where a teacher stands, as stone children walk home.
-- **Star (19):** find the one that doesn't move. It is the seated god, which makes it north.
-- **Scale (10):** keep a little left. Mau pours his reserve and stops short.
-- **Staff (60):** the shaman's weight comes down on the hall. Mau stands inside full Infinity, then opens it wider, over Frieren, Yuta and Gojo; four people stand up.
-- **Rope (49):** throw at the thing that won't let go. He falls and reaches for Frieren.
-Frieren reads one carved line per statue with the small words. Gojo sees a thread from each statue to the seated god
+**Continuity state:** The ring awakens when Mau, the owner, steps inside it. Each statue tests the lesson of its floor and kneels when it is answered; a wrong answer is met with stone. Six tests: **Lamp (7):** near end first; Frieren's lights. **Bell (9):** stand where a teacher stands, as stone children walk home. **Star (19):** find the one that doesn't move. It is the seated god, which makes it north. **Scale (10):** keep a little left. Mau pours his reserve and stops short. **Staff (60):** the shaman's weight comes down on the hall. Mau stands inside full Infinity, then opens it wider, over Frieren, Yuta and Gojo; four people stand up. **Rope (49):** throw at the thing that won't let go. He falls and reaches for Frieren. Frieren reads one carved line per statue with the small words. Gojo sees a thread from each statue to the seated god
 
 *When: Day 397. Floor 101. Frieren has read for what Ciel counts as forty minutes. She has found twelve lines on the walls, one beside each drawing, and in each line one of the small words they know. She says it is enough to start.*
 

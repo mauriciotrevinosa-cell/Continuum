@@ -1977,3 +1977,14 @@ Creator: "yo diria que beru no permita asisitir el chiste de esa pelea es que ma
 - Everything that was a companion's assist is now Mau's own: the slanted space edge, his own pull, Igris taking the arm, Igris holding Beru for Purple.
 - Ripples: My King (Beru "remembers" the held spell, not a hit; the return is Gojo and Frieren, with Yuta taking her side), Long Room (Gojo's "I held Frieren's wrist"), Chair for Later, and One Free Shot (Beru asks for the spell she never loosed, so the free shot is the release).
 
+## DH-131 — How the memory arc closes: the Goddess's deal (creator, 2026-10-20)
+
+[mensaje íntegro y notas](S6_MEMORY_ARC_CLOSURE_GODDESS_DEAL_CREATOR_SEED_2026-10-20.md). The *how* is decided; the *when* is not.
+- The house reaches a real breaking point: divided, people hurt by mistake, blame thrown at Yuka, Mau, everyone, and Frieren.
+- Yuka wishes she could go back to just "Oppa". Then, alone with Mau, "it's my fault".
+- The Goddess offers to rewrite everyone's memory of what happened (not time travel).
+- Her price: Mau remembers everything and loves both Frieren and Yuka at full intensity, Yuka doesn't know, and he decides what to do. The second price is unknown ("another trial, or a conversation").
+- Everyone sleeps. "This is going to be fun." "For who?"
+- Breakfast: Nazuna scolded; Mau holds Frieren's hand, quiet, unable to tell anyone.
+- Open: who keeps the truth (Ciel, Rimuru, the shadows, Daphne); how the secret leaks to cause the split.
+

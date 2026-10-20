@@ -145,3 +145,17 @@
 - **The 134 points:** S5 ends with "DON'T TOUCH ANYTHING" until the Noise finishes. The overload completes the integration first, so spending in the gate is consistent.
 - **The army recites Mau's threat:** this ties to DH-123 (the north road, one demon left alive with the message).
 - **To confirm:** "el evil eye" (why Betty gets through and the evil eye doesn't); which two devils exist in this world; the sorcerer hybrid's name and concept.
+
+## Creator's confirmations (verbatim, 2026-10-20)
+
+> evil ey dan da dan de jinshi
+> son el de las caras el que corto y asi solo que no hemos mostrado hibridos esa es la diferencia
+> ese creo que lo tendremos que inventar pero me hace mas sentido en un mundo como en el que estamos
+> dos cosa que anote para cuando escribamos amabs me encantaron entonces ya estaria s litsa apra arrancarte y agarra el formato de s5 de capitulos y asi como esta no es una season completa no necesito que sean 40 volumenes jajajaj
+
+- **The Evil Eye is Jiji's** (Dandadan). Betty comes through on her contract with Subaru; the Evil Eye did not come with Jiji, because no contract pulled it.
+- **The devils that exist in this world** are the ones already shown, "the faces one" and "the one that cut". So **the north road's cutter was a devil** (resolves part of DH-123's open question). Hybrids are new: nobody has seen one yet.
+- **The sorcerer hybrid is invented.** It fits this world.
+- **Both reconcile notes are approved:** Gojo's rule bends through a discovered loophole, and Yuka's hiding is her failing to answer for.
+- **Format:** same chapter format as S5. This opening arc is not a full season and doesn't need forty volumes.
+

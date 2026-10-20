@@ -134,3 +134,16 @@
 - **The cracks become weapons both ways.** The forehead kiss, the coin he no longer has, his own handwriting are proof to the house and threats to him, and he may start hiding them.
 - **Open:** does he resist passively (refusal, silence) or actively (running, fighting, using the shadows or the Exchange against the house)? Does the Noise side with the restoration or with the Mau who exists now?
 
+## Something he never did with Frieren (creator, 2026-10-19, verbatim)
+
+> y algo tiene que pasar entre yuka y mau que no ah hecho con frieren para que neta se sienta
+
+## Claude's notes (proposed in chat, awaiting the creator)
+
+- "I love you" is already said between Mau and Frieren (S2–S3), so it can't be the line.
+- **Push-back on anything sexual:** an altered Mau cannot really consent, and Yuka knows the truth. It would make her the exploiter, against the creator's own rule ("Yuka never treats it as a chance to win Mau"). If the beat leans that way, the version that lands is **Yuka stopping it** while wanting it: her balance at its breaking point.
+- **Options that hurt more than a first time:**
+  1. **He asks for help.** The real Mau's flaw was silence and deciding alone. With Yuka he says his fear out loud and asks her to come with him. Frieren sees he could have done that with her, and never did.
+  2. **He promises her a lifetime.** He offers Yuka the thing Frieren most longed for (someone for her whole life who wouldn't bore her), said to someone else, with Frieren hearing it.
+  3. **He gives Yuka a ritual that was Frieren's,** such as the reset hour or a hand on his chest.
+

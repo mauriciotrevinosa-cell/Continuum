@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 32
 **Season:** 6
-**Coverage:** S6E01–S6E05
+**Coverage:** S6E01–S6E06
 **Volume title:** **Two Cookies**
-**Chapter files:** 10
+**Chapter files:** 11
 
 Season 6 opens here, the day after summer (Day 411). Plan: [S6_V32_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V32_PLAN_2026-10-20.md).
 
@@ -23,3 +23,4 @@ Season 6 opens here, the day after summer (Day 411). Plan: [S6_V32_PLAN_2026-10-
 | 8 | S6E04 | The Map | `THE_ARRIVALS_S6E04_LN_CHAPTER_02_THE_MAP_v0.1.md` |
 | 9 | S6E05 | If I Say Go | `THE_ARRIVALS_S6E05_LN_CHAPTER_01_IF_I_SAY_GO_v0.1.md` |
 | 10 | S6E05 | The Words He Left | `THE_ARRIVALS_S6E05_LN_CHAPTER_02_THE_WORDS_HE_LEFT_v0.1.md` |
+| 11 | S6E06 | A Quiet Week | `THE_ARRIVALS_S6E06_LN_CHAPTER_01_A_QUIET_WEEK_v0.1.md` |

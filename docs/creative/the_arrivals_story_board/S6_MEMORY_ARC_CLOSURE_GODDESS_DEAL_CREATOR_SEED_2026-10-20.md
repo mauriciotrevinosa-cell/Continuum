@@ -39,3 +39,16 @@
 - **Yuka:** the rewrite also returns her feelings to "Oppa", which is her own wish (her one consent in the scene). Does any trace remain (the black dog, the Mahoraga, the book of rules)? They keep the powers; only the story around them changes.
 - **The breaking point needs a mechanism.** How does the secret leak? (Rimuru breaking under it? Beru's tongue? The hand-holding seen? Yuka confessing?) Who gets hurt by mistake, and how? This is the next thing to plan.
 - **Timing:** not fixed. It can sit wherever the arc earns it.
+
+## Creator's answers (verbatim, 2026-10-20)
+
+> no ni ciel recuerda podemos hacer que daphne en un futuro se de cuenta del cambio de memorias y no diga nada hasta una de las del te semanal y le pregunta a mau si sabe algo y aqui mau le dice que si pero que no puede explicar mas lo unico que puedo decir es que casi la casa se destruye y aun no paga el precio. aun no se esta idea aun esta muy inmadura pero croe que tiene buenos pies y cabeza y tiene que suceder mucho antes de esto siento que esto que conte es el cierre para s6 entocnes aun no te preocupes mucho aun hay mucho por recorrer y yo me referia al trial de las memorias no al del arquitecto y si me encanta que todo lo que construimos se rompe por algo externo el ve como la casa se esta desmoronando gente pudo haber ya peleado entre si fisica verbal o psicologicamente pq indirectamente mau causo mucho sin saber pq no recordaba
+
+## Captured (creator)
+
+- **Nobody remembers. Not even Ciel.** Mau is completely alone with it.
+- **Daphne, later, notices the rewrite.** She says nothing until one of the witches' teas, then asks Mau if he knows anything. He says yes, but he can't explain more: "The only thing I can say is that the house almost destroyed itself, and I haven't paid the price yet."
+- **This is the S6 closer,** not the next arc. A lot must happen before it. The idea is still immature but "has good feet and a head". No hurry.
+- **"Another trial"** in the second price refers to the memory trial, not the Architect's tower. (Read as: a trial of the memory kind. Confirm the exact meaning when we get there.)
+- **The core image the creator loves:** everything the house built breaks because of something external. Mau watches it crumble. People may already have fought each other (physically, verbally, psychologically), and indirectly Mau caused much of it without knowing, because he didn't remember.
+

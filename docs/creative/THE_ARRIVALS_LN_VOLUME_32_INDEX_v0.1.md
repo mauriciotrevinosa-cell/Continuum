@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 32
 **Season:** 6
-**Coverage:** S6E01–S6E03
+**Coverage:** S6E01–S6E04
 **Volume title:** **Two Cookies**
-**Chapter files:** 6
+**Chapter files:** 8
 
 Season 6 opens here, the day after summer (Day 411). Plan: [S6_V32_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V32_PLAN_2026-10-20.md).
 
@@ -19,3 +19,5 @@ Season 6 opens here, the day after summer (Day 411). Plan: [S6_V32_PLAN_2026-10-
 | 4 | S6E02 | Ciel Asks | `THE_ARRIVALS_S6E02_LN_CHAPTER_02_CIEL_ASKS_v0.1.md` |
 | 5 | S6E03 | Out of the Jar | `THE_ARRIVALS_S6E03_LN_CHAPTER_01_OUT_OF_THE_JAR_v0.1.md` |
 | 6 | S6E03 | Past the Ridge | `THE_ARRIVALS_S6E03_LN_CHAPTER_02_PAST_THE_RIDGE_v0.1.md` |
+| 7 | S6E04 | The First Loan | `THE_ARRIVALS_S6E04_LN_CHAPTER_01_THE_FIRST_LOAN_v0.1.md` |
+| 8 | S6E04 | The Map | `THE_ARRIVALS_S6E04_LN_CHAPTER_02_THE_MAP_v0.1.md` |

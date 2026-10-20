@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20)
 **Volume:** 33
 **Reading order:** 16
-**Continuity state:** The last level, the next day. With both Mahoragas tamed, the gate's true guardian rises out of the white plain: a giant of white stone that unmakes what touches it, the gate's own lock. Before they fight, Mau teaches Yuka the wheel, the one thing he knows that she doesn't, because he has carried a piece of it all summer. It works two ways: Mahoraga takes the hit and your own wheel adapts, or you let him adapt. His advice: call him, let him take the blow without being destroyed (one piece left is enough), and dismiss him; then the wheels sync, and you put him away and use the others, or "my things, if we have a contract". Think about that every time before you call him. They do it. The guardian falls. Agito helps, as its own shadow. And Yuka feels something new in her shadow that neither of them called: small, black, asleep, a second dog, put there through the contract by the Noise without either of them noticing. It is not tamed. It is waiting, an option for later. "Clear." His shadows carry out everything the gate holds. They hold hands. Yuka: once they're back, they hide everything they did, and only talk about it when it's the two of them
+**Continuity state:** The last level, the next day. With both Mahoragas tamed, the gate's true guardian rises out of the white plain: a giant of white stone that unmakes what touches it, the gate's own lock. Before they fight, Mau teaches Yuka the wheel, the one thing he knows that she doesn't, because he has carried a piece of it all summer. It works two ways: Mahoraga takes the hit and your own wheel adapts, or you let him adapt. His advice: call him, let him take the blow without being destroyed (one piece left is enough), and dismiss him; then the wheels sync, and you put him away and use the others, or "my things, if we have a contract". Think about that every time before you call him. They do it. The guardian falls. Agito helps, as its own shadow. And Yuka feels something in her shadow that neither of them called: the black dog. The technique gives the two dogs together, and she had always had only the white; the black was hers all along, asleep behind a door that never opened. Through the contract, the Noise opened it without either of them noticing. It is not a new tame: it was always hers, and it wakes knowing her. "Clear." His shadows carry out everything the gate holds. They hold hands. Yuka: once they're back, they hide everything they did, and only talk about it when it's the two of them
 
 *When: Inside the gate, the last level, the next day. The round black hole in the colourless sky has closed. Something under the white stone has been moving all night.*
 
@@ -146,11 +146,17 @@ Something new.
 
 Small. Black. Curled up. Asleep.
 
-She had not called it. She had not tamed it. She had never seen it before. But she knew what it was the way she had known her white dog, a long time ago, before she ever subdued it: a shape at the bottom of the Ten Shadows, waiting.
+She had not called it. She had never seen it before. But she knew what it was at once, the way she had known her white dog the first day the technique woke in her: not a stranger. *Hers.*
 
 The other dog. The black one.
 
-"Oppa," she said. Very quietly. "Something's in my shadow. Something I didn't call."
+The technique gives them together. Everyone with the Ten Shadows starts with both: a white dog and a black, the pair, the first thing it hands you. Her grandmother had told her so, a long time ago, in a world where her grandmother was old. And Yuka had only ever had one. She had always thought something was wrong with her. That she had been given half.
+
+She had not been given half. The other had been there the whole time. Asleep, behind a door in her shadow that had never once opened.
+
+It was open now.
+
+"Oppa," she said. Very quietly. "Something's in my shadow. Something I've always had, and never had."
 
 He looked at her. Then down at her shadow on the white stone.
 
@@ -160,13 +166,15 @@ Down at the bottom of his walls, very faintly, he felt something that had said *
 
 "I think it came through the contract," he said slowly. "The thing in me. The one that watches. It was in the string the whole time." He looked at her. "It must have reached you. And left that."
 
-"It's not tamed."
+"It's mine," said Yuka. Her voice shook. "Not to tame. It was always mine. It was just asleep." She looked at him. "Something opened the door."
 
-"No." He looked at the small black shape in her shadow that only she could feel. "I think it's for later. When you're ready."
+He looked at the small black shape in her shadow that only she could feel.
+
+"Then wake it up when you want," he said. "It's been waiting long enough."
 
 She put her hand flat on the stone over it, gently, the way you put your hand on a sleeping animal.
 
-"Later," she said.
+Under her palm, in the dark, the black dog stirred, and lifted its head, and knew her.
 
 * * *
 
@@ -216,4 +224,4 @@ She held his hand very tightly, and they walked toward the light together, and b
 
 In his shadow, the old dragon said nothing.
 
-In hers, a small black dog slept, and waited.
+In hers, a small black dog lay curled beside a white one, awake now, for the first time.

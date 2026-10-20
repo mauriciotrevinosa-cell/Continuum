@@ -4,7 +4,7 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20)
 **Volume:** 33
 **Reading order:** 17
-**Continuity state:** Day 447, evening. Outside, the one hour became a day and a half. Yuta and Maki have not left the frame; Mai came out at dawn and stayed; Anko never took her eyes off the screen. The frame lights grey-white, and out of it comes a pack of shadows carrying a flood of crystals, guardians' bodies not yet raised, a bow of ice, everything. Then Mau and Yuka, hand in hand until the last step, talking about how they tamed the shikigami. Yuka sees her grandparents' faces and says they won't believe what they did, and before anyone can start the debrief she and Mau take them to the south field. There they do the routine they planned inside: each shikigami in turn. The dogs first, and Maki sees Yuka has two: the white one she called, and a black one that came up beside it on its own and sat down, sleepy, and won't take orders yet. Then one by one, nine each, side by side, to the second-to-last. The house thinks they have finished. Then both put their hands together, and two Mahoragas rise behind them, each with its own wheel. They look at each other, it worked, and laugh. The house stands in the south field and does not know what to say. Frieren is at the edge of it. End of the creator's skeleton
+**Continuity state:** Day 447, evening. Outside, the one hour became a day and a half. Yuta and Maki have not left the frame; Mai came out at dawn and stayed; Anko never took her eyes off the screen. The frame lights grey-white, and out of it comes a pack of shadows carrying a flood of crystals, guardians' bodies not yet raised, a bow of ice, everything. Then Mau and Yuka, hand in hand until the last step, talking about how they tamed the shikigami. Yuka sees her grandparents' faces and says they won't believe what they did, and before anyone can start the debrief she and Mau take them to the south field. There they do the routine they planned inside: each shikigami in turn. The dogs first, and Maki sees Yuka has two: the white and the black, the pair the technique always gives; the black was hers all along, asleep until the gate. Then one by one, nine each, side by side, to the second-to-last. The house thinks they have finished. Then both put their hands together, and two Mahoragas rise behind them, each with its own wheel. They look at each other, it worked, and laugh. The house stands in the south field and does not know what to say. Frieren is at the edge of it. End of the creator's skeleton
 
 *When: Day 447, evening. A day and a half since Anko wrote "One hour. (He said.)" on the board. The paper lanterns have been taken down from the long room. Nobody has eaten properly since yesterday.*
 
@@ -130,13 +130,11 @@ Out of Yuka's came her white dog. Clean and pale and close at her side, the way 
 
 And then, beside the white dog, out of Yuka's shadow, something else.
 
-Black. Smaller than Ear. Clean-edged, like the white one. It came up out of her shadow slowly, the way something comes up when it has not been called and is only curious, and it looked round at the south field, and at all the people, and at the white dog, and yawned.
-
-Then it sat down in the frost beside the white dog, and did not do anything else.
+Black. Smaller than Ear. Clean-edged, like the white one. It came up out of her shadow at the same moment as the white, side by side, the pair, and sat down in the frost at her other side, and looked up at her the way the white one always had.
 
 "Yuka," said Maki. Very strangely. "Yuka. You've got *two*."
 
-"I know," said Yuka. "He's not mine yet. He just came to see." She looked down at the black dog. It looked back at her, sleepily, and did not move. "Later."
+"I always had two," said Yuka. She put her hand on the black dog's head. It leaned into it. "The technique gives you both. I only ever had one, and I thought I'd been given half." She looked at her grandmother. "He was asleep. Something opened the door."
 
 Maki stared at her.
 
@@ -160,7 +158,7 @@ Agito. Two of them, armoured, too many arms, each its own, side by side in the d
 
 Nine. Each. Side by side.
 
-Then Yuka and Mau lowered their hands, at the same moment, and every shadow on the south field went down into the frost, and the field was empty again except for the two of them, and the white dog, and the black one still sitting beside it, yawning.
+Then Yuka and Mau lowered their hands, at the same moment, and every shadow on the south field went down into the frost, and the field was empty again except for the two of them.
 
 * * *
 

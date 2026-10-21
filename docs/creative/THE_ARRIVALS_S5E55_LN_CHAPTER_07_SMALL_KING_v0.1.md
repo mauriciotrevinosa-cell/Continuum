@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 31
 ## Chapter 20 — Small King
 
-**Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18; rewritten for DH-124)
+**Status:** LN PRODUCTION DRAFT — S5 v0.1 (Claude, 2026-10-18; rewritten for DH-124; Ciel threshold revision DH-132, 2026-10-20)
 **Volume:** 31
 **Reading order:** 20
-**Continuity state:** Day 378, mostly from the screen. Gojo, Frieren and Yuta are thrown out of the frame onto the dry ground, and the frame shows only "Trial in progress. Operator only." Nobody can go in. Gojo's eyes cannot see through, Yuta cuts at the frame, Frieren stands at it and does not move. Rimuru feels a pressure down Ciel's thread that he last felt in a cave, and knows it: the True Dragon scale the Noise built from his memory in the containment. Forty minutes later the frame opens ("Party size restored"). They run in and find Mau on the black stone in a pool of blood, curled inside the shadow of Kamish, which lifts its head and guards him until Frieren steps forward. Kamish speaks first: "He is alive. Barely." Then "small king… not small"; he said her name in his sleep; it keeps watch until they came. Yuta heals what he can; Gojo carries him home. Nobody knows who changed the party size. Level 72 (one hundred and fourteen unspent). Nine registered shadows, four of them in pieces (Lantern, Igris, Beru, Kaisel). DH-125: at the screen Gojo tells Anko what they saw (the first breath nearly broke two spaces, and Kamish was holding back for four); finding him, Frieren holds the sound in her teeth, Yuta says no-no-no, Gojo's hands won't stop shaking ("We barely held its first breath. Four of us. He held the real one. Alone."). The yard sees him carried like a child; Momo, Himmel, Kaneki; Maki on her knees by the frame; Touka holds Ori, who counts his breaths. Shoko works six hours; Fern makes the house eat; "He's alive"; Frieren goes in without crying; Shoko breaks on the step and Gojo sits beside her
+**Continuity state:** Day 378, mostly from the screen. Gojo, Frieren and Yuta are thrown out of the frame onto the dry ground, and the frame shows only "Trial in progress. Operator only." Nobody can go in. Gojo's eyes cannot see through, Yuta cuts at the frame, Frieren stands at it and does not move. Rimuru feels a pressure down Ciel's thread that he last felt in a cave, and knows it: the True Dragon scale the Noise built from his memory in the containment. Forty minutes later the frame opens ("Party size restored"). They run in and find Mau on the black stone in a pool of blood, curled inside the shadow of Kamish, which lifts its head and guards him until Frieren steps forward. Kamish speaks first: "He is alive. Barely." Then "small king… not small"; he said her name in his sleep; it keeps watch until they came. Yuta heals what he can; Gojo carries him home. Nobody knows who changed the party size. Level 72 (one hundred and fourteen unspent). Nine registered shadows, four of them in pieces (Lantern, Igris, Beru, Kaisel). DH-125: at the screen Gojo tells Anko what they saw (the first breath nearly broke two spaces, and Kamish was holding back for four); finding him, Frieren holds the sound in her teeth, Yuta says no-no-no, Gojo's hands won't stop shaking ("We barely held its first breath. Four of us. He held the real one. Alone."). The yard sees him carried like a child; Momo, Himmel, Kaneki; Maki on her knees by the frame; Touka holds Ori, who counts his breaths. Shoko works six hours; Fern makes the house eat; "He's alive"; Frieren goes in without crying; Shoko breaks on the step and Gojo sits beside her. DH-132: immediately when Rimuru crosses the reopened frame, Ciel cries his name and breaks down privately, asking why they left Mau; she already knows the others were forced out and the frame was sealed. She contrasts the pain/cold protections of Rimuru's skills with hearing and accompanying Mau's breaking, hurting body, something she has experienced since Mau, not first today. They keep moving to rescue him. No audible Ciel voice, new body or new link is created. The later scale report matches the actual forty-second count.
 
 *When: Day 378, the screen. The middle of the morning. Anko is at the board with the pencil behind her ear. Rimuru is on the bench, because he always sits on the bench now when Mau is in the tower. Across the yard, Taihei is washing up after the four o'clock breakfast.*
 
@@ -144,7 +144,51 @@ The frame opened.
 
 Frieren was through it before the dark had finished becoming a door.
 
-Gojo after her. Yuta. Rimuru, last, on legs that did not want to hold him. Up the stair from sixty-nine, the long straight stone stair between two walls, and the walls were not warm any more. They were cold. The heat had gone out of everything.
+Gojo after her. Yuta.
+
+Rimuru crossed last, on legs that did not want to hold him.
+
+*Rimuru!*
+
+His foot had barely come down on the other side.
+
+He had been hearing pieces of her through the thin thread outside. Counts. Warnings that broke off. Enough to know she was there, not enough to reach the place she was trying to hold together. This was his name, whole, and it hit so hard he caught the wall.
+
+*Where were you? Why did you go? You left him. All of you. He was in here and you left him—*
+
+*They threw them out. The frame wouldn't let us back in.*
+
+*I know.* Her voice broke on it. *I know. I was there. I know they didn't choose it.*
+
+He kept moving. The other three were already on the long stair from sixty-nine.
+
+*With you, I never had to hear bones breaking like that,* she said. *Your skills kept the pain out. The cold. There was damage, and there were things I could do about damage. I didn't have to stay inside every part of it with you.*
+
+She tried to continue. Could not.
+
+*With him I can hear it. I can feel how cold he's getting. The pain doesn't stop because I know what it is. His ribs break and he has to breathe with them. I tell him to breathe and it hurts him, and he does it because I asked.*
+
+Rimuru missed a step. Caught himself. Went on.
+
+*He asked me if he was dying.*
+
+That came out smaller than his name had.
+
+*I couldn't tell him no. Rimuru, I couldn't—*
+
+He had no hand to put over hers. No shoulder to hold. Only the thread, and the cold stone under his feet, and the people ahead of him climbing as fast as they could.
+
+*I couldn't get in,* he said. *I kept trying. I'm here now. Keep talking to me.*
+
+*I know you tried.* She was crying. The words kept catching. *I know. I just needed somebody to come. I couldn't make him stop hurting. I couldn't do it on my own.*
+
+*You don't have to now.*
+
+He could not promise her anything larger. He climbed.
+
+*Please hurry,* said Ciel.
+
+The walls beside the stair were not warm any more. They were cold. The heat had gone out of everything.
 
 The doorway at the top was there again. Wide. Tall. No door.
 
@@ -258,11 +302,11 @@ Rimuru stood at the edge of the red with his arms round himself.
 
 *Ciel,* he said.
 
-*He's alive,* said Ciel. In both of them. Her voice was raw. *I held the walls. I shoved them up behind it. It's down. It's folded. It's—Rimuru, it was so big. It was so much bigger than the cave. He let it out for twenty seconds and it nearly—*
+*He's alive,* said Ciel. In both of them. Her voice was raw. *I held the walls. I shoved them up behind it. It's down. It's folded. It's—Rimuru, it was so big. It was so much bigger than the cave. He let it out for forty seconds and it nearly—*
 
 *I know,* said Rimuru. *I felt it.*
 
-*He made it stop. At twenty. When I said.* A pause. *And then he stayed awake to raise the dragon. Because he didn't want to leave it alone in here.*
+*He made it stop. At forty. When I said.* A pause. *And then he stayed awake to raise the dragon. Because he didn't want to leave it alone in here.*
 
 Rimuru did not say anything. He looked at the vast dark shape coiled on the stone, with its wing lifted over the people kneeling in the red.
 

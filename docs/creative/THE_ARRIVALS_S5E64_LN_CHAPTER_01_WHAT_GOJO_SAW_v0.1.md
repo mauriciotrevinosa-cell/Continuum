@@ -84,7 +84,7 @@ He was still grey. Not the deep grey of the back step last night, with the threa
 
 Mau looked at him.
 
-"Down the thread. I was holding the walls. Everything I had was going down to you. And then something came the other way." Rimuru looked at his own hands. "Not at me. Past me. Into you. Like someone putting a stone in a well." He was quiet. "Ciel screamed. I've never heard her do that."
+"Down the thread. I was holding the walls. Everything I had was going down to you. And then something came the other way." Rimuru looked at his own hands. "Not at me. Past me. Into you. Like someone putting a stone in a well." He was quiet. "Ciel screamed. I'd heard her cry out before. Not like that."
 
 *I didn't scream,* said Ciel.
 

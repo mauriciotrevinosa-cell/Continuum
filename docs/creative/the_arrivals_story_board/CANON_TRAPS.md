@@ -435,7 +435,7 @@ not on this list. Add a line every time the creator catches a new slip.
 
 - **Companions may assist, never carry.** Mau finishes every guardian from 10 on. Before the north road (Day 328) the companions led floors 1–9; that is intended.
 - **There is no Warden.** Floor 60 is **Tusk** (speaking caster, "Great one"). The 101 statue for 60 holds a skull-staff, not keys.
-- **Kamish was fought ALONE** (party size 1, set by the Architect; he admits it at 101). Gojo, Frieren and Yuta were ejected. Mau used the **True Dragon scale** (a pressure-body round him, from the containment's memory of Rimuru's cave) for about 20 seconds; it nearly killed him. Kamish was raised before anyone returned. Kamish calls Frieren "the elf" who stood beside him, not "the one who went through the inside".
+- **Kamish was fought ALONE** (party size 1, set by the Architect; he admits it at 101). Gojo, Frieren and Yuta were ejected. Mau used the **True Dragon scale** (a pressure-body round him, from the containment's memory of Rimuru's cave) for forty seconds on Ciel's count; it nearly killed him. Kamish was raised before anyone returned. Kamish calls Frieren "the elf" who stood beside him, not "the one who went through the inside".
 - **Legion:** soldier-rank shadows take no named places (floor 80 change). 100 raised of 212. Ninety-eight after 101.
 - **Floor 100 is a Ruler copy guarding the garden.** Not extractable. The **Ruler's Authority** fragment is rough and unused, distinct from Momo's psychokinesis and from the Noise's patterns. Don't use it casually in S6 without cost.
 - **At 101 the Architect suspended the Operator interface.** The Noise rebuilt the line (it is "the Noise's now"). The interface outages and the Noise's own line connect to DH-122's integration outlines; keep that cause and effect.
@@ -450,3 +450,11 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Aftermath must be felt (creator, 2026-10-19):** after any severe injury, the following days show the body and the house reacting (sling, wrappings, someone cutting his bread or holding his cup, Shoko's "not fine, but go"). Never "nothing happened" the next day. Fixed: Tank→Day 354 (sling), Beru→Days 362–368 (wrapped hands, cup held by Touka, the house watching him, new skin tearing on Kaisel), spear at 80→Day 386 (stitched side, Shoko "two floors", Maki).
 
 - **Shadows peeking (creator, 2026-10-20):** from floor 50 (V30 "So It Can Keep Flying") the speaking shadows (Beru, Igris, Kamish, Bellion, Tusk) can look out of Mau's shadow and talk without being called. They cannot come out unless he calls. Beru insists he is "the strongest".
+
+## Ciel at the reopened Kamish threshold — DH-132
+
+- On Day378, Ciel cries **Rimuru's name as he crosses the reopened frame**, before the return party reaches Mau on70. The weakened thread already existed during the fight; this is an emotional break when help finally comes, not a first reconnection or a new ability.
+- Her "why did you leave him" is panic. She explicitly knows Gojo/Frieren/Yuta were ejected and Rimuru could not enter the sealed frame. Nobody voluntarily abandoned Mau. Rescue keeps moving during the inward exchange.
+- Rimuru hears this privately. Others do not hear Ciel's voice in the air or gain her inner account automatically. She has no external crying body. Her experience through Mau's vulnerable body includes his pain, cold and breaking bones, unlike the protection she was used to from Rimuru's skills. This does not grant Mau those protections or give Rimuru automatic access to all Mau's sensations.
+- Ciel had already cried with Mau before this, including Beru. Do not call Day378 her first tears or her first experience of Mau's pain. The later second-heart outcry is a different sound, not the first time Rimuru ever heard her cry out.
+- The manifested scale reaches **forty seconds**, not twenty; Two Dragons and The Cave agree. The forty-minute exterior wait and six-hour treatment remain separate clocks.

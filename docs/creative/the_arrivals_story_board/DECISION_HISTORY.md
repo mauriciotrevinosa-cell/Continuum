@@ -1988,3 +1988,9 @@ Creator: "yo diria que beru no permita asisitir el chiste de esa pelea es que ma
 - Breakfast: Nazuna scolded; Mau holds Frieren's hand, quiet, unable to tell anyone.
 - Open: who keeps the truth (Ciel, Rimuru, the shadows, Daphne); how the secret leaks to cause the split.
 
+
+## DH-132 — Ciel breaks when Rimuru crosses back after Kamish (creator,2026-10-20)
+
+The creator places the cry at the exact reopening/return after the fight, not during the battle or after everyone reaches Mau. Ciel cries Rimuru's name, reproaches their absence from fear, and explains what accompanying a vulnerable body means: pain, cold and the sound of breaking bones that Rimuru's skills had protected her from experiencing in this way. She knows the expulsion was forced. [Complete request, application and continuity checks](S5_KAMISH_CIEL_THRESHOLD_REACTION_CREATOR_REVISION_2026-10-20.md).
+
+Small King now contains the private threshold exchange without stopping the rescue. What Gojo Saw qualifies its later "never heard" line; the local scale report and Canon Traps use forty seconds to match the actual fight. The Cave remains unchanged after review: Rimuru's fear/grief and Ciel's later report already fit. No public Ciel voice, new protection for Mau, voluntary abandonment, new outcome or change to the S6 plot.

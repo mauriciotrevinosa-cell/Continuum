@@ -62,7 +62,7 @@ They talked.
 
 She got back into bed and lay on her side facing the window, facing him, with the blanket pulled up to her chin. He lay on his back on the floor with his hands behind his head and looked at the ceiling. The window was a square of stars. Neither of them lit a lamp.
 
-He talked about the beach. The sea. The fish. The old woman at the stall who had winked at him and he did not know why. He talked about the army, the bell, the man with blades for arms who had grown them back and back, Igris saying *good, then I will not run out*. He laughed. He said Umaru was going to audit the receipt book and find *fish, two, very good* and send him to Ministry jail.
+He talked about the beach. The sea. The fish. The old woman at the stall who had winked at him and he did not know why. Yuka lay with her hand under the edge of the blanket, turning the little flower on its cord. The waves had shone round their ankles. She had said they should come back. They had come back, and he was here on her floor, and she did not know where to put that thought. He talked about the army, the bell, the man with blades for arms who had grown them back and back, Igris saying *good, then I will not run out*. He laughed. He said Umaru was going to audit the receipt book and find *fish, two, very good* and send him to Ministry jail.
 
 She laughed too.
 
@@ -130,7 +130,7 @@ She lay there.
 
 Very close. Not touching. She could feel the warmth coming off his shoulder through the cold air between them. She could hear both hearts if she held her breath.
 
-And something in her chest that she had kept very small and very quiet for a long time, so long she had almost stopped knowing it was there, sat up.
+And the thing she had tried to quiet on the beach, with the shining water round her ankles, stirred again.
 
 She felt it. Her heart going. Too fast. In the dark, a hand's breadth from him, with his face turned a little toward her in sleep, the scars from the shrine silver on his cheek in the starlight.
 

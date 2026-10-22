@@ -18,7 +18,7 @@ The sky was full of stars.
 
 They were not the house's stars. *The Party* was not there, or *The Hundred and First*, or the one Umaru had written on the back of an invitation card. But they were stars, real-looking, close and cold and very many, the first sky inside the gate that had looked like a sky at all.
 
-Yuka lay on her back on the blankets and looked at them.
+Yuka lay on her back on the blankets and looked at them. The little lotus rested against her wrist inside her cuff. She had kept wearing it.
 
 She had sat closer to him tonight than she meant to. She had not decided to. She had sat down after the meal, the way she always did, and somewhere in the evening she had ended up with her shoulder against his, and had not moved.
 
@@ -34,7 +34,7 @@ He turned his head and looked at her.
 
 She looked back.
 
-The stars were in his eyes. The scars from the shrine were silver on his cheek. He was looking at her the way he had looked at her at the sea, at sunset, with the cookie in his hand, and she knew what that look was now, and she knew she should look away.
+The stars were in his eyes. The scars from the shrine were silver on his cheek. He was looking at her the way he had at the sea, when the water shone and she had turned inside his arms, and she knew what that look was now, and she knew she should look away.
 
 She did not look away.
 

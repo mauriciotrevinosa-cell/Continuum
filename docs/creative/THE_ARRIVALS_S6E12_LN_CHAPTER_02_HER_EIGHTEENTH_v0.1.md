@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 33
 ## Chapter 6 — Her Eighteenth
 
-**Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20)
+**Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20; birthday revision DH-133, 2026-10-21)
 **Volume:** 33
 **Reading order:** 6
-**Continuity state:** Day 443, Yuka's eighteenth birthday. Breakfast is the house's: lanterns, Momo's cake at breakfast because Yuka asked for it there, gifts, her grandparents. Then the Day on Fern's page. Before Yuka can say anything, Mau picks her up and flies, properly, easily, something he could never do well before; his changed memory has made some things better and some worse. "Where do you want to go?" Without thinking: "The beach." He takes her south until the air is warm. They buy swimsuits at a coast-town market with coins from the house purse, wade in a sea that is just a sea, build a lopsided fort out of sand, eat grilled fish on a sea wall, and at sunset share the two cookies, his and the one she saved. It is a date nobody calls a date. Yuka spends the whole day red and happy and frightened, in that order and all at once. He brings her home after dark. Yuta and Maki are waiting at the lime and tear into him for not telling anyone where he was taking her. Frieren, at the long-room window, watches them land
+**Continuity state:** Day443, Yuka's eighteenth. Shared breakfast/gifts precede the already approved Day. Mau takes her on Kaisel, both outbound and home; this outing no longer establishes mastered personal flight. Coastal market, paid swimsuits and a modest personal cord bracelet with a mirrored-lotus charm, separate from the System band. In Frieren's world the flower means eternal love; Mau and Yuka do not know this meaning. Beach play, fish and both saved cookies remain. After sunset, Mau reproduces the familiar blue-green sea-shining pattern without remembering Frieren or Night Tide. He embraces Yuka from behind at the waist; she turns, they nearly kiss, and she stops before contact to return because they have been gone all day without saying where or when. He immediately respects the stop. Kaisel carries them home after dark; grandparents' reprimand and Frieren's window scene persist. No public Ciel advice, memory restoration, magical vow or changed endgame.
 
 *When: Day 443. Yuka's eighteenth. Frost at dawn, then a clear cold day. The paper lanterns crooked across the long-room beams. On the first wall section, Umaru's sheet: EIGHTEEN.*
 
@@ -36,31 +36,61 @@ She did not get to say any of it.
 
 "Ready?" said Mau.
 
-And before she could answer, he picked her up.
+She looked at him, then at the people pretending not to look at them.
+
+"Yes."
+
+He took her hand and led her out through the kitchen door.
 
 * * *
 
-Not the way you pick up a child. Not over the shoulder like a sack of flour, the way Stark carried Fern when she fell asleep at the table. He scooped her up the way you would pick up somebody you did not want to drop, with one arm behind her shoulders and one under her knees, and she made a sound she would be embarrassed about for weeks, and the long room laughed, and Mau walked out through the kitchen door into the cold bright yard with her in his arms and stepped off the ground.
+Kaisel came up out of Mau's shadow in the clear part of the yard, away from the washing and the benches. First the narrow head, then the folded wings, then the long dark body settling on the frost. He lowered one shoulder.
 
-He flew.
+Yuka stopped.
 
-Not floated. Not the small careful hover he had managed in the yard all summer, the one Ciel had said would let go of him if he wasn't careful. *Flew.* Straight up, easily, the way Milim went up, the way Frieren came down out of the sky, as if the air had been waiting for him to ask. The yard dropped away. The house. The lime line, white, round all of it. The north field and the ridge with Kamish lying along it, who lifted his head and watched them go up.
+"Really?"
 
-Yuka was holding on to his coat with both hands.
+Mau looked back at her. "Unless you'd rather walk."
 
-"*Oppa*—"
+"Where?"
 
-"I've got you," said Mau. He was laughing. "I've got you. Look."
+"I thought you could choose when we could see more of it."
 
-She looked.
+She was still looking at the wyvern when Mau bent and picked her up. One arm behind her shoulders, one under her knees, a short lift to the place between the wing roots. She caught his coat, made a sound she would be embarrassed about for weeks, and heard Milim laugh from the kitchen door.
 
-The whole country lay under them, frost-bright in the morning sun. The river, silver. The woods, still lying in their long pale rows to the north. The hills. Further than she had ever seen. Further than anyone in the house had seen in a year.
+Mau waited until she had a good hold before climbing up behind her.
 
-"When did you learn to do this?" she said.
+There was no saddle. There was a broad place where the dark scales met, and his coat against her back, and Kaisel turning his head to look at them both.
 
-He thought about it.
+"All right?" Mau asked.
 
-"I don't know," he said. "I just can. Can't I?" He looked down at her. "Where do you want to go?"
+She nodded too quickly.
+
+"Hold here."
+
+He showed her the firm ridge in front of her. His good hand stayed beside hers until she had found it. Then he asked Kaisel to take them up slowly.
+
+The wings opened.
+
+Cold air moved across the yard. The hanging cloth stirred. Yuka heard someone call after them and turned her head, but the first beat of the wings took the words away.
+
+The house dropped below her feet.
+
+Not far, at first. Just above the beams, then the roof, then the lime line, white round all of it. Kamish lifted his head from the ridge and watched them rise. Kaisel banked, and the river turned silver beneath them.
+
+Yuka pressed back against Mau without deciding to.
+
+"I've got you," he said.
+
+He was laughing, softly, at the way she had shut her eyes. Not at her fear. At being here with her, with the day still ahead.
+
+She opened them.
+
+The whole country lay under them, frost-bright in the morning sun. The river. The woods. The low hills with the pale light caught along their tops. She could see the bend and the next bend beyond it, farther than she had ever been able to follow from the ground.
+
+Mau leaned a little so she could hear him above the wind.
+
+"Where do you want to go?"
 
 She did not think.
 
@@ -68,29 +98,57 @@ She did not think.
 
 * * *
 
-He took her south.
+He asked Kaisel to take them south.
 
-He did not know the way. Neither did she. They flew south because it was away from the frost, with the sun on their right, over the river and past it, over country nobody in the house had ever been to, hills and farms and a town with smoke going up, and after an hour the frost was gone from the fields below, and after two the air on Yuka's face was not cold any more, and the light had changed, and there was a smell she did not know, salt and wet and wide.
+The wyvern turned over the river and followed it out between the hills. Neither rider knew the coast well enough to choose a direct route. They looked for the widening water, for the land opening out, for the first sign of the sea.
+
+After an hour the frost was gone from the fields below. They stopped on an empty rise where Mau could take out the bottle without asking Yuka to let go in the air. She climbed down on unsteady legs and denied that they were unsteady.
+
+"Of course," said Mau.
+
+"They aren't."
+
+"Then we can get straight back on."
+
+She took another drink first.
+
+When Kaisel lifted them again, she kept her eyes open.
+
+By the time the second hour had passed, the air on her face was no longer cold. The light had changed. There was a smell she did not know, salt and wet and wide.
 
 Then the land stopped.
 
-The sea. Blue all the way to the edge of the world, and white where it came up on a long pale curve of sand, and warm, the air above it warm, the way the yard was warm in summer.
+The sea. Blue all the way to the edge of the world, white where it came up on a long pale curve of sand. Boats near a small town at one end of it. Beyond them, a stretch of empty shore.
 
-Yuka stopped holding on to his coat so hard.
+Yuka loosened her hold on the ridge.
 
-"*Oh*," she said.
+"Oh," she said.
 
-* * *
+Mau asked Kaisel to land beyond the boats, where there was room for the wings and nobody underneath them.
 
-There was a town at the end of the beach, small, with boats pulled up on the sand and a market along the sea wall. People stared when they came down. Mau did not seem to notice. He set her on her feet on the sand, and she stood there with her shoes full of it and her coat much too warm and her face red from the wind and something else.
+He helped her down. Her shoes filled with sand at once. Kaisel folded his wings, lowered his head when she thanked him, and went back into Mau's shadow before they walked toward the town.
 
-"We can't swim in this," she said. Looking down at her coat.
+Yuka looked behind them twice. The long tracks stopped where the dark had gone down.
+
+"He'll bring us back?"
+
+"When you're ready."
+
+She looked at the water. At her coat, which was much too warm now. At the market along the sea wall.
+
+"We can't swim in this."
 
 "Market," said Mau.
 
 He had the house purse. Umaru had given it to him at breakfast, with a receipt book and a pencil and instructions, *for the Day*, *receipts for everything*, *the Ministry will audit*. He bought two swimsuits from an old woman at a stall who looked at the coins and then at them and then at the coins again, and gave Yuka hers in a paper parcel without a word, and gave Mau his with a wink.
 
 Yuka went red again.
+
+While she waited for the old woman to find somewhere she could change, Mau stopped at the next stall. A shallow tray of hair ties, cords and small ornaments lay under a piece of glass. He looked once toward Yuka, then bent over the tray.
+
+She could not see what he chose. By the time she had the key to the empty fisherman's hut, he had put a folded paper packet in his coat.
+
+He wrote another line in Umaru's book and showed the seller the amount before paying. It came out of what Umaru had set aside for the day, not the money marked for the house's supplies. He put the change back carefully.
 
 She changed in a fisherman's hut that the old woman pointed to. When she came out, Mau was already in the water up to his knees, with his shirt off and the scars on his back and arms silver in the sun, the thin lines from the shrine all over him, and his burned hands, and the two fingers that would not close. He did not seem to think about any of it. He turned round and waved at her.
 
@@ -115,6 +173,44 @@ They waded. The sea was just a sea. It did not have anything in it. It came in a
 They built a fort out of sand. It was lopsided. Mau said it was because the sand was wrong. Yuka said it was because he could not build anything straight, ever, and he said that was not true, and she said *the north roof*, and he said *what about the north roof?* and looked genuinely confused, and she remembered, and said *nothing*, and helped him put a shell on top as a flag.
 
 They ate grilled fish on the sea wall with their legs hanging over, out of a paper cone, with their fingers. Mau wrote it in Umaru's receipt book, very seriously. *Fish. Two. Very good.*
+
+Before they left the sea wall, Mau took the small packet out of his coat.
+
+"This one can be now."
+
+"There's more than one?"
+
+"It's your birthday."
+
+He unfolded the paper between them.
+
+A bracelet. A simple dark braided cord with a small pale-metal flower at its centre. Not the band that showed her the System's fields. Nothing lit when she touched this one. The little flower lay cool against her fingertip.
+
+A mirrored lotus.
+
+He had liked the shape. He had not asked what it meant, and the seller had only wrapped it and given him the price. Yuka did not know the name of it either.
+
+"I thought of you," he said. Then, looking at the cord: "I hope it fits."
+
+She held out her wrist.
+
+He tried the fastening, caught it badly between the fingers that would not close, and stopped before the little flower could fall. Yuka held the cord steady for him. He used his right hand to draw the loop through and checked that it was not too tight.
+
+It fitted on her other wrist. The band she wore for the System stayed where it was.
+
+"There."
+
+She turned her hand. The flower moved against her skin.
+
+"Thank you," she said.
+
+It was not enough for how she wanted to say it. She tried smiling at him instead, and he smiled back as if he understood everything she had failed to put into the two words.
+
+In Frieren's world, the mirrored lotus meant eternal love.
+
+Neither of them knew. Mau was still looking at the fastening, making sure the knot lay flat.
+
+She put the empty paper inside her coat rather than leaving it on the wall.
 
 Nobody looked at the map. Nobody turned a soldier's page. Nobody asked him anything. Nobody asked her anything. There was nothing to watch for. There was just the sea and the sand and the fish and him beside her on the wall, laughing.
 
@@ -156,17 +252,119 @@ She came very close.
 
 * * *
 
-He brought her home after dark.
+They took their shoes off again before leaving.
 
-The stars were out by the time they came over the river. The cold came back. She held on to his coat again. Below them, the lime line came up out of the dark, white, round the house, and the long-room windows were lit, and the paper lanterns in them, crooked, and in the yard by the lime, two figures, standing in the frost, waiting.
+Yuka wanted the sand out. That was what she said, and Mau sat beside her to empty his own, and when she went down to let the next wave wash her feet, he followed.
 
-He came down in front of them and set Yuka on her feet.
+The sun was gone. The first cool edge of the night moved over the water. Behind them the town was beginning to light its lamps.
+
+Mau stopped with the foam round his ankles.
+
+"Wait."
+
+She turned toward him.
+
+He was looking at his hand. He held it above the water, palm down, then changed the angle a little, as if some part of him knew how it ought to sit even though he had not decided what to do with it.
+
+A small patch of sea lit beneath his fingers.
+
+Blue-green. Soft. Close enough that Yuka could see the little folds in the surface without the light hurting her eyes. It ran outward along the breaking wave, curled round her ankles, and went away again, leaving sparks in the wet sand.
+
+Another wave came in shining.
+
+She forgot the shoes in her hand.
+
+"Oppa."
+
+He was watching the light too. There was pleasure in his face, and a slight surprise.
+
+"I thought I could do that."
+
+"When did you learn?"
+
+He considered it, then shook his head.
+
+"I don't remember learning it."
+
+The words took some of the warmth out of her. Only for a moment. He looked up at her then, pleased that it had worked, and she did not know how to ask a question that would not hurt him.
+
+The sea kept coming in. Each small wave carried the light a little farther down the beach. When it withdrew, the sparks in the sand went out one by one.
+
+Yuka stood facing the water.
+
+He came up behind her. Slowly enough that she knew he was there before his arm settled round her waist.
+
+She could have moved. She knew that afterward. There had been time to laugh, to turn it into something else, to put the shoes back on and say they should go.
+
+She stayed.
+
+His other hand came to rest over the first. Not tight. Just there, warm through the front of her shirt, with the water shining round their feet.
+
+She put her free hand over his wrist.
+
+The little metal flower touched one of his scars.
+
+For a while neither spoke. Yuka watched the light go out of a wave and gather in the next one. She could feel his breath near her hair. The day had narrowed to that and the hand she was holding and the sea moving against her ankles.
+
+She turned her head.
+
+Only to look at him. That was what she would tell herself later. One second, looking back to say something about how beautiful it was.
+
+He looked down at her. The smile had changed, become quieter. His arm was still round her waist. She turned a little farther inside it, and he leaned toward her.
+
+She knew what was going to happen before it happened.
+
+She wanted it to.
+
+"We should go back."
+
+The words came out quickly. Between them. Before their mouths could meet.
+
+Mau stopped.
+
+"Now?"
+
+She nodded. Her face felt hot in the cool air.
+
+"It's been all day. We didn't say where. Or when we'd be back. My grandparents are going to be furious."
+
+He glanced toward the town's lamps, as if noticing for the first time how many of them were lit.
+
+"I forgot."
+
+"I know."
+
+She had forgotten too. For whole stretches of the day. She had let herself forget.
+
+He loosened his arms at once and stepped back far enough for her to turn without brushing against him.
+
+"All right. Kaisel?"
+
+"Kaisel."
+
+She crouched to put her shoes on. It took two tries to find the opening of the first one. Mau waited beside her, holding his own, and did not ask her to explain anything else.
+
+By the time they had walked beyond the boats, the light was going out of the water. Kaisel rose from the sand-dark shadow at Mau's feet and lowered himself for them again.
+
+Yuka took the offered hand and climbed up.
+
+Mau settled behind her. This time she found the ridge without being shown.
+
+She did not look back until they were high enough for the lit waves to be a thin line under the wing.
+
+* * *
+
+Kaisel brought them home after dark.
+
+The stars were out when the river came into view. The cold came back. Yuka tucked her hands into her sleeves, the little lotus warm against her wrist, and leaned back against Mau as the wyvern banked toward home. Below them, the lime line came up out of the dark, white, round the house, and the long-room windows were lit, and the paper lanterns in them, crooked, and in the yard by the lime, two figures, standing in the frost, waiting.
+
+Kaisel landed in the clear space inside the lime. Mau climbed down first and helped Yuka off the wyvern's back. Only when both were standing did Kaisel fold down into his shadow.
 
 "*Where,*" said Maki, "*were you?*"
 
 "The beach," said Mau. He was still smiling. "It was her birthday."
 
-"*We know it was her birthday,*" said Maki. "*Everyone* knows it was her birthday. You picked her up and *flew off* in front of sixty people and nobody knew where you were going or when you'd be back or if you were *coming* back—"
+"*We know it was her birthday,*" said Maki. "*Everyone* knows it was her birthday. You put her on Kaisel and *flew off* in front of sixty people and nobody knew where you were going or when you'd be back or if you were *coming* back—"
 
 "You didn't say," said Yuta. Very quietly. Which was worse. "Mau. You didn't say anything. Not one word. Not where. Not when." He looked at him. "You always say."
 

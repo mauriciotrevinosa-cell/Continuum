@@ -138,7 +138,7 @@ She had seen Daphne go up to him. She had seen the flicker in his face, even fro
 
 She knew what Daphne was. Everyone in the house knew what the witches were. She knew what *an hour, just to look* meant, and she knew that if the witch of gluttony looked inside him, she would find whatever had been done, and she would start to undo it.
 
-And the boy who had flown her to the sea yesterday, who had eaten the other half of his cookie with her at sunset, who had lain on her floor last night and told her *you'll be his sister, that's all*, would go back to being Frieren's.
+And the boy who had taken her to the sea on Kaisel two days before, who had eaten the other half of his cookie with her at sunset, who had lain on her floor last night and told her *you'll be his sister, that's all*, would go back to being Frieren's.
 
 And would not remember the sea.
 

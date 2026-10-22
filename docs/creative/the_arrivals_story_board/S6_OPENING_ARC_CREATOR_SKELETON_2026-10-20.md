@@ -60,6 +60,8 @@
 - Ori tries to greet him; he answers her as "Yuka's friend". He does recognise people from the house, because he lived with them, but no longer holds them the way he did.
 
 **6. Yuka's 18th birthday.**
+
+> **Later creator revision,2026-10-21, DH-133:** the flight capture below is historical. Use Kaisel for both journeys, not newly mastered personal flight. Add the paid mirrored-lotus bracelet (meaning unknown to Mau), Night Tide sea-light/waist-embrace mirror and Yuka stopping the almost kiss to return. [Full later request and application](S6_YUKA_BIRTHDAY_KAISEL_SEA_AND_LOTUS_CREATOR_REVISION_2026-10-21.md). Original captured direction remains below for provenance.
 - Her gift request to the house, made **before the war:** a day with her Oppa, sibling-style (like Frieren's day). Nobody objected. This is the first change.
 - A group celebration, then she goes with Mau.
 - **His changed memories changed his control:** some things got better, some worse. Flying now seems mastered. Before she can say anything he picks her up and flies off. She goes red.

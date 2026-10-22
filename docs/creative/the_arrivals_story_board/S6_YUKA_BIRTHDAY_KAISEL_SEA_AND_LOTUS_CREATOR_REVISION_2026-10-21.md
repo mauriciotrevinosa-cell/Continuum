@@ -1,10 +1,16 @@
 # Yuka's eighteenth — Kaisel, the shining sea and the mirrored lotus
 
-**Date:**2026-10-21. **Status:** creator-directed applied revision, production DRAFT. Stable chapter IDs and reading order. No new ending for the memory arc.
+**Date:**2026-10-21; creator intent clarified2026-10-22. **Status:** creator-directed applied revision, production DRAFT. Stable chapter IDs and reading order. No new ending for the memory arc.
 
 ## Creator request, verbatim
 
 > oye puedo pedir un favor cuando mau se lleva a yuka en s6 por su cumple se l lleva con kaisel o commo? yo digo que deberia ser con kaisel y podemos agregar un momento espejo a cuando frieren hizo lo de la magia  en el oceano y que lo haga con yuka que la abraze por la cintura mau mientras estan ahi yuka se voltea por un segundo se van a besar y yuka decide que se tienen que regresar pq maki y yuta se van a enojar que se fueron todo el dia y ya medio le haces retrospectiva y que mau en el mercado la haya conseguido algo una pulsera y con la flor que en frieren significa amor eterno pero mau no lo sabe
+
+## Creator clarification,2026-10-22 — verbatim
+
+> oye y que no sea que lo detiene pq no quiere sino lo voltea a ver por un buen segundo y antes que pase algo se acuerda qeu no avisaron a maki ni a yuta a donde fueron y que los van a matar
+
+This clarifies the emotional cause of the interruption. Yuka holds his gaze, wants the kiss and tips her face up as he leans toward her. The sudden thought of her grandparents and the missing destination/return-time notice interrupts them. Her "Oh, no" concerns that omission; she does not reject Mau. No completed birthday kiss is added. The room callback retains the unfinished feeling without claiming she was trying to suppress it at the beach. The later kiss, remorse and arc remain intact.
 
 ## Sources checked before writing
 
@@ -18,7 +24,7 @@ Breakfast/cake/grandparents' gifts, the approved Day, beach play/fish/saved cook
 
 Mau pays for a modest bracelet in the existing Day budget, with a receipt. The small pale-metal mirrored lotus is on a simple cord, worn on the other wrist from Yuka's System band. Mau chooses it because he thinks of Yuka and likes its shape. The narrator identifies the source-world meaning; neither buyer nor recipient knows it. It grants no status, buff, magical promise or marriage. Frieren/house are not made to see or interpret it from the distant window.
 
-After the sunset cookies, they walk into the shallows. The familiar sea-light pattern works without recovering Mau's autobiographical/emotional memory. He embraces Yuka at her waist from behind. She turns; both lean toward a kiss; **she stops before contact**, asking to go home because they failed to say where or when. He releases her immediately and calls Kaisel. Her wish and confusion are present; this is not a decision to exploit the theft or a completed kiss. The already-approved whole Day is not retroactively forbidden.
+After the sunset cookies, they walk into the shallows. The familiar sea-light pattern works without recovering Mau's autobiographical/emotional memory. He embraces Yuka at her waist from behind. She turns and holds his gaze; both want the kiss and lean toward each other. **The sudden thought of Maki/Yuta interrupts them before contact**: they failed to say where or when and "they are going to kill us". Her request to go home expresses that alarm, not rejection. He releases her immediately and calls Kaisel. Her wish and confusion are present; this is not a decision to exploit the theft or a completed kiss. The already-approved whole Day is not retroactively forbidden.
 
 ## Following scenes and knowledge
 

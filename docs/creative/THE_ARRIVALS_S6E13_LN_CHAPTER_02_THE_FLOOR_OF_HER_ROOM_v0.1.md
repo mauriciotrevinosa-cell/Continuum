@@ -130,7 +130,7 @@ She lay there.
 
 Very close. Not touching. She could feel the warmth coming off his shoulder through the cold air between them. She could hear both hearts if she held her breath.
 
-And the thing she had tried to quiet on the beach, with the shining water round her ankles, stirred again.
+And the feeling she had brought home from the beach, from the shining water round her ankles, stirred again.
 
 She felt it. Her heart going. Too fast. In the dark, a hand's breadth from him, with his face turned a little toward her in sleep, the scars from the shrine silver on his cheek in the starlight.
 

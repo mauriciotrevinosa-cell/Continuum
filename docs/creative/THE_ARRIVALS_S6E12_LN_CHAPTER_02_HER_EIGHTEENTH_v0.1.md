@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 33
 ## Chapter 6 — Her Eighteenth
 
-**Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20; birthday revision DH-133, 2026-10-21)
+**Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20; birthday revision DH-133, 2026-10-21; intent clarified 2026-10-22)
 **Volume:** 33
 **Reading order:** 6
-**Continuity state:** Day443, Yuka's eighteenth. Shared breakfast/gifts precede the already approved Day. Mau takes her on Kaisel, both outbound and home; this outing no longer establishes mastered personal flight. Coastal market, paid swimsuits and a modest personal cord bracelet with a mirrored-lotus charm, separate from the System band. In Frieren's world the flower means eternal love; Mau and Yuka do not know this meaning. Beach play, fish and both saved cookies remain. After sunset, Mau reproduces the familiar blue-green sea-shining pattern without remembering Frieren or Night Tide. He embraces Yuka from behind at the waist; she turns, they nearly kiss, and she stops before contact to return because they have been gone all day without saying where or when. He immediately respects the stop. Kaisel carries them home after dark; grandparents' reprimand and Frieren's window scene persist. No public Ciel advice, memory restoration, magical vow or changed endgame.
+**Continuity state:** Day443, Yuka's eighteenth. Shared breakfast/gifts precede the already approved Day. Mau takes her on Kaisel, both outbound and home; this outing no longer establishes mastered personal flight. Coastal market, paid swimsuits and a modest personal cord bracelet with a mirrored-lotus charm, separate from the System band. In Frieren's world the flower means eternal love; Mau and Yuka do not know this meaning. Beach play, fish and both saved cookies remain. After sunset, Mau reproduces the familiar blue-green sea-shining pattern without remembering Frieren or Night Tide. He embraces Yuka from behind at the waist; she turns and holds his gaze, both move toward a kiss, and the sudden memory that they never told Maki/Yuta where or when interrupts them before contact. She wants the kiss; the interruption is alarm about the missing notice, not rejection. He immediately respects the stop. Kaisel carries them home after dark; grandparents' reprimand and Frieren's window scene persist. No public Ciel advice, memory restoration, magical vow or changed endgame.
 
 *When: Day 443. Yuka's eighteenth. Frost at dawn, then a clear cold day. The paper lanterns crooked across the long-room beams. On the first wall section, Umaru's sheet: EIGHTEEN.*
 
@@ -294,9 +294,7 @@ Yuka stood facing the water.
 
 He came up behind her. Slowly enough that she knew he was there before his arm settled round her waist.
 
-She could have moved. She knew that afterward. There had been time to laugh, to turn it into something else, to put the shoes back on and say they should go.
-
-She stayed.
+She leaned back against him.
 
 His other hand came to rest over the first. Not tight. Just there, warm through the front of her shirt, with the water shining round their feet.
 
@@ -308,33 +306,39 @@ For a while neither spoke. Yuka watched the light go out of a wave and gather in
 
 She turned her head.
 
-Only to look at him. That was what she would tell herself later. One second, looking back to say something about how beautiful it was.
+He looked down at her. His smile had gone quiet. For a long second she only looked back, with his arm still round her waist and her hand over his wrist. Neither of them said anything.
 
-He looked down at her. The smile had changed, become quieter. His arm was still round her waist. She turned a little farther inside it, and he leaned toward her.
+She turned a little farther inside his arms. Her eyes dropped to his mouth, then came back to his.
 
-She knew what was going to happen before it happened.
+He leaned toward her. She tipped her face up to meet him.
 
-She wanted it to.
+Then she remembered.
+
+*Grandma. Grandpa.*
+
+Yuka's eyes widened.
+
+"Oh, no."
+
+Mau paused, still close. Their mouths had not met.
+
+"What?"
+
+"We didn't tell Grandma and Grandpa where we were going."
+
+He blinked at her.
+
+"Or when we'd be back." She looked past him at the town's lamps. "We've been gone all day. They're going to kill us."
+
+He looked at the lamps too.
+
+"Oh."
 
 "We should go back."
 
-The words came out quickly. Between them. Before their mouths could meet.
+"Yes," he said. "We should."
 
-Mau stopped.
-
-"Now?"
-
-She nodded. Her face felt hot in the cool air.
-
-"It's been all day. We didn't say where. Or when we'd be back. My grandparents are going to be furious."
-
-He glanced toward the town's lamps, as if noticing for the first time how many of them were lit.
-
-"I forgot."
-
-"I know."
-
-She had forgotten too. For whole stretches of the day. She had let herself forget.
+Her face was still hot. Until that moment, she had not thought about the time either.
 
 He loosened his arms at once and stepped back far enough for her to turn without brushing against him.
 

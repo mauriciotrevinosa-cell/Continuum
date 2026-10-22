@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 32
 ## Chapter 1 — What It Built
 
-**Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20)
+**Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20; known-authorship correction DH-134, 2026-10-22)
 **Volume:** 32
 **Reading order:** 1
-**Continuity state:** Day 411, the first morning after summer. Fern calls the debrief the house never had: at dinner on Day 397 Mau told it plainly (the Architect, the watching, "a gift", a second heart), but nobody had laid it all out. At the long table Mau tells everything the Architect said, word for word as best he can ("a vessel", "my monarch, who rests", "he left his door in you", "now you will grow"). Armin lays the floors out on his map and the house sees the shape: the Operator rule, party size one, the second it taught him not to wait, the pull that made him feel better the closer he got. The tower gave his trauma exactly what it wanted. Shoko says it out loud; Gojo says "it made you into me". Then Frieren asks the question nobody can answer: if a tower can be built to teach him, who built the Trial? The Goddess becomes a question. Nothing is decided
+**Continuity state:** Day 411, the first morning after summer. Fern calls the debrief the house never had: at dinner on Day 397 Mau told it plainly (the Architect, the watching, "a gift", a second heart), but nobody had laid it all out. At the long table Mau tells everything the Architect said, word for word as best he can ("a vessel", "my monarch, who rests", "he left his door in you", "now you will grow"). Armin lays the floors out on his map and the house sees the shape: the Operator rule, party size one, the second it taught him not to wait, the pull that made him feel better the closer he got. The tower gave his trauma exactly what it wanted. Shoko says it out loud; Gojo says "it made you into me". The Goddess's authorship of the earlier Trial is already known from S3/S4. Frieren returns to its unresolved intended lesson in light of what the Architect exploited; Mau recalls his earlier account and the coins remain a real reward. Fern records "What did the Goddess want Mau to learn?" No new authorship reveal, confirmed Goddess/Architect alliance or answer to divine intent.
 
 *When: Day 411. The first morning after summer, by Nazuna's count. Cold enough at dawn for Taihei to light the long-room stove. The tobacco in the barn is brown and not yet cured. Igris came in off the north end at first light and went down into Mau's shadow on the back step.*
 
@@ -120,21 +120,33 @@ He knew. Everyone at the table knew. He said it anyway.
 
 "In the Trial."
 
-"Four hundred and thirty-seven times," said Frieren. "Somebody died every time you waited. Until you stopped waiting." She looked at the map. "That's a lesson too. It's the same lesson. It's the *first* one." She lifted her eyes to his. "If a tower can be built to teach you something, Mau, who built the Trial?"
+"Four hundred and thirty-seven times," said Frieren. "Somebody died every time you waited. Until you stopped waiting." She looked at the map. "The Architect used that. He built the tower around it."
 
-Nobody answered.
+She lifted her eyes to his.
+
+"The Goddess made the Trial. We know that. What did she want you to learn?"
 
 Rimuru, on the bench, had gone very still. Ciel, inside Mau, did not say anything at all.
 
-"The Goddess," said Mau at last.
+"The coins," said Mau. "She said that was what it bought."
 
-"The Goddess," said Frieren. "Who gave you coins at the end of it. Who gave you a world to wake up in with no name in it. Who gave you coins so that other people could bring back the ones they'd lost." She did not raise her voice. "I'm not saying she did anything. I don't know. Nobody here knows anything about her except what she gave you." She paused. "I'm saying it's the same shape. And until today I never once thought to ask."
+"It did," said Frieren. "People are here because of them. I know." Her eyes went back to the floors on the map. "But why did the test work like that? Why was standing in front of everyone the only way you could keep them alive?"
+
+"I told you," he said quietly. "That night. I never knew what it was for. She never said."
+
+"I remember."
+
+She had been there. At the boundary, while the Goddess set the rules. At the table, when he finally told them what those rules had done to him. This was not something any of them had forgotten.
+
+"The Architect found a way to use it," said Rimuru. "That doesn't tell us she sent him. Or that they wanted the same thing."
+
+"No," said Frieren. "It doesn't." She looked at Mau again. "We know what she did. We know what she gave us afterward. I still want to know what she meant it to do to you."
 
 Mau looked down at his hands. At the scars. At the two fingers on the left that would not close.
 
-He had always thought of the Goddess as the end of the Trial. The door at the bottom of it. The reward.
+He had asked why before. He had told them he did not know. The coins had brought people home; that was real. So was the fear the Architect had found ready to use.
 
-He had never once thought of her as its author.
+He looked at the map again.
 
 * * *
 
@@ -142,7 +154,7 @@ Fern closed the ledger.
 
 She did not write the question down. She looked at the page for a long moment, at everything on it, and then she turned to the back of the book, to the very last page, where nothing had ever been written, and in her small exact hand, at the top, she wrote one line.
 
-*Who built the Trial? (Frieren. Day 411.) (Not answered.)*
+*What did the Goddess want Mau to learn? (Frieren. Day 411.) (Not answered.)*
 
 She closed the book.
 

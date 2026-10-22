@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 32
 ## Chapter 14 — A Really Good Cookie
 
-**Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20)
+**Status:** LN PRODUCTION DRAFT — S6 v0.1 (Claude, 2026-10-20; known-authorship correction DH-134, 2026-10-22)
 **Volume:** 32
 **Reading order:** 14
-**Continuity state:** Day 438, afternoon. The army forms up in the frosted fields east of the lime line: rank on rank of ordinary soldiers in front, behind them demons and devils and things with no names, and walking out ahead of all of it, a small group of otherworlders. Among them: a boy in a grey tracksuit with a small pale girl at his sleeve; a huge fair-haired man who grins; a man with a blade where his forearm should be; a woman with a crossbow; a woman who stands on the air. A hooded herald recites Mau's north-road message as the union retold it, without the condition and with the lie. Mau answers: "That's not what I said," and says the condition. The boy shouts for Rem and Ram; Mau tells him they are safe and not kept. The fair-haired man asks if he really thinks he can take all of them. Mau stretches; the wheel in his shadow turns once, waking. To the Noise: "You're going to have a lot of things after this, aren't you?" For the first time the Noise answers in a word, and it sounds pleased: "Maybe." Then another voice, a woman's, that he has heard once before: "How interesting." The Goddess. Mau bets her. Twenty thousand people listen to half a conversation. The stake is a cookie ("A really good cookie"); he makes it two. Her terms: "You are not allowed to kill nobody. And you need to help them afterward." "Deal."
+**Continuity state:** Day 438, afternoon. The army forms up in the frosted fields east of the lime line: rank on rank of ordinary soldiers in front, behind them demons and devils and things with no names, and walking out ahead of all of it, a small group of otherworlders. Among them: a boy in a grey tracksuit with a small pale girl at his sleeve; a huge fair-haired man who grins; a man with a blade where his forearm should be; a woman with a crossbow; a woman who stands on the air. A hooded herald recites Mau's north-road message as the union retold it, without the condition and with the lie. Mau answers: "That's not what I said," and says the condition. The boy shouts for Rem and Ram; Mau tells him they are safe and not kept. The fair-haired man asks if he really thinks he can take all of them. Mau stretches; the wheel in his shadow turns once, waking. To the Noise: "You're going to have a lot of things after this, aren't you?" For the first time the Noise answers in a word, and it sounds pleased: "Maybe." Then another voice, a woman's, that he recognises from repeated encounters: "How interesting." The Goddess. Mau bets her. Twenty thousand people listen to half a conversation. The stake is a cookie ("A really good cookie"); he makes it two. Her terms: "You are not allowed to kill nobody. And you need to help them afterward." "Deal."
 
 *When: Day 438, early afternoon. The sun low already, the way it is after summer. The east road. The dust coming over the last low hill.*
 
@@ -158,15 +158,15 @@ It was not Ciel. It was not the Noise.
 
 It was a woman's voice. Light. Amused. Coming from nowhere and everywhere, the way the herald's had carried, except that nobody in the field heard it but him.
 
-He had heard it once before.
+He knew that voice.
 
-At the end of the Trial. At the bottom of four hundred and thirty-seven deaths. When he had nothing left, not even his name, and a voice exactly like this one had spoken to him, and given him the coins.
+It had set the Trial's rules. It had offered Return and Stay. Later, on the bridge, it had given them the coins.
 
 The Goddess.
 
 He stood very still.
 
-He was afraid. He knew he was afraid; he could feel it in both hearts, the warm one going fast and the cold one half a step behind. *Who built the Trial?* Fern's last page. *Not answered.*
+He was afraid. He knew he was afraid; he could feel it in both hearts, the warm one going fast and the cold one half a step behind. *What did the Goddess want Mau to learn?* Fern's last page. *Not answered.*
 
 But he was also, somewhere under the fear, already thinking about what came next. About twenty thousand people and the promise he had made Rimuru. About the boy in grey who wanted to believe him.
 
@@ -204,7 +204,7 @@ The army heard him say it. The army heard *that's it, that's all*, to the sky, a
 
 "*A really good cookie,*" said the Goddess, sounding faintly offended.
 
-He was still laughing. Twenty thousand spears, and a goddess who might or might not have built the worst thing that ever happened to him, and she was offering him a cookie, and she was offended he had not been impressed.
+He was still laughing. Twenty thousand spears, and the goddess who had put him through the worst thing that ever happened to him, and she was offering him a cookie, and she was offended he had not been impressed.
 
 "Make it two," said Mau.
 

@@ -29,7 +29,7 @@
 
 **What makes it work:**
 - **The cost lands on him,** which is the series' grammar: he takes the scars so nobody else has to. Here it is the scar nobody can see.
-- **It answers Frieren's question** from Volume 32 ch1: "who built the Trial?". The Goddess offers a deal and says *this is going to be fun*. The second price is a hook into S7.
+- **Continuity correction, creator DH-134 (2026-10-22):** the earlier editorial "who built the Trial?" hook was invalid: the house already knows the Goddess made it. V32 ch1 now revisits what she wanted Mau to learn. This proposed deal may resonate with that concern about her methods and intentions; it is not proof of the Trial's purpose or a Goddess/Architect alliance. The proposed deal and its second-price hook remain as captured below/above; no additional revelation is approved here.
 - **It doesn't force an ending.** Mau loving two people, and deciding, stays open.
 
 **Things to settle before writing:**
@@ -58,4 +58,3 @@
 
 - **The shadows remember** after the Goddess's rewrite, because they are part of Mau. (Ciel still does not.) Mau has witnesses who know and can speak (they can peek and talk since floor 50); keeping them quiet is its own tension. Beru is the obvious risk.
 - **During the stolen-memory period,** Beru doesn't know what to call Yuka. His King looks at her like a queen, but the Queen (Frieren) exists. So he calls her **"little rope"**. Applied in One Hour, The Contract (the "little queen" slip, Igris's "Beru.", then "the little rope") and Two Wheels.
-

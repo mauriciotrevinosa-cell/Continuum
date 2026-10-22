@@ -30,7 +30,7 @@
 
 **1. Breather (short; don't stretch time).**
 - A debrief of what the Architect explained, and of the second heart.
-- One chapter: a day for Mau. The house understands he was tested again, through his trauma, with something pulling at him that gave his trauma what it wanted. Other things are exploiting him; the Goddess becomes a real question.
+- One chapter: a day for Mau. The house understands he was tested again, through his trauma, with something pulling at him that gave his trauma what it wanted. Other things are exploiting him. **Continuity clarification, DH-134 (2026-10-22):** the Goddess's authorship of the Trial is already known from S3/S4. The question concerns her unresolved intended lesson and what others have exploited, not discovering who made it; no alliance with the Architect is confirmed.
 
 **2. The overload (a couple of chapters).** It shows the house now adapts to emergencies and new unions.
 - A calm day of planning. Umaru asks about his page; he starts to explain and sees something syncing his CE and mana.
@@ -169,4 +169,3 @@
 - **Igris** does the same, but more respectfully.
 - **Kamish** is a wise old man.
 - (The altered Mau knows them as his shadows, and they know the real him. That makes them another quiet tell.)
-

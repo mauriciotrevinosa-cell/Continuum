@@ -2004,3 +2004,7 @@ The later room and gate scenes retain the physical gift/emotional carryover; Tsu
 ### DH-133 clarification — the interrupted kiss is wanted (creator,2026-10-22)
 
 Yuka holds Mau's gaze for a long second and both lean toward a kiss. What interrupts them is her sudden memory that they never told Maki/Yuta where they were going or when they would return: "They're going to kill us." She is not rejecting Mau or stopping because she does not want the kiss. The room callback now carries home that unfinished feeling rather than describing a feeling she tried to suppress at the beach. No birthday kiss is completed; the later kiss and aftermath remain unchanged. Full creator wording is retained in the linked DH-133 revision note.
+
+## DH-134 — The Trial's author is already known (creator,2026-10-22)
+
+The creator caught S6 treating the Goddess's authorship as a mystery, despite the S3 ending and S4 opening. [Full request, prior sources and correction](S6_TRIAL_KNOWN_AUTHORSHIP_CONTINUITY_CORRECTION_2026-10-22.md). What It Built now explicitly preserves that knowledge and revisits the unresolved intended lesson in light of the Architect exploiting the same trauma. Mau recalls his earlier confession; the coins retain their established meaning. A Really Good Cookie inherits the corrected question and recognises her repeated past appearances. Plans and the editorial closing-deal note are aligned; raw creator messages remain intact. No motive or Goddess/Architect alliance is confirmed, and no S3/S4 prose or future ending is rewritten.

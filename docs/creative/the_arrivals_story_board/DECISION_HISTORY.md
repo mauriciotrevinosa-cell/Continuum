@@ -2050,3 +2050,7 @@ V33#61–64 desarrolla el quiebre y la revelación en cuatro escenas con respues
 ### DH-135 continuación — V34#1–4, checkpoint _s6_v34_b1_4 (2026-10-23)
 
 Se inicia V34 con cuatro escenas completas del mismo Day466, conservando V33 intacto. Título de trabajo Both. La responsabilidad por ocultar y el cuidado familiar se desarrollan con conocimiento separado por persona; ninguna conversación cura el conflicto o sustituye el futuro intento real de Frieren indicado por el creador. Revisión editorial cruzada1–4 y fuentes de coat, katana y Oppa verificadas. Continuar después del respaldo.
+
+### DH-135 continuación — V34#5–10, checkpoint _s6_v34_b5_10 (2026-10-23)
+
+V34#5–10 desarrolla distancia delFort, pareja, entrenamiento pausado, vida musical y amistadF/Maki antes del intento real solicitado. El ataque de10 queda inequívoco y acotado con capacidades previamente observadas; nadie resulta herido y su gravedad no se deshace por ello. Se preservan consecuencias, custodia de vara y conocimiento por testigo. Revisión cruzada completa y correcciones de calendario/juego hechas antes de publicar. El arco sigue abierto.

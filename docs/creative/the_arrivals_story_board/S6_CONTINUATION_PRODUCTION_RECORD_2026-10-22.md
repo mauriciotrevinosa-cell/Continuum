@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#4, Day466afternoon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#10, Day468afternoon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -323,3 +323,50 @@ Al final: Yuka con Maki/Yuta en su cuarto; F/Ori/Fern/Shoko en el este, Ori dorm
 |4|The Part You Left With Me|1730|
 
 Bloque: 7577 palabras; mediana 1824.0.
+
+## Checkpoint _s6_v34_b5_10 — V34#5–10
+
+### Continuación de la fractura con vida cotidiana, Days467–468
+
+| Capítulo | Desarrollo efectivo |
+|---|---|
+|5 — At the Curtain|467 mañana. Ori/Umaru rechazan la compañía de Yuka en el Fallow del Fort. Rem participa por gusto y frena convertir la distancia personal en expulsión de casa. Milim cuida a Ori y sigue ambivalente. Yuka se retira sin abrazo impuesto. Su cojín queda entero en una silla del common room fuera de la cortina; nombre y pertenencia no se borran.|
+|6 — A Very Poor King|467 mañana hacia mediodía. Mau encuentra a Yuka tras el juego. Ella le cuenta el resultado, no la charla privada con abuelos. Pasean dentro del límite occidental tras anunciar ruta y una hora directamente a Rimuru; vuelven antes. Inventan una historia absurda del rey pájaro, ríen y se besan en privado. Su relación continúa sin resolver el daño. Roof/crackers466 se establecen explícitamente omitidos; el siguiente ciclo sigue473.|
+|7 — Put It Down First|467 tarde. Yuta/Mau intentan madera, varían el retorno del ejercicio y pausan antes de descargar enfado. Hablan sin espadas sobre ocultación y confianza, sin exigir terminar relación o fabricar amor. Yuta le cuenta la pregunta de Yuka sobre echarla; Mau no la sabía antes. Yuta avisará cuándo puede retomar. Una madera astillada queda separada en el banco para alisar; katana86 envainada.|
+|8 — Somewhere to Breathe|467 tras cena. Kessoku ensaya un cambio de acorde/respiración, ajusta arreglo y acaba haciendo música absurda. Banquito32 sigue reparado. Bocchi preguntó a Rem tras almuerzo y transmitió sólo hechos públicos a Kita/Nijika/Ryo. Amor fraternal por Mau persiste sin aprobar lo callado ni nueva visita fechada. La banda tiene escena propia.|
+|9 — A Place in the Same House|468 mañana. Frieren lleva libro y vara desde cuarto este al banco del jardín. Maki se sienta por invitación, sin lanza. Hablan como amigas/familia con dolor y límites: Yuka conocía el pasado, F no sabe cómo compartir mesa todavía, su lugar no desaparece por necesitar distancia. Maki relata sólo lo que oyó realmente. Sin amenaza ni ataque aquí.|
+|10 — The Flower on Her Wrist|468 tarde. Yuka intenta disculparse otra vez. F reconoce el loto espejado del regalo de cumpleaños como amor eterno en su mundo. Ambos compradores ignoraban ese sentido, como ya decíaS6E12CH02. F elige un Zoltraak dirigido al brazo/hombro de Yuka. Mau reacciona al alzar/reunir magia antes de disparo, toma un paso corto a tierra visible en la línea y bloquea con Infinity propia durante menos de una respiración. Maki ya se aproxima, retiene muñeca/vara y evita seguir al blanco. F corta suministro, luz muere y después Mau baja barrera. Maki amenaza matarla si vuelve a intentar herir a su nieta. No segundo ataque ni herida/casa dañada. Continúa el aftermath.|
+
+### Consecuencias duraderas
+
+- **REL-S6-C042, #5:** Ori/Umaru necesitan distancia de Yuka, no le revocan hogar. Rem no exige que jueguen con ella ni consiente expulsión. El cojín permanece materialmente intacto fuera de la cortina, en silla del common room.
+- **REL-S6-C043, #6:** pareja aún elige estar junta y disfrutar, mientras otros están heridos. Aviso directo y retorno cumplidos desarrollan compromiso4. Mau no recibe aún el miedo privado de Yuka a ser echada, por lo que puede oírlo por primera vez en7.
+- **REL-S6-C044, #7:** práctica pausada sin fecha. Cariño real de Yuta y deuda de confianza coexisten; no agresión con bokken o reconciliación por entrenar. Madera astillada separada y herramienta real enfundada son estados concretos.
+- **REL-S6-C045, #8:** Bocchi/Kita siguen pareja y las cuatro siguen siendo banda. Bocchi conserva vínculo con Mau y está herida; no visita o actuación prometida para una fecha obligatoria. Ahora ellas conocen los hechos públicos por Rem, no por retroactividad del desayuno.
+- **REL-S6-C046, #9–10:** Maki/Frieren todavía tenían amistad real en9. El ataque y amenaza de10 la rompen de forma concreta. No tratarlo luego como conversación sólo incómoda. La intención de F fue real, no advertencia, posesión o fallo automático; la ignorancia sobre el regalo no excusa el acto.
+- **REL-S6-C047, #10:** Yuka queda asustada; su mano va al brazo donde iba el hechizo aunque no recibió impacto. Mau la protege y atiende primero. F ve la reacción de Fern, no recibe absolución ni consuelo instantáneo del hombre al que hirió emocionalmente. El cuidado de las próximas escenas debe tener límites.
+
+### Testigos, motivo y posiciones al terminar10
+
+F/Yuka oyen el significado del loto al principio. Mau ve la preparación y lanzamiento, Maki ve el ataque y lo interrumpe. Gojo llega después: no narrarlo como testigo del comienzo. Yuka dice luego a Mau que significa amor eterno junto a Maki/Gojo; por eso ellos pueden aprender ese dato. Shoko/Fern llegan aún más tarde, preguntan y necesitan relato para saber toda causa/conversación. Ori, Yuta, Rimuru y ausentes no tienen conocimiento automático del disparo.
+
+Yuka/Mau/Maki entran en casa; Maki tiene la vara de F. F/Fern/Shoko/Gojo quedan junto al banco. Libro de F queda en banco, no destruido. La vara no está rota y su custodia no implica que F perdiera toda magia. No lanza de Maki atravesando Infinity ni defensa prestada a Yuka.
+
+### Estado técnico y material
+
+57 puntos retenidos,14/40 nombres y98 soldados. Ojo/mano/pelo conservan secuelas. Presión izquierda de Mau por bloqueo breve es esfuerzo transitorio, sin lesión nueva. El haz se extingue antes de bajar Infinity, sin reflejarse a casa. La [auditoría de staging](S6_V34_FRIEREN_ATTEMPT_STAGING_AUDIT_2026-10-23.md) separa precedentes y límites, sin conceder inmunidad universal. Regalo del loto sigue físico y no se convierte en System band.
+
+### Próximas escenas
+
+Aftermath inmediato de10: cuidado de F/Fern/Shoko con responsabilidad y límites; Maki/Yuka/Mau y relato a Yuta que no presenció. Elegir lugar temporal de vara y registrarlo. No borrar ocultación por proteger a Yuka, ni justificar ataque por ocultación. Entrenamiento, citas y vida de los demás continúan entre las consecuencias; plazo24h y ayuda de la Diosa aún no suceden. Próximo reset469, próximo roof/crackers473. Continuar después del respaldo.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|5|At the Curtain|2006|
+|6|A Very Poor King|1622|
+|7|Put It Down First|2138|
+|8|Somewhere to Breathe|1806|
+|9|A Place in the Same House|1564|
+|10|The Flower on Her Wrist|2298|
+
+Bloque: 11434 palabras; mediana 1906.0.

@@ -145,3 +145,25 @@ Esto resuena en Mau. **Él decide aceptar la intervención de la Diosa con ese c
 La intención de incluir la escena queda definida; **los detalles de la enfermedad, el sacrificio y el estado posterior dependen de lo que permita el final de Modulo y del punto de extracción de esta Yuka**. Esta captura no verifica ese final ni lo inventa. No asumir cáncer activo, recaída, curación, tipo, tratamiento o esperanza de vida. Antes de producir la escena, comprobar las fuentes disponibles y consultar al creador si el desenlace obliga a ajustar el recuerdo. No añadir una urgencia médica nueva ni una cura mediante Mau/RCT/poción por defecto.
 
 La última noche sigue respetando el límite de **no acostarse**. Esta conversación necesita tiempo y escucha propios; no usarla como giro durante una escena sexual, como explicación automática de por qué ella pone límites o como cura instantánea del conflicto.
+
+## Observaciones del creador: futuro compartido, trenzado y katana (2026-10-22)
+
+### Mensaje íntegro
+
+```text
+y voy a ser muy hdp que en una de las dates hablen de tal ves hacer una familia y eso va a tener mucho mas peso cuando mau haga la decision pq no puede soportar ver que uka sufra como esta sufriendo y me gusta solo diria que no los hagas como primero esta seccion luego todas las dates luego esto y asi pq aun con la casa dividiendose yuka y mau intentar mantener la relacion y que algo ma sque mau con yuta pratique con la katana y de lo peridos para siempre okay pero reconstruri a tank ya no es tan dramatico pq mau ya mejoro y asi entonces que si lo reconstruya pero estoy de acuerdo que hayan perdido permanentemente esa parte de la legion.
+
+esto son mis observaciones
+```
+
+### Dirección para el desarrollo
+
+- En una de las citas, Mau y Yuka hablan de **tal vez formar una familia**. Es una posibilidad íntima que empiezan a imaginar juntos, no un embarazo, una boda o hijos ya decididos. Ubicarla con suficiente antelación al trato para que ese futuro imaginado tenga presencia y resuene después con la confidencia de la última noche. La composición y las palabras se desarrollarán al escribir.
+- Esto pesa en la decisión de Mau: ve cuánto sufre Yuka y no soporta seguir viéndola así; comprende que también se está perdiendo el mañana que imaginaron. Añadir esa motivación a las demás sin hacer que la enfermedad o la idea de familia sean chantaje, lástima o sustitutos del amor. Mantener el límite de no acostarse.
+- **Los tramos son una guía de tensiones, no bloques consecutivos de actividades.** Las citas, la intimidad cotidiana, el entrenamiento y los intentos de sostener la relación continúan incluso mientras se divide la casa. Variar su tono y circunstancias: que aparezca el conflicto no cancela automáticamente su vida de pareja, y salir juntos no congela el dolor de quienes se quedan.
+- Añadir prácticas de **katana de Mau con Yuta**, con progresión técnica y vínculo propio. Situarlas a lo largo del desarrollo, respetando qué sabe Yuta en cada momento. Practicar juntos antes de descubrir el romance no implica aprobarlo después; cualquier cambio en esa rutina debe responder a lo ocurrido, sin reconciliación automática por entrenar.
+- **Mau sí reconstruye a Tank.** Su mejora hace la reconstrucción más ágil y manejable; mostrar ese dominio sin repetir un clímax de pérdida/resurrección o una larga ceremonia. No declarar por ello que todo coste desapareció ni que Tank ya estaba reconstruido al terminar la prosa actual.
+- Los dos soldados unmade del piso101 siguen siendo pérdidas permanentes. No confundirlos con Tank o con daño reconstruible, ni devolverlos al ampliar capacidad. El creador reafirma esa pérdida de la legión.
+- Tras la reescritura, la conversación de futuro romántico pertenece a lo vivido que Mau conserva y que Yuka no recuerda del mismo modo. Anotar su correspondencia dentro de la historia alternativa para no dejarla recordando un proyecto romántico borrado por el trato. No borrar objetos, habilidades o encuentros reales por defecto.
+
+Estas observaciones ajustan el esquema propuesto; **no son todavía verde para producir capítulos**.

@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#64, Day466noon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#4, Day466afternoon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -288,3 +288,38 @@ El intento real de Frieren, el plazo de24h, la última cita, la confidencia del 
 |64|Say It Here|2422|
 
 Bloque: 8361 palabras; mediana 2082.0.
+
+## Checkpoint _s6_v34_b1_4 — V34#1–4
+
+### Arranque de V34, mismo Day466
+
+Volumen34, título de trabajo **Both**, continúa exactamente después de V33#64. Los cuatro capítulos se solapan durante el mediodía y primera tarde: no pasan cuatro días ni se reinician vínculos.
+
+| Capítulo | Desarrollo real |
+|---|---|
+|1 — All This Time|Continúan preguntas en la sala. Primer beso en la segunda Red Gate, no el vuelo de hoy. Yuka confirma que sabía el pasado. El préstamo técnico se distingue de controlar sentimientos. A pregunta directa, Rimuru admite que supo tras el retorno, Ciel le contó y Mau habló con él al día siguiente; eligió callar, nunca prometió mentir. Mau reconoce que debió decírselo a Frieren en el jardín. Yuka sube con sus abuelos, F/Ori/Fern después. Shoko se queda brevemente con Milim antes de seguir. Mau y Rimuru permanecen abajo.|
+|2 — The Mended Coat|Charla privada de Yuka/Maki/Yuta en su cuarto. Costura y práctica fueron afecto verdadero, también hubo ocultación. Yuka admite miedo de perder la relación y de recuperar a Oppa a costa de ella. Quiere seguir con Mau y dejarle recordar. Maki no elige a quién debe amar ni la expulsa; sigue enfadada. Yuta pide hablar después con Mau. Ellos se quedan con ella cuando lo pide; la conversación no equivale a perdón.|
+|3 — Beside the Bed|F/Ori/Fern en el cuarto este. Shoko llega después de atender a Milim. Ori expresa culpa; Frieren afirma que querer a su padre no causó la elección romántica. Fern relata sólo lo que vio en el huerto y también está herida. Ori acaba dormida por cansancio, no desmayo o lesión. Stark se queda cerca en el pasillo a petición de Fern; no se le atribuye conocimiento del secreto. Frieren puede comer un poco y seguir sufriendo.|
+|4 — The Part You Left With Me|Mau/Rimuru siguen en la sala mientras ocurren2/3. Hablan de lo dejado en manos de otros: callar, posponer y salir demasiado deprisa. Ciel habla sólo por hilo privado con ambos. Mau acuerda anunciar ubicación y dar tiempo a oír antes de irse, sin prometer sentimientos o cura. Un breve chiste no borra la fractura. Limpia tierra de mano/mesa, sin herida nueva.|
+
+### Consecuencias y conocimiento
+
+- **REL-S6-C038, #1:** los presentes conocen que Rimuru sabía. Él asume su propia decisión; Mau no le adjudica obligación de mentir o responsabilidad única. Frieren no responde a su disculpa. Gojo dice que no sabía la relación; haber supervisado préstamo no le había dado ese conocimiento.
+- **REL-S6-C039, #2:** Maki/Yuta/Yuka hablan sin Mau. Ellos saben que ella tenía miedo de perder el romance, desea a Oppa y a la relación actual de modos que no sabe reconciliar. Mantienen casa y compañía, no aprobación. El entrenamiento de51 y cuidado de la torre siguen hechos reales. No conocen todavía familia imaginada44, confidencia médica o intimidad45.
+- **REL-S6-C040, #3:** madre/hija y Fern se acompañan. Nadie cura lo ocurrido o obliga a Ori a consolar a adultos. Shoko sigue cuidando sin usar poderes para solucionar una emoción. La presencia de Stark es por Fern; no es testigo retroactivo de toda la revelación.
+- **REL-S6-C041, #4:** Mau se responsabiliza del anuncio de salida. Rimuru conserva su parte de culpa y enfado; no se restaura automáticamente el vínculo fraterno. Ciel participa con agencia, sin voz audible al resto.
+
+### Estado y siguiente trabajo
+
+Mismo57 retenidos,14/40 nombres y98 soldados. No curación de mano/ojo/pelo, nuevas memorias completas, fusión de accesos o gasto. Se quita de un draft el gesto de limpiar gafas sin apoyo reciente suficiente; no establece que Maki nunca las usó ni cambia capítulos anteriores.
+
+Al final: Yuka con Maki/Yuta en su cuarto; F/Ori/Fern/Shoko en el este, Ori dormida y Stark en pasillo; Mau/Rimuru abajo. La reunión semanal466 aún no ocurrió. Continuar467 con Fort, pareja que sigue intentando estar junta, conversación/práctica de Yuta y vida de la casa. El intento de Frieren, plazo, cita final, confidencia, intervención y desayuno siguen pendientes. Este respaldo por seguridad tras los cortes no cierra el trabajo.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|1|All This Time|1835|
+|2|The Mended Coat|2199|
+|3|Beside the Bed|1813|
+|4|The Part You Left With Me|1730|
+
+Bloque: 7577 palabras; mediana 1824.0.

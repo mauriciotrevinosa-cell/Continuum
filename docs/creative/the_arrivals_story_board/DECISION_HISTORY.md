@@ -2046,3 +2046,7 @@ Se integra V33#51–60 (Days458–465) con revisión cruzada, marcas de hablante
 ### DH-135 continuación — V33#61–64, checkpoint _s6_b61_64 (2026-10-23)
 
 V33#61–64 desarrolla el quiebre y la revelación en cuatro escenas con respuesta propia, con revisión de acción/espacio/conocimiento. Cierra el movimiento deV33 en64capítulos; el arco sigue desde mismoDay466 enV34, no llega altrato. Se conserva la violencia real futura indicada por creador, con consecuencias; no se adelanta ni se sustituye por amenaza. [Mapa de trabajo](S6_V34_MEMORY_ARC_WORKING_SCENE_MAP_2026-10-23.md) y [registro](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). Respaldos continúan por diez capítulos/~20min, sin detener el trabajo.
+
+### DH-135 continuación — V34#1–4, checkpoint _s6_v34_b1_4 (2026-10-23)
+
+Se inicia V34 con cuatro escenas completas del mismo Day466, conservando V33 intacto. Título de trabajo Both. La responsabilidad por ocultar y el cuidado familiar se desarrollan con conocimiento separado por persona; ninguna conversación cura el conflicto o sustituye el futuro intento real de Frieren indicado por el creador. Revisión editorial cruzada1–4 y fuentes de coat, katana y Oppa verificadas. Continuar después del respaldo.

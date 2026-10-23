@@ -2030,3 +2030,7 @@ Petición literal: «okay antes de que arranques revisa el size de palabras de l
 ### DH-135 segundo bloque producido — V33#25–30 (2026-10-22)
 
 Day449–450: práctica de katana con madera; ensayo autónomoKessoku; prueba de dos pulls pequeños con presupuesto compartido, monitorización/parada sin desbloquearRed; juegoOri/Frieren/Mau; cocinaUmaru/Taihei; entrevistaDaphne/Shoko consentida sin mirar dentro ni restaurar recuerdos. [Registro, conocimiento y efectos reales](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). V33queda30capítulos; continuaciónnueva12, el arco completo sigue en desarrollo. Capítulos previos y marcador de lectura preservados.
+
+### DH-135 continuación — V33#31–40, checkpoint _s6_b31_40 (2026-10-22)
+
+ContinuaciónV33#31–40 publicada como borrador (Days450–452), con auditoría de fuentes/espacios y revisión cruzada; sin cambios de capítulos previos. El creador pide respaldos de10capítulos/~20min y seguir, con breathers si hacen falta. Nueva regla de lectura recibida cuando31–40 ya estaban escritos: desde41, inicial/abreviatura única al lado de cada diálogo, sin retocar los ya escritos. [Registro actual](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md); [convención de hablantes](S6_DIALOGUE_SPEAKER_MARKS_2026-10-22.md).

@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#30, Day450morning. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#40, Day452night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -102,3 +102,47 @@ Volumen33 sigue abierto,30capítulos; no corte artificial para llegar a un núme
 Total segundo bloque: 10506; mediana 1706.5.
 
 Total nueva continuación #19–30: 21136 palabras de prosa; mediana 1775.0.
+
+## Checkpoint _s6_b31_40 — V33#31–40
+
+El creador pidió continuar el resto, respaldar cada10capítulos o~20min y seguir, añadiendo espacio si la historia lo necesita. Petición literal: «okay arrancate con el resto cada 10 caps subes a git y continuas o cada 20 mins el que prefieras y revisa si aqui fakta mas si necesita un breather mas historia y asegurate que no cree retcons». Este respaldo NO cierra el trabajo.
+
+### Hechos nuevos, sin adelantar el cierre
+
+-31Day450: Mau cuenta a Yuka la entrevista; ella reconoce alivio/culpa. Él mantiene autonomía para hablar con otros. Planifican almuerzo451.32Bocchi/Kita/Mau ajustan banquito; disfrutan sin restaurar vínculo automático.
+-33Day450tarde: auditoría observación/construcción/uso repetible/límite actual con Umaru/Gojo/Rimuru/Ciel; no porcentajes ni kit nuevo. Limitaciones mano/ojo/pelo persisten,67puntos retenidos. Plan salida normalE452tarde.
+-34Day451mañana: alineación reversible de bordes de2accesos conocidos; contenido separado, tercero cerrado/sin destino. Ciel/Noise avisaron/pararon; sin unión total, crisis o explicaciónBlackHeart.
+-35Day451noon: cita con aviso de ubicación y retorno, dentro del perímetro. Comida de casa, beso privado, no sexo/familia prometida todavía.36Kaneki/Touka/Ichika tienen juego propio; padres cafénegro, niñaagua.
+-37Day452mañana: niñasWitchHat/madreCoco reparan delantales con hilo normal; no nueva magia/filtración de tinta.38Day452tarde: reconocimientoE Mau/Yuka/Yuta/Anko, Rimuru casa, regreso mismo capítulo;2criaturas muertas,2quedan bajo puente superior, paso inferior anotado. Extensión de catálogo interior explícita y limitada, sin compra ni conversión de cristales a monedas. Préstamo compartido pequeño2veces; fatiga limitada/descanso, no unlock deRed o nivel numérico.
+-39/40Day452noche: roof núcleo5inclTaihei ya habitual y crackers simultáneos enSeikoroomconTurbo. Rimuru conserva afecto/enfado y sólo conversaciónprivadaMau, no revelación. Mujeres tienen humor/vida propios; esperanzaFrieren cauta.
+
+### Relaciones y conocimiento que siguen abiertos
+
+REL-S6-C012(#31): Mau/Yuka pueden comunicar decisiones sin permiso previo; él cuenta visita y límites, ella no recibe una cura/amenaza nueva. El romance continúa oculto.
+REL-S6-C013(#32): Bocchi disfrutaMau yKita sin hermano recuperado por una tarde.
+REL-S6-C014(#33–34): Rimuru coopera técnicamente y conserva enfado; no diagnósticoamor/perdón por ayudar. Ciel/Noise avanzan desde cooperación anterior.
+REL-S6-C015(#35): cita pequeña real, ambos la eligen, se separan las manos al volver a la vista de casa; no final del secreto ni compromiso matrimonial.
+REL-S6-C016(#36–37): familiaKaneki y grupoWitchHat mantienen vidas independientes; ninguna revelación de romance.
+REL-S6-C017(#38): Yuta/Anko conocen coordinación técnica y límites, no beso. Maki sigue con sospecha de manos; no verdad total.
+REL-S6-C018(#39–40): dos reuniones cumplen ciclo452. Mau/Rimuru hablan en voz baja lejosdelhatchYuta; no transferencia de información. Frieren comparte con amigas lo que decide, no rumores confirmados. Mai pide a Maki traer la lanzaDay453 para ajustar flor de plata; pendiente concreto.
+
+### Salida y siguiente trabajo
+
+13/40nombradas,98soldados y2unmadepermanentes, Tankreconstruido; restosdesierto pendientes.67puntos retenidos. No curadas secuelas; no diagnóstico activo de Yuka, no confesión del cáncer aún, no memoria completa. A partir del PRÓXIMO capítulo nuevo41 se aplican marcas de hablante por petición recibida mientras31–40 ya estaban escritos; no reescribirlos retroactivamente.
+
+Continuar453 con ajuste florMaki/Mai, censo de restos y vida/entrenamiento/citas entrelazados, profundizar futuro compartido antes del estallido; no saltar a Ori/revelación/ataque/Diosa. Roof/crackers próximo459 si el calendario se mantiene. Antes de confidencia final usar auditoría de fuente: proyecto ya extrae Yuka final/tumorresuelto, estado previo no nueva recaída. Cap24Modulo local es placeholder, no inventar mecanismo de curación. Persistir hasta el arco, el respaldo no es pausa solicitada.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|31|The Four Lines|1410|
+|32|The Short Leg|1622|
+|33|What the Page Could Say|1712|
+|34|The Same Edge|1669|
+|35|Lunch, Somewhere Else|1606|
+|36|The Passenger|1678|
+|37|Attached|1545|
+|38|The Lower Bridge|1692|
+|39|The Seat by the Hatch|1490|
+|40|The Painted Tin|1613|
+
+Bloque: 16037 palabras; mediana 1617.5.

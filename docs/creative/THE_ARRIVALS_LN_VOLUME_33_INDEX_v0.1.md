@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 33
 **Season:** 6
-**Coverage:** S6E10–S6E24
+**Coverage:** S6E10–S6E29
 **Volume title:** **Oppa**
-**Chapter files:** 30
+**Chapter files:** 40
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -43,3 +43,13 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 28 | S6E23 | The Bird That Walked | `THE_ARRIVALS_S6E23_LN_CHAPTER_02_THE_BIRD_THAT_WALKED_v0.1.md` |
 | 29 | S6E24 | The Long Piece | `THE_ARRIVALS_S6E24_LN_CHAPTER_01_THE_LONG_PIECE_v0.1.md` |
 | 30 | S6E24 | The Questions He Could Answer | `THE_ARRIVALS_S6E24_LN_CHAPTER_02_THE_QUESTIONS_HE_COULD_ANSWER_v0.1.md` |
+| 31 | S6E25 | The Four Lines | `THE_ARRIVALS_S6E25_LN_CHAPTER_01_THE_FOUR_LINES_v0.1.md` |
+| 32 | S6E25 | The Short Leg | `THE_ARRIVALS_S6E25_LN_CHAPTER_02_THE_SHORT_LEG_v0.1.md` |
+| 33 | S6E26 | What the Page Could Say | `THE_ARRIVALS_S6E26_LN_CHAPTER_01_WHAT_THE_PAGE_COULD_SAY_v0.1.md` |
+| 34 | S6E26 | The Same Edge | `THE_ARRIVALS_S6E26_LN_CHAPTER_02_THE_SAME_EDGE_v0.1.md` |
+| 35 | S6E27 | Lunch, Somewhere Else | `THE_ARRIVALS_S6E27_LN_CHAPTER_01_LUNCH_SOMEWHERE_ELSE_v0.1.md` |
+| 36 | S6E27 | The Passenger | `THE_ARRIVALS_S6E27_LN_CHAPTER_02_THE_PASSENGER_v0.1.md` |
+| 37 | S6E28 | Attached | `THE_ARRIVALS_S6E28_LN_CHAPTER_01_ATTACHED_v0.1.md` |
+| 38 | S6E28 | The Lower Bridge | `THE_ARRIVALS_S6E28_LN_CHAPTER_02_THE_LOWER_BRIDGE_v0.1.md` |
+| 39 | S6E29 | The Seat by the Hatch | `THE_ARRIVALS_S6E29_LN_CHAPTER_01_THE_SEAT_BY_THE_HATCH_v0.1.md` |
+| 40 | S6E29 | The Painted Tin | `THE_ARRIVALS_S6E29_LN_CHAPTER_02_THE_PAINTED_TIN_v0.1.md` |

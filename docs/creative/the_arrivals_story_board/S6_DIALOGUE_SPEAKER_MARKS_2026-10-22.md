@@ -1,0 +1,56 @@
+# S6 — marcas de hablante para facilitar la lectura
+
+**Dirección explícita del creador,2026-10-22.** Mensaje íntegro:
+
+> oye en ahora ne adelante no los caps que llevas pon alado del mensaje de alguien hablando su inicial pq me pierdo a veces
+
+## Alcance
+
+La petición llegó con V33#31–40 ya escritos y en revisión. Aplicar desde el siguiente nuevo capítulo, **V33#41**, en adelante. No añadir etiquetas retrospectivamente a1–40 ni cambiar IDs/orden/títulos anteriores. Autoriza un ajuste de presentación, no un cambio de voz, relaciones o hechos.
+
+Usar `[código]` antes de cada intervención real: `[M] "..." he said.` Conservar prosa, acción, párrafos y atribuciones cuando aportan; las etiquetas no convierten la novela en guion/chat. Si varias personas comparten inicial, usar abreviaturas inequívocas. Añadir etiqueta también a comunicación dirigida interior(Ciel/Noise/sombras) sin volverla audible a terceros. No etiquetar pensamiento narrado como si fuese voz, carteles ni mensajesdelSystemsinpersona.
+
+## Códigos estables
+
+| Persona | Marca | Persona | Marca |
+|---|---|---|---|
+|Mau|M|Frieren|F|
+|Yuka|Yk|Yuta|Yt|
+|Maki|Mk|Mai|Mai|
+|Milim|Mi|Momo|Mo|
+|Maomao|Mm|Rimuru|R|
+|Ciel|C|Noise|N|
+|Umaru|U|Taihei|T|
+|Gojo|G|Shoko|Sh|
+|Seiko|Se|Turbo Granny|TG|
+|Fern|Fe|Stark|St|
+|Bocchi|B|Kita|Kt|
+|Nijika|Nj|Ryo|Ry|
+|Kaneki|Kn|Touka|Tk|
+|Ichika|I|Anko|A|
+|Nazuna|Nz|Himmel|H|
+|Coco|Co|Agott|Ag|
+|Tetia|Te|Richeh|Ri|
+|Qifrey|Q|Coco's mother|CM|
+|Echidna|Ech|Daphne|Da|
+|Minerva|Mn|Satella|Sa|
+|Pride|Pr|Carmilla|Ca|
+|Sekhmet|Sek|Diablo|Di|
+|Rem|Re|Ram|Ra|
+|Subaru|Su|Beatrice|Be|
+|Senku|Sn|Byakuya|By|
+|Eren|E|Mikasa|Ms|
+|Armin|Ar|Hollis|Ho|
+|Jinshi|J|Wakana|W|
+|Marin|Mr|Seika|Ska|
+|Hakari|Ha|Karane|Kr|
+|Shizuka|Sz|Nano|Na|
+|Kusuri|Ks|Vamola|V|
+|Okarun|Ok|Jiji|Ji|
+|Igris|Ig|Beru|Br|
+|Kamish|Km|Bellion|Bl|
+|Tusk|Tu|Lantern|Ln|
+|Corner|Cr|Roof|Rf|
+|Tank|Ta|Diosa/Goddess,ya identificada|Dio|
+
+Para una voz realmente desconocida usar `[?]` hasta identificarla: las iniciales no deben revelar identidades selladas o misterios por adelantado. Añadir otros códigos con fuente antes de necesitarlos, sin inventar hablantes o capacidad de hablar(Kaisel/Ear no ganan voz por esta convención).

@@ -352,6 +352,12 @@ Creator request and delegated choice,2026-10-16; final documentation review2026-
 
 ---
 
+## 18.2 Speaker marks for new S6 chapters — creator,2026-10-22
+
+From V33#41 forward, place a short unique speaker initial/abbreviation beside every actual dialogue intervention, including directed interior communication. Keep narrative prose and character voice. No retroactive marks on already-written chapters1–40. Similar initials must remain unambiguous; unknown voices stay unknown. This is a readability convention, not a transfer of private knowledge or permission for non-speaking creatures to talk. [Exact request, cutoff and codes](S6_DIALOGUE_SPEAKER_MARKS_2026-10-22.md).
+
+---
+
 # 19. Final test
 
 Before forcing an episode, scene or character into the story, ask:

@@ -113,3 +113,35 @@ Por el contexto del mensaje y de toda la propuesta, se refiere a **Mau/Yuka**; s
 - [Estado al salir de la Red Gate](S6_V33_PLAN_2026-10-20.md) y [última escena publicada](../THE_ARRIVALS_S6E18_LN_CHAPTER_02_WHAT_CIEL_TOLD_RIMURU_v0.1.md).
 - [Cierre propuesto anteriormente](S6_MEMORY_ARC_CLOSURE_GODDESS_DEAL_CREATOR_SEED_2026-10-20.md): mantener mensajes originales y aplicar las decisiones posteriores.
 - [Reestructuración real de S5](S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md), [revisión de conversaciones](S5_PACING_AND_CONVERSATION_REVISION_2026-10-17.md) y [constitución narrativa](STORY_CONSTITUTION.md): la historia determina extensión, con vida cotidiana y consecuencias persistentes.
+
+## Yuka: confidencia sobre el cáncer en la última noche — ampliación del creador,2026-10-22
+
+### Mensajes íntegros, en orden
+
+> yyyyyyyyyyyyy qeu yuka le cuente que tuvo cancer se me olvido eso hasta ahorita que sea algo que podamos ver en el futuro si el final de modulo deja cupo
+
+> si metelo pq tiene ser antes de que la diosa le regresa la memoria a mau y se la borre al resto
+
+> puede ser esa misma ultima noche y que le diga que le duele pq ella llego a creer que ya no iba a tener un tmmrw y se sacrifico y esto rezono mucho con mau y mau hace lo de la diosa cone se concimiento pero la diosa borra ese comentario de yuka  en la memoria de yuka y le avisa a mau que hara eso
+
+### Dirección actual y colocación
+
+La segunda y tercera ampliaciones concretan la primera: **incluir esta confidencia antes de la restauración/reescritura**, preferentemente en la misma última noche de la cita/despedida. Ya no dejarla únicamente como posibilidad posterior al cierre. Se guarda como desarrollo futuro del arco, sin escribir capítulos ahora ni dar por aprobado todo el mapa.
+
+Yuka le cuenta personalmente a Mau que tuvo cáncer y cómo llegó a creer que no tendría un mañana. El creador añade que «se sacrificó»: conservar esa dirección, pero cotejar el acto, su contexto y el corte de extracción con la fuente antes de redactar; no inventar por cuenta propia qué sacrificó, por quién, ni afirmar que murió. El centro es su experiencia y lo que le duele ahora al estar a punto de perder esta vida compartida. No convertir la escena en un expediente médico o en exposición que otros dan por ella.
+
+Esto resuena en Mau. **Él decide aceptar la intervención de la Diosa con ese conocimiento**, además de las razones ya planteadas; la confidencia aporta una razón íntima, no reemplaza los demás vínculos ni resuelve por sí sola el dilema. No convertirla en chantaje de Yuka, en que él la ama por lástima o en que su enfermedad compra una relación.
+
+### Advertencia y memoria: alcance preciso
+
+- Después de la confidencia y **antes de aceptar/ejecutar la reescritura**, la Diosa avisa expresamente a Mau de que Yuka olvidará haberle contado esto. Él conoce ese coste cuando elige; no es una sorpresa añadida después.
+- Yuka pierde el recuerdo de **esa conversación/confidencia** dentro de la historia sustituida. No se ha pedido borrar toda su autobiografía médica, negar que tuvo cáncer, cambiar su cuerpo o resolver retroactivamente su enfermedad. El alcance de otros recuerdos sigue las reglas generales del cierre.
+- Mau conserva lo que ella le contó y sabe que ella ya no recuerda habérselo confiado. Las sombras mantienen la excepción general ya confirmada; recordar el periodo no les da acceso automático a palabras privadas que no oyeron. Ciel no conserva este episodio tras la reescritura, como tampoco conserva la historia sustituida.
+- La alternativa recordada de esa noche no debe incluir sin querer esta confidencia. Registrar por separado quién conocía previamente el cáncer, quién oyó esta conversación y quién recuerda después que ocurrió. No difundir su historia médica a la casa por defecto.
+- La pérdida de este acto de confianza es parte del coste emocional. No deshacerla inmediatamente con una repetición idéntica ni decidir aquí que Yuka vuelve a contarlo en otro capítulo.
+
+### Fuente y límites que siguen abiertos
+
+La intención de incluir la escena queda definida; **los detalles de la enfermedad, el sacrificio y el estado posterior dependen de lo que permita el final de Modulo y del punto de extracción de esta Yuka**. Esta captura no verifica ese final ni lo inventa. No asumir cáncer activo, recaída, curación, tipo, tratamiento o esperanza de vida. Antes de producir la escena, comprobar las fuentes disponibles y consultar al creador si el desenlace obliga a ajustar el recuerdo. No añadir una urgencia médica nueva ni una cura mediante Mau/RCT/poción por defecto.
+
+La última noche sigue respetando el límite de **no acostarse**. Esta conversación necesita tiempo y escucha propios; no usarla como giro durante una escena sexual, como explicación automática de por qué ella pone límites o como cura instantánea del conflicto.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 33
 **Season:** 6
-**Coverage:** S6E10–S6E21
+**Coverage:** S6E10–S6E24
 **Volume title:** **Oppa**
-**Chapter files:** 24
+**Chapter files:** 30
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -37,3 +37,9 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 22 | S6E20 | The Other Sleeve | `THE_ARRIVALS_S6E20_LN_CHAPTER_02_THE_OTHER_SLEEVE_v0.1.md` |
 | 23 | S6E21 | Before You Go | `THE_ARRIVALS_S6E21_LN_CHAPTER_01_BEFORE_YOU_GO_v0.1.md` |
 | 24 | S6E21 | The Lamp on the Floor | `THE_ARRIVALS_S6E21_LN_CHAPTER_02_THE_LAMP_ON_THE_FLOOR_v0.1.md` |
+| 25 | S6E22 | Left Foot | `THE_ARRIVALS_S6E22_LN_CHAPTER_01_LEFT_FOOT_v0.1.md` |
+| 26 | S6E22 | The Last Ending | `THE_ARRIVALS_S6E22_LN_CHAPTER_02_THE_LAST_ENDING_v0.1.md` |
+| 27 | S6E23 | Two Small Pulls | `THE_ARRIVALS_S6E23_LN_CHAPTER_01_TWO_SMALL_PULLS_v0.1.md` |
+| 28 | S6E23 | The Bird That Walked | `THE_ARRIVALS_S6E23_LN_CHAPTER_02_THE_BIRD_THAT_WALKED_v0.1.md` |
+| 29 | S6E24 | The Long Piece | `THE_ARRIVALS_S6E24_LN_CHAPTER_01_THE_LONG_PIECE_v0.1.md` |
+| 30 | S6E24 | The Questions He Could Answer | `THE_ARRIVALS_S6E24_LN_CHAPTER_02_THE_QUESTIONS_HE_COULD_ANSWER_v0.1.md` |

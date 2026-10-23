@@ -2026,3 +2026,7 @@ Mensaje íntegro añadido al intake. En una cita Mau/Yuka imaginan tal vez forma
 ### DH-135 verde de producción y primer bloque real (creador,2026-10-22)
 
 Petición literal: «okay antes de que arranques revisa el size de palabras de los caps de s5 y arrancate ya tienes el verde». Se midieron los323archivos S5 activos y se tomó V30–31 como referencia flexible de ritmo, no cuota. [Auditoría](S5_CHAPTER_WORD_COUNT_REFERENCE_FOR_S6_2026-10-22.md). Producidos V33#19–24,Day448, sin cambiar capítulos previos. [Estado efectivo y relaciones](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). Botín/Tank/tres nuevas sombras; CielNoise sin unir accesos; conversaciones privadas y disculpa parcial; Yuka/Mau mantienen vínculo oculto y límites. No recuperación completa, revelación pública, cierre de arco o finalS6. La luz verde autoriza continuar y dar amplitud según escenas; no vuelve hechos las ideas futuras ni equivale a aprobación final de los borradores.
+
+### DH-135 segundo bloque producido — V33#25–30 (2026-10-22)
+
+Day449–450: práctica de katana con madera; ensayo autónomoKessoku; prueba de dos pulls pequeños con presupuesto compartido, monitorización/parada sin desbloquearRed; juegoOri/Frieren/Mau; cocinaUmaru/Taihei; entrevistaDaphne/Shoko consentida sin mirar dentro ni restaurar recuerdos. [Registro, conocimiento y efectos reales](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). V33queda30capítulos; continuaciónnueva12, el arco completo sigue en desarrollo. Capítulos previos y marcador de lectura preservados.

@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#24, Day448night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#30, Day450morning. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -39,7 +39,7 @@ Se midieron los323 archivos activos de S5 enlazados en V27–31,431058 palabras 
 
 Ori todavía no tuvo la pregunta pública, Milim no vio beso y la casa no sabe todo. Frieren no conoce el romance oculto ni las charlas Ciel/Rimuru. Cada persona conserva su propio alcance de observación. Mau conoce nombres/rutinas; no se volvió otro individuo ni recuperó toda su autobiografía.
 
-## Próximo tramo preparado, aún no producido en este checkpoint
+## Siguiente tramo previsto al cerrar el primer checkpoint (histórico)
 
 Day449: práctica de katana con Yuta usando madera, vida autónoma de Kessoku, ensayo seguro de préstamo simultáneo y pequeño juego Ori/Frieren/Mau. Mantener presión por conocimiento desigual, no acelerar a la revelación. La familia posible, otras citas durante la ruptura, confesión del cáncer, intento de Frieren, ultimátum y trato son futuros. Antes de esa confidencia cotejar Modulo/extracción. La intervención final conserva las excepciones ya fijadas; no escribirla por impulso en la apertura.
 
@@ -53,3 +53,52 @@ Day449: práctica de katana con Yuta usando madera, vida autónoma de Kessoku, e
 - The Lamp on the Floor: 1745 palabras.
 
 Total: 10630 palabras; mediana 1804.5.
+
+## Segundo bloque escrito: V33#25–30
+
+| Capítulo | Día y escena | Cambio efectivo |
+|---|---|---|
+|25 Left Foot|449antes de desayuno; patio|Mau practica con Yuta usando madera; mejora una transición de pies mediante intentos concretos. Cursed tool86 queda enfundada, no poder nuevo.|
+|26 The Last Ending|449tarde; music room|Kessoku ensaya un cierre, se equivoca, ríe y come pan con Taihei. Vida autónoma; Bocchi/Kita siguen pareja. Mau ausente.|
+|27 Two Small Pulls|449tarde, solapa ensayo|Umaru/Mau/Yuka prueban pull prestado simultáneo con Ciel y Gojo. Dos salidas pequeñas dentro de presupuesto común, coste corporal del préstamo en Mau. Parada al crecer presión; no Red ni puntos gastados.|
+|28 The Bird That Walked|449tarde antes de cena|Ori/Frieren inventan juego de papel. Mau se une voluntariamente, ríen; al agradecer como invitado deja un dolor pequeño. Vínculo cálido sin reconocimiento familiar restaurado.|
+|29 The Long Piece|449después de cena; cocina|Umaru/Taihei preparan fruta; ella habla del hermano que extraña pese a disfrutar colaborar. Él acompaña sin competir ni prometer arreglo.|
+|30 The Questions He Could Answer|450mañana; clínica|Mau acepta entrevista con Daphne y Shoko, no mirar dentro/alterar. Contraste de relato, habilidades, nombres y cercanía; sin cura ni ladrón identificado. Conserva hoja y quiere contar la visita a Yuka.|
+
+### Deltas técnicos y de conocimiento adicionales
+
+La prueba de dos pulls es de **Limitless**, no Ruler's grip. Dos salidas no crean dos suministros; balance medido a pequeña escala, sin equivalencia universal tamaño=fuerza ni permiso para Red compartido. El préstamo sigue costando esfuerzo a Mau; invocación de sombras continúa separada/gratuita. Umaru no obtiene técnica por ayudar. Pararon con la presión sin convertirlo en otra crisis o recuperación clínica.
+
+Katana: el entrenamiento usa bokken, no prueba a escondidas la herramienta maldita86 o una copiaRika. Conservar la habilidad motora no restaura la autobiografía. Yuta no conoce el romance porque le haya enseñado a Mau.
+
+Daphne/Shoko sólo conversan/observan con permiso. La negativaDay445 a mirar dentro se respeta; el temor de Yuka a que Daphne lo deshiciera no se vuelve capacidad confirmada. Ciel sigue en privado con Mau y conoce la visita; no se revela a Shoko el beso o la charlaRimuru. La recuperación completa sigue esperando a la Diosa.
+
+### Consecuencias relacionales nuevas
+
+| ID | Fuente/vínculo | Cambio y límites | Continuar |
+|---|---|---|---|
+|REL-S6-C006|#25 Mau/Yuta|Practican y bromean; vínculo propio crece, sin saber ni aprobar romance oculto.|Repetir desarrollo sin volver a primer ejercicio; reacción futura de Yuta debe conservar ambas cosas.|
+|REL-S6-C007|#26 Kessoku/Taihei|Trabajo artístico y compañía sin Mau. Bocchi se permite iniciativa/humor y Kita cariño.|La música y relaciones propias no desaparecen al intensificarse conflicto principal.|
+|REL-S6-C008|#27 Umaru/Mau/Yuka|Colaboración técnica útil, diversión y confianza parcial. Gojo observa y pone límites al ensayo.|Sin préstamo automático para Umaru, sin exponer romance ni igualar un experimento al techo del poder.|
+|REL-S6-C009|#28 Ori/Frieren/Mau|Disfrutan juntos por elección. Mau agradece como invitado; Ori dice que puede jugar sin pedir. Frieren tiene humor propio.|Ni papá restaurado ni primer gran llanto. Conservar pájaros guardados y posibilidad de más encuentros sin repetir mismo fracaso.|
+|REL-S6-C010|#29 Umaru/Taihei|Ella puede expresar que extraña la familiaridad de Mau sin negar amor por su hermano; él no compite.|Trabajo juntos vale por sí mismo; duelo abierto, no curado por una frase.|
+|REL-S6-C011|#30 Mau/Daphne/Shoko|Acepta hablar, mantiene no intervención. Lo creen al describir lo que siente sin validar biografía falsa. Puede volver a conversación/tea.|No consentimiento para inspección interior futura; próxima reacciónYuka todavía no escrita.|
+
+## Próximo trabajo desde este punto
+
+Continuar desde450, con el relato de Mau a Yuka sobre la visita y sus distintas reacciones, más convivencia, citas pequeñas y aventuras medidas entrelazadas. Desarrollo pendiente de la dupla y revisión de habilidades, encuentro con las brujas por elección y otros vínculos del hogar. La unión de accesos sigue abierta; no ejecutar todo el plan técnico en una noche. Dar espacio real al futuro compartido/familia antes del último día. Ninguna de las escenas de fractura, revelación de Milim, agresiónFrieren, plazo24h, confidencia del cáncer o reescritura ha sucedido todavía.
+
+Volumen33 sigue abierto,30capítulos; no corte artificial para llegar a un número de volúmenes. Estimación~100nuevos para arco completo sigue flexible, no producción prometida en un solo bloque. Estos12nuevos cubren448–450 con respiración; no equivalen a la temporada o al arco completo.
+
+## Conteos del segundo bloque
+
+- Left Foot: 1972 palabras.
+- The Last Ending: 1805 palabras.
+- Two Small Pulls: 1608 palabras.
+- The Bird That Walked: 1941 palabras.
+- The Long Piece: 1582 palabras.
+- The Questions He Could Answer: 1598 palabras.
+
+Total segundo bloque: 10506; mediana 1706.5.
+
+Total nueva continuación #19–30: 21136 palabras de prosa; mediana 1775.0.

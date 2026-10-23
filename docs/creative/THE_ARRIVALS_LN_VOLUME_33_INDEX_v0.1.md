@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 33
 **Season:** 6
-**Coverage:** S6E10–S6E18
+**Coverage:** S6E10–S6E21
 **Volume title:** **Oppa**
-**Chapter files:** 18
+**Chapter files:** 24
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -31,3 +31,9 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 16 | S6E17 | The Wheel Lesson | `THE_ARRIVALS_S6E17_LN_CHAPTER_02_THE_WHEEL_LESSON_v0.1.md` |
 | 17 | S6E18 | The South Field | `THE_ARRIVALS_S6E18_LN_CHAPTER_01_THE_SOUTH_FIELD_v0.1.md` |
 | 18 | S6E18 | What Ciel Told Rimuru | `THE_ARRIVALS_S6E18_LN_CHAPTER_02_WHAT_CIEL_TOLD_RIMURU_v0.1.md` |
+| 19 | S6E19 | The Things in the Yard | `THE_ARRIVALS_S6E19_LN_CHAPTER_01_THE_THINGS_IN_THE_YARD_v0.1.md` |
+| 20 | S6E19 | Ask Before You Move It | `THE_ARRIVALS_S6E19_LN_CHAPTER_02_ASK_BEFORE_YOU_MOVE_IT_v0.1.md` |
+| 21 | S6E20 | An Hour in the North Field | `THE_ARRIVALS_S6E20_LN_CHAPTER_01_AN_HOUR_IN_THE_NORTH_FIELD_v0.1.md` |
+| 22 | S6E20 | The Other Sleeve | `THE_ARRIVALS_S6E20_LN_CHAPTER_02_THE_OTHER_SLEEVE_v0.1.md` |
+| 23 | S6E21 | Before You Go | `THE_ARRIVALS_S6E21_LN_CHAPTER_01_BEFORE_YOU_GO_v0.1.md` |
+| 24 | S6E21 | The Lamp on the Floor | `THE_ARRIVALS_S6E21_LN_CHAPTER_02_THE_LAMP_ON_THE_FLOOR_v0.1.md` |

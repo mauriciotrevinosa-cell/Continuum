@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Checkpoint S6 actual —2026-10-22:** V33#24, Day448night. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
+
 > **Actual production —2026-10-17:** [V27 The Way Home](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) is now a29-chapter draft, Days262–267; creator reading pending. [Production/exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md), [QA](S5_V27_CONTINUITY_QA_2026-10-17.md), [handoff](S5_PRODUCTION_HANDOFF_2026-10-16.md). Earlier unwritten/no-go-ahead notes below describe prior planning state; later volumes remain future.
 
 > **Última auditoría S5 — 2026-10-16:** [inventario de60, bases y destinos S5](S5_POWER_BASELINES_AND_END_STATE_ROSTER_2026-10-16.md) · [historial de cambios y consecuencias relacionales](S5_RELATIONSHIP_STATE_AND_CONSEQUENCES_2026-10-16.md).100%=extracción, mejoras por habilidad aun con kit incompleto; roster auditado de60+Ciel+Sukuna, porcentajes históricos separados y destinosS5 propuestos. Registro relacional mantiene consecuencias de escena a escena; no discusiónOri/MauV29 inventada. No prosaS5 nueva.

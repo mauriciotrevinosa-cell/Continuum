@@ -1,5 +1,7 @@
 # The Arrivals: cast ledger (living document, created 2026-10-10)
 
+> **Checkpoint S6 actual —2026-10-22:** V33#24, Day448night. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
+
 > **V31 current checkpoint:** Day291evening, chapter24; [exactstate](S5_V31_PRODUCTION_RECORD_2026-10-17.md), REL-S5-035–040. FullMau-dayR20paidDay290, Coco/motherbinding/Momoowncompany/bothweeklygatheringsshown. Tower1–3done, Level5/twentypoints/twostoredfinite; dateR16nextDay292. Olderentrynoticesarehistory.
 
 > **Current actual state: V30 complete, Day287night.** [Exit record](S5_V30_PRODUCTION_RECORD_2026-10-17.md), REL-S5-025–030. Fernsharedexecution/authority andactualtea; newtrialroles, singleinside relocation/shop, Sukuna nightconversation/expiry, plannedfirstfourpartyDay288. Level3/tenpoints/onefinite-reserveddragonunchanged, noBlackHeart. Olderpartialnoticesbelowhistorical.

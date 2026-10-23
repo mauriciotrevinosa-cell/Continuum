@@ -1,5 +1,7 @@
 # S6 — continuación tras la segunda Red Gate: mapa para discutir
 
+> **Checkpoint S6 actual —2026-10-22:** V33#24, Day448night. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
+
 **Fecha:**2026-10-22. **Estado:** PROPUESTA EDITORIAL; sin verde para prosa, capítulos nuevos, cambios retroactivos o cierre completo de S6. El [mensaje íntegro y las aclaraciones del creador](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md) tienen prioridad sobre esta organización. Orden y tamaño aquí son propuestas.
 
 ## Punto de partida comprobado

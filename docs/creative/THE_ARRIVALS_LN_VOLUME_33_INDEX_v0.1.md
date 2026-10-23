@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 33
 **Season:** 6
-**Coverage:** S6E10–S6E34
+**Coverage:** S6E10–S6E39
 **Volume title:** **Oppa**
-**Chapter files:** 50
+**Chapter files:** 60
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -63,3 +63,13 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 48 | S6E33 | The Orchard That Answered | `THE_ARRIVALS_S6E33_LN_CHAPTER_02_THE_ORCHARD_THAT_ANSWERED_v0.1.md` |
 | 49 | S6E34 | The Dog's Turn | `THE_ARRIVALS_S6E34_LN_CHAPTER_01_THE_DOG_S_TURN_v0.1.md` |
 | 50 | S6E34 | A Small Bundle | `THE_ARRIVALS_S6E34_LN_CHAPTER_02_A_SMALL_BUNDLE_v0.1.md` |
+| 51 | S6E35 | After the Touch | `THE_ARRIVALS_S6E35_LN_CHAPTER_01_AFTER_THE_TOUCH_v0.1.md` |
+| 52 | S6E35 | A Recommendation | `THE_ARRIVALS_S6E35_LN_CHAPTER_02_A_RECOMMENDATION_v0.1.md` |
+| 53 | S6E36 | The Long Way Back | `THE_ARRIVALS_S6E36_LN_CHAPTER_01_THE_LONG_WAY_BACK_v0.1.md` |
+| 54 | S6E36 | A Place to Stop | `THE_ARRIVALS_S6E36_LN_CHAPTER_02_A_PLACE_TO_STOP_v0.1.md` |
+| 55 | S6E37 | The Wrong Voice | `THE_ARRIVALS_S6E37_LN_CHAPTER_01_THE_WRONG_VOICE_v0.1.md` |
+| 56 | S6E37 | What They Call You | `THE_ARRIVALS_S6E37_LN_CHAPTER_02_WHAT_THEY_CALL_YOU_v0.1.md` |
+| 57 | S6E38 | Five Stones | `THE_ARRIVALS_S6E38_LN_CHAPTER_01_FIVE_STONES_v0.1.md` |
+| 58 | S6E38 | Three Lights Before Home | `THE_ARRIVALS_S6E38_LN_CHAPTER_02_THREE_LIGHTS_BEFORE_HOME_v0.1.md` |
+| 59 | S6E39 | The Other Angle | `THE_ARRIVALS_S6E39_LN_CHAPTER_01_THE_OTHER_ANGLE_v0.1.md` |
+| 60 | S6E39 | Being Good at Waiting | `THE_ARRIVALS_S6E39_LN_CHAPTER_02_BEING_GOOD_AT_WAITING_v0.1.md` |

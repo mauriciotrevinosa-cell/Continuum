@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#50, Day457afternoon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#60, Day465night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -199,3 +199,51 @@ Rimuru y Ciel conocen romance; Maki sospecha desde manos; Yuta/Mai/Frieren/Ori/c
 |50|A Small Bundle|1530|
 
 Bloque: 16686 palabras; mediana 1671.5.
+
+## Checkpoint _s6_b51_60 — V33#51–60
+
+### Hechos escritos, Days458–465
+
+| Capítulo | Día | Desarrollo efectivo |
+|---|---|---|
+|51 After the Touch|458 mañana|Yuta/Mau desarrollan salida después del contacto con madera; Yuka demuestra giro con cuerda y ambos aprenden de ella. Katana86 queda enfundada. No restauración de paternidad o consentimiento romántico por disfrutar práctica.|
+|52 A Recommendation|458 tarde|Mau elige té informal con Daphne/Echidna/Minerva. Discuten una farsa logística de muebles y él toma prestado el libro. No nueva sesión clínica ni terapia escondida en historias de memoria alterada.|
+|53 The Long Way Back|459 mañana|Cita privada Mau/Yuka enKaisel dentro de límite protegido, aviso/retorno anteslunch yRimuru casa. Hablan de decirlo a abuelos y admiten miedo, sin fecha de confesión ni solución garantizada. Beso privado; Yuta saluda al retorno sin saber.|
+|54 A Place to Stop|459 tarde|Comprobar permanencia de alineación451; llaman por separado a soldado yEar, luego atienden ambos bordes sin mezclar contenidos. Noise avisa Heavy y paran. Tercero sigue cerrado/sin nombre, no overflow provocado. Cáscara del orchard colgada con lazo de tela bajo alero.|
+|55 The Wrong Voice|459 noche|Roof regular de cinco, imitaciones domésticas sin técnicas y humor deTaihei. Rimuru puede reír conMau y seguir herido; no revelación.|
+|56 What They Call You|459 noche simultánea|Crackers enSeiko, Mai dibuja retrato que queda junto a lata. Frieren disfruta hablar deFern; pregunta cómo hablarle aMau sin convertir cada palabra en prueba. Maki cuenta práctica conocida, no secretos. Frieren se alegra por él y siente dolor por quedarse fuera.|
+|57 Five Stones|461 tarde|Momo/Okarun/Jiji/Vamola/Seiko juegan con cinco piedras;Vamola gana. Vida independiente, sin poderes ni artefacto nuevo. No confundir piedras con seis flores deMau.|
+|58 Three Lights Before Home|462 tarde|NuevoE trasreset462. Mau/Yuka/Anko/Yuta,Rimuru casa; reparan tres lámparas, breve combate coordinado y regreso. Reward material: rollo de tela encerada, alambre de cobre y3cristales, sin nuevoShadow oXPexacto.|
+|59 The Other Angle|463 mañana|Ensayo conGojo/Ciel: Blue prestadoYuka gira blanco móvil, se cierra y confirma antesdeRed propioMau desdeotroángulo. Prueba útil pequeña de secuencia; mayor demanda deRed dentro de margen común, noPurple ni dos suministrosgratuitos. Parada voluntaria,57retenidos.|
+|60 Being Good at Waiting|465 noche|Ori pide hablar aFrieren envezdeotraestrategiadejuego. Expresa frustración y temor; leveflickersinlesión. Frieren afirma elección propia como madre y no promete respuesta o cura porMau. Ofrece acompañarla siquierepreguntarle. Aún no pregunta pública.|
+
+### Consecuencias persistentes y privacidad
+
+REL-S6-C027(#51): Yuta/Mau/Yuka pueden aprender mutuamente; la pericia deYuka crece enescena sin queYuta conozca romance. Recordar su afecto real al escribir su enfado futuro.
+REL-S6-C028(#52): Mau tiene libro prestado deEchidna, mantener devolución o custodia posterior. Minerva con manos vendadas; buen té no habilita inspección.
+REL-S6-C029(#53): Mau/Yuka reconocen explícitamente coste de ocultar y posponen contarlo. No prometieron mentir ni obtuvieron absolución. Brazalete físico de flor sigue distinto deSystem; significado cultural no conocido por ellos.
+REL-S6-C030(#54): Noise avisa/paran a tiempo; confían un poco más sin fusión total. Opción futura de umbral compartido es sólo propuesta, no resultado ya escrito.
+REL-S6-C031(#55–57): continúan amistades yparejas fuera del conflicto. RetratoSeiko enestante es nuevo objeto real, no parte de recuerdos románticos a borrar.
+REL-S6-C032(#58–59): dupla más coordinada; Gojo/Yuta/Anko conocen límites prácticos, no besos o familia imaginada. Usan ángulos y secuencia, no nueva convergencia.
+REL-S6-C033(#60): Ori verbaliza que esperar también duele, Frieren acompaña como madre por derecho propio. Su pregunta aMau sigue pendiente para466, ya no otrojuego terminado en dolor idéntico. Milim duerme, no oyó toda la charla por defecto.
+
+### Salida y continuidad siguiente
+
+57puntos retenidos,14/40nombres+98soldados, dosunmadepermanentes. Ninguna mejora numérica adicional/curación de secuelas/cáncer activo. Gate normal actualreset462; próxima469. Roof/crackers459cumplidos, próximo466 si circunstancias dejan. Los días460/464 sincapítulo dedicado no contienen una técnica, revelación o evento crítico supuesto.
+
+Ciel/Rimuru conocen romance; Maki conserva sospecha de manos; resto no. Frieren esperanza cauta y dolor coexistentes, sin agresión todavía. Iniciar466 con pregunta deOri y consecuencias de la salida, respetando espacio/consentimiento/seguridad del edificio. El ataque realFrieren yel trato siguen futuros, no rellenar con una promesa de cura. Continuar después de este respaldo.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|51|After the Touch|1611|
+|52|A Recommendation|1486|
+|53|The Long Way Back|1745|
+|54|A Place to Stop|1501|
+|55|The Wrong Voice|1440|
+|56|What They Call You|1703|
+|57|Five Stones|1750|
+|58|Three Lights Before Home|2059|
+|59|The Other Angle|1733|
+|60|Being Good at Waiting|1496|
+
+Bloque: 16524 palabras; mediana 1657.0.

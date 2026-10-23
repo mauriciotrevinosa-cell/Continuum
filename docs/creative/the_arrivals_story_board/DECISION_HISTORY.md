@@ -2058,3 +2058,7 @@ V34#5–10 desarrolla distancia delFort, pareja, entrenamiento pausado, vida mus
 ### DH-135 continuación — V34#11–16, checkpoint _s6_v34_b11_16 (2026-10-23)
 
 V34#11–16 da espacio al aftermath real del ataque, a la elección de Yuka de recibir compañía, al conocimiento no omnisciente de Ori y al apoyo de Fern. Citas y vida autónoma siguen entre consecuencias. El avance de accesos es una construcción técnica limitada y comprobable, sin cura afectiva ni expansión de recursos. Se registra custodia temporal de vara y una corrección material mínima explícita a10 (coat→sleeve). Ningún otro capítulo anterior cambia. El arco sigue abierto y se continúa tras este checkpoint.
+
+### DH-135 continuación — V34#17–20, checkpoint _s6_v34_b17_20 (2026-10-23)
+
+V34#17–20 mantiene cuidado de Frieren con límites y vínculos activos de Bocchi y la banda, además de progresión de coordinación y refinamiento de la copia áspera ya existente. No se inventa baseline, kit entero o cura. Se integra auditoría de fuentes para que el siguiente tramo distinga lo construido de lo sólo visto. Se publica como checkpoint de continuidad, no como cierre del arco o temporada.

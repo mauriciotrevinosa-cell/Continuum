@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#16, Day470morning. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#20, Day472noon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -412,3 +412,38 @@ Bokken astillado de7 sigue apartado para limar; práctica con Yuta continúa en 
 |16|The First Step|1627|
 
 Bloque: 11175 palabras; mediana 1712.5.
+
+## Checkpoint _s6_v34_b17_20 — V34#17–20
+
+### Escenas producidas
+
+| Capítulo | Día | Hecho y límite |
+|---|---|---|
+|17 The Wrong Side|470 después de cena|Mai/Seiko visitan a Frieren, con hechos públicos contados previamente por Fern e invitación aceptada. Reparan el cojín de Seiko como tarea propia. F participa un poco, sigue apagada en silla; Mai no habla por Maki ni trae perdón. Fern toma tiempo con Stark. No reunión semanal de crackers, próxima473.|
+|18 Neither of You|471 mañana|Mau/Yuka ante Gojo/Umaru prueban dos Blue pequeños existentes con dos sacos en movimiento. Primer intento pide aumentos simultáneos, aviso y cierre antes de exceder cap. Descansan, comienzan correcciones antes y acortan oscilaciones; tarea simultánea pequeña exitosa sin más capacidad. No Red prestado, Purple o nueva reserva. Umaru registra ambas responsabilidades sin reparar vínculo por colaborar.|
+|19 After the Second Verse|471 después de cena|Bocchi concreta la invitación que quería en8; Kita la acompaña hasta esquina. Mau escucha solo por esa invitación. Las cuatro trabajan arreglo musical, espacio tras segundo verso y dos notas de Ryo. Bocchi antes recibió de Fern hechos públicos del jardín; no testigo. Expresa quererlo en casa y seguir hermana pese a enojo, sin exigir memoria/afecto recíproco. Mau ofrece respuesta actual, no restauración.|
+|20 A Smaller Fold|472 antes de comida|Mau con Gojo/Shoko y Ciel/Noise prueba liberar sólo un borde de sky-grab ya construido/usado en S6E08. Primer movimiento de tela no se acepta como prueba pues puede ser viento; segundo deja ver línea de caída doblada brevemente. Presión leve detrás de ojo izquierdo produce cierre, sin repetir. Nadie sirve de blanco, sin lesión. No kit entero de Uro ni dominio/Ryu concedidos.|
+
+### Consecuencias duraderas
+
+- **REL-S6-C053,17:** Seiko/Mai siguen amigas de F sin justificar agresión, negociar por Maki o buscar a Yuka para forzar perdón. F se queda en silla al irse; participación mínima no es curación del hundimiento. El cojín reparado pertenece a Seiko y se lo lleva, no regalo que sustituye cojín de Yuka.
+- **REL-S6-C054,18:** dupla sigue pudiendo trabajar y disfrutar sin que eso vuelva la casa feliz. Umaru conserva ayuda técnica y distinción de responsabilidad pese al dolor. Gojo mantiene humor y exige límites de verdad; ejercicio usa bolsas y campo aislado, no agresiones de demostración.
+- **REL-S6-C055,19:** Bocchi expresa afecto de hermana que ella conserva. No implica aprobar ocultación, perdonar todo o que Mau ya sienta/recuerde fraternidad anterior. Kita sigue su pareja con apoyo propio. Escuchar arreglo tiene objeto musical real y no es prueba de recuperación. Invitación abierta a volver, sin show fechado.
+- **REL-S6-C056,20:** Mau elige refinar defensa que permita apartar un ataque sin poner su cuerpo en medio, motivado por jardín468. No se declara ahora listo para parar Zoltraak así, ni sana la relación con F. Maestro y Shoko sostienen cuidado y exigencia; no piden olvidar acto.
+
+### Poderes / materiales / calendario
+
+57 retenidos,14/40 nombres,98 soldados, dos unmade permanentes, Tank entero. Ningún nuevo nivel cuantificado o stat gastado. La auditoría de fuentes adjunta distingue nivel106 como última lectura explícita, Intelligence440 como última cifra conocida, reparto posterior no desglosado, Uro construido/usado frente a Ryu sólo observado, y mejoras futuras que aún no están activas. Su punto de observación previo a16 es histórico; el nuevo comienzo compartido ya producido16 se conserva sin probar persistencia posterior.
+
+Ejercicio18 no aumenta suma del préstamo y salida propia; corrección menor y más temprana explica resultado. Refinamiento20 no estrena la copia: la vuelve pequeña con Noise sosteniendo el resto detrás. La presencia de un patrón no da el resto del kit. Presión20 es transitoria sin lesión/cura nueva; baseline ojo/mano/pelo no cambia. No full Infinity, RCT constante, elf route abierta, intimidation o Monarch's Domain por escribir su nombre.
+
+Staff de F sigue intacta en oficina baja de Rimuru. Pausa con Yuta y bokken astillado no resueltos. Cojín de Yuka intacto fuera del Fort, lotus en muñeca, sin borrado material. No visita a la gate normal desde reset469 en estas escenas; no se asume inventario nuevo. Próximo roof/crackers473, próximo reset476. Última cita, ultimátum24h y ayuda de la Diosa siguen futuros. El arco aún no está cerrado; continuar tras respaldo.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|17|The Wrong Side|1592|
+|18|Neither of You|1613|
+|19|After the Second Verse|1543|
+|20|A Smaller Fold|1476|
+
+Bloque: 6224 palabras; mediana 1567.5.

@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#10, Day468afternoon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#16, Day470morning. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -370,3 +370,45 @@ Aftermath inmediato de10: cuidado de F/Fern/Shoko con responsabilidad y límites
 |10|The Flower on Her Wrist|2298|
 
 Bloque: 11434 palabras; mediana 1906.0.
+
+## Checkpoint _s6_v34_b11_16 — V34#11–16
+
+### Escenas y conocimiento
+
+| Capítulo | Día | Hecho observado |
+|---|---|---|
+|11 The Hand Beside the Book|468 tarde, inmediatamente después de10|Frieren admite ante Fern/Shoko que eligió herir, no advertir. Ambas llegaron después y preguntan. Frieren les transmite también la amenaza concreta de Maki. Acepta no buscar a Yuka/Mau ni recuperar ahora la vara. Fern sigue enfadada y aun así se queda con ella; Shoko entra a comprobar a los demás.|
+|12 Here With You|468 tarde, paralelo a11|Maki/Mau cuentan a Yuta, que no fue testigo. Con permiso de Rimuru, Maki deja la vara de Frieren en una esquina detrás de su escritorio en la oficina de abajo: no devolverla sin hablar antes, sin confundir custodia con quitar toda magia. Yuka elige su cuarto y pide a Mau quedarse; abuelos acompañan, agradecen bloqueo sin reconciliación automática. Lotus permanece puesto.|
+|13 Before You Go In|468 noche|Shoko ha revisado dentro y reporta ningún herido; Fern informa a Ori antes de entrar. Ori no se vuelve testigo ni culpable por su enfado/exclusión anterior. Pregunta a su madre, mantiene apego y dolor; Frieren promete no herir a Yuka. Libro de jardín ya devuelto al cuarto este, vara no. Fern busca apoyo propio con Stark.|
+|14 Three in a Row|469 mañana|Paseo dentro del perímetro anunciado directamente a Rimuru; vuelven antes de comida. Juego en tierra, beso elegido, sobresalto y temor reales sin lesión o cura. La gate reseteó469 pero no entran ni conocen sus contenidos.|
+|15 All of Them Count|469 tarde|Kaneki/Touka/Ichika inventan bolos de seis bloques y pelota de trapo; resuelven problema del suelo y juegan. Yuta informó a Kaneki esa mañana de disparo/bloqueo/cero impacto; Kaneki contó a Touka sin Ichika presente. Padres café negro, Ichika agua. Actividad autónoma, sin reconciliación por decreto.|
+|16 The First Step|470 mañana|Mau/Rimuru/Umaru con Ciel/Noise construyen un comienzo exterior común breve para dos rutas y bifurcación interior. Soldado ya registrado y Ear llamados por separado. Al aviso de peso cierran; no probar persistencia hasta otra fecha. No cambiar contenidos, reservas, cupos o tercer acceso.|
+
+### Consecuencias y límites duraderos
+
+- **REL-S6-C048,11–13:** responsabilidad real de Frieren y cuidado coexisten. Ella misma reconoce intención y no culpa al regalo, a Yuka, a posesión o al robo mental. Fern no puede comprenderla ni perdonarla de inmediato; su compañía no exige estar disponible sin descanso. Ori sabe por relato de Fern y no debe mediar o reparar adultos. No convertir cercanía madre/hija en absolución del ataque.
+- **REL-S6-C049,12:** Maki y Yuta eligen quedarse con su nieta; no salen a vengarse. La amenaza de Maki es real y no retirada. Yuka queda asustada pese a poder combatir, no provocó un ataque por acercarse a hablar. Puede conservar regalo mientras decide; no se le obliga a quitarlo. Mau acompaña por petición explícita.
+- **REL-S6-C050,14:** pareja mantiene gozo y elección durante fractura, con temor que no se cura por paseo/beso. El retorno anunciado cumple el compromiso con Rimuru sin convertir su respuesta práctica en aprobación.
+- **REL-S6-C051,15:** familia Kaneki tiene actividad, humor y vida propia; preocupación por casa permanece en elección de lugar. Ni Touka ni Kaneki son testigos retroactivos ni Ichika recibe toda la información.
+- **REL-S6-C052,16:** colaboración técnica entre Mau/Rimuru/Umaru continúa con dolor relacional no resuelto. Umaru pregunta si se intenta reparar memoria y recibe no. Los resultados técnicos no fabrican afecto ni restauran la fraternidad. Noise coopera, avisa y para sin convertirse en rueda que habla.
+
+### Estado técnico y material al terminar16
+
+57 puntos retenidos;14/40 nombres y98 soldados, Tank entero y dos unmade permanentes. Sin nuevo nivel personal cuantificado, extracción, reconstrucción o técnica. Intelligence440 sigue última cifra explícita anterior; no inventar totales a partir del reparto no numerado de la gate. Ojo/mano/pelo continúan. Presión transitoria468 ya asentada en seguimiento de Shoko; no es curación de secuela.
+
+Dos rutas tienen ahora un comienzo común que se bifurca; cada interior y reserva sigue distinto. No es fusión de los tres accesos, no abre el tercero, no gasta overflow ni prueba Heart infinito. Su persistencia en otra fecha no está confirmada todavía. Umaru conserva dos dibujos, el nuevo con fecha y marca del aviso. Diálogo privado Ciel/Noise se transmite a Umaru mediante Mau/Rimuru; no puede oírlos por arte de narración.
+
+Vara de F intacta detrás del escritorio en oficina baja de Rimuru; no confiscación mágica absoluta. Libro vuelto al cuarto este. Cojín de Yuka intacto en silla fuera del Fort; coat en gancho durante12, usado en paseo14. Se corrige únicamente una mención material de10: sleeve en lugar de coat, para no hacerla llevar una prenda que12 establece que dejó en casa. Sin cambiar ataque, intención, defensa, lesión o fechas.
+
+Bokken astillado de7 sigue apartado para limar; práctica con Yuta continúa en pausa sin fecha. Familia Kaneki conserva cinco bloques y bola en bandeja bajo cama, sexto bloque dormido en manta; no sistema nuevo. Próximo roof/crackers473, gate actual desde469 y siguiente476. Plazo24h, posibilidad de ayuda y última cita aún pendientes. Continuar después del respaldo.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|11|The Hand Beside the Book|2176|
+|12|Here With You|2305|
+|13|Before You Go In|1702|
+|14|Three in a Row|1642|
+|15|All of Them Count|1723|
+|16|The First Step|1627|
+
+Bloque: 11175 palabras; mediana 1712.5.

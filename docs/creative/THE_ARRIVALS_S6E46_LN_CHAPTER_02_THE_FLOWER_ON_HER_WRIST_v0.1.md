@@ -229,7 +229,7 @@ Only then did Mau let Infinity close.
 
 He had to put his weight back over his feet. The pressure at the side of his head stayed for a moment after the light was gone.
 
-There was no hole in the wall. No mark through Yuka's coat. The book lay on the bench where it had fallen.
+There was no hole in the wall. No mark through Yuka's sleeve. The book lay on the bench where it had fallen.
 
 Yuka was shaking.
 

@@ -2054,3 +2054,7 @@ Se inicia V34 con cuatro escenas completas del mismo Day466, conservando V33 int
 ### DH-135 continuación — V34#5–10, checkpoint _s6_v34_b5_10 (2026-10-23)
 
 V34#5–10 desarrolla distancia delFort, pareja, entrenamiento pausado, vida musical y amistadF/Maki antes del intento real solicitado. El ataque de10 queda inequívoco y acotado con capacidades previamente observadas; nadie resulta herido y su gravedad no se deshace por ello. Se preservan consecuencias, custodia de vara y conocimiento por testigo. Revisión cruzada completa y correcciones de calendario/juego hechas antes de publicar. El arco sigue abierto.
+
+### DH-135 continuación — V34#11–16, checkpoint _s6_v34_b11_16 (2026-10-23)
+
+V34#11–16 da espacio al aftermath real del ataque, a la elección de Yuka de recibir compañía, al conocimiento no omnisciente de Ori y al apoyo de Fern. Citas y vida autónoma siguen entre consecuencias. El avance de accesos es una construcción técnica limitada y comprobable, sin cura afectiva ni expansión de recursos. Se registra custodia temporal de vara y una corrección material mínima explícita a10 (coat→sleeve). Ningún otro capítulo anterior cambia. El arco sigue abierto y se continúa tras este checkpoint.

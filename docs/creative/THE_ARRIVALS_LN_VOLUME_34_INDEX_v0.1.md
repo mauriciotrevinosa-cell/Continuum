@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 34
 **Season:** 6
-**Coverage:** S6E42–S6E46
+**Coverage:** S6E42–S6E49
 **Volume title:** **Both**
-**Chapter files:** 10
+**Chapter files:** 16
 
 Continues the preceding volume without a relationship or power reset. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -23,3 +23,9 @@ Continues the preceding volume without a relationship or power reset. [Current p
 | 8 | S6E45 | Somewhere to Breathe | `THE_ARRIVALS_S6E45_LN_CHAPTER_02_SOMEWHERE_TO_BREATHE_v0.1.md` |
 | 9 | S6E46 | A Place in the Same House | `THE_ARRIVALS_S6E46_LN_CHAPTER_01_A_PLACE_IN_THE_SAME_HOUSE_v0.1.md` |
 | 10 | S6E46 | The Flower on Her Wrist | `THE_ARRIVALS_S6E46_LN_CHAPTER_02_THE_FLOWER_ON_HER_WRIST_v0.1.md` |
+| 11 | S6E47 | The Hand Beside the Book | `THE_ARRIVALS_S6E47_LN_CHAPTER_01_THE_HAND_BESIDE_THE_BOOK_v0.1.md` |
+| 12 | S6E47 | Here With You | `THE_ARRIVALS_S6E47_LN_CHAPTER_02_HERE_WITH_YOU_v0.1.md` |
+| 13 | S6E48 | Before You Go In | `THE_ARRIVALS_S6E48_LN_CHAPTER_01_BEFORE_YOU_GO_IN_v0.1.md` |
+| 14 | S6E48 | Three in a Row | `THE_ARRIVALS_S6E48_LN_CHAPTER_02_THREE_IN_A_ROW_v0.1.md` |
+| 15 | S6E49 | All of Them Count | `THE_ARRIVALS_S6E49_LN_CHAPTER_01_ALL_OF_THEM_COUNT_v0.1.md` |
+| 16 | S6E49 | The First Step | `THE_ARRIVALS_S6E49_LN_CHAPTER_02_THE_FIRST_STEP_v0.1.md` |

@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#20, Day472noon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#24, Day474noon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -447,3 +447,38 @@ Staff de F sigue intacta en oficina baja de Rimuru. Pausa con Yuta y bokken asti
 |20|A Smaller Fold|1476|
 
 Bloque: 6224 palabras; mediana 1567.5.
+
+## Checkpoint _s6_v34_b21_24 — V34#21–24
+
+### Escenas y transmisión de información
+
+| Capítulo | Día | Hecho observado |
+|---|---|---|
+|21 You Can Sit There|473 mañana|Mau pide pasar tiempo con Ori/Rem al desgranar judías. Fern sólo le había dicho que madre/hija estuvieron juntas, no su conversación13. Ori permite la tarea y sigue enfadada. Él afirma querer recordar/conocerla, sin declarar restaurado amor paterno. Ella distingue querer a su madre de aprobar ataque, y pide que no anuncie que está mejor sólo porque hicieron algo juntos.|
+|22 Five Cups|473 noche|Roof retomado por invitación individual de Rimuru, cinco habituales M/R/Yuta/Gojo/Taihei, escalera/hatch de corredor este. Yuta elige estar y no vigilar cada risa; sigue enfadado y no reanuda bokken. Taihei habla de Umaru desde lo que él vive con ella, no expone frases privadas. Chistes de recipientes/comida y trabajo, sin convertir reunión en acuerdo de perdón.|
+|23 The Face Beside the Tin|473 noche, paralelo|Crackers parcial en cuarto de Seiko: Seiko/Mai/Shoko/Turbo. Maki declina invitación de Mai para quedarse con Yuta/Yuka; F declina por Fern, sin insistir. Seiko informó antes a Turbo de hechos públicos del jardín. Conservan dolor y humor con retrato antiguo459 y un boceto nuevo de barbilla. Mai considera pedir paseo sólo a su hermana, sin fecha o respuesta supuesta.|
+|24 The Mill Without Water|474 mañana|Encuesta de la gate normal E desde reset469 por Mau/Yuka/Anko, Igris guardia registrado y Rimuru queda en casa. Reportan plan de primer edificio/retorno. Molino seco, dos guardianes rodantes y piso roto. Dos Blue acotados, corrección temprana compartida y cuerda crean aperturas para Igris. Ignoran oportunidad mal puesta y no exploran rama profunda. Dos cristales recuperados; regreso antes de comida, informe explícito. Descanso/afecto real de pareja con Anko presente no borra miedo de Yuka.|
+
+### Consecuencias duraderas
+
+- **REL-S6-C057,21:** Ori permite tiempo ordinario limitado, no se obliga a sentirse mejor ni a perdonar a nadie. Mau puede querer reconstruir vínculo sin fingir recuperar el amor robado. No se vuelve otro Mau ni niega que ella sea su hija. No exige a Ori escoger entre cuidar a su madre y querer a su padre; ella mantiene autonomía al terminar tarea.
+- **REL-S6-C058,22:** roof puede existir con incomodidad y enfado. Yuta no reanuda práctica automáticamente; ayudar a bajar bandeja no retira el daño por ocultación. Taihei distingue ayuda de Umaru del supuesto intento de sacar un resultado de Mau. Ninguno recibe conversación de crackers por escuchar risa o corte editorial.
+- **REL-S6-C059,23:** ausencias de F/Maki cuentan de verdad. Mai puede querer visitar a ambas sin pedir reconciliación ni hablar en nombre de su hermana. Shoko no vuelve advertencia/accidente lo que F admitió como intento real. Risa tiene objeto propio, no es cura. Retrato viejo queda junto al tin y boceto nuevo en mesa de Seiko, no borrados.
+- **REL-S6-C060,24:** pareja puede pelear coordinada y disfrutar al aire libre; la emoción al volver a casa no desaparece. Anko cumple rol de exploración y cuidado sin declarar inocentes a todos. Yuka no necesita fingir no tener sobresaltos para ser competente. Mau elige no rescatar con más salida un mal ángulo, aplicando límite18.
+
+### Estado exacto al cerrar24
+
+57 retenidos,14/40 registrados con nombre y98 soldados. Igris ya registrado se invoca y guarda sin coste de nueva extracción/reconstrucción. Dos cristales nuevos dentro de bolsa, no inventario de shop/grimorio o premio extra. Sin nivel nuevo cuantificado. Gate actual desde469: primer molino y patio inspeccionados474, dos guardianes eliminados; piso posterior roto y ruta profunda no explorados. Próximo reset476.
+
+Dos accesos tienen comienzo común desde470 pero persistencia a otra fecha aún no probada; tercero cerrado. La copia áspera refinada20 no se usa para bloquear guardianes24; aquí sólo herramientas conocidas y coordinadas. No nuevo gasto, kit o cura. Mano/visión/pelo mantienen secuelas. Vara de F sigue oficina de Rimuru, práctica con Yuta pausada, cojín de Yuka intacto fuera del Fort.
+
+Roof/crackers473 sí sucedieron parcialmente como se registra; próximos480. No hubo reunión466 que recuperar retroactivamente. Plazo24h y posibilidad de ayuda de Diosa aún no ocurrieron; no presentar el trabajo técnico como restitución de la memoria. Última cita y confidencia privada de cáncer siguen futuras. Total del tramo nuevo tras V33#18:70 capítulos producidos (46 en33 +24 en34), no cuota cerrada. Continuar con espacio suficiente para desarrollo pendiente.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|21|You Can Sit There|1393|
+|22|Five Cups|1462|
+|23|The Face Beside the Tin|1374|
+|24|The Mill Without Water|1612|
+
+Bloque: 5841 palabras; mediana 1427.5.

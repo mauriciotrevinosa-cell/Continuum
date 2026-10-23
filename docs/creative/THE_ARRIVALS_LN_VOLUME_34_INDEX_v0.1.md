@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 34
 **Season:** 6
-**Coverage:** S6E42–S6E51
+**Coverage:** S6E42–S6E53
 **Volume title:** **Both**
-**Chapter files:** 20
+**Chapter files:** 24
 
 Continues the preceding volume without a relationship or power reset. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -33,3 +33,7 @@ Continues the preceding volume without a relationship or power reset. [Current p
 | 18 | S6E50 | Neither of You | `THE_ARRIVALS_S6E50_LN_CHAPTER_02_NEITHER_OF_YOU_v0.1.md` |
 | 19 | S6E51 | After the Second Verse | `THE_ARRIVALS_S6E51_LN_CHAPTER_01_AFTER_THE_SECOND_VERSE_v0.1.md` |
 | 20 | S6E51 | A Smaller Fold | `THE_ARRIVALS_S6E51_LN_CHAPTER_02_A_SMALLER_FOLD_v0.1.md` |
+| 21 | S6E52 | You Can Sit There | `THE_ARRIVALS_S6E52_LN_CHAPTER_01_YOU_CAN_SIT_THERE_v0.1.md` |
+| 22 | S6E52 | Five Cups | `THE_ARRIVALS_S6E52_LN_CHAPTER_02_FIVE_CUPS_v0.1.md` |
+| 23 | S6E53 | The Face Beside the Tin | `THE_ARRIVALS_S6E53_LN_CHAPTER_01_THE_FACE_BESIDE_THE_TIN_v0.1.md` |
+| 24 | S6E53 | The Mill Without Water | `THE_ARRIVALS_S6E53_LN_CHAPTER_02_THE_MILL_WITHOUT_WATER_v0.1.md` |

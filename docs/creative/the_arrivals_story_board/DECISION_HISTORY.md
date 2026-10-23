@@ -2062,3 +2062,7 @@ V34#11–16 da espacio al aftermath real del ataque, a la elección de Yuka de r
 ### DH-135 continuación — V34#17–20, checkpoint _s6_v34_b17_20 (2026-10-23)
 
 V34#17–20 mantiene cuidado de Frieren con límites y vínculos activos de Bocchi y la banda, además de progresión de coordinación y refinamiento de la copia áspera ya existente. No se inventa baseline, kit entero o cura. Se integra auditoría de fuentes para que el siguiente tramo distinga lo construido de lo sólo visto. Se publica como checkpoint de continuidad, no como cierre del arco o temporada.
+
+### DH-135 continuación — V34#21–24, checkpoint _s6_v34_b21_24 (2026-10-23)
+
+V34#21–24 vuelve a Ori/Mau sin restaurar su vínculo por decreto; roof y crackers existen con consecuencias y ausencias reales. Se intercalan conversación, humor y pequeña expedición de pareja con peligro y herramientas delimitados. Se conserva geografía, transmisión de información y conteos. El respaldo llega a70 capítulos nuevos desde el punto inicial; eso no cierra lo que sigue ni autoriza comprimirlo para encajar un número.

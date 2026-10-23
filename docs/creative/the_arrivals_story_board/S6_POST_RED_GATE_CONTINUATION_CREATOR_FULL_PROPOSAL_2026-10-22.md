@@ -1,6 +1,6 @@
 # S6 — continuación tras la Red Gate: propuesta íntegra del creador
 
-> **Checkpoint S6 actual —2026-10-22:** V34#20, Day472noon. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
+> **Checkpoint S6 actual —2026-10-22:** V34#24, Day474noon. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
 
 **Fecha:**2026-10-22. **Estado:** intake de ideas y aclaraciones; NO verde para escribir ni modificar capítulos. El creador declara que el orden y los ejemplos son flexibles. Las respuestas explícitas siguientes fijan dirección para planear, no convierten las escenas futuras en hechos ya ocurridos.
 

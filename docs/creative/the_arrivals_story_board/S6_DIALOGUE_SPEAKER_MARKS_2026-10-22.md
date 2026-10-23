@@ -54,3 +54,11 @@ Usar `[código]` antes de cada intervención real: `[M] "..." he said.` Conserva
 |Tank|Ta|Diosa/Goddess,ya identificada|Dio|
 
 Para una voz realmente desconocida usar `[?]` hasta identificarla: las iniciales no deben revelar identidades selladas o misterios por adelantado. Añadir otros códigos con fuente antes de necesitarlos, sin inventar hablantes o capacidad de hablar(Kaisel/Ear no ganan voz por esta convención).
+
+## Adición de código —2026-10-23
+
+| Persona | Marca |
+|---|---|
+|Ori|O|
+
+Ori interviene desde49; la marca no cambia su estado familiar ni lo que Mau recuerda. Esta adición completa el registro, sin retocar los capítulos previos.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 33
 **Season:** 6
-**Coverage:** S6E10–S6E29
+**Coverage:** S6E10–S6E34
 **Volume title:** **Oppa**
-**Chapter files:** 40
+**Chapter files:** 50
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -53,3 +53,13 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 38 | S6E28 | The Lower Bridge | `THE_ARRIVALS_S6E28_LN_CHAPTER_02_THE_LOWER_BRIDGE_v0.1.md` |
 | 39 | S6E29 | The Seat by the Hatch | `THE_ARRIVALS_S6E29_LN_CHAPTER_01_THE_SEAT_BY_THE_HATCH_v0.1.md` |
 | 40 | S6E29 | The Painted Tin | `THE_ARRIVALS_S6E29_LN_CHAPTER_02_THE_PAINTED_TIN_v0.1.md` |
+| 41 | S6E30 | What Belonged Together | `THE_ARRIVALS_S6E30_LN_CHAPTER_01_WHAT_BELONGED_TOGETHER_v0.1.md` |
+| 42 | S6E30 | An Inch Lower | `THE_ARRIVALS_S6E30_LN_CHAPTER_02_AN_INCH_LOWER_v0.1.md` |
+| 43 | S6E31 | Ten, Not All of Them | `THE_ARRIVALS_S6E31_LN_CHAPTER_01_TEN_NOT_ALL_OF_THEM_v0.1.md` |
+| 44 | S6E31 | What Might Come After | `THE_ARRIVALS_S6E31_LN_CHAPTER_02_WHAT_MIGHT_COME_AFTER_v0.1.md` |
+| 45 | S6E32 | The Second Button | `THE_ARRIVALS_S6E32_LN_CHAPTER_01_THE_SECOND_BUTTON_v0.1.md` |
+| 46 | S6E32 | Keep Still | `THE_ARRIVALS_S6E32_LN_CHAPTER_02_KEEP_STILL_v0.1.md` |
+| 47 | S6E33 | From Behind the Line | `THE_ARRIVALS_S6E33_LN_CHAPTER_01_FROM_BEHIND_THE_LINE_v0.1.md` |
+| 48 | S6E33 | The Orchard That Answered | `THE_ARRIVALS_S6E33_LN_CHAPTER_02_THE_ORCHARD_THAT_ANSWERED_v0.1.md` |
+| 49 | S6E34 | The Dog's Turn | `THE_ARRIVALS_S6E34_LN_CHAPTER_01_THE_DOG_S_TURN_v0.1.md` |
+| 50 | S6E34 | A Small Bundle | `THE_ARRIVALS_S6E34_LN_CHAPTER_02_A_SMALL_BUNDLE_v0.1.md` |

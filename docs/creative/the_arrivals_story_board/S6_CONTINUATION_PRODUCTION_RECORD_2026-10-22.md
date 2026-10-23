@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#40, Day452night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#50, Day457afternoon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -146,3 +146,56 @@ Continuar453 con ajuste florMaki/Mai, censo de restos y vida/entrenamiento/citas
 |40|The Painted Tin|1613|
 
 Bloque: 16037 palabras; mediana 1617.5.
+
+## Checkpoint _s6_b41_50 — V33#41–50
+
+### Retoma tras el corte,2026-10-23
+
+El creador pidió continuar. Este respaldo de diez capítulos no concluye el arco ni detiene el trabajo. Las marcas de hablante comienzan exactamente en41;1–40 se conservan. Los conteos excluyen las etiquetas.
+
+### Hechos efectivamente escritos
+
+| Capítulo | Día | Desarrollo |
+|---|---|---|
+|41 What Belonged Together|453 mañana|Mau/Anko/Umaru separan suelo y restos del guardián de vidrio. Una extracción nueva: Skein, con coste de cup;14/40 nombres,98 soldados. Restos que no responden pasan al taller como materiales numerados, no ejército.|
+|42 An Inch Lower|453 mañana tarde|Mai/Maki cumplen el ajuste de la flor de plata prometido40. Giro y cordón nuevo evitan enganchar manga; no nueva Construction ni revelación del secreto.|
+|43 Ten, Not All of Them|453 tarde|Mau elige gastar diez:6Endurance+4Agility. Quedan57. Comparación de movimiento con Shoko/Gojo/Umaru y una prueba aislada de Red propio pequeño. No Red compartido, Purple, curación o porcentaje nuevo.|
+|44 What Might Come After|454 antes de mediodía|Cita Mau/Yuka por paso inferior y patio E conocidos, con aviso/retorno y Igris vigilando lejos. Imaginan quizá tener familia algún día, sin excluir a Ori, sin promesa biológica, boda o embarazo. Beso privado; no confidencia del cáncer.|
+|45 The Second Button|454 noche|Yuka inicia intimidad, conserva el bra, recuerda la advertencia de Kamish y frena por conflicto. Mau respeta inmediatamente. Se visten y hablan; no sexo ni visita/presencia real de Kamish.|
+|46 Keep Still|455 mañana|Momo/Okarun se dibujan; Vamola participa. Convivencia propia de la pareja, intercambian retratos físicos y un beso. No nueva cámara ni cambio de memoria.|
+|47 From Behind the Line|455 mediodía|Marin/Wakana/Rem/Ram juegan ring toss con cuerda y retales de madera; descanso e iniciativa independientes. Sin nuevo poder o proyecto industrial.|
+|48 The Orchard That Answered|456 tarde|Nuevo E tras reset455. Mau/Yuka/Fern/Stark, Rimuru casa. Tres criaturas de corteza; cooperación con pulls pequeños y ataque de Fern/Stark. Cierre del préstamo al crecer presión, descanso y regreso con mapa,3 cristales y cáscara musical. Catálogo limitado confirmado para esta gate; sin compra, nuevo shadow ni salto numérico de nivel.|
+|49 The Dog's Turn|457 mañana|Ori/Milim/Umaru juegan con Ear; Mau se une, ríe y abraza a Ori. Familiaridad ocasional sin reconocimiento afectivo restaurado. Ori siente el contraste; no quiebre público ni descubrimiento.|
+|50 A Small Bundle|457 tarde|Frieren/Fern estudian juntas el grimoire existente de lluvia sobre un bulto pequeño. Tiempo elegido y elogio concreto; no nuevo Zoltraak, escala paraguas humano ni relación de hermanas.|
+
+### Consecuencias que deben persistir
+
+REL-S6-C019(#41): colaboración Mau/Umaru/Anko concreta y humor;14nombres no reemplazan los dos unmade permanentes.
+REL-S6-C020(#42): Mai/Maki reciben tiempo propio y resuelven la manga sin ganar nueva certeza sobre Yuka.
+REL-S6-C021(#43): Mau decide la inversión con información y compañía; cuerpo todavía necesita ajuste, revisión posterior y descanso. No se curan mano/ojo ni pelo blanco.
+REL-S6-C022(#44–45): Mau/Yuka ya han imaginado familia futura. El deseo existe y el límite sin sexo también. Yuka todavía no cuenta su cáncer; Mau no sabe. Ese futuro no se borra de su recuerdo por el freno.
+REL-S6-C023(#46–47): retratos Momo/Okarun en sus bolsillos y dibujo Vamola quedan físicos; juego del taller puede repetirse. Ninguno conoce romance ajeno por disfrutar su propio día.
+REL-S6-C024(#48): Fern/Stark/Yuka/Mau tienen nueva coordinación y una anécdota compartida; Bocchi oye el objeto al retorno. No presencian beso ni conversación44.
+REL-S6-C025(#49): Ori disfruta de verdad y aun así extraña ser reconocida como hija. Próximo acercamiento debe avanzar, no repetir indefinidamente juego/agradecimiento/dolor silencioso.
+REL-S6-C026(#50): Fern recibe tiempo y reconocimiento de Frieren por su lectura del libro; ni ledgers ni Mau consumen toda la escena.
+
+### Salida y siguiente tramo
+
+14/40 nombrados +98 soldados. Tank reconstruido y dos unmade perdidos.57 puntos retenidos tras6E/4A; totales históricos de esos campos siguen sin inventarse. Dos bordes de accesos alineados desde34, contenidos separados, tercero cerrado/sin identificar. No fusión total, cura, Heart infinito o magia nueva por empatía. Próxima revisión desarrolla esos límites; no vuelve a primera conversación de amigos.
+
+Rimuru y Ciel conocen romance; Maki sospecha desde manos; Yuta/Mai/Frieren/Ori/casa no saben besos o familia imaginada. Frieren conserva esperanza cauta desde23, no reconciliación. Próximo ciclo roof/crackers459. Gate455 nueva ya visitada456, próximo reset462. Continúan prácticas, citas, convivencia y avances técnicos antes del quiebre. El bloque no alcanza todavía el intento de Frieren, plazo24h, última noche, trato o reescritura.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|41|What Belonged Together|1730|
+|42|An Inch Lower|1689|
+|43|Ten, Not All of Them|1733|
+|44|What Might Come After|1661|
+|45|The Second Button|1582|
+|46|Keep Still|1562|
+|47|From Behind the Line|1682|
+|48|The Orchard That Answered|1953|
+|49|The Dog's Turn|1564|
+|50|A Small Bundle|1530|
+
+Bloque: 16686 palabras; mediana 1671.5.

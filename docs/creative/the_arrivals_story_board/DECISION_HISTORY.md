@@ -2034,3 +2034,7 @@ Day449–450: práctica de katana con madera; ensayo autónomoKessoku; prueba de
 ### DH-135 continuación — V33#31–40, checkpoint _s6_b31_40 (2026-10-22)
 
 ContinuaciónV33#31–40 publicada como borrador (Days450–452), con auditoría de fuentes/espacios y revisión cruzada; sin cambios de capítulos previos. El creador pide respaldos de10capítulos/~20min y seguir, con breathers si hacen falta. Nueva regla de lectura recibida cuando31–40 ya estaban escritos: desde41, inicial/abreviatura única al lado de cada diálogo, sin retocar los ya escritos. [Registro actual](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md); [convención de hablantes](S6_DIALOGUE_SPEAKER_MARKS_2026-10-22.md).
+
+### DH-135 continuación — V33#41–50, checkpoint _s6_b41_50 (2026-10-23)
+
+V33#41–50 se integra como borrador después de revisar continuidad y voces. Se conservan todos los capítulos anteriores sin etiquetas retrospectivas. Desde41 cada intervención lleva marca única; se añade O para Ori. Nuevo gasto observado10=6Endurance+4Agility,57retenidos; Skein eleva nombres a14/40. Fechas de gate/roof y conocimiento por persona registrados en [producción](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El usuario reitera continuar tras el corte; respaldo no equivale a pausa o cierre del arco.

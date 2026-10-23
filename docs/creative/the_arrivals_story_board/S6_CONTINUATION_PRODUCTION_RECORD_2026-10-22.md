@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#60, Day465night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V33#64, Day466noon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -247,3 +247,44 @@ Ciel/Rimuru conocen romance; Maki conserva sospecha de manos; resto no. Frieren 
 |60|Being Good at Waiting|1496|
 
 Bloque: 16524 palabras; mediana 1657.0.
+
+## Checkpoint _s6_b61_64 — V33#61–64
+
+### Cierre del movimiento de V33; el arco continúa
+
+| Capítulo | Tiempo y acción efectiva |
+|---|---|
+|61 — You Chose Me|Day466, después del desayuno. Ori pregunta si Mau la ama, llora y le da golpes leves sin lesionarlo. Recuerda ser elegida como hija y la puerta. Mau sólo alcanza un fragmento incompleto. Frieren, Fern, Yuta, Gojo, Rimuru y Shoko actúan. Milim intenta golpearlo y una breve Infinity la intercepta sin impacto. Cuando Yuta la aparta, Mau baja Infinity. Yuka acepta su mano; toman un paso corto hacia el patio visible y parten en Kaisel. Ciel informa a Rimuru que volverán y permanecen dentro del perímetro. El romance todavía es secreto.|
+|62 — The Place Beside Her|Se solapa con el vuelo. Frieren, Fern, Shoko y Umaru cuidan a Ori. Ella elige subir al cuarto este y dejar la puerta abierta. Maki y Yuta cuestionan la partida y se preocupan por ambos. Milim reconoce su intención de pegar, acepta ir con las manos bajas y sale a disculparse sólo al final. Antes de esa salida, Ori, Frieren, Fern y Umaru ya están arriba. Yuta, Maki, Rimuru y Shoko quedan abajo.|
+|63 — Before You Tell Them|Mau y Yuka vuelan bajo en Kaisel dentro del límite occidental. Hablan del daño y del regreso, sin encontrar una cura cierta, y se besan. Milim se acerca a disculparse y ve el beso; vuelve a la casa enfadada. Mau intenta alcanzar su brazo demasiado tarde, se estabiliza y toma un paso corto hacia tierra visible. Corre detrás sin poder superarla. Kaisel trae a Yuka despacio y segura. Ciel comunica el retorno a Rimuru; no difunde el beso. No hay colchón de Infinity, caída inexplicada o lesión nueva.|
+|64 — Say It Here|Milim llega primero, frena en el patio y denuncia el beso abajo. Mau confirma y Yuka regresa segura. Fern oye voces alzadas, pregunta y lleva la noticia arriba. Ori elige bajar acompañada. Mau confirma ante ellas que están juntos desde antes de salir de la Red Gate y que ama a Yuka. Ella afirma su propia agencia y reconoce que sabía el pasado. La escena termina con Mau eligiendo quedarse: Yuka está con sus abuelos y Frieren/Ori/Fern en el banco cercano a la escalera. Aún no hay agresión de Frieren.|
+
+### Consecuencias persistentes y conocimiento exacto
+
+- **REL-S6-C034, #61–62:** Ori preguntó y Mau no pudo responder como ella esperaba. Reconoce sus golpes leves; este llanto no se declara el primero de toda su vida. Frieren se queda con ella. Fern, Umaru y Shoko también la acompañan. El intento de golpe de Milim permanece como un acto que debe asumir aunque después revele el beso.
+- **REL-S6-C035, #63:** Milim vio un beso real. El texto no confirma que oyera las declaraciones íntimas anteriores. Su testimonio no convierte a Yuka en autora del robo de memorias. La velocidad de vuelo de Milim supera los pasos cortos de Mau; Kaisel mantiene a Yuka segura durante el regreso.
+- **REL-S6-C036, #64:** La relación y la declaración de amor son públicas ante Frieren, Ori, Fern, Umaru, Maki, Yuta, Milim, Shoko, Rimuru y Gojo, además de personas cercanas a la cocina sin nombres asignados. Los residentes ausentes no adquieren automáticamente ese conocimiento. Frieren relaciona su esperanza del Day448 con la información que Mau omitió. Él sostiene que los fragmentos eran reales; no afirma que haya recuperado el amor anterior. Decide quedarse cuando Ori pregunta si volverá a irse, sin exigir que acepten contacto.
+- **REL-S6-C037, #64:** Maki y Yuta protegen a Yuka y siguen furiosos o conmocionados. Una mano en su espalda no equivale a aprobar lo ocurrido. Yuka pide perdón a Frieren sin recibir absolución. Ori aparta la cara de Yuka y Umaru lo observa; la exclusión del Fort aún no sucede.
+
+Rimuru sabía desde antes y no finge sorpresa. Todavía nadie le ha preguntado públicamente si sabía. Ciel permanece en comunicación privada. La familia imaginada de #44, la intimidad de #45, las fechas completas de los besos y el cáncer no se hacen públicos. La identidad del responsable del robo sigue sin demostrarse.
+
+### Estado material y técnico
+
+No hay lesión nueva ni daño a la casa. Mau tiene tierra en la palma por apoyarse en la hierba y deja una marca en la mesa; no es una herida. Milim levanta polvo al frenar en el patio sin crear un cráter.
+
+Persisten los **57 puntos retenidos, 14/40 nombres y 98 soldados**, las secuelas anteriores y los dos soldados unmade perdidos. Los usos concretos son Infinity temporal, pasos cortos a suelo visible y Kaisel como transporte. No establecen un porcentaje nuevo, una cura o acceso adicional.
+
+### Siguiente movimiento
+
+V33 queda en **64 capítulos**, 46 nuevos desde el #18. V34 comienza el mismo Day466 a mediodía: preguntas concretas, conversaciones privadas y consecuencias. El [mapa editorial](S6_V34_MEMORY_ARC_WORKING_SCENE_MAP_2026-10-23.md) conserva el resto de las direcciones del creador sin declararlas hechos escritos.
+
+El intento real de Frieren, el plazo de24h, la última cita, la confidencia del cáncer, la Diosa, la reescritura, la moneda y el desayuno siguen pendientes. El corte de volumen responde al movimiento narrativo. Roof/crackers del466 aún no ocurrieron: habrá que mostrar si cambian o se cancelan, sin asumir una reunión normal. Próximo reset de gate:469. El trabajo continúa después de este respaldo.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|61|You Chose Me|1900|
+|62|The Place Beside Her|2264|
+|63|Before You Tell Them|1775|
+|64|Say It Here|2422|
+
+Bloque: 8361 palabras; mediana 2082.0.

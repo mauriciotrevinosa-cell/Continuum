@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 33
 **Season:** 6
-**Coverage:** S6E10–S6E39
+**Coverage:** S6E10–S6E41
 **Volume title:** **Oppa**
-**Chapter files:** 60
+**Chapter files:** 64
 
 Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arrivals_story_board/S6_V33_PLAN_2026-10-20.md).
 
@@ -73,3 +73,7 @@ Continues from Volume 32 (Day 439). Plan: [S6_V33_PLAN_2026-10-20.md](the_arriva
 | 58 | S6E38 | Three Lights Before Home | `THE_ARRIVALS_S6E38_LN_CHAPTER_02_THREE_LIGHTS_BEFORE_HOME_v0.1.md` |
 | 59 | S6E39 | The Other Angle | `THE_ARRIVALS_S6E39_LN_CHAPTER_01_THE_OTHER_ANGLE_v0.1.md` |
 | 60 | S6E39 | Being Good at Waiting | `THE_ARRIVALS_S6E39_LN_CHAPTER_02_BEING_GOOD_AT_WAITING_v0.1.md` |
+| 61 | S6E40 | You Chose Me | `THE_ARRIVALS_S6E40_LN_CHAPTER_01_YOU_CHOSE_ME_v0.1.md` |
+| 62 | S6E40 | The Place Beside Her | `THE_ARRIVALS_S6E40_LN_CHAPTER_02_THE_PLACE_BESIDE_HER_v0.1.md` |
+| 63 | S6E41 | Before You Tell Them | `THE_ARRIVALS_S6E41_LN_CHAPTER_01_BEFORE_YOU_TELL_THEM_v0.1.md` |
+| 64 | S6E41 | Say It Here | `THE_ARRIVALS_S6E41_LN_CHAPTER_02_SAY_IT_HERE_v0.1.md` |

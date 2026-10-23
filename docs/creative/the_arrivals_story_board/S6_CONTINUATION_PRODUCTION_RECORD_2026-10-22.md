@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#24, Day474noon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#28, Day475earlyafternoon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -482,3 +482,39 @@ Roof/crackers473 sí sucedieron parcialmente como se registra; próximos480. No 
 |24|The Mill Without Water|1612|
 
 Bloque: 5841 palabras; mediana 1427.5.
+
+## Checkpoint _s6_v34_b25_28 — V34#25–28
+
+### Escenas producidas y alcance de respuestas
+
+| Capítulo | Día | Hecho observado |
+|---|---|---|
+|25 What Was Taken|474 tarde|Mau anuncia paseo a Rimuru y llama voluntariamente a Diosa en sendero oeste protegido, afuera de gate. Ella afirma poder devolver historia/afecto robados, pero no ofrece términos completos ni modifica nada. Él le cuenta sus elecciones/temores dentro de RedGate2; no se le atribuye haberla oído entonces. Sólo Mau oye voz de ella, transmite respuestas a Ciel deliberadamente; no canal del tercer acceso. No acepta nada.|
+|26 Only Yes So Far|474 tarde avanzada|Mau cuenta a Rimuru y consiente invitar a Shoko. Ciel compartida con anfitriones por elección, relay hablado para Shoko. Anotan tres preguntas: significado de devolver, condiciones, qué vive después de las dos historias. No diagnóstico o trato aceptado. Mau acuerda traer términos y hablar ANTES de aceptar algo que afecte a casa. Luego informa personalmente a Yuka, quien no quiere obstaculizar recordar aunque tiene miedo.|
+|27 It Was His Question|475 mañana|Shoko confirma con Mau que puede dar versión limitada a F/Fern y después a Ori: posibilidad, condiciones desconocidas, sin día prometido o acuerdo. F entiende que memoria original no borra su propio ataque; no pide llevar a Yuka para disculparse. Se levanta a lavarse y Fern lee su propio trabajo; actividad mínima no es retorno normal ni perdón.|
+|28 Twenty-Four Hours|475 primera tarde|Mau/Yuka/Maki/Yuta/Rimuru/Gojo/Shoko/Anko discuten seguridad y rutinas. Yuka cuenta su miedo cotidiano y quiere quedarse en casa. Proponen separación temporal de uso de espacios/comidas con consulta a afectados, no expulsión ni voto sobre sentimientos. Mau pide un día para respuesta concreta de Diosa. Maki fija24h hasta476 misma hora. Sin respuesta consensual, dejan de aplazar arreglos prácticos; protección inmediata sigue vigente. Los ausentes F/Fern/Ori y quienes hacen trabajo aún deben ser consultados.|
+
+### Consecuencias duraderas / consentimiento
+
+- **REL-S6-C061,25:** Mau quiere volver a recordar y preservar lo verdadero vivido después. Lo cuenta por voluntad propia a Diosa y Ciel, no nuevo hecho de omnisciencia. Diosa reconoce que veía felicidad/elección y esperaba, no que todo fuese correcto o que su ayuda no tenga precio. Dice estar aprendiendo diferencia entre querer verlo feliz y querer observar qué sucede; no absolución universal de Trial/coerción.
+- **REL-S6-C062,26:** el compromiso de Mau de traer palabras ANTES de aceptar es real, reiterado28. No es autorización a intervenir por todos ni consentimiento de Ciel a un futuro borrado. Si luego decide incumplirlo, debe reconocerlo como decisión y coste, no afirmar que la casa le pidió hacerla o que ya consultó todos los términos.
+- **REL-S6-C063,27:** nueva esperanza está acotada, no fecha de restitución. F no puede pedir un regreso que elimine sólo sus propias acciones. Su miedo de ser recordada también por el ataque y su cuidado con no buscar a Yuka tienen peso; no equivalen a reconciliación. Ori recibe noticia directa, no escucha secreta ni misión de portarse mejor.
+- **REL-S6-C064,28:** casa toma en serio a víctima y cuidados, sin asignar toda violencia a Mau por omisión. Maki dice que F eligió el hechizo y también que ocultación prolongó espera de otros. Sus dos afirmaciones no convierten agresión y secreto en un acto equivalente. Se preserva agencia de Yuka adulta y derecho de ausentes a decidir su rutina.
+- **REL-S6-C065,28:** plazo del creador ahora concreto. Es hasta Day476 temprano en tarde, no cualquier mañana posterior. Se busca respuesta consultable y, si no llega, organización temporal de espacios/comidas y compañía elegida. No fabricar recuerdos/amor por orden, terapia forzada, expulsión, permiso para herir o desprotección durante24h. No hay arreglo adoptado aún: R/Shoko van a consultar a familias y cocina.
+
+### Material y conocimiento
+
+Tres preguntas de26 están escritas en una hoja ordinaria, debajo de otra página sobre escritorio de Rimuru, separadas de cuenta de dos cristales de gate. No carta de amor ni términos secretos. La reescritura futura deberá conservar papel/historia recordada compatible; no se evapora por cambiar memoria. Vara de F sigue detrás de escritorio, sin devolución o destrucción. Su libro conserva esquina algo curvada, no daño de hechizo.
+
+Diosa no explicó dos corazones, segunda obligación, reescritura, sueño general o moneda. Ciel/R conocen sólo lo deliberadamente relatado. F/Fern/Ori conocen posibilidad acotada por Shoko; Yuka por Mau. Presentes en28 conocen misma posibilidad, no futuros términos. Ausentes no se vuelven participantes por nombre en registro.
+
+57 retenidos,14/40 nombres,98 soldados, secuelas antiguas y dos unmade siguen. No restitución de memoria, nuevo poder, gasto o fusión. Gate actual469, próxima476; roof/crackers473 ya contabilizados, próximos480. Tramo nuevo tras V33#18 suma74 capítulos (46+28), flexible y aún abierto. Siguiente cita será en montañas reales, no gate; preparar salida/retorno sin comprimirla ni anticipar cáncer privado.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|25|What Was Taken|1925|
+|26|Only Yes So Far|1641|
+|27|It Was His Question|1566|
+|28|Twenty-Four Hours|1764|
+
+Bloque: 6896 palabras; mediana 1702.5.

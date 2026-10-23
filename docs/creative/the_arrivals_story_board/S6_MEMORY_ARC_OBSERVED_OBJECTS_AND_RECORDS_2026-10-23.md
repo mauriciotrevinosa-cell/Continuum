@@ -69,3 +69,11 @@ Read-only audit, 2026-10-23. Coverage: published S6 through V33#50 plus drafts51
 - How any external witness is affected, if at all. Market sellers saw purchases; no prose says they saw a later kiss. Do not introduce worldwide memory reach merely to close an evidentiary gap.
 
 Next checkpoint should add drafts57/60 and any newly written personal letter or journal entry only after reading it.
+
+## Adición observada — V34#25–28,2026-10-23
+
+En26 Rimuru escribe tres preguntas ordinarias (qué significa devolver, condiciones, experiencia de las historias) y deja hoja bajo otra página sobre escritorio, separada de cuenta de dos cristales de gate. No se escriben términos de trato ni confesión romántica. El papel seguirá existiendo y requiere un recuerdo compatible del proceso de recuperación; cambiar recuerdos no lo destruye.
+
+La vara de Frieren sigue detrás del escritorio de oficina baja desde12, con acuerdo temporal de custodia. El libro del jardín fue vuelto al cuarto este13 y27 describe una pequeña curva del borde, no daño de un impacto. Cojín de Yuka entero fuera del Fort, el de Seiko reparado17 en su propio cuarto, retrato459 junto al tin y boceto corriente nuevo de23 permanecen distintos.
+
+El plazo28 es hablado, no contrato firmado ni regla mágica nueva. Hasta476 primera tarde se sigue cuidado actual. Ninguno ha aceptado términos de Diosa; el compromiso hablado de26/28 de consultar antes de aceptar algo que afecte casa no equivale a permiso para borrarla. Estos hechos y sus versiones recordadas futuras deberán distinguirse expresamente.

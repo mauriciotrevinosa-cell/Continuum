@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 34
 **Season:** 6
-**Coverage:** S6E42–S6E53
+**Coverage:** S6E42–S6E55
 **Volume title:** **Both**
-**Chapter files:** 24
+**Chapter files:** 28
 
 Continues the preceding volume without a relationship or power reset. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -37,3 +37,7 @@ Continues the preceding volume without a relationship or power reset. [Current p
 | 22 | S6E52 | Five Cups | `THE_ARRIVALS_S6E52_LN_CHAPTER_02_FIVE_CUPS_v0.1.md` |
 | 23 | S6E53 | The Face Beside the Tin | `THE_ARRIVALS_S6E53_LN_CHAPTER_01_THE_FACE_BESIDE_THE_TIN_v0.1.md` |
 | 24 | S6E53 | The Mill Without Water | `THE_ARRIVALS_S6E53_LN_CHAPTER_02_THE_MILL_WITHOUT_WATER_v0.1.md` |
+| 25 | S6E54 | What Was Taken | `THE_ARRIVALS_S6E54_LN_CHAPTER_01_WHAT_WAS_TAKEN_v0.1.md` |
+| 26 | S6E54 | Only Yes So Far | `THE_ARRIVALS_S6E54_LN_CHAPTER_02_ONLY_YES_SO_FAR_v0.1.md` |
+| 27 | S6E55 | It Was His Question | `THE_ARRIVALS_S6E55_LN_CHAPTER_01_IT_WAS_HIS_QUESTION_v0.1.md` |
+| 28 | S6E55 | Twenty-Four Hours | `THE_ARRIVALS_S6E55_LN_CHAPTER_02_TWENTY_FOUR_HOURS_v0.1.md` |

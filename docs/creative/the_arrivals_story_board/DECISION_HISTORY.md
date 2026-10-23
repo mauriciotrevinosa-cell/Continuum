@@ -2066,3 +2066,7 @@ V34#17–20 mantiene cuidado de Frieren con límites y vínculos activos de Bocc
 ### DH-135 continuación — V34#21–24, checkpoint _s6_v34_b21_24 (2026-10-23)
 
 V34#21–24 vuelve a Ori/Mau sin restaurar su vínculo por decreto; roof y crackers existen con consecuencias y ausencias reales. Se intercalan conversación, humor y pequeña expedición de pareja con peligro y herramientas delimitados. Se conserva geografía, transmisión de información y conteos. El respaldo llega a70 capítulos nuevos desde el punto inicial; eso no cierra lo que sigue ni autoriza comprimirlo para encajar un número.
+
+### DH-135 continuación — V34#25–28, checkpoint _s6_v34_b25_28 (2026-10-23)
+
+V34#25–28 produce la posibilidad de ayuda ANTES del plazo o de cualquier promesa de arreglo, con preguntas/condiciones y consentimiento diferenciados. La casa no autoriza un borrado: pide consulta antes de un trato que la afecta. El plazo24h tiene consecuencia práctica y conserva cuidado inmediato; la futura elección de Mau no puede narrarse como cumplimiento de esa autorización inexistente. Revisión cruzada PASS; se aclaró pronombre de Maki para defender inequívocamente el lugar de Yuka. El arco continúa.

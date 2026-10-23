@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#28, Day475earlyafternoon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#32, Day475afternoon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -518,3 +518,40 @@ Diosa no explicó dos corazones, segunda obligación, reescritura, sueño genera
 |28|Twenty-Four Hours|1764|
 
 Bloque: 6896 palabras; mediana 1702.5.
+
+## Checkpoint _s6_v34_b29_32 — V34#29–32
+
+### Escenas producidas
+
+| Capítulo | Día | Hecho observado |
+|---|---|---|
+|29 Two Cups and a Mountain|475 primera tarde, tras28|Mau propone salida a Yuka, ella elige. Empacan cakes salados/manzanas/agua/dos cups/manta/abrigos, avisan directamente aR y Maki/Yuta del hombro norte real relativamente cercano y regreso esta noche ANTES de medianoche, antes si clima/visibilidad. Rimuru queda en casa, identifica relieve visible sin inventar ruta a pie antigua. Igris comprobará suelo antes de bajar deKaisel. Mau preguntará términos al volver, no los sabe ni acepta.|
+|30 Nearly Two|475 tarde|Kaisel cruza fuera de protección a mundo real, no gate. Rechazan piedra húmeda y aterrizan más allá en mismo hombro. Igris llamado mientras aún montados comprueba suelo seco, luego guardia al giro de sendero. Ciel relaya llegada aR por permiso. Paseo pequeño, pool/trickle/refugio de viento, juego de saltar piedras y beso. Manta anclada/bag/comida/cups abiertos al final.|
+|31 The One With More Filling|475 tarde|Comen y bromean sobre cakes, hablan del hermano ausenteTsurugi, deseos futuros sencillos y otro día compartido sin convertirlo en garantía de cómo sentirán al recordar. La promesa anterior de moneda deS6E14 sigue, no moneda nueva. Se besan, guardan comida y dan paseo corto visible, dejando manta/bag/cups juntos en seco. Igris no recibe diálogo íntimo por corte o cercanía supuesta.|
+|32 Against the Grain|475 tarde, paralelo en casa|Yuta lima área desastillada de7 (curl quitado entonces), comprueba grano/paño y guarda bokken reparado junto al sano, SIN reanudar prácticaMau. Maki hace carrier de leña lona/listones, prueba y ajusta. Pareja tiene trabajo/cuidado/humor propios; abuelos esperan oír tanto buen como mal día deYuka sin controlar sus decisiones. No saben charla íntima/cáncer/términos futuros.|
+
+### Consecuencias y objetos
+
+- **REL-S6-C066,29:** Yuka quiere ir y quiere regresar; salir no revoca su cuarto. R y abuelos reciben cambio del plan de cena directamente para que nadie deje platos esperando o arme búsqueda. Aviso no es absolución del secreto/ataque, ni permiso de aceptar trato: R reitera traer palabras primero.
+- **REL-S6-C067,30–31:** cita tiene vuelo/elección de suelo, actividad, comida y afecto reales, no resumen o despedida profética. Ambos quieren más vida juntos mientras ignoran condiciones; Mau no asegura un sentimiento futuro que no conoce. Nadie se acuesta, revela cáncer o recupera historia original.
+- **REL-S6-C068,31:** Tsurugi está ausente, no muerto por asumir ni recién convocado. Promesa de moneda bajo historia alterada ya existía; no se inventa ahora como si siempre hubiera sido idéntica antes del robo. No premio/moneda de picnic.
+- **REL-S6-C069,32:** Maki/Yuta se acompañan como pareja y abuelos con amor/ira/preguntas coexistentes. Maki no retira amenaza ni se reconcilia conF. Yuta quiere volver a enseñar y aún no está listo: madera reparada no significa relación reparada. Quieren queYuka no tenga que leer sus caras antes de contar si disfrutó o no.
+
+Mau se quita guante derecho para comer31 y lo deja junto albag; se lo vuelve a poner antes de paseo. Abrigos siguen puestos, bajos doblados bajo caderas, no prendas completas quitadas por frío. Lotus sigue en muñeca y su significado ya conocido10/12 no se redescubre. Dos cups envueltas juntas en boca debag al terminar31, comida bajo paño y core de manzana separado, manta anclada en lugar seco. Kaisel espera en hombro ancho; Igris al giro visible; no omnisciencia de privados.
+
+Bokken32 ya liso/seguro junto al sano en workshop, no fuera en campo ni invitación automática de entrenamiento. Carrier nuevo junto al trabajo de cocina, lona/listones/cuerda corriente, no Construction/tecnología nueva. Tres preguntas siguen bajo hoja sobre escritorio deR; staff deF aún detrás del escritorio.
+
+### Estado y siguiente tramo
+
+57 retenidos,14/40 nombres y98 soldados, secuelas antiguas y dosunmade. No nuevo nivel, extracción, gasto o técnica. Gate normal sigue desde469 y próxima476, nadie entró en este bloque. Roof/crackers473 ya ocurridos, próximos480. Plazo vence476 primera tarde, NO esta medianoche; retorno de cita sí es esta noche antes de medianoche.
+
+Diosa sólo ofreció posibilidad25; no términos, segunda obligación, mecanismo de corazones, borrado, sueño o moneda. Compromiso26/28 de consultar sigue vigente. Cáncer privado y última noche aún futuros. Total nuevo después deV33#18:78 capítulos (46+32); no cierre ni cuota. Continuar tarde/retorno y casa sin comprimir conversaciones finales.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|29|Two Cups and a Mountain|1748|
+|30|Nearly Two|1950|
+|31|The One With More Filling|1575|
+|32|Against the Grain|1903|
+
+Bloque: 7176 palabras; mediana 1825.5.

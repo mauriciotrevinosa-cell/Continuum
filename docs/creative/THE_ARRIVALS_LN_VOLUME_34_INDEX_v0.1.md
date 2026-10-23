@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 34
 **Season:** 6
-**Coverage:** S6E42–S6E55
+**Coverage:** S6E42–S6E57
 **Volume title:** **Both**
-**Chapter files:** 28
+**Chapter files:** 32
 
 Continues the preceding volume without a relationship or power reset. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -41,3 +41,7 @@ Continues the preceding volume without a relationship or power reset. [Current p
 | 26 | S6E54 | Only Yes So Far | `THE_ARRIVALS_S6E54_LN_CHAPTER_02_ONLY_YES_SO_FAR_v0.1.md` |
 | 27 | S6E55 | It Was His Question | `THE_ARRIVALS_S6E55_LN_CHAPTER_01_IT_WAS_HIS_QUESTION_v0.1.md` |
 | 28 | S6E55 | Twenty-Four Hours | `THE_ARRIVALS_S6E55_LN_CHAPTER_02_TWENTY_FOUR_HOURS_v0.1.md` |
+| 29 | S6E56 | Two Cups and a Mountain | `THE_ARRIVALS_S6E56_LN_CHAPTER_01_TWO_CUPS_AND_A_MOUNTAIN_v0.1.md` |
+| 30 | S6E56 | Nearly Two | `THE_ARRIVALS_S6E56_LN_CHAPTER_02_NEARLY_TWO_v0.1.md` |
+| 31 | S6E57 | The One With More Filling | `THE_ARRIVALS_S6E57_LN_CHAPTER_01_THE_ONE_WITH_MORE_FILLING_v0.1.md` |
+| 32 | S6E57 | Against the Grain | `THE_ARRIVALS_S6E57_LN_CHAPTER_02_AGAINST_THE_GRAIN_v0.1.md` |

@@ -2070,3 +2070,7 @@ V34#21–24 vuelve a Ori/Mau sin restaurar su vínculo por decreto; roof y crack
 ### DH-135 continuación — V34#25–28, checkpoint _s6_v34_b25_28 (2026-10-23)
 
 V34#25–28 produce la posibilidad de ayuda ANTES del plazo o de cualquier promesa de arreglo, con preguntas/condiciones y consentimiento diferenciados. La casa no autoriza un borrado: pide consulta antes de un trato que la afecta. El plazo24h tiene consecuencia práctica y conserva cuidado inmediato; la futura elección de Mau no puede narrarse como cumplimiento de esa autorización inexistente. Revisión cruzada PASS; se aclaró pronombre de Maki para defender inequívocamente el lugar de Yuka. El arco continúa.
+
+### DH-135 continuación — V34#29–32, checkpoint _s6_v34_b29_32 (2026-10-23)
+
+V34#29–32 da espacio a preparación, vuelo, elección de lugar, juego, comida y deseos de pareja, entrelazados con actividad y vínculo propio de sus abuelos. Se distingue regreso de esta noche del plazo de mañana. Revisión cruzada y root PASS; se aclararon guante y bajos de abrigos en31. El bokken se repara físicamente sin suponer perdón o retorno de práctica. No hay todavía trato ni recuperación.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 35
 **Season:** 6
-**Coverage:** S6E63–S6E76
+**Coverage:** S6E63–S6E77
 **Volume title:** **Old New Days**
-**Chapter files:** 28
+**Chapter files:** 29
 
 Old New Days depicts the creator-authorized divergent branch after the unintended overwrite; it does not erase the historical original volumes. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -41,3 +41,4 @@ Old New Days depicts the creator-authorized divergent branch after the unintende
 | 26 | S6E75 | Open Your Hand | `THE_ARRIVALS_S6E75_LN_CHAPTER_02_OPEN_YOUR_HAND_v0.1.md` |
 | 27 | S6E76 | Where There Was No Wound | `THE_ARRIVALS_S6E76_LN_CHAPTER_01_WHERE_THERE_WAS_NO_WOUND_v0.1.md` |
 | 28 | S6E76 | The Fort Has Room | `THE_ARRIVALS_S6E76_LN_CHAPTER_02_THE_FORT_HAS_ROOM_v0.1.md` |
+| 29 | S6E77 | At Least That Stayed | `THE_ARRIVALS_S6E77_LN_CHAPTER_01_AT_LEAST_THAT_STAYED_v0.1.md` |

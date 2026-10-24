@@ -112,3 +112,14 @@ Katana/moneda todavía no devueltas en prosa nueva. Dagas se comprarán dormido 
 ### Fuentes de espacio consultadas
 
 S3E46CH08 The Fort Sends Notes; CH09 The Fort Is Too Small; CH10 Madam President. Se usan como autoridad de función/capacidad y vínculos compatibles, no para importar aB la crisis original completa ni añadir a residentes que se fueron enS4.
+
+## V35#29 — regreso lúcido y corte de volumen
+
+Day479mañana, clínica. El mundo completo vuelve a color desdePOV deM. Vuelven recuerdosOG auténticos, conserva implantados como falsos y la vidaB que se narró: son experiencias del mismoM, no dos cuerpos ni asesinato de una copia. Conoce secuelas de su cuerpo, pero sigue débil tras fiebre. Dos dedos izquierdos presentes rígidos, borde izquierdo blando, ojos azules/mechónizquierdoblanco/cicatrices cerradas continúan. Reduce entrada informacional con hábito recordado, no cure ni nuevo kit demostrado.
+
+- **CielB:** M le responde por primera vez coherente; percibe que ella no vivió el no del trato ni la violenciaOG. Le pide tiempo paraexplicar; ella no invade susmemorias. Ese límite es el inicio, no aún la conversación de fragmento limitado/apartamiento que debe desarrollarse.
+- **YukaB:** ve alivio y llanto; M 'At least that stayed' mira brazalete. Ella no entiende el referente, él admite necesitar contar cosas. No llama familia/hijos a una promesa hecha por otraYuka ni divulga su confianza médicaOG como si estaYuka ya la hubiera compartido.
+- **R/Shoko:** llegan trasaviso, saben despertarcoherente/agarreinusual/reconocimiento de secuelas; no saben treshistorias ni causaDiosa. Médico no recibe una autorización para dejar de preguntar.
+- **Ori/F:** M oye vozMum→F y recuerda paternidadOG/ausenciaB. Aún no conversación conella ni reclamo deamor/dad. Compás sigue deOri, apunta aF.
+
+**V35completo como borrador en29capítulos. No cierre deS6 ni del arco de consecuencias.** V36comienza mismo479 sin saltar aArmy. Necesita examen/verdad médica parcial, armas/coin conprocedencia, vínculos, pánico, Window y límites, gate sinCiel, rescate/segunda recuperación, dagas compradas dormido, confesión pública y decisiones propias. La nuevaWindow aún no se ha activado enprosa. No declarar aM nivelThomas ni infinitud porque esté despierto.

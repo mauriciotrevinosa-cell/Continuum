@@ -2124,3 +2124,7 @@ El conflicto de amor enB no replica infidelidad contraFrieren; las heridas reale
 ### DH-135 continuación — V35#24–28, checkpoint s6_v35_24_28_2026-10-24 (2026-10-24)
 
 Dar varios días y relaciones propias a la recuperación, no convertir cambios en transformación instantánea de poder. Dedos siguen presentes y viejas secuelas no son curadas por stats. La marca deSukuna se añade por dirección del creador con fuente torso S2E23CH05; no afirmar que una cicatriz permanente específica ya estaba documentada antes de la decisión. Fort consultado enS3E46CH08–10: estructura ampliada común, no cuarto nuevo; este reposo deYuka no es segundo colapso deMau. Siguiente escena puede ser primer despertar original/conjunto en color; aún faltan retorno consciente, armas/moneda y verdad pública, ninguna debe tratarse como ya ejecutada por esta nota.
+
+### DH-135 continuación — V35#29–29, checkpoint s6_v35_29_2026-10-24 (2026-10-24)
+
+CerrarV35en el regreso consciente/color da espacio a lo que sigue enV36 sin convertirlo en un volumen de restos. Las elipsis iniciales fueron hastaouting; se vivieron475–479 enescenas. No comprimir visita médica, conversaciónconYuka/Ciel, reacción aOri y amistad enuna confesión automática. V36 arranca este mismo día479, después de29, conservando toda la información desigual, enfado y cuidado. PrimerMau deB no fue descartable: todos sus recuerdos/elecciones siguen siendo delMau que despierta.

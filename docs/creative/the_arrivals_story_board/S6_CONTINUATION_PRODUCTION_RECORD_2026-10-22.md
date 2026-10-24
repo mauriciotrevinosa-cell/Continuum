@@ -3,7 +3,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#28, rama Day478 por la tarde-noche, fiebre cediendo pero sin despertar lúcido completo. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#29, Day479 por la mañana, primer despertar lúcido del original y final natural deV35. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -776,3 +776,13 @@ Bloque: 5313 palabras; mediana 1305.0.
 |28|The Fort Has Room|1260|
 
 Bloque: 5937 palabras; mediana 1217.
+
+## Checkpoint s6_v35_29_2026-10-24 — V35#29–29
+
+29: vuelve Mau original con sus recuerdos reales, la historia implantada que reconoce como falsa y la vida realmente vivida deB. No otra persona muerta ni narrador cuarto: recuerda haber hecho ambas vidas. Mundo completo vuelve a color, no sóloYuka. Reconoce postura/agarre de dedos rígidos, borde visual izquierdo, cicatriz y control para reducir sobrecarga, sin curarlos ni quedar recuperado del esfuerzo. CielB responde con su historia propia, no hereda oposición/horror original;M responde y pide un minuto, no abre todos los recuerdos. Reconoce brazalete y dice 'At least that stayed';Yuka pregunta, él admite que necesita contar cosas sin saber por dónde empezar. Recuerda promesa original de familia/hijos y sabe queYukaB no la hizo, no la obliga. Shoko/Rimuru se reúnen, revisan, agua y primeras respuestas. Oye aOri llamando aFrieren madre, recuerda vínculo paterno original y la vidaB sin él, todavía sin reclamarlo. Cuerpo débil, recuperación sigue. V35 termina aquí por unidad narrativa, no cierra arco niS6. Katana/moneda y verdad pública aún no producidas.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|29|At Least That Stayed|1783|
+
+Bloque: 1783 palabras; mediana 1783.

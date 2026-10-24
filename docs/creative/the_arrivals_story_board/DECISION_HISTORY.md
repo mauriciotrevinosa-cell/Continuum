@@ -2108,3 +2108,7 @@ Producción autorizada hacia adelante, sin retrocambiar las marcas de hablante. 
 ### DH-135 continuación — V35#5–10, checkpoint s6_v35_5_10_2026-10-24 (2026-10-24)
 
 Se preserva la cadena de llegadas usando el Trial más llevadero de la rama, no atribuyendo aMauB437vidas ni el coste original de moneda que no vivió. Cambio de voz Ciel necesita causaRaphael/separación/nombre, no se la introduceS1. La historia originalS1–S5 no se edita. Cada capítulo cierra escena propia; estos saltos iniciales son el montaje pedido por el creador, no el ritmo que se aplicará a la convivencia y recuperación continuas. Se registra la diferencia de cada objeto/relación antes de que regreseMauOG.
+
+### DH-135 continuación — V35#11–15, checkpoint s6_v35_11_15_2026-10-24 (2026-10-24)
+
+Preservar18antesdeintimidad. No igualar regalo cumpleaños acontrato mágico ni embarazo; no atribuir aFcelos deunapareja que no existeaquí. La primera vezqueYkparaes porsupropiolímite: no usar amenazaexterna/Knockcomo sustituto. El KnockdeYuta/Maki corresponde aotraescena futura. R conoceyaconocimientoexplícitodesde14 yno será sorpresafalsificadaenelouting. La tardanzaM/Yk en contarles alosabuelos permanece problema real. Mantenercalendario443/447/457sin copiarfuturasheridasOG antesdelcatch-up.

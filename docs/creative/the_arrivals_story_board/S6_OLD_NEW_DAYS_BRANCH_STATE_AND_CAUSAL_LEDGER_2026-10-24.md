@@ -41,3 +41,18 @@ S3/Ori yTrial no escritos aún. La futura promesa original de familia no obliga 
 ### Revisión del respaldo
 
 Webprimeros1–4 verificada porHTTPGET, commit221ceba; índice35cuatrofilas,1195capítulosglobales,warningsvacíos,enlaceV34#41→V35#1 válido. El verificadorantiguo suponía doscapítulos por últimoepisodio ybuscó elarchivadoE62CH02; se corrigió la suposición delverificador local al último capítulo realE62CH01, sin cambios aapp.
+
+## Producido — V35#11–15
+
+|FechaB|Capítulos|Hechos / estado a conservar|
+|---|---|---|
+|443|11|Yuka18, noKaisel. Lago cercano, planretornoavisado. BrazaleteHolliscordónoscurolotusespejadometalpálido, ninguno conoce significado. Noencuentrosexual ni besoenestecap. M/BdescribeobjetosinrecuerdoOG.|
+|447fuera, cuatrodíasdentro|12–14|RedGate2menor, puertabloqueada inesperada. Cielpuedecontactaramboshostsenestagate. Mnonecromante, nostats/Arise, noshadowsdeYuka importadas. Guardianúnico escudado; plan ensayado, retiro, comida, turnosdesueño; beso13símutuo. Victoria14conpiedra/forcebreveM+Yukapropia. Botínlimitadoa loquepuedencargar, restosnoarmaextraída. Salidaunas horasafuera.|
+|448tarde|14final|Mlecuenta aRimuru beso/voluntadmutua;Raconseja decirles aabuelos ynoofrece mentir. MprometehablarconYuka, noconfirmar queyaavisó. M/Ykseencontrarán caminandoesa noche; no generarconfesiónfueraescenayluego olvidarla.|
+|457–458|15|Campingubicaciónconocida, porsalirtiempojuntos,no despedidatraumática. Primeraaproximaciónasexo,Ykse detienepornoestarl ista,Maceptayduermenvestidos. Sinsexoni promesafamilia. Seconservan cariño/respeto;vuelvenconidearepetirouting.|
+
+Touka/Ichikayaestánen443traspeticiónde10, nootracoinextra. Ichikacuidada, noalimento nuevodesconocido enprosa. Ori/Frelaciónmadrehija vivida conMum,Mo mantieneamistad/cuidadoy nola llama suhija. Fuenteexacta cumpleañosverificadaS6E06CH01/S6E12CH02:443; nuevaramaMaucarece delKaisel delitinerariooriginal.
+
+### Pendiente decontinuación
+
+SegundaaproximacióninterrumpidaporKnock, segundo corazón observadoantesouting, último salto a475mañana. Nouploadearestodesenlaceantiguo42–45ni46–48. El cuerpoMauBnoestáyaThomas/legión: lanuevaWindow despuésdelretornoOG deberáconstruir ese salto explícitamente. El retorno traecicatriz cerradadelaperforaciónSukuna, dosdedospresentesperorígidos yleftblur, noheridasfrescas causadasporYuta. Ejército se mostraráconRentrando, nopeleanarrada. Cielbloqueada sóloeneseepisodioposterior; noextrapolarbloqueoantes yaescritodistinto.

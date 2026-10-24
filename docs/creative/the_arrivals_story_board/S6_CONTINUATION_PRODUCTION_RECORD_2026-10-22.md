@@ -3,7 +3,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#10, rama enS5, moneda entregada aKaneki antes de la petición familiar. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#15, rama Day458, vuelta del camping después de respetar el límite deYuka. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -722,3 +722,17 @@ Bloque: 5645 palabras; mediana 1412.0.
 |10|Two Names in One Hand|1244|
 
 Bloque: 7915 palabras; mediana 1319.0.
+
+## Checkpoint s6_v35_11_15_2026-10-24 — V35#11–15
+
+11 fijaDay443/cumpleaños18 (fuente originalverificada) y recrea outing cercano al lago sinKaisel. Yuta/Maki saben ruta/retorno. M compra aHollis mismo brazalete cordón oscuro/flor loto metalpálidoespejada, sin significado conocido, sinbandSystem. Touka/Ichika ya llegaron durante el salto desde10.12–14: Day447fuera, cuatrodíasdentro deRedGate2pequeña; Ciel síconecta aquí, M/Ykcooperan, reconocen miedo, primerbesoconsentido13; guardiánúnico vencido conpreparación, esfuerzo limitadoM ygolpesYk, sinlegión/nuevosSystem/Arise. Salen trasvarias horasfuera mismo447.14 tarde448M informaRimuru delbeso;R aconseja hablarconYuta/Maki, guardaprivacidadperono mentirá. Aún nolosinforman.15Day457–458campingfelizplaneado, primeraaproximaciónsexualpara porYukano lista;M acepta de inmediato, siguencampando, duermen vestidos, nosexo. Ori llamaMum aF, Ichika/Touka integradas, no solamente extrasenfermería. La rama sigueMauB, sinoriginalmemorias ni segundo corazón.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|11|The Flower on the Cord|1523|
+|12|We Brought Enough|1362|
+|13|Come Back This Way|1386|
+|14|After We Get Home|1473|
+|15|Stay Anyway|1472|
+
+Bloque: 7216 palabras; mediana 1472.

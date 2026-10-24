@@ -3,7 +3,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#4, saltos de la rama, después del enfrentamiento S2 con Sukuna. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#10, rama enS5, moneda entregada aKaneki antes de la petición familiar. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -707,3 +707,18 @@ Primeros cuatro capítulos de Old New Days.1 despierta en la clearing, nombre je
 |4|Everybody Answer|1302|
 
 Bloque: 5645 palabras; mediana 1412.0.
+
+## Checkpoint s6_v35_5_10_2026-10-24 — V35#5–10
+
+5: Mau desorientado, las brujas lo cuidan; encuentra aOri niña junto al arroyo, Frieren llega en la búsqueda conYuta y la toma en brazos cuandoM se lo pide. No aparece como hija biológica de laDiosa ni como culpables las brujas.6: después de estabilización Noise, Ciel ya tiene nombre porRimuru tras separación deRaphael; comunicación privada consentida y limitada, escena cotidiana deFrieren/Ori mostrando el vínculo materno.7: TrialB finito, tres pruebas sin muerte, tarde fuera y ampolla ordinaria; Diosa autora explícita, diez días de decisiones individuales. Una moneda porStay incluyeM en esta rama, base distinta del regalo long-run original.8: saltoS4, Maki usa su moneda paraYuka17, reencuentro conYuta/Maki; Mau la percibe a color.9: primeraRedGate conF/Fe/St/Mi/M/Yk, una semana dentro~una hora fuera;Fmanda,Mayuda limitado yRse queda. SinexchangeJinwoo/Arise/torre/llave/legión, dragón no extraído.10: más tardeS5,M da su moneda aKaneki paraTouka/Ichika;Kn conserva elección de petición yErenacompaña. Ori ya lleva el compás que apunta aFrieren; MauB lo conoce así. El brazalete de cumpleaños y elcatch-up aún no se han escrito. No romance/sexo conYuka17 ni memoria original consciente.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|5|Will You Hold Her?|1447|
+|6|Ask Her Yourself|1349|
+|7|They Can Answer|1356|
+|8|She Says Grandpa|1230|
+|9|The First Watch|1289|
+|10|Two Names in One Hand|1244|
+
+Bloque: 7915 palabras; mediana 1319.0.

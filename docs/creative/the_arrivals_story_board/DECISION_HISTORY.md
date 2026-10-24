@@ -2104,3 +2104,7 @@ Mensaje íntegro15 autoriza producir. Se conserva todo42–45 publicado antes de
 ### DH-135 continuación — V35#1–4, checkpoint s6_v35_1_4_2026-10-24 (2026-10-24)
 
 Producción autorizada hacia adelante, sin retrocambiar las marcas de hablante. Nuevo formato pequeño a la derecha mediante letras Unicode elevadas, compatible con el lector que no admite HTML. Primer corte de respaldo con cuatro capítulos completos; continuar tras push. No cuota de capítulos ni compresión de la futura recuperación. La desviación S2 sin muerte se muestra desde cuidados/vida compartida en vez de sustituir toda la batalla original por un resumen de poderes.
+
+### DH-135 continuación — V35#5–10, checkpoint s6_v35_5_10_2026-10-24 (2026-10-24)
+
+Se preserva la cadena de llegadas usando el Trial más llevadero de la rama, no atribuyendo aMauB437vidas ni el coste original de moneda que no vivió. Cambio de voz Ciel necesita causaRaphael/separación/nombre, no se la introduceS1. La historia originalS1–S5 no se edita. Cada capítulo cierra escena propia; estos saltos iniciales son el montaje pedido por el creador, no el ritmo que se aplicará a la convivencia y recuperación continuas. Se registra la diferencia de cada objeto/relación antes de que regreseMauOG.

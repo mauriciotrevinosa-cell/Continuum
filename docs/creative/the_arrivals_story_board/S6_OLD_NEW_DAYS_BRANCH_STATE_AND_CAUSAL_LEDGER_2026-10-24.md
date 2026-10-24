@@ -20,3 +20,24 @@ S3: descontrolNoise/amnesia distinto del robo externoS6; encuentrobrujas yOri ni
 ## Pendiente real
 
 S3/Ori yTrial no escritos aún. La futura promesa original de familia no obliga aYukaB. Guardar consecuencias de descubrimiento/desmayo, Ciel y permiso de gate por umbral. Segundo precio permanece vigente; las reglas del nuevoWindow se desarrollan en su escena y no se declaran ya logradas por estos capítulos.
+
+## Producido — V35#5–10
+
+|Tramo|Hecho vivido|Conocimiento y consecuencia que persisten|
+|---|---|---|
+|5S3|Brujas cuidan aM, luego encuentraOri niña; Frieren/Yuta llegan.|M perdido pide aF que la sostenga, ella pregunta aOri antes de levantarla. Inicio maternidadF. Ninguna culpaNoise por el robo externoS6 ni autoría delataque atribuida a las brujas.|
+|6S3|Ciel privada enamboshosts después deRaphael/separación/nombreR; pruebas pequeñas de aviso.|No tratamiento de curación total, no sufrimiento de huesos/muerte heredado. No voz públicaCiel. Ori busca regazoF, libro/calcetines y aprobaciónmaterna.|
+|7finS3|TrialB tres pruebas en una tarde, sin muertes.|Diosa pideM decidir por todos; él devuelve decisión.10díasStay/Return individuales. Moneda porpersona queStay, incluidoM. Este es el origenB; no regalo long-runOG.|
+|8S4|Maki moneda→Yuka17, anillo traído conella.|Yuta propio cuerpo+vida envejecida, noKenjaku. M/B conoce aYka color en mundo aún gris. Noedadsexual, confesiónromántica ni relaciónF/M vigente.|
+|9S5temprano|RedGate1 semana dentro~hora fuera, mismo grupoF/Fe/St/Mi/M/Yk.|F dirige,Mguardia/ayuda breve,Ciel límites,Rquedaafuera. NoMonarchSystem ni extraccióndragón, llave, torre olegión. VínculoM/Yk tiene guardia/amistad.|
+|10S5posterior|Mcoin→Kn, Erenacompaña la petición planeada paraTouka/Ichika.|Kn teníala propia, ahora dos. Nadie tiene obligación de venir. M lo informa aFern. Ori tienecompás plataagrietadaapuntaF; noManniv. M no conoce otra procedencia.|
+
+### Separación de monedas y objetos
+
+- Monedas de llegadasB: decisiónStay trasTrialB. Maki gastala suya porYuka. M entrega la suya aKaneki; petición aún pendiente al cerrar10, no fingir queTouka/Ichika ya llegaron enesta escena. Las demás llegadas ya presentes enel saltoS5 conservan sus respectivas personaspeticionarias/consentimientos, no adjudicarlas alNoiseni duplicar monedas.
+- La futura moneda porerror de laDiosa es otra, todavía no entregada enprosa nueva; katana y dagas tienen procedencias distintas. No usar este regalo deM paraexplicar la moneda futura.
+- Primerdragón deRedGateB queda muerto/materiales: Mau no disponía deArise. Cuando vuelvaOG, su dragón ylegión proceden dela historia original; no un segundoejército importado de este montaje.
+
+### Revisión del respaldo
+
+Webprimeros1–4 verificada porHTTPGET, commit221ceba; índice35cuatrofilas,1195capítulosglobales,warningsvacíos,enlaceV34#41→V35#1 válido. El verificadorantiguo suponía doscapítulos por últimoepisodio ybuscó elarchivadoE62CH02; se corrigió la suposición delverificador local al último capítulo realE62CH01, sin cambios aapp.

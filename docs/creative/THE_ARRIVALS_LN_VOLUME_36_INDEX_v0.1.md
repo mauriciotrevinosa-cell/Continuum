@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 36
 **Season:** 6
-**Coverage:** S6E78–S6E80
+**Coverage:** S6E78–S6E81
 **Volume title:** **Both Lives**
-**Chapter files:** 6
+**Chapter files:** 7
 
 Continues from Volume 35 (Day479, the original Mau lucid with three sets of memories). Plan: [S6_V36_PLAN_2026-10-24.md](the_arrivals_story_board/S6_V36_PLAN_2026-10-24.md).
 
@@ -19,3 +19,4 @@ Continues from Volume 35 (Day479, the original Mau lucid with three sets of memo
 | 4 | S6E79 | The Ones Who Remember | `THE_ARRIVALS_S6E79_LN_CHAPTER_02_THE_ONES_WHO_REMEMBER_v0.1.md` |
 | 5 | S6E80 | Your Things | `THE_ARRIVALS_S6E80_LN_CHAPTER_01_YOUR_THINGS_v0.1.md` |
 | 6 | S6E80 | Still Friends? | `THE_ARRIVALS_S6E80_LN_CHAPTER_02_STILL_FRIENDS_v0.1.md` |
+| 7 | S6E81 | It Finds Mum | `THE_ARRIVALS_S6E81_LN_CHAPTER_01_IT_FINDS_MUM_v0.1.md` |

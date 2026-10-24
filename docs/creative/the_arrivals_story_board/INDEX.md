@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Cambio de dirección del creador —2026-10-24:** el desenlace de memoria/Diosa anterior está PAUSADO. El texto publicado hastaV34#45 conserva la versión anterior; no se ha aplicado el nuevo corte a negro/overwrite. [Mensajes íntegros y correcciones](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md) · [Dirección y handoff vigentes](S6_OVERWRITE_OLD_NEW_DAYS_DIRECTION_AND_HANDOFF_2026-10-24.md). Este checkpoint sólo guarda las notas: no da verde a producir Old New Days/endless army ni convierte los borradores46–48 anteriores en continuación activa. El próximo paso es trabajar el cierre con el creador.
+
 > **Checkpoint S6 actual —2026-10-22:** V34#45, Day476morning. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
 
 > **Actual production —2026-10-17:** [V27 The Way Home](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) is now a29-chapter draft, Days262–267; creator reading pending. [Production/exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md), [QA](S5_V27_CONTINUITY_QA_2026-10-17.md), [handoff](S5_PRODUCTION_HANDOFF_2026-10-16.md). Earlier unwritten/no-go-ahead notes below describe prior planning state; later volumes remain future.

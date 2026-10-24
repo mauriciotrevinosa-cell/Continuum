@@ -1,5 +1,7 @@
 # S6 — continuación autorizada: registro de producción y estado
 
+> **Cambio de dirección del creador —2026-10-24:** el desenlace de memoria/Diosa anterior está PAUSADO. El texto publicado hastaV34#45 conserva la versión anterior; no se ha aplicado el nuevo corte a negro/overwrite. [Mensajes íntegros y correcciones](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md) · [Dirección y handoff vigentes](S6_OVERWRITE_OLD_NEW_DAYS_DIRECTION_AND_HANDOFF_2026-10-24.md). Este checkpoint sólo guarda las notas: no da verde a producir Old New Days/endless army ni convierte los borradores46–48 anteriores en continuación activa. El próximo paso es trabajar el cierre con el creador.
+
 **Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#45, Day476morning. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
@@ -667,3 +669,15 @@ Revisión cruzada PASS;45 quitó una supuesta cita del pasado de Ori que no apar
 |45|Before They Went Down|1537|
 
 Bloque: 6598 palabras; mediana 1630.5.
+
+## Checkpoint de dirección — overwrite / Old New Days,2026-10-24
+
+El creador pidió ordenar y preservar toda la conversación sin resumirla, subirla a Git y avisarle antes de trabajar el nuevo cierre y el esquema posterior. Se conservan trece bloques íntegros de sus mensajes, el adjunto completo de Gemini como material externo no verificado y cuatro borradores de workspace del desenlace anterior. La guía separa las decisiones de posibilidades y pendientes; no sustituye los mensajes.
+
+Última pauta narrativa: escenas con microcambios y saltos entre llegada/Fern/S2/S3/Ori/Trial/Yuka; Mau percibe gris en la nueva rama y Yuka en color, y el original vuelve a ver todo a color. Al alcanzar el presente se retoma el ritmo de días completos. Mecanismo del recurso cromático no fijado.
+
+El cierre solicitado pasa a negro/glitch de overwrite; no se ha escrito ni publicado en este checkpoint. Precio segundo permanece desconocido y vigente, la disculpa no lo cancela. El compás deja de pertenecer a Mau y puede estar con Ori; entrega concreta pendiente. No se modifica novela ni índice del lector, no se mueve la marca de lectura, no se toca app/DB/Vault.
+
+El checkpoint físico de novelas sigue V34#45 de la versión anterior, explícitamente pausada para revisión. No continuar los viejos46–48 por accidente. La inserción local de38 con la promesa de familia también queda conservada sin afirmar que ya entró al lector.
+
+Adjunto externo verificado byte a byte: SHA-256 `da6759a00fee7df74674933d8ff07efc3bfc661cac797c96341548d9c5b432b3`, 33003bytes. No se valida su contenido como canon.

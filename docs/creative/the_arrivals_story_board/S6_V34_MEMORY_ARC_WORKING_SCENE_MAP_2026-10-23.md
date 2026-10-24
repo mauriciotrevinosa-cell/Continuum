@@ -1,5 +1,7 @@
 # S6 — mapa de trabajo después de la revelación,2026-10-23
 
+> **Cambio de dirección del creador —2026-10-24:** el desenlace de memoria/Diosa anterior está PAUSADO. El texto publicado hastaV34#45 conserva la versión anterior; no se ha aplicado el nuevo corte a negro/overwrite. [Mensajes íntegros y correcciones](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md) · [Dirección y handoff vigentes](S6_OVERWRITE_OLD_NEW_DAYS_DIRECTION_AND_HANDOFF_2026-10-24.md). Este checkpoint sólo guarda las notas: no da verde a producir Old New Days/endless army ni convierte los borradores46–48 anteriores en continuación activa. El próximo paso es trabajar el cierre con el creador.
+
 **Estado:** desarrollo editorial dentro del verde del creador para continuar el arco. No es un registro de hechos sucedidos ni una cuota de capítulos. La propuesta íntegra del creador sigue conservada en su archivo; este mapa no la sustituye. Actualizar el registro de producción sólo al escribir y revisar cada escena.
 
 ## Punto de partida

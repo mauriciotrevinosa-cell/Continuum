@@ -2086,3 +2086,9 @@ V34#37–41 da confidencia y última noche propias, términos completos, oposici
 ### DH-135 continuación — V34#42–45, checkpoint _s6_v34_b42_45 (2026-10-23)
 
 V34#42–45 completa subjetivamente la misma restauración, conserva vigilancia nocturna y desarrolla los despertares/reencuentro familiar con desplazamientos y objetos reales. Ciel no duerme ni retiene copia; dos amores y responsabilidad de M permanecen. Se distingue tranquilidad recordada de perdón informado. Continúan46–48 antes de declarar cerrado el arco.
+
+### DH-135 continuación — cambio de dirección overwrite / Old New Days (2026-10-24)
+
+El creador pausa el regreso/desayuno del desenlace anterior y plantea corte a negro con glitch de overwrite, otra rama y convergencia del Mau original con tres memorias. Se registra la propuesta completa, sus correcciones sobre Ori/S3 frente al robo externoS6, responsabilidad compartida desde las dos galletas, Ciel, relación con Yuka, deuda segunda vigente, compás con Ori, endless army y compra dormido de dagas. La última instrucción pide saltos narrativos con microcambios y gris/color antes de recuperar los días completos al alcanzar el presente.
+
+Encargo ejecutado aquí: sólo conservar y organizar las notas en Git. [Mensajes completos](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md) y [handoff](S6_OVERWRITE_OLD_NEW_DAYS_DIRECTION_AND_HANDOFF_2026-10-24.md). Las novelas existentes quedan intactas; el nuevo cierre y la nueva etapa esperan el trabajo y revisión siguientes del creador.

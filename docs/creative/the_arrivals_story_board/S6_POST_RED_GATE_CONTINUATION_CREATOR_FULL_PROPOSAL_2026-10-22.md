@@ -1,5 +1,7 @@
 # S6 — continuación tras la Red Gate: propuesta íntegra del creador
 
+> **Cambio de dirección del creador —2026-10-24:** el desenlace de memoria/Diosa anterior está PAUSADO. El texto publicado hastaV34#45 conserva la versión anterior; no se ha aplicado el nuevo corte a negro/overwrite. [Mensajes íntegros y correcciones](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md) · [Dirección y handoff vigentes](S6_OVERWRITE_OLD_NEW_DAYS_DIRECTION_AND_HANDOFF_2026-10-24.md). Este checkpoint sólo guarda las notas: no da verde a producir Old New Days/endless army ni convierte los borradores46–48 anteriores en continuación activa. El próximo paso es trabajar el cierre con el creador.
+
 > **Checkpoint S6 actual —2026-10-22:** V34#45, Day476morning. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
 
 **Fecha:**2026-10-22. **Estado:** intake de ideas y aclaraciones; NO verde para escribir ni modificar capítulos. El creador declara que el orden y los ejemplos son flexibles. Las respuestas explícitas siguientes fijan dirección para planear, no convierten las escenas futuras en hechos ya ocurridos.

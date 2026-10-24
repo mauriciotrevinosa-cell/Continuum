@@ -123,3 +123,7 @@ Day479mañana, clínica. El mundo completo vuelve a color desdePOV deM. Vuelven 
 - **Ori/F:** M oye vozMum→F y recuerda paternidadOG/ausenciaB. Aún no conversación conella ni reclamo deamor/dad. Compás sigue deOri, apunta aF.
 
 **V35completo como borrador en29capítulos. No cierre deS6 ni del arco de consecuencias.** V36comienza mismo479 sin saltar aArmy. Necesita examen/verdad médica parcial, armas/coin conprocedencia, vínculos, pánico, Window y límites, gate sinCiel, rescate/segunda recuperación, dagas compradas dormido, confesión pública y decisiones propias. La nuevaWindow aún no se ha activado enprosa. No declarar aM nivelThomas ni infinitud porque esté despierto.
+
+## Continuación actual — V36#1–10
+
+V35#29 es la salida histórica del volumen anterior, no el punto actual. Claude produjoV36#1–7; Work continúa8–10 porpetición delcreador. [Estado real porpersona/día/objeto y pendientes](S6_V36_PRODUCTION_STATE_2026-10-24.md). Day483, vueloKaisellocal comprobado; coast485todavíapropuesta, noejército/confesión. Véase el registro nuevo antes de usar pendientes históricos anteriores.

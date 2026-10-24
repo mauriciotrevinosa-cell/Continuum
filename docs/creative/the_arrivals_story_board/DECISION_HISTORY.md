@@ -2128,3 +2128,7 @@ Dar varios días y relaciones propias a la recuperación, no convertir cambios e
 ### DH-135 continuación — V35#29–29, checkpoint s6_v35_29_2026-10-24 (2026-10-24)
 
 CerrarV35en el regreso consciente/color da espacio a lo que sigue enV36 sin convertirlo en un volumen de restos. Las elipsis iniciales fueron hastaouting; se vivieron475–479 enescenas. No comprimir visita médica, conversaciónconYuka/Ciel, reacción aOri y amistad enuna confesión automática. V36 arranca este mismo día479, después de29, conservando toda la información desigual, enfado y cuidado. PrimerMau deB no fue descartable: todos sus recuerdos/elecciones siguen siendo delMau que despierta.
+
+### DH-135 continuación — V36#8–10, checkpoint v36_8_10 (2026-10-24)
+
+Petición vigente del creador: Work continúa desde #8 tras leer Claude; escenas completas con feelingS5, Yuka no desaparece y salida repetida con aviso previo aabuelos. #8–10 producidos; vieja tabla Claude llevaba un número menos desde la inserción Still Friends?. Índice/registro actualizan el punto real sin renumerar lo producido. Consentimiento deYukaB propio, confidencia médica intacta y enfado familiar sin reset.

@@ -1,11 +1,11 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-> **Relevo a Claude —2026-10-24:** el creador pidió cerrar y guardar. V35 completo en29 capítulos; salida Day479 por la mañana. [Punto exacto, pendientes, límites y verificaciones](S6_CLAUDE_CONTINUE_AFTER_V35_HANDOFF_2026-10-24.md). V36 todavía no escrito. Todo el avance de prosa propio está enGit.
+> **Relevo histórico a Claude —2026-10-24:** [estado al cerrar V35 y entregar la escritura](S6_CLAUDE_CONTINUE_AFTER_V35_HANDOFF_2026-10-24.md). Después Claude escribióV36#1–7 y el creador pidió aWork continuar desde8. [Estado de producción vigente deV36](S6_V36_PRODUCTION_STATE_2026-10-24.md); [dirección de ritmo y petición actual](S6_V36_PACING_AND_CREATOR_CONTINUATION_2026-10-24.md).
 
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#29, Day479 por la mañana, primer despertar lúcido del original y final natural deV35. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#10, Day483 después del vuelo local y almuerzo con la casa; salida costera todavía propuesta para485. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -788,3 +788,15 @@ Bloque: 5937 palabras; mediana 1217.
 |29|At Least That Stayed|1783|
 
 Bloque: 1783 palabras; mediana 1783.
+
+## Checkpoint v36_8_10 — V36#8–10
+
+Continúa desde el índice real de Claude, siete capítulos ya escritos. #8 vive una visita completa M/Yuka, su incomodidad y decisión de seguir conociéndolo. #9 retoma la conversación de confianza con Yuta/Maki y avisa dónde/cuándo irán antes de salir. #10 prueba Kaisel con R/Shoko/Yt/Mk; un recuerdo involuntario no se oculta ni se confunde con daño nuevo. No se modifica prosa anterior ni se llega aún a la cita o al ejército. Estado detallado y continuación pendiente en S6_V36_PRODUCTION_STATE_2026-10-24.md.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|8|Getting to Know Him|2229|
+|9|Where|1937|
+|10|Let Him Land|2170|
+
+Bloque: 6336 palabras; mediana 2170.

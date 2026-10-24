@@ -1,11 +1,11 @@
 # The Arrivals — Story Board Index
 
-> **Relevo a Claude —2026-10-24:** el creador pidió cerrar y guardar. V35 completo en29 capítulos; salida Day479 por la mañana. [Punto exacto, pendientes, límites y verificaciones](S6_CLAUDE_CONTINUE_AFTER_V35_HANDOFF_2026-10-24.md). V36 todavía no escrito. Todo el avance de prosa propio está enGit.
+> **Relevo histórico a Claude —2026-10-24:** [estado al cerrar V35 y entregar la escritura](S6_CLAUDE_CONTINUE_AFTER_V35_HANDOFF_2026-10-24.md). Después Claude escribióV36#1–7 y el creador pidió aWork continuar desde8. [Estado de producción vigente deV36](S6_V36_PRODUCTION_STATE_2026-10-24.md); [dirección de ritmo y petición actual](S6_V36_PACING_AND_CREATOR_CONTINUATION_2026-10-24.md).
 
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-> **Checkpoint S6 actual —2026-10-22:** V35#29, Day479 por la mañana, primer despertar lúcido del original y final natural deV35. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
+> **Checkpoint S6 actual —2026-10-22:** V36#10, Day483 después del vuelo local y almuerzo con la casa; salida costera todavía propuesta para485. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
 
 > **Actual production —2026-10-17:** [V27 The Way Home](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) is now a29-chapter draft, Days262–267; creator reading pending. [Production/exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md), [QA](S5_V27_CONTINUITY_QA_2026-10-17.md), [handoff](S5_PRODUCTION_HANDOFF_2026-10-16.md). Earlier unwritten/no-go-ahead notes below describe prior planning state; later volumes remain future.
 

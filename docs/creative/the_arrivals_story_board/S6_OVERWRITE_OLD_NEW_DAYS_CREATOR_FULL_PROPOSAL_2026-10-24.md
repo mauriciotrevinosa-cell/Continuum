@@ -148,3 +148,18 @@ antes del cierre quiero que me des el esqueleto como me lo diste para lo anterio
 ```
 
 El encargo posterior autoriza preparar y discutir [este esqueleto propuesto](S6_OLD_NEW_DAYS_PROPOSED_SKELETON_2026-10-24.md), no escribir todavía sus capítulos ni aplicar el cierre. Sus rangos, cortes de volumen y puestas añadidas por Codex siguen siendo propuestas.
+
+## 15 — Verde para producir, endless army, Ciel, segundo precio y marcas
+
+```text
+me gusta y quiero que lo del endless army sea algo brutal no ver la pelea en si sino entramos con rimuru ve que es un castillo esta oscuro y luego luces se prenden y ve una masacre asi una cabeza en el techo con la espina aun pegada alguien molido pq con lo nuevo de la window llego al nivel de thomas como hablado y esto le revuelve a rimuru y se tiene que salir y aqui beru puede decirle algo y saca de onda a todos el insecto habla y dice my king was showing his grandure he put a false king in his place until he lost the will to fight y beru comienza a lagrimiar my king so powerful so great e igris y kamish le dicen beru y los ve con la cara de what y kamish le dice a rimuru slime the small monarch (kamish detecto el cambioo) needs you this are monsters that are made not real
+
+si que colapse de sueno y mau al entrar a la gate se da cuenta que ciel no pudo entrar como si regreso ese bloqueo pero aun la siente que cuando salga va a estar ahi y que ciel explique que esta cansado que no es como lo anterior.
+
+y yo creo que si ponemos lo de la segunda peticion y que mau se la diga que no la ah olvidado y ella puede decir que sabe pero no lo queria traer mientras se disculpa y mau se rie
+
+y estoy de acuerdo primero el mau de esta rama y de ahi lento 
+con esto arrancate de lo que hiciste no me ah disgustado nada de tus capitulos solo que haz mas chico los de a quien te refieres y ponlos en el lado derecho del mensaje de habla no hagas abckwards fix sobre eso mejor mas caps y recuerda 10 caps o 20 mins y subes a git
+```
+
+Este mensaje posterior da el verde que faltaba en los estados de guardado anteriores. Producir desde la nueva rama de Mau con pausas vividas, no saltar directamente al ejército. Checkpoints cada diez capítulos o unos veinte minutos, luego continuar. Los mensajes anteriores se conservan íntegros como historial, no como un veto posterior al verde.

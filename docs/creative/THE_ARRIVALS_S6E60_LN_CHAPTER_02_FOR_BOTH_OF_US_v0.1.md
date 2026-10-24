@@ -5,7 +5,7 @@
 **Volume:** 34
 **Reading order:** 38
 **Source episode:** S6E60
-**Continuity state:** Day475 late night, directly after37's private confidence. Mau/Yuka move from sitting to lying fully clothed beneath the same dry picnic blanket on her bed. Coats remain on hooks, Mau's gloves in his coat and boots beneath the stool; door remains closed. Yuka asks him to seek the actual answer rather than indefinitely postpone it for her. She imagines his restored history might make their relationship feel distant and says she will remember their story for both; she does not know or consent to a proposal which will change her own recollection/feelings or anyone else's memory. No final terms, two-heart mechanism, price, acceptance, coin, general sleep or full recollection yet. She falls asleep ordinarily after the day and conversation; Mau remains awake holding her hand and tells Ciel privately he is going to ask. Ciel has not relayed37's confidence or received automatic access to the Goddess's voice.39 will begin the offer.
+**Continuity state:** Day475 late night, directly after37's private confidence. Mau/Yuka move from sitting to lying fully clothed beneath the same dry picnic blanket on her bed. Coats remain on hooks, Mau's gloves in his coat and boots beneath the stool; door remains closed. Yuka asks him to seek the actual answer rather than indefinitely postpone it for her. She imagines his restored history might make their relationship feel distant and says she will remember their story for both; she does not know or consent to a proposal which will change her own recollection/feelings or anyone else's memory. Before sleeping and before any terms, Yuka explicitly asks that they continue together, form a family and have children despite the conflict; Mau says yes, states he wants that life with her and promises. This is a commitment/intention, not an established pregnancy, biological compatibility, sexual encounter or consent to changing memories. No final terms, two-heart mechanism, price, acceptance, coin, general sleep or full recollection yet. She falls asleep ordinarily after the day and conversation; Mau remains awake holding her hand and tells Ciel privately he is going to ask. Ciel has not relayed37's confidence or received automatic access to the Goddess's voice.39 will begin the offer.
 
 *When: Day475, late night. Yuka's room. She has stopped crying, but the sleeve she used to wipe her face has not quite dried.*
 
@@ -264,6 +264,62 @@ Her face changed before she could prepare an answer for it.
 He watched her blink, then move nearer.
 
 [Yk] "I love you too."
+
+* * *
+
+She kept looking at him.
+
+There was something else in her face now, a question which needed more of her than the small offer she had just made.
+
+[Yk] "Can I ask you something before you get your answer?"
+
+[M] "Ask."
+
+Her hand tightened around his.
+
+[Yk] "What we talked about. Having a family. I don't want that to turn into something we could only say when nobody else was there."
+
+He stayed close enough for her to see him listening.
+
+[Yk] "I want us to keep going. Even with all of this. You and me. I want to have children with you, Mau. A life we don't have to stop imagining every time we come home."
+
+His breath moved against her forehead.
+
+She did not lower her eyes.
+
+[Yk] "Will we?"
+
+He thought of the ordinary things they had begun putting into a future. A table. Her brother. The small people they had imagined before knowing how difficult it would be to sit together in the house which was already theirs.
+
+He wanted that life.
+
+[M] "Yes."
+
+Her mouth trembled.
+
+[Yk] "You don't have to say it because I'm crying."
+
+[M] "I want a family with you. I want to have children with you. I mean it."
+
+She watched his face for a long moment.
+
+[Yk] "Even after everything?"
+
+[M] "Yes."
+
+She came closer, stopping with her forehead against his.
+
+[Yk] "Promise me."
+
+He could hear the question without mistaking it for a request to be comforted until morning.
+
+[M] "I promise."
+
+Yuka closed her eyes. Let the breath she had been holding leave her slowly, with both hands still keeping his near her.
+
+When she looked at him again she was smiling through the tears.
+
+[Yk] "Okay."
 
 * * *
 

@@ -1,5 +1,9 @@
 # S6 — Old New Days, convergencia y endless army: esqueleto propuesto
 
+> **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
+
+El estado de planificación que se conserva debajo es histórico; este verde posterior y el registro de producción gobiernan el trabajo efectivamente realizado.
+
 **Fecha:** 2026-10-24, America/New_York.
 
 **Estado:** propuesta editorial solicitada por el creador ANTES de cerrar el arco actual. No hay prosa nueva, cierre aplicado, índice de novelas modificado ni verde para producir de corrido este esquema. Los rangos de capítulos son una estimación de espacio, no una cuota.

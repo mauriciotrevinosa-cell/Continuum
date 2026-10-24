@@ -1,8 +1,9 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-> **Cambio de dirección del creador —2026-10-24:** el desenlace de memoria/Diosa anterior está PAUSADO. El texto publicado hastaV34#45 conserva la versión anterior; no se ha aplicado el nuevo corte a negro/overwrite. [Mensajes íntegros y correcciones](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md) · [Dirección y handoff vigentes](S6_OVERWRITE_OLD_NEW_DAYS_DIRECTION_AND_HANDOFF_2026-10-24.md). Este checkpoint sólo guarda las notas: no da verde a producir Old New Days/endless army ni convierte los borradores46–48 anteriores en continuación activa. El próximo paso es trabajar el cierre con el creador.
+> **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#45, Day476morning. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#41, Day475night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -689,3 +690,7 @@ El nuevo mensaje14 del creador se conserva completo. Se desarrolla un [esqueleto
 Herida de Sukuna verificada en S2E23 CH05: su mano atravesó el torso. La cicatriz permanente específica no está confirmada por los pasajes revisados; el creador propone incorporar su retorno. No inventar órgano o lado ni hacer que Yuta provoque el colapso. Primer reajuste y colapso posterior al endless army/Fort son momentos distintos.
 
 Este checkpoint modifica notas únicamente. Novelas, índices y progreso no cambian. El cierre sigue pausado y el esquema queda para opinión y verde del creador.
+
+## Checkpoint — cierre overwrite ejecutado2026-10-24
+
+V34#38 incorpora la promesa expresa de continuar/familia/hijos antes del trato, sin sexo ni consentimiento al cambio de memoria. V34#41 conserva la oposición real de Rimuru/Ciel y el consentimiento moralmente problemático de Mau; cambia sólo el resultado: operación inesperada, negro y glitch OVERWRITE.42–45 quedan íntegros archivados y fuera del índice/lector;46–48 siguen nunca publicados. La moneda por error de la Diosa se integra después, no como la antigua recompensa «cheated». Segundo precio vigente. Se inicia la rama vivida de V35 sin marco de clínica ni narrador OG consciente. El día475 pertenece a la línea original y no se asigna automáticamente a los saltos históricos de la rama.

@@ -1,8 +1,9 @@
 # The Arrivals: cast ledger (living document, created 2026-10-10)
 
-> **Cambio de dirección del creador —2026-10-24:** el desenlace de memoria/Diosa anterior está PAUSADO. El texto publicado hastaV34#45 conserva la versión anterior; no se ha aplicado el nuevo corte a negro/overwrite. [Mensajes íntegros y correcciones](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md) · [Dirección y handoff vigentes](S6_OVERWRITE_OLD_NEW_DAYS_DIRECTION_AND_HANDOFF_2026-10-24.md). Este checkpoint sólo guarda las notas: no da verde a producir Old New Days/endless army ni convierte los borradores46–48 anteriores en continuación activa. El próximo paso es trabajar el cierre con el creador.
+> **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
-> **Checkpoint S6 actual —2026-10-22:** V34#45, Day476morning. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
+
+> **Checkpoint S6 actual —2026-10-22:** V34#41, Day475night. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
 
 > **V31 current checkpoint:** Day291evening, chapter24; [exactstate](S5_V31_PRODUCTION_RECORD_2026-10-17.md), REL-S5-035–040. FullMau-dayR20paidDay290, Coco/motherbinding/Momoowncompany/bothweeklygatheringsshown. Tower1–3done, Level5/twentypoints/twostoredfinite; dateR16nextDay292. Olderentrynoticesarehistory.
 

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 34
 **Season:** 6
-**Coverage:** S6E42–S6E64
+**Coverage:** S6E42–S6E62
 **Volume title:** **Both**
-**Chapter files:** 45
+**Chapter files:** 41
 
 Continues the preceding volume without a relationship or power reset. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -54,7 +54,5 @@ Continues the preceding volume without a relationship or power reset. [Current p
 | 39 | S6E61 | What He Would Keep | `THE_ARRIVALS_S6E61_LN_CHAPTER_01_WHAT_HE_WOULD_KEEP_v0.1.md` |
 | 40 | S6E61 | The Other Answer | `THE_ARRIVALS_S6E61_LN_CHAPTER_02_THE_OTHER_ANSWER_v0.1.md` |
 | 41 | S6E62 | The People Who Would Not Know | `THE_ARRIVALS_S6E62_LN_CHAPTER_01_THE_PEOPLE_WHO_WOULD_NOT_KNOW_v0.1.md` |
-| 42 | S6E62 | The Weight of a Head | `THE_ARRIVALS_S6E62_LN_CHAPTER_02_THE_WEIGHT_OF_A_HEAD_v0.1.md` |
-| 43 | S6E63 | Still on Watch | `THE_ARRIVALS_S6E63_LN_CHAPTER_01_STILL_ON_WATCH_v0.1.md` |
-| 44 | S6E63 | Before Breakfast | `THE_ARRIVALS_S6E63_LN_CHAPTER_02_BEFORE_BREAKFAST_v0.1.md` |
-| 45 | S6E64 | Before They Went Down | `THE_ARRIVALS_S6E64_LN_CHAPTER_01_BEFORE_THEY_WENT_DOWN_v0.1.md` |
+
+The active ending was revised on2026-10-24:38 includes the family promise;41 ends at the unintended overwrite. Superseded42–45 are preserved outside the active chapter sequence in the story-board archive.

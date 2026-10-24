@@ -1,5 +1,9 @@
 # S6 — overwrite y Old New Days: dirección del creador y continuidad de trabajo
 
+> **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
+
+El estado de planificación que se conserva debajo es histórico; este verde posterior y el registro de producción gobiernan el trabajo efectivamente realizado.
+
 > **Actualización posterior del creador —2026-10-24:** pidió un esqueleto ANTES del cierre y propuso el outing, Milim descubriendo el beso, conversación conYuta/Maki y desmayo. [Esqueleto para revisar](S6_OLD_NEW_DAYS_PROPOSED_SKELETON_2026-10-24.md); [mensaje íntegro14](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). La fase de guardado anterior ya se completó. Este paso prepara planificación, no prosa nueva ni cierre aplicado.
 
 **Fecha:** 2026-10-24, America/New_York.
@@ -211,3 +215,13 @@ Después, Mau habla con Yuta y Maki, se le vuelve borrosa la visión lateral, pa
 El creador añade que vuelva una cicatriz de donde Sukuna lo atravesó. La fuente S2E23 CH05 confirma perforación del torso; no se verificó una cicatriz permanente específica después. Se registra como nueva dirección sobre una herida existente, sin fijar un lado anatómico por invención.
 
 La apertura debe sentirse como estar dormido y recordar: escenas y cortes, sin empezar en una clínica desde donde se explica retrospectivamente la rama. Codex propone la mañana del outing como final exacto de las elipsis y unos50–65 capítulos en dos volúmenes posibles; esos números y esa división no están aprobados y no son una cuota. [Desarrollo íntegro del esqueleto](S6_OLD_NEW_DAYS_PROPOSED_SKELETON_2026-10-24.md).
+
+## Dirección posterior15 — aplicación de producción
+
+- Ejército: no narrar la pelea. Entrar con Rimuru en un castillo oscuro; se encienden luces y descubre el resultado brutal: cabeza con columna en el techo, cuerpo molido y otros restos. Rimuru necesita salir. No borrar su historia de origen para justificar su reacción: la nueva experiencia concreta y Mau explican su horror.
+- La nueva Window permitirá el salto físico al rango comparable a Thomas discutido por el creador; establecer su evolución antes de usarlo, sin equipararlo a todo el poder de Jin-Woo ni regalar curación. El ejército sigue siendo de monstruos fabricados; Mau prolonga la pelea al no acabar con el invocador.
+- Beru habla, para sorpresa de quienes no conocían a la legión. Orgulloso y lagrimeando: el rey mostró su grandeza y puso a un rey falso en su lugar hasta que perdió la voluntad de pelear. Igris y Kamish lo frenan con «Beru». Kamish reconoce el cambio en Mau y dice a Rimuru/slime que el pequeño monarca lo necesita; los monstruos son fabricados, no personas reales.
+- Ciel NO puede entrar a esa gate. Mau descubre el bloqueo al cruzar y todavía siente que ella estará cuando salga. Esto corrige cualquier permiso anterior que implicara Ciel viendo/hablando dentro: construir una transmisión de permiso por el umbral/guardianes u otro paso observable; no inventar que ella observó toda la masacre. Ya fuera puede explicar el agotamiento y que no es como el colapso previo.
+- El segundo colapso es de sueño/cansancio. No otra muerte ni transformación corporal equivalente a la convergencia.
+- Confesión pública: Mau recuerda a la Diosa que no olvidó la segunda petición; ella sabe, no quería traerla mientras se disculpaba; él se ríe. La obligación no queda pagada ni definida por el chiste.
+- Marcas desde nuevos capítulos: abreviaturas Unicode elevadas al final de la intervención, discretas y legibles sin HTML. No retocar retrospectivamente todo el corpus ni convertir la prosa en libreto. El lector actual no interpreta HTML crudo; no introducir etiquetas visibles ni cambiar la aplicación por esta petición.

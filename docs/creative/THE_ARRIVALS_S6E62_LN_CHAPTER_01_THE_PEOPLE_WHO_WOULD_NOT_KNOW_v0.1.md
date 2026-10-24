@@ -5,7 +5,7 @@
 **Volume:** 34
 **Reading order:** 41
 **Source episode:** S6E62
-**Continuity state:** Day475 late night, continuing40. Rimuru physically present on stool, Mau on edge of Yuka's bed; she sleeps ordinarily, door closed. Real discussion and delivered Ciel warning occur before choice, not a speed contest. Exact material correspondence is stated: matter/records/power work remain; altered recollections give staff/cushion/practice pause/questions and affectionate outings compatible nonromantic histories. Both loves/heart anchors, private confidence loss and unknown second obligation are known to Mau before consent. Rimuru/Ciel explicitly oppose and cannot represent absent household/Yuka; he accepts against them and without affected people's consent. Sleep and the memory intervention begin together at acceptance; Ciel is rewritten, not put to sleep by sleeping hosts. The shadows retain only witnessed/learned history; no worldwide time travel, new injury, payment of second price or coin.42 gives the subjective experience of the same restoration, not a separate later execution.
+**Continuity state:** Day475 late night, continuing40. Rimuru physically present; Yuka sleeps ordinarily. Ciel and Rimuru explicitly refuse the proposed memory intervention. Mau accepts anyway, intending the stated memory operation, not requesting a replacement reality. The operation malfunctions at the second heart; a black cutoff and OVERWRITE close this arc. The new branch follows in V35. No successful original-house restoration, breakfast coin reward or reunion from superseded42–45 occurs here. The unknown second obligation remains.
 
 *When: Day475, late night. Rimuru sits opposite Mau with the sleeping girl between the conversation and the wall. Nothing has been accepted.*
 
@@ -295,4 +295,26 @@ He turned toward her without moving his hand to wake her.
 
 Rimuru said his name.
 
-The last sound of it changed as his knees gave. Mau reached for him while the two histories began returning, and the house fell asleep around them.
+The last sound of it caught in his chest.
+
+Not the first beat.
+
+The other one.
+
+For an instant he could feel the space between them as distinctly as the edge of the mattress beneath his hand. Something had answered where there should only have been something to fill.
+
+[Dio] *Wait.*
+
+Rimuru caught his shoulder.
+
+Mau saw the stool tip. Saw Yuka's hand move against the blanket as though the noise might wake her. He tried to say her name.
+
+The room went black before he could tell whether he had made a sound.
+
+Then came a noise like a word being dragged through a broken speaker.
+
+`OVER—`
+
+It caught, repeated half a syllable, and tore cleanly through the dark.
+
+`OVERWRITE`

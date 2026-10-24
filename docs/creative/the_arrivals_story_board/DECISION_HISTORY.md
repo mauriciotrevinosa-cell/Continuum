@@ -2096,3 +2096,7 @@ Encargo ejecutado aquí: sólo conservar y organizar las notas en Git. [Mensajes
 ### DH-135 continuación — esqueleto previo al nuevo cierre (2026-10-24)
 
 El creador pide el esquema antes del cierre y sitúa el regreso al ritmo lento después de la segunda Red Gate, al descubrirse la pareja. Añade outing/segundo corazón, día en sala, beso visto por Milim, diálogo con Yuta/Maki, visión borrosa/palidez/desmayo alcanzado por Yuta, miedo de Yuka y reajuste progresivo. Quiere sueño/recuerdo desde el comienzo, no comienzo clínico con relato explicativo. Se preserva [mensaje14 íntegro](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md) y se entrega [propuesta editorial](S6_OLD_NEW_DAYS_PROPOSED_SKELETON_2026-10-24.md), sin aprobar automáticamente sus50–65 capítulos/volúmenes ni producir prosa.
+
+### DH-135 continuación — verde y cierre overwrite ejecutado (2026-10-24)
+
+Mensaje íntegro15 autoriza producir. Se conserva todo42–45 publicado antes de retirarlo de la secuencia;38 gana la promesa de familia y41 termina en el fallo inesperado/negro/glitch. Old New Days comienza con Mau de la rama, escena vivida y marcas pequeñas al final desde nuevos capítulos. Ejército, bloqueo Ciel y segunda deuda quedan documentados sin adelantar su ejecución narrativa. Ningún archivo de novela S1–S5 ni código de aplicación se modifica.

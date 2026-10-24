@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 34
 **Season:** 6
-**Coverage:** S6E42–S6E59
+**Coverage:** S6E42–S6E62
 **Volume title:** **Both**
-**Chapter files:** 36
+**Chapter files:** 41
 
 Continues the preceding volume without a relationship or power reset. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -49,3 +49,8 @@ Continues the preceding volume without a relationship or power reset. [Current p
 | 34 | S6E58 | Before the Dark | `THE_ARRIVALS_S6E58_LN_CHAPTER_02_BEFORE_THE_DARK_v0.1.md` |
 | 35 | S6E59 | At the Ends First | `THE_ARRIVALS_S6E59_LN_CHAPTER_01_AT_THE_ENDS_FIRST_v0.1.md` |
 | 36 | S6E59 | The Word I Used Before | `THE_ARRIVALS_S6E59_LN_CHAPTER_02_THE_WORD_I_USED_BEFORE_v0.1.md` |
+| 37 | S6E60 | Another Birthday | `THE_ARRIVALS_S6E60_LN_CHAPTER_01_ANOTHER_BIRTHDAY_v0.1.md` |
+| 38 | S6E60 | For Both of Us | `THE_ARRIVALS_S6E60_LN_CHAPTER_02_FOR_BOTH_OF_US_v0.1.md` |
+| 39 | S6E61 | What He Would Keep | `THE_ARRIVALS_S6E61_LN_CHAPTER_01_WHAT_HE_WOULD_KEEP_v0.1.md` |
+| 40 | S6E61 | The Other Answer | `THE_ARRIVALS_S6E61_LN_CHAPTER_02_THE_OTHER_ANSWER_v0.1.md` |
+| 41 | S6E62 | The People Who Would Not Know | `THE_ARRIVALS_S6E62_LN_CHAPTER_01_THE_PEOPLE_WHO_WOULD_NOT_KNOW_v0.1.md` |

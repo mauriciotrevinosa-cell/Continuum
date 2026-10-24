@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#36, Day475night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#41, Day475night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -588,3 +588,43 @@ Pendiente del creador: al terminar ESTE arco recordar que explique su idea gate 
 |36|The Word I Used Before|1609|
 
 Bloque: 7114 palabras; mediana 1799.0.
+
+## Checkpoint _s6_v34_b37_41 — V34#37–41
+
+### Escenas producidas
+
+|Capítulo|Día|Hecho observado|
+|---|---|---|
+|37 Another Birthday|475 noche|Yuka confía privadamente pasado de cáncer/cerebro maligno y pronóstico6meses ENTONCES, segundo parecer conCross, quería vivir aun al arriesgar dueloDabura/Mahoraga. Resuelto antes extracción; sin método de cura inventado ni enfermedad actual. Ciel respeta confidencia, no relaya aR. No sombras/Diosa oyendo automáticamente. Yuka despierta al final.|
+|38 For Both of Us|475 noche|Se acuestan vestidos bajo misma manta. Yuka pidepreguntar respuesta real y ofrece recordar porambos si el amor deM se sientelejano; NO sabequeellaolvidará, NOconsiente borrado. PromesaM deavisarantesde salircuarto incluso dormida. Besos sinsexo; ella duerme ordinariamente, Mdespierto y Cielpresente.|
+|39 What He Would Keep|475 noche|Diosa responde dentrocuarto porvoz sóloM. Restauración original+afecto, falso pasado reconocidofalso y vida realpostrobo siguepropia. Dosamores literalmente en corazones yaexistentes: propioFrieren/BlackHeartYuka, unM, nopotencia/salud/causaatracciónretroactiva. MrelayaCiel. Mvoluntariamente cuentahecho mínimo confianzaenfermedad aDio;Cielreprochaexposición, no surveillance.|
+|40 The Other Answer|475 noche|Propuesta adicional cambia recuerdos afectadoscasa, no todoelmundo/tiempo/materia. IncluyeCiel con trabajotécnico intacto, somb ras sólo testigosconservan. Yuka olvidaría haberconfiado cáncer, noconocimiento propio/enfermedad. Segundaobligación desconocida futura explícita. Primer clueaudibleM activaoposiciónCiel→avisorealR→R respondeyviene. Mespera,abre y dejaentrar. Noaceptó.|
+|41 The People Who Would Not Know|475 noche|Rsentado enstool conversa realmente y ofrecealternativas/tiempo/despertar afectados. Mconoce todoscostos y correspondenciademateria; niYuka/Ciel/R consienten. MactivamentepideincluirCiel para no esconder aR;ella rechazaexcusa. Aceptaunilateralmente; Rselevanta, respondeMau y comienzasueño/restauraciónmismoevento. Mloalcanza,42completaexperienciasubjetiva.|
+
+### Decisiones persistentes / consentimiento real
+
+- REL-S6-C074,37: confianza deYuka es vida propia, futuro deseado, no sexo/piedad/deuda romántica. Mlaamaba antesde saber. No puede volverla asunto público sólo porqueDiosa la utiliza.
+- REL-S6-C075,38: elección deYuka autoriza preguntar, quedarse/avisar salida; NO intervención propia/ajena. Ella cree que recordaráporambos, élsabe despuésqueella no.
+- REL-S6-C076,39–41: **Diosa única causa de recuperación completa**; doscorazones sostienen literalmente dosamores, ni personalidades separadas ni infinitamana/nuevaespecie/longevidad. Debe conservar secuelas. Segundo precioNOespecificado/NOpagado; posibletrial/conversación no define futuro sellado.
+- REL-S6-C077,40–41: Ciel autónoma alertaR, alerta recibida/respuesta; Rllega a tiempo y síoye términos y discute. Por eso NOdecir que Mni siquiera informóaR. La falta ética es proceder CONTRA ambos y SIN consultarconsentimiento detodoslosafectados. Ellos no representanYuka/F/Ori/Maki/casa. No carrera, commsnerf/time-stop/terceracceso. Ningún recuerdo futuro inventará aprobación real del borrado.
+- REL-S6-C078,41: Macepta consciente y se disculpa sin borraracto. No falsa urgencia de muerte/pérdida decuarto: rutinas separadas seguían alternativa real;24h no autorizaba cambio de mente. Sueño+rewrite inicianjuntos, Ciel NOduerme poranfitrión.
+
+### Correspondencia material fijada por términos, no historia real retroactiva
+
+**No desaparece objeto, texto, día, habilidad, coste, lesión o familiar.** Se sustituyen recuerdos, no materia. Fstaff queda detrásRdesk, recordarán queFvoluntariamente la dejóallí poracuerdo mientrasdescansaba/cuidabaOri; para volver mano requiere recogidareal. CushionYuka sigue chairfueraFort, recordado tardejuegocomún; puede llevarlodentro, no apareciódentro. Bokken lisojuntoalotro desde32, pausarecordada porreparación, elegirprácticanuevamenteaún pendiente. Trespreguntas26persisten papel/propiarestauración, nocontrato/consenso. DocumentosArmin/clínica/ledgers/compass/carta/6flores/recibos/librotécnico/mapas/cup/manta/ropa yregalos permanecen. Lotus culturaamoreternoigual, aprendizajecompatibleconregaloignorantehermanomayor, no promesa románticaconsciente. No parentescosanguíneo/infanciainventados. Momentos románticos reciben relatos ordinarios/dupla, notécnica borrada.
+
+Cielretiene modelo, amistades, trabajoNoise/R/M, datos/costes; pierdeverdadromance, confidenciaacto y oposiciónpacto. Sombrassólotestigos, sin asignarles confianza37 ni términos. Nazunaenstake/sueñogeneral se observarápróximobloque; no negligencia retconeada.
+
+Final41: MjuntoalbedalcanzaRquecaía, Ykaúndormida, botasbajostool/abrigoshooks/guantespocket/mantapresente. Fullrestorationsubjetiva42 y noche/desayuno aúncontinúan; no moneda/cierre. 57retenidos,14/40+98,dosunmade, hand/eye/whitehair. Totalnuevo87trasV33#18. Gate476próxima, roof/crackers480. Recordatorioendlessarmy pendientealcierre, noplaneado.
+
+Revisionesauthor/root y cruzada PASS;37 se eliminó supuesto deMya conocía nombreDabura,39 quitó anticipaciónolvidoYk y corrigiómanos antesprimera publicación. Sin modificar capítulos anteriores.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|37|Another Birthday|2073|
+|38|For Both of Us|1751|
+|39|What He Would Keep|1624|
+|40|The Other Answer|1503|
+|41|The People Who Would Not Know|1747|
+
+Bloque: 8698 palabras; mediana 1747.

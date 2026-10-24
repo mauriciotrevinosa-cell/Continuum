@@ -2078,3 +2078,7 @@ V34#29–32 da espacio a preparación, vuelo, elección de lugar, juego, comida 
 ### DH-135 continuación — V34#33–36, checkpoint _s6_v34_b33_36 (2026-10-23)
 
 V34#33–36 completa actividad y retorno del picnic e intercala cuidado de F/Ori/Fern y última conversación de pareja sin adelantar la confidencia o el pacto. Términos aún desconocidos y promesa de consulta sigue activa. Se conserva recordatorio futuro de gate soloMau, sin planificarla.
+
+### DH-135 continuación — V34#37–41, checkpoint _s6_v34_b37_41 (2026-10-23)
+
+V34#37–41 da confidencia y última noche propias, términos completos, oposición y discusión real conR antes deaceptación unilateral. Ciel sí alerta yR sí llega; falta de consentimiento ajeno no se disfraza como ausencia de tiempo. Se fija ámbito exacto sin borrar materia y se conservan literalidad doscorazones/segundo precio desconocido.42 continua la ejecución ya iniciada; arco todavía abierto.

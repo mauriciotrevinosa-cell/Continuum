@@ -225,3 +225,15 @@ La apertura debe sentirse como estar dormido y recordar: escenas y cortes, sin e
 - El segundo colapso es de sueño/cansancio. No otra muerte ni transformación corporal equivalente a la convergencia.
 - Confesión pública: Mau recuerda a la Diosa que no olvidó la segunda petición; ella sabe, no quería traerla mientras se disculpaba; él se ríe. La obligación no queda pagada ni definida por el chiste.
 - Marcas desde nuevos capítulos: abreviaturas Unicode elevadas al final de la intervención, discretas y legibles sin HTML. No retocar retrospectivamente todo el corpus ni convertir la prosa en libreto. El lector actual no interpreta HTML crudo; no introducir etiquetas visibles ni cambiar la aplicación por esta petición.
+
+## Creator notes after Claude's review (verbatim, 2026-10-24)
+
+> osea yo voy en vol 34 cap 11 y la neta si hubo momentos que dije fak un cap sin avance pero no osea pq muestra a la fam sin saber haciendo cosas normales y luego en el after de milim como la casa se mueve y asi a lo de las cosas si yo lo pedi y neta no hay necesidad  de moverlos
+> si osea pero no que frieren se disculpe sino mau que hizo que frieren llegara a ese punto y si osea esta frieren no recuerda la relacion con mau pero no le debe de quitar las sonrirsas y todo lo que consigue en este mundo y sus amistades solo que mau no esta ahi
+> y si tal ves mau le puede decir que yuka le conto algo importante pero que aun anda digeriendo la nuevo
+
+- **The ordinary-life chapters in V33/V34 stay.** The creator wanted them: they show the family living normally before it knows, then how the house moves after Milim. No merging or trimming.
+- **Speaker marks:** leave V33/V34 as bracket marks. No retroactive conversion.
+- **Farewell to Frieren:** it is Mau who apologises, for having driven her to that point (the attack in the original line). Frieren does not apologise. The branch Frieren, who doesn't remember the relationship, keeps her smiles, achievements and friendships in this world; Mau simply isn't part of it that way. Don't make her diminished or sad by default.
+- **The cancer secret:** after convergence, Mau can tell Yuka that she once told him something important, and that he is still digesting all the new things. He does not reveal the content.
+

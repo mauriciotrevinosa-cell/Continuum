@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#32, Day475afternoon. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#36, Day475night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -555,3 +555,36 @@ Diosa sólo ofreció posibilidad25; no términos, segunda obligación, mecanismo
 |32|Against the Grain|1903|
 
 Bloque: 7176 palabras; mediana 1825.5.
+
+## Checkpoint _s6_v34_b33_36 — V34#33–36
+
+### Escenas producidas
+
+|Capítulo|Día|Hecho observado|
+|---|---|---|
+|33 A Very Small Dragon|475 tarde/primeras estrellas|Pareja juega con sombras ordinarias de manos en roca al sol. Mano izquierda conserva dos dedos rígidos; adapta gesto con derecha/Yuka. Planean otra cena sin garantía de amor futuro. No técnica, souvenir mágico o enfermedad. Preparan retorno mientras distinguen suelo.|
+|34 Before the Dark|475 primera noche|Recogen TODA comida, cores, paño, manta y dos cups/flask. Igris revisa suelo y se guarda antes de montar; Kaisel vuelve por ruta real, Ciel avisaR. Reportan aR/Maki/Yuta horas antes de medianoche. Yuka pide visita privada tras guardar equipo; abuelos acompañan. Mau limpia utensilios, guarda comida y cuelga bag, nada queda en montaña.|
+|35 At the Ends First|475 noche, paralelo|R informa aSh que volvieron. Sh sólo da esa noticia aF/Ori/Fern. FpeinaOri con comb propio, maternidad sin absolución; Fern tiene su libro y sale conStark. Sh permanece por elección, Ori pasa a cuarto conectado con puerta entornada; Fentrega sock olvidado. Staff sigue oficina.|
+|36 The Word I Used Before|475 noche|Mau llama antes de entrar; abuelos se retiran por elecciónYuka, no abandono. Abrigos en hooks, guantes en coatM, botas bajo stool. Sentados vestidos bajo manta seca. Ambos reconocen ocultamiento; deseo de volver a facilidad deOppa no es consentimiento a reescritura. Beso sin sexo. Yuka sigue despierta al hombro deM. Él recuerda deber consultar términos y aún no conoce trato.|
+
+### Relaciones, privacidad y materia
+
+- REL-S6-C070,33–34: cita tiene juego propio y regreso cuidado; futuro próximo no es profecía. Mano izquierda no sana. Frío/visibilidad provocan vuelta temprano, sin confundir plazo de mañana con medianoche.
+- REL-S6-C071,34: R y abuelos reciben regreso directo, sin búsqueda ficticia. Anécdota de tres cups paga promesa29; no nueva rotura. Todo equipo recuperado y puesto en casa, manta seca sube conYuka.
+- REL-S6-C072,35: F/Ori conservan ternura y vida, no deber de que niña absuelva. Fern no abandona vida propia. Sh sólo sabe lo recibido deR; nada de conversación romántica/confidencia.
+- REL-S6-C073,36: abuelos mantienen amor y enojo sin seleccionar sentimientos de nieta. Yuka/Mau no pueden mandar apagar amor; deseo de Oppa expresa pérdida real, no autoriza borrar confidencia futura ni memoria de casa. Ciel presente, no silenciada.
+
+Bokken reparado sigue junto al sano en workshop y práctica sigue pausada; staffF detrás del escritorioR, preguntas26 bajo hoja, cushionYuka entero en chair fueraFort. No nuevo objeto mágico/poder/gasto/nivel. 57retenidos,14/40nombres+98soldados; secuelas antiguas/dosunmade intactos. Reset próximo476, roof/crackers480, plazo476 primera tarde. Última confidencia/condiciones/restauración siguen pendientes, no cierre.
+
+Revisión autor/root y cruzada PASS. Correcciones mínimas previas a primera publicación:33 ángulo de proyección solar/Ciel pregunta visibilidad;36 explicita conversación conFrieren, evita confundir conDiosa. No se cambiaron capítulos anteriores.
+
+Pendiente del creador: al terminar ESTE arco recordar que explique su idea gate SOLO Mau contra endless army. No desarrollar esa gate antes ni tratarla como incorporada. Total nuevo trasV33#18:82 capítulos.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|33|A Very Small Dragon|1907|
+|34|Before the Dark|1887|
+|35|At the Ends First|1711|
+|36|The Word I Used Before|1609|
+
+Bloque: 7114 palabras; mediana 1799.0.

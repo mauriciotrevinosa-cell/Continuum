@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 34
 **Season:** 6
-**Coverage:** S6E42–S6E57
+**Coverage:** S6E42–S6E59
 **Volume title:** **Both**
-**Chapter files:** 32
+**Chapter files:** 36
 
 Continues the preceding volume without a relationship or power reset. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -45,3 +45,7 @@ Continues the preceding volume without a relationship or power reset. [Current p
 | 30 | S6E56 | Nearly Two | `THE_ARRIVALS_S6E56_LN_CHAPTER_02_NEARLY_TWO_v0.1.md` |
 | 31 | S6E57 | The One With More Filling | `THE_ARRIVALS_S6E57_LN_CHAPTER_01_THE_ONE_WITH_MORE_FILLING_v0.1.md` |
 | 32 | S6E57 | Against the Grain | `THE_ARRIVALS_S6E57_LN_CHAPTER_02_AGAINST_THE_GRAIN_v0.1.md` |
+| 33 | S6E58 | A Very Small Dragon | `THE_ARRIVALS_S6E58_LN_CHAPTER_01_A_VERY_SMALL_DRAGON_v0.1.md` |
+| 34 | S6E58 | Before the Dark | `THE_ARRIVALS_S6E58_LN_CHAPTER_02_BEFORE_THE_DARK_v0.1.md` |
+| 35 | S6E59 | At the Ends First | `THE_ARRIVALS_S6E59_LN_CHAPTER_01_AT_THE_ENDS_FIRST_v0.1.md` |
+| 36 | S6E59 | The Word I Used Before | `THE_ARRIVALS_S6E59_LN_CHAPTER_02_THE_WORD_I_USED_BEFORE_v0.1.md` |

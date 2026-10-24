@@ -2074,3 +2074,7 @@ V34#25–28 produce la posibilidad de ayuda ANTES del plazo o de cualquier prome
 ### DH-135 continuación — V34#29–32, checkpoint _s6_v34_b29_32 (2026-10-23)
 
 V34#29–32 da espacio a preparación, vuelo, elección de lugar, juego, comida y deseos de pareja, entrelazados con actividad y vínculo propio de sus abuelos. Se distingue regreso de esta noche del plazo de mañana. Revisión cruzada y root PASS; se aclararon guante y bajos de abrigos en31. El bokken se repara físicamente sin suponer perdón o retorno de práctica. No hay todavía trato ni recuperación.
+
+### DH-135 continuación — V34#33–36, checkpoint _s6_v34_b33_36 (2026-10-23)
+
+V34#33–36 completa actividad y retorno del picnic e intercala cuidado de F/Ori/Fern y última conversación de pareja sin adelantar la confidencia o el pacto. Términos aún desconocidos y promesa de consulta sigue activa. Se conserva recordatorio futuro de gate soloMau, sin planificarla.

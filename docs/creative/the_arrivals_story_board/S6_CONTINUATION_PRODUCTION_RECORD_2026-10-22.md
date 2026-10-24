@@ -1,6 +1,6 @@
 # S6 — continuación autorizada: registro de producción y estado
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#41, Day475night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#45, Day476morning. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -628,3 +628,42 @@ Revisionesauthor/root y cruzada PASS;37 se eliminó supuesto deMya conocía nomb
 |41|The People Who Would Not Know|1747|
 
 Bloque: 8698 palabras; mediana 1747.
+
+## Checkpoint _s6_v34_b42_45 — V34#42–45
+
+### Escenas producidas
+
+| Capítulo | Día | Hecho observado |
+|---|---|---|
+| 42 — The Weight of a Head | 475, noche | Mau alcanza a Rimuru y lo devuelve al stool, antebrazos y cabeza seguros sobre borde de cama. Se completa la misma intervención aceptada en41: vuelve historia original con afecto; diferencia el falso pasado de lo realmente vivido después. Recuerdos concretos verificados de clearing, lago, noviazgo, compass y Ori en cart. Ciel sigue despierta pero con historia compatible, sin oposición retenida. |
+| 43 — Still on Watch | 475, resto de noche | Mau permanece cuarto Yuka por promesa38. Revisa posición de R, abre ventana un poco y llama a Beru ya registrado, sin extracción ni gasto. El diálogo sólo trata apelativos y pedir ayuda antes de hablar; no revela cáncer, corazones o trato a Ciel. Nazuna duerme en stake por imposición, sombras existentes siguen vigilancia. Diosa dice que será divertido; Mau pregunta para quién, sin recibir definición. |
+| 44 — Before Breakfast | 476, amanecer | R despierta, recuerda consulta sobre restauración propia de M y escucha confirmación. Sale caminando a oficina y puede avisar a Shoko sólo recuperación y ausencia de dolor nuevo. Yuka despierta con Oppa cotidiano y recuerda outing no romántico. M no le fuerza repetir confidencia; avisa antes de salir y recupera botas/coat/gloves físicamente. Camina hasta puerta este y llama. |
+| 45 — Before They Went Down | 476, mañana | M entra en cuarto este y confirma personalmente recuperación a F, después a Ori. Amor y abrazo familiares reales, sin confesión del trato/triángulo ni curación. M pone abrigo y botas en sitio, se lava y cambia camisa después. F pide recuperar staff de oficina; todavía no está en mano de F. |
+
+### Relaciones y conocimiento persistentes
+
+- **REL-S6-C079,42:** dos amores igualmente reales y sostenidos literalmente por dos corazones. La recuperación no convierte a Yuka en un error ni borra responsabilidad. Un solo Mau recuerda las dos historias y reconoce cuál fue implantada; mantiene historia postrobo y confianza perdida por Yuka.
+- **REL-S6-C080,42–43:** Ciel es ella misma, competente y despierta. Conserva modelo técnico y afectos no románticos, sin copia secreta de oposición. Sombras conservan solamente lo presenciado o aprendido; Beru no recibe automáticamente los diálogos del cuarto. No se fuerza juramento nuevo de silencio.
+- **REL-S6-C081,44:** R recuerda ayuda a restauración de M, nunca haber consentido borrado global. M sí recuerda el no real. Yuka conserva su historia médica pero no haberla contado; no se le impone reconstruir ese acto de confianza. Él cumple promesa38 de avisar antes de irse.
+- **REL-S6-C082,45:** F y Ori reciben de M la noticia y afecto propios de su vínculo recuperado; no recuperan escenas sustituidas. La calma presente no es perdón informado por la agresión/secreto. M recuerda ambos y el coste de haberles quitado la elección.
+
+### Materia y poderes
+
+R sin impacto ni herida: duerme stool junto a bed hasta44 y luego camina a oficina. Yuka en su cama hasta despertar; manta se dobla al pie, blade de grass queda en windowledge y cierra ventana44. Botas debajo de stool recuperadas, abrigo de hook al cuerpo44 y hook este45, guantes permanecen pocket. Camisa de montaña/noche pasa a lavado, M se pone otra limpia. No salto físico a otra cama.
+
+Staff de F SIGUE oficina baja tras45, se recogerá en46; cushion Yuka sigue entero fuera del Fort. Bokken seguro en workshop desde32; pausa no se reanuda por una memoria. Tres preguntas en Rdesk y todo texto/materia anteriores permanecen. No movimiento inexplicado de compass o seis flores.
+
+57 puntos retenidos; 14/40 nombres y98 soldados; dos unmade permanentes, secuelas de mano/ojo/white patch y cicatrices intactas. Ningún nuevo nivel, técnica, reserva, especie, longevidad, curación o resurrección. Ciel/Noise conservan trabajo; tercer acceso sin identificar. Gate476 próxima sin entrada en bloque; roof/crackers480.
+
+Punto actual: M junto a F antes de bajar; Ori en cuarto conectado. Staff por recoger, comida y moneda aún no producidas. Arco sigue abierto, no cierre de S6. Total nuevo después de V33#18:91 capítulos. Mantener recordatorio del creador sobre gate solo Mau contra endless army para DESPUÉS del cierre.
+
+Revisión cruzada PASS;45 quitó una supuesta cita del pasado de Ori que no aparecía en Tidepools. No se alteraron capítulos anteriores.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|42|The Weight of a Head|1625|
+|43|Still on Watch|1636|
+|44|Before Breakfast|1800|
+|45|Before They Went Down|1537|
+
+Bloque: 6598 palabras; mediana 1630.5.

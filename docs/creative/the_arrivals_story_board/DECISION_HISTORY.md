@@ -2082,3 +2082,7 @@ V34#33–36 completa actividad y retorno del picnic e intercala cuidado de F/Ori
 ### DH-135 continuación — V34#37–41, checkpoint _s6_v34_b37_41 (2026-10-23)
 
 V34#37–41 da confidencia y última noche propias, términos completos, oposición y discusión real conR antes deaceptación unilateral. Ciel sí alerta yR sí llega; falta de consentimiento ajeno no se disfraza como ausencia de tiempo. Se fija ámbito exacto sin borrar materia y se conservan literalidad doscorazones/segundo precio desconocido.42 continua la ejecución ya iniciada; arco todavía abierto.
+
+### DH-135 continuación — V34#42–45, checkpoint _s6_v34_b42_45 (2026-10-23)
+
+V34#42–45 completa subjetivamente la misma restauración, conserva vigilancia nocturna y desarrolla los despertares/reencuentro familiar con desplazamientos y objetos reales. Ciel no duerme ni retiene copia; dos amores y responsabilidad de M permanecen. Se distingue tranquilidad recordada de perdón informado. Continúan46–48 antes de declarar cerrado el arco.

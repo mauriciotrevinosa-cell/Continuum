@@ -2116,3 +2116,7 @@ Preservar18antesdeintimidad. No igualar regalo cumpleaños acontrato mágico ni 
 ### DH-135 continuación — V35#16–19, checkpoint s6_v35_16_19_2026-10-24 (2026-10-24)
 
 El segundo corazón se observa ANTES del outing y la permanencia deMau es un acuerdo, no decisión impuesta de la casa. A partir de475 no se eliden los días para saltar a la recuperación: falta vivir descubrimiento, conflicto y conversación. La pareja elige contar esa tarde, pero esa intención no equivale a confesión ya realizada ni borra semanas de ocultamiento. Los síntomas de convergencia aún no empezaron. Anotar distribución de cuartos necesaria para esta rama: Mau tiene el dormitorio este para él, Rimuru conserva el loft encima de su closet; Frieren/Ori ocupan otro cuarto existente. No hay rediseño de la casa ni loft convertido en oficina. No retrocambio de marcas de hablante.
+
+### DH-135 continuación — V35#20–23, checkpoint s6_v35_20_23_2026-10-24 (2026-10-24)
+
+El conflicto de amor enB no replica infidelidad contraFrieren; las heridas reales aquí son ocultamiento, confianza y cambios familiares. Maki reconoce agenciaYuka y no ataca. Yuta no causa colapso; la convergencia se manifiesta durante la charla, sin convertirla en castigo médico. Se conserva como conocimiento quién vio beso/qué escuchó, incluyendo prior conocimientoR y Mai apartada. Los siguientes días requieren cambios corporales sucesivos y vida de la casa; no pasar de esta noche a explicación total, gate o aceptación general. Este primer ingreso es distinto de segunda recuperación de sueño enFort trasendless army.

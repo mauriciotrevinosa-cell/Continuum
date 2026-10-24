@@ -3,7 +3,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#19, rama Day475 por la tarde, antes de que vuelva el grupo de la salida. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#23, rama Day475 de noche hacia476, primera recuperación en la clínica. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -749,3 +749,16 @@ Bloque: 7216 palabras; mediana 1472.
 |19|The Middle of the Day|1432|
 
 Bloque: 5718 palabras; mediana 1441.5.
+
+## Checkpoint s6_v35_20_23_2026-10-24 — V35#20–23
+
+20: Milim regresa primero y ve beso conYuka sobreMau, vestidos; lo dice, pareja confirma relación desdeRedGate2. Yuta/Maki no sabían. Mai también se entera. R vuelve y admite que sabía desde14. Frieren cuida aOri, no se importa su rivalidad/ataque de la otra historia. Acuerdan charla privada después de comer.21: M/Yt/Mk hablan realmente en oficina abajo. M reconoce ocultamiento, oportunidad perdida y que contar aR era más fácil. Yuta habla de la amistad que ya existía, Maki de elegir/ser adulta y necesitar tiempo informado. Sólo después empieza visión izquierda borrosa/palidez; Ciel observa cambio interno, M pierde conciencia, Yuta lo atrapa sin golpe. Yuka pregunta qué le hizo y ve terror.22: Shoko dirige cuidados, no evidencia de agresión; R transmite datoCiel anterior a caída. Yuka reconoce su reacción de miedo y se disculpa, Yuta sigue asustado/enfadado. Clínica, noFort. F cuida aOri, Maomao/R/Shoko ayudan.23: noche, fiebre y breve despertar desorientado ('the door', frío), todavía sin original lúcido, sin ojos/cabello/cicatrices originales mostrados aún. Ciel sigue llamándolo, privada y sin acceso a memorias completas. Se reparten descanso y cuidados. No se resuelven las relaciones por el desmayo.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|20|Milim Came First|1443|
+|21|What You Let Me Believe|1260|
+|22|We Were Talking|1335|
+|23|A Chair for the Night|1275|
+
+Bloque: 5313 palabras; mediana 1305.0.

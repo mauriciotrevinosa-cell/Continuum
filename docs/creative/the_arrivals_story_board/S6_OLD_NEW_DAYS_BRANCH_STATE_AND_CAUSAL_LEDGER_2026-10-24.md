@@ -71,3 +71,24 @@ Mau tiene el dormitorio este para él; Rimuru mantiene el loft sobre el closet d
 ### Orden preciso del próximo tramo
 
 Viven aún la tarde475. Milim se adelanta al grupo que regresa y ve beso en la sala; están vestidos, nosexo. Luego reacciones y conversación real deM conYuta/Maki, sin escena deFrieren celosa/ataque de esta rama. Desmayo coincide con convergencia, no prueba de queYuta lo hirió ni de que el beso cause enfermedad. Fiebre/cambios graduales durante días después; el original no ha vuelto consciente todavía. Segundo colapso de sueño después deendless army es otro episodio.
+
+## Producido — V35#20–23: descubrimiento y primera noche
+
+|Momento|Quién sabe / cambio|Consecuencia pendiente|
+|---|---|---|
+|475tarde,20|Milim ve beso y lo anuncia antes de pareja hablar. Pareja confirma desdegate447. Grupo recibe sólo observación+confirmación, no pensamientos privados. Yuta/Maki/Mai aprenden;R confiesa saber desde448.|No perdón ni prohibición automática de romance. F no pareja deM, no celos/ataque. Ori conF, sin relación paterna que exigir aM.|
+|475noche,21|Charla M/Yt/Mk en oficinaR abajo. M asume ocultar, Yt expresa amistad/hermandad dañada, Mk reconoce18/agencia y necesita tiempo para reajustar su historia familiar.|Se interrumpe, no termina. Privacidad del cuarto no significa golpe. Ciel detecta cambio interno; visiónizquierdaborrosa/palidez, Yta atrapaM antesdel suelo.|
+|22|Shoko/Maomao/R atienden, Gojo observa sin diagnóstico causal. M respira y aparece fiebre. Yka reconoce acusación por susto; Yta no atacó.|Mantener miedo/enfado simultáneos. Shoko no culpa conversación ni beso. No curaciónRCT sin saber qué se trata, ni muerte. No trasladoFort.|
+|23|Noche: M mira sin reconocer plenamente, pregunta pordoor/frío, se duerme. Ciel conexión presente, sin respuestacoherente ni acceso global a recuerdos.|OG no está lúcido aún. Ciel deB nunca viohuesosrompiéndose/trialoriginal. Su propia agencia persiste; no darle memorias para explicar más rápido.|
+
+### Estado material al cerrar23
+
+M está en cama de clínica, no dormitorioF, noFort. Pelo aún oscuro, ojos no descritos como nuevos todavía, dedos funcionales antes del desmayo, sin cicatrizSukuna visible aún. No katana/moneda devueltas, no compra de dagas, no nuevo inventario, no sombras expuestas. Yka con brazalete de443, resto del botín segundoRedGate físicamente cargado y entregado sin legión. Segundo corazón ya observado474; colapso475no es su primera aparición.
+
+### Relaciones a continuar sin reset
+
+- Yt/M: sigue cariño, miedo y confianza herida; charla pendiente. Yt/R: nueva conversación pendiente porqueR sabía.
+- Mk/Yk: preocupación/memoriaabuela y respeto agencia adulta; tiene que hablar, no se salda cuidandoM. Mai/Yk: quedó fuera de un secreto mientras ayudaba a ambas familias; no poner chiste que lo borre.
+- Yk/Yt: disculpa acusación de22–23 se refiere al susto, no implica que mentira inicial esté perdonada. Miedo mutuo no cancela enfado.
+- F/Ori: madre/hija, F se queda conella en vez de convertirla en público de discusión adulta. F preocupa porM como amigo/maestra. MOG aún no mira compás/daughter desde otro pasado.
+- Ciel/R: persona pidiendo queM responda, R disponible paraella. Privacidadhost no canal público. Segundo precioDiosa sigue pendiente, no se decide ni se paga aquí.

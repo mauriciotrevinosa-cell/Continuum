@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 35
 **Season:** 6
-**Coverage:** S6E63–S6E72
+**Coverage:** S6E63–S6E74
 **Volume title:** **Old New Days**
-**Chapter files:** 19
+**Chapter files:** 23
 
 Old New Days depicts the creator-authorized divergent branch after the unintended overwrite; it does not erase the historical original volumes. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -32,3 +32,7 @@ Old New Days depicts the creator-authorized divergent branch after the unintende
 | 17 | S6E71 | The Second Beat | `THE_ARRIVALS_S6E71_LN_CHAPTER_01_THE_SECOND_BEAT_v0.1.md` |
 | 18 | S6E71 | Those Who Stayed | `THE_ARRIVALS_S6E71_LN_CHAPTER_02_THOSE_WHO_STAYED_v0.1.md` |
 | 19 | S6E72 | The Middle of the Day | `THE_ARRIVALS_S6E72_LN_CHAPTER_01_THE_MIDDLE_OF_THE_DAY_v0.1.md` |
+| 20 | S6E72 | Milim Came First | `THE_ARRIVALS_S6E72_LN_CHAPTER_02_MILIM_CAME_FIRST_v0.1.md` |
+| 21 | S6E73 | What You Let Me Believe | `THE_ARRIVALS_S6E73_LN_CHAPTER_01_WHAT_YOU_LET_ME_BELIEVE_v0.1.md` |
+| 22 | S6E73 | We Were Talking | `THE_ARRIVALS_S6E73_LN_CHAPTER_02_WE_WERE_TALKING_v0.1.md` |
+| 23 | S6E74 | A Chair for the Night | `THE_ARRIVALS_S6E74_LN_CHAPTER_01_A_CHAIR_FOR_THE_NIGHT_v0.1.md` |

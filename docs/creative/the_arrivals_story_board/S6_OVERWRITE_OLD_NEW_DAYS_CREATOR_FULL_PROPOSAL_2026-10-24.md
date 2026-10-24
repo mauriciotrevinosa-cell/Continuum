@@ -140,3 +140,11 @@ okaye entonces con todo esto ya tenemos mas acomodalo bien y guardalo en git sin
 ## Alcance del guardado
 
 Guardar estos mensajes no ejecuta el overwrite, no reescribe las novelas ya publicadas, no termina automáticamente el arco y no da verde a producir de corrido la nueva rama. El creador pide primero este respaldo y que se le avise; después se trabajarán el cierre, las propuestas y el esquema del resto con su revisión.
+
+## 14 — Esqueleto antes del cierre, salida de los saltos y nuevo desmayo
+
+```text
+antes del cierre quiero que me des el esqueleto como me lo diste para lo anterior y cuando decideirias que es el punto donde regresamos al ritmo mas lento y acabamos los flashbacks yo digo que sean despues de la red gate y sea durante el nuevo conflicto que los cachan y propongo esto la casa propone un outing pero como mau tiene dos corazones no puede pq no quieren arriesgarse yuka se ofrece a cuidarlo pq le daba flojera salir y se quedan en la sala todo el dia y milim de apresurada entra y ve a yuka encima de mau dandole un beso y esto desata eld esmadre y que mau colapse cuando ande teniendo la platica con yuta y maki que esten hbalando y de la nada mau comienza a ver borros de lado de su ojo yuta ve que mau se pone blanco y mau no recuerda lo que sigue yuta lo cacho mau se desmaya y podemos tene run pedazo donde yuka pregunte que que le hizo a mau y yuta la ve con una cara de terror y esto nos arranca al recovery y tal ves los primero dias mau tiene una fiebre se despierta dice algo fuera d elugar o como un mal sueno y despues vemos como algo cambia los ojos un mechon del cabello luego comienzan las cicatrices y propongo solo una cosa que no estoy seguro que esta guardado en el og line pero que tmb le salga una cicatriz donde sukuna lo atraveso y asi osea que seamos mas rapidos en los flashbacks pero que no comience como de esta en la clinica y lueog cuenta no no que se sienta como que estabadormido y recuerdas cosas de ese estilo
+```
+
+El encargo posterior autoriza preparar y discutir [este esqueleto propuesto](S6_OLD_NEW_DAYS_PROPOSED_SKELETON_2026-10-24.md), no escribir todavía sus capítulos ni aplicar el cierre. Sus rangos, cortes de volumen y puestas añadidas por Codex siguen siendo propuestas.

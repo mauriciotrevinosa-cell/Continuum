@@ -681,3 +681,11 @@ El cierre solicitado pasa a negro/glitch de overwrite; no se ha escrito ni publi
 El checkpoint físico de novelas sigue V34#45 de la versión anterior, explícitamente pausada para revisión. No continuar los viejos46–48 por accidente. La inserción local de38 con la promesa de familia también queda conservada sin afirmar que ya entró al lector.
 
 Adjunto externo verificado byte a byte: SHA-256 `da6759a00fee7df74674933d8ff07efc3bfc661cac797c96341548d9c5b432b3`, 33003bytes. No se valida su contenido como canon.
+
+## Propuesta solicitada antes del cierre —2026-10-24
+
+El nuevo mensaje14 del creador se conserva completo. Se desarrolla un [esqueleto para revisión](S6_OLD_NEW_DAYS_PROPOSED_SKELETON_2026-10-24.md): escenas escogidas de la nueva rama, retorno al ritmo diario en la mañana del outing tras la segunda Red Gate, beso descubierto por Milim y desmayo ante Yuta/Maki antes de la recuperación. Apertura de sueño/recuerdo vivido, no relato desde una clínica. Rango editorial aproximado50–65 capítulos y posible V35–36 todavía sin aprobación ni cuota.
+
+Herida de Sukuna verificada en S2E23 CH05: su mano atravesó el torso. La cicatriz permanente específica no está confirmada por los pasajes revisados; el creador propone incorporar su retorno. No inventar órgano o lado ni hacer que Yuta provoque el colapso. Primer reajuste y colapso posterior al endless army/Fort son momentos distintos.
+
+Este checkpoint modifica notas únicamente. Novelas, índices y progreso no cambian. El cierre sigue pausado y el esquema queda para opinión y verde del creador.

@@ -1,5 +1,7 @@
 # S6 — overwrite y Old New Days: dirección del creador y continuidad de trabajo
 
+> **Actualización posterior del creador —2026-10-24:** pidió un esqueleto ANTES del cierre y propuso el outing, Milim descubriendo el beso, conversación conYuta/Maki y desmayo. [Esqueleto para revisar](S6_OLD_NEW_DAYS_PROPOSED_SKELETON_2026-10-24.md); [mensaje íntegro14](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). La fase de guardado anterior ya se completó. Este paso prepara planificación, no prosa nueva ni cierre aplicado.
+
 **Fecha:** 2026-10-24, America/New_York.
 
 **Estado:** decisiones y desarrollo del creador preservados para el próximo trabajo. **Este guardado NO ejecuta el nuevo cierre, NO reescribe capítulos y NO inicia la producción de Old New Days o endless army.** El creador pidió guardar todo en Git y avisarle; después se trabajarán el cierre y las propuestas para lo siguiente, con su revisión y verde correspondiente.
@@ -194,8 +196,18 @@ Mau contará la verdad, dará gracias a una Frieren que no vivió aquel romance 
 8. Momento de devolución física de katana/moneda y procedencia/entrega del compás a Ori. No gastar la moneda ni resolver el segundo precio por defecto.
 9. Consecuencias persistentes: Yuka necesita tiempo, Ciel entiende y se siente apartada, Ori no recuerda ser hija de Mau, amistades/familia no desaparecen, roof/crackers/Fort continúan.
 
-## 17. Alcance del siguiente turno
+## 17. Alcance del turno de guardado anterior
 
 **Encargo actual: sólo ordenar, conservar íntegro y subir a Git.** Avisar al creador al verificar el respaldo. Después se trabajará el cierre del arco actual; el creador quiere ver las ideas para lo siguiente, añadir las suyas y dar verde. No comenzar automáticamente Old New Days, la gate o una temporada completa por haber guardado estas notas.
 
 No tocar Source Vault, capítulos publicados, índices del lector, aplicación, DB o marca de lectura en esta operación de guardado. Los enlaces y banners de las notas de producción deben advertir que el desenlace anterior quedó pausado, conservando su procedencia histórica.
+
+## 18. Nueva propuesta del creador — punto de catch-up y recuperación
+
+El creador quiere terminar los flashbacks después de la segunda Red Gate, durante el nuevo conflicto al descubrirse la pareja. Propone un outing; Mau se queda por el segundo corazón inexplicado y Yuka se ofrece porque le daba flojera salir. Pasan el día en la sala. Milim entra apresurada y ve a Yuka encima de Mau besándolo. No confundirlo con las aproximaciones anteriores sin sexo.
+
+Después, Mau habla con Yuta y Maki, se le vuelve borrosa la visión lateral, palidece y pierde la conciencia. Yuta lo alcanza. Yuka puede preguntar qué le hizo a Mau mientras Yuta la mira aterrorizado. Eso abre la primera recuperación: fiebre, despertares con frases fuera de lugar y cambios progresivos de ojos, mechón y cicatrices. Es distinta del colapso posterior al endless army y el cuidado en el Fort.
+
+El creador añade que vuelva una cicatriz de donde Sukuna lo atravesó. La fuente S2E23 CH05 confirma perforación del torso; no se verificó una cicatriz permanente específica después. Se registra como nueva dirección sobre una herida existente, sin fijar un lado anatómico por invención.
+
+La apertura debe sentirse como estar dormido y recordar: escenas y cortes, sin empezar en una clínica desde donde se explica retrospectivamente la rama. Codex propone la mañana del outing como final exacto de las elipsis y unos50–65 capítulos en dos volúmenes posibles; esos números y esa división no están aprobados y no son una cuota. [Desarrollo íntegro del esqueleto](S6_OLD_NEW_DAYS_PROPOSED_SKELETON_2026-10-24.md).

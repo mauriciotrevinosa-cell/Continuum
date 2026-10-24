@@ -66,3 +66,7 @@ Ori interviene desde49; la marca no cambia su estado familiar ni lo que Mau recu
 ## Corrección posterior —2026-10-24, desde V35#1
 
 El creador pide marcas más pequeñas y a la derecha/al final del diálogo, sólo hacia adelante. Usar letras Unicode elevadas: Mauᴹ, Frierenᶠ, Yutaʸᵗ, Rimuruᴿ, Fernᶠᵉ, Bocchiᴮ, Cielᶜ, Noiseᴺ, Yukaʸᵏ, Oriᴼ, Diosaᴰⁱᵒ; los restantes conservan abreviatura inequívoca equivalente. Ejemplo: «Come here.»ᴹ o «Come here.» ᴹ antes de la atribución narrativa. Son texto seguro visible, no HTML ni una voz pública nueva. No usar markdown code para las marcas (lo agranda y encuadra), ni sustituir las de capítulos anteriores. Las revisiones narrativas autorizadas de38/41 mantienen su presentación previa.
+
+## Voz incidental nueva — V36#12,2026-10-24
+
+Vendedora costera sin nombre: `Sel`, representación pequeña `ˢᵉˡ`. No esSeiko, Seika ni una identidad misteriosa; sólo atribuye una intervención comercial local. No se alteran marcas previas.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 36
 **Season:** 6
-**Coverage:** S6E78–S6E82
+**Coverage:** S6E78–S6E84
 **Volume title:** **Both Lives**
-**Chapter files:** 10
+**Chapter files:** 14
 
 Continues from Volume 35 (Day479, the original Mau lucid with three sets of memories). Plan: [S6_V36_PLAN_2026-10-24.md](the_arrivals_story_board/S6_V36_PLAN_2026-10-24.md).
 
@@ -23,3 +23,7 @@ Continues from Volume 35 (Day479, the original Mau lucid with three sets of memo
 | 8 | S6E81 | Getting to Know Him | `THE_ARRIVALS_S6E81_LN_CHAPTER_02_GETTING_TO_KNOW_HIM_v0.1.md` |
 | 9 | S6E82 | Where | `THE_ARRIVALS_S6E82_LN_CHAPTER_01_WHERE_v0.1.md` |
 | 10 | S6E82 | Let Him Land | `THE_ARRIVALS_S6E82_LN_CHAPTER_02_LET_HIM_LAND_v0.1.md` |
+| 11 | S6E83 | A Bag for One Day | `THE_ARRIVALS_S6E83_LN_CHAPTER_01_A_BAG_FOR_ONE_DAY_v0.1.md` |
+| 12 | S6E83 | Where the Land Ends | `THE_ARRIVALS_S6E83_LN_CHAPTER_02_WHERE_THE_LAND_ENDS_v0.1.md` |
+| 13 | S6E84 | The Wrong Side of the Castle | `THE_ARRIVALS_S6E84_LN_CHAPTER_01_THE_WRONG_SIDE_OF_THE_CASTLE_v0.1.md` |
+| 14 | S6E84 | In Two Timelines | `THE_ARRIVALS_S6E84_LN_CHAPTER_02_IN_TWO_TIMELINES_v0.1.md` |

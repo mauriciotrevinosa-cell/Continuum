@@ -127,3 +127,7 @@ Day479mañana, clínica. El mundo completo vuelve a color desdePOV deM. Vuelven 
 ## Continuación actual — V36#1–10
 
 V35#29 es la salida histórica del volumen anterior, no el punto actual. Claude produjoV36#1–7; Work continúa8–10 porpetición delcreador. [Estado real porpersona/día/objeto y pendientes](S6_V36_PRODUCTION_STATE_2026-10-24.md). Day483, vueloKaisellocal comprobado; coast485todavíapropuesta, noejército/confesión. Véase el registro nuevo antes de usar pendientes históricos anteriores.
+
+## Actualización producida — V36#11–14
+
+Day485regreso puntual de salidaKaisel/costa. Yuka eligepresencia/beso, sabe romanceF/A y amorconservado porcharla484; no promesafamiliaB, no cáncerrevelado. MonedaDiosa al cajónM en11, sin gastar. Katana sigueclínica. No nuevoWindowfísico/Army/compra dagas/confesión pública. [RegistroV36 vigente porhecho ypersona](S6_V36_PRODUCTION_STATE_2026-10-24.md).

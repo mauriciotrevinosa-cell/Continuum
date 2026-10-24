@@ -2132,3 +2132,7 @@ CerrarV35en el regreso consciente/color da espacio a lo que sigue enV36 sin conv
 ### DH-135 continuación — V36#8–10, checkpoint v36_8_10 (2026-10-24)
 
 Petición vigente del creador: Work continúa desde #8 tras leer Claude; escenas completas con feelingS5, Yuka no desaparece y salida repetida con aviso previo aabuelos. #8–10 producidos; vieja tabla Claude llevaba un número menos desde la inserción Still Friends?. Índice/registro actualizan el punto real sin renumerar lo producido. Consentimiento deYukaB propio, confidencia médica intacta y enfado familiar sin reset.
+
+### DH-135 continuación — V36#11–14, checkpoint v36_11_14 (2026-10-24)
+
+Continuación autoriza escenas vividas y expansión sobre las filas propuestas deClaude: siete nuevos capítulos8–14 sin retroeditar1–7. La salida original se recrea desde lo que estaYuka sabe y elige; no se le imponen recuerdos ni consentimiento ajenos. La conversación directa sobreFrieren ocurre antes del viaje para no aplazar su pregunta con evasivas. Regreso puntual no perdón universal ni curación psicológica. Segundo precio, Ori/compás y futura compra de dagas preservados.

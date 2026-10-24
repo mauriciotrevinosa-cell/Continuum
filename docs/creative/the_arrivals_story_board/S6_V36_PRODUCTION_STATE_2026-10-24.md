@@ -1,6 +1,6 @@
 # V36 — Both Lives: estado producido y continuidad
 
-**Actualización:**2026-10-24. **Estado:** borrador producido, no aprobación del creador. Continúa después de los siete capítulos de Claude sin modificarlos. [Dirección vigente y verificación del punto de relevo](S6_V36_PACING_AND_CREATOR_CONTINUATION_2026-10-24.md).
+**Actualización:**2026-10-24, V36#14. **Estado:** borrador producido, no aprobación del creador. Continúa después de los siete capítulos de Claude sin modificarlos. [Dirección vigente y verificación del punto de relevo](S6_V36_PACING_AND_CREATOR_CONTINUATION_2026-10-24.md).
 
 ## Producido por Claude —1–7
 
@@ -27,8 +27,28 @@
 - No Thomas-level upgrade, consumo de57puntos, compra de dagas, gasto moneda, remaking/extracción ni nueva sombra. Katana en clínica, moneda custodiaM; no las trasladar sin escena.
 - Ori/F y compás sin cambio de propiedad. CielB todavía apartada y con límite; amistadNoise nueva no le entrega pasadoA. R duerme loft, oficinaabajo. Yuka no promesa de familia/hijos nueva.
 
-## Siguiente tramo propuesto, todavía no producido
+## Producido —11–14: preparación y día completo en la costa
 
-Day484 tranquilo y preparación real;485 nueva revisión, vueloKaisel con pausas, mercado/costa, agua/arena/comida yNightTide en escenas con tiempo. EstaYuka no comió las galletas originales ni recibe un segundo brazalete como si no tuviera el deHollis. Mau ama en ambaslíneas, ella lo besa sin la interrupción vieja porque abuelosavisados; nosexo. Regreso dentrohorarioacordado.
+|Día|Capítulo|Hechos / consecuencia / conocimiento|
+|---|---|---|
+|484|11A Bag for One Day|M vuelve autorizado lentamente a su dormitorioeste; R conserva loft. Yk/M preparan bolsa, Umaru aporta presupuesto acotado acordado conFern separado provisionesesenciales. M retira monedaDiosa del bolsilloizquierdo, laenvuelve y guarda en su cajón: no gasto/mezcla conpurse. Yk pregunta porF; M confirma romanceoriginal y amor que recuerda/conserva, robo externo y decisión equivocada sin explicar aún todo. No atribuye culpa aF/B. Yk quiere saber más y decide ir, sin serrespuesta fácil/sustituta. Comen enmesa; F/Ori/Fern conservanhumor/vínculo.|
+|485mañana–primeratarde|12Where the Land Ends|Revisiónfresca permiteouting, ruta/regresorepetidos anteYt/Mk/Fern. Kaisel ambos, parada completa subida junto río, dos tramos hasta costa, almacenado al aterrizar. Yk elige azul porpreferenciaactual, ropaM sencilla, comida comprada y anotada; nodaGoddesscookiesni brazaletereemplazo. Ciel disponible privada, no invasióndememorias.|
+|485tarde|13The Wrong Side of the Castle|Agua poco profunda, castillo arena fracasa, contacto consentido con cicatrices cerradas, descansoreal. Yk puede mirar/ayudar sinsernurse. M admite también felicidad realoriginal, no reduceA a trauma para halagarB. Mantienen regalos/díaHollis/B como suyos. No nuevaextracción/curación/poder.|
+|485atardecer/noche|14In Two Timelines|NightTide conocido, luzenolas alos tobillos, no caminaragua/restauración. M atribuye origenF cuandoYk pregunta; ella valora sin sustituiridentidadpropia. Abrazo cintura, `In two timelines, I love you`; beso mutuo prolongado, **sin interrupción porabuelosdesavisados**. No sexo ni promesafamilianueva. Parten con margen, parada completa enregreso, llegancuando dijeron mientrascocinaaúnlimpia. Budget/cambio/recetaentregados; conchasimpleYk nueva. Yta hacebroma y Mkcuida, no declaracuradaconfianza. Yk irábuscarM trasdesayuno, no desaparece.|
 
-Después: convivencia/pánico, desarrollo verificableWindow/fuerza, ejército observado porR y procesado por casa, Fort/dagas compradas dormido, confesión/Diosa audible/segundoprecio y despedidaM→F. No marcar futuros como ocurridos por escribirlos aquí.
+### Objetos y límites al cerrar14
+
+- BrazaleteHollis sigueYk. Conchanueva corriente/borde roto, sin magia. Compás sigueOri apuntaF. Nuevas prendas debaño y comida son compras presupuestadas/anotadas. No preciosnuméricos inventados ni monedasTrialgastadas. Dinero/cambio devueltos, recetaescritaYk aUmaru/Momo.
+- Katana devuelta sigue en esquina clínica porreglaShoko; no sacada ni llevada ala playa. MonedaDiosa ahora cajón deM envuelta poracción11, no queda en una camisa cambiada sin rastreo. No dagas/inventario nuevo demostrado.
+- Nombre/números delWindow sin cambios,57sin gastar, legiónsin aumento. InvocarKaiselno pagaextracción. No fortalecimientoThomas ya logrado porcoste de un díaenplaya. Dedos/visión/cicatrices/fatigapersisten, Ciel respetaellímite, pániconocurado.
+- Yuka sabe más deA queYt/Mk trascharla11, pero **nadie deB conoce poromnisciencia la confesióncompleta**. M no ha reveladoconfidencia médica ni exigido promesaA dehijos. Yt/Mk oyen que hay otra vida/sombras/itinerario; su respuestade cuidado no perdón general.
+- Kaisel nohabla. Beru aún no habla antepúblico; sepreserva lasorpresa específica del ejército. No Ciel audible atodos, Diosa audible sóloM desde5; futuro`perdón` no adelantado.
+- DormitorioesteM, loftR; F/Ori en suotrocuarto. Roficinaabajo. RecuperaciónposteriorArmySala→Fort **no sucedió**.
+
+### Ritmo y puesta
+
+Siete capítulos8–14: visita completa, familiaconversación, vueloprueba y preparación, y el día costero en tres escenas consecutivas grandes, sin usar dosfilas deplan como cuota. Aproximadamente1.7–2.3k palabras cada uno; priman acciones/interacción/descanso, no recap/agenda de resultados. Los nuevos capítulos no se etiquetan aprobados.
+
+## Pendiente real después14
+
+Convivencia/pánico y preguntas todavía abiertas; no pasar de un beso a Army por elipsis de curación. Desarrollo verificable del nuevoWindow/fuerza antesdegate. Ejército: lucha no narrada, R descubre ycasaprocesa brutalidad concreta, una sombra nueva, bloqueoCiel/relayobservable, vigilar información de espectadores. Sala→Fort, dagas **compradas dormido** gastandobotín, confesiónconDiosa audible/culpacompartida/segundoprecio y despedida/disculpaM→F, sin borrarsonrisas/vínculosF/B. La salida de hoy no paga esos pendientes ni el segundo precio.

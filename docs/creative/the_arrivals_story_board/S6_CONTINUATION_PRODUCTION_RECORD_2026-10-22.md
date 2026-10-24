@@ -5,7 +5,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#10, Day483 después del vuelo local y almuerzo con la casa; salida costera todavía propuesta para485. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#14, Day485 por la noche, regreso costero dentro del horario acordado y Yuka presente por elección propia. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -800,3 +800,16 @@ Continúa desde el índice real de Claude, siete capítulos ya escritos. #8 vive
 |10|Let Him Land|2170|
 
 Bloque: 6336 palabras; mediana 2170.
+
+## Checkpoint v36_11_14 — V36#11–14
+
+#11 vive la preparación y la pregunta directa deYuka sobreFrieren original: Mau no miente sobre el amor conservado ni la responsabilidad de su decisión, Yuka elige el viaje con preguntas propias. #12–14 dan tiempo a vuelo/descanso, mercado, arena/agua/comida y NightTide/beso/regreso. Se cumple el cambio del creador: abuelosavisados, amaen doslíneas, beso mutuo sin interrupción antigua. No sexo ni promesafamiliaimportada. MonedaDiosa guardadaencajónM, brazaleteHollis retenido, cambios/dinero entregados. Army, nueva fuerzaWindow y confesión completa siguen futuros. Texto anterior intacto, detalles/conocimiento en registroV36.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|11|A Bag for One Day|1911|
+|12|Where the Land Ends|2066|
+|13|The Wrong Side of the Castle|1686|
+|14|In Two Timelines|2156|
+
+Bloque: 7819 palabras; mediana 1988.5.

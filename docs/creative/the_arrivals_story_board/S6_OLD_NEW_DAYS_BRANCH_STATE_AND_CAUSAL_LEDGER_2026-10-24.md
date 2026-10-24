@@ -131,3 +131,7 @@ V35#29 es la salida histórica del volumen anterior, no el punto actual. Claude 
 ## Actualización producida — V36#11–14
 
 Day485regreso puntual de salidaKaisel/costa. Yuka eligepresencia/beso, sabe romanceF/A y amorconservado porcharla484; no promesafamiliaB, no cáncerrevelado. MonedaDiosa al cajónM en11, sin gastar. Katana sigueclínica. No nuevoWindowfísico/Army/compra dagas/confesión pública. [RegistroV36 vigente porhecho ypersona](S6_V36_PRODUCTION_STATE_2026-10-24.md).
+
+## Aclaración vigente — Mahoraga de Mau,2026-10-24
+
+El creador confirma que el Mau original conserva a su Mahoraga ya dominado al regresar. Sólo Yuka de esta rama carece del logro que hizo en la otra historia. En la futura gate del ejército salen Beru, Kamish, Igris y Mahoraga; no repetir el ritual de Mau ni confundir al shikigami con una nueva extracción de la legión. Se mantiene la entrada permitida para Rimuru y la pelea fuera de campo. [Mensajes íntegros, fuentes y aplicación](S6_V36_PLAN_2026-10-24.md#mahoraga-en-la-gate-del-ejército--aclaración-del-creador2026-10-24). Punto producido aúnV36#14, sin capítulos nuevos por esta anotación.

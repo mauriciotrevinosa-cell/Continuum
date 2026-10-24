@@ -52,3 +52,27 @@ Siete capítulos8–14: visita completa, familiaconversación, vueloprueba y pre
 ## Pendiente real después14
 
 Convivencia/pánico y preguntas todavía abiertas; no pasar de un beso a Army por elipsis de curación. Desarrollo verificable del nuevoWindow/fuerza antesdegate. Ejército: lucha no narrada, R descubre ycasaprocesa brutalidad concreta, una sombra nueva, bloqueoCiel/relayobservable, vigilar información de espectadores. Sala→Fort, dagas **compradas dormido** gastandobotín, confesiónconDiosa audible/culpacompartida/segundoprecio y despedida/disculpaM→F, sin borrarsonrisas/vínculosF/B. La salida de hoy no paga esos pendientes ni el segundo precio.
+
+## Mahoraga en la gate del ejército — aclaración del creador,2026-10-24
+
+Mensajes íntegros, en orden:
+
+> oye me quede pensando pero cuando vaya a la gate que tambien saque al bragas no eso da un peso gigante no crees?
+
+> osea beru kamish igris y el bragas
+
+> si pero og mau si lo dominio entonces la unica que no lo domino fue yuka pero el aun lo tiene
+
+**Decisión vigente:** Mau original conserva su Mahoraga ya dominado al regresar. La ausencia del ritual en la historia de esta rama no le quita ese logro al original que vuelve. Yuka de esta rama no obtuvo aquel dominio; no transferírselo por asociación ni obligar a Mau a repetir su ritual.
+
+**Verificación de la producción original:** [V33#15, Two Wheels](../THE_ARRIVALS_S6E17_LN_CHAPTER_01_TWO_WHEELS_v0.1.md) distingue las dos subyugaciones, incluida la de Mau después de la de Yuka; [V33#17, The South Field](../THE_ARRIVALS_S6E18_LN_CHAPTER_01_THE_SOUTH_FIELD_v0.1.md) muestra a ambos con sus respectivos Mahoragas. La [auditoría de progresión](S6_MAU_PRODUCED_PROGRESSION_BASELINE_AUDIT_2026-10-23.md), sección Three accesses, separa shikigamis dominados de registros de la legión. La aclaración actual fija expresamente cómo ese logro de Mau atraviesa el retorno.
+
+**Aplicación futura autorizada:** al ir a la gate del ejército, Mau también saca a Mahoraga, junto con Beru, Kamish e Igris. Mostrar el peso de reunir a esos cuatro y lo que provoca en quienes conocen al Mau más tranquilo de esta rama. La presencia de Mahoraga no exige narrar la pelea: se mantiene la entrada de Rimuru y el descubrimiento del resultado como puesta principal.
+
+- Es el Mahoraga de Mau, un shikigami bajo su control, no una nueva extracción con Arise ni el de Yuka prestado.
+- No suma una plaza a los catorce registrados de la legión ni reemplaza la única sombra nueva prevista para el jefe de esta gate.
+- Si custodia el acceso con los otros tres, comparte la orden de permitir entrar a Rimuru. No convertirlo en una agresión automática contra la casa ni en un ritual abierto que ataque al invocador.
+- Conservar el bloqueo de Ciel y el permiso transmitido por un paso observable; Mahoraga no crea una excepción omnisciente a ese bloqueo.
+- No inferir adaptación universal, fusión de reservas, inmunidad de Mau ni curación de sus secuelas por el simple hecho de invocarlo. Su presencia debe verse antes de usarse para justificar un efecto.
+
+Esta entrada actualiza la planificación. La escena aún no se ha escrito; el punto producido permanece en V36#14, Day485 por la noche. No se modifica ningún capítulo anterior.

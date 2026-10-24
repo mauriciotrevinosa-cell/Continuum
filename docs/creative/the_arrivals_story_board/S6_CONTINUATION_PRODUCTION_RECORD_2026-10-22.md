@@ -3,7 +3,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#15, rama Day458, vuelta del camping después de respetar el límite deYuka. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#19, rama Day475 por la tarde, antes de que vuelva el grupo de la salida. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -736,3 +736,16 @@ Bloque: 7915 palabras; mediana 1319.0.
 |15|Stay Anyway|1472|
 
 Bloque: 7216 palabras; mediana 1472.
+
+## Checkpoint s6_v35_16_19_2026-10-24 — V35#16–19
+
+16: Day469, práctica de Mau/Yuta y una oportunidad consciente de contarle que Mau deja pasar. Segunda aproximación íntima adulta con Yuka, interrumpida por el golpe de Yuta a la puerta; no ve el romance ni ocurre sexo. Ambos reconocen el ocultamiento.17: Day474, Ciel detecta un segundo ritmo/estructura; Mau, Shoko, Rimuru y Gojo lo examinan sin saber origen. Mau no tiene dolor, fiebre, cicatrices originales ni otra persona confirmada. Participa en acordar no hacer la caminata larga al día siguiente, puede estar en la sala y convivir. Yuka decide acompañarlo, con Shoko disponible y otros residentes en casa.18–19: desde Day475mañana el ritmo es continuo; examen matinal, desayuno y partida de un grupo concreto, no toda la casa. Fern sale con Frieren/Ori, entre otros. Quedan Shoko, R con trabajo cercano, Mai, Rem/Ram y más residentes. Cartas, comida, ayuda cotidiana, revisiones sin cambios y conversación privada de pareja. Al final19 acuerdan contar el romance cuando regresen los abuelos; todavía no lo han hecho ni ha vuelto el grupo. R sabe desde14. Ori usa compás y llama madre aFrieren; no relación paterna asumida conM.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|16|Someone at the Door|1451|
+|17|The Second Beat|1457|
+|18|Those Who Stayed|1378|
+|19|The Middle of the Day|1432|
+
+Bloque: 5718 palabras; mediana 1441.5.

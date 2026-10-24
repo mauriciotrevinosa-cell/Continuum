@@ -56,3 +56,18 @@ Touka/Ichikayaestánen443traspeticiónde10, nootracoinextra. Ichikacuidada, noal
 ### Pendiente decontinuación
 
 SegundaaproximacióninterrumpidaporKnock, segundo corazón observadoantesouting, último salto a475mañana. Nouploadearestodesenlaceantiguo42–45ni46–48. El cuerpoMauBnoestáyaThomas/legión: lanuevaWindow despuésdelretornoOG deberáconstruir ese salto explícitamente. El retorno traecicatriz cerradadelaperforaciónSukuna, dosdedospresentesperorígidos yleftblur, noheridasfrescas causadasporYuta. Ejército se mostraráconRentrando, nopeleanarrada. Cielbloqueada sóloeneseepisodioposterior; noextrapolarbloqueoantes yaescritodistinto.
+
+## Producido — V35#16–19: antes del descubrimiento
+
+- **Day469,16:** Mau pierde otra oportunidad de hablar conYuta después de práctica. Yuta confía en él. La segunda aproximación íntima conYuka se interrumpe porYuta llamando a la puerta para traer un paquete deMaki; no descubre nada, nosexo. M/Yk hablan del miedo a queYuta lo mire distinto y reconocen que los abuelos tienen derecho a estar molestos por ocultarlo. No afirmar que esta conversación ya resolvió el problema.
+- **Day474,17:** Ciel detecta nuevo ritmo, Mau sí lo siente cuando se concentra. Shoko escucha y revisa con técnica; Gojo aporta observación, no causalidad ni diagnóstico de otra persona. Dos ritmos, estructura nueva, ningún antecedente Architect/tower enB. M pregunta aDiosa y no recibe respuesta. No voz audibleDiosa desdeTrial. M acuerda quedarse en vez de caminata larga mañana. No dolor ni desmayo, sin marcasOG todavía.
+- **Day475,18:** última transición al presente continuo. Revisión sin cambios. Grupo concreto sale, otros quedan. Shoko no entrega responsabilidad médica aYuka. Rimuru cerca, disponible. M/Yk cartas y compañía.
+- **Day475,19:** almuerzo con Rem/Ram, R vuelve del trabajo, Mai participa. Otro control sin cambios. En la tarde acuerdan pedir tiempo privado aYuta/Maki al volver el grupo. El descubrimiento deMilim aún no escrito; NO están ya perdonados.
+
+### Cuartos de esta rama
+
+Mau tiene el dormitorio este para él; Rimuru mantiene el loft sobre el closet de ese dormitorio. Frieren/Ori usan otro dormitorio ya existente arriba. Esto deriva del cambio de vínculo, no de reformar la casa ni afirmar que Mau/Frieren durmieron juntos aquí. La oficina deR sigue abajo y no es donde duerme. El hatch del techo sigue al final del corredor, no escalera del loft. Fijado aquí antes de futuras escenas de recuperación/cuidado.
+
+### Orden preciso del próximo tramo
+
+Viven aún la tarde475. Milim se adelanta al grupo que regresa y ve beso en la sala; están vestidos, nosexo. Luego reacciones y conversación real deM conYuta/Maki, sin escena deFrieren celosa/ataque de esta rama. Desmayo coincide con convergencia, no prueba de queYuta lo hirió ni de que el beso cause enfermedad. Fiebre/cambios graduales durante días después; el original no ha vuelto consciente todavía. Segundo colapso de sueño después deendless army es otro episodio.

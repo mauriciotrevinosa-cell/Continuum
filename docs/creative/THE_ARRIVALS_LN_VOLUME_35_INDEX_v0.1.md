@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 35
 **Season:** 6
-**Coverage:** S6E63–S6E70
+**Coverage:** S6E63–S6E72
 **Volume title:** **Old New Days**
-**Chapter files:** 15
+**Chapter files:** 19
 
 Old New Days depicts the creator-authorized divergent branch after the unintended overwrite; it does not erase the historical original volumes. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -28,3 +28,7 @@ Old New Days depicts the creator-authorized divergent branch after the unintende
 | 13 | S6E69 | Come Back This Way | `THE_ARRIVALS_S6E69_LN_CHAPTER_01_COME_BACK_THIS_WAY_v0.1.md` |
 | 14 | S6E69 | After We Get Home | `THE_ARRIVALS_S6E69_LN_CHAPTER_02_AFTER_WE_GET_HOME_v0.1.md` |
 | 15 | S6E70 | Stay Anyway | `THE_ARRIVALS_S6E70_LN_CHAPTER_01_STAY_ANYWAY_v0.1.md` |
+| 16 | S6E70 | Someone at the Door | `THE_ARRIVALS_S6E70_LN_CHAPTER_02_SOMEONE_AT_THE_DOOR_v0.1.md` |
+| 17 | S6E71 | The Second Beat | `THE_ARRIVALS_S6E71_LN_CHAPTER_01_THE_SECOND_BEAT_v0.1.md` |
+| 18 | S6E71 | Those Who Stayed | `THE_ARRIVALS_S6E71_LN_CHAPTER_02_THOSE_WHO_STAYED_v0.1.md` |
+| 19 | S6E72 | The Middle of the Day | `THE_ARRIVALS_S6E72_LN_CHAPTER_01_THE_MIDDLE_OF_THE_DAY_v0.1.md` |

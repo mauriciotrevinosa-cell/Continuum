@@ -2112,3 +2112,7 @@ Se preserva la cadena de llegadas usando el Trial más llevadero de la rama, no 
 ### DH-135 continuación — V35#11–15, checkpoint s6_v35_11_15_2026-10-24 (2026-10-24)
 
 Preservar18antesdeintimidad. No igualar regalo cumpleaños acontrato mágico ni embarazo; no atribuir aFcelos deunapareja que no existeaquí. La primera vezqueYkparaes porsupropiolímite: no usar amenazaexterna/Knockcomo sustituto. El KnockdeYuta/Maki corresponde aotraescena futura. R conoceyaconocimientoexplícitodesde14 yno será sorpresafalsificadaenelouting. La tardanzaM/Yk en contarles alosabuelos permanece problema real. Mantenercalendario443/447/457sin copiarfuturasheridasOG antesdelcatch-up.
+
+### DH-135 continuación — V35#16–19, checkpoint s6_v35_16_19_2026-10-24 (2026-10-24)
+
+El segundo corazón se observa ANTES del outing y la permanencia deMau es un acuerdo, no decisión impuesta de la casa. A partir de475 no se eliden los días para saltar a la recuperación: falta vivir descubrimiento, conflicto y conversación. La pareja elige contar esa tarde, pero esa intención no equivale a confesión ya realizada ni borra semanas de ocultamiento. Los síntomas de convergencia aún no empezaron. Anotar distribución de cuartos necesaria para esta rama: Mau tiene el dormitorio este para él, Rimuru conserva el loft encima de su closet; Frieren/Ori ocupan otro cuarto existente. No hay rediseño de la casa ni loft convertido en oficina. No retrocambio de marcas de hablante.

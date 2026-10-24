@@ -92,3 +92,23 @@ M está en cama de clínica, no dormitorioF, noFort. Pelo aún oscuro, ojos no d
 - Yk/Yt: disculpa acusación de22–23 se refiere al susto, no implica que mentira inicial esté perdonada. Miedo mutuo no cancela enfado.
 - F/Ori: madre/hija, F se queda conella en vez de convertirla en público de discusión adulta. F preocupa porM como amigo/maestra. MOG aún no mira compás/daughter desde otro pasado.
 - Ciel/R: persona pidiendo queM responda, R disponible paraella. Privacidadhost no canal público. Segundo precioDiosa sigue pendiente, no se decide ni se paga aquí.
+
+## Producido — V35#24–28: cambios sucesivos y familia
+
+|Día|Cambios observados|Límites/relaciones|
+|---|---|---|
+|476,24|Ojos café→azul océano, molestia luz, atención fragmentaria. Gojo reconoce comportamiento de filtrado, no origen.|M pregunta fecha476, no OG pleno. Yka no sabe por qué ojos nuevos. F/Ori desayuno y papel con nombreM, F preocupa como amiga/maestra, no esposa.|
+|477,25|Primeras hebras blancas en sienizquierda.|Yt/R hablan de privacidad y tiempo perdido: R admite que dejó 'soon' sin decidir límite, no se absuelve por haber aconsejado. Mai/Yk hablan de haberla dejado fuera; no finaliza enfado con un chiste.|
+|477tarde,26|Dos dedos IZQUIERDOS presentes, no cierran bien. Primeras marcas cerradas antebrazo.|Shoko no fuerza movimiento ni trata amputación; Yta confirma mano funcional en práctica469. No fractura ni sonido de huesos. CielB no vivió horrorOG. Yt cuida sin declarar resuelta charla21.|
+|478mañana,27|Marca cerrada en torso de perforación originalSukuna, más cicatrices antiguas.|B no tuvo esa herida. FuenteOG sólo fija torso; sin lado/órgano/salida espalda inventados. M dice 'old' pero no logra explicar. No agresión nueva ni recuento espontáneo de437vidas.|
+|478tarde,28|Fiebre algo más baja, M sigue dormido en clínica.|Yka duerme un rato enFort, no M. Música/juegos/cuidado compartido; B lo ve como hermano, U también mantiene cercanía. Milim yYka pueden reír sin negar miedo ni borrar secreto. Fort no se convierte sólo en sala de enfermería.|
+
+### Estado al cerrar28
+
+Ojos azules, zona blancaizquierda, dedos rígidos presentes, cicatrices cerradas y visión limitada anunciada desde475. Ninguna secuela ha sido curada por subida de stats. No herida abierta que tratar como ataque reciente. No vigilia original plena ni cuerpo 'arreglado' al completar un juego de colores. Continúan clínica, turnos, información incompleta.
+
+Katana/moneda todavía no devueltas en prosa nueva. Dagas se comprarán dormido después dearmy, no atribuirlas a estos cambios. R conoceCiel privada, los demás reciben relay oral. Ciel no ve gratis todo el archivo de memorias. Tres memorias se reconocen cuando vuelva el original, no se reparten ahora entre NPC.
+
+### Fuentes de espacio consultadas
+
+S3E46CH08 The Fort Sends Notes; CH09 The Fort Is Too Small; CH10 Madam President. Se usan como autoridad de función/capacidad y vínculos compatibles, no para importar aB la crisis original completa ni añadir a residentes que se fueron enS4.

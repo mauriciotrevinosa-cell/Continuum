@@ -2120,3 +2120,7 @@ El segundo corazón se observa ANTES del outing y la permanencia deMau es un acu
 ### DH-135 continuación — V35#20–23, checkpoint s6_v35_20_23_2026-10-24 (2026-10-24)
 
 El conflicto de amor enB no replica infidelidad contraFrieren; las heridas reales aquí son ocultamiento, confianza y cambios familiares. Maki reconoce agenciaYuka y no ataca. Yuta no causa colapso; la convergencia se manifiesta durante la charla, sin convertirla en castigo médico. Se conserva como conocimiento quién vio beso/qué escuchó, incluyendo prior conocimientoR y Mai apartada. Los siguientes días requieren cambios corporales sucesivos y vida de la casa; no pasar de esta noche a explicación total, gate o aceptación general. Este primer ingreso es distinto de segunda recuperación de sueño enFort trasendless army.
+
+### DH-135 continuación — V35#24–28, checkpoint s6_v35_24_28_2026-10-24 (2026-10-24)
+
+Dar varios días y relaciones propias a la recuperación, no convertir cambios en transformación instantánea de poder. Dedos siguen presentes y viejas secuelas no son curadas por stats. La marca deSukuna se añade por dirección del creador con fuente torso S2E23CH05; no afirmar que una cicatriz permanente específica ya estaba documentada antes de la decisión. Fort consultado enS3E46CH08–10: estructura ampliada común, no cuarto nuevo; este reposo deYuka no es segundo colapso deMau. Siguiente escena puede ser primer despertar original/conjunto en color; aún faltan retorno consciente, armas/moneda y verdad pública, ninguna debe tratarse como ya ejecutada por esta nota.

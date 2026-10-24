@@ -3,7 +3,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#23, rama Day475 de noche hacia476, primera recuperación en la clínica. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#28, rama Day478 por la tarde-noche, fiebre cediendo pero sin despertar lúcido completo. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -762,3 +762,17 @@ Bloque: 5718 palabras; mediana 1441.5.
 |23|A Chair for the Night|1275|
 
 Bloque: 5313 palabras; mediana 1305.0.
+
+## Checkpoint s6_v35_24_28_2026-10-24 — V35#24–28
+
+24Day476: ojos cambian de café a azul océano; breves despertares desorientados, luz molesta, Gojo distingue conducta de filtro informacional sin deducir causa ni historia. Pelo aún oscuro. Vida desayuno F/Ori, dibujo paraM.25Day477: Yt/R hablan de lo queR sabía; no perdón automático. Mai/Yk hablan de exclusión y privacidad. Primeras hebras blancas a la izquierda observadas.26Day477tarde: dos dedos izquierdos PRESENTES ya no cierran bien; sin rotura nueva ni amputación. Primeras marcas cerradas antebrazo. Yt ayuda y se reconoce brevemente, peroM no está lúcido con toda su historia.27Day478: cicatriz cerrada torso donde Sukuna atravesó al original, nueva decisión del creador; nadie recuerda esa herida enB porque no ocurrió. Sin agujero fresco ni lado/órgano inventado. M llama 'old' a una sensación, no explica aún.28Day478tarde: Yuka descansa enFort por elección; M permanece clínica. Umaru/Bocchi/Shizuka/Nano/Milim tienen música, juego y vida propia; Bocchi llamaM figura de hermano. Milim no es culpada por enfermedad ni todo el ocultamiento. Fiebre baja algo, no recuperación terminada. Ciel conserva incertidumbre/privacidad, no hereda recuerdos originales.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|24|The Wrong Color|1217|
+|25|People Outside the Room|1242|
+|26|Open Your Hand|1171|
+|27|Where There Was No Wound|1047|
+|28|The Fort Has Room|1260|
+
+Bloque: 5937 palabras; mediana 1217.

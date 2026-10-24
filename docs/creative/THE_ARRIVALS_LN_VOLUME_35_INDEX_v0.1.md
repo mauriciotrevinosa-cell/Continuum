@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 35
 **Season:** 6
-**Coverage:** S6E63–S6E74
+**Coverage:** S6E63–S6E76
 **Volume title:** **Old New Days**
-**Chapter files:** 23
+**Chapter files:** 28
 
 Old New Days depicts the creator-authorized divergent branch after the unintended overwrite; it does not erase the historical original volumes. [Current production record](the_arrivals_story_board/S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md).
 
@@ -36,3 +36,8 @@ Old New Days depicts the creator-authorized divergent branch after the unintende
 | 21 | S6E73 | What You Let Me Believe | `THE_ARRIVALS_S6E73_LN_CHAPTER_01_WHAT_YOU_LET_ME_BELIEVE_v0.1.md` |
 | 22 | S6E73 | We Were Talking | `THE_ARRIVALS_S6E73_LN_CHAPTER_02_WE_WERE_TALKING_v0.1.md` |
 | 23 | S6E74 | A Chair for the Night | `THE_ARRIVALS_S6E74_LN_CHAPTER_01_A_CHAIR_FOR_THE_NIGHT_v0.1.md` |
+| 24 | S6E74 | The Wrong Color | `THE_ARRIVALS_S6E74_LN_CHAPTER_02_THE_WRONG_COLOR_v0.1.md` |
+| 25 | S6E75 | People Outside the Room | `THE_ARRIVALS_S6E75_LN_CHAPTER_01_PEOPLE_OUTSIDE_THE_ROOM_v0.1.md` |
+| 26 | S6E75 | Open Your Hand | `THE_ARRIVALS_S6E75_LN_CHAPTER_02_OPEN_YOUR_HAND_v0.1.md` |
+| 27 | S6E76 | Where There Was No Wound | `THE_ARRIVALS_S6E76_LN_CHAPTER_01_WHERE_THERE_WAS_NO_WOUND_v0.1.md` |
+| 28 | S6E76 | The Fort Has Room | `THE_ARRIVALS_S6E76_LN_CHAPTER_02_THE_FORT_HAS_ROOM_v0.1.md` |

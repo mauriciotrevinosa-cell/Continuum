@@ -3,7 +3,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V34#41, Day475night. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V35#4, saltos de la rama, después del enfrentamiento S2 con Sukuna. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -694,3 +694,16 @@ Este checkpoint modifica notas únicamente. Novelas, índices y progreso no camb
 ## Checkpoint — cierre overwrite ejecutado2026-10-24
 
 V34#38 incorpora la promesa expresa de continuar/familia/hijos antes del trato, sin sexo ni consentimiento al cambio de memoria. V34#41 conserva la oposición real de Rimuru/Ciel y el consentimiento moralmente problemático de Mau; cambia sólo el resultado: operación inesperada, negro y glitch OVERWRITE.42–45 quedan íntegros archivados y fuera del índice/lector;46–48 siguen nunca publicados. La moneda por error de la Diosa se integra después, no como la antigua recompensa «cheated». Segundo precio vigente. Se inicia la rama vivida de V35 sin marco de clínica ni narrador OG consciente. El día475 pertenece a la línea original y no se asigna automáticamente a los saltos históricos de la rama.
+
+## Checkpoint s6_v35_1_4_2026-10-24 — V35#1–4
+
+Primeros cuatro capítulos de Old New Days.1 despierta en la clearing, nombre jersey, gris subjetivo y cuarto separado desde la primera noche.2 salta a la llegada G2; Fern vuelve con Frieren y ocupa su cuarto sin desplazar a Mau; Yuta y Rimuru ya están, según las llegadas S1E4/E6 verificadas en los índices.3 escena de banco/práctica/amistad antes de Sukuna; Milim aún no llegó.4 consecuencias del enfrentamiento de esta rama: grupo lo rechazó y Sukuna se retiró; Mau vive con lesiones moderadas, sin la perforación/muerte/fusión/Purple del original. El motivo es proteger la casa. La escena no importa la legión, Ciel ni power-ups del futuro. Se conservan las temporadas originales: estos capítulos son una rama divergente, no correcciones retroactivas deS1–S5. No se ha alcanzado la convergencia ni endless army.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|1|A Place to Put the Bag|1519|
+|2|The Room Beside Hers|1350|
+|3|Hold This End|1474|
+|4|Everybody Answer|1302|
+
+Bloque: 5645 palabras; mediana 1412.0.

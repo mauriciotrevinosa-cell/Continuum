@@ -2100,3 +2100,7 @@ El creador pide el esquema antes del cierre y sitúa el regreso al ritmo lento d
 ### DH-135 continuación — verde y cierre overwrite ejecutado (2026-10-24)
 
 Mensaje íntegro15 autoriza producir. Se conserva todo42–45 publicado antes de retirarlo de la secuencia;38 gana la promesa de familia y41 termina en el fallo inesperado/negro/glitch. Old New Days comienza con Mau de la rama, escena vivida y marcas pequeñas al final desde nuevos capítulos. Ejército, bloqueo Ciel y segunda deuda quedan documentados sin adelantar su ejecución narrativa. Ningún archivo de novela S1–S5 ni código de aplicación se modifica.
+
+### DH-135 continuación — V35#1–4, checkpoint s6_v35_1_4_2026-10-24 (2026-10-24)
+
+Producción autorizada hacia adelante, sin retrocambiar las marcas de hablante. Nuevo formato pequeño a la derecha mediante letras Unicode elevadas, compatible con el lector que no admite HTML. Primer corte de respaldo con cuatro capítulos completos; continuar tras push. No cuota de capítulos ni compresión de la futura recuperación. La desviación S2 sin muerte se muestra desde cuidados/vida compartida en vez de sustituir toda la batalla original por un resumen de poderes.

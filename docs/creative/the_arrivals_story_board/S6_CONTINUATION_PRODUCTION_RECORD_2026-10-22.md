@@ -1,5 +1,7 @@
 # S6 — continuación autorizada: registro de producción y estado
 
+> **Relevo a Claude —2026-10-24:** el creador pidió cerrar y guardar. V35 completo en29 capítulos; salida Day479 por la mañana. [Punto exacto, pendientes, límites y verificaciones](S6_CLAUDE_CONTINUE_AFTER_V35_HANDOFF_2026-10-24.md). V36 todavía no escrito. Todo el avance de prosa propio está enGit.
+
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 

@@ -22,3 +22,10 @@
   - In the Frieren farewell, Mau apologises. The branch Frieren keeps her smiles and friendships.
   - Mau tells Yuka that she once told him something important, and that he is still digesting all the new things.
   - The filler chapters and speaker marks stay as they are.
+
+## Noise and Ciel (creator, verbatim, 2026-10-24)
+
+> oye y tiene que haber un momento que the noise le pregunte a ciel still friends ya estoy llorando
+
+- The Noise (which returns with the original Mau and remembers working with the original Ciel since the overload) asks CielB, in words: "Still friends?" She never lived that friendship. Written as V36 #6, "Still Friends?".
+

@@ -31,7 +31,7 @@ He looked at them from beside Rimuru. At the knight, the insect, the old dragon 
 
 "Back," he said. "All of you. Thank you. I don't need you to keep anybody out now." ᴹ
 
-Igris bowed and passed the sheathed katana to Yuta before going down.
+Igris bowed and passed the sheathed katana to Yuta before going down. Yuta took it up to the shelf in Mau's east room and came back while Shoko was still helping Mau stand. The blade would not have to travel through the common room beside him.
 
 Beru looked at his king for a moment. The proud brightness had gone from the insect's face. He lowered his head and sank after the knight without speaking.
 

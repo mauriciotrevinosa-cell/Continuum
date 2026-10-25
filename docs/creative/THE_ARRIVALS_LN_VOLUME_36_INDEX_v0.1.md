@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 36
 **Season:** 6
-**Coverage:** S6E78–S6E88
+**Coverage:** S6E78–S6E90
 **Volume title:** **Both Lives**
-**Chapter files:** 22
+**Chapter files:** 26
 
 Continues from Volume 35 (Day479, the original Mau lucid with three sets of memories). Plan: [S6_V36_PLAN_2026-10-24.md](the_arrivals_story_board/S6_V36_PLAN_2026-10-24.md).
 
@@ -35,3 +35,7 @@ Continues from Volume 35 (Day479, the original Mau lucid with three sets of memo
 | 20 | S6E87 | The Shoulder | `THE_ARRIVALS_S6E87_LN_CHAPTER_02_THE_SHOULDER_v0.1.md` |
 | 21 | S6E88 | The Fort Is Warm | `THE_ARRIVALS_S6E88_LN_CHAPTER_01_THE_FORT_IS_WARM_v0.1.md` |
 | 22 | S6E88 | The Receipt | `THE_ARRIVALS_S6E88_LN_CHAPTER_02_THE_RECEIPT_v0.1.md` |
+| 23 | S6E89 | Three Beginnings | `THE_ARRIVALS_S6E89_LN_CHAPTER_01_THREE_BEGINNINGS_v0.1.md` |
+| 24 | S6E89 | The Answer He Accepted | `THE_ARRIVALS_S6E89_LN_CHAPTER_02_THE_ANSWER_HE_ACCEPTED_v0.1.md` |
+| 25 | S6E90 | Here | `THE_ARRIVALS_S6E90_LN_CHAPTER_01_HERE_v0.1.md` |
+| 26 | S6E90 | What He Owed | `THE_ARRIVALS_S6E90_LN_CHAPTER_02_WHAT_HE_OWED_v0.1.md` |

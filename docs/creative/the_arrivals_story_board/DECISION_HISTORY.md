@@ -2148,3 +2148,7 @@ Nuevo permiso del creador: tres o cuatro capítulos de transición y seguir hast
 ### DH-135 continuación — V36#18–22, checkpoint v36_18_22 (2026-10-25)
 
 Nuevo permiso del creador: tres o cuatro capítulos de transición y seguir hasta terminar la confesión; las conversaciones posteriores de casa sinM se planearán después. Producidos V36#18–22. Moneda nueva existente ligada a promesaTsurugi sin duplicarla; katana existente no recreada. Percepción gris, Ciel privada, Mahoraga propio, memoria de las sombras y consecuencias relacionales preservadas.
+
+### DH-135 continuación — V36#23–26, checkpoint v36_23_26 (2026-10-25)
+
+Nuevo permiso del creador: tres o cuatro capítulos de transición y seguir hasta terminar la confesión; las conversaciones posteriores de casa sinM se planearán después. Producidos V36#23–26. Moneda nueva existente ligada a promesaTsurugi sin duplicarla; katana existente no recreada. Percepción gris, Ciel privada, Mahoraga propio, memoria de las sombras y consecuencias relacionales preservadas.

@@ -475,3 +475,7 @@ not on this list. Add a line every time the creator catches a new slip.
 - What It Built returns to "What did the Goddess want Mau to learn?" in light of the Architect exploiting the wound. It is an old unanswered concern with new context, not the first time anyone asked why. Neither shared patterns nor the later proposed deal proves the Goddess sent the Architect or wanted his outcome.
 - A Really Good Cookie retains that exact unresolved question; Mau recognises a voice he has heard repeatedly. Do not say she "might or might not" have made the Trial or put the coin grant inside its final reset: the coins came after the Return/Stay window.
 - Do not turn the S6 planned closing deal into an authorship reveal. Historical creator messages remain verbatim; the erroneous editorial hook is superseded. No new Trial, divine motive, alliance, ending or arrival disclosure is invented by this correction.
+
+## Percepción de Mau después del retorno original — creador,2026-10-25
+
+Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35#29 contiene su desconcierto y aviso privado a Ciel. El color azul físico de sus ojos, su filtro informacional, la legión/Mahoraga y los recuerdos de colores NO restauran esa percepción. Puede conocer etiquetas o producir Night Tide sin ver su azul verdoso; otros sí lo ven. No inventar causa/cura ni convertirlo en gris físico universal. [Dirección íntegra y capítulos revisados](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md).

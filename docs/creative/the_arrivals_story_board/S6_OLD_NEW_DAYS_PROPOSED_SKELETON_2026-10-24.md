@@ -26,7 +26,7 @@ Propuesta de trabajo: **alrededor de50–65 capítulos**, abiertos a más respir
 
 Dos volúmenes podrían contenerlo de forma natural:
 
-- **V35, título de trabajo Old New Days:** escenas de la rama, relación con Yuka, outing, descubrimiento, desmayo y primera fase de recuperación. Un corte posible es el primer despertar verdaderamente lúcido del Mau original, con todo el mundo de nuevo en color. No implica que su cuerpo ya esté estable.
+- **V35, título de trabajo Old New Days:** escenas de la rama, relación con Yuka, outing, descubrimiento, desmayo y primera fase de recuperación. Un corte posible es el primer despertar verdaderamente lúcido del Mau original, con las tres memorias y la percepción gris todavía presente (corrección del creador,2026-10-25). No implica que su cuerpo ya esté estable.
 - **V36, título por decidir:** reajuste restante, vínculos con la casa, pánico, gate, rescate, Fort, dagas y confesión con consecuencias. El cierre del volumen dependerá de las escenas que se produzcan; no reservar sólo un capítulo de reconciliación para todos.
 
 Esta división todavía es propuesta. Si un punto de corte requiere mutilar una conversación o hacer un volumen de restos, se mueve. No asignar aún episodios fuente, títulos de capítulos o días definitivos a estos rangos.
@@ -108,7 +108,7 @@ Propuesta de puesta: varios días reales de reajuste, duración exacta por acord
 
 1. **Primeras horas/noche:** atención, fiebre, sueño inquieto, frases fuera de lugar. La casa no conoce los referentes. El lector recibe fragmentos sin una explicación completa ni un tour de las temporadas.
 2. **Primeros días:** ojos que regresan al azul océano y un mechón que cambia; Gojo detecta algo que Shoko no encuentra en el historial de esta rama. Los cambios pueden separarse por descansos y actividades de otros personajes.
-3. **Regreso lúcido del original:** reconoce las tres memorias y ve todo a color. Puede reconocer el brazalete con «por lo menos eso sí se quedó». La conciencia original y el reajuste físico no tienen por qué terminar en el mismo minuto; fijar el orden al detallar escenas.
+3. **Regreso lúcido del original:** reconoce las tres memorias pero NO recupera los colores; Yuka continúa como excepción y él reacciona desconcertado (dirección posterior,2026-10-25). Puede reconocer el brazalete con «por lo menos eso sí se quedó». La conciencia original y el reajuste físico no tienen por qué terminar en el mismo minuto; fijar el orden al detallar escenas.
 4. **Marcas y limitaciones:** cicatrices, dos dedos que no cierran bien, visión lateral y filtros. Mau conoce esas secuelas; Shoko las está viendo aparecer sin la lesión que las habría causado aquí. «Esto es normal» no satisface a la médica.
 5. **Emoción después del susto:** la vergüenza del descubrimiento y el conflicto familiar siguen, ahora junto a una enfermedad que no saben explicar. Yuka necesita compañía y respuestas, no sólo trabajo de enfermería. Ciel conserva dudas y agencia.
 

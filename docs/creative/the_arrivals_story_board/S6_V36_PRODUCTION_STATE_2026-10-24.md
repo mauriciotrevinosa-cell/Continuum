@@ -1,5 +1,7 @@
 # V36 — Both Lives: estado producido y continuidad
 
+> **Dirección vigente,2026-10-25 — percepción del color:** el regreso original NO devuelve los colores a Mau. Yuka sigue como excepción. [Mensaje íntegro, alcance y corrección de prosa](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md). Las menciones históricas de recuperación del color quedan sustituidas sólo en ese punto.
+
 **Actualización:**2026-10-24, V36#14. **Estado:** borrador producido, no aprobación del creador. Continúa después de los siete capítulos de Claude sin modificarlos. [Dirección vigente y verificación del punto de relevo](S6_V36_PACING_AND_CREATOR_CONTINUATION_2026-10-24.md).
 
 ## Producido por Claude —1–7

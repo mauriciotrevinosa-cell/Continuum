@@ -45,7 +45,7 @@ He had been watching her for a long time before he noticed that he was watching 
 
 He made himself stop.
 
-He looked out of the window instead. At the yard. At the woodpile, and the pump, and the barn, and a piece of sky that was blue, plainly and ordinarily blue, the way it had been blue every day of his life and he had not seen it.
+He looked out of the window instead. At the yard. At the woodpile, and the pump, and the barn, and a piece of sky whose blue he could remember without seeing. When he turned back, the warmth in Yuka's cheek was still there. He let her finish the sentence before asking for the next voice.
 
 * * *
 

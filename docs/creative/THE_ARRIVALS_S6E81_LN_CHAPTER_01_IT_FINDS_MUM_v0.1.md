@@ -15,7 +15,7 @@ He had sat on it a thousand times. In this life and the other. He had sat on it 
 
 It was cold every time. He had simply never noticed, because there had always been something else to notice.
 
-He noticed now. He sat on the cold step with a blanket round his shoulders that Shoko had put there without asking, and looked at the yard in colour, and noticed everything.
+He noticed now. He sat on the cold step with a blanket round his shoulders that Shoko had put there without asking, and looked at the familiar gray yard, noticing things he had not given himself time to look at before.
 
 * * *
 

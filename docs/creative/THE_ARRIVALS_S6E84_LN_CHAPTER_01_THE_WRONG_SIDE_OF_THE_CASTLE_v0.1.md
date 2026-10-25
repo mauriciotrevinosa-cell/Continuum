@@ -171,7 +171,7 @@ She held his gaze for a moment. Then her mouth moved.
 
 He laughed into the bottle.
 
-She sat beside him and drew the cloth out from under her thigh. The new blue fabric had dried in little patches. Her hair was coming loose again. There was sand on the bridge of her nose and the inside of her elbow, and he thought he had never seen anyone he wanted so badly to spend a completely uneventful afternoon with.
+She sat beside him and drew the cloth out from under her thigh. The new fabric had dried in little patches. Her hair was coming loose again. There was sand on the bridge of her nose and the inside of her elbow, and he thought he had never seen anyone he wanted so badly to spend a completely uneventful afternoon with.
 
 He took the spare cloth and held it up.
 

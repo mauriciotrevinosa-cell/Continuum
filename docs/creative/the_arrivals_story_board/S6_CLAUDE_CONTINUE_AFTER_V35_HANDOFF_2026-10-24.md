@@ -1,5 +1,7 @@
 # Relevo a Claude — continuar después de V35
 
+> **Dirección vigente,2026-10-25 — percepción del color:** el regreso original NO devuelve los colores a Mau. Yuka sigue como excepción. [Mensaje íntegro, alcance y corrección de prosa](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md). Las menciones históricas de recuperación del color quedan sustituidas sólo en ese punto.
+
 **Fecha:** 2026-10-24, America/New_York. **Repo:** `C:\Continuum`. **Rama:** `m3/critical-path`.
 
 El creador detuvo la escritura y pidió cerrar, subir lo pendiente y dejar notas para Claude. Este checkpoint es sólo de relevo: **Codex no empezó V36 ni dejó capítulos nuevos sin subir.** El verde narrativo previo está en el mensaje15 de la captura íntegra. La producción es borrador; no representa aprobación final del creador.

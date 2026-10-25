@@ -403,3 +403,7 @@ Only the new produced volume supersedes the former planning-only state. The S4 s
 - **Bocchi:** rhythm begun with Mau #9 returns as her musical question/choice #25; #23 independent band scene. **Rem:** visits without tray, reciprocal company; no caretaker reset. **Yuka/Umaru/Milim:** ongoing family/games/fort life; no replacement with other people's new arrivals.
 - **Shoko / Anko:** starter tobacco frame Day266, no viable seed/crop yet, saved cigarette intact and inspected by consent. Anko's future ask remains open, comic not a serious trust rupture. **Fort:** day owed still unpaid. Whole independent Mau-day R20 not consumed by the three-person day.
 - **Gate/state:** arrival-state door closed on crossing Day263, return minutes later; weekly dungeon unchanged. No Exchange/System/Arise/RedGate or new arrivals in V27. Anniversary seed moved to openingV28; not a scene that happened here.
+
+## Mau — actualización perceptiva vigente,2026-10-25
+
+Después del regreso original en V35#29, el entorno sigue gris para él y Yuka continúa en color. Recupera recuerdos, ojos físicos azules y secuelas, pero no la percepción cromática completa; causa sin fijar. Ciel recibe el aviso privado y lo pasa por Rimuru para comunicar a Shoko el síntoma persistente. No es ceguera ni cura por usar el filtro o crear luz. [Dirección completa y alcance](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md). Relaciones, habitaciones y punto producido V36#14 sin cambios.

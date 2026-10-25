@@ -78,7 +78,7 @@ Después, saltos a momentos seleccionados:
 
 Son anclas de selección, **no un nuevo índice exhaustivo o una cantidad aprobada de capítulos**. Mantener lo compatible y mostrar sólo los cambios importantes y las escenas que los hacen vivibles. No intercambiar a Frieren por Yuka en escenas donde Yuka todavía no había llegado.
 
-**Gris/color:** el Mau de esta rama ve gris; Yuka aparece en color. Cuando vuelve el Mau original, vuelve a ver todo a color. El efecto está pedido expresamente. No se ha fijado si es percepción física, recurso subjetivo o ambas cosas; no añadir diagnóstico, causa de Six Eyes o explicación técnica por cuenta propia. Debe sentirse mediante la narración, sin explicar repetidamente qué simboliza.
+**Gris/color — corregido por el creador,2026-10-25:** el Mau de esta rama ve gris; Yuka aparece en color. Cuando vuelve el Mau original, la percepción gris persiste y él se desconcierta al reconocerla. Se sustituye la anterior recuperación completa del color. [Dirección y revisión](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md). No se ha fijado si es percepción física, recurso subjetivo o ambas cosas; no añadir diagnóstico, causa de Six Eyes o explicación técnica por cuenta propia. Debe sentirse mediante la narración, sin explicar repetidamente qué simboliza.
 
 **Al alcanzar el presente/catch-up, regresar al ritmo de días completos.** Los saltos de memoria no autorizan comprimir la recuperación, conversaciones y consecuencias que siguen. La casa vuelve a tener actividades, días y relaciones que evolucionan entre escenas.
 

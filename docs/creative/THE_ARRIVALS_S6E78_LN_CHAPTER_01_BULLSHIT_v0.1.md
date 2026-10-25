@@ -5,9 +5,9 @@
 **Volume:** 36
 **Reading order:** 1
 **Source episode:** S6E78
-**Continuity state:** Day479, late morning, the clinic, continuous from V35#29. Shoko gives the lucid Mau a full examination with his consent: blue eyes, white left temple, two stiff present left fingers, soft left visual edge, the closed torso scar at the original Sukuna site and many fine closed marks, none of which this branch's history explains. Mau knows each limit and works around it without thinking; asked, he says "This is normal," and Shoko says "That's bullshit." Gojo, called with permission, recognises an information-filter weave in Mau's eyes that resembles his own and does not know how it got there. Mau gives true but partial answers (he remembers being hurt in these places, in a life this house did not live) and promises to tell all of it; he stops on the word "promise" and asks for a little time rather than a deadline. Yuka stays by choice; Rimuru is present and knows the branch romance only. No Window use, shadows, weapon or coin return, Goddess speech, confession or new power. The Yuta/Maki conversation remains interrupted
+**Continuity state:** Day479, late morning, the clinic, continuous from V35#29. Shoko gives the lucid Mau a full examination with his consent: blue eyes, white left temple, two stiff present left fingers, soft left visual edge, the closed torso scar at the original Sukuna site and many fine closed marks, none of which this branch's history explains. Mau knows each limit and works around it without thinking; asked, he says "This is normal," and Shoko says "That's bullshit." Gojo, called with permission, recognises an information-filter weave in Mau's eyes that resembles his own and does not know how it got there. Mau gives true but partial answers (he remembers being hurt in these places, in a life this house did not live) and promises to tell all of it; he stops on the word "promise" and asks for a little time rather than a deadline. Yuka stays by choice; Rimuru is present and knows the branch romance only. The gray perception also persists; Ciel has passed that symptom through Rimuru to Shoko, and the filter examination does not cure or explain it. No Window use, shadows, weapon or coin return, Goddess speech, confession or new power. The Yuta/Maki conversation remains interrupted
 
-*When: Day479, late morning. The curtain is still brown, the leaves outside still green. Yuka has been sent to eat and has come back with half a piece of bread, which she is pretending is all of it.*
+*When: Day479, late morning. The curtain and the leaves outside are still gray to Mau. Yuka has been sent to eat and has come back with half a piece of bread, which she is pretending is all of it.*
 
 Shoko did not let him get out of bed to be examined.
 
@@ -52,6 +52,16 @@ Not quickly. Shoko never examined anyone quickly; she said speed was how you mis
 "I made it quieter." ᴹ
 
 She put the lamp down.
+
+"Rimuru says the colors are still missing." ˢʰ
+
+"Yes." ᴹ
+
+"Before and after whatever you just did?" ˢʰ
+
+"Both. Less detail now. Same gray." ᴹ
+
+Shoko added a separate line to her notes before she went on.
 
 Then she lifted the blanket from his chest, with his nod, and looked at the place where yesterday there had been nothing.
 
@@ -187,7 +197,7 @@ Gojo looked at him a moment longer.
 
 Then he put the blindfold down.
 
-"Okay," he said again. He looked at Shoko. "His eyes are fine. Fine for what they are. I don't know what they are." He looked back at Mau. "Don't open them all the way again until you're stronger. That cost you more than you think." ᴳ
+"Okay," he said again. He looked at Shoko. "The filter is working. That doesn't explain the colors. I don't know enough about what's been done in there." He looked back at Mau. "Don't open them all the way again until you're stronger. That cost you more than you think." ᴳ
 
 "I know." ᴹ
 

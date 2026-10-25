@@ -2136,3 +2136,7 @@ Petición vigente del creador: Work continúa desde #8 tras leer Claude; escenas
 ### DH-135 continuación — V36#11–14, checkpoint v36_11_14 (2026-10-24)
 
 Continuación autoriza escenas vividas y expansión sobre las filas propuestas deClaude: siete nuevos capítulos8–14 sin retroeditar1–7. La salida original se recrea desde lo que estaYuka sabe y elige; no se le imponen recuerdos ni consentimiento ajenos. La conversación directa sobreFrieren ocurre antes del viaje para no aplazar su pregunta con evasivas. Regreso puntual no perdón universal ni curación psicológica. Segundo precio, Ori/compás y futura compra de dagas preservados.
+
+### DH-135 continuación — persistencia del gris tras el retorno original (2026-10-25)
+
+El creador sustituye la recuperación de color de V35#29: «oye mejor cambia que se le quede el daltonismo que no lo recupere los colores y mau diga de que pedo». Revisión localizada del despertar y consecuencias en V36, sin capítulos nuevos. Yuka conserva su excepción previa; sin causa clínica/mágica impuesta. Recordar colores, ver brillo y producir luz no equivale a percibir sus tonos. [Mensaje, aplicación y límites](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md).

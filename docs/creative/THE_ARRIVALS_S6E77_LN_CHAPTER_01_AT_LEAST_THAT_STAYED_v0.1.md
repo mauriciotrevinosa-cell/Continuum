@@ -5,29 +5,29 @@
 **Volume:** 35
 **Reading order:** 29
 **Source episode:** S6E77
-**Continuity state:** Day479 morning, first fully lucid return of original Mau with all three sets of memory: actual original life, recognized implanted S6 history, and the lived new branch. One Mau, no second body death/replacement victim and no extra person created as narrator. Whole perceived world returns to color; no diagnosis that gray was universal/literal eye disease. Original closed scars, blue eyes/left white patch, stiff present two left fingers and soft left visual edge persist; body is weak after fever, not instantly healthy. CielB retains only her own history, not original trauma or opposition; Mau notices difference and does not automatically expose her to memories. YukaB has not made the original family's/children's promise and isn't bound to it. Her lotus bracelet prompts the retained-object line. No public full confession, divine apology, weapon/coin delivery, Army or new System use yet. This is a natural V35 ending, not the end of the whole arc/S6.
+**Continuity state:** Day479 morning, first fully lucid return of original Mau with all three sets of memory: actual original life, recognized implanted S6 history, and the lived new branch. One Mau, no second body death/replacement victim and no extra person created as narrator. The gray perception persists despite the original Mau returning; Yuka alone remains in color. He remembers full color and is bewildered that it has not come back, says "What the fuck?", and reports it privately to Ciel. No diagnosis or automatic cure from restored eyes/filter. Original closed scars, blue eyes/left white patch, stiff present two left fingers and soft left visual edge persist; body is weak after fever, not instantly healthy. CielB retains only her own history, not original trauma or opposition; Mau notices difference and does not automatically expose her to memories. YukaB has not made the original family's/children's promise and isn't bound to it. Her lotus bracelet prompts the retained-object line. No public full confession, divine apology, weapon/coin delivery, Army or new System use yet. This is a natural V35 ending, not the end of the whole arc/S6.
 
-*When: Day479, morning. The curtain is brown.*
+*When: Day479, morning. The curtain is still gray to him.*
 
 Mau looked at it for a long time.
 
-The cloth had a faded edge where the light reached it every day. A little dust lay in the fold near the window. Beyond it, through the gap someone had left, a few leaves moved in a green so ordinary that he could not understand at first why it was making his throat hurt.
+Brown. He remembered the brown of that curtain. Remembered sunlight warming the wood beside it, green leaves moving through the gap by the window. The colors were there when he thought of the room in another life.
 
-The table was wood.
+He opened his eyes wider.
 
-Warm wood, with a pale scratch along the corner and a darker place where somebody had set something wet. A cup stood near the scratch. The cloth under it was not the same color as the curtain.
+Gray cloth. Pale scratch on a gray table. A darker patch where someone had set something wet.
 
-He could see all of it.
+He blinked, shut one eye, then the other. The soft edge on the left was familiar. This was something else. He remembered living with it here, but he remembered living without it too, and for several breaths he waited for his sight to catch up with the rest of him.
 
-For several breaths he waited for the room to draw away and leave one small place bright.
+Nothing changed.
 
-It did not.
+"What the fuck?" he whispered. ᴹ
 
 He turned his head.
 
 Yuka was asleep in the chair beside the bed.
 
-Her head had fallen toward one shoulder. A strand of hair lay across her cheek, moving a little with each breath. She had changed her shirt. The blanket over her knees had been tucked around the side of the chair to keep it from slipping.
+Her head had fallen toward one shoulder. A strand of hair lay across her cheek, moving a little with each breath. There was color in her face, warmth he could actually see instead of remembering. Just her, against the gray chair and the gray room. She had changed her shirt. The blanket over her knees had been tucked around the side of the chair to keep it from slipping.
 
 The flower at her wrist lay against her hand.
 
@@ -121,11 +121,23 @@ The room sharpened all at once. Grain in the ceiling, threads in the curtain, th
 
 He knew that problem too.
 
-He closed the familiar part of the opening by careful degrees, letting detail settle back into ordinary things without taking their color away. It cost attention he did not have much of. By the time he finished, he was breathing harder.
+He closed the familiar part of the opening by careful degrees, letting detail settle back into ordinary things. The room stayed gray. Yuka did not. It cost attention he did not have much of. By the time he finished, he was breathing harder.
 
 "What did you do?" Ciel asked. ᶜ
 
 "Made it quieter. I'll explain. I need a minute." ᴹ
+
+He looked at the curtain again. He could remember colors he could no longer find in it. All that information, and his own sight would not give him this.
+
+"The colors haven't come back," he told her privately. ᴹ
+
+"It looks the way you described it before?" ᶜ
+
+"Yes. Except I remember it being different. From before this life. I thought—" He stopped and looked at Yuka. "She's still the only one." ᴹ
+
+"I don't know why," Ciel said. "I'll ask Rimuru to tell Shoko the color problem is still there. I can't tell them what caused it." ᶜ
+
+"Neither can I." ᴹ
 
 She did not reach through the minute and take the explanation from him.
 
@@ -257,6 +269,8 @@ He had loved her in both lives.
 
 The cup remained in his hands until Shoko took it gently away.
 
-Outside the curtain, the leaves moved green against the morning.
+Outside the curtain, the leaves moved in shades of gray. He remembered their green. Remembering did not put it back.
 
-He could still see the color.
+Yuka reached to straighten the blanket, and he followed the color in her face before looking back at the window.
+
+His body had brought so much back with it. He did not understand why it had kept this too.

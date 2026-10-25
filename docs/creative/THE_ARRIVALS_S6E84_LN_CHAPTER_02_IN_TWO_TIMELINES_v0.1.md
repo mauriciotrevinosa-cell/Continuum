@@ -123,7 +123,17 @@ Yuka turned his hand slightly under hers. The little metal lotus touched a pale 
 
 "It's beautiful," she said. ʸᵏ
 
-He closed his eyes for a moment. Opened them on the water.
+"Blue or green?" he asked quietly. ᴹ
+
+She looked down at the next wave.
+
+"Both. Blue here, and greener where it folds. You really can't see it?" ʸᵏ
+
+"The light. The shape. I remember the color." His hand moved a little against hers. "It's not the same as seeing it." ᴹ
+
+She watched the water come in again and told him where it changed. He watched the brightness move with it, listening. The pattern could give her something his eyes would not give him.
+
+He closed his eyes for a moment. Opened them on her face.
 
 "You were beautiful then too," he said. "I spent half the day trying to find things that would make you stay looking at me for another minute." ᴹ
 
@@ -149,7 +159,7 @@ He looked down at her.
 
 "You needed supervision." ʸᵏ
 
-"Who wanted to know which colour I liked today. Who won't let me pretend I didn't hear her coming. Who keeps coming back to my room with things I didn't know I wanted until she's there." ᴹ
+"Who wanted me to choose what I liked today. Who won't let me pretend I didn't hear her coming. Who keeps coming back to my room with things I didn't know I wanted until she's there." ᴹ
 
 She had been going to make another joke. It would have been easy, and he would have let her. She stayed quiet instead.
 

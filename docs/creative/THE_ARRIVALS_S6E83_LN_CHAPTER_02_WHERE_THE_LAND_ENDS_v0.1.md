@@ -261,13 +261,15 @@ Beside him Yuka was asking whether the dark blue fabric would shrink.
 
 Yuka held it up. Mau moved the bag off his shoulder and waited while she decided between two perfectly sensible choices that were apparently entirely different.
 
-"Which?" she asked him. ʸᵏ
+"The blue one's here," she told him, touching its edge. "Or this one. Which do you like?" ʸᵏ
+
+He looked at the two pieces, at the difference in their weight and how they fell against her. He could hold the remembered blue in his mind, but it did not come into the cloth for him.
 
 He answered too slowly.
 
 "Don't pick the one I wore before," she said. "Pick the one you like now." ʸᵏ
 
-He looked again.
+He looked again, then touched the edge she had shown him.
 
 "The blue." ᴹ
 

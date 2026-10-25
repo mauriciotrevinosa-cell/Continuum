@@ -63,7 +63,7 @@ He turned his head on the pillow.
 
 On the floor beside the bed, in the faint coal-light of the turned-down lamp, the dark had gathered. And out of it, slowly, came the top of a helm.
 
-Just the top. Dark iron. Then two small cold blue lights, low, looking up at him over the edge of the shadow like a man looking over a wall.
+Just the top. Dark iron. Then two small cold lights, low, looking up at him over the edge of the shadow like a man looking over a wall.
 
 Mau stopped breathing.
 
@@ -77,7 +77,7 @@ Mau could not say anything for a long moment.
 
 "You remember," he said at last. It came out as barely a whisper. ᴹ
 
-"*We are yours,*" said Igris. "*We remember what you remember of us. We were in the dark room. We were there when the world went black.*" The cold blue lights did not waver. "*And then we were in the dark for a long time.*" ᴵᵍ
+"*We are yours,*" said Igris. "*We remember what you remember of us. We were in the dark room. We were there when the world went black.*" The cold lights did not waver. "*And then we were in the dark for a long time.*" ᴵᵍ
 
 "How long?" ᴹ
 
@@ -85,7 +85,7 @@ Mau could not say anything for a long moment.
 
 Beside the helm, the shadow moved again.
 
-A second head came up. Long black chitin, swept back. Two antennae, laid flat. Two cold blue lights, a little lower than Igris's, a little brighter.
+A second head came up. Long black chitin, swept back. Two antennae, laid flat. Two cold lights, a little lower than Igris's, a little brighter.
 
 "*My King,*" said Beru. ᴮᵉʳᵘ
 
@@ -153,7 +153,7 @@ Mau closed his eyes.
 
 "*And now?*" ᴮᵉʳᵘ
 
-Mau opened his eyes and looked at the two cold blue lights at the edge of his shadow.
+Mau opened his eyes and looked at the two cold lights at the edge of his shadow.
 
 "There isn't a queen, Beru," he said. "Not in this life." He swallowed. "There's Yuka." ᴹ
 
@@ -177,7 +177,7 @@ Something in Mau's chest that had been held tight since the morning let go a lit
 
 Mau looked at him.
 
-"*In you. Close.*" The cold blue lights shifted, as if looking at something none of them could see. "*Not one of us. We can feel her listening.*" ᴵᵍ
+"*In you. Close.*" The cold lights shifted, as if looking at something none of them could see. "*Not one of us. We can feel her listening.*" ᴵᵍ
 
 "Ciel," said Mau. ᴹ
 
@@ -243,7 +243,7 @@ Mau laughed. Quietly. It hurt his ribs.
 
 "*Small king.*" ᴷᵃ
 
-They went. The helm, the antennae, the cold blue lights last, sinking back into the dark under the bed like stones into still water, and the shadow on the floor was only a shadow again.
+They went. The helm, the antennae, the cold lights last, sinking back into the dark under the bed like stones into still water, and the shadow on the floor was only a shadow again.
 
 * * *
 

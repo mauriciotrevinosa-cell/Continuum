@@ -813,3 +813,7 @@ Bloque: 6336 palabras; mediana 2170.
 |14|In Two Timelines|2156|
 
 Bloque: 7819 palabras; mediana 1988.5.
+
+## Corrección posterior de percepción —2026-10-25
+
+El creador revoca únicamente el retorno completo del color descrito en el checkpoint inicial de V35#29. Mau vuelve con las tres memorias, pero sigue viendo el entorno gris y Yuka en color. Lo nota, dice `What the fuck?` y lo comunica privadamente a Ciel. Rimuru pasa a Shoko el aviso privado de Ciel; Gojo no lo da por resuelto al examinar el filtro. Se revisaron también cielo/patio, luces de sombras y detalles del mercado/playa para distinguir memoria, etiquetas, luz y percepción actual. No se eliminan colores de otros puntos de vista ni del pasado original. No capítulos nuevos; se conserva la salida V36#14 y el control de Mahoraga. [Dirección completa](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md).

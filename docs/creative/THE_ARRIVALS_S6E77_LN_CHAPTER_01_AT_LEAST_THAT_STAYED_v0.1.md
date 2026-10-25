@@ -27,7 +27,7 @@ He turned his head.
 
 Yuka was asleep in the chair beside the bed.
 
-Her head had fallen toward one shoulder. A strand of hair lay across her cheek, moving a little with each breath. There was color in her face, warmth he could actually see instead of remembering. Just her, against the gray chair and the gray room. She had changed her shirt. The blanket over her knees had been tucked around the side of the chair to keep it from slipping.
+Her head had fallen toward one shoulder. A strand of hair lay across her cheek, moving a little with each breath. There was color in her face, warmth he could actually see instead of remembering. Just her, against the gray chair and the gray room. She was wearing his McLaren hoodie, one cuff slipping over the hand beside her cheek. The blanket over her knees had been tucked around the side of the chair to keep it from slipping.
 
 The flower at her wrist lay against her hand.
 
@@ -167,7 +167,27 @@ It was such an ordinary gift, recognizing somebody in a room. He could see what 
 
 He nodded.
 
-She took his right hand.
+She took his right hand. The loose cuff brushed his wrist.
+
+"My hoodie," he said. ᴹ
+
+Yuka glanced down, then back at him.
+
+"Granny brought it. Do you want me to—" ʸᵏ
+
+"No." ᴹ
+
+The answer came quickly enough to stop her free hand at the hem.
+
+He remembered that cuff pushed over Frieren's fingers, another morning in a life he had just remembered how to miss. Here it had caught on Yuka's thumb. She was waiting to find out whether she should take it off.
+
+"Keep it," he said, more gently. ᴹ
+
+"Until you're cold." She pulled the cuff back with her teeth, freeing her hand. "Then we can argue." ʸᵏ
+
+His mouth moved at the corner.
+
+She saw it. For a moment the relief was so plain that he had to look at their joined hands.
 
 "Shoko said not to pull you up. Are you in pain? Is the light—" ʸᵏ
 

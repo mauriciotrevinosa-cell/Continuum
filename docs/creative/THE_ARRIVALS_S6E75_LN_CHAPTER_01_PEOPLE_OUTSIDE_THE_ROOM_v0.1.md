@@ -79,11 +79,31 @@ Then Yuta asked which time Shoko wanted the next cloths brought in, and Rimuru a
 
 Mai found Yuka at the back step with her hair still wet from washing.
 
-She had a clean shirt on. Maki had brought it, and Yuka had finally changed after Shoko told her she would be more useful with some sleep and less resentment toward the existence of water.
+She wore Mau's black-and-orange McLaren hoodie. Maki had brought it clean from his things, and Yuka had finally changed after Shoko told her she would be more useful with some sleep and less resentment toward the existence of water. The sleeves came past her knuckles; she had folded them back twice before giving up.
 
-Mai held out a cup.
+Mai looked at the name across her chest, then at the sleeves gathered in her hands.
 
-Yuka took it.
+"Granny brought you that one?" ᴹᵃⁱ
+
+Yuka nodded. She smoothed the front before noticing what she was doing.
+
+"It was in his things. I didn't ask her for it." ʸᵏ
+
+Mai caught the edge of a cuff and turned it back once more. This fold stayed.
+
+"There. Now you can hold something without wearing it afterward." ᴹᵃⁱ
+
+She held out a cup.
+
+Yuka took it, both hands tucked round the warmth.
+
+"He'll want it back," she said after a moment. ʸᵏ
+
+Mai looked toward the clinic door.
+
+"Then he can ask you for it." ᴹᵃⁱ
+
+Yuka looked that way too. She tried to imagine him awake enough to complain about his sleeves, and held on to the little picture until she could look back down at the cup.
 
 "Thanks." ʸᵏ
 

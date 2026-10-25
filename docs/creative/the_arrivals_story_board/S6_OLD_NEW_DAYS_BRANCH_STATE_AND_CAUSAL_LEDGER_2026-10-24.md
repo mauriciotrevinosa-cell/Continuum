@@ -190,3 +190,8 @@ El creador confirma que el Mau original conserva a su Mahoraga ya dominado al re
 ### Límite expreso y siguiente decisión con el creador
 
 DETENERSE después de #26. Aún NO se escriben conversaciones de la casa sin Mau para digerir lo escuchado, decisiones colectivas posteriores, reparación/farewell privados ni una nueva etapa de citas. Esas escenas se planearán con Mauri: él pidió ver primero qué corresponde y que los demás hablen entre ellos sin Mau presente. No marcar ese material como cumplido por las preguntas inmediatas de #23–26 ni convertir esos capítulos en un perdón colectivo. No continuar automáticamente.
+
+
+## Continuidad de vestuario con reacción —2026-10-25
+
+En V35#25 Maki lleva a Yuka la hoodie negra/naranja de McLaren de Mau; Mai la reconoce, acomoda la manga y comparte la expectativa de que él vuelva a pedirla. En V35#29 Mau la reconoce al despertar, recuerda otra vida sin imponérsela a Yuka y le pide que la conserve; ella responde. Préstamo existente, no prenda nueva ni perdón automático. No recuperación del color. [Dirección íntegra y alcance](S6_YUKA_MCLAREN_HOODIE_CREATOR_CORRECTION_2026-10-25.md). Punto narrativo sin avance: V36#26; pausa para planear la digestión posterior.

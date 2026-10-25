@@ -5,7 +5,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#30, Day491 por la tarde, casa y pareja reconciliadas; petición de Tsurugi preparada para el día492. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#33, Day493 por la noche, Tsurugi integrado y desafío terminado; familia reunida, sin avanzar al siguiente arco. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -938,3 +938,35 @@ La [nueva dirección del creador](S6_AFTER_CONFESSION_TSURUGI_AND_PERMANENT_STAT
 |30|The Weight in His Hands|1269|
 
 Bloque: 5261 palabras; mediana 1328.5.
+
+## Checkpoint v36_31_33 — V36#31–33
+
+## Producido — V36#31–33,2026-10-25 — Tsurugi llega y se sienta a la mesa
+
+|Día|Capítulo|Hechos producidos / límites|
+|---|---|---|
+|492mañana–tarde|31 Three Rings|Yuka usa la ÚNICA moneda nuevaDiosa, conM/Yuta/Maki/MAI presentes. Voz pública `You are sure? Tsurugi Okkotsu.`, calor/desaparición, palma rosada; sin metal nombrado. Jinshi abre intake antiguo temporalmente con llave guardada, no vuelve al empleo permanente sin llegadas. Tsurugi llega post-Modulo con anillo/experienciaRika, reencuentro conhermana/abuelos y Mai tiene su espacio. M se aparta parafamilia, Yuka lo presenta como novio/personaamada cuandohermanopregunta. Tres anillos físicos de distintas versiones: Yuta, el traído explícitamente conYuka, Tsurugi. No tres almas ni fusionarlos todos. Se explican mundo/personas sin obligarlo a guardia oduelo; pide quedarse conellos esa noche y tiene cama. No asignar número de habitación/ala inventada ni alterar loft.|
+|493mañana–tarde|32 Witnesses|Después de comida/sueño/morningenfamilia, Tsurugi propone desafío conapuestaderuptura. Yuka protesta, M acepta ganarrespeto, no entregar eleccióndeella alvencedor. Campodespejado, espectadoresfuera, Maki supervisa/parada, herramienta de acero NORMAL delentrenamiento paraT, sin filo delalma. Yuta exige materializar ydejar katana/dagas físicamente fueraalcance: no bonosarmas mientrasnoequipadas. Beru ruega, Igris/Kamishpidenyvan comotestigos; ningunoataca. Ciel prepara micropulso0.0001s, incertidumbreindividual explícita, relayR aShoko/Gojo. M muestra sólo contornovacío, noexponeraotroantesduelo. T tienehabilidadreal, M esquiva/Infinity puntual; exposiciónsuperficial al mismofilo dacortepequeño yruedaaprende. Insulto T aagenciaYuka, click completaadaptaciónacorteobservado; mismofilo ya nocortaese sitio. M establece respeto. No inmunidadatodo, niSoulSplit niinfinito combustible.|
+|493duelo–noche|33 At the Same Table|T usa forma fusionadaRika conocida, reserva deSUanillo por espada yaautorizada, sinCopy/armanueva/otrosanillos. Ataque porlíneavacía. M formaVoidaislado dospersonas, expone0.0001s conreleaseCiel preparado, cierra ydesarma, nobrutaliza. Sólo seobserva respuestaútil tras4–5s deT, no tablauniversal ni garantía deausenciadedaño. T tienecefalea, Shokoexamina yvuelvepreguntarnoche; nosegundointento. Rika pierdegesto concontrolhost; Maki acaba. M entra enburnoutcopias: Infinitynoresponde, peropuntospermanentes NO seapagan; cogeaT sinarmasantescaiga. T reconoce derrota/disculpaaYuka yexpresa desorientacióndellegarconlugaresyaocupados; Yukaafirma quesu lugar dehermano no dependedepegar. M ofrecepreguntas/saludo; no apuestaqueanulepareja. Beru secontiene, Igris/Kamishlohacenmirartambiénelcuidado. Testigosguardados, armasdevueltas/almacenadas, cenafamilia conMai, Yuka/Mse danmano enpúblico. FINDEL ALCANCEactual, sinarcoexterior nuevo.|
+
+### Estado de salida que gobierna
+
+- **Punto:**V36#33 / S6E94CH01, Day493noche. Borradorproducido para lector, no aprobación automática delcreador ni cierre deS6. La casa digirió1–2días y reafirmó queM esquerido. Yukaeligecontinuar yM laama; conflicto secreto conYuta/Maki/Mai reparado en29. No conservar desenlace“casaasustadasefractura” deplanespropuestos.
+- **Nueva llegada:** TsurugiOkkotsu presente enmainhouse desde492tarde; hermanoYuka, nietoYuta/Maki, conocenMai; decidequedarse esa noche. Cama preparada, ala/cuarto concreto aún nofijado. Intake antiguo sólo fueabierto paraactualarrival; Jinshi no pasaotra vezdíasallíesperandogente.
+- **Moneda:**la nuevaDiosa fuegastada porYuka en31. YA NOenbolsillo/coat, ya noofrecerTsurugicomoausente ni prometerotragratuitamente. Otrasmonedas ajenas/sealed intocadas.
+- **Anillos:**3versiones físicas, no unobjeto movido ni tresalmas deOrimoto. T tiene propiaexperienciafusionada; su CE propia reducida no mide reservadeanillo. No cifra inicial de recuperación/source% inventada. Hoja normal deentreno regresaaMaki, no copianRika porverla ni unificarcanales.
+- **Mau / números:**nivel106 /57reservados /Intelligence440. Sin nivelesnuevos,gastodepuntosni curación de secuelas. Puntos sonbase permanentealcorrespondientecampo; NOpuedenapagarse porWindow,burnout, cansancio odecisión. Esfuerzo producefatiga, lesioneslimitanuso, contenerseelige cuántoemplea: no sesustraeatributo.
+- **Dagas:**Dragon'sWrath parS, compra de488noche ya pagada casitodocristalregistradodelcastillo. Bonosataque/velocidad automáticos porEQUIPO comprobados30, sincondicionesextra. Alquitarlasresta sóloequipo. No nuevascifras pasadas ni conversión universalreservas. FiloTrueDragon esentrada deitemasociada porMaconstrucciónfrenteKamish, no Veldorareal derrotado/propietario. Guardadas al33 sin usarenT. Katana devueltaenvaina conYuta a casa, no pelea/Rika dekatana. Mantenercubierta/repisaeastroom alguardarla, no nuevaentregaDiosa.
+- **Void:**aplicaciónbreve deconstrucciónyaexistente, conCiel timingpreparado yGojoobservación, no nuevoaprendizajefullkit. Exposición0.0001s esmicroduración, NOgarantía2hdetodaformadeinfo/5s/lesióncero. Resultadoindividual observado4–5s, cefaleayseguimiento. Despuésburnoutcopiaspreestablecido, no digaqueMrecuperóInfinity/Purple oque su físico volvióaatributosviejos. No otraexposiciónalacasa.
+- **Rueda:**aprendióafilodeacero expuestoencorte superficial, no SoulSplit, no copia deinmunidadabsolutaatodoRika oarsenalT. CortepequeñorevisadoShoko, noseborrancicatricesantiguas, dedosrígidos/borrosizquierda/grisexceptoYuka persisten.
+- **Sombras:**15nombradasinclMuster+98soldados, noextracts/XP. Beru/Igris/Kamishsólotestigos invocados yguardados. Mahoraga propioNOcombatió,nuevo ritual noocurre. Costedellamadas enreservapropia, noheartinfinito; accesosseparados.
+- **Privacidad:**Ciel sóloenM/R, relataRplanesconsentidos. Noimágenesoriginalestransferidas; Yuka confidenciamédica no pública; cuentoalafamilia no darecuerdos vividos. Ori/Fmadrehija compásrespetados. AmorFamemoriadeMsinpedirnuevaromanceaF/B. SegundaobligaciónDiosa aúnindefinida/no pagada.
+- **Siguiente:**parar aquí y escucharquéquiereelcreador. No inventarnuevaarenagate, secta,summons adicionales, ejército invasor o ruptura como cliffhanger.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|31|Three Rings|1352|
+|32|Witnesses|1440|
+|33|At the Same Table|1775|
+
+Bloque: 4567 palabras; mediana 1440.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 36
 **Season:** 6
-**Coverage:** S6E78–S6E92
+**Coverage:** S6E78–S6E94
 **Volume title:** **Both Lives**
-**Chapter files:** 30
+**Chapter files:** 33
 
 Continues from Volume 35 (Day479, the original Mau lucid with three sets of memories). Plan: [S6_V36_PLAN_2026-10-24.md](the_arrivals_story_board/S6_V36_PLAN_2026-10-24.md).
 
@@ -43,3 +43,6 @@ Continues from Volume 35 (Day479, the original Mau lucid with three sets of memo
 | 28 | S6E91 | I'm Staying | `THE_ARRIVALS_S6E91_LN_CHAPTER_02_I_M_STAYING_v0.1.md` |
 | 29 | S6E92 | What She Wanted | `THE_ARRIVALS_S6E92_LN_CHAPTER_01_WHAT_SHE_WANTED_v0.1.md` |
 | 30 | S6E92 | The Weight in His Hands | `THE_ARRIVALS_S6E92_LN_CHAPTER_02_THE_WEIGHT_IN_HIS_HANDS_v0.1.md` |
+| 31 | S6E93 | Three Rings | `THE_ARRIVALS_S6E93_LN_CHAPTER_01_THREE_RINGS_v0.1.md` |
+| 32 | S6E93 | Witnesses | `THE_ARRIVALS_S6E93_LN_CHAPTER_02_WITNESSES_v0.1.md` |
+| 33 | S6E94 | At the Same Table | `THE_ARRIVALS_S6E94_LN_CHAPTER_01_AT_THE_SAME_TABLE_v0.1.md` |

@@ -3,7 +3,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-> **Checkpoint S6 actual —2026-10-22:** V36#30, Day491 por la tarde, casa y pareja reconciliadas; petición de Tsurugi preparada para el día492. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
+> **Checkpoint S6 actual —2026-10-22:** V36#33, Day493 por la noche, Tsurugi integrado y desafío terminado; familia reunida, sin avanzar al siguiente arco. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
 
 > **V31 current checkpoint:** Day291evening, chapter24; [exactstate](S5_V31_PRODUCTION_RECORD_2026-10-17.md), REL-S5-035–040. FullMau-dayR20paidDay290, Coco/motherbinding/Momoowncompany/bothweeklygatheringsshown. Tower1–3done, Level5/twentypoints/twostoredfinite; dateR16nextDay292. Olderentrynoticesarehistory.
 
@@ -407,3 +407,12 @@ Only the new produced volume supersedes the former planning-only state. The S4 s
 ## Mau — actualización perceptiva vigente,2026-10-25
 
 Después del regreso original en V35#29, el entorno sigue gris para él y Yuka continúa en color. Recupera recuerdos, ojos físicos azules y secuelas, pero no la percepción cromática completa; causa sin fijar. Ciel recibe el aviso privado y lo pasa por Rimuru para comunicar a Shoko el síntoma persistente. No es ceguera ni cura por usar el filtro o crear luz. [Dirección completa y alcance](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md). Relaciones, habitaciones y punto producido V36#14 sin cambios.
+
+
+## Nueva rama / actualización tras V36#33 —2026-10-25
+
+El snapshot S4 de este archivo permanece histórico. [Estado completo actual, relaciones y objetos](S6_V36_PRODUCTION_STATE_2026-10-24.md) gobierna después de las escenas nuevas.
+
+- **Tsurugi Okkotsu:** llegó Day492 por petición de Yuka con la única moneda nueva de la Diosa; moneda gastada. Post-Modulo, hermano deYuka, nieto deYuta/Maki, conoce aMai; cama preparada enmainhouse sin ala/número nuevo. Pide quedarse con familia. No guardia obligatoria ni admisión ganada al pelear. Anillo suyo y formaRika conocidos, sinCopy automático ni tres almas por tres anillos. Source% inicial sin medir, no cifra inventada.
+- **Yuka / Mau / Yuta / Maki / Mai:** charla490noche repara enfado por el secreto, reconoce decisión presente deYuka y amistad conM. Desafío493 nace desorientación/arrogancia deT, no aprobación pendiente deYuta/Maki ni ruptura de casa. Tras perder T se disculpa conhermana; relación sigue elegida porYuka, no premio alvencedor. Familia cena junta al33.
+- **Mau:** atributos de puntos PERMANENTES, sin interruptor. Dagasequipadas añadenATK/velocidad automáticamente, dejarlas retira sóloequipo. Duelo sin dagas/katana; Voidbreve produceburnoutCT, no apaga cuerpo. Tres sombras sólotestigos. GrisexceptoYuka/secuelas/heridasantiguas/57reservados siguen. No nuevoarcoautorizado másallá deeste cierre.

@@ -70,3 +70,7 @@ El creador pide marcas más pequeñas y a la derecha/al final del diálogo, sól
 ## Voz incidental nueva — V36#12,2026-10-24
 
 Vendedora costera sin nombre: `Sel`, representación pequeña `ˢᵉˡ`. No esSeiko, Seika ni una identidad misteriosa; sólo atribuye una intervención comercial local. No se alteran marcas previas.
+
+## Nueva voz — Tsurugi, V36#31,2026-10-25
+
+Tsurugi Okkotsu: `Ts`, representación `ᵀˢ`. Distinto deTaihei(T), Tusk(Tu), Touka(Tk). Jinshi conservaJ `ᴶ`, BocchiB `ᴮ`, KitaKt `ᴷᵗ`; ajuste de uniformidad sólo en capítulos nuevos27/30 de este encargo, no conversión retrospectiva de novelas antiguas. La marca no lo hace conocer loque no escuchó ni convierte Rika en otra alma.

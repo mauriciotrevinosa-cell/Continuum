@@ -181,13 +181,13 @@ They worked for a little while without asking him to explain another life.
 
 At the doorway Bocchi appeared with a pick held so tightly between finger and thumb that he could see the little pale place it made.
 
-"The bit," she said. "If you still want to try it." ᴮᵒ
+"The bit," she said. "If you still want to try it." ᴮ
 
 He looked up.
 
 "I do." ᴹ
 
-"Later. When you're done." ᴮᵒ
+"Later. When you're done." ᴮ
 
 Ram took the cloth from him.
 

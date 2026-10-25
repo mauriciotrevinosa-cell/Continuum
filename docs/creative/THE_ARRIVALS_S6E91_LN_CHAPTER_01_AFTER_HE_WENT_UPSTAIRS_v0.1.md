@@ -75,7 +75,7 @@ Across the table Bocchi had her hands tucked beneath her thighs. Kita moved her 
 
 Bocchi spoke anyway.
 
-"Was he thinking we wouldn't want him here?" ᴮᵒ
+"Was he thinking we wouldn't want him here?" ᴮ
 
 Nobody had a quick answer which felt fair to him.
 
@@ -83,17 +83,17 @@ Nobody had a quick answer which felt fair to him.
 
 Bocchi looked down at his empty chair.
 
-"I still want to play the song with him." ᴮᵒ
+"I still want to play the song with him." ᴮ
 
 It was such an ordinary thing to bring into that room that several people turned toward her.
 
 She went red.
 
-"Not tonight. I mean—he was learning the bit. Before. I don't want him to think that's gone." ᴮᵒ
+"Not tonight. I mean—he was learning the bit. Before. I don't want him to think that's gone." ᴮ
 
 Kita took her hand out from under her leg and held it.
 
-"Then tell him tomorrow," she said. ᴷⁱ
+"Then tell him tomorrow," she said. ᴷᵗ
 
 * * *
 

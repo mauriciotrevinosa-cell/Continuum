@@ -2156,3 +2156,7 @@ Nuevo permiso del creador: tres o cuatro capítulos de transición y seguir hast
 ### DH-135 continuación — V36#27–30, checkpoint v36_27_30 (2026-10-25)
 
 Dirección nueva del creador: la casa comprende y reafirma amor en uno o dos días; Yuka elige quedarse, charla con Yuta/Maki/Mai y reconciliación por secreto. Producidos V36#27–30, con dagas de bonos automáticos y puntos permanentes; petición Tsurugi preparada, moneda sin gastar. Autoriza continuar llegada/desafío, no otro arco. Documento S6_AFTER_CONFESSION_TSURUGI_AND_PERMANENT_STATS_CREATOR_DIRECTION_2026-10-25 gobierna sobre pausa previa.
+
+### DH-135 continuación — V36#31–33, checkpoint v36_31_33 (2026-10-25)
+
+Creador autoriza digestión familiar cálida, Yuka reafirmaamor, reconciliación y llegadaTsurugi/desafío. Producidos31–33, gastada moneda existente, tres anillos diferenciados, ruedaaprendizaje específico y micropulsoVoid con seguimiento. Puntos permanentes no se apagan con burnout; armas fuera y sombras testigos. Parar en33 antes de nuevoarco. Registro de relación/objetos/conocimiento actualizado.

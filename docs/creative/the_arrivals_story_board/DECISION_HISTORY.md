@@ -2144,3 +2144,7 @@ El creador sustituye la recuperación de color de V35#29: «oye mejor cambia que
 ### DH-135 continuación — V36#15–17, checkpoint v36_15_17 (2026-10-25)
 
 Nuevo permiso del creador: tres o cuatro capítulos de transición y seguir hasta terminar la confesión; las conversaciones posteriores de casa sinM se planearán después. Producidos V36#15–17. Moneda nueva existente ligada a promesaTsurugi sin duplicarla; katana existente no recreada. Percepción gris, Ciel privada, Mahoraga propio, memoria de las sombras y consecuencias relacionales preservadas.
+
+### DH-135 continuación — V36#18–22, checkpoint v36_18_22 (2026-10-25)
+
+Nuevo permiso del creador: tres o cuatro capítulos de transición y seguir hasta terminar la confesión; las conversaciones posteriores de casa sinM se planearán después. Producidos V36#18–22. Moneda nueva existente ligada a promesaTsurugi sin duplicarla; katana existente no recreada. Percepción gris, Ciel privada, Mahoraga propio, memoria de las sombras y consecuencias relacionales preservadas.

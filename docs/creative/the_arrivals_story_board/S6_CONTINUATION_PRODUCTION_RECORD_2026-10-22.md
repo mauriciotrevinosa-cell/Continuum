@@ -5,7 +5,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#17, Day488 por la tarde, Mau cruza la gate después de tres capítulos de transición; confesión aún pendiente. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#22, Day489 por la mañana, ejército y compra de dagas ya ocurridos; Mau prepara la confesión de esa tarde. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -839,3 +839,29 @@ El creador revoca únicamente el retorno completo del color descrito en el check
 |17|Somewhere Quiet|1381|
 
 Bloque: 4551 palabras; mediana 1483.
+
+## Checkpoint v36_18_22 — V36#18–22
+
+## Producido — V36#18–22,2026-10-25
+
+|Día|Capítulo|Hechos / conocimiento / límites|
+|---|---|---|
+|488tarde|18When the Lights Came On|Ciel avisa aR al cortarse enlaceM; R corre, Anko avisaShoko. Cuatro guardianes permitenR, noagresión. Castillo oscuro se ilumina: cabeza/columna en techo, cuerpo molido enpilar, restosfabricados. Nada depelea narrada ni civilesmuertos. R intenta sellointerioractivo, no puedepasarlo como parednormal. Su relay/sensory exchange conCiel también queda inaccesible dentro; no omniscienciaCiel. Sale por reacción visceral a buscar ayuda.|
+|488tarde–atardecer|19Beru|Beru habla antegrupo y lagrimeaorgulloso, Igris/Kamish lo paran; Kamish dice pequeño monarcanecesitaR, monstruosfabricados. R/Igris mandanmensajes ytratanllegar, Gojo examinaframe, no grupoimpotente anteM ni guardiasatacándolos. Anko organiza cargas, Shoko atención, Yuta/Maki ayudan, Yuka recibeinformación, F llevaOri a casa. Doshoras deproceso exterior, no espera inmóvil. Igris informaClear, una nueva sombra ypermiso/llamadaR; Ciel repiteeseaviso comunicado, no lo vio por enlace.|
+|488dusk|20The Shoulder|R entra con sellointeriorabierto, altar/moldesagotados. SóloMuster nuevo, no legióndeinvocadosfabricados. M no responde inicialmente; R anunciaaproximación/toca hombro, M casi desenvaina contraél pero se detiene sinherir. Llora/disculpas/promesa100pisos queR/B no recuerda. R ayudaasentarse/salirantesinterrogar. Ciel reconecta umbral, respondeM y describe agotamiento distinto defiebre; RrelayaShoko. Heridasmenores limpias; manos/ojos viejos no curados.|
+|488noche|21The Fort Is Warm|Yuta trae shirtcuffancha, Shoko limpiaantesentrada. M guarda Igris/Beru/Kamish yMahoraga separados, Musteralmacenado; sin guardianesbloqueandofamilia. Se duerme ensalaintentandocontar, examen/Ciel indican sueñoagotamiento no repetirconvergencia. Fort grande existentealnorte, variaspersonasvigilando yYukaacompaña sincuidadoraúnica. Cargaregistradaafuera; castilloinstanciagotada, framenormalconservado. Compraaccidental dormido enShopnuevaowner, dosdagasaparecen. Ciel intenta despertarlo, no compraella; despiertoStore, nadiecortado, no sabeaúncompra.|
+|489mañana|22The Receipt|Anko/Nazuna reportaron desaparición lotes esa noche de inmediato, correlacionada conarmas. ReciboactualconsentidoCiel confirma Dragon's Wrath(par),S, pagadasconcasitodovalorcristales deesta gate enescrow aceptado alClear; no casa/coin. Materialmuestrasfueraescrow permanece, preciofísicoobservable noarbitrario. SóloAparecer/Guardar probados, bonusesno.106/57/440invariados; reconstruccionesrepetidas noXPnuevo.15nombradosinclMuster,98soldados; techo40retirado explícitamenteenpáginanueva, nofuelinfinito. Musternecesitamaterial/reservapropia, noaltar/castillo/currencyfarm. M eligeconfesióntarde489, duerme/comeantes. Habla conF sobreinclusiónseguraOri, sinconfesiónpública todavía.|
+
+**Estado actual:** Day489mañana, Fort, después de22. Ya ocurrió ejército y compra, confesiónpendiente. Yuka custodia moneda deDiosa paraTsurugi, sin gastarla. Yuta tomó katana deIgris paraentrada; no se ha usado contraR ni entregado porDiosa de nuevo. Dagas eninventariopersonalM, no debajodelalmohadón. M estáagotado/cuidado, norecuperacióninstantánea, percepción gris persiste salvoYuka.
+
+**Próximo trabajo:** terminar confesión antecasa en lateafternoon489, conOri oyendo sólo parteapropiada y luego protecciónF. Diosa audible, error/doscorazones/deudasegunda, responsabilidadelecciónM frente negativaR/Cieloriginal, sinrevelar cáncer niimponerpromesafamiliaA. Detenerescrituracuandoacabe. No desarrollarconversacionesposteriores sinM: seplaneanconcreador después.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|18|When the Lights Came On|1536|
+|19|Beru|1556|
+|20|The Shoulder|1591|
+|21|The Fort Is Warm|1598|
+|22|The Receipt|1484|
+
+Bloque: 7765 palabras; mediana 1556.

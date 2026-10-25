@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 36
 **Season:** 6
-**Coverage:** S6E78–S6E86
+**Coverage:** S6E78–S6E88
 **Volume title:** **Both Lives**
-**Chapter files:** 17
+**Chapter files:** 22
 
 Continues from Volume 35 (Day479, the original Mau lucid with three sets of memories). Plan: [S6_V36_PLAN_2026-10-24.md](the_arrivals_story_board/S6_V36_PLAN_2026-10-24.md).
 
@@ -30,3 +30,8 @@ Continues from Volume 35 (Day479, the original Mau lucid with three sets of memo
 | 15 | S6E85 | The Warm One | `THE_ARRIVALS_S6E85_LN_CHAPTER_01_THE_WARM_ONE_v0.1.md` |
 | 16 | S6E85 | What the Numbers Do | `THE_ARRIVALS_S6E85_LN_CHAPTER_02_WHAT_THE_NUMBERS_DO_v0.1.md` |
 | 17 | S6E86 | Somewhere Quiet | `THE_ARRIVALS_S6E86_LN_CHAPTER_01_SOMEWHERE_QUIET_v0.1.md` |
+| 18 | S6E86 | When the Lights Came On | `THE_ARRIVALS_S6E86_LN_CHAPTER_02_WHEN_THE_LIGHTS_CAME_ON_v0.1.md` |
+| 19 | S6E87 | Beru | `THE_ARRIVALS_S6E87_LN_CHAPTER_01_BERU_v0.1.md` |
+| 20 | S6E87 | The Shoulder | `THE_ARRIVALS_S6E87_LN_CHAPTER_02_THE_SHOULDER_v0.1.md` |
+| 21 | S6E88 | The Fort Is Warm | `THE_ARRIVALS_S6E88_LN_CHAPTER_01_THE_FORT_IS_WARM_v0.1.md` |
+| 22 | S6E88 | The Receipt | `THE_ARRIVALS_S6E88_LN_CHAPTER_02_THE_RECEIPT_v0.1.md` |

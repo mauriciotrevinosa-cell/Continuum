@@ -2140,3 +2140,7 @@ Continuación autoriza escenas vividas y expansión sobre las filas propuestas d
 ### DH-135 continuación — persistencia del gris tras el retorno original (2026-10-25)
 
 El creador sustituye la recuperación de color de V35#29: «oye mejor cambia que se le quede el daltonismo que no lo recupere los colores y mau diga de que pedo». Revisión localizada del despertar y consecuencias en V36, sin capítulos nuevos. Yuka conserva su excepción previa; sin causa clínica/mágica impuesta. Recordar colores, ver brillo y producir luz no equivale a percibir sus tonos. [Mensaje, aplicación y límites](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md).
+
+### DH-135 continuación — V36#15–17, checkpoint v36_15_17 (2026-10-25)
+
+Nuevo permiso del creador: tres o cuatro capítulos de transición y seguir hasta terminar la confesión; las conversaciones posteriores de casa sinM se planearán después. Producidos V36#15–17. Moneda nueva existente ligada a promesaTsurugi sin duplicarla; katana existente no recreada. Percepción gris, Ciel privada, Mahoraga propio, memoria de las sombras y consecuencias relacionales preservadas.

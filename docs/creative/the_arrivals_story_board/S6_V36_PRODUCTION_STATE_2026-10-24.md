@@ -2,7 +2,7 @@
 
 > **Dirección vigente,2026-10-25 — percepción del color:** el regreso original NO devuelve los colores a Mau. Yuka sigue como excepción. [Mensaje íntegro, alcance y corrección de prosa](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md). Las menciones históricas de recuperación del color quedan sustituidas sólo en ese punto.
 
-**Actualización:**2026-10-24, V36#14. **Estado:** borrador producido, no aprobación del creador. Continúa después de los siete capítulos de Claude sin modificarlos. [Dirección vigente y verificación del punto de relevo](S6_V36_PACING_AND_CREATOR_CONTINUATION_2026-10-24.md).
+**Actualización:**2026-10-25, V36#17. **Estado:** borrador producido; no aprobación del creador. El checkpoint más reciente al final gobierna sobre los estados históricos anteriores.
 
 ## Producido por Claude —1–7
 
@@ -78,3 +78,15 @@ Mensajes íntegros, en orden:
 - No inferir adaptación universal, fusión de reservas, inmunidad de Mau ni curación de sus secuelas por el simple hecho de invocarlo. Su presencia debe verse antes de usarse para justificar un efecto.
 
 Esta entrada actualiza la planificación. La escena aún no se ha escrito; el punto producido permanece en V36#14, Day485 por la noche. No se modifica ningún capítulo anterior.
+
+## Producido — V36#15–17,2026-10-25
+
+|Día|Capítulo|Estado que continúa|
+|---|---|---|
+|486|15The Warm One|M/Yuka/Umaru/Bocchi conviven y escuchan guitarra. M saca del cajón la única moneda nueva deDiosa y la ofrece aYuka paraTsurugi, explicando que recuerda ofrecer ayuda enA. Ella acepta custodia, envuelta en tela dentro de su abrigo, quiere hablar conYuta/Maki antes de pedir y respeta decisión del hermano. No moneda gastada ni llegada. Noche: pánico, dos vidas reales/implantación reconocida; Ciel avisa aR con permiso y R baja del loft.|
+|487|16What the Numbers Do|Sesión física supervisada R/Shoko/Gojo/Umaru/Yuta. Window106/57/440 sin gasto. Nueva línea Physical application:reconciled, uso deliberado incrementa fuerza física de forma observable sin refuerzoCE; coste diferido/atención/cuerpo y parada, no curación. Ciel ve página con consentimiento, no recuerdos. Origen sin confirmar. M recupera físicamente de clínica katana sheathed; la guarda en repisa dormitorioeste, no nueva devoluciónDiosa.|
+|488|17Somewhere Quiet|Lino conRem/Ram, F/Ori continúan su vida; expectativa de otra pareja provoca dolor sinculpaF/B. Pánico antearmario, M posterga explicación y sale con katana. Ciel relaya lugar aR antesdel corte. Invoca tres sombras registradas y Mahoraga dominado como guardianes exteriores, ordennoagresión/apartarpaso y Rpermitido. Cartel:exteriorabierto/interiorselladoaldesafío. Cruza, pierdevozCiel, compruebaellaesperaafuera y aun pudiendovolver eligeiradentro. Lucha no mostrada.|
+
+**Punto actual:** salida de17, Day488tarde, dentro del umbral, antes de mostrar el castillo con Rimuru. Sólo tres capítulos nuevos de transición, no quince. La moneda está conYuka; la katana viaja conM. Beru todavía no habló ante el grupo de esta rama; Mahoraga no aumenta14/40. No nueva sombra, dagas ni confesión todavía.
+
+**Siguiente trabajo autorizado:** castillo/army fuera de campo, Rimuru y casa actuando, extracción/coste/agotamiento, Fort/compra accidental, confesión conDiosa. El siguiente bloque posterior a la confesión NO se escribe hasta planearlo con el creador.

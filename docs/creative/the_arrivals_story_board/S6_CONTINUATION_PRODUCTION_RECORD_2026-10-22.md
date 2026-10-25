@@ -5,7 +5,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#14, Day485 por la noche, regreso costero dentro del horario acordado y Yuka presente por elección propia. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#17, Day488 por la tarde, Mau cruza la gate después de tres capítulos de transición; confesión aún pendiente. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -817,3 +817,25 @@ Bloque: 7819 palabras; mediana 1988.5.
 ## Corrección posterior de percepción —2026-10-25
 
 El creador revoca únicamente el retorno completo del color descrito en el checkpoint inicial de V35#29. Mau vuelve con las tres memorias, pero sigue viendo el entorno gris y Yuka en color. Lo nota, dice `What the fuck?` y lo comunica privadamente a Ciel. Rimuru pasa a Shoko el aviso privado de Ciel; Gojo no lo da por resuelto al examinar el filtro. Se revisaron también cielo/patio, luces de sombras y detalles del mercado/playa para distinguir memoria, etiquetas, luz y percepción actual. No se eliminan colores de otros puntos de vista ni del pasado original. No capítulos nuevos; se conserva la salida V36#14 y el control de Mahoraga. [Dirección completa](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md).
+
+## Checkpoint v36_15_17 — V36#15–17
+
+## Producido — V36#15–17,2026-10-25
+
+|Día|Capítulo|Estado que continúa|
+|---|---|---|
+|486|15The Warm One|M/Yuka/Umaru/Bocchi conviven y escuchan guitarra. M saca del cajón la única moneda nueva deDiosa y la ofrece aYuka paraTsurugi, explicando que recuerda ofrecer ayuda enA. Ella acepta custodia, envuelta en tela dentro de su abrigo, quiere hablar conYuta/Maki antes de pedir y respeta decisión del hermano. No moneda gastada ni llegada. Noche: pánico, dos vidas reales/implantación reconocida; Ciel avisa aR con permiso y R baja del loft.|
+|487|16What the Numbers Do|Sesión física supervisada R/Shoko/Gojo/Umaru/Yuta. Window106/57/440 sin gasto. Nueva línea Physical application:reconciled, uso deliberado incrementa fuerza física de forma observable sin refuerzoCE; coste diferido/atención/cuerpo y parada, no curación. Ciel ve página con consentimiento, no recuerdos. Origen sin confirmar. M recupera físicamente de clínica katana sheathed; la guarda en repisa dormitorioeste, no nueva devoluciónDiosa.|
+|488|17Somewhere Quiet|Lino conRem/Ram, F/Ori continúan su vida; expectativa de otra pareja provoca dolor sinculpaF/B. Pánico antearmario, M posterga explicación y sale con katana. Ciel relaya lugar aR antesdel corte. Invoca tres sombras registradas y Mahoraga dominado como guardianes exteriores, ordennoagresión/apartarpaso y Rpermitido. Cartel:exteriorabierto/interiorselladoaldesafío. Cruza, pierdevozCiel, compruebaellaesperaafuera y aun pudiendovolver eligeiradentro. Lucha no mostrada.|
+
+**Punto actual:** salida de17, Day488tarde, dentro del umbral, antes de mostrar el castillo con Rimuru. Sólo tres capítulos nuevos de transición, no quince. La moneda está conYuka; la katana viaja conM. Beru todavía no habló ante el grupo de esta rama; Mahoraga no aumenta14/40. No nueva sombra, dagas ni confesión todavía.
+
+**Siguiente trabajo autorizado:** castillo/army fuera de campo, Rimuru y casa actuando, extracción/coste/agotamiento, Fort/compra accidental, confesión conDiosa. El siguiente bloque posterior a la confesión NO se escribe hasta planearlo con el creador.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|15|The Warm One|1687|
+|16|What the Numbers Do|1483|
+|17|Somewhere Quiet|1381|
+
+Bloque: 4551 palabras; mediana 1483.

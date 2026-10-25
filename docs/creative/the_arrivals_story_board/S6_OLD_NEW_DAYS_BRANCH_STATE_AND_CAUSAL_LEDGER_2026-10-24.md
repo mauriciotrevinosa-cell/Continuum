@@ -135,3 +135,15 @@ Day485regreso puntual de salidaKaisel/costa. Yuka eligepresencia/beso, sabe roma
 ## Aclaración vigente — Mahoraga de Mau,2026-10-24
 
 El creador confirma que el Mau original conserva a su Mahoraga ya dominado al regresar. Sólo Yuka de esta rama carece del logro que hizo en la otra historia. En la futura gate del ejército salen Beru, Kamish, Igris y Mahoraga; no repetir el ritual de Mau ni confundir al shikigami con una nueva extracción de la legión. Se mantiene la entrada permitida para Rimuru y la pelea fuera de campo. [Mensajes íntegros, fuentes y aplicación](S6_V36_PLAN_2026-10-24.md#mahoraga-en-la-gate-del-ejército--aclaración-del-creador2026-10-24). Punto producido aúnV36#14, sin capítulos nuevos por esta anotación.
+
+## Producido — V36#15–17,2026-10-25
+
+|Día|Capítulo|Estado que continúa|
+|---|---|---|
+|486|15The Warm One|M/Yuka/Umaru/Bocchi conviven y escuchan guitarra. M saca del cajón la única moneda nueva deDiosa y la ofrece aYuka paraTsurugi, explicando que recuerda ofrecer ayuda enA. Ella acepta custodia, envuelta en tela dentro de su abrigo, quiere hablar conYuta/Maki antes de pedir y respeta decisión del hermano. No moneda gastada ni llegada. Noche: pánico, dos vidas reales/implantación reconocida; Ciel avisa aR con permiso y R baja del loft.|
+|487|16What the Numbers Do|Sesión física supervisada R/Shoko/Gojo/Umaru/Yuta. Window106/57/440 sin gasto. Nueva línea Physical application:reconciled, uso deliberado incrementa fuerza física de forma observable sin refuerzoCE; coste diferido/atención/cuerpo y parada, no curación. Ciel ve página con consentimiento, no recuerdos. Origen sin confirmar. M recupera físicamente de clínica katana sheathed; la guarda en repisa dormitorioeste, no nueva devoluciónDiosa.|
+|488|17Somewhere Quiet|Lino conRem/Ram, F/Ori continúan su vida; expectativa de otra pareja provoca dolor sinculpaF/B. Pánico antearmario, M posterga explicación y sale con katana. Ciel relaya lugar aR antesdel corte. Invoca tres sombras registradas y Mahoraga dominado como guardianes exteriores, ordennoagresión/apartarpaso y Rpermitido. Cartel:exteriorabierto/interiorselladoaldesafío. Cruza, pierdevozCiel, compruebaellaesperaafuera y aun pudiendovolver eligeiradentro. Lucha no mostrada.|
+
+**Punto actual:** salida de17, Day488tarde, dentro del umbral, antes de mostrar el castillo con Rimuru. Sólo tres capítulos nuevos de transición, no quince. La moneda está conYuka; la katana viaja conM. Beru todavía no habló ante el grupo de esta rama; Mahoraga no aumenta14/40. No nueva sombra, dagas ni confesión todavía.
+
+**Siguiente trabajo autorizado:** castillo/army fuera de campo, Rimuru y casa actuando, extracción/coste/agotamiento, Fort/compra accidental, confesión conDiosa. El siguiente bloque posterior a la confesión NO se escribe hasta planearlo con el creador.

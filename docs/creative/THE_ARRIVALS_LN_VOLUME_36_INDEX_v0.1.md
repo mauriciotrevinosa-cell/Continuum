@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 36
 **Season:** 6
-**Coverage:** S6E78–S6E84
+**Coverage:** S6E78–S6E86
 **Volume title:** **Both Lives**
-**Chapter files:** 14
+**Chapter files:** 17
 
 Continues from Volume 35 (Day479, the original Mau lucid with three sets of memories). Plan: [S6_V36_PLAN_2026-10-24.md](the_arrivals_story_board/S6_V36_PLAN_2026-10-24.md).
 
@@ -27,3 +27,6 @@ Continues from Volume 35 (Day479, the original Mau lucid with three sets of memo
 | 12 | S6E83 | Where the Land Ends | `THE_ARRIVALS_S6E83_LN_CHAPTER_02_WHERE_THE_LAND_ENDS_v0.1.md` |
 | 13 | S6E84 | The Wrong Side of the Castle | `THE_ARRIVALS_S6E84_LN_CHAPTER_01_THE_WRONG_SIDE_OF_THE_CASTLE_v0.1.md` |
 | 14 | S6E84 | In Two Timelines | `THE_ARRIVALS_S6E84_LN_CHAPTER_02_IN_TWO_TIMELINES_v0.1.md` |
+| 15 | S6E85 | The Warm One | `THE_ARRIVALS_S6E85_LN_CHAPTER_01_THE_WARM_ONE_v0.1.md` |
+| 16 | S6E85 | What the Numbers Do | `THE_ARRIVALS_S6E85_LN_CHAPTER_02_WHAT_THE_NUMBERS_DO_v0.1.md` |
+| 17 | S6E86 | Somewhere Quiet | `THE_ARRIVALS_S6E86_LN_CHAPTER_01_SOMEWHERE_QUIET_v0.1.md` |

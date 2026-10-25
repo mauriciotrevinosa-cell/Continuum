@@ -5,7 +5,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#26, Day489 al anochecer, confesión ante la casa terminada; digestión posterior pendiente de planear con el creador. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
+**Actualización:**2026-10-22. **Estado:** LN PRODUCTION DRAFT; verde del creador para escribir, no aprobación final de lectura. **Punto actual:** V36#30, Day491 por la tarde, casa y pareja reconciliadas; petición de Tsurugi preparada para el día492. Se conservan sin editar los capítulos anteriores. [Índice lector V33](../THE_ARRIVALS_LN_VOLUME_33_INDEX_v0.1.md). [Direcciones completas](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md); [mapa flexible](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md).
 
 ## Verde y método
 
@@ -910,3 +910,31 @@ Bloque: 6275 palabras; mediana 1555.0.
 ## Nueva autorización y corrección de puntos —2026-10-25
 
 [Dirección de familia/Tsurugi y regla física permanente](S6_AFTER_CONFESSION_TSURUGI_AND_PERMANENT_STATS_CREATOR_DIRECTION_2026-10-25.md). Sustituye la pausa después de26 dentro de ese alcance. V36#16 corregido: los puntos ya forman el cuerpo, cerrar Window no los apaga ni baja la base. Restricción de esfuerzo/lesiones no equivale a desactivar estadísticas. Historial que hablaba de encender/cerrar aplicación queda sustituido. Prenda McLaren y percepción gris preservadas. Capítulos nuevos todavía no producidos en este checkpoint.
+
+## Checkpoint v36_27_30 — V36#27–30
+
+## Producido — V36#27–30,2026-10-25 — la casa elige acompañar
+
+La [nueva dirección del creador](S6_AFTER_CONFESSION_TSURUGI_AND_PERMANENT_STATS_CREATOR_DIRECTION_2026-10-25.md) gobierna por encima de la pausa histórica después de26. Continuación autorizada hasta llegada de Tsurugi/desafío y cierre familiar; no nuevo arco exterior.
+
+|Día|Capítulo|Hechos y conocimiento|
+|---|---|---|
+|489noche|27 After He Went Upstairs|M decide cenar/descansar en su cuarto este, R/Rem ayudan; no exilio. Casa habla SIN él: años vividos, temor inicial en gate, cómo entender a alguien que eligió familia dos veces. Maki/Mai/Yuta/R/Shoko/Anko, Kaneki y Bocchi tienen voces distintas. F/Fern conservan su propio vínculo y derecho a procesar. Yuka avisa que subirá y cumple. R le asegura explícitamente que vive aquí y es querido; sin perdón mágico o promesa de arreglar todo hoy. No Ciel transmitiendo deliberaciones privadas.|
+|490mañana|28 I'm Staying|Desayuno real, Ori/F siguen madre/hija; fuerza de puntos permanece en tareas cotidianas. Yuka inicia charla privada: admite susto por escala de poder/vidas, pero AMA a M y SE QUEDA. Ella propone seguir conociéndolo, lo abraza y besa por iniciativa propia. M contesta amor sin imponer futuro de YukaA. Confidencia privada: reconoce contar aDiosa sin permiso, ella no pide contenido hoy y retiene derecho a contar su vida. Ciel compañía actual, no fotos originales. Yuka decide hablar con Yuta/Maki/MAI.|
+|490noche|29 What She Wanted|Charla de los cuatro sinM. Yuka asume secreto y expresa elección presente. Tres familiares reconocen amor/cuidado/escucha de M, capacidad de proteger y su carácter, no sólo escala de fuerza. Yuta/Maki/Mai afirman que escogió bien; abrazo. Conflicto del secreto se cierra con palabras y actos, no se conserva como castigo para un arco futuro. Yuka mantiene moneda, acuerdan habitación/comida y llegadaTsurugi con elección informada. Yuta habla directamente conM y reafirma amistad. Moneda aún no usada.|
+|491mañana–tarde|30 The Weight in His Hands|Segundo día de acomodación. Campo con Yuta/R/Shoko/Umaru/Yuka verifica bonos automáticos de ATK y velocidad al equipar Dragon's Wrath parS; sin killcondition, herida, enojo o nuevo pago. Se comprueban comparación a pie y corte sobre offcuts, no persona/dragón. Ficha dice filo capaz de cortar TrueDragon; M recuerda construcción frenteKamish, no Veldora real capturado o muerto. Dejar dagas retira sólo bonos EQUIPO; cerrarWindow NO retira puntos/base. Sin cifras históricas inventadas ni nuevos gastos. M hace tareas conRem/Ram y toca conBocchi/Kita, adapta digitación a dedos todavía rígidos. Yuka confirma petición mañana492, familia preparada, invitaM. No llegada por anticipación.|
+
+**Estado actual:** Day491tarde, casa reunida y ajustándose sin romperse. La casa afirma pertenencia deM; Yuka no huye ni se borra. Desaparece enfado sostenido por secreto de Yuta/Maki/Mai, pero aprender a hablar sigue siendo práctica. No borrar lo que costó llegar a esta reconciliación.
+
+**Recursos / objetos:**106/57reservados/Intelligence440. Puntos PERMANENTES, sin interruptor, descanso no resta atributos. Equipo puede sumarse/restarse por portarlo; bonos de dagas ya observados, no nuevas restricciones. Viejas secuelas/gris permanecen. Dagas en inventario al acabar ensayo; katana en repisa cuartoeste, no usada. Moneda única Diosa sigue conYuka, envuelta, peticiónTsurugi planificada492; no moneda nueva.15nombrados+98soldados; Mahoraga propio acceso distinto; no nuevos upgrades, sombra o gasto. Ciel sóloM/R y relay consentido. Segunda obligación indefinida e intacta.
+
+**Pendiente inmediato autorizado:** recepción conYuka/Yuta/Maki/Mai/M, decisión de Tsurugi y tres anillos diferenciados; darle tiempo de conocer familia antes de desafío. Mau se aparta al principio, Yuka lo presenta como novio. Duelo supervisado, armas deM físicamente a un lado, Beru/Igris/Kamish testigos que no atacan. ReglaYuka decide pareja, no premio de apuesta. Ciel prepara pulso deVoid, sin garantía médica exacta; cerrar técnica implica burnout, no apagar puntos. Final humano; parar antes de inventar arco siguiente.
+
+| Capítulo | Título | Palabras de prosa |
+|---|---|---:|
+|27|After He Went Upstairs|1329|
+|28|I'm Staying|1328|
+|29|What She Wanted|1335|
+|30|The Weight in His Hands|1269|
+
+Bloque: 5261 palabras; mediana 1328.5.

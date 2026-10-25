@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 36
 **Season:** 6
-**Coverage:** S6E78–S6E90
+**Coverage:** S6E78–S6E92
 **Volume title:** **Both Lives**
-**Chapter files:** 26
+**Chapter files:** 30
 
 Continues from Volume 35 (Day479, the original Mau lucid with three sets of memories). Plan: [S6_V36_PLAN_2026-10-24.md](the_arrivals_story_board/S6_V36_PLAN_2026-10-24.md).
 
@@ -39,3 +39,7 @@ Continues from Volume 35 (Day479, the original Mau lucid with three sets of memo
 | 24 | S6E89 | The Answer He Accepted | `THE_ARRIVALS_S6E89_LN_CHAPTER_02_THE_ANSWER_HE_ACCEPTED_v0.1.md` |
 | 25 | S6E90 | Here | `THE_ARRIVALS_S6E90_LN_CHAPTER_01_HERE_v0.1.md` |
 | 26 | S6E90 | What He Owed | `THE_ARRIVALS_S6E90_LN_CHAPTER_02_WHAT_HE_OWED_v0.1.md` |
+| 27 | S6E91 | After He Went Upstairs | `THE_ARRIVALS_S6E91_LN_CHAPTER_01_AFTER_HE_WENT_UPSTAIRS_v0.1.md` |
+| 28 | S6E91 | I'm Staying | `THE_ARRIVALS_S6E91_LN_CHAPTER_02_I_M_STAYING_v0.1.md` |
+| 29 | S6E92 | What She Wanted | `THE_ARRIVALS_S6E92_LN_CHAPTER_01_WHAT_SHE_WANTED_v0.1.md` |
+| 30 | S6E92 | The Weight in His Hands | `THE_ARRIVALS_S6E92_LN_CHAPTER_02_THE_WEIGHT_IN_HIS_HANDS_v0.1.md` |

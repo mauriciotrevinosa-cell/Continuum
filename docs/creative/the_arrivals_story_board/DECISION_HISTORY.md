@@ -2152,3 +2152,7 @@ Nuevo permiso del creador: tres o cuatro capítulos de transición y seguir hast
 ### DH-135 continuación — V36#23–26, checkpoint v36_23_26 (2026-10-25)
 
 Nuevo permiso del creador: tres o cuatro capítulos de transición y seguir hasta terminar la confesión; las conversaciones posteriores de casa sinM se planearán después. Producidos V36#23–26. Moneda nueva existente ligada a promesaTsurugi sin duplicarla; katana existente no recreada. Percepción gris, Ciel privada, Mahoraga propio, memoria de las sombras y consecuencias relacionales preservadas.
+
+### DH-135 continuación — V36#27–30, checkpoint v36_27_30 (2026-10-25)
+
+Dirección nueva del creador: la casa comprende y reafirma amor en uno o dos días; Yuka elige quedarse, charla con Yuta/Maki/Mai y reconciliación por secreto. Producidos V36#27–30, con dagas de bonos automáticos y puntos permanentes; petición Tsurugi preparada, moneda sin gastar. Autoriza continuar llegada/desafío, no otro arco. Documento S6_AFTER_CONFESSION_TSURUGI_AND_PERMANENT_STATS_CREATOR_DIRECTION_2026-10-25 gobierna sobre pausa previa.

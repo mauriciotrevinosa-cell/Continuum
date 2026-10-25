@@ -5,7 +5,7 @@
 **Volume:** 36
 **Reading order:** 16
 **Source episode:** S6E85
-**Continuity state:** Day487, a supervised field session with Shoko/Rimuru/Gojo/Umaru/Yuta. Mau chooses to share the current Window information with Ciel and reads relevant fields aloud; observers do not automatically see his private interface or protected memories. Level106,57 unspent and Intelligence440 unchanged. A new physical-application reconciliation becomes observable: existing allocations produce a markedly greater physical output without CE reinforcement when deliberately engaged. Bounded load/steel tests establish the new heavy-strength class intended by the creator; no imported numerical stat totals, limitless operating fuel, passive Infinity or healing. Mau stops at load/breath/attention warning; deactivating that application reduces output and recovery still takes time. Source of the reconciliation remains uncertain. The Black Heart/legion/shikigami reserves are not merged, named capacity remains40, gray perception and old damage persist
+**Continuity state:** Day487, a supervised field session with Shoko/Rimuru/Gojo/Umaru/Yuta. Mau chooses to share the current Window information with Ciel and reads relevant fields aloud; observers do not automatically see his private interface or protected memories. Level106,57 unspent and Intelligence440 unchanged. A new physical-application reconciliation becomes observable: existing allocations are permanently integrated into his physical baseline, producing markedly greater output without CE reinforcement. Bounded load/steel tests establish the new heavy-strength class intended by the creator; no imported numerical stat totals, limitless operating fuel, passive Infinity or healing. Mau stops at load/breath/attention warning; closing the Window does not reduce his physical baseline; restraint is voluntary control, and exertion still requires recovery. Source of the reconciliation remains uncertain. The Black Heart/legion/shikigami reserves are not merged, named capacity remains40, gray perception and old damage persist
 
 *When: Day487, late morning. The field. Gojo is inspecting a piece of iron with the offended expression of a man who has been given equipment without being consulted about its appearance.*
 
@@ -39,7 +39,7 @@ Under the familiar physical fields was a line he had not seen on the morning he 
 
 *Physical application: reconciled.*
 
-Below it, something could be opened.
+Below it was a record of what had changed. No switch beside it. No instruction for putting his body back the way it had been.
 
 He did not open it immediately.
 
@@ -71,11 +71,11 @@ The first load was ordinary.
 
 It had a rope round it and enough clearance beneath that he would not have to trap his fingers to lift. Yuta had checked the knot. Mau took it in his right hand and raised it a little way from its rest.
 
-Heavy. Familiar. He could do it, but his shoulder knew he was doing it.
+He braced for the familiar weight. It came up too easily. He stopped, checked the knot and the clearance, and looked at Yuta as though somebody might have changed the load.
 
 He put it down.
 
-Then he accepted the small opening beneath the new line.
+Then he opened the record beneath the new line. The change was already in him. Reading it was not what made it happen.
 
 He had expected heat. Or the feeling of CE gathering under his skin, the beginning of something he would have to measure by the pressure behind his eyes.
 
@@ -105,13 +105,11 @@ Not because the small one had become meaningless. Because it had become dangerou
 
 Rimuru did not stand under any of it. Neither did anybody else.
 
-Gojo watched with his eyes uncovered for the first comparisons. Then he covered them again and asked Mau to close the physical application.
+Gojo watched with his eyes uncovered for the first comparisons. Then he covered them again and asked Mau to close the Window.
 
-The next lift demanded his whole shoulder.
+The next lift was just as easy. Mau lowered the load, opened the page again, closed it, and tried once more. Nothing in his body returned to the old limit.
 
-He put it down before the rope dragged against the stiff part of his other hand.
-
-"There," Gojo said. "That's the difference." ᴳ
+"There," Gojo said. "You can stop reading the numbers. You can't stop being the person they describe." ᴳ
 
 "Reinforcement?" Yuta asked. ʸᵗ
 
@@ -119,7 +117,7 @@ He put it down before the rope dragged against the stiff part of his other hand.
 
 "No." ᴹ
 
-*No other outlet opened,* Ciel confirmed privately. *The demand is going through the physical application. It still has a demand.* ᶜ
+*No other outlet opened,* Ciel confirmed privately. *The allocations have become part of your body. You can choose how hard to push. You cannot turn those gains off. Doing work still takes effort.* ᶜ
 
 Mau passed that on.
 
@@ -145,7 +143,7 @@ Yuta passed it hilt-first in the cloth they had wrapped round one end, a thick o
 
 He flexed the right one. The left stayed resting on his knee.
 
-He opened the new application, set his thumb against the iron, and began to press.
+He asked Ciel to keep watching the measurement, set his thumb against the iron, and began to press.
 
 The metal gave.
 
@@ -171,11 +169,11 @@ Gojo picked the piece up. Turned it once, then passed it to Rimuru without a jok
 
 * * *
 
-The warning came after he had closed it.
+The warning came after the last lift.
 
 Not a dramatic thing. He reached for the bottle and found his hand shaking. There was a heaviness under the second rhythm, and the sense that keeping the body so precisely arranged had used something he could not simply refill by drinking water.
 
-Ciel asked him not to open it again today.
+Ciel asked him not to lift anything else today. Rest would not subtract his points or switch off his strength. It would let the body carrying them recover from the work.
 
 He told the others she had asked.
 

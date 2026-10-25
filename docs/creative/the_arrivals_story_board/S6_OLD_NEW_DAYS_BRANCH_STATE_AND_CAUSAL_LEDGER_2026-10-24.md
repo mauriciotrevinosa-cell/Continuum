@@ -195,3 +195,8 @@ DETENERSE después de #26. Aún NO se escriben conversaciones de la casa sin Mau
 ## Continuidad de vestuario con reacción —2026-10-25
 
 En V35#25 Maki lleva a Yuka la hoodie negra/naranja de McLaren de Mau; Mai la reconoce, acomoda la manga y comparte la expectativa de que él vuelva a pedirla. En V35#29 Mau la reconoce al despertar, recuerda otra vida sin imponérsela a Yuka y le pide que la conserve; ella responde. Préstamo existente, no prenda nueva ni perdón automático. No recuperación del color. [Dirección íntegra y alcance](S6_YUKA_MCLAREN_HOODIE_CREATOR_CORRECTION_2026-10-25.md). Punto narrativo sin avance: V36#26; pausa para planear la digestión posterior.
+
+
+## Nueva autorización y corrección de puntos —2026-10-25
+
+[Dirección de familia/Tsurugi y regla física permanente](S6_AFTER_CONFESSION_TSURUGI_AND_PERMANENT_STATS_CREATOR_DIRECTION_2026-10-25.md). Sustituye la pausa después de26 dentro de ese alcance. V36#16 corregido: los puntos ya forman el cuerpo, cerrar Window no los apaga ni baja la base. Restricción de esfuerzo/lesiones no equivale a desactivar estadísticas. Historial que hablaba de encender/cerrar aplicación queda sustituido. Prenda McLaren y percepción gris preservadas. Capítulos nuevos todavía no producidos en este checkpoint.

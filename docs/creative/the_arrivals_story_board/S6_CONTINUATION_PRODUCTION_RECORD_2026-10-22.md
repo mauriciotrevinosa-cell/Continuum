@@ -905,3 +905,8 @@ DETENERSE después de #26. Aún NO se escriben conversaciones de la casa sin Mau
 |26|What He Owed|1698|
 
 Bloque: 6275 palabras; mediana 1555.0.
+
+
+## Nueva autorización y corrección de puntos —2026-10-25
+
+[Dirección de familia/Tsurugi y regla física permanente](S6_AFTER_CONFESSION_TSURUGI_AND_PERMANENT_STATS_CREATOR_DIRECTION_2026-10-25.md). Sustituye la pausa después de26 dentro de ese alcance. V36#16 corregido: los puntos ya forman el cuerpo, cerrar Window no los apaga ni baja la base. Restricción de esfuerzo/lesiones no equivale a desactivar estadísticas. Historial que hablaba de encender/cerrar aplicación queda sustituido. Prenda McLaren y percepción gris preservadas. Capítulos nuevos todavía no producidos en este checkpoint.

@@ -11,6 +11,8 @@ The household's first S7 home/work/adventure cycle has ended; its projects and r
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md) · [V37 exit state](the_arrivals_story_board/S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md) · [Current production state](the_arrivals_story_board/S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md).
 
+[Continue in Volume 39](THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

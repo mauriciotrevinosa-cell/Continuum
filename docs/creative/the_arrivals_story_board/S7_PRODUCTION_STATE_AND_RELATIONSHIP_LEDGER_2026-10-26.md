@@ -1,8 +1,8 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
-> **Límite nuevo del creador:** escribir hasta el19 deYuka; al llegar detener la prosa posterior y presentar el plan para elcumpleMau. Miedo a serunvessel se desarrolla desdeahora. [Instrucción íntegra](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
+> **Estado activo V39#4 — 2026-10-26:** Day746 tras sexto tameYuka; continuo hasta19Yuka808, aún62díasporvivir. [Registro vivo V39](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Los checkpoints conservados abajo son históricos. Límite nuevo: escribir hasta el19 deYuka y consultar cumpleañosMau/resto.
 
-> **Estado activo V38#32 — 2026-10-26:** Day714 noche, V38 completo como borrador y siguiente test enV39 autorizadohasta19Yuka. [Registro vivo V38](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). La tabla y el estado de V37 conservados abajo son su salida histórica, no el presente de V38. S7 continúa; no requiere otro verde.
+> **Límite nuevo del creador:** escribir hasta el19 deYuka; al llegar detener la prosa posterior y presentar el plan para elcumpleMau. Miedo a serunvessel se desarrolla desdeahora. [Instrucción íntegra](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
 
 > **V37 completo como borrador, no S7 completa —2026-10-26:** cierre38/Day542. [Estado compacto de salida y entradaV38](S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md). Continuación ya autorizada; los avisos antiguos de volumen/temporada sin iniciar o detenerse enS6 son históricos.
 

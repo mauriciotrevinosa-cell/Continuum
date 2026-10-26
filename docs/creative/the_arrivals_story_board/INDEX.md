@@ -1,8 +1,8 @@
 # The Arrivals — Story Board Index
 
-> **Límite nuevo del creador:** escribir hasta el19 deYuka; al llegar detener la prosa posterior y presentar el plan para elcumpleMau. Miedo a serunvessel se desarrolla desdeahora. [Instrucción íntegra](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
+> **Producción activa S7 — V39#1–4, 2026-10-26:** V39 abre con dosBlueindependientes y progreso propioYuka, seguido de una noche de terror enMau que aceptaayuda. No se resuelve el significado devessel ni se resetean relaciones. Continúahasta19Yuka. [Índice V39](../THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Producción sólo hasta19Yuka; después decisión delcreador.
 
-> **Producción activa S7 — V38#1–32, 2026-10-26:** Un día completo deMau mantiene sus relaciones vivas, el trabajo de dos canales se plantea conYuka y el concierto deKessoku cierra naturalmenteV38. V39 sigue autorizado sólo hasta el19 deYuka. [Índice V38](../THE_ARRIVALS_LN_VOLUME_38_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). V37 cerrado como borrador; S7 sigue abierta.
+> **Límite nuevo del creador:** escribir hasta el19 deYuka; al llegar detener la prosa posterior y presentar el plan para elcumpleMau. Miedo a serunvessel se desarrolla desdeahora. [Instrucción íntegra](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
 
 > **V37 completo como borrador, no S7 completa —2026-10-26:** cierre38/Day542. [Estado compacto de salida y entradaV38](S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md). Continuación ya autorizada; los avisos antiguos de volumen/temporada sin iniciar o detenerse enS6 son históricos.
 

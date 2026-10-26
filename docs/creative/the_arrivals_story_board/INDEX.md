@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Producción S7 vigente — checkpoint V37#1–10, 2026-10-26:** Fort completo; outing/prioridades/contrato temprano; primeros exploradores, viñeta Bocchi, cita tras una semana y respuesta inicial deHollis. Los bloques de subida no fijan duración de arcos. [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md) · [Registro de relaciones, recursos y continuación](S7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.md). S6 intacta. Push deavance, no cierre detrabajo ni volumen terminado.
+
 > **Producción S7 vigente — checkpoint V37#1–6, 2026-10-26:** Fortcompleto; despuésouting, prioridades con lacasa, consultaHollis y nuevo contrato temprano deYukaB con primera prácticaautónoma. [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md) · [Registro de relaciones, recursos y continuación](S7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.md). S6 intacta. Push deavance, no cierre detrabajo ni volumen terminado.
 
 > **Checkpoint S7 vigente, 2026-10-26:** **V37#1–3, Day496, guerra del Fort completa como borrador**: mañana/reglas/construcción, batalla teatral y triunfoUmaru/Ori, dulces/cena y prisioneroMau conYuka bajo estrellas cerca de la casa. [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md) · [Estado y consecuencias](S7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.md). Próximo4: outing/prioridades y contrato temprano conforme alplan aceptado. Volumen y temporada siguen en producción; no aprobación automática. S6 y1258capítulos previos intactos.

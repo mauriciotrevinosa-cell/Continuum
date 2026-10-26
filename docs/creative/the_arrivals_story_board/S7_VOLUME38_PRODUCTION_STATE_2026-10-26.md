@@ -26,10 +26,25 @@
 | 18 | S7E28 CH02 | Day580 tarde | Ilen recibió paño/reporte/semillas ycontesta;segunda cutter aceptada precio/espera empieza taller. Yuka nota retirada,Mauadmite recuerdos no contenidoexacto. |
 | 19 | S7E29 CH01 | Day588 día | Rimuru/Jinshi/Hollis citaformal local,Mauqueda. Trespuestos aceptanvisitasanunciadas, no país. Inquiry blade,segundagate reporte indirecto separado. |
 | 20 | S7E29 CH02 | Day596 mañana–tarde | Yukapidedominio,expertosdescomponenpasos;inspecciónconsentida acotada conparada probada. Mauprimerconstrucciónpersonal falla unión;noDEregaladoYuka. |
+| 21 | S7E30 CH01 | Day605 | Yuka elige tameToad sinMau enritual/loanBlue, Rabbit/Dogpropios+rope. Recallindependiente4familias, primeracargadebagdemasiadorápida;nohumanotodavía. |
+| 22 | S7E30 CH02 | Day614 | Mauframework pequeño6cuentas estable,compatibilidadmapaYuka ajustadaporsucontrol,inspecciónstop. EllaabreprimeraextensiónsinDE. Maumemoriaretira, Gojo/Rimuruacompañan. |
+| 23 | S7E31 CH01 | Day625 tarde | YukaBcuentacancerhistóricovoluntariamente, resueltopreextracción igualfuente. Maupregunta/escucha sincompletarla,noarchivopúblico/nuevacura. Guardaelecciónpresente. |
+| 24 | S7E31 CH02 | Day625 noche | Conversanfamilia/hijosfuturos,promesaA reconocidanobindingB. FertilidadMau desconocida,nopregnancia. Yutaoye nombres hipotéticos yprotestacómicamente,comprendeelección. |
+| 25 | S7E32 CH01 | Day626 mañana | M/YhablanconvivenciaconMaki/Yuta/Mai/Rimuru. LoftesdeRimuru,condiciónpermanecer;élpersonanovigilanciainstrumental. Yukaeligeesperarprivacidad,ningunamudanza. |
 
 ## Estado actual
 
-**Presente:** V38#20/Day596. 153días desde443;todavía noseismeses. Continuarhasta19Yuka (808 bajo365), luego detenerprosa ypresentar plan cumpleMau porinstrucciónnueva. [Mensajeíntegro/límite](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
+**Actual:** V38#25/Day626,183díasdesde443,seismesesaprox. Stopprosaal19Yuka808ypresentarplanMau;novolverautorizaciónmásampliahistórica.
+
+Mau109/72held/Int440,legión16+123=139,Mahoragaaparte,objetos/cristalesigual570. Yuka4familiasahora Dogs/Rabbit/Nue/Toad;21nuevotameindependientesinMauayuda/loan,recallsola. Toadcarrybagprimeraprueba rápida,personapendiente.Mau22marcopequeñodominioTenShadowsestableunosconteos,notcombate/surehit;Yukarecibiómapausableporconexiónconsentida yrevisiónquenoinsertaejecuciónMau. Primercrecimiento desombrapropia, aúnDEfalla. No archivoMegumideperfecto/sourceDEinventado. Sigueestudio,propiaCEYuka,puntosnoabiertosparareparto.
+
+TraumaMau17/22 realenpresente:frío/desorientaciónmomentáneacuandorecuerdapropósitovessel. No confirmadoheartcall/Ashbornposeedor. CielBsolosabequeesunrecuerdo,norecibióimagen/wordsautomáticamente. Gojo/Rimuru/Yukavieronpausa yrespetaron,ningunodestinoexplicado.18acuerdavisar,Yuka preguntó sierapedircapacidad,sereafirmaqueno. Mantenerestoalpróximoavance,no borrarporporquehubocitas.
+
+YukaB23confíaaMaulahistoriaensuversión:cancer/tumorcerebralmaligno/prognosis6meseshistórica, yadesaparecidopreextracción segúnAfuenteS6E60CH01; no nuevosmecanismoscura/modeloModuloinventado. ConfidenciaprivadaCielnoautolisten/relay,otrosnoaprendenporescenamontada. Ellaeligiócontaralpreguntarpasado,Mauescucha/preguntapresente,nolecompletaelrelato.24ambosquierenpodermirarfamilia/hijossomeday,éladmitepromesaAperoBnoobligada,ningunabiosecuridadnoespeciehumana/fertilidadconfirmada. Yutasólooyehipotéticonombrehijo,novivecancer/revelaciónA,risasyclarificaciónnosexo/nopregnancia.25convivenciaa4familiaresMaki/Yuta/Mai/Rimuru;condiciónRimuruquedaloft,nocámaraquevigilapareja. Eligevoz/propiahabitación;parejaeligeesperarporprivacidadynodesplazarlo. No bolsamovida/cuartoasignado/censocambiado/anillo/wedding. ConflictoYuta/Makinoreset,hablancomofamiliaqueseescucha.
+
+Másestadoheredado,contextualizarfechasnoreset:
+
+**Antecedente histórico596:** V38#20. 153días desde443;todavía noseismeses. Continuarhasta19Yuka (808 bajo365), luego detenerprosa ypresentar plan cumpleMau porinstrucciónnueva. [Mensajeíntegro/límite](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
 
 #17: hachaCdescrito12%demuestra energía alcontacto enpruebas/ausenciaalguardar; porcentajeexactonovalidado,Starkcomienzapracticarbalance. No aumento permanentedelcuerpo. Maurecuerda frasesrealesdelArquitecto,tienefrío/pausa,esmemoria nootraentidadhablando. DiceCielquerecuerda,archivoprivadoApermaneceprivado. Starkacompaña sinextraerconfesión. #18:Yukanotacallarse,élreconocerecuerdos/dificultad pero no palabraexacta ohipótesisdestino. Ellaquisosabersiessuculpa,élquierequeellapida/participe. Acuerdanavisar/cuandoseausenta,nocurartraumaenunacharla.
 
@@ -53,4 +68,4 @@ Cultivos: pequeñoensayo de establecimiento558/563 resultados modestos,cama pequ
 
 ## Continuación
 
-Continuarhacia19Yuka con escenasreales de dominio/tames, seismeses/salud/familia/convivencia, hogar/comercio/cultivos y vínculos intercalados. Pruebasregalo canalLimitless doble requieren desarrolloeficiencia/costocombinado,dosúltimassemanascercanasal808. No adelantarprosa cumpleMau/bendiciónposterior/Monarch; presentarplanalcreador al llegar19. Miedovessel persistecomorecuerdo/malaincógnita sinresolverAshborn;posibleconfesiónconMai/Maki/Yutafuturanohechoantesdel19. Cielnohacecopiade437memorias. Noapresurarhasta808porlímite,escribirbloquesconcheckpointsysiga.
+Seguirantes19 conpuentesescenificados,másvidahogar/cultivos/comercioycrecimiento. Próximaescenapuedecrecerbrigadasporbatallasyrepeticionesregistradas,nopasar139→1000gratis;autorquiere~1000horizontemáslargo. Casascrecerpornecesidaddentroamparo, nounannex4pisosaparecegratis. YukaDEvariaspruebasantesdeconseguirlo,yotros tames decidenconcontexto. Salud/futuro/roomyaocurrieron,no repetirprimeraenV39. Sembrarmiedovessel sinexplicarlo/resolverlo,acuerdodeavisarquandoseausenta. RegaloLimitless doble aúnrequiereprototipos/costodoble/eficiencia;19coincideconunañoprimeramano443,nopersasparceposteriorcumpleMau. Nogastarpuntosporcostummbre,sistemasno fusionadosautomáticos.

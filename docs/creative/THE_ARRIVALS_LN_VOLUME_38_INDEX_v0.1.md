@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 38
 **Season:** 7
-**Coverage:** S7E20–S7E29 (in progress)
+**Coverage:** S7E20–S7E32 (in progress)
 **Volume title:** **The Roads Between** (provisional)
-**Chapter files:** 20
+**Chapter files:** 25
 
 The household's first S7 home/work/adventure cycle has ended; its projects and relationships continue. The first week bridge lands in an ordinary tea and a real delivery, with decisions shown before their results. The story determines chapter and volume length. This volume and S7 remain in progress; production is not automatic creator approval.
 
@@ -35,3 +35,8 @@ The household's first S7 home/work/adventure cycle has ended; its projects and r
 | 18 | S7E28 | The Things That Came Back | `THE_ARRIVALS_S7E28_LN_CHAPTER_02_THE_THINGS_THAT_CAME_BACK_v0.1.md` |
 | 19 | S7E29 | A Letter for the Road | `THE_ARRIVALS_S7E29_LN_CHAPTER_01_A_LETTER_FOR_THE_ROAD_v0.1.md` |
 | 20 | S7E29 | Her Side of the Door | `THE_ARRIVALS_S7E29_LN_CHAPTER_02_HER_SIDE_OF_THE_DOOR_v0.1.md` |
+| 21 | S7E30 | Don't Pull Back | `THE_ARRIVALS_S7E30_LN_CHAPTER_01_DONT_PULL_BACK_v0.1.md` |
+| 22 | S7E30 | A Map Is Not a Room | `THE_ARRIVALS_S7E30_LN_CHAPTER_02_A_MAP_IS_NOT_A_ROOM_v0.1.md` |
+| 23 | S7E31 | Tell Me Again | `THE_ARRIVALS_S7E31_LN_CHAPTER_01_TELL_ME_AGAIN_v0.1.md` |
+| 24 | S7E31 | Someday Is a Word | `THE_ARRIVALS_S7E31_LN_CHAPTER_02_SOMEDAY_IS_A_WORD_v0.1.md` |
+| 25 | S7E32 | Before We Move Anything | `THE_ARRIVALS_S7E32_LN_CHAPTER_01_BEFORE_WE_MOVE_ANYTHING_v0.1.md` |

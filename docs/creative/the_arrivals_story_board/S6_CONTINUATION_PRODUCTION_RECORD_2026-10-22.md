@@ -970,3 +970,8 @@ Bloque: 5261 palabras; mediana 1328.5.
 |33|At the Same Table|1775|
 
 Bloque: 4567 palabras; mediana 1440.
+
+
+## Nueva dirección vigente — cierre de V36 y S6,2026-10-25
+
+[Mensaje íntegro y continuidad del amor recordado](S6_VOLUME36_SEASON_END_AND_REMEMBERED_LOVE_CREATOR_DIRECTION_2026-10-25.md). Mau recuerda amar aFrieren pero su deseo romántico presente no se restaura automáticamente; eligeYuka. V36#11 ajustado sólo en esa respuesta. Autoriza escenas finales Ciel/Ori, despedida privadaF, roof/crackers y cita cálidaM/Yuka; acabarS6 aquí sin nueva amenaza. V37/S7 aún no iniciados. PropuestaHimmel/rutaelfo sólo investigación consentida futura, no capacidad/longevidad garantizadas.

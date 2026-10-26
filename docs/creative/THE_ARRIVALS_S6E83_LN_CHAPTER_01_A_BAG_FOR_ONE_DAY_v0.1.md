@@ -5,7 +5,7 @@
 **Volume:** 36
 **Reading order:** 11
 **Source episode:** S6E83
-**Continuity state:** Day484, afternoon and supper. Mau has been cleared to return slowly to his east bedroom after the clinic stay; Rimuru's loft above the closet remains. Yuka and Mau pack for tomorrow's proposed coast day. Umaru provides an explicitly bounded outing purse separate from essential supplies; receipts/change required, no money spent yet. Yuka asks directly about Frieren in the other life: Mau confirms the original romance and the love/grief he still carries, without blaming branch Frieren or exposing Yuka's private confidence. She retains her questions and chooses the trip without agreeing to be a substitute. No sex, engagement/family promise, full confession, new power or medical certainty about tomorrow
+**Continuity state:** Day484, afternoon and supper. Mau has been cleared to return slowly to his east bedroom after the clinic stay; Rimuru's loft above the closet remains. Yuka and Mau pack for tomorrow's proposed coast day. Umaru provides an explicitly bounded outing purse separate from essential supplies; receipts/change required, no money spent yet. Yuka asks directly about Frieren in the other life: Mau confirms the original romance and its remembered love/grief without a restored present romantic desire for Frieren, without blaming branch Frieren or exposing Yuka's private confidence. She retains her questions and chooses the trip without agreeing to be a substitute. No sex, engagement/family promise, full confession, new power or medical certainty about tomorrow
 
 *When: Day484, afternoon. Mau's east bedroom. His boots are where he left them before he fell. One has been cleaned. The other has not.*
 
@@ -175,7 +175,7 @@ The drawer Rimuru had not quite closed in the loft slid shut with a soft click. 
 
 He did not use the version of the answer that would make tomorrow easier.
 
-"Yes. I can't remember that life without loving her. I'm still working out how to live with it here. But she hasn't lived it with me. I don't get to put it back on her and ask her to be the person I remember." ᴹ
+"I remember being in love with her. I remember what it felt like. That hasn't come back as wanting to be with her here. I'm still working out how to carry a whole life without asking it to choose this one for me. And she hasn't lived it with me. I don't get to put it back on her and ask her to be the person I remember." ᴹ
 
 Yuka sat in the chair. She moved the thick shirt out of the way without looking at it.
 

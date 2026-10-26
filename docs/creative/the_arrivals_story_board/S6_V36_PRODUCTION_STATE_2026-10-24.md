@@ -182,3 +182,8 @@ La [nueva dirección del creador](S6_AFTER_CONFESSION_TSURUGI_AND_PERMANENT_STAT
 - **Sombras:**15nombradasinclMuster+98soldados, noextracts/XP. Beru/Igris/Kamishsólotestigos invocados yguardados. Mahoraga propioNOcombatió,nuevo ritual noocurre. Costedellamadas enreservapropia, noheartinfinito; accesosseparados.
 - **Privacidad:**Ciel sóloenM/R, relataRplanesconsentidos. Noimágenesoriginalestransferidas; Yuka confidenciamédica no pública; cuentoalafamilia no darecuerdos vividos. Ori/Fmadrehija compásrespetados. AmorFamemoriadeMsinpedirnuevaromanceaF/B. SegundaobligaciónDiosa aúnindefinida/no pagada.
 - **Siguiente:**parar aquí y escucharquéquiereelcreador. No inventarnuevaarenagate, secta,summons adicionales, ejército invasor o ruptura como cliffhanger.
+
+
+## Nueva dirección vigente — cierre de V36 y S6,2026-10-25
+
+[Mensaje íntegro y continuidad del amor recordado](S6_VOLUME36_SEASON_END_AND_REMEMBERED_LOVE_CREATOR_DIRECTION_2026-10-25.md). Mau recuerda amar aFrieren pero su deseo romántico presente no se restaura automáticamente; eligeYuka. V36#11 ajustado sólo en esa respuesta. Autoriza escenas finales Ciel/Ori, despedida privadaF, roof/crackers y cita cálidaM/Yuka; acabarS6 aquí sin nueva amenaza. V37/S7 aún no iniciados. PropuestaHimmel/rutaelfo sólo investigación consentida futura, no capacidad/longevidad garantizadas.

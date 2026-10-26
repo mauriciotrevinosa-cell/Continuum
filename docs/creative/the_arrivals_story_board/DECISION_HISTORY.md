@@ -2302,3 +2302,7 @@ Primeros4V39guardanprogreso/traumaenescenas,noresumendecanal perfecto/yukayaallC
 ### S7 — V39#10–12, 2026-10-26
 
 10–12 guardaunverdaderoritual/materializaciónindependiente yreversalnohealing.Ajuste editorialenregistromemorias:son3historias,nootrascifras; ningúncapítulo decíaotra cosa. Fecha808dosrazonesreconocidas,no celebrarMauporerror. Bride/ring/Monarchtodavíano. Continúa794traspushsinfinal;Al19STOP.
+
+### S7 — V39#13–18, 2026-10-26
+
+13–18 vuelvea ritmo diario794–807, nocontarensayos/grupossóloenresumen. Paralleloutput/sleepproveactualautonomy,selectionsnotsharedbubble,safety/sourceknown.Owneranchoring808conYukaawake/knowschoice,nooldloanwithholding. Roof/crackersgiftsbirthdateownvoices/opencancerprivacy.Meshiftsvesselfearsinreal possession. Todo listo para celebrar19/aniv;nextautocontinuationno extendsbeyond808.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 39
 **Season:** 7
-**Coverage:** S7E36–S7E41 (in progress)
+**Coverage:** S7E36–S7E44 (in progress)
 **Volume title:** **A Place in Tomorrow** (provisional)
-**Chapter files:** 12
+**Chapter files:** 18
 
 Volume 39 follows the shared technique project toward Yuka's nineteenth birthday, with lived intervals and a closer daily pace before the celebration. Production stops there for creator discussion of Mau's birthday and what follows. The story determines chapter and volume length; drafts are not automatic approval.
 
@@ -27,3 +27,9 @@ Volume 39 follows the shared technique project toward Yuka's nineteenth birthday
 | 10 | S7E40 | The Shortest Line | `THE_ARRIVALS_S7E40_LN_CHAPTER_02_THE_SHORTEST_LINE_v0.1.md` |
 | 11 | S7E41 | The Other Direction | `THE_ARRIVALS_S7E41_LN_CHAPTER_01_THE_OTHER_DIRECTION_v0.1.md` |
 | 12 | S7E41 | There Will Be Cake | `THE_ARRIVALS_S7E41_LN_CHAPTER_02_THERE_WILL_BE_CAKE_v0.1.md` |
+| 13 | S7E42 | The Same Weight | `THE_ARRIVALS_S7E42_LN_CHAPTER_01_THE_SAME_WEIGHT_v0.1.md` |
+| 14 | S7E42 | While He Slept | `THE_ARRIVALS_S7E42_LN_CHAPTER_02_WHILE_HE_SLEPT_v0.1.md` |
+| 15 | S7E43 | A Smaller Question | `THE_ARRIVALS_S7E43_LN_CHAPTER_01_A_SMALLER_QUESTION_v0.1.md` |
+| 16 | S7E43 | From This Side | `THE_ARRIVALS_S7E43_LN_CHAPTER_02_FROM_THIS_SIDE_v0.1.md` |
+| 17 | S7E44 | What Would Stay | `THE_ARRIVALS_S7E44_LN_CHAPTER_01_WHAT_WOULD_STAY_v0.1.md` |
+| 18 | S7E44 | The Night Before | `THE_ARRIVALS_S7E44_LN_CHAPTER_02_THE_NIGHT_BEFORE_v0.1.md` |

@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción activa S7 — V39#1–12, 2026-10-26:** Yuka ganaOx yensayaRed, conpropioscostes yfuentes claros. La casa comienza a planear sucumpleaños sinrepetir una guerra; la fecha trae también suprimeraniversario. [Índice V39](../THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Producción sólo hasta19Yuka; después decisión delcreador.
+> **Producción activa S7 — V39#1–18, 2026-10-26:** Las últimas pruebas funcionan con costes y autonomía conocidos; ambas redes de amigos y familiares participan de los preparativos. Mau conserva su miedo sin convertirlo en una certeza ni dejarlo decidir porYuka. Sigue el cumpleaños, luego pausaacordada. [Índice V39](../THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Producción sólo hasta19Yuka; después decisión delcreador.
 
 > **Límite nuevo del creador:** escribir hasta el19 deYuka; al llegar detener la prosa posterior y presentar el plan para elcumpleMau. Miedo a serunvessel se desarrolla desdeahora. [Instrucción íntegra](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
 

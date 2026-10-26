@@ -3,15 +3,15 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 37
 **Season:** 7
-**Coverage:** S7E01–S7E16 (in progress)
+**Coverage:** S7E01–S7E17 (in progress)
 **Volume title:** **A Place for Everyone** (provisional)
-**Chapter files:** 32
+**Chapter files:** 34
 
 Season 7 begins the morning after V36#38, Day496. Chapters 1–3 complete the Fort day and remain unchanged. Following creator review, the compressed former Chapters 4–10 have been reconstructed as Chapters 4–14: the outing is prepared, Hollis brings an explained request, Mau proposes the connection to Yuka, they construct it before practising, and the sample leaves on-page before the first seven-day bridge. Reread from Chapter 4 for the corrected sequence. The story determines the length; no calendar target or chapter quota overrides these scenes. The volume continues. Production drafts are not automatic creator approval.
 
 [Creator greenlight](the_arrivals_story_board/S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md) · [Pacing correction](the_arrivals_story_board/S7_POST_FORT_CAUSAL_SCENES_CREATOR_CORRECTION_2026-10-26.md) · [Current state and relationships](the_arrivals_story_board/S7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.md) · [Previous volume](THE_ARRIVALS_LN_VOLUME_36_INDEX_v0.1.md).
 
-**Current production:** Chapters 1–32; the volume remains in progress.
+**Current production:** Chapters 1–34; the volume remains in progress.
 
 ## Reading order
 
@@ -49,3 +49,5 @@ Season 7 begins the morning after V36#38, Day496. Chapters 1–3 complete the Fo
 | 30 | S7E15 | Under the Wing | `THE_ARRIVALS_S7E15_LN_CHAPTER_02_UNDER_THE_WING_v0.1.md` |
 | 31 | S7E16 | A Thing Someone Would Use | `THE_ARRIVALS_S7E16_LN_CHAPTER_01_A_THING_SOMEONE_WOULD_USE_v0.1.md` |
 | 32 | S7E16 | The Last Eight Bars | `THE_ARRIVALS_S7E16_LN_CHAPTER_02_THE_LAST_EIGHT_BARS_v0.1.md` |
+| 33 | S7E17 | The First Real Cut | `THE_ARRIVALS_S7E17_LN_CHAPTER_01_THE_FIRST_REAL_CUT_v0.1.md` |
+| 34 | S7E17 | What They Had Earned | `THE_ARRIVALS_S7E17_LN_CHAPTER_02_WHAT_THEY_HAD_EARNED_v0.1.md` |

@@ -1,6 +1,6 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
-> **Estado activo V38#5 — 2026-10-26:** Day553 al regresar para cenar, visita completada y primer ensayo pendiente de crecer. [Registro vivo V38](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). La tabla y el estado de V37 conservados abajo son su salida histórica, no el presente de V38. S7 continúa; no requiere otro verde.
+> **Estado activo V38#9 — 2026-10-26:** Day568 noche, preparan reconocimiento del camino para mañana sin prometer limpiar una gate desconocida. [Registro vivo V38](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). La tabla y el estado de V37 conservados abajo son su salida histórica, no el presente de V38. S7 continúa; no requiere otro verde.
 
 > **V37 completo como borrador, no S7 completa —2026-10-26:** cierre38/Day542. [Estado compacto de salida y entradaV38](S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md). Continuación ya autorizada; los avisos antiguos de volumen/temporada sin iniciar o detenerse enS6 son históricos.
 

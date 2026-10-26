@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 38
 **Season:** 7
-**Coverage:** S7E20–S7E22 (in progress)
+**Coverage:** S7E20–S7E24 (in progress)
 **Volume title:** **The Roads Between** (provisional)
-**Chapter files:** 5
+**Chapter files:** 9
 
 The household's first S7 home/work/adventure cycle has ended; its projects and relationships continue. The first week bridge lands in an ordinary tea and a real delivery, with decisions shown before their results. The story determines chapter and volume length. This volume and S7 remain in progress; production is not automatic creator approval.
 
@@ -20,3 +20,7 @@ The household's first S7 home/work/adventure cycle has ended; its projects and r
 | 3 | S7E21 | What Would Grow Here | `THE_ARRIVALS_S7E21_LN_CHAPTER_01_WHAT_WOULD_GROW_HERE_v0.1.md` |
 | 4 | S7E21 | The Ground Beneath It | `THE_ARRIVALS_S7E21_LN_CHAPTER_02_THE_GROUND_BENEATH_IT_v0.1.md` |
 | 5 | S7E22 | Leave It in My Hands | `THE_ARRIVALS_S7E22_LN_CHAPTER_01_LEAVE_IT_IN_MY_HANDS_v0.1.md` |
+| 6 | S7E22 | Where She Asked It to Land | `THE_ARRIVALS_S7E22_LN_CHAPTER_02_WHERE_SHE_ASKED_IT_TO_LAND_v0.1.md` |
+| 7 | S7E23 | Not Yet Dinner | `THE_ARRIVALS_S7E23_LN_CHAPTER_01_NOT_YET_DINNER_v0.1.md` |
+| 8 | S7E23 | The Road They Closed | `THE_ARRIVALS_S7E23_LN_CHAPTER_02_THE_ROAD_THEY_CLOSED_v0.1.md` |
+| 9 | S7E24 | Not Everyone on the Road | `THE_ARRIVALS_S7E24_LN_CHAPTER_01_NOT_EVERYONE_ON_THE_ROAD_v0.1.md` |

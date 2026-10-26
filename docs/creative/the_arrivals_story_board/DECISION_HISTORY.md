@@ -2222,3 +2222,7 @@ Continuación autorizada. #17 vive primera subyugación adicional de Yuka (Rabbi
 ### S7 — checkpoint V37#19–20, 2026-10-26
 
 #19–20 construyen interlocutora nativa Tamsin y primera reunión técnica con objeto real/elecciones. Ventana exterior514–518, fragmento prestado para prototipo, permiso personal de visita al taller, no armas/ingresos/treaty ya logrados. Se preserva la última dirección del creador: tercera Red Gate cambia en el umbral, Mau expulsa por reflejo al compañero antes de sellarse, queda solo y pelea a plena capacidad utilizable con escena amplia. No alterar Red Gates anteriores o atribuirlo a plan secreto de Mau. Continuación autorizada ycheckpoint sincerrar porcadapush. No modificaciones achapters previos ni cambio deinfraestructura. Estado actualizado enS7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.
+
+### S7 — checkpoint V37#21–22, 2026-10-26
+
+Se aplican en escena charla de riesgos y última decisión del creador sobre Red Gate. #21 conversación compartida, #22 reflejo en el umbral y pelea inicial. Sin mentira planificada/ruptura familiar, sin atravesar entrada roja ya sellada, Ciel no repite por inercia el bloqueo del castle. Mantener habilidades actuales/costos y desarrollar pelea principal antes de otorgar recompensas. No termina el trabajo por hacer este push. Continuación autorizada ycheckpoint sincerrar porcadapush. No modificaciones achapters previos ni cambio deinfraestructura. Estado actualizado enS7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.

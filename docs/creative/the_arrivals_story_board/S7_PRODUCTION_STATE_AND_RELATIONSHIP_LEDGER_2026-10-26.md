@@ -1,6 +1,6 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
-**Actualización:** 2026-10-26. **Punto actual:** V37#1–20, Day518, tras la reunión de trabajo en el camino. Borradores de producción, no aprobación automática del lector. Verde deS7: [mensaje completo](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). S6 ylos capítulos previos permanecen intactos.
+**Actualización:** 2026-10-26. **Punto actual:** V37#1–22, Day520 por la mañana, inicio del combate dentro de la tercera Red Gate. Borradores de producción, no aprobación automática del lector. Verde deS7: [mensaje completo](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). S6 ylos capítulos previos permanecen intactos.
 
 ## Capítulos producidos
 
@@ -26,6 +26,8 @@
 |18|S7E09 CH02, The Fastening|Day510 tarde|Taller con Wakana/Marin/Stark/Senku: primera prueba falla, portador corregido funciona en persona/soldado existente. Barra aún se examina. Se prepara pregunta/invitación por Hollis al usuario de la herramienta, sin prometer producto ni vender.|
 |19|S7E10 CH01, The Other End of the Road|Day514 tarde|Hollis lleva invitación al taller. Tamsin muestra herramienta/material del problema real, mantiene trabajo/promesas y acepta reunión518 con condiciones. POV nativo breve, no venta ni adhesión de una ciudad.|
 |20|S7E10 CH02, At the Marker|Day518 mañana–mediodía|Encuentro acordado fuera del hogar, Rimuru queda en casa. Pieza real cambia diseño, ensayo se detiene antes de romper hoja. Un fragmento prestado y plan de un prototipo; invitación concreta al taller para los fabricantes, sin tratado mundial/pago/arma lista.|
+|21|S7E11 CH01, The Part He Hadn't Told Them|Day519 tarde–noche|Mau cuenta riesgos concretos de exclusión y Beru consumiéndolo para recuperarse. Beru escucha sin borrar dolor con orgullo; casa pregunta, Yuka decide ir y preparan bolsas/contacto para outing más profundo. No nueva primera confesión.|
+|22|S7E11 CH02, One Step Back|Day520 mañana afuera / primeros minutos dentro|Entrada empieza a cambiar; Mau empuja a Yuka antes de sellar y trata de seguirla. Ella fuera con rasguño/Rimuru, Ciel mantiene relay privado, pausa Blue acordada. Mau dentro aliviado de tener espacio para soltar golpes; dagas/físico contra guardias, Warden emerge y hunde suelo. Pelea principal aún pendiente.|
 
 ## Relaciones y conocimiento
 
@@ -47,9 +49,9 @@
 
 ## Tiempo y continuidad del plan
 
-La secuencia llega a Day518 después del encuentro con Tamsin en el camino; el salto aterriza en la prueba/preguntas del trabajo, no en una venta ya realizada. El primer puente explícito es Day500→507, después de mostrar la entrega de la muestra. Las fechas antiguas Day506/507 del bloque sustituido son históricas. No alcanzamos una fecha a costa de comprimir decisiones. Duraciones y número de capítulos se derivan de escenas reales.
+La secuencia llega al comienzo de la tercera Red Gate, Day520 por la mañana afuera. Mau está dentro, Yuka/Rimuru/Anko fuera. Tiempo interior transcurrido aún no cuantificado. El primer puente explícito es Day500→507, después de mostrar la entrega de la muestra. Las fechas antiguas Day506/507 del bloque sustituido son históricas. No alcanzamos una fecha a costa de comprimir decisiones. Duraciones y número de capítulos se derivan de escenas reales.
 
-Tercera Red Gate aún no visitada. Una charla franca antes de entrar; esa nueva gate entregará una sola llave Meet the Monarch con timer posterior al cumpleaños elegido de Mau, todavía por anclar. No llave en inventario ni reloj activado ahora. No nuevo Trial; segunda petición futura de DIO es refugio. Naturaleza de Ashborn permanece abierta. S7 no está terminada por publicar esta reparación.
+Tercera Red Gate comenzó en #22. Charla franca Beru/riesgos realizada antes, #21. La nueva gate aún no se ha completado; entregará una sola llave Meet the Monarch con timer posterior al cumpleaños elegido de Mau, todavía por anclar. No llave en inventario ni reloj activado ahora. La apertura requiere derrotar al Warden; esta condición es visible sólo en Window de Mau y no supone raid-torre nueva. No nuevo Trial; segunda petición futura de DIO es refugio. Naturaleza de Ashborn permanece abierta. S7 no está terminada por publicar esta reparación.
 
 
 
@@ -81,10 +83,20 @@ Day510, #18: Wakana/Marin/Stark diseñan, prueban y corrigen un portador acolcha
 
 [Mensaje íntegro y límites](S7_THIRD_RED_GATE_REFLEX_ISOLATION_AND_FULL_FIGHT_CREATOR_DIRECTION_2026-10-26.md). La entrada empieza a volverse roja y Mau empuja al acompañante hacia fuera antes de que selle; se queda solo por reflejo. Adentro le alegra poder soltar su repertorio utilizable sin un compañero humano en riesgo, y necesita pelea desarrollada, no resumen de técnicas. No es una maniobra para engañar o dejar atrás a la casa. Charla previa Beru y única llave Meet the Monarch se conservan. Fijar compatibilidades y repertorio real, no liberar todo lo archivado por declarar «full out».
 
+
+
+## Charla y cierre del umbral, #21–22
+
+Day519: la casa ya conocía la torre original; Mau añade lo que significó Beru comiendo partes de él para regenerarse mientras lo cortaba y quienes no podían entrar para ayudar. Sin pase de memorias ni todo el catálogo de heridas. Beru reconoce que su orgullo no debe minimizar lo vivido; escucha el límite. Yuka conserva decisión de participar. Preparan dos bolsas, contacto y criterios, no una promesa de salida garantizada.
+
+Day520: Mau ya dentro, Yuka junto al umbral; la entrada comienza a cerrarse/cambiar y él la empuja por reflejo antes de sellar, intenta seguirla y no alcanza. Yuka sólo raspa una palma y Rimuru la sostiene. No fue plan de Mau para aislarse ni motivo para reabrir ruptura de confianza. Ella oyó el intento de seguirla. Ciel sigue disponible en esta gate y relaya privadamente por Rimuru, no voz pública o bloqueo repetido del castle. Yuka acuerda pausar Blue para que Mau lo tenga durante combate, sin perder el contrato ni sus shikigamis.
+
+Dentro: entrada sur sellada; patio circular muy amplio, cuatro pylons con líneas de suelo hacia dais central al norte. Guardias de placas oscuras, no personas nativas raptadas confirmadas. Mau prueba dagas existentes y fuerza permanente, muestra alivio por no tener a otra persona a su lado cuando suelta los golpes. Transferencia exterior rechazada por el cierre; propios almacenes/llamadas responden. Sale Warden de seis miembros acorazados y hunde el suelo bajo él. Combate principal sigue pendiente; no inventar resultado/extracción/loot anticipado.
+
 ## Próxima escena
 
-Intercalar vida/crecimiento antes de la expedición más profunda de materiales. La conversación franca de riesgos debe ocurrir antes de la nueva Red Gate: la casa ya sabe torre/segundo corazón, se añade qué significó Beru y no poder ayudar, con Beru capaz de escuchar sin que su orgullo borre el dolor. Mantener Yuka activa tras su primer tame; no descargar los restantes. En la tercera Red Gate aplicar la última dirección de empujón reflejo y buena pelea solo. Decidir compañero/alcance de Ciel y técnicas a partir de lo mostrado; no nuevo Trial ni abrir Meet the Monarch al momento de recibir la llave.
+Continuar exactamente el hundimiento del suelo, no salto al resultado. La pelea pedida debe mostrar repertorio realmente existente, fases legibles del rival, geometría y adaptación táctica. Manejar CE/ramal de sombras/propios shikigamis sin mezcla infinita ni simultaneidad gratuita de todas las CT; Uro rudimentario existe, Ruler fragmento existe, RCT ligera existe, Purple ya ocurrió pero no es seguro por ser conocido. No Mini Ciel/BF voluntario/Ryu beam/dominio Uro o maestrías futuras regaladas. Ciel disponible en esta Red Gate. Mau no sufre una nueva autodestrucción como endless army. Después victoria/loot/única llave/retorno necesitan su propio espacio, sin forzar cierre de volumen. Mantener prototipo Tamsin aún pendiente.
 
 ## Checkpoints
 
-V37#1 y2–3 ya se publicaron por separado y ellector confirmó los tres sinadvertencias, con elenlace desdeV36. Este bloque19–20: 1967 palabras aproximadas; revisar índice/texto/navegación después de lapublicación. No cierre de volumen o temporada por efectuar unpush; continuar trabajo autorizado segúnelplan ylas correcciones delcreador.
+V37#1 y2–3 ya se publicaron por separado y ellector confirmó los tres sinadvertencias, con elenlace desdeV36. Este bloque21–22: 2187 palabras aproximadas; revisar índice/texto/navegación después de lapublicación. No cierre de volumen o temporada por efectuar unpush; continuar trabajo autorizado segúnelplan ylas correcciones delcreador.

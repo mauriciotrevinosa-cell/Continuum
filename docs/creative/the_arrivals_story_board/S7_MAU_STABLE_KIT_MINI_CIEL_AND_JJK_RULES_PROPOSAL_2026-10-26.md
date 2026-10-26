@@ -1,5 +1,7 @@
 # The Arrivals — S7: repertorio estable de Mau, Mini Ciel y evolución de técnicas
 
+> **Nueva dirección de ritmo/arranque, 2026-10-26:** [mensaje íntegro y mapa Fort/legión](S7_SHORT_SIDE_CHAPTERS_FORT_WAR_AND_THOUSAND_SHADOWS_CREATOR_DIRECTION_2026-10-26.md). Capítulo exclusivo Mau/Yuka antes de saltar semanas; exploración y propuesta de ampliar ejército; guerra del Fort contraKamish en los días iniciales con cena y coda de la pareja. Escenas laterales pequeñas pueden ser breves sin borrar personajes. Durante los saltos: progresión desigual de sombras, Beru avanzado y ejército de orden de1,000 hacia el horizonte año ymedio; brigadas de recolección y comercio premium. Lantern existe; verificarRedactualGojo y origen de capacidades antes de prosa. No se abrieron V37/S7.
+
 **Fecha:** 2026-10-26. **Estado:** propuesta técnica/editorial para aprobación y desarrollo; no desbloqueos producidos. Autoridad nueva: [mensaje íntegro del creador](S7_PACING_PERMANENT_KIT_AND_MINI_CIEL_CREATOR_DIRECTION_2026-10-26.md). Base comprobada: [auditoría de progresión](S6_MAU_PRODUCED_PROGRESSION_BASELINE_AUDIT_2026-10-23.md), corregida por [salida S6 vigente](S6_SEASON_COMPLETION_AND_S7_PARKING_2026-10-25.md). La auditoría histórica anterior aV34#16 no gobierna sobre hechos posteriores como Muster,113 registros o el cap eliminado.
 
 ## 1. Cambio de etapa solicitado

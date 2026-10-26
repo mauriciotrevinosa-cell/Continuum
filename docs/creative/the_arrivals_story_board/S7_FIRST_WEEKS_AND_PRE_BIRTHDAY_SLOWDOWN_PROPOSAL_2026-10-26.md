@@ -1,5 +1,7 @@
 # The Arrivals — S7: primeras semanas y desaceleración antes del cumpleaños19
 
+> **Nueva dirección de ritmo/arranque, 2026-10-26:** [mensaje íntegro y mapa Fort/legión](S7_SHORT_SIDE_CHAPTERS_FORT_WAR_AND_THOUSAND_SHADOWS_CREATOR_DIRECTION_2026-10-26.md). Capítulo exclusivo Mau/Yuka antes de saltar semanas; exploración y propuesta de ampliar ejército; guerra del Fort contraKamish en los días iniciales con cena y coda de la pareja. Escenas laterales pequeñas pueden ser breves sin borrar personajes. Durante los saltos: progresión desigual de sombras, Beru avanzado y ejército de orden de1,000 hacia el horizonte año ymedio; brigadas de recolección y comercio premium. Lantern existe; verificarRedactualGojo y origen de capacidades antes de prosa. No se abrieron V37/S7.
+
 **Fecha:** 2026-10-26. **Estado:** propuesta editorial actualizada tras la nueva dirección del creador; no capítulos producidos. Autoridad: [mensaje íntegro](S7_PACING_PERMANENT_KIT_AND_MINI_CIEL_CREATOR_DIRECTION_2026-10-26.md). Complementa y corrige el ritmo de [esqueleto general](S7_WORLD_FAMILY_AND_TIME_ADVANCE_SKELETON_2026-10-26.md).
 
 ## 1. Qué se ve en las primeras semanas

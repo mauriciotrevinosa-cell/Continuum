@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 38
 **Season:** 7
-**Coverage:** S7E20–S7E24 (in progress)
+**Coverage:** S7E20–S7E26 (in progress)
 **Volume title:** **The Roads Between** (provisional)
-**Chapter files:** 9
+**Chapter files:** 13
 
 The household's first S7 home/work/adventure cycle has ended; its projects and relationships continue. The first week bridge lands in an ordinary tea and a real delivery, with decisions shown before their results. The story determines chapter and volume length. This volume and S7 remain in progress; production is not automatic creator approval.
 
@@ -24,3 +24,7 @@ The household's first S7 home/work/adventure cycle has ended; its projects and r
 | 7 | S7E23 | Not Yet Dinner | `THE_ARRIVALS_S7E23_LN_CHAPTER_01_NOT_YET_DINNER_v0.1.md` |
 | 8 | S7E23 | The Road They Closed | `THE_ARRIVALS_S7E23_LN_CHAPTER_02_THE_ROAD_THEY_CLOSED_v0.1.md` |
 | 9 | S7E24 | Not Everyone on the Road | `THE_ARRIVALS_S7E24_LN_CHAPTER_01_NOT_EVERYONE_ON_THE_ROAD_v0.1.md` |
+| 10 | S7E24 | The People at the Rope | `THE_ARRIVALS_S7E24_LN_CHAPTER_02_THE_PEOPLE_AT_THE_ROPE_v0.1.md` |
+| 11 | S7E25 | The Sound Past the Bend | `THE_ARRIVALS_S7E25_LN_CHAPTER_01_THE_SOUND_PAST_THE_BEND_v0.1.md` |
+| 12 | S7E25 | Eight More Hands | `THE_ARRIVALS_S7E25_LN_CHAPTER_02_EIGHT_MORE_HANDS_v0.1.md` |
+| 13 | S7E26 | Tell Me Yours | `THE_ARRIVALS_S7E26_LN_CHAPTER_01_TELL_ME_YOURS_v0.1.md` |

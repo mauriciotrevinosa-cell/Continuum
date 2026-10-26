@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción activa S7 — V38#1–9, 2026-10-26:** Yuka consigue su primer vuelo bajo conNue, el ensayo de raíces produce evidencia pequeña y Hollis presencia otra gate en una ruta real. La casa prepara una visita con testimonios y límites; no se salta a tratados, monstruos junto a la casa o comercio planetario. [Índice V38](../THE_ARRIVALS_LN_VOLUME_38_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). V37 cerrado como borrador; S7 sigue abierta.
+> **Producción activa S7 — V38#1–13, 2026-10-26:** El contacto exterior se vuelve un rescate completo de tres personas, crecimiento contado del ejército y regreso con charla de pareja. La gate permanece abierta y la casa prepara atenderla pronto; ningún tratado planetario o poder nuevo aparece por resumen. [Índice V38](../THE_ARRIVALS_LN_VOLUME_38_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). V37 cerrado como borrador; S7 sigue abierta.
 
 > **V37 completo como borrador, no S7 completa —2026-10-26:** cierre38/Day542. [Estado compacto de salida y entradaV38](S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md). Continuación ya autorizada; los avisos antiguos de volumen/temporada sin iniciar o detenerse enS6 son históricos.
 

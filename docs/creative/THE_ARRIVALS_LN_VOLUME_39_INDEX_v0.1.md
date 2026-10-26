@@ -3,13 +3,15 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 39
 **Season:** 7
-**Coverage:** S7E36–S7E44 (in progress)
+**Coverage:** S7E36–S7E45 (volume complete; further S7 production awaits creator direction)
 **Volume title:** **A Place in Tomorrow** (provisional)
-**Chapter files:** 18
+**Chapter files:** 20
 
-Volume 39 follows the shared technique project toward Yuka's nineteenth birthday, with lived intervals and a closer daily pace before the celebration. Production stops there for creator discussion of Mau's birthday and what follows. The story determines chapter and volume length; drafts are not automatic approval.
+Volume 39 closes at Chapter 20, after Yuka's nineteenth birthday and the couple's first anniversary, Day808 night. Further prose is stopped at the creator's requested boundary: discuss Mau's birthday and what follows before continuing. S7 is not complete; this volume remains a production draft for review.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_38_INDEX_v0.1.md) · [V38 exit state](the_arrivals_story_board/S7_V38_CLOSE_AND_V39_ENTRY_2026-10-26.md) · [Current production state](the_arrivals_story_board/S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md).
+
+[Production boundary and pending Mau birthday plan](the_arrivals_story_board/S7_YUKA19_COMPLETE_AND_MAU_BIRTHDAY_REVIEW_PARKING_2026-10-26.md).
 
 ## Reading order
 
@@ -33,3 +35,5 @@ Volume 39 follows the shared technique project toward Yuka's nineteenth birthday
 | 16 | S7E43 | From This Side | `THE_ARRIVALS_S7E43_LN_CHAPTER_02_FROM_THIS_SIDE_v0.1.md` |
 | 17 | S7E44 | What Would Stay | `THE_ARRIVALS_S7E44_LN_CHAPTER_01_WHAT_WOULD_STAY_v0.1.md` |
 | 18 | S7E44 | The Night Before | `THE_ARRIVALS_S7E44_LN_CHAPTER_02_THE_NIGHT_BEFORE_v0.1.md` |
+| 19 | S7E45 | Nineteen | `THE_ARRIVALS_S7E45_LN_CHAPTER_01_NINETEEN_v0.1.md` |
+| 20 | S7E45 | The Year We Kept | `THE_ARRIVALS_S7E45_LN_CHAPTER_02_THE_YEAR_WE_KEPT_v0.1.md` |

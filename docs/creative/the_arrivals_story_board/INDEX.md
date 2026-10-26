@@ -1,6 +1,8 @@
 # The Arrivals — Story Board Index
 
-> **Producción activa S7 — V39#1–18, 2026-10-26:** Las últimas pruebas funcionan con costes y autonomía conocidos; ambas redes de amigos y familiares participan de los preparativos. Mau conserva su miedo sin convertirlo en una certeza ni dejarlo decidir porYuka. Sigue el cumpleaños, luego pausaacordada. [Índice V39](../THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Producción sólo hasta19Yuka; después decisión delcreador.
+> **ALCANCE CUMPLIDO — PROSA DETENIDA:** V39#20/Day808 noche, 19 deYuka y primeraniversario completos. No escribir809/V40/cumpleMau/Monarch hasta decisión delcreador. [Parking yplanporrevisar](S7_YUKA19_COMPLETE_AND_MAU_BIRTHDAY_REVIEW_PARKING_2026-10-26.md). S7 noestácerrada; esta parada sífue pedida.
+
+> **Producción activa S7 — V39#1–20, 2026-10-26:** Cumpleaños19 y primeraniversario completos: regalo permanente conocido, fiesta de la casa y cena conel mapa queYuka hace de suaño. Detenida la prosa posterior como pidióelcreador, para discutir el cumpleaños deMau. [Índice V39](../THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Producción sólo hasta19Yuka; después decisión delcreador.
 
 > **Límite nuevo del creador:** escribir hasta el19 deYuka; al llegar detener la prosa posterior y presentar el plan para elcumpleMau. Miedo a serunvessel se desarrolla desdeahora. [Instrucción íntegra](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
 

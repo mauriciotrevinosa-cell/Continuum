@@ -1,6 +1,8 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
-> **Estado activo V39#18 — 2026-10-26:** Day807 por la noche; siguientes capítulos cumpleaños19/primeraniversario808, luego paradaautorizada. [Registro vivo V39](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Los checkpoints conservados abajo son históricos. Límite nuevo: escribir hasta el19 deYuka y consultar cumpleañosMau/resto.
+> **ALCANCE CUMPLIDO — PROSA DETENIDA:** V39#20/Day808 noche, 19 deYuka y primeraniversario completos. No escribir809/V40/cumpleMau/Monarch hasta decisión delcreador. [Parking yplanporrevisar](S7_YUKA19_COMPLETE_AND_MAU_BIRTHDAY_REVIEW_PARKING_2026-10-26.md). S7 noestácerrada; esta parada sífue pedida.
+
+> **Estado activo V39#20 — 2026-10-26:** Day808 noche: cumpleaños19 y primeraniversario completos; PROSA POSTERIOR DETENIDA POR INSTRUCCIÓN DELCREADOR. [Registro vivo V39](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Los checkpoints conservados abajo son históricos. Límite nuevo: escribir hasta el19 deYuka y consultar cumpleañosMau/resto.
 
 > **Límite nuevo del creador:** escribir hasta el19 deYuka; al llegar detener la prosa posterior y presentar el plan para elcumpleMau. Miedo a serunvessel se desarrolla desdeahora. [Instrucción íntegra](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
 

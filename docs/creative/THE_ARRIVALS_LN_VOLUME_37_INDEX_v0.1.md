@@ -3,15 +3,15 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 37
 **Season:** 7
-**Coverage:** S7E01–S7E18 (in progress)
+**Coverage:** S7E01–S7E19 (volume complete; S7 continues)
 **Volume title:** **A Place for Everyone** (provisional)
-**Chapter files:** 36
+**Chapter files:** 38
 
-Season 7 begins the morning after V36#38, Day496. Chapters 1–3 complete the Fort day and remain unchanged. Following creator review, the compressed former Chapters 4–10 have been reconstructed as Chapters 4–14: the outing is prepared, Hollis brings an explained request, Mau proposes the connection to Yuka, they construct it before practising, and the sample leaves on-page before the first seven-day bridge. Reread from Chapter 4 for the corrected sequence. The story determines the length; no calendar target or chapter quota overrides these scenes. The volume continues. Production drafts are not automatic creator approval.
+Season 7 begins the morning after V36#38, Day496. Chapters 1–3 complete the Fort day and remain unchanged. Following creator review, the compressed former Chapters 4–10 have been reconstructed as Chapters 4–14: the outing is prepared, Hollis brings an explained request, Mau proposes the connection to Yuka, they construct it before practising, and the sample leaves on-page before the first seven-day bridge. Reread from Chapter 4 for the corrected sequence. The story determines the length; no calendar target or chapter quota overrides these scenes. Chapter 38 closes the first S7 volume after its completed home/work/adventure cycle. S7 continues in the next volume. Production drafts are not automatic creator approval.
 
 [Creator greenlight](the_arrivals_story_board/S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md) · [Pacing correction](the_arrivals_story_board/S7_POST_FORT_CAUSAL_SCENES_CREATOR_CORRECTION_2026-10-26.md) · [Current state and relationships](the_arrivals_story_board/S7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.md) · [Previous volume](THE_ARRIVALS_LN_VOLUME_36_INDEX_v0.1.md).
 
-**Current production:** Chapters 1–36; the volume remains in progress.
+**Current production:** Chapters 1–38; Volume 37 complete as a production draft. S7 continues. [Exit state and next-volume entry](the_arrivals_story_board/S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md).
 
 ## Reading order
 
@@ -53,3 +53,5 @@ Season 7 begins the morning after V36#38, Day496. Chapters 1–3 complete the Fo
 | 34 | S7E17 | What They Had Earned | `THE_ARRIVALS_S7E17_LN_CHAPTER_02_WHAT_THEY_HAD_EARNED_v0.1.md` |
 | 35 | S7E18 | Mini Ciel | `THE_ARRIVALS_S7E18_LN_CHAPTER_01_MINI_CIEL_v0.1.md` |
 | 36 | S7E18 | Her Turn to Reach | `THE_ARRIVALS_S7E18_LN_CHAPTER_02_HER_TURN_TO_REACH_v0.1.md` |
+| 37 | S7E19 | A Little Less Effort | `THE_ARRIVALS_S7E19_LN_CHAPTER_01_A_LITTLE_LESS_EFFORT_v0.1.md` |
+| 38 | S7E19 | Room on the Page | `THE_ARRIVALS_S7E19_LN_CHAPTER_02_ROOM_ON_THE_PAGE_v0.1.md` |

@@ -1,10 +1,12 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
+> **Estado activo V38#2 — 2026-10-26:** Day549 por la tarde; dos escenas de apertura, no otra crisis. [Registro vivo V38](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). La tabla y el estado de V37 conservados abajo son su salida histórica, no el presente de V38. S7 continúa; no requiere otro verde.
+
 > **V37 completo como borrador, no S7 completa —2026-10-26:** cierre38/Day542. [Estado compacto de salida y entradaV38](S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md). Continuación ya autorizada; los avisos antiguos de volumen/temporada sin iniciar o detenerse enS6 son históricos.
 
-**Actualización:** 2026-10-26. **Punto actual:** V37#1–38, Day542 a primera hora de la tarde; V37 completo como borrador de producción, S7 continúa. Borradores de producción, no aprobación automática del lector. Verde deS7: [mensaje completo](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). S6 ylos capítulos previos permanecen intactos.
+**Actualización:** 2026-10-26. **Salida histórica de V37:** V37#1–38, Day542 a primera hora de la tarde; V37 completo como borrador de producción, S7 continúa. Borradores de producción, no aprobación automática del lector. Verde deS7: [mensaje completo](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). S6 ylos capítulos previos permanecen intactos.
 
-## Capítulos producidos
+## Capítulos producidos — V37 cerrado
 
 | Orden | Fuente | Tiempo | Escena y cambios efectivos |
 |---:|---|---|---|

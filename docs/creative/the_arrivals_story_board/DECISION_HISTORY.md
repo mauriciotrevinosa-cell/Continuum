@@ -2254,3 +2254,7 @@ Continuación sin cierre en cada push. #29–32 entrelazan técnica, vínculo de
 ### S7 — V37 cerrado como borrador, entrada de V38, 2026-10-26
 
 Ciclo de hogar/trabajo/aventura completado en38/Day542; revisión delcreador pendiente, temporada continúa. [Registro compacto](S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md) fija estado y pendientes paraevitar reinicios. Continuación yaautorizada, sin requerir otroverde paraV38 ni hacer de38 una cuota porvolumen.
+
+### S7 — V38#1–2, 2026-10-26
+
+Continuación expresa del creador. V38 inicia al aterrizar el puente542→549 en escenas de hogar y trabajo. Dos capítulos laterales breves por su materia, sin cuota de longitud. Siete brujas específicas verificadas en FourthTea; no inventar Typhon. Recepción mínima funciona, nuevo cliente sólo consulta, granja aún requiere visita y consentimiento. Se crea registroV38, se conserva salidaV37 histórica y enlace lector. No capítulos anteriores, código, DB o referencias modificados.

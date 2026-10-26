@@ -13,6 +13,8 @@ Season 7 begins the morning after V36#38, Day496. Chapters 1–3 complete the Fo
 
 **Current production:** Chapters 1–38; Volume 37 complete as a production draft. S7 continues. [Exit state and next-volume entry](the_arrivals_story_board/S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md).
 
+[Continue in Volume 38](THE_ARRIVALS_LN_VOLUME_38_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

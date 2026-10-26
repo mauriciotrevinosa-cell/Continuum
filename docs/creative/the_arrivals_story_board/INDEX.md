@@ -5,7 +5,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-> **Checkpoint S6 actual —2026-10-22:** V36#33, Day493 por la noche, Tsurugi integrado y desafío terminado; familia reunida, sin avanzar al siguiente arco. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
+> **Checkpoint S6 actual —2026-10-22:** V36#38, Day495 por la noche, cita de Mau y Yuka; V36 y S6 completos como borrador, V37 y S7 sin iniciar. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
 
 > **Actual production —2026-10-17:** [V27 The Way Home](../THE_ARRIVALS_LN_VOLUME_27_INDEX_v0.1.md) is now a29-chapter draft, Days262–267; creator reading pending. [Production/exit state](S5_V27_PRODUCTION_RECORD_2026-10-17.md), [QA](S5_V27_CONTINUITY_QA_2026-10-17.md), [handoff](S5_PRODUCTION_HANDOFF_2026-10-16.md). Earlier unwritten/no-go-ahead notes below describe prior planning state; later volumes remain future.
 
@@ -272,3 +272,8 @@ Architect ending now selected: statues/fight -> pleased by Mau -> new Black Hear
 [Propuesta íntegra y aclaraciones del creador](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md) / [mapa editorial propuesto para discutir](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md). DH-135. Continuación desde Day448, cuerpo/botín, crecimiento y unión de accesos, vínculos heridos, citas sin sexo, revelación/ruptura y cierre del arco con intervención de la Diosa. Dos corazones sostienen dos amores literalmente; intento real de Frieren contra Yuka; recuerdan Mau y sus sombras, no Ciel. Desayuno no fija final de S6. Sin verde para prosa ni aprobación automática de orden/extensión. La fuente escrita sigue terminando en V33#18.
 
 Para ritmo/volúmenes, la [reestructuración S5 de2026-10-17](S5_RESTRUCTURE_FEWER_FULLER_VOLUMES_2026-10-17.md) superó el mapa histórico V27–V36 enlazado arriba; la S5 publicada termina en V31. Usar la prosa/índices actuales y las correcciones posteriores antes de reutilizar una nota histórica.
+
+
+## S6 — cierre producido,2026-10-25
+
+**V36#38 / S6E96 CH02 / Day495noche: FIN DE S6 como borrador completo.** [Exit final y S7 en espera](S6_SEASON_COMPLETION_AND_S7_PARKING_2026-10-25.md). Mau recuerda elamor porF, eligeYuka enelpresente; agradecimiento/despedida cumplidos, posible elfrouteHimmel sólofuturoconsentido, no pareja confirmada. CitaM/Yuka cierra sinamenaza. V37/S7 sinproducir: noautocontinuar. Revisión delcreador pendiente.

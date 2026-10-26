@@ -2160,3 +2160,7 @@ Dirección nueva del creador: la casa comprende y reafirma amor en uno o dos dí
 ### DH-135 continuación — V36#31–33, checkpoint v36_31_33 (2026-10-25)
 
 Creador autoriza digestión familiar cálida, Yuka reafirmaamor, reconciliación y llegadaTsurugi/desafío. Producidos31–33, gastada moneda existente, tres anillos diferenciados, ruedaaprendizaje específico y micropulsoVoid con seguimiento. Puntos permanentes no se apagan con burnout; armas fuera y sombras testigos. Parar en33 antes de nuevoarco. Registro de relación/objetos/conocimiento actualizado.
+
+### DH-135 continuación — V36#34–38, checkpoint v36_34_38 (2026-10-25)
+
+Creador autoriza cerrar V36/S6 cálidamente, sin nuevaGate o amenaza, V37/S7 futuros. Producidos34–38: seguimientoCiel/Ori, despedidaM/F conamorrecordadonoenamoramientoactual, propuestaHimmel consensualsólofutura, roof/crackers494, citaelegidaporYuka495completa. Puntospermanentes, secuelas, objetosysaberesconservados. TerminarS6en38 ynoautocontinuarS7.

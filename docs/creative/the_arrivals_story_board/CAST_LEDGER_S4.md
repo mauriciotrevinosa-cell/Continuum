@@ -3,7 +3,7 @@
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 
-> **Checkpoint S6 actual —2026-10-22:** V36#33, Day493 por la noche, Tsurugi integrado y desafío terminado; familia reunida, sin avanzar al siguiente arco. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
+> **Checkpoint S6 actual —2026-10-22:** V36#38, Day495 por la noche, cita de Mau y Yuka; V36 y S6 completos como borrador, V37 y S7 sin iniciar. [Registro de producción, relaciones, poderes y siguiente tramo](S6_CONTINUATION_PRODUCTION_RECORD_2026-10-22.md). El creador dio verde tras medir S5. Las capturas anteriores sin verde y los handoffs S5 son historia; este registro gobierna los nuevos eventos. Borrador producido, no revisión final aprobada.
 
 > **V31 current checkpoint:** Day291evening, chapter24; [exactstate](S5_V31_PRODUCTION_RECORD_2026-10-17.md), REL-S5-035–040. FullMau-dayR20paidDay290, Coco/motherbinding/Momoowncompany/bothweeklygatheringsshown. Tower1–3done, Level5/twentypoints/twostoredfinite; dateR16nextDay292. Olderentrynoticesarehistory.
 
@@ -416,3 +416,8 @@ El snapshot S4 de este archivo permanece histórico. [Estado completo actual, re
 - **Tsurugi Okkotsu:** llegó Day492 por petición de Yuka con la única moneda nueva de la Diosa; moneda gastada. Post-Modulo, hermano deYuka, nieto deYuta/Maki, conoce aMai; cama preparada enmainhouse sin ala/número nuevo. Pide quedarse con familia. No guardia obligatoria ni admisión ganada al pelear. Anillo suyo y formaRika conocidos, sinCopy automático ni tres almas por tres anillos. Source% inicial sin medir, no cifra inventada.
 - **Yuka / Mau / Yuta / Maki / Mai:** charla490noche repara enfado por el secreto, reconoce decisión presente deYuka y amistad conM. Desafío493 nace desorientación/arrogancia deT, no aprobación pendiente deYuta/Maki ni ruptura de casa. Tras perder T se disculpa conhermana; relación sigue elegida porYuka, no premio alvencedor. Familia cena junta al33.
 - **Mau:** atributos de puntos PERMANENTES, sin interruptor. Dagasequipadas añadenATK/velocidad automáticamente, dejarlas retira sóloequipo. Duelo sin dagas/katana; Voidbreve produceburnoutCT, no apaga cuerpo. Tres sombras sólotestigos. GrisexceptoYuka/secuelas/heridasantiguas/57reservados siguen. No nuevoarcoautorizado másallá deeste cierre.
+
+
+## S6 — cierre producido,2026-10-25
+
+**V36#38 / S6E96 CH02 / Day495noche: FIN DE S6 como borrador completo.** [Exit final y S7 en espera](S6_SEASON_COMPLETION_AND_S7_PARKING_2026-10-25.md). Mau recuerda elamor porF, eligeYuka enelpresente; agradecimiento/despedida cumplidos, posible elfrouteHimmel sólofuturoconsentido, no pareja confirmada. CitaM/Yuka cierra sinamenaza. V37/S7 sinproducir: noautocontinuar. Revisión delcreador pendiente.

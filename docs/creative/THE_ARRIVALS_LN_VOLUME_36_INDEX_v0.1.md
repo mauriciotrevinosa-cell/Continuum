@@ -3,11 +3,15 @@
 **Status:** LN PRODUCTION DRAFT — S6 v0.1
 **Volume:** 36
 **Season:** 6
-**Coverage:** S6E78–S6E94
+**Coverage:** S6E78–S6E96
 **Volume title:** **Both Lives**
-**Chapter files:** 33
+**Chapter files:** 38
 
 Continues from Volume 35 (Day479, the original Mau lucid with three sets of memories). Plan: [S6_V36_PLAN_2026-10-24.md](the_arrivals_story_board/S6_V36_PLAN_2026-10-24.md).
+
+**Production completion:** COMPLETE DRAFT — Volume 36 and Season 6 end at Chapter38, S6E96 CH02, Day495 evening. Creator review pending; completion is not automatic approval. Volume37 and Season7 have not begun.
+
+The season ends with Mau and Yuka's chosen dinner date and a warm return to the family table. No new gate, final threat or promised elf-route transformation is added. [Season exit state and future planning boundary](the_arrivals_story_board/S6_SEASON_COMPLETION_AND_S7_PARKING_2026-10-25.md).
 
 ## Reading order
 
@@ -46,3 +50,8 @@ Continues from Volume 35 (Day479, the original Mau lucid with three sets of memo
 | 31 | S6E93 | Three Rings | `THE_ARRIVALS_S6E93_LN_CHAPTER_01_THREE_RINGS_v0.1.md` |
 | 32 | S6E93 | Witnesses | `THE_ARRIVALS_S6E93_LN_CHAPTER_02_WITNESSES_v0.1.md` |
 | 33 | S6E94 | At the Same Table | `THE_ARRIVALS_S6E94_LN_CHAPTER_01_AT_THE_SAME_TABLE_v0.1.md` |
+| 34 | S6E94 | One of Ours | `THE_ARRIVALS_S6E94_LN_CHAPTER_02_ONE_OF_OURS_v0.1.md` |
+| 35 | S6E95 | What the World Did with It | `THE_ARRIVALS_S6E95_LN_CHAPTER_01_WHAT_THE_WORLD_DID_WITH_IT_v0.1.md` |
+| 36 | S6E95 | Both Tables | `THE_ARRIVALS_S6E95_LN_CHAPTER_02_BOTH_TABLES_v0.1.md` |
+| 37 | S6E96 | Before Dinner | `THE_ARRIVALS_S6E96_LN_CHAPTER_01_BEFORE_DINNER_v0.1.md` |
+| 38 | S6E96 | Stay for the Evening | `THE_ARRIVALS_S6E96_LN_CHAPTER_02_STAY_FOR_THE_EVENING_v0.1.md` |

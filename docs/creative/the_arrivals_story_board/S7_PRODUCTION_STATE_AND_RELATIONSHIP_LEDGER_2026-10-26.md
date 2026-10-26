@@ -1,6 +1,6 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
-**Fecha:** 2026-10-26. **Estado actual:** V37#1 producido como LN PRODUCTION DRAFT; no aprobado automáticamente por el creador. **Continuación autorizada:** [verde y cambio de arranque](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). S6 sigue cerrada e intacta enV36#38/Day495. [Esquema aceptado sujeto al arranqueFort](S7_CONSOLIDATED_SCENE_TIME_AND_VOLUME_SKELETON_FOR_REVIEW_2026-10-26.md).
+**Fecha:** 2026-10-26. **Estado actual:** V37#1–3 producidos como LN PRODUCTION DRAFT; no aprobado automáticamente por el creador. **Continuación autorizada:** [verde y cambio de arranque](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). S6 sigue cerrada e intacta enV36#38/Day495. [Esquema aceptado sujeto al arranqueFort](S7_CONSOLIDATED_SCENE_TIME_AND_VOLUME_SKELETON_FOR_REVIEW_2026-10-26.md).
 
 ## Capítulos producidos
 
@@ -8,7 +8,10 @@
 |---:|---|---|---|
 |1|S7E01 CH01, The Hamster Standard|Day496 mañana–final de mañana|Maki despierta a Mau/Yuka en sofá; él vuelve de slime en privado con ropa de silla. Desayuno: Ori/Umaru presentan guerra por la caja privada de snacks de Umaru. Casa aporta reglas, préstamo de materiales/baskets y trabajo. Mau sólo observa y elige sentarse en Kamish; Yuka se vuelve co-defensora del tesoro. Igris/Bellion y cuatro soldados preparan campo; Beru elige defender a Yuka. Bellion se ríe de la inspección de bandera, se disculpa profesionalmente y recomienda triplicar su tamaño. Kamish acepta reglas; termina montado el escenario y ambos bandos comerán antes de comenzar.|
 
-**Índice lector:** [V37](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). **Título provisional del volumen:** A Place for Everyone. Sólo contiene un capítulo; no volumen completo, finalS7 ni temporada aprobada.
+|2|S7E01 CH02, Two Noble Citizens|Day496 después del almuerzo|Reglas de bandas y reinicio, sin heridas/armas. Lantern ya existente participa como obstáculo silencioso. Beru defiende aYuka yresiste el engaño teatral deIgris/Bellion. Gojo ayuda aUmaru/Ori con unRed minúsculo controlado yKamish representa su derrota. Recuperan tesoro; Mau capturado sólo en juego.|
+|3|S7E02 CH01, The Prisoner of War|Day496 final de tarde–noche|Mau prepara dulces conRem, conserva rigidez de dedos. Limpieza/devolución y descanso de unidades, breve paseo/conversación Frieren/Himmel quecumple invitación496 sin romance resuelto. Cena común. Yuka se ofrece a vigilar prisioneroMau y bromea conUmaru; pareja duerme en manta cerca delresto bajo estrellas, encontrada porOri/Umaru.|
+
+**Índice lector:** [V37](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). **Título provisional del volumen:** A Place for Everyone. Contiene tres capítulos y completa el día delFort; no volumen completo, finalS7 ni temporada aprobada.
 
 ## Relaciones y conocimiento al salir de1
 
@@ -19,19 +22,23 @@
 - **Beru:** el habla pública ya existente no se vuelve a presentar como sorpresa. Pide servir del lado deMau; al saber que debe defender aYuka promete cuidar aLittle Rope. No pelea ni cura estrenada. Igris colabora sin nuevo patrón o habilidad.
 - **Casa:** Momo limita préstamos delFort para conservar paso de cocina/cupboard y pide regreso de cojines; Marin/Wakana aportan tela y estructura; Fern presta baskets vacías que deben volver. Su colaboración es vivida, no asistencia universal forzada.
 - **Ciel:** canal privado; observó la única forma corporal durante el descanso y avisa de estado. No Mini Ciel, nuevo nombre o capacidad desbloqueada todavía. Noise no causa crisis ni recibe culpas nuevas.
-- **Frieren/Himmel:** paseo ofrecido para496 sigue sin mostrarse; capítulo1 no fija su ejecución, cancelación ni romance. No usar la ausencia de una línea como desaparición o cambio de pareja. Registrar al decidir cuándo se ve.
+- **Frieren/Himmel:** capítulo3 cumple el paseo ofrecido para496 mediante conversación breve sobre su vida cotidiana y ayudar en tareas pequeñas. Ella pregunta y escucha. No romance confirmado, transferencia deelfroute o revelación del ofrecimiento deMau. No volver a decir que la invitación nunca se cumplió.
 
 ## Recursos, cuerpo y espacio
 
 - Nivel106,57 puntos retenidos, Intelligence440: sin gasto o lectura nueva. Mejoras físicas permanentes, no se apagan durante el juego.
-- Registro15 nombradas incluyendoMuster y98 soldados: **sin nuevos registros, XP, reconstrucciones o pérdidas**. Cuatro soldados existentes trabajan; llamados Igris/Bellion/Beru/Kamish. Mahoraga no convocado; Lantern no aparece todavía, conserva su identidad previa para el resto del juego.
+- Registro15 nombradas incluyendoMuster y98 soldados: **sin nuevos registros, XP, reconstrucciones o pérdidas**. Cuatro soldados existentes trabajan; llamados Igris/Bellion/Beru/Kamish. Mahoraga no convocado; Lantern participa silencioso en2, su identidad previa no cambia y no se suma como registro nuevo.
 - La prolongación observada de una forma aislada hasta la mañana es este caso concreto vigilado; no prueba autonomía infinita de todos los cuerpos. Retorno humano conserva rigidez de dedos y demás secuelas; no exponer cuerpo al volver ni dejar ropa desaparecer por magia gratuita.
 - Katana y Dragon’s Wrath no se desenfundan, no stats nuevos por combate. No contrato amplio deYuka todavía; se mantiene comienzo temprano planificado después delFort. No dosLimitless, nueva llave o segundoTrial.
 - Caja deUmaru = tesoro privado de snacks, no tesoro de la comunidad, botín de lagate ni nueva moneda. No se inventó contenido milagroso ni gasto de cristales. Tela/baskets/polos prestados; construcciones temporales fuera del círculo deraíces.
-- El juego aún no comenzó; noGojoRed ya ejecutado. No invocar una versión100% deGojo antes de registrarla pararesolver ese remate. Decidir el efecto apropiado conforme al estado antes de redactarlo.
+- El juego secompletó en2–3. **GojoRed:** dirección expresa delcreador para el triunfo deamistad se ejecuta como unefecto minúsculo, demostrado primero en unpliegue detela y después en terreno vacío. Se registra esta restitución acotada observada enB, sin inventar entrenamiento off-page ni declarar kit100%, Purple/domain o reparación cerebral. La caída deKamish es actuación, no potencia capaz de derrotarlo ni XP.
 
 ## Continuación inmediata
 
-**S7E01 CH02 / V37#2:** batalla teatral delFort, reparto del resto de roles, ayuda al triunfoUmaru/Ori, actuaciónKamish, dulces/cena yprisionero de guerra conYuka según espacio de escena. Se puede separar cena/coda enotrocapítulo si hacefalta respiración; no dar por completado el episodio al tener sólo preparativos. Mantener todos los límites del juego y no insertar una expedición o cita nueva entre estas escenas del día.
+**V37#4 / S7E02CH02, pendiente:** después del día completo delFort, outing y reparto dehallazgos/prioridades conla casa. Mantener contrato amplio temprano deYukaB, sin adjudicarle préstamos vividos enA. Capítuloexclusivode otra cita no es apertura obligatoria: S6 ya terminó conuna y elcreador pidió casa/Fort primero.
 
-Después delFort, retomar outing/reparto, prioridades con la casa, contrato temprano y progresión propia deYuka. Primer salto cercano deunasemana; próximos puentes también citas/convivencia, desaceleración dossemanas antes del19. No empezar escribiendo todaS7 sin actualizar registros por lotes. Checkpoint cada10capítulos o20minutos de trabajo publicable, como pidióelcreador.
+La guerra, cena y coda están producidas en1–3; no reescribirlas ni repetir encuentro bajoestrellas como otra noche distinta. Tras la siestaexterior cercana no afirmar que durmieron toda lanocheafuera o cambiaron cuarto. No salto desemanas hasta cubrir los díasiniciales necesarios.
+
+## Control del checkpoint1–3
+
+Prosa aproximada:1,935 +1,448 +1,360 =4,743 palabras. Dos pushes lógicos:1preparación;2–3batalla/cierre.1258capítulos anteriores intactos. Primer checkpoint dellector confirmó1y enlace desdeV36; verificar2–3después delpush. Estado de inventario/cuerpo/relaciones conservado, excepto elprimerRedGojo acotado registrado arriba y paseoF/H ya cumplido.

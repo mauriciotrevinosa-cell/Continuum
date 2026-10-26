@@ -27,4 +27,4 @@ Después de tiempo/acompañamiento, ella pide algo ordinario. Se conserva elrecu
 CielB conoce ahora ese fragmento seleccionado del episodioKamish y el de músicaBocchi, además del robo/frío compartido enV36#3 y las palabras deconfesión. No esCielA ni ha vivido todas sus experiencias; no vio todavía resto dearchivo ni437vidas, y no quiere seguir hoy. Puede preguntar/mirar luego si ambos lo eligen; dejar elresto no es una prohibición vigente deMau. Esteestado reemplaza el resumen anterior de34 que sólo registraba elrecuerdo feliz.
 
 
-Revisión de prosa V36#34: 1964 palabras sin marcas de hablante. El conteo1346 del checkpoint inicial34–38 describe la versión anterior; volumen/orden/episodio siguen38/34/S6E94CH02. Ori/Noise al final y capítulos35–38 preservados.
+Revisión de prosa V36#34: 1964 palabras sin marcas de hablante. El conteo1346 del checkpoint inicial34–38 describe la versión anterior; volumen/orden/episodio siguen36/34/S6E94CH02. Ori/Noise al final y capítulos35–38 preservados.

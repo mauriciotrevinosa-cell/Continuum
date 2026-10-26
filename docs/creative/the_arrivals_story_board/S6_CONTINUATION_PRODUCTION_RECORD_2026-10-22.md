@@ -1019,4 +1019,4 @@ Bloque: 7233 palabras; mediana 1386.
 [Mensaje íntegro, escena y límite de conocimiento](S6_CIEL_CHOOSES_KAMISH_MEMORY_CREATOR_REVISION_2026-10-25.md). Mau reconoce que no debía prohibirle mirar por protegerla. Ciel elige fragmentoKamish, corta ELLA al oír huesos/rasgaduras, agradece la opción y no sabe si quiere seguir. M agradece elcamino que lo llevó aYuka yde vuelta aCiel. RecuerdoBocchi yOri siguen; S6 permanece cerrada en38, S7 no iniciada. No acceso automático a todoelpasado ni prohibición permanente vigente.
 
 
-Revisión de prosa V36#34: 1964 palabras sin marcas de hablante. El conteo1346 del checkpoint inicial34–38 describe la versión anterior; volumen/orden/episodio siguen38/34/S6E94CH02. Ori/Noise al final y capítulos35–38 preservados.
+Revisión de prosa V36#34: 1964 palabras sin marcas de hablante. El conteo1346 del checkpoint inicial34–38 describe la versión anterior; volumen/orden/episodio siguen36/34/S6E94CH02. Ori/Noise al final y capítulos35–38 preservados.

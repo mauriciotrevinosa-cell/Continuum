@@ -2230,3 +2230,7 @@ Se aplican en escena charla de riesgos y última decisión del creador sobre Red
 ### S7 — checkpoint V37#23–26, 2026-10-26
 
 Creador pide buena pelea de Mau solo después del empujón reflejo. #23–24 desarrollan la respuesta del Warden y tácticas existentes con compatibilidades/costos; #25–26 viven victoria, extracciones/llave y regreso sin ruptura familiar. Nivel109/72held/440;16named+102ordinary;32small+4pylon+1bosscrystal y4placas; timer físico activo sin número exacto impreso, futuro cruce de cumpleaños pendiente. Nuevos poderes futuros no regalados; Purple controlado demostrado aquí no se vuelve otra vez «nunca pudo». No se avanza a otro Monarch/Trial ni termina S7. Checkpoint después de bloque completo, no cuota de capítulos. Continuación autorizada ycheckpoint sincerrar porcadapush. No modificaciones achapters previos ni cambio deinfraestructura. Estado actualizado enS7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.
+
+### S7 — checkpoint V37#27–28, 2026-10-26
+
+Continuación expresa del creador. #27 precisa sólo duración relativa del contador (más deun año y después del cumpleaños elegido señalado), sin inventar fecha biológica ni ordinal global. #28 prueba ayuda de Rampart con tarea/handover/tiempo familiar. La historia manda sobre cuotas/fechas; cambios de relaciones conservados. Roster109/72/440 y16+102 intactos; no nuevo ingreso todavía. Continuación autorizada ycheckpoint sincerrar porcadapush. No modificaciones achapters previos ni cambio deinfraestructura. Estado actualizado enS7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.

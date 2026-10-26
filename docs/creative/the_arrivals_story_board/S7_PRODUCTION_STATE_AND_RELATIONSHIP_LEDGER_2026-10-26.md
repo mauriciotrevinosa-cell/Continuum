@@ -1,6 +1,6 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
-**Actualización:** 2026-10-26. **Punto actual:** V37#1–26, Day520 por la tarde/noche, tercera Red Gate vencida y vuelta a cena en casa. Borradores de producción, no aprobación automática del lector. Verde deS7: [mensaje completo](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). S6 ylos capítulos previos permanecen intactos.
+**Actualización:** 2026-10-26. **Punto actual:** V37#1–28, Day521 al final de la mañana, después de leer la llave y probar trabajo de Rampart. Borradores de producción, no aprobación automática del lector. Verde deS7: [mensaje completo](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). S6 ylos capítulos previos permanecen intactos.
 
 ## Capítulos producidos
 
@@ -32,6 +32,8 @@
 |24|S7E12 CH02, All Four|Combate dentro de la Red Gate, final|Observación de red y coordinación de cuatro capitanes rompen pylons juntos. Purple con punto externo/línea libre y costo derrota core; Kaisel coge a Mau. Acceso se abre, daños limitados, no cura vieja/BlackFlash/MiniCiel.|
 |25|S7E13 CH01, What Came Back Through|Day520, después de victoria|Yuka/Anko entran por ruta comprobada; abrazo, RCT ligera, nivel109/72held. Llave física con contador, owner/companions; Arise Rampart+4 guardias. Botín32+4+1 cristales y4 placas contado; retorno conjunto.|
 |26|S7E13 CH02, Back for Dinner|Day520 tarde–noche|Shoko examina sin hospitalización nueva; pareja confía y admite miedo/disfrute. Umaru registra109/72/440 y16+102. Fern guarda lectura de contador para cruce de fechas. Casa cena; Ciel propone trabajo de atención futuro, no MiniCiel completa.|
+|27|S7E14 CH01, Not a Goodbye|Day521 mañana|Llave cruzada con registro doméstico: apertura a más de un año y después del cumpleaños marcado, sin fecha biológica/número absoluto. Preparar no obliga a despedirse cada día. Jinshi recoge copia, Fern puede leer con Frieren; Ori conserva su compás/Mum.|
+|28|S7E14 CH02, What the Extra Hands Were For|Day521 final de mañana|Prueba segura de Rampart en carga de madera, comunicación con Igris/Kaneki. Sin arena/pylons mágicos completos. Kaneki deja trabajo entregado para tiempo con Touka/Ichika; las sombras dan tiempo real, no sólo capacidad de guerra.|
 
 ## Relaciones y conocimiento
 
@@ -53,9 +55,9 @@
 
 ## Tiempo y continuidad del plan
 
-La secuencia llega a Day520 por la tarde/noche de regreso a casa. La tercera Red Gate fue vencida, el acceso se abrió, se recogió botín y todos regresaron. No se fijó una razón universal tiempo interior/exterior a partir de este viaje; Anko registra salida/vuelta sin dar una ley para todas las gates. El primer puente explícito es Day500→507, después de mostrar la entrega de la muestra. Las fechas antiguas Day506/507 del bloque sustituido son históricas. No alcanzamos una fecha a costa de comprimir decisiones. Duraciones y número de capítulos se derivan de escenas reales.
+La secuencia llega a Day521 a última hora de la mañana, lectura de llave y primer trabajo controlado de Rampart. La tercera Red Gate fue vencida, el acceso se abrió, se recogió botín y todos regresaron. No se fijó una razón universal tiempo interior/exterior a partir de este viaje; Anko registra salida/vuelta sin dar una ley para todas las gates. El primer puente explícito es Day500→507, después de mostrar la entrega de la muestra. Las fechas antiguas Day506/507 del bloque sustituido son históricas. No alcanzamos una fecha a costa de comprimir decisiones. Duraciones y número de capítulos se derivan de escenas reales.
 
-Tercera Red Gate comenzó en #22. Charla franca Beru/riesgos realizada antes, #21. Warden derrotado en #24. En #25 aparece la única llave personal Meet the Monarch; nombre/owner/companions/countdown verificables sobre el objeto físico. Objetivo del plan: abrir después del cumpleaños elegido de Mau, cuya correspondencia anual exacta se debe verificar antes de fijar el calendario futuro. La llave sí está en poder de Mau y tiene contador activo largo; se muestra que avanza, no se imprime su número exacto. Fern pide cruzarlo mañana con la hoja de cumpleaños. No inventar una fecha de nacimiento recuperada o número de días para forzar los dieciséis meses. El Warden era condición de salida de esta Red Gate; no es el encuentro del destino de la llave ni otra torre100. No nuevo Trial; segunda petición futura de DIO es refugio. Naturaleza de Ashborn permanece abierta. S7 no está terminada por publicar esta reparación.
+Tercera Red Gate comenzó en #22. Charla franca Beru/riesgos realizada antes, #21. Warden derrotado en #24. En #25 aparece la única llave personal Meet the Monarch; nombre/owner/companions/countdown verificables sobre el objeto físico. Objetivo del plan: abrir después del cumpleaños elegido de Mau, cuya correspondencia anual exacta se debe verificar antes de fijar el calendario futuro. La llave sí está en poder de Mau y tiene contador activo largo; se muestra que avanza, no se imprime su número exacto. Fern lo cruza con la hoja doméstica en #27: la apertura queda a más de un año de esta escena y después del cumpleaños elegido señalado en el registro, no una orden de entrar. No se imprime el día ordinal absoluto ni se recupera fecha biológica. No inventar una fecha de nacimiento recuperada o número de días para forzar los dieciséis meses. La precisión relativa nueva de #27 es autoridad de ficción para continuar; el día absoluto sigue sin fijarse. No convertir Day520 en 520 días desde S1: las épocas de los registros anteriores no son todas la misma, y SERIES_TIMELINE_ESTIMATE sólo es estimación histórica. El Warden era condición de salida de esta Red Gate; no es el encuentro del destino de la llave ni otra torre100. No nuevo Trial; segunda petición futura de DIO es refugio. Naturaleza de Ashborn permanece abierta. S7 no está terminada por publicar esta reparación.
 
 
 
@@ -83,7 +85,7 @@ Day510, #18: Wakana/Marin/Stark diseñan, prueban y corrigen un portador acolcha
 
 #20, Day518: Hollis ya regresó con la respuesta antes de reunirse. Mau/Wakana/Marin/Senku acuden a un claro acordado del camino fuera del hogar, Rimuru permanece. El material real cambia el diseño; una prueba ordinaria se detiene antes de romper otra hoja. Tamsin presta por consentimiento un fragmento ya desprendido para hacer un prototipo único. No existe aún un arma encargada y pagada. Se acuerda poder llevar la prueba a su taller: invitación personal a los presentes para ese trabajo, no inmunidad mundial ni aceptación de toda Fallow. Firma/custodia/guardias siguen como antes. Inventario añade un fragmento de placa/tejido para pruebas, cedido temporalmente; la placa grande y la herramienta siguen con Tamsin.
 
-## Última dirección para la Red Gate aún futura
+## Dirección aplicada a la tercera Red Gate
 
 [Mensaje íntegro y límites](S7_THIRD_RED_GATE_REFLEX_ISOLATION_AND_FULL_FIGHT_CREATOR_DIRECTION_2026-10-26.md). La entrada empieza a volverse roja y Mau empuja al acompañante hacia fuera antes de que selle; se queda solo por reflejo. Adentro le alegra poder soltar su repertorio utilizable sin un compañero humano en riesgo, y necesita pelea desarrollada, no resumen de técnicas. No es una maniobra para engañar o dejar atrás a la casa. Charla previa Beru y única llave Meet the Monarch se conservan. Fijar compatibilidades y repertorio real, no liberar todo lo archivado por declarar «full out».
 
@@ -113,10 +115,18 @@ Botín contado:32 cristales pequeños +4 mayores de soportes +1 cristal de recom
 
 La vuelta no reinicia acusaciones: Yuka oyó a Mau intentar seguirla, confía en el reflejo que la sacó y también puede decir que se asustó. Él admite que disfrutó tener espacio; ella no pide que finja sufrimiento para probar amor. El contrato sigue, Blue fue pausado de común acuerdo y no se reactiva en secreto; perros/Rabbit Escape suyos intactos. Ciel seguirá trabajando con Noise en carga/atención a partir de lo que observó, pero Mini Ciel todavía no existe ni se nombra como producto terminado. Gojo no recupera100% por oír el relato. Casa cena y vida propia continúan.
 
+
+
+## Vuelta a la vida, #27–28
+
+Day521: Fern/Rimuru/Mau leen la llave, conservan condiciones owner/companions y distinguen una fecha de disponibilidad de amenaza o entrada obligatoria. La espera es mayor de un año; no se publican números absolutos ni se inventa cumpleaños biológico. Después del cumpleaños anotado que precede a la apertura; suficiente margen para vida/preparación. Mau quiere preparar sin vivir cada día como despedida. El registro doméstico del cumpleaños elegido sigue existiendo en B; Rimuru/Fern recuerdan haberlo elegido mañana para poder preparar. Jinshi recibe copia, Fern se sienta con Frieren a leer mientras Ori usa su propio compás para encontrar Mum.
+
+Rampart se prueba dentro de patio de trabajo despejado, no raíces ni fuera del amparo: sostiene una carga mientras cambian apoyo, acepta instrucciones concretas de Kaneki por autorización de Mau, luego sigue trabajo con Igris. No reproduce arena ni cuatropylons; su fuerza práctica no certifica todo el arsenal como listo. No extrae/gasta puntos o cambia roster. Kaneki usa la cesión real para ir con Touka/Ichika, cafénegro sin nueva dieta. No relevo de turnos impuesto; una tarea, una entrega de responsabilidad y tiempo recuperado. Mau conserva hombro molesto y no hace de sustituto físico automático.
+
 ## Próxima escena
 
-No otra crisis inmediata ni apertura de Meet the Monarch. Cerrar primero lectura de llave/calendario con fuentes reales: contador largo existe pero no cifra impresa, cumpleaños de Mau elegido (no biológico) y objetivo apertura después de cumpleaños acordado. Si falta fecha anual, documentar incertidumbre y consultar cuando de ella dependa fijar saltos; no inventarla. Prototipo Tamsin sigue pendiente: probar con su fragmento específico antes de venta, materiales nuevos distintos. Pareja/Yuka propia, familia y resto de aprendizaje siguen vivos; cuatro perros no, pareja Divine Dogs+Rabbit Escape son dos familias. Probar Rampart/nuevos trabajadores en entorno seguro, no atribuir arsenal completo del jefe por nombre. Ruido/Ciel completan/refinan priorizando atención/kit; MiniCiel tendrá escena de construcción y nombre orgulloso, no basta un puente. No cerrar V37/S7 por este checkpoint.
+Empezar el trabajo de Ciel/Noise sobre carga perceptiva con pruebas y algún fallo comprensible; no dar Mini Ciel ya completa por nombrarla. Continuar progreso propio de Yuka (Nue candidato después Rabbit Escape) y reanudar por acuerdo el Blue pausado para la pelea antes de nuevos usos. Prototipo para Tamsin con su material, no asumir placa de Warden equivalente; primera entrega/ensayo y venta deben verse. Saltos pequeños pueden intercalar estas líneas y vida/relaciones. No prisa hacia la fecha de apertura, no nueva Red Gate ni otro gran peligro inmediato. No decidir Ashborn/trasfondoMakima con la espera como excusa.
 
 ## Checkpoints
 
-V37#1 y2–3 ya se publicaron por separado y ellector confirmó los tres sinadvertencias, con elenlace desdeV36. Este bloque23–26: 4929 palabras aproximadas; revisar índice/texto/navegación después de lapublicación. No cierre de volumen o temporada por efectuar unpush; continuar trabajo autorizado segúnelplan ylas correcciones delcreador.
+V37#1 y2–3 ya se publicaron por separado y ellector confirmó los tres sinadvertencias, con elenlace desdeV36. Este bloque27–28: 1340 palabras aproximadas; revisar índice/texto/navegación después de lapublicación. No cierre de volumen o temporada por efectuar unpush; continuar trabajo autorizado segúnelplan ylas correcciones delcreador.

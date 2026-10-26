@@ -1,5 +1,7 @@
 # The Arrivals — de casa familiar a pueblo: convivencia y cenas
 
+> **Ajuste posterior del creador, 2026-10-26:**400 fue sólo un número ilustrativo. El crecimiento se narra con saltos y escenas completas, pero **el ritmo diario regresa un poco antes del cumpleaños19 deYuka**, durante las últimas pruebas del regalo, no sólo al final de los dieciséis meses. [Mensaje íntegro](S7_PACING_PERMANENT_KIT_AND_MINI_CIEL_CREATOR_DIRECTION_2026-10-26.md), [primeras semanas/ritmo](S7_FIRST_WEEKS_AND_PRE_BIRTHDAY_SLOWDOWN_PROPOSAL_2026-10-26.md), [repertorio estable/MiniCiel/reglasJJK](S7_MAU_STABLE_KIT_MINI_CIEL_AND_JJK_RULES_PROPOSAL_2026-10-26.md). Yuka podrá activar su canalLimitless sin autorización individual; Mau soporta la demanda conjunta. Shion candidata, no llegada. Objetivos de poder y expansiones requieren desarrollo, no son hechos ya producidos. **S7/V37 siguen sin prosa.**
+
 **Fecha:** 2026-10-26. **Estado:** propuesta editorial solicitada, a discutir; no obra ya construida ni mapa aprobado. Se diseña una capacidad posible de400, no se decreta que ese sea el censo al terminar S7.
 
 **Idea:** que mudarse de habitación no signifique salir de la familia. Mantener el inn como hogar al que se vuelve y extender sus recorridos cotidianos: patios, galerías, cocina, biblioteca, música y mesas. No repartir casas por franquicias ni convertir a Mau en dueño de un reino.

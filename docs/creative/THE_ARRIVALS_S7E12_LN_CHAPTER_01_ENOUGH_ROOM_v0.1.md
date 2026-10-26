@@ -37,7 +37,7 @@ He left the four assigned at home where they were. The rest answered.
 
 The soldiers came out across the court.
 
-They filled the broken gaps between columns, caught the guards still trying to reach him and drove them away from the center. Mau felt the weight of calling them, deep and familiar, separate from the work he was about to ask of his own cursed energy.
+They filled the broken gaps between columns, caught the guards still trying to reach him and drove them away from the center. Mau felt their attention gather, deep and familiar, and kept the orders clear before reaching for the work of his own cursed energy.
 
 Igris took the western gallery.
 

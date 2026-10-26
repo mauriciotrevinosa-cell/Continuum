@@ -2242,3 +2242,7 @@ Continuación sin cierre en cada push. #29–32 entrelazan técnica, vínculo de
 ### S7 — checkpoint V37#33–34, 2026-10-26
 
 #33–34 completan primer ciclo herramienta-consulta-prototipo-prueba-venta-uso de ingreso. Se mantienen comercio antiguo/4–3–3, costos, visita por invitación y participación voluntaria. Nuevosrecipientes/suministros/treat proceden de lista previa, no gasto unilateral inventado. No familia nueva, poder o CT concedidos. Ciel y Yuka siguen sus proyectos entrelazados, no bloque narrado sólo de administración. Continuación autorizada ycheckpoint sincerrar porcadapush. No modificaciones achapters previos ni cambio deinfraestructura. Estado actualizado enS7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.
+
+### S7 — checkpoint V37#35–36, 2026-10-26
+
+#35–36 cumplen avance perceptivo real y ampliación del contrato: MiniCiel funcional sin filtroantiguo rebautizado, Ciel no reemplazada; gris/lesión persistentes. Yuka gana herramienta utilizable mediante práctica propia, sigue sin segundoLimitless de19. Precisión localizada en23: convocatoria de almacenadas gratis segúnS6E82CH02; reparación/extracción mantienen costo. Es aclaración de atención/recursos, no reescritura de eventos anteriores. Nivel/legión/objetos conservados. Continuación autorizada ycheckpoint sincerrar porcadapush. No modificaciones achapters previos ni cambio deinfraestructura. Estado actualizado enS7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.

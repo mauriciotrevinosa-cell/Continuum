@@ -15,10 +15,23 @@
 | 7 | S7E39 CH01 | Day768 | NeutralInfinityprototypeYukaenpropioorigen,clothyseleccióncontacto, costereducidoconGojo/Ciel/Noise/noCEgratis. No24hperfectfilter,nil fullgiftregaladoanticipado. |
 | 8 | S7E39 CH02 | Day773 | Jinshi/Maomaoescenapropia/lampmethodexistenteapath,testagotó1smallstock249.No secretoink/growthprotection,roledescansocontinúa. |
 | 9 | S7E40 CH01 | Day777 | Umaru/Taihei/Mausiblingjugados,puntos102retenidos. InterfaceIntmappingshadow/mana/CEcomoincomplete,nobuyallmastery.Heapuntaeficienciaactualantesdevaciarpuntos. |
+| 10 | S7E40 CH02 | Day782ritual/783recall | PiercingOxconMauayudacontada/nuevachoreorutas/domain9s/Serpent/Elephantganaúltimacarga;burnout/descanso.Recall783nativa7familias,nounArise. |
+| 11 | S7E41 CH01 | Day786 | Yuka primerRedprototype conreversalpreparadaMau,no maestríaRCTpropia. Primerplacementperspectivalargo/noheridos,nextpreciso. Fecha19yunprimeroaniversariomanoexpresamenteconocidos. |
+| 12 | S7E41 CH02 | Day790 | Fortpropuestas/guerrarechazadaparaquecake quedecomida, familia participayYukaeligefood/tiempo. Maiayudaapapelparaannivmap,no ring/construction/boda. |
 
 ## Estado actual
 
-**Actual V39#9 /Day777**,334díasdesde443;31al19Yuka808yprimeraaniversariomano. Stoptrasbday/presentarplanesMau,no prosaMau/familyblessing/Monarchadela porautopilot.
+**ActualV39#12 /Day790.** Faltan18hasta808/19Yuka yprimeraaniversarioamano443. Próximo puente794yreducirritmoaúltimosensayos/díaspreparación. StopdespuéscelebraciónyconsultarplanMau; no prosaMau/Blessing/Monarch.
+
+Yuka**7familias**:Dogs/Rabbit/Nue/Toad/MaxElephant/GreatSerpent/PiercingOx. Ox782conMaudentroasistenciacontadasegúnprotocoloprevio,noregalóúltimafuerza;Yukadomain~9sec+ownSerpent/Elephantmovimiento lo derrota. Burnout/rest,nativaindependienterecall783, 0Arise/Maho/Yukamonarchsoldiers. RoundDeer/Tiger/Mahoragafuturos,nopretenderall10domadas. Dominio681aprendidoyrefinadoprácticamenteenritual9s;targetingsiguetrabajo,nodejarpeldañoen6para siempre.
+
+SegundoLimitlessRed786primerejecuciónconreversedflowMaupreparó,supply/patrónfuenteél;ellanoproduceRCT/healingpropia. Manoapunta/releaseplacerleenseña,primergolpealgoancho/safefield,correctednext.Eficiencia yneutral/concurrente/sleep/permanencia finalfaltan,Blue/Skytempranoautonomíaintacta.No purpleYuka/dominioUVpersonal regalada. Mau115/102held/440;380legión/249small4pylon5bossigual777. No budgedeptsgratuito.
+
+Birthdayplanning790colectiva,comidareal/rotaciónMomoRemRam/tablesporlluvia/músicabanddecide,guerraFortpropuestahumorrechazada(no secondwarconsumecelebración). Ori/FrierenMum/compásvivos,sin memoriaataqueAimportada. YukaMaihacenpapeIproyectoprivadoparaanniv,noterminadoal790/noconstructionring, Maugifttechnicalnotsoleonlyrelationship. Vesselsecret/terror ycompañíavigentes, exactwordsnotoldpublicly/no newwill.
+
+Herencia777confechashistóricas ycorreccióneditorialdelregistro:
+
+**Base heredada777**,334díasdesde443;31al19Yuka808yprimeraaniversariomano. Stoptrasbday/presentarplanesMau,no prosaMau/familyblessing/Monarchadela porautopilot.
 
 Brigadas722/737/754realizadasconMau+alternandoAnko/Mikasaenruta, bajoIgris/Beru, repetirprotocolo641no nuevasinvasionesplanetarias. Extraccionesordinarias52+61+64=177incluyenbosses,porque203previos+177=380total;16nombradas+364ordinarias,Mahoragaaparte.Cadáveresgenerados,nofamiliaresrescatadosconvertidos. +4niveles/+20held→Mau115/102retenidos/Int440,otrospuntosinvertidosnuevosningunos.AnotacióninterfaceIntpermitevermappingmana/CEademásshadowperoestáincompleto, no bonusyaaplicadoportenertexto ni fusiónmanaCElibres. Umaruaguarda/esquema,eltiempolibre/taiheisiblingnoviveenarchivohistórico.
 
@@ -26,7 +39,7 @@ Loot174small+3bossdeesos3gates=291small/4pylon/6bossantesventa. 1smallagotadocom
 
 Yuka6familiascomo4, nuevaflight760primerdualhumanNueconMaupesocompleto/loopspreparados/rutaprotegidalowaltitudenociudadvisitada, unfalloprimerliftthenéxito/dateretornopuntual. NomauliftRulerfake,notcontinental/unlimitedflight. Neutralprototype768primerclothfall/reacciónlanza,puntodegastoarregladoconGojo/Ciel/Noise yconsumosdescienden,supplyMaupaga. YukaeligecontactoMuatravésdebubble, dosorigenseparados,no ahora24hthreatfilterperfect. ReverseRed/twobothfull/sleepindependence/pruebaspermanenciasiguenpara19,loanBlue/Skytempranonoquitado. Nativodominio681cierre6segaprendido,refinamientopendientenoreset. OwnCEvsforeigncostsharedseparadosaúnsinCEpoolfusion.
 
-Yuka/Maufuturehealth/room625–626vigentes;pareja760outingellaorganizaigualmentecolores/dañosno curados. No nuevaCT/Blackflash/autocalamitypercent/elfroute. Bodynightterror734informedShokoRimuruYuka peroexactwordsAarquitecto/hipótesisvesselguardsigueenMau. No confirmedposesión/destino, Cielnopublic y nofullAarchive.317/615memoriasviejasnosevendenni abrencomoexplicaciónautomática.
+Yuka/Maufuturehealth/room625–626vigentes;pareja760outingellaorganizaigualmentecolores/dañosno curados. No nuevaCT/Blackflash/autocalamitypercent/elfroute. Bodynightterror734informedShokoRimuruYuka peroexactwordsAarquitecto/hipótesisvesselguardsigueenMau. No confirmedposesión/destino, Cielnopublic y nofullAarchive.Las tres memorias deMau conservan sus límites; ningún archivo se abre automáticamente.
 
 Herencia746sinreset,aplicarencabechangesdearribaencifras:
 
@@ -47,4 +60,4 @@ V38cubiertapequeña/pasosbancos,2plantas/raíces/amparomismossinexpandir;Momodes
 
 ## Continuación
 
-Continuarprimer7mofamiliesotro tamesiestájustificado,finalpruebasreversal/eficienciaconcurrente/sueño/autonomíatécnica yelfiltro selectivono deprivados. Desde794másritmodíaadíaantes19,no comprimirpreparación/gift19aniversario/vidaenfámiliacumple. Todavía31díaspermiteescenarooffellas/crackers/pequeñosafectos,sembrarterrormiedovessel sincontinuarcatástroferepetida. Al808pararypresentarplanesMauyaexistenestánabiertos,no escribirlosnuevo verde.
+Escribir794pruebasdoble outputsinhalves/aprenderefficiencyGojo+Ciel/Noise;796sleepconsentpruebaMauasleepconShoko/Rimuru yYukaoperando. Todavíapartydays/roof/crackers/annivmap/runups no cuantascena. Añoaniversariodesde443coincidecumple808,dialogueno olvida.Eventobdayquedellivradofinalgifts/cake/dinner80%vida, miedoMaucrececonmomentosrespetados,noclausula139todoespossession. FinalplanMauporpresentar,nuevaautorizaciónfaltaráparaprosaafter808.

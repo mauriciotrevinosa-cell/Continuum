@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 39
 **Season:** 7
-**Coverage:** S7E36–S7E40 (in progress)
+**Coverage:** S7E36–S7E41 (in progress)
 **Volume title:** **A Place in Tomorrow** (provisional)
-**Chapter files:** 9
+**Chapter files:** 12
 
 Volume 39 follows the shared technique project toward Yuka's nineteenth birthday, with lived intervals and a closer daily pace before the celebration. Production stops there for creator discussion of Mau's birthday and what follows. The story determines chapter and volume length; drafts are not automatic approval.
 
@@ -24,3 +24,6 @@ Volume 39 follows the shared technique project toward Yuka's nineteenth birthday
 | 7 | S7E39 | The Space She Chose | `THE_ARRIVALS_S7E39_LN_CHAPTER_01_THE_SPACE_SHE_CHOSE_v0.1.md` |
 | 8 | S7E39 | The Light Beside the Path | `THE_ARRIVALS_S7E39_LN_CHAPTER_02_THE_LIGHT_BESIDE_THE_PATH_v0.1.md` |
 | 9 | S7E40 | The Page She Kept | `THE_ARRIVALS_S7E40_LN_CHAPTER_01_THE_PAGE_SHE_KEPT_v0.1.md` |
+| 10 | S7E40 | The Shortest Line | `THE_ARRIVALS_S7E40_LN_CHAPTER_02_THE_SHORTEST_LINE_v0.1.md` |
+| 11 | S7E41 | The Other Direction | `THE_ARRIVALS_S7E41_LN_CHAPTER_01_THE_OTHER_DIRECTION_v0.1.md` |
+| 12 | S7E41 | There Will Be Cake | `THE_ARRIVALS_S7E41_LN_CHAPTER_02_THERE_WILL_BE_CAKE_v0.1.md` |

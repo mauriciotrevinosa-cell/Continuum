@@ -40,3 +40,7 @@ Hilos conservados para esa planificación: segunda petición de laDiosa; misteri
 
 
 Revisión de cierre38: [slimeMau yreclamoRimuru](S6_MAU_SLIME_DATE_AND_RIMURU_CODA_CREATOR_REVISION_2026-10-25.md). Este uso pequeño y voluntario deunpatrón existente no cambia elestado de lospuntos, secuelas alvolver, corazones, inventario, sombras o permisos deS7. Prendas deMdobladas sobreunasilla cerca delsofá; Yuka llevaMcLaren.
+
+## Planificación posterior, 2026-10-26
+
+> **Planificación S7, 2026-10-26 — sin prosa autorizada:** [mensaje íntegro y decisiones del creador](S7_SIXTEEN_MONTHS_CREATOR_FULL_PROPOSAL_2026-10-26.md), [auditoría de continuidad](S7_CONTINUITY_AUDIT_AND_OPEN_DECISIONS_2026-10-26.md), [esqueleto de dieciséis meses](S7_WORLD_FAMILY_AND_TIME_ADVANCE_SKELETON_2026-10-26.md) y [crecimiento del hogar/cenas hasta400](S7_MAIN_HOUSE_TO_FAMILY_TOWN_LIVING_PLAN_2026-10-26.md). DIO es la misma Diosa en cuerpo vulnerable; Makima responsable principal con mecanismo pendiente; naturaleza deAshborn abierta. Segunda petición: refugio, **no nuevoTrial**. S6 sigue cerrada enV36#38/Day495; V37 no se ha empezado.

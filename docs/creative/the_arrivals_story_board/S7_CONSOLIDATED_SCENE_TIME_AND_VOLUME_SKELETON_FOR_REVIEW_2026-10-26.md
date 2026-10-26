@@ -1,5 +1,7 @@
 # The Arrivals — S7: esquema consolidado de escenas, tiempo y entregas
 
+> **Producción S7 iniciada por nuevo verde, 2026-10-26:** el creador acepta el plan con la condición de abrir con la guerra del Fort. [Permiso íntegro y cambio de orden](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). **Producido V37#1, The Hamster Standard, Day496 mañana**: Maki despierta a la pareja en sofá, desayuno/propuesta, reglas y construcción; Bellion y la bandera. [Índice V37](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md) · [Estado y relaciones vigentes](S7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.md). La batalla, cena y coda aún no están escritas; siguiente escena continúa el mismo día. S6 no se alteró. Los avisos antiguos de «no verde/noV37» son históricos desde este permiso.
+
 **Fecha:** 2026-10-26. **Estado:** propuesta para opinión final del creador. **No verde de prosa ni índice de V37.** Entrada: V36#38/Day495. Última autoridad: [precisiones completas y respuesta de la llave](S7_HOUSEHOLD_PRIORITIES_EARLY_YUKA_CONTRACT_AND_KEY_CREATOR_DIRECTION_2026-10-26.md). Las cantidades son estimaciones revisables; no cuota para comprimir/rellenar.
 
 ## 1. Escala propuesta, sin confundir números
@@ -34,15 +36,17 @@ Suma de rangos normales85–125, más15–25 viñetas repartidas =100–150. Est
 
 **Volúmenes propuestos:** V37 reúne A+B y parte deC; V38 completa C+D y prepara la desaceleración; V39 vive E y el desarrollo deF; V40 continúa F+G. Ajustar según cierres naturales, no cortar la celebración o la confesión para igualar capítulos. Primera Red Gate puede cerrarV37 si su tamaño lo justifica. Progresión, citas y mundo siguen entrelazados en todos.
 
-## 4. Arranque concreto antes del primer salto
+## 4. Arranque vigente tras el verde: Fort primero
 
-1. **Capítulo de Mau/Yuka:** día compartido, conversación y gestos de la relación actual. No ceder casi todo el capítulo a un consejo comercial o aCiel explicando poderes. El último díaS6 no se repite; al despertar pueden hacer algo que ya eligieron.
-2. **Outing:** explorar con un grupo que tenga motivos para ir. En una parte de la escena se ve quétrajeron, quéusan, quéreservan y quévenden. No tabla de inventario que sustituye la aventura; guardar las cifras en el registro.
-3. **Prioridades con la casa:** hallazgos y primer pedido hacen concretas las opciones. Mau escucha, la familia propone y eligen quéproducir/terminar. La conversación privadaM/Ciel/Noise deriva de esas prioridades; no las dicta a toda la comunidad.
-4. **Nuevo contrato temprano:** explicar consentimiento, acceso y salida. Yuka prueba una aplicación, toma una decisión y plantea su propio objetivoTen Shadows. No perfección inmediata. Puede necesitar dividir en otra escena si lo exige la conversación.
-5. **Fort contraKamish:** capítulo completo con las reglas, los equipos, Beru defendiendoLittleRope, ayudaGojo, triunfoUmaru/Ori, dulces/cena y elprisioneroMau queYuka se lleva un poquito atrás. No sólo un montaje.
+La condición expresa del creador sustituye el antiguo capítulo exclusivo de pareja como apertura. La cita ya ocurrió enV36#38. Primeras escenas:
 
-Esto puede ocupar5–7 capítulos normales, segúnouting/charlas, y alguna viñeta. Ocurre enunosdías, no un mes de planificación burocrática. **Primer salto: alrededor de una semana después**, para ver ajustes, primer intentoHollis y rutina; no saltar directamente seis meses.
+1. **V37#1 / S7E01CH01, producido:** Day496 mañana, Maki despierta a Mau/Yuka en el sofá. Desayuno, propuesta de Ori/Umaru, reglas, reclutamiento y construcción. Bellion acepta la corrección sobre la bandera con humor y profesionalidad.
+2. **Batalla del Fort, pendiente:** el juego continúa el mismo día; el triunfo, la actuación de Kamish y ayuda al poder de la amistad deben respetar capacidades disponibles y reglas pactadas.
+3. **Cena/coda, pendientes:** dulces y prisionero de guerra; Yuka/Mau un poquito detrás, bajo estrellas. Si necesita capítulo propio, darle espacio antes de cambiar de tema.
+4. **Outing, reparto y prioridades con la casa:** sólo después del día del Fort; primer pedido/Hollis y propuestas compartidas.
+5. **Contrato amplio temprano enB y progreso propio de Yuka:** no meses de espera ni préstamos deA atribuidos aB.
+
+El conjunto inicial sigue estimado en5–7capítulos normales según escenas, no una cuota. El primer salto cercano deunasemana llega después de estos días completos. El resto del plan aceptado conserva su desarrollo y puede ajustarse por cierres reales.
 
 ## 5. Qué aporta la casa a las prioridades
 

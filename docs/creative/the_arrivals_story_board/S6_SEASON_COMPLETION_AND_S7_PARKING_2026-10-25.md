@@ -1,5 +1,7 @@
 # The Arrivals — S6 completada como borrador / S7 en espera
 
+> **Producción S7 iniciada por nuevo verde, 2026-10-26:** el creador acepta el plan con la condición de abrir con la guerra del Fort. [Permiso íntegro y cambio de orden](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). **Producido V37#1, The Hamster Standard, Day496 mañana**: Maki despierta a la pareja en sofá, desayuno/propuesta, reglas y construcción; Bellion y la bandera. [Índice V37](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md) · [Estado y relaciones vigentes](S7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.md). La batalla, cena y coda aún no están escritas; siguiente escena continúa el mismo día. S6 no se alteró. Los avisos antiguos de «no verde/noV37» son históricos desde este permiso.
+
 **Fecha del creador:**2026-10-25, America/New_York.
 **Punto final:**V36#38, Stay for the Evening; S6E96 CH02; Day495 por la noche.
 **Estado:**V36 y S6 completos como borrador de producción. Pendiente de revisión/aprobación del creador. **No hay V37 ni S7 producidos.**

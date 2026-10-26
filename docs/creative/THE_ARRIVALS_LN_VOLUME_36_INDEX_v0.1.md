@@ -11,7 +11,7 @@ Continues from Volume 35 (Day479, the original Mau lucid with three sets of memo
 
 **Production completion:** COMPLETE DRAFT — Volume 36 and Season 6 end at Chapter38, S6E96 CH02, Day495 evening. Creator review pending; completion is not automatic approval. Volume37 and Season7 have not begun.
 
-The season ends with Mau and Yuka's chosen dinner date and a warm return to the family table. No new gate, final threat or promised elf-route transformation is added. [Season exit state and future planning boundary](the_arrivals_story_board/S6_SEASON_COMPLETION_AND_S7_PARKING_2026-10-25.md).
+The season ends with Mau and Yuka's chosen dinner date and a sofa nap, Yuka holding his small slime form while Rimuru objects affectionately to the borrowed shape. No new gate, final threat or promised elf-route transformation is added. [Season exit state and future planning boundary](the_arrivals_story_board/S6_SEASON_COMPLETION_AND_S7_PARKING_2026-10-25.md).
 
 ## Reading order
 

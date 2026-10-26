@@ -8,7 +8,7 @@
 
 ## Cierre que ya se escribió
 
-V36 tiene38capítulos. Los nuevos34–38 dan seguimiento aCiel, dejan aOri invitar aMau a su vida presente, completan la charla privada deMau/Frieren, muestran roof ycrackers el494, y terminan con la cita deMau/Yuka el495. La última escena es una elección de seguir sentados juntos en casa. Sin nuevaRedGate, golpe hostil, llamada de antagonista, puerta misteriosa ni promesa de desastre en la última línea.
+V36 tiene38capítulos. Los nuevos34–38 dan seguimiento aCiel, dejan aOri invitar aMau a su vida presente, completan la charla privada deMau/Frieren, muestran roof ycrackers el494, y terminan con la cita deMau/Yuka el495. La última escena, revisada por el creador, muestra aYuka dormida abrazando aMau en una forma pequeña de slime, patrón corporal deRimuru ya existente que se usa solo y se comprueba alvolver. Ciel sigue despierta, los demás patrones cerrados; Rimuru protesta conhumor porqueMau le robó laforma y consiguió mejorasiento, ylos deja descansar. Sin nuevaRedGate, golpe hostil, llamada de antagonista, puerta misteriosa ni promesa de desastre en la última línea.
 
 Mau recuerda haber amado realmente aFrieren; recuperó memoria de esa experiencia, no un enamoramiento presente idéntico. Actualmente elige aYuka. Se corrigió sólo la respuesta contradictoria enV36#11 y se fijó la distinción en35. Frieren no debe vivir la relación que recuerdaMau ni disculparse por la otraFrieren. Él agradece y reconoce su propia responsabilidad: el mundo explotó aquel amor, ella no fue quien lo convirtió en maldición. No se borra la belleza del pasado, su historia ni el hecho del ataque original contraYuka.
 
@@ -37,3 +37,6 @@ Hilos conservados para esa planificación: segunda petición de laDiosa; misteri
 ## Regla de relevo
 
 **DETENER PRODUCCIÓN ALFINAL DE V36#38.** Está cerradoS6 por decisión explícita. Ningún plan antiguo de continuarV36, “pendienteArmy”, “monedaparaTsurugiaún guardada”, “Mauamaactivamenteaambas”, pausa despuésde26 o mero banner histórico reabre aquello ya producido. Conservar procedencia histórica, usar esteexit y el checkpoint final. Próximo trabajo es conversación/planificación conMauri, no autocontinuación.
+
+
+Revisión de cierre38: [slimeMau yreclamoRimuru](S6_MAU_SLIME_DATE_AND_RIMURU_CODA_CREATOR_REVISION_2026-10-25.md). Este uso pequeño y voluntario deunpatrón existente no cambia elestado de lospuntos, secuelas alvolver, corazones, inventario, sombras o permisos deS7. Prendas deMdobladas sobreunasilla cerca delsofá; Yuka llevaMcLaren.

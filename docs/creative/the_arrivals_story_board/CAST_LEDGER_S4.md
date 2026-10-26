@@ -426,3 +426,8 @@ El snapshot S4 de este archivo permanece histórico. [Estado completo actual, re
 ### Ciel — nuevo conocimiento por elección, V36#34,2026-10-25
 
 [Revisión localizada autorizada](S6_CIEL_CHOOSES_KAMISH_MEMORY_CREATOR_REVISION_2026-10-25.md): M reconoce error de prohibir; CielB elige fragmentoKamish, oye voz deCielA/dolor, corta ella y no siguehoy. No todoelarchivo ni437vidas; M no mantiene prohibición y ella conserva límite. Se conservan recuerdo feliz y cierreS6 condate38. No retocarV36#3 ni fuenteS5.
+
+
+### Mau/Rimuru/Yuka — forma aislada de slime, V36#38,2026-10-25
+
+[Revisión autorizada del final](S6_MAU_SLIME_DATE_AND_RIMURU_CODA_CREATOR_REVISION_2026-10-25.md): patrónRimuru existenteS4se mantiene solo, primer retorno comprueba secuelas, segundaforma voluntaria mientrasYuka loabraza yambos duermen ensofá. Ciel despierta vigila1patrón, R los ve ybromea. No resetdepuntos, nuevoRimkit, curación, nuevaespecieconfirmada oS7 iniciado. CierreS6sigue38.

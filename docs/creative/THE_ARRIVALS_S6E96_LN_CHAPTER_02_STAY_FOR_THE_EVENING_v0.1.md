@@ -5,7 +5,7 @@
 **Volume:** 36
 **Reading order:** 38
 **Source episode:** S6E96
-**Continuity state:** Day495 evening. Final chapter ofV36 andS6, YukaPOV for date she proposed and helped make. Real dinner with existing supplies nearhouse, no gate, power demonstration, new equipment/coin, ominous cutaway or S7 chapter. Both present choices and affection, no inherited family/children promise or engagement. Gray remains forM exceptYuka; her seeing blueeyes/candlecolor doesn't change his vision. McLaren hoodie remains borrowed, lotus bracelet same, cuff/damaged fingers treated gently. No sex; affectionate kissing and walk/return home. House continues music/meal and familylife, Tsurugi included without another challenge. Ends genuinely happy and secure in this evening. Unresolved mysteries stay in continuity notes, not a last-paragraph threat. LN production draft closure, creator review still required.
+**Continuity state:** Day495 evening, final V36/S6 chapter, YukaPOV through date then brief Rimuru coda. Existing dinner/walk/kiss preserved; Yuka asks about small abilities. Already-built Rimuru slime-body response is deliberately isolated with Ciel/Noise, shown seated, brief round form and full return before clearing/walk; old stiff fingers/marks persist, no heal, reset of point gains or full Rimuru kit. Yuka lifts/cuddles him, he protests lack of warning, she says perfect and blushes. On sofa she asks for repeat, he checks stable one-pattern use, clothing handled privately, explicit pickup permission, both nap. Ciel remains awake maintaining/monitoring only chosen form, privately identifiesM toR. Rimuru jokes he stole his form and better seat, lets them sleep. Finite present demonstration, not universal permanent autonomy of every form or infinite overnight guarantee. No new gate/threat/S7, engagement or sex. Gray persists exceptYuka; her seeing blue slime is her own perception.
 
 *When: Day495, evening. Yuka has asked everyone to leave the table alone. Miraculously, they have.*
 
@@ -221,6 +221,138 @@ She gave him one bite anyway.
 
 * * *
 
+For a while they ate without trying to make the evening do anything else.
+
+Then Yuka looked from his hands to his face.
+
+"What can you actually do?" she asked. ʸᵏ
+
+Mau glanced at the plate.
+
+"Apparently not get a second helping of that." ᴹ
+
+"You know what I mean." She smiled. "I keep hearing about enormous things. Is there anything you can show me which doesn't need a field and three people telling us where to stand?" ʸᵏ
+
+He considered it. A little expression came into his face, almost embarrassed by the idea.
+
+"Possibly something very stupid." ᴹ
+
+"Promising." ʸᵏ
+
+He put down the cup before asking Ciel privately.
+
+*Rimuru's body pattern. Just that one. Could we hold it, instead of letting it answer a hit?* ᴹ
+
+There was a pause while she looked at the shape he meant, rather than reaching for all the things beside it.
+
+*The pattern is there. Noise, can you leave the others closed?* ᶜ
+
+The attention below them moved to the one outline.
+
+*One,* Noise answered. ᴺ
+
+*Then try it seated,* Ciel said. *A short change first. And back.* ᶜ
+
+Mau moved his chair a little away from the table.
+
+"Don't panic," he told Yuka. ᴹ
+
+She put her cup down at once.
+
+"That is an extremely bad beginning." ʸᵏ
+
+* * *
+
+His outline softened.
+
+Yuka saw the shoulders settle, the shape within the shirt become blue and translucent, then round itself into something which yielded gently into the clothes left on the chair. No hard shape pushed out through it. No other body tried to arrive at the same time.
+
+A small slime sat where Mau had been.
+
+For a moment she could only stare.
+
+Then his familiar voice came from the quivering little body.
+
+"Still me." ᴹ
+
+"Mau." ʸᵏ
+
+"Yes." ᴹ
+
+She rose so quickly that he rocked back into the folded edge of his shirt.
+
+"Wait, what are you—" ᴹ
+
+She scooped him up with both hands.
+
+"A little warning," he protested. "I have a perfectly good chair." ᴹ
+
+He settled into her arms, soft and astonishingly easy to hold. She felt a small ripple travel through him as he found where his weight would rest. The faint marks he made for a face turned upward toward hers.
+
+She hugged him closer before she could decide how to explain herself.
+
+"This is perfect," she said. ʸᵏ
+
+Then she realised she had said it aloud.
+
+Heat climbed into her face. Mau looked up at her for long enough that she could not pretend he had missed it.
+
+"Perfect," he repeated. ᴹ
+
+"For holding," she said, which did not make her face any cooler. ʸᵏ
+
+"I see. An assessment of the design." ᴹ
+
+She laughed into the top of him.
+
+He gave a little indignant wobble, then rested more comfortably against her.
+
+"You could ask before picking me up next time." ᴹ
+
+"Next time?" ʸᵏ
+
+There was a small pause.
+
+"That was careless of me." ᴹ
+
+She held him until he asked for the chair back. Ciel was still watching the one shape, the two familiar rhythms steady within it. The other outlines stayed where they belonged.
+
+* * *
+
+Yuka set him down among his clothes and turned aside while he found his ordinary shape again.
+
+He took a moment to arrange the sleeve, then cleared his throat.
+
+She looked back.
+
+Mau. The same face. The pale strands by his temple. He flexed the left hand; the same two fingers stopped at their familiar limit.
+
+His shirt was crooked and one shoe had escaped under the table.
+
+Yuka put a hand over her mouth.
+
+"Don't," he said. ᴹ
+
+"I haven't said anything." ʸᵏ
+
+"You're doing it with your face." ᴹ
+
+That finished her.
+
+He laughed too, took the shoe she nudged back toward him, and let Ciel finish checking the return before standing. The body had changed its outline and come back. It had not become somebody else's life, or lost the things he still needed to take care of.
+
+Yuka reached across to straighten his collar.
+
+"Both are good," she said softly. ʸᵏ
+
+He caught her hand before she drew it back.
+
+"Thank you for the technical review." ᴹ
+
+She kissed his knuckles.
+
+* * *
+
 Afterward they cleared the table together.
 
 Nobody tried to rescue them from that part of the date. Yuka liked folding the cloth with him, each holding an end, trying to make the corners agree while they were still talking. Liked the ordinary crossing of their hands when they both reached for the same cup.
@@ -281,12 +413,58 @@ They went back for the lamp.
 
 Mau carried it. Yuka carried the folded cloth. At the doorway he waited for her to straighten the last corner, then shifted the lamp to give her a free hand to take.
 
-Inside, someone was asking who wanted the remaining tea. A chair moved to leave room at the long table.
+Inside, someone was asking who wanted the remaining tea. They put the borrowed things away and stayed for a cup while the house began the small work of ending its day.
 
-Yuka looked at him.
+Yuka found room on the sofa afterward.
 
-"Stay for a little longer?" she asked. ʸᵏ
+Mau sat beside her. She leaned against his shoulder, watched the last people carrying dishes pass the doorway, and waited until he looked down to find out why she kept smiling.
 
-"I'd like that." ᴹ
+"Could you do it again?" she asked. ʸᵏ
 
-They put the borrowed things away and sat down together.
+"I knew this would happen." ᴹ
+
+"You did say next time." ʸᵏ
+
+He considered that argument with a seriousness it did not deserve, then checked privately with Ciel. The one pattern had held. Its brief use had asked for none of the other bodies. She could keep watching while he rested without opening anything further.
+
+Yuka lifted the folded blanket from the end of the sofa to give him some privacy with the clothes. When the small blue shape settled into the space beside her, she put the bundle neatly over the chair and held out her hands.
+
+"May I?" ʸᵏ
+
+Mau looked from them to her face.
+
+"Much better." ᴹ
+
+She gathered him against her and sat back, warm inside his hoodie.
+
+"Comfortable?" she asked. ʸᵏ
+
+He made a small adjustment beneath her hand.
+
+"Very." ᴹ
+
+* * *
+
+Rimuru found them a little later.
+
+He had come down for the cup he had left somewhere and stopped in the common-room doorway with a hand still on the frame.
+
+Yuka was asleep on the sofa, cheek against the cushion. Her arms curved around a blue slime nestled comfortably against her. The blanket covered her knees; one of her hands rested over the little rounded body as if making sure he knew he was wanted there.
+
+Rimuru looked down at his own hands.
+
+Then back at the sofa.
+
+*Mau,* Ciel confirmed privately, before he could finish deciding how offended to be. *One pattern. The others are closed. He's asleep.* ᶜ
+
+Rimuru stared at his friend.
+
+"You stole my form," he whispered. "And got the better seat." ᴿ
+
+The sleeping slime gave one faint, contented wobble.
+
+Yuka's hand moved with it. Her arms tightened a little, and both of them settled again.
+
+Rimuru stood there another moment, trying to maintain an expression suitable to the theft.
+
+Then he smiled, turned down the lamp beside them and went to find his cup.

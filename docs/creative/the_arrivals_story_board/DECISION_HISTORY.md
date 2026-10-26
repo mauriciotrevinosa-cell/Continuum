@@ -2218,3 +2218,7 @@ Nueva dirección del creador: recuperar perro negro como en A. Revisados S6E17CH
 ### S7 — checkpoint V37#17–18, 2026-10-26
 
 Continuación autorizada. #17 vive primera subyugación adicional de Yuka (Rabbit Escape), con excepción conjunta probada aquí y sin importar UI de torre. #18 taller realiza una mejora práctica de carga y prepara comunicación con el usuario real, sin metal convertido ya en armas ni venta adelantada. Datos/relaciones y secuelas persistentes. Web volvió a responder tras iniciar el proceso dev existente; no cambios de código/puertos/DB por esa recuperación. Continuación autorizada ycheckpoint sincerrar porcadapush. No modificaciones achapters previos ni cambio deinfraestructura. Estado actualizado enS7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.
+
+### S7 — checkpoint V37#19–20, 2026-10-26
+
+#19–20 construyen interlocutora nativa Tamsin y primera reunión técnica con objeto real/elecciones. Ventana exterior514–518, fragmento prestado para prototipo, permiso personal de visita al taller, no armas/ingresos/treaty ya logrados. Se preserva la última dirección del creador: tercera Red Gate cambia en el umbral, Mau expulsa por reflejo al compañero antes de sellarse, queda solo y pelea a plena capacidad utilizable con escena amplia. No alterar Red Gates anteriores o atribuirlo a plan secreto de Mau. Continuación autorizada ycheckpoint sincerrar porcadapush. No modificaciones achapters previos ni cambio deinfraestructura. Estado actualizado enS7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.

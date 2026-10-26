@@ -1,6 +1,6 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
-**Actualización:** 2026-10-26. **Punto actual:** V37#1–18, Day510 por la tarde, portador probado e invitación para la consulta técnica preparada. Borradores de producción, no aprobación automática del lector. Verde deS7: [mensaje completo](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). S6 ylos capítulos previos permanecen intactos.
+**Actualización:** 2026-10-26. **Punto actual:** V37#1–20, Day518, tras la reunión de trabajo en el camino. Borradores de producción, no aprobación automática del lector. Verde deS7: [mensaje completo](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). S6 ylos capítulos previos permanecen intactos.
 
 ## Capítulos producidos
 
@@ -24,6 +24,8 @@
 |16|S7E08 CH02, Both of Them|Day509 final de mañana|Examen encuentra acceso plegado; Yuka autoriza ajuste, llama al perro negro y lo recibe. Cerrado el examen, lo despide/rellama sola y llama a la perra blanca. Maki/Yuta reaccionan. Pareja inicial propia recuperada, no tame nuevo, resurrección, Ear o registro del Monarca.|
 |17|S7E09 CH01, Stay on This Side|Day510 mañana–mediodía|Yuka elige primer ritual adicional con Mau dentro; reglas/uncertidumbres expuestas. Conejos, fallos, posición/cuerda/Blue aprendido y trabajo propio. Resummon sin ayuda comprueba Rabbit Escape suyo. Sin UI de torre, otros tames o registro Arise.|
 |18|S7E09 CH02, The Fastening|Day510 tarde|Taller con Wakana/Marin/Stark/Senku: primera prueba falla, portador corregido funciona en persona/soldado existente. Barra aún se examina. Se prepara pregunta/invitación por Hollis al usuario de la herramienta, sin prometer producto ni vender.|
+|19|S7E10 CH01, The Other End of the Road|Day514 tarde|Hollis lleva invitación al taller. Tamsin muestra herramienta/material del problema real, mantiene trabajo/promesas y acepta reunión518 con condiciones. POV nativo breve, no venta ni adhesión de una ciudad.|
+|20|S7E10 CH02, At the Marker|Day518 mañana–mediodía|Encuentro acordado fuera del hogar, Rimuru queda en casa. Pieza real cambia diseño, ensayo se detiene antes de romper hoja. Un fragmento prestado y plan de un prototipo; invitación concreta al taller para los fabricantes, sin tratado mundial/pago/arma lista.|
 
 ## Relaciones y conocimiento
 
@@ -45,7 +47,7 @@
 
 ## Tiempo y continuidad del plan
 
-La secuencia llega a Day510 por la tarde, después del ritual Rabbit Escape y la prueba del portador. El primer puente explícito es Day500→507, después de mostrar la entrega de la muestra. Las fechas antiguas Day506/507 del bloque sustituido son históricas. No alcanzamos una fecha a costa de comprimir decisiones. Duraciones y número de capítulos se derivan de escenas reales.
+La secuencia llega a Day518 después del encuentro con Tamsin en el camino; el salto aterriza en la prueba/preguntas del trabajo, no en una venta ya realizada. El primer puente explícito es Day500→507, después de mostrar la entrega de la muestra. Las fechas antiguas Day506/507 del bloque sustituido son históricas. No alcanzamos una fecha a costa de comprimir decisiones. Duraciones y número de capítulos se derivan de escenas reales.
 
 Tercera Red Gate aún no visitada. Una charla franca antes de entrar; esa nueva gate entregará una sola llave Meet the Monarch con timer posterior al cumpleaños elegido de Mau, todavía por anclar. No llave en inventario ni reloj activado ahora. No nuevo Trial; segunda petición futura de DIO es refugio. Naturaleza de Ashborn permanece abierta. S7 no está terminada por publicar esta reparación.
 
@@ -67,10 +69,22 @@ Day510, #17: antes de empezar se explica la excepción recordada de A y el lími
 
 Day510, #18: Wakana/Marin/Stark diseñan, prueban y corrigen un portador acolchado con la correa ya recuperada y materiales existentes. Un soldado de los cuatro trabajadores lo prueba con supervisión; no otro registro. Senku separa las preguntas de la barra desconocida del montaje que sí funciona; necesitan material del problema real y hablar con quien usa la herramienta. Se prepara una invitación por Hollis para reunirse en un lugar acordado del camino, no entrada automática de extraños al hogar. Ningún pedido/venta/pago todavía. Mau no firma un contrato nuevo ni altera el antecedente de su nombre borrado.
 
+
+
+## Consulta externa y acceso limitado
+
+#19, Day514, POV Hollis en el taller cercano a Fallow: Tamsin, artesana nativa original de la obra, es la interlocutora de la herramienta rota. Ve la invitación, explica por qué falló el corte y acuerda reunión518 con sus propias condiciones. No es nueva otherworlder ni residente. Las noticias que oyó del asentamiento no confirman identidad del propagandista.
+
+#20, Day518: Hollis ya regresó con la respuesta antes de reunirse. Mau/Wakana/Marin/Senku acuden a un claro acordado del camino fuera del hogar, Rimuru permanece. El material real cambia el diseño; una prueba ordinaria se detiene antes de romper otra hoja. Tamsin presta por consentimiento un fragmento ya desprendido para hacer un prototipo único. No existe aún un arma encargada y pagada. Se acuerda poder llevar la prueba a su taller: invitación personal a los presentes para ese trabajo, no inmunidad mundial ni aceptación de toda Fallow. Firma/custodia/guardias siguen como antes. Inventario añade un fragmento de placa/tejido para pruebas, cedido temporalmente; la placa grande y la herramienta siguen con Tamsin.
+
+## Última dirección para la Red Gate aún futura
+
+[Mensaje íntegro y límites](S7_THIRD_RED_GATE_REFLEX_ISOLATION_AND_FULL_FIGHT_CREATOR_DIRECTION_2026-10-26.md). La entrada empieza a volverse roja y Mau empuja al acompañante hacia fuera antes de que selle; se queda solo por reflejo. Adentro le alegra poder soltar su repertorio utilizable sin un compañero humano en riesgo, y necesita pelea desarrollada, no resumen de técnicas. No es una maniobra para engañar o dejar atrás a la casa. Charla previa Beru y única llave Meet the Monarch se conservan. Fijar compatibilidades y repertorio real, no liberar todo lo archivado por declarar «full out».
+
 ## Próxima escena
 
-Hollis lleva la invitación y las preguntas al taller de la ruta de Fallow; mostrar a alguien al otro lado con necesidades propias y qué acepta realmente. No es el primer comercio del asentamiento ni primera visita de Hollis: la nueva línea de herramientas debe distinguirse del negocio previo de bienes/cream y conservar cuatro-tres-tres/guardias. Acuerdo de lugar/tiempo y muestras antes de prueba de producto o venta. Primeros tames de Yuka y convivencia siguen entrelazados; no cadena de diez victorias instantáneas ni dejarla congelada en Blue hasta el19. Planificar nueva Red Gate y charla Beru cuando las escenas previas la sostengan; no tenemos llave/timer todavía.
+Intercalar vida/crecimiento antes de la expedición más profunda de materiales. La conversación franca de riesgos debe ocurrir antes de la nueva Red Gate: la casa ya sabe torre/segundo corazón, se añade qué significó Beru y no poder ayudar, con Beru capaz de escuchar sin que su orgullo borre el dolor. Mantener Yuka activa tras su primer tame; no descargar los restantes. En la tercera Red Gate aplicar la última dirección de empujón reflejo y buena pelea solo. Decidir compañero/alcance de Ciel y técnicas a partir de lo mostrado; no nuevo Trial ni abrir Meet the Monarch al momento de recibir la llave.
 
 ## Checkpoints
 
-V37#1 y2–3 ya se publicaron por separado y ellector confirmó los tres sinadvertencias, con elenlace desdeV36. Este bloque17–18: 2480 palabras aproximadas; revisar índice/texto/navegación después de lapublicación. No cierre de volumen o temporada por efectuar unpush; continuar trabajo autorizado segúnelplan ylas correcciones delcreador.
+V37#1 y2–3 ya se publicaron por separado y ellector confirmó los tres sinadvertencias, con elenlace desdeV36. Este bloque19–20: 1967 palabras aproximadas; revisar índice/texto/navegación después de lapublicación. No cierre de volumen o temporada por efectuar unpush; continuar trabajo autorizado segúnelplan ylas correcciones delcreador.

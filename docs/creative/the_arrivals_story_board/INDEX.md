@@ -1,6 +1,8 @@
 # The Arrivals — Story Board Index
 
-> **Producción activa S7 — V38#1–16, 2026-10-26:** La casa prepara y completa la vuelta al camino en escena: pelea de equipo, doce extracciones más y un jefe, hacha con mejora paraStark pendiente de ensayo, vuelta de todos y gate cerrada. El exterior ya tiene una experiencia concreta con ellos, no un tratado mundial aparecido de golpe. [Índice V38](../THE_ARRIVALS_LN_VOLUME_38_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). V37 cerrado como borrador; S7 sigue abierta.
+> **Límite nuevo del creador:** escribir hasta el19 deYuka; al llegar detener la prosa posterior y presentar el plan para elcumpleMau. Miedo a serunvessel se desarrolla desdeahora. [Instrucción íntegra](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
+
+> **Producción activa S7 — V38#1–20, 2026-10-26:** Prueba del hacha, respuestas externas y visita diplomática local, conversación de pareja y primer estudio de dominio. El miedo deMau a serunvessel ya tiene manifestación; no respuesta sobrenatural confirmada. Nuevo límite: llegaral19Yuka yconsultarresto. [Índice V38](../THE_ARRIVALS_LN_VOLUME_38_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). V37 cerrado como borrador; S7 sigue abierta.
 
 > **V37 completo como borrador, no S7 completa —2026-10-26:** cierre38/Day542. [Estado compacto de salida y entradaV38](S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md). Continuación ya autorizada; los avisos antiguos de volumen/temporada sin iniciar o detenerse enS6 son históricos.
 

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 38
 **Season:** 7
-**Coverage:** S7E20–S7E27 (in progress)
+**Coverage:** S7E20–S7E29 (in progress)
 **Volume title:** **The Roads Between** (provisional)
-**Chapter files:** 16
+**Chapter files:** 20
 
 The household's first S7 home/work/adventure cycle has ended; its projects and relationships continue. The first week bridge lands in an ordinary tea and a real delivery, with decisions shown before their results. The story determines chapter and volume length. This volume and S7 remain in progress; production is not automatic creator approval.
 
@@ -31,3 +31,7 @@ The household's first S7 home/work/adventure cycle has ended; its projects and r
 | 14 | S7E26 | What We Came to Do | `THE_ARRIVALS_S7E26_LN_CHAPTER_02_WHAT_WE_CAME_TO_DO_v0.1.md` |
 | 15 | S7E27 | Where the Stone Gives | `THE_ARRIVALS_S7E27_LN_CHAPTER_01_WHERE_THE_STONE_GIVES_v0.1.md` |
 | 16 | S7E27 | The Axe He Brought Home | `THE_ARRIVALS_S7E27_LN_CHAPTER_02_THE_AXE_HE_BROUGHT_HOME_v0.1.md` |
+| 17 | S7E28 | What the Number Meant | `THE_ARRIVALS_S7E28_LN_CHAPTER_01_WHAT_THE_NUMBER_MEANT_v0.1.md` |
+| 18 | S7E28 | The Things That Came Back | `THE_ARRIVALS_S7E28_LN_CHAPTER_02_THE_THINGS_THAT_CAME_BACK_v0.1.md` |
+| 19 | S7E29 | A Letter for the Road | `THE_ARRIVALS_S7E29_LN_CHAPTER_01_A_LETTER_FOR_THE_ROAD_v0.1.md` |
+| 20 | S7E29 | Her Side of the Door | `THE_ARRIVALS_S7E29_LN_CHAPTER_02_HER_SIDE_OF_THE_DOOR_v0.1.md` |

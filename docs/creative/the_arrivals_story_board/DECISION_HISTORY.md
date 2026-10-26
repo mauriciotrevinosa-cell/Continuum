@@ -2214,3 +2214,7 @@ El creador detecta pasos omitidos después del Fort, especialmente conversación
 ### S7 — checkpoint V37#15–16, 2026-10-26
 
 Nueva dirección del creador: recuperar perro negro como en A. Revisados S6E17CH02 y S6E18CH01. V37#15–16 muestran explicación, elección de Yuka, examen y recuperación del acceso nativo; después llama independientemente a ambos perros. Ciel/Noise actúan con consentimiento específico, no por permiso genérico del Blue. Maki/Yuta reaccionan. No muerte/resurrección, nuevo tame o soldado del Monarca. Relectura de la corrección sigue desde #4; no se reescribe Fort. Continuación autorizada ycheckpoint sincerrar porcadapush. No modificaciones achapters previos ni cambio deinfraestructura. Estado actualizado enS7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.
+
+### S7 — checkpoint V37#17–18, 2026-10-26
+
+Continuación autorizada. #17 vive primera subyugación adicional de Yuka (Rabbit Escape), con excepción conjunta probada aquí y sin importar UI de torre. #18 taller realiza una mejora práctica de carga y prepara comunicación con el usuario real, sin metal convertido ya en armas ni venta adelantada. Datos/relaciones y secuelas persistentes. Web volvió a responder tras iniciar el proceso dev existente; no cambios de código/puertos/DB por esa recuperación. Continuación autorizada ycheckpoint sincerrar porcadapush. No modificaciones achapters previos ni cambio deinfraestructura. Estado actualizado enS7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 38
 **Season:** 7
-**Coverage:** S7E20–S7E32 (in progress)
+**Coverage:** S7E20–S7E34 (in progress)
 **Volume title:** **The Roads Between** (provisional)
-**Chapter files:** 25
+**Chapter files:** 29
 
 The household's first S7 home/work/adventure cycle has ended; its projects and relationships continue. The first week bridge lands in an ordinary tea and a real delivery, with decisions shown before their results. The story determines chapter and volume length. This volume and S7 remain in progress; production is not automatic creator approval.
 
@@ -40,3 +40,7 @@ The household's first S7 home/work/adventure cycle has ended; its projects and r
 | 23 | S7E31 | Tell Me Again | `THE_ARRIVALS_S7E31_LN_CHAPTER_01_TELL_ME_AGAIN_v0.1.md` |
 | 24 | S7E31 | Someday Is a Word | `THE_ARRIVALS_S7E31_LN_CHAPTER_02_SOMEDAY_IS_A_WORD_v0.1.md` |
 | 25 | S7E32 | Before We Move Anything | `THE_ARRIVALS_S7E32_LN_CHAPTER_01_BEFORE_WE_MOVE_ANYTHING_v0.1.md` |
+| 26 | S7E32 | The Work They Could Bring Back | `THE_ARRIVALS_S7E32_LN_CHAPTER_02_THE_WORK_THEY_COULD_BRING_BACK_v0.1.md` |
+| 27 | S7E33 | On the Other Side of the Table | `THE_ARRIVALS_S7E33_LN_CHAPTER_01_ON_THE_OTHER_SIDE_OF_THE_TABLE_v0.1.md` |
+| 28 | S7E33 | His Own Plate | `THE_ARRIVALS_S7E33_LN_CHAPTER_02_HIS_OWN_PLATE_v0.1.md` |
+| 29 | S7E34 | Her Own Shadow | `THE_ARRIVALS_S7E34_LN_CHAPTER_01_HER_OWN_SHADOW_v0.1.md` |

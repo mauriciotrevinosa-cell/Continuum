@@ -3,13 +3,13 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 37
 **Season:** 7
-**Coverage:** S7E01–S7E05 (in progress)
+**Coverage:** S7E01–S7E07 (in progress)
 **Volume title:** **A Place for Everyone** (provisional)
-**Chapter files:** 10
+**Chapter files:** 14
 
-Season7 begins the morning after V36#38, Day496. The creator approved the plan with one ordering change: the Fort war comes first, before another date, expedition or time jump. Chapters1–3 complete the Fort day. Current production continues through Chapter6. The volume continues; no whole-season completion is claimed. Production draft is not automatic creator approval.
+Season 7 begins the morning after V36#38, Day496. Chapters 1–3 complete the Fort day and remain unchanged. Following creator review, the compressed former Chapters 4–10 have been reconstructed as Chapters 4–14: the outing is prepared, Hollis brings an explained request, Mau proposes the connection to Yuka, they construct it before practising, and the sample leaves on-page before the first seven-day bridge. Reread from Chapter 4 for the corrected sequence. The story determines the length; no calendar target or chapter quota overrides these scenes. The volume continues. Production drafts are not automatic creator approval.
 
-[Creator direction](the_arrivals_story_board/S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md) · [Current state and relationships](the_arrivals_story_board/S7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.md) · [Previous volume](THE_ARRIVALS_LN_VOLUME_36_INDEX_v0.1.md).
+[Creator greenlight](the_arrivals_story_board/S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md) · [Pacing correction](the_arrivals_story_board/S7_POST_FORT_CAUSAL_SCENES_CREATOR_CORRECTION_2026-10-26.md) · [Current state and relationships](the_arrivals_story_board/S7_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-26.md) · [Previous volume](THE_ARRIVALS_LN_VOLUME_36_INDEX_v0.1.md).
 
 ## Reading order
 
@@ -18,10 +18,14 @@ Season7 begins the morning after V36#38, Day496. The creator approved the plan w
 | 1 | S7E01 | The Hamster Standard | `THE_ARRIVALS_S7E01_LN_CHAPTER_01_THE_HAMSTER_STANDARD_v0.1.md` |
 | 2 | S7E01 | Two Noble Citizens | `THE_ARRIVALS_S7E01_LN_CHAPTER_02_TWO_NOBLE_CITIZENS_v0.1.md` |
 | 3 | S7E02 | The Prisoner of War | `THE_ARRIVALS_S7E02_LN_CHAPTER_01_THE_PRISONER_OF_WAR_v0.1.md` |
-| 4 | S7E02 | What Comes Home | `THE_ARRIVALS_S7E02_LN_CHAPTER_02_WHAT_COMES_HOME_v0.1.md` |
-| 5 | S7E03 | Before We Sell It | `THE_ARRIVALS_S7E03_LN_CHAPTER_01_BEFORE_WE_SELL_IT_v0.1.md` |
-| 6 | S7E03 | When I Reach for It | `THE_ARRIVALS_S7E03_LN_CHAPTER_02_WHEN_I_REACH_FOR_IT_v0.1.md` |
-| 7 | S7E04 | Back Before Dark | `THE_ARRIVALS_S7E04_LN_CHAPTER_01_BACK_BEFORE_DARK_v0.1.md` |
-| 8 | S7E04 | Four Notes | `THE_ARRIVALS_S7E04_LN_CHAPTER_02_FOUR_NOTES_v0.1.md` |
-| 9 | S7E05 | The Afternoon We Kept | `THE_ARRIVALS_S7E05_LN_CHAPTER_01_THE_AFTERNOON_WE_KEPT_v0.1.md` |
-| 10 | S7E05 | A Question with a Price | `THE_ARRIVALS_S7E05_LN_CHAPTER_02_A_QUESTION_WITH_A_PRICE_v0.1.md` |
+| 4 | S7E02 | An Ordinary Run | `THE_ARRIVALS_S7E02_LN_CHAPTER_02_AN_ORDINARY_RUN_v0.1.md` |
+| 5 | S7E03 | What Comes Home | `THE_ARRIVALS_S7E03_LN_CHAPTER_01_WHAT_COMES_HOME_v0.1.md` |
+| 6 | S7E03 | What We Need First | `THE_ARRIVALS_S7E03_LN_CHAPTER_02_WHAT_WE_NEED_FIRST_v0.1.md` |
+| 7 | S7E04 | A Question to Carry | `THE_ARRIVALS_S7E04_LN_CHAPTER_01_A_QUESTION_TO_CARRY_v0.1.md` |
+| 8 | S7E04 | Something We Could Build | `THE_ARRIVALS_S7E04_LN_CHAPTER_02_SOMETHING_WE_COULD_BUILD_v0.1.md` |
+| 9 | S7E05 | When I Reach for It | `THE_ARRIVALS_S7E05_LN_CHAPTER_01_WHEN_I_REACH_FOR_IT_v0.1.md` |
+| 10 | S7E05 | Back Before Dark | `THE_ARRIVALS_S7E05_LN_CHAPTER_02_BACK_BEFORE_DARK_v0.1.md` |
+| 11 | S7E06 | Four Notes | `THE_ARRIVALS_S7E06_LN_CHAPTER_01_FOUR_NOTES_v0.1.md` |
+| 12 | S7E06 | The Sample | `THE_ARRIVALS_S7E06_LN_CHAPTER_02_THE_SAMPLE_v0.1.md` |
+| 13 | S7E07 | The Afternoon We Kept | `THE_ARRIVALS_S7E07_LN_CHAPTER_01_THE_AFTERNOON_WE_KEPT_v0.1.md` |
+| 14 | S7E07 | A Question with a Price | `THE_ARRIVALS_S7E07_LN_CHAPTER_02_A_QUESTION_WITH_A_PRICE_v0.1.md` |

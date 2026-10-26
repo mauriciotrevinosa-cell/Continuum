@@ -1,41 +1,13 @@
 # The Arrivals — Light Novel — Volume 37
-## Chapter 4 — What Comes Home
+## Chapter 5 — What Comes Home
 
-**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
+**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26; pacing repair)
 **Volume:** 37
-**Reading order:** 4
-**Source episode:** S7E02
+**Reading order:** 5
+**Source episode:** S7E03
 **Continuity state:** Day497, morning to before lunch. Ordinary blue-gate outing with Mau/Yuka/Stark/Anko; Rimuru remains home and the existing private Ciel relay is checked rather than assumed universal. Yuka uses her own white Divine Dog and rope, no new borrowing contract. Mau calls existing Igris for rear protection, uses permanent physical strength and one stored Dragon's Wrath dagger, no new technique or stat expenditure. Two ordinary scaled creatures defeated, two small crystals recovered; an already-open storage niche yields one small unidentified metal bar and two bent metal straps. A soil/moss sample is separate, not edible or a source of a new spell. No Arise/extraction, personal level increment or numerical XP display, new key, Red Gate, Shop purchase or weapon upgrade. Items carried home for the household's keep/use/sell discussion; corpse sites noted, not turned into hundreds of soldiers off-page.
 
-*When: Day497, morning. At the gate, Anko is counting containers rather than people.*
-
-"One comes back empty," she said. ᴬⁿ
-
-Stark looked at the bag in his hand.
-
-"Why bring it?" ˢᵗ
-
-"So we have somewhere to put the thing nobody thought we'd find." ᴬⁿ
-
-Yuka passed him the bag.
-
-"And not in with the bread." ʸᵏ
-
-Mau looked at her.
-
-"That happened once." ᴹ
-
-"Which was enough." ʸᵏ
-
-Rimuru stood beside the marker while they checked the route and the time they meant to return. He had not come dressed for the outing.
-
-"I'll be here," he told Mau. "Try to bring back something Anko wants to write down, rather than something she has to explain." ᴿ
-
-"Those can be the same thing," Anko said. ᴬⁿ
-
-She made Stark move the water away from the empty gathering bag. Then she nodded toward the entrance.
-
-Mau went through with Yuka beside him.
+*When: Day497, morning. Just inside the gate, Mau waits for the answer he was told to check.*
 
 *Still here,* Ciel said privately, once he was across. ᶜ
 
@@ -189,13 +161,13 @@ Mau followed her gaze.
 
 "The technique?" ᴹ
 
-"Mine. Yours. Both, maybe. But mine first." ʸᵏ
+"Mine. The shapes I haven't learned to call yet." ʸᵏ
 
 He nodded slowly.
 
 "When we get back, we can talk about how." ᴹ
 
-"With everybody who knows what they're talking about?" ʸᵏ
+"You said there was something you could explain. Let's start with that, and ask the people who can help." ʸᵏ
 
 He glanced toward Anko.
 

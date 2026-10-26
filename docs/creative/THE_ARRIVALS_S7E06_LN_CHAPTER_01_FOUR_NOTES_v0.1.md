@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 37
-## Chapter 8 — Four Notes
+## Chapter 11 — Four Notes
 
-**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
+**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26; pacing repair)
 **Volume:** 37
-**Reading order:** 8
-**Source episode:** S7E04
+**Reading order:** 11
+**Source episode:** S7E06
 **Continuity state:** Day499 late afternoon. Short Bocchi-centered household scene continuing existing chosen-family bond and prior instrument lesson; not first-ever music contact. Mau's stiff fingers remain, simple adapted playing rather than healing or downloadable mastery. Yuka listens by invitation, no jealous displacement. No powers, equipment purchase, family arrival or resources changed. Brief scene deliberately avoids extended room/acoustics exposition.
 
 *When: Day499, late afternoon. Bocchi has played the beginning six times and stopped in the same place.*

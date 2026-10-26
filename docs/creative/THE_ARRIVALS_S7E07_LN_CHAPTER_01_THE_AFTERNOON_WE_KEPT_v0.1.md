@@ -1,23 +1,55 @@
 # The Arrivals — Light Novel — Volume 37
-## Chapter 9 — The Afternoon We Kept
+## Chapter 13 — The Afternoon We Kept
 
-**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
+**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26; pacing repair)
 **Volume:** 37
-**Reading order:** 9
-**Source episode:** S7E05
-**Continuity state:** Day506 afternoon, explicit first seven-day bridge after Chapter8/Day499. During bridge the known-route four-soldier trial continues, blocked crossing cleared with human direction, no new units or autonomous world network. Household's small bar is lent intact to Hollis on Day500 for workshop inspection, logged byJinshi, not sold; two crystals and two straps remain home. Yuka has practised the same small shared Blue with pauses, no new pattern, tames or mastery. Quiet couple outing within familiar settlement ground with food/cards, ordinary conversation and kiss; no marriage/family promise, sex or cohabitation. McLaren hoodie washing rather than missing/ownership change. Brief imprecise Blue on a dropped card exercises existing permission, releases without injury. No new points, reserve, power, key or outside arrival. Both return toward home normally.
+**Reading order:** 13
+**Source episode:** S7E07
+**Continuity state:** Day507 afternoon, first explicit seven-day bridge after the on-page sample handover onDay500. Progress is shown in a fresh training scene: Yuka places/releases the same authorized smallBlue while changing her stance; no new pattern, secondcopy, tames or mastery. Four-soldier work remains small-scale, no newunits. Date food/cards/quiet time follows; heroine's pull on a droppedcard is now grounded in proposal, contract, initial trial and visible practice. Hoodie washes, no ownership/roomchange. No sale, payment, new key or timer.
 
-*When: Day506, afternoon. A week has passed, and Yuka has decided that they are keeping this part of the day.*
+*When: Day507, afternoon. A week after Hollis left with the sample, Mau has promised Yuka the rest of the day.*
 
-The crossing was clear now.
+He found her finishing practice.
 
-Anko had taken the returning scouts back with the right tools. The four soldiers had learned the difficult turn by the workshop. Jinshi had a receipt for the little metal bar Hollis had borrowed to show the workshop near Fallow; nobody had called it a sale.
+The rope end lay where she had put it, beyond the little marker. Gojo stood well clear of the line it would travel. Yuta watched her feet instead of her hand.
 
-Yuka had put three small marks beside the same exercise in her notes and crossed out one of them after Gojo asked where she had meant to place the pull.
+Yuka reached for the path they had made.
 
-The hoodie was drying.
+Mau felt it answer. The small knot formed beside the rope, drew it across the mark and held while she changed her stance. She released before trying to gather the whole coil.
 
-Mau noticed that last thing when he found her waiting by the door.
+The rope stopped where she had intended.
+
+"That one," Yuta said. "Keep how your weight felt that time." ʸᵗ
+
+She looked toward Mau, saw the basket in his hand and smiled.
+
+"How was that?" she asked. ʸᵏ
+
+"I felt you begin. I felt you release. You didn't drag the rest of the rope with it." ᴹ
+
+"And I moved." ʸᵏ
+
+"You moved." ᴹ
+
+She had been practising the same operation, sometimes ending it before anything moved because the position felt wrong. This time he had seen the difference she had been trying to describe.
+
+Gojo pointed at the basket.
+
+"An excellent stopping point. Before he decides that needs testing too." ᴳ
+
+Yuka put her things away and thanked them. She did not reach for another operation on the way to Mau.
+
+* * *
+
+On the way to the door, two carriers passed the workshop corner without anyone having to move the marker for them. Anko's scouts had led the work party back to the blocked crossing; it was clear now. The little map on the table had the change marked where people actually used it.
+
+There was no army on every road. Four soldiers were doing a few jobs people had taken time to teach them.
+
+Jinshi had kept the sample receipt beside the questions waiting for Hollis's return. The two wrapped crystals still belonged to the house.
+
+Yuka took his hand as they reached the door.
+
+The hoodie was drying farther along the yard. Mau glanced at the empty space where its sleeves usually covered her hands.
 
 "What?" she asked. ʸᵏ
 
@@ -31,7 +63,7 @@ She followed his glance toward the clothes drying farther along the yard.
 
 "Good. You're still not getting it back." ʸᵏ
 
-He took the cloth-wrapped food from her before she could hand him the cups as well.
+He gave her the cups before she could take the basket as well.
 
 "I gathered." ᴹ
 

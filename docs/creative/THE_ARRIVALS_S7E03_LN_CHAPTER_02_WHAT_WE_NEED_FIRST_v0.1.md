@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 37
-## Chapter 5 — Before We Sell It
+## Chapter 6 — What We Need First
 
-**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
+**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26; pacing repair)
 **Volume:** 37
-**Reading order:** 5
+**Reading order:** 6
 **Source episode:** S7E03
-**Continuity state:** Day497 after lunch through evening. Household examines Chapter4's exact loot: two small crystals, one metal bar, two bent straps, separate moss/soil sample. Keeps all provisionally for testing; no sale/purchase, new price, currency balance or magical identification asserted. Fern delegates notes to Jinshi by mutual practical agreement, not a new permanent office. Wakana/Daphne/Momo/Yuka/Umaru/Rimuru contribute needs and priorities, then Mau/Ciel/Noise discuss implementation privately. Priorities: material testing, food independence, finishing existing patterns/control and voluntary lending; no Mini Ciel or contract yet. Hollis arrives as established known merchant, eats before discussing a modest request from a workshop near Fallow for dungeon-effective cutting tools, not a government treaty or global monopoly. Request only, no accepted delivery obligation, payment or order fulfillment. No fresh family arrivals, wider protection or construction completed.
+**Continuity state:** Day497 after lunch. Household examines the outing's two crystals, small bar, two straps and separate soil/moss sample, chooses local tests and needs before any sale. Yuka explicitly says the proposed connection has not been explained or made. Mau/Ciel/Noise agree to finish/refine existing patterns after household input; no contract, new skill, sale, price or income. Hollis first conversation occurs in the following chapter, not skipped here.
 
 *When: Day497, after lunch. The things on the table are worth more arguments than their size suggests.*
 
@@ -111,11 +111,11 @@ Yuta had been examining the worn section of the ordinary rope. He set it down.
 
 "Then we make time for that." ʸᵗ
 
-"And the lending?" she asked. ʸᵏ
+"Mau said there might be a way to help," she said. "A connection. We haven't talked about how it works yet. I want to understand that before we try anything." ʸᵏ
 
 Rimuru leaned forward.
 
-"We can look at it together." ᴿ
+"Then we begin with the explanation. Nothing is connected just because we've put it on a list." ᴿ
 
 Mau waited until she had finished before speaking.
 
@@ -170,43 +170,3 @@ Rimuru looked at him.
 Mau passed the answer on.
 
 "That's a start," Rimuru said. ᴿ
-
-* * *
-
-Hollis arrived toward evening with mud on one wheel and an opinion about the road.
-
-He gave the opinion to the person helping with the wheel. The paper in his coat he kept until he had washed and eaten.
-
-Momo made sure the second part happened.
-
-Only then did he put the paper on the table.
-
-It was folded twice. One corner had softened where he had carried it against him.
-
-"A workshop near Fallow," he said. "They've been asked to mend tools which met something the tools weren't made for." ᴴᵒ
-
-Wakana unfolded the page.
-
-There were rough drawings of cutting edges, a length marked beside one of them and a question which did not quite ask where the material would come from.
-
-"They want ours?" Mau asked. ᴹ
-
-"They want something that works. They know I come here." ᴴᵒ
-
-Fern read over Wakana's shoulder.
-
-"How many did you promise?" ᶠᵉ
-
-"None." ᴴᵒ
-
-She looked at him.
-
-Hollis settled back in the chair.
-
-"I've carried promises on that road. I'd rather start with a question." ᴴᵒ
-
-Wakana put the drawing beside the small metal bar.
-
-The two things did not fit together yet.
-
-For the first time that afternoon, he looked pleased about how much they still had to find out.

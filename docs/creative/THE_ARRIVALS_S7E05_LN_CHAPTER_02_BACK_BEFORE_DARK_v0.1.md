@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 37
-## Chapter 7 — Back Before Dark
+## Chapter 10 — Back Before Dark
 
-**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
+**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26; pacing repair)
 **Volume:** 37
-**Reading order:** 7
-**Source episode:** S7E04
+**Reading order:** 10
+**Source episode:** S7E05
 **Continuity state:** Day499 morning–afternoon. Mau proposes purposeful legión growth and use for scouting, defense and work, with household input rather than unilateral deployment. First trial uses four already-registered ordinary soldiers in pairs, Igris coordinating, Anko/Mikasa selecting known routes; Rimuru remains home withMau, no simultaneous departure of both. One short marked-road survey, one carrying/route check; physical return/report, no claimed omniscient remote vision, new radio, world map, automatic visitor identification or autonomous gate clear. No new Arise, casualties, XP, level/points, crystals or weapons. Initial returning scouts identify a blocked water crossing; repairing it remains work, no town built. Future recovery of people requires consent/emergency judgment; no abduction or automatic admission. Limited new Blue lending unchanged, no further techniques activated.
 
 *When: Day499, morning. Mau has asked for the map without asking anyone to stand guard over him.*

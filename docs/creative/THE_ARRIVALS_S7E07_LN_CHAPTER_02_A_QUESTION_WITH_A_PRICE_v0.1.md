@@ -1,15 +1,15 @@
 # The Arrivals — Light Novel — Volume 37
-## Chapter 10 — A Question with a Price
+## Chapter 14 — A Question with a Price
 
-**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
+**Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26; pacing repair)
 **Volume:** 37
-**Reading order:** 10
-**Source episode:** S7E05
-**Continuity state:** Day507 afternoon–evening. Hollis returns the same intact borrowed metal bar, now with small testing marks, and a workshop's preliminary offer for a test piece; no finished weapon claimed, payment, sale or new stock. Sample performance is the workshop's report, not proof all dungeon goods defeat all monsters. Household discusses cost/testing, guard consent and existing four-three-three arrangement without changing it. Mau proposes that any future business include safe access/recognition for the people making it; Rimuru/Jinshi/Fern/Hollis narrow this to a concrete workshop visit/question, not universal diplomatic immunity or government treaty. No reveal of privateShop origin, uncontrolled guests, new role appointment or army expansion. Two crystals/two straps remain home, metal bar returns to home custody. Current Blue contract unchanged, no new skills or family arrivals.
+**Reading order:** 14
+**Source episode:** S7E07
+**Continuity state:** Day508 afternoon–evening. Hollis returns the same intact borrowed metal bar, now with small testing marks, and a workshop's preliminary offer for a test piece; no finished weapon claimed, payment, sale or new stock. Sample performance is the workshop's report, not proof all dungeon goods defeat all monsters. Household discusses cost/testing, guard consent and existing four-three-three arrangement without changing it. Mau proposes that any future business include safe access/recognition for the people making it; Rimuru/Jinshi/Fern/Hollis narrow this to a concrete workshop visit/question, not universal diplomatic immunity or government treaty. No reveal of privateShop origin, uncontrolled guests, new role appointment or army expansion. Two crystals/two straps remain home, metal bar returns to home custody. Current Blue contract unchanged, no new skills or family arrivals.
 
-*When: Day507, afternoon. Hollis has brought the metal back, which is the first thing Fern checks.*
+*When: Day508, afternoon. Hollis has brought the metal back, which is the first thing Fern checks.*
 
-He let her compare the marks to Jinshi's note before unfolding the other paper.
+He let her compare the marks to Jinshi's note before unfolding the other paper. He had returned the damaged cutting tool to its owner; the new marks were on the house's borrowed sample, just where Wakana had agreed they could test it.
 
 The bar had acquired a shallow notch near one end and several scratches where someone had tried its surface. It was still the same piece.
 
@@ -25,9 +25,9 @@ That answer interested him more than the offer.
 
 Fern waited until he had put the bar down before taking the paper.
 
-"For one test piece?" ᶠᵉ
+"An offer for a test piece, if we can make it? Not payment for this bar?" ᶠᵉ
 
-"If we agree to make one," Hollis said. ᴴᵒ
+"An offer," Hollis said. "The bar was borrowed. Here it is, back as agreed. This is what they say they would pay for something made from suitable material, after we show it works." ᴴᵒ
 
 "And if it does what they're asking." ᶠᵉ
 

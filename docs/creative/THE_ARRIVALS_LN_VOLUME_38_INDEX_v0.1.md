@@ -3,11 +3,11 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 38
 **Season:** 7
-**Coverage:** S7E20–S7E34 (in progress)
+**Coverage:** S7E20–S7E35 (volume complete; S7 continues)
 **Volume title:** **The Roads Between** (provisional)
-**Chapter files:** 29
+**Chapter files:** 32
 
-The household's first S7 home/work/adventure cycle has ended; its projects and relationships continue. The first week bridge lands in an ordinary tea and a real delivery, with decisions shown before their results. The story determines chapter and volume length. This volume and S7 remain in progress; production is not automatic creator approval.
+The household's first S7 home/work/adventure cycle has ended; its projects and relationships continue. The first week bridge lands in an ordinary tea and a real delivery, with decisions shown before their results. The story determines chapter and volume length. Volume 38 closes at Chapter 32 as a production draft; S7 continues. The next production boundary is Yuka’s nineteenth birthday, when the creator will decide what follows. Production is not automatic creator approval.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md) · [V37 exit state](the_arrivals_story_board/S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md) · [Current production state](the_arrivals_story_board/S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md).
 
@@ -44,3 +44,6 @@ The household's first S7 home/work/adventure cycle has ended; its projects and r
 | 27 | S7E33 | On the Other Side of the Table | `THE_ARRIVALS_S7E33_LN_CHAPTER_01_ON_THE_OTHER_SIDE_OF_THE_TABLE_v0.1.md` |
 | 28 | S7E33 | His Own Plate | `THE_ARRIVALS_S7E33_LN_CHAPTER_02_HIS_OWN_PLATE_v0.1.md` |
 | 29 | S7E34 | Her Own Shadow | `THE_ARRIVALS_S7E34_LN_CHAPTER_01_HER_OWN_SHADOW_v0.1.md` |
+| 30 | S7E34 | Before the Lamps Go Out | `THE_ARRIVALS_S7E34_LN_CHAPTER_02_BEFORE_THE_LAMPS_GO_OUT_v0.1.md` |
+| 31 | S7E35 | Not Half | `THE_ARRIVALS_S7E35_LN_CHAPTER_01_NOT_HALF_v0.1.md` |
+| 32 | S7E35 | Where the Music Reached | `THE_ARRIVALS_S7E35_LN_CHAPTER_02_WHERE_THE_MUSIC_REACHED_v0.1.md` |

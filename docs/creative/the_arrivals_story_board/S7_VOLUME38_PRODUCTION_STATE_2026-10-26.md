@@ -35,10 +35,23 @@
 | 27 | S7E33 CH01 | Day654 tarde–cena | Segundacutterentregadaypagada,ingreso/materialsostienecubiertapequeña. Primerplatohojasdebedtrial. Cocinarota,MomocomosentadaconNazuna,remainsqueenofherworknochildpunishment. |
 | 28 | S7E33 CH02 | Day663 noche | Gojoelige/diseñacenaconShoko,Mauayudayseva;élsepermitecomertambién. Shokoríeysuvidaescenamásalládemédica/madre. Sinrecuperaciónautomáticakit. |
 | 29 | S7E34 CH01 | Day681 | YukacierraexpansiónpropiaChimeraShadowGardenunos6seg,ubicaciónshikigamitocadoMaucontrol;sinSurehitrefinadolargobatalla. Burnoutnativo/restauranativecalltrasdescanso,nopérdidacapacidad. |
+| 30 | S7E34 CH02 | Day700 completo | Día literalMau despertar→cocina/checkup/práctica/ayudaKaneki/7witches/MaiMaki/mapRimuru/cardsUmaruYukaMilim/músicaBocchi/flightYuka/bed. CuartosBcorrectos. Updategatepostcerrada590/recibo612. |
+| 31 | S7E35 CH01 | Day708 | Mau/Ciel/Noise planteansegundoLimitlesspleno,costosambosenMau,existenteautonomíaYukanoseretira. Consentimiento/eficienciaGojo yprimerprótotipoplaneado,nocapacitadregaladafueraescena. |
+| 32 | S7E35 CH02 | Day714 noche | Kessokuinterpretamúsicapropiaencomunes/cubierta,hogarconvidaspapelreal. LlaveenmiedorecuerdoconYukasequeda,avisa,presenteyrelaciónnotrauma resuelto. Ciclovolcompleto,pasoaV39por32nocuota. |
 
 ## Estado actual
 
-**Presente V38#29 / Day681.** Hasta19Yuka808; después pararprosa/presentarplanMau. Primeramano443,238díasjuntos(~8meses),noaún19/primeraniversario.
+**Presente salidaV38#32/Day714 noche.** Volumencompletocomoborrador,noS7cerrada. PróximaescenaV39#1/S7E36CH01Day715 testparalelo. Stop19Yuka808despuéscelebración ypresentarplanMau;nocontinuarhastablessing/Monarchsinrespuesta.
+
+30viveundíaMaucompleto:noagendaqueafirmarelaciones. Ori traeMilimflotanteconlistón acuartoMau/Rimuru, Yukaentradesdesucuarto;FrierenesMumOri,noromanceMau. Shokovio/manosviejasiguayéladmitiórecuerdossinpúblicoarchivo. GojoBluemayorcontrol/outputincrementalnot100%/Purple/DErestaurado. YutakatanaMau,KanekiToukafamilia,7witchesPride(notTyphon)/Satella/Echidna/Daphne/Minerva/Carmilla/Sekhmet,MaicolothMakiycompañía,roof/crackersvigentes,officesRimurupapeles,cardsUmaruYukaMilim,Bocchihermano,flightNueYukapropio. 32conciertoKessokucumplemusicapropuestano vozdeMaupropiaescenainvadida. Nuevapausamemoria32, Yukaacompaña yélrecuerdaenvezdehuir. Nopalabrasvesseldadasaella/ashborndefinido.
+
+Segundagatereportada588/cerrada590porparty local,recibo612depuestoconfirmado, en30asienta ubicación/noconfirma todosrumores. No otraabiertaunmesesperandoúnicoshéroes. Hogar tieneventajasmateriales/noúnicosagentesdelmundo.
+
+31proyectoSegundoLimitless:dospatrones/canalesplenos, unabasedesuministroMau/sumacostes,sinpartiroutput.ElcanaltempranoBlue/Skyyaautónomoqueda. ConstrucciónprimeraenMau,nosorpresaexamenYuka;ella informada/consientepruebas,no da todokitsuresultadogratis. Gojoayudaeficiencia;dosBluecortos yneutralInfinityseránprimerensayo,luegoreversal.NoCTnuevoancladopermanente/giftantes19,ningunaCTsuyasequitóporregalo. DominioYukacierre6segvigenteconrefinamientoaúnporhacer, Toadbagcargasuave,Nuevuelopequeño,nofuturostameshechos.
+
+Reloj271díasjuntosdesde443(~9meses);faltan94hasta19/primeraniversarioprimeramano808bajo365. Verficarcuandoescriba808,nofijarcumplebiológicoMauo Monarchexactonuméricoporcoincidir. Censocuarto/puntos/armystocksigual26–29. Loheredadoseconserva:
+
+**Base heredada681, salvo cambios de salida714 arriba.** Hasta19Yuka808; después pararprosa/presentarplanMau. Primeramano443,238díasjuntos(~8meses),noaún19/primeraniversario.
 
 Mau111/82puntosretenidos/Int440. +2niveles/+10held en641 porcombate deinvocacionesenordinarygate conMaupresente, noXPoverworldoconstrucción. Estadísticasinvertidaspermanentes, no nuevosrepartos. Legión16nombradas+187ordinarias=203:139 tras570 +64cadáveresgenerados(incluidojefesinnombre)641. Reparaciónescudominor costóreserva;callgratis. No bajasdefinitivas. Mahoraga propioaparte,tamesAconservados. Igris/Beruejecutanrutas/flanqueosyenseñannuevos, no todoPrimerecibido sinprueba. Burrowergrandeordinario aúnnocavaárbol/casabecauseunhumbledrill.
 
@@ -59,4 +72,4 @@ Roadgatecerrada570,3rescatadosconkinlocalnoresidentes. Roadkeepertrespuestos/car
 
 ## Continuación
 
-AterrizarpróximopuenteenundíaliteralMauconpersonas:noresumirrelaciones enagenda,peroescenaslateralesbreves. Confirmarsegundoreportegateciudadporsuspropiosagentes,no asumirhéroeMauúnico. Siguientesavancesdominio/tames/canalesdoblesconNoiseyCielpruebas/eficiencia, Yukaautonomíanosequitaal19. Buscarcumple808desacelerar794:primeraniversariocuentaamano443,sinmovercampanadoporfechaMau.Todavíaunos127díasal19,cosasqueaúnfaltanmerecenescenas. Nohaydeadlinecapítulosnumeralpropuesto.
+CrearV39sóloconprimerprosa. AbrirpruebasparalelasM/Y ydeeficiencia, tamesYukaaúnfaltanElephant/Serpent/Ox/Deer/Tiger,Mahoragafuturopendienteeligibilidad/noregalarnativeunclaimed. Escribirantesde794avancesconescenas ypuentes,gift19costedoble/autonomíausuario/controlapropiado.BigkitMau/GojoYutaMakirestauracióncompleta/mundofaccionesrefugioDIOpuedencontinuarluego19condecisióncreador,no forzartodoyaen94días. Vesselmiedolatente/nuevoepisodiodepánicopermitepausayhablar sinconfirmarposesión. Otrasvidasno desaparecen. Al808deteneryexplicarplanesMauanteriores+nota posibleconfesiónMaiMakiYuta,noprosacerradaporadelantado.

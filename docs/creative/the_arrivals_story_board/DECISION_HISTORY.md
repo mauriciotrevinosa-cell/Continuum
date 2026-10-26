@@ -2164,3 +2164,8 @@ Creador autoriza digestión familiar cálida, Yuka reafirmaamor, reconciliación
 ### DH-135 continuación — V36#34–38, checkpoint v36_34_38 (2026-10-25)
 
 Creador autoriza cerrar V36/S6 cálidamente, sin nuevaGate o amenaza, V37/S7 futuros. Producidos34–38: seguimientoCiel/Ori, despedidaM/F conamorrecordadonoenamoramientoactual, propuestaHimmel consensualsólofutura, roof/crackers494, citaelegidaporYuka495completa. Puntospermanentes, secuelas, objetosysaberesconservados. TerminarS6en38 ynoautocontinuarS7.
+
+
+### Ciel — nuevo conocimiento por elección, V36#34,2026-10-25
+
+[Revisión localizada autorizada](S6_CIEL_CHOOSES_KAMISH_MEMORY_CREATOR_REVISION_2026-10-25.md): M reconoce error de prohibir; CielB elige fragmentoKamish, oye voz deCielA/dolor, corta ella y no siguehoy. No todoelarchivo ni437vidas; M no mantiene prohibición y ella conserva límite. Se conservan recuerdo feliz y cierreS6 condate38. No retocarV36#3 ni fuenteS5.

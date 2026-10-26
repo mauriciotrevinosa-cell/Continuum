@@ -421,3 +421,8 @@ El snapshot S4 de este archivo permanece histórico. [Estado completo actual, re
 ## S6 — cierre producido,2026-10-25
 
 **V36#38 / S6E96 CH02 / Day495noche: FIN DE S6 como borrador completo.** [Exit final y S7 en espera](S6_SEASON_COMPLETION_AND_S7_PARKING_2026-10-25.md). Mau recuerda elamor porF, eligeYuka enelpresente; agradecimiento/despedida cumplidos, posible elfrouteHimmel sólofuturoconsentido, no pareja confirmada. CitaM/Yuka cierra sinamenaza. V37/S7 sinproducir: noautocontinuar. Revisión delcreador pendiente.
+
+
+### Ciel — nuevo conocimiento por elección, V36#34,2026-10-25
+
+[Revisión localizada autorizada](S6_CIEL_CHOOSES_KAMISH_MEMORY_CREATOR_REVISION_2026-10-25.md): M reconoce error de prohibir; CielB elige fragmentoKamish, oye voz deCielA/dolor, corta ella y no siguehoy. No todoelarchivo ni437vidas; M no mantiene prohibición y ella conserva límite. Se conservan recuerdo feliz y cierreS6 condate38. No retocarV36#3 ni fuenteS5.

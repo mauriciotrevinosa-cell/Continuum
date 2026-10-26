@@ -5,7 +5,7 @@
 **Volume:** 36
 **Reading order:** 34
 **Source episode:** S6E94
-**Continuity state:** Day494 morning to lunch. Private Mau/Ciel follow-up after confession and duel: she retains her own memories, asks for ordinary shared life and words rather than original trauma or compulsory full access. Mau asks what she wants instead of prescribing protection; one consensual present-branch music memory is shared, no new power/omniscient replay or erasure of distance. Noise's brief familiar assent is not a new sentient identity/upgrade. Old damage/grayscale persists, point gains permanent, no new test after duel. Ori invites Mau into her present game and asks him to join her/Frieren after lunch, without inherited fatherhood. Frieren remains mother; compass hers through Ori's custody unchanged. Warm ordinary day begins, no threat/return of fever.
+**Continuity state:** Day494 morning to lunch. Mau recognises he was wrong to forbid Ciel from viewing older memories for her protection and offers her the choice. She requests one fragment from after Kamish: his own remembered floor/wing and faint original Ciel outcry, not Rimuru's visual POV or an omniscient transcript. She follows the same episode back toward breaking ribs/tearing and closes access HERSELF before more. Thanks him for choice, uncertain about seeing rest, apologises for what he endured; he says it brought him to Yuka and back to her and would not change it. No full original-Ciel archive, physical reinjury or compulsory access for Rimuru. Then Ciel chooses one happy present-branch music memory with Bocchi, while ordinary closeness remains. Noise's familiar Maybe, breakfast and Ori/Frieren game preserved. No S7 begun; S6 date ending remains unchanged.
 
 *When: Day494, morning. Rimuru is still asleep above the closet. Mau is trying to get his sleeve over the hand which never quite closes.*
 
@@ -93,57 +93,157 @@ The smile faded.
 
 He could have explained why the thought frightened him. She knew enough of why already.
 
-*I do that,* he said. ᴹ
+He looked at the cup between his hands.
 
-*I don't want you to give me everything she endured. I haven't changed my mind about the pictures. But I'm here. I can be sad about something you tell me and still be myself afterward.* ᶜ
+*I was wrong to ask you not to look,* he said. ᴹ
 
-He rubbed his thumb along the cup's rim.
+She went quiet.
 
-*What would you like me to do?* ᴹ
+*I thought keeping those memories away from you meant I could keep you from being hurt the way she was. But I was deciding what you could bear before you got to decide whether you wanted to see.* ᴹ
 
-She took a little time with that answer too.
+*You were frightened.* ᶜ
 
-It struck him how often he had asked what she could measure, how often what she could hold, and how rarely the question had been left open like this.
+*Yes. That didn't make it mine to decide for you.* He took a breath. *If you want to look, you can. You don't have to promise to look at everything. Or to be all right afterward.* ᴹ
 
-*Tell me things when you think of them. You can say you aren't ready for a question. Let me ask it anyway.* ᶜ
+She did not move toward the part he had kept closed.
+
+He waited, leaving the offer where she could choose what to do with it.
+
+*One,* she said at last. *I'll try one. If I don't want to keep watching, I stop.* ᶜ
+
+*You stop. You don't have to ask me.* ᴹ
+
+*The dragon,* she said. *After Kamish. I want to know what happened when they reached you.* ᶜ
+
+Mau's fingers stilled against the cup.
 
 *Okay.* ᴹ
 
-*And tell me ordinary things too.* ᶜ
+* * *
 
-He looked toward the kitchen doorway.
+He offered the little stretch he remembered before the others came fully into view.
 
-*Ordinary?* ᴹ
+Not a view from Rimuru's eyes. Not the stair he had never stood on. Black stone under his own body. The dark of a wing folded over him. Cold arriving where the heat had been, and somewhere inside him a voice which had been trying to remain a voice he could answer.
 
-*I don't want every way of knowing you better to begin with finding a smaller terrible thing.* ᶜ
+Then the thread had opened enough for help to be coming.
 
-He closed his eyes briefly.
+*Rimuru!*
 
-*No. I don't want that either.* ᴹ
+Ciel heard herself.
+
+She knew the voice before she understood what had happened to it. The edges were broken. The name caught in a breath which no body had needed to take, and still she could hear the effort of finding enough of herself to say it.
+
+*Where were you? You left him—*
+
+A pause. Something of an answer at the edge of Mau's awareness, too far away to make into words he could honestly remember.
+
+*I know. I know they didn't choose it.*
+
+It was still her voice.
+
+Not angry in a way Ciel knew how to measure and put beside a cause. Crying while trying to remain useful. Trying to tell somebody what being there had meant.
+
+*With you, I never had to hear bones breaking like that.*
+
+The words led her toward what the remembered voice was trying to explain. Back within the same terrible stretch of time, before the wing closed over him, before the stone was quiet.
+
+A sound from inside his chest.
+
+Small. Close. A rib giving under the pressure of something too vast around it.
+
+Then the next breath dragged across the broken place.
+
+There was a tearing sound beneath the roar outside him, skin parting while he tried to keep his hand where it needed to be. Ciel heard the count. Heard herself still finding numbers, still finding his name, while he was coming apart around the effort to breathe.
+
+She cut the memory.
 
 * * *
 
-The memory he offered was from the afternoon with Bocchi.
+The cup was in Mau's hands.
 
-Not the field. The room where Bocchi had put an instrument into his hands and shown him where the smaller part would fit beside hers. The first wrong note. The patient silence while she worked out what his left hand could actually do. Kita on the floor with her knees up, trying not to laugh when he found the wrong note again in an entirely new place.
+Water. Morning light. Rem setting something down in the kitchen.
 
-*I was there,* Ciel said. ᶜ
+He knew at once that he had not been the one to close it.
 
-*I know. Would you like to see how I remember it?* ᴹ
+He did not reach back in and make sure she had seen the end.
 
-She considered.
+*Ciel?* ᴹ
 
-*Yes. Just that.* ᶜ
+She took a long time to answer.
 
-He let her see the small piece he chose.
+*Here.* ᶜ
 
-The note sounded wrong in him too. Under it there was something she had not needed to measure at the time: the relief of having one problem he could hear, one adjustment he could make, a person beside him who wanted him to try again because the song would sound better with him in it.
+He loosened his grip on the cup. Put it on the table before his hands could find another way to hold the remembered weight.
 
-He closed the piece when it ended.
+*You can stay here,* he said. *We don't have to open it again.* ᴹ
 
-Ciel stayed quiet for a while.
+*I heard me.* ᶜ
 
-Then she said, *You were happy.* ᶜ
+*Yes.* ᴹ
+
+Another silence.
+
+He let it last. She did not owe him words because he had finally stopped choosing them for her.
+
+*Thank you for letting me look,* she said. *I don't know if I want to see the rest anymore.* ᶜ
+
+*You don't have to know today.* ᴹ
+
+*I thought hearing about it would mean I was ready. That I could keep what I already knew in front of it.* She stopped. *I'm sorry.* ᶜ
+
+*For what?* ᴹ
+
+*For what you lived through. For how much of it I didn't understand when you said it hurt.* ᶜ
+
+He looked toward the kitchen doorway, where someone had left a cloth over the back of a chair. Ordinary things, waiting to be used in a day he was here to have.
+
+*No,* he said gently. *You don't have to be sorry for that. All of it brought me to Yuka. And back to you.* ᴹ
+
+His eyes stung. He did not close them against her.
+
+*I wouldn't change it.* ᴹ
+
+Ciel stayed very close without searching for anything else.
+
+*I'm glad you're here,* she said at last. ᶜ
+
+*So am I.* ᴹ
+
+* * *
+
+Rem put breakfast beside him.
+
+Mau thanked her aloud. His voice was not quite steady; she noticed, put the spoon where his right hand could reach it, and left him room without making him explain the quiet to her.
+
+After a while Ciel spoke again.
+
+*Tell me something ordinary.* ᶜ
+
+He looked down at the plate.
+
+*About breakfast?* ᴹ
+
+*Anything.* ᶜ
+
+He thought of the afternoon with Bocchi. The wrong note, the patient silence while she worked out what his left hand could actually do. Kita on the floor, trying not to laugh when he found the wrong note again in an entirely new place.
+
+He told Ciel how relieved he had felt to have one problem he could hear, one adjustment he could make, a person beside him who wanted him to try again because the song would sound better with him in it.
+
+*I was there,* she said. ᶜ
+
+*I know. Would you like that little bit too? The way I remember it. You can just hear me tell it, if you'd rather.* ᴹ
+
+She took her time.
+
+*That one,* she said. *I'd like that one.* ᶜ
+
+He offered it, and waited.
+
+The note sounded wrong in him too. The happiness under it was small enough to fit in an ordinary afternoon, and large enough that she could stay with it until he put the instrument down.
+
+He did not close the piece before she was ready to leave it.
+
+*You were happy,* she said. ᶜ
 
 *Yes.* ᴹ
 
@@ -151,7 +251,7 @@ Then she said, *You were happy.* ᶜ
 
 He opened his eyes.
 
-Rem had put breakfast beside him without interrupting the conversation she could not hear.
+The breakfast was still warm.
 
 *We could have more of those,* he said. ᴹ
 

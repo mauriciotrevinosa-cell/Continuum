@@ -2258,3 +2258,7 @@ Ciclo de hogar/trabajo/aventura completado en38/Day542; revisión delcreador pen
 ### S7 — V38#1–2, 2026-10-26
 
 Continuación expresa del creador. V38 inicia al aterrizar el puente542→549 en escenas de hogar y trabajo. Dos capítulos laterales breves por su materia, sin cuota de longitud. Siete brujas específicas verificadas en FourthTea; no inventar Typhon. Recepción mínima funciona, nuevo cliente sólo consulta, granja aún requiere visita y consentimiento. Se crea registroV38, se conserva salidaV37 histórica y enlace lector. No capítulos anteriores, código, DB o referencias modificados.
+
+### S7 — V38#3–5, 2026-10-26
+
+#3–5 cumplen farmer planteado porcreador sin comprimir encuentro en una habilidad ya obtenida. Ilen personaje nativo original enseña voluntariamente un método que complementa invernadero establecido; agua/nutrientes/frío persisten. Primer aprendizaje deja traza, no cosecha ni universalidad. Compra pequeña con dinero de suministros; relación deintercambio futura aún debe cumplirse. Se conserva daltonismo y vínculo de pareja mediante acción concreta, no cure/exposición genérica. Viaje no se vuelve crisis/nuevaredgate. Ningún capítulo previo/código/DB tocado. Continuación sigue autorizada.

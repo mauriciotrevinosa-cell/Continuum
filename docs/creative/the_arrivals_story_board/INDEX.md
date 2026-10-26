@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción activa S7 — V38#1–2, 2026-10-26:** V38 abre con té de las brujas y una entrega real. La semana deja una mesa pequeña utilizable, consulta por una segunda herramienta y futuro contacto de semillas; no ciudad/contrato/solución alimentaria hechos fuera de escena. [Índice V38](../THE_ARRIVALS_LN_VOLUME_38_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). V37 cerrado como borrador; S7 sigue abierta.
+> **Producción activa S7 — V38#1–5, 2026-10-26:** La visita al granjero se vive en preparación, encuentro, demostración, aprendizaje y regreso. Daphne conserva lo que ya sabía y Mau aprende una aplicación pequeña con permiso; las semillas siguen necesitando tiempo, cuidados y prueba en casa. [Índice V38](../THE_ARRIVALS_LN_VOLUME_38_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME38_PRODUCTION_STATE_2026-10-26.md). V37 cerrado como borrador; S7 sigue abierta.
 
 > **V37 completo como borrador, no S7 completa —2026-10-26:** cierre38/Day542. [Estado compacto de salida y entradaV38](S7_V37_CLOSE_AND_V38_ENTRY_2026-10-26.md). Continuación ya autorizada; los avisos antiguos de volumen/temporada sin iniciar o detenerse enS6 son históricos.
 

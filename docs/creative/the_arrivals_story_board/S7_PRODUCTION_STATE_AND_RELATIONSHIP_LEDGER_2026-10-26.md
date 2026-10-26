@@ -1,12 +1,10 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
-**Actualización:** 2026-10-26. **Punto actual:** V37#1–14, Day508 por la tarde/noche. Borradores de producción. [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md) · [Corrección vigente del creador](S7_POST_FORT_CAUSAL_SCENES_CREATOR_CORRECTION_2026-10-26.md) · [Verde inicial](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md).
+**Actualización:** 2026-10-26. **Punto actual:** V37#1–16, Day509 por la mañana, tras recuperar Yuka el perro negro. Borradores de producción, no aprobación automática del lector. Verde deS7: [mensaje completo](S7_CREATOR_GREENLIGHT_AND_FORT_FIRST_OVERRIDE_2026-10-26.md). [Índice lector](../THE_ARRIVALS_LN_VOLUME_37_INDEX_v0.1.md). S6 ylos capítulos previos permanecen intactos.
 
-La corrección sustituye los antiguos #4–10; no se suman sus escenas como si hubieran sucedido dos veces. [Archivo íntegro de los borradores sustituidos](S7_POST_FORT_COMPRESSED_DRAFT_ARCHIVE_2026-10-26.md). Fort #1–3 y las novelas de S1–S6 no se alteraron.
+## Capítulos producidos
 
-## Secuencia vigente
-
-| Orden | Fuente / título | Tiempo | Escena y cambio efectivo |
+| Orden | Fuente | Tiempo | Escena y cambios efectivos |
 |---:|---|---|---|
 | 1 | S7E01 CH01, The Hamster Standard | Day496 mañana | Maki despierta a Mau/Yuka; desayuno, propuesta Fort, reglas y construcción. Bellion acepta agrandar la bandera. Mau observa sobre Kamish; Beru protege a Yuka. |
 | 2 | S7E01 CH02, Two Noble Citizens | Day496 después de comer | Juego de bandas, Lantern silencioso, engaño Igris/Bellion, pequeño Red de Gojo y derrota teatral de Kamish. Tesoro recuperado; Mau prisionero del juego. Sin daño/XP. |
@@ -22,12 +20,14 @@ La corrección sustituye los antiguos #4–10; no se suman sus escenas como si h
 | 12 | S7E06 CH02, The Sample | Day500 mañana | Wakana muestra prueba local de una correa. Hollis recibe barra intacta marcada como préstamo para pruebas acotadas; Jinshi conserva nota. Se devuelve la herramienta ajena. Sin venta/pago. |
 | 13 | S7E07 CH01, The Afternoon We Kept | Day507 tarde | Puente de siete días. Práctica muestra mismo Blue con mejor colocación/liberación mientras Yuka cambia postura; rutas y tareas conocidas funcionan mejor. Tarde de pareja con comida/cartas/beso. Tirón cotidiano arrastra tela y se libera. |
 | 14 | S7E07 CH02, A Question with a Price | Day508 tarde–noche | Hollis devuelve barra con marcas y oferta condicionada para fabricar/probar una pieza. Casa distingue costos, guardias y suministro de ingreso disponible. Mau pide avanzar hacia acceso digno; primera pregunta concreta al taller, no tratado. |
+|15|S7E08 CH01, The One That Wouldn't Answer|Day509 mañana|Mau explica el perro negro dormido de A; Yuka describe sus llamadas fallidas, decide investigar y consiente un examen acotado de su técnica con Ciel/Noise/Rimuru. Maki aporta el antecedente del par. Todavía no cambia ninguna invocación.|
+|16|S7E08 CH02, Both of Them|Day509 final de mañana|Examen encuentra acceso plegado; Yuka autoriza ajuste, llama al perro negro y lo recibe. Cerrado el examen, lo despide/rellama sola y llama a la perra blanca. Maki/Yuta reaccionan. Pareja inicial propia recuperada, no tame nuevo, resurrección, Ear o registro del Monarca.|
 
 ## Relaciones y conocimiento
 
 - Mau/Yuka: pareja pública y elegida. Se reservan tiempo y se escuchan en #8–9. No sexo, compromiso, embarazo o mudanza. McLaren prestada continúa y se lava; brazalete/anillo permanecen. Ella no recuerda A por el contrato. Maki/Yuta/Mai reconciliados; no reiniciar el conflicto de secreto. Tsurugi ya residente.
 - Contrato B construido Day498: Yuka inicia y libera la aplicación pequeña de Blue ya autorizada. Mau mantiene patrón/suministro/costo compartido; no segunda copia/reserva. Cualquiera puede pedir pausa o terminar el acceso sin castigo mágico. No memoria, cuerpo o mente abiertos por defecto. El inicio no es el techo de toda la temporada: ampliar con escenas de aprendizaje y registro.
-- Yuka aún posee sólo su perro blanco demostrado de Ten Shadows; la cuerda/Keishoken propios no son regalos del contrato. Primer ritual nuevo todavía pendiente. Dominio requiere estudio, modelo y ejecución propia, no descarga automática.
+- Yuka recupera el perro negro nativo Day509, #15–16. Conserva la perra blanca y ahora puede llamar al negro por sí misma después de cerrar el acceso de examen. Son la pareja inicial de Divine Dogs, una familia de la técnica; no dos tames nuevos ni dos unidades Arise. No hubo muerte previa, resurrección o copia prestada de Ear. El costo de llamar a sus perros sigue siendo suyo. La cuerda/Keishoken propios tampoco son regalos del contrato. Primer ritual de un shikigami adicional todavía pendiente. Dominio requiere estudio, modelo y ejecución propia, no descarga automática.
 - Ciel B examina por consentimiento la operación, no todo el archivo traumático. Sigue privada para Mau/Rimuru. Noise acepta terminar patrones mientras conserva lo que analiza. No Mini Ciel ni ojos completos todavía.
 - Bocchi/Mau mantienen fraternidad elegida y música sin parentesco biológico nuevo. Frieren/Himmel pasearon Day496 sin romance confirmado ni ruta elfo concedida. Ori conserva Mum Frieren y su compás; Mau no se lo apropia.
 - La casa aporta prioridades: Fern delega notas, Jinshi lleva custodia, taller pregunta por material, Daphne por suelo, Momo/Umaru por conservación, Anko/Mikasa por rutas. No cargos impuestos ni parlamento obligatorio de todo el elenco.
@@ -43,12 +43,24 @@ La corrección sustituye los antiguos #4–10; no se suman sus escenas como si h
 
 ## Tiempo y continuidad del plan
 
-La nueva secuencia llega a Day508. El primer puente explícito es Day500→507, después de mostrar la entrega de la muestra. Las fechas antiguas Day506/507 del bloque sustituido son históricas. No alcanzamos una fecha a costa de comprimir decisiones. Duraciones y número de capítulos se derivan de escenas reales.
+La secuencia llega a Day509 por la mañana, después de la recuperación del perro negro. El primer puente explícito es Day500→507, después de mostrar la entrega de la muestra. Las fechas antiguas Day506/507 del bloque sustituido son históricas. No alcanzamos una fecha a costa de comprimir decisiones. Duraciones y número de capítulos se derivan de escenas reales.
 
 Tercera Red Gate aún no visitada. Una charla franca antes de entrar; esa nueva gate entregará una sola llave Meet the Monarch con timer posterior al cumpleaños elegido de Mau, todavía por anclar. No llave en inventario ni reloj activado ahora. No nuevo Trial; segunda petición futura de DIO es refugio. Naturaleza de Ashborn permanece abierta. S7 no está terminada por publicar esta reparación.
 
-## Continuación: antes de escribir el siguiente capítulo
 
-Primer ensayo de Ten Shadows de Yuka, después de acordar cómo probar su participación con el nuevo contrato. Antecedente A S6E16CH02: el ritual conjunto dentro del círculo fue reconocido como Summoner1, sin terceros ni sustitución de quien debe subyugar. Aquí hay que explicarlo y probarlo por primera vez; el éxito de A no lo convierte en hecho ya sucedido en B. Yuka ha de actuar, aprender y después llamar por sí misma lo que consiga. No diez tames por firmar. Decidir qué escena necesita cada consecuencia, sin tandas fijas de tres ni obligación de terminar ritual y oferta en un bloque.
 
-Después: prueba local de material/equipo, comunicación con el taller, crecimiento del trabajo de sombras y una preparación de Red Gate que viva sus preguntas. Cada progreso futuro debe respetar lo que todavía no se ha mostrado.
+## Recuperación del perro negro: alcance y procedencia
+
+Dirección posterior del creador: «y que recupere el perro negro como en la timeline original». Antecedente localizado: S6E17CH02, The Wheel Lesson, y reacción de Maki en S6E18CH01, The South Field. Son hechos de A recordados por Mau, no un logro previo de Yuka B.
+
+#15 explica el antecedente a Yuka y deja que describa dónde fallaba la llamada. #16 muestra consentimiento específico para Ciel/Noise a través del contrato, examen, explicación y ajuste del acceso nativo. No se amplía el préstamo de Blue a recuerdos/cuerpo/mente en general. El examen cierra; la llamada independiente y la presencia de los dos perros comprueban que no depende de Mau manteniéndolo abierto. No se fija por qué se bloqueó originalmente ni se concede todo Ten Shadows por este resultado. No nuevo patrón de ataque, reserva, cambio numérico, extracción, espada, moneda o llave.
+
+Maki y Yuta conocen y presencian el resultado. Yuka expresa la decepción de intentos anteriores y disfruta la recuperación antes de empezar otro ritual; la mañana no acaba con diez invocaciones ya completadas.
+
+## Próxima escena
+
+Primer ritual de un shikigami adicional de Yuka, con la pareja inicial ya recuperada y sin confundir este resultado con subyugar los siguientes. Consultar A S6E16CH02 como antecedente recordado y probar aquí cualquier excepción de participación conjunta; no importar Summoner1 ni la interfaz de la torre a una gate normal sin observarlo. Debe conocerse el alcance adicional del contrato antes de intervenir. Yuka ejecuta su propia técnica y conserva los resultados; Mau no le regala todas las victorias. No fijar tres capítulos ni diez por arco. También quedan pruebas locales de la barra y respuesta al taller; no venta antes de obtener una pieza funcional.
+
+## Checkpoints
+
+V37#1 y2–3 ya se publicaron por separado y ellector confirmó los tres sinadvertencias, con elenlace desdeV36. Este bloque15–16: 2284 palabras aproximadas; revisar índice/texto/navegación después de lapublicación. No cierre de volumen o temporada por efectuar unpush; continuar trabajo autorizado segúnelplan ylas correcciones delcreador.

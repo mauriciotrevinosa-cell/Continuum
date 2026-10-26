@@ -10,10 +10,27 @@
 | 2 | S7E36 CH02 | Day728 | YukaMaxElephant conMauayudaacotadasegúnritualcompartidoanterior/agua/rope;ellaganalastmovement,recallsola5familias,nativeCEdescansonecesario. |
 | 3 | S7E37 CH01 | Day734noche–735mañana | Pesadillareflejavesselmiedo,noposesiónreal.MaupánicoaceptaCiel/Rimuru/Shoko,medicalsinlesiónnuevacomprobada, avisaaYukaporlamañana.No solohuiralgate/archivoAabierto. |
 | 4 | S7E37 CH02 | Day746 | GreatSerpent tamepropioYukaDog/Toad/Rabbit/rope,6familiasconfirmarecall. Mau/Yutaexternos,nuevavictorianoquitaelderechoairmalunotro día. |
+| 5 | S7E38 CH01 | Day757 | Tresclearsrutinareportadasconfechas722/737/754:177ordinaryadded,115/102held,380legión. Primerclientelot40small+1bossconpago/prueba1small,stock250/4pyl/5boss,no todoestantevendido. |
+| 6 | S7E38 CH02 | Day760 | Yuka llevaMauNue primerdualloadrutacortaprotegida/parentsnotificados, primerfallo+retorno bonito sinFakeRuler. Ellaeligeouting,afectopropio/roomsnosemueven. |
+| 7 | S7E39 CH01 | Day768 | NeutralInfinityprototypeYukaenpropioorigen,clothyseleccióncontacto, costereducidoconGojo/Ciel/Noise/noCEgratis. No24hperfectfilter,nil fullgiftregaladoanticipado. |
+| 8 | S7E39 CH02 | Day773 | Jinshi/Maomaoescenapropia/lampmethodexistenteapath,testagotó1smallstock249.No secretoink/growthprotection,roledescansocontinúa. |
+| 9 | S7E40 CH01 | Day777 | Umaru/Taihei/Mausiblingjugados,puntos102retenidos. InterfaceIntmappingshadow/mana/CEcomoincomplete,nobuyallmastery.Heapuntaeficienciaactualantesdevaciarpuntos. |
 
 ## Estado actual
 
-**Actual V39#4 / Day746.** [Dirección límite/trauma](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md). Escribirhasta celebración19Yuka808 ydetenerprosa/presentarplanMau;nocontinuarrestoS7porautoridadhistórica. Relación303díasdesde443,62al19/primeraaniversariomano. No exactoMau birth conocido/Monarch fechadoaúnesperalarga.
+**Actual V39#9 /Day777**,334díasdesde443;31al19Yuka808yprimeraaniversariomano. Stoptrasbday/presentarplanesMau,no prosaMau/familyblessing/Monarchadela porautopilot.
+
+Brigadas722/737/754realizadasconMau+alternandoAnko/Mikasaenruta, bajoIgris/Beru, repetirprotocolo641no nuevasinvasionesplanetarias. Extraccionesordinarias52+61+64=177incluyenbosses,porque203previos+177=380total;16nombradas+364ordinarias,Mahoragaaparte.Cadáveresgenerados,nofamiliaresrescatadosconvertidos. +4niveles/+20held→Mau115/102retenidos/Int440,otrospuntosinvertidosnuevosningunos.AnotacióninterfaceIntpermitevermappingmana/CEademásshadowperoestáincompleto, no bonusyaaplicadoportenertexto ni fusiónmanaCElibres. Umaruaguarda/esquema,eltiempolibre/taiheisiblingnoviveenarchivohistórico.
+
+Loot174small+3bossdeesos3gates=291small/4pylon/6bossantesventa. 1smallagotadocomosample,40small+1bossvendidos/pagados757conHollis/recibos/precioyprioridadpropios→250small/4pylon/5boss.773lámparatestconsumióotro1small→**249small/4pylon/5bossusableheld**;spentinsertseparadono dineroduplicado. NopromiseindefiniteoutputnotodomundoMonopoly,clientepresentado/controlrecibos,no secrettinta/Shopvendida. Dineroordinario deventasnogastoportocarelmenú. Guardarstockreservacasa. Secretoclienteacceso sólo recepciónno dorms.
+
+Yuka6familiascomo4, nuevaflight760primerdualhumanNueconMaupesocompleto/loopspreparados/rutaprotegidalowaltitudenociudadvisitada, unfalloprimerliftthenéxito/dateretornopuntual. NomauliftRulerfake,notcontinental/unlimitedflight. Neutralprototype768primerclothfall/reacciónlanza,puntodegastoarregladoconGojo/Ciel/Noise yconsumosdescienden,supplyMaupaga. YukaeligecontactoMuatravésdebubble, dosorigenseparados,no ahora24hthreatfilterperfect. ReverseRed/twobothfull/sleepindependence/pruebaspermanenciasiguenpara19,loanBlue/Skytempranonoquitado. Nativodominio681cierre6segaprendido,refinamientopendientenoreset. OwnCEvsforeigncostsharedseparadosaúnsinCEpoolfusion.
+
+Yuka/Maufuturehealth/room625–626vigentes;pareja760outingellaorganizaigualmentecolores/dañosno curados. No nuevaCT/Blackflash/autocalamitypercent/elfroute. Bodynightterror734informedShokoRimuruYuka peroexactwordsAarquitecto/hipótesisvesselguardsigueenMau. No confirmedposesión/destino, Cielnopublic y nofullAarchive.317/615memoriasviejasnosevendenni abrencomoexplicaciónautomática.
+
+Herencia746sinreset,aplicarencabechangesdearribaencifras:
+
+**Base heredada746, salvo los avances777 arriba.** [Dirección límite/trauma](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md). Escribirhasta celebración19Yuka808 ydetenerprosa/presentarplanMau;nocontinuarrestoS7porautoridadhistórica. Relación303díasdesde443,62al19/primeraaniversariomano. No exactoMau birth conocido/Monarch fechadoaúnesperalarga.
 
 Mau111/82held/Int440,16nombradas+187ordinarias=203,Mahoraganativoaparte. Ningúnnivel/extraídos/lootnuevoen1–4. Ver [salidaV38](S7_V38_CLOSE_AND_V39_ENTRY_2026-10-26.md) paraidentidades/objetos/relacionesnoreseteadas. Inventario117small+4pylonWarden+3bossdistintos,barrarestodesegundocutter/4platesWarden+2road-shell,bindingoldaxeStark+Caxe12%afirmadoetefectotestnoexactporcentaje,pañoIlenyintercambiocumplidos. No cristalesregistrados/shopvendidosni gastadosaquí.
 
@@ -30,4 +47,4 @@ V38cubiertapequeña/pasosbancos,2plantas/raíces/amparomismossinexpandir;Momodes
 
 ## Continuación
 
-Siguienteintervalo1–2semanas debeprobarneutral/paraleloeficienciaantesdeRed,conYuka/MaubajoGojo. Trabajo/brigadasycomercio puedenprogresarconteosligadosaclears/reportes,no1000gratis. Familia/hogarvidaM/Yalterna,sinrepetirconfidenciasde625.Seacerca794:desacelerarpreparacióndel19,hacercelebraciónpropia sinconvertirlaotraexposición/traumaposeedoroMauprotagonizandosucumple. Al808STOPprosa ypresentarplanMau (blessMaiMakiYuta/posiblepalabrasvessel,ringproject/futuredoor)paraopinión, nocapítulo yahecho.
+Continuarprimer7mofamiliesotro tamesiestájustificado,finalpruebasreversal/eficienciaconcurrente/sueño/autonomíatécnica yelfiltro selectivono deprivados. Desde794másritmodíaadíaantes19,no comprimirpreparación/gift19aniversario/vidaenfámiliacumple. Todavía31díaspermiteescenarooffellas/crackers/pequeñosafectos,sembrarterrormiedovessel sincontinuarcatástroferepetida. Al808pararypresentarplanesMauyaexistenestánabiertos,no escribirlosnuevo verde.

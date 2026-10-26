@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción activa S7 — V39#1–4, 2026-10-26:** V39 abre con dosBlueindependientes y progreso propioYuka, seguido de una noche de terror enMau que aceptaayuda. No se resuelve el significado devessel ni se resetean relaciones. Continúahasta19Yuka. [Índice V39](../THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Producción sólo hasta19Yuka; después decisión delcreador.
+> **Producción activa S7 — V39#1–9, 2026-10-26:** Venta concreta y brigadas con conteos; salida queYuka organiza, avance deInfinity y una escena propia deJinshi/Maomao. Umaru mantiene sus vínculos y el plan de puntos, sin compras de poder que sustituyan la práctica. [Índice V39](../THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Producción sólo hasta19Yuka; después decisión delcreador.
 
 > **Límite nuevo del creador:** escribir hasta el19 deYuka; al llegar detener la prosa posterior y presentar el plan para elcumpleMau. Miedo a serunvessel se desarrolla desdeahora. [Instrucción íntegra](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md).
 

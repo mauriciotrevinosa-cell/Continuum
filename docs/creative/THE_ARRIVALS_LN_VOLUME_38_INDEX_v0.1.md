@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 38
 **Season:** 7
-**Coverage:** S7E20–S7E26 (in progress)
+**Coverage:** S7E20–S7E27 (in progress)
 **Volume title:** **The Roads Between** (provisional)
-**Chapter files:** 13
+**Chapter files:** 16
 
 The household's first S7 home/work/adventure cycle has ended; its projects and relationships continue. The first week bridge lands in an ordinary tea and a real delivery, with decisions shown before their results. The story determines chapter and volume length. This volume and S7 remain in progress; production is not automatic creator approval.
 
@@ -28,3 +28,6 @@ The household's first S7 home/work/adventure cycle has ended; its projects and r
 | 11 | S7E25 | The Sound Past the Bend | `THE_ARRIVALS_S7E25_LN_CHAPTER_01_THE_SOUND_PAST_THE_BEND_v0.1.md` |
 | 12 | S7E25 | Eight More Hands | `THE_ARRIVALS_S7E25_LN_CHAPTER_02_EIGHT_MORE_HANDS_v0.1.md` |
 | 13 | S7E26 | Tell Me Yours | `THE_ARRIVALS_S7E26_LN_CHAPTER_01_TELL_ME_YOURS_v0.1.md` |
+| 14 | S7E26 | What We Came to Do | `THE_ARRIVALS_S7E26_LN_CHAPTER_02_WHAT_WE_CAME_TO_DO_v0.1.md` |
+| 15 | S7E27 | Where the Stone Gives | `THE_ARRIVALS_S7E27_LN_CHAPTER_01_WHERE_THE_STONE_GIVES_v0.1.md` |
+| 16 | S7E27 | The Axe He Brought Home | `THE_ARRIVALS_S7E27_LN_CHAPTER_02_THE_AXE_HE_BROUGHT_HOME_v0.1.md` |

@@ -28,32 +28,44 @@
 | 18 | S7E54 CH02 | Day852 | Coco/Richeh/Qifrey/madre: práctica luz pequeña con tinta medida, guardar y paseo familiar; no instalación global o secreto vendido. |
 | 19 | S7E55 CH01 | Day856 | Dos cutters diferenciados completados y testeados de material reservado; aviso para862, no cobro antes de entrega. Mai/Marin/Wakana autoría real. |
 | 20 | S7E55 CH02 | Day862 | Primer paso nominal por3puestos, pruebas de compradores y pago real por2piezas. Reporte cercano cerrado/regresaron según contacto con2heridos; segundo indirecto pendiente. Regreso casa y registro. |
+| 21 | S7E56 CH01 | Day866 | Yuka elige Round Deer y diseña cuerda/físico/Ox con apoyo acordado; Shoko prohíbe herirse para tests. Coste nativo, no cura universal. |
+| 22 | S7E56 CH02 | Day868 | Ritual en sala despejada, Yuka dirige y Mau ayuda físicamente; regen/interferencia hacen cambiar estrategia, Ox quiebra forma. Recall aún pendiente; no XP/loot nativos. |
+| 23 | S7E57 CH01 | Day869 | Recall independiente confirma8familias; examen pequeño sana raspón nuevo con costeYuka, sin curas antiguas. Gojo/Shoko paseo propio sin100% o matrimonio declarado. |
+| 24 | S7E57 CH02 | Day875 | Rincón compartido dentro de common room, ingreso parcial después de reservas, no ala o mudanza. Primeros6scouts vuelven de2rutas sin amenazas/parientes nuevos. Pareja y otros usan espacio. |
 
 ## Estado actual
 
-**Salida: V40#20 / Day862 por la noche.** Continúa V40 con el permiso «va tu termina». No se ha escrito aún la llegada de DIO, cumpleaños de Mau o Meet the Monarch.
+**Salida: V40#24 / Day875 por la noche.** V40 continúa hacia su cierre natural. Todavía no llegaron DIO/Ashborn ni se abrió Meet the Monarch.
 
-### Cambios de este bloque
+### Yuka y el siguiente shikigami
 
-Las dos primeras piezas se fabricaron con material trabajado reservado, se probaron en taller y con cada comprador, se aceptaron y pagaron en862. El ingreso consta en el recibo y registro de Jinshi; no se inventó una denominación o cantidad que contradiga precios anteriores. Seis piezas posteriores siguen siendo consulta, no contrato aceptado. Reemplazo de material/tiempo y mejora doméstica tendrán que decidirse antes de gastar todo. Placas del keeper todavía sin examen, separadas de stock conocido.
+La preparación de866 distingue curación nativa, interferencia de CE y recursos prestados. Yuka elige Round Deer; Mau ayuda físicamente dentro según el protocolo compartido ya establecido por el proyecto, Yuta/Maki observan fuera. En868 el plan usa cuerda ordinaria, redirección física y una línea de Piercing Ox elegida por Yuka; no un Blue universal que ignore la interferencia. La forma no sometida cae; recall controlado independiente869 confirma **octava familia**.
 
-La carta se usó por primera vez en862 dentro de su jurisdicción de tres puestos. Primer control encuentra nombres; segundo tiene demora al localizar documento; el tercero permite continuar. No hay tratado mundial ni final de discriminación. Party de entrega Mau/Wakana/Marin/Anko con guardias de ruta habituales; Rimuru permanece en casa.
+Yuka tiene ahora Dogs (pareja cuenta una), Rabbit Escape, Nue, Toad, Max Elephant, Great Serpent, Piercing Ox y Round Deer. Tiger/Mahoraga siguen sin doma propia. El breve examen con Shoko cierra el raspón nuevo que Mau sufrió incidentalmente durante el ritual: nadie se hirió adrede, no se curaron dedos/ojos/cicatrices antiguos ni se prometió cura de cáncer o cualquier enfermedad. El coste de esa operación nativa corresponde a Yuka. No le concede RCT personal universal. Fuente primaria inspeccionada localmente: JJK Ch0218/008–009, Round Deer cura y neutraliza CE en metal controlado. El ritual es coreografía propia de Arrivals, no una escena canon copiada; ninguna imagen se agregó al repo.
 
-Reporte exterior cercano: Hollis recibió de un contacto identificable de ruta que regresaron todos los que entraron, dos heridos, y la abertura cerró. La casa registra procedencia: no fue su propio rescate o clear. El segundo reporte indirecto sigue sin corroborar.
+### Vida y pequeña mejora doméstica
 
-Mau practica katana con Yuta mediante espadas de madera y condiciones acordadas. No obtiene maestría automática, Copy o puntos de un duelo amistoso. Su relación de amigo/hermano se mantiene. La casa aprueba iniciar un ensayo de scouts de rutas definidas con sombras existentes: observar espacios públicos y amenazas, no habitaciones privadas; contacto con personas y familiares requiere verificación y consentimiento; emergencia permite rescate, después elección de transporte/acompañamiento. Todavía no se registró el primer despliegue de ese ensayo. No unidades nuevas por aprobarlo.
+Gojo/Shoko caminan juntos dentro del amparo en869. Cercanía personal y un buen rato, sin declaración de matrimonio/sexo o restitución100% por calendario.
 
-Coco/Richeh/Qifrey y madre de Coco tienen escena propia de luz dibujada pequeña con tinta existente medida; no conversión a mana/cristales, divulgación al exterior o instalación permanente. La madre sigue presente y tiene vida fuera de aseo. Mai contribuye a diseño y pruebas sin pacto Construction nuevo o regreso a combate.
+En875 se termina un rincón compartido en el borde de la common room, reubicando almacenamiento temporal. Madera/fijaciones/tela se compraron con una parte acordada del ingreso de las dos herramientas, después de reservar reemplazo de materiales. Se narra decisión y trabajo, sin inventar moneda/cifra incompatible. No nueva ala, cuatro pisos, expansión de protección o invasión de raíces. No cambio de cuartos. Coco/madre/Richeh y después Mau/Yuka usan el lugar; no es propiedad exclusiva de la pareja. El mapa se lleva allí para añadir otro recuerdo actual.
 
-### Base conservada
+### Primer ensayo de scouts realizado
 
-Mau116/107 puntos retenidos/Int440. Legión377 ordinarias+16 nombradas=393, Mahoraga aparte.285 pequeños usables/4pylon/6boss de fuentes distintas; pequeño de lámpara831 gastado fuera de stock. Dos Dragon's Wrath, katana y secuelas/visión gris salvo Yuka intactos. Ningún punto nuevo, gasto o clear en850–862. No dinero de ventas mágicamente se convierte en cristales.
+Seis soldados ordinarios ya existentes, dos rutas cortas acordadas, Igris coordina. Los seis regresan; un reporte sobre cart/crossing y otro sobre tramo de camino deteriorado, sin parientes o amenazas nuevos. Se respeta no seguir un carro a propiedad privada. No nuevas unidades, portales confirmados o rescates. Se corrige la ruta y se les da fin de turno, no despliegue infinito por hábito.
 
-Yuka19, ocho sólo futuro: **siete familias nativas actuales**, Garden propio previo; regalo Limitless completo/autónomo con fuente Mau y costes agregados, no dominio UV o RCT propio regalo. Blue/Sky/calls se alternan según práctica narrada. No nueva doma/duración. Cuartos separados, Rimuru loft, sin sexo/embarazo/compromiso. Our Year con Mau y Two Beginnings con Yuka. Especie/fertilidad/edad biológica de Mau desconocidas.
+### Recursos y poder que se conservan
 
-Frieren amiga/maestra y Mum de Ori, Ori conserva compás. Conflicto Yuta/Maki/Mai reparado. Bocchi música y hermandad; Momo relevos; Fern tiempo propio/delegación; Shoko/Gojo cercanía. Las siete brujas conservan Pride adulta sin revelar su identidad privada, no Typhon importada. Torre/corazón ya conocidos; exactas palabras e hipótesis vessel todavía no compartidas a humanosB. CielB no archivoA automático. La llave sigue permitiendo esperar/acompañantes bajo condiciones originales y falta anclar B/B+1 al calendario.
+Mau116/107 puntos retenidos/Int440. Legión377 ordinarias+16 nombradas=393, Mahoraga separado.285 pequeños usables/4pylon/6boss; spent de lámpara831 separado. Ritual nativo no otorga XP/loot/Arise por estar en una sala de gate. No nuevo clear de criaturas de dungeon en este bloque. Dos Dragon's Wrath/katana y secuelas/gris salvo Yuka intactos.
+
+Regalo Limitless de Yuka sigue siendo patrón suyo con demanda de fuente Mau, autonomía por uso y pruebas previas. No Purple/UV gratis o fusión universal de mana/CE. Garden previo sin nuevo récord de tiempo. Gojo práctica/cercanía no100% automático.
+
+### Hilos económicos, externos y de relación
+
+Dos primeras herramientas vendidas/cobradas862; seis posteriores no contratadas. Material de reemplazo reservado, parte de ingreso usada en rincón. Placas del keeper aún sin probar. Carta de3puestos funcionó una vez con demoras y alcance limitado. Reporte exterior cercano: party regresó y gate cerrada según contacto, dos heridos. Segundo reporte indirecto sin corroborar.
+
+Yuka19, pareja y familia mantienen vida diaria; cuartos separados, Rimuru loft. Our Year con Mau, Two Beginnings con Yuka, sin sexo/embarazo/compromiso/mudanza. Especie/fertilidad/edad de Mau desconocidas. Frieren amiga/maestra/MumOri, compás Ori. Bocchi/banda, brujas, Witch Hat y demás vínculos siguen. HumanosB conocen torre/corazón, no exactas frasesvessel; CielB no archivoA automático. Trauma atendido con pausa/compañía, no posesión nueva.
 
 
 ## Continuación
 
-Continuar la elección y ritual del siguiente shikigami de Yuka con fuente y reglas de ayuda ya acordadas, seguimiento de scouts y un uso doméstico concreto del ingreso. Construir llegada vulnerable y petición de refugio de DIO con causas, límites, consentimiento y estancia propia, sin convertirla en fuente omnisciente o nuevo Trial. Mantener vida de pareja/familia y cerrar V40 por arco vivido, no por cuota de capítulos.
+Construir llegada vulnerable de DIO desde fuera del perímetro, reconocer su voz sin avatar descartable y escuchar una petición de refugio que conserva responsabilidades. No convertir búsqueda en rapto ni amparo en campo móvil. Dar tiempo a preguntas, consentimiento, construcción/prueba de estancia y vida posterior. Cierre de V40 puede nacer de ese refugio elegido; no precipitar cumpleaños/Monarch ni saldar todos los hilos de S7 por una habitación.

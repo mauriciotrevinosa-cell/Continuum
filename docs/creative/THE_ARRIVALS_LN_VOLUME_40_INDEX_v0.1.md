@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 40
 **Season:** 7
-**Coverage:** S7E46–S7E55 (in progress)
+**Coverage:** S7E46–S7E57 (in progress)
 **Volume title:** **The Days We Choose** (provisional)
-**Chapter files:** 20
+**Chapter files:** 24
 
 Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. Shared life, practical coordination, household choices and the changing world unfold before the later birthday and Monarch trial. Chapter and volume length follow the scenes, not a fixed quota. Drafts await creator review.
 
@@ -35,3 +35,7 @@ Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. 
 | 18 | S7E54 | The Light She Drew | `THE_ARRIVALS_S7E54_LN_CHAPTER_02_THE_LIGHT_SHE_DREW_v0.1.md` |
 | 19 | S7E55 | The First Two | `THE_ARRIVALS_S7E55_LN_CHAPTER_01_THE_FIRST_TWO_v0.1.md` |
 | 20 | S7E55 | The Names at the Post | `THE_ARRIVALS_S7E55_LN_CHAPTER_02_THE_NAMES_AT_THE_POST_v0.1.md` |
+| 21 | S7E56 | What She Wanted Next | `THE_ARRIVALS_S7E56_LN_CHAPTER_01_WHAT_SHE_WANTED_NEXT_v0.1.md` |
+| 22 | S7E56 | The Turn Before the Charge | `THE_ARRIVALS_S7E56_LN_CHAPTER_02_THE_TURN_BEFORE_THE_CHARGE_v0.1.md` |
+| 23 | S7E57 | An Ordinary Walk | `THE_ARRIVALS_S7E57_LN_CHAPTER_01_AN_ORDINARY_WALK_v0.1.md` |
+| 24 | S7E57 | A Place for the Chair | `THE_ARRIVALS_S7E57_LN_CHAPTER_02_A_PLACE_FOR_THE_CHAIR_v0.1.md` |

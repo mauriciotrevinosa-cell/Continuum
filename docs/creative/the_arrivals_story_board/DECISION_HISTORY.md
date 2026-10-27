@@ -2355,3 +2355,7 @@ V40#13–16 continúan sin finalizar por cuota. Causas comerciales se completan 
 ### S7 — V40#17–20, 2026-10-27
 
 El creador dice «va tu termina». Se continúa V40 hacia cierre natural.17–20 cierran el ciclo de2herramientas con fabricación/prueba/entrega/pago y primera aplicación local de carta; no ocho ventas o inmunidad mundial. Yuta/Mau recuperan práctica/amistad, se acuerdan límites de scouts sin vigilancia íntima; Coco/madre/Qifrey/Richeh tienen escena propia breve. Reportes exteriores se actualizan según procedencia. Poderes/inventario de gate intactos. Se continúa sin cerrar tras este push.
+
+### S7 — V40#21–24, 2026-10-27
+
+V40#21–24 dan preparación, ritual y recall de Round Deer antes de registrar octava familia. Fuente Ch0218/008–009 comprobada local, sin imágenes en repo; límites curativos y nativos conservados.6scouts existentes vuelven sin nuevas unidades, rincón doméstico financiado parcialmente sin edificio imposible, pareja/familias lo comparten. Gojo/Shoko tiempo propio. Se continúa al refugio sin cerrar después del push.

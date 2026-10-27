@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 40
 **Season:** 7
-**Coverage:** S7E46–S7E49 (in progress)
+**Coverage:** S7E46–S7E51 (in progress)
 **Volume title:** **The Days We Choose** (provisional)
-**Chapter files:** 8
+**Chapter files:** 12
 
 Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. Shared life, practical coordination, household choices and the changing world unfold before the later birthday and Monarch trial. Chapter and volume length follow the scenes, not a fixed quota. Drafts await creator review.
 
@@ -23,3 +23,7 @@ Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. 
 | 6 | S7E48 | Let It Sit | `THE_ARRIVALS_S7E48_LN_CHAPTER_02_LET_IT_SIT_v0.1.md` |
 | 7 | S7E49 | Do It Twice | `THE_ARRIVALS_S7E49_LN_CHAPTER_01_DO_IT_TWICE_v0.1.md` |
 | 8 | S7E49 | Her Side of the Ground | `THE_ARRIVALS_S7E49_LN_CHAPTER_02_HER_SIDE_OF_THE_GROUND_v0.1.md` |
+| 9 | S7E50 | By the Road | `THE_ARRIVALS_S7E50_LN_CHAPTER_01_BY_THE_ROAD_v0.1.md` |
+| 10 | S7E50 | What the Letter Can Say | `THE_ARRIVALS_S7E50_LN_CHAPTER_02_WHAT_THE_LETTER_CAN_SAY_v0.1.md` |
+| 11 | S7E51 | Somewhere We Can Eat | `THE_ARRIVALS_S7E51_LN_CHAPTER_01_SOMEWHERE_WE_CAN_EAT_v0.1.md` |
+| 12 | S7E51 | How Long It Lasts | `THE_ARRIVALS_S7E51_LN_CHAPTER_02_HOW_LONG_IT_LASTS_v0.1.md` |

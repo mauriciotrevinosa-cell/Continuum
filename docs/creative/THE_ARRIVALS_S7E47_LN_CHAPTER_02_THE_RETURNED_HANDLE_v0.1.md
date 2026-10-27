@@ -59,11 +59,11 @@ Jinshi brought the note close enough to compare with what Tamsin had described.
 
 "Twisting," he said. ᴶ
 
-"We showed her cutting straight," Mau said. ᴹ
+"The late turn," Mau said. ᴹ
 
-"She still needs to hold it," Wakana said. ᵂ
+Wakana turned the grip to show him where the fastening had worn.
 
-He took out the second drawing they had used while making the pair. Mau remembered the discussion about keeping the handle comfortable. He remembered testing the edge. He could not remember anyone trying the exact sideways load which had left the bright line beneath the binding.
+He took out the second drawing they had used while making the pair. Mau remembered how awkward the first grip had been. They had changed and tested it before Tamsin ever bought the tool. She had used this one for months since. The bright line beneath the binding belonged to work the successful first cuts had not been enough to predict.
 
 Hollis sat down.
 

@@ -2343,3 +2343,7 @@ El creador autoriza prosa con «va arrancate» después del esqueleto publicado.
 ### S7 — V40#5–8, 2026-10-27
 
 V40#5–8 prolongan las causas del primer bloque: diagnóstico antes de producir ocho, decisión de capacidad con voces domésticas y taller, cocina compartida que libera a Momo, práctica concreta de Gojo sin100% declarado y refinamiento del Garden propio de Yuka. Mau toma pausa ante recuerdo y acepta compañía; no revela todavía hipótesis vessel ni fuerza archivoA a Ciel. Sin niveles/puntos/recursos/domados/edificios nuevos. Fechas de redacción pasan a27octubre manteniendo el registro vivo fechado26 como documento continuo. Todos los capítulos previos quedan íntegros.
+
+### S7 — V40#9–12, 2026-10-27
+
+V40#9–12 continúan hasta Day831 con outing pactado y coberturaRimuru, Tamsin prueba/acepta su cutter, dos consultas pequeñas condicionadas y carta local aún pendiente. No8ventas ni pazmundial. Mau/Yuka añaden un recuerdoB al mapa y hablan de privacidad/acompañamiento sin mudarse. Ciencia como trabajo de Senku/Byakuya/Shoko/Rimuru/Mau;1small autorizado pasa249→248, se separa agotado, no redeléctrica gratis. Cotejo de fabricación previa requiere precisión puntual en V40#4: ya habían ajustado/testado agarre en S7E16/17; desgaste de meses explica la devolución. Se conserva todo capítulo preV40; no cambia poder, legión, residente o fechaMonarch. Continuación abierta, no cierre de volumen por12capítulos.

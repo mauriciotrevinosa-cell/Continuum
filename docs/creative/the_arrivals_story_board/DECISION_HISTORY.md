@@ -2351,3 +2351,7 @@ V40#9–12 continúan hasta Day831 con outing pactado y coberturaRimuru, Tamsin 
 ### S7 — V40#13–16, 2026-10-27
 
 V40#13–16 continúan sin finalizar por cuota. Causas comerciales se completan hasta acuerdo de2primeraspiezas sin ingreso anticipado; carta limitada se recibe y pruebas futuras. Reportes exteriores pendientes quedan explícitos. Preparación845/pelea/loot/regreso separados según necesidad de las escenas.13criaturas de gate extraídas comoordinarias,393legiónactual;Mau116/107retenidos/Int440;285small/4pylon/6boss,spentlámpara permanecefuera. Frieren/Fern/Stark/Yuka/Mau contribuyen con kit demostrado y alternanciaCT, ninguna llave nueva ni catástrofe. FrierenB amiga/MumOri no romance importado, vínculoUmaru/Taihei/Mau presente. Todos los capítulos anteriores intactos; V40 sigue abierto y se deja continuación precisa, no se declara temporada concluida.
+
+### S7 — V40#17–20, 2026-10-27
+
+El creador dice «va tu termina». Se continúa V40 hacia cierre natural.17–20 cierran el ciclo de2herramientas con fabricación/prueba/entrega/pago y primera aplicación local de carta; no ocho ventas o inmunidad mundial. Yuta/Mau recuperan práctica/amistad, se acuerdan límites de scouts sin vigilancia íntima; Coco/madre/Qifrey/Richeh tienen escena propia breve. Reportes exteriores se actualizan según procedencia. Poderes/inventario de gate intactos. Se continúa sin cerrar tras este push.

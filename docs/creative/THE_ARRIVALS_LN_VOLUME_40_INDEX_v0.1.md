@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 40
 **Season:** 7
-**Coverage:** S7E46–S7E53 (in progress)
+**Coverage:** S7E46–S7E55 (in progress)
 **Volume title:** **The Days We Choose** (provisional)
-**Chapter files:** 16
+**Chapter files:** 20
 
 Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. Shared life, practical coordination, household choices and the changing world unfold before the later birthday and Monarch trial. Chapter and volume length follow the scenes, not a fixed quota. Drafts await creator review.
 
@@ -31,3 +31,7 @@ Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. 
 | 14 | S7E52 | What Frieren Packed | `THE_ARRIVALS_S7E52_LN_CHAPTER_02_WHAT_FRIEREN_PACKED_v0.1.md` |
 | 15 | S7E53 | Beneath the Broken Arch | `THE_ARRIVALS_S7E53_LN_CHAPTER_01_BENEATH_THE_BROKEN_ARCH_v0.1.md` |
 | 16 | S7E53 | What Came Home | `THE_ARRIVALS_S7E53_LN_CHAPTER_02_WHAT_CAME_HOME_v0.1.md` |
+| 17 | S7E54 | The Hand He Was Watching | `THE_ARRIVALS_S7E54_LN_CHAPTER_01_THE_HAND_HE_WAS_WATCHING_v0.1.md` |
+| 18 | S7E54 | The Light She Drew | `THE_ARRIVALS_S7E54_LN_CHAPTER_02_THE_LIGHT_SHE_DREW_v0.1.md` |
+| 19 | S7E55 | The First Two | `THE_ARRIVALS_S7E55_LN_CHAPTER_01_THE_FIRST_TWO_v0.1.md` |
+| 20 | S7E55 | The Names at the Post | `THE_ARRIVALS_S7E55_LN_CHAPTER_02_THE_NAMES_AT_THE_POST_v0.1.md` |

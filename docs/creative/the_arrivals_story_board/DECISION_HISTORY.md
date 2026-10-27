@@ -2339,3 +2339,7 @@ La casa recibe la amenaza oída antes del futuro arco del anillo. Protección de
 ### S7 — V40#1–4, 2026-10-26
 
 El creador autoriza prosa con «va arrancate» después del esqueleto publicado. V40 abre desde Day809, sin reescribir V39 ni convertir el mapa en hechos. Se producen cuatro escenas completas hasta Day812: pareja/regalo autónomo, coordinación con errores y corrección, Bocchi y banda propios, devolución de cutter con examen antes de venta. Los 1348 capítulos anteriores quedan íntegros; sigue trabajo sin cuotas por mini arco, fechas o cierre de temporada. No cambios de ingeniería ni fuente/Vault. Consulta comercial de ocho no equivale a pedido confirmado; inventarios y poderes no aumentaron. Registro vivo V40 conserva consecuencias y pendientes.
+
+### S7 — V40#5–8, 2026-10-27
+
+V40#5–8 prolongan las causas del primer bloque: diagnóstico antes de producir ocho, decisión de capacidad con voces domésticas y taller, cocina compartida que libera a Momo, práctica concreta de Gojo sin100% declarado y refinamiento del Garden propio de Yuka. Mau toma pausa ante recuerdo y acepta compañía; no revela todavía hipótesis vessel ni fuerza archivoA a Ciel. Sin niveles/puntos/recursos/domados/edificios nuevos. Fechas de redacción pasan a27octubre manteniendo el registro vivo fechado26 como documento continuo. Todos los capítulos previos quedan íntegros.

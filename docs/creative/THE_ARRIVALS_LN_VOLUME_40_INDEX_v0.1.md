@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 40
 **Season:** 7
-**Coverage:** S7E46–S7E47 (in progress)
+**Coverage:** S7E46–S7E49 (in progress)
 **Volume title:** **The Days We Choose** (provisional)
-**Chapter files:** 4
+**Chapter files:** 8
 
 Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. Shared life, practical coordination, household choices and the changing world unfold before the later birthday and Monarch trial. Chapter and volume length follow the scenes, not a fixed quota. Drafts await creator review.
 
@@ -19,3 +19,7 @@ Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. 
 | 2 | S7E46 | Where You Put It | `THE_ARRIVALS_S7E46_LN_CHAPTER_02_WHERE_YOU_PUT_IT_v0.1.md` |
 | 3 | S7E47 | The Difficult Part | `THE_ARRIVALS_S7E47_LN_CHAPTER_01_THE_DIFFICULT_PART_v0.1.md` |
 | 4 | S7E47 | The Returned Handle | `THE_ARRIVALS_S7E47_LN_CHAPTER_02_THE_RETURNED_HANDLE_v0.1.md` |
+| 5 | S7E48 | Before We Promise | `THE_ARRIVALS_S7E48_LN_CHAPTER_01_BEFORE_WE_PROMISE_v0.1.md` |
+| 6 | S7E48 | Let It Sit | `THE_ARRIVALS_S7E48_LN_CHAPTER_02_LET_IT_SIT_v0.1.md` |
+| 7 | S7E49 | Do It Twice | `THE_ARRIVALS_S7E49_LN_CHAPTER_01_DO_IT_TWICE_v0.1.md` |
+| 8 | S7E49 | Her Side of the Ground | `THE_ARRIVALS_S7E49_LN_CHAPTER_02_HER_SIDE_OF_THE_GROUND_v0.1.md` |

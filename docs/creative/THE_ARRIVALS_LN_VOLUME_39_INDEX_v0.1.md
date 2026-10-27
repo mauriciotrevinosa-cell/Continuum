@@ -3,7 +3,7 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 39
 **Season:** 7
-**Coverage:** S7E36–S7E45 (volume complete; further S7 production awaits creator direction)
+**Coverage:** S7E36–S7E45 (volume complete; S7 continues in Volume 40)
 **Volume title:** **A Place in Tomorrow** (provisional)
 **Chapter files:** 20
 
@@ -12,6 +12,8 @@ Volume 39 closes at Chapter 20, after Yuka's nineteenth birthday and the couple'
 [Previous volume](THE_ARRIVALS_LN_VOLUME_38_INDEX_v0.1.md) · [V38 exit state](the_arrivals_story_board/S7_V38_CLOSE_AND_V39_ENTRY_2026-10-26.md) · [Current production state](the_arrivals_story_board/S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md).
 
 [Production boundary and pending Mau birthday plan](the_arrivals_story_board/S7_YUKA19_COMPLETE_AND_MAU_BIRTHDAY_REVIEW_PARKING_2026-10-26.md).
+
+[Continue in Volume 40](THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md). The creator has now authorized continuation after reviewing the developed scene skeleton; the earlier Day808 pause below is historical.
 
 ## Reading order
 

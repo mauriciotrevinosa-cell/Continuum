@@ -1,5 +1,7 @@
 # S7 — Del año compartido a Meet the Monarch: esqueleto de escenas
 
+> **Continuación autorizada y activa — V40#1–4, 2026-10-26:** Primeros cuatro capítulos: día después del aniversario, práctica compartida con Yuta, Bocchi/música y herramienta devuelta que obliga a probar antes de aceptar más trabajo. [Índice V40](../THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME40_PRODUCTION_STATE_2026-10-26.md). El creador dijo «va arrancate» tras revisar el esqueleto; los avisos de parada en Day808 son históricos. S7 continúa, sin cuotas por mini arco ni aprobación automática.
+
 **Fecha:** 2026-10-26. **Estado:** desarrollo de planificación autorizado por «va armalo». No son capítulos publicados, hechos ya ocurridos ni cierre automático de S7. La prosa sigue en **V39#20 / S7E45CH02 / Day808, noche**. Este documento desarrolla la [propuesta íntegra del creador](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md) y la [integración previa](S7_MAU_BIRTHDAY_MONARCH_TRIAL_INTEGRATION_2026-10-26.md); conserva la propuesta íntegra sin editarla.
 
 **Decisión expresa ya cerrada:** Ashborn real, extraído antes de retirarse al descanso eterno; huésped voluntario. Las soluciones nuevas de escenas, mecánica y reparto que siguen son el diseño de trabajo para ejecutar esa dirección. Las incógnitas señaladas al final no se convierten en canon por estar en una tabla.

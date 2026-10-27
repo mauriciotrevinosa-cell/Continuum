@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Ejecución continua del esqueleto — V41#1–12, 2026-10-27:** La casa conoce el miedo; Mau acepta esperar, el Arquitecto cambia reglas y la decisión de entrar ocurre después de discutir alternativas. Ya comenzó el combate corporal. [Índice](../THE_ARRIVALS_LN_VOLUME_41_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME41_PRODUCTION_STATE_2026-10-27.md). La instrucción del creador es completar el arco hablado, no parar por cada volumen o push.
+> **Ejecución continua del esqueleto — V41#1–16, 2026-10-27:** Assessment terminado, Arise legítimo tras liberar campo y encuentro completo con Ashborn, que elige ser huésped. Continúa el regreso y sus consecuencias. [Índice](../THE_ARRIVALS_LN_VOLUME_41_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME41_PRODUCTION_STATE_2026-10-27.md). La instrucción del creador es completar el arco hablado, no parar por cada volumen o push.
 
 > **Continuación autorizada y activa — V40#1–32, 2026-10-27:** V40 completo como borrador en32capítulos/Day891: refugio construido, probado y elegido, con la casa y la pareja viviendo después. S7 continúa y el cierre no adelanta cumpleaños/Monarch. [Índice V40](../THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME40_PRODUCTION_STATE_2026-10-26.md). El creador dijo «va arrancate» tras revisar el esqueleto; los avisos de parada en Day808 son históricos. S7 continúa, sin cuotas por mini arco ni aprobación automática.
 

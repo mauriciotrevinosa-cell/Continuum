@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 41
 **Season:** 7
-**Coverage:** S7E62–S7E67 (in progress)
+**Coverage:** S7E62–S7E69 (in progress)
 **Volume title:** **The Life He Chose** (provisional)
-**Chapter files:** 12
+**Chapter files:** 16
 
 Continuation of the approved scene skeleton through the birthday, Monarch trial, return and its immediate aftermath. A chapter batch or volume boundary is not a new stop for creator permission. Drafts remain subject to review.
 
@@ -27,3 +27,7 @@ Continuation of the approved scene skeleton through the birthday, Monarch trial,
 | 10 | S7E66 | The Answer to No | `THE_ARRIVALS_S7E66_LN_CHAPTER_02_THE_ANSWER_TO_NO_v0.1.md` |
 | 11 | S7E67 | What I Can Promise | `THE_ARRIVALS_S7E67_LN_CHAPTER_01_WHAT_I_CAN_PROMISE_v0.1.md` |
 | 12 | S7E67 | The Room Prepared for Him | `THE_ARRIVALS_S7E67_LN_CHAPTER_02_THE_ROOM_PREPARED_FOR_HIM_v0.1.md` |
+| 13 | S7E68 | What Stone Could Hold | `THE_ARRIVALS_S7E68_LN_CHAPTER_01_WHAT_STONE_COULD_HOLD_v0.1.md` |
+| 14 | S7E68 | Arise | `THE_ARRIVALS_S7E68_LN_CHAPTER_02_ARISE_v0.1.md` |
+| 15 | S7E69 | What Do You Want | `THE_ARRIVALS_S7E69_LN_CHAPTER_01_WHAT_DO_YOU_WANT_v0.1.md` |
+| 16 | S7E69 | An Answer of His Own | `THE_ARRIVALS_S7E69_LN_CHAPTER_02_AN_ANSWER_OF_HIS_OWN_v0.1.md` |

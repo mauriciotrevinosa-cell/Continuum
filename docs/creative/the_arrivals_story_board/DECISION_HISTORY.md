@@ -2379,3 +2379,7 @@ V41#5–8 preservan celebración como día vivido y matrimonio como deseo real, 
 ### S7 — V41#9–12, ejecución continua, 2026-10-27
 
 V41#9–12 preservan opciónreal de quedarse antes de coacción, scope local de cierres y peticiónobservable en lugar de omnisciencia. Campo antiactivos anunciado/rechazo microtest, cuerpos permanentes no nerfeados.17constructos conectados y primero derrotado. Ciel local y DIO fuera, no huésped escondido. No inventario/puntos/legión nuevos; se continúa el desenlace autorizado.
+
+### S7 — V41#13–16, ejecución continua, 2026-10-27
+
+V41#13–16 desarrollan combate con funciones y daño proporcionados al cuerpoactual, sinCTbypass o nerf de stats;17constructos levantadosdespués de finfase. AshbornrealantesRest eligequietud/condiciones recíprocas, regalaseparado no armycompleto/posesión.1014total(16named997ordinary1gift), huéspedaparte. Registro autorizado noadminhostil. El lector y casa aún no reciben cierre hasta regreso/after; se sigue sin pedir aprobación.

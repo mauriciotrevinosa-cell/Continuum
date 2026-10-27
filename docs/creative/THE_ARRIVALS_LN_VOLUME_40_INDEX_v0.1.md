@@ -15,6 +15,8 @@ Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. 
 
 [Exit state and next-volume continuity](the_arrivals_story_board/S7_V40_CLOSE_AND_V41_ENTRY_2026-10-27.md).
 
+[Continue in Volume 41](THE_ARRIVALS_LN_VOLUME_41_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

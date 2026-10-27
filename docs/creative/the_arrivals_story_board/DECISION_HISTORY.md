@@ -2367,3 +2367,7 @@ V40#25–28 ejecutan llegada de la mismaDIOvulnerable, petición del segundo fav
 ### S7 — V40#29–32, 2026-10-27
 
 V40#29–32 completan el refugio con pruebas reales, alcance informado, consentimiento de entrada/salida y vida posterior. Segunda petición DIO cumplida sin nuevoTrial/precio; huésped no alma/corazón/técnica. Retorno juntoMau, no teleportremoto; soporte observado/privacidad y viajes futuros acordados, sin ocultar huésped para burlar Operator only. Protección fija/vida intacta. Cierre natural V40#32/Day891 como borrador pendiente revisión, no S7 completa ni V41 creado.16capítulos nuevos17–32 en este tramo. Registro de salida conserva todos los recursos/vínculos/pendientes y fuentes por cotejar antes del próximo arco. Sin retocar capítulos previos o ingeniería.
+
+### S7 — V41#1–4, ejecución continua, 2026-10-27
+
+La instrucción directa del creador corrige las paradas indebidas por volumen. V41#1–4 completan progresión y preparación con hechos/fuentes de cifras, calendario local sin ordinal inventado, Gojo kitrestaurado a extracción y MauDA/RCTfresco/lectura con límites.996legión/126/57retenidos/Int460/603small4pylon12boss. Grupo originalformado y markerantesdechantaje;DIOnoocultapasajera. Se sigue sin pedir nuevoverde hasta completar cumpleaños/Monarch/regreso y aftermath señalado.

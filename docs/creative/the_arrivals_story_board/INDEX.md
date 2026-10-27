@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Esqueleto desarrollado tras «va armalo» — 2026-10-26:** [Mapa completo de escenas, meses pendientes, cumpleaños, Trial y regreso](S7_MAU_BIRTHDAY_MONARCH_TRIAL_SCENE_SKELETON_2026-10-26.md). Incluye conversación con Ashborn, reglas propuestas y consecuencias; estimación flexible de 43–64 capítulos pendientes, de los cuales unos 16–23 corresponden al arco concentrado de cumpleaños–regreso. No se han redactado nuevos capítulos: la salida publicada sigue en V39#20 / Day808. Los avisos inferiores de espera de esa decisión y de Ashborn sin definir son históricos; este checkpoint desarrolla planificación, no presenta sucesos futuros como ya ocurridos.
+
 > **Nueva planificación recibida — 2026-10-26:** cumpleaños deMau, reunión y cambio coercitivo de reglas hacia el Trial delArquitecto. **Ashborn real antes deldescanso, huésped voluntario**, porrespuesta directa delcreador; sustituye la antigua duda sobre sunaturaleza. [Mensaje íntegro](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md) · [Integración y conversación propuesta](S7_MAU_BIRTHDAY_MONARCH_TRIAL_INTEGRATION_2026-10-26.md). No hayprosa nueva después deV39#20/Day808 ni cambia suestado de salida.
 
 > **ALCANCE CUMPLIDO — PROSA DETENIDA:** V39#20/Day808 noche, 19 deYuka y primeraniversario completos. No escribir809/V40/cumpleMau/Monarch hasta decisión delcreador. [Parking yplanporrevisar](S7_YUKA19_COMPLETE_AND_MAU_BIRTHDAY_REVIEW_PARKING_2026-10-26.md). S7 noestácerrada; esta parada sífue pedida.

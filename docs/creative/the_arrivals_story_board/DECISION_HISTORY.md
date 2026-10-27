@@ -2322,3 +2322,16 @@ V39cierra20/Day808noche, cumpleaños19/aniversario hechos. No seasoncomplete; nu
 Respuesta directa delcreadorresuelveantigua incógnita: **Ashborn real antesdel descanso; huésped voluntario**. Copia-sombra separada/regalo no sualma esclavizada ni todo ejército original. No decidir que una supuesta posesión sea verdad porque elArquitecto lainfiere. MiedoMau y palabrassonpreviosal encuentro;bloqueo/reglas/secuencia nuevos debenocurrir enescena.
 
 Este checkpoint guarda planificación y suspropuestas de mecanismos, no capítulos nuevos. V39#20/Day808 continúa como salida deproducción y sus1348archivos permanecen íntegros. Coacciónnoborra cultivos/comercio/puntospermanentes; hacer distinguible lo sabido de lo inferido. Elsecretoromántico futuro puede ser elanillo, noocultar alacasa una amenaza contra susvidas.
+
+
+### S7 — desarrollo del esqueleto tras «va armalo», 2026-10-26
+
+[Esqueleto completo](S7_MAU_BIRTHDAY_MONARCH_TRIAL_SCENE_SKELETON_2026-10-26.md). Se desarrolla el arco aprobado como planificación, sin alterar la propuesta íntegra del creador ni los 1348 capítulos existentes. La prosa permanece en V39#20/Day808. No se crearon V40 ni entradas de lector vacías.
+
+El mapa conserva los meses entre cumpleaños, progresión comprobada y relaciones domésticas, con 43–64 capítulos orientativos pendientes; aproximadamente 16–23 para cumpleaños–primer regreso, sin cuota por mini arco. Fecha anual elegida de Mau y contador todavía requieren anclaje antes de metadatos absolutos. Grupo propuesto y mecanismos nuevos están marcados como diseño de trabajo, no decisiones retroactivas del creador.
+
+Secuencia central desarrollada: cumpleaños vivido, bendición con Yuta/Maki/Mai, Maki vuelve de noche, reunión y palabras concretas, Mau acepta no entrar y participa de una alternativa real. La posposición observable dispara la intervención del Arquitecto sobre una red local identificada. No hay hambre instantánea, borrado de recursos físicos/puntos ni revocación casual del regalo de Yuka. La decisión posterior responde a coacción y admite alternativas, no a que una tienda valga más que Mau.
+
+Combate corporal con físico permanente intacto; restricciones locales por fase que deben cotejarse con el kit final, Arise tras liberación y conteo antes de registrar sombras. Ciel observa localmente y no retransmite hacia fuera mientras el canal no atraviesa la instancia. Ashborn real/huésped voluntario conversa sobre su deseo de descanso; copia distinta y registro autorizado, no ejército completo, reemplazo de Mau o destino de muerte impuesto.
+
+La casa recibe la amenaza oída antes del futuro arco del anillo. Protección de DIO intacta, regreso de Mau autorizado y rescate con desaceleración. Heridas proporcionadas a esta experiencia, revisión de Shoko, despertar con Yuka y frases del creador. Despedida de la boda del Trial y propuesta siguen como arco posterior por desarrollar, sin forzar romance actual con Frieren B.

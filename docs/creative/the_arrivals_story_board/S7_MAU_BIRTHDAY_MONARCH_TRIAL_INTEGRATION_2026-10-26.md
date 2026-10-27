@@ -1,5 +1,7 @@
 # S7 — Integración del cumpleaños de Mau y Meet the Monarch
 
+> **Esqueleto desarrollado tras «va armalo» — 2026-10-26:** [Mapa completo de escenas, meses pendientes, cumpleaños, Trial y regreso](S7_MAU_BIRTHDAY_MONARCH_TRIAL_SCENE_SKELETON_2026-10-26.md). Incluye conversación con Ashborn, reglas propuestas y consecuencias; estimación flexible de 43–64 capítulos pendientes, de los cuales unos 16–23 corresponden al arco concentrado de cumpleaños–regreso. No se han redactado nuevos capítulos: la salida publicada sigue en V39#20 / Day808. Los avisos inferiores de espera de esa decisión y de Ashborn sin definir son históricos; este checkpoint desarrolla planificación, no presenta sucesos futuros como ya ocurridos.
+
 **Fecha:** 2026-10-26. **Estado:** esqueleto en desarrollo después de V39#20. [Mensaje íntegro y respuesta sobre Ashborn](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md). No se ha escrito prosa posterior a Day808 ni se ha construido V40. La propuesta no elimina los meses, relaciones y avances pendientes entre los cumpleaños de Yuka y Mau.
 
 La nueva decisión expresa es **Ashborn real, extraído antes del descanso eterno; huésped voluntario**. Esto sustituye la antigua incógnita de su naturaleza. Los demás ajustes indicados como recomendaciones siguen siendo construcción del esqueleto, no hechos pasados o reglas ya publicadas.

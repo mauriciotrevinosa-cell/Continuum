@@ -36,34 +36,46 @@
 | 26 | S7E58 CH02 | Day882tarde–noche | Shoko trata cuerpo vulnerable, familia recibe;protección fija ligada a vida,sin bypassespacial.Refugio es segundo favor,descanso físico antes de respuestas,no cuarto interioryahecho. |
 | 27 | S7E59 CH01 | Day883 | DIO cuenta llamada forzada externa y un Ruler atacante que llamó jailer, sin omnisciencia/facción total. Casa pregunta protección/consentimiento/estudio;Mau ofrece construir y probar refugio sin intercambio de memorias/autoridad. |
 | 28 | S7E59 CH02 | Day884 | Té con7brujas/Prideadulta,nopasadosellado;Mauelige ayudar.Ciel/Noise planean estancia aparte de acceso desconocido,Yuka tiempo propio aún presente. |
+| 29 | S7E60 CH01 | Days887–888 | Refugio acotado construido/testeado vacío/objetos/aire/avisos; Rimuru entra/retorna voluntario y con Mau dormido, sin acceso desconocido/tercerCiel/teleportremoto. DIO todavía no instalada. |
+| 30 | S7E60 CH02 | Day889 | DIO ve/usa salida, conoce privacidad y límites de viaje y elige cuarto; segunda petición cumplida como refugio, sin absorberpersona/autoridad/tercercorazón/Trial. |
+| 31 | S7E61 CH01 | Day890 | DIO sale sola, Shoko revisa, Ori presta blanket con MumFrieren; preguntas prácticas no persecuciónimprudente. Mau conserva derecho a sentir reservas, casa vive. |
+| 32 | S7E61 CH02 | Day891tarde–noche | Mapa/rincón, relaciónMauYuka, familia y cena breve con DIO que vuelve por elección. Cierre natural de V40, no finS7/compromiso/Monarch. |
 
 ## Estado actual
 
-**Salida: V40#28 / Day884 por la noche.** DIO ya llegó y pidió refugio; la estancia interior está en preparación, no terminada. V40 continúa.
+**V40 completo como borrador de producción: #32 / S7E61CH02 / Day891 por la noche.** S7 permanece abierta. El creador pidió «va tu termina» después de #16; se añadieron17–32 y se llevó el volumen hasta el refugio elegido y la casa viviendo después de él. No se creó V41 ni se escribió el cumpleaños/Meet the Monarch por resumen.
 
-### Llegada de DIO y seguridad
+[Salida completa y entrada del siguiente volumen](S7_V40_CLOSE_AND_V41_ENTRY_2026-10-27.md). Este enlace desarrolla todos los límites, relaciones, objetos y pendientes; los avisos anteriores de V40 abierto son checkpoints históricos.
 
-En882 un scout existente ve a una mujer herida junto al agua, fuera del amparo. Ella pide que alguien venga; el scout observa sin raptarla. Mau/Anko/Mikasa responden, Rimuru queda en casa. Mau reconoce voz y referencia personal a cookies. DIO confirma que es ella entera en un cuerpo vulnerable, no avatar descartable. Ayuda física consentida; no shadow destruida/combate ganado/XP. No ataque cruzó el perímetro, ni la protección se adelantó para cubrir el rescate.
+### Refugio ocurrido y segunda petición cumplida
 
-Shoko recibe y atiende de forma limitada lo que puede examinar; Ciel sólo observa por sus hosts. DIO se queda temporalmente en área médica con privacidad, sin borrar un cuarto de otro residente. Al día siguiente explica lo que presenció: alguien usó una llamada forzada anclada a un sitio y un Ruler que ella vio intentó matarla. Rompió parte del agarre de esa llamada y escapó hacia el asentamiento. No sabe todos los que participaron o cómo se repite el procedimiento completo. Lo único que atribuye al atacante de sus palabras es que la llamó jailer. No se fijaron nombre, facción entera o motivaciones omniscientes, ni vínculo de Makima/Arquitecto a ese ataque.
+DIO es la misma Diosa en cuerpo vulnerable, rescatada fuera del amparo882 tras pedir ayuda; Shoko la atiende, casa conversa883. Cuenta una llamada forzada fija y un Ruler atacante que vio; no sabe el procedimiento completo ni todo participante. No se culpa a todos los Rulers, no se identifica Makima/Arquitecto como responsables por notas de autor.
 
-### Protección y favor
+Days887–888 se construye/prueba una estancia delimitada con Noise/Ciel desde estructura conocida. Acceso desconocido sigue cerrado. Objetos, aire, avisos, retorno voluntario y prueba mientras Mau duerme se ven antes de la entrada. Rimuru participa por elección, sin exigencia de que su cuerpo humano pruebe por sí solo toda fisiología; Ciel observa el soporte acordado.
 
-DIO vive: el amparo sigue fijo al terreno ya marcado. No depende de estar despierta, estar de pie o tener el cuerpo en la frontera. Fuera no protege su piel ni cubre caminos; dentro no hay excepción a intrusión hostil por corte espacial sofisticado. Su muerte haría caer el amparo. No se la saca para probar esto. Estudio de anchor sólo con permiso y observación no destructiva.
+Day889 DIO recibe las condiciones y elige entrar, primero examina y usa la salida. Es huésped físico completo, no sombra/alma absorbida, poder prestado o tercer corazón. La segunda petición queda cumplida como refugio, sin Trial de Diosa o precio nuevo. Gratitud no borra responsabilidad anterior. Days890–891 vuelve por voluntad propia, recibe cuidado/blanket prestada de Ori, comparte rato de desayuno/cena y regresa a descansar. Su presencia no suspende la vida de la casa.
 
-La segunda petición queda expresamente invocada como **refugio, no nuevo Trial ni precio escondido**. La casa puede desconfiar y ayudar a la vez; DIO no exige perdón o acceso a cuerpo/memorias a cambio de seguridad. Mau quiere ofrecerlo, no sólo cumplir por miedo al contrato. Antes de alojarla construirán/prueban una estancia separada dentro de su estructura conocida con Noise/Ciel. El acceso desconocido permanece cerrado. Aún no hubo entrada de DIO a esa estancia ni prueba con huésped.
+Privacidad de huésped y hosts recíproca; contacto/ayuda y señal básica de bienestar acordados, no pensamientos ni memoria como renta. El retorno abre junto a Mau, no en dirección remota elegida. Construcción con demanda pequeña observada, no coste cero universal o misma operación que recall gratuito de sombras. Antes de salir o entrar en instancia con reglas se pregunta si DIO acompaña o permanece en casa: **no huésped oculto para burlar Operator only** ni transportarla sin permiso. Fuera del rango/entorno probado no se garantizó funcionamiento eterno. Puede quedarse físicamente en la casa protegida.
 
-### Vida intercalada
+### Protección
 
-Mau toma té con las siete brujas en884: Pride adulta, identidad privada sin revelar; Satella/Echidna/Daphne/Minerva/Carmilla/Sekhmet conservadas, sin Typhon. Hablan de elección, límites, garden y cosas propias, no sólo exposición de diosa. Yuka tiene prácticas de Deer y compañía con Mau al trabajar; no se convierte en espectadora borrada. DIO no recibe las palabras vessel que Mau aún guarda.
+Anclada a terreno existente y vida de DIO, no a vigilia/herida/posición de sus botas. Muerte la haría caer. Dormir/descansar no. Fuera no invulnerabilidad de piel ni cúpula móvil. Ningún ataque hostil atraviesa por ser espacial sofisticado; llegada no fue una excepción y límite no se expandió. Estudio sólo observado/consentido, sin desmontar. No se inventa regla por la que asesinarla dentro de Mau sea bypass automático.
 
-### Base actual intacta
+### Estado material y de capacidades
 
-Mau116/107retenidos/Int440.393legión=377ordinarias+16nombradas, Mahoraga aparte.285small/4pylon/6boss; lámpara831 agotada separada. Sin nuevas extracciones/levels/ventas de cristales en este bloque. Dos cutters pagados862, parte ingreso usada en rincón común, material de reemplazo reservado. Seis posteriores siguen posibilidad. Carta3puestos sólo jurisdicciónlocal; segundo reporte indirecto de opening pendiente. Primer scouttrial6soldados retornó; ruta posterior que encuentra DIO usa uno existente, no legión nueva.
+Mau116,107 puntos retenidos,Int440; físico permanente, secuelas/grey salvoYuka intactos, dos Dragon's Wrath y katana. No asignación nueva después de845. Legión377ordinarias+16nombradas=393, Mahoraga aparte; no nuevas unidades/XP por DIO/refugio/ritual nativo.285smallusables/4pylon/6boss, spentlámpara831 fuera de stock, placas keeper sin pruebas separadas de material trabajado. No monedas/familiares nuevos o crystal fuel gratuito por construir cuarto.
 
-Yuka19, **ocho**familias por Deer independiente869; healing nativo limitado probado, no universalRCT o cáncercurado. Limitlessregalo suyo/fuenteMau vigente, Garden previo, Tiger/Maho propios pendientes. Visión gris salvoYuka y secuelas deMau intactas. Sin sexo/embarazo/compromiso/mudanza; Rimuru loft, pareja cuartos separados. OrieshijaFrieren/Mum y conserva compás, Frierenamiga/maestraMau. HumanosB conocen torre/corazón, no exactas palabras/hipótesisvessel. CielBsinarchivoAautomático. CalendarioB/B+1 por cotejar antes de cumpleaños.
+Yuka19,8familias: Dogs pair/Rabbit/Nue/Toad/Elephant/Serpent/Ox/RoundDeer; Tiger/Mahoraga propios siguen pendientes. Curación nativa breve probada en raspón fresco con Shoko, no RCT personal universal/cáncer/lesiones antiguas. Garden previo sin nuevo récord. Limitless pleno/autónomo deYuka sigue con demanda fuenteMau, no permiso por activación o maestría UV/Purple gratis. Gojo no100%declarado; prácticas específicas y cercaníaShoko presentes.
+
+### Vida económica y vínculos
+
+Dos piezas fabricadas/probadas/entregadas/cobradas862; otros6sincontratar. Parte dinero reservada para reemplazo; parte compró materiales ordinarios de rincón común875. No ala exterior,400residentes o raíces invadidas. Carta3puestos probada localmente una vez con demoras, no pase mundial. Primer reporte externo: party de vuelta con2heridos y cierre según contacto, no clear de casa. Segundo reporte indirecto pendiente. Sitio que llamó aDIO todavía no localizado, sólo observación segura acordada.
+
+Mau/Yuka amplían OurYear con camino y rincón, beso y mañana compartida al cierre sin prometer resultados imposibles. Cuartos separados/Rimuruloft, sin sexo/embarazo/compromiso/mudanza. Especie/fertilidad/edadbiológica deMau siguen desconocidas. Frieren amiga/maestra/MumOri, compásOri. Frieren puede recordar que ayudar no exige perdonar todo, sin romanceA importado. Yuta/Maki/Mai confianza y relación reparadas, Mai no obligación de combatir. Bocchi/banda, WitchHat/madreCoco,7brujas/Prideadulta, Gojo/Shoko, Taihei/Umaru, Eren/Mikasa, Kaneki/Touka/Ichika y vida doméstica mantienen presencia propia.
+
+La casa conoce torre/corazón y ahora términos expresos del refugio, pero humanosB aún no todas las frases/hipótesisvessel. CielB no archivoA automático. DIO no aprendió secretos de Mau al alojarse. Ashborn real/huésped voluntario sigue futuro; no vive dentro todavía. B/B+1, kit final y equipo deben resolverse antes del cumpleaños/Trial.
 
 
 ## Continuación
 
-Completar construcción/pruebas de estancia con acceso y salida voluntarios, privacidad y soporte limitado de vida, sin terceraentidad/corazón nuevo ni abrir el acceso desconocido. DIO debe elegir entrar después de saber límites; la casa debe poder procesar consecuencias y seguir viviendo. No otorgar portales de regreso a cualquier punto remoto ni esconder huéspedes para violar reglas de futuras instancias. Cerrar V40 por el refugio vivido y relaciones, no por una pantalla o cliffhanger de invasión; otros hilos de S7 quedan listados para después.
+V41 partirá de891 sin reintroducir refugio/pago como pendientes ni asumir todos los proyectos terminados. Usar la salida completa enlazada: progresión individual/revancha con recuperación demostrada, pareja y relaciones, reportes/familias/planos, investigación prudente del sitio y método de Makima sin omnisciencia. Resolver calendario del cumpleaños elegido y contador; preparar el equipo antes de celebración. Antes de Operator only acordar dónde queda DIO. El cumpleaños–Monarch sigue el esqueleto autorizado y necesita sus escenas; no comprimirlo en un epílogo para terminar temporada. V41 aún no producido.

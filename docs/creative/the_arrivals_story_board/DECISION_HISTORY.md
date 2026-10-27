@@ -2363,3 +2363,7 @@ V40#21–24 dan preparación, ritual y recall de Round Deer antes de registrar o
 ### S7 — V40#25–28, 2026-10-27
 
 V40#25–28 ejecutan llegada de la mismaDIOvulnerable, petición del segundo favor y conversación sin nuevoTrial. Procedimiento hostil de llamada observado limitado, un Ruler identificado por ella sin asignar toda facción o Makima, protección absoluta contra intrusión conservada y fija. Separamos rescate/atención/preguntas/preparación. Las siete brujas tienen escena propia y no se lee material sellado. Preparación no equivale a huésped ya instalado. Continúa hasta cerrar el volumen con pruebas/elección/vida posterior.
+
+### S7 — V40#29–32, 2026-10-27
+
+V40#29–32 completan el refugio con pruebas reales, alcance informado, consentimiento de entrada/salida y vida posterior. Segunda petición DIO cumplida sin nuevoTrial/precio; huésped no alma/corazón/técnica. Retorno juntoMau, no teleportremoto; soporte observado/privacidad y viajes futuros acordados, sin ocultar huésped para burlar Operator only. Protección fija/vida intacta. Cierre natural V40#32/Day891 como borrador pendiente revisión, no S7 completa ni V41 creado.16capítulos nuevos17–32 en este tramo. Registro de salida conserva todos los recursos/vínculos/pendientes y fuentes por cotejar antes del próximo arco. Sin retocar capítulos previos o ingeniería.

@@ -3,13 +3,17 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 40
 **Season:** 7
-**Coverage:** S7E46–S7E59 (in progress)
+**Coverage:** S7E46–S7E61 (volume complete; S7 remains in progress)
 **Volume title:** **The Days We Choose** (provisional)
-**Chapter files:** 28
+**Chapter files:** 32
 
 Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. Shared life, practical coordination, household choices and the changing world unfold before the later birthday and Monarch trial. Chapter and volume length follow the scenes, not a fixed quota. Drafts await creator review.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S7_VOLUME40_PRODUCTION_STATE_2026-10-26.md) · [Scene skeleton](the_arrivals_story_board/S7_MAU_BIRTHDAY_MONARCH_TRIAL_SCENE_SKELETON_2026-10-26.md).
+
+**Volume complete as a production draft:** Chapter32 / Day891 night. The refuge chosen and lived, with household life continuing, closes this volume. The later birthday and Monarch sequence remain ahead; no new volume has been silently created.
+
+[Exit state and next-volume continuity](the_arrivals_story_board/S7_V40_CLOSE_AND_V41_ENTRY_2026-10-27.md).
 
 ## Reading order
 
@@ -43,3 +47,7 @@ Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. 
 | 26 | S7E58 | A Body on the Bench | `THE_ARRIVALS_S7E58_LN_CHAPTER_02_A_BODY_ON_THE_BENCH_v0.1.md` |
 | 27 | S7E59 | What Still Holds | `THE_ARRIVALS_S7E59_LN_CHAPTER_01_WHAT_STILL_HOLDS_v0.1.md` |
 | 28 | S7E59 | Tea While It Is Warm | `THE_ARRIVALS_S7E59_LN_CHAPTER_02_TEA_WHILE_IT_IS_WARM_v0.1.md` |
+| 29 | S7E60 | A Door from Both Sides | `THE_ARRIVALS_S7E60_LN_CHAPTER_01_A_DOOR_FROM_BOTH_SIDES_v0.1.md` |
+| 30 | S7E60 | The Room She Chose | `THE_ARRIVALS_S7E60_LN_CHAPTER_02_THE_ROOM_SHE_CHOSE_v0.1.md` |
+| 31 | S7E61 | When She Came Out | `THE_ARRIVALS_S7E61_LN_CHAPTER_01_WHEN_SHE_CAME_OUT_v0.1.md` |
+| 32 | S7E61 | A Place in the Evening | `THE_ARRIVALS_S7E61_LN_CHAPTER_02_A_PLACE_IN_THE_EVENING_v0.1.md` |

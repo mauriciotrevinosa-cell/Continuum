@@ -2391,3 +2391,7 @@ V41#17–20 cumplen caída/Beruyfrasesdelcreador, recursos/legiónintactos, regi
 ### S7 — V41#21–24, ejecución continua, 2026-10-27
 
 V41#21–24 completan el aftermath acordado: fuente de boda verificada, no cuarta línea o noviaNueva, duelo sin borrado y presenteYuka. AnilloplanconMai respeta ausencia de pactoBverificado/no obligaciónluchar; no propuestahecha o síYukaasumido. Familia permite sorpresa porque amenaza ya se informó. Se cierra la ejecución concreta del esqueleto en24nuevoscapítulos con mapa de cumplimiento, no todos los hilos de S7 ni futura boda inventada. Toda prosa previa1380 conservada y se verifica lector antes de reportar final.
+
+### S7 — Revisión autorizada de la revancha «No limits», 2026-10-27
+
+El creador pide disfrute mutuo, acuerdo literal y escalada creativa con inspiración física. V41#2 se amplía a#2–6 y#1 prepara las preguntas/pruebas; antiguos#3–24 pasan a#7–28, con prosa/archivos/URLs conservados. Gojo desarrolla gradientes/lente/campos coordinados/rutaPurple; Ciel indica a Mau integrar su bag antes de copiar otras evoluciones. Dominios, armas y llamadas se usan en escena; límites internos/costes/reparación/privacidad conservados. Nuevo final de volumen#28/B+6, mismo cumpleaños/templo/regreso/aftermath. [Texto íntegro del creador, fuentes científicas y continuidad](S7_GOJO_MAU_NO_LIMITS_REMATCH_REVISION_2026-10-27.md). Entradas superiores conservan su numeración histórica de publicación.

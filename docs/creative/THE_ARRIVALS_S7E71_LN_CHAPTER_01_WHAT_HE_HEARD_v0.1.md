@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 19 — What He Heard
+## Chapter 23 — What He Heard
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 19
+**Reading order:** 23
 **Source episode:** S7E71
 **Continuity state:** B+2 lateafternoon securityconversation, Mau medically allowed bounded sitting. House learns consentguest/copy/privatefragment meaning and partialArchitectthreat before ringsecret. Cielcorroborates onlyownobservation/partialaudio. No certaintyMakimaidentity/alliance/Sukunainvolvement/new prophecy. Shared plansnot confinement, Ashbornprivacymaintained. Inventoryunchanged1014/126/57/Int460/603small4pylon12boss. Familyknowsnoentryactuallyrequiredfood.
 

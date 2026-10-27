@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 24 — What He Was Keeping
+## Chapter 28 — What He Was Keeping
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 24
+**Reading order:** 28
 **Source episode:** S7E73
 **Continuity state:** B+6 evening. Immediate agreed aftermath closes: Yuka told safetytruth and chooses surprise/privacy, no proposedmarriage/consent assumed. Birthday→trial→return→security→weddingmemoryprocessed→ringpreparation all produced, realproposal arc separatelytobeplanned peroriginalcreator. Bodyhealingnotinstantallcured, originalrooms/gray/guests/points/roster unchanged. No newdoom/redgate/S7allthreadsclosed claim.
 

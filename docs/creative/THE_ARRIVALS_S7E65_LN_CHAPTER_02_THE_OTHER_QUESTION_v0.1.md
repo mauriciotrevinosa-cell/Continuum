@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 8 — The Other Question
+## Chapter 12 — The Other Question
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 8
+**Reading order:** 12
 **Source episode:** S7E65
 **Continuity state:** B late night. Maki follows up arrangedconversation, Mau distinguishes true marriage wish from fear of Architect measuring vessel. Identifies katana encounter from A disclosed tower, not intimate alliance/creatorDIOconfusion. CallsYuka/Rimuru for meeting; no detention or full reveal already resolved. No actual possession/prophecy proven.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 17 — Beru, Help
+## Chapter 21 — Beru, Help
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 17
+**Reading order:** 21
 **Source episode:** S7E70
 **Continuity state:** B+1 expulsion/return. Architect detects realAshbornsignature but not privateconsent; falsevesselawakening inference. Mau/Ciel hear fragment of strippingvessel, not entireenemyweb. All17constructshadows/gift/storedgear retained beforefloorportal. Entryvanishes/no notice, normalgate/Shop newoperations restored; no crates/points erased. Large skyreturnfriendlyMau no hostileintrusion/weapon. Beru matchesfall/decelerates rescue, not instantstop. Ciel relay returns localatoutside, no publicnewvoice. Medicalnext, no olddamagecure.
 

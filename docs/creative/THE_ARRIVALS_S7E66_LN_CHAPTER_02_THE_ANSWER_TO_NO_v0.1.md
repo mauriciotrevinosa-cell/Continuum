@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 10 — The Answer to No
+## Chapter 14 — The Answer to No
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 10
+**Reading order:** 14
 **Source episode:** S7E66
 **Continuity state:** B late night→B+1 dawn. Explicit defer/reject participation request observable triggers local network sanctions and revised Operator-only admission. Logs preserve oldterms. Local dungeon access/Shop newtransactions/newcreditsettlement suspended, not stored crystals/money/points/inventory/foreign skill construction/Yuka gift or all worldgates. All people outside beforetest. House builds alternatives, no instantaneous hunger. Architect identity still inferred until confrontation.
 

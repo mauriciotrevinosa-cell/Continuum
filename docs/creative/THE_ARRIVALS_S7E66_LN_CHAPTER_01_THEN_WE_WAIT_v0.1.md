@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 9 — Then We Wait
+## Chapter 13 — Then We Wait
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 9
+**Reading order:** 13
 **Source episode:** S7E66
 **Continuity state:** B late night. Exact Architect words and Mau's interpretation first shared to current humans, no rediscovery of already-known tower/heart. Yuka's hurt/fear heard, Mau sincerely chooses wait and helps alternatives. No actual possession/prophecy confirmed or memory archive transmitted. No new marriage agreement. Gate oldterms stillwait/companions atthisscene.
 

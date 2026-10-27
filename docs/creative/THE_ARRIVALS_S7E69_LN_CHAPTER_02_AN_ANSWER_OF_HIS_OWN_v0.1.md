@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 16 — An Answer of His Own
+## Chapter 20 — An Answer of His Own
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 16
+**Reading order:** 20
 **Source episode:** S7E69
 **Continuity state:** B+1 sameencounter, shortbodytime. Ashborn realvoluntaryguest sees spare testedroom, privacy/no possession/no forcedbattle/exit agreed, enters aftercombat phase as meeting's intendedMonarch, not smuggled companion. Separate voluntary sentinelcopygift, no originalarmy or thirdheart:legion1013+1giftcopy=1014 (16named+997ordinary+1separate unrankedgift). Authorized memoryfragment offered/accepted, not Architect datatrust or immediatefilewatch. Ashbornauthorizedsignature room only, not allblueprints possessed.
 

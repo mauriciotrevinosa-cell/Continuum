@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 23 — Something That Would Stay
+## Chapter 27 — Something That Would Stay
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 23
+**Reading order:** 27
 **Source episode:** S7E73
 **Continuity state:** B+6. Mau asksMai help ringplanning, priorblessingB not repeated as permissionownership. Mai no dutycombat; no unverifiedAConstructionpact imported, new pactwould require explicit scope/cost/test later, ordinary designnow. Marin expertise requested, actualring/proposal/engagement not yet made. Yuka questionsYuta, Maki humor, no dangerconcealed because fullthreatalreadyshared.
 

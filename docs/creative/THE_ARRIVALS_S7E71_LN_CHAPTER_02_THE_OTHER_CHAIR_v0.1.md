@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 20 — The Other Chair
+## Chapter 24 — The Other Chair
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 20
+**Reading order:** 24
 **Source episode:** S7E71
 **Continuity state:** B+3 recovery/homeguests. DIO returns privately toownroom withmutualtiming, Ashbornquietroom2no conscription, sentinelgiftunrankedundemonstrated. Mau freshinjuryimprovingnotallhealed, scarfYuka retained, originalrooms/loft separate. Shared chores/foodhumor, no divinegiftflood or sourceinfo dump. No new coins/resources/power/relationshipreset.
 

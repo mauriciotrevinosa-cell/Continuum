@@ -5,7 +5,7 @@
 **Volume:** 41
 **Reading order:** 1
 **Source episode:** S7E62
-**Continuity state:** Days906/918/938, staged individual recovery checks. Gojo's full extraction-reference kit restored through separate repeated tests inside/outside, not a percentage bestowed on everyone; domain tested alone in cleared room, no human brain experiment. Mau practises Amplification on controlled remnant effects before rematch, own active CT paused; physique permanent. Ciel/Noise prepare fresh-injury RCT route, no old-condition cure or guaranteed BF. DIO remains physical protected house during travel by choice.
+**Continuity state:** Days906/918/938, staged individual recovery checks. Gojo's full extraction-reference kit restored through separate repeated tests inside/outside, not a percentage bestowed on everyone; domain tested alone in cleared room, no human brain experiment. Mau practises Amplification on controlled remnant effects before rematch, own active CT paused; physique permanent. Ciel/Noise prepare fresh-injury RCT route, no old-condition cure or guaranteed BF. DIO remains physical protected house during travel by choice. Added Senku questions on gradients/lensing and phase, fallible Gojo prototypes and empty-basin selection for the revised NoLimits rematch; physics inspires fictional CE mechanics, not probability control.
 
 *When: Day906. Gojo stops the first demonstration himself and tells Senku to leave the failed attempt on the page.*
 
@@ -76,6 +76,76 @@ Senku looked at the full page.
 "Yes. You can stop trying to make it sound unromantic." ᴳ
 
 Shoko took the pencil from him before he could add anything decorative.
+
+* * *
+
+Senku found the first new question on the back of Gojo's completed test sheet.
+
+It was a circle with three arrows aimed into it.
+
+"You keep drawing somewhere to pull," he said. ˢᵉⁿ
+
+Gojo looked up.
+
+"It does make the pulling convenient." ᴳ
+
+Senku took another sheet and put two nearby marks on it.
+
+"And these two points always get the same sort of journey?" ˢᵉⁿ
+
+Mau watched Gojo stop smiling quite so automatically.
+
+* * *
+
+The conversation went from a point to a gradient, then to what happened to the routes crossing it.
+
+A lens did not need to put a new object in front of someone's eyes to change where the light reaching them had travelled. A surface did not have to become a solid wall to make the shortest available route stop being the straight line somebody expected.
+
+Gojo listened with his eyes on the space beyond the page.
+
+"And this?" he asked, tapping the second set of marks. ᴳ
+
+Senku drew two curves.
+
+"For the quantum example, you combine amplitudes. Phase matters. Reinforcement here, cancellation there. That doesn't give you a licence to call anything you want quantum and make it happen." ˢᵉⁿ
+
+"You make inspiration very unpleasant." ᴳ
+
+"I like it to survive the first question." ˢᵉⁿ
+
+* * *
+
+They did not make the diagram perform a technique.
+
+Gojo went back to the empty practice space after dinner. The first attempt to make the two small operations cooperate merely pulled the marker farther than he wanted. The second gave him a narrow place where the resulting force weakened between stronger regions.
+
+He lost it when he moved.
+
+Mau watched the marker settle.
+
+"Was that what you meant?" ᴹ
+
+"Part of it." ᴳ
+
+Gojo looked at the untouched strip between the marks for a long moment before gathering the paper.
+
+"Don't learn the wrong version yet." ᴳ
+
+* * *
+
+Over the following days, he returned to that strip.
+
+Sometimes he came away with a correction. Sometimes he came away laughing at an idea he was not ready to explain. Nothing about the work changed the reference they had already checked: he had recovered what he arrived with. This was what he wanted to discover beyond it.
+
+When Mau asked whether it was ready for the rematch, Gojo looked toward the empty basin they had chosen inside the ordinary dungeon.
+
+Its ruined terraces stood beneath a high, empty dungeon sky. They had checked the approaches, the unoccupied ground and the return corridor; there was room to leave the spectators behind if the afternoon stopped resembling a lesson.
+
+"I'm hoping you'll be inconvenient," Gojo said. ᴳ
+
+Mau smiled.
+
+"I can do that." ᴹ
 
 * * *
 

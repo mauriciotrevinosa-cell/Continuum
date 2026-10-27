@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 3 — The Points on Her Page
+## Chapter 7 — The Points on Her Page
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 3
+**Reading order:** 7
 **Source episode:** S7E63
 **Continuity state:** Day970. Six repeated supervised dungeon brigade clears902/914/929/943/958/970, troop gains97/121/108/117/96/64=603ordinary;393→996=980ordinary+16named, Mahoapart. Acrossruns+10levels/+50heldpoints:116→126;107→157. Loot+318small/+6boss→603small/4pylon/12boss. Completed finite channel mapping, not all-energy identity, permits deliberate100point allocation20eachStrength/Dexterity/Perception/Vitality/Intelligence, held57,Int460. Permanent base change, no toggle or instant technique mastery.
 

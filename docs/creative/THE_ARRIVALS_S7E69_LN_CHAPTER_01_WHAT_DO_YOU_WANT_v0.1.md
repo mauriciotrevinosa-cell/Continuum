@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 15 — What Do You Want
+## Chapter 19 — What Do You Want
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 15
+**Reading order:** 19
 **Source episode:** S7E69
 **Continuity state:** B+1 encounter opened byArchitect afterassessment. Ashbornreal frombeforeRest, successor choicealreadyhis, no originalarmy duplicated or Jinwoo robbed. Mau furiousfearofpossession, AshborndeniesconsenttoArchitectplan. Noiseanalysisrecognized/stopped/limitedwithpermission, no bodymindswap. Narrativeadaptation percreator, not latechapterquotation. Ciel local, oldmemoryarchiveprivate.
 

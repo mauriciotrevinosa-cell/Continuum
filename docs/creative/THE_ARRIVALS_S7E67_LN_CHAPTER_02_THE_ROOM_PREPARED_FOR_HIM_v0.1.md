@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 12 — The Room Prepared for Him
+## Chapter 16 — The Room Prepared for Him
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 12
+**Reading order:** 16
 **Source episode:** S7E67
 **Continuity state:** B+1 temple entry. Local prepared admission/containment field intercepts new active outputs (including RCT/DA), not erase physique/stats/hearts/internalthought/entireNoise elsewhere. Sourcebound17linkedstoneconstructs:12wardens/4musicians/centralgreatstatue. No summons/weapons during activeassessment, storeditemsintact. Ciel local, relayRimuru fails; oldYukagift notrevoked. No timelimit/Maupriorstatue death. First hands combat, no extraction/XP yet.
 

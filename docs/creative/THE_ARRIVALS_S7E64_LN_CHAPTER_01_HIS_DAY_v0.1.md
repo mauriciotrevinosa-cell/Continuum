@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 5 — His Day
+## Chapter 9 — His Day
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 5
+**Reading order:** 9
 **Source episode:** S7E64
 **Continuity state:** B, existing chosen birthday morning. Birthday not biological age; household/date retained, no level/coin/armor gift or new power. DIO physicalhome by choice, rooms/relationships retained. Yuka finishing handmade scarf with household help, not delivered until7. Original gate terms still wait/companions, opening tomorrow.
 

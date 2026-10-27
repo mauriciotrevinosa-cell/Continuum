@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 4 — The Date They Kept
+## Chapter 8 — The Date They Kept
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 4
+**Reading order:** 8
 **Source episode:** S7E63
 **Continuity state:** AfterDay970, eight days before existing chosen birthday B. Local annual calendar mark preserved; no invented global ordinal/birth date. GroupMau/Yuka/Gojo/Yuta planned whileRimuru/Maki/Shoko/Frieren outside. Original companions/wait conditions rechecked; common local admin signature between key and ordinary installation observed before coercion, not proven worldownership. DIO chooses physicalhome for travel, spare bounded unassigned refuge cell prepared/tested from room design, no guest yet. Household/family life continues.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 13 — What Stone Could Hold
+## Chapter 17 — What Stone Could Hold
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 13
+**Reading order:** 17
 **Source episode:** S7E68
 **Continuity state:** B+1 combat/outside. Remaining11wardens defeated, all12down;4musicians+central5anchors remain. Prepared linkedstone capacity not ordinaryrock/retro nerf. Mau uses physicaltactics/observedpatterns, injuries freshhand/side, activeRCT stillrestricted. Architect biased brief creator-approved history, not reproduced late manga pages. Outsidecrew active, Yuka sourcepresence not certain proof ofhealth. No Arise/loot/XP yet.
 

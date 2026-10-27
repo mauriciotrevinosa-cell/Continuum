@@ -1,6 +1,8 @@
 # The Arrivals — Story Board Index
 
-> **Ejecución continua del esqueleto — V41#1–24, 2026-10-27:** Esqueleto ejecutado hasta regreso, informe a la casa, duelo de la boda delTrial y preparación del anillo. V41 termina como borrador en24capítulos; no se detuvo en volumen intermedio. [Índice](../THE_ARRIVALS_LN_VOLUME_41_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME41_PRODUCTION_STATE_2026-10-27.md). La instrucción del creador es completar el arco hablado, no parar por cada volumen o push.
+> **Revancha ampliada por petición del creador — 2026-10-27:** V41#2–6 es el round dos completo, con «No limits» mutuo, evolución espacial de Gojo y armonía del arsenal existente de Mau guiada por Ciel. Misma tarde Day949; antiguos#3–24 pasan a#7–28 sin cambiar archivos/URLs o prosa posterior. El arco sigue completo hasta#28/B+6. [Revisión y reglas vigentes](S7_GOJO_MAU_NO_LIMITS_REMATCH_REVISION_2026-10-27.md). Las numeraciones de checkpoints históricos se leen con ese mapa.
+
+> **Ejecución continua del esqueleto — V41#1–28, 2026-10-27:** Esqueleto ejecutado hasta regreso, informe a la casa, duelo de la boda delTrial y preparación del anillo. V41 termina como borrador en28capítulos; no se detuvo en volumen intermedio. [Índice](../THE_ARRIVALS_LN_VOLUME_41_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME41_PRODUCTION_STATE_2026-10-27.md). La instrucción del creador es completar el arco hablado, no parar por cada volumen o push.
 
 > **Continuación autorizada y activa — V40#1–32, 2026-10-27:** V40 completo como borrador en32capítulos/Day891: refugio construido, probado y elegido, con la casa y la pareja viviendo después. S7 continúa y el cierre no adelanta cumpleaños/Monarch. [Índice V40](../THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME40_PRODUCTION_STATE_2026-10-26.md). El creador dijo «va arrancate» tras revisar el esqueleto; los avisos de parada en Day808 son históricos. S7 continúa, sin cuotas por mini arco ni aprobación automática.
 

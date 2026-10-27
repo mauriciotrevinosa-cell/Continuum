@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 21 — The Word Afterward
+## Chapter 25 — The Word Afterward
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 21
+**Reading order:** 25
 **Source episode:** S7E72
 **Continuity state:** B+3 afternoon, continues weddingquestion20. Trial lastscenario with Frieren from S3E59/LastTwo/S5E44 checked, not new reality/FrierenBwidow. Mau remembers love/grief without choosing romanceFrierenagain, Yuka presentrelationship/notreplacement. Friends sit at home by choice, no gate escape/medicalcure/instanttraumaresolution. Actualproposal notmade.
 

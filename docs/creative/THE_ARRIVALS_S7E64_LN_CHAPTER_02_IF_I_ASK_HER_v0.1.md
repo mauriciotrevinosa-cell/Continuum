@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 6 — If I Ask Her
+## Chapter 10 — If I Ask Her
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 6
+**Reading order:** 10
 **Source episode:** S7E64
 **Continuity state:** B, late morning. Mau thanksYuta/Maki/Mai and states real marriage wish; their blessing not Yuka consent/proposal. Maki detects second motive from manner, schedules nightdiscussion, no new immediate threat known. No ring/Construction pact/engagement or disclosure to Yuka yet. Exact vessel explanation remains tonight.
 

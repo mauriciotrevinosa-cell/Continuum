@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 22 — The Hand He Could Reach
+## Chapter 26 — The Hand He Could Reach
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 22
+**Reading order:** 26
 **Source episode:** S7E72
 **Continuity state:** B+4. Private conscious processing of lastTrialwedding memory, no Noise-createdbride/soul/newguest or changedhistoricoutcome. Ciel waits outsidechosenmemory, no archivepermissionassumed. White/blue remembered, presentgrey notcured. Grief acceptedwithoutinstantcure, currentchoiceYuka, no renewedFrierenBromance. Physicalrecovery continues. Marriageproposal notmade.
 

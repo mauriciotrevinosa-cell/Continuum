@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 14 — Arise
+## Chapter 18 — Arise
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 14
+**Reading order:** 18
 **Source episode:** S7E68
 **Continuity state:** B+1 finalphysicalassessment.4musicians+central destroyed,17anchorsfinished; field explicitlyreleases beforeArise/RCT. Animatedconstructtraces extractable inprojectadaptation, not everyinertrock.17ordinary added:980→997+16named=1013,Mahoapart. No level/XP/itemcrystalreward or BF/oldinjurycure. Freshcuts beginrepair but side/wriststrain persist; transition immediately follows, no long unusedhealinginterval.
 

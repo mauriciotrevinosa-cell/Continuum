@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 11 — What I Can Promise
+## Chapter 15 — What I Can Promise
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 11
+**Reading order:** 15
 **Source episode:** S7E67
 **Continuity state:** B+1 morning. Deliberation compares staying/alternate infrastructure with reaching admin; Mau chooses under coercion, not obligation to buyfood. Yuka reluctantly accepts while still not wanting it, family future recalled, no false guaranteed return vow. DIO physicalhome, bothinnercells empty; no living passenger to bypass Operator-only. Outsidecrew retains roles; Yuka ownCTsource not revoked, consciously reserves demand.
 

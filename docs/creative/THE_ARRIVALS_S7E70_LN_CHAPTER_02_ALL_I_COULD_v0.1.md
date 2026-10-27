@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 18 — All I Could
+## Chapter 22 — All I Could
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 18
+**Reading order:** 22
 **Source episode:** S7E70
 **Continuity state:** B+1 rest→nightawakening. AuthorizedAshbornfragment shows chosen successorJinwoo's death/awakening in Arrivalsadaptation, not literalcompleteunverifiedcanonbiography/liveJinwoo communication. No premiseMau mustdie/losefamily. Moderatefreshdamage stable/repairedinpart by ownRCT/medicalcare, no towerrepeat. Yuka bedsideexactcreatorlines. Oldgrey/scars/physicalstats unchanged, twohearts/no possession.
 

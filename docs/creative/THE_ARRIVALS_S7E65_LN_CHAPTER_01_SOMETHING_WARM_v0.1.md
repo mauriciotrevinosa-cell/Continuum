@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 41
-## Chapter 7 — Something Warm
+## Chapter 11 — Something Warm
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 41
-**Reading order:** 7
+**Reading order:** 11
 **Source episode:** S7E65
 **Continuity state:** B afternoon/evening, birthday lived before crisis. Yuka gives handmade ordinary scarf with Marin/Mai help, existing household cloth, not enchantment/power/ring or duplicate map. Meal/music/family, no sex/cohabitation or age/species claim. Maki's appointment remains tonight, Mau not cured by gift.
 

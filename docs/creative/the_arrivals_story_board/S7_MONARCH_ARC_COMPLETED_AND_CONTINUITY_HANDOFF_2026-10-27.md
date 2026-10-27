@@ -1,32 +1,34 @@
 # S7 — Esqueleto Monarch completado y continuidad de salida
 
-**Fecha:** 2026-10-27. **Entrada de este trabajo:** V40#32 / Day891. **Salida:** V41#24 / seis días después del cumpleaños elegido B. **24 capítulos nuevos**, S7E62–S7E73. Todos son borradores para revisión, sin aprobación automática.
+**Fecha:** 2026-10-27. **Entrada de este trabajo:** V40#32 / Day891. **Salida:** V41#28 / seis días después del cumpleaños elegido B. **28 capítulos vigentes tras ampliar la revancha**, S7E62–S7E73. Todos son borradores para revisión, sin aprobación automática.
 
 El mandato «termina el esqueleto hablado» se ejecutó por escenas hasta el regreso y el procesamiento inmediato. No se volvió a detener en una frontera de volumen para pedir permiso para lo ya autorizado.
 
 [Índice V41](../THE_ARRIVALS_LN_VOLUME_41_INDEX_v0.1.md) · [Registro con todas las escenas](S7_VOLUME41_PRODUCTION_STATE_2026-10-27.md) · [Alcance explícito](S7_COMPLETE_MONARCH_ARC_EXECUTION_LOCK_2026-10-27.md) · [Propuesta íntegra del creador](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md).
 
+> **Revancha ampliada por petición del creador — 2026-10-27:** V41#2–6 es el round dos completo, con «No limits» mutuo, evolución espacial de Gojo y armonía del arsenal existente de Mau guiada por Ciel. Misma tarde Day949; antiguos#3–24 pasan a#7–28 sin cambiar archivos/URLs o prosa posterior. El arco sigue completo hasta#28/B+6. [Revisión y reglas vigentes](S7_GOJO_MAU_NO_LIMITS_REMATCH_REVISION_2026-10-27.md). Las numeraciones de checkpoints históricos se leen con ese mapa.
+
 ## Cumplimiento visible
 
 | Elemento hablado | Capítulos V41 | Resultado producido |
 | --- | --- | --- |
-| Vida previa, progresión y preparación | 1–4 | Recuperación individual Gojo, rematch, puntos elegidos con Umaru, ejército hacia mil, calendario/equipo y enlace administrativo |
-| Cumpleaños verdadero | 5–7 | Casa, música, comida, regalo de Yuka; su día no convertido entero en despedida |
-| Bendición con Yuta/Maki/Mai | 6 | Deseo real de matrimonio; familia responde sin sustituir decisión de Yuka |
-| Maki vuelve y reúne a la casa | 8–9 | Identifica el miedo y distingue palabras de hipótesis; humanos actuales oyen lo que antes no sabían |
-| Mau elige no ir | 9–10 | Acepta quedarse, ayuda a una alternativa practicable y comunica posposición |
-| Arquitecto cambia reglas | 10 | Respuesta a acción observable, sanción local y operador único; recursos físicos y cuerpo intactos |
-| Decisión y promesa | 11 | Alternativas comparadas, Yuka no desea enviarlo pero acepta; promete todo lo posible, no certeza falsa |
-| Combate sin sombras/armas | 12–14 | Campo local anunciado, cuerpo permanente,17constructos con funciones, daño proporcionado |
-| Arise después de converger condiciones | 14 | Restricción termina explícitamente;17animados extraídos, no cualquier roca del mundo |
-| Ashborn real voluntario | 15–16 | Desea descanso, límites de análisis/estancia, sin sustituir al host |
-| Copia separada y registro | 16 | Un sentinel regalado, no persona esclavizada/ejército original, fragmento aceptado con procedencia propia |
-| Malentendido, puerta y Beru | 17 | Firma real inferida mal, amenaza parcial, recall del botín/sombras, caída/rescate con desaceleración |
-| Registro y despertar de Mau | 18 | Muerte/despertar de Jinwoo como adaptación autorizada, no destino repetible obligatorio; diálogo exacto pedido con Yuka |
-| Seguridad compartida | 19 | La casa sabe lo oído y lo inferido, antes de cualquier comedia del anillo |
-| Recuperación vivida | 20 | Huéspedes, cuidados, humor y relación, sin repetir mutilación/tower |
-| Despedida de la boda del Trial | 21–22 | Conversación presente y duelo de memoria, sin imponer ese pasado a Frieren B o borrar toda herida |
-| Entrada al siguiente arco romántico | 23–24 | Ayuda de Mai solicitada, diseño del anillo en marcha, Yuka pregunta a sus abuelos; sorpresa con elección y sin ocultar amenazas |
+| Vida previa, progresión y preparación | 1–8 | Recuperación individual Gojo, rematch, puntos elegidos con Umaru, ejército hacia mil, calendario/equipo y enlace administrativo |
+| Cumpleaños verdadero | 9–11 | Casa, música, comida, regalo de Yuka; su día no convertido entero en despedida |
+| Bendición con Yuta/Maki/Mai | 10 | Deseo real de matrimonio; familia responde sin sustituir decisión de Yuka |
+| Maki vuelve y reúne a la casa | 12–13 | Identifica el miedo y distingue palabras de hipótesis; humanos actuales oyen lo que antes no sabían |
+| Mau elige no ir | 13–14 | Acepta quedarse, ayuda a una alternativa practicable y comunica posposición |
+| Arquitecto cambia reglas | 14 | Respuesta a acción observable, sanción local y operador único; recursos físicos y cuerpo intactos |
+| Decisión y promesa | 15 | Alternativas comparadas, Yuka no desea enviarlo pero acepta; promete todo lo posible, no certeza falsa |
+| Combate sin sombras/armas | 16–18 | Campo local anunciado, cuerpo permanente,17constructos con funciones, daño proporcionado |
+| Arise después de converger condiciones | 18 | Restricción termina explícitamente;17animados extraídos, no cualquier roca del mundo |
+| Ashborn real voluntario | 19–20 | Desea descanso, límites de análisis/estancia, sin sustituir al host |
+| Copia separada y registro | 20 | Un sentinel regalado, no persona esclavizada/ejército original, fragmento aceptado con procedencia propia |
+| Malentendido, puerta y Beru | 21 | Firma real inferida mal, amenaza parcial, recall del botín/sombras, caída/rescate con desaceleración |
+| Registro y despertar de Mau | 22 | Muerte/despertar de Jinwoo como adaptación autorizada, no destino repetible obligatorio; diálogo exacto pedido con Yuka |
+| Seguridad compartida | 23 | La casa sabe lo oído y lo inferido, antes de cualquier comedia del anillo |
+| Recuperación vivida | 24 | Huéspedes, cuidados, humor y relación, sin repetir mutilación/tower |
+| Despedida de la boda del Trial | 25–26 | Conversación presente y duelo de memoria, sin imponer ese pasado a Frieren B o borrar toda herida |
+| Entrada al siguiente arco romántico | 27–28 | Ayuda de Mai solicitada, diseño del anillo en marcha, Yuka pregunta a sus abuelos; sorpresa con elección y sin ocultar amenazas |
 
 La propuesta de matrimonio concreta y la boda futura **no estaban diseñadas en este esqueleto**: el mensaje del creador las dejó como el siguiente arco para ver cómo hacerlo. Aquí se completó la entrada que sí pidió, no se inventó una propuesta o un sí de Yuka para llenar el cierre.
 
@@ -42,7 +44,7 @@ Cristales finales:**603 pequeños usables/4pylon/12 recompensas mayores de fuent
 
 ## Capacidad nueva sin transformar todo en poder ilimitado
 
-Gojo recupera su referencia de extracción por pruebas distintas y repetidas, incluyendo operaciones dentro/fuera y domain sin sujeto humano para medir daño. Su100% es suyo. El rematch tiene reglas voluntarias claras; no una excusa posterior de que olvidó un poder.
+Gojo recupera su referencia de extracción por pruebas distintas y repetidas, incluyendo operaciones dentro/fuera y domain sin sujeto humano para medir daño. Su100% es suyo. El rematch2–6 ahora incluye «No limits» mutuo y pleno arsenal/output: Gojo desarrolla aplicaciones espaciales, Mau armoniza su arsenal por indicación de Ciel. UnExchange específico gastado, derrota en refinamiento deVoid, costes de reparación/sombras y contactoDA decisivo. No victoria por un único punto o prohibición de dominios/armas/sombras. [Reglas y física de inspiración](S7_GOJO_MAU_NO_LIMITS_REMATCH_REVISION_2026-10-27.md).
 
 Mau mejora lectura dinámica de movimiento, logra el contacto de Amplification **con la propia CT activa pausada** y ejecuta una reparación más fuerte de lesión fresca con ruta previamente trabajada por Ciel/Noise. No se declara garantizado Black Flash ni curación de daño antiguo. Las limitaciones ajenas a ese contacto y la voluntad del adversario siguen contando.
 
@@ -66,7 +68,7 @@ Protección fija ligada a DIO viva, sin excepción por ataque espacial. Mau vuel
 
 Arquitecto sabe que está la firma real de Ashborn y cree que el huésped acabará despertando al vaciar al recipiente. Su inferencia es falsa: Ashborn quiere descansar y no pidió el plan. Sigue siendo peligroso porque una interpretación falsa puede motivar daño real.
 
-Mau/Ciel oyen fragmentos sobre perderlo todo y el vessel; no la lista de enemigos o todas sus instrucciones. La casa recibe esa información en19, distinguiendo evidencia de lectura posible. No ayudan a guardar una amenaza contra Yuka por la conveniencia de un secreto romántico.
+Mau/Ciel oyen fragmentos sobre perderlo todo y el vessel; no la lista de enemigos o todas sus instrucciones. La casa recibe esa información en23, distinguiendo evidencia de lectura posible. No ayudan a guardar una amenaza contra Yuka por la conveniencia de un secreto romántico.
 
 Makima sigue una decisión de autor pendiente de mecanismo, extracción/límites/pruebas; no fue identificada por los personajes. Rulers no son facción uniforme. No se atribuye a Sukuna/Arquitecto el ataque a DIO sin evidencia. El sitio de llamada forzada y el segundo reporte indirecto exterior continúan abiertos; esos hilos no justifican volver a retrasar un cumpleaños/Trial que **ya se escribió**.
 
@@ -74,7 +76,7 @@ Makima sigue una decisión de autor pendiente de mecanismo, extracción/límites
 
 Mau/Yuka comparten presente, amor y futuro deseado; reciben y dan ayuda. Our Year está con Mau, Two Beginnings con Yuka; scarf ordinario hecho por ella conMau. No sexo/embarazo/compromiso consumado/cohabitación o nueva edadbiológica fijados. Cuartos separados y loft de Rimuru conservados.
 
-La boda recordada es el último escenario del Trial: fuente S3E59CH03 *Everyone Came*, S4E02CH04 *The Last Two*, S5E44CH01/03/05. Flores blancas/azules, clearing, seam, Infinity que no le deja alcanzar a los demás, mano casi tocándolo. Se cotejó antes de escribir21–22. No es cuarta línea, falso comienzo externo, nueva mujer real en una habitación o Frieren B obligada a ser viuda.
+La boda recordada es el último escenario del Trial: fuente S3E59CH03 *Everyone Came*, S4E02CH04 *The Last Two*, S5E44CH01/03/05. Flores blancas/azules, clearing, seam, Infinity que no le deja alcanzar a los demás, mano casi tocándolo. Se cotejó antes de escribir los actuales25–26. No es cuarta línea, falso comienzo externo, nueva mujer real en una habitación o Frieren B obligada a ser viuda.
 
 Él recuerda la importancia de ese amor y hace duelo sin elegir reactivar romance con Frieren B ni hacer competir a Yuka con una novia recordada. La memoria no se borra y un trigger futuro no invalida el trabajo. Ciel respeta la intimidad y no ve el archivo porque Mau necesite compañía. Familia escucha sin exigir que esté curado antes de estar presente.
 

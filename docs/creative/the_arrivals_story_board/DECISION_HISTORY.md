@@ -2359,3 +2359,7 @@ El creador dice «va tu termina». Se continúa V40 hacia cierre natural.17–20
 ### S7 — V40#21–24, 2026-10-27
 
 V40#21–24 dan preparación, ritual y recall de Round Deer antes de registrar octava familia. Fuente Ch0218/008–009 comprobada local, sin imágenes en repo; límites curativos y nativos conservados.6scouts existentes vuelven sin nuevas unidades, rincón doméstico financiado parcialmente sin edificio imposible, pareja/familias lo comparten. Gojo/Shoko tiempo propio. Se continúa al refugio sin cerrar después del push.
+
+### S7 — V40#25–28, 2026-10-27
+
+V40#25–28 ejecutan llegada de la mismaDIOvulnerable, petición del segundo favor y conversación sin nuevoTrial. Procedimiento hostil de llamada observado limitado, un Ruler identificado por ella sin asignar toda facción o Makima, protección absoluta contra intrusión conservada y fija. Separamos rescate/atención/preguntas/preparación. Las siete brujas tienen escena propia y no se lee material sellado. Preparación no equivale a huésped ya instalado. Continúa hasta cerrar el volumen con pruebas/elección/vida posterior.

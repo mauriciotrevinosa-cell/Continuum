@@ -32,40 +32,38 @@
 | 22 | S7E56 CH02 | Day868 | Ritual en sala despejada, Yuka dirige y Mau ayuda físicamente; regen/interferencia hacen cambiar estrategia, Ox quiebra forma. Recall aún pendiente; no XP/loot nativos. |
 | 23 | S7E57 CH01 | Day869 | Recall independiente confirma8familias; examen pequeño sana raspón nuevo con costeYuka, sin curas antiguas. Gojo/Shoko paseo propio sin100% o matrimonio declarado. |
 | 24 | S7E57 CH02 | Day875 | Rincón compartido dentro de common room, ingreso parcial después de reservas, no ala o mudanza. Primeros6scouts vuelven de2rutas sin amenazas/parientes nuevos. Pareja y otros usan espacio. |
+| 25 | S7E58 CH01 | Day882tarde | Scout existente reporta mujer herida fuera;Mau/Anko/Mikasa responden,Rimuru casa.DIO misma persona reconocida,ayuda consentida,retorno sin intrusiónhostil. |
+| 26 | S7E58 CH02 | Day882tarde–noche | Shoko trata cuerpo vulnerable, familia recibe;protección fija ligada a vida,sin bypassespacial.Refugio es segundo favor,descanso físico antes de respuestas,no cuarto interioryahecho. |
+| 27 | S7E59 CH01 | Day883 | DIO cuenta llamada forzada externa y un Ruler atacante que llamó jailer, sin omnisciencia/facción total. Casa pregunta protección/consentimiento/estudio;Mau ofrece construir y probar refugio sin intercambio de memorias/autoridad. |
+| 28 | S7E59 CH02 | Day884 | Té con7brujas/Prideadulta,nopasadosellado;Mauelige ayudar.Ciel/Noise planean estancia aparte de acceso desconocido,Yuka tiempo propio aún presente. |
 
 ## Estado actual
 
-**Salida: V40#24 / Day875 por la noche.** V40 continúa hacia su cierre natural. Todavía no llegaron DIO/Ashborn ni se abrió Meet the Monarch.
+**Salida: V40#28 / Day884 por la noche.** DIO ya llegó y pidió refugio; la estancia interior está en preparación, no terminada. V40 continúa.
 
-### Yuka y el siguiente shikigami
+### Llegada de DIO y seguridad
 
-La preparación de866 distingue curación nativa, interferencia de CE y recursos prestados. Yuka elige Round Deer; Mau ayuda físicamente dentro según el protocolo compartido ya establecido por el proyecto, Yuta/Maki observan fuera. En868 el plan usa cuerda ordinaria, redirección física y una línea de Piercing Ox elegida por Yuka; no un Blue universal que ignore la interferencia. La forma no sometida cae; recall controlado independiente869 confirma **octava familia**.
+En882 un scout existente ve a una mujer herida junto al agua, fuera del amparo. Ella pide que alguien venga; el scout observa sin raptarla. Mau/Anko/Mikasa responden, Rimuru queda en casa. Mau reconoce voz y referencia personal a cookies. DIO confirma que es ella entera en un cuerpo vulnerable, no avatar descartable. Ayuda física consentida; no shadow destruida/combate ganado/XP. No ataque cruzó el perímetro, ni la protección se adelantó para cubrir el rescate.
 
-Yuka tiene ahora Dogs (pareja cuenta una), Rabbit Escape, Nue, Toad, Max Elephant, Great Serpent, Piercing Ox y Round Deer. Tiger/Mahoraga siguen sin doma propia. El breve examen con Shoko cierra el raspón nuevo que Mau sufrió incidentalmente durante el ritual: nadie se hirió adrede, no se curaron dedos/ojos/cicatrices antiguos ni se prometió cura de cáncer o cualquier enfermedad. El coste de esa operación nativa corresponde a Yuka. No le concede RCT personal universal. Fuente primaria inspeccionada localmente: JJK Ch0218/008–009, Round Deer cura y neutraliza CE en metal controlado. El ritual es coreografía propia de Arrivals, no una escena canon copiada; ninguna imagen se agregó al repo.
+Shoko recibe y atiende de forma limitada lo que puede examinar; Ciel sólo observa por sus hosts. DIO se queda temporalmente en área médica con privacidad, sin borrar un cuarto de otro residente. Al día siguiente explica lo que presenció: alguien usó una llamada forzada anclada a un sitio y un Ruler que ella vio intentó matarla. Rompió parte del agarre de esa llamada y escapó hacia el asentamiento. No sabe todos los que participaron o cómo se repite el procedimiento completo. Lo único que atribuye al atacante de sus palabras es que la llamó jailer. No se fijaron nombre, facción entera o motivaciones omniscientes, ni vínculo de Makima/Arquitecto a ese ataque.
 
-### Vida y pequeña mejora doméstica
+### Protección y favor
 
-Gojo/Shoko caminan juntos dentro del amparo en869. Cercanía personal y un buen rato, sin declaración de matrimonio/sexo o restitución100% por calendario.
+DIO vive: el amparo sigue fijo al terreno ya marcado. No depende de estar despierta, estar de pie o tener el cuerpo en la frontera. Fuera no protege su piel ni cubre caminos; dentro no hay excepción a intrusión hostil por corte espacial sofisticado. Su muerte haría caer el amparo. No se la saca para probar esto. Estudio de anchor sólo con permiso y observación no destructiva.
 
-En875 se termina un rincón compartido en el borde de la common room, reubicando almacenamiento temporal. Madera/fijaciones/tela se compraron con una parte acordada del ingreso de las dos herramientas, después de reservar reemplazo de materiales. Se narra decisión y trabajo, sin inventar moneda/cifra incompatible. No nueva ala, cuatro pisos, expansión de protección o invasión de raíces. No cambio de cuartos. Coco/madre/Richeh y después Mau/Yuka usan el lugar; no es propiedad exclusiva de la pareja. El mapa se lleva allí para añadir otro recuerdo actual.
+La segunda petición queda expresamente invocada como **refugio, no nuevo Trial ni precio escondido**. La casa puede desconfiar y ayudar a la vez; DIO no exige perdón o acceso a cuerpo/memorias a cambio de seguridad. Mau quiere ofrecerlo, no sólo cumplir por miedo al contrato. Antes de alojarla construirán/prueban una estancia separada dentro de su estructura conocida con Noise/Ciel. El acceso desconocido permanece cerrado. Aún no hubo entrada de DIO a esa estancia ni prueba con huésped.
 
-### Primer ensayo de scouts realizado
+### Vida intercalada
 
-Seis soldados ordinarios ya existentes, dos rutas cortas acordadas, Igris coordina. Los seis regresan; un reporte sobre cart/crossing y otro sobre tramo de camino deteriorado, sin parientes o amenazas nuevos. Se respeta no seguir un carro a propiedad privada. No nuevas unidades, portales confirmados o rescates. Se corrige la ruta y se les da fin de turno, no despliegue infinito por hábito.
+Mau toma té con las siete brujas en884: Pride adulta, identidad privada sin revelar; Satella/Echidna/Daphne/Minerva/Carmilla/Sekhmet conservadas, sin Typhon. Hablan de elección, límites, garden y cosas propias, no sólo exposición de diosa. Yuka tiene prácticas de Deer y compañía con Mau al trabajar; no se convierte en espectadora borrada. DIO no recibe las palabras vessel que Mau aún guarda.
 
-### Recursos y poder que se conservan
+### Base actual intacta
 
-Mau116/107 puntos retenidos/Int440. Legión377 ordinarias+16 nombradas=393, Mahoraga separado.285 pequeños usables/4pylon/6boss; spent de lámpara831 separado. Ritual nativo no otorga XP/loot/Arise por estar en una sala de gate. No nuevo clear de criaturas de dungeon en este bloque. Dos Dragon's Wrath/katana y secuelas/gris salvo Yuka intactos.
+Mau116/107retenidos/Int440.393legión=377ordinarias+16nombradas, Mahoraga aparte.285small/4pylon/6boss; lámpara831 agotada separada. Sin nuevas extracciones/levels/ventas de cristales en este bloque. Dos cutters pagados862, parte ingreso usada en rincón común, material de reemplazo reservado. Seis posteriores siguen posibilidad. Carta3puestos sólo jurisdicciónlocal; segundo reporte indirecto de opening pendiente. Primer scouttrial6soldados retornó; ruta posterior que encuentra DIO usa uno existente, no legión nueva.
 
-Regalo Limitless de Yuka sigue siendo patrón suyo con demanda de fuente Mau, autonomía por uso y pruebas previas. No Purple/UV gratis o fusión universal de mana/CE. Garden previo sin nuevo récord de tiempo. Gojo práctica/cercanía no100% automático.
-
-### Hilos económicos, externos y de relación
-
-Dos primeras herramientas vendidas/cobradas862; seis posteriores no contratadas. Material de reemplazo reservado, parte de ingreso usada en rincón. Placas del keeper aún sin probar. Carta de3puestos funcionó una vez con demoras y alcance limitado. Reporte exterior cercano: party regresó y gate cerrada según contacto, dos heridos. Segundo reporte indirecto sin corroborar.
-
-Yuka19, pareja y familia mantienen vida diaria; cuartos separados, Rimuru loft. Our Year con Mau, Two Beginnings con Yuka, sin sexo/embarazo/compromiso/mudanza. Especie/fertilidad/edad de Mau desconocidas. Frieren amiga/maestra/MumOri, compás Ori. Bocchi/banda, brujas, Witch Hat y demás vínculos siguen. HumanosB conocen torre/corazón, no exactas frasesvessel; CielB no archivoA automático. Trauma atendido con pausa/compañía, no posesión nueva.
+Yuka19, **ocho**familias por Deer independiente869; healing nativo limitado probado, no universalRCT o cáncercurado. Limitlessregalo suyo/fuenteMau vigente, Garden previo, Tiger/Maho propios pendientes. Visión gris salvoYuka y secuelas deMau intactas. Sin sexo/embarazo/compromiso/mudanza; Rimuru loft, pareja cuartos separados. OrieshijaFrieren/Mum y conserva compás, Frierenamiga/maestraMau. HumanosB conocen torre/corazón, no exactas palabras/hipótesisvessel. CielBsinarchivoAautomático. CalendarioB/B+1 por cotejar antes de cumpleaños.
 
 
 ## Continuación
 
-Construir llegada vulnerable de DIO desde fuera del perímetro, reconocer su voz sin avatar descartable y escuchar una petición de refugio que conserva responsabilidades. No convertir búsqueda en rapto ni amparo en campo móvil. Dar tiempo a preguntas, consentimiento, construcción/prueba de estancia y vida posterior. Cierre de V40 puede nacer de ese refugio elegido; no precipitar cumpleaños/Monarch ni saldar todos los hilos de S7 por una habitación.
+Completar construcción/pruebas de estancia con acceso y salida voluntarios, privacidad y soporte limitado de vida, sin terceraentidad/corazón nuevo ni abrir el acceso desconocido. DIO debe elegir entrar después de saber límites; la casa debe poder procesar consecuencias y seguir viviendo. No otorgar portales de regreso a cualquier punto remoto ni esconder huéspedes para violar reglas de futuras instancias. Cerrar V40 por el refugio vivido y relaciones, no por una pantalla o cliffhanger de invasión; otros hilos de S7 quedan listados para después.

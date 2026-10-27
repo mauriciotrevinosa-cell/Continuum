@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 40
 **Season:** 7
-**Coverage:** S7E46–S7E57 (in progress)
+**Coverage:** S7E46–S7E59 (in progress)
 **Volume title:** **The Days We Choose** (provisional)
-**Chapter files:** 24
+**Chapter files:** 28
 
 Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. Shared life, practical coordination, household choices and the changing world unfold before the later birthday and Monarch trial. Chapter and volume length follow the scenes, not a fixed quota. Drafts await creator review.
 
@@ -39,3 +39,7 @@ Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. 
 | 22 | S7E56 | The Turn Before the Charge | `THE_ARRIVALS_S7E56_LN_CHAPTER_02_THE_TURN_BEFORE_THE_CHARGE_v0.1.md` |
 | 23 | S7E57 | An Ordinary Walk | `THE_ARRIVALS_S7E57_LN_CHAPTER_01_AN_ORDINARY_WALK_v0.1.md` |
 | 24 | S7E57 | A Place for the Chair | `THE_ARRIVALS_S7E57_LN_CHAPTER_02_A_PLACE_FOR_THE_CHAIR_v0.1.md` |
+| 25 | S7E58 | Someone Beside the Water | `THE_ARRIVALS_S7E58_LN_CHAPTER_01_SOMEONE_BESIDE_THE_WATER_v0.1.md` |
+| 26 | S7E58 | A Body on the Bench | `THE_ARRIVALS_S7E58_LN_CHAPTER_02_A_BODY_ON_THE_BENCH_v0.1.md` |
+| 27 | S7E59 | What Still Holds | `THE_ARRIVALS_S7E59_LN_CHAPTER_01_WHAT_STILL_HOLDS_v0.1.md` |
+| 28 | S7E59 | Tea While It Is Warm | `THE_ARRIVALS_S7E59_LN_CHAPTER_02_TEA_WHILE_IT_IS_WARM_v0.1.md` |

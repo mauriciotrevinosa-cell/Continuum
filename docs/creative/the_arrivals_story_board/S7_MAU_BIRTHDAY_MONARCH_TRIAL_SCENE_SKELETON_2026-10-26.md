@@ -1,6 +1,6 @@
 # S7 — Del año compartido a Meet the Monarch: esqueleto de escenas
 
-> **Continuación autorizada y activa — V40#1–24, 2026-10-27:** Veinticuatro capítulos hasta Day875: Round Deer ganado por Yuka, paseo Gojo/Shoko, primera patrulla y rincón compartido construido por la casa. [Índice V40](../THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME40_PRODUCTION_STATE_2026-10-26.md). El creador dijo «va arrancate» tras revisar el esqueleto; los avisos de parada en Day808 son históricos. S7 continúa, sin cuotas por mini arco ni aprobación automática.
+> **Continuación autorizada y activa — V40#1–28, 2026-10-27:** Veintiocho capítulos: DIO llega herida desde fuera, pide refugio, la casa escucha y decide cómo ofrecerlo; estancia interior aún en preparación. [Índice V40](../THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME40_PRODUCTION_STATE_2026-10-26.md). El creador dijo «va arrancate» tras revisar el esqueleto; los avisos de parada en Day808 son históricos. S7 continúa, sin cuotas por mini arco ni aprobación automática.
 
 **Fecha:** 2026-10-26. **Estado:** desarrollo de planificación autorizado por «va armalo». No son capítulos publicados, hechos ya ocurridos ni cierre automático de S7. La prosa sigue en **V39#20 / S7E45CH02 / Day808, noche**. Este documento desarrolla la [propuesta íntegra del creador](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md) y la [integración previa](S7_MAU_BIRTHDAY_MONARCH_TRIAL_INTEGRATION_2026-10-26.md); conserva la propuesta íntegra sin editarla.
 

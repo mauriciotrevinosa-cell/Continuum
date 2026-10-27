@@ -2371,3 +2371,7 @@ V40#29–32 completan el refugio con pruebas reales, alcance informado, consenti
 ### S7 — V41#1–4, ejecución continua, 2026-10-27
 
 La instrucción directa del creador corrige las paradas indebidas por volumen. V41#1–4 completan progresión y preparación con hechos/fuentes de cifras, calendario local sin ordinal inventado, Gojo kitrestaurado a extracción y MauDA/RCTfresco/lectura con límites.996legión/126/57retenidos/Int460/603small4pylon12boss. Grupo originalformado y markerantesdechantaje;DIOnoocultapasajera. Se sigue sin pedir nuevoverde hasta completar cumpleaños/Monarch/regreso y aftermath señalado.
+
+### S7 — V41#5–8, ejecución continua, 2026-10-27
+
+V41#5–8 preservan celebración como día vivido y matrimonio como deseo real, no engaño o propuesta anticipada. Maki nota segunda cuestión y exige hablar por la noche. Yuka recibe mano y compañía, no decide vidaMauporfuerza. Se continúa reunión/chantaje/Trial/regreso sin cerrar por checkpoint.

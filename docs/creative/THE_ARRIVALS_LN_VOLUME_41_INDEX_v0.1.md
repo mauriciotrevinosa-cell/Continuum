@@ -3,13 +3,17 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 41
 **Season:** 7
-**Coverage:** S7E62–S7E71 (in progress)
+**Coverage:** S7E62–S7E73 (volume complete)
 **Volume title:** **The Life He Chose** (provisional)
-**Chapter files:** 20
+**Chapter files:** 24
 
 Continuation of the approved scene skeleton through the birthday, Monarch trial, return and its immediate aftermath. A chapter batch or volume boundary is not a new stop for creator permission. Drafts remain subject to review.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md) · [Current state](the_arrivals_story_board/S7_VOLUME41_PRODUCTION_STATE_2026-10-27.md) · [Execution scope](the_arrivals_story_board/S7_COMPLETE_MONARCH_ARC_EXECUTION_LOCK_2026-10-27.md).
+
+**Agreed Monarch arc complete as a production draft:** Chapter24 / sixth evening after Mau's chosen birthday. Includes return, shared security information, processing the Trial wedding and the requested start of ring preparations. The actual proposal is a later scene to design, not an omitted step of this arc.
+
+[Completion map and continuity handoff](the_arrivals_story_board/S7_MONARCH_ARC_COMPLETED_AND_CONTINUITY_HANDOFF_2026-10-27.md).
 
 ## Reading order
 
@@ -35,3 +39,7 @@ Continuation of the approved scene skeleton through the birthday, Monarch trial,
 | 18 | S7E70 | All I Could | `THE_ARRIVALS_S7E70_LN_CHAPTER_02_ALL_I_COULD_v0.1.md` |
 | 19 | S7E71 | What He Heard | `THE_ARRIVALS_S7E71_LN_CHAPTER_01_WHAT_HE_HEARD_v0.1.md` |
 | 20 | S7E71 | The Other Chair | `THE_ARRIVALS_S7E71_LN_CHAPTER_02_THE_OTHER_CHAIR_v0.1.md` |
+| 21 | S7E72 | The Word Afterward | `THE_ARRIVALS_S7E72_LN_CHAPTER_01_THE_WORD_AFTERWARD_v0.1.md` |
+| 22 | S7E72 | The Hand He Could Reach | `THE_ARRIVALS_S7E72_LN_CHAPTER_02_THE_HAND_HE_COULD_REACH_v0.1.md` |
+| 23 | S7E73 | Something That Would Stay | `THE_ARRIVALS_S7E73_LN_CHAPTER_01_SOMETHING_THAT_WOULD_STAY_v0.1.md` |
+| 24 | S7E73 | What He Was Keeping | `THE_ARRIVALS_S7E73_LN_CHAPTER_02_WHAT_HE_WAS_KEEPING_v0.1.md` |

@@ -2387,3 +2387,7 @@ V41#13–16 desarrollan combate con funciones y daño proporcionados al cuerpoac
 ### S7 — V41#17–20, ejecución continua, 2026-10-27
 
 V41#17–20 cumplen caída/Beruyfrasesdelcreador, recursos/legiónintactos, registroconsourceconsent distinta deinterfazhostil. Amenaza no queda escondida bajo secreromántico; casa conoce límites antes de preparar sorpresa. Daño más acotado quetorre/recuperaciónnatural. Se sigue bodaTrial/anillo-entry conforme plan, sin bodasfuturas inventadas o pausa de nuevoverde.
+
+### S7 — V41#21–24, ejecución continua, 2026-10-27
+
+V41#21–24 completan el aftermath acordado: fuente de boda verificada, no cuarta línea o noviaNueva, duelo sin borrado y presenteYuka. AnilloplanconMai respeta ausencia de pactoBverificado/no obligaciónluchar; no propuestahecha o síYukaasumido. Familia permite sorpresa porque amenaza ya se informó. Se cierra la ejecución concreta del esqueleto en24nuevoscapítulos con mapa de cumplimiento, no todos los hilos de S7 ni futura boda inventada. Toda prosa previa1380 conservada y se verifica lector antes de reportar final.

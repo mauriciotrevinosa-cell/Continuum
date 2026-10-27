@@ -2375,3 +2375,7 @@ La instrucción directa del creador corrige las paradas indebidas por volumen. V
 ### S7 — V41#5–8, ejecución continua, 2026-10-27
 
 V41#5–8 preservan celebración como día vivido y matrimonio como deseo real, no engaño o propuesta anticipada. Maki nota segunda cuestión y exige hablar por la noche. Yuka recibe mano y compañía, no decide vidaMauporfuerza. Se continúa reunión/chantaje/Trial/regreso sin cerrar por checkpoint.
+
+### S7 — V41#9–12, ejecución continua, 2026-10-27
+
+V41#9–12 preservan opciónreal de quedarse antes de coacción, scope local de cierres y peticiónobservable en lugar de omnisciencia. Campo antiactivos anunciado/rechazo microtest, cuerpos permanentes no nerfeados.17constructos conectados y primero derrotado. Ciel local y DIO fuera, no huésped escondido. No inventario/puntos/legión nuevos; se continúa el desenlace autorizado.

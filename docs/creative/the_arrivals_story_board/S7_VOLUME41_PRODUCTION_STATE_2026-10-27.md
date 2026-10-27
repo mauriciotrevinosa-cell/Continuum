@@ -14,18 +14,22 @@
 | 6 | S7E64 CH02 | B media mañana | Mau agradece y pide bendición para futura propuesta; sífamilia no consentimientoYuka; Maki percibe otromotivo/agendanoche. |
 | 7 | S7E65 CH01 | B tarde–cena | Scarf ordinario hechoYuka/ayudaMarinMai, comida y música, recuerdoTrial sin robar cumpleaños; Maki vuelve. |
 | 8 | S7E65 CH02 | B noche | Maki pide respuestas; Mauvessel/Arquitecto, llamaYuka/Rimuru, reunión inicia sin detención o posesión probada. |
+| 9 | S7E66 CH01 | B noche | Palabrasvessel/casa escucha;Yukadueleexclusión;Mauaceptaesperar y ayuda a un planreal. |
+| 10 | S7E66 CH02 | B noche–B+1alba | Rechazoobservable dispara nuevasanciónlocal y operadorúnico, recursosfísicosintactos; alternativas nohambre. |
+| 11 | S7E67 CH01 | B+1mañana | Debaten/eligeentrada, familiafutura y promesahonesta, DIOcasa/celdasvacías; cruzaoperadorúnico. |
+| 12 | S7E67 CH02 | B+1templo | Campo local por17constructos limitaoutputs noestatfísicas;Ciel local sinrelay;primerwardenroto,16quedan. |
 
 ## Estado actual
 
-**Salida: V41#8, B noche antes de reunión.** Cumpleaños vivido5/7 y bendición6, Maki vuelve8. Mau ama aYuka/quierepedir matrimonio, no propuesta hecha; Yuta/Mai dicen sí a bendición y Maki a vínculo sin decidir porYuka. Detecta motivo de despedida y agenda noche; no amenaza inmediata conocida al permitir terminar fiesta.
+**Salida: V41#12/B+1, dentro del templo;16constructos enlazados aúnactivos.** Reunión cuenta palabras exactas y temor sin probar posesión. Mau sinceramente acepta esperar9, participa planalternativo. Solicitud explícita de posposición/rechazo10 observada por sistema dispara ordennueva del marcadorlocal: gatehabitual/Shoptransacciones/créditonuevo se cierran, operadorúnico. Viejos términos conservados, no borrado cristales/dinero/puntos/cuerpo ni hambreinstantánea. Casa puedevivir sinshop, debaten entrada para alcanzaradministrador/amenazalocal; Mau elige bajo coacción, Yukaacepta sin quererquevaya.
 
-Yuka entrega scarf ordinario hecho con ayudaMarin/Mai y tela existente, textura raisedline; no encantamiento/buff/anillo ni segundo mapa. Bocchi/banda tocan pieza trabajada, familia/comida/risas. Mau tiene breve recuerdo de boda delTrial y vuelve conYuka, no nueva propuesta/traumacurado.
+Promesa11 honesta: no resultado garantizado, todo lo que esté en su poder para volver. Futurofamilia deseado recordado sin engagement. DIO queda casa física, dosceldasinteriores vacías. GrupoYukaGojoYuta fuera conRimuru/Maki/Shoko/Frieren y papelesreales. Yuka conserva patrónyautonomía, reserva coste por elección.
 
-Charla8 identifica Arquitecto de torre/katana/noDIO/noamigo. Mau dice medido para llevarmonarca y vessel; Maki distingue palabras deinterpretación y llamaYuka/Rimuru/otros. Yuka toma mano, no detención. Reunión todavía no se completa. Todosya conocen torre/corazón; exactas palabras/dudas se cuentan próximo.
+Templo12:12wardens+4musicians+centralgreatface=17animados. Campo local preparado intercepta nuevos outputs activos, incluyeRCT/DA, no fuerza/estadísticas/hearts/memorias/inventariostored/Noiseenotroslugares. Se anuncia/testeamicropatrónsinforzar;Mauescoge físico mientras16otrosatacan, no apagareservas. Ciel acompaña localmente, relayRimuru no atraviesa. No cronómetromuerte o muertepreviaMauestatuas. Primerwarden destruido(anchor),restricciónpersiste16. AúnnoArise/loot/XP.
 
-Base:126/57held/Int460,996legión=980ordinary+16named,Mahoaparte;603small4pylon12boss. Sin otros cambios. Ocho familiasYuka,Limitlessregalovigente;cuartosseparados/Rimuru loft,no sexo/embarazo/engagement. DIOphysicalhomeprotegida,refugioespacio2unassigned preparado;noAshborn. Markeradministrativo conocido, condicionesoriginales aúnwait/companions. Continúa hasta final del esqueleto, no parada por este bloque.
+Base126/57held/Int460,996legión(980ordinary16named)Mahoapart;603small4pylon12boss. No gasto nuevo. ScarfYuka queda fuera conMaki. Cuartos/relaciones/grey/secuelas intactas;Yuka19/8familias/no sexo/embarazo/marriage. HumanosB ahora conocen hipótesisvessel como temor/palabras distinguibles. CielB noarchivomemoriasA. Astborn nohuésped aún. Seguir combate/encuentro/regreso/aftermath sin paradas por bloque.
 
 
 ## Continuación
 
-Contar palabras/hipótesis en reunión, Mau aceptaquedarse y arma alternativa real; después rechazoobservable dispara bloqueo local/condiciónoperador y decisión bajo coacción. Seguir sin pedir verde.
+Desarrollar batalla con cuerpos/funciones distintas, espera exterior activa y fin de fase antes de Arise. Seguir Ashborn voluntario, amenaza/expulsión/Beru/regreso y procesamiento previsto, sin cerrar checkpoint como fin.

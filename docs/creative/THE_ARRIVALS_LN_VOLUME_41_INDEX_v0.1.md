@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 41
 **Season:** 7
-**Coverage:** S7E62–S7E65 (in progress)
+**Coverage:** S7E62–S7E67 (in progress)
 **Volume title:** **The Life He Chose** (provisional)
-**Chapter files:** 8
+**Chapter files:** 12
 
 Continuation of the approved scene skeleton through the birthday, Monarch trial, return and its immediate aftermath. A chapter batch or volume boundary is not a new stop for creator permission. Drafts remain subject to review.
 
@@ -23,3 +23,7 @@ Continuation of the approved scene skeleton through the birthday, Monarch trial,
 | 6 | S7E64 | If I Ask Her | `THE_ARRIVALS_S7E64_LN_CHAPTER_02_IF_I_ASK_HER_v0.1.md` |
 | 7 | S7E65 | Something Warm | `THE_ARRIVALS_S7E65_LN_CHAPTER_01_SOMETHING_WARM_v0.1.md` |
 | 8 | S7E65 | The Other Question | `THE_ARRIVALS_S7E65_LN_CHAPTER_02_THE_OTHER_QUESTION_v0.1.md` |
+| 9 | S7E66 | Then We Wait | `THE_ARRIVALS_S7E66_LN_CHAPTER_01_THEN_WE_WAIT_v0.1.md` |
+| 10 | S7E66 | The Answer to No | `THE_ARRIVALS_S7E66_LN_CHAPTER_02_THE_ANSWER_TO_NO_v0.1.md` |
+| 11 | S7E67 | What I Can Promise | `THE_ARRIVALS_S7E67_LN_CHAPTER_01_WHAT_I_CAN_PROMISE_v0.1.md` |
+| 12 | S7E67 | The Room Prepared for Him | `THE_ARRIVALS_S7E67_LN_CHAPTER_02_THE_ROOM_PREPARED_FOR_HIM_v0.1.md` |

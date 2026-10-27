@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 40
 **Season:** 7
-**Coverage:** S7E46–S7E51 (in progress)
+**Coverage:** S7E46–S7E53 (in progress)
 **Volume title:** **The Days We Choose** (provisional)
-**Chapter files:** 12
+**Chapter files:** 16
 
 Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. Shared life, practical coordination, household choices and the changing world unfold before the later birthday and Monarch trial. Chapter and volume length follow the scenes, not a fixed quota. Drafts await creator review.
 
@@ -27,3 +27,7 @@ Volume 40 continues after Yuka's nineteenth birthday and the first anniversary. 
 | 10 | S7E50 | What the Letter Can Say | `THE_ARRIVALS_S7E50_LN_CHAPTER_02_WHAT_THE_LETTER_CAN_SAY_v0.1.md` |
 | 11 | S7E51 | Somewhere We Can Eat | `THE_ARRIVALS_S7E51_LN_CHAPTER_01_SOMEWHERE_WE_CAN_EAT_v0.1.md` |
 | 12 | S7E51 | How Long It Lasts | `THE_ARRIVALS_S7E51_LN_CHAPTER_02_HOW_LONG_IT_LASTS_v0.1.md` |
+| 13 | S7E52 | Two to Begin | `THE_ARRIVALS_S7E52_LN_CHAPTER_01_TWO_TO_BEGIN_v0.1.md` |
+| 14 | S7E52 | What Frieren Packed | `THE_ARRIVALS_S7E52_LN_CHAPTER_02_WHAT_FRIEREN_PACKED_v0.1.md` |
+| 15 | S7E53 | Beneath the Broken Arch | `THE_ARRIVALS_S7E53_LN_CHAPTER_01_BENEATH_THE_BROKEN_ARCH_v0.1.md` |
+| 16 | S7E53 | What Came Home | `THE_ARRIVALS_S7E53_LN_CHAPTER_02_WHAT_CAME_HOME_v0.1.md` |

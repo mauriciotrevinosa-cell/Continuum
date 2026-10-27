@@ -20,23 +20,60 @@
 | 10 | S7E50 CH02 | Day823 tarde–noche | Dos consultas para una primera pieza cada una: especificaciones/precio/capacidad aún por confirmar en casa, no venta/pedido de8. Share transporte reparación pagado con dinero ya disponible. Roadkeeper propone carta de nombres/visitas, no tratado. Regreso informado a Jinshi. |
 | 11 | S7E51 CH01 | Day824 | Yuka comparte dos dulces de compra ordinaria y agregan camino/mud a Our Year. Conversan de privacidad y vida común sin mudanza; ella pide que pueda contar días malos sin hacerla responsable. Tarde romántica y cena familiar, sin sexo/compromiso. |
 | 12 | S7E51 CH02 | Day831 | Senku/Byakuya/Shoko/Rimuru/Mau repiten ensayo lámpara existente con1small autorizado:249→248usables. Primer setting calienta más, reducen demanda y registran fade; spent separado, no luz infinita/grid terminado ni poder nuevo. |
+| 13 | S7E52 CH01 | Day838 | Respuesta llevada por Hollis; casa acepta dos primeras piezas, con precios/condiciones y pago a entrega/aceptación, no dinero recibido ni pedido de8. Carta de3puestos se recibe y se acuerda probar protocolo, no libertadmundial. Dos reportes externos sin cierre confirmado se registran como pendientes. |
+| 14 | S7E52 CH02 | Day844 | Preparan salida ordinaria845 Frieren/Fern/Stark/Yuka/Mau; Rimuru cubre hogar. Frieren delante, señales/posiciones/retirada/raciones acordadas, comedia de libros; no promesas románticasA a FrierenB ni gate nueva. |
+| 15 | S7E53 CH01 | Day845 pelea | Gateazul normal, equipo derrota12crawlers+keeper mayor por posiciones/selección:StarkaxeC/Fern/Frieren/YukaDogs/Toad/Blue alternados/Maufísico+Ruler. No100%ni técnicas nuevas, sin amputación/catástrofe. Cuerpos/loot pendientes de examen hasta16. |
+| 16 | S7E53 CH02 | Day845regreso–846mañana | 13extraccionesordinarias→377+16=393;Mau116/107retenidos/Int440.37small+1keepercrystal→285small/4pylon/6boss. Placas nuevas sin pruebas separadas delstock de cutters. Regreso mismodía, Frieren/Ori/Mum y Umaru/Taihei/Mauvínculos presentes; volumen sigue. |
 
 ## Estado actual
 
-**Salida: V40#12 / Day831 por la noche.** Volumen y S7 continúan como borradores. Pareja presente, casa con decisiones propias, camino/comercio con resultados comprobables; no salto a cumpleaños de Mau.
+**Salida: V40#16 / Day846 por la mañana.** V40 y S7 siguen abiertos. El cumpleaños de Mau y el Trial quedan adelante; estos capítulos no los aproximan por compresión del calendario.
 
-**Pareja/familia:** Day824 añaden marcador/camino823 a Our Year. Yuka regaló dos dulces comprados de forma ordinaria. Conversan sobre un futuro espacio privado para comer/estar y seguir participando de mesa común, sin decidir mudanza o sacar a Rimuru del loft. Yuka quiere poder acompañar a Mau aun en días malos; no conoce exactas palabras/hipótesis vessel. Afecto y contacto consentidos; habitaciones separadas, sin sexo/embarazo/compromiso. Yuka19, siete familias/DE propio/regalo permanente Limitless intactos.
+### Comercio y camino
 
-**Tamsin y nuevos interesados:** reparación cutter devuelta y aceptada tras Tamsin probar muestra; segundo examinado sin fallo equivalente, no reemplazo. Transporte de reparación cubierto con dinero doméstico ya separado, no nuevo ingreso ni moneda inventada. Dos compradores describen usos distintos y aceptan en principio una primera pieza cada uno, sujetas a confirmación de capacidad/precio/condiciones por casa; no ocho herramientas vendidas ni pedidos pagados. Medidas y papeles entregados a Jinshi/Wakana. Hollis intermediario; posible carta de roadkeeper para visitas nominadas dentro de su jurisdicción, aún no recibida ni derecho general de libre tránsito.
+En Day838 Hollis trae las respuestas. La casa acepta fabricar **dos primeras piezas distintas**, una para cada cliente, a los precios y condiciones acordados. El pago será después de la entrega y aceptación. Todavía no se han fabricado, entregado ni cobrado; las seis piezas restantes son sólo una posibilidad.
 
-**Salida823:** Mau/Yuka/Wakana/Anko/Mikasa, Rimuru se queda en casa. Igris y dos soldados ordinarios ya existentes cubren ruta con distancia de visitantes; se retorna sin unidades/loot/niveles nuevos ni residentes. Tamsin sigue siendo artesana/cliente nativa cerca de Fallow, no nueva franquicia.
+Las reparaciones domésticas conservan su lugar. El material trabajado reservado para esos cutters está separado de las placas recuperadas que aún necesitan pruebas. No sustituir un material por otro sólo porque ambos procedan de una gate.
 
-**Recursos actuales:** Mau115/102retenidos/Int440 sin gastar puntos; físico permanente. Legión16nombradas+364ordinarias=380, Mahoraga aparte. Cristales **248small usables/4pylon/5boss**: uno autorizado en Day831 retirado de249 y agotado en test; spent separado. No otra venta o consumo ocultos. Dos Dragon's Wrath/katana conservadas. Lámpara sigue ensayo de método existente: setting inicial calentó más y se bajó, fading/tiempo registrado; no grid instalado ni nuevo alumbrado funcionando gratis.
+La carta del responsable de tres puestos ya fue recibida: fija contactos y aviso de visitas nominadas dentro de su jurisdicción. La casa decide probar el procedimiento una vez. Todavía no se narró que los puestos lo cumplieran; no es permiso mundial ni paz general.
 
-**Práctica/trauma/herencia:** coordinación Sky/Blue entre usuarios distinta de CT simultáneas en un cuerpo; Yuka refina Garden menor con descanso, sin nueva duración o doma. Gojo practica Blue modesto repetido sin100% anunciado; Mini Ciel observación no automatismo de maestría. Gris salvo Yuka, secuelas antiguas y origen/especie/fertilidad desconocidos. Torre/corazón conocidos; CielB no archivoA automático, vessel todavía sin confesión. Frieren amiga/maestra/Mum de Ori; Ori compás. Momo tuvo ocio, Fern tiempo con Frieren, Bocchi banda y vínculo de hermana, Mai/taller sin volver a combate. DIO/refugio/Ashborn/Monarch siguen planificados, no hechos.
+Hollis menciona **dos reportes de openings más allá de su ruta**: uno procede de alguien que vio el lugar; el otro es un relato indirecto. Del más cercano se dice que entró una party y Hollis pidió confirmación de su regreso. Esa respuesta sigue pendiente. No convertir el silencio en destrucción o resolución automática.
 
-**Cotejo de frase V40#4:** fabricación inicial S7E16CH01 y prueba S7E17CH01 ya incluían ajustes/ensayos de agarre. Se precisa sólo el recuerdo de Mau para no sugerir que jamás se probó: el fallo nuevo aparece tras meses de trabajo/desgaste. No se modifica ningún capítulo de V39 o anterior ni cambia el resultado de la devolución.
+### Expedición de Day845
+
+Grupo: **Frieren, Fern, Stark, Yuka y Mau**. Rimuru se queda en casa. El día anterior acordaron posiciones, señales, retirada, comida y agua. La gate es azul y ordinaria: no hubo dilatación temporal, nueva llave, modificación del Shop ni contacto con el Arquitecto.
+
+Vencen doce criaturas pequeñas de placas y un keeper mayor. Frieren lidera; Fern encuentra el blanco que ella indica; Stark usa su hacha C existente. Yuka alterna sus llamadas nativas y Blue: retira las llamadas antes de pasar a la operación prestada, y la cierra antes de volver a invocar. Mau contribuye con físico y Ruler's grip acotado. Nadie recibe un 100% completo o una técnica nueva por participar.
+
+Regresan el mismo día. No hay nuevos miembros perdidos, clínica larga o cura de lesiones antiguas. Frieren no encuentra un grimoire y conserva el libro que llevó; eso no invalida que haya disfrutado explorar.
+
+### Poderes, legión e inventario
+
+- **Mau: nivel116, 107 puntos retenidos, Intelligence440.** Ganó un nivel y cinco puntos por el clear. No gastó puntos; las mejoras físicas previas siguen siendo permanentes.
+- **Legión: 377 ordinarias + 16 nombradas = 393.** Las trece extracciones proceden de las criaturas derrotadas en esta gate. Se registran como ordinarias, sin nombre ni una habilidad extraordinaria gratuita. Mahoraga permanece aparte del censo de Monarch shadows. No hubo promoción colectiva a Prime.
+- **Cristales: 285 pequeños usables + 4 pylon + 6 recompensas mayores de fuentes distintas.** El clear añade37 pequeños y uno del keeper a los248 pequeños y cinco mayores anteriores. El pequeño gastado en el ensayo de lámpara de Day831 sigue separado y agotado: no regresa a la venta o combustible disponible.
+- Placas recién recuperadas: en espera de examen, separadas del material trabajado. No se vendieron ni comprometieron como equivalentes a las del Warden.
+- Dos Dragon's Wrath y katana de Mau conservadas. Stark conserva hacha C y hacha anterior. Ningún buff de equipo se convierte en puntos físicos permanentes de su usuario.
+- Yuka: siete familias nativas, Chimera Shadow Garden previamente desarrollado y regalo Limitless permanente/autónomo con fuente Mau. No nueva doma o duración de dominio durante esta salida.
+- Gojo: el bloque anterior mostró precisión y transiciones de Blue modesto repetibles; no declaró restitución completa. Mini Ciel ayuda a observar y escoger atención, sin automatizar toda la maestría.
+
+### Vínculos y espacios
+
+Our Year está con Mau y contiene ahora el pequeño recuerdo del camino de Day823. Two Beginnings está con Yuka. En Day824 compartieron una tarde y hablaron de privacidad, convivencia y cómo acompañarse en días difíciles. No decidieron mudarse: Mau mantiene su cuarto con el loft de Rimuru y Yuka el suyo.
+
+Yuka tiene19 años. No hubo sexo, embarazo o compromiso de matrimonio. La especie, edad biológica y fertilidad de Mau siguen desconocidas. La visión gris salvo Yuka y sus secuelas antiguas permanecen.
+
+Frieren es amiga y maestra de Mau, y Mum de Ori; Ori conserva el compás. No se importaron promesas románticas de A a la excursión de B. Fern tuvo tiempo con ellas; Momo disfrutó ocio mientras otros cocinaron. Bocchi trabajó con su banda y compartió música con su hermano elegido. Mai participa en el taller y vida familiar sin obligación de regresar al combate. Gojo/Shoko mantienen cercanía además de su relación médica.
+
+La última escena de Day846 conserva a Umaru, Taihei y Mau ayudándose, antes de que Yuka vaya a buscarlo para el rato que habían acordado. Roof, crackers, brujas, Witch Hat y los demás vínculos siguen vigentes aunque no hayan encabezado este bloque.
+
+### Información que todavía no se compartió
+
+La casa conoce la torre y el segundo corazón por la confesión anterior. Los humanos actuales de B todavía no han oído todas las palabras exactas del Arquitecto ni la hipótesis recurrente de Mau sobre ser un vessel. El recuerdo de Day817 produjo una pausa y compañía; no prueba una posesión nueva. Ciel B no recibe automáticamente las memorias privadas de A.
+
+DIO vulnerable y su refugio, Ashborn real como huésped y Meet the Monarch siguen en planificación, no ocurrieron en estos capítulos. Las condiciones antiguas de la llave —esperar y llevar acompañantes— se conservan. Falta cotejar el día anual elegido de Mau y el contador antes de asignar fechas absolutas al cumpleaños/apertura.
+
 
 ## Continuación
 
-Recibir respuesta real de los posibles clientes y carta de roadkeeper antes de prometer calendario/entrada. Resolver precios/capacidad/materiales en taller y casa, no convertir consultas en ocho ventas en el siguiente salto. Continuar escenas de evolución/recuperación con fichas individuales verificadas y vínculos que siguen durante avances del mundo. Abrir refugioDIO sólo después de construir llegada y consentimiento; aún no escribir fiestaMau/Trial sin calendario y kit. Las escenas laterales no necesitan longitud fija.
+Continuar fabricación, prueba y entrega de las dos primeras piezas antes de registrar ingresos. Dar seguimiento al primer uso de la carta y a los reportes exteriores, evitando capítulos repetidos sólo de papeles. Intercalar pareja, familia y recuperación/evolución con referencias individuales comprobadas; Yuta, Shoko/Gojo, las brujas y Witch Hat conservan vínculos y deseos propios. El espacio crece después de dibujos y decisiones, no por una población arbitraria. La llegada vulnerable y el consentimiento de DIO deben construirse antes de usar su refugio como precedente para Ashborn. Proseguir los meses con calendario y tamaños flexibles: V40 no termina por llegar a16 capítulos.

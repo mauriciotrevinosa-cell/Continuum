@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 41
 **Season:** 7
-**Coverage:** S7E62–S7E69 (in progress)
+**Coverage:** S7E62–S7E71 (in progress)
 **Volume title:** **The Life He Chose** (provisional)
-**Chapter files:** 16
+**Chapter files:** 20
 
 Continuation of the approved scene skeleton through the birthday, Monarch trial, return and its immediate aftermath. A chapter batch or volume boundary is not a new stop for creator permission. Drafts remain subject to review.
 
@@ -31,3 +31,7 @@ Continuation of the approved scene skeleton through the birthday, Monarch trial,
 | 14 | S7E68 | Arise | `THE_ARRIVALS_S7E68_LN_CHAPTER_02_ARISE_v0.1.md` |
 | 15 | S7E69 | What Do You Want | `THE_ARRIVALS_S7E69_LN_CHAPTER_01_WHAT_DO_YOU_WANT_v0.1.md` |
 | 16 | S7E69 | An Answer of His Own | `THE_ARRIVALS_S7E69_LN_CHAPTER_02_AN_ANSWER_OF_HIS_OWN_v0.1.md` |
+| 17 | S7E70 | Beru, Help | `THE_ARRIVALS_S7E70_LN_CHAPTER_01_BERU_HELP_v0.1.md` |
+| 18 | S7E70 | All I Could | `THE_ARRIVALS_S7E70_LN_CHAPTER_02_ALL_I_COULD_v0.1.md` |
+| 19 | S7E71 | What He Heard | `THE_ARRIVALS_S7E71_LN_CHAPTER_01_WHAT_HE_HEARD_v0.1.md` |
+| 20 | S7E71 | The Other Chair | `THE_ARRIVALS_S7E71_LN_CHAPTER_02_THE_OTHER_CHAIR_v0.1.md` |

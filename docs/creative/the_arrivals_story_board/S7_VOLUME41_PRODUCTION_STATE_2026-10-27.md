@@ -22,20 +22,24 @@
 | 14 | S7E68 CH02 | B+1finassessment | 4musicians+centraldestruidos, campo libera;Arise17ordinary→1013, daño frescocomienzarepair y transicióninmediata. |
 | 15 | S7E69 CH01 | B+1encuentro | Ashbornreal niega pedirvessel, Noise pidepermiso, Maupreguntasuvoluntad y ofrecerefugio. |
 | 16 | S7E69 CH02 | B+1elección | Huéspedvoluntarioacepta cuarto2, giftcopyseparada1→1014total, registroautorizadoaceptadonoabierto;no3heart/ejércitooriginal. |
+| 17 | S7E70 CH01 | B+1expulsión/regreso | Arquitectointerpretamal invitado, amenaza parcial;sombras/gearretained, puerta desaparece/normalvuelve/caeMau,Berurescata. |
+| 18 | S7E70 CH02 | B+1descanso/noche | Registroautorizado adaptadomuerte/despertar, sin destinofatal;MauwakeYuka:I didallIcould/Icansee. |
+| 19 | S7E71 CH01 | B+2tarde | Informecasa amenaza/guest/gift antesdeanillo, hechodiferentedeinferencia, tareascompartidasnocárcel. |
+| 20 | S7E71 CH02 | B+3 | RecuperaciónvidaDIO/Ashbornconconsent, RimuruYukaacompañan;MauabrebodaTrial, no propuestahecha. |
 
 ## Estado actual
 
-**Salida: V41#16/B+1, huésped Ashborn voluntario aceptado; vuelve percepción del templo.** Prosa sigue al regreso/aftermath, no detener en encuentro.
+**Salida: V41#20/B+3, recuperación en casa; empieza conversación sobre boda delTrial.** No parar antes de despedida/propuesta-entry previstas.
 
-13: restantes11wardens derrotados porfísico/táctica,4musicians+central quedan.14: cuatro y central se destruyen,17anchors terminados, interfaz libera campo antes de cualquierArise/RCT.17trazas animadas extraíbles (adaptación aprobada) levantadas y ordenadas acontener/proteger,no perseguir. Legión**997ordinarias+16nombradas=1013**, Mahoraga separado. No XP/level/currency de Trial todavía. RCT empieza lesiones frescas, lado/wristfatigados; transición inmediata nohoras sincurar.
+17: Arquitecto detecta firmaAshborn pero no consentimiento; creevesselvaadespertarmonarca. Mau/Ciel oyen sólofragmentos everything/vessel/giveup y frasefinal;no reddeMakima.17constructos recogidosantesdeexpulsión,gift y arsenal retenidos. Puertaentrada desaparece sinaviso, normalgate/Shopnuevasoperaciones vuelven, portalgrande cielo devuelveMauamistoso,sinhostil/armaatraviesaamparo. Beru emparejacaída y desacelera, Cielrelayretorna porhosts, no vozpública nueva.
 
-15–16: Ashborn real antesRest con sucesorelegido, no ordenó vaciarMau. Noise analiza, Ashborn pide límites, Mau/Ciel hacen pedir permiso; permanece autonomía. Inspecciona cuarto2preparado vacío, conoce límites y acepta descanso sin mando sobre cuerpo o obligacióncombatir. No terceraalma-corazón, no originalarmy robado aJinwoo. Gift1sentinelcopy separada/unranked/no nombre impuesto. **Total1014=997ordinary+16named+1giftcopy**. Huésped Ashborn no soldado. Registro autorizado de decisión/muerte-despertar ofrecido/aceptado aparte de interfaz, aún no visto. Frases/puesta son adaptaciónArrivalscreador, no tardíofuente fingida.
+18: registro separado autorizadoAshborn, adaptaciónnúcleomuerte/despertardeJinwooelecciónno destinoMau; no commliveSung o capítuloscanon tardíos afirmadosleídos. Mau despierta conYuka y frases exactas delcreador. Daño moderado deestatuas/agotamiento, parteRCT/medicohareparado, side/wristrequieren reposo; no nuevadedo/ojo/miembro perdido o curasviejas. Scarfvuelveabrigarlo. Doshearts, huéspedconsentido sin cambiohostil.
 
-Mau vuelve altemplo con nuevas lesiones delcombate: cortes/contusioneslado/wrist, brazo/legstrain; sin miembros/ojos/dedos perdidos o viejos curados. Ciel local acompañó todo y relayvolverá al salir; fuera pasótiempo ordinario, nofactorroja. FueraYuka/Gojo/Yuta/Rimuru/Maki/Shoko/Frieren tienenfunciones, nounapila llorando. DIOcasa físicaprotegida, celda1privada vacía, Ashborn celda2,no admissionbypass pues encuentro conMonarch erafasedelArquitecto postassessment.
+19: conversación seguridadB+2 antes de secretoanillo. Casa conoceguestconsent/gift/registro a nivelnecesario, amenaza parcial y distinciónhechos/inferencia; Cielcorroborasóloobservado. Nadie fuerzahospedadoaexhibirse. Compartentareas sinconfinamientoMau o obligarloa resolverantesdehablar.20: vida/recuperación, DIOacuerdaregresoacelda1,Ashbornquietocelda2; sentinelcopyguardado/sinrango, no battleexhibición. Yukaacompaña sinserúnicacuidadora, Rimuruloft/cuartosseparados.
 
-Base126/57held/Int460;603small4pylon12boss. Yuka19/8familias/Limitlessautónomo sigue,cuartosseparados/grey/oldscars. Scarf conMaki. Se debe declarar amenaza parcialoída despuésdevolver; secreto posterior anillo, no intento de destruir casa. No propuesta de matrimonio hechaaYuka.
+Estado:126/57held/Int460; **1014legión=997ordinary+16named+1giftcopyseparada**; Mahoaparte, Ashborn yDIO no soldados.603small4pylon12boss, ningúnbonusXP/moneda/cristal deTrialadjudicado ni puntosborradosporcierre. No bodas/embarazo/sexo/move,cancerprivado noexpuesto. Yuka8familias/LimitlessautónomofinanciadoMau aúnvigentes. Protecciónfija/DIOalive/copiesnoinvulnerabilidaduniversal. BodaTrialno cuarta timeline o FrierenBviuda; seprocesa próximoantesdeanillo.
 
 
 ## Continuación
 
-Mostrar inferencia equivocada deArquitecto, amenaza parcialoída y expulsión, recuperar todas las sombras/itemsguardados; caída amistosaautorizada no ataque atravesandoprotección, Beru igualavelocidad. LuegoShoko/Ciel, registroautorizado y despertarconYuka;informar amenaza antes del secretoanillo.
+Completar conversación y despedida del recuerdo de boda delTrial sin atribuirlo aFrierenB, y preparar anillo conMai/familia respetando sus decisiones y pactos reales. Terminar el esqueleto con ese aftermath, no detenerse en regreso aislado.

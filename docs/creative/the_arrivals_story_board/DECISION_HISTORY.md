@@ -2383,3 +2383,7 @@ V41#9–12 preservan opciónreal de quedarse antes de coacción, scope local de 
 ### S7 — V41#13–16, ejecución continua, 2026-10-27
 
 V41#13–16 desarrollan combate con funciones y daño proporcionados al cuerpoactual, sinCTbypass o nerf de stats;17constructos levantadosdespués de finfase. AshbornrealantesRest eligequietud/condiciones recíprocas, regalaseparado no armycompleto/posesión.1014total(16named997ordinary1gift), huéspedaparte. Registro autorizado noadminhostil. El lector y casa aún no reciben cierre hasta regreso/after; se sigue sin pedir aprobación.
+
+### S7 — V41#17–20, ejecución continua, 2026-10-27
+
+V41#17–20 cumplen caída/Beruyfrasesdelcreador, recursos/legiónintactos, registroconsourceconsent distinta deinterfazhostil. Amenaza no queda escondida bajo secreromántico; casa conoce límites antes de preparar sorpresa. Daño más acotado quetorre/recuperaciónnatural. Se sigue bodaTrial/anillo-entry conforme plan, sin bodasfuturas inventadas o pausa de nuevoverde.

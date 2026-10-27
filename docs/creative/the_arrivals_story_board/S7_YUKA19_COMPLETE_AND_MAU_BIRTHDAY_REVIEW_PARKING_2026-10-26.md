@@ -1,5 +1,7 @@
 # S7 — Cumpleaños de Yuka completado; siguiente tramo pendiente de Mauri
 
+> **Nueva planificación recibida — 2026-10-26:** cumpleaños deMau, reunión y cambio coercitivo de reglas hacia el Trial delArquitecto. **Ashborn real antes deldescanso, huésped voluntario**, porrespuesta directa delcreador; sustituye la antigua duda sobre sunaturaleza. [Mensaje íntegro](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md) · [Integración y conversación propuesta](S7_MAU_BIRTHDAY_MONARCH_TRIAL_INTEGRATION_2026-10-26.md). No hayprosa nueva después deV39#20/Day808 ni cambia suestado de salida.
+
 **Estado vigente: DETENER LA PROSA DESPUÉS DE V39#20 / S7E45CH02 / Day808 por la noche.** El creador pidió llegar al cumpleaños de Yuka, presentar lo previsto para el de Mau y esperar sus instrucciones sobre el resto. No escribir Day809, V40, la bendición, el cumpleaños de Mau o Meet the Monarch apoyándose en autorizaciones generales anteriores.
 
 [Instrucción íntegra](S7_UNTIL_YUKA19_AND_VESSEL_TRAUMA_CREATOR_DIRECTION_2026-10-26.md) · [Índice de V39](../THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Registro de producción](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md) · [Plan global anterior, revisable](S7_CONSOLIDATED_SCENE_TIME_AND_VOLUME_SKELETON_FOR_REVIEW_2026-10-26.md).

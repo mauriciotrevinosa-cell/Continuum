@@ -1,5 +1,7 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
+> **Nueva planificación recibida — 2026-10-26:** cumpleaños deMau, reunión y cambio coercitivo de reglas hacia el Trial delArquitecto. **Ashborn real antes deldescanso, huésped voluntario**, porrespuesta directa delcreador; sustituye la antigua duda sobre sunaturaleza. [Mensaje íntegro](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md) · [Integración y conversación propuesta](S7_MAU_BIRTHDAY_MONARCH_TRIAL_INTEGRATION_2026-10-26.md). No hayprosa nueva después deV39#20/Day808 ni cambia suestado de salida.
+
 > **ALCANCE CUMPLIDO — PROSA DETENIDA:** V39#20/Day808 noche, 19 deYuka y primeraniversario completos. No escribir809/V40/cumpleMau/Monarch hasta decisión delcreador. [Parking yplanporrevisar](S7_YUKA19_COMPLETE_AND_MAU_BIRTHDAY_REVIEW_PARKING_2026-10-26.md). S7 noestácerrada; esta parada sífue pedida.
 
 > **Estado activo V39#20 — 2026-10-26:** Day808 noche: cumpleaños19 y primeraniversario completos; PROSA POSTERIOR DETENIDA POR INSTRUCCIÓN DELCREADOR. [Registro vivo V39](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Los checkpoints conservados abajo son históricos. Límite nuevo: escribir hasta el19 deYuka y consultar cumpleañosMau/resto.

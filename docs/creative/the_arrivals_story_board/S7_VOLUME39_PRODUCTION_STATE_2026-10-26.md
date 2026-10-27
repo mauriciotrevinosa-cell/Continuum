@@ -1,5 +1,7 @@
 # S7 — Volume 39: producción, relaciones y continuidad
 
+> **Nueva planificación recibida — 2026-10-26:** cumpleaños deMau, reunión y cambio coercitivo de reglas hacia el Trial delArquitecto. **Ashborn real antes deldescanso, huésped voluntario**, porrespuesta directa delcreador; sustituye la antigua duda sobre sunaturaleza. [Mensaje íntegro](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md) · [Integración y conversación propuesta](S7_MAU_BIRTHDAY_MONARCH_TRIAL_INTEGRATION_2026-10-26.md). No hayprosa nueva después deV39#20/Day808 ni cambia suestado de salida.
+
 > **ALCANCE CUMPLIDO — PROSA DETENIDA:** V39#20/Day808 noche, 19 deYuka y primeraniversario completos. No escribir809/V40/cumpleMau/Monarch hasta decisión delcreador. [Parking yplanporrevisar](S7_YUKA19_COMPLETE_AND_MAU_BIRTHDAY_REVIEW_PARKING_2026-10-26.md). S7 noestácerrada; esta parada sífue pedida.
 
 **Estado:** borrador de producción, revisión del creador pendiente. V38 está cerrado como borrador; S7 sigue abierta y su continuación está autorizada. [Índice lector](../THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Estado completo heredado de V38](S7_V38_CLOSE_AND_V39_ENTRY_2026-10-26.md) · [Plan global revisable](S7_CONSOLIDATED_SCENE_TIME_AND_VOLUME_SKELETON_FOR_REVIEW_2026-10-26.md). Nada en este registro convierte objetivos futuros en hechos ya producidos.

@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Nueva planificación recibida — 2026-10-26:** cumpleaños deMau, reunión y cambio coercitivo de reglas hacia el Trial delArquitecto. **Ashborn real antes deldescanso, huésped voluntario**, porrespuesta directa delcreador; sustituye la antigua duda sobre sunaturaleza. [Mensaje íntegro](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md) · [Integración y conversación propuesta](S7_MAU_BIRTHDAY_MONARCH_TRIAL_INTEGRATION_2026-10-26.md). No hayprosa nueva después deV39#20/Day808 ni cambia suestado de salida.
+
 > **ALCANCE CUMPLIDO — PROSA DETENIDA:** V39#20/Day808 noche, 19 deYuka y primeraniversario completos. No escribir809/V40/cumpleMau/Monarch hasta decisión delcreador. [Parking yplanporrevisar](S7_YUKA19_COMPLETE_AND_MAU_BIRTHDAY_REVIEW_PARKING_2026-10-26.md). S7 noestácerrada; esta parada sífue pedida.
 
 > **Producción activa S7 — V39#1–20, 2026-10-26:** Cumpleaños19 y primeraniversario completos: regalo permanente conocido, fiesta de la casa y cena conel mapa queYuka hace de suaño. Detenida la prosa posterior como pidióelcreador, para discutir el cumpleaños deMau. [Índice V39](../THE_ARRIVALS_LN_VOLUME_39_INDEX_v0.1.md) · [Estado y continuación](S7_VOLUME39_PRODUCTION_STATE_2026-10-26.md). Producción sólo hasta19Yuka; después decisión delcreador.

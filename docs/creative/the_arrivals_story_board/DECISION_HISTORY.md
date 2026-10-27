@@ -2314,3 +2314,11 @@ Primeros4V39guardanprogreso/traumaenescenas,noresumendecanal perfecto/yukayaallC
 ### S7 — alcance19Yuka cumplido, STOP solicitado, 2026-10-26
 
 V39cierra20/Day808noche, cumpleaños19/aniversario hechos. No seasoncomplete; nuevaordenprosa posterior seespera. [Parking/planesMau](S7_YUKA19_COMPLETE_AND_MAU_BIRTHDAY_REVIEW_PARKING_2026-10-26.md). Lasautorizacionesgenerales/checkpointsviejosnodebenreabrirestealcanceporautocontinue.
+
+### S7 — cumpleaños de Mau y Trial del Arquitecto: propuesta nueva, 2026-10-26
+
+[Mensaje íntegro](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md) · [Integración](S7_MAU_BIRTHDAY_MONARCH_TRIAL_INTEGRATION_2026-10-26.md). Nuevo orden: grupo preparado, cumpleaños/charla de matrimonio, Maki insiste denoche, reunión, Mau acepta noentrar, Arquitecto cambia condiciones ypresiona, decisión deentrada honesta, solooperador, estatuas/manos yArise trasfase, Ashborn/retorno/recuperación, luego despedida de boda delTrial/propuesta aúnporplanear. No reescribir llave como castigadora desdeelinicio. NuevoTrialArquitectono reactivaTrialDiosa; segundo favorDIOsiguesiendorefugio.
+
+Respuesta directa delcreadorresuelveantigua incógnita: **Ashborn real antesdel descanso; huésped voluntario**. Copia-sombra separada/regalo no sualma esclavizada ni todo ejército original. No decidir que una supuesta posesión sea verdad porque elArquitecto lainfiere. MiedoMau y palabrassonpreviosal encuentro;bloqueo/reglas/secuencia nuevos debenocurrir enescena.
+
+Este checkpoint guarda planificación y suspropuestas de mecanismos, no capítulos nuevos. V39#20/Day808 continúa como salida deproducción y sus1348archivos permanecen íntegros. Coacciónnoborra cultivos/comercio/puntospermanentes; hacer distinguible lo sabido de lo inferido. Elsecretoromántico futuro puede ser elanillo, noocultar alacasa una amenaza contra susvidas.

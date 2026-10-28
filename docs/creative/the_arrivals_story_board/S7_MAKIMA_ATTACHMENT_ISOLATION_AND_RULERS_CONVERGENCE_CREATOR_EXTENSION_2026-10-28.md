@@ -60,3 +60,18 @@ Este avance amplía el tablero; no sustituye la familia como centro emocional ni
 ## Continuidad y estado
 
 Se cotejaron [salida actual de V41](S7_MONARCH_ARC_COMPLETED_AND_CONTINUITY_HANDOFF_2026-10-27.md), [estado de DIO y amparo en V40](S7_V40_CLOSE_AND_V41_ENTRY_2026-10-27.md) y [propuesta anterior íntegra](S7_GROWING_CONTINENT_CONVERGENCES_AND_FACTION_BOARD_CREATOR_PROPOSAL_2026-10-28.md). La autoría de la manipulación antigua sigue siendo conocimiento de planificación hasta construir pruebas en escena. No lectura de material sellado, no retcon de capítulos, no nueva producción. Pendientes: acceso de Makima, contrato de regeneración, reglas Noise, regulación de convergencias, alcance y firmantes del pacto, versiones/duplicados y lista de llegadas.
+
+
+## Nueva entrada propuesta por el creador: procedencia compartida y vigilancia
+
+**Mensaje íntegro, 2026-10-28:** «uuuuuuu y que la entrada de makima puede basarse en que ella dice ser que es de donde mau viene fuaaa soy un genio pq makima puede ver todo si mal no me equivoco esto nos da que ella puede saber info confidencial y decir las cosas correctas».
+
+Makima **afirma** venir de donde viene Mau; no se fija que eso sea verdad. Es una vía de confianza emocional y verosimilitud de su historia, no solución automática a la admisión física bajo el amparo. El motivo puede resonar con su experiencia de ser alguien extraído de otra vida, sin convertir su especie desconocida en humana por inercia.
+
+Fuente cotejada ahora: `C:/ContinuumVault/Chainsaw Man/manga/Chainsaw-Man-part-13.zip`, `Ch0061/015–017.webp`. Kishibe escribe advertencias porque Makima está escuchando. Eso respalda vigilancia fuera de su presencia física, **no omnisciencia ni lectura de pensamientos**. También se inspeccionó `part-11.zip`, `Ch0052/007–010` (010PNG), con aparición a partir de ratas; esa escena no demuestra por sí sola que toda percepción visual de cualquier animal sea suya. No se auditó aquí la fórmula completa ni alcance universal de vigilancia, y no se fija una capacidad nueva a partir de ese hueco.
+
+Propuesta editorial: construir una cadena visible para el autor de cada dato utilizado —conversación escuchada, testigo, documento, observación— y elegir detalles que Mau haya expresado en un lugar accesible. Ella mezcla esos datos reales con una procedencia inventada y deja que él aporte más al sentirse comprendido. Un dato confidencial para la casa puede haber sido espiado; un recuerdo nunca dicho no lo conoce por decreto. No acceso automático a Ciel, Noise, huéspedes o comunicación mental privada.
+
+Auditar la reacción de quienes puedan conocer a Makima/Chainsaw Man, incluido el conocimiento previo de Mau sobre franquicias si la continuidad lo establece. No volver irreconocible a una figura que él ya identificaría sólo para que funcione el engaño; apariencia, presentación y coartada requieren preparación, no nombre falso suficiente. No leer material sellado para resolver identidades.
+
+Más tarde, una referencia cuya procedencia no coincide con su historia puede convertirse en la pista elegida del creador. El acceso al perímetro, los medios de escucha que atraviesan o no el amparo, extracción y límites de Control siguen por resolver. Espionaje no se usa como excepción tácita a la protección. La propuesta queda guardada para desarrollo; no infiltración ya ocurrida.

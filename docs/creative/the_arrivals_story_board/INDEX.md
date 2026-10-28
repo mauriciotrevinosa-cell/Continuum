@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Nueva dirección conceptual — 2026-10-28:** [Dominios híbridos después deAshborn: guía íntegra, auditoría y accidente de entrenamiento](S7_HYBRID_DOMAIN_POST_ASHBORN_AUDIT_AND_TRAINING_CREATOR_DIRECTION_2026-10-28.md); [referencia externa completa](S7_HYBRID_DOMAIN_EXTERNAL_REFERENCE_COMPLETE_2026-10-28.md). Desarrollo desde capacidades reales, mesa JJK, fallo cerebral por combinación. [Makima: nueva coartada de procedencia compartida y vigilancia](S7_MAKIMA_ATTACHMENT_ISOLATION_AND_RULERS_CONVERGENCE_CREATOR_EXTENSION_2026-10-28.md#nueva-entrada-propuesta-por-el-creador-procedencia-compartida-y-vigilancia). No desbloqueos o capítulos nuevos.
+
 > **Ampliación conceptual — 2026-10-28:** [Makima, aislamiento afectivo, llegadas aceleradas y acuerdo con Rulers](S7_MAKIMA_ATTACHMENT_ISOLATION_AND_RULERS_CONVERGENCE_CREATOR_EXTENSION_2026-10-28.md). Mensaje íntegro: miedo a ser amado por temor, manipulación también de la casa, recuperación conjunta; convergencias en escalada y candidatos Tensura. Sin capítulos nuevos; regulación/acceso/contratos/firmantes por desarrollar.
 
 > **Propuesta de continente y facciones — 2026-10-28:** [Mensaje íntegro y lectura de continuidad](S7_GROWING_CONTINENT_CONVERGENCES_AND_FACTION_BOARD_CREATOR_PROPOSAL_2026-10-28.md). Continente creciente, ciudades fragmentadas, motivos distintos y Makima/infiltración/copiador por desarrollar. No plan cerrado ni capítulos nuevos: duplicación, acceso al amparo y contratos siguen pendientes; V41#28 conserva la salida escrita.

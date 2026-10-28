@@ -2421,3 +2421,8 @@ Se conserva [el mensaje completo](S7_GROWING_CONTINENT_CONVERGENCES_AND_FACTION_
 ### Ampliación del creador: Makima y convergencias, 2026-10-28
 
 [Mensaje íntegro y desarrollo separado](S7_MAKIMA_ATTACHMENT_ISOLATION_AND_RULERS_CONVERGENCE_CREATOR_EXTENSION_2026-10-28.md). Makima fomenta dependencia e interpreta hechos para hacer que Mau tema que la casa/Yuka lo quieren por miedo; familia también manipulada, muerte/regeneración y recuperación conjunta propuestas. Noise como posible amplificador requiere mecanismo sin borrar confianza previa. Grupo→pueblo→ciudad→territorio por descontrol de llegadas; negociación con Rulers para seguridad territorial de DIO y estabilización, con Veldora/Guy/Tempest/otro True Dragon candidatos. No cambios a protección, llegadas, contratos o prosa por registrar ideas. Sin autorización de capítulos nuevos.
+
+
+### Intake: dominios híbridos posteriores aAshborn y coartada Makima, 2026-10-28
+
+Se conserva [recopilación externa íntegra](S7_HYBRID_DOMAIN_EXTERNAL_REFERENCE_COMPLETE_2026-10-28.md) con procedencia/hash y [mensajes directos más auditoría](S7_HYBRID_DOMAIN_POST_ASHBORN_AUDIT_AND_TRAINING_CREATOR_DIRECTION_2026-10-28.md). Creador aclara resumen incompleto, propone mesa con conocedoresJJK posterior aAshborn y fallo cerebral grave durante entrenamiento al abrir uno/otro/otro e intentar combinarlos. Concepto no se descarta, errores de fuente no se vuelven canon. Makima puede afirmar origen compartido y usar vigilancia/datos; añadido íntegro en su nota. Lecturas primarias visuales registradas, no omnisciencia, nuevos dominios ya logrados o bypass del amparo.1413capítulos intactos.

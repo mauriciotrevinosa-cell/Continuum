@@ -5,7 +5,7 @@
 **Volume:** 38
 **Reading order:** 23
 **Source episode:** S7E31
-**Continuity state:** Day625 late afternoon, roughly six months from443. YukaB voluntarily tells herown historical cancer/brain tumour/sixmonthprognosis/resolvedbeforeextraction; no current disease/cure invented. Mau knowsA disclosure but listens toB questions without completing/correctingher, permission before partialrepeat. Ciel/shadows not automaticlisteners/relay. No sex/pregnancy/medicalguarantees/newheartdiagnosis. Exactvesselfear stillnotdisclosed.
+**Continuity state:** Day625 late afternoon, roughly six months from443. YukaB voluntarily tells herown historical cancer/brain tumour/sixmonthprognosis/resolvedbeforeextraction; no current disease/cure invented. Mau knowsA disclosure but listens toB questions without completing/correctingher, permission before partialrepeat. Ciel/shadows not automaticlisteners/relay. No sex/pregnancy/medicalguarantees/newheartdiagnosis. Exactvesselfear stillnotdisclosed. Added quiet coda after the entire cancer conversation: Yuka first explicitly learns she alone is in color since arrival. Mau normalized it/assumed she knew after checkups, not deliberate concealment. His last-color/dark thought is only speculation; he acknowledges exception predates convergence. Ciel already knows, no new public disclosure/relay/diagnosis or color cure.
 
 *When: Day625, late afternoon. The place Yuka chooses has room for two cups and no reason for anybody else to come looking for a tool.*
 
@@ -220,3 +220,81 @@ He nodded.
 She kissed him, slowly enough that the afternoon did not become something he had already finished remembering.
 
 When she rested against him again, he held the woman who had chosen to tell him here.
+
+* * *
+
+The cups stayed where they were.
+
+Yuka had stopped trying to find the next difficult thing to say. She sat against him, listening to the yard, until Mau brushed his thumb lightly beneath her cheekbone.
+
+"You're going red again." ᴹ
+
+She caught his hand.
+
+"You can see that?" ʸᵏ
+
+"On you, yes." ᴹ
+
+Yuka lifted her head.
+
+"What do you mean, on me?" ʸᵏ
+
+He looked at her, then past her at the grass.
+
+It took him a moment to understand the question.
+
+"The rest is gray. You aren't." ᴹ
+
+Her fingers grew still around his.
+
+"Since when?" ʸᵏ
+
+"Since you arrived." ᴹ
+
+She searched his face for the joke. There wasn't one.
+
+"You never told me that." ʸᵏ
+
+Mau began to answer, then stopped. The clinic came back to him: Ciel asking what had changed, Shoko's lamp, the same leaves beyond the window. So many questions about his eyes that he had stopped separating the things he had explained from the things he simply lived with.
+
+"I told Ciel. We talked about the color problem in the checkups. I thought—" He looked back at her. "I think I just assumed you knew. It became normal to look at you and see you." ᴹ
+
+Yuka lowered his hand into her lap without letting go.
+
+"Why me?" ʸᵏ
+
+"I don't know." ᴹ
+
+He had wondered. More often in the first days, before knowing what she was going to say had become less interesting than hearing her say it.
+
+"Sometimes I wonder if it's something I held on to when everything went dark. The last bit of color." His thumb moved against hers. "But that's me guessing. I could already see you before the other memories came back. I don't know how those things would fit." ᴹ
+
+She looked toward the house. Then at her own hand in his, as though she might find the difference there if she looked carefully enough.
+
+"And you just got used to it?" ʸᵏ
+
+"I got used to not understanding it." ᴹ
+
+Yuka breathed out a small, unsteady laugh.
+
+He waited while she wiped beneath one eye with her free hand.
+
+"You could have mentioned it," she said. ʸᵏ
+
+"Yes." ᴹ
+
+"Preferably before using it to tell me I'm blushing." ʸᵏ
+
+"I'll remember that for the next inexplicable thing." ᴹ
+
+She laughed properly then, still close enough for him to feel it.
+
+For a little while she watched him looking at her. He let her, without trying to supply a reason which would make the mystery easier to carry.
+
+Then she leaned in and kissed him once more.
+
+The tea was cold. Someone near the kitchen was calling for the bowls to come back.
+
+Yuka took one cup, left him the other and held out her free hand.
+
+"Come on. We can take the long way." ʸᵏ

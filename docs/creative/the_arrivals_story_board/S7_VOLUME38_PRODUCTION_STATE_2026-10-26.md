@@ -28,7 +28,7 @@
 | 20 | S7E29 CH02 | Day596 mañana–tarde | Yukapidedominio,expertosdescomponenpasos;inspecciónconsentida acotada conparada probada. Mauprimerconstrucciónpersonal falla unión;noDEregaladoYuka. |
 | 21 | S7E30 CH01 | Day605 | Yuka elige tameToad sinMau enritual/loanBlue, Rabbit/Dogpropios+rope. Recallindependiente4familias, primeracargadebagdemasiadorápida;nohumanotodavía. |
 | 22 | S7E30 CH02 | Day614 | Mauframework pequeño6cuentas estable,compatibilidadmapaYuka ajustadaporsucontrol,inspecciónstop. EllaabreprimeraextensiónsinDE. Maumemoriaretira, Gojo/Rimuruacompañan. |
-| 23 | S7E31 CH01 | Day625 tarde | YukaBcuentacancerhistóricovoluntariamente, resueltopreextracción igualfuente. Maupregunta/escucha sincompletarla,noarchivopúblico/nuevacura. Guardaelecciónpresente. |
+| 23 | S7E31 CH01 | Day625 tarde | YukaBcuentacancerhistóricovoluntariamente, resueltopreextracción igualfuente. Maupregunta/escucha sincompletarla,noarchivopúblico/nuevacura. Guardaelecciónpresente. Coda posterior: Yuka aprende que sólo ella aparece en color desde su llegada; Mau asumió que sabía, hipótesis no diagnóstico. |
 | 24 | S7E31 CH02 | Day625 noche | Conversanfamilia/hijosfuturos,promesaA reconocidanobindingB. FertilidadMau desconocida,nopregnancia. Yutaoye nombres hipotéticos yprotestacómicamente,comprendeelección. |
 | 25 | S7E32 CH01 | Day626 mañana | M/YhablanconvivenciaconMaki/Yuta/Mai/Rimuru. LoftesdeRimuru,condiciónpermanecer;élpersonanovigilanciainstrumental. Yukaeligeesperarprivacidad,ningunamudanza. |
 | 26 | S7E32 CH02 | Day641 | Primertrialbrigadaencadenada,Mau/Ankoenruta;Igris/Beru/24viejos.64extraídosordinarios,111/82held,16+187=203.63small+1boss;trabajorealnorepartocadacomida. |
@@ -73,3 +73,7 @@ Roadgatecerrada570,3rescatadosconkinlocalnoresidentes. Roadkeepertrespuestos/car
 ## Continuación
 
 CrearV39sóloconprimerprosa. AbrirpruebasparalelasM/Y ydeeficiencia, tamesYukaaúnfaltanElephant/Serpent/Ox/Deer/Tiger,Mahoragafuturopendienteeligibilidad/noregalarnativeunclaimed. Escribirantesde794avancesconescenas ypuentes,gift19costedoble/autonomíausuario/controlapropiado.BigkitMau/GojoYutaMakirestauracióncompleta/mundofaccionesrefugioDIOpuedencontinuarluego19condecisióncreador,no forzartodoyaen94días. Vesselmiedolatente/nuevoepisodiodepánicopermitepausayhablar sinconfirmarposesión. Otrasvidasno desaparecen. Al808deteneryexplicarplanesMauanteriores+nota posibleconfesiónMaiMakiYuta,noprosacerradaporadelantado.
+
+## Conocimiento de la excepción de color — corrección 2026-10-27
+
+[V38#23 / Day625: revelación privada a Yuka y límites de conocimiento](S7_YUKA_COLOR_EXCEPTION_KNOWLEDGE_LOCK_2026-10-27.md). Coda añadida después de toda la conversación médica, preservada íntegra. Ciel ya sabía; los chequeos/confesión establecen problema general ante otros, no publicación automática de la excepción. Hipótesis de último color retenido no resuelve el misterio.

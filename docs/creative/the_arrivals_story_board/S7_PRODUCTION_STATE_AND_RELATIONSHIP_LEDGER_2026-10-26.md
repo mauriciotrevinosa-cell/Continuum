@@ -206,3 +206,7 @@ V37#1 y2–3 ya se publicaron por separado y ellector confirmó los tres sinadve
 ## Estado de la revancha revisada, Day949
 
 Gojo conserva gradientes/lente y campos coordinados como aplicaciones propias por seguir refinando. Mau no los copia en vivo: Ciel le pide integrar sus herramientas existentes. Un Exchange gastado, no repetido; Void propio insuficiente ante refinamiento Gojo; DA con CTpausada, RCT fresco, sin reset cerebral aprendido, BF garantizado o cura vieja. Recuperan equipo y todas las sombras llamadas, Mahoraga vivo; no puntos, XP o nuevos soldados. Suministros y roster posterior conservados. Detalle y mapa en la revisión enlazada arriba.
+
+## Conocimiento privado — color, V38#23 / Day625
+
+Yuka oye explícitamente por primera vez que sólo ella aparece en color, en la calma tras contar su cáncer. Mau lo normalizó y asumió que ella sabía después de los chequeos; no secreto deliberado. Ciel ya lo sabe desdeV35#29; para los demás sólo está confirmada la visión gris general, no la excepción por narración interna. No atribuir causa/cura a la hipótesis emocional que él propone. [Texto autorizado y mapa por personaje](S7_YUKA_COLOR_EXCEPTION_KNOWLEDGE_LOCK_2026-10-27.md).

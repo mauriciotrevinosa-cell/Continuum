@@ -1,5 +1,7 @@
 # The Arrivals — Floating / Unplaced Ideas
 
+> **Nueva ampliación del creador, 2026-10-28:** [aislamiento de Mau por Makima y control de convergencias con Rulers](S7_MAKIMA_ATTACHMENT_ISOLATION_AND_RULERS_CONVERGENCE_CREATOR_EXTENSION_2026-10-28.md). Diferenciar amor de utilidad/temor; la casa también manipulada. Refugio de DIO y llegadas aceleradas con pacto territorial por diseñar. Propuesta íntegra conservada, no sucesos ya escritos.
+
 > **Propuesta futura vigente para discusión, 2026-10-28:** [continente creciente, ciudades y facciones — texto completo](S7_GROWING_CONTINENT_CONVERGENCES_AND_FACTION_BOARD_CREATOR_PROPOSAL_2026-10-28.md). Desarrolla semillas de convergencia sin dar por ocurridas nuevas llegadas o habilitar infiltración a través del amparo. Pendiente diseño antes de escribir; no rehacer arcos ya resueltos de las notas históricas.
 
 > **New editorial proposal for creator feedback, 2026-10-16:** [concrete household reallocation with names](S5_HOUSEHOLD_REALLOCATION_EDITORIAL_PROPOSAL_2026-10-16.md). Creator confirms S5 residents are the main-house cast; proposed discontinuation of daily Arrival House operations releases Jinshi for daily records under Fern, with bounded checks from Nano, Anko's existing loot role and voluntary Rem/Seiko kitchen relief. The earlier Diablo reception shift is withdrawn. Not an approved appointment, in-world change or S5 prose greenlight.

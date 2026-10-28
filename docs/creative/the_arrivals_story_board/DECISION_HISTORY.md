@@ -2416,3 +2416,8 @@ El creador pregunta cuánto falta y qué recomendar después del material escrit
 ### Propuesta del creador: convergencias y tablero de facciones, 2026-10-28
 
 Se conserva [el mensaje completo](S7_GROWING_CONTINENT_CONVERGENCES_AND_FACTION_BOARD_CREATOR_PROPOSAL_2026-10-28.md) separado de inferencias editoriales. El creador desarrolla continente único creciente, llegadas de ciudades/territorios, decisiones de Rimuru y Qifrey, facciones con objetivos distintos y operación de Makima con entidad de miedo/copia. No se fija final, alianzas universales ni producción nueva. La infiltración exige resolver el amparo existente; ciudad-reserva y copia necesitan mecanismos. Ninguna prosa cambia.
+
+
+### Ampliación del creador: Makima y convergencias, 2026-10-28
+
+[Mensaje íntegro y desarrollo separado](S7_MAKIMA_ATTACHMENT_ISOLATION_AND_RULERS_CONVERGENCE_CREATOR_EXTENSION_2026-10-28.md). Makima fomenta dependencia e interpreta hechos para hacer que Mau tema que la casa/Yuka lo quieren por miedo; familia también manipulada, muerte/regeneración y recuperación conjunta propuestas. Noise como posible amplificador requiere mecanismo sin borrar confianza previa. Grupo→pueblo→ciudad→territorio por descontrol de llegadas; negociación con Rulers para seguridad territorial de DIO y estabilización, con Veldora/Guy/Tempest/otro True Dragon candidatos. No cambios a protección, llegadas, contratos o prosa por registrar ideas. Sin autorización de capítulos nuevos.

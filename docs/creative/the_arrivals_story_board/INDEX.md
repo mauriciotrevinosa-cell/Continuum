@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Conversación editorial sobre el horizonte — 2026-10-28:** [Opinión y mapa de hilos abiertos](S7_STORY_HORIZON_AND_OPEN_THREADS_EDITORIAL_REVIEW_2026-10-28.md). Revisión solicitada por el creador, no final fijado o aprobación de arcos nuevos. Sin capítulos nuevos: la salida sigueV41#28. Propuesta de converger lo existente y mantener repertorio estable sin escalada cósmica obligatoria.
+
 > **Acuerdo Mau/Mai y reservas en escena — 2026-10-28:** V40#7–9/814–816, después del6: oferta y pruebas del canal, tareas domésticas/avisos deMai, tres demandas y comparación de reservas por ejes. Fuente de maná inagotable detrás de acceso/cuerpo aún limitados, no CE/sombra infinitos o despertar total. Antiguos#7–32 pasan a#10–35; fechas/URLs previos intactos. [Dirección íntegra y continuidad](S7_MAU_MAI_CONSTRUCTION_SUPPORT_AND_RESERVE_AXES_2026-10-28.md).
 
 > **Punto lector corregido por el creador — 2026-10-28:** convivencia en **V39#5–6 / noche746→mañana747**, después deV39#4. Se conserva V39#1–4. Mau se muda al cuarto deYuka; Rimuru conserva loft/cuarto anterior. V39 ahora22capítulos y V40 vuelve a32; ambos conservan fechas y URLs previos. La ubicación inicialV40#5–6/812 queda sustituida, no son dos mudanzas. [Dirección y continuidad](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md).

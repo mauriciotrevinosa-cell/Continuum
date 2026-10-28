@@ -2407,3 +2407,7 @@ Mensaje íntegro: «donde pusiste los nuevos? no me digas que en vol 40 voy en v
 ### S7 — Soporte Mai y reservas por ejes después de V40#6, 2026-10-28
 
 Creador pide ofrecer CE y recibir coste físico deConstruction, Mai avisa siempre aunqueMau diga que no hace falta; tareas domésticas en vez de balas y seguimiento posterior. Tres escenas814–816 enV40#7–9, antiguos#7–32 pasan a#10–35 sin moverfechas/URLs. Comparación actualCE/Mana y fuenteBlackHeart inagotable distinta de acceso/cuerpo limitados, sin despertar completo o fusiónenergías. Callbacks817/819/831/856/pre-rematch/970 yV41#27 cambia antecedente no escrito por acuerdoB probado. [Mensajes completos y límites](S7_MAU_MAI_CONSTRUCTION_SUPPORT_AND_RESERVE_AXES_2026-10-28.md). Prosa previaal7 intacta; no puntos/legión/cristales nuevos por estas escenas.
+
+### Opinión solicitada: horizonte de cierre e hilos abiertos, 2026-10-28
+
+El creador pregunta cuánto falta y qué recomendar después del material escrito. Se revisan estado actual y semillas históricas, sin resultados de escenas futuras en la respuesta. [Revisión editorial](S7_STORY_HORIZON_AND_OPEN_THREADS_EDITORIAL_REVIEW_2026-10-28.md) separa planes/hilos/opciones; estimación orientativa no número aprobado, sin autorización de producción o final nuevo. Repertorio estable y convergencia de consecuencias, vida/círculo/familia antes de siguiente operación exterior y gran conflicto. No se modifican capítulos ni se iniciaV42.

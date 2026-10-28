@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Propuesta de continente y facciones — 2026-10-28:** [Mensaje íntegro y lectura de continuidad](S7_GROWING_CONTINENT_CONVERGENCES_AND_FACTION_BOARD_CREATOR_PROPOSAL_2026-10-28.md). Continente creciente, ciudades fragmentadas, motivos distintos y Makima/infiltración/copiador por desarrollar. No plan cerrado ni capítulos nuevos: duplicación, acceso al amparo y contratos siguen pendientes; V41#28 conserva la salida escrita.
+
 > **Conversación editorial sobre el horizonte — 2026-10-28:** [Opinión y mapa de hilos abiertos](S7_STORY_HORIZON_AND_OPEN_THREADS_EDITORIAL_REVIEW_2026-10-28.md). Revisión solicitada por el creador, no final fijado o aprobación de arcos nuevos. Sin capítulos nuevos: la salida sigueV41#28. Propuesta de converger lo existente y mantener repertorio estable sin escalada cósmica obligatoria.
 
 > **Acuerdo Mau/Mai y reservas en escena — 2026-10-28:** V40#7–9/814–816, después del6: oferta y pruebas del canal, tareas domésticas/avisos deMai, tres demandas y comparación de reservas por ejes. Fuente de maná inagotable detrás de acceso/cuerpo aún limitados, no CE/sombra infinitos o despertar total. Antiguos#7–32 pasan a#10–35; fechas/URLs previos intactos. [Dirección íntegra y continuidad](S7_MAU_MAI_CONSTRUCTION_SUPPORT_AND_RESERVE_AXES_2026-10-28.md).

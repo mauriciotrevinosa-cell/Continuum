@@ -2441,3 +2441,8 @@ Se conserva [recopilación externa íntegra](S7_HYBRID_DOMAIN_EXTERNAL_REFERENCE
 ### Cierre S7 — V42#1–5, 2026-10-28
 
 Verde directo de cierreS7 conservado íntegro, con aclaraciones: dos entrenamientos distintos; primero legióncompleta, Mai camina y Mau para instantáneamente a todos; luego combinación de dominios y recuperación. Primera llegada se guarda paraS8. V42#1–5 conserva1413previos, separa patrónRika de almaYuta y desarrolla combate real sin premios nuevos. Push parcial y continuar hasta pedida/afterdays, no final por volumen.
+
+
+### Cierre S7 — V42#6–10, 2026-10-28
+
+V42#6–10 completa combate real deMau contra1014, conBellion/Igris/Beru/Kamish yresto. Mai no lo domina niGojo corta: él la ve ymandaStop instantáneo. Agencia, coste, charla yplanes de vida. Intervenciones ycenareal antesdedibujo, no nuevaCatástrofe/XP. Todo previo conservado; push parcial yseguir.

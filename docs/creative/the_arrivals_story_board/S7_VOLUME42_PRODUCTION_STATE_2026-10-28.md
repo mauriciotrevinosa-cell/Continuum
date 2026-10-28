@@ -11,36 +11,43 @@
 | 3 | S7E75 CH01 | B+7 after lunch | Legion1014 assembled with mandos/dragoons and observers; all duty units accounted, full-force spar begins. |
 | 4 | S7E75 CH02 | B+7 continuous spar | Army channels owner through coordinated ground formations; sequential copies, grip and daggers, paid reconstructions; Kamish breath begins. |
 | 5 | S7E76 CH01 | B+7 continuous spar | Kamish genuinely pressures Blue/sky/flight; Bellion/Igris/Beru combined traps; fresh burn/nose impacts, no permanent losses; fight continues. |
+| 6 | S7E76 CH02 | B+7 spar continuous | Bellion controls tactics; Mau uses reconstructed katana form briefly, switches weapon bonuses correctly; costs/fresh cut, army still attacking. |
+| 7 | S7E76 CH03 | B+7 spar continuous | One Exchange and composed current arsenal/Purple on clear outward axis answer commanders/dragons; paid restoration, no new XP or loss. |
+| 8 | S7E77 CH01 | B+7 afternoon reset | Mai walks into basin; Mau sees her and immediately stops the entire army himself. She reaches him and asks what another round was for. |
+| 9 | S7E77 CH02 | B+7 same afternoon | Mai/Mau discuss vessel fear and ring/life choice, no cure decree. All units recalled intact; Shoko/Yuka approach for fresh-injury care. |
+| 10 | S7E77 CH03 | B+7 evening | Clinic check/dinner/ordinary house then two real ring drawings with Mai/Marin/Wakana. Shape chosen, no ring crafted; Yuka requests ordinary night together. |
 
 ## Current state
 
-**Checkpoint:** V42#1–5, B+7 afternoon, full-legion spar still underway. First five chapters begin the authorized season finale; not a close, not permission to stop after this push.
+**Checkpoint:** V42#1–10. B+7 evening, same continuous day after V41. Full-legion fight and Mai intervention complete. Continue training/ordinary days and proposal; this is not the season endpoint.
 
-## Scene and knowledge changes
+## Scenes and knowledge
 
-Mau slept in the shared room with Yuka and stayed despite vessel-related thoughts. They eat breakfast with the house. He tells Yuka/Yuta/Gojo what he wants to train and why, without claiming Ashborn wants possession. Yuka's existing McLaren hoodie, bracelet and ordinary personal choices remain.
+Current Yuta/Maki/Gojo/Shoko/Rimuru/Yuka saw the katana reconstruct one Rika-derived hand from Mau/Noise's retained pattern; the old A construct itself was dissolved. No soul/Rika of Yuta moved. Later spar uses the same reconstruction for interception and withdraws it before instability. No copied Yuta domain/full Copy unlocked.
 
-Current-branch Yuta, Maki, Gojo, Shoko, Rimuru and Yuka witness the Rika-derived pattern reconstructed through the returned katana. A construct from A was dissolved; blueprint retained. One hand catches Maki's practice pole, then withdraws, with CE/construction demand observed. No transfer of Yuta's Rika/soul; Yuta asks to see the work again and affirms it is not theft. No army count or full Copy/domain kit added by this demonstration.
+Legion1014 assembled and fights as an army. Bellion commands; Igris channels escapes; Beru applies close pressure; Kamish full-current breath/physical/flight, Kaisel/Lantern air routes; Fang/Tank and ordinary formations contribute. Mau is not given other-character immunity or infinite CE. Sequential copied patterns and existing grip/physique/daggers/katana used; one available Exchange spent against an existing soldier anchor and not reused; purposeful Purple clears empty westward axis, not observer/home directions. Damaged shadow forms restored at cost; no permanent loss/XP/stat spend/new registration.
 
-## Active fight
+**Mai scene exactly:** she arrives by observer path during reset, walks toward Mau, he sees her and immediately stops all troops/commands before any next shot. Dragons settle, weapons lower; Gojo stands ready but does not forcibly stop or take control. She reaches him because he chooses to stop for her. They speak privately enough amid halted ranks. He admits training gave useful answers and enjoyment, but another round was trying to answer fear of being completed as vessel. Mai affirms he is not a tool and returns him to ring purpose. No instant cure or prohibition of future training. He thanks and recalls all units.
 
-All existing1014 legion units are assembled in empty basin used for the prior rematch, outside home protection; usual work/guard units released for the exercise with the house covered by residents. All means1014, not1014 plus unrecorded personnel. Bellion commands, Igris handles formations, Beru pressures Mau and Kamish/Kaisel/Lantern actively contest the air. Other named officers/ordinary ranks have roles without inventing names/ranks. Mahoraga is a separate native shikigami, not counted as legion.
+Fresh arm burn, nose impact, hip/back/side blows. Current RCT addresses worst fresh cut, Shoko cleans/checks remaining wounds and directs eating/sleep plus next-day review. No new brain injury, death, permanent disability or healed old sequelae. Domain-combination accident remains a separate later exercise as creator clarified.
 
-Observers: Gojo/Yuta/Maki/Shoko/Yuka, ridge outside the attack field. Rimuru stays with house/back route. Stop command belongs to Mau, with agreed backup Gojo stop. Mai has not yet entered the field. Her later walk and Mau's immediate total stop must occur as the creator specified, not Gojo forcibly ending the match.
+## Ring and relationships
 
-Mau uses equipped daggers, enduring physical statistics, distinct Monarch grip, sequential Infinity/Blue/Red/Shrine/Uro operations and current flight support. No active all-CT coexistence or free new technique. Army recognises his preferred escape lanes and weak-side attention, coordinates instead of lining up for separate duels. Kamish uses genuine current breath/flight/physical threat, not Fort play-acting. Damaged shadow forms restore at paid reserve, no permanent unmaking shown, no earned XP or new registrations. Fresh arm burn/nose impact/hip and side blows; old scars/rigid fingers/blur/grey retained. No injury from domain fusion yet.
+Dinner includes ordinary family voices, Ori/Milim breakfast fort callback, Frieren/Fern decisions, Bocchi/Kita and Umaru/Taihei; no second full Fort war. Mau need not solve the shelf/map problem. Yuka keeps agency, humour and the ability to request time together.
 
-## State retained
+Mai/Marin/Wakana show two ring drawings after supper. Mau selects narrow band with a line that turns and joins itself; final size/material/crafting not completed. Original Mai CE/body support unchanged. Mai is helper by choice, not returned to combat. Yuka maintains surprise and asks him upstairs for an ordinary conversation. Proposal not made, answer not assumed, viewing contract not created yet.
 
-126 /57 retained points /Int460. Legion1014 =997ordinary+16named+1separate unranked sentinel gift. Native Mahoraga separate. Two Dragon'sWrath and katana retained.603small usable/4pylon/12boss rewards unchanged; no stock sold/spent by these scenes. Ring still design only, no proposal yet.
+## Retained state
 
-DIO chooses ordinary home rooms for this outing; Ashborn chooses to remain in his private resting chamber and agrees to the journey. Neither becomes combatant, resource or extra heart. Ciel stays private with hosts; the company does not hear her mental guidance. No memory archive projected to witnesses.
+Mau126/57held/Int460; legion1014=997ordinary+16named+1gift sentinel; Maho native separate and unused in spar. Guest Ashborn not combat resource; DIO at house during exercise. Two daggers/katana retained,603small/4pylon/12boss unchanged. Grey exceptYuka, left blur, stiff old fingers, scars/white hair retained. Shared bedroom existing; Rimuru loft not moved. Old three physical Okkotsu rings unchanged; future engagement ring is fourth distinct object, not three souls.
 
-## Creator sequence still required
+Ciel private/hosts, no image archive distributed; MiniCiel is non-speaking. Temporary household viewing not granted yet; will need actual construction, tests, opt-in and Yuka's choice before question. S8/Makima/convergences remain unwritten.
 
-Finish sustained full-legion fight with tactical changes and real costs. Mai walks toward Mau; **he sees her and stops every unit immediately**. Then her conversation about what he wants for his life, without declaring total healing. Separate later domain experimentation and accident remain, followed by a few days in bed with no new permanent injury. Mountain preparation, voluntary temporary household viewing, proposal, exact Beru/Igris comic beats after yes, return where Yuka chooses to show ring, wedding-ring/Rika joke, a few continuous ordinary days and S7 close. No first arrival, Makima or S8 prose in this task.
+## Next
+
+B+7 night couple conversation; B+8 ordinary morning and post-spar check; table with JJK/first domain preparation; later experimental combination with acute injury, rescue, B+9/10 bedside recovery as needed and no permanent new lesion. Keep days continuous, refine dates from scene time, no week montage. Then make ring, mountain preparations/viewing test, full date/question/yes/Beru scene, return/ring-Rika wedding joke and a few normal days. Complete authorized S7, do not stop for a new greenlight.
 
 
 ## Next
 
-Continue full-legion encounter, then Mai walks toward Mau and he immediately stops all units. Domain-combination accident is a later separate training; proposal and warm close still to write. Do not stop at this checkpoint.
+Continue the same evening and consecutive days. Domain-combination accident remains later and separate from the full-legion spar; then recovery, mountain proposal and warm close. No S8 prose.

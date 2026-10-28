@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Cierre S7 en producción — V42#1–5, 2026-10-28:** Días continuos desdeB+7: pareja/casa, revelación actual del patrónRika de la katana y comienzo desarrollado deMau contra toda su legión. Kamish/Beru/Igris/Bellion actúan de verdad; la pelea sigue. Mai y el segundo entrenamiento aún pendientes. [Índice](../THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Verde íntegro](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Continuar después del push; no cierre por checkpoint.
+
 > **Esqueleto solicitado para opinión — 2026-10-28:** [Cierre S7, desarrollo S8/S9, arcos y convivencia](S7_S9_CONVERGENCE_HOUSEHOLD_AND_MAKIMA_PROPOSED_SCENE_SKELETON_2026-10-28.md); [dirección íntegra sobre Makima y respuestas](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md). Amistad laboral alegada, nunca reemplazo de Yuka; coartada inventada, dudas de Mau. DIO débil/oculta y permiso de casa sustentan propuesta acotada de admisión. Capítulos/volúmenes orientativos, sin producción nueva.
 
 > **Accidente precisado y propuesta de continuación — 2026-10-28:** [después deAshborn: recuperación y mapa de hilos para opinión](S7_POST_ASHBORN_RECOVERY_AND_NEXT_SEASONS_EDITORIAL_MAP_2026-10-28.md). Sin lesión permanente nueva, días encamado, fallo de precisión/tercerpatrón posible. Próximo paso personal, primeras convergencias, sociedades/pacto y manipulación/reparación como movimientos solapables; S7/S8/S9 orientativos, no final o producción aprobados.

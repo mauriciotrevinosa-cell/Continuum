@@ -1,5 +1,7 @@
 # The Arrivals — Esqueleto propuesto: cierre de S7, convergencias, Makima y respuesta del hogar
 
+> **Verde posterior del creador, 2026-10-28:** [cierre S7 en montaña y días continuos](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Primera llegada y Makima pasan al comienzo de S8, aún por ordenar; no se escriben dentro de este cierre. Sustituye ubicación anterior de convergencias y la estimación de capítulos del resto de S7.
+
 **2026-10-28. Esqueleto solicitado para opinión del creador. No es autorización para escribir capítulos nuevos, aprobación de todos los mecanismos ni final de serie fijado.** Parte del cierre producido de V41#28/B+6. Conserva íntegros los mensajes nuevos en su propio documento de [dirección del creador](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md).
 
 ## 1. Decisiones del creador que gobiernan este mapa

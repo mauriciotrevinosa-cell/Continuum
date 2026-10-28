@@ -1,5 +1,7 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
+> **Cierre S7 en producción — V42#1–5, 2026-10-28:** Días continuos desdeB+7: pareja/casa, revelación actual del patrónRika de la katana y comienzo desarrollado deMau contra toda su legión. Kamish/Beru/Igris/Bellion actúan de verdad; la pelea sigue. Mai y el segundo entrenamiento aún pendientes. [Índice](../THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Verde íntegro](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Continuar después del push; no cierre por checkpoint.
+
 > **Acuerdo Mau/Mai y reservas en escena — 2026-10-28:** V40#7–9/814–816, después del6: oferta y pruebas del canal, tareas domésticas/avisos deMai, tres demandas y comparación de reservas por ejes. Fuente de maná inagotable detrás de acceso/cuerpo aún limitados, no CE/sombra infinitos o despertar total. Antiguos#7–32 pasan a#10–35; fechas/URLs previos intactos. [Dirección íntegra y continuidad](S7_MAU_MAI_CONSTRUCTION_SUPPORT_AND_RESERVE_AXES_2026-10-28.md).
 
 > **Punto lector corregido por el creador — 2026-10-28:** convivencia en **V39#5–6 / noche746→mañana747**, después deV39#4. Se conserva V39#1–4. Mau se muda al cuarto deYuka; Rimuru conserva loft/cuarto anterior. V39 ahora22capítulos y V40 vuelve a32; ambos conservan fechas y URLs previos. La ubicación inicialV40#5–6/812 queda sustituida, no son dos mudanzas. [Dirección y continuidad](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md).

@@ -2436,3 +2436,8 @@ Se conserva [recopilación externa íntegra](S7_HYBRID_DOMAIN_EXTERNAL_REFERENCE
 ### Esqueleto solicitado y límites de Makima, 2026-10-28
 
 [Petición y respuestas íntegras](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md); [mapa S7–S9](S7_S9_CONVERGENCE_HOUSEHOLD_AND_MAKIMA_PROPOSED_SCENE_SKELETON_2026-10-28.md). Propuesta de cierres y arcos entrelazados con convivencia, sin autorizar prosa. Límite explícito: Makima no seduce ni sustituye a Yuka; afirma trabajo/BFF y viajeEspaña con carreras/fútbol/concierto. Creador elige invención con dudas deMau/confianza posterior. Admisión propuesta porDIO debilitada/oculta y permiso de casa, con escudo físico conservado y mecanismo pendiente de desarrollar.35–55/90–140/90–140capítulos sólo estimaciones flexibles; fronteras de volumen según contenido.1413capítulos intactos, sin ingeniería/DB/Vault.
+
+
+### Cierre S7 — V42#1–5, 2026-10-28
+
+Verde directo de cierreS7 conservado íntegro, con aclaraciones: dos entrenamientos distintos; primero legióncompleta, Mai camina y Mau para instantáneamente a todos; luego combinación de dominios y recuperación. Primera llegada se guarda paraS8. V42#1–5 conserva1413previos, separa patrónRika de almaYuta y desarrolla combate real sin premios nuevos. Push parcial y continuar hasta pedida/afterdays, no final por volumen.

@@ -17,6 +17,8 @@ Continuation of the approved scene skeleton through the birthday, Monarch trial,
 
 **Rematch revised:** Chapters2–6 now contain the complete “No limits” round two; later chapter URLs remain unchanged. [Revision and continuity](the_arrivals_story_board/S7_GOJO_MAU_NO_LIMITS_REMATCH_REVISION_2026-10-27.md).
 
+[Continue in Volume42](THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

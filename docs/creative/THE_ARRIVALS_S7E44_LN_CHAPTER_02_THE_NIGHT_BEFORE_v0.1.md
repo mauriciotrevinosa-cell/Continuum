@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 18 — The Night Before
+## Chapter 20 — The Night Before
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 18
+**Reading order:** 20
 **Source episode:** S7E44
 **Continuity state:** Day807 afternoon–night. Birthdayfood/anniversarytablepreparedwithoutsecretfamilyfunds/sex/newCT surgery. Yuka'smapprivate, Mau'sbookbindsexistingjointnotes. Fullsecondpatternreadyforconsentedacceptance808, originalloanaccessible. Vesselunansweredfearpersists, Noise familiarRest not Ashborn/newvoice. Sourcebodycounts/roomrelationships unchanged. Do not cross808stop.
 
@@ -129,7 +129,7 @@ Yuka leaned against him.
 
 * * *
 
-Later, she went to her room and he went to the one with Rimuru's loft above it.
+Later, they went to their room together. Yuka left her packet wrapped and climbed into bed without asking to see his gift early.
 
 The book waited on the chair, well away from the place he put his shoes.
 
@@ -147,7 +147,7 @@ He did not finish it tonight.
 
 Noise's familiar, halting word came quietly through the work which had finally stopped asking for his attention.
 
-Mau let his hands open on the blanket.
+Mau let his hands open on the blanket. Beside him, Yuka shifted in her sleep and settled against his arm.
 
 Tomorrow was hers.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 15 — A Smaller Question
+## Chapter 17 — A Smaller Question
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 15
+**Reading order:** 17
 **Source episode:** S7E43
 **Continuity state:** Day798 eveningroofcircleMau/Rimuru/Yuta/Gojo/Taihei/Kanekicafénegro. Mau askspurposequestion notexactvesselwords/newprophecy. Othersknowbroadconfessionsecondheart, donot newlydiscoversecret/archive. No blessing/engagementtalk orMau birthdaybeyondscope. Chosenfamilyfriendships/ordinaryplace maintained, no newstats.
 

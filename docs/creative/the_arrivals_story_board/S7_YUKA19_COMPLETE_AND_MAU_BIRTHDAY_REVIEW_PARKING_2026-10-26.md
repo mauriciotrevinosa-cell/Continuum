@@ -1,5 +1,9 @@
 # S7 — Cumpleaños de Yuka completado; siguiente tramo pendiente de Mauri
 
+> **Punto lector corregido por el creador — 2026-10-28:** convivencia en **V39#5–6 / noche746→mañana747**, después deV39#4. Se conserva V39#1–4. Mau se muda al cuarto deYuka; Rimuru conserva loft/cuarto anterior. V39 ahora22capítulos y V40 vuelve a32; ambos conservan fechas y URLs previos. La ubicación inicialV40#5–6/812 queda sustituida, no son dos mudanzas. [Dirección y continuidad](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md).
+
+Este parking conserva el estado histórico anterior a la continuación autorizada deV40/V41; su afirmación de que no se mudaron quedó sustituida por las escenas746–747. No usarla para deshacer la convivencia actual.
+
 > **Esqueleto desarrollado tras «va armalo» — 2026-10-26:** [Mapa completo de escenas, meses pendientes, cumpleaños, Trial y regreso](S7_MAU_BIRTHDAY_MONARCH_TRIAL_SCENE_SKELETON_2026-10-26.md). Incluye conversación con Ashborn, reglas propuestas y consecuencias; estimación flexible de 43–64 capítulos pendientes, de los cuales unos 16–23 corresponden al arco concentrado de cumpleaños–regreso. No se han redactado nuevos capítulos: la salida publicada sigue en V39#20 / Day808. Los avisos inferiores de espera de esa decisión y de Ashborn sin definir son históricos; este checkpoint desarrolla planificación, no presenta sucesos futuros como ya ocurridos.
 
 > **Nueva planificación recibida — 2026-10-26:** cumpleaños deMau, reunión y cambio coercitivo de reglas hacia el Trial delArquitecto. **Ashborn real antes deldescanso, huésped voluntario**, porrespuesta directa delcreador; sustituye la antigua duda sobre sunaturaleza. [Mensaje íntegro](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md) · [Integración y conversación propuesta](S7_MAU_BIRTHDAY_MONARCH_TRIAL_INTEGRATION_2026-10-26.md). No hayprosa nueva después deV39#20/Day808 ni cambia suestado de salida.

@@ -1,12 +1,12 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
-> **Convivencia vigente desde Day812 — 2026-10-28:** V40#5–6 muestran decisión, mudanza de Mau al cuarto existente de Yuka y primera noche/mañana. Rimuru conserva loft/cuarto anterior; oficina sigue abajo. Antiguos#5–32 pasan a#7–34 con URLs intactos. V40#1–4 y todo lo anterior se conservan. [Dirección y continuidad](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md).
+> **Punto lector corregido por el creador — 2026-10-28:** convivencia en **V39#5–6 / noche746→mañana747**, después deV39#4. Se conserva V39#1–4. Mau se muda al cuarto deYuka; Rimuru conserva loft/cuarto anterior. V39 ahora22capítulos y V40 vuelve a32; ambos conservan fechas y URLs previos. La ubicación inicialV40#5–6/812 queda sustituida, no son dos mudanzas. [Dirección y continuidad](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md).
 
 > **Revancha ampliada por petición del creador — 2026-10-27:** V41#2–6 es el round dos completo, con «No limits» mutuo, evolución espacial de Gojo y armonía del arsenal existente de Mau guiada por Ciel. Misma tarde Day949; antiguos#3–24 pasan a#7–28 sin cambiar archivos/URLs o prosa posterior. El arco sigue completo hasta#28/B+6. [Revisión y reglas vigentes](S7_GOJO_MAU_NO_LIMITS_REMATCH_REVISION_2026-10-27.md). Las numeraciones de checkpoints históricos se leen con ese mapa.
 
 > **Ejecución continua del esqueleto — V41#1–28, 2026-10-27:** Esqueleto ejecutado hasta regreso, informe a la casa, duelo de la boda delTrial y preparación del anillo. V41 termina como borrador en28capítulos; no se detuvo en volumen intermedio. [Índice](../THE_ARRIVALS_LN_VOLUME_41_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME41_PRODUCTION_STATE_2026-10-27.md). La instrucción del creador es completar el arco hablado, no parar por cada volumen o push.
 
-> **Continuación autorizada y activa — V40#1–34, 2026-10-27:** V40 completo como borrador en34capítulos/Day891: refugio construido, probado y elegido, con la casa y la pareja viviendo después. S7 continúa y el cierre no adelanta cumpleaños/Monarch. [Índice V40](../THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME40_PRODUCTION_STATE_2026-10-26.md). El creador dijo «va arrancate» tras revisar el esqueleto; los avisos de parada en Day808 son históricos. S7 continúa, sin cuotas por mini arco ni aprobación automática.
+> **Continuación autorizada y activa — V40#1–32, 2026-10-27:** V40 completo como borrador en32capítulos/Day891: refugio construido, probado y elegido, con la casa y la pareja viviendo después. S7 continúa y el cierre no adelanta cumpleaños/Monarch. [Índice V40](../THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME40_PRODUCTION_STATE_2026-10-26.md). El creador dijo «va arrancate» tras revisar el esqueleto; los avisos de parada en Day808 son históricos. S7 continúa, sin cuotas por mini arco ni aprobación automática.
 
 > **Esqueleto desarrollado tras «va armalo» — 2026-10-26:** [Mapa completo de escenas, meses pendientes, cumpleaños, Trial y regreso](S7_MAU_BIRTHDAY_MONARCH_TRIAL_SCENE_SKELETON_2026-10-26.md). Incluye conversación con Ashborn, reglas propuestas y consecuencias; estimación flexible de 43–64 capítulos pendientes, de los cuales unos 16–23 corresponden al arco concentrado de cumpleaños–regreso. No se han redactado nuevos capítulos: la salida publicada sigue en V39#20 / Day808. Los avisos inferiores de espera de esa decisión y de Ashborn sin definir son históricos; este checkpoint desarrolla planificación, no presenta sucesos futuros como ya ocurridos.
 
@@ -213,10 +213,12 @@ Gojo conserva gradientes/lente y campos coordinados como aplicaciones propias po
 
 Yuka oye explícitamente por primera vez que sólo ella aparece en color, en la calma tras contar su cáncer. Mau lo normalizó y asumió que ella sabía después de los chequeos; no secreto deliberado. Ciel ya lo sabe desdeV35#29; para los demás sólo está confirmada la visión gris general, no la excepción por narración interna. No atribuir causa/cura a la hipótesis emocional que él propone. [Texto autorizado y mapa por personaje](S7_YUKA_COLOR_EXCEPTION_KNOWLEDGE_LOCK_2026-10-27.md).
 
-## Habitación compartida vigente desde812
+## Habitación compartida vigente desde746
 
-Pareja en antiguo dormitorio deYuka, Mau ropa/silla/mapa allí; loft/cuarto anterior se conserva paraRimuru, sin camaenoficina. Primera noche812→813 y convivencia habitual mostradas. Day626 esperaron de verdad; ya no se narra espera después812. Comidas/amistades/privacidadindividual siguen; no boda/sexo/embarazo agregados. Mapa y correcciones futuras en dirección enlazada arriba.
+Pareja en antiguo dormitorio deYuka, Mau ropa/silla/notas allí; mapa sólo después del regalo808; loft/cuarto anterior se conserva paraRimuru, sin camaenoficina. Primera noche746→747 y convivencia habitual mostradas. Day626 esperaron de verdad; ya no se narra espera después746. Comidas/amistades/privacidadindividual siguen; no boda/sexo/embarazo agregados. Mapa y correcciones futuras en dirección enlazada arriba.
 
-### Sueño flotando — V40#6, noche812
+### Sueño flotando — V39#6, noche746
 
-Yuka descubre el hover dormido ocasional de Mau. Rimuru lo reconoce por convivencia previaB, lo asocia con buenos sueños sin leerlos; no recuerdaA. Callback cotejadoS4E01CH01/S4E07CH04, pero no repetición de crisis o necesidad de cinta. Mau vuelve suavemente al colchón antes del primer despertar compartido813. Ningún desbloqueo/diagnóstico/cura o deber de vigilancia paraYuka. Detalle en dirección de convivencia vigente.
+Yuka descubre el hover dormido ocasional de Mau. Rimuru lo reconoce por convivencia previaB, lo asocia con buenos sueños sin leerlos; no recuerdaA. Callback cotejadoS4E01CH01/S4E07CH04, pero no repetición de crisis o necesidad de cinta. Mau vuelve suavemente al colchón antes del primer despertar compartido747. Ningún desbloqueo/diagnóstico/cura o deber de vigilancia paraYuka. Detalle en dirección de convivencia vigente.
+
+**Corrección de ubicación del punto lector:** los dos capítulos de convivencia y el descubrimiento de flotar pertenecen aV39#5–6/746–747, no aV40. RegalosOurYear/TwoBeginnings sólo llegan808; V40#1 ya comienza con convivencia establecida.

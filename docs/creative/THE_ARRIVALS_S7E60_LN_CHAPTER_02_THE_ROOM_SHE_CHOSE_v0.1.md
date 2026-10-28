@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 32 — The Room She Chose
+## Chapter 30 — The Room She Chose
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 32
+**Reading order:** 30
 **Source episode:** S7E60
 **Continuity state:** Day889. DIO informed of tested scope, voluntary entry/exit, privacy, contact and travel limits, chooses bounded interior refuge. Physical whole guest, not shadow/absorbed soul/third heart; no authority, memory or power loan obtained by Mau. Second request/favor fulfilled as refuge without hidden Trial/new price; accountability remains. Ordinary furniture/linen supplied by household agreement, no new crystal/coin/inventory grant. Personal presence remains linked to life anchor without mobile protection.
 

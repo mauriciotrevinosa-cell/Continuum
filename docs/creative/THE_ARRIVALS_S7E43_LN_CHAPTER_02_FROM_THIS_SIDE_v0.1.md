@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 16 — From This Side
+## Chapter 18 — From This Side
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 16
+**Reading order:** 18
 **Source episode:** S7E43
 **Continuity state:** Day799 crackers/socialgiftmakingYuka/Mai/Maki/Frieren/Fern/Shoko/Seiko/Turbo presentwithoutrosterrollcall. YukaanniversarymapofheractualBexperience from443, drawings/textgrayscalereadable, notrestoredA/photographicmemory/medicalarchive. Originalsandcastle/coast485sourcechecked, farm/fort/Nue known. MaicraftordinarynotConstruction/ring/unaskedcontract. No privatecancerrelayed, no currentM/Fromance.
 

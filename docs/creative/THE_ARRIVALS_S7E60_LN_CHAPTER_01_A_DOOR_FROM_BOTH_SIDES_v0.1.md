@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 31 — A Door from Both Sides
+## Chapter 29 — A Door from Both Sides
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 31
+**Reading order:** 29
 **Source episode:** S7E60
 **Continuity state:** Days887–888. Constructed bounded refuge adjacent to accessible structure, unknown access untouched. Empty/object/air/communication tests, then consenting Rimuru brief body visit and voluntary return; Ciel/Noise support established host construction, not new independent Ciel person. No universal remote teleport door, indefinite safe travel guarantee, third heart, memory reading or resource-pool merger. Room maintenance distinct from free existing shadow recall. DIO not yet resident inside.
 

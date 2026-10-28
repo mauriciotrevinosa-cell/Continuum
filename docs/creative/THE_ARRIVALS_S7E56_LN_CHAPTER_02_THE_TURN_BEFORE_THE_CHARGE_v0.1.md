@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 24 — The Turn Before the Charge
+## Chapter 22 — The Turn Before the Charge
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 24
+**Reading order:** 22
 **Source episode:** S7E56
 **Continuity state:** Day868, cleared ordinary dungeon ritual room. Yuka/Mau inside agreed shared-helper protocol, Yuta/Maki outside. Unbound Round Deer regeneration and CE interference observed; ordinary rope/physical redirection and native Piercing Ox chosen. No borrowed Limitless/Sky running simultaneously with native calls/domain. Unbound form defeated; independent controlled recall still awaits869. Ritual not a dungeon-native kill: no XP/loot/Monarch extraction or count increase. Mau old injuries intact, small incidental knuckle scrape, not test self-harm.
 

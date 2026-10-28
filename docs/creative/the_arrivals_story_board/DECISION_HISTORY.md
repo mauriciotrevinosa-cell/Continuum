@@ -2399,3 +2399,7 @@ El creador pide disfrute mutuo, acuerdo literal y escalada creativa con inspirac
 ### S7 — Convivencia Mau/Yuka después de V40#4, 2026-10-28
 
 El creador quiere convivencia previa al matrimonio y permite insertarla después de su punto de lectura. V40#1–4 y todo lo anterior intactos. Dos nuevos capítulos#5–6/Day812noche→813mañana muestran elección mutua, familia, mudanza deMau al cuarto deYuka, primera noche/despertar. Rimuru conserva loft/cuarto anterior, no se muda a oficina. Antiguos#5–32 pasan a#7–34/URLs iguales; V41 sigue28capítulos, se corrigen despedidas y cumpleaños conloft. [Mensajes completos y regla vigente](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md). Checkpoints anteriores usan numeración histórica; no atribuir convivencia a626.
+
+### S7 — Creador corrige V40 por V39 en su punto lector, 2026-10-28
+
+Mensaje íntegro: «donde pusiste los nuevos? no me digas que en vol 40 voy en vol 39 chapter 4 sorry me equivoque». Se trasladan las dos escenas aV39#5–6/746–747 después delGreatSerpent, conYuka18 y~10mesesjuntos. Sin OurYear/TwoBeginnings antes de808. NuevosIDsS7E37CH03/04 sustituyen sólo los dos recién añadidos enS7E47; no duplicación de mudanza/hover. V39=22,V40=32,V41=28,total1410. Primeros4del39 intactos; eve/aniversario y mañana809 corregidos a dormitorio compartido, futuro746 no812. [Regla vigente](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md). La entrada anterior describe la ubicación inicial sustituida.

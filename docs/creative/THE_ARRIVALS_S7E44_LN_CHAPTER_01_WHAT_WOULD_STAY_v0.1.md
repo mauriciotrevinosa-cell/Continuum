@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 17 — What Would Stay
+## Chapter 19 — What Would Stay
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 17
+**Reading order:** 19
 **Source episode:** S7E44
 **Continuity state:** Day802. FinalBlue/neutral/Redprototypechecksconcurrent/sequenced stable before permanentownerhandover808. CompletedsecondLimitlesspattern supportsfullCTpotential,costMau/efficiencyretained, not freeYukamastery/Purplecombat/UnlimitedVoidpersonalDE. Oldearlyloanneverrevoked. Operationalnotescriticalsourcefailure/safety/cost signals, not obligationaskMaueveryactivation. Birthdayacceptance/anchoringstillawaitsYuka knowingly; no secretbodyartifactorlifevow. Vesselmeaningunresolved.
 

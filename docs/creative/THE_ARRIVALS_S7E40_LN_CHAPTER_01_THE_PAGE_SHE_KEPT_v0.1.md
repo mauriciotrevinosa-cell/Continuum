@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 9 — The Page She Kept
+## Chapter 11 — The Page She Kept
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 9
+**Reading order:** 11
 **Source episode:** S7E40
 **Continuity state:** Day777 afternoon. Umaru/Mauchosen siblingbondandsystemallocationplan, Taihei not erased. Current115/102held/Int440 verified,no pointsspent/changephysicalbaseline. Noise/Cielmapping channelsunderIntelligence incomplete explicit,newinterfaceannotatednobuyCEfree/knowalltechniques. Giftcostefficiencywork not replacedbydumpstats. Offdaycardsactual, nocolaavailability/oldShopupgradeasserted.
 

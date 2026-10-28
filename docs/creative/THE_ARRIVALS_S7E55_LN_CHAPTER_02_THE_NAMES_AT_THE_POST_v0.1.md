@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 22 — The Names at the Post
+## Chapter 20 — The Names at the Post
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 22
+**Reading order:** 20
 **Source episode:** S7E55
 **Continuity state:** Day862 journey/delivery, Mau/Wakana/Marin/Anko with established route guards; Rimuru home. First actual named-notice passage through three-post jurisdiction, delays/checks but respected. Two buyers test/accept/pay for two cutters; revenue recorded, no six follow-up tools promised. Native reports: nearer external party returned with injuries, gate closed according to named route contact; second indirect report still unverified. No new crystal sale/unit/points/resident, world treaty or universal safe passage.
 

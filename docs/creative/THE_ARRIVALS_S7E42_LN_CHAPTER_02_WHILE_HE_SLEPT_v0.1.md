@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 14 — While He Slept
+## Chapter 16 — While He Slept
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 14
+**Reading order:** 16
 **Source episode:** S7E42
 **Continuity state:** Day796 afternoon, consentedrealnaptest. PatternavailablewithoutMauconsciouspermissionperactivation, Ciel/Noiseestablishedsupportpersists; sourcecoststillMau/bodyunchanged bysleep. YukaactivatesherprototypeBlue/neutralinadjacentfieldwithRimuruwhileMauactuallysleepsunderShokocheck, no fakecoma/sedative/secretmindentry. Consentlimits/medicalcriticalinterruptremainnotrevocablepersonalpunishment. Stableownerhandoverafterfinalchecks pending808, earlyloanunrevoked. No newRCT/leftblurcure/Omnivision.
 

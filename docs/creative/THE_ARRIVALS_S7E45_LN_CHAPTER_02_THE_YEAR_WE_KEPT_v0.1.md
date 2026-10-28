@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 20 — The Year We Kept
+## Chapter 22 — The Year We Kept
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 20
+**Reading order:** 22
 **Source episode:** S7E45
 **Continuity state:** Day808 evening–night, samebirthday/oneyear443hand. Privateannivdinnerpreparedfromagreedfood/cookedfreshafterprep, Yuka givesownBmap/notes withroomforfuture, checkedcoast485sandcastle/fort496/farm553/Nue760. No perfectmemoryreplacement/greyvisioncure/noathatmedicalguaranteedfamily/sex/engagement/roommove. Vesseltraumaunresolvedunderpresentchoice, no ominousnewevent. EndauthorizedproseHERE; no809/Monarch/Maucumple. V39cyclecancloseat20draftnotS7complete.
 
@@ -237,9 +237,7 @@ He looked at her.
 
 "I will." ᴹ
 
-She went to her room with the book they had made together.
-
-He went to his with the year she had made visible.
+They went to their room together: Yuka carrying the book they had made, Mau carrying the year she had made visible. She set her book down while he found a place for the map beside the chair he had brought here weeks before.
 
 Before putting out the lamp, he opened the last page once more.
 

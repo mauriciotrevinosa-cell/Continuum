@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 11 — The Other Direction
+## Chapter 13 — The Other Direction
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 11
+**Reading order:** 13
 **Source episode:** S7E41
 **Continuity state:** Day786. First Yuka secondpatternRed expression withreversedflow supplied/preparedbyMauprototype, not Yuka independentlymasteredRCT/healing. Safeemptyrange/limitedoutput, release/placement tested; noPurple yet. BothsourcecostMau, Cielmonitors, no activevesselintervention. Birthday/anniversaryknown, no proposal. No stats/roster/lootchanges.
 

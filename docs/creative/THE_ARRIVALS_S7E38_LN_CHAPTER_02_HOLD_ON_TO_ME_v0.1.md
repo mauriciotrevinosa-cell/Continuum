@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 6 — Hold On to Me
+## Chapter 8 — Hold On to Me
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 6
+**Reading order:** 8
 **Source episode:** S7E38
 **Continuity state:** Day760 afternoon, plannedshortprotectedroute/partyknowsreturn. NativeNue firsttwopersoncarry afterloadtests/onepassfailedstart; preparedbroadloops, MauweightnotfakedbyRuler/hover. Shortdistance/landing/rest, notcontinentalflight/infiniteCE. Yuka leadsdatefulfillsownwishV38#6. Existingroom/no sex/engagement maintained, no powersgiftunlockedelsewhere.
 

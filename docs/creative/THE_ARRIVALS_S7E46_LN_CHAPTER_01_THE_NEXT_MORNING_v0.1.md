@@ -5,7 +5,7 @@
 **Volume:** 40
 **Reading order:** 1
 **Source episode:** S7E46
-**Continuity state:** Day809 morning–afternoon, after the nineteenth birthday and anniversary. Separate bedrooms and Rimuru's loft retained. Our Year belongs to Mau; Two Beginnings belongs to Yuka. Grey perception except Yuka persists. Permanent Limitless gift remains hers, source Mau, no permission per activation; no new mastery or allocations. Ordinary shared day, not immediate approach to Mau's birthday.
+**Continuity state:** Day809 morning–afternoon, after the nineteenth birthday and anniversary. Mau/Yuka share her existing bedroom since746, Rimuru retains loft in old room. Our Year belongs to Mau; Two Beginnings belongs to Yuka. Grey perception except Yuka persists. Permanent Limitless gift remains hers, source Mau, no permission per activation; no new mastery or allocations. Ordinary shared day, not immediate approach to Mau's birthday.
 
 *When: Day809, morning. Yuka finds the anniversary map beneath a book Mau has been using to keep one corner flat.*
 
@@ -13,7 +13,7 @@
 
 Mau stopped trying to fold his sleeve over the stiff fingers of his left hand.
 
-She stood in the open doorway with *Two Beginnings* against her hip. Behind her, someone was objecting to Milim's understanding of the word *leftovers*.
+She stood beside their chair with *Two Beginnings* against her hip, having got up first to read. Behind her, someone was objecting to Milim's understanding of the word *leftovers*.
 
 "Only the corner," he said. ᴹ
 
@@ -21,9 +21,9 @@ She stood in the open doorway with *Two Beginnings* against her hip. Behind her,
 
 "Then it should survive a book." ᴹ
 
-Yuka came in to inspect the damage. He let her, although the corner had been entirely blank before he put anything on it. She lifted the book, pressed down the paper with her palm and looked pleased by the discovery that her work was still there.
+Yuka leaned closer to inspect the damage. He let her, although the corner had been entirely blank before he put anything on it. She lifted the book, pressed down the paper with her palm and looked pleased by the discovery that her work was still there.
 
-The map had made the journey from the table to his room safely. He had checked it before sleeping. Once after waking, too.
+The map had made the journey from the table to their room safely. He had checked it before sleeping. Once after waking, too.
 
 She noticed where it lay, beside the things he reached for from his chair.
 
@@ -39,7 +39,7 @@ He finished his sleeve. She caught the cuff before he could push it back and fol
 
 He turned his wrist. Better.
 
-From above them came the sound of movement in the loft, followed by Rimuru's voice.
+From the corridor came a knock on the open doorframe, followed by Rimuru's voice.
 
 "If breakfast is already happening, I was awake before you." ᴿ
 

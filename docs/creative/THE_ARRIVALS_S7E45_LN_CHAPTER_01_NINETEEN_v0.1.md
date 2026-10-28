@@ -1,15 +1,15 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 19 — Nineteen
+## Chapter 21 — Nineteen
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 19
+**Reading order:** 21
 **Source episode:** S7E45
 **Continuity state:** Day808 morning–lateafternoon,Yuka19/oneyearsince443hand. Familycelebrationgenuinelife; permanentsecondfullLimitlesspattern knowinglyaccepted/anchoredasYukaownerwithMau/Ciel/Noise, continuingMausourceandjointcost, no expiry/permissionperactivation/CToldloanrevoked. LearnedBlue/Red/neutralavailable; Purplepotentialnotmastery/UVdomainincluded, no birthdaynewDE. No newenergyreserve/points/realpossession/tamings/cure. Cakecommunal, tabledatespreppedbutprivateannivscene20notyet. No beyond808productionauthorized.
 
 *When: Day808. Yuka wakes before anyone comes to tell her that she is nineteen.*
 
-For a while she stayed beneath the blanket and listened.
+Mau had got up before her. For a while she stayed beneath the blanket on her side of their bed and listened.
 
 Footsteps beyond the door. A voice being told to keep another voice down. Something light striking the wall and a whispered accusation which Milim delivered loudly enough to defeat the whole arrangement.
 

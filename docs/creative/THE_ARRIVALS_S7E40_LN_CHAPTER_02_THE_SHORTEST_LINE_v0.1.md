@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 10 — The Shortest Line
+## Chapter 12 — The Shortest Line
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 10
+**Reading order:** 12
 **Source episode:** S7E40
 **Continuity state:** Day782 ritual;783recall. Yuka PiercingOx withMauinside agreedhelper/oldprojectprotocol, Yutaoutside. Chargegainsdistance, Yuka interruptsstraightlines/rabbitfeints; Toadrescue, smallownDEaround9seconds, Serpent/MaxElephantplacement withMauphysicalturn. No nativeallCEfree/borrowedInfiniteautowin; hardeffort/burnout/rest. Ritualunboundformdefeated, independentrecall783 confirmsseventhfamily. RoundDeer/Tiger/Mahoragastillfuture, no newArise/levels/loot.
 

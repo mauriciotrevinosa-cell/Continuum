@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 28 — A Body on the Bench
+## Chapter 26 — A Body on the Bench
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 28
+**Reading order:** 26
 **Source episode:** S7E58
 **Continuity state:** Same Day882 afternoon/evening. DIO admitted by household after vouch/consent; Shoko examines actual wounded body and gives bounded treatment, no universal diagnosis of divinity. DIO same person cannot discard body; protection remains fixed/alive, no hostile ingress. Second favor discussed as refuge, not new Trial/price. Physical safe place provided pending full conversation; no inner chamber yet or bedrooms retconned.
 

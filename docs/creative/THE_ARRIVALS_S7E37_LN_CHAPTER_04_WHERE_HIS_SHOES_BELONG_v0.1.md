@@ -1,11 +1,11 @@
-# The Arrivals — Light Novel — Volume 40
+# The Arrivals — Light Novel — Volume 39
 ## Chapter 6 — Where His Shoes Belong
 
 **Status:** LN PRODUCTION DRAFT — S7 revised 2026-10-28
-**Volume:** 40
+**Volume:** 39
 **Reading order:** 6
-**Source episode:** S7E47
-**Continuity state:** Day812 later evening through Day813 morning, before existing workshop meeting on813 afternoon. Actual consensual move: Mau joins Yuka's existing bedroom; clothes/books/OurYear and his ordinary chair move, TwoBeginnings remains hers. No new wing, relocated wall, duplicate room or free new bed. Rimuru keeps old loft and room beneath, own agency; office remains downstairs and not bedroom. Shared bed/first night/morning shown without sex/engagement/pregnancy or instant trauma cure. No points/gear/shadow/coins change, old grey/blur/fingers remain. Added asleep-hover callback: Yuka asks Rimuru, who knows the occasional habit from their B room-sharing and associates it with good dreams, not mind-reading or A memories. Mau settles back before morning; no new flight unlock/leak emergency. Yuka independently chooses space and both retain right to time alone. Household meals/work continue.
+**Source episode:** S7E37
+**Continuity state:** Day746 later evening through Day747 morning, before the next established bridge on757. Actual consensual move: Mau joins Yuka's existing bedroom; clothes/ordinary notes and his ordinary chair move; anniversary map OurYear and bound gift TwoBeginnings do not exist yet, no premature gifts. No new wing, relocated wall, duplicate room or free new bed. Rimuru keeps old loft and room beneath, own agency; office remains downstairs and not bedroom. Shared bed/first night/morning shown without sex/engagement/pregnancy or instant trauma cure. No points/gear/shadow/coins change, old grey/blur/fingers remain. Added asleep-hover callback: Yuka asks Rimuru, who knows the occasional habit from their B room-sharing and associates it with good dreams, not mind-reading or A memories. Mau settles back before morning; no new flight unlock/leak emergency. Yuka independently chooses space and both retain right to time alone. Household meals/work continue.
 
 *When: The same evening. Yuka clears half a shelf and then takes one book back.*
 
@@ -35,7 +35,7 @@ Yuka took the top two before the rest could make their own way onto the floor.
 
 His things arrived in several journeys.
 
-The first was mostly clothing. The second included the map, which he carried flat because she had already made enough remarks about its mountains. His notes went beside her books rather than on top of them. The weapons stayed properly stored; there was no reason to turn finding a place for a shirt into a display of everything which could kill someone.
+The first was mostly clothing. The second included his ordinary notes, several loose pages which refused to stay in the order he wanted. They went beside her books rather than on top of them. The weapons stayed properly stored; there was no reason to turn finding a place for a shirt into a display of everything which could kill someone.
 
 At the old room, he stopped beside the chair.
 
@@ -113,7 +113,7 @@ The first place she put his cup was beyond the part of his left sight which woul
 
 She moved it.
 
-He put *Our Year* beside the chair. *Two Beginnings* lay on her table, with the page she had last been using still marked. A cuff had escaped the stack again.
+He put the loose pages beside the chair. Her book lay open on the table, with the page she had last been reading still marked. A cuff had escaped the stack again.
 
 Yuka folded it and handed the shirt back.
 

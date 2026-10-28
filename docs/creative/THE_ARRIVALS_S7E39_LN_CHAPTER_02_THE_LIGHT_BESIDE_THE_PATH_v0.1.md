@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 8 — The Light Beside the Path
+## Chapter 10 — The Light Beside the Path
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 8
+**Reading order:** 10
 **Source episode:** S7E39
 **Continuity state:** Day773 evening. Existingcrystalinsertmethod adapted to one protectedhousepathlamp, no firstevercrystaltechnology/expandedprotection. One smallstockcrystal committed/spenttest→249usableheld, spentinsertseparate;4pylon/5bossunchanged. Jinshi/Maomao ownscene, familytownsmallimprovementnot imperialcity/secretinksale. No newpower/arrivals.
 

@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 34 — A Place in the Evening
+## Chapter 32 — A Place in the Evening
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 34
+**Reading order:** 32
 **Source episode:** S7E61
-**Continuity state:** Day891 afternoon–night, natural V40 close. Refuge chosen/tested and second favor fulfilled, ordinary house life continues with DIO brief meal then voluntary return. Couples/family bonds active without claiming universal reconciliation. Scouts/routes/reports/workshop and full power/calendar/Monarch preparations remain future and explicitly carried. No new resources, engagement, further bedroom move, color cure or catastrophe; Mau/Yuka already share her existing room since812, Rimuru retains old loft. V40 closed as production draft, S7 open.
+**Continuity state:** Day891 afternoon–night, natural V40 close. Refuge chosen/tested and second favor fulfilled, ordinary house life continues with DIO brief meal then voluntary return. Couples/family bonds active without claiming universal reconciliation. Scouts/routes/reports/workshop and full power/calendar/Monarch preparations remain future and explicitly carried. No new resources, engagement, further bedroom move, color cure or catastrophe; Mau/Yuka already share her existing room since746, Rimuru retains old loft. V40 closed as production draft, S7 open.
 
 *When: Day891. Yuka finds Mau in the common room with the map open and enough space beside him for her to know he has been expecting her.*
 

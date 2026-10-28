@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 21 — The First Two
+## Chapter 19 — The First Two
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 21
+**Reading order:** 19
 **Source episode:** S7E55
 **Continuity state:** Day856 workshop, two commissioned cutters completed/tested from reserved worked stock, not untested keeper plates. Different grips, ordinary handling/design contributions Wakana/Marin/Mai. No CE Construction pact or currency/loot changes. Household notice sent through existing route for delivery862; manufacture not counted as paid sale yet.
 

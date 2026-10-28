@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 7 — The Space She Chose
+## Chapter 9 — The Space She Chose
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 7
+**Reading order:** 9
 **Source episode:** S7E39
 **Continuity state:** Day768. FirstneutralInfinity prototype atYuka'sownposition, reversiblecontrolledtests; independentMausupply not simplybubblesharedcenterMau. She learnsselectionlettingcontactthrough, not24/7perfectautomaticthreatclassifier. Gojo/Ciel/Noise refineCEprecisionusingcompletedeyes/MiniCiel,nounlimitedmana→CEconversion. Fullpattern permanence/reversal/concurrentfulloutput stillpendingbirthdaywork. No nativeDElost/equipmentstatsoff.
 

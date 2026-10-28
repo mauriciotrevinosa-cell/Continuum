@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 14 — How Long It Lasts
+## Chapter 12 — How Long It Lasts
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 14
+**Reading order:** 12
 **Source episode:** S7E51
 **Continuity state:** Day831 afternoon–evening. Household approves one further small crystal for repeat lamp-insert test: stock249→248 usable small, 4 pylon/5 boss unchanged, spent insert separate. Existing lamp method refined at bench, not completed grid or installed new lights. Senku/Byakuya/Shoko/Rimuru/Mau collaborative scene; Ciel private through hosts, no public voice. No allocation, pool-merger, power/taming/roster change. Work and medical expertise distributed.
 

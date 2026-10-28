@@ -1,13 +1,13 @@
-# The Arrivals — Light Novel — Volume 40
+# The Arrivals — Light Novel — Volume 39
 ## Chapter 5 — One Door for Both of Them
 
 **Status:** LN PRODUCTION DRAFT — S7 revised 2026-10-28
-**Volume:** 40
+**Volume:** 39
 **Reading order:** 5
-**Source episode:** S7E47
-**Continuity state:** Day812 evening, after Hollis's returned-handle scene. Mau/Yuka revisit their genuine Day626 decision to wait, now after her nineteenth/first anniversary. They choose Mau joining Yuka's existing private bedroom, not evicting Rimuru from his old loft or changing house architecture. Discuss together before family/Rimuru; family acknowledges adult choice and practical arrangements, no covert move, engagement, sex or pregnancy. Their previous wait remains true until now. No resource/ability/roster change; actual packing/first night next chapter.
+**Source episode:** S7E37
+**Continuity state:** Day746 evening, after Yuka's GreatSerpent victory and homecoming. Mau/Yuka revisit their genuine Day626 decision to wait, now about ten months after443, Yuka still eighteen and her nineteenth/first anniversary still future. They choose Mau joining Yuka's existing private bedroom, not evicting Rimuru from his old loft or changing house architecture. Discuss together before family/Rimuru; family acknowledges adult choice and practical arrangements, no covert move, engagement, sex or pregnancy. Their previous wait remains true until now. No resource/ability/roster change; actual packing/first night next chapter.
 
-*When: Day812, after dinner. Yuka says good night and then stays where she is.*
+*When: Day746, after dinner. Yuka says good night and then stays where she is.*
 
 Mau had already turned toward the corridor.
 

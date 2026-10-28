@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 5 — What Stayed on the Shelf
+## Chapter 7 — What Stayed on the Shelf
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 5
+**Reading order:** 7
 **Source episode:** S7E38
 **Continuity state:** Day757. Establishedbrigade cycle repeated722/737/754 underMau+alternatingAnko/Mikasa presence,not soloselfmedicating. Auditednewordinary52+61+64=177→364ordinary+16named=380. Mau115/102held/Int440 from+4levels/+20points overthreegateclears.174small+3bossnew→291small/4pylons/6bossbeforetrade. One smallsample spentfuel test→290;40small+1boss soldpaid→250small/4pylons/5bossheld. No householdcore/refgeestate sold, repeatorderconditional notemptyfutureinventory. NativevisitorHollisvouched/plannedreceivingonly. NamedshadowsnotpromotedallPrime, heldpointsunchangedallocations.
 

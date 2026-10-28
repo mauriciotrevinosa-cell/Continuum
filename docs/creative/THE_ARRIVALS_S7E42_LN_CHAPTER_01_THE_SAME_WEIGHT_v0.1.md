@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 13 — The Same Weight
+## Chapter 15 — The Same Weight
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 13
+**Reading order:** 15
 **Source episode:** S7E42
 **Continuity state:** Day794. Dailyclosepace resumes. ConcurrentequivalentBlueeffects maintainindividualoutput, no structuralhalving/twoseparatereserves. Gojo/Ciel/Noise precision/flowimprovements demonstrablyreducewaste; completedSixEyes/MiniCielhelpselection/controlnotmana→CEalchemy. Neutralfieldsseparateorigins/userchoices; channeljointcostMau, readiness/sleeptest/ownerhandoverstillpending. No healedgrey/oldwounds/Gojo100%claim.
 

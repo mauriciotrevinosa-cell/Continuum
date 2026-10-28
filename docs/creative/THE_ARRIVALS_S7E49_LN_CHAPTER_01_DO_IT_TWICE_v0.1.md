@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 9 — Do It Twice
+## Chapter 7 — Do It Twice
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 9
+**Reading order:** 7
 **Source episode:** S7E49
 **Continuity state:** Day817 afternoon. Gojo and Mau benchmark repeated modest Blue placement/control; Gojo's broader extraction baseline not declared restored. Ciel/Mini Ciel support observation and selected attention, not mastery automation. No level/point expenditure/new RCT/domain/BF. Shoko/Gojo retain personal connection, not only medical role. Vessel phrase remains private, no possession event.
 

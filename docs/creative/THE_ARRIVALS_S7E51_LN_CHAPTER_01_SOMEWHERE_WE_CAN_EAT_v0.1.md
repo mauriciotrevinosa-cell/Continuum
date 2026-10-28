@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 13 — Somewhere We Can Eat
+## Chapter 11 — Somewhere We Can Eat
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 13
+**Reading order:** 11
 **Source episode:** S7E51
-**Continuity state:** Day824 afternoon–evening. Yuka's small road purchase is ordinary sweet food, not grimoire/power item or secret memory clue. Couple adds Day823 ordinary outing to Our Year; discusses privacy and communal life after sharing her existing bedroom since812, no new move/proposal/sex/pregnancy or imposing A promise. Partial trauma conversation, exact vessel words remain unshared. Grey vision persists.
+**Continuity state:** Day824 afternoon–evening. Yuka's small road purchase is ordinary sweet food, not grimoire/power item or secret memory clue. Couple adds Day823 ordinary outing to Our Year; discusses privacy and communal life after sharing her existing bedroom since746, no new move/proposal/sex/pregnancy or imposing A promise. Partial trauma conversation, exact vessel words remain unshared. Grey vision persists.
 
 *When: Day824. Yuka opens the package herself because Mau has been pretending not to wonder what is inside.*
 

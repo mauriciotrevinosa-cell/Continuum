@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 39
-## Chapter 12 — There Will Be Cake
+## Chapter 14 — There Will Be Cake
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-26)
 **Volume:** 39
-**Reading order:** 12
+**Reading order:** 14
 **Source episode:** S7E41
 **Continuity state:** Day790 householdbirthdayplanning,Yukanineteen808 nottoday. Ori/Yuka/FrierenBfriendshipcurrent,no memoryoforiginalattack imported. Householdnot60turnrollcall;kitchenrotates,No newwar/arrival/engagement. Yukaanniversarygiftideaofferedforlaterownmaking.
 

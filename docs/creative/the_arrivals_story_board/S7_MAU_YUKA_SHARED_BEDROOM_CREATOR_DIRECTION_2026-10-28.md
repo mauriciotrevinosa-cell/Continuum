@@ -1,0 +1,36 @@
+# S7 — Mau y Yuka comparten dormitorio desde Day812
+
+**Dirección vigente del creador, 2026-10-28.** [Índice lector V40](../THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md). Esta corrección cambia la convivencia posterior, no el inicio de su relación ni la conversación de familia.
+
+## Mensajes del creador, íntegros
+
+> si ya pase eso ya voy en vol sig voy en el dia 700 y algo y se me hace demasiada mala idea que quiera pedir matrimonio sin andar ya viviendo en el mismo cuarto voy en vol 40 chapter 4 y ya se que tendras que arreglar futuros chapters pero queda mejor asi
+
+> puedes hacerlo despues de v40 chapter 4 si quieres
+
+## Escenas y fechas
+
+Se conservan íntegros V40#1–4 y todos los capítulos anteriores. La decisión de esperar en V38#25/Day626 sigue siendo cierta: no se fingió que ya convivían entonces. Después de V40#4, Day812 por la tarde:
+
+1. **Nuevo V40#5, S7E47CH03, One Door for Both of Them:** Day812 después de cenar. Yuka plantea a Mau que ya quiere compartir casa cotidiana y dormitorio, no sólo visitas. Él también quiere. Conversan entre ellos primero y después con Yuta/Maki/Mai/Rimuru. Se elige que **Mau se mude a la habitación existente de Yuka**. Ambos reconocen que ella no estaba lista antes; ahora llevan un año, no una decisión por crisis, propuesta, embarazo o culpa.
+2. **Nuevo V40#6, S7E47CH04, Where His Shoes Belong:** misma noche812, mudanza real de pertenencias/silla y primera noche; mañana813 se despiertan juntos y vuelven a desayunar con todos. No remodelación mágica ni lista de trámites en vez de intimidad.
+
+Los antiguos V40#5–32 pasan a#7–34; todos conservan archivos/URLs. Los episodiosS7E48–61 siguen iguales; se agregan dos capítulos al episodio47, sin fingir que cada episodio admite sólo dos. El taller de Day813 sigue después de la primera mañana, sin cambiar sus fechas. V41 mantiene sus28capítulos y fechas, incluidos cumpleaños/Monarch, y se corrigen sus referencias domésticas.
+
+## Layout y propiedad
+
+- La habitación que ocupaba Yuka ahora es de ambos. Compartir cama y pertenencias es convivencia habitual, no sólo una noche como visita o vigilancia clínica.
+- Rimuru conserva su **loft existente sobre el antiguo cuarto de Mau**, y el uso de ese cuarto debajo; no se muda a su oficina de abajo, no aparece un loft sobre Yuka y no se convierte en vigilante de dormitorio. No hay dos cuartos actuales de Mau ni una réplica del loft.
+- La condición anterior de no desplazar a Rimuru al hablar del antiguo cuarto de Mau se respeta. La familia escucha y acompaña la decisión actual de los adultos. No se importa una prohibición perpetua de dormir juntos de la conversación626.
+- Se trasladan la silla ordinaria, ropa, notas y Our Year de Mau. Two Beginnings sigue siendo de Yuka. Una segunda almohada de la lencería común se presta explícitamente. No duplicar objetos o inventar stock/coste mágico. Las armas siguen almacenadas de manera normal y no cambian de dueño.
+- El nuevo rincón de la common room en875 continúa como espacio compartido de toda la casa, no un dormitorio futuro de la pareja. La conversación824 se ajusta a convivir y querer un lugar tranquilo **abajo** sin aislarse de las comidas/familia.
+
+## Relación y límites de conocimiento
+
+Desear una hora a solas sigue permitido a ambos; no se castiga tomar espacio como ruptura. Compartir cuarto no cura trauma, pérdida de color, blur o rigidez. Yuka no es terapeuta ni vigilante. No se añade sexo, embarazo, propuesta consumada, nueva promesa divina o cambio de edad. Yuta/Maki/Mai saben y mantienen confianza. Rimuru y Mau conservan amistad cotidiana aunque ya no duerman bajo el mismo techo interior inmediato.
+
+Se corrigen los finales que antes hacían despedirse a la pareja por sus cuartos y el cumpleaños en que Mau miraba un loft encima de su cama. Ahora Rimuru visita/llama desde la puerta del dormitorio compartido, con Yuka ya ayudando abajo. El futuro deseo de matrimonio sucede **después de meses de convivencia real**, no como sustituto de aprender a vivir juntos.
+
+## Lectura de registros anteriores
+
+«Cuartos separados» sigue siendo verdad hasta812 antes de esta escena. Después es histórico/sustituido por esta dirección. Las notas de S7 anteriores que decían esperar sin fecha no impiden esta decisión autorizada. Los checkpoints históricos conservan numeración de entonces; para V40 antiguoorden≥5, sumar2. V40 cierra ahora#34/Day891; V41 cierra#28/B+6, sin cambio de cronología, poderes, ejército o recursos por esta mudanza.

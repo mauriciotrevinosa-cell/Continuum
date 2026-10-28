@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 24 — A Place for the Chair
+## Chapter 26 — A Place for the Chair
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 24
+**Reading order:** 26
 **Source episode:** S7E57
 **Continuity state:** Day875 afternoon–evening. First agreed portion of two-tool proceeds buys ordinary timber/fastenings/cloth, recorded without new currency invention or crystal trade. Existing common-room edge reorganized as quiet shared alcove, no exterior expansion/root intrusion/bedroom moves. New scouts first route trial deployed with six existing ordinary and Igris coordination, all return; no new units or transport consent violation. Couple shares practical work and affection; small future space not exclusive property.
 

@@ -2395,3 +2395,7 @@ V41#21–24 completan el aftermath acordado: fuente de boda verificada, no cuart
 ### S7 — Revisión autorizada de la revancha «No limits», 2026-10-27
 
 El creador pide disfrute mutuo, acuerdo literal y escalada creativa con inspiración física. V41#2 se amplía a#2–6 y#1 prepara las preguntas/pruebas; antiguos#3–24 pasan a#7–28, con prosa/archivos/URLs conservados. Gojo desarrolla gradientes/lente/campos coordinados/rutaPurple; Ciel indica a Mau integrar su bag antes de copiar otras evoluciones. Dominios, armas y llamadas se usan en escena; límites internos/costes/reparación/privacidad conservados. Nuevo final de volumen#28/B+6, mismo cumpleaños/templo/regreso/aftermath. [Texto íntegro del creador, fuentes científicas y continuidad](S7_GOJO_MAU_NO_LIMITS_REMATCH_REVISION_2026-10-27.md). Entradas superiores conservan su numeración histórica de publicación.
+
+### S7 — Convivencia Mau/Yuka después de V40#4, 2026-10-28
+
+El creador quiere convivencia previa al matrimonio y permite insertarla después de su punto de lectura. V40#1–4 y todo lo anterior intactos. Dos nuevos capítulos#5–6/Day812noche→813mañana muestran elección mutua, familia, mudanza deMau al cuarto deYuka, primera noche/despertar. Rimuru conserva loft/cuarto anterior, no se muda a oficina. Antiguos#5–32 pasan a#7–34/URLs iguales; V41 sigue28capítulos, se corrigen despedidas y cumpleaños conloft. [Mensajes completos y regla vigente](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md). Checkpoints anteriores usan numeración histórica; no atribuir convivencia a626.

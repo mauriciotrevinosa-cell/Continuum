@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 6 — Let It Sit
+## Chapter 8 — Let It Sit
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 6
+**Reading order:** 8
 **Source episode:** S7E48
 **Continuity state:** Day814 late morning. Kitchen rotation shown with Rem/Ram/Mau/Fern, Momo has leisure. Frieren and Ori visit; Frieren remains teacher/friend to Mau and Mum to Ori. Fern retains role but takes time with Frieren. Ordinary existing ingredients only, no new harvest/greenhouse technology, crystals, recipe powers or private family disclosures.
 

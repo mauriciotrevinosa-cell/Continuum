@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 10 — What the Letter Can Say
+## Chapter 12 — What the Letter Can Say
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 10
+**Reading order:** 12
 **Source episode:** S7E50
 **Continuity state:** Same Day823 afternoon–evening. Household-authorized response carried to inquiry, two buyers agree in principle to two initial test pieces (one each), not eight or paid sale. Specifications/capacity/final price await household confirmation; Hollis remains intermediary. A single scheduled road-keeper contact proposed, not blanket town permit. Tamsin cutter returned, inspection/repair transport share settled from household money, no new proceeds/crystals/units. Party returns with no new residents.
 
@@ -113,7 +113,7 @@ Wakana set the new measurements beside the household work he had promised to fin
 
 Nothing needed to be decided over the meal.
 
-When Yuka came back from her room, she found Mau waiting by the stairs and put a small paper-wrapped package in his hand.
+When Yuka came back from their room, she found Mau waiting by the stairs and put a small paper-wrapped package in his hand.
 
 "For tomorrow," she said. ʸᵏ
 

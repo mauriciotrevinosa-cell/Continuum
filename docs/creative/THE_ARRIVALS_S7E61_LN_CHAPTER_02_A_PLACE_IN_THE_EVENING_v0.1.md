@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 32 — A Place in the Evening
+## Chapter 34 — A Place in the Evening
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 32
+**Reading order:** 34
 **Source episode:** S7E61
-**Continuity state:** Day891 afternoon–night, natural V40 close. Refuge chosen/tested and second favor fulfilled, ordinary house life continues with DIO brief meal then voluntary return. Couples/family bonds active without claiming universal reconciliation. Scouts/routes/reports/workshop and full power/calendar/Monarch preparations remain future and explicitly carried. No new resources, engagement, shared-bedroom move, color cure or catastrophe. V40 closed as production draft, S7 open.
+**Continuity state:** Day891 afternoon–night, natural V40 close. Refuge chosen/tested and second favor fulfilled, ordinary house life continues with DIO brief meal then voluntary return. Couples/family bonds active without claiming universal reconciliation. Scouts/routes/reports/workshop and full power/calendar/Monarch preparations remain future and explicitly carried. No new resources, engagement, further bedroom move, color cure or catastrophe; Mau/Yuka already share her existing room since812, Rimuru retains old loft. V40 closed as production draft, S7 open.
 
 *When: Day891. Yuka finds Mau in the common room with the map open and enough space beside him for her to know he has been expecting her.*
 
@@ -125,12 +125,14 @@ He looked at her.
 
 "Yes." ᴹ
 
-They went upstairs together and parted where their rooms required it.
+They went upstairs together. Rimuru called good night from the old room before retreating to the loft; Yuka answered while Mau opened the door which now belonged to both of them.
 
-Mau put the map beside his chair. Above him, Rimuru was already moving in the loft, making the small familiar noises of someone deciding it was time to sleep.
+He put the map beside his chair. Yuka set her book down and moved his cup into reach, a small adjustment she no longer needed to ask about.
 
 He opened the newest page once more.
 
 The cup Yuka had drawn leaned a little toward the chair.
 
-He left it that way and put out the lamp.
+He left it that way.
+
+Yuka had already settled on her side of the bed. He put out the lamp, found her hand beneath the blanket and stayed where she had made room for him.

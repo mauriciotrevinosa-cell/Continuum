@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 15 — Beneath the Broken Arch
+## Chapter 17 — Beneath the Broken Arch
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 15
+**Reading order:** 17
 **Source episode:** S7E53
 **Continuity state:** Day845 ordinary blue dungeon, same planned five-person party. Frieren leads, Fern precision, Stark C axe equipped effect, Yuka Dogs/Toad and modest Blue in sequence, Mau physical/limited Ruler grip. Not Red Gate, no time dilation/counter revision. Thirteen dungeon creatures defeated (12 smaller plated crawlers+one larger keeper); extraction/count/loot not complete untilnextchapter. No injuries beyond minor exertion; no all100%, simultaneous foreign/native CT claim, new named boss power or architect contact.
 

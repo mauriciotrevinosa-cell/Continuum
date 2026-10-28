@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 25 — Someone Beside the Water
+## Chapter 27 — Someone Beside the Water
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 25
+**Reading order:** 27
 **Source episode:** S7E58
 **Continuity state:** Day882 afternoon. One existing route scout reports wounded woman outside protected perimeter, observes without abduction. Mau/Anko/Mikasa respond, Rimuru remains home; no attack crosses protection, no shadow destroyed/new enemy defeated. DIO arrives as same Goddess in vulnerable body, identity recognized by voice and personal reference, no avatar distinction. Initial assistance/consent, complete account still pending.
 

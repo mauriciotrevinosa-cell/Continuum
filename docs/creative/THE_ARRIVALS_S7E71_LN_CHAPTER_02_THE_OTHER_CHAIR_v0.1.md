@@ -5,7 +5,7 @@
 **Volume:** 41
 **Reading order:** 24
 **Source episode:** S7E71
-**Continuity state:** B+3 recovery/homeguests. DIO returns privately toownroom withmutualtiming, Ashbornquietroom2no conscription, sentinelgiftunrankedundemonstrated. Mau freshinjuryimprovingnotallhealed, scarfYuka retained, originalrooms/loft separate. Shared chores/foodhumor, no divinegiftflood or sourceinfo dump. No new coins/resources/power/relationshipreset.
+**Continuity state:** B+3 recovery/homeguests. DIO returns privately toownroom withmutualtiming, Ashbornquietroom2no conscription, sentinelgiftunrankedundemonstrated. Mau freshinjuryimprovingnotallhealed, scarfYuka retained, shared Mau/Yuka bedroom retained since812, Rimuru oldloft distinct. Shared chores/foodhumor, no divinegiftflood or sourceinfo dump. No new coins/resources/power/relationshipreset.
 
 *When: The third day after the gate. Rimuru finds Mau staring at an empty chair and asks whether it has done something wrong.*
 

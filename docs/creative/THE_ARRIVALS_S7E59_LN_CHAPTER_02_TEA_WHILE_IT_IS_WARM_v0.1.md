@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 28 — Tea While It Is Warm
+## Chapter 30 — Tea While It Is Warm
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 28
+**Reading order:** 30
 **Source episode:** S7E59
 **Continuity state:** Day884 afternoon/evening. Mau with seven witches, adult Pride retained/private identity untouched. Refuge planning proceeds with Noise/Ciel through already accessible structure, not unopened third access/sealed memory. Consent, notification and exit design, construction not complete yet. No new stat/CE inventory/third heart or automatic knowledge transfer. Yuka and house routines continue.
 

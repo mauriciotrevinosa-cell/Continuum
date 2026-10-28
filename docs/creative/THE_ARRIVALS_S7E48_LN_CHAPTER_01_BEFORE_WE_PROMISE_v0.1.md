@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 5 — Before We Promise
+## Chapter 7 — Before We Promise
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 5
+**Reading order:** 7
 **Source episode:** S7E48
 **Continuity state:** Day813 afternoon. Household/workshop choose repair-first capacity and separate receiving/work spaces; no order accepted or construction completed. Cutter grip repair and torsion test pass an initial check, not unlimited warranty. No charged crystal use, sale, new staff/resident or boundary expansion. Mai contributes without returning to combat.
 

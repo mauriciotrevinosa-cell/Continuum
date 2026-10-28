@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 8 — Her Side of the Ground
+## Chapter 10 — Her Side of the Ground
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 8
+**Reading order:** 10
 **Source episode:** S7E49
 **Continuity state:** Day819 morning and evening. Yuka refines existing Chimera Shadow Garden over bounded placement/recall with Divine Dogs and Toad, not a new tame or effortless full domain. No simultaneous Sky/Limitless/native DE, new duration claim, CE cross-pool, regen or Blueprint rewrite. Mau is agreed external safety support; native cost remains hers. Couple communicates pause/trauma without exact vessel disclosure.
 

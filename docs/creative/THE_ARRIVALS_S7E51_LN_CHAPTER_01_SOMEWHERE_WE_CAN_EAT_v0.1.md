@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 11 — Somewhere We Can Eat
+## Chapter 13 — Somewhere We Can Eat
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 11
+**Reading order:** 13
 **Source episode:** S7E51
-**Continuity state:** Day824 afternoon–evening. Yuka's small road purchase is ordinary sweet food, not grimoire/power item or secret memory clue. Couple adds Day823 ordinary outing to Our Year; discusses privacy and communal life without moving rooms, proposing marriage, sex/pregnancy or imposing A promise. Partial trauma conversation, exact vessel words remain unshared. Grey vision persists.
+**Continuity state:** Day824 afternoon–evening. Yuka's small road purchase is ordinary sweet food, not grimoire/power item or secret memory clue. Couple adds Day823 ordinary outing to Our Year; discusses privacy and communal life after sharing her existing bedroom since812, no new move/proposal/sex/pregnancy or imposing A promise. Partial trauma conversation, exact vessel words remain unshared. Grey vision persists.
 
 *When: Day824. Yuka opens the package herself because Mau has been pretending not to wonder what is inside.*
 
@@ -61,17 +61,17 @@ They remained after the food was gone.
 
 Yuka read the first page again. He had imagined that receiving the map would make it his to read while she watched, but she kept finding her way back through it too. Sometimes she laughed at the same sentence before he reached it.
 
-"I thought about the rooms," she said after a while. ʸᵏ
+"I thought about the space downstairs," she said after a while. ʸᵏ
 
 Mau looked at her.
 
 She kept her finger beside the drawing of the chair.
 
-"When everyone was talking about making more space. I wondered what we'd actually want." ʸᵏ
+"Now that we have our room. I wondered what we'd still want downstairs, when everyone is there." ʸᵏ
 
 He waited.
 
-"Somewhere we could sit without someone asking if we were waiting for food." ʸᵏ
+"Somewhere we could sit downstairs without someone asking if we were waiting for food." ʸᵏ
 
 "We are usually waiting for food." ᴹ
 
@@ -89,7 +89,7 @@ She nodded.
 
 "And come out of when we want to." ʸᵏ
 
-The room discussion with her family had not disappeared. Rimuru was still a person who lived in the loft, not an obstacle they could fold into a floor plan until only the two of them remained. The thought of having a place together was warmer for not needing to rearrange everyone tonight.
+Their room had already begun collecting the small habits neither had known to ask about before living together. Mau had learned which book Yuka wanted within reach at night; she had learned where he would leave his shoes if she did not move the basket there first. Rimuru still had his loft in the old room. A quiet place downstairs could belong to an afternoon with anyone, without making the bedroom the only alternative to a crowded table.
 
 "We could tell them that when there's a drawing," Mau said. ᴹ
 

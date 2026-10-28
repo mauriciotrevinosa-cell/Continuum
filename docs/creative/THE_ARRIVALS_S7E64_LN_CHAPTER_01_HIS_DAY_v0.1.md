@@ -5,11 +5,11 @@
 **Volume:** 41
 **Reading order:** 9
 **Source episode:** S7E64
-**Continuity state:** B, existing chosen birthday morning. Birthday not biological age; household/date retained, no level/coin/armor gift or new power. DIO physicalhome by choice, rooms/relationships retained. Yuka finishing handmade scarf with household help, not delivered until7. Original gate terms still wait/companions, opening tomorrow.
+**Continuity state:** B, existing chosen birthday morning. Birthday not biological age; household/date retained, no level/coin/armor gift or new power. DIO physicalhome by choice, rooms/relationships retained. Yuka finishing handmade scarf with household help, not delivered until V41#11. Original gate terms still wait/companions, opening tomorrow.
 
 *When: The morning of Mau's chosen birthday. Rimuru tells him not to come downstairs yet and then immediately forgets the reason he was supposed to give.*
 
-Mau looked up at the loft.
+Mau looked toward the half-open door of their room. Yuka had got up before him to help downstairs. Rimuru stood against the doorframe with an expression which suggested he had been given a very simple task and was making it difficult.
 
 "Is something wrong?" ᴹ
 
@@ -21,7 +21,7 @@ There was a pause.
 
 From beyond the door came Milim's voice telling somebody that secrecy worked better if they were quieter about it.
 
-Rimuru looked down.
+Rimuru glanced toward the stairs.
 
 "I have been betrayed by the organization." ᴿ
 

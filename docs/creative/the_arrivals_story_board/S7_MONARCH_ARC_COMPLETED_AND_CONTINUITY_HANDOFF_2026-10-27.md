@@ -1,6 +1,8 @@
 # S7 — Esqueleto Monarch completado y continuidad de salida
 
-**Fecha:** 2026-10-27. **Entrada de este trabajo:** V40#32 / Day891. **Salida:** V41#28 / seis días después del cumpleaños elegido B. **28 capítulos vigentes tras ampliar la revancha**, S7E62–S7E73. Todos son borradores para revisión, sin aprobación automática.
+> **Convivencia vigente desde Day812 — 2026-10-28:** V40#5–6 muestran decisión, mudanza de Mau al cuarto existente de Yuka y primera noche/mañana. Rimuru conserva loft/cuarto anterior; oficina sigue abajo. Antiguos#5–32 pasan a#7–34 con URLs intactos. V40#1–4 y todo lo anterior se conservan. [Dirección y continuidad](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md).
+
+**Fecha:** 2026-10-27. **Entrada de este trabajo:** V40#34 / Day891. **Salida:** V41#28 / seis días después del cumpleaños elegido B. **28 capítulos vigentes tras ampliar la revancha**, S7E62–S7E73. Todos son borradores para revisión, sin aprobación automática.
 
 El mandato «termina el esqueleto hablado» se ejecutó por escenas hasta el regreso y el procesamiento inmediato. No se volvió a detener en una frontera de volumen para pedir permiso para lo ya autorizado.
 
@@ -74,7 +76,7 @@ Makima sigue una decisión de autor pendiente de mecanismo, extracción/límites
 
 ## Relación y memoria al cierre
 
-Mau/Yuka comparten presente, amor y futuro deseado; reciben y dan ayuda. Our Year está con Mau, Two Beginnings con Yuka; scarf ordinario hecho por ella conMau. No sexo/embarazo/compromiso consumado/cohabitación o nueva edadbiológica fijados. Cuartos separados y loft de Rimuru conservados.
+Mau/Yuka comparten presente, amor y futuro deseado; reciben y dan ayuda. Our Year está con Mau, Two Beginnings con Yuka; scarf ordinario hecho por ella conMau. No sexo/embarazo/compromiso consumado o nueva edadbiológica fijados. Convivencia elegida y mostrada desde812: Mau se muda al cuarto deYuka; Rimuru conserva su loft y antiguo cuarto deMau, oficinaabajo. Matrimonio futuro no sustituye convivencia.
 
 La boda recordada es el último escenario del Trial: fuente S3E59CH03 *Everyone Came*, S4E02CH04 *The Last Two*, S5E44CH01/03/05. Flores blancas/azules, clearing, seam, Infinity que no le deja alcanzar a los demás, mano casi tocándolo. Se cotejó antes de escribir los actuales25–26. No es cuarta línea, falso comienzo externo, nueva mujer real en una habitación o Frieren B obligada a ser viuda.
 

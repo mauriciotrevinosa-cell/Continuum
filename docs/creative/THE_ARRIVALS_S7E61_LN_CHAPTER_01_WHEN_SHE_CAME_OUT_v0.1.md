@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 31 — When She Came Out
+## Chapter 33 — When She Came Out
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 31
+**Reading order:** 33
 **Source episode:** S7E61
 **Continuity state:** Day890 morning–afternoon. DIO returns from refuge by own choice while Mau at home, rests/joins common life, boundary remains fixed. Accountability not erased by gratitude. Ori with Mum Frieren, no restoration of Mau/Papá or Frieren romance. Household plans observation/report response, no reckless pursuit or all Rulers blamed; second indirect gate report still unconfirmed. No new loot/points/coin/family arrival.
 

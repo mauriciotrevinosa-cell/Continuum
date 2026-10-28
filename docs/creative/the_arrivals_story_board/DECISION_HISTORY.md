@@ -2426,3 +2426,8 @@ Se conserva [el mensaje completo](S7_GROWING_CONTINENT_CONVERGENCES_AND_FACTION_
 ### Intake: dominios híbridos posteriores aAshborn y coartada Makima, 2026-10-28
 
 Se conserva [recopilación externa íntegra](S7_HYBRID_DOMAIN_EXTERNAL_REFERENCE_COMPLETE_2026-10-28.md) con procedencia/hash y [mensajes directos más auditoría](S7_HYBRID_DOMAIN_POST_ASHBORN_AUDIT_AND_TRAINING_CREATOR_DIRECTION_2026-10-28.md). Creador aclara resumen incompleto, propone mesa con conocedoresJJK posterior aAshborn y fallo cerebral grave durante entrenamiento al abrir uno/otro/otro e intentar combinarlos. Concepto no se descarta, errores de fuente no se vuelven canon. Makima puede afirmar origen compartido y usar vigilancia/datos; añadido íntegro en su nota. Lecturas primarias visuales registradas, no omnisciencia, nuevos dominios ya logrados o bypass del amparo.1413capítulos intactos.
+
+
+### Dirección del creador y opinión solicitada: después deAshborn, 2026-10-28
+
+[Mensaje íntegro y propuesta editorial](S7_POST_ASHBORN_RECOVERY_AND_NEXT_SEASONS_EDITORIAL_MAP_2026-10-28.md). Accidente cerebral sin lesión física permanente nueva; días encamado y recuerdo de intentar unir configuraciones antes de despertar. Causa: control especializado insuficiente al cambiar condiciones, posible tercerpatrón arrastrado, no regla de imposibilidad de múltiples dominios.90%como explicación aproximada deexigencia, no constante canónica deCE. Se propone cerrar decisión personal preparada, aprendizaje y una noticia exterior; luego comunidades/instituciones/pacto y Makima con preparación, después reparación/respuesta de facciones. Distribución2–3temporadas orientativa, sin fin de serie o verde nuevo.1413capítulos intactos.

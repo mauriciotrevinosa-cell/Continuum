@@ -1,5 +1,7 @@
 # The Arrivals — Dominios híbridos: idea del creador, auditoría y desarrollo posterior a Ashborn
 
+> **Precisión posterior del creador, 2026-10-28:** [texto íntegro y mapa de continuación](S7_POST_ASHBORN_RECOVERY_AND_NEXT_SEASONS_EDITORIAL_MAP_2026-10-28.md). Lesión aguda, unos días encamado, sin daño físico permanente nuevo. Fallo de control especializado al modificar/unir condiciones, posible tercerpatrón accidental; no prohibición absoluta de combinar ni90%como constante deCE. Esta precisión gobierna sobre gravedad/duración antes abiertas.
+
 **2026-10-28. Intake conceptual y dirección de desarrollo, sin autorización de prosa nueva ni desbloqueos retroactivos.** La guía adjunta es una recopilación externa solicitada a otro chat; el creador advierte que al concentrar la conversación pudo perder matices. No es autoridad de canon ni biblia de producción aprobada. Se conserva [íntegra por separado](S7_HYBRID_DOMAIN_EXTERNAL_REFERENCE_COMPLETE_2026-10-28.md), incluidos sus errores y conclusiones, como evidencia del concepto.
 
 ## Mensajes directos del creador, íntegros

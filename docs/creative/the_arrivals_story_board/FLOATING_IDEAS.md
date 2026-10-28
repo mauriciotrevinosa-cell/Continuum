@@ -1,5 +1,7 @@
 # The Arrivals — Floating / Unplaced Ideas
 
+> **Continuación en discusión, 2026-10-28:** [dirección exacta del accidente y mapa posterior aAshborn](S7_POST_ASHBORN_RECOVERY_AND_NEXT_SEASONS_EDITORIAL_MAP_2026-10-28.md). El creador precisa recuperación en días y falta de control fino al combinar dominios, sin secuela permanente nueva. Orden editorial de hilos próximos y de dos/tres tramos, no calendario fijado ni capítulos nuevos.
+
 > **Evolución futura, 2026-10-28:** [dominio híbrido deMau y lesión por combinar expansiones, posterior aAshborn](S7_HYBRID_DOMAIN_POST_ASHBORN_AUDIT_AND_TRAINING_CREATOR_DIRECTION_2026-10-28.md). Guía externa conservada completa, no adoptada como fuente canónica. Makima propone decir venir del mundo deMau usando información espiada; no omnisciencia ni solución tácita al amparo. Nuevas escenas pendientes de diseño.
 
 > **Nueva ampliación del creador, 2026-10-28:** [aislamiento de Mau por Makima y control de convergencias con Rulers](S7_MAKIMA_ATTACHMENT_ISOLATION_AND_RULERS_CONVERGENCE_CREATOR_EXTENSION_2026-10-28.md). Diferenciar amor de utilidad/temor; la casa también manipulada. Refugio de DIO y llegadas aceleradas con pacto territorial por diseñar. Propuesta íntegra conservada, no sucesos ya escritos.

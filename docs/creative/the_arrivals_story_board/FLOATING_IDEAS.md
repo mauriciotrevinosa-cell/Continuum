@@ -1,5 +1,7 @@
 # The Arrivals — Floating / Unplaced Ideas
 
+> **Mapa de desarrollo más reciente, 2026-10-28:** [esqueleto S7–S9 solicitado](S7_S9_CONVERGENCE_HOUSEHOLD_AND_MAKIMA_PROPOSED_SCENE_SKELETON_2026-10-28.md). Cierres, escenas cotidianas y reparto con continuidad; Makima entra temprano como falsa colega/BFF, sin triángulo. [Mensajes y respuestas completos](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md). No números de temporadas finales ni capítulos aprobados por registrar el plan.
+
 > **Continuación en discusión, 2026-10-28:** [dirección exacta del accidente y mapa posterior aAshborn](S7_POST_ASHBORN_RECOVERY_AND_NEXT_SEASONS_EDITORIAL_MAP_2026-10-28.md). El creador precisa recuperación en días y falta de control fino al combinar dominios, sin secuela permanente nueva. Orden editorial de hilos próximos y de dos/tres tramos, no calendario fijado ni capítulos nuevos.
 
 > **Evolución futura, 2026-10-28:** [dominio híbrido deMau y lesión por combinar expansiones, posterior aAshborn](S7_HYBRID_DOMAIN_POST_ASHBORN_AUDIT_AND_TRAINING_CREATOR_DIRECTION_2026-10-28.md). Guía externa conservada completa, no adoptada como fuente canónica. Makima propone decir venir del mundo deMau usando información espiada; no omnisciencia ni solución tácita al amparo. Nuevas escenas pendientes de diseño.

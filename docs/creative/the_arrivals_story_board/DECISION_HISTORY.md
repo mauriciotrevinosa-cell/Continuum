@@ -2431,3 +2431,8 @@ Se conserva [recopilación externa íntegra](S7_HYBRID_DOMAIN_EXTERNAL_REFERENCE
 ### Dirección del creador y opinión solicitada: después deAshborn, 2026-10-28
 
 [Mensaje íntegro y propuesta editorial](S7_POST_ASHBORN_RECOVERY_AND_NEXT_SEASONS_EDITORIAL_MAP_2026-10-28.md). Accidente cerebral sin lesión física permanente nueva; días encamado y recuerdo de intentar unir configuraciones antes de despertar. Causa: control especializado insuficiente al cambiar condiciones, posible tercerpatrón arrastrado, no regla de imposibilidad de múltiples dominios.90%como explicación aproximada deexigencia, no constante canónica deCE. Se propone cerrar decisión personal preparada, aprendizaje y una noticia exterior; luego comunidades/instituciones/pacto y Makima con preparación, después reparación/respuesta de facciones. Distribución2–3temporadas orientativa, sin fin de serie o verde nuevo.1413capítulos intactos.
+
+
+### Esqueleto solicitado y límites de Makima, 2026-10-28
+
+[Petición y respuestas íntegras](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md); [mapa S7–S9](S7_S9_CONVERGENCE_HOUSEHOLD_AND_MAKIMA_PROPOSED_SCENE_SKELETON_2026-10-28.md). Propuesta de cierres y arcos entrelazados con convivencia, sin autorizar prosa. Límite explícito: Makima no seduce ni sustituye a Yuka; afirma trabajo/BFF y viajeEspaña con carreras/fútbol/concierto. Creador elige invención con dudas deMau/confianza posterior. Admisión propuesta porDIO debilitada/oculta y permiso de casa, con escudo físico conservado y mecanismo pendiente de desarrollar.35–55/90–140/90–140capítulos sólo estimaciones flexibles; fronteras de volumen según contenido.1413capítulos intactos, sin ingeniería/DB/Vault.

@@ -1,5 +1,7 @@
 # The Arrivals — Makima: aislamiento afectivo; convergencias aceleradas y negociación con los Rulers
 
+> **Nueva dirección explícita, 2026-10-28:** [mensaje y respuestas completos](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md); [esqueleto propuesto S7–S9](S7_S9_CONVERGENCE_HOUSEHOLD_AND_MAKIMA_PROPOSED_SCENE_SKELETON_2026-10-28.md). Makima es supuesta amiga/colega, sin seducción o rivalidad romántica. Trabajo/viaje son inventados; Mau conserva dudas. Creador propone DIO debilitada/oculta y permiso de casa como vulnerabilidad de admisión, no simple cambio universal del amparo. Desarrollo durante primeras convergencias.
+
 **2026-10-28. Ampliación conceptual del creador. Texto íntegro conservado. No es autorización para iniciar capítulos o dar estos sucesos por ocurridos.** Complementa la [propuesta del continente y las facciones](S7_GROWING_CONTINENT_CONVERGENCES_AND_FACTION_BOARD_CREATOR_PROPOSAL_2026-10-28.md). Los mecanismos técnicos pendientes de esa nota no quedan resueltos por silencio.
 
 ## Mensaje íntegro del creador

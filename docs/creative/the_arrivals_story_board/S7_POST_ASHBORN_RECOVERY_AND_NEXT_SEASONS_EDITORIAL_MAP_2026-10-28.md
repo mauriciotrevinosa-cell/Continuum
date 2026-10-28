@@ -1,5 +1,7 @@
 # The Arrivals — Después de Ashborn: precisión del accidente y mapa editorial de continuidad
 
+> **Desarrollo posterior solicitado, 2026-10-28:** [esqueleto de escenas propuesto S7–S9](S7_S9_CONVERGENCE_HOUSEHOLD_AND_MAKIMA_PROPOSED_SCENE_SKELETON_2026-10-28.md) y [límites/coartada/admisión íntegros](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md). Concreta cierres y vida cotidiana; no transforma estimación en cuota o verde de prosa. La primera entrada de Makima ocurre durante las primeras convergencias, con confianza posterior a una historia que Mau no confirma.
+
 **2026-10-28. Dirección explícita del creador para el accidente + propuesta editorial de continuación para su opinión. No autoriza capítulos nuevos ni fija el final de la serie.** La prosa vigente termina enV41#28/B+6. Dos o tres temporadas describen una escala posible de desarrollo del material, no obligación de terminar ni número definitivo.
 
 ## Mensaje íntegro del creador

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 17 — The Hand He Was Watching
+## Chapter 20 — The Hand He Was Watching
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 17
+**Reading order:** 20
 **Source episode:** S7E54
 **Continuity state:** Day850. Mau/Yuta wooden-sword drill, permanent physique retained and no technique/weapon-stat addition. Existing katana and daggers stored, not surrendered or disabled. Follow-up household proposal for limited route scouts, no new shadow units or universal surveillance. Exact vessel words remain private; repaired Yuta/Mau friendship intact.
 

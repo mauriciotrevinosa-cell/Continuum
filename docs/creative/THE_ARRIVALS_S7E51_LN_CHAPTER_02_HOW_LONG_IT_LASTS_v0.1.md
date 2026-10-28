@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 12 — How Long It Lasts
+## Chapter 15 — How Long It Lasts
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 12
+**Reading order:** 15
 **Source episode:** S7E51
-**Continuity state:** Day831 afternoon–evening. Household approves one further small crystal for repeat lamp-insert test: stock249→248 usable small, 4 pylon/5 boss unchanged, spent insert separate. Existing lamp method refined at bench, not completed grid or installed new lights. Senku/Byakuya/Shoko/Rimuru/Mau collaborative scene; Ciel private through hosts, no public voice. No allocation, pool-merger, power/taming/roster change. Work and medical expertise distributed.
+**Continuity state:** Day831 afternoon–evening. Household approves one further small crystal for repeat lamp-insert test: stock249→248 usable small, 4 pylon/5 boss unchanged, spent insert separate. Existing lamp method refined at bench, not completed grid or installed new lights. Senku/Byakuya/Shoko/Rimuru/Mau collaborative scene; Ciel private through hosts, no public voice. No allocation, pool-merger, power/taming/roster change. Work and medical expertise distributed. Ongoing Mai support checked separately from old fingers/posture; no Construction draw blamed for her native fatigue or old scars.
 
 *When: Day831. Byakuya puts the second mark on the page where Senku has left space for the first.*
 
@@ -76,6 +76,20 @@ After a while, Shoko asked him to relax his hand.
 He looked at it. The stiff fingers had been working harder than he needed them to.
 
 He shifted the housing to the other hand. She watched him do it, then went back to the comparison notes without declaring the experiment over.
+
+"Mai's work?" Rimuru asked quietly. ᴿ
+
+Mau shook his head.
+
+"Holding this badly. She told me she's making a fastening after supper." ᴹ
+
+Shoko looked up.
+
+"And that arrangement, after a few weeks?" ˢʰ
+
+"Still small things. I notice the longer ones. She still tells me first." ᴹ
+
+Rimuru smiled at the particular resignation in the last sentence. Shoko let him keep the housing, with the better grip.
 
 Rimuru caught the look on his face.
 

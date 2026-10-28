@@ -5,7 +5,7 @@
 **Volume:** 41
 **Reading order:** 27
 **Source episode:** S7E73
-**Continuity state:** B+6. Mau asksMai help ringplanning, priorblessingB not repeated as permissionownership. Mai no dutycombat; no unverifiedAConstructionpact imported, new pactwould require explicit scope/cost/test later, ordinary designnow. Marin expertise requested, actualring/proposal/engagement not yet made. Yuka questionsYuta, Maki humor, no dangerconcealed because fullthreatalreadyshared.
+**Continuity state:** B+6. Mau asksMai help ringplanning, priorblessingB not repeated as permissionownership. Mai no dutycombat; currentB CE/body support offered/chosen/tested814 and maintained in housework, not imported from A. Existing supply/load on Mau avoids previous physical overstrain, Mai still chooses/designs/notifies; ring design now, no finished ring or fresh contract negotiation. Marin expertise requested, actualring/proposal/engagement not yet made. Yuka questionsYuta, Maki humor, no dangerconcealed because fullthreatalreadyshared.
 
 *When: Six days after his return. Mai looks at the drawing in Mau's hand and asks whether it is supposed to be a ring or a small bridge.*
 
@@ -47,7 +47,15 @@ He began smiling.
 
 She could help.
 
-That did not make the old agreement he remembered from another history an agreement she had made here. If they wanted to use Construction with him supporting the cost, they would make the scope together, test it and leave her the ability to stop. The fact he could bear more now would not become her consent by implication.
+They had already learned how to put the supply and the bodily cost through him. Mai had spent months announcing hooks, pins and small things for the house before making them, despite his repeated assurance that she did not have to warn him about every one. The agreement belonged to this life. It had begun with a cupboard catch, not a memory she was expected to honour.
+
+A ring would still need her attention and a design she understood. It did not have to take the afternoon from her hands the way her old daily bullet had.
+
+"When we know the shape, I'll tell you what I'm making," she said. ᴹᵃⁱ
+
+Mau smiled.
+
+"I know." ᴹ
 
 "And I'm not going back to fighting because you found a way to make things easier," she said. ᴹᵃⁱ
 

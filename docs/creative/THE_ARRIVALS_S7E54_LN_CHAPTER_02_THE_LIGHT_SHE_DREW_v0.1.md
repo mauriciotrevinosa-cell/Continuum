@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 18 — The Light She Drew
+## Chapter 21 — The Light She Drew
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 18
+**Reading order:** 21
 **Source episode:** S7E54
 **Continuity state:** Day852 late afternoon. Coco/Qifrey/Richeh and Coco's mother, small existing glyph-light practice with measured existing ink. No discovery that all Witch Hat magic uses mana/crystals, public ink disclosure, imported family arrival or new permanent house grid. Mother's presence retained. Short side scene with its own purpose.
 

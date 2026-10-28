@@ -57,6 +57,8 @@ Noise's completed work was less simple than changing the heading from one kind o
 
 The Window could now map the improvement to the separate channels they had tested: the shadow reserve, the capacity of his own mana and the handling of cursed energy. Each still had its own demands. A wider supply did not mean every route could deliver it at once, or that a new technique came with the understanding to use it.
 
+The Black Heart's inexhaustible source was still behind the access they were learning to widen. More capacity here meant more he could draw, hold and handle safely; they were not adding a number to infinity. His cursed energy and the reserve which served the shadows kept their separate accounts.
+
 Ciel confirmed the tests privately. Mau repeated what belonged to the decision.
 
 Umaru turned the page.

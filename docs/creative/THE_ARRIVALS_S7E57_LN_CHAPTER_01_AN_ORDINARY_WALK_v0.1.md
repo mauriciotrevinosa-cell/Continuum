@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 23 — An Ordinary Walk
+## Chapter 26 — An Ordinary Walk
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 23
+**Reading order:** 26
 **Source episode:** S7E57
 **Continuity state:** Day869. Independent native Round Deer call confirms Yuka's eighth family; brief healing of Mau's incidental fresh knuckle scrape observed with Shoko, no manufactured wound or old-condition cure. Native source Yuka, not automatic Mau subsidy. Later Gojo/Shoko walk, personal connection without marriage/sex/status declaration or full recovery of Gojo kit. No stock/XP/shadow change.
 

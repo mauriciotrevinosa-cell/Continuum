@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 13 — Two to Begin
+## Chapter 16 — Two to Begin
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 13
+**Reading order:** 16
 **Source episode:** S7E52
 **Continuity state:** Day838 afternoon. Hollis delivers written replies after travel. House accepts making two distinct first cutters for external testing at agreed prices, payment on acceptance/delivery, not eight sold or paid. Household repairs scheduled first; existing material reserved, no crystals consumed or fictional income. Local road letter names visitors/process within three posts, not general immunity/treaty. No new building/resident.
 

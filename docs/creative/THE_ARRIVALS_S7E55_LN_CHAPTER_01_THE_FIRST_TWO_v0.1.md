@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 19 — The First Two
+## Chapter 22 — The First Two
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 19
+**Reading order:** 22
 **Source episode:** S7E55
-**Continuity state:** Day856 workshop, two commissioned cutters completed/tested from reserved worked stock, not untested keeper plates. Different grips, ordinary handling/design contributions Wakana/Marin/Mai. No CE Construction pact or currency/loot changes. Household notice sent through existing route for delivery862; manufacture not counted as paid sale yet.
+**Continuity state:** Day856 workshop, two commissioned cutters completed/tested from reserved worked stock, not untested keeper plates. Different grips, ordinary handling/design contributions Wakana/Marin/Mai. Existing Mai CE/body support since814 not used to conjure these cutters; ordinary craft/testing retained. No currency/loot changes. Household notice sent through existing route for delivery862; manufacture not counted as paid sale yet.
 
 *When: Day856. The two cutters lie beside each other, and Mau reaches for the wrong one.*
 
@@ -80,6 +80,20 @@ He turned it toward the light.
 "Good. We can stop explaining his hand to him." ᴹᵃⁱ
 
 * * *
+
+Marin asked whether Mai wanted to make the next fastening with her technique.
+
+"Not on these," Mai said. "We agreed what they were buying. Wakana's fitting has to work without me standing beside it." ᴹᵃⁱ
+
+She turned to Mau.
+
+"The kitchen hook after lunch. I measured it." ᴹᵃⁱ
+
+He began smiling.
+
+"You already told me." ᴹ
+
+"Now you know it's still the hook." ᴹᵃⁱ
 
 The delivery notice went out before the tools did.
 

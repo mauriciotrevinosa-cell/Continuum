@@ -1,8 +1,10 @@
 # S7 — Esqueleto Monarch completado y continuidad de salida
 
+> **Acuerdo Mau/Mai y reservas en escena — 2026-10-28:** V40#7–9/814–816, después del6: oferta y pruebas del canal, tareas domésticas/avisos deMai, tres demandas y comparación de reservas por ejes. Fuente de maná inagotable detrás de acceso/cuerpo aún limitados, no CE/sombra infinitos o despertar total. Antiguos#7–32 pasan a#10–35; fechas/URLs previos intactos. [Dirección íntegra y continuidad](S7_MAU_MAI_CONSTRUCTION_SUPPORT_AND_RESERVE_AXES_2026-10-28.md).
+
 > **Punto lector corregido por el creador — 2026-10-28:** convivencia en **V39#5–6 / noche746→mañana747**, después deV39#4. Se conserva V39#1–4. Mau se muda al cuarto deYuka; Rimuru conserva loft/cuarto anterior. V39 ahora22capítulos y V40 vuelve a32; ambos conservan fechas y URLs previos. La ubicación inicialV40#5–6/812 queda sustituida, no son dos mudanzas. [Dirección y continuidad](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md).
 
-**Fecha:** 2026-10-27. **Entrada de este trabajo:** V40#32 / Day891. **Salida:** V41#28 / seis días después del cumpleaños elegido B. **28 capítulos vigentes tras ampliar la revancha**, S7E62–S7E73. Todos son borradores para revisión, sin aprobación automática.
+**Fecha:** 2026-10-27. **Entrada de este trabajo:** V40#35 / Day891. **Salida:** V41#28 / seis días después del cumpleaños elegido B. **28 capítulos vigentes tras ampliar la revancha**, S7E62–S7E73. Todos son borradores para revisión, sin aprobación automática.
 
 El mandato «termina el esqueleto hablado» se ejecutó por escenas hasta el regreso y el procesamiento inmediato. No se volvió a detener en una frontera de volumen para pedir permiso para lo ya autorizado.
 
@@ -82,7 +84,7 @@ La boda recordada es el último escenario del Trial: fuente S3E59CH03 *Everyone 
 
 Él recuerda la importancia de ese amor y hace duelo sin elegir reactivar romance con Frieren B ni hacer competir a Yuka con una novia recordada. La memoria no se borra y un trigger futuro no invalida el trabajo. Ciel respeta la intimidad y no ve el archivo porque Mau necesite compañía. Familia escucha sin exigir que esté curado antes de estar presente.
 
-Mai decide ayudar al diseño; no existe un pacto B importado automáticamente del A. Si emplean Construction habrá acuerdo/alcance/coste/test específicos, no obligación de ella a volver a luchar. Yuta/Maki/Mai dieron bendición, no respuesta por Yuka. Sorpresa del anillo aceptada como sorpresa, no venta de su elección de matrimonio.
+Mai decide ayudar al diseño; el pacto de soporte se establece enB814 con oferta/elección/pruebas propias y seguimiento. FuenteCE/cargaMau, ellaavisa/decide; no importar otro deA ni repetir negociación como pendiente. No obligación de ella a volver a luchar. Yuta/Maki/Mai dieron bendición, no respuesta por Yuka. Sorpresa del anillo aceptada como sorpresa, no venta de su elección de matrimonio.
 
 ## Tiempo y fuente: límites documentados
 

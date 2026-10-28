@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 7 — Do It Twice
+## Chapter 10 — Do It Twice
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 7
+**Reading order:** 10
 **Source episode:** S7E49
-**Continuity state:** Day817 afternoon. Gojo and Mau benchmark repeated modest Blue placement/control; Gojo's broader extraction baseline not declared restored. Ciel/Mini Ciel support observation and selected attention, not mastery automation. No level/point expenditure/new RCT/domain/BF. Shoko/Gojo retain personal connection, not only medical role. Vessel phrase remains private, no possession event.
+**Continuity state:** Day817 afternoon. Gojo and Mau benchmark repeated modest Blue placement/control; Gojo's broader extraction baseline not declared restored. Ciel/Mini Ciel support observation and selected attention, not mastery automation. No level/point expenditure/new RCT/domain/BF. Shoko/Gojo retain personal connection, not only medical role. Vessel phrase remains private, no possession event. Mai ongoing current814 support acknowledged by prior notification; memory pause remains trauma, not caused by her supply draw.
 
 *When: Day817. Gojo moves the second target after Mau has carefully measured the first.*
 
@@ -16,6 +16,20 @@ Mau looked at the stone now lying nearer the edge of the marked ground.
 "You could have put it there before I started." ᴹ
 
 "And lose the chance to watch you complain?" ᴳ
+
+Mai stopped at the edge of the practice ground before the pull began.
+
+"One small pin. For the pantry fastening," she said. ᴹᵃⁱ
+
+Mau looked at her.
+
+"I know. I can tell you if—" ᴹ
+
+"Then tell me. I'm telling you my part first." ᴹᵃⁱ
+
+She went back toward the workshop. Gojo watched Mau's expression with considerable interest.
+
+"A very informative arrangement," he said. ᴳ
 
 The pull gathered small and controlled. Mau brought the first weighted pad to its mark, released and reached for the next position before the pad had quite settled.
 

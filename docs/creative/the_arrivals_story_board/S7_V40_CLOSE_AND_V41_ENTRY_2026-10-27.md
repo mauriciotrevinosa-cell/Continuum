@@ -1,8 +1,10 @@
 # S7 — Cierre de V40 y entrada de V41
 
+> **Acuerdo Mau/Mai y reservas en escena — 2026-10-28:** V40#7–9/814–816, después del6: oferta y pruebas del canal, tareas domésticas/avisos deMai, tres demandas y comparación de reservas por ejes. Fuente de maná inagotable detrás de acceso/cuerpo aún limitados, no CE/sombra infinitos o despertar total. Antiguos#7–32 pasan a#10–35; fechas/URLs previos intactos. [Dirección íntegra y continuidad](S7_MAU_MAI_CONSTRUCTION_SUPPORT_AND_RESERVE_AXES_2026-10-28.md).
+
 > **Punto lector corregido por el creador — 2026-10-28:** convivencia en **V39#5–6 / noche746→mañana747**, después deV39#4. Se conserva V39#1–4. Mau se muda al cuarto deYuka; Rimuru conserva loft/cuarto anterior. V39 ahora22capítulos y V40 vuelve a32; ambos conservan fechas y URLs previos. La ubicación inicialV40#5–6/812 queda sustituida, no son dos mudanzas. [Dirección y continuidad](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md).
 
-**Fecha:** 2026-10-27. **Estado:** V40 completo como borrador de producción, revisión del creador pendiente. **32 capítulos**, S7E46–S7E61; salida **Day891 por la noche**. Este cierre no termina S7 ni aprueba automáticamente sus capítulos. V41 todavía no tiene prosa o índice creados.
+**Fecha:** 2026-10-27. **Estado:** V40 completo como borrador de producción, revisión del creador pendiente. **35 capítulos**, S7E46–S7E61; salida **Day891 por la noche**. Este cierre no termina S7 ni aprueba automáticamente sus capítulos. V41 todavía no tiene prosa o índice creados.
 
 [Índice V40](../THE_ARRIVALS_LN_VOLUME_40_INDEX_v0.1.md) · [Registro vivo y tabla de escenas](S7_VOLUME40_PRODUCTION_STATE_2026-10-26.md) · [Esqueleto posterior vigente](S7_MAU_BIRTHDAY_MONARCH_TRIAL_SCENE_SKELETON_2026-10-26.md) · [Propuesta íntegra de cumpleaños/Monarch](S7_MAU_BIRTHDAY_MONARCH_TRIAL_CREATOR_FULL_PROPOSAL_2026-10-26.md).
 
@@ -65,7 +67,7 @@ Mau/Yuka tienen presente propio: mapa Our Year ampliado con camino y rincón, ti
 
 Mau/Yuka comparten desde746 el cuarto que antes era de Yuka; su silla/ropa/mapa se mudaron en escena. Rimuru conserva su loft y el antiguo cuarto de Mau, oficina aparte abajo. Frieren sigue amiga/maestra de Mau y Mum de Ori; Ori conserva el compás. No restaurar romance de A o llamar a Mau Papá por este refugio. La amabilidad de Frieren con él no es una recaída romántica.
 
-Yuta/Maki/Mai mantienen su confianza reparada y su relación familiar. Yuta/Mau practican espada de madera con voz de hermanos/amigos. Mai contribuye por elección al taller, sin nuevo pacto Construction o regreso a combate. Antes del futuro anillo comprobar qué contrato existe realmente en B.
+Yuta/Maki/Mai mantienen su confianza reparada y su relación familiar. Yuta/Mau practican espada de madera con voz de hermanos/amigos. Mai contribuye por elección al taller y tiene soporteCE/cargaMau desde814, probado y mantenido en objetos domésticos. No obligación de combate; acuerdo actualB ya listo para futuro anillo, no importar uno deA.
 
 Bocchi y banda conservan autoría y relación de hermana con Mau; Fern delega y disfruta tiempo con Frieren/Ori; Momo tiene descansos reales de cocina; Coco y su madre tienen lección/paseo, Richeh/Qifrey voz propia. Siete brujas presentes, Pride adulta con identidad privada sin tocar. Gojo/Shoko tienen un paseo propio. Eren/Mikasa contribuyen a rutas y luego salen del trabajo; Kaneki/Touka/Ichika y Taihei/Umaru siguen vida familiar.
 

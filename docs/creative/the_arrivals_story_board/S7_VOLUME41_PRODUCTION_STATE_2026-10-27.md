@@ -1,5 +1,7 @@
 # S7 — V41: producción y continuidad
 
+> **Acuerdo Mau/Mai y reservas en escena — 2026-10-28:** V40#7–9/814–816, después del6: oferta y pruebas del canal, tareas domésticas/avisos deMai, tres demandas y comparación de reservas por ejes. Fuente de maná inagotable detrás de acceso/cuerpo aún limitados, no CE/sombra infinitos o despertar total. Antiguos#7–32 pasan a#10–35; fechas/URLs previos intactos. [Dirección íntegra y continuidad](S7_MAU_MAI_CONSTRUCTION_SUPPORT_AND_RESERVE_AXES_2026-10-28.md).
+
 > **Punto lector corregido por el creador — 2026-10-28:** convivencia en **V39#5–6 / noche746→mañana747**, después deV39#4. Se conserva V39#1–4. Mau se muda al cuarto deYuka; Rimuru conserva loft/cuarto anterior. V39 ahora22capítulos y V40 vuelve a32; ambos conservan fechas y URLs previos. La ubicación inicialV40#5–6/812 queda sustituida, no son dos mudanzas. [Dirección y continuidad](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md).
 
 **Alcance:** completar el esqueleto hablado, sin detenerse en límites de volumen. [Instrucción actual](S7_COMPLETE_MONARCH_ARC_EXECUTION_LOCK_2026-10-27.md) · [Índice lector](../THE_ARRIVALS_LN_VOLUME_41_INDEX_v0.1.md). Borrador, no aprobación automática.
@@ -36,7 +38,7 @@
 | 24 | S7E71 CH02 | B+3 | RecuperaciónvidaDIO/Ashbornconconsent, RimuruYukaacompañan;MauabrebodaTrial, no propuestahecha. |
 | 25 | S7E72 CH01 | B+3tarde | Yuka/Mau hablan de bodaTrial vs futuropropio, amigosacompañan sin escapealgate; no nuevaFrierenBculpable. |
 | 26 | S7E72 CH02 | B+4 | Duelo consciente recuerdo comprobado, no novia creada/curatotal; Cielrespetaarchivo,Yuka manoactual, se deja terminar memoria. |
-| 27 | S7E73 CH01 | B+6día | Anillo planificación conMai, no pactodeAimportado;YukapreguntaYuta/Makirie, no amenazaencubierta. |
+| 27 | S7E73 CH01 | B+6día | Anillo planificación conMai, soporteCE/cargaB814yaexiste;YukapreguntaYuta/Makirie, no amenazaencubierta. |
 | 28 | S7E73 CH02 | B+6noche | Yukaelige sorpresa tras saber seguridad, pareja/familia presente; cierra esqueleto/regreso-aftermath, no boda/propuesta inventada. |
 
 ## Estado actual
@@ -45,7 +47,7 @@
 
 Se escribieron progresión/preparación, cumpleaños, bendición, Maki/reunión, opción real de esperar, sanción nueva, decisión honesta, combate corporal, Arise trasfase, Ashborn voluntario/gift separado, expulsión/Beru, registro/autorizado/despertarYuka, informe de amenaza y recuperación.25–26 procesan la boda delTrial verificadaS3E59/S4LastTwo/S5E44: escena recordada no cuarto temporal nuevo, sin reconstruirnovia como persona o cambiar el final. Mau puede llorar/recordar sin obligación de quedarseahí; no se cura toda posibilidad de trigger. Ciel respeta no abrirarchivo y espera, Yuka acompaña concontactoactual. No romanceFrierenB restituido/apologíaatribuidaalaFrierenactual.
 
-27–28: pide ayudaMai para plananillo tras bendiciónB; no importa pactoConstruction deA. Si quieren ese método tendrán queacordar alcance/coste/test, sin obligaciónMai de pelear; diseñoordinario síempieza,Marin se propone conpermiso. No anillo creado, propuesta hecha/consentimientoYuka asumido o boda pública. Yuka preguntaYuta, Maki se ríe; ambos aclaran que no encubren peligro/gate. Mau explica que es sorpresa y ofrece contarla si noquiereesperar;Yukaelige sorpresa. Secreto es regalo, amenaza ya declarada23. Cena/beso/dormitorioMauYukacompartido desde746, mundo sigue sinnuevoRedGate/doom.
+27–28: pide ayudaMai para plananillo tras bendiciónB; soporteConstruction actualB se ofreció/eligió/probó814 y sigue en tareas de casa. FuenteCE/cargaMau, Maiavisa/elige/diseña, sin obligación de pelear; no negociarotra vez el mismo contrato. Diseño empieza,Marin se propone conpermiso. No anillo creado, propuesta hecha/consentimientoYuka asumido o boda pública. Yuka preguntaYuta, Maki se ríe; ambos aclaran que no encubren peligro/gate. Mau explica que es sorpresa y ofrece contarla si noquiereesperar;Yukaelige sorpresa. Secreto es regalo, amenaza ya declarada23. Cena/beso/dormitorioMauYukacompartido desde746, mundo sigue sinnuevoRedGate/doom.
 
 **Base final:** Mau126/57puntosretenidos/Int460; asignación100permanente(20Strength/Dexterity/Perception/Vitality/Intelligence) posterior a6clears, no puntos por spar/Trial. Legion1014=997ordinary+16named+1sentinelgiftseparado/no rango impuesto;Mahoapart;huéspedesDIO/Ashborn no soldados.603smallusables/4pylon/12boss, spent lámparaantes fuera, nada nuevo deTrialcredit o coin. ArsenalDragon'sWrathpair/katana retenido. Scarf regaloYuka conMau, OurYearconMau/TwoBeginningsYuka. Grey salvoYuka/blurlateral/dedosviejos/cicatrices/mechón sin curar; daños frescosestatuas reparanpero reposoCielShokosigue.
 

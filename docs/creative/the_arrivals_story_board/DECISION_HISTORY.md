@@ -2403,3 +2403,7 @@ El creador quiere convivencia previa al matrimonio y permite insertarla después
 ### S7 — Creador corrige V40 por V39 en su punto lector, 2026-10-28
 
 Mensaje íntegro: «donde pusiste los nuevos? no me digas que en vol 40 voy en vol 39 chapter 4 sorry me equivoque». Se trasladan las dos escenas aV39#5–6/746–747 después delGreatSerpent, conYuka18 y~10mesesjuntos. Sin OurYear/TwoBeginnings antes de808. NuevosIDsS7E37CH03/04 sustituyen sólo los dos recién añadidos enS7E47; no duplicación de mudanza/hover. V39=22,V40=32,V41=28,total1410. Primeros4del39 intactos; eve/aniversario y mañana809 corregidos a dormitorio compartido, futuro746 no812. [Regla vigente](S7_MAU_YUKA_SHARED_BEDROOM_CREATOR_DIRECTION_2026-10-28.md). La entrada anterior describe la ubicación inicial sustituida.
+
+### S7 — Soporte Mai y reservas por ejes después de V40#6, 2026-10-28
+
+Creador pide ofrecer CE y recibir coste físico deConstruction, Mai avisa siempre aunqueMau diga que no hace falta; tareas domésticas en vez de balas y seguimiento posterior. Tres escenas814–816 enV40#7–9, antiguos#7–32 pasan a#10–35 sin moverfechas/URLs. Comparación actualCE/Mana y fuenteBlackHeart inagotable distinta de acceso/cuerpo limitados, sin despertar completo o fusiónenergías. Callbacks817/819/831/856/pre-rematch/970 yV41#27 cambia antecedente no escrito por acuerdoB probado. [Mensajes completos y límites](S7_MAU_MAI_CONSTRUCTION_SUPPORT_AND_RESERVE_AXES_2026-10-28.md). Prosa previaal7 intacta; no puntos/legión/cristales nuevos por estas escenas.

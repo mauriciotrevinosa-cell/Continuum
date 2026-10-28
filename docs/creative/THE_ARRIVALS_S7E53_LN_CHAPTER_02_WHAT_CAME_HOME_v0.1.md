@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 16 — What Came Home
+## Chapter 19 — What Came Home
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 16
+**Reading order:** 19
 **Source episode:** S7E53
 **Continuity state:** Day845 later–846 morning. Ordinary gate clear; thirteen defeated local dungeon monsters extracted as ordinary units (12 small+keeper), no new named shadow:364→377 ordinary+16named=393, Mahoraga separate. Mau115→116,5points earned/held102→107,Int440 unchanged.37small+1larger keeper reward collected:248→285small,4pylon unchanged,5→6 distinct boss rewards. Recovered plates/materials segregated untested, no grimoire/newkey/shopupgrade. Normal same-day return, Rimuru home. End open V40, not season/Monarch conclusion.
 

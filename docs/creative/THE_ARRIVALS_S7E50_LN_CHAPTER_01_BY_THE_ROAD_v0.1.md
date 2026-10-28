@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 9 — By the Road
+## Chapter 12 — By the Road
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 9
+**Reading order:** 12
 **Source episode:** S7E50
 **Continuity state:** Day823 morning–afternoon. Prearranged road/relay clearing used again; reply delivered through Hollis before departure. Party Mau/Yuka/Wakana/Anko/Mikasa, Rimuru at home, Igris with two existing ordinary shadows on route security, no new units/loot/level. Repeated workshop checks precede return. Tamsin native toolmaker, not arrival; she accepts repaired cutter after own sample test, second cutter checked without replacement. No universal entry right, new order or resource transfer yet.
 

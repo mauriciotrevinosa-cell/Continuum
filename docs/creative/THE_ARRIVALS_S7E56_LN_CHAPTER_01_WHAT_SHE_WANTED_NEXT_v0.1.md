@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 21 — What She Wanted Next
+## Chapter 24 — What She Wanted Next
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 21
+**Reading order:** 24
 **Source episode:** S7E56
 **Continuity state:** Day866 preparation for Round Deer. Native ability discussed from accessible Ten Shadows pattern, not new universal medical cure or disclosure of Yuka's private cancer history. Help protocol explicitly agreed as earlier project rituals: Mau inside bounded physical role, Yuta/Maki outside. No tame yet, no damage manufactured for testing, no blueprint transfer of mastery. Source check: local JJK Ch0218/008–009, positive output healing/CE interference; ritual choreography is Arrivals adaptation.
 

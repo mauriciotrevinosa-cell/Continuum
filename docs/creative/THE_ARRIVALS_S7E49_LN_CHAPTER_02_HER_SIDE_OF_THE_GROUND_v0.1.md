@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 8 — Her Side of the Ground
+## Chapter 11 — Her Side of the Ground
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 8
+**Reading order:** 11
 **Source episode:** S7E49
 **Continuity state:** Day819 morning and evening. Yuka refines existing Chimera Shadow Garden over bounded placement/recall with Divine Dogs and Toad, not a new tame or effortless full domain. No simultaneous Sky/Limitless/native DE, new duration claim, CE cross-pool, regen or Blueprint rewrite. Mau is agreed external safety support; native cost remains hers. Couple communicates pause/trauma without exact vessel disclosure.
 
@@ -142,6 +142,14 @@ He leaned his forehead against hers.
 "Then tell me when. I have very important plans to sit down for the rest of the morning." ʸᵏ
 
 He laughed softly and stayed beside her until sitting stopped feeling like a task she had to complete before being allowed to rest.
+
+Before they got up, Yuka asked whether Mai had made anything else that morning. He told her about the pin, the little warmth in his arm and the absence of any new pain. Her Garden had still asked its own price of her; it was different work from the borrowed pattern he supplied.
+
+"You're allowed to tell me you're tired before you're hurt," she said. ʸᵏ
+
+"I know. I'm tired now." ᴹ
+
+She nodded and stayed beside him another minute.
 
 That evening she found him with the map open beside his chair. She brought her own book, set it down unopened and asked whether he still wanted the company.
 

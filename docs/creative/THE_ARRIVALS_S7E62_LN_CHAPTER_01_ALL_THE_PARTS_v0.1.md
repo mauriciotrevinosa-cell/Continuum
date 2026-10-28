@@ -5,7 +5,7 @@
 **Volume:** 41
 **Reading order:** 1
 **Source episode:** S7E62
-**Continuity state:** Days906/918/938, staged individual recovery checks. Gojo's full extraction-reference kit restored through separate repeated tests inside/outside, not a percentage bestowed on everyone; domain tested alone in cleared room, no human brain experiment. Mau practises Amplification on controlled remnant effects before rematch, own active CT paused; physique permanent. Ciel/Noise prepare fresh-injury RCT route, no old-condition cure or guaranteed BF. DIO remains physical protected house during travel by choice. Added Senku questions on gradients/lensing and phase, fallible Gojo prototypes and empty-basin selection for the revised NoLimits rematch; physics inspires fictional CE mechanics, not probability control.
+**Continuity state:** Days906/918/938, staged individual recovery checks. Gojo's full extraction-reference kit restored through separate repeated tests inside/outside, not a percentage bestowed on everyone; domain tested alone in cleared room, no human brain experiment. Mau practises Amplification on controlled remnant effects before rematch, own active CT paused; physique permanent. Ciel/Noise prepare fresh-injury RCT route, no old-condition cure or guaranteed BF. DIO remains physical protected house during travel by choice. Ongoing Mai support coordinated before actual rematch; no unexpected Construction demand during escalation. Added Senku questions on gradients/lensing and phase, fallible Gojo prototypes and empty-basin selection for the revised NoLimits rematch; physics inspires fictional CE mechanics, not probability control.
 
 *When: Day906. Gojo stops the first demonstration himself and tells Senku to leave the failed attempt on the page.*
 
@@ -180,3 +180,13 @@ They worked with existing patterns, his own current tolerances and the parts Sho
 When Gojo asked about the rematch, Mau looked at the date they could use.
 
 Then went to ask Yuka what she had already planned for that day.
+
+He found Mai too, before the date became an assumption carried into the basin.
+
+"The long practice with Gojo. I wanted you to know before you planned anything large." ᴹ
+
+"You tell me that one. I tell you about the hooks. That is how this works." ᴹᵃⁱ
+
+She put aside the drawing she had been considering. There was ordinary sewing she wanted to finish; Construction could wait for an afternoon when he was not going to be hit by his teacher.
+
+"Try to come back with both sleeves," she said. ᴹᵃⁱ

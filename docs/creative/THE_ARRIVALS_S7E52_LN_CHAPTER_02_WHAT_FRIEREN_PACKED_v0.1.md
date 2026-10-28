@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 14 — What Frieren Packed
+## Chapter 17 — What Frieren Packed
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 14
+**Reading order:** 17
 **Source episode:** S7E52
 **Continuity state:** Day844 afternoon, planning ordinary settlement dungeon outing for845. Party Frieren/Fern/Stark/Yuka/Mau; Rimuru explicitly home with other defenders. Existing equipment/food, no gate upgrade/key revision, new tome or full restored powers. Frieren leads by choice, no B romance/royal-service promise imported from A. Supplies and withdrawal signals discussed before entry.
 

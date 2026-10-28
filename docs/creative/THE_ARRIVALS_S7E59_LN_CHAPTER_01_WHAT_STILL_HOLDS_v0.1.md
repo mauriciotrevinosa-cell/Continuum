@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 40
-## Chapter 27 — What Still Holds
+## Chapter 30 — What Still Holds
 
 **Status:** LN PRODUCTION DRAFT — S7 v0.1 (2026-10-27)
 **Volume:** 40
-**Reading order:** 27
+**Reading order:** 30
 **Source episode:** S7E59
 **Continuity state:** Day883 household discussion with rested DIO. Forced calling into vulnerable whole body is a witnessed narrow hostile procedure, not normal coin consent change or universal ability. One Ruler attacker identified by DIO from own perception; exact faction/name/method/involvement of Makima/Architect remain unknown, not all Rulers allies. Protection fixed/hostile ingress blocked while DIOalive; sleep not death, no portable bubble. Refuge consent/limits/accountability discussed, no new Trial or knowledge of vessel words shared.
 

@@ -216,3 +216,7 @@ Yuka oye explícitamente por primera vez que sólo ella aparece en color, en la 
 ## Habitación compartida vigente desde812
 
 Pareja en antiguo dormitorio deYuka, Mau ropa/silla/mapa allí; loft/cuarto anterior se conserva paraRimuru, sin camaenoficina. Primera noche812→813 y convivencia habitual mostradas. Day626 esperaron de verdad; ya no se narra espera después812. Comidas/amistades/privacidadindividual siguen; no boda/sexo/embarazo agregados. Mapa y correcciones futuras en dirección enlazada arriba.
+
+### Sueño flotando — V40#6, noche812
+
+Yuka descubre el hover dormido ocasional de Mau. Rimuru lo reconoce por convivencia previaB, lo asocia con buenos sueños sin leerlos; no recuerdaA. Callback cotejadoS4E01CH01/S4E07CH04, pero no repetición de crisis o necesidad de cinta. Mau vuelve suavemente al colchón antes del primer despertar compartido813. Ningún desbloqueo/diagnóstico/cura o deber de vigilancia paraYuka. Detalle en dirección de convivencia vigente.

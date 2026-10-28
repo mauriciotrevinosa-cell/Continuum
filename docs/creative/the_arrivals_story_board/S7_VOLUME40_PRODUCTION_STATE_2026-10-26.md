@@ -15,7 +15,7 @@
 | 3 | S7E47 CH01 | Day811 | Bocchi invita a Mau a escuchar una pieza en trabajo; banda conserva autoría y espacio propio, vínculo de hermanos mostrado en una escena breve. |
 | 4 | S7E47 CH02 | Day812 | Hollis devuelve cutter de Tamsin por grip móvil: diagnóstico, recibo y pruebas antes de garantía. Consulta de ocho herramientas no aceptada aún; ningún cristal gastado o venta nueva. |
 | 5 | S7E47 CH03 | Day812 después de cenar | Pareja decide convivencia actual, conversa con familia/Rimuru; Mau se muda al cuarto existente de Yuka, loft anterior no desalojado. |
-| 6 | S7E47 CH04 | Day812 noche–813 mañana | Mudanza real ropa/libros/silla/mapa, primera noche y despertar compartido, desayuno con casa; sin poderes/sexo/compromiso nuevos. |
+| 6 | S7E47 CH04 | Day812 noche–813 mañana | Mudanza real ropa/libros/silla/mapa, primera noche: Mau flota dormido, Yuka consulta aRimuru/buen sueño/hábitoB, baja suavemente; despertar compartido y desayuno con casa; sin poderes/sexo/compromiso nuevos. |
 | 7 | S7E48 CH01 | Day813 | Grip reparado pasa primer test; repetir uso antes de regreso. Casa/taller acuerdan reparaciones domésticas primero, custodia/papeles fuera de comidas y presupuesto sin prometer ocho herramientas. Boceto de espacio aún no obra. |
 | 8 | S7E48 CH02 | Day814 | Rem/Ram/Mau/Fern cocinan mientras Momo disfruta tiempo libre. Frieren lee con Ori y hace espacio a Fern; relación docente/amiga con Mau intacta. Sin nuevos recursos/tecnología. |
 | 9 | S7E49 CH01 | Day817 | Gojo/Mau prueban precisión y transiciones Blue modestas repetidas; resultados específicos sin declarar Gojo100%. Recuerdo vessel privado, Mau pide pausa y vuelve; Shoko/Gojo vínculo propio. |

@@ -34,3 +34,17 @@ Se corrigen los finales que antes hacían despedirse a la pareja por sus cuartos
 ## Lectura de registros anteriores
 
 «Cuartos separados» sigue siendo verdad hasta812 antes de esta escena. Después es histórico/sustituido por esta dirección. Las notas de S7 anteriores que decían esperar sin fecha no impiden esta decisión autorizada. Los checkpoints históricos conservan numeración de entonces; para V40 antiguoorden≥5, sumar2. V40 cierra ahora#34/Day891; V41 cierra#28/B+6, sin cambio de cronología, poderes, ejército o recursos por esta mudanza.
+
+## Callback añadido por el creador: flotar dormido
+
+Mensajes íntegros posteriores:
+
+> y podemos agregar que un dia ande flotando y yuka le pregunte a rimuru si esto es normal y puede decir que si cuando tiene un buen dream
+
+> osea flotando mientras duerme
+
+> haciendo a un call back cuando lo hacie in another life
+
+Se aplica en V40#6 durante la primera noche812, antes del despertar813 ya escrito. Yuka ve a Mau flotando a poca altura sobre la cama, dormido y sonriendo; pregunta a Rimuru. Él responde que ocurre cuando tiene un buen sueño y lo conoce por algunas noches que compartieron cuarto **en esta rama**. Es familiaridad observada, no lectura de sueños o recuerdos de A. Yuka vuelve, toma su mano y él baja suavemente antes de la mañana. Se conserva el despertar y el desayuno siguientes.
+
+Antecedentes de la otra vida cotejados: [S4E01 CH01, Day Four](../THE_ARRIVALS_S4E01_LN_CHAPTER_01_DAY_FOUR_v0.1.md), Mau flotando y cinta; [S4E07 CH04, Trial Runs](../THE_ARRIVALS_S4E07_LN_CHAPTER_04_TRIAL_RUNS_v0.1.md), recuerda el patrón de vuelo escapando durante el sueño mientras Ori habla de Milim. La escena nueva es un eco doméstico ligero para el lector, no importa el trauma/reglas/cinta de aquella vida a esta. No se afirma que la causa antigua fuera un buen sueño, ni que la asociación de Rimuru explique científicamente el fenómeno. No hace falta atarlo, no nueva técnica o emergencia, no cura de secuelas.

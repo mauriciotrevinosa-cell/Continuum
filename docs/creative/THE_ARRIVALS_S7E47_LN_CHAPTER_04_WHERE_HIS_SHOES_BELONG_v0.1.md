@@ -5,7 +5,7 @@
 **Volume:** 40
 **Reading order:** 6
 **Source episode:** S7E47
-**Continuity state:** Day812 later evening through Day813 morning, before existing workshop meeting on813 afternoon. Actual consensual move: Mau joins Yuka's existing bedroom; clothes/books/OurYear and his ordinary chair move, TwoBeginnings remains hers. No new wing, relocated wall, duplicate room or free new bed. Rimuru keeps old loft and room beneath, own agency; office remains downstairs and not bedroom. Shared bed/first night/morning shown without sex/engagement/pregnancy or instant trauma cure. No points/gear/shadow/coins change, old grey/blur/fingers remain. Yuka independently chooses space and both retain right to time alone. Household meals/work continue.
+**Continuity state:** Day812 later evening through Day813 morning, before existing workshop meeting on813 afternoon. Actual consensual move: Mau joins Yuka's existing bedroom; clothes/books/OurYear and his ordinary chair move, TwoBeginnings remains hers. No new wing, relocated wall, duplicate room or free new bed. Rimuru keeps old loft and room beneath, own agency; office remains downstairs and not bedroom. Shared bed/first night/morning shown without sex/engagement/pregnancy or instant trauma cure. No points/gear/shadow/coins change, old grey/blur/fingers remain. Added asleep-hover callback: Yuka asks Rimuru, who knows the occasional habit from their B room-sharing and associates it with good dreams, not mind-reading or A memories. Mau settles back before morning; no new flight unlock/leak emergency. Yuka independently chooses space and both retain right to time alone. Household meals/work continue.
 
 *When: The same evening. Yuka clears half a shelf and then takes one book back.*
 
@@ -208,6 +208,94 @@ Her fingers moved once against his shirt.
 They stayed there while the house settled. At some point she began telling him about the book she had taken back from his half of the shelf. He asked a question. She answered it, then another, until neither remembered exactly which part of the story she had been trying to explain.
 
 He slept before she finished.
+
+* * *
+
+Yuka woke because his hand had left hers.
+
+She reached across the sheet, still half asleep, and found the warm hollow where he had been lying.
+
+Then she looked up.
+
+Mau was above it.
+
+Not sitting. Not halfway out of bed. He lay on his back a little more than a hand's breadth above the mattress, one arm loose beside him, breathing with the unhurried contentment of somebody to whom this arrangement made perfect sense.
+
+Yuka sat up very slowly.
+
+"Mau?" ʸᵏ
+
+He smiled in his sleep.
+
+She stared at him.
+
+"That's not an answer." ʸᵏ
+
+* * *
+
+Rimuru answered his door after the second quiet knock.
+
+He looked at Yuka, then past her toward the corridor.
+
+"What's happened?" ᴿ
+
+"He's asleep." ʸᵏ
+
+Rimuru waited.
+
+"Above the bed." ʸᵏ
+
+His expression changed in a way she found insufficiently concerned.
+
+"Oh." ᴿ
+
+"Is that normal?" ʸᵏ
+
+"Yes. When he's having a good dream." ᴿ
+
+Yuka looked back toward her door.
+
+"He does that?" ʸᵏ
+
+"A few times while we were sharing. I used to wake up and find him getting rather ambitious about the distance to my stairs." Rimuru rubbed one eye. "He usually comes down smiling. I don't ask for the whole dream before breakfast." ᴿ
+
+She put a hand over her mouth.
+
+Rimuru looked more awake now.
+
+"You thought I was joking?" ᴿ
+
+"I was deciding whether to be worried." ʸᵏ
+
+"About the floating? No. About what else you haven't discovered yet, I make no promises." ᴿ
+
+Her laugh came out too loudly. She caught the rest behind her hand.
+
+Rimuru smiled.
+
+"Go back to bed. You're allowed to enjoy finding something harmless." ᴿ
+
+* * *
+
+Mau had turned a little by the time she returned.
+
+He was still over the mattress. Still smiling faintly. Whatever he was dreaming had not required the room to change around him or anybody to come running.
+
+Yuka sat on the edge and watched him for a moment.
+
+Then she took his dangling hand.
+
+"You could have warned me about this one too," she whispered. ʸᵏ
+
+His fingers curled around hers without waking.
+
+She laughed under her breath and lay down beneath the ordinary ceiling of the room they had finally decided to share.
+
+He drifted lower as she settled. By the time his shoulder touched the sheet, her eyes were closing again.
+
+She kept his hand.
+
+For once, she did not need to know what he had been dreaming. She was glad something in it had made him this light.
 
 * * *
 

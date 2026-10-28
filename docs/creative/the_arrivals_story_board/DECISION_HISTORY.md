@@ -2446,3 +2446,8 @@ Verde directo de cierreS7 conservado íntegro, con aclaraciones: dos entrenamien
 ### Cierre S7 — V42#6–10, 2026-10-28
 
 V42#6–10 completa combate real deMau contra1014, conBellion/Igris/Beru/Kamish yresto. Mai no lo domina niGojo corta: él la ve ymandaStop instantáneo. Agencia, coste, charla yplanes de vida. Intervenciones ycenareal antesdedibujo, no nuevaCatástrofe/XP. Todo previo conservado; push parcial yseguir.
+
+
+### Cierre S7 — V42#11–17, 2026-10-28
+
+V42#11–17 mantienevida cotidiana y ritmo diario. Segundo entrenamiento no sustituyelegión: dominiospequeños, precisión/canales, terceraperturaaccidental incompleta causa lesión aguda conrescate. No90%canónico, nosecuelapermanente nueva/XP. Cielloobservado privada conrelay, no memoriasgratis. Capítulospreviosintactos; seguir recuperaciónypreparaciónmontaña.

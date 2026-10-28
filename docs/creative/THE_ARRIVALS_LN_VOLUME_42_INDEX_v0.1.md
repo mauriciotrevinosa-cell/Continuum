@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 42
 **Season:** 7
-**Coverage:** S7E74–S7E77 (in progress)
+**Coverage:** S7E74–S7E80 (in progress)
 **Volume title:** **A Place Beside Her** (provisional)
-**Chapter files:** 10
+**Chapter files:** 17
 
 Continuous days after Volume41. The authorized closing arc follows Mau's return, chosen life, training, a mountain proposal and ordinary days afterward. S8 and its first arrivals remain unwritten.
 
@@ -25,3 +25,10 @@ Continuous days after Volume41. The authorized closing arc follows Mau's return,
 | 8 | S7E77 | Stop | `THE_ARRIVALS_S7E77_LN_CHAPTER_01_STOP_v0.1.md` |
 | 9 | S7E77 | What You Came to Ask | `THE_ARRIVALS_S7E77_LN_CHAPTER_02_WHAT_YOU_CAME_TO_ASK_v0.1.md` |
 | 10 | S7E77 | The Smaller Drawing | `THE_ARRIVALS_S7E77_LN_CHAPTER_03_THE_SMALLER_DRAWING_v0.1.md` |
+| 11 | S7E78 | Something to Talk About | `THE_ARRIVALS_S7E78_LN_CHAPTER_01_SOMETHING_TO_TALK_ABOUT_v0.1.md` |
+| 12 | S7E78 | On His Feet | `THE_ARRIVALS_S7E78_LN_CHAPTER_02_ON_HIS_FEET_v0.1.md` |
+| 13 | S7E79 | The Room and the Rule | `THE_ARRIVALS_S7E79_LN_CHAPTER_01_THE_ROOM_AND_THE_RULE_v0.1.md` |
+| 14 | S7E79 | The Part They Played Twice | `THE_ARRIVALS_S7E79_LN_CHAPTER_02_THE_PART_THEY_PLAYED_TWICE_v0.1.md` |
+| 15 | S7E80 | Empty First | `THE_ARRIVALS_S7E80_LN_CHAPTER_01_EMPTY_FIRST_v0.1.md` |
+| 16 | S7E80 | The Third Line | `THE_ARRIVALS_S7E80_LN_CHAPTER_02_THE_THIRD_LINE_v0.1.md` |
+| 17 | S7E80 | Stay Where We Can Reach You | `THE_ARRIVALS_S7E80_LN_CHAPTER_03_STAY_WHERE_WE_CAN_REACH_YOU_v0.1.md` |

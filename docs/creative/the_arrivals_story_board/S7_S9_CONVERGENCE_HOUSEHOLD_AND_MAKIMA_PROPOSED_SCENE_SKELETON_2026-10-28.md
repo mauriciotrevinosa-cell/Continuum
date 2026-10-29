@@ -1,5 +1,7 @@
 # The Arrivals — Esqueleto propuesto: cierre de S7, convergencias, Makima y respuesta del hogar
 
+> **Dirección del creador — S8, 2026-10-29:** [Tiger, Agito y Mahoraga de Yuka](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md). Agito independiente de Noise conservado por Mau, sin sacrificios; futura obtención de Yuka después de Tiger. Última precisión: Mau lee un corte, «Sombra, ahora», Yuka se refugia y él toma el frente; Mahoraga queda de ella mediante protocolo compartido. S8 propuesta, punto y remate por elegir; no cambios de capítulos/S7.
+
 > **Verde posterior del creador, 2026-10-28:** [cierre S7 en montaña y días continuos](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Primera llegada y Makima pasan al comienzo de S8, aún por ordenar; no se escriben dentro de este cierre. Sustituye ubicación anterior de convergencias y la estimación de capítulos del resto de S7.
 
 **2026-10-28. Esqueleto solicitado para opinión del creador. No es autorización para escribir capítulos nuevos, aprobación de todos los mecanismos ni final de serie fijado.** Parte del cierre producido de V41#28/B+6. Conserva íntegros los mensajes nuevos en su propio documento de [dirección del creador](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md).
@@ -192,7 +194,7 @@ Unos Rulers mantienen el pacto y otros pueden disentir; algunas naciones protege
 
 Mau alcanza un híbrido útil tras trabajo y pruebas, con arquitectura elegida y defensas posibles. Maximum Output no equivale a muerte absoluta. Gojo desarrolla aplicaciones propias; Yuta refina Copy y combate; Yuka mejora sus canales y sombras. La progresión no se reparte como un porcentaje idéntico por cambio de temporada.
 
-**Propuesta para Yuka:** Tiger como siguiente ritual en S8 cuando esté preparada; trabajo para Mahoraga en S9 si la causalidad lo permite. Los rituales reciben escena y coste, con la cooperación legítima ya establecida. La magia, ruta elfo, magicules, CE, maná y combustible sombra conservan diferencias. Nadie llega al 100% de su extracción sin una ficha y una demostración que lo sostengan.
+**Dirección posterior para Yuka, 2026-10-29:** Tiger, recuerdo de Agito independiente y ritual de Mahoraga propuestos para S8, con punto exacto todavía abierto. [Secuencia y mensajes íntegros](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md). Sustituye la antigua ubicación de Mahoraga en S9. Los rituales reciben escena y coste, con la cooperación legítima ya establecida. La magia, ruta elfo, magicules, CE, maná y combustible sombra conservan diferencias. Nadie llega al 100% de su extracción sin una ficha y una demostración que lo sostengan.
 
 ### 9E — Preparar y vivir la confrontación con Sukuna
 

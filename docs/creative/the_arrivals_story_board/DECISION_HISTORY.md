@@ -2466,3 +2466,8 @@ V42#24–28 vive la salida y la pregunta sin montaje. Yuka acepta antes la mirad
 ### Cierre S7 — V42#29–31, 2026-10-28
 
 V42#29–31 termina S7 en noche de compromiso y dos días consecutivos ordinarios, sin apretar otra crisis ni comenzarS8. Libro/mapa/anillo/objetos y vínculos preservados, Mai apoyo visible de nuevo y Bocchi recibe escucha. Se añade handoff detallado con ambos entrenamientos separados, Mai caminar→Mau ver→STOP inmediato, límites médicos/conteos/privacidad/Rika/anillos y futuros pendientes.31 capítulos deriva de escenas, no regla para futuros arcos. Borrador terminado para revisión del creador; no autoaprobación de calidad.
+
+
+### S8 — Agito conservado y ritual de Yuka, 2026-10-29
+
+[Dirección íntegra](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md). Agito de Mau ya conservado desdeA por construcción independiente de Noise, sin consumir otros shikigamis. Yuka no lo hereda: Tiger primero, recuerdo/reconstrucción y control posterior. Mahoraga propuesto S8 en vez de reserva editorialS9; fecha y remate Kamish/Purple abiertos. Última aclaración sustituye esconder a Yuka antes de todo ataque: Mau lee corte al que ella responde tarde y ordenaSombraahora; ella se refugia, él afronta y el resultado es de ella, con ayuda legítima del protocolo compartido. No humillación, nueva doma de Mau, adaptación universal o prosaS8 producida. S7 intacta.

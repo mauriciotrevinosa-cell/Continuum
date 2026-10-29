@@ -66,3 +66,8 @@ Rimuru's sleep room remains oldMau room/loft, office is different. Frieren B fri
 ## Future work that needs creator discussion, not automatic production
 
 S8 arrival and ramp of convergences; multiple political players/Makima's nonromantic falsecolleague cover and later isolation; protection/admission constraints with DIO weak/hidden; Ruler negotiations and fragmented cities; Tempest/Rimuru and WitchHat/Qifrey interests; world economy/household growth; future wedding-ring engineering and wedding planning. Read the existing full proposal documents before proposing changes. No decided S8 whole-volume count, no default weddingdate and no greenlight to write those arcs merely because S7 ends here.
+
+
+## Aclaración posterior y planificación S8 — 2026-10-29
+
+El creador confirma que Mau ya conserva **Agito independiente creado por Noise en A**, sin destruir sus otros shikigamis. No es nueva adquisición en el cierre, undécima familia nativa ni unidad de Arise. Yuka B aún no recibe ese avance. [Mensajes completos y propuesta de S8](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md): Tiger primero, recuerdo de Agito y futuro ritual de Mahoraga. La última puesta en escena es corte leído por Mau→«Sombra, ahora»→refugio de Yuka→Mau al frente; resultado propio de Yuka por acuerdo compartido. Ningún capítulo, fecha, XP o censo cambia por esta nota.

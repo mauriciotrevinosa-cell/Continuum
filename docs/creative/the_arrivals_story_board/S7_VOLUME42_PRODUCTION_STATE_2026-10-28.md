@@ -68,3 +68,8 @@ Read fullcreatorgreenlight/currenthandoff and existing S7–S9 proposal document
 ## Next
 
 S7 prose ends here. Creator review and S8 ordering remain; do not auto-generate V43, first arrival or new crisis.
+
+
+## Aclaración posterior y planificación S8 — 2026-10-29
+
+El creador confirma que Mau ya conserva **Agito independiente creado por Noise en A**, sin destruir sus otros shikigamis. No es nueva adquisición en el cierre, undécima familia nativa ni unidad de Arise. Yuka B aún no recibe ese avance. [Mensajes completos y propuesta de S8](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md): Tiger primero, recuerdo de Agito y futuro ritual de Mahoraga. La última puesta en escena es corte leído por Mau→«Sombra, ahora»→refugio de Yuka→Mau al frente; resultado propio de Yuka por acuerdo compartido. Ningún capítulo, fecha, XP o censo cambia por esta nota.

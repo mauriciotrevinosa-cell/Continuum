@@ -2471,3 +2471,8 @@ V42#29–31 termina S7 en noche de compromiso y dos días consecutivos ordinario
 ### S8 — Agito conservado y ritual de Yuka, 2026-10-29
 
 [Dirección íntegra](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md). Agito de Mau ya conservado desdeA por construcción independiente de Noise, sin consumir otros shikigamis. Yuka no lo hereda: Tiger primero, recuerdo/reconstrucción y control posterior. Mahoraga propuesto S8 en vez de reserva editorialS9; fecha y remate Kamish/Purple abiertos. Última aclaración sustituye esconder a Yuka antes de todo ataque: Mau lee corte al que ella responde tarde y ordenaSombraahora; ella se refugia, él afronta y el resultado es de ella, con ayuda legítima del protocolo compartido. No humillación, nueva doma de Mau, adaptación universal o prosaS8 producida. S7 intacta.
+
+
+### S8 — Kamish, gratitud y nueva rama de entrenamiento, 2026-10-29
+
+[Ampliación íntegra](S8_YUKA_MAHORAGA_AFTERMATH_PAIR_TRAINING_AND_ENGRAVING_CREATOR_EXTENSION_2026-10-29.md). Kamish escogido para el remate; tercer ritual contando los dosA. Yuka bromea, agradece al dragón y luego a Mau, que le devuelve el mérito de las ideas. Compromiso/porrista de defensa profesional lleva a propuesta de pelear simultáneamente como pareja. Todo/Yuji mediante recuerdos escogidos por Yuta y ayuda de Rimuru; fuente/operación observada distinta de inferencia y sistema aún por construir. MaximumOutput sin recitación y engraving con fuente propia de receptores son objetivos por validar/desarrollar, no capacidades ya concedidas. No capítulos nuevos o cambios deS7.

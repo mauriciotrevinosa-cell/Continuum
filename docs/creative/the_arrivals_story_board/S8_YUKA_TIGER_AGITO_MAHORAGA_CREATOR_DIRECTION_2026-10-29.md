@@ -1,5 +1,7 @@
 # S8 — Yuka: Tiger, Agito y Mahoraga
 
+> **Ampliación posterior del creador:** [Kamish remata, broma y gratitud de Yuka, entrenamiento en pareja, Todo/Yuji y futuros grabados](S8_YUKA_MAHORAGA_AFTERMATH_PAIR_TRAINING_AND_ENGRAVING_CREATOR_EXTENSION_2026-10-29.md). El remate queda en Kamish; Purple era la alternativa inicial. Guardado íntegro, sin prosa nueva ni desbloqueos.
+
 **2026-10-29. Dirección del creador para planificación futura, no capítulos nuevos.** S7 permanece completa como borrador en V42#31/B+17. La ubicación propuesta es S8, sin capítulo, volumen ni fecha cerrados. Este documento conserva los mensajes íntegros y distingue aclaración de continuidad, escena solicitada y alternativas aún abiertas.
 
 [Salida de S7](S7_SEASON_CLOSE_VOLUME42_HANDOFF_2026-10-28.md) · [Estado vigente](S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Esqueleto general por ordenar](S7_S9_CONVERGENCE_HOUSEHOLD_AND_MAKIMA_PROPOSED_SCENE_SKELETON_2026-10-28.md).

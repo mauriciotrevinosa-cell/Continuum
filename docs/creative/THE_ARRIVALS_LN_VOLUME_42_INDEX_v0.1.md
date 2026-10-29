@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 42
 **Season:** 7
-**Coverage:** S7E74–S7E83 (in progress)
+**Coverage:** S7E74–S7E85 (in progress)
 **Volume title:** **A Place Beside Her** (provisional)
-**Chapter files:** 23
+**Chapter files:** 28
 
 Continuous days after Volume41. The authorized closing arc follows Mau's return, chosen life, training, a mountain proposal and ordinary days afterward. S8 and its first arrivals remain unwritten.
 
@@ -38,3 +38,8 @@ Continuous days after Volume41. The authorized closing arc follows Mau's return,
 | 21 | S7E82 | A Ring | `THE_ARRIVALS_S7E82_LN_CHAPTER_02_A_RING_v0.1.md` |
 | 22 | S7E83 | Only What He Looks At | `THE_ARRIVALS_S7E83_LN_CHAPTER_01_ONLY_WHAT_HE_LOOKS_AT_v0.1.md` |
 | 23 | S7E83 | A Blanket That Stays | `THE_ARRIVALS_S7E83_LN_CHAPTER_02_A_BLANKET_THAT_STAYS_v0.1.md` |
+| 24 | S7E84 | The Place on the Map | `THE_ARRIVALS_S7E84_LN_CHAPTER_01_THE_PLACE_ON_THE_MAP_v0.1.md` |
+| 25 | S7E84 | Before the Question | `THE_ARRIVALS_S7E84_LN_CHAPTER_02_BEFORE_THE_QUESTION_v0.1.md` |
+| 26 | S7E84 | Marry Me | `THE_ARRIVALS_S7E84_LN_CHAPTER_03_MARRY_ME_v0.1.md` |
+| 27 | S7E85 | A New Spot | `THE_ARRIVALS_S7E85_LN_CHAPTER_01_A_NEW_SPOT_v0.1.md` |
+| 28 | S7E85 | She Has Something to Show You | `THE_ARRIVALS_S7E85_LN_CHAPTER_02_SHE_HAS_SOMETHING_TO_SHOW_YOU_v0.1.md` |

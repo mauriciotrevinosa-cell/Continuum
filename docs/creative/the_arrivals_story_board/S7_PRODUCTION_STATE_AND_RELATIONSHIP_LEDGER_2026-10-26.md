@@ -1,6 +1,6 @@
 # The Arrivals — S7: registro de producción, relaciones y estado de salida
 
-> **Cierre S7 en producción — V42#1–23, 2026-10-28:** Recuperación en días consecutivos, anillo fabricado en escena, contrato de vista exterior voluntaria probado y montaña preparada. La pedida y el cierre cálido siguen a continuación. [Índice](../THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Verde íntegro](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Continuar después del push; no cierre por checkpoint.
+> **Cierre S7 en producción — V42#1–28, 2026-10-28:** Salida, comida y pedida completas, sí y anillo; Beru tiene su nuevo lugar y la familia escucha la noticia de Yuka. Faltan los días tranquilos del cierre. [Índice](../THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Verde íntegro](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Continuar después del push; no cierre por checkpoint.
 
 > **Acuerdo Mau/Mai y reservas en escena — 2026-10-28:** V40#7–9/814–816, después del6: oferta y pruebas del canal, tareas domésticas/avisos deMai, tres demandas y comparación de reservas por ejes. Fuente de maná inagotable detrás de acceso/cuerpo aún limitados, no CE/sombra infinitos o despertar total. Antiguos#7–32 pasan a#10–35; fechas/URLs previos intactos. [Dirección íntegra y continuidad](S7_MAU_MAI_CONSTRUCTION_SUPPORT_AND_RESERVE_AXES_2026-10-28.md).
 

@@ -2456,3 +2456,8 @@ V42#11–17 mantienevida cotidiana y ritmo diario. Segundo entrenamiento no sust
 ### Cierre S7 — V42#18–23, 2026-10-28
 
 V42#18–23 produce recuperación, compañía y causas del regalo; anillo ordinario de Mai/Marin/Wakana mediante apoyo vigente, sin poderes o almas añadidas. Vista temporal externa de Igris, voluntaria y probada a distancia, nunca memorias/ojos de Mau; Yuka escogerá antes de la pregunta. Se conserva Mai caminando/Mau parando a toda la legión en#8, separado del accidente de dominios. Ningún salto de semanas, nuevo daño permanente, XP o llegadaS8.
+
+
+### Cierre S7 — V42#24–28, 2026-10-28
+
+V42#24–28 vive la salida y la pregunta sin montaje. Yuka acepta antes la mirada externa de Igris; ningún color/recuerdo privado se comparte. Beru interrumpe después del sí y cumple el diálogo pedido; cierre de vista antes de que Igris descienda. Compromiso efectivo, no boda/fecha/poder regalado. Anillo de compromiso queda ordinario; pide uno nuevo como futuro regalo de bodas, broma60años no canon de fabricación. Conservar separados ambos entrenamientos y stop de Mai. Continuar cierre cotidiano sin S8.

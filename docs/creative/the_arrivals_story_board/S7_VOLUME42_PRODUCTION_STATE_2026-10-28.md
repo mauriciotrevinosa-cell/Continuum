@@ -34,40 +34,37 @@
 | 26 | S7E84 CH03 | B+15 late afternoon | Actual uncompressed proposal/yes, measured ring fitted and kisses; Mau/Yuka now engaged, future family/wedding still to choose. |
 | 27 | S7E85 CH01 | B+15 late afternoon | Exact Beru handkerchief/LittleRope/newside comedy after yes; Igris apology/escort, view closes consistently, private dessert and joy. |
 | 28 | S7E85 CH02 | B+15 evening | Home waits for Yuka announcement/ring; warm family reactions, separate new wedding-gift ring request and Yuta60year joke, dinner. |
+| 29 | S7E85 CH03 | B+15 night | First engaged night in existing shared room; mapYes/box kept, present joy with old memory recognised, no sex or wedding date. |
+| 30 | S7E86 CH01 | B+16 | Borrowed equipment returned, independent house tasks/Mai support and voluntary guests, Beru accepts Yuka-side chair. |
+| 31 | S7E86 CH02 | B+17 | Ordinary next day, care follow-up/house work/Kessoku and couple, end at family dinner with grey retained and no new crisis. |
 
 ## Current state
 
-**Checkpoint:** V42#1–28. B+15 evening. Mau/Yuka are now engaged, family has witnessed then heard Yuka's own news. Warm night and a few consecutive ordinary days remain to finish S7; do not stop for this push.
+**Season close:** V42#1–31 / S7E74–S7E86, complete as production draft for creator review. Last scene B+17 evening, Mau/Yuka return to family dinner. S8 is unwritten. [Complete close handoff](S7_SEASON_CLOSE_VOLUME42_HANDOFF_2026-10-28.md).
 
 ## Continuous chronology
 
-B+7 full1014 legion spar and immediate Mau stop on seeing Mai walking toward him; private talk reconnects ring plan. B+8 ordinary follow-up/JJK discussion/Kessoku/Bocchi. B+9 first short empty boundary, accepted burnout. B+10 separate combination accident/acute injury. B+11 waking/explanation and care, B+12 rest/finger measurement/cards/Beru, B+13 ordinary walk clearance and actual ring craftsmanship, B+14 local/distance view tests and mountain preparation. B+15 breakfast/domestic morning/cooking, Kaisel journey, mountain meal/private conversation, Yuka chooses household view before question, full proposal/yes/ring/kiss, exact Beru gag, private dessert, return/news/meal. No week or month montage.
+B+7 Rika-derived katana demonstration/full1014 legion spar/Mai walk→Mau immediate stop/private talk/clinic/ring drawings/night. B+8 footwork/JJK table/Kessoku/Bocchi. B+9 first empty boundary and accepted burnout. B+10 separate combination accident/rescue/clinic. B+11 waking/account and care; B+12 rest/finger measurement/family; B+13 short ordinary work clearance/actual ring crafting; B+14 consented view trials/mountain prep; B+15 outing/meal/Yuka view choice/full proposal/yes/exact Beru gag/return/ring news/first engaged night. B+16 retrieve borrowed equipment/household work/guests/Beru new seat. B+17 breakfast/door repair/Yuka independent time/Kessoku together/courtyard/dinner. No weekly/monthly skips or extra crisis after yes.
 
-## Effective relationship change
+## Effective relationship/object state
 
-Mau asks marriage and Yuka says yes twice in#26; engaged from B+15 late afternoon. Chosen partnership, future family discussed, marriage itself and date still unplanned. No sex/pregnancy assumed. Ordinary shared room since746, her old room, unchanged; Rimuru sleeps oldMau room/loft, not office. Frieren B teacher/friend/OriMum, not charged for A romance. Ori compass still→Frieren, accepted mountain stone from Mau, no compulsoryPapa. Family repaired relationships remain repaired; no Tsurugi fight. Mai/Mau practical warm trust, nonromantic.
+Mau/Yuka engaged since B+15 late afternoon, no wedding date/ceremony selected. No sex/pregnancy inferred. Shared room since746 remains her former room; oldMau room/loft is Rimuru's, not office sleeping. OurYear map gets four stones andYes at mountain. Box beside TwoBeginnings. Ordinary silver shallow turning-line engagement band on Yuka's LEFT ring finger; source family ring on cord and original bracelet separate. Three earlier Okkotsu-era rings intact. Future NEW wedding-gift support ring desired after Mau offer, not granted. Yuta60year joke explicitly not daily manufacture canon. Mai/Marin/Wakana thanked, standing support remains. Maki/Yuta/Mai repaired acceptance, Tsurugi no renewed combat; Yuka works/chooses/visits independently and pair life continues.
 
-## Ring and temporary viewing
+Temporary Igris external picture/audio to opt-in house receivers closed/expired before he descends for Beru; no records, private Ciel/Mau minds/colours or retroactive meal. Yuka chose watching before question. Beru afteryes/handkerchief/newside exact lines, Igris apology/escort, family then waits for Yuka ring news. Ant accepts seat beside Yuka onB+16; no title registry/power change. Borrowed mountain furniture/linen returnedB+16, fourstones returned nearpath. Ori received small mountainstone, compass still→Frieren/Mum, no forcedPapaMau. Frieren B friend/teacher, not blamed for A. Kessoku owns music; Mau listens and Yuka joins, no forced wedding concert.
 
-Mai's ordinary silver narrow band with shallow turning line, measured left ring finger, actual fitted box made with Marin/Wakana. Through standing CE/body support, not soul/power ring. Yuka wears it on left ring finger. Original family/source ring stays on cord and bracelet on wrist. Empty box with Mau. New ring not altered. In#28 Mau offers future support upgrade referencing Yuta ring, Yuka explicitly wants a NEW one for wedding gift; they joke Yuta had60years, Yuta clarifies not60years of daily craft. No instant completed magical ring, crafting schedule or originalRika soul transfer. Future design pending.
+## Body, training and power
 
-One-way temporary external image/audio source Igris, household opt-in/individual withdraw. Local and mountain test completed before day. Meal private, Yuka opts in before proposal, house sees only external physical view/hears spoken words. No Mau grey/mental/private Ciel/archive. All receivers released when Mau closes with Yuka agreement just before Igris walks down to escort Beru; no new feed after this, no recording. Occasion contract expired rather than new spy channel.
+Mai walking/Mau stopping belongs to full-legion spar#8, not separate domain accident#16. Spar learning and fear-driven repetition distinguished, no universal trauma cure. Gojo ready but doesn't seize control. Later coupling experiment accidentally starts third targeting route; no three complete simultaneous territories, no actual cognitive target. Gojo/Yuta/Shoko rescue and ordinary medical rest; Ciel warns abrupt transition, cannot guarantee prediction. Gojo nine-tenths attention metaphor, not ninety-percentCE constant or prohibition on all combination. Acute injury improves over several bedside days without new permanent deficit. Limited ordinary work permitted, failed hybrid route still closed, no full spar or new domains reopened in close.
 
-## Exact Beru scene
+Old grey exceptYuka/leftblur/twostifffingers/scars/whitepatch retained. Mana source distinct from physical/CE throughput; small supported Construction cost stays small because particular work/body, not infiniteCE. Mau126/57held/Int460 unchanged. Legion1014=997ordinary+16named+1unranked gift sentinel intact; nativeMahoraga separate; real Ashborn voluntary guest/no possession/no thirdheart/no soldier. Dragon'sWrathpair/returnedkatana retained;603small/4pylon/12boss unchanged. No wedding/romance XP, stat purchase, new loot or recruits. Equipment bonuses equipped-only, body upgrades permanent.
 
-After yes/ring/kiss Beru approaches despite order with handkerchief. LittleRope/cannotcallanymore; Mau look, Iknowmyking/I'msayinggoodbyetomysidenexttoyours. Yuka invites her side, ant weeps beside her. Igris apologises from actual source path; feed closes, knight walks down and escorts, reassures newspotprotectingLittleRope; BeruSheisnotLittleRopeanymore/Ineedtimetothink. Private couple laugh/dessert afterward. Home says Beru can still sit with them, no name registry/titular power automatically altered.
+Current B Yuta/Maki/Gojo/Shoko/Rimuru/Yuka witnessed paid Rika-derived protective construct#2 and limited use during spar then dismissal. Retained blueprint/katana, not original soul or allCopy/domain unlock. Ciel private hostsM/R, chosen earlier Afragment only, no new archive during unconsciousness; MiniCiel non-speaking helper. Mai/Yuka demand voluntarily paused during acute care, not cancelled; ordinary Mai support resumes/warning habit onpage. DIO physical guest and Ashborn quiet guest choose participation without treatment/resource exploitation. Fixed house/tree courtyard and bedrooms preserved.
 
-## Body/capability/resource invariants
+## Before S8
 
-Domain injury distinct from legion: correcting two arrangements accidentally starts third targeting route, never complete third territory, Shoko care/rest, no new lasting impairment. B+13–15 ordinary exertion cleared, failed experimental pathway closed; no fully resumed domains/spar. Existing lower-demand Mai support and separately tested viewing tolerable. Old grey exceptYuka, left blur, two stiff fingers/scars/white patch retained. No cure at proposal. Ciel remains privatehostsM/R, no archive permission drift; MiniCiel non-speaking helper.
-
-Mau126/57unspent/Int460; army1014=997ordinary+16named+1gift sentinel unchanged; nativeMahoraga separate, Ashborn voluntary real guest not thirdheart/soldier; DIO same vulnerable guest, not resource. All1014 fought and ordinary restored at cost, no permanent casualties/XP/stat increase. Dragon'sWrathpair/returnedkatana retained;603small/4pylon/12boss unchanged. Current B Yuta/Maki/Gojo/Shoko/Rimuru/Yuka saw Rika-derived construct in#2, blueprint not original soul; nobody inherits A witnessing.
-
-## Remaining S7 close
-
-Give couple first engaged night and ordinary days B+16/B+17 with household life, ring helpers/bonds and space for joy. No wedding performance/date committed; S8 first arrivals/Makima/convergences remain unwritten. End season warm, without new gate/doom cliffhanger. Final reader verification/index and handoff required.
+Read fullcreatorgreenlight/currenthandoff and existing S7–S9 proposal documents. Firstarrival/Makima/convergences, political strands and wedding planning remain future to order with creator. No automatic V43, no S8 greenlight inferred from finishing S7. Start from actual B+17 calm close, not an invented new gate. Fullclosehandoff preserves scene IDs, objects, knowledge boundaries and outstanding threads.
 
 
 ## Next
 
-First engaged night and consecutive ordinary B+16/B+17 days; warm S7 close, final continuity/reader checks. Continue after push, no S8 prose.
+S7 prose ends here. Creator review and S8 ordering remain; do not auto-generate V43, first arrival or new crisis.

@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Cierre S7 en producción — V42#1–28, 2026-10-28:** Salida, comida y pedida completas, sí y anillo; Beru tiene su nuevo lugar y la familia escucha la noticia de Yuka. Faltan los días tranquilos del cierre. [Índice](../THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Verde íntegro](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Continuar después del push; no cierre por checkpoint.
+> **Cierre S7 en producción — V42#1–31, 2026-10-28:** V42 completo con31 capítulos y cierre deS7 en B+17: pedida, regreso y días de convivencia. S8 y su primera llegada no están escritos. [Índice](../THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Verde íntegro](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Temporada completa como borrador; S8 pendiente de ordenar.
 
 > **Esqueleto solicitado para opinión — 2026-10-28:** [Cierre S7, desarrollo S8/S9, arcos y convivencia](S7_S9_CONVERGENCE_HOUSEHOLD_AND_MAKIMA_PROPOSED_SCENE_SKELETON_2026-10-28.md); [dirección íntegra sobre Makima y respuestas](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md). Amistad laboral alegada, nunca reemplazo de Yuka; coartada inventada, dudas de Mau. DIO débil/oculta y permiso de casa sustentan propuesta acotada de admisión. Capítulos/volúmenes orientativos, sin producción nueva.
 

@@ -3,13 +3,15 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 42
 **Season:** 7
-**Coverage:** S7E74–S7E85 (in progress)
+**Coverage:** S7E74–S7E86 (volume and season complete)
 **Volume title:** **A Place Beside Her** (provisional)
-**Chapter files:** 28
+**Chapter files:** 31
 
 Continuous days after Volume41. The authorized closing arc follows Mau's return, chosen life, training, a mountain proposal and ordinary days afterward. S8 and its first arrivals remain unwritten.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_41_INDEX_v0.1.md) · [Current continuity](the_arrivals_story_board/S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Creator direction](the_arrivals_story_board/S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md).
+
+**S7 ends here as a production draft for creator review.** The last chapter is B+17 evening, two consecutive ordinary days after the mountain proposal. No S8 first arrival or additional crisis is appended. [Season-close handoff](the_arrivals_story_board/S7_SEASON_CLOSE_VOLUME42_HANDOFF_2026-10-28.md).
 
 ## Reading order
 
@@ -43,3 +45,6 @@ Continuous days after Volume41. The authorized closing arc follows Mau's return,
 | 26 | S7E84 | Marry Me | `THE_ARRIVALS_S7E84_LN_CHAPTER_03_MARRY_ME_v0.1.md` |
 | 27 | S7E85 | A New Spot | `THE_ARRIVALS_S7E85_LN_CHAPTER_01_A_NEW_SPOT_v0.1.md` |
 | 28 | S7E85 | She Has Something to Show You | `THE_ARRIVALS_S7E85_LN_CHAPTER_02_SHE_HAS_SOMETHING_TO_SHOW_YOU_v0.1.md` |
+| 29 | S7E85 | The Same Room | `THE_ARRIVALS_S7E85_LN_CHAPTER_03_THE_SAME_ROOM_v0.1.md` |
+| 30 | S7E86 | Bring Back the Chairs | `THE_ARRIVALS_S7E86_LN_CHAPTER_01_BRING_BACK_THE_CHAIRS_v0.1.md` |
+| 31 | S7E86 | A Place Beside Her | `THE_ARRIVALS_S7E86_LN_CHAPTER_02_A_PLACE_BESIDE_HER_v0.1.md` |

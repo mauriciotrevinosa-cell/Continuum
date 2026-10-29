@@ -2461,3 +2461,8 @@ V42#18–23 produce recuperación, compañía y causas del regalo; anillo ordina
 ### Cierre S7 — V42#24–28, 2026-10-28
 
 V42#24–28 vive la salida y la pregunta sin montaje. Yuka acepta antes la mirada externa de Igris; ningún color/recuerdo privado se comparte. Beru interrumpe después del sí y cumple el diálogo pedido; cierre de vista antes de que Igris descienda. Compromiso efectivo, no boda/fecha/poder regalado. Anillo de compromiso queda ordinario; pide uno nuevo como futuro regalo de bodas, broma60años no canon de fabricación. Conservar separados ambos entrenamientos y stop de Mai. Continuar cierre cotidiano sin S8.
+
+
+### Cierre S7 — V42#29–31, 2026-10-28
+
+V42#29–31 termina S7 en noche de compromiso y dos días consecutivos ordinarios, sin apretar otra crisis ni comenzarS8. Libro/mapa/anillo/objetos y vínculos preservados, Mai apoyo visible de nuevo y Bocchi recibe escucha. Se añade handoff detallado con ambos entrenamientos separados, Mai caminar→Mau ver→STOP inmediato, límites médicos/conteos/privacidad/Rika/anillos y futuros pendientes.31 capítulos deriva de escenas, no regla para futuros arcos. Borrador terminado para revisión del creador; no autoaprobación de calidad.

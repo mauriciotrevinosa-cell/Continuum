@@ -2451,3 +2451,8 @@ V42#6–10 completa combate real deMau contra1014, conBellion/Igris/Beru/Kamish 
 ### Cierre S7 — V42#11–17, 2026-10-28
 
 V42#11–17 mantienevida cotidiana y ritmo diario. Segundo entrenamiento no sustituyelegión: dominiospequeños, precisión/canales, terceraperturaaccidental incompleta causa lesión aguda conrescate. No90%canónico, nosecuelapermanente nueva/XP. Cielloobservado privada conrelay, no memoriasgratis. Capítulospreviosintactos; seguir recuperaciónypreparaciónmontaña.
+
+
+### Cierre S7 — V42#18–23, 2026-10-28
+
+V42#18–23 produce recuperación, compañía y causas del regalo; anillo ordinario de Mai/Marin/Wakana mediante apoyo vigente, sin poderes o almas añadidas. Vista temporal externa de Igris, voluntaria y probada a distancia, nunca memorias/ojos de Mau; Yuka escogerá antes de la pregunta. Se conserva Mai caminando/Mau parando a toda la legión en#8, separado del accidente de dominios. Ningún salto de semanas, nuevo daño permanente, XP o llegadaS8.

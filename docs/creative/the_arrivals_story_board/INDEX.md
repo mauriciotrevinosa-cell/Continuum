@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Cierre S7 en producción — V42#1–17, 2026-10-28:** Días consecutivos B+7–B+10: pareja, seguimiento, mesa JJK y música/Bocchi; ensayo pequeño y después combinación distinta que provoca lesión aguda. Shoko lo estabiliza y la casa acompaña; recuperación y pedida aún siguen. [Índice](../THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Verde íntegro](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Continuar después del push; no cierre por checkpoint.
+> **Cierre S7 en producción — V42#1–23, 2026-10-28:** Recuperación en días consecutivos, anillo fabricado en escena, contrato de vista exterior voluntaria probado y montaña preparada. La pedida y el cierre cálido siguen a continuación. [Índice](../THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md) · [Registro vivo](S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Verde íntegro](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Continuar después del push; no cierre por checkpoint.
 
 > **Esqueleto solicitado para opinión — 2026-10-28:** [Cierre S7, desarrollo S8/S9, arcos y convivencia](S7_S9_CONVERGENCE_HOUSEHOLD_AND_MAKIMA_PROPOSED_SCENE_SKELETON_2026-10-28.md); [dirección íntegra sobre Makima y respuestas](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md). Amistad laboral alegada, nunca reemplazo de Yuka; coartada inventada, dudas de Mau. DIO débil/oculta y permiso de casa sustentan propuesta acotada de admisión. Capítulos/volúmenes orientativos, sin producción nueva.
 

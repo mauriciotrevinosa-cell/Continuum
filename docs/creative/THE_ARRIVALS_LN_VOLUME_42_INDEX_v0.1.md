@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S7 v0.1
 **Volume:** 42
 **Season:** 7
-**Coverage:** S7E74–S7E80 (in progress)
+**Coverage:** S7E74–S7E83 (in progress)
 **Volume title:** **A Place Beside Her** (provisional)
-**Chapter files:** 17
+**Chapter files:** 23
 
 Continuous days after Volume41. The authorized closing arc follows Mau's return, chosen life, training, a mountain proposal and ordinary days afterward. S8 and its first arrivals remain unwritten.
 
@@ -32,3 +32,9 @@ Continuous days after Volume41. The authorized closing arc follows Mau's return,
 | 15 | S7E80 | Empty First | `THE_ARRIVALS_S7E80_LN_CHAPTER_01_EMPTY_FIRST_v0.1.md` |
 | 16 | S7E80 | The Third Line | `THE_ARRIVALS_S7E80_LN_CHAPTER_02_THE_THIRD_LINE_v0.1.md` |
 | 17 | S7E80 | Stay Where We Can Reach You | `THE_ARRIVALS_S7E80_LN_CHAPTER_03_STAY_WHERE_WE_CAN_REACH_YOU_v0.1.md` |
+| 18 | S7E81 | When He Asked | `THE_ARRIVALS_S7E81_LN_CHAPTER_01_WHEN_HE_ASKED_v0.1.md` |
+| 19 | S7E81 | The Day from the Bed | `THE_ARRIVALS_S7E81_LN_CHAPTER_02_THE_DAY_FROM_THE_BED_v0.1.md` |
+| 20 | S7E82 | Borrow Your Hand | `THE_ARRIVALS_S7E82_LN_CHAPTER_01_BORROW_YOUR_HAND_v0.1.md` |
+| 21 | S7E82 | A Ring | `THE_ARRIVALS_S7E82_LN_CHAPTER_02_A_RING_v0.1.md` |
+| 22 | S7E83 | Only What He Looks At | `THE_ARRIVALS_S7E83_LN_CHAPTER_01_ONLY_WHAT_HE_LOOKS_AT_v0.1.md` |
+| 23 | S7E83 | A Blanket That Stays | `THE_ARRIVALS_S7E83_LN_CHAPTER_02_A_BLANKET_THAT_STAYS_v0.1.md` |

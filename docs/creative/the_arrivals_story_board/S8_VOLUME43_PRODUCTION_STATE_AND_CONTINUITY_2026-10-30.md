@@ -37,34 +37,38 @@
 | 29 | S8E12 CH01 | Subjectiveday276 | Tenclears/livedcamp/rain,183/120then115spent→5/Int495; Architectmisreadcountered, records/worldoutsideunknown. |
 | 30 | S8E12 CH02 | Subjectiveday367 | Elevenfurtherclears→197/75,60spent→15/Int510; designceiling200, physicalgapplan, familyrecords stored, Frostconstructahead. |
 | 31 | S8E13 CH01 | Subjectiveday368 | ConstructedFrostMonarch/teamfight, freshinjuries/Igrispaidrebuild, crowncoredefeated; rewardunopened, transitionimminent. |
+| 32 | S8E13 CH02 | Subjectiveday368, exit | Final200/0/Int520, falseFrostAriseRime→1015registry, recalls/physicaltimedcross, modifiersendatreturn. |
+| 33 | S8E13 CH03 | B+19 aboutonehouraftercapture | Realhome/ringrecognition, privateCielreconnectionandcrying, Berumissedspotroutine/Shokocare, littlebedbreak, no familyattack. |
+| 34 | S8E14 CH01 | B+19 aidedbath/rest | Actualbath/Imhome, newforceprecisionfear, YukaI llholdyou, promisedresttogether, nonsexualintimacy. |
+| 35 | S8E14 CH02 | B+19 afternoon/evening | Umarusupport0points/NoiseIlikeher, Ori stone/familycare, presentCielreadnotarchive, couple rests;V43close,S8continues. |
 
 ## Current state
 
-**Current:** V43#31/S8E13 CH01, subjective day368. Constructed Frost-pattern monarch defeated, reward not opened, extraction NOT performed. Arch starting transition; imminentescapeplan not executed. Outside B+19, totalhournotyetreported. Continue Arise/recall/physicalcross→fullhomecoming, not anotherboss or fadeout. Volume inprogress until coherent landing.
+**Current:** V43#35/S8E14 CH02, B+19 evening, Mau/Yuka asleep in preparedclinicalroom afterreturn. Volume43completeasproductiondraft; S8NOTcomplete, continueVolume44withoutnewpermission. Scope:aftermath→YukaTigerAgitoMahoraga→Tempestreunion→tournamentproposal/protestRimuru/Diabloline, NOtournamentfight.
 
-## Exact quantities
+## Final dungeon ledger
 
-Entry126/57/Int460. Now197/15/Int510, pending lastreward.71levels×5=355earned;57entry=412available;397spent,15held. S8cumulative deltasStrength95,Dexterity95,Vitality97,Perception60,Intelligence50 (sum397). First4absolutes not invented. Actuallevels:128afterflock;130bridge;136fourclears;139falseBeru;153eightsorties;160pairedcalamities;183tenclears;197elevenfinalclears. Newstats/levelsnotheals.
+368subjectivedays, roughlyonehourexterior. Entry126/57/Int460, exit200/0/Int520.74levels×5=370earned+57entry=427points spent. S8deltatotalsStrength100Dexterity100Vitality100Perception67Intelligence60(sum427). Final32clear197→200,+15pointsprevious15→30, spend5Str5Dex3Vit7Per10Int→0. Absoluteotherattribute totals neverinvented. Cap200Architectallocationdesignnotuniversalfuturelimit or infiniteCE. Muscleupgradespermanent; roomreducedimpactagainstprotectedtargets notallmovementspeed, outsideprecisionneedsrelearning. OldgreyexceptYuka/blur/twostifffingers/scars/whitepatchretained.
 
-Allocationdetail since25:26nochange;27remaining7Vitality→153/0/485;28+7levels/+35points→160/35, spend30(10Str10Dex10Vit)→5;29+23levels/+115points→183/120, spend115(30Str30Dex25Vit20Per10Int)→5/Int495;30+14levels/+70points→197/75, spend60(10Str10Dex10Vit15Per15Int)→15/Int510. Ceilingconfigured200visible, Architect's allocationdesignnotuniversalpotential.
+ConstructedFrostpatterndefeated31, Arise32costed/heldagainstroomreclaim, namedRimeandstored, oneNEWregisteredunit. Legion1015=997ordinary+17named+1unrankedgiftedsentinel. NotoriginalMonarchsoul, notAshbornorsecondBeru. NativeMahoraga/Agito/Deer separate. PaidformreconstructionsincludingIgris no permanentcasualties.603small/4pylon/12bossoldstockunchanged, no newcoins/crystals/gear. Daggers/katanaandnotes/originalshirtboxretained.
 
-Legion1014=997ordinary+16named+1giftedsentinel intact. No newMonarchunit yet. Numerousformreconstructions paidincludingIgris31, no permanentcasualties; prior13ordinaryquantified early, latermore, do not imply13istotal. Battledeploymentsexpandedtask-based; ownKamish/Kaisel/Lantern/Fang/Bellion/Igris/Beru andordinarycompanies, nativeAgito/Mahoraga/Deer separate fromregistry. No originalRuler/Monarch killed.603small/4pylon/12boss retained; no newcrystal/coin purchases. Katana/daggerpair retained; records/originalshirt/box storedbeforefinalfight.
+## Exit and homecoming32–35
 
-##26–31 produced
+Lastallocation, AriseRime, allinsidetroops/nativeformsrecalledbeforeexit; Beruurgenthealpostponedbecauseclosingtransfergap, notselfpunishment. Physicalmovement/grip throughunfinishedreturnbranch, no stableoutsideExchange/winbyriddle. Roompenaltiesendatfullcross, Ciel/Rimuruchannelthenreconnect.
 
-26/day122 pairedconstructeddragoncalamities: widebasin, ownerKamishacts, skydragons/Agito/armylinesprotect, nativeMahoragalearns FIRSTfire only, cannotadaptabstractroomcontrol/secondimpact. SequentialCEcopies vssecondattackinjuresMauchest/sidecritically.27Beruheal-otherholdsonepart, MauownRCT+oldlocalfilter/Noise reconstructsmallerparts underrestriction,7Vitalitypurchase increasescapacitynotheal. MemoryYukamotivationnotfuel. Teamholdsfield, he acceptshelpmoving/standing.28teamtimingKamishrelease/Redeye/focusedjointfinish, secondgroundcollapse+focusstrikes, seriousfreshrepairafterwards. No repeatedBeruconsumptionviscera.
+33clinicactualoriginalendpoint: bloodyMau brieflydrawsdaggersandasksreal/back, familyholdsnonthreateningpositions;YukashowsORDINARYengagementbandandembraces, daggersstored. Onlyonehourexteriorreported;Mau>year. Cielprivatevoicecausescrying/reliefnotabandonmentaccusation; chosenpresentinjuryreadpermitted, NOTallmemoryarchive. BerurecalledresumesearnedhealingwithownRCT, exactmissedspot/Iknowwasgettingthere routine. Shokoexaminesfirst, minorbededgebreak, no housecollapse/familyattack.
 
-29/day276:10loggedsorties include rainforest, actualcamp/life/reviews, body/refinement. Architectvoice saysMonarchregainingformerlevel; MaucountersnotAshborn/notwilling, no possession. Oldworldsummerunknown; noteskept, voicesilenceonceperrestnotspiral.30/day367:11furtherloggedclears, bodycap200noticed, repeatedtransitionintervalfinallyreachablebutnotstableExchangeaddress; needphysicalspeed/strength/timing. Storesrecords/oldshirt, entersconstructedFrostpattern.31/day368:icearmy, retreatcommands, sequentialInfinity/Blue/sky/Shrine/LimitlessRedBluewithindependentgrip/flight; nativeMahoragaspecificattackadaptationguard. OwnAgitoanddragonsrealrole, Igrisformbreak/rebuildpaid. Coldfigureconstructednotoriginalsourcegod; crowncore defeated via openedhandangle/team. Mau freshforearminjury/ribcut/blood, bodyrepairpartial, Beru nearby; lessvisceralthanoldBeruA. Transitionstartingwhilelastrewardwaiting.
+34actualaidedbathafterm edicalstabilisation, Shokoclearswash/Cielcurrentmonitor, Berufinisheslimitedrepairandstoredwillingly. Yukaoutsidebath, ImhomeprivateCielanswer. Cleanclothes/oldfingerissue, veryslowimpactdosingnewbody, YukaIl lholdyou embrace; asksrestwithherallday, fiancéeimpatiencejoke/kiss, nonsexual. Preparedclinicroom, notupstairsordinaryroomyet.
 
-## Home/cast guardrails retained
+35Umaruhears200/0/capandrespondssupportivelynotangry, NoiseprivateIlikeher>Mauverbalrelays; no guaranteedfuturecapunlock. Orilendsmountainstoneuntilbetter, compassstillFrieren/Mum. Frierenkeepspassageclear. RemRamMaiYutaordinarycare, no tribunal; damagedlatchdealtwithwithoutMau'slabour. Shoko/CielpresentdiagnosticsconsentedviaRimuru,2heartsnot3, olddeficits. Yukaquietlybesidehim, heasksCielonceandhearsanswer, sleeps.
 
-Trapped>year byactualcount368, exterioronlyminuteslastseen; eventualonehourexteriorstilltoreport. DIOphysicallyouthouseBEFOREcapture, Ashbornvoluntaryphysicalhouseguest; Architectmisreadretainedsignature, no imprisonedguest. Cielperson/Rimuruoutwardcut, localnon-speakingMiniCiel/Noisepresent; armyinwardcall/localExchangeonly, no outgoingmessage/exchangebypass. Homenointeriorinjury/kill/growthknowledge. Yuka/Maki/Yutaacceptanceintact, ringordinaryLEFT/familyringbraceletseparate; roomsince746, no weddingdate/sex/pregnancy/newloft. OldgreyexceptYuka,leftblur,twofingers/scars/whitepatchpersist.
+## Current relationships/positions
 
-Beru heal-otherearned24andrefined, NOTallmagicalcureornewvoice. Endbodymusclepermanent; roomdamageclampaffectstargetimpact, not everyvoluntarymovement. Woodalreadycrackedfromforce29foreshadowsgraduation; avoidclaimwholeworldwasmoving10%speed. Afterlastpurchasesmustrelearnimpactdosingwhenoutsideprotectedtargets. No infinityCE; sources/throughputseparate.
+Mauknowsheishomeandtrustsfamily; briefreturnuncertaintyresolved, futureShiontriggerSPECIFICMakimaassociationnotseasonparanoia. Cieldidnotabandonhim, localfilter/Noisehadfunctionedwithoutbecomingher. DIOphysicallyoutbeforecapture, weakwithhouse; Ashbornphysicalquietguestvoluntary, retainedsignatureexplainsArchitectbiasnotpossession. YukaordinaryringLEFT/familyringbraceletseparate, engagedB+15, sharedroomsince746butcurrentlyclinicforcare. No sex/pregnancy/weddingdate/newloft. Familyknowsyearandnewpowerbroadly, no privateinsideMauarchiveorwholekillhistoryyet. RimeNOTdemonstratedpublicly. KatanaoldRikapatternknowledgeunchanged.
 
-Next:lastreward→allocationallremaining→Ariseconstructedfrostshadow (notactualMonarchsoul), store/recall and physicaltransitionescape. Beru'sfullhealingpostponedonlybecausewindowisclosing, notdramaticselfpunishment. Thenring/Ciel/homebath/YukaUmaru, trueaftermathbeforeYuka/Tempest, continueuntiltorneoproposal. [Chloechild/Chronoa latestdecision](S8_CHLOE_CHILD_CHRONOA_AND_CONTINUATION_CREATOR_DIRECTION_2026-10-30.md) isadaptationnotcompletecanonclaim.
+KeepfullpriorcreatornotesandlatestChloechildChronoa adaptation. Hinatasibling/compatriotgradual, ChloeFort/Yukafamilial, VeldoraRimurusafefightban, Shionsecretaryassumption/limit/Diabloexample. Beforearrivalversions/choreographycoherent, noallmaxTensuracurbstompclaims. Continueafterpush.
 
 
 ## Next
 
-Continue immediately Arise/lastallocation/recall/physicalescape then fullhomecoming, no stoppingatcheckpoint. Still197/15pendingreward,1014armybeforeextraction.
+Continue V44 immediately from B+20 aftermath/precision and chosenYuka progression, thenTempest through tournamentproposal. No stop/permissionrequest from closingvolume43;fullendpointnotreached.

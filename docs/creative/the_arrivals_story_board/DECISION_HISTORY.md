@@ -2541,3 +2541,8 @@ Creador reitera continuar hasta propuesta del torneo. Nuevos21–25 desarrollan 
 ### S8 — V43#26–31, 2026-10-30
 
 Continuaciónhastaendpoint: desarrolla pelea de calamidades y reconstrucción precisa conBeru/ownRCT, tiempo vividohasta368días, registro197/15/Int510ycapdiseñado200. MonarchFrostesrepresentaciónnooriginal, aúnsinArise/recompensafinal. Siguenescape/regresocompletosantesdeYuka/Tempest; nocomprimirporalcan zarcifra.
+
+
+### S8 — V43#32–35, 2026-10-30
+
+V43#32–35 cumpleescape/regresosinresumen:200/0/Int520, total427puntosinvertidos;RimefalsoMonarch1015registro,nofalsocanonoriginal. Ring/privateCiel/missedspot/bath/holdyou/UmaruIlikeher/familyrestconservados.35capítulosresultadoescenas,nocuota.SigueV44hasta tor neoproposal, no deteneralpush.

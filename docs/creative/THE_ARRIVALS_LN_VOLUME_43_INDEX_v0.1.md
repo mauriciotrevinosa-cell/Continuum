@@ -3,13 +3,15 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 43
 **Season:** 8
-**Coverage:** S8E01–S8E13 (in progress)
+**Coverage:** S8E01–S8E14 (volume complete; S8 continues)
 **Volume title:** **The Afternoon He Kept** (provisional)
-**Chapter files:** 31
+**Chapter files:** 35
 
 Continuous days from the end of S7, then the authorized rescue/trap and dungeon arc. Chapter and volume estimates remain flexible; no padding or compression to hit a quota. Side-character scenes may be shorter. Production draft for creator review, not automatic approval.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md) · [Current continuity](the_arrivals_story_board/S8_VOLUME43_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md) · [Creator greenlight](the_arrivals_story_board/S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md).
+
+**Volume43 closes with Mau back at home. S8 continues; the authorized tournament-proposal endpoint has not yet been reached.**
 
 ## Reading order
 
@@ -46,3 +48,7 @@ Continuous days from the end of S7, then the authorized rescue/trap and dungeon 
 | 29 | S8E12 | Summer on the Other Side | `THE_ARRIVALS_S8E12_LN_CHAPTER_01_SUMMER_ON_THE_OTHER_SIDE_v0.1.md` |
 | 30 | S8E12 | What the Room Cannot Keep | `THE_ARRIVALS_S8E12_LN_CHAPTER_02_WHAT_THE_ROOM_CANNOT_KEEP_v0.1.md` |
 | 31 | S8E13 | A Winter Someone Made | `THE_ARRIVALS_S8E13_LN_CHAPTER_01_A_WINTER_SOMEONE_MADE_v0.1.md` |
+| 32 | S8E13 | Through | `THE_ARRIVALS_S8E13_LN_CHAPTER_02_THROUGH_v0.1.md` |
+| 33 | S8E13 | The Ring on Her Hand | `THE_ARRIVALS_S8E13_LN_CHAPTER_03_THE_RING_ON_HER_HAND_v0.1.md` |
+| 34 | S8E14 | I'll Hold You | `THE_ARRIVALS_S8E14_LN_CHAPTER_01_I_LL_HOLD_YOU_v0.1.md` |
+| 35 | S8E14 | The Day He Asked For | `THE_ARRIVALS_S8E14_LN_CHAPTER_02_THE_DAY_HE_ASKED_FOR_v0.1.md` |

@@ -11,6 +11,8 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_45_INDEX_v0.1.md) · [Festival continuity](the_arrivals_story_board/S8_FESTIVAL_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-30.md) · [Creator greenlight](the_arrivals_story_board/S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md).
 
+[Continue in Volume47](THE_ARRIVALS_LN_VOLUME_47_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

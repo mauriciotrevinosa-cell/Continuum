@@ -56,8 +56,14 @@
 | V46#18 | S8E44 CH02 | B+42 remainingR16 | Leon/Frierenclockskilldecision/Fernstallchoice, Hakuro/Ultimafinish andStarklearnedquestion, no sourcebranchkitimport. |
 | V46#19 | S8E45 CH01 | B+42 R16afternoon | Veldora/Testarossa availablepath/cost, Milim/Frey actualaerialduelcare; final8set/restB43. |
 | V46#20 | S8E45 CH02 | B+42 afterbouts/night | ConsentedMilimsmallUVtestnarrowcompatibility/cap, G/Sownwalk, RemU/Fort/familieslife/HQtentativequestions. V46complete,S8continuesV47. |
+| V47#1 | S8E46 CH01 | B+43 firstquartermorning | YutaYuka fullfamilyquarter/nativeplanning/Skysequential/GardenvsownYutarefinedDE/motorstop, honestloss/growth andordinaryburnout. |
+| V47#2 | S8E46 CH02 | B+43 quartersmorning | MilimUltimarefTKO afterrealfeints/cost; GojoLeon finegradient/zone/lightstrategies/ringout, no newquantumgod. |
+| V47#3 | S8E47 CH01 | B+43 lastquarterpart1 | PredeclaredTrueDragoncourt fixedBEFOREstart; MauoldsoloCTsequences/physical/Ruler vsrealVcosts, matchcontinues. |
+| V47#4 | S8E47 CH02 | B+43 lastquarterpart2 | MauVeldorafullroute/body/finitepressurearrangement earnsringout, freshcare/laughs/rest. Actualfinal4nowearnednotranks. |
 
 ## Current state
+
+**LATEST: V47#4/S8E47CH02, B+43 late morning. All quarters complete; actual final4Yuta/Milim/Gojo/Mau. Rest and format consent NEXT, no final yet.**
 
 **LATEST: V46#20/S8E45CH02, B+42 night. V46 complete at R16 conclusion; immediately continue V47 B43 quarterfinals.**
 
@@ -239,3 +245,18 @@ Eveninghouseownfamily: Rem/UmarureturnedgameB40asagreedfailed, B42afterboutsRemC
 ShizueRcoinSTILLUNSPENT: afterfestivalchoosegenuineatdeath/knownRimuru/memoriesintact/youngerbodylikeYutawithoutIfrit, DIOprivate"A small upgrade. So she lasts." Narrowstablebodynotimmortality/allauthorityreturn. AuthorfutureV47/48mustexecuteonlyonRchoice, Shizuownvoice.
 
 ContinueimmediatelyV47B43quarterfinals/corefightsneededspace, no stopfornewvolume/push. Thenfour-wayfinalcreatorbeat, dungeonfullpublicarmy/noAriseinhabitants, deepertraps/Beruacting/Ramirisgenuinechallenge, Shizue/relations/plans, HOMEInn+HQprospectivelist/proposalscutoff. No newvillage/WitchHat/Walpurgis/massenemysabotage.
+
+
+## V47#1–4 quarterfinals actual and injury/CE state
+
+Morningorder Yuta/Yuka FIRST tospaceMsharedcontractcost/recovery beforehisownquarter; Milim/Ultima+Gojo/LeonthenMau/Vlast. FieldfixedlargerBEFORElastboutbecausepredeclaredlargeform/existingRamirisclearedextension, normalspectatorpassage notnewNoiseroom/Mauviewcontract, bothacceptsame3minscorerules,no midfightboundarymove.
+
+Yuka/Yuta: B43wristmorningcheckPASSESnormalmotion/supportremoved aftercare/rest, notpermanentinjurycure. NativeOx/Nue/Toadarrangement/Yutaphysicalread, recallOxBEFOREbodycouldbekilled, no nativepermanentloss. DismissnativebeforeborrowedSkyboundedtouch, CLOSESSkybeforeherlimitedGarden, YutacurrentpersonalDEOVERWHELMSsmallnativeGarden, chosencertifiedbriefmotorCursedSpeechsurehitLetgo→weaponreleased, Yukanativeburnoutcannotchangeborrowedpatternnametofixroute, Rika/Yutapositioncrediblefinish→yield. YutaclosesDEacceptsordinaryCTburnout/rest, reserveRikarefillcan'tbuyimmediateseconddomain. No instantnewCopy/domainunlock. Family/MakiMaiandM/Yproudownplan, acknowledgeslossbeforeconsolation. Yuka spentnativeCEandbriefsharedCE, restimportant, noquartermatch2todaymandatory. Weaponretained, originalringcord/silverbandintact.
+
+Milim/Ultima: Uflows/feintsrealMicanseeenergybutnotalreadychoosecorrectbodyanswer, scratchforearm/genuinecost, Mibody/gauntletpowerwinsTKOrefstopbriefdisorientationUunableguardcoherently. KneeALONEdidn'tend. Medcheckpassednoresidualstate, nodragosourcefuturebeam/Ultimategrant. MiFULLINFOtestyesterdayremainsboundedcapnotinfiniteimmunity.
+
+Gojo/Leon: LeonreadsPurplepreparationrefusesobviousimage, localizedpreparedzone/lightforcesGmov ing/armburn, Infinity notautomaticallforeignimmunity. Existing2Bluefinitegradient/lensing/releasedRed smallcrossforce /bodypressure andpreparedroutetimingringoutG. Nofreshquantumgod powers/energycreation; repairedfresharmstillcheckedShoko, hehonestwillbecarefulquietcouplestate.
+
+Mau/Veldora TWOchapterfull3minbattle. VrealoperativeTrueDragonformchosenbeforestart, roomfitsandfixedboundarycountappliesbody. MNOarmy/Kaisel/nativeMaho/katanaRikaconstructbypassdeclaredsolochoice. StrictsequentialCE: LimitlessBlueRedreleasedthenclosedSky/Shrine/physical stages; separateRulerforce liftsfragments/changesowntrajectorynotinfinitegravity/no selfpermanentflightunlock. Vcounterair/breath/guard/possiblepathanalysisnotfateomnipotence. Mfreshribstrain/shoulderscoring/healsRTCfinite, oldfingersneedbetterhand/grey/blur/scarsstay; no spinebreak/yearflashbacktraumacollapse. Earnedlastarrangement: fracturesridge, separatekineticsforces Vchoosecostlyroutes, Bluewellreleased→Skybreathnarrowfoldclosed→RedbodyguardforcewidensownturnRELEASED→Blueholdswrongcorrectionfraction; fixedboundaryfullycrossed/countends. SportwinNOTuncheckedwaragainstallsourcemaxima. Vhadnextcounterwouldbreakit; timingnotstrengthomnipotencewins. Bothlaugh/wantagainapprovedplace/Rimuru tomorrowalsoaday. Hostproudoutsidearenauncracked. Mlegshonestlyneedrest, clinicalfreshinjuryrepairchecks, Yleanunhurt side. Currentstats200/0/520/6615unchanged.
+
+NowALLquartersdoneactualfinal4creatorrequested Yuta/Milim/Gojo/Mau. MustRESTseveralhoursbeforefinalandask4/host/adjudicationconsentforchangedformat, notpretendsinglessemialreadyhappened. YutarecoverburnoutNATURALLYnotRikaCEreset, Gfreshworkhealed/M200bodyfinitepostVfight, supportMaiquietforquarterasS7agreementherownwarninghabitkept. No instantfullreservesannounced. Next final3domainmomentmustbeCTconsistent/testedcap/contactexemptions, Milimtemporarynotpermanentbraininjury, immediateall3check/safeexit/useradmitcheated/notstrongerandgirlclaimswin/returnsRchoice. Continueafterpush.

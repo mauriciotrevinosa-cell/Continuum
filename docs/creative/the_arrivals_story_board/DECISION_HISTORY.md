@@ -2594,3 +2594,7 @@ El creador leeV43 y pide propuesta propia para compararla con la suya. [Document
 ### S8 — Esqueleto sin spoilers deportivos, 2026-10-30
 
 [Mensaje íntegro y propuesta pública](S8_FESTIVAL_PUBLIC_SCENE_SKELETON_AND_RELATIONSHIP_PACING_FOR_CREATOR_REVIEW_2026-10-30.md). El creador pide mapa/estimación, conserva organización de torneo como sorpresa y daráverde después. Propuesta75–110capsadicionales para visita/festival/demostración/cierreShizue/primeroshogar, no todaWitchHat/pueblo/haul. Hilos se solapan, no bloques de todaslasdates juntas ni capcorto aplicado aescenascentrales. MediciónS5mediana1386/S8mediana829da contexto deextensión, no prueba decalidad. Rem/Umaru recomendación: mano espontánea, sorpresaRem, consulta elegidaShoko conMau, otra iniciativaRem sin diagnóstico ni sentimientosUmaru asumidos; «ori rem» interpretado por ejemplo comoRem/Umaru. No capítulosnuevos,1491intactos, no cuadro/ganador expuesto ni verdeinferido.
+
+### S8 festival — V44#13–14, 2026-10-30
+
+Verde íntegroguardado con nuevo endpoint: regresoInn/listaHQ/propuestaspueblo yFortincidente/dulcesdobles. V44#13–14inicianpreparaciónconversacionescompletas: invitados/needs/monumentos/Shionpropiaelección, negociaciónNoisesinconstruccionesnuevasperoexistingrepairintacto. 1491capítulospreviosintactos, censo6615/200/0/520preservados. Se continúa traspushsinparar; no torneo escritoaún.

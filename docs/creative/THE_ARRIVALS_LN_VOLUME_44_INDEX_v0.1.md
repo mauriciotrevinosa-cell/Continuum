@@ -3,15 +3,15 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 44
 **Season:** 8
-**Coverage:** S8E15–S8E20 (in progress)
+**Coverage:** S8E15–S8E21 (in progress)
 **Volume title:** **The People He Came Back To** (provisional)
-**Chapter files:** 12
+**Chapter files:** 14
 
-Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapter quota. The authorized section ends at the proposal of the tournament; its combat and later arcs need their own planning.
+Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapter quota. The creator has now authorized the festival continuation through the household return and future HQ-resident proposals; see the new greenlight below.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_43_INDEX_v0.1.md) · [Current continuity](the_arrivals_story_board/S8_VOLUME44_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md) · [Creator greenlight](the_arrivals_story_board/S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md).
 
-**Authorized section complete through the tournament proposal. S8 remains ongoing; tournament fights and the next chapter are not written here.**
+**Festival continuation authorized:** [Exact greenlight and return-home cutoff](the_arrivals_story_board/S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md) · [Current festival relationships and progress](the_arrivals_story_board/S8_FESTIVAL_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-30.md).
 
 ## Reading order
 
@@ -29,3 +29,5 @@ Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapt
 | 10 | S8E19 | Room at the Fort | `THE_ARRIVALS_S8E19_LN_CHAPTER_02_ROOM_AT_THE_FORT_v0.1.md` |
 | 11 | S8E20 | A City Between Cities | `THE_ARRIVALS_S8E20_LN_CHAPTER_01_A_CITY_BETWEEN_CITIES_v0.1.md` |
 | 12 | S8E20 | He Can Choose | `THE_ARRIVALS_S8E20_LN_CHAPTER_02_HE_CAN_CHOOSE_v0.1.md` |
+| 13 | S8E21 | The Other Half of His Table | `THE_ARRIVALS_S8E21_LN_CHAPTER_01_THE_OTHER_HALF_OF_HIS_TABLE_v0.1.md` |
+| 14 | S8E21 | Until We Come Home | `THE_ARRIVALS_S8E21_LN_CHAPTER_02_UNTIL_WE_COME_HOME_v0.1.md` |

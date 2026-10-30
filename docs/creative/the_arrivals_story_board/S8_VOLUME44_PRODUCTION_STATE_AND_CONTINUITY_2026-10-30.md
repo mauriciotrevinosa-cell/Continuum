@@ -1,5 +1,7 @@
 # S8 — Volume44 production and relationships
 
+> **Festival continuation authorized — 2026-10-30:** [Creator greenlight](S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md) · [Live festival ledger](S8_FESTIVAL_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-30.md). The stop atV44#12 and47chapter total below describe the earlier completed section, not a current instruction to stop. Existing census6615 correction retained.
+
 [Creator greenlight](S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md) · [Reader index](../THE_ARRIVALS_LN_VOLUME_44_INDEX_v0.1.md) · [Earlier state](S8_VOLUME43_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md).
 
 ## Produced scenes

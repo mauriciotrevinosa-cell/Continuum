@@ -1,5 +1,7 @@
 # The Arrivals — Esqueleto propuesto: cierre de S7, convergencias, Makima y respuesta del hogar
 
+> **S8 en revisión — 2026-10-29:** [Emboscada breve de Makima, dungeon físico y aftermath corregido](S8_MAKIMA_GATE_PHYSICAL_DUNGEON_AND_TARGETED_AFTERMATH_CREATOR_INTAKE_2026-10-29.md). La confianza prolongada anterior está en revisión: no producirla por inercia. Mau vuelve más herido físicamente, conserva confianza en casa; reacción a Tempest ligada al espejo concreto con Makima. Ritual de Yuka/Mahoraga pasa al aftermath. Entrada/mecanismos/duración/heridas aún por construir; sin capítulos nuevos.
+
 > **Dirección del creador — S8, 2026-10-29:** [Tiger, Agito y Mahoraga de Yuka](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md). Agito independiente de Noise conservado por Mau, sin sacrificios; futura obtención de Yuka después de Tiger. Última precisión: Mau lee un corte, «Sombra, ahora», Yuka se refugia y él toma el frente; Mahoraga queda de ella mediante protocolo compartido. S8 propuesta, punto exacto por elegir; [ampliación: remate Kamish, pareja y grabados](S8_YUKA_MAHORAGA_AFTERMATH_PAIR_TRAINING_AND_ENGRAVING_CREATOR_EXTENSION_2026-10-29.md). No cambios de capítulos/S7.
 
 > **Verde posterior del creador, 2026-10-28:** [cierre S7 en montaña y días continuos](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md). Primera llegada y Makima pasan al comienzo de S8, aún por ordenar; no se escriben dentro de este cierre. Sustituye ubicación anterior de convergencias y la estimación de capítulos del resto de S7.

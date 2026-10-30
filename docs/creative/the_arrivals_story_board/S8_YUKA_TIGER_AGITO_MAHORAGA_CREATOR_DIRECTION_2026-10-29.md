@@ -1,5 +1,7 @@
 # S8 — Yuka: Tiger, Agito y Mahoraga
 
+> **Ubicación posterior precisada por el creador, 2026-10-29:** [Ritual de Mahoraga en el aftermath del nuevo dungeon de Makima](S8_MAKIMA_GATE_PHYSICAL_DUNGEON_AND_TARGETED_AFTERMATH_CREATOR_INTAKE_2026-10-29.md#6-yukamahoraga-dentro-de-ese-aftermath). Pelea controlada que aporta orden a Mau, cuando su cuerpo lo permita; crecimiento mental y confianza en casa conservados. Punto exacto de Tiger/Agito aún por ordenar, no adquisiciones ya producidas.
+
 > **Ampliación posterior del creador:** [Kamish remata, broma y gratitud de Yuka, entrenamiento en pareja, Todo/Yuji y futuros grabados](S8_YUKA_MAHORAGA_AFTERMATH_PAIR_TRAINING_AND_ENGRAVING_CREATOR_EXTENSION_2026-10-29.md). El remate queda en Kamish; Purple era la alternativa inicial. Guardado íntegro, sin prosa nueva ni desbloqueos.
 
 **2026-10-29. Dirección del creador para planificación futura, no capítulos nuevos.** S7 permanece completa como borrador en V42#31/B+17. La ubicación propuesta es S8, sin capítulo, volumen ni fecha cerrados. Este documento conserva los mensajes íntegros y distingue aclaración de continuidad, escena solicitada y alternativas aún abiertas.

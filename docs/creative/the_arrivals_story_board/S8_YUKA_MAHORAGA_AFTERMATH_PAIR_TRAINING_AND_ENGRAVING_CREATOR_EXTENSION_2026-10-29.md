@@ -1,5 +1,7 @@
 # S8 — Después de Mahoraga: pareja, coordinación y posibles grabados
 
+> **Ubicación posterior precisada por el creador, 2026-10-29:** [Ritual de Mahoraga en el aftermath del nuevo dungeon de Makima](S8_MAKIMA_GATE_PHYSICAL_DUNGEON_AND_TARGETED_AFTERMATH_CREATOR_INTAKE_2026-10-29.md#6-yukamahoraga-dentro-de-ese-aftermath). Pelea controlada que aporta orden a Mau, cuando su cuerpo lo permita; crecimiento mental y confianza en casa conservados. Punto exacto de Tiger/Agito aún por ordenar, no adquisiciones ya producidas.
+
 **2026-10-29. Ampliación del creador; planificación, sin capítulos nuevos.** Continúa [Tiger, Agito y Mahoraga](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md). S7 queda intacta en V42#31. No fija capítulo, fecha ni extensión del arco de S8.
 
 ## Mensaje íntegro

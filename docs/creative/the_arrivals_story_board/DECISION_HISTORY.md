@@ -2521,3 +2521,8 @@ Verde directo completo guardado: estimaciones abiertas, secundarios breves, cons
 ### S8 — V43#4–8, 2026-10-30
 
 V43#4–8 desarrolla la cadena sin semana falsa de amistad: atención, incertidumbre, Ori/DIO, Pell, protección familiar activa, salida previa deDIO, trampa por contacto y Ciel cortada. Pánico tras cortar aMakima, restauración/escape y entorno×5/10% sin borrar estadísticas. Sin premios ni adquisición gratuita; todos los previos intactos. Respuesta completa de coautoría incorporada para vínculos deHinata, Chloe/Fort, Veldora y Shion, a construir duranteS8.
+
+
+### S8 — V43#9–12, 2026-10-30
+
+V43#9–12 alterna reloj exterior y primer combate real. Mau conserva habilidad pero confía en abertura estructural que libera arma oculta; daño×5causa lesión seria y ayudaDeer/RCT necesaria. Bellion/Igris/Beru y6infanteríaactúan,1restauraciónpagada sinbaja permanente. Cuarto/agua/provisiones de recuperación, Beru cuida sincuraciónnuevaganada, pequeñomovimientonoescuracompleta. Registroconserva primerencuentropendientederecompensacuantificada, sinmover126/57/1014. Revisiónlector8previospasó con texto/navegación, sinDB/servicios/bookmarks.

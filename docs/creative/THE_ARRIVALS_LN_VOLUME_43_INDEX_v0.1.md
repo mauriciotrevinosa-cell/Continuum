@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 43
 **Season:** 8
-**Coverage:** S8E01–S8E03 (in progress)
+**Coverage:** S8E01–S8E05 (in progress)
 **Volume title:** **The Afternoon He Kept** (provisional)
-**Chapter files:** 8
+**Chapter files:** 12
 
 Continuous days from the end of S7, then the authorized rescue/trap and dungeon arc. Chapter and volume estimates remain flexible; no padding or compression to hit a quota. Side-character scenes may be shorter. Production draft for creator review, not automatic approval.
 
@@ -23,3 +23,7 @@ Continuous days from the end of S7, then the authorized rescue/trap and dungeon 
 | 6 | S8E03 | Her Own Words | `THE_ARRIVALS_S8E03_LN_CHAPTER_01_HER_OWN_WORDS_v0.1.md` |
 | 7 | S8E03 | The Hand She Raised | `THE_ARRIVALS_S8E03_LN_CHAPTER_02_THE_HAND_SHE_RAISED_v0.1.md` |
 | 8 | S8E03 | Grow, Monarch | `THE_ARRIVALS_S8E03_LN_CHAPTER_03_GROW_MONARCH_v0.1.md` |
+| 9 | S8E04 | The Empty Place | `THE_ARRIVALS_S8E04_LN_CHAPTER_01_THE_EMPTY_PLACE_v0.1.md` |
+| 10 | S8E04 | Ten Percent | `THE_ARRIVALS_S8E04_LN_CHAPTER_02_TEN_PERCENT_v0.1.md` |
+| 11 | S8E04 | Hold the Room | `THE_ARRIVALS_S8E04_LN_CHAPTER_03_HOLD_THE_ROOM_v0.1.md` |
+| 12 | S8E05 | The First Night | `THE_ARRIVALS_S8E05_LN_CHAPTER_01_THE_FIRST_NIGHT_v0.1.md` |

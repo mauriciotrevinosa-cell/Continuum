@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 46
 **Season:** 8
-**Coverage:** S8E36–S8E41 (in progress)
+**Coverage:** S8E36–S8E43 (in progress)
 **Volume title:** **Who We Cheer For** (provisional)
-**Chapter files:** 12
+**Chapter files:** 16
 
 The authorized festival continuation. Chapters follow scene needs; central conversations and fights are not constrained by the length of secondary interludes. Production draft for creator review.
 
@@ -27,3 +27,7 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 | 10 | S8E40 | The Distance Before the Sword | `THE_ARRIVALS_S8E40_LN_CHAPTER_02_THE_DISTANCE_BEFORE_THE_SWORD_v0.1.md` |
 | 11 | S8E41 | Gobta's Second Plan | `THE_ARRIVALS_S8E41_LN_CHAPTER_01_GOBTA_S_SECOND_PLAN_v0.1.md` |
 | 12 | S8E41 | The Other Reason | `THE_ARRIVALS_S8E41_LN_CHAPTER_02_THE_OTHER_REASON_v0.1.md` |
+| 13 | S8E42 | What the Hand Remembered | `THE_ARRIVALS_S8E42_LN_CHAPTER_01_WHAT_THE_HAND_REMEMBERED_v0.1.md` |
+| 14 | S8E42 | The Answer He Already Had | `THE_ARRIVALS_S8E42_LN_CHAPTER_02_THE_ANSWER_HE_ALREADY_HAD_v0.1.md` |
+| 15 | S8E43 | A Place Already Occupied | `THE_ARRIVALS_S8E43_LN_CHAPTER_01_A_PLACE_ALREADY_OCCUPIED_v0.1.md` |
+| 16 | S8E43 | The Answer She Could Hear | `THE_ARRIVALS_S8E43_LN_CHAPTER_02_THE_ANSWER_SHE_COULD_HEAR_v0.1.md` |

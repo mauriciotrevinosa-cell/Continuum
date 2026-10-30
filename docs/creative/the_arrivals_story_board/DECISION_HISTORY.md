@@ -2638,3 +2638,7 @@ V46#5–8 fivefurtheropeningresults10total; mainboutsdevelopedcore, lunchownrela
 ### S8 festival — V46#9–12, 2026-10-30
 
 V46#9–12 completeR1withoutinventingallmaxpowers, newrelationshipAnkoHinatamutualintent/handconfirmed. CREATORnewShizueextractiondyingmemories/youngstablebodyWITHOUTIFRIT andDIOsmallupgradeline savedverbatimforlaterarrival, no coinalreadyspent. All1529priorchaptersunchanged. Continueexactcutoff.
+
+### S8 festival — V46#13–16, 2026-10-30
+
+V46#13–16 expandedR16majorbouts, MauLuminous2parts andGojoDiablofullcreativebattle/YutaHinataowntechnique. SequentialCECTs/crossoverlimits/nonautowin testschecked, no sourceallkitdownload/physicalnerf bydaggerrelease. All1533priorchaptersunchanged. Continueafterpushthroughcreatorcutoff.

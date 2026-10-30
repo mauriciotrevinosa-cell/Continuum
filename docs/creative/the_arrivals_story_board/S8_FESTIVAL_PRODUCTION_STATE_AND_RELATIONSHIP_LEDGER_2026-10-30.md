@@ -48,8 +48,14 @@
 | V46#10 | S8E40 CH02 | B+41 afternoon | HinataBenimaruprecisionvsswordfire, thenLeonNazunaflight/route, no automaticholyweakness or untestedsoulerasure. |
 | V46#11 | S8E41 CH01 | B+41 lastopeningbout | Gobtaownsecondplan/Rangawatchesnothelper, Testarossawinscontrolledpin, ALL16R1done/R16tomorrow. |
 | V46#12 | S8E41 CH02 | B+41 lateafternoon/night | HinataMaufamilialease, AnkoHinataexplicitmutualdateintent/handholding, MYrest/ordinaryquiet. |
+| V46#13 | S8E42 CH01 | B+42 morningR16continuous | Mau/Luminous1 barriers/contactlifedraw vssequentialexistingtools; partialtruthnoterasureimmunity, oldtoolschoice. |
+| V46#14 | S8E42 CH02 | B+42 sameboutconclusion | Mau/Luminous2 combinations/tempo/bodycost, closeclockdecisionMau, consentedfreshwoundheal/oldsequelaeintact. |
+| V46#15 | S8E43 CH01 | B+42 R16morning | Gojo/Diablo fullspace/barrier/gradient/lensing/curvedPurpleduel; Gearnsaerialringoutbyanchorchoices/cost, no newevo. |
+| V46#16 | S8E43 CH02 | B+42 R16morning | Yuta/Hinata fullswordanalysis/Sky/Rika/feignedvoice/soundbarrierdecision, controlledfinishYuta. Partnerscare/personallivescontinue. |
 
 ## Current state
+
+**LATEST: V46#16/S8E43CH02, B+42 morning R16. Mau, Gojo, Yuta advanced; Yuka/Shion next.**
 
 **LATEST: V46#12/S8E41CH02, B+41 night. ALL16 opening bouts complete. Continue B42 round-of16 and festival. New explicit Shizue arrival rule below, coin not yet spent.**
 
@@ -197,3 +203,14 @@ YukaShionownrespectandtomorrowchallenge, MYdinnerthenbed bychoice/bandagedwristc
 Direct reply2026-10-30: genuineShizueJUSTBEFOREDEATH, REMEMBERSmeetingRimuru, arrivesYOUNGERSTABLEBODYlikeYuta, WITHOUTIFRITinside. MemorypointnotretconnedtoyoungpreRimuru. Narrowcreatorarriv aladaptationnotallsourceagephysics. DIOmaycomment privately "A small upgrade. So she lasts." (creatorexact"a small upgrade so she last"). Notimmortality/allpowers/freeglobalresurrection orDIOallauthorityhealed. ROMANCEOPEN/byherchoice. ExistingRCOINunspentasyet; writeactualchoice/spendarrivalaftermainfestivalwhenready, don'tinventsecondcoinorletpublichearhiddenGoddess. Newfulldirectionlinkedkeepsverbatimcreatorreplies.
 
 Next: B42round16, Mau/Luminous carefullydevelopedmeasurement, Gojo/Diablo etc andrestfamilylife. Neithernewuserreplynorpublicationcheckpointcancelsauthorizedscope. ContinueuntilhouseholdbackInn+HQprospectivelist/proposals, no nextvillageexecution.
+
+
+## V46#13–16 secondround costs/results
+
+Mau/Luminous twofullchapters contiguous3min. Lu precisionlayers/marks/contactlifedraw onlyafterInfinityOFF, doesnotcrossInfinitybyholylabel or drainallBlackHeart. Mau holdsoneCECTtime: Limitlessneutral/RedreleasedthenCLOSESbeforeSky, closesSkybeforeShrine andphysicalstages; separateRulerfragmentkinetics/physicalstamina/daggers/noarmy. Oldtools/CielNoisefuturedata notnewbuild or genericlifeimmunity. MlosesenergyfreshcutbodyRCTfinite, Luusedactualcontact counter; neitherallunshowncardsdownloaded. ClockCLOSESPLITtechnicaldecisionMauadvances basedcleanpositions vsLu'ssinglebestcontact, not strongerthanfullsourceLuinwar. ConsentedLuhealsfresharmwithShokocheck, oldgrey/blur/fingers/scarsUNALTERED. Daggersstillregistered/equipped, releasehandNOTinventstatdeactivationrule; physicaltempochangeDELIBERATE. No newlevelsXP/army/stock.
+
+Gojo/Diablo onebigchapter. D preparedanchoredpressureactsatlocalregionGojooccupies (doesnottravelInfinity), needssetup/locationnotuniversalallspaceoverride. G breaksanchors/movesbeforeclose, usesEXISTINGfinitegradient/lensingandoneprearrangedcurvedPurple, no newquantumevolution or directinfinitehoming. DnearlyringoutsG, GRedanchorbreak/Purpleforcesguardchoice/Blue+Reddeniespreparedescape/controlphysicalturnringout beforecount. Properdanger/costboth, Ddoesnotyieldoutofloyalty or getnewlateUltimate. IrreversibleTemptation/soul/timeeffectsremainuncertifiedunused, notallsourcewarclaim. Gbleedinglip/bruisechecked, Dshoulderouterprotectionburn/healingchecked, ShokowipesGfaceactualrelationshipquietcontinue. Rlovesboth/RamirismendsfloorownabilitynotNoisepact.
+
+Yuta/Hinata: firstHinaspeed/sword/analysisearnsleg/ribcost, YutaownlimitedRikaconnectionfreshB42day, sequentialCopySky and feignedCursedSpeech(notbothsameinstant). Hdeclared/checkedSOUNDbarr ierstopshearingcommand(notallmagicCTnullification), costsacousticinput; Yutafeintsmarkswithoutactuallyspeaking/closesbeforeSkyturn/Rikaholdandcrediblefinish/Hyield. Hnotmindcontrolled/Hfearrelationship intact. Yuta freshRCTspendingfinite/noburnoutbrainreset. RikaownregisteredYutaformnotMaukatanaorYukaorigspirit. GojodidnotuseVoidonDiablo'sspiritualmindwithouttest; no blanketmentalresurrectproof. HminorarmbruisecarethenAnkooffershand, mutualdateexplicitstatepreserved.
+
+Secondroundactual3/8done: Mau,Gojo,Yuta. PendingYuka/Shion,Frieren/Leon,Hakuro/Ultima,Testarossa/Veldora,Milim/Frey. Followlongercoherentcorefightswithsmallervignettesnotautomaticfixedpartcount. MYrestcontractjointcost accountedbeforeYukabout, noautomaticopponentstatsfromprivatefield. Afternoonandnextdayremainforquarters/final; no newoutsideattack. SourcepointShizueDIOline savedseparateauthdocunspentcoin. ContinueInnreturncutoff.

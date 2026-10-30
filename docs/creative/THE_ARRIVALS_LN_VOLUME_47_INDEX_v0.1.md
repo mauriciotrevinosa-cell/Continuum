@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 47
 **Season:** 8
-**Coverage:** S8E46–S8E49 (in progress)
+**Coverage:** S8E46–S8E51 (in progress)
 **Volume title:** **The People Who Stay** (provisional)
-**Chapter files:** 8
+**Chapter files:** 12
 
 The authorized festival continuation. Chapters follow scene needs; central conversations and fights are not constrained by the length of secondary interludes. Production draft for creator review.
 
@@ -23,3 +23,7 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 | 6 | S8E48 | For Five Minutes | `THE_ARRIVALS_S8E48_LN_CHAPTER_02_FOR_FIVE_MINUTES_v0.1.md` |
 | 7 | S8E49 | Three Names for the Same Floor | `THE_ARRIVALS_S8E49_LN_CHAPTER_01_THREE_NAMES_FOR_THE_SAME_FLOOR_v0.1.md` |
 | 8 | S8E49 | The Strongest Claim | `THE_ARRIVALS_S8E49_LN_CHAPTER_02_THE_STRONGEST_CLAIM_v0.1.md` |
+| 9 | S8E50 | The Part He Hadn't Used | `THE_ARRIVALS_S8E50_LN_CHAPTER_01_THE_PART_HE_HADN_T_USED_v0.1.md` |
+| 10 | S8E50 | One Person | `THE_ARRIVALS_S8E50_LN_CHAPTER_02_ONE_PERSON_v0.1.md` |
+| 11 | S8E51 | The First Fifty | `THE_ARRIVALS_S8E51_LN_CHAPTER_01_THE_FIRST_FIFTY_v0.1.md` |
+| 12 | S8E51 | A Heroic Amount of Dying | `THE_ARRIVALS_S8E51_LN_CHAPTER_02_A_HEROIC_AMOUNT_OF_DYING_v0.1.md` |

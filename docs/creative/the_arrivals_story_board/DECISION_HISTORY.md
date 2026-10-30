@@ -2654,3 +2654,7 @@ V47#1–4 allquarterswrittenwithCTselection/finitepools/restsourcecontrols. Larg
 ### S8 festival — V47#5–8, 2026-10-30
 
 V47#5–8 completefinal4-waycreativebattleandexactcreatorMilmtemporarypause/3care/admitcheated/notstronger/girlwinRchoice. ThreeSEPARATEbodiesownoneDEeach, Gmicrocap/touchrules, MEMPTYframeworknotnewhybrid/noisepact, postburnoutreal. OnecontrolledsentenceclarifiedV46#14equipmentversuspermanentbody perS6writtenrule, no battlechange. Allother1544oldchaptersintact. AuthorizedarcNOTcomplete; continueDemo/Shizue/home.
+
+### S8 festival — V47#9–12, 2026-10-30
+
+V47#9–12 userarmyfirstpublicdisplay6574actualavailable+41home=6615kept, realtraps/ownreturn/nonextraction/noXP, Berufuturequeentheaternotdeath, deeperinn90finish/genuineRamirispridechallengefuture. No secretShop/guestroom leak/newNoisepower/wholefuturevillagebuilt. All1549olderchaptersintact; sourceShizuearrivalandactualInnreturnstillrequired, continue.

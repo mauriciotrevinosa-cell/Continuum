@@ -64,8 +64,14 @@
 | V47#6 | S8E48 CH02 | B+43 finale1 | Full4-wayfirstphase creativeoldtools, changingalliances/body/attention/cost, no army/newNoisebuild. |
 | V47#7 | S8E49 CH01 | B+43 finale2continuous | ThreebodiesONEdomainEACH/briefclash/Gtestedcap+touch-exemptions, temporaryMilmpause/hoststop/all3care. |
 | V47#8 | S8E49 CH02 | B+43 afterfinal | Milmcoherentcheck/cheated-notstronger/claimswin4agree, RownhomechoiceandcareTempest. Festivalcontinues. |
+| V47#9 | S8E50 CH01 | B+43 eveningaftertourney | MYcityappointmentpaid/R/Ramirisvoluntarydemoproposal/NoArise/ownprivacy/panels/homeguards/availablearmy agreed. |
+| V47#10 | S8E50 CH02 | B+44 exhibitionstart | FIRSTfullpublic6574availablearmyshownotfirsthouseknownofficer, 41homeunchanged/nativeguestsexcluded, disciplinedrouteentry. |
+| V47#11 | S8E51 CH01 | B+44 throughfloor50 | Actualrepresentativedungeontactics/scouts/ordinarywork/guardianreturns/noArise, Rprivateshowtraps/end90request. |
+| V47#12 | S8E51 CH02 | B+44 floors51–90andreturn | Genuinetraps/Berutheatricalwithdrawalfuturequeen/IgrisBellioncomposure, inn90goal/end/fullstablecount/Ramirisnewchallengeidea. |
 
 ## Current state
+
+**LATEST: V47#12/S8E51CH02, B+44 after demonstration. Tournament and dungeon exhibition complete. Continue Shizue/visit closures/HQ proposals/ordinary return; cutoff NOT reached.**
 
 **LATEST: V47#8/S8E49CH02, B+43 evening. Tournament CONCLUDED; continue full festival/dungeon/Shizue/return-home, NOT overall authorized cutoff.**
 
@@ -281,3 +287,18 @@ Roughlyminuteincludingorientation/registeredreturn/check Milmcoherent/annoyed/so
 ControlledearlierparagraphclarificationV46#14: sourceS6branchledgerDay491equipmenttest explicitweaponbonusesonlyEQUIPPED, notpermanentbase. Originalsentenceaboutopeningonehandnotchangingequipmentnumberscouldimplyotherwise. ReplaceONEparagraphstartwithneutralleverage/bodypointsremain; deliberateSLOWERtempoalreadythereunchanged. No fightresult/gearacquisition/basebodychange; no rereadwholefightneeded. Exactchangeinmanifest/sourceoldstringassertedunique, otherolderchaptersintact.
 
 Next B43nightfullfestivalpleasure/nextdayB44Ramirisdemonstration request/consent. ArmyCURRENT6615=6597ordinary17named1gift, homeMuster+40ordinary stay →available6574=6557ordinary16named1gift (DONOTrecallhomeguardforparade). Newfullpublicdeploymentnotfirstsightinganynamedhelper/houseignorantofstats. NoAriseinhabitants/xp/Shopsecretleak. Ramirisowntrapslatergenuinelywork/Beruactingwithdrawformnotpermanentdeath; stageendInn90notVeldora100duel. RprivateShizuecoinchoiceaftermainfestival, youngerstablebody/memoriesdying/IfritABSENT/DIOprivatequoteauthorized. Needgoatarrival+students/personalagency, MYloft/favor/Rimururoomscene, prospectiveHQlistvoluntarystay/visit/Tempest/undecided, familycoinreserveJinshiGaoshunseednoinventoryinvent. THENordinaryjourneyhome/fixedward/Muster40intact, Innreturn/couple/houseproposals STOP. No originalArchtorture/armynewfields/nextarcexecution.
+
+
+## V47#9–12 dungeon exhibition actual and arithmetic
+
+B43nightM/Ykeptcityappointmentaftercare (no extraCTworkunderburnout), R/RamirisASKB44outingnotorders, Mvoluntary. BeforeenteringexplicitNOARISEHOSTRESIDENTS/nochests/XP/sourcerecordbroad cast. PanelsareRamiriscityexistingobservationtested, notMauproposalcontractrevived/permanentmindsurveillance, privateShop/sourceGUI/guestdoorsNEVERshown. RshowingpotentialHQguardianFAMILYNOTOWNER/KING, notstatproofworldsovereign.
+
+ActualB44displayallAVAILABLE6574 (6557ordinary+16named+1gift); REGISTEREDTOTAL6615=6597ordinary17named1gift. Musterand40ordinarySTAYatfamiliarHOMEposts41, notpresentinparade. NativeTenShadows/realAshborn/DIOareNOTcalledassoldiers. QuietgiftssentinelstoodnotrealAshbornrecruited. ExistingofficersIgrisBellionBeruTankFangLanternKaiselKamishRampartRime/otheractualofficersunnamednotcreated. RimenewconstructedfrostpatternboundedfootingnotactualFrostsoul/Monarchunlimitedrule. ArmyfirstFULLPUBLICrevealbuthouse/broadrecord/knownofficersnotnewknowledge. Outsiderscanbeawed/reserved/no allbrainwashedfriends. Gazelinterestedorganisation/laboraswellforce. No exactstockGUI/coins/hideoutinfoexposed.
+
+Mostarmyformswithdrawforcorridors, scouts/companiesactualstairsandroutes; notoossing6kinonedoor or instantaneous90floors. Boss/guardiansthehostreturns, noextractions, no newMonarch/favoritesclones. Ordformdamage/rebuildownresourceslinksNOTnewregisterorpermanentdeaths. Actualfirst50movedthroughrepresentativerooms/scouts/reserves/flood/coldfooting/flight/guardians. FiftiesKamishB erubossfinishmuchfasterthanRexpected, Ramirisdejected/smallwinecups Rwatches. Ciel CHOOSESprivateM/RmessageRelayonask, notpublicvoice/newTelepathy. RrequestsshowactualworkingtrapsnotavoidEVERYthingwitharmy/normalpartiesneedview; targetGUESTINN90agreedat50insteadV100newbattle. No staged claimcivilianssafeatMaupower, genuinefeaturesstillwork.
+
+Floors51–90assignedshadowgroupsletrealtrapsworkandshowcounterplay, officersretainintelligence/notallforgettraining. Beru asksbe defeated/professionaltheater, guardianreachesdeliberatelyplacedform, OWNsafeWITHDRAWALNOTdeath/regnew. "Tellmyfuturequeen"→M shecanhear→"ThenletherknowIwasmagnificent"; labelnotresetLittleRoperenamingproposal. Formgonebriefly/rebuildoriginalcost, registerunchanged; Igris/Bellionprofessionalcomposurehouselaughs. BreturnsoleperformanceNOseconddeath. Deeperroomsactuallydemandattention/routes, noNoisenewbuilderskill. EndsINN90comfortable/actualreturnhost, NOnewfightfloor100/loot/XP/coins. Allcompaniesrecalled/counted6574available plus41home=6615. No newsourceinvinciblehealingformula.
+
+RamirisAFTERasksreallytrapswork/M saysyes"IcheatedalittlebeforeIletthem"→Rknownarmyoversupply/no normaluserlie, Ramlaughs/resolvestonewHARDERARMYspecificfutureCHALLENGEideasheownsnotalreadybuiltornextcrisis. Legitimatehostcompetence/returns/outsidecontainmentprovenpleasure. YkissMbeforeanynextConquestquestion aftermedicalsit/rest; noactiverelapsehousefear.
+
+NextB44latefamily/festivalordinaryclosures+Rpersonaldecision/Shizueprep. ExistingRCOINSTILLUNSPENT untilscene, exactauthdyingmemory/youngstablebodyWITHOUTIFRIT andDIOprivatequote. No needuseradditionalpermission. Fullroom/guestrelations scene andHQcandidates/plansbeforeHOMEjourneycutoffstillrequired. Currentstat200/0/520oldstock603/4/12unassayed12/18/24unchanged. NoisepactuntilHOME+reviewcontinues. Needledgerfinalclearcarrylists/coins/notes/boatnowwithOriMum/drawingMYguestroom/sweetsFortbeforedeparture.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 46
 **Season:** 8
-**Coverage:** S8E36–S8E43 (in progress)
+**Coverage:** S8E36–S8E45 (volume complete; S8 continues)
 **Volume title:** **Who We Cheer For** (provisional)
-**Chapter files:** 16
+**Chapter files:** 20
 
 The authorized festival continuation. Chapters follow scene needs; central conversations and fights are not constrained by the length of secondary interludes. Production draft for creator review.
 
@@ -31,3 +31,7 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 | 14 | S8E42 | The Answer He Already Had | `THE_ARRIVALS_S8E42_LN_CHAPTER_02_THE_ANSWER_HE_ALREADY_HAD_v0.1.md` |
 | 15 | S8E43 | A Place Already Occupied | `THE_ARRIVALS_S8E43_LN_CHAPTER_01_A_PLACE_ALREADY_OCCUPIED_v0.1.md` |
 | 16 | S8E43 | The Answer She Could Hear | `THE_ARRIVALS_S8E43_LN_CHAPTER_02_THE_ANSWER_SHE_COULD_HEAR_v0.1.md` |
+| 17 | S8E44 | What She Could Let Go | `THE_ARRIVALS_S8E44_LN_CHAPTER_01_WHAT_SHE_COULD_LET_GO_v0.1.md` |
+| 18 | S8E44 | A Spell Worth Asking About | `THE_ARRIVALS_S8E44_LN_CHAPTER_02_A_SPELL_WORTH_ASKING_ABOUT_v0.1.md` |
+| 19 | S8E45 | What the Wings Were For | `THE_ARRIVALS_S8E45_LN_CHAPTER_01_WHAT_THE_WINGS_WERE_FOR_v0.1.md` |
+| 20 | S8E45 | Somewhere to Come Back To | `THE_ARRIVALS_S8E45_LN_CHAPTER_02_SOMEWHERE_TO_COME_BACK_TO_v0.1.md` |

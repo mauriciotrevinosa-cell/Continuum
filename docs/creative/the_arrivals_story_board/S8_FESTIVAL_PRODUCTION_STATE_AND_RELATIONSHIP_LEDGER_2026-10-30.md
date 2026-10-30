@@ -52,8 +52,14 @@
 | V46#14 | S8E42 CH02 | B+42 sameboutconclusion | Mau/Luminous2 combinations/tempo/bodycost, closeclockdecisionMau, consentedfreshwoundheal/oldsequelaeintact. |
 | V46#15 | S8E43 CH01 | B+42 R16morning | Gojo/Diablo fullspace/barrier/gradient/lensing/curvedPurpleduel; Gearnsaerialringoutbyanchorchoices/cost, no newevo. |
 | V46#16 | S8E43 CH02 | B+42 R16morning | Yuta/Hinata fullswordanalysis/Sky/Rika/feignedvoice/soundbarrierdecision, controlledfinishYuta. Partnerscare/personallivescontinue. |
+| V46#17 | S8E44 CH01 | B+42 R16late morning | Yuka/Shion tacticalwater/body/CEsequentialturns, earnedringout andrealsharedcost; Maki specificpraise. |
+| V46#18 | S8E44 CH02 | B+42 remainingR16 | Leon/Frierenclockskilldecision/Fernstallchoice, Hakuro/Ultimafinish andStarklearnedquestion, no sourcebranchkitimport. |
+| V46#19 | S8E45 CH01 | B+42 R16afternoon | Veldora/Testarossa availablepath/cost, Milim/Frey actualaerialduelcare; final8set/restB43. |
+| V46#20 | S8E45 CH02 | B+42 afterbouts/night | ConsentedMilimsmallUVtestnarrowcompatibility/cap, G/Sownwalk, RemU/Fort/familieslife/HQtentativequestions. V46complete,S8continuesV47. |
 
 ## Current state
+
+**LATEST: V46#20/S8E45CH02, B+42 night. V46 complete at R16 conclusion; immediately continue V47 B43 quarterfinals.**
 
 **LATEST: V46#16/S8E43CH02, B+42 morning R16. Mau, Gojo, Yuta advanced; Yuka/Shion next.**
 
@@ -214,3 +220,22 @@ Gojo/Diablo onebigchapter. D preparedanchoredpressureactsatlocalregionGojooccupi
 Yuta/Hinata: firstHinaspeed/sword/analysisearnsleg/ribcost, YutaownlimitedRikaconnectionfreshB42day, sequentialCopySky and feignedCursedSpeech(notbothsameinstant). Hdeclared/checkedSOUNDbarr ierstopshearingcommand(notallmagicCTnullification), costsacousticinput; Yutafeintsmarkswithoutactuallyspeaking/closesbeforeSkyturn/Rikaholdandcrediblefinish/Hyield. Hnotmindcontrolled/Hfearrelationship intact. Yuta freshRCTspendingfinite/noburnoutbrainreset. RikaownregisteredYutaformnotMaukatanaorYukaorigspirit. GojodidnotuseVoidonDiablo'sspiritualmindwithouttest; no blanketmentalresurrectproof. HminorarmbruisecarethenAnkooffershand, mutualdateexplicitstatepreserved.
 
 Secondroundactual3/8done: Mau,Gojo,Yuta. PendingYuka/Shion,Frieren/Leon,Hakuro/Ultima,Testarossa/Veldora,Milim/Frey. Followlongercoherentcorefightswithsmallervignettesnotautomaticfixedpartcount. MYrestcontractjointcost accountedbeforeYukabout, noautomaticopponentstatsfromprivatefield. Afternoonandnextdayremainforquarters/final; no newoutsideattack. SourcepointShizueDIOline savedseparateauthdocunspentcoin. ContinueInnreturncutoff.
+
+
+## V46#17–20 R16 conclusion, costs and exact next bracket
+
+Yuka/Shionfullbout: startsnativeElephantreleaseswaterthenDISMISSES beforeforeignLimitless, wateralreadyphysicalpassivepersists. Infinityhaltsdirectswordbutnotfloormovement/attentioncost. CLOSESLimitlessbeforeSky, CLOSESSkybeforefinalBlue. Shionreads/doesnotswingblindly,Cooklateforce/physicalhitcost. Yuka chooseswetbrace/weaponangle, SreleasesweaponSMARTLYbutowncommittedmomentum/incorrectfirstcounter/briefsustainedBlue outsidefixedline→count. YukaWINSnotstrongerthanallsourceShion. SharedcostnoticeableonMaupostLufight, hehonest/agreefuturecheck, noapologyforagreedparticipation; Yukanativereserve/bodycost/wristcare stillreal. Maki foreheadkissspecificpraise. GearSretrieved, Yukaownallnativefamilyalive/noMaho.
+
+Leon/Frieren: FrsimplecurrentBspells/flight/suppression/physicaldebris, no unestablishedBblackhole importedfromA. FrtouchLeon'ssleeve/learnsseparationpattern, Leonadjustsintervals/tempo strongerlastpositions→clocktechnicalwin. FrierenrequestsFUTUREspellconversationnotnewinstantlearn; keepsTODAYB42magicstallpromiseFernTHEYGO(actualdeparture, no newpurchaseclaimed). Himmelownrespect/ongoingnotcancelledbecauseFrlost. Hakuro/Ultima: Hskillrealforceschange; Ultiwinscontrolledlimbfinish/Hyield, Starkspecificlearnedquestion/Hanswers, no lateUltimate/mythallfields.
+
+Testarossa/Veldora: Testactualgoodguardandarmhit, Vusesread+availableprobabilityroutes(notchooseanyuniverseoutcome)/payscostlyroute/physicalcontrolringout. No timegod/ontologicalimmunity. Milim/Frey: realflightpressure/counters, Miholdssecurepoints/controlledlanding/refstop, notFreythrowsmatchasmother; shechecksFreyokaythenreturnsFORTnotRimuruownership. AllquartersB43, no morematchestoday.
+
+Final8andactualscheduledquarters: Mau/Veldora(block1/8), Gojo/Leon(2/6), Yuta/Yuka(3/5), Milim/Ultima(4/7). Pathresultsnotbattlesyet. Desiredfuturefinal4remainsproposalearnedwhenactuallywritten; sportsnotcanonicalwarproof.
+
+Milim voluntarilydoesSAMEboundedGojoINFOtestB42afterR16beforeanyfinal: .0001sec cap (alreadyboundedoperativeinterval), existingREGISTEREDconsentingmindcompatibilityOBSERVED, briefpause thenannoyednormalreplies/return/medicalchecks. No largerunmeasuredassumptionorallforeignmind/soulreviveproof. MakiCE0exceptionNOTerased/convertingallmagiculesCE. Capre-signed; Gojoordinarydomainburnoutrests(no brainreset). Thismeansfinalmayuseboundedexposurewithinactualagreedcapnot200ms/fullinfinitehumanbrainwager. SourceuserdesiredtemporaryMiliburdenlaternotperm injury. Allcurrentspacesguestsseparate/notexperimentalhostsdeath. ShokofinishcarethenoffshiftGojoownwalkHANDcontinuesnotdateforget.
+
+Eveninghouseownfamily: Rem/UmarureturnedgameB40asagreedfailed, B42afterboutsRemCHOOSESaskanotherattempt/stillnop rizebutpleasureownchoice; Shokosmallnoninvasiveack no forcednewtalk. CocoMomfinishesCHOSEcleaningtaskthenlistensdaughter/no permanentstaffrole; MarinWakanaMaiowninterest/ErenMikasaprivatequiet/happiness. Shionownafternoonafterlossnotsecretaryreset/Rhappyseesownlife. FirstACTUALtentativeHQvisitorsquestionsGeldsmallvolunteerssurvey/Kurobeunderstandtools/Shunavisitlonger, NOTallcitymigration/positionsassigned. BringQUESTIONSANDNAMEShome, Yukanobodydrawroomjustforjob. NewHQnicknamepaid/giftsalreadydelivered. MYquietfuturetablebesidechairdecision continued.
+
+ShizueRcoinSTILLUNSPENT: afterfestivalchoosegenuineatdeath/knownRimuru/memoriesintact/youngerbodylikeYutawithoutIfrit, DIOprivate"A small upgrade. So she lasts." Narrowstablebodynotimmortality/allauthorityreturn. AuthorfutureV47/48mustexecuteonlyonRchoice, Shizuownvoice.
+
+ContinueimmediatelyV47B43quarterfinals/corefightsneededspace, no stopfornewvolume/push. Thenfour-wayfinalcreatorbeat, dungeonfullpublicarmy/noAriseinhabitants, deepertraps/Beruacting/Ramirisgenuinechallenge, Shizue/relations/plans, HOMEInn+HQprospectivelist/proposalscutoff. No newvillage/WitchHat/Walpurgis/massenemysabotage.

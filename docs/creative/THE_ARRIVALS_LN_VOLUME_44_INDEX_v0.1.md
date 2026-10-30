@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 44
 **Season:** 8
-**Coverage:** S8E15–S8E23 (in progress)
+**Coverage:** S8E15–S8E25 (in progress)
 **Volume title:** **The People He Came Back To** (provisional)
-**Chapter files:** 18
+**Chapter files:** 22
 
 Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapter quota. The creator has now authorized the festival continuation through the household return and future HQ-resident proposals; see the new greenlight below.
 
@@ -35,3 +35,7 @@ Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapt
 | 16 | S8E22 | What She Wanted to Bring | `THE_ARRIVALS_S8E22_LN_CHAPTER_02_WHAT_SHE_WANTED_TO_BRING_v0.1.md` |
 | 17 | S8E23 | A Question for the Road | `THE_ARRIVALS_S8E23_LN_CHAPTER_01_A_QUESTION_FOR_THE_ROAD_v0.1.md` |
 | 18 | S8E23 | The Reply | `THE_ARRIVALS_S8E23_LN_CHAPTER_02_THE_REPLY_v0.1.md` |
+| 19 | S8E24 | A Day to Carry Nothing | `THE_ARRIVALS_S8E24_LN_CHAPTER_01_A_DAY_TO_CARRY_NOTHING_v0.1.md` |
+| 20 | S8E24 | A Place He Could Show Them | `THE_ARRIVALS_S8E24_LN_CHAPTER_02_A_PLACE_HE_COULD_SHOW_THEM_v0.1.md` |
+| 21 | S8E25 | The Window They Asked For | `THE_ARRIVALS_S8E25_LN_CHAPTER_01_THE_WINDOW_THEY_ASKED_FOR_v0.1.md` |
+| 22 | S8E25 | While They Made the Flag | `THE_ARRIVALS_S8E25_LN_CHAPTER_02_WHILE_THEY_MADE_THE_FLAG_v0.1.md` |

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 43
 **Season:** 8
-**Coverage:** S8E01–S8E05 (in progress)
+**Coverage:** S8E01–S8E07 (in progress)
 **Volume title:** **The Afternoon He Kept** (provisional)
-**Chapter files:** 12
+**Chapter files:** 20
 
 Continuous days from the end of S7, then the authorized rescue/trap and dungeon arc. Chapter and volume estimates remain flexible; no padding or compression to hit a quota. Side-character scenes may be shorter. Production draft for creator review, not automatic approval.
 
@@ -27,3 +27,11 @@ Continuous days from the end of S7, then the authorized rescue/trap and dungeon 
 | 10 | S8E04 | Ten Percent | `THE_ARRIVALS_S8E04_LN_CHAPTER_02_TEN_PERCENT_v0.1.md` |
 | 11 | S8E04 | Hold the Room | `THE_ARRIVALS_S8E04_LN_CHAPTER_03_HOLD_THE_ROOM_v0.1.md` |
 | 12 | S8E05 | The First Night | `THE_ARRIVALS_S8E05_LN_CHAPTER_01_THE_FIRST_NIGHT_v0.1.md` |
+| 13 | S8E05 | No Voice Attached | `THE_ARRIVALS_S8E05_LN_CHAPTER_02_NO_VOICE_ATTACHED_v0.1.md` |
+| 14 | S8E05 | Keep Her Bridge | `THE_ARRIVALS_S8E05_LN_CHAPTER_03_KEEP_HER_BRIDGE_v0.1.md` |
+| 15 | S8E06 | The Distance to the Cup | `THE_ARRIVALS_S8E06_LN_CHAPTER_01_THE_DISTANCE_TO_THE_CUP_v0.1.md` |
+| 16 | S8E06 | On His Feet | `THE_ARRIVALS_S8E06_LN_CHAPTER_02_ON_HIS_FEET_v0.1.md` |
+| 17 | S8E06 | Before the Water Cools | `THE_ARRIVALS_S8E06_LN_CHAPTER_03_BEFORE_THE_WATER_COOLS_v0.1.md` |
+| 18 | S8E07 | The Way Back First | `THE_ARRIVALS_S8E07_LN_CHAPTER_01_THE_WAY_BACK_FIRST_v0.1.md` |
+| 19 | S8E07 | Make Them Turn | `THE_ARRIVALS_S8E07_LN_CHAPTER_02_MAKE_THEM_TURN_v0.1.md` |
+| 20 | S8E07 | The Work They Share | `THE_ARRIVALS_S8E07_LN_CHAPTER_03_THE_WORK_THEY_SHARE_v0.1.md` |

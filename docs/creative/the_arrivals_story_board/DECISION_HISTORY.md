@@ -2618,3 +2618,7 @@ V45#1–4 full lived relationship scenes plus first arena tests, distinct untest
 ### S8 festival — V45#5–8, 2026-10-30
 
 V45#5–8 stage actual Rem hand, Shion dinner, consented innertea and full GojoShoko outing. No relationship reset/new powers/archives/public voice, sourceChef tasteful ugly presentation preserved, source version details not universalclaim. All1509prior chapters intact; continue authorizedfestival.
+
+### S8 festival — V45#9–12, 2026-10-30
+
+V45#9–12 completeworldarrival/MYprivatefutureconversation/Remconsultation/secondvenuetests. Uncertifiedeffectsuniformlyexcluded, no worldwideimmortality or maxsourcecompositeclaim. Guy chooseswatchnotmagicallyweakened. Existing1513chapters untouched. Continuewithoutstoppingatcheckpoint.

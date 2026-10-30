@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 45
 **Season:** 8
-**Coverage:** S8E28–S8E31 (in progress)
+**Coverage:** S8E28–S8E33 (in progress)
 **Volume title:** **A City Full of Invitations** (provisional)
-**Chapter files:** 8
+**Chapter files:** 12
 
 The authorized festival continuation. Chapters follow scene needs; central conversations and fights are not constrained by the length of secondary interludes. Production draft for creator review.
 
@@ -23,3 +23,7 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 | 6 | S8E30 | A Matter of Presentation | `THE_ARRIVALS_S8E30_LN_CHAPTER_02_A_MATTER_OF_PRESENTATION_v0.1.md` |
 | 7 | S8E31 | The Host | `THE_ARRIVALS_S8E31_LN_CHAPTER_01_THE_HOST_v0.1.md` |
 | 8 | S8E31 | Notes from a Better Teacher | `THE_ARRIVALS_S8E31_LN_CHAPTER_02_NOTES_FROM_A_BETTER_TEACHER_v0.1.md` |
+| 9 | S8E32 | What the Road Brought | `THE_ARRIVALS_S8E32_LN_CHAPTER_01_WHAT_THE_ROAD_BROUGHT_v0.1.md` |
+| 10 | S8E32 | Nothing We Have to Carry | `THE_ARRIVALS_S8E32_LN_CHAPTER_02_NOTHING_WE_HAVE_TO_CARRY_v0.1.md` |
+| 11 | S8E33 | Someone to Ask | `THE_ARRIVALS_S8E33_LN_CHAPTER_01_SOMEONE_TO_ASK_v0.1.md` |
+| 12 | S8E33 | Before Anyone Could Win | `THE_ARRIVALS_S8E33_LN_CHAPTER_02_BEFORE_ANYONE_COULD_WIN_v0.1.md` |

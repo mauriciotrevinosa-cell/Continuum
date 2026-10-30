@@ -28,6 +28,10 @@
 | V45#6 | S8E30 CH02 | B+38 evening | Shion dinner promise paid: ugly/goodtaste, Shuna confirmed safe, lived table comedy. Ownworkshopvisit chosen, covered inner sample via existingaccess. |
 | V45#7 | S8E31 CH01 | B+39 morning | Tea held existingboundedroom/individualconsent, 7witches/quietAshborn/DIO/Ciel/Noise host; stillfriends/freechoices, no newname/build/archive. |
 | V45#8 | S8E31 CH02 | B+39 afternoon | Gojo/Shoko chosen fullouting offcareturn, betterteacherjoke, mutualpersonalinterest/handchoice. Past acknowledged, joyallowed, no reset. |
+| V45#9 | S8E32 CH01 | B+39 afternoon | Hollis/Tamsin/Mjollmile arrivals then Youm/Mjurran/Fuze, nativeexpertise/roads/materials questions notinstanttreaties. Yuka retrievesMau. |
+| V45#10 | S8E32 CH02 | B+39 lateafternoon/evening | Full M/Y private dinner, futureownspace/table/tree/commonroom/familynear, no construction. Shared inner eveninglights, colourcondition intact. |
+| V45#11 | S8E33 CH01 | B+39 evening | Rem chooses Shoko/Mau consultation, feeling welcomed/no diagnosis; then actively seeks Umaru, tomorrow invitation. |
+| V45#12 | S8E33 CH02 | B+40 morning | Second limited arena tests/consensualtinyUV Yuta/medicalchecks, universalrules exclude irreversibleunverifiedeffects; clock/boundary/contractcosts. Guy watchesbychoice, M/Yenterintent. |
 
 ## Current state
 
@@ -92,3 +96,16 @@ Next: evening cooking payoff, actual Fort hand moment, consent/capacity for shar
 #8B39latemorningafternoon Gojo/Shoko ownfullouting oncoverageagreedMaomao(no24hrshift). GadmitsaskedMauadvice earlierminoroffscreen, betterteacherjoke, wantslearnmoreaboutS; Shoko laughs, pasttrio acknowledged without forcedmourning, "I'mstillhere". SHEoffershand/HEtakes, physicalInfinitypermittedtouch, actualreciprocity persists. Nocouplelabel/weddingovernight, no sourceidentitychange; no rarecigaretteconsumed. Keepfollowthroughnextscenes.
 
 Next additional arena effects/tests and actual enrolments/visitors, M/Y ownchosenmeal, Rem chosenconsultation later, Ori goodluckbeforeannouncedfight, Bocchimusicpromise. HQbribeafterpublicnameuse. Continuecutoffnotreached.
+
+
+## V45#9–12 / B39afternoon–B40morning
+
+Actualarrival Mjollmile/Hollis/Tamsin, thenYoum/Mjurran/Fuze, knownroadsnotinstantcommunications. Localrouteknowledge preserved/Hollis not replaced, samples/terms questions notsalescommitments. Rreunions/citycommunityrights ownagency, Maucananswerrumourhimself, no worldmaptreaties. Yuka takesMauawayfromanotherusefultask.
+
+M/Y privatefullmeal chosen quietstreet B39afternoonevening, nopurchases/nothingcarriedhome. Desirefuturetableundisturbed/Yukaownactivity, tree/commonroom/familyclose/owncloseddoor, futuredecidetogethernotactualnewfloorplan. GreyexceptYuka persists, handsringintact. Sharedvieweveninglightsforinnerguests/DIOpromise fulfilled; no newNoisebuild.
+
+Rem B39evening asksShoko/Mau availability/privateconversation; Yuka goesMai freely, notexcludedsecretagainsther. Rem describes hand feeling, sayspleasant/notuncomfortable, wantsowncompanywithouttask. Theylisten/noUmarumindreading/lov e diagnosis. Rem choosesseekUmaru, asksmorningoutingtotrygame, sitsbesideaccepted. Meaningopenprogressreal, Subaru absent.
+
+B40Ramirissecondchecks physicalregistration/objectcarried/hostforcedreturn againstongoingpull successful underpreagreedrules. Gojo tinyconsensualinformationexposureYutalimited+checks/repeatwithconsent. No universalunlimitedexposureorirreversiblesouldamageproof. Suchunverifiedeffectsexcludeduniformly. Gojo testedinterval ceiling written: cannotenlargeexposurebecauseoneworked. No newuserRct/brainpowers. ControlledrefereestopbeforelethaldamageespeciallyMauguests/uncertifiedareas; no bodykillingexperiment. Luminousasksbetterquestions/observes. Guy readsconditionsCHOOSES WATCH (no sourceceilingdecreased or forcedloss), Leon/Luminousinterestedmustdeclarecards/reservesbeforeentry. 3minuteopeningroundclock fromJinshicalculation, fixedboundarymaynotbemovedtowin, beyondincludingflight/shadowcount, no kneeauto-loss, surrender/unablecontinue/clocktechnicaldecision. No outsidecompetitorhelp; integratedexistinganalysis declared separatelylaterifneeded. Yuka declaresexistingcontractaccess/individualdecisions/finitejointcost, reciprocalspacing, noMautacticallypiloting. FirstM/Yregistrationintent now, no finaldraw. No stat/army/currency changes. Continueactualcompetitorregistration/worldsourcepointscopebeforecombat; no Infinityautowin/timegodallmaxcomposites.
+
+CurrentreaderactiveV45#12B40morning. Allolderstateparagraphs historicalwherepassed, producedtableauthoritativechronology. Stillnotfestivalcutoff, continue afterpush.

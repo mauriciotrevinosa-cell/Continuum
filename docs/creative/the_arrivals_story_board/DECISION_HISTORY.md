@@ -2666,3 +2666,7 @@ V47#13–16 livedrelationshipchoices/Roof/RIMURUowncoinchoice andexactCREATORShi
 ### S8 festival — V47#17–19, 2026-10-30
 
 V47#17–19: specific consenting loans in existing rooms/Fort, no automatic new wing/eviction/ArrivalHouse; students3nights and Hreturn B50 fromB47home, Shizue goes now. Own Tempest agency/MY futurefloorplan/favor debt andeastwindow/housecoinchoices lived. All1557older chapters intact; continue actual returnhome and cutoff, not construction.
+
+### S8 festival — V47#20–22, 2026-10-30
+
+V47#20–22 closes authorized festival section ONLY AFTER actualB47Innreturn+currentbedsfit+prospectiveHQlist+houseownedtownproposals. ShizuegoesRhouse;5pupils3nights/HinatareturnB50 retained exactly. All1560olderchaptersunchanged. 6615/stat200/0/520/gear/sequelae/currency preserved; RoldShizuecoinonlyspent. No newtownbuilt/nextenemy/Walpurgis/WitchHat/masssummons. S8continues BUT NEXTARCREQUIRES NEWGREENLIGHT. Clean handoff links producedfacts/sourceauthorities, no sealedchoices consulted.

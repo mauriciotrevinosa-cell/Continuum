@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción festival S8 — V47#19:** Alojamiento temporal acordado, deseos de vivienda y visitas elegidas por cada persona; el retorno continúa. [Leer](../THE_ARRIVALS_LN_VOLUME_47_INDEX_v0.1.md) · [Estado/relaciones](S8_FESTIVAL_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-30.md) · [Verde](S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md).
+> **Producción festival S8 — V47#22:** **Tramo acordado completo:** la casa regresó al Inn con sus invitados y propuestas voluntarias. La siguiente construcción/arco espera nuevas decisiones del creador. [Relevo final](S8_FESTIVAL_ACTUAL_HOME_RETURN_AND_NEXT_ARC_HANDOFF_2026-10-30.md). [Leer](../THE_ARRIVALS_LN_VOLUME_47_INDEX_v0.1.md) · [Estado/relaciones](S8_FESTIVAL_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-30.md) · [Verde](S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md).
 
 > **Esqueleto público para opinión, torneo reservado — 2026-10-30:** [Viaje, festival, convivencia y consecuencias](S8_FESTIVAL_PUBLIC_SCENE_SKELETON_AND_RELATIONSHIP_PACING_FOR_CREATOR_REVIEW_2026-10-30.md). Estimación flexible75–110capítulos adicionales; no cuotas. Rem/Umaru: recomendación deavance real con significadoabierto/mano/consultaShoko+Mau, pendiente de verde. Se preservan todas las relaciones y la mayorreuniónfamiliar para tramo posterior; no prosa nueva ni cruces/resultados revelados.
 

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 47
 **Season:** 8
-**Coverage:** S8E46–S8E55 (in progress)
+**Coverage:** S8E46–S8E56 (volume complete; S8 continues)
 **Volume title:** **The People Who Stay** (provisional)
-**Chapter files:** 19
+**Chapter files:** 22
 
 The authorized festival continuation. Chapters follow scene needs; central conversations and fights are not constrained by the length of secondary interludes. Production draft for creator review.
 
@@ -34,3 +34,6 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 | 17 | S8E54 | A Place at the Table | `THE_ARRIVALS_S8E54_LN_CHAPTER_01_A_PLACE_AT_THE_TABLE_v0.1.md` |
 | 18 | S8E54 | An East-Facing Window | `THE_ARRIVALS_S8E54_LN_CHAPTER_02_AN_EAST_FACING_WINDOW_v0.1.md` |
 | 19 | S8E55 | Leave Room for an Answer | `THE_ARRIVALS_S8E55_LN_CHAPTER_01_LEAVE_ROOM_FOR_AN_ANSWER_v0.1.md` |
+| 20 | S8E55 | Things We Take Home | `THE_ARRIVALS_S8E55_LN_CHAPTER_02_THINGS_WE_TAKE_HOME_v0.1.md` |
+| 21 | S8E56 | The House We Have | `THE_ARRIVALS_S8E56_LN_CHAPTER_01_THE_HOUSE_WE_HAVE_v0.1.md` |
+| 22 | S8E56 | Where We Put the Table | `THE_ARRIVALS_S8E56_LN_CHAPTER_02_WHERE_WE_PUT_THE_TABLE_v0.1.md` |

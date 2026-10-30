@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Torneo: propuesta para comparar, NO aprobada — 2026-10-30:** [Formato16, cruces, convivencia, seguridad y cierre](S8_TOURNAMENT_FESTIVAL_ASSISTANT_PROPOSAL_FOR_CREATOR_COMPARISON_2026-10-30.md). Sin capítulos nuevos, campeón o llegada deMasayuki fijados. Esperar la propuesta del creador.
+
 > **Producción S8 — V44#1–12:** Tramo acordado completo hasta V44#12: propuesta del torneo, protesta de Rimuru y respuesta de Diablo. No hay bracket ni combate escrito; S8 continúa pendiente del siguiente diseño. [Índice](../THE_ARRIVALS_LN_VOLUME_44_INDEX_v0.1.md) · [Registro](S8_VOLUME44_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md).
 
 > **Esqueleto parcial para revisión — 2026-10-30:** [Inicio de S8 hasta la propuesta del torneo](S8_OPENING_TO_TOURNAMENT_PROPOSAL_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-10-30.md). Aproximadamente 65 capítulos (56–76), unos tres volúmenes con fronteras móviles. El corte conserva protesta de Rimuru y respuesta de Diablo; no incluye los combates del torneo. Propuesta pendiente de luz verde, sin prosa nueva ni cierre de S8.

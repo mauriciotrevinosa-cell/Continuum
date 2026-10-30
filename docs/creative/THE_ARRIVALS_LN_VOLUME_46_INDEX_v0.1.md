@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 46
 **Season:** 8
-**Coverage:** S8E36–S8E37 (in progress)
+**Coverage:** S8E36–S8E39 (in progress)
 **Volume title:** **Who We Cheer For** (provisional)
-**Chapter files:** 4
+**Chapter files:** 8
 
 The authorized festival continuation. Chapters follow scene needs; central conversations and fights are not constrained by the length of secondary interludes. Production draft for creator review.
 
@@ -19,3 +19,7 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 | 2 | S8E36 | What They Chose to Show | `THE_ARRIVALS_S8E36_LN_CHAPTER_02_WHAT_THEY_CHOSE_TO_SHOW_v0.1.md` |
 | 3 | S8E37 | Where She Had Put the Rope | `THE_ARRIVALS_S8E37_LN_CHAPTER_01_WHERE_SHE_HAD_PUT_THE_ROPE_v0.1.md` |
 | 4 | S8E37 | The Part She Had Learned | `THE_ARRIVALS_S8E37_LN_CHAPTER_02_THE_PART_SHE_HAD_LEARNED_v0.1.md` |
+| 5 | S8E38 | The Weight at the End | `THE_ARRIVALS_S8E38_LN_CHAPTER_01_THE_WEIGHT_AT_THE_END_v0.1.md` |
+| 6 | S8E38 | An Unpleasant Amount of Politeness | `THE_ARRIVALS_S8E38_LN_CHAPTER_02_AN_UNPLEASANT_AMOUNT_OF_POLITENESS_v0.1.md` |
+| 7 | S8E39 | The Time Between | `THE_ARRIVALS_S8E39_LN_CHAPTER_01_THE_TIME_BETWEEN_v0.1.md` |
+| 8 | S8E39 | The Axe He Kept | `THE_ARRIVALS_S8E39_LN_CHAPTER_02_THE_AXE_HE_KEPT_v0.1.md` |

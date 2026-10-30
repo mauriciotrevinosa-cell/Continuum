@@ -40,8 +40,14 @@
 | V46#2 | S8E36 CH02 | B+41 morning | Lu/Kaneki fullregen/contactcostcontest then Gojo/Gabil flight/finitegradient/ringout; opponentslearn/dignityretained. |
 | V46#3 | S8E37 CH01 | B+41 morning | Yuka/Souei fulltacticalduel earnedlimitedGarden/rope/Skysequential, disarmrecovery/ownplan/wristcost/surrender; familysupportafter. |
 | V46#4 | S8E37 CH02 | B+41 latemorning | Frieren/Fern fullduel and specificpraise/futurechosenmagicstall. Aerialringoutlearnedcorrection, FernStarkownwalk, HimmelFrierencare. |
+| V46#5 | S8E38 CH01 | B+41 latemorning | Maki/Shion physicalchoreography/readingboundedCook/contactforce/leverageringout, ownrespectandcost; Shionadvances. |
+| V46#6 | S8E38 CH02 | B+41 morningbeforelunch | Diablo/Carreramagicbarrierduel and Yuta/GeldpositionRika/briefCursedSpeechcost; bothhonestwinsnotlateUltimate/composite. |
+| V46#7 | S8E39 CH01 | B+41 lunch | FernStarkownwalk/hand, MYrest/wristcost, SeikaRamcups/NazunaKo, Cielchoosesfriends. |
+| V46#8 | S8E39 CH02 | B+41 afternoon | Hakuro/Stark earnedskillduel and Ultima/Himmelclockdecision; bothlossesretainagency/FernStark/FrierenHimmelcontinuity. |
 
 ## Current state
+
+**LATEST: V46#8/S8E39CH02, B+41 afternoon. Ten of sixteen opening matches complete. Continue six remaining, not R16 yet.**
 
 **LATEST: V46#4/S8E37CH02, B+41 late morning. Five opening bouts complete; continue remaining opening field and festival life.**
 
@@ -151,3 +157,20 @@ Yuka/Souei:rookieagainstskilledopponent, wristthreadcuts/disarmed/unplannedfailu
 Frieren/Fern:rapidZoltraak/flight/guardpartialphysicaldebris/ownconcealment, Fernmeaningfulshoulderhit, Frieren seesrepeatedcorrection/preplacessecondshotforcesaerialringout beforeclock. Frierenhurtshoulderminortreatedordinary, nobarrierall-soulpromise. SpecificFernpraise:stoppedwaitingfirstchoice/trustedpreparedsecond, neededrealdefence. Fern/Starkchoosewalkafter; Frieren/FernmagicstalltogetherTOMORROW(nohouseinventorytask). Himmelowncontinuedapproach/watchingFrierenhappy, no newromanceconclusion. Fernlosingnotpunished/carejobreset.
 
 M/Y sittingwithFortwhennotfighting, Yuka reservesrecover/jointcost matters nextscheduledbout. NobiglegionrevealuntilDemonstration. HostDIO/Ashbornnotusedincombat/newallybuff. MiniCiel/Noise stillnobuildpact. No braceletrewards/systemfarms. Continue remainingopeningmatchescreativefullsceneperneed, plus off-floorlives. Fullcreatorcutoffnotreached.
+
+
+## V46#5–8 actual results and lunch
+
+Openingresultsnow10of16: previousMau/Lu/Gojo/Yuka/Frieren plusShion/Diablo/Yuta/Hakuro/Ultima advanced. R1remainingHinataBenimaru,MilimRanga,FreyCarrion,LeonNazuna,TestarossaGobta,VeldoraAnko. PlannedStarkpathnotfixedinprose: HakuroearnedwinandgoesonvsUltimawithdrawno retcon.
+
+Maki/Shion: Maki choosesregisteredordinarypolearm(notuncertifiedsoulcut), realphysicaltimingdamagesShionshoulder, Cookboundedresultchangeslastcontactforce(notomnipotentcausality). Makireadsadjustsbindovercommitsnearboundary/weaponbreak+leveragethrow/ringout. ShionbruisedMakiarmcutordinarycare, mutualspicyrespect. Makiownchoice/CE0notnerfed/infobypassgimmick. Brokenpolearmbothpiecesreturnedorganisers, notnewartifactstock. YukaownlaterquestionaboutShionswordnotoutsidecoachduringmatch.
+
+Diablo/Carrera: dangerousboundedprimordialpressures/magic/spatialbarriers/physicalhandburn, no irreversible soult ime/lateUltimate. Carrera earnsbodyhit, Diablo preparesresidualbarrier/routemomentum andactualcontact/ringout. Nohollowfriend throwsmatchorautoloadpower. Shokocheckburns. DadvancevsGojo, continuingtalk beforeboutnotyet.
+
+Yuta/Geld: Geldguard/positionrealproblem, Yuta ownregisteredfullRikaconnectionboundedwindow (notMaukatana/YukaringoldRikasoul). No unlimitedcopygrant. BriefdeclaredmotorCursedSpeechresistedquickbyGeld/coughcostYuta, Rikaturnsshieldduringopening/Yutacontrolledfinish/Geldyield. Rwithdrawnbychoicebeforeentirewindow, needrespectownlimits/cooldown beforeuseagain, no automaticbracelet5minrefill. Yutathroatdrinks/checked, Maki actualcareandownbanter, notparentsonly.
+
+Lunchafter8openingbouts. Fern/Starkactualchosenwalk beforehisafternoonmatch; Fernknowswhohasdelegatedaccountsnotabandoningwork, ownhandandpleasurewithStark, acknowledgeswantedwinandstillenjoyed. MYmeal,Yukawristbandagestilltender/normalmovementschecked, noinstantCErefill; Mau stopsdoingallforher. ShionShunaYukaworkshopvisitmaintained; Rseesownhappinesswithoutbeingcentral. Seika TWOcups/herememberedRampreference/heldchair, Ramaccepts voluntary, no label; NazunawithKo shadepractical. Ciel CHOOSESinnercompanypartafternoonno postabandonment, Maueat/watchfriends plan, Cielamused.
+
+AfternoonHakuro/Stark: familiarimprovedaxe currentBnotnewbuff, Starkearnsmeaningfulshoulderhit andnarrowmiss, Hakurolearns/turnsweaponleveragewinscrediblecontrolledfinish/refstop, notfatalcut. Starkhurtminor/treatment, Fernhishand/owncontinuedcoupletime. Ultima/Himmel: strongspacing/magicvssmartphysicalroutes, actualsleevecut/Ultimacost, herbettercontrolwinsbyclocktechnicaldecision. Himmelminorarmcut, Frierenwatchedfeet/oldroadmemory/ownrenewedapproach, no romanticrewardforearnedvictory. All equipmentretainedexcludingloanpolearmreturnedbroken, no unit/stat/coin/pointschanges.
+
+Continueafterpush. NeedArena physicalbounds/CTselection/output/returnmedicalchecksnotrepeatedexpositioneverybout, respecttestedintervals/fatigue. Cielmayreturnbychoiceimportantmatches, notpublicreferee. 6remainingR1 thenR16nextday, quarterandfourfinallater. Allcutoffremaining.

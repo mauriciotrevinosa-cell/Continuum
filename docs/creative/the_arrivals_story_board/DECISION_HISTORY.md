@@ -2630,3 +2630,7 @@ V45#13–16 actualfield32+ownscenes; exactHQgagfulfilledwithtwobasketsgift, no t
 ### S8 festival — V46#1–4, 2026-10-30
 
 V46#1–4 fiveopeningbouts fullywitnessed, sportsresultsnotcanonicalmaxranks, noinstantallluckadapt/Infinityautowin/newNoisebuild. YukaoneCECTs/nativecosts; F/FownbondpraiseandStarkwalk. All1521olderchaptersuntouched. Still11openingmatchesremain. Continueaftercheckpointthroughauthorizedreturn.
+
+### S8 festival — V46#5–8, 2026-10-30
+
+V46#5–8 fivefurtheropeningresults10total; mainboutsdevelopedcore, lunchownrelationships. No sourcesoulweaponexperiment/automaticlateUltimate or regenerativeXP. Starkloseshonestlywithoutlosingworth; plannedunpublishedpathadapts. All1525olderchaptersintact. Continuefestivalexactauthorizedscope.

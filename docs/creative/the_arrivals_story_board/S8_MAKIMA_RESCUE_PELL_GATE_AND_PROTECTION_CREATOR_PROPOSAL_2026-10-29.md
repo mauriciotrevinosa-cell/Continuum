@@ -1,5 +1,7 @@
 # S8 — Llegada de Makima: rescate, Pell, protección y gate
 
+> **Dungeon y vuelta propuestos — 2026-10-29:** [Restricciones externas, límite del Arquitecto, Monarch falso y regreso](S8_DUNGEON_RESTRICTIONS_BODY_CAP_FALSE_MONARCH_AND_HOMECOMING_CREATOR_DIRECTION_2026-10-29.md). Espalda/Deer/RCT/recuperación, evolución bajo supresión del dungeon, brecha/Arise/cruce; anillo/Ciel/baño/Yuka y todos los puntos gastados/Umaru/Noise. Balance delegado: ×5 recibido/10% efectivo, curación reducida sin porcentaje fijado. Mensajes íntegros; no niveles/censos finales o capítulos producidos.
+
 **2026-10-29. Propuesta concreta del creador, con aclaración directa de la vulnerabilidad. No capítulos nuevos.** Complementa y precisa [el concepto del dungeon y aftermath](S8_MAKIMA_GATE_PHYSICAL_DUNGEON_AND_TARGETED_AFTERMATH_CREATOR_INTAKE_2026-10-29.md). S7 queda intacta en V42#31/B+17. Faltan el diseño detallado del dungeon y la puesta en escena definitiva.
 
 ## 1. Mensaje íntegro: rescate y revelación

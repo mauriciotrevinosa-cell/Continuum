@@ -2491,3 +2491,8 @@ V42#29–31 termina S7 en noche de compromiso y dos días consecutivos ordinario
 ### S8 — Barrera perimetral, no policía interior, 2026-10-29
 
 [Regla y aclaración íntegra](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md#4-protección-admisión-vulnerable-y-ausencia-de-vigilancia-automática-interior). La clasificación vulnerable deja entrar a Makima. Una vez dentro no hay muerte/expulsión/inmovilización o anulación automática de la gate cuando Mau se enfada; ya hubo conflictos internos. Se retira la objeción de reevaluación y la demora propuesta por el asistente. Se conserva el amparo frente a ataques/intrusiones exteriores y S7 intacta. Sin nuevos capítulos o poderes producidos.
+
+
+### S8 — Restricción de entorno, evolución y regreso, 2026-10-29
+
+[Mensajes completos y detalles](S8_DUNGEON_RESTRICTIONS_BODY_CAP_FALSE_MONARCH_AND_HOMECOMING_CREATOR_DIRECTION_2026-10-29.md). Creador plantea primera lesiónespalda/Deer/RCT y semanas, calamidades/ejércitos/Rulers por elegir, crecimiento hasta límite diseñado porArquitecto (no absoluto), nerfs externos que desaparecen fuera sin deshacerstats. Delegó balance porstakes: propuesta elegida10%efectivo y×5dañorecibido, curación reducida aún sin porcentaje. Monarchfalso/Arise ytimingbrecha, salida herida, reconocimientoanillo/vozCiel y alivio sin acusacióndeabandono. Beru sana conrutinaYoumissedaspot/IknowIwasgettingthere; baño/Imhome, fuerza sindosificar, Yuka lo sostiene y pidequepractiqueabrazarla. Todos lospuntosgastados trasprogresiónporregistrar, Umaru apoya, Noise ríeI like her. No fijarLv170/army5–8k que sólo propusoelasistente, no originalMonarch extraído ni secuela permanente añadida pornota. S7/1444capítulos actualesintactos; plan aúnendiseño.

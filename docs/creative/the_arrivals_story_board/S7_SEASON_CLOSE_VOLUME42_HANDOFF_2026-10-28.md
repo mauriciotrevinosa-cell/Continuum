@@ -1,5 +1,7 @@
 # S7 — Season close: Volume42 handoff
 
+> **Verde posterior — 2026-10-30:** [Instrucción completa](S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md). InicioS8 autorizado con estimaciones abiertas, secundarios breves y relaciones importantes por consultar; [producción actual](S8_VOLUME43_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md). Las prohibiciones anteriores de producir sin verde son históricas, no cancelan esta autorización. S7 queda intacta.
+
 **2026-10-28. Production draft complete through V42#31 / S7E86 CH02. Creator review remains outstanding.**
 
 [Volume42](../THE_ARRIVALS_LN_VOLUME_42_INDEX_v0.1.md) · [Live scene and relationship state](S7_VOLUME42_PRODUCTION_STATE_2026-10-28.md) · [Full creator greenlight and corrections](S7_FINAL_MOUNTAIN_PROPOSAL_CREATOR_GREENLIGHT_2026-10-28.md).

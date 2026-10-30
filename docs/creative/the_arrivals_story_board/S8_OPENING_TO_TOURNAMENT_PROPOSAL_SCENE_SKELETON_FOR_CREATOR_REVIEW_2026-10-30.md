@@ -1,5 +1,7 @@
 # S8 — Esqueleto propuesto: del inicio a la propuesta del torneo
 
+> **Verde posterior — 2026-10-30:** [Instrucción completa](S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md). InicioS8 autorizado con estimaciones abiertas, secundarios breves y relaciones importantes por consultar; [producción actual](S8_VOLUME43_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md). Las prohibiciones anteriores de producir sin verde son históricas, no cancelan esta autorización. S7 queda intacta.
+
 **2026-10-30. PROPUESTA PARA REVISIÓN DEL CREADOR. No aprobada para escribir capítulos.**
 
 La autorización actual es ordenar y estimar esta primera sección, no escribirla ni producir el torneo. Parte del cierre existente de S7, V42#31 / S7E86 CH02, B+17. Conserva el mensaje completo y las decisiones previas en las notas enlazadas. No convierte estimaciones en cuotas.

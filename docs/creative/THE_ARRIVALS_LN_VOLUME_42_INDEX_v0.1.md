@@ -13,6 +13,8 @@ Continuous days after Volume41. The authorized closing arc follows Mau's return,
 
 **S7 ends here as a production draft for creator review.** The last chapter is B+17 evening, two consecutive ordinary days after the mountain proposal. No S8 first arrival or additional crisis is appended. [Season-close handoff](the_arrivals_story_board/S7_SEASON_CLOSE_VOLUME42_HANDOFF_2026-10-28.md).
 
+[Continue in Volume43 — S8](THE_ARRIVALS_LN_VOLUME_43_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

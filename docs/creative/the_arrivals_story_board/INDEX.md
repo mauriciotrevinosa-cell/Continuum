@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Producción S8 — V43#1–3, 2026-10-30:** Apertura de S8: tarde de pareja, capítulo breve de la casa y rescate en el camino. La desconocida acaba de decir el nombre de Mau; su historia aún no está confirmada. Continúa después del checkpoint. [Índice](../THE_ARRIVALS_LN_VOLUME_43_INDEX_v0.1.md) · [Estado y relaciones](S8_VOLUME43_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md) · [Verde y consultas](S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md).
+
 > **Esqueleto parcial para revisión — 2026-10-30:** [Inicio de S8 hasta la propuesta del torneo](S8_OPENING_TO_TOURNAMENT_PROPOSAL_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-10-30.md). Aproximadamente 65 capítulos (56–76), unos tres volúmenes con fronteras móviles. El corte conserva protesta de Rimuru y respuesta de Diablo; no incluye los combates del torneo. Propuesta pendiente de luz verde, sin prosa nueva ni cierre de S8.
 
 > **Ampliación S8 — 2026-10-30:** [Mensaje íntegro: Mau/Yuka con Rimuru, Shizue, decisiones de Tempest, amigos interiores, Walpurgis, Witch Hat y hermano de Richeh](S8_TEMPEST_SHIZUE_INNER_FRIENDS_WALPURGIS_WITCH_HAT_CREATOR_EXTENSION_2026-10-30.md). Ramiris deseada sin primera pelea; manifestación interna de Ciel elegida por ella; nombre de Noise pendiente. Informes, comunidad y acuerdos sin cerrar S8 ni dar llegadas o capítulos por producidos.

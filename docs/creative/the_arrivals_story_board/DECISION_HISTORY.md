@@ -2511,3 +2511,8 @@ V42#29–31 termina S7 en noche de compromiso y dos días consecutivos ordinario
 ### S8 — Alcance parcial y mapa para revisión, 2026-10-30
 
 El creador pide recibir el esqueleto antes de autorizar capítulos. [Mensaje íntegro y propuesta](S8_OPENING_TO_TOURNAMENT_PROPOSAL_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-10-30.md): inicio cercano a V42#31, Makima, dungeon y hora exterior, regreso, progreso de Yuka, llegada y contención de Tempest, decisión de Rimuru y propuesta del torneo. Corte exacto: protesta porque puede elegir y Diablo recuerda que tiene a Mau y seguirá decidiendo. Se propone alrededor de65 capítulos (rango56–76), unos tres volúmenes sin cuotas. El torneo completo y resto de la temporada quedan para otro mapa; familiares, Shizue, amigos interiores y hermano de Richeh siguen guardados, no descartados. Estimación, no aprobación de producción ni hechos escritos.
+
+
+### S8 — V43#1–3, 2026-10-30
+
+Verde directo completo guardado: estimaciones abiertas, secundarios breves, consultas de coautoría ante dudas y pushes regulares. V43#1–3 continúa desdeB+17 sin alterar previos; DIO elige estancia interior y Ashborn habitación física. Igris ancla real, emergencia avisada, dos cortes sin premios. Propuestas de relaciones Tempest pendientes de respuesta, no asumidas.

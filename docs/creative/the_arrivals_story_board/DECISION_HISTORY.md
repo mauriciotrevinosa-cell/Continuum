@@ -2650,3 +2650,7 @@ V46#17–20 earnedlastR16matchupsandcosts, no originalbranchFrblackholeimport or
 ### S8 festival — V47#1–4, 2026-10-30
 
 V47#1–4 allquarterswrittenwithCTselection/finitepools/restsourcecontrols. Largeformcourtagreedbeforefightnotmovinglinecheat. Userfinal4earnedthroughsportnotall-sourcecosmologyranking, fullMauV2chapterphysicalbattlewithoutnewtraumacrisis. All1541olderchaptersintact. No cutoffstopatpush; authorizedInnreturnstillpending.
+
+### S8 festival — V47#5–8, 2026-10-30
+
+V47#5–8 completefinal4-waycreativebattleandexactcreatorMilmtemporarypause/3care/admitcheated/notstronger/girlwinRchoice. ThreeSEPARATEbodiesownoneDEeach, Gmicrocap/touchrules, MEMPTYframeworknotnewhybrid/noisepact, postburnoutreal. OnecontrolledsentenceclarifiedV46#14equipmentversuspermanentbody perS6writtenrule, no battlechange. Allother1544oldchaptersintact. AuthorizedarcNOTcomplete; continueDemo/Shizue/home.

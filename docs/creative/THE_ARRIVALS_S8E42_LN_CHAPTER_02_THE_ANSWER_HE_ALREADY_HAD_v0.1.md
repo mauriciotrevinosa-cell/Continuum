@@ -65,7 +65,7 @@ His now-empty hand turned beneath hers.
 
 * * *
 
-With one weapon no longer beside his wrist, the next turn had less steel to carry. His body and the equipment he had brought had not become a different set of numbers because he chose to open a hand.
+Letting one weapon go changed the reach he could use. It did not undo anything his body had learned to carry; a weapon’s equipped advantage was still a different thing from the strength he had permanently built.
 
 He simply gave her a shorter attack, deliberately slower than the one she had just learned to expect.
 

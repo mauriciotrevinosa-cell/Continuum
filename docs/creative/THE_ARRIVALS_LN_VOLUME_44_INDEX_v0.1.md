@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 44
 **Season:** 8
-**Coverage:** S8E15–S8E21 (in progress)
+**Coverage:** S8E15–S8E23 (in progress)
 **Volume title:** **The People He Came Back To** (provisional)
-**Chapter files:** 14
+**Chapter files:** 18
 
 Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapter quota. The creator has now authorized the festival continuation through the household return and future HQ-resident proposals; see the new greenlight below.
 
@@ -31,3 +31,7 @@ Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapt
 | 12 | S8E20 | He Can Choose | `THE_ARRIVALS_S8E20_LN_CHAPTER_02_HE_CAN_CHOOSE_v0.1.md` |
 | 13 | S8E21 | The Other Half of His Table | `THE_ARRIVALS_S8E21_LN_CHAPTER_01_THE_OTHER_HALF_OF_HIS_TABLE_v0.1.md` |
 | 14 | S8E21 | Until We Come Home | `THE_ARRIVALS_S8E21_LN_CHAPTER_02_UNTIL_WE_COME_HOME_v0.1.md` |
+| 15 | S8E22 | Someone to Sit Beside | `THE_ARRIVALS_S8E22_LN_CHAPTER_01_SOMEONE_TO_SIT_BESIDE_v0.1.md` |
+| 16 | S8E22 | What She Wanted to Bring | `THE_ARRIVALS_S8E22_LN_CHAPTER_02_WHAT_SHE_WANTED_TO_BRING_v0.1.md` |
+| 17 | S8E23 | A Question for the Road | `THE_ARRIVALS_S8E23_LN_CHAPTER_01_A_QUESTION_FOR_THE_ROAD_v0.1.md` |
+| 18 | S8E23 | The Reply | `THE_ARRIVALS_S8E23_LN_CHAPTER_02_THE_REPLY_v0.1.md` |

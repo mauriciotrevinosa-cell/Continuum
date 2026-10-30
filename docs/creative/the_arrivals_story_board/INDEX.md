@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción festival S8 — V44#22:** El viaje llega a Tempest; la casa se acomoda y Ori elige su rato con Mau y Yuka. Continúan las jornadas del festival, sin adelantar los cruces. [Leer](../THE_ARRIVALS_LN_VOLUME_44_INDEX_v0.1.md) · [Estado/relaciones](S8_FESTIVAL_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-30.md) · [Verde](S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md).
+> **Producción festival S8 — V44#26:** V44 cierra con la casa viviendo su primer día en Tempest. El festival continúa inmediatamente en V45; los cruces siguen reservados para la lectura. [Leer](../THE_ARRIVALS_LN_VOLUME_44_INDEX_v0.1.md) · [Estado/relaciones](S8_FESTIVAL_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-30.md) · [Verde](S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md).
 
 > **Esqueleto público para opinión, torneo reservado — 2026-10-30:** [Viaje, festival, convivencia y consecuencias](S8_FESTIVAL_PUBLIC_SCENE_SKELETON_AND_RELATIONSHIP_PACING_FOR_CREATOR_REVIEW_2026-10-30.md). Estimación flexible75–110capítulos adicionales; no cuotas. Rem/Umaru: recomendación deavance real con significadoabierto/mano/consultaShoko+Mau, pendiente de verde. Se preservan todas las relaciones y la mayorreuniónfamiliar para tramo posterior; no prosa nueva ni cruces/resultados revelados.
 

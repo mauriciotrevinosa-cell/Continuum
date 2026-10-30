@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 44
 **Season:** 8
-**Coverage:** S8E15–S8E25 (in progress)
+**Coverage:** S8E15–S8E27 (volume complete; S8 continues)
 **Volume title:** **The People He Came Back To** (provisional)
-**Chapter files:** 22
+**Chapter files:** 26
 
 Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapter quota. The creator has now authorized the festival continuation through the household return and future HQ-resident proposals; see the new greenlight below.
 
@@ -39,3 +39,7 @@ Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapt
 | 20 | S8E24 | A Place He Could Show Them | `THE_ARRIVALS_S8E24_LN_CHAPTER_02_A_PLACE_HE_COULD_SHOW_THEM_v0.1.md` |
 | 21 | S8E25 | The Window They Asked For | `THE_ARRIVALS_S8E25_LN_CHAPTER_01_THE_WINDOW_THEY_ASKED_FOR_v0.1.md` |
 | 22 | S8E25 | While They Made the Flag | `THE_ARRIVALS_S8E25_LN_CHAPTER_02_WHILE_THEY_MADE_THE_FLAG_v0.1.md` |
+| 23 | S8E26 | The Second Idiot | `THE_ARRIVALS_S8E26_LN_CHAPTER_01_THE_SECOND_IDIOT_v0.1.md` |
+| 24 | S8E26 | Where the Roads Had Gone | `THE_ARRIVALS_S8E26_LN_CHAPTER_02_WHERE_THE_ROADS_HAD_GONE_v0.1.md` |
+| 25 | S8E27 | Headquarters | `THE_ARRIVALS_S8E27_LN_CHAPTER_01_HEADQUARTERS_v0.1.md` |
+| 26 | S8E27 | Another Name for Home | `THE_ARRIVALS_S8E27_LN_CHAPTER_02_ANOTHER_NAME_FOR_HOME_v0.1.md` |

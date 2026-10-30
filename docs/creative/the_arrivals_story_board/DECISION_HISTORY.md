@@ -2606,3 +2606,7 @@ V44#15–18desarrollancompanyconsent/Cielpresentation/Friends y viajecomunicaci�
 ### S8 festival — V44#19–22, 2026-10-30
 
 V44#19–22viajevividoB36–37sin salto/pelea, acogidaciudadnuevapartidadefamilia/localesconagencia. HabitaciónMauYukaexistetemporal,nodeprimeracohabitación; Echidnaasksconsentedteacapacitypending, Cielprivada/noNoiseconstrucciones. OriconMauYukafullescenapaperboat/basin, luegoFrierenMum/ChloeFortsinpaternidadimpuesta. BocchiMauhermanosescenaymusictiempoelegido, Kanekifamilia, Shionnewownplanscontinued. 1497capítulospreviosintactos, 10nuevosfestivaltotal, current200/0/520/6615. Siguereunión/city yarcocompletohastaregreso/listaHQ, noprotocolostoppingonpush.
+
+### S8 festival — V44#23–26, 2026-10-30
+
+V44#23–26primerconsejo/vidafamiliarcompletos,monstruomultiimpresionesnocanonrankattack, fuentesoficialesrolesreadnoallmaxpowersclaim. R/Gazel/Elmesia/Guy/Leon/Luminousmapsworld/privacyRimuruownlife,HQnicknameactualnotcapital/king,nopublicDIOhostinfo. Torneoratificaantespropuesto/testprimero. EnparaleloYukaShionShuna/ChloealumnosFort/AnkoHinatasecondinvite/YutaMaki. 1501capítulospreviosintactos,14newfestival, V44complete26draftS8CONTINUESV45B38noonwithoutpermission. FullcreatorcutoffInnreturnHQlistnotreached, nostoponpush.

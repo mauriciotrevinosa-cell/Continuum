@@ -102,3 +102,22 @@ Mensaje íntegro:
 Las cifras17–19paraUmaru y17–22/máscerca20paraRem son **estimaciones del creador**, no edades cerradas por capítulo. Verificación acotada: la llegada deRem se localiza enS3/V12–13, conS3E14CH03/Day13presentaciones; SERIES_TIMELINE_ESTIMATE_2026-10-07tiene meses aproximados y es anterior a overwrite/ramaB; V44#12indicaB+32, y los contadoresS3/S4/Bno son el mismo reloj absoluto. Ese material permite localizar la auditoría, no certificar cumpleaños exactos por suma de temporadas. Los perfiles oficiales de ambas consultados no dieron aquí una edad numérica de extracción. No adjudicarles20/19exactos ni una diferencia fija sin punto de extracción/fecha de llegada/cumpleaños/rama vigente. La edad deMau/loops no se suma a la casa ni el año subjetivoS8dungeon a ellas.
 
 **Cómo explorar el vínculo:** mostrar reciprocidad. Umaru busca pasar tiempo conRem, la invita a algo que cree que disfrutará o la cuida cuando está cansada; Rem elige esa compañía por ella misma. Cada una puede empezar a percibir de otra manera un gesto antes habitual. Evitar fijarlas en cuidadora/niña y luego declarar pareja por proximidad numérica; conservar sus personalidades, Fort y vida propia. Primero encuentros/curiosidad, después decidir con el creador si se vuelve romance y con qué ritmo. Nada escrito ni edades retconeadas en este checkpoint.
+
+## 9. Ori, Mau y Yuka — convivencia pedida por el creador
+
+Mensaje íntegro:
+
+> y falta una convivencia importante mau ori y yuka ori no remplaza a frieren pero quiere convivr con mau entonces ella se puede quedar un rato con ellos en lo que el fort termina de estar listo y luego se va luego convive con frieren y luego tal ves quiere pasar un rato con mau para deseale suerte en su pelea del dia sig
+
+**Dirección vigente:** incluir una escena de tiempo compartido Mau/Ori/Yuka durante el festival, no sólo mención de presencia. Ori quiere estar con Mau y toma iniciativa para quedarse un rato con ambos. Yuka participa y desarrolla su vínculo propio conOri. No se convierte por ello en sustituta deFrieren/Mum, ni Ori sustituye aFrieren, ni aparece adopción/obligación de llamarPapá aMau.
+
+**Secuencia a colocar según jornadas y cuadro elegidos:**
+
+1. Mientras el Fort termina de prepararse/organizarse, Ori pide o elige quedarse conMau/Yuka. Se acomodan, comparten una actividad sencilla o conversación y reciben su compañía como algo que desean. No encargo para queOri se gane el derecho de estar ni nueva crisis emocional.
+2. El Fort queda listo para su actividad yOri se va conellos. Coordinar dónde está y con quién, no mantenerla simultáneamente en la habitación y conelgrupo. La frase «Fort listo» no autoriza construir un fuerte permanente deTempest fuera de escena: concretar si se organiza grupo, espacio temporal o juego al desarrollar llegada/recinto.
+3. Después tiene tiempo propio conFrieren/Mum. Comparte loquevivió y escucha aFrieren; sus otros afectos conviven, no competencia o celos por haber estado conMau/Yuka.
+4. En otro momentoOri busca aMau para desearle suerte en la pelea del día siguiente. La visita nace deella. Puede querer acompañarlo un rato, preguntar algo o decir dónde lo verá; no promesa de victoria/regreso traumático ni de que se lastime por ella.
+
+Son beats que pueden intercalarse con vida del festival; **no cuatro capítulos obligatorios**, pero el primer rato deconvivencia debe vivirse con conversación/acciones propias y no quedar resumido en «Ori estuvo conellos». No fijar rival, ronda, fecha o habitación nueva antes de construir cuadro/alojamientos. Conservar el compás deOri haciaFrieren, piedra prestada ya devuelta, familia ymemor iasB vigentes. No transferir la paternidad/relaciónMauOriA aB mediante esta escena. El vínculo actual sí puede crecer y dar alegría aambos sin queMau exija un título.
+
+Esta convivencia se agrega a la mesa de relaciones con el mismo peso de continuidad que las parejas y amistades; Ori no se queda reducida aFort/visitas aFrieren mientras los adultos reciben todos los avances. Sin prosa nueva en este checkpoint.

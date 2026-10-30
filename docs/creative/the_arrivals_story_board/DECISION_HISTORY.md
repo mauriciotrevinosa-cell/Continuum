@@ -2586,3 +2586,7 @@ El creador leeV43 y pide propuesta propia para compararla con la suya. [Document
 ### S8 — Rem/Umaru como posibilidad, edades sin fijar, 2026-10-30
 
 [Mensaje íntegro y alcance](S8_FESTIVAL_RELATIONSHIPS_CREATOR_CHOICES_AND_FAMILY_COIN_REUNION_2026-10-30.md#8-posible-remumaru-y-edades--precisión-posterior-del-creador). El creador estimaUmaru17–19/Remcerca20y abre posibleinterés entreellas. Se retira interpretación delcoautor que sólo permitía vínculo familiar. No pareja ni edades exactas; auditar extracción/llegada/cumpleaños y contadores por rama, sin sumar dungeonsubjetivo o loopsdeMau. La salidaSubaru/Rem mantiene alegría por su vida, sin triángulo impuesto. Futuro acercamiento recíproco, no relación fijada por cuidado o aritmética. Capítulos intactos.
+
+### S8 — Ori con Mau y Yuka durantefestival, 2026-10-30
+
+[Petición íntegra y colocación pendiente](S8_FESTIVAL_RELATIONSHIPS_CREATOR_CHOICES_AND_FAMILY_COIN_REUNION_2026-10-30.md#9-ori-mau-y-yuka--convivencia-pedida-por-el-creador). Ori quiere convivir conMau/Yuka mientrasFort se prepara, luegoFort, tiempoFrieren y visita propia para desearle suerte enpelea día siguiente. Escena vivida, no sólo referencia; no cuatrocapsautomáticos. ConservarFrieren/Mum y vínculosB, sin sustitución/adopción oPapáexigido; Yuka tiene convivencia propia conOri. Coordinar jornadas reales y alojamiento/actividadFort al diseñar torneo, no rival/fortconstruido dadosporhechos. Sin capítulos nuevos.

@@ -1,5 +1,7 @@
 # S8 — Llegadas, festival amplio, torneo y demostración del dungeon
 
+> **Ampliación posterior para revisión — 2026-10-30:** [Reparto, mundo, vínculos concretos y tea party interior](S8_FESTIVAL_CANDIDATE_ROSTER_RELATIONSHIP_BEATS_AND_ECHIDNA_TEA_PROPOSAL_2026-10-30.md). Primero lista, después estudio de ganadores entre sistemas. Mau/Luminous es sugerencia del creador; romances nuevos son propuestas sin aprobar. Sin capítulos nuevos.
+
 **2026-10-30. Propuesta íntegra del creador para desarrollar con su coautor.** No es verde para producir capítulos ni una auditoría cerrada de poderes. Amplía y revisa la [propuesta anterior de dieciséis](S8_TOURNAMENT_FESTIVAL_ASSISTANT_PROPOSAL_FOR_CREATOR_COMPARISON_2026-10-30.md). La prosa existente sigue terminando en V44#12, donde el torneo se propone dentro de la casa.
 
 ## 1. Mensaje íntegro del creador

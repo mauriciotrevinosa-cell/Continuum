@@ -1,5 +1,7 @@
 # S8 y continuación — Vínculos del festival y gran reunión familiar
 
+> **Aclaración posterior — 2026-10-30:** Ko todavía NO ha llegado. La mención del vínculo Ko/Nazuna en la propuesta no constituye una llegada. Los mensajes íntegros del creador se conservan debajo como historial; [la corrección de presencia](S8_KO_NOT_ARRIVED_CREATOR_CORRECTION_2026-10-30.md) rige sobre cualquier interpretación anterior.
+
 **2026-10-30. Dirección del creador para planificar; sin nuevos capítulos, llegadas o gastos de monedas ejecutados.** Complementa [reparto y escenas propuestas](S8_FESTIVAL_CANDIDATE_ROSTER_RELATIONSHIP_BEATS_AND_ECHIDNA_TEA_PROPOSAL_2026-10-30.md) y [festival amplio](S8_FESTIVAL_DELEGATIONS_LARGE_TOURNAMENT_AND_RAMIRIS_CREATOR_PROPOSAL_2026-10-30.md). Prosa existente sigue V44#12. Separar aceptación de una dirección romántica del estado efectivo de una pareja.
 
 ## 1. Mensaje íntegro del creador
@@ -34,7 +36,7 @@ Las dos ambigüedades quedan resueltas. No confundir Seika con Seiko ni converti
 | Subaru/Rem | Salida dulce, conversación de vida y alegría genuina de Subaru por ella | No nuevo endgame, promesa exclusiva, ruptura o restauración automática de un vínculo de otra rama |
 | Maomao/Jinshi | Escena del brownie, «Just for today», iniciativa de ella, mano, plantas y comida | No boda o derecho permanente a repetir la concesión al día siguiente |
 
-Respetar la continuidad vigente Ko/Nazuna y demás relaciones. La posibilidad de nuevos vínculos no exige deshacer otros para producir parejas disponibles. Rem habla de la vida nueva que **ella** quiere seguir viviendo. Su cercanía con Umaru y el Fort es un vínculo ya ganado; la propuesta posterior del creador, registrada en sección8, permite explorar si con Umaru nace interés romántico. No imponerlo ni mantener una prohibición de romance tomada de la interpretación anterior del coautor. Subaru la escucha feliz por ella sin convertir la conversación en una competencia por quién la necesita más.
+Respetar la historia de origen de Nazuna y las demás relaciones. **Aclaración posterior del creador: Ko NO ha llegado a esta rama; el vínculo de origen no permite escribirlo como acompañante presente ni inventar una llegada.** La posibilidad de nuevos vínculos no exige deshacer otros para producir parejas disponibles. Rem habla de la vida nueva que **ella** quiere seguir viviendo. Su cercanía con Umaru y el Fort es un vínculo ya ganado; la propuesta posterior del creador, registrada en sección8, permite explorar si con Umaru nace interés romántico. No imponerlo ni mantener una prohibición de romance tomada de la interpretación anterior del coautor. Subaru la escucha feliz por ella sin convertir la conversación en una competencia por quién la necesita más.
 
 ## 4. Desarrollo de escenas para preservar la intención
 

@@ -165,7 +165,7 @@ Mau and Yuka find a place to sit before the light changes.
 
 He has done enough that the invitation to remain still is unusually easy to accept. She rests beside him, watching people choose which part of the festival they want to keep a little longer.
 
-Bocchi comes past with the others, talking about the borrowed instrument. Rem and Umaru stop long enough to show Ori what they have found. Nazuna calls to Seika while Ko waits beside the place she has chosen to stand in the shade.
+Bocchi comes past with the others, talking about the borrowed instrument. Rem and Umaru stop long enough to show Ori what they have found. Nazuna calls to Seika from the shade beside a stall.
 
 Yuka leans against Mau's shoulder.
 

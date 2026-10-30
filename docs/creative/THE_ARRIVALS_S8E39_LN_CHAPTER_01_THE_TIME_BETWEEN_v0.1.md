@@ -155,7 +155,7 @@ Ram sat.
 
 Seika laughed, surprising herself enough to glance down before taking the other cup.
 
-Nazuna passed outside with Ko keeping the useful part of the shade over both of them. She saw the two seated together, grinned at Seika and continued without making the observation a performance.
+Nazuna passed outside beneath the awnings. She saw the two seated together, grinned at Seika and continued along the shaded side of the street without making the observation a performance.
 
 Seika took a drink and decided not to chase her.
 

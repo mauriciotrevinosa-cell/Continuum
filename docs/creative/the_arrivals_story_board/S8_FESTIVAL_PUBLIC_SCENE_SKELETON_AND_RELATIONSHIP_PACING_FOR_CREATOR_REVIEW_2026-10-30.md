@@ -48,7 +48,7 @@ Primer encuentro que se vuelve interesante para ambas, otra ocasión en que una 
 
 Gojo/Shoko tienen una salida completa y reciprocidad que continúe al siguiente día; bromas deaprenderdeMau yMaumejormaestro llegan a una frase que él sostiene sin escaparse del todo en humor. Shoko conserva vida, clínica por relevos y propios deseos.
 
-Yuta/Maki tiempo elegido de pareja, Fern/Stark paseo que permite una tarea delegada, Frieren/Fern elogio específico/tiempocompartido yHimmel/Frieren acercamiento ya existente. Maomao eligeJustfortoday/brownie/tomar mano/plantas/comida conJinshi. Seika/Nazuna cercanía; Seika/Ram posibilidad, Ko/Nazuna conservados. Kaneki/Touka/Ichika, Eren/Mikasa, Marin/Wakana yKessoku mantienen agencia fuera de tareas útiles; no todos necesitan un capítulo de igual tamaño.
+Yuta/Maki tiempo elegido de pareja, Fern/Stark paseo que permite una tarea delegada, Frieren/Fern elogio específico/tiempocompartido yHimmel/Frieren acercamiento ya existente. Maomao eligeJustfortoday/brownie/tomar mano/plantas/comida conJinshi. Seika/Nazuna cercanía; Seika/Ram posibilidad, Nazuna conserva su historia de origen, pero Ko NO ha llegado a esta rama y no participa en el festival. Kaneki/Touka/Ichika, Eren/Mikasa, Marin/Wakana yKessoku mantienen agencia fuera de tareas útiles; no todos necesitan un capítulo de igual tamaño.
 
 ### Rem/Umaru — recomendación del coautor: avance real, significado abierto
 

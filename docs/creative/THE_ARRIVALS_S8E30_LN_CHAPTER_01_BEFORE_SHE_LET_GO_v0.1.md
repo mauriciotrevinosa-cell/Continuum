@@ -5,7 +5,7 @@
 **Volume:** 45
 **Reading order:** 5
 **Source episode:** S8E30
-**Continuity state:** B+38 late afternoon. Umaru takes Rem's hand spontaneously to show festival game, Rem surprised/pleased and continues; no declaration of Umaru's internal romantic feelings, no forced label, ages not invented. Fort/Chloe/students ordinary activity with known adults coordinating. Seika/Nazuna closeness, Ram/Seika possible interest through voluntary invitation, Ko/Nazuna preserved. No Subaru arrival or outing. Secondary ensemble window intentionally shorter than central chapters.
+**Continuity state:** B+38 late afternoon. Umaru takes Rem's hand spontaneously to show festival game, Rem surprised/pleased and continues; no declaration of Umaru's internal romantic feelings, no forced label, ages not invented. Fort/Chloe/students ordinary activity with known adults coordinating. Seika/Nazuna closeness, Ram/Seika possible interest through voluntary invitation, Ko has not arrived; Nazuna retains her source-world history without Ko being physically present. No Subaru arrival or outing. Secondary ensemble window intentionally shorter than central chapters.
 
 *When: Umaru catches her hand, Rem is still trying to explain why they cannot win a prize by challenging the same person indefinitely.*
 
@@ -79,7 +79,7 @@ Umaru turned.
 
 Seika stood beside Rem's sister, carrying a folded programme which she seemed to have acquired without volunteering to organise the event printed on it.
 
-Nazuna had paused a little farther down the row with Ko. She called back to ask whether Seika wanted to see the next place before they returned.
+Nazuna had paused beneath an awning a little farther down the row. She called back to ask whether Seika wanted to see the next place before they returned.
 
 Seika looked at the game, then at Ram.
 
@@ -87,7 +87,7 @@ Seika looked at the game, then at Ram.
 
 “A sensible use of an afternoon,” Ram replied. ᴿᵐ
 
-Nazuna grinned and went on with Ko.
+Nazuna grinned and went on along the shaded stalls.
 
 Rem watched Seika choose a place beside her sister. Ram moved enough to give her a better view without being asked.
 

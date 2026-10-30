@@ -1,5 +1,7 @@
 # S8 — Festival production, knowledge and relationships
 
+> **Creator correction — 2026-10-30: Ko has NOT arrived in this branch.** Four erroneous physical appearances removed from V45#5, V46#7, V46#10 and V47#13; source-world history is not proof of local presence. [Exact clarification](S8_KO_NOT_ARRIVED_CREATOR_CORRECTION_2026-10-30.md).
+
 [Creator greenlight](S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md) · [Approved public skeleton](S8_FESTIVAL_PUBLIC_SCENE_SKELETON_AND_RELATIONSHIP_PACING_FOR_CREATOR_REVIEW_2026-10-30.md). Prose in English, speaker marks at right. Earlier S8 chapters preserved. This ledger controls the continuation after V44#12; old stop notices are historical.
 
 ## Produced scenes
@@ -24,7 +26,7 @@
 | V45#2 | S8E28 CH02 | B+38 afternoon | Anko/Hinata chosen cafe and walk; mutual interest, respected private past, next time chosen. |
 | V45#3 | S8E29 CH01 | B+38 afternoon | Ramiris arena inspection/ordinary exits, limited physical target and surrender return tests. Mind/information/soul NOT verified; no lethal human test. |
 | V45#4 | S8E29 CH02 | B+38 afternoon | Maomao voluntary brownie/Just for today/hand/plants/meal with Jinshi. Couple privacy respected by Mau/Yuka. |
-| V45#5 | S8E30 CH01 | B+38 late afternoon | Umaru takes Rem hand to show game, Rem surprised/pleased; shared failure/tomorrow plan, no forced romantic label. Seika/Ram choice, Nazuna/Ko. |
+| V45#5 | S8E30 CH01 | B+38 late afternoon | Umaru takes Rem hand to show game, Rem surprised/pleased; shared failure/tomorrow plan, no forced romantic label. Seika/Ram choice, Nazuna explores alone; Ko absent. |
 | V45#6 | S8E30 CH02 | B+38 evening | Shion dinner promise paid: ugly/goodtaste, Shuna confirmed safe, lived table comedy. Ownworkshopvisit chosen, covered inner sample via existingaccess. |
 | V45#7 | S8E31 CH01 | B+39 morning | Tea held existingboundedroom/individualconsent, 7witches/quietAshborn/DIO/Ciel/Noise host; stillfriends/freechoices, no newname/build/archive. |
 | V45#8 | S8E31 CH02 | B+39 afternoon | Gojo/Shoko chosen fullouting offcareturn, betterteacherjoke, mutualpersonalinterest/handchoice. Past acknowledged, joyallowed, no reset. |
@@ -42,7 +44,7 @@
 | V46#4 | S8E37 CH02 | B+41 latemorning | Frieren/Fern fullduel and specificpraise/futurechosenmagicstall. Aerialringoutlearnedcorrection, FernStarkownwalk, HimmelFrierencare. |
 | V46#5 | S8E38 CH01 | B+41 latemorning | Maki/Shion physicalchoreography/readingboundedCook/contactforce/leverageringout, ownrespectandcost; Shionadvances. |
 | V46#6 | S8E38 CH02 | B+41 morningbeforelunch | Diablo/Carreramagicbarrierduel and Yuta/GeldpositionRika/briefCursedSpeechcost; bothhonestwinsnotlateUltimate/composite. |
-| V46#7 | S8E39 CH01 | B+41 lunch | FernStarkownwalk/hand, MYrest/wristcost, SeikaRamcups/NazunaKo, Cielchoosesfriends. |
+| V46#7 | S8E39 CH01 | B+41 lunch | FernStarkownwalk/hand, MYrest/wristcost, SeikaRamcups/Nazuna passes alone, Ko absent, Cielchoosesfriends. |
 | V46#8 | S8E39 CH02 | B+41 afternoon | Hakuro/Stark earnedskillduel and Ultima/Himmelclockdecision; bothlossesretainagency/FernStark/FrierenHimmelcontinuity. |
 | V46#9 | S8E40 CH01 | B+41 afternoon | MilimRanga/FreyCarrion/VeldoraAnko variedopenings; actualcurrenttools/sportcare, AnkoHinataowninterestafter. |
 | V46#10 | S8E40 CH02 | B+41 afternoon | HinataBenimaruprecisionvsswordfire, thenLeonNazunaflight/route, no automaticholyweakness or untestedsoulerasure. |
@@ -129,7 +131,7 @@ Mau/Yukaordinarylifechosenfullscenes, plannedmealMauchoosesplace, Yukaownmorning
 
 Anko/HinataB34voluntarymapwalk, B38SECONDchosenencounteratFort/Hinatainvitesplace tos it/comparecitydirectionsAnkoacceptsafterbothobligations. Earlymutualinterest,nopairdeclared. Hinata/Mau remainsrespect/siblingdirection, notromance. OriMauYuka boatvisityesterdaychaptermorningactuallyB38, FrierenMumreturnslistens, ChloeFortcallsOri, Ori laterwentaroundcourtyardwithMum. Go odluckvisitlaterfightpending,noPapa/transferArelationship.
 
-Chloe introducesYuka/ForttoKenya/Ryota/Gale/Alice, ordinarygames/agency,noadultmaxChronoaform. HinataarrivesAFTERmeetingandcoordinatesafternoonwithRem/Frieren, nottwoplacesatonce. RemsmileswithUmaruovergamefairness, nohand/confusion/consultationyet. Subaruoutingpending, ageuncertain. Gojo/ShokoB37dinnerchairmomentonly, maindatepending. Yuta/MakiB38chooseownoutingtogether,Yukawavesnotgrandparentsonly. Mai/Marin/Wakanaworkshopinterestvoluntarynotfactoryorder. Bocchi/Mau/YukamusictimepromisedB36, actualcityoutingahead. Maomao/Jinshiplantsinterestonly,browniehanddateahead. Seika/Nazunacloseness/SeikaRampossibility/KoNazuna preserved. Himmel/Frierencontinuity,noTreyniseed. Kaneki/Touka/Ichika roadfamilyhappiness.
+Chloe introducesYuka/ForttoKenya/Ryota/Gale/Alice, ordinarygames/agency,noadultmaxChronoaform. HinataarrivesAFTERmeetingandcoordinatesafternoonwithRem/Frieren, nottwoplacesatonce. RemsmileswithUmaruovergamefairness, nohand/confusion/consultationyet. Subaruoutingpending, ageuncertain. Gojo/ShokoB37dinnerchairmomentonly, maindatepending. Yuta/MakiB38chooseownoutingtogether,Yukawavesnotgrandparentsonly. Mai/Marin/Wakanaworkshopinterestvoluntarynotfactoryorder. Bocchi/Mau/YukamusictimepromisedB36, actualcityoutingahead. Maomao/Jinshiplantsinterestonly,browniehanddateahead. Seika/Nazunacloseness/SeikaRampossibility; KoNOTARRIVED, sourcehistorynotlocalpresence. Himmel/Frierencontinuity,noTreyniseed. Kaneki/Touka/Ichika roadfamilyhappiness.
 
 ## Interior / Noise pact
 
@@ -155,7 +157,7 @@ Next: evening cooking payoff, actual Fort hand moment, consent/capacity for shar
 
 ## V45#5–8 actual advances, B38late–B39afternoon
 
-#5Umaru spontaneously takes Rem hand to show ringthrow game, Rem notices pleasure/surprise, no verdict on Umaru feelings. They fail amusingly, agree returntomorrow; Rem continues thinking after handreleased. Seika chooses staywatchgamewithRam, Nazuna goesonwithKo, preservesexistingbond. #6Shiondish looksbad/goodtaste confirmed, Shunacheckedingredientsandtaste, no poison/no newlyunlockedskill. M/Yfinishportion, Benimarutr ies, Rimuru hospitalityjoke repaid. Shion/Yuka/ShunachooseworkshopvisitbeforeRpermissionhabitcompletes; Rdoesnotclaimpermissionauthority. Covered sample passed via existingguestroomaccesswithRcarry, Ciel/DIO/Noise/Ashbornchooseeat. No room expansion or knowledgepublicleak.
+#5Umaru spontaneously takes Rem hand to show ringthrow game, Rem notices pleasure/surprise, no verdict on Umaru feelings. They fail amusingly, agree returntomorrow; Rem continues thinking after handreleased. Seika chooses staywatchgamewithRam, Nazuna goesonaloneundershade; KoNOTARRIVED, originbonddoesnotgrantpresence. #6Shiondish looksbad/goodtaste confirmed, Shunacheckedingredientsandtaste, no poison/no newlyunlockedskill. M/Yfinishportion, Benimarutr ies, Rimuru hospitalityjoke repaid. Shion/Yuka/ShunachooseworkshopvisitbeforeRpermissionhabitcompletes; Rdoesnotclaimpermissionauthority. Covered sample passed via existingguestroomaccesswithRcarry, Ciel/DIO/Noise/Ashbornchooseeat. No room expansion or knowledgepublicleak.
 
 #7B39morning Echi tea ACTUALLYHELD. Individualresidentsconsent/gradualcapacity/air/exitchecksexistingboundedroom, borrowedchairs returned, NO newNoiseconstructionorportal. All7witches existingadultPrideprivate, MauPHYSICALLYOUTSIDEthresholdseatednearby, Rimuruhelpsinside, DIOtemporaryCielpresentationlocally, no newbody. Ashborncomesquiettakescupnotforcedanswer. Noisehosts, askedguestscomfort, thanked, "Still friends" evenchoosedifferentactivities; namestillnotdecided, asksNotnow/thinkingaccepted. DIOtiredpausesrespectednothealed. Cielchosestaylongerafterguests, manifestationexitvoluntary. No archivesread/omnipresent voices.
 
@@ -318,7 +320,7 @@ NextB44latefamily/festivalordinaryclosures+Rpersonaldecision/Shizueprep. Existin
 
 ## V47#13–16 actual Shizuearrival, newrelationships and coinspend
 
-B44lateactualvoluntaryBocchishortmusictry/localmusicianpermissionKessokuhelp/MYlisten, no forcedofficialgig/newinstrumentpurchased. Seika/Ramteaathomeinvitationacceptedbyboth, possibleintereststillopennoinstantlabel. Rem CHOOSES takesUmaruhandnowtofollowactivity/theirmutualgroupwalk, stillnodiagnosis/noUmaruromancelabeloragesinvented. Anko/Hinata SECONDexplicitmutualromanticoutingafterinitialhand, Hinata asksMayI/Ankoyes FIRSTKISS, futureseeingchosennotonlyjobroute. Continuenewstatus don'tresettoambiguousmapsnexttime. NazunaKoexistingclosenessmaintained. MYquietpostdemocare/no extrasparunderfatigue.
+B44lateactualvoluntaryBocchishortmusictry/localmusicianpermissionKessokuhelp/MYlisten, no forcedofficialgig/newinstrumentpurchased. Seika/Ramteaathomeinvitationacceptedbyboth, possibleintereststillopennoinstantlabel. Rem CHOOSES takesUmaruhandnowtofollowactivity/theirmutualgroupwalk, stillnodiagnosis/noUmaruromancelabeloragesinvented. Anko/Hinata SECONDexplicitmutualromanticoutingafterinitialhand, Hinata asksMayI/Ankoyes FIRSTKISS, futureseeingchosennotonlyjobroute. Continuenewstatus don'tresettoambiguousmapsnexttime. KoNOTARRIVED; Nazuna alonecallsSeikafromshade, sourcehistoryretainedwithoutlocalcompanion. MYquietpostdemocare/no extrasparunderfatigue.
 
 B44nightRasksROOF, ordinaryborrowedterracepermission/exits4chairs. Mau/Yuta/Gojo/Rimuru owncompanionshipnotclosedmembershipretcon. RchoosesEXISTINGcoinforShizue, sharesonlyownchosenhistory/noMauarchiveorforcedromance. Wantsseeherchooseanotherday/notsolveallhisfeelings, friendslisten/offercompanionDIOconversation. Rwantedprivatefirsthelloothersagree.
 

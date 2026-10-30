@@ -185,9 +185,9 @@ Leon answered with a shorter spell.
 
 She turned her shoulder away from the first part, took a narrow hit along the arm and felt the damaged flesh begin repairing as she moved.
 
-Ko's hands tightened against the edge of his seat.
+Seika shifted forward in her seat.
 
-Nazuna did not look toward him while there was still a person in front of her who required watching.
+Nazuna kept her attention on the person in front of her while he still required watching.
 
 * * *
 
@@ -225,18 +225,20 @@ For the second time, his expression almost became a smile.
 
 Nazuna laughed first and went to have the arm checked.
 
-Ko met her afterward, looking at the place where the cut had already closed.
+Seika was waiting when she came back, her gaze catching on the arm where the cut had already closed.
 
-“I'm fine,” she said. ᴺᵃ
+“I'm fine,” Nazuna said. ᴺᵃ
 
-“I saw.” ᴷᵒ
+“I can see that. Watching was less reassuring.” ˢᵉⁱ
 
-She looked at him long enough to notice that being told did not quite settle what watching had felt like.
-
-Then she put her good arm around his shoulders and drew him toward the seats.
+Nazuna looked down at the arm, then back at her friend.
 
 “You can tell me which part looked best.” ᴺᵃ
 
-He started with the first time she had taken off.
+“The part where you got out of the way.” ˢᵉⁱ
 
-She let him finish.
+“That was most of it.” ᴺᵃ
+
+“I noticed.” ˢᵉⁱ
+
+Nazuna laughed and took the seat beside her.

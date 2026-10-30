@@ -2670,3 +2670,7 @@ V47#17–19: specific consenting loans in existing rooms/Fort, no automatic new 
 ### S8 festival — V47#20–22, 2026-10-30
 
 V47#20–22 closes authorized festival section ONLY AFTER actualB47Innreturn+currentbedsfit+prospectiveHQlist+houseownedtownproposals. ShizuegoesRhouse;5pupils3nights/HinatareturnB50 retained exactly. All1560olderchaptersunchanged. 6615/stat200/0/520/gear/sequelae/currency preserved; RoldShizuecoinonlyspent. No newtownbuilt/nextenemy/Walpurgis/WitchHat/masssummons. S8continues BUT NEXTARCREQUIRES NEWGREENLIGHT. Clean handoff links producedfacts/sourceauthorities, no sealedchoices consulted.
+
+### S8 — Corrección de presencia de Ko, 2026-10-30
+
+Mauri: «aun no traemos a Ko que ask ahi». Ko NO ha llegado a esta rama. Corregidas únicamente sus apariciones físicas erróneas en V45#5, V46#7, V46#10 y V47#13; amistad Seika/Nazuna y pelea/resultados conservados. Metadatos/registro/relevo/propuestas dejan clara la ausencia; mensajes íntegros originales preservados. Sin llegada retroactiva, moneda, alteración de conteos o nuevo arco. [Regla efectiva](S8_KO_NOT_ARRIVED_CREATOR_CORRECTION_2026-10-30.md).

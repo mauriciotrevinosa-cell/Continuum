@@ -1,5 +1,7 @@
 # The Arrivals — Esqueleto propuesto: cierre de S7, convergencias, Makima y respuesta del hogar
 
+> **Ampliación S8 — 2026-10-30:** [Mensaje íntegro: Mau/Yuka con Rimuru, Shizue, decisiones de Tempest, amigos interiores, Walpurgis, Witch Hat y hermano de Richeh](S8_TEMPEST_SHIZUE_INNER_FRIENDS_WALPURGIS_WITCH_HAT_CREATOR_EXTENSION_2026-10-30.md). Ramiris deseada sin primera pelea; manifestación interna de Ciel elegida por ella; nombre de Noise pendiente. Informes, comunidad y acuerdos sin cerrar S8 ni dar llegadas o capítulos por producidos.
+
 > **Segunda sección S8 propuesta — 2026-10-29:** [Tempest, elección deRimuru, contención, festival/torneo, loft/familias, obras y economía](S8_TEMPEST_RIMURU_CHOICE_FESTIVAL_HOUSING_AND_TRADE_CREATOR_PROPOSAL_2026-10-29.md). Mensaje íntegro. Aclaración expresa: sólo red comercial entre ciudades limitada a monedas/cristales; técnicas personales conservadas. [Cotejo y candidatos](S8_TEMPEST_SOURCE_NOTES_AND_ARRIVAL_CANDIDATES_2026-10-29.md), no llegadas fijadas o prosa nueva.
 
 > **Protección precisada por el creador — 2026-10-29:** [Perímetro/admisión, no policía automática interior](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md#4-protección-admisión-vulnerable-y-ausencia-de-vigilancia-automática-interior). Makima aprovecha la falla para entrar; ya dentro, el enojo de Mau no activa expulsión/muerte o veto automático de la gate. Se descarta la demora de reevaluación que propuso el asistente. Ataques e intrusiones desde fuera conservan su bloqueo. Sin cambios de capítulos.

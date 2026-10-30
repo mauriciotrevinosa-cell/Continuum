@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Ampliación S8 — 2026-10-30:** [Mensaje íntegro: Mau/Yuka con Rimuru, Shizue, decisiones de Tempest, amigos interiores, Walpurgis, Witch Hat y hermano de Richeh](S8_TEMPEST_SHIZUE_INNER_FRIENDS_WALPURGIS_WITCH_HAT_CREATOR_EXTENSION_2026-10-30.md). Ramiris deseada sin primera pelea; manifestación interna de Ciel elegida por ella; nombre de Noise pendiente. Informes, comunidad y acuerdos sin cerrar S8 ni dar llegadas o capítulos por producidos.
+
 > **Segunda sección S8 propuesta — 2026-10-29:** [Tempest, elección deRimuru, contención, festival/torneo, loft/familias, obras y economía](S8_TEMPEST_RIMURU_CHOICE_FESTIVAL_HOUSING_AND_TRADE_CREATOR_PROPOSAL_2026-10-29.md). Mensaje íntegro. Aclaración expresa: sólo red comercial entre ciudades limitada a monedas/cristales; técnicas personales conservadas. [Cotejo y candidatos](S8_TEMPEST_SOURCE_NOTES_AND_ARRIVAL_CANDIDATES_2026-10-29.md), no llegadas fijadas o prosa nueva.
 
 > **Dungeon y vuelta propuestos — 2026-10-29:** [Restricciones externas, límite del Arquitecto, Monarch falso y regreso](S8_DUNGEON_RESTRICTIONS_BODY_CAP_FALSE_MONARCH_AND_HOMECOMING_CREATOR_DIRECTION_2026-10-29.md). Espalda/Deer/RCT/recuperación, evolución bajo supresión del dungeon, brecha/Arise/cruce; anillo/Ciel/baño/Yuka y todos los puntos gastados/Umaru/Noise. Balance delegado: ×5 recibido/10% efectivo, curación reducida sin porcentaje fijado. Mensajes íntegros; no niveles/censos finales o capítulos producidos.

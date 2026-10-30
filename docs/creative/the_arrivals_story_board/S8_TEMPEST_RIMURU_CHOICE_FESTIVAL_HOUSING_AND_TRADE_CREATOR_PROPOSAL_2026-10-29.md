@@ -1,5 +1,7 @@
 # S8 — Tempest, elección de Rimuru, festival y evolución del hogar
 
+> **Ampliación S8 — 2026-10-30:** [Mensaje íntegro: Mau/Yuka con Rimuru, Shizue, decisiones de Tempest, amigos interiores, Walpurgis, Witch Hat y hermano de Richeh](S8_TEMPEST_SHIZUE_INNER_FRIENDS_WALPURGIS_WITCH_HAT_CREATOR_EXTENSION_2026-10-30.md). Ramiris deseada sin primera pelea; manifestación interna de Ciel elegida por ella; nombre de Noise pendiente. Informes, comunidad y acuerdos sin cerrar S8 ni dar llegadas o capítulos por producidos.
+
 **2026-10-29. Propuesta extensa del creador, conservada íntegra. Planificación, no capítulos ni llegadas producidos.** Segunda sección propuesta después del dungeon y regreso deMau. [Primera sección y vuelta](S8_DUNGEON_RESTRICTIONS_BODY_CAP_FALSE_MONARCH_AND_HOMECOMING_CREATOR_DIRECTION_2026-10-29.md) · [Entrada Makima/protección](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md) · [Yuka/Mahoraga](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md) · [Cotejo acotado de fuentes](S8_TEMPEST_SOURCE_NOTES_AND_ARRIVAL_CANDIDATES_2026-10-29.md).
 
 ## 1. Mensaje íntegro del creador

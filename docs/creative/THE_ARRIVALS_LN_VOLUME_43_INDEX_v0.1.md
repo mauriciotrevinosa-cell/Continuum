@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 43
 **Season:** 8
-**Coverage:** S8E01–S8E10 (in progress)
+**Coverage:** S8E01–S8E13 (in progress)
 **Volume title:** **The Afternoon He Kept** (provisional)
-**Chapter files:** 25
+**Chapter files:** 31
 
 Continuous days from the end of S7, then the authorized rescue/trap and dungeon arc. Chapter and volume estimates remain flexible; no padding or compression to hit a quota. Side-character scenes may be shorter. Production draft for creator review, not automatic approval.
 
@@ -40,3 +40,9 @@ Continuous days from the end of S7, then the authorized rescue/trap and dungeon 
 | 23 | S8E09 | A Crown Without a King | `THE_ARRIVALS_S8E09_LN_CHAPTER_01_A_CROWN_WITHOUT_A_KING_v0.1.md` |
 | 24 | S8E09 | What His Hands Can Do | `THE_ARRIVALS_S8E09_LN_CHAPTER_02_WHAT_HIS_HANDS_CAN_DO_v0.1.md` |
 | 25 | S8E10 | A Hundred and Twenty-One | `THE_ARRIVALS_S8E10_LN_CHAPTER_01_A_HUNDRED_AND_TWENTY_ONE_v0.1.md` |
+| 26 | S8E10 | Two Skies of Fire | `THE_ARRIVALS_S8E10_LN_CHAPTER_02_TWO_SKIES_OF_FIRE_v0.1.md` |
+| 27 | S8E11 | The Small Part First | `THE_ARRIVALS_S8E11_LN_CHAPTER_01_THE_SMALL_PART_FIRST_v0.1.md` |
+| 28 | S8E11 | Let Him Turn | `THE_ARRIVALS_S8E11_LN_CHAPTER_02_LET_HIM_TURN_v0.1.md` |
+| 29 | S8E12 | Summer on the Other Side | `THE_ARRIVALS_S8E12_LN_CHAPTER_01_SUMMER_ON_THE_OTHER_SIDE_v0.1.md` |
+| 30 | S8E12 | What the Room Cannot Keep | `THE_ARRIVALS_S8E12_LN_CHAPTER_02_WHAT_THE_ROOM_CANNOT_KEEP_v0.1.md` |
+| 31 | S8E13 | A Winter Someone Made | `THE_ARRIVALS_S8E13_LN_CHAPTER_01_A_WINTER_SOMEONE_MADE_v0.1.md` |

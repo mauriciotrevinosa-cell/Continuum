@@ -2536,3 +2536,8 @@ V43#13–20 conserva todos los previos, desarrolla recuperación por escenas has
 ### S8 — V43#21–25, 2026-10-30
 
 Creador reitera continuar hasta propuesta del torneo. Nuevos21–25 desarrollan táctica, tiempo vivido, cambio deBeru y registro153/7/Int485sinbajaspermanentes. Chloe niña, Chronoa sostiene carga como adaptación, no canon fuente inventado; mensajecompletoguardado. No cierreporpush.
+
+
+### S8 — V43#26–31, 2026-10-30
+
+Continuaciónhastaendpoint: desarrolla pelea de calamidades y reconstrucción precisa conBeru/ownRCT, tiempo vividohasta368días, registro197/15/Int510ycapdiseñado200. MonarchFrostesrepresentaciónnooriginal, aúnsinArise/recompensafinal. Siguenescape/regresocompletosantesdeYuka/Tempest; nocomprimirporalcan zarcifra.

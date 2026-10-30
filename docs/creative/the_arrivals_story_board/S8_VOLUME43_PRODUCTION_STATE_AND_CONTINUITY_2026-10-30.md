@@ -31,42 +31,40 @@
 | 23 | S8E09 CH01 | Subjective day46 | Beru faces constructedfalseking underwithdrawalplan, ownerprotectsides; kills/absorbsusefulpattern withNoise, no secondBeru. |
 | 24 | S8E09 CH02 | Subjective day47 | Earned heal-other test, care/firstroommeaning,139/52reward then40spent→12/Int480. |
 | 25 | S8E10 CH01 | Subjective day121 | Eightloggedsorties+14levels to153/82; spend75→7/Int485; actual camp/records and repeatedphasechangeobservation. |
+| 26 | S8E10 CH02 | Subjectiveday122 | Pairedcalamities/team/nativewheelparticularfire; seriousfreshchest/sideinjury, Beruhealinghelps, no rewardyet. |
+| 27 | S8E11 CH01 | Continuouscriticalrepair | Beruholdsonepart, ownRCT/Noise/localfilter preciseexistingrepair,7Vitality→0held, Yuka memorymotive notfuel; teamfieldholds. |
+| 28 | S8E11 CH02 | Pairedcalamityclear | Kamish/Mau/teamfinishboth, realcost/care;160/35reward,30spent→5/Int485, no newdragonextraction. |
+| 29 | S8E12 CH01 | Subjectiveday276 | Tenclears/livedcamp/rain,183/120then115spent→5/Int495; Architectmisreadcountered, records/worldoutsideunknown. |
+| 30 | S8E12 CH02 | Subjectiveday367 | Elevenfurtherclears→197/75,60spent→15/Int510; designceiling200, physicalgapplan, familyrecords stored, Frostconstructahead. |
+| 31 | S8E13 CH01 | Subjectiveday368 | ConstructedFrostMonarch/teamfight, freshinjuries/Igrispaidrebuild, crowncoredefeated; rewardunopened, transitionimminent. |
 
 ## Current state
 
-**Current:** V43#25/S8E10 CH01, subjective day121. Dungeon unfinished. Outside still B+19, only minutes previously observed; do not map121days to household calendar. Continue paired calamity encounter, earned body/RCT refinement, later falseMonarch and escape; no artificial volume endpoint.
+**Current:** V43#31/S8E13 CH01, subjective day368. Constructed Frost-pattern monarch defeated, reward not opened, extraction NOT performed. Arch starting transition; imminentescapeplan not executed. Outside B+19, totalhournotyetreported. Continue Arise/recall/physicalcross→fullhomecoming, not anotherboss or fadeout. Volume inprogress until coherent landing.
 
-## Base and continuity
+## Exact quantities
 
-All opening chapters1–20 intact. Makima false acquaintance→Pell confession→Yuka threat→DIO exit before trap→Ciel cut. DIO weak physically at house, Ashborn voluntary physicalguest reading at house; stored imprint/connection can explain Architect misread without prisonerpossession. Household active, Ori with Frieren, children not guilty for mentioning guest. Ciel has no inner surveillance; hostconnection not abandonment. Army inward recalls/localExchange work, outward message/Exchange blocked by trial. No global rule change outside.
+Entry126/57/Int460. Now197/15/Int510, pending lastreward.71levels×5=355earned;57entry=412available;397spent,15held. S8cumulative deltasStrength95,Dexterity95,Vitality97,Perception60,Intelligence50 (sum397). First4absolutes not invented. Actuallevels:128afterflock;130bridge;136fourclears;139falseBeru;153eightsorties;160pairedcalamities;183tenclears;197elevenfinalclears. Newstats/levelsnotheals.
 
-First guardian caused severe back injury; care/Deer/RCT, full two-week recovery scenes, stable back but old permanent impairments preserved. Second flock and bridge demonstrate army cooperation/retreat/technique switching. No perfect multiroute/domain or guaranteedBF. Native Mahoraga can adapt an attack, not claim control over external owner of damage transfer. Grey exceptYuka/leftblur/2stifffingers/scars/whitepatch remain.
+Allocationdetail since25:26nochange;27remaining7Vitality→153/0/485;28+7levels/+35points→160/35, spend30(10Str10Dex10Vit)→5;29+23levels/+115points→183/120, spend115(30Str30Dex25Vit20Per10Int)→5/Int495;30+14levels/+70points→197/75, spend60(10Str10Dex10Vit15Per15Int)→15/Int510. Ceilingconfigured200visible, Architect's allocationdesignnotuniversalpotential.
 
-## Effective events21–25
+Legion1014=997ordinary+16named+1giftedsentinel intact. No newMonarchunit yet. Numerousformreconstructions paidincludingIgris31, no permanentcasualties; prior13ordinaryquantified early, latermore, do not imply13istotal. Battledeploymentsexpandedtask-based; ownKamish/Kaisel/Lantern/Fang/Bellion/Igris/Beru andordinarycompanies, nativeAgito/Mahoraga/Deer separate fromregistry. No originalRuler/Monarch killed.603small/4pylon/12boss retained; no newcrystal/coin purchases. Katana/daggerpair retained; records/originalshirt/box storedbeforefinalfight.
 
-21/day20: physical movingbridge cavalry,24additionalordinary summoned so30ordinarypresent, commanders+Fang, no recruitednewunits. Grip/flight and sequential copiedroutes, bridgepositioning, structuralcollapse,10ordinaryforms rebuiltpaid. Reward128→130/+10points57→67.
+##26–31 produced
 
-22/day45:4further activeclears logged (gully,fallingstone,twootherlongroutes), +6levels130→136/+30points67→97. Spend60:15Strength15Dexterity10Vitality10Perception10Intelligence.37held/Int470. Campwork/records/oldshirt/voiceabsence handled without distrustfamily. No source memory cured, originalshirtwashedkept, replacementplainenvironmentalclothnobuff.
+26/day122 pairedconstructeddragoncalamities: widebasin, ownerKamishacts, skydragons/Agito/armylinesprotect, nativeMahoragalearns FIRSTfire only, cannotadaptabstractroomcontrol/secondimpact. SequentialCEcopies vssecondattackinjuresMauchest/sidecritically.27Beruheal-otherholdsonepart, MauownRCT+oldlocalfilter/Noise reconstructsmallerparts underrestriction,7Vitalitypurchase increasescapacitynotheal. MemoryYukamotivationnotfuel. Teamholdsfield, he acceptshelpmoving/standing.28teamtimingKamishrelease/Redeye/focusedjointfinish, secondgroundcollapse+focusstrikes, seriousfreshrepairafterwards. No repeatedBeruconsumptionviscera.
 
-23/day46: falseantking constructed, not sourceoriginal. Beru asks to face it under Bellionwithdrawalcondition, owner/army protectsides, observesregeneratingpattern. Beru obeyswithdrawal, MauBlueopensangle thenrelease, BerupullsstructurewhileNoise readscapturedpatternwithownerpermission. No humanoriginalsoul or secondregisteredBeru. Clear reward readnextchapter, blueprint not practicalhealingyet.
+29/day276:10loggedsorties include rainforest, actualcamp/life/reviews, body/refinement. Architectvoice saysMonarchregainingformerlevel; MaucountersnotAshborn/notwilling, no possession. Oldworldsummerunknown; noteskept, voicesilenceonceperrestnotspiral.30/day367:11furtherloggedclears, bodycap200noticed, repeatedtransitionintervalfinallyreachablebutnotstableExchangeaddress; needphysicalspeed/strength/timing. Storesrecords/oldshirt, entersconstructedFrostpattern.31/day368:icearmy, retreatcommands, sequentialInfinity/Blue/sky/Shrine/LimitlessRedBluewithindependentgrip/flight; nativeMahoragaspecificattackadaptationguard. OwnAgitoanddragonsrealrole, Igrisformbreak/rebuildpaid. Coldfigureconstructednotoriginalsourcegod; crowncore defeated via openedhandangle/team. Mau freshforearminjury/ribcut/blood, bodyrepairpartial, Beru nearby; lessvisceralthanoldBeruA. Transitionstartingwhilelastrewardwaiting.
 
-24/day47: practicalconsentedtest on smallfreshMauarmcut; starts/stops/narrows, Noise existinglink reconstruction, healing-other works under suppression. Oldscar/fingers unchanged; Beru gains actual earned heal-other, not free fullcanonbag/omnipotence. Carefirstroomnotworthless. +3levels136→139/+15points37→52; spend40(10Strength10Dexterity10Vitality10Intelligence),12held/Int480.
+## Home/cast guardrails retained
 
-25/day121:8additional active sorties logged including shiftingarmy slope,2ruler-patternrepresentations (manufactured/notrealRulerskilled), otherclears in writtenrecord. Collective+14levels139→153/+70points12→82; spend75(20Strength20Dexterity20Vitality10Perception5Intelligence),7held/Int485. Actual campconversation/records/washedshirt and repeated transition hypothesis. No escape solved; no Monarch extracted yet.
+Trapped>year byactualcount368, exterioronlyminuteslastseen; eventualonehourexteriorstilltoreport. DIOphysicallyouthouseBEFOREcapture, Ashbornvoluntaryphysicalhouseguest; Architectmisreadretainedsignature, no imprisonedguest. Cielperson/Rimuruoutwardcut, localnon-speakingMiniCiel/Noisepresent; armyinwardcall/localExchangeonly, no outgoingmessage/exchangebypass. Homenointeriorinjury/kill/growthknowledge. Yuka/Maki/Yutaacceptanceintact, ringordinaryLEFT/familyringbraceletseparate; roomsince746, no weddingdate/sex/pregnancy/newloft. OldgreyexceptYuka,leftblur,twofingers/scars/whitepatchpersist.
 
-## Numeric record
+Beru heal-otherearned24andrefined, NOTallmagicalcureornewvoice. Endbodymusclepermanent; roomdamageclampaffectstargetimpact, not everyvoluntarymovement. Woodalreadycrackedfromforce29foreshadowsgraduation; avoidclaimwholeworldwasmoving10%speed. Afterlastpurchasesmustrelearnimpactdosingwhenoutsideprotectedtargets. No infinityCE; sources/throughputseparate.
 
-Entry126/57/Int460. Current153/7/Int485.27levels×5=135gained, plus57entry=192available;185spent,7held. S8delta totals:Strength45,Dexterity45,Vitality45,Perception25,Intelligence25 (sum185). Historical absolutes of first4entries not invented. No leveluphealing. Currentlegion1014 unchanged, regular restorationpaid, no permanentcasualties/recruits.13ordinaryformbreaks quantified throughbridge, laterloggedsorties paidlosses without pretending exhaustivebreakcounter; maintain registry, no duplicateunits. No new crystals/coins/gear rewards.603small/4pylon/12bossoldstock; daggers/sourcekatana retained, no buffsunequipped.
-
-Beru advanced healing nowearned/tested, furtherrefinement requiresuse. Fang/Igris/Bellion currentabilities, rank refinements notautomaticnew named shadow.30ordinaryatbridge, laterreservesrotated asactualcommands, not all1014standingin everyroom. Deer nativeown separate, Mahoraga/Agito separate fromlegion. Army sustenance/rebuildthroughMau notfree mana synonymCE.
-
-## Family and coauthor instructions
-
-EngagedB+15, ordinaryringYukaLEFT, originalfamilyring/braceletseparate. Sharedroomsince746/map/book/hoodieownershipsame. No sex/pregnancy/weddingdate/newloft. Home hasno knowledgeofinsidekills/injury/growth. Hinata gradualsibling/compatriot, Chloe familialFort/Yuka, VeldorapersonalityandRimurusafe-fightban, Shionsecretarylimit/Diabloexample still future. [Chloe child/Chronoa full decisions and endpoint reiteration](S8_CHLOE_CHILD_CHRONOA_AND_CONTINUATION_CREATOR_DIRECTION_2026-10-30.md).
-
-Continue until tournamentproposal, do not stopatpush orvolume. Next:twoKamishlikecalamities realfight, body/RCTnear-limit withmeaningfulcost, laterfalseMonarch and transitionescape. Morethanayearinside/onehourexterior and fullhomecomingscenes muststillbe produced. Numericcap/distribution torecordwhenitactuallyoccurs. No source-canon claims about inventedconstructs.
+Next:lastreward→allocationallremaining→Ariseconstructedfrostshadow (notactualMonarchsoul), store/recall and physicaltransitionescape. Beru'sfullhealingpostponedonlybecausewindowisclosing, notdramaticselfpunishment. Thenring/Ciel/homebath/YukaUmaru, trueaftermathbeforeYuka/Tempest, continueuntiltorneoproposal. [Chloechild/Chronoa latestdecision](S8_CHLOE_CHILD_CHRONOA_AND_CONTINUATION_CREATOR_DIRECTION_2026-10-30.md) isadaptationnotcompletecanonclaim.
 
 
 ## Next
 
-Continue pairedcalamities/refinement, then falseMonarch/escape/homecoming; no stoppingatcheckpoint. Scopecontinues to tournamentproposal.
+Continue immediately Arise/lastallocation/recall/physicalescape then fullhomecoming, no stoppingatcheckpoint. Still197/15pendingreward,1014armybeforeextraction.

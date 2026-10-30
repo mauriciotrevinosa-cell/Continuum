@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción S8 — V43#1–25, 2026-10-30:** V43#1–25: combate de puente, vida dentro y capacidad de Beru ganada y probada; el dungeon continúa. Verde de Chloe niña/Chronoa y orden de seguir hasta antes del torneo guardados. [Índice](../THE_ARRIVALS_LN_VOLUME_43_INDEX_v0.1.md) · [Estado y relaciones](S8_VOLUME43_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md) · [Verde y consultas](S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md).
+> **Producción S8 — V43#1–31, 2026-10-30:** V43#1–31: dos calamidades, refinamiento bajo restricciones y Monarch construido. La salida y el regreso siguen inmediatamente; no cierre del encargo por este respaldo. [Índice](../THE_ARRIVALS_LN_VOLUME_43_INDEX_v0.1.md) · [Estado y relaciones](S8_VOLUME43_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md) · [Verde y consultas](S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md).
 
 > **Esqueleto parcial para revisión — 2026-10-30:** [Inicio de S8 hasta la propuesta del torneo](S8_OPENING_TO_TOURNAMENT_PROPOSAL_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-10-30.md). Aproximadamente 65 capítulos (56–76), unos tres volúmenes con fronteras móviles. El corte conserva protesta de Rimuru y respuesta de Diablo; no incluye los combates del torneo. Propuesta pendiente de luz verde, sin prosa nueva ni cierre de S8.
 

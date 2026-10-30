@@ -2546,3 +2546,8 @@ Continuaciónhastaendpoint: desarrolla pelea de calamidades y reconstrucción pr
 ### S8 — V43#32–35, 2026-10-30
 
 V43#32–35 cumpleescape/regresosinresumen:200/0/Int520, total427puntosinvertidos;RimefalsoMonarch1015registro,nofalsocanonoriginal. Ring/privateCiel/missedspot/bath/holdyou/UmaruIlikeher/familyrestconservados.35capítulosresultadoescenas,nocuota.SigueV44hasta tor neoproposal, no deteneralpush.
+
+
+### S8 — V44#1–5, 2026-10-30
+
+V44 continúa sin nueva petición de permiso. Escenas de casa/pareja y retorno propio cuarto; YukaTigerAgitoMahoraga ganados/conprotocoloclaro, no regaloautomatico ni familiassacrificadas. Kamishtercerremate, gratitud/duofuturo;200/0/1015sinmover. Siguealcancehastaantesdeltorneo.

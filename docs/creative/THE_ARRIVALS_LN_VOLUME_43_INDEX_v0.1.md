@@ -13,6 +13,8 @@ Continuous days from the end of S7, then the authorized rescue/trap and dungeon 
 
 **Volume43 closes with Mau back at home. S8 continues; the authorized tournament-proposal endpoint has not yet been reached.**
 
+[Continue in Volume44](THE_ARRIVALS_LN_VOLUME_44_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

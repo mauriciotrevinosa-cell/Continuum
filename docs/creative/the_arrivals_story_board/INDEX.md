@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción S8 — V43#1–35, 2026-10-30:** V43 completo: salida física y regreso con anillo/Ciel/Beru, baño y descanso con Yuka. Continúa S8 en el aftermath y los vínculos/progresión acordados antes de Tempest; no cierre del encargo. [Índice](../THE_ARRIVALS_LN_VOLUME_43_INDEX_v0.1.md) · [Estado y relaciones](S8_VOLUME43_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md) · [Verde y consultas](S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md).
+> **Producción S8 — V44#1–5:** V44#1–5: recuperación cotidiana, progreso propio de Yuka y ritual acordado; siguen Tempest y la propuesta del torneo. [Índice](../THE_ARRIVALS_LN_VOLUME_44_INDEX_v0.1.md) · [Registro](S8_VOLUME44_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md).
 
 > **Esqueleto parcial para revisión — 2026-10-30:** [Inicio de S8 hasta la propuesta del torneo](S8_OPENING_TO_TOURNAMENT_PROPOSAL_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-10-30.md). Aproximadamente 65 capítulos (56–76), unos tres volúmenes con fronteras móviles. El corte conserva protesta de Rimuru y respuesta de Diablo; no incluye los combates del torneo. Propuesta pendiente de luz verde, sin prosa nueva ni cierre de S8.
 

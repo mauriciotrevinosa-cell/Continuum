@@ -2662,3 +2662,7 @@ V47#9–12 userarmyfirstpublicdisplay6574actualavailable+41home=6615kept, realtr
 ### S8 festival — V47#13–16, 2026-10-30
 
 V47#13–16 livedrelationshipchoices/Roof/RIMURUowncoinchoice andexactCREATORShizuedyingmemory/youngadultstablebodyWITHOUTIFRIT plusPRIVATE DIO smallupgradeline. Oneknowncoinspentnotnewreward. NEWcreatortripreplyverbatimkept: SgoesRhouse5studentstemporary,Hinaoffersreturn; actualinvitationwrittenownagencylogisticsnext. All1553olderchaptersintact. ContinueactualInnreturn/HQproposalcutoff.
+
+### S8 festival — V47#17–19, 2026-10-30
+
+V47#17–19: specific consenting loans in existing rooms/Fort, no automatic new wing/eviction/ArrivalHouse; students3nights and Hreturn B50 fromB47home, Shizue goes now. Own Tempest agency/MY futurefloorplan/favor debt andeastwindow/housecoinchoices lived. All1557older chapters intact; continue actual returnhome and cutoff, not construction.

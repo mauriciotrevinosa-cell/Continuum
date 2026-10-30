@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 47
 **Season:** 8
-**Coverage:** S8E46–S8E53 (in progress)
+**Coverage:** S8E46–S8E55 (in progress)
 **Volume title:** **The People Who Stay** (provisional)
-**Chapter files:** 16
+**Chapter files:** 19
 
 The authorized festival continuation. Chapters follow scene needs; central conversations and fights are not constrained by the length of secondary interludes. Production draft for creator review.
 
@@ -31,3 +31,6 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 | 14 | S8E52 | The Coin He Had Kept | `THE_ARRIVALS_S8E52_LN_CHAPTER_02_THE_COIN_HE_HAD_KEPT_v0.1.md` |
 | 15 | S8E53 | A Small Upgrade | `THE_ARRIVALS_S8E53_LN_CHAPTER_01_A_SMALL_UPGRADE_v0.1.md` |
 | 16 | S8E53 | All Five | `THE_ARRIVALS_S8E53_LN_CHAPTER_02_ALL_FIVE_v0.1.md` |
+| 17 | S8E54 | A Place at the Table | `THE_ARRIVALS_S8E54_LN_CHAPTER_01_A_PLACE_AT_THE_TABLE_v0.1.md` |
+| 18 | S8E54 | An East-Facing Window | `THE_ARRIVALS_S8E54_LN_CHAPTER_02_AN_EAST_FACING_WINDOW_v0.1.md` |
+| 19 | S8E55 | Leave Room for an Answer | `THE_ARRIVALS_S8E55_LN_CHAPTER_01_LEAVE_ROOM_FOR_AN_ANSWER_v0.1.md` |

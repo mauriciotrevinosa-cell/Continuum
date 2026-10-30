@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 45
 **Season:** 8
-**Coverage:** S8E28–S8E33 (in progress)
+**Coverage:** S8E28–S8E35 (volume complete; S8 continues)
 **Volume title:** **A City Full of Invitations** (provisional)
-**Chapter files:** 12
+**Chapter files:** 16
 
 The authorized festival continuation. Chapters follow scene needs; central conversations and fights are not constrained by the length of secondary interludes. Production draft for creator review.
 
@@ -27,3 +27,7 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 | 10 | S8E32 | Nothing We Have to Carry | `THE_ARRIVALS_S8E32_LN_CHAPTER_02_NOTHING_WE_HAVE_TO_CARRY_v0.1.md` |
 | 11 | S8E33 | Someone to Ask | `THE_ARRIVALS_S8E33_LN_CHAPTER_01_SOMEONE_TO_ASK_v0.1.md` |
 | 12 | S8E33 | Before Anyone Could Win | `THE_ARRIVALS_S8E33_LN_CHAPTER_02_BEFORE_ANYONE_COULD_WIN_v0.1.md` |
+| 13 | S8E34 | The Names Below His | `THE_ARRIVALS_S8E34_LN_CHAPTER_01_THE_NAMES_BELOW_HIS_v0.1.md` |
+| 14 | S8E34 | The Song She Had Found | `THE_ARRIVALS_S8E34_LN_CHAPTER_02_THE_SONG_SHE_HAD_FOUND_v0.1.md` |
+| 15 | S8E35 | An Act of War | `THE_ARRIVALS_S8E35_LN_CHAPTER_01_AN_ACT_OF_WAR_v0.1.md` |
+| 16 | S8E35 | Before Tomorrow | `THE_ARRIVALS_S8E35_LN_CHAPTER_02_BEFORE_TOMORROW_v0.1.md` |

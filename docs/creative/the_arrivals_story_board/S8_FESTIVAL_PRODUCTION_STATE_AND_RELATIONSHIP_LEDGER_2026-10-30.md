@@ -32,8 +32,14 @@
 | V45#10 | S8E32 CH02 | B+39 lateafternoon/evening | Full M/Y private dinner, futureownspace/table/tree/commonroom/familynear, no construction. Shared inner eveninglights, colourcondition intact. |
 | V45#11 | S8E33 CH01 | B+39 evening | Rem chooses Shoko/Mau consultation, feeling welcomed/no diagnosis; then actively seeks Umaru, tomorrow invitation. |
 | V45#12 | S8E33 CH02 | B+40 morning | Second limited arena tests/consensualtinyUV Yuta/medicalchecks, universalrules exclude irreversibleunverifiedeffects; clock/boundary/contractcosts. Guy watchesbychoice, M/Yenterintent. |
+| V45#13 | S8E34 CH01 | B+40 midday/afternoon | Actual32registrations/newcombatantintroductions/currentaccessnotcomposites, integratedanalysersdeclared; Mauarmyreserved, ChloechoosesFort. |
+| V45#14 | S8E34 CH02 | B+40 afternoon | MauBocchisiblingmusicpromise fulfilled/Yukajoin, Kessokuownlearningjoy, futurehomeafternoonchosen/notforcedperformance. |
+| V45#15 | S8E35 CH01 | B+40 lateafternoon | ExactHQ/Fortactofwar/briefdelegateconcern/Rimurusweetsbribe/distantdoublinggag. Nicknamesticksnotactualcapital. |
+| V45#16 | S8E35 CH02 | B+40 evening/night | OriMYgoodluckvisit/drawing, boatpackedgoesMum/Himmelwalk, twoFortgiftbasketsdelivered, MYquietnight. V45closesprecontest,V46continuesimmediately. |
 
 ## Current state
+
+**LATEST: V45#16/S8E35CH02, B+40 night. V45 complete at the natural pre-contest pause; immediately continue V46 B41 opening rounds.**
 
 **Active:** V45#4/S8E29CH02, B+38 afternoon. V45 first4 drafted/published in this checkpoint. V44completeasdraftthroughfirstwelcome/council/familyinTempest; S8festivalCONTINUESimmediatelyV45withoutpermissionrequest. Mau/Yuka/Rimuru walktolunch; YukaShionShunaslimehandoff/comedymealnext.14newfestivalchapters#13–26. CreatorcutoffstillInnreturned/listHQ/proposals, not reached. Newvolumeisnaturalstageboundarynotastop.
 
@@ -109,3 +115,16 @@ Rem B39evening asksShoko/Mau availability/privateconversation; Yuka goesMai free
 B40Ramirissecondchecks physicalregistration/objectcarried/hostforcedreturn againstongoingpull successful underpreagreedrules. Gojo tinyconsensualinformationexposureYutalimited+checks/repeatwithconsent. No universalunlimitedexposureorirreversiblesouldamageproof. Suchunverifiedeffectsexcludeduniformly. Gojo testedinterval ceiling written: cannotenlargeexposurebecauseoneworked. No newuserRct/brainpowers. ControlledrefereestopbeforelethaldamageespeciallyMauguests/uncertifiedareas; no bodykillingexperiment. Luminousasksbetterquestions/observes. Guy readsconditionsCHOOSES WATCH (no sourceceilingdecreased or forcedloss), Leon/Luminousinterestedmustdeclarecards/reservesbeforeentry. 3minuteopeningroundclock fromJinshicalculation, fixedboundarymaynotbemovedtowin, beyondincludingflight/shadowcount, no kneeauto-loss, surrender/unablecontinue/clocktechnicaldecision. No outsidecompetitorhelp; integratedexistinganalysis declared separatelylaterifneeded. Yuka declaresexistingcontractaccess/individualdecisions/finitejointcost, reciprocalspacing, noMautacticallypiloting. FirstM/Yregistrationintent now, no finaldraw. No stat/army/currency changes. Continueactualcompetitorregistration/worldsourcepointscopebeforecombat; no Infinityautowin/timegodallmaxcomposites.
 
 CurrentreaderactiveV45#12B40morning. Allolderstateparagraphs historicalwherepassed, producedtableauthoritativechronology. Stillnotfestivalcutoff, continue afterpush.
+
+
+## V45#13–16 registration / ordinary life / HQ gag / Ori
+
+32actualentrantsselected accordingto newcompetitiondesignlinkedproductiondoc. NewonpageSoueiHakuroRangaGobtaGabilGeld/trioTestarossaUltimaCarrera/FreyCarrion/Masayuki; namedbodyprelateevolution version, allcurrentlocaltoolsdeclarednotallseriesmax. Guychooseswatch. ChloeconsultsowninternaldifferencechoosesFortnoadultforcedform. Mau integratedanalysisdeclaredsameasotherworlds,noexternalcompetitorfeed; voluntarilyNOarmyindividualmatches (not lostunits). Yukaownpowerscontractcostsretained. Fullfield14house+18others, source/crossovercheckscopefile retained not publicrankproof. No guaranteedwinbyInfinity/mindimmunity or timesuspension allmax. SourcebooksnotreadbecauseemptyVault.
+
+Bocchi musicpromise paid B40afternoon. Kessokuchooseslisten/learn, permissioninstruments, no forcedconcert/rental/purchase; MYjoinlisten, Bocchisharesowninterest/asksagainathomeMauaccepts. MarinWakanaownstreetinterest/Mayinvitenext, agencyretained. Seikacontinuespracticalsupportnotobligatorybandgig.
+
+HQgag FULLYPAID #15: Umarufirsthearsofficialcorrespondencename, injustice/actofwarFort/punishment, briefgenuineofficialuncertainty/Gazelrestrainsescalation/Rlaughsbribeonebigsweetbasket, thankcooperation/shegoesFort/Rtellothersbribewithsweets/distantshoutdouble/Rlaugh. No militaryorders/kingship/newcapital/invisiblebuilding. NameSTICKS. #16 TWOlargeTempestsweetbaskets ACTUALLYDELIVEREDgiftfromRcitypeopletoFort, noMaucurrency. Foodpartlybeingdividedeveningnotnewindustrialproduction.
+
+B40nightOrigoodluck visit M/YbeforeB41fights, existingpaperboatdriedplacedonsupportbyOriownchoiceforhome, then OriGOESWITHFRIEREN/MUM takingboat/tellfoldstory/Himmeljoinswalk. DrawinggivenM/Y (smallillustrationboundaryadvice); nowinsharedguestroom, packoracklater. CompassFrierenunchanged,nodadtitleforced. M/Ypromisegoodcheerevenloss notdeathpromise. Frieren/Himmelownongoingquietapproach, no oldAlovecompetition. MYquietnight/sharedroom, no explicitsex/pregnancy/newdatewedding. Rulepaperdownstairsnofurtherobsession.
+
+Next immediateV46B41. Drawshowninprosenotchat, firstdayopeningmatchesinterleavedrelationships/food/rest. Need corefightslongerandcomplete, no allfragmentshort. Followtournamentdesignpathsorchangeunpublishedifscenehonestlyrequires. NativeMahoYukaalreadyB26tamednotfutureunlock; no newNoisebuild; 6615unchanged/home40+Muster. Endcutoffstill far, continuepusheswithoutfinaluntilactualreturn.

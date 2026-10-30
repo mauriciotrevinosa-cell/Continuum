@@ -20,10 +20,14 @@
 | V44#24 | S8E26 CH02 | B+38 meetingcontinuous | Observedroads/mapsvsrumours, limitedarrivalcontroldisruptionreportnoDIOlocation; makersagencynotfactory, partialHinataarmreporttoLuminous/interestmeasure. No universalimmunity/treaty/newpowers. |
 | V44#25 | S8E27 CH01 | B+38 latemorningmeeting | Rimurulifechoice/currentcitywork/Shionsupport. HQnicknamefirststicks,no capital/kingappointed. Festivalcontestratifiedconditionaltestedvenue,Rimurunotprize; Umaruincidentstilllater. |
 | V44#26 | S8E27 CH02 | B+38 morning/noonoutsideandaftermeeting | Yuka/Shion/Shunaownouting, FortwithChloe/Kenya/Ryota/Gale/Alice, OriMumtime, fairgameRemUmaru. Anko/Hinatasecondchoseninvitation, ownYutaMakilife; M/RreturntolunchandYukalearnsHQ. |
+| V45#1 | S8E28 CH01 | B+38 noon | Slime handoff/traitor, Shion cooking evening invitation, Benimaru bravery. Private Shizue coin choice and Roof support; no summon. |
+| V45#2 | S8E28 CH02 | B+38 afternoon | Anko/Hinata chosen cafe and walk; mutual interest, respected private past, next time chosen. |
+| V45#3 | S8E29 CH01 | B+38 afternoon | Ramiris arena inspection/ordinary exits, limited physical target and surrender return tests. Mind/information/soul NOT verified; no lethal human test. |
+| V45#4 | S8E29 CH02 | B+38 afternoon | Maomao voluntary brownie/Just for today/hand/plants/meal with Jinshi. Couple privacy respected by Mau/Yuka. |
 
 ## Current state
 
-**Active:** V44#26/S8E27CH02, B+38 noon. V44completeasdraftthroughfirstwelcome/council/familyinTempest; S8festivalCONTINUESimmediatelyV45withoutpermissionrequest. Mau/Yuka/Rimuru walktolunch; YukaShionShunaslimehandoff/comedymealnext.14newfestivalchapters#13–26. CreatorcutoffstillInnreturned/listHQ/proposals, not reached. Newvolumeisnaturalstageboundarynotastop.
+**Active:** V45#4/S8E29CH02, B+38 afternoon. V45 first4 drafted/published in this checkpoint. V44completeasdraftthroughfirstwelcome/council/familyinTempest; S8festivalCONTINUESimmediatelyV45withoutpermissionrequest. Mau/Yuka/Rimuru walktolunch; YukaShionShunaslimehandoff/comedymealnext.14newfestivalchapters#13–26. CreatorcutoffstillInnreturned/listHQ/proposals, not reached. Newvolumeisnaturalstageboundarynotastop.
 
 ## Fixed current ledger
 
@@ -64,3 +68,12 @@ DepartureuntilHOMEreview pactactive: data/blueprintsallowed,newlivestructureshid
 V45startsB38noonimmediately:Mau/YukaRimurulunchwalk→Shion/Shuna askslime→Mauhandsover/traitor→RimurupromisesMauwilltryShionfood→Benimarubraveryjoke, withSOURCEversionofChef/appearancecheckedavoidlazyuncanonicalpoison. Thenactualcity/privateShizuechoicechatRoof, relationshipsandarenatests, entrantsintroductions. Publicupdateskeepcompetitionsecret. Broad75–110rangeflexiblealready14new,nofixedminimumorpadding.
 
 Completeallthroughvisit/tournament/demonstration/festivalafter/Shizuepersonalclosure/InnreturnandHQprospectiveresidentlist+townproposals. No actualwholepueblo/WitchHat/Walpurgis/massfamilysummonsnextarc. KeepfutureJinshiGaoshuncoinreserve/convergenceinvestigationandfamilytandaplanseeds, notinventcoinbalance. ContinueaftereveryGitpushandvolumeclose, no confirmationneeded.
+
+
+## V45 first afternoon / superseding creator clarification
+
+V45#1: actual slime handoff/traitor/bravery/cooking invitation; Shion will serve her chosen dish this EVENING, not yet eaten. R saw her restored place, ordinary lunch M/Y/R, Yuka went to Mai, M/R full private Shizue conversation: R still owns coin, not ready decide, Roof support offered not compelled. R does not enter tournament. #2 Anko/Hinata actual cafe/walk chosen after duties, personal questions respected, second chosen time arranged; mutual interest no label yet. #3 Ramiris first arena inspection within EXISTING labyrinth, ordinary exits walked, registered target cut twice/damaged/returned complete, Rimuru harmless surrender return and Shoko check. No lethal human test, no proof of restoration for mental/information/soul effects yet. Gojo/Yuta/Shoko remain investigating, Mau leaves to Yuka. Ciel thanks him not volunteering body hosting guests for experiment; no untested guest resurrection. Venue authority Ramiris retained, no source ability invented for officials. #4 Maomao brownie from offered visitor food, voluntary full plants/hand-holding/meal with Jinshi. He listens not turning into work. M/Y see from distance and choose privacy. M/Y together after tests/Mai visit; chosen private meal still pending. No source chemistry or coercion claimed. No purchases or currency changes.
+
+Creator directly clarified 2026-10-30: "si no llego no llego y lo quitamos" regarding Subaru. No B arrival verified, REMOVE Subaru/Rem outing from pending plan. Do not create Subaru or Betty arrival to serve scene. New linked direction supersedes previous greenlight's outing only, no published rewrite. Rem/Umaru/Fort independent life stays.
+
+Next: evening cooking payoff, actual Fort hand moment, consent/capacity for shared tea, other relationship outings, arena additional separate tests and roster/version gates. All previous constants unchanged. V45/festival ongoing, continue until Inn-return/list/proposals cutoff.

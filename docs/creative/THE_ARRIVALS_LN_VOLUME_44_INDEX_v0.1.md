@@ -13,6 +13,8 @@ Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapt
 
 **Festival continuation authorized:** [Exact greenlight and return-home cutoff](the_arrivals_story_board/S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md) · [Current festival relationships and progress](the_arrivals_story_board/S8_FESTIVAL_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-30.md).
 
+[Continue in Volume45](THE_ARRIVALS_LN_VOLUME_45_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

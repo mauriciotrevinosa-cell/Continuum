@@ -2610,3 +2610,7 @@ V44#19–22viajevividoB36–37sin salto/pelea, acogidaciudadnuevapartidadefamili
 ### S8 festival — V44#23–26, 2026-10-30
 
 V44#23–26primerconsejo/vidafamiliarcompletos,monstruomultiimpresionesnocanonrankattack, fuentesoficialesrolesreadnoallmaxpowersclaim. R/Gazel/Elmesia/Guy/Leon/Luminousmapsworld/privacyRimuruownlife,HQnicknameactualnotcapital/king,nopublicDIOhostinfo. Torneoratificaantespropuesto/testprimero. EnparaleloYukaShionShuna/ChloealumnosFort/AnkoHinatasecondinvite/YutaMaki. 1501capítulospreviosintactos,14newfestival, V44complete26draftS8CONTINUESV45B38noonwithoutpermission. FullcreatorcutoffInnreturnHQlistnotreached, nostoponpush.
+
+### S8 festival — V45#1–4, 2026-10-30
+
+V45#1–4 full lived relationship scenes plus first arena tests, distinct untested information/soul effects retained. Direct creator reply removes Subaru outing because B arrival unverified; no invented arrival to serve scene. All1505prior chapters preserved. Continue exact authorized cutoff.

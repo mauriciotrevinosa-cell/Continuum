@@ -2486,3 +2486,8 @@ V42#29–31 termina S7 en noche de compromiso y dos días consecutivos ordinario
 ### S8 — Rescate y aclaración de protección, 2026-10-29
 
 [Mensajes íntegros y cotejo](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md). Rescate durante exploración, guardia/aviso/Exchange/dosDismantles, falsa conocida de antes, atenciónShoko, Ori mencionaDIO y precipita revelaciónPell/autoría; casa protege, amenazaYuka/mano/Mau se lanza, gate lleva aambos, DIO sale antes, corteCiel. DentroMau decapita en furia, crisis inmediata, Makima sobrevive/huye, GrowMonarch. Creador autoriza falla de clasificación coyuntural: DIO debilitada/recuperándose/dentroMau y opiniónMau influye en seguridad, detectada porMakima oaliado. No dogma de atravesar todoamparo; ventana ante cambioMauhostil y mecanismoescape aún por concretar. FuenteCap22 confirma sangrado, Pell cotejado sin material sellado. No prosa o salto temporal, S7 intacta.
+
+
+### S8 — Barrera perimetral, no policía interior, 2026-10-29
+
+[Regla y aclaración íntegra](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md#4-protección-admisión-vulnerable-y-ausencia-de-vigilancia-automática-interior). La clasificación vulnerable deja entrar a Makima. Una vez dentro no hay muerte/expulsión/inmovilización o anulación automática de la gate cuando Mau se enfada; ya hubo conflictos internos. Se retira la objeción de reevaluación y la demora propuesta por el asistente. Se conserva el amparo frente a ataques/intrusiones exteriores y S7 intacta. Sin nuevos capítulos o poderes producidos.

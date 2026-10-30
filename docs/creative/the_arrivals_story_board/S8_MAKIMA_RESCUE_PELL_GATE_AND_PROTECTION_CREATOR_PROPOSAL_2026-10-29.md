@@ -26,13 +26,19 @@
 12. **Brecha y huida.** Crisis inmediata de Mau; oye a Makima reír y «Great. A step closer». Ella escapa antes de que él la alcance. Aparece **«Grow, Monarch»** como propuesta de presentación de la notificación escrita por el creador como «Grow monarch». No sustituirla por otro contrato/instrucción de la Diosa.
 13. **Comienza la parte compleja.** Dungeon físico del Arquitecto, señal de Ashborn malinterpretada, refinamientos/sombras/heridas todavía por diseñar. No desarrollar aquí fases inventadas por el asistente externo.
 
-## 4. Protección: precisión del creador y alcance todavía por concretar
+## 4. Protección: admisión vulnerable y ausencia de vigilancia automática interior
 
 La vulnerabilidad no se introduce como que Makima corta cualquier amparo ni que la muerte de DIO ya ocurrió. El creador precisa una coyuntura: DIO lejos de su situación original de control, dentro de Mau, recuperándose de una herida; la barrera puede tomar **también la opinión de Mau** para clasificar amenaza/seguridad. Makima o un aliado detectó esa falla y eligió el momento. Quién, cómo, coste y pruebas aún se fijarán.
 
 Esto amplía el mecanismo propuesto anteriormente para la admisión equivocada y autoriza su desarrollo en S8. No reescribir retroactivamente S1–S7 como barrera inútil, ni sostener la objeción editorial anterior como si impidiera la nueva decisión del creador. Sigue habiendo terreno protegido y una DIO viva; hay que definir el fallo concreto de reconocimiento/admisión sin regalar acceso universal a todo enemigo.
 
-**Punto de ejecución pendiente:** Mau deja de considerarla segura cuando ella confiesa y amenaza a Yuka. Al construir la escena, precisar cómo la autorización que obtuvo permite completar el tránsito durante ese cambio de clasificación. Una posibilidad editorial es autorización ya concedida/ventana de actualización mientras la gate se activa; **esa solución no está aprobada todavía como ley por anotarla**. No declarar que la barrera la sigue considerando buena pese a conocer su amenaza sin una causa establecida. La salida de DIO debe quedar ubicada dentro de esa secuencia y no producir, por conveniencia, un apagado global o rescate instantáneo de una instancia ya cerrada.
+**Aclaración posterior del creador, íntegra:**
+
+> si osea que ya una ves adentro gente se ah enojado y peleado la abrrera es una barrera no auto mata todo lo de adentro sino no podria funcionar el dungeon
+
+**Regla resuelta: perímetro/admisión, no policía automática del interior.** La falla de reconocimiento permite que Makima sea admitida. Una vez dentro, el cambio de opinión de Mau no provoca su muerte, expulsión, inmovilización o cancelación automática de toda acción hostil. Gente ya se ha enfadado/peleado dentro; el funcionamiento de la gate/dungeon no exige inventar un permiso que la barrera reevalúe a cada instante. Se retira la anterior objeción editorial y su propuesta de demora/ventana de actualización: no son necesarias ni canon.
+
+Esta precisión conserva el bloqueo a intrusiones/ataques que intentan atravesar el perímetro desde fuera. No equivale a que un enemigo exterior pueda cortar cualquier amparo. Tampoco se cambia el resultado de S7. Con la admisión equivocada resuelta, Makima puede iniciar la trampa desde dentro y la casa debe responder por sus propios medios. Mau alcanza a sacar a DIO antes del traslado; no hace falta apagar globalmente el amparo para explicarlo.
 
 El interior de DIO ya tiene entrada/salida voluntarias. La escena conserva que Mau alcanza a sacarla de allí a tiempo. Mostrar o acordar por qué ella está dentro en este momento; S7 también la dejó elegir presencia física en casa, no es una prisionera que jamás salió desde su llegada.
 
@@ -62,6 +68,6 @@ Conservar el golpe emocional pedido al matar a quien tiene delante y el ataque d
 
 ## 7. Estado y límites de producción
 
-Queda guardado el orden propuesto y la aclaración nueva de protección. Falta elegir ventana/autoridad de tránsito, contratos/recuperación de Makima y su escape, participantes/posiciones y entrada concreta de Ciel/compañía, luego el dungeon. No escribir una temporada entera desde esta sola nota. No hay capítulos nuevos, retcons de S7, salto temporal, cambios de unidades, puntos o botín.
+Queda guardado el orden propuesto y la aclaración nueva de protección. Falta diseñar contratos/recuperación de Makima y su escape, participantes/posiciones y alcance concreto de Ciel/compañía, luego el dungeon. La objeción de reevaluación interior ya está resuelta por la aclaración del creador. No escribir una temporada entera desde esta sola nota. No hay capítulos nuevos, retcons de S7, salto temporal, cambios de unidades, puntos o botín.
 
 Mahoraga de Yuka sigue en el aftermath ya solicitado; Tiger/Agito y el resto de progresión se ordenarán sin dar por hecho adquisiciones previas. El cierre de V42 conserva su felicidad y la pareja comprometida: el nuevo ataque sucede después, no convierte la propuesta en un engaño o la paz en mentira.

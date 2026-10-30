@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Protección precisada por el creador — 2026-10-29:** [Perímetro/admisión, no policía automática interior](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md#4-protección-admisión-vulnerable-y-ausencia-de-vigilancia-automática-interior). Makima aprovecha la falla para entrar; ya dentro, el enojo de Mau no activa expulsión/muerte o veto automático de la gate. Se descarta la demora de reevaluación que propuso el asistente. Ataques e intrusiones desde fuera conservan su bloqueo. Sin cambios de capítulos.
+
 > **Llegada propuesta de Makima — 2026-10-29:** [Rescate, Pell, amenaza, gate y aclaración de protección](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md). Sin salto tras el compromiso; DIO debilitada/dentro deMau y clasificación también por opinión deMau ofrecen falla coyuntural que un enemigo detectó. Mau alcanza a sacar aDIO y pierde conexión conCiel al cruzar. Orden guardado; ventana/contratos/dungeon aún por concretar, sin capítulos nuevos.
 
 > **S8 en revisión — 2026-10-29:** [Emboscada breve de Makima, dungeon físico y aftermath corregido](S8_MAKIMA_GATE_PHYSICAL_DUNGEON_AND_TARGETED_AFTERMATH_CREATOR_INTAKE_2026-10-29.md). La confianza prolongada anterior está en revisión: no producirla por inercia. Mau vuelve más herido físicamente, conserva confianza en casa; reacción a Tempest ligada al espejo concreto con Makima. Ritual de Yuka/Mahoraga pasa al aftermath. Entrada/mecanismos/duración/heridas aún por construir; sin capítulos nuevos.

@@ -1,5 +1,7 @@
 # S8 — Revisión de Makima: emboscada, dungeon físico y aftermath de Mau
 
+> **Protección precisada por el creador — 2026-10-29:** [Perímetro/admisión, no policía automática interior](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md#4-protección-admisión-vulnerable-y-ausencia-de-vigilancia-automática-interior). Makima aprovecha la falla para entrar; ya dentro, el enojo de Mau no activa expulsión/muerte o veto automático de la gate. Se descarta la demora de reevaluación que propuso el asistente. Ataques e intrusiones desde fuera conservan su bloqueo. Sin cambios de capítulos.
+
 > **Llegada propuesta de Makima — 2026-10-29:** [Rescate, Pell, amenaza, gate y aclaración de protección](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md). Sin salto tras el compromiso; DIO debilitada/dentro deMau y clasificación también por opinión deMau ofrecen falla coyuntural que un enemigo detectó. Mau alcanza a sacar aDIO y pierde conexión conCiel al cruzar. Orden guardado; ventana/contratos/dungeon aún por concretar, sin capítulos nuevos.
 
 **2026-10-29. Concepto en desarrollo con el creador, no esqueleto final ni capítulos nuevos.** La entrada, acceso bajo protección, dimensiones del dungeon, progreso y heridas concretas aún se conversan. S7 permanece en V42#31/B+17.
@@ -40,7 +42,7 @@ No adoptar las cuatro fases por meses, secuencias de tortura, heridas predetermi
 
 El creador cuestiona forzar una temporada de amistad falsa porque obligaría a ignorar las capacidades de la casa. La nueva dirección busca una fachada breve para una emboscada concreta y cruce de intereses entre Makima, Arquitecto y Sukuna. No escribir entretanto el viejo arco largo de dependencia afectiva como si siguiera aprobado. La no-rivalidad romántica y elección de Yuka permanecen; nada pide seducción/infidelidad.
 
-Se espera todavía el desglose del creador sobre cómo llega, entra y activa el mecanismo. La protección vigente sigue siendo una condición por resolver: admisión física e invocación de una trampa hostil dentro no son automáticamente lo mismo. Esta propuesta no aprueba romper el amparo ni declara que un contrato con el Arquitecto esté por encima de él. No reescribir S7 para preparar una excepción que aún no se ha decidido.
+El desglose posterior ya fija rescate, admisión y activación interior: [dirección vigente](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md). El creador aclara que el amparo bloquea el perímetro, no toda violencia que nazca dentro; la vulnerabilidad sirve para admitir a Makima y no requiere además una demora de reevaluación interior. Esto no convierte al Arquitecto en superior a cualquier amparo ni reescribe S7. Contratos de la gate, alcance y escape siguen por diseñar.
 
 ## 4. Arquitecto y propósito del dungeon
 

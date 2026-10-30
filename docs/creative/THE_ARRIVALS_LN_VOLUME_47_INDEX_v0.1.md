@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 47
 **Season:** 8
-**Coverage:** S8E46–S8E51 (in progress)
+**Coverage:** S8E46–S8E53 (in progress)
 **Volume title:** **The People Who Stay** (provisional)
-**Chapter files:** 12
+**Chapter files:** 16
 
 The authorized festival continuation. Chapters follow scene needs; central conversations and fights are not constrained by the length of secondary interludes. Production draft for creator review.
 
@@ -27,3 +27,7 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 | 10 | S8E50 | One Person | `THE_ARRIVALS_S8E50_LN_CHAPTER_02_ONE_PERSON_v0.1.md` |
 | 11 | S8E51 | The First Fifty | `THE_ARRIVALS_S8E51_LN_CHAPTER_01_THE_FIRST_FIFTY_v0.1.md` |
 | 12 | S8E51 | A Heroic Amount of Dying | `THE_ARRIVALS_S8E51_LN_CHAPTER_02_A_HEROIC_AMOUNT_OF_DYING_v0.1.md` |
+| 13 | S8E52 | After the Applause | `THE_ARRIVALS_S8E52_LN_CHAPTER_01_AFTER_THE_APPLAUSE_v0.1.md` |
+| 14 | S8E52 | The Coin He Had Kept | `THE_ARRIVALS_S8E52_LN_CHAPTER_02_THE_COIN_HE_HAD_KEPT_v0.1.md` |
+| 15 | S8E53 | A Small Upgrade | `THE_ARRIVALS_S8E53_LN_CHAPTER_01_A_SMALL_UPGRADE_v0.1.md` |
+| 16 | S8E53 | All Five | `THE_ARRIVALS_S8E53_LN_CHAPTER_02_ALL_FIVE_v0.1.md` |

@@ -68,8 +68,14 @@
 | V47#10 | S8E50 CH02 | B+44 exhibitionstart | FIRSTfullpublic6574availablearmyshownotfirsthouseknownofficer, 41homeunchanged/nativeguestsexcluded, disciplinedrouteentry. |
 | V47#11 | S8E51 CH01 | B+44 throughfloor50 | Actualrepresentativedungeontactics/scouts/ordinarywork/guardianreturns/noArise, Rprivateshowtraps/end90request. |
 | V47#12 | S8E51 CH02 | B+44 floors51–90andreturn | Genuinetraps/Berutheatricalwithdrawalfuturequeen/IgrisBellioncomposure, inn90goal/end/fullstablecount/Ramirisnewchallengeidea. |
+| V47#13 | S8E52 CH01 | B+44 lateafternoon/evening | Chosenmusic/Bocchicompanionship, SeikaRamteaoffer, RemreachesUmaruhand, AnkoHinatafirstconsentedkiss; MYordinarycitylife. |
+| V47#14 | S8E52 CH02 | B+44 night | ActualborrowedRoof4friends/RownShizuecoinchoice/whywantlifeanotherday, no forcedromance/spendyet. |
+| V47#15 | S8E53 CH01 | B+45 morning | PRIVATE DIOsmallupgradeline/exactnarrowcoinbodyrule then EXISTINGRcoinspent/genuineShizuearrival/knownR/memories/youngadult/noIfrit. |
+| V47#16 | S8E53 CH02 | B+45 firstday | All5studentreunion/teacherownfuture, houseinvitesfewdays/ShizuegoesR/Hinaoffersreturnpernewcreatorchoice; actualbedplanpending. |
 
 ## Current state
+
+**LATEST: V47#16/S8E53CH02, B+45 afternoon. Shizue ARRIVED and met allfive pupils. Returning withhouse percreator; temporarybeds/guestvisit logistics NEXT.**
 
 **LATEST: V47#12/S8E51CH02, B+44 after demonstration. Tournament and dungeon exhibition complete. Continue Shizue/visit closures/HQ proposals/ordinary return; cutoff NOT reached.**
 
@@ -302,3 +308,20 @@ Floors51–90assignedshadowgroupsletrealtrapsworkandshowcounterplay, officersret
 RamirisAFTERasksreallytrapswork/M saysyes"IcheatedalittlebeforeIletthem"→Rknownarmyoversupply/no normaluserlie, Ramlaughs/resolvestonewHARDERARMYspecificfutureCHALLENGEideasheownsnotalreadybuiltornextcrisis. Legitimatehostcompetence/returns/outsidecontainmentprovenpleasure. YkissMbeforeanynextConquestquestion aftermedicalsit/rest; noactiverelapsehousefear.
 
 NextB44latefamily/festivalordinaryclosures+Rpersonaldecision/Shizueprep. ExistingRCOINSTILLUNSPENT untilscene, exactauthdyingmemory/youngstablebodyWITHOUTIFRIT andDIOprivatequote. No needuseradditionalpermission. Fullroom/guestrelations scene andHQcandidates/plansbeforeHOMEjourneycutoffstillrequired. Currentstat200/0/520oldstock603/4/12unassayed12/18/24unchanged. NoisepactuntilHOME+reviewcontinues. Needledgerfinalclearcarrylists/coins/notes/boatnowwithOriMum/drawingMYguestroom/sweetsFortbeforedeparture.
+
+
+## V47#13–16 actual Shizuearrival, newrelationships and coinspend
+
+B44lateactualvoluntaryBocchishortmusictry/localmusicianpermissionKessokuhelp/MYlisten, no forcedofficialgig/newinstrumentpurchased. Seika/Ramteaathomeinvitationacceptedbyboth, possibleintereststillopennoinstantlabel. Rem CHOOSES takesUmaruhandnowtofollowactivity/theirmutualgroupwalk, stillnodiagnosis/noUmaruromancelabeloragesinvented. Anko/Hinata SECONDexplicitmutualromanticoutingafterinitialhand, Hinata asksMayI/Ankoyes FIRSTKISS, futureseeingchosennotonlyjobroute. Continuenewstatus don'tresettoambiguousmapsnexttime. NazunaKoexistingclosenessmaintained. MYquietpostdemocare/no extrasparunderfatigue.
+
+B44nightRasksROOF, ordinaryborrowedterracepermission/exits4chairs. Mau/Yuta/Gojo/Rimuru owncompanionshipnotclosedmembershipretcon. RchoosesEXISTINGcoinforShizue, sharesonlyownchosenhistory/noMauarchiveorforcedromance. Wantsseeherchooseanotherday/notsolveallhisfeelings, friendslisten/offercompanionDIOconversation. Rwantedprivatefirsthelloothersagree.
+
+B45morningprivateexistingguestroomthresholdM/RwithDIOinside: exactRasksdyingShizuememoriesintact/youngstablebodylikeYuta/noIfrit. DIOsmallnarrowarrivalbodyadjustmentdoesNOTmoveanyonehistory/editmemories/regaincosmicauthority/healMau'soldsequelae. Heractualprivatequote "A small upgrade. So she lasts." Hostsnormaldoorvoiceno audiblepublicGod. Weaknessshownresthandafteractionnotpowerrestored. ExistingcoinspentonceOUTSIDEpreparedTempestprivateguestroomhostpermission; no freshsystemcoinforwinning/cheating, MAUcurrencyunchanged. GenuineSHIZUEfromjustbeforedeath, remembersRimuru, newYOUNGERADULTstablebodyWITHOUTIFRIT/normalheartbeatcontinuation. ShizuefirstvoiceRimuru/Yougrew, Rgentlereunionnotdemandlove, MintroducedBROTHERthenstepsout. ShizuechoosesRhandafterCup/wantseechildren, no new sourceabilities/unclaimedweapons/maskduplicatedorfullcombatrestorationpercent.
+
+Shokoconsentedordinarybaselinecheckstable/notutilityexam. FiveactualreunionKenya/Alice/Gale/Ryota/Chloe allappearownvoices, ChloechildheavyChronoaremainsseparate/no loopdump or forcedmaturity. TeacheraskswhatLIKE, Fortstorymakesafuture. Rwitnessfulfillingwishnotnowallchildrenbelonghim. Housemeetwelcomechoice/ownseating/ordinaryfood.
+
+DirectcreatorNEWtriprule savedverbatim: SHIZUEGOESWITHRIMURUHOUSE now, students5ALLtemporarilyinvitedfewdays, HINATAVOLUNTEERSBRINGTHEMBACK. InproseactualinvitationcomesRem/childrenwantsseeFort/Mau R housechecktogether, FernMakiShokowantcaregiverreturn/bedsfactsnotjusthope; Rdoesnotdecideforwholehouse. ShizueCHOOSESgo, all5sayyes,HinaoffersreturnandAnkomutualglance. BeforeleavingTempestneedresponsibleadultsnotified/route/returnplan, NOadoption/permanentmoveorcopiedSubaru. Temporarysleepingarrangementnotmadeupnewwing/ArrivalHousereopened/evictresident; writeexplicitconsentingloansandactualFortcushionsfitfive, Shizue/Hinaadultprivacy check. DoNOTdeferShizueinTempestforspace creatorchosego. ShionotherHQprospectsnotautomaticallyalltravelnow/newresidencypositions, listvoluntarynext.
+
+RShizuecoinNOWSPENT (oneknowncoin, no inventedremainingtotal). Otherhousecoins/balancesnotaltered. NewShizuearrivalisoneperson(notIfritnewunit). Legion6615same/Muster40home. Stats200/0/520same/armyformsrestoredsame/no newdivinity. NoisefestivalnewconstructionpauseuntilHOME+reviewcontinues. Hqtownnotbuilt. CurrentTempestroomsstilltwoadjoiningcourtyards/housereturnneedsboatwithOriMum/MYdrawing/notes/clothes/basketsremainders/belongings/borrowedchairsreturned.
+
+Next fromB45afternoon decisionsofHQprospectswithM/RABSENTownagency; realtemporarybedsagreedthenfutureloftguestroom/favor/eastwindowplansnotexistingarchitecture. JinshiGaoshuncoinreserve seed/massfamilyfutureplanownedbyhouse. B46roadfirstday/B47homewithShizue5studentsHina (&Rangaifchooses/vouched). No foreigninfluxallatonceuntilhousingready. Stopafteractualhome Inn+voluntaryHQlist+firsttownproposals; no fullconstruction/Walpurgis/WitchHat/nextenemycrisis. Continueafterpush.

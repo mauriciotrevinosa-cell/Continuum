@@ -2658,3 +2658,7 @@ V47#5–8 completefinal4-waycreativebattleandexactcreatorMilmtemporarypause/3car
 ### S8 festival — V47#9–12, 2026-10-30
 
 V47#9–12 userarmyfirstpublicdisplay6574actualavailable+41home=6615kept, realtraps/ownreturn/nonextraction/noXP, Berufuturequeentheaternotdeath, deeperinn90finish/genuineRamirispridechallengefuture. No secretShop/guestroom leak/newNoisepower/wholefuturevillagebuilt. All1549olderchaptersintact; sourceShizuearrivalandactualInnreturnstillrequired, continue.
+
+### S8 festival — V47#13–16, 2026-10-30
+
+V47#13–16 livedrelationshipchoices/Roof/RIMURUowncoinchoice andexactCREATORShizuedyingmemory/youngadultstablebodyWITHOUTIFRIT plusPRIVATE DIO smallupgradeline. Oneknowncoinspentnotnewreward. NEWcreatortripreplyverbatimkept: SgoesRhouse5studentstemporary,Hinaoffersreturn; actualinvitationwrittenownagencylogisticsnext. All1553olderchaptersintact. ContinueactualInnreturn/HQproposalcutoff.

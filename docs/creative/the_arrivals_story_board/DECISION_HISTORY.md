@@ -2614,3 +2614,7 @@ V44#23–26primerconsejo/vidafamiliarcompletos,monstruomultiimpresionesnocanonra
 ### S8 festival — V45#1–4, 2026-10-30
 
 V45#1–4 full lived relationship scenes plus first arena tests, distinct untested information/soul effects retained. Direct creator reply removes Subaru outing because B arrival unverified; no invented arrival to serve scene. All1505prior chapters preserved. Continue exact authorized cutoff.
+
+### S8 festival — V45#5–8, 2026-10-30
+
+V45#5–8 stage actual Rem hand, Shion dinner, consented innertea and full GojoShoko outing. No relationship reset/new powers/archives/public voice, sourceChef tasteful ugly presentation preserved, source version details not universalclaim. All1509prior chapters intact; continue authorizedfestival.

@@ -24,6 +24,10 @@
 | V45#2 | S8E28 CH02 | B+38 afternoon | Anko/Hinata chosen cafe and walk; mutual interest, respected private past, next time chosen. |
 | V45#3 | S8E29 CH01 | B+38 afternoon | Ramiris arena inspection/ordinary exits, limited physical target and surrender return tests. Mind/information/soul NOT verified; no lethal human test. |
 | V45#4 | S8E29 CH02 | B+38 afternoon | Maomao voluntary brownie/Just for today/hand/plants/meal with Jinshi. Couple privacy respected by Mau/Yuka. |
+| V45#5 | S8E30 CH01 | B+38 late afternoon | Umaru takes Rem hand to show game, Rem surprised/pleased; shared failure/tomorrow plan, no forced romantic label. Seika/Ram choice, Nazuna/Ko. |
+| V45#6 | S8E30 CH02 | B+38 evening | Shion dinner promise paid: ugly/goodtaste, Shuna confirmed safe, lived table comedy. Ownworkshopvisit chosen, covered inner sample via existingaccess. |
+| V45#7 | S8E31 CH01 | B+39 morning | Tea held existingboundedroom/individualconsent, 7witches/quietAshborn/DIO/Ciel/Noise host; stillfriends/freechoices, no newname/build/archive. |
+| V45#8 | S8E31 CH02 | B+39 afternoon | Gojo/Shoko chosen fullouting offcareturn, betterteacherjoke, mutualpersonalinterest/handchoice. Past acknowledged, joyallowed, no reset. |
 
 ## Current state
 
@@ -77,3 +81,14 @@ V45#1: actual slime handoff/traitor/bravery/cooking invitation; Shion will serve
 Creator directly clarified 2026-10-30: "si no llego no llego y lo quitamos" regarding Subaru. No B arrival verified, REMOVE Subaru/Rem outing from pending plan. Do not create Subaru or Betty arrival to serve scene. New linked direction supersedes previous greenlight's outing only, no published rewrite. Rem/Umaru/Fort independent life stays.
 
 Next: evening cooking payoff, actual Fort hand moment, consent/capacity for shared tea, other relationship outings, arena additional separate tests and roster/version gates. All previous constants unchanged. V45/festival ongoing, continue until Inn-return/list/proposals cutoff.
+
+
+## V45#5–8 actual advances, B38late–B39afternoon
+
+#5Umaru spontaneously takes Rem hand to show ringthrow game, Rem notices pleasure/surprise, no verdict on Umaru feelings. They fail amusingly, agree returntomorrow; Rem continues thinking after handreleased. Seika chooses staywatchgamewithRam, Nazuna goesonwithKo, preservesexistingbond. #6Shiondish looksbad/goodtaste confirmed, Shunacheckedingredientsandtaste, no poison/no newlyunlockedskill. M/Yfinishportion, Benimarutr ies, Rimuru hospitalityjoke repaid. Shion/Yuka/ShunachooseworkshopvisitbeforeRpermissionhabitcompletes; Rdoesnotclaimpermissionauthority. Covered sample passed via existingguestroomaccesswithRcarry, Ciel/DIO/Noise/Ashbornchooseeat. No room expansion or knowledgepublicleak.
+
+#7B39morning Echi tea ACTUALLYHELD. Individualresidentsconsent/gradualcapacity/air/exitchecksexistingboundedroom, borrowedchairs returned, NO newNoiseconstructionorportal. All7witches existingadultPrideprivate, MauPHYSICALLYOUTSIDEthresholdseatednearby, Rimuruhelpsinside, DIOtemporaryCielpresentationlocally, no newbody. Ashborncomesquiettakescupnotforcedanswer. Noisehosts, askedguestscomfort, thanked, "Still friends" evenchoosedifferentactivities; namestillnotdecided, asksNotnow/thinkingaccepted. DIOtiredpausesrespectednothealed. Cielchosestaylongerafterguests, manifestationexitvoluntary. No archivesread/omnipresent voices.
+
+#8B39latemorningafternoon Gojo/Shoko ownfullouting oncoverageagreedMaomao(no24hrshift). GadmitsaskedMauadvice earlierminoroffscreen, betterteacherjoke, wantslearnmoreaboutS; Shoko laughs, pasttrio acknowledged without forcedmourning, "I'mstillhere". SHEoffershand/HEtakes, physicalInfinitypermittedtouch, actualreciprocity persists. Nocouplelabel/weddingovernight, no sourceidentitychange; no rarecigaretteconsumed. Keepfollowthroughnextscenes.
+
+Next additional arena effects/tests and actual enrolments/visitors, M/Y ownchosenmeal, Rem chosenconsultation later, Ori goodluckbeforeannouncedfight, Bocchimusicpromise. HQbribeafterpublicnameuse. Continuecutoffnotreached.

@@ -121,3 +121,7 @@ Mensaje íntegro:
 Son beats que pueden intercalarse con vida del festival; **no cuatro capítulos obligatorios**, pero el primer rato deconvivencia debe vivirse con conversación/acciones propias y no quedar resumido en «Ori estuvo conellos». No fijar rival, ronda, fecha o habitación nueva antes de construir cuadro/alojamientos. Conservar el compás deOri haciaFrieren, piedra prestada ya devuelta, familia ymemor iasB vigentes. No transferir la paternidad/relaciónMauOriA aB mediante esta escena. El vínculo actual sí puede crecer y dar alegría aambos sin queMau exija un título.
 
 Esta convivencia se agrega a la mesa de relaciones con el mismo peso de continuidad que las parejas y amistades; Ori no se queda reducida aFort/visitas aFrieren mientras los adultos reciben todos los avances. Sin prosa nueva en este checkpoint.
+
+## 10. Esqueleto solicitado y siguiente paso de Rem/Umaru
+
+[Petición completa y desarrollo propuesto](S8_FESTIVAL_PUBLIC_SCENE_SKELETON_AND_RELATIONSHIP_PACING_FOR_CREATOR_REVIEW_2026-10-30.md). El creador pide recomendación sobre avanzar: ejemploUmaru toma manoRem para mostrarle algo, Rem se desconcierta y pide hablar conShoko/Mau. Recomendación delcoautor: símostrar avance concreto con significadoabierto, sin pareja impuesta; propuesta pendiente delverde del esqueleto. El lapsus «ori rem» se interpreta por el ejemplo comoRem/Umaru y no cambia la trama familiarOri. Torneo queda reservado como sorpresa. Sin escenas escritas o edades exactas nuevas.

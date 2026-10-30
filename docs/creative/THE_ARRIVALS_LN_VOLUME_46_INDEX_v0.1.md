@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 46
 **Season:** 8
-**Coverage:** S8E36–S8E39 (in progress)
+**Coverage:** S8E36–S8E41 (in progress)
 **Volume title:** **Who We Cheer For** (provisional)
-**Chapter files:** 8
+**Chapter files:** 12
 
 The authorized festival continuation. Chapters follow scene needs; central conversations and fights are not constrained by the length of secondary interludes. Production draft for creator review.
 
@@ -23,3 +23,7 @@ The authorized festival continuation. Chapters follow scene needs; central conve
 | 6 | S8E38 | An Unpleasant Amount of Politeness | `THE_ARRIVALS_S8E38_LN_CHAPTER_02_AN_UNPLEASANT_AMOUNT_OF_POLITENESS_v0.1.md` |
 | 7 | S8E39 | The Time Between | `THE_ARRIVALS_S8E39_LN_CHAPTER_01_THE_TIME_BETWEEN_v0.1.md` |
 | 8 | S8E39 | The Axe He Kept | `THE_ARRIVALS_S8E39_LN_CHAPTER_02_THE_AXE_HE_KEPT_v0.1.md` |
+| 9 | S8E40 | A Very Reasonable Dragon | `THE_ARRIVALS_S8E40_LN_CHAPTER_01_A_VERY_REASONABLE_DRAGON_v0.1.md` |
+| 10 | S8E40 | The Distance Before the Sword | `THE_ARRIVALS_S8E40_LN_CHAPTER_02_THE_DISTANCE_BEFORE_THE_SWORD_v0.1.md` |
+| 11 | S8E41 | Gobta's Second Plan | `THE_ARRIVALS_S8E41_LN_CHAPTER_01_GOBTA_S_SECOND_PLAN_v0.1.md` |
+| 12 | S8E41 | The Other Reason | `THE_ARRIVALS_S8E41_LN_CHAPTER_02_THE_OTHER_REASON_v0.1.md` |

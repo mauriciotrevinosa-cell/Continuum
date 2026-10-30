@@ -44,8 +44,14 @@
 | V46#6 | S8E38 CH02 | B+41 morningbeforelunch | Diablo/Carreramagicbarrierduel and Yuta/GeldpositionRika/briefCursedSpeechcost; bothhonestwinsnotlateUltimate/composite. |
 | V46#7 | S8E39 CH01 | B+41 lunch | FernStarkownwalk/hand, MYrest/wristcost, SeikaRamcups/NazunaKo, Cielchoosesfriends. |
 | V46#8 | S8E39 CH02 | B+41 afternoon | Hakuro/Stark earnedskillduel and Ultima/Himmelclockdecision; bothlossesretainagency/FernStark/FrierenHimmelcontinuity. |
+| V46#9 | S8E40 CH01 | B+41 afternoon | MilimRanga/FreyCarrion/VeldoraAnko variedopenings; actualcurrenttools/sportcare, AnkoHinataowninterestafter. |
+| V46#10 | S8E40 CH02 | B+41 afternoon | HinataBenimaruprecisionvsswordfire, thenLeonNazunaflight/route, no automaticholyweakness or untestedsoulerasure. |
+| V46#11 | S8E41 CH01 | B+41 lastopeningbout | Gobtaownsecondplan/Rangawatchesnothelper, Testarossawinscontrolledpin, ALL16R1done/R16tomorrow. |
+| V46#12 | S8E41 CH02 | B+41 lateafternoon/night | HinataMaufamilialease, AnkoHinataexplicitmutualdateintent/handholding, MYrest/ordinaryquiet. |
 
 ## Current state
+
+**LATEST: V46#12/S8E41CH02, B+41 night. ALL16 opening bouts complete. Continue B42 round-of16 and festival. New explicit Shizue arrival rule below, coin not yet spent.**
 
 **LATEST: V46#8/S8E39CH02, B+41 afternoon. Ten of sixteen opening matches complete. Continue six remaining, not R16 yet.**
 
@@ -174,3 +180,20 @@ Lunchafter8openingbouts. Fern/Starkactualchosenwalk beforehisafternoonmatch; Fer
 AfternoonHakuro/Stark: familiarimprovedaxe currentBnotnewbuff, Starkearnsmeaningfulshoulderhit andnarrowmiss, Hakurolearns/turnsweaponleveragewinscrediblecontrolledfinish/refstop, notfatalcut. Starkhurtminor/treatment, Fernhishand/owncontinuedcoupletime. Ultima/Himmel: strongspacing/magicvssmartphysicalroutes, actualsleevecut/Ultimacost, herbettercontrolwinsbyclocktechnicaldecision. Himmelminorarmcut, Frierenwatchedfeet/oldroadmemory/ownrenewedapproach, no romanticrewardforearnedvictory. All equipmentretainedexcludingloanpolearmreturnedbroken, no unit/stat/coin/pointschanges.
 
 Continueafterpush. NeedArena physicalbounds/CTselection/output/returnmedicalchecksnotrepeatedexpositioneverybout, respecttestedintervals/fatigue. Cielmayreturnbychoiceimportantmatches, notpublicreferee. 6remainingR1 thenR16nextday, quarterandfourfinallater. Allcutoffremaining.
+
+
+## V46#9–12 R1 completed and evening relationship advance
+
+AllR1sixremainingwritten: Milim beatsRanga controlledcatch/yield; Frey beatsCarrion clockpositions afterhisrealguardhit; Veldora beatsAnko controlledgentleshoulderringout. Ankousesdeclaredordinaryline/powder/loanbaton(no powerinvented); loanbatonreturned, dignity/humor/initiativepreserved. HinataasksstayforhermatchAnkoaccepts. HinatabeatsBenimaru preciseanalysis+ownboundedholyguard/sword/costshallowarmcutthencontrolledfinish/notfullDisintegrationor7hitsoulkill. LeonbeatsNazunaringoutflightroute afterherrealclosehit. NazunalightNOTautomaticcrossfranchisesun/holyweakness, artificialarena checked; healingarmandKocompanyactual. TestarossabeatsGobta preciseexitcontrol/limbpin/refstop, ownGobtamovementdeceptionearnsrippedsleeve, noRangacompetitorassist/Fusion. Ranga praisessecondplan/publicfriend. No source lateUltimates/universalmanaCEequivalence invented.
+
+Final16: Mau,Luminous,Gojo,Diablo,Yuta,Hinata,Milim,Frey,Yuka,Shion,Frieren,Leon,Hakuro,Ultima,Testarossa,Veldora. RestR16B42; laterquarterpairs perdesign: block1/8,2/6,3/5,4/7. Allstats/6615/coinsunchanged. Minorinjurieshealingnormalcare/persistentfatiguenotfreefullrecharge.
+
+B41eveningHinata/Maueasefamilycompatriotjoke threecups/Rimuruusefulunwise/imptMauowncup; no romantictriangle. Anko/Hinata ownchosenquietmusicdrinks outingafterbout. Ankoexplicitotherreasonthanmaps/Hinatacameforthatreason/reciprocalHANDHELD, chooseanothermeetingtime. DirectionROMANTICNOWMUTUALKNOWNtoeachother, notmarriage/couplelabel/sex, notpityorcoercion. SavefollowthroughnextdayandInnreturn. No rarecigarettesconsumed.
+
+YukaShionownrespectandtomorrowchallenge, MYdinnerthenbed bychoice/bandagedwristchecked/tenderneedsrest,Mauallowsquiet. Guestroomsunchanged/SweetsFortgiftalreadydelivered, no new actualtown/parents arrival. MiniCielnon-speaking/Noisepactuntouched.
+
+## NEW creator-approved Shizue rule, not yet executed
+
+Direct reply2026-10-30: genuineShizueJUSTBEFOREDEATH, REMEMBERSmeetingRimuru, arrivesYOUNGERSTABLEBODYlikeYuta, WITHOUTIFRITinside. MemorypointnotretconnedtoyoungpreRimuru. Narrowcreatorarriv aladaptationnotallsourceagephysics. DIOmaycomment privately "A small upgrade. So she lasts." (creatorexact"a small upgrade so she last"). Notimmortality/allpowers/freeglobalresurrection orDIOallauthorityhealed. ROMANCEOPEN/byherchoice. ExistingRCOINunspentasyet; writeactualchoice/spendarrivalaftermainfestivalwhenready, don'tinventsecondcoinorletpublichearhiddenGoddess. Newfulldirectionlinkedkeepsverbatimcreatorreplies.
+
+Next: B42round16, Mau/Luminous carefullydevelopedmeasurement, Gojo/Diablo etc andrestfamilylife. Neithernewuserreplynorpublicationcheckpointcancelsauthorizedscope. ContinueuntilhouseholdbackInn+HQprospectivelist/proposals, no nextvillageexecution.

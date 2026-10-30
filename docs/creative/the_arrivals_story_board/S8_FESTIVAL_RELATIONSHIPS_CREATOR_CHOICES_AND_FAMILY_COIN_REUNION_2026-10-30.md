@@ -34,7 +34,7 @@ Las dos ambigüedades quedan resueltas. No confundir Seika con Seiko ni converti
 | Subaru/Rem | Salida dulce, conversación de vida y alegría genuina de Subaru por ella | No nuevo endgame, promesa exclusiva, ruptura o restauración automática de un vínculo de otra rama |
 | Maomao/Jinshi | Escena del brownie, «Just for today», iniciativa de ella, mano, plantas y comida | No boda o derecho permanente a repetir la concesión al día siguiente |
 
-Respetar la continuidad vigente Ko/Nazuna y demás relaciones. La posibilidad de nuevos vínculos no exige deshacer otros para producir parejas disponibles. Rem habla de la vida nueva que **ella** quiere seguir viviendo; su cariño por Umaru/Fort es vínculo familiar y pertenencia, no romanticismo accidental. Subaru la escucha feliz por ella sin convertir la conversación en una competencia por quién la necesita más.
+Respetar la continuidad vigente Ko/Nazuna y demás relaciones. La posibilidad de nuevos vínculos no exige deshacer otros para producir parejas disponibles. Rem habla de la vida nueva que **ella** quiere seguir viviendo. Su cercanía con Umaru y el Fort es un vínculo ya ganado; la propuesta posterior del creador, registrada en sección8, permite explorar si con Umaru nace interés romántico. No imponerlo ni mantener una prohibición de romance tomada de la interpretación anterior del coautor. Subaru la escucha feliz por ella sin convertir la conversación en una competencia por quién la necesita más.
 
 ## 4. Desarrollo de escenas para preservar la intención
 
@@ -90,3 +90,15 @@ Este caso da a la mesa una pregunta útil: qué significa «necesitar» una mone
 ## 7. Estado de producción
 
 Esta nota guarda la dirección íntegra y las aclaraciones, corrige dos propuestas de romance y prepara un hilo posterior. No escribe encuentros, no ejecuta mudanzas/invocaciones, no decide todo el reparto de familiares, no cambia inventarios actuales ni agrega personajes al torneo. Los próximos pasos siguen siendo comparar lista y después estudiar cruces cuando el creador lo indique. El festival debe dar espacio al resto de la casa además de Mau/Yuka y los combatientes.
+
+## 8. Posible Rem/Umaru y edades — precisión posterior del creador
+
+Mensaje íntegro:
+
+> y algo que revise rem no es tan grande como pense osea umaru tiene como 17 -19 por el time que lleva ahi dependiendo de cuando traemos a rem y cuanto tiempo lleva ella a de tener uno 17-22 yrs yo creo que esta mas cerca de los 20 entonces no podria ser algo alocado que tal ves algo de ahi pueda ncer
+
+**Dirección recibida:** Rem/Umaru puede quedar como posibilidad romántica que nazca de la cercanía ya construida. Sustituye la lectura demasiado cerrada del coautor que sólo permitía vínculo familiar. No confirma pareja o sentimientos mutuos ya ocurridos. La salida Subaru/Rem sigue siendo dulce y él se alegra por la vida que Rem cuenta; no se convierte por esta propuesta en triángulo, rechazo dramático o torneo por su afecto.
+
+Las cifras17–19paraUmaru y17–22/máscerca20paraRem son **estimaciones del creador**, no edades cerradas por capítulo. Verificación acotada: la llegada deRem se localiza enS3/V12–13, conS3E14CH03/Day13presentaciones; SERIES_TIMELINE_ESTIMATE_2026-10-07tiene meses aproximados y es anterior a overwrite/ramaB; V44#12indicaB+32, y los contadoresS3/S4/Bno son el mismo reloj absoluto. Ese material permite localizar la auditoría, no certificar cumpleaños exactos por suma de temporadas. Los perfiles oficiales de ambas consultados no dieron aquí una edad numérica de extracción. No adjudicarles20/19exactos ni una diferencia fija sin punto de extracción/fecha de llegada/cumpleaños/rama vigente. La edad deMau/loops no se suma a la casa ni el año subjetivoS8dungeon a ellas.
+
+**Cómo explorar el vínculo:** mostrar reciprocidad. Umaru busca pasar tiempo conRem, la invita a algo que cree que disfrutará o la cuida cuando está cansada; Rem elige esa compañía por ella misma. Cada una puede empezar a percibir de otra manera un gesto antes habitual. Evitar fijarlas en cuidadora/niña y luego declarar pareja por proximidad numérica; conservar sus personalidades, Fort y vida propia. Primero encuentros/curiosidad, después decidir con el creador si se vuelve romance y con qué ritmo. Nada escrito ni edades retconeadas en este checkpoint.

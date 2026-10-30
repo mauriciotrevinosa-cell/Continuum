@@ -1,5 +1,7 @@
 # S8 — Propuesta del asistente para la visita, festival y torneo
 
+> **Propuesta posterior del creador — 2026-10-30:** [Festival y torneo ampliados, mensaje íntegro](S8_FESTIVAL_DELEGATIONS_LARGE_TOURNAMENT_AND_RAMIRIS_CREATOR_PROPOSAL_2026-10-30.md). El límite sugerido de16, sus cruces y cálculo30–45 quedan como propuesta histórica; no condicionan la nueva escala. Prosa existente terminaV44#12, sin torneo escrito.
+
 **2026-10-30. PROPUESTA PARA COMPARAR CON LA DEL CREADOR. No aprobada, no capítulos nuevos, no sorteo/campeón fijados.** Parte de [V44#12](../THE_ARRIVALS_S8E20_LN_CHAPTER_02_HE_CAN_CHOOSE_v0.1.md), donde el papel sigue en blanco. [Estado escrito](S8_VOLUME44_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md) · [Ideas completas previas](S8_TEMPEST_SHIZUE_INNER_FRIENDS_WALPURGIS_WITCH_HAT_CREATOR_EXTENSION_2026-10-30.md).
 
 ## Petición íntegra del creador

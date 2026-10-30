@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Festival/torneo ampliado por el creador — 2026-10-30:** [Mensaje íntegro: llegadas, consejo, pacto Noise, amigos interiores, cuadro grande, final de cuatro, dungeon Ramiris, Shizue y planos](S8_FESTIVAL_DELEGATIONS_LARGE_TOURNAMENT_AND_RAMIRIS_CREATOR_PROPOSAL_2026-10-30.md). Sustituye16como límite sugerido, conservapropuesta anteriorcomo historial. Sin capítulos nuevos ni cuadro/poderes/campeón cerrados; prosa sigueV44#12.
+
 > **Corrección de recolección S8 — 2026-10-30:** [Petición íntegra y registro](S8_DUNGEON_BODY_COLLECTION_AND_ORDINARY_RECRUITMENT_CREATOR_CORRECTION_2026-10-30.md). V43 muestra5,600unidades comunes nuevas obtenidas durante el dungeon, además de la adquisición especial ya escrita; salida6,615. Nuevas escenas#23y#28–30, carga separada y permanencia al regreso. Sin capítulos nuevos ni cambios de orden/URLs.
 
 > **Torneo: propuesta para comparar, NO aprobada — 2026-10-30:** [Formato16, cruces, convivencia, seguridad y cierre](S8_TOURNAMENT_FESTIVAL_ASSISTANT_PROPOSAL_FOR_CREATOR_COMPARISON_2026-10-30.md). Sin capítulos nuevos, campeón o llegada deMasayuki fijados. Esperar la propuesta del creador.

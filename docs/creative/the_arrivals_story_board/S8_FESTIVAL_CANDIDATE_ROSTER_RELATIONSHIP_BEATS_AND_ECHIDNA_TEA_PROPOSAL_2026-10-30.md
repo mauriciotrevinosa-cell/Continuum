@@ -1,5 +1,7 @@
 # S8 — Reparto propuesto, mundo, relaciones y tea party interior
 
+> **Decisiones posteriores del creador — 2026-10-30:** [Elecciones, escenas y futuras monedas](S8_FESTIVAL_RELATIONSHIPS_CREATOR_CHOICES_AND_FAMILY_COIN_REUNION_2026-10-30.md). Anko/Hinata aprobada como dirección de desarrollo; Himmel/Treyni retirada y continuidadHimmel/Frieren conservada. Seika/Ram posible; Seika/Nazuna cercanía; Subaru/Rem salida dulce, Maomao/Jinshi escena elegida. Las propuestas inferiores se leen con esta corrección, no como parejas ya establecidas.
+
 **2026-10-30. Plan para opinión del creador, sin capítulos nuevos, resultados o llegadas confirmadas.** Amplía [festival y torneo grande](S8_FESTIVAL_DELEGATIONS_LARGE_TOURNAMENT_AND_RAMIRIS_CREATOR_PROPOSAL_2026-10-30.md). La prosa permanece V44#12. Primero elegir reparto; después analizar cruces entre sistemas, versiones y condiciones. No hacer de una lista de invitados una lista de nuevos protagonistas o enemigos.
 
 ## 1. Petición íntegra del creador
@@ -96,12 +98,12 @@ No son13capítulos obligatorios ni una ronda de pasar lista. Intercalar donde un
 - Kessoku y músicos locales: optan por escuchar o tocar juntos; ningún contrato de banda oficial/boda impuesto.
 - Hollis/Mjollmile/Jinshi: negociación, desacuerdos y respeto por competencia distinta. Hollis conserva agencia en el futuro comercio.
 
-### Dos posibles semillas románticas NUEVAS, pendientes de opinión
+### Propuestas románticas iniciales y decisiones posteriores del creador
 
-1. **Himmel–Treyni:** afinidad posible alrededor de cuidar un lugar y personas, un paseo o labor elegida que continúe después de festival. No consuelo de reemplazo de Frieren ni enamoramiento en una tarde. Auditar vínculos ya existentes y disponibilidad antes de cualquier avance.
-2. **Anko–Hinata:** la nueva amistad podría quedar como amistad o, si el creador lo quiere y los estados previos lo permiten, abrir curiosidad mutua. Un encuentro buscado por gusto después de la obligación, no celos por Mau ni competir con Yuka. No fijar orientaciones, pareja o futuro desde esta nota.
+1. **Himmel–Treyni — RETIRADA por corrección posterior del creador; conservar Himmel/Frieren:** afinidad posible alrededor de cuidar un lugar y personas, un paseo o labor elegida que continúe después de festival. No consuelo de reemplazo de Frieren ni enamoramiento en una tarde. Auditar vínculos ya existentes y disponibilidad antes de cualquier avance.
+2. **Anko–Hinata — DIRECCIÓN ROMÁNTICA ACEPTADA posteriormente por el creador, por construir en escenas:** la nueva amistad podría quedar como amistad o, si el creador lo quiere y los estados previos lo permiten, abrir curiosidad mutua. Un encuentro buscado por gusto después de la obligación, no celos por Mau ni competir con Yuka. No fijar orientaciones, pareja o futuro desde esta nota.
 
-Las dos son candidatos para conversar, no decisión del creador. Gojo/Shoko recibe prioridad de desarrollo porque ya tiene historia. No convertir cada afinidad nueva en romance ni retirar a personajes casados/comprometidos de sus vínculos para llenar parejas del festival.
+La primera propuesta quedó retirada; la segunda fue aceptada como dirección romántica a desarrollar, todavía sin pareja formada en la prosa. Gojo/Shoko también conserva su desarrollo porque ya tiene historia. No convertir cada afinidad nueva en romance ni retirar a personajes casados/comprometidos de sus vínculos para llenar parejas del festival.
 
 ## 6. Echidna propone mover la próxima tea party
 

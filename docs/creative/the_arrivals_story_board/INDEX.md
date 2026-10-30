@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Elecciones del creador y reunión familiar futura — 2026-10-30:** [Mensajes íntegros y aclaraciones](S8_FESTIVAL_RELATIONSHIPS_CREATOR_CHOICES_AND_FAMILY_COIN_REUNION_2026-10-30.md). Himmel/Frieren continúa; Himmel/Treyni retirado; Anko/Hinata dirección romántica aceptada. Maomao/Jinshi brownie/mano/plantas/comida; Seika/Nazuna cercanía y posible Seika/Ram; Subaru invita a Rem, feliz por su vida. Futuro plan de monedas/familiares paralelo a Mau/Qifrey, Jinshi reserva porGaoshun. Sin capítulos, gastos o llegadas nuevos.
+
 > **Reparto y relaciones del festival para opinión — 2026-10-30:** [32candidatos base, opciones de ampliar, delegaciones/mundo, peleas para medirse y avances de vínculos](S8_FESTIVAL_CANDIDATE_ROSTER_RELATIONSHIP_BEATS_AND_ECHIDNA_TEA_PROPOSAL_2026-10-30.md). Mensaje íntegro del creador: Mau/Luminous por reporteHinata; Ciel/Noise observan sin construcción instantánea; Echidna invita a tea party interior y Ashborn puede no hablar. Semillas románticas del coautor pendientes, sin resultados/arribos/capítulos nuevos.
 
 > **Festival/torneo ampliado por el creador — 2026-10-30:** [Mensaje íntegro: llegadas, consejo, pacto Noise, amigos interiores, cuadro grande, final de cuatro, dungeon Ramiris, Shizue y planos](S8_FESTIVAL_DELEGATIONS_LARGE_TOURNAMENT_AND_RAMIRIS_CREATOR_PROPOSAL_2026-10-30.md). Sustituye16como límite sugerido, conservapropuesta anteriorcomo historial. Sin capítulos nuevos ni cuadro/poderes/campeón cerrados; prosa sigueV44#12.

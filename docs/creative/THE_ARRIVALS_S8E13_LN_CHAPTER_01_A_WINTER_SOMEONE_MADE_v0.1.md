@@ -5,7 +5,7 @@
 **Volume:** 43
 **Reading order:** 31
 **Source episode:** S8E13
-**Continuity state:** Subjective day368 finalconstructedFrostpatternfight, Arrivals adaptation not literal originalMonarchsoul/maximumsourcepower. Cold and icearmy +environment penalties. Legion command/tactical sacrifice of forms paid; no permanent registeredloss. Mau uses sequential copied routes, native Mahoraga specificadaptation asguard and separate ownAgito, firstfalseMonarchnotextracteduntilnextchapter. Freshleftforearminjury/ribcut/blood but lessvisceralthanoldBerufight. No completeannihilation/regrowth or newpermanentdeficit. Ends foe defeated/rewardwaiting and transfer imminent.
+**Continuity state:** Subjective day368 finalconstructedFrostpatternfight, Arrivals adaptation not literal originalMonarchsoul/maximumsourcepower. Cold and icearmy +environment penalties. Registry6614, most in storage; chosen companies deployed. Legion command/tactical sacrifice of forms paid; no permanent registeredloss. Mau uses sequential copied routes, native Mahoraga specificadaptation asguard and separate ownAgito, firstfalseMonarchnotextracteduntilnextchapter. Freshleftforearminjury/ribcut/blood but lessvisceralthanoldBerufight. No completeannihilation/regrowth or newpermanentdeficit. Ends foe defeated/rewardwaiting and transfer imminent.
 
 *When: the first rank reaches the arch, Bellion lets it pass the place it wants.*
 

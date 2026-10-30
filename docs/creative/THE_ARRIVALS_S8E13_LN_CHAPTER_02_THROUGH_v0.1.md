@@ -5,7 +5,7 @@
 **Volume:** 43
 **Reading order:** 32
 **Source episode:** S8E13
-**Continuity state:** Subjective day368, continuous defeatedconstructedMonarch/transition. Lastclear+3levels197→200/+15points15→30; spendall30(5Strength5Dexterity3Vitality7Perception10Intelligence),0held/Int520. S8total427spent, capacityceilingconfigured reached notuniversalfuture. Arise falseFrostpattern shadow namedRime, oneunit1014→1015(997ordinary17named1gift), not originalMonarchsoul. All inside forms/native summons recalled; Beru healing deferred only to closing exitwindow, resumes outside next chapter. Physicalgrip/flight/muscle timing across unfinished returnbranch, no stableoutsideExchange. Ciel still cut until full crossing. Freshinjuries/blood, no permanentloss.
+**Continuity state:** Subjective day368, continuous defeatedconstructedMonarch/transition. Lastclear+3levels197→200/+15points15→30; spendall30(5Strength5Dexterity3Vitality7Perception10Intelligence),0held/Int520. S8total427spent, capacityceilingconfigured reached notuniversalfuture. Arise falseFrostpattern shadow namedRime, oneunit6614→6615(6597ordinary17named1gift), not originalMonarchsoul. All inside forms/native summons recalled; Beru healing deferred only to closing exitwindow, resumes outside next chapter. Physicalgrip/flight/muscle timing across unfinished returnbranch, no stableoutsideExchange. Ciel still cut until full crossing. Freshinjuries/blood, no permanentloss.
 
 *When: the reward opens, Mau reads it while the room is still deciding where to put the next floor.*
 
@@ -43,6 +43,10 @@ The crown had become a dark ridge above a face which lowered before him. Cold ga
 
 He stored it before it could offer a reply.
 
+Six thousand six hundred and fifteen registered. One new shape beyond the five thousand six hundred ordinary soldiers he had gathered along the way.
+
+He closed the count. They still had to get out.
+
 * * *
 
 Beru's hand moved toward Mau's side.
@@ -66,6 +70,8 @@ Bellion had already begun recalling the companies. The dragons folded into shado
 Igris stayed until he knew the timing had reached the point they had counted.
 
 Then Mau recalled him too.
+
+The stored companies answered the final check. The labelled material bundles and the little box were still in inventory. Nothing they had chosen to take was waiting on the field.
 
 Beru was the last.
 

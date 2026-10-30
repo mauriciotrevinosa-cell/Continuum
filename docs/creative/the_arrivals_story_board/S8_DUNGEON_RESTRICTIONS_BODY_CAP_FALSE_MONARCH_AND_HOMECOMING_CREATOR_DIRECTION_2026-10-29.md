@@ -1,5 +1,7 @@
 # S8 — Dungeon: restricciones externas, límite corporal y regreso a casa
 
+> **Corrección posterior del creador — 2026-10-30:** [Recolección y censo vigente](S8_DUNGEON_BODY_COLLECTION_AND_ORDINARY_RECRUITMENT_CREATOR_CORRECTION_2026-10-30.md). Se autoriza aumentar4,000–7,000unidades; elección editorial5,600comunes, más adquisición especial final. Registro de salida6,615. Las cifras no fijadas de la propuesta histórica inferior no anulan esta dirección posterior.
+
 > **Segunda sección S8 propuesta — 2026-10-29:** [Tempest, elección deRimuru, contención, festival/torneo, loft/familias, obras y economía](S8_TEMPEST_RIMURU_CHOICE_FESTIVAL_HOUSING_AND_TRADE_CREATOR_PROPOSAL_2026-10-29.md). Mensaje íntegro. Aclaración expresa: sólo red comercial entre ciudades limitada a monedas/cristales; técnicas personales conservadas. [Cotejo y candidatos](S8_TEMPEST_SOURCE_NOTES_AND_ARRIVAL_CANDIDATES_2026-10-29.md), no llegadas fijadas o prosa nueva.
 
 **2026-10-29. Propuesta y precisiones del creador, planificación sin capítulos nuevos.** [Entrada Makima/gate](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md) · [Concepto y aftermath](S8_MAKIMA_GATE_PHYSICAL_DUNGEON_AND_TARGETED_AFTERMATH_CREATOR_INTAKE_2026-10-29.md) · [Mahoraga de Yuka después](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md).

@@ -5,7 +5,7 @@
 **Volume:** 43
 **Reading order:** 30
 **Source episode:** S8E12
-**Continuity state:** Subjective day367 after11additionalactiveclears recorded, +14levels183→197/+70points5→75; spend60(10Strength10Dexterity10Vitality15Perception15Intelligence),15held/Int510. Architect-designed allocationceiling200 observed, not universalMaupotential. Repeated physicaltransition mechanism understood: outwardroute briefly unfinishedduringreplacement, reach requires physicalspeed/timing/strength under suppression; no puzzle solution/instantteleportexit. Final constructedFrostpatternMonarch announced. Familyrecords stored ordinaryinventory. Fullarmy registration unchanged, narrow task force revised. No escape/rewardfinal yet.
+**Continuity state:** Subjective day367 after11additionalactiveclears recorded, +14levels183→197/+70points5→75; spend60(10Strength10Dexterity10Vitality15Perception15Intelligence),15held/Int510. Architect-designed allocationceiling200 observed, not universalMaupotential. Repeated physicaltransition mechanism understood: outwardroute briefly unfinishedduringreplacement, reach requires physicalspeed/timing/strength under suppression; no puzzle solution/instantteleportexit. Final constructedFrostpatternMonarch announced. Familyrecords stored ordinaryinventory. 2800additionalordinary units across eleven clears→registry6614(6597ordinary16named1gift); total5600ordinary additions since entry. Most stored, narrow task force revised. Labelled12scale/18chitin/24core material cargo retained separately. No escape/rewardfinal yet.
 
 *When: the next arch opens, Mau does not move toward the enemy.*
 
@@ -66,6 +66,34 @@ They did not call it a safe plan.
 It was a plan which led somewhere other than the next room.
 
 * * *
+
+The last recruitment entry was longer than the entry for his own purchases.
+
+Eleven more clears since the rain-forest record. Two thousand eight hundred additional ordinary shadows, bound from selected bodies before each field changed. Some groups had been small. Others had taken repeated calls, repairs to the collection route and a proper rest before he could finish holding the new shapes securely.
+
+He had kept the failures out. He had kept the repairs out. He had kept the occasional tempting body which would have cost more attention than it would have returned to the work.
+
+The arithmetic now held without any of those pretending to be recruits.
+
+Two hundred from the ant chamber.
+
+Four hundred from the lesser bodies around the two calamities.
+
+Two thousand two hundred across the next ten fields.
+
+Two thousand eight hundred across the final eleven.
+
+Five thousand six hundred ordinary additions to the one thousand and fourteen he had brought in.
+
+**REGISTERED TOTAL: 6,614.**
+
+The greater part waited in storage. Bringing them all out at once would not give him six thousand places to stand; in a narrow chamber it would give Bellion six thousand bodies to keep out of one another's way. Deploying a company and restoring it when it broke still asked something of the channels inside Mau, whatever the register could hold.
+
+He had more soldiers, not an excuse to stop choosing how to use them.
+
+Mau gave Bellion the count. The marshal checked the stored companies, the small group still on duty and the older units whose names would have fitted on a much shorter page.
+
+Then they packed the material bundles beside the records, keeping the twelve scale sections, eighteen chitin plates and twenty-four untested core fragments in their own labels. They were cargo, not more soldiers and not a payment he had already spent.
 
 He put the records into storage himself.
 

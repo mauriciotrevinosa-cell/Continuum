@@ -5,7 +5,7 @@
 **Volume:** 43
 **Reading order:** 24
 **Source episode:** S8E09
-**Continuity state:** Subjective day47 recovery after false ant-king. Earned healing-other pattern reconstructed by Noise through existing link, limited consented test on Mau fresh cut, suppressed by dungeon not instant full cure. Beru voice/personality remains own, no stolen original human soul. Reward3levels136→139? Entry136, +3→139/+15:37→52; spend40(10Strength10Dexterity10Vitality10Intelligence),12held/Int480. Named rank/capacity refinement not legion addition. No outside knowledge or permanent old injury cure.
+**Continuity state:** Subjective day47 recovery after false ant-king. Earned healing-other pattern reconstructed by Noise through existing link, limited consented test on Mau fresh cut, suppressed by dungeon not instant full cure. Beru voice/personality remains own, no stolen original human soul. Reward3levels136→139/+15points37→52; spend40(10Strength10Dexterity10Vitality10Intelligence),12held/Int480. Beru rank/capacity refinement is not another unit; prior200ordinary ants retained, registry1214. No outside knowledge or permanent old injury cure.
 
 *When: Beru reaches toward the cut, Mau catches his wrist.*
 

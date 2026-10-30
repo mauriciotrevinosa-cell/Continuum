@@ -5,7 +5,7 @@
 **Volume:** 44
 **Reading order:** 1
 **Source episode:** S8E15
-**Continuity state:** B+20 morning through B+22, ordinary contiguous recovery scenes. Cielpresent helps cognition/impactcalibration no physicalstatdisable; no new gate/threat. Yuka reads chosen personalnotes with permission, not whole traumaticarchive. Shokoclears gradualordinarymovement, olddeficitspersist. Current200/0/Int520/1015; no gains. ReturnOri borrowedstone onimprovement, oldroomrestoredafterclearance, no firstcohabitation. Family ties present withshorter secondary visits.
+**Continuity state:** B+20 morning through B+22, ordinary contiguous recovery scenes. Cielpresent helps cognition/impactcalibration no physicalstatdisable; no new gate/threat. Yuka reads chosen personalnotes with permission, not whole traumaticarchive. Shokoclears gradualordinarymovement, olddeficitspersist. Current200/0/Int520/6615; no gains. ReturnOri borrowedstone onimprovement, oldroomrestoredafterclearance, no firstcohabitation. Family ties present withshorter secondary visits.
 
 *When: Yuka reads the first line, she looks at Mau instead of the next one.*
 

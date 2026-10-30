@@ -5,7 +5,7 @@
 **Volume:** 43
 **Reading order:** 35
 **Source episode:** S8E14
-**Continuity state:** B+19 restofday/evening afterreturn. Umaru first response supportive to0points/designedceiling; Noise private laughsIlikeher, no publicvoice/infinitegrowthgrant. Presentdamage assessed/repair, record200/0/Int520/1015 established, Rime storednotpublicspar. Familycare/ordinarysoup, Ciel presentpermissionbound, no blanketarchive. Mau/Yuka resttogether inpreparedclinicroom, not newcohabitation orsex. Olddeficits retained. V43coherentclosehomecoming, S8andendpointstillunfinished; nextdayrest/progressionYuka/Tempesttocom e.
+**Continuity state:** B+19 restofday/evening afterreturn. Umaru first response supportive to0points/designedceiling; Noise private laughsIlikeher, no publicvoice/infinitegrowthgrant. Presentdamage assessed/repair, record200/0/Int520/6615 established, Rime storednotpublicspar. Umaru/Yuka see separate troop record:5600ordinary additions plus onefinalspecial; material cargo notsold/unpriced, detailedplanningdeferred. Familycare/ordinarysoup, Ciel presentpermissionbound, no blanketarchive. Mau/Yuka resttogether inpreparedclinicroom, not newcohabitation orsex. Olddeficits retained. V43coherentclosehomecoming, S8andendpointstillunfinished; nextdayrest/progressionYuka/Tempesttocom e.
 
 *When: Umaru asks whether she can come in, Mau thinks of the records before he thinks of the numbers.*
 
@@ -90,6 +90,28 @@ She sat a little straighter.
 “Of course he does.” ᵁ
 
 Yuka began laughing too.
+
+Mau opened the box long enough to hand Umaru the separate troop record.
+
+She read the last line, went back to the first and looked up at him.
+
+“That's a much bigger number.” ᵁ
+
+“Most are ordinary units. Ants, light fighters, things that can carry and watch. Five thousand six hundred of those. One other at the end.” ᴹ
+
+She looked at the columns again.
+
+“And the things you brought?” ᵁ
+
+“Packed separately. Material pieces. Nothing has been sold or turned into money.” ᴹ
+
+Yuka looked from the thin record to his face, taking in another small part of how much work could live inside a year.
+
+Umaru closed the lid before the explanation could become the next task he gave himself.
+
+“Then we'll need a larger plan,” she said. “Later.” ᵁ
+
+Mau nodded, relieved enough that he did not argue with the last word.
 
 * * *
 

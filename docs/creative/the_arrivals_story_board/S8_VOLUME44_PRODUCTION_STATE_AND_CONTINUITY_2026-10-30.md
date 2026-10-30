@@ -29,7 +29,7 @@ S8V43#1–35+V44#1–12=47newchapters. This continuation added27(#21–35andV44#
 
 ## Current ledger
 
-Mau200/0/Int520.74levels gainedfrom126,370points+57entry=427spent; S8deltasStr100Dex100Vit100Per67Int60. Bodypermanent, noweakmode. Designedcap200notuniversalNoiseceiling. FiniteusableCE/throughputdistinctfrommanaBlackHeart. No outsideXPfromcontainedfight/ritualobservation. Legion1015=997ordinary+17named+1unrankedgift. OnlynewregisteredunitRimeisconstructedFrostpatternextracted32, storednotactualsourceMonarchsoul. Paidformrebuilds, no permanentcasualties. NativeMauMaho/Agito/Deer separate.603small/4pylon/12bossoldstockunchanged, no freshcoin/crystal/newgearclaims. Daggers/sourcekatana/oldRikablueprint retained.
+Mau200/0/Int520.74levels gainedfrom126,370points+57entry=427spent; S8deltasStr100Dex100Vit100Per67Int60. Bodypermanent, noweakmode. Designedcap200notuniversalNoiseceiling. FiniteusableCE/throughputdistinctfrommanaBlackHeart. No outsideXPfromcontainedfight/ritualobservation. Legion6615=6597ordinary+17named+1unrankedgift.5600ordinary units recruited progressively inside dungeon; specialnewunitRimeisconstructedFrostpatternextracted32, storednotactualsourceMonarchsoul. Paidformrebuilds, no permanentcasualties. NativeMauMaho/Agito/Deer separate.603small/4pylon/12bossoldstockunchanged, no freshcoin/spendablecrystal/newgearclaims. Separateunassayedmaterialcargo12scale/18chitin/24core fragments retained; not included incurrency. Daggers/sourcekatana/oldRikablueprint retained.
 
 OldgreyexceptYuka/leftblur/2stifffingers/scars/whitepatch intact. Seriousnewdungeonwoundsrepairedwithrest/Deer/RCT/earnedBeruheal; controlledworkafterShokocare. Fieldfresharmnarrowdisintegrationrepaired, notwholebodyerasureoruniversalDisintegrationimmunity. CielprivatehostsM/R, newpresentdamagepermissionnotwholearchive; localhelperneverbecameher. DIOweakphysicalhouseguest outBEFOREgate, AshbornvoluntaryphysicalquietguestnoPrisoner/thirdheart; fixedperimeterkept.
 
@@ -67,3 +67,7 @@ Stillpreservedfornextplanning:actualTempestjourney/visit/festival; tournamentros
 ## Next
 
 Authorizedendpointreached. Stopprosehere;creatorreviewsandplanstournamentroster/rules/visitnext. S8andV44remainopen, nofirstfight/otherarcauto-start.
+
+## Controlling recruitment correction
+
+[Creator direction and full ledger](S8_DUNGEON_BODY_COLLECTION_AND_ORDINARY_RECRUITMENT_CREATOR_CORRECTION_2026-10-30.md). V44 inherits6,615registered, not the superseded1,015. Most additions ordinary workers/scouts/infantry, no new commander parity. Umaru/Yuka saw the broad troop record V43#35, detailed public parade/debrief not produced. No other V44 gains or changes to tournament cutoff.

@@ -5,7 +5,7 @@
 **Volume:** 44
 **Reading order:** 4
 **Source episode:** S8E16
-**Continuity state:** B+26, controllednormaldungeonritual underalreadyverifiedsharedSummonerprotocol. Yuka begins, Mau reads incomingcutbeforeherresponse→ShadowNow→shewithdraws/Mautakesfront. Limitedsinglephenomenonphysicalreinforcedimpactduel, nativeMauwheelnotused, enemyadaptationnotuniversal. Kamish preparedremate destroysritualform beforenewphenomenonadaptation; MahoragaYuka ownconfirmednextcall. NeitherMauShikigamire-doma nornewAriseunit. MinorfreshMauarmcut ownRCT, no newpermanentinjury/fulltraumarelapse. Alltennativefamilies+independentAgitoYuka, legion1015unchanged.
+**Continuity state:** B+26, controllednormaldungeonritual underalreadyverifiedsharedSummonerprotocol. Yuka begins, Mau reads incomingcutbeforeherresponse→ShadowNow→shewithdraws/Mautakesfront. Limitedsinglephenomenonphysicalreinforcedimpactduel, nativeMauwheelnotused, enemyadaptationnotuniversal. Kamish preparedremate destroysritualform beforenewphenomenonadaptation; MahoragaYuka ownconfirmednextcall. NeitherMauShikigamire-doma nornewAriseunit. MinorfreshMauarmcut ownRCT, no newpermanentinjury/fulltraumarelapse. Alltennativefamilies+independentAgitoYuka, legion6615unchanged.
 
 *When: the wheel appears, Mau sees Yuka's hand tighten before the blade moves.*
 

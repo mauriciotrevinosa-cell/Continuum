@@ -1,5 +1,7 @@
 # S8 — Esqueleto propuesto: del inicio a la propuesta del torneo
 
+> **Corrección posterior del creador — 2026-10-30:** [Recolección y censo vigente](S8_DUNGEON_BODY_COLLECTION_AND_ORDINARY_RECRUITMENT_CREATOR_CORRECTION_2026-10-30.md). Se autoriza aumentar4,000–7,000unidades; elección editorial5,600comunes, más adquisición especial final. Registro de salida6,615. Las cifras no fijadas de la propuesta histórica inferior no anulan esta dirección posterior.
+
 > **Verde posterior — 2026-10-30:** [Instrucción completa](S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md). InicioS8 autorizado con estimaciones abiertas, secundarios breves y relaciones importantes por consultar; [producción actual](S8_VOLUME43_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md). Las prohibiciones anteriores de producir sin verde son históricas, no cancelan esta autorización. S7 queda intacta.
 
 **2026-10-30. PROPUESTA PARA REVISIÓN DEL CREADOR. No aprobada para escribir capítulos.**

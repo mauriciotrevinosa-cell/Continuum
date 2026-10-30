@@ -5,7 +5,7 @@
 **Volume:** 44
 **Reading order:** 5
 **Source episode:** S8E17
-**Continuity state:** B+27, aftermathritualdomesticday. Yuka genuinegratitude/Maureturnscredit, committedpropertyjoke not supernaturalownership; paircoordinationresearchopenednotcompleted. Todo/Yujiselectedmemoryidea noted, no newskillengravinggranted. Sourcecapacity/spendingMau200/0/1015unchanged. Yuka9→10nativefamilies andindependentAgito confirmedprior, no freshgain. Coupleordinarychosenlifeandhousework, no crisis or immediateTempestfight.
+**Continuity state:** B+27, aftermathritualdomesticday. Yuka genuinegratitude/Maureturnscredit, committedpropertyjoke not supernaturalownership; paircoordinationresearchopenednotcompleted. Todo/Yujiselectedmemoryidea noted, no newskillengravinggranted. Sourcecapacity/spendingMau200/0/6615unchanged. Yuka9→10nativefamilies andindependentAgito confirmedprior, no freshgain. Coupleordinarychosenlifeandhousework, no crisis or immediateTempestfight.
 
 *When: Yuka tells him she is grateful, Mau has been trying to remove a splinter from the bench.*
 

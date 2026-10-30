@@ -5,7 +5,7 @@
 **Volume:** 44
 **Reading order:** 2
 **Source episode:** S8E15
-**Continuity state:** B+24 controllednormaldungeonspace after medicalrecovery, YukaTigerownritual viaestablishedprotocol, Mauobservesnotwinsforher. Existing8families used/tactics, Tigerbecomes9th, Mahoragapending. No sourcecanonritualgeneralclaim, no thirdpartyinvalidatinghelp. Sourcecontract/Limitlessscopeunchanged, no newbodypowergift. Mau200/0/1015unchanged, no idle XP. Ownring/caretimelineunchanged.
+**Continuity state:** B+24 controllednormaldungeonspace after medicalrecovery, YukaTigerownritual viaestablishedprotocol, Mauobservesnotwinsforher. Existing8families used/tactics, Tigerbecomes9th, Mahoragapending. No sourcecanonritualgeneralclaim, no thirdpartyinvalidatinghelp. Sourcecontract/Limitlessscopeunchanged, no newbodypowergift. Mau200/0/6615unchanged, no idle XP. Ownring/caretimelineunchanged.
 
 *When: Yuka asks him to watch, Mau has to make sure she means watch.*
 

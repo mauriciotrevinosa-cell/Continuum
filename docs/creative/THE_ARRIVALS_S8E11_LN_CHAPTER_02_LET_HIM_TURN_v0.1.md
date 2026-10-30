@@ -5,7 +5,7 @@
 **Volume:** 43
 **Reading order:** 28
 **Source episode:** S8E11
-**Continuity state:** Pairedcalamityfight finished. Actual team timing, sequential Red/Infinity/Blue/Shrine with independentgrip/flight and equipment; fireadaptation specific, no suppressor immunity. Kamish releases one enemyturn for MauRedeye and jointfinish, second pinned overground collapse then successive focusedwounds. Seriousfreshinjury supported untilrest, no instantfullywell. Clear+7levels153→160/+35points0→35; spend30(10Strength10Dexterity10Vitality),5held/Int485. Paidbodyforms reconstruct, no permanent casualties/newdragonArise. No exit yet.
+**Continuity state:** Pairedcalamityfight finished. Actual team timing, sequential Red/Infinity/Blue/Shrine with independentgrip/flight and equipment; fireadaptation specific, no suppressor immunity. Kamish releases one enemyturn for MauRedeye and jointfinish, second pinned overground collapse then successive focusedwounds. Seriousfreshinjury supported untilrest, no instantfullywell. Clear+7levels153→160/+35points0→35; spend30(10Strength10Dexterity10Vitality),5held/Int485. Paidbodyforms reconstruct, no permanent casualties/newdragonArise.400lesser ordinary bodies extracted during following recovery→registry1614;12scale sections separately packed, untested/unpriced. No exit yet.
 
 *When: Kamish lets go, the wounded dragon believes it has won something.*
 
@@ -136,3 +136,45 @@ Mau began laughing and stopped when Beru looked at him.
 “Later,” the ant said. ᴮʳ
 
 He nodded, still smiling, and let them help him lie down.
+
+* * *
+
+When he could sit long enough to look at the field again, Mau asked Bellion what they had left on it.
+
+The marshal named the two great bodies first, then the lesser creatures which had kept coming around the dragons while the companies held the refuge.
+
+“The complete ones?” Mau asked. ᴹ
+
+“Separated. Some will not hold an outline.” ᴮˡ
+
+“Then we take the ones that do.” ᴹ
+
+He did not get up to prove he could supervise a collection while Beru was still closing the wound in his side. Igris organised the work at the chamber entrance. The old soldiers brought the eligible bodies within reach of Mau's attention, kept the next group out of the passage and moved the remains away after he had finished with them.
+
+Mau gave the command.
+
+The first group rose in dark, uneven ranks. He sent them into storage, rested and began again only when his own repair no longer had to compete for the same moment of concentration.
+
+It took more than one interval of work.
+
+Four hundred ordinary shapes accepted the binding. Fallen attempts stayed attempts, never additions. A soldier already his which had broken during the fight belonged in the repair column, not among these new recruits.
+
+Igris checked both columns before showing him the result.
+
+**NEW ORDINARY SOLDIERS: 400.**
+
+**REGISTERED TOTAL: 1,614.**
+
+Beru looked from the record to the field.
+
+“The large ones?” ᴮʳ
+
+Mau watched Kamish resting beyond the doorway.
+
+“Not another pair of heavy bodies while I'm trying to finish repairing this one. We have dragons. I need more hands and more eyes.” ᴹ
+
+He pointed out the intact scale sections which the companies had already marked for removal. Twelve pieces, small enough to pack and strong enough to be worth showing the workshop. No promises about what they would become before someone had tested them.
+
+Bellion had them wrapped apart from the troop records. Mau put the bundle into ordinary inventory storage, not the army register.
+
+He could leave the two great carcasses and still refuse to leave everything useful on the ground.

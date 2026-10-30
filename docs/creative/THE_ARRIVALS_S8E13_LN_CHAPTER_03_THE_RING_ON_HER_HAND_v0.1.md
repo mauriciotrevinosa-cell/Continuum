@@ -5,7 +5,7 @@
 **Volume:** 43
 **Reading order:** 33
 **Source episode:** S8E13
-**Continuity state:** B+19 clinic aboutonehouraftercapture, returnrecognition fullscene. Yuka ringordinary, privateCielreconnection/relief notpublicvoice or guilt. ExistingBerurecalledand resumes earnedhealing alongsideownRCT; exactmissedspot exchange. FullsourceArchive notdownloaded; limitedcurrentbodydiagnostics toCiel allowed. Newlevel200/0/Int520,1015army unchanged from32; roommodifiers ended, permanentupgrades/oldimpairmentspersist. No attack on family, only brief daggers drawn in uncertainty then stored. Domesticbrokenedge limited, not housecollapse. Bathroomnext, no instantaneousfullrecovery.
+**Continuity state:** B+19 clinic aboutonehouraftercapture, returnrecognition fullscene. Yuka ringordinary, privateCielreconnection/relief notpublicvoice or guilt. ExistingBerurecalledand resumes earnedhealing alongsideownRCT; exactmissedspot exchange. FullsourceArchive notdownloaded; limitedcurrentbodydiagnostics toCiel allowed. Newlevel200/0/Int520,6615army unchanged from32; roommodifiers ended, permanentupgrades/oldimpairmentspersist. No attack on family, only brief daggers drawn in uncertainty then stored. Domesticbrokenedge limited, not housecollapse. Bathroomnext, no instantaneousfullrecovery.
 
 *When: Yuka says his name, Mau puts the daggers between himself and the room.*
 

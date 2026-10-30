@@ -5,7 +5,7 @@
 **Volume:** 43
 **Reading order:** 25
 **Source episode:** S8E10
-**Continuity state:** Subjective day121, no exterior day inferred. Eight further active sorties including construct armies and two ruler-pattern representations described/logged, cumulative +14levels139→153/+70points12→82; spend75(20Strength20Dexterity20Vitality10Perception5Intelligence),7held/Int485. No actual original Ruler death or universal-source bag. Beru's earned support refined in use; no healed old defects. Actual lived camp exchange/record, source-home trust maintained. Army registered1014, paid reconstruction no permanent casualty/recruits; no false Monarch yet.
+**Continuity state:** Subjective day121, no exterior day inferred. Eight further active sorties including construct armies and two ruler-pattern representations described/logged, cumulative +14levels139→153/+70points12→82; spend75(20Strength20Dexterity20Vitality10Perception5Intelligence),7held/Int485. No actual original Ruler death or universal-source bag. Beru's earned support refined in use; no healed old defects. Actual lived camp exchange/record, source-home trust maintained. Army registered1214 including prior200ordinary ants, paid reconstruction no permanent casualty/additional recruits in this interval; no false Monarch yet.
 
 *When: Mau writes the new number, the wood splits beneath his hand.*
 

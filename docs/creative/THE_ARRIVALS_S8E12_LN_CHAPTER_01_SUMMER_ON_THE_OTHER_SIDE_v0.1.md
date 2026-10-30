@@ -5,7 +5,7 @@
 **Volume:** 43
 **Reading order:** 29
 **Source episode:** S8E12
-**Continuity state:** Subjective day276, outside still not known. Ten further logged activeclears since pairedcalamities, collective+23levels160→183/+115points5→120; spend115(30Strength30Dexterity25Vitality20Perception10Intelligence),5held/Int495. Life/refinement/phase observations and Architectbiasedvoice, no Ashbornpossession or actualyearatsettlement. Freshwoundsrepairedthroughcostedsharedwork, oldscars/grey/fingers retained. No newarmyregistration/currency. Accurate cumulative spending337pointsS8, current5.
+**Continuity state:** Subjective day276, outside still not known. Ten further logged activeclears since pairedcalamities, collective+23levels160→183/+115points5→120; spend115(30Strength30Dexterity25Vitality20Perception10Intelligence),5held/Int495. Life/refinement/phase observations and Architectbiasedvoice, no Ashbornpossession or actualyearatsettlement. Freshwoundsrepairedthroughcostedsharedwork, oldscars/grey/fingers retained. 2200newordinary units across ten clears, including300from shown rain-forest field; registry1614→3814.18chitin plates/24untested core fragments stored separately, no newcurrency. Accurate cumulative spending337pointsS8, current5.
 
 *When: the room gives them rain, Mau stands in it longer than the inspection requires.*
 
@@ -76,6 +76,40 @@ They were still learning.
 It should have been a comfort that he was not the only one.
 
 Today it was.
+
+The last bodies from the forest were coming in along the cleared path.
+
+Some of the carriers were ants from the false king's chamber. They kept their loads low, turned through the narrow space under the trees and set each one where the older infantry directed them. One carried a wrapped plate instead of a corpse; another stopped to drag a spear clear before the next group reached it.
+
+Mau let Beru finish the wound before going to the collection line.
+
+“How many here?” he asked. ᴹ
+
+“Still checking,” Igris said. “We have kept this field separate from the previous count.” ᴵᵍ
+
+Mau worked through the waiting bodies before they struck camp. The room's dead did not all answer. Those that did rose only after he held the binding long enough to keep their pattern from falling back into the ground which had supplied it.
+
+Three hundred new shadows took their places behind the line and waited for orders.
+
+At the end, he opened the recruitment record beside the clear record.
+
+Ten encounters since the dragons. Two thousand two hundred successful bindings across those fields, including the forest group Igris had just checked. Small creatures, ordinary fighters, bodies useful for holding a lane or moving what a handful of commanders could not carry alone.
+
+The register stood at three thousand eight hundred and fourteen.
+
+He had not gained that number by calling the same dead body twice. Noise kept the bindings distinct; Igris kept the field marks, and Bellion assigned the new companies only after the count agreed.
+
+In a separate pack lay eighteen chitin plates and twenty-four hard core fragments collected from bodies they had not bound. Mau labelled their origin and left them unpriced. A dark piece from a dungeon was not automatically a crystal the house could spend.
+
+“Most of them will never have names,” he said, watching the last company enter storage. ᴹ
+
+Bellion looked along the cleared path.
+
+“They will still need work worth doing.” ᴮˡ
+
+Mau nodded.
+
+“Then we find it. Carrying, watching, helping the next line get out. They don't all have to fight like you.” ᴹ
 
 * * *
 

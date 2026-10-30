@@ -2566,3 +2566,7 @@ Sealcanzaendpointsolicitado,sindetenerseporpush:47capítulosS8totales35V43+12V44
 ### S8 — Propuesta de torneo para diálogo, 2026-10-30
 
 El creador leeV43 y pide propuesta propia para compararla con la suya. [Documento](S8_TOURNAMENT_FESTIVAL_ASSISTANT_PROPOSAL_FOR_CREATOR_COMPARISON_2026-10-30.md) ofrece16participantes, cruces yMau/Yuka como centro emocional, Rimuruanfitrión/decisiónpropia, espacios deconvivencia/innerfriends y posiblecierreShizue. Masayukicandidato,no llegada; campeón/resultados/recintopendientes. Ningúncapítulonuevo ni aprobacióninferida; endpointescritoV44#12intacto.
+
+### S8 — Recolección y tropas comunes, corrección del creador, 2026-10-30
+
+[Dirección íntegra y censo](S8_DUNGEON_BODY_COLLECTION_AND_ORDINARY_RECRUITMENT_CREATOR_CORRECTION_2026-10-30.md). El creador pide4,000–7,000unidades adicionales durante el dungeon y precisa que el ejemplo de200hormigas es opcional. Se incorpora porque las oleadas ya existían:200+400+2200+2800=5600comunes, además del especial final. Entrada1014, salida6615=6597comunes+17nominadas+1sentinel. Se añaden recogida, Arise exitoso/fallido, almacenamiento, carga aparte y breve reacción doméstica; se actualizan cabeceras posteriores y registros. Reparaciones no inflan censo, material sin ensayar no es moneda. Niveles/puntos/heridas/desenlaces/S1–S7 y endpointV44#12 intactos; ningún torneo nuevo. Las entradas anteriores con1015 son históricas y quedan sustituidas como estado actual.

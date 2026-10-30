@@ -5,7 +5,7 @@
 **Volume:** 43
 **Reading order:** 23
 **Source episode:** S8E09
-**Continuity state:** Subjective day46, constructed duplicate ant-king encounter, not original Beru summoned from source universe. Owner and army environment penalties remain. Beru asks to face replica, Mau authorises with commander/withdrawal rules, owner protects infantry via sequential techniques. Replica regenerative pattern observed and countered; Beru kills and absorbs residual construct pattern with Noise assisting limited reconstruction under owner permission. Upgrade blueprint acquired, practical healing-other demonstration next chapter; no full source-memory or level/census reward settled yet. No new Beru copy in army.
+**Continuity state:** Subjective day46, constructed duplicate ant-king encounter, not original Beru summoned from source universe. Owner and army environment penalties remain. Beru asks to face replica, Mau authorises with commander/withdrawal rules, owner protects infantry via sequential techniques. Replica regenerative pattern observed and countered; Beru kills and absorbs residual construct pattern with Noise assisting limited reconstruction under owner permission. Upgrade blueprint acquired, practical healing-other demonstration next chapter; no full source-memory or level reward settled yet.200ordinary ants successfully extracted across fight/aftermath, registry1014→1214. No new Beru copy in army.
 
 *When: Beru sees what is waiting at the centre of the next room, he stops beside Mau.*
 
@@ -137,7 +137,33 @@ The room's smaller ants came harder when the central body began to fail.
 
 Mau and Igris took the nearest line together, the knight turning a creature's own leap into the opened wound of the next. Bellion held the place behind Beru. Fang struck the side passages until the rush had to come through two narrow lanes instead of six.
 
-Mau changed from Shrine to the sky, bent one incoming line across the other and let the creatures break their own spacing. He released the fold before cutting the ones which landed.
+One of the smaller bodies lay whole beside the ridge.
+
+Mau saw Igris step around it to meet the next attacker, saw the shadow beneath the dead thing remain where the moving light tried to pull it thin.
+
+“Keep the complete ones clear of the fighting,” he said. ᴹ
+
+Igris glanced toward him, understood and gave the nearest pair of soldiers a new task.
+
+Mau let the copied cut go for a moment.
+
+“Arise.” ᴹ
+
+The dead ant's shadow lifted.
+
+For an instant the room seemed to hold on to the part which made it an opponent. Noise followed the separation while Mau kept the command steady. Then a smaller dark shape stood beside the body, waiting for a direction which had not come from the false king.
+
+“Behind the line. Wait.” ᴹ
+
+It went.
+
+Mau stored it as the next group reached the ridge. The binding had cost him something. It had also answered a question he should have asked sooner.
+
+Whatever the room used to make them, the bodies it left could give him soldiers.
+
+He turned back to Beru's fight.
+
+Mau folded the sky, bent one incoming line across the other and let the creatures break their own spacing. He released the fold before returning to Shrine to cut the ones which landed.
 
 At the centre, the false king's shoulder tried to close over Beru's face.
 
@@ -174,3 +200,33 @@ Instead Beru looked at his master's arm, at the shallow new cut beneath the slee
 The ant came to him, very carefully, as if the distance itself had become something he wanted to get right.
 
 “Then let us find out,” he said. ᴮʳ
+
+* * *
+
+Before they left the chamber, Igris showed him the bodies the infantry had kept whole.
+
+Some had already lost too much of their shape to answer. Mau left those out of the count. He worked through the others in small groups, letting the demand settle between calls instead of throwing the whole field at the same unfinished breath.
+
+Each successful shape stood, received its first order and went into storage. The next group waited until the last one was secure.
+
+The first ant from the battle made one.
+
+By the time the last accepted body had yielded, there were two hundred new ordinary soldiers.
+
+No new king among them. Most were small, fast bodies built to carry, climb, keep a side passage occupied and see something before it reached a larger fighter's back.
+
+Mau checked the register against Igris's separate count.
+
+One thousand and fourteen before this room. One thousand two hundred and fourteen now.
+
+“Not another Beru,” he said when the ant came to look. ᴹ
+
+Beru inspected the last little shape before it disappeared beneath Mau's feet.
+
+“They will require instruction.” ᴮʳ
+
+“Then you can help teach them.” ᴹ
+
+The ant straightened with such immediate purpose that Igris turned away before Mau could see whether he was smiling.
+
+Mau stored the last new soldier. The room was keeping its dead no longer than he chose to leave them.

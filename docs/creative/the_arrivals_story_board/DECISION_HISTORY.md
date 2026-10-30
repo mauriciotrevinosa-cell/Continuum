@@ -2531,3 +2531,8 @@ V43#9–12 alterna reloj exterior y primer combate real. Mau conserva habilidad 
 ### S8 — V43#13–20, 2026-10-30
 
 V43#13–20 conserva todos los previos, desarrolla recuperación por escenas hasta unos18díassubjetivos, dos interludios exteriores breves y segundo combate de equipo. Registro126/57→127/62→spend10(5Vitality5Perception)→127/52→128/57; Int460.3formasordinariasrestauradaspagadas,1014sinbajapermanente. No Beruhealergratis, no saltoalregreso, no nueva lesiónpermanente, relacióncoautoríaguardada. Lector12previosverificados antes de esta entrega; verificar nueva publicación.
+
+
+### S8 — V43#21–25, 2026-10-30
+
+Creador reitera continuar hasta propuesta del torneo. Nuevos21–25 desarrollan táctica, tiempo vivido, cambio deBeru y registro153/7/Int485sinbajaspermanentes. Chloe niña, Chronoa sostiene carga como adaptación, no canon fuente inventado; mensajecompletoguardado. No cierreporpush.

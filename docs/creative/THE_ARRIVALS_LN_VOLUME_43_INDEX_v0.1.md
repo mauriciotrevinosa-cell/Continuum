@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 43
 **Season:** 8
-**Coverage:** S8E01–S8E07 (in progress)
+**Coverage:** S8E01–S8E10 (in progress)
 **Volume title:** **The Afternoon He Kept** (provisional)
-**Chapter files:** 20
+**Chapter files:** 25
 
 Continuous days from the end of S7, then the authorized rescue/trap and dungeon arc. Chapter and volume estimates remain flexible; no padding or compression to hit a quota. Side-character scenes may be shorter. Production draft for creator review, not automatic approval.
 
@@ -35,3 +35,8 @@ Continuous days from the end of S7, then the authorized rescue/trap and dungeon 
 | 18 | S8E07 | The Way Back First | `THE_ARRIVALS_S8E07_LN_CHAPTER_01_THE_WAY_BACK_FIRST_v0.1.md` |
 | 19 | S8E07 | Make Them Turn | `THE_ARRIVALS_S8E07_LN_CHAPTER_02_MAKE_THEM_TURN_v0.1.md` |
 | 20 | S8E07 | The Work They Share | `THE_ARRIVALS_S8E07_LN_CHAPTER_03_THE_WORK_THEY_SHARE_v0.1.md` |
+| 21 | S8E08 | The Men Behind Him | `THE_ARRIVALS_S8E08_LN_CHAPTER_01_THE_MEN_BEHIND_HIM_v0.1.md` |
+| 22 | S8E08 | Things Worth Keeping | `THE_ARRIVALS_S8E08_LN_CHAPTER_02_THINGS_WORTH_KEEPING_v0.1.md` |
+| 23 | S8E09 | A Crown Without a King | `THE_ARRIVALS_S8E09_LN_CHAPTER_01_A_CROWN_WITHOUT_A_KING_v0.1.md` |
+| 24 | S8E09 | What His Hands Can Do | `THE_ARRIVALS_S8E09_LN_CHAPTER_02_WHAT_HIS_HANDS_CAN_DO_v0.1.md` |
+| 25 | S8E10 | A Hundred and Twenty-One | `THE_ARRIVALS_S8E10_LN_CHAPTER_01_A_HUNDRED_AND_TWENTY_ONE_v0.1.md` |

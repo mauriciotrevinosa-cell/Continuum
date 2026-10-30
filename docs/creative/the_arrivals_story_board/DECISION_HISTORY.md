@@ -2551,3 +2551,8 @@ V43#32–35 cumpleescape/regresosinresumen:200/0/Int520, total427puntosinvertido
 ### S8 — V44#1–5, 2026-10-30
 
 V44 continúa sin nueva petición de permiso. Escenas de casa/pareja y retorno propio cuarto; YukaTigerAgitoMahoraga ganados/conprotocoloclaro, no regaloautomatico ni familiassacrificadas. Kamishtercerremate, gratitud/duofuturo;200/0/1015sinmover. Siguealcancehastaantesdeltorneo.
+
+
+### S8 — V44#6–9, 2026-10-30
+
+Primerencuentrofueraamparo,nobypass; contieneconfusiónespecíficaMakima, noargumentopodermaximo. Cielprivada, Chloechilddefensiva, parcialdisintegrativeedgeNOtotalannihilation. Rimurureunión/visita/Diablocuartocorrecto, Shionlímiterealcon agencia y Hinataprimerrespeto. No earlyromance/nuevosstats, continúahastaendpoint.

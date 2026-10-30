@@ -11,22 +11,34 @@
 | 3 | S8E16 CH01 | B+25 | IndependentAgitorebuilt/earnedwithoutconsumingfamilies, Mahorequest/condition/protocol, twooldKamishfinishesexplained. |
 | 4 | S8E16 CH02 | B+26 | ShadowNow→Maufront/onephenomenonduel→Kamishremate, YukaMahoownverified, threewinsjoke. |
 | 5 | S8E17 CH01 | B+27 | Gratitude/Yukacredit/defensivecheerleader/propertyjoke, futureduoresearchnotnewpower, ordinaryfamilyhelp. |
+| 6 | S8E17 CH02 | B+28 outsideperimeter | ActualShionVeldoraHinatachildChloe, Makimafamiliarclaim/weapontrigger, containmentstarts/Cielwarns, no cityattack. |
+| 7 | S8E18 CH01 | B+28 clearingcontinuous | Narrowedgepartialadaptationnotannihilation, househelpscontain, Yukavoice/Milim/Rimuru stopMau, apology/visitoragency. |
+| 8 | S8E18 CH02 | B+28 afterfight | Rimurufamilyreunion/Chloe, displacedcityfacts, vouchedhouseadmission, Diablooldroomloftrevealnotoffice. |
+| 9 | S8E19 CH01 | B+29 | Shionsecretarylimit/realhurt/Diablodoinghousework, ownfirsthelp; HinataMauaccountabilityandfirstrespect. |
 
 ## Current state
 
-**Current:** V44#5/S8E17 CH01,B+27 ordinarydayafterYukaMahoraga. ContinuefirstTempestarrival/containmentthenreunionandtorneoproposal; fullendpointnotyetreached.
+**Current:** V44#9/S8E19 CH01,B+29. FirstTempestarrival/containmentandinitialreunionwritten, Shionsecretarylimit and Hinatarespectconversationdone. ContinueChloeFort/Veldoraban/Rimuruownchoice/festival→torneoproposalendpoint, no fightyet.
 
-Mau200/0/Int520, legion1015=997ordinary17named1gift. NativeMauMaho/Agito/Deer separate, no newunits/XP/gear. OldgreyexceptYuka/leftblur/2fingers/scars/whitepatch. Newinjurieshealedthroughcare, B20–22precisionrelearned, nowcanordinaryhug; nophysicalweakmode. Shokocontrolledworkclearance, no hybridbrainexperiment.
+## Fixedcurrentstate
 
-1/B20–22 noteswithYukaconsentedselectedbirdmemorynottraumaticarchive; firstcup/ordinarycourtgame/Bocchibond, OrimountainstoneRETURNEDwhenbetter. AfterclearancestairsandexistingOWNsharedroom, notnewcohabitation. Cielpresentprivatehelpsthrottlecognition/dose notbodytoggle.2/B24YukaTigerownritual:8existingfamilies→9native, M auobserves/Makinothelpless, movementplanearned.3/B25AgitoindependentconstructionblueprintfromMauA/Noiseexistingroute withYukapermission/Cielchecks, componentsretained, actualcontestwonandnextcallverified. Not11thfamily/Arise. SamechapterMahorequest/familyopposition/conditionalinterventionagreement/protocolprecheck; Mau tellsYuka2oldKamishfinishes explicitly.
+Mau200/0/Int520, legion1015(997ordinary17named1gift), RimeconstructedFroststorednotshownpublicly, nativeMaho/Agito/Deer separate. No outsidekills/rewards/XPs/unitgains. Controlrelearnedafterrecovery; oldgreyexceptYuka,leftblur,twofingers/scars/whitepatch. Fresharmdamageatclearingpartlydisintegratedsmallarea thenrepaired; NEVERwholebodyannihilation/resurrectionorinmunityall erasure. Cielpresentprivate, nofullmemoryarchive; twoheartsnotthird. Sourcekatana/daggerpair retained, alloldcrystalstock603small/4pylon/12boss unchanged.
 
-4/B26ritual:bladeincomingYukareactslate,MauShadowNow/shegoeshefront. Singlephysicalreinforcedimpactphenomenonduel, noInfinityadded; minorarmcutownRCT, bodymaturity/joy, Kamishpreparednewphenomenonremate. YukaownMaho nextcallverified/dismissed; shecreditsKamish3finishesviaMau'sprioraccount andteasesMau. All10nativefamilies+AgitoindependentYuka, notMau'sloancopy.5/B27ordinaryhousehelp/couplegratitude:ideascreditYuka, professionaldefensivecheerleader, engagedpropertyjokeNONbinding, planfutureduocoordination. Yuta/GojoTodoYujiideas/selectivememoryresearchopenedNOTcompletedornewskillgranted. Yukaownideasrecorded, dinnerhelpsothers.
+Yukaall10nativefamilies+independentAgitogainedthrough2–4ritualscenes, establishedsharedSummonerprotocolforMaho, no sacrificialcomponentloss. Noelfroutegift/newCTengravingfinished. EngagedordinarysilverLEFT, oldfamilyring/braceletseparate, sharedroomsince746andresumedownroomB22aftercliniccare. OrimountainstoneRETURNEDB21, compassFrieren/Mum, notesselectedbirdpageYukaconsentedbesidemapnotwholearchive. DIOweakphysicalhouseguest,Ashbornvoluntaryquietguest, protectionfixednotmobileshield.
 
-RingordinaryYukaLEFT/familyringbraceletseparate, roomsince746, nosex/pregnancy/weddingdate/newloft. DIOweakphysicalguest, Ashbornvoluntaryquietguest, no newauthority or publicCiel. Houseknowssubjectiveyearandbroadnewpower, no wholearchivetransmission. Rime stored, notdemonstratedoutside. LatecoolheadedreflextriggerShion/Makima stillfuture, notparanoiaathome.
+##6–9actualevents
 
-Tempestdirections:Chloechild/Chronoaholdsheavyexperiencesasadaptation, Fort/Yukafamilialnotromantic; Hinatasibling/compatriotgradual; VeldorahimselfwithRimuru explicitnooutsidefightban/Milimcollateral; Shionauto-secretarythenlimit/hurt/Diabloexample. FirstdelegationShionVeldoraHinataChloe notallsource-maxpowers, localarrivalchannelslimitedwithoutinventingexactpercent. Mustkeepoutsideprotectedperimetermeeting, mutualcontainmentnotwar. Nextwriteactualarrival, notskiptoacceptance.
+B28scoutreportsShionpartylookingforslime; Rimuru asksMaucompany,Yukajoins; firstmeetingOUTSIDEperimeter. ShionVeldoraHinatachildChloeactualdelegation, notallmaxversionsnorneworiginalRamirisyet. Localchannelsresistarrivallikeothers, no arbitrarypercentorcanonpeakranking. ShiongreetsRimuruwithweaponmovement, specificMakimaclaim/weapontriggerMauinstinct. Veldoraintercepts, Rimurudonotkill, Hinataangledcontainment/narrowdisintegrativeedgeseparateslane; MaupartialforearmexposureandwheeladaptstoTHATedge, notsourcewholemagicimmunity. ChildChloedefensivefield/Shionprotected, NOTadultChronoafullwaravatar. Maudeliberatelyavoidschildlane. Gojo/Yuta/Maki/Milimjoin, Yukaalarmthenvoice→Mauattention→Milimwrists→Rimurutalk. Maudismisseswheel/storesdaggers, apologiseswithoutblamingvictims. Visitorsownreactionspace, no tribunal/noinstantforgivenessforall.
+
+8RimuruembracesShion/Veldora/Chloe thenexplainslackaddress; cityarrivedfragmentedwithinunfamiliargeography, civicinstitutionsalive, heardslime/sunrumoursheavygroupmotivated. Specificpowerfightnotliteraltestofmaximum. Rimuruvouches/armedpartyweaponsawaybeforeHOUSEadmission, no barrierhostilebreach. Diablo revealsoldMauROOMspacebelowRimuruloftappropriatedsinceMauleft, separatebed—notoffice/bedsharing/romance. Familyhumourafterseriousfacts. Geographicroutewasknownthroughactualpartytravel, noinstantwholecontinentmap; later2grounddaysestimateeditorialnotabsoluteportalmetric.
+
+9B29Shionassumesoldsecretaryrole, Rimuruintervenesprivatelywithherchoiceofcompany; saysnotrejectperson,butfirsteat/meetpeople/ownlifebeforejobfillsalltime. Hurtreal, Diabloservingnotdouble-standardbecauseactualhelpMarinWakanacurtainforhousewithoutRimuruorder. Shionobserves/confused, admitsdoesnotknowwhatelse; chooseshelpRemherself, notinstantsolvedarc. HinataasksMauarmandaccountability, hearsbriefMakimapatternnotwholeTrialarchive, seesRimurutrustandrequestsunderstandingwithoutfight; sharedcup/traytaskfirststep,nosiblinglabel/romanceyet.
+
+##Who knows
+
+NewpartyknowsspecificMakimarescuetrapandMauyearbroadly, notallprivateA/triallives/heartsloverules/hiddenarchiveddetails. Housealreadyhadbroadexplanationafterreturn, no fresh blanketpublicCiel. ChloeheavyburdensChronoaseparation remainscreatoradaptationtobeshownnext, no sourceloop-total claim. Rimurugovernmentdecisionnotannouncedyet. Ramiris/Berettanotarrivedyet. No tournamentproposalpublishedyet. Richehbrother/Shizue/innerfriendchapter/pueblo/Walpurgis/WitchHat remainfuturepreapprovedideasnotcancelled.
 
 
 ## Next
 
-Continue B+28 firstdelegationoutsideperimeter and specificMakimareflex/containment, thenRimurureunion/choice and tournamentproposal. Do not stopaftercheckpoint.
+Continue ChloeFort and familialties, explicitRimuruVeldora/Mau/Milimban, Rimuruownchoice/festivalproposal andDiabloline, no stoppingatcheckpoint.

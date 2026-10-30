@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 44
 **Season:** 8
-**Coverage:** S8E15–S8E17 (in progress)
+**Coverage:** S8E15–S8E19 (in progress)
 **Volume title:** **The People He Came Back To** (provisional)
-**Chapter files:** 5
+**Chapter files:** 9
 
 Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapter quota. The authorized section ends at the proposal of the tournament; its combat and later arcs need their own planning.
 
@@ -20,3 +20,7 @@ Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapt
 | 3 | S8E16 | Something He Remembered | `THE_ARRIVALS_S8E16_LN_CHAPTER_01_SOMETHING_HE_REMEMBERED_v0.1.md` |
 | 4 | S8E16 | Shadow, Now | `THE_ARRIVALS_S8E16_LN_CHAPTER_02_SHADOW_NOW_v0.1.md` |
 | 5 | S8E17 | Professional Support | `THE_ARRIVALS_S8E17_LN_CHAPTER_01_PROFESSIONAL_SUPPORT_v0.1.md` |
+| 6 | S8E17 | Someone Who Knows Him | `THE_ARRIVALS_S8E17_LN_CHAPTER_02_SOMEONE_WHO_KNOWS_HIM_v0.1.md` |
+| 7 | S8E18 | Hear Her | `THE_ARRIVALS_S8E18_LN_CHAPTER_01_HEAR_HER_v0.1.md` |
+| 8 | S8E18 | His Other People | `THE_ARRIVALS_S8E18_LN_CHAPTER_02_HIS_OTHER_PEOPLE_v0.1.md` |
+| 9 | S8E19 | A Place That Is Hers | `THE_ARRIVALS_S8E19_LN_CHAPTER_01_A_PLACE_THAT_IS_HERS_v0.1.md` |

@@ -1,5 +1,7 @@
 # S8 — Revisión de Makima: emboscada, dungeon físico y aftermath de Mau
 
+> **Llegada propuesta de Makima — 2026-10-29:** [Rescate, Pell, amenaza, gate y aclaración de protección](S8_MAKIMA_RESCUE_PELL_GATE_AND_PROTECTION_CREATOR_PROPOSAL_2026-10-29.md). Sin salto tras el compromiso; DIO debilitada/dentro deMau y clasificación también por opinión deMau ofrecen falla coyuntural que un enemigo detectó. Mau alcanza a sacar aDIO y pierde conexión conCiel al cruzar. Orden guardado; ventana/contratos/dungeon aún por concretar, sin capítulos nuevos.
+
 **2026-10-29. Concepto en desarrollo con el creador, no esqueleto final ni capítulos nuevos.** La entrada, acceso bajo protección, dimensiones del dungeon, progreso y heridas concretas aún se conversan. S7 permanece en V42#31/B+17.
 
 [Conversación externa íntegra, sólo como referencia de procedencia](S8_MAKIMA_GATE_EXTERNAL_CONVERSATION_REFERENCE_2026-10-29.md) · [Cierre S7](S7_SEASON_CLOSE_VOLUME42_HANDOFF_2026-10-28.md) · [Avance de Yuka](S8_YUKA_TIGER_AGITO_MAHORAGA_CREATOR_DIRECTION_2026-10-29.md).

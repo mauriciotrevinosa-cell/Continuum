@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción S8 — V44#1–9:** V44#1–9: llegada real de Tempest, contención y reencuentro, primeros pasos de Shion e Hinata. Sigue el cierre acordado antes del torneo. [Índice](../THE_ARRIVALS_LN_VOLUME_44_INDEX_v0.1.md) · [Registro](S8_VOLUME44_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md).
+> **Producción S8 — V44#1–12:** Tramo acordado completo hasta V44#12: propuesta del torneo, protesta de Rimuru y respuesta de Diablo. No hay bracket ni combate escrito; S8 continúa pendiente del siguiente diseño. [Índice](../THE_ARRIVALS_LN_VOLUME_44_INDEX_v0.1.md) · [Registro](S8_VOLUME44_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md).
 
 > **Esqueleto parcial para revisión — 2026-10-30:** [Inicio de S8 hasta la propuesta del torneo](S8_OPENING_TO_TOURNAMENT_PROPOSAL_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-10-30.md). Aproximadamente 65 capítulos (56–76), unos tres volúmenes con fronteras móviles. El corte conserva protesta de Rimuru y respuesta de Diablo; no incluye los combates del torneo. Propuesta pendiente de luz verde, sin prosa nueva ni cierre de S8.
 

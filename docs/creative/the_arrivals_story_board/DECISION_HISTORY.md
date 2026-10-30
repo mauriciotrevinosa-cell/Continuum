@@ -2556,3 +2556,8 @@ V44 continúa sin nueva petición de permiso. Escenas de casa/pareja y retorno p
 ### S8 — V44#6–9, 2026-10-30
 
 Primerencuentrofueraamparo,nobypass; contieneconfusiónespecíficaMakima, noargumentopodermaximo. Cielprivada, Chloechilddefensiva, parcialdisintegrativeedgeNOtotalannihilation. Rimurureunión/visita/Diablocuartocorrecto, Shionlímiterealcon agencia y Hinataprimerrespeto. No earlyromance/nuevosstats, continúahastaendpoint.
+
+
+### S8 — V44#10–12, 2026-10-30
+
+Sealcanzaendpointsolicitado,sindetenerseporpush:47capítulosS8totales35V43+12V44,27nuevosenestacontinuación. Chloe/FortyChronoaadaptación respetados, Rimuruelecciónpropia/visitantesagencia, RamirisBerettallegadaposterior, exactafunciónDiabloline. Torneopropuestoconsafetyfirstyhojaenblanco;noluchas/resultado/temporadacerrada. Registrosdanestadoyreservastodosloshilosincluidosh ermanoRicheh.

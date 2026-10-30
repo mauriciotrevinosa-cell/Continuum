@@ -3,13 +3,15 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 44
 **Season:** 8
-**Coverage:** S8E15–S8E19 (in progress)
+**Coverage:** S8E15–S8E20 (in progress)
 **Volume title:** **The People He Came Back To** (provisional)
-**Chapter files:** 9
+**Chapter files:** 12
 
 Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapter quota. The authorized section ends at the proposal of the tournament; its combat and later arcs need their own planning.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_43_INDEX_v0.1.md) · [Current continuity](the_arrivals_story_board/S8_VOLUME44_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md) · [Creator greenlight](the_arrivals_story_board/S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md).
+
+**Authorized section complete through the tournament proposal. S8 remains ongoing; tournament fights and the next chapter are not written here.**
 
 ## Reading order
 
@@ -24,3 +26,6 @@ Continuous aftermath, Yuka's own progress and the meeting with Tempest. No chapt
 | 7 | S8E18 | Hear Her | `THE_ARRIVALS_S8E18_LN_CHAPTER_01_HEAR_HER_v0.1.md` |
 | 8 | S8E18 | His Other People | `THE_ARRIVALS_S8E18_LN_CHAPTER_02_HIS_OTHER_PEOPLE_v0.1.md` |
 | 9 | S8E19 | A Place That Is Hers | `THE_ARRIVALS_S8E19_LN_CHAPTER_01_A_PLACE_THAT_IS_HERS_v0.1.md` |
+| 10 | S8E19 | Room at the Fort | `THE_ARRIVALS_S8E19_LN_CHAPTER_02_ROOM_AT_THE_FORT_v0.1.md` |
+| 11 | S8E20 | A City Between Cities | `THE_ARRIVALS_S8E20_LN_CHAPTER_01_A_CITY_BETWEEN_CITIES_v0.1.md` |
+| 12 | S8E20 | He Can Choose | `THE_ARRIVALS_S8E20_LN_CHAPTER_02_HE_CAN_CHOOSE_v0.1.md` |

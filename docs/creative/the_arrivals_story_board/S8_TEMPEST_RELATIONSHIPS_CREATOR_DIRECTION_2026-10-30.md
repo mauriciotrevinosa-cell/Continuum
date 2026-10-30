@@ -1,0 +1,19 @@
+# S8 — Tempest: relaciones acordadas con el creador
+
+**2026-10-30. Respuesta directa durante la apertura. Sustituye las propuestas pendientes del protocolo de verde donde difieran.** No llegadas o relaciones ya producidas; se construyen durante S8. [Verde y coautoría](S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md).
+
+## Respuesta íntegra
+
+> si me gustaria que hinata se vuelva como otra hermana para mau pq ve como rimuru lo respeta y asi y durante todo s8 se comienzana a acercar perod e una manera respetuosa de hermanos o compatriotas, si con chloe me agrada que mau lo diga tan ligero como si nada no como demostrar que el sufrio mas y tal ves solo se lo cuenta a rimuru y tenemos que tener cuidado con chloe pq ella solo recuerda en si solo un bucle de lo que me acuerdo y me gustaria que chloe tal ves se lleve con las del fort y vea a  mau como rimuru pero sin el amor de amor sino puede desarollarse como un amor que umaru y ori tienen hacia mau, si me gusta que yuka y chloe convivan eso hace que nacaje mejor con el fort. si me gusta mantener a veldora veldora y rimuru es el que explicitamente les prohibe pelear fuera del dungeon o del torneo pq no quiere catastrofes y milim puede ser mencionada como colateral. M eagrada que shion regres auto a ser la secretaria de rimuru y rimuru si le ponga un alto y tal ves esto haga sufrir a shion pero rimuru le explica y que shion vea como diablo se volvio parte de la casa y no solo de rimuru y esto haria que ella comience a pensar en nuevas cosas
+
+## Dirección vigente
+
+- **Hinata/Mau:** acercamiento a lo largo de S8, respeto de hermanos/compatriotas. Ver cómo Rimuru lo respeta abre una vía de confianza, no garantiza intimidad instantánea después del incidente. Sin romance, seducción o rival de Yuka; puede llegar a sentirse otra hermana sin competir con vínculos familiares ya existentes.
+- **Chloe/Mau:** afecto familiar posible, comparable al de Umaru/Ori, no amor romántico. El comentario de que Mau podría ser mayor que los bucles combinados es ligero, quizá sólo a Rimuru; no competición de sufrimiento ni edad infalible. **Comprobar versión/edad/punto de extracción y qué recuerda Chloe:** el creador cree que recuerda un bucle, no se convierte esa cautela en un dato fuente verificado ni en memoria total de todos los bucles. No escribir una Chloe psicológicamente omnisciente por ser conveniente.
+- **Chloe/Fort/Yuka:** convivir con las del Fort y desarrollar amistad propia con Yuka, no mera visita de potencial admiradora de Mau. Los afectos se ganan en escenas ordinarias; no reemplazar a Ori/Umaru ni a quienes ya integran el Fort.
+- **Veldora/Mau/Milim:** conservar personalidad de Veldora. **Rimuru prohíbe explícitamente pelear fuera del dungeon o torneo** por riesgo de catástrofes; Milim puede entrar en la advertencia de daños colaterales. No nerf de amistad o supuesta incapacidad para divertirse; canal seguro para su entusiasmo. La orden no reescribe retrospectivamente la contención de emergencia inicial como un spar voluntario autorizado.
+- **Shion/Rimuru/Diablo:** vuelve intentando asumir automáticamente su puesto de secretaria. Rimuru pone un límite y explica el cambio; puede doler, no debe quedar como gag de rechazo. Ve que Diablo pertenece también a la casa, no sólo a Rimuru, y empieza a pensar qué quiere construir ella. No transferencia instantánea de su devoción ni renuncia a todo vínculo previo. Yuka puede acompañar esa integración desde lo cotidiano.
+
+## Registro futuro
+
+No convertir el destino de cada vínculo en el estado de la primera conversación. Registrar encuentros y desacuerdos para que en el capítulo siguiente no actúen como si el cambio ya hubiera sucedido. Consultar incertidumbres concretas al creador antes de fijarlas, sin parar la apertura anterior a estos encuentros.

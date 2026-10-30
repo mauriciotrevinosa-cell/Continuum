@@ -2516,3 +2516,8 @@ El creador pide recibir el esqueleto antes de autorizar capítulos. [Mensaje ín
 ### S8 — V43#1–3, 2026-10-30
 
 Verde directo completo guardado: estimaciones abiertas, secundarios breves, consultas de coautoría ante dudas y pushes regulares. V43#1–3 continúa desdeB+17 sin alterar previos; DIO elige estancia interior y Ashborn habitación física. Igris ancla real, emergencia avisada, dos cortes sin premios. Propuestas de relaciones Tempest pendientes de respuesta, no asumidas.
+
+
+### S8 — V43#4–8, 2026-10-30
+
+V43#4–8 desarrolla la cadena sin semana falsa de amistad: atención, incertidumbre, Ori/DIO, Pell, protección familiar activa, salida previa deDIO, trampa por contacto y Ciel cortada. Pánico tras cortar aMakima, restauración/escape y entorno×5/10% sin borrar estadísticas. Sin premios ni adquisición gratuita; todos los previos intactos. Respuesta completa de coautoría incorporada para vínculos deHinata, Chloe/Fort, Veldora y Shion, a construir duranteS8.

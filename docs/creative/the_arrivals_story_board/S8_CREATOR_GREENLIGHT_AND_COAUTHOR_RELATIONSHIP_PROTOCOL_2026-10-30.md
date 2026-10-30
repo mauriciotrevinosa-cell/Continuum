@@ -1,5 +1,7 @@
 # S8 — Verde del creador, ritmo abierto y trabajo de coautoría
 
+> **Respuesta del creador recibida:** [Relaciones Tempest acordadas, mensaje completo](S8_TEMPEST_RELATIONSHIPS_CREATOR_DIRECTION_2026-10-30.md). Las propuestas pendientes de abajo conservan la historia de la consulta; la respuesta posterior gobierna su desarrollo. No se ha escrito todavía la llegada.
+
 **2026-10-30. Autorización directa para escribir desde el cierre de S7 hasta la propuesta del torneo, no el torneo completo.** [Esqueleto autorizado con estas correcciones](S8_OPENING_TO_TOURNAMENT_PROPOSAL_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-10-30.md).
 
 ## Mensaje íntegro de autorización

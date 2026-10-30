@@ -36,8 +36,14 @@
 | V45#14 | S8E34 CH02 | B+40 afternoon | MauBocchisiblingmusicpromise fulfilled/Yukajoin, Kessokuownlearningjoy, futurehomeafternoonchosen/notforcedperformance. |
 | V45#15 | S8E35 CH01 | B+40 lateafternoon | ExactHQ/Fortactofwar/briefdelegateconcern/Rimurusweetsbribe/distantdoublinggag. Nicknamesticksnotactualcapital. |
 | V45#16 | S8E35 CH02 | B+40 evening/night | OriMYgoodluckvisit/drawing, boatpackedgoesMum/Himmelwalk, twoFortgiftbasketsdelivered, MYquietnight. V45closesprecontest,V46continuesimmediately. |
+| V46#1 | S8E36 CH01 | B+41 openingmorning | Mau/Masayuki fullbout: expectationnoticed/specificnativeadaptationnotallluckdeletion, controlledfinish/surrender, noarmy/newbuild. |
+| V46#2 | S8E36 CH02 | B+41 morning | Lu/Kaneki fullregen/contactcostcontest then Gojo/Gabil flight/finitegradient/ringout; opponentslearn/dignityretained. |
+| V46#3 | S8E37 CH01 | B+41 morning | Yuka/Souei fulltacticalduel earnedlimitedGarden/rope/Skysequential, disarmrecovery/ownplan/wristcost/surrender; familysupportafter. |
+| V46#4 | S8E37 CH02 | B+41 latemorning | Frieren/Fern fullduel and specificpraise/futurechosenmagicstall. Aerialringoutlearnedcorrection, FernStarkownwalk, HimmelFrierencare. |
 
 ## Current state
+
+**LATEST: V46#4/S8E37CH02, B+41 late morning. Five opening bouts complete; continue remaining opening field and festival life.**
 
 **LATEST: V45#16/S8E35CH02, B+40 night. V45 complete at the natural pre-contest pause; immediately continue V46 B41 opening rounds.**
 
@@ -128,3 +134,20 @@ HQgag FULLYPAID #15: Umarufirsthearsofficialcorrespondencename, injustice/actofw
 B40nightOrigoodluck visit M/YbeforeB41fights, existingpaperboatdriedplacedonsupportbyOriownchoiceforhome, then OriGOESWITHFRIEREN/MUM takingboat/tellfoldstory/Himmeljoinswalk. DrawinggivenM/Y (smallillustrationboundaryadvice); nowinsharedguestroom, packoracklater. CompassFrierenunchanged,nodadtitleforced. M/Ypromisegoodcheerevenloss notdeathpromise. Frieren/Himmelownongoingquietapproach, no oldAlovecompetition. MYquietnight/sharedroom, no explicitsex/pregnancy/newdatewedding. Rulepaperdownstairsnofurtherobsession.
 
 Next immediateV46B41. Drawshowninprosenotchat, firstdayopeningmatchesinterleavedrelationships/food/rest. Need corefightslongerandcomplete, no allfragmentshort. Followtournamentdesignpathsorchangeunpublishedifscenehonestlyrequires. NativeMahoYukaalreadyB26tamednotfutureunlock; no newNoisebuild; 6615unchanged/home40+Muster. Endcutoffstill far, continuepusheswithoutfinaluntilactualreturn.
+
+
+## V46 first4 / actual opening results and retained costs
+
+Openingmatchesproduced5of16, notallR1finished. ActualdrawMau/Masayuki;Lu/Kaneki;Gojo/Gabil;Yuka/Souei;Frieren/Fern. OutcomesMau,Lu,Gojo,Yuka,Frierenadvance. Do not yet write next-round pairing as started until remaining11done. Publicdraw existedB41morning, nottournamentrestartlater.
+
+Mau/Masayuki: foreignCEoperationclosedbeforeexistingnativewheel; exposuregraduallyletsownjudgementresistTHISongoingexpectation, not luckdeleted/everybodymindimmunity/newNoisetech. Fortune stillcausesnarrowforearmcutthenfreshRCTrepair, oldsequelaeintact. Controlledwristhold/lightcheektap/offersstop/Mayields, respectnolookdown. No stats/XP/gains, nativeregistryunchanged. Cielvoluntaryprivateonly, no out-of-fieldtactics.
+
+Lu/Kaneki:precisioncuts/persistentregenghoulpressesheractuallyhits, sheusescontactlifeforcedrain/forcesregenandattackcostsplit, notpermanentnullification/soulerasure. Kanekikneelnotautomatchloss, CHOOSESyieldfromposition, Lu immediatelyreleases. Touka/Ichika ownwarmfamilyafter. Ciel/NoiserecordVISIBLEdifferentoperations, notunshownultimateblueprints. Luprivatecardsretained.
+
+Gojo/Gabil:flight/trident/watersweep changesterrain, InfinitystopsdirecttouchbutNOTscorebyitself; existingfinitegradientgapshift+shortapproach/pushhaft ringout viafixedairboundary, Gadidlearnadaptfirstpull. Gojono newevolution/brainreset, Shokofriendlycheckrepairedrelationshipstatepreserved.
+
+Yuka/Souei:rookieagainstskilledopponent, wristthreadcuts/disarmed/unplannedfailure, recallsnativebeforeborrowedSkycurve(to recoverweapon), CLOSESSkybeforenativeGarden. Soueireal/double/threads/shadowmobilityoperate. Ropefalseweightlead/limitedGarden+double+Toadinterruptrealguard/controlledpointbeneathjaw, Soueiyieldsunderacceptedfinishrules. Nativecosthers/borrowedcostMauacknowledgedfinite; Mau doesNOTcoach despiteurge. Yuka wristbandagedaftercheck, fatiguedreservepacebeforefuturematch. Ropeordinaryalmostcutthrough retrievedstillhers, othergearretained. NoMaho/Agitodestruction/newdomainperfected/newCT. Familyproud/Mai/Yuta/Maki, MauhonestpraiseYukahug. Soueiinvitesfuturepracticeaccepts.
+
+Frieren/Fern:rapidZoltraak/flight/guardpartialphysicaldebris/ownconcealment, Fernmeaningfulshoulderhit, Frieren seesrepeatedcorrection/preplacessecondshotforcesaerialringout beforeclock. Frierenhurtshoulderminortreatedordinary, nobarrierall-soulpromise. SpecificFernpraise:stoppedwaitingfirstchoice/trustedpreparedsecond, neededrealdefence. Fern/Starkchoosewalkafter; Frieren/FernmagicstalltogetherTOMORROW(nohouseinventorytask). Himmelowncontinuedapproach/watchingFrierenhappy, no newromanceconclusion. Fernlosingnotpunished/carejobreset.
+
+M/Y sittingwithFortwhennotfighting, Yuka reservesrecover/jointcost matters nextscheduledbout. NobiglegionrevealuntilDemonstration. HostDIO/Ashbornnotusedincombat/newallybuff. MiniCiel/Noise stillnobuildpact. No braceletrewards/systemfarms. Continue remainingopeningmatchescreativefullsceneperneed, plus off-floorlives. Fullcreatorcutoffnotreached.

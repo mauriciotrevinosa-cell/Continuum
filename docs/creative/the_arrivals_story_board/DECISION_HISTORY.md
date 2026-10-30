@@ -2626,3 +2626,7 @@ V45#9–12 completeworldarrival/MYprivatefutureconversation/Remconsultation/seco
 ### S8 festival — V45#13–16, 2026-10-30
 
 V45#13–16 actualfield32+ownscenes; exactHQgagfulfilledwithtwobasketsgift, no townalreadybuilt. OriMum/boat/titleboundariesretained. Own competition version/path/rulesdesign recorded for consistent future choreography, not source-compositepowerclaim or sealedcoauthorfile.1517olderchaptersunchanged. Naturalvolume16endnotpermissionstop, continueV46.
+
+### S8 festival — V46#1–4, 2026-10-30
+
+V46#1–4 fiveopeningbouts fullywitnessed, sportsresultsnotcanonicalmaxranks, noinstantallluckadapt/Infinityautowin/newNoisebuild. YukaoneCECTs/nativecosts; F/FownbondpraiseandStarkwalk. All1521olderchaptersuntouched. Still11openingmatchesremain. Continueaftercheckpointthroughauthorizedreturn.

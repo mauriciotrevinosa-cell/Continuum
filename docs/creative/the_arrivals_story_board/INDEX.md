@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Esqueleto parcial para revisión — 2026-10-30:** [Inicio de S8 hasta la propuesta del torneo](S8_OPENING_TO_TOURNAMENT_PROPOSAL_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-10-30.md). Aproximadamente 65 capítulos (56–76), unos tres volúmenes con fronteras móviles. El corte conserva protesta de Rimuru y respuesta de Diablo; no incluye los combates del torneo. Propuesta pendiente de luz verde, sin prosa nueva ni cierre de S8.
+
 > **Ampliación S8 — 2026-10-30:** [Mensaje íntegro: Mau/Yuka con Rimuru, Shizue, decisiones de Tempest, amigos interiores, Walpurgis, Witch Hat y hermano de Richeh](S8_TEMPEST_SHIZUE_INNER_FRIENDS_WALPURGIS_WITCH_HAT_CREATOR_EXTENSION_2026-10-30.md). Ramiris deseada sin primera pelea; manifestación interna de Ciel elegida por ella; nombre de Noise pendiente. Informes, comunidad y acuerdos sin cerrar S8 ni dar llegadas o capítulos por producidos.
 
 > **Segunda sección S8 propuesta — 2026-10-29:** [Tempest, elección deRimuru, contención, festival/torneo, loft/familias, obras y economía](S8_TEMPEST_RIMURU_CHOICE_FESTIVAL_HOUSING_AND_TRADE_CREATOR_PROPOSAL_2026-10-29.md). Mensaje íntegro. Aclaración expresa: sólo red comercial entre ciudades limitada a monedas/cristales; técnicas personales conservadas. [Cotejo y candidatos](S8_TEMPEST_SOURCE_NOTES_AND_ARRIVAL_CANDIDATES_2026-10-29.md), no llegadas fijadas o prosa nueva.

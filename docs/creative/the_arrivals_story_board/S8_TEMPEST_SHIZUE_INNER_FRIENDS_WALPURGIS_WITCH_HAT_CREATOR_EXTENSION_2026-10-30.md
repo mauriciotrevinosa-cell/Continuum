@@ -1,5 +1,7 @@
 # S8 — Rimuru y Shizue, amistades interiores, Walpurgis y Witch Hat
 
+> **Esqueleto parcial para revisión — 2026-10-30:** [Inicio de S8 hasta la propuesta del torneo](S8_OPENING_TO_TOURNAMENT_PROPOSAL_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-10-30.md). Aproximadamente 65 capítulos (56–76), unos tres volúmenes con fronteras móviles. El corte conserva protesta de Rimuru y respuesta de Diablo; no incluye los combates del torneo. Propuesta pendiente de luz verde, sin prosa nueva ni cierre de S8.
+
 **2026-10-30. Ampliación del creador conservada íntegra. Planificación abierta: no capítulos, final de temporada o llegadas ya producidos.** [Propuesta Tempest anterior](S8_TEMPEST_RIMURU_CHOICE_FESTIVAL_HOUSING_AND_TRADE_CREATOR_PROPOSAL_2026-10-29.md) · [Primera sección/dungeon/regreso](S8_DUNGEON_RESTRICTIONS_BODY_CAP_FALSE_MONARCH_AND_HOMECOMING_CREATOR_DIRECTION_2026-10-29.md) · [Salida S7](S7_SEASON_CLOSE_VOLUME42_HANDOFF_2026-10-28.md).
 
 ## 1. Mensaje íntegro del creador

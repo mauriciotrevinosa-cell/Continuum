@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 49
 **Season:** 8
-**Coverage:** S8E68–S8E76 (in progress)
+**Coverage:** S8E68–S8E79 (volume complete; S8 continues)
 **Volume title:** **What the World Brings** (provisional)
-**Chapter files:** 18
+**Chapter files:** 24
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -33,3 +33,9 @@ The continuation after the household's festival return. Scene length follows the
 | 16 | S8E75 | A Short Answer | `THE_ARRIVALS_S8E75_LN_CHAPTER_02_A_SHORT_ANSWER_v0.1.md` |
 | 17 | S8E76 | The Drop That Reached Him | `THE_ARRIVALS_S8E76_LN_CHAPTER_01_THE_DROP_THAT_REACHED_HIM_v0.1.md` |
 | 18 | S8E76 | He Told Them First | `THE_ARRIVALS_S8E76_LN_CHAPTER_02_HE_TOLD_THEM_FIRST_v0.1.md` |
+| 19 | S8E77 | The Morning Still Happened | `THE_ARRIVALS_S8E77_LN_CHAPTER_01_THE_MORNING_STILL_HAPPENED_v0.1.md` |
+| 20 | S8E77 | The Shape of His Hand | `THE_ARRIVALS_S8E77_LN_CHAPTER_02_THE_SHAPE_OF_HIS_HAND_v0.1.md` |
+| 21 | S8E78 | The Hand She Could Hold | `THE_ARRIVALS_S8E78_LN_CHAPTER_01_THE_HAND_SHE_COULD_HOLD_v0.1.md` |
+| 22 | S8E78 | Leave the Drawing Open | `THE_ARRIVALS_S8E78_LN_CHAPTER_02_LEAVE_THE_DRAWING_OPEN_v0.1.md` |
+| 23 | S8E79 | Who Was Having Supper | `THE_ARRIVALS_S8E79_LN_CHAPTER_01_WHO_WAS_HAVING_SUPPER_v0.1.md` |
+| 24 | S8E79 | It Was Still His | `THE_ARRIVALS_S8E79_LN_CHAPTER_02_IT_WAS_STILL_HIS_v0.1.md` |

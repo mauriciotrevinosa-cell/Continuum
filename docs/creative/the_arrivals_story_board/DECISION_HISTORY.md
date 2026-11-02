@@ -2776,3 +2776,7 @@ V49#7–12: actual Olruggio recognition, girls/mother reunion and request for Ha
 ### Resto S8 — V49#13–18, 2026-11-02
 
 V49#13–18 developed invited Hall visit, Q agency, bounded signing parties/ink teaching and house protections, voluntary brief duel with target-sensitive exposure/burnout, prepared local Brimmed ink delivery during recovery. M intercepts almost all but trace forced ingestion, no bypass of active Infinity/remote organs/Ciel forgotten. Living attacker captured unknown identity, M immediately tells R/Y and returns for Shoko checks. Ink adaptation is AU plot mechanism not quoted canon. Observation not construction, no body change yet. Old chapters preserved; continue authorized S8.
+
+### Resto S8 — V49#19–24, 2026-11-02
+
+V49#19–24: delayed ink arm deformation and actual repair, Ciel/Noise local scope explicitly chosen, maintenance feedback distinguished from secret new construction. Shoko checks/limits and Q/O expertise, M lets others help/Yrelationship lived; old scars/grey/physical stats preserved. Shion/R choice and Rem/Shuna household lives continue. B63 limited return to ownroom, monitoring/recheckB64; not cure/allglyphunlocked/ShadowMonarchcapbreak. OchoosesproposelongerworkwithQ not imposed resident job, Rilibrotherstillmessagepending. V49closes24 naturally; continueS8.

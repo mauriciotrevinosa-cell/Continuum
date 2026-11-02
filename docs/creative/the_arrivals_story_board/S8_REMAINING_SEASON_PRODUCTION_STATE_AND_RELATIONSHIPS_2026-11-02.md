@@ -47,10 +47,16 @@ Read the current state below instead of treating earlier planning possibilities 
 | V49#16 | S8E75 CH02 | B+61 afternoon | Voluntarytarget-onlyshorterVoidEasthies, monitoredrecovery and realburnout; no universalmedicaldose/newpower. |
 | V49#17 | S8E76 CH01 | B+61 afternoon | Preparedlocalsleeveglyphinkjetduringburnout; Mblocksmost/traceswallowed, captureslivingBrimmed/QOhelp/Cieltracks. |
 | V49#18 | S8E76 CH02 | B+61 evening | Signedboundedagreement, MnotifiesR/Yimmediately, all3returnKaisel/OownbedrollQroom; Shokoexam/recheckdueB62. |
+| V49#19 | S8E77 CH01 | B+62 morning | ActualShokorecheck/houseordinaryday, Halltermsrelayed, firstdelayedrightforearmlineMreportspromptly. |
+| V49#20 | S8E77 CH02 | B+62 late morning/afternoon | Rightarmtissuepartlyunravels/reforms; teamidentifiesmaintenancefeedback/foreignink, pauseswrongrepairnotstats; firststablehold. |
+| V49#21 | S8E78 CH01 | B+62 afternoon/evening | MYcompletecare/food/weddinglife/fearconversation, Yownneeds/Mletsothersaccompany, notfearhouse. |
+| V49#22 | S8E78 CH02 | B+62 evening/night | Scopedlocalmaterialinterfacechosenjointly/restnewbuildheld; gradualrightarmbaseline repair, clinicnight/Ycompany/no oldsequelaecure. |
+| V49#23 | S8E79 CH01 | B+62 evening parallel | Shion/R trustingbeyondservice, Shuna/Remchoice/supper; otherhousecontinues. |
+| V49#24 | S8E79 CH02 | B+63 morning/afternoon | Actualfollowup/mostlyformedarmwithremainingchecks, returnMYroomrestrictions/B64recheck; Ochoosesdiscussstay/work, quietMYhome. |
 
 ## Current state
 
-**Current endpoint: V49#18, B+61 evening. Volume49 in progress. Full remaining S8 is authorized; continue after checkpoints.**
+**Current endpoint: V49#24, B+63 afternoon. Volume49 COMPLETE24chapters; NEXT Volume50. Full remaining S8 is authorized; continue after checkpoints.**
 
 ## Current Witch Hat result / ink exposure
 
@@ -61,7 +67,11 @@ Read the current state below instead of treating earlier planning possibilities 
 - TraceboundmaterialCieltracking; immediatechecksno newpain/breathingdeficit. NoisehaswordlessattentionbutMobeysWAIT; observationONLY, heldnewconstructionnotsecretbetrayal. DELAYEDbodyreactionnotyetoccurred.
 - #18boundedagreementactuallysigned byQ/localrepresentatives, Oassumesco-teacherresponsibilitybychoice. MIMMEDIATELYtellsR/Ybeforeflight. M/Q/OreturnB61eveningonKaisel, Kstored/homeguardunchanged. OchoosesinitialnightowntravelbedrollinQactualroomafterQoffer, no newguestwing/permanentjobassigned. Girls/motheractuallyhearresult. Rilihasnotbeenfound/messageforwardpending.
 - ShokoexamB61eveninginclskin/mouth/responses/twohearts, no majornewfinding; RECHECKDUEB62morning/reportanychange. Mreportsdemonstration/cost/attacktoR/Ywithoutsoftening/hiding. Bedrestnotorderedifnochangesyet, no inkconstructionpowers/statgain.
-- NEXT B62followup and normal town decisions whiletracingink; delayedbodymini-arc must receive fullscene. Olruggiofurtherstay/residencyownchoice; signatoriesresponse/investigationnotmagicallysolved.
+- B62actualfollowupinitiallynounusualexam; firstrightforearmlineatworkingtableMpromptlyreports. #20actualpartialhand/forearmunravelling/reformation/pain/sensorydelay. Cielidentifiesexistingmaintenancefeedbackforeigninkmaterial, NO deliberateNoiseconstruction. Q/Oexternalglyphcomparison/Shokoobservations/MYRsupport. Stopfeedingwrongrepairloop; firststablehold.
+- #21fullMYfood/fear/weddinglifeconversation/Yownneedsnotservitude/MacceptsYuta&Rcompany. #22M/Ciel/NoiseAGREEspecificLOCALseparationinkmaterialroutefromsomaticmaintenancereference; othersnewbuildstillHELD. Partialreformationgradual/stopwhenpain, no wholekit/capbreak/oldscarhealing. DIO/Ashbornwait/asknoauthoritybodytakeover. OvernightclinicB62, Shokorotation/Ychaircompany.
+- #23sameB62eveningShionRboundaryandtrustbeyondservice/ShunaRemchooseownlife. #24B63ACTUALShokocheck: rightarmmostlyformedfaintlines/numbouteredgeremain, allowsMYroomafterlunch. NOcombatorstrenuouswork/NOexperimentnewinkspell/Cielwatch/RECHECKB64morning orbeforeifchanges. Grey/oldleftfingers/scarsremain. MYordinaryholdinghandsnotinstantphysicalcure.
+- OexplicitlychoosesdiscussstayingBEYONDaccidentwithQ: ownworkspace/teachingshareddecisions, provisionalasktohouseNEXT notfreewing/servantassigned. ActualcurrentbedrollinQroombychoice. Rilifinishedmessagegoesknownroutewithdateofnextdispatch, brotherNOTfound. Hallattackinvestigationstillpending.
+- NEXT V50B64followup/actualhouseworkspaceandbuildingchoices/resources, useapprovedhousingbonds. Beginconstructiononlywhensites/materialstested, don'tuseMpausedarmasreasontoexcludeallopinions. Glyphclassesnotyetbegun/wholeabilitynotunlocked. FullplanrestS8continues.
 
 ## Town and actual visitors
 
@@ -97,7 +107,7 @@ Read the current state below instead of treating earlier planning possibilities 
 - Jointreview actually done V48#3: existingmaintenancecontinues, NEWconstructionHELD until jointlychosen scope/cost/time. Observation/analysis/blueprints continue, no blankguestmemorypermission. LaterAshborn discovers continuousanalysis inclDIO; realpleito needed, not Mdeliberatelybetrays existing explicitpromise. NameNoise remains undecided.
 - DIO weakphysicalrealvoluntaryrefuge; Ashborn real before rest, voluntaryguest not shadow/soulconsumed/thirdheart. Fixed protection isn't travellingbubble.
 - S8 only glimpses partiallightfragment/ShadowMonarch reconstruction; FULLsystemcapbreak/bodydevelopmentS9. No prematureBlackHeartfullactivation/newstats/XP.
-- W H contact/Hallnegotiation/approvedingestionDONEasabove; NEXT delayedinkbodilyarc with Q/O/Shoko/Ciel and agency. Then homebuilding/glyphlessons/spy/Ram/MRoutside/Rulersagreement/innerguestpleito and lived town/dinner. Don't open war/torneonewmajorarc or write S9boda/pregnancy.
+- W H contact/Hallnegotiation/approvedingestionANDdelayedbodyepisodeproducedasabove; NEXT followupstablelocalinterface and town/classes. Then homebuilding/glyphlessons/spy/Ram/MRoutside/Rulersagreement/innerguestpleito and lived town/dinner. Don't open war/torneonewmajorarc or write S9boda/pregnancy.
 
 ## Fixed inventory and mechanics
 

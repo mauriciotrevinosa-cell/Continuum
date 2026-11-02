@@ -2674,3 +2674,7 @@ V47#20–22 closes authorized festival section ONLY AFTER actualB47Innreturn+cur
 ### S8 — Corrección de presencia de Ko, 2026-10-30
 
 Mauri: «aun no traemos a Ko que ask ahi». Ko NO ha llegado a esta rama. Corregidas únicamente sus apariciones físicas erróneas en V45#5, V46#7, V46#10 y V47#13; amistad Seika/Nazuna y pelea/resultados conservados. Metadatos/registro/relevo/propuestas dejan clara la ausencia; mensajes íntegros originales preservados. Sin llegada retroactiva, moneda, alteración de conteos o nuevo arco. [Regla efectiva](S8_KO_NOT_ARRIVED_CREATOR_CORRECTION_2026-10-30.md).
+
+### Horizonte de cierres S8–S11 para opinión, 2026-11-01
+
+Mauri lee V47#13 y propone planear el resto de S8 y unas tres temporadas adicionales con hitos flexibles: boda, Inn→pueblo, lista de habitantes/familiares y respuestas a Makima/Arquitecto/convergencias. [Mensaje íntegro y propuesta editorial](S8_TO_S11_CLOSURE_HORIZON_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-01.md). El coautor propone priorizar comunidad enS8, boda tempranoS9 y cierres entrelazados de operaciones/facciones, no escalera rígida de jefes ni aumento universal. Segunda peticiónDIO YA cumplida, pedida/convivencia/pactoMai ya escritos, antigua infiltraciónMakima descartada. No se aprobaron estas ubicaciones, fecha de final, nuevas llegadas, monedas o capítulos; no se extiende el verde del festival ni se consulta material sellado.

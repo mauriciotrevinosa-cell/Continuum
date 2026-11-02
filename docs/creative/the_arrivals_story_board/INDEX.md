@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Horizonte de cierres para opinión — 2026-11-01:** [Resto de S8 y posible S9–S11](S8_TO_S11_CLOSURE_HORIZON_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-01.md). Propuesta flexible para ordenar pueblo/familiares/boda y pagos de Makima/Arquitecto/mundo; NO final aprobado ni verde para capítulos. Respeta lectura V47#13, sin spoilers de lo restante.
+
 > **Corrección de presencia — Ko NO ha llegado:** [Aclaración de Mauri y cuatro escenas corregidas](S8_KO_NOT_ARRIVED_CREATOR_CORRECTION_2026-10-30.md). Mantener historia de origen de Nazuna no permite añadir a Ko como residente o invitado.
 
 > **Producción festival S8 — V47#22:** **Tramo acordado completo:** la casa regresó al Inn con sus invitados y propuestas voluntarias. La siguiente construcción/arco espera nuevas decisiones del creador. [Relevo final](S8_FESTIVAL_ACTUAL_HOME_RETURN_AND_NEXT_ARC_HANDOFF_2026-10-30.md). [Leer](../THE_ARRIVALS_LN_VOLUME_47_INDEX_v0.1.md) · [Estado/relaciones](S8_FESTIVAL_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-30.md) · [Verde](S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md).

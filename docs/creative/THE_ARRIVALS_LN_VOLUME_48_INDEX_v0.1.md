@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 48
 **Season:** 8
-**Coverage:** S8E57–S8E59 (in progress)
+**Coverage:** S8E57–S8E61 (in progress)
 **Volume title:** **The Rooms Between Us** (provisional)
-**Chapter files:** 6
+**Chapter files:** 9
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -21,3 +21,6 @@ The continuation after the household's festival return. Scene length follows the
 | 4 | S8E58 | For Herself | `THE_ARRIVALS_S8E58_LN_CHAPTER_02_FOR_HERSELF_v0.1.md` |
 | 5 | S8E59 | Before the Tea Went Cold | `THE_ARRIVALS_S8E59_LN_CHAPTER_01_BEFORE_THE_TEA_WENT_COLD_v0.1.md` |
 | 6 | S8E59 | Something She Would Have Liked | `THE_ARRIVALS_S8E59_LN_CHAPTER_02_SOMETHING_SHE_WOULD_HAVE_LIKED_v0.1.md` |
+| 7 | S8E60 | Leave the Door There | `THE_ARRIVALS_S8E60_LN_CHAPTER_01_LEAVE_THE_DOOR_THERE_v0.1.md` |
+| 8 | S8E60 | Before She Knew Him | `THE_ARRIVALS_S8E60_LN_CHAPTER_02_BEFORE_SHE_KNEW_HIM_v0.1.md` |
+| 9 | S8E61 | Breakfast Before the Road | `THE_ARRIVALS_S8E61_LN_CHAPTER_01_BREAKFAST_BEFORE_THE_ROAD_v0.1.md` |

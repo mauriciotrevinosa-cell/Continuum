@@ -2740,3 +2740,7 @@ V48#1–3 continueexactlyB48afteractualInnreturn. Mainconversationsfull, otherle
 ### Resto S8 — V48#4–6, 2026-11-02
 
 V48#4–6 centralconsentandmemorygivenfullspace plusshortsidewindowasneeded. CieloldKamishSTOPrememberednotpermissionreset; R/Ydistinctaccess; warmthbeforetrauma, noallarchiveinfodump/newpower. All1566olderchaptersuntouched. ContinueB49next, temporaryguestreturnB50stilldue.
+
+### Resto S8 — V48#7–9, 2026-11-02
+
+V48#7–9 Fortphysicalproximity/futurefamiliesandindependenthomesexpressednotbuilt, Trialrelivinghaspauseandpresentengagementkept, fivepupils/HreturnactuallyleaveB50ratherthanvanish. Shizueloanexplicitrenewalnotforcedeviction. Old1569chaptersunchanged. ContinueCielarchiveandordinarylifebeforeWitchHat.

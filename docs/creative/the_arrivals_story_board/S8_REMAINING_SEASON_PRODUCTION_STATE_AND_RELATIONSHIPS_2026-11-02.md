@@ -14,21 +14,29 @@ Read the current state below instead of treating earlier planning possibilities 
 | V48#4 | S8E58 CH02 | B+48 midday | CielasksMOREforherself; rememberedpriorSTOP, M/Y/R agree scope/pause/companions; eveningfirstsessionplanned. |
 | V48#5 | S8E59 CH01 | B+48 afternoon | Shortsidewindow: actualhome teaSeika/Ram, Remhappyforsister, noforcedlabel orbeds. |
 | V48#6 | S8E59 CH02 | B+48 evening | Firstchosenarchiveview: CielaloneSEESbeautifulAflower/friends/Ffestivalrepeat; Rreactions/Ycompanionship, pausechosen, nofulltraumaorcolourcure. |
+| V48#7 | S8E60 CH01 | B+49 morning | Housechoosesactualhousingwishes: FortcommonDOOR, Bocchifuturefamily, MYOkkotsuprivacy, GojoShoko2dorms; noactualbuild/coins. Rsurveyletter. |
+| V48#8 | S8E60 CH02 | B+49 evening | SecondarchiveTriallife/weddingedgeCielSTOP, supportMYR; engagementchoiceaffirmed/notreset, hiddenfinalmemorystillnotaccessed. |
+| V48#9 | S8E61 CH01 | B+50 morning | Actualscheduleddepartureall5pupils/Hinatawithletter; Shizuestays/Diablobandbedloanrenewed3nightsuntilreviewB53. |
 
 ## Current state
 
-**Current reader position: V48#6, B+48 evening.** Continue authorized restS8 after checkpoint.
+**Current reader position: V48#9, B+50 morning after departures.** Continue authorized restS8 after checkpoint.
 
 - Earlier#1–3 in produced table: MY ordinarymorning, actualRem/Ram/Umaru/Taihei/Suika/Seikahousingwishes, actualNoisereview keepingnewbuildsHELD.
 - #4: fullnewrequestandconsent lived. Ciel remembers earlierKamishclip/ownSTOP, asks MORE nowforherself. M admitsfear, Y supportivewithoutfile, RinvitedafterCielconsent. ExistingMYroom agreed firstsessionaftereveningmeal. Shokoknowsplan/canbecalled, notgivenimages. BothM/Cielcanpause; no obligationtofinish.
 - #5: secondarycompletehomeTEA Seika/Ram fulfillsfestivalinvitation. Rem/Umaru/Suika nearbygame, RamlikesRemaskedhousingwish. Warmowninterest/no label/couplecohab.
 - #6: FIRSTSESSION actuallyshowsCielselectedtrueAmemories: clearing/smallflowerlearning, M/R/Ytfamiliarcompany, oldFrierenfestivalwantingrepeatnextyear. CielSEESandreacts, RHEARSselectedreactions, YONLYMoralcontext. MreturnstopresentgreyYcolournotcured. YchoosesstaybesideMwhenoldlovecomesup. Cielchoosespauseforloveliness, Mchoosesnotpursuepainjustbecausepathsnear; allSTOPpeacefullyforthenight. NoTrial/Kamishviolenceviewedagain, nohiddenmemory, noclaimedallarchivefinished. NEXTB49morninghouse/guestvisits/plans, laterreadingsgoonatpacechosen.
 
+- #7 B49morning: HOUSEVOICESactualconsult. FortdirectDOORcommon/dining retained, Bocchifamilyparents/sisterspacekeptnearband/Mau notarrived, bandprivatestair/acousticquestionswritten; MYprivacy/relativeschosen, GojoShoko BOTHpropose2bedroomsharedhome(noactualmove). OthersincludefamilyKaneki/Touka/Ichika, MaomaoJinshi, Senku/Wakana/Mai/Fernrealdecisions/questions. RimurulettersurveyrequestforGeld/Kurobe carriedHtomorrow; noexpertarrival.
+- #8 B49evening secondARCHIVE: CielaloneviewsinitialTriallife/loss/weddingedge, asksSTOPwhenMdistressed. PresentMYengagementchoiceREASSUREDusingmountain/Berujoke, notreset. RrecognizesMsoftenedstorybutMexplainstryinggetthroughtelling. VerbalcontextremainingTrialonly; newhiddenpostworldselfdestructionSTILLNOTREACHED. Allstop/rest, CielnotOGparticipant.
+- #9 B50breakfast/departure: all5studentsLEAVEwithHinataforactualtwo-daygroundtripTempest, notalreadyarrived. HcarriesRletter; AnkoHmutualaffectionpromisevisits, nojob-only. ShizueCHOOSESstay; Diablo/Seika/Nijika/Bocchi explicitlyrenewbedloanTHREEmorenights50/51/52, REASSESSB53morning, Dmusictravelbedonlyafterpracticeandpackedbeforeuse. NOguestwingfree/arrivalhouse/officebed. MquieterafterTrialnight,safeordinarybreakfast/Yclose.
+- NEXT: B50later, resumechosenarchivewithpauses/support. StilloriginalKamish/recentRedGate/ownMoraltruthandnewhiddenTrialmemoryNOTdone; doNOTskiptoallprocessed orWitchHatjourney.
+
 ## Space, visits, relationships
 
 Existing Inn remains two floors/tree/root circle/ward fixed. MY actual cohabitation sinceDay746; futureapartment3dorms/sitting/eastwindow not built. R actual ownloft above Diablolowerbed borrowedShizue, NOT downstairs office; Diablo travelbedmusic afterpractice/packsbeforeuse. Hinata owncot AnkoNazuna room withconsent/curtain, no sharedbed implied.
 
-PupilsChloeKenyaRyotaGaleAlice visit3nightsB47/48/49; return STARTSB50morning afterbreakfast withHinata, two-daygroundroute not instantarrival. Three-nightbedloans needreassessment. Shizue came now/remembersR/youngadultstable/noIfrit; soleRcoinspentonce not newfuturearrival. Other prospectiveTempestresidents still not arrived by proposal.
+PupilsChloeKenyaRyotaGaleAlice COMPLETED3nightsB47/48/49 and DEPARTEDB50morning withHinata; nowonactualtwo-daygroundroute, notinstantarrival. Shizue/Diablo bedloan reassessedandrenewed3nights50/51/52 withbandconsent, reviewB53. Hinatacotpacked/departed, AnkoNazunaroomrestoredordinaryarrangement. Shizue came now/remembersR/youngadultstable/noIfrit; soleRcoinspentonce not newfuturearrival. Other prospectiveTempestresidents still not arrived by proposal.
 
 MY engagedsilverleftband/familyringcord/flowerbraceletseparate, McLarenhoodieYuka borrowedhung; nosex/pregnancy/weddingdate. OriMUMFrieren/compasstoFrieren, boat safe and activityafterbreakfast not yetdone; noPapa transfer. AnkoHinata kissed already; SeikaRam teatimepromised; RemUmaru mutualhand butnolabel. GojoShokooutingalreadyoccurred/newtwo-bedroomapartmentproposal only. Bocchifamilynotarrived; Kessoku theirplace/practice maintained.
 

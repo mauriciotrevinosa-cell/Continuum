@@ -1,5 +1,7 @@
 # S8 festival — Actual home return and next-arc handoff
 
+> **Continuation authorized 2026-11-02:** [Rest-of-S8 greenlight](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md) and [live production record](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md). The stop at V47#22 below is the completed festival boundary, superseded for the newly authorized continuation; produced facts below remain authoritative.
+
 **Produced through V47#22 / S8E56 CH02, B+47 evening. Authorized festival section COMPLETE. S8 itself continues.**
 
 This is the state reached in actual prose, not permission to execute the next proposed arc. Read the [creator's full greenlight and cutoff](S8_FESTIVAL_CREATOR_GREENLIGHT_AND_RETURN_HOME_CUTOFF_2026-10-30.md), [cumulative production/knowledge/relationship ledger](S8_FESTIVAL_PRODUCTION_STATE_AND_RELATIONSHIP_LEDGER_2026-10-30.md), [exact Shizue extraction direction](S8_FESTIVAL_SHIZUE_EXTRACTION_AND_DIO_SMALL_UPGRADE_CREATOR_DIRECTION_2026-10-30.md), [exact return-trip direction](S8_SHIZUE_STUDENTS_AND_HINATA_RETURN_HOME_CREATOR_DIRECTION_2026-10-30.md) and [V47 reading order](../THE_ARRIVALS_LN_VOLUME_47_INDEX_v0.1.md).

@@ -2722,3 +2722,8 @@ Mauri cuestiona render/planos previos, Yuka quiere familia cercana y Fort demasi
 ### Hogares omitidos en resumen y propuesta Gojo/Shoko, 2026-11-02
 
 Mauri señala Gojo/Shoko, Maomao/Jinshi, Rem/Ram y aclara que faltan otros nombres. Propone Gojo/Shoko en departamento con dos dormitorios separados y acercamiento gradual. [Mensajes íntegros y regla de revisión](S8_GOJO_SHOKO_TWO_BEDROOM_PROPOSAL_AND_NO_OMITTED_HOUSEHOLDS_2026-11-02.md). Ninguna omisión de resumen equivale a exclusión; cotejar todo el elenco actual y familias futuras antes de cerrar plano. Sin mudanza, cama nueva, pareja consumada o capítulos ejecutados.
+
+
+### Propuesta de hogares por relaciones vividas, 2026-11-02
+
+Mauri pide revisar convivencia: Rem quiereMau porfamiliasinjuicio/deuda, RamcercaRem/quieneslacuidan/Seika, RemcercaUmaru yUmaru cercasusdoshermanosTaihei/Mau. [Mensaje íntegro ypropuesta cotejada](S8_RELATIONSHIP_BASED_LIVING_AND_FUTURE_FAMILY_DISTRIBUTION_PROPOSAL_2026-11-02.md). Tramoscortos/descansillos/unidadesprivadas, Fortanexocomunes, reservaBocchi/familias, GojoShoko2dormitorios, restoelencoyTempestintegrados; cobertura nombres no censonuevo. ToukaIchikayaB, Taihei/Tsurugicorroborados. JijiArminocupanregistrodecotejo, ausencia demenciónnoautoriza borrado/invenciónllegada. Propuesta paraopinión antesdeplano/verde, sin capítulos/obra/mudanza/monedas ejecutados.

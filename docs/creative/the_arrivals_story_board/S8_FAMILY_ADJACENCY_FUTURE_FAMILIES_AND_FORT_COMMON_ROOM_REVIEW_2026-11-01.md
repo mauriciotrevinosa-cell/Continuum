@@ -1,5 +1,7 @@
 # S8 — Cercanías familiares, familias futuras y Fort unido a la casa común
 
+> **Propuesta completa posterior por vínculos — 2026-11-02:** [S8_RELATIONSHIP_BASED_LIVING_AND_FUTURE_FAMILY_DISTRIBUTION_PROPOSAL_2026-11-02](S8_RELATIONSHIP_BASED_LIVING_AND_FUTURE_FAMILY_DISTRIBUTION_PROPOSAL_2026-11-02.md). Nueva dirección Rem/Mau/Umaru/Ram/Seika/Taihei; cobertura individual del elenco histórico, actuales/futuros separados. Kaneki/Touka/Ichika YA presentesB, no futura reunificación por ejecutar. Jiji/Armin con ocupaciónB por cotejar, no excluidos por falta de menciones. Todo pendiente de opinión/verde.
+
 > **Ampliación del creador, 2026-11-02:** [Gojo/Shoko: departamento con dos dormitorios; Maomao/Jinshi, Rem/Ram y nadie omitido](S8_GOJO_SHOKO_TWO_BEDROOM_PROPOSAL_AND_NO_OMITTED_HOUSEHOLDS_2026-11-02.md). Propuesta de acercamiento gradual, no convivencia ejecutada. El resumen no era censo completo: revisar individualmente todo el elenco y las familias futuras antes de aprobar plano.
 
 2026-11-01. Objeciones del creador al render y nueva propuesta del coautor para revisión. No verde de obra/prosa, no plano aprobado ni mudanzas ejecutadas.

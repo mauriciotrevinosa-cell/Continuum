@@ -26,10 +26,13 @@ Read the current state below instead of treating earlier planning possibilities 
 | V48#16 | S8E64 CH02 | B+52 morning | ActualShokofollowup/MYomissionconversationcontinueshonestly, chosenquietday/Cielpause/OriMumboatcompany. |
 | V48#17 | S8E65 CH01 | B+52 lateafternoon | BocchiownpracticeinvitesM/brotherbondandfamilyfuturewish, Yjoins, noforcedshow/familyarrival. |
 | V48#18 | S8E65 CH02 | B+53 morning | OperationBridebeginswithYconsent/Mownwishes, ordinaryMKanekirepair, ShizueDiablobedloansreviewedrenewedtoB56. |
+| V48#19 | S8E66 CH01 | B+53 afternoon | HollisplainletterpurportingOlruggio/Qhandrecognitionnotfullproof, uncertaincoastalreports; QasksMhelpverify, noactualtrip. |
+| V48#20 | S8E66 CH02 | B+53 evening | House/Q/M/Ypreparereplyandverificationnotsecretdeparture; YownBridewishonlythisfamily/place, noultimatevenue/date. |
+| V48#21 | S8E67 CH01 | B+54 morning/evening | RealcourierH5safeTempestconfirmed, expert/Tempestvisitinterestnotarrival; replies/arrangements andchosenMY/Cielquiettimeclosevolume. |
 
 ## Current state
 
-**Current reader position: V48#18, B+53 morning, OperationBridebegun.** ContinueauthorizedS8aftercheckpoint.
+**Current reader position: V48#21, B+54 evening; V48 COMPLETE. Continue V49 without requesting greenlight again.**
 
 - Earlier#1–3 in produced table: MY ordinarymorning, actualRem/Ram/Umaru/Taihei/Suika/Seikahousingwishes, actualNoisereview keepingnewbuildsHELD.
 - #4: fullnewrequestandconsent lived. Ciel remembers earlierKamishclip/ownSTOP, asks MORE nowforherself. M admitsfear, Y supportivewithoutfile, RinvitedafterCielconsent. ExistingMYroom agreed firstsessionaftereveningmeal. Shokoknowsplan/canbecalled, notgivenimages. BothM/Cielcanpause; no obligationtofinish.
@@ -49,13 +52,16 @@ Read the current state below instead of treating earlier planning possibilities 
 - #16B52morning: MKEEPSShokofollowup/tellsactualsleep, choosesNOARCHIVEtoday/Cielalsowantsquiet. MYownconversationaboutomissionnoterased: hecansaynotready/dontknowwithoutmakingherstopasking; no breakup/instantcure. Ori/Frierenpaperboatordinarycompany/Mumkept.
 - #17B52lateafternoon: BOCCHI asksMtohearsmallpractice; herownlearning/choice, notforcedtherapist. Parents/sisterfutureblankunitstillnotarrived; saysMbrother, MwouldlikemeetfamilyWHENtheycan/no newcoinpromise. Kitapresentthenotherpractice, Yjoinslistening.
 - #18B53morning: OPERATIONBRIDEactuallybeginsYownconsent/choiceswithMakiMaiFort. Maskedownwishes=timewithpeopleBEFOREceremonyandYalone, writtennotassignednewvenue/date. MordinarymorninghelpKaneki/cupboard/Jar/ToukaIchikafamilyreal/Ynoticeshappy. SHIZUE/DloanREVIEWheld andrenewed3nights53/54/55withbandconsent/clearedfloor, nextREVIEWB56morning; no indefinitelyunaskedbedoccupation.
-- NEXTB53afternoon: ordinarytrade/report canseedQifreyWitchHatcontact; NOINK/RATS/RULERSyet. GroundsurveyletterHcarrieswasoutgoingB50, noinstantGeldarrival. H5actualarrivalnotyetreported. Need fewdays/realcourier/report, noinsideWHspellnamesinvented/sourcefiguresinstantlyknown. Cielarchivepausednotforcedfullfinish, familylifemustcontinue.
+- #19B53afternoon HollisANNOUNCEDordinarytradevisit bringsplainletterpurportingOlruggio. Qrecogniseshand/personalwordingNOTcompleteverification. Merchantroadreportotherwitches/questions/buildingsnearcoast, onlyPERSON/LETTERseen notwholeterritory. Girlsinformed/RichehbrothercanaskNOTfound. QasksMhelpverify/contact, noimmediatedeparture/ink/glyphpower.
+- #20B53evening actualQ/M/R/Y/Yuta/Maki/Anko discussion separateswitness/report/unknown. PrepareREPLYandmeetingverificationbeforedeparture. Girls/Cocomotherwillbeconsulted; Mchooseshelpnotescapehouse/Ypartnerquestions. BrideYwantsthingonlythisfamily/placecouldmake, nofinaldate/design/wedding.
+- #21B54morningroadcourierACTUALCONFIRMSHinata/all5safeTempest aftertwo-dayroad. HpersonalnoteAnkoprivate(notreadbyM/R); Shizuehearschildrennews. Geld/Kurobe/Shuna/ShionlettersINTERESTEDvisit/surveyquestionsNOTalreadyarrived; askbeds/group/timesandconfirmbeforeleaving, noinstantworkers. Qhasactuallyspokenchildren/mother; replyrequestlivecontactprepared/nosecrettrip. Simplehouseinventory/measurementnotnewwalls. B54eveningMYchosenordinarytimeundertree/Cielhonestneedtime/notallcured. Volume48endsdinnercall/theyenterhome, S8ongoing.
+- NEXTV49: practicalvisitarrangements/confirmtimesandroomorvoluntarycampcapacity, QreplytomeetrealOlruggio/verification/outside-worldcontactbeforemajortrip. Continuehouse/Brideinparallel. Need sourcecheckWitchHatnames/laws/powers/extractionbeforeassertingnewcanon. NOink/rats/Rulers/fragmentactivationyet. Shizue/DiablobedloanNEXTREVIEWB56morning.
 
 ## Space, visits, relationships
 
-Existing Inn remains two floors/tree/root circle/ward fixed. MY actual cohabitation sinceDay746; futureapartment3dorms/sitting/eastwindow not built. R actual ownloft above Diablolowerbed borrowedShizue, NOT downstairs office; Diablo travelbedmusic afterpractice/packsbeforeuse. Hinata owncot AnkoNazuna room withconsent/curtain, no sharedbed implied.
+Existing Inn remains two floors/tree/root circle/ward fixed. MY actual cohabitation sinceDay746; futureapartment3dorms/sitting/eastwindow not built. R actual ownloft above Diablolowerbed borrowedShizue, NOT downstairs office; Diablo travelbedmusic afterpractice/packsbeforeuse. HinataowncotwasAnkoNazunaroomwithconsent, nowpackedandleftB50; roomordinarysetup. No sharedbedimplied.
 
-PupilsChloeKenyaRyotaGaleAlice COMPLETED3nightsB47/48/49 and DEPARTEDB50morning withHinata; nowonactualtwo-daygroundroute, notinstantarrival. Shizue/Diablo bedloan reassessedB53andrenewednights53/54/55withbandconsent, NEXTreviewB56. Hinatacotpacked/departed, AnkoNazunaroomrestoredordinaryarrangement. Shizue came now/remembersR/youngadultstable/noIfrit; soleRcoinspentonce not newfuturearrival. Other prospectiveTempestresidents still not arrived by proposal.
+PupilsChloeKenyaRyotaGaleAlice COMPLETED3nightsB47/48/49 and DEPARTEDB50morning withHinata; nowonactualtwo-daygroundroute, notinstantarrival. Shizue/Diablo bedloan reassessedB53andrenewednights53/54/55withbandconsent, NEXTreviewB56. Hinatacotpacked/departed, AnkoNazunaroomrestoredordinaryarrangement. H/all5ACTUALRETURNtoTempestnowconfirmedbycourierB54; ShizueremainsInn. Shizue came now/remembersR/youngadultstable/noIfrit; soleRcoinspentonce not newfuturearrival. Other prospectiveTempestresidents still not arrived by proposal.
 
 MY engagedsilverleftband/familyringcord/flowerbraceletseparate, McLarenhoodieYuka borrowedhung; nosex/pregnancy/weddingdate. OriMUMFrieren/compasstoFrieren, boat safe and activityafterbreakfast not yetdone; noPapa transfer. AnkoHinata kissed already; SeikaRam teatimepromised; RemUmaru mutualhand butnolabel. GojoShokooutingalreadyoccurred/newtwo-bedroomapartmentproposal only. Bocchifamilynotarrived; Kessoku theirplace/practice maintained.
 

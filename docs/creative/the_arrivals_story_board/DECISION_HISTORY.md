@@ -2756,3 +2756,7 @@ V48#13–15 centraloraltruthandMYconsequencesgivenfullscenes. CreatorhiddenTrial
 ### Resto S8 — V48#16–18, 2026-11-02
 
 V48#16–18 followthroughnottraumacliff: actualShokofollowup/MYhonestcheck, Bocchirelationshipsceneandfuturefamilyspace, BrideoperationwithYagency/Mownwishes; D/Shizuebedsconsentrenewednotnewfreewing. All1578oldchaptersunchanged. ContinueWHseedandhouseplanning, noink/powerjumpyet.
+
+### Resto S8 — V48#19–21, 2026-11-02
+
+V48#19–21 createsWHcontacthonestlythroughroadletternotwholeworldomniscience, livehouseconsult/noinkortripyet. H5safeTempestroadconfirmed, expertvisitsNOTalreadyarrived/bedsmustbeagreed. Creatorweddingreplyverbatimkeptcreativefreedomnotcompletedsetpiece. V48closes21naturallyafterCiel/support/livingroom/Bride/initialcontact, noquota ortraumacliff. All1581oldchaptersunchanged; CONTINUEV49withoutnewpermission.

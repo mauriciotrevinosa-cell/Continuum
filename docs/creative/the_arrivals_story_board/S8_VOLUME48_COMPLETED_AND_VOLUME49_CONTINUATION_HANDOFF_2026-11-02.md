@@ -1,0 +1,31 @@
+# S8 — V48 complete, continue V49
+
+2026-11-02. The creator authorized the REST OF S8. Do not stop to ask permission after this volume/checkpoint. Continue V49 from B+54 evening/B+55 nextmorning, following the approved flexible skeleton.
+
+[Greenlight](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md) · [Live current state](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [V48 index](../THE_ARRIVALS_LN_VOLUME_48_INDEX_v0.1.md) · [Remaining skeleton](S8_REMAINING_VOLUMES48_52_BRAIDED_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-11-02.md).
+
+21 newchapters produced with fullcentralconversations and shortercompletewindows. No earlierchapterchanged. This volume lived MYmorning/Remfamilialhousingwishes/actualNoisejointreview, CielrequestCONSENT/selectmemorysessionswithbeautyandhorror, oralhouseS8detailaccount, creatornewTrialselfdestructionrecollectionnongraphic+support, aftercare/relationships/Bocchifamilyspace/GojoShoko2dormproposal/OperationBride, initialOlruggioletterandhomeplanning.
+
+## Exact restart
+
+B54 evening MYreturnfromtreequiettodinner. No newtownbuilt; allhousingplansstillneedgroundsurvey. QifreyreplytomessagepurportingOlruggioREADY, actualmeeting/identitynotyetverified. WitchHatplaces/extentcoastalreportNOTconfirmedwholeworld. M/R/Y/Maki/Yuta/Ankoknowwhatwasdiscussed; girlsandCocomotherconsulted. Theywillverify/contactandprepareproperly, nosecrettriporblindlettertrust.
+
+RoadcourierB54confirmedHinata/ALL5pupilssafelybackTempestafterB50departure. Shizuestayshousebychoice; RactualLOFTseparatefromDiablolowerbedborrowedShizue. DmusictravelbedonlyAFTERpracticepackedBEFOREuse, bandconsentrenewedB53fornights53/54/55; REVIEWB56due. Do not invent freeguestwing orofficebed. Geld/Kurobe/Shuna/Shioninterestedvisit/survey, NOTarrived, needconsentingbeds/campcapacityanddateconfirmedBEFOREthey leave. No workerteleport or finishedtownoffscreen.
+
+## Knowledge/care boundaries
+
+Cielchoseexpandedarchivepermissionandselectedreadings, notfullomniscientcopiedfile. OnlyCielSAWmemories, RHEARDhercurrentreactions, Yaccompaniedwithoutfile. Oralhouseaccount#13gaveS8backinjury/slowrepair/Makimabelievedkillingdetails; yearalreadyknown. NewhiddenTrialfact#14/15: afterdestroyingthatworld Mendedownlife, no method/graphic/presentact. OnlyM/Ciel/R/Yknowexactnewfact; Shokoknowsmemorytrigger/panicanddidcare/followup, notexactfactunlessMlatertells. Househasnotfeared/rejectedM orlearnednewfactbyosmosis. MYlegitimateomissiontalknoterased, theylearnedtosaynotready/dontknow; noinstantcure. B52quietdayandB54ordinarycoupletimechosen.
+
+NoCielpublicvoice/newhostorbody. NoiseNAMEpending, festivalreviewACTUALLYDONE#3butonlymaintenancecontinues; allNEWconstructionHELDuntilchosenjointscopecosttime. Planskept/observationsnotpermissionguestmemories; Ashbornlatercontinuousanalysispleitostillpending. GuestsDIO/Ashbornrealprivatevoluntarynotshadows/thirdheart.
+
+## Active warmthreads
+
+OperationBrideinitiatedwithYconsent/MakiMaiFort, MwantstimewithpeopleandYbeforeceremony. CreatorlikesTREEbasebutasksimpress; [verbatimreply](S8_WEDDING_TREE_BASE_AND_CREATOR_REQUEST_TO_BE_IMPRESSED_2026-11-02.md). Nofinaldate/venuefullsetpiece; S9boda. Housingwisheslived: Rem/M/Ram/U/Taihei/Suika/Seika, Okkotsu/Mai/Tsurugi, BocchiKessokufamilyfuture, GojoShoko2dormhome(privatedoors)notbuilt. AnkoHinatarealdate/kiss/Hletterpersonal; SeikaRamteaFULFILLED; RemUhandmutualnolabel. BocchiMbrother/ownchosenmusicreconnected. OriMumFrieren/compassstillF/boatordinarylearningnotchangedparents. YRnonrefusablefavorstillOPEN.
+
+## Numerical/plot limits
+
+Mlevel200,held0,Int520,permanentphysicalpointsnoofftoggle, army6615unchanged=6597ordinary17named1gift; Muster40home41+othersaccounted. OneactiveCECTperbody, accessibleCE/throughputfinite, sourceBlackHeartnotfreeomnipotence. GreyexceptYuka/leftblur/stifffingers/scars/whitepatchremain. M/Yengagedabstinent/no pregnancy/weddingyet. YMahoragaALREADYtamedS8, Agitoindependentnotnewfusiondeath.
+
+InkNOTingested, animalspyNOTfound, RulersNOmeetingyet, fragment/systemONLYglimpsesS8/fullS9. No massfamilyinvocations: coinsvoluntaryoffers/reservations/procedurethenPINdistribution, JinshireservesGaoshun. Bocchifamilynotarrived/Richehbrothernotfoundbyletter/KoSubarunotarrived. JijiArminoccupancystillcotejobeforeclaim; noexclusionfromlackmentions.
+
+Continue chaptersinEnglish/smallspeakerinitialsatright. Mainfullscenes/secondaryshortwhensufficient, nofixedchapterquota. Publishlogical~20min/10caps checkpoints and CONTINUE. Keep readerview/API/source checks scoped newchapters, preserve unrelatedengineeringdirt andneverreadsealedchoices.

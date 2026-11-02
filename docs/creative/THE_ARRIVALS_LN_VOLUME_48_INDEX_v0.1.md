@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 48
 **Season:** 8
-**Coverage:** S8E57–S8E65 (in progress)
+**Coverage:** S8E57–S8E67 (volume complete; S8 continues)
 **Volume title:** **The Rooms Between Us** (provisional)
-**Chapter files:** 18
+**Chapter files:** 21
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -33,3 +33,6 @@ The continuation after the household's festival return. Scene length follows the
 | 16 | S8E64 | You Can Say That Much | `THE_ARRIVALS_S8E64_LN_CHAPTER_02_YOU_CAN_SAY_THAT_MUCH_v0.1.md` |
 | 17 | S8E65 | The Part Before It Worked | `THE_ARRIVALS_S8E65_LN_CHAPTER_01_THE_PART_BEFORE_IT_WORKED_v0.1.md` |
 | 18 | S8E65 | The Bride Has Objections | `THE_ARRIVALS_S8E65_LN_CHAPTER_02_THE_BRIDE_HAS_OBJECTIONS_v0.1.md` |
+| 19 | S8E66 | A Name He Could Read | `THE_ARRIVALS_S8E66_LN_CHAPTER_01_A_NAME_HE_COULD_READ_v0.1.md` |
+| 20 | S8E66 | A Place at This Table | `THE_ARRIVALS_S8E66_LN_CHAPTER_02_A_PLACE_AT_THIS_TABLE_v0.1.md` |
+| 21 | S8E67 | The Rooms Between Us | `THE_ARRIVALS_S8E67_LN_CHAPTER_01_THE_ROOMS_BETWEEN_US_v0.1.md` |

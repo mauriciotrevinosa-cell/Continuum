@@ -2772,3 +2772,7 @@ V49#4–6 keep actual relationships and travel prerequisites. Creator confirms A
 ### Resto S8 — V49#7–12, 2026-11-02
 
 V49#7–12: actual Olruggio recognition, girls/mother reunion and request for Hall meeting; brother not found, no coin/new resident. Six voluntary Tempest survey visitors actually arrive B58 by road; visits not imposed permanent jobs. First resident-led measured walk B59 keeps root circle/fixed ward/Fort direct dinner route/music proximity. Bride develops personal homecoming idea with Y agency; no executed wedding or new spell. Scheduled B59 lodging review lived, both G/Shoko choose separate-bed continuation, Shizue oldGroom until B66 review. All old chapters unchanged; continue authorized S8.
+
+### Resto S8 — V49#13–18, 2026-11-02
+
+V49#13–18 developed invited Hall visit, Q agency, bounded signing parties/ink teaching and house protections, voluntary brief duel with target-sensitive exposure/burnout, prepared local Brimmed ink delivery during recovery. M intercepts almost all but trace forced ingestion, no bypass of active Infinity/remote organs/Ciel forgotten. Living attacker captured unknown identity, M immediately tells R/Y and returns for Shoko checks. Ink adaptation is AU plot mechanism not quoted canon. Observation not construction, no body change yet. Old chapters preserved; continue authorized S8.

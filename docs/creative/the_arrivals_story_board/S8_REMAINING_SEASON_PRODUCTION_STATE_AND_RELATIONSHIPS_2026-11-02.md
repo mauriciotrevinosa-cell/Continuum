@@ -41,17 +41,27 @@ Read the current state below instead of treating earlier planning possibilities 
 | V49#10 | S8E72 CH02 | B+58 night | BrideYchoosestree/homecomingroute/participation/fabric, no finaldate/newmagic, MYintimateordinarytalk. |
 | V49#11 | S8E73 CH01 | B+59 morning | Scheduledlodgingreview: ShizuekeepsoldGroom/GShokoseparatebedsbybothchoice toB66review/earlierifneeded. |
 | V49#12 | S8E73 CH02 | B+59 day | Firstmeasuredresidentwalk/actualdinnercall/Fortdoor, musicandfamilypaths, fixedward/rootspace; buildingnotstarted. |
+| V49#13 | S8E74 CH01 | B+60 afternoon | Responsearrives/houseconsult actualterms, no apprenticeshandedover; MYweddingwalkchoice. |
+| V49#14 | S8E74 CH02 | B+61 morning/midday | Actualshore/HallvisitQ/Oaccessandbreathingexpertise, boundedsharedInfinity, audiencebegins. |
+| V49#15 | S8E75 CH01 | B+61 midday | Q/M/OlocalHallnegotiation child/memory/homeboundaries, teaching/reportlimits; demonstrationagreed. |
+| V49#16 | S8E75 CH02 | B+61 afternoon | Voluntarytarget-onlyshorterVoidEasthies, monitoredrecovery and realburnout; no universalmedicaldose/newpower. |
+| V49#17 | S8E76 CH01 | B+61 afternoon | Preparedlocalsleeveglyphinkjetduringburnout; Mblocksmost/traceswallowed, captureslivingBrimmed/QOhelp/Cieltracks. |
+| V49#18 | S8E76 CH02 | B+61 evening | Signedboundedagreement, MnotifiesR/Yimmediately, all3returnKaisel/OownbedrollQroom; Shokoexam/recheckdueB62. |
 
 ## Current state
 
-**Current endpoint: V49#12, B+59 afternoon. Volume49 in progress. Full remaining S8 is authorized; continue after checkpoints.**
+**Current endpoint: V49#18, B+61 evening. Volume49 in progress. Full remaining S8 is authorized; continue after checkpoints.**
 
-## Immediate outside story
+## Current Witch Hat result / ink exposure
 
-- Olruggio physically recognised by Qifrey at the ford B57midday (#7), personal voices/shared history; earlier letter alone was not sufficient. He confirms the converged coastal region and Great Hall, not every part of an entire world. Institutions have heard reports of Qifrey teaching outsiders, not already attacked the house.
-- With R/house agreement M/Q brought O as B57dayguest on existingKaisel (#8); all4girls/Cocomother actual reunion. Richeh's chosen Rili message remains private except shared part; O has NOT found brother, will ask where message can go. No newcoin/spend/resident.
-- Q wants Hall meeting with responsible people before reports become coercion; O takes request, M will accompany with Q agency. M drops O at previously named lodging before dark/returnsB57earlynight. No promised immediate HQjourney, date/response still pending. No ink, rats or Rulers scenes yet.
-- R remains at Inn while M travels; no bothidiotsaway. Kaisel flight finished/stored. No homeguard silently moved.
+- B60response reached ordinaryroute; houseconsult actuallydefineswhatM/Qcanpromise. B61M/QtravelannouncedKaiseltoOshore/Hall, Rhome. Q/Oprovideunderwateraccess/breathingeffects, smallsharedspatialscreen requiresMattention/Qproximity; notuniversalspellimmunity.
+- ActualQ/M/OmeetingwithEasthiesandlocalauthorisedHallrepresentatives. Agreedteachingprivatehousesecret/residents+families/no publicinkmanufacturingtrade. Consentedinstruction/responsibleteacherchangesreport; no wholebedroomcensus/privatefamilyhistories. No forcedentry/childremoval/memoryalterationbythoseorders. AgreementonlyACTUALsignatories/jurisdiction, notallwitchesorsociety. MfirmthreatifHallusedasbaseagainsthousenotwarlaunched.
+- #16voluntaryEasthiesdemonstration, initialglyphsInfinityblocked/MusesQwarningforgroundeffect, disablesLimitlessbeforetarget-onlySHORTERVoidpulse thanTsurugi. Cielno universalmedicalguarantee, actualimmobilisation/Mpreventsfall/Qchecksrecovery, no lastinginjurydiagnosed/noclaiminfallible. BurnoutREALafterwards, no brainreset/BlackFlash/newpowers.
+- #17duringimmediaterecoverywindow disguisedattendant usesPREPAREDLOCALpressureinkjetfromsleeveglyph. M/Cielreact, MturnsawayQ/breaksfitting/catcheswrist/blocksmost, thintraceforcedintomouthandswallowed. No outpunchinghim, organsremote, passiveInfinityforgotten, Cielabsence. Qrinse/Oequipment/Eguards captureattackerALIVE; foldedBrimmedhat. Identity/affiliationbeyondBrimmedUNKNOWN, notIguin/Sasaran/Makima/sealedhoodbyinference. LocalHallinvestigatesbreach; samplecontainedbyO. AUlocaltrapnotnewcanonicaluniversalspell.
+- TraceboundmaterialCieltracking; immediatechecksno newpain/breathingdeficit. NoisehaswordlessattentionbutMobeysWAIT; observationONLY, heldnewconstructionnotsecretbetrayal. DELAYEDbodyreactionnotyetoccurred.
+- #18boundedagreementactuallysigned byQ/localrepresentatives, Oassumesco-teacherresponsibilitybychoice. MIMMEDIATELYtellsR/Ybeforeflight. M/Q/OreturnB61eveningonKaisel, Kstored/homeguardunchanged. OchoosesinitialnightowntravelbedrollinQactualroomafterQoffer, no newguestwing/permanentjobassigned. Girls/motheractuallyhearresult. Rilihasnotbeenfound/messageforwardpending.
+- ShokoexamB61eveninginclskin/mouth/responses/twohearts, no majornewfinding; RECHECKDUEB62morning/reportanychange. Mreportsdemonstration/cost/attacktoR/Ywithoutsoftening/hiding. Bedrestnotorderedifnochangesyet, no inkconstructionpowers/statgain.
+- NEXT B62followup and normal town decisions whiletracingink; delayedbodymini-arc must receive fullscene. Olruggiofurtherstay/residencyownchoice; signatoriesresponse/investigationnotmagicallysolved.
 
 ## Town and actual visitors
 
@@ -87,7 +97,7 @@ Read the current state below instead of treating earlier planning possibilities 
 - Jointreview actually done V48#3: existingmaintenancecontinues, NEWconstructionHELD until jointlychosen scope/cost/time. Observation/analysis/blueprints continue, no blankguestmemorypermission. LaterAshborn discovers continuousanalysis inclDIO; realpleito needed, not Mdeliberatelybetrays existing explicitpromise. NameNoise remains undecided.
 - DIO weakphysicalrealvoluntaryrefuge; Ashborn real before rest, voluntaryguest not shadow/soulconsumed/thirdheart. Fixed protection isn't travellingbubble.
 - S8 only glimpses partiallightfragment/ShadowMonarch reconstruction; FULLsystemcapbreak/bodydevelopmentS9. No prematureBlackHeartfullactivation/newstats/XP.
-- Next W H contact/notice/Hallnegotiation and approved delayedinkbodilyarc with realdefensiveconditions; keep Q agency. Then homebuilding/glyphlessons/spy/Ram/MRoutside/Rulersagreement/innerguestpleito and lived town/dinner. Don't open war/torneonewmajorarc or write S9boda/pregnancy.
+- W H contact/Hallnegotiation/approvedingestionDONEasabove; NEXT delayedinkbodilyarc with Q/O/Shoko/Ciel and agency. Then homebuilding/glyphlessons/spy/Ram/MRoutside/Rulersagreement/innerguestpleito and lived town/dinner. Don't open war/torneonewmajorarc or write S9boda/pregnancy.
 
 ## Fixed inventory and mechanics
 

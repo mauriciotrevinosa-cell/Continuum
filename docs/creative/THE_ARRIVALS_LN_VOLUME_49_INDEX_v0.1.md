@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 49
 **Season:** 8
-**Coverage:** S8E68–S8E73 (in progress)
+**Coverage:** S8E68–S8E76 (in progress)
 **Volume title:** **What the World Brings** (provisional)
-**Chapter files:** 12
+**Chapter files:** 18
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -27,3 +27,9 @@ The continuation after the household's festival return. Scene length follows the
 | 10 | S8E72 | A Place to Stay | `THE_ARRIVALS_S8E72_LN_CHAPTER_02_A_PLACE_TO_STAY_v0.1.md` |
 | 11 | S8E73 | Stay Until Morning | `THE_ARRIVALS_S8E73_LN_CHAPTER_01_STAY_UNTIL_MORNING_v0.1.md` |
 | 12 | S8E73 | Where Their Feet Went | `THE_ARRIVALS_S8E73_LN_CHAPTER_02_WHERE_THEIR_FEET_WENT_v0.1.md` |
+| 13 | S8E74 | What the Answer Asked | `THE_ARRIVALS_S8E74_LN_CHAPTER_01_WHAT_THE_ANSWER_ASKED_v0.1.md` |
+| 14 | S8E74 | Beneath the Water | `THE_ARRIVALS_S8E74_LN_CHAPTER_02_BENEATH_THE_WATER_v0.1.md` |
+| 15 | S8E75 | The People in the House | `THE_ARRIVALS_S8E75_LN_CHAPTER_01_THE_PEOPLE_IN_THE_HOUSE_v0.1.md` |
+| 16 | S8E75 | A Short Answer | `THE_ARRIVALS_S8E75_LN_CHAPTER_02_A_SHORT_ANSWER_v0.1.md` |
+| 17 | S8E76 | The Drop That Reached Him | `THE_ARRIVALS_S8E76_LN_CHAPTER_01_THE_DROP_THAT_REACHED_HIM_v0.1.md` |
+| 18 | S8E76 | He Told Them First | `THE_ARRIVALS_S8E76_LN_CHAPTER_02_HE_TOLD_THEM_FIRST_v0.1.md` |

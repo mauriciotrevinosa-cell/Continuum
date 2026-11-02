@@ -2768,3 +2768,7 @@ V49#1–3 continueB55/B56withoutjumpweeks. Firstsurveycampofferwalkednotwholewar
 ### Resto S8 — V49#4–6, 2026-11-02
 
 V49#4–6 keep actual relationships and travel prerequisites. Creator confirms Armin/Jiji already present by prior coins, without new spending or invented arrival dates; housing pending flag resolved. Six voluntary survey visitors travel B57–58, no instant arrival. G/Shoko first separate-bed trial night lived. M/Q notified day meeting with real response, R stays home. Existing chapters preserved; continue full authorized S8.
+
+### Resto S8 — V49#7–12, 2026-11-02
+
+V49#7–12: actual Olruggio recognition, girls/mother reunion and request for Hall meeting; brother not found, no coin/new resident. Six voluntary Tempest survey visitors actually arrive B58 by road; visits not imposed permanent jobs. First resident-led measured walk B59 keeps root circle/fixed ward/Fort direct dinner route/music proximity. Bride develops personal homecoming idea with Y agency; no executed wedding or new spell. Scheduled B59 lodging review lived, both G/Shoko choose separate-bed continuation, Shizue oldGroom until B66 review. All old chapters unchanged; continue authorized S8.

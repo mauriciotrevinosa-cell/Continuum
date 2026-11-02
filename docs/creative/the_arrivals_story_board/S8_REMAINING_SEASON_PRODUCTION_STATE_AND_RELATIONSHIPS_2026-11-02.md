@@ -35,47 +35,60 @@ Read the current state below instead of treating earlier planning possibilities 
 | V49#4 | S8E69 CH02 | B+56 afternoon | CreatorconfirmsArminJijipriorcoinresidents; Q/M/girls/motherdiscussWHAquestions, Rilichosenmessage, Yfabricappointment. |
 | V49#5 | S8E70 CH01 | B+56 night | ActualfirstnightG/Shokochosen3nighttrialseparatebeds, warmdialoguewithoutforcedlabel. |
 | V49#6 | S8E70 CH02 | B+57 morning/midday | Hollisroutemeetingresponse; informedM/QdaytripKaiselford,Rhome; expert6departtoday/arriveB58; Olruggiotalknext. |
+| V49#7 | S8E71 CH01 | B+57 midday | ActualOlruggio/Qrecognition; knowncoast/GreatHallconverged, fourgirlssafe, Cocomomalive, Rilinotfound; requestdayguestwithhouse. |
+| V49#8 | S8E71 CH02 | B+57 afternoon/evening | Houseagreesguest; allfour/motherreunion, ownvoices; HallrequestwithO, dropbackknownlodgebyKaisel/Mreturns. |
+| V49#9 | S8E72 CH01 | B+58 evening | Sixsurveyvisitorsarrivebyroad, actualcamp/dinner/RShionboundary/Shunavoice; notpermanentresidency. |
+| V49#10 | S8E72 CH02 | B+58 night | BrideYchoosestree/homecomingroute/participation/fabric, no finaldate/newmagic, MYintimateordinarytalk. |
+| V49#11 | S8E73 CH01 | B+59 morning | Scheduledlodgingreview: ShizuekeepsoldGroom/GShokoseparatebedsbybothchoice toB66review/earlierifneeded. |
+| V49#12 | S8E73 CH02 | B+59 day | Firstmeasuredresidentwalk/actualdinnercall/Fortdoor, musicandfamilypaths, fixedward/rootspace; buildingnotstarted. |
 
 ## Current state
 
-**Current reader position: V49#6, B+57 midday approach. Volume49 in progress. Continue the REST OF S8 under explicit greenlight, not stop after pushes/volumes.**
+**Current endpoint: V49#12, B+59 afternoon. Volume49 in progress. Full remaining S8 is authorized; continue after checkpoints.**
 
-## Just produced
+## Immediate outside story
 
-- V49#1 B55morning: housepracticalsurveyvisitoffer WALKED/checked byM/Byakuya/Rem/Stark/Jinshi beforeletter. Smallvoluntaryprivatecamp within ALREADYknownsafehouseclearing, water/wash/access/routes/meals/tools, no promiseentiretownfootprintfits. RimuruALONEfliesexistingKaiseltoKNOWNTempestroutefordaytospeakchoices; Mstayshome. No bothidiotsaway/commercialpeopleteleport/newanchor. YasksMjoinfabricdiscussionlater, Q/M/Cocomotherpreparecontactquestions.
-- #2 B55daytime actualTempestRscene: Geld/Kurobe/firstsmallteamAGREEsurveyVISIT/camp/nofinishpromise. Shuna/ShionCHOOSEvisitsnotpermanentjobs, Shionboundarynotinstantlyhealed/noreset. RdeliversShizuelettertoall5/Hinata, noadoption. Departuregroupafterpacking/houseinformed, ordinary~2dayroad NOTalreadyarrived. RreturnsB55lateeveningonKaiselALONEwithanswers, Kstoredagain/noarmychange. Shizuehearschildnews. No definitivegroupcount/dateyetwritebeforetravel.
-- #3 B56scheduledlodgingreview ACTUALCHANGE: ShizueCHOOSESGojoexistingroom/bednightsB56/57/58, REASSESSB59morning. Gojo/ShokoBOTHCHOOSEtrial3nightsseparatebedsinShokoactualroom, DfreedFOLDINGBEDborrowed+privacySCREEN/actualdoorroutefitcheck. NOTalreadynew2bedroomapartment/sex/bedshare/newformalmarriage. Bothcanreassess. Gojoownthingscleared/ShizuebagmovedwithRhelp, Rnotownschoice. DiabloREGAINSlowerbedinRexistingLOFTroom, RownloftunchangedNOToffice. MusicroomnightbedloanENDED, lamp/curtainreturned, bandwholeuseback. No newfreewing orforcedeviction.
+- Olruggio physically recognised by Qifrey at the ford B57midday (#7), personal voices/shared history; earlier letter alone was not sufficient. He confirms the converged coastal region and Great Hall, not every part of an entire world. Institutions have heard reports of Qifrey teaching outsiders, not already attacked the house.
+- With R/house agreement M/Q brought O as B57dayguest on existingKaisel (#8); all4girls/Cocomother actual reunion. Richeh's chosen Rili message remains private except shared part; O has NOT found brother, will ask where message can go. No newcoin/spend/resident.
+- Q wants Hall meeting with responsible people before reports become coercion; O takes request, M will accompany with Q agency. M drops O at previously named lodging before dark/returnsB57earlynight. No promised immediate HQjourney, date/response still pending. No ink, rats or Rulers scenes yet.
+- R remains at Inn while M travels; no bothidiotsaway. Kaisel flight finished/stored. No homeguard silently moved.
 
-## Key carried facts
+## Town and actual visitors
 
-V48 COMPLETE21caps/B48–54: Cielaskedexpandedpermission, selectedtrueAmemories/Trial/Kamish/recentS8encierro withpauses+beautiful, Rheardcurrentreactions/Ynofile. Mchoseoraladult-houseS8details(V48#13); theyalreadyknewyear. NEWTrialpostworldselfdestruction recollection#14/15 onlyM/Ciel/R/Yknowexactfact. Shokoknowspanic/pastmemory, checkedandfollowupB52, NOTexacthiddenfactunlessMlatertells. No presentact/method/graphicglory/intent. Familycarereactionnotfear/rejection, MYomissiontalkcontinuesnotblamedforasking/instantcure. B52quietchosen/noforcedarchivereading. Cielneedsmoretimewithrest, notwholeomniscientarchivefullydigested. No rawfilesothers/voicepublic/hostsnew/bodynew.
+- First six voluntary survey visitors ARRIVED B58evening by actual two-day road: Geld,Kurobe,Shuna,Shion,two willing unnamed workers. Camp/privacy/water/routes offered and chosen in already known safe clearing. These are VISITS, not permanent work/residence assignments. Shion's discomfort and R boundary continue; R showed her home. Shuna helped then ate, not permanently drafted into kitchen.
+- B59 first actual measured resident walk (#12): roots/old tree circle undisturbed, fixed known ward markers, some ground still requires check. Fort direct common/dinner call ACTUALLY tested. Music room close without bedroom sound wall failure; Bocchi future family space considered. Rem/Ram/Umaru/Taihei/Seika multiple routes; MYfamily/Rroom/eastwindow; Kaneki/Touka/Ichika; F/Fern/Stark etc participate.
+- Layout now a tested working sketch, NOT built or full final construction contract. Existing Inn two floors/common/kitchen stay functional. Short connected courts/family units, outer modules up to four floors where loads/ground allow, central root circle open. Survey/resource checks next. No magical expansion of ward or money-as-instant-solution.
+- Armin AND Jiji creator-confirmed prior coin residents of B, now included normally (#4); no new arrival/spend/exactowner/date invented. Ko and Subaru NOT arrived. Touka/Ichika/Taihei/Tsurugi already present. Bocchi parents/sister, Rili not arrived just because housing reserved.
 
-NoisejointreviewactuallyV48#3: existingmaintenancecontinues; NEWconstructionstillHELDpendingchosenscopecosttime, drawingskept. No blankguestmemoryaccess or renaming. InnerguestsDIOweakphysicalvoluntaryrefuge/Ashbornrealvoluntarynotshadow/thirdheart, lateranalysispleitoNOTyet. S8fragment/systemONLYglimpses, fulldevelopmentS9, nolevelcapbreakearly.
+## Actual sleeping and relationships
 
-## House and active relationships
+- MY engaged since B15, actual shared formerYuka room sinceDay746. Abstinent until marriage. Silverleftband/familyringcord/flowerbracelet distinct/McLarenhoodie borrowed. Future apartment MY/R + Shizueguest (threebedrooms,sitting,futurefamilyspace,eastwindow) NOT built. R owes Y one nonrefusable favour STILL OPEN.
+- First G/Shoko chosen temporary separate-bed trial B56/57/58 actually lived (#5). Scheduled B59 morning review DONE (#11): BOTH choose to continue in Shoko's existing room, separate foldingbed/screen, next reviewB66morning or earlier need. Desired futuretwo-private-bedroomapartmentnotbuilt. No sex/bedshare/forcednewlabel.
+- Shizue chooses to keep Gojo's old existing room/bed through same B66 review; Gaccessownremainingbox by agreedtime. Her futureMY/Rguestroomnotbuilt; Rdoesn'tchooseherromance. Stableyoungadult/noIfrit, originalRcoinspentonce.
+- Diablo regained ownlowerbed inRactualroom, RownLOFT unchanged/notdownstairsoffice. MusicroomnightloanendedB56/fulluse. No forcedeviction/freewing.
+- All5students Chloe/Kenya/Ryota/Gale/Alice and Hinata returnedTempest: departedB50road, confirmedcourierB54/RvisitB55. NotcurrentlyInn/adopted. RangaTempestfornow, Ramiris/Berettanotmoved/dungeonTempest. Other Demon Lords not new residents by inference.
+- Ori Mum=Frieren, compass points F; MYwarmvisits don't replace parent. BocchiMbrother livedV48#17; Kessoku ownmusic/privacy. RemMacceptedfamily/UmaruRam; RamSeikateafulfilled/openinterest; RemUhandmutualnolabel; AnkoHkissdating/privateletterkept. F/Fern/Stark/Himmel not forcednewromance. Crackers/Roof kept, fullsecondarycast remains.
 
-OriginalInn2floors/tree/rootcircle/Fortdirectcommondoor/wardunchanged. No newtownbuildstarted; surveys/desiredlayoutsnotcompletedrooms. MYactualsharedformerYukaroomengagedsinceB15/cohabDay746, silverleftband/familycordring/flowerbraceletseparate/McLarenhoodieborrowed, abstinent/nopregnancy/weddingdate. ProposedfutureMY/R/Shizueguest3dorms andfamilyspace/eastwindownotbuilt; R/YonefavorstillOPEN.
+## Bride and coins
 
-RemwantsMfamilyacceptance/Umaru/Ramclose; RamRem/Seika; UmaruSuika/M/Taihei actualpreferencesonpaper. YutaMaki/Mai/TsuruginearY, BocchiKessokufamilyfutureparents/sisterunitnearM; notarrived/coinassigned. Bocchiownmusic/Mbrotherconnectionactual. GojoShoko2bedroomfutureplanNOWtemporary3nightroomtrialseparatebedsbychoice. MaomaoJinshiownlife/homeprivacyquestionskept. AnkoHinataactualkiss/dating/HsafeTempestprivateletterAnko; SeikaRamhomeTEAfulfillednolabel, RemUhandmutualnolabel. OriMumFrieren/compasstoF/boat, noPapareplacement; FernStark/Himmelrelationshipsnotforced.
+- V49#10 Bride actual Y/Maki/Mai/Seiko/Fort/Wakana/Marin: creator wants impressed beyond treebase. Ychooses HOME-comingroute, people close enough see, family/friend contributions to be ASKED; concept light/music/cloth/path, not new magic/device executed or final wedding date. Dress sketches chosen elements/sleeve revision, not completeddress. MYordinaryscene; wants Mparticipant inpreparations, notexile/outsideentrance. WeddingS9.
+- Shadows may ask to help and secretly prepare a gift; NOT completed/knownM. Don't invent newpower/coin for gift.
+- Coin procedure voluntary, offers/reserves; distribution/invocations PINNED. Jinshi reserves Gaoshun pending convergence info. All current ownership retained; no donation/spend from housing diagram.
 
-StudentsALL5/HinataRETURNEDTempest confirmedV48#21roadcourierB54 afterB50departure/~2daysroad. TheyareNOTcurrentlyatInn, noautoadoption. ShizueactualInnchoice/youngadultstable/noIfrit/Roldcoinspentonce. OtherTempestprospectsNOTallarrived/moved. CurrentfirstsurveygroupGeldKurobe/ShunaShionwithsmallvolunteersofferedprivateCAMPbychoiceinsideknownsafespace, needsdate/countnoticebeforedeparture; ~2dayroad. RangaTempestcurrently(noarrivalbyinference), Ramiris/Berettalaterchoose, dungeonremainsTempest. NewminiInn/emergencies/ArrivalsproposedNOTbuilt.
+## V48 archive and knowledge boundaries
 
-## Outside contact and next work
+- Ciel had oldV36permission/Kamishclip/stopped. V48 asks expandedview; M allows true recollections inclbeauty/pastA/Trial/Kamish/recentArchitect368days with stops. ONLY Ciel SEES selected memories. R HEARS current reactions when included; Y accompanies without archive. No omniscient footage or wholearchive fullydigested claim.
+- V48#13 M voluntarily tells ADULT HOUSE softened recentS8encierro/backinjury/slowDeerRCT/Makimabelievedkill details; they already knew roughyear. ChildFortelsewhere. Familycare not rejection.
+- V48#14/15 NEW recalled OGTrialfact: after destroying world M ended ownlife. ONLY M/Ciel/R/Y know exactfact. No method/graphicglory/presentact or intent. Earlierdeadlockstillunidentified. Panic supported/Cielstopsviewnotdeletes/Ystays/Rhelps. Shoko bodilycheck/followupB52 knowsmemorytriggerpanic but NOT exacthiddenfact/rawarchive. Don't give other people this knowledge automatically.
+- MYomissionconversation continues without blaming validquestions/forcing disclosure/instantcure. Ciel needs time/rest and thanks trust. No quiet weekday is proof everything processed.
 
-HollisB53announcedtradebroughtplainletterpurportingOlruggio. Qrecogniseshand/personalwordingNOTdefinitiveidentityverifiedlive. Onlyperson/letterwitnessed; coastalbuildings/institutionsinreportsUNVERIFIEDextentnotwholeWHAworld. Q/R/M/Y/Maki/Yuta/Ankohavesharedinfo, girls/Cocomotheractuallyconsulted. REPLYwithmeetingrequesttakenbyHollisagreedordinaryroute (V49#1acknowledgesout), awaitingrealperson/response, noactualOlruggioarrivalyet. BrotherRichehstillfuturelistnotfoundbyletter. [Primarysourcecotejo](S8_WITCH_HAT_PRIMARY_SOURCE_CHECK_FOR_VOLUME49_2026-11-02.md).
+## Noise / inner guests / S9 lock
 
-NEXT: confirmfirstsurveygrouptraveldate/count/voluntarycampprivacy beforearrival, keepingM/Y/RemRam/band/othersactive; actualOlruggiocontact/verification viaresponse/neutralmeeting beforeHQtrip. Qifreyfriendmusthavevoice/motives. No ink/rats/Rulersyet. BodyinkreactionAFTERproperlydevelopedattack/return; noInfinityforgets/BF/brainreset. S8endsactualtownhabited/familydinner; S9boda/lunademiel/systemdevelopment/potentialfamilylaterNOTexecutehere.
+- Jointreview actually done V48#3: existingmaintenancecontinues, NEWconstructionHELD until jointlychosen scope/cost/time. Observation/analysis/blueprints continue, no blankguestmemorypermission. LaterAshborn discovers continuousanalysis inclDIO; realpleito needed, not Mdeliberatelybetrays existing explicitpromise. NameNoise remains undecided.
+- DIO weakphysicalrealvoluntaryrefuge; Ashborn real before rest, voluntaryguest not shadow/soulconsumed/thirdheart. Fixed protection isn't travellingbubble.
+- S8 only glimpses partiallightfragment/ShadowMonarch reconstruction; FULLsystemcapbreak/bodydevelopmentS9. No prematureBlackHeartfullactivation/newstats/XP.
+- Next W H contact/notice/Hallnegotiation and approved delayedinkbodilyarc with realdefensiveconditions; keep Q agency. Then homebuilding/glyphlessons/spy/Ram/MRoutside/Rulersagreement/innerguestpleito and lived town/dinner. Don't open war/torneonewmajorarc or write S9boda/pregnancy.
 
-OperationBrideactuallybegunMakiMaiFortwithYagency. Mrequestedtimewithpeople/Ybeforeceremony. CreatorlikesTREEasbasebutasksIMPRESS, seededYwantsomethingonlyfamily/placecouldmake, nofinalsetpiece/dateyet. Shadowgiftsecretstillfuture, no newitemalreadycrafted. Coinsvoluntarymethod/reservations/offersPINdistribution/invocations; JinshireservesGaoshun; currentownershipunchanged. Ko/Subarunotarrived, JijiArminBoccupancyCONFIRMEDbycreatorpriorcoinarrivals, notMdecision; no newcoin/arrival/dateinvented. No sealedchoices read.
+## Fixed inventory and mechanics
 
-## Numerical/body invariants
-
-Mlevel200/held0/Int520; permanentphysicalpointsnotoggle. Army6615=6597ordinary17named1gift unchanged, Muster+40ordinaryHOME41; Kflightendedstoredandnootherretainerreassignedsilently. NativeMahoAgitoseparate/YMahoragaALREADYtamedS8. ONEactiveCECTperbody, accessibleCE/bodythroughputfinite vsBlackHeartmana, fullcapbreakS9only. GreyexceptYuka/leftblur/twostifffingers/scars/whitepatchremain. No ordinaryclothesgain/coinnew/systemXPfrommemoryreview orroadtravel.
-
-## Produced V49#4–6 / superseding travel state
-
-#4 Armin/Jiji normal priorresidents; sixexpertvisitorscountconfirmed Geld/Kurobe/Shuna/Shion+2willingworkers, departB57morning expectedB58evening road/camp. Q/M/Cocomother/all4girls actuallydiscussquestions/knowledgeboundaries/memoryrisk; RichehchosenprivateRilimessagenotfound. Y/Mfabricappointmentkept.
-
-#5 B56nightGojoShokofirstof3separatebedtrialactualwarmscene/nosex/noformalnewlabel. #6 B57morning M/Q leaveKaiselforDAYfordmeetingmidday. RESPONSEreachedbyHollisrouteB56evening; Rhome/Yandhouseknowroute/returnwindow/willmessageiflate. SixsurveyvisitorsdepartingtodayNOTalreadyarrived. M/Qarriveford at#6end, figureQrecognisesstance; actualOlruggiotalk/identityverificationNEXT. NoHQjourneyagreed, noink/rats/Rulersyet.
-
-Prior notes saying pending response/date or Armin/Jiji uncertain are historical and superseded above. B59morning bedreview remainsdue.
+Mlevel200/heldpoints0/Intelligence520. Permanentphysicalupgrades don't toggle off. Legion6615=6597ordinary+17named+1gift. Muster+40ordinary HOME41 stayed; no extra units or moved guard just from travel. NativeTenShadows separate, M Maho already tamed/YMaho ALREADY tamed earlierS8; Agito independent. OneactiveCECTperbody; accessibleCE/bodythroughput finite vsBlackHeartmana. No guaranteedBlackFlash/brainreset/globalspellimmunity. GreyworldexceptY, leftblur/twostifffingers/scars/whitepatch remain. Memories don't restore sight. No sealedauthorfiles read.

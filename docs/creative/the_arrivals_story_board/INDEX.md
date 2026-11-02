@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción resto S8 — V49#6:** V49 continúa con la convivencia y el encuentro preparado con Qifrey. Armin y Jiji confirmados como residentes anteriores; continúo S8. [Leer](../THE_ARRIVALS_LN_VOLUME_49_INDEX_v0.1.md) · [Estado/relaciones](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Verde](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).
+> **Producción resto S8 — V49#12:** Encuentro y reencuentro vividos, primeras visitas y plano probado con los recorridos de la familia. Continúo el resto de S8. [Leer](../THE_ARRIVALS_LN_VOLUME_49_INDEX_v0.1.md) · [Estado/relaciones](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Verde](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).
 
 > **S8: decisiones resueltas y esqueleto final para opinión — 2026-11-02:** [Mensaje íntegro Trial/sistemaS9/monedas](S8_TRIAL_SELF_DESTRUCTION_S9_SYSTEM_DEVELOPMENT_AND_VOLUNTARY_COINS_CREATOR_DECISIONS_2026-11-02.md) · [Propuesta V48–52,90–130caps flexibles ytrenzas](S8_REMAINING_VOLUMES48_52_BRAIDED_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-11-02.md). Mau seautodestruyó enaquella vidaTrial, noactoactual; S8sóloanticipa fragmento/sistema, plenodesarrolloS9; monedas voluntarias y reparto/invocacionesconpin. Cierre pueblohabitado/cenafamiliar/preparativos, bodaS9. Ningúncapítulo/llegada/obraejecutado; esqueleto pendiente deverde.
 

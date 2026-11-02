@@ -2717,3 +2717,8 @@ Mauri cuestiona música alejada deMau/Bocchi en diagrama inicial y pide render. 
 ### Distribución por familias presentes/futuras y Fort junto al comedor, 2026-11-01
 
 Mauri cuestiona render/planos previos, Yuka quiere familia cercana y Fort demasiado lejos paraoírcena. Aclara preverfamiliasfuturas: Bocchi AÚNNOtrajoalasuyaperoquiereporarcomonedas. [Mensajes íntegros ypropuesta](S8_FAMILY_ADJACENCY_FUTURE_FAMILIES_AND_FORT_COMMON_ROOM_REVIEW_2026-11-01.md). Coautor propone Fortanexosala/puertacomedor, casacentralconalasapartamentos/galerías, MYconOkkotsu/Mai/BocchiKessokupróximos, unidadesreservadasparafamilias, otros patiosporvínculos. No presencias importadasA, invocaciones, mudanzas, plano aprobado, greenlight ni capítulos nuevos.
+
+
+### Hogares omitidos en resumen y propuesta Gojo/Shoko, 2026-11-02
+
+Mauri señala Gojo/Shoko, Maomao/Jinshi, Rem/Ram y aclara que faltan otros nombres. Propone Gojo/Shoko en departamento con dos dormitorios separados y acercamiento gradual. [Mensajes íntegros y regla de revisión](S8_GOJO_SHOKO_TWO_BEDROOM_PROPOSAL_AND_NO_OMITTED_HOUSEHOLDS_2026-11-02.md). Ninguna omisión de resumen equivale a exclusión; cotejar todo el elenco actual y familias futuras antes de cerrar plano. Sin mudanza, cama nueva, pareja consumada o capítulos ejecutados.

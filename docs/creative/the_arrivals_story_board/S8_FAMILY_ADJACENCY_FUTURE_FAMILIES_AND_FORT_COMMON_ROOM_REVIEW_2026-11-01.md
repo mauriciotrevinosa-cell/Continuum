@@ -1,5 +1,7 @@
 # S8 — Cercanías familiares, familias futuras y Fort unido a la casa común
 
+> **Ampliación del creador, 2026-11-02:** [Gojo/Shoko: departamento con dos dormitorios; Maomao/Jinshi, Rem/Ram y nadie omitido](S8_GOJO_SHOKO_TWO_BEDROOM_PROPOSAL_AND_NO_OMITTED_HOUSEHOLDS_2026-11-02.md). Propuesta de acercamiento gradual, no convivencia ejecutada. El resumen no era censo completo: revisar individualmente todo el elenco y las familias futuras antes de aprobar plano.
+
 2026-11-01. Objeciones del creador al render y nueva propuesta del coautor para revisión. No verde de obra/prosa, no plano aprobado ni mudanzas ejecutadas.
 
 ## Mensajes íntegros del creador

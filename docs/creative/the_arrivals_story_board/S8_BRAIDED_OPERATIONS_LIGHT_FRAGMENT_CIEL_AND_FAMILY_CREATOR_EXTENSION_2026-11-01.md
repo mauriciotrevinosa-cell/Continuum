@@ -1,5 +1,7 @@
 # The Arrivals — Operaciones entrelazadas, fragmento de luz y recuerdos compartidos
 
+> **Decisión posterior vigente, 2026-11-02:** [Mensaje íntegro y alcance](S8_TRIAL_SELF_DESTRUCTION_S9_SYSTEM_DEVELOPMENT_AND_VOLUNTARY_COINS_CREATOR_DECISIONS_2026-11-02.md). RecuerdoTrial: Mau se destruye después de destruiraquelmundo. S8sóloglimpsesdesistema/fragmento; desarrolloplenoS9. Monedas: ofertas/reservasvoluntarias y procedimiento, reparto/invocacionesconpinmientraspueblo/boda. [Esqueletofinalpropuestoparaopinión](S8_REMAINING_VOLUMES48_52_BRAIDED_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-11-02.md). Sin prosa ejecutada.
+
 > **Aclaración posterior — 2026-11-01:** [Ciel antes de Witch Hat y semilla S9](S8_CIEL_BEFORE_WITCH_HAT_AND_S9_PARENTAL_HEARTBEAT_CREATOR_SEED_2026-11-01.md). Gojo fue ejemplo; la gestación futura dura9meses. Preferencia de ubicar esta escenaCiel antes deWitchHat; embarazo/latido y posible ofensivaMau quedan para planear cuando lleguemosS9, sin convertir recomendaciones anteriores en calendario aprobado.
 
 **2026-11-01. Ampliación directa del creador para planificar S8/S9. Se conservan mensajes y respuestas íntegros. No prosa nueva ni reparto de Tempest, vivienda, embarazo, evolución o final de temporada ejecutados.**

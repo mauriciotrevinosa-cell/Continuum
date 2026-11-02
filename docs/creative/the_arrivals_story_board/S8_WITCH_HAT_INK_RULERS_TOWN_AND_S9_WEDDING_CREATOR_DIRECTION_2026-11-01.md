@@ -1,5 +1,7 @@
 # The Arrivals — Tinta, vigilancia, Rulers y pueblo: dirección para cerrar S8
 
+> **Decisión posterior vigente, 2026-11-02:** [Mensaje íntegro y alcance](S8_TRIAL_SELF_DESTRUCTION_S9_SYSTEM_DEVELOPMENT_AND_VOLUNTARY_COINS_CREATOR_DECISIONS_2026-11-02.md). RecuerdoTrial: Mau se destruye después de destruiraquelmundo. S8sóloglimpsesdesistema/fragmento; desarrolloplenoS9. Monedas: ofertas/reservasvoluntarias y procedimiento, reparto/invocacionesconpinmientraspueblo/boda. [Esqueletofinalpropuestoparaopinión](S8_REMAINING_VOLUMES48_52_BRAIDED_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-11-02.md). Sin prosa ejecutada.
+
 > **Ampliación posterior del creador — vigente:** [Operaciones entrelazadas, pleito Ashborn, fragmento construido y escena Ciel](S8_BRAIDED_OPERATIONS_LIGHT_FRAGMENT_CIEL_AND_FAMILY_CREATOR_EXTENSION_2026-11-01.md). Rulers interceptan durante pesquisa de ratones; el enfoque secuencial y la propuesta de evitar conflicto Ashborn pidiendo antes un permiso más amplio quedan sustituidos por esa dirección. Mensajes íntegros abajo preservados.
 
 **2026-11-01. Propuesta extensa del creador y aclaraciones directas, preservadas íntegramente. Planificación en desarrollo, NO capítulos autorizados por esta nota. No se ha construido el pueblo ni ejecutado sus nuevos acontecimientos.**

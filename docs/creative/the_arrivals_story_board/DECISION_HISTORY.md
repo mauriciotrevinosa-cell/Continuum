@@ -2727,3 +2727,8 @@ Mauri señala Gojo/Shoko, Maomao/Jinshi, Rem/Ram y aclara que faltan otros nombr
 ### Propuesta de hogares por relaciones vividas, 2026-11-02
 
 Mauri pide revisar convivencia: Rem quiereMau porfamiliasinjuicio/deuda, RamcercaRem/quieneslacuidan/Seika, RemcercaUmaru yUmaru cercasusdoshermanosTaihei/Mau. [Mensaje íntegro ypropuesta cotejada](S8_RELATIONSHIP_BASED_LIVING_AND_FUTURE_FAMILY_DISTRIBUTION_PROPOSAL_2026-11-02.md). Tramoscortos/descansillos/unidadesprivadas, Fortanexocomunes, reservaBocchi/familias, GojoShoko2dormitorios, restoelencoyTempestintegrados; cobertura nombres no censonuevo. ToukaIchikayaB, Taihei/Tsurugicorroborados. JijiArminocupanregistrodecotejo, ausencia demenciónnoautoriza borrado/invenciónllegada. Propuesta paraopinión antesdeplano/verde, sin capítulos/obra/mudanza/monedas ejecutados.
+
+
+### Decisiones finales Trial, sistema y monedas; esqueleto para opinión, 2026-11-02
+
+Mauri define recuerdooculto: trasdestruiraquelmundoTrial Mau sedestruyó; extremoque nadie debióvivir, noactoactual. Prefiere S8glimpses ydesarrolloplenosistema/fragmentoS9. Monedaspropuestasvoluntarias: familiaresyaencontrados puedenofrecer; Jinshireserva; procedimientoyplanconpinantesdedistribuir/invocar pueshaypuebloyboda. [Mensaje íntegro](S8_TRIAL_SELF_DESTRUCTION_S9_SYSTEM_DEVELOPMENT_AND_VOLUNTARY_COINS_CREATOR_DECISIONS_2026-11-02.md). Coautor prepara [esqueleto V48–52/90–130flexibles](S8_REMAINING_VOLUMES48_52_BRAIDED_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-11-02.md), conCielantesWitchHat yBride/InnToTown/vigilanciaRulers/huéspedesentrelazados, cierre cena/pueblohabitado yS9sinconstruirahora. Noverdeinferido ni capítulos/capacidades/monedas/llegadas ejecutados.

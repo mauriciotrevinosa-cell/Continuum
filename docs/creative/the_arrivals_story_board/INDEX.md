@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **S9 — Trial y recuperación, V53#14:** V53 completo: trial y regreso de Mau. Continúo con la recuperación en V54; boda y siguientes arcos aún por planear. [Leer](../THE_ARRIVALS_LN_VOLUME_53_INDEX_v0.1.md) · [Estado](S9_TRIAL_RECOVERY_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_RULERS_TRIAL_AND_RECOVERY_CREATOR_DIRECTION_2026-11-02.md).
+> **S9 — Trial y recuperación, V54#4:** V54: Mau vuelve a casa, pide espacio y permite que su familia lo acompañe. Recuperación en curso; seguimos sin adelantar la boda. [Leer](../THE_ARRIVALS_LN_VOLUME_54_INDEX_v0.1.md) · [Estado](S9_TRIAL_RECOVERY_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_RULERS_TRIAL_AND_RECOVERY_CREATOR_DIRECTION_2026-11-02.md).
 
 > **Producción resto S8 — V52#16:** S8 CERRADA en V52#16: pueblo habitado y cena familiar. Boda, sistema pleno y propuesta de trial Rulers siguen para planear S9; S9 no iniciada. [Leer](../THE_ARRIVALS_LN_VOLUME_52_INDEX_v0.1.md) · [Estado/relaciones](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Verde](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).
 

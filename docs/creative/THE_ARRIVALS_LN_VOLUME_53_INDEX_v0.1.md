@@ -11,6 +11,8 @@ Continuation from the inhabited town at the end of Season Eight. The authorized 
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_52_INDEX_v0.1.md) · [Creator direction](the_arrivals_story_board/S9_RULERS_TRIAL_AND_RECOVERY_CREATOR_DIRECTION_2026-11-02.md) · [Continuity](the_arrivals_story_board/S9_TRIAL_RECOVERY_PRODUCTION_STATE_2026-11-02.md).
 
+[Continue in Volume 54](THE_ARRIVALS_LN_VOLUME_54_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

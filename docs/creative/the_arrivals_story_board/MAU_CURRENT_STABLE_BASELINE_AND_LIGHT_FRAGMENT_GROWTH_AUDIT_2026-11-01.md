@@ -1,5 +1,7 @@
 # Mau — Base estable, picos y crecimiento por fragmento de luz
 
+> **Aclaración del creador:** Gojo era un ejemplo de comparación, no referencia única, techo o combate nuevo obligatorio. [Mensaje íntegro](S8_CIEL_BEFORE_WITCH_HAT_AND_S9_PARENTAL_HEARTBEAT_CREATOR_SEED_2026-11-01.md). Mantener la distinción base/picos en cualquier comparación.
+
 **2026-11-01. Auditoría inicial del material escrito y dirección nueva del creador. No medición completa de todo el repertorio, clasificación oficial entre franquicias o evolución ejecutada. Punto de prosa: V47#22; lectura declarada por Mauri: V47#13. Referencias de combate usadas están antes de ese punto lector.**
 
 [Dirección íntegra, preguntas y respuestas](S8_BRAIDED_OPERATIONS_LIGHT_FRAGMENT_CIEL_AND_FAMILY_CREATOR_EXTENSION_2026-11-01.md). Regla expresamente reiterada: **ganar un combate no significa poseer un nivel estable equivalente a todo lo que el rival puede hacer**.

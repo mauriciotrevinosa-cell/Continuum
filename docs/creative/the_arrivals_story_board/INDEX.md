@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Foco vigente S8 — 2026-11-01:** [Ciel antes de Witch Hat; hijo para planearS9](S8_CIEL_BEFORE_WITCH_HAT_AND_S9_PARENTAL_HEARTBEAT_CREATOR_SEED_2026-11-01.md). Gojo sólo ejemplo. Gestación9meses; posible latido y respuesta deMau anteMakima quedan como semilla futura. Ahora rosterTempest/plano/trenzaS8, sin embarazo ni capítulos nuevos.
+
 > **Ampliación vigente S8/S9 — 2026-11-01:** [Mensajes íntegros: operaciones Bride/InnToTown, lista Tempest primero, ratones/Rulers, pleito Ashborn/DIO, luz construida, Ciel/Trial/Yuka y familia](S8_BRAIDED_OPERATIONS_LIGHT_FRAGMENT_CIEL_AND_FAMILY_CREATOR_EXTENSION_2026-11-01.md). [Base estable/picos/crecimiento de Mau](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md). No mudanzas nuevas, embarazo, capacidad o capítulos ejecutados; fechas de activación/hijo y roster por decidir juntos.
 
 > **Planificación próxima — Witch Hat/tinta, Rulers y pueblo, 2026-11-01:** [Mensaje íntegro y tres aclaraciones](S8_WITCH_HAT_INK_RULERS_TOWN_AND_S9_WEDDING_CREATOR_DIRECTION_2026-11-01.md). Tinta como pieza glyph/reconstrucción corporal diferida; Rulers esperan fuera del perímetro; monedas previstas, desequilibrio por convergencias masivas. Cierre deseadoS8: pueblo habitado/preparativos; aperturaS9 boda/luna de miel. Mecanismos/roster/esqueleto por acordar, NO capítulos nuevos.

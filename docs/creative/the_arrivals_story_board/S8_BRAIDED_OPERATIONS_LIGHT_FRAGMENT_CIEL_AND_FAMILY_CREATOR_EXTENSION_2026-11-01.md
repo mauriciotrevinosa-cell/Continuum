@@ -1,5 +1,7 @@
 # The Arrivals — Operaciones entrelazadas, fragmento de luz y recuerdos compartidos
 
+> **Aclaración posterior — 2026-11-01:** [Ciel antes de Witch Hat y semilla S9](S8_CIEL_BEFORE_WITCH_HAT_AND_S9_PARENTAL_HEARTBEAT_CREATOR_SEED_2026-11-01.md). Gojo fue ejemplo; la gestación futura dura9meses. Preferencia de ubicar esta escenaCiel antes deWitchHat; embarazo/latido y posible ofensivaMau quedan para planear cuando lleguemosS9, sin convertir recomendaciones anteriores en calendario aprobado.
+
 **2026-11-01. Ampliación directa del creador para planificar S8/S9. Se conservan mensajes y respuestas íntegros. No prosa nueva ni reparto de Tempest, vivienda, embarazo, evolución o final de temporada ejecutados.**
 
 Complementa [tinta/Rulers/pueblo/boda](S8_WITCH_HAT_INK_RULERS_TOWN_AND_S9_WEDDING_CREATOR_DIRECTION_2026-11-01.md). En el asunto Ashborn, la dirección nueva de conflicto/descubrimiento sustituye la solución editorial anterior de evitarlo pidiendo de antemano un permiso más amplio.

@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **S9 — Trial y recuperación, V53#2:** Apertura S9 desde la cena: los Rulers añaden una exigencia y la familia la cuestiona. Trial y recuperación autorizados; boda y resto pendientes. [Leer](../THE_ARRIVALS_LN_VOLUME_53_INDEX_v0.1.md) · [Estado](S9_TRIAL_RECOVERY_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_RULERS_TRIAL_AND_RECOVERY_CREATOR_DIRECTION_2026-11-02.md).
+> **S9 — Trial y recuperación, V53#6:** Entrada al trial y negativa consciente de Mau; DIO y la casa tuvieron voz. La salida sigue exigiendo algo que él se rehúsa a hacer. [Leer](../THE_ARRIVALS_LN_VOLUME_53_INDEX_v0.1.md) · [Estado](S9_TRIAL_RECOVERY_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_RULERS_TRIAL_AND_RECOVERY_CREATOR_DIRECTION_2026-11-02.md).
 
 > **Producción resto S8 — V52#16:** S8 CERRADA en V52#16: pueblo habitado y cena familiar. Boda, sistema pleno y propuesta de trial Rulers siguen para planear S9; S9 no iniciada. [Leer](../THE_ARRIVALS_LN_VOLUME_52_INDEX_v0.1.md) · [Estado/relaciones](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Verde](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).
 

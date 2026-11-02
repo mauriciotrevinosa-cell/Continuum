@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 48
 **Season:** 8
-**Coverage:** S8E57–S8E62 (in progress)
+**Coverage:** S8E57–S8E64 (in progress)
 **Volume title:** **The Rooms Between Us** (provisional)
-**Chapter files:** 12
+**Chapter files:** 15
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -27,3 +27,6 @@ The continuation after the household's festival return. Scene length follows the
 | 10 | S8E61 | The Voice He Remembered | `THE_ARRIVALS_S8E61_LN_CHAPTER_02_THE_VOICE_HE_REMEMBERED_v0.1.md` |
 | 11 | S8E62 | On Your Side of the Wall | `THE_ARRIVALS_S8E62_LN_CHAPTER_01_ON_YOUR_SIDE_OF_THE_WALL_v0.1.md` |
 | 12 | S8E62 | Where Her Voice Was Missing | `THE_ARRIVALS_S8E62_LN_CHAPTER_02_WHERE_HER_VOICE_WAS_MISSING_v0.1.md` |
+| 13 | S8E63 | The Parts Between the Fights | `THE_ARRIVALS_S8E63_LN_CHAPTER_01_THE_PARTS_BETWEEN_THE_FIGHTS_v0.1.md` |
+| 14 | S8E63 | The Last Person There | `THE_ARRIVALS_S8E63_LN_CHAPTER_02_THE_LAST_PERSON_THERE_v0.1.md` |
+| 15 | S8E64 | The People in This Room | `THE_ARRIVALS_S8E64_LN_CHAPTER_01_THE_PEOPLE_IN_THIS_ROOM_v0.1.md` |

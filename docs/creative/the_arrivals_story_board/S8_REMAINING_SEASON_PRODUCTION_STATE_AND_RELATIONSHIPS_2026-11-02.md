@@ -20,10 +20,13 @@ Read the current state below instead of treating earlier planning possibilities 
 | V48#10 | S8E61 CH02 | B+50 afternoon | Thirdsession: KamishmemorywithCielchosenpauses/Rordinarycomfort/Ypresent, noomniscientaudiotranscript orreinjury. |
 | V48#11 | S8E62 CH01 | B+50 lateafternoon | IndependentGojoShokofuture2bedrooms/privatechair/knockingchosenwarmth; noactualmove. |
 | V48#12 | S8E62 CH02 | B+51 afternoon | Cielaloneviewsspecificrecentencierromemorieswithpauses, Mdecideshonestoralhouseaccountnext; Yknewyearnotdetails, hiddenTrialmemorynotyet. |
+| V48#13 | S8E63 CH01 | B+51 evening | Mvoluntaryoraladult-familytruthofrecentencierro, noimages/Cielpublicvoice; carequestions/companionshipnotrejection, Yasksprivatetalk. |
+| V48#14 | S8E63 CH02 | B+51 laterevening | MYomissiontalkunprocessedburden; recoveredOGTrialafterworldMselfdestructionnongraphic/nomethod/presentact, panichelpcalled. |
+| V48#15 | S8E64 CH01 | B+51 night | RYCielcare/MchosennewfacttoRYonly/Shokocheckknowsdistressnotdetail; Yunderstandsblockedmemory, rest/followupnotinstantcure. |
 
 ## Current state
 
-**Current reader position: V48#12, B+51 afternoon after fourth chosen memory session.** ContinueauthorizedS8aftercheckpoint.
+**Current reader position: V48#15, B+51 night after familyconversation/hiddenTrialmemory and support.** ContinueauthorizedS8aftercheckpoint.
 
 - Earlier#1–3 in produced table: MY ordinarymorning, actualRem/Ram/Umaru/Taihei/Suika/Seikahousingwishes, actualNoisereview keepingnewbuildsHELD.
 - #4: fullnewrequestandconsent lived. Ciel remembers earlierKamishclip/ownSTOP, asks MORE nowforherself. M admitsfear, Y supportivewithoutfile, RinvitedafterCielconsent. ExistingMYroom agreed firstsessionaftereveningmeal. Shokoknowsplan/canbecalled, notgivenimages. BothM/Cielcanpause; no obligationtofinish.
@@ -36,8 +39,11 @@ Read the current state below instead of treating earlier planning possibilities 
 - #10B50afternoon thirdsession: OriginalKamishpartS6clipalreadyseen rememberednotreset. Ciel aloneviewsMPov inpauses, Ronlycurrentreactions/nounheardrescuetranscript. Cielaskspause/Rtalksordinarycomfort, Mshowsparthelpreachedhim; nocure/physicalreinjury.
 - #11B50late independentGojo/Shoko: discussfuture2bedroomapartmentaspossibility; chair/sofa/privacyknocking/joyactual, noalreadybuilt/sharedbed/newlabel. Shokoknowsarchiveavailabilitynotimages; GonlytoldMlettingpeoplesitwithhim.
 - #12B51afternoon fourthsession: recentArchitect368dayencierro inselectedMmemories. CielSEESselectedfirstMakimabelievedkill/regenerationthenbackinjury/slowDeerRCTrepairweeks/Berucare/lonelyordinarydays/returnringYukaface/Cielvoice. RHEARShercurrentreactions, YonlyMoralcontext. Theyalreadyknew~year, NEWishowdayswerefilled. MchooseoralhouseaccountNEXTbeforeanothercrisis. Yhasquestionaboutomissionheldforafter, nocouplebreak.
-- IMPORTANT: hiddenTrialpostworldselfdestructionSTILLNOTREACHED; mustemergeinpostaccountYukaquestionafterMexplainsburden/selfblockedmemory. Newmemorynotpresentact/powergain/method. Cielgrateful/fullselectedsharingbutnotentireomniscientarchivecompleted.
-- NEXTB51evening actualadultfamilyoralconversationMchooses, thenMYprivatequestion/hiddenmemory/panicandcare. GuestroadH5B50–51 arrivalnotyetreported. ShizuebedloanrenewaltoB53reviewstillpending.
+- #13B51evening: MCHOOSESoraladult-houseaccountofrecentencierrobackinjury/slowrepair/camp/officerscompany/Makimabelievedkilling. Householdalreadyknewyear; newDETAILSwithoutimages. RimuruonlyrelaysCielchosenpresentwords. Familylistens/cups/warmsfoodnotrejectsM. Makiacceptswhyheactedandfearafter, Shokocareagreement; Yhasprivatequestionnext. Children ordinaryFortgamesapartfromdetails.
+- #14B51laterevening: MYPRIVATEtalk Yhurt/angrydetailsnotshared, Mdoesnothaveallprocessed/someblockedforhimself. NEWTRUEOGTRIALMEMORYrecovered: AFTERdestroyingthatworld, MENDEDHISOWNLIFE. NOmethod/graphicdetail/newpower/presentattempt/intent. PriorunidentifieddeadlockstillUNIDENTIFIED, noopponentreveal/newcounter. RecollectionPANIC; Ystays/CielendsviewnotdeletesMknowing, callsRbypriorhelpagreement.
+- #15continuousnight: R/Y/Cielsupport. MvoluntarilytellsnewhiddenfactONLYR/YwhileCielknowsfromrecall. ShokoinvitedforcheckAFTERthatdisclosure: knowsmemorytrigger/panic, NOTexacthiddenfact/noarchive. Bodycheckedwithconsent/noinjury/heartsordinaryforhim/noenergyattack. Cieltearfulgratefultrust/choosetostay, notforcedabsorbsalltrauma. Yunderstandshecouldnottellwhatblocked; herlegitimatequestionsnotblamed/relationshipnotbroken. MrestYhand/light/Rchairleft/agreementcallcompanyandShokofollowupmorning. No instantcure.
+- IMPORTANTKNOWLEDGE: Houseadults noworalS8details; doNOThavememoryfile/newTrialselfdestructionfactbyosmosis. OnlyM/Ciel/R/Yknownewfact. Shokoawarepanic/pastmemoryonly. Noselfharmmethod/plannow, noguiltforpresentgenocide, noallarchivecompleted.
+- NEXTB52morning FOLLOWUPandordinarylifeafterthisnight; notanotherimmediateforcedsession/TrialorWitchHatattack. H5returntripnotyetconfirmedarrivalbyreport; ShizuebedloanB53reviewnext. Need continueNoisereviewchosenworkbeforelivebuilds, homeplanning/relationships andWitchHatseedsafterCielbreathingroom.
 
 ## Space, visits, relationships
 
@@ -51,6 +57,6 @@ MY engagedsilverleftband/familyringcord/flowerbraceletseparate, McLarenhoodieYuk
 
 No new stat/kit/unlock. Mlevel200, pointsheld0,Int520; permanentphysicalupgrades no toggle. Legion6615=6597ordinary+17named+1gift, Muster+40ordinary home41; allstored/post allocations inherited. NativeMaho/Agito separate/YukaMahoalreadytamed. OneactiveCECTperbody; mana source vs accessibleCE/bodythroughput differentiated. GreyexceptYuka, leftblur/stifffingers/scars/whitepatch remain. No guaranteedBlackFlash, systemcapbreak or fragmentcomplete inS8.
 
-Ciel linkedM/R only, privatevoice/no publichost. Expandedpermission agreed in4 and selectedbeautifulmemoriesviewed in6; noentirearchivedump. Laterchosenreadings stillpending. New hiddenTrialmemory canonical: afterdestroyingworld Mdestroyedhimself, no method/graphicmechanism or presentact. Cielcanstop, Mcanpause, Rlistensreactions only; othersaccompany withoutfile. Mustincludehappy aswell ashard. Mauoralaccountofredgatebackbreak/neardeath/Makimathoughtmortal notyetgiven.
+Ciel linkedM/R only, privatevoice/no publichost. Expandedpermission agreed in4 and selectedbeautifulmemoriesviewed in6; noentirearchivedump. Laterchosenreadings stillpending. HiddenTrialmemory RECOVERED#14/15: afterdestroyingworld Mdestroyedhimself, no method/graphicmechanism or presentact. Cielcanstop, Mcanpause, Rlistensreactions only; othersaccompany withoutfile. Mustincludehappy aswell ashard. Mauoraladult-houseaccountofredgatebackbreak/neardeath/Makimathoughtmortal GIVEN#13; housecarecontinues.
 
 Coinsowned/reservedunchanged/JinshiGaoshunreserve; methoddiscussionlater, distribution/invocationspinned. Noise/Ashborn/DIOagreements remain; review didNOTsupplyblanketguestmemoriespermission nor reveal latercontinuousanalysisissueearly. Namepending/RimuruYukafavorOPEN. Ko/Subarunotarrived/JijiArminoccupancycotejo beforeclaiming.

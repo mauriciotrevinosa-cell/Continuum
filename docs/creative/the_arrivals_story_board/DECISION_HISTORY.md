@@ -2748,3 +2748,7 @@ V48#7–9 Fortphysicalproximity/futurefamiliesandindependenthomesexpressednotbui
 ### Resto S8 — V48#10–12, 2026-11-02
 
 V48#10–12 threefullscenesbyactualneedandbriefGojoShokowindow. ArchiverulesMviewonlyCiel/Rcurrentreactions/Yoralkept, oldKamishpermissionsnotreset, S8yearalreadyknownnowdetailsnew. MCHOSESownoralaccountnext, hiddenTrialselfdestructionstillnotrecalled, noallarchivecompleted/familyfearplot/newkit. All1572olderchaptersuntouched; continuenext.
+
+### Resto S8 — V48#13–15, 2026-11-02
+
+V48#13–15 centraloraltruthandMYconsequencesgivenfullscenes. CreatorhiddenTrialfactnowrecalledwithoutmethod/graphicglory/presentact; actualcare andspecificknowledgeRY/CielversusShokoversusrestkept, nohousefear/breakup/newpower. Onecontinuousnightnotinstantresolution. All1575olderchaptersunchanged; continueB52ordinaryfollowup/pacing.

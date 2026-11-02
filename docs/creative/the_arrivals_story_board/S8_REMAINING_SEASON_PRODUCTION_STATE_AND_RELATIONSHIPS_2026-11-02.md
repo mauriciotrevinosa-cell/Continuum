@@ -17,10 +17,13 @@ Read the current state below instead of treating earlier planning possibilities 
 | V48#7 | S8E60 CH01 | B+49 morning | Housechoosesactualhousingwishes: FortcommonDOOR, Bocchifuturefamily, MYOkkotsuprivacy, GojoShoko2dorms; noactualbuild/coins. Rsurveyletter. |
 | V48#8 | S8E60 CH02 | B+49 evening | SecondarchiveTriallife/weddingedgeCielSTOP, supportMYR; engagementchoiceaffirmed/notreset, hiddenfinalmemorystillnotaccessed. |
 | V48#9 | S8E61 CH01 | B+50 morning | Actualscheduleddepartureall5pupils/Hinatawithletter; Shizuestays/Diablobandbedloanrenewed3nightsuntilreviewB53. |
+| V48#10 | S8E61 CH02 | B+50 afternoon | Thirdsession: KamishmemorywithCielchosenpauses/Rordinarycomfort/Ypresent, noomniscientaudiotranscript orreinjury. |
+| V48#11 | S8E62 CH01 | B+50 lateafternoon | IndependentGojoShokofuture2bedrooms/privatechair/knockingchosenwarmth; noactualmove. |
+| V48#12 | S8E62 CH02 | B+51 afternoon | Cielaloneviewsspecificrecentencierromemorieswithpauses, Mdecideshonestoralhouseaccountnext; Yknewyearnotdetails, hiddenTrialmemorynotyet. |
 
 ## Current state
 
-**Current reader position: V48#9, B+50 morning after departures.** Continue authorized restS8 after checkpoint.
+**Current reader position: V48#12, B+51 afternoon after fourth chosen memory session.** ContinueauthorizedS8aftercheckpoint.
 
 - Earlier#1–3 in produced table: MY ordinarymorning, actualRem/Ram/Umaru/Taihei/Suika/Seikahousingwishes, actualNoisereview keepingnewbuildsHELD.
 - #4: fullnewrequestandconsent lived. Ciel remembers earlierKamishclip/ownSTOP, asks MORE nowforherself. M admitsfear, Y supportivewithoutfile, RinvitedafterCielconsent. ExistingMYroom agreed firstsessionaftereveningmeal. Shokoknowsplan/canbecalled, notgivenimages. BothM/Cielcanpause; no obligationtofinish.
@@ -30,7 +33,11 @@ Read the current state below instead of treating earlier planning possibilities 
 - #7 B49morning: HOUSEVOICESactualconsult. FortdirectDOORcommon/dining retained, Bocchifamilyparents/sisterspacekeptnearband/Mau notarrived, bandprivatestair/acousticquestionswritten; MYprivacy/relativeschosen, GojoShoko BOTHpropose2bedroomsharedhome(noactualmove). OthersincludefamilyKaneki/Touka/Ichika, MaomaoJinshi, Senku/Wakana/Mai/Fernrealdecisions/questions. RimurulettersurveyrequestforGeld/Kurobe carriedHtomorrow; noexpertarrival.
 - #8 B49evening secondARCHIVE: CielaloneviewsinitialTriallife/loss/weddingedge, asksSTOPwhenMdistressed. PresentMYengagementchoiceREASSUREDusingmountain/Berujoke, notreset. RrecognizesMsoftenedstorybutMexplainstryinggetthroughtelling. VerbalcontextremainingTrialonly; newhiddenpostworldselfdestructionSTILLNOTREACHED. Allstop/rest, CielnotOGparticipant.
 - #9 B50breakfast/departure: all5studentsLEAVEwithHinataforactualtwo-daygroundtripTempest, notalreadyarrived. HcarriesRletter; AnkoHmutualaffectionpromisevisits, nojob-only. ShizueCHOOSESstay; Diablo/Seika/Nijika/Bocchi explicitlyrenewbedloanTHREEmorenights50/51/52, REASSESSB53morning, Dmusictravelbedonlyafterpracticeandpackedbeforeuse. NOguestwingfree/arrivalhouse/officebed. MquieterafterTrialnight,safeordinarybreakfast/Yclose.
-- NEXT: B50later, resumechosenarchivewithpauses/support. StilloriginalKamish/recentRedGate/ownMoraltruthandnewhiddenTrialmemoryNOTdone; doNOTskiptoallprocessed orWitchHatjourney.
+- #10B50afternoon thirdsession: OriginalKamishpartS6clipalreadyseen rememberednotreset. Ciel aloneviewsMPov inpauses, Ronlycurrentreactions/nounheardrescuetranscript. Cielaskspause/Rtalksordinarycomfort, Mshowsparthelpreachedhim; nocure/physicalreinjury.
+- #11B50late independentGojo/Shoko: discussfuture2bedroomapartmentaspossibility; chair/sofa/privacyknocking/joyactual, noalreadybuilt/sharedbed/newlabel. Shokoknowsarchiveavailabilitynotimages; GonlytoldMlettingpeoplesitwithhim.
+- #12B51afternoon fourthsession: recentArchitect368dayencierro inselectedMmemories. CielSEESselectedfirstMakimabelievedkill/regenerationthenbackinjury/slowDeerRCTrepairweeks/Berucare/lonelyordinarydays/returnringYukaface/Cielvoice. RHEARShercurrentreactions, YonlyMoralcontext. Theyalreadyknew~year, NEWishowdayswerefilled. MchooseoralhouseaccountNEXTbeforeanothercrisis. Yhasquestionaboutomissionheldforafter, nocouplebreak.
+- IMPORTANT: hiddenTrialpostworldselfdestructionSTILLNOTREACHED; mustemergeinpostaccountYukaquestionafterMexplainsburden/selfblockedmemory. Newmemorynotpresentact/powergain/method. Cielgrateful/fullselectedsharingbutnotentireomniscientarchivecompleted.
+- NEXTB51evening actualadultfamilyoralconversationMchooses, thenMYprivatequestion/hiddenmemory/panicandcare. GuestroadH5B50–51 arrivalnotyetreported. ShizuebedloanrenewaltoB53reviewstillpending.
 
 ## Space, visits, relationships
 

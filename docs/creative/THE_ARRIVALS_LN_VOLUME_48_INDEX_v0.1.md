@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 48
 **Season:** 8
-**Coverage:** S8E57–S8E61 (in progress)
+**Coverage:** S8E57–S8E62 (in progress)
 **Volume title:** **The Rooms Between Us** (provisional)
-**Chapter files:** 9
+**Chapter files:** 12
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -24,3 +24,6 @@ The continuation after the household's festival return. Scene length follows the
 | 7 | S8E60 | Leave the Door There | `THE_ARRIVALS_S8E60_LN_CHAPTER_01_LEAVE_THE_DOOR_THERE_v0.1.md` |
 | 8 | S8E60 | Before She Knew Him | `THE_ARRIVALS_S8E60_LN_CHAPTER_02_BEFORE_SHE_KNEW_HIM_v0.1.md` |
 | 9 | S8E61 | Breakfast Before the Road | `THE_ARRIVALS_S8E61_LN_CHAPTER_01_BREAKFAST_BEFORE_THE_ROAD_v0.1.md` |
+| 10 | S8E61 | The Voice He Remembered | `THE_ARRIVALS_S8E61_LN_CHAPTER_02_THE_VOICE_HE_REMEMBERED_v0.1.md` |
+| 11 | S8E62 | On Your Side of the Wall | `THE_ARRIVALS_S8E62_LN_CHAPTER_01_ON_YOUR_SIDE_OF_THE_WALL_v0.1.md` |
+| 12 | S8E62 | Where Her Voice Was Missing | `THE_ARRIVALS_S8E62_LN_CHAPTER_02_WHERE_HER_VOICE_WAS_MISSING_v0.1.md` |

@@ -2744,3 +2744,7 @@ V48#4–6 centralconsentandmemorygivenfullspace plusshortsidewindowasneeded. Cie
 ### Resto S8 — V48#7–9, 2026-11-02
 
 V48#7–9 Fortphysicalproximity/futurefamiliesandindependenthomesexpressednotbuilt, Trialrelivinghaspauseandpresentengagementkept, fivepupils/HreturnactuallyleaveB50ratherthanvanish. Shizueloanexplicitrenewalnotforcedeviction. Old1569chaptersunchanged. ContinueCielarchiveandordinarylifebeforeWitchHat.
+
+### Resto S8 — V48#10–12, 2026-11-02
+
+V48#10–12 threefullscenesbyactualneedandbriefGojoShokowindow. ArchiverulesMviewonlyCiel/Rcurrentreactions/Yoralkept, oldKamishpermissionsnotreset, S8yearalreadyknownnowdetailsnew. MCHOSESownoralaccountnext, hiddenTrialselfdestructionstillnotrecalled, noallarchivecompleted/familyfearplot/newkit. All1572olderchaptersuntouched; continuenext.

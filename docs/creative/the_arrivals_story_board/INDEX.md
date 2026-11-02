@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción resto S8 — V48#9:** Deseos de convivencia vividos, continuación de Ciel y seguimiento real de las visitas. Volumen en curso. [Leer](../THE_ARRIVALS_LN_VOLUME_48_INDEX_v0.1.md) · [Estado/relaciones](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Verde](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).
+> **Producción resto S8 — V48#12:** Ciel continúa con pausas y acompañamiento; la casa mantiene sus relaciones y decisiones propias. Volumen en curso. [Leer](../THE_ARRIVALS_LN_VOLUME_48_INDEX_v0.1.md) · [Estado/relaciones](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Verde](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).
 
 > **S8: decisiones resueltas y esqueleto final para opinión — 2026-11-02:** [Mensaje íntegro Trial/sistemaS9/monedas](S8_TRIAL_SELF_DESTRUCTION_S9_SYSTEM_DEVELOPMENT_AND_VOLUNTARY_COINS_CREATOR_DECISIONS_2026-11-02.md) · [Propuesta V48–52,90–130caps flexibles ytrenzas](S8_REMAINING_VOLUMES48_52_BRAIDED_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-11-02.md). Mau seautodestruyó enaquella vidaTrial, noactoactual; S8sóloanticipa fragmento/sistema, plenodesarrolloS9; monedas voluntarias y reparto/invocacionesconpin. Cierre pueblohabitado/cenafamiliar/preparativos, bodaS9. Ningúncapítulo/llegada/obraejecutado; esqueleto pendiente deverde.
 

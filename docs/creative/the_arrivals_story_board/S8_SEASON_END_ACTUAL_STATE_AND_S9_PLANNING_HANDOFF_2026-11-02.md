@@ -1,5 +1,7 @@
 # S8 — Cierre producido y entrega para planear S9
 
+> **Continuación posterior al cierre S8, 2026-11-02:** Mauri ya diseñó y autorizó el trial y la recuperación. Se produjeron V53#1–14 y V54#1–8; [estado actual y límite para planear lo siguiente](S9_TRIAL_RECOVERY_ACTUAL_END_AND_NEXT_PLANNING_HANDOFF_2026-11-02.md). Las afirmaciones de S9 no iniciada y trial pendiente debajo describen este cierre histórico de S8, no el estado actual de producción.
+
 2026-11-02. **S8 termina en V52#16, «When Dinner Was Ready», S8E102 CH02, B+84 noche.** Pueblo efectivamente habitado, cena familiar vivida. No final de serie. No se comenzó S9.
 
 ## Aclaración vigente: NO hay trial de Rulers escrito

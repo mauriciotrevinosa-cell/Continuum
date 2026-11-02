@@ -2812,3 +2812,7 @@ V52#1–6 ACTUALphasedmovesB76–78 afterinspections: GShoko2privatebedrooms/fol
 ### Resto S8 — V52#7–12, 2026-11-02
 
 V52#7–12 actualremaininglegacyhomes/serviceschecks/noomittedhouseholds; Dvacateslowerbed/RloftuntilM/Ractualmove. B80actualMY/R/Shizue3bedroomhomeinspectionTHENmove/oldroomsvacated/firstnightnotfirstcohabitationDay746; abstinent/greyexceptY/oldsequelaekept/familiarfloatnotnewpower. RfavorOPEN/Shizueownkeynoforcedromance. CoinsearchreserveprocedurePIN/no spends. ActualB80letterH+TestarossaSoueivisitB82departureB83arrival/roomsagreedno alreadyarrived. Inkstablecheck/no newsystem. Bridefirstroute/light/musicTESTONLYnotsecretwedding/date; OriMumF/HFownsmallwalk. Oldchaptersunchanged; finishS8withactualdinnernext.
+
+### Resto S8 — V52#13–16, 2026-11-02
+
+S8FINISHEDV52#16/B84withactualinhabitedtownandfamilydinnernotnewdoom/wedding. V48–52=91chapters. Finalfourgiveordinarygiftprogress/actualthreevisitorsB83/crewfuturedepartureschosenB86/B88notalreadygone/80ordinaryhaulersreturnedtotal6615guard41unchanged. Familyallhouseholdsrecordactualbeds/relations/searchPINno newcoinarrival. CreatorRulerTrialquestionexplicitlypreservedNOTWRITTEN/proposalS9todesign. No fullfragment/BlackHeartcapbreak/newstats/sex/pregnancy/S9chapters. Finalhandoff/actualhouseholdsdocumented, oldchaptersunchanged. StopS8scopecomplete; S9requiresplan/green.

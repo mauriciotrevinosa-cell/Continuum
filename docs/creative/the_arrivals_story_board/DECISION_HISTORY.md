@@ -2804,3 +2804,7 @@ V51#7–12: actualRiliwelcome/initialvisitB75review/messagecoast/no coin/permane
 ### Resto S8 — V51#13–14, 2026-11-02
 
 V51#13–14: EchidnafutureteaPROPOSALnotpermissionnewinnerguests/power. ActualB75HinatareturnTempest/carehandoff/romancecontinues. Rilivisitreviewactualchoosesmainbase/ownroominreservedfamilymodule, ownmessagesordinaryroute/nofastacknowledgement/coin. FirstGShokohomepassesdoors/water/stairinspection, actualmoveNEXTB76notassumedalready. V51closes14; continuefinaltownhabitation/dinnerS8, no wedding/systemS9.
+
+### Resto S8 — V52#1–6, 2026-11-02
+
+V52#1–6 ACTUALphasedmovesB76–78 afterinspections: GShoko2privatebedrooms/foldingbedreturned/notmusicloan; bandmusicvestibule/BocchifuturefamilyEMPTY; RemRam/UmaruSuika/Taihei/Seikachoicebonds; QO/girls/Cocomother/Riliworkroom/privacy; familyOkkotsunearbyactualboxes; ShunaShion/RamirisBeretta/Ranga/all5students/F/Ori/Milim/FernStarkHimmel; Kanekifamily/AOTfriendcircle/DandadanwithArminJijipriorresidents. No absentfamilycoinarrivals/forcedpartners/jobs/newarmy. MaioldcostcontractongoingminorworkMbodycarries/warnsbyhabit. MY/R/ShizueSTILLoldbedsuntilownhomepasses; no S9trial/wedding/system.

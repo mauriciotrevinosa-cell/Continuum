@@ -11,6 +11,8 @@ The continuation after the household's festival return. Scene length follows the
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_50_INDEX_v0.1.md) · [Production continuity](the_arrivals_story_board/S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Creator greenlight](the_arrivals_story_board/S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).
 
+[Continue in Volume 52](THE_ARRIVALS_LN_VOLUME_52_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

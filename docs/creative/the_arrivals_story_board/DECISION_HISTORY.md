@@ -2752,3 +2752,7 @@ V48#10–12 threefullscenesbyactualneedandbriefGojoShokowindow. ArchiverulesMvie
 ### Resto S8 — V48#13–15, 2026-11-02
 
 V48#13–15 centraloraltruthandMYconsequencesgivenfullscenes. CreatorhiddenTrialfactnowrecalledwithoutmethod/graphicglory/presentact; actualcare andspecificknowledgeRY/CielversusShokoversusrestkept, nohousefear/breakup/newpower. Onecontinuousnightnotinstantresolution. All1575olderchaptersunchanged; continueB52ordinaryfollowup/pacing.
+
+### Resto S8 — V48#16–18, 2026-11-02
+
+V48#16–18 followthroughnottraumacliff: actualShokofollowup/MYhonestcheck, Bocchirelationshipsceneandfuturefamilyspace, BrideoperationwithYagency/Mownwishes; D/Shizuebedsconsentrenewednotnewfreewing. All1578oldchaptersunchanged. ContinueWHseedandhouseplanning, noink/powerjumpyet.

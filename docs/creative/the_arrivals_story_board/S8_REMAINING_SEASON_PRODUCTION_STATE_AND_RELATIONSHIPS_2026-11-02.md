@@ -89,10 +89,16 @@ Read the current state below instead of treating earlier planning possibilities 
 | V52#4 | S8E96 CH02 | B+77 afternoon | ActualQO/girls/Cocomother/Rilifamilyworkspacehomes/Maicostcontract/OkkotsumovesnearYfuturehome. |
 | V52#5 | S8E97 CH01 | B+78 day | ActualnewTempestmainbasehomes/all5studentsmovefromFortcots/Ffamily/Milim/studycarewithout24hShizue. |
 | V52#6 | S8E97 CH02 | B+78 afternoon/evening | ActualKanekifamily/ErenMikasaArmin/Dandadanhomesandordinarytomorrows/no newarrivals. |
+| V52#7 | S8E98 CH01 | B+79 day | ActualMaoJinshi/AnkoNazuna/fivegirlsownhomes/privacy/futureGaoshunreserve, noKo/coinarrival. |
+| V52#8 | S8E98 CH02 | B+79 afternoon | Actualothershomes/Diabloownroom; guestInn/emergency/receptionusechecks/Hollisannouncedtrade/hoistcargoTEST. |
+| V52#9 | S8E99 CH01 | B+80 day | ACTUALMY/R/Shizue3bedroominspectionTHENmove/oldbedsvacated/eastwindow/families/OriMumFvisit. |
+| V52#10 | S8E99 CH02 | B+80 evening/night | Fullfirstnightnewhome/notfirstcohabitation/sharedtea/privateMYaffection/abstinent/familiarhappyfloat/RfavorOPEN. |
+| V52#11 | S8E100 CH01 | B+81 morning | Search/coinskeptPIN/Shokostableinkcheck/actualB80letterHTestaSoueivisitplannedB82→83notarrival. |
+| V52#12 | S8E100 CH02 | B+81 afternoon/evening | BridepersonalhomecomingroutefirstlightclothmusicTESTnotwedding/date, MY/Ori/Fwarmfamily/HFownwalk. |
 
 ## Current state
 
-**Current endpoint: V52#6, B+78 evening. Volume52inprogress; actualphasedmovesB76–78asbelow. M/Rhome. Full remaining S8 authorised; continue after checkpoints.**
+**Current endpoint: V52#12, B+81 evening. Volume52inprogress; allchosenmainhomesoccupiedasbelow. Finalservices/guests/familydinnertoendS8stillNEXT. Full remaining S8 authorised; continue after checkpoints.**
 
 ## Latest produced plot
 
@@ -172,3 +178,15 @@ ActualB72returnRiliwelcome/ownvoice; actualAshborndiscoverycontinuousfunctionals
 - B78Kaneki/Touka/IchikaACTUALfamilyhome/quietchildsleep. Eren/Mikasa/Arminactualchosenconnectedhomes/ownprivacy/no newAOTcrisis. Momo/Okarun/Vamola/Aira/Jiji/Seiko/Turboactualchosenhomecluster/ownrelationshipsnotnewpairings. Armin/JijiALREADYpriorcoinresidentsno secondarrival. Momoownlife/sharedmealsnoforeverchef.
 - STILLTOmove: Maomao/Jinshi/AnkoNazuna/MarinWakana/SenkuByakuya/fivegirls/sevenwitches/Diablo andMY-R-Shizue etc; don'tassumetheirfuturebedsalreadyactual. Upcomingservices/miniInn/emergency/Arrivalschecks. ShizueSTILLoldGroom, MYSTILLoldYroom, RLOFT/Dloweractualuntilchaptermoves. HinataAWAYTempestsinceB75/no newarrivaldateyet. Testarossa/Soueistillplannedvisitsnotarrived. ProjectGeld/Kurobe14workerstemporarycamp; choicephasefinalinvite/returnmustbeagreed.
 - S8closingtownnotyetcomplete/weddingS9/RulerTRIALstillONLYPROPOSALnotwritten(creatorslatestquestionanswered). Fullfragment/systemS9stillpending. ContinueauthorisedrestS8.
+
+## Actual V52#7–12 occupancy and closing-state changes
+
+- B79Maomao/Jinshiactualhome/privateconsultaccessnotthroughbedroom/plants/GaoshunFUTUREspaceonly. Anko/Nazunaactualprivatedarksleep/shortSeikaroute/HstillAWAY/KoNOTarrived. Hakari/Karane/Shizuka/Nano/Kusuriactualgroupownprivatehomespace/Kusurilabseparatenotbedroom/noforcednewcouples.
+- B79sevenwitchescourtACTUALhomes/ownchairs/wants/community; Marin/Wakanaownhomeseparateworkroom; Senku/Byakuyaownhomes/experimentalseparate/SuikanotrelocatedawayUmaru; DiabloACTUALownroom/chairectorynearRfutureapartNOTpostoutsidedoor. DOLDlowerbedRroomVACATED. ActualHollisANNOUNCEDtradeunloadingpublicroute/supplynotunknownarrival. GuestminiInn/emergencyclinic/ArrivalsreceptionseparateACTUALLYinspected/firstpracticalusechecks/rotatingoncallnotJinshiforeveremptydesk. MechanicalhoistCARGOTESTONLY/no uncertifiedpassengerlift/alltechworks.
+- B80MY/R/ShizueAPARTMENTLASTINSPECTIONTHENACTUALMOVE. THREEprivatebedrooms(MYeast/Rown/Shizueguestownkey), sitting/smallkitchen/futurefamilyadaptablespace/privacy/frontdoorgalleryNOTpublicpassagethroughbedroom. OldMYformerYroom/RLOFT/ShizueborrowedoldGroomACTUALLYVACATED; guestbedretainedoldhousefutureuse/MYoldbedmoved. Dnotnewroomate. Firstnewnightactualsharedtea thenprivateMYnight/notfirstcohabitationsinceDay746/ABSTINENT/no sex/pregnancy. FamiliarhappyS5floatbrief/notnewinkbuild/physicalpointsnotoggle/greyexceptY. ShizueRfeelingsstillunresolved/nolabel/ownroom, RYfavorOPEN.
+- OriFvisitactualMumFpermission/compassstillF/MYwarmwelcomenotPapareplacement. MYfuturefamilycornerEMPTYnotpregnancy. FamilyYutaMaki/Mai/Tsuruginearbypathsactual. Allothermovinggroupspreviousbatchhomesalreadyactual.
+- B81coins/searchpageexplicitKEEP/procedurePIN/NOspends/transfers/invocations. Bocchifamily/Ko/Subaru/Gaoshunremainnotarrived; ownershipnotinvented. RiliALREADYactualhomebychoice/convergence/message/no coin.
+- B81Shokoactualfollowupstableinkarmnormalordinaryuse/faintlinewatched/oldleftfingersscarsblurgreyREMAIN. Familiarcontrolnotintensetraining/newinkexperiment; no fullfragment/system/S9powerunlock.
+- HletterACTUALreceivedB80eveningordinaryrouteafterherB76returnTempest: H+Testarossa+SoueiTHREEVISITORSplanDEPARTB82morning/EXPECTEDB83eveningordinary~2dayroad. R/houseknow/privateguestInnroomsprepared. HAnkodatingsame/T-Sdoublebasevisitsnotpermanentresidents, NONEarrivedyetB81. No Benimaru/Rigurd/otherDemonLordmassmove.
+- B81BridefirstlimitedrouteTEST2lights/trialcloth/fewBocchinotes/slowpersonalwalkNOTwedding/nosecretvows/date. Rehearsalonlyfirstpart; no rootloads/newspell/colourcure. Voluntarycontributionsandfamilyclose, MYparticipantsnotMfixworlddeadline. FHownshortwalkinterestnotforcedcouple.
+- NEXT B82shadowordinaryhandcraftgiftsecret/progress/servicesfinalchoices, B83threevisitorsACTUALarrivalandprojectcrewownnextchoices, B84familyDINNERactualallhomes/newtownready. S8endNOTRulerTrial/stillproposalS9/toPLANwithcreator. No newmajorfight/pregnancy/S9writing.

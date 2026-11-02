@@ -2808,3 +2808,7 @@ V51#13–14: EchidnafutureteaPROPOSALnotpermissionnewinnerguests/power. ActualB7
 ### Resto S8 — V52#1–6, 2026-11-02
 
 V52#1–6 ACTUALphasedmovesB76–78 afterinspections: GShoko2privatebedrooms/foldingbedreturned/notmusicloan; bandmusicvestibule/BocchifuturefamilyEMPTY; RemRam/UmaruSuika/Taihei/Seikachoicebonds; QO/girls/Cocomother/Riliworkroom/privacy; familyOkkotsunearbyactualboxes; ShunaShion/RamirisBeretta/Ranga/all5students/F/Ori/Milim/FernStarkHimmel; Kanekifamily/AOTfriendcircle/DandadanwithArminJijipriorresidents. No absentfamilycoinarrivals/forcedpartners/jobs/newarmy. MaioldcostcontractongoingminorworkMbodycarries/warnsbyhabit. MY/R/ShizueSTILLoldbedsuntilownhomepasses; no S9trial/wedding/system.
+
+### Resto S8 — V52#7–12, 2026-11-02
+
+V52#7–12 actualremaininglegacyhomes/serviceschecks/noomittedhouseholds; Dvacateslowerbed/RloftuntilM/Ractualmove. B80actualMY/R/Shizue3bedroomhomeinspectionTHENmove/oldroomsvacated/firstnightnotfirstcohabitationDay746; abstinent/greyexceptY/oldsequelaekept/familiarfloatnotnewpower. RfavorOPEN/Shizueownkeynoforcedromance. CoinsearchreserveprocedurePIN/no spends. ActualB80letterH+TestarossaSoueivisitB82departureB83arrival/roomsagreedno alreadyarrived. Inkstablecheck/no newsystem. Bridefirstroute/light/musicTESTONLYnotsecretwedding/date; OriMumF/HFownsmallwalk. Oldchaptersunchanged; finishS8withactualdinnernext.

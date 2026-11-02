@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 52
 **Season:** 8
-**Coverage:** S8E95–S8E97 (in progress)
+**Coverage:** S8E95–S8E100 (in progress)
 **Volume title:** **A Place Everyone Could Find** (provisional)
-**Chapter files:** 6
+**Chapter files:** 12
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -21,3 +21,9 @@ The continuation after the household's festival return. Scene length follows the
 | 4 | S8E96 | Leave It on the Table | `THE_ARRIVALS_S8E96_LN_CHAPTER_02_LEAVE_IT_ON_THE_TABLE_v0.1.md` |
 | 5 | S8E97 | What They Put by the Windows | `THE_ARRIVALS_S8E97_LN_CHAPTER_01_WHAT_THEY_PUT_BY_THE_WINDOWS_v0.1.md` |
 | 6 | S8E97 | Tomorrow Was Already in the Room | `THE_ARRIVALS_S8E97_LN_CHAPTER_02_TOMORROW_WAS_ALREADY_IN_THE_ROOM_v0.1.md` |
+| 7 | S8E98 | The Quiet Rooms | `THE_ARRIVALS_S8E98_LN_CHAPTER_01_THE_QUIET_ROOMS_v0.1.md` |
+| 8 | S8E98 | A Guest Could Find the Door | `THE_ARRIVALS_S8E98_LN_CHAPTER_02_A_GUEST_COULD_FIND_THE_DOOR_v0.1.md` |
+| 9 | S8E99 | The Window Facing Morning | `THE_ARRIVALS_S8E99_LN_CHAPTER_01_THE_WINDOW_FACING_MORNING_v0.1.md` |
+| 10 | S8E99 | The First Night Wasn't the First | `THE_ARRIVALS_S8E99_LN_CHAPTER_02_THE_FIRST_NIGHT_WASN_T_THE_FIRST_v0.1.md` |
+| 11 | S8E100 | The Empty Spaces They Kept | `THE_ARRIVALS_S8E100_LN_CHAPTER_01_THE_EMPTY_SPACES_THEY_KEPT_v0.1.md` |
+| 12 | S8E100 | Where the Walk Would Begin | `THE_ARRIVALS_S8E100_LN_CHAPTER_02_WHERE_THE_WALK_WOULD_BEGIN_v0.1.md` |

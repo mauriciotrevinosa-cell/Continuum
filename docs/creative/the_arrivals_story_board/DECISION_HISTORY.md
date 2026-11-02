@@ -2792,3 +2792,7 @@ V50#7–12: beds/exit/privacy/care prepared BEFORE 22-person roadarrival B67; no
 ### Resto S8 — V50#13–16, 2026-11-02
 
 V50#13–16: Richeh actualreplybyordinaryroute, recognisablepersonalwriting but directverificationyet; B72shoremeetingchosenwithQ/O/KaiselMloan, noinstantbrotherarrival/coin. B69Shokofunctionalcheckpermitsnormalnearbyoutingsnotcombat/newinkexperiments. AnimalspyfirstactualclueM/Ciel/Noise/R/Ram/Y discreetcoordination, no proofMakima/Rulers/allanimals/no newCielhost. Rampartialroutebeyondward; MplansB71briefinspectionwithRhome/Yinformed. BuildingandBride/Fortdinnerstillactive, villageunfinished. V50closes16 naturally; continueS8.
+
+### Resto S8 — V51#1–6, 2026-11-02
+
+V51#1–6: Rulers wait OUTSIDE fixed ward, abrupt local transfer Ciel remains/Rinformed/Mcanleave, no capturefromInn. Ratsconfusion separates investigationsnotprovesowner. DIOactualprivateconsent/pactthreepresentboundedauthority/no throne/refugeinsidefixedwardorinnerroomoutside/notmobileward/globalMimmunity. Slowpreciseconvergences vsanticipatedcoinaccept/refusal. Passiveblueprintskeptnotconstructed/no systemcapbreak. HouseparallelagencyShizueCHOSESthirdguestroomwithMY/R/noRromance. Mreturnsoralreportbeforelunch/no hiddenTrialshare. B72actualQ/O/Richehshoretrip/Rilirecognitionandownvisitchoice/return4Kaisel,no coin/permanentassignment. Oldchapterspreserved; continueS8.

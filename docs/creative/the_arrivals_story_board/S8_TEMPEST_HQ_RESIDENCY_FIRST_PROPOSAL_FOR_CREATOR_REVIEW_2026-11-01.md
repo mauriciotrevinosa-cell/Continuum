@@ -1,6 +1,8 @@
 # S8 — Primera lista de convivencia Tempest/HQ para opinión de Mauri
 
-**2026-11-01. Propuesta del coautor, NO selección aprobada. Ninguna llegada/mudanza/cargo ejecutado.**
+**2026-11-01. Propuesta inicial del coautor; posteriormente aceptada como base por Mauri. Ninguna llegada/mudanza/cargo ejecutado.**
+
+Actualización vigente: [S8_TEMPEST_ROSTER_ACCEPTANCE_TREE_TOWN_OPTIONS_AND_SHARED_APARTMENT_2026-11-01](S8_TEMPEST_ROSTER_ACCEPTANCE_TREE_TOWN_OPTIONS_AND_SHARED_APARTMENT_2026-11-01.md). Mensajes íntegros, Leon/Luminous/Shuna y departamento Mau-Yuka/Rimuru/Shizue invitados. Conservar las categorías de esta lista como base de desarrollo, no como censo ya mudado.
 
 Petición íntegra del creador:
 

@@ -2702,3 +2702,8 @@ Mauri aclara Gojoeraejemplo y prefiereCielantesWitchHat; gestación9meses y posi
 ### Primera lista Tempest/HQ para opinión, 2026-11-01
 
 Mauri: «okay dame tu lista y yo paso opinion4». [Propuesta completa](S8_TEMPEST_HQ_RESIDENCY_FIRST_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-01.md): residenciaShion/Shuna/Ranga/Ramiris/Beretta/Shizue/cincoalumnos; doblebaseVeldora/Hinata/Testarossa/Souei; proyectosGeldvoluntarios/Kurobe; continuidadTempestBenimaruRigurdGabil yvisitasGobtaHakuroUltimaCarrera. No selección aprobada, tope de habitantes, personajes ya llegados por inferencia o mudanzas ejecutadas. Primero opinión/deseos/vínculos, después plano y censo efectivo.
+
+
+### Elenco Tempest como base, árbol central y departamento, 2026-11-01
+
+Mauri acepta el elenco propuesto y agrega Leon/Chloe, Luminous/Mau sinromance con posible reuniónbrujas quincenal y Shuna recordando compromisosplaya aMau/Yuta. Pide visuales árbolcentral y permite explorar reconstruirInn. Confirma departamento: dormitorioMauYuka, Rimurupropio, Shizueinvitados mientrasRimuruaclarasentimientos. [Mensajes íntegros, tres opciones espaciales y geometría](S8_TEMPEST_ROSTER_ACCEPTANCE_TREE_TOWN_OPTIONS_AND_SHARED_APARTMENT_2026-11-01.md). Propuestas Inn ampliado/patiosconectados(recomendada)/anillonuevo, NO selección final, demolición, medidas, censo mudado, romance fijado ni capítulos nuevos.

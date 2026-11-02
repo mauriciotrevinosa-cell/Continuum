@@ -2678,3 +2678,7 @@ Mauri: «aun no traemos a Ko que ask ahi». Ko NO ha llegado a esta rama. Correg
 ### Horizonte de cierres S8–S11 para opinión, 2026-11-01
 
 Mauri lee V47#13 y propone planear el resto de S8 y unas tres temporadas adicionales con hitos flexibles: boda, Inn→pueblo, lista de habitantes/familiares y respuestas a Makima/Arquitecto/convergencias. [Mensaje íntegro y propuesta editorial](S8_TO_S11_CLOSURE_HORIZON_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-01.md). El coautor propone priorizar comunidad enS8, boda tempranoS9 y cierres entrelazados de operaciones/facciones, no escalera rígida de jefes ni aumento universal. Segunda peticiónDIO YA cumplida, pedida/convivencia/pactoMai ya escritos, antigua infiltraciónMakima descartada. No se aprobaron estas ubicaciones, fecha de final, nuevas llegadas, monedas o capítulos; no se extiende el verde del festival ni se consulta material sellado.
+
+### Aclaración: cierres de tramas, no final de serie, 2026-11-01
+
+Mauri corrige la interpretación del coautor: mundo en evolución, Mau falla/acumulación central, arcos de sobra; cerrar áreas como la tramaSukuna al cambiar escala, no cerrar la historia. [Mensaje íntegro/regla actual](S8_OPEN_WORLD_AND_THREAD_CLOSURES_CREATOR_CLARIFICATION_2026-11-01.md). Se retiran S11 como horizonte final y asignaciones rígidas de antagonista por temporada; propuesta previa preservada con advertencia. Pueblo/boda/familiares/investigación continúan para planificación por hitos. Ningún capítulo, resultado o escala nueva ejecutados.

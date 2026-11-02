@@ -1,5 +1,7 @@
 # The Arrivals — Horizonte de cierres: resto de S8 y posible S9–S11
 
+> **INTERPRETACIÓN RETIRADA POR ACLARACIÓN DEL CREADOR — 2026-11-01:** [Mundo abierto y cierres de tramas](S8_OPEN_WORLD_AND_THREAD_CLOSURES_CREATOR_CLARIFICATION_2026-11-01.md). Mauri no pidió buscar el final de la historia. S11 como desenlace y la asignación Makima/Arquitecto/Sukuna por temporada no son dirección vigente. Se conserva esta propuesta como historial; las ideas de pueblo/boda/investigación siguen para opinión, sin calendario aprobado.
+
 **2026-11-01. Propuesta editorial para conversar con Mauri. NO aprobada como canon, calendario o final de serie. NO autoriza capítulos nuevos.**
 
 Punto de lectura declarado: **V47#13**. Esta propuesta evita revelar los nueve capítulos restantes del volumen. El estado operativo exacto para escribir después está en el [relevo de producción](S8_FESTIVAL_ACTUAL_HOME_RETURN_AND_NEXT_ARC_HANDOFF_2026-10-30.md), que sí contiene esos detalles. El verde anterior terminó en el regreso del grupo al Inn con propuestas; no se amplía automáticamente por pedir una opinión del rumbo.

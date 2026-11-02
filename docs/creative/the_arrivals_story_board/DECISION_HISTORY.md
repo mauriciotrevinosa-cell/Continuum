@@ -2760,3 +2760,7 @@ V48#16–18 followthroughnottraumacliff: actualShokofollowup/MYhonestcheck, Bocc
 ### Resto S8 — V48#19–21, 2026-11-02
 
 V48#19–21 createsWHcontacthonestlythroughroadletternotwholeworldomniscience, livehouseconsult/noinkortripyet. H5safeTempestroadconfirmed, expertvisitsNOTalreadyarrived/bedsmustbeagreed. Creatorweddingreplyverbatimkeptcreativefreedomnotcompletedsetpiece. V48closes21naturallyafterCiel/support/livingroom/Bride/initialcontact, noquota ortraumacliff. All1581oldchaptersunchanged; CONTINUEV49withoutnewpermission.
+
+### Resto S8 — V49#1–3, 2026-11-02
+
+V49#1–3 continueB55/B56withoutjumpweeks. Firstsurveycampofferwalkednotwholewardmeasured, RaloneexistingKflightTempestandreturn/nocourierinstantgroup. GeldKurobe/ShunaShionvisitchoiceslivednotjobsimposed. GojoShokotemporaryseparatebedtrialbyBOTHchoice atscheduledB56review freesDiabloownbed/ShizueGojobeduntilB59/musicroomfulluse, no completednewapartment/sex/label. PrimaryWHAroles/sourceboundariesnotedwithoutsealedmaterial. All1584olderchaptersunchanged; continueauthorizedwork.

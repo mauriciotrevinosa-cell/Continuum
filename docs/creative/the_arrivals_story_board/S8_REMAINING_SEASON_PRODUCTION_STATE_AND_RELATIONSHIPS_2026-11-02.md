@@ -59,10 +59,16 @@ Read the current state below instead of treating earlier planning possibilities 
 | V50#4 | S8E81 CH02 | B+65 morning | Shokofollowupstable/externalglyphsafetystudy/nointernalactivation, R/KurobeleaveTempestdaytrip. |
 | V50#5 | S8E82 CH01 | B+65 day/evening | ActualTempestchoices/cohort22roadB66→67, RreturnsALONEanswers/Kstaysload, noinstantresidents. |
 | V50#6 | S8E82 CH02 | B+65 afternoon parallel | CompleteMYquietgardenouting/games/food/affectioninsideward/holdstable/no exertion, homebeforeRreturn. |
+| V50#7 | S8E83 CH01 | B+66 day | Actualtemporarysleepingfor22futureparty/privacy/all5Fort/Howncot, firstsitemarking/materialwork/80oldordinary. |
+| V50#8 | S8E83 CH02 | B+66 afternoon | Namedshadowschosenhelpatdefinedsites/requestleisurehandcraftgiftMdoesnotknow/no newpower. |
+| V50#9 | S8E84 CH01 | B+66 evening | RamSeikachosenlanding/openinterest, RemUhandholding/company, noforcedlabel. |
+| V50#10 | S8E84 CH02 | B+67 evening | Actual22roadarrival/camp/Fortall5/ShizueR/HAnko/RangaRamirisBeretta, noinstanttown/coins. |
+| V50#11 | S8E85 CH01 | B+68 day | Crewfirstfullworkday/newroof/frame/realrain, safeexternalglyphlight/privateclass/sharedmealroles/RShizuecompany. |
+| V50#12 | S8E85 CH02 | B+68 evening | Bridepersonalroute/fabric/musicvoluntaryBocchiask, shadowsordinarycraftsecretMnotknows. |
 
 ## Current state
 
-**Current endpoint: V50#6, B+65 evening. V49complete24chapters; V50inprogress. #6isparallelafternoonbefore#5returncoda, notnextday. Full remaining S8 is authorized; continue after checkpoints.**
+**Current endpoint: V50#12, B+68 evening. V49complete24chapters; V50inprogress. Full remaining S8 is authorized; continue after checkpoints.**
 
 ## Current Witch Hat result / ink exposure
 
@@ -131,3 +137,14 @@ Mlevel200/heldpoints0/Intelligence520. Permanentphysicalupgrades don't toggle of
 - RoadpartyEXACT22=12workers+Kurobe+Ramiris+Beretta+Ranga+5students+Hinata. DEPARTSB66morning/EXPECTEDB67eveningordinary~2dayroad, NOTalreadyarrivedB65. HousehasRanswersnow, confirmtemporaryarrangementsNEXT. Testarossa/SoueiSEPARATElaterchosenvisits/doublebase; no departuredateyet/no permanentresidency. Benimaru/RigurdetcstayTempest, no masscityevacuation. HletterAnkoactualdeliveredB65/privatecontentsnotpublic.
 - MYB65afternoonquietgardenoutinginsidewardwhileRaway: ordinarycards/food/play/kisses/rest/knownlocation, Cielholdstable. No healingoldvision/fingers/abstinencebreach; no demandMwinforlove. TheyreturnbeforeReveningarrival.
 - NEXT B66dailycheck/groundmarking/actualtemporarybedsfortwenty-tworoadpartybeforeB67arrival; startresourceworkfirstsafeareasaftertests, moreSOL/Bride. Spy/Rulers/Ashbornpleitoandtownmovesstilltobewritten; noS9fullsystem.
+
+## Effective V50#7–12 changes / current occupation
+
+- B66temporarybedsACTUALLYpreparedBEFOREarrivals: projectworkers/Kurobeowncamp/privacy/path/water/toolstorage; RamirisBerettatravelsetup; Rangaoutsidecoveredrestchoice; all5childrenTEMPORARYFortcots/screens/exitclear, sharedcareactuallyarranged R/Shizue/F/Fern/Rem etc bychoice; Hinataownscreenedcampcot/NOAnkoNazunadisplaced. Futurepermanentroomshaven'tmaterialised.
+- B67eveningALL22ACTUALLYARRIVEafter2dayroad. Twelveadditionalworkers+KurobeprojectVISIT, Ramiris/Beretta/Ranga/all5ChloeKenyaRyotaGaleAlicechoosefuturemainbase, HinataVISIT/escorting. No coin/XP/newarmy/adoption/newIfrit/forcedRShizueromance. Shuna/Shionstillchoosemainbasealreadyinfirstcamp, RShionboundarystillgrowthnotinstantlyresolved. HAnkokissdatingreunionactual, privatecampbednotautobedshare. Testarossa/SoueiSTILLfutureseparatevisits/noactualarrival.
+- B66markings/firstexistingstocksitework; B68crewfullfirstday/frame/roof/earlyfoundations. NOTwholevillagecompleted. Actualfirstroofrainrun-offtest:onecornerneedschange/Geldworkteamhandles. Eightyordinaryhaulingexistsnotrecruit; namedBellion/Igris/Beru/Kamishspecificsafejobs permission/byGeldsites andquietrules, no removingMuster+40HOME41. NamedshadowssparetimecraftBEGINSECRETordinarywood/toollearning/Wakanahelps, NOdefinednewmagicgift/finisheditem/Mknowledge.
+- B66actualscheduledlodgingreviewreported#11: ShizuekeepsGojooldroom/GShokoseparatefoldingbedsBOTHchoosenextweek, NEXTREVIEWB73morning or earlierneed. Dbed/Rloft/musicroomunchanged. Notnewapartmentyet.
+- Q/Oprivateclassusesfinishedexternalfittingonecorridorlight; workersuseobjectnotinkmanufactureteachingsharedpublic. No allcrystaldependencegone/freeenergy/infiniteink/internalallglyph. Mstablelightactivity/Cielhold, dailycheckscontinue; stillNOcombat/newinkexperiment.
+- HousemealrotaACTUALvoluntaryoffersMomochoosesdayoff/RemShunaRam/TaiheiM/KanekiToukachoicesnotnewpermanentchores. R/Shizuequietcompanywithoutforcingromancelabel. RamSeikainterest/RemUcompanynolabelforced.
+- BrideYchoosesrecognisablehomecomingfeeling/mountainintimacy/familybesidepath; WakanaMarinsketchrefined/changedsleeves, voluntaryBocchimusicspecificaskacceptedTRY(noforcedwholebandperformance/date). Oriasksbranchview/lowlights/rootsfree. WeddingS9/newmechanicsnone.
+- NEXT B69armfollowup/stability/glyphrole, Richehactualreplyifcomesbyrealroute, firstspyhintwhiletown/Brideprogress. RulersinterceptionOUTSIDEwardnotyet; Ashbornanalysispleito/fullsystemS9lockstillapplies. ContinuefullremainingS8.

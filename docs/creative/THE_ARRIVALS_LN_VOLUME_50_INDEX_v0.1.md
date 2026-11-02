@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 50
 **Season:** 8
-**Coverage:** S8E80–S8E82 (in progress)
+**Coverage:** S8E80–S8E85 (in progress)
 **Volume title:** **A Door Near Yours** (provisional)
-**Chapter files:** 6
+**Chapter files:** 12
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -21,3 +21,9 @@ The continuation after the household's festival return. Scene length follows the
 | 4 | S8E81 | The Line Before the Circle | `THE_ARRIVALS_S8E81_LN_CHAPTER_02_THE_LINE_BEFORE_THE_CIRCLE_v0.1.md` |
 | 5 | S8E82 | What They Were Coming For | `THE_ARRIVALS_S8E82_LN_CHAPTER_01_WHAT_THEY_WERE_COMING_FOR_v0.1.md` |
 | 6 | S8E82 | The Afternoon They Kept | `THE_ARRIVALS_S8E82_LN_CHAPTER_02_THE_AFTERNOON_THEY_KEPT_v0.1.md` |
+| 7 | S8E83 | Enough Blankets Before Names | `THE_ARRIVALS_S8E83_LN_CHAPTER_01_ENOUGH_BLANKETS_BEFORE_NAMES_v0.1.md` |
+| 8 | S8E83 | Permission to Help | `THE_ARRIVALS_S8E83_LN_CHAPTER_02_PERMISSION_TO_HELP_v0.1.md` |
+| 9 | S8E84 | The Other Side of the Landing | `THE_ARRIVALS_S8E84_LN_CHAPTER_01_THE_OTHER_SIDE_OF_THE_LANDING_v0.1.md` |
+| 10 | S8E84 | The Road Brought Them | `THE_ARRIVALS_S8E84_LN_CHAPTER_02_THE_ROAD_BROUGHT_THEM_v0.1.md` |
+| 11 | S8E85 | What the Soldiers Couldn't Decide | `THE_ARRIVALS_S8E85_LN_CHAPTER_01_WHAT_THE_SOLDIERS_COULDN_T_DECIDE_v0.1.md` |
+| 12 | S8E85 | Something He Would Recognise | `THE_ARRIVALS_S8E85_LN_CHAPTER_02_SOMETHING_HE_WOULD_RECOGNISE_v0.1.md` |

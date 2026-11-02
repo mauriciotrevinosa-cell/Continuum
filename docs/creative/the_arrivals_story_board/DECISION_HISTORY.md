@@ -2784,3 +2784,7 @@ V49#19–24: delayed ink arm deformation and actual repair, Ciel/Noise local sco
 ### Resto S8 — V50#1–6, 2026-11-02
 
 V50#1–6: B64actualbodyfollowup/limitedactivity and Ochoicehome/workspace with Q; residents choose testedlayout/fixedward/rootcircle/Fort/directroutes with fullcastcoverage. Eightyexistingordinaryhaulingassignment separatefromMuster40, no legiongrowth. Voluntarycoinprocedure actual no transfers/spends/JinshiGaoshunreserved. Externalglyphclassbounded/nointernalnewpowers. RactualB65Tempestdayvisit: Shuna/Shionchoices, 12workersproject+Kurobe and Ramiris/Beretta/Ranga/all5students/Hescort choose roadparty22departB66arriveB67; noinstantmove/TestarossaSoueilater. MYfullquietouting parallelRday keeps love/play/oldsequelae. Alloldchaptersunchanged; continuefullS8.
+
+### Resto S8 — V50#7–12, 2026-11-02
+
+V50#7–12: beds/exit/privacy/care prepared BEFORE 22-person roadarrival B67; no instantadoption/freeguestwing. 80existingordinary/namedspecificjobs underGeld/homewatchunchanged, secretgift begins ordinarycraft only. RemU/RamSeika live chosencloseness. Crew arrivesbyroad, Shion/Ranga/Ramiris/children ownvoices, HAnkoreunion. Firstphasewalls/roofandrealraincheck, partialglyphlight externalprivateclass no ink secretpublic. Bridevoluntarymusic/homecomingdesign progresses no date/newspell. B66lodgingreviewreportedactualchoicescontinuetoB73. Alloldchapterspreserved; continueS8.

@@ -1,5 +1,7 @@
 # S8 — Patios conectados: cercanía de Bocchi y edificios para huéspedes/emergencias/arrivals
 
+> **Objeción posterior vigente:** [S8_FAMILY_ADJACENCY_FUTURE_FAMILIES_AND_FORT_COMMON_ROOM_REVIEW_2026-11-01](S8_FAMILY_ADJACENCY_FUTURE_FAMILIES_AND_FORT_COMMON_ROOM_REVIEW_2026-11-01.md). El creador considera Fort demasiado lejos del comedor/casa común y exige prever familias futuras (Bocchi todavía no trajo a la suya). El edificio Fort al otro lado del árbol del render NO queda como distribución aceptada. Proponer Fort unido directamente a comunes, apartamentos por vínculos y reserva familiar antes de nuevo render.
+
 2026-11-01. Render de concepto para opinión del creador. No plano aprobado, escala medida, censo ni obra ejecutada. Sin capítulos nuevos.
 
 ## Mensajes íntegros del creador

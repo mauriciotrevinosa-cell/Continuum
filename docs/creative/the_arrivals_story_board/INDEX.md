@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Plano por vínculos y familias futuras; Fort unido a comunes — 2026-11-01:** [Mensajes íntegros y distribución propuesta para opinión](S8_FAMILY_ADJACENCY_FUTURE_FAMILIES_AND_FORT_COMMON_ROOM_REVIEW_2026-11-01.md). Render anterior NO fija distanciaFort: propuesta anexo conpuertadirecta comedor/sala. Okkotsu/Mai cercaMY; Bocchi/Kessoku cerca y reserva para padres/hermana AÚN NO llegados; alas/patios por vínculos sin separarbandos/franquicias. Ningúncenso/planofinal/obra/capítulonuevo ni verde recibido.
+
 > **Render patios: Bocchi cerca y estancias temporales — 2026-11-01:** [Mensajes íntegros, render y prompt](S8_CONNECTED_PATIOS_BOCCHI_PROXIMITY_GUEST_INN_EMERGENCIES_AND_ARRIVALS_RENDER_2026-11-01.md). Propone misma ala/galería para Bocchi y deptoMau, música abajo con escalera privada/aislamiento y Kessoku junto aBocchi. Creador agrega miniInn paraHinata/Luminous/visitas, emergenciasjuntoaclínica yarrivals separados. Sin selección final, mudanzas, cambios de protección o capítulos nuevos.
 
 > **Elenco aceptado como base y tres opciones de pueblo — 2026-11-01:** [Dirección íntegra, departamento y geometría conceptual](S8_TEMPEST_ROSTER_ACCEPTANCE_TREE_TOWN_OPTIONS_AND_SHARED_APARTMENT_2026-11-01.md). Árbol central/raíces libres; comparar Inn ampliado, patios conectados y anillo nuevo sin opción todavía escogida. Mau/Yuka juntos, Rimuru propio, Shizue en invitados del mismo departamento. Leon porChloe, Luminous sinromance/reunionesbrujas, Shuna/compromisosplaya. Sin mudanzas, demolición o capítulos ejecutados.

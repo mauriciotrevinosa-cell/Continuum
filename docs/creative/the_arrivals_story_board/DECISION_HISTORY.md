@@ -2712,3 +2712,8 @@ Mauri acepta el elenco propuesto y agrega Leon/Chloe, Luminous/Mau sinromance co
 ### Render de patios: cercanía Bocchi y edificios temporales, 2026-11-01
 
 Mauri cuestiona música alejada deMau/Bocchi en diagrama inicial y pide render. Añade miniInn dehuéspedes(Hinata/Luminous), emergencias y arrivals como edificios separados. [Mensajes íntegros, propuesta y render](S8_CONNECTED_PATIOS_BOCCHI_PROXIMITY_GUEST_INN_EMERGENCIES_AND_ARRIVALS_RENDER_2026-11-01.md). Coautor propone Bocchi/Kessoku enmismagalaería cercadeMau, músicaabajo conescaleraprivada/aislamiento, juntoalcentro; conserva3dormitoriosMY/R/Shizueinvitados. Diagramainicialmúsicaperiférica yaNOubicación propuesta vigente. Render sinescala/ni detalledecorativocanónico, ningúncapítulo/obra/mudanzaaprobada.
+
+
+### Distribución por familias presentes/futuras y Fort junto al comedor, 2026-11-01
+
+Mauri cuestiona render/planos previos, Yuka quiere familia cercana y Fort demasiado lejos paraoírcena. Aclara preverfamiliasfuturas: Bocchi AÚNNOtrajoalasuyaperoquiereporarcomonedas. [Mensajes íntegros ypropuesta](S8_FAMILY_ADJACENCY_FUTURE_FAMILIES_AND_FORT_COMMON_ROOM_REVIEW_2026-11-01.md). Coautor propone Fortanexosala/puertacomedor, casacentralconalasapartamentos/galerías, MYconOkkotsu/Mai/BocchiKessokupróximos, unidadesreservadasparafamilias, otros patiosporvínculos. No presencias importadasA, invocaciones, mudanzas, plano aprobado, greenlight ni capítulos nuevos.

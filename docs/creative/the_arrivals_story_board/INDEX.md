@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Lista Tempest/HQ para opinión — 2026-11-01:** [Primera propuesta de residencia/doble base/proyectos/visitas](S8_TEMPEST_HQ_RESIDENCY_FIRST_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-01.md). 11personas propuestas de residencia (incluyeShizue y5alumnos),4doblebase; decisiones pendientes deMauri ydeescena, NO censo efectivo ni llegadas nuevas. Diablo/Milim/Rimuru ya residentes no se recuentan.
+
 > **Foco vigente S8 — 2026-11-01:** [Ciel antes de Witch Hat; hijo para planearS9](S8_CIEL_BEFORE_WITCH_HAT_AND_S9_PARENTAL_HEARTBEAT_CREATOR_SEED_2026-11-01.md). Gojo sólo ejemplo. Gestación9meses; posible latido y respuesta deMau anteMakima quedan como semilla futura. Ahora rosterTempest/plano/trenzaS8, sin embarazo ni capítulos nuevos.
 
 > **Ampliación vigente S8/S9 — 2026-11-01:** [Mensajes íntegros: operaciones Bride/InnToTown, lista Tempest primero, ratones/Rulers, pleito Ashborn/DIO, luz construida, Ciel/Trial/Yuka y familia](S8_BRAIDED_OPERATIONS_LIGHT_FRAGMENT_CIEL_AND_FAMILY_CREATOR_EXTENSION_2026-11-01.md). [Base estable/picos/crecimiento de Mau](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md). No mudanzas nuevas, embarazo, capacidad o capítulos ejecutados; fechas de activación/hijo y roster por decidir juntos.

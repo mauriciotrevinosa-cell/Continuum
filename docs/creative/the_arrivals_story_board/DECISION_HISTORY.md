@@ -2698,3 +2698,7 @@ Mauri vuelve al foco cercano y propone WitchHat/Qifrey/límite a persecución, B
 ### Ciel antes de Witch Hat; embarazo nueve meses y semilla futura, 2026-11-01
 
 Mauri aclara Gojoeraejemplo y prefiereCielantesWitchHat; gestación9meses y posiblelatidobebéYuka queMauescucha en cambio de ritmo, vuelveapresurado/cauteloso ypodría llevarlo a combate sinretorno mientrasMakimamuevepiezas. [Mensaje íntegro/dirección](S8_CIEL_BEFORE_WITCH_HAT_AND_S9_PARENTAL_HEARTBEAT_CREATOR_SEED_2026-11-01.md). Semilla explícitapara pensar al llegarS9; ahoraenfocarS8. No nuevocorazónMau, fecha, sexo delbebé, concepción, batalla/muerte o sacrificio aprobados; no capítulos ejecutados.
+
+### Primera lista Tempest/HQ para opinión, 2026-11-01
+
+Mauri: «okay dame tu lista y yo paso opinion4». [Propuesta completa](S8_TEMPEST_HQ_RESIDENCY_FIRST_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-01.md): residenciaShion/Shuna/Ranga/Ramiris/Beretta/Shizue/cincoalumnos; doblebaseVeldora/Hinata/Testarossa/Souei; proyectosGeldvoluntarios/Kurobe; continuidadTempestBenimaruRigurdGabil yvisitasGobtaHakuroUltimaCarrera. No selección aprobada, tope de habitantes, personajes ya llegados por inferencia o mudanzas ejecutadas. Primero opinión/deseos/vínculos, después plano y censo efectivo.

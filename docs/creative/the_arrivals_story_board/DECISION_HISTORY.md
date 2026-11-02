@@ -2736,3 +2736,7 @@ Mauri define recuerdooculto: trasdestruiraquelmundoTrial Mau sedestruyó; extrem
 ### Resto S8 — V48#1–3, 2026-11-02
 
 V48#1–3 continueexactlyB48afteractualInnreturn. Mainconversationsfull, otherlengthbyscene. Newcreatorgreenlightverbatim; guestdates/camascorrect, Remfamilyproximitylived, Noisereviewdoesnotunlockallbuilds. CielpersonalrequestNEXT, archiveNOTalreadyseen. Alloldchaptersunchanged; continueauthorizedworkafterpush.
+
+### Resto S8 — V48#4–6, 2026-11-02
+
+V48#4–6 centralconsentandmemorygivenfullspace plusshortsidewindowasneeded. CieloldKamishSTOPrememberednotpermissionreset; R/Ydistinctaccess; warmthbeforetrauma, noallarchiveinfodump/newpower. All1566olderchaptersuntouched. ContinueB49next, temporaryguestreturnB50stilldue.

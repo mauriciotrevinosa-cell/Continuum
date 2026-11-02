@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **S9 — Trial y recuperación, V53#2:** Apertura S9 desde la cena: los Rulers añaden una exigencia y la familia la cuestiona. Trial y recuperación autorizados; boda y resto pendientes. [Leer](../THE_ARRIVALS_LN_VOLUME_53_INDEX_v0.1.md) · [Estado](S9_TRIAL_RECOVERY_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_RULERS_TRIAL_AND_RECOVERY_CREATOR_DIRECTION_2026-11-02.md).
+
 > **Producción resto S8 — V52#16:** S8 CERRADA en V52#16: pueblo habitado y cena familiar. Boda, sistema pleno y propuesta de trial Rulers siguen para planear S9; S9 no iniciada. [Leer](../THE_ARRIVALS_LN_VOLUME_52_INDEX_v0.1.md) · [Estado/relaciones](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Verde](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).
 
 > **S8: decisiones resueltas y esqueleto final para opinión — 2026-11-02:** [Mensaje íntegro Trial/sistemaS9/monedas](S8_TRIAL_SELF_DESTRUCTION_S9_SYSTEM_DEVELOPMENT_AND_VOLUNTARY_COINS_CREATOR_DECISIONS_2026-11-02.md) · [Propuesta V48–52,90–130caps flexibles ytrenzas](S8_REMAINING_VOLUMES48_52_BRAIDED_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-11-02.md). Mau seautodestruyó enaquella vidaTrial, noactoactual; S8sóloanticipa fragmento/sistema, plenodesarrolloS9; monedas voluntarias y reparto/invocacionesconpin. Cierre pueblohabitado/cenafamiliar/preparativos, bodaS9. Ningúncapítulo/llegada/obraejecutado; esqueleto pendiente deverde.

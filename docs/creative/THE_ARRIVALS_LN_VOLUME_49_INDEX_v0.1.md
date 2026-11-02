@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 49
 **Season:** 8
-**Coverage:** S8E68–S8E69 (in progress)
+**Coverage:** S8E68–S8E70 (in progress)
 **Volume title:** **What the World Brings** (provisional)
-**Chapter files:** 3
+**Chapter files:** 6
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -18,3 +18,6 @@ The continuation after the household's festival return. Scene length follows the
 | 1 | S8E68 | What They Could Offer | `THE_ARRIVALS_S8E68_LN_CHAPTER_01_WHAT_THEY_COULD_OFFER_v0.1.md` |
 | 2 | S8E68 | A Visit Was Enough | `THE_ARRIVALS_S8E68_LN_CHAPTER_02_A_VISIT_WAS_ENOUGH_v0.1.md` |
 | 3 | S8E69 | Three Nights to Try It | `THE_ARRIVALS_S8E69_LN_CHAPTER_01_THREE_NIGHTS_TO_TRY_IT_v0.1.md` |
+| 4 | S8E69 | What They Could Ask | `THE_ARRIVALS_S8E69_LN_CHAPTER_02_WHAT_THEY_COULD_ASK_v0.1.md` |
+| 5 | S8E70 | The Other Bed | `THE_ARRIVALS_S8E70_LN_CHAPTER_01_THE_OTHER_BED_v0.1.md` |
+| 6 | S8E70 | The Things He Took | `THE_ARRIVALS_S8E70_LN_CHAPTER_02_THE_THINGS_HE_TOOK_v0.1.md` |

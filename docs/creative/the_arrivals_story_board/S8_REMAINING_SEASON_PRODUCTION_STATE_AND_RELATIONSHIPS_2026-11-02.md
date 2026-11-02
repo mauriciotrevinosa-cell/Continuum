@@ -32,10 +32,13 @@ Read the current state below instead of treating earlier planning possibilities 
 | V49#1 | S8E68 CH01 | B+55 morning | Actualhousewalkchecksvoluntarysurveycampproposal, RalonefliesKaiselknownTempestroutewithoffers/letters,Mstayshome. |
 | V49#2 | S8E68 CH02 | B+55 day/lateevening | GeldKurobeagreefirstsurveyvisit, Shuna/Shionownchoices, Rdeliversstudents/ShizuelettersandreturnsALONEwithanswers; groupnotarrived. |
 | V49#3 | S8E69 CH01 | B+56 morning | Actualguestbedreassessment: ShizueborrowsGojobed3nights; G/Shokochooseseparatefoldingbedtrial3nights, Diablobedback/musicroomrestored. |
+| V49#4 | S8E69 CH02 | B+56 afternoon | CreatorconfirmsArminJijipriorcoinresidents; Q/M/girls/motherdiscussWHAquestions, Rilichosenmessage, Yfabricappointment. |
+| V49#5 | S8E70 CH01 | B+56 night | ActualfirstnightG/Shokochosen3nighttrialseparatebeds, warmdialoguewithoutforcedlabel. |
+| V49#6 | S8E70 CH02 | B+57 morning/midday | Hollisroutemeetingresponse; informedM/QdaytripKaiselford,Rhome; expert6departtoday/arriveB58; Olruggiotalknext. |
 
 ## Current state
 
-**Current reader position: V49#3, B+56 morning. Volume49 in progress. Continue the REST OF S8 under explicit greenlight, not stop after pushes/volumes.**
+**Current reader position: V49#6, B+57 midday approach. Volume49 in progress. Continue the REST OF S8 under explicit greenlight, not stop after pushes/volumes.**
 
 ## Just produced
 
@@ -63,8 +66,16 @@ HollisB53announcedtradebroughtplainletterpurportingOlruggio. Qrecogniseshand/per
 
 NEXT: confirmfirstsurveygrouptraveldate/count/voluntarycampprivacy beforearrival, keepingM/Y/RemRam/band/othersactive; actualOlruggiocontact/verification viaresponse/neutralmeeting beforeHQtrip. Qifreyfriendmusthavevoice/motives. No ink/rats/Rulersyet. BodyinkreactionAFTERproperlydevelopedattack/return; noInfinityforgets/BF/brainreset. S8endsactualtownhabited/familydinner; S9boda/lunademiel/systemdevelopment/potentialfamilylaterNOTexecutehere.
 
-OperationBrideactuallybegunMakiMaiFortwithYagency. Mrequestedtimewithpeople/Ybeforeceremony. CreatorlikesTREEasbasebutasksIMPRESS, seededYwantsomethingonlyfamily/placecouldmake, nofinalsetpiece/dateyet. Shadowgiftsecretstillfuture, no newitemalreadycrafted. Coinsvoluntarymethod/reservations/offersPINdistribution/invocations; JinshireservesGaoshun; currentownershipunchanged. Ko/Subarunotarrived, JijiArminBoccupancycotejobeforeclaims; don'terasefromlackmentions. No sealedchoices read.
+OperationBrideactuallybegunMakiMaiFortwithYagency. Mrequestedtimewithpeople/Ybeforeceremony. CreatorlikesTREEasbasebutasksIMPRESS, seededYwantsomethingonlyfamily/placecouldmake, nofinalsetpiece/dateyet. Shadowgiftsecretstillfuture, no newitemalreadycrafted. Coinsvoluntarymethod/reservations/offersPINdistribution/invocations; JinshireservesGaoshun; currentownershipunchanged. Ko/Subarunotarrived, JijiArminBoccupancyCONFIRMEDbycreatorpriorcoinarrivals, notMdecision; no newcoin/arrival/dateinvented. No sealedchoices read.
 
 ## Numerical/body invariants
 
 Mlevel200/held0/Int520; permanentphysicalpointsnotoggle. Army6615=6597ordinary17named1gift unchanged, Muster+40ordinaryHOME41; Kflightendedstoredandnootherretainerreassignedsilently. NativeMahoAgitoseparate/YMahoragaALREADYtamedS8. ONEactiveCECTperbody, accessibleCE/bodythroughputfinite vsBlackHeartmana, fullcapbreakS9only. GreyexceptYuka/leftblur/twostifffingers/scars/whitepatchremain. No ordinaryclothesgain/coinnew/systemXPfrommemoryreview orroadtravel.
+
+## Produced V49#4–6 / superseding travel state
+
+#4 Armin/Jiji normal priorresidents; sixexpertvisitorscountconfirmed Geld/Kurobe/Shuna/Shion+2willingworkers, departB57morning expectedB58evening road/camp. Q/M/Cocomother/all4girls actuallydiscussquestions/knowledgeboundaries/memoryrisk; RichehchosenprivateRilimessagenotfound. Y/Mfabricappointmentkept.
+
+#5 B56nightGojoShokofirstof3separatebedtrialactualwarmscene/nosex/noformalnewlabel. #6 B57morning M/Q leaveKaiselforDAYfordmeetingmidday. RESPONSEreachedbyHollisrouteB56evening; Rhome/Yandhouseknowroute/returnwindow/willmessageiflate. SixsurveyvisitorsdepartingtodayNOTalreadyarrived. M/Qarriveford at#6end, figureQrecognisesstance; actualOlruggiotalk/identityverificationNEXT. NoHQjourneyagreed, noink/rats/Rulersyet.
+
+Prior notes saying pending response/date or Armin/Jiji uncertain are historical and superseded above. B59morning bedreview remainsdue.

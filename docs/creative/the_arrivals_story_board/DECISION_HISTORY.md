@@ -2764,3 +2764,7 @@ V48#19–21 createsWHcontacthonestlythroughroadletternotwholeworldomniscience, l
 ### Resto S8 — V49#1–3, 2026-11-02
 
 V49#1–3 continueB55/B56withoutjumpweeks. Firstsurveycampofferwalkednotwholewardmeasured, RaloneexistingKflightTempestandreturn/nocourierinstantgroup. GeldKurobe/ShunaShionvisitchoiceslivednotjobsimposed. GojoShokotemporaryseparatebedtrialbyBOTHchoice atscheduledB56review freesDiabloownbed/ShizueGojobeduntilB59/musicroomfulluse, no completednewapartment/sex/label. PrimaryWHAroles/sourceboundariesnotedwithoutsealedmaterial. All1584olderchaptersunchanged; continueauthorizedwork.
+
+### Resto S8 — V49#4–6, 2026-11-02
+
+V49#4–6 keep actual relationships and travel prerequisites. Creator confirms Armin/Jiji already present by prior coins, without new spending or invented arrival dates; housing pending flag resolved. Six voluntary survey visitors travel B57–58, no instant arrival. G/Shoko first separate-bed trial night lived. M/Q notified day meeting with real response, R stays home. Existing chapters preserved; continue full authorized S8.

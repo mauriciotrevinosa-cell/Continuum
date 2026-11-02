@@ -2796,3 +2796,7 @@ V50#13–16: Richeh actualreplybyordinaryroute, recognisablepersonalwriting but 
 ### Resto S8 — V51#1–6, 2026-11-02
 
 V51#1–6: Rulers wait OUTSIDE fixed ward, abrupt local transfer Ciel remains/Rinformed/Mcanleave, no capturefromInn. Ratsconfusion separates investigationsnotprovesowner. DIOactualprivateconsent/pactthreepresentboundedauthority/no throne/refugeinsidefixedwardorinnerroomoutside/notmobileward/globalMimmunity. Slowpreciseconvergences vsanticipatedcoinaccept/refusal. Passiveblueprintskeptnotconstructed/no systemcapbreak. HouseparallelagencyShizueCHOSESthirdguestroomwithMY/R/noRromance. Mreturnsoralreportbeforelunch/no hiddenTrialshare. B72actualQ/O/Richehshoretrip/Rilirecognitionandownvisitchoice/return4Kaisel,no coin/permanentassignment. Oldchapterspreserved; continueS8.
+
+### Resto S8 — V51#7–12, 2026-11-02
+
+V51#7–12: actualRiliwelcome/initialvisitB75review/messagecoast/no coin/permanentassignment. ActualAshborndiscoveryofpassivefunctionalmodelsbeyondV41limitedpermission; private memoriesremainedclosed/Mnotconsciousliarbutaccountable. Ciel/Noisereview/quarantineuse/notfalseunlearning, guestreviewedminimalcontactfiltertested, boundedNEWwillingAshbornreferencegivenwithoutlosingrightrefuse/refuge. DIOownterms/friendscansayno. B73actualGShokoreviewcontinueseparatebedsuntilchosennewhome/anycanchange, ShizuecontinuesoldGroomuntilmove; voluntarykiss. OnlylightBLUEPRINTglimpse/notbuilt/no capbreakS8. Actualmousecaughtunharmed/foreignactivityceased/ownerunknown/investigationopen. Alloldchapterspreserved; continueS8.

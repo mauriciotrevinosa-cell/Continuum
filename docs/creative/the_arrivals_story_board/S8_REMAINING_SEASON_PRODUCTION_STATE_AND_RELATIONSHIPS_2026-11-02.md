@@ -75,10 +75,16 @@ Read the current state below instead of treating earlier planning possibilities 
 | V51#4 | S8E89 CH02 | B+71 late morning | ActualboundedDIO/Rulerpact/slowpreciseconvergences/fixedward/innerrefuge/threeownordersnotallbeings. |
 | V51#5 | S8E90 CH01 | B+71 midday | Mactuallyreturns/ownoralreport/armunchanged/Yloveweddingnotperfectiondeadline/miceunresolved. |
 | V51#6 | S8E90 CH02 | B+72 morning/day | ActualRichehbrotherpersonalreunion/ownwork/choicevisit, 3out4backKaiselMloan/no newcoin. |
+| V51#7 | S8E91 CH01 | B+72 afternoon | Rilibrotheractualwelcome/ownlettercoast/initialguestvisitreviewB75/teachersmat/Kstored. |
+| V51#8 | S8E91 CH02 | B+72 evening | Ashbornfindsretainedfunctionalstudybeyondcompatibility/realpleito/DIOalsoaffected/privatearchivesclosed. |
+| V51#9 | S8E92 CH01 | B+72 night | M/Ciel/Noiseaccountability/scopefailure/quarantinemodeluse/guestfilterproposal/YhearsMpartonly. |
+| V51#10 | S8E92 CH02 | B+73 morning | ActualGShokobothchooseseparatebedsuntilnewhome/askanychange/ShizueoldGbedcontinues/voluntarykiss. |
+| V51#11 | S8E93 CH01 | B+73 afternoon | Guestconsentedfilterprototypeactual/newlimitedAshbornreference/dIOownterms/peace/friendscanrefuse. |
+| V51#12 | S8E93 CH02 | B+74 day | Lightonlyblueprintglimpse/no integration; mousecaughtunharmedconnectionceasesnoowner; workcontinues. |
 
 ## Current state
 
-**Current endpoint: V51#6, B+72 day. Qifrey/Olruggio/Richeh/Rili returning on Kaisel after personal shore meeting. Mau/Rimuru HOME. Full remaining S8 authorised; continue after checkpoints.**
+**Current endpoint: V51#12, B+74 day. Rilialreadywelcomed/currentguestvisit, M/Rhome. Volume51inprogress. Full remaining S8 authorised; continue after checkpoints.**
 
 ## Latest produced plot
 
@@ -128,3 +134,14 @@ Read the current state below instead of treating earlier planning possibilities 
 ## Next required scenes
 
 ActualB72returnRiliwelcome/ownvoice; actualAshborndiscoverycontinuousfunctionalstudy/conflictandresolutionwithoutavoidance; B73bedreview; town/Bride/shadowgiftcontinue. PartiallightblueprintglimpseONLY. Finishhomes/mudances/alloldfamilycoverage/miniInn/emergency/reception, actualnewtownhabited/familydinner. Wedding/sex/pregnancy/RulerTrial/fulllightcapbreakNOTS8. No sealedauthormaterials read. No newsubagents.
+
+## Effective V51#7–12 changes / supersede earlier pending flags
+
+- B72#7 FOURactuallyreturned/Kaiselstored. Riliwelcomed/girls/mother/Mpersonalvoices/work, sendsannouncedafternoonHollisroutelettertocontactscoast, initialVISITreviewB75morning. Temporarymat/screenteachersspacebyconsent/NOTpermanenthome. No newcoin.
+- B72evening#8actualAshbornfindsstoredfunctionalmodelrespondstoownpresencebeyondV41compatibilitypermission. REALpleito/DIOaskstoomodelalso. Mthoughtconstructionhold+privatearchivestopcoveredlimits; wrong, NOTknowinglylie/ordersecretstudy. NOprivatememoriesopened/soulconsumed; passivecompatiblepresenceobservations+inferencesgrewbeyondpermission. Ashbornhurtwantedpeace/notwarresource; Maccountablewithoutselfdestruction. YknowsMquietinsideroom/guestprivacyconversationnothearsarchive.
+- #9actualM/Ciel/Noisecotejoacknowledgesfailure: cannotpretendforgetwhatunderstood,butOPERATIONALderivedmodelsQUARANTINEDnouse/newbuildunlessguestchooses. Proposedminimalcontactfilterexistingrefugearchitectureguestreviewbeforeimplementation, no blanknewpower/no forcedhospitalityprice.
+- B73#11guestCONSENTEDspecificfilterACTUALLYbuilt/tested: privatestatus/call/exitavailable, richerfunctionstreamonlyguestchosenopening; AshborntestsvariationM/NoidONOTknowdetails. Cielwillrechecknotinfallibleforever. DIOchoosescloseness/sharedroom/specificquestionsnotallhistory/authority. Oldunauthorisedmodelsstillheldseparate. AshbornfreelyoffersNEWboundedreferenceONLYinheritedpoweroperationforunderstandingMexistingincompletebranch, notprivatehistory/soul/army/duty; rightrefusewithoutlosingrefugeclear. Newscopeonlyprivacy+shownreference/notallbuildsrestart. Noisequietfriendline/NoNAMEassigned.
+- B73#10scheduledbedsreviewACTUAL: GShokoBOTHchooseseparatefoldingbedsinShokoroomuntilnew2privatebedroomhomeREADY/askANYneededchange. NOnewweeklydeadline/visitorrenewalrequirednowexplicitchoice. Voluntarykiss/closerbondnotsex/bedshare/forcedmarriage. ShizueCHOSEScontinueoldGroomuntilactualmove/notifychange. Dlowerbed/Rloft/musicroomunchanged. B73reviewnolongerDUE.
+- B74#12ONLYGLIMPSElightBLUEPRINTrelationRulers/newboundedAshbornreference; NOTphysicalfragmentbuilt/integrated/systemcapbreak/BlackHeartfull/newlevels/points. Futurebody/scopeworkS9. Mexplicitkeepsasdrawing.
+- MouseinvestigationactualUNHARMEDcaptureordinarytrap/Ram/R/Cielobservedforeignactivityceasedafterclosure; no convenientownertrace/MakimaorRulerguiltproof. Recordpattern/route/cessation/interimprivacyCONTINUES. Don'treportespionagesolved/notnewwardpower.
+- ConstructionnowfirstroomsapproachinginspectionbutNOTinhabited/newtowncompleted. Priorcoveredroute/frames/foundation/materials/crewongoing. NEXT firstfinishedhomes/beds/water/stairtests, phasedmovesinV52; alloldfamily&newchosenmainbaserequiresactualchosenaddresses. RiliB75reviewNEXT, continueBocchifamily/KoSubarunotarrived/coinsPIN. Brideandshadowgiftworkcontinues/no newmagicitemdefined. No newmajorbattle/wedding/sex/pregnancy/RulerTrial/fullsystemS8.

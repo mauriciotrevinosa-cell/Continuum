@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 51
 **Season:** 8
-**Coverage:** S8E88–S8E90 (in progress)
+**Coverage:** S8E88–S8E93 (in progress)
 **Volume title:** **The Things They Mistook** (provisional)
-**Chapter files:** 6
+**Chapter files:** 12
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -21,3 +21,9 @@ The continuation after the household's festival return. Scene length follows the
 | 4 | S8E89 | The Limits of a Refuge | `THE_ARRIVALS_S8E89_LN_CHAPTER_02_THE_LIMITS_OF_A_REFUGE_v0.1.md` |
 | 5 | S8E90 | Before Lunch Went Cold | `THE_ARRIVALS_S8E90_LN_CHAPTER_01_BEFORE_LUNCH_WENT_COLD_v0.1.md` |
 | 6 | S8E90 | What She Brought to Show Him | `THE_ARRIVALS_S8E90_LN_CHAPTER_02_WHAT_SHE_BROUGHT_TO_SHOW_HIM_v0.1.md` |
+| 7 | S8E91 | The People She Meant | `THE_ARRIVALS_S8E91_LN_CHAPTER_01_THE_PEOPLE_SHE_MEANT_v0.1.md` |
+| 8 | S8E91 | Not an Invitation | `THE_ARRIVALS_S8E91_LN_CHAPTER_02_NOT_AN_INVITATION_v0.1.md` |
+| 9 | S8E92 | What a Closed Door Meant | `THE_ARRIVALS_S8E92_LN_CHAPTER_01_WHAT_A_CLOSED_DOOR_MEANT_v0.1.md` |
+| 10 | S8E92 | When the Bed Was Made | `THE_ARRIVALS_S8E92_LN_CHAPTER_02_WHEN_THE_BED_WAS_MADE_v0.1.md` |
+| 11 | S8E93 | The Quiet He Asked For | `THE_ARRIVALS_S8E93_LN_CHAPTER_01_THE_QUIET_HE_ASKED_FOR_v0.1.md` |
+| 12 | S8E93 | A Place for the Missing Piece | `THE_ARRIVALS_S8E93_LN_CHAPTER_02_A_PLACE_FOR_THE_MISSING_PIECE_v0.1.md` |

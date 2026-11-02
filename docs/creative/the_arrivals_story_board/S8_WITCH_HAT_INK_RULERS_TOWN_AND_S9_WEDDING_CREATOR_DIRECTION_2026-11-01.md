@@ -1,5 +1,7 @@
 # The Arrivals — Tinta, vigilancia, Rulers y pueblo: dirección para cerrar S8
 
+> **Ampliación posterior del creador — vigente:** [Operaciones entrelazadas, pleito Ashborn, fragmento construido y escena Ciel](S8_BRAIDED_OPERATIONS_LIGHT_FRAGMENT_CIEL_AND_FAMILY_CREATOR_EXTENSION_2026-11-01.md). Rulers interceptan durante pesquisa de ratones; el enfoque secuencial y la propuesta de evitar conflicto Ashborn pidiendo antes un permiso más amplio quedan sustituidos por esa dirección. Mensajes íntegros abajo preservados.
+
 **2026-11-01. Propuesta extensa del creador y aclaraciones directas, preservadas íntegramente. Planificación en desarrollo, NO capítulos autorizados por esta nota. No se ha construido el pueblo ni ejecutado sus nuevos acontecimientos.**
 
 La posibilidad de una vida larguísima/descanso final queda en su [nota propia](LONG_MARRIAGE_ELF_ROUTE_AND_OPTIONAL_REST_CREATOR_IDEA_2026-11-01.md). El foco actual vuelve al material cercano y a dónde lleve la trama. No planificar final de serie ni guardar un antagonista para una temporada asignada arbitrariamente.
@@ -48,7 +50,7 @@ Esperan que Mau salga, anuncian que quieren hablar y se lo llevan de manera brus
 
 Acordar lugar/duración/compañía, cómo es el traslado y por qué no puede reaccionar otro antes; después la negociación debe permitir a Mau actuar, explicar y poner condiciones. Su título de «false Shadow Monarch» expresa la mirada/clasificación de esos Rulers, no prueba del narrador de que Mau sea un impostor humano o Ashborn quiera poseerlo.
 
-El creador propone que la observación de Rulers y lo estudiado de Ashborn aporten las piezas faltantes de su rama Shadow Monarch. **Continuidad encontrada:** V41#19–20/S7E69 limita el análisis de Ashborn a lo consentido para compatibilidad/estancia; no autorizó abrir toda su persona/memorias. Solución editorial propuesta: dar una charla breve y real en que Ashborn elija compartir las funciones relevantes antes de este avance. No inventar que todo su interior ya fue leído mientras dormía ni volverlo una batería/arma.
+El creador propone que la observación de Rulers y lo estudiado de Ashborn aporten las piezas faltantes de su rama Shadow Monarch. **Continuidad encontrada:** V41#19–20/S7E69 fijó límites al análisis. **Nueva dirección posterior:** hay un pleito cuando Ashborn descubre que el análisis continuó, incluso con DIO; comprenden que Mau no lo hizo deliberadamente. La solución editorial de evitar ese conflicto pidiendo antes permiso ampliado queda retirada. No retroeditar las promesas anteriores como mentira consciente o permiso total; diseñar qué recibía pasivamente, qué se reconstruye y cómo acuerdan seguir. Véase la ampliación enlazada arriba.
 
 Lo observado de interlocutores, compatibilidad del huésped, blueprints disponibles y posterior construcción se registran por separado. El enorme hallazgo no equivale automáticamente a ejecutar toda habilidad secreta de todo Ruler. El creador **sí quiere** que complete piezas de Shadow Monarch y que esa reparación pueda reabrir el canal cerrado con Jin-Woo. Diseñar contraparte, alcance, tiempo y primer contacto antes de escribirlo; comunicación no implica duplicar ejército/persona original, retcon de las ramas o extraer gente sin reglas.
 
@@ -110,7 +112,7 @@ El creador propone como posibilidad un Trial de los Rulers que destroce a Mau pe
 
 ## 9. Orden de trabajo propuesto, aún flexible
 
-Witch Hat/acuerdo y ataque de tinta → regreso y reacción diferida entre planes/familiares → vigilancia animal/pista privada → interceptación exterior y conversación Rulers → consecuencias/avance de blueprints y canal → construcción rápida, mudanzas y vida del pueblo → preparativos/regalo/cierre de S8. Los cambios corporales, convivencia, familiares y política se entrelazan, no bloques aislados. El pueblo no se paraliza entero hasta terminar cada explicación de un poder.
+La ampliación posterior fija una trenza: Witch Hat inicia cambios mientras Maki/Mai/Fort/Yuka llevan Operation Bride; Operation Inn to Town avanza, recibe la petición de respuesta de Tempest y concentra decisiones. Mau participa entre investigación/transformación; la pesquisa de ratones lo saca al exterior y lleva a la interceptación Rulers. Huéspedes, memoriasCiel, familia, evolución y mudanzas se distribuyen con sentido entreS8/S9, sin reservar bloques completos aislados. El cierre deseado es pueblo habitado/cena familiar, no otra prueba pendiente como cliffhanger obligado.
 
 Antes de escribir: definir mecanismo de ingestión/transformación, elenco/source de Witch Hat y acuerdo, permiso específico de Ashborn, reglas y agentes de la conversación Rulers, mapa confirmado, residentes/visitas y disposición del pueblo. No fijar hoy capítulos por inercia o alcanzar el endpoint comprimiendo.
 

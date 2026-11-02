@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Ampliación vigente S8/S9 — 2026-11-01:** [Mensajes íntegros: operaciones Bride/InnToTown, lista Tempest primero, ratones/Rulers, pleito Ashborn/DIO, luz construida, Ciel/Trial/Yuka y familia](S8_BRAIDED_OPERATIONS_LIGHT_FRAGMENT_CIEL_AND_FAMILY_CREATOR_EXTENSION_2026-11-01.md). [Base estable/picos/crecimiento de Mau](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md). No mudanzas nuevas, embarazo, capacidad o capítulos ejecutados; fechas de activación/hijo y roster por decidir juntos.
+
 > **Planificación próxima — Witch Hat/tinta, Rulers y pueblo, 2026-11-01:** [Mensaje íntegro y tres aclaraciones](S8_WITCH_HAT_INK_RULERS_TOWN_AND_S9_WEDDING_CREATOR_DIRECTION_2026-11-01.md). Tinta como pieza glyph/reconstrucción corporal diferida; Rulers esperan fuera del perímetro; monedas previstas, desequilibrio por convergencias masivas. Cierre deseadoS8: pueblo habitado/preparativos; aperturaS9 boda/luna de miel. Mecanismos/roster/esqueleto por acordar, NO capítulos nuevos.
 
 > **Matrimonio vivido y longevidad elegida — 2026-11-01:** [Mensaje íntegro y posibilidades](LONG_MARRIAGE_ELF_ROUTE_AND_OPTIONAL_REST_CREATOR_IDEA_2026-11-01.md). El creador quiere ver florecer el matrimonio después de la boda. Posible ruta elfa para quienes la quieran, si Mau logra desarrollarla; eventual elección de descanso tras una vida muy larga sólo como horizonte posible, NO final fijado ni cambio de capacidades ejecutado.

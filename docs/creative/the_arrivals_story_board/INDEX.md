@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Matrimonio vivido y longevidad elegida — 2026-11-01:** [Mensaje íntegro y posibilidades](LONG_MARRIAGE_ELF_ROUTE_AND_OPTIONAL_REST_CREATOR_IDEA_2026-11-01.md). El creador quiere ver florecer el matrimonio después de la boda. Posible ruta elfa para quienes la quieran, si Mau logra desarrollarla; eventual elección de descanso tras una vida muy larga sólo como horizonte posible, NO final fijado ni cambio de capacidades ejecutado.
+
 > **Aclaración vigente — mundo abierto y cierres de tramas, 2026-11-01:** [Mensaje íntegro de Mauri y dirección](S8_OPEN_WORLD_AND_THREAD_CLOSURES_CREATOR_CLARIFICATION_2026-11-01.md). Planear pagos concretos —Sukuna como ejemplo prioritario— mientras convergencias, pueblo y relaciones siguen generando historia. NO buscar final de serie/S11 ni asignar un antagonista por temporada. [Propuesta anterior retirada en ese alcance](S8_TO_S11_CLOSURE_HORIZON_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-01.md). Sin capítulos nuevos.
 
 > **Corrección de presencia — Ko NO ha llegado:** [Aclaración de Mauri y cuatro escenas corregidas](S8_KO_NOT_ARRIVED_CREATOR_CORRECTION_2026-10-30.md). Mantener historia de origen de Nazuna no permite añadir a Ko como residente o invitado.

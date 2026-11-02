@@ -2682,3 +2682,7 @@ Mauri lee V47#13 y propone planear el resto de S8 y unas tres temporadas adicion
 ### Aclaración: cierres de tramas, no final de serie, 2026-11-01
 
 Mauri corrige la interpretación del coautor: mundo en evolución, Mau falla/acumulación central, arcos de sobra; cerrar áreas como la tramaSukuna al cambiar escala, no cerrar la historia. [Mensaje íntegro/regla actual](S8_OPEN_WORLD_AND_THREAD_CLOSURES_CREATOR_CLARIFICATION_2026-11-01.md). Se retiran S11 como horizonte final y asignaciones rígidas de antagonista por temporada; propuesta previa preservada con advertencia. Pueblo/boda/familiares/investigación continúan para planificación por hitos. Ningún capítulo, resultado o escala nueva ejecutados.
+
+### Matrimonio, longevidad y posible descanso, 2026-11-01
+
+Mauri quiere vivir el matrimonio de Mau/Yuka después de la boda y decisiones grandes de una comunidad en evolución. Propone si Mau logra ofrecer ruta elfa/longevidad a quienes quieran, explorar distintas respuestas y posibles cambios de decisión tras una vida muy larga; un descanso elegido podría ser un final, expresamente sólo como posibilidad. [Mensaje íntegro y distinción dirección/posibilidad](LONG_MARRIAGE_ELF_ROUTE_AND_OPTIONAL_REST_CREATOR_IDEA_2026-11-01.md). No capacidad universal/inmortalidad/reversibilidad, aceptación o muerte de alguien, calendario de serie o capítulos fijados.

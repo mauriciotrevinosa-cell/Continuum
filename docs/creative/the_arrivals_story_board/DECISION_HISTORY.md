@@ -2780,3 +2780,7 @@ V49#13–18 developed invited Hall visit, Q agency, bounded signing parties/ink 
 ### Resto S8 — V49#19–24, 2026-11-02
 
 V49#19–24: delayed ink arm deformation and actual repair, Ciel/Noise local scope explicitly chosen, maintenance feedback distinguished from secret new construction. Shoko checks/limits and Q/O expertise, M lets others help/Yrelationship lived; old scars/grey/physical stats preserved. Shion/R choice and Rem/Shuna household lives continue. B63 limited return to ownroom, monitoring/recheckB64; not cure/allglyphunlocked/ShadowMonarchcapbreak. OchoosesproposelongerworkwithQ not imposed resident job, Rilibrotherstillmessagepending. V49closes24 naturally; continueS8.
+
+### Resto S8 — V50#1–6, 2026-11-02
+
+V50#1–6: B64actualbodyfollowup/limitedactivity and Ochoicehome/workspace with Q; residents choose testedlayout/fixedward/rootcircle/Fort/directroutes with fullcastcoverage. Eightyexistingordinaryhaulingassignment separatefromMuster40, no legiongrowth. Voluntarycoinprocedure actual no transfers/spends/JinshiGaoshunreserved. Externalglyphclassbounded/nointernalnewpowers. RactualB65Tempestdayvisit: Shuna/Shionchoices, 12workersproject+Kurobe and Ramiris/Beretta/Ranga/all5students/Hescort choose roadparty22departB66arriveB67; noinstantmove/TestarossaSoueilater. MYfullquietouting parallelRday keeps love/play/oldsequelae. Alloldchaptersunchanged; continuefullS8.

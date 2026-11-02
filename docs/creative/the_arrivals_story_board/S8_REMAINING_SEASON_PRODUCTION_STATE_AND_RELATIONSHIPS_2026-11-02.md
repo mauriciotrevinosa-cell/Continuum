@@ -53,10 +53,16 @@ Read the current state below instead of treating earlier planning possibilities 
 | V49#22 | S8E78 CH02 | B+62 evening/night | Scopedlocalmaterialinterfacechosenjointly/restnewbuildheld; gradualrightarmbaseline repair, clinicnight/Ycompany/no oldsequelaecure. |
 | V49#23 | S8E79 CH01 | B+62 evening parallel | Shion/R trustingbeyondservice, Shuna/Remchoice/supper; otherhousecontinues. |
 | V49#24 | S8E79 CH02 | B+63 morning/afternoon | Actualfollowup/mostlyformedarmwithremainingchecks, returnMYroomrestrictions/B64recheck; Ochoosesdiscussstay/work, quietMYhome. |
+| V50#1 | S8E80 CH01 | B+64 morning | ActualShokocheck/limitedactivity/OchoosesworkandhomewithQ/no imposedrole/workspaceplanned. |
+| V50#2 | S8E80 CH02 | B+64 day | Residentworkinglayout/rootsward/Fort/music/families/temporaryblocks and resourcesphasingapproved; 80existingordinaryhaulingnotMuster40. |
+| V50#3 | S8E81 CH01 | B+64 evening | Voluntarycoinprocedure/reservations/no actualspends/transfers; JinshiGaoshunreserved/Bocchifamilyfuture. |
+| V50#4 | S8E81 CH02 | B+65 morning | Shokofollowupstable/externalglyphsafetystudy/nointernalactivation, R/KurobeleaveTempestdaytrip. |
+| V50#5 | S8E82 CH01 | B+65 day/evening | ActualTempestchoices/cohort22roadB66→67, RreturnsALONEanswers/Kstaysload, noinstantresidents. |
+| V50#6 | S8E82 CH02 | B+65 afternoon parallel | CompleteMYquietgardenouting/games/food/affectioninsideward/holdstable/no exertion, homebeforeRreturn. |
 
 ## Current state
 
-**Current endpoint: V49#24, B+63 afternoon. Volume49 COMPLETE24chapters; NEXT Volume50. Full remaining S8 is authorized; continue after checkpoints.**
+**Current endpoint: V50#6, B+65 evening. V49complete24chapters; V50inprogress. #6isparallelafternoonbefore#5returncoda, notnextday. Full remaining S8 is authorized; continue after checkpoints.**
 
 ## Current Witch Hat result / ink exposure
 
@@ -112,3 +118,16 @@ Read the current state below instead of treating earlier planning possibilities 
 ## Fixed inventory and mechanics
 
 Mlevel200/heldpoints0/Intelligence520. Permanentphysicalupgrades don't toggle off. Legion6615=6597ordinary+17named+1gift. Muster+40ordinary HOME41 stayed; no extra units or moved guard just from travel. NativeTenShadows separate, M Maho already tamed/YMaho ALREADY tamed earlierS8; Agito independent. OneactiveCECTperbody; accessibleCE/bodythroughput finite vsBlackHeartmana. No guaranteedBlackFlash/brainreset/globalspellimmunity. GreyworldexceptY, leftblur/twostifffingers/scars/whitepatch remain. Memories don't restore sight. No sealedauthorfiles read.
+
+## Effective V50#1–6 changes (supersede proposals above)
+
+- B64andB65actualShokofollowups stableinkhold/rightarmsensationimproving. LIGHTnormalactivityallowed; stillNOcombat/exertion/experimentalinternalglyph. DailyfollowupcontinuesB66; externalpaper/ordinaryinkstudyonlywithQ/O/Ciel. No inkfromnothing/instantallglyphs/newstat/oldsequelaecure.
+- Oexplicitlychoosesmakelongerhome/workwithQ/girls/mother. Futureseparateprivateworkroomsnearclassroom/safeinkstore, notservant/assignedbedbyM. CURRENTstillownbedrollQroomuntilbuilt. Richehmessageoutbyknownroute/brothernotfound.
+- B64residenttestedlayoutACCEPTEDforfirstwork, fixedknownwards/rootsretainoldcommon/kitchen; compactconnectedfamilycourts/outerup4floorsmax, Fortdirectdinner, musicvestibule/stairnearband/Bocchifuturefamily. IndependentguestminiInn/emergencyclinic/arrivalreceptionatapproach. Notbuilt/materialtests/phasedplanstillneeded. Fullcastrelationshippreferencesincluded, notfranchisebarracks.
+- MoffersEIGHTYalreadyexistingordinarysoldiersforagreedhaulingAFTERGeldmarksloads. ThisisassignmentNOTnewunits/stats; Muster+40ordinaryhomewatchUNCHANGED. Projectworkseparate. No namedshadowgiftbegunyet.
+- B64coinprocedureACTUALLYdiscussed. Threecategoriesactualresidents/search/conditionaloffers, privateinfochosen, JinshireservesGaoshunpendingconvergenceinfo. NOTRANSFERS/SPENDS/INVOCATIONS. Coinownersretainobjects. ShizueoldrequestfulfillednotavailableRcoinagain; no massfamiliesforfinaldinner.
+- B65R/KurobeACTUALTempestflightonexistingKaisel, MHOME. RreturnsALONEeveningwithanswers; KSTAYSloadmaterials. Shuna/ShionindividuallyCHOSEfuturemainbaseHQ/ownrooms/workchoicebeforeRleft, notexclusiveRservice/instantroles. Currentstillprojectcampuntilnewhomes.
+- ACTUALTempestconsultchoices: twelveADDITIONALwillingprojectworkers+Kurobe; Ramiris/Berettachoosefuturemainbase/dungeonSTAYSTempest/currentdelegation&reachablevisitsagreednotabandoned; RangaCHANGESformerTempeststaypreferencechoosesjoinR; allFIVEstudentsChloe/Kenya/Ryota/Gale/AlicechoosefuturehomewithR/ShizuecareSHARED byhousepeoplewhomRhasconsulted/Hescort. NotShizue24hmom/adoption. Roomsnotready/sleepingmustarrangeBEFOREarrival.
+- RoadpartyEXACT22=12workers+Kurobe+Ramiris+Beretta+Ranga+5students+Hinata. DEPARTSB66morning/EXPECTEDB67eveningordinary~2dayroad, NOTalreadyarrivedB65. HousehasRanswersnow, confirmtemporaryarrangementsNEXT. Testarossa/SoueiSEPARATElaterchosenvisits/doublebase; no departuredateyet/no permanentresidency. Benimaru/RigurdetcstayTempest, no masscityevacuation. HletterAnkoactualdeliveredB65/privatecontentsnotpublic.
+- MYB65afternoonquietgardenoutinginsidewardwhileRaway: ordinarycards/food/play/kisses/rest/knownlocation, Cielholdstable. No healingoldvision/fingers/abstinencebreach; no demandMwinforlove. TheyreturnbeforeReveningarrival.
+- NEXT B66dailycheck/groundmarking/actualtemporarybedsfortwenty-tworoadpartybeforeB67arrival; startresourceworkfirstsafeareasaftertests, moreSOL/Bride. Spy/Rulers/Ashbornpleitoandtownmovesstilltobewritten; noS9fullsystem.

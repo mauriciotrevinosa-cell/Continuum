@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 50
 **Season:** 8
-**Coverage:** S8E80–S8E85 (in progress)
+**Coverage:** S8E80–S8E87 (volume complete; S8 continues)
 **Volume title:** **A Door Near Yours** (provisional)
-**Chapter files:** 12
+**Chapter files:** 16
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -27,3 +27,7 @@ The continuation after the household's festival return. Scene length follows the
 | 10 | S8E84 | The Road Brought Them | `THE_ARRIVALS_S8E84_LN_CHAPTER_02_THE_ROAD_BROUGHT_THEM_v0.1.md` |
 | 11 | S8E85 | What the Soldiers Couldn't Decide | `THE_ARRIVALS_S8E85_LN_CHAPTER_01_WHAT_THE_SOLDIERS_COULDN_T_DECIDE_v0.1.md` |
 | 12 | S8E85 | Something He Would Recognise | `THE_ARRIVALS_S8E85_LN_CHAPTER_02_SOMETHING_HE_WOULD_RECOGNISE_v0.1.md` |
+| 13 | S8E86 | The Answer in His Handwriting | `THE_ARRIVALS_S8E86_LN_CHAPTER_01_THE_ANSWER_IN_HIS_HANDWRITING_v0.1.md` |
+| 14 | S8E86 | The Ordinary Test | `THE_ARRIVALS_S8E86_LN_CHAPTER_02_THE_ORDINARY_TEST_v0.1.md` |
+| 15 | S8E87 | A Small Listener | `THE_ARRIVALS_S8E87_LN_CHAPTER_01_A_SMALL_LISTENER_v0.1.md` |
+| 16 | S8E87 | Under the New Roof | `THE_ARRIVALS_S8E87_LN_CHAPTER_02_UNDER_THE_NEW_ROOF_v0.1.md` |

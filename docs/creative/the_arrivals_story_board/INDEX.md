@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **Producción resto S8 — V50#12:** V50 avanza: llegaron quienes lo eligieron y la primera parte de la obra ya afecta la vida cotidiana. Continúo S8. [Leer](../THE_ARRIVALS_LN_VOLUME_50_INDEX_v0.1.md) · [Estado/relaciones](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Verde](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).
+> **Producción resto S8 — V50#16:** V50 completo. La convivencia, la obra y los hilos exteriores ya avanzan juntos; continúo con V51. [Leer](../THE_ARRIVALS_LN_VOLUME_50_INDEX_v0.1.md) · [Estado/relaciones](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Verde](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).
 
 > **S8: decisiones resueltas y esqueleto final para opinión — 2026-11-02:** [Mensaje íntegro Trial/sistemaS9/monedas](S8_TRIAL_SELF_DESTRUCTION_S9_SYSTEM_DEVELOPMENT_AND_VOLUNTARY_COINS_CREATOR_DECISIONS_2026-11-02.md) · [Propuesta V48–52,90–130caps flexibles ytrenzas](S8_REMAINING_VOLUMES48_52_BRAIDED_SCENE_SKELETON_FOR_CREATOR_REVIEW_2026-11-02.md). Mau seautodestruyó enaquella vidaTrial, noactoactual; S8sóloanticipa fragmento/sistema, plenodesarrolloS9; monedas voluntarias y reparto/invocacionesconpin. Cierre pueblohabitado/cenafamiliar/preparativos, bodaS9. Ningúncapítulo/llegada/obraejecutado; esqueleto pendiente deverde.
 

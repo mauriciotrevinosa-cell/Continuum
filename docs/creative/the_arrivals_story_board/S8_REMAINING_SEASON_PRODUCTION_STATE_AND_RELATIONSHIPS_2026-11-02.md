@@ -65,10 +65,14 @@ Read the current state below instead of treating earlier planning possibilities 
 | V50#10 | S8E84 CH02 | B+67 evening | Actual22roadarrival/camp/Fortall5/ShizueR/HAnko/RangaRamirisBeretta, noinstanttown/coins. |
 | V50#11 | S8E85 CH01 | B+68 day | Crewfirstfullworkday/newroof/frame/realrain, safeexternalglyphlight/privateclass/sharedmealroles/RShizuecompany. |
 | V50#12 | S8E85 CH02 | B+68 evening | Bridepersonalroute/fabric/musicvoluntaryBocchiask, shadowsordinarycraftsecretMnotknows. |
+| V50#13 | S8E86 CH01 | B+69 morning | RichehactualRilireply/ownprivacy, chosenmeetingB72shorewithQ/O/Kaiselloannotyettravel/arrival. |
+| V50#14 | S8E86 CH02 | B+69 afternoon | ActualShokofunctionalcheck/rightarmimproving/normaloutingsnotcombat; firstmousebackground. |
+| V50#15 | S8E87 CH01 | B+69 late afternoon | Mouseforeignobservationclue/M/R/Ram/Yquietchosenconnection, noidentityassumption/panic. |
+| V50#16 | S8E87 CH02 | B+70 day/evening | Rampartialroute/ordinaryprecautions/B71outsideinspectionplanned, buildingrain/Fortdinnerlifecontinues. |
 
 ## Current state
 
-**Current endpoint: V50#12, B+68 evening. V49complete24chapters; V50inprogress. Full remaining S8 is authorized; continue after checkpoints.**
+**Current endpoint: V50#16, B+70 evening. V50COMPLETE16chapters; NEXTV51B71morning. V49complete24chapters. Full remaining S8 is authorized; continue after checkpoints.**
 
 ## Current Witch Hat result / ink exposure
 
@@ -148,3 +152,12 @@ Mlevel200/heldpoints0/Intelligence520. Permanentphysicalupgrades don't toggle of
 - HousemealrotaACTUALvoluntaryoffersMomochoosesdayoff/RemShunaRam/TaiheiM/KanekiToukachoicesnotnewpermanentchores. R/Shizuequietcompanywithoutforcingromancelabel. RamSeikainterest/RemUcompanynolabelforced.
 - BrideYchoosesrecognisablehomecomingfeeling/mountainintimacy/familybesidepath; WakanaMarinsketchrefined/changedsleeves, voluntaryBocchimusicspecificaskacceptedTRY(noforcedwholebandperformance/date). Oriasksbranchview/lowlights/rootsfree. WeddingS9/newmechanicsnone.
 - NEXT B69armfollowup/stability/glyphrole, Richehactualreplyifcomesbyrealroute, firstspyhintwhiletown/Brideprogress. RulersinterceptionOUTSIDEwardnotyet; Ashbornanalysispleito/fullsystemS9lockstillapplies. ContinuefullremainingS8.
+
+## Effective V50#13–16 / immediate next scenes
+
+- B69RichehACTUALreplybyordinaryHallcontacts sinceB63dispatch. Recogniseswriting/personalmemoryreply, not yet personallyverified. Riliisnearcoastalregion/choosesmeetB72morningSHOREwithQ/O/Richeh, notpromisedpermanentmove. Q/O+RichehwilluseMloanexistingKaiselalongknownroute/houseinformed; TRIPNOTYET. M/Rremainhomeforthattripunlessfutureagreedchange. No coinspend/brotherarrival/fullnewcanonrole. Richehownletterprivacy/girlsvoices/reservefuturespaceunchanged.
+- B69ACTUALShokofunctionalcheck: rightarmstablehold/patchsensoryoddnessimproving/faintlines, normalNEARBYoutingsandgradualactivityallowed. NOsparring/intenseCT/unsupervisednewinkroute. Oldleftfingers/grey/blur/scarsunchanged. Monitoringongoingnotcuredperfect.
+- #15FIRSTspy-clue: mouseunderstoreignoresfood/turnstowords, Ciel/Noise/MnotefaintintermittentFOREIGNactivitylikeobservation, notanimalmindread/ownerID. McontactsRquietly; RINVITESRamintoexistingThoughtCommunicationwithconsent (notnewCielhost/publicvoice), laterMinformsYquietlytoo. Onlythatcircleknowsdetailsinitially, limitedpracticalrequeststostores/teachingpeople. MremembersAarmy-memorytamperbutdoesNOTclaimitoccurredinBnorproofsameauthor. MakimapossibilityUNPROVEN, Rulersnotyetmet.
+- #16B70RampartialviewfromdifferentvantagefollowsanimalBEYONDknownprotectedgroundthenlosesit, NOallanimalseyesomniscience/control/spyownername. Shewarnsnotassumelastplaceiswholeconnection. M/R/Ram/YplanB71morningBRIEFoutsideinspectionatidentifiedpoint/RHOME/Yinformed/timing/updates. Noheroicsecretwandering/notyetintercepted.
+- Interimreasonableprivacy/notkillallwildlife/noblamingnewresidents/noexplicitnewwardvulnerabilityrule. Houseconstructioncontinuesnormal: firstcoveredrouteactualrainfixworks/firstfamilywalls/unfinishedstairs/dormsnotyetusable. FortDIRECTdinnercallactualall5students/OriF etc, no crossingcourtyardrequired.
+- NEXT V51B71Moutsideinspection→Rulersmeet/forceconversationOUTSIDEward percreator, ratsconfusion. DIOconsent/pact/no throne/slowpreciseconvergencesvscoinsalreadybalanced. ContinueB72Q/O/RichehshoremeetingandpersonalreunionwithRili, noterasefamilythread. InnerAshbornanalysispleitostillunwritten; no fulltoppedfragment/BlackHeartuntilS9. Build/Bride/actualsleepingcontinues; B73lodgingreviewDUE. Testarossa/Soueistillfuturevisitsunlessactualnewnotice/travel.

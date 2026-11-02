@@ -81,10 +81,12 @@ Read the current state below instead of treating earlier planning possibilities 
 | V51#10 | S8E92 CH02 | B+73 morning | ActualGShokobothchooseseparatebedsuntilnewhome/askanychange/ShizueoldGbedcontinues/voluntarykiss. |
 | V51#11 | S8E93 CH01 | B+73 afternoon | Guestconsentedfilterprototypeactual/newlimitedAshbornreference/dIOownterms/peace/friendscanrefuse. |
 | V51#12 | S8E93 CH02 | B+74 day | Lightonlyblueprintglimpse/no integration; mousecaughtunharmedconnectionceasesnoowner; workcontinues. |
+| V51#13 | S8E94 CH01 | B+74 evening | Echidnaactualfutureteainvitationonly/guestschoice/othersownlife/no newinnerentry. |
+| V51#14 | S8E94 CH02 | B+75 day | Hinataactualdeparture/carehandoff/Ankofarewell; RiliactualB75reviewchoosesmainbase/ownroom/message; GShokofirsthomeinspectedreadytomoveB76. |
 
 ## Current state
 
-**Current endpoint: V51#12, B+74 day. Rilialreadywelcomed/currentguestvisit, M/Rhome. Volume51inprogress. Full remaining S8 authorised; continue after checkpoints.**
+**Current endpoint: V51#14, B+75 evening. Volume51COMPLETE14chapters; NEXT V52 B76actualfirstmove. M/Rhome. Full remaining S8 authorised; continue after checkpoints.**
 
 ## Latest produced plot
 
@@ -145,3 +147,11 @@ ActualB72returnRiliwelcome/ownvoice; actualAshborndiscoverycontinuousfunctionals
 - B74#12ONLYGLIMPSElightBLUEPRINTrelationRulers/newboundedAshbornreference; NOTphysicalfragmentbuilt/integrated/systemcapbreak/BlackHeartfull/newlevels/points. Futurebody/scopeworkS9. Mexplicitkeepsasdrawing.
 - MouseinvestigationactualUNHARMEDcaptureordinarytrap/Ram/R/Cielobservedforeignactivityceasedafterclosure; no convenientownertrace/MakimaorRulerguiltproof. Recordpattern/route/cessation/interimprivacyCONTINUES. Don'treportespionagesolved/notnewwardpower.
 - ConstructionnowfirstroomsapproachinginspectionbutNOTinhabited/newtowncompleted. Priorcoveredroute/frames/foundation/materials/crewongoing. NEXT firstfinishedhomes/beds/water/stairtests, phasedmovesinV52; alloldfamily&newchosenmainbaserequiresactualchosenaddresses. RiliB75reviewNEXT, continueBocchifamily/KoSubarunotarrived/coinsPIN. Brideandshadowgiftworkcontinues/no newmagicitemdefined. No newmajorbattle/wedding/sex/pregnancy/RulerTrial/fullsystemS8.
+
+## Effective V51#13–14 / final-volume handoff
+
+- B74EchidnaproposesfutureteasharedinnerplaceinclAshbornONLYifwants/no answersowed/Cielchoice/entrymustbeagreedFIRST. No actualnewphysicalguesttransport/blankpermission/all7witchesnewhost. Current7witchescourt/ordinaryfamilyvoiceskept, NoisenamePENDING.
+- B75HinataACTUALLYDEPARTStoTempestordinary~2dayroad aftercoordinatedR/Shizue/F/housechildcarehandoff. Ankoownfarewell/kiss/invitationtoreturnwithoutworkexcuse. SheisNOTcurrentlyatInn/campcotcleared. No confirmednextvisitdateyet/needsactualnotice/travelbeforecomesback.
+- B75RiliACTUALvisitreviewwithRicheh/Q/O: choosesMAINHOMEhere/ownprivatebedroomadjacentRicheh/girlsgalleryinALREADYreservedfamilymodule, Geldchecksfits/saysworkremaining, notinstantfinishedroom. SendsSECONDmessagecoastalcontacts/firstalreadytravelling, NOnewcoin/fictionalfastreply. Untilhomefinishedcurrenttemporarymat/screenteachersspace, futureminiInnroomwhenreadyifneeded. Familychoicehers/hisownnotemotionalobligation. No preciseage/latestmangastatusinvented.
+- B75GojoShokofirstnewhomeACTUALLYINSPECTEDdoors/water/stairs/load/path, twoPRIVATEbedrooms/sharedtable, READYbutNOTMOVEDYET. TheychooseB76TOMORROWactualmove. Otherhomesstillfinishing/firstnewtownnotfullyhabited. Oldbedsstillactualuntilchapterdoesmove.
+- NEXT V52actualphasedmoves: G/Shoko first, band/Bocchi/familyreserve, RemRam/UmaruSuikaTaihei/Seika, teachers/girls/Rili/Cocomom, Tempestnewmainbase&all5students, allremainingoldhouseholds/MY-R-Shizueactual3bedroomhome latephase. MiniInn/emergency/receptiontests, no SourceVault changes/newcoins/forcedjobs. Time/choices/stairswaterlightandcommonroutesreal. Finalfamilydinneractualnewtownhabited, S8endNOTS9wedding/fullfragment/child/anotherbigbattle. Continuedoldotherplotsremainopennotforgotten.

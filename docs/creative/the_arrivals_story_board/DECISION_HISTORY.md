@@ -2800,3 +2800,7 @@ V51#1–6: Rulers wait OUTSIDE fixed ward, abrupt local transfer Ciel remains/Ri
 ### Resto S8 — V51#7–12, 2026-11-02
 
 V51#7–12: actualRiliwelcome/initialvisitB75review/messagecoast/no coin/permanentassignment. ActualAshborndiscoveryofpassivefunctionalmodelsbeyondV41limitedpermission; private memoriesremainedclosed/Mnotconsciousliarbutaccountable. Ciel/Noisereview/quarantineuse/notfalseunlearning, guestreviewedminimalcontactfiltertested, boundedNEWwillingAshbornreferencegivenwithoutlosingrightrefuse/refuge. DIOownterms/friendscansayno. B73actualGShokoreviewcontinueseparatebedsuntilchosennewhome/anycanchange, ShizuecontinuesoldGroomuntilmove; voluntarykiss. OnlylightBLUEPRINTglimpse/notbuilt/no capbreakS8. Actualmousecaughtunharmed/foreignactivityceased/ownerunknown/investigationopen. Alloldchapterspreserved; continueS8.
+
+### Resto S8 — V51#13–14, 2026-11-02
+
+V51#13–14: EchidnafutureteaPROPOSALnotpermissionnewinnerguests/power. ActualB75HinatareturnTempest/carehandoff/romancecontinues. Rilivisitreviewactualchoosesmainbase/ownroominreservedfamilymodule, ownmessagesordinaryroute/nofastacknowledgement/coin. FirstGShokohomepassesdoors/water/stairinspection, actualmoveNEXTB76notassumedalready. V51closes14; continuefinaltownhabitation/dinnerS8, no wedding/systemS9.

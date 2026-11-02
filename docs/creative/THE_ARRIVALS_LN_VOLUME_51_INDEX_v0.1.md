@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S8 v0.1
 **Volume:** 51
 **Season:** 8
-**Coverage:** S8E88–S8E93 (in progress)
+**Coverage:** S8E88–S8E94 (volume complete; S8 continues)
 **Volume title:** **The Things They Mistook** (provisional)
-**Chapter files:** 12
+**Chapter files:** 14
 
 The continuation after the household's festival return. Scene length follows the story: full central conversations and shorter secondary windows where appropriate. Town, relationships, wedding preparations and outside events unfold together.
 
@@ -27,3 +27,5 @@ The continuation after the household's festival return. Scene length follows the
 | 10 | S8E92 | When the Bed Was Made | `THE_ARRIVALS_S8E92_LN_CHAPTER_02_WHEN_THE_BED_WAS_MADE_v0.1.md` |
 | 11 | S8E93 | The Quiet He Asked For | `THE_ARRIVALS_S8E93_LN_CHAPTER_01_THE_QUIET_HE_ASKED_FOR_v0.1.md` |
 | 12 | S8E93 | A Place for the Missing Piece | `THE_ARRIVALS_S8E93_LN_CHAPTER_02_A_PLACE_FOR_THE_MISSING_PIECE_v0.1.md` |
+| 13 | S8E94 | An Invitation to Tea | `THE_ARRIVALS_S8E94_LN_CHAPTER_01_AN_INVITATION_TO_TEA_v0.1.md` |
+| 14 | S8E94 | The First Door That Closed | `THE_ARRIVALS_S8E94_LN_CHAPTER_02_THE_FIRST_DOOR_THAT_CLOSED_v0.1.md` |

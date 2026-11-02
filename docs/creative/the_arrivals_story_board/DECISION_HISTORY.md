@@ -2707,3 +2707,8 @@ Mauri: «okay dame tu lista y yo paso opinion4». [Propuesta completa](S8_TEMPES
 ### Elenco Tempest como base, árbol central y departamento, 2026-11-01
 
 Mauri acepta el elenco propuesto y agrega Leon/Chloe, Luminous/Mau sinromance con posible reuniónbrujas quincenal y Shuna recordando compromisosplaya aMau/Yuta. Pide visuales árbolcentral y permite explorar reconstruirInn. Confirma departamento: dormitorioMauYuka, Rimurupropio, Shizueinvitados mientrasRimuruaclarasentimientos. [Mensajes íntegros, tres opciones espaciales y geometría](S8_TEMPEST_ROSTER_ACCEPTANCE_TREE_TOWN_OPTIONS_AND_SHARED_APARTMENT_2026-11-01.md). Propuestas Inn ampliado/patiosconectados(recomendada)/anillonuevo, NO selección final, demolición, medidas, censo mudado, romance fijado ni capítulos nuevos.
+
+
+### Render de patios: cercanía Bocchi y edificios temporales, 2026-11-01
+
+Mauri cuestiona música alejada deMau/Bocchi en diagrama inicial y pide render. Añade miniInn dehuéspedes(Hinata/Luminous), emergencias y arrivals como edificios separados. [Mensajes íntegros, propuesta y render](S8_CONNECTED_PATIOS_BOCCHI_PROXIMITY_GUEST_INN_EMERGENCIES_AND_ARRIVALS_RENDER_2026-11-01.md). Coautor propone Bocchi/Kessoku enmismagalaería cercadeMau, músicaabajo conescaleraprivada/aislamiento, juntoalcentro; conserva3dormitoriosMY/R/Shizueinvitados. Diagramainicialmúsicaperiférica yaNOubicación propuesta vigente. Render sinescala/ni detalledecorativocanónico, ningúncapítulo/obra/mudanzaaprobada.

@@ -1,5 +1,7 @@
 # S8 — Lista Tempest aceptada como base, árbol central y departamento compartido
 
+> **Revisión posterior de proximidad:** [S8_CONNECTED_PATIOS_BOCCHI_PROXIMITY_GUEST_INN_EMERGENCIES_AND_ARRIVALS_RENDER_2026-11-01](S8_CONNECTED_PATIOS_BOCCHI_PROXIMITY_GUEST_INN_EMERGENCIES_AND_ARRIVALS_RENDER_2026-11-01.md). El rótulo Música apartado del primer esquema queda sustituido como propuesta por música en el ala de Bocchi, cerca del departamento de Mau. Mini Inn temporal/emergencias/arrivals en edificios propios según nueva petición. Ningún plano aprobado ni obra ejecutada.
+
 2026-11-01. Dirección del creador y tres propuestas espaciales del coautor para revisión. No capítulos nuevos, mudanzas realizadas ni opción de obra escogida. Continúa vigente el cierre de producción en V47#22.
 
 ## Mensajes íntegros del creador

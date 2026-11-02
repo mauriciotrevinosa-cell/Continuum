@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **Render patios: Bocchi cerca y estancias temporales — 2026-11-01:** [Mensajes íntegros, render y prompt](S8_CONNECTED_PATIOS_BOCCHI_PROXIMITY_GUEST_INN_EMERGENCIES_AND_ARRIVALS_RENDER_2026-11-01.md). Propone misma ala/galería para Bocchi y deptoMau, música abajo con escalera privada/aislamiento y Kessoku junto aBocchi. Creador agrega miniInn paraHinata/Luminous/visitas, emergenciasjuntoaclínica yarrivals separados. Sin selección final, mudanzas, cambios de protección o capítulos nuevos.
+
 > **Elenco aceptado como base y tres opciones de pueblo — 2026-11-01:** [Dirección íntegra, departamento y geometría conceptual](S8_TEMPEST_ROSTER_ACCEPTANCE_TREE_TOWN_OPTIONS_AND_SHARED_APARTMENT_2026-11-01.md). Árbol central/raíces libres; comparar Inn ampliado, patios conectados y anillo nuevo sin opción todavía escogida. Mau/Yuka juntos, Rimuru propio, Shizue en invitados del mismo departamento. Leon porChloe, Luminous sinromance/reunionesbrujas, Shuna/compromisosplaya. Sin mudanzas, demolición o capítulos ejecutados.
 
 > **Lista Tempest/HQ para opinión — 2026-11-01:** [Primera propuesta de residencia/doble base/proyectos/visitas](S8_TEMPEST_HQ_RESIDENCY_FIRST_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-01.md). 11personas propuestas de residencia (incluyeShizue y5alumnos),4doblebase; base posteriormente aceptada porMauri, decisiones deescena yobra pendientes, NO censo efectivo ni llegadas nuevas. Diablo/Milim/Rimuru ya residentes no se recuentan.

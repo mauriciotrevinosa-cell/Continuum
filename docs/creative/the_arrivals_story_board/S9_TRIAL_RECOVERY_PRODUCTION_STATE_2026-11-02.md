@@ -49,3 +49,5 @@ STOPwritingatthisendpoint. PlanwithMauri wedding/honeymoon/calmfuturepregnancytr
 [Creator proposes delaying parenthood and planning S9 closures](S9_MARRIAGE_DELAYED_PARENTAL_PLANS_AND_FACTION_CLOSURES_PROPOSAL_2026-11-02.md). No new prose; wedding/honeymoon desired, next plots unapproved.
 
 [Later creator expansion: wedding, honeymoon, public Sukuna wager and relationships](S9_WEDDING_HONEYMOON_PUBLIC_SUKUNA_WAGER_AND_RELATIONSHIPS_CREATOR_EXPANSION_2026-11-02.md). Wager death outcome expressly selected: Mau can be claimed as a shadow controlled by Makima, like a wild animal; mechanism undefined. This is future direction, not an already signed vow. Manuscript still ends V54#8.
+
+[Further creator clarifications: Yuka/Mai/inventory/Umaru-Rem/Milim](S9_YUKA_MAI_INVENTORY_UMARU_REM_AND_MILIM_CALIBRATION_CREATOR_CLARIFICATIONS_2026-11-02.md). Yuka anger targets exploitation, not Mau. Planned source16Maiage must add local elapsedtime; storage demonstration precedes honeymoon shopping. Author cross-system calibration added, no measured stat unlocked. Manuscript remains V54#8.

@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **S9 — Yuka/Mai/inventario/Milim, aclaraciones 2026-11-02:** [mensaje íntegro y aplicación](S9_YUKA_MAI_INVENTORY_UMARU_REM_AND_MILIM_CALIBRATION_CREATOR_CLARIFICATIONS_2026-11-02.md). Yuka ama bondadM yse enfada con quienes la explotan; bromaGojo/papá; Mai16origen+tiempovivido/experienciaíntimaelecciónArrivals; inventariomostradoANTESdecomprar; UmaruRemprimercitaconvoluntad;5%VeldoraMilim≈110%referenciaSukuna comoescalaautoral. No capítulos nuevos.
+
 > **S9 — Ampliación boda/luna de miel/desafío público, 2026-11-02:** [mensajes completos y trabajo pendiente](S9_WEDDING_HONEYMOON_PUBLIC_SUKUNA_WAGER_AND_RELATIONSHIPS_CREATOR_EXPANSION_2026-11-02.md). Mai/Yuka, ayuda prenatal DIO futura, dos semanas de viaje feliz y cinco días hotel-isla, Shop/storage, Sukuna apuesta sombra de Mau controlada por Makima incluso tras morir; Gojo/Shoko y amor maternal Shoko/Mau, Umaru/Rem y monedas. Planificación, no capítulos ni pacto ejecutados.
 
 > **S9: matrimonio e hijo aplazado; propuesta de cierres — 2026-11-02:** [mensaje íntegro y mapa para opinión](S9_MARRIAGE_DELAYED_PARENTAL_PLANS_AND_FACTION_CLOSURES_PROPOSAL_2026-11-02.md). Boda/luna de miel deseadas, ambos quieren familia y proponen esperar; Sukuna candidato a cierre definitivo, Makima/red exterior por desarrollar. No capítulos autorizados. Segundo favor DIO y primera tea party ya cumplidos; registros corregidos.

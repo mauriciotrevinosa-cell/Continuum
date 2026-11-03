@@ -1,5 +1,7 @@
 # S9 — Boda, luna de miel, desafío público de Sukuna y vínculos
 
+> **Aclaraciones posteriores:** [Yuka enfadada con la manipulación, Mai cercana en edad, demostración del inventario, Umaru/Rem y escala Milim/Sukuna](S9_YUKA_MAI_INVENTORY_UMARU_REM_AND_MILIM_CALIBRATION_CREATOR_CLARIFICATIONS_2026-11-02.md). Shoko bromea con Gojo/papá tras la confesión maternal. Dirección futura, no escenas ya producidas.
+
 2026-11-02. Ampliación íntegra del creador y propuesta editorial para conversación. **No verde de capítulos.** Último escrito: V54#8 / S9E11CH02 / B+94 mañana. El siguiente material se planea con Mauri; no boda, viaje, contrato, técnica, embarazo, muerte o transformación ejecutados.
 
 ## Mensaje íntegro del creador

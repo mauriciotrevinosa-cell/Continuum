@@ -99,11 +99,11 @@ Mau nods.
 
 At the common table, the other work has made visible progress.
 
-Jinshi has return routes. Ram has separated the people choosing to watch at the quarry from those who prefer a panel at home. Nobody makes Ori prove affection by attending. Frieren will stay with her for the first part; the child can ask for the view to be closed. Milim has chosen the outer safety team with Diablo and the people actually maintaining those boundaries.
+Jinshi has return routes. Ram has marked a screened room at the quarry for anyone who needs to stop watching without leaving their family. Frieren will walk there with Ori and let her decide how much she wants to see. Milim has chosen the outer safety team with Diablo and the people actually maintaining those boundaries.
 
 Umaru wants to go with Rem. Taihei will be there too. Yuka's family has decided among themselves instead of waiting for Mau to assign places to people he loves.
 
-Shizue will remain with the children and those keeping the ordinary home open. Rimuru will take the things he needs, then return to his own place beside Mau's people rather than turn their fear into another council.
+Shizue will stay with the children at the quarry. The home watch has its own assignments, including a clear return path to DIO and Ashborn's room. Rimuru will take the things he needs, then return to his own place beside Mau's people rather than turn their fear into another council.
 
 Mau sits down as the food arrives.
 

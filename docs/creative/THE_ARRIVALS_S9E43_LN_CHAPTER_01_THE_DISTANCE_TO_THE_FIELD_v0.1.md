@@ -27,7 +27,13 @@ He kisses her before she can find another thing to correct.
 
 * * *
 
-They travelled with the group by the route which had been checked. No surprise exchange into a crowd. No shadow left on an unwilling traveller to make coming home easier. The home watch stayed with the people who chose the ordinary common room and its panel.
+They travelled with the group by the route which had been checked. No surprise exchange into a crowd. No shadow left on an unwilling traveller to make coming home easier. The home watch stayed on duty. DIO and Ashborn had a room behind the protection and a place to look from on the ridge: one shadow, sitting where nobody would mistake it for a soldier waiting to be called.
+
+Elmesia stopped at the entrance to make sure a child could leave without crossing the seats of an entire delegation. By the time she took her place, the household had come through behind her. Jinshi was still helping people find each other. Maomao had already found the way to the medical screen.
+
+Qifrey and Olruggio came with the girls and Coco's mother. Tetia waved when she spotted Ori beside Frieren; Richeh took one look at the quarry and asked Olruggio if they could sit near the aisle. He moved with her. Farther up, Shizue showed the students where to find her if they wanted to step away. The seats they had been given still belonged to them if they chose to come back.
+
+On the Tempest side, Benimaru put a hand on Veldora's shoulder before he could call out to the field. Veldora took the hint. Even from the ridge it was possible to see Rimuru turn at the sudden silence and look for him.
 
 At the quarry, the admissions took time.
 

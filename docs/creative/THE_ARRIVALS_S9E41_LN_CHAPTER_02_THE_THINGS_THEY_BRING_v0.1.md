@@ -97,6 +97,18 @@ The matched articles ratify the field and rosters. The road restraint extends th
 
 Makima accepts the separate observer rules.
 
+Before the clerks take their copies, Mau points to the exception he asked them to read aloud.
+
+One shadow will be seated among the observers. It belongs to the return route, outside the field roster. DIO and Ashborn will see through it from their protected room. Nothing goes back the other way during the fight.
+
+If Mau truly dies, either guest still attached to his refuge may pass into that shadow, which will take them straight back to the protected room. The route does not take Mau with them. It cannot reach into the field, reopen a verdict, or leave either guest in the custody of the person who claims him.
+
+“They are already home,” Sukuna says. ˢᵘ
+
+“And you don't get to make that stop being true.” ᴹ
+
+Sukuna looks down at the copies. He leaves the exception where it is.
+
 The clerks receive the identical copies.
 
 Nothing starts fighting yet.

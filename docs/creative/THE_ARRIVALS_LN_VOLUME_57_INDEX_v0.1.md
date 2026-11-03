@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 57
 **Season:** 9
-**Coverage:** S9E30–S9E34 (in progress)
+**Coverage:** S9E30–S9E37 (volume complete; S9 continues)
 **Volume title:** **Days of Our Own**
-**Chapter files:** 10
+**Chapter files:** 16
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -25,3 +25,9 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 | 8 | S9E33 | The Longer Road | `THE_ARRIVALS_S9E33_LN_CHAPTER_02_THE_LONGER_ROAD_v0.1.md` |
 | 9 | S9E34 | The Part Still Missing | `THE_ARRIVALS_S9E34_LN_CHAPTER_01_THE_PART_STILL_MISSING_v0.1.md` |
 | 10 | S9E34 | The Space Beside the Music | `THE_ARRIVALS_S9E34_LN_CHAPTER_02_THE_SPACE_BESIDE_THE_MUSIC_v0.1.md` |
+| 11 | S9E35 | Smaller Than a Heartbeat | `THE_ARRIVALS_S9E35_LN_CHAPTER_01_SMALLER_THAN_A_HEARTBEAT_v0.1.md` |
+| 12 | S9E35 | The Long Way to Their Door | `THE_ARRIVALS_S9E35_LN_CHAPTER_02_THE_LONG_WAY_TO_THEIR_DOOR_v0.1.md` |
+| 13 | S9E36 | The Road Which Answered | `THE_ARRIVALS_S9E36_LN_CHAPTER_01_THE_ROAD_WHICH_ANSWERED_v0.1.md` |
+| 14 | S9E36 | What He Was Asking Them to Pay | `THE_ARRIVALS_S9E36_LN_CHAPTER_02_WHAT_HE_WAS_ASKING_THEM_TO_PAY_v0.1.md` |
+| 15 | S9E37 | The Man She Married | `THE_ARRIVALS_S9E37_LN_CHAPTER_01_THE_MAN_SHE_MARRIED_v0.1.md` |
+| 16 | S9E37 | The Price Written Back | `THE_ARRIVALS_S9E37_LN_CHAPTER_02_THE_PRICE_WRITTEN_BACK_v0.1.md` |

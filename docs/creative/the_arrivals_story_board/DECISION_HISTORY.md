@@ -2908,3 +2908,7 @@ Actual132memorylesson and source/adaptation distinction; actual conditionalartic
 ### S9 matrimonio/tablero — V58#9–10, 2026-11-02
 
 CompletedpreduelV58withoutS9closure. ActualshortonebarrierfiniteMonarchshadepracticeandfiniteownCErepairreserve, fragmentstillunjoined. Actual135roadvisitors/wholeMYOriordinaryafternoon/Ubrothercare/familymeal/MYprivatebedtime, nopregnancy or people disappear. Rulesratified133/Moratorium137/realduel136persist. Continuepublicfight, no pauseatpush.
+
+### S9 matrimonio/tablero — V59#1–3, 2026-11-02
+
+Actualpublicduelstarted136 underagreedrules/observers. Foughtfirsth2h, armiesterrain/CErelayShrineevolution, JogoDomain andnativeTenSpositivebladecounters, JogoHanamifinalended notArmyrecruits. Bothprincipalsalive; Mrightarmsevered/sideopened/backimpactbyconditionedexpandedspatialcut, no Infinityuniversalblock. No concurrentCECTs/fullfragmentyet/noobserverhelp. ContinuegreatfightandS9aftermath.

@@ -77,6 +77,8 @@ Creator greenlights continuation through the agreed wedding, honeymoon, relation
 | V59#5 | S9E45 CH01 | B+136 continuous | Armrepairreal/sectorShrine/Agitoended/RedSkyBluePurpledestroysadaptedS Maho/Uraumeorderwithdrawalive/Sbodychanges. |
 | V59#6 | S9E45 CH02 | B+136 continuous | Heianintrinsicform/finiteCE/conditionalspatialcuts/DAanchors/fieldExchange/Skybeforelock/oneBF each/majordamages. |
 | V59#7 | S9E46 CH01 | B+136 continuous | ActualfullSukunaknowledgememorycontact/bothdisoriented/Mreturnsfirst/refinesexistingShrine/notfreealltechmastery. |
+| V59#8 | S9E46 CH02 | B+136 continuous | Partial double Domain gives one opening; neural injury ends reliable casting. Protected guests watch. |
+| V59#9 | S9E47 CH01 | B+136 continuous | Close attrition, failed cuts and limited repair. House and delegations react. Both active. |
 
 ## Current state
 
@@ -89,3 +91,4 @@ Ch6SHeianbodyone-timeintrinsicrestoration4arms/2mouths/NOTrefillCE, ownburnoutda
 Ch7ACTUALFULLSukunacurrentarchive/knowledgeacquiredviaManaCONTACTspell+Noireceiving/Cielseparatesidentity; bothdisoriented/Mreturnsfirstgroundingchosenself. Notonlyfrags/notshadowteacher/fullknowledgeNOTinstantallnewCTmastery. UsesrefinementofalreadyownedDismantle/Cleave strategically. Doesn'tpubliclybroadcastSukunaprivatememories. SeesSownGojo-kill source/nofalseMegumitrapsoulimport. Fragmentalreadybuilt/controlstillstrained/CEreserveheld/eyesprototype/Cielpresentalways. Mpreparesownpractisedterritorynext, no result yet.
 
 LATESTCREATORsupersedesfarewellmechanism: briefshadowSukunachoosesacceptMofferaboutoneminutetotalk, answersdeathworthyYES thenRETURNSABYSBYHIMSELF. NOTforcedkneelingretainedservantthenMrelease. No permanentrosteraddition, nofuturesecretreturn/KamishMdragonunrelatedunaffected. Exactmessageinnewlinkeddecisionfile. Keepallotheroath/memory/culminationrules. NeedendgreatfightthenfullhomeaftermathS9, noautostopatpush.
+Ch8–9 actual: parallel sure-hit holds on one strip, nested domain fails and injures neural control; Ciel disconnects, Blue fails, no technique finish. Sukuna also fails to produce cut; both active. Mutual close wounds, injured knee, Bellion form lost not permanent, Igris brace. Rem holds Umaru; Ori and Agott leave view; Shoko remorse; Elmesia sees public doubt. DIO/Ashborn remain in room with observer shade, consented return independent of verdict.

@@ -2916,3 +2916,7 @@ Actualpublicduelstarted136 underagreedrules/observers. Foughtfirsth2h, armiester
 ### S9 matrimonio/tablero — V59#4–7, 2026-11-02
 
 Actualduelprogressbothactive, majorfreshwounds/permanentstatsandoldsequelae kept. NoifullconstructedlightfragmentculminatedDURINGfight/liveownerrelation/noAshborndonation/nofreepointsCE. EvolvingsectorShrine/conditionalexpandedcut/Heianformtwoopponentscounteradapt/refine. NativeSAgitoMahodestroyed/Uraumevoluntaryexit/JogoHanamidead, no newroster. FullSukunaknowledgeacquiredthroughactualmemoryspellwithrisk/desorient/bodyskillsstillcost. CreatorLATESTvoluntaryminuteSshadowacceptsofferandreturnsabysshimself, exactmessagepreserved/notforcedMrelease. Continuebattlethenrecoveryseasonclose.
+
+### S9 matrimonio/tablero — V59#8–9, 2026-11-02
+
+Partial double Domain and neural damage actually written; escalating mutual attrition and separate witness reactions; both principals still active. Protected guest return was incorporated in the ratification and pushed separately.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 59
 **Season:** 9
-**Coverage:** S9E43–S9E46 (in progress)
+**Coverage:** S9E43–S9E47 (in progress)
 **Volume title:** **The World Watching**
-**Chapter files:** 7
+**Chapter files:** 9
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -22,3 +22,5 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 | 5 | S9E45 | What the Fire Leaves | `THE_ARRIVALS_S9E45_LN_CHAPTER_01_WHAT_THE_FIRE_LEAVES_v0.1.md` |
 | 6 | S9E45 | Four Hands and One Answer | `THE_ARRIVALS_S9E45_LN_CHAPTER_02_FOUR_HANDS_AND_ONE_ANSWER_v0.1.md` |
 | 7 | S9E46 | Everything He Knows | `THE_ARRIVALS_S9E46_LN_CHAPTER_01_EVERYTHING_HE_KNOWS_v0.1.md` |
+| 8 | S9E46 | A Place of His Own | `THE_ARRIVALS_S9E46_LN_CHAPTER_02_A_PLACE_OF_HIS_OWN_v0.1.md` |
+| 9 | S9E47 | Close Enough to Hold | `THE_ARRIVALS_S9E47_LN_CHAPTER_01_CLOSE_ENOUGH_TO_HOLD_v0.1.md` |

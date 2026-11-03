@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **S9 — Ampliación boda/luna de miel/desafío público, 2026-11-02:** [mensajes completos y trabajo pendiente](S9_WEDDING_HONEYMOON_PUBLIC_SUKUNA_WAGER_AND_RELATIONSHIPS_CREATOR_EXPANSION_2026-11-02.md). Mai/Yuka, ayuda prenatal DIO futura, dos semanas de viaje feliz y cinco días hotel-isla, Shop/storage, Sukuna apuesta sombra de Mau controlada por Makima incluso tras morir; Gojo/Shoko y amor maternal Shoko/Mau, Umaru/Rem y monedas. Planificación, no capítulos ni pacto ejecutados.
+
 > **S9: matrimonio e hijo aplazado; propuesta de cierres — 2026-11-02:** [mensaje íntegro y mapa para opinión](S9_MARRIAGE_DELAYED_PARENTAL_PLANS_AND_FACTION_CLOSURES_PROPOSAL_2026-11-02.md). Boda/luna de miel deseadas, ambos quieren familia y proponen esperar; Sukuna candidato a cierre definitivo, Makima/red exterior por desarrollar. No capítulos autorizados. Segundo favor DIO y primera tea party ya cumplidos; registros corregidos.
 
 > **S9 — Trial y recuperación, V54#8:** Trial y recuperación terminados: V53#1–14 y V54#1–8. Último V54#8; boda y siguientes arcos pendientes de planear contigo. [Leer](../THE_ARRIVALS_LN_VOLUME_54_INDEX_v0.1.md) · [Estado](S9_TRIAL_RECOVERY_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_RULERS_TRIAL_AND_RECOVERY_CREATOR_DIRECTION_2026-11-02.md).

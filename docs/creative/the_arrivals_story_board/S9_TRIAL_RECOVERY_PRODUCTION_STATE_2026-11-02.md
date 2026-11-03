@@ -47,3 +47,5 @@ STOPwritingatthisendpoint. PlanwithMauri wedding/honeymoon/calmfuturepregnancytr
 ## Later planning update
 
 [Creator proposes delaying parenthood and planning S9 closures](S9_MARRIAGE_DELAYED_PARENTAL_PLANS_AND_FACTION_CLOSURES_PROPOSAL_2026-11-02.md). No new prose; wedding/honeymoon desired, next plots unapproved.
+
+[Later creator expansion: wedding, honeymoon, public Sukuna wager and relationships](S9_WEDDING_HONEYMOON_PUBLIC_SUKUNA_WAGER_AND_RELATIONSHIPS_CREATOR_EXPANSION_2026-11-02.md). Wager death outcome expressly selected: Mau can be claimed as a shadow controlled by Makima, like a wild animal; mechanism undefined. This is future direction, not an already signed vow. Manuscript still ends V54#8.

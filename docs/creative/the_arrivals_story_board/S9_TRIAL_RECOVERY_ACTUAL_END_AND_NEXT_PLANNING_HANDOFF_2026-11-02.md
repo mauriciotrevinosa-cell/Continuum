@@ -1,5 +1,7 @@
 # S9 — Trial y recuperación terminados: estado para planear lo siguiente
 
+> **Ampliación posterior del creador:** [boda, días de regalos, luna de miel de dos semanas, pacto público Sukuna/Makima y vínculos](S9_WEDDING_HONEYMOON_PUBLIC_SUKUNA_WAGER_AND_RELATIONSHIPS_CREATOR_EXPANSION_2026-11-02.md). Incluye respuesta literal: perder incluso muriendo permite reclamar a Mau como sombra controlada por Makima, animal salvaje; mecanismo por diseñar. Sin capítulos nuevos ni permiso de prosa.
+
 > **Dirección posterior:** [matrimonio, decisión de esperar para un hijo y propuesta de cierres S9](S9_MARRIAGE_DELAYED_PARENTAL_PLANS_AND_FACTION_CLOSURES_PROPOSAL_2026-11-02.md). Nuevo mensaje íntegro, propuesta todavía para opinión; no verde de capítulos. Segundo favor DIO corregido como cumplido por cotejo con la escena de S7.
 
 2026-11-02. Verde cumplido y límite de escritura respetado. **V53 tiene14capítulos; V54 tiene8. Último: V54#8 «Stay for Breakfast», S9E11CH02, B+94 mañana.** No es cierre de S9 ni final de historia. Boda y resto no se escribieron.

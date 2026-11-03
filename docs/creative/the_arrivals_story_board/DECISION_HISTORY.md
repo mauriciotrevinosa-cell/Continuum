@@ -2844,3 +2844,7 @@ Completed22chapterauthorizedRulertrial+recovery atV54#8/B94morning. Mknowsrealit
 ### S9: posponer hijo y planear cierres, 2026-11-02
 
 [Mensaje íntegro y propuesta para opinión](S9_MARRIAGE_DELAYED_PARENTAL_PLANS_AND_FACTION_CLOSURES_PROPOSAL_2026-11-02.md). Creator enjoyed trial/returns/recovery, now asks wedding/honeymoon and shared decision to wait for child/bodymentalstability/marriedlife. Old immediatepregnancy-trigger plan deferred, no automatic replacement crisis. Sukuna candidate definitive closure, larger Makima/Tensura scope to co-design. No next chapter/wedding/death/arrival executed. Audit corrects phantom DIO second favour (fulfilled S7E60CH02) and initial inner tea (held S8E31CH01), preserves manuscript.
+
+### S9: boda, viaje feliz y apuesta de Sukuna, 2026-11-02
+
+[Mensajes íntegros, respuesta de apuesta y escena Shoko](S9_WEDDING_HONEYMOON_PUBLIC_SUKUNA_WAGER_AND_RELATIONSHIPS_CREATOR_EXPANSION_2026-11-02.md). Creator expands wedding→gift/preparationdays→~2weekhoneymoon/~12flexchapters/5dayislandhotel; shopping/storage/personalshopFortgifts, Mai/Yuka and boundedfutureDIOhelpaboutchild. PublicdeathmatchSukuna/auxiliaries/spectatortreaty/propagandastakes; explicit loss even death permits Makima to claim Mau as controlledshadow/wildanimal, not inerttool or sparelife-only. Exactmechanismunapproved. Gojoownfear/Shokokissandplea/Mbadjoke→maternalbond; herbeliefMreturnsisnotimmortalityrule. UmaruRemtalkwithbrothers/Yinvited, othercouples/familycoinsaudit. No nextchapter/wedding/arrival/vow/death/newspellimplemented.

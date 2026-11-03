@@ -1,5 +1,7 @@
 # S9 — Después de la recuperación: matrimonio, cierres y tablero exterior
 
+> **Ampliación posterior del creador:** [boda, días de regalos, luna de miel de dos semanas, pacto público Sukuna/Makima y vínculos](S9_WEDDING_HONEYMOON_PUBLIC_SUKUNA_WAGER_AND_RELATIONSHIPS_CREATOR_EXPANSION_2026-11-02.md). Incluye respuesta literal: perder incluso muriendo permite reclamar a Mau como sombra controlada por Makima, animal salvaje; mecanismo por diseñar. Sin capítulos nuevos ni permiso de prosa.
+
 2026-11-02. **Propuesta para opinión del creador; NO verde de capítulos.** Estado escrito: V54#8/S9E11CH02/B+94 mañana. Trial y recuperación terminados. Se conserva la serie abierta; no temporada final predeterminada ni un villano obligatorio por temporada.
 
 ## Mensaje íntegro nuevo del creador

@@ -30,8 +30,34 @@ El momento sería **V34 #41, «The People Who Would Not Know», Day475 de noche*
 
 **Regla de tamaño:** menos es más. Si funciona, es un arco corto en un solo cuarto, no una temporada en la línea vieja.
 
+## Dirección posterior del creador (prevalece sobre la propuesta de arriba)
+
+> osea mas que nada que osea despeirta despues de lo negro osea como si medio se desmayo y ve donde esta y no sabe como llego ni como regresar si osea puede ser que los rulers o alguien le tiende una trampa o algo lo podemos buscar bien dije trial por decir y algo que me gustaria es que mi manera de verlo eso si sucedio pero cuando sucede el overwrite todo eso se vuelve pasado y el despierta otra ves en lo de las flores y se repite la historia que ahora vivimos y eso puede ser el cierre a eso que cuando el overwrite sucede esa linea se volvio pasado y le da a entender que su despertar en este mundo si tiene un pasado que recuerda aun no responde al primer despertar del mundo de donde el viene etc. si y me encanta la idea que no sea un arco gigante pero puede ser algo demasiado pesado pq tiene que contarle a una yuka que estan armando la vida que se prometieron y esta yuka acepta que ella tendra su momento con el y le pide que mau le muestre lo bonito de este incio cuando la vuelva a ver y que diga que esta muy feliz por ella misma y que la platica con frieren sea de las mas emocionales donde mau le cuenta todo lo que consiguio y lo que esta construyendo y que es feliz y frieren puede sufrir que sabe que no va a estar con mau y mau le dice que no lo necesita para ser feliz  que ella es mas feliz que la habia visto antes y esta frieren le dice que gracias por todo y mau le dice que la verdad si la ama y que perdon que su historia se volvio en una cosa que destruyo todo y que promete en ayudarla a conservar la felicidad que encontro en la otra vida y mau puede tener una convo con ori y esto rompe a mau aun mas y cuando despierte de regreso en la linea nueva esto le da una paz de que la otra vida es lo que le dio inicio a esta y que a pesar de todo esas versiones que si fueron reales de la gente que esta ahora lo dejaron y aceptaron la nueva vida que creo pq de alguna manera son ellos
+
+**Lo que queda fijado por el creador:**
+
+- Mau despierta después del negro, como tras un desmayo, en la línea original. No sabe cómo llegó ni cómo volver. Alguien le tendió una trampa (Rulers u otro, por definir). «Trial» fue sólo una forma de decirlo.
+- La línea original **sí sucedió**. Con el overwrite se volvió pasado: Mau despierta otra vez en las flores y se repite la historia actual. No son mundos paralelos, así que no hay multiverso.
+- Esto cierra una pregunta: su despertar en este mundo sí tiene un pasado que recuerda. **Sigue sin responderse** el primer despertar, el del mundo de donde viene.
+- Arco corto y muy pesado.
+- **Yuka:** él le cuenta a la Yuka que estaba armando la vida prometida. Ella acepta que tendrá su momento con él, le pide que le muestre lo bonito de este inicio cuando la vuelva a ver, y dice que está muy feliz por ella misma.
+- **Frieren:** de las conversaciones más emotivas. Él le cuenta lo que consiguió y construye y que es feliz. Ella sufre porque sabe que no estará con él. Él le dice que ella no lo necesita para ser feliz y que está más feliz que nunca. Ella le da las gracias. Él le dice que sí la ama, le pide perdón porque su historia destruyó todo, y promete ayudarla a conservar la felicidad que encontró en la otra vida.
+- **Ori:** una conversación que lo rompe aún más.
+- **Regreso:** paz. La otra vida fue lo que dio inicio a ésta. Esas versiones reales de la gente lo dejaron ir y aceptaron la nueva vida, porque de alguna manera son ellos.
+
+## Aportes de Claude a esa dirección (propuesta, no canon)
+
+- **La gente que no pudo elegir ahora elige.** La culpa de V34 #41 es «they wouldn't get to choose». Aquí lo saben todo y lo dejan ir. Rimuru y Ciel, que dijeron que no, son quienes dicen que sí. Esto reemplaza la idea anterior de que Mau tuviera que decir que sí otra vez.
+- **La trampa sale al revés.** Quien la tendió quería romperlo. Le da justo lo que nunca tuvo: un adiós.
+- **El color.** El Mau original recordaba el mundo a color y el gris persiste en esta rama. Si en la línea original ve a color, sabe dónde está antes de que nadie hable; ve a Frieren y a Ori a color por última vez; y al volver acepta el gris con Yuka como único color. Es decisión del creador: toca una regla suya («no inventar causa ni cura»).
+
+## Límite de Claude
+
+Claude no escribe romance Mau/Yuka. Las despedidas pueden escribirse como emoción y familia. Si la escena con Yuka necesita ser romántica, se avisa al creador y la escribe otro.
+
 ## Preguntas abiertas
 
-- ¿Es esa noche el momento que tiene en mente el creador?
-- ¿Quién de esta vida se entera, y quién va tras él?
-- ¿Le cuenta después a la casa?
+- ¿Quién tiende la trampa y qué quiere?
+- ¿Cómo vuelve exactamente?
+- ¿Ve a color en la línea original?
+- ¿Le cuenta después a la casa, y a la Ciel de esta rama?

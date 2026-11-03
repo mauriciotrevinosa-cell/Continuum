@@ -2912,3 +2912,7 @@ CompletedpreduelV58withoutS9closure. ActualshortonebarrierfiniteMonarchshadeprac
 ### S9 matrimonio/tablero — V59#1–3, 2026-11-02
 
 Actualpublicduelstarted136 underagreedrules/observers. Foughtfirsth2h, armiesterrain/CErelayShrineevolution, JogoDomain andnativeTenSpositivebladecounters, JogoHanamifinalended notArmyrecruits. Bothprincipalsalive; Mrightarmsevered/sideopened/backimpactbyconditionedexpandedspatialcut, no Infinityuniversalblock. No concurrentCECTs/fullfragmentyet/noobserverhelp. ContinuegreatfightandS9aftermath.
+
+### S9 matrimonio/tablero — V59#4–7, 2026-11-02
+
+Actualduelprogressbothactive, majorfreshwounds/permanentstatsandoldsequelae kept. NoifullconstructedlightfragmentculminatedDURINGfight/liveownerrelation/noAshborndonation/nofreepointsCE. EvolvingsectorShrine/conditionalexpandedcut/Heianformtwoopponentscounteradapt/refine. NativeSAgitoMahodestroyed/Uraumevoluntaryexit/JogoHanamidead, no newroster. FullSukunaknowledgeacquiredthroughactualmemoryspellwithrisk/desorient/bodyskillsstillcost. CreatorLATESTvoluntaryminuteSshadowacceptsofferandreturnsabysshimself, exactmessagepreserved/notforcedMrelease. Continuebattlethenrecoveryseasonclose.

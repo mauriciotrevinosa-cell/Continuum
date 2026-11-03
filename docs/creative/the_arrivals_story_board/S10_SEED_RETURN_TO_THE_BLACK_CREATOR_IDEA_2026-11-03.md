@@ -58,8 +58,18 @@ El momento sería **V34 #41, «The People Who Would Not Know», Day475 de noche*
 - **Color:** en la línea original Mau ve a color. Al regresar, vuelve el gris con Yuka como único color. Esto no da causa ni cura general del gris.
 - **Yuka:** no hay romance en esa escena, sólo una plática. Claude la puede escribir.
 
+## Mecanismo: un devil de Chainsaw Man
+
+Mensaje del creador:
+
+> en chainsaw man existe un devil que puede hacer loque queremos de regresar a un momento tal ves no viaje en el tiempo sino meterlo en algo que nos pueda dar ese arco
+
+**Candidato de Claude (propuesta, no canon): Falling Devil.** Devil primordial del miedo a caer, física y mentalmente, con poderes ligados al trauma sin resolver. Encaja con que Mau «caiga» en lo negro y aterrice en su trauma más hondo. **Makima lo puede traer:** es el Control Devil y ya dijo que no repetiría la idea del gate, así que usar a un devil es coherente. Quiere romperlo; sale al revés. Pendiente leer la fuente primaria en el Vault, en sólo lectura, antes de fijar poderes. Hasta ahora sólo hubo resúmenes web, no lectura de páginas.
+
+**Riesgo que resolver:** un devil de trauma haría pensar que todo pasa en la cabeza de Mau. Eso debilita la regla del creador de que esa vida sí sucedió y esa gente de verdad lo deja ir. **Propuesta:** el devil sólo lo hace caer; donde aterriza es real. Prueba: alguien de allá le dice algo que él nunca supo, y al volver lo comprueba en esta vida.
+
 ## Preguntas abiertas
 
-- ¿Quién tiende la trampa y qué quiere?
+- ¿Quién tiende la trampa y qué quiere? (Candidata: Makima, con Falling Devil.)
 - ¿Cómo vuelve exactamente?
 - ¿Le cuenta después a la casa, y a la Ciel de esta rama?

@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **S9 — Matrimonio y tablero, V55#20:** V55 completo: celebración y días en casa antes del viaje. La continuación sigue con la luna de miel. [Leer](../THE_ARRIVALS_LN_VOLUME_55_INDEX_v0.1.md) · [Estado](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_MARRIAGE_HONEYMOON_AND_SUKUNA_CREATOR_GREENLIGHT_2026-11-02.md).
+> **S9 — Matrimonio y tablero, V56#5:** V56#5: los primeros días de la luna de miel ya están escritos; continúo el viaje. [Leer](../THE_ARRIVALS_LN_VOLUME_56_INDEX_v0.1.md) · [Estado](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_MARRIAGE_HONEYMOON_AND_SUKUNA_CREATOR_GREENLIGHT_2026-11-02.md).
 
 > **S9 — Yuka/Mai/inventario/Milim, aclaraciones 2026-11-02:** [mensaje íntegro y aplicación](S9_YUKA_MAI_INVENTORY_UMARU_REM_AND_MILIM_CALIBRATION_CREATOR_CLARIFICATIONS_2026-11-02.md). Yuka ama bondadM yse enfada con quienes la explotan; bromaGojo/papá; Mai16origen+tiempovivido/experienciaíntimaelecciónArrivals; inventariomostradoANTESdecomprar; UmaruRemprimercitaconvoluntad;5%VeldoraMilim≈110%referenciaSukuna comoescalaautoral. No capítulos nuevos.
 

@@ -1,5 +1,7 @@
 # The Arrivals: cast ledger (living document, created 2026-10-10)
 
+> **Estado producido vigente S9 — V56#5 / B+113, 2026-11-03:** Mau y Yuka se casaron B105 (V55#14); V55 completo20caps, viaje109–122 en curso/hotel-isla113–118. [Registro actual de escenas, relaciones, objetos, cuentas y siguiente tramo](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) gobierna sobre los snapshots históricos inferiores. Ya se mostró la pausa íntima elegida de ambos en110: desean familia futura, disfrutan el matrimonio antes; no sexo/concepción/embarazo. DIO aloja por elección en miniInn protegido; Ashborn viaja como huésped consentido. GrisexceptoYuka/secuelas/ejército6615/nivel200/puntos0 permanecen. No retoSukuna ni pacto de combate producido todavía.
+
 > **Verde posterior del creador —2026-10-24:** cierre overwrite y producción de Old New Days autorizados. [Mensaje íntegro15](S6_OVERWRITE_OLD_NEW_DAYS_CREATOR_FULL_PROPOSAL_2026-10-24.md). El cierre activo termina enV34#41; la promesa de familia está en38. Los antiguos42–45 se conservan íntegros en [archivo del desenlace sustituido](S6_PRE_OVERWRITE_PUBLISHED_ENDING_ARCHIVE_2026-10-24.md), fuera de la secuencia de novelas. Los antiguos46–48 nunca se publicaron. Este permiso es para escribir borradores, no aprobación final de lectura.
 
 

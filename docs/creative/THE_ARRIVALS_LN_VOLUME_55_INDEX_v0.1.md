@@ -11,6 +11,8 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_54_INDEX_v0.1.md) · [Creator direction](the_arrivals_story_board/S9_MARRIAGE_HONEYMOON_AND_SUKUNA_CREATOR_GREENLIGHT_2026-11-02.md) · [Continuity](the_arrivals_story_board/S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md).
 
+[Continue in Volume 56](THE_ARRIVALS_LN_VOLUME_56_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

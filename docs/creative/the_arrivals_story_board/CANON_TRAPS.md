@@ -490,3 +490,11 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 - **Mau se levantó sin resurrección:** paró el corazón común, no el Corazón Negro; registro activo todo el tiempo. El despertar del Trial es reflejo de cuerpo, no regla del mundo. Nadie en las gradas lo sabe salvo por deducción.
 - **Morder fue Mau, no el archivo.** Ciel lo comprobó. Solo Ciel y Mau lo saben. No suavizarlo después.
 - **El archivo de Sukuna está sellado y casi sin digerir.** Incluye la cocina; no compartirlo con nadie por ósmosis.
+
+## Aftermath del duelo, V60 revisado (2026-11-03)
+
+- **Mau se recupera.** El daño del duelo no deja disfunción permanente. No escribir brazo derecho inútil ni daño cognitivo como condición de S10 (creador).
+- **Yuka no es su enfermera.** La casa turna en la pared de la clínica; ella tiene su vida, entrena y puede enojarse.
+- **Rem es «Deputy» de las aves del Fort**, insignia de tapa de frasco, por el pájaro del hotel. Es broma de Umaru, no etiqueta de pareja.
+- **Ciel contó hasta 311 y luego 312.** Ashborn y DIO vieron 7 minutos un piso que no se abrió; Mau no sabe qué significa eso.
+- **La rueda dibujada en muros** es de la gente que le teme, no una secta confirmada.

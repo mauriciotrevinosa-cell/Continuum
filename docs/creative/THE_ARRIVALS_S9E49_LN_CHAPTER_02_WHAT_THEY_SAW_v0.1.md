@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 60
-## Chapter 2 — What They Saw
+## Chapter 4 — What They Saw
 
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 60
-**Reading order:** 2
+**Reading order:** 4
 **Source episode:** S9E49
 **Continuity state:** B+137. Medical observation continues. Moratorium through noon. Separate departures. Divergent witness accounts.
 

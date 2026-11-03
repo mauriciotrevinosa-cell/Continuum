@@ -2932,3 +2932,7 @@ Season Nine closes at V60#3. Quarry evacuation, agreed separate departures, last
 ### S9 duelo V59 reescrito y extendido, 2026-11-03
 
 Encargo del creador: nivel Gojo contra Sukuna, final salvaje, "no te limites". V59 de 12 a 23 capítulos y de unas 11.700 palabras a la extensión actual. Nuevas evoluciones de Shrine previas al duelo, reloj de Mahoraga, choque de dominios, rueda propia de Mau, final con registros activos. Sin voto decisivo nuevo. Pequeños ajustes en V60#1–2 para el corte y la mordida. Diseño en `S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md`. La despedida previa al combate no se tocó; Claude no escribe beats románticos Mau/Yuka.
+
+### S9 aftermath V60 ampliado, 2026-11-03
+
+Por petición del creador, V60 de 3 a 18 capítulos y cierre en B+152. Escena Rem/Yuka según su mensaje. Regla: recuperación con tiempo, sin pérdida de lo construido. S10 no iniciada.

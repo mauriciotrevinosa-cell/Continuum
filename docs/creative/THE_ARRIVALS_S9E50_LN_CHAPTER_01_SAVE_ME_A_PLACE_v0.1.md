@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 60
-## Chapter 3 — Save Me a Place
+## Chapter 11 — Save Me a Place
 
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 60
-**Reading order:** 3
+**Reading order:** 11
 **Source episode:** S9E50
-**Continuity state:** B+140. First short supported outing. Persistent weakness, visual and neural follow-up. Season Nine ends at home.
+**Continuity state:** B+140. First short supported outing. Recovering, with weakness and neural follow-up; expected to return to prior health with time.
 
 *When: Mau asks how far it is to dinner, Yuka says she will show him.*
 

@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **S9 — Aftermath V60 ampliado, 18 capítulos, cierre B+152:** [Volumen](../THE_ARRIVALS_LN_VOLUME_60_INDEX_v0.1.md) · [Dirección](S9_AFTERMATH_REM_YUKA_AND_RECOVERY_CREATOR_DIRECTION_2026-11-03.md).
+
 > **S7–S9 — Casa, hilos y escala, respuesta del creador, 2026-11-03:** [Mensaje y aplicación](S9_CREATOR_ANSWER_REASONABLE_HOUSE_THREADS_AND_POWER_SCALE_2026-11-03.md). No reescribir S7–S9; sin problemas multiversales; S10 después.
 
 > **S9 — Duelo V59 reescrito, 23 capítulos, 2026-11-03:** [Volumen](../THE_ARRIVALS_LN_VOLUME_59_INDEX_v0.1.md) · [Diseño, con spoilers](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md).

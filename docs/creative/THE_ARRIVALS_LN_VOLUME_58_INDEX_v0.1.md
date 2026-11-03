@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 58
 **Season:** 9
-**Coverage:** S9E38–S9E39 (in progress)
+**Coverage:** S9E38–S9E41 (in progress)
 **Volume title:** **The Weight of a Promise**
-**Chapter files:** 4
+**Chapter files:** 8
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -19,3 +19,7 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 | 2 | S9E38 | Nobody Else on the Page | `THE_ARRIVALS_S9E38_LN_CHAPTER_02_NOBODY_ELSE_ON_THE_PAGE_v0.1.md` |
 | 3 | S9E39 | What a Monster Calls Fair | `THE_ARRIVALS_S9E39_LN_CHAPTER_01_WHAT_A_MONSTER_CALLS_FAIR_v0.1.md` |
 | 4 | S9E39 | The Strongest One Staying | `THE_ARRIVALS_S9E39_LN_CHAPTER_02_THE_STRONGEST_ONE_STAYING_v0.1.md` |
+| 5 | S9E40 | Which Memory Is Yours | `THE_ARRIVALS_S9E40_LN_CHAPTER_01_WHICH_MEMORY_IS_YOURS_v0.1.md` |
+| 6 | S9E40 | Before Anyone Calls It Death | `THE_ARRIVALS_S9E40_LN_CHAPTER_02_BEFORE_ANYONE_CALLS_IT_DEATH_v0.1.md` |
+| 7 | S9E41 | A Room Without an Army | `THE_ARRIVALS_S9E41_LN_CHAPTER_01_A_ROOM_WITHOUT_AN_ARMY_v0.1.md` |
+| 8 | S9E41 | The Things They Bring | `THE_ARRIVALS_S9E41_LN_CHAPTER_02_THE_THINGS_THEY_BRING_v0.1.md` |

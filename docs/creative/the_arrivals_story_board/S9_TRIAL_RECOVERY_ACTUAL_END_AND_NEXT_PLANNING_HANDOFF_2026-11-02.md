@@ -1,5 +1,7 @@
 # S9 — Trial y recuperación terminados: estado para planear lo siguiente
 
+> **Dirección posterior:** [matrimonio, decisión de esperar para un hijo y propuesta de cierres S9](S9_MARRIAGE_DELAYED_PARENTAL_PLANS_AND_FACTION_CLOSURES_PROPOSAL_2026-11-02.md). Nuevo mensaje íntegro, propuesta todavía para opinión; no verde de capítulos. Segundo favor DIO corregido como cumplido por cotejo con la escena de S7.
+
 2026-11-02. Verde cumplido y límite de escritura respetado. **V53 tiene14capítulos; V54 tiene8. Último: V54#8 «Stay for Breakfast», S9E11CH02, B+94 mañana.** No es cierre de S9 ni final de historia. Boda y resto no se escribieron.
 
 ## Lectura y duración
@@ -44,6 +46,6 @@ Kurobe+12 sevanrealmenteB86. Geld+2 despuéshandoffB88, despedidaenapartamento. 
 
 ## Lo siguiente se planea con Mauri
 
-Verdeúltimo: trialyrecuperaciónsolamente. NO continuarporautonomía a boda/lunademiel. OrdenaceptadoparaFUTURO: recuperaciónreal→boda→lunademiel→calma→descubrimientodelsegundolatidodeYuka/embarazo→decisiónerróneaplaneadafrenteamenazas/Makima. Eseorden protege alegríadelabodayno convierte recuperaciónenfarsa. Requiere definirfechas, decisionesyconsecuencias juntos.
+Verdeúltimo: trialyrecuperaciónsolamente. NO continuarporautonomía a boda/lunademiel. Nueva dirección posterior: boda y luna de miel deseadas; ambos quieren familia, pero proponen esperar a mayor estabilidad y disfrutar matrimonio. Embarazo y latido como detonante inmediato del error quedan aplazados. Todo arco posterior requiere planificación conjunta; no hay embarazo ni sexo escritos.
 
-Mantenerpendientes: segundoprecioDIO; nombreNoise; favorRimuru/Yuka; regaloartesanalsombrassecretosinentregar; Shizue/Rsentimientosabiertos; monedasvoluntariaspin/reservas/familiasfaltantes; investigaciónanimal; bandosMakimaArquitectoSukuna/Rulers; fragmentodesarrollo/costos/canalJin-Woo. Boda no paga deudasni cancelapreciosporomisión. Ningúnfinaldelahistoriapredeterminado.
+Segundo favor de DIO YA CUMPLIDO por el refugio en S7E60CH02; no nueva deuda. Mantener pendientes: nombre Noise; favorRimuru/Yuka; regaloartesanalsombrassecretosinentregar; Shizue/Rsentimientosabiertos; monedasvoluntariaspin/reservas/familiasfaltantes; investigaciónanimal; bandosMakimaArquitectoSukuna/Rulers; fragmentodesarrollo/costos/canalJin-Woo. Boda no paga deudasni cancelapreciosporomisión. Ningúnfinaldelahistoriapredeterminado.

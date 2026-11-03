@@ -81,7 +81,7 @@ Vigilancia: animal con actividad extranjera, Ram observó ruta parcial desde otr
 
 Ashborn descubrió análisis funcional continuo más allá de la compatibilidad permitida V41#19–20. Pleito real V51#8–11: recuerdos privados nunca abiertos, Mau no ordenó a escondidas/ni mintió conscientemente; él/Ciel confundieron control de construcción/memorias con límite suficiente de inferencia. Responsabilidad reconocida. Modelos operativos derivados no autorizados retenidos aparte/sin uso, no falsa amnesia. Filtro de contacto mínimo revisado/consentido y probado por huéspedes: estado/llamada/salida; detalle funcional sólo cuando huésped elige. Nuevos controles se revisan, no seguridad perfecta proclamada.
 
-Ashborn ofrece **nueva referencia acotada y voluntaria** del mecanismo de poder heredado, sin alma/historia privada/servicio de guerra. Puede decir no sin perder refugio. DIO elige cercanía con condiciones propias. Amigos pueden decir no; Noise quiere ser amigo quieto, nombre todavía pendiente. Propuesta de Echidna para té interior sigue invitación por acordar, no permiso para meter siete huéspedes nuevos sin preguntar.
+Ashborn ofrece **nueva referencia acotada y voluntaria** del mecanismo de poder heredado, sin alma/historia privada/servicio de guerra. Puede decir no sin perder refugio. DIO elige cercanía con condiciones propias. Amigos pueden decir no; Noise quiere ser amigo quieto, nombre todavía pendiente. La primera tea party interior ya ocurrió en V45#7/S8E31CH01 «The Host», con consentimiento. Futuros encuentros requieren sus propias invitaciones; no es una primera visita pendiente.
 
 ## Poder al cierre: NO confundir plano con evolución terminada
 
@@ -102,6 +102,6 @@ Gris exceptoYuka, ojo izquierdo borroso, dos dedos viejos rígidos, cicatrices/m
 - Monedas: distribución/invocaciones con pin, búsquedas/reservas voluntarias. Revisar titular/transferencia/gasto real antes de una llegada. No traer Ko/Subaru porque una escena los necesita.
 - Embarazo/hijo, ruta elfa/vida larga/descanso eventual son posibilidades posteriores. MY esperan boda, embarazo normal9meses si se elige; sin concepción/sexo/nacimiento decidido ahora.
 - Makima/Arquitecto/Sukuna/otros bandos, vigilancia y mundos/política siguen abiertos. No final de serie/antagonista obligatorio por temporada ni nueva guerra para arruinar la cena.
-- Precio segundo de DIO no cancelado ni cobrado por refugio; mantener pendiente original. Nombre Noise pendiente. Favor Rimuru/Yuka abierto. Shizue/Rimuru sentimientos por explorar sin forzar pareja. Otros vínculos abiertos conservan avance actual.
+- Segundo favor de DIO cumplido por el refugio elegido en S7E60CH02; no deuda pendiente ni nueva cobranza. Su seguridad y responsabilidad siguen como hilos distintos. Nombre Noise pendiente. Favor Rimuru/Yuka abierto. Shizue/Rimuru sentimientos por explorar sin forzar pareja. Otros vínculos abiertos conservan avance actual.
 
 Al continuar, leer primero este estado, hogares efectivos e índices finales. No reiniciar una relación, llegada, cama o porcentaje porque cambió el volumen/coautor. No leer material sellado del autor para resolver incógnitas.

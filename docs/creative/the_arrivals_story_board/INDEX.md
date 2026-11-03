@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **S9: matrimonio e hijo aplazado; propuesta de cierres — 2026-11-02:** [mensaje íntegro y mapa para opinión](S9_MARRIAGE_DELAYED_PARENTAL_PLANS_AND_FACTION_CLOSURES_PROPOSAL_2026-11-02.md). Boda/luna de miel deseadas, ambos quieren familia y proponen esperar; Sukuna candidato a cierre definitivo, Makima/red exterior por desarrollar. No capítulos autorizados. Segundo favor DIO y primera tea party ya cumplidos; registros corregidos.
+
 > **S9 — Trial y recuperación, V54#8:** Trial y recuperación terminados: V53#1–14 y V54#1–8. Último V54#8; boda y siguientes arcos pendientes de planear contigo. [Leer](../THE_ARRIVALS_LN_VOLUME_54_INDEX_v0.1.md) · [Estado](S9_TRIAL_RECOVERY_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_RULERS_TRIAL_AND_RECOVERY_CREATOR_DIRECTION_2026-11-02.md).
 
 > **Producción resto S8 — V52#16:** S8 CERRADA en V52#16: pueblo habitado y cena familiar. Boda, sistema pleno y propuesta de trial Rulers siguen para planear S9; S9 no iniciada. [Leer](../THE_ARRIVALS_LN_VOLUME_52_INDEX_v0.1.md) · [Estado/relaciones](S8_REMAINING_SEASON_PRODUCTION_STATE_AND_RELATIONSHIPS_2026-11-02.md) · [Verde](S8_REMAINING_SEASON_CREATOR_GREENLIGHT_2026-11-02.md).

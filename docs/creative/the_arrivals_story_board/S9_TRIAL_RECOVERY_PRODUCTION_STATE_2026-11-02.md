@@ -39,6 +39,11 @@ TrialB87–88roughlyonedayoutside/countlostsubjectivehundreds-thousandspossible;
 
 Recovery: initialclinicrepairedbrokenleftarm/flankusingexistingabilities, ownhomeB88, onequietnightrequestYchoosesMakifamilySat/repeatsbrieflybyagreement/dailycontact, breakfastB89kept. AdultfamilybasicconditiononlyMexplicitperm/nopublicfile; GojoprivatepleaconversationB90/Mwantedhome; Noisegratitude/Ashbornscopedconsentconfirmed/DIOlearnedpastaccountability. YfullyreturnsbedB90night/B91, closenesssleepchoiceskept, nosex. B92Bocchimusicsiblingvisit/Fortgame/OriMumFrieren/drawing/RemUhandinterestnotnewpair. B93Shokocheck/shortwalktree/cena/B94sharedmorning. Mfunction/sleep/affectionimproved,startles/needrestremain/notfullcureorcombatclearance.
 
-MYengagedabstinent3bedhomeRShizue; no brokenrelationships/newfamily/coins/bedshifts. Kurobe12actualdepartB86/Geld2B88/HTestaSoueiB90afterchosenreview. Level200Int520points0/6615armyunchanged/oldfingerslefteyegreyexceptY/scarsmaintained. No fragmentintegration/fullBlackHeart/capbreak/newXP. NameNoise/secondpriceDIO/RYfavour/giftsecret/spycase/monedasallremainopen.
+MYengagedabstinent3bedhomeRShizue; no brokenrelationships/newfamily/coins/bedshifts. Kurobe12actualdepartB86/Geld2B88/HTestaSoueiB90afterchosenreview. Level200Int520points0/6615armyunchanged/oldfingerslefteyegreyexceptY/scarsmaintained. No fragmentintegration/fullBlackHeart/capbreak/newXP. NameNoise/RYfavour/giftsecret/spycase/monedas remain open. DIO second favour was already fulfilled by refuge (S7E60CH02); earlier pending label corrected.
 
 STOPwritingatthisendpoint. PlanwithMauri wedding/honeymoon/calmfuturepregnancytriggeredrecklessMakimadecisionlater. No pregnancy/date/sex/violentfollowuparcstarted. Currentfinalquietbreakfastminuteownsthem, notnewdoom.
+
+
+## Later planning update
+
+[Creator proposes delaying parenthood and planning S9 closures](S9_MARRIAGE_DELAYED_PARENTAL_PLANS_AND_FACTION_CLOSURES_PROPOSAL_2026-11-02.md). No new prose; wedding/honeymoon desired, next plots unapproved.

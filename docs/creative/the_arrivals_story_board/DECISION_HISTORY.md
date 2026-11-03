@@ -2840,3 +2840,7 @@ Recoveryscenesactualclinicandhome/Yone-nightspaceaskednotdisappearance/actualB89
 ### S9 trial/recuperación — V54#5–8, 2026-11-02
 
 Completed22chapterauthorizedRulertrial+recovery atV54#8/B94morning. Mknowsreality/startlesremain/functionsleepaffectionreturn/ordinaryhousecohesion. ChosenreportMconvincedMakima/HOUSEevidenceboundednotomniscience; Gojopleapitynotdesiredeath; YreturnsharedbedB90confirmed/nosex. ActualvisitorsdepartB90/no newarrivalsstatscoinsarmychanges. CompletehandoffrecordsproducertruthvscharacterknowledgeandSTOPbeforeweddinghoneymoonpregnancyfutureMakimarecklessplan. Oldchaptersunaltered.
+
+### S9: posponer hijo y planear cierres, 2026-11-02
+
+[Mensaje íntegro y propuesta para opinión](S9_MARRIAGE_DELAYED_PARENTAL_PLANS_AND_FACTION_CLOSURES_PROPOSAL_2026-11-02.md). Creator enjoyed trial/returns/recovery, now asks wedding/honeymoon and shared decision to wait for child/bodymentalstability/marriedlife. Old immediatepregnancy-trigger plan deferred, no automatic replacement crisis. Sukuna candidate definitive closure, larger Makima/Tensura scope to co-design. No next chapter/wedding/death/arrival executed. Audit corrects phantom DIO second favour (fulfilled S7E60CH02) and initial inner tea (held S8E31CH01), preserves manuscript.

@@ -1,160 +1,146 @@
 # The Arrivals — Light Novel — Volume 59
-## Chapter 4 — The Name in the Join
+## Chapter 7 — The Name in the Join
 
-**Status:** LN PRODUCTION DRAFT — S9 v0.1 (2026-11-03)
+**Status:** LN PRODUCTION DRAFT — S9 v0.2 (2026-11-03)
 **Volume:** 59
-**Reading order:** 4
+**Reading order:** 7
 **Source episode:** S9E44
-**Continuity state:** B136duelcontinuous. Makima/Umaru verbalencounterunderobservervows/RemTaiheinear/no supernaturalcoercion/fieldaid. BerumanahealsfreshMdamageownreserve/notCErefill; interruptedformremadeoncecost. SfirstopenShrine/MbriefVoidcounterbreaks→MCTburnout;S ownShrineFurnace, MusesknownboundedTrueDragonpressureONLY/CEcastingoff/nativeMahoOFF. Noiactualfull LIGHTFRAGMENTconstruction/BlackHeartrootjoining DURINGbattleconsentedM/Ciel/boundedAshbornreference notguestpower. Governorcapfailsrepresentation, earnedstats/pointsunchanged/CEfinite/oldsequelae persist. Currentrightarmreforming/freshdamagepartial, notperfectrecovery. Bothprincipalsalive.
+**Continuity state:** B136 duel continuous. Furnace in charged field. Mau uses known bounded True Dragon pressure only, CE casting off, native Mahoraga off. Noise completes the light fragment and Black Heart root joining during battle with M/Ciel consent and bounded Ashborn reference, not guest power. Governor cap fails; earned stats and points unchanged; CE finite; old sequelae persist. Right arm reforming: new flesh, partial function. Both principals alive.
 
-*When: Umaru sits down again, Makima asks whether she has always trusted him this much.*
-
-Rem is beside her. Taihei is at the end of the short row. The question has not found a child lost in the crowd; it has found a person who has chosen to be here and is discovering how much choosing can hurt.
-
-Umaru looks toward the panel.
-
-“He's my brother.” ᵁ
-
-“That wasn't what I asked.” ᴹᵏ
-
-“It was the answer.” ᵁ
-
-Makima watches the little hand tightening around Rem's.
-
-“If he saw that, he would probably try harder. Perhaps next time he would tell you less. It must be difficult, making someone kind feel safe enough to stop.” ᴹᵏ
-
-Umaru's face changes. For a moment the words find the exact place they were looking for.
-
-Then she turns toward the woman properly.
-
-“He came home and taught me a card trick he was terrible at,” she says. “You weren't there for any of the parts you keep explaining.” ᵁ
-
-Her voice shakes at the end.
-
-Rem moves closer. Taihei asks Makima to leave their row. The observer terms allow the request; they do not require a conversation to continue because somebody powerful enjoys it.
-
-Makima rises without an argument.
-
-Umaru keeps looking at the panel until her eyes stop focusing.
-
-“I hated that,” she whispers. ᵁ
-
-“I know,” Rem answers. ᴿᵉ
-
-* * *
-
-Beru's hand presses against Mau's ruined side.
-
-His healing enters with the reserve which belongs to him. It does not pour new cursed energy into Mau or make the arm whole before Sukuna arrives. It seals the place which would kill him first and gives the next breath somewhere to go.
-
-Mau moves on that breath.
-
-Sukuna cuts Beru between shoulder and chest.
-
-The ant's form opens. Mau pays for its return while rolling beneath the second attack, the remade claws arriving quickly enough to catch the arm which would otherwise have finished the stroke.
-
-“My King,” Beru says through his teeth, “I was working.” ᴮᵉ
-
-Mau laughs once, painfully.
-
-He takes the instant his knight made and moves.
-
-* * *
-
-The shrine opens behind Sukuna.
-
-No wall rises around it. Its reach enters the broken stone, the air above the basin and the companies moving through it. Mau answers with the small Void barrier he has actually practised, holding a quiet inside against an outside which has begun cutting its skin away.
-
-Three seconds would be a gift.
-
-He gets less.
-
-The barrier breaks. Burnout takes the technique with it. Sukuna's next cuts arrive at a body which has no Infinity left to put between them and flesh.
-
-Mau reinforces. Repairs. Gives up the ground which would put the nearest officers inside the deepest cutting. Ciel makes him stop trying to cure every shallow line while a deeper one is taking the movement from his leg.
-
-He can see the change in the dust before Sukuna opens his hands.
-
-Every particle inside the shrine has been prepared.
-
-“Open,” Sukuna says. ˢᵘ
-
-* * *
+*When: the fire reaches the first grain, Mau has already said it.*
 
 “Ciel. The scale. Only that.” ᴹ
 
-The known pressure-body answers from the place he once kept walled.
+Something old answers.
 
-Not a second person. Not a full true dragon arriving to win the fight for him. The old pattern comes around his own damaged body for the short interval it can be supported, while his burned-out cursed techniques stay unavailable.
+It lives low down, behind a wall he built himself and has checked every morning for a very long time, and it has been restless for most of that time. It belongs to a cave, and to a friend. It should not fit in a person. The last time he used it, he got forty seconds and two fingers that never closed again.
 
-Fire enters it.
+It comes up around him now like a great hard breath. It's a body of pure pressure, close and huge, standing on the same spot as his own. He doesn't grow. Nobody gets up inside him. The air has simply stopped being able to come within a hand's width of his skin.
 
-For a moment the basin is too bright for the viewing panels to keep detail. The outer shields take the force which reaches their declared boundary and dissipate it away from the spectators. Nothing reaches back into the field.
-
-Inside the fire, the pressure layer begins failing.
-
-Mau feels the old demand for more than his receiving body can pass. A massive source behind a passage too narrow to use it. The same problem Noise has been measuring, now changing with every repair Beru began and Mau is trying to finish.
-
-Noise finds the missing relation.
+Then the fire comes.
 
 * * *
 
-It does not ask Ashborn to wake.
+On the ridge the panels go white and stay white.
 
-The guest is in an ordinary room, hearing a quiet account he chose to receive. His reference has already been given. The piece Noise constructs from it and the observed light belongs to the work Mau authorised, not a stolen soul brought to the field in secret.
+People who were looking at them have to look away, and that is how they find out that the outer shields are lit up from end to end, and that there's a sound, and that the sound has been going on for some time. All that dust. All that fine stone fog which Sukuna made out of his enemies, a thousand acres of it, and every grain was a spark waiting for permission. The whole quarry has become the inside of a lamp.
 
-*The joining,* Ciel says. *It has the live answer.* ᶜⁱ
+The barrier holds. Diablo has both hands on it now and has stopped smiling. Beside him Milim stands with her feet apart and her head down, pushing, her small face bright orange. She is saying something over and over, and it might be a threat.
 
-Mau can barely hear through the pressure.
+Ramiris's light gives up on detail. It shows them a white square.
 
-*Whose?* ᴹ
+Below it, on the second bench, Yuka hasn't moved. She keeps looking at the place in the square where he was.
 
-Noise puts the small piece where the old structure has been waiting for another person's name.
+* * *
+
+Inside the fire there is a very small dark space, and in it someone is failing.
+
+The scale doesn't have the fuel. That's the whole trouble with it, that's always been the trouble. The thing behind it could take this furnace and yawn. But it has to come through him, and he has a passage about as wide as a drinking straw. He can feel the enormous pressure of what's on the other side, and it's so much. There's a whole ocean up against a door the size of his hand. It has been there since the first day he found out about it. Everybody knows. Everyone has looked at it, with charts. There's a number at the top of a window that tells him how much he's allowed.
+
+Two hundred.
+
+He's been very good about it. He has stayed under the number.
+
+The pressure layer begins to go. It starts at the feet, where they tell you it would. He smells his own boots.
+
+*Forty seconds would be a miracle,* Ciel says. *I'm giving you eleven. Eight. Mau, I have looked. There's nothing else.* ᶜⁱ
+
+Something moves, down in the join.
+
+* * *
+
+Noise has been working on this for a long time.
+
+It does not talk much. It has been called a good many things, and it took a while to be asked what it wanted to be called. For the last month it has been sitting with a small unfinished piece of light, turning it over and over. *Wait,* it said two days ago, when Mau came and looked at the gap. *Wait.* It needed to see something it could not get at home, on a safe afternoon, on a steady load.
+
+It needed to see the relation between what's on the far side of the door and a body that is actively, right now, being taken apart and trying to answer.
+
+It is getting a very good look.
+
+It doesn't ask Ashborn to wake. The old monarch is in an ordinary room with the window open, listening to a quiet account he chose to hear, and whatever he gave Noise he gave weeks ago and of his own will. It's a reference, nothing more. This is not his power. The last thing he wanted was for it to be anybody's.
+
+Everything else Noise has built itself. All those dead-end drafts. Every failed morning.
+
+*The joining,* Ciel says, and her voice changes. *Mau. It has the live answer.* ᶜⁱ
+
+He can barely hear her through the pressure. There's a place in the Black Heart, down at the root, where a line was left blank. It has always been blank. It was made by someone who meant for the name in it to be somebody else's, and when Mau found it he had thought it was a scar.
+
+*Whose?* he asks. *Noise. Whose name goes in it?* ᴹ
+
+And Noise, who has hardly ever spoken to him aloud, picks up the little piece of light and sets it in the join.
 
 “Yours,” it says. ᴺ
-
-Mau has time to understand one thing: this will not make somebody else stand up inside him.
 
 *Do it.* ᴹ
 
 * * *
 
-The light fragment closes.
+The light closes.
 
-The Black Heart answers through the completed relation, no longer waiting for the Architect's allocation structure to decide where the body carrying it must end. The old window tries to make the event another number.
+It is a very small event. There's no blast. Up on the ridge they can't see anything but a white square. In a guest room half a day's road away, an old man stops with a cup halfway to his mouth, and he sets it down again without drinking.
 
-Two hundred remains for a moment.
+The Black Heart beats once.
 
-Then the ceiling line breaks.
+It has beaten a great many times. It has been beating all this time inside a man it did not fit, under a governor that was not built for him. Each of those beats has been a thing that happened in another room.
 
-No points arrive. No centuries of practice become free. The world does not suddenly contain an uninjured Mau.
+This one happens in his chest.
 
-What changes is the passage.
+The old window opens itself. It's frantic, it wants very much to help, it tries to make this into a number.
 
-The source can reach the repair already trying to keep him together without the old governor choking the answer back into its prepared limit. His flesh is still damaged. His cursed energy is still finite. Ciel keeps the little emergency margin closed while Noise takes the known body-support pattern and gives it room to work.
+*Level: 200.*
 
-The pressure layer holds one last instant.
+*Level: 200.*
 
-Mau uses it to leave the centre of the furnace.
+*Level: 2*
+
+The line at the top of it breaks like a hair on a hot stove.
+
+No points arrive. Nothing pours into him that he has not already paid for. All the strength he has is the strength he earned, every bit of it, with his own hands and on his own bad days. He has been carrying it around for months like a man who owned a mountain and was permitted to use a bucket.
+
+They have taken away the bucket.
+
+The door is not open. It will never be open; that would kill him in the time it takes to say so. It's only that it's a door, now. Not a straw. And the first thing through it, before he has even thought, is the repair that has been screaming in his body for a quarter of an hour.
+
+It goes down his right side like a hot wire.
+
+He looks. There's nothing else to look at, in here, with the world on fire. Out of the end of the stump something has started to come. He can see the shape of it, a long dark bone being drawn in the air, with new wet muscle crawling up it.
+
+It's not a nice thing to watch.
+
+*Noise is holding the pattern,* Ciel says. She has stopped sounding like someone reading a chart. *It'll be yours. It will be weak. Don't you dare let go of this reserve, it's still only what you have, the margin's still—Mau, your legs. The scale's done. Leave it. Leave it now, it's only going to hurt you, you don't need it. Go. Mau, go. Go.* ᶜⁱ
+
+He goes.
 
 * * *
 
-He comes out through fire with half an arm beginning to be an arm again and blood on a face Sukuna can still recognise.
+The first anyone knows of it is a shape in the white.
 
-The scale falls away. It has done its task; holding the old pattern longer would only turn the new passage into a larger way to hurt himself.
+Then it isn't white. The fire is dying at last, running out of things to burn, and the fog has turned to glowing cinders drifting down. Sukuna stands in it with his hair smoking, one hand still raised, and he's already begun to turn away. Then he stops, and turns back, and his eyebrows go up.
 
-Mau hits the ground running.
+Someone is walking out of the furnace.
 
-The strength he earned before today is still there. The receiving body has room to answer with more of it, and the difference is frightening enough that his first step goes too far.
+His shirt hangs off him in burned strips. The top of his left ear is gone, and so is a good part of the skin on his back. He has half an arm on the right side, and it is still growing, the fingers just budding at the end of it. There's a light in his chest. It's very faint, and it's visible through the skin, between the ribs. He can't see what colour it is. On the ridge, in the sudden silence, a great many people could tell him. They will disagree about it for years.
+
+The walk becomes a run. His first step goes much too far. He hadn't meant that. He sails past the spot he was aiming for and has to catch himself on the ball of his foot, a little startled, like someone who has gone up a stair that wasn't there.
 
 He corrects the second.
 
-Sukuna meets him at the third.
+Sukuna meets him at the third, both hands up, ready, interested, the guard of a man who has met everything.
 
-Mau's left fist strikes the man's guard, drives through it and moves him backward for the first time without a trick of the ground.
+Mau hits him with his left hand.
 
-Sukuna lands, blood bright at his mouth.
+He doesn't use a technique. He has no techniques. He has a fist, with two fingers in it that don't close right, and everything he's ever been allowed to carry.
 
-Looks up.
+It goes through the guard.
 
-Begins laughing.
+It goes through the guard like the guard was a thing somebody had left out. There's a *crack* that reaches the ridge before the picture does. Sukuna leaves the ground. He goes backward across forty yards of smoking rock with his heels cutting two long lines in it, and it's the first time, the very first time all day, that he has been moved without a trick of the ground.
+
+He stops, a long way off.
+
+He stands quite still, with his head down. Blood runs from his mouth and drips off his chin, very bright.
+
+Nobody on the ridge breathes.
+
+He touches his jaw. It's broken. He moves it from side to side, and it clicks, and something in his face comes up slowly, like a thing rising through deep water, something nobody up there has ever seen. He looks up.
+
+He begins laughing.

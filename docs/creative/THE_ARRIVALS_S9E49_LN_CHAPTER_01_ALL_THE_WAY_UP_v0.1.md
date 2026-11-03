@@ -5,7 +5,7 @@
 **Volume:** 60
 **Reading order:** 1
 **Source episode:** S9E49
-**Continuity state:** B+136. Quarry triage and evacuation. Confirmed verdict stands. No additional shadow.
+**Continuity state:** B+136. Quarry triage and evacuation. Shoko closes the world cut (clean, soldiers release row by row) and treats the bite. Confirmed verdict stands. No additional shadow.
 
 *When: Shoko asks Mau to look at her, he turns his whole head.*
 
@@ -15,7 +15,17 @@ She catches it before he can turn far. A look should cost him less than that.
 
 His right eye finds her. It slips once and comes back. She had let herself picture a great many things while he was on the ground. She had forgotten he might need to be told where to look.
 
-Yuta opens the kit beside her. His hand goes straight to the roll she wants. He holds it within reach and waits for her to take it, then puts both hands where she shows him. They work until the terrible small effort it takes Mau to get air stops getting smaller.
+Yuta opens the kit beside her. His hand goes straight to the roll she wants. He holds it within reach and waits for her to take it, then puts both hands where she shows him. They start with the neck. It was done with teeth, and nothing about it is simple. They work until the terrible small effort it takes Mau to get air stops getting smaller.
+
+Then she looks at the seam.
+
+It runs all the way around him, a hand wide, black, faintly moving. She has been a doctor for a long time, and she has never once had to do this. She lays her palm on it.
+
+“I'm going to close this from the front,” she says. “You let go when I get to you. Not before.” ˢʰ
+
+She has no idea whether anybody can hear her. She starts.
+
+The cut under those hands is the cleanest she has ever seen. Whoever made it knew his business. Her energy goes in and the edges know each other at once, and it may be the easiest thing she does all night. As it closes, the row nearest her lets go. They draw back into the dark one at a time, knuckle by knuckle, unhurried, and the next row waits its turn. It takes a quarter of an hour to get round to his spine. Nobody on that step says a word. When the last hand has gone she finds a strip at the back the width of her finger that has never been cut at all, and she stays looking at that for a moment longer than she can afford.
 
 Shoko lifts her head.
 
@@ -29,7 +39,7 @@ She can see him take the first two steps too fast and make himself slow down. He
 
 “Yes.” ˢʰ
 
-Shoko tells her which way they will turn him and where the knife wound is. She speaks quietly. Yuka gets all of it. There is a point where Shoko could leave out what lifting him might do to the knee. She includes that too.
+Shoko tells her which way they will turn him, where the knife wound is, and what she has only just finished closing. She speaks quietly. Yuka gets all of it. There is a point where Shoko could leave out what lifting him might do to the knee. She includes that too.
 
 Yuka looks down at Mau.
 

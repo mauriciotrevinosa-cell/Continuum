@@ -1,132 +1,112 @@
 # The Arrivals — Light Novel — Volume 59
-## Chapter 5 — What the Fire Leaves
+## Chapter 8 — What the Fire Leaves
 
-**Status:** LN PRODUCTION DRAFT — S9 v0.1 (2026-11-03)
+**Status:** LN PRODUCTION DRAFT — S9 v0.2 (2026-11-03)
 **Volume:** 59
-**Reading order:** 5
+**Reading order:** 8
 **Source episode:** S9E45
-**Continuity state:** B136continuous fullfragmentnowbuilt/currentusefinitebodyadaptation/CEreserveheld. Mmana-bodysupportfresharmreturnsbutoldleftfingers/scars/gray unchanged; CEburnoutrecoversordinarytime/controlledonebrainreset later notinfinitefree. SfieldShrineadjustedsectorconcentration/outputcost; nativeMahoAgito returns afterSbodyTenSswitchShrineexternalimbuedonly. MusesownnativeMaho active TenS/InfinityOFF, spatialdeformation CE limited; Agito destroyedbyofficercombination/ownMaho temporaryadaptationdifferent. StrueMaho overlearnedKamishheatMfoldedRedBluePurplekillsnonuniversaladapt, M ownMaho recalledbeforeLimitless. Uraumeorderwithdrawsconsciouslyyieldsexit/noreentry. No newarmy/afterdeathclaim/outeraid.
+**Continuity state:** B136 continuous. Fragment built; body adaptation strained; CE reserve finite and held. CT burned out, so Mau fights with body, mana and legion: Zoltraak (Qual's spell, studied and common, taught by Frieren), grip, flight. Sukuna narrows Shrine to a sector at real cost to coverage. Appraisal count renewing. New right arm: weak, clean flesh. Old left fingers, scars and grey vision unchanged.
 
-*When: Sukuna stops laughing, he is already moving.*
+*When: Sukuna stops laughing, he is already there.*
 
-Mau meets the first hand with his repaired right forearm. The new flesh holds. It hurts anyway.
+Mau meets the first hand with the arm that is still being made.
 
-He lets the pain be information instead of asking it to prove the repair failed. The old two fingers on his left hand still refuse their familiar part of the grip. He changes the katana's angle around them and takes Sukuna across the chest before the second elbow reaches his face.
+It's the wrong decision. The new bones take the blow and bend, and he feels the fingers finish growing at the moment they are being broken. It hurts in a way he has no earlier pain to compare with. He lets it be information. The arm is holding. The arm is his. He hits Sukuna in the throat with the other one.
 
-Sukuna lets the cut happen.
+The two old fingers refuse their part of the fist, as they have every day for years. He changes its angle around them. Sukuna's head rocks. Sukuna's heel takes his knee from the side, and they go down together on the burning stone and keep at it down there, like two dogs.
 
-His heel takes Mau's knee from the side.
+“That one,” Sukuna says, with his broken jaw, in the short gap between one elbow and the next, “I *felt*.” ˢᵘ
 
-Both men hit the ground and continue striking there.
+They roll. Mau comes up first, and the coming up throws him ten yards farther than he meant.
 
-* * *
+*You are going too far,* Ciel says. *Every step. You need to lose about a fifth.* ᶜⁱ
 
-The shrine changes around them.
+*How do I lose a fifth?*
 
-Sukuna gives up a broad sector and concentrates the cutting in a narrower one, making the air over their heads less dangerous while the ground beneath Mau becomes almost impossible to keep. The concession is real. Bellion sees the safe side widen and sends companies through it before Sukuna can move the emphasis again.
-
-Mau uses that advance to get one foot beneath him.
-
-He does not try to answer the shrine with a stronger version of the barrier it has already broken. His innate pathways are only beginning to recover. He uses reinforcement, the katana and the army whose command does not disappear with cursed-technique burnout.
-
-Kamish strikes the upper shelf with his tail.
-
-The collapse takes away three of the charged contacts Sukuna prepared. More than stone falls. The local cutting loses its arrival points, and Mau has one honest stretch in which to stand.
+*Practice. You have until he gets here.*
 
 * * *
 
-Sukuna changes his active body technique.
+He has no Limitless. He has no Shrine, no Ten Shadows, nothing behind the eyes but a raw hot space that will not answer for another minute at least. Everyone in the quarry who can read knows it. Sukuna certainly does. He comes on through the cinders in no hurry at all. All around him the shrine goes on working, cutting and cutting, its sure hand on everything inside its reach.
 
-The domain continues what has been written into its boundary; his body stops applying Shrine in order to call the two native manifestations back. Mahoraga rises with its remembered response to Kamish's heat. Agito comes low, where Mau's leg has not yet finished repairing the damage from the knee strike.
+Mau looks at him across the distance. He looks at his own good hand.
 
-Mau calls his own Mahoraga and gives up the recovering Infinity he had been about to use.
+He has this other thing.
 
-Two blades meet above him.
+It's a stupid thing, a small thing. He learned it behind an inn, from a very old woman who did not think he was going to be any good at it. It has no business here. It doesn't come from behind the eyes at all. It comes out of the other side of him, from that side nobody has ever charted well, that used to come through a straw.
 
-Positive energy does not make Sukuna, an incarnated sorcerer, vanish like the curses it killed. The blade is still a blade large enough to cut him apart. He respects that much by moving.
+There's no straw anymore.
 
-Mau follows through the space he leaves.
-
-For a little while the fight has two centres: the principals striking between enormous moving limbs, and the commanders trying to turn every adaptation into a problem somebody else has to pay for.
+He points his finger, the way she showed him.
 
 * * *
 
-Agito reaches Mau's back once.
+Frieren has not said anything all day.
 
-The claws take a long line through healing skin. He refuses the turn it wants and drives forward instead, bringing the fused creature through the place Bellion has spent the last two exchanges preparing.
+She is sitting on the end of the bench with her staff across her knees, and Ori is beside her. She watched the fire with the expression she wears to watch weather. She watched the arm come off in much the same way. People who don't know her have probably thought she isn't very interested.
 
-Igris attacks the forward joint. Bellion's flexible blade winds around the retreating one. Tank takes the collision neither knight can hold alone.
+“Mum,” Ori says. “Is that yours?” ᴼ
 
-Agito tears the bear's form open.
+A thin bright line has crossed the basin.
 
-Beru arrives above it with both claws together.
+Zoltraak is about the most common spell in the world. A demon made it, and then humans took it apart. Now it's what they teach you in the first year, and no serious person has been impressed by it in eighty years. It crosses the distance and hits Sukuna on the raised forearm and takes out a neat, smoking divot, about as deep as a thumb.
 
-The first strike does not kill. It makes the body repair where Tusk's concentrated spell is about to land. The second costs Beru an arm again. The third is the shaman's, burning through a structure already being held apart by the others.
+Sukuna stops. He looks at his arm with mild surprise. He cannot think when anybody last hit him with something that was not cursed.
 
-Agito's recovery loses the contest.
+There's a second line. There's a fifth.
 
-The fused body breaks. The native link does not become a new member of Mau's army.
+Then, on the panels, something happens to the air around Mau, and Frieren's hands, which have been perfectly still all afternoon, stop being still. There are a dozen of them hanging at his shoulder. There are forty. They come up behind him in ragged rows, a little crooked, every single one of them with the same small fault in it that she has corrected eleven times. There are four hundred.
 
-Sukuna looks toward the loss once.
+The whole far side of the quarry lights up like a street.
 
-Then back at Mau with renewed attention.
+“He's holding the wrist wrong,” Frieren says. ᶠ
 
-* * *
+“Is it working?” ᴼ
 
-His Mahoraga has learned enough of Kamish's breath to walk into it.
+The first rank goes. It crosses a quarter of a mile in the time it takes to say so, a long white sleet of it, and Sukuna's shrine meets it. Dismantle does not care what a thing is made of. Hundreds go out. Hundreds more arrive. The stone behind Sukuna starts to come apart, and he's moving now, he is moving very fast, cutting with both hands, grinning like a boy, and there are small bright holes appearing in him one after another.
 
-Mau lets the first stream continue while the wheel turns. His own shikigami meets the blade, is driven back and gives him the angle he needs before he withdraws it. Ten Shadows falls quiet in his body. Limitless returns.
+Frieren watches for some time. Very slowly, and for no one's benefit, one corner of her mouth moves.
 
-The next Red is not aimed at either enemy.
-
-It goes past the turning wheel, a released burst whose route Mau changes with one brief use of Sky Manipulation after the casting. He cannot hold both techniques in his body at once. He lets the physical change in direction finish and returns to Limitless for Blue.
-
-Sukuna sees the convergence.
-
-Moves to stop it.
-
-Beru takes his hand.
-
-The ant loses most of his upper body for the choice. Mau pays the remake through the new passage and nearly loses his own next movement to the pain of passing too much too quickly.
-
-Ciel narrows the flow.
-
-Red meets Blue on the side Mahoraga has not been learning from.
-
-The Purple is short, ugly and far less elegant than the theory they discussed at home.
-
-It destroys the adapted body before the wheel can turn the new combination into another old answer.
+“Yes,” she says. ᶠ
 
 * * *
 
-Sukuna dismisses the ruined native form's remainder.
+The shrine changes.
 
-The shrine loses its last stable stretch as the damage to its owner breaks the hold he has kept on it. Its collapse leaves his cursed technique burned out too.
+Mau sees it in the dust. For minutes it has covered everything evenly, right out to the walls, and now it draws in. It's giving up the sky. It's giving up the whole west side, the air over their heads gone suddenly, shockingly clean, and all that attention pours down into a wedge of floor no wider than a road. The ground under his feet stops being ground. He loses a boot. He loses the skin off that foot. He gets the grip on a boulder and hauls himself bodily out of it, and the wedge turns after him, like a hand sweeping crumbs.
 
-Uraume moves toward him across the ice which still survives at the edge.
+It's a real concession, though. Sukuna has paid for that. Bellion has been lying in the dark, waiting to see precisely that, and he hasn't needed telling.
 
-Beru meets them there. Rime comes behind the ant, taking the first part of the cold into a constructed frost body which does not make all ice harmless, but knows enough not to answer it with bare flesh. The two officers drive Uraume toward the marked exit.
+The western floor stands up again.
 
-“Enough,” Sukuna says. ˢᵘ
+Nine hundred. A thousand. They come out of the safe side at a dead run, across the open ground, with their shields on their backs because shields are no use, and they don't go for Sukuna. They go for the stones. Each of those little door handles that have been sitting in the floor since the first minute. Tusk comes behind them, the old shaman stumping along on his skull-staff, burning the marks out one at a time and muttering about the state of the workmanship. Kamish beats his wings once and falls out of the clean sky. He hits the upper shelf with his tail.
 
-Uraume looks toward him.
+The whole shelf comes down. It takes three of the last good contacts with it, and more than stone falls. The local cutting loses the places it was arriving from.
 
-“Out.” ˢᵘ
+For about as long as it takes to fill a cup, Mau has one honest stretch of ground to stand on.
 
-The word is not gentle. Neither is the look which follows it.
+He stands on it.
 
-Uraume accepts the exit with blood at one temple and a fury which has nowhere permitted to go. The record closes that participation. No return will be allowed when the next part becomes worse.
+He finds that he's breathing like a horse. He's lost count of the wounds. He closes one in his thigh, and one in his foot, and the new arm has got four fingers now that all answer, more or less, and the wound on his side has held. There's a flicker behind his eyes. It's very faint. It feels like a stair that might be there.
 
-* * *
+Forty yards away, Sukuna has also stopped.
 
-Mau stands with the katana low.
+He has about thirty small burns in him, and a jaw he's holding on with one hand. He pushes. There's a click. He tests it, opening and shutting his mouth, and the holes in his chest are filling in as Mau watches, quick and unhurried. There's so much of it in him. He looks around at the soldiers, then back at Mau.
 
-His new arm trembles. His side is closed badly enough that breathing still pulls at it. Around him thousands of links remain, though many forms are now dark instead of standing. More mana passing through the body does not make remaking them without thought a wise use of the new passage.
+“Good,” he says. “You fold it badly and it still arrives. Who told you that you could do that?” ˢᵘ
 
-He leaves the fallen companies stored.
+“Nobody,” Mau says. ᴹ “Nobody told me I could.”
 
-Sukuna rolls one shoulder, blood running beneath his collar.
+Sukuna seems to like that.
 
-“Now,” he says. ˢᵘ
+He holds up one hand beside his head, without looking, the way you call a waiter.
 
-The body begins changing.
+The ground behind him opens. Whiteness comes up out of it, and wings that are not wings, and a wheel.
+
+“Now,” he says, “I'd like to see the famous one.” ˢᵘ
+
+It takes Mau a moment to understand what he's being asked for.
+
+Then the flicker behind his eyes catches. The stair is there. He feels Limitless come back into him with a shock like cold water. All through his body, for the first time since the fire, the world gets very slightly farther away. And Sukuna's great white shikigami turns its blind head toward that, with the air of having been told where to find something.
+
+Three seats along from Yuka, Gojo stops breathing.

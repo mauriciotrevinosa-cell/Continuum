@@ -115,21 +115,41 @@ The clerk gives the signal.
 
 Mau draws the daggers.
 
-Their equipment effect settles into the movement, familiar enough to be dangerous if he forgets the difference when he puts them away. Sukuna's first cut reaches the Infinity which forms around him and spends its motion approaching a place it cannot finish arriving.
+Sukuna does not lift a finger.
 
-Mau is already moving through the pause.
+He looks at Mau, and the basin floor between them comes apart in long clean rows, as if somebody has dragged a rake through stone. The rows reach the place where Mau's Infinity begins and stop being a speed. Forty cuts hang in the air around him, marked in dust, each one still arriving and never going to finish.
 
-Left dagger high. Right low. Sukuna turns inside the high hand with amplification across his skin, finds the edge of the slowing defence and drives an elbow toward Mau's jaw.
+It is the politest greeting anyone has ever offered him.
 
-Mau gives up the first slash rather than the second step. His low blade takes a shallow line beneath Sukuna's ribs. Sukuna's knee strikes his side hard enough to move the breath out of him.
+Mau walks through it.
 
-Neither retreats.
+The second step is a sprint. Left dagger high, right low, the two blades carrying the extra reach and hunger he paid for in a shop a long way from here. Sukuna turns inside the high hand with amplification running across his skin. He finds the thin edge where the slowing starts and comes through it the way a man comes through a bead curtain, one elbow already on its way to Mau's jaw.
 
-Mau puts Red at the space beside Sukuna's heel. The burst does not strike the man; it ruins the ground he intended to use. Sukuna takes the broken step, turns it into a falling angle and catches Mau's shoulder with a physical blow before his own feet have finished landing.
+Mau gives up the slash and keeps the step. His low blade draws a shallow line under Sukuna's ribs. Sukuna's knee lands in his side and moves all the air in him somewhere else.
 
-Blood enters Mau's mouth.
+Neither of them goes back.
 
-He spits it aside and catches Sukuna smiling at the answer.
+They trade four blows in the time it takes the dust to notice. A forearm. A forehead. Mau puts Red in the empty space beside Sukuna's heel, a push the size of a plum. It never touches the man. It takes away the piece of the world he meant to stand on, and a shelf of the quarry floor as wide as a barn jumps into the air.
+
+Sukuna falls off the broken step on purpose, turns the fall into an angle and hits Mau in the shoulder before his own feet have come down.
+
+* * *
+
+On the ridge, the panels are a little late. Ramiris's light carries the picture and leaves the sound behind, so that a person watching sees the shelf rise, sees two small figures already somewhere else, and only then feels the thump arrive through the bench.
+
+Hinata has fought enough people to know what she is looking at. She is less sure she could have told you where to look.
+
+“How much of that is real?” ᴴⁱ
+
+Gojo has his chin on his hand. He has been told, this morning, by the person whose opinion he most fears, that he may not narrate. He holds out for almost a second.
+
+“That was hello,” he says. ᴳ
+
+* * *
+
+Blood gets into Mau's mouth.
+
+He spits it to one side and looks up and Sukuna is smiling at him, loose and pleased, the way a man smiles at the first bite when the rest of the plate is still to come.
 
 “Better,” Sukuna says. ˢᵘ
 

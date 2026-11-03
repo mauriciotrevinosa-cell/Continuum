@@ -1,11 +1,11 @@
-# The Arrivals — Light Novel — Volume 59 Index v0.1
+# The Arrivals — Light Novel — Volume 59 Index v0.2
 
-**Status:** LN PRODUCTION DRAFT — S9 v0.1
+**Status:** LN PRODUCTION DRAFT — S9 v0.2 (duel rewritten and extended 2026-11-03)
 **Volume:** 59
 **Season:** 9
 **Coverage:** S9E43–S9E48 (volume complete; S9 continues)
 **Volume title:** **The World Watching**
-**Chapter files:** 12
+**Chapter files:** 23
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -19,13 +19,24 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 |---:|---|---|---|
 | 1 | S9E43 | The Distance to the Field | `THE_ARRIVALS_S9E43_LN_CHAPTER_01_THE_DISTANCE_TO_THE_FIELD_v0.1.md` |
 | 2 | S9E43 | The Army He Can See | `THE_ARRIVALS_S9E43_LN_CHAPTER_02_THE_ARMY_HE_CAN_SEE_v0.1.md` |
-| 3 | S9E44 | The Cut Which Has No Journey | `THE_ARRIVALS_S9E44_LN_CHAPTER_01_THE_CUT_WHICH_HAS_NO_JOURNEY_v0.1.md` |
-| 4 | S9E44 | The Name in the Join | `THE_ARRIVALS_S9E44_LN_CHAPTER_02_THE_NAME_IN_THE_JOIN_v0.1.md` |
-| 5 | S9E45 | What the Fire Leaves | `THE_ARRIVALS_S9E45_LN_CHAPTER_01_WHAT_THE_FIRE_LEAVES_v0.1.md` |
-| 6 | S9E45 | Four Hands and One Answer | `THE_ARRIVALS_S9E45_LN_CHAPTER_02_FOUR_HANDS_AND_ONE_ANSWER_v0.1.md` |
-| 7 | S9E46 | Everything He Knows | `THE_ARRIVALS_S9E46_LN_CHAPTER_01_EVERYTHING_HE_KNOWS_v0.1.md` |
-| 8 | S9E46 | A Place of His Own | `THE_ARRIVALS_S9E46_LN_CHAPTER_02_A_PLACE_OF_HIS_OWN_v0.1.md` |
-| 9 | S9E47 | Close Enough to Hold | `THE_ARRIVALS_S9E47_LN_CHAPTER_01_CLOSE_ENOUGH_TO_HOLD_v0.1.md` |
-| 10 | S9E47 | Where the Ground Gives | `THE_ARRIVALS_S9E47_LN_CHAPTER_02_WHERE_THE_GROUND_GIVES_v0.1.md` |
-| 11 | S9E48 | The Weight of the Other Man | `THE_ARRIVALS_S9E48_LN_CHAPTER_01_THE_WEIGHT_OF_THE_OTHER_MAN_v0.1.md` |
-| 12 | S9E48 | A Minute | `THE_ARRIVALS_S9E48_LN_CHAPTER_02_A_MINUTE_v0.1.md` |
+| 3 | S9E43 | Maximum | `THE_ARRIVALS_S9E43_LN_CHAPTER_03_MAXIMUM_v0.1.md` |
+| 4 | S9E43 | A Room of Fire | `THE_ARRIVALS_S9E43_LN_CHAPTER_04_A_ROOM_OF_FIRE_v0.1.md` |
+| 5 | S9E44 | The Cut Which Has No Journey | `THE_ARRIVALS_S9E44_LN_CHAPTER_01_THE_CUT_WHICH_HAS_NO_JOURNEY_v0.1.md` |
+| 6 | S9E44 | A Shrine With No Walls | `THE_ARRIVALS_S9E44_LN_CHAPTER_03_A_SHRINE_WITH_NO_WALLS_v0.1.md` |
+| 7 | S9E44 | The Name in the Join | `THE_ARRIVALS_S9E44_LN_CHAPTER_02_THE_NAME_IN_THE_JOIN_v0.1.md` |
+| 8 | S9E45 | What the Fire Leaves | `THE_ARRIVALS_S9E45_LN_CHAPTER_01_WHAT_THE_FIRE_LEAVES_v0.1.md` |
+| 9 | S9E45 | Four Turns | `THE_ARRIVALS_S9E45_LN_CHAPTER_03_FOUR_TURNS_v0.1.md` |
+| 10 | S9E45 | Four Hands and One Answer | `THE_ARRIVALS_S9E45_LN_CHAPTER_02_FOUR_HANDS_AND_ONE_ANSWER_v0.1.md` |
+| 11 | S9E45 | Every Line He Closed | `THE_ARRIVALS_S9E45_LN_CHAPTER_04_EVERY_LINE_HE_CLOSED_v0.1.md` |
+| 12 | S9E46 | Everything He Knows | `THE_ARRIVALS_S9E46_LN_CHAPTER_01_EVERYTHING_HE_KNOWS_v0.1.md` |
+| 13 | S9E46 | Say It Back | `THE_ARRIVALS_S9E46_LN_CHAPTER_03_SAY_IT_BACK_v0.1.md` |
+| 14 | S9E46 | A Place of His Own | `THE_ARRIVALS_S9E46_LN_CHAPTER_02_A_PLACE_OF_HIS_OWN_v0.1.md` |
+| 15 | S9E47 | Close Enough to Hold | `THE_ARRIVALS_S9E47_LN_CHAPTER_01_CLOSE_ENOUGH_TO_HOLD_v0.1.md` |
+| 16 | S9E47 | Where the Ground Gives | `THE_ARRIVALS_S9E47_LN_CHAPTER_02_WHERE_THE_GROUND_GIVES_v0.1.md` |
+| 17 | S9E47 | One Word | `THE_ARRIVALS_S9E47_LN_CHAPTER_03_ONE_WORD_v0.1.md` |
+| 18 | S9E47 | A Finger's Width | `THE_ARRIVALS_S9E47_LN_CHAPTER_04_A_FINGERS_WIDTH_v0.1.md` |
+| 19 | S9E48 | The Weight of the Other Man | `THE_ARRIVALS_S9E48_LN_CHAPTER_01_THE_WEIGHT_OF_THE_OTHER_MAN_v0.1.md` |
+| 20 | S9E48 | Hunger | `THE_ARRIVALS_S9E48_LN_CHAPTER_03_HUNGER_v0.1.md` |
+| 21 | S9E48 | Active | `THE_ARRIVALS_S9E48_LN_CHAPTER_04_ACTIVE_v0.1.md` |
+| 22 | S9E48 | Eleven Steps | `THE_ARRIVALS_S9E48_LN_CHAPTER_05_ELEVEN_STEPS_v0.1.md` |
+| 23 | S9E48 | A Minute | `THE_ARRIVALS_S9E48_LN_CHAPTER_02_A_MINUTE_v0.1.md` |

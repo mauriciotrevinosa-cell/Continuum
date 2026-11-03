@@ -33,7 +33,7 @@ Elmesia comes to sign the departure sheet after sunrise. The man from the ridge 
 
 “My brother lives on the road they were going to cut off,” he tells her. “I need to tell him why it's open.”
 
-He takes out the top sheet and lets her see it. There is a description of a head against a stone step. No mention of a road. He folds it again.
+He takes out the top sheet and lets her see it. There is a description of teeth, and of a head against a stone step. No mention of a road. He folds it again.
 
 “Did that happen?” he asks.
 

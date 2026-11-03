@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **S9 — Duelo V59 reescrito, 23 capítulos, 2026-11-03:** [Volumen](../THE_ARRIVALS_LN_VOLUME_59_INDEX_v0.1.md) · [Diseño, con spoilers](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md).
+
 > **S9 — Matrimonio y tablero, V60#3:** Temporada 9 completa. [Leer](../THE_ARRIVALS_LN_VOLUME_60_INDEX_v0.1.md) · [Estado](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_MARRIAGE_HONEYMOON_AND_SUKUNA_CREATOR_GREENLIGHT_2026-11-02.md).
 
 > **S9 — Yuka/Mai/inventario/Milim, aclaraciones 2026-11-02:** [mensaje íntegro y aplicación](S9_YUKA_MAI_INVENTORY_UMARU_REM_AND_MILIM_CALIBRATION_CREATOR_CLARIFICATIONS_2026-11-02.md). Yuka ama bondadM yse enfada con quienes la explotan; bromaGojo/papá; Mai16origen+tiempovivido/experienciaíntimaelecciónArrivals; inventariomostradoANTESdecomprar; UmaruRemprimercitaconvoluntad;5%VeldoraMilim≈110%referenciaSukuna comoescalaautoral. No capítulos nuevos.

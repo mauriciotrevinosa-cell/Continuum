@@ -479,3 +479,14 @@ not on this list. Add a line every time the creator catches a new slip.
 ## Percepción de Mau después del retorno original — creador,2026-10-25
 
 Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35#29 contiene su desconcierto y aviso privado a Ciel. El color azul físico de sus ojos, su filtro informacional, la legión/Mahoraga y los recuerdos de colores NO restauran esa percepción. Puede conocer etiquetas o producir Night Tide sin ver su azul verdoso; otros sí lo ven. No inventar causa/cura ni convertirlo en gris físico universal. [Dirección íntegra y capítulos revisados](S6_MAU_PERSISTENT_COLOR_PERCEPTION_CREATOR_CORRECTION_2026-10-25.md).
+
+## Duelo con Sukuna, V59 revisado (2026-11-03)
+
+- **Sukuna solo dijo el nombre de Mau una vez en vida**, como cerradura del corte de mundo. Antes: "boy", "brat". En el minuto final no lo usa.
+- **El corte de plano se cierra con tres verdades dichas a la cara del objetivo.** No sirve mentir. La boca inferior las murmuraba. Sukuna ya no existe; esto solo importa si Mau lo intenta: sabe cómo, lo logró una vez, no está garantizado que pueda repetirlo.
+- **Un dedo de ancho:** el cuarto clic salvó a Mau de ese corte concreto. No es inmunidad a cortes espaciales ni a nada más. El Mahoraga de Mau quedó casi destruido.
+- **Las sombras que cerraron la herida** lo hicieron de pie, que es gratis (DH-127). No son técnica médica nueva.
+- **Ciel eligió soltar el margen.** Mau no podía ordenárselo y no se lo pidió.
+- **Mau se levantó sin resurrección:** paró el corazón común, no el Corazón Negro; registro activo todo el tiempo. El despertar del Trial es reflejo de cuerpo, no regla del mundo. Nadie en las gradas lo sabe salvo por deducción.
+- **Morder fue Mau, no el archivo.** Ciel lo comprobó. Solo Ciel y Mau lo saben. No suavizarlo después.
+- **El archivo de Sukuna está sellado y casi sin digerir.** Incluye la cocina; no compartirlo con nadie por ósmosis.

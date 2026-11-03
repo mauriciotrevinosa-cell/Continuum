@@ -2928,3 +2928,7 @@ Sukuna duel concludes after both spend offensive CE and collapse. Mau uses held 
 ### S9 matrimonio/tablero — V60#1–3, 2026-11-02
 
 Season Nine closes at V60#3. Quarry evacuation, agreed separate departures, lasting conflicting accounts, and first supported dinner. Mau still needs neurological and physical follow-up. No Season Ten begun.
+
+### S9 duelo V59 reescrito y extendido, 2026-11-03
+
+Encargo del creador: nivel Gojo contra Sukuna, final salvaje, "no te limites". V59 de 12 a 23 capítulos y de unas 11.700 palabras a la extensión actual. Nuevas evoluciones de Shrine previas al duelo, reloj de Mahoraga, choque de dominios, rueda propia de Mau, final con registros activos. Sin voto decisivo nuevo. Pequeños ajustes en V60#1–2 para el corte y la mordida. Diseño en `S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md`. La despedida previa al combate no se tocó; Claude no escribe beats románticos Mau/Yuka.

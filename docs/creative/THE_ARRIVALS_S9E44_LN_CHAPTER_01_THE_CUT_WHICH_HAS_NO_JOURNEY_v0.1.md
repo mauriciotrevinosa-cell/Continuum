@@ -1,95 +1,81 @@
 # The Arrivals — Light Novel — Volume 59
-## Chapter 3 — The Cut Which Has No Journey
+## Chapter 5 — The Cut Which Has No Journey
 
-**Status:** LN PRODUCTION DRAFT — S9 v0.1 (2026-11-03)
+**Status:** LN PRODUCTION DRAFT — S9 v0.2 (2026-11-03)
 **Volume:** 59
-**Reading order:** 3
+**Reading order:** 5
 **Source episode:** S9E44
-**Continuity state:** B136continuous. JogoownDomain trapslocalcompany; MnativesTenSactive/InfinityOFF, ownMaho swordpositivekillsJogo, domainfalls; no positiveenergyauto-killincarnatedSukuna. SswitchesfromShrinebodytoTenS Maho+Agito tofaceM; later withdrawsownTenSbeforeusingShrineexpandedtarget. FirstconditionedspatialcutthreeCEregisteredanchors+pairedseal+spokenlock/finiteplane/nonhoming severMRIGHTarm, notoldLEFTfingerreset. Fullfragmentstillunfinished/finiteRCTfreshstumpbraced notinstantwholebodyhealed. Majorwoundsactualnotclinicaldeath.
+**Continuity state:** B136 continuous. Sukuna's native Mahoraga and fused Agito enter; Hanami falls to officers and Mau's Mahoraga. Third appraisal spoken. First conditioned plane cut: three anchors of four possible, paired seal, finite plane, non-homing. Severs Mau's RIGHT arm, old left-hand fingers unaffected. Stump braced with finite RCT. Fragment unfinished. Major wounds, not clinical death.
 
-*When: the wall of fire closes, Mau feels Igris disappear from the place his report should have come from.*
+*When: two wheels turn above the ground, the crowd stops being able to tell which one to be afraid of.*
 
-Not the link.
+Sukuna's rises on the far side of the great pale shape. It is whiter than Mau's and much sharper around the edges. Mau has always known his own came out a little smeared, the way all his things do. He had simply never had occasion to see the two of them side by side, like a man meeting the original of his forged signature.
 
-The position.
+Something comes up beside it, low, on too many arms, wearing a mask. Agito does not wait for anybody. It looks at the wound Mau has just finished closing, and it starts toward that.
 
-A closed territory has taken the nearest companies and both officers into a different inside. Jogo has chosen the part of the field where Uraume's ice cannot interfere with his own heat and shut the useful road out with them.
+Sukuna has stopped touching the ground. There's no more pipe being laid; his body has changed its one technique for another. What he has already put in the floor is still there, every door handle, waiting. But for now the king of curses is standing in a quarry with empty hands, using the same technique as Mau, and he has so much more of it.
 
-Sukuna moves in the same instant.
+The two Mahoragas look at each other.
 
-Mau keeps Infinity for the first blow. Lets it go before the second.
+Up on the ridge, somebody who knows what those are says a word that gets her a look from her mother.
 
-His hand forms the other sign.
+Mau does the sum. His sword has just given the other wheel a free lesson. Each second they stand in reach of each other, the lesson goes on, and it's free for one of them and ruinous for the other.
 
-* * *
+He pulls his own back into the shadow.
 
-Mahoraga rises inside the fire from the shadow Mau has already placed there.
-
-The sword meets the nearest burning creature with something the flame cannot consume into more fuel. Positive energy enters a body made of cursed energy. The little guardian breaks.
-
-Jogo sees what the blade means and moves before it can touch him.
-
-Mau has traded his own defence to put that answer inside the room. He cannot hold Ten Shadows and pretend automatic Infinity is still taking care of his skin. Sukuna knows the trade. His fingers open Mau's side at contact, a Cleave which catches enough flesh to make the next breath uncertain.
-
-Mau drives the katana between them and steps toward the wound instead of away, denying the second hand the distance it needs to deepen it.
-
-*Igris,* he sends through the command he still owns. ᴹ
-
-Inside the fire, the knight changes direction.
+*Kamish.* ᴹ
 
 * * *
 
-Beru makes Jogo defend high.
+The dragon comes down the sky with the sun behind him.
 
-Igris attacks the foot which would let him move away from the blade behind him. Neither blow is enough on its own. Together they keep the curse in one place long enough for Mahoraga to complete the stroke.
+This breath is the working kind, not the great white one. A long, orange, roaring river of it, wide enough to fill the place the two manifestations would have shared. It takes Sukuna's Mahoraga from the front and it does not stop. The pale skin blackens. The wheel turns once, with a *clunk* you can hear on the panels, and the skin stops blackening quite so fast.
 
-The sword crosses Jogo's chest.
+Agito can't stay beside that. It breaks left, out of the fire, into the ground Bellion has spent five minutes preparing for it. His long blade comes round the block, changes length in the middle of the stroke and takes it by the leading arm. He drives it backward into a wall, and that wall is no longer protected by anyone's fire.
 
-The fire room opens into the quarry with a shock of hot air and broken black stone. Jogo's body comes apart around the positive energy he cannot make his own. There is no living fighter at an exit to rescue afterward. His name goes dark on the field record.
-
-Mau feels the loss of the enemy as a practical change first.
-
-Then the cost in his own side catches up with him.
-
-* * *
-
-Two wheels turn above the ground.
-
-Sukuna's Mahoraga enters opposite Mau's. Agito comes beside it, already moving to the open wound rather than the weapon. Sukuna has stopped laying new cutting contacts through his body; the existing marks remain dangerous, but his active native technique is now the same one Mau is using.
-
-Mau withdraws his own shikigami from the centre rather than grant the second wheel an uninterrupted lesson in its sword.
-
-Kamish dives.
-
-His breath crosses the place the two enemy manifestations would have shared. Mahoraga meets the edge and begins learning the shape of the heat. Agito cannot stay beside it without accepting the centre of the attack. The fused creature breaks its route, giving Bellion the opening he has been waiting to use.
-
-His long blade catches Agito's leading arm, changes length around the block and drives it toward a wall which is no longer protected by Jogo's fire.
-
-Mau takes one breath to begin closing his side.
+Mau gets one breath.
 
 A flower opens against his collar.
 
+It is very pretty. It has come out of nothing, out of his own shirt, a soft pale bud the size of a thumb, and it has already begun to drink.
+
 * * *
 
-Hanami's bud finds cursed energy and begins demanding more.
+Hanami's buds find cursed energy and ask for more.
 
-Ciel catches the changing draw before Mau answers it by reinforcing the place. He cuts his own output at the contact. The bud stops growing quickly enough to matter.
+It's a lovely trick, and it nearly works. The instinct when you feel something drawing on you is to reinforce, and then you have fed it, and it grows, and you reinforce. Ciel catches the draw changing before Mau has answered it. He cuts his own output to nothing at the contact, the skin of his neck suddenly as defenceless as a boy's, and the bud pauses with its petals half open, baffled.
 
-Sukuna's Mahoraga is still learning Kamish's breath.
+He rips it off. It takes some neck.
 
-Mau brings his own shikigami out beside Hanami, where the sword can be answered by roots but cannot be made safe by them. Hanami uses the ground instead, carrying the body beneath the descending stroke.
+Across the broken ground Hanami has been watching him with the two long white things it has for eyes, patient as a season. It hasn't said a word all day. It said one thing at the inspection, about the living ground outside the marked volume. It lays its palm against the stone and the whole east side of the basin *heaves*, roots as wide as roads breaking up through the rock, not at Mau, under his soldiers. The ground goes out from beneath six hundred of them at a stroke.
+
+Mau calls Mahoraga back out, right on top of the curse, where the sword can be answered by roots but can't be made safe by them.
+
+Hanami sinks. It takes the body down through the growing floor and the blade comes through the place it was, and then it rises again twenty paces off, unhurried, a garden with all the time in the world.
 
 Mau's ordinary soldiers are already there.
 
-They do not hold the curse through strength. They break the receiving ground and force a second landing. Igris reaches it first. His blade takes a knee. The positive sword comes down before Hanami can turn the new growth into another body-sized path.
+They have no chance of holding it. There are about forty of them, the remains of a company nobody has told to stop. They don't try to fight the curse. They break the ground it's coming up through. Forty spears go into the root mass, levering, tearing, each of them as stupid and determined as an ant with a crumb, until Hanami comes up crooked and has to land twice.
+
+Igris reaches the second landing.
+
+The knight has perhaps half of himself left. He uses it. His blade takes a knee, and then the pale sword is coming down out of the sky, and Hanami looks up at it.
+
+It looks, Mau thinks, a little sad. It came here to burn all the people off the world so that the trees could have it back. It didn't bring any flowers for this.
 
 The curse goes still.
 
-Mau dismisses his Mahoraga before the second wheel can finish finding its new target.
+Mau dismisses his Mahoraga before the other wheel can finish working out what it has just seen.
 
-Infinity returns.
+Infinity returns to his skin like a blanket being pulled up.
 
-Sukuna smiles.
+Sukuna looks at the place where his second friend was. He looks at the forty soldiers, down to nineteen now, already forming a line. He looks at Mau, with his torn neck and the side he has mended twice, and for the first time since the signal he is not smiling.
+
+He looks very nearly respectful.
+
+“Good,” Sukuna says. ˢᵘ
+
+He means it. It's almost the most frightening thing that has happened yet.
 
 * * *
 
@@ -97,51 +83,71 @@ Three little points of cursed energy have appeared on separate pieces of broken 
 
 Mau thinks they are more relay marks.
 
-Ciel thinks so too, for the first fraction of the movement.
+Ciel thinks so too, for the first fraction of the movement. So do Bellion, and Igris, who is already moving to destroy the nearest. Then Sukuna does something strange. He lets his manifestations go. The great white shape folds down into the dark, wheel and all, and the masked thing goes with it, and Sukuna has just dismissed the most dangerous weapon in the quarry in the middle of a fight, for no reason at all.
 
-Then Sukuna withdraws his native manifestations. His hands meet. The points align with a part of the field rather than a surface anyone is touching. A spoken lock follows the sign.
+His hands meet.
+
+Not any sign Mau knows, and he knows them all. The points on the stones stop being points and become corners. Between them there's something that isn't a line through the air, because the air has no part in it. He has the eyes open wide enough to see the dust, and the dust isn't moving. It is the *place* the dust is in.
+
+He has seen this once. In another life, in the memory of a man who gave it up to go on breathing.
 
 *Move.* ᶜⁱ
 
 Mau moves.
 
-He is fast enough to take his chest out of the line.
+He is very fast now. He has a body built, floor by floor, out of nothing but other people's impossible things. He gets his head out of it. He gets his chest out of it. He gets out nearly all of the man his wife has been fussing over since breakfast.
 
 His right arm is still there when the selected space divides.
 
 * * *
 
-There is no crossing projectile for Infinity to slow.
+There is no sound. Nothing crossed anything. Infinity, the great and famous Infinity, which has turned aside the whole world's worth of attacks that were on their way to him, stands around Mau unbroken, and it's as useful as a locked door in a house with no walls. There was never a journey for it to slow down.
 
-The arm falls with the piece of stone behind it. The dagger hits once, bright in the dust, and disappears when Mau calls it back before the enemy can use its position.
+A long sheet of quarry behind him slides a finger's width to the left and stops.
 
-He does not feel the whole pain immediately. He feels the empty weight where the balance of his next movement should have been.
+His arm falls with it.
+
+It hits once, the dagger still in the hand, bright in the dust. He calls the dagger back before he has understood what's happening. Somebody has taught him that much. The hand opens a little as the blade leaves it, as if to let it go.
+
+There isn't any pain. There's an empty weight. He has gone to take his next step, the way he has taken every step, with the balance of a thing that has two arms. It tips him left, into nothing, with all the speed he has.
 
 Sukuna comes through that error.
 
-Mau takes the first blow on the katana, the second across the mouth and the third badly enough that the quarry wall arrives behind him before he has chosen a way to stop.
+The katana takes the first blow. Mau's mouth takes the second. The third he does not see at all, and then the wall of the quarry is behind him, without having been there before, and the wall is giving way, stone bursting around his back in a shape not unlike his own.
 
-Stone breaks around his back.
+He can't find a breath. He's looking for it. It was here a moment ago.
 
-He cannot find a breath.
+On the ridge, Yuka stands up.
 
-On the ridge, Yuka stands.
-
-Maki's hand closes around hers. Not pulling her down. Holding the hand she cannot put into the field.
+Maki's hand closes around hers. She doesn't pull her down. She only holds the hand Yuka can't put into the field.
 
 * * *
 
-Mau seals the stump before trying to build anything missing.
+Three seats along, a man has stopped making jokes.
 
-The side. The breathing. The pressure which has begun moving behind his eyes. Too many places asking the same finite reserve for an immediate answer.
+Nobody says anything about it at first. It takes Shoko a moment even to look. She has been making herself watch the wound, the stump, the amount of blood, doing the sum she will have to do later. When she does turn her head, Gojo is sitting exactly as he was. His hand has gone to his own waist. It rests there just above the hip, very lightly, the way you touch a place to find out whether it's still tender.
+
+He doesn't seem to know he's doing it.
+
+“That's not the one,” he says. His voice is perfectly pleasant. “I want that understood. That's a piece of it. Four corners and a lot of fuss. It's a much smaller cut than the one I got.” ᴳ
+
+Shoko doesn't answer. She reaches over, picks up the hand and holds it in her lap, as if it were something he had dropped.
+
+* * *
+
+Mau seals the stump before he tries to build anything that's missing.
+
+His side. His breath. The pressure that has begun to move behind his eyes. There are too many places asking the same finite reserve for an answer right now, and every one of them has an excellent case.
 
 *Not the margin,* Ciel says. ᶜⁱ
 
-He gives her the ugly, frightened agreement of a man who wants every part of himself back now and understands why wanting is not a plan.
+He gives her the ugly, frightened agreement of a man who wants every part of himself back this second, and understands that wanting it is not a plan.
 
-Sukuna's footsteps come closer through the dust.
+Sukuna's footsteps come closer through the dust. He isn't hurrying. He has taken something that won't grow back on its own. He has let two friends die to do it, and he's strolling across the field to find out what's left.
 
-Mau has one functioning hand, a half-closed wound and an enemy who has just shown him the difference between knowing a principle and surviving its execution.
+Mau has one hand, a half-closed wound and a sword he can't raise from where he's lying.
+
+He has just been shown the difference between knowing a principle and surviving it.
 
 He calls Beru.
 

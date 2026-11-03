@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **S7–S9 — Casa, hilos y escala, respuesta del creador, 2026-11-03:** [Mensaje y aplicación](S9_CREATOR_ANSWER_REASONABLE_HOUSE_THREADS_AND_POWER_SCALE_2026-11-03.md). No reescribir S7–S9; sin problemas multiversales; S10 después.
+
 > **S9 — Duelo V59 reescrito, 23 capítulos, 2026-11-03:** [Volumen](../THE_ARRIVALS_LN_VOLUME_59_INDEX_v0.1.md) · [Diseño, con spoilers](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md).
 
 > **S9 — Matrimonio y tablero, V60#3:** Temporada 9 completa. [Leer](../THE_ARRIVALS_LN_VOLUME_60_INDEX_v0.1.md) · [Estado](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_MARRIAGE_HONEYMOON_AND_SUKUNA_CREATOR_GREENLIGHT_2026-11-02.md).

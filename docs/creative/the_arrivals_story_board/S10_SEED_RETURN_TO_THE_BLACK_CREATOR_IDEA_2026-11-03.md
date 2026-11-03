@@ -51,13 +51,15 @@ El momento sería **V34 #41, «The People Who Would Not Know», Day475 de noche*
 - **La trampa sale al revés.** Quien la tendió quería romperlo. Le da justo lo que nunca tuvo: un adiós.
 - **El color.** El Mau original recordaba el mundo a color y el gris persiste en esta rama. Si en la línea original ve a color, sabe dónde está antes de que nadie hable; ve a Frieren y a Ori a color por última vez; y al volver acepta el gris con Yuka como único color. Es decisión del creador: toca una regla suya («no inventar causa ni cura»).
 
-## Límite de Claude
+## Decisiones del creador sobre esos puntos
 
-Claude no escribe romance Mau/Yuka. Las despedidas pueden escribirse como emoción y familia. Si la escena con Yuka necesita ser romántica, se avisa al creador y la escribe otro.
+> no va a ver romance en si solo una pllatica concha la lora y si ve a color pero cuando regresa regresa el gris
+
+- **Color:** en la línea original Mau ve a color. Al regresar, vuelve el gris con Yuka como único color. Esto no da causa ni cura general del gris.
+- **Yuka:** no hay romance en esa escena, sólo una plática. Claude la puede escribir.
 
 ## Preguntas abiertas
 
 - ¿Quién tiende la trampa y qué quiere?
 - ¿Cómo vuelve exactamente?
-- ¿Ve a color en la línea original?
 - ¿Le cuenta después a la casa, y a la Ciel de esta rama?

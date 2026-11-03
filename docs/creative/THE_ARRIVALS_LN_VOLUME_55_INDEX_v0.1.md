@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 55
 **Season:** 9
-**Coverage:** S9E12–S9E14 (in progress)
+**Coverage:** S9E12–S9E16 (in progress)
 **Volume title:** **The Day We Chose**
-**Chapter files:** 6
+**Chapter files:** 10
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -21,3 +21,7 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 | 4 | S9E13 | Terms of Surrender | `THE_ARRIVALS_S9E13_LN_CHAPTER_02_TERMS_OF_SURRENDER_v0.1.md` |
 | 5 | S9E14 | A Gift with No Duties Attached | `THE_ARRIVALS_S9E14_LN_CHAPTER_01_A_GIFT_WITH_NO_DUTIES_ATTACHED_v0.1.md` |
 | 6 | S9E14 | The People She Wanted Beside Her | `THE_ARRIVALS_S9E14_LN_CHAPTER_02_THE_PEOPLE_SHE_WANTED_BESIDE_HER_v0.1.md` |
+| 7 | S9E15 | A Promise She Could Hear | `THE_ARRIVALS_S9E15_LN_CHAPTER_01_A_PROMISE_SHE_COULD_HEAR_v0.1.md` |
+| 8 | S9E15 | Beside the Groom | `THE_ARRIVALS_S9E15_LN_CHAPTER_02_BESIDE_THE_GROOM_v0.1.md` |
+| 9 | S9E16 | Two Answers | `THE_ARRIVALS_S9E16_LN_CHAPTER_01_TWO_ANSWERS_v0.1.md` |
+| 10 | S9E16 | People Coming to Celebrate | `THE_ARRIVALS_S9E16_LN_CHAPTER_02_PEOPLE_COMING_TO_CELEBRATE_v0.1.md` |

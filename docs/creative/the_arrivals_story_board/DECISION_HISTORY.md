@@ -2920,3 +2920,7 @@ Actualduelprogressbothactive, majorfreshwounds/permanentstatsandoldsequelae kept
 ### S9 matrimonio/tablero — V59#8–9, 2026-11-02
 
 Partial double Domain and neural damage actually written; escalating mutual attrition and separate witness reactions; both principals still active. Protected guest return was incorporated in the ratification and pushed separately.
+
+### S9 matrimonio/tablero — V59#10–12, 2026-11-02
+
+Sukuna duel concludes after both spend offensive CE and collapse. Mau uses held medical margin and finite mana throughput. Records agree on true death. Voluntary minute and self-chosen abyss. No new vow or permanent shadow.

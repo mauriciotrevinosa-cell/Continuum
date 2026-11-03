@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 59
 **Season:** 9
-**Coverage:** S9E43–S9E47 (in progress)
+**Coverage:** S9E43–S9E48 (volume complete; S9 continues)
 **Volume title:** **The World Watching**
-**Chapter files:** 9
+**Chapter files:** 12
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -24,3 +24,6 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 | 7 | S9E46 | Everything He Knows | `THE_ARRIVALS_S9E46_LN_CHAPTER_01_EVERYTHING_HE_KNOWS_v0.1.md` |
 | 8 | S9E46 | A Place of His Own | `THE_ARRIVALS_S9E46_LN_CHAPTER_02_A_PLACE_OF_HIS_OWN_v0.1.md` |
 | 9 | S9E47 | Close Enough to Hold | `THE_ARRIVALS_S9E47_LN_CHAPTER_01_CLOSE_ENOUGH_TO_HOLD_v0.1.md` |
+| 10 | S9E47 | Where the Ground Gives | `THE_ARRIVALS_S9E47_LN_CHAPTER_02_WHERE_THE_GROUND_GIVES_v0.1.md` |
+| 11 | S9E48 | The Weight of the Other Man | `THE_ARRIVALS_S9E48_LN_CHAPTER_01_THE_WEIGHT_OF_THE_OTHER_MAN_v0.1.md` |
+| 12 | S9E48 | A Minute | `THE_ARRIVALS_S9E48_LN_CHAPTER_02_A_MINUTE_v0.1.md` |

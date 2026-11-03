@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 55
 **Season:** 9
-**Coverage:** S9E12–S9E16 (in progress)
+**Coverage:** S9E12–S9E18 (in progress)
 **Volume title:** **The Day We Chose**
-**Chapter files:** 10
+**Chapter files:** 14
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -25,3 +25,7 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 | 8 | S9E15 | Beside the Groom | `THE_ARRIVALS_S9E15_LN_CHAPTER_02_BESIDE_THE_GROOM_v0.1.md` |
 | 9 | S9E16 | Two Answers | `THE_ARRIVALS_S9E16_LN_CHAPTER_01_TWO_ANSWERS_v0.1.md` |
 | 10 | S9E16 | People Coming to Celebrate | `THE_ARRIVALS_S9E16_LN_CHAPTER_02_PEOPLE_COMING_TO_CELEBRATE_v0.1.md` |
+| 11 | S9E17 | The Evening They Kept | `THE_ARRIVALS_S9E17_LN_CHAPTER_01_THE_EVENING_THEY_KEPT_v0.1.md` |
+| 12 | S9E17 | The Morning of It | `THE_ARRIVALS_S9E17_LN_CHAPTER_02_THE_MORNING_OF_IT_v0.1.md` |
+| 13 | S9E18 | All the Way to Her | `THE_ARRIVALS_S9E18_LN_CHAPTER_01_ALL_THE_WAY_TO_HER_v0.1.md` |
+| 14 | S9E18 | I Choose This Life | `THE_ARRIVALS_S9E18_LN_CHAPTER_02_I_CHOOSE_THIS_LIFE_v0.1.md` |

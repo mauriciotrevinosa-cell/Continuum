@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 58
 **Season:** 9
-**Coverage:** S9E38–S9E41 (in progress)
+**Coverage:** S9E38–S9E42 (volume complete; S9 continues)
 **Volume title:** **The Weight of a Promise**
-**Chapter files:** 8
+**Chapter files:** 10
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -23,3 +23,5 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 | 6 | S9E40 | Before Anyone Calls It Death | `THE_ARRIVALS_S9E40_LN_CHAPTER_02_BEFORE_ANYONE_CALLS_IT_DEATH_v0.1.md` |
 | 7 | S9E41 | A Room Without an Army | `THE_ARRIVALS_S9E41_LN_CHAPTER_01_A_ROOM_WITHOUT_AN_ARMY_v0.1.md` |
 | 8 | S9E41 | The Things They Bring | `THE_ARRIVALS_S9E41_LN_CHAPTER_02_THE_THINGS_THEY_BRING_v0.1.md` |
+| 9 | S9E42 | The Last Margin | `THE_ARRIVALS_S9E42_LN_CHAPTER_01_THE_LAST_MARGIN_v0.1.md` |
+| 10 | S9E42 | The Evening They Kept Anyway | `THE_ARRIVALS_S9E42_LN_CHAPTER_02_THE_EVENING_THEY_KEPT_ANYWAY_v0.1.md` |

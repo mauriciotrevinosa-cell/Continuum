@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 55
 **Season:** 9
-**Coverage:** S9E12–S9E18 (in progress)
+**Coverage:** S9E12–S9E21 (volume complete; S9 continues)
 **Volume title:** **The Day We Chose**
-**Chapter files:** 14
+**Chapter files:** 20
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -29,3 +29,9 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 | 12 | S9E17 | The Morning of It | `THE_ARRIVALS_S9E17_LN_CHAPTER_02_THE_MORNING_OF_IT_v0.1.md` |
 | 13 | S9E18 | All the Way to Her | `THE_ARRIVALS_S9E18_LN_CHAPTER_01_ALL_THE_WAY_TO_HER_v0.1.md` |
 | 14 | S9E18 | I Choose This Life | `THE_ARRIVALS_S9E18_LN_CHAPTER_02_I_CHOOSE_THIS_LIFE_v0.1.md` |
+| 15 | S9E19 | His Wife Asked Him to Dance | `THE_ARRIVALS_S9E19_LN_CHAPTER_01_HIS_WIFE_ASKED_HIM_TO_DANCE_v0.1.md` |
+| 16 | S9E19 | A Door They Made Together | `THE_ARRIVALS_S9E19_LN_CHAPTER_02_A_DOOR_THEY_MADE_TOGETHER_v0.1.md` |
+| 17 | S9E20 | Good Morning, Husband | `THE_ARRIVALS_S9E20_LN_CHAPTER_01_GOOD_MORNING_HUSBAND_v0.1.md` |
+| 18 | S9E20 | Things to Take with Them | `THE_ARRIVALS_S9E20_LN_CHAPTER_02_THINGS_TO_TAKE_WITH_THEM_v0.1.md` |
+| 19 | S9E21 | Where Everyone Would Be | `THE_ARRIVALS_S9E21_LN_CHAPTER_01_WHERE_EVERYONE_WOULD_BE_v0.1.md` |
+| 20 | S9E21 | She Had Been Counting the Bags | `THE_ARRIVALS_S9E21_LN_CHAPTER_02_SHE_HAD_BEEN_COUNTING_THE_BAGS_v0.1.md` |

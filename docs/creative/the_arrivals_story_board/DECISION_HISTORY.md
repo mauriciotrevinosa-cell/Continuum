@@ -2924,3 +2924,7 @@ Partial double Domain and neural damage actually written; escalating mutual attr
 ### S9 matrimonio/tablero — V59#10–12, 2026-11-02
 
 Sukuna duel concludes after both spend offensive CE and collapse. Mau uses held medical margin and finite mana throughput. Records agree on true death. Voluntary minute and self-chosen abyss. No new vow or permanent shadow.
+
+### S9 matrimonio/tablero — V60#1–3, 2026-11-02
+
+Season Nine closes at V60#3. Quarry evacuation, agreed separate departures, lasting conflicting accounts, and first supported dinner. Mau still needs neurological and physical follow-up. No Season Ten begun.

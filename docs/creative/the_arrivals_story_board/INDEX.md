@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **S9 — Matrimonio y tablero, V56#10:** V56#10: continúa la luna de miel con sus escenas completas; sigo escribiendo el regreso del viaje. [Leer](../THE_ARRIVALS_LN_VOLUME_56_INDEX_v0.1.md) · [Estado](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_MARRIAGE_HONEYMOON_AND_SUKUNA_CREATOR_GREENLIGHT_2026-11-02.md).
+> **S9 — Matrimonio y tablero, V56#16:** V56 completo: dieciséis capítulos del viaje y el regreso. S9 continúa con la vida de casados y los hilos acordados. [Leer](../THE_ARRIVALS_LN_VOLUME_56_INDEX_v0.1.md) · [Estado](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) · [Verde](S9_MARRIAGE_HONEYMOON_AND_SUKUNA_CREATOR_GREENLIGHT_2026-11-02.md).
 
 > **S9 — Yuka/Mai/inventario/Milim, aclaraciones 2026-11-02:** [mensaje íntegro y aplicación](S9_YUKA_MAI_INVENTORY_UMARU_REM_AND_MILIM_CALIBRATION_CREATOR_CLARIFICATIONS_2026-11-02.md). Yuka ama bondadM yse enfada con quienes la explotan; bromaGojo/papá; Mai16origen+tiempovivido/experienciaíntimaelecciónArrivals; inventariomostradoANTESdecomprar; UmaruRemprimercitaconvoluntad;5%VeldoraMilim≈110%referenciaSukuna comoescalaautoral. No capítulos nuevos.
 

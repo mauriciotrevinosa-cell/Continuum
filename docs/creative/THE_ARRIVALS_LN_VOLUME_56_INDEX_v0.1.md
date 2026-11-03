@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S9 v0.1
 **Volume:** 56
 **Season:** 9
-**Coverage:** S9E22–S9E26 (in progress)
+**Coverage:** S9E22–S9E29 (volume complete; S9 continues)
 **Volume title:** **Somewhere Happy to Go**
-**Chapter files:** 10
+**Chapter files:** 16
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -25,3 +25,9 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 | 8 | S9E25 | A Very Important Hat | `THE_ARRIVALS_S9E25_LN_CHAPTER_02_A_VERY_IMPORTANT_HAT_v0.1.md` |
 | 9 | S9E26 | Her Rules for Rain | `THE_ARRIVALS_S9E26_LN_CHAPTER_01_HER_RULES_FOR_RAIN_v0.1.md` |
 | 10 | S9E26 | Stay for Dessert | `THE_ARRIVALS_S9E26_LN_CHAPTER_02_STAY_FOR_DESSERT_v0.1.md` |
+| 11 | S9E27 | The Last Breakfast There | `THE_ARRIVALS_S9E27_LN_CHAPTER_01_THE_LAST_BREAKFAST_THERE_v0.1.md` |
+| 12 | S9E27 | The Picture in the Square | `THE_ARRIVALS_S9E27_LN_CHAPTER_02_THE_PICTURE_IN_THE_SQUARE_v0.1.md` |
+| 13 | S9E28 | Something for Him | `THE_ARRIVALS_S9E28_LN_CHAPTER_01_SOMETHING_FOR_HIM_v0.1.md` |
+| 14 | S9E28 | Terms of the Supply Agreement | `THE_ARRIVALS_S9E28_LN_CHAPTER_02_TERMS_OF_THE_SUPPLY_AGREEMENT_v0.1.md` |
+| 15 | S9E29 | The Official Vending Citizen | `THE_ARRIVALS_S9E29_LN_CHAPTER_01_THE_OFFICIAL_VENDING_CITIZEN_v0.1.md` |
+| 16 | S9E29 | Their Own Window | `THE_ARRIVALS_S9E29_LN_CHAPTER_02_THEIR_OWN_WINDOW_v0.1.md` |

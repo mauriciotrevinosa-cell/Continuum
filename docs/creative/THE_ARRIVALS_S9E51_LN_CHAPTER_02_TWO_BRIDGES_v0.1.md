@@ -57,7 +57,7 @@ He thinks about it. She has asked him a straight question. In his whole life, in
 
 “No.” He breathes for a moment. “It was. Really terrible.” ᴹ
 
-She looks up then. She has got very large eyes, and they go over his face, slowly, from one side to the other. She takes in the eye that won't stay where it's put and the bandage. He's seen her do this with a page of numbers. He had a whole other life in which he was her father, and she knows nothing about that, and he has never said. What she knows is that he's terrible at this game, and that he has an account with her.
+She looks up then. She has got very large eyes, and they go over his face, slowly, from one side to the other. She takes in the eye that won't stay where it's put, and the bandage, and the bristle coming in all over his scalp, a good deal faster than hair ought to, with pale flecks in it that weren't there before. He's seen her do this with a page of numbers. He had a whole other life in which he was her father, and she knows nothing about that, and he has never said. What she knows is that he's terrible at this game, and that he has an account with her.
 
 Whatever she was looking for, she seems to have found it. She looks back at the board.
 

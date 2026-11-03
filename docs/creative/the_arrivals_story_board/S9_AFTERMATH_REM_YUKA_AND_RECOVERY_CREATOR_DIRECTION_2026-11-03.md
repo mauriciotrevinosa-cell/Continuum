@@ -13,3 +13,11 @@ Shoko, Beru, Yuta y el propio Mau pueden curarlo. **El daño del duelo es enorme
 - Yuka está ahí para él sin volverse su enfermera: la casa turna el cuidado, ella conserva vida propia, puede enojarse y se va cuando le toca.
 - Rem ayuda de más. Mau la detiene pidiéndole que le cuente de Umaru; se ríe, le duele, ella se asusta; al dormirse le toma la mano y le pide que siga contando. Afuera Rem llora, Yuka la abraza, la pregunta y la respuesta son las del mensaje.
 - Claude no escribe romance Mau/Yuka: su relación aquí se muestra como cuidado, enojo y familia.
+
+## Marca nueva permanente: el pelo
+
+Mensaje del creador:
+
+> oe si le podemos dejr lgo nuevo permanente como lo del ojo el pelo y asi algo que quedo muy damage yo diria que tal ves el pelo no calvo sino ya ves como lo tiene keneki cuando le borran la memoria que es negro con blanco podemos hacer algo similar a eso que mientra saen su cabello cambia mas y queda cafe con blanco y ya no es solo un pache.
+
+Aplicación: el fuego de V59 lo quema, Shoko lo rapa, vuelve a crecer deprisa y mezclado. Queda **café con blanco por toda la cabeza**, permanente. Ya no es sólo la mancha de la sien izquierda. Mau lo ve como dos grises y tiene que preguntar los colores.

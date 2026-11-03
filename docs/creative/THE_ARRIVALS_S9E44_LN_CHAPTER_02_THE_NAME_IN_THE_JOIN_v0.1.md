@@ -119,7 +119,7 @@ Then it isn't white. The fire is dying at last, running out of things to burn, a
 
 Someone is walking out of the furnace.
 
-His shirt hangs off him in burned strips. The top of his left ear is gone, and so is a good part of the skin on his back. He has half an arm on the right side, and it is still growing, the fingers just budding at the end of it. There's a light in his chest. It's very faint, and it's visible through the skin, between the ribs. He can't see what colour it is. On the ridge, in the sudden silence, a great many people could tell him. They will disagree about it for years.
+His shirt hangs off him in burned strips. The top of his left ear is gone, and so is a good part of the skin on his back. Most of his hair has burned away, down to something that smokes a little. He has half an arm on the right side, and it is still growing, the fingers just budding at the end of it. There's a light in his chest. It's very faint, and it's visible through the skin, between the ribs. He can't see what colour it is. On the ridge, in the sudden silence, a great many people could tell him. They will disagree about it for years.
 
 The walk becomes a run. His first step goes much too far. He hadn't meant that. He sails past the spot he was aiming for and has to catch himself on the ball of his foot, a little startled, like someone who has gone up a stair that wasn't there.
 

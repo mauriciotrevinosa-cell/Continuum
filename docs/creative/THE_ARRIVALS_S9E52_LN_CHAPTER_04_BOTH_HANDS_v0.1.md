@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 60
-## Chapter 18 — Both Hands
+## Chapter 19 — Both Hands
 
 **Status:** LN PRODUCTION DRAFT — S9 v0.2 (2026-11-03)
 **Volume:** 60
-**Reading order:** 18
+**Reading order:** 19
 **Source episode:** S9E52
-**Continuity state:** B+152. Season Nine ends. Mau back to his prior state of health apart from fatigue and follow-up; nothing he built was lost. Old sequelae as before: grey except Yuka, blurred left edge, two stiff fingers, scars. Training not yet cleared. Mahoraga and broken forms mending at normal cost. Archive shut. World's fear continues. No S10 begun.
+**Continuity state:** B+152. Season Nine ends. Mau back to his prior state of health apart from fatigue and follow-up; nothing he built was lost. Old sequelae as before: grey except Yuka, blurred left edge, two stiff fingers, scars. New permanent: brown-and-white hair. Training not yet cleared. Mahoraga and broken forms mending at normal cost. Archive shut. World's fear continues. No S10 begun.
 
 *When: Shoko tells him to close his right hand, he asks which one that is, and she throws a roll of bandage at him.*
 
@@ -19,7 +19,7 @@ He does it again. She has him touch each finger to the thumb, then in the other 
 
 She makes him count back from a hundred by sevens. He's bad at it. She says that he was always bad at it. She looks in the old notes, to be sure.
 
-She walks all the way around him, pressing. There's the long thin line around his waist, gone from pink to white, and she runs her thumb along it. The place on his neck is going to scar. It's not pretty. Beru has views on that. There's the top of one ear, grown back slightly the wrong shape, which Gojo has offered to have framed. On his left hand, there are the same two stiff fingers there have always been. She bends each of them, and she lets them go.
+She walks all the way around him, pressing. There's the long thin line around his waist, gone from pink to white, and she runs her thumb along it. The place on his neck is going to scar. It's not pretty. Beru has views on that. There's the top of one ear, grown back slightly the wrong shape, which Gojo has offered to have framed. There's the hair, which she pushes out of the way with a finger and doesn't bother to mention. She has given up on that. On his left hand, there are the same two stiff fingers there have always been. She bends each of them, and she lets them go.
 
 She sits down on the edge of the table. It's the first time he has seen her sit in sixteen days without being told to. She gets out a cigarette and looks at it. She puts it back.
 

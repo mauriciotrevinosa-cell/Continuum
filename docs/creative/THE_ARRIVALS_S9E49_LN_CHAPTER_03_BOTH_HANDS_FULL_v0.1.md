@@ -31,7 +31,7 @@ He goes. Four others go with him. You can hear them on the stairs, relieved, arg
 
 Shoko has her hands on his chest and has had them there for three hours.
 
-It's slow work, which is a thing nobody ever believes about her. They see her close a cut in a kitchen with two fingers and they think that's what it is. This is building a wall one brick at a time, in the rain, while someone asks when it will be done. The lung first. Then the big vessel in the neck, which is holding on a strip of something that isn't quite flesh. The bone behind the knee.
+It's slow work, which is a thing nobody ever believes about her. They see her close a cut in a kitchen with two fingers and they think that's what it is. This is building a wall one brick at a time, in the rain, while someone asks when it will be done. The lung first. Then the big vessel in the neck, which is holding on a strip of something that isn't quite flesh. The bone behind the knee. Somebody has shaved what was left of his hair, to get at the scalp, and it lies in a small burnt heap on the floor where nobody has had a hand free to sweep it.
 
 “He's made of the strangest things,” she says. “Half his chest is new. I don't know whose it is. It's got no history.” ˢʰ
 

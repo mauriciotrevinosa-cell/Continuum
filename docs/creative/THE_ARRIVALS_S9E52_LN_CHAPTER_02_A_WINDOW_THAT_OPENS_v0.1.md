@@ -13,6 +13,12 @@
 
 He would like to very much. It's sixty-one paces from the clinic to the guest wing, by way of the long gallery, and Kaneki has walked every one of them half a step behind his left shoulder, reading a book. The book's upside down. He has been on the wall for this for three days.
 
+Kaneki glances up from it. He looks, for a moment, at the top of Mau's head, where about a finger's depth of new hair has come in, faster than it has any right to, with Beru seeping at everything in reach. He has the look of a man reading something in a language he happens to know.
+
+“It'll keep changing for a while,” he says. “Mine did. You'll want to stop checking.” ᴷᵃⁿ
+
+Mau hasn't got a good answer to that. He puts up a hand. It feels like a brush.
+
 “I'll wait out here,” Kaneki says. “I'm at a good part.” ᴷᵃⁿ
 
 There's a voice from inside.

@@ -101,7 +101,7 @@ He hits it again.
 
 “*Hghk,*” says the lower mouth. ˢᵘ
 
-An elbow lands on his spine. He doesn't feel it. He's got his forehead right in there, and his teeth bared. He feels a hand take his hair and lift, and he goes up, right off the ground, a long way, kicking. He's looking into the upper face from about a foot away. It has blood all over it. It is absolutely radiant.
+An elbow lands on his spine. He doesn't feel it. He's got his forehead right in there, and his teeth bared. He feels a hand take what the fire left of his hair and lift, and he goes up, right off the ground, a long way, kicking. He's looking into the upper face from about a foot away. It has blood all over it. It is absolutely radiant.
 
 “Why,” Sukuna says, “you horrid little *boy*.” ˢᵘ
 

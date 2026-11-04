@@ -2992,3 +2992,7 @@ Nishimiya settles as a guest. Mai, Momo, and Maki retain separate agency. Sukuna
 ### S10 después de la cantera — V63#1–3, 2026-11-04
 
 Chocolate sequence begins after Momo's arrival, family comedy only. Fort form triggers a mundane clerical mistake. Ori's proposed expedition still subject to next-day checks and adult safety roles.
+
+### S10 después de la cantera — V63#4–7, 2026-11-04
+
+Sober supervised flight and dungeon expedition; Ori leads, participants opt in. Milim teaches appropriate intervention. Gojo supplies bounded Red on Ori's timing. All return.

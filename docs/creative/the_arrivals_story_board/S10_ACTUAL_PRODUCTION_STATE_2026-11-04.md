@@ -53,11 +53,13 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V63#1 | S10E20 CH01 | B+168 afternoon | Maomao's chocolate returns as group comedy. One square stronger than intended. |
 | V63#2 | S10E20 CH02 | B+168 afternoon | Mau witnesses an overly broad Fort cupboard form, one copy reaches outer desk. |
 | V63#3 | S10E21 CH01 | B+168 evening | Ori asks to lead a supervised dungeon outing. Mau named assistant. |
+| V63#4 | S10E21 CH02 | B+169 morning | Clearance, safety roles, Milim's advice and children's choice. |
+| V63#5 | S10E22 CH01 | B+169 late morning | Ori directs a short supervised ride on Kaisel. |
+| V63#6 | S10E22 CH02 | B+169 midday | Fort team maps a passage; Milim handles the blind-side monster. |
+| V63#7 | S10E23 CH01 | B+169 midday continuous | Ori leads the last chamber, Gojo provides one timed Red. Group exits safely. |
 
 ## Current state
 
-V63#3 B+168 evening. Maomao's distracted preparation yields one knowingly accepted square stronger than intended for Mau; affection and compliments across the household, no intimate escalation, others unaffected. Maomao monitors, effects receding by dinner. No training, dragon ride, gate or experiments while active. Maomao's questions about Ko are independent; no sample or test written.
+V63#7 B+169 midday. Chocolate cleared before morning check. Shoko cleared Mau as passenger and observer on a short checked route; still no combat. Ori selects/briefs group, children/pupils opt in/out, Frieren and Milim can stop, Yuka and Gojo support, Milim instructs Mau in three duties. Ori pilots the directions of Kaisel's short supervised ride with Mau riding; Kaisel returns to shadow before entry. Group takes prechecked route. Milim intercepts a monster in blind spot, Mau thanks with one ordinary packed soda (no Shop transaction), child marks the blind angle. Ori and team find timing and angle, ask for power of friendship, Gojo supplies one safely directed Red. No child hurt, no Arise or inventory gain asserted; all exit. Ori shows the map to those who waited.
 
-Umaru asked for Fort cupboard autonomy. Mau signs an overbroad independent management statement as witness. One copy went to outer desk with routine notices; Yuka stopped further copying and kept original. This creates administrative confusion only, not valid sovereignty or magical binding. Actual Fort agreement must be negotiated by informed parties. Yuka is a Fort citizen in negotiations.
-
-Ori wants to lead a supervised outing in a low-risk dungeon. Children lead and may choose to stop. Frieren and Milim help with route and intervention conditions. Mau accepted assistant role, no permission to fly or enter yet. Confirm clearance, group, route and conditions next day; Kaisel ride as agreed only if cleared. V62 Momo guest review due B+168 breakfast; longer stay review outcome not shown yet, can follow up as needed. S10 active.
+Mau witnessed an overbroad independent Fort form during chocolate. One copy reached outer desk. Yuka held further copies. Next reconcile what was seen and what the Fort actually requests, negotiate in good faith with all Fort (Yuka on Fort side) and Rimuru/Mau, no new political calamity/embargo. Queen Yuka, extra sweets; don't misplace cup/restrict unrelated authority. Ko consultation still pending exact sample, no test performed. No Mahoraga adoption changes. No major battle this season required. Walpurgis and Falling Devil afterward.

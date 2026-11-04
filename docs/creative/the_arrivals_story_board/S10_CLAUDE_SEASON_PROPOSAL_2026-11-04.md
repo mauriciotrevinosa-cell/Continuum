@@ -49,6 +49,28 @@ Sembrado en S3, V16–17: cinco estanques redondos y equidistantes que los viejo
 - **Falling Devil:** leer el manga en el Vault.
 - **Monedas:** saldo y dueños reales.
 
+## Segundas observaciones del creador
+
+> no sino fue error mio y nos inventamos como llega. uuuu si y volvemos a tener a subaru egocentrico y que rem y todos lo vuelvan a sentar y ponerlo en su lugar y aun peoar que subaru pueda decirle que ama a rem intentando jalar en una manera retorciida a rem y rem es lo que lo pone en su lugar y le cuenta bien de mau y de umaru y de todos defendiendo esta nueva vida y hasta puede insultar a subaru por intentar usar sus sentimientos de amistad como una forma de hacer lo que el diga. me encnta lo de uraume que ella solo viene a hacer una pregunta y se va no dice si cobrara venganza o que hara solo una pregunta. me da risa pero que haya un tratado que involucre a todos del fort muy serios y dos idiotas del otro lado de la mesa intentando negociar yuka esta del lado del fort pq es ciudadana. y puede terminar con una nueva cantidad de dulces y de cosas de mau y vaya o vaya regresamos unos de mis caps favoritos pero con el twist all hail queen yuka (only mau really) y mao mao prepara algo pero se distrae y veine un poco mas fuerte de lo usal o si regresa el choclate baby
+> no entendi tu climax osea que? y que desapaarece siento que me falto contexto. no esta mejor que su king y otro beru con su king y jin woo y mau se preguntan si ambos son igual de dramaticosy jin woo dice algo de telenovelas y el beru de mau pregunta y el otro beru se lo lleva y dice que tome notas que es muy importante y jin woo pone su cara en la mano y pide perdon y mau se rie osea que parezca tenso pero son dos monarcas que ambos solo quieren proteger a su familia . Que de rimuru no entiendi tu ultima pregunta siento que estas asumiendo mucho en tu climax que no me haz dicho
+
+**Queda fijado:**
+
+- **Jin-Woo:** cómo llega lo inventamos nosotros. La referencia a Ragnarok se retira.
+- **Subaru:** vuelve egocéntrico. Le dice a Rem que la ama para jalarla de forma retorcida. Rem misma lo pone en su lugar: le cuenta de Mau, de Umaru y de todos, defiende su vida nueva y hasta lo insulta por usar la amistad para que ella haga lo que él dice. La casa también lo sienta.
+- **Uraume:** viene a hacer una sola pregunta y se va. No dice si cobrará venganza ni qué hará.
+- **Tratado del Fort:** el Fort entero muy serio y dos idiotas al otro lado de la mesa. Yuka del lado del Fort, porque es ciudadana. Termina en una nueva cantidad de dulces y cosas de Mau.
+- **All Hail Queen Yuka:** regresan los capítulos de la reina (V23) con el giro de que sólo Mau la obedece de verdad.
+- **Chocolate:** Maomao prepara algo, se distrae y sale más fuerte. Regresa el chocolate baby (S3 V16, Mau golden retriever).
+- **Beru y Jin-Woo:** cada Beru con su rey. Parece tenso. Jin-Woo y Mau se preguntan si los dos son igual de dramáticos, Jin-Woo dice algo de telenovelas, el Beru de Mau pregunta y el otro se lo lleva diciéndole que tome notas, que es muy importante. Jin-Woo se tapa la cara y pide perdón. Mau se ríe. Dos monarcas que sólo quieren proteger a su familia.
+
+**Abierto:** el clímax del punto 10 no quedó claro y Claude lo resumió de más. La cadena del punto 6 (calamidad, Imperio, embargo) es suposición de Claude, sin aprobar. «Lo agarran» sigue por aclarar con el creador.
+
+**Falta:** una pelea grande en S10.
+
 ## Reparto de escritura
+
+Queen Yuka y el chocolate: Claude escribe la comedia y la casa. Lo que sea romántico entre ellos (incluido Mau golden retriever con Yuka) lleva marca para Work.
+
 
 Claude escribe y deja marcas para Work en beats románticos Mau/Yuka.

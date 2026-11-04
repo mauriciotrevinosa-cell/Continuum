@@ -102,7 +102,18 @@ Sembrado en S3, V16–17: cinco estanques redondos y equidistantes que los viejo
 
 - **Independencia del Fort:** sale del chocolate. El «error en tratados» es que Mau, consintiendo a Umaru, firma algo que reconoce al Fort como nación. Al día siguiente hay que negociarlo: de ahí el tratado con los dos idiotas al otro lado de la mesa. Reemplaza la razón del embargo.
 - **Pagar los mensajes al volver:** el tour con la Ori nueva y lo que le pidió la otra Yuka son capítulos de regreso. Sin forzar que Ori lo llame papá.
-- **Cierre sin pelea:** S10 termina cuando el rey se disculpa, y Mau regresa todo, tal como dijo. Jin-Woo llega al final y el side quest abre lo siguiente.
+
+## Quintas observaciones del creador (prevalecen)
+
+> me encanta que ya asumiste que fue la mejor pelea d ela serie jajajajajjaja. hay que mamona si si work lo va a hacer ya lo entendi no me lo tienes que reocrdar traicionera te saco la lengua. no me gusta que hagamos un time jump por un time jump si el vato se disuclpa en otra season valido ve como la mayoria d elos caps que no hiciste son dia a dia o varios del mismo dia y no osea puede ser que el final sea que aun hay cosas abiertas y puede terminar en un high antes de otros problemas como digo este es el aftermath osea lo mas pesado es que mau ya amenazo a la gente mas poderosa  y si puede ser que jin woo sea lo ultimo y s11 arranque con jin woo ahi y analizando una propuesta pq mi idea es que el quiera que mau vaya a ayudarlo a la pelea le explcia que este grupo de idoses crearon mundos y mau ya medio conoce la historia y mau propone algo que va a requerir permiso de dio y de ashbrn y de la casa mau propone traer la fam de jin woo el logro llegar aqui
+
+**Queda fijado:**
+
+- **Sin saltos de tiempo por saltar.** S10 va día a día, o varios capítulos del mismo día.
+- **El rey no tiene que disculparse en S10.** Puede pasar en otra temporada. Se retira el final que propuso Claude.
+- **Final:** en un momento alto, antes de otros problemas, con cosas todavía abiertas. S10 es aftermath; lo más pesado es que Mau ya amenazó a la gente más poderosa.
+- **Jin-Woo es lo último de S10.**
+- **S11 arranca con Jin-Woo ahí**, con una propuesta sobre la mesa: quiere que Mau vaya a ayudarlo en su pelea y le explica que este grupo de dioses creó mundos. Mau ya medio conoce la historia. Mau contrapropone **traer aquí a la familia de Jin-Woo**. Eso requiere permiso de DIO, de Ashborn y de la casa. *(Semilla para S11, no S10.)*
 
 ## Reparto de escritura
 

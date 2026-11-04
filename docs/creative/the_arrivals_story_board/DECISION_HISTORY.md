@@ -3016,3 +3016,7 @@ Old Ori voluntarily gives a sealed-by-fold personal note, whose text is not show
 ### S10 después de la cantera — V64#1–4, 2026-11-04
 
 Mau tells Yuka, gives her original Yuka's message and recreates the hand dragon with her. Ori directs Kaisel and chooses later for the unopened message with Frieren's full support. Gray persists except Yuka. Creator confirmed original minor king targeting Hollis at the commercial crossing; the king arc has not yet occurred.
+
+### S10 después de la cantera — V64#5–8, 2026-11-04
+
+Noise selected Noise. Creator approved an original king targeting Hollis at the crossing. King Edran of Vey acted on Makima's persuasion and issued his own order; the house only has direct witness evidence about Edran's order and guards. Hollis is recovered first, with consent, via Mau personal Exchange to him and an ordinary return by Kaisel. No civilian held liable for the king's choice.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 61
 **Season:** 10
-**Coverage:** S10E01–S10E03 (in progress)
+**Coverage:** S10E01–S10E05 (in progress)
 **Volume title:** **The Keys**
-**Chapter files:** 6
+**Chapter files:** 12
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -21,6 +21,9 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 4 | S10E01 | The One He Hates | `THE_ARRIVALS_S10E01_LN_CHAPTER_04_THE_ONE_HE_HATES_v0.1.md` |
 | 5 | S10E01 | Exact Change | `THE_ARRIVALS_S10E01_LN_CHAPTER_05_EXACT_CHANGE_v0.1.md` |
 | 6 | S10E02 | What the Cart Is For | `THE_ARRIVALS_S10E02_LN_CHAPTER_01_WHAT_THE_CART_IS_FOR_v0.1.md` |
-| 4 | S10E02 | Their Own Names | `THE_ARRIVALS_S10E02_LN_CHAPTER_02_THEIR_OWN_NAMES_v0.1.md` |
-| 5 | S10E03 | Push Here | `THE_ARRIVALS_S10E03_LN_CHAPTER_01_PUSH_HERE_v0.1.md` |
-| 6 | S10E03 | What Goes Back | `THE_ARRIVALS_S10E03_LN_CHAPTER_02_WHAT_GOES_BACK_v0.1.md` |
+| 7 | S10E02 | Their Own Names | `THE_ARRIVALS_S10E02_LN_CHAPTER_02_THEIR_OWN_NAMES_v0.1.md` |
+| 8 | S10E03 | Push Here | `THE_ARRIVALS_S10E03_LN_CHAPTER_01_PUSH_HERE_v0.1.md` |
+| 9 | S10E03 | What Goes Back | `THE_ARRIVALS_S10E03_LN_CHAPTER_02_WHAT_GOES_BACK_v0.1.md` |
+| 10 | S10E04 | Before the Bell | `THE_ARRIVALS_S10E04_LN_CHAPTER_01_BEFORE_THE_BELL_v0.1.md` |
+| 11 | S10E04 | Nothing to Carry Back | `THE_ARRIVALS_S10E04_LN_CHAPTER_02_NOTHING_TO_CARRY_BACK_v0.1.md` |
+| 12 | S10E05 | Eight Spokes | `THE_ARRIVALS_S10E05_LN_CHAPTER_01_EIGHT_SPOKES_v0.1.md` |

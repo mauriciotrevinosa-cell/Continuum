@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 61
-## Chapter 5 — Push Here
+## Chapter 8 — Push Here
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 61
-**Reading order:** 5
+**Reading order:** 8
 **Source episode:** S10E03
-**Continuity state:** B+153 afternoon. Mau and Yuka talk after the delegation. Latch installed and tested. Jinshi checks orders and the path back; no public correction yet.
+**Continuity state:** B+156 afternoon. Mau and Yuka talk after the delegation. Latch adjusted and tested after installation. Jinshi checks orders and the path back; no public correction yet.
 
-*When: Mau gets back to the practice room, somebody has put up the door.*
+*When: Mau gets back to the practice room, somebody has got the door to shut without a fight.*
 
 He can tell by how little of the room he can see. There's a strip of light under it and a voice on the other side which belongs to Ori.
 
@@ -39,11 +39,11 @@ Ori asks to be paid in one of the towels. Mai tells her to take two if she'll le
 
 When Ori has gone, Mai tries the handle from the far side. There is a little spring to it that was not there before. She opens and closes it three times, and on the third she puts her head against the wood and smiles. It is small enough that Mau could have missed it if he had been busy telling her she did a good job.
 
-“That'll hold,” she says. ᴹᵃ
+“That'll hold,” she says. ᴹᵃⁱ
 
 Yuka takes the cloth out of the hinge and sets it down with the rest of the scraps. She asks if Mai wants to write both their names on the drawing before it goes up.
 
-“Under the door?” ᴹᵃ
+“Under the door?” ᴹᵃⁱ
 
 “In the corner.” ʸ
 

@@ -1,5 +1,5 @@
 # The Arrivals — Light Novel — Volume 61
-## Chapter 3 — What the Cart Is For
+## Chapter 6 — What the Cart Is For
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 61

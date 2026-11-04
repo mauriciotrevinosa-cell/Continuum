@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 61
-## Chapter 6 — What Goes Back
+## Chapter 9 — What Goes Back
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 61
-**Reading order:** 6
+**Reading order:** 9
 **Source episode:** S10E03
-**Continuity state:** B+154 morning. Guest yard dispositions voluntary. Independent courier and written accounts go out. No judicial outcome invented. The village keeps its keys and its obligations.
+**Continuity state:** B+157 morning. Guest yard dispositions voluntary. Independent courier and written accounts go out. No judicial outcome invented. The village keeps its keys and its obligations.
 
 *When: West comes to breakfast, he has carried his own cup back from the road.*
 

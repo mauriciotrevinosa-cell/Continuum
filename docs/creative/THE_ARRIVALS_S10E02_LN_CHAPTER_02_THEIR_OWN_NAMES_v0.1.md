@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 61
-## Chapter 4 — Their Own Names
+## Chapter 7 — Their Own Names
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 61
-**Reading order:** 4
+**Reading order:** 7
 **Source episode:** S10E02
-**Continuity state:** B+153 midday. House obtains the travelers' separate accounts. Captives released from the cart with their consent and admitted to guest yard. No territorial transfer, automatic pardon, or supernatural interrogation. Mau returns the grainhouse key and asks the keeper to report what happened.
+**Continuity state:** B+156 midday. House obtains the travelers' separate accounts. Captives released from the cart with their consent and admitted to guest yard. No territorial transfer, automatic pardon, or supernatural interrogation. Mau returns the grainhouse key and asks the keeper to report what happened.
 
 *When: the runner brings the jug, the keeper holds out both hands for it.*
 

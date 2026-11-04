@@ -2948,3 +2948,7 @@ Keys incident immediate resolution. Three captives released and voluntarily shel
 ### S10 auditoría de V61#1–3, 2026-11-04
 
 Claude audita. El arranque se quedaba corto de Mau y Yuka: el creador pidió mucho de ellos y la carreta llegaba el mismo día. Se insertan tres capítulos de Claude como V61#3–5 y la delegación pasa a B+156. Correcciones a V60: límite de Shoko y tiempo en casa. Marcas de hablante de Mai y Maki aclaradas.
+
+### S10 después de la cantera — V61#10–12, 2026-11-04
+
+Mau returns to brief controlled movement, and Mau/Yuka have an ordinary outing together. The wheel begins with mixed public meanings. The maker at the Ashby bridge has requested road contact via Hollis, not yet met.

@@ -1,50 +1,54 @@
-# S10 — Propuesta de temporada de Claude
+# S10 — Propuesta de temporada, segunda versión
 
-2026-11-04. **Propuesta para opinión del creador. No es canon ni verde de capítulos.** Pedido del creador: «okay que propones para s10?» y «no solo hilos abiertos cosas nuevas trama y asi». Serie abierta: esto no busca un final.
+2026-11-04. **Propuesta en conversación. No es canon ni verde de capítulos.** Serie abierta: esto no busca un final. Es una ruta y se le puede agregar más.
 
-## Premisa
+## Observaciones íntegras del creador
 
-S9 le preguntó al mundo quién ganaba. S10 pregunta qué hace el mundo con quien se levantó. El rumor de que Mau se comió a Sukuna es falso, pero la gente actúa como si fuera cierto. El enemigo de la primera mitad no pelea: es lo que la gente cree de él.
+> osea ya quieres traer un hijo a la historia? me gusta putno 1,2 me gustan el walpurgis me gusta que mau los rete osea que regrese a esa forma de actuar cuando frieren fue cortada en la otra linea retarroda y dice llamenlo como quieran eso no cambia nada intentan levantar un deod contra los de la casa y se va a segurar que no quede rastro de llos y lo que hicieron si a el no lo molestan el no les hara and ay se va y deja rimuru y ahi es donde lo agarran.
+> lo del walker no lo entdi que de s3 que walker ando muy perdido. punto 8 no se y no veo que traigan a gente o encuentren a nueva y siento que bocchi ya espero hasta demas
+> y si me gusta que jin woo por fin lo vuelva a ubicar pero que auqi podamos hacer algo que hizo en ragnarko que llegeu no solo lo contacte y esto puede abrir en si un side quest
+>
+> ah ay vi donde pones lo de bocchi me gustaria que noise por fin decida que ya tiene un nombre y termine siendo noise. tiempo que conflictoc ausa que el fort declare su independencia. lo del cancer ya sucedio no le metas sisania y lo del falling devil okay esto es mas o menos una ruta podemos agregar mas  y antes de que te ararnques ve mis observaciones y ver que mas se puede hacer en esta season
 
-## Movimientos (orden flexible)
+## Decidido por el creador
 
-### 1. Respiro y las llaves
-Apertura de vida diaria: Mau vuelve a entrenar, cartas, casa. Luego llega a la puerta una delegación de un pueblo que nadie conoce, a rendirse sin que nadie se lo pidiera. Traen las llaves, los impuestos y una carreta cerrada. Dentro hay gente: sus presos, para que coma él y no ellos.
+- Le gustan las llaves y la gente de la rueda.
+- **Walpurgis:** Mau los reta, con la actitud de cuando cortaron a Frieren en la otra línea. «Llámenlo como quieran, eso no cambia nada.» Si levantan un dedo contra la casa, se asegura de que no quede rastro de ellos ni de lo que hicieron. Si no lo molestan, no les hace nada. Se va y deja a Rimuru, y ahí lo agarran. *(Por aclarar: cómo lo agarran.)*
+- **Jin-Woo** llega en persona, no sólo contacta, y eso abre un side quest.
+- **Noise** decide que ya tiene nombre: Noise.
+- **Llegadas:** tiene que haber gente nueva. Bocchi ya esperó de más.
+- **Cáncer de Yuka:** ya sucedió. No se usa.
+- **Falling Devil:** va, sujeto a leer la fuente.
+- Punto 8 de la primera versión (toda la casa contra el Arquitecto): en duda.
+- Walker: el creador no lo recordaba. Por decidir.
 
-### 2. La gente de la rueda (nuevo)
-Peregrinos en el pueblo. Enfermos que quieren aprender a levantarse. Un niño con once marcas hechas por él mismo. Una mujer nativa, la primera que dibujó la rueda, cuyo hijo murió en los caminos de Sukuna: sincera, no villana, y Makima nunca ha hablado con ella. Mau no puede golpear esto.
+## Bebé
 
-### 3. Walpurgis y el Imperio (nuevo)
-Yuuki y los enemigos de Tensura cambian de objetivo: el peligro ya no es el slime. El Imperio marcha con razones que suenan bien. Tempest presiona a Rimuru para que se separe de Mau, y esa es la primera fricción real entre ellos. Rimuru cumple la invitación sembrada en S8 y lo lleva a Walpurgis: lo nombran Demon Lord o lo declaran calamidad. «Demon Lord» es el título del fragmento del Trial donde destruyó un mundo (V23, S8). Respuesta oficial del Fort incluida.
+El creador duda. Recomendación de Claude: **no en S10.** Lo eligieron esperar y S9 lo acaba de reafirmar. La semilla del segundo latido queda guardada para cuando él decida.
 
-### 4. La línea vieja (idea y decisiones del creador)
-[Semilla](S10_SEED_RETURN_TO_THE_BLACK_CREATOR_IDEA_2026-11-03.md). Centro emocional de la temporada. Makima elige el peor momento. Candidato: Falling Devil, pendiente de leer la fuente.
+## Ruta propuesta
 
-### 5. El segundo latido (semilla del creador, S8)
-Mau vuelve en paz y elige con Yuka. Tiempo después, a la hora en que su cuerpo despierta, oye un segundo latido. La paz se vuelve prisa: quiere eliminar enemigos antes de que nazca. Yuka se lo reprocha. Sin violencia contra ella ni contra el bebé. Nueve meses reales.
+1. **Las llaves.** Respiro. Un pueblo se rinde sin que nadie se lo pida y trae presos en una carreta para que coma él.
+2. **La reunión grande (creador, S8).** Se abre el pin de las monedas. Primero la familia de Bocchi, con reencuentro completo. La hermana llega con el perro. La casa lo organiza mientras Mau anda en otra cosa: auditoría real de monedas, tandas y consentimiento. Gaoshun por la vía de Jinshi. Subaru invita a salir a Rem, según la dirección de S8. Ko para Nazuna, si el creador quiere.
+3. **La gente de la rueda.** Peregrinos, el niño de las once marcas, la mujer que dibujó la primera.
+4. **Uraume llega a la puerta (nuevo).** Sin deseos de venganza. Quiere saber qué dijo al final. Mau es el único que lo sabe.
+5. **Walpurgis.** El reto. Mau se va.
+6. **La cadena (nuevo).** Lo declaran calamidad. Eso da cobertura legal al Imperio y embargo a quien comercie con el pueblo. Agarran a Rimuru, que sí tiene una nación que perder.
+7. **Independencia del Fort (nuevo).** Respuesta a «qué conflicto la causa»: el embargo. Umaru descubre que el Fort nunca estuvo en la lista. Declara independencia y sigue comerciando; Hollis y las rutas pasan por él. La Guardiana del Fort es Milim, Demon Lord. Atacar al Fort es atacarla a ella. Comedia con función real: el Fort salva al pueblo.
+8. **La línea vieja.** Centro emocional. [Semilla](S10_SEED_RETURN_TO_THE_BLACK_CREATOR_IDEA_2026-11-03.md). Noise, a su regreso, dice su nombre.
+9. **Jin-Woo llega.** Side quest. Escenas obligadas: Ashborn y él, con la ventana abierta; Beru ante los dos reyes. Motivo por cotejar en la fuente.
+10. **La promesa que hay que pagar (nuevo, propuesta de clímax).** Makima empuja a un señor menor a tocar a alguien de la casa. Si Mau no responde, su palabra no vale. Si responde, es el monstruo. Gana en los dos casos, como siempre. Mau cumple: en una noche la legión saca a toda la gente viva, y él desmonta el castillo piedra por piedra y lo guarda. Amanece un campo vacío. No quedó rastro, ni un muerto, y el mundo se asusta más porque no lo entiende. Lo pide con la casa, no solo.
 
-### 6. El archivo tiene una puerta trasera (nuevo)
-Estudiando con Frieren, despacio, aparece lo que Sukuna sabía: su alianza con el Arquitecto (V31, sólo la conocía el lector). Mau tiene la ubicación de su enemigo y Makima quiere esa información. También puede salir la verdad de los Rulers y el Trial.
+## Walker: por decidir
 
-### 7. The Walker (semilla de S3)
-Por fin llega, y no es una pelea. El gigante camina y su ruta cruza pueblos y al ejército imperial. Lo que el mundo teme usa sus 6615 soldados para cargar una ciudad a cuestas. Frieren lo vio una vez; Senku tenía el número. Imperio, peregrinos y Tempest tienen que cooperar. Makima aprovecha el caos.
+Sembrado en S3, V16–17: cinco estanques redondos y equidistantes que los viejos llaman «Walker's steps», Senku midiendo la zancada con un número que no enseña, Frieren que lo vio «una vez», un juego de niños. El creador propuso un kaiju a mitad de S3 y se aplazó. No es pelea: un gigante antiguo que sólo camina. Puede ser S10 o quedarse para después. Con el punto 10 ya se usa la imagen del ejército cargando cosas, así que no hace falta en S10.
 
-### 8. Esta vez no solo (clímax)
-Con el bebé en camino, su instinto es irse solo, sin retorno. Paga «Next time, look for us too» (V35) y «faster, not alone». Lo dice antes de salir y va la casa: primera gran pelea con todos, contra el Arquitecto. Mau empieza a crecer de verdad más allá del techo. Gojo tiene su propia pelea grande y Yuka lidera un frente.
+## Cotejar antes de escribir
 
-### Gancho final
-Con el techo roto, el canal queda abierto y suena lo que Jin-Woo lleva tiempo intentando decir.
-
-## Vida de casa
-
-- Conversación DIO/Shoko sobre ser mamá (prometida en V60 #17).
-- Ori decide cómo llamarlo. Puede pesar más con un hermano en camino. No apresurarlo.
-- La hermana de Bocchi llega con el perro (idea del creador).
-- Rem y Umaru, Gojo y Shoko, Rimuru y Shizue a su ritmo.
-- Noise se levanta de la puerta y elige su nombre.
-- Fort: independencia y relaciones exteriores.
-- Yuka contándole lo del cáncer, si esta Yuka aún no lo ha hecho. Mau ya lo sabe por la otra vida. **Por cotejar antes de usar.**
+- **Ragnarok:** las búsquedas web indican que Jin-Woo sale sólo en flashbacks, pelea contra Itarim y manda a Beru a entrenar a Suho. Eso no coincide con que llegue. Leer el web-novel en el Vault, sólo lectura.
+- **Falling Devil:** leer el manga en el Vault.
+- **Monedas:** saldo y dueños reales.
 
 ## Reparto de escritura
 
-Claude escribe y deja marcas para Work en los beats románticos Mau/Yuka. Sexo y concepción fuera de escena.
+Claude escribe y deja marcas para Work en beats románticos Mau/Yuka.

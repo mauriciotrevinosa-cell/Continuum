@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 61
-## Chapter 4 — Exact Change
+## Chapter 5 — Exact Change
 
-**Status:** PRUEBA S10 v0.1 (2026-11-04), con marcas para Work. No canon.
+**Status:** LN PRODUCTION DRAFT — S10 v0.1 (2026-11-04)
 **Volume:** 61
-**Reading order:** 4
-**Source episode:** S10E03
-**Continuity state:** B+155. Shoko allows a short outing. Kaisel stored before market, landing away from crowds. First time Mau sees the public fear in person. Wheel chalked on walls. Ordinary purse. No violence.
+**Reading order:** 5
+**Source episode:** S10E01
+**Continuity state:** B+155. Shoko allows a short outing beyond the markers. Kaisel stored before market, landing away from crowds. First time Mau sees the public fear in person. Wheel chalked on walls. Ordinary purse. No violence.
 
 *When: B+155, late morning. Kaisel sets them down in a dry field behind the Ashby road, and Mau sends him back into the dark before anyone has to look at him.*
 
@@ -19,7 +19,7 @@
 
 “I'll carry the pears.” ʸ
 
-It's a real market day. He can hear it from the road. There are about forty stalls along the wall of the town, and a man with a very bad flute. It is the first place he has been in three weeks that has no one in it who knows how he takes his tea. Yuka walks a little ahead with her hands in her pockets. She's got her good coat on, and she's looking at everything. He gives his attention to walking like somebody who doesn't use a cane because he has to.
+It's a real market day. He can hear it from the road. There are about forty stalls along the wall of the town, and a man with a very bad flute. It is the first place he has been in three weeks that has no one in it who knows how he takes his tea. Yuka walks a little ahead with her hands in her pockets. She's got her good coat on, and she's looking at everything. He gives his attention to walking like somebody who has never been in a clinic.
 
 He's looking forward to this. He'd like that known. He had been looking forward to it since yesterday.
 
@@ -95,7 +95,7 @@ She bites it. She chews for some time, breathing through her nose.
 
 He has started to laugh.
 
-He doesn't know when that began. It's coming up from a long way down and it isn't a very nice laugh. It hurts his side. He leans on the cane and it goes on.
+He doesn't know when that began. It's coming up from a long way down and it isn't a very nice laugh. It hurts his side. He puts his hands on his knees and it goes on.
 
 “You paid for pears,” he says, “like you were. Declaring war.” ᴹ
 
@@ -113,4 +113,20 @@ She saw him lying on that stone, and it hasn't stopped.
 
 He stops laughing, somewhere in there.
 
-`[PARA WORK: En el campo, antes de llamar a Kaisel. Ella tiene miedo por él y no sabe dónde ponerlo. Él sabe lo que vio en los ojos del viejo, y puede contárselo o no. EMPIEZA: justo aquí, los dos parados en la hierba seca. TERMINA: él llama a Kaisel y ella le da una pera. Lo siguiente empieza al día siguiente, en casa.]`
+“I know that look,” he says. ᴹ
+
+She wipes her chin with the back of her wrist.
+
+“The old man. The way he had it all ready, so that I wouldn't have to reach.” He takes a moment. “I did that. To Gojo, in the field.” ᴹ
+
+“I know. You told us.” ʸ
+
+“I didn't want him to look like that.” ᴹ
+
+“I know you didn't.” ʸ
+
+The wind moves the dry grass around their boots. She looks at the town for some time, and at the road. Then she goes into her pocket and holds a pear out to him, without turning her head.
+
+“Eat that,” Yuka says. “Shoko said pears.” ʸ
+
+He takes it. It's very good. He stands there and eats the whole thing, down to the stem, and only then does he call the dragon.

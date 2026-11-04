@@ -2944,3 +2944,7 @@ Creator greenlight, Nov 4. Start from V60#20 at B+153. Claude's saved testrun re
 ### S10 después de la cantera — V61#4–6, 2026-11-04
 
 Keys incident immediate resolution. Three captives released and voluntarily sheltered, no territorial transfer and no coercion or summary judicial resolution. Latch installed and tested. Keeper leaves with account; do not assume every town believes it. Wheel thread and family/coin arcs follow.
+
+### S10 auditoría de V61#1–3, 2026-11-04
+
+Claude audita. El arranque se quedaba corto de Mau y Yuka: el creador pidió mucho de ellos y la carreta llegaba el mismo día. Se insertan tres capítulos de Claude como V61#3–5 y la delegación pasa a B+156. Correcciones a V60: límite de Shoko y tiempo en casa. Marcas de hablante de Mai y Maki aclaradas.

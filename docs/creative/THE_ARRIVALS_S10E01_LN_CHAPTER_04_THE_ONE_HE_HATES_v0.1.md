@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 61
-## Chapter 3 — The One He Hates
+## Chapter 4 — The One He Hates
 
-**Status:** PRUEBA S10 v0.1 (2026-11-04), con marcas para Work. No canon.
+**Status:** LN PRODUCTION DRAFT — S10 v0.1 (2026-11-04)
 **Volume:** 61
-**Reading order:** 3
-**Source episode:** S10E02
-**Continuity state:** B+153 afternoon. Pays "I'll show you. You'll hate it" (V60 #9). Yuka's own growth: what to do when the Garden loses (S8E48). Chimera Shadow Garden as written: closed barrier, dark medium, Ten Shadows placement (S7E34, S8E46); opened by her own choice before it breaks (S7E34); real burnout, then body (S8E46); one attempt, then drills without it. Barrier work with Yuta still in progress. Plain reinforcement. Mau watches; no training for him. Practice blades. No new technique.
+**Reading order:** 4
+**Source episode:** S10E01
+**Continuity state:** B+153 late afternoon. Pays "I'll show you. You'll hate it" (V60 #9). Yuka's own growth: what to do when the Garden loses (S8E48). Chimera Shadow Garden as written: closed barrier, dark medium, Ten Shadows placement (S7E34, S8E46); opened by her own choice before it breaks (S7E34); real burnout, then body (S8E46); one attempt, then drills without it. Barrier work with Yuta still in progress. Plain reinforcement. Mau watches; no training for him. Practice blades. No new technique.
 
-*When: B+153, after lunch. Yuta sees who has come out to the practice yard with her, and he starts to take off his shirt so that Mau can look at the bruise.*
+*When: B+153, late afternoon. Yuta sees who has come out to the practice yard with her, and he starts to take off his shirt so that Mau can look at the bruise.*
 
 “Put that back,” Maki says. ᴹᵃ
 
@@ -91,12 +91,10 @@ She stops, breathing hard, and looks over.
 
 Yuka looks down at her heel. She looks at him. For a moment he thinks that he may have made a mistake, and that he's about to hear a very clear opinion on people who were recently asked to sit quietly and hate things.
 
-She walks over. She takes the cane out of his hand, without asking, and draws a line in the dirt with the end of it, about where a heel ought to go. She looks at that. She hands it back.
+She walks over. She picks up one of her dropped blades and draws a line in the dirt with the end of it, about where a heel ought to go. She looks at that.
 
 “Show me again what you saw,” she says. ʸ
 
 He gets up.
 
 It's a very small thing. He shows her with his own foot, with one hand on the bucket, and it hurts. She watches him do it, with her head on one side, frowning at his boot. Nobody's looking after anybody. There's a good solid hour of afternoon left, and Yuta hasn't got his breath back. Maki has turned away to look at something, and if you didn't know her, you wouldn't see that she's smiling.
-
-`[PARA WORK: Esa noche, ya en su cuarto. Vienen de un buen día: la lista, el patio, él corrigiéndole el talón. Es la primera vez desde la pelea que trabajan juntos como antes. EMPIEZA: ella se sienta en la cama a quitarse las botas y le dice algo sobre el talón. Si quieres, ella le pregunta qué pensó de verdad cuando la vio caminar hacia ese golpe. TERMINA: se duermen. Lo siguiente empieza dos días después, en el aire.]`

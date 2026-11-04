@@ -37,7 +37,7 @@ For a while the whole room is her breathing. The other room makes a sound like R
 
 * * *
 
-There is a sheet of paper lying under the portrait. It has three doors drawn on it, each one with a different thing wrong with it. Mau has been home for one night and already knows that one of the drawings is upside down. Yuka drew the hinges before she decided which side people would use.
+There is a sheet of paper lying under the portrait. It has three doors drawn on it, each one with a different thing wrong with it. Mau has had a week of looking at it from the bed, and he knows that one of the drawings is upside down. Yuka drew the hinges before she decided which side people would use.
 
 He asks her about it when she sits up.
 

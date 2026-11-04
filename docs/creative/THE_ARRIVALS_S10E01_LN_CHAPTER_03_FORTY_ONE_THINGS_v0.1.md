@@ -1,13 +1,35 @@
 # The Arrivals — Light Novel — Volume 61
-## Chapter 2 — Forty-One Things
+## Chapter 3 — Forty-One Things
 
-**Status:** PRUEBA S10 v0.1 (2026-11-04), con marcas para Work. No canon.
+**Status:** LN PRODUCTION DRAFT — S10 v0.1 (2026-11-04)
 **Volume:** 61
-**Reading order:** 2
+**Reading order:** 3
 **Source episode:** S10E01
-**Continuity state:** B+153 morning, continuous. Bench under the tree, root circle clear. Yuka's list of things she saved during his recovery. No new event.
+**Continuity state:** B+153 afternoon, after the door. Bench under the tree, root circle clear. Yuka's list of things she saved during his recovery. Number forty-one stays unsaid; open for a later scene. No new event.
 
-*When: B+153, mid-morning. They take the bench by the tree, where the roots leave room for two people and a heel of bread.*
+*When: B+153, after lunch. The door hangs on its second try, and Yuka takes Mau by the sleeve before Mai can find anything else for him to hold.*
+
+They take the bench by the tree, where the roots leave room for two people and some bread he has brought in his pocket.
+
+She digs in her coat and comes out with a piece of paper, folded so many times that it has gone soft along the creases. There's pencil on both sides of it, in her writing. She holds it against her chest, where he can't read it.
+
+“What's that?” ᴹ
+
+“Things I couldn't tell you.” ʸ
+
+He goes still.
+
+She sees it, and she rolls her eyes.
+
+“You couldn't follow a sentence, idiot. You asked Shoko how many times you'd asked her. I'd come in for my two hours with something, and you'd look at me like you were very pleased somebody had come, and I'd sit there and oil a sword.” She looks down at the paper. “So I wrote them down. For when you could.” ʸ
+
+He doesn't know what to do with his face.
+
+“How many?” ᴹ
+
+“Forty-one. Give me the bread.” ʸ
+
+* * *
 
 “One,” Yuka says. “Tsurugi walked into the door of the clinic.” ʸ
 
@@ -63,7 +85,7 @@ She looks at the paper for some time. She doesn't cross that one off. She moves 
 
 * * *
 
-It takes until nearly noon.
+It takes until the shadow of the tree has reached their feet.
 
 People come through the courtyard on their own business. Taihei with a sack. Two of the schoolgirls, arguing. Nobody stops. Rimuru comes as far as the arch, sees the bench and the paper, and turns around with a great show of having forgotten something. There is sun on Mau's left knee, and he is more tired than he'd like to admit, and he wouldn't move for anything.
 
@@ -91,9 +113,13 @@ He waits.
 
 She turns the little square over between her fingers. She is looking across the courtyard, at nothing, and the back of her neck has changed colour. It's the only neck in the world that can.
 
-`[PARA WORK: El número 41 de la lista. Lo eligió ella, lo dejó para el final y le cuesta decirlo. Es lo que más quería decirle mientras él no podía entenderla. Qué es, lo decides tú con Mauri. Yo no lo fijo. EMPIEZA: ella se decide a decirlo. TERMINA: él contesta, o no puede, y ella guarda el papel en su bolsillo. Lo siguiente empieza con Yuka levantándose.]`
+“Not on a bench,” she says. ʸ
 
-* * *
+“When?” ᴹ
+
+“When I say.” ʸ
+
+He nods. He has spent a lot of this month waiting for things to reach him. He can do it for this.
 
 She stands up. She sticks the paper in her pocket and brushes the crumbs off herself, without any ceremony, onto his boots.
 
@@ -109,4 +135,4 @@ He looks up at her, squinting. It takes him a moment. It was a long time ago, an
 
 And there it is, finally, the whole of it, spreading across her face, the worst and happiest smile she has.
 
-“Bring your cane,” she says. “You'll want something to lean on.” ʸ
+“You'll want to sit down for it,” she says. ʸ

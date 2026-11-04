@@ -3,11 +3,37 @@
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 61
-**Reading order:** 3
+**Reading order:** 6
 **Source episode:** S10E02
-**Continuity state:** B+153 midday. First contact outside the south marker. A village offers surrender and prisoners based on the quarry rumor. No keys or people accepted as property. Cart still at marker.
+**Continuity state:** B+156 late morning. First contact outside the south marker. A village offers surrender and prisoners based on the quarry rumor. No keys or people accepted as property. Cart still at marker. Mau has seen the fear at Ashby the day before.
 
-*When: they reach the south marker, the man beside the cart takes a key from a pouch and lays it in the road.*
+*When: B+156, late morning. Mau is on his way up to look at the new door when Jinshi crosses the hall below him, with his register folded open over one arm.*
+
+Jinshi doesn't stop to ask how he feels. He goes straight to the open window and asks the runner to repeat what he saw.
+
+There's a delegation on the south road. They've brought a cart. Their lead rider has asked for a meeting and declined to name the people travelling with him.
+
+“They can tell us from the road,” Jinshi says. “Leave the marker closed.” ᴶⁱ
+
+The runner leaves. Mau can tell when Jinshi turns around that he has known Mau was there the whole time.
+
+“They asked for the man from the quarry.” ᴶⁱ
+
+Mau looks up the stairs. Yuka is up there with Mai and a door that has decided to stick. There is time yet, if this is something that can be done in the time people usually take to do things.
+
+“Who else is going?” ᴹ
+
+“Fern. Rimuru. Me.” ᴶⁱ
+
+He waits.
+
+“You can come with us,” Jinshi adds. ᴶⁱ
+
+That helps more than it ought to.
+
+* * *
+
+At the south marker, the man beside the cart takes a key from a pouch and lays it in the road.
 
 He doesn't throw it. He sets it down with the teeth pointing back the way he came, then gets up and brushes both knees. His coat has a patch that was put on with exceptional care. Mau can see it from here because it is the first thing the man turns away from him.
 
@@ -47,7 +73,7 @@ The person at the horse's head looks sharply over her shoulder.
 
 Nobody moves. The person on the axle pulls her hands free. She has a length of cord around one wrist, wound twice, to keep the end from dragging.
 
-Mau had been ready for a farmer who wanted him to move a stone. For most of the walk he has been thinking of things it would be possible to do about a stone without having to lift it.
+After yesterday, Mau had been ready for somebody frightened: a farmer with a stone he wanted moved and no idea how to ask. For most of the walk he has been thinking of things it would be possible to do about a stone without having to lift it.
 
 “What did you bring them for?” ᴹ
 

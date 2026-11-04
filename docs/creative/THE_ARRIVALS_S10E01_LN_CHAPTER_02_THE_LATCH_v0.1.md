@@ -5,15 +5,15 @@
 **Volume:** 61
 **Reading order:** 2
 **Source episode:** S10E01
-**Continuity state:** B+153 morning to midday. Shoko's follow-up. Yuka and Mai trial a mundane practice-room latch. Mau and Yuka share breakfast and make plans. First notice from south road, no delegation admitted.
+**Continuity state:** B+153 morning to midday. Shoko's follow-up: functional, may walk anywhere inside the markers, no training. Yuka and Mai trial a mundane practice-room latch. Mau and Yuka share breakfast and make plans.
 
-*When: Shoko finds out Mau has been upstairs without asking whether he could, she asks how he enjoyed the stairs.*
+*When: Mau comes in for the morning check, Shoko asks him how he enjoyed the stairs.*
 
 “I liked the third one.” ᴹ
 
 She makes him stand on each foot and follow her finger with his eyes. He does both. At the last test he remembers what she asked him to remember. She writes down the answer with a hand that has started to run out of patience for good news being hard work.
 
-“You can go around the yard. Walk back before you feel like sitting down.” ˢʰ
+“You can go as far as the markers. Walk back before you feel like sitting down.” ˢʰ
 
 “What if I feel like sitting down now?” ᴹ
 
@@ -23,7 +23,7 @@ Yuka is waiting outside with two plates. She sees the look on his face and hands
 
 “How'd it go?” ʸ
 
-“I can go as far as the yard.” ᴹ
+“I can go as far as the markers.” ᴹ
 
 “Did you want to go farther?” ʸ
 
@@ -51,17 +51,17 @@ He puts his plate down and holds out his hand. She makes him wait until she has 
 
 Mai is in the practice room with the door flat across two stools.
 
-“You brought him,” she says. ᴹᵃ
+“You brought him,” she says. ᴹᵃⁱ
 
 “He brought the paper.” ʸ
 
 Mau puts it down with all the care it deserves. Mai turns it the right way without needing to check. She sees the second mark and rests her thumb against it.
 
-“That's where I had it on the first one,” she says. ᴹᵃ
+“That's where I had it on the first one,” she says. ᴹᵃⁱ
 
 “You said it was too low.” ʸ
 
-“I was carrying the bucket. Of course it was too low.” ᴹᵃ
+“I was carrying the bucket. Of course it was too low.” ᴹᵃⁱ
 
 Yuka pulls the nearer stool out a little with her foot. Mai steadies the door without looking up. There's a whole way they do things together now, most of it happening before either one asks. Mau watches for a while and finds a nail somebody has left point up on a stool. He turns it over.
 
@@ -69,36 +69,12 @@ Mai tests the guide by taking one hand off the door, shutting her eyes and reach
 
 “The real test is with the lights out and somebody shouting at you,” Yuka says. ʸ
 
-“You do the shouting. I already did the door.” ᴹᵃ
+“You do the shouting. I already did the door.” ᴹᵃⁱ
 
 Mau sits on the empty stool. He asks whether he can come back after lunch to see it hung.
 
 Mai looks up this time. She has a small curl of wood stuck to the front of her sleeve.
 
-“If it works, you can. If it doesn't work, you can go ask Shoko how your stairs are doing.” ᴹᵃ
+“If it works, you can. If it doesn't work, you can go ask Shoko how your stairs are doing.” ᴹᵃⁱ
 
 He nods. Yuka brushes the wood off Mai's sleeve and tells her that in that case they'd better make it work. She says it like someone who fully intends to be there until it does.
-
-* * *
-
-At the bottom of the stairs, Jinshi is crossing the hall with his register folded open over one arm. He doesn't stop to ask Mau how he feels. He goes straight past him to the open window and asks the runner to repeat what he saw.
-
-There's a delegation on the south road. They've brought a cart. Their lead rider has asked for a meeting and declined to name the people travelling with him.
-
-“They can tell us from the road,” Jinshi says. “Leave the marker closed.” ᴶⁱ
-
-The runner leaves. Mau can tell when Jinshi turns around that he has known Mau was there the whole time.
-
-“They asked for the man from the quarry.” ᴶⁱ
-
-Mau looks up the stairs. He had told Yuka after lunch. There is time yet, if this is something that can be done in the time people usually take to do things.
-
-“Who else is going?” ᴹ
-
-“Fern. Rimuru. Me.” ᴶⁱ
-
-He waits.
-
-“You can come with us,” Jinshi adds. ᴶⁱ
-
-That helps more than it ought to.

@@ -2940,3 +2940,7 @@ Por petición del creador, V60 de 3 a 18 capítulos y cierre en B+152. Escena Re
 ### S10 después de la cantera — V61#1–3, 2026-11-04
 
 Creator greenlight, Nov 4. Start from V60#20 at B+153. Claude's saved testrun remains unpromoted. Home morning, functional Mau, Yuka and Mai's work, and first contact at the south marker written. No surrender or prisoner disposition yet.
+
+### S10 después de la cantera — V61#4–6, 2026-11-04
+
+Keys incident immediate resolution. Three captives released and voluntarily sheltered, no territorial transfer and no coercion or summary judicial resolution. Latch installed and tested. Keeper leaves with account; do not assume every town believes it. Wheel thread and family/coin arcs follow.

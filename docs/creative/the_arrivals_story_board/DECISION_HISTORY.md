@@ -3000,3 +3000,7 @@ Sober supervised flight and dungeon expedition; Ori leads, participants opt in. 
 ### S10 después de la cantera — V63#8–11, 2026-11-04
 
 Fort corrected its charter in good faith, with limited real autonomy and Yuka as citizen. The resulting sweets and crown scene are ordinary comedy. Walpurgis invitation received; no title agreed.
+
+### S10 después de la cantera — V63#12–15, 2026-11-04
+
+Walpurgis road liaison stays a proposal distinct from Mau's personal warning. No title or authority accepted. Mau leaves voluntarily and Rimuru stays voluntarily. Falling Devil intercepts him outside the hall on the road, with no culprit asserted behind her. The fall reaches the overwrite seam; the devil has no timeline travel or fabrication power.

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
 **Season:** 10
-**Coverage:** S10E20–S10E25 (in progress)
+**Coverage:** S10E20–S10E27 (in progress)
 **Volume title:** **An Independent Fort**
-**Chapter files:** 11
+**Chapter files:** 15
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -26,3 +26,7 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 9 | S10E24 | The Two Idiots | `THE_ARRIVALS_S10E24_LN_CHAPTER_01_THE_TWO_IDIOTS_v0.1.md` |
 | 10 | S10E24 | All Hail Queen Yuka | `THE_ARRIVALS_S10E24_LN_CHAPTER_02_ALL_HAIL_QUEEN_YUKA_v0.1.md` |
 | 11 | S10E25 | Who the Chair Is For | `THE_ARRIVALS_S10E25_LN_CHAPTER_01_WHO_THE_CHAIR_IS_FOR_v0.1.md` |
+| 12 | S10E25 | The Place to Wait | `THE_ARRIVALS_S10E25_LN_CHAPTER_02_THE_PLACE_TO_WAIT_v0.1.md` |
+| 13 | S10E26 | The Empty Line | `THE_ARRIVALS_S10E26_LN_CHAPTER_01_THE_EMPTY_LINE_v0.1.md` |
+| 14 | S10E26 | Call It Whatever You Like | `THE_ARRIVALS_S10E26_LN_CHAPTER_02_CALL_IT_WHATEVER_YOU_LIKE_v0.1.md` |
+| 15 | S10E27 | What Falls First | `THE_ARRIVALS_S10E27_LN_CHAPTER_01_WHAT_FALLS_FIRST_v0.1.md` |

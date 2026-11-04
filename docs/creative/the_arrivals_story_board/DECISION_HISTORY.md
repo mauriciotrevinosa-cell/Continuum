@@ -3012,3 +3012,7 @@ Mau wakes just after the original blackout. Original Yuka, Ciel and Rimuru speak
 ### S10 después de la cantera — V63#20–23, 2026-11-04
 
 Old Ori voluntarily gives a sealed-by-fold personal note, whose text is not shown. Frieren hears the truth about Mau and his wife, accepts the original love as real and lets him return. Current gray resumes with Yuka as the sole color. The paper confirms that this was contact with lived past, not a new branch or a repeatable power. The falling encounter remains separate from council authority.
+
+### S10 después de la cantera — V64#1–4, 2026-11-04
+
+Mau tells Yuka, gives her original Yuka's message and recreates the hand dragon with her. Ori directs Kaisel and chooses later for the unopened message with Frieren's full support. Gray persists except Yuka. Creator confirmed original minor king targeting Hollis at the commercial crossing; the king arc has not yet occurred.

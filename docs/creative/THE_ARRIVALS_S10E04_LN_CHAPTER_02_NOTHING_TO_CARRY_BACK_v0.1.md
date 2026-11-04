@@ -25,19 +25,27 @@ They go down the path together, as far as the little dip where the roofs stop be
 
 Yuka picks a place in the grass. The blanket will not lie down the way she puts it, so he sits on the end that keeps lifting. She comes around and sits on the other.
 
-“Remember when I asked if you ever wanted to go on an ordinary date?” she says. ʸ
+“Do you remember how fast you said yes the first time I asked you on a date?” Yuka says. ʸ
 
-“I remember asking what you meant by ordinary.” ᴹ
+“You said I didn't know where.” ᴹ
 
-“You had just brought a dragon.” ʸ
+“You said you knew who.” ʸ
 
-“We weren't going to get there on foot.” ᴹ
+He remembers the noise Mai made down the corridor. Judging by Yuka's face, she remembers it too.
 
-She looks back up the path. The light's full on the grass and on a single orange thread caught on the outside of her sleeve. He can see the thread better than he can see most of the hill.
+“I'd had time to think of a better answer,” he says. ᴹ
 
-“We got here on foot,” she says. ʸ
+“You hadn't even let me finish asking.” ʸ
 
-He looks down at his boots. The right lace has worked itself loose. He thinks he would like to remember it that way.
+He looks at her in the light. There's a little red where the wind has got to the tip of her nose. She sees him looking and lifts her chin, as if she's going to make him wait this time.
+
+“Would you go on a date with me?” he asks. ᴹ
+
+She waits just long enough for him to begin smiling.
+
+“Yes,” she says. ʸ
+
+His right lace has worked itself loose on the way here. He leaves it like that. They aren't going anywhere for a while.
 
 * * *
 

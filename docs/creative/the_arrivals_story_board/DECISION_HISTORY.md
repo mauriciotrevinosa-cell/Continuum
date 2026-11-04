@@ -2952,3 +2952,7 @@ Claude audita. El arranque se quedaba corto de Mau y Yuka: el creador pidió muc
 ### S10 después de la cantera — V61#10–12, 2026-11-04
 
 Mau returns to brief controlled movement, and Mau/Yuka have an ordinary outing together. The wheel begins with mixed public meanings. The maker at the Ashby bridge has requested road contact via Hollis, not yet met.
+
+### S10 después de la cantera — V61#13–15, 2026-11-04
+
+Esther and child of eleven marks introduced independently. No uniform worship, blessing or coercion. Bocchi asks Fern herself to reopen the family question; the audit of coin ownership and searches remains before invocation.

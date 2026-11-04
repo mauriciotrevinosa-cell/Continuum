@@ -2964,3 +2964,7 @@ Current branch original Stay award verified. Bocchi, Kita and Ryo's coins are id
 ### S10 después de la cantera — V61#19–21, 2026-11-04
 
 Bocchi's mother and father arrive via two separately recorded gifted coins, both willingly. Quiet family time and first-night lodging complete the volume; no extra spend or outside conflict.
+
+### S10 después de la cantera — V62#1–3, 2026-11-04
+
+Gaoshun arrives willingly through Jinshi's sole reserved coin, spent. Inquiry and private invitation actually written. Rem has an independent day with Umaru and chooses when to consider a message from the way station.

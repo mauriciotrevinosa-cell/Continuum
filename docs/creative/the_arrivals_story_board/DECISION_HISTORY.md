@@ -2956,3 +2956,7 @@ Mau returns to brief controlled movement, and Mau/Yuka have an ordinary outing t
 ### S10 después de la cantera — V61#13–15, 2026-11-04
 
 Esther and child of eleven marks introduced independently. No uniform worship, blessing or coercion. Bocchi asks Fern herself to reopen the family question; the audit of coin ownership and searches remains before invocation.
+
+### S10 después de la cantera — V61#16–18, 2026-11-04
+
+Current branch original Stay award verified. Bocchi, Kita and Ryo's coins are identified individually; Kita and Ryo gift their coins by choice. Bocchi uses her own on Futari, with the family dog accompanying. No general rule or aggregate balance.

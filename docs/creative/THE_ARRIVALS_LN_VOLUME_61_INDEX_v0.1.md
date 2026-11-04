@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 61
 **Season:** 10
-**Coverage:** S10E01–S10E06 (in progress)
+**Coverage:** S10E01–S10E08 (in progress)
 **Volume title:** **The Keys**
-**Chapter files:** 15
+**Chapter files:** 18
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -30,3 +30,6 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 13 | S10E05 | A Place to Wait | `THE_ARRIVALS_S10E05_LN_CHAPTER_02_A_PLACE_TO_WAIT_v0.1.md` |
 | 14 | S10E06 | Eleven Marks | `THE_ARRIVALS_S10E06_LN_CHAPTER_01_ELEVEN_MARKS_v0.1.md` |
 | 15 | S10E06 | The Rooms Beside Hers | `THE_ARRIVALS_S10E06_LN_CHAPTER_02_THE_ROOMS_BESIDE_HERS_v0.1.md` |
+| 16 | S10E07 | What the Book Can Say | `THE_ARRIVALS_S10E07_LN_CHAPTER_01_WHAT_THE_BOOK_CAN_SAY_v0.1.md` |
+| 17 | S10E07 | The Small Compartment | `THE_ARRIVALS_S10E07_LN_CHAPTER_02_THE_SMALL_COMPARTMENT_v0.1.md` |
+| 18 | S10E08 | The Leash | `THE_ARRIVALS_S10E08_LN_CHAPTER_01_THE_LEASH_v0.1.md` |

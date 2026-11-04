@@ -23,17 +23,14 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V61#13 | S10E05 CH02 | B+159 morning | Esther explains first wheel; Fern prepares notice against false road fees. |
 | V61#14 | S10E06 CH01 | B+159 late afternoon | A boy brings eleven marks for his sister; Mau listens without giving a blessing. |
 | V61#15 | S10E06 CH02 | B+159 evening | Bocchi asks Fern to reopen family search and voluntary coin discussion. No spend yet. |
+| V61#16 | S10E07 CH01 | B+160 morning | House resumes voluntary family search/coin review, Jinshi keeps reservation. |
+| V61#17 | S10E07 CH02 | B+160 evening | Ryo and Kita privately choose to transfer each original unspent coin to Bocchi. |
+| V61#18 | S10E08 CH01 | B+161 morning | Bocchi invokes her original coin; Futari and dog arrive. Two coins unspent. |
 
 ## Current state
 
-V61#15, B+159 evening. Audit additions V61#3–5 remain in place. Cart arrived B+156, keeper returned with key and written account B+157; three travelers are sheltered voluntarily, pending individual follow-ups. B+157 Mau cleared for brief supervised unpowered footwork only. B+158 date inside protection, no sex/pregnancy. New latch installed B+153 and adjusted/tested B+156. Daily Shoko follow-up continues, prior conditions and new S9 scars/hair intact.
+V61#18 B+161 morning. Voluntary coin meeting reopened from V50#3. Jinshi retains his reserved Gaoshun coin; Maomao noticed cuts on one weight, actual report routed via Hollis, no verified lead yet. No general house balance established. Bocchi has checked two ordinary leads with help, neither located her family. Arrivals room optional/quiet, accommodations by choice, no obligation to town.
 
-The wheel has several public uses. Esther from Ashby drew the first known wheel at the bridge to mark a waiting spot for her son. Her account of someone trying to charge for a mark is her testimony, not a confirmed organization. Fern sends a plain notice through Hollis on his next run: nobody owes payment or tribute to the house to use the road. No enchantment, investigation result or suppression of chalk marks. The unnamed boy who cut eleven marks into a board is a separate visitor with his uncle. He plans to give it to his sister, who is practicing walking across their kitchen. Mau agreed he can tell her he counted it; no blessing or magic. They left together.
+Coin reconciliation limited to this request: S6E66 CH01 confirms one per branch stayer. Bocchi's kept coin has precedent S4E07/S4E16; #17 verifies current branch possession. Ryo and Kita independently verify current possession of original unused coins and choose to transfer each to Bocchi, recorded by Fern. Nijika's Seika use not drawn on. #18 Bocchi uses her own coin on Futari, who consents and arrives with the family dog in physical company, no second spend or general rule. Kita present, identified as girlfriend by Bocchi; Fern available at threshold. Two coins remain with Bocchi, one received from Ryo and one from Kita, both for requests she chooses. Both parents still absent. Preserve space for each introduction, explanation, settling; no threats cross this sequence.
 
-Bocchi spoke to Fern on her own initiative, with Kita present by choice. Names to check: her mother, father, Futari and the family dog. Rooms beside her are still reserved. No coin offered, transferred or invoked; check actual owners and existing convergence reports before the big meeting. Jinshi reserves Gaoshun under the V50#3 condition; Shizue's coin is already spent. Do not infer new balances. Preserve quiet family reunion, with sister and dog arriving together as requested. Future Mai conversation with Maki precedes Momo Nishimiya; no partner decided. S10 ends with two Beru, Jin-Woo's proposal S11.
-
-## Open items from Claude's audit
-
-- **V61#3:** item 41 on Yuka's list is still unsaid. She told him “When I say.” It is hers to pay off, in a scene for Work, with no deadline.
-- **V61#11, for Work:** the date Yuka recalls has no source scene. On record she asks in V36 S6E95 “Both Tables” (“Would you go on a date with me?” / “You don't know where.” / “I know who.”). The dragon date, S6E36, sits in V33, before the overwrite. Rebuild the exchange on the real one, keeping “We got here on foot” only if it still holds.
-- **V61#11, for Work:** Mau sees grey except Yuka, and no rule says whether a loose orange thread on her sleeve counts. Decide or drop it.
+Outstanding continuity: no public organization/blessing from the wheel, no new closure of Perin/Nell/West cases yet, Shoko limited clearance stands. Mai/Maki before Momo Nishimiya, partner open. Full skeleton of sixteen arcs unchanged.

@@ -77,4 +77,4 @@ She knows what he means. She puts her hands in her lap. Her fingers are cold fro
 
 “I wish they'd all come with something that good,” he says. ᴹ
 
-Yuka looks at the other stool, at the little dust-free rectangle the board left on it. She picks it up when they go in, and he carries the one he's been sitting on.
+When they get up to go in, Yuka looks down at her stool, at the little dust-free rectangle the board left on it. She picks it up, and he carries the one he's been sitting on.

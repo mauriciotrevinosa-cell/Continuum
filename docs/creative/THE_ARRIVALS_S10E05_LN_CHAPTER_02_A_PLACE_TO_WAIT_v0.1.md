@@ -29,7 +29,7 @@ So he sits. He gets his coat out of the way of her knitting.
 
 Esther has a boy who likes to walk fast. He always gets to the bridge first. Before the quarry there was a man with a table at the tollhouse who would keep an eye on him. When the road opened the man went home, and nobody told her where a child was supposed to wait while his mother fetched a cart.
 
-“There's a notch where you can sit on the wall. I wanted him there. He'd seen the wheel at the quarry and he knew it when I drew it. He saw it from the other side of the water.” ᴱˢ
+“There's a notch where you can sit on the wall. I wanted him there. He'd seen the wheel at the quarry and he knew it when I drew it. He saw it from up on the ridge.” ᴱˢ
 
 Her needles click. Mau thinks about a boy looking at him through a panel. He had been looking at his own hands then. He hadn't known to look up at the benches until much later.
 

@@ -61,7 +61,7 @@ Jinshi gets another sheet. He puts the woman's request on it exactly as Hollis g
 
 Mau draws his hand back. He had already begun to work out how he would ask her what she saw. It hadn't occurred to him that she might have finished thinking about the quarry long before he did.
 
-Jinshi asks Hollis what time she'll be near the bridge tomorrow. He writes that down too. They can send word before anyone starts walking.
+Jinshi asks Hollis how far behind him she is. She set out from the bridge when he did, on foot, and she'll be at the inn by dark. He writes that down too. They can send word before she walks the rest of it.
 
 Hollis looks down into his cup. There's about one mouthful left. He drinks it and asks if they still want the onions he brought.
 

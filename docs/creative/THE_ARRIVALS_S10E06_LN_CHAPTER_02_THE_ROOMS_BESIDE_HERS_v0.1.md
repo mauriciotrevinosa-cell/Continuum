@@ -13,7 +13,7 @@ Kita takes a chair by the door. She moves it once, so that Bocchi can see her wi
 
 Fern has a book open. She gets as far as the end of a line and puts her pen down.
 
-“The rooms beside mine,” Bocchi says. “Do they still have that thing on the plan?” ᴮ
+“The rooms beside mine,” Bocchi says. “Do they still have that thing on the plan?” ᴮᵒ
 
 Fern looks at her. She knows which rooms those are. She goes to the cabinet anyway and finds the plan. There is a folded corner where the family wing begins. She flattens it on the desk, and there it is. The small pencil mark. It has not been written over.
 
@@ -39,7 +39,7 @@ Fern leaves the plan out. She says they should start with the people who might a
 
 Bocchi looks over at Kita. She has been hoping Kita will nod for a while now. Kita looks back. She doesn't nod.
 
-“I want my mother and my father,” Bocchi says. “And my sister. I don't know how to ask about the dog.” ᴮ
+“I want my mother and my father,” Bocchi says. “And my sister. I don't know how to ask about the dog.” ᴮᵒ
 
 Fern puts a blank sheet beside the plan. She writes the three down as people to look for, and then she asks for the dog's name.
 

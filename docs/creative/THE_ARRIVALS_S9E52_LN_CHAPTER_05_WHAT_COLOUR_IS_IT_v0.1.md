@@ -5,7 +5,7 @@
 **Volume:** 60
 **Reading order:** 19
 **Source episode:** S9E52
-**Continuity state:** B+150 afternoon. New permanent mark, creator's request: Mau's hair grows back brown and white mixed all through, no longer only the old white at the left temple. Mau sees grey except Yuka, so he has to be told the colours. Family and comedy.
+**Continuity state:** B+150 afternoon. New permanent mark, creator's request: Mau's hair grows back brown and white mixed all through, no longer only the old white at the left temple. Mau sees grey except Yuka, so he has to be told the colours. Family and comedy. Mau and Yuka talk privately about fear, overtraining and distance during the clinic days. They make plans together.
 
 *When: Maki sits him on an upturned bucket in the yard, she asks whether he would like to keep the other ear.*
 
@@ -65,7 +65,59 @@ She looks at him. She doesn't hurry. She's never once told him that a thing look
 
 “Yeah.” ʸ
 
-She drops the clump back in his lap and goes back to her step.
+She puts the clump back in his lap. He thinks she's going to go back to her step, because she's looking at the blade she left there. Instead she comes around the bucket to stand in front of him.
+
+“Can we have the yard for a minute?” she asks Maki. ʸ
+
+Maki takes the scissors away from Mau's ear. She tells him to stay where he is. She takes her cup as far as the other side of the door and closes it behind her.
+
+Yuka picks up the blade. Mau looks at the bruise now that he can see it properly. It's yellow at the edge and dark in the middle. She sees him looking and sits down with the blade across her knees.
+
+“I should have stopped yesterday,” she says. “Maki called it. I went back out when she'd gone.” ʸ
+
+“What were you trying to get right?” ᴹ
+
+She looks down at her arm. She has held it straight since she picked up the blade. Now she rests it against her leg.
+
+“There's a point after the Garden shuts when I keep reaching for the thing I just lost. I've got a way to make myself move instead. I like figuring it out.” ʸ
+
+He nods. He can hear that part in her voice. It sounds the way it does when she has a drawing she wants to show him.
+
+“The extra rounds were something else,” she says. “I was in your room and you shut your eyes in the middle of a sentence. I knew you'd fallen asleep. I'd checked. Then I looked at you again and I was back at the rail waiting for you to move. In the yard there was always one more thing I could do.” ʸ
+
+She takes her hand off the blade.
+
+“Some days I could come up and tell you about it. Some days I got as far as your chair and couldn't look at you. I kept thinking I'd frighten you if I said why. So I sat there with that stupid rag.” ʸ
+
+He remembers the sound of it going along the blade. He was so glad somebody had brought a thing from outside that he had managed to be glad about the sound too. And when he'd wanted to ask whether she was coming back, he'd waited until she was already at the door.
+
+“I missed you even when you were there,” he says. ᴹ
+
+Her chin moves. She puts the blade on the step beside her.
+
+“I missed you too. I'm sorry I left you guessing.” ʸ
+
+“I was trying to guess very quietly.” ᴹ
+
+She laughs once. Her eyes fill up anyway. He opens his left hand on his knee and she comes close enough to put hers in it.
+
+“Tomorrow I'm going to tell Maki about the extra rounds. Today I'd like to go see Mai, then come home and have dinner with you if you're up to it.” ʸ
+
+“I'd like that.” ᴹ
+
+She has to blink a few times before she can look at him again. When she does, she slides her hand up to the side of his head and smooths the bit of hair Maki hasn't cut yet.
+
+“And I like it,” she says. “The hair. You asked if it was bad. I didn't tell you the part I was thinking.” ʸ
+
+He leans his cheek into her palm.
+
+“Will you tell me the part next time?” ᴹ
+
+“If you ask me before I've got a mouthful of pear.” ʸ
+
+He has a good answer to that. Before he can say it she bends and kisses him, with one hand still in his hair.
+
+When Maki knocks from the other side of the door, Yuka says she can come back in. She stays close enough for Mau to touch her knee when the scissors start up again.
 
 * * *
 

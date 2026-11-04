@@ -2968,3 +2968,7 @@ Bocchi's mother and father arrive via two separately recorded gifted coins, both
 ### S10 después de la cantera — V62#1–3, 2026-11-04
 
 Gaoshun arrives willingly through Jinshi's sole reserved coin, spent. Inquiry and private invitation actually written. Rem has an independent day with Umaru and chooses when to consider a message from the way station.
+
+### S10 después de la cantera — V62#4–8, 2026-11-04
+
+Subaru arrives via convergence from early royal selection, no coin or timeline-reset effect. Rem responds to emotional pressure herself, and house backs her terms. Rem and Umaru keep their plans and Subaru can make his own inquiries. V60#19 and V61#11 separately corrected and pushed.

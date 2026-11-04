@@ -32,15 +32,18 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V62#1 | S10E10 CH01 | B+162 morning | Jinshi follows the weight lead, elects to ask Gaoshun with his reserved coin. |
 | V62#2 | S10E10 CH02 | B+162 midday | Gaoshun's voluntary arrival via Jinshi's coin, which is spent. |
 | V62#3 | S10E11 CH01 | B+162 afternoon | Gaoshun settles over food; Rem and Umaru's evening; Subaru lead not yet verified. |
+| V62#4 | S10E11 CH02 | B+163 morning | Rem and Ram verify Subaru at the way station; consensual guest offer. |
+| V62#5 | S10E12 CH01 | B+163 late morning | Subaru takes room and receives care; Rem keeps her own plans. |
+| V62#6 | S10E12 CH02 | B+163 afternoon | Subaru pressures Rem, she refuses and names what she wants. |
+| V62#7 | S10E13 CH01 | B+163 late afternoon | House sets boundaries; Subaru begins his own inquiry. |
+| V62#8 | S10E13 CH02 | B+163 evening | Rem and Umaru keep their evening and talk in private. |
 
 ## Current state
 
-V62#3, B+162 late afternoon. V61 closed at #21 after Bocchi reunion. V61#11 revised: remembers the actual Both Tables (S6E95 CH02) exchange, no pre-overwrite date attributed to current Yuka, color remains limited to Yuka's body.
+V62#8, B+163 evening. Gaoshun and Bocchi household states from prior entries unchanged. Jinshi's Gaoshun coin spent. Subaru verified by Rem/Ram at the way station, arrived alone by ordinary convergence near the unknown road after the royal-selection Julius confrontation (early S1, before later reconciliations/Beatrice contract). No coin, Emilia/Beatrice/Roswaal arrival or Return by Death. Shoko wraps wrist. Subaru is a temporary guest at the mini Inn with a review pending. Rem and Ram choose to stay. Subaru says he loves Rem to get her to come; Rem calls out the pressure and affirms her family and time with Umaru. At Rem's request Ram follows up with Jinshi and Rimuru. Subaru keeps the room within terms and asks for his own route inquiry; no forced apology, exile, settled romance or settled departure. Rem tells Umaru what she chooses and keeps their evening plans.
 
-Jinshi investigated one familiar weight, determined it came through with a roof/store shelves; Gaoshun knew multiple storerooms used the mark. No verified evidence of Gaoshun via convergence. Jinshi invokes his own original reserved coin exactly once for Gaoshun; Gaoshun willingly arrives, recognizes Jinshi and Maomao and is an autonomous guest. No role assumed. No exact extraction age/date or source spoilers asserted. Jinshi's coin now spent. Weight and lead remain for future inquiries.
+V60#19 was revised separately at the creator's request. Mau/Yuka have a private conversation during the haircut about Yuka taking extra rounds and going quiet at the bedside because fear kept taking her back to the rail. Both say they missed each other and make plans for dinner. Yuka intends to tell Maki about the extra rounds. Treat that as emotional continuity, not marital estrangement. V61#11 revised to actual S6E95 CH02 memory. The creator prefers Work to own the romance continuity.
 
-Rem and Umaru have their chosen outing planned (B+125 first date preserved, no extra relationship label). A way-station courier relays a claimant giving Subaru's name and the names Rem/Ram; he is waiting there, not yet verified or admitted. Rem requests Ram also be told, chooses to consider contact tomorrow. In follow-up choose a documented extraction that supports the creator-directed conflict and shows Rem speaking for herself. Do not imply a coin or bringing an accompanying character.
+Creator Ko test reply verbatim in earlier continuity entry/handoff: “no la de ko pq es sumamente toxico cuando un vampiro se enamora antes entonces mau como ya ama a nazuna y dice verse mau usa su adaptacion para copiar a ko en un vampiro fallado y test con el y la rueda por si las flies y ahi descubren el cambio”. Check origin of blood, reciprocal subject and source/adaptation mechanics before test. No test or Ko arrival written yet. Source for Subaru extraction window: official Re:Zero first season story page, early royal selection episodes 13–14: https://re-zero-anime.jp/tv/story/tv1r.html
 
-Ko creator reply preserved for detailed reconciliation before the test: “no la de ko pq es sumamente toxico cuando un vampiro se enamora antes entonces mau como ya ama a nazuna y dice verse mau usa su adaptacion para copiar a ko en un vampiro fallado y test con el y la rueda por si las flies y ahi descubren el cambio”. Interpret carefully against the source before producing, especially which person loves Nazuna and whose sample. No test written.
-
-Mai/Maki conversation before Momo Nishimiya; partner open. S10 remains in progress.
+Uraume single question after Ko per current plan. Mai/Maki before Momo Nishimiya, partner open. S10 active, twelve arcs remain beyond Subaru; no imposed chapter quota.

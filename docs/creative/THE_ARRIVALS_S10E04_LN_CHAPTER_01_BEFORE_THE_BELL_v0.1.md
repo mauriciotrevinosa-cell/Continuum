@@ -51,7 +51,7 @@ There's a little pause. Mau can hear Yuka set the practice blade down. Gojo tips
 
 “I've been waiting to be asked.” ᴳ
 
-Mau looks at him. Gojo has a piece of chalk all over the front of his trousers. He tries to take it off with the hand he used to make the marks and makes it worse.
+Mau looks at him. Gojo has chalk all over the front of his trousers. He tries to take it off with the hand he used to make the marks and makes it worse.
 
 “Come tomorrow,” Mau says. ᴹ
 

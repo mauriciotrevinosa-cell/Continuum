@@ -1,5 +1,7 @@
 # S10, prueba: instrucciones para Work
 
+> **Actualización de auditoría, 2026-11-04:** tres de estos capítulos pasaron a V61 como #3–5, ya sin marcas. Aquí sólo quedan `01` y `05`, de consulta.
+>
 > **Actualización, 2026-11-04: estos capítulos quedan GUARDADOS.** Mauri decidió que Work arranque S10 desde el [esqueleto](../S10_WORK_START_HANDOFF_2026-11-04.md), y Claude audita después. No hace falta llenar estas marcas salvo que él lo pida. Lo de abajo queda como referencia.
 
 **Qué es esto.** Prueba de cinco capítulos del arranque de S10, escrita por Claude a petición de Mauri. No está en el lector ni es canon todavía.

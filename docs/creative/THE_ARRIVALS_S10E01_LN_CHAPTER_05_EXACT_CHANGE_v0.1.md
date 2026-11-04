@@ -67,7 +67,7 @@ There is no sound in the whole of that market.
 
 Mau is standing there holding out some money. He's got a very bad knee, and a pleasant expression that he has not yet worked out how to take off. He would like to say something. He's good at that, there's usually a joke. He looks for it. He's quite sure he had one.
 
-He sees the old man's eyes. He knows that look. He has been on the other side of it, on one knee, in a field, with a person he loved crouched in front of him being very gentle.
+He sees the old man's eyes. He knows that look. He has been on the other side of it, on his knees, in a clearing, with a person he loved crouched in front of him being very gentle.
 
 Yuka reaches past him.
 
@@ -117,9 +117,9 @@ He stops laughing, somewhere in there.
 
 She wipes her chin with the back of her wrist.
 
-“The old man. The way he had it all ready, so that I wouldn't have to reach.” He takes a moment. “I did that. To Gojo, in the field.” ᴹ
+“The old man. The way he had it all ready, so that I wouldn't have to reach.” He takes a moment. “I did that. To Gojo, in the clearing. I put my arm where it wouldn't be in his way.” ᴹ
 
-“I know. You told us.” ʸ
+“I know.” ʸ
 
 “I didn't want him to look like that.” ᴹ
 

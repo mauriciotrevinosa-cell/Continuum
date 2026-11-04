@@ -35,6 +35,8 @@ On the other side of the hall Mau hands Yuka the basket. She tucks it under the 
 
 “Salt. A bit of bread. Fruit when they have it. I saw one with a plate put out under it.” ᴴᵒ
 
+Mau has seen the salt. It was in a very small dish.
+
 Yuka straightens. Hollis sees her and gets up, but she asks him to finish what he was saying.
 
 “I asked a man why he left the plate. He said it was so you wouldn't have to look farther for a house that fed its guests.” ᴴᵒ

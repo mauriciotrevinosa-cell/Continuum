@@ -504,3 +504,6 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 - **Yuka enojada = terror (creador, 2026-11-04).** No escribirla enojada por enojada. Su enojo con Mau sale del miedo, igual que su rabia con quienes lo explotan.
 - **Mau y Yuka aún no se han acostado (creador, 2026-11-04).** Quieren y se detienen, con respeto.
 - **Chimera Shadow Garden no es un jardín.** Es Domain Expansion de Yuka: barrera cerrada, medio oscuro que acepta los pies, colocación de Ten Shadows y duplicados, sin dominar sure-hit largo (S7E34, S8E46). Burnout real al cerrar. Desde fuera no se ve el interior.
+
+- **Make It Quick pasa en un claro, no en un campo** (S9E07 CH02, B+88). Mau está de rodillas y Gojo agachado frente a él; "field" ahí es la técnica. Yuka llega después, así que no oyó la súplica. Lo que recuerda Mau de sí mismo: puso el brazo roto donde no estorbara.
+- **La cita que Yuka pidió** está en S6E95 "Both Tables". La de Kaisel, S6E36, es de V33, antes del overwrite: revisar antes de que alguien la recuerde.

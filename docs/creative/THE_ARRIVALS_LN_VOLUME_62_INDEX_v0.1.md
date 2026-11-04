@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
 **Season:** 10
-**Coverage:** S10E10–S10E15 (in progress)
+**Coverage:** S10E10–S10E16 (in progress)
 **Volume title:** **Who Gets to Ask**
-**Chapter files:** 11
+**Chapter files:** 14
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -26,3 +26,6 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 9 | S10E14 | An Hour After Dark | `THE_ARRIVALS_S10E14_LN_CHAPTER_01_AN_HOUR_AFTER_DARK_v0.1.md` |
 | 10 | S10E14 | The Other Bank | `THE_ARRIVALS_S10E14_LN_CHAPTER_02_THE_OTHER_BANK_v0.1.md` |
 | 11 | S10E15 | Until the Lamp Goes Out | `THE_ARRIVALS_S10E15_LN_CHAPTER_01_UNTIL_THE_LAMP_GOES_OUT_v0.1.md` |
+| 12 | S10E15 | Before Anybody Offers | `THE_ARRIVALS_S10E15_LN_CHAPTER_02_BEFORE_ANYBODY_OFFERS_v0.1.md` |
+| 13 | S10E15 | The Last Thing He Said | `THE_ARRIVALS_S10E15_LN_CHAPTER_03_THE_LAST_THING_HE_SAID_v0.1.md` |
+| 14 | S10E16 | The Other Column | `THE_ARRIVALS_S10E16_LN_CHAPTER_01_THE_OTHER_COLUMN_v0.1.md` |

@@ -2976,3 +2976,7 @@ Subaru arrives via convergence from early royal selection, no coin or timeline-r
 ### S10 después de la cantera — V62#9–11, 2026-11-04
 
 Ko arrives by convergence. Nazuna and Ko get their own reunion and choose to ask about the feeding risk. No test, bite or technical conclusion yet.
+
+### S10 después de la cantera — V62#12–14, 2026-11-04
+
+Ko's consultation is open pending sample detail. Uraume's one-question scene complete. Mai initiates conversation prep with Mau and Yuka; Mai and Maki own their subsequent scene.

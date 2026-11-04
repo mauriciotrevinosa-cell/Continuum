@@ -40,13 +40,14 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V62#9 | S10E14 CH01 | B+164 evening | Nazuna and Anko follow a first credible report of Ko. |
 | V62#10 | S10E14 CH02 | B+164 evening continuous | Ko and Nazuna reunite at the crossing. No coin. |
 | V62#11 | S10E15 CH01 | B+164 night | Mutual feelings and feeding risk acknowledged. They ask Anko for a consultation. |
+| V62#12 | S10E15 CH02 | B+165 afternoon | Ko and Nazuna request consultation, no physical test. |
+| V62#13 | S10E15 CH03 | B+165 late afternoon | Uraume asks one question, hears the last words and leaves. |
+| V62#14 | S10E16 CH01 | B+165 evening | Mai asks Mau and Yuka for help before speaking to Maki. |
 
 ## Current state
 
-V62#11, B+164 night. Rem and Ram's encounter with Subaru and Rem/Umaru aftermath complete through #8. Subaru remains a temporary guest with review pending and own route inquiry. Gaoshun guest, Jinshi's coin spent. Bocchi family together at adjacent rooms.
+V62#14, B+165 evening. Ko and Nazuna meet Maomao, Kusuri and Shoko with Anko; separate questions of his changing body and feeding hazard. Observational interview only. No blood collected, adaptation attempted, wheel invoked or safety confirmed. Exact exposure still awaits clarification; arc open and allowed to run alongside independent house scenes.
 
-Ko Yamori arrives alone by ordinary convergence, no coin. Hollis relays a direct report, Anko and Nazuna verify at old crossing. Ko and Nazuna both openly say they love one another; preservation of the late source relationship hazard, no causal claims about precise biochemistry. Ko reports retained signs of incomplete transformation with potentially different behavior here. Ko takes a guest room and asks, together with Nazuna, for a consultation; no sample or experiment yet. Official source reference for the late reciprocal feelings and feeding danger: https://www.viz.com/manga-books/manga/call-of-the-night-vol-1-volume-20/product/8355 and https://e-comi.shogakukan.co.jp/books/098531960000d0000000?page=2.
+Uraume comes alone to outer marker, asks only what Sukuna said at the end, receives the firsthand “worthy death” and “I've eaten” account, leaves. No threat, alliance, pursuit, or implication of Sukuna's return.
 
-Creator direction for pending experiment: Mau can try modeling Ko's incomplete vampiric state and use the wheel as a fallback. Confirm exact sample/reaction before writing; pending response. Yuka can propose precedent and let Mau decide. Maomao/Kusuri involved, Shoko controls medical clearance; no generalized cure.
-
-V60#19 amended with recovery conversation, V61#11 anchored to Both Tables. S10 still active.
+Mai privately asks Mau for help, invites Yuka to stay. She knows her sister lost her in the source timeline and wants to ask Maki herself. Mau and Yuka agree to wait in the kitchen the next morning if she wants company afterward. Existing Construction agreement is separate. Conversation with Maki not yet written. Momo Nishimiya arrives only after that. Partner undecided. Romance continuity remains Work-owned, including V60#19 and V61#11 corrections.

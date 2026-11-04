@@ -11,6 +11,8 @@ The morning after Season Nine. The house returns to ordinary life while people o
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_61_INDEX_v0.1.md) · [Creator direction](the_arrivals_story_board/S10_WORK_START_HANDOFF_2026-11-04.md) · [Continuity](the_arrivals_story_board/S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md).
 
+[Continue in Volume 63](THE_ARRIVALS_LN_VOLUME_63_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

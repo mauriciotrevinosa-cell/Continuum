@@ -84,11 +84,25 @@ Sembrado en S3, V16–17: cinco estanques redondos y equidistantes que los viejo
 - **La promesa (clímax de esa trama):** Makima convence a un **rey**. Mau cumple. Causa terror, hasta que se dan cuenta de que no destruyó nada. No lo deja vacío: deja lugares para que la gente inocente no sufra. Deja un mensaje: cuando el rey se disculpe, les regresa todo. El rey comenzó esto y él cumplió lo que dijo.
 - **Chocolate:** no es romántico, y son varios capítulos. Mau como perro tierno con todos: consiente a Umaru hasta cometer un error en tratados internacionales; le chifla a Ori y le ofrece volar en dragón; le da un día entero a las órdenes de Ori, líder exploradora, con permiso y lo adecuado. El Fort conquista su primer dungeon. Mau, Milim, Frieren y otros acompañan; guían las niñas y los estudiantes. Mau sólo sigue órdenes. Milim le enseña a ser ayudante de la Guardiana. Un monstruo sale de un punto ciego, Milim lo destruye: «sólo ahí intervienes, o cuando alguien va a salir lastimado». Mau le da una coca por buen trabajo. Umaru y Ori le piden a Gojo el poder de la amistad contra el boss.
 
+## Cuartas observaciones del creador (prevalecen)
+
+> si osea que mau le ofrece explorar o subirse a kaisel bien y asi y ori dice que si pq no diria que si y es mau convivendo con ella y tal ves despues de hablar con friern y contarle le dice que ori le dejo un mensaje a ori y que solo lo va a mostrar si tu lo apruebas y ori y friern dice que es decisiond e ori y mau se puede esperar pq tiene que mostrar a yuka otra de ella diciendole que gracias por cumplir mi sueno me mostro sficiente para saber que somos felciices y que espera que sigan siendo feliz mente casados y le dice que tiene permiso de ver todos los recuerdos bonitos de ella y mau y mau le puede mostrar lo de la noche antes de que se resetee que hacen sombras y asi y yuka esposa puede decir que con ella nunca hizo sombras y el dice que estaba mas enfocado en como pedirle que esten juntos para el resto de sus vidas y luego podmeos tener lo de ori y esta ori dice que si lo quiere pero ahorita no y mau no fuerza. tal ves la season no necesita una pelea grande esta puede ser como s1 pero aqui la diferencia es que s10 se siente mas como un aftermath aun pq s9 termina con recuperacion pero en s1 vemos todo lo que la pelea crea y las consecuencias de como mau repsonde
+
+**Queda fijado:**
+
+- **Regreso con Ori:** Mau le ofrece explorar o subirse a Kaisel, y ella dice que sí. Sólo conviven. Después él le cuenta a Frieren y le dice que la otra Ori dejó un mensaje para esta Ori y que sólo lo muestra si ella lo aprueba. Frieren dice que es decisión de Ori. Mau puede esperar.
+- **Regreso con Yuka:** le muestra el mensaje de la otra Yuka: gracias por cumplir mi sueño, me mostró suficiente para saber que somos felices, ojalá sigan felizmente casados. Le da permiso de ver todos los recuerdos bonitos de ella y Mau. Él le muestra las sombras con las manos de la última tarde (V34 #33, «A Very Small Dragon», Day475). La esposa dice que con ella nunca hizo sombras. Él dice que estaba más enfocado en cómo pedirle que estuvieran juntos el resto de sus vidas.
+- **El mensaje de Ori:** después, ella dice que sí lo quiere, pero ahorita no. Mau no la fuerza. **Queda sin abrir.**
+- **Sin pelea grande obligatoria.** S10 se parece a S1 en que importa lo que la pelea crea y cómo responde Mau. Diferencia: S9 ya cierra con recuperación, así que S10 todavía se siente como aftermath.
+- Se retira la propuesta de Claude de usar el side quest de Jin-Woo como pelea grande de S10.
+
+**Reparto:** la plática de las sombras con la Yuka esposa toca romance; Claude escribe la entrega del mensaje y los recuerdos, y deja marca para Work en lo que se vuelva escena de pareja.
+
 ## Propuestas de Claude sobre esto (por aprobar)
 
 - **Independencia del Fort:** sale del chocolate. El «error en tratados» es que Mau, consintiendo a Umaru, firma algo que reconoce al Fort como nación. Al día siguiente hay que negociarlo: de ahí el tratado con los dos idiotas al otro lado de la mesa. Reemplaza la razón del embargo.
 - **Pagar los mensajes al volver:** el tour con la Ori nueva y lo que le pidió la otra Yuka son capítulos de regreso. Sin forzar que Ori lo llame papá.
-- **La pelea grande:** sigue faltando. Candidato: el side quest de Jin-Woo, los dos monarcas de espaldas contra algo.
+- **Cierre sin pelea:** S10 termina cuando el rey se disculpa, y Mau regresa todo, tal como dijo. Jin-Woo llega al final y el side quest abre lo siguiente.
 
 ## Reparto de escritura
 

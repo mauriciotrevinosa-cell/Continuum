@@ -39,7 +39,7 @@ Yuta has stopped chewing.
 
 “I know.” ʸᵗ
 
-“I mean I. I wanted to.” ᴹ
+“I mean I. I wanted to. Kill him like that. With my teeth.” ᴹ
 
 He looks at the ceiling, at the patch. He'd like to be clear about this. He has been wanting someone to be clear about it.
 

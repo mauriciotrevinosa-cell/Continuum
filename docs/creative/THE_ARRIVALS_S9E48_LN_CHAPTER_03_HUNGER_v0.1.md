@@ -5,7 +5,7 @@
 **Volume:** 59
 **Reading order:** 20
 **Source episode:** S9E48
-**Continuity state:** B+136 continuous. Neither man has working hands. Sukuna bites; Mau bites. Ciel checks: the archive is sealed, this is Mau. Ciel, by her own choice and the agreement at V58#9, releases the margin. Mau lets go to speak: his nine planted lines open by word, with Sukuna's own method. Margin gone, control route unsupported; ordinary heart stops. Black Heart continues. Both lie still; both records active. No resurrection.
+**Continuity state:** B+136 continuous. Neither man has working hands. Sukuna bites and eats; Mau bites to kill and spits, no hunger and no cannibalism (creator, 2026-11-04). Ciel checks: the archive is sealed, this is Mau. Ciel, by her own choice and the agreement at V58#9, releases the margin. Mau lets go to speak: his nine planted lines open by word, with Sukuna's own method. Margin gone, control route unsupported; ordinary heart stops. Black Heart continues. Both lie still; both records active. No resurrection.
 
 *When: Sukuna gets as far as his elbows, he looks at his hands and appears to come to a decision about them.*
 
@@ -53,7 +53,7 @@ There's a throat right in front of his face.
 
 He can see the pulse going. Sukuna's head is down, and it has stretched out all that long corded neck about an inch from his mouth. It has a little shallow red line across it, the width of a finger. It's going up and down. He's looking at it. It's so close. He can smell it, hot stone and old blood. Under that, faintly, something cooking.
 
-He finds he's very hungry.
+He has no hands. He has one thing left with an edge on it, and the man has been kind enough to lean the softest part of himself right up against it.
 
 Nobody has ever told him about this. There wasn't anything in any of the lessons.
 
@@ -63,13 +63,13 @@ His mouth opens.
 
 It's like biting a saddle.
 
-It's nothing at all like you'd think. It's tough and it's hot, and it fills up his whole head, and he's got no strength in his neck to speak of, so he does it the only way there is. He gets his teeth in and he hangs on, with all his weight, like a dog. He shakes.
+It's nothing at all like you'd think. It's tough and it's hot, and it fills up his whole head, and he's got no strength in his neck to speak of, so he does it the only way there is. He gets his teeth in and he hangs on, with all his weight, like a dog. He shakes. Something comes away. He spits it out and goes back for the next place.
 
 Sukuna makes a noise against his shoulder, deep in his chest. It's quite a contented noise.
 
 He doesn't let go either.
 
-That is what's on the panels. There's no way to put it that makes it any better. People will try, for years. They will tell it in towns he's never heard of, and they will get the details wrong and it won't matter. In the long gold light, on the floor of a ruined quarry, there are two shapes lying on each other in a spreading pool, one with a wheel going faintly round above it. They're not moving much. They've both got their faces buried in each other's necks, and they are eating.
+That is what's on the panels. There's no way to put it that makes it any better. People will try, for years. They will tell it in towns he's never heard of, and they will get the details wrong and it won't matter. In the long gold light, on the floor of a ruined quarry, there are two shapes lying on each other in a spreading pool, one with a wheel going faintly round above it. They're not moving much. They've both got their faces buried in each other's necks. One of them is eating. The other is trying to kill him with the only thing he has left. From the ridge, nobody can tell the difference, and most of them will never ask.
 
 The man from the ridge, the one with a brother on the road, has stopped looking at the field. He's looking at Elmesia. He wants her to say it's all right. She isn't saying anything. Her face is very calm and there are tears on it. A very long reign has taught her how to go on sitting there.
 
@@ -91,9 +91,9 @@ She comes back up. She looks at him for what is, for her, a long time. She has b
 
 He has gone very still, with his teeth in the man.
 
-*I checked. Mau, it isn't the archive. That isn't Sukuna. There's nothing of his in this at all.* ᶜⁱ
+*I checked. Mau, it isn't the archive. That isn't Sukuna. There's nothing of his in this at all. You aren't hungry. You're killing him with what you've got.* ᶜⁱ
 
-*It's just you.*
+*That's just you.*
 
 He doesn't say anything to that.
 

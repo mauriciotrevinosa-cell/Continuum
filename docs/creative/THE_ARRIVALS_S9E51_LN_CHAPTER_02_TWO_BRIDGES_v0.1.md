@@ -45,13 +45,13 @@ Ori nods. She seems to be checking it against something.
 
 “I know. You did. That was good.” ᴹ
 
-“Did you swallow?” ᴼ
+“Did you eat him?” ᴼ
 
 Frieren's page doesn't turn.
 
 He thinks about it. She has asked him a straight question. In his whole life, in either of them, nobody's ever been so entirely uninterested in hearing the wrong answer.
 
-“Some,” he says. ᴹ
+“No,” he says. “I spat it out.” ᴹ
 
 “Was it nice?” ᴼ
 

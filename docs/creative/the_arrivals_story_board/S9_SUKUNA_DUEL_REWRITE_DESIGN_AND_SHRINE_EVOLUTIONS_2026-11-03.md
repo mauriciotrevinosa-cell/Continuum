@@ -49,7 +49,7 @@ El ejemplo de Mahoraga: Sukuna manda su rueda contra Infinity para aprender la f
 
 1. Sukuna dice «Mau». Corte de mundo. A un dedo. Mau responde con el primer elogio de Sukuna: «Better».
 2. Sin CE y con las manos: escalón, cuchillo, ambos caen. Registros activos.
-3. Sukuna ya no tiene dedos y muerde: come. Mau muerde también. Ciel comprueba que no es el archivo. Es él.
+3. Sukuna ya no tiene dedos y muerde: come. Mau muerde para matar y escupe; no es caníbal (creador, 2026-11-04). Ciel comprueba que no es el archivo. Es él.
 4. Ciel entrega por decisión propia el margen que guardó toda la pelea y Mau suelta la garganta para poder decir «Open». Se abren sus nueve líneas.
 5. Los dos parecen muertos, registros activos, campo cerrado. La sombra de DIO y Ashborn no se abre: sólo ellos saben qué significa. Dentro, el corazón común paró, el Corazón Negro no; 437 veces de despertar. Mau se levanta.
 6. Once pasos. Lleva a Sukuna al escalón. El mundo ve exactamente la imagen que Makima quería.

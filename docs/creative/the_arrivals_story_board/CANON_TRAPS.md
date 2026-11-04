@@ -499,3 +499,4 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 - **Ciel contó hasta 311 y luego 312.** Ashborn y DIO vieron 7 minutos un piso que no se abrió; Mau no sabe qué significa eso.
 - **La rueda dibujada en muros** es de la gente que le teme, no una secta confirmada.
 - **El pelo de Mau desde B+150:** café con blanco mezclado por toda la cabeza, permanente (creador). Ya no "la mancha blanca de la sien". Antes de V59 sigue siendo la mancha. Mau no ve el café ni el blanco: lo sabe porque se lo dijeron.
+- **Mau no es caníbal (creador, 2026-11-04).** En el duelo muerde y arranca para matar, sin manos, y escupe. No traga, no tiene hambre, y el archivo no le pasa nada de eso. Sukuna sí come. El rumor de que "se lo comió" es falso: el público no vio la diferencia.

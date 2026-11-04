@@ -61,7 +61,7 @@ Mau considers this. It seems to be true.
 
 “I've been wondering. I've had a good many people try. Nobody's ever got that far. What was it like?” ˢᵘ
 
-He actually wants to know. He has turned all four eyes on him, with deep and courteous interest, one gourmet to another. Mau runs his tongue around his mouth, over a loose tooth. He's still got some of it in there. He gives the question his full attention.
+He actually wants to know. He has turned all four eyes on him, with deep and courteous interest. He has held a great many opinions on the subject, and has never had anyone to compare them with. Mau runs his tongue around his mouth, over a loose tooth, and spits. He gives the question his full attention.
 
 “Terrible,” he says. ᴹ
 
@@ -89,7 +89,7 @@ They both know it. It's nothing that's being done to him. There's no timer on it
 
 Sukuna stops smiling.
 
-He does it all at once, with all his mouths, and it's not a thing Mau has seen more than once or twice. He turns and looks at him straight. There's a very long road behind him, and at the near end of it is a little thing on a step. He looks at the road. He looks at the boy who walked up it, and who is sitting here, in a pool of blood, with a mouth full of gristle, waiting to hear.
+He does it all at once, with all his mouths, and it's not a thing Mau has seen more than once or twice. He turns and looks at him straight. There's a very long road behind him, and at the near end of it is a little thing on a step. He looks at the road. He looks at the boy who walked up it, and who is sitting here, in a pool of blood, with a loose tooth, waiting to hear.
 
 “Yes,” he says. “It was a worthy death.” ˢᵘ
 

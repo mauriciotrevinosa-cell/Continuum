@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
 **Season:** 10
-**Coverage:** S10E10–S10E13 (in progress)
+**Coverage:** S10E10–S10E15 (in progress)
 **Volume title:** **Who Gets to Ask**
-**Chapter files:** 8
+**Chapter files:** 11
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -23,3 +23,6 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 6 | S10E12 | Ask Me What I Want | `THE_ARRIVALS_S10E12_LN_CHAPTER_02_ASK_ME_WHAT_I_WANT_v0.1.md` |
 | 7 | S10E13 | A Road of His Own | `THE_ARRIVALS_S10E13_LN_CHAPTER_01_A_ROAD_OF_HIS_OWN_v0.1.md` |
 | 8 | S10E13 | Two Good Cups | `THE_ARRIVALS_S10E13_LN_CHAPTER_02_TWO_GOOD_CUPS_v0.1.md` |
+| 9 | S10E14 | An Hour After Dark | `THE_ARRIVALS_S10E14_LN_CHAPTER_01_AN_HOUR_AFTER_DARK_v0.1.md` |
+| 10 | S10E14 | The Other Bank | `THE_ARRIVALS_S10E14_LN_CHAPTER_02_THE_OTHER_BANK_v0.1.md` |
+| 11 | S10E15 | Until the Lamp Goes Out | `THE_ARRIVALS_S10E15_LN_CHAPTER_01_UNTIL_THE_LAMP_GOES_OUT_v0.1.md` |

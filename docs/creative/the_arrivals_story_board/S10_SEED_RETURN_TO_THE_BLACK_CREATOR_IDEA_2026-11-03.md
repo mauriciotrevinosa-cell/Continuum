@@ -73,3 +73,7 @@ Mensaje del creador:
 - ¿Quién tiende la trampa y qué quiere? (Candidata: Makima, con Falling Devil.)
 - ¿Cómo vuelve exactamente?
 - ¿Le cuenta después a la casa, y a la Ciel de esta rama?
+
+## Nota, 2026-11-04
+
+En V60 #17 DIO ya le explica a Mau que la línea original es el pasado de ésta. El arco ya no se lo revela: se lo hace vivir.

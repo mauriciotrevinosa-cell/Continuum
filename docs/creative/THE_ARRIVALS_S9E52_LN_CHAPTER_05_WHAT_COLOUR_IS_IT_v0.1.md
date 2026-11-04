@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 60
-## Chapter 18 — What Colour Is It
+## Chapter 19 — What Colour Is It
 
 **Status:** LN PRODUCTION DRAFT — S9 v0.2 (2026-11-03)
 **Volume:** 60
-**Reading order:** 18
+**Reading order:** 19
 **Source episode:** S9E52
 **Continuity state:** B+150 afternoon. New permanent mark, creator's request: Mau's hair grows back brown and white mixed all through, no longer only the old white at the left temple. Mau sees grey except Yuka, so he has to be told the colours. Family and comedy.
 

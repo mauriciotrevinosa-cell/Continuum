@@ -5,7 +5,7 @@
 **Volume:** 60
 **Reading order:** 16
 **Source episode:** S9E52
-**Continuity state:** B+146 afternoon. Mau walks to the guest rooms with cane and company. Pays Ashborn's V58#7 wish. DIO's plant. Guests remain free; no power exchange.
+**Continuity state:** B+146 afternoon. Mau walks to the guest rooms with cane and company. Pays Ashborn's V58#7 wish. Guests remain free; no power exchange.
 
 *When: Mau knocks on the guest room door with the top of his cane, Kaneki asks whether he would like to sit down first.*
 
@@ -64,31 +64,3 @@ Mau doesn't know what that means. He looks at the floorboard again, then back at
 “It's a nice window,” he says. ᴹ
 
 “It opens,” says Ashborn. ᴬˢ
-
-* * *
-
-DIO is waiting next door, of course.
-
-She has got the door ajar, in case anyone should want to know that she isn't waiting. There's a plant on her sill in a bowl with a chip in it. It has got four leaves. It had three, last time he looked.
-
-She takes one look at him, and she pulls out the stool.
-
-“Sit before you fall on it,” she says. “It's had a difficult life.” ᴰⁱ
-
-He sits. It's a good deal closer than the last one. She stands with her arms folded and looks at him, and he looks back. She's very small, for what she used to be. She has got a smudge of soil on her jaw. There was a time when she'd reached down into his life and moved things around in it, as you'd rearrange some furniture. She doesn't do that now. It's all quite a lot of trouble, being a person. She's told him so.
-
-“You told me,” Mau says. “I could come back. Without an interesting story.” ᴹ
-
-Her humour goes out, and comes back again a bit crooked.
-
-“I did say that.” ᴰⁱ
-
-“I don't. Have one.” He takes a moment. “It was pretty. Boring. Mostly.” ᴹ
-
-She looks at him for about as long as it takes for a leaf to think about growing. Her mouth's not altogether steady.
-
-“I watched it on a wall, you horrible boy,” says the goddess. “Through a soldier. I have made worlds which had less in them.” ᴰⁱ
-
-She unfolds her arms. She goes over and turns the bowl, about a quarter of the way, so that the new leaf can have the light.
-
-“Tell me anyway,” she says. “Start with the part where you were fine.” ᴰⁱ

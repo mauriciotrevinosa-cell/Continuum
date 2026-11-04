@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 60
-## Chapter 19 — Both Hands
+## Chapter 20 — Both Hands
 
 **Status:** LN PRODUCTION DRAFT — S9 v0.2 (2026-11-03)
 **Volume:** 60
-**Reading order:** 19
+**Reading order:** 20
 **Source episode:** S9E52
 **Continuity state:** B+152. Season Nine ends. Mau back to his prior state of health apart from fatigue and follow-up; nothing he built was lost. Old sequelae as before: grey except Yuka, blurred left edge, two stiff fingers, scars. New permanent: brown-and-white hair. Training not yet cleared. Mahoraga and broken forms mending at normal cost. Archive shut. World's fear continues. No S10 begun.
 

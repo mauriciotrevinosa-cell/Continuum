@@ -5,7 +5,7 @@
 **Season:** 9
 **Coverage:** S9E49–S9E52 (S9 complete)
 **Volume title:** **A Place at the Table**
-**Chapter files:** 19
+**Chapter files:** 20
 
 Continuation from the inhabited town at the end of Season Eight. The continuation follows Mau and Yuka into their wedding and marriage, the honeymoon, household life and the developing public challenge. Scene length follows the story; secondary windows may be shorter.
 
@@ -31,6 +31,7 @@ Continuation from the inhabited town at the end of Season Eight. The continuatio
 | 14 | S9E51 | Three Hundred and Twelve | `THE_ARRIVALS_S9E51_LN_CHAPTER_03_THREE_HUNDRED_AND_TWELVE_v0.1.md` |
 | 15 | S9E52 | What They Call It | `THE_ARRIVALS_S9E52_LN_CHAPTER_01_WHAT_THEY_CALL_IT_v0.1.md` |
 | 16 | S9E52 | A Window That Opens | `THE_ARRIVALS_S9E52_LN_CHAPTER_02_A_WINDOW_THAT_OPENS_v0.1.md` |
-| 17 | S9E52 | Twelve Days Late | `THE_ARRIVALS_S9E52_LN_CHAPTER_03_TWELVE_DAYS_LATE_v0.1.md` |
-| 18 | S9E52 | What Colour Is It | `THE_ARRIVALS_S9E52_LN_CHAPTER_05_WHAT_COLOUR_IS_IT_v0.1.md` |
-| 19 | S9E52 | Both Hands | `THE_ARRIVALS_S9E52_LN_CHAPTER_04_BOTH_HANDS_v0.1.md` |
+| 17 | S9E52 | What She Can't Mend | `THE_ARRIVALS_S9E52_LN_CHAPTER_06_WHAT_SHE_CANT_MEND_v0.1.md` |
+| 18 | S9E52 | Twelve Days Late | `THE_ARRIVALS_S9E52_LN_CHAPTER_03_TWELVE_DAYS_LATE_v0.1.md` |
+| 19 | S9E52 | What Colour Is It | `THE_ARRIVALS_S9E52_LN_CHAPTER_05_WHAT_COLOUR_IS_IT_v0.1.md` |
+| 20 | S9E52 | Both Hands | `THE_ARRIVALS_S9E52_LN_CHAPTER_04_BOTH_HANDS_v0.1.md` |

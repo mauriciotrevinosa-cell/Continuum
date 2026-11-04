@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 60
-## Chapter 17 — Twelve Days Late
+## Chapter 18 — Twelve Days Late
 
 **Status:** LN PRODUCTION DRAFT — S9 v0.2 (2026-11-03)
 **Volume:** 60
-**Reading order:** 17
+**Reading order:** 18
 **Source episode:** S9E52
 **Continuity state:** B+148 evening. Band practice room. Bocchi, chosen sister and his family in her own way; Kita beside her. She pays off what she rehearsed for V59. Right hand starting to answer.
 

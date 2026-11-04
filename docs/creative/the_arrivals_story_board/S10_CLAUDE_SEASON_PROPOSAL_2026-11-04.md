@@ -134,6 +134,19 @@ Sembrado en S3, V16–17: cinco estanques redondos y equidistantes que los viejo
 
 **Las cinco de 100 Girlfriends:** sí existen en esta rama. Apariciones: S7 ninguna, S8 pocas (hogares, V52; «The Quiet Rooms»), S9 sólo Hakari en un capítulo. Viven en el pueblo, en su propio grupo. S10 puede darles lugar.
 
+### Momo Nishimiya llega (creador, 2026-11-04)
+
+> y si me gustaria una mai 15 dias despues de recibir ese cuerpo en una forma devastadora anda flotando en su escoba y luego ve algo concoido y cree que encuntra agojo y es mau practicando mientras mai anda platicando con el y llega momo y es una momo toda desturida pq perdio a su bestie y esto lo podemos evo con calma una de dos personas que veia a mai por mai la otra es maki
+
+**Fijado:** Momo llega 15 días después de recibir el cuerpo de Mai (cap. 152 de la fuente), devastada, flotando en su escoba. Ve algo conocido y cree haber encontrado a Gojo. Es Mau practicando, mientras Mai platica con él. Momo perdió a su mejor amiga y la encuentra viva. Se desarrolla con calma. Momo y Maki son las dos personas que veían a Mai por ser Mai. El creador escribió «mai» al inicio del mensaje; se lee como Momo. La edad la dio él: nacida el 7 de julio de 2000, tercer año, 18 en 2018; por comprobar en la fuente.
+
+**Propuesta de Claude (no canon):**
+
+- El pelo café con blanco y los ojos azules de Mau, desde lejos, explican el error. Y en su mundo Gojo sigue sellado, así que cree que lo liberaron y baja con esperanza. *(Cotejar la cronología.)*
+- Momo es quien rompe el silencio. Mai sólo lo sabe por pistas y Maki lo evita, pero Momo cargó el cuerpo. Eso puede empujar la plática de Mai y Maki.
+- Maki le dejó el cuerpo y se fue sin decir nada. Momo tiene algo que reclamarle.
+- Queda abierto si Momo es la persona de Mai o su amiga. Takada sigue como opción.
+
 ### Lista para revisar (según los documentos de S8–S9; por cotejar)
 
 **Con pareja o vínculo declarado:** Mau/Yuka, Yuta/Maki, Gojo/Shoko, Bocchi/Kita, Kaneki/Touka, Marin/Wakana, Fern/Stark, Maomao/Jinshi, Anko/Hinata, Momo/Okarun.

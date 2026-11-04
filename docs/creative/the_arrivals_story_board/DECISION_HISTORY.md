@@ -3008,3 +3008,7 @@ Walpurgis road liaison stays a proposal distinct from Mau's personal warning. No
 ### S10 después de la cantera — V63#16–19, 2026-11-04
 
 Mau wakes just after the original blackout. Original Yuka, Ciel and Rimuru speak from their own knowledge and retain their refusals of the original intervention. Yuka supplies details Mau did not know and a message about the ordinary hand dragon. Her marriage is with present Mau only. No romance in the prior-life scene.
+
+### S10 después de la cantera — V63#20–23, 2026-11-04
+
+Old Ori voluntarily gives a sealed-by-fold personal note, whose text is not shown. Frieren hears the truth about Mau and his wife, accepts the original love as real and lets him return. Current gray resumes with Yuka as the sole color. The paper confirms that this was contact with lived past, not a new branch or a repeatable power. The falling encounter remains separate from council authority.

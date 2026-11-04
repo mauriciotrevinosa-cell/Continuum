@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
 **Season:** 10
-**Coverage:** S10E20–S10E29 (in progress)
+**Coverage:** S10E20–S10E31 (volume complete; S10 continues)
 **Volume title:** **An Independent Fort**
-**Chapter files:** 19
+**Chapter files:** 23
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -34,3 +34,7 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 17 | S10E28 | What She Was Going to Do | `THE_ARRIVALS_S10E28_LN_CHAPTER_01_WHAT_SHE_WAS_GOING_TO_DO_v0.1.md` |
 | 18 | S10E28 | The One That Was Eating Its Wing | `THE_ARRIVALS_S10E28_LN_CHAPTER_02_THE_ONE_THAT_WAS_EATING_ITS_WING_v0.1.md` |
 | 19 | S10E29 | An Answer for Today | `THE_ARRIVALS_S10E29_LN_CHAPTER_01_AN_ANSWER_FOR_TODAY_v0.1.md` |
+| 20 | S10E29 | The First Place She Would Show Him | `THE_ARRIVALS_S10E29_LN_CHAPTER_02_THE_FIRST_PLACE_SHE_WOULD_SHOW_HIM_v0.1.md` |
+| 21 | S10E30 | Was It False | `THE_ARRIVALS_S10E30_LN_CHAPTER_01_WAS_IT_FALSE_v0.1.md` |
+| 22 | S10E30 | There Is a Place to Put Your Foot | `THE_ARRIVALS_S10E30_LN_CHAPTER_02_THERE_IS_A_PLACE_TO_PUT_YOUR_FOOT_v0.1.md` |
+| 23 | S10E31 | Where the Road Is | `THE_ARRIVALS_S10E31_LN_CHAPTER_01_WHERE_THE_ROAD_IS_v0.1.md` |

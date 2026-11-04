@@ -68,9 +68,31 @@ Sembrado en S3, V16–17: cinco estanques redondos y equidistantes que los viejo
 
 **Falta:** una pelea grande en S10.
 
+## Terceras observaciones del creador (prevalecen sobre lo anterior)
+
+> ah que mau se va del wlpurgis y de ahi es donde se topa con el fal devil y metemos el arco y acabe ese arco cerrando varias cosas emotivas y mensajes de las antiguas ellas de ori pidiendole que le muestre un tour a la ori nueva y ella le cuenta todo lo que han hecho y asi entocnes mau ya no solo carga con ello sino con cosas que la gente que fueron en algun punto quiere mostrarles y que sea tranqui osea la casa si lo ayuda y todo pero las dos personas que mandan mensajes es ori y yuka frieren aceota y escucha todo y esa es la platica mau le cuenta lo que dio cambio y friern puede preguntarle que si lo que sintio fue falso y mau el dice que no que fue mas bello que lo que pudo pedir y que siempre lo conservara pero a la ves ese cambio ve todo el dolor que causo y como el mundo lo convirtio en un problema para los dos le dice que la ama y siempre la amara y eso ayuda a esta friern y mau a pesar de todo decide mostrarle todo lo nuevo a esta frieren y es ella que le dice que lo ama pero que vaya para ese camino que se ve muy feliz dice frieren sobre ella misma y eso es el ultimo empujond espues de ori yuka y todos que lo ayuda a salir.
+>
+> ya te entendi y eso puede ser aun aterrador por su parte makima convence a un rey en intervenir con alguien de la casa mau escucha y cumple y eso aun causa terror pero se da cuenta que no destruyo nada y diria que no lo deje solo vacio sino deje lugares para que la gente en si incoente no sufra y deja un mensaje que cuando el rey se disculpe les regresara todo el rey comenzo esto y yo cumpli con lo que dije.
+> nono comiences con hacer romantico el chocolate es de lo mas cagado y no pienso que se vaya un extremo me encanta que mau cuando come eso se vuelve como un perro y es super tierno y puede no solo serlo con yuka que sobre concienta a umaru un error en tratados internacionales que chifle a ori le dice que si quiere volar en un draogn y le da todo un dia para las ordenes de ori la lider exploradora claro con el premiso y todo lo adecuado y hasta ori puede deicr que el fort conquistara su primer dungeon y con mau milim frieren y todos acompanian pero dejan a las ninas y los estudiantes guiar mau esta ahi para seguir ordenes y milim le esta ensenando toda su sabiduria en como ser el ayudante de la guardiana del fort y peude ser que sale un monstruo de un punto ciego que nadie vio milim lo destruye y dice solo ahi intervienes o cuando alguien va a salir lastimadoy mau le puede dar una coca a milim por un buen trabaj y puede terminar con umaru y ori pidiendole a gojoeel poder de la amistad contra el boss fakkkk osea que lo del chocolate no sea un cap sino multiples yyyyyyy algo que revise es que s10 tiene que mostrar que mau ya anda funcional se arreglo y lo unico que se quedo son nuevas cicatrices y lo del pelo
+
+**Queda fijado:**
+
+- **Mau funcional:** S10 lo muestra arreglado. Sólo quedan las cicatrices nuevas y el pelo.
+- **Walpurgis → Falling Devil:** Mau se va de Walpurgis, deja a Rimuru, y en el camino se topa con Falling Devil. «Ahí lo agarran» era esto. Se retira la cadena de Claude (calamidad, Imperio, embargo, presión sobre Rimuru).
+- **Arco de la línea vieja:** tranquilo. La casa de allá lo ayuda. Ori y Yuka le mandan mensajes para sus versiones de ahora: Ori le pide darle un tour a la Ori nueva, y le cuenta todo lo que han hecho. Mau ya no sólo carga culpa: carga cosas que esa gente quiere mostrarles.
+- **Frieren:** acepta y escucha. Él le cuenta lo que DIO cambió. Ella pregunta si lo que sintió fue falso. Él dice que no, que fue más bello de lo que pudo pedir y siempre lo conservará; pero ve el dolor que causó y cómo el mundo lo volvió un problema para los dos. La ama y siempre la amará. A pesar de todo, le muestra lo nuevo. Ella le dice que lo ama y que siga ese camino, que ella se ve muy feliz. Es el último empujón, después de Ori, Yuka y todos, para salir.
+- **La promesa (clímax de esa trama):** Makima convence a un **rey**. Mau cumple. Causa terror, hasta que se dan cuenta de que no destruyó nada. No lo deja vacío: deja lugares para que la gente inocente no sufra. Deja un mensaje: cuando el rey se disculpe, les regresa todo. El rey comenzó esto y él cumplió lo que dijo.
+- **Chocolate:** no es romántico, y son varios capítulos. Mau como perro tierno con todos: consiente a Umaru hasta cometer un error en tratados internacionales; le chifla a Ori y le ofrece volar en dragón; le da un día entero a las órdenes de Ori, líder exploradora, con permiso y lo adecuado. El Fort conquista su primer dungeon. Mau, Milim, Frieren y otros acompañan; guían las niñas y los estudiantes. Mau sólo sigue órdenes. Milim le enseña a ser ayudante de la Guardiana. Un monstruo sale de un punto ciego, Milim lo destruye: «sólo ahí intervienes, o cuando alguien va a salir lastimado». Mau le da una coca por buen trabajo. Umaru y Ori le piden a Gojo el poder de la amistad contra el boss.
+
+## Propuestas de Claude sobre esto (por aprobar)
+
+- **Independencia del Fort:** sale del chocolate. El «error en tratados» es que Mau, consintiendo a Umaru, firma algo que reconoce al Fort como nación. Al día siguiente hay que negociarlo: de ahí el tratado con los dos idiotas al otro lado de la mesa. Reemplaza la razón del embargo.
+- **Pagar los mensajes al volver:** el tour con la Ori nueva y lo que le pidió la otra Yuka son capítulos de regreso. Sin forzar que Ori lo llame papá.
+- **La pelea grande:** sigue faltando. Candidato: el side quest de Jin-Woo, los dos monarcas de espaldas contra algo.
+
 ## Reparto de escritura
 
-Queen Yuka y el chocolate: Claude escribe la comedia y la casa. Lo que sea romántico entre ellos (incluido Mau golden retriever con Yuka) lleva marca para Work.
+Chocolate y Queen Yuka: comedia sin romance, las escribe Claude. Sólo los beats románticos Mau/Yuka que surjan llevan marca para Work.
 
 
 Claude escribe y deja marcas para Work en beats románticos Mau/Yuka.

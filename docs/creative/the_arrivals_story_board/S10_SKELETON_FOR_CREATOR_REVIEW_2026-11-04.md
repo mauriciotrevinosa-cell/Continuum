@@ -31,7 +31,11 @@ Mensaje del creador:
 
 Total orientativo: unos 105 capítulos, unos 5 volúmenes.
 
-**Lectura por confirmar:** Claude pone los dos Beru comparando notas como final de S10, y el gorrito y la libreta de directores en S11. Si «mis dos directores» es sólo el final del arco de la deidad, S10 termina en la llegada y la escena pasa a S11.
+**Respuesta del creador:**
+
+> si los beru van a ser oro  los queiro solo una duda esto no son 16 caps son 16 arcos y con slice of life in between si es neceasrio no por agregar pq podemos ahcer algo en s11 sobre eso pero me gusta como esta esto ya no creo que debamos agregar algo mas
+
+**Queda así:** son 16 arcos, no 16 capítulos. Slice of life entre ellos sólo si hace falta, no por agregar. No se agregan más arcos a S10. Los dos Beru comparando notas cierran S10; el gorrito y la libreta de directores quedan en S11. Falta el verde para escribir.
 
 ## Línea de tiempo emocional
 

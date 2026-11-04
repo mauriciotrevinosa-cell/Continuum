@@ -95,7 +95,7 @@ Yuka wants to teach Umaru. Mau explains that the two of them working together wo
 
 He goes to get the tea because he wants some too.
 
-When he returns, she has found the paper and is writing a little account of yesterday's lost hat. She reads it to him. In her version he attempted to leap from a moving boat with such determination that the captain had to negotiate a ceasefire.
+When he returns, she has found the paper and is writing a little account of yesterday's lost hat. She reads it to him. In her version he threatened to leap from a moving boat with such determination that the hat surrendered and came home by itself.
 
 Mau sits down.
 

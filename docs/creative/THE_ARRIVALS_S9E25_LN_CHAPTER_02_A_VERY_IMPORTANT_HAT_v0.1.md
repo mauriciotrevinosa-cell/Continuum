@@ -5,7 +5,7 @@
 **Volume:** 56
 **Reading order:** 8
 **Source episode:** S9E25
-**Continuity state:** B+115 honeymoon day7, actual daylight leisure cruise/lunch/swimming cove under staff conditions. Y bought ordinary sunhat from finite travel purse; lost/recovered by boat loop, not magic/animal recruitment/monster intervention. MY teasing/joy/repeated private affectionate familiarity. No family/household fight, no danger cliffhanger, no combat power/Shop/XP/army change. Credit18636 retained.
+**Continuity state:** B+115 honeymoon day7, actual daylight leisure cruise/lunch/swimming cove under staff conditions. Y bought ordinary sunhat from finite travel purse; lost and recovered by Mau's Ruler's grip, one small use (creator's change 2026-11-03), no animal recruitment or monster intervention. MY teasing/joy/repeated private affectionate familiarity. No family/household fight, no danger cliffhanger, no combat power/Shop/XP/army change. Credit18636 retained.
 
 *When: B+115. Mau has been told that the boat is leaving after breakfast. He finds Yuka beside the hotel shop wearing a hat which makes it impossible for him to kiss her without first negotiating the brim.*
 
@@ -97,17 +97,29 @@ He looks at her.
 
 “You are not jumping off the boat for a hat.” ʸ
 
-He considers the water, the increasing distance and the captain who has already noticed their little disturbance. Then lets the idea go and raises one hand to explain what has happened.
+“I wasn't going to jump,” he says. ᴹ
 
-The captain looks back at the small shape on the water.
+She keeps hold of the wrist. She has seen his face.
 
-Sighs with the weary familiarity of a man who apparently has this position in several marriages.
+“I promise,” he says. “Look.” ᴹ
 
-“We'll go round,” he says. ᶜᵃ
+He lifts one finger of his other hand off the rail.
 
-Yuka thanks him so earnestly that he begins smiling before turning back to the helm.
+Far behind the boat, the hat leaves the water.
 
-Mau rests both forearms on the rail.
+It comes up without any hurry, turns once to let the sea run out of it and starts back toward them, about the height of a man's head, at roughly the pace of someone returning from a walk. It drips the whole way. Nobody on deck says a word. A bird comes off the outcrop to have a look and thinks better of it.
+
+Yuka watches it arrive. Then she looks at the finger. Then she looks at him.
+
+“You were going to let me think that,” she says. ʸ
+
+“You seemed so concerned.” ᴹ
+
+The hat settles over the rail and hangs in front of her, patiently, like a dog waiting to be told it was good. She lets go of his wrist and takes it with both hands. It is a good deal wetter than its original price suggests it ought to be.
+
+At the helm, the captain has turned around. He looks at the hat. He looks at the long-handled hook in his mate's hand, and at the place on the water where he had been about to go back for it. He has this position in several marriages, every season, and it has never gone like that. He thinks it over and turns back to the sea.
+
+Mau offers a bow to the hat itself, receiving a sharp look from his wife and an appreciative laugh from the couple at the next rail.
 
 “I'm glad we didn't arrange a funeral yet.” ᴹ
 
@@ -116,10 +128,6 @@ She puts her forehead against his shoulder.
 The laughter which shakes her is so quiet at first that he mistakes it for dismay. Then she looks up, sees his face and gives up trying to preserve any dignity at all.
 
 * * *
-
-The hat returns at the end of a long-handled hook.
-
-It is wetter than its original price suggests it ought to be. Yuka takes it with both hands and thanks the man who recovered it. Mau offers a bow to the hat itself, receiving a sharp look from his wife and an appreciative laugh from the couple at the next rail.
 
 For the rest of the morning it sits between them, drying.
 
@@ -147,11 +155,11 @@ They swim only as far as they feel like swimming. Later she sits on the lower st
 
 “A successful rescue.” ʸ
 
-“My contribution was prevented.” ᴹ
+“I'd like my contribution noted.” ᴹ
 
 She rests her wet head against his arm.
 
-“Your contribution is sitting here.” ʸ
+“You moved one finger.” ʸ
 
 He shifts until the edge of the step is more comfortable beneath them. She stays where she is.
 

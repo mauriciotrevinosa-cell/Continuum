@@ -35,7 +35,7 @@ Creator greenlights continuation through the agreed wedding, honeymoon, relation
 | V56#5 | S9E24 CH01 | B+113 afternoon | Actual five-night island hotel arrival/gift/no official meetings; seaside lunch/beach and nap; safe notice to R. |
 | V56#6 | S9E24 CH02 | B+114 morning | Full pool breakfast/swimming couple comedy; bird steals fruit, familiar sleep-floating callback without new power. |
 | V56#7 | S9E25 CH01 | B+114 afternoon | Actual guided shallow snorkelling and boat return; consented limited public sea view for Ashborn, MY privacy kept. |
-| V56#8 | S9E25 CH02 | B+115 | Cruise day/cove/lunch, ordinary bought hat lost and recovered by crew boat loop; no combat spectacle. |
+| V56#8 | S9E25 CH02 | B+115 | Cruise day/cove/lunch, ordinary bought hat lost and recovered with one small use of the grip (creator change); no combat spectacle. |
 | V56#9 | S9E26 CH01 | B+116 | Rainy breakfast in room/card comedy/ordinary letter and shared drawings/nap; chosen intimacy boundary unchanged. |
 | V56#10 | S9E26 CH02 | B+117 evening | Full romantic final-hotel dinner/new clothes/affection/missing home without cutting holiday short; next-day checkout. |
 | V56#11 | S9E27 CH01 | B+118 | Actual hotel checkout after five nights/ordinary letter dispatch; coast picnic and next chosen ordinary overnight. |

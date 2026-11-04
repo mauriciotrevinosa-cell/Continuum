@@ -2984,3 +2984,7 @@ Ko's consultation is open pending sample detail. Uraume's one-question scene com
 ### S10 después de la cantera — V62#15–17, 2026-11-04
 
 Mai/Maki private source death account precedes Momo Nishimiya's arrival, as requested. Local Vault Ch152 p8 checked in read-only mode. Early mistaken Gojo recognition relies on limited cleared Blue; no romantic choice or new power from arrival.
+
+### S10 después de la cantera — V62#18–21, 2026-11-04
+
+Nishimiya settles as a guest. Mai, Momo, and Maki retain separate agency. Sukuna news, Kamish, and two Momo beats written. No romance label or broom power demonstrated. Ko test remains open.

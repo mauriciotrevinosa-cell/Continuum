@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
 **Season:** 10
-**Coverage:** S10E10–S10E17 (in progress)
+**Coverage:** S10E10–S10E19 (volume complete; S10 continues)
 **Volume title:** **Who Gets to Ask**
-**Chapter files:** 17
+**Chapter files:** 21
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -32,3 +32,7 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 15 | S10E16 | What We Do Tomorrow | `THE_ARRIVALS_S10E16_LN_CHAPTER_02_WHAT_WE_DO_TOMORROW_v0.1.md` |
 | 16 | S10E17 | The Size of a Marble | `THE_ARRIVALS_S10E17_LN_CHAPTER_01_THE_SIZE_OF_A_MARBLE_v0.1.md` |
 | 17 | S10E17 | The Girl Above the Gate | `THE_ARRIVALS_S10E17_LN_CHAPTER_02_THE_GIRL_ABOVE_THE_GATE_v0.1.md` |
+| 18 | S10E18 | Come Through the Gate | `THE_ARRIVALS_S10E18_LN_CHAPTER_01_COME_THROUGH_THE_GATE_v0.1.md` |
+| 19 | S10E18 | What Happened to the King | `THE_ARRIVALS_S10E18_LN_CHAPTER_02_WHAT_HAPPENED_TO_THE_KING_v0.1.md` |
+| 20 | S10E19 | The Dragon Has a Name | `THE_ARRIVALS_S10E19_LN_CHAPTER_01_THE_DRAGON_HAS_A_NAME_v0.1.md` |
+| 21 | S10E19 | Leave It by the Chair | `THE_ARRIVALS_S10E19_LN_CHAPTER_02_LEAVE_IT_BY_THE_CHAIR_v0.1.md` |

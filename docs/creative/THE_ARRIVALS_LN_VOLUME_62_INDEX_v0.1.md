@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
 **Season:** 10
-**Coverage:** S10E10–S10E16 (in progress)
+**Coverage:** S10E10–S10E17 (in progress)
 **Volume title:** **Who Gets to Ask**
-**Chapter files:** 14
+**Chapter files:** 17
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -29,3 +29,6 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 12 | S10E15 | Before Anybody Offers | `THE_ARRIVALS_S10E15_LN_CHAPTER_02_BEFORE_ANYBODY_OFFERS_v0.1.md` |
 | 13 | S10E15 | The Last Thing He Said | `THE_ARRIVALS_S10E15_LN_CHAPTER_03_THE_LAST_THING_HE_SAID_v0.1.md` |
 | 14 | S10E16 | The Other Column | `THE_ARRIVALS_S10E16_LN_CHAPTER_01_THE_OTHER_COLUMN_v0.1.md` |
+| 15 | S10E16 | What We Do Tomorrow | `THE_ARRIVALS_S10E16_LN_CHAPTER_02_WHAT_WE_DO_TOMORROW_v0.1.md` |
+| 16 | S10E17 | The Size of a Marble | `THE_ARRIVALS_S10E17_LN_CHAPTER_01_THE_SIZE_OF_A_MARBLE_v0.1.md` |
+| 17 | S10E17 | The Girl Above the Gate | `THE_ARRIVALS_S10E17_LN_CHAPTER_02_THE_GIRL_ABOVE_THE_GATE_v0.1.md` |

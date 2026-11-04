@@ -2980,3 +2980,7 @@ Ko arrives by convergence. Nazuna and Ko get their own reunion and choose to ask
 ### S10 después de la cantera — V62#12–14, 2026-11-04
 
 Ko's consultation is open pending sample detail. Uraume's one-question scene complete. Mai initiates conversation prep with Mau and Yuka; Mai and Maki own their subsequent scene.
+
+### S10 después de la cantera — V62#15–17, 2026-11-04
+
+Mai/Maki private source death account precedes Momo Nishimiya's arrival, as requested. Local Vault Ch152 p8 checked in read-only mode. Early mistaken Gojo recognition relies on limited cleared Blue; no romantic choice or new power from arrival.

@@ -43,11 +43,12 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V62#12 | S10E15 CH02 | B+165 afternoon | Ko and Nazuna request consultation, no physical test. |
 | V62#13 | S10E15 CH03 | B+165 late afternoon | Uraume asks one question, hears the last words and leaves. |
 | V62#14 | S10E16 CH01 | B+165 evening | Mai asks Mau and Yuka for help before speaking to Maki. |
+| V62#15 | S10E16 CH02 | B+166 morning | Mai asks Maki for the full account and chooses their present life. |
+| V62#16 | S10E17 CH01 | B+166 afternoon | Bounded Blue exercises; Mai names something she wants someday. |
+| V62#17 | S10E17 CH02 | B+166 afternoon continuous | Momo Nishimiya lands at outer marker and meets Mai alive. |
 
 ## Current state
 
-V62#14, B+165 evening. Ko and Nazuna meet Maomao, Kusuri and Shoko with Anko; separate questions of his changing body and feeding hazard. Observational interview only. No blood collected, adaptation attempted, wheel invoked or safety confirmed. Exact exposure still awaits clarification; arc open and allowed to run alongside independent house scenes.
+V62#17 B+166 afternoon. Mai and Maki speak alone in #15. Mai hears Maki's account of source death, recalls none of it herself, chooses to build their current life. Both have breakfast with Mau and Yuka after Mai asks for another plate. In #16 Mai wants a future dragon date with a person who thinks of it; Mau can ask Kamish if and when Mai asks him. No partner chosen or commitment from Kamish. Shoko permits short supervised low-output Blue accuracy exercises only; still no full training/actual combat clearance.
 
-Uraume comes alone to outer marker, asks only what Sukuna said at the end, receives the firsthand “worthy death” and “I've eaten” account, leaves. No threat, alliance, pursuit, or implication of Sukuna's return.
-
-Mai privately asks Mau for help, invites Yuka to stay. She knows her sister lost her in the source timeline and wants to ask Maki herself. Mau and Yuka agree to wait in the kitchen the next morning if she wants company afterward. Existing Construction agreement is separate. Conversation with Maki not yet written. Momo Nishimiya arrives only after that. Partner undecided. Romance continuity remains Work-owned, including V60#19 and V61#11 corrections.
+#17 Momo Nishimiya arrives alone on her broom at the outer marker through ordinary convergence. Creator extraction +15 subjective days after manga chapter 152 handoff; local Vault JJK part 33 Ch0152/008 confirms Maki bringing Mai's body to Momo on the steps. Gojo still believed sealed by Momo. She mistakes Mau for Gojo from appearance and small Blue. Mai is present and comforts her, fulfills sequencing after Mai/Maki. Mau touched the broom then left space; no attempt to fly it or explicit completed new technique. Noise's observation/reading can be shown in next scene. Momo not admitted yet. No new romance label. Later reactions to Sukuna, Kamish and Momo Ayase still planned. Ko sample pending. Uraume visit complete, no oath or return promise.

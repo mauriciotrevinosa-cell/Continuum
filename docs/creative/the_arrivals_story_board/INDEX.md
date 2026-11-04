@@ -1,5 +1,7 @@
 # The Arrivals — Story Board Index
 
+> **S10 — Después de la cantera, V61#3:** S10 arranca en V61. Primer bloque listo para lectura y auditoría. [Leer](../THE_ARRIVALS_LN_VOLUME_61_INDEX_v0.1.md) · [Estado](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md) · [Verde](S10_WORK_START_HANDOFF_2026-11-04.md).
+
 > **S9 — Aftermath V60 ampliado, 18 capítulos, cierre B+152:** [Volumen](../THE_ARRIVALS_LN_VOLUME_60_INDEX_v0.1.md) · [Dirección](S9_AFTERMATH_REM_YUKA_AND_RECOVERY_CREATOR_DIRECTION_2026-11-03.md).
 
 > **S7–S9 — Casa, hilos y escala, respuesta del creador, 2026-11-03:** [Mensaje y aplicación](S9_CREATOR_ANSWER_REASONABLE_HOUSE_THREADS_AND_POWER_SCALE_2026-11-03.md). No reescribir S7–S9; sin problemas multiversales; S10 después.

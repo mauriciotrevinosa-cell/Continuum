@@ -2936,3 +2936,7 @@ Encargo del creador: nivel Gojo contra Sukuna, final salvaje, "no te limites". V
 ### S9 aftermath V60 ampliado, 2026-11-03
 
 Por petición del creador, V60 de 3 a 18 capítulos y cierre en B+152. Escena Rem/Yuka según su mensaje. Regla: recuperación con tiempo, sin pérdida de lo construido. S10 no iniciada.
+
+### S10 después de la cantera — V61#1–3, 2026-11-04
+
+Creator greenlight, Nov 4. Start from V60#20 at B+153. Claude's saved testrun remains unpromoted. Home morning, functional Mau, Yuka and Mai's work, and first contact at the south marker written. No surrender or prisoner disposition yet.

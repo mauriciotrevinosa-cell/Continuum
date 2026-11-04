@@ -3004,3 +3004,7 @@ Fort corrected its charter in good faith, with limited real autonomy and Yuka as
 ### S10 después de la cantera — V63#12–15, 2026-11-04
 
 Walpurgis road liaison stays a proposal distinct from Mau's personal warning. No title or authority accepted. Mau leaves voluntarily and Rimuru stays voluntarily. Falling Devil intercepts him outside the hall on the road, with no culprit asserted behind her. The fall reaches the overwrite seam; the devil has no timeline travel or fabrication power.
+
+### S10 después de la cantera — V63#16–19, 2026-11-04
+
+Mau wakes just after the original blackout. Original Yuka, Ciel and Rimuru speak from their own knowledge and retain their refusals of the original intervention. Yuka supplies details Mau did not know and a message about the ordinary hand dragon. Her marriage is with present Mau only. No romance in the prior-life scene.

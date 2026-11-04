@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
 **Season:** 10
-**Coverage:** S10E20–S10E27 (in progress)
+**Coverage:** S10E20–S10E29 (in progress)
 **Volume title:** **An Independent Fort**
-**Chapter files:** 15
+**Chapter files:** 19
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -30,3 +30,7 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 13 | S10E26 | The Empty Line | `THE_ARRIVALS_S10E26_LN_CHAPTER_01_THE_EMPTY_LINE_v0.1.md` |
 | 14 | S10E26 | Call It Whatever You Like | `THE_ARRIVALS_S10E26_LN_CHAPTER_02_CALL_IT_WHATEVER_YOU_LIKE_v0.1.md` |
 | 15 | S10E27 | What Falls First | `THE_ARRIVALS_S10E27_LN_CHAPTER_01_WHAT_FALLS_FIRST_v0.1.md` |
+| 16 | S10E27 | A Little After the Dark | `THE_ARRIVALS_S10E27_LN_CHAPTER_02_A_LITTLE_AFTER_THE_DARK_v0.1.md` |
+| 17 | S10E28 | What She Was Going to Do | `THE_ARRIVALS_S10E28_LN_CHAPTER_01_WHAT_SHE_WAS_GOING_TO_DO_v0.1.md` |
+| 18 | S10E28 | The One That Was Eating Its Wing | `THE_ARRIVALS_S10E28_LN_CHAPTER_02_THE_ONE_THAT_WAS_EATING_ITS_WING_v0.1.md` |
+| 19 | S10E29 | An Answer for Today | `THE_ARRIVALS_S10E29_LN_CHAPTER_01_AN_ANSWER_FOR_TODAY_v0.1.md` |

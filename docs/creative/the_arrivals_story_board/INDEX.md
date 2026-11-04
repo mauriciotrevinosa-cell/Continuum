@@ -1,6 +1,6 @@
 # The Arrivals — Story Board Index
 
-> **S10 — Después de la cantera, V63#15:** V63#15 disponible. Walpurgis y el camino de regreso. [Leer](../THE_ARRIVALS_LN_VOLUME_63_INDEX_v0.1.md) · [Estado](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md) · [Verde](S10_WORK_START_HANDOFF_2026-11-04.md).
+> **S10 — Después de la cantera, V63#19:** V63#19 disponible. La noche del overwrite. [Leer](../THE_ARRIVALS_LN_VOLUME_63_INDEX_v0.1.md) · [Estado](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md) · [Verde](S10_WORK_START_HANDOFF_2026-11-04.md).
 
 > **S9 — Aftermath V60 ampliado, 18 capítulos, cierre B+152:** [Volumen](../THE_ARRIVALS_LN_VOLUME_60_INDEX_v0.1.md) · [Dirección](S9_AFTERMATH_REM_YUKA_AND_RECOVERY_CREATOR_DIRECTION_2026-11-03.md).
 

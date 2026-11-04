@@ -229,6 +229,8 @@ He gets himself across the room and lets himself down beside her. It takes a whi
 
 “I had. A really good day,” Mau says. ᴹ
 
-She looks at him a moment longer. Then she goes back to the knot.
+“I love you,” he says. “I want you a little closer, if you don't mind.” ᴹ
+
+Yuka lets go of the lace and moves until her knee rests against his. She goes back to the knot without moving away.
 
 “Start at the beginning,” she says. ʸ

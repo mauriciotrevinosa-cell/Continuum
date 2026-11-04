@@ -91,7 +91,7 @@ She doesn't say anything until the field. She doesn't let go of the sleeve, eith
 
 She bites it. She chews for some time, breathing through her nose.
 
-“It's very good,” she says, furiously. ʸ
+“It's very good,” she says. ʸ
 
 He has started to laugh.
 
@@ -99,14 +99,18 @@ He doesn't know when that began. It's coming up from a long way down and it isn'
 
 “You paid for pears,” he says, “like you were. Declaring war.” ᴹ
 
-“He *thanked* you. He stood there and thanked you. For what? You wanted a *pear*.” ʸ
+“He *thanked* you.” ʸ
 
 “I know.” ᴹ
 
-“You saved that stupid road. His stupid brother's probably on it. Do you know how many of those people's—do you know what you *looked* like, lying there, did they even—” ʸ
+“He thought you were going to—they all did. That whole street. Did you see how many? That's one town.” Her voice is climbing and she can't seem to get hold of it. “Scared people don't just stand there, Mau. They do things. They pick up whatever they've got. What happens when it's a hundred towns? What happens when they come, and you've just gone out for pears?” ʸ
 
-She stops. She's got pear on her chin. There's water standing in her eyes, and she's so angry that she has gone red to the ears. It's the most colour he has seen all day. It's the only colour he has seen all day.
+She stops. She has pear on her chin. The hand with the fruit in it has started to shake, and she looks at it as if it were somebody else's.
+
+He has seen her angry. He has been on the receiving end of it, in a bed, not a week ago, and he knows what it looks like. It looked very much like this. He has been wrong about that for some time.
+
+She saw him lying on that stone, and it hasn't stopped.
 
 He stops laughing, somewhere in there.
 
-`[PARA WORK: En el campo, antes de llamar a Kaisel. A ella le dolió más que a él y no sabe qué hacer con eso. Él sabe lo que vio en los ojos del viejo, y puede contárselo o no. EMPIEZA: justo aquí, los dos parados en la hierba seca. TERMINA: él llama a Kaisel y ella le da una pera. Lo siguiente empieza al día siguiente, en casa.]`
+`[PARA WORK: En el campo, antes de llamar a Kaisel. Ella tiene miedo por él y no sabe dónde ponerlo. Él sabe lo que vio en los ojos del viejo, y puede contárselo o no. EMPIEZA: justo aquí, los dos parados en la hierba seca. TERMINA: él llama a Kaisel y ella le da una pera. Lo siguiente empieza al día siguiente, en casa.]`

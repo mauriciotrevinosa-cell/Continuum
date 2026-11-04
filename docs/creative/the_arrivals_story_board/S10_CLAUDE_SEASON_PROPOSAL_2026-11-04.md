@@ -115,6 +115,35 @@ Sembrado en S3, V16–17: cinco estanques redondos y equidistantes que los viejo
 
 **Reparto:** Mai llegó con 16 según la fuente. Mismo límite de Claude que con Yuka: amistad, familia y comedia sí; lo romántico lleva marca para Work.
 
+### Mai: desarrollo del creador (prevalece)
+
+> oye pq algo puede se rque shizue mai y rimuru la ve a shizue en ves de romantica como una partner y no hay bad feelings y chloe pues es mas vieja d elo que aprece entonces puede ser que aqui exploremos chrono si funciona la idea (si no amara tanto a yuka fak mai hubiera sido pick) amo el presonaje de mai y una duda en este nuevo mundo si existen las 5 de las 100 novias pq siento desde el brinco no existen osea como que el mundo no las trajo no als eh visto ninguna ves como en tres seasons. no em gustatia que mau ve la diferencia escucha a mai y le hace preguntas dificiles tal ves para mai y dice que lo unico que habia querido es a su hermana y ahora la tiene pero con una vida que no fue parte mai dice que no es estupida que se dio cuenta como maki y yuka la trataron al incio para saberlo y mau ahi le puede ayudar mucho agarra tiempo y escuha a mai abriendose de una manera de ellos y yuka puede ayudar y luego se puede abrir con amki y aqui ya le deci que cuando murio y maki intenta cmabiar el tema y mai le dice que le cuente y le explica y le dice que ella no lo recuerda asi que no cuenta y ahorita estan haciendo una vida y esto debe ser muy mai y es una piedra que se quitan de los hombros y fak quisera la persona perfecta para mai la neta puede ser alguien del mundo de jjk que no hemos traido o alguiend e la casa necesitaria una lista de las parejas y quienes estans olteros para revisar bien y ko creo que puede ser buen momento y aqui comprueban que la sangre no es toxica y claro regresamos a mau siendo el objeto de como hacerlo ya lo hizo con la mama de coco pq no otra ves y yuka lo puede ofrecer y mau lo ve y ella le dice que ya han comprobado que el puede hacerlo funcionar en un ambiente controlado
+
+> y mai puede decir que quiere que alguien la lleve en dragon como mau a yuka y mau le dice que puede preguntarle a kamish si quiere ayudar en un acita cuando le pida goddddd
+
+**Fijado:**
+
+- Mau nota la diferencia, escucha a Mai y le hace preguntas difíciles. Lo único que ella había querido era a su hermana; ahora la tiene, pero con una vida de la que no fue parte. No es estúpida: se dio cuenta por cómo la trataron Maki y Yuka al inicio. Mau se toma el tiempo. Yuka también ayuda.
+- **Mai y Maki:** Mai le pregunta cuándo murió. Maki intenta cambiar de tema. Mai le pide que le cuente. Al final Mai dice que ella no lo recuerda, así que no cuenta, y que ahorita están haciendo una vida. Muy Mai. Una piedra que se quitan de los hombros.
+- **Dragón:** Mai quiere que alguien la lleve en dragón, como Mau a Yuka. Mau le dice que puede preguntarle a Kamish si ayudaría en una cita cuando se lo pida.
+- **Persona de Mai:** sin decidir. Puede ser alguien de JJK no traído o de la casa.
+- **Rimuru y Shizue:** posibilidad de que Rimuru la vea como compañera, sin romance y sin rencores. *(Por confirmar si esto abre a Rimuru como opción para Mai.)*
+- **Ko:** buen momento para traerlo. Comprueban que la sangre no es tóxica y Mau es el sujeto, como con la mamá de Coco (S4: su adaptación de ocho vueltas). Yuka lo ofrece: ya se comprobó que funciona en un ambiente controlado. *(Por confirmar de quién es la sangre y cómo fue lo de Coco en esta rama.)*
+
+**Límite de Claude sobre Chloe:** en esta historia es una niña. Aunque sea más vieja de lo que aparenta, Claude no plantea ni escribe romance con ella. Explorar a Chronoa en otros aspectos (historia, poderes, quién es) sí. *(Por aclarar qué pedía el creador.)*
+
+**Las cinco de 100 Girlfriends:** sí existen en esta rama. Apariciones: S7 ninguna, S8 pocas (hogares, V52; «The Quiet Rooms»), S9 sólo Hakari en un capítulo. Viven en el pueblo, en su propio grupo. S10 puede darles lugar.
+
+### Lista para revisar (según los documentos de S8–S9; por cotejar)
+
+**Con pareja o vínculo declarado:** Mau/Yuka, Yuta/Maki, Gojo/Shoko, Bocchi/Kita, Kaneki/Touka, Marin/Wakana, Fern/Stark, Maomao/Jinshi, Anko/Hinata, Momo/Okarun.
+
+**Sin etiqueta o en proceso:** Rem/Umaru, Ram/Seika, Eren/Mikasa (cercanía), Rimuru/Shizue (abierto), Frieren/Himmel (paseo, no pareja). Nazuna espera a Ko.
+
+**Sin pareja declarada, adultos claros en la casa o Tempest:** Rimuru, Taihei, Diablo, Qifrey, Olruggio, Byakuya, Himmel, Shuna, Shion, Benimaru, Souei, Testarossa; las brujas (Echidna y las demás).
+
+**Adultos de JJK aún no traídos, por ejemplo:** Nanami, Higuruma, Utahime. Quien esté en la adolescencia en la fuente no se plantea para romance.
+
 ## Propuestas de Claude sobre esto (por aprobar)
 
 - **Independencia del Fort:** sale del chocolate. El «error en tratados» es que Mau, consintiendo a Umaru, firma algo que reconoce al Fort como nación. Al día siguiente hay que negociarlo: de ahí el tratado con los dos idiotas al otro lado de la mesa. Reemplaza la razón del embargo.

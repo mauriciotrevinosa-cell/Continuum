@@ -21,7 +21,7 @@ Fern looks at her. She knows which rooms those are. She goes to the cabinet anyw
 
 Bocchi shakes her head so hard that her hair falls forward. She puts it behind her ear. The same piece comes down again.
 
-“I want to do the thing that comes after having the rooms,” she says. ᴮ
+“I want to do the thing that comes after having the rooms,” she says. ᴮᵒ
 
 Fern moves her hand off the plan. Bocchi gets one finger onto the narrow little rectangle next to the stairs. That was going to be the place where her parents could set their things down. She could never quite imagine the things. Her mother would bring something she'd want to put away and then something else she'd decide to leave out. Her father would find one thing he had packed by accident. Futari would know which door was hers and go into the other one.
 
@@ -29,11 +29,11 @@ She can imagine it now. She has been able to imagine it for days. This is one re
 
 * * *
 
-“What are you going to need from me?” she asks. ᴮ
+“What are you going to need from me?” she asks. ᴮᵒ
 
 Fern leaves the plan out. She says they should start with the people who might already be here, the reports they've actually checked, and what it would mean to ask somebody to come. Then they can get the people who own the coins in a room and hear from them. There's a book for that. Fern doesn't reach for it yet.
 
-“Would it have to be in front of everybody?” Bocchi asks. ᴮ
+“Would it have to be in front of everybody?” Bocchi asks. ᴮᵒ
 
 “We should talk about how to do it together. You can tell me what you want to ask in here.” ᶠᵉ
 

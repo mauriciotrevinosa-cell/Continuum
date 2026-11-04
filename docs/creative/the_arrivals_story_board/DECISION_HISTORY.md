@@ -2960,3 +2960,7 @@ Esther and child of eleven marks introduced independently. No uniform worship, b
 ### S10 después de la cantera — V61#16–18, 2026-11-04
 
 Current branch original Stay award verified. Bocchi, Kita and Ryo's coins are identified individually; Kita and Ryo gift their coins by choice. Bocchi uses her own on Futari, with the family dog accompanying. No general rule or aggregate balance.
+
+### S10 después de la cantera — V61#19–21, 2026-11-04
+
+Bocchi's mother and father arrive via two separately recorded gifted coins, both willingly. Quiet family time and first-night lodging complete the volume; no extra spend or outside conflict.

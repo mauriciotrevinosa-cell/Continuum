@@ -5,7 +5,7 @@
 **Volume:** 61
 **Reading order:** 3
 **Source episode:** S10E02
-**Continuity state:** B+153 afternoon. Pays "I'll show you. You'll hate it" (V60 #9). Yuka's own growth: training with Maki, what to do when the Garden loses (S8E48). Real burnout after her existing small Garden; one attempt, then drills without it. Plain reinforcement. Mau watches; no training for him. Practice blades. No new technique.
+**Continuity state:** B+153 afternoon. Pays "I'll show you. You'll hate it" (V60 #9). Yuka's own growth: what to do when the Garden loses (S8E48). Chimera Shadow Garden as written: closed barrier, dark medium, Ten Shadows placement (S7E34, S8E46); opened by her own choice before it breaks (S7E34); real burnout, then body (S8E46); one attempt, then drills without it. Barrier work with Yuta still in progress. Plain reinforcement. Mau watches; no training for him. Practice blades. No new technique.
 
 *When: B+153, after lunch. Yuta sees who has come out to the practice yard with her, and he starts to take off his shirt so that Mau can look at the bruise.*
 
@@ -29,15 +29,21 @@ Mau considers the question. He has some experience in this field.
 
 She looks at Yuta and nods.
 
-He comes at her, and he isn't going easy. Her hands meet, and the Garden goes down over a patch of the yard no bigger than a kitchen. It's the same one she has always had. Yuta puts pressure on it and on her at the same time, with a lifetime of knowing how. The edge starts to go. She's losing. It's quite clear.
+He comes at her, and he isn't going easy. She gives ground with the Ox out in front of her and Nue above, the way she does. Then the Ox is gone, her hands have met, and there's a word Mau can't quite hear.
 
-It breaks.
+The boundary closes over both of them.
 
-There's a soft dry sound, like a sheet tearing. The dirt is only dirt. It has cost what it always costs: her technique has burned out, and there will be no dogs or anything else from her until it comes back. Anyone who has ever been in that position knows what happens next, and what you do is run.
+From the bucket, it's only a black shape in the middle of the yard, small and round, about the size of a kitchen. It's the same one she has always had, the part she can actually hold. Nothing comes through it. Inside there will be that dark floor that takes your feet, and things coming up out of it, and a duplicate of her where you were sure she wasn't. He could open the eyes and look. He promised Shoko he wouldn't.
 
-Yuta steps in to finish it.
+Maki is counting under her breath.
 
-She was already moving. She let it go a moment before he made her, and that's all she did. She drops both blades, since she won't have room for them, and comes in under his arm with her whole small body and plain reinforcement, closer than anyone with any sense would come. Her elbow goes in below the last rib with everything she weighs.
+It doesn't break. Nothing pushes it, and no line runs across it. It simply opens, all at once, while it could still have held. The yard comes back, and there's Yuta in the middle of it, half turned toward somewhere she isn't, with his blade coming round. There she is, four paces off, with her hands empty and her breath going.
+
+That has cost what it always costs. Her technique has burned out, and there will be no dogs or anything else from her until it comes back. Yuta knows it. Anyone who has been in that position knows what happens next, and what you do is run.
+
+He steps in to finish it.
+
+She was already moving. She closed it herself so that she would be, and that's all she did. She comes in under his arm with her whole small body and plain reinforcement, closer than anyone with any sense would come. Her elbow goes in below the last rib with everything she weighs.
 
 Yuta sits down.
 
@@ -45,7 +51,7 @@ He doesn't fall. He just stops being upright. He stays where he is on the dirt w
 
 The yard is quiet for a moment. Somewhere a pigeon is having a difficult time.
 
-“I've got nothing left,” Yuka says. She's panting, and she's lit up from the inside like a lamp. “See? It's gone, I'm burned out. Everyone knows I'm done. So they stop looking at my hands. And I've still got elbows.” ʸ
+“I've got nothing left,” Yuka says. She's panting, and she's lit up from the inside like a lamp. “See? I closed it, I'm burned out. Everyone knows I'm done. So they stop looking at my hands. And I've still got elbows.” ʸ
 
 She turns around to look at him.
 
@@ -61,7 +67,7 @@ She flings both arms in the air.
 
 “Who taught you that?” ᴹ
 
-“I did,” says Maki, beside him, not looking at him. Her voice has no expression in it at all. “She asked me a while back what to do when the Garden loses. I said you've still got a body. She came back the day after you got your hand back and asked me to show her how close.” ᴹᵃ
+“I did,” says Maki, beside him, not looking at him. Her voice has no expression in it at all. “She asked all of us what to do when the Garden loses. Yuta's teaching her the barrier work, and that's going to take a long time. I told her that in the meantime she's still got a body. She came back the day after you got your hand back and asked me to show her how close.” ᴹᵃ
 
 He turns his head.
 

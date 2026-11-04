@@ -17,11 +17,20 @@
 - Requiere permiso de DIO, de Ashborn y de la casa. Jin-Woo tiene que decidir si trae a su familia.
 - **Los reencuentros de S10 (Bocchi y otros) tienen su propio espacio.** Esta trama no se mezcla con ellos ni los diluye.
 
-## Por cotejar con el creador
+## Desarrollo posterior del creador
 
-Claude lee «las construcciones hechas por error» como los modelos operativos derivados no autorizados de V51 #8–11: el análisis continuo de Ashborn que Mau y Ciel no debieron hacer, retenidos aparte y sin uso. Eso explicaría por qué hace falta el permiso de DIO y Ashborn.
+> si exactamente son esos modelos y mau puede tirar un facto ashborn dice que no quiere nada suyo usado para pelear y mau le dice ese es el punto y explica que solo vana  ponerlos para que los dioses detecten una signal de una dios y del monarca de las sombras entonces se podrian tirar para atras y ahcen un espectaculo de este supuesto nuevo dios y sus poderes segun este matando a jin woo para demostrar su poder y esto si asusta a los dioses pq jin woo los ah tenido en un empate y ashborn se rie que esta es la idea mas estupida que ah escuchado y mau le dice entonces y ashborn dice que el encanta peor que le cuente bien el plan y luego como le funciona y que los beru anden de criticos y tienen asi unas bufandas lentes y un gorrito frances y una libreta critcando el plan y mau les pregunta de donde consiguieron todo y se acuerda que mai le pidio varias piezas de ropa de accesorios y ve mai disfrutando el espectaculo de una manera y algo que quisiera ver es que quiero ahcer a mai feliz maki tiene a yuta yuka a mau y quiero que ella tenga a lguien aun no se quien pero me gustaria tal ves rodear s1 en como mau y la casa puede ayudar pero que mai es al que tal ves le pida ayuda a mau entonces tenemos que buid it properly
 
-## Propuestas de Claude (no canon)
+**Queda fijado:**
 
-- **El error se vuelve la herramienta.** Ashborn y DIO tienen que autorizar justo lo que los hirió, esta vez por elección.
-- **Los dos Beru como profetas.** Si la deidad es puro show, necesita quien la anuncie, y ya tenemos a dos expertos en telenovela.
+- **Las construcciones** son los modelos operativos derivados no autorizados de V51 #8–11, retenidos aparte y sin uso.
+- **La objeción:** Ashborn no quiere nada suyo usado para pelear. Mau contesta que ese es el punto: sólo se ponen para que los dioses detecten la señal de una diosa y del Monarca de las Sombras, y se echen para atrás.
+- **El espectáculo:** el supuesto dios nuevo demuestra su poder «matando» a Jin-Woo. Eso sí asusta a los dioses, porque Jin-Woo los ha tenido en empate.
+- **Ashborn** se ríe: es la idea más estúpida que ha escuchado. Mau: «¿entonces?». Le encanta, pero quiere que le cuente bien el plan y cómo le funciona.
+- **Los Beru** de críticos, con bufandas, lentes, gorrito francés y libreta. Mau pregunta de dónde sacaron todo y recuerda que Mai le pidió varias piezas de ropa y accesorios. Ve a Mai disfrutando el espectáculo.
+
+La idea de Mai se desarrolla en la [propuesta de S10](S10_CLAUDE_SEASON_PROPOSAL_2026-11-04.md).
+
+## Propuesta de Claude (no canon)
+
+**El error se vuelve la herramienta.** Ashborn y DIO autorizan justo lo que los hirió, esta vez por elección, y sólo para una función que no pelea.

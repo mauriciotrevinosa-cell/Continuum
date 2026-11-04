@@ -98,6 +98,23 @@ Sembrado en S3, V16–17: cinco estanques redondos y equidistantes que los viejo
 
 **Reparto:** la plática de las sombras con la Yuka esposa toca romance; Claude escribe la entrega del mensaje y los recuerdos, y deja marca para Work en lo que se vuelva escena de pareja.
 
+## Mai: hilo por construir (creador, 2026-11-04)
+
+> algo que quisiera ver es que quiero ahcer a mai feliz maki tiene a yuta yuka a mau y quiero que ella tenga a lguien aun no se quien pero me gustaria tal ves rodear s1 en como mau y la casa puede ayudar pero que mai es al que tal ves le pida ayuda a mau entonces tenemos que buid it properly
+
+**Fijado:** Mai merece ser feliz y tener a alguien. Persona sin decidir. Mau y la casa ayudan; ella le pide ayuda a Mau. Se construye con calma. Empieza en S10 y su gag de la ropa de los Beru llega en S11.
+
+**Por aclarar:** qué parte de S1 quiere retomar el creador.
+
+**Propuesta de Claude (no canon):**
+
+- Base ya escrita: murió a los 16 en su mundo y lo sabe por pistas (Maki evita hablarlo). Maki vivió una vida entera sin ella. Hace cosas para todos, como las bandas de la boda, y nadie le pregunta qué quiere ella.
+- Le cuesta pedir. Por eso le pide a Mau como si fuera un negocio: una factura o una cláusula del contrato que ya tienen.
+- Mau ayuda mal. Empaca demasiada comida. La casa se entera y empeora.
+- No apurar quién es. Primero ella descubre qué le gusta.
+
+**Reparto:** Mai llegó con 16 según la fuente. Mismo límite de Claude que con Yuka: amistad, familia y comedia sí; lo romántico lleva marca para Work.
+
 ## Propuestas de Claude sobre esto (por aprobar)
 
 - **Independencia del Fort:** sale del chocolate. El «error en tratados» es que Mau, consintiendo a Umaru, firma algo que reconoce al Fort como nación. Al día siguiente hay que negociarlo: de ahí el tratado con los dos idiotas al otro lado de la mesa. Reemplaza la razón del embargo.

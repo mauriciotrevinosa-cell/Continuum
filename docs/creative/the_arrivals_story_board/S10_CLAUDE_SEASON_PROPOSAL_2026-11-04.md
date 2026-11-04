@@ -140,11 +140,25 @@ Sembrado en S3, V16–17: cinco estanques redondos y equidistantes que los viejo
 
 **Fijado:** Momo llega 15 días después de recibir el cuerpo de Mai (cap. 152 de la fuente), devastada, flotando en su escoba. Ve algo conocido y cree haber encontrado a Gojo. Es Mau practicando, mientras Mai platica con él. Momo perdió a su mejor amiga y la encuentra viva. Se desarrolla con calma. Momo y Maki son las dos personas que veían a Mai por ser Mai. El creador escribió «mai» al inicio del mensaje; se lee como Momo. La edad la dio él: nacida el 7 de julio de 2000, tercer año, 18 en 2018; por comprobar en la fuente.
 
+> solo que cambaira una cosa que gege hizo del personaje y le bajaria tres rallitas a su desmadre de sexism y puede llegar despues de que mai y maki hayan tenido esa platica para que no le quite a maki y mai su escena y hace que la que calme a la otra sea mai y su ct le puede ir de maravilla a mau y desde que llego noise la leyo y no solto como siempre nosiegoat for the win y si que mau al dalres su espacio puede jugar con la escoba osea al toca y corre pq pues vio una escoba voladora si osea que mai reconcozca que momo la queria por quien es y puede tal ves preguntarse y momo pues anda mas empalagoza y luego cuando se entere que sukuna ah sido devivido convertido en pure doblado mandado a la lista de espra al lobby momo ande como de que pedo y luego ve un dia un dragon cerca de la cas amientras vuela y se caga encima y llega con mai gritando que hay un dragon y kamish se ofende el dragon tiene nombre y momo y habla y luego como se llama al igual que ayase fak comedia y yo diria que tal ves esto queda mejor antes del chcolate
+
+**También fijado:**
+
+- Se le baja tres rayitas al sexismo que tiene en la fuente.
+- **Llega después de la plática de Mai y Maki**, para no quitarles esa escena. Mai es quien calma a Momo.
+- Noise la lee desde que llega y no lo suelta.
+- Mau les da espacio y se pone a jugar con la escoba voladora, toca y corre.
+- Mai reconoce que Momo la quería por quien es, y puede empezar a preguntarse. Momo anda más empalagosa.
+- Momo se entera de lo que le pasó a Sukuna y no lo puede creer.
+- Un día, volando, ve un dragón cerca de la casa y se caga encima. Llega gritando con Mai. Kamish se ofende: el dragón tiene nombre.
+- Se llama igual que Momo Ayase. Comedia.
+- **Va antes del chocolate.**
+
 **Propuesta de Claude (no canon):**
 
 - El pelo café con blanco y los ojos azules de Mau, desde lejos, explican el error. Y en su mundo Gojo sigue sellado, así que cree que lo liberaron y baja con esperanza. *(Cotejar la cronología.)*
-- Momo es quien rompe el silencio. Mai sólo lo sabe por pistas y Maki lo evita, pero Momo cargó el cuerpo. Eso puede empujar la plática de Mai y Maki.
 - Maki le dejó el cuerpo y se fue sin decir nada. Momo tiene algo que reclamarle.
+- Dos Momo en la mesa: el Fort emite un fallo oficial sobre quién contesta.
 - Queda abierto si Momo es la persona de Mai o su amiga. Takada sigue como opción.
 
 ### Lista para revisar (según los documentos de S8–S9; por cotejar)

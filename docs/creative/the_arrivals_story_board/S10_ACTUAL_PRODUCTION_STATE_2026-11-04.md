@@ -57,9 +57,15 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V63#5 | S10E22 CH01 | B+169 late morning | Ori directs a short supervised ride on Kaisel. |
 | V63#6 | S10E22 CH02 | B+169 midday | Fort team maps a passage; Milim handles the blind-side monster. |
 | V63#7 | S10E23 CH01 | B+169 midday continuous | Ori leads the last chamber, Gojo provides one timed Red. Group exits safely. |
+| V63#8 | S10E23 CH02 | B+169 afternoon | Hollis finds the erroneous notice. Yuka joins Fort side. |
+| V63#9 | S10E24 CH01 | B+170 morning | Fort negotiates scope, roles and resources with Mau and Rimuru. |
+| V63#10 | S10E24 CH02 | B+170 midday | Revised charter, biscuits and Queen Yuka. |
+| V63#11 | S10E25 CH01 | B+170 evening | Walpurgis summons Rimuru and requests Mau's presence. They discuss limits and route. |
 
 ## Current state
 
-V63#7 B+169 midday. Chocolate cleared before morning check. Shoko cleared Mau as passenger and observer on a short checked route; still no combat. Ori selects/briefs group, children/pupils opt in/out, Frieren and Milim can stop, Yuka and Gojo support, Milim instructs Mau in three duties. Ori pilots the directions of Kaisel's short supervised ride with Mau riding; Kaisel returns to shadow before entry. Group takes prechecked route. Milim intercepts a monster in blind spot, Mau thanks with one ordinary packed soda (no Shop transaction), child marks the blind angle. Ori and team find timing and angle, ask for power of friendship, Gojo supplies one safely directed Red. No child hurt, no Arise or inventory gain asserted; all exit. Ori shows the map to those who waited.
+V63#11 B+170 evening. Fort expedition complete: Ori led, Kaisel supervised flight, Milim blocked blind-side monster, Gojo bounded Red from safe angle on children's timing; all safe. Fort internal charter replaces the broad note Mau witnessed during chocolate. Autonomy for cupboard, outing proposals and list under household budget and adult safety; no sovereignty, debt or foreign agreement. Hollis gets corrected order notice; Yuka sat with Fort, Mau and Rimuru opposite. Agreed biscuits and one basket of Mau's gifts, Queen Yuka joke with Mau alone following playful commands.
 
-Mau witnessed an overbroad independent Fort form during chocolate. One copy reached outer desk. Yuka held further copies. Next reconcile what was seen and what the Fort actually requests, negotiate in good faith with all Fort (Yuka on Fort side) and Rimuru/Mau, no new political calamity/embargo. Queen Yuka, extra sweets; don't misplace cup/restrict unrelated authority. Ko consultation still pending exact sample, no test performed. No Mahoraga adoption changes. No major battle this season required. Walpurgis and Falling Devil afterward.
+Rimuru and Mau received invitation to Walpurgis, distinct capacities member and asked guest. Agenda wording asks authority over road representations and promises, no title accepted. Yuka asks about return plan, they identify a planned place to wait off the hall if leaving first. No departure yet. B+171 suitable for meeting. Keep creator's threatened consequence exact in intent, no Emperor/embargo/arrest. Mau leaves, then Falling Devil encounters him on route. Need primary chapters and old-line endpoint before drafting encounter itself.
+
+Ko experiment still pending precise sample confirmation. No clinical result or change. Mai and Momo open guest-life thread. No further arcs added.

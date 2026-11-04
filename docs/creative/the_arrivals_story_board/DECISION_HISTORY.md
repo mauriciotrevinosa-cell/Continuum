@@ -2996,3 +2996,7 @@ Chocolate sequence begins after Momo's arrival, family comedy only. Fort form tr
 ### S10 después de la cantera — V63#4–7, 2026-11-04
 
 Sober supervised flight and dungeon expedition; Ori leads, participants opt in. Milim teaches appropriate intervention. Gojo supplies bounded Red on Ori's timing. All return.
+
+### S10 después de la cantera — V63#8–11, 2026-11-04
+
+Fort corrected its charter in good faith, with limited real autonomy and Yuka as citizen. The resulting sweets and crown scene are ordinary comedy. Walpurgis invitation received; no title agreed.

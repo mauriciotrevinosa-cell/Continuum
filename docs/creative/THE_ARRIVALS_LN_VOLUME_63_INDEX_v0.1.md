@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
 **Season:** 10
-**Coverage:** S10E20–S10E23 (in progress)
+**Coverage:** S10E20–S10E25 (in progress)
 **Volume title:** **An Independent Fort**
-**Chapter files:** 7
+**Chapter files:** 11
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -22,3 +22,7 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 5 | S10E22 | You Tell Him Where | `THE_ARRIVALS_S10E22_LN_CHAPTER_01_YOU_TELL_HIM_WHERE_v0.1.md` |
 | 6 | S10E22 | Where They Aren't Looking | `THE_ARRIVALS_S10E22_LN_CHAPTER_02_WHERE_THEY_AREN_T_LOOKING_v0.1.md` |
 | 7 | S10E23 | On the Count of Three | `THE_ARRIVALS_S10E23_LN_CHAPTER_01_ON_THE_COUNT_OF_THREE_v0.1.md` |
+| 8 | S10E23 | The Notice at the Outer Desk | `THE_ARRIVALS_S10E23_LN_CHAPTER_02_THE_NOTICE_AT_THE_OUTER_DESK_v0.1.md` |
+| 9 | S10E24 | The Two Idiots | `THE_ARRIVALS_S10E24_LN_CHAPTER_01_THE_TWO_IDIOTS_v0.1.md` |
+| 10 | S10E24 | All Hail Queen Yuka | `THE_ARRIVALS_S10E24_LN_CHAPTER_02_ALL_HAIL_QUEEN_YUKA_v0.1.md` |
+| 11 | S10E25 | Who the Chair Is For | `THE_ARRIVALS_S10E25_LN_CHAPTER_01_WHO_THE_CHAIR_IS_FOR_v0.1.md` |

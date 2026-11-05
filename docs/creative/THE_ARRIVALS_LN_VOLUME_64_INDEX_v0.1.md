@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 64
 **Season:** 10
-**Coverage:** S10E31–S10E39 (in progress)
+**Coverage:** S10E31–S10E40 (in progress)
 **Volume title:** **Where the Road Leads**
-**Chapter files:** 16
+**Chapter files:** 19
 
 Mau comes home from Walpurgis carrying two messages. The house has to decide what it will do when someone takes his warning seriously enough to test it.
 
@@ -31,3 +31,6 @@ Mau comes home from Walpurgis carrying two messages. The house has to decide wha
 | 14 | S10E38 | The End Piece | `THE_ARRIVALS_S10E38_LN_CHAPTER_01_THE_END_PIECE_v0.1.md` |
 | 15 | S10E38 | Before We Go Back | `THE_ARRIVALS_S10E38_LN_CHAPTER_02_BEFORE_WE_GO_BACK_v0.1.md` |
 | 16 | S10E39 | Under the Cup | `THE_ARRIVALS_S10E39_LN_CHAPTER_01_UNDER_THE_CUP_v0.1.md` |
+| 17 | S10E39 | Where to Send the Answer | `THE_ARRIVALS_S10E39_LN_CHAPTER_02_WHERE_TO_SEND_THE_ANSWER_v0.1.md` |
+| 18 | S10E40 | What He Can Tell Them | `THE_ARRIVALS_S10E40_LN_CHAPTER_01_WHAT_HE_CAN_TELL_THEM_v0.1.md` |
+| 19 | S10E40 | Take Me Out for Nothing | `THE_ARRIVALS_S10E40_LN_CHAPTER_02_TAKE_ME_OUT_FOR_NOTHING_v0.1.md` |

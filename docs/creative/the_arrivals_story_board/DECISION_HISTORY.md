@@ -3028,3 +3028,7 @@ Hollis participated from safe recovery through the response and chose to reopen 
 ### S10 después de la cantera — V64#14–16, 2026-11-04
 
 The castle aftermath has separate civic, couple and household scenes, with no skip to celebration. Hollis trusts the tally keeper's discretion. Mau invites Yuka and Yuka chooses more time together, and completes her own test with Mai. Vey correspondence does not resolve Edran's order. No new fight. Pacing checked in S10_WORK_PACING_PASS_V64_2026-11-04.md.
+
+### S10 después de la cantera — V64#17–19, 2026-11-04
+
+Creator clarified that estimated chapter counts are references only. The council gets its own later look at the Vey account and returns the wagon question to the people who operate the crossing. Ko and Nazuna continue the interrupted consultation by consent, then have a scene outside it. No new magical result or test sample settled.

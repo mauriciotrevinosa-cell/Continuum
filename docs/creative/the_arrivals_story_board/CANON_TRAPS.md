@@ -507,3 +507,10 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 
 - **Make It Quick pasa en un claro, no en un campo** (S9E07 CH02, B+88). Mau está de rodillas y Gojo agachado frente a él; "field" ahí es la técnica. Yuka llega después, así que no oyó la súplica. Lo que recuerda Mau de sí mismo: puso el brazo roto donde no estorbara.
 - **La cita que Yuka pidió** está en S6E95 "Both Tables". La de Kaisel, S6E36, es de V33, antes del overwrite: revisar antes de que alguien la recuerde.
+
+
+## S10 — Reencuentro de Bocchi (5 de noviembre de 2026)
+
+- V61 #17–21 conserva DH-072: la familia llega del mismo día que salió Seika, tres o cuatro días después de la desaparición de Bocchi en origen. El tiempo que las chicas pasaron en Continuum no se suma a esa búsqueda. El objetivo habitual de quince días no reemplaza esta excepción previa.
+- Futari y los padres ya conocen a Kita y a Kessoku. La relación de novias es nueva para ellos. También reconocen a Seika. En S10 no escribir presentaciones como si fueran extrañas ni trasladar el tiempo de V22 a la edad actual.
+- DIO, Mau y Seika participan en la convocatoria por invitación de Bocchi, dentro del perímetro protegido. La entrada posterior de Mau como «mi hermano aquí» explica el vínculo, no es la primera vez que los padres lo ven.

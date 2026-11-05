@@ -1,7 +1,7 @@
 # The Arrivals — Light Novel — Volume 61
 ## Chapter 17 — The Small Compartment
 
-**Status:** LN PRODUCTION DRAFT — S10 v0.1
+**Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 61
 **Reading order:** 17
 **Source episode:** S10E07
@@ -65,7 +65,59 @@ Bocchi wants to say yes in a way that will show she knows the size of what they'
 
 * * *
 
-They can go in the morning, if she still wants to. In the corridor Kita asks whether she should take the long way home.
+They can go in the morning, if she still wants to.
+
+Before they leave Fern's desk, Bocchi puts a hand on the folded cloth.
+
+“The day,” she says. “We talked about the day Seika-san left. Is it still that day for them?” ᴮ
+
+Fern turns back to the older entry. Bocchi remembers the posters Seika dropped. Four faces. Her own face on a sheet someone had been carrying from station to station while she was learning to live here.
+
+“Let's ask her together,” Fern says. ᶠᵉ
+
+* * *
+
+DIO has a chair pulled close to the window in the protected part of the house. She moves a book off the second one when they come in. Mau is already there with Seika; he gets up before Bocchi reaches the door, then sits again when she points at the chair with more alarm than politeness.
+
+“I was only going to move it,” he says. ᴹ
+
+“You can stay in it.” ᴮ
+
+He stays. Kita takes the place beside Bocchi.
+
+Seika tells DIO which day she remembers. Three days of calling, searching and putting up the same four faces. The day she was taken from the club. The day Bocchi had asked them to keep in mind for her family, so she wouldn't spend more years imagining the search going on without an end.
+
+“That day,” Bocchi says. “My parents. Futari. All of them.” ᴮ
+
+“The same day,” DIO says. “The time you've spent here won't be added to their wait.” ᴰⁱ
+
+Bocchi looks down at the cloth. There are things she had been practising saying to a little sister who might not be little anymore. Now she can't remember a single one.
+
+“So they'll think it's been a few days,” she says. ᴮ
+
+Seika's hand closes over her own elbow.
+
+“They won't think it,” she says. “It has been.” ˢᵉ
+
+Mau looks toward her. Seika meets his eyes, then turns back to Bocchi.
+
+“They'll have been frightened,” she says. “Let them look at you.” ˢᵉ
+
+Bocchi nods. It takes her a moment to ask the next thing.
+
+“Will you come?” ᴮ
+
+Seika says yes before she finishes. Bocchi looks at DIO, then at Mau.
+
+“You too. If you're all right. I want you there. I don't know what I'm going to say.” ᴮ
+
+“Then I'll be there while you find out,” Mau says. ᴹ
+
+DIO asks Fern to put a chair near the wall for her. The arrival room is inside the protection; she can stay with them there. She doesn't take the coins or ask Bocchi to hand over the calling. Bocchi keeps them on the cloth in her lap until she is ready to stand.
+
+* * *
+
+In the corridor Kita asks whether she should take the long way home.
 
 Bocchi says that she would like to go straight to her room this time. She would like to sit down somewhere she can put both feet on the floor. And she would like Kita there.
 

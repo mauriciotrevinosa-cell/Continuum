@@ -24,11 +24,11 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V61#14 | S10E06 CH01 | B+159 late afternoon | A boy brings eleven marks for his sister; Mau listens without giving a blessing. |
 | V61#15 | S10E06 CH02 | B+159 evening | Bocchi asks Fern to reopen family search and voluntary coin discussion. No spend yet. |
 | V61#16 | S10E07 CH01 | B+160 morning | House resumes voluntary family search/coin review, Jinshi keeps reservation. |
-| V61#17 | S10E07 CH02 | B+160 evening | Ryo and Kita privately choose to transfer each original unspent coin to Bocchi. |
-| V61#18 | S10E08 CH01 | B+161 morning | Bocchi invokes her original coin; Futari and dog arrive. Two coins unspent. |
-| V61#19 | S10E08 CH02 | B+161 continuous morning | Bocchi's mother accepts and arrives on Ryo's gift. |
-| V61#20 | S10E09 CH01 | B+161 late morning | Bocchi's father accepts and arrives on Kita's gift. Whole family together. |
-| V61#21 | S10E09 CH02 | B+161 afternoon | First home and music-room visit. Bocchi introduces her chosen brother. V61 closes. |
+| V61#17 | S10E07 CH02 | B+160 evening | Ryo and Kita independently give Bocchi their original unspent coins. Bocchi, Kita and Seika confirm the already-agreed source day with DIO; Bocchi asks Mau, DIO and Seika to attend tomorrow. |
+| V61#18 | S10E08 CH01 | B+161 morning | Bocchi invokes her own coin; Futari and dog willingly arrive from the day Seika left. Futari recognizes Kita and Seika and learns the new girlfriend relationship. Mau, DIO and Fern support the reunion. |
+| V61#19 | S10E08 CH02 | B+161 continuous morning | Mother arrives on Ryo's gift, recognizes Kita and Seika and reunites with Nijika/Ryo. The few source-world days and Bocchi's lived years are distinguished. Father's invitation remains pending. |
+| V61#20 | S10E09 CH01 | B+161 late morning | Father arrives on Kita's gift with search materials and the metronome. He recognizes Kessoku/Seika and learns about the couple. Three coins spent; no fourth charge for dog. DIO and Mau stay through the family reunion. |
+| V61#21 | S10E09 CH02 | B+161 afternoon | Family sees the rooms and the new music space with the band they already know. Bocchi introduces Mau as her chosen brother after his earlier support at reception. V61 closes. |
 | V62#1 | S10E10 CH01 | B+162 morning | Jinshi follows the weight lead, elects to ask Gaoshun with his reserved coin. |
 | V62#2 | S10E10 CH02 | B+162 midday | Gaoshun's voluntary arrival via Jinshi's coin, which is spent. |
 | V62#3 | S10E11 CH01 | B+162 afternoon | Gaoshun settles over food; Rem and Umaru's evening; Subaru lead not yet verified. |

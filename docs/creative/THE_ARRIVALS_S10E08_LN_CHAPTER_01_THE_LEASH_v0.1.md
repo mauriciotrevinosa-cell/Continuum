@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 61
 ## Chapter 18 — The Leash
 
-**Status:** LN PRODUCTION DRAFT — S10 v0.1
+**Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 61
 **Reading order:** 18
 **Source episode:** S10E08
-**Continuity state:** B+161 morning. Bocchi invokes her own Stay coin for Futari, who willingly arrives with the family dog already held close on the lead. Specific confirmed companion arrival; no general bundling rule. Two transferred coins remain unspent. Private reunion at Arrivals.
+**Continuity state:** B+161 morning. Bocchi invokes her own Stay coin for Futari, who willingly arrives with the family dog already held close on the lead. Specific confirmed companion arrival; no general bundling rule. Two transferred coins remain unspent. Family extracted from the same source-world day Seika left (DH-072), after roughly three or four days of absence; no synchronized world clocks. Futari knows Kita and the band. DIO, Mau and Seika attend by Bocchi's request inside the protection. Private reunion at Arrivals.
 
 *When: Fern asks where she wants the chair, Bocchi puts it where somebody smaller can climb onto it.*
 
@@ -17,11 +17,19 @@ Bocchi takes a step to the side.
 
 At the desk Fern checks the names with her again. There are three coins and three names. Bocchi tells her which one is her own. She wants to ask Futari first, and she would like this one to go with the name because she has had the two together in her mind for so long.
 
-Fern writes it down. She asks who can stay in the room.
+Fern writes it down. She checks that Bocchi still wants the people they agreed on last night.
 
-“Kita,” Bocchi says. “And you, if you want.” ᴮ
+“Yes. Kita with me. Seika-san can sit here.” ᴮ
 
-Fern gets up to go as far as the doorway. She says she will be there if Bocchi needs her. There is water beside the little chair. The door on the other side opens into a yard. She shows Bocchi which way it opens and lets her decide how far she would like to leave it open.
+She points toward the chair beside the little one. Seika moves it herself. DIO takes the place by the wall, inside the protected room, and Mau sits near the open doorway. He has come without a bag of things to distract her with. When she looks his way, he holds up the cup she forgot to drink from.
+
+She takes it, manages one mouthful and gives it back.
+
+“Nijika and Ryo are just outside,” Seika says. “Nobody's going anywhere.” ˢᵉ
+
+Fern leaves water beside the little chair. She shows Bocchi the door into the yard and lets her decide how far she would like to leave it open. Then she returns to her place at the desk. DIO watches Bocchi turn the coin once in her palm.
+
+“You can call her the way you call her at home,” she says. ᴰⁱ
 
 * * *
 
@@ -47,27 +55,71 @@ Bocchi looks up. She can't believe anybody can still say it exactly like that. H
 
 “Can I hug you?” she says. ᴮ
 
-Futari drops the end of the leash on the floor and puts both arms around her neck. She has got taller. She tells Bocchi so, right into her ear, in case the change hasn't been noticed.
+Futari drops the end of the leash on the floor and puts both arms around her neck.
 
-Bocchi tries to say she can tell. She has to put her face into Futari's shoulder for a while before she can say anything at all.
+“You were gone,” she says into her ear. ᶠᵘ
+
+Bocchi holds her. Her sister fits against her in a way she had almost stopped trusting herself to remember.
+
+“I know.” ᴮ
+
+“Mum said you'd call. Then you didn't.” ᶠᵘ
+
+“I'm sorry.” ᴮ
+
+Futari pulls back to look at her, with both hands still caught in her shirt.
+
+“You're bigger.” ᶠᵘ
+
+Bocchi had expected to see the change in her sister. She looks at the little face in front of her and understands which of them had time to grow.
+
+“It's been longer for me,” she says. ᴮ
+
+Futari presses back against her before she can explain how long. Bocchi has to put her face into her sister's shoulder for a while before she can say anything at all.
 
 * * *
 
 When she can see properly again, the dog has sat down on her foot. Kita is on the floor with one knee up. She has put the water on the ground where he can have some when he's ready.
 
-Futari asks who she is. Kita says her name and starts to say that she's a friend of Hitori's, and stops long enough to look over at Bocchi.
+“Kita!” Futari says. ᶠᵘ
+
+Kita gets as far as smiling before Futari reaches her. She puts both arms around the little girl, and Bocchi sees the smile disappear into her hair.
+
+“You're here too,” Futari says. “Were you with Hitori?” ᶠᵘ
+
+“I found her here.” ᴷⁱ
+
+Futari looks past her and sees Seika. Her hand tightens in Kita's sleeve.
+
+“Mum couldn't find you either.” ᶠᵘ
+
+Seika comes closer and crouches beside the chair.
+
+“I'm here,” she says. “Nijika and Ryo are outside. They're all right.” ˢᵉ
+
+Futari looks at the doorway as if counting the people she can't see will make them come in. Mau shifts his feet out of the way, but she stays beside Kita. She still has something to ask.
+
+“Are you staying with Hitori?” ᶠᵘ
+
+Kita glances toward Bocchi. Bocchi can see her about to choose the familiar word which would let the morning go on without another explanation.
 
 “She's my girlfriend,” Bocchi says. ᴮ
 
-It comes out in a terrible rush. Futari takes the time to look Kita over.
+It comes out in a terrible rush. Futari looks from her sister to Kita.
 
-“Can she hold him if I show you something?” ˣ
+“Oh.” ᶠᵘ
+
+Kita laughs a little. Bocchi wishes her face would stop getting hotter.
+
+“Can you hold him? I want to show her something,” Futari tells Kita. ᶠᵘ
 
 Kita puts one hand out for the leash. Futari gives her the end. Then she pulls her sleeve up and shows Bocchi a plaster with a cartoon animal on it. She got it last night. Mum had put it on. It isn't sore anymore, but she has left it there because it's the last one with the animal.
 
-Bocchi looks at it for quite a long time. It is the first thing she's seen from home that she couldn't have known to miss.
+Bocchi looks at it for quite a long time. Last night. There have been so many nights for her, and her mother put this on Futari yesterday.
 
-“I want to ask Mum and Dad to come too,” she says. “Will you stay with me while I do it?” ᴮ
+Near the wall, DIO lowers her eyes to the three names Fern wrote down. Mau has turned the cup round in his hands. He sets it beside Bocchi when she reaches for it without looking.
+
+“They're next,” she tells Futari. “I want to ask Mum and Dad to come too. Will you stay with me while I do it?” ᴮ
 
 Futari looks down at the dog. He's stretched himself across both their shoes.
 

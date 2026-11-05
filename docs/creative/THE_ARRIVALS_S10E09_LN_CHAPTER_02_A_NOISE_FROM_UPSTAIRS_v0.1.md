@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 61
 ## Chapter 21 — A Noise From Upstairs
 
-**Status:** LN PRODUCTION DRAFT — S10 v0.1
+**Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 61
 **Reading order:** 21
 **Source episode:** S10E09
-**Continuity state:** B+161 afternoon. Family visits reserved adjacent rooms and chooses to stay the night. Bocchi introduces Kessoku and Mau on her terms. No additional coin activity.
+**Continuity state:** B+161 afternoon. Family visits reserved adjacent rooms and chooses to stay the night. Family already knows Kessoku and Seika; the music room is new, their relationship is not. Bocchi names Mau as her chosen brother after his presence at the arrival. No additional coin activity.
 
 *When: Futari discovers the rooms have two keys, she asks which one she's supposed to lose.*
 
@@ -37,9 +37,13 @@ For the first time that day it sounds exactly like home.
 
 * * *
 
-Nijika is sitting on a step outside the music room. She stands when she sees them coming and then sits down again to give Bocchi more room to make the introductions. Ryo has brought the guitar with the broken peg. The peg turns now. She is waiting to see if anybody will notice.
+Nijika is sitting on a step outside the music room. She stands when she sees them coming. Seika has come with them, still holding the little bag Bocchi's father forgot to take back. Ryo has brought the guitar with the broken peg. The peg turns now. She is waiting to see if anybody will notice.
 
-Bocchi tells her father who she plays with. She goes so slowly that she has time to look at all three of them while she's doing it. Her mother asks if they have somewhere people can listen. Bocchi says yes, but she'd rather have them come in through the little door today, because from there she can see them.
+“There you are,” Bocchi's father says to Nijika, and this time he can smile while he says it. ˣ
+
+Futari goes straight to Ryo to ask about the guitar. Ryo lets her turn the peg once and then moves the instrument out of reach before the experiment becomes expensive.
+
+Bocchi shows her parents where the four of them practise. Her father knows who plays with her; he doesn't know this room, or where Nijika sits, or which corner they keep moving the amp out of. She tells him those things slowly enough to point each one out. Her mother asks if they have somewhere people can listen. Bocchi says yes, but she'd rather have them come in through the little door today, because from there she can see them.
 
 They come in through the little door.
 
@@ -61,7 +65,7 @@ He gets up and holds out the bread.
 
 She takes it. Then she takes hold of his sleeve before he can go.
 
-“I didn't know whether I was going to want to do introductions,” she says. “I want to do this one.” ᴮ
+“I told them your name earlier,” she says. “I didn't tell them the rest.” ᴮ
 
 Her mother comes a little farther out. Mau has enough time to decide what he should say about himself. In that time Bocchi gets there first.
 

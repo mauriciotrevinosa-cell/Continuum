@@ -47,7 +47,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V62#16 | S10E17 CH01 | B+166 afternoon | Bounded Blue exercises; Mai names something she wants someday. |
 | V62#17 | S10E17 CH02 | B+166 afternoon continuous | Momo Nishimiya lands at outer marker and meets Mai alive. |
 | V62#18 | S10E18 CH01 | B+166 late afternoon | Mai vouches for Nishimiya at the shadow post. The soldier follows Mau’s standing instructions; Momo crosses the ward with Mai. Brief encounters with Maki and Gojo. Noise reads broom response. |
-| V62#19 | S10E18 CH02 | B+166 evening | Nishimiya learns of Sukuna's end and asks Mai about her ordinary life. |
+| V62#19 | S10E18 CH02 | B+166 evening | Mai makes a steel heel plate for Maki’s boot using her established agreement with Mau. Nishimiya sees Mai stay steady, learns how Mau supplies the cursed energy and bears the strain, and meets him as Yuka’s husband. She learns of Sukuna’s end and asks Mai about her ordinary life. |
 | V62#20 | S10E19 CH01 | B+167 morning | Nishimiya meets Kamish and Momo Ayase. |
 | V62#21 | S10E19 CH02 | B+167 evening | Mai gives Nishimiya somewhere to come back to. V62 closes. |
 | V63#1 | S10E20 CH01 | B+168 afternoon | Maomao's chocolate returns as group comedy with Jinshi, Rem, Taihei, Maki, Gojo, Shoko and Beru before the Fort scenes. Mau takes one square stronger than intended. |

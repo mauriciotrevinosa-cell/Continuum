@@ -71,6 +71,16 @@ Mai tests the guide by taking one hand off the door, shutting her eyes and reach
 
 “You do the shouting. I already did the door.” ᴹᵃⁱ
 
+“I could put the bucket away,” Mau says. ᴹ
+
+Mai looks up. “And come running every time somebody needs this door open?” ᴹᵃⁱ
+
+He looks at the guide, then at the bucket. He can still use his inventory. Mai and Yuka are making something people can use when he isn't there.
+
+“Fair. I'll do the shouting.” ᴹ
+
+“You can take turns,” Mai says. ᴹᵃⁱ
+
 Mau sits on the empty stool. He asks whether he can come back after lunch to see it hung.
 
 Mai looks up this time. She has a small curl of wood stuck to the front of her sleeve.

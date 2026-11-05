@@ -3036,3 +3036,7 @@ Creator clarified that estimated chapter counts are references only. The council
 ### S10 después de la cantera — V64#20–21, 2026-11-04
 
 Creator confirmed Nazuna tries Mau's blood under the modeled incomplete state, Shoko and Yuta on hand to help Nazuna. Ko, Mau and Nazuna consent separately. Temporary state only, wheel ready but unused, no toxic reaction observed in Nazuna during the test. No general rule or direct feeding verdict inferred. Ko and Nazuna choose their next step.
+
+### S10 después de la cantera — V64#22–26, 2026-11-04
+
+Season Ten ends on B+176 at the common-room table. Gave the household's evening, guest arrival, Ashborn's quiet reunion and the Berus' exchange separate scenes. Jin-Woo arrived physically, outside the ward by a one-time opening, then entered by invitation. No family arrival, new contract, power transfer or S11 proposal. Author's instruction to let the scene set chapter length remains binding.

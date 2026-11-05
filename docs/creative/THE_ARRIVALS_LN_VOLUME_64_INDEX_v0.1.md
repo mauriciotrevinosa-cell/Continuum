@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 64
 **Season:** 10
-**Coverage:** S10E31–S10E41 (in progress)
+**Coverage:** S10E31–S10E44 (S10 complete)
 **Volume title:** **Where the Road Leads**
-**Chapter files:** 21
+**Chapter files:** 26
 
 Mau comes home from Walpurgis carrying two messages. The house has to decide what it will do when someone takes his warning seriously enough to test it.
 
@@ -36,3 +36,8 @@ Mau comes home from Walpurgis carrying two messages. The house has to decide wha
 | 19 | S10E40 | Take Me Out for Nothing | `THE_ARRIVALS_S10E40_LN_CHAPTER_02_TAKE_ME_OUT_FOR_NOTHING_v0.1.md` |
 | 20 | S10E41 | Hold It There | `THE_ARRIVALS_S10E41_LN_CHAPTER_01_HOLD_IT_THERE_v0.1.md` |
 | 21 | S10E41 | One Line in the Book | `THE_ARRIVALS_S10E41_LN_CHAPTER_02_ONE_LINE_IN_THE_BOOK_v0.1.md` |
+| 22 | S10E42 | What Fits on the Table | `THE_ARRIVALS_S10E42_LN_CHAPTER_01_WHAT_FITS_ON_THE_TABLE_v0.1.md` |
+| 23 | S10E42 | Stay for the Last Part | `THE_ARRIVALS_S10E42_LN_CHAPTER_02_STAY_FOR_THE_LAST_PART_v0.1.md` |
+| 24 | S10E43 | Which Side of the Door | `THE_ARRIVALS_S10E43_LN_CHAPTER_01_WHICH_SIDE_OF_THE_DOOR_v0.1.md` |
+| 25 | S10E43 | It Still Opens | `THE_ARRIVALS_S10E43_LN_CHAPTER_02_IT_STILL_OPENS_v0.1.md` |
+| 26 | S10E44 | A Third Way to End It | `THE_ARRIVALS_S10E44_LN_CHAPTER_01_A_THIRD_WAY_TO_END_IT_v0.1.md` |

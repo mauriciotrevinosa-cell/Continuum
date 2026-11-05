@@ -23,3 +23,10 @@
 V63 #16–23 ya da un momento propio a las decisiones del overwrite. V64 #23–26 deja espacio para la casa, la llegada, Ashborn y la comedia final. No añadiría una pelea ni cortaría una de esas escenas para ajustar una cifra. El recado cerrado de Ori, la disculpa de Edran y lo que Jin-Woo quiere proponer siguen abiertos por decisión narrativa.
 
 Para la siguiente mirada, entregar a Claude el [encargo de solo lectura](S10_CLAUDE_READ_ONLY_REVIEW_BRIEF_2026-11-04.md). Work revisará el informe antes de decidir si alguno de los hallazgos merece una edición.
+
+
+## Revisión ampliada del adiós — 5 de noviembre de 2026
+
+La cifra de 91 y las posiciones V63 #16–23 del pase del 4 de noviembre son históricas. El tramo revisado ocupa #16–25, con dos capítulos nuevos y 93 capítulos en S10. La revisión coteja el punto de partida V34 #41, las negativas de Ciel y Rimuru, la presencia previa de Mai, el dragón de manos de V34 #33, los votos de V55 #14 y Frieren con Ori en V55 #15. Las escenas añadidas desarrollan las consecuencias de la elección, el testimonio escogido de Mau y las despedidas. V64 #1–4 conserva el recado, el papel cerrado, la respuesta de la esposa y el descanso posterior.
+
+Los archivos de episodios conservan sus nombres y enlaces; el índice y el registro usan la nueva posición de lectura. La verificación de publicación coteja fuente, índice y capítulos servidos por el lector después del checkpoint.

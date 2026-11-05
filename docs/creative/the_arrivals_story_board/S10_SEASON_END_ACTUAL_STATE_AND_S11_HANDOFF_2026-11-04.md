@@ -21,3 +21,8 @@
 El estimado de capítulos es una referencia. En el tramo final, la prueba y la decisión de Ko y Nazuna quedaron separadas. La cena empieza y tiene su propio momento antes de que toquen. Jin-Woo tiene tiempo para llegar, ser reconocido y ver a Ashborn antes de la comedia con Beru. El cierre cae donde los dos reyes se quedan a la mesa.
 
 La [propuesta de Jin-Woo y la deidad falsa](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md) sigue para planear S11 con Mauri. [Acuerdo de escritura y auditoría](S10_WORK_START_HANDOFF_2026-11-04.md).
+
+
+## Ampliación del adiós, 5 de noviembre de 2026
+
+V63 tiene ahora 25 capítulos y S10 93. Releer desde V63 #16; la ampliación llega al #25 y enlaza con V64 #1–4 sin cambiar el final de temporada. La casa original ve imágenes escogidas de la vida posterior y la boda antes de despedirse. El vínculo original de Ori como hija, las negativas de Ciel y Rimuru y el amor real de Frieren reciben sus propias escenas; no se trasladan obligaciones a sus versiones actuales. El paso de vuelta no exige un segundo overwrite. Son el adiós definitivo a la historia real vivida en las primeras seis temporadas, con alivio al volver. Se conservan la elección de Yuka, el archivo cerrado y el buen sueño. Consultar el registro de producción para las nuevas posiciones.

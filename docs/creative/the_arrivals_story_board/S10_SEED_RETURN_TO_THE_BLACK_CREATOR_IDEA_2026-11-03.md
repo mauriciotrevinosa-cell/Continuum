@@ -77,3 +77,22 @@ Mensaje del creador:
 ## Nota, 2026-11-04
 
 En V60 #17 DIO ya le explica a Mau que la línea original es el pasado de ésta. El arco ya no se lo revela: se lo hace vivir.
+
+
+## Dirección adicional íntegra del creador, 2026-11-05 — prevalece
+
+> oye para lo de cuando hace el fall y todo me gusta la idea de ser demasiado emotivo osea que cuando llegue no diga de que ah chido sino wtf se desespere y la gente no entienda qp y se ponga a buscar a la criatura y una ves que no funciona ya cuenta bien que show y ahi ya comenzamos que la casa primero se enoje y luego como que todos le piden que cuente y mau les muestra y aunque haya sido que rvelee cosas le esta dando un final a ellos les esta dando memorias para que vean que ah vivido y asi y eso es lo bonito y las despedidas tienen que ser perfectas
+
+> pq es el adios definitvo de las primeras 6 seasons
+
+### Aplicación en el manuscrito
+
+V63 #16–25 sustituye el tramo anterior #16–23. Dos capítulos nuevos dan espacio propio a la casa que escucha y ve la vida posterior. Se conserva el episodio de cada archivo y sus enlaces; cambian las posiciones de lectura desde el antiguo #18.
+
+- Mau llega desesperado, ve la mano sin anillo, reconoce el color y busca al atacante y una salida por el cuarto, el camino y sus sombras. Nadie sabe aún de la vida que trae. La búsqueda fracasa antes del relato.
+- Yuka, Maki, Rimuru y la casa pueden enojarse por la decisión sin consentimiento. La felicidad posterior no absuelve automáticamente lo que él eligió. Piden escuchar y ver, con preguntas y reacciones propias.
+- La muestra utiliza el trabajo de visión que Mau trae del presente. Ciel de esta noche ayuda a recordar y Rimuru transmite únicamente las imágenes y sonidos elegidos a quienes quieren ver. Es una experiencia compartida y temporal; no se implantan recuerdos, no se sobrescribe a nadie, no hay acceso libre al archivo ni se entrega el refinamiento de combate. Las confidencias de Yuka siguen en privado.
+- Ven vida cotidiana, Mai creando, el gris y Yuka en color, Ori con el compás y partes públicas de la boda. Rimuru ve que Shizue llegó por elección. La despedida conserva ternura, enojo, humor y dolor; no exige que todos estén de acuerdo ni alegres.
+- Yuka mantiene el recado y el dragón de manos, sin reiniciar el romance. Ciel mantiene su no original y puede ayudarlo a volver sin aceptar la operación. Rimuru le dice que habría permanecido junto a él en la mañana difícil. Ori puede abrazarlo y decirle Dad aquí, sin imponerle ese vínculo a la Ori actual. Su papel sigue doblado.
+- Frieren ve su felicidad propia con Ori, asume lo que hizo aquí y oye la disculpa de Mau. Su amor fue real; Mau sigue escogiendo su matrimonio con Yuka. Pueden conservar la belleza de aquella vida y despedirse de ella.
+- El regreso sigue siendo una abertura única del encuentro. No es otro Trial, otro trato de overwrite ni una ruta repetible entre mundos. Se conserva el origen real de la línea, el gris al regresar, la investigación abierta del atacante y la paz posterior. El archivo de Sukuna sigue cerrado por elección; no vuelve la hora fija de alerta. El sueño feliz con Yuka flotando en V64 #4 se conserva.

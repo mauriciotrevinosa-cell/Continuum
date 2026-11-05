@@ -1,64 +1,186 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 19 — An Answer for Today
+## Chapter 21 — An Answer for Today
 
-**Status:** LN PRODUCTION DRAFT — S10 v0.1
+**Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 19
+**Reading order:** 21
 **Source episode:** S10E29
-**Continuity state:** Day475 late night. Old Rimuru freely lets Mau return. Ori arrives with knowledge of something she did that Mau never heard about.
+**Continuity state:** Day475 old night. Ciel maintains her original refusal and chooses to help Mau return. Rimuru shares anger, grief and hope after viewing Shizue and the household. No new visit or promise to revisit the past. Ori arrives after Frieren explains enough for her to choose.
 
-*When: Rimuru comes back with Maki, Yuka gets up before either of them can ask if she wants to stay in bed.*
+*When: Mau reaches the landing, he has to stop because Ciel says his name.*
 
-“I need to talk to you for a while,” Yuka says. ʸ
+He puts a hand on the wall.
 
-Maki looks at the stool, then at Yuka's face. She moves the stool out of the way with her foot and sits on the edge of the mattress. Yuka sits beside her. Mau puts the glass where she can find it without looking.
+*I'm here,* he says. ᴹ
 
-Rimuru holds the door open for him. Out in the passage he closes it until there's only enough of a gap for the light to come through.
+*I know. I'm trying to get you to listen to me.* ᶜ
 
-“Ciel spoke to me,” he says. ᴿⁱ
+He looks at the floorboards until the little lines in them stop swimming.
 
-Mau leans against the wall. He would have liked to hear what she said, but he remembers having used what she told Rimuru as a reason to ask her not to remember it. This time he waits for Rimuru to decide what to pass on.
+*When I came back, you were there,* he tells her. *I took a while to let you hear what you said to me here.* ᴹ
 
-“She told me you have a life to go back to,” Rimuru says. “Tell me about mine.” ᴿⁱ
+*Did I ask?* ᶜ
 
-Mau looks at him. He had spent a long time remembering Rimuru with his hand closed beside that stool. It hadn't occurred to him that there might be something Rimuru wanted to know that had nothing to do with the night at all.
+*Yes. More than once.* ᴹ
 
-He tells him about the town, the east window and the guest room Yuka said they had without consulting him. He tells him about Tempest. He tells him how he gets up and finds Rimuru almost every day without either of them deciding they need a reason to meet.
+*And what did you tell me?* ᶜ
 
-“And do I still have any money of my own?” Rimuru asks. ᴿⁱ
+*That I didn't want you to have to know what the other you knew.* ᴹ
 
-“Sometimes I watch you give it all to Umaru.” ᴹ
+She is quiet. He keeps his hand on the wall.
 
-Rimuru laughs. He covers his mouth with his hand because of the people on the other side of the door. Mau can feel the wall against the back of his head when he laughs too.
+*I'm sorry,* he says. *I kept making the same decision look like something I was doing for you.* ᴹ
 
-“Don't tell me anything about Shizue I wouldn't be able to ask her myself,” Rimuru says, when he can talk quietly again. ᴿⁱ
+He'd thought of this conversation before. There had always been a thing he could say at the end that would let him stop hearing her refuse. Now he cannot find it, and she is still here.
 
-Mau nods. He hadn't mentioned her. Rimuru had heard something from Ciel and had been deciding how to ask for that much.
+*I don't agree to being changed,* Ciel says. *I meant it when I said it downstairs.* ᶜ
 
-They stand without talking until the boards at the other end of the passage creak.
+*I heard you.* ᴹ
 
-“I wanted you to stay with me while it was difficult,” Rimuru says. “If I could go back to the start of tonight, I'd still ask you that.” ᴿⁱ
+*Then keep hearing it. You can tell me what happened afterward without making me agree to before.* ᶜ
 
-“I wish I'd let you help.” ᴹ
+He nods before he remembers she doesn't need him to.
 
-“I can help you now. If there's a way back, take it. I'll stay with them for as long as there's a night to get through here.” ᴿⁱ
+* * *
 
-Mau looks at his friend. In the morning at the hall he had asked him what he wanted to do before walking out. For a moment it is painful to remember how easy it had been to ask.
+He tells her about the first part she chose to see and the part she stopped. About how long it took him to offer it again in a way which left the choice with her.
 
-“Will you tell him something for me?” Rimuru says. “Next time you walk out of a meeting early, don't tell him you'll wait unless you've looked to see if the bench is comfortable.” ᴿⁱ
+*Did I stay?* she asks. ᶜ
 
-Mau smiles. Rimuru had heard about the road too. He lets the back of his head come away from the wall.
+*You stayed.* ᴹ
 
-At the end of the passage Ori comes around the corner with a folded piece of paper in her hand. She stops when she sees him standing up.
+*Were we still connected when you fell?* ᶜ
 
-“Does that mean you can come see it?” she asks. ᴼ
+He has to turn his face toward the wall to answer.
 
-“See what?” ᴹ
+*Yes. I heard the beginning of what you were saying.* ᴹ
 
-She looks down at the paper and then back up at him.
+*Then you know where to listen for me when you get back.* ᶜ
 
-“I asked about the dragon while you were out. I wrote down what he said so you'd know I'd asked him myself.” ᴼ
+He tries to remember the sound at the wall. The way Ciel's voice had come through for a moment before the road went out of reach. He'd spent the beginning of tonight trying to turn the wrong voice into proof that the person he wanted was gone.
 
-Mau opens his mouth. It takes him a moment to remember that she has no reason to know why it takes him so long to answer.
+*You didn't leave me,* he says. ᴹ
 
-“Can you show me?” ᴹ
+*I was here when you stood up,* Ciel says. *I'm here now.* ᶜ
+
+He lets her be here.
+
+* * *
+
+Rimuru finds him still beside the wall.
+
+“Is she talking?” he asks. ᴿⁱ
+
+“Yes.” ᴹ
+
+“Then I'll wait.” ᴿⁱ
+
+Mau lets him. For once he can accept what the words mean without making them a task he has to finish for somebody.
+
+He shows Ciel one brief thing from the other life. No pain. A small ordinary moment in which he'd called her name and she'd answered with the familiar irritation of somebody who had already told him where he'd put what he was looking for.
+
+Ciel hears herself.
+
+*That was me?* ᶜ
+
+*Yes.* ᴹ
+
+There is a long space.
+
+*I'm glad I was able to ask again,* she says. *I want you to go back to a place where I can keep asking you things.* ᶜ
+
+*Are you sure?* ᴹ
+
+*I was sure before as well, Mau.* ᶜ
+
+He puts his head against the wall and cries as quietly as he can. Rimuru has turned toward the stairs. He stays there until Mau can move his hand away from his face.
+
+* * *
+
+“Ciel told me you're ready to talk,” Rimuru says. ᴿⁱ
+
+Mau gives him a nod.
+
+“I wanted you to stay with us while it was difficult,” Rimuru says. “I meant that too.” ᴿⁱ
+
+“I know.” ᴹ
+
+“You keep saying you know. I need you to know I would've still been here in the morning if you hadn't done it. You could've asked me to help with the worst part. I wouldn't have made you say you were fine before I came.” ᴿⁱ
+
+Mau looks at him. He has carried the sight of Rimuru beside the stool for so long that it has become part of every room where somebody asks him to take another minute.
+
+“I wish I'd let you,” he says. ᴹ
+
+Rimuru holds his gaze. Then he takes the place beside him at the wall.
+
+They have stood like this before, listening to people in the rooms along the passage. This time they have both heard how much farther the house goes on.
+
+“Does Shizue like it there?” Rimuru asks. ᴿⁱ
+
+Mau looks up.
+
+“Don't give me something she only told you,” Rimuru says. “I just want to know if she likes it.” ᴿⁱ
+
+“She has a place she can stay. She comes to dinner. She tells the children things they listen to for longer than we ever managed.” ᴹ
+
+Rimuru looks down the stairs. His face changes at the thought of the children. It changes again when he realizes he has been given an answer about an ordinary day.
+
+“Did I make her come?” he asks. ᴿⁱ
+
+“You asked. She came because she wanted to.” ᴹ
+
+Rimuru takes a breath, lets it out and does it again.
+
+“And me?” he asks. ᴿⁱ
+
+“You live with us.” ᴹ
+
+“Of course I do. Am I happy about it?” ᴿⁱ
+
+Mau laughs before he can stop himself. Rimuru's mouth starts to move with his.
+
+“Yuka has already decided how much room you're allowed,” Mau says. “You complain and then you come over anyway.” ᴹ
+
+“That sounds expensive.” ᴿⁱ
+
+“It is. Sometimes I watch you give all your money to Umaru.” ᴹ
+
+Rimuru puts his hand over his mouth. The laugh has got into his chest before he can keep it out of the rooms beside them. Mau can feel it through the wall where their shoulders almost touch.
+
+They laugh until Rimuru has to put a hand on his knee.
+
+* * *
+
+When they can talk again, Rimuru asks how he is going to get home.
+
+“I don't know yet,” Mau says. ᴹ
+
+“Then we'll keep looking. And if you find it, you can go.” ᴿⁱ
+
+Mau turns his face toward him.
+
+“I can't promise to come back here.” ᴹ
+
+Rimuru's smile is gone. He had known that much already. Hearing Mau say it gives him a moment to feel it anyway.
+
+“You've got people waiting where you came from,” he says. “I saw them. I saw you with them.” ᴿⁱ
+
+“I don't want to make you say it's all right.” ᴹ
+
+“You don't get to make me say anything,” Rimuru says. “Listen when I tell you.” ᴿⁱ
+
+He puts his hand against the back of Mau's neck and holds him there for a moment. Mau bows his head.
+
+“If there's a way back, take it. I'll stay with them for as long as there's a night to get through here.” ᴿⁱ
+
+Mau has to take a breath against his shoulder before he can say thank you.
+
+Rimuru lets him go slowly. He looks down at his own sleeve, at the place Mau's face has made it wet, and makes a small attempt to smooth it flat.
+
+“One thing,” he says. “Tell him to look at the bench before he agrees to sit on it all afternoon next time.” ᴿⁱ
+
+Mau laughs. The sound nearly breaks again. Rimuru squeezes his shoulder once, then turns toward the soft step coming from the far end of the passage.
+
+Ori is standing there with a folded piece of paper.
+
+“I asked about the dragon while you were out,” she says. “Mum said I could tell you myself.” ᴼ

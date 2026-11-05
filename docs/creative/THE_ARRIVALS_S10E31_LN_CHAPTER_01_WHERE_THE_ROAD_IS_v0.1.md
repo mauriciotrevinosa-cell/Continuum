@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 23 — Where the Road Is
+## Chapter 25 — Where the Road Is
 
-**Status:** LN PRODUCTION DRAFT — S10 v0.1
+**Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 23
+**Reading order:** 25
 **Source episode:** S10E31
 **Continuity state:** B+171 late morning. Mau returns physically at the roadside and calls Kaisel to fetch Yuka after his return. Gray except Yuka. Shoko check arranged; no new combat or departure from Walpurgis by compulsion.
 
@@ -20,6 +20,16 @@ He puts one palm on the bottom of the ditch.
 “Yes.” ᴹ
 
 Ciel is quiet for the length of one full breath. Then she asks if he can move his toes. He does it on both sides. It takes no time at all to do and longer to tell her that he has done it.
+
+*Thank you,* he says. ᴹ
+
+*For what?* ᶜ
+
+He can still hear the other voice on the landing. He puts a hand against his chest, where he had rested it when she spoke.
+
+*Being here when I got back.* ᴹ
+
+*I'm here,* Ciel says. *Tell me if that changes.* ᶜ
 
 There are footsteps on the road. Mau doesn't stand. He puts his hand on his pocket. Something inside it makes the sound of folded paper.
 
@@ -38,6 +48,12 @@ Mau gets his feet under himself and lets Rimuru give him an arm to reach the ban
 Rimuru sits with him until they hear the wings coming back. Mau looks up when he sees her. Her sleeve catches the light on the wall where the road turns. He looks at her sleeve, then at her hand, and then at the grass beside his knee, which has gone back to being exactly as gray as it had been on the walk out that morning.
 
 Yuka comes down into the ditch with him. She has to put a hand against the slope when her foot slips. Then she sits down so he doesn't have to get any farther off the ground to see her.
+
+He sees the ring when she reaches for him.
+
+He had spent the first moments in the other room turning a bare hand over, trying to find this one. Now she is here, gray grass caught against her sleeve, her face in color above him.
+
+He makes a sound before she can ask the question. She stops reaching for his shoulder and gives him her hand instead.
 
 “What hurts?” she says. ʸ
 
@@ -60,3 +76,11 @@ He looks down and finds the root. He laughs a little. It hurts the side he fell 
 She puts her free hand against the side of his neck.
 
 “Then we'll get you home.” ʸ
+
+“I wanted to come home,” he says. ᴹ
+
+He gets the whole sentence out. It had seemed so difficult to say when he was on the other side of it.
+
+Yuka leans close enough to put her forehead against his.
+
+“I know,” she says. “I've got you.” ʸ

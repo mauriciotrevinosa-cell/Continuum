@@ -65,14 +65,16 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V63#13 | S10E26 CH01 | B+171 morning | Walpurgis separates a report about false road enforcers from a proposal to put the house under Mau's personal authority. |
 | V63#14 | S10E26 CH02 | B+171 late morning | Mau refuses to speak for the house and warns the council against harming his family. He leaves willingly. Rimuru stays to finish. |
 | V63#15 | S10E27 CH01 | B+171 late morning | Falling Devil intercepts Mau on the way to the bench. Gravity turns and he falls at the overwrite seam. |
-| V63#16 | S10E27 CH02 | Day475 late night (prior life) | Mau wakes at the overwrite in color and asks Rimuru to stay while he wakes Yuka. |
-| V63#17 | S10E28 CH01 | Day475 late night (prior life) | Mau tells Yuka what he agreed to. She tells him how she had planned to go to breakfast and asks about his marriage. |
-| V63#18 | S10E28 CH02 | Day475 late night (prior life) | Yuka gives Mau a message and asks him to show his wife the hand dragon. Ciel gives her own answer. |
-| V63#19 | S10E29 CH01 | Day475 late night (prior life) | Mau tells Rimuru about home. Rimuru lets him go on his own terms. Ori arrives with a folded paper. |
-| V63#20 | S10E29 CH02 | Day475 late night (prior life) | Ori shows the flight she planned and writes something private to her later self. Mau takes the folded paper. |
-| V63#21 | S10E30 CH01 | Day475 late night (prior life) | Frieren hears how she and Ori live in the present and owns the attack on Yuka. She asks if the love was false. |
-| V63#22 | S10E30 CH02 | Day475 late night (prior life) | Mau answers Frieren honestly and apologizes for his own decision. Frieren helps him take the step home. |
-| V63#23 | S10E31 CH01 | B+171 late morning | Mau returns to the roadside. He calls Kaisel after returning to bring Yuka. Gray except Yuka. |
+| V63#16 | S10E27 CH02 | Day475 late night (prior life) | Mau wakes in color at the old night, panics and searches the room, road and shadows for the attacker and his present home. He admits he needs to return to his wife. |
+| V63#17 | S10E28 CH01 | Day475 late night (prior life) | Yuka, Maki and the waking house learn the bargain was accepted while Yuka slept. They voice anger and ask him to tell the life afterward. |
+| V63#18 | S10E28 CH03 | Day475 late night (prior life) | Mau uses his present viewing work, assisted by old Ciel and Rimuru, to show willing listeners selected ordinary memories. They see the gray, Yuka in color, Mai working and Ori with the compass. |
+| V63#19 | S10E28 CH04 | Day475 late night (prior life) | The house watches selected public wedding memories and sees Shizue. They grieve, ask questions and choose to hear Mau before helping him return. No memory rewrite or combat archive transfer. |
+| V63#20 | S10E28 CH02 | Day475 late night (prior life) | Old Yuka keeps her anger and gives her later self the breakfast message and happy hand-dragon memory. No revived romance. Rimuru fetches Maki to stay with her. |
+| V63#21 | S10E29 CH01 | Day475 late night (prior life) | Old Ciel preserves her refusal and freely helps him return. Rimuru says he would have stayed through the difficult morning, sees the life ahead and says goodbye. |
+| V63#22 | S10E29 CH02 | Day475 late night (prior life) | Old Ori sees the earlier B+169 flight, asks how she knows Mau later, says goodbye as his daughter here and gives a folded private message to her later self. |
+| V63#23 | S10E30 CH01 | Day475 late night (prior life) | Frieren sees her later self happy with Ori at the wedding meal, owns the attempt to hurt Yuka here and asks whether their love was real. |
+| V63#24 | S10E30 CH02 | Day475 late night (prior life) | Mau apologizes, affirms their real shared love and his chosen marriage, and says goodbye. Ori and the household see him off. Frieren helps him step onto the brief return seam. |
+| V63#25 | S10E31 CH01 | B+171 late morning | Mau lands at the roadside, hears present Ciel and calls Kaisel to fetch Yuka only after returning. His wife meets him, gray except Yuka, and he tells her he wanted to come home. |
 | V64#1 | S10E31 CH02 | B+171 midday | Shoko checks the fall. Ciel, Rimuru and Mau reconstruct the roadside facts. Mau starts telling Yuka. |
 | V64#2 | S10E32 CH01 | B+171 afternoon | Yuka hears the old message, answers in her own words and chooses to make the hand dragon with Mau. She goes back to testing the second door with Mai. |
 | V64#3 | S10E32 CH02 | B+171 later afternoon | Ori chooses a short Kaisel ride with Mau and shows him the windows from above. |
@@ -101,6 +103,8 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V64#26 | S10E44 CH01 | B+176 night | Each Beru stays with his king. They trade notes, agree on two ideas, then find a third. S10 closes at the table. |
 
 ## Current state
+
+2026-11-05 farewell expansion: V63 now has 25 chapters; S10 has 93. The old timeline farewell spans V63#16–25. Existing document filenames and reader links stay stable. The added collective viewing is limited to Mau's chosen recollections, with old Ciel and Rimuru assisting willing listeners; it does not rewrite their memories or grant general archive access. The attacker search fails before he starts to explain. This is the definitive farewell to the real lived history of the first six seasons.
 
 S10 complete, V64#26 B+176 night. Mau's inventory remains available throughout. In V61#5 he stores the four remaining pears before the flight home; ordinary bags, plates and the latch test impose no new inventory restriction. The house has its own evening after the Vey and Ko scenes. Mau and Yuka cook together, Bocchi chooses to play with her family and the band in attendance, no imposed performance. Ori follows up the Fort map. Mai/Momo Nishimiya share proximity and small tasks, romance unassigned. Rem and Umaru sit together by choice, no imposed label.
 

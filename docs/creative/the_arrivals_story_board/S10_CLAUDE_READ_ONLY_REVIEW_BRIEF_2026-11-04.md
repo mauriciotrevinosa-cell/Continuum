@@ -22,3 +22,8 @@
 4. **Qué dejarías tal como está.** Identifica los momentos cuya lógica, ritmo o resolución ya funcionan y los hilos que están abiertos a propósito.
 
 El resultado pedido es el informe. Si un hallazgo requiere una decisión de trama, déjalo como pregunta para Mauri.
+
+
+## Actualización de alcance, 5 de noviembre
+
+El manuscrito recibió una ampliación autorizada del adiós definitivo a las primeras seis temporadas. V63 #16–25 reemplaza #16–23; V63 tiene 25 capítulos y S10 93. Los enlaces existentes se conservan. El registro de producción y la dirección íntegra del creador en la semilla del regreso recogen la nueva muestra de recuerdos elegidos, los límites y el paso de vuelta. Las cifras anteriores corresponden al pase histórico del día 4. Esta actualización no amplía tus permisos: cualquier hallazgo sigue siendo un informe de solo lectura, con la voz y las relaciones en manos de Work y Mauri.

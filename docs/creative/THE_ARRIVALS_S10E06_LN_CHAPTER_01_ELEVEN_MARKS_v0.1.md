@@ -11,11 +11,11 @@
 
 “Eleven.” ˣ
 
-The guard asks what they're for. The boy looks back at his uncle. His uncle looks down at the bag he has been carrying since the last place they stopped for water.
+Jinshi, who has come to the marker to see what the visitors need, asks what they're for. The boy looks back at his uncle. His uncle looks down at the bag he has been carrying since the last place they stopped for water.
 
 “He saw eleven steps,” the uncle says. “He put one on for each.” ˣ
 
-The boy lifts a finger and rests it on the last mark. He doesn't say that they have to be counted from the other end. The guard sees him do it and turns the board in his hands.
+The boy lifts a finger and rests it on the last mark. He doesn't say that they have to be counted from the other end. Jinshi sees him do it and turns the board in his hands.
 
 * * *
 

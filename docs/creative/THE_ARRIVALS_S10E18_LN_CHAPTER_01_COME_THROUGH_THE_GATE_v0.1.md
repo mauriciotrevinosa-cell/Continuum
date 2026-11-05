@@ -13,9 +13,11 @@
 
 “Yes.” ᴹᵃⁱ
 
-Mai waits while Momo picks up her broom. Then she asks the guard who has the guest book. The guard has it under her arm. She opens it in the middle, where it will stay open by itself, and asks Momo whether she'd like to spell her name. Momo takes her hand off the button long enough to do it.
+Mai waits while Momo picks up her broom. At the wicket, the shadow points to the guest book on the shelf. Mai lays it open on the ledge and offers Momo the pencil. Momo takes her hand off the button long enough to write her name.
 
-“I know her,” Mai says when the guard looks up. “I'll bring her back here if she wants to leave.” ᴹᵃⁱ
+“I know her,” Mai tells the soldier. “She's my guest. I'll bring her back here if she wants to leave.” ᴹᵃⁱ
+
+The soldier inclines its head and steps aside. Mau had taught the watch to wait for someone from the house to vouch for a visitor.
 
 Momo looks at the opening in the fence. It's not much of an opening. Somebody carrying a table would have to take the table over the top.
 
@@ -25,7 +27,7 @@ Mai looks down at the way she's holding the broom. There are three fingers on it
 
 “You can walk with me,” she says. ᴹᵃⁱ
 
-They go through together.
+They pass through the gate and cross the ward together.
 
 * * *
 

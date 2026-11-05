@@ -46,7 +46,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V62#15 | S10E16 CH02 | B+166 morning | Mai asks Maki for the full account and chooses their present life. |
 | V62#16 | S10E17 CH01 | B+166 afternoon | Bounded Blue exercises; Mai names something she wants someday. |
 | V62#17 | S10E17 CH02 | B+166 afternoon continuous | Momo Nishimiya lands at outer marker and meets Mai alive. |
-| V62#18 | S10E18 CH01 | B+166 late afternoon | Nishimiya admitted as guest. Brief encounters with Maki and Gojo. Noise reads broom response. |
+| V62#18 | S10E18 CH01 | B+166 late afternoon | Mai vouches for Nishimiya at the shadow post. The soldier follows Mau’s standing instructions; Momo crosses the ward with Mai. Brief encounters with Maki and Gojo. Noise reads broom response. |
 | V62#19 | S10E18 CH02 | B+166 evening | Nishimiya learns of Sukuna's end and asks Mai about her ordinary life. |
 | V62#20 | S10E19 CH01 | B+167 morning | Nishimiya meets Kamish and Momo Ayase. |
 | V62#21 | S10E19 CH02 | B+167 evening | Mai gives Nishimiya somewhere to come back to. V62 closes. |

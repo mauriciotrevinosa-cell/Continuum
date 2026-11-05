@@ -7,9 +7,9 @@
 **Source episode:** S10E15
 **Continuity state:** B+165 late afternoon. Uraume asks a single question at the marker, receives Mau's firsthand account of Sukuna's last words, and departs. No alliance, threat or oath.
 
-*When: the guard tells Mau that Uraume has asked for him, he takes his tea with him because he has forgotten he's holding it.*
+*When: word comes from the marker that Uraume has asked for Mau, he takes his tea with him because he has forgotten he's holding it.*
 
-They wait outside the marker, in the last of the sun. There are two benches and Uraume has chosen neither. The guard asks whether Mau wants her close enough to hear. He asks her to stay where she can see them.
+They wait outside the marker, in the last of the sun. There are two benches and Uraume has chosen neither. A soldier from the shadow watch turns toward Mau. He asks it to keep its place by the marker, where it can see them.
 
 Uraume looks at the cup in his hand. Mau looks at it too. He sets it on the bench.
 
@@ -41,7 +41,7 @@ They bow. It is shallow and very exact. Then they turn down the road and go.
 
 * * *
 
-The guard asks if Mau wants his tea reheated.
+The soldier comes as far as the bench and holds out a hand for the cup.
 
 He takes it up and has a swallow first. It is cooler than it was, but not by much. That surprises him. He could have sworn he stood there for a long time.
 

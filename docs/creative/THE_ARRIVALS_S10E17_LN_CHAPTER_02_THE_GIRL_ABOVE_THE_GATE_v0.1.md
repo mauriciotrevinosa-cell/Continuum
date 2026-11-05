@@ -25,7 +25,7 @@ The broom drops the last foot to the road.
 
 * * *
 
-Momo gets off it and puts both hands back on it, in that order. The guard has already gone to the marker. Mai asks her if she can go out and speak to the girl. The guard tells her to use the wicket. Mau picks up the cups so nobody will step on them and comes as far as the gate.
+Momo gets off it and puts both hands back on it, in that order. One of Mau’s shadows has already gone to the marker. Mai tells it she knows the girl and wants to go out to her. The soldier points Mai toward the wicket, then holds its post while she goes through. Mau picks up the cups so nobody will step on them and comes as far as the gate.
 
 Momo has put one foot forward. She has forgotten the other one.
 

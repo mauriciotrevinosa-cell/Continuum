@@ -514,3 +514,9 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 - V61 #17–21 conserva DH-072: la familia llega del mismo día que salió Seika, tres o cuatro días después de la desaparición de Bocchi en origen. El tiempo que las chicas pasaron en Continuum no se suma a esa búsqueda. El objetivo habitual de quince días no reemplaza esta excepción previa.
 - Futari y los padres ya conocen a Kita y a Kessoku. La relación de novias es nueva para ellos. También reconocen a Seika. En S10 no escribir presentaciones como si fueran extrañas ni trasladar el tiempo de V22 a la edad actual.
 - DIO, Mau y Seika participan en la convocatoria por invitación de Bocchi, dentro del perímetro protegido. La entrada posterior de Mau como «mi hermano aquí» explica el vínculo, no es la primera vez que los padres lo ven.
+
+## S10 — Vigilancia y visitas al Inn
+
+- Mau ofreció la vigilancia de la casa y sus accesos. El turno establecido es Muster y cuarenta soldados ordinarios. V47 y el cierre de S8 conservan esa cobertura cuando crece el pueblo. El capítulo **The Reply** (S8E23 CH02) ya muestra los puestos, las señales ensayadas con Anko y Rimuru, y la instrucción de distinguir un aviso de una admisión.
+- En la llegada de Momo Nishimiya (V62 #17–18), el soldado es una sombra ordinaria. Señala el postigo y el libro, y espera el aval de Mai. Una sombra puede seguir instrucciones, usar señales o comunicarse mediante un contrato ya establecido para ese caso. Reservar diálogo para voces confirmadas. Muster tiene nombre y su voz sigue sin confirmar.
+- La vigilancia y el registro de visitas conviven con la barrera protectora y sus límites existentes. Jinshi puede recibir a alguien en el marcador como parte de sus tareas de la casa. Una posible ayuda voluntaria de Tempest queda abierta para cuando la historia la establezca.

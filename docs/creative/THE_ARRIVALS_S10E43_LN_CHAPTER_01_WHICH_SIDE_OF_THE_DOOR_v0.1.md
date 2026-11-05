@@ -39,11 +39,13 @@ Mau looks again at the man's face.
 
 * * *
 
-They step into the light under the roof together. Jin-Woo waits there while Rimuru calls Yuta, who wants to hear the voice before he can put it with anything he remembers. Yuta comes out carrying the dish he'd been about to take to the kitchen. He listens to Jin-Woo say his name once.
+They step into the light under the roof together. Yuta comes out carrying the dish he'd been about to take to the kitchen. He looks at the stranger, then at Mau.
 
-“That was you,” he says. “A long time ago.” ʸᵗ
+“Have you two met?” he asks. ʸᵗ
 
-Jin-Woo looks from Yuta to Mau. He had come prepared to explain quite a lot before somebody at the door would recognise him. He takes his hands out of his coat pockets.
+“Once. In the other life,” Mau says. ᴹ
+
+Yuta takes a moment to put that answer where it belongs. Then he introduces himself. Jin-Woo gives his name again, this time for somebody who had never heard him say it. He looks back at Mau. He had come prepared to explain quite a lot before somebody at the door would recognise him. He takes his hands out of his coat pockets.
 
 “I brought someone,” he says. ᴶʷ
 

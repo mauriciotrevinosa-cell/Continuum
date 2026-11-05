@@ -72,11 +72,11 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V63#20 | S10E29 CH02 | Day475 late night (prior life) | Ori shows the flight she planned and writes something private to her later self. Mau takes the folded paper. |
 | V63#21 | S10E30 CH01 | Day475 late night (prior life) | Frieren hears how she and Ori live in the present and owns the attack on Yuka. She asks if the love was false. |
 | V63#22 | S10E30 CH02 | Day475 late night (prior life) | Mau answers Frieren honestly and apologizes for his own decision. Frieren helps him take the step home. |
-| V63#23 | S10E31 CH01 | B+171 late morning | Mau returns to the roadside and sees gray except Yuka. She and Rimuru get him ready to come home. |
+| V63#23 | S10E31 CH01 | B+171 late morning | Mau returns to the roadside. He calls Kaisel after returning to bring Yuka. Gray except Yuka. |
 | V64#1 | S10E31 CH02 | B+171 midday | Shoko checks the fall. Ciel, Rimuru and Mau reconstruct the roadside facts. Mau starts telling Yuka. |
 | V64#2 | S10E32 CH01 | B+171 afternoon | Yuka hears the old message, answers in her own words and chooses to make the hand dragon with Mau. She goes back to testing the second door with Mai. |
 | V64#3 | S10E32 CH02 | B+171 later afternoon | Ori chooses a short Kaisel ride with Mau and shows him the windows from above. |
-| V64#4 | S10E33 CH01 | B+171 evening | Frieren affirms Ori's choice. Ori wants to receive the note later, so it stays folded. |
+| V64#4 | S10E33 CH01 | B+171 evening | Mau chooses to leave the archive closed. Ori keeps her recado for later. That night Mau sleeps well; he lifts with Yuka in his arms. |
 | V64#5 | S10E33 CH02 | B+172 morning | Noise names himself Noise in a conversation with Mau and DIO. |
 | V64#6 | S10E34 CH01 | B+172 morning | Makima prompts King Edran of Vey to target Hollis. Edran writes and signs the order himself. |
 | V64#7 | S10E34 CH02 | B+172 afternoon | Edran's guards detain Hollis at the crossing and hurt his wrist. The tally keeper takes her own report to the house. |
@@ -96,7 +96,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V64#21 | S10E41 CH02 | B+176 later afternoon | No toxicity observed in Nazuna from the modeled sample. Team records scope; Ko and Nazuna choose to wait before any actual feeding. |
 | V64#22 | S10E42 CH01 | B+176 late afternoon | Mau and Yuka cook; Bocchi chooses to share a song with her family and the band; Mai brings cherries. |
 | V64#23 | S10E42 CH02 | B+176 evening | Music, Fort letters and food give the household an evening together. A caller knocks. |
-| V64#24 | S10E43 CH01 | B+176 evening | Mau and Yuta recognize Jin-Woo. He explains the one-time arrival and comes in by invitation with his own Beru. |
+| V64#24 | S10E43 CH01 | B+176 evening | Mau recognizes Jin-Woo. Yuta meets him in this branch. Jin-Woo explains the one-time arrival and comes in by invitation with his own Beru. |
 | V64#25 | S10E43 CH02 | B+176 evening | Ashborn chooses to receive Jin-Woo. They sit beside the open window and talk about the rest Ashborn chose. |
 | V64#26 | S10E44 CH01 | B+176 night | Each Beru stays with his king. They trade notes, agree on two ideas, then find a third. S10 closes at the table. |
 
@@ -104,4 +104,4 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 
 S10 complete, V64#26 B+176 night. The house has its own evening after the Vey and Ko scenes. Mau and Yuka cook together, Bocchi chooses to play with her family and the band in attendance, no imposed performance. Ori follows up the Fort map. Mai/Momo Nishimiya share proximity and small tasks, romance unassigned. Rem and Umaru sit together by choice, no imposed label.
 
-Jin-Woo physically arrives outside ward via one opening now closed; recognition through prior interrupted words and Yuta's experience. He identifies himself and enters with his own Beru by invitation. Ashborn receives him in the protected guest room with open window, still wishes to rest, no power handoff. DIO remains protected. The two Beru are separate and loyal to their own king; exchange two accepted choices and a third idea for a telenovela. End in ordinary company. No S11 proposal delivered, no new battle, no family extraction, no romance or pregnancy change. See [season handoff](S10_SEASON_END_ACTUAL_STATE_AND_S11_HANDOFF_2026-11-04.md).
+Jin-Woo physically arrives outside ward via one opening now closed; recognition through Mau's prior interrupted contact. Yuta is introduced for the first time in this branch. He identifies himself and enters with his own Beru by invitation. Ashborn receives him in the protected guest room with open window, still wishes to rest, no power handoff. DIO remains protected. The two Beru are separate and loyal to their own king; exchange two accepted choices and a third idea for a telenovela. End in ordinary company. No S11 proposal delivered, no new battle, no family extraction, no romance or pregnancy change. See [season handoff](S10_SEASON_END_ACTUAL_STATE_AND_S11_HANDOFF_2026-11-04.md).

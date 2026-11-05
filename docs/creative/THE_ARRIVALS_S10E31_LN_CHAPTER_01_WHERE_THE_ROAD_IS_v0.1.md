@@ -5,7 +5,7 @@
 **Volume:** 63
 **Reading order:** 23
 **Source episode:** S10E31
-**Continuity state:** B+171 late morning. Mau returns physically at the roadside. Gray except Yuka. Shoko check arranged; no new combat or departure from Walpurgis by compulsion.
+**Continuity state:** B+171 late morning. Mau returns physically at the roadside and calls Kaisel to fetch Yuka after his return. Gray except Yuka. Shoko check arranged; no new combat or departure from Walpurgis by compulsion.
 
 *When: Mau puts his foot down, his boot slides along the side of a ditch and he lands on his hip.*
 
@@ -31,11 +31,11 @@ Rimuru stops on the other side of the ditch. Mau can see the long bag at his fee
 
 “How long?” ᴹ
 
-“Less than half an hour. I called home when I got to the bench. Yuka knew the turn. She rode Kaisel out and took him along the wall while I checked the ditch.” ᴿⁱ
+“Only a few minutes. I told Yuka when I couldn't find you. She knows where we are.” ᴿⁱ
 
-Mau listens. Somewhere behind the low wall there is a steady sound, a little louder than the wind. He recognizes Kaisel's breathing. Rimuru has got his bag out of the road, where the dragon can wait without being in anybody's way.
+Mau gets his feet under himself and lets Rimuru give him an arm to reach the bank. He sits where the slope flattens. Now that he can call Kaisel again, he sends him for Yuka. The dragon leaves from the far side of the wall, where he has room to open both wings.
 
-Mau hears the end of the sentence when he sees her. Her sleeve catches the light on the wall where the road turns. He looks at her sleeve, then at her hand, and then at the grass beside his knee, which has gone back to being exactly as gray as it had been on the walk out that morning.
+Rimuru sits with him until they hear the wings coming back. Mau looks up when he sees her. Her sleeve catches the light on the wall where the road turns. He looks at her sleeve, then at her hand, and then at the grass beside his knee, which has gone back to being exactly as gray as it had been on the walk out that morning.
 
 Yuka comes down into the ditch with him. She has to put a hand against the slope when her foot slips. Then she sits down so he doesn't have to get any farther off the ground to see her.
 

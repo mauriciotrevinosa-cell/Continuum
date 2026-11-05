@@ -53,7 +53,7 @@ Edran looks behind him. There are shadows waiting in the passage. One of them ha
 
 “I could close that gate,” he says. ᴱᵈ
 
-Mau looks at the key in his hand. “Is there anybody you still need to let out?” ᴹ
+Mau looks at the key in Edran's hand. “Is there anybody you still need to let out?” ᴹ
 
 Edran looks down the hill. His clerk has stopped where the steps divide. The man's coat is thrown over an elbow and he has a small empty basket at his feet. He hasn't gone any farther without him.
 

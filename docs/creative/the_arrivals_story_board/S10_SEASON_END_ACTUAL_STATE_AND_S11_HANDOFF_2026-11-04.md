@@ -6,12 +6,12 @@
 
 ## Estado al cierre
 
-- **Jin-Woo.** Llega en persona por una abertura que se cierra tras él. Reconoce el rastro de las comunicaciones anteriores y sigue el camino hasta el pueblo. Llama desde fuera, Mau y Yuta lo reconocen, entra por invitación. La causa precisa de la abertura sigue sin establecerse. No hay transporte general entre mundos.
+- **Jin-Woo.** Llega en persona por una abertura que se cierra tras él. Reconoce el rastro de las comunicaciones anteriores y sigue el camino hasta el pueblo. Llama desde fuera, Mau lo reconoce, Yuta se presenta por primera vez en esta rama y Jin-Woo entra por invitación. La causa precisa de la abertura sigue sin establecerse. No hay transporte general entre mundos.
 - **Ashborn y DIO.** Ashborn acepta ver a Jin-Woo en su cuarto protegido. Le dice que sigue queriendo descansar y abren la ventana. DIO respeta ese espacio desde su habitación. No se transfiere poder ni cambian los acuerdos de refugio.
 - **Los Beru.** Cada uno responde a su propio rey. Comparan apuntes de una telenovela, aceptan una decisión de cada uno y descubren una tercera. El remate de directores con vestuario corresponde a la propuesta de S11.
 - **Ko y Nazuna.** Nazuna probó sangre de Mau mientras éste reproducía temporalmente el estado incompleto de Ko. Shoko y Yuta estaban listos para asistirla. Sin toxicidad observada en ese modelo. La rueda no se necesitó. Ko y Nazuna eligen esperar para la decisión que los involucra directamente.
 - **Vey y el cruce.** Hollis y Sela operan la ventana interior. Edran sigue vivo y el castillo está guardado en piezas. Restitución y disculpa pendientes. Persisten las dos versiones públicas. Luminous se ocupa de los avisos del camino y Mau no recibe título.
-- **Casa.** Las reuniones familiares, el Fort y el recado cerrado de Ori conservan su estado. Mau y Yuka juntos y con vida propia. Sigue el gris excepto Yuka. Noise eligió su nombre. Sin cambio de embarazo, capacidades o vínculos románticos en el cierre.
+- **Casa.** Las reuniones familiares, el Fort y el recado cerrado de Ori conservan su estado. Mau y Yuka juntos y con vida propia. Mau deja cerrado el archivo de Sukuna por decisión propia. La despedida de la línea anterior lo alivia y esa noche vuelve a flotar dormido, abrazado a Yuka. Sigue el gris excepto Yuka. Noise eligió su nombre. Sin cambio de embarazo, capacidades o vínculos románticos en el cierre.
 
 ## Ritmo y alcance
 

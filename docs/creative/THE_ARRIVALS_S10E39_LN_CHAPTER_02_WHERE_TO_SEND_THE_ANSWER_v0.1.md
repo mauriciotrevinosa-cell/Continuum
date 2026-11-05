@@ -27,11 +27,11 @@ Leon rests his thumb on the folded edge. He asks whether she's still going to te
 
 “He wants to. Somebody at the other end will have to tell him where he can unload.” ᴸᵘ
 
-Luminous asks for another sheet. She writes to the person who can answer that part.
+Luminous asks for another sheet. She writes to the person who can answer that part. Leon reads the question once, adds his name under hers and leaves the other paper folded.
 
 * * *
 
-At the crossing, Hollis puts the letter where Sela can read it too. This time there are two signatures at the bottom of the page and only one question. Can a wagon on the east road bring its load to the inside window?
+At the crossing, Hollis puts the letter where his tally keeper can read it too. Sela moves the register to make room. This time there are two signatures at the bottom of the page and only one question. Can a wagon on the east road bring its load to the inside window?
 
 “Depends how wide it is,” Sela says. ˢᵉˡ
 

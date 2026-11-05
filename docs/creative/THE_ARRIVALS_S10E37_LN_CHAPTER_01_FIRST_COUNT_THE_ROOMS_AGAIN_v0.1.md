@@ -25,7 +25,7 @@ The old nail is still in it. Mau shines a little light where the man points so h
 
 “I'll stand here,” the man says.
 
-Mau waits beside him until Igris gets to the brace. He watches the man watching it. When they are sure the wall is holding, he leaves the light where the man can see his key and goes back to take the stone.
+Mau waits beside him until Igris gets to the brace. He watches the man watching it. When they are sure the wall is holding, he leaves the light over the man's doorstep and goes back to take the stone.
 
 * * *
 

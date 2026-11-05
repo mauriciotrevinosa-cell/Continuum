@@ -3020,3 +3020,7 @@ Mau tells Yuka, gives her original Yuka's message and recreates the hand dragon 
 ### S10 después de la cantera — V64#5–8, 2026-11-04
 
 Noise selected Noise. Creator approved an original king targeting Hollis at the crossing. King Edran of Vey acted on Makima's persuasion and issued his own order; the house only has direct witness evidence about Edran's order and guards. Hollis is recovered first, with consent, via Mau personal Exchange to him and an ordinary return by Kaisel. No civilian held liable for the king's choice.
+
+### S10 después de la cantera — V64#9–13, 2026-11-04
+
+Hollis participated from safe recovery through the response and chose to reopen with deliveries at the inner window. Edran doubled down on detention. Town residents negotiated their own logistics, with temporary housing, grain access and well preserved. Mau stored the fortified structure in pieces, nobody killed, and conditions its return on an apology. Public accounts differ; the apology and restitution remain open. Applied V59 rewrite lesson by giving the decisions, civilian resistance and aftermath separate scenes.

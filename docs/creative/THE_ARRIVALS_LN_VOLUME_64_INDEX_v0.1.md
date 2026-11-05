@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 64
 **Season:** 10
-**Coverage:** S10E31–S10E35 (in progress)
+**Coverage:** S10E31–S10E37 (in progress)
 **Volume title:** **Where the Road Leads**
-**Chapter files:** 8
+**Chapter files:** 13
 
 Mau comes home from Walpurgis carrying two messages. The house has to decide what it will do when someone takes his warning seriously enough to test it.
 
@@ -23,3 +23,8 @@ Mau comes home from Walpurgis carrying two messages. The house has to decide wha
 | 6 | S10E34 | A Place to Put His Name | `THE_ARRIVALS_S10E34_LN_CHAPTER_01_A_PLACE_TO_PUT_HIS_NAME_v0.1.md` |
 | 7 | S10E34 | The Other Side of the Bar | `THE_ARRIVALS_S10E34_LN_CHAPTER_02_THE_OTHER_SIDE_OF_THE_BAR_v0.1.md` |
 | 8 | S10E35 | Let Him Tell Us Where | `THE_ARRIVALS_S10E35_LN_CHAPTER_01_LET_HIM_TELL_US_WHERE_v0.1.md` |
+| 9 | S10E35 | What Hollis Would Sign | `THE_ARRIVALS_S10E35_LN_CHAPTER_02_WHAT_HOLLIS_WOULD_SIGN_v0.1.md` |
+| 10 | S10E36 | One Name on the Order | `THE_ARRIVALS_S10E36_LN_CHAPTER_01_ONE_NAME_ON_THE_ORDER_v0.1.md` |
+| 11 | S10E36 | The Woman with the Bread Key | `THE_ARRIVALS_S10E36_LN_CHAPTER_02_THE_WOMAN_WITH_THE_BREAD_KEY_v0.1.md` |
+| 12 | S10E37 | First, Count the Rooms Again | `THE_ARRIVALS_S10E37_LN_CHAPTER_01_FIRST_COUNT_THE_ROOMS_AGAIN_v0.1.md` |
+| 13 | S10E37 | Bread Before the Story | `THE_ARRIVALS_S10E37_LN_CHAPTER_02_BREAD_BEFORE_THE_STORY_v0.1.md` |

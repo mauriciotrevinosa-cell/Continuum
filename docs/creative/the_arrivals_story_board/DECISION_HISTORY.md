@@ -3024,3 +3024,7 @@ Noise selected Noise. Creator approved an original king targeting Hollis at the 
 ### S10 después de la cantera — V64#9–13, 2026-11-04
 
 Hollis participated from safe recovery through the response and chose to reopen with deliveries at the inner window. Edran doubled down on detention. Town residents negotiated their own logistics, with temporary housing, grain access and well preserved. Mau stored the fortified structure in pieces, nobody killed, and conditions its return on an apology. Public accounts differ; the apology and restitution remain open. Applied V59 rewrite lesson by giving the decisions, civilian resistance and aftermath separate scenes.
+
+### S10 después de la cantera — V64#14–16, 2026-11-04
+
+The castle aftermath has separate civic, couple and household scenes, with no skip to celebration. Hollis trusts the tally keeper's discretion. Mau invites Yuka and Yuka chooses more time together, and completes her own test with Mai. Vey correspondence does not resolve Edran's order. No new fight. Pacing checked in S10_WORK_PACING_PASS_V64_2026-11-04.md.

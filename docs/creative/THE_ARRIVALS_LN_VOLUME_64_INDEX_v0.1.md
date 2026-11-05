@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 64
 **Season:** 10
-**Coverage:** S10E31–S10E37 (in progress)
+**Coverage:** S10E31–S10E39 (in progress)
 **Volume title:** **Where the Road Leads**
-**Chapter files:** 13
+**Chapter files:** 16
 
 Mau comes home from Walpurgis carrying two messages. The house has to decide what it will do when someone takes his warning seriously enough to test it.
 
@@ -28,3 +28,6 @@ Mau comes home from Walpurgis carrying two messages. The house has to decide wha
 | 11 | S10E36 | The Woman with the Bread Key | `THE_ARRIVALS_S10E36_LN_CHAPTER_02_THE_WOMAN_WITH_THE_BREAD_KEY_v0.1.md` |
 | 12 | S10E37 | First, Count the Rooms Again | `THE_ARRIVALS_S10E37_LN_CHAPTER_01_FIRST_COUNT_THE_ROOMS_AGAIN_v0.1.md` |
 | 13 | S10E37 | Bread Before the Story | `THE_ARRIVALS_S10E37_LN_CHAPTER_02_BREAD_BEFORE_THE_STORY_v0.1.md` |
+| 14 | S10E38 | The End Piece | `THE_ARRIVALS_S10E38_LN_CHAPTER_01_THE_END_PIECE_v0.1.md` |
+| 15 | S10E38 | Before We Go Back | `THE_ARRIVALS_S10E38_LN_CHAPTER_02_BEFORE_WE_GO_BACK_v0.1.md` |
+| 16 | S10E39 | Under the Cup | `THE_ARRIVALS_S10E39_LN_CHAPTER_01_UNDER_THE_CUP_v0.1.md` |

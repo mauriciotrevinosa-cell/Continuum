@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 10 — All Hail Queen Yuka
+## Chapter 12 — All Hail Queen Yuka
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
-**Reading order:** 10
+**Reading order:** 12
 **Source episode:** S10E24
 **Continuity state:** B+170 midday. Fort charter adopted internally and trade copy corrected. Extra agreed biscuits and one limited basket of Mau's supplies. Queen Yuka is Fort play; Mau alone follows the playful commands. No transfer of sovereignty, power or recurring debt.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 23 — Was It False
+## Chapter 25 — Was It False
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 23
+**Reading order:** 25
 **Source episode:** S10E30
 **Continuity state:** Day475 old night. Frieren sees her later self with Ori at the wedding meal, takes responsibility for the harm here and asks whether their original love was real. Mau distinguishes this lived past from the current household, no transferred blame or automatic forgiveness.
 

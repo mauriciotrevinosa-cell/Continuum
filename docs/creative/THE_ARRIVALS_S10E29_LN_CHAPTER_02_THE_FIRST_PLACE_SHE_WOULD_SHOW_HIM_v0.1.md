@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 22 — The First Place She Would Show Him
+## Chapter 24 — The First Place She Would Show Him
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 22
+**Reading order:** 24
 **Source episode:** S10E29
 **Continuity state:** Day475 old night. Original Ori sees a selected memory of the later ride, asks how she knows Mau there, says goodbye as his daughter here and gives her unopened folded message for her later self. Current Ori retains her own bond and words.
 

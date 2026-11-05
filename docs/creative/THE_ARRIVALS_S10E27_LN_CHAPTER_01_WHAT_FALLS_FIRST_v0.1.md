@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 15 — What Falls First
+## Chapter 17 — What Falls First
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
-**Reading order:** 15
+**Reading order:** 17
 **Source episode:** S10E27
 **Continuity state:** B+171 late morning. Outside Walpurgis, Falling Devil seizes on Mau's fear. She destabilizes gravity. Contact with the prior life at the overwrite seam begins.
 

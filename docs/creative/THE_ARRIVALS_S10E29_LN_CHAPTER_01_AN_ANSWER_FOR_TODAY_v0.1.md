@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 21 — An Answer for Today
+## Chapter 23 — An Answer for Today
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 21
+**Reading order:** 23
 **Source episode:** S10E29
 **Continuity state:** Day475 old night. Ciel maintains her original refusal and chooses to help Mau return. Rimuru shares anger, grief and hope after viewing Shizue and the household. No new visit or promise to revisit the past. Ori arrives after Frieren explains enough for her to choose.
 

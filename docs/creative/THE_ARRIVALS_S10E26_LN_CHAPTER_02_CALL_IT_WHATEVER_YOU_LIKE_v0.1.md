@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 14 — Call It Whatever You Like
+## Chapter 16 — Call It Whatever You Like
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
-**Reading order:** 14
+**Reading order:** 16
 **Source episode:** S10E26
 **Continuity state:** B+171 late morning. Mau rejects title, sets personal red line, departs by choice while Rimuru stays.
 

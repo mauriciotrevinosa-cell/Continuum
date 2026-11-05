@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 20 — The One That Was Eating Its Wing
+## Chapter 22 — The One That Was Eating Its Wing
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 20
+**Reading order:** 22
 **Source episode:** S10E28
 **Continuity state:** Day475 old night after the collective viewing. Yuka's anger and her choice to let Mau return coexist. She gives her present self a message, remembers private confidence only with Mau, and asks him to share the happy hand dragon. No renewed romance.
 

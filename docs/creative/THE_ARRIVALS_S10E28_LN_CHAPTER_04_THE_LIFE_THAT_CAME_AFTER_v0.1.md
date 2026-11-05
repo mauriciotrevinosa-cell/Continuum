@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 19 — The Life That Came After
+## Chapter 21 — The Life That Came After
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 19
+**Reading order:** 21
 **Source episode:** S10E28
 **Continuity state:** Day475 old night. The house views Mau's selected public wedding and ordinary-life memories. Anger and grief coexist with knowing his present. Each listener can stop. Old Ciel assists, original memories stay intact. The house begins to let him return.
 

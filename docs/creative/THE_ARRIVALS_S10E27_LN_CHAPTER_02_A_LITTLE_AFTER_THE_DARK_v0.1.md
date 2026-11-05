@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 16 — A Little After the Dark
+## Chapter 18 — A Little After the Dark
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 16
+**Reading order:** 18
 **Source episode:** S10E27
 **Continuity state:** Day475 original late night after V34#41. Mau panics at the old room and color, wakes Yuka by accident and searches for the attacker. Original Ciel and Rimuru know only the bargain and the collapse. His wife belongs to the life he came from.
 

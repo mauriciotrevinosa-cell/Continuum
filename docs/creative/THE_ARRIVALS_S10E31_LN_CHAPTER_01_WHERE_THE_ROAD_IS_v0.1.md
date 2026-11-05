@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 25 — Where the Road Is
+## Chapter 27 — Where the Road Is
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 25
+**Reading order:** 27
 **Source episode:** S10E31
 **Continuity state:** B+171 late morning. Mau returns physically at the roadside and calls Kaisel to fetch Yuka after his return. Gray except Yuka. Shoko check arranged; no new combat or departure from Walpurgis by compulsion.
 

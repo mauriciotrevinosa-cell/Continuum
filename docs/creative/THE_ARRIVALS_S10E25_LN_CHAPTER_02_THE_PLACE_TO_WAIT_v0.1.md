@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 12 — The Place to Wait
+## Chapter 14 — The Place to Wait
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
-**Reading order:** 12
+**Reading order:** 14
 **Source episode:** S10E25
 **Continuity state:** B+171 morning. Mau and Rimuru leave for Walpurgis by approved route and meet with no delegated authority from the house. Yuka has route and return plan. No commercial passenger transport or change to the ward.
 

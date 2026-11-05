@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 8 — The Notice at the Outer Desk
+## Chapter 10 — The Notice at the Outer Desk
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
-**Reading order:** 8
+**Reading order:** 10
 **Source episode:** S10E23
 **Continuity state:** B+169 afternoon. Hollis finds the copied Fort notice and asks who can order for it. Yuka and Jinshi hold the trade change pending talks. No foreign state recognized or trade embargo.
 

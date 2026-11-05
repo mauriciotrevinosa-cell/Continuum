@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 24 — There Is a Place to Put Your Foot
+## Chapter 26 — There Is a Place to Put Your Foot
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 24
+**Reading order:** 26
 **Source episode:** S10E30
 **Continuity state:** Day475 old night to the return threshold. Original Frieren and Mau acknowledge their real love and their choices. She sees that her later life holds happiness and helps him return freely to his wife. The road is a brief seam of this encounter, not a repeatable travel ability.
 

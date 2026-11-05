@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 11 — Who the Chair Is For
+## Chapter 13 — Who the Chair Is For
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
-**Reading order:** 11
+**Reading order:** 13
 **Source episode:** S10E25
 **Continuity state:** B+170 evening. Rimuru receives invitation to Walpurgis as member, with Mau asked to attend. Rimuru and Mau discuss conditions. No title accepted, appointment conferred, or departure yet.
 

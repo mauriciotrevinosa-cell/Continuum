@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 9 — The Two Idiots
+## Chapter 11 — The Two Idiots
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
-**Reading order:** 9
+**Reading order:** 11
 **Source episode:** S10E24
 **Continuity state:** B+170 morning. Full Fort table negotiates with Mau and Rimuru. Yuka sits with the Fort. Agreement in principle: local independence over cupboard, outings and order list, household safeguards and accounting. Final text/notice to follow.
 

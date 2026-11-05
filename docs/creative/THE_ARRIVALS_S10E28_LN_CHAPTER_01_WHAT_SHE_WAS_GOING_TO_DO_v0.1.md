@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 17 — What She Was Going to Do
+## Chapter 19 — What She Was Going to Do
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 17
+**Reading order:** 19
 **Source episode:** S10E28
 **Continuity state:** Day475 old night. Original Yuka, Maki, Rimuru and the waking house learn what Mau chose and the life that followed. They voice anger and ask to hear his account. No memories shared yet.
 

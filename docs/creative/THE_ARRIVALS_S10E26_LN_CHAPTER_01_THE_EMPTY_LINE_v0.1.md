@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 13 — The Empty Line
+## Chapter 15 — The Empty Line
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
-**Reading order:** 13
+**Reading order:** 15
 **Source episode:** S10E26
 **Continuity state:** B+171 morning. Walpurgis asks about responsibility for use of Mau's name. He distinguishes actual road safety from accepting office.
 

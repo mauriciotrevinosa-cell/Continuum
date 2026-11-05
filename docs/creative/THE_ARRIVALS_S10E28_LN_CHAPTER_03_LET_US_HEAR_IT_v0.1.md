@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 18 — Let Us Hear It
+## Chapter 20 — Let Us Hear It
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.2
 **Volume:** 63
-**Reading order:** 18
+**Reading order:** 20
 **Source episode:** S10E28
 **Continuity state:** Day475 old night. The house chooses to see selected memories through Mau's present viewing work with Ciel and Rimuru. Temporary chosen images only. No memory rewriting, cure or shared combat archive. The gray and Yuka's color are visible as his remembered perception.
 

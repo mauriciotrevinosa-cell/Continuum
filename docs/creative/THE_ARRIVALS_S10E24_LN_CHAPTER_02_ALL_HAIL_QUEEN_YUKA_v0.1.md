@@ -35,7 +35,15 @@ Milim gives her the tape. The crown stays on at a slight angle. Ori tells them a
 
 “All hail Queen Yuka,” says the table. ˣ
 
-Then Hollis goes back to the wagon and Rem takes the cups to the kitchen and Umaru has to follow her because she has got the receipt in the wrong book. Yuka asks whether anybody has brought a knife for the last packet. Nobody hears her except Mau.
+Then Hollis goes back to the wagon and Rem takes the cups to the kitchen and Umaru has to follow her because she has got the receipt in the wrong book. Yuka asks whether anybody has brought a knife for the last packet. Rimuru hears her and continues eating. Milim says there was a knife earlier and holds up the tape as if it can take its place. Yuka straightens her crown.
+
+“The queen would like a knife,” she says. ʸ
+
+Mau gets up. Yuka looks at the others. Rimuru turns his cup around until the handle is perfectly straight.
+
+“She didn't say she was everybody's queen,” he says. ᴿⁱ
+
+“I heard her,” Mau says from the cupboard. ᴹ
 
 He finds her a knife, brings the bread plate while he's at it and makes an elaborate little bow. She asks if he is going to keep doing that.
 

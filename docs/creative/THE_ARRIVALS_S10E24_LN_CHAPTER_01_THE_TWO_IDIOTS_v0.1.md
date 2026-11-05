@@ -41,6 +41,28 @@ Rimuru touches his cup.
 
 Rem tells her that if they want to know what to order they will still have to count them sometimes. Umaru takes this under consideration. She asks Ori if the count can happen when they already have the book open. Ori says yes if the person counting has washed their hands. Mau looks over at Rimuru, who lifts his cup and drinks from it. They have already lost whatever advantage the signal was supposed to give them.
 
+Seiko opens the door to get her scissors. Milim turns her whole body in the Guardian's chair to ask whether she comes as an observer.
+
+“I come as the person who owns the scissors,” says Seiko. ˢᵉ
+
+Rimuru is holding them. He took them from the drawer so he could cut their side a piece of paper big enough to write on. He puts them on the table.
+
+“We could ask you to settle the question of who gets to borrow what,” he says. ᴿⁱ
+
+Seiko looks at Mau. “Did he ask to borrow these?” ˢᵉ
+
+Mau looks at the cup. Rimuru already has a finger on it.
+
+“I'd like to change sides,” Mau says. ᴹ
+
+Yuka looks down at the folded charter. “We have a place for a witness.” ʸ
+
+“Perfect.” ᴹ
+
+“It's on the side you're already sitting on.” ʸ
+
+Seiko takes the scissors. The two of them are still arguing over which one was supposed to bring the paper when she shuts the door.
+
 * * *
 
 Jinshi has left a blank receipt book on the corner of the table. Yuka pulls it nearer. Hollis can take a Fort order with one named person to check it and a limit the house agrees to in advance. Someone at the Fort gets to choose what goes on the list. The same supplies go into the same kitchen if they're needed there, and a person who doesn't have a sash can still eat dinner.

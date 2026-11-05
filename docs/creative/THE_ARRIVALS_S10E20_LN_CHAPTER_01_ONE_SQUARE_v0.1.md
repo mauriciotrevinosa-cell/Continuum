@@ -57,6 +57,60 @@ Maomao looks down at the cloth. The paper from Kusuri is lying across the first 
 
 * * *
 
+Gojo has one foot on the practice bench. Maki tells him to get it off. He puts the other one up too.
+
+Mau comes out with Taihei's folded towel in his hands and catches the end of this. He stops to watch. Maki sets her practice sword down across both of Gojo's ankles. Gojo takes both feet off the bench.
+
+“That's the best thing I've seen all afternoon,” Mau tells her. ᴹ
+
+Maki picks up her sword. “It was a bench.” ᴹᵏ
+
+“You'd have thought of it if it was anything else.” ᴹ
+
+Mau sets the towel down and takes the place Gojo had been saving with his feet. Gojo starts to tell him that he was there first. Mau looks up at him with an expression of sincere delight.
+
+“I know. You made room.” ᴹ
+
+Maki laughs so hard she has to put the sword down again. Gojo looks from her to Mau, sees he's lost the bench and sits on the other end of it before anybody can lose that for him.
+
+“Can you tell me one thing I'm good at?” he asks. ᴳᵒ
+
+“You always know when the toast's going to burn.” ᴹ
+
+“That's it?” ᴳᵒ
+
+“Sometimes you even take it out.” ᴹ
+
+Shoko walks past while Gojo is trying to come up with an answer. She takes the towel. She can use it. Mau tells her that's what he brought it for and means it with such feeling that Taihei, passing behind her, has to stop and ask how many times the towel has been given away.
+
+“Twice,” Mau says. “You want it back?” ᴹ
+
+“No. I want to know if you've had any lunch.” ᵀ
+
+* * *
+
+Lunch makes it as far as the next table. There is a piece of bread on Mau's plate and there is Beru looking down at it with his arms hanging rather sadly at his sides.
+
+“My king,” says Beru. “I heard you had compliments.” ᴮᵉ
+
+Mau sets the bread down. He tells Beru he's very good at sitting with somebody who's fallen asleep before the end of a story. He always remembers which part they missed.
+
+Beru straightens. His claws come all the way off the table.
+
+“Would my king like me to tell him the end of one now?” ᴮᵉ
+
+“Are there any where somebody brings me a cup?” ᴹ
+
+Beru disappears around the door so fast that the towel on Shoko's shoulder lifts in the draft. He comes back with three cups and puts all of them where Mau can reach. Mau fills the first one and gives it to him.
+
+Beru stands there with the cup. It's too small to hold the way everybody else does. He brings the points of two claws together on either side of the handle and sits down with care. Mau pushes the second cup toward Maki before Gojo can get it. Gojo takes the third one and tells him they could have avoided all this if he'd said he was good at sharing.
+
+“You're right,” Mau says. “I'll remember for next time.” ᴹ
+
+He breaks the bread in half and eats the first piece himself.
+
+* * *
+
 Yuka comes in just as Mau finishes carrying the second chair to where Ori is standing. He puts the chair down and makes a small whistling noise when he sees Ori has a map. Ori looks up.
 
 “Do you need something carried?” he asks her. ᴹ

@@ -27,6 +27,18 @@ She shows him the drawing. He recognizes it. It was the first cupboard any of th
 
 He thinks about that. It's about the strongest process he's heard of all day.
 
+“Can I apply for a cupboard?” he asks. ᴹ
+
+“What would you do with one?” ᵁ
+
+“Open it every once in a while. Put things in it so you can find them.” ᴹ
+
+Umaru looks at him over the top of the paper. This sounds dangerously like what he does already. She turns the pencil around and draws him a little space at the end of the table.
+
+“You can bring things to the cupboard,” she says. “We can give you a receipt.” ᵁ
+
+Mau asks her if it can have a hamster on it. She puts the pencil down and looks at him with a new respect. When he offers to sign, she makes sure the hamster will fit beside his name.
+
 * * *
 
 Yuka has gone to put the cups back. She comes to the door in time to see Mau turn the page so Umaru can see his name. Beneath it he has added *witness*, which would normally be the first thing he'd think to ask about. There is a little drawing of a hamster beside the signature.

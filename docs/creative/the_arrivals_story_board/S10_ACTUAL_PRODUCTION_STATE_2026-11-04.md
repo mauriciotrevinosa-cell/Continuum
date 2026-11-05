@@ -50,7 +50,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V62#19 | S10E18 CH02 | B+166 evening | Nishimiya learns of Sukuna's end and asks Mai about her ordinary life. |
 | V62#20 | S10E19 CH01 | B+167 morning | Nishimiya meets Kamish and Momo Ayase. |
 | V62#21 | S10E19 CH02 | B+167 evening | Mai gives Nishimiya somewhere to come back to. V62 closes. |
-| V63#1 | S10E20 CH01 | B+168 afternoon | Maomao's chocolate returns as group comedy. One square stronger than intended. |
+| V63#1 | S10E20 CH01 | B+168 afternoon | Maomao's chocolate returns as group comedy with Jinshi, Rem, Taihei, Maki, Gojo, Shoko and Beru before the Fort scenes. Mau takes one square stronger than intended. |
 | V63#2 | S10E20 CH02 | B+168 afternoon | Mau witnesses an overly broad Fort cupboard form, one copy reaches outer desk. |
 | V63#3 | S10E21 CH01 | B+168 evening | Ori asks to lead a supervised dungeon outing. Mau named assistant. |
 | V63#4 | S10E21 CH02 | B+169 morning | Clearance, safety roles, Milim's advice and children's choice. |

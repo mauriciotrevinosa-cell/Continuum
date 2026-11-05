@@ -6,9 +6,13 @@
 
 > si me gusta entonces mira si gustas dejamos tus capitulos ya hechos pero ya les hicimos tres revisiones mira yo digo guardalos y que work arranque con el blueprint que hicimos de s10 y explicitaamente diga estos son arcos yo hablo con work y que se arranque y una ves que acabe o me suba la primera cosa a git te hecho el grito y te vas persiguiendo a work auditando viendo si esto necesita mas caps si aqui algo mas queda y asi te pares?
 
-1. **Work escribe S10** desde el esqueleto.
-2. Cuando suba lo primero a Git, Mauri avisa a Claude.
-3. **Claude va detrás auditando:** canon, reglas de JJK, fechas, si algo necesita más capítulos, y qué más cabe.
+**Actualización de Mauri, 2026-11-04.** El encargo de auditoría general de la cita de arriba queda sustituido por éste.
+
+1. **Work escribe y audita la historia**, incluido el ritmo, la continuidad emocional y técnica, las escenas de casa y la relación de Mau y Yuka. Work decide y aplica correcciones a su manuscrito y registra las que cambien el contexto para capítulos futuros.
+2. **Claude entra por encargo puntual de Mauri para una pelea.** Work identifica el volumen y capítulos y deja en Git el encargo con las reglas, el resultado acordado y las dudas concretas de coreografía, desgaste o ritmo. El momento adecuado es cuando ya existe un borrador de la pelea completa que se pueda leer de principio a fin. S10, hasta V64#13, no tiene una pelea nueva para encargar.
+3. El encargo a Claude cubre el combate y su lógica técnica. Los cambios a Mau y Yuka, su voz, sus decisiones, las reacciones emocionales de pareja y la recuperación los escribe Work, incluso si aparecen en una pelea. Claude puede señalar dónde un momento necesita aire y Work escribe ese momento. Una sugerencia de combate que cambie una regla o un desenlace vuelve a Work y Mauri antes de pasar al texto.
+
+**Referencia de ritmo:** el V59 ampliado le da a cada cambio importante tiempo para verse, entenderse desde las gradas y cambiar lo que alguien puede hacer después. Aplicar esa lógica cuando la escena lo pida. Los capítulos cotidianos pueden ser breves cuando la acción y la conversación ya están completas. [Auditoría de Work hasta V64#13](S10_WORK_SELF_AUDIT_THROUGH_V64_CH13_2026-11-04.md).
 
 ## El esqueleto son ARCOS
 
@@ -31,7 +35,7 @@ S9 termina en V60 #20, «Both Hands», B+152. S10 arranca en B+153, V61. Día a 
 ## Reglas que Mauri pidió expresamente
 
 - Mau funcional desde el capítulo 1. Sólo quedan cicatrices nuevas y el pelo café con blanco. Nada de lo construido se perdió.
-- Mucho de Mau y Yuka al inicio: la recuperación los separó.
+- Mau y Yuka al inicio retoman lo cotidiano después de las restricciones de la clínica y del susto del combate. V60#19 ya contiene la conversación sobre cómo lo vivieron. Darles afecto y tiempo juntos, con espacio para que cada uno haga su vida; una distancia práctica o un miedo no se convierten por inercia en una pelea de pareja.
 - Mau y Yuka aún no se han acostado. Quieren y se detienen, con respeto. Bebé no en S10.
 - Yuka, cuando se enoja, es por terror. No es su enfermera y tiene vida propia.
 - No hacer cosas por drama. No romper las reglas de JJK. Leer cómo funciona una técnica antes de usarla (Chimera Shadow Garden es una barrera cerrada, S7E34 y S8E46).

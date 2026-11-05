@@ -33,7 +33,33 @@ Mau looks up. Yuka has a little bit of a smile on her face. He takes his time sm
 
 “I did. She can ask me again if she likes.” ʸ
 
-Mau tells her what the answer had meant to the woman who had asked. Then he gives her the message exactly as he heard it. Yuka keeps looking at him after he finishes.
+Mau tells her what the answer had meant to the woman who had asked. Then he tells her what she'd said about already having a good time, and about breakfast. Yuka is quiet through all of it. He can hear the basin shift when she takes her foot off the bottom of the bench.
+
+“She said thank you to me?” ʸ
+
+“Yes.” ᴹ
+
+Yuka looks out at the yard. Somebody has put two cups on the sill outside. One of them is still turned upside down.
+
+“I keep wanting to ask her things,” she says. “Then I think about what she'd ask me, and it's not the same things at all.” ʸ
+
+“What would you tell her if she were here?” ᴹ
+
+Yuka leans back far enough to see his face. She's been holding his hand loosely. She moves her fingers in between his and holds on.
+
+“We have breakfast most days. Sometimes I want you to stop talking till I've had mine.” ʸ
+
+He laughs and looks down at their hands.
+
+“And I'd tell her I'm happy too,” she says. “She ought to get to hear me say it.” ʸ
+
+Mau turns his face toward hers. She leans in and kisses him, slowly enough that he has time to lean in too. She stays with her forehead against his for a while after.
+
+“I love you,” he says. ᴹ
+
+“I love you too.” ʸ
+
+When she draws back, she looks at the light on the wall.
 
 “I want to know what we were doing,” she says. ʸ
 
@@ -68,3 +94,25 @@ Yuka laughs so hard that the wing goes flying over his head. He lowers his hand 
 He puts his hand back into the light.
 
 Yuka gives the dragon a second wing, a little crooked. Mau shifts his wrist to leave enough room for it. She rests her head against him and for a while the two of them let it stay exactly where it is.
+
+* * *
+
+When they get up, Yuka takes his coat down from the hook. She waits till he's got his arm through the first sleeve before she tells him she's going to find Mai.
+
+“Do you want me to come?” he asks. ᴹ
+
+“For a bit. I want you to see what she did with the catch. Then you can go do whatever you were going to do.” ʸ
+
+“I was going to find out if you'd had lunch.” ᴹ
+
+“I haven't. I still want to see the catch first.” ʸ
+
+He smiles and lets her tug the second sleeve into place.
+
+Mai has put a strip of wood under the second door to keep it level. She starts to take it out when she sees them. Yuka tells her to leave it there, works the catch once and puts her shoulder to the door. It swings inward without her having to put her hand down at all.
+
+“Come back and get me when you're hungry,” Mau says. ᴹ
+
+Yuka looks over her shoulder. “You can come get me when you are.” ʸ
+
+She takes the pencil Mai holds out and bends down to mark where the catch meets the frame. Mau watches her find the right spot and then goes to put two plates out.

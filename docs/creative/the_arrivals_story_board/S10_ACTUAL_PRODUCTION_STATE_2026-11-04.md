@@ -74,7 +74,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V63#22 | S10E30 CH02 | Day475 late night (prior life) | Mau answers Frieren honestly and apologizes for his own decision. Frieren helps him take the step home. |
 | V63#23 | S10E31 CH01 | B+171 late morning | Mau returns to the roadside and sees gray except Yuka. She and Rimuru get him ready to come home. |
 | V64#1 | S10E31 CH02 | B+171 midday | Shoko checks the fall. Ciel, Rimuru and Mau reconstruct the roadside facts. Mau starts telling Yuka. |
-| V64#2 | S10E32 CH01 | B+171 afternoon | Yuka hears the old message and chooses to make the ordinary hand dragon together. |
+| V64#2 | S10E32 CH01 | B+171 afternoon | Yuka hears the old message, answers in her own words and chooses to make the hand dragon with Mau. She goes back to testing the second door with Mai. |
 | V64#3 | S10E32 CH02 | B+171 later afternoon | Ori chooses a short Kaisel ride with Mau and shows him the windows from above. |
 | V64#4 | S10E33 CH01 | B+171 evening | Frieren affirms Ori's choice. Ori wants to receive the note later, so it stays folded. |
 | V64#5 | S10E33 CH02 | B+172 morning | Noise names himself Noise in a conversation with Mau and DIO. |

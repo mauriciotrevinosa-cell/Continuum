@@ -17,7 +17,7 @@ She looks at his hand. Then she moves the basin far enough away that he can leav
 
 “Then you can keep it there.” ˢʰ
 
-Yuka takes Mau's coat while Shoko examines his hip. The examination is quick enough that he doesn't get cold until he has to stand and wait for Shoko to put his weight on the sore side. He takes two steps. On the second he has to think about where his foot is. He tells her which part hurts instead of taking the step a third time to make it look better.
+Yuka takes Mau's coat while Shoko examines his hip. The examination is quick enough that he doesn't get cold until he stands and Shoko asks him to put his weight on the sore side. He takes two steps. On the second he has to think about where his foot is. He tells her which part hurts instead of taking the step a third time to make it look better.
 
 Ciel can account for the time after she heard him at the wall. She was able to tell Rimuru which direction to take before she lost the connection completely. There was a tug before it broke, as if the place she was speaking into had stopped facing her. She says that part twice when Mau asks. He waits for the distinction between what she saw and what it felt like.
 

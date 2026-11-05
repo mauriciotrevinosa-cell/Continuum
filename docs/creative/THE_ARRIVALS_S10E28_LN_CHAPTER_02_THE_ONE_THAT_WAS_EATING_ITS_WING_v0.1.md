@@ -15,6 +15,12 @@ He looks back at her. She has rested her right wrist on her knee where the brace
 
 “Tell her I used to think about what we'd have to get through to have a nice time. Tell her we were already having one.” ʸ
 
+Mau nods. He expects her to go on immediately. Instead she looks at the bare finger where he had been looking for a ring.
+
+“And tell her thank you,” she says. “I used to lie here and try to picture what that would be like. Being married to you and having a day where we could talk about breakfast. I hope she has a lot of those.” ʸ
+
+He looks up. She gives him a little nod, as if she is making sure he knows which part to take with him.
+
 Mau can hear the tiny sound she'd made for the dragon. He can hear the noise he'd made trying to do it better. He had started to forget that he was allowed to laugh when he thought of that afternoon.
 
 “Show her that thing we did with our hands,” Yuka says. “The one that kept eating its wing. You can skip the rest if she doesn't want it. I'd like her to have that part.” ʸ

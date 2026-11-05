@@ -33,7 +33,7 @@ Yuka picks a place in the grass. The blanket will not lie down the way she puts 
 
 He remembers the noise Mai made down the corridor. Judging by Yuka's face, she remembers it too.
 
-“I'd had time to think of a better answer,” he says. ᴹ
+“I still think that was a good answer,” he says. ᴹ
 
 “You hadn't even let me finish asking.” ʸ
 

@@ -31,7 +31,9 @@ Rimuru stops on the other side of the ditch. Mau can see the long bag at his fee
 
 “How long?” ᴹ
 
-“Minutes. I don't know exactly. I told Yuka as soon as I could tell her where I was going.” ᴿⁱ
+“Less than half an hour. I called home when I got to the bench. Yuka knew the turn. She rode Kaisel out and took him along the wall while I checked the ditch.” ᴿⁱ
+
+Mau listens. Somewhere behind the low wall there is a steady sound, a little louder than the wind. He recognizes Kaisel's breathing. Rimuru has got his bag out of the road, where the dragon can wait without being in anybody's way.
 
 Mau hears the end of the sentence when he sees her. Her sleeve catches the light on the wall where the road turns. He looks at her sleeve, then at her hand, and then at the grass beside his knee, which has gone back to being exactly as gray as it had been on the walk out that morning.
 

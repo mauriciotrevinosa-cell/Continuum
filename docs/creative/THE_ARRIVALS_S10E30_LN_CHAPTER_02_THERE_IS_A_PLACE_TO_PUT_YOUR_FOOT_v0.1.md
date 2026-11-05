@@ -63,7 +63,11 @@ He sees a line in the mortar that wasn't there before he caught the wall. He put
 
 Frieren reaches out and puts her palm flat against the back of his shoulder. He can tell from where she puts her feet that she's making sure he can take a step without her coming with him.
 
-“Thank you for telling me,” she says. “Go to your life, Mau.” ᶠ
+“I think I'm happy there,” Frieren says. “I can picture myself finishing that page.” ᶠ
+
+Mau turns his head. Her hand is still on his shoulder.
+
+“I love you,” she says. “Thank you for coming to tell me. Go to your life, Mau.” ᶠ
 
 He feels the pressure of her hand once. The small push is enough to remind him that he can move his foot before he can see the ground all the way to where it lands.
 

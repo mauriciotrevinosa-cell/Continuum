@@ -14,6 +14,8 @@
 
 **Referencia de ritmo:** el V59 ampliado le da a cada cambio importante tiempo para verse, entenderse desde las gradas y cambiar lo que alguien puede hacer después. Aplicar esa lógica cuando la escena lo pida. Los capítulos cotidianos pueden ser breves cuando la acción y la conversación ya están completas. [Auditoría de Work hasta V64#13](S10_WORK_SELF_AUDIT_THROUGH_V64_CH13_2026-11-04.md).
 
+**Revisión de cierre de S10.** Primero el [pase de Work](S10_WORK_FINAL_AUDIT_2026-11-04.md). Después, si Mauri llama a Claude, se le pasa el [encargo de solo lectura](S10_CLAUDE_READ_ONLY_REVIEW_BRIEF_2026-11-04.md). Claude entrega un informe detallado en la conversación. Work y Mauri deciden si algo pasa al manuscrito.
+
 ## El esqueleto son ARCOS
 
 Son **16 arcos, no 16 capítulos**. Total orientativo: unos 105 capítulos, sin cuota. Cada arco dura lo que necesite. Slice of life entre arcos sólo si hace falta, no por agregar. No se agregan arcos.
@@ -49,8 +51,8 @@ S9 termina en V60 #20, «Both Hands», B+152. S10 arranca en B+153, V61. Día a 
 
 - Falling Devil y Momo Nishimiya en el Vault, en sólo lectura.
 - Dueños y saldo reales de las monedas antes de cada llegada.
-- Ko: Mauri no ha confirmado de quién es la sangre. Cómo se liberó a la mamá de Coco en esta rama.
-- Subaru: versión y por qué llega ahora. El rey: quién es.
+- Ko: Mauri confirmó la prueba en V64 #20–21. Nazuna prueba la sangre de Mau en el estado incompleto modelado, con Shoko y Yuta preparados para asistirla. Si se reutiliza el precedente de la mamá de Coco, cotejarlo en esta rama.
+- Subaru: revisar su punto de extracción según V62 #4–7 antes de reutilizarlo. El rey de Vey es Edran; el objetivo es Hollis. Véase el estado al cierre.
 
 ## Borradores de Claude
 

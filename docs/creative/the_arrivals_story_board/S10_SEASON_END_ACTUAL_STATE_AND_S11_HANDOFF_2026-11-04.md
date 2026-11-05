@@ -2,6 +2,8 @@
 
 4 de noviembre de 2026. **S10 termina en V64 #26, B+176 de noche.** [Volumen](../THE_ARRIVALS_LN_VOLUME_64_INDEX_v0.1.md) · [Estado acumulado](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md).
 
+[Auditoría de Work](S10_WORK_FINAL_AUDIT_2026-11-04.md) · [Encargo de solo lectura para Claude](S10_CLAUDE_READ_ONLY_REVIEW_BRIEF_2026-11-04.md).
+
 ## Estado al cierre
 
 - **Jin-Woo.** Llega en persona por una abertura que se cierra tras él. Reconoce el rastro de las comunicaciones anteriores y sigue el camino hasta el pueblo. Llama desde fuera, Mau y Yuta lo reconocen, entra por invitación. La causa precisa de la abertura sigue sin establecerse. No hay transporte general entre mundos.

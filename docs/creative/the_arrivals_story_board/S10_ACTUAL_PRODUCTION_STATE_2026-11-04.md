@@ -90,7 +90,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V64#15 | S10E38 CH02 | B+174 early afternoon | Yuka chooses the long way home with Mau. They talk about their decisions at Vey, kiss and return for the full-bucket latch test with Mai. |
 | V64#16 | S10E39 CH01 | B+174 evening | Cards and dinner with the house. Meret writes to Rem. Fern sets the road correspondence aside for morning. |
 | V64#17 | S10E39 CH02 | B+175 morning | Luminous distinguishes witness evidence from rumor and answers through the crossing. Hollis and Sela run their own notice. |
-| V64#18 | S10E40 CH01 | B+175 afternoon | Ko returns to Kusuri and Maomao, chooses what Noise observes and sets the stop sign. No reproduction or exposure. |
+| V64#18 | S10E40 CH01 | B+175 afternoon | Ko returns to Kusuri and Maomao, chooses what Noise observes and sets the stop sign. Nano, Shizuka, Hakari and Karane help Kusuri check how the room will work. No reproduction or exposure. |
 | V64#19 | S10E40 CH02 | B+175 evening | Ko and Nazuna take a night walk away from their notes and make a plan for tomorrow. |
 | V64#20 | S10E41 CH01 | B+176 afternoon | Ko, Mau and Nazuna consent. Mau reproduces Ko's incomplete state; Nazuna tastes Mau's blood, with Shoko and Yuta ready and the wheel available. |
 | V64#21 | S10E41 CH02 | B+176 later afternoon | No toxicity observed in Nazuna from the modeled sample. Team records scope; Ko and Nazuna choose to wait before any actual feeding. |

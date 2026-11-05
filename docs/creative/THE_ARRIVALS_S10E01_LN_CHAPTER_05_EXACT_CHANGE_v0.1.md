@@ -21,7 +21,7 @@
 
 It's a real market day. He can hear it from the road. There are about forty stalls along the wall of the town, and a man with a very bad flute. It is the first place he has been in three weeks that has no one in it who knows how he takes his tea. Yuka walks a little ahead with her hands in her pockets. She's got her good coat on, and she's looking at everything. He gives his attention to walking like somebody who has never been in a clinic.
 
-He's looking forward to this. He'd like that known. He had been looking forward to it since yesterday.
+He's looking forward to this. He'd like that known. He had been looking forward to it since yesterday, when Shoko watched him walk as far as the markers and back before she told him he could try the market.
 
 It starts at the first stall. A woman selling onions looks up, with a smile already on her face and her mouth open to tell him the price. The smile stays there. Her eyes go to his neck. They go to his hair. She looks at him for about as long as it takes to breathe in, and then she looks down at her onions, very carefully, and she moves a few of them around.
 

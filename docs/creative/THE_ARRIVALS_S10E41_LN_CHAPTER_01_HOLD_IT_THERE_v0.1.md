@@ -17,7 +17,9 @@ Kusuri sets the cup down.
 
 “Try that on Maomao,” she says. ᴷᵘ
 
-Maomao lifts her eyes from the page. Ko decides he has seen enough. He sits where he sat yesterday and puts a hand on the other chair until Nazuna takes it.
+Maomao lifts her eyes from the page. Ko decides he has seen enough. Kusuri asks him for a word he can use if nobody can see his hand. He chooses *stop* and makes her go through the same thing one more time with the cup. Then he hangs Shizuka's card on the outside of the door. He wrote *come back later* in the margin. Karane had been right about how small the letters were. He went over them again until he could see them from the other end of the passage.
+
+He sits where he sat yesterday and puts a hand on the other chair until Nazuna takes it.
 
 Yuta has come with Shoko. He asks Nazuna where she would like him to wait. She points to the place beside the window, then changes her mind and tells him the end of the table is better. If she has to say something to him, she wants to be able to do it without turning her head. Yuta puts his chair there. Shoko waits until he's settled, then asks Nazuna to tell her again what she expects to feel if something goes wrong.
 

@@ -52,3 +52,31 @@ Ko has put his hands flat on his knees. He looks up to ask his question before t
 Kusuri turns the paper so he can read the empty place where she was going to write it.
 
 “Want to pick it?” she asks. ᴷᵘ
+
+* * *
+
+Kusuri brings the spare chair home to show Nano where the other person would be sitting. Nano lets her put it down. Then she sits in it and tells her she can't see anything under the edge of the table.
+
+“That's why he'll move his hand out first,” Kusuri says. ᴷᵘ
+
+“And if that's the part he can't do?” Nano asks. ᴺᵒ
+
+Kusuri looks at her hand. She had wanted Ko to pick something he could do when the room was looking at him. She hadn't thought to ask what would happen if his hand was already under something.
+
+“I'll ask him for a word as well,” she says. ᴷᵘ
+
+Hakari pulls her own chair nearer with both feet. She asks what Kusuri is going to say when somebody knocks in the middle of it. Kusuri opens her mouth. She can already imagine herself trying to answer three people without losing the place on the page.
+
+Shizuka gets up and brings back the card they use when somebody is reading in the little room. It says *please knock* on one side and has a drawing of a book on the other. She turns it over so the blank margin faces out. Karane asks who the sign is supposed to be for.
+
+“People outside,” Hakari says. ᴴᵃ
+
+“People outside here ignore a sign unless it's bigger than the door.” ᴷᵃ
+
+Shizuka looks up at her. She keeps her hand on the card.
+
+Karane sighs. “Fine. I'll be bigger than the door.” ᴷᵃ
+
+“You could sit with me instead,” Hakari says. ᴴᵃ
+
+Karane had already pulled out a second chair for her. She claims she just needed it out of the way. Nobody moves it back. Kusuri borrows the card. Tomorrow she'll ask Ko what he'd like it to say before they hang it up.

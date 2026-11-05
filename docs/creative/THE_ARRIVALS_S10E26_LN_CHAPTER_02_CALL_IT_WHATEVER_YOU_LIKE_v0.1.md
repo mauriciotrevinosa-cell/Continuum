@@ -63,6 +63,20 @@ Rimuru nods. Mau walks out past the man who was at the door when they came in. T
 
 Inside, Rimuru pulls his chair a little closer to the table.
 
+Nobody has taken Mau's paper away. Leon looks at the place for his seal.
+
+“If he'd signed it, what would you have brought back to the house?” he asks Rimuru. ᴸᵉ
+
+“A piece of paper the house had never seen, with his name on it,” Rimuru says. ᴿⁱ
+
+Guy lifts his glass. “You'd have been happy to tell them that.” ᴳᵘ
+
+Rimuru looks up at him.
+
+“I would've had to tell them that.” ᴿⁱ
+
+Leon picks up the paper, folds it along the space where the seal would go and sets it beside his own things. The note about the wagons stays on the table.
+
 Luminous has the road note in her hand. She looks from it to the paper in front of Leon.
 
 “I'd still like to tell that woman where she can send her wagons,” she says. ᴸᵘ

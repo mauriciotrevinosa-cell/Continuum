@@ -27,6 +27,10 @@ Leon rests his thumb on the folded edge. He asks whether she's still going to te
 
 “He wants to. Somebody at the other end will have to tell him where he can unload.” ᴸᵘ
 
+Leon asks if she's sending anybody to the wall outside the hall. Rimuru's account is on a separate sheet. She has left it there because the guard found the loose stones and the torn map, and the road men haven't brought her anything to explain either of them.
+
+“I sent somebody to look at it,” she says. “I haven't sent anybody to say they know who did it.” ᴸᵘ
+
 Luminous asks for another sheet. She writes to the person who can answer that part. Leon reads the question once, adds his name under hers and leaves the other paper folded.
 
 * * *

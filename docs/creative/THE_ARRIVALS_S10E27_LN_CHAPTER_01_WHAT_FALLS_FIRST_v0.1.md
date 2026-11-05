@@ -21,7 +21,11 @@ He catches the top of the wall with both hands. The mortar moves under his stiff
 
 “Try to keep your eyes open,” the woman says. ᶠᵈ
 
-She is looking at his face instead of the grass. There is a seam at the side of her throat. When she moves her head, the seam moves a little later than the rest of her.
+She is looking at his face instead of the grass. She tips her head toward the top of the wall and his coat pulls tight across the back.
+
+He lets go with his right hand. He knows how to put himself down when he's been in the air a little too long. He tries it now, the same small correction he uses coming down beside the bed. His right boot goes back until the sole touches stone. For an instant he can put weight on it. Then the drop comes back, harder, and the boot scrapes up the wall like he's forgotten how to stand.
+
+He reaches across for the road with the other grip, the one that doesn't need his fingers. Gravel stops moving in the ditch. He can feel exactly how much of it he's holding. His body keeps turning until one shoulder is higher than the wall. He tries to take hold of the stone itself. There's a second where he has to look at it to remember what it feels like.
 
 Mau reaches for Ciel. He gets the beginning of an answer and a rush of cold in his stomach that has nothing to do with where his feet are.
 

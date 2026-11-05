@@ -25,7 +25,7 @@ Ciel can account for the time after she heard him at the wall. She was able to t
 
 “No. There were loose stones in the road. I could see where you'd been holding on.” ᴿⁱ
 
-Mau describes the woman as far as he remembers seeing her. At the seam in her throat he stops. Rimuru waits with his pen over the page until Mau says that's the end of what he can tell him about her.
+Mau describes the woman as far as he remembers seeing her. He stops to show Rimuru the way she tipped her head while the road came away under him. Rimuru waits with his pen over the page until Mau says that's the end of what he can tell him about her.
 
 “Do you think she sent you there on purpose?” Rimuru asks. ᴿⁱ
 

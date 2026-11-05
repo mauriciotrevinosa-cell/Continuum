@@ -13,6 +13,9 @@
 - **Vey y el cruce.** Hollis y Sela operan la ventana interior. Edran sigue vivo y el castillo está guardado en piezas. Restitución y disculpa pendientes. Persisten las dos versiones públicas. Luminous se ocupa de los avisos del camino y Mau no recibe título.
 - **Casa.** Las reuniones familiares, el Fort y el recado cerrado de Ori conservan su estado. Mau y Yuka juntos y con vida propia. Mau deja cerrado el archivo de Sukuna por decisión propia. La despedida de la línea anterior lo alivia y esa noche vuelve a flotar dormido, abrazado a Yuka. Sigue el gris excepto Yuka. Noise eligió su nombre. Sin cambio de embarazo, capacidades o vínculos románticos en el cierre.
 
+- **Falling Devil.** La casa reporta el incidente de la pared. Luminous investiga el lugar. La identidad del instigador y la posibilidad de que vuelva siguen abiertas; el acceso a la vida anterior ocurrió una vez.
+- **Pase posterior de S10.** Se ampliaron la convivencia del chocolate, el tratado del Fort, la respuesta de la guarnición y el horno de Vey, el eco del miedo en Ashby y la preparación de Kusuri con sus amigas. La revancha de Milim, la carta de Nell, Yuuki y las demás propuestas de reparto siguen disponibles para decidir cuándo convienen.
+
 ## Ritmo y alcance
 
 El estimado de capítulos es una referencia. En el tramo final, la prueba y la decisión de Ko y Nazuna quedaron separadas. La cena empieza y tiene su propio momento antes de que toquen. Jin-Woo tiene tiempo para llegar, ser reconocido y ver a Ashborn antes de la comedia con Beru. El cierre cae donde los dos reyes se quedan a la mesa.

@@ -129,4 +129,6 @@ The wind moves the dry grass around their boots. She looks at the town for some 
 
 “Eat that,” Yuka says. “Shoko said pears.” ʸ
 
-He takes it. It's very good. He stands there and eats the whole thing, down to the stem, and only then does he call the dragon.
+He takes it. It's very good. He stands there and eats the whole thing, down to the stem.
+
+Yuka takes the four remaining pears out of her pockets and passes them to him. He puts them in his inventory before he calls the dragon. She brushes a little bit of leaf out of the lining and takes his hand.

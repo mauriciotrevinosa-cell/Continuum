@@ -3032,3 +3032,7 @@ The castle aftermath has separate civic, couple and household scenes, with no sk
 ### S10 después de la cantera — V64#17–19, 2026-11-04
 
 Creator clarified that estimated chapter counts are references only. The council gets its own later look at the Vey account and returns the wagon question to the people who operate the crossing. Ko and Nazuna continue the interrupted consultation by consent, then have a scene outside it. No new magical result or test sample settled.
+
+### S10 después de la cantera — V64#20–21, 2026-11-04
+
+Creator confirmed Nazuna tries Mau's blood under the modeled incomplete state, Shoko and Yuta on hand to help Nazuna. Ko, Mau and Nazuna consent separately. Temporary state only, wheel ready but unused, no toxic reaction observed in Nazuna during the test. No general rule or direct feeding verdict inferred. Ko and Nazuna choose their next step.

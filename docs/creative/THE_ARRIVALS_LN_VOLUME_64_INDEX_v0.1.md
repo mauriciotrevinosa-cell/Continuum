@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 64
 **Season:** 10
-**Coverage:** S10E31–S10E40 (in progress)
+**Coverage:** S10E31–S10E41 (in progress)
 **Volume title:** **Where the Road Leads**
-**Chapter files:** 19
+**Chapter files:** 21
 
 Mau comes home from Walpurgis carrying two messages. The house has to decide what it will do when someone takes his warning seriously enough to test it.
 
@@ -34,3 +34,5 @@ Mau comes home from Walpurgis carrying two messages. The house has to decide wha
 | 17 | S10E39 | Where to Send the Answer | `THE_ARRIVALS_S10E39_LN_CHAPTER_02_WHERE_TO_SEND_THE_ANSWER_v0.1.md` |
 | 18 | S10E40 | What He Can Tell Them | `THE_ARRIVALS_S10E40_LN_CHAPTER_01_WHAT_HE_CAN_TELL_THEM_v0.1.md` |
 | 19 | S10E40 | Take Me Out for Nothing | `THE_ARRIVALS_S10E40_LN_CHAPTER_02_TAKE_ME_OUT_FOR_NOTHING_v0.1.md` |
+| 20 | S10E41 | Hold It There | `THE_ARRIVALS_S10E41_LN_CHAPTER_01_HOLD_IT_THERE_v0.1.md` |
+| 21 | S10E41 | One Line in the Book | `THE_ARRIVALS_S10E41_LN_CHAPTER_02_ONE_LINE_IN_THE_BOOK_v0.1.md` |

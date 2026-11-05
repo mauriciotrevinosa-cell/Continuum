@@ -33,6 +33,26 @@ By midmorning two letters leave Vey. One says there is a hill with nothing on it
 
 * * *
 
+At Ashby the pear seller hears that the man from the quarry ate the king.
+
+He puts the basket down harder than he meant to. Three pears roll toward the edge and his grandson catches two. The other one lands underneath the barrel. Neither of them goes after it.
+
+“Was it the one with the white in his hair?” the boy asks. ˣ
+
+The man doesn't know. The customer who brought the story is already halfway down the row, telling it to the woman who sells onions. She starts to turn her slate around. The man remembers what the end of the row sounded like the morning the flute stopped. He could hear the girl set down each pear.
+
+“I know what she paid,” he says. “Go get the one that fell.” ᴹⁿ
+
+The boy gets down on his knees just as a driver comes up from the bridge with a note for the market. The driver reads the names of the people he saw at the schoolroom. There's a woman from the laundry and a girl who baked bread in a new oven this morning. The pear seller knows the woman's sister. He asks if the driver actually saw her. The driver says she gave him the note.
+
+“Did you see the king?” the seller asks. ᴹⁿ
+
+“No. I was delivering bread.” ˣ
+
+The seller can make use of that answer. He puts his own slate back where it was, with the price showing. Across the row somebody has drawn a fresh wheel above the old one. He leaves it alone. When his grandson brings the bruised pear up from under the barrel, the seller gives him the knife to cut out the bad part.
+
+* * *
+
 Hollis reads the second one at the crossing. The tally keeper comes over to see if he wants a hand with the shutter. He says yes. She puts the key down where both of them can find it later. For today all deliveries will be taken at the inner window. She writes it above the place for his name and he signs with his good hand braced against the bottom.
 
 Mau has come as far as the crossing with him. He is still standing behind the line Hollis usually asks customers to stand behind.

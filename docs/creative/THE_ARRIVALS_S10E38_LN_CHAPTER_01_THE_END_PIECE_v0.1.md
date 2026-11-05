@@ -9,7 +9,7 @@
 
 *When: Mau asks Yuka if she wants to go out to lunch, she is holding a wooden wedge between her teeth.*
 
-She takes it out.
+She takes it out. He has come straight from Shoko, who made him walk the length of the room and asked when he sat down last night. He'd been able to tell her. He still feels it when he turns too fast. He tells Yuka he can get to the crossing if they go at the speed of people going out to eat.
 
 “Where?” ʸ
 

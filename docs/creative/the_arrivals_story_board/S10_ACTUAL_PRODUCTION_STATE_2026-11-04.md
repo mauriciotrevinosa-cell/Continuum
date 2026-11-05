@@ -80,12 +80,12 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V64#5 | S10E33 CH02 | B+172 morning | Noise names himself Noise in a conversation with Mau and DIO. |
 | V64#6 | S10E34 CH01 | B+172 morning | Makima prompts King Edran of Vey to target Hollis. Edran writes and signs the order himself. |
 | V64#7 | S10E34 CH02 | B+172 afternoon | Edran's guards detain Hollis at the crossing and hurt his wrist. The tally keeper takes her own report to the house. |
-| V64#8 | S10E35 CH01 | B+172 afternoon | Fern, Rimuru, Yuka and Mau act on the report. Mau reaches Hollis by personal Exchange and waits for his agreement to extract him. |
+| V64#8 | S10E35 CH01 | B+172 afternoon | Fern, Rimuru, Yuka and Mau act on the report. Shoko agrees to one planned Exchange with a walking exit and Rimuru as fallback. Mau reaches Hollis and waits for his agreement to leave. |
 | V64#9 | S10E35 CH02 | B+172 late afternoon | Igris shields Hollis without attacking. Hollis rides home, gives his own account and asks to protect the crossing. |
 | V64#10 | S10E36 CH01 | B+172 evening | Edran renews his order against whoever works the crossing. The house conditions any response on civilian needs and gets Hollis's help. |
-| V64#11 | S10E36 CH02 | B+173 morning to evening | Hollis and Rem work with Meret on a replacement oven and the well route. The residents reach safety. Edran walks out by choice. |
+| V64#11 | S10E36 CH02 | B+173 morning to evening | Hollis and Rem test Meret's replacement oven before she hands over the old key. Edran gets notice. Guards leave the gate open and help clear the laundry. Edran walks out by choice. |
 | V64#12 | S10E37 CH01 | B+173 night | The house and legion dismantle and store the empty castle, preserving wells and neighboring homes. Mau leaves Edran an apology-and-return notice. |
-| V64#13 | S10E37 CH02 | B+174 morning | Vey residents assess the lost castle and working services. Hollis opens the crossing at the inner window. Rumors and testimony spread. |
+| V64#13 | S10E37 CH02 | B+174 morning | Vey residents assess the lost castle and working services. Rumor and eyewitness testimony reach the pear seller in Ashby. Hollis opens the crossing at the inner window. |
 | V64#14 | S10E38 CH01 | B+174 midday | Mau invites Yuka to the crossing. Hollis and the tally keeper decide how the inner window will work. They share Meret's bread. |
 | V64#15 | S10E38 CH02 | B+174 early afternoon | Yuka chooses the long way home with Mau. They talk about their decisions at Vey, kiss and return for the full-bucket latch test with Mai. |
 | V64#16 | S10E39 CH01 | B+174 evening | Cards and dinner with the house. Meret writes to Rem. Fern sets the road correspondence aside for morning. |

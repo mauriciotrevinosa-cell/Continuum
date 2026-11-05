@@ -83,4 +83,16 @@ Hollis looks across at her. “Can you carry a basket?”
 
 Rimuru sets a fresh page beside the map. There is time to send a warning to the people scheduled at the crossing before any of them gets up for work. He starts with the tally keeper. Fern sends somebody to find out whether she has eaten.
 
+Shoko comes back for the cup she left behind. She hears enough about the hill to ask what Mau will actually have to lift.
+
+“The shadows can carry the pieces. I'll put them away,” he says. ᴹ
+
+“You can do that sitting down?” ˢʰ
+
+“I can do it standing up.” ᴹ
+
+“That wasn't the question.” ˢʰ
+
+Yuka pulls a chair away from the wall with the toe of her boot. Mau looks at it and concedes that he can. Igris will bring the pieces to him. If his hip goes stiff, he's to say so before he gets up to show her it hasn't. Shoko takes the cup and leaves the chair where it is.
+
 Mau stays at the table. He'd thought the next thing he did would be to stand up. When Hollis gets to the end of the street, Mau asks him who lives above the steps.

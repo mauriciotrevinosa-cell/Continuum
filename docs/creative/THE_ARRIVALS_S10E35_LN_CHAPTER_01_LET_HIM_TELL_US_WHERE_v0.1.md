@@ -31,6 +31,20 @@ Mau looks at her. She has put two fingers exactly where the tally keeper set her
 
 “First,” he says. ᴹ
 
+Shoko has heard him from the door. She comes straight to the map and asks how he's getting there.
+
+“One Exchange. I can walk him to where Kaisel can get down.” ᴹ
+
+“Can you do the walk twice?” ˢʰ
+
+He looks at her.
+
+“Once with him and once if you have to come out the other way,” she says. “I'm asking about your hip, Mau. I don't care how far the shadow can go.” ˢʰ
+
+“Yes. If I don't have to run with him.” ᴹ
+
+Rimuru puts his finger on the rise. He can be there on Kaisel while Igris gives them room. If there isn't time to walk, Rimuru goes to get them. Shoko makes Mau repeat that part. He gets it right the first time and the second, which is the one she actually asked for.
+
 * * *
 
 They get word from a scout when the wagon stops below the hill. The guards have asked somebody at a gate to open it and are waiting for a key. Hollis is in the back with one of them. Rimuru asks the scout if there is a place a man can step down without dropping very far. There is a stack of sacks where the wagon has stopped.

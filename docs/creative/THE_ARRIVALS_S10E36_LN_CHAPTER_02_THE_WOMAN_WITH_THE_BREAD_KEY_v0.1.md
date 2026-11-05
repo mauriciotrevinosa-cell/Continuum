@@ -9,7 +9,15 @@
 
 *When: Hollis asks the baker how many people use the castle oven, she gives him a number and then adds two people who don't use it on the day he usually comes.*
 
-Her name is Meret. Hollis has bought bread from her since before the crossing had a roof. She lives below the castle. She lets a girl sleep above the oven during the week because the girl comes from too far down the road to make the first batch otherwise. She wants to know whether the girl will be able to keep working.
+Her name is Meret. Hollis has bought bread from her since before the crossing had a roof.
+
+They've met on the market side of the gate. There are two guards up the steps. Hollis recognizes the one with his fingers hooked through his belt. He had heard him breathe through his nose while the other man twisted his wrist. He asks Meret whether the man can see them from there.
+
+“Yes,” she says. “But if he wants his breakfast, he's got to come down here like everybody else.” ᴹᵉ
+
+Gojo has stopped at the bottom of the steps. The guard has already called down to ask what he's doing. Gojo told him he was getting out of the baker's way. Now he's sitting on the wall with his feet right where a man would have to go if he came down for Hollis.
+
+Hollis looks back at Meret. He doesn't have to ask her to start the count again. She's still got the number on her fingers. She lives below the castle. She lets a girl sleep above the oven during the week because the girl comes from too far down the road to make the first batch otherwise. She wants to know whether the girl will be able to keep working.
 
 “I have an oven at home I can offer her for a few days,” Rem says. “That's if you don't have another one here.” ᴿᵉ
 
@@ -38,6 +46,44 @@ Hollis marks the oven on the map. The shared grain shed is already marked. There
 The lower town has an empty schoolroom, a clean storehouse with a chimney, and neighbors who can take in most of the people from the upper floor. The house sends out blankets and two big water jars by wagon. Nobody has to give a name to collect one. Yuka walks the route from the schoolroom to the well with one of Meret's neighbors. She carries an empty pail to see if it fits through the gap beside the steps. It doesn't. By the time Mau comes, there is a second way through from the lane. The neighbor tells him to keep both.
 
 * * *
+
+Meret tries the new oven herself. The hinge goes down a little when she puts her weight on the door. It doesn't catch on the stone. She closes it. A thin strip of light stays visible near the top. Rem brings her a piece of scrap from the floor to see if the latch will take it. Meret cuts the scrap down with her bread knife and tries again.
+
+This time she can hear the door close all the way.
+
+She puts one little loaf in. Rem wants to know whether she's going to let it be the first one out. Meret says she'd rather burn one she can afford to eat herself. They sit on two overturned baskets while it bakes. The girl who sleeps at the old oven has come to see what it looks like. She presses her cheek against the door frame to smell it better.
+
+When Meret cuts the loaf, it is done in the middle. The three of them eat the first slice standing up. Then Meret takes the key to the old oven out of her apron. She hands it to Hollis. She has already sent the girl to bring the starter down.
+
+“Now you can tell him I'm done with the other oven,” she says. ᴹᵉ
+
+* * *
+
+At the top of the steps the guard with his fingers through his belt has been told to come inside and lock the gate. The clerk brings that order himself. He is out of breath. Hollis has sent an answer up the hill for the king, and the clerk has had to read it to him twice. The first time Edran asked who would actually come. The second time he asked whether they'd said how long he'd have to get the people out.
+
+“Till everybody's out,” the clerk tells the guard. “They're asking us to count them.” ˣ
+
+“And if I shut the gate?” ˣ
+
+The clerk looks past him at the lane. A woman has two coats over one arm and is trying to open the door to the well yard with her free hand. She puts the coats down, gets the door open and has to pick them both up off the dirt.
+
+“She's got a room up here. Look where she'll be if you lock it.” ˣ
+
+There is a man in the shade at the foot of the steps. He has been sitting on that wall since morning. He gets down when the woman with the coats comes past, and steps out of her way. The guard sees something else move in the shadow behind him. It is tall and carries a sword low at its side. He had seen it from the wagon. He remembers how long it had stood there while he held his own sword out in front of him.
+
+Hollis is farther down the lane, waiting at the turn while Rem comes back with her basket. The guard takes one step down.
+
+Gojo looks up.
+
+“If you're coming for him, stop there,” he says. ᴳᵒ
+
+The guard stops. From here he can still see the woman with the coats. She has gone back in because somebody needs a hand on the stairs. The door moves behind her. It would take one man a moment to bar it from where he stands.
+
+“What if I'm coming for the people in the laundry?” he says. ˣ
+
+“Then tell Fern how many there are. She'll be glad of an extra count.” ᴳᵒ
+
+The guard looks back at the clerk. The clerk still has the order in his hand. Neither of them reaches for the key. After a while the guard turns to the man behind him and asks him to go and fetch the chair with the narrow back.
 
 By the time Mau goes up the hill, Igris has found all the rooms that share walls with the occupied houses. He shows Mau which stones can't come away before they put a brace in. Mau asks him how he'd go about it if he couldn't fit a shadow between the two walls. Igris takes him round the back and shows him another way to see the seam.
 

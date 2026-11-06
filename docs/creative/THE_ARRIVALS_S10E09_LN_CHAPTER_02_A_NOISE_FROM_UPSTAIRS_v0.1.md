@@ -51,6 +51,20 @@ She puts the metronome beside the amp. It has no battery. Nijika gives them four
 
 They start at the beginning.
 
+Halfway through, Futari puts her chin on the top of the amp. Ryo signals for her to move it and manages to do it without missing a note. Futari moves it to her father's knee instead.
+
+He had listened through her bedroom door at home. Sometimes he'd waited to hear the same eight bars turn into nine before he knocked and asked her if she wanted dinner. Now he is close enough that she can see him recognise those bars. When Kita comes in with her voice over the ninth one, he looks up at her. He goes on looking for the rest of the verse.
+
+Bocchi nearly misses the change after it. Nijika gives her the little tap she uses when they need to find each other in a hurry. Her hand goes to the right place.
+
+When they finish, her mother doesn't clap right away. She asks to hear the bit where all four of them were playing quietly and Hitori came in by herself.
+
+“She knows that part,” Kita tells her. ᴷⁱ
+
+Bocchi puts her fingers on the strings. “We can do it once more,” she says. “All of us.” ᴮ
+
+Nijika gives them four again. This time Bocchi has her eyes on Kita when she comes in. Her father shifts his foot so the dog can sleep without resting its chin on his shoe. None of them notices the person who has just arrived outside with bread.
+
 * * *
 
 Mau has brought bread. He makes it as far as the bench outside the music room before he finds out there is music in it. He sits with the bread on his knee until somebody comes out.

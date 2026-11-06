@@ -5,7 +5,7 @@
 **Volume:** 61
 **Reading order:** 13
 **Source episode:** S10E05
-**Continuity state:** B+159 morning. The Ashby wheel maker visits the marker after a written reply. No organization or shared supernatural effect is established. Fern agrees to send a plain trade notice with Hollis.
+**Continuity state:** B+159 morning. The Ashby wheel maker visits the marker after a written reply. No organization or shared supernatural effect is established. Fern sends a plain trade notice with Hollis. Esther and her son post it at the bridge, where a stamp seller tries to collect. Travelers respond differently. The dispute remains local.
 
 *When: the woman from Ashby gets to the marker, she asks if she's allowed to leave her things on the bench.*
 
@@ -76,3 +76,59 @@ Mau holds it out to her. It's the toe of a sock, too small for her.
 She takes it, and tells him how far she has to get before the light goes.
 
 He wishes her a good walk. Then he goes to help Fern make more copies.
+
+* * *
+
+Hollis catches up to Esther at the bridge. He's brought a hammer and nails in with the freight, and she takes the hammer without asking first. Her boy is in the notch in the wall. She waves him down to help hold the paper.
+
+“Where can you read it from?” she asks. ᴱˢ
+
+He walks out to the middle of the bridge and comes back to move the lower corner. Hollis puts a plank across the back of the notice so she has something to drive the nails into.
+
+A woman with a basket stops to watch. There are eggs in it, covered with a cloth. The boy reads the notice aloud for her. He has to sound out *tribute*, and the woman asks him what that means. He looks at Esther.
+
+“What they say you'll have to give up so they'll leave you alone.” ᴱˢ
+
+The woman sets her basket down. She wants him to read the line before that one again.
+
+On the far bank, a man comes out from beside the empty tollhouse. Esther knows the cuff of his coat. When he showed her the stamp he'd kept the other hand over the rip. Her boy sees him coming and puts one arm flat against the notice, as if he thinks the man can get a nail out while his mother is still holding the hammer.
+
+“Who signed it?” the man asks. ˣ
+
+“Fern. At the Inn. You can ask her about it yourself.” ᴱˢ
+
+He looks at Hollis, who is still holding the plank.
+
+“Did you see the man at the quarry?” ˣ
+
+He asks the question across Esther, as if he can get an answer worth keeping if he asks it far enough above her head.
+
+“I sold him onions yesterday,” Hollis says. ᴴᵒ
+
+“That isn't what I asked you.” ˣ
+
+“It's what I can tell you. He held the door while I brought them in.” ᴴᵒ
+
+The woman with the eggs has picked up her basket. She gets as far as the middle of the bridge and comes back. Esther thinks she's going to ask for a copy. Instead she asks whether the three coppers she paid yesterday will buy her anything if she crosses again today.
+
+The man puts his hand in his pocket. For one second Esther thinks he is going to give her the money back. He takes out the stamp and closes his fist round it.
+
+“It's for your house,” he says. “I told you that.” ˣ
+
+The woman looks at Esther's boy.
+
+“Read the bit about the houses,” she says. ˣ
+
+He reads it. He stumbles at the same word and then gets it out. The woman gives him a nod when he's done and crosses with the eggs. The man watches her go and takes the path down along the bank. Esther can't see where the path turns after the reeds.
+
+Hollis waits while she puts the second nail in. By then a carter has come up behind them, read as much as he wanted to, and turned his wagon around. She hears him tell the person beside him that the notice means somebody is going to come and count the houses himself.
+
+Her boy starts after the wagon.
+
+“Leave him,” she calls. ᴱˢ
+
+He comes back, unhappy. She gives him the last nail to hold. There is still space between the corner of the paper and the chalk mark.
+
+“Can you see your place from the other end?” she asks him. ᴱˢ
+
+He goes to look. She waits until he lifts a hand, then drives the last nail where it won't go through his wheel.

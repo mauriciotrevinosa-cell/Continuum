@@ -15,15 +15,15 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V61#5 | S10E01 CH05 | B+155 late morning | Ashby market outing. Mau sees chalk wheels and public fear. |
 | V61#6 | S10E02 CH01 | B+156 late morning | The south-post shadow reports the key delegation by slate to Jinshi. The lead rider supplies the written description of whom he seeks. Mau confirms the watch relays requests and waits for a house host. The keeper explains the quarry rumor and what they intended the captives for. The house asks to speak directly to them. |
 | V61#7 | S10E02 CH02 | B+156 midday | Rimuru and Fern bring water to the cart. The three travelers speak independently and accept guest lodging; Rimuru vouches at the shadow post. Key returned. |
-| V61#8 | S10E03 CH01 | B+156 afternoon | Yuka, Mai and Ori test the adjusted latch. Mau tells Yuka about the cart. |
+| V61#8 | S10E03 CH01 | B+156 afternoon | Yuka, Mai and Ori test the adjusted latch. Mau tells Yuka about the cart. Yuka visits the guest yard and lets West test the bolt from inside his own room. |
 | V61#9 | S10E03 CH02 | B+157 morning | House offers voluntary stay and written follow-up. Nell adds a return route through the mill to her letter. Keeper leaves. No reply yet. |
 | V61#10 | S10E04 CH01 | B+157 afternoon | Limited footwork with Gojo and Shoko clearance. Yuka invites Mau out. |
 | V61#11 | S10E04 CH02 | B+158 late morning | Mau and Yuka's private outing inside perimeter. Time together after clinic. |
 | V61#12 | S10E05 CH01 | B+158 afternoon | Hollis carries first wheel maker's testimony and message. Meaning already diverges. |
-| V61#13 | S10E05 CH02 | B+159 morning | Esther explains first wheel; Fern prepares notice against false road fees. |
+| V61#13 | S10E05 CH02 | B+159 morning | Esther explains first wheel; Fern prepares notice against false road fees. Esther and her son post it at the bridge with Hollis and get mixed responses. |
 | V61#14 | S10E06 CH01 | B+159 late afternoon | A boy brings eleven marks for his sister; Mau listens without giving a blessing. |
 | V61#15 | S10E06 CH02 | B+159 evening | Bocchi asks Fern to reopen family search and voluntary coin discussion. No spend yet. |
-| V61#16 | S10E07 CH01 | B+160 morning | House resumes voluntary family search/coin review, Jinshi keeps reservation. |
+| V61#16 | S10E07 CH01 | B+160 morning | Nell chooses to stay at the guest yard while awaiting her sister's letter; West and Perin begin planning for themselves. House resumes voluntary family search/coin review, Jinshi keeps reservation. |
 | V61#17 | S10E07 CH02 | B+160 evening | Ryo and Kita independently give Bocchi their original unspent coins. Bocchi, Kita and Seika confirm the already-agreed source day with DIO; Bocchi asks Mau, DIO and Seika to attend tomorrow. |
 | V61#18 | S10E08 CH01 | B+161 morning | Bocchi invokes her own coin; Futari and dog willingly arrive from the day Seika left. Futari recognizes Kita and Seika and learns the new girlfriend relationship. Mau, DIO and Fern support the reunion. |
 | V61#19 | S10E08 CH02 | B+161 continuous morning | Mother arrives on Ryo's gift, recognizes Kita and Seika and reunites with Nijika/Ryo. The few source-world days and Bocchi's lived years are distinguished. Father's invitation remains pending. |

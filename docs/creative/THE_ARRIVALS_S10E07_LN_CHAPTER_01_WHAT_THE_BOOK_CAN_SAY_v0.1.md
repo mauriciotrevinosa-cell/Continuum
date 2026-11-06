@@ -5,9 +5,35 @@
 **Volume:** 61
 **Reading order:** 16
 **Source episode:** S10E07
-**Continuity state:** B+160 morning. Fern reopens voluntary coin review. Jinshi retains Gaoshun reservation and checks a specific unverified report. No collective balance or allocation.
+**Continuity state:** B+160 morning. Fern reopens voluntary coin review. Jinshi retains Gaoshun reservation and checks a specific unverified report. Nell keeps the guest room while awaiting a reply. Perin and West start making their own plans. No collective coin balance or allocation.
 
-*When: Fern brings out the book they used before the wedding, Mai remembers which page had the drawing of the kitchens.*
+*When: Fern brings the guest-yard book out to the table, Nell sets two coins on the cover and keeps her hand over them.*
+
+“I've stayed more than a night,” she says. ˣ
+
+Fern has been out to see the rooms every morning. Nell has asked the same question each time, with her hand on the door so she can close it before she hears the answer if she needs to. This is the first time she's brought the coins.
+
+“Did somebody ask you for those?” Fern asks. ᶠᵉ
+
+“No. The courier left already. I thought if I paid I could ask you to keep the bed while I went to the mill.” ˣ
+
+Fern sets the chair beside her straight. Nell can reach it from where she's standing. She doesn't sit until Fern sits too.
+
+The mill has the letter. That much came back with a driver Hollis knows. Her sister might be working past the bend for another four days, and there is a woman at the mill who puts things by for people. Fern tells her all of it. If Nell goes to the mill herself, she can leave word of where she'll be. If she wants to wait, they can leave the room in her name.
+
+Nell moves her hand far enough to see the coins.
+
+“I think I want to be here when she answers,” she says. “I want to know what it feels like to get a letter that isn't an order.” ˣ
+
+She picks the coins up. Then she asks Fern how to find out whether somebody at the market would let her mend a coat for money, because the woman who brought West his has done both cuffs herself and it will take her all week if she goes on at that rate.
+
+Fern gives her Hollis's hours at the desk. Through the door she can see West and Perin putting a borrowed stool back outside. Perin is talking about the goat again. West tells him to write the name of the man who bought it on a separate bit of paper so he can stop starting from the beginning.
+
+Fern turns the guest book toward herself. She leaves the room in Nell's name.
+
+* * *
+
+When she brings out the book they used before the wedding, Mai remembers which page had the drawing of the kitchens.
 
 It's the page under the one with the names. Somebody pressed so hard on the plan that there's a rectangle you can feel through the back. Mai puts her finger there. The page above it is mostly empty.
 

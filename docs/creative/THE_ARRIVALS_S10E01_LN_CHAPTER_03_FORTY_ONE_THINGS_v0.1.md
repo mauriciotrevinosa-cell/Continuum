@@ -87,7 +87,7 @@ She looks at the paper for some time. She doesn't cross that one off. She moves 
 
 It takes until the shadow of the tree has reached their feet.
 
-People come through the courtyard on their own business. Taihei with a sack. Two of the schoolgirls, arguing. Nobody stops. Rimuru comes as far as the arch, sees the bench and the paper, and turns around with a great show of having forgotten something. There is sun on Mau's left knee, and he is more tired than he'd like to admit, and he wouldn't move for anything.
+People come through the courtyard on their own business. Taihei with a sack. Chloe and Alice, each insisting she'd been the one to find the ball. Nobody stops. Rimuru comes as far as the arch, sees the bench and the paper, and turns around with a great show of having forgotten something. There is sun on Mau's left knee, and he is more tired than he'd like to admit, and he wouldn't move for anything.
 
 “Forty,” Yuka says. “I don't remember what I meant by this one. It just says ‘the spoon.’” ʸ
 

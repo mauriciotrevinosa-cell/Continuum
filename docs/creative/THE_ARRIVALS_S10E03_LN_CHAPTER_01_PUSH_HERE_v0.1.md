@@ -5,7 +5,7 @@
 **Volume:** 61
 **Reading order:** 8
 **Source episode:** S10E03
-**Continuity state:** B+156 afternoon. Mau and Yuka talk after the delegation. Latch adjusted and tested after installation. Jinshi checks orders and the path back; no public correction yet.
+**Continuity state:** B+156 afternoon. Mau and Yuka talk after the delegation. Latch adjusted and tested after installation. Yuka takes a request to the guest yard and returns to her workshop. The captives begin deciding what they want recorded. Jinshi checks orders and the path back; no public correction yet.
 
 *When: Mau gets back to the practice room, somebody has got the door to shut without a fight.*
 
@@ -98,3 +98,41 @@ He puts his hand down on the bench beside hers.
 “In a minute.” ᴹ
 
 She looks at the short distance between them, shifts over enough to close it and stays until the minute is up.
+
+* * *
+
+When she gets to the guest yard, Fern is in the middle of carrying a washbasin to the rooms. There's a smaller one still on the step. Yuka picks it up and asks where it goes.
+
+“West asked for it,” Fern says. “His is the one with the door open.” ᶠᵉ
+
+He has put his cup on the ledge outside the room. It has the lopsided handle Mau told her about. He'd seen West set it by his boot when Rimuru brought him water. She sets the basin beside it.
+
+“I can bring water too,” she says. ʸ
+
+West comes to the door. He's taken his shoes off. There is a little pile of road dust at the edge of the mat where he knocked them together.
+
+“Is that the only door?” he asks. ˣ
+
+“There's a way into the yard from the other end. You can go out either way.” ʸ
+
+He looks past her as Fern takes the larger basin into Nell's room.
+
+“I meant this room.” ˣ
+
+Yuka looks at the door. The latch has a thumb piece on both sides. She can see the little brass knob of the bolt on the inside, just past his elbow.
+
+“That's the only door,” she says. “Have you tried the bolt?” ʸ
+
+He steps away to let her do it. She shows him which way it slides, then moves her hand so he can try it. He closes the door and she hears the bolt go across. It takes him a while to open it again.
+
+“Can I have the cup back inside?” ˣ
+
+She gives it to him. He takes the basin too, and she hears him set both down before the bolt moves again.
+
+At the other end of the yard, Nell asks Fern to leave her door open. Yuka goes back to the practice room, where Mai has already laid out two different pins. The shorter one is the one Yuka told her wouldn't work.
+
+“Have you put it in yet?” Yuka asks. ʸ
+
+“I was waiting for you so you'd see it work.” ᴹᵃⁱ
+
+Yuka pulls up her stool.

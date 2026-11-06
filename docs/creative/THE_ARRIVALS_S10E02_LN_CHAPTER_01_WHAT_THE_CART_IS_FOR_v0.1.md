@@ -11,7 +11,7 @@
 
 Mau has one foot on the stairs when he hears two taps at the window.
 
-A shadow in a guard's coat stands on the other side. It's wearing a strip of pale cloth on its wrist so the people at the guest desk can tell it's come in from a post. It lays the little slate from the south turn flat on the sill. Jinshi puts one finger over the corner so it won't slide.
+A shadow in a guard's coat stands on the other side. A strip of pale cloth is tied round its wrist. Mau remembers Muster knotting the first ones at this window while Anko walked the road to see where the signals stopped carrying. It lays the little slate from the south turn flat on the sill. Jinshi puts one finger over the corner so it won't slide.
 
 “A cart and five on the road,” he reads. “They asked for a meeting but wouldn't give the post all their names. Has anyone passed the marker?” ᴶⁱ
 
@@ -21,7 +21,9 @@ Mau comes back down the step. He used to check that turn through the soldier's e
 
 “Same thing as when I was upstairs,” Mau tells the soldier. “If someone asks to come in, bring it to the desk. One of us will come out to meet them.” ᴹ
 
-Jinshi turns the slate so he can see the bottom. Mau sees the last line and wishes he had let Jinshi read it first.
+The soldier points to the bottom of the slate. There's a second hand there. The lead rider has written three words under the request for a meeting: *the quarry man*.
+
+Mau reaches for the slate, then leaves it where it is. The soldier looks to Jinshi for the answer.
 
 “Keep the wicket shut for now,” Jinshi says. “I'll go down.” ᴶⁱ
 

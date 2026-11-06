@@ -17,7 +17,7 @@ He touches the edge of a sleeve.
 
 West takes it. He checks the pockets and puts it on. He doesn't say thank you. She waits until she can see that he doesn't want to say anything else and goes to get her breakfast.
 
-At the other end of the table Nell is trying to read a page Jinshi has given her. It says what they can verify. Somebody asked that she be held. Nobody brought the order with them, and the messenger who has gone to look for it is carrying her name, rather than her.
+At the other end of the table Nell is trying to read a page Jinshi has given her. It says what they can verify. Somebody asked that she be held. Nobody brought the order with them. The courier will carry Nell's name upriver to find out whose order it was. Nell can stay here to hear what comes back.
 
 She turns it over.
 

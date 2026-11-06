@@ -53,6 +53,18 @@ Jinshi reads it. It says what they did and who stepped out of the cart. It says 
 
 The courier has a copy. A second copy will go with the keeper. Nell's letter has a different destination. None of them needs Mau's seal.
 
+“Will she be able to write back with you?” Nell asks. ˣ
+
+The courier has already put one foot in a stirrup. She takes it out again and comes to the wicket. She can get a letter as far as the mill on this trip. Someone from the mill goes up to Nell's sister's road on market days, if the river stays down.
+
+Nell asks for the letter back. Fern brings the pencil and offers to hold the page flat, but Nell uses the top of the wicket. She adds a line in her own hand. From where Mau stands he can only see that the words go right up to the fold.
+
+“I said she can leave it at the mill herself,” Nell tells the courier. “She doesn't have to come all this way till she knows where I am.” ˣ
+
+Fern asks what she'd like to tell her about where she is.
+
+Nell looks past her toward the guest yard. The door she came out of is still open. She tells Fern she'll put that in the next one, when she knows what it's like to stay a day.
+
 Perin comes along behind him and asks if he can say something to the keeper. The keeper looks around before he realizes nobody else is going to answer.
 
 Perin says he wants the owner of the goat told that he will pay him if he is allowed to come back and work. He would rather the answer come here in writing. He doesn't want to get in the cart to hear it.

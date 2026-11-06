@@ -85,6 +85,30 @@ He can see her in the kitchen he showed them, arguing over a door because she'd 
 
 She laughs again. This time she gets the second breath.
 
+Then she puts the glass down.
+
+“I asked you if we were going to have a family,” she says. ʸ
+
+He remembers where her head was on the pillow when she asked. He'd been able to see one eye above the fold in the blanket. He'd told her yes before she shut it.
+
+“I did mean that,” he says. ᴹ
+
+“Give me your hand.” ʸ
+
+He puts it out. She turns it just enough to look at the band.
+
+“You are doing it,” she says. “Look.” ʸ
+
+He looks. He can see where Yuka catches the ring with her thumb when she puts his hand back into his own lap. He waits. She has turned her face toward the door again. He can hear Maki moving a little farther away on the other side.
+
+“I wanted to get there from here,” Yuka says. “I thought I had tomorrow to tell you some more about it.” ʸ
+
+Mau thinks about the breakfast she wanted. He'd been thinking of all the mornings he could show her. There was one she had been expecting to get up for.
+
+He stays with her while she cries about that one.
+
+When she reaches for the glass again he puts it close enough that she can take it herself.
+
 * * *
 
 She asks about the body he came home in. He tells her enough to account for the scars she can see and the years she has heard him leave out. The rest stays where it is until she asks for it.

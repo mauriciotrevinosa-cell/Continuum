@@ -7,9 +7,9 @@
 **Source episode:** S10E02
 **Continuity state:** B+156 midday. House obtains the travelers' separate accounts. Captives released from the cart with their consent and admitted to guest yard. No territorial transfer, automatic pardon, or supernatural interrogation. Mau returns the grainhouse key and asks the keeper to report what happened.
 
-*When: the runner brings the jug, the keeper holds out both hands for it.*
+*When: Rimuru brings the jug from the receiving desk, the keeper holds out both hands for it.*
 
-Fern asks him to step back. Then she takes a cup herself and goes around the side of the cart. The runner stays beside her with the jug. There is just enough room behind it for a person to come down if the woman on the axle gets off.
+Fern asks him to step back. Then she takes a cup herself and goes around the side of the cart. Rimuru stays beside her with the jug. There is just enough room behind it for a person to come down if the woman on the axle gets off.
 
 “You can bring the stool from the marker,” Fern tells her. ᶠᵉ
 
@@ -63,7 +63,7 @@ On the other side of the cart, Perin asks Fern whether she wants the name of the
 
 Nobody signs a surrender. Fern asks the three separately whether they want to stay overnight in the guest yard while Jinshi verifies the orders. Perin asks about the price of the bed. Nell says yes before she can hear an answer. West looks as far as the open wicket, sees where the yard begins and says he can get that far.
 
-Rimuru walks with them. At the marker he tells the guard who is coming through and why. The cart stays where it is.
+Rimuru walks with them. At the marker he tells the shadow at the wicket their names and says Fern is receiving them in the guest yard. The soldier opens the wicket. It stays at its post while Rimuru shows West how far it is to the yard. The cart stays where it is.
 
 Mau bends for the key. It takes less out of him than he expected and a little more than he wants anyone to see. He stands back up with it on the flat of his hand. The keeper looks at the hand, then down at his own coat, as if he is searching for the place he was supposed to put the other keys.
 

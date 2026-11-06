@@ -29,9 +29,37 @@ Umaru takes a sip from a cup she has forgotten to let cool. It takes a moment be
 
 “Did you think you wanted to go?” she asks. ᵁ
 
-“I thought about how I'd have answered before. I didn't want to give him that answer.” ᴿᵉ
+“I thought about how I'd have answered before. I thought he was the only person who saw anything in me I hadn't done for him yet. I would have gone with him. I might even have called that being happy.” ᴿᵉ
 
 Umaru runs a thumb along the handle. She has taken hold of it in both hands and is beginning to see how warm it is.
+
+“Do you remember when Mau left that room empty?” Rem asks. ᴿᵉ
+
+“The one with the little window? I tried to annex it.” ᵁ
+
+“Three times.” ᴿᵉ
+
+“It was a good window.” ᵁ
+
+Rem smiles. It goes away slowly enough that she can feel the difference.
+
+“I spent months waiting for him to ask me to move in. I'd made up an answer for when he did. Then one day I asked him myself, and I found out he'd been waiting to see if I wanted it.” ᴿᵉ
+
+She looks down at the cup. There's a little bit of tea in the saucer now. The kettle had been full when she poured and she can remember spilling it. For some reason that makes it easier to keep talking.
+
+“I'm angry,” she says. “I still want him to have somewhere to go. I hate that he said it like he thought it would make me forget I already have somewhere. I hate that for a second I was glad to hear him say it.” ᴿᵉ
+
+Umaru starts to speak, then sets the cup down so she can turn all the way around.
+
+“Did you want me here even before I said I'd bring anything?” Rem asks. ᴿᵉ
+
+“I asked you first,” Umaru says. “I didn't even know there were going to be buns. You told me that two days later.” ᵁ
+
+Rem makes a sound she had been hoping would turn out to be a laugh. Umaru moves her plate out of the way and puts her arms around her. Rem gets hold of the back of her sleeve. She doesn't say anything else until the grip stops hurting her fingers.
+
+“You're getting crumbs in my hair,” Umaru says eventually. ᵁ
+
+Rem draws back just far enough to see. There are no crumbs in Umaru's hair. There's one on her own sleeve, and Umaru picks it off and eats it in front of her.
 
 “I would've missed you,” she says. ᵁ
 

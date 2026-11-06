@@ -13,6 +13,16 @@
 
 She points to the station, then the road he described. He follows it to the edge of the sheet.
 
+“I've been trying to tell the story in the right order,” he says. “I keep leaving the same thing out. The man with the cart asked me which way I wanted to go. I told him to take me back to the capital and he asked which capital.” ˢᵇ
+
+“What did you tell him?” ᴿᵉ
+
+“I got angry. I thought he was making fun of me.” ˢᵇ
+
+She lets him look at the road. After a little while he asks where she was when she first woke up here. She tells him a little of it, and how she had the same trouble with the road signs. He shifts his hand to make room for her to show him. For that much of the afternoon, he's listening to her.
+
+Then he reaches the edge of the map again.
+
 “What's over there?” ˢᵇ
 
 “We haven't been that far on that road.” ᴿᵉ
@@ -51,7 +61,9 @@ He looks at her. His mouth moves. She can see that he would like to say he alrea
 
 Rem sits down on the other side of the map. Her cup has gone cold. She drinks from it anyway.
 
-She tells him about the first time Mau asked her if she wanted something and waited through the whole silence while she worked out whether she could say yes. She tells him she has a room where she can hear Ram come home. She tells him about Umaru, who left a raisin bun on a plate all afternoon because nobody was allowed to eat the wrong one. She gets to the part where she and Umaru are going to take a walk after supper and finds she can say that too.
+“I have a room here. I have things I'm looking forward to tomorrow. I was looking forward to seeing you today, too.” ᴿᵉ
+
+She takes another breath. She was going to tell him what she and Umaru had planned for after supper. She finds she wants to keep the evening where it is. She doesn't owe it to him as a reason to stay.
 
 Subaru starts to tell her he could make her happy at home.
 

@@ -157,7 +157,29 @@ A shadow comes up far enough to see along the path. Another takes the edge of th
 
 Tonight he keeps looking for the line where the wall of a room has been made to look like the sky.
 
-There isn't one.
+At the far end of the fence, a scout sees something pale move between two posts. Mau calls the second one down from the roof to get a view of it from the other side. He goes as far as the gate himself. The pale thing catches on a nail for long enough that he can see two corners. He thinks it's the map.
+
+The scout lifts it off the nail.
+
+It's a strip of cloth. There are two stitches along one edge. Somebody had torn it off a sleeve and used it to mark the loose board in the fence so Ori wouldn't put her weight on it. Mau remembers coming out to find the hammer there.
+
+He sends the scout on past it.
+
+*Which one are you trying to see through?* Ciel asks. ᶜ
+
+*The one beside the wall at Walpurgis.* ᴹ
+
+He hadn't left one beside the wall. He'd had a shadow under his own feet. He tries the place anyway, trying to find where it should be from the last thing he'd seen.
+
+*I can give you the scout by the fence,* Ciel says. *I don't have a road with that name.* ᶜ
+
+He takes the scout by the fence. He knows where to put it to see the whole yard. He could put ten there and find the same gate on the other side of each pair of eyes.
+
+Mau puts his hand flat against the gate. He gives it the smallest push he knows how to give anything. The hinges move. Beyond it, everything stays down where it belongs.
+
+He had thought he could make the drop happen in the other direction.
+
+He comes back to the path in front of the house. He can see the light from the open door reach as far as the last step.
 
 Rimuru stops at the bottom of the steps.
 

@@ -21,7 +21,17 @@ He looks at the map. He knows which bit of the sheet he had his hands on when he
 
 “I thought you'd want to come too.” ˢᵇ
 
-“I don't.” ᴿᵃ
+“I don't. And if you'd spent half as long listening to Rem as you did telling her why she should go, you'd have heard her say the same.” ᴿᵃ
+
+He opens his mouth.
+
+“I know you were scared,” Ram says. “I watched you get off that bench. Then you came here and told her you loved her because you thought she couldn't refuse you after that.” ᴿᵃ
+
+“I didn't think it would hurt her.” ˢᵇ
+
+Ram holds his gaze. He reaches for the cup and leaves it where it is.
+
+“I thought it would work.” ˢᵇ
 
 There is a considerable silence. She has already put the right amount of tea in her cup. While he thinks about that, she drinks it.
 
@@ -57,7 +67,7 @@ Ram waits.
 
 “Can you tell me when she's usually at the kitchen?” he asks instead. ˢᵇ
 
-“Ask her tomorrow if she wants to talk. Ask once.” ᴿᵃ
+“Leave her be for now,” Ram says. “I mean it, Subaru. Let her decide when she wants to see you.” ᴿᵃ
 
 He looks down at the line he drew. He says he can do that.
 
@@ -66,3 +76,15 @@ She has her hand on the door when he asks whether she wants the tea warmed. She 
 “I do,” says Ram. “Use the other hand.” ᴿᵃ
 
 He changes hands. When he pours, she doesn't give him the cup to hold. She leaves it on the table where he can see how much room there is.
+
+* * *
+
+Seika is waiting by the bend with the stand under one arm. Ram had said she'd help carry the rest of it over before supper. Seika has done up the loose screw and has the other pieces in a cloth bag. She holds the bag out, then takes another look at Ram's face and keeps it.
+
+“Do you want me to walk back with you?” ˢᵉ
+
+Ram had meant to go straight to Rem's door. From here she can see the yard where Rem and Umaru are putting the good cups out. Rem has taken her hair down and is holding a spoon up to the light because Umaru has told her there's something on it.
+
+“Yes,” Ram says. “The long way.” ᴿᵃ
+
+Seika puts the stand up on her shoulder. At the next fork she turns the way that goes past the tree, as if that's where she meant to go all along. Ram reaches for the bag this time. Seika lets her take it, and keeps her free hand close enough that Ram can take that too.

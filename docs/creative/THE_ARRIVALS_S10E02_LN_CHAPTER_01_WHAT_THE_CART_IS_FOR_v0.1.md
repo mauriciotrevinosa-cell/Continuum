@@ -9,13 +9,23 @@
 
 *When: B+156, late morning. Mau is on his way up to look at the new door when Jinshi crosses the hall below him, with his register folded open over one arm.*
 
-Jinshi doesn't stop to ask how he feels. He goes straight to the open window and asks the runner to repeat what he saw.
+Mau has one foot on the stairs when he hears two taps at the window.
 
-There's a delegation on the south road. They've brought a cart. Their lead rider has asked for a meeting and declined to name the people travelling with him.
+A shadow in a guard's coat stands on the other side. It's wearing a strip of pale cloth on its wrist so the people at the guest desk can tell it's come in from a post. It lays the little slate from the south turn flat on the sill. Jinshi puts one finger over the corner so it won't slide.
 
-“They can tell us from the road,” Jinshi says. “Leave the marker closed.” ᴶⁱ
+“A cart and five on the road,” he reads. “They asked for a meeting but wouldn't give the post all their names. Has anyone passed the marker?” ᴶⁱ
 
-The runner leaves. Mau can tell when Jinshi turns around that he has known Mau was there the whole time.
+The soldier shakes its head.
+
+Mau comes back down the step. He used to check that turn through the soldier's eyes when a signal came in. He can feel the other sentry still in place if he reaches for it. Last week he'd needed help to get to the window himself. The slate is already under Jinshi's hand.
+
+“Same thing as when I was upstairs,” Mau tells the soldier. “If someone asks to come in, bring it to the desk. One of us will come out to meet them.” ᴹ
+
+Jinshi turns the slate so he can see the bottom. Mau sees the last line and wishes he had let Jinshi read it first.
+
+“Keep the wicket shut for now,” Jinshi says. “I'll go down.” ᴶⁱ
+
+The soldier takes the slate and leaves by the yard. Jinshi looks up at Mau.
 
 “They asked for the man from the quarry.” ᴶⁱ
 
@@ -83,7 +93,21 @@ The keeper has not looked directly at him yet. He does now, and for a moment the
 
 Mau waits.
 
-“At the quarry. We thought if we came to you before you came to us, with something to eat already, there wouldn't be any need for you to come.” ᴱᵐ
+“At the quarry. We thought if we came to you before you came to us, there wouldn't be any need for you to come.” ᴱᵐ
+
+Mau looks for something on the cart that can explain the key in the road. A sack of grain from the building the man just offered. Something for a table. He sees a blanket pinned under a boot on the axle and the end of the cord in the woman's hand. She tightens it when somebody inside moves.
+
+“Did you bring them to work here?” he asks. “Is that what somebody told you we'd take?” ᴹ
+
+The keeper looks at the cart so sharply that the woman takes her boot off the blanket.
+
+“We brought food for the road,” she says. “There's still bread in the front. I gave them some when he let me.” ˣ
+
+“He isn't asking about the bread,” the keeper tells her. ᴱᵐ
+
+Then nobody helps him say it.
+
+“We heard you'd eaten the one you killed,” he tells Mau. “We thought if you had enough here, you'd leave the rest of us alone.” ᴱᵐ
 
 Fern closes the book over one finger.
 
@@ -117,6 +141,6 @@ For the first time since they arrived, somebody inside asks a question.
 
 “Is there water?” ˣ
 
-Fern turns to the runner.
+Fern turns to Rimuru.
 
-“Four cups,” she says. “Leave the jug.” ᶠᵉ
+“Four cups from the desk,” she says. “Bring the jug too.” ᶠᵉ

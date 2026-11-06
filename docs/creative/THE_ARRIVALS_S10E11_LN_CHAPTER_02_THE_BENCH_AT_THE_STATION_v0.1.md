@@ -9,6 +9,10 @@
 
 *When: Rem sees the bench outside the way station, she recognizes the person sleeping on it by the way one heel hangs over the side.*
 
+They'd put their old dresses on that morning. It had been Ram's suggestion. If the man at the station really was Subaru, there would be two things on the road he knew by sight.
+
+The skirt catches against Rem's knees when she walks. She'd forgotten that about it. She keeps wanting to put her hands into pockets that aren't there.
+
 Ram stops at the edge of the shade. There is a coat over him that belongs to the station. The station keeper comes out to say he has been there since before her shift started and asked her to wake him at sunrise. She woke him. He thanked her, walked to the water barrel and came back to the bench.
 
 “Has he eaten?” Rem asks. ᴿᵉ

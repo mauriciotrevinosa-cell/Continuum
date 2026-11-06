@@ -29,13 +29,29 @@ Ram says she has to go and tells him where he can find someone if he needs anyth
 
 He looks up. He had been expecting her to make fun of him. She has gone before he thinks of something to say about that.
 
+He goes down by himself. Jinshi has shown him the route to the front desk, and on the way he takes the wrong turning and finds a table with a loaf on it. Somebody has cut one slice out of the middle and left both ends leaning together.
+
+“There's a knife if you want some,” a woman at the table says. She has a pencil behind one ear and two pieces of a music stand laid out in front of her. “You might want somebody else to cut it with that hand.” ˢᵉ
+
+“I was looking for Ram.” ˢᵇ
+
+“You've just missed her. She had a thing she wanted to do before lunch.” ˢᵉ
+
+He almost asks what. The woman moves a piece of the stand clear of the bread. It occurs to him that Ram might have said what she wanted to do to the people she'd arranged to do it with. He can't imagine how many of those people there might be.
+
+“Would you cut me a piece?” he asks. “If that's all right.” ˢᵇ
+
+“Sit down a second.” ˢᵉ
+
+By the time he gets up he's had two pieces. The woman's name is Seika. She has told him that if he's looking for a map he'll have better luck asking at the desk than knocking on doors. He thinks of offering to put the stand together for her. When he takes a proper look there are two little holes that need drilling and nothing he could get a good grip on. He takes his own plate as far as the basin instead.
+
 * * *
 
 Rem is in the yard with Umaru. Umaru has a basket between her feet. She is holding a cup out and asking if the crack goes through. Rem puts water in the cup so they can both see. It comes out against Umaru's thumb.
 
 “We can use mine,” Rem says. ᴿᵉ
 
-Subaru stops in the doorway. He has seen Rem at a table with a tray. He has seen her listen to a person speak and wait for her turn. She is sitting on the ground with her skirt under her knees, and she takes the cup from the other girl's hand before the water can get onto her sleeve.
+Subaru stops in the doorway. He has seen Rem at a table with a tray. He has seen her listen to a person speak and wait for her turn. She's changed out of the dress she wore to the station. She is sitting on the ground in a loose shirt and a skirt with a pocket big enough to swallow a whole spoon, and she takes the cup from the other girl's hand before the water can get onto her sleeve.
 
 “Rem,” he calls. “Can I borrow you?” ˢᵇ
 

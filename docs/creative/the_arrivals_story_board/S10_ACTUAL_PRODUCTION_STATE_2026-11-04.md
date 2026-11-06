@@ -13,10 +13,10 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V61#3 | S10E01 CH03 | B+153 afternoon | Yuka tells Mau what she saved up during his recovery. |
 | V61#4 | S10E01 CH04 | B+153 late afternoon | Yuka shows Mau her recovery drills for when the Garden loses. |
 | V61#5 | S10E01 CH05 | B+155 late morning | Ashby market outing. Mau sees chalk wheels and public fear. |
-| V61#6 | S10E02 CH01 | B+156 late morning | Key and cart arrive. House asks to speak directly to captives. |
-| V61#7 | S10E02 CH02 | B+156 midday | The three travelers speak independently. Key returned. |
+| V61#6 | S10E02 CH01 | B+156 late morning | The south-post shadow reports the key delegation by slate to Jinshi. Mau confirms the watch relays requests and waits for a house host. The keeper explains the quarry rumor and what they intended the captives for. The house asks to speak directly to them. |
+| V61#7 | S10E02 CH02 | B+156 midday | Rimuru and Fern bring water to the cart. The three travelers speak independently and accept guest lodging; Rimuru vouches at the shadow post. Key returned. |
 | V61#8 | S10E03 CH01 | B+156 afternoon | Yuka, Mai and Ori test the adjusted latch. Mau tells Yuka about the cart. |
-| V61#9 | S10E03 CH02 | B+157 morning | House offers voluntary stay and written follow-up. Keeper leaves. |
+| V61#9 | S10E03 CH02 | B+157 morning | House offers voluntary stay and written follow-up. Nell adds a return route through the mill to her letter. Keeper leaves. No reply yet. |
 | V61#10 | S10E04 CH01 | B+157 afternoon | Limited footwork with Gojo and Shoko clearance. Yuka invites Mau out. |
 | V61#11 | S10E04 CH02 | B+158 late morning | Mau and Yuka's private outing inside perimeter. Time together after clinic. |
 | V61#12 | S10E05 CH01 | B+158 afternoon | Hollis carries first wheel maker's testimony and message. Meaning already diverges. |

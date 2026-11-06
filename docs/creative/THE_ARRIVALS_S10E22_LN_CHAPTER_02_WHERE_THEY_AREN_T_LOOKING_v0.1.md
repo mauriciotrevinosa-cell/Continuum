@@ -33,15 +33,35 @@ He looks where the legs stopped. Frieren asks Richeh if she wants to step back. 
 
 Richeh looks where she's pointing. She says no, she thinks it came farther around. Ori gives her the charcoal. Together they put a mark where the dark reaches over the path. On the way back somebody will look there first.
 
-Mau takes a cold can out of the lunch bag and puts it in Milim's hand. She looks at it. She had been expecting him to ask if she was sure she got all of it.
+Mau buys a cold can from his shop, takes it straight out of inventory and puts it in Milim's hand. She looks at it. She had been expecting him to ask if she was sure she got all of it.
 
-“That's for looking up,” he says. ᴹ
+“That's for the Guardian,” he says. “You looked up before any of us did.” ᴹ
 
 “You're supposed to do that for free.” ᴹⁱ
 
 “I know.” ᴹ
 
 She opens it anyway. He takes the first bag off her shoulder while she drinks.
+
+* * *
+
+Halfway along the ledge, Ori puts her hand up again. The line on the scout sketch is supposed to go down to a lower floor with a short drop at the end. She can see the floor. The last part of the ledge has fallen onto it.
+
+“I could carry them,” says Gojo from the back. ᴳ
+
+Ori looks down. It's an easy drop for Gojo. He would have everybody across in less time than it would take her to draw the change. Then he would have to take them all back out the same way.
+
+“If he carries us over,” she asks Richeh, “can you get back from there by yourself?” ᴼ
+
+Richeh looks over the edge once. “I could get down. I don't think I could get up.” ᴿᶜ
+
+Ori backs up. A little stone goes over where her toe was. She hears it hit once and roll. Behind her, Chloe has already turned the map so the entrance is at the top.
+
+“We should go back to the fork,” Ori says. “If the other way's wrong too, we go out and tell them the sketch needs fixing.” ᴼ
+
+Suika holds the charcoal while Ori crosses out the line. They go back far enough to see the tracks again. Coco notices a place where a fresh print covers an older one, with both toes pointing toward the chamber. When Ori asks what would let them walk that way, Richeh points at the high edge of the passage. From there they can look down the whole bend without putting their feet on the track.
+
+Frieren goes as far as the corner to check it. When she comes back she lets Richeh show Ori where to lead them. This time Mau looks up before he follows.
 
 * * *
 

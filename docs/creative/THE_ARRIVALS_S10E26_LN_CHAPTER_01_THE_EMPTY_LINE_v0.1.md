@@ -29,6 +29,16 @@ Mau reads the note. Someone has tried to draw the mark the men were wearing. It 
 
 Mau sets the note down. That, at least, is something he can bring home. Rimuru uncaps his pen.
 
+“Fern put up a notice at Ashby,” Mau says. “Somebody read it and thought we were coming to count the houses. If we give these drivers another notice, let them ask a person about it.” ᴹ
+
+Leon looks toward the map. “Who do you have in mind?” ᴸᵉ
+
+“The woman bringing the oil knows that road better than I do. Let her name somewhere she'd actually stop. Somebody who won't go straight to the men who stopped her with what she told them.” ᴹ
+
+Luminous looks at the letter again. There's a line at the bottom that hasn't been read aloud. The driver wrote it in a different hand from the person who took the account. Luminous reads out the part about the flour shed at the crossing. The woman buys a measure there every trip and can talk to the keeper while somebody looks after her wagon.
+
+Rimuru writes down *flour shed*, then turns the note so Luminous can see whether he's got the road right.
+
 “The first wagon didn't stop on account of a seal,” Guy says. “It stopped because the driver had seen you fight.” ᴳᵘ
 
 Mau looks at the three marks on the map. Someone has made them all the same length. The driver who saw the quarry still had to get his oil delivered. Mau tries to imagine how far he would have gone before deciding it was worth finding out if the men were bluffing.

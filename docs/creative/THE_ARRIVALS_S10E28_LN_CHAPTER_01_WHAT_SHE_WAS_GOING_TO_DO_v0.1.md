@@ -97,6 +97,22 @@ Maki pulls out a chair. It makes a rough sound all the way across the floor.
 
 He does.
 
+Yuka keeps standing. She puts the blanket down on the chair next to his. He starts to move it because he thinks she's going to sit. She takes it back off him.
+
+“I was going to ask you to stay when I woke up,” she says. “I knew I'd want to.” ʸ
+
+He opens his mouth.
+
+“You don't have to tell me what you would've said,” she tells him. ʸ
+
+He shuts it again. She looks at him until she's sure he's heard. Then she takes the blanket over to the stairs and sits on the bottom one, where she can see the door and be as far as she likes from the chair he offered her.
+
+Maki goes as far as the newel. She asks whether she should stay. Yuka nods. Maki sits one step up, and the first thing she does when she sits is pull the blanket over Yuka's cold feet.
+
+Mau leaves them there. He sits with his hands open on his knees. He'd spent the whole walk down looking for a door that would take him home. The door beside him is still open. Nobody is keeping him in the chair.
+
+For the first time since he fell, he stops looking past the people in the room.
+
 * * *
 
 Shoko checks his eyes because the first thing Rimuru told her was that he'd fallen. Mau follows her finger. She asks how many of her hands he can see.

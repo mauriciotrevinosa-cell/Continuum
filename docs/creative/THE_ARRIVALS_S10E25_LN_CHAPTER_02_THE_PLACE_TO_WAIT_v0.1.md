@@ -51,7 +51,7 @@ Mau puts the strap of his bag over his wrist. That is about as much of a handhol
 
 * * *
 
-They land short of the hall. There is a place where the road bends around a low wall with a covered bench inside it. Mau takes the map out to see if it is the place Rimuru showed him. It is. From the bench he can see the opening at the far side of the wall. He tells Rimuru that if he's not in the hall, this is where he'll be.
+Kaisel sets them down short of the hall. Mau thanks him and calls him back before they go any closer. There is a place where the road bends around a low wall with a covered bench inside it. Mau takes the map out to see if it is the place Rimuru showed him. It is. From the bench he can see the opening at the far side of the wall. He tells Rimuru that if he's not in the hall, this is where he'll be.
 
 Rimuru takes a look for himself. Then he asks if Mau wants him to come out the first time they get a break.
 

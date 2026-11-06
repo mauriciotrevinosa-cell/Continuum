@@ -1,68 +1,94 @@
 # The Arrivals — Light Novel — Volume 63
-## Chapter 10 — The Notice at the Outer Desk
+## Chapter 10 — The Biscuit Inquiry
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 63
 **Reading order:** 10
 **Source episode:** S10E23
-**Continuity state:** B+169 afternoon. Hollis finds the copied Fort notice and asks who can order for it. Yuka and Jinshi hold the trade change pending talks. No foreign state recognized or trade embargo.
+**Continuity state:** B+169 late afternoon. Umaru tests the Fort cupboard rules in the common room. Yuka volunteers to sit with the Fort at a household meeting. Frieren suggests the Fort needs a queen if it wants Mau to follow orders. No trade notice, outside involvement or transfer of authority.
 
-*When: Hollis asks which of the two accounts he should put the biscuits on, Jinshi tells him there is one account.*
+*When: Umaru puts up a notice at the outer edge of the Fort desk, the first person to read it is the person it was written about.*
 
-Hollis sets down the copy he took from the outer desk. It has a drawing of a cupboard at the bottom. He points at it, then at the signature.
+“Why does it say I'm a repeat offender?” Rem asks. ᴿᵉ
 
-“That's the man who told me last month that the Fort could have its own delivery if the rest of you would quit eating it,” he says. ᴴᵒ
+Umaru gets down from the chair. She had put the notice high enough for Rem to see it and had not thought through what would happen when she did.
 
-“Did he give you a second account?” Jinshi asks. ᴶⁱ
+“You can contest it.” ᵁ
 
-“I thought this was it.” ᴴᵒ
+“What did I do?” ᴿᵉ
 
-Jinshi looks at the copy again. It says *independent* clearly enough. The clerk has been very careful about the letters. A person who wanted to know where to deliver an order could fairly ask what that meant.
+“Moved the reserve.” ᵁ
 
-Yuka comes in with the original folded in her hand. She sets it next to the copy. Hollis looks at the cupboard on both. It has two doors and a small jar standing on top, reproduced with quite exceptional accuracy.
+Rem considers that. The reserve is a tin containing six biscuits. It has been beside the stove since breakfast. She moved it because it was warming up.
 
-“Would you mind waiting until tomorrow for an answer?” she asks. ʸ
+“I did move the reserve.” ᴿᵉ
 
-Hollis thinks about his wagon. It is parked on level ground and nobody has to be anywhere with it until morning.
+Umaru puts a mark in the column for findings. Rem puts the tin on the desk.
 
-“What do you want me to do with the biscuits?” ᴴᵒ
+“Somebody else ate two while it was warm,” she adds. ᴿᵉ
 
-Yuka looks at the original.
-
-“Find somewhere very high.” ʸ
+Umaru stops writing. She takes the lid off and looks inside.
 
 * * *
 
-Umaru comes to the desk after she has entered the last chamber in the expedition record. The first thing Yuka asks is what she would like the Fort to manage. Umaru says the cupboard, and the little drawer where they keep the labels, and the way people can ask to borrow anything out of either one. She has already had to ask Rem about the labels because some of them have Rem's writing on them.
+Ori comes back from putting the expedition map away and finds the Fort notice spread out beside two round marks where the biscuits were.
 
-“Do you want a trade account?” Yuka asks. ʸ
+“Do you want me to look for crumbs?” she asks. ᴼ
 
-Umaru has not thought about that. There is a pause in which she takes the question very seriously indeed.
+“There were crumbs,” Umaru says. “I asked Gojo if they were his. He said he was willing to claim them.” ᵁ
 
-“Could we have a delivery?” ᵁ
+Yuka is leaning on the end of the desk. She's still wearing the clip Mau made her. She has put it in backward so that the rounded end holds the shorter hair off her cheek.
 
-“You could ask for one.” ʸ
+“Did he eat the biscuits?” she asks. ʸ
 
-“Can I ask you to sit with us?” ᵁ
+“He said if I wanted to find out he'd need to examine the ones we had left.” ᵁ
 
-Yuka looks down at the paper. She had been planning to explain what was written on it to somebody. She would rather explain it to Umaru before they get to the point where both sides are looking at her.
+Yuka turns the cupboard paper over. It has a drawing of both shelves and room to put the name of the person who closed up. That would work. The part on the other side says the Fort is independent in matters it manages on its own behalf. There is quite a lot of room in those words for a man who wants to examine a biscuit.
 
-“I'm a citizen. Where else would I sit?” ʸ
+“What do you actually want to manage?” Yuka asks. ʸ
 
-Umaru nods. She takes the copy Jinshi made for her. On her way out she asks if Hollis can bring the biscuits down from wherever he put them when the meeting starts. Jinshi tells her that this would be an item for the meeting. She says she will put it on the list.
+Umaru names the cupboard. Ori adds the map drawer. After that she thinks for a while and says she wants to keep asking Frieren to go places with them. Yuka writes down *ask Frieren* before Umaru can put it under the heading for confiscations.
+
+“Will you sit with us when we tell them?” Umaru asks. ᵁ
+
+Yuka looks up. She'd been planning to go get Mau and put two chairs out for themselves.
+
+“I'm a citizen,” she says. “Where else would I sit?” ʸ
+
+Umaru draws her a place on the plan. Ori gets around behind her to look.
 
 * * *
 
-Rimuru has heard about the copy by dinner. He finds Mau at the end of the table and puts a chair down next to him.
+Mau and Rimuru have arranged to meet for dinner. Ori intercepts them at the bottom of the stairs and asks what they can bring to the meeting tomorrow.
 
-“How would you like to sit on the side with me?” he asks. ᴿⁱ
+“I can bring biscuits,” Mau says. ᴹ
 
-“Which side?” ᴹ
+Ori looks past him at Rimuru.
 
-“The one they don't let you bring biscuits to.” ᴿⁱ
+“Do you see the problem?” she asks. ᴼ
 
-Mau thinks about the last time he saw the paper. He asks if they're in trouble.
+Rimuru gives the question some thought.
 
-Rimuru looks toward the kitchen. Umaru is coming out with a tray. She has given Yuka one of the good cups already.
+“Sometimes he also brings cans,” he says. ᴿⁱ
 
-“I think we should bring our own cups,” he says. ᴿⁱ
+Ori puts her hands in her pockets. That is very much the problem. Mau can bring anything he likes, then he can stand there eating it while everybody goes through a perfectly good process.
+
+Frieren is coming down the steps behind them with a book under her arm. She looks at Ori, then at Mau, then at the plan Ori's folded small enough to keep in her pocket.
+
+“If you want the vending citizen to take orders from the Fort,” she tells Ori, “you'll have to give him a queen.” ᶠ
+
+Mau opens his mouth. Ori holds up a hand to stop him. She has just seen Yuka coming down the hall, tucking the end of her hair back into the clip. She puts the plan back in her pocket without asking either of them anything else.
+
+“I know who I need,” she says. ᴼ
+
+Frieren gives her the book to take upstairs. By the time Mau thinks to ask how much of the conversation he was supposed to hear, Ori is at the top of the steps.
+
+Rimuru puts a hand on Mau's shoulder.
+
+“You can sit with me tomorrow,” he says. ᴿⁱ
+
+“Does that make me one of the representatives of the house?” ᴹ
+
+“It makes you the one who has to bring a second cup.” ᴿⁱ
+
+Mau brings him a second cup that evening, to see if that will get him out of it. Rimuru drinks the tea and tells him it won't.

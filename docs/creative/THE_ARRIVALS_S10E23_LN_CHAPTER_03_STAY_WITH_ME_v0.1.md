@@ -39,7 +39,7 @@ There’s a piece of chocolate on each of the little plates. One is very small. 
 
 “The one on the left,” Maomao says. “I cut it myself. Have your lunch first.” ᴹᵐ
 
-Yuka eats hers while she tells Mau what she heard from the kitchen yesterday. Rem’s bread. The way Taihei folded the towel. Gojo having such a good eye for burnt toast. She makes it as far as Beru’s cup before Mau asks whether she was listening to the whole thing.
+Yuka starts lunch while she tells Mau what she heard from the kitchen yesterday. Rem’s bread. The way Taihei folded the towel. Gojo having such a good eye for burnt toast. She makes it as far as Beru’s cup before Mau asks whether she was listening to the whole thing.
 
 “I was trying to get through the door to find you,” she says. “People kept stopping me to tell me what you’d said to them. Then I got there and you told me I’d made a very good door.” ʸ
 
@@ -55,7 +55,15 @@ She waits until he’s finished the bread. Then she picks up the small piece and
 
 “You’re sitting with me either way.” ʸ
 
-He smiles and takes it from her. Maomao notes the time. Yuka takes the piece from the other plate and turns it until the label marked *plain* is facing him. She eats it while he watches.
+He smiles and takes it from her. Maomao notes the time.
+
+Shoko comes in to take the cup she left by the window in the morning. Mau tells her what he took before she can ask. She looks at Maomao's note and asks whether he has any more plans that need a clinic.
+
+“I was going to let her make me sit down,” he says. ᴹ
+
+“Good. If you decide you need to make something, keep it the size of the work we cleared with Gojo. Check with Ciel before you start. One thing at a time.” ˢʰ
+
+Yuka puts a piece of bread on Shoko's plate before she goes. She'd been planning to ask how long an afternoon was supposed to last. Shoko takes the bread and tells her she can have all of it. Yuka takes the piece from the other plate and turns it until the label marked *plain* is facing him. She eats it while he watches.
 
 * * *
 

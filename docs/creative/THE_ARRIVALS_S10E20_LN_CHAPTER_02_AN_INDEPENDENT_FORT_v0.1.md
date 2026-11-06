@@ -5,7 +5,7 @@
 **Volume:** 63
 **Reading order:** 2
 **Source episode:** S10E20
-**Continuity state:** B+168 afternoon. Mau signs an overly broad Fort form as a witness. An ordinary clerk copies it into the trade notice pile. No real sovereignty, magical contract or transfer. The error will require a negotiated correction.
+**Continuity state:** B+168 afternoon. Mau signs the Fort cupboard proposal as a witness. Yuka marks the places that need specifics. The paper stays at the Fort desk inside the house.
 
 *When: Umaru asks him to sign, Mau asks whether she'd like him to use his good handwriting.*
 
@@ -57,18 +57,16 @@ Mau thinks about the drawing. He thinks it is a very good drawing of a cupboard.
 
 Yuka looks at Umaru.
 
-Umaru folds the paper in half. She puts the cupboard on the outside, so that when she gives the paper to the runner who carries copies to the desk, the drawing will be the first thing the runner sees.
+Umaru folds the paper in half. She puts the cupboard on the outside because it makes a very good cover.
 
-* * *
+“I can write it in again,” she says. “Once we agree on where the limits go.” ᵁ
 
-At the desk, a clerk opens the paper and makes a copy. There is a basket for household notices and a basket for anything that people coming on the road might need to know. The notice says *independent*. It has a signature. He puts it in the second basket. The cupboard on the outside helps him remember which side he is supposed to copy first.
+Yuka puts a line under *independent*. Umaru hasn't had to ask anybody to let her draw this cupboard, or make a place for somebody at the table. It would be a shame if she had to stop doing either because they couldn't agree on what the first line meant.
 
-By the time Yuka comes down to ask where it went, a very good copy is drying beside the trade notices. Another has already gone with the afternoon packet to the outer desk. The clerk asks her which name to put on the copy for the Fort.
+“Keep it here,” Yuka says. “Get the people who actually open the cupboard to say what they want.” ʸ
 
-“Umaru,” Yuka says. “And bring me the original.” ʸ
+From upstairs comes Mau's voice asking whether somebody would like to see a dragon. Ori says yes loud enough for them to hear through the ceiling.
 
-He goes to get it. She tells the runner waiting by the door to leave the trade copies where they are for a minute.
+“He can wait till tomorrow to do that,” Yuka says. She hands the pencil back to Umaru. “And if you put him in charge of the cupboard before then, count the biscuits yourself.” ʸ
 
-From upstairs comes Mau's voice asking whether somebody would like to see a dragon. Ori says yes loud enough for everybody near the desk to hear.
-
-Yuka puts a hand over her eyes. She keeps it there for a little while. Then she takes the original from the clerk and asks if he has a pen that writes very small.
+She takes the cups back upstairs. By the time she gets to Ori's map, Umaru has written *ask Rem* on the inside of the fold.

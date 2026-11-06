@@ -13,7 +13,21 @@
 
 Mau looks down. He has been done long enough for the crumbs to cool. There is a seal on the paper where the plate doesn't cover it. He asks Rimuru what it says before he moves the plate.
 
-“Walpurgis. They want to talk about who gets to make certain promises.” ᴿⁱ
+“Walpurgis,” he says. “The Demon Lords call a meeting when there's something they can't settle inside their own borders. I have a seat for Tempest. They've asked you to sit in as a guest.” ᴿⁱ
+
+Mau looks toward Milim's place. There's a pencil there with bite marks up to the middle. She'd gone back to the Fort with Ori after supper.
+
+“Does she have to go too?” ᴹ
+
+“She got her invitation before I got mine. She read enough of it to find out who they wanted to question, said I'd be better at listening to them read a form twice, and asked if I'd bring her any part she needs to hear.” ᴿⁱ
+
+“She actually said twice?” ᴹ
+
+“She said *again*. I don't think she meant only twice.” ᴿⁱ
+
+Rimuru takes a sip. The other side of the letter has the proposed order of business. He gives it to Mau before he says the next part.
+
+“They want to talk about who gets to make certain promises.” ᴿⁱ
 
 “Which promises?” ᴹ
 
@@ -21,7 +35,15 @@ Mau looks down. He has been done long enough for the crumbs to cool. There is a 
 
 Rimuru sits down. He takes both pages out from under the plate and lays them side by side. One is addressed to him. The other is addressed to Mau with a space after the name where they could have put something else. There is no space like that on Rimuru's.
 
-Mau reads the part about the roads twice. Then he reads the part about people who carry letters in his name. He can see what that part is supposed to mean. He has been at the bench when somebody came to ask which sign on a wall belonged to him.
+Mau reads the part about the roads twice. Then he reads the part about people who carry letters in his name. He can see what that part is supposed to mean. He has been at the bench when somebody came to ask which sign on a wall belonged to him. Esther's boy had to read Fern's notice aloud because some people wouldn't cross the bridge without hearing it. Hollis told him about the carter who turned around anyway.
+
+“Is this about people collecting money in our name?” he asks. ᴹ
+
+“That's what got it on the table. We can give them a way to check the letters they find on the road. If they ask you to put a seal on somebody else's promises, we can leave the seal in the bag.” ᴿⁱ
+
+“I don't have a seal for the house.” ᴹ
+
+“Good. That'll save time.” ᴿⁱ
 
 “Are they asking me who has permission?” he says. ᴹ
 

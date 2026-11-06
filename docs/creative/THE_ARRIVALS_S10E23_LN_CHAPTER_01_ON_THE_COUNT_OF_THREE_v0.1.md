@@ -55,6 +55,12 @@ Outside, Frieren holds the bag while Ori gets the map flat enough to show the pe
 
 Ori says the mark will be. She doesn't know if the monster will be.
 
+Then she shows them where the old path came down in pieces. A little farther back there's a sign Frieren left when she came in to scout. Ori asks if they can leave a warning there, for the first group that might come down with the old sketch.
+
+They go back as far as the first turn with Frieren in front. Ori puts the warning low enough that Richeh could see it coming from either side. Richeh crouches to check. She moves it a hand's width, until you can see it before you set a foot on the ledge.
+
+“That should do,” Ori says. ᴼ
+
 Then she gets to the last chamber. Everyone wants to know what they did. She tells them which of them stood where and who had the idea to count the turns.
 
 “What did you do?” Suika asks Mau. ˢᵘ

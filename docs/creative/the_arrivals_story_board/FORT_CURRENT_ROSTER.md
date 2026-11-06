@@ -27,7 +27,7 @@ El núcleo y los cargos históricos se cotejan en [el canon de relaciones](S3_RE
 |---|---|
 | Plan y salida, #3–7 | Ori dirige. Chloe, Umaru, Coco, Suika y Richeh salen con ella. Milim, Frieren, Yuka, Gojo y Mau tienen funciones de apoyo. Mau es asistente y pasajero en el vuelo corto de Ori con Kaisel. Chloe ayuda con el conteo, Suika lee el rastro, Richeh corrige una marca y Coco encuentra la señal de la cámara. |
 | Regreso, #8 | Chloe y Ori siguen juntas con el mapa. Coco le presta el lápiz a Chloe. Yuka busca a Mau para pasar la tarde. |
-| Delegación, #11–12 | Umaru, Ori, Rem, Yuka y Milim representan al Fort. Mau y Rimuru ocupan el lado de la casa. Seiko entra por sus tijeras. El acuerdo se ocupa de expediciones, armario y suministros. |
+| Delegación, #11–12 | Umaru, Ori, Rem, Yuka y Milim representan al Fort. Mau y Rimuru ocupan el lado de la casa. Seiko entra por sus tijeras. El acuerdo interno se ocupa de expediciones, armario y suministros. Ori invita a Beru a participar en la coronación, y él acepta. Yuka reina como parte del juego de la casa. |
 
 [Mudanza de los cinco alumnos](../THE_ARRIVALS_S8E97_LN_CHAPTER_01_WHAT_THEY_PUT_BY_THE_WINDOWS_v0.1.md) · [Boda y Fort](../THE_ARRIVALS_S9E13_LN_CHAPTER_02_TERMS_OF_SURRENDER_v0.1.md) · [Expedición y acta de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md)
 

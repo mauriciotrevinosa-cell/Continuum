@@ -15,7 +15,7 @@ Mau looks at the map. He has been keeping the corners down for a long time. They
 
 “Do you need him to?” Yuka asks. ʸ
 
-He looks up. She has brought back the paper from the desk with a line under the word *independent*. He doesn't remember seeing the line before. He would like to ask her if she drew it. Then he remembers Ori asked something first.
+He looks up. She's holding the cupboard paper with a line under the word *independent*. He doesn't remember seeing the line before. He would like to ask her if she drew it. Then he remembers Ori asked something first.
 
 “No,” he says. “I want to show Ori how it feels when a dragon comes up under your feet. Tomorrow would be fine.” ᴹ
 
@@ -23,7 +23,9 @@ He looks up. She has brought back the paper from the desk with a line under the 
 
 “If the people who look after where we go say yes.” ᴹ
 
-Ori turns the map toward herself. It has been rolled up for three days, because Frieren told her she ought to check what the scale meant before she put any more things on it. She checked. She has also put more things on it.
+Ori turns the map toward herself. The board has this week's gate at E. Frieren took Coco to look at the entrance before breakfast. Their first sketch fits the whole thing on half a page and has an arrow where they stopped to come back.
+
+Ori has had her eye on that half page since she found it. She's been copying it to scale so she can show where everybody could stand without crowding the way out. She has also put more things on it. The things at the bottom, in a very small hand, are the ones they won't know until they get there.
 
 “We want to go here,” she says. “The Fort hasn't done a dungeon. We've been to the festival one, but that wasn't ours. I want to be the person who says what we do next.” ᴼ
 

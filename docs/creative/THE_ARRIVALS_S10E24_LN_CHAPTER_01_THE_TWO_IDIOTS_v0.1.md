@@ -5,7 +5,7 @@
 **Volume:** 63
 **Reading order:** 11
 **Source episode:** S10E24
-**Continuity state:** B+170 morning. The Fort’s delegates negotiate with Mau and Rimuru. Yuka sits with the Fort. Agreement in principle: local independence over cupboard, outings and order list, household safeguards and accounting. Final text/notice to follow.
+**Continuity state:** B+170 morning. The Fort’s delegates negotiate with Mau and Rimuru. Yuka sits with the Fort. The household agreement covers the cupboard and expeditions, with individual safety vetoes. They sign one copy for the Fort desk.
 
 *When: the two representatives of the rest of the house sit down, the Fort asks them to move one chair to the left.*
 
@@ -65,7 +65,15 @@ Seiko takes the scissors. The two of them are still arguing over which one was s
 
 * * *
 
-Jinshi has left a blank receipt book on the corner of the table. Yuka pulls it nearer. Hollis can take a Fort order with one named person to check it and a limit the house agrees to in advance. Someone at the Fort gets to choose what goes on the list. The same supplies go into the same kitchen if they're needed there, and a person who doesn't have a sash can still eat dinner.
+Rem has brought the little book that goes with the cupboard. Yuka pulls it nearer. The Fort can make its own list of what it wants for the cupboard. If they need something from the kitchen, they ask the person who's using it. If it's something they want Mau to bring them, they can ask Mau.
+
+“What if he's already eaten it?” asks Ori. ᴼ
+
+Mau starts to answer. Rimuru puts both hands on his cup.
+
+“We can put it on the next list,” Rem says. ᴿᵉ
+
+She leaves the book open and puts the tin of biscuits down in the middle of the table. A person who doesn't have a sash can still have one. She demonstrates by passing one to Seiko, who has opened the door again to find out why nobody ever puts her scissors back.
 
 “Can we still declare independence?” asks Umaru. ᵁ
 
@@ -90,3 +98,9 @@ Mau looks at the cupboard again.
 Umaru takes the paper by the corner and puts it beside the new page.
 
 “Good,” she says. “We can start with that.” ᵁ
+
+She reads the new page aloud. When she reaches the end, Ori asks whether they can write down that it stays in the Fort. Umaru gives her the pen to add it herself. Mau signs under the line for witnesses. This time he also writes *cupboard*. There's room for the hamster on the other side.
+
+Rimuru asks if he can see the part that tells him he may have a second biscuit. Rem turns the tin so he can see the bottom. He was the last person who had one.
+
+Ori takes the cupboard book up to the shelf. She has an idea about where the next lot is coming from. There is one person she still has to ask.

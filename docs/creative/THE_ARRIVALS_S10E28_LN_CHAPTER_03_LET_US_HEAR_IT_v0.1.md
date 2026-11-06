@@ -85,7 +85,7 @@ Mau feels the room begin to slip. He can remember the whole morning. He could fo
 
 He stops at the blanket.
 
-The kitchen comes next. Yuka is beside Mai, showing him which way somebody can reach for a latch when their hands are full. Mai has a shaving of wood on her sleeve. He can see the place where Yuka puts her hand on the drawing so he can follow the change she made.
+He shows Rem where the kitchen door opens onto the yard. Then he gives them the practice room. Yuka is beside Mai, showing him which way somebody can reach for a latch when their hands are full. Mai has a shaving of wood on her sleeve. He can see the place where Yuka puts her hand on the drawing so he can follow the change she made.
 
 Maki leans forward.
 
@@ -111,7 +111,7 @@ Mau keeps it.
 
 When he reaches the yard, there are too many paths.
 
-Fern is the first one to ask which is the way to dinner. She has come down while the image was on the kitchen. Nobody had seen her find a place beside Rem.
+Fern is the first one to ask which is the way to dinner. She has come down while the image was on the practice room. Nobody had seen her find a place beside Rem.
 
 Mau follows the path he took with the empty plates. There is a little rise and a roof that doesn't belong to the old house. He can hear somebody practising guitar far enough away that the sound comes through an open window.
 

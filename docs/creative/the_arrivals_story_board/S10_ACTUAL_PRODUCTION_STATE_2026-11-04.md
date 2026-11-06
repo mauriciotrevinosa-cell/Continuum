@@ -51,17 +51,17 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V62#20 | S10E19 CH01 | B+167 morning | Mau calls Kaisel and Kamish to fly. Kamish chooses to stay and see the broom flight. Nishimiya meets him and Momo Ayase. |
 | V62#21 | S10E19 CH02 | B+167 evening | Mai gives Nishimiya somewhere to come back to. V62 closes. |
 | V63#1 | S10E20 CH01 | B+168 afternoon | Maomao's chocolate returns as group comedy with Jinshi, Rem, Taihei, Maki, Gojo, Shoko and Beru before the Fort scenes. Mau takes one square stronger than intended. |
-| V63#2 | S10E20 CH02 | B+168 afternoon | Mau witnesses an overly broad Fort cupboard form, one copy reaches outer desk. |
-| V63#3 | S10E21 CH01 | B+168 evening | Ori asks to lead a supervised dungeon outing. Mau named assistant. |
+| V63#2 | S10E20 CH02 | B+168 afternoon | Mau witnesses the Fort cupboard proposal. The paper stays inside the house. |
+| V63#3 | S10E21 CH01 | B+168 evening | Ori sees a small E-rank gate as the Fort's chance to lead an outing. Mau named assistant. |
 | V63#4 | S10E21 CH02 | B+169 morning | Ori, Chloe, Umaru, Coco, Suika and Richeh form the Fort outing team. Milim, Frieren, Yuka, Gojo and Mau take their agreed support roles. |
 | V63#5 | S10E22 CH01 | B+169 late morning | Ori directs a short supervised ride on Kaisel. |
-| V63#6 | S10E22 CH02 | B+169 midday | Fort team maps a passage; Milim handles the blind-side monster. |
-| V63#7 | S10E23 CH01 | B+169 midday continuous | Ori leads the last chamber, Gojo provides one timed Red. Group exits safely. |
+| V63#6 | S10E22 CH02 | B+169 midday | Milim intercepts the blind-side monster. Ori backs the team away from a collapsed ledge and finds a route everyone can get back along. Mau rewards the Guardian with a can from his shop. |
+| V63#7 | S10E23 CH01 | B+169 midday continuous | Ori leads the last chamber, Gojo provides one timed Red. The Fort marks the changed route for whoever comes after them. |
 | V63#8 | S10E23 CH03 | B+169 after the Fort returns | Yuka asks Mau to spend the afternoon with her and offers a second, smaller piece of Maomao’s chocolate after lunch. Mau takes it by choice after the excursion is over. |
 | V63#9 | S10E23 CH04 | B+169 early afternoon | Mau makes Yuka a hair clip and a bag clip with a limited Construction reconstruction. Mai catches him. Momo sees Ruler’s Authority lift her broom with permission and hears how the quarry’s two opposing Shrine effects met inside Mau’s barrier. The second dose fades during the afternoon. |
-| V63#10 | S10E23 CH02 | B+169 afternoon | Hollis finds the erroneous notice. Yuka joins Fort side. |
-| V63#11 | S10E24 CH01 | B+170 morning | Fort negotiates scope, roles and resources with Mau and Rimuru. |
-| V63#12 | S10E24 CH02 | B+170 midday | Revised charter, biscuits and Queen Yuka. |
+| V63#10 | S10E23 CH02 | B+169 afternoon | The Fort tests its cupboard rules. Yuka joins its side. Frieren suggests appointing a queen to give Mau orders. |
+| V63#11 | S10E24 CH01 | B+170 morning | The Fort and household settle a cupboard and expedition agreement, kept at the Fort desk. |
+| V63#12 | S10E24 CH02 | B+170 midday | Ori recruits Beru for the coronation. The Fort gets its sweets; Mau and Yuka spend time together after the ceremony. |
 | V63#13 | S10E25 CH01 | B+170 evening | Walpurgis summons Rimuru and requests Mau's presence. They discuss limits and route. |
 | V63#14 | S10E25 CH02 | B+171 morning | Mau and Rimuru attend as guest and member. Yuka has their route. They agree where Mau can wait if he leaves early. |
 | V63#15 | S10E26 CH01 | B+171 morning | Walpurgis separates a report about false road enforcers from a proposal to put the house under Mau's personal authority. |
@@ -108,7 +108,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 
 [Fort roster](FORT_CURRENT_ROSTER.md) · [Mau’s current kit](MAU_CURRENT_KIT.md)
 
-V63 has 27 chapters and S10 has 95. The first Fort expedition has a named team drawn from the established Fort. The town’s residents, visitors, Fort members and expedition support are separate roles. Creator clarification: Shizue’s five students (Chloe, Kenya, Ryota, Gale and Alice) became citizens of the Fort under the Texnotitalpa constitution treaty when they moved in. S8E97 CH01 shows their rooms. Chloe and Ori are close friends. The expedition roster records who chose this particular outing. Most of the younger Fort members are adolescents or approaching adolescence. Use names and roles to keep them distinct in group scenes. The afternoon with Yuka follows the Fort’s return, before the copied notice at the outer desk. V63#8–9 uses a second piece of chocolate offered by Yuka. The first dose had cleared before the dungeon. The two small gifts draw on Mau’s own CE and leave Mai’s support agreement intact. Momo sees Authority lift the broom and retains her own technique.
+V63 has 27 chapters and S10 has 95. The first Fort expedition has a named team drawn from the established Fort. The town’s residents, visitors, Fort members and expedition support are separate roles. Creator clarification: Shizue’s five students (Chloe, Kenya, Ryota, Gale and Alice) became citizens of the Fort under the Texnotitalpa constitution treaty when they moved in. S8E97 CH01 shows their rooms. Chloe and Ori are close friends. The expedition roster records who chose this particular outing. Most of the younger Fort members are adolescents or approaching adolescence. Use names and roles to keep them distinct in group scenes. The afternoon with Yuka follows the Fort’s return. The cupboard proposal and its resolution remain internal to the Fort and house. V63#8–9 uses a second piece of chocolate offered by Yuka. The first dose had cleared before the dungeon. The two small gifts draw on Mau’s own CE and leave Mai’s support agreement intact. Momo sees Authority lift the broom and retains her own technique.
 
 2026-11-05 farewell expansion: The old timeline farewell spans V63#18–27 in the current order. Existing document filenames and reader links stay stable. The added collective viewing is limited to Mau's chosen recollections, with old Ciel and Rimuru assisting willing listeners; it does not rewrite their memories or grant general archive access. The attacker search fails before he starts to explain. This is the definitive farewell to the real lived history of the first six seasons.
 

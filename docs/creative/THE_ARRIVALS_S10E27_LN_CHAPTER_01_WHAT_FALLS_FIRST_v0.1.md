@@ -27,7 +27,23 @@ He lets go with his right hand. He knows how to put himself down when he's been 
 
 He reaches across for the road with the other grip, the one that doesn't need his fingers. Gravel stops moving in the ditch. He can feel exactly how much of it he's holding. His body keeps turning until one shoulder is higher than the wall. He tries to take hold of the stone itself. There's a second where he has to look at it to remember what it feels like.
 
-Mau reaches for Ciel. He gets the beginning of an answer and a rush of cold in his stomach that has nothing to do with where his feet are.
+He gets his fingers far enough along the wall to find the line where the top stone ends. If he can hold that, he can get his good foot against the earth and take the rest of his weight down in stages. He reaches the line. The top stone comes away in his hand.
+
+He lets it go. It goes up past his face so quickly that it takes the edge of his sleeve with it.
+
+*Rimuru. Outside the wall.* ᴹ
+
+There had been a little change in the connection when Rimuru answered him before. He waits for it. He can't hear anything above the gravel on the road, and the gravel has stopped being on the road.
+
+He reaches down with the grip and pulls hard enough that for a moment he has both feet on the earth. The woman turns to see him put one foot in front of the other.
+
+“I can get the rest of the way from here,” he tells her. ᴹ
+
+His second step goes sideways. The third is back toward the wall. He puts out a hand and finds the top again. He is on the same side of it and his shoulder is touching the place where the stone came off. It had taken three steps to go nowhere. He tries again with his eyes on the bench this time.
+
+*Ciel, can you see where I'm standing?* ᴹ
+
+He gets the beginning of an answer and a rush of cold in his stomach that has nothing to do with where his feet are.
 
 He knows this drop. It is the half second when he can still reach somebody and knows he is already too late. He looks down, trying to find the road by its stones. The stones are there. He can see where he chipped the mortar with his hand. He can also see the edge of a bed that has never stood anywhere near this road.
 

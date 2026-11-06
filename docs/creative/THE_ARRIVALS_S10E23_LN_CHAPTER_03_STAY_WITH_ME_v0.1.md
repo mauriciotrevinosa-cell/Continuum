@@ -13,13 +13,13 @@ Mau looks down at their hands. He leaves the bag on the bench.
 
 “What are you doing now?” she asks. ʸ
 
-He looks toward Ori. She has taken three children back to the part of the drawing where Gojo has much longer arms than usual. They have questions and she has remembered the answer to all of them.
+He looks toward Ori. Coco, Suika and Richeh have brought her back to the part of the drawing where Gojo has much longer arms than usual. They have questions and she has remembered the answer to all of them.
 
 “I think I’ve been dismissed.” ᴹ
 
 “Good. I want you with me.” ʸ
 
-He turns to her. There is dust on her left knee from where she knelt to fix a child’s boot. He can see a bright line of color at the cuff where she’s rolled it back. He’s been walking behind her for most of the morning, close enough to see that line whenever she put a hand out to help somebody. Now she’s asking for him.
+He turns to her. There is dust on her left knee from where she knelt to help with Suika’s boot. He can see a bright line of color at the cuff where she’s rolled it back. He’s been walking behind her for most of the morning, close enough to see that line whenever she put a hand out to help somebody. Now she’s asking for him.
 
 “Where are we going?” ᴹ
 

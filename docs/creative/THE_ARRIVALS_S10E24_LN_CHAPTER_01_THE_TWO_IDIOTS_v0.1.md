@@ -5,7 +5,7 @@
 **Volume:** 63
 **Reading order:** 11
 **Source episode:** S10E24
-**Continuity state:** B+170 morning. Full Fort table negotiates with Mau and Rimuru. Yuka sits with the Fort. Agreement in principle: local independence over cupboard, outings and order list, household safeguards and accounting. Final text/notice to follow.
+**Continuity state:** B+170 morning. The Fort’s delegates negotiate with Mau and Rimuru. Yuka sits with the Fort. Agreement in principle: local independence over cupboard, outings and order list, household safeguards and accounting. Final text/notice to follow.
 
 *When: the two representatives of the rest of the house sit down, the Fort asks them to move one chair to the left.*
 

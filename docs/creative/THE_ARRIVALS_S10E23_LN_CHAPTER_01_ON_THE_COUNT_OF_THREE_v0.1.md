@@ -51,13 +51,13 @@ Gojo comes over to see if he got a mark. She shows him the place where she wrote
 
 * * *
 
-Outside, Frieren holds the bag while Ori gets the map flat enough to show the people who waited. She points to the corner where the monster dropped first. The girl who marked it asks if the mark will still be there next time.
+Outside, Frieren holds the bag while Ori gets the map flat enough to show the people who waited. She points to the corner where the monster dropped first. Richeh asks if the mark will still be there next time.
 
 Ori says the mark will be. She doesn't know if the monster will be.
 
 Then she gets to the last chamber. Everyone wants to know what they did. She tells them which of them stood where and who had the idea to count the turns.
 
-“What did you do?” one of the children asks Mau. ˣ
+“What did you do?” Suika asks Mau. ˢᵘ
 
 Mau looks down. He has the second bag in his hand. It is quite a lot lighter than when they came.
 

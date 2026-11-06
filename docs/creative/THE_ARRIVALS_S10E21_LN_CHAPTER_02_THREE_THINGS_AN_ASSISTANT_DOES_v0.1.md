@@ -5,7 +5,7 @@
 **Volume:** 63
 **Reading order:** 4
 **Source episode:** S10E21
-**Continuity state:** B+169 morning. Chocolate effects ended. Shoko clears Mau to ride as a passenger and act as an observer only in a checked entry. Frieren, Milim, Gojo and Yuka accept specific roles. Fort children and consenting pupils lead. No flight or entry yet.
+**Continuity state:** B+169 morning. Chocolate effects ended. Shoko clears Mau to ride as a passenger and act as an observer only in a checked entry. Frieren, Milim, Gojo and Yuka accept specific roles. Ori leads Umaru, Coco, Suika and Richeh, with the agreed support. No flight or entry yet.
 
 *When: Milim asks Mau what an assistant does, he says he brought three pencils.*
 
@@ -45,13 +45,13 @@ He thanks her. She asks him to stop looking surprised every time she says yes to
 
 * * *
 
-At the gate, Ori has drawn a line between the names of the leaders and the names of the people who can close the outing. She reads them out. The children who want to go say yes for themselves. Shizue is there for her pupils, and two of them decide they'd rather hear how it went over lunch. Ori crosses them off without asking them to explain. She tells them where she will put the map when they come back.
+At the gate, Ori has drawn a line between the names of the leaders and the names of the people who can close the outing. She reads them out. Umaru answers first. Coco and Richeh answer for themselves. Suika has been trying to get the pencil through the loop Milim showed her. When Ori says her name, she gives up on the loop, puts the pencil in her pocket and says yes too.
 
 Gojo has been given the last place in line. He asks whether that's because of his eyesight.
 
 “It's so you don't tell us what's coming,” Ori says. ᴼ
 
-Yuka sits down on the edge of the stone to tie a child's boot. Gojo turns to her for help and gets none. Frieren explains that she and Milim can stop the group immediately, and that anybody who wants to turn back can tell them or put a hand up. Ori tests this by putting her own hand up. Everybody stops talking.
+Yuka sits down on the edge of the stone to help Suika tie her boot. Gojo turns to her for help and gets none. Frieren explains that she and Milim can stop the group immediately, and that anybody who wants to turn back can tell them or put a hand up. Ori tests this by putting her own hand up. Everybody stops talking.
 
 Mau asks if she wants the things for lunch in one bag or two.
 

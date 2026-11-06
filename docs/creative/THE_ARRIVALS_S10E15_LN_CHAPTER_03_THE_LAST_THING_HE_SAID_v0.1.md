@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 13 — The Last Thing He Said
+## Chapter 14 — The Last Thing He Said
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 13
+**Reading order:** 14
 **Source episode:** S10E15
 **Continuity state:** B+165 late afternoon. Uraume asks a single question at the marker, receives Mau's firsthand account of Sukuna's last words, and departs. No alliance, threat or oath.
 

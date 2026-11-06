@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 18 — Come Through the Gate
+## Chapter 19 — Come Through the Gate
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 18
+**Reading order:** 19
 **Source episode:** S10E18
 **Continuity state:** B+166 late afternoon. Mai vouches for Momo Nishimiya; ordinary temporary guest admission. Momo meets Maki and Gojo. Noise observes the broom technique; no activation, ownership change or use.
 

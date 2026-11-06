@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 11 — Until the Lamp Goes Out
+## Chapter 12 — Until the Lamp Goes Out
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 11
+**Reading order:** 12
 **Source episode:** S10E15
 **Continuity state:** B+164 night. Ko accepts a guest room. Nazuna and Ko discuss feeding risk and ask Anko to help them seek advice. No sample, test, feeding or adaptation.
 
@@ -50,6 +50,40 @@ He looks down at her fingers. She hasn't taken her hand away.
 “I love you too,” he says. ᴷᵒ
 
 For a while that's enough to say.
+
+Outside, a cart rolls over the loose board near the guest yard. Ko turns toward the sound. Nazuna has a hand on his arm before she realizes he's only looking. She takes it off again.
+
+“Sometimes I think it's going to be that simple,” she says. “I'll forget for a second, and I'll do what I used to do.” ᴺᵃ
+
+“Would you want to?” he asks. ᴷᵒ
+
+She knows he means the biting. He's got his hand around his heel. The cut is gone. She can still see exactly where it was.
+
+“Sometimes,” she says. “I can want it and leave you alone.” ᴺᵃ
+
+“I don't want you to leave me alone.” ᴷᵒ
+
+She looks at him. He moves his hand from his heel to the step between them.
+
+“I want you to tell me when you're thinking about it,” he says. “I keep thinking maybe you'd rather have the version of me that knew what he wanted to turn into.” ᴷᵒ
+
+Nazuna puts her head back against the wood. She'd liked how sure he'd been. There were nights when she'd leaned on it more than he knew. There were nights when she'd got him all the way across town by saying he could come along while she found a drink, when what she'd wanted was to have him on the next roof with her.
+
+“Do you remember the drinks machine that didn't give change?” she asks. ᴺᵃ
+
+“You told me it was broken after I put the money in.” ᴷᵒ
+
+“You used to come back and buy me one anyway.” ᴺᵃ
+
+“I could do that without turning into anything.” ᴷᵒ
+
+“Yeah.” She turns her hand so he can take it again. “That was the part I wanted you to keep doing.” ᴺᵃ
+
+He puts his thumb on the back of her hand. She watches it go there, and for a little while she lets herself think about the next time she asks him to come out, when it'll just mean coming out.
+
+“We don't have to find out tonight,” she says. ᴺᵃ
+
+Ko nods. He leans far enough toward her that their shoulders touch. He asks if she'd be there when he tells somebody about his hand. She says she would, and asks if he wants to see whether Anko is still downstairs.
 
 * * *
 

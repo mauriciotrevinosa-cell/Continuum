@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 20 — The Dragon Has a Name
+## Chapter 21 — The Dragon Has a Name
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 20
+**Reading order:** 21
 **Source episode:** S10E19
 **Continuity state:** B+167 morning. Mau calls Kaisel and Kamish for a morning flight. Kamish stays by choice to watch Nishimiya's bounded practice and meets her; first encounter with Momo Ayase. No new technique activation by Mau or romantic commitment.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 15 — What We Do Tomorrow
+## Chapter 16 — What We Do Tomorrow
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 15
+**Reading order:** 16
 **Source episode:** S10E16
 **Continuity state:** B+166 morning. Private Mai and Maki conversation. Maki discloses the source death on Mai's terms. Mai chooses the life they are making here. No memories transferred, partner selected or Momo arrival.
 

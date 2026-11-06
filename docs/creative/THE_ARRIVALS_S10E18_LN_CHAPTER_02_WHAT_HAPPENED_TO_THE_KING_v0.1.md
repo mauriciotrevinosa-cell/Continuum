@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 19 — What Happened to the King
+## Chapter 20 — What Happened to the King
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 19
+**Reading order:** 20
 **Source episode:** S10E18
 **Continuity state:** B+166 evening. Mai makes a palm-sized heel plate for Maki’s boot through her established Construction agreement with Mau. Momo witnesses Construction, learns how the support works, and meets Mau as Yuka’s husband. Mai tells Momo what happened to Sukuna. Mau answers briefly. Momo begins to understand Mai has a life here and accepts company. No archive shared.
 

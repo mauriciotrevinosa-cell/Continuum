@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 12 — Before Anybody Offers
+## Chapter 13 — Before Anybody Offers
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 12
+**Reading order:** 13
 **Source episode:** S10E15
 **Continuity state:** B+165 afternoon. Nazuna and Ko consent to consultation. Maomao, Kusuri, Shoko and Anko discuss separate questions. Yuka raises Mau's adaptation as a possible model. No sample, exposure or approval yet.
 

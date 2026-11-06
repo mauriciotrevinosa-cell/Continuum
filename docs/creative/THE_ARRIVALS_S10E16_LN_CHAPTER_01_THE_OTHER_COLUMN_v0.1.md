@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 14 — The Other Column
+## Chapter 15 — The Other Column
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 14
+**Reading order:** 15
 **Source episode:** S10E16
 **Continuity state:** B+165 evening. Mai asks Mau for help with a personal matter. Yuka present with Mai's consent. Existing Construction agreement is separate. No romantic match or disclosure to Maki yet.
 

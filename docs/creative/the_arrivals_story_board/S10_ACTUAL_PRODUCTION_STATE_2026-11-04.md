@@ -37,19 +37,20 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V62#6 | S10E12 CH02 | B+163 afternoon | Subaru pressures Rem, she refuses and names what she wants. |
 | V62#7 | S10E13 CH01 | B+163 late afternoon | House sets boundaries; Subaru begins his own inquiry. |
 | V62#8 | S10E13 CH02 | B+163 evening | Rem and Umaru keep their evening and talk in private. |
-| V62#9 | S10E14 CH01 | B+164 morning and evening | Subaru seeks his own route with Hollis and leaves Rem space. Nazuna and Anko follow Ko's lead at the old crossing. |
-| V62#10 | S10E14 CH02 | B+164 evening continuous | Ko and Nazuna reunite at the crossing. No coin. |
-| V62#11 | S10E15 CH01 | B+164 night | Mutual feelings and feeding risk acknowledged. They ask Anko for a consultation. |
-| V62#12 | S10E15 CH02 | B+165 afternoon | Ko and Nazuna request consultation, no physical test. |
-| V62#13 | S10E15 CH03 | B+165 late afternoon | Uraume asks one question, hears the last words and leaves. |
-| V62#14 | S10E16 CH01 | B+165 evening | Mai asks Mau and Yuka for help before speaking to Maki. |
-| V62#15 | S10E16 CH02 | B+166 morning | Mai asks Maki for the full account and chooses their present life. |
-| V62#16 | S10E17 CH01 | B+166 afternoon | Bounded Blue exercises; Mai names something she wants someday. |
-| V62#17 | S10E17 CH02 | B+166 afternoon continuous | Momo Nishimiya lands at outer marker and meets Mai alive. |
-| V62#18 | S10E18 CH01 | B+166 late afternoon | Mai vouches for Nishimiya at the shadow post. The soldier follows Mau’s standing instructions; Momo crosses the ward with Mai. Brief encounters with Maki and Gojo. Noise reads broom response. |
-| V62#19 | S10E18 CH02 | B+166 evening | Mai makes a steel heel plate for Maki’s boot using her established agreement with Mau. Nishimiya sees Mai stay steady, learns how Mau supplies the cursed energy and bears the strain, and meets him as Yuka’s husband. She learns of Sukuna’s end and asks Mai about her ordinary life. |
-| V62#20 | S10E19 CH01 | B+167 morning | Mau calls Kaisel and Kamish to fly. Kamish chooses to stay and see the broom flight. Nishimiya meets him and Momo Ayase. |
-| V62#21 | S10E19 CH02 | B+167 evening | Mai gives Nishimiya somewhere to come back to. V62 closes. |
+| V62#9 | S10E13 CH03 | B+164 morning to afternoon | Subaru takes his own map to the station. He leaves a note in his name for the reed cutter and returns to the room he's been offered. No sighting of Emilia. |
+| V62#10 | S10E14 CH01 | B+164 evening | Nazuna and Anko take Ko's lead to the old crossing. |
+| V62#11 | S10E14 CH02 | B+164 evening continuous | Ko and Nazuna reunite at the crossing. No coin. |
+| V62#12 | S10E15 CH01 | B+164 night | Mutual feelings and feeding risk acknowledged. They ask Anko for a consultation. |
+| V62#13 | S10E15 CH02 | B+165 afternoon | Ko and Nazuna request consultation, no physical test. |
+| V62#14 | S10E15 CH03 | B+165 late afternoon | Uraume asks one question, hears the last words and leaves. |
+| V62#15 | S10E16 CH01 | B+165 evening | Mai asks Mau and Yuka for help before speaking to Maki. |
+| V62#16 | S10E16 CH02 | B+166 morning | Mai asks Maki for the full account and chooses their present life. |
+| V62#17 | S10E17 CH01 | B+166 afternoon | Bounded Blue exercises; Mai names something she wants someday. |
+| V62#18 | S10E17 CH02 | B+166 afternoon continuous | Momo Nishimiya lands at outer marker and meets Mai alive. |
+| V62#19 | S10E18 CH01 | B+166 late afternoon | Mai vouches for Nishimiya at the shadow post. The soldier follows Mau’s standing instructions; Momo crosses the ward with Mai. Brief encounters with Maki and Gojo. Noise reads broom response. |
+| V62#20 | S10E18 CH02 | B+166 evening | Mai makes a steel heel plate for Maki’s boot using her established agreement with Mau. Nishimiya sees Mai stay steady, learns how Mau supplies the cursed energy and bears the strain, and meets him as Yuka’s husband. She learns of Sukuna’s end and asks Mai about her ordinary life. |
+| V62#21 | S10E19 CH01 | B+167 morning | Mau calls Kaisel and Kamish to fly. Kamish chooses to stay and see the broom flight. Nishimiya meets him and Momo Ayase. |
+| V62#22 | S10E19 CH02 | B+167 evening | Mai gives Nishimiya somewhere to come back to. V62 closes. |
 | V63#1 | S10E20 CH01 | B+168 afternoon | Maomao's chocolate returns as group comedy with Jinshi, Rem, Taihei, Maki, Gojo, Shoko and Beru before the Fort scenes. Mau takes one square stronger than intended. |
 | V63#2 | S10E20 CH02 | B+168 afternoon | Mau witnesses the Fort cupboard proposal. The paper stays inside the house. |
 | V63#3 | S10E21 CH01 | B+168 evening | Ori sees a small E-rank gate as the Fort's chance to lead an outing. Mau named assistant. |
@@ -108,7 +109,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 
 [Fort roster](FORT_CURRENT_ROSTER.md) · [Mau’s current kit](MAU_CURRENT_KIT.md)
 
-V63 has 27 chapters and S10 has 95. The first Fort expedition has a named team drawn from the established Fort. The town’s residents, visitors, Fort members and expedition support are separate roles. Creator clarification: Shizue’s five students (Chloe, Kenya, Ryota, Gale and Alice) became citizens of the Fort under the Texnotitalpa constitution treaty when they moved in. S8E97 CH01 shows their rooms. Chloe and Ori are close friends. The expedition roster records who chose this particular outing. Most of the younger Fort members are adolescents or approaching adolescence. Use names and roles to keep them distinct in group scenes. The afternoon with Yuka follows the Fort’s return. The cupboard proposal and its resolution remain internal to the Fort and house. V63#8–9 uses a second piece of chocolate offered by Yuka. The first dose had cleared before the dungeon. The two small gifts draw on Mau’s own CE and leave Mai’s support agreement intact. Momo sees Authority lift the broom and retains her own technique.
+V62 has 22 chapters, V63 has 27, and S10 has 96. The new V62 #9 follows Subaru to the station; the remaining V62 reading positions advance by one. Existing reader IDs are unchanged. The first Fort expedition has a named team drawn from the established Fort. The town’s residents, visitors, Fort members and expedition support are separate roles. Creator clarification: Shizue’s five students (Chloe, Kenya, Ryota, Gale and Alice) became citizens of the Fort under the Texnotitalpa constitution treaty when they moved in. S8E97 CH01 shows their rooms. Chloe and Ori are close friends. The expedition roster records who chose this particular outing. Most of the younger Fort members are adolescents or approaching adolescence. Use names and roles to keep them distinct in group scenes. The afternoon with Yuka follows the Fort’s return. The cupboard proposal and its resolution remain internal to the Fort and house. V63#8–9 uses a second piece of chocolate offered by Yuka. The first dose had cleared before the dungeon. The two small gifts draw on Mau’s own CE and leave Mai’s support agreement intact. Momo sees Authority lift the broom and retains her own technique.
 
 2026-11-05 farewell expansion: The old timeline farewell spans V63#18–27 in the current order. Existing document filenames and reader links stay stable. The added collective viewing is limited to Mau's chosen recollections, with old Ciel and Rimuru assisting willing listeners; it does not rewrite their memories or grant general archive access. The attacker search fails before he starts to explain. This is the definitive farewell to the real lived history of the first six seasons.
 

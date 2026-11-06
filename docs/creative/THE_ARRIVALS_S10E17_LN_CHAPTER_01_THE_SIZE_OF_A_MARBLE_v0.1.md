@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 16 — The Size of a Marble
+## Chapter 17 — The Size of a Marble
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 16
+**Reading order:** 17
 **Source episode:** S10E17
 **Continuity state:** B+166 afternoon. Shoko clears a bounded low-output technique exercise after a check. Mai and Mau talk by the practice yard. No combat clearance. No commitment by Kamish.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 17 — The Girl Above the Gate
+## Chapter 18 — The Girl Above the Gate
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 17
+**Reading order:** 18
 **Source episode:** S10E17
 **Continuity state:** B+166 afternoon continuous. Momo Nishimiya arrives alone through ordinary convergence from fifteen subjective days after receiving Mai's body in the source. Mistakes Mau for Gojo at a distance. Lands outside the marker. Mai recognizes and comforts her. No admission or copying demonstrated yet.
 

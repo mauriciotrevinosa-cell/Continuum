@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 10 — The Other Bank
+## Chapter 11 — The Other Bank
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 10
+**Reading order:** 11
 **Source episode:** S10E14
 **Continuity state:** B+164 evening continuous. Ko verifies himself in person; source baseline late after both recognize their feelings, altered vampire state retained. He crossed by convergence, no coin. No feeding or test.
 

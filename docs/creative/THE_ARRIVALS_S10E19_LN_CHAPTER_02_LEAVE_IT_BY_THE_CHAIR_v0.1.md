@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 62
-## Chapter 21 — Leave It by the Chair
+## Chapter 22 — Leave It by the Chair
 
 **Status:** LN PRODUCTION DRAFT — S10 v0.1
 **Volume:** 62
-**Reading order:** 21
+**Reading order:** 22
 **Source episode:** S10E19
 **Continuity state:** B+167 evening. Mai offers Nishimiya recurring time together and accepts a request for a longer guest stay to be arranged. The reading of Tool Manipulation is a bounded pattern, not a demonstrated ability. Volume closes; S10 continues.
 

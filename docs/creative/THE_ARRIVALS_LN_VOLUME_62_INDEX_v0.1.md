@@ -5,7 +5,7 @@
 **Season:** 10
 **Coverage:** S10E10–S10E19 (volume complete; S10 continues)
 **Volume title:** **Who Gets to Ask**
-**Chapter files:** 21
+**Chapter files:** 22
 
 The morning after Season Nine. The house returns to ordinary life while people outside the settlement decide what the quarry meant.
 
@@ -25,16 +25,17 @@ The morning after Season Nine. The house returns to ordinary life while people o
 | 6 | S10E12 | Ask Me What I Want | `THE_ARRIVALS_S10E12_LN_CHAPTER_02_ASK_ME_WHAT_I_WANT_v0.1.md` |
 | 7 | S10E13 | A Road of His Own | `THE_ARRIVALS_S10E13_LN_CHAPTER_01_A_ROAD_OF_HIS_OWN_v0.1.md` |
 | 8 | S10E13 | Two Good Cups | `THE_ARRIVALS_S10E13_LN_CHAPTER_02_TWO_GOOD_CUPS_v0.1.md` |
-| 9 | S10E14 | An Hour After Dark | `THE_ARRIVALS_S10E14_LN_CHAPTER_01_AN_HOUR_AFTER_DARK_v0.1.md` |
-| 10 | S10E14 | The Other Bank | `THE_ARRIVALS_S10E14_LN_CHAPTER_02_THE_OTHER_BANK_v0.1.md` |
-| 11 | S10E15 | Until the Lamp Goes Out | `THE_ARRIVALS_S10E15_LN_CHAPTER_01_UNTIL_THE_LAMP_GOES_OUT_v0.1.md` |
-| 12 | S10E15 | Before Anybody Offers | `THE_ARRIVALS_S10E15_LN_CHAPTER_02_BEFORE_ANYBODY_OFFERS_v0.1.md` |
-| 13 | S10E15 | The Last Thing He Said | `THE_ARRIVALS_S10E15_LN_CHAPTER_03_THE_LAST_THING_HE_SAID_v0.1.md` |
-| 14 | S10E16 | The Other Column | `THE_ARRIVALS_S10E16_LN_CHAPTER_01_THE_OTHER_COLUMN_v0.1.md` |
-| 15 | S10E16 | What We Do Tomorrow | `THE_ARRIVALS_S10E16_LN_CHAPTER_02_WHAT_WE_DO_TOMORROW_v0.1.md` |
-| 16 | S10E17 | The Size of a Marble | `THE_ARRIVALS_S10E17_LN_CHAPTER_01_THE_SIZE_OF_A_MARBLE_v0.1.md` |
-| 17 | S10E17 | The Girl Above the Gate | `THE_ARRIVALS_S10E17_LN_CHAPTER_02_THE_GIRL_ABOVE_THE_GATE_v0.1.md` |
-| 18 | S10E18 | Come Through the Gate | `THE_ARRIVALS_S10E18_LN_CHAPTER_01_COME_THROUGH_THE_GATE_v0.1.md` |
-| 19 | S10E18 | What Happened to the King | `THE_ARRIVALS_S10E18_LN_CHAPTER_02_WHAT_HAPPENED_TO_THE_KING_v0.1.md` |
-| 20 | S10E19 | The Dragon Has a Name | `THE_ARRIVALS_S10E19_LN_CHAPTER_01_THE_DRAGON_HAS_A_NAME_v0.1.md` |
-| 21 | S10E19 | Leave It by the Chair | `THE_ARRIVALS_S10E19_LN_CHAPTER_02_LEAVE_IT_BY_THE_CHAIR_v0.1.md` |
+| 9 | S10E13 | Where the Map Ends | `THE_ARRIVALS_S10E13_LN_CHAPTER_03_WHERE_THE_MAP_ENDS_v0.1.md` |
+| 10 | S10E14 | An Hour After Dark | `THE_ARRIVALS_S10E14_LN_CHAPTER_01_AN_HOUR_AFTER_DARK_v0.1.md` |
+| 11 | S10E14 | The Other Bank | `THE_ARRIVALS_S10E14_LN_CHAPTER_02_THE_OTHER_BANK_v0.1.md` |
+| 12 | S10E15 | Until the Lamp Goes Out | `THE_ARRIVALS_S10E15_LN_CHAPTER_01_UNTIL_THE_LAMP_GOES_OUT_v0.1.md` |
+| 13 | S10E15 | Before Anybody Offers | `THE_ARRIVALS_S10E15_LN_CHAPTER_02_BEFORE_ANYBODY_OFFERS_v0.1.md` |
+| 14 | S10E15 | The Last Thing He Said | `THE_ARRIVALS_S10E15_LN_CHAPTER_03_THE_LAST_THING_HE_SAID_v0.1.md` |
+| 15 | S10E16 | The Other Column | `THE_ARRIVALS_S10E16_LN_CHAPTER_01_THE_OTHER_COLUMN_v0.1.md` |
+| 16 | S10E16 | What We Do Tomorrow | `THE_ARRIVALS_S10E16_LN_CHAPTER_02_WHAT_WE_DO_TOMORROW_v0.1.md` |
+| 17 | S10E17 | The Size of a Marble | `THE_ARRIVALS_S10E17_LN_CHAPTER_01_THE_SIZE_OF_A_MARBLE_v0.1.md` |
+| 18 | S10E17 | The Girl Above the Gate | `THE_ARRIVALS_S10E17_LN_CHAPTER_02_THE_GIRL_ABOVE_THE_GATE_v0.1.md` |
+| 19 | S10E18 | Come Through the Gate | `THE_ARRIVALS_S10E18_LN_CHAPTER_01_COME_THROUGH_THE_GATE_v0.1.md` |
+| 20 | S10E18 | What Happened to the King | `THE_ARRIVALS_S10E18_LN_CHAPTER_02_WHAT_HAPPENED_TO_THE_KING_v0.1.md` |
+| 21 | S10E19 | The Dragon Has a Name | `THE_ARRIVALS_S10E19_LN_CHAPTER_01_THE_DRAGON_HAS_A_NAME_v0.1.md` |
+| 22 | S10E19 | Leave It by the Chair | `THE_ARRIVALS_S10E19_LN_CHAPTER_02_LEAVE_IT_BY_THE_CHAIR_v0.1.md` |

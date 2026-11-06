@@ -53,7 +53,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V63#1 | S10E20 CH01 | B+168 afternoon | Maomao's chocolate returns as group comedy with Jinshi, Rem, Taihei, Maki, Gojo, Shoko and Beru before the Fort scenes. Mau takes one square stronger than intended. |
 | V63#2 | S10E20 CH02 | B+168 afternoon | Mau witnesses an overly broad Fort cupboard form, one copy reaches outer desk. |
 | V63#3 | S10E21 CH01 | B+168 evening | Ori asks to lead a supervised dungeon outing. Mau named assistant. |
-| V63#4 | S10E21 CH02 | B+169 morning | Ori, Umaru, Coco, Suika and Richeh form the Fort outing team. Milim, Frieren, Yuka, Gojo and Mau take their agreed support roles. |
+| V63#4 | S10E21 CH02 | B+169 morning | Ori, Chloe, Umaru, Coco, Suika and Richeh form the Fort outing team. Milim, Frieren, Yuka, Gojo and Mau take their agreed support roles. |
 | V63#5 | S10E22 CH01 | B+169 late morning | Ori directs a short supervised ride on Kaisel. |
 | V63#6 | S10E22 CH02 | B+169 midday | Fort team maps a passage; Milim handles the blind-side monster. |
 | V63#7 | S10E23 CH01 | B+169 midday continuous | Ori leads the last chamber, Gojo provides one timed Red. Group exits safely. |
@@ -106,7 +106,9 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 
 ## Current state
 
-V63 has 27 chapters and S10 has 95. The first Fort expedition has a named team drawn from the established Fort. The town’s residents, visitors, Fort members and expedition support are separate roles. The five pupils already have rooms in the town from S8E97 CH01. Their residency does not make them a group addition to the Fort or to this expedition. The afternoon with Yuka follows the Fort’s return, before the copied notice at the outer desk. V63#8–9 uses a second piece of chocolate offered by Yuka. The first dose had cleared before the dungeon. The two small gifts draw on Mau’s own CE and leave Mai’s support agreement intact. Momo sees Authority lift the broom and retains her own technique.
+[Fort roster](FORT_CURRENT_ROSTER.md) · [Mau’s current kit](MAU_CURRENT_KIT.md)
+
+V63 has 27 chapters and S10 has 95. The first Fort expedition has a named team drawn from the established Fort. The town’s residents, visitors, Fort members and expedition support are separate roles. Creator clarification: Shizue’s five students (Chloe, Kenya, Ryota, Gale and Alice) became citizens of the Fort under the Texnotitalpa constitution treaty when they moved in. S8E97 CH01 shows their rooms. Chloe and Ori are close friends. The expedition roster records who chose this particular outing. Most of the younger Fort members are adolescents or approaching adolescence. Use names and roles to keep them distinct in group scenes. The afternoon with Yuka follows the Fort’s return, before the copied notice at the outer desk. V63#8–9 uses a second piece of chocolate offered by Yuka. The first dose had cleared before the dungeon. The two small gifts draw on Mau’s own CE and leave Mai’s support agreement intact. Momo sees Authority lift the broom and retains her own technique.
 
 2026-11-05 farewell expansion: The old timeline farewell spans V63#18–27 in the current order. Existing document filenames and reader links stay stable. The added collective viewing is limited to Mau's chosen recollections, with old Ciel and Rimuru assisting willing listeners; it does not rewrite their memories or grant general archive access. The attacker search fails before he starts to explain. This is the definitive farewell to the real lived history of the first six seasons.
 

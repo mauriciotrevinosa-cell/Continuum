@@ -9,13 +9,13 @@
 
 *When: Ori shows Gojo the line on the floor, he asks her to tell him when to look at it.*
 
-She looks into the chamber. The creature's got its head down. As it comes around, its front legs spread and its back opens in four separate places. It takes one breath and the opening's gone. Ori holds up three fingers. She takes them down one at a time until Gojo can see the last part for himself.
+She looks into the chamber. The creature's got its head down. As it comes around, its front legs spread and its back opens in four separate places. It takes one breath and the opening's gone. Chloe taps the rhythm against Ori’s sleeve. Ori keeps count on three fingers where Gojo can see.
 
 “There,” she says. ᴼ
 
 Gojo nods. He can see two places he could stand to do this. He points out the closer one and Ori asks if he can stand in the farther one so the line stays open behind him. He goes to the farther one.
 
-Frieren has the children check where they are. There is solid stone in front of them and room to get back if they need it. She waits until each of them has found the person they're going back with. Milim goes where she can see the other opening.
+Frieren has the scouts check their positions. There is solid stone in front of them and room to get back if they need it. She waits until each of them has found the person they're going back with. Milim goes where she can see the other opening.
 
 Umaru crawls along the safe side of the wall to where Ori is counting.
 
@@ -35,7 +35,7 @@ Gojo gives her a perfectly serious nod.
 
 They count another turn. Ori feels Umaru's grip tighten on the second mark. On the third she says it aloud.
 
-Gojo lets the Red go from the far side of the chamber. It gets there in the little space before the plates come down. The creature lifts off the floor and comes down again against the wall on the empty side, in a place so far from the children that Ori has to look past Gojo to see it. The noise goes back around the chamber, and then the creature stops making the noise it made when it was going round and round.
+Gojo lets the Red go from the far side of the chamber. It gets there in the little space before the plates come down. The creature lifts off the floor and comes down again against the wall on the empty side, so far from their shelter that Ori has to look past Gojo to see it. The noise goes back around the chamber, and then the creature stops making the noise it made when it was going round and round.
 
 Nobody moves until Frieren says they may. When Ori stands up, her hand is still in Umaru's.
 

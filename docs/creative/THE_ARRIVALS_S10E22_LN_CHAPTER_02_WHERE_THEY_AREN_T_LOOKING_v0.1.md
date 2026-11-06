@@ -5,7 +5,7 @@
 **Volume:** 63
 **Reading order:** 6
 **Source episode:** S10E22
-**Continuity state:** B+169 midday. Supervised Fort dungeon route. Milim intercepts one blind-side monster. No child injured, no Mau combat. Ori's team solves passage and inspects last chamber from safe position.
+**Continuity state:** B+169 midday. Supervised Fort dungeon route. Milim intercepts one blind-side monster. Everyone is unharmed. Mau stays in his observer role. Ori's team solves passage and inspects last chamber from safe position.
 
 *When: Ori calls a stop at the first fork, the people behind her stop in exactly the places they would have chosen themselves.*
 

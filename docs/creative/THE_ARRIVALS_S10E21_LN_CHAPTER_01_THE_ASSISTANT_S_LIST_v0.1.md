@@ -27,7 +27,7 @@ Ori turns the map toward herself. It has been rolled up for three days, because 
 
 “We want to go here,” she says. “The Fort hasn't done a dungeon. We've been to the festival one, but that wasn't ours. I want to be the person who says what we do next.” ᴼ
 
-Yuka asks who is going with her. Ori takes out another sheet. Umaru, Coco, Suika and Richeh have already put their names down beside hers. A shorter list has the people they still need to ask, with room beside each name for an answer. Milim is on both lists. Frieren is on the second. Mau finds his name at the bottom, under a heading he can't read from here.
+Yuka asks who is going with her. Ori takes out another sheet. Chloe has put her name down beside Ori’s, with Umaru, Coco, Suika and Richeh below. She’s added a little drawing of two hands holding a map. Ori knows which hands they’re meant to be. A shorter list has the people they still need to ask, with room beside each name for an answer. Milim is on both lists. Frieren is on the second. Mau finds his name at the bottom, under a heading he can't read from here.
 
 “What's that?” he asks. ᴹ
 

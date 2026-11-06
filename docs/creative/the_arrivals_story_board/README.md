@@ -23,6 +23,8 @@ A stale status/history sentence never overrides a later creator decision or the 
 
 ## Start here
 
+For current scenes, consult the [Fort roster](FORT_CURRENT_ROSTER.md) for membership and event roles and [Mau’s current kit](MAU_CURRENT_KIT.md) for capabilities and limits. Update these records with the scene that changes them.
+
 1. [STORY_CONSTITUTION.md](./STORY_CONSTITUTION.md) — durable creative rules: story determines episode count, ensemble presence is not mandatory, lived-space is real story, and status/history files are not law.
 2. [INDEX.md](./INDEX.md) — quickest map to every section and source.
 3. [S1_STORY_STATUS.md](./S1_STORY_STATUS.md) — all 19 Season 1 episodes and manga-production state.

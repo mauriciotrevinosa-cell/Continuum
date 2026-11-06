@@ -13,7 +13,7 @@ Mau looks down at their hands. He leaves the bag on the bench.
 
 “What are you doing now?” she asks. ʸ
 
-He looks toward Ori. Coco, Suika and Richeh have brought her back to the part of the drawing where Gojo has much longer arms than usual. They have questions and she has remembered the answer to all of them.
+He looks toward Ori. Chloe is beside her, arguing that Gojo’s arms need to be longer still. Coco has already lent her a pencil. Ori has a great deal to say about the scale.
 
 “I think I’ve been dismissed.” ᴹ
 
@@ -79,7 +79,7 @@ He puts his arm around her when she leans against him. She gets one leg across h
 
 “You let them try.” ᴹ
 
-“The kids?” ʸ
+“The scouts?” ʸ
 
 “And me. You always make room for me to do something I can actually do.” ᴹ
 

@@ -5,7 +5,7 @@
 **Volume:** 63
 **Reading order:** 4
 **Source episode:** S10E21
-**Continuity state:** B+169 morning. Chocolate effects ended. Shoko clears Mau to ride as a passenger and act as an observer only in a checked entry. Frieren, Milim, Gojo and Yuka accept specific roles. Ori leads Umaru, Coco, Suika and Richeh, with the agreed support. No flight or entry yet.
+**Continuity state:** B+169 morning. Chocolate effects ended. Shoko clears Mau to ride as a passenger and act as an observer only in a checked entry. Frieren, Milim, Gojo and Yuka accept specific roles. Ori leads Chloe, Umaru, Coco, Suika and Richeh, with the agreed support. No flight or entry yet.
 
 *When: Milim asks Mau what an assistant does, he says he brought three pencils.*
 
@@ -45,7 +45,7 @@ He thanks her. She asks him to stop looking surprised every time she says yes to
 
 * * *
 
-At the gate, Ori has drawn a line between the names of the leaders and the names of the people who can close the outing. She reads them out. Umaru answers first. Coco and Richeh answer for themselves. Suika has been trying to get the pencil through the loop Milim showed her. When Ori says her name, she gives up on the loop, puts the pencil in her pocket and says yes too.
+At the gate, Ori has drawn a line between the names of the leaders and the names of the people who can close the outing. She reads them out. Umaru answers first. Chloe says yes and holds the bottom of the list flat against the wind while Ori calls Coco and Richeh. They both answer. Suika has been trying to get the pencil through the loop Milim showed her. When Ori says her name, she gives up on the loop, puts the pencil in her pocket and says yes too.
 
 Gojo has been given the last place in line. He asks whether that's because of his eyesight.
 

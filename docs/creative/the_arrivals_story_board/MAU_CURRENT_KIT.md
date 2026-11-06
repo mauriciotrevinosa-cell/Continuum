@@ -1,0 +1,42 @@
+# Mau — Repertorio vigente al cierre de S10
+
+Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
+
+## Disponible y acotado
+
+| Rama | Estado y condiciones |
+|---|---|
+| Noise y Ciel | Observe, Analyze, Understand y Construct permiten trabajar con patrones accesibles. Registrar por separado observación, comprensión, modelo y ejecución. Ciel coordina, supervisa y puede cortar una operación. Las memorias compartidas conservan el alcance elegido por quien las ofrece. |
+| Six Eyes y Mini Ciel | Ojos reproducidos con filtro de información. Los ojos mejoran la eficiencia de CE, y el filtro vuelve manejable la percepción. La reserva accesible de Mau se ha comparado por encima de Yuta. El control, el caudal y la duración se valoran por separado. V40#9 y V63#9. |
+| Físico y Corazón Negro | Los atributos adquiridos siguen incorporados al cuerpo. Noise culminó el fragmento de luz durante V59 y cayó el antiguo gobernador del Arquitecto. El nivel 200 queda como referencia del sistema previo. Distinguir maná del Corazón Negro, caudal físico y CE finita. La recuperación posterior restableció la función afectada por el duelo. Persisten las secuelas viejas, las cicatrices nuevas y el seguimiento de Shoko. |
+| Limitless y uso de CE | Blue, Red, Infinity y Purple practicados en escenas. DA y recuperación de técnica tienen costes propios. Se alternan técnicas en el propio cuerpo. La práctica de recuperación con Blue en V62#16 se mantiene acotada. El paso de potencia máxima a uso habitual requiere evidencia. |
+| Apoyo a Yuka y Mai | Canales ya acordados. Cada una ejecuta su propia técnica, y Mau aporta CE y asume la carga pactada. Mai conserva diseño, decisión y ejecución de su Construction. El uso separado de Construction por Mau en V63#9 paga su propio coste. |
+| RCT y reparación | Autocuración y reparación de daños demostradas con límites de CE, caudal y estado corporal. La curación posterior al duelo fue trabajo conjunto con Shoko, Yuta y Beru. La reconstrucción bajo el Corazón Negro durante la pelea es un pico. |
+| Legión, Arise y Exchange | Registro de 6.615 vínculos al cierre documentado de V59. Distinguir vínculos, formas disponibles y reconstrucción. S10 demuestra un Exchange planeado con respaldo y uso de sombras para desmontar el castillo. Mantener consentimiento y rutas de salida cuando haya personas implicadas. El turno del Inn usa Muster y cuarenta soldados ordinarios. |
+| Ruler’s Authority | Agarre independiente de Blue. En V63#9 levanta la escoba de Momo Nishimiya y la deja volver a sus manos con permiso. Es una demostración doméstica de una herramienta existente. |
+| Ten Shadows y rueda | Mahoraga y los shikigami de Mau tienen registro separado de su legión. V59 muestra adaptación a una clase específica de corte. Registrar estímulo, exposición y avance antes de reutilizar una resistencia. El Mahoraga de Yuka es suyo. |
+| Sky y magia | Manipulación de la superficie del cielo ya usada. El duelo muestra Zoltraak con maná durante el desgaste de CT. Vuelo y magia de uso cotidiano se cotejan con las escenas y el estado físico del momento. |
+| Inventario, tienda y equipo | Inventario personal de objetos y tienda demostrados en S9. S10 lo vuelve a usar, incluidos el regreso del mercado y las piezas del castillo. Las compras, las reservas, el equipo activo y las unidades de la legión se cuentan por separado. |
+| Construction de Mai, versión de Mau | V63#9 documenta dos piezas sencillas de acero con formas que conoce, un clip para el pelo y otro para una bolsa. Noise aprovechó el patrón observado en el acuerdo con Mai. El uso demostrado se limita a esa escala. Mai conserva el control de su taller. |
+| Cuerpo y modelos temporales | Patrón slime aislado ya utilizado. Presión de True Dragon acotada y con restricciones durante el duelo. En V64#20–21 Noise modela temporalmente el estado incompleto de Ko con consentimiento para una prueba concreta. Registrar esa prueba como temporal. |
+
+## Picos y patrones pendientes
+
+| Entrada | Límite de lo demostrado |
+|---|---|
+| Shrine y archivo de Sukuna | Dismantle y Cleave ya forman parte del repertorio. En el duelo, el acceso al archivo permitió una ejecución de corte de plano con su cerradura y abrir las líneas que había preparado. V64#4 registra que Mau deja cerrado el archivo por decisión propia. El resto de las evoluciones de Sukuna queda como conocimiento por estudiar o ejecución sin comprobar. |
+| Dominios | MicroVoid y barreras ya practicadas. En V59 Mau sostiene la barrera y prueba un Shrine anidado. Su segundo efecto le da una apertura breve contra el Shrine de Sukuna y le provoca lesión neural. Las tres estructuras en escena incluyen la de Sukuna. La maniobra de Mau queda registrada como pico parcial. |
+| Exchange tras el fragmento | Nueve respiraciones de recarga en el contexto de V59. Para repetir esa cadencia en otro capítulo, comprobar estado físico, anclas y circunstancias. |
+| Escoba de Momo Nishimiya | Noise ha observado la respuesta y la corrección de ángulo. V63#9 deja el mecanismo pendiente de comprender y ejecutar. |
+| Falling Devil y encuentro con Jin-Woo | Incidentes narrativos con mecanismos sin reproducir. Al cierre de S10, el encuentro con Jin-Woo aporta reconocimiento y contacto presencial. Los registros de técnica no atribuyen una adquisición por ese encuentro. |
+
+## Registro de cambios
+
+| Fuente | Cambio que se registra |
+|---|---|
+| V59 revisado | Culmina el fragmento de luz. Registrar por separado el cambio de gobernador, el acceso al archivo, las ejecuciones de Shrine, el dominio parcial y la adaptación de Mahoraga. |
+| V60 y S10 | Recuperación física y vuelta gradual a herramientas ya practicadas. Conservar las secuelas identificadas en los registros de recuperación. |
+| V62#18, V63#9 | Observación de la escoba, primera Construction propia demostrada a escala pequeña y ejemplo doméstico de Authority. |
+| V64#4, #8 y #20–21 | Elección de mantener cerrado el archivo, Exchange con respaldo y modelo temporal de Ko. |
+
+Con cada adquisición o mejora, añadir capítulo, estado anterior y nuevo, coste, condiciones, duración y testigos. Usar las categorías observado, construido, probado, repetible y pico según la escena. En el mismo cambio, actualizar el registro de producción y enlazar aquí el capítulo que lo demuestra.

@@ -1,5 +1,7 @@
 # Mau — Base estable, picos y crecimiento por fragmento de luz
 
+Para el estado posterior al duelo y al cierre de S10, consultar [el repertorio vigente](MAU_CURRENT_KIT.md).
+
 > **Aclaración del creador:** Gojo era un ejemplo de comparación, no referencia única, techo o combate nuevo obligatorio. [Mensaje íntegro](S8_CIEL_BEFORE_WITCH_HAT_AND_S9_PARENTAL_HEARTBEAT_CREATOR_SEED_2026-11-01.md). Mantener la distinción base/picos en cualquier comparación.
 
 **2026-11-01. Auditoría inicial del material escrito y dirección nueva del creador. No medición completa de todo el repertorio, clasificación oficial entre franquicias o evolución ejecutada. Punto de prosa: V47#22; lectura declarada por Mauri: V47#13. Referencias de combate usadas están antes de ese punto lector.**

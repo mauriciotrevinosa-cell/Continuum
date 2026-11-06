@@ -39,6 +39,28 @@ Rem says that they keep something out until the light goes, and then anybody who
 
 Jinshi asks what happens when Gaoshun doesn't want food. Gaoshun takes another bun.
 
+“I did have a question about my room,” Gaoshun says. ᴳᵃ
+
+Jinshi sits up. He has been thinking all afternoon that the room might be on the wrong side of the building. There is a room nearer his, but it overlooks the yard and people go in and out until very late. He begins to explain.
+
+“I like the one you showed me,” Gaoshun says. “I wanted to know if I can open the shutters myself. Somebody had tied them back when I went up.” ᴳᵃ
+
+“You can do what you like with them,” Jinshi says. ᴶⁱ
+
+Maomao puts down the bun she'd been pulling apart.
+
+“You should check that one in the morning,” she says. “He tried to lend me his room for afternoon naps. The birds start before the light comes up, and one of them knows four notes, all of them wrong.” ᴹᵐ
+
+“You could have told me it was the birds,” Jinshi says. ᴶⁱ
+
+“I thought you'd think I was making fun of your singing.” ᴹᵐ
+
+Gaoshun looks down at his bun until he can swallow. He asks where they bought the flour. Rem tells him a little about the people who come from across the river, and that if he means to get his own loaf he'll want to arrive before eight. Jinshi had been about to offer to get it. He breaks a piece off his bun instead.
+
+“I'll come down then,” Gaoshun says. He looks at Jinshi. “Are you usually up?” ᴳᵃ
+
+Jinshi says he is. Gaoshun asks if he'd like to meet him there. Jinshi looks at Maomao, who has already started on the outside of the bun so she can save the middle. She says there is room for her at eight if somebody wants to make tea.
+
 Rem leaves them there. She takes the other bowl in with her and sets it by the window. She can see Umaru and the two cups down the path. One cup is standing on its handle for a reason she will probably be told when she gets there.
 
 * * *

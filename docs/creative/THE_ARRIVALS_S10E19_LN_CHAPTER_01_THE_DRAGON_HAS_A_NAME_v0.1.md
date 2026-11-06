@@ -5,9 +5,41 @@
 **Volume:** 62
 **Reading order:** 20
 **Source episode:** S10E19
-**Continuity state:** B+167 morning. Nishimiya takes a bounded practice flight with Mai's knowledge and meets Kamish; first encounter with Momo Ayase. No new technique activation by Mau or romantic commitment.
+**Continuity state:** B+167 morning. Mau calls Kaisel and Kamish for a morning flight. Kamish stays by choice to watch Nishimiya's bounded practice and meets her; first encounter with Momo Ayase. No new technique activation by Mau or romantic commitment.
 
-*When: Momo lands for the third time that morning, she puts the broom down before she's finished getting off it.*
+*When: Mau calls Kaisel out beyond the rise, Kamish has one wing out before his feet are all the way clear of the shadow.*
+
+“He did ask me for a little room,” Mau tells him. ᴹ
+
+Kamish looks toward Kaisel. Kaisel lifts his head and takes two steps away from both of them. Kamish draws the wing in until the smaller dragon has enough of the sky to choose a direction.
+
+Mau walks up far enough to see the edge of the houses. He had told Shoko he was coming out to let them fly, and she had made him say which one was going to carry him home. He'd told her that his feet would have the honour. He sits down on the marker to make sure they still feel inclined to do it.
+
+Kaisel gets into the air by himself. For the first turn Kamish follows a long way behind. On the second Kaisel looks back. Kamish comes up alongside.
+
+They are out long enough that Mau stops being able to tell which turn he was counting. Kaisel comes down first and digs both feet in at the edge of the grass. He tilts his head at Mau.
+
+“You can go again later,” Mau says. ᴹ
+
+He rests a hand against Kaisel's neck until the dragon goes back into his shadow. Kamish lands at the other end of the rise. The earth moves through the soles of Mau's boots.
+
+“Are you coming in too?” Mau asks. ᴹ
+
+Kamish looks toward a thin upright thing moving in the distance. It goes up a little and comes all the way down again. It is about the size of one of his teeth, at this distance.
+
+“Is that the broom?” he asks. ᴷᵃ
+
+“Mai's friend. She's got the small rise till lunch.” ᴹ
+
+Kamish settles one forefoot into the grass.
+
+“I'd like to see her fly it.” ᴷᵃ
+
+Mau tells him where the turn is so he can leave her the whole lane. Kamish moves his tail out of it. By the time Mau is halfway back to the house, the broom has gone up again.
+
+* * *
+
+Momo lands for the third time that morning and puts the broom down before she's finished getting off it.
 
 Mai looks up from the heel of the boot. Momo has come in through the door at something faster than a walk and has gone straight past the chair she was supposed to leave the broom beside.
 

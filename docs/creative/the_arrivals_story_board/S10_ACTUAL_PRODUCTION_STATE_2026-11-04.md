@@ -31,13 +31,13 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V61#21 | S10E09 CH02 | B+161 afternoon | Family sees the rooms and the new music space with the band they already know. Bocchi introduces Mau as her chosen brother after his earlier support at reception. V61 closes. |
 | V62#1 | S10E10 CH01 | B+162 morning | Jinshi follows the weight lead, elects to ask Gaoshun with his reserved coin. |
 | V62#2 | S10E10 CH02 | B+162 midday | Gaoshun's voluntary arrival via Jinshi's coin, which is spent. |
-| V62#3 | S10E11 CH01 | B+162 afternoon | Gaoshun settles over food; Rem and Umaru's evening; Subaru lead not yet verified. |
+| V62#3 | S10E11 CH01 | B+162 afternoon | Gaoshun settles over food and makes a breakfast plan of his own with Jinshi and Maomao; Rem and Umaru's evening; Subaru lead not yet verified. |
 | V62#4 | S10E11 CH02 | B+163 morning | Rem and Ram verify Subaru at the way station; consensual guest offer. |
 | V62#5 | S10E12 CH01 | B+163 late morning | Subaru takes room and receives care; Rem keeps her own plans. |
 | V62#6 | S10E12 CH02 | B+163 afternoon | Subaru pressures Rem, she refuses and names what she wants. |
 | V62#7 | S10E13 CH01 | B+163 late afternoon | House sets boundaries; Subaru begins his own inquiry. |
 | V62#8 | S10E13 CH02 | B+163 evening | Rem and Umaru keep their evening and talk in private. |
-| V62#9 | S10E14 CH01 | B+164 evening | Nazuna and Anko follow a first credible report of Ko. |
+| V62#9 | S10E14 CH01 | B+164 morning and evening | Subaru seeks his own route with Hollis and leaves Rem space. Nazuna and Anko follow Ko's lead at the old crossing. |
 | V62#10 | S10E14 CH02 | B+164 evening continuous | Ko and Nazuna reunite at the crossing. No coin. |
 | V62#11 | S10E15 CH01 | B+164 night | Mutual feelings and feeding risk acknowledged. They ask Anko for a consultation. |
 | V62#12 | S10E15 CH02 | B+165 afternoon | Ko and Nazuna request consultation, no physical test. |
@@ -48,7 +48,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V62#17 | S10E17 CH02 | B+166 afternoon continuous | Momo Nishimiya lands at outer marker and meets Mai alive. |
 | V62#18 | S10E18 CH01 | B+166 late afternoon | Mai vouches for Nishimiya at the shadow post. The soldier follows Mau’s standing instructions; Momo crosses the ward with Mai. Brief encounters with Maki and Gojo. Noise reads broom response. |
 | V62#19 | S10E18 CH02 | B+166 evening | Mai makes a steel heel plate for Maki’s boot using her established agreement with Mau. Nishimiya sees Mai stay steady, learns how Mau supplies the cursed energy and bears the strain, and meets him as Yuka’s husband. She learns of Sukuna’s end and asks Mai about her ordinary life. |
-| V62#20 | S10E19 CH01 | B+167 morning | Nishimiya meets Kamish and Momo Ayase. |
+| V62#20 | S10E19 CH01 | B+167 morning | Mau calls Kaisel and Kamish to fly. Kamish chooses to stay and see the broom flight. Nishimiya meets him and Momo Ayase. |
 | V62#21 | S10E19 CH02 | B+167 evening | Mai gives Nishimiya somewhere to come back to. V62 closes. |
 | V63#1 | S10E20 CH01 | B+168 afternoon | Maomao's chocolate returns as group comedy with Jinshi, Rem, Taihei, Maki, Gojo, Shoko and Beru before the Fort scenes. Mau takes one square stronger than intended. |
 | V63#2 | S10E20 CH02 | B+168 afternoon | Mau witnesses an overly broad Fort cupboard form, one copy reaches outer desk. |

@@ -57,6 +57,20 @@ Her first thought is that she would once have liked to hear those first four wor
 
 He looks at her. His mouth moves. She can see that he would like to say he already knows.
 
+“I don't even know what I want you to say,” he says at last. “I thought I'd find somebody who knew me and they'd tell me where I was supposed to go. Then I found you and you had somewhere to be.” ˢᵇ
+
+Rem can see the end of his bandage starting to come loose. At the station she would have wrapped it again before he noticed. She puts both hands around her cup.
+
+“You were somewhere to be,” she says. “I came to the station for you.” ᴿᵉ
+
+“Then why does it feel like I have to make a case for you to spend another hour with me?” ˢᵇ
+
+She looks at him. He really doesn't know. For a moment she thinks about explaining the morning again. He would listen while she did it and spend the whole time looking for the part he could change.
+
+“I'm still here,” she tells him. “I said no to leaving with you and I stayed to talk. You're the one who made it cost more to sit with you.” ᴿᵉ
+
+Subaru looks down. He has worked the edge of the bandage loose himself. He catches the flap under his thumb and tucks it back in. She hears him start to say her name and stop after the first sound.
+
 * * *
 
 Rem sits down on the other side of the map. Her cup has gone cold. She drinks from it anyway.

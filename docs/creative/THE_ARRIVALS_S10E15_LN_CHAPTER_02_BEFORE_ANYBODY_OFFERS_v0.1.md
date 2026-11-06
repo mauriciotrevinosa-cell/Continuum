@@ -70,3 +70,19 @@ Nazuna asks if he wants her to stay while he reads it.
 Kusuri looks at the table. She had thought she'd made two copies. It turns out she made one copy and gave it away. Maomao slides the original toward Nazuna. She has already memorized which side has the plum on it.
 
 They read them beside each other. Nothing on the page tells them what they have to do tomorrow.
+
+Outside the door, Nazuna folds her copy in quarters. She gets as far as putting it in her pocket. Then she takes it out and hands it to Ko.
+
+“I keep getting to the same word and wanting to start again,” she says. “You can hold them for tonight.” ᴺᵃ
+
+Ko takes both. From here he can see through the kitchen window. Kusuri has got there ahead of them and is taking a lid off a jar while someone keeps trying to set a bowl where her elbows are. He hadn't thought anybody here would have a reason to talk to him again if they couldn't do the thing on the page today.
+
+“You want to walk later?” he asks. ᴷᵒ
+
+“I know a place with a roof where they don't lock the gate at night.” ᴺᵃ
+
+“Do you have to fly to get there?” ᴷᵒ
+
+“No. But if we take the stairs you'll have to hear my opinion of all of them.” ᴺᵃ
+
+He tells her he'll bring a drink for the top, if they ever get there. She starts giving him her opinion before they've gone three steps. Somewhere in the first part of it he folds her copy into his so he can give her his arm.

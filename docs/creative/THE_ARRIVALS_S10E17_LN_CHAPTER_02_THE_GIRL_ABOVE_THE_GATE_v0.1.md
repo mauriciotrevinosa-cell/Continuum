@@ -9,7 +9,7 @@
 
 *When: Mai hears someone call Gojo's name from above the path, she looks at the roof first.*
 
-It's a sensible place to look. Gojo has gone to show Shoko the paper ball. He may have gone up onto the roof on the way. But the voice is coming from farther out, past the road marker, and what she sees when she looks past the fence is a girl sitting astride a broom.
+It's a sensible place to look. Gojo sometimes comes down from it when nobody remembers seeing him go up. Today he's beside Mau, watching the paper ball cross the chalk line on the second permitted try. The voice is coming from farther out, past the road marker. When Mai looks past the fence she sees a girl sitting astride a broom.
 
 The broom comes down very fast. Then the girl sees where the yard ends and pulls up so sharply her shoes swing out in front of her.
 
@@ -25,7 +25,7 @@ The broom drops the last foot to the road.
 
 * * *
 
-Momo gets off it and puts both hands back on it, in that order. One of Mau’s shadows has already gone to the marker. Mai tells it she knows the girl and wants to go out to her. The soldier points Mai toward the wicket, then holds its post while she goes through. Mau picks up the cups so nobody will step on them and comes as far as the gate.
+Momo gets off it and puts both hands back on it, in that order. One of Mau’s shadows has already gone to the marker. Mai tells it she knows the girl and wants to go out to her. The soldier points Mai toward the wicket, then holds its post while she goes through. Gojo calls the exercise there. Mau picks up the cups so nobody will step on them and comes as far as the gate, while Gojo takes the paper ball to Shoko.
 
 Momo has put one foot forward. She has forgotten the other one.
 

@@ -53,6 +53,30 @@ Maki takes the mug. She gives Mai the part she'd been trying to get past. She te
 
 Maki looks up.
 
+“Sometimes I hear you say something here,” she says, “and for a second I can't remember which of us woke up.” ᴹᵃ
+
+Mai has her hand on the pitcher. She puts it down. It takes her a second to let go of the handle.
+
+“Does it happen when I'm mad at you?” ᴹᵃⁱ
+
+“You asked me if I'd been eating.” ᴹᵃ
+
+“I ask you that because you won't put a plate down and sit for five minutes unless somebody tells you to.” ᴹᵃⁱ
+
+“I know why you ask.” ᴹᵃ
+
+Maki gets it out easily enough that Mai understands she's known it for a long time. Mai looks at the door. She had come here with one question and hoped it would take up all the room she had. She has a dozen now and only one that she wants to ask this morning.
+
+“Will you tell me next time it happens?” ᴹᵃⁱ
+
+Maki rubs her knuckle over the buckle. “What are you going to do?” ᴹᵃ
+
+“Put a plate down.” ᴹᵃⁱ
+
+Her sister looks away. Mai can hear the chair move as Maki puts her feet flat on the floor. When she looks back, she has almost got it together.
+
+“All right,” she says. ᴹᵃ
+
 Mai has been thinking about a room she remembers. She can see the door to it and the place on the wall where she'd once scraped the paint. The rest of what Maki has told her has nowhere to go yet. She can see that it goes somewhere very particular for Maki.
 
 “Did you think I'd ask you to be who you were before?” Mai asks. ᴹᵃⁱ

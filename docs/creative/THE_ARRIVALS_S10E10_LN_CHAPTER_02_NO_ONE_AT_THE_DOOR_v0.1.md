@@ -9,7 +9,7 @@
 
 *When: Jinshi opens his hand, the first thing Gaoshun does is look past him at the door.*
 
-There is no one there. The door is half open and it goes into a yard. A person walks across it with a broom and doesn't look in. Gaoshun watches until the person gets to the other side, then turns back to Jinshi.
+There is no one there. The door is half open and it goes into a yard. Jinshi sees Taihei cross it with a broom without looking in. Gaoshun watches until he gets to the other side, then turns back to Jinshi.
 
 He inclines his head.
 
@@ -31,7 +31,7 @@ Maomao pours tea. Gaoshun thanks her in the same tone he'd use if she had been t
 
 “Can they see you from the yard?” he asks Jinshi. ᴳᵃ
 
-Jinshi looks out. The person with the broom has come back to collect a bucket. He lifts his cup in greeting. The person with the bucket lifts a hand and goes on with the bucket.
+Jinshi looks out. Taihei has come back to collect a bucket. Jinshi lifts his cup in greeting. Taihei lifts a hand and goes on with the bucket.
 
 “Yes,” he says. ᴶⁱ
 

@@ -31,11 +31,11 @@ Yuka drops it in Mau's coat pocket on her way past him. She keeps walking, then 
 
 The crossing smells like something has come out of an oven nearby. Mau can only see two parcels on the inner counter. Yuka points him toward the little one with the broken string.
 
-Hollis is standing at the window with the tally keeper. A driver outside wants to know whether she expects him to open a barrel right there in the lane. She says she expects him to put it where she can look at the seal. Hollis waits until she has finished explaining it. When the man asks Hollis the same question, Hollis points to her.
+Hollis is standing at the window with Sela. A driver outside wants to know whether she expects him to open a barrel right there in the lane. She says she expects him to put it where she can look at the seal. Hollis waits until she has finished explaining it. When the man asks Hollis the same question, Hollis points to her.
 
 “She told you where,” he says. ᴴᵒ
 
-The man shifts the barrel. It's easier to hear one another when he isn't knocking it against the sill. The tally keeper makes him stand where he can watch her enter it. She puts the slip on the counter for him to check and lets him find the place to sign by himself.
+The man shifts the barrel. It's easier to hear one another when he isn't knocking it against the sill. Sela makes him stand where he can watch her enter it. She puts the slip on the counter for him to check and lets him find the place to sign by himself.
 
 By the time the window is clear, Yuka has unwrapped the parcel far enough to see the bread. She hasn't taken any.
 
@@ -59,15 +59,27 @@ She bites down and has to stop and start again, the same as he did. Mau laughs. 
 
 * * *
 
-The tally keeper comes back for her lunch after the driver leaves. She asks Hollis how long he thinks they can keep using the little window. Hollis asks whether there's a part of it she wants to change.
+Sela comes back for her lunch after the driver leaves. She asks Hollis how long he thinks they can keep using the little window. Hollis asks whether there's a part of it she wants to change.
 
-“I want the wagon to have a place to wait where the second wagon can go past it,” she says. “And I want to be able to close this side if I see those men again.” ᵂᵏ
+“I want the wagon to have a place to wait where the second wagon can go past it,” she says. “And I want to be able to close this side if I see those men again.” ˢᵉˡ
 
 Hollis takes the keys out of the drawer and puts them beside her plate.
 
 “You can close it whenever you think you need to,” he says. “We'll find a place for the wagon after lunch.” ᴴᵒ
 
-Mau stays in his seat while they talk about it. When Hollis asks him if he can move a marker later, he says yes. He waits until Hollis has eaten his bread before he asks which one.
+There's a knock at the inner window. Subaru has been going to the station when he can, asking which people were working along his road the day he came through. Today a reed cutter agreed to talk to him. He came by afterward to ask Hollis when somebody might be going that way again.
+
+“Did he see anybody?” Hollis asks. ᴴᵒ
+
+“He saw me,” Subaru says. “I kept asking him if he was sure he hadn't seen anybody else. He was sure.” ˢᵇ
+
+Hollis takes out the list of carts. There will be one going east in two days. He points to the time the driver will want to leave. Subaru copies it, then asks if he's meant to come with something to pay for the ride.
+
+“Ask him. He's just outside with the barrel,” Hollis says. ᴴᵒ
+
+Subaru puts the paper in his pocket. He'd brought the old map with the bend Ram helped him draw, in case he had something to add to it. He hasn't. He goes outside to ask the driver anyway. Sela watches through the window long enough to see him take hold of one end of the barrel and hear the man tell him how to set it down without losing his toes.
+
+Mau stays in his seat while Hollis and Sela finish talking. When Hollis asks him if he can move a marker later, he says yes. He waits until Hollis has eaten his bread before he asks which one.
 
 Outside, Mau puts his hands in his coat pockets. Yuka reaches into the nearer one. He thinks she's after the wedge until her fingers go past it and she closes her hand around his.
 

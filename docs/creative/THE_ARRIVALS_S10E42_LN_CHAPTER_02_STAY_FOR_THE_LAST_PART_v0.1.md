@@ -21,9 +21,19 @@ Kita has been sitting beside her with a cup between both hands. She lets the ans
 
 The people at the back of the room start to move their chairs out of the passage so they can stay.
 
+Touka catches the back of Ichika's chair before she can drag it far enough to block the whole door. Ichika points to a place near the guitar where she'll be able to see everything. Touka finds one chair there. She puts Ichika in it and tells Kaneki to find his own.
+
+“You took mine,” he says. ᴷᵃ
+
+“I put your daughter in it. You can ask her to move.” ᵀᵒ
+
+Kaneki looks at Ichika. She has both feet on the crosspiece and both hands on the edge of the seat, as if that's what will keep the music from stopping again. He gets a stool from beside the wall and gives it to Touka instead.
+
+At the end of the second song Ichika leans far enough over to whisper something to Futari. She wants to know if they're allowed to ask for the same one again. Futari tells her that she's had good results asking. She has also had good results waiting till Bocchi's had some cake. They go to look for the cake together.
+
 * * *
 
-Ori has saved a place by Frieren for a letter which is too big to go beside her plate. She opens it on the floor first. It's a note from one of the students who went on the Fort expedition. The note says that the route on the last map looked longer before they had walked it. Ori has been asked if that means the next map should be smaller.
+Ori has saved a place by Frieren for a letter which is too big to go beside her plate. She opens it on the floor first. It's from Chloe, who has drawn both their hands on the map again. The note says that the route on the last map looked longer before they had walked it. Ori has been asked if that means the next map should be smaller.
 
 Frieren takes a look at the old map while Ori decides. She turns the page right side up. Ori takes it back and turns it around again. It is easier to see why they missed the little path when she holds it as she was holding it in the dungeon.
 

@@ -17,11 +17,11 @@ Kaisel has flattened himself behind the rise. Rimuru puts his arms out and waits
 
 * * *
 
-When they get home, the tally keeper is waiting by the door. She starts to tell Hollis that she left the key with the driver.
+When they get home, Sela is waiting by the door. She starts to tell Hollis that she left the key with the driver.
 
 “He'll know what to do with it,” Hollis says. “Sit down a minute. I can wait for Shoko.” ᴴᵒ
 
-Shoko has already come in behind him. She moves a chair across with her foot and has him put both arms on the table so she can see the difference between them. By the time she wraps the wrist, Hollis has had enough time to listen to what the tally keeper wrote and to ask for a pen.
+Shoko has already come in behind him. She moves a chair across with her foot and has him put both arms on the table so she can see the difference between them. By the time she wraps the wrist, Hollis has had enough time to listen to what Sela wrote and to ask for a pen.
 
 He writes his account under hers. His handwriting is awkward. He goes back over his name at the end so nobody will have to ask him if the last letters are really there.
 
@@ -44,3 +44,9 @@ Hollis puts the pen down on top of the paper he signed.
 “If he agrees, I still want him to say why he did it. I didn't lose a morning because a guard got confused.” ᴴᵒ
 
 Fern waits for Rimuru to finish writing. She takes the page back upstairs with the others. Shoko lets Hollis rest his hand on the table while the ink dries.
+
+Sela knows where the driver will have left his wagon. She goes as far as the crossing with the folded letter and asks if he's still bound for the lower market. He says he has a crate to unload there, if she still wants him to take it.
+
+“You can keep it till you get there,” she says. “Will you give this to the clerk yourself?” ˢᵉˡ
+
+He takes the letter and slides it inside his coat. Before he goes, Sela makes a copy of Hollis's note about the key, so the next person at the window will know which crate went with him.

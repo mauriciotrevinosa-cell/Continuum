@@ -9,7 +9,9 @@
 
 *When: the king finishes reading the copy of the road complaint, he puts it back in front of the woman with the red hair.*
 
-“Three drivers I buy oil from,” he says. “One of them has already written to tell me who to send any further complaints to.” ᴱᵈ
+“Three drivers I buy oil from,” he says. “One of them left a letter with my clerk at dusk. She wants the flour shed on the crossing to take complaints from her drivers.” ᴱᵈ
+
+He knows the shed. The same wagon used to go past it when it was time to pay him for another year. He can see the turn where it would have to take the other road.
 
 “Did he ask you first?” Makima asks. ᴹᵃᵏ
 

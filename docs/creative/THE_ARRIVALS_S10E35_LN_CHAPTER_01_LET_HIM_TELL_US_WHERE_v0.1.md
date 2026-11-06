@@ -7,11 +7,11 @@
 **Source episode:** S10E35
 **Continuity state:** B+172 afternoon. The house receives direct testimony. Mau and Rimuru organize Hollis's extraction and delay any response until Hollis has a say.
 
-*When: the tally keeper arrives, she has her note ready before Fern has finished asking who she needs to see.*
+*When: Sela arrives, she has her note ready before Fern has finished asking who she needs to see.*
 
 Fern reads it with her. The woman points to the last line with the nail of one finger.
 
-“He asked to tell me who was taking him. That's when the man did that.” ᵂᵏ
+“He asked to tell me who was taking him. That's when the man did that.” ˢᵉˡ
 
 Fern asks whether there was anyone else in the wagon. No. Whether she heard where they were taking him. To the king. Whether she'd recognise the seal if she saw it again. She says yes. Fern asks her to stay long enough to put that part in writing too, then calls Rimuru.
 
@@ -19,7 +19,7 @@ Mau comes in while they're reading the second account. Yuka is close behind him.
 
 “Do we have anybody there already?” he asks. ᴹ
 
-Rimuru knows which house routes have a lookout. He takes out the map and asks the woman to show him which way the wagon turned. She taps the road that leads away from the crossing. Rimuru puts his finger farther along it.
+Rimuru knows where Mau has stationed the road scouts. He takes out the map and asks the woman to show him which way the wagon turned. She taps the road that leads away from the crossing. Rimuru puts his finger farther along it.
 
 “If they follow this, we can get eyes on them before they reach the hill.” ᴿⁱ
 
@@ -27,7 +27,7 @@ Mau starts to call for Beru. Yuka puts her hand on the corner of the map. He can
 
 “If we find him in the wagon,” she says, “ask him how he wants to come out. Let him know we're getting him first.” ʸ
 
-Mau looks at her. She has put two fingers exactly where the tally keeper set hers.
+Mau looks at her. She has put two fingers exactly where Sela set hers.
 
 “First,” he says. ᴹ
 
@@ -47,7 +47,11 @@ Rimuru puts his finger on the rise. He can be there on Kaisel while Igris gives 
 
 * * *
 
-They get word from a scout when the wagon stops below the hill. The guards have asked somebody at a gate to open it and are waiting for a key. Hollis is in the back with one of them. Rimuru asks the scout if there is a place a man can step down without dropping very far. There is a stack of sacks where the wagon has stopped.
+Mau asks the scout on the hill to look down the road Sela showed them. When he closes his eyes, he can see the wagon stop just below the gate. One guard stays in the back with Hollis while the other gets down to ask for the key.
+
+“Can he get out without jumping?” Rimuru asks. ᴿⁱ
+
+Mau looks where the road goes dark under the wagon. There is a stack of sacks beside the wall. A boot could reach the top one from the step. He tells Rimuru where it is, then asks Igris to take a place where he can get between the guard and the sacks when Hollis gives the word. He opens his eyes long enough to see Rimuru point out the rise again before they go.
 
 Mau trades places with the shadow beneath the wagon and waits until the guard leans out to ask what's taking so long. Then he puts a hand up beside Hollis's boot. Hollis looks down.
 

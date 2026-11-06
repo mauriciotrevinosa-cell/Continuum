@@ -83,8 +83,8 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V64#4 | S10E33 CH01 | B+171 evening | Mau chooses to leave the archive closed. Ori keeps her recado for later. That night Mau sleeps well; he lifts with Yuka in his arms. |
 | V64#5 | S10E33 CH02 | B+172 morning | Noise names himself Noise in a conversation with Mau and DIO. |
 | V64#6 | S10E34 CH01 | B+172 morning | Makima prompts King Edran of Vey to target Hollis. Edran writes and signs the order himself. |
-| V64#7 | S10E34 CH02 | B+172 afternoon | Edran's guards detain Hollis at the crossing and hurt his wrist. The tally keeper takes her own report to the house. |
-| V64#8 | S10E35 CH01 | B+172 afternoon | Fern, Rimuru, Yuka and Mau act on the report. Shoko agrees to one planned Exchange with a walking exit and Rimuru as fallback. Mau reaches Hollis and waits for his agreement to leave. |
+| V64#7 | S10E34 CH02 | B+172 afternoon | Edran's guards detain Hollis at the crossing and hurt his wrist. Sela, the tally keeper, takes her own report to the house. |
+| V64#8 | S10E35 CH01 | B+172 afternoon | Fern, Rimuru, Yuka and Mau act on Sela's report. Mau observes the wagon through his road scout and relays the view. Shoko agrees to one planned Exchange with a walking exit and Rimuru as fallback. Mau reaches Hollis and waits for his agreement to leave. |
 | V64#9 | S10E35 CH02 | B+172 late afternoon | Igris shields Hollis without attacking. Hollis rides home, gives his own account and asks to protect the crossing. |
 | V64#10 | S10E36 CH01 | B+172 evening | Edran renews his order against whoever works the crossing. The house conditions any response on civilian needs and gets Hollis's help. |
 | V64#11 | S10E36 CH02 | B+173 morning to evening | Hollis and Rem test Meret's replacement oven before she hands over the old key. Edran gets notice. Guards leave the gate open and help clear the laundry. Edran walks out by choice. |
@@ -99,7 +99,7 @@ Mauri greenlit writing on 2026-11-04. This ledger records produced scenes, separ
 | V64#20 | S10E41 CH01 | B+176 afternoon | Ko, Mau and Nazuna consent. Mau reproduces Ko's incomplete state; Nazuna tastes Mau's blood, with Shoko and Yuta ready and the wheel available. |
 | V64#21 | S10E41 CH02 | B+176 later afternoon | No toxicity observed in Nazuna from the modeled sample. Team records scope; Ko and Nazuna choose to wait before any actual feeding. |
 | V64#22 | S10E42 CH01 | B+176 late afternoon | Mau and Yuka cook; Bocchi chooses to share a song with her family and the band; Mai brings cherries. |
-| V64#23 | S10E42 CH02 | B+176 evening | Music, Fort letters and food give the household an evening together. A caller knocks. |
+| V64#23 | S10E42 CH02 | B+176 evening | Music, Chloe's map letter and food give the household an evening together. Touka, Kaneki and Ichika join the music. A caller knocks. |
 | V64#24 | S10E43 CH01 | B+176 evening | Mau recognizes Jin-Woo. Yuta meets him in this branch. Jin-Woo explains the one-time arrival and comes in by invitation with his own Beru. |
 | V64#25 | S10E43 CH02 | B+176 evening | Ashborn chooses to receive Jin-Woo. They sit beside the open window and talk about the rest Ashborn chose. |
 | V64#26 | S10E44 CH01 | B+176 night | Each Beru stays with his king. They trade notes, agree on two ideas, then find a third. S10 closes at the table. |

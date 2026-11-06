@@ -19,7 +19,7 @@ He asks the man if he's come with a letter. The man has one. He wants Hollis to 
 
 “May I go back and tell the woman inside who's taking me?” ᴴᵒ
 
-The man looks past him. The woman who keeps the tally has stood up behind the counter. She puts the heel of her hand against the little door so it won't swing shut.
+The man looks past him. Sela, who keeps the tally, has stood up behind the counter. She puts the heel of her hand against the little door so it won't swing shut.
 
 “Don't bother her,” Hollis says. “She hasn't come outside.” ᴴᵒ
 
@@ -29,7 +29,9 @@ Hollis had come out to give the driver the key to a crate. It is still in his ot
 
 “Check the other side of the tally before you close,” he tells the woman. ᴴᵒ
 
-She keeps her hand against the door until the wagon leaves.
+Sela keeps her hand against the door until the wagon leaves. The man with the order sees her at the window. She can tell because he lifts his chin to see if she's still there after the second wheel goes past.
+
+She could shut the door and he would go the rest of the way without seeing her face. She stays where she is. She wants to know which direction the driver will turn when he sees the bar come down behind him. He points his horse up the side of the hill. There is a place on that road where wagons have to stop and wait for the gate to be opened. Sela can put it on a map if somebody asks.
 
 * * *
 

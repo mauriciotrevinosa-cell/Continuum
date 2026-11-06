@@ -69,6 +69,6 @@ Jin-Woo turns to Mau. Neither of them has to say anything. Mau can see the exact
 
 Mau laughs. He tries to put the jam down before he does it again. Yuka takes the jar out of his hand and leaves her shoulder where he can lean against it.
 
-At the far end of the table somebody asks if there is room for the aunt to have her own story. Both Beru look up. Their kings look at each other again.
+At the far end of the table, Touka asks if there is room for the aunt to have her own story. Both Beru look up. Their kings look at each other again.
 
 Mau moves his chair over and makes room.

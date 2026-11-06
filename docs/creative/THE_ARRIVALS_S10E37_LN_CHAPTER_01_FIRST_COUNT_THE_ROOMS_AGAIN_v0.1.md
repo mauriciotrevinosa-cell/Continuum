@@ -13,7 +13,7 @@ Igris puts one group on the stairs and one on the wall above the well. From belo
 
 The room under the stairs is the last one Igris reports. Nothing there but a broken shelf. Mau asks him to take the shelf before they start. The person who comes to get it can decide if it is still worth fixing.
 
-The castle has to come apart in an order the people living below it can survive. Mau begins where the roof comes clear of the adjoining house. Shadows take the tiles down in stacks and send them along the wall to him. He keeps each stack apart from the next so the stone and timber can be returned in the right order. The work goes quicker once the braces are in. It still takes the time it takes to pick up every piece.
+The castle has to come apart in an order the people living below it can survive. Mau begins where the roof comes clear of the adjoining house. Shadows take the tiles down in stacks and send them along the wall to him. He takes each stack into inventory, keeping the tiles from each slope apart so Ciel can tell him which ones belong with the next load of timber. The work goes quicker once the braces are in. It still takes the time it takes to pick up every piece.
 
 Halfway along the roof Mau stops being able to stand with his weight even. He could keep standing. He looks down and realizes his right foot has been doing all the work for the last three stacks. Igris brings him the chair from the gatehouse. Mau sits in it while the next load is brought over. He asks for the stack to be set down on his good side. There's no point making Igris pick it up twice.
 

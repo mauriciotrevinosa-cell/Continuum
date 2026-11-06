@@ -33,7 +33,25 @@ Meret has written down how long she left the new oven to heat. The first line is
 
 Rem folds the letter. She starts to put it away, then unfolds it again and calls for Mai. She thinks Mai will want to know what Meret said about the hinge. Mai asks if she can read it after dinner. Rem brings her another card and puts the letter under the unused plate where it'll keep.
 
-Fern comes in to take the other three letters. One of them asks if it is safe to take the old road. Hollis can answer that one in the morning with the tally keeper. He asks Fern to leave it on top. Fern does. Then she takes a chair. It is the first thing she has picked up all evening that she puts down without checking where anybody else wants it.
+Fern comes in to take the other three letters. One of them asks if it is safe to take the old road. Hollis can answer that one in the morning with Sela. He asks Fern to leave it on top. Fern does. Under it is a letter from the mill, with Nell's name on it. It's been folded small enough to fit in a purse. Fern puts it in her own pocket and goes to the yard with it.
+
+Nell opens the door before the second knock. There is a coat across her knees and one long white thread hanging out of the hem. She lifts it out of the way to take the letter.
+
+“Would you like me to stay?” Fern asks. ᶠᵉ
+
+Nell turns it over. She looks at the little mark her sister always put across the end of her name because she once thought it looked like a bird. Then she looks at the empty chair.
+
+“I want to read it by myself,” she says. “Could I come tell you what it says when I've done it?” ˣ
+
+Fern tells her where to find her. When Nell comes in later, she's got the coat over one arm. Her sister wants to know if there's a way to come and see her without bringing all her things. Nell says she'd like to meet her at the mill first. She's been putting some money away for the ride. She wants to take it there herself.
+
+“Do you want anybody to come with you?” Fern asks. ᶠᵉ
+
+“I'll ask West. He wants to see if they've got work he can do after market.” ˣ
+
+She puts the coat on the back of a chair and sits down in it. The owner can come ask for it when she gets here. Somebody asks Nell if she wants a hand of cards. She says she does, if somebody can tell her why one of them is on the windowsill.
+
+Fern takes a chair too. It is the first thing she has picked up all evening that she puts down without checking where anybody else wants it.
 
 * * *
 

@@ -9,7 +9,7 @@
 
 *When: Rimuru reads the answer out, Hollis asks him to start again at the part where the king says what he'll do to the next person.*
 
-Rimuru does. Anyone taking Hollis's place at the counter is to be held to the same order. There is no answer to the invitation to come in daylight. Edran has signed this page himself, too.
+Rimuru does. The driver waited for the clerk to bring the reply down and handed it to Sela when he brought the key back at dusk. Anyone taking Hollis's place at the counter is to be held to the same order. There is no answer to the invitation to come in daylight. Edran has signed this page himself, too.
 
 Fern sets the first accounts alongside it. She hasn't put the two seals on top of each other. She leaves them far enough apart that anybody in the room can see which paper came first.
 
@@ -81,7 +81,7 @@ Hollis looks across at her. “Can you carry a basket?”
 
 “Then bring one. She'll give you something to do while you talk.” ᴴᵒ
 
-Rimuru sets a fresh page beside the map. There is time to send a warning to the people scheduled at the crossing before any of them gets up for work. He starts with the tally keeper. Fern sends somebody to find out whether she has eaten.
+Rimuru sets a fresh page beside the map. There is time to send a warning to the people scheduled at the crossing before any of them gets up for work. He starts with Sela. Fern asks Rem to take something for her to eat when she brings the notice down.
 
 Shoko comes back for the cup she left behind. She hears enough about the hill to ask what Mau will actually have to lift.
 

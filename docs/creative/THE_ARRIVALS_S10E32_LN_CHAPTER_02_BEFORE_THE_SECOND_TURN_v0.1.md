@@ -9,7 +9,7 @@
 
 *When: Ori finds Mau at the edge of the yard, she asks why he is watching Kaisel's shadow instead of Kaisel.*
 
-Mau looks up. Kaisel is lying where the ground is warm with one wing stretched far enough that the shadow reaches the path.
+Mau looks up. Kaisel is lying where the ground is warm with one wing stretched far enough that the shadow reaches the path. Mau left him out when they got back from the road. He had gone to the clinic first and come out to find the dragon in the same place.
 
 “I'm trying to work out how much of the house you can see from where his wing ends.” ᴹ
 

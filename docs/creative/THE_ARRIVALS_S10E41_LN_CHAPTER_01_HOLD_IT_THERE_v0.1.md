@@ -59,7 +59,17 @@ Kusuri makes a mark on the page. The wheel is waiting. Mau can feel where he wou
 
 “I used to think I'd find out by being stupid at the wrong moment,” she says. “I'd rather find out this way.” ᴺᵃ
 
-Yuta shifts close enough to help her without having to reach across anybody. Shoko leaves room for Nazuna to back away on her own. Maomao waits for Noise to confirm that the state is still holding before she passes the sample across. Nazuna lifts it herself. There is barely enough to taste.
+Yuta shifts close enough to help her without having to reach across anybody. Shoko leaves room for Nazuna to back away on her own.
+
+Ko looks at the hand he was going to use for the sign. He's thought of about six things he might see that would make him want to stop. None of them has happened. Nazuna turns far enough to see him anyway.
+
+“You don't have to look at the cup the whole time,” she says. ᴺᵃ
+
+“Where do you want me to look?” ᴷᵒ
+
+“At me would be nice.” ᴺᵃ
+
+He looks at her. She is nervous enough to smile the way she used to when she wanted to get him out onto a roof and couldn't promise how he'd feel when they got there. That gives him something to do besides count what could go wrong. He smiles back. Maomao waits for Noise to confirm that the state is still holding before she passes the sample across. Nazuna lifts it herself. There is barely enough to taste.
 
 Her eyes close. Ko's hand starts to come up. He holds it still at the edge of the table.
 

@@ -53,7 +53,7 @@ The seller can make use of that answer. He puts his own slate back where it was,
 
 * * *
 
-Hollis reads the second one at the crossing. The tally keeper comes over to see if he wants a hand with the shutter. He says yes. She puts the key down where both of them can find it later. For today all deliveries will be taken at the inner window. She writes it above the place for his name and he signs with his good hand braced against the bottom.
+Hollis reads the second one at the crossing. Sela comes over to see if he wants a hand with the shutter. He says yes. She puts the key down where both of them can find it later. For today all deliveries will be taken at the inner window. She writes it above the place for his name and he signs with his good hand braced against the bottom.
 
 Mau has come as far as the crossing with him. He is still standing behind the line Hollis usually asks customers to stand behind.
 

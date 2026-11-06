@@ -14,7 +14,7 @@
 - **Casa.** Las reuniones familiares, el Fort y el recado cerrado de Ori conservan su estado. Mau y Yuka juntos y con vida propia. Mau deja cerrado el archivo de Sukuna por decisión propia. La despedida de la línea anterior lo alivia y esa noche vuelve a flotar dormido, abrazado a Yuka. Sigue el gris excepto Yuka. Noise eligió su nombre. Sin cambio de embarazo, capacidades o vínculos románticos en el cierre.
 
 - **Falling Devil.** La casa reporta el incidente de la pared. Luminous investiga el lugar. La identidad del instigador y la posibilidad de que vuelva siguen abiertas; el acceso a la vida anterior ocurrió una vez.
-- **Pase posterior de S10.** Se ampliaron la convivencia del chocolate, el tratado del Fort, la respuesta de la guarnición y el horno de Vey, el eco del miedo en Ashby y la preparación de Kusuri con sus amigas. La revancha de Milim, la carta de Nell, Yuuki y las demás propuestas de reparto siguen disponibles para decidir cuándo convienen.
+- **Pase posterior de S10.** Se ampliaron la convivencia del chocolate, el tratado del Fort, la respuesta de la guarnición y el horno de Vey, el eco del miedo en Ashby y la preparación de Kusuri con sus amigas. Nell recibe respuesta de su hermana y elige encontrarse con ella en el molino; el encuentro sigue pendiente. Subaru sigue su propia pista y respeta el espacio de Rem. La revancha de Milim, Yuuki y las demás propuestas de reparto siguen disponibles para decidir cuándo convienen.
 
 ## Ritmo y alcance
 

@@ -41,7 +41,7 @@ Hollis tells her about the path below the yard. She sends him down it to see whi
 
 “Keep it until then,” Rem says. ᴿᵉ
 
-Hollis marks the oven on the map. The shared grain shed is already marked. There are six beds in the rooms behind the castle laundry. One person there will have to be carried down the steps or wait while somebody gets a chair that can go round the turn. Fern asks which he would rather. She sends someone to ask him in person before she puts a mark against the room.
+Hollis marks the oven on the map. The shared grain shed is already marked. There are six beds in the rooms behind the castle laundry. One person there will have to be carried down the steps or wait while somebody gets a chair that can go round the turn. Fern asks which he would rather. She asks Yuka to take the question up the steps before she puts a mark against the room.
 
 The lower town has an empty schoolroom, a clean storehouse with a chimney, and neighbors who can take in most of the people from the upper floor. The house sends out blankets and two big water jars by wagon. Nobody has to give a name to collect one. Yuka walks the route from the schoolroom to the well with one of Meret's neighbors. She carries an empty pail to see if it fits through the gap beside the steps. It doesn't. By the time Mau comes, there is a second way through from the lane. The neighbor tells him to keep both.
 
@@ -103,6 +103,6 @@ Mau looks at the key in Edran's hand. “Is there anybody you still need to let 
 
 Edran looks down the hill. His clerk has stopped where the steps divide. The man's coat is thrown over an elbow and he has a small empty basket at his feet. He hasn't gone any farther without him.
 
-Edran leaves the key in the lock. He picks up his bag with both hands and walks through the gate.
+Edran puts the key in the lock. He leaves it there without turning it, picks up his bag with both hands and walks through the gate.
 
 Mau waits for Fern's signal from the bottom of the hill before he lets Igris touch the first stone.

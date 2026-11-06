@@ -31,6 +31,10 @@ Leon asks if she's sending anybody to the wall outside the hall. Rimuru's accoun
 
 “I sent somebody to look at it,” she says. “I haven't sent anybody to say they know who did it.” ᴸᵘ
 
+She shows him the note the guard brought back. A strip of turf pulled out by the roots on the uphill side. Mortar missing from a wall too low to come down under its own weight. Rimuru told them what Mau saw and where the woman had been standing. The guard has drawn her position in pencil so it can be moved if he got it wrong.
+
+“Keep the bench road clear until we've walked it in daylight,” Luminous says. “Tell the people who use it what we saw. They can tell us what they see without having to agree about her name.” ᴸᵘ
+
 Luminous asks for another sheet. She writes to the person who can answer that part. Leon reads the question once, adds his name under hers and leaves the other paper folded.
 
 * * *

@@ -29,7 +29,7 @@ Mau has wanted to hear the end of that question for a long time. He hadn't pictu
 
 “Something opened where I was. I knew the trace I'd heard you through. By the time I got my footing there was a road behind me and the opening had closed.” ᴶʷ
 
-He points away from the house, toward the way Rimuru had told the guard to keep clear of wagons. Rimuru asks how far. The man describes the two bends. The guard can check those without leaving the path.
+He points away from the house, toward the way Rimuru had told the shadow watch to keep clear of wagons. Rimuru asks how far. The man describes the two bends. Mau can have one of the sentries check them without leaving the path.
 
 Mau looks again at the man's face.
 

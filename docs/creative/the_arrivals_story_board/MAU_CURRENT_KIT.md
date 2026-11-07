@@ -1,4 +1,4 @@
-# Mau — Repertorio vigente al cierre de S10
+# Mau — Repertorio vigente al inicio de S11
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -7,6 +7,7 @@ Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_
 | Rama | Estado y condiciones |
 |---|---|
 | Noise y Ciel | Observe, Analyze, Understand y Construct permiten trabajar con patrones accesibles. Registrar por separado observación, comprensión, modelo y ejecución. Ciel coordina, supervisa y puede cortar una operación. Las memorias compartidas conservan el alcance elegido por quien las ofrece. |
+| Movement Learner, primer prototipo | V65#6–9: revisión posterior a acción de una muestra seleccionada, inicialmente el giro de hombro en lección de Jin-Woo. Ciel/Noise separan y anotan la observación; detectan/corrigen una referencia anterior al cambio de agarre de Mau. Un intento mejora y el siguiente falla: sin aprendizaje motor automático, predicción universal ni ejecución por cuenta del sistema. Ciel lo llama hermanita de Mini Ciel; proceso de apoyo silencioso distinto del filtro de ojos. |
 | Six Eyes y Mini Ciel | Ojos reproducidos con filtro de información. Los ojos mejoran la eficiencia de CE, y el filtro vuelve manejable la percepción. La reserva accesible de Mau se ha comparado por encima de Yuta. El control, el caudal y la duración se valoran por separado. V40#9 y V63#9. |
 | Físico y Corazón Negro | Los atributos adquiridos siguen incorporados al cuerpo. Noise culminó el fragmento de luz durante V59 y cayó el antiguo gobernador del Arquitecto. El nivel 200 queda como referencia del sistema previo. Distinguir maná del Corazón Negro, caudal físico y CE finita. La recuperación posterior restableció la función afectada por el duelo. Persisten las secuelas viejas, las cicatrices nuevas y el seguimiento de Shoko. |
 | Limitless y uso de CE | Blue, Red, Infinity y Purple practicados en escenas. DA y recuperación de técnica tienen costes propios. Se alternan técnicas en el propio cuerpo. La práctica de recuperación con Blue en V62#16 se mantiene acotada. El paso de potencia máxima a uso habitual requiere evidencia. |
@@ -38,5 +39,6 @@ Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_
 | V60 y S10 | Recuperación física y vuelta gradual a herramientas ya practicadas. Conservar las secuelas identificadas en los registros de recuperación. |
 | V62#18, V63#9 | Observación de la escoba, primera Construction propia demostrada a escala pequeña y ejemplo doméstico de Authority. |
 | V64#4, #8 y #20–21 | Elección de mantener cerrado el archivo, Exchange con respaldo y modelo temporal de Ko. |
+| V65#5–9 | Jin-Woo enseña movimiento de dagas con trainers/agarre adaptado a mano real, sin curar secuelas. Se diseña, construye y prueba revisión acotada Movement Learner; distingue mapa de habilidad practicada. Sin nueva técnica de combate ni incremento físico. [Producción S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). |
 
 Con cada adquisición o mejora, añadir capítulo, estado anterior y nuevo, coste, condiciones, duración y testigos. Usar las categorías observado, construido, probado, repetible y pico según la escena. En el mismo cambio, actualizar el registro de producción y enlazar aquí el capítulo que lo demuestra.

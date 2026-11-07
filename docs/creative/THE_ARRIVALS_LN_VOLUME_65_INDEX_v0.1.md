@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 65
 **Season:** 11
-**Coverage:** S11E01–S11E03 (volume in production; season continues)
+**Coverage:** S11E01–S11E05 (volume in production; season continues)
 **Volume title:** **A Place to Stay**
-**Chapter files:** 6
+**Chapter files:** 10
 
 The guest at the end of the road brings a war with him. The house has an idea about what he might bring home instead.
 
@@ -21,3 +21,7 @@ The guest at the end of the road brings a war with him. The house has an idea ab
 | 4 | S11E02 | Something Worth Coming Home To | `THE_ARRIVALS_S11E02_LN_CHAPTER_02_SOMETHING_WORTH_COMING_HOME_TO_v0.1.md` |
 | 5 | S11E03 | Where the Other Hand Goes | `THE_ARRIVALS_S11E03_LN_CHAPTER_01_WHERE_THE_OTHER_HAND_GOES_v0.1.md` |
 | 6 | S11E03 | The Part He Could Not Skip | `THE_ARRIVALS_S11E03_LN_CHAPTER_02_THE_PART_HE_COULD_NOT_SKIP_v0.1.md` |
+| 7 | S11E04 | The List He Kept | `THE_ARRIVALS_S11E04_LN_CHAPTER_01_THE_LIST_HE_KEPT_v0.1.md` |
+| 8 | S11E04 | Wife, Friend | `THE_ARRIVALS_S11E04_LN_CHAPTER_02_WIFE_FRIEND_v0.1.md` |
+| 9 | S11E05 | The Wrong Fold | `THE_ARRIVALS_S11E05_LN_CHAPTER_01_THE_WRONG_FOLD_v0.1.md` |
+| 10 | S11E05 | The Costume Department | `THE_ARRIVALS_S11E05_LN_CHAPTER_02_THE_COSTUME_DEPARTMENT_v0.1.md` |

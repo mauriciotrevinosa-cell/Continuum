@@ -1,5 +1,7 @@
 # Mau — Repertorio vigente al inicio de S11
 
+**Último estado producido consultado:** V65#26, B+185 mañana. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
 ## Disponible y acotado
@@ -21,6 +23,26 @@ Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_
 | Construction de Mai, versión de Mau | V63#9 documenta dos piezas sencillas de acero con formas que conoce, un clip para el pelo y otro para una bolsa. Noise aprovechó el patrón observado en el acuerdo con Mai. El uso demostrado se limita a esa escala. Mai conserva el control de su taller. |
 | Cuerpo y modelos temporales | Patrón slime aislado ya utilizado. Presión de True Dragon acotada y con restricciones durante el duelo. En V64#20–21 Noise modela temporalmente el estado incompleto de Ko con consentimiento para una prueba concreta. Registrar esa prueba como temporal. |
 
+## Uso actual: disponibilidad, práctica y supervisión
+
+Un patrón aprendido permanece disponible; su integración no significa que esté activado todo el tiempo. Los incrementos físicos incorporados sí permanecen aunque cambie armas o cierre una técnica. «Uso habitual» describe lo repetible demostrado en las condiciones normales de Mau; un deterioro médico concreto puede exigir otra valoración, sin resetear su repertorio.
+
+| Estado | Qué puede registrarse aquí al presente | Qué todavía no implica |
+|---|---|---|
+| Permanente en el cuerpo/estructura | Incrementos físicos adquiridos; Corazón Negro unido y antiguo gobernador roto; ojos reproducidos y filtro Mini Ciel; secuelas viejas conservadas. | Caudal infinito, reparación sin coste, ojos máximos sostenidos o capacidad física igual a su mayor pico de emergencia. |
+| Uso ordinario consolidado | Inventario/tienda existente; vínculo de préstamo con Yuka y apoyo de Mai en el alcance ya pactado; órdenes y formas de la legión ya disponibles; pequeños usos Authority; forma slime en las ocasiones consentidas y demostradas. | Tienda ampliada de Purple ya ganada, obediencia forzosa de otras personas, toda la legión materializada gratis o transformación múltiple simultánea sin ensayo. |
+| Uso de combate ya demostrado, escala a escoger | Base de Limitless/Shrine, Sky, Zoltraak, equipo registrado y shikigami propios en sus alcances de las escenas. Mau puede practicar refinamiento de estas herramientas sin redescubrirlas. | Dominio simultáneo de toda la colección, acceso automático al archivo Sukuna que decidió cerrar o repetibilidad libre de un pico que lo lesionó. |
+| Ensayo/revisión bajo supervisión específica | Movement Learner: primer repaso posterior a la acción, con Ciel/Noise y guía de Jin-Woo; recuperación de CT/RCT neural en prácticas acotadas; nuevas interacciones/solapamientos; señal de modelos DIO/Ashborn con permiso en cada alcance. | Piloto motor automático, encadenamiento ilimitado de dominios, permiso médico general para dañar/reparar cerebro o autorización permanente de derivados de huéspedes. |
+| Observado o incompleto | Corrección de escoba de Momo; relaciones nuevas de Jin-Woo y su cruce; proyectos del backlog que no tengan capítulo de construcción/prueba. | Copia usable o «full bag» obtenido por presencia. |
+
+## Combinaciones S11: dirección aprobada y primeros ejercicios
+
+El creador pide empezar a combinar el repertorio consolidado. Seleccionar una interacción por ejercicio, identificar quién ejecuta cada parte y anotar coste/condición. Diferenciar un efecto ya liberado que sigue su trayectoria de dos CT distintas activas simultáneamente en el mismo cuerpo. En trabajo con Yuka, ella conserva decisión/ejecución y sus propios aprendizajes; el suministro compartido no desaparece.
+
+Posibles primeros ejercicios editoriales, **todavía no adquisiciones ni resultados**: desplazamiento de dagas + agarre Authority existente; transición entre Limitless y Sky para alterar una trayectoria ya emitida; coordinación de dos usuarios en vez de sobrecargar el cuerpo de Mau; movimientos aprendidos puestos a prueba con una sola herramienta activa. Si cambia el mecanismo que exige una combinación, producir diseño/prueba antes de usarlo como remate en batalla.
+
+**Primer resultado producido, V65#23:** footwork/daga con trainer + pequeña presión Authority a tela, después brazo de Jin-Woo en ejercicio pactado. Dos operaciones ya conocidas coordinadas, varios fallos y acierto local. Requiere atención deliberada y práctica por ambos lados; no se registra como respuesta automática bajo presión real. El nuevo learner revisa después de cada intento. Las otras posibilidades de este apartado siguen como propuestas.
+
 ## Picos y patrones pendientes
 
 | Entrada | Límite de lo demostrado |
@@ -31,6 +53,7 @@ Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_
 | Escoba de Momo Nishimiya | Noise ha observado la respuesta y la corrección de ángulo. V63#9 deja el mecanismo pendiente de comprender y ejecutar. |
 | Falling Devil y encuentro con Jin-Woo | Incidentes narrativos con mecanismos sin reproducir. Al cierre de S10, el encuentro con Jin-Woo aporta reconocimiento y contacto presencial. Los registros de técnica no atribuyen una adquisición por ese encuentro. |
 | Modelo de señal, ensayo S11 | V65#12: DIO y Ashborn autorizan expresión local aislada de derivados retenidos desde V51, alimentada con maná de Mau. Primer intento defectuoso; segundo dura tres respiraciones y resulta reconocible, todavía incompleto. No deidad real, poder vivo del huésped, habilidad de combate ni emisión entre mundos. Se cierra y requiere nuevo acuerdo para siguiente uso. |
+| Runas/estructura Jin-Woo observadas | V65#21: enseñanza sobre integrar piedra con habilidad y referencia voluntaria Dragon's Fear de Jin-Woo, sin rugido público ni adquisición de Mau. V65#26: Jin-Woo ofrece mapa de estructura de herencia/operaciones durante cambio fuente, separado de memorias familiares; Noise lo retiene para estudiar. Sin instalación masiva, mana nuevo, potencia fuente o límite100 heredado por Mau. |
 
 ## Registro de cambios
 
@@ -42,5 +65,6 @@ Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_
 | V64#4, #8 y #20–21 | Elección de mantener cerrado el archivo, Exchange con respaldo y modelo temporal de Ko. |
 | V65#5–9 | Jin-Woo enseña movimiento de dagas con trainers/agarre adaptado a mano real, sin curar secuelas. Se diseña, construye y prueba revisión acotada Movement Learner; distingue mapa de habilidad practicada. Sin nueva técnica de combate ni incremento físico. [Producción S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). |
 | V65#11–16 | Escoba: demostración consentida Momo enriquece observación, mecanismo aún incompleto. Señal: dos tests locales acotados con permiso DIO/Ashborn, sin poder de combate. Jin-Woo demuestra retirada con sombra propia; Mau no adquiere su repertorio por observar ensayo. |
+| V65#21–26 | Referencia Dragon's Fear observada, no aprendida. Primera coordinación dagas/Authority ensayada #23. Actuación de señal autorizada #26, modelo se cierra; mapa Jin-Woo ofrecido para estudio posterior. Legión Mau sigue6.615, distinta de100 elegidos Jin-Woo. |
 
 Con cada adquisición o mejora, añadir capítulo, estado anterior y nuevo, coste, condiciones, duración y testigos. Usar las categorías observado, construido, probado, repetible y pico según la escena. En el mismo cambio, actualizar el registro de producción y enlazar aquí el capítulo que lo demuestra.

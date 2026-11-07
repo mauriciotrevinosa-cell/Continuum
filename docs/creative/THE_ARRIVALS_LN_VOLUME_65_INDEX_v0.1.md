@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 65
 **Season:** 11
-**Coverage:** S11E01–S11E10 (volume in production; season continues)
+**Coverage:** S11E01–S11E13 (volume in production; season continues)
 **Volume title:** **A Place to Stay**
-**Chapter files:** 20
+**Chapter files:** 26
 
 The guest at the end of the road brings a war with him. The house has an idea about what he might bring home instead.
 
@@ -35,3 +35,9 @@ The guest at the end of the road brings a war with him. The house has an idea ab
 | 18 | S11E09 | Before Anything Else | `THE_ARRIVALS_S11E09_LN_CHAPTER_02_BEFORE_ANYTHING_ELSE_v0.1.md` |
 | 19 | S11E10 | Five Voices | `THE_ARRIVALS_S11E10_LN_CHAPTER_01_FIVE_VOICES_v0.1.md` |
 | 20 | S11E10 | The Step Between | `THE_ARRIVALS_S11E10_LN_CHAPTER_02_THE_STEP_BETWEEN_v0.1.md` |
+| 21 | S11E11 | The Dragon He Did Not Get | `THE_ARRIVALS_S11E11_LN_CHAPTER_01_THE_DRAGON_HE_DID_NOT_GET_v0.1.md` |
+| 22 | S11E11 | One Hundred | `THE_ARRIVALS_S11E11_LN_CHAPTER_02_ONE_HUNDRED_v0.1.md` |
+| 23 | S11E12 | The Other Kind of Hand | `THE_ARRIVALS_S11E12_LN_CHAPTER_01_THE_OTHER_KIND_OF_HAND_v0.1.md` |
+| 24 | S11E12 | The Choice Was Theirs | `THE_ARRIVALS_S11E12_LN_CHAPTER_02_THE_CHOICE_WAS_THEIRS_v0.1.md` |
+| 25 | S11E13 | The Hundred He Keeps | `THE_ARRIVALS_S11E13_LN_CHAPTER_01_THE_HUNDRED_HE_KEEPS_v0.1.md` |
+| 26 | S11E13 | The Audience They Did Not Choose | `THE_ARRIVALS_S11E13_LN_CHAPTER_02_THE_AUDIENCE_THEY_DID_NOT_CHOOSE_v0.1.md` |

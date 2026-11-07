@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V67#10, B+195 fuera / quinto día interno Purple. V65 completo,30 capítulos; V66 completo,18 capítulos; V67 en curso,10 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V67#17, B+195 noche, después de siete días internos Purple. V65 completo,30 capítulos; V66 completo,18 capítulos; V67 completo,17 capítulos: **65 capítulos de la primera parte; S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md) · [Nueva discusión Makima](S11_MAKIMA_POSSESSION_AND_POSSIBLE_CHANGE_DISCUSSION_2026-11-07.md).
 
 ## Escenas realmente escritas
 
@@ -54,18 +54,23 @@
 | V66#16 | S11E23 CH02 | B+192 tarde/noche | En casaMseadelanta acup/pillow, Ypideque se siente. Hablanmiedodeambos/cargadefrente, Mllora/pideperdón, Yama bondad odiasuexplotación. Primera nocheMduerme despuésvigilia, flotanpoco buen sueño, Y seacomodaencima yloscubre sin exigirbajar. No cura instantánea miedo. |
 | V66#17 | S11E24 CH01 | B+193 día | Mduerme, YdesayunaMai yfollow-upbien. Mfuncionalperovigilante/absorto; Rcomparteinvestigación, hipótesisdecisiónanterior al pacto no pruebaautoría. Ori map pideatención, Mlaoyeconayuda, no insomniofijo ni creermundofalso. |
 | V66#18 | S11E24 CH02 | B+194 día/noche | Ori pideaFrieren exploraciónconMcomoasistente. E conocida inspeccionada, madre/doctorayYukaevalúan y permitenplanpequeño, Orieligecompañía no encargo de curarlo. EncargaMai equipo/paga dulces: Maiaceptaunodepósito, confidencialidad. Traje aúnpendiente. |
-
 | V67#1 | S11E25 CH01 | B+195 mañana | Mai mantiene confidencialidad del encargo y avisa a Mau por el contrato existente. Ropa cosida/boots ajustadas; Construction pequeña para broche/luz/correa. Ori participa en pruebas y paga con dulces, Momo ayuda, Frieren acompaña. |
 | V67#2 | S11E25 CH02 | B+195 mañana | Ori invita al asistente uniformada. Beso MY, biscuits Gojo/Yuka, inspección repetida E coherente, reporte Ciel/Rimuru y soldado ordinario exterior. Ambos cruzan antes del cambio Purple. |
 | V67#3 | S11E26 CH01 | B+195 fuera / día interno1 | Se detienen y evalúan. Salida por guardián, oportunidad permanente catálogo personal. Contactos Ciel y soldado funcionan; reloj interno más rápido, no tiempo normal ni nueva desconexión. Ori conserva dirección con Mau a cargo del peligro. |
 | V67#4 | S11E26 CH02 | B+195 fuera / día interno1 | Ori prueba y acepta protección revocable hasta salir: extensión neutral Infinity de Mau, alcance tres pasos de él, coste/filtrado suyo, sin instalar CT. Toca cosas inocuas, observa frenado de pebble, apaga y renueva; límites explicados, madre informada. |
-
 | V67#5 | S11E27 CH01 | B+195 fuera / día interno1 | Constructs scavengers intentan robar broche; Authority los detiene manteniendo Infinity, desarma sin extracción. Mapa de estación con ruta directa guardián y desvíos de exploración opcionales, Ori escoge agua primero. |
 | V67#6 | S11E27 CH02 | B+195 fuera (~1h) / noche interna1 | Reporte de diferencia temporal explícito; voz normal por mensajes, no relojes iguales. Estima siete días al ritmo de Ori, explica compromiso y acción inmediata ante peligro, Frieren aprueba. Yuka exige comida/sueño, ambos Iloveyou. Ori duerme en piernas, manta tienda habitual, luego la acuesta y M también duerme con watch/Ciel. |
 | V67#7 | S11E28 CH01 | B+195 fuera / día interno2 | Ruta acueducto: detecta puente dañado, Ori elige rodeo; reparan rueda con Authority/soldado y fitting previo, no nueva CT. Registros y mapa, cargada por cansancio elegida no pérdida de liderazgo. Learner una revisión practicada después, no descarga automática. |
 | V67#8 | S11E28 CH02 | B+195 fuera / día interno3 | Archivo revisado antes de tocar, grimoire regalo Frieren aunque pueda conocer hechizo. Ori carga libro por decisión, bulk inventory. Copia de diagrama sin arrancar libro; Noise observa lámpara sin construir. Contacto madre y lectura compartida. |
 | V67#9 | S11E29 CH01 | B+195 fuera / día interno4 | Counter mercado ofrece extensión de catálogo al shop ya existente: acepta tras leer, compra test cobra crédito, listado persiste al cerrar/reabrir. Snacks/provisiones/objetos domésticos, no tienda nueva/CT/infinito crédito. Ori escoge hairpin común para Yuka, guarda separado. |
 | V67#10 | S11E29 CH02 | B+195 fuera / día interno5 | Descanso lluvia/jardín, Ori pregunta por sensación paternal y si papá debe estar con mamá. M afirma cariño sin quitar Frieren ni Yuka, no exige nombre/adopción ni romance. Querría verla aunque no necesite ayuda. Conversación privada Ori, reporta jardín a madre sin apropiarse de su revelación. |
+| V67#11 | S11E30 CH01 | B+195 fuera / día interno6 | Taller: herramientas/materiales etiquetados para Mai, sin nuevo poder Construction. Authority frena carro mientras mantiene neutral. Igris convocado aquí, coordina portadores corrientes; no asumido afuera toda semana. Ori lo invita a compañía de cena. |
+| V67#12 | S11E30 CH02 | B+195 fuera / noche interna6 | Contacto Yuka/Frieren reconoce distinta duración; cariño MY y reporte propio Ori. Plan guardián específico, Ori no responsable de ayudar ganar; Igris/posición revisada, no riesgo obligado por conservar liderazgo. Terminan libro con nota propia de Ori sin adulterar autoría del original. M duerme con respaldo. |
+| V67#13 | S11E31 CH01 | B+195 fuera / día interno7 | M derrota construct guardián con dagas/Authority/lectura mientras mantiene Infinity y Ori a tres pasos; Igris retaguardia. Corrige recepción imperfecta, no evolución extrema ni archivoSukuna ni segundo CT. Return abre; revisa y cruza con Ori. No extracción/unidades nuevas. |
+| V67#14 | S11E31 CH02 | B+195 primera noche | Abrazo madre/hija, reencuentro MY. Todas sombras regresan; contrato gateOri caduca, conversación futura posible. Bulk ya cruzó inventory,20 portadores existentes ordenan reparto bajoOri/Igris. Regalos grimoireFrieren, pinYuka, herramientasMai entregados con historias, no nuevas CT. |
+| V67#15 | S11E32 CH01 | B+195 tarde/noche | Umaru protege packet raro, M saca varios, gracias/abrazo y pideCoca. Shop reabre fuera: compra real confirma permanencia. Rem/Chloe presentes, portadores vuelven al completar encargo. Comidas nuevas opción para quien no quiera cocinar, no obligación a Rem. |
+| V67#16 | S11E32 CH02 | B+195 antescena | Ori llega conFrieren a homeMY dondeRimuru/Shizue escuchanaventura. Pideotra noche, MnotaorejasFrieren sinculparOri; proponepijamada6. Commonroom y participantes voluntarios: U/Rem, Chloe, Ram/Seika, Mai/Momo, Fern. Pasillos/cena respetados, no mudanza definitiva. |
+| V67#17 | S11E33 CH01 | B+195 noche | Yuka propone patrónslimeyausado; M aislado/sinbuildsparalelas, dos slimes rotan por residentes conpermiso. ShizueinvitaRimside, élacepta no romanceoficial. Mrecobraformahumana para dormirYuka/Ori conFrieren; librofinal, cariño y sueño. Cierreprimera parte, sinnuevoataque/finalseason. |
 
 ## Estado acumulado y trampas
 
@@ -76,7 +81,7 @@
 - **Noise:** visita personal Yuka V65#8 producida y dibujo conservado. Demostración consentida de escoba V65#11 ya ocurrió; observación no es piloto automático ni técnica instalada. Revisión de mapa Jin-Woo V66#1 sin full bag. Ayudó coordinación de reparación Yuka; limpieza Diablo surge durante crisis, aún no probada voluntariamente en calma. Sin activación general de backlog.
 - **Casa:** sin habitantes nuevos adicionales, sin nuevos empleados/guardias hablantes. Watch: Muster + cuarenta ordinarios en rotación y sentries de ruta con órdenes. Mai/Momo proximidad sin romance decretado, Rem/Umaru cercanía, Gojo/Shoko presentes, MY cálidos y con vida propia.
 - **Makima/Yuka:** encuentro/ataque ya V66#7–9. Pacto A previo del devil y B prospectivo intacto, la casa sospecha pero no tiene autoría demostrada. Yuka ya despertó B192 y está físicamente bien, marca tenue. Mau volvió a dormir; sigue vigilante sin perder conexión afectiva ni creer falsa la casa.
-- **Purple/pijamada:** ambos entraron V67#2; contrato Ori #4 probado/revocable con tres pasos de alcance. Catálogo personal expandido permanentemente #9, probado con compra real, no nuevo sistema. Actualmente día5 interno; fuera sigue B195, reportes normales con demoras temporales. Regreso/pijamada aún no producidos. Frieren aceptó siete días internos #6, salida directa guardián disponible si cambia seguridad.
+- **Purple/pijamada:** arco completo V67. Siete días internos, afuera B195. ContratoOri acotado termina al salir; no Infinity permanente ganado por Ori. Catálogo ampliado #9 y confirmado fuera #15. Vínculo paternal conversado sin nombramiento impuesto, Frieren siguemadre. Libro/pin/herramientas regalados. Pijamada elegida: no nueva distribución oficial de cuartos ni romance decretado Rim/Shizue.
 
 ## Auditoría del primer checkpoint
 
@@ -92,7 +97,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V67#11 / S11E30CH01, día6 interno: taller, escoger presente útil Mai, observar coordinación sin instalar backlog. Día7 encuentro guardián con Ori segura y M manteniendo su neutral; salida/loot, regalos y pijamada siguen autorizados. Aventura no reabre tortura/insomnio. No convertir los siete días internos en siete días fuera. M mantiene contrato Ori hasta salida, después caduca salvo nueva conversación; no fingir CT paralela si cambia técnica.
+Primera parte autorizada cumplida hasta pijamada V67#17. No escribir aún sucesos nuevos de Makima basándose sólo en la conversación: [semilla de posesión/cambio](S11_MAKIMA_POSSESSION_AND_POSSIBLE_CHANGE_DISCUSSION_2026-11-07.md) distingue propuesta futura de conocimiento actual. Próxima producción V68/S11E33CH02 o la distribución que decida el siguiente arco, sin duplicar la noche final ni resetear episodios por cambio de volumen. Pendientes reales: entrenamiento y runasJinWoo, backlog/escoba/learner, futura conversación de contratoOri siellaquiere, investigación pactoA/autoría, elecciones propias familiares nuevos. No imponer otro ataque o concluir S11 por cerrar volumen.
 
 ## Séptimo checkpoint: precauciones antes del ataque
 
@@ -117,6 +122,10 @@ Creador confirmó sacrificio voluntario, tope100 elegidos, nivel por encima Nati
 ## Décimo y undécimo checkpoints: una expedición compartida
 
 V67#1–4 conserva confección, invitación, inspección, cambio y contrato probado. Creador respondió tiempo durante preparación, se corrigió borrador antes de publicar para respetar velocidad interna y charla de siete días. V67#5–10 da escenas propias a días1–5: orientación y primera noche, ingeniería, libro/regalo, catálogo, conversación paternal. Cambian objetivos y actividad, no siete resúmenes idénticos de caminar/comer. Guardia ordinaria no habla, CE/mana/coste separados, Authority compatible con neutral. Revisar que día7 culmine aventura sin quitar decisiones a Ori ni atribuirle responsabilidad por pelea adulta.
+
+## Duodécimo checkpoint: regreso y cierre de primera parte
+
+V67#11–17 muestra taller, última noche, guardián, regreso/regalos, Fort, invitación y pijamada en escenas propias. Neutral queda activo durante combate, Authority independiente; no cambioCT deja desprotegida a Ori. Inventario guarda bulk, soldados se usan para selección/reparto con motivo explícito; cuenta de legión no aumenta. Tienda nueva se conserva y cobra antes/después, no primera Cola. Frieren comparte regreso/pijamada sin convertir deseoOri en culpa. Mau duerme con ayuda, no de vuelta al horarioinsomnio. NotaMakima guarda la conversación nueva sin forzarredención/romance ni cambiar hechos deV66.
 
 ## Sexto checkpoint: cierre de V65
 

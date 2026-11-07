@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V67#10, B+195 fuera / quinto día interno Purple. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V67#17, B+195 noche, después de siete días internos Purple. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -60,11 +60,19 @@ Posibles primeros ejercicios editoriales, **todavía no adquisiciones ni resulta
 
 ## Protección temporal de Ori — V67#4
 
-Extensión del mismo neutral Limitless que Mau mantiene activo, no una segunda CT independiente instalada en Ori. Consentida para esta gate, alcance de tres pasos de Mau; coste y filtro de fenómenos observables a cargo de Mau/ojos/Mini Ciel. Prueba: interacción inocua, pebble frenado, apagado solicitado y renovación. Ori puede revocar; seguir después exige nueva conversación. No defensa absoluta contra todo fenómeno, corte espacial o peligro desconocido. Si Mau cambia su CT, no dar por mantenida esta extensión sin otra fuente establecida. Puede usar Authority y sombras ya disponibles sin fingir una segunda CT simultánea.
+Extensión del mismo neutral Limitless que Mau mantiene activo, no una segunda CT independiente instalada en Ori. Consentida para esta gate, alcance de tres pasos de Mau; coste y filtro de fenómenos observables a cargo de Mau/ojos/Mini Ciel. Prueba: interacción inocua, pebble frenado, apagado solicitado y renovación. Ori puede revocar; seguir después exige nueva conversación. No defensa absoluta contra todo fenómeno, corte espacial o peligro desconocido. Si Mau cambia su CT, no dar por mantenida esta extensión sin otra fuente establecida. Puede usar Authority y sombras ya disponibles sin fingir una segunda CT simultánea. **Terminó al salir, V67#14.** Ori pidió hablar después, no se renovó todavía en casa.
 
 ## Catálogo personal ampliado — V67#9
 
-Mejora permanente obtenida en counter de mercado Purple. Añade listados de provisiones de viaje, comida preservada, snacks/bebidas y artículos domésticos al shop propio que ya existía. Prueba real: cerrar counter/abrir shop, comprar packet, balance disminuye, objeto llega. No primer inventario, primera Coca, tienda gratis, crédito infinito ni técnicas disponibles para terceros. Se usa inventario habitual para bulk con etiquetas de reparto. La mejora permanece tras la salida según términos aceptados; comprobarlo en regreso. No añade unidades ni borra secuelas físicas.
+Mejora permanente obtenida en counter de mercado Purple. Añade listados de provisiones de viaje, comida preservada, snacks/bebidas y artículos domésticos al shop propio que ya existía. Prueba real: cerrar counter/abrir shop, comprar packet, balance disminuye, objeto llega. No primer inventario, primera Coca, tienda gratis, crédito infinito ni técnicas disponibles para terceros. Se usa inventario habitual para bulk con etiquetas de reparto. **Permanencia confirmada fuera en V67#15 con nueva compra real.** No añade unidades ni borra secuelas físicas.
+
+## Combinaciones practicadas y uso estable — cierre de V67
+
+- V65#23: primer ejercicio dagas + Authority, no ejecución perfecta.
+- V67#5/#7/#11: Authority compatible con neutral para detener constructs, sostener mecanismo/carrito, con comprobaciones y decisiones de control.
+- V67#13: dagas guiadas/atraer shield hacia una línea, cambio de trayectoria con Authority, golpe preciso a enlaces mecánicos y neutral activo todo el tiempo. Uso funcional ante guardián bajo su capacidad, no prueba de rendimiento máximo contra otro monarca. Recibe dagger algo más fuerte de lo previsto y corrige agarre; Jin-Woo sigue aportando refinamiento.
+- V67#17: vuelve a usar patrón slime aislado para convivencia, luego cuerpo habitual. No nuevo repertorio Rimuru ni construcciones corporales simultáneas.
+- Sin nuevas runas incorporadas, nuevas CT, extracción del guardián ni mayor tope de sombras. **6.615 vínculos de Mau**; ejército100 de Jin-Woo separado.
 
 ## Registro de cambios
 

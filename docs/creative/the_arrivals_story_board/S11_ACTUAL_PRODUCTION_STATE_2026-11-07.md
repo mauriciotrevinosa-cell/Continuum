@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V66#6, B+188 noche. V65 completo,30 capítulos; V66 en producción,6 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V66#12, B+190 noche. V65 completo,30 capítulos; V66 en producción,12 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
 
 ## Escenas realmente escritas
 
@@ -42,6 +42,12 @@
 | V66#4 | S11E17 CH02 | B+187 tarde | Inspección real y rutas salida, DIOwardfija. Borrador prospectivo desde aceptación a salida, prohibe iniciar/ordenar/autorizar/activar violencia y coacción nuevas, marcar/seguir; defensa contraataque independiente permitida. Makima acepta propuesta por escrito, ratificación conjunta futura. No detectan hueco de instigación ya completada. Shoko conoce alcance probado de auxilio, Ciel frena flujo erróneo antes de pedir más. |
 | V66#5 | S11E18 CH01 | B+188 amanecer | POV breve antagonista: Makima pacta A con SeveringDevil original de esta historia, tipo de corte espacial. Una acción a hora fija B189 y objetivoYuka si presente, sin señal nueva de Makima. Recompensa taza de su sangre si regresa por ciclo que él cree disponible, mismo fear-name; no promesa de recuerdo canónico intacto. Pacto A anterior a B. Casa no sabe nada de esto. |
 | V66#6 | S11E18 CH02 | B+188 tarde/noche | Vida propia MY y familia nueva; Mai/Momo, Hae-In/Jin-Ah, Ori/Frieren presentes. Jin-Woo acepta quedarse con casa como respaldo, no todos fuertes en mismo lugar. Confirmación de cita/escape y lección posterior; pareja duerme junta tranquila. Ningún daño aún. |
+| V66#7 | S11E19 CH01 | B+189 noon | Inspección real del día, ratifican B antes de hablar, scopeotherparticipants/namedreturnescorts, no acciones nuevas hostiles/compulsión. Makima explica Control como su marco, admite gateycosificaM. Casa cuestiona autoridad de "proteger". No armisticio equivalga a sinceridad. |
+| V66#8 | S11E19 CH02 | B+189 antes 12:30 | Makima cuenta Denji/Pochita con marco interesado, atribuye borrado al mundo suyo sin confirmarlo aquí. Noise hipótesis de ayuda, Mau la difiere a casa/investigación completa Pochita, no arma otorgada. Acaba30min, no señal/orden de ataque Makima. |
+| V66#9 | S11E20 CH01 | B+18912:30 | A se ejecuta, devilseverance genera línea en espacioY, no cruza gapInfinity. Mau ve formación/reconoce clase, cierra propio neutral, ofrece UNA respuesta rueda por ruta consentida, interrumpe final mortal sin quitar lesión incurrida. Recobra rueda, exceso inicial suministro corregido por Ciel; escucha. Makima mata atacante expuesto, B intacto, agradecimiento exacto. Igris guarda cuerpo/reloj. Muster ancla clínica preparado permite ExchangeM+Y; otrosregresan por rutas. Yuka inconsciente. |
+| V66#10 | S11E20 CH02 | B+189 tarde | Clínica: Shoko/Yuta/Ciel/Noise/M/Beru coordinan tejido y patrón propioY, cierre superficial no resuelve incoherencia. M obedece flujos/posición, se niega a salir. Shoko exige limpieza: blinkMlimpio/sinlevantarse; ropa/linen superficial, no lesión. DosBeru relevo propio mana, soldadosemocionesMsinperderguardia. |
+| V66#11 | S11E21 CH01 | B+189 noche→amanecer190 | Primera vigilia completa: sostiene aporte acotado con apoyo y alimento/agua, no duerme. Frieren explicaqueseparómanoajena/culpa, Mseculpa/llora. Oyeórdenesútiles, ignoresolicitudsalir. Limpieza estrecha repite. ManoY mueve brevemente sin despertar, Shoko distingue. |
+| V66#12 | S11E21 CH02 | B+190 día/noche | Mai/Maki acompañan, Maki no borra decisiónY para culparM. Watch sigue, reloj prueba horario no autoría; sospechanMK sin absolverpacto. Jin-Woo lleva comida/relevo. Ori visita conFrieren, traecloth paraY, veMabsorto sin misióncurarlo. Y sigueinconsciente, uniónmejora, Msin dormir. |
 
 ## Estado acumulado y trampas
 
@@ -67,11 +73,15 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V66#7/S11E19CH01, B+189 mediodía: inspección día y ratificación B antes diálogo. Makima explica naturaleza/Denji/Pochita/protección, busca reconsideración; discurso interesado no autoridad narrativa. Noise ofrece hipótesis de ayuda, Mau decide consultar casa y saber todo Pochita antes de armarla. Ataque A en hora fija sin nuevo acto/orden/trigger Makima; severance ya reconocible al mecanismo de adaptación propio, auxilio puntual a Yuka por ruta consentida, lesión grave previa persiste. Todavía NO hay ataque/curación/Purple/pijamada producidos. Mantener nuevos familiares y otros vínculos presentes sin contabilidad vacía.
+Continuar V66#13/S11E22CH01, B+191, tercer día calendario de vigilia. Yuka debe seguir inconsciente varios días reales, no despertar mañana190. Mostrar ajustes/reparación, Mau escucha sin dormir y permanencia, casa funcional. Posible despertar B192 (más de72h) con escena propia, marcas/good-feeling y relato de loqueélvivió. Recuperación de pareja y noche flotando tienen capítulos completos antes de Ori/Purple. Makima salió segúnpacto, A no revelado a casa; no revancha ejecutada ni agresor sombra adquirido. No usar exceso mana como RCT universal: coordinación y patrón propioY siguen importando.
 
 ## Séptimo checkpoint: precauciones antes del ataque
 
 V66#1–6 establece backlog/limpieza incompleta, auxilio probado y consentido, nota recibida por watch real, elección de asistentes/respaldo, inspección y términos, pactoA anterior y noche normal. La decisión de escuchar está motivada por inteligencia sobre enemigo, no creerla aliada/redimida. El pactoB todavía no comenzó. Antes de atacar, redactar ratificación/charla completa y conservar secuencia de tiempos; no meter gesto de Makima como disparador posterior. ArtefactosJinWoo/100/familia ya estables, no altar cósmico activo durante nueva reunión.
+
+## Octavo checkpoint: ataque y primera vigilia
+
+Se conservaron las medidas antes de mostrar su insuficiencia. Observación de campo no detecta un proyectil porque daño se fija en espacio ocupado; respuesta antes aprendida aporta un salvamento parcial puntual, no inmunidad retrospectiva. V66#4 ampliado sólo para hacer explícita preparación del anclaMuster y permiso de retorno clínico que requiere #9. Reloj visible yaenA, no nueva orden duranteB. Pacto intacto crea duda sobreautoría, no nueva amistad/absolución. Se separaron encuentro, primerosauxilios, clínica, primera noche y segunda jornada para no saltar de herida a recuperación. Yuka todavía no despierta al checkpoint.
 
 ## Cuarto checkpoint: llamadas completas
 

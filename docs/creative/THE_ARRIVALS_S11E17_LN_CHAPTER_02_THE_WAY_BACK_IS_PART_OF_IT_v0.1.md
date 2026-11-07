@@ -77,6 +77,8 @@ Shoko asks which energy paths they intend to keep available while listening.
 
 Mau explains that Yuka's pattern remains her own to use, with the shared supply and combined strain they know. He will not attempt an experimental combination in the middle of the meeting. Ciel stays connected, Rimuru hears her as usual and the watch has a way to relay a problem without needing a new public voice for the ordinary soldiers.
 
+Muster will hold the home-side return anchor near the clinic instead of the usual inner turn. Shoko agrees to have that place kept clear. Yuka explicitly asks them to use the emergency return if she is hurt and cannot answer; the permission is for bringing her to help, not for deciding she has surrendered the right to leave a conversation while she is able to choose.
+
 Yuka asks Shoko whether she wants any change to the emergency permission they tested.
 
 “Tell me what was actually tested,” Shoko says. ˢʰ

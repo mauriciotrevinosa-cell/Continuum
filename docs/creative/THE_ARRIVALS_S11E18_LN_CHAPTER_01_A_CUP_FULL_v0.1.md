@@ -23,7 +23,7 @@ Makima watches the demonstration.
 
 “At the time I gave you. Tomorrow.” ᴹᵏ
 
-It repeats the time. The place has already been named. The woman beside Mau has been described with enough detail that it won't need Makima to point, look at her or say anything different once the conversation begins.
+It repeats the time. Makima sets a small clock beside the fallen branch and makes it read the same hour as the one at the crossing. The place has already been named. The woman beside Mau has been described with enough detail that it won't need Makima to point, look at her or say anything different once the conversation begins.
 
 If the target is not there, the task will not be done. No other victim earns the reward. If the target is there, the devil chooses when to spend the single opening within the moment they have fixed.
 

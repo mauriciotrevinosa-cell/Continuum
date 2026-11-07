@@ -30,6 +30,7 @@ Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_
 | Exchange tras el fragmento | Nueve respiraciones de recarga en el contexto de V59. Para repetir esa cadencia en otro capítulo, comprobar estado físico, anclas y circunstancias. |
 | Escoba de Momo Nishimiya | Noise ha observado la respuesta y la corrección de ángulo. V63#9 deja el mecanismo pendiente de comprender y ejecutar. |
 | Falling Devil y encuentro con Jin-Woo | Incidentes narrativos con mecanismos sin reproducir. Al cierre de S10, el encuentro con Jin-Woo aporta reconocimiento y contacto presencial. Los registros de técnica no atribuyen una adquisición por ese encuentro. |
+| Modelo de señal, ensayo S11 | V65#12: DIO y Ashborn autorizan expresión local aislada de derivados retenidos desde V51, alimentada con maná de Mau. Primer intento defectuoso; segundo dura tres respiraciones y resulta reconocible, todavía incompleto. No deidad real, poder vivo del huésped, habilidad de combate ni emisión entre mundos. Se cierra y requiere nuevo acuerdo para siguiente uso. |
 
 ## Registro de cambios
 
@@ -40,5 +41,6 @@ Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_
 | V62#18, V63#9 | Observación de la escoba, primera Construction propia demostrada a escala pequeña y ejemplo doméstico de Authority. |
 | V64#4, #8 y #20–21 | Elección de mantener cerrado el archivo, Exchange con respaldo y modelo temporal de Ko. |
 | V65#5–9 | Jin-Woo enseña movimiento de dagas con trainers/agarre adaptado a mano real, sin curar secuelas. Se diseña, construye y prueba revisión acotada Movement Learner; distingue mapa de habilidad practicada. Sin nueva técnica de combate ni incremento físico. [Producción S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). |
+| V65#11–16 | Escoba: demostración consentida Momo enriquece observación, mecanismo aún incompleto. Señal: dos tests locales acotados con permiso DIO/Ashborn, sin poder de combate. Jin-Woo demuestra retirada con sombra propia; Mau no adquiere su repertorio por observar ensayo. |
 
 Con cada adquisición o mejora, añadir capítulo, estado anterior y nuevo, coste, condiciones, duración y testigos. Usar las categorías observado, construido, probado, repetible y pico según la escena. En el mismo cambio, actualizar el registro de producción y enlazar aquí el capítulo que lo demuestra.

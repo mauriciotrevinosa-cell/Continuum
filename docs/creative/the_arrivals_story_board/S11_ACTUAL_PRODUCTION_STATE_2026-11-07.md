@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V67#4, B+195 fuera / primer día interno Purple. V65 completo,30 capítulos; V66 completo,18 capítulos; V67 en curso,4 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V67#10, B+195 fuera / quinto día interno Purple. V65 completo,30 capítulos; V66 completo,18 capítulos; V67 en curso,10 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
 
 ## Escenas realmente escritas
 
@@ -60,6 +60,13 @@
 | V67#3 | S11E26 CH01 | B+195 fuera / día interno1 | Se detienen y evalúan. Salida por guardián, oportunidad permanente catálogo personal. Contactos Ciel y soldado funcionan; reloj interno más rápido, no tiempo normal ni nueva desconexión. Ori conserva dirección con Mau a cargo del peligro. |
 | V67#4 | S11E26 CH02 | B+195 fuera / día interno1 | Ori prueba y acepta protección revocable hasta salir: extensión neutral Infinity de Mau, alcance tres pasos de él, coste/filtrado suyo, sin instalar CT. Toca cosas inocuas, observa frenado de pebble, apaga y renueva; límites explicados, madre informada. |
 
+| V67#5 | S11E27 CH01 | B+195 fuera / día interno1 | Constructs scavengers intentan robar broche; Authority los detiene manteniendo Infinity, desarma sin extracción. Mapa de estación con ruta directa guardián y desvíos de exploración opcionales, Ori escoge agua primero. |
+| V67#6 | S11E27 CH02 | B+195 fuera (~1h) / noche interna1 | Reporte de diferencia temporal explícito; voz normal por mensajes, no relojes iguales. Estima siete días al ritmo de Ori, explica compromiso y acción inmediata ante peligro, Frieren aprueba. Yuka exige comida/sueño, ambos Iloveyou. Ori duerme en piernas, manta tienda habitual, luego la acuesta y M también duerme con watch/Ciel. |
+| V67#7 | S11E28 CH01 | B+195 fuera / día interno2 | Ruta acueducto: detecta puente dañado, Ori elige rodeo; reparan rueda con Authority/soldado y fitting previo, no nueva CT. Registros y mapa, cargada por cansancio elegida no pérdida de liderazgo. Learner una revisión practicada después, no descarga automática. |
+| V67#8 | S11E28 CH02 | B+195 fuera / día interno3 | Archivo revisado antes de tocar, grimoire regalo Frieren aunque pueda conocer hechizo. Ori carga libro por decisión, bulk inventory. Copia de diagrama sin arrancar libro; Noise observa lámpara sin construir. Contacto madre y lectura compartida. |
+| V67#9 | S11E29 CH01 | B+195 fuera / día interno4 | Counter mercado ofrece extensión de catálogo al shop ya existente: acepta tras leer, compra test cobra crédito, listado persiste al cerrar/reabrir. Snacks/provisiones/objetos domésticos, no tienda nueva/CT/infinito crédito. Ori escoge hairpin común para Yuka, guarda separado. |
+| V67#10 | S11E29 CH02 | B+195 fuera / día interno5 | Descanso lluvia/jardín, Ori pregunta por sensación paternal y si papá debe estar con mamá. M afirma cariño sin quitar Frieren ni Yuka, no exige nombre/adopción ni romance. Querría verla aunque no necesite ayuda. Conversación privada Ori, reporta jardín a madre sin apropiarse de su revelación. |
+
 ## Estado acumulado y trampas
 
 - **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
@@ -69,7 +76,7 @@
 - **Noise:** visita personal Yuka V65#8 producida y dibujo conservado. Demostración consentida de escoba V65#11 ya ocurrió; observación no es piloto automático ni técnica instalada. Revisión de mapa Jin-Woo V66#1 sin full bag. Ayudó coordinación de reparación Yuka; limpieza Diablo surge durante crisis, aún no probada voluntariamente en calma. Sin activación general de backlog.
 - **Casa:** sin habitantes nuevos adicionales, sin nuevos empleados/guardias hablantes. Watch: Muster + cuarenta ordinarios en rotación y sentries de ruta con órdenes. Mai/Momo proximidad sin romance decretado, Rem/Umaru cercanía, Gojo/Shoko presentes, MY cálidos y con vida propia.
 - **Makima/Yuka:** encuentro/ataque ya V66#7–9. Pacto A previo del devil y B prospectivo intacto, la casa sospecha pero no tiene autoría demostrada. Yuka ya despertó B192 y está físicamente bien, marca tenue. Mau volvió a dormir; sigue vigilante sin perder conexión afectiva ni creer falsa la casa.
-- **Purple/pijamada:** ambos entraron V67#2; Purple evaluada #3 y contrato Ori #4. Todavía no se descubren catálogo ni loot ni ocurre regreso/pijamada. Tiempo más rápido dentro confirmado por creador; no convertir siete días internos en siete días perdidos afuera.
+- **Purple/pijamada:** ambos entraron V67#2; contrato Ori #4 probado/revocable con tres pasos de alcance. Catálogo personal expandido permanentemente #9, probado con compra real, no nuevo sistema. Actualmente día5 interno; fuera sigue B195, reportes normales con demoras temporales. Regreso/pijamada aún no producidos. Frieren aceptó siete días internos #6, salida directa guardián disponible si cambia seguridad.
 
 ## Auditoría del primer checkpoint
 
@@ -85,7 +92,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V67#5 / S11E27CH01: exploración del primer patio y descubrimiento del alcance del lugar. Primera noche: afuera sólo alrededor de una hora, la voz se recibe normal por mensajes. Mau estima siete días internos para el plan de Ori; casa pregunta si puede apresurar, él explica compromiso y prioridad de intervenir ante algo inseguro, Frieren acepta. Creador fijó esta dirección durante escritura, antes del primer push V67. Catálogo, siete días compartidos, paternidad, regreso y pijamada aún por producir; no comprimir siete días en una sola escena de campamento.
+Continuar V67#11 / S11E30CH01, día6 interno: taller, escoger presente útil Mai, observar coordinación sin instalar backlog. Día7 encuentro guardián con Ori segura y M manteniendo su neutral; salida/loot, regalos y pijamada siguen autorizados. Aventura no reabre tortura/insomnio. No convertir los siete días internos en siete días fuera. M mantiene contrato Ori hasta salida, después caduca salvo nueva conversación; no fingir CT paralela si cambia técnica.
 
 ## Séptimo checkpoint: precauciones antes del ataque
 
@@ -106,6 +113,10 @@ El primer contacto se centra en oír que está vivo y acompañado. El segundo co
 ## Quinto checkpoint: elecciones del creador y ejecución
 
 Creador confirmó sacrificio voluntario, tope100 elegidos, nivel por encima National, celo Kamish y runas integradas en habilidades propias de Mau (no cristales de poderes para repartir). Kit de Mau actualizado con clases permanente/habitual/combate demostrado/supervisión/plano y primer ejercicio de combinación. Dragon's Fear es referencia ofrecida de Jin-Woo, no habilidad concedida a Mau. La actuación real sólo obtiene vacilación comprobable en frente observado; no se anuncia haber derrotado a todos los creadores. Los reencuentros son siguientes escenas centrales, no cerrados por haber alcanzado número de capítulos.
+
+## Décimo y undécimo checkpoints: una expedición compartida
+
+V67#1–4 conserva confección, invitación, inspección, cambio y contrato probado. Creador respondió tiempo durante preparación, se corrigió borrador antes de publicar para respetar velocidad interna y charla de siete días. V67#5–10 da escenas propias a días1–5: orientación y primera noche, ingeniería, libro/regalo, catálogo, conversación paternal. Cambian objetivos y actividad, no siete resúmenes idénticos de caminar/comer. Guardia ordinaria no habla, CE/mana/coste separados, Authority compatible con neutral. Revisar que día7 culmine aventura sin quitar decisiones a Ori ni atribuirle responsabilidad por pelea adulta.
 
 ## Sexto checkpoint: cierre de V65
 

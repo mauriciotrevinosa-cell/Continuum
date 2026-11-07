@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V65#26, B+185 mañana. Volumen 65 en producción, 26 capítulos. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V65#30, B+185 noche. Volumen 65 completo, 30 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
 
 ## Escenas realmente escritas
 
@@ -32,10 +32,14 @@
 | V65#24 | S11E12 CH02 | B+183 tarde | Cinco familiares oyen términos completos, cada uno pregunta y elige venir con condiciones conocidas, derecho a parar antes compromiso. Arreglan despedidas, equipaje, descansos DIO y próximo intento. Sin cruce inmediato ni coin. |
 | V65#25 | S11E13 CH01 | B+184 mañana/tarde | Jin-Woo elige100 contandoBeru, Igris/Bellion/Tank/Tusk(Fang contraparte)/Kaisel +94, sin enumerar nombres inventados. Comunica deberes y liberación de despliegue por voz de origen, no ejército materializado aquí. Packing familia, último ensayo local señal+retirada muestra mejora y debilidad restante. DosBeru críticos/MaiMomo. |
 | V65#26 | S11E13 CH02 | B+185 mañana | Tras despedidas/preparación origen, actuación llega a observador concreto de frente de guerra por traza específica, no portal público. Señal derivada y retiro pactado Jin-Woo imitan su muerte; observador prueba y retira atención para investigar. No victoria universal ni dios real creado/matado. Jin-Woo cede gran acceso, conserva100; soporte pequeño de llegada queda sostenido para familia. Referencia estructural de herencia/operaciones ofrecida a Noise, guardada para estudio después, no instalación masiva. |
+| V65#27 | S11E14 CH01 | B+185 mañana, continuo | Cruce final de cinco con sí propio al umbral: Hae-In/Suho/madre/padre/Jin-Ah. Reencuentros físicos, cierre definitivo de soporte específico y descanso DIO. Cuerpos origen elegidos sin rejuvenecimiento extra. Mau inventaría equipaje por elección, Shoko revisa llegada. |
+| V65#28 | S11E14 CH02 | B+185 media mañana | Familia descansa con comida en alojamiento temporal real. Madre/padre vuelven a tener hijo sentado; no le exigen dejar de sentir pérdida. Suho/Jin-Ah paseo corto con MY, puerta/mercado/sentry aclarados. Ninguna obligación de trabajar ni casa permanente asignada. |
+| V65#29 | S11E15 CH01 | B+185 tarde | Pareja Hae-In/Jin-Woo con puerta cerrada, primer rato propio; hablan de quedarse/cambio/pérdida sin arrepentimiento de familia. Suho elige visita a yard con Yuta, Jin-Woo se queda con esposa. MY respetan privacidad y toman minutos propios. |
+| V65#30 | S11E15 CH02 | B+185 cena/noche | Primera cena de los cinco con casa. Familias/parejas existentes presentes en acciones: MY, Gojo/Shoko, Rem/Umaru, Ram/Seika, Ko/Nazuna, Mai/Momo, Eren/Mikasa, Kaneki/Touka/Ichika. DosBeru conservan propio rey; comedic encore rejected. Comida a DIO/Ashborn, revisión de mapa Noise acordada tras desayuno B186. Jin-Woo vuelve a cuarto con Hae-In. Cierre cálido del primer arco, no fin S11. |
 
 ## Estado acumulado y trampas
 
-- **Jin-Woo:** ya eligió y cedió acceso superior durante #26. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares dieron decisión informada #24 y prepararon despedidas antes B185; **cruce físico pendiente al #26**. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae su potencia original a Mau.
+- **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
 - **Modelos DIO/Ashborn:** pruebas #12/#25 y actuación específica #26 autorizadas, maná Mau, no reservas vivas de huéspedes. Imitación de presencia/gesto con retirada Jin-Woo, no dios nuevo. Observador enemigo concreto se retira para estudiar; guerra total no declarada ganada. Modelo cerrado después de actuación, referencia sigue separada y futuros usos necesitan alcance acordado. Huéspedes protegidos, sin privatememories abiertas.
 - **Mau:** secuelas viejas y gray-except-Yuka vigentes. Cuerpo mejorado no se apaga al soltar equipo. Clase limitada es por práctica/control y revisión Shoko, no retorno estadístico. Inventario, tienda, contratos Yuka/Mai y 6.615 vínculos previos no cambian. Archivo Sukuna elegido cerrado.
 - **Movement Learner:** prototipo estrecho construido y probado en V65#7/#9: revisión posterior a acción de una muestra elegida. Una referencia inicial omitía nuevo agarre, detectado y corregido. No aprendizaje motriz automático/piloto/tercera conciencia; mejoras parciales a practicar. Mini Ciel sigue filtro silencioso; Ciel habla y nombra.
@@ -57,7 +61,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar B+185, inmediatamente desde familia path held al final #26. Cruzan por voluntad final los cinco por pasaje acotado, no apertura mundial. Reencuentros propios y descanso, actualización de100 formas disponibles de Jin-Woo y6.615 Mau por separado. Casa recibe familia antes de Makima. No comprimir llegada y vida propia en una notificación de premio. Makima/Purple/pijamada posteriores no producidos.
+Continuar V66, B+186, sin salto de semanas. Cumplir revisión de referencia Noise después desayuno. Preparar reunión Makima como conversación explicativa solicitada por ella y evaluada por casa; pactos/medidas/mecanismo de auxilio aparecen antes del ataque. Cristales propios requieren inspección de stock real, no Dragon's Fear automáticamente aprendido. Makima/Purple/pijamada siguen autorizados, no producidos. Mantener familia recién llegada con vida cotidiana y participación escogida, no volverla colección de nombres desaparecidos tras reencuentro.
 
 ## Cuarto checkpoint: llamadas completas
 
@@ -66,3 +70,7 @@ El primer contacto se centra en oír que está vivo y acompañado. El segundo co
 ## Quinto checkpoint: elecciones del creador y ejecución
 
 Creador confirmó sacrificio voluntario, tope100 elegidos, nivel por encima National, celo Kamish y runas integradas en habilidades propias de Mau (no cristales de poderes para repartir). Kit de Mau actualizado con clases permanente/habitual/combate demostrado/supervisión/plano y primer ejercicio de combinación. Dragon's Fear es referencia ofrecida de Jin-Woo, no habilidad concedida a Mau. La actuación real sólo obtiene vacilación comprobable en frente observado; no se anuncia haber derrotado a todos los creadores. Los reencuentros son siguientes escenas centrales, no cerrados por haber alcanzado número de capítulos.
+
+## Sexto checkpoint: cierre de V65
+
+V65#27–30 conserva llegada, padres, pareja y primera cena en escenas separadas por necesidad del reencuentro. Los cinco nuevos residentes no rejuvenecen ni ganan capacidades inventadas por descripción. Jin-Woo conserva100 seleccionados y memoria; Mau6.615. Kit clasifica permanencia/uso/supervisión/mapa, y mantiene aprendizaje por practicar. B186 revisión de datos es cita concreta, no salto al full bag. No se empezó todavía el ataque de Makima por adelantarlo para cerrar un volumen.

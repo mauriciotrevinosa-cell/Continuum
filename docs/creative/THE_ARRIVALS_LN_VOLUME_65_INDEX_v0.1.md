@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 65
 **Season:** 11
-**Coverage:** S11E01–S11E13 (volume in production; season continues)
+**Coverage:** S11E01–S11E15 (volume complete; S11 continues)
 **Volume title:** **A Place to Stay**
-**Chapter files:** 26
+**Chapter files:** 30
 
 The guest at the end of the road brings a war with him. The house has an idea about what he might bring home instead.
 
@@ -41,3 +41,7 @@ The guest at the end of the road brings a war with him. The house has an idea ab
 | 24 | S11E12 | The Choice Was Theirs | `THE_ARRIVALS_S11E12_LN_CHAPTER_02_THE_CHOICE_WAS_THEIRS_v0.1.md` |
 | 25 | S11E13 | The Hundred He Keeps | `THE_ARRIVALS_S11E13_LN_CHAPTER_01_THE_HUNDRED_HE_KEEPS_v0.1.md` |
 | 26 | S11E13 | The Audience They Did Not Choose | `THE_ARRIVALS_S11E13_LN_CHAPTER_02_THE_AUDIENCE_THEY_DID_NOT_CHOOSE_v0.1.md` |
+| 27 | S11E14 | The Last Step Home | `THE_ARRIVALS_S11E14_LN_CHAPTER_01_THE_LAST_STEP_HOME_v0.1.md` |
+| 28 | S11E14 | Your Turn to Sit | `THE_ARRIVALS_S11E14_LN_CHAPTER_02_YOUR_TURN_TO_SIT_v0.1.md` |
+| 29 | S11E15 | When the Door Was Theirs | `THE_ARRIVALS_S11E15_LN_CHAPTER_01_WHEN_THE_DOOR_WAS_THEIRS_v0.1.md` |
+| 30 | S11E15 | A Place to Stay | `THE_ARRIVALS_S11E15_LN_CHAPTER_02_A_PLACE_TO_STAY_v0.1.md` |

@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V65#26, B+185 mañana. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V65#30, B+185 noche. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -66,5 +66,6 @@ Posibles primeros ejercicios editoriales, **todavía no adquisiciones ni resulta
 | V65#5–9 | Jin-Woo enseña movimiento de dagas con trainers/agarre adaptado a mano real, sin curar secuelas. Se diseña, construye y prueba revisión acotada Movement Learner; distingue mapa de habilidad practicada. Sin nueva técnica de combate ni incremento físico. [Producción S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). |
 | V65#11–16 | Escoba: demostración consentida Momo enriquece observación, mecanismo aún incompleto. Señal: dos tests locales acotados con permiso DIO/Ashborn, sin poder de combate. Jin-Woo demuestra retirada con sombra propia; Mau no adquiere su repertorio por observar ensayo. |
 | V65#21–26 | Referencia Dragon's Fear observada, no aprendida. Primera coordinación dagas/Authority ensayada #23. Actuación de señal autorizada #26, modelo se cierra; mapa Jin-Woo ofrecido para estudio posterior. Legión Mau sigue6.615, distinta de100 elegidos Jin-Woo. |
+| V65#27–30 | Llegan cinco familiares Jin-Woo y se cierra paso concreto. Ningún nuevo teletransporte genérico/moneda ni potencia transferida a Mau. Mapa heredado guardado, estudio B186 pendiente. |
 
 Con cada adquisición o mejora, añadir capítulo, estado anterior y nuevo, coste, condiciones, duración y testigos. Usar las categorías observado, construido, probado, repetible y pico según la escena. En el mismo cambio, actualizar el registro de producción y enlazar aquí el capítulo que lo demuestra.

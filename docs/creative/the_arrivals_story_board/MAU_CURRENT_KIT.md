@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V66#18, B+194 noche. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V67#4, B+195 fuera / primer día interno Purple. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -57,6 +57,10 @@ Posibles primeros ejercicios editoriales, **todavía no adquisiciones ni resulta
 | Modelo de señal, ensayo S11 | V65#12: DIO y Ashborn autorizan expresión local aislada de derivados retenidos desde V51, alimentada con maná de Mau. Primer intento defectuoso; segundo dura tres respiraciones y resulta reconocible, todavía incompleto. No deidad real, poder vivo del huésped, habilidad de combate ni emisión entre mundos. Se cierra y requiere nuevo acuerdo para siguiente uso. |
 | Runas/estructura Jin-Woo observadas | V65#21: enseñanza sobre integrar piedra con habilidad y referencia voluntaria Dragon's Fear de Jin-Woo, sin rugido público ni adquisición de Mau. V65#26: Jin-Woo ofrece mapa de estructura de herencia/operaciones durante cambio fuente, separado de memorias familiares; Noise lo retiene para estudiar. Sin instalación masiva, mana nuevo, potencia fuente o límite100 heredado por Mau. |
 | Ruta doméstica Diablo, ejecución bajo estrés | V66#1: prueba consciente falla. V66#10–11: al escuchar exigencia Shoko logra limpieza inmediata de ropa/collar, después linens, sin levantarse ni viajar; repite dentro de crisis. Ciel/Noise acotan operación a superficies/orden, no cuerpoY ni herida. Construcción ejecutada, repetición en ese estado observada; uso voluntario en calma todavía por comprobar, mantener supervisión. No teletransporte ilimitado, borrado conceptual, cura o esterilización perfecta atribuidos. |
+
+## Protección temporal de Ori — V67#4
+
+Extensión del mismo neutral Limitless que Mau mantiene activo, no una segunda CT independiente instalada en Ori. Consentida para esta gate, alcance de tres pasos de Mau; coste y filtro de fenómenos observables a cargo de Mau/ojos/Mini Ciel. Prueba: interacción inocua, pebble frenado, apagado solicitado y renovación. Ori puede revocar; seguir después exige nueva conversación. No defensa absoluta contra todo fenómeno, corte espacial o peligro desconocido. Si Mau cambia su CT, no dar por mantenida esta extensión sin otra fuente establecida. Puede usar Authority y sombras ya disponibles sin fingir una segunda CT simultánea.
 
 ## Registro de cambios
 

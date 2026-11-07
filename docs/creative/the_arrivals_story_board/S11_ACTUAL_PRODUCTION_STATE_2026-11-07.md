@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V66#18, B+194 noche. V65 completo,30 capítulos; V66 completo,18 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V67#4, B+195 fuera / primer día interno Purple. V65 completo,30 capítulos; V66 completo,18 capítulos; V67 en curso,4 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
 
 ## Escenas realmente escritas
 
@@ -55,15 +55,21 @@
 | V66#17 | S11E24 CH01 | B+193 día | Mduerme, YdesayunaMai yfollow-upbien. Mfuncionalperovigilante/absorto; Rcomparteinvestigación, hipótesisdecisiónanterior al pacto no pruebaautoría. Ori map pideatención, Mlaoyeconayuda, no insomniofijo ni creermundofalso. |
 | V66#18 | S11E24 CH02 | B+194 día/noche | Ori pideaFrieren exploraciónconMcomoasistente. E conocida inspeccionada, madre/doctorayYukaevalúan y permitenplanpequeño, Orieligecompañía no encargo de curarlo. EncargaMai equipo/paga dulces: Maiaceptaunodepósito, confidencialidad. Traje aúnpendiente. |
 
+| V67#1 | S11E25 CH01 | B+195 mañana | Mai mantiene confidencialidad del encargo y avisa a Mau por el contrato existente. Ropa cosida/boots ajustadas; Construction pequeña para broche/luz/correa. Ori participa en pruebas y paga con dulces, Momo ayuda, Frieren acompaña. |
+| V67#2 | S11E25 CH02 | B+195 mañana | Ori invita al asistente uniformada. Beso MY, biscuits Gojo/Yuka, inspección repetida E coherente, reporte Ciel/Rimuru y soldado ordinario exterior. Ambos cruzan antes del cambio Purple. |
+| V67#3 | S11E26 CH01 | B+195 fuera / día interno1 | Se detienen y evalúan. Salida por guardián, oportunidad permanente catálogo personal. Contactos Ciel y soldado funcionan; reloj interno más rápido, no tiempo normal ni nueva desconexión. Ori conserva dirección con Mau a cargo del peligro. |
+| V67#4 | S11E26 CH02 | B+195 fuera / día interno1 | Ori prueba y acepta protección revocable hasta salir: extensión neutral Infinity de Mau, alcance tres pasos de él, coste/filtrado suyo, sin instalar CT. Toca cosas inocuas, observa frenado de pebble, apaga y renueva; límites explicados, madre informada. |
+
 ## Estado acumulado y trampas
 
 - **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
 - **Modelos DIO/Ashborn:** pruebas #12/#25 y actuación específica #26 autorizadas, maná Mau, no reservas vivas de huéspedes. Imitación de presencia/gesto con retirada Jin-Woo, no dios nuevo. Observador enemigo concreto se retira para estudiar; guerra total no declarada ganada. Modelo cerrado después de actuación, referencia sigue separada y futuros usos necesitan alcance acordado. Huéspedes protegidos, sin privatememories abiertas.
 - **Mau:** secuelas viejas y gray-except-Yuka vigentes. Cuerpo mejorado no se apaga al soltar equipo. Clase limitada es por práctica/control y revisión Shoko, no retorno estadístico. Inventario, tienda, contratos Yuka/Mai y 6.615 vínculos previos no cambian. Archivo Sukuna elegido cerrado.
 - **Movement Learner:** prototipo estrecho construido y probado en V65#7/#9: revisión posterior a acción de una muestra elegida. Una referencia inicial omitía nuevo agarre, detectado y corregido. No aprendizaje motriz automático/piloto/tercera conciencia; mejoras parciales a practicar. Mini Ciel sigue filtro silencioso; Ciel habla y nombra.
-- **Noise:** revisión B+178 cumplida, siguiente comparación acordada B+179. Visita personal Yuka producida #8, ella conserva dibujo y acuerda volver. Deseo propio sobre escoba; Momo ofreció demostración B+179, todavía no ocurrida. Sin activación general de backlog.
+- **Noise:** visita personal Yuka V65#8 producida y dibujo conservado. Demostración consentida de escoba V65#11 ya ocurrió; observación no es piloto automático ni técnica instalada. Revisión de mapa Jin-Woo V66#1 sin full bag. Ayudó coordinación de reparación Yuka; limpieza Diablo surge durante crisis, aún no probada voluntariamente en calma. Sin activación general de backlog.
 - **Casa:** sin habitantes nuevos adicionales, sin nuevos empleados/guardias hablantes. Watch: Muster + cuarenta ordinarios en rotación y sentries de ruta con órdenes. Mai/Momo proximidad sin romance decretado, Rem/Umaru cercanía, Gojo/Shoko presentes, MY cálidos y con vida propia.
-- **Makima/Purple/pijamada:** dirección futura aprobada, ningún ataque, herida, coma o nueva gate ya producido. No atribuir los hitos de la dirección al presente.
+- **Makima/Yuka:** encuentro/ataque ya V66#7–9. Pacto A previo del devil y B prospectivo intacto, la casa sospecha pero no tiene autoría demostrada. Yuka ya despertó B192 y está físicamente bien, marca tenue. Mau volvió a dormir; sigue vigilante sin perder conexión afectiva ni creer falsa la casa.
+- **Purple/pijamada:** ambos entraron V67#2; Purple evaluada #3 y contrato Ori #4. Todavía no se descubren catálogo ni loot ni ocurre regreso/pijamada. Tiempo más rápido dentro confirmado por creador; no convertir siete días internos en siete días perdidos afuera.
 
 ## Auditoría del primer checkpoint
 
@@ -79,7 +85,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V67#1/S11E25CH01, B+195 mañana: Mai solicita suministro de encargo confidencial y equipo deOri se prepara en escena. Yuka enloop, cookieGojo/Yuka ydeparture. Purple/catálogo/guardia/paternidad/regreso/pijamada autorizadosporproducir. Se preguntó por tiempo Purple (mismo dentro/fuera concontactoCiel, o nocheinterior→horasfuera); respuesta todavía pendiente al noveno checkpoint. No dar porfijada la relación temporal mientras se puede escribir preparación independiente. M recobró sueño, Y físicamente estable; temorMrequierevivirconotros, no nueva tortura.
+Continuar V67#5 / S11E27CH01: exploración del primer patio y descubrimiento del alcance del lugar. Primera noche: afuera sólo alrededor de una hora, la voz se recibe normal por mensajes. Mau estima siete días internos para el plan de Ori; casa pregunta si puede apresurar, él explica compromiso y prioridad de intervenir ante algo inseguro, Frieren acepta. Creador fijó esta dirección durante escritura, antes del primer push V67. Catálogo, siete días compartidos, paternidad, regreso y pijamada aún por producir; no comprimir siete días en una sola escena de campamento.
 
 ## Séptimo checkpoint: precauciones antes del ataque
 

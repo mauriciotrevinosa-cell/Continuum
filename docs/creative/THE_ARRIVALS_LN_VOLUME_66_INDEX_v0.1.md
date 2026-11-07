@@ -9,7 +9,7 @@
 
 The house returns to work and ordinary evenings. An invitation asks them to decide what listening to an enemy should require.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_65_INDEX_v0.1.md) · [Approved direction](the_arrivals_story_board/S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Production record](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_65_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_67_INDEX_v0.1.md) · [Approved direction](the_arrivals_story_board/S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Production record](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md)
 
 ## Reading order
 

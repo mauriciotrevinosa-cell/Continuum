@@ -78,6 +78,8 @@ Mau propone vínculo Infinity para Ori: selectivo, le permite interactuar; usa o
 
 Ori expresa que siente algo paternal en Mau, duda si es correcto porque un papá tendría que estar con mamá. Mau dice que no deben decidir ahora. No convertirlo en reconciliación romántica con Frieren ni adopción obligatoria. Él mantiene a Ori protegida sin encerrarla ni quitarle la aventura. Primera noche él propone vigilancia, Ori quiere acompañar y se duerme en sus piernas; compra cobija con shop disponible. Mejora posterior amplía productos; encuentra dulces/papas que no reconoce y piensa que Umaru sabrá.
 
+**Tiempo Purple confirmado por el creador durante V67:** Ciel conserva contacto y Mau se oye normal al hablar con casa, pero el tiempo corre más rápido dentro. Cuando informa de que es de noche, afuera pasó aproximadamente una hora. Mau estima unos siete días internos para respetar el plan de Ori. Le preguntan si puede acelerar; explica que prometió respetar su plan, pero actuará rápido si algo no se siente seguro. Frieren acepta. Mostrar convivencia y aventura durante esos días, no tratar siete días como cuota ni sacrificar las escenas por alcanzar pronto el regreso. B+195 exterior se distingue de días internos 1–7; no asignar calendario exterior nuevo a cada amanecer interior.
+
 ## Regreso y pijamada
 
 Frieren espera: sale Ori dirigiendo sombras que sacan loot, Mau sigue como protector/asistente. Darle recursos y regalos elegidos en escenas interiores: grimorio Frieren, detalle Yuka y material/herramienta para Mai. Grimorio no garantiza hechizo nuevo. El inventory sigue disponible; mostrar razón de usar porteadores/sombras como decisión de descarga y selección, no amnesia de esa capacidad. Sombras ordinarias no hablan de golpe.

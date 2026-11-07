@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 65
 **Season:** 11
-**Coverage:** S11E01–S11E08 (volume in production; season continues)
+**Coverage:** S11E01–S11E10 (volume in production; season continues)
 **Volume title:** **A Place to Stay**
-**Chapter files:** 16
+**Chapter files:** 20
 
 The guest at the end of the road brings a war with him. The house has an idea about what he might bring home instead.
 
@@ -31,3 +31,7 @@ The guest at the end of the road brings a war with him. The house has an idea ab
 | 14 | S11E07 | Someone Else Stood Up | `THE_ARRIVALS_S11E07_LN_CHAPTER_02_SOMEONE_ELSE_STOOD_UP_v0.1.md` |
 | 15 | S11E08 | The People on the Other Side | `THE_ARRIVALS_S11E08_LN_CHAPTER_01_THE_PEOPLE_ON_THE_OTHER_SIDE_v0.1.md` |
 | 16 | S11E08 | A Reason to Believe It | `THE_ARRIVALS_S11E08_LN_CHAPTER_02_A_REASON_TO_BELIEVE_IT_v0.1.md` |
+| 17 | S11E09 | The Seat Rem Chose | `THE_ARRIVALS_S11E09_LN_CHAPTER_01_THE_SEAT_REM_CHOSE_v0.1.md` |
+| 18 | S11E09 | Before Anything Else | `THE_ARRIVALS_S11E09_LN_CHAPTER_02_BEFORE_ANYTHING_ELSE_v0.1.md` |
+| 19 | S11E10 | Five Voices | `THE_ARRIVALS_S11E10_LN_CHAPTER_01_FIVE_VOICES_v0.1.md` |
+| 20 | S11E10 | The Step Between | `THE_ARRIVALS_S11E10_LN_CHAPTER_02_THE_STEP_BETWEEN_v0.1.md` |

@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V65#30, B+185 noche. Volumen 65 completo, 30 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V66#6, B+188 noche. V65 completo,30 capítulos; V66 en producción,6 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
 
 ## Escenas realmente escritas
 
@@ -36,6 +36,12 @@
 | V65#28 | S11E14 CH02 | B+185 media mañana | Familia descansa con comida en alojamiento temporal real. Madre/padre vuelven a tener hijo sentado; no le exigen dejar de sentir pérdida. Suho/Jin-Ah paseo corto con MY, puerta/mercado/sentry aclarados. Ninguna obligación de trabajar ni casa permanente asignada. |
 | V65#29 | S11E15 CH01 | B+185 tarde | Pareja Hae-In/Jin-Woo con puerta cerrada, primer rato propio; hablan de quedarse/cambio/pérdida sin arrepentimiento de familia. Suho elige visita a yard con Yuta, Jin-Woo se queda con esposa. MY respetan privacidad y toman minutos propios. |
 | V65#30 | S11E15 CH02 | B+185 cena/noche | Primera cena de los cinco con casa. Familias/parejas existentes presentes en acciones: MY, Gojo/Shoko, Rem/Umaru, Ram/Seika, Ko/Nazuna, Mai/Momo, Eren/Mikasa, Kaneki/Touka/Ichika. DosBeru conservan propio rey; comedic encore rejected. Comida a DIO/Ashborn, revisión de mapa Noise acordada tras desayuno B186. Jin-Woo vuelve a cuarto con Hae-In. Cierre cálido del primer arco, no fin S11. |
+| V66#1 | S11E16 CH01 | B+186 mañana | Cita Noise/Jin-Woo/Ciel cumplida; revisan rutas de suministro/intención/patrón y mapa ofrecido, no full instalación. Review estrecho learner reconocido repetible en ejemplos etiquetados. Patrón doméstico Diablo observado/incompleto, prueba no limpia mancha. Yuka pregunta auxilio por contrato. |
+| V66#2 | S11E16 CH02 | B+186 tarde | Yuka pide/consiente ofrecer respuesta puntual si no puede completar solicitud, conserva cierre. Primera prueba padded late, segunda funciona y revocación impide tercero. Reciben ruta nativeTenS como carrier de patrón ofrecido sin reemplazar el propio. Respuesta de rueda almacenada a severance mostrada sólo como referencia: mantuvo UNA vez, no inmunidad genérica. |
+| V66#3 | S11E17 CH01 | B+187 mañana | Nota Makima entregada en cruce exterior y traída por ordinaryshadow a Fern/Rimuru, no empleado inventado. Casa debate naturaleza/inteligencia vs mentiras. Yuka elige ir. Proponen B189noon, Mau/Yuka/Rimuru/Frieren asisten, Gojo/Yuta apoyo retorno, no pacto activo aún. |
+| V66#4 | S11E17 CH02 | B+187 tarde | Inspección real y rutas salida, DIOwardfija. Borrador prospectivo desde aceptación a salida, prohibe iniciar/ordenar/autorizar/activar violencia y coacción nuevas, marcar/seguir; defensa contraataque independiente permitida. Makima acepta propuesta por escrito, ratificación conjunta futura. No detectan hueco de instigación ya completada. Shoko conoce alcance probado de auxilio, Ciel frena flujo erróneo antes de pedir más. |
+| V66#5 | S11E18 CH01 | B+188 amanecer | POV breve antagonista: Makima pacta A con SeveringDevil original de esta historia, tipo de corte espacial. Una acción a hora fija B189 y objetivoYuka si presente, sin señal nueva de Makima. Recompensa taza de su sangre si regresa por ciclo que él cree disponible, mismo fear-name; no promesa de recuerdo canónico intacto. Pacto A anterior a B. Casa no sabe nada de esto. |
+| V66#6 | S11E18 CH02 | B+188 tarde/noche | Vida propia MY y familia nueva; Mai/Momo, Hae-In/Jin-Ah, Ori/Frieren presentes. Jin-Woo acepta quedarse con casa como respaldo, no todos fuertes en mismo lugar. Confirmación de cita/escape y lección posterior; pareja duerme junta tranquila. Ningún daño aún. |
 
 ## Estado acumulado y trampas
 
@@ -61,7 +67,11 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V66, B+186, sin salto de semanas. Cumplir revisión de referencia Noise después desayuno. Preparar reunión Makima como conversación explicativa solicitada por ella y evaluada por casa; pactos/medidas/mecanismo de auxilio aparecen antes del ataque. Cristales propios requieren inspección de stock real, no Dragon's Fear automáticamente aprendido. Makima/Purple/pijamada siguen autorizados, no producidos. Mantener familia recién llegada con vida cotidiana y participación escogida, no volverla colección de nombres desaparecidos tras reencuentro.
+Continuar V66#7/S11E19CH01, B+189 mediodía: inspección día y ratificación B antes diálogo. Makima explica naturaleza/Denji/Pochita/protección, busca reconsideración; discurso interesado no autoridad narrativa. Noise ofrece hipótesis de ayuda, Mau decide consultar casa y saber todo Pochita antes de armarla. Ataque A en hora fija sin nuevo acto/orden/trigger Makima; severance ya reconocible al mecanismo de adaptación propio, auxilio puntual a Yuka por ruta consentida, lesión grave previa persiste. Todavía NO hay ataque/curación/Purple/pijamada producidos. Mantener nuevos familiares y otros vínculos presentes sin contabilidad vacía.
+
+## Séptimo checkpoint: precauciones antes del ataque
+
+V66#1–6 establece backlog/limpieza incompleta, auxilio probado y consentido, nota recibida por watch real, elección de asistentes/respaldo, inspección y términos, pactoA anterior y noche normal. La decisión de escuchar está motivada por inteligencia sobre enemigo, no creerla aliada/redimida. El pactoB todavía no comenzó. Antes de atacar, redactar ratificación/charla completa y conservar secuencia de tiempos; no meter gesto de Makima como disparador posterior. ArtefactosJinWoo/100/familia ya estables, no altar cósmico activo durante nueva reunión.
 
 ## Cuarto checkpoint: llamadas completas
 

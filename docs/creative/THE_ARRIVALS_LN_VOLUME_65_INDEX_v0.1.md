@@ -11,6 +11,8 @@ The guest at the end of the road brings a war with him. The house has an idea ab
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_64_INDEX_v0.1.md) · [Approved direction](the_arrivals_story_board/S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Production record](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md)
 
+[Continue in Volume 66](THE_ARRIVALS_LN_VOLUME_66_INDEX_v0.1.md).
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

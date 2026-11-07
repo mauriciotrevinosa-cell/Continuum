@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V66#12, B+190 noche. V65 completo,30 capítulos; V66 en producción,12 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V66#18, B+194 noche. V65 completo,30 capítulos; V66 completo,18 capítulos; **S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md).
 
 ## Escenas realmente escritas
 
@@ -48,6 +48,12 @@
 | V66#10 | S11E20 CH02 | B+189 tarde | Clínica: Shoko/Yuta/Ciel/Noise/M/Beru coordinan tejido y patrón propioY, cierre superficial no resuelve incoherencia. M obedece flujos/posición, se niega a salir. Shoko exige limpieza: blinkMlimpio/sinlevantarse; ropa/linen superficial, no lesión. DosBeru relevo propio mana, soldadosemocionesMsinperderguardia. |
 | V66#11 | S11E21 CH01 | B+189 noche→amanecer190 | Primera vigilia completa: sostiene aporte acotado con apoyo y alimento/agua, no duerme. Frieren explicaqueseparómanoajena/culpa, Mseculpa/llora. Oyeórdenesútiles, ignoresolicitudsalir. Limpieza estrecha repite. ManoY mueve brevemente sin despertar, Shoko distingue. |
 | V66#12 | S11E21 CH02 | B+190 día/noche | Mai/Maki acompañan, Maki no borra decisiónY para culparM. Watch sigue, reloj prueba horario no autoría; sospechanMK sin absolverpacto. Jin-Woo lleva comida/relevo. Ori visita conFrieren, traecloth paraY, veMabsorto sin misióncurarlo. Y sigueinconsciente, uniónmejora, Msin dormir. |
+| V66#13 | S11E22 CH01 | B+191 día/noche | Reparación ya sostenida por otros, M puede sólo sostener mano sin ser soporteúnico, aun no duerme. Gojo compañía sin exigirse distracción. DIO/Ciel ayudanNoise a seleccionar loútil sinabrir modelos privados. Marca tenue de unión cuello/clavícula, cuerpo reparado pero no despierta. |
+| V66#14 | S11E22 CH02 | B+192 primera tarde, >72h | Yuka despierta, responde, pideagua. M lloraperoperfilesShokoescucha. Comprueba cuerpo reparado, broma de marca haceMllorar, Yrecuerdaqueél la atrapó. Conoce duración yvelaCANSANCIO, soporte se retira porfases. |
+| V66#15 | S11E23 CH01 | B+192 tarde | Ypregunta horasperdidas conMpresente, relatoShoko/R/MaiMaki de ayudas y vigilia; sin campaña vergüenza. Traen hoodieMcLaren propia, seabraza familia, sospechaMKnoinocenciacontrato. Controlmédico permitecasa, se levantaestable. M pidecargar, Yacepta. |
+| V66#16 | S11E23 CH02 | B+192 tarde/noche | En casaMseadelanta acup/pillow, Ypideque se siente. Hablanmiedodeambos/cargadefrente, Mllora/pideperdón, Yama bondad odiasuexplotación. Primera nocheMduerme despuésvigilia, flotanpoco buen sueño, Y seacomodaencima yloscubre sin exigirbajar. No cura instantánea miedo. |
+| V66#17 | S11E24 CH01 | B+193 día | Mduerme, YdesayunaMai yfollow-upbien. Mfuncionalperovigilante/absorto; Rcomparteinvestigación, hipótesisdecisiónanterior al pacto no pruebaautoría. Ori map pideatención, Mlaoyeconayuda, no insomniofijo ni creermundofalso. |
+| V66#18 | S11E24 CH02 | B+194 día/noche | Ori pideaFrieren exploraciónconMcomoasistente. E conocida inspeccionada, madre/doctorayYukaevalúan y permitenplanpequeño, Orieligecompañía no encargo de curarlo. EncargaMai equipo/paga dulces: Maiaceptaunodepósito, confidencialidad. Traje aúnpendiente. |
 
 ## Estado acumulado y trampas
 
@@ -73,7 +79,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V66#13/S11E22CH01, B+191, tercer día calendario de vigilia. Yuka debe seguir inconsciente varios días reales, no despertar mañana190. Mostrar ajustes/reparación, Mau escucha sin dormir y permanencia, casa funcional. Posible despertar B192 (más de72h) con escena propia, marcas/good-feeling y relato de loqueélvivió. Recuperación de pareja y noche flotando tienen capítulos completos antes de Ori/Purple. Makima salió segúnpacto, A no revelado a casa; no revancha ejecutada ni agresor sombra adquirido. No usar exceso mana como RCT universal: coordinación y patrón propioY siguen importando.
+Continuar V67#1/S11E25CH01, B+195 mañana: Mai solicita suministro de encargo confidencial y equipo deOri se prepara en escena. Yuka enloop, cookieGojo/Yuka ydeparture. Purple/catálogo/guardia/paternidad/regreso/pijamada autorizadosporproducir. Se preguntó por tiempo Purple (mismo dentro/fuera concontactoCiel, o nocheinterior→horasfuera); respuesta todavía pendiente al noveno checkpoint. No dar porfijada la relación temporal mientras se puede escribir preparación independiente. M recobró sueño, Y físicamente estable; temorMrequierevivirconotros, no nueva tortura.
 
 ## Séptimo checkpoint: precauciones antes del ataque
 
@@ -82,6 +88,10 @@ V66#1–6 establece backlog/limpieza incompleta, auxilio probado y consentido, n
 ## Octavo checkpoint: ataque y primera vigilia
 
 Se conservaron las medidas antes de mostrar su insuficiencia. Observación de campo no detecta un proyectil porque daño se fija en espacio ocupado; respuesta antes aprendida aporta un salvamento parcial puntual, no inmunidad retrospectiva. V66#4 ampliado sólo para hacer explícita preparación del anclaMuster y permiso de retorno clínico que requiere #9. Reloj visible yaenA, no nueva orden duranteB. Pacto intacto crea duda sobreautoría, no nueva amistad/absolución. Se separaron encuentro, primerosauxilios, clínica, primera noche y segunda jornada para no saltar de herida a recuperación. Yuka todavía no despierta al checkpoint.
+
+## Noveno checkpoint: recuperación con tiempo propio
+
+Tercer día real, despertar >72h, relato de horasperdidas, regreso/pregunta de cargar, conversación nocturna y primerosdías después son escenas, no una transición resumida. Yuka físicamentebien pero con voz/decisión; Mau obedeceayuda, recuperasueño y siguesufriendo incertidumbre sin hostilidadalacasa. Pijama/Purple no usados comocurainstantánea: empieza deseo propioOriporcompartirexpedición. Actualizar kit conestadoexperiencia: auxilio puntual y limpieza demostrados, resto conocimiento no poder automático.
 
 ## Cuarto checkpoint: llamadas completas
 

@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 66
 **Season:** 11
-**Coverage:** S11E16–S11E21 (volume in production; S11 continues)
+**Coverage:** S11E16–S11E24 (volume complete; S11 continues)
 **Volume title:** **The Shape of Safety**
-**Chapter files:** 12
+**Chapter files:** 18
 
 The house returns to work and ordinary evenings. An invitation asks them to decide what listening to an enemy should require.
 
@@ -27,3 +27,9 @@ The house returns to work and ordinary evenings. An invitation asks them to deci
 | 10 | S11E20 | Because I Am Listening | `THE_ARRIVALS_S11E20_LN_CHAPTER_02_BECAUSE_I_AM_LISTENING_v0.1.md` |
 | 11 | S11E21 | The Same Hand | `THE_ARRIVALS_S11E21_LN_CHAPTER_01_THE_SAME_HAND_v0.1.md` |
 | 12 | S11E21 | All the Ways They Stay | `THE_ARRIVALS_S11E21_LN_CHAPTER_02_ALL_THE_WAYS_THEY_STAY_v0.1.md` |
+| 13 | S11E22 | What He Can Hold | `THE_ARRIVALS_S11E22_LN_CHAPTER_01_WHAT_HE_CAN_HOLD_v0.1.md` |
+| 14 | S11E22 | When She Says His Name | `THE_ARRIVALS_S11E22_LN_CHAPTER_02_WHEN_SHE_SAYS_HIS_NAME_v0.1.md` |
+| 15 | S11E23 | The Hours She Did Not Have | `THE_ARRIVALS_S11E23_LN_CHAPTER_01_THE_HOURS_SHE_DID_NOT_HAVE_v0.1.md` |
+| 16 | S11E23 | Let Me Hold You | `THE_ARRIVALS_S11E23_LN_CHAPTER_02_LET_ME_HOLD_YOU_v0.1.md` |
+| 17 | S11E24 | Where He Keeps Looking | `THE_ARRIVALS_S11E24_LN_CHAPTER_01_WHERE_HE_KEEPS_LOOKING_v0.1.md` |
+| 18 | S11E24 | An Assistant for the Day | `THE_ARRIVALS_S11E24_LN_CHAPTER_02_AN_ASSISTANT_FOR_THE_DAY_v0.1.md` |

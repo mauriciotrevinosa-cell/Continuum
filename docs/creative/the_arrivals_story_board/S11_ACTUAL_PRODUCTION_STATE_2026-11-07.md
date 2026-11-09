@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V68#13, B+199 día. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 en curso,13: **78 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V68#17, B+202 mañana. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 en curso,17: **82 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -88,6 +88,11 @@
 | V68#12 | S11E39 CH01 | B+198 noche | Rem/Umaru eligen rato propio, Rem habla de ser querida sin utilidad y se besan sin decretar primera vez. Ram/Seika conservan noche propia. Marin propone cena/clase futura, aún no ocurre. |
 | V68#13 | S11E39 CH02 | B+199 día | Nota nueva de Makima llega al punto exterior; Mau la retiene sin compartir. Responde para B200 tarde con soldado existente, sin nuevo pacto. Clase breve Jin-Woo corrige movimiento; familia propia lo llama. MY siguen afectuosos. |
 
+| V68#14 | S11E40 CH01 | B+200 tarde | Primer encuentro privado fuera de ward: inspección, ancla física/soldado propio y pacto nuevo acotado. Makima admite encargo previo devil y expectativa de quitar Yuka; Mau se enfurece, deja explicar y prohíbe daño como vía hacia él. Sólo ofrece explorar cambio propio, no perdón en nombre de familia. Sin habilidades nuevas ni romance. |
+| V68#15 | S11E40 CH02 | B+200 tarde/noche | Casa prepara mesas de cocina en actividad real. Ciel alcanzable conversa durante cena sin oír automáticamente charla no compartida. Yuka percibe distancia/pregunta si quiere hablar, Mau pide no esa noche; intimidad/amor siguen, no mentira a pregunta directa Makima ni ruptura. |
+| V68#16 | S11E41 CH01 | B+201 tarde/noche | Cena/clase Marin/Wakana efectivamente ocurre: panes rellenos, fallos propios, tareas/afecto MY, RemU, RamSeika, GojoShoko, JinWooHaeIn/familia, OriChloe equipo no romántico y FH por elección. No poderes de cocina/empleados nuevos, sin declarar asistentes exhaustivos. |
+| V68#17 | S11E41 CH02 | B+202 mañana | Manos: varios holds pequeños con regulador sin dolor creciente, dosobjetos requieren corrección y baja antes de exceso. Modelo espacial heredado Diablo/puerta logra tres traslados de cloth a distancia corta preparada; más lejos falla. Step corporal aborta antes de traslado por boundary interior atrasado; sin lesión, Step propio dominado ni dobleCT. |
+
 ## Estado acumulado y trampas
 
 - **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
@@ -113,7 +118,9 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V68#14/S11E40CH01, B200 tarde: primer encuentro privado Makima preparado por nota/respuesta #13. Archivo Sukuna ya abierto y regulador probado breve, no repetir aperturas ni permiso forbidden. Construcciones/visitas ocultas a casa todavía. No Ciel apagada ni secreto perfecto. Marin propuso actividad futura y Hinata/Luminous siguen coordinando visita. Ori Papa elegido sin cambiar maternalidad/cuarto. Seguir hasta final S11 y escucha S12 conforme verde.
+Continuar V68#18/S11E42CH01, B202 después del ensayo: vínculos exteriores/delegación Hinata-Luminous por concretar en escenas, crecimiento privado e hilo Makima entre vida de casa. Primera visita ya sucedió; autoría confesada sóloM/Noise, familia sospecha pero ignora respuesta/visita. Pacto acabó al retorno; no paz global perpetua. Ciel alcanzable, cambios fisiológicos no invisibles. Cena cocina ya cumplida, no volver a proponerla como pendiente.
+
+**Recordatorio nuevo del creador:** [papel Ori original](S11_ORIGINAL_ORI_FOLDED_MESSAGE_RECOVERY_PAYOFF_2026-11-09.md). Conservar cerrado, actualOri pidió más tarde enV64#4; retomar por iniciativa de ella durante escucha/recuperación, no objeto nuevo ni lectura previa de padres. Ubicarlo seguro en casa antes de revisión final; no perderlo con ropa dentro del dungeon.
 
 ## Séptimo checkpoint: precauciones antes del ataque
 

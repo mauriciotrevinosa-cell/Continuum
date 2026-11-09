@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V68#13, B+199 día. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V68#17, B+202 mañana. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -82,6 +82,13 @@ Mau autoriza a Noise construir incluyendo forbidden y mantenerlo oculto de todos
 V68#7 revisó con Momo Ayase la ruta heredada: levanta y gira parcialmente un cup pequeño, presión detrás de ojos obliga a parar. Coste distinto del grip Authority, sigue sin ruta habitual estable. No confundir con escoba de Momo Nishimiya ni nuevo poder adquirido por primera vez.
 
 V68#10 prueba externamente el regulador: overshoot cortado, dos sujeciones breves de cup y giro parcial con menos presión; todavía no uso habitual estable. V68#11 abre por decisión propia todo el archivo adquirido de Sukuna a Mau/Noise. Estudia intercambios concretos y practica con trainer, con fallos. Acceso al registro no equivale a asimilar siglos en una tarde, posesión, instalación de CT de cada enemigo o dominio corporal automático. Doble CT, Step libre y Bang permanecen como planes a producir; True Dragon sigue restringido. Legión6.615 sin nuevas extracciones y Jin-Woo100 separado.
+
+## Ensayos nuevos — V68#17
+
+- Regulador de manos heredadas: varias sujeciones pequeñas consecutivas sin aumento de dolor; dos objetos simultáneos exigen correcciones y se bajan. Acota escala/atención; no mastería ante enemigo ni reserva gratis.
+- Step desde referencias antiguas de puerta/Diablo: modelo aislado alimentado con maná traslada un cloth tres veces entre puntos preparados muy próximos. Distancia mayor falla por relación no cerrada. No destruye objeto ni crea copia.
+- Primer intento corporal se detiene ANTES de traslado: un boundary interno quedaba atado al punto de origen. Sin nueva lesión o traslado real. **Step corporal sigue no disponible para uso de combate.** Registrar progreso y fallo, no confundir limpiezaDiablo con esta operación ni pasar ward hostilmente.
+- Makima #14: relato/observación retenidos, sin demostración de Control ni Bang construido. No técnica adquirida porque dio explicación. Doble CT no probado todavía, TrueDragon mantiene coste/restricción.
 
 ## Registro de cambios
 

@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V69#13, B+209 media mañana. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V69#16, B+209 tarde/noche. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -109,6 +109,10 @@ Makima demuestra fuerza dirigida en combate. Noise observa muestra pero conserva
 Avance de refinamiento, no nuevosstats. Firstphase Jdesarma/controlabrazo por cambiarcontinuacióny aprovecharviewizquierdo. Fase ampliada McomponeCTsecuencialesNeutral/Sky/Shrineal sueloconAuthority independiente. Jusa terreno/AuthorityyunanclaExchange sinatravesarInfinityporque sí. Mcierramanaemisiónrecientepor insuficienteaim; **noBangusado**. Enfinalgrip psíquico controlado sobreunaprácticadaga pequeña/cercana (nolevantarJ) armoniza con cuerpo/Authority/Sky para concesiónposicional. Dosreservasyatención, sueltaextra gripantesdelúltimocambio. Hombrobruisecontrolado, nomayordañoni statsregalados. Mnoacabauniversalmentesuperior aJporuna entrada, Jsourcepowerlimitadopermanece.
 
 Cielreciberegistrodefallodeldouble porpreguntaen#10 ysolicitaestarantesdelpróximointento, Macepta. No recibiótodobacklogprivadodefinitivo. #13 Mconfirma archivoSukuna abierto, Gojo reconocecriterio, Ciel pidehablartrasretorno. Primerusoarmónico dehandencombateentrenamientoconresultadoacotado, noinmunidado dominioautomático.
+
+## Trabajo abierto y alcance — V69#14–16
+
+La casa ya conoce el permiso oculto de construir todo y los proyectos efectivamente probados. No inventar que sigue ignorándolo tras esta conversación. Mau acepta revisión antes de tests que puedan tensar boundaries corporales y alcance original para expresiones derivadas de huéspedes. Analyze continúa, archivo Sukuna sigue abierto por decisión propia; no incautación ni bloqueo global de toda mejora. DIO/Ashborn no activados nuevos fuera de escena. Ashborn conserva privacidad y pide consultar nombre/likeness antes de emisión. Señal derivada no equivale a que la fuente original conteste quién es; posibilidad de consulta voluntaria futura, no nuevo ataque o llave disponible.
 
 ## Registro de cambios
 

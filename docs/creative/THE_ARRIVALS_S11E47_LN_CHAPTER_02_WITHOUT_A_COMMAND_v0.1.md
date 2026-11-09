@@ -5,7 +5,7 @@
 **Volume:** 69
 **Reading order:** 9
 **Source episode:** S11E47
-**Continuity state:** B+208 morning/noon, third visit continued. Makima describes her changed subjective regard for Mau since his thank-you; Pochita account is her testimony. Control/hierarchy not a universal objective power meter. Mau offers to investigate forms of closeness without coercion, no romance, exclusivity, spouse replacement or promise he can alter a devil's nature. Her conduct remains her responsibility. Reze still outside Mau's household, continuing release terms intact. No new ability or knowledge of Ashborn's current private arrangement supplied here.
+**Continuity state:** B+208 morning/noon, third visit continued. Makima describes her changed subjective regard for Mau since his thank-you; Pochita account is her testimony. Control/hierarchy not a universal objective power meter. Mau offers to investigate forms of closeness without coercion, no romance, exclusivity, spouse replacement or promise he can alter a devil's nature. While giving a concrete counterexample to possession, he confirms Ashborn remains a voluntary guest free to leave. This is Makima's actual source, per creator decision, not a Ruler leak/omniscience. No room access, live signal or bodily whereabouts demonstrated. Her conduct remains her responsibility. Reze still outside Mau's household, continuing release terms intact. No new ability.
 
 *When: Makima says he has become difficult to place beneath her, Mau asks whether this is supposed to flatter him.*
 
@@ -190,6 +190,42 @@ He doesn't move closer.
 “With a different person making the decisions.” ᴹᵏ
 
 “And no room for the answer you didn't expect.” ᴹ
+
+She studies him.
+
+“You've known someone with that much power who simply accepted being refused?” ᴹᵏ
+
+He thinks of the meeting which was supposed to end with his body belonging to somebody else. The quiet after the fighting. A king who had looked at the life being offered him and asked for peace.
+
+“Ashborn could have taken what the Architect wanted to give him,” he says. “He didn't want me erased so he could keep fighting.” ᴹ
+
+Makima becomes very attentive.
+
+“He went to his rest.” ᴹᵏ
+
+“He wanted somewhere to rest. We offered him one.” ᴹ
+
+“With you.” ᴹᵏ
+
+“As a guest. He doesn't owe me a war because I gave him a room.” ᴹ
+
+She looks at his chest, then back at his face.
+
+“And he can leave?” ᴹᵏ
+
+“Yes.” ᴹ
+
+“But he stays.” ᴹᵏ
+
+“That's his choice. That's what I'm trying to explain.” ᴹ
+
+Makima says nothing for long enough that Mau becomes aware of the name he has put into the conversation. He has meant to give her an example of power which does not need ownership. She has asked exactly enough questions to carry away the arrangement behind it.
+
+“I'm not discussing his room or asking him to prove anything to you,” he adds. ᴹ
+
+“You haven't offered to.” ᴹᵏ
+
+He holds her gaze until she looks away first.
 
 Makima looks at him in silence.
 

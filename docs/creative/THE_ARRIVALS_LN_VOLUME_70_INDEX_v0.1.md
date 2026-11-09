@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 70
 **Season:** 11
-**Coverage:** S11E53–S11E61 (in progress)
+**Coverage:** S11E53–S11E63 (volume complete; S11 continues)
 **Volume title:** **Until He Can Come Home**
-**Chapter files:** 16
+**Chapter files:** 20
 
 The house makes plans it expects to finish. Mau learns to show the work before the result, while another room is being prepared without his consent.
 
@@ -31,3 +31,7 @@ The house makes plans it expects to finish. Mau learns to show the work before t
 | 14 | S11E60 | The Sentence She Said | `THE_ARRIVALS_S11E60_LN_CHAPTER_01_THE_SENTENCE_SHE_SAID_v0.1.md` |
 | 15 | S11E60 | One Drop | `THE_ARRIVALS_S11E60_LN_CHAPTER_02_ONE_DROP_v0.1.md` |
 | 16 | S11E61 | Something to Eat | `THE_ARRIVALS_S11E61_LN_CHAPTER_01_SOMETHING_TO_EAT_v0.1.md` |
+| 17 | S11E61 | The Names He Calls | `THE_ARRIVALS_S11E61_LN_CHAPTER_02_THE_NAMES_HE_CALLS_v0.1.md` |
+| 18 | S11E62 | A Room With a Bed | `THE_ARRIVALS_S11E62_LN_CHAPTER_01_A_ROOM_WITH_A_BED_v0.1.md` |
+| 19 | S11E62 | The Evening Shift | `THE_ARRIVALS_S11E62_LN_CHAPTER_02_THE_EVENING_SHIFT_v0.1.md` |
+| 20 | S11E63 | The Balance | `THE_ARRIVALS_S11E63_LN_CHAPTER_01_THE_BALANCE_v0.1.md` |

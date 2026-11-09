@@ -39,11 +39,29 @@ Afuera sólo ven título, restricciones, modificador y tiempo. Ciel nota que los
 | V70 #15 | 44–52 | 2 h 56–3 h 28 | La lluvia: la gota que le rompe el brazo derecho mientras cae. |
 | V70 #16 | 52–70 | 3 h 28–4 h 40 | Rearmar el brazo, comer sufriendo, el primer recuerdo que se voltea. |
 
-## Lo que sigue (plan, ajustable)
+## Lo que sigue (plan detallado, ajustable)
 
-- Más sectores con la regla del margen, cada uno distinto (no repetir el mismo truco).
-- El Arquitecto le habla: le ofrece descanso, no dolor. La crueldad es la invitación a dejar de querer.
-- La pelea de órganos expuestos y su recuperación larga, mal sanada.
-- Posible segunda sombra almacenada (+1), sin uso dentro.
-- Afuera: avance real de la ruta por capas; Yuka, Ori, Frieren, la casa en turnos; noche B+215.
-- Entrada del rescate (Jin-Woo y quien tenga papel real), el Arquitecto los separa, Mau aprovecha, golpea, brazo roto y medio sanado, Rulers, salida. Corte en la casa.
+Mauri, al encargar el resto: «deja fluir si salen 50 caps salieron 50 caps no te limites», momentos donde Mau se anda sanando y llorando o llamando a alguien que sabe que no va a llegar, «vete a lo extremo quiero que esto sea a un punto donde mau al no pedirlo sufre y dolerá más cuando la casa le explique».
+
+Guía de reloj: entrada B+215 hacia media mañana. Día 100 ≈ 6 h 40 fuera (tarde), día 180 ≈ 12 h (noche), día 240 ≈ 16 h (madrugada B+216), día 360 ≈ 24 h (mañana B+216). No es meta: la salida cae donde caiga.
+
+| Tramo | Días | Qué pasa |
+|---|---|---|
+| V70 #17 | 70–108 | Sector oscuro: aprende por los ojos (lee CE) y por el oído; el campo trae constructs sin CE y luego apaga el sonido. Herida en el pie y costillas. Sanando, llama a Ciel, a Shoko, a Beru, a Yuka, sabiendo que no vendrán. |
+| V70 #18 | ~110 | El Arquitecto le habla por primera vez: no amenaza, le ofrece parar. «Something better can stand where you are standing.» Nunca nombra a su monarca. |
+| V70 #19 | fuera ~B+215 tarde-noche | La casa en turnos; Ori a dormir con Frieren; Yuka no come; el modificador sube; tercer pliegue no cede; Shoko y Yuka. |
+| V70 #20 | 110–150 | Sector de la manada: enemigos que aprenden sus patrones exitosos. Saldo de la tienda bajando: empieza a racionar. Al final oye algo enorme abajo. Cierra V70. |
+| V71 #1–2 | ~150–155 | El dragón: pelea hasta los órganos fuera; los recoloca con un RCT que no alcanza. |
+| V71 #3 | 155–240 | Tres meses junto al cadáver, sanando mal. Arise almacenado del dragón (+1 = 6,617), inútil dentro. Llama a Yuka. Los ensayos empeoran. |
+| V71 #4 | fuera, noche B+215 | Yuka de noche; números enormes; la casa duerme por turnos. |
+| V71 #5 | 240–300 | Deja de contar: las marcas en la pared se detienen sin que él lo note. Empieza a minimizar. Llanura donde el campo castiga hasta el descanso. |
+| V71 #6 | ~300 | El Arquitecto le hace sentir el espacio que espera dentro de él, la puerta que está sosteniendo. Casi la suelta. |
+| V71 #7 | 300–330 | Fondo: deja de comer y de adaptarse; el campo se queda quieto porque él dejó de aprender. Noise: «Stay» (sólo vivir; no resuelve lo de Yuka). Se levanta por negarse, no por esperanza. |
+| V71 #8 | fuera, madrugada B+216 | El tercer pliegue cede; se decide quién entra; aparece la estación pálida de los Rulers, que observan y no ayudan. |
+| V71 #9 | 330–~370 | Último sector hasta el centro, medio muerto. |
+| V71 #10 | ~370 | Entran Jin-Woo y quienes tengan papel real; el Arquitecto los separa y retrasa; Mau ve la ayuda sin poder alcanzarla. |
+| V71 #11 | — | Mau aprovecha la distracción: golpiza tipo Invincible; se le rompe el brazo, lo sana a medias, sigue. |
+| V71 #12 | — | Los Rulers detienen todo, capturan vivo al Arquitecto y sacan a todos. |
+| V71 #13 | fuera | La casa los ve afuera. **Corte: Work retoma.** |
+
+Puede crecer: si una recuperación o un sector pide más capítulos, se le dan.

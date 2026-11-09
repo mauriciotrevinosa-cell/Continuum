@@ -120,3 +120,5 @@ Respuesta del creador, preservada íntegra:
 - No producir una nueva separación romántica ni una Yuka que lo ignore como método de recuperación. El conflicto y la cercanía pueden coexistir. No resolver todo con una sola disculpa o con el rescate.
 
 **Próximo paso:** conversar mecanismos pendientes y proponer orden/hitos al creador. Pregunta de la pausa ya respondida: no repetirla ni mantenerla como bloqueo. No capítulos nuevos, no conteos cerrados, no poderes concedidos por esta nota.
+
+**Orden propuesto tras la última precisión:** [tronco restante y cierre S11 para revisión](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md). Incorpora tiempo subjetivo/minimización, aumento de daño, Ori después dePurple y honestidad deMau alserpreguntado. Es propuesta, no capítulos autorizados.

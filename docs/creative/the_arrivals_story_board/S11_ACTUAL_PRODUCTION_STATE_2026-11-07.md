@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V68#4, B+196 tarde. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 en curso,4: **69 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V68#9, B+197 noche. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 en curso,9: **74 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -77,6 +77,12 @@
 | V68#3 | S11E34 CH02 | B+196 misma conversación | Ori comparte Purple, afirma querer Mau como papa; Frieren valida sin perder maternidad, Yuka conserva nombre/amiga/esposa y cariño sin exigir título. Himmel no recibe rol paterno. |
 | V68#4 | S11E35 CH01 | B+196 tarde | Ori busca a Mau por elección, habla de origen/otra vida, él no reclama repetición. Pide llamarlo Papa, él acepta, abrazo/llanto y continuidad con Yuka/Frieren. Cuartos/parejas no cambian. |
 
+| V68#5 | S11E35 CH02 | B+196 tarde/noche | Frieren recibe noticia de Ori, Fort conoce sólo lo que ella comparte, Yuka/Mau hablan de un hijo como deseo sin fecha/embarazo. Cuartos intactos, no archivo privado divulgado. |
+| V68#6 | S11E36 CH01 | B+197 amanecer/mañana | Nazuna acaba noche/Ko acompaña, sin alimentación nueva. Carta Hinata a Anko enviada días antes llega con packetTempest. Posible visita Hinata/Luminous no confirmada. Ram/Seika acuerdan té, Rem/Umaru compañía, Jinshi/Fern/Rimuru agendan conversación. |
+| V68#7 | S11E36 CH02 | B+197 mañana/tarde | Yuka refina Sky con cloth, guía Maki/Yuta/Gojo y Mau, no CT nueva. Momo Ayase demuestra manos, Mau usa ruta vieja dos intentos pequeños, strain sigue. Coco/Agott/Richeh con actividad propia al regreso. |
+| V68#8 | S11E37 CH01 | B+197 tarde/noche | Mesa Rimuru/Jinshi/Fern/Mau lee mensajes y formula preguntas de visita/camino/tiendas sin tratado ni100soldados ya entregados. Anko manda respuesta propia. Mau escucha Bocchi/Kita, pareja cumple tiempo propio. |
+| V68#9 | S11E37 CH02 | B+197 noche | Mau autoriza construcción incluyendo forbidden en secreto de todos. Analyze ya seguía; Noise construye prototipo aislado regulador de ruta manos, tres modelos/fallos, sin salida exterior. ArchivoSukuna añadido para leer después, todavía cerrado. Ciel/DIO/Yuka no informadas; ocultamiento perfecto no demostrado. |
+
 ## Estado acumulado y trampas
 
 - **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
@@ -102,7 +108,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Verde explícito de continuación recibido y guardado. Continuar V68#5/S11E35CH02 desde tarde B196, con consecuencias cotidianas de la elección de Ori y escenas de vínculos; siguiente día coral y nuevas noticias. No repetir conversación como si no hubiera ocurrido. El permiso forbidden/lectura Sukuna, visitas Makima y progresión aún NO se produjeron. Hacerlos en escenas según orden aprobado, conservar primeros avisos antes de revelaciones. Seguir tras checkpoint; alcance cubre final S11 y recuperación/escucha directa S12.
+Verde explícito de continuación recibido y guardado. Continuar V68#10/S11E38CH01, B198: vida/entrenamiento y pruebas del trabajo nuevo con coste y límites. Permiso forbidden YA dado #9; archivoSukuna todavía sin leer, visitas Makima todavía no. No repetir permiso como otro inicio; construir ensayos y decisiones concretos. Ori usa Papa desde #4 y Frieren lo sabe, sin alterar hogar ni maternalidad. Visitas Hinata/Luminous por coordinar, Anko respondió. Seguir tras checkpoint; alcance cubre final S11 y recuperación/escucha directa S12.
 
 ## Séptimo checkpoint: precauciones antes del ataque
 

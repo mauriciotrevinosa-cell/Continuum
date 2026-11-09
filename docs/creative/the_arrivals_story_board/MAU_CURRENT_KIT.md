@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V69#4, B+205 noche. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V69#9, B+208 mediodía. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -97,6 +97,12 @@ Legión total sigue6.615. **100 soldados ordinarios ya desplegados** para rutasT
 ## Doble físico incompleto — V69#1–2
 
 Noise construye desde observacionesretenidas Souei (incluido S8E37CH01/V46#3), no nueva demoautorizada. Prototipo sostieneforma/paso/vista local breve. Alejarlo estira un boundary interno deMau; cierraantesderotura/lesión. Modelo acotado de shellconobservación dura lo suficiente para ver caerhoja, sin distanciaútil. No segundoindividuo, huésped, legión extra o fullkitcopiado. Souei rehúsa demostración más cercana y conoce prototipo por admisión directa; no aporta mecanismo ni permiso por negarse. Mau continúa estudiando lo retenido, sin prometer suspensióngeneral. Step corporal todavía noejecutado.
+
+## Emisión de fuerza derivada — V69#6–7
+
+Makima demuestra fuerza dirigida en combate. Noise observa muestra pero conserva mecanismosincertos; Control/hierarquía son otra operación. Construye análogo limitado alimentado con **maná propio de Mau**, no CTejecución de Control. Modelosaislados dosfallos, campo unaemisión al sueloyotra agrieta board muycercano con caudalpequeño. Presióntransitoria en dedo, sin lesión. Prototipoconstruido/externoprobado pequeño, no habitualestable, mortePorNombre, targetinginterno, range/potenciaMakima ni dosCT simultáneas. No se aprendeControlporverse Bang. Registro de muestras/maná/coste separado. Physpermanente no sube por dispararboard, Authority ya podía romperlo antes.
+
+**Sin nuevas extracciones:** StampedeDevil muerto nolevantado; fear-devil deM es individuo distinto contenido porMakima, ni captura ni clonFullbag. Legión6.615,100Tempestrutas/40watch/1anclaHinata deunidadesexistentes.
 
 ## Registro de cambios
 

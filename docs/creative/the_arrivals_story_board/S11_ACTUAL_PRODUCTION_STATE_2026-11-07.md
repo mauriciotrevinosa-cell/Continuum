@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V69#4, B+205 noche. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 completo,20; V69 en curso,4: **89 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V69#9, B+208 mediodía. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 completo,20; V69 en curso,9: **94 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -102,6 +102,12 @@
 | V69#3 | S11E44 CH02 | B+205 tarde | Luminous toma té físico con brujas que aceptan. Voces/temas propios, no inspección de guestspace. Retorno cada dossemanas propuesta a coordinar, no sesiónperpetua concedida. |
 | V69#4 | S11E45 CH01 | B+205 noche | DIO/Ciel confiesan sentimientos aNoise en guestarea existente. Habían acordado estar dispuestas a compartir, no deciden por él. Friends?/Wife?/TwoWives, Mau atiende llamadaayuda y se ríe. Noise pide tiempo, ellas aceptan; amistad intacta, sin matrimonio/sexo/romance automático ni perdón de secretos aún ignorados. |
 
+| V69#5 | S11E45 CH02 | B+206 tarde | Segunda visita privadaM/Makima, nuevos términos. Reze humana/híbrida no puredevil, vozpropia; Mau exige intervalo sinórdenes y ella prueba salir/volver por decisión. No llegada a casa ni transferencia de dueño, temor/culpaM no obliganReze. |
+| V69#6 | S11E46 CH01 | B+206 tarde continuo | Encuentroelegido con StampedeDevil original: Authority/Neutral/Dismantle secuencial, Rezeelige blastacotado, Makimademuestraemisiónfuerza. Devilmuere sinArise. Reze elige no volveraControl; Makima acepta compromiso continuo sin restaurarlo/proxy/retornoforzado, defensaanteataquereal sigue. Reze libre deir, no nuevaresidente. ObservaciónNoise no adquisición automáticaBang. |
+| V69#7 | S11E46 CH02 | B+207 mañana/día | Noise construye análogo acotado de emisión desde muestraMakima con manáMau, separadoControl. Dosmodelosaislados fallan, primeraexterna al suelo, siguiente agrieta board cercano con presión transitoriaen dedo. No muerteporNombre, controlpersonas, alcance/potenciaMakima o aimperfecto. MY cumplen rato propio. |
+| V69#8 | S11E47 CH01 | B+208 mañana | Tercera visita: Makima muestra deviloriginal nacido de miedo/rumoresMau. Parecidoíconos no cuerpo/soul/memorias/fullbag clonados. FracasoControl relatoMakima/subjetivo, no rankobjetivo. Mau pide observaciones/contención, no mata sólo por parecerse. No nueva extracción. |
+| V69#9 | S11E47 CH02 | B+208 mañana/mediodía | Makima explicacambio desde thankyou; quiere cercanía/considera controlar o sercontrolada. Mau rechaza equivaler obediencia yelección, ofrece investigar sin prometer cura ni lugarYuka. No romance/Makimaredimida. Ella retiene interés instrumental. No fuenteAshbornvoluntario reveladaaún. |
+
 ## Estado acumulado y trampas
 
 - **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
@@ -127,7 +133,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V69#5/S11E45CH02, B206: segunda visitaMakima por producir, con observaciones/combate/Reze en escenas completas. PrimeraB200 autoría confesada sóloM/Noise. DIO/Ciel ya confesaron aNoise, él pide tiempo; no repetirconfesión como pendiente. CopyprototipoynegativaSouei ya producidos, defectoanálogoStep interior, sin controlremotoestable. TéLuminous cumplido, próximasfechas porcoordinar. Entrenamiento dondecrecimiento visible porproducir; preservar privacidadnopoderocultamientoperfecto. Continuar hasta FinalTrial y reparación S12 segúnverde, sin ajustarhistoria a cuotasvol/caps.
+Continuar V69#10/S11E48CH01, B208 después del regreso o día siguiente. Tres visitasMakima reales B200/206/208; autoríaconocidaM/Noise, construcciónsecreta sigue. Reze libre deControlporcompromisocontinuo, no viveencasa, mensaje posible debería llegarporwatchreal, no mensajeroinventado. Souei conocecopia ypuedepreocuparse conRimuru; buenpivoteentrenamiento conJinWoo/Gojo/Yuta, refinamientoSukuna visible y diálogo sinmentir a pregunta directa. NoisepidiómostrarCiel en#7, Mauposponeparacuandoestélisto. Emisióndemanáprobada sólopequeña, no secretaBangfulldominada. DIO/Cielconfesiónyaocurrió, no romanceoficialporseridea. MakimadebeobtenerfuenteconcretaAshbornantesdeinformarArquitecto; nofabricarretroque looyótodoya. Seguir FinalTrial/S12 segúnverde sincuota.
 
 **Recordatorio nuevo del creador:** [papel Ori original](S11_ORIGINAL_ORI_FOLDED_MESSAGE_RECOVERY_PAYOFF_2026-11-09.md). Conservar cerrado, actualOri pidió más tarde enV64#4; retomar por iniciativa de ella durante escucha/recuperación, no objeto nuevo ni lectura previa de padres. Ubicarlo seguro en casa antes de revisión final; no perderlo con ropa dentro del dungeon.
 

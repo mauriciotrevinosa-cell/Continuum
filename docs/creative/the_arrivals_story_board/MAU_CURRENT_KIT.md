@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V69#16, B+209 tarde/noche. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V69#20, B+211 tarde. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -113,6 +113,10 @@ Cielreciberegistrodefallodeldouble porpreguntaen#10 ysolicitaestarantesdelpróxi
 ## Trabajo abierto y alcance — V69#14–16
 
 La casa ya conoce el permiso oculto de construir todo y los proyectos efectivamente probados. No inventar que sigue ignorándolo tras esta conversación. Mau acepta revisión antes de tests que puedan tensar boundaries corporales y alcance original para expresiones derivadas de huéspedes. Analyze continúa, archivo Sukuna sigue abierto por decisión propia; no incautación ni bloqueo global de toda mejora. DIO/Ashborn no activados nuevos fuera de escena. Ashborn conserva privacidad y pide consultar nombre/likeness antes de emisión. Señal derivada no equivale a que la fuente original conteste quién es; posibilidad de consulta voluntaria futura, no nuevo ataque o llave disponible.
+
+## Step corporal, primer ensayo exitoso — V69#20
+
+Antes de activarlo, revisión conCiel/Noise y muestras con fallos. Corrigen referencia de boundaries internos para que acompañen cuerpo completo; no contenido vivo de huéspedes como combustible. DIO/Ashborn físicamente protegidos fuera, guestarea interior sin ellos. Primera transferencia a mark preparado visible <unpaso, otras dos con pausas. Un farther point no preparado rechazado ANTES de release. No shadowanchor ni Exchange. Usa maná, caudal/atención/percepción y closure completos, Ciel puede rechazar en fase previa. Es **prototipo corporal probado bajo supervisión a distancia mínima**, no combate/recarga nula/rango infinito o traspaso ward. Secuelas de dedos/blur/grey intactas. Modelo necesita pruebas si se mueve mientras otraoperación le disputa atención. DobleCT todavía no.
 
 ## Registro de cambios
 

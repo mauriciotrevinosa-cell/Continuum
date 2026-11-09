@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 69
 **Season:** 11
-**Coverage:** S11E43–S11E51 (in progress)
+**Coverage:** S11E43–S11E53
 **Volume title:** **The Things He Can Reach**
-**Chapter files:** 16
+**Chapter files:** 20
 
 Mau finds more ways to be in another place. At home, being close to someone turns out to need an answer no construction can supply.
 
@@ -31,3 +31,7 @@ Mau finds more ways to be in another place. At home, being close to someone turn
 | 14 | S11E50 | The List Out Loud | `THE_ARRIVALS_S11E50_LN_CHAPTER_01_THE_LIST_OUT_LOUD_v0.1.md` |
 | 15 | S11E50 | The Answer She Needed | `THE_ARRIVALS_S11E50_LN_CHAPTER_02_THE_ANSWER_SHE_NEEDED_v0.1.md` |
 | 16 | S11E51 | The Quiet He Asked For | `THE_ARRIVALS_S11E51_LN_CHAPTER_01_THE_QUIET_HE_ASKED_FOR_v0.1.md` |
+| 17 | S11E51 | She Asked Herself | `THE_ARRIVALS_S11E51_LN_CHAPTER_02_SHE_ASKED_HERSELF_v0.1.md` |
+| 18 | S11E52 | The Small Door | `THE_ARRIVALS_S11E52_LN_CHAPTER_01_THE_SMALL_DOOR_v0.1.md` |
+| 19 | S11E52 | The Error in His Plan | `THE_ARRIVALS_S11E52_LN_CHAPTER_02_THE_ERROR_IN_HIS_PLAN_v0.1.md` |
+| 20 | S11E53 | All of Him | `THE_ARRIVALS_S11E53_LN_CHAPTER_01_ALL_OF_HIM_v0.1.md` |

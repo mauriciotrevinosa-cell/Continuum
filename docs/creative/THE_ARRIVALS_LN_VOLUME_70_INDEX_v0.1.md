@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 70
 **Season:** 11
-**Coverage:** S11E53–S11E59 (in progress)
+**Coverage:** S11E53–S11E61 (in progress)
 **Volume title:** **Until He Can Come Home**
-**Chapter files:** 12
+**Chapter files:** 16
 
 The house makes plans it expects to finish. Mau learns to show the work before the result, while another room is being prepared without his consent.
 
@@ -27,3 +27,7 @@ The house makes plans it expects to finish. Mau learns to show the work before t
 | 10 | S11E58 | Where His Feet Should Be | `THE_ARRIVALS_S11E58_LN_CHAPTER_01_WHERE_HIS_FEET_SHOULD_BE_v0.1.md` |
 | 11 | S11E58 | The Days on the Floor | `THE_ARRIVALS_S11E58_LN_CHAPTER_02_THE_DAYS_ON_THE_FLOOR_v0.1.md` |
 | 12 | S11E59 | A Name Is Not a Key | `THE_ARRIVALS_S11E59_LN_CHAPTER_01_A_NAME_IS_NOT_A_KEY_v0.1.md` |
+| 13 | S11E59 | The Distance He Learned | `THE_ARRIVALS_S11E59_LN_CHAPTER_02_THE_DISTANCE_HE_LEARNED_v0.1.md` |
+| 14 | S11E60 | The Sentence She Said | `THE_ARRIVALS_S11E60_LN_CHAPTER_01_THE_SENTENCE_SHE_SAID_v0.1.md` |
+| 15 | S11E60 | One Drop | `THE_ARRIVALS_S11E60_LN_CHAPTER_02_ONE_DROP_v0.1.md` |
+| 16 | S11E61 | Something to Eat | `THE_ARRIVALS_S11E61_LN_CHAPTER_01_SOMETHING_TO_EAT_v0.1.md` |

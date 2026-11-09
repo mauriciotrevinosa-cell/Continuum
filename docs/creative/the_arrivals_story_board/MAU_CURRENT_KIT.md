@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V70#12, B+215 fuera / días locales hasta30. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V70#16, B+215 ~4h40 fuera / día70 local. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -141,6 +141,12 @@ Días4–17 autoreparaciónCEfinita/caudalrestringido, sinCiel/Deer/Beru. Limpie
 **AriseV70#11:** unfighteramplification retenido trasmejorarmortal, almacenado sinformani nombre; Mau**6.616 vínculos**. Noejércitonewde3enemigosautomático ni unidadayudaenroom. Afueracasa no recibecuenta/combateporcapture, registrocontenidoenM. Otherdeployments100Tempest/40house/1anchorHinata existentesigual. Dagasrealesconél, Katana/Rika guardadainaccesible.
 
 **RescateV70#12:** fuenteAshborn auténtica contesta conconsentimiento, frameacknowledges peronopuerta. No nuevo poderMau, identidad noauthorityallgates. Afueraruta mantenimiento parcial apenas. Cielnoestáadentro/nivevitals.
+
+## Heridas y estado — V70#13–16 (Claude)
+
+Nuevas: corte profundo muslo izquierdo con borde de cadera dañado (día31), sana mal y cruje al pisar; hombro derecho desgarrado y articulación movida (día39); cuero cabelludo abierto por gota (día45); **antebrazo derecho destrozado por una gota durante caída (día50)**, entablillado con postes de camping de la tienda y unido por RCT acotado: queda más corto, con curva bajo el codo, agarre débil pero funcional desde día70. Siguen: espalda mal soldada, costillas, muñeca izquierda mal alineada, dedos viejos, blur, gris salvo Yuka.
+
+Campo: cada adaptación provoca un cambio (flujo más lento día31, ×2.5 día39, ×3 ~día47, cornisa que se abre día50). Neutral sostenido cuesta por cada contacto; Authority, vuelo y neutral responden con retraso creciente. Sin técnica nueva, sin unidad nueva (6.616), dagas físicas conservadas, tienda sólo comida/agua/tela/camping.
 
 ## Registro de cambios
 

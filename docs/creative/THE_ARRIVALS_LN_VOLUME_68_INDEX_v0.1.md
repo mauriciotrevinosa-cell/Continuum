@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 68
 **Season:** 11
-**Coverage:** S11E33–S11E41 (in progress)
+**Coverage:** S11E33–S11E43
 **Volume title:** **The Names They Choose**
-**Chapter files:** 17
+**Chapter files:** 20
 
 The house wakes after a shared night. Ori asks about where she came from, then chooses what she wants to call the people beside her.
 
@@ -32,3 +32,6 @@ The house wakes after a shared night. Ori asks about where she came from, then c
 | 15 | S11E40 | The Place Beside Her | `THE_ARRIVALS_S11E40_LN_CHAPTER_02_THE_PLACE_BESIDE_HER_v0.1.md` |
 | 16 | S11E41 | Too Many Cooks | `THE_ARRIVALS_S11E41_LN_CHAPTER_01_TOO_MANY_COOKS_v0.1.md` |
 | 17 | S11E41 | The Length of a Step | `THE_ARRIVALS_S11E41_LN_CHAPTER_02_THE_LENGTH_OF_A_STEP_v0.1.md` |
+| 18 | S11E42 | A Visit with Two Reasons | `THE_ARRIVALS_S11E42_LN_CHAPTER_01_A_VISIT_WITH_TWO_REASONS_v0.1.md` |
+| 19 | S11E42 | The People on the Road | `THE_ARRIVALS_S11E42_LN_CHAPTER_02_THE_PEOPLE_ON_THE_ROAD_v0.1.md` |
+| 20 | S11E43 | A Hundred Places to Look | `THE_ARRIVALS_S11E43_LN_CHAPTER_01_A_HUNDRED_PLACES_TO_LOOK_v0.1.md` |

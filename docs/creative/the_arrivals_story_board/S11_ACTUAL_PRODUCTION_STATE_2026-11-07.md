@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V68#17, B+202 mañana. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 en curso,17: **82 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V68#20, B+204 día. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 completo,20: **85 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -93,6 +93,10 @@
 | V68#16 | S11E41 CH01 | B+201 tarde/noche | Cena/clase Marin/Wakana efectivamente ocurre: panes rellenos, fallos propios, tareas/afecto MY, RemU, RamSeika, GojoShoko, JinWooHaeIn/familia, OriChloe equipo no romántico y FH por elección. No poderes de cocina/empleados nuevos, sin declarar asistentes exhaustivos. |
 | V68#17 | S11E41 CH02 | B+202 mañana | Manos: varios holds pequeños con regulador sin dolor creciente, dosobjetos requieren corrección y baja antes de exceso. Modelo espacial heredado Diablo/puerta logra tres traslados de cloth a distancia corta preparada; más lejos falla. Step corporal aborta antes de traslado por boundary interior atrasado; sin lesión, Step propio dominado ni dobleCT. |
 
+| V68#18 | S11E42 CH01 | B+203 mañana | Llegada anunciada por carretera de Luminous/Hinata, Souei se suma desde Tempest. Revisión exterior/permiso a ward, habitaciones miniInn reales. Anko/Hinata tienen reencuentro privado antes de reunión. Ori usa Dad según nueva preferencia del creador; Papa ya escrito se conserva. |
+| V68#19 | S11E42 CH02 | B+203 mediodía/tarde | Casa/visitas/Hollis/Fern/Jinshi estudian riesgos concretos con Fort observando. Ofrecen100unidades existentes a rutasTempest, prueba y despliegue después. Luminous pide estudiar ruta propia, sin otro100 automático. Hinata consiente anclaordinaria de alerta/Exchange, prueba llamada y retirada/renovación; cuenta separada. |
+| V68#20 | S11E43 CH01 | B+204 mañana/día | Fort prueba señales y corrigeconfusiones. Despliegue físico100ordinarios existentes bajo tareas delegadasSouei;40Muster siguen. InspecciónM/R/Y/Hollis con primergrupo marca terreno inseguro sin arregloinstantáneo. Luminous pide que preguntena brujas sobre té, aún no sesión. MY cumplen rato propio. CierreV68, no S11. |
+
 ## Estado acumulado y trampas
 
 - **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
@@ -118,7 +122,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V68#18/S11E42CH01, B202 después del ensayo: vínculos exteriores/delegación Hinata-Luminous por concretar en escenas, crecimiento privado e hilo Makima entre vida de casa. Primera visita ya sucedió; autoría confesada sóloM/Noise, familia sospecha pero ignora respuesta/visita. Pacto acabó al retorno; no paz global perpetua. Ciel alcanzable, cambios fisiológicos no invisibles. Cena cocina ya cumplida, no volver a proponerla como pendiente.
+Continuar V69#1/S11E43CH02, B204 después de tiempo con Yuka o B205 si escena lo requiere. Primera visita privadaMakima ya cumplida B200, segunda por producir. Ciel/Noise/DIO relaciones y secretos crecen entre entrenamiento/vida de casa. Construir defecto del doble antes de pedirle demostración aSouei; no hacer que permiso negado conceda poder. Step corporal falló y se abortó sin traslado; manos mejoraron pequeño. Luminous/Hinata/Souei ya huéspedes temporales miniInn, no mudados permanentes.100soldados desplegados,1anclaHinata,40house sin pérdidas/nuevosvínculos. Luminous quiere té con brujas, todavía falta consultar. CenaMarin cumplida. Reanudar en índice69 nuevo sin resetear sourceepisode.
 
 **Recordatorio nuevo del creador:** [papel Ori original](S11_ORIGINAL_ORI_FOLDED_MESSAGE_RECOVERY_PAYOFF_2026-11-09.md). Conservar cerrado, actualOri pidió más tarde enV64#4; retomar por iniciativa de ella durante escucha/recuperación, no objeto nuevo ni lectura previa de padres. Ubicarlo seguro en casa antes de revisión final; no perderlo con ropa dentro del dungeon.
 

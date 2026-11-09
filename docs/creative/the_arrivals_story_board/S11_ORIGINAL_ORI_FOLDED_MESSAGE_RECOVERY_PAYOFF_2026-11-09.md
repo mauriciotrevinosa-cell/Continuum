@@ -16,4 +16,8 @@ Antes de la recuperación, localizar el objeto seguro en sus pertenencias de cas
 
 Permitirle a Ori elegir abrir, leer sola o pedir compañía. No hacer que Mau/Frieren/Yuka lo lean primero para preparar una lección. Puede decidir compartir partes, no requiere compartir todo. El contenido debe sostener la voz de la niña de esa despedida: conoció amor real, quiso mostrar ventanas y pedir que cuenten también cosas bonitas; no profecía del dungeon ni psicóloga adulta anticipando futuras faltas.
 
-**Estado de producción al guardar:** recordatorio fijado; payoff no escrito. V68#14–15 en borrador local, encuentro Makima/retorno; publicación anterior hasta V68#13.
+**Estado de producción al guardar:** recordatorio fijado; payoff no escrito. V68#20/B204 producido. Papel sigue cerrado; payoff no escrito, no inventar que fue entregado entre capítulos.
+
+## Nombre paternal — precisión posterior
+
+El creador pide **Dad en diálogos nuevos**, porque Papa le suena francés. Enseguida precisa: **«pero deja lo que ya pusiste papa»**. Conservar Papa ya escrito; no retconear V68#1–17 ni capítulos antiguos. La elección de nombre cambia en la escritura posterior sin borrar el vínculo ni repetir como si fuera la primera vez que lo reconoce como padre.

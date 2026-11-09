@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V67#17, B+195 noche, después de siete días internos Purple. V65 completo,30 capítulos; V66 completo,18 capítulos; V67 completo,17 capítulos: **65 capítulos de la primera parte; S11 continúa**. [Dirección completa aprobada](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Semilla anterior](S11_SEED_JINWOO_PROPOSAL_AND_FALSE_DEITY_CREATOR_IDEA_2026-11-04.md) · [Nueva discusión Makima](S11_MAKIMA_POSSESSION_AND_POSSIBLE_CHANGE_DISCUSSION_2026-11-07.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V68#4, B+196 tarde. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 en curso,4: **69 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -72,6 +72,11 @@
 | V67#16 | S11E32 CH02 | B+195 antescena | Ori llega conFrieren a homeMY dondeRimuru/Shizue escuchanaventura. Pideotra noche, MnotaorejasFrieren sinculparOri; proponepijamada6. Commonroom y participantes voluntarios: U/Rem, Chloe, Ram/Seika, Mai/Momo, Fern. Pasillos/cena respetados, no mudanza definitiva. |
 | V67#17 | S11E33 CH01 | B+195 noche | Yuka propone patrónslimeyausado; M aislado/sinbuildsparalelas, dos slimes rotan por residentes conpermiso. ShizueinvitaRimside, élacepta no romanceoficial. Mrecobraformahumana para dormirYuka/Ori conFrieren; librofinal, cariño y sueño. Cierreprimera parte, sinnuevoataque/finalseason. |
 
+| V68#1 | S11E33 CH02 | B+196 mañana | Despertar/pijamada se recoge, desayuno con Jin-Woo/familia y casa. Ori escoge preguntar origen con Frieren/Yuka; Mau conoce ubicación y respeta compañía elegida. |
+| V68#2 | S11E34 CH01 | B+196 media mañana | DIO recibe a las tres en alojamiento protegido, cuenta su motivo original y distingue intervención de decisiones propias de Ori. No memoria descargada ni obligación de amar como Ori de otra línea. |
+| V68#3 | S11E34 CH02 | B+196 misma conversación | Ori comparte Purple, afirma querer Mau como papa; Frieren valida sin perder maternidad, Yuka conserva nombre/amiga/esposa y cariño sin exigir título. Himmel no recibe rol paterno. |
+| V68#4 | S11E35 CH01 | B+196 tarde | Ori busca a Mau por elección, habla de origen/otra vida, él no reclama repetición. Pide llamarlo Papa, él acepta, abrazo/llanto y continuidad con Yuka/Frieren. Cuartos/parejas no cambian. |
+
 ## Estado acumulado y trampas
 
 - **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
@@ -97,7 +102,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Primera parte autorizada cumplida hasta pijamada V67#17. No escribir aún sucesos nuevos de Makima basándose sólo en la conversación: [semilla de posesión/cambio](S11_MAKIMA_POSSESSION_AND_POSSIBLE_CHANGE_DISCUSSION_2026-11-07.md) distingue propuesta futura de conocimiento actual. Próxima producción V68/S11E33CH02 o la distribución que decida el siguiente arco, sin duplicar la noche final ni resetear episodios por cambio de volumen. Pendientes reales: entrenamiento y runasJinWoo, backlog/escoba/learner, futura conversación de contratoOri siellaquiere, investigación pactoA/autoría, elecciones propias familiares nuevos. No imponer otro ataque o concluir S11 por cerrar volumen.
+Verde explícito de continuación recibido y guardado. Continuar V68#5/S11E35CH02 desde tarde B196, con consecuencias cotidianas de la elección de Ori y escenas de vínculos; siguiente día coral y nuevas noticias. No repetir conversación como si no hubiera ocurrido. El permiso forbidden/lectura Sukuna, visitas Makima y progresión aún NO se produjeron. Hacerlos en escenas según orden aprobado, conservar primeros avisos antes de revelaciones. Seguir tras checkpoint; alcance cubre final S11 y recuperación/escucha directa S12.
 
 ## Séptimo checkpoint: precauciones antes del ataque
 

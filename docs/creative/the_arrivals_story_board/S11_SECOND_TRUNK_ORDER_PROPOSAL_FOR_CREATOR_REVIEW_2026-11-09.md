@@ -1,6 +1,6 @@
 # S11 — Orden propuesto del siguiente tronco y cierre de temporada
 
-**Estado:** propuesta de estructura para opinión de Mauri, 2026-11-09. El creador pidió dar pies y cabeza al orden y revisar faltantes **antes de arrancar**. **No constituye verde de prosa.** Salida real intacta V67#17/B+195 noche,65 capítulos S11 publicados en el tramo actual.
+**Estado original:** propuesta de estructura para opinión de Mauri, 2026-11-09. **Actualización posterior:** [verde explícito y decisiones de ejecución](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md). Mauri aprobó arrancar, delegó mecanismos, fijó revisión rutinaria convertida en Final Trial y pidió continuar reparación hacia S12. Los avisos inferiores de esperar verde son históricos. Salida previa V67#17/B+195 noche,65 capítulos del primer tramo.
 
 Este documento reúne y ordena las ideas, no reemplaza sus detalles: [propuestas Work](S11_WORK_PROPOSED_ARCS_FOR_SECOND_TRUNK_2026-11-09.md), [respuesta del creador](S11_CREATOR_RESPONSE_TO_WORK_ARCS_AND_RELATIONSHIP_SEEDS_2026-11-09.md), [Ori/ultimate dungeon/Makima/familia](S11_CREATOR_ORI_ORIGIN_ULTIMATE_DUNGEON_MAKIMA_AND_FAMILY_IDEAS_2026-11-09.md), [forbidden](S11_NEXT_TRUNK_FORBIDDEN_WORK_AND_SOLO_MAKIMA_IDEAS_2026-11-08.md) y [día de casa](S11_DAY_IN_THE_HOUSE_AND_RELATIONSHIP_RHYTHM_IDEAS_2026-11-09.md).
 

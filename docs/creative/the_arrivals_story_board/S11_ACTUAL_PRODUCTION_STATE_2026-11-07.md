@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V68#9, B+197 noche. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 en curso,9: **74 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V68#13, B+199 día. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 en curso,13: **78 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -83,6 +83,11 @@
 | V68#8 | S11E37 CH01 | B+197 tarde/noche | Mesa Rimuru/Jinshi/Fern/Mau lee mensajes y formula preguntas de visita/camino/tiendas sin tratado ni100soldados ya entregados. Anko manda respuesta propia. Mau escucha Bocchi/Kita, pareja cumple tiempo propio. |
 | V68#9 | S11E37 CH02 | B+197 noche | Mau autoriza construcción incluyendo forbidden en secreto de todos. Analyze ya seguía; Noise construye prototipo aislado regulador de ruta manos, tres modelos/fallos, sin salida exterior. ArchivoSukuna añadido para leer después, todavía cerrado. Ciel/DIO/Yuka no informadas; ocultamiento perfecto no demostrado. |
 
+| V68#10 | S11E38 CH01 | B+198 mañana | Ensayos exteriores del regulador de manos: aborta overshoot, sostiene cup y giro parcial dos veces con menor strain; no habitual dominado. Práctica propia de Yuka continúa. |
+| V68#11 | S11E38 CH02 | B+198 tarde | Mau abre archivo adquirido completo de Sukuna a sí mismo/Noise; estudia decisiones de duelo y pelea antigua sin nombre, luego practica con errores. Sin CT de todos los rivales ni maestría instantánea. |
+| V68#12 | S11E39 CH01 | B+198 noche | Rem/Umaru eligen rato propio, Rem habla de ser querida sin utilidad y se besan sin decretar primera vez. Ram/Seika conservan noche propia. Marin propone cena/clase futura, aún no ocurre. |
+| V68#13 | S11E39 CH02 | B+199 día | Nota nueva de Makima llega al punto exterior; Mau la retiene sin compartir. Responde para B200 tarde con soldado existente, sin nuevo pacto. Clase breve Jin-Woo corrige movimiento; familia propia lo llama. MY siguen afectuosos. |
+
 ## Estado acumulado y trampas
 
 - **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
@@ -108,7 +113,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Verde explícito de continuación recibido y guardado. Continuar V68#10/S11E38CH01, B198: vida/entrenamiento y pruebas del trabajo nuevo con coste y límites. Permiso forbidden YA dado #9; archivoSukuna todavía sin leer, visitas Makima todavía no. No repetir permiso como otro inicio; construir ensayos y decisiones concretos. Ori usa Papa desde #4 y Frieren lo sabe, sin alterar hogar ni maternalidad. Visitas Hinata/Luminous por coordinar, Anko respondió. Seguir tras checkpoint; alcance cubre final S11 y recuperación/escucha directa S12.
+Continuar V68#14/S11E40CH01, B200 tarde: primer encuentro privado Makima preparado por nota/respuesta #13. Archivo Sukuna ya abierto y regulador probado breve, no repetir aperturas ni permiso forbidden. Construcciones/visitas ocultas a casa todavía. No Ciel apagada ni secreto perfecto. Marin propuso actividad futura y Hinata/Luminous siguen coordinando visita. Ori Papa elegido sin cambiar maternalidad/cuarto. Seguir hasta final S11 y escucha S12 conforme verde.
 
 ## Séptimo checkpoint: precauciones antes del ataque
 

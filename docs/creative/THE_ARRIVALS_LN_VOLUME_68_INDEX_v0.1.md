@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 68
 **Season:** 11
-**Coverage:** S11E33–S11E37 (in progress)
+**Coverage:** S11E33–S11E39 (in progress)
 **Volume title:** **The Names They Choose**
-**Chapter files:** 9
+**Chapter files:** 13
 
 The house wakes after a shared night. Ori asks about where she came from, then chooses what she wants to call the people beside her.
 
@@ -24,3 +24,7 @@ The house wakes after a shared night. Ori asks about where she came from, then c
 | 7 | S11E36 | The Hand That Wasn't a Hand | `THE_ARRIVALS_S11E36_LN_CHAPTER_02_THE_HAND_THAT_WASNT_A_HAND_v0.1.md` |
 | 8 | S11E37 | News at the Table | `THE_ARRIVALS_S11E37_LN_CHAPTER_01_NEWS_AT_THE_TABLE_v0.1.md` |
 | 9 | S11E37 | What Forbidden Meant | `THE_ARRIVALS_S11E37_LN_CHAPTER_02_WHAT_FORBIDDEN_MEANT_v0.1.md` |
+| 10 | S11E38 | The Smaller Answer | `THE_ARRIVALS_S11E38_LN_CHAPTER_01_THE_SMALLER_ANSWER_v0.1.md` |
+| 11 | S11E38 | The Archive He Chose to Open | `THE_ARRIVALS_S11E38_LN_CHAPTER_02_THE_ARCHIVE_HE_CHOSE_TO_OPEN_v0.1.md` |
+| 12 | S11E39 | The Reason She Stayed | `THE_ARRIVALS_S11E39_LN_CHAPTER_01_THE_REASON_SHE_STAYED_v0.1.md` |
+| 13 | S11E39 | The Letter He Kept | `THE_ARRIVALS_S11E39_LN_CHAPTER_02_THE_LETTER_HE_KEPT_v0.1.md` |

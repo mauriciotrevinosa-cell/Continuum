@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 71
 **Season:** 11
-**Coverage:** S11E63–S11E65 (in progress)
+**Coverage:** S11E63–S11E67 (in progress)
 **Volume title:** **What He Didn't Ask For**
-**Chapter files:** 4
+**Chapter files:** 8
 
 Inside, a season becomes a year and the field keeps taking whatever Mau learns. Outside, the house works through one night to reach him.
 
@@ -19,3 +19,7 @@ Inside, a season becomes a year and the field keeps taking whatever Mau learns. 
 | 2 | S11E64 | Where Everything Goes | `THE_ARRIVALS_S11E64_LN_CHAPTER_01_WHERE_EVERYTHING_GOES_v0.1.md` |
 | 3 | S11E64 | The Months by the Dragon | `THE_ARRIVALS_S11E64_LN_CHAPTER_02_THE_MONTHS_BY_THE_DRAGON_v0.1.md` |
 | 4 | S11E65 | After Midnight | `THE_ARRIVALS_S11E65_LN_CHAPTER_01_AFTER_MIDNIGHT_v0.1.md` |
+| 5 | S11E65 | A Few Months | `THE_ARRIVALS_S11E65_LN_CHAPTER_02_A_FEW_MONTHS_v0.1.md` |
+| 6 | S11E66 | The Door He Holds | `THE_ARRIVALS_S11E66_LN_CHAPTER_01_THE_DOOR_HE_HOLDS_v0.1.md` |
+| 7 | S11E66 | When It Stopped Changing | `THE_ARRIVALS_S11E66_LN_CHAPTER_02_WHEN_IT_STOPPED_CHANGING_v0.1.md` |
+| 8 | S11E67 | The Third Fold | `THE_ARRIVALS_S11E67_LN_CHAPTER_01_THE_THIRD_FOLD_v0.1.md` |

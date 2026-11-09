@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 69
 **Season:** 11
-**Coverage:** S11E43–S11E47 (in progress)
+**Coverage:** S11E43–S11E49 (in progress)
 **Volume title:** **The Things He Can Reach**
-**Chapter files:** 9
+**Chapter files:** 13
 
 Mau finds more ways to be in another place. At home, being close to someone turns out to need an answer no construction can supply.
 
@@ -24,3 +24,7 @@ Mau finds more ways to be in another place. At home, being close to someone turn
 | 7 | S11E46 | A Smaller Impact | `THE_ARRIVALS_S11E46_LN_CHAPTER_02_A_SMALLER_IMPACT_v0.1.md` |
 | 8 | S11E47 | What They Think He Is | `THE_ARRIVALS_S11E47_LN_CHAPTER_01_WHAT_THEY_THINK_HE_IS_v0.1.md` |
 | 9 | S11E47 | Without a Command | `THE_ARRIVALS_S11E47_LN_CHAPTER_02_WITHOUT_A_COMMAND_v0.1.md` |
+| 10 | S11E48 | Someone Who Can Answer Back | `THE_ARRIVALS_S11E48_LN_CHAPTER_01_SOMEONE_WHO_CAN_ANSWER_BACK_v0.1.md` |
+| 11 | S11E48 | The Opening He Remembered | `THE_ARRIVALS_S11E48_LN_CHAPTER_02_THE_OPENING_HE_REMEMBERED_v0.1.md` |
+| 12 | S11E49 | The Ground Between Them | `THE_ARRIVALS_S11E49_LN_CHAPTER_01_THE_GROUND_BETWEEN_THEM_v0.1.md` |
+| 13 | S11E49 | Something of His Own | `THE_ARRIVALS_S11E49_LN_CHAPTER_02_SOMETHING_OF_HIS_OWN_v0.1.md` |

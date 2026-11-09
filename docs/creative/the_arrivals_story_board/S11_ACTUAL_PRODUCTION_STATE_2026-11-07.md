@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V69#9, B+208 mediodía. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 completo,20; V69 en curso,9: **94 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V69#13, B+209 media mañana. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 completo,20; V69 en curso,13: **98 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -108,6 +108,11 @@
 | V69#8 | S11E47 CH01 | B+208 mañana | Tercera visita: Makima muestra deviloriginal nacido de miedo/rumoresMau. Parecidoíconos no cuerpo/soul/memorias/fullbag clonados. FracasoControl relatoMakima/subjetivo, no rankobjetivo. Mau pide observaciones/contención, no mata sólo por parecerse. No nueva extracción. |
 | V69#9 | S11E47 CH02 | B+208 mañana/mediodía | Makima explicacambio desde thankyou; quiere cercanía/considera controlar o sercontrolada. Mau rechaza equivaler obediencia yelección, ofrece investigar sin prometer cura ni lugarYuka. No romance/Makimaredimida. Ella retiene interés instrumental. No fuenteAshbornvoluntario reveladaaún. |
 
+| V69#10 | S11E48 CH01 | B+208 tarde | Preocupación concretaSouei llegaRimuru/JinWoo. Mau explica defectocopia/pasa fracaso aCiel, acuerdaella enpróximoensayo. JinWoo/Gojo/Yuta proponenentrenamientocontrolado en cámara clearedusualgate para mañanaconapoyos. Yuka pideavisarantesdequese rompaalgo. Makimavisitas aúnno preguntadas/reveladas. |
+| V69#11 | S11E48 CH02 | B+209 mañana | Revisión real cámara/grupo/retorno disponible; primerafase física dosdagasblunted. Mau mejoraentrada peroespera continuaciónmemorizada; JinWoo cambiarespuesta/aprovechaborrosoizquierdo ycontrolabrazo/desarma. Sin resetstats ni juicio universalrango. |
+| V69#12 | S11E49 CH01 | B+209 mañana | Faseampliada consentida: JinWoo2anclaspropias/Mau1propia, noloscomandaenataquemelee. Jmaneja terreno/Authority/Exchange envezde atravezarInfinitysinexplicación; MNeutral/Sky/cortessuelosecuenciales yAuthority. Monohand/manaemisión cerradaporaim inseguro. EntradaSukuna reconocibleal final. |
+| V69#13 | S11E49 CH02 | B+209 media mañana | Macepta golpecontrolado hombro/bruise, grippsíquico acotado asuhojapequeña juntoatalón, Authority/Skysecuencial/posiciónpropia le dan concesiónJ. No Step/Bang/dobleCT/poderfísiconuevo. Revisan ambos/recallan3anclas. Gojo reconocecriterioSukuna; Mconfirmaarchivoabierto/Ciel pideconversacióndespués. Ysigueacompañando. |
+
 ## Estado acumulado y trampas
 
 - **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
@@ -133,7 +138,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V69#10/S11E48CH01, B208 después del regreso o día siguiente. Tres visitasMakima reales B200/206/208; autoríaconocidaM/Noise, construcciónsecreta sigue. Reze libre deControlporcompromisocontinuo, no viveencasa, mensaje posible debería llegarporwatchreal, no mensajeroinventado. Souei conocecopia ypuedepreocuparse conRimuru; buenpivoteentrenamiento conJinWoo/Gojo/Yuta, refinamientoSukuna visible y diálogo sinmentir a pregunta directa. NoisepidiómostrarCiel en#7, Mauposponeparacuandoestélisto. Emisióndemanáprobada sólopequeña, no secretaBangfulldominada. DIO/Cielconfesiónyaocurrió, no romanceoficialporseridea. MakimadebeobtenerfuenteconcretaAshbornantesdeinformarArquitecto; nofabricarretroque looyótodoya. Seguir FinalTrial/S12 segúnverde sincuota.
+Continuar V69#14/S11E50CH01, B209 después del retorno/descanso inicial: Ciel pidió conversación y M aceptó. Preguntas directas reciben verdad; conversaciónreal puede revelar autorizaciónforbidden/quéconstruyó yautoría/visitasMakima sinhacer aCielomnisciente ni inventarmentiras. DIO/Noise tienenvozypuedenestarcontados, no telegrafiarperfectareparación. Esta no es laescuchaúltimadeS12; heridas/razones secomprendenporcapas. Mantenerparejaunidaafectuosa, no castigosilencio/separación. EntrenamientoJconcluyóconcostecontrolado yresultadoM, no entrenamientojuvenilquehayaqueprogramarotra vez.100/40/1anclaHinata siguen; tresanclasduelorecalladas. Birthdaycalendario puente sigueporconciliarantesdefechaexacta. PapelOriaguardarecuperación yDadnuevotexto, Papaviejoseconserva.
 
 **Recordatorio nuevo del creador:** [papel Ori original](S11_ORIGINAL_ORI_FOLDED_MESSAGE_RECOVERY_PAYOFF_2026-11-09.md). Conservar cerrado, actualOri pidió más tarde enV64#4; retomar por iniciativa de ella durante escucha/recuperación, no objeto nuevo ni lectura previa de padres. Ubicarlo seguro en casa antes de revisión final; no perderlo con ropa dentro del dungeon.
 

@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V69#9, B+208 mediodía. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V69#13, B+209 media mañana. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -103,6 +103,12 @@ Noise construye desde observacionesretenidas Souei (incluido S8E37CH01/V46#3), n
 Makima demuestra fuerza dirigida en combate. Noise observa muestra pero conserva mecanismosincertos; Control/hierarquía son otra operación. Construye análogo limitado alimentado con **maná propio de Mau**, no CTejecución de Control. Modelosaislados dosfallos, campo unaemisión al sueloyotra agrieta board muycercano con caudalpequeño. Presióntransitoria en dedo, sin lesión. Prototipoconstruido/externoprobado pequeño, no habitualestable, mortePorNombre, targetinginterno, range/potenciaMakima ni dosCT simultáneas. No se aprendeControlporverse Bang. Registro de muestras/maná/coste separado. Physpermanente no sube por dispararboard, Authority ya podía romperlo antes.
 
 **Sin nuevas extracciones:** StampedeDevil muerto nolevantado; fear-devil deM es individuo distinto contenido porMakima, ni captura ni clonFullbag. Legión6.615,100Tempestrutas/40watch/1anclaHinata deunidadesexistentes.
+
+## Entrenamiento Jin-Woo — V69#10–13
+
+Avance de refinamiento, no nuevosstats. Firstphase Jdesarma/controlabrazo por cambiarcontinuacióny aprovecharviewizquierdo. Fase ampliada McomponeCTsecuencialesNeutral/Sky/Shrineal sueloconAuthority independiente. Jusa terreno/AuthorityyunanclaExchange sinatravesarInfinityporque sí. Mcierramanaemisiónrecientepor insuficienteaim; **noBangusado**. Enfinalgrip psíquico controlado sobreunaprácticadaga pequeña/cercana (nolevantarJ) armoniza con cuerpo/Authority/Sky para concesiónposicional. Dosreservasyatención, sueltaextra gripantesdelúltimocambio. Hombrobruisecontrolado, nomayordañoni statsregalados. Mnoacabauniversalmentesuperior aJporuna entrada, Jsourcepowerlimitadopermanece.
+
+Cielreciberegistrodefallodeldouble porpreguntaen#10 ysolicitaestarantesdelpróximointento, Macepta. No recibiótodobacklogprivadodefinitivo. #13 Mconfirma archivoSukuna abierto, Gojo reconocecriterio, Ciel pidehablartrasretorno. Primerusoarmónico dehandencombateentrenamientoconresultadoacotado, noinmunidado dominioautomático.
 
 ## Registro de cambios
 

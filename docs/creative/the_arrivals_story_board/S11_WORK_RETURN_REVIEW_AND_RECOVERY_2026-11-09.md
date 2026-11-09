@@ -14,6 +14,10 @@ Cambios limitados de auditoría: quitar color azul literal en ojos de Gojo desde
 
 ## Continuación
 
-Primer despertar más sostenido, atención escalonada, tiempo para Ciel/Noise/DIO y recuperación de rescatistas. Papel original de Ori sigue cerrado en cajón de casa: retomarlo por decisión de ella durante cuidado, no leer adultos primero. No reemplaza nota de Yuka ni compás.
+**Checkpoint escrito V71#20 / fin S11:** #17 primer despertar sostenido y admisión «Didn't know»; #18 cuidado de rescatistas/Noise por decisión propia; #19 primera noche con Yuka en cama acercada, pedido de amor/cercanía explícito; #20 Ori pide/abre/lee mensaje original, añade respuesta y toma custodia. Total regreso Work: siete capítulos, aproximadamente11.700 palabras; ninguna sustitución del dungeon de Claude.
+
+Papel Ori ya no está pendiente ni en cajón: V71#20 cumple promesa. La reparación física apenas empieza, no alta médica por cerrar temporada. S12 retoma B218 sin semanas de elipsis; columna/pie/muñeca/nutrición/escucha siguen. Rechazo de cuchara en #19 es semilla de recuerdo no explicado, no nueva tortura familiar real ni exposición completa automática.
+
+Plan inicial, ahora producido: primer despertar más sostenido, atención escalonada, tiempo para Ciel/Noise/DIO y recuperación de rescatistas. Papel original de Ori se retomó por decisión de ella, sin lectura previa de adultos. No reemplaza nota de Yuka ni compás.
 
 Cierre S11 puede descansar en primera noche acompañada; S12 continúa inmediatamente con reparación y escucha larga una vez Mau puede participar. No pausa de matrimonio, castigo de silencio ni curación mental por una frase. Calendario conserva celebración tardía de Yuka20/segundo aniversario, no insertar cumpleaños en ICU. Ningún nuevo test Rulers en plena reparación.

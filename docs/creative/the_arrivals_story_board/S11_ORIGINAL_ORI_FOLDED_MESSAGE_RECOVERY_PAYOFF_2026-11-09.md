@@ -1,5 +1,7 @@
 # Ori — El papel original que Mau guarda
 
+**ACTUALIZACIÓN PRODUCIDA: V71#20 / S11E73CH01, B+217 tarde.** Ori lo pide, Yuka trae caja/cajón de casa, nadie leyó antes. Ori abre primero, decide leer en voz alta mensaje infantil sobre dibujo/ventanas/Kaisel/familia; añade respuesta al margen y se lleva el papel doblado tres veces. **Custodia actual: Ori. Promesa de Mau cumplida.** No dejar como pendiente en cajón ni entregarlo otra vez después. La elección actual de Dad ya ocurrió antes de abrir; Frieren sigue Mum, Yuka esposa/amiga sin nombre impuesto.
+
 **Recordatorio vigente del creador, durante continuación S11:** «oye que no s ete olvide que la og ori le dio algo que mau guarda para ori entoences que no s ete olvide tal ves mientras esten enojados o en la recuperacion».
 
 ## Hechos comprobados en prosa

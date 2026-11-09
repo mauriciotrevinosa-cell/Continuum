@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 71 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — S11 v0.1
+**Status:** LN PRODUCTION DRAFT — S11 v0.1 — VOLUME COMPLETE
 **Volume:** 71
 **Season:** 11
-**Coverage:** S11E63–S11E71 (in progress; return and corrective care)
+**Coverage:** S11E63–S11E73 (complete; S11 closes with return and the beginning of recovery)
 **Volume title:** **What He Didn't Ask For**
-**Chapter files:** 16
+**Chapter files:** 20
 
-Inside, a season becomes a year and the field keeps taking whatever Mau learns. Outside, the house works through one night to reach him.
+Inside, a season becomes a year and the field keeps taking whatever Mau learns. Outside, the house works through one night to reach him. Coming home begins with the voices that can finally reach him, the repairs he could not make alone, and a folded message he kept safe.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_70_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md)
 
@@ -31,3 +31,7 @@ Inside, a season becomes a year and the field keeps taking whatever Mau learns. 
 | 14 | S11E70 | The Voice That Reaches Him | `THE_ARRIVALS_S11E70_LN_CHAPTER_01_THE_VOICE_THAT_REACHES_HIM_v0.1.md` |
 | 15 | S11E70 | What Has to Be Set Right | `THE_ARRIVALS_S11E70_LN_CHAPTER_02_WHAT_HAS_TO_BE_SET_RIGHT_v0.1.md` |
 | 16 | S11E71 | What He Asked Me to Tell You | `THE_ARRIVALS_S11E71_LN_CHAPTER_01_WHAT_HE_ASKED_ME_TO_TELL_YOU_v0.1.md` |
+| 17 | S11E71 | Her Side of the Bed | `THE_ARRIVALS_S11E71_LN_CHAPTER_02_HER_SIDE_OF_THE_BED_v0.1.md` |
+| 18 | S11E72 | The Others Who Came Home | `THE_ARRIVALS_S11E72_LN_CHAPTER_01_THE_OTHERS_WHO_CAME_HOME_v0.1.md` |
+| 19 | S11E72 | Until Morning | `THE_ARRIVALS_S11E72_LN_CHAPTER_02_UNTIL_MORNING_v0.1.md` |
+| 20 | S11E73 | The First Thing She Keeps | `THE_ARRIVALS_S11E73_LN_CHAPTER_01_THE_FIRST_THING_SHE_KEEPS_v0.1.md` |

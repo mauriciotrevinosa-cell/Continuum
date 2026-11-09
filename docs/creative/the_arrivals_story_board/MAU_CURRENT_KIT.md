@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V71#16, B+216 primera tarde / corrección inicial en clínica. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V71#20, B+217 tarde / inicio de recuperación acompañado. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -179,6 +179,12 @@ Mente: perdió la cuenta de los días (~día260); minimiza («a few months», «
 Canal Ciel reabre de verdad sólo tras cierre instancia; no hubo telemetría dentro. Noise comparte cronología médica acotada con Ciel/Shoko, no todo archivo traumático. No nuevo poder ni aumento de unidades (6.617). Legión exterior ya estaba desplegada; Beru/Igris alcanzan a Mau al regresar.
 
 Urgente: RCT externo coordinado; Shoko alinea y trata antebrazo derecho antes de consolidar, corrige mandíbula. Mau consiente sueño/ayuda en intervalo despierto. Siguen columna, muñeca izquierda, pie, cadera/quemaduras, desnutrición y agotamiento pendientes por etapas. No reset del cuerpo ni curación de daltonismo/blur/dedos viejos. Dagas, pack, anillo y diente preservados, papel Ori cerrado en casa. Yuka presente; Gojo le cuenta petición sobre puerta, Yuta devuelve papel de ella sin leer. Reflexo de tranquilizar no se convierte en falsa certeza de que Mau comprendió todo dentro.
+
+## Primera noche y papel Ori — V71#17–20
+
+No nuevo poder. Campo cerrado, herramientas retenidas pero el cuerpo no está en condiciones de combatir/ensayar. Secuelas viejas gris/blur/dedos y grandes cicatrices conservadas; pequeñas marcas pueden perderse al regenerar tejido arrancado, no limpieza universal de historia. Shoko sigue correcciones por etapas, no autoriza caminar en B217. Yuka cama acercada segura, no se separa por castigo; Mau admite desconocía que ella quería su vuelta, pide cercanía. Noise recibe compañía elegida DIO/Ciel por canal limitado sin entregar archivo completo.
+
+**Papel Ori original entregado y abierto V71#20**, por iniciativa de ella. Traído de caja/cajón, no estuvo en Final Trial. Ori primera lectora, comparte en voz alta, añade respuesta y toma custodia doblada tres veces. Ya no registrar como pendiente en manos de Mau; promesa cumplida. Nota Yuka separada sigue junto a cama.
 
 ## Registro de cambios
 

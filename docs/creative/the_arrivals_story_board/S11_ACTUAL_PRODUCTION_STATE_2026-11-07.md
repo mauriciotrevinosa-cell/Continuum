@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V71#16, B+216 primera tarde, clínica después del Final Trial (~368 días locales / ~24h32 fuera). Claude escribió V70#13–V71#13; Work continúa desde V71#14. V65 completo,30; V66 completo,18; V67 completo,17; V68 completo,20; V69 completo,20; V70 completo,20; V71 en curso,16: **141 capítulos S11 producidos**. Corrección corporal y primer reencuentro en marcha; escucha larga de S12 aún pendiente. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V71#20, B+217 tarde, cierre S11 en comienzo de recuperación tras Final Trial (~368 días locales / ~24h32 fuera). Claude escribió V70#13–V71#13; Work continuó V71#14–20. V65 completo,30; V66 completo,18; V67 completo,17; V68 completo,20; V69 completo,20; V70 completo,20; V71 completo,20: **145 capítulos S11 producidos**. S12 continúa inmediatamente corrección corporal/escucha larga, no salto ni recuperación concluida. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -164,6 +164,14 @@
 | V71#15 | S11E70 CH02 | B216 mañana-mediodía | Shoko dirige reparación con Yuta/Beru; antebrazo derecho alineado y mandíbula corregida. Mau acepta dormir/ayuda. Columna, muñeca, pie, quemaduras y nutrición pendientes por etapas; secuelas viejas siguen. Diente y pertenencias retenidos. Rescatistas reciben comida/descanso. |
 
 | V71#16 | S11E71 CH01 | B216 primera tarde | Gojo cuenta a Yuka petición de Mau sobre no estar en puerta; no se sostiene mentira del patio. Yuta devuelve papel sin leer, Yuka lo lee junto a cama. Ori visita con Frieren por permiso Shoko, dice Dad nuevo sin retcon Papa antiguo. Sin separación de pareja ni culpa por construir trampa. |
+
+| V71#17 | S11E71 CH02 | B216 última tarde | Primer despertar sostenido; Yuka lee su nota con permiso, rechaza supuesto guest room y aclara que quiere vida juntos y verdad. Mau admite que no sabía que ella lo quería de vuelta; no cura instantánea de todo el año. Come/bebe sólo tras revisión. |
+
+| V71#18 | S11E72 CH01 | B216 tarde-noche | Rescatistas reciben cuidado propio: Shoko/Gojo, Maki/Mai/Yuta, familia Jin-Woo y su Beru. Ori con Frieren/Fern/Rem/Umaru. Noise elige contar parte propia a DIO por Ciel/Rimuru, sin divulgar archivo Mau ni formalizar romance. |
+
+| V71#19 | S11E72 CH02 | B216 noche-B217 amanecer | Comida lenta y primer freno no explicado ante spoon; no nueva Yuka falsa. Ashborn confirma sigue donde eligió. Shoko plantea corrección por etapas, pequeñas marcas regeneradas difieren pero mayores/secuelas siguen. Yuka duerme en cama acercada segura; Mau dice amor y que la quiere cerca. Primera noche con despertares atendidos, no flota ni ensayo corporal. |
+
+| V71#20 | S11E73 CH01 | B217 tarde | Ori pide papel; Yuka trae caja del cajón. Abre primera, decide leer voz alta mensaje original de dibujo/ventanas/Kaisel, añade respuesta propia y se lo lleva. Elección Dad anterior no causada por carta. Visita acotada, no marcha autorizada ni alta. S11 cierra con descanso acompañado; S12 sigue reparación/escucha directamente. |
 
 ## Estado acumulado y trampas
 

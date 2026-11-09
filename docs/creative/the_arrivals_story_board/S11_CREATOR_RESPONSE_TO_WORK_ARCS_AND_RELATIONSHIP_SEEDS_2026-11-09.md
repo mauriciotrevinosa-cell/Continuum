@@ -88,3 +88,5 @@ Una posibilidad de orden: confesión/comedía mientras el secreto ya existe pero
 Para Makima, Work propone inicialmente interés por Noise como otra vía hacia Mau/lo que lo transforma, dejando abierto si algo afectivo distinto llega a crecer. Propuesta, no restricción al creador.
 
 **Próximo paso:** seguir recibiendo ideas de Mauri. Después discutir alcances, orden y cierre deseado; luego esqueleto y verde. No capítulos nuevos.
+
+**Ampliación posterior del creador:** [conversación de origen de Ori, ultimate dungeon, visitas repetidas a Makima, posible doble CT y planes de familia](S11_CREATOR_ORI_ORIGIN_ULTIMATE_DUNGEON_MAKIMA_AND_FAMILY_IDEAS_2026-11-09.md). La última versión del clímax conserva al Arquitecto vivo en poder de los Rulers; no ejecutar la antigua posibilidad de muerte definitiva sin revisar esa actualización.

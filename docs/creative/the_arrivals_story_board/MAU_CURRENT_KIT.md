@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V72#5, B+221 cena / rehabilitación y primera vuelta asistida a mesa. [Registro S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md) · [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Separar uso habitual consolidado de ensayo supervisado y de plano; la lista de posibilidades no equivale a poderes dominados.
+**Último estado producido consultado:** V72#8, B+222 tarde / recuperación y escucha ampliada. [Registro S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md) · [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Separar uso habitual consolidado de ensayo supervisado y de plano; la lista de posibilidades no equivale a poderes dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -193,6 +193,8 @@ Se corrige por etapas espalda/pie tras muñeca corregida B217. Mejor respuesta m
 V72#5/B221: visita breve a cena en silla con ayuda, no desplazamiento autónomo completo ni alta. Ningún nuevo uso de fuerza/CT por narrar mejoría. Mantiene inventario/shop/equipo, pero no necesita usarlos para sustituir cuidado elegido. Mai no carga CE por trabajo hecho en banco con material existente durante rehabilitación. Elige avisar Enough y volver a clínica.
 
 ## Registro histórico de cambios
+
+V72#6–8: verdad de ensayos de separación y pensamiento de no regresar ya contada a Yuka, parte de riesgo compartida con Shoko/Ciel por acuerdo. Mayor lenguaje/participación conforme sana, no pico nuevo ni alta. Clip elegido de agua/espalda compartido con Maki/Yuta/Mai/Frieren y acompañantes, no todo archivo. Resto de lesiones y unidades sin cambio. Fechas/emoción no equivalen a nuevo análisis habilitado.
 
 | Fuente | Cambio que se registra |
 |---|---|

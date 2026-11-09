@@ -1,6 +1,6 @@
 # S12 — Estado real de producción
 
-**Inicio:** continuación directa de V71#20, sin salto de semanas. **Último producido:** V72#5, B+221 cena. Cinco capítulos, S12E01–E03, volumen en curso. La recuperación no concluye porque la conversación exista.
+**Inicio:** continuación directa de V71#20, sin salto de semanas. **Último producido:** V72#8, B+222 tarde. Ocho capítulos, S12E01–E04, volumen en curso. [Dirección de cierre de arco](S12_RECOVERY_ARC_CLOSURE_DIRECTION_AND_STATE_2026-11-09.md). La recuperación no concluye porque la conversación exista.
 
 ## Escenas realmente escritas
 
@@ -10,6 +10,11 @@
 | V72#2 | S12E01 CH02 | B219-B220 mañana | Sentarse es esfuerzo propio, mareo reportado en vez de fine; descanso y correcciones del pie. Escucha guitarra Bocchi/Kita por ventana abierta por pedido, casa conserva vida. Jin-Woo recibe agradecimiento y no deuda por rescate. Primeros pasos apoyados con Yuta/Jin-Woo, distancia sólo cama-silla; no alta ni combate. M pide grupo pequeño para hablar después de descansar, Ciel ayuda cronología sólo preguntando. |
 | V72#3 | S12E02 CH01 | B220 tarde | Grupo escogido Yuka/Rimuru-Ciel/Shoko/Gojo y DIO invitada después. Reconocen ya sabía casa hechos Makima/forbidden/Ashborn antes de trampa; explica por qué decidió aun sabiendo que le dirían no. Sufrió paralelo Frieren-Yuka; felicidad real podía coexistir con miedo no tratado. Ciel/DIO expresan daño por secreto, Noise responde que debe aprender. M no excusa ni carga culpa a Noise. Pausa por fatiga sin abandono. |
 | V72#4 | S12E02 CH02 | B220 última tarde | Describe lesiones con minimización, grupo pregunta duración/acción concreta. Ciel/Noise corrigen fechas con permiso (tres meses junto a dragón, año total ~368). Explica sentir dungeon como lugar/intervalo excluido al volver al día anterior, no amnesia literal ni tiempo cambiado afuera. Cuchara lleva a recuerdo falso-Yuka del trial Rulers V53#12, claramente anterior/no Yuka real/no nuevo castigo Ultimate. Panic se acompaña con permiso/contacto y pausa. Comparte pedido propio Noise Stay...For me con consentimiento. Yuka sigue enfadada por secretos y afectuosa presente. |
+
+| V72#5 | S12E03 CH01 | B221 cena | Visita asistida breve a mesa, transportado; pide compañía y elige Enough antes de forzar más. Sin alta ni combate. |
+| V72#6 | S12E03 CH02 | B221 noche | M cuenta a Yuka pensamiento real/ensayos de salida, incluir Ori y seguir protegiendo casa a distancia; creyó ella mejor si no regresaba. Yuka herida, responde quiere esposo en hogar/vida. Él reconoce quiere estar ahora, pide apoyo al despertar y admite mentira reflejo patio. |
+| V72#7 | S12E04 CH01 | B222 mañana | Cuenta acotada Shoko/Ciel, Yuka procesa con Mai sin divulgar todo, sale y vuelve expresamente. M pregunta si lamenta oír, acepta respuesta no y cercanía/beso/almuerzo. |
+| V72#8 | S12E04 CH02 | B222 tarde | Maki/Yuta/Mai/Frieren escuchan, un clip elegido sobre agua/espalda a receptores voluntarios, sin archivo entero. Ellos no veían heridas: cuentan rescate/niña con Yuka. Pertenencia sin eximir secreto; acuerdos anticipar conversación y comunicar salidas. |
 
 ## Estado al checkpoint
 

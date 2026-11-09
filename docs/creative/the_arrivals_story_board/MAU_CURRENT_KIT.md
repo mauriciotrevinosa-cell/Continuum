@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V68#20, B+204 día. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V69#4, B+205 noche. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -93,6 +93,10 @@ V68#10 prueba externamente el regulador: overshoot cortado, dos sujeciones breve
 ## Despliegue y auxilio — V68#19–20
 
 Legión total sigue6.615. **100 soldados ordinarios ya desplegados** para rutasTempest con instrucciones autorizadas aSouei y señales/reportes ensayados; no transferencia de lealtad,100creaciones ni mando sobre todoejército. CuarentaMuster de watchcasa mantienen puesto. **Una unidad ordinaria adicional de la reserva** sirve como ancla consentida Hinata: reporte según condiciones/alerta, posibleExchange si disponible, cierre a petición y remoción probada antes de renovar. No lectura mental, vigilancia privada genérica, extracciónautomática sin condiciones ni cadenciagarantizada. Propuesta Luminous sigue pendiente de cuentasrutas, no otro100aprobado.
+
+## Doble físico incompleto — V69#1–2
+
+Noise construye desde observacionesretenidas Souei (incluido S8E37CH01/V46#3), no nueva demoautorizada. Prototipo sostieneforma/paso/vista local breve. Alejarlo estira un boundary interno deMau; cierraantesderotura/lesión. Modelo acotado de shellconobservación dura lo suficiente para ver caerhoja, sin distanciaútil. No segundoindividuo, huésped, legión extra o fullkitcopiado. Souei rehúsa demostración más cercana y conoce prototipo por admisión directa; no aporta mecanismo ni permiso por negarse. Mau continúa estudiando lo retenido, sin prometer suspensióngeneral. Step corporal todavía noejecutado.
 
 ## Registro de cambios
 

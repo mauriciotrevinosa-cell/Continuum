@@ -9,7 +9,7 @@
 
 The house wakes after a shared night. Ori asks about where she came from, then chooses what she wants to call the people beside her.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_67_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md) · [Continuation scope](the_arrivals_story_board/S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_67_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_69_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md) · [Continuation scope](the_arrivals_story_board/S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md)
 
 ## Reading order
 

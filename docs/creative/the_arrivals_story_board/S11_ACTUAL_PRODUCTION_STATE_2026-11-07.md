@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V68#20, B+204 día. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 completo,20: **85 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V69#4, B+205 noche. V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 completo,20; V69 en curso,4: **89 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -97,6 +97,11 @@
 | V68#19 | S11E42 CH02 | B+203 mediodía/tarde | Casa/visitas/Hollis/Fern/Jinshi estudian riesgos concretos con Fort observando. Ofrecen100unidades existentes a rutasTempest, prueba y despliegue después. Luminous pide estudiar ruta propia, sin otro100 automático. Hinata consiente anclaordinaria de alerta/Exchange, prueba llamada y retirada/renovación; cuenta separada. |
 | V68#20 | S11E43 CH01 | B+204 mañana/día | Fort prueba señales y corrigeconfusiones. Despliegue físico100ordinarios existentes bajo tareas delegadasSouei;40Muster siguen. InspecciónM/R/Y/Hollis con primergrupo marca terreno inseguro sin arregloinstantáneo. Luminous pide que preguntena brujas sobre té, aún no sesión. MY cumplen rato propio. CierreV68, no S11. |
 
+| V69#1 | S11E43 CH02 | B+205 mañana | Prototipo doble físico de observaciones retenidas Souei tiene forma/paso/vista breve. Al separar posiciones extiende boundaries internos y se cierra antes de lesión. Último modelo local acotado devuelve vista breve sin distanciaútil; no segunda persona/ejército/poderescompletos ni permisoSouei. |
+| V69#2 | S11E44 CH01 | B+205 media mañana | Mau pregunta demo técnica aSouei, admite prototipo al preguntarle. Souei se niega, Mau acepta sin presionar ni recibir mecanismofaltante. Souei conoce experimento concreto, no todo forbidden/Makima. Mau decide seguir mirando con registros retenidos. |
+| V69#3 | S11E44 CH02 | B+205 tarde | Luminous toma té físico con brujas que aceptan. Voces/temas propios, no inspección de guestspace. Retorno cada dossemanas propuesta a coordinar, no sesiónperpetua concedida. |
+| V69#4 | S11E45 CH01 | B+205 noche | DIO/Ciel confiesan sentimientos aNoise en guestarea existente. Habían acordado estar dispuestas a compartir, no deciden por él. Friends?/Wife?/TwoWives, Mau atiende llamadaayuda y se ríe. Noise pide tiempo, ellas aceptan; amistad intacta, sin matrimonio/sexo/romance automático ni perdón de secretos aún ignorados. |
+
 ## Estado acumulado y trampas
 
 - **Jin-Woo:** eligió y cedió acceso superior #26, cruce/cierre #27. Base disponible por encima National/etapa Thomas,100 vínculos seleccionados incluyendoBeru; experiencia/técnicas conservadas, crecimiento posterior posible. Cinco familiares ya aquí, huéspedes en alojamiento temporal: Hae-In, Suho, Jin-Ah, padres. Resto despliegue liberado tras deberes origen, no asesinado/absorbido por Mau. Referencia estructural ofrecida a Noise no trae potencia original a Mau ni impone a su legión el límite100.
@@ -122,7 +127,7 @@ Demostración de escoba y primer test local de señal están completos en escena
 
 ## Continuación inmediata
 
-Continuar V69#1/S11E43CH02, B204 después de tiempo con Yuka o B205 si escena lo requiere. Primera visita privadaMakima ya cumplida B200, segunda por producir. Ciel/Noise/DIO relaciones y secretos crecen entre entrenamiento/vida de casa. Construir defecto del doble antes de pedirle demostración aSouei; no hacer que permiso negado conceda poder. Step corporal falló y se abortó sin traslado; manos mejoraron pequeño. Luminous/Hinata/Souei ya huéspedes temporales miniInn, no mudados permanentes.100soldados desplegados,1anclaHinata,40house sin pérdidas/nuevosvínculos. Luminous quiere té con brujas, todavía falta consultar. CenaMarin cumplida. Reanudar en índice69 nuevo sin resetear sourceepisode.
+Continuar V69#5/S11E45CH02, B206: segunda visitaMakima por producir, con observaciones/combate/Reze en escenas completas. PrimeraB200 autoría confesada sóloM/Noise. DIO/Ciel ya confesaron aNoise, él pide tiempo; no repetirconfesión como pendiente. CopyprototipoynegativaSouei ya producidos, defectoanálogoStep interior, sin controlremotoestable. TéLuminous cumplido, próximasfechas porcoordinar. Entrenamiento dondecrecimiento visible porproducir; preservar privacidadnopoderocultamientoperfecto. Continuar hasta FinalTrial y reparación S12 segúnverde, sin ajustarhistoria a cuotasvol/caps.
 
 **Recordatorio nuevo del creador:** [papel Ori original](S11_ORIGINAL_ORI_FOLDED_MESSAGE_RECOVERY_PAYOFF_2026-11-09.md). Conservar cerrado, actualOri pidió más tarde enV64#4; retomar por iniciativa de ella durante escucha/recuperación, no objeto nuevo ni lectura previa de padres. Ubicarlo seguro en casa antes de revisión final; no perderlo con ropa dentro del dungeon.
 
